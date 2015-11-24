@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%9A%84%E8%83%A1%E8%80%80%E9%82%A6%EF%BC%9A2013-vs-2015/" target="cdt-mirror">【立此存照】央视中的胡耀邦：2013 vs. 2015</a>
+</h2>
+<p><p><strong>2913年8月：</strong></p>
+<p>央视报道秦火火案时，背景画面中赫然出现过以下文字：</p>
+<blockquote><p>秦火火一方面造谣污蔑毛泽东和共产党，<strong>另一方面却极力美化蒋介石、胡耀邦和美国</strong>。</p></blockquote>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%A7%A6%E7%81%AB%E7%81%AB%E7%BE%8E%E5%8C%96%E8%83%A1%E8%80%80%E9%82%A6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%A7%A6%E7%81%AB%E7%81%AB%E7%BE%8E%E5%8C%96%E8%83%A1%E8%80%80%E9%82%A6.png" alt="秦火火美化胡耀邦" width="500" height=""></a><p>央视新闻视频截图</p></div>
+<p><strong>2015年11月：</strong></p>
+<p><strong><a href="http://news.xinhuanet.com/politics/2015-11/20/c_1117212025.htm">新华网｜电视文献片《胡耀邦》、《胡耀邦画册》隆重推出</a></strong></p>
+<blockquote><p>为纪念胡耀邦同志诞辰100周年，由中共中央党史研究室和中央新影集团联合摄制的五集电视文献片《胡耀邦》，11月20日起在中央电视台综合频道播出。<br>
+电视文献片《胡耀邦》以清晰的历史逻辑、丰富的史料素材和珍贵的影像资料，全面记述了胡耀邦同志光辉的一生，重点展现了他在中国革命、建设、改革波澜壮阔历史进程中的卓越业绩和优秀品格，热情讴歌了他为中国革命、建设、改革作出的重要贡献。</p></blockquote>
+<p><strong><a href="http://www.nanzao.com/sc/national/15132589f7f7a07/yang-shi-hu-yao-bang-ji-lu-pian-ren-min-ri-bao-tou-ban-bao-dao-zao-cuan-gai">南华早报｜央视胡耀邦纪录片 《人民日报》头版报道遭篡改</a></strong></p>
+<blockquote><p>为纪念胡耀邦诞辰百周年，央视播出了共有五节的纪录片，在其中一段中，出现了一份33年前出版的《人民日报》，但上面赵紫阳的头像不见了。</p>
+<p>央视片段中出现了一份《人民日报》，头版标题是“胡耀邦任总书记邓小平任军委主席”，但时任中共中央政治局常委的赵紫阳的头像，则被李先念的头像取代，当时，李先念在顶级领导层中的排位比赵紫阳低。李先念的头像原本是放在报纸对折线下的第二排领导人头像中的。</p>
+<p>央视的纪录片还改变了那份《人民日报》头版报道的副标题，将赵紫阳的名字从句子中去掉，副标题中原本有6名政治局常委的名字。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg" alt="22" width="500" height="687"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/33.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/33.png" alt="33" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png" alt="444" width="525" height=""></a></p></blockquote>
+<p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%B9%A0%E9%A9%AC%E4%BC%9A%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%8E%90%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%87%B4%E8%BE%9E-%E8%A2%AB%E7%BD%91%E6%B0%91%E6%89%B9%E4%B8%8D%E8%87%AA/"> “习马会”央视直播掐马英九致辞 被网民批“不自信”</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%A6%82%E4%BD%95%EF%BC%9F/">【立此存照】央视在网络的公信力如何？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/05/%E6%9E%9C%E5%A3%B3%E7%BD%91%EF%BD%9C%E9%A1%BE%E6%9C%89%E5%AE%B9%EF%BC%9A%E3%80%8A%E8%88%8C%E5%B0%962%E3%80%8B%E7%9A%84%E7%88%AC%E6%A0%91%E5%8F%96%E8%9C%9C%E9%80%A0%E5%81%87%E8%AF%81%E6%8D%AE/">果壳网｜顾有容：《舌尖2》的爬树取蜜造假证据</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/01/cctv%E3%80%81%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%80%E6%8F%8F%E5%86%99%E5%8F%8A%E8%AF%81%E5%AE%9E%E7%9A%84%E5%8D%8E%E8%A3%94%E5%A4%A7%E5%A6%88%E5%BC%80%E5%AE%9D%E9%A9%AC%E9%A2%86/">意田：CCTV、人民日报所描写及证实的“华裔大妈开宝马领救济卡被证实为造谣”</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/12/%E5%A4%AE%E8%A7%86%E7%BA%AA%E5%BD%95%E7%89%87%EF%BC%9A%E4%B9%94%E6%B2%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%8E%B0%E8%BA%AB%E5%8D%97%E5%8C%97%E6%88%98%E4%BA%89/">央视纪录片：乔治华盛顿现身南北战争</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/06/%E5%A4%AE%E8%A7%867%E5%A5%97%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%AD%A6%E8%AD%A6%E3%80%8B%E7%BA%AA%E5%AE%9E%E7%89%87%E8%A2%AB%E6%8C%87%E4%B8%BA%E5%BD%BB%E5%BA%95%E9%80%A0%E5%81%87/">央视7套《中国武警》纪实片被指为彻底造假</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2012/11/%E7%BD%91%E6%9B%9D%E5%A4%AE%E8%A7%86%E6%8A%A5%E9%81%93%E6%AD%BC31%E6%89%80%E7%94%A8%E8%83%8C%E6%99%AF%E5%9B%BE%E7%BA%B8%E7%96%91%E4%BC%BC%E9%AB%98%E8%BE%BE%E6%88%98%E6%9C%BA/">网曝央视报道歼31所用背景图纸疑似高达战机</a></li>
+</ul><hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%9A%84%E8%83%A1%E8%80%80%E9%82%A6%EF%BC%9A2013-vs-2015/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">胡耀邦诞辰100周年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%96%87%E5%B1%B1%E5%A8%83%EF%BC%9A%E6%A8%8A%E4%BA%AC%E8%BE%89%E5%A6%82%E4%BD%95%E5%9C%A8%E5%BE%AE%E5%8D%9A%E4%B8%80%E6%AD%A5%E6%AD%A5%E6%88%90%E4%B8%BA%E7%8E%8B%E5%8A%9F%E6%9D%83/" target="cdt-mirror">文山娃：樊京辉如何在微博“成为”王功权秘书、叙利亚带路党</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%81-e1448091388425.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E4%B8%8D%E4%BF%A1%E6%8A%AC%E5%A4%B4%E7%9C%8B%E8%8B%8D%E5%A4%A9%E9%A5%B6%E8%BF%87%E8%B0%81-e1448091388425.jpg" alt="不信抬头看苍天饶过谁" width="550" height="336"></a><br><em>（网络图片）</em></p>
@@ -892,55 +923,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%97%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%AF%91%E8%AF%BB-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B2%BB%E4%B8%8B%EF%BC%9A%E6%94%BF%E6%B2%BB%E7%AC%AC%E4%B8%80%EF%BC%8C%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%BA%8C/" target="cdt-mirror">译读 | 习近平治下：政治第一，经济第二</a>
-</h2>
-<p><p>本文原载于<a href="https://www.foreignaffairs.com/articles/china/2015-10-14/lenin-s-chinese-heirs">Foreign Affairs</a></p>
-<p>编译/荆棘伊甸 & 杨雪</p>
-<p>对中国领导人而言，整整三十五年来经济是头等大事：如何确保经济持续快速增长。增长对中国而言重要性极高，实际上在后毛时代，领导层已经习惯用增长解决广泛存在的政治和社会问题。</p>
-<p>举例而言，中共身为非经选举上台的执政党，面临潜在的反叛和维稳压力，为确保公众的支持，显而易见的战略就是要实现快速经济增长，提高数百万中国人的生活标准，拉拢潜在的不满源头。对外政策也是一大例证，北京就在用增长和市场在亚洲和全世界拉拢关系。</p>
-<p>如果经济真的是北京心头的头等大事，那么经济放缓之后，合理的预期是政府会在这上面加倍努力。过去这一年，经济上的坏消息接踵而至：指标疲软，股市不稳，中国所谓“点石成金”式的经济管理能力严重失信于人。麻烦成堆，习主席要关心的头等大事，非经济莫属。</p>
-<p>但矛盾就在于，目前中国领导人花了最多心思的反而是政治。习首个任期（2012-2017年）的核心要务并非经济再平衡，而是重建并拓展中共的触手。前几任坐在习这个位子上的人都认为，搞好经济是确保党可信度和政治成功的秘密武器。但习不这么想，他认为有了强大、可靠的政党，才能推行必要的经济改革，让中国扮演21世界大国的角色。</p>
-<p>事实上，从2012年11月缓缓步出人民大会堂红色帘幕，登上中国最高位的第一分钟起，他的重点就毫不含糊：首先，党要更清廉；其次，党纪更严；接着，党更为强健，历久弥新。因此，在中国总是相互牵绊的政治与经济变得更加紧密，其紧密程度，或许是一代人都未见的。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%881.44.41.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%881.44.41.png" alt="Screen Shot 2015-11-21 at 下午1.44.41" width="550" height="366"></a><br>
-2015年9月30日，中华人民共和国成立66周年纪念日前夕，习近平抵达人民英雄纪念碑。</p>
-<p>要整肃党纪，意味着要牺牲前几代领导人对短期增长的执念。不仅如此：整肃、重建中共的目标，直接约束了政府对经济的管控，尤其是因为习把技术官僚卷进了波谲云诡的精英政治。</p>
-<p>挽救政党起码意味着，经济政策会进入一段不稳定时期。但习近平自有自己的一套。有些评论人士认为目前的经济政策进展混乱是“管理不善”的恶果，但这实际上是领导层更关注政治和党建，深思熟虑后的结果。</p>
-<p><strong>有中国特色的政治与市场关系</strong></p>
-<p>2015年大多数时候中国经济都不怎么样，一系列经济数据不佳，加之夏季股市震荡和货币贬值，全球经济大受震动，大宗商品出口与道琼斯指数均受波及。世界第二大经济体，计量单位要用十万亿的庞然大物，以前一直高奏凯歌保持着8%增长，而现在连投资者都怀疑其能否保持7%的增长。</p>
-<p>但市场却没能正确理解领导层的重点转移。一方面，业界和投资者已经习惯了上任总理温家宝的逻辑，在下行周期总会注入资金支持投资、刺激增长，有些投资者甚至给这起了个浑名。由于目前的下行周期未见回暖的实质迹象，许多人认为习近平的团队在经济这一块儿已经惊慌失措了。但北京看似较为放松，坚称就业良好，市场改革按步推进。</p>
-<p>当然了，北京故意保持信息不透明、沟通不畅通，自然也没能让自己的说辞更有说服力。有人说官员不再有管理经济的妙手，但很少有官员会担心这一点。市场的恐慌与中国官员表面上的放松何以能共存？敞开了说，症结就在于领导层的目标变了。</p>
-<p>只要经济不至于崩溃（看起来没那么迫在眉睫），领导层还是愿意把重点放在重建中共。有些重要改革也的确在推进，举例而言，九月决定放开数百项价格，让市场决定天然气和电力价格。更困难、政治上更敏感的改革已经被搁置或暂停，让党有时间自行修复。</p>
-<p>一旦中共实现了“自我调整”，成为高效的统治机构，中共就可以着手搞复杂的经济改革和治理，引领中国的发展之路。至少他们是这么想的。他们觉得更团结、优良、“纯洁”、“自律”的政党才可以开展改革，也可以避免因为裙带关系获利，失去民众的支持。</p>
-<p>从另一角度看，领导人希望在严肃党纪的同时，推动重大经济改革。但习和他的拥趸似乎相信，如果不能大幅打压党内已经根深蒂固的权贵资本主义，经济无法改善，改革长期而言终究会失效。</p>
-<p>如果北京真想重塑中共，必须忍耐短期经济阵痛，加上不稳定性大增，以及对经济更大范围的溢出效应。这些选择充满风险，也将书写习近平掌权十年的成绩单。如果他能做到，日后人们提到他，说的就会是这些。</p>
-<p>宝宝大发钱的年代已经结束，取而代之的是平平大下注。2012年11月就任中共中央总书记之后，他在第一次发表演说时，就昭告天下他的执政重点和列宁主义倾向，尽管当时没引起广泛关注。事后诸葛亮可以说，当时他的表态就是坦然承认存在的问题，并昭示了未来的举措。</p>
-<p>习近平讲得很清楚：“新形势下，我们党面临着许多严峻挑战，党内存在着许多亟待解决的问题。尤其是一些党员干部中发生的贪污腐败、脱离群众、形式主义、官僚主义等问题。”</p>
-<p>新领导人上任说要打击内部腐败，人们自然对此持怀疑态度。此前反腐往往是短命的，且目的是打击政治对手。但习近平发起的反腐不一样。他的“打铁”行动可以说是人们记忆中最广泛最严厉的一次反腐努力。</p>
-<p>从习开出的诊断中可以看出，他认为腐败是一种党内癌症，会四处转移。因此中纪委收到命令，要在党身上动手术，切除病灶。</p>
-<p>中纪委曾经名不见经传，现已成为最为人畏惧、最有政治影响力的机构，时常警告党员“达摩克里斯之剑”在头顶高悬。当中纪委检查组冲进某一机构，干部总是心惊胆战，或索性跑路。中纪委还发起了“猎狐”行动，追其到天涯海角。</p>
-<p><strong>官僚资本主义愈演愈烈</strong></p>
-<p>习反腐的严厉超常，很大程度上是因为中国大势变化。尽管中国领导人总是在担心腐败会毁了党，人民共和国1949年立国以来大多数时候都很穷，所以理论上也没有什么好贪的。但1980年以后，数十年的改革带来了众多机会，滋生了更多的腐败和权利寻租。</p>
-<p>可以说，江泽民时代（1989-2002年）发起的“三个代表”意识形态运动，让形势愈发恶化。三个代表的一大目的就是把党票发给中国最有权势的企业家和私营领域利益人士。党成为了资本主义的安全港，党也就实际上代表了中国全部的权势人群。</p>
-<p>但三个代表未能预料到的结果是模糊了党商之间的界限。各级干部都钻进钱眼里，从满身流钱的繁荣经济中分到一份改革红利。腐败党员甚至全家出动，形成了臭名昭著的太子党和其朋党。权贵资本主义逐渐固化，接下来的胡温时代接着恶化，公众逐渐有所察觉。</p>
-<p>广泛的不满情绪暗流涌动，名义上的“共产”党在大众眼中已经成为贪赃枉法、侵犯公共利益的宵小之辈。当时的高层领导人似乎无力作为，或不愿作为来阻止腐败招摇，党看上去毫无纪律可言，成了脱缰野马。</p>
-<p>习就是在这种困境中上台的，他要做的显然就是清理门户，重新让公众归心。背后支撑的逻辑就是共产党是唯一能够、应该领导中国的机构，习近平所用的方法，包括重新加强意识形态宣传，强调纪律，和手术刀式的精准反腐，似乎目的就是打压权贵资本主义。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%881.45.56.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%881.45.56.png" alt="Screen Shot 2015-11-21 at 下午1.45.56" width="550" height="364"></a><br>
-2015年7月13日，73岁唐又羽（音译）头戴牛仔帽，架着太阳镜，站在中国上海一家证券公司的股票信息电子大屏幕前。他在股市里折损了一半财产，但还是希望有天翻本。</p>
-<p>为了收回三个代表理论的影响，习近平还通过安插党支部，巩固党在私企和社会团体的存在——而非反其道行之，与其保持距离。江发明的说法让党进一步成为权势群体的发言人。但对习近平而言，党本身就是理所应当的权势群体。</p>
-<p>所以习近平团队的目标是抓回控制权，整肃纪律。战略的中心就在于改变激励模式，让党员不至于那么容易就沉溺于追逐经济利益，不至于争相利用政治权力获取财富。反腐运动首先打击的是习的政治对手和他们所盘踞的领域——譬如能源。他在该领域中打下了一连串的老虎。</p>
-<p>习近平将决策权集中起来的速度令人惊讶，就连很多中国官僚也吃了一惊。习建立了许多党口上的领导小组，将权力从政府官僚手中一下子收回，通过党的渠道拿到最高层手中。众所周知，习近平身边有一小群备受信任的幕僚和心腹。</p>
-<p>许多拟议中的经济改革实际上会损及权贵官僚的利益，故集权显然符合政治逻辑。想想九月的价格放开、强化市场作用的决策。这一改革将限价项目从100项降低到了20项，也将国家管制价格的项目数量减少了一半。</p>
-<p>作出这项决策之前，中纪委刚刚将国家发改委价格部门几乎整个领导层一网打尽。这绝非巧合。</p>
-<p>习的逻辑：先出政治重拳，再加以经济改革。这也许能部分解释为什么现在的经济管理反而不如以前成熟。官僚体系中的技术官僚往往顶在政策制定协调和决策的第一线，而这些人就有一部分被打了下来。与此同时，党口中央集权的速度极快，也可能让政府机构深感困惑，变得行动僵硬、毫无成果。</p>
-<p>总而言之，习近平和他的团队是下定决心要让中共瘦身、精干。他们有这个能力，也有这个精力。但在此过程中若限制政府能动，经济和发展的决策可能会更加迟滞。加之还要同时应对改革和经济放缓，事情会变得更复杂。习近平的政治雄心很可能让其他政策领域缺氧窒息。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%AF%91%E8%AF%BB-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B2%BB%E4%B8%8B%EF%BC%9A%E6%94%BF%E6%B2%BB%E7%AC%AC%E4%B8%80%EF%BC%8C%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%BA%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%8C%82%E5%B8%85/?category=18271" rel="tag">政治挂帅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E6%96%87/?category=18271" rel="tag">译文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -952,7 +934,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -962,5 +944,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

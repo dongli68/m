@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E5%AE%B6%E5%B1%9E%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E4%B8%BA%E5%90%8D/" target="cdt-mirror">自由亚洲 | 张六毛家属被警方以“寻衅滋事”为名传唤</a>
+</h2>
+<p><p>在广州，活动人士张六毛在被关押期间死亡已经20天。张六毛的姐姐张五洲及妹妹张唯楚因死者遗体遍布伤痕，质疑他在押期间遭警方酷刑虐待致死。11月24日，广州警方致电张五洲称，她和妹妹涉嫌寻衅滋事，要她们到派出所报道。张五洲认为，这是当局为了阻止他们追寻真相而采取的威胁手段。</p>
+<p>张六毛的姐姐张五洲、妹妹张唯楚11月24日接到广州警方电话，称她们涉嫌“寻衅滋事”，要对她们进行传唤，让她们前往派出所报道。</p>
+<p>张五洲当天下午接受本台采访时正在前往与妹妹会合的路上，她告诉记者，警方称她在11月6日涉嫌袭警，她的妹妹则被指毁坏垃圾筒。张五洲认为，当局为了阻止他们追寻真相，就以这样的手段进行威胁。</p>
+<p>张五洲：“我住的地方离广州市很远，差不多坐了两个小时的公共汽车。现在去跟妹妹会合一下。”</p>
+<p>记者：“我想问下今天早上是怎么样一个情况？”</p>
+<p>张五洲：“今天是石井派出所打电话过来，传唤我跟我的妹妹，说我们涉嫌寻衅滋事，说上次妹妹砸他的垃圾筒，说我打了警官。是因为那天他们一而再、再而三地欺骗我们，等得不耐烦了，当时在看守所有个垃圾筒，我妹妹可能就拿垃圾筒发泄了两下。那个警官就过来要把我妹妹抓起来，我就冲到那个人的面前去了。我说，你现在都把人打死了，你还要抓人啊？然后他就在我面前摆威风。我当时就指着他，我说，你还这么狂妄。在那种时候，究竟打没打他，我也搞不清楚。他们意思我打了他。就这个理由。”</p>
+<p>记者：“您说的这个事情是发生在什么时候？”</p>
+<p>张五洲：“是我弟弟死了的第三天，（11月）6号。”</p>
+<p>记者：“隔了这么久他们现在又来翻旧账？”</p>
+<p>张五洲：“对。他现在就是怕我们追真相，所以要把人抓起来，你们就没有人在外面，联系不了了。（准备）把律师先请好。他们都是流氓来的，所以采取这种手段来威胁我们。”</p>
+<p>张五洲还告诉记者，当局对张唯楚的单位施压，令她丢了工作。她们湖北老家的公安也找到身在家乡的哥哥，向其索要她本人和张唯楚的电话，并对哥哥进行施压。张五洲说，她与妹妹准备于翌日前去派出所接受传唤，担心此去凶多吉少，但无论如何也不会放弃追寻真相。</p>
+<p>张唯楚也在社交媒体上发布消息说，她本人不怕坐牢，只是担忧1岁3个月大的儿子无人照料。</p>
+<p>曾经陪同家属维权的陈进学律师11月24日告诉本台，他目前与张家姐妹在一起，家属已签署授权委托书，他会为她们提供帮助。</p>
+<p>陈进学：“我现在和张七毛（张唯楚）在一块儿，他们现在只是派出所打来电话给张五洲，让她们去派出所报道，但是没有出示正式的传唤手续。他们就是要恐吓家属。”</p>
+<p>记者：“您会帮助他们。”</p>
+<p>陈进学：“对，张七毛已经签了授权委托书，张五洲也会再签一份授权委托书。”</p>
+<p>今年11月4日，被指“寻衅滋事”及“煽动颠覆国家政权罪”的广东公民张六毛在押期间死亡，遗体上遍布伤痕。官方称死者死于鼻咽癌合并大出血，属正常死亡。对此，家属表示质疑，近20天来，家属一直在努力追寻亲人的死亡真相。</p>
+<p>（特约记者：扬帆；责编：胡汉强/嘉华）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E5%AE%B6%E5%B1%9E%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E4%B8%BA%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E7%AC%AC%E4%B8%89%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">广州第三看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B%E5%AE%B6%E5%B1%9E%E8%A2%AB%E4%BC%A0%E5%94%A4/?category=18271" rel="tag">张六毛家属被传唤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80%E5%91%BD%E6%A1%88/?category=18271" rel="tag">看守所命案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%9A%84%E8%83%A1%E8%80%80%E9%82%A6%EF%BC%9A2013-vs-2015/" target="cdt-mirror">【立此存照】央视中的胡耀邦：2013 vs. 2015</a>
 </h2>
 <p><p><strong>2913年8月：</strong></p>
@@ -887,42 +918,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%97%8F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2-%E5%BC%BA%E4%BA%BA%E6%94%BF%E5%BA%9C%E5%B8%A6%E6%9D%A5%E6%97%8F%E7%BE%A4%E5%92%8C%E5%B9%B3%EF%BC%9F%E5%8D%A2%E6%97%BA%E8%BE%BE%E7%9A%84/" target="cdt-mirror">敦伦政经学院 | 强人政府带来族群和平？卢旺达的反例</a>
-</h2>
-<p><p>作者：小墙</p>
-<p>原标题：《族群与宗教冲突的政治经济学：三个国家的故事(上)》</p>
-<p dir="ltr">族群冲突与宗教冲突的新闻常常出其不意地攻陷我们的荧屏，播撒着恐惧的种子。愤怒而怯懦的旁观者有时会提出一种霍布斯式的解决的方案：如果有一个卡扎菲、巴沙尔式的世俗专制的政治强人独揽大权，这些惨剧就不会发生。但是对族群冲突和宗教政治的定量研究并不支持这种判断。</p>
-<p dir="ltr">一、卢旺达：“强人和平”的失败</p>
-<p dir="ltr"><strong>强人政治极少有维护族群和谐的动机。</strong>尽管“强人政治”的说法令人迷惑，但没有任何政权是一个人一手控制的、完全自主的超级利维坦。任何人的统治都依赖或大或小的统治联盟支持(de Mesquita & Smith 2011)。<strong>在族群割裂的国家，“强人”</strong><strong>政府通常依赖一个族群支持来维持统治，</strong><strong>如果仇恨和冲突帮助他们巩固这种支持，他们很乐意火上添油。</strong>近些年，对惨绝人寰的卢旺达大屠杀的计量经济学研究，让我们对这个规律有了更加深刻的认识。</p>
-<p dir="ltr">我们不妨先了解一下屠杀的背景。卢旺达长期存在占多数的胡图(Hutu)和占少数的图西(Tutsi)两个族群。臭名昭著的比利时殖民者通过扶植图西族加剧了两者的矛盾。卢旺达独立后胡图人掌握了政权。1973年，胡图人军队高官Habyarimana发动军事政变篡取了总统一职，并通过一系列“得票率”高达99%左右的作假“选举”延续了20年的独裁统治。Habyarimana的强人统治下，卢旺达的经济有点滴的改善，但这并没有使它脱离地球上最贫穷国家的行列。</p>
-<p dir="ltr"><strong>Habyarimana本人并不格外仇恨图西人，</strong><strong>他在执政早期有限地改善了两族人的关系。</strong><strong>然而威权政治的逻辑高于统治者的意愿</strong>，在他统治集团内部反图西势力的压力下，他一再让步。1990年，图西人组成了“卢旺达爱国阵线”，从乌干达向卢旺达进军，发起革命。内战爆发后，Habyarimana提出了“胡图力量”意识形态，以及“胡图十诫”，把通婚的胡图人斥为叛徒，煽动仇恨对抗图西人。1993年，Habyarimana在国际压力下同意停火讲和。次年，他乘坐的飞机被不明势力击落，他剩余的统治圈子立刻接管政权，在第二天发动了臭名昭著的种族屠杀。<strong>短短一百天内，80万人——</strong><strong>图西人口的百分之七十，卢旺达总人口的百分之二十——</strong><strong>在屠杀中丧命。</strong></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/0417_CLCNRJweb_Hotelrwanda.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/0417_CLCNRJweb_Hotelrwanda.jpg" alt="Best images for facebook timeline cover Hotel Rwanda Hotel,Rwanda" width="550" height="310"></a><p><span>(电影《卢旺达饭店》剧照 图片来自网络)</span></p></div>
-<p dir="ltr"><strong>近年的研究用数据勘察到卢旺达政治精英如何通过多个渠道策划、</strong><strong>指挥了这场暴行，其手段令人发指。</strong>如果看过电影《卢旺达饭店》，你大概会记得收音机中那个低沉邪恶的声音咒骂着图西“蟑螂”，威胁要除掉他们。这个政府要员控制的电台叫做RTLM，它真实地存在，也被广泛认为在屠杀前就散播对图西人的恐惧和仇恨。Yanagizawa-Drott(2014)发表在在<em>Quarterly Journal of Economics</em>的论文研究了RTLM对屠杀参与的影响。他采用无线通讯中常用的ITM/Longley-Rice算法，利用了卢旺达崎岖地势造成信号接收不均这一外生因素，从而估算出了RTLM信号接收对屠杀参与的影响。<strong>他发现RTLM协调了武装组织和军人的行动，</strong><strong>显著增加了屠杀的效率。</strong>他进而用估测到的参数进行模拟，发现假如联合国在屠杀开始时当机立断干扰RTLM讯号，屠杀中的死伤会减少十分之一。</p>
-<p dir="ltr">大众传媒并不是卢旺达政治精英激化矛盾的唯一手段。Bonnier, Jonas Poulsen, Rogall & Stryjan(2015)定量核实了“政治精英们用屠杀前的社区集会煽动仇恨”这一传言。Habyarimana执政期间恢复了卢旺达前殖民时代社区集会与社区工作的传统。这一政策结合了经济和意识形态考量。经济上，卢旺达是一个极度落后的国家，致力于修建和维护基础设施的社区集会对经济有促进作用。<strong>意识形态上，Habyarimana强调社区工作是对胡图族“</strong><strong>真正的卢旺达人”耕作传统的回归，</strong><strong>从而在意识形态上边缘化传说中具有牧人起源的图西族。</strong><strong>一些采访资料显示，政府可能利用这些集会鼓动对图西人的仇恨。</strong>这些社区活动在每个周六举行，强制村民参与。但因为多数社区工作是户外的，加上卢旺达的土路崎岖狭窄，降雨时泥泞难以行走，如果周六下雨很少有人会参加。出于缺乏社区集会数据，以及因果识别考量，论文作者通过周六的降雨间接考察了社区集会在屠杀中的角色。作者收集了卢旺达各地屠杀前四年的降雨GIS数据，发现周六降雨多的村落对屠杀的参与率显著较低。这一效应在控制了一周中其他日子的降雨后仍然稳健，并且其他日子的降雨对屠杀参与率毫无影响。<strong>这强烈指示政府组织的社区集会部分地对屠杀负责。</strong></p>
-<p dir="ltr"><strong>在屠杀过程中，政府军队的施压、强迫、煽动也起到了关键作用。</strong>Rogall (2014)研究了这一经过。作者考虑到，中央政府的军队调度可能是选择性的，因此简单的回归分析不能识别军队派遣对屠杀的因果关系。前文提到，卢旺达的道路主要是土路，尤其小路降雨后泥泞难行，连机动车都受到很大阻碍。出于效率考量，来动员屠杀的军队会尽量选择连接道路易于通行通行的村庄，从而保证他们在单位时间内访问尽可能多的村庄。Rogall博士利用这这一外生因素，通过工具变量回归，发现离主干道路远且降雨多的村庄较少被军队光顾，同时也有更低的屠杀参与率，而控制变量表明这并不是降雨本身或偏远本身造成的，两个因素同时出现才会对屠杀产生影响。<strong>模型模拟显示，</strong><strong>军队的参与、煽动和胁迫对百分之八十以上平民参与负责</strong>，如果联合国能够对主要军事基地进行干预，大屠杀或许可以避免。但国际社会在全过程中保持了可耻的静默。</p>
-<p dir="ltr">除了证实了军队动员在屠杀中的重要作用，Rogall博士在文中还揭示了数据中的一些重要模式，对进一步理解民众和政府在屠杀中的角色有启发。Rogall博士查看了村落人口组成和军队派遣的关系，建模分析表明军队的目标似乎并不是最大化杀死的图西族人数量，而是在试图最大化胡图族人对屠杀的参与。这核实了专家们的一个猜想，即<strong>卢旺达政府希望制造一种全民的道德沉默</strong>——如果每个人都是施害者，那就没人能对施害者掷出第一块石头。文章还发现，军队动员的努力在两族人民通婚多的地区受到了较大的阻力。<strong>总之，</strong><strong>卢旺达屠杀并不是一场暴民的狂欢，而是专制政府的杰作。</strong><strong>胡图和图西两族虽然存在民间仇恨，</strong><strong>但很可能不至于促使他们在这样的规模上拿起屠刀。面对族群冲突，</strong><strong>利维坦恶果并不小于无政府的混乱。</strong></p>
-<p dir="ltr">万幸，我们非生活在一个霍布斯式的“无政府-利维坦”二元世界。在政治制度的其他象限是否存在对族群和宗教冲突的解决方案？肯尼亚的族群之争和土耳其的宗教问题会对我们有所启发。敦伦政经将在即将发布的本文下篇中讲述这两个故事。</p>
-<p dir="ltr"><span>文献</span></p>
-<ul><li>
-<p dir="ltr"><span>Bonnier, E., Poulsen, J., Rogall, T., & Stryjan, M. (2015). Preparing for Genocide: Community Work in Rwanda.<em>Working paper.</em></span></p>
-</li>
-<li>
-<p dir="ltr"><span>de Mesquita, B. B., & Smith, A. (2011). The Dictator’s Handbook: Why Bad Behavior Is Almost Always Good Politics. <em>Public Affairs.</em></span></p>
-</li>
-<li>
-<p dir="ltr"><span>Rogall, T. (2014). Mobilizing the Masses for Genocide. <em>Working paper.</em></span></p>
-</li>
-<li>
-<p dir="ltr"><span>Yanagizawa-Drott, D. (2014). Propaganda and conflict: Evidence from the Rwandan genocide. <em>The Quarterly Journal of Economics</em>, 129(4), 1947-1994.</span></p>
-</li>
-</ul><hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2-%E5%BC%BA%E4%BA%BA%E6%94%BF%E5%BA%9C%E5%B8%A6%E6%9D%A5%E6%97%8F%E7%BE%A4%E5%92%8C%E5%B9%B3%EF%BC%9F%E5%8D%A2%E6%97%BA%E8%BE%BE%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%97%BA%E8%BE%BE/?category=18271" rel="tag">卢旺达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">宗教矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E9%97%AE%E9%A2%98/?category=18271" rel="tag">宗教问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E4%BA%BA/?category=18271" rel="tag">强人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BC%BA%E4%BA%BA/?category=18271" rel="tag">政治强人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%8F%E7%BE%A4/?category=18271" rel="tag">族群</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%AE%97%E6%95%99/?category=18271" rel="tag">民族宗教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -934,7 +929,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%97%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -944,5 +939,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%97%BA
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

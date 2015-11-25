@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E9%AB%98%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E6%8E%A2%E7%A9%B6/" target="cdt-mirror">大数据时代高校思想政治教育模式创新探究</a>
@@ -131,7 +131,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E7%AE%A1%E7%90%86/?category=18271" rel="tag">人口管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E5%8F%A3%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户口制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E9%83%A8%E9%97%A8/?category=18271" rel="tag">计生部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%88%B7/?category=18271" rel="tag">黑户</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E5%AE%B6%E5%B1%9E%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E4%B8%BA%E5%90%8D/" target="cdt-mirror">自由亚洲 | 张六毛家属被警方以“寻衅滋事”为名传唤</a>
 </h2>
@@ -784,7 +784,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

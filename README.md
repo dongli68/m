@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%B8%8E%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%BC%9A/" target="cdt-mirror">唐映红：中国大陆青年人与世界其他国家青年人会越来越隔阂？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%9D%8E%E6%B0%B8%E7%A7%8B%E6%BC%AB%E7%94%BB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/03/%E6%9D%8E%E6%B0%B8%E7%A7%8B%E6%BC%AB%E7%94%BB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2.jpg" alt="李永秋漫画：中国教育" width="375" height=""></a><br><em>（漫画 “中国教育” by 李永秋）</em></p>
+<p>Q&A151124</p>
+<p><strong>问：中国大陆青年人与世界其他国家青年人会越来越隔阂吗？</strong></p>
+<p>答：尽管现时代互联网的普及、传播，以及全球一体化的商业熏染，<strong>从生活方式的表面上看，全球不同国家、社会的青年人越来越同质化</strong>，他们使用一样的手机，看一样的电影，听一样的音乐，享用一样的美食，追一样的超级明星……而且交通方式的越来越便捷，出国旅游、工作、留学也成为越来越多青年人的选项。但是，要因此断言中国大陆青年人与世界其他国家青年人越来越接近，越来越相似却可能只是一种误解。从心理学角度，<strong>中国大陆青年人与世界其他国家青年人在构成人格的核心价值观方面，完全可能越来越隔阂</strong>。其原因主要系于如下几个因素。</p>
+<p>首先，<strong>饮食、运动、时尚、娱乐等生活方式的趋同，会使人群之间的人格等内在差异更加凸显出来。</strong>在不同国家、社会人们的生活方式迥异的时代，饮食、运动、时尚、娱乐等生活方式上的差异具有直观性，是人们最具感知显著性的社会认知因素，因此，<strong>人们对异域生活方式的体验就足以占据人们大脑有限的社会认知资源。</strong>而现时代生活方式的趋同，生活方式的差异已经变得不再那么直观，例如，无论是在多伦多，还是孟买，或者广州，麦当劳是一样的麦当劳，星巴克也是一样的星巴克，电影院里全球同步的大片也如出一辙。这时，<strong>比生活方式更为内隐的社会和文化人格等要素就显得更为突出而更容易被人们感知到。</strong>事实上，<strong>对于像价值观、信仰和意识形态这一类与人格密切相关的因素，远比服饰、饮食、流行时尚更难以改变；人们普遍地在价值观、信仰和意识形态这些深层次的心理结构方面显得更为保守</strong>，美国人的开放程度与阿拉伯人相差也远不及径庭。</p>
+<p>其次，<strong>人们一旦感知和意识到深层次人格层面的差异悬殊，人类的保守天性就会促使人们更可能维护自己的特质而不是消弭彼此的差异。</strong>例如，两个无神论在一起不大可能令他们各自感知到自己的无神论观点，但如果他们与一群基督徒或者穆斯林在一起，他们就会对自己的无神论意识形态更容易感知并且印象深刻。一般来说，<strong>人们意识到自己的价值观、信仰和意识形态与周围人迥异，甚至对立，那么人们最可能的反应就是心理防御机制开启</strong>，一方面，<strong>相对弱势的一方更可能将对方模糊的言行归因解释为歧视</strong>；另一方面，<strong>态度的知识功能促使双方对维护自己观点和意识形态的东西更为敏感也更容易被高估，对模糊的现象也更可能解释为与自己具有的观点相一致。</strong></p>
+<p>再者，在前两者心理效应基础上，<strong>如果有差异的不同人群其中的一方在有意识地渲染、曲解彼此的差异和交流。</strong>例如，将正常的社会和文化交流看作是意识形态的“侵略”，煽动甚至蛊惑对相对强势一方的抹黑和仇视，甚至人为地为互联网设置门槛，为全球化设置壁垒。<strong>那么不同国家、社会人群之间互相影响就会出现不对称，从而在价值观、信仰和意识形态上呈现出更为深刻和根深蒂固的隔阂。</strong></p>
+<p>据此不难理解，<strong>中国大陆青年人从小接受的教育（系统社会化）就迥异于大多数文明国家和社会</strong>，前者为国家主义的工具论灌输，而后者是基于多元、尊重和宽容的健全人格培养；同时，<strong>人为设置的互联网围墙（GFW）将中外青年人能获取的资讯以及获取资讯的方式截然分开</strong>，这就使<strong>中国大陆青年人普遍的核心价值观、信仰以及意识形态与大多数文明国家普遍遵循的所谓普世价值相冲突。</strong>一旦这种嵌在人格的深层心理结构随着人格框架的成形，这样的中国青年即使出国旅游、工作、游学甚至移民定居，<strong>他们也很难主动地消弭差异，反而更可能强化和增强之。</strong></p>
+<p>特别地，<strong>当从国家层面的意识形态开始刻意固化和强化中外差异，并引导对社会和文化交流进行敌意性的归因解释</strong>，当这种情形持续一定时间，那么<strong>中国大陆青年人对西方，与现时代那些接受圣战熏陶的穆斯林青年人对西方，从心理学角度，将没有本质的差别。</strong></p>
+<p>总而言之，即使是在当下的网络和全球化时代，<strong>中国大陆青年人与世界其他国家青年人会越来越隔阂并不是天方夜谭，而完全可能是迫在眉睫的现实。</strong></p>
+<p>2015-11-24</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/">中小学生守则修订版：一年后还是得爱党</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%82%93%E6%99%93%E8%8A%92%E3%80%81%E9%A1%B9%E8%B4%A4%E6%98%8E%EF%BC%9A%E8%AF%BB%E4%B9%A6%E5%88%B0%E5%BA%95%E4%B8%BA%E4%BA%86%E4%BB%80%E4%B9%88/">共识网｜邓晓芒、项贤明：读书到底为了什么</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%98%AF%E8%A2%AB%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%80%9D%E6%83%B3%E9%81%93/">【图说天朝】中国未成年人是如何被进行“思想道德建设”的</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/04/%E4%B8%AD%E5%85%B1%E5%8C%97%E4%BA%AC%E5%B8%82%E5%A7%94%E5%85%B3%E4%BA%8E%E5%BC%80%E5%B1%95%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%AE%A3%E4%BC%A0%E6%95%99%E8%82%B2%E5%B7%A5%E4%BD%9C%E7%9A%84/">【真理部】中共北京市委关于开展“中国梦” 宣传教育工作的实施意见</a></li>
+</ul></blockquote>
+<p>——————————————–<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="350" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%B8%8E%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">信息控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9D%80%E6%89%8B%E8%A7%A3%E5%86%B31300%E4%B8%87%E9%BB%91%E6%88%B7%E9%97%AE%E9%A2%98/" target="cdt-mirror">BBC｜中国着手解决1300万“黑户”问题</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151124144222_china_dark_population_512x288_xinhua_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151124144222_china_dark_population_512x288_xinhua_nocredit.jpg" alt="中国存在1300万未注册户口的“黑户” （新华社资料图） " width="585" height=""></a><p>中国存在1300万未注册户口的“黑户” （新华社资料图）</p></div>
+<p>中国媒体广泛报道了上周六（11月21日）中国公安部部长郭声琨主持召开的一次主要以反恐和解决全国无户籍人口的户口登记问题为主题的会议，预示中国政府可能已经开始着手解决长期困扰中国社会的“黑户”问题。</p>
+<p>据报，根据中国2010年展开的第六次人口普查，全国大约有1300万人口没有户口，也就是俗称的“黑户”。</p>
+<p>另据中国国家发改委宏观经济研究院副研究员万海远等学者2014年的调研结果显示，这些所谓“黑户”中六成以上是超生人员，其他还包括未主动上户口、弃婴、未婚生育、相关证件丢失、户籍办理程序繁琐或基层部门不作为等多种原因导致的无户籍人士。</p>
+<p>由于没有户口，这一千多万人无法得到社会保障，无法找到正常工作、生活与教育机会，成为在中国社会边缘和夹缝中艰难求生存的弱势人群；随着“实名制”逐渐普及，他们的生活受更大影响，如今连出行都变得困难。</p>
+<p>中国公安部会议指出，一个国家百分之一人口没有户籍已成为人口管理的“怪现状”，并已经有悖于法。</p>
+<p>公安部会议强调，依法登记户口是宪法和法律赋予公民的一项基本权利，事关社会公平、和谐稳定。会议表示要按照政府和法律要求，“切实落实无户口人员落户政策，着力解决无户口人员登记户口问题，切实维护每个公民依法登记常住户口的合 法权益”。</p>
+<p>据了解，此次会议明确了区别情况、分类解决，分类实施相关政策的工作思路，并形成了一个关于解决无户籍人口问题的意见。会议还要求将无户口人员登记户口与相关领域政策统筹考虑、协同推进，同时抓紧修改完善意见后按程序报审。<br><strong>计生后遗症</strong></p>
+<p>据介绍，1958年开始实施的《中华人民共和国户口登记条例》第二条规定：中华人民共和国公民应依照条例规定履行户口登记；第七条规定： 婴儿出生一个月内，应由户主、亲属、抚养人或者邻居向婴儿常住地户口登记机关申报出生登记。根据条例，对出生的中国公民予以户口登记，未任何附加条件。</p>
+<p>有分析指出，由于中国各地的基层计划生育部门当年急需“一个抓手”来推进计划生育工作。虽然法律条例明令不允许给公民登记户口设置任何附加条件，但仍然在工作中，推出了要求父母出生《计划生育服务证》的要求。</p>
+<p>而正是这个“法外”要求，使得“超生罚款”与“新生儿入户”捆绑一直成为一些地方通行的“土政策”，超生而未缴纳罚款，就不能办理户口。 户口登记于是成为计生工作的一个筹码。</p>
+<p>据中国官方不完全统计，2014年，全国至少有20个省、市和自治区有明确的规定或案例，上户口必须出示计划生育相关证明，其中北京、上海、辽宁、四川、河南、湖北等6个省市在省级户籍制度上明文规定，将计生与户籍挂钩。</p>
+<p>中国国家法改委学者万海远等人在调研中还发现，黑户普遍存在已经导致不良影响，包括这些边缘人群的自卑心重、缺乏安全感、游离于正常社会之外、无法享受公民的基本权利等，从而也制约了人口流动、增加了社会不稳定，加剧了社会不公平。</p>
+<p>更多国际观察人士分析认为，继全面开放二胎之后，中国政府开始准备着手解决大量“黑户”问题，显示中国决策者开始认真检讨三十多年计划生育政策的失误，并希望能够亡羊补牢，拨乱反正，尽量减少长期强迫一胎政策造成的负面后果。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9D%80%E6%89%8B%E8%A7%A3%E5%86%B31300%E4%B8%87%E9%BB%91%E6%88%B7%E9%97%AE%E9%A2%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E7%AE%A1%E7%90%86/?category=18271" rel="tag">人口管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E5%8F%A3%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户口制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E9%83%A8%E9%97%A8/?category=18271" rel="tag">计生部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%88%B7/?category=18271" rel="tag">黑户</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BC%A0%E5%85%AD%E6%AF%9B%E5%AE%B6%E5%B1%9E%E8%A2%AB%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E4%B8%BA%E5%90%8D/" target="cdt-mirror">自由亚洲 | 张六毛家属被警方以“寻衅滋事”为名传唤</a>
 </h2>
 <p><p>在广州，活动人士张六毛在被关押期间死亡已经20天。张六毛的姐姐张五洲及妹妹张唯楚因死者遗体遍布伤痕，质疑他在押期间遭警方酷刑虐待致死。11月24日，广州警方致电张五洲称，她和妹妹涉嫌寻衅滋事，要她们到派出所报道。张五洲认为，这是当局为了阻止他们追寻真相而采取的威胁手段。</p>
@@ -53,7 +105,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E7%AC%AC%E4%B8%89%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">广州第三看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B/?category=18271" rel="tag">张六毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%85%AD%E6%AF%9B%E5%AE%B6%E5%B1%9E%E8%A2%AB%E4%BC%A0%E5%94%A4/?category=18271" rel="tag">张六毛家属被传唤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80/?category=18271" rel="tag">看守所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E5%AE%88%E6%89%80%E5%91%BD%E6%A1%88/?category=18271" rel="tag">看守所命案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%9A%84%E8%83%A1%E8%80%80%E9%82%A6%EF%BC%9A2013-vs-2015/" target="cdt-mirror">【立此存照】央视中的胡耀邦：2013 vs. 2015</a>
 </h2>
@@ -723,201 +775,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9B%E6%95%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BC%9A%E5%9C%A8%E9%A9%AC%E9%87%8C%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%B8%AD%E9%81%87%E5%AE%B3%EF%BC%9F/" target="cdt-mirror">共识网 | 为什么中国人会在马里恐怖袭击中遇害？</a>
-</h2>
-<p><p>作者：刘敏</p>
-<p>原载于《三联生活周刊》</p>
-<blockquote><p>高呼着“真主伟大”的恐怖分子们劫持了140名旅客和30名员工，其中有30名能背诵古兰经的人质被释放。有躲在房间内的中国旅客向媒体发送微信，告知已经立刻关灯关窗，并用床和桌子抵住门。走廊和房间内出现烟味儿，网络时断时续，前台电话无人接听，能听见清楚</p></blockquote>
-<p>马里至今是联合国公布的世界25个最贫穷国家之一，在一家国企工作的陈先生2014年被派到了马里工作，最早落脚是在首都巴马科。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%887.08.38.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%887.08.38.png" alt="Screen Shot 2015-11-21 at 下午7.08.38" width="550" height="310"></a></p>
-<p>“首都很落后，连国内的三线城市都不如，照明的电都缺乏，当地人全都住在土房子里面。” 陈先生的公司主营蔗糖，在马里雇佣当地人种植甘蔗后榨糖。当地劳动力价格低廉，每天只工作半天，工人日薪合人民币14元到20元不等。</p>
-<p>马里的工业极其落后，例如全国棉花年产量达80万吨，但本国仅能加工2%，马里畜牧业发达，牲畜存栏量超过4000万头，但动物皮革却不能转化为皮鞋生产。几位采访对象都表示，中国在马里的投资，多多少少都戴着援建性质。近年来，中国已经是马里的主要出口国和进口国之一。据外交部网站，2012年中国与马里双边贸易额为6.2亿美元，已经超过了马里与其原来的殖民宗主国法国3.03亿欧元的双边贸易额。中国主要向马里出口机电产品、高新技术产品和茶叶，进口的是棉花、芝麻等农产品。</p>
-<p><img src="http://www.21ccom.net/uploads/allimg/151122/128795_151122085814_1.jpg" alt="" width="603" height="360" border="0"></p>
-<p align="center">马里的杰内大清真寺是世界上最大的粘土建筑</p>
-<p>　　王先生是一家央企的员工，曾负责过公司对马里的业务，在王先生看来，相对于东非、南非，马里的中资企业并不算多。两国经贸更多的是基于几十年的传统友谊：”毕竟这里是周总理出访非洲十国中的一站，至今还有中国四五十年前援建的糖厂，纺织厂在运转。”基于这个原因，马里的民众普遍对中国人非常友好，日常生活中，当地华人很少担心自身的安全问题。</p>
-<p>2011年前后，王先生多次到马里出短差，当时的马里政局还很稳定，“相对于中东地区，马里人算是温和派穆斯林，待人也很和善。”但北部的游牧民族图阿雷格人，始终与黑人存在龃龉，多年来一直在寻求独立。</p>
-<p>在卡扎菲倒台后，很多跟随卡扎菲作战的图阿雷格人带着武器撤回了马里，2012年，北部的图阿雷格反叛分子武装叛乱，间接导致马里政变。图阿雷格人在北部宣称建立“阿扎瓦德独立国”，其中部分分支与博科圣地，基地组织合流。联合国秘书长潘基文2012年底已经警告，马里北部“面临成为恐怖分子永久天堂的危险”。</p>
-<p>陈先生来马里之前，就听说在2012年的政变中，自己的同事们集体从外地撤到了巴马科，”差点没回国”。战事最后是依靠法国部队彻底解围。当陈先生到马里时，巴马科基本上每个重要的路口，都一直会看到两三个马里的大兵驻守，北部地区零星的交火新闻已经屡见不鲜。</p>
-<p><img src="http://www.21ccom.net/uploads/allimg/151122/128795_151122085849_1.jpg" alt="" width="638" height="477" border="0"></p>
-<p align="center">首都巴马科街头</p>
-<p>　　作为普通工作人员，陈先生出国前没有专门上过保险，也从来没想过这件事情。在马里，中国人越来越多，“有中铁、中建的员工，还有做零售生意、开酒店饭馆的都有，过来做色情行业的中国人也有。”几乎每年都有法国人在马里北部地区被绑架，但是中国人从来不是恐怖分子的目标。</p>
-<p>王先生近年没有再来过马里，公司驻非洲的代表处承担了大部分的出差任务。王先生告诉我们，一般在危险的国家，欧美发达国家会让企业“通过自身安保力量，私人武装保卫，武装军事力量等形成全方位体系”，中国企业在伊拉克等国也会借鉴这种经验。</p>
-<p>但是在马里，大家都没做什么特殊的准备。“可能最近不光是欧美，中国也没有发布什么恐怖袭击提示，这次事发太突然了。”</p>
-<p><strong>　清晨的枪声</strong></p>
-<p>丽笙酒店(Radisson)是巴马科最好的酒店，这是一个全球连锁的五星级酒店，酒店位于巴马科西部，许多马里政府机关部门也设在这里。很多中国企事业单位高管来马里出差，都会在这里下榻。丽笙酒店也是法国航空公司、土耳其航空公司的倒班宿舍，在11月20日这一天，酒店里至少住了14个国家的旅客。</p>
-<p><img src="http://www.21ccom.net/uploads/allimg/151122/128795_151122085924_1.jpg" alt="" width="548" height="316" border="0"></p>
-<p align="center">丽笙酒店是巴马科最好的酒店</p>
-<p>　　当地时间约上午5点，7名手持AK47步枪的袭击者乘坐外交牌照车辆进入丽笙酒店，进门后开始扫射，幸存者看到，有的袭击者穿着蓝色裤子和衬衫，戴着棒球帽子，乍看上去并无特别。马里官方语言是法语，民众通用的是班巴拉语，但有恐怖分子互相用英语交谈，也许来自国外。</p>
-<p>高呼着“真主伟大”的恐怖分子们劫持了140名旅客和30名员工，其中有30名能背诵古兰经的人质被释放。有躲在房间内的中国旅客向媒体发送微信，告知已经立刻关灯关窗，并用床和桌子抵住门。走廊和房间内出现烟味儿，网络时断时续，前台电话无人接听，能听见清楚的枪声。</p>
-<p>马里本国军队和联合国维和部队很快强行攻入酒店，在首都的法国和美国特种部队也加入了搜捕。在经过激烈的交火之后，20日下午4时许，马里官方表示，巴马科市中心丽笙酒店人质劫持事件结束。</p>
-<p><img src="http://www.21ccom.net/uploads/allimg/151122/128795_151122090005_1.jpg" alt="" width="636" height="419" border="0"></p>
-<p align="center">酒店内一角</p>
-<p>　　至少22人在酒店袭击事件中死亡。当天共有7名中国人在酒店入住，其中4人组建了微信群，互相知会避险情况，但有3人始终无法联络上。</p>
-<p>在恐怖分子冲进酒店时，这三名中国人正在餐厅就餐，还没来得及反应就被射杀身亡。同行的翻译迟到了一会儿，刚下电梯就看到大厅里有人端着枪，立即返回客房才躲过了一劫。</p>
-<p>不幸遇难的三名中国人都来自中国铁建国际集团，此行是与马里交通部洽谈合作项目。他们是中国铁建国际集团总经理周天想、中国铁建国际集团副总经理王选尚，和中国铁建国际集团西非公司总经理常学辉。</p>
-<p><strong>　“走出去”的风险</strong></p>
-<p>袭击事件发生后，恐怖组织“纳赛尔主义独立运动”在推特上发布消息宣称制造了这起袭击事件。该组织曾在马里多次发动恐怖袭击，今年3月7日曾在马里首都一家餐厅制造枪击事件，至少5人在枪击事件中死亡。</p>
-<p><img src="http://www.21ccom.net/uploads/allimg/151122/128795_151122090048_1.jpg" alt="" width="636" height="419" border="0"></p>
-<p align="center">马里官员准备处理遇难者遗体</p>
-<p>　　诸多证据表明，这次袭击并非针对中国人，恐怖分子试图在外国游客聚集的酒店无差别袭击，以扩大事件影响。</p>
-<p>三位遇害的中国员工，都是中国铁建国际集团的高管，常年在非洲工作：中国铁建国际集团总经理周天想，曾代表中土集团在国家主席习近平和俄罗斯总统普京见证下签署俄罗斯铁路项目;中国铁建国际副总经理王选尚，在国内曾主动要求参加青藏铁路格建设，在海拔5010米的高原坚持工作过3年，负责郭安哥拉罗安达铁路的建设项目，受到过安哥拉政府部门的好评。中国铁建国际西非公司总经理常学辉，自2013年之后曾赴喀麦隆、刚果布、塞内加尔、多哥等多国非洲国家进行工程建设。</p>
-<p>在网上很容易查到这三名中国高管的优秀事迹，克服非洲交通不稳定性，在饮食不适、生活单调的环境下，甚至感染疟疾后顶着40℃高烧坚持工作。同事评价他们“吃苦耐劳”、“工作能力极强”。</p>
-<p><img src="http://www.21ccom.net/uploads/allimg/151122/128795_151122090117_1.jpg" alt="" width="549" height="360" border="0"></p>
-<p align="center">左一为中铁集团总经理周天想</p>
-<p>　　高管们所在的中国铁建国际集团成立于2013年，业务范围遍及亚洲、非洲、南美洲、大洋洲和中东欧等区域的多个国家和地区。周天想、王选尚、常学辉的工作轨迹，尤以非洲居多。</p>
-<p>就像十几年前中兴、华为的海外战略一样，大量的中国国企正在“走出去”。王先生从事的正是相关的跨国投资工作，整个行业都在面对着海外投资的风险和安全问题：“我个人觉得，风险是在中国企业和中国人走向世界的过程中必然存在的，也是必定要承受的。往大了说，中国的复兴，离不开世界。往小了说，企业的发展离不开世界。西方人的大航海时代，广东福建人的下南洋，不都是历史上的例证吗?”</p>
-<p>从当下的趋势看，未来中国海外投资的战线只会越拉越长。“可以看下中国企业的发展历程，国内竞争的压力，和海外业务的前景都使得企业更多的走向海外”王先生觉得，这造成不管是在亚非，还是在欧洲，凡是重大的公共安全事件，都可能会有中国人遭受损失。除了加强投入和保障，保证人员安全之外：“我们也希望大家对走出去的人有更多的理解，也有更多的尊重”。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BC%9A%E5%9C%A8%E9%A9%AC%E9%87%8C%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%B8%AD%E9%81%87%E5%AE%B3%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E8%B5%9B%E5%B0%94%E4%B8%BB%E4%B9%89%E7%8B%AC%E7%AB%8B%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">纳赛尔主义独立运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E9%87%8C%E9%85%92%E5%BA%97%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">马里酒店恐怖袭击</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9B%9E%E6%97%8F%E5%A5%B3%E5%AD%A9/" target="cdt-mirror">萝卜网 | 我是一个回族女孩</a>
-</h2>
-<p><p>我是一个回族女孩，和一个汉族男人恋爱，可我父母以死相逼不准我结婚。我不知道这里有没有人和我差不多情况的，回汉婚姻。大家都是怎么解决的。</p>
-<p>这几天，我男朋友的父母到我家提亲，我父母提出了要求，男友的父母不答应，然后我父母就坚决不同意我们结婚，说如果我结婚，他们就去见死。我怀疑，我父母可能会采取一些其他过激措施，所以和男友还有他父母迅速离开我家，到市里来了，现在男友的父母已经回家了，我和男友还在市里宾馆，在电话里和父母交流，但几乎没法交流。我给很多亲戚打了电话，他们都站在我父母那边，不同意帮我去说服父母。<br>
-其实我和男友已经偷偷领了结婚证，我父母不知道，他父母也不知道。我们就是怕回老家有什么变故，所以先领了结婚证，然后才告诉我父母我们要结婚。我父母在电话里就不同意，我老公为了表示诚意，请他父母来我父母家里提亲。<br>
-其实我父母不同意，我早就料到的，但是我没有想到他们会以死相逼。他们说，我结婚那天，就是他们死的那天。<br>
-他们对我男朋友父母提出的条件是根本不可能接受的，太苛刻了。对我男朋友提出的要求更甚。<br>
-不止父母如此，兄弟姐妹没有一个人站在我这边，他们说，如果我嫁给我男朋友，他们就和我断绝关系。<br>
-真的要崩溃了，我又不敢回去当面和他们谈，我怕回去我就出不来了。<br>
-我是回族人，纯正的回族，父母都是回族，亲戚全是回族，至少三代以内没有一个亲戚，包括姻亲在内，不是回族，三代以内，没有哪个亲戚和汉人结婚的。<br>
-我家在回族聚居区，回族自治县，全县回族人口大概占50%，但是在我们乡，回族人口占80%。汉族人可能就是一些教师赤脚医生之类的。<br>
-大肉在我们乡里的集市上是看不到的，即使汉族人都不吃。<br>
-我家是虔诚的MSL，信奉伊斯兰教，准确的说整个家族都是虔诚的MSL。大肉是绝对的禁忌品，一天五次的礼拜，教历的斋月等都是一丝不苟的执行。连汉人的家门都是不进的，汉人的水那是绝对不喝的。<br>
-具体有哪些禁忌这里就不细说了，反正就是虔诚的MSL该有的禁忌都是有的。<br>
-我家兄弟姐妹4人，我有个哥哥，有个弟弟，有个妹妹。妹妹和哥哥已经结婚，对象都是回族人，弟弟还没有结婚。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%886.57.29.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-21-at-%E4%B8%8B%E5%8D%886.57.29.png" alt="Screen Shot 2015-11-21 at 下午6.57.29" width="582" height="387"></a><br>
-（回族女性 图片来自网络）</p>
-<p>我的大伯和舅舅都是阿訇。大伯是QZS里的阿訇，在当地有点地位，舅舅是散班阿訇，就是做些婚丧嫁娶，宰杀牛羊诵经的。<br>
-我父母在镇上开清真餐厅，哥哥和弟弟都是餐厅的厨师。</p>
-<p>在我的老家，汉族女嫁回族男，都还有可能被接受（其实也很难），而且要经过很多道关。回族女嫁汉族男，也听说过，但是整个家族和她断绝关系，并且以此为耻辱。</p>
-<p>其实我本人是可以吃大肉的，只是一般不吃，但是不排斥吃，也不会干涉周围其他人吃。大肉对我来说，就是一种不太喜欢的食品罢了。<br>
-但是对我父母和兄弟姐妹来说，是绝对不能沾的，汉人用过的炊具也是不能碰的。<br>
-其实我和我的兄弟姐妹的经历不太一样。</p>
-<p>我小时候成绩特别好，小学时参加竞赛在省里得了奖，然后我被省城（自治区首府）一所宏志班录取了。也就是11岁那年，我到省城读书了。<br>
-当时我父母不同意我去省城读书，原因是怕我背弃我们回人的传统，给家族蒙羞。<br>
-但是我在开学的时候偷偷跑到了学校，用我自己藏起来的一点点钱买了车票。后来父母找到了我，要我退学回县里回民中学读书。我找到了校长，校长找到了省城有名望的阿訇，请县里的有地位的阿訇说服我父母。<br>
-而且父亲看到我们学校有回民食堂，学校周围有不少清真餐厅，学校也把我们回族学生集中居住。我一再向父母保证，我会恪守戒律的。<br>
-由于是宏志班，不缴学费书费，我又是回民，所以还有伙食费和服装补贴。所以我省吃俭用，再加上每天到学校旁边清真餐厅洗两个小时的碗（只要回民），我就完全不用家里的钱了。<br>
-不过开始一年并没有到清真餐厅去打工，生活费还是要父母给一点的。我家在当地也不算穷，父母给我钱的时候，每次总要千叮咛万嘱咐，“千万要清真啊”“每天礼拜不能少啊”，和汉族同学要保持距离。<br>
-我都答应的很好。<br>
-但是到了学校，就不是那么回事了。我和汉族同学关系还是很好的。<br>
-刚开始我都去回民食堂吃饭。但是经常被汉族同学嘲笑<br>
-那时候年龄还小，同学们都不是很懂事。他们捉弄我，他们在我不注意的时候偷偷在我的牛肉面里放了大肉油。<br>
-我其实也不是特别的敏感，所以吃不出来。就把面吃完了。<br>
-吃完后同学们才告诉我。<br>
-我当时挺生气的，但是我本来脾气就比较好，也没有怎么样，只是自己着急。因为小时候，父母告诉我，吃大肉要穿肠破肚。结果过了两天什么事也没有。<br>
-后来我被不同的同学捉弄过几次后，对大肉的排斥感逐渐减少，又经常被他们鼓励，那时年龄小，经不起诱惑，开始偿试大肉，经过两年时间也可以正常吃了。<br>
-慢慢的十三四岁的我和汉族同学们过着差不多的生活，唯一不同的是我很少吃大肉。<br>
-同时在学校里学政治课，思想课，受D的教育多年，为了考试，当然也要背诵唯物主义，无神论的观念。这些观念也在我的思想中潜移默化。到了高中毕业，我的思想和生活习惯和汉族同学已经无异了。<br>
-但这一切都是瞒着我的父母家人的，在骗他们我完全恪守伊斯兰的清规，坚持做礼拜。还好，我们那里对15岁以下或者还在读书的都不要求守斋月。</p>
-<p>我一个学期回家一两次，回家时间不长，学校课程很重，假期经常都要补课。回家的时候我就装模做样，让他们以为我还是很虔诚的。<br>
-他们偶尔来学校看望我，我也很同学们打好招呼，绝不会露馅。<br>
-要是他们知道我吃大肉了，非打死我不可。</p>
-<p>这样到了高中毕业。<br>
-我的哥哥弟弟妹妹成绩都不好，读到初中毕业，就去学厨师，清真厨师，然后在家里清真餐厅工作，都不出去打工，因为在外打工对回民来说也不方便。<br>
-高中毕业，我以省区少数民族考生理科第三名的成绩考入某著名大学，后来本硕连读，两年前23岁时硕士毕业，在特大城市（当然是汉族城市）的一家大型跨国公司做技术。收入还不错。<br>
-在大学期间，我除了很少吃大肉，和同学们的生活习惯，思维方式都一样的。不需要同宿舍的同学迁就我回族的生活习惯。<br>
-快毕业的时候认识了男友，他是汉族人，从小在汉族城市长大，也没有怎么接触过回族人。他当时刚留学归来不久。我们恋爱两年多了。<br>
-他现在是一家跨国公司中国总部的中层。他父母都是有文化的人，父亲是以为副厅级干部，母亲是一位医生。<br>
-我们感情很好的。开始他父母有些顾虑，因为知道我是回族的，但是我们去他家多次以后，觉得我的生活习惯不影响他们什么，而且我也是名牌大学的硕士。他们也就不再反对了。<br>
-从我上大学开始，每次回家，每次和父母通电话，他们都要千叮咛万嘱咐，千万不要和汉族男人恋爱。每次我都答应，因为我不想和他们辩论。<br>
-当我和男友恋爱后，我不敢告诉我父母。</p>
-<p>我们和其他恋人一样正常的谈着恋爱，感情越来越深，但是民族问题始终是我的心病。<br>
-当我们感情成熟了，都认为对方是自己不二的选择的时候，男友向我求婚后，关于父母家庭的问题，才浮上了台面。</p>
-<p>我告诉男友，我家肯定坚决反对。他也看了一些资料，了解了回族的情况。他说他愿意在形式上入教，也就是做给我父母和家族看的。<br>
-同时，他愿意在与我父母家人在一起的时候不吃大肉，愿意在我家准备两套炊具，当我父母家人来的时候，单独用一套炊具。<br>
-我觉得只要男友能做到这些，我已经很满意了。而且我也认为，我们将来的孩子还是汉族的好，虽然没有加分，但是也没有那么多麻烦。<br>
-男友说，既然你父母那边比较麻烦，我们干脆先领结婚证，反正不管你父母如何，我们都绝不分开。<br>
-我同意了，我们领了结婚证，然后买了房子。</p>
-<p>然后我把和男友恋爱的消息告诉了父母。父母勃然大怒，要我立刻回家。<br>
-男友肯定不放心我一个人回去，他就和他父母商量了，一起到我家去提亲并说服我父母。男友的父亲是领导干部，做思想工作特别在行。<br>
-我们请了年假，回到千里之外的老家。<br>
-我男友和他父母与我到了我家。我父母不让他们进门，让他们到餐馆的包间里谈。</p>
-<p>我父亲很明确的说坚决不同意我嫁给他。而且我父亲还打了我两耳光。<br>
-我男友很生气，拉着出来了。<br>
-我们去找我大伯，他是阿訇，在当地有点地位的。大伯比我父亲冷静，但是也不同意我的婚事。本来想请大伯劝劝父亲的，反倒被大伯劝。<br>
-我求了大伯好久，他终于答应和我父亲商量一个办法出来。</p>
-<p>然后我父母，大伯，舅舅，哥哥，妹夫，弟弟一起在餐馆的包间里和我、男友、男友的父母一起谈。</p>
-<p>提出的条件有：<br>
-第一条，男友必须虔诚的皈依伊斯兰教，并在QZS举行仪式，大净，小净，当然也要洗肠，洗胃。并且终身不得背叛真主，即使我们离婚。<br>
-第二条，男友改姓，跟我姓。<br>
-第三条，男友改回族。<br>
-第三条，男友及其父母必须从此不再吃大肉等，他父母家里也不能招待亲友吃大肉，他们也不能到亲戚家吃大肉等。<br>
-第四条，将来我们的孩子必须是回族，跟我姓，皈依伊斯兰教。<br>
-第五条，如果男友的父母将来违背誓言吃了大肉，那么我和男友必须和他们断绝关系，孩子也不认爷爷奶奶。<br>
-第六条，男友父母将来去世，我和男友不能参加他们的汉人葬礼。<br>
-第七条，男友不得再与父母以外的其他亲戚来往，因为他们吃大肉。不过男友父母可以和亲戚交往，只要不吃大肉。</p>
-<p>上面那七条是原则，还有一些细则。比如我男友将来必须过斋月，也就是教历每年一个月，从早上到晚上整个白天不能进食，也不能喝水，也不能房事等。<br>
-还有每天五次礼拜。<br>
-而且我父母将来还要到我家去监督我们。<br>
-反正虔诚MSL所必须做的，我男友就必须做。<br>
-还有，在洗肠之前24小时都不能进食。</p>
-<p>由于我 父亲不太冷静，所以由我大伯向我男友父母解释为了必须做到这些，如果做不到会有什么后果。<br>
-后果有：<br>
-第一，子女取了卡菲尔（非MSL），父母死后要下地狱。<br>
-第二，父母兄弟姐妹会被回民社会排斥在外，在当地无法生存，特别是我家是开清真餐厅的，而且是镇里最大的清真餐厅，如果我和非MSL结婚了，将来不会有人到餐厅吃饭了。<br>
-第三，我大伯舅舅等人的阿訇估计也做不下去了，因为家里除了我这个败类。<br>
-第四，我哥哥和妹妹的婚姻很可能因为我而受到严重影响，特别是妹妹，她的公公也是一个阿訇。他们家也不可能接受妹妹有个我这样的姐姐。<br>
-第五，我弟弟估计找不到对象了。<br>
-第六，一家人将来可能家门都不能出了。<br>
-第七，将来和我之间的父女，兄弟姐妹关系也不能维系了。</p>
-<p>大伯说：你父母反对，不完全是因为我们的信仰，我们回人的传统，也是因为我们要在这里生存下去，我们必须遵从这里的规矩。你读了那么多书，你可以在外面生活，但是你的父母，你的兄弟姐妹还必须在这里生活。你如果不顾生你养你的父母，不顾和你一起长大的兄弟姐妹的生路，你就只管去嫁给他，只管不遵守我们的教义吧。<br>
-你们如果做不到上面说的这些，你就是在断我们的生路。</p>
-<p>男友的父母没有答应这些条件。男友父亲是那种学者型领导干部，有一说一，有二说二的。他说他同意我男友做到的有：<br>
-为了表示对回人的尊重，我男友可以入教，但仅限于入教仪式，也就是让周围的亲戚朋友看看，做做面子。</p>
-<p>我男友尊重我的生活习惯，尊重我父母的生活习惯，在回我老家和我父母到我家小住的时候，进清真饮食，并且单独用一套炊具。</p>
-<p>当然男友父母没有将我吃大肉的事情告诉我家人，男友给他们打过招呼。<br>
-两家没法谈妥。然后我爸爸不谈了，和我哥哥弟弟拉上我就走，要拉我回家收拾我。我男友马上把我护到他身后，两边对峙了。<br>
-这时我大伯出来说话了，他要我父亲还是不要不冷静。我父亲很听大伯的话。放了我。</p>
-<p>我觉得不太安全，和男友还有他父母出来后，我们赶快离开了老家，到市里来了。我一直骗我父母的，他们到现在都以为我还是虔诚的MSL。我也不敢告诉他们我早就破戒了。要是他们知道了，可能会打死我的。</p>
-<p>下午来了省城拜访了中学的校长，他旅游回来。他带我去见了他的朋友，一位德高望重的阿訇。当我把情况告诉阿訇后，他说他也帮不了我了。因为我的情况已经严重违背伊斯兰的教义了。他出的主意居然也和网友们一样，就是让我离开家自己生活，不要回来了。<br>
-我和男友明天将回到我们工作生活的地方，开始我们的新生活。不久后将举行婚礼。</p>
-<p>——————————————————————————————————————————————</p>
-<p>以前我一直以为我们的祖国五十六个民族五十六朵花，大家相处多融洽。现在看来只是我们汉族人的一厢情愿， 想和回族人结婚必需皈依他们的宗教，以后有了孩子还得是穆斯林，这不叫融洽，这叫侵蚀。我们强调民族团结，可是你想和人家团结，人家可是从心底排斥你的，这不是他们心眼坏，而是他们的信仰和习俗迫使他们这样做。</p>
-<p>记得我曾经很自豪地跟一个外国朋友炫耀：“我们中国有五十六个民族的！”外国人笑我：“有这么多民族有什么好？”现在我才知道自己有多么幼稚！多民族可不是一件什么好事，很容易发生问题，现在还没有发生问题是因为汉族人的比例太大了，但是如果两族人的比例是一对一呢？还有这么平稳的局面吗？</p>
-<p>看到了网上的这篇文章让我不得不开始深深地反思现在世界面临的问题与一些深层次的矛盾。最后还是要敬佩列侬在老早以前就考虑过这个问题了：</p>
-<p>Imagine there’s no heaven,幻想世上没有天堂<br>
-It’s easy if you try,这很容易，只要你试看<br>
-No hell below us,在我们脚下没有地狱<br>
-Above us only sky,头顶上只有蓝天<br>
-Imagine all the people幻想全人类<br>
-living for today…都为今天而努力活着</p>
-<p>Imagine there’s no countries幻想这世上没有国界<br>
-It isnt hard to do,试试看，这并不难<br>
-Nothing to kill or die for,没有杀戮，没有牺牲<br>
-No religion too,也没有宗教之分<br>
-Imagine all the people幻想全人类<br>
-living life in peace…都生活在和平之中</p>
-<p>you may say I am a dreamer你可以说我在作白日梦<br>
-But I am not the only one 但我并非惟一的一个<br>
-I hope someday you will join us但愿有一天，你能加入我们<br>
-And the world will be as one 全世界就像一家人</p>
-<p>Imagine no possesions,我幻想这世界没有占有<br>
-I wonder if you can,我在想你能否做到<br>
-No need for greed or hunger,不再贪婪，没有饥饿<br>
-A brotherhood of man,四海之内皆兄弟<br>
-imagine all the people幻想全人类<br>
-Sharing all the world…共享这美丽的世界</p>
-<p>you may say I am a dreamer你可以说我在作白日梦<br>
-But I am not the one 但我并非惟一的一个<br>
-I hope someday you will join us但愿有一天，你能加入我们<br>
-And the wold will be as one 全世界就像一家人</p>
-<p>来源：http://weibo.com/p/1001603802110641722317</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%90%9D%E5%8D%9C%E7%BD%91-%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9B%9E%E6%97%8F%E5%A5%B3%E5%AD%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%97%8F/?category=18271" rel="tag">回族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%B1%89%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">回汉关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%B1%89%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">回汉婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%B1%89%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">回汉矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">民族关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">民族矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -929,7 +786,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%97%8F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -939,5 +796,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%97%8F
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

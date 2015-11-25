@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E8%AD%A6%E6%96%B9%E5%85%B3%E5%81%9Cvpn%E4%BD%BF%E7%94%A8%E8%80%85%E6%89%8B%E6%9C%BA%E6%9C%8D%E5%8A%A1/" target="cdt-mirror">纽约时报 | 新疆警方关停VPN使用者手机服务</a>
@@ -142,7 +142,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">信息控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%91%98/?category=18271" rel="tag">网宣员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9D%80%E6%89%8B%E8%A7%A3%E5%86%B31300%E4%B8%87%E9%BB%91%E6%88%B7%E9%97%AE%E9%A2%98/" target="cdt-mirror">BBC｜中国着手解决1300万“黑户”问题</a>
 </h2>
@@ -796,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

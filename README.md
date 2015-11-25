@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%83%A1%E8%80%80%E9%82%A6%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">【习总日记】 胡耀邦在干什么？</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，11，25）</p>
+<p>梦见胡耀邦叔叔弯腰弓背。</p>
+<p>我趋前关心地问：“耀邦叔叔，您在干什么？”</p>
+<p>胡耀邦没答话，自顾干手里的活。我仔细一看，原来在捞人，从井里捞人。</p>
+<p>不一会捞上一人。我定睛一看，彭德怀。我感到奇怪，一边帮忙一边问：“德怀伯伯，你怎么掉井里头了？”</p>
+<p>彭德怀忿忿不平：“是毛主席把我推下去的。”</p>
+<p>我大为惊讶。伟大领袖毛主席是好人，好人怎么会做坏人才会做的事，把也是好人的彭德怀伯伯推下井谋害。狐疑间，第二个人捞上来了。凑近细瞧，怎么是自己父亲习仲勋。</p>
+<p>我傻乎乎地劈头就问：“是毛主席把您推下去的吗？”</p>
+<p>父亲摇摇头。不是否认，而是表示遗憾和肯定。</p>
+<p>胡耀邦接着捞人。陆陆续续捞上来的有：陶铸陆定一刘少奇，费孝通钱伟长，瞿秋白李立三张闻天等。可惜不少人已经死了。活着的人对胡耀邦甚是感激，一致推举他担任党的总书记和很多小组组长。</p>
+<p>日子一久，胡耀邦骄傲起来目中无人，尤其是敢和邓小平顶嘴。某一天两人又吵架了，冷不防胡耀邦被推下了井。父亲得知后很气愤，拍了桌子。我从门后抄起一把斧头就往外冲，被母亲抱住。</p>
+<p>后来听说也有人抄起斧头劈了邓家的门，被邓家警卫一枪打死。</p>
+<p>几年后有人提出纪念胡耀邦，邓小平不让，说：“等我死后你们再纪念他吧。”</p>
+<p>日子一天一天过去了。那年我运气好，党内抽签抽中了总书记。邓小平已经死了，我又抽中了总书记，可以公开纪念胡耀邦叔叔了。</p>
+<p>我在胡耀邦叔叔诞辰100周年时发表重要讲话，我说，胡耀邦叔叔从井里捞了很多人，所以他是个好人，是共产党的良心，是人性战胜了党性。</p>
+<p>我话刚说了一句，有人站起来反驳道：“井里很多人，胡耀邦只挑共产党捞，那些地富反坏右难道都该死吗？只捞共产党不捞老百姓难道是有人性吗？”</p>
+<p>我大怒道：“拖出去斩了。”</p>
+<p>刀斧手很快把一颗血淋淋的人头朝我扔来，热乎乎的血溅我一身。我被吓醒了。原来是一场梦。</p>
+<p>洗漱毕，来到餐桌前坐下。今天早餐很特别，没有包子，是<a href="http://chinadigitaltimes.net/chinese/tag/%E8%9B%8B%E7%82%92%E9%A5%AD%E7%B2%BE%E9%80%89/">一碗蛋炒饭</a>。</p>
+<p>65年前。。。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUojPcdUkAAyPD_.jpg" alt="CUojPcdUkAAyPD_" width="600" height="450"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%83%A1%E8%80%80%E9%82%A6%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">胡耀邦诞辰100周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%8B%E7%82%92%E9%A5%AD%E7%B2%BE%E9%80%89/?category=18271" rel="tag">蛋炒饭精选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%EF%BC%9A%E8%A7%A3%E6%94%BE%E5%86%9B%E6%94%B9%E9%9D%A9%E5%90%AF%E5%8A%A8-%E5%86%9B%E5%8C%BA%E4%B8%83%E6%94%B9%E5%9B%9B/" target="cdt-mirror">南华早报 | 消息人士：解放军改革启动 军区七改四 总部四改一</a>
 </h2>
 <p><p>接近军方的消息人士透露，解放军高层领导昨日（11月24日）被告知，外界等待已久的军队改革已经启动，现有的七大军区将被重整为四大战略区。</p>
@@ -54,7 +86,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%8C%BA/?category=18271" rel="tag">军区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%93-%E6%80%A7%E7%94%9F%E6%B4%BB%E5%A4%AA%E5%B0%91%E5%85%BB%E5%AD%A9%E5%AD%90%E5%A4%AA/" target="cdt-mirror">参考消息 | 在中国生孩子不易 性生活太少养孩子太贵</a>
 </h2>
@@ -78,7 +110,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%8C%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B5%81/?category=18271" rel="tag">人流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E6%95%99%E8%82%B2/?category=18271" rel="tag">性教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E7%94%9F%E6%B4%BB/?category=18271" rel="tag">性生活</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E4%BA%A7/?category=18271" rel="tag">流产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E5%AD%A9%E5%AD%90/?category=18271" rel="tag">生孩子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%84%9F%E6%81%A9%E8%8A%82%EF%BC%9A%E5%90%83%E4%B8%8A%E9%A5%AD%E4%B8%8D%E5%BF%98%E7%82%92%E9%A5%AD%E4%BA%BA/" target="cdt-mirror">【网络民议】中国感恩节：吃上饭不忘炒饭人</a>
 </h2>
@@ -586,29 +618,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%EF%BC%8C%E6%AC%B2%E5%8A%A0%E4%B9%8B%E7%BD%AA%E5%A6%82%E4%BD%95%E6%94%B6%E5%9C%BA/" target="cdt-mirror">东网 | 南桥：浦志强案，欲加之罪如何收场</a>
-</h2>
-<p><p>作者：南桥</p>
-<p>从网上得到消息，著名律师浦志强一案，在第二次延长审限三个月到期后，又一次“依法延长审限三个月”，这是第三次延长审限三月了。如此“依法延长”下去，不由得让人浮想联翩，这个并不复杂却知名度极高的案件，是谁在主导，打算如何收场？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/201502280232china1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/201502280232china1.jpg" alt="201502280232china1" width="550" height="309"></a></p>
-<p>浦案是今日中国司法的标志性案件。2014年5月3日，浦志强和十几个朋友在一位友人的家里举行纪念六四25周年的民间研讨会，第二天就被北京警方传唤，随后以涉嫌“寻衅滋事”而刑事拘留。一帮文人在自家家里议论国事，动口不动手，既没骂人也没造谣，竟然涉嫌“寻衅滋事”，只因他们议论的内容，触动了当局那颗脆弱而敏感的心。以此理由把浦志强律师抓起来，无非是要再次杀鸡儆猴，六四是议论不得的，连提都不能提，最高当局不想开这个口子。可是，要以此在法庭上给浦律师定罪，那中国司法的面子就实在是太难看了。于是开始了先抓人后找茬的“司法程序”。</p>
-<p>2014年6月13日，北京公安局对浦律师增加一条涉嫌“非法获取公民个人信息罪”而正式逮捕，五个月后又增加了“涉嫌煽动颠覆国家政权”和“煽动民族仇恨、民族歧视”，移交检察院起诉。如果说“寻衅滋事”是一个口袋罪，只要你不安分就可以把你塞里头，那么涉嫌“煽动”罪就是典型的言论表达罪。可是检察院显然觉得，就公安找到的茬，要在法庭上把这些罪名定下来，即使是在中国的法庭上还是有难度，证据不足，于是两度把案件退回公安，“补充侦查”。如此拖了一年，再也不能拖了，2015年5月18日起诉到法院，这时罪名无声地减少了两项，大概是实在找不到象样的证据。</p>
-<p>从5月18日延长审限三月到8月18日，再延长三月到11月18日，如今到期了，浦律师已经被关押了18个月，又“经最高院批准”，再次延长三个月。这个案件有这么复杂吗？</p>
-<p>浦律师一案并不复杂，现在剩下的两项涉嫌罪名，都是言论表达性质的，相信公安已经把浦律师过去说的写的都彻彻底底地筛过几十遍了。一再延后，只因找不到可以定罪的证据，而高层不愿意就此放过浦律师，于是就让检察院和最高院一再“依法”延后。如此一延二延，暴露出中国司法制度的一个致命缺陷：人身保护令法的缺失。</p>
-<p>人身保护令法起源于英国普通法体系，据说可以追溯到中世纪，起源比著名的大宪章还要早，被认为是自由的基石，没有人身保护令法就没有人权和自由。它的意思很简单：任何人在人身自由受到外来限制的时候，比如被公安拘留的时候，都有权向法庭申请人身保护令。法官颁发的“人身保护令”意思是，命令限制你人身自由的人，准时把你带到法官面前。然后，限制你人身自由的人，如公安，必须向法官陈述为什么要限制你的自由，为什么要拘留你。现在中国的公安在拘留或逮捕你的时候，依法必须说明是涉嫌什么罪名，其实就是受西方人身保护令法影响而形成的规矩。</p>
-<p>然而，人身保护令法的程序还有后面一段：法官有权当场决定，限制你的人身自由是否有必要，是否合法。如果没有必要，法官作主立即恢复你的人身自由。即使法官认为公安有理由拘留你，你也可以申请交保候审，因为你需要人身自由来收集对自己有利的证据，用于未来的法庭审判。只有在嫌疑人有逃跑嫌疑、暴力倾向等情况下，法官才可以拒绝交保候审。我们在欧美的电影里看到，拘留或逮捕后，警察和被捕者在当天或第二个工作日就可以在法官面前作出各自的陈述，由法官决定是否继续拘押。这就是人身保护令法在起作用。</p>
-<p>关键的关键是，在任何法治国家，法庭是独立的，在国家权力结构里另成系统；法官是中立的，法官的最高宗旨是保障法律的正当程序得到实行，保证在法律面前人人平等，做到了这些就是维护了公正和正义。</p>
-<p>浦律师一案，公安和检察官把没有任何暴力倾向也无处可逃的浦律师关押了十八个月，连代理律师和家属见一面也很困难，而同时公安则用了十八个月来细细寻找对浦律师不利的证据，鸡蛋里也要挑出骨头来。偏偏这只鸡蛋是如此正常，十八个月挑不出让检察官慧眼过得去的骨头，于是只能让法院配合，批准审限一延再延，以便让公安有足够的时间继续找茬。在政法委看来，这样做再正常不过，公安检察和法官，都受党的领导。可是如此公检法一家，那还让人有何话可说？</p>
-<p>如今的中国党和政府明确宣称反对司法独立，其实等于宣布中国的法律缺乏公正和正义的根本基础，他们也不想要实现社会的公正和正义，而人身保护令法的缺失，则是一个标志性现象。高高在上的党和国家领导们定然觉得这样挺好，大概只有轮到自己被“双规”的时候，才会想到世界上有了人生保护令法这样一种东西，才更有理可讲。没有公正和独立的司法，堂堂国家主席举着一本共和国宪法，照样保护不了自己的。</p>
-<p>浦律师一案，再次延长审限三月，到期将是2016年的2月18日，那将是浦志强律师被关押21个月的日子。三月到期将如何，如何收场，全世界都在看。拖得越久，中国司法的面子就越难看。浦律师一案，将不以任何人意志为改变地写入中国的司法史，写入未来中国法律系大学生的教科书，成为一代一代中国律师的经典案例：法律不可以缺失人身保护令法，否则这个国家就没有人权保障。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%EF%BC%8C%E6%AC%B2%E5%8A%A0%E4%B9%8B%E7%BD%AA%E5%A6%82%E4%BD%95%E6%94%B6%E5%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -620,7 +629,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -630,5 +639,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

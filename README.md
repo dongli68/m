@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E8%AD%A6%E6%96%B9%E5%85%B3%E5%81%9Cvpn%E4%BD%BF%E7%94%A8%E8%80%85%E6%89%8B%E6%9C%BA%E6%9C%8D%E5%8A%A1/" target="cdt-mirror">纽约时报 | 新疆警方关停VPN使用者手机服务</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CHINAVPN-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CHINAVPN-articleLarge.jpg" alt="中国新疆的乌鲁木齐。该地区长期受到网络监管和审查。" width="600" height="379"></a><p>中国新疆的乌鲁木齐。该地区长期受到网络监管和审查。</p></div>
+<p>中国政府正在停掉一些居民的移动电话服务，这些人使用了让他们能够绕过新疆的互联网屏蔽的软件，这是中国政府在多事的西部地区采取的新措施。</p>
+<p>新措施是上周开始的。<a href="http://cn.nytimes.com/topic/20151117/paris-topic/" target="_blank" rel="nofollow">巴黎恐怖袭击</a>发生后不久，当地警方开始停掉一些人的手机服务，这些人下载了国外即时通讯服务及其他软件，据受影响的五个人说。</p>
+<p>这五人均要求不具名，因为他们担心当地安全机构会因为他们把消息告知国外媒体进行报复，他们都说，自己已被电信运营商告知，要到当地派出所申请恢复开通手机。</p>
+<p>其中一名家住新疆首府乌鲁木齐地区的人收到的短信说，“由于接到警方通知，我们将在未来两小时内依法关闭您的手机号码。如有任何问题，请尽快与您所在地区派出所的网络警察联系。”</p>
+<p>该人表示，当她给警方打电话询问时，她被告知，暂停手机服务针对的是下列情况的人：没有对手机号码进行身份登记的人；使用虚拟专用网（或称VPN）避开被称为“防火长城”(Great Firewall)的中国互联网屏蔽系统的人；再就是下载了国外即时通讯软件，比如WhatsApp或Telegram的人。</p>
+<p>地处中国人烟稀少的西部贫瘠地区的新疆，长期以来是政府网络监控和审查的实验场所。2009年，由于在当地讲一种突厥语族语言的少数民族维吾尔人与汉人之间发生了骚乱，政府停了该地区的互联网近半年。那以后，政府与维吾尔人之间的冲突一直呈上升趋势。占新疆总人口约40%的维吾尔人大多是穆斯林。</p>
+<p>上周，中国证实，伊斯兰国(Islamic State)挟持的一名中国人质已遭杀害。官方新闻媒体还报道，近期开展的突击行动<a title="Link: http://cn.nytimes.com/china/20151123/c23xinjiang/" href="http://cn.nytimes.com/china/20151123/c23xinjiang/" target="_blank" rel="nofollow">击毙了28人</a>。当局认为这些人与新疆一座煤矿早前遇袭有关。</p>
+<p>最近，中国官员更加高调地指责一些人利用互联网在该地区传播宗教极端主义。人权活动人士警告，在新疆，有很多人是因维吾尔人的自由遭受的严格限制而变得激进的，不一定与外界有关。</p>
+<p>“由于恐怖主义问题和暴力风险，新疆的确是中国网络监控的前沿，”国际特赦组织(Amnesty International)东亚分部主任林伟(Nicholas Bequelin)表示。</p>
+<p>欧洲和美国在持续辩论，进行何种程度的<a href="http://www.nytimes.com/2015/11/17/world/europe/encrypted-messaging-apps-face-new-scrutiny-over-possible-role-in-paris-attacks.html" target="_blank" rel="nofollow">加密</a>之后，通过智能手机即时通讯应用进行的交流，会让执法部门无法察觉恐怖图谋。另一边，中国采取的行动则强烈表明了北京对控制和监控网上信息的决心。林伟认为，西方的辩论也对中国有所影响。</p>
+<p>“在保护隐私和言论自由方面，西方总的来说是在倒退，而中国对自己的一贯立场感到欣慰：由政府来充当可以说什么、不可以说什么的仲裁者，”他说。</p>
+<p>同时，这样的行动也表明，尽管花费了巨额资金来打造世界上级别最高的互联网审查和监控系统，它的盲点却比比皆是。中国政府早就在打击VPN这类翻墙软件。但暂停使用某些软件的手机账户的行为，表明了紧迫程度的升级。</p>
+<p>时不时地，北京会强化一些反VPN的过滤手段，今年还对<a title="Link: http://cn.nytimes.com/china/20150331/c31hack/" href="http://cn.nytimes.com/china/20150331/c31hack/" target="_blank" rel="nofollow">一家托管这种代码的网站</a>开展了一轮大规模行动。但是，在中国限制VPN的任何举动都极有可能同时阻碍外国和本土企业的生意。因为中外企业通常都需要进入全球互联网，以便了解市场资讯、登录Gmail这样的网站、在Facebook上发布广告等等。</p>
+<p>中国联通和中国移动没有回应记者的置评请求。中国电信在新疆的工作人员将问题转给了当地网警。乌鲁木齐市警察局的一名官员表示，中国三家国有运营商都受到了禁令的影响，但拒绝进一步置评。在类似Twitter的新浪微博上，关于手机服务暂停的一些抱怨似乎已在上周步入尾声的时候被审查者删除。</p>
+<p>目前尚不清楚新疆大约2000万人口中有多少受到了影响。但有一个服务被关停的人说，他去乌鲁木齐一家警局提请警方重启手机服务时，前面已经排了大约20人，其中还有几个外国人。</p>
+<p>他说自己用VPN上Instagram。在警局，一名警员“拿走了我的身份证和手机，几分钟后还给了我”。</p>
+<p>“不知道他们用它做了些什么，”他说。“他们告诉我，暂停服务的原因是，‘我用软件翻墙。’”</p>
+<p>他说自己被告知手机服务将暂停三天，并表示不会再使用VPN。“太麻烦了，”他说。“我只能从此放弃使用Instagram了。”</p>
+<p>其他一些人则表示，并不清楚他们的电话号码何时会恢复。一名住在伊宁的男士称，那里的警察先是检查了他在社交媒体上的帖子，看他是否写了什么敏感的内容，然后说将把他的情况进行汇报，“做进一步的检查”。</p>
+<p>“我一般用VPN视频聊天，“他说。“我没有做任何坏事。”</p>
+<p>林伟认为，暂停服务的决定极有可能经过了精心考量，因为2009年新疆曾对互联网进行全面封锁，结果在各民族中都引发了不满，一些人对当时的新疆领导人王乐泉进行了抗议。</p>
+<p>“2009年的教训就是这么做效果不好，”他说。“你切断了互联网，可能反而导致更多的人走上街头。”</p>
+<p>一名女士使用VPN上国外网站购物，结果移动服务被暂停。她说自己并不介意这种不便。</p>
+<p>“新疆政府致力于维护本地区的民族团结和稳定，”她说。“这有利于打击罪犯和恐怖分子，所以我觉得可以理解。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%B0%E7%96%86%E8%AD%A6%E6%96%B9%E5%85%B3%E5%81%9Cvpn%E4%BD%BF%E7%94%A8%E8%80%85%E6%89%8B%E6%9C%BA%E6%9C%8D%E5%8A%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=18271" rel="tag">VPN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90/?category=18271" rel="tag">乌鲁木齐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E9%AB%98%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E6%8E%A2%E7%A9%B6/" target="cdt-mirror">大数据时代高校思想政治教育模式创新探究</a>
 </h2>
 <p><p>【编者注】下文刊登于《思想教育研究》2015年第5期（<a href="http://marx.cssn.cn/mkszy/sxzzjy/201510/t20151026_2544069.shtml">来源链接</a>），主要内容包括：</p>
@@ -750,29 +785,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91isis%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E8%83%A1%E9%94%A1%E8%BF%9B%E5%90%8C%E5%BF%97%E7%9A%84%E4%B8%8D%E8%BE%9E%E8%BE%9B%E5%8A%B3/" target="cdt-mirror">【河蟹档案】ISIS不会忘记胡锡进同志的不辞辛劳</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B0%A2%E6%B5%81%E7%9F%B3">谢流石</a>：该单位被网友戏称为isis住天朝宣传部。  <em>相关阅读｜《<a href="http://jiuliyougancheng.blogchina.com/2803218.html">环球时报：ISIS是不是恐怖组织，仍很难定论</a>》；《<a href="http://www.zhihu.com/question/25398743">知乎<em>｜</em>如何看待<环球时报>刊载的文章<美国号召打 ISIS 夹带不少私货>？</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44418.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44418.jpg" alt="444" width="475" height="682"></a><br><a href="https://freeweibo.com/weibo/3909079749285443" target="/weibo/390">2015年11月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%9F%B3%E8%BF%B0%E6%80%9D">石述思</a>：网友建议法国应对危机宝典： 1、奥朗德第一时间发出指示，要全力救治伤员。 2、给媒体发通知，切勿自采稿件，发法新社通稿。 3、抓一批造谣网民，社交网站删帖、销号，封杀一切负面信息，以免影响社会稳定。 4、官方表态，伤亡者家属目前情绪稳定。 5、市民排队点蜡烛高呼：巴黎不哭，多难兴邦。<br><a href="https://freeweibo.com/weibo/3909366514151452" target="/weibo/390">2015年11月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BA%94%E9%9D%92%E6%A1%90">应青桐</a>：环球时报说是因为人们把正常社会里用来养两三个孩子的钱用来养一个孩子了，所以才会嚷嚷“养不起”，还说这才是畸形的教育。<strong>网友神回复：人们把正常社会里用来养两三个党的钱用来养一个党了，所以才会民不聊生，这才是畸形的国家。</strong>//*<a href="https://freeweibo.com/weibo/%40%E8%B0%93%E8%B4%A4">@谓贤</a>:正常社会要养党？<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44419.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44419.jpg" alt="444" width="548" height="313"></a><br><a href="https://freeweibo.com/weibo/3908819748445055" target="/weibo/390">2015年11月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%B4%E6%8A%B1%E4%B8%80">朴抱一</a>：河北人上次掩护了一个三鹿，这次又掩护卓达。牛吹大了也有不能破的时候，我看你2万亿的产值怎么作出来。<em>相关阅读｜《<a href="http://finance.sina.com.cn/review/jcgc/20151113/093923760113.shtml">新浪财经<em>｜</em>卓达牛皮吹破天 监管岂能闭只眼</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44420.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44420.jpg" alt="444" width="472" height="354"></a><br><a href="https://freeweibo.com/weibo/3908861398063806" target="/weibo/390">2015年11月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%97%A0%E9%94%A1%E4%BD%95%E5%87%A4%E7%8F%A0">无锡何凤珠</a>：【紧急关注南通单利华】2015年11月20日下午两点左右，<a href="https://freeweibo.com/weibo/%40%E5%8D%97%E9%80%9A%E5%8D%95%E5%88%A9%E5%8D%8E6">@南通单利华6</a> 被公安当面宣读拘留通知后带走，后被抄家，给家属刑事拘留通知书，罪名“寻衅滋事”。<em>相关阅读｜</em>《<em><a href="https://freeweibo.com/weibo/%40%E5%8D%97%E9%80%9A%E5%8D%95%E5%88%A9%E5%8D%8E6">自由微博｜@南通单利华6</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44426.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44426.jpg" alt="444" width="494" height="658"></a><br><a href="https://freeweibo.com/weibo/3911334632885152" target="/weibo/391">2015年11月20日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%AE%E5%A4%A9%E4%B8%8B">微天下</a>：【IS宣称已经杀死中国人质】路透社报道，IS在其最新一期官方杂志上公布了杀死中国及挪威人质的消息，IS曾宣称“出售”这两名人质。据此前报道，IS曾在今年9月在官方杂志上公布了两名人质的照片，注明“待售”，其中中国人质名为Fan Jinghui，50岁，是来自北京的自由顾问，另一位人质来自挪威。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD%E5%A4%84%E5%86%B3%E4%B8%AD%E5%9B%BD%E6%8C%AA%E5%A8%81%E4%B8%A4%E4%BA%BA%E8%B4%A8/">法广<em>｜</em>伊斯兰国“处决”中国挪威两人质</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%BE%A0%E5%AE%A2%E5%B2%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B4%A8%E9%81%AD%E6%92%95%E7%A5%A8%E6%98%AF%E4%BF%84%E3%80%81%E6%B3%95%E5%AF%B9isis%E5%85%A8%E9%9D%A2%E6%89%93%E5%87%BB%E6%89%80/">侠客岛：中国人质遭撕票是俄、法对ISIS全面打击所致</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44428.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44428.jpg" alt="444" width="546" height="475"></a><br><a href="https://freeweibo.com/weibo/3910676160361318" target="/weibo/391">2015年11月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%B0%8F%E7%AB%A5%E9%9E%8B_1009">小童鞋_1009</a>：衡成 ：ISIS杀了俄罗斯人，普京用巡航导弹伺候；ISIS杀了法国人，奥朗德派核动力航母去伺候；现在，ISIS杀了中国人了，外交部表示“深感震惊！”可是他们强拆的时候对付老百姓比俄国人、法国人还威猛啊！<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E6%A8%8A%E4%BA%AC%E8%BC%9D">维基百科｜樊京辉</a>》</em><br><a href="https://freeweibo.com/weibo/3910930645341372" target="/weibo/391">2015年11月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E7%BB%8F%E7%BD%91">财经网</a>：针对IS宣布杀死中国人质，一些热门评论。//*<a href="https://freeweibo.com/weibo/%40%E5%B0%8F%E5%85%9A">小党</a>：常说的犯我强汉虽远必诛呢？ <em>相关阅读｜《<a href="https://theinitium.com/article/20151120-mainland-chinese-killed-by-IS/">端傳媒<em>｜</em>樊京辉被IS处决了 中国人怎么看？</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%91%A8%E5%B0%8F%E5%B9%B3%E7%A7%B0%E6%A8%8A%E4%BA%AC%E8%BE%89%E6%88%96%E6%9B%BE%E4%B8%BA%E7%8E%8B%E5%8A%9F%E6%9D%83%E3%80%81%E8%AE%B8%E5%BF%97%E6%B0%B8%E5%B7%A5%E4%BD%9C%EF%BC%8C%E6%81%B0/">周小平称樊京辉或曾为王功权、许志永工作，遇害时机“蹊跷”</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44424.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44424.jpg" alt="444" width="525" height="615"></a><br><a href="https://freeweibo.com/weibo/3910682087517168" target="/weibo/391">2015年11月19日 </a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B1%B6%E9%87%91%E8%AE%A9">汶金让</a>：<em>相关阅读｜《<a href="http://baike.baidu.com/subview/1069638/16626988.htm">百度百科<em>｜</em>朱维民 （中国人民大学副教授）</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44422.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44422.jpg" alt="444" width="398" height="707"></a><br><a href="https://freeweibo.com/weibo/3909878172971703" target="/weibo/390">2015年11月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%89%BE%E7%91%9E%E5%85%8B%E6%A0%BC%E9%87%8C%E6%A3%AE">艾瑞克格里森</a>：SPAM 最早转青岛天价虾事件官微被停 <a href="http://t.cn/RUm4TEs" target="_BLANK">http://t.cn/RUm4TEs</a><img src="https://freeweibo.com/img/extlink.png" alt="">  <em>相关阅读｜《<a href="http://news.sina.com.cn/c/nd/2015-11-19/doc-ifxkwuwv3454644.shtml">新浪<em>｜</em>官微转发天价虾被叫停 官方称其要报备现已复活</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44425.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44425.jpg" alt="444" width="476" height="635"></a><br><a href="https://freeweibo.com/weibo/3910956788893711" target="/weibo/391">2015年11月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%AF%97%E4%BA%BA%E5%88%80%E5%93%A5">诗人刀哥</a>：新京报：关押刘晓波的辽宁锦州监狱副监狱长在家自缢身亡。<em>相关阅读｜</em>《<em><a href="http://www.iask.ca/news/china/2015/11/356526.html">加拿大家园网｜刘晓波被关押监狱副监狱长在车库内自缢身亡</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44421.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44421.jpg" alt="444" width="447" height="796"></a><br><a href="https://freeweibo.com/weibo/3908636642064374" target="/weibo/390">2015年11月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8D%97%E6%9F%AF%E8%88%9F">南柯舟</a>：香港铜锣湾书店全体职员失踪。目前警务处已经得到铜锣湾书店老板家人和职员家人的报警信息，据悉他们均是香港公民。该书店是中国香港地标性的自由主义书店，以出售民主思想和研究热点政治问题的的图书为主。据新任美国独立中文笔会会长贝岭表示：这与该书店准备出版一位国家领导人的个人情史传记有关。<em>相关阅读｜</em>《<em><a href="http://www.bbc.com/zhongwen/simp/china/2015/11/151111_hongkong_publishing_disappearance">BBC｜香港铜锣湾书店老板“人间蒸发”震撼出版界</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44417.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44417.jpg" alt="444" width="482" height="316"></a><br><a href="https://freeweibo.com/weibo/3909376950120835" target="/weibo/390">2015年11月15日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91isis%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E8%83%A1%E9%94%A1%E8%BF%9B%E5%90%8C%E5%BF%97%E7%9A%84%E4%B8%8D%E8%BE%9E%E8%BE%9B%E5%8A%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E8%83%8E%E5%8C%96/?category=18271" rel="tag">一胎化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E5%AD%A9%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二孩政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%B4%A8/?category=18271" rel="tag">人质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%93%E8%BE%BE%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">卓达集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E5%88%A9%E5%8D%8E/?category=18271" rel="tag">单利华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E7%8B%AC%E4%B8%A4%E5%AD%A9/?category=18271" rel="tag">单独两孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%80%9A%E5%8D%95%E5%88%A9%E5%8D%8E/?category=18271" rel="tag">南通单利华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/?category=18271" rel="tag">庞氏骗局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E7%BB%B4%E6%B0%91/?category=18271" rel="tag">朱维民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%8A%E4%BA%AC%E8%BE%89/?category=18271" rel="tag">樊京辉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E/?category=18271" rel="tag">法国巴黎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%B1%E9%95%BF%E8%87%AA%E6%9D%80/?category=18271" rel="tag">狱长自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B4%AA%E5%8D%9A/?category=18271" rel="tag">王洪博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B0%E6%96%87%E6%9E%97/?category=18271" rel="tag">田文林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%93%88%E5%93%88/?category=18271" rel="tag">被“哈哈”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%B2%9B%E5%A4%A9%E4%BB%B7%E8%99%BE/?category=18271" rel="tag">青岛天价虾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -784,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

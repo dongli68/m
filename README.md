@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%B7%A5%E4%BA%BA%E6%97%A5%E6%8A%A5-%E5%85%A8%E5%9B%BD%E5%8D%83%E4%B8%87%E8%B6%85%E7%94%9F%E9%BB%91%E6%88%B7%E6%88%90%E5%8E%86%E5%8F%B2%E9%97%AE%E9%A2%98/" target="cdt-mirror">工人日报 | 全国千万超生黑户成历史问题</a>
@@ -639,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%B9%E9%80%A0/?category=18271" rel="tag">思想改造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">思想管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%A4%A7%E5%93%A5/?category=18271" rel="tag">老大哥</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1%E4%BF%A1%E6%81%AF%E5%91%98/?category=18271" rel="tag">高校信息员</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%B8%8E%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%BC%9A/" target="cdt-mirror">唐映红：中国大陆青年人与世界其他国家青年人会越来越隔阂？</a>
 </h2>
@@ -832,5 +832,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

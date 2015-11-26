@@ -21,9 +21,122 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%B7%A5%E4%BA%BA%E6%97%A5%E6%8A%A5-%E5%85%A8%E5%9B%BD%E5%8D%83%E4%B8%87%E8%B6%85%E7%94%9F%E9%BB%91%E6%88%B7%E6%88%90%E5%8E%86%E5%8F%B2%E9%97%AE%E9%A2%98/" target="cdt-mirror">工人日报 | 全国千万超生黑户成历史问题</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4B5ud.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4B5ud.jpg" alt="李雪3岁时，一家四口照了全家唯一的一张合照。父亲去世后，这张照片更显珍贵。本报记者 王伟伟摄" width="400" height="266"></a><p>李雪3岁时，一家四口照了全家唯一的一张合照。父亲去世后，这张照片更显珍贵。本报记者 王伟伟摄</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/XGShy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/XGShy.jpg" alt="母亲越来越走不动路，22岁的李雪，开始踏上独自找回“李雪”的路。 本报记者 王伟伟摄" width="400" height="549"></a><p>母亲越来越走不动路，22岁的李雪，开始踏上独自找回“李雪”的路。 本报记者 王伟伟摄</p></div>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4Gcvg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4Gcvg.jpg" alt="上访、诉讼多年，李雪有厚厚一摞来自不同单位、不同部门的纸片儿。但它们共同的特征是：无用。本报记者 王伟伟摄" width="400" height="192"></a><p>上访、诉讼多年，李雪有厚厚一摞来自不同单位、不同部门的纸片儿。但它们共同的特征是：无用。本报记者 王伟伟摄</p></div>
+<p>“黑户”李雪，20年的人生都在试图找回身份证上的“李雪”。</p>
+<p>因为是超生的二孩，她没有户口，由此带来一系列的麻烦——上不了学，不能参加社保，无法就医，甚至将来很难找到工作，无法结婚生子。像李雪这样的“黑户”，全国超过1300万。</p>
+<p>上周，“全面实施一对夫妇可生育两个孩子政策”公布，宣告实行了35年的“独生子女政策”终结。作为历史遗留问题的李雪们，是否迎来了“重生”的机遇？</p>
+<p>从出生到现在，李雪就一直生活在北京市东城区永定门外的一个平房里。可在中华人民共和国居民户籍系统中，她并不存在。</p>
+<p>在现实生活中，她是李鸿玉和白秀玲的女儿，姐姐李彬的妹妹，一条叫布丁的狗的主人。但她无法在法律上证明自己是谁，因为她掏不出那张长85.6mm、宽54mm、厚0.9mm的卡片，那张不起眼的卡片有一个官方给予的权威名字：居民身份证。</p>
+<p>22年前，因为父母交不起5000元的社会抚养费用作超生二孩的罚款，李雪上不了户口，直到现在。</p>
+<p>根据2010年第六次全国人口普查的数据，像她这样没有户口的人在全国至少有1300万，这意味着每100个中国人里就有一个没户口。她们没有户籍资料，没有户口卡，也没有身份证，被社会俗称为“黑户”。其中，780万和李雪一样，属于超生人员。</p>
+<p>在李雪“黑户”的22年间，崇文区合并到了东城区，全国人口普查进行了两次，户籍管理从手写入册改为全面信息化，计划生育政策实现从独生子女，到单独二孩，再到全面放开二孩的转变，李雪家门前铁轨上奔驰的绿皮火车也换成了银白高铁，时速从平均70公里提升到了300公里以上。</p>
+<p>然而，李雪的生活却一直是停止的。因为没有户口，她没上过一天学，没坐过火车，没出过北京城，不能参加保险，无法就医，甚至将来很难找到工作，无法结婚生子。</p>
+<p>“什么权利都没有。我有时候都怀疑自己是否真的存在。”坐在永定门外自家平房的一张椅子上，李雪从抽屉里翻出四个褐色的档案袋，抽出厚厚的一摞纸片儿，用手摊开来，这些来自不同单位、不同部门的纸片儿铺满了整张木桌。</p>
+<p>李雪的母亲白秀玲从残疾车上站起身来，左腿因为小儿麻痹症难以支撑身体的重量，整个人向左倾歪。</p>
+<p>为了给李雪上户口，白秀玲和丈夫李鸿玉上访19年，诉讼16年，得到的结果就是桌上这堆纸片儿。</p>
+<p><strong>父母犯错，孩子承担</strong></p>
+<p>“这是医院给我开的医学出生证明。”李雪从这堆纸片儿中抽出一张，用手指着说。</p>
+<p>因为家里困难，白秀玲和丈夫并不想要这个孩子，“李雪的到来是个意外。”</p>
+<p>可是，当白秀玲发现怀上李雪时，已经两个多月。当时因为削土豆，刀掉到白秀玲大腿上，扎了一个大口子，伤口迟迟不能愈合。医生告诉她，这样不能流产，会有生命危险。</p>
+<p>两口子都是残疾人，认为自己符合生育二孩的条件。而事实上，1991年开始实施的《北京市计划生育条例》规定可以生育二孩的九种情况中并不包括残疾人。</p>
+<p>“但是后面还有一句话呢。”李雪指着条文说。在泛黄的纸上写着，“有其他特殊情况要求再生育一个子女的，需经市计划生育委员会批准。”</p>
+<p>当然，在李雪出生前，他们并没有得到北京市计划生育委员会的批准。事后的事情证明，相关计生部门也并不认可。但在此后的22年中，白秀玲夫妻俩一直坚持自己属于“其他特殊情况”。</p>
+<p>就这样，1993年8月11日，李雪在天坛医院出生。此时，她的姐姐李彬已经8岁。</p>
+<p>那时，距离计划生育被确立为基本国策已有11年。为了控制人口快速增长的势头，1982年12月，第五届全国人大五次会议通过的《中华人民共和国宪法》中规定：“国家推行计划生育，使人口的增长同经济和社会发展计划相适应。”</p>
+<p>而在计划生育被确定为基本国策的两年前，1980年9月25日，中共中央发布《中共中央关于控制我国人口增长问题致全体共产党员、共青团员的公开信》，信中提倡一对夫妇只生育一个孩子。在此后的35年，中国多数城市地区实行独生子女政策，北京也不例外。</p>
+<p>上世纪90年代的北京，工厂、机关的围墙上，到处刷写着“计划生育是我国的一项基本国策”的巨大标语。计划生育力度正不断加大，各地对超生严防严控。计划生育“一票否决制”已经被推广到全国，覆盖公权力机构和各大企事业单位。</p>
+<p>“超生二孩”李雪的到来，对于白秀玲所在单位——永外街道的三产企业永明釉料厂而言，无疑是一个重大事故。当年8月25日，还在哺乳期的白秀玲就接到了工厂寄送的“职工开除(除名)公职审批表”。</p>
+<p>李雪出生的第5天，父亲李鸿玉拿着出生证明到永外派出所上户口，被拒绝了。“你们超生了，回家等着吧。”4个月后，街道计生办主任来到他家，放下一纸“处罚决定书”，对夫妇俩征收超计划生育二孩的社会抚育费5000元。</p>
+<p>李鸿玉当时是北京皮毛三厂的工人，一直停岗在家，一个月收入不到150元。白秀玲的被开除，将这个家庭迅速推入贫困的境地。可是，他们被告知，不缴纳这5000元，计生部门就不给开证明，连带着孩子就上不了户口。</p>
+<p>要给孩子上户口，需要缴纳社会抚养费吗？从1958年开始实施的《中华人民共和国户口登记条例》第二条明确规定：中华人民共和国公民，都应当依照本条例的规定履行户口登记；第七条规定：婴儿出生后一个月以内，由户主、亲属、抚养人或者邻居向婴儿常住地户口登记机关申报出生登记。也就是说，对出生的中国公民予以登记，无附加条件。</p>
+<p>甚至早在李雪出生的5年前，1988年，公安部、原国家计划生育委员会就联合下文，禁止将计生证明、超生罚款与户口登记捆绑。</p>
+<p>但各地为了推行计划生育政策，普遍采取了将计生与上户口等权益捆绑的“土政策”。“上户口虽然不需要缴纳社会抚养费，但不挂钩，如何约束超生呢？” 山东省一位不愿具名的计生工作人员告诉记者，“这是特定时期的无奈之举。”</p>
+<p>据不完全统计，2014年，全国至少有20个省(市、自治区)有明确的规定或案例，上户口必须出示计划生育相关证明，其中北京、上海、辽宁、四川、河南、湖北等6个省市在省级户籍制度上明文规定，将计生与户籍挂钩。</p>
+<p>国家发改委宏观经济研究院副研究员万海远于2014年完成的“黑户”调查报告也显示，由于多年来“新生儿落户”与“超生罚款”捆绑成为通行的政策，大量家庭没有及时到派出所办理落户手续。“这在客观上带来780万新生儿没有户口，并成为‘黑户’产生的源头。”</p>
+<p>“我超生犯错，可是为什么要让孩子承担呢？”白秀玲无法理解这个逻辑。更何况5000元对于当时这个穷困家庭而言，是3年不吃不喝的总和，“我们哪有那么多钱啊？”</p>
+<p><strong>没户口，法院不让进</strong></p>
+<p>“她连疫苗都没打过。”回忆起往事，白秀玲的眼眶噙满泪水。按照国家规定，婴儿都要免费接种疫苗，但只有在卫生部门登记了新生儿住址的才能接到疫苗通知，可李雪连户口都没有，更不用说户口住址。</p>
+<p>1995年，李鸿玉和白秀玲开始带着3岁的李雪上访。在反反复复上访了一年多后，1996年崇文区信访办曾给他们一个明确的回复：开除白秀玲，单位处理正确，不能改变；至于户口问题，需要他们写出检查直接向公安部门提出申请或给区长写信，经区领导批示给公安部门按户口管理规定办理。</p>
+<p>这条模糊信息，一度让夫妇俩以为户口有望了。可是，在写了检查，寄了给区长的信后，满怀希望的他们，等来的却是“无人搭理”。</p>
+<p>1998年，李雪已经到了上小学的年纪。李鸿玉央求侯庄居委会给李家附近的桃杨路三条小学写了一封信，请求照顾李雪入学。</p>
+<p>可当李鸿玉拿着居委会开具的信、户口本和两本残疾证带着李雪去报名时，校方却坚决拒绝。第二年，学校还是不让李雪入学。</p>
+<p>两次拒绝，让李雪从此失去了接受义务教育的机会。</p>
+<p>进不去学校，李雪开始自学。已经上了初中的姐姐李彬教她学拼音，学会了，她就自己看着字典学。然而，受到家庭的影响，姐姐初三毕业便辍学就业补贴家用。李雪的教育也仅维持在小学四年级的水平。</p>
+<p>有一回跟着妈妈去买菜，李雪看到学生放学，在街上就哭了起来，“妈，我想上学。为什么我不能上学？”</p>
+<p>看着眼泪汪汪的女儿，白秀玲只能强忍泪水，“孩子，你没户口，上不了学。”</p>
+<p>上不了学的李雪，只能每天呆在家里，“没有朋友，也没有童年，相当于跟社会脱轨了似的”。姐姐李彬觉得，妹妹小时候很胆小，见到陌生人总是怯生生的，不敢跟人说话。“她也不喜欢照相，因为户口的事儿，有些自卑。”</p>
+<p>这样的自卑，在万海远的“黑户”调查也得到印证。他发现，“黑户”在心理上没有认同感和存在感，心理健康程度普遍较低。“经常觉得郁闷和忧郁的比例超过34.6%和15.7%。”</p>
+<p>在日常生活中，李雪处处感受到没有户口带来的不便和限制。尤其是随着户籍与越来越多的社会福利捆绑，身份实名制渗透到生活的各个领域，这种感觉愈发强烈。</p>
+<p>一切需要身份证的事情，都与这个叫“李雪”的人无关。没去过博物馆，没住过旅店，没有银行卡，没收过汇款，现在连快递都寄送不了，甚至想要去药店买盒康泰克，都被售货员拒绝。李雪用爸爸的身份证办手机号码，用妈妈的医疗本看病，用姐姐的图书证借书。只要是需要用到身份证的地方，她都没办法独立办到。</p>
+<p>从李雪家走路到北京南站只有2.8公里，可是22年来，她从没出过北京。去过最远的地方是香山。</p>
+<p>她没谈过恋爱，也不敢想象有一天能够像姐姐一样结婚生子。“结婚证都领不了。”一说起来，李雪就眉头紧皱。</p>
+<p>更让李雪感到无奈的是，有一回她独自去法院递交材料，法院却让她出示身份证，否则就不让进，“可是我是原告，就是来诉讼户口的啊！”</p>
+<p><strong>生活就是起诉、上诉</strong></p>
+<p>上访要不来户口，李鸿玉一家四口从1998年开始去法院起诉。</p>
+<p>先告永外街道办事处计生办，再告永外派出所，然后是崇文区计生办，最后是崇文公安分局。先李鸿玉告，又以白秀玲的身份告，再以李雪的名义告。</p>
+<p>李鸿玉还让两个女儿都自学法律。李雪还小时，由李彬写诉状；后来李彬在肯德基打工，又做了一份兼职，忙不过来，李雪便开始自己写诉状。</p>
+<p>结果通常都是：一审，败诉；上诉，败诉；申诉，败诉。申请抗诉，驳回；申请再审，驳回。</p>
+<p>16年间，除了诉讼的主体不同，官司的结果全都一样。每当接到败诉的消息，李鸿玉就坐在破旧平房外的院子里抽烟，一声不吭。两三块钱一包的红梅，他一根一根不间断地抽，直到把一整包烟抽完。</p>
+<p>这时候，李雪总会走过去说：“爸，您别抽了，对肺不好。”</p>
+<p>李鸿玉从嘴里吐出灰白色烟圈的同时不住地咳嗽。支气管感染的李鸿玉看着女儿，却不知该说什么。</p>
+<p>李鸿玉总认为是自己的诉状没写好才输了官司。这时候，他就会训斥女儿，让她们好好看书，学习法律知识。“至少你得让他们挑不出毛病来。”</p>
+<p>李鸿玉每天琢磨着李雪的事儿，有时候睡到半夜突然想起诉状要写的内容，他就赶紧把李雪叫起来，害怕没记下来，转眼就会忘了。</p>
+<p>“人家的日常生活就是接送孩子上学、放学，我们家的日常生活就是起诉、上诉、找户口。”李雪说。</p>
+<p>官司在一次次败诉，孩子却在一天天长大。李鸿玉夫妇觉得自己别无选择，只能继续上访。他们跑遍了区、市、中央的公安部门、计生部门、政府信访办、法院、检察院、妇联和残联等十数个政府机关、单位和部门。</p>
+<p>因为不停信访、打官司，他们一家成了“特别关照的对象”。“我们都被编了号。我爸是一号，我妈是二号，我姐是三号，我是四号。”李雪翻出一张“控制力量值班表”递给记者。</p>
+<p>这张表格显示，被控制人为李鸿玉和白秀玲，2009年从10月1日到10月7日，在侯庄63号路口和民主北街93号口，每天早上8点到第二天早上8点，各有3名民警值班。</p>
+<p>“只要家里有人出门，外面就有人拿着对讲机喊，一号出去了；三号、四号出去了。”李雪说。</p>
+<p>2004年，当时的崇文区计生办称，只要李鸿玉在一个月内补齐剩下的4950元罚款，李家就可以拿着收据去派出所上户口。但是李鸿玉拒绝了。“那孩子这些年的损失，谁来承担？我们受了这么多罪，不服这口气。”</p>
+<p>多年的艰难，让李家为之付出太多。面对这难得的机会，李鸿玉的决定让很多人难以理解。</p>
+<p>“这是一对不负责任的父母造成的。” 时任永外街道办事处宣传部长的韩光堃在2011年接受媒体采访时曾称，当初公安部门确实是难为了他们，但是后来政府确实想帮他们，他却不接受，“提一些不可能的事”。比如补偿孩子没受教育的赔偿、请家教什么的。</p>
+<p>按理说，李雪可以赶上人口普查“大赦”。因为每一次人口普查，国务院普查办都会下发通知，要求“对其中未申报户口的不符合计划生育政策的出生人口，要准予登记，不得将登记情况作为行政管理和处罚的依据”。</p>
+<p>“国务院普查办是这么规定，但大多数基层政府不会这样做，如果这样做的话，等于计划生育政策就没有了，计划生育这方面还是要求交罚款。”著名人口学专家、国家计划生育委员会专家委员梁中堂曾公开表示。不少父母怕被“秋后算账”，依然不敢给孩子进行“户口登记”。只有福建省于2008年明确规定了超生婴儿无条件登记，到2010年5月，该省为历年累计下来的近50万“黑户”人口登记了户口。</p>
+<p>北京市执行的则是放宽条件的登记。2000年第五次人口普查时，北京市对经济困难的超生户进行照顾，可以先交一半的抚养费，剩下的分期缴纳。</p>
+<p>而与政府的对立，又使李雪丧失了这两次户口登记“大赦”的机会。</p>
+<p>2000年的那次人口普查，白秀玲依稀记得，有一个女普查员拿着几张表到家里，把李雪也登记了。但问到户口的事，女普查员说了一句“办户口找派出所去”，就走了。</p>
+<p>等到2010年第六次人口普查，祈盼“普查”的李鸿玉却没等来人口普查员。他就自己到居委会填了张表格，但居委会交没交上去，李鸿玉也不知道。</p>
+<p>普查没能为李雪带来户口，普查也无法解决“黑户”这个问题。因为，每一次普查，“大赦”一批超生“黑户”；普查过后，又有一批超生“黑户”出生，等着下一次“大赦”。政策在政策之间的冲突中，陷入无解的死循环。</p>
+<p>“黑户问题的根源在于户籍制度的附加功能，”万海远说，只有让户籍登记与计生罚款分离，“黑户”问题才会失去生存的土壤。</p>
+<p><strong>“小雪，永远不要放弃”</strong></p>
+<p>可是，李鸿玉看不到“黑户”生存的土壤消失的那一天了。</p>
+<p>由于先天性肌肉强直，李鸿玉经常全身僵硬、肌肉痉挛。犯病时，“全身像是被万条钢筋拉扯着，眼睛皱成一堆，手抽抽在一起，腮帮子深深陷进去。”</p>
+<p>在李鸿玉去世的前两年，他的身体越来越差，病也越来越严重，经常在早晨痉挛。</p>
+<p>2014年4月28日，李鸿玉以李雪为原告，向北京市东城区人民法院又一次起诉永外派出所。</p>
+<p>那天早晨从家里出来时，李鸿玉只是走了几步路，就开始大口大口地喘气。再加上先天性肌肉强直，他已经明显感觉到“身体不听使唤了。”可是，白秀玲得了脑血栓和高血压，每天得吃好几种药，腿脚也不便。最后，李鸿玉坚持和李雪一起去北京市东城区人民法院递交起诉状。</p>
+<p>等他们坐地铁回到家里时，李鸿玉的身体就再也扛不住了。在住进医院的第二个星期，他开始呼吸不畅。两个多月后，2014年9月5日，李鸿玉呼吸衰竭。医院抢救过来后，李鸿玉成为植物人。</p>
+<p>李雪知道父亲心里放不下什么，她会不时坐在床边，和父亲念叨诉状、官司的事情。有一回，李雪说着说着，悲从中来，不禁伏在床头哭了起来。“爸，你要赶快醒过来，你还要跟我去法院。”</p>
+<p>当她抬起头来，准备擦拭眼睛时，李雪看到，父亲的眼角已满是泪水。</p>
+<p>2014年11月6日，李鸿玉去世。在为女儿的户口上访19年，诉讼16年后，一个父亲最终还是没能为女儿找来户口。</p>
+<p>“小雪，永远不要放弃”。李鸿玉再也不会抚摸着李雪的头，对她说出这句话了。</p>
+<p>姐姐出嫁，父亲去世，妈妈也越来越走不动路了。可李雪还得继续寻找“自己”。</p>
+<p>“我生活的全部就是我的户口”。现在，她每天花大量的时间自学法律，阅读法律条文，写诉状，跑法院和检察院。《户口登记条例》、《人口与计划生育法》、《社会抚养费管理征收条例》等涉及户口和计生的法律规定，她一条一条看，一条一条记。</p>
+<p>在李雪开始独自寻找“户口”的这几年，中国延续多年低生育率导致劳动力规模的减少，由于人口老龄化趋势愈加严重等因素，已经实施了30多年的“独生子女政策”也在不断松动。</p>
+<p>2013年11月，《中共中央关于全面深化改革若干重大问题的决定》提出“启动实施一方是独生子女的夫妇可生育两个孩子的政策。”</p>
+<p>在此背景下，自2013年底至今，宁夏、山东、江西南昌、湖北、广东等地陆续公开发文，重申计生与户籍脱钩，严禁为户籍登记设立任何前置程序。</p>
+<p>2014年7月10日，国家卫计委计划生育基层指导司司长杨文庄在例行发布会上也称：将落户、入学、低保与父母落实计划生育情况挂钩，与国家法律法规规定不符，应当坚决禁止。</p>
+<p>与此同时，政府关于计划生育奖、惩、扶助等配套政策也在不断调整之中。2014年，针对“失独群体”，国家卫计委等五部门规定，独生子女三级以上残疾或死亡，不再生育或收养子女，且女方年满49周岁的夫妻的特别扶助金的标准分别提高到：城镇每人每月270元、340元，农村每人每月150元、170元。</p>
+<p>而李雪的官司仍在继续。2014年4月28日，她对永外派出所提起的诉讼，不被受理。上诉，被驳回。申诉，被驳回。2015年7月7日，她向北京市人民检察院第二分院申请提起抗诉。</p>
+<p>“全面实施一对夫妇可生育两个孩子政策，积极开展应对人口老龄化行动。”就在上周，2015年10月29日，当中国共产党十八届五中全会的公报宣告，实行了35年的独生子女政策正式终结时，李雪正在等待检察院是否提起抗诉的结果。</p>
+<p>“我的‘黑户’问题，什么时候才是个头呢？”在经历漫长的失望与等待后，李雪对重燃希望已经越来越谨慎。</p>
+<p>现在，李雪常常回忆起家里的土坯房还未倒塌、姐姐还未出嫁、爸爸还未去世时候的光景。</p>
+<p>那时，在那个“墙壁满是裂纹，屋顶开始下沉，动不动就往下掉土、随时都有可能塌掉”的土坯房里，一家人还在一起，自己和姐姐帮着妈妈做饭，爸爸坐在门前抽烟。</p>
+<p>“简简单单的。”唯有家人的陪伴和亲情的温馨，才能让这个从懂事以来就为户口而忧心的姑娘，忘记片刻自己没有户口这件事。</p>
+<p>寻到那个存在于身份证卡片上的“李雪”，李雪还需要多久？(本报记者 周有强 朱林)</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%B7%A5%E4%BA%BA%E6%97%A5%E6%8A%A5-%E5%85%A8%E5%9B%BD%E5%8D%83%E4%B8%87%E8%B6%85%E7%94%9F%E9%BB%91%E6%88%B7%E6%88%90%E5%8E%86%E5%8F%B2%E9%97%AE%E9%A2%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE%E4%BA%BA/?category=18271" rel="tag">残疾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%88%B7/?category=18271" rel="tag">黑户</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%86%89%E4%BA%91%E9%A3%9E-%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%AE%B9%E6%98%93%E8%A2%AB%E6%8E%A7%E5%88%B6%EF%BC%9A%E3%80%8A%E9%9D%A0%E8%B0%B1%E6%97%AC%E5%88%8A%E3%80%8B/" target="cdt-mirror">冉云飞 | 大多数人为何容易被控制：《靠谱旬刊》第三期</a>
 </h2>
 <p><p><strong>冉按：</strong><strong>《靠谱旬刊》以一己之力，鸠合他人的信息分享，以及在互联网上的大量筛选，并用自己的阅读视野，理解能力，来达成一份有启迪、有意思的好文章的推选。</strong>欢迎各位在敝公微下面留言，推荐你认为好的文章，让我在优中择优，以最大限度节约人们的信息与知识搜寻成本，从而达成知识传播与用途的最优化。</p>
@@ -122,7 +235,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E9%95%BF%E8%80%85%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">为长者续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4/?category=18271" rel="tag">图样图森破</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F/?category=18271" rel="tag">谈笑风生</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E6%B6%89%E5%AF%86%E6%A1%88%E4%BA%8C%E5%AE%A1%E6%94%B9%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%E4%BA%94%E5%B9%B4/" target="cdt-mirror">BBC | 中国记者高瑜涉密案二审改判有期徒刑五年</a>
 </h2>
@@ -698,22 +811,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%AE%E8%A7%86%E7%AF%A1%E6%94%B9%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%8C%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E8%84%B8%E8%AE%A9%E6%97%A5/" target="cdt-mirror">【河蟹档案】央视篡改人民日报，还有什么脸让日本正视历史</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40SCMP_%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1">SCMP_南華早報</a>：央视[胡耀邦]纪录片中出现了一份《人民日报》，头版标题是“胡耀邦任总书记邓小平任军委主席”，但时任中央政治局常委的赵紫阳的头像，被李先念的头像取代。//*<a href="https://freeweibo.com/weibo/%40%E8%94%A1%E6%96%AF%E5%9B%BE">@蔡斯图</a>:这么搞太恶心了，还有什么脸让日本人正视历史。 //*<a href="https://freeweibo.com/weibo/%40%E7%9F%B3%E6%89%89%E5%AE%A22014">@石扉客2014</a>:马云老师需要加大收购步伐啊。<em>相关阅读｜《南华早报<em>｜</em><a href="http://www.nanzao.com/sc/national/15132589f7f7a07/yang-shi-hu-yao-bang-ji-lu-pian-ren-min-ri-bao-tou-ban-bao-dao-zao-cuan-gai">央视胡耀邦纪录片 <人民日报>头版报道遭篡改</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg" alt="22" width="546" height="751"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/33.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/33.png" alt="33" width="539" height="333"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png" alt="444" width="538" height="308"></a><br><a href="https://freeweibo.com/weibo/3912318079364944" target="/weibo/391">2015年11月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：【穿内裤“反党”案今在深圳中院宣判】在深工伤受害者杨明玉煽动颠覆国家政权案羁押近两年半、开庭19个月后11月24日宣判。最可笑罪状是杨穿条内裤称“为了包着党的尊严，特来到深圳市委门口前抗议，如果共产党不要脸，我把底裤也脱下来”，照片被外媒刊登。杨此前还因辱骂公安被控妨害公务劳教一年。<em>相关阅读｜</em>《<em><a href="http://www.voachinese.com/content/yang-lin-shenzheng-rights-lawyer-charged-sedition/1727592.html">美国之音｜深圳维权人士杨林（原名杨明玉）被控“煽动颠覆国家政权罪”</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44429.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44429.jpg" alt="444" width="537" height="403"></a><br><a href="https://freeweibo.com/weibo/3912603354912303" target="/weibo/391">2015年11月24</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B0%A2%E8%8B%8F%E6%98%8E014">谢苏明014</a>：被再次“依法”延长三个月审期，您已经被不明不白关押了18个月多，延长三月审期到期日是2016年2月18日，农历正月初十一春节期间，情人节后第四天。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%EF%BC%8C%E6%AC%B2%E5%8A%A0%E4%B9%8B%E7%BD%AA%E5%A6%82%E4%BD%95%E6%94%B6%E5%9C%BA/">东网<em>｜</em>南桥：浦志强案，欲加之罪如何收场</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44431.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44431.jpg" alt="444" width="337" height="447"></a><br><a href="https://freeweibo.com/weibo/3912330616032976" target="/weibo/391">2015年11月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%98%E5%BE%AE%E5%8D%9A%E5%A3%AB">丘微博士</a>：三次延后，明天开庭复审。<em>相关阅读｜</em>《<em><a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/">自由亚洲｜高瑜案二审开庭前见律师</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44430.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44430.jpg" alt="444" width="369" height="615"></a><br><a href="https://freeweibo.com/weibo/3912383044544581" target="/weibo/391">2015年11月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%93%9F%E5%A4%A7%E8%B1%AA%E7%88%B7">哟大豪爷</a>：雪蛤。<em>相关阅读｜</em>《<em><a href="http://cn.nytimes.com/china/20151021/c21sino-jiang/">纽约时报｜“膜蛤文化”盛行中国网络，或为影射习近平</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/3331.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/3331.jpg" alt="333" width="385" height="513"></a><br><a href="https://freeweibo.com/weibo/3912123568413395" target="/weibo/391">2015年11月22日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%AE%E8%A7%86%E7%AF%A1%E6%94%B9%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%8C%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E8%84%B8%E8%AE%A9%E6%97%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%A4%96%E5%A4%A7%E4%BD%AC/?category=18271" rel="tag">体制外大佬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%A7%94%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">军委主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%88%E5%BF%B5/?category=18271" rel="tag">李先念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%98%8E%E7%8E%89/?category=18271" rel="tag">杨明玉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%9E%97/?category=18271" rel="tag">杨林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BF%E5%86%85%E8%A3%A4%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">穿内裤反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AF%A1%E6%94%B9%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">篡改历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E8%AE%B0%E8%80%85/?category=18271" rel="tag">良心记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%B4%AB%E9%98%B3/?category=18271" rel="tag">赵紫阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +822,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +832,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

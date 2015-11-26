@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E6%B6%89%E5%AF%86%E6%A1%88%E4%BA%8C%E5%AE%A1%E6%94%B9%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%E4%BA%94%E5%B9%B4/" target="cdt-mirror">BBC | 中国记者高瑜涉密案二审改判有期徒刑五年</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151126021028_gao_yu_976x549_getty_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151126021028_gao_yu_976x549_getty_nocredit.jpg" alt="现年71岁的高瑜曾多次被中国司法机关关押" width="660" height="371"></a><p>现年71岁的高瑜曾多次被中国司法机关关押</p></div>
+<p><strong>中国异见高瑜被控涉露国家机密案在周四（11月26日）二审改判为有期徒刑五年，剥夺政治权利一年。</strong></p>
+<p>代表律师之一莫少平向BBC中文网证实，一审被判有期徒刑七年的高瑜在上诉后仍然被北京高级人民法院裁定为有罪，但是依据其认罪态度予以减刑。</p>
+<p>高瑜被指在2013年将一份中共党内文件涉露给美国中文刊物《明镜月刊》，于今年5月一审被裁定“为境外人员非法提供机密级国家秘密”，国际人权组织批评有关案件是对人权和新闻自由的侵犯，律师也表示法院在不公开审讯中没有采纳律师提出的反驳控罪理由。</p>
+<p>明镜集团曾否认其刊发的相关文件是从高瑜处获取。</p>
+<p>“我们的基本辩护意见是仍然认为（案件）事实不清、证据不足，应该依法改判为无罪，”莫少平周四在电话中告诉BBC中文网说。</p>
+<p>“但是（至少）高院没有维持原判，而改判为五年，我们觉得当然总比维持一审的七年有期徒刑要好吧。”</p>
+<p>莫少平透露，法院在判决书中公开的改判理由是高瑜在二审期间“如实供述犯罪事实，表示认罪，依法可以对其从轻处罚”。</p>
+<p>71岁的高瑜患有高血压、心脏病以及美尼尔氏综合症（导致平衡功能失调的内耳疾病），需要每天服药，律师表示不排除刑罚以监外方式执行的可能。</p>
+<p>莫少平指，监外执行需由一审的法院决定，目前有关程序仍在进行当中。</p>
+<p>高瑜案于2014年11月21日在不公开的情况下开审，五个月后在北京市第三中级人民法院作出一审判决，律师随后提出上诉。</p>
+<p>曾担任《经济学周刊》副总编的高瑜在1989年民主运动后被关押超过一年，在20世纪90年代中期也曾因泄露国家机密的指控而被监禁。</p>
+<p><strong>或不能“活着出来”</strong></p>
+<p>BBC新闻部驻北京记者杉丽雅（Celia Hatton）报导称，法院本身并没有明确解释减刑的理由，不少人则认为从轻量刑是考虑到高瑜的年龄以及她长期的心脏健康问题。</p>
+<p>高瑜的儿子赵萌则告诉BBC说，他担心母亲可能无法活着结束这一次漫长的刑期——这是高瑜自1989年以来第三次入狱。</p>
+<p>BBC记者表示，很多人相信高瑜不受中国政府欢迎的原因是她对中国的精英政治所做的尖锐报导。</p>
+<p>维持高瑜案有罪判决的消息引发了外界更多的批评。</p>
+<p>人权活动人士胡佳在社交网站推特（Twitter）上用中文写道：“7年变5年没有任何意义，对于无罪的公民高瑜，被羁押5分钟都是对其权利的侵犯。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E6%B6%89%E5%AF%86%E6%A1%88%E4%BA%8C%E5%AE%A1%E6%94%B9%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%E4%BA%94%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86%E7%BD%AA/?category=18271" rel="tag">泄露国家机密罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E7%9C%8B%EF%BC%8C%E5%88%97%E5%AE%81%E6%8E%89%E5%9C%B0%E4%B8%8A%E4%BA%86/" target="cdt-mirror">大象公会｜看，列宁掉地上了</a>
 </h2>
 <p><p><strong>列宁和斯大林的雕像曾经遍及苏联各地，以至于有笑话说：街上根本不用安路灯，让各位斯大林手里举个灯泡就可以了。而当苏联已成往事，那些神圣不可侵犯的领袖宝相又都遭遇了些什么？</strong></p>
@@ -628,37 +656,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A0%B8%E7%94%B5%E5%8A%A0%E9%80%9F%E5%BC%95%E5%8F%91%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7/" target="cdt-mirror">自由亚洲｜中国核电加速引发安全担忧</a>
-</h2>
-<p><p>中国于2015年重新启动核电建设项目，并将在未来大规模扩大核电比例。有外媒报道对中国核电站安全问题的关注。有专家认为，中国发展核电势在必行，但安全管理问题确实有重大隐忧。</p>
-<p>2011年日本发生特大地震引发海啸，导致日本福岛核电站发生放射性物质泄漏事故，为全球核电安全敲响警钟。包括中国在内的全球多个国家因此搁置了核电站的建设，并进行核电安全性检讨。2015年，中国政府决定重启核电建设项目，并预计未来几年在中国各地兴建更多核电站。然而，今年8.12天津化工品堆放仓库发生大爆炸，使得安全问题再次引起关注。</p>
-<p>美国《纽约时报》中文网11月23日发表报道指出，许多核电站附近民众和安全专家对未来中国的核电站的安全都表示担忧。有专家对设立在中国内陆地区的核电站的安全性尤其关注，因为一旦发生事故，这些在河流中上游的核电站可能会污染下游水源。</p>
-<p>旅居德国的核物理专家费良勇博士认为，中国在核电站选址的时候，确实应该极为小心，</p>
-<p>“不管怎么说，要留足够的空间，万一发生意外的话，周围十到二十公里有隔绝区。所以要建在没有人烟的地方，不能在人口密集的地方。”</p>
-<p>目前，中国大陆有30座核电站反应堆正在运行，几乎全部都在东部沿海地区。根据中国媒体的报道，未来十多年，中国一些中部省份的能源需求将大幅增长，因此不少核电站选址建在中国中部省份。</p>
-<p>费良勇博士指出，核电站反应堆需要大量冷却用水，因此通常选址必然在接近水源的地区。中国内陆地区大河和大湖，都和中国几条最重要的河流相关。他担心，中国政府在核电选址和建设过程中更多考虑经济效益，而不是安全性，</p>
-<p>“中国无限制追究效益，追求赚钱。不能说正常情况下是安全的，而是考虑在特殊情况，在极端情况下能否保证周围居民的安全。”</p>
-<p>中国媒体报道说，按照中国“十三五”规划，到2020年，中国运行核电装机容量将达到5800万千瓦，其中内陆核电建设将完全解冻。目前河南、湖南、江西、湖北等省市都有核电项目正在建设当中。中国专家保证说，中国内陆核电厂液态流出物排放标准比沿海更为严格，在目前的技术条件下不会造成污染，不会影响所在地区水资源的分配及用水安全。</p>
-<p>费博士认为，中国是一个能源缺乏的国家，和煤炭和燃油比较，发展核电可能更为安全高效，似乎是一种必然选择，</p>
-<p>“核电站实际上总体来说是安全的，现在核电技术已经相当成熟了，一般来说是比较安全。”</p>
-<p>有媒体报道说，中国进口和自主开发技术的核电设备生产能力，3年以前就已经过剩。大规模上马核电项目也无法解决产能过剩问题，因此中国核电设备将大规模向外出口。</p>
-<p>美国魏京生基金会负责人黄慈平也是核物理博士，曾在中国核工业部工作多年。她表示，即使当年在核工业部的实验室中，也常常发生各种核物质遗失和泄漏，</p>
-<p>“当年在研究所的时候，曾经发生放射水泄漏，整栋楼都是，要穿特别衣服才能进去。结果守楼的卫兵奇怪，就进去看，出来说什么都没有。还有比如放射碘，医学上用的。运输必须人物分开，结果有人跑进车里睡觉，出来就有问题了。”</p>
-<p>黄女士表示，核电设备只是核电站的一部分，核电安全问题更多涉及到安全管理的规范和执行。她担心在中国现有体制之下，安全管理会有很大漏洞，</p>
-<p>“中国就是这样的，那些规定和法律只是给当官的看的，下面经常并不执行。在核电项目上，这种情况也可能发生。”</p>
-<p>黄女士引用今年8月发生在天津的大爆炸事故为例说，中国对易燃易爆及有毒化工原料的安全管理措施十分严格，但人为疏忽造成的各种事故仍然常有发生。一旦在核电项目中发生类似意外，对居民和环境的影响将远远大于天津大爆炸。因此，她对中国大规模上马核电站项目极为担忧。</p>
-<p>（记者：石山；责编：嘉华）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A0%B8%E7%94%B5%E5%8A%A0%E9%80%9F%E5%BC%95%E5%8F%91%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -670,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -680,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

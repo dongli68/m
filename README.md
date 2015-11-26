@@ -21,9 +21,101 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E7%9C%8B%EF%BC%8C%E5%88%97%E5%AE%81%E6%8E%89%E5%9C%B0%E4%B8%8A%E4%BA%86/" target="cdt-mirror">大象公会｜看，列宁掉地上了</a>
+</h2>
+<p><p><strong>列宁和斯大林的雕像曾经遍及苏联各地，以至于有笑话说：街上根本不用安路灯，让各位斯大林手里举个灯泡就可以了。而当苏联已成往事，那些神圣不可侵犯的领袖宝相又都遭遇了些什么？</strong></p>
+<p><em>文｜李日飞 张稆元</em></p>
+<p>1999年4月23日夜间，俄罗斯小城别列佐夫斯基的一座列宁像被人放炸药引爆，头部和上半身均遭炸飞，只剩下一双腿自行站立。在雕像的底座上，还留下了作案者的签名：佐罗。</p>
+<p>这位小城列宁的遭遇并非偶然。它既不是第一位遇炸的苏联领导人雕像，遭到的破坏也远远算不上彻底。从20世纪50年代开始，俄罗斯、东欧、中亚等地的列宁像和其他领袖雕像就被多次成批推倒、损毁和移位，受害领袖常常数以千计。在冷战后东欧的历次政治风暴中，列宁像蒙难的场面都能成为中国新闻报道的焦点，并与东欧剧变、颜色革命之类的字眼牵连在一起。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8101.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8101.jpg" alt="列宁01" width="550" height=""></a><br><span><strong><strong><strong>▍1990年，推倒列宁像后大为开心的罗马尼亚市民</strong></strong></strong></span></p>
+<p><strong><strong><strong>革命吃掉自己的父母</strong></strong></strong></p>
+<section><section></section></section><p>推倒广场上矗立的领袖，并不是后冷战时代的独有景象。历史上，由于苏联乃至共产主义阵营的政治形势复杂多变，各位领导人——哪怕是已故领导人——的地位都常常会“和总路线一起动摇”，其雕像自然也难免遭遇劫难。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8102.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8102.jpg" alt="列宁02" width="550" height=""></a><br><span><strong><strong><strong>▍1999年普里皮亚季的列宁像。该市在附近的切尔诺贝利核电站发生事故后被遗弃至今</strong></strong></strong></span></p>
+<p>在被共产党自己拆掉的领袖像中，捷克首都布拉格的巨型斯大林像最为知名。它总高度达30米，人像高15米，曾经矗立于布拉格全城的最高点——莱特纳公园山顶，从1945年苏联红军到来就开始策划建造，一直到1955年才告完工。为了建这座雕像，布拉格人几乎重建了整座山，还从别处挖来400余棵大树，移栽到雕塑附近。</p>
+<p>不幸的是，这座巨大雕像最初的设计目的是要讨好苏联和领袖本人，但却没能在斯大林活着的时候完工，更没能赶上1949年12月斯大林70大寿的献礼良机。直到无产阶级领袖就已撒手人寰，雕像也还要再建两年才能完工。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8103.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8103.jpg" alt="列宁03" width="550" height=""></a><br><span><strong><strong><strong>▍建于莱特纳公园山顶的斯大林像</strong></strong></strong></span></p>
+<p>除了献礼对象死得偏早，这座雕像的其他相关人员也很能给它找麻烦：就在揭幕前一个月，雕像的设计者施威茨因个人原因突然自杀，结果军警特意将他家中的其他作品全部砸烂，以惩罚他自绝于人民的行径。此外，曾被施威茨当做“斯大林”模特的一位无名建筑工人，也因为受不了朋友们无休止的“膜拜”，自杀死掉了。</p>
+<p>斯大林死后，苏联、东德和拉脱维亚在建的大型斯大林像均被紧急叫停，只有捷克人却坚持完成了这座“捷克斯洛伐克人民和自己的解放者”的塑像。但在接连不断的打击下，硕大的雕塑最终揭幕得极为低调，仪式上不但没有提到施威茨，连斯大林的名字也都略过不提。</p>
+<p>更悲惨的是，雕像建起还不到一年，苏联人就开始批斗斯大林，曾经的革命导师、无产阶级领袖名声扫地，赫鲁晓夫更直接向各社会主义国家下达了“拆斯大林”的指示。</p>
+<p>各国纷纷执行，索菲亚的斯大林被连夜拆走，华沙的斯大林像被推倒扔进河里，曾经最热衷建造斯大林像的东德也严格搞起了格拆勿论。苏联国内数十年积累的大量斯大林雕像，则纷纷在一夜之间就消失得无影无踪，令次日路过其原址的附近居民惊讶不已。</p>
+<p>对东欧国家极为盛行的“山岗上的列宁和斯大林”雕塑，拆除者们也不留情面，拆掉了专注聆听列宁讲话的斯大林，只剩下列宁自己靠在长椅上滔滔不绝，这对革命师生从此阴阳两隔。</p>
+<p>拆除运动不但是由国家主持进行，在一些地区还激发了群众的怒火，需要政府动用布尔什维克的老办法才能成功。斯大林故乡格鲁吉亚的“拆像”行动，就是在群众游行要求为斯大林平反遭到血腥镇压之后进行的，共造成数十人死伤，游行组织者还被判处十年徒刑。在哈萨克斯坦的老伊卡村，村民也曾驱走前来拆像的工人，最终还保全了一座斯大林像。</p>
+<p>布拉格的斯大林像则最为尴尬。劳民伤财建了十年才告竣工的雕像，不到一年就拆掉显然不太合适，但老摆在那里，也会有与苏联老大哥唱反调的嫌疑。捷克当局只得拖来拖去，一直到1962年才下定决心，将这位光是鞋子就长达2米的斯大林同志定向爆破，炸成碎片。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8104.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8104.jpg" alt="列宁04" width="550" height=""></a><br><span><strong><strong><strong>▍“Boom！”</strong></strong></strong></span></p>
+<p>巨型斯大林同志遇炸后，他曾经站立的底座也派上了别的用场。最初，它被用来存放土豆，结果在“布拉格之春”期间，捷克斯洛伐克的第一座自由电台“斯大林电台”就藏身在斯大林同志的土豆堆中，为群众播报反苏消息。</p>
+<p>如今，雕像上则立着一个巨大的节拍器，象征着时间长河——但由于制作失误，拍子打得一直都不太准。</p>
+<p><strong><strong><strong>再见苏联</strong></strong></strong></p>
+<section><section></section></section><p>与天黑以后市政部门偷偷将领袖雕像拆走相比，革命时期轰轰烈烈的推倒行动显然更加刺激，也更具有视觉冲击力和政治象征意味。</p>
+<p>早在1956年10月，布达佩斯市民便曾在“十月事件”中推倒了总高25米、像高8米的斯大林雕像。围观群众向倒卧在地的斯大林吐痰的景象，从此成为了匈牙利人民反抗苏联压迫统治的象征。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8105.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8105.jpg" alt="列宁05" width="550" height=""></a><br><span><strong><strong><strong>▍十月事件中的斯大林像</strong></strong></strong></span></p>
+<p>在苏联崩溃前夜的俄罗斯，最具象征性的推倒事件受害者则不是列宁和斯大林这样的革命导师，而是苏联秘密警察组织鼻祖“契卡”的领袖菲利克斯·捷尔任斯基。这位一生毫无业余爱好、将有限的精力全部投入到无限的杀人事业中去的布尔什维克英雄，最终成为了苏联群众的宣泄出口。</p>
+<p>1991年8月19日，早已更名为“克格勃”的“契卡”组织发动政变，企图打倒总统戈尔巴乔夫。这场政变只进行了三天便告失败，“克格勃”不但没能夺得权力，而且还引火烧身，把愤怒的示威群众吸引到他们总部门口来了。</p>
+<p>8月22日傍晚，人群来到“克格勃”门前的卢比扬卡广场，在大楼墙上涂写了大量反动标语，并取来钢索，试图将广场上建于1958年的捷尔任斯基雕像拉倒。由于雕像体形巨大，莫斯科市的副市长还紧急来到现场劝说群众，说捷尔任斯基同志有好几吨重，随便倒下来不但会砸坏道路，连地铁隧道都可能受到波及。</p>
+<p>为了平息群众的怒火，政府不得不自行派来起重机和牵引车，在欢呼声中将捷尔任斯基吊起来拖走。据在场者描述，“捷尔任斯基的脖子被绳索牢牢套住，整个人被吊起到广场的半空中，两条腿在大衣下面摆来摆去。”</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8106.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8106.jpg" alt="列宁06" width="475" height=""></a><br><span><strong><strong><strong>▍吊在半空中的捷尔任斯基像</strong></strong></strong></span></p>
+<p>虽然莫斯科市政府没有像某些人提议的那样，在捷尔任斯基留下的空地上建一座异见作家索尔仁尼琴的雕像，但卢比扬卡广场上的景象还是进入了世界各地的电视画面。苏联灭亡后许多年里，捷尔任斯基的惨状都还在西方电视节目中反复播放，用来象征苏东剧变中的群众力量。</p>
+<p>在东欧国家，推倒领袖像则是最常见、也最吸引眼球的领袖处理方式，最适合各国用来象征自己摆脱苏联的控制。在华沙的捷尔任斯基广场，另一座被当地人称作“血腥的菲利克斯”、早在80年代前期就曾被群众泼油漆纵火的捷尔任斯基雕像也于1989年被推倒，因群众操作不够熟练，雕像当场身首异处，石块四溅，还遭到了大家的哄抢。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8107.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8107.jpg" alt="列宁07" width="500" height=""></a><br><span><strong><strong><strong>▍华沙捷尔任斯基广场上的一幕</strong></strong></strong></span></p>
+<p>在苏联和东欧国家，各城市的市政当局出于种种理由，也在1991年之后消灭了当地的领袖雕像。很多情况下，这些市政府都没有什么政治目的，而是这些雕像本就占据着城市的各种交通要道，早就令市政部门头痛不已，如今有了机会，自然要除之而后快。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8108.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8108.jpg" alt="列宁08" width="550" height=""></a><br><span><strong><strong><strong>▍1991年，一名车臣战士站在倒塌的列宁像上</strong></strong></strong></span></p>
+<p>而对于想要通过毁掉列宁像来作政治表达的人们来说，最物美价廉的做法就是斩首。早在1991年12月，占据东柏林街头数十年的19米高列宁便被市政府斩首，头部被埋入地下，身体部分被完全捣碎。还有很多城市，既想毁掉列宁像这样的苏联标志，又不愿花费高昂的拆除费用，便索性只把脑袋弄走，剩一个身体留在原处。东欧剧变后，这种“无头列宁”雕像不断在东欧涌现，成为一景。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8109.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8109.jpg" alt="列宁09" width="550" height=""></a><br><span><strong><strong><strong>▍无头列宁像</strong></strong></strong></span></p>
+<p>斩首革命领袖的做法也很受广大阶级敌人反革命分子的欢迎。柏林的马克思恩格斯雕像便曾屡次被人斩首，脑袋扔进河中。奥伦堡的列宁像也多次被人砍头，从90年代至今从未断绝。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8110.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8110.jpg" alt="列宁10" width="550" height=""></a><br><span><strong><strong><strong>▍1991年被斩首的柏林列宁像</strong></strong></strong></span></p>
+<p>在所有头部遇袭的列宁像中，摩尔多瓦的苏柯利亚的一尊小型列宁的遭遇最为悲惨。由于慕名而来的斩首者学艺不精，未能将他的脑袋完全砍下，便只将他开瓢了事。市政部门看到破坏情况不严重，就也懒得修复，只在列宁脑袋上套了个不透明的塑料袋。不幸的是，当地共产党员对此甚为不满，自行出手修复了列宁的头部，却因为手法不专业，把伟大领袖弄成了勉强有四头身的畸形少年。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8111.jpg" alt="列宁11" width="550" height=""></a><br><span><strong><strong><strong>▍摩尔多瓦四头身列宁</strong></strong></strong></span></p>
+<p>有一些破坏者则觉得斩首还不过瘾，直接用上了炸药。除本文开头提到的小城列宁之外，俄罗斯圣彼得堡的一座青铜制的列宁雕像也曾遭遇不测。2009年愚人节，有犯罪分子在列宁身上放置炸弹，将其风衣下摆炸开一个直径约1米的大洞，附近路灯的灯罩也纷纷炸飞。事件立刻引发了人们的激烈讨论，支持和反对袭击列宁的政治组织甚至各自派出人马，在被炸成暴露狂的列宁像边大打出手。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8112.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8112.jpg" alt="列宁12" width="550" height=""></a><br><span><strong><strong><strong>▍圣彼得堡列宁像被炸出一个大洞</strong></strong></strong></span></p>
+<p>在一些苏联解体后独立的亚洲国家，政府急于建立民族认同，列宁雕像因此遭到了本国民族英雄的取代。在乌兹别克斯坦，列宁、斯大林、马克思等人的雕像都被毁去，换上的是民族英雄帖木儿的雕像。在塔吉克斯坦，也有一位高达12米、称霸整个中亚的列宁像被人移走，取而代之的是“塔吉克人之父”伊斯梅尔·索莫尼。</p>
+<p>除列宁等苏联领袖外，各国自己的领导人雕像也纷纷遭到损毁。如阿尔巴尼亚1991年的政治风暴中，首都地拉那的已故领袖恩维尔·霍查雕像便被愤怒的群众推倒，其他城市的霍查塑像也遭到类似对待。随着革命风潮愈演愈烈，群众还捣毁了各地的政治书店，70余卷的霍查著作也被扔到街上付之一炬。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8113.jpg" alt="列宁13" width="550" height=""></a><br><span><strong><strong><strong>▍推倒霍查</strong></strong></strong></span></p>
+<p><strong>新世纪：马克思转转头</strong></p>
+<section><section></section></section><p>进入21世纪后，虽然冷战已经成为历史，但苏联领袖的雕像却仍然在东欧扮演着特殊的政治角色。</p>
+<p>2013年12月8日，乌克兰危机初期，乌克兰首都基辅的示威人群推倒了比萨拉比亚广场上的列宁像，在空空的基座上放了一只金马桶，成为这一轮乌克兰政治风暴的标志场面。亲俄的亚努科维奇总统倒台后，新政府开始在乌克兰各地破坏列宁像，当年遍及乌克兰的5500座列宁像，如今剩下的已不到1000座。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8114.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8114.jpg" alt="列宁14" width="550" height=""></a><br><span><strong><strong><strong>▍在雕像倒下的过程中，乌克兰年轻男子高呼“Revolution！”</strong></strong></strong></span></p>
+<p>走上反俄道路后，乌克兰还通过《记忆法》，要求清除与共产主义或纳粹历史有关的所有名称和象征符号，领袖肖像自然在打击之列。据西方媒体报道，有乌克兰村庄曾因为重塑列宁雕像，而遭遇到警察上门的险情。在敖德萨，还有人为了避免当地列宁像拆毁，而将其改头换面成《星球大战》中的邪恶领袖“黑武士”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8115.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8115.jpg" alt="列宁15" width="550" height=""></a><br><span><strong><strong><strong>▍”I AM YOUR FATHER.”</strong></strong></strong></span></p>
+<p>在俄罗斯国内，列宁像尽管常常遭到没什么政治意义的恶作剧式攻击，但它在政治上仍然难以忽略。支持普京的“青年近卫军”领导人就曾表示，不喜欢走到哪儿都能看见列宁像。圣彼得堡列宁爆破事件后，“青年近卫军”还派人到场散布反俄共的传单。联系到此类组织在普京与俄共的斗争中起到的作用，很难想象这种言行是出于组织成员的个人好恶。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8116.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8116.jpg" alt="列宁16" width="550" height=""></a><br><span><strong><strong><strong>▍立陶宛用来存放苏联领袖像的格鲁塔斯公园，人称“斯大林乐园”，常被用来教育青少年勿忘黑暗历史</strong></strong></strong></span></p>
+<p>冷战的历史毕竟太长，革命导师的雕像又太具有代表性，要让人们忘记它们的政治含义显然不太现实。</p>
+<p>即使在雕像身上发生微小的变化，都有可能会拨动人们的神经。2010年9月8日，因柏林地铁施工，亚历山大广场上面朝东方的马克斯恩格斯雕像被移至别处，并扭了180度。</p>
+<p>这小小的无心之举，却立刻引起了当地网民的议论：两位革命导师曾经深情守望着东方的共产主义世界，如今却悄悄地转过了头，向西方行起了注目礼。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8117.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%88%97%E5%AE%8117.jpg" alt="列宁17" width="429" height="313"></a><br><span><strong><strong><strong>▍2010，<strong><strong><strong>柏林，</strong></strong></strong>正被搬离亚历山大广场的马克思</strong></strong></strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" alt="大象工会" width="500" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E7%9C%8B%EF%BC%8C%E5%88%97%E5%AE%81%E6%8E%89%E5%9C%B0%E4%B8%8A%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%97%E5%AE%81/?category=18271" rel="tag">列宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E5%88%97%E5%AE%81%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思列宁主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%85%B1%E6%96%B0%E7%96%86%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%BE%90%E6%B5%B7%E8%8D%A3%EF%BC%9A%E6%9C%89%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8/" target="cdt-mirror">自由亚洲｜中共新疆纪委书记徐海荣：有党员干部支持参与暴恐</a>
+</h2>
+<p><p>中共新疆维吾尔族自治区纪委书记徐海荣最近在《中国纪检监察报》上发表文章，批评一些在新疆的中共党员干部不仅在“大是大非问题上”与党中央相悖，还“支持参与暴恐”行动。</p>
+<p>法新社11月25日报道说，中国新疆的共产党反贪主管官员说，有当地中共官员支持暴力攻击。中国官方《中国纪检监察报》日前发表中共新疆维吾尔自治 区纪委书记徐海荣的文章，批评一些中共党员干部在涉及反分裂的“大是大非问题上左右摇摆”，甚至还有人“支持参与暴恐”。文章援引中共总书记习近平的说， “在所有党的纪律和规矩中，第一位是政治纪律和政治规矩。” ，“新疆工作的总目标是社会稳定和长治久安”。他指责“由于受‘双泛’(泛伊斯兰主义、泛突厥主义) 思想的影响，新疆正处于暴力恐怖活动活跃期、反分裂斗争激烈期、干预治疗阵痛期。”新疆当前面临严峻复杂的形势和艰巨繁重的任务，但一些党员干部“公开发表同党中央、自治区党委要求相悖的言论”；有的甚至“支持参与暴力恐怖活动”；有的理想信念发生动摇，“不信马列信鬼神”；还有的党员干部“对党不忠诚、 做人不老实”。</p>
+<p>虽然中共新疆自治区的纪委书记以严厉措辞指控一些党员干部“不信马列信鬼神”、以及“公开发表同党中央、自治区党委要求相悖的言论”、甚至“支持参与暴力恐怖活动”等，但却没有列举任何具体案例，也没有点此类官员的名字。</p>
+<p>美国西东大学荣誉退休教授杨力宇先生就此表示，这篇文章没有表明哪些人支持恐怖活动，哪些人信神信鬼，但使人不得不猜测，这些大概是指维吾尔族官员。而新疆的问题真是多年的问题了，而且无望在近期得到解决：</p>
+<p>“维吾尔族人和中共的矛盾不是一个新发展的问题，由来已久。在中共的统治下，他们的确处于不佳地位。再说，在中国有存在大汉族主义风气。新疆的问题看来不能在近期内得到解决。”</p>
+<p>法新社的报道说，中国共产党宣称，其党员是无神论者，并禁止包括维吾尔族干部在内的所有党员干部信奉宗教。每逢伊斯兰斋月，新疆的学校和政府机构都会要求党员、公务员、学生及教师等不得参加穆斯林斋月的封斋活动。</p>
+<p>杨力宇教授认为，中共在新疆的政策可以说是失败的，需要重新考虑：</p>
+<p>“靠镇压是不能解决问题的。我认为中共是应该重新检验自己新疆政策的时候了。”</p>
+<p>中共新疆纪委今年5月证实，党媒《新疆日报》总编辑赵新尉因“严重违反政治纪律和政治规矩，妄议中央”被开除党籍和开除公职，移送中国司法机关依法处理。今年7月，中共新疆纪委副书记马国伟通报该案情时曾表示，赵新尉“对中央和自治区的大政方针罔加评论，口无遮拦，丧失了一名党员领导干部最起码的素质。”</p>
+<p>中国军方喉舌《解放军报》11月23日报道说，新疆武警最近在天山某地缉拿新疆暴恐分子时，在使用催泪弹和爆震弹无果后，对隐藏在一个悬崖峭壁山洞 里的暴徒动用了火焰喷射器。10多名暴恐分子被迫出洞持刀冲向武警，当场被彻底消灭。在这次行动中，军警共打死28名暴恐分子。</p>
+<p>在德国的“维吾尔大会”发言人伊利夏提说，中国当局如今把一般表达不满的维吾尔人也指控为是恐怖分子：</p>
+<p>“中国当局过去对维吾尔人镇压还不至于炫耀动用了什么样的武器，但现在，中共媒体已经开始大肆炫耀和大谈特谈自己用什么样的武器消灭了维吾尔人。”</p>
+<p>新疆维吾尔自治区近些年来暴力袭击事件频发。2014年4月底，在中共总书记习近平对新疆视察的最后一天，新疆首府乌鲁木齐火车南站发生持刀袭击和 自杀式炸弹袭击事件。中国警方指控爆炸案是“东突厥斯坦伊斯兰运动”恐怖组织所为，随后展开为期一年“严厉打击暴力恐怖活动专项行动”。大批维吾尔人被 捕，受审并被判刑。国际人权组织谴责中国政府在新疆实施强力打压政策。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%85%B1%E6%96%B0%E7%96%86%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%BE%90%E6%B5%B7%E8%8D%A3%EF%BC%9A%E6%9C%89%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E5%B8%88%E8%8C%83%E7%94%B7%E7%94%9F%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%EF%BC%9A%E4%BD%A0/" target="cdt-mirror">省教育厅工作人员回应“师范男生免费教育”：你没生男孩你不懂</a>
 </h2>
 <p><p>今年6月，福建省教育厅发布了《<a href="http://www.swjyj.com/upload/2015-06/15060408152795.pdf">福建省师范生免费教育试点办法（试行）</a>》，并于7月<a href="http://www.moe.edu.cn/jyb_xwfb/s6192/s222/moe_1745/201507/t20150706_192636.html">启动实施</a>，随之遭到了大量网民、尤其是女权主义者的强烈抗议和抵制。</p>
@@ -567,54 +659,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B0%81%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%BB%BB%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9F/" target="cdt-mirror">东网｜老徐：谁将成为下一任中纪委书记？</a>
-</h2>
-<p><p>18大以后波澜壮阔的反腐硕果累累，令全世界对新一届的党中央刮目相看。站在改革发展、从严治党风口浪尖上的，除了一、二把手习、李之外，当属中纪委书记王岐山了。在中共历史上，中纪委从没有像今天这样名声显赫，其地位和作用也从没有像今天这样重要，在老百姓心目中的形象，更从没有像今天这样光采耀人。</p>
-<p>王岐山退任后，料栗战书接任中纪委书记的可能性最大。</p>
-<p>距离 19 大召开还有两年多时间， 19 大的人事布局已经拉开序幕。现有 7 个常委，除习、李留任外，其他 5 人将届满退休。谁来接替都是个谜。而大家最为关注的，恐怕就是谁来接替王岐山担任中纪委书记。</p>
-<p>在目前 25 名政治局委员中，除去将要退休的，能有希望更上一层楼的，也就那么屈指可数的几个人：胡春华、孙政才、赵乐际、汪洋、李源潮、马凯、栗战书等。当然也不排除从中央委员或者候补中央委员里产生「黑马」，以前这种情况时有发生。这些人选里，究竟谁将能成为下一任中纪委书记呢？<br>
-从目前传递出的信号来看，我认为栗战书接任中纪委书记的可能性最大。</p>
-<p>从栗战书的简历里可以看到， 1983 到 1985 年，这两年对于他一生的仕途非常关键。因为他在无极县委书记任上结识了比自己小三岁的习近平。两人一个是中央派下来的，一个是省里派下来的，同属交流干部。一个在正定，一个在无极，位置紧挨着。这两年的交往，应该使两人成了「哥们儿」，奠定了两人亲密无间的友谊基础。</p>
-<p>之后二人的仕途并无交集，一个去了福建发展，一个调回省城。应该说，栗战书在政坛起步算是比较早的，年仅 43 岁时就成为了副省级官员。但是之后的官运似乎一直不太顺，直到 2008 年才出任黑龙江省委副书记、省长，走上正部级领导岗位。也就是说栗战书在副省级岗位历练了长达 15 年，其中的酸甜苦辣应该感受很多。</p>
-<p>不过，栗战书官场真正质的飞跃，应该是上调中央接任中办主任之后。三年来，在中办系统大力清洗令计划的势力，确保中枢机构高效运转，推进中南海各项政务工作，成绩斐然。更重要的是，辅佐习近平内外主政，立下了汗马功劳。</p>
-<p>最近，栗战书连续在《人民日报》发表文章，强调反腐败斗争不能停步、不能放松，反腐斗争永远在路上，要求必须坚决撤换缺乏责任心、缺乏担当的党员干部，严重违纪违法的要绳之以法。在任中办主任走到前台，对纪检监察和干部工作提出明确要求，在党的历史上极为罕见，也意味深长，似乎在向外界传递某些信号。</p>
-<p>19 大时栗战书将年满 67 岁，属于「七上八下」里能够继续上一个台阶的上限。中纪委书记必须由敢于碰硬的「嫡系」担任，才能确保党风廉政建设和反腐败工作不会半途而废。应该说现有政治局委员里，符合这个条件的，非栗战书莫属。</p>
-<p>政治讲究的是利益平衡。 19 大距今还有两年多时间，不排除会有新的情况出现。但是，不管怎样变化，栗战书都应该是下一任中纪委书记最有实力的竞争者。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B0%81%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%BB%BB%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%97%E6%88%98%E4%B9%A6/?category=18271" rel="tag">栗战书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/" target="cdt-mirror">自由亚洲｜高瑜案二审开庭前见律师</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%BD%A0%E6%9C%89%E6%9E%AA-%E6%88%91%E6%9C%89%E7%AC%94-%E9%AB%98%E7%91%9C.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/05/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%BD%A0%E6%9C%89%E6%9E%AA-%E6%88%91%E6%9C%89%E7%AC%94-%E9%AB%98%E7%91%9C.jpg" alt="巴丢草：你有枪 我有笔 #高瑜" width="400" height=""></a><br><em>（“你有枪 我有笔” by 巴丢草）</em></p>
-<p>北京资深媒体人高瑜案二审将于11月24日在北京法院开庭，据称法官当庭宣判的可能性较大。代理高瑜案的北京莫少平律师事务所主任律师莫少平和律师尚宝军，23日上午到看守所会见高瑜后表示，高瑜上周已接到开庭通知，并已做好出庭准备。因是闭门审理，高瑜的家人不能旁听。</p>
-<p>被北京中级法院一审判刑七年的资深媒体人高瑜案的二审，将于11月24日在北京法院开庭审理，但庭审过程不公开。高瑜的家人也不得旁听。一位接近高瑜家的人 士23日告诉本台：“明天开庭，会不会当庭宣判，律师也没有准确的消息，他说搞不清楚。但是，判刑，这次肯定要判，一个是当庭就判，中间休庭，然后再宣布 开庭，就判。这是一种形式，还有一个是改日再判，不一定开庭，到看守所宣布（刑期）就完了”。</p>
-<p>当天上午，代理此案的北京莫少平律师事务 所主任律师莫少平和律师尚宝军到看守所与当事人高瑜会面。莫少平律师说与高瑜交谈约四十分钟，高瑜称，已接到开庭通知：“如果不是死刑案子，不是检察院抗 诉的案子。大部分二审的案子是不开庭审理的。她（高瑜）也接到明天开庭的书面通知了，明天开庭”。</p>
-<p>记者：高瑜是什么态度？</p>
-<p>回答：开庭之前不方便讲。</p>
-<p>记者：她目前的身体状况，出庭行吗？</p>
-<p>回答：我问了一下，她说可以吧。应该是有医疗保障措施的。</p>
-<p>高瑜案另一位代理律师尚宝军说，这次会见主要是向当事人介绍二审程序：“主要是介绍明天开庭的程序和一些注意事项。高瑜也收到通知。她现在的身体状况马马虎虎，应该能够支撑庭审。我们也问她身体怎么样，她说应该还能支撑。其他的内容暂时不方便透露，明天开完庭再说吧”。</p>
-<p>尚宝军说，此次二审与一审相同，案件因涉及国家机密，法院不公开审理。</p>
-<p>71岁的高瑜患有多种疾病，被羁押期间多次因病，需要送医院治疗，其中10月3日凌晨，因突发心脏病，在药物无效的情况下，连续输液一个星期，情况才有所好转。她的律师曾透露，高瑜的身体状况堪忧，深受心脏病、高血压、美尼尔氏症等多种疾病的困扰。</p>
-<p>去 年4月24日，高瑜被公安刑事拘留。起诉书指高瑜向境外网站泄露中共九号文件。其内容包括要求高校教师不讲普世价值、新闻自由等，被称为“七不讲”文件。 今年4月17日，高瑜被法院以“为境外非法提供国家秘密罪”判处有期徒刑七年。高瑜不服判决，向北京市高级法院提出上诉。</p>
-<p>24日进行的二审，将对高瑜案全部内容进行审理，重点围绕上诉材料中指出的争议部分，进行辩论。莫少平律师说：“应该是对全案进行审理，也对上诉人提出的上诉或者是控辩双方争议大的部分，着重审理。围绕上诉人的上诉理由，围绕控辩双方争议的主要焦点，进行审理”。</p>
-<p>据称，控方坚持“高瑜泄露国家秘密”，法官即使减刑也不会改变这一指控。</p>
-<p>曾 任职中新社记者的高瑜，1989年担任《经济学周报》副总编，不久该报被停刊，同年6月3日，高瑜被捕。1990年8月28日获释。1993年10月2 日，再次被捕，1994年11月9日，由北京市中级人民法院以“泄露国家机密罪”，将其判处有期徒刑6年。1999年2月15日，以“保外就医的名义”获释。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">”泄露国家机密”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E8%AE%B2/?category=18271" rel="tag">七不讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E5%8F%B7%E6%96%87%E4%BB%B6/?category=18271" rel="tag">九号文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -636,5 +680,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

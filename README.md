@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,109 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%86%89%E4%BA%91%E9%A3%9E-%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%AE%B9%E6%98%93%E8%A2%AB%E6%8E%A7%E5%88%B6%EF%BC%9A%E3%80%8A%E9%9D%A0%E8%B0%B1%E6%97%AC%E5%88%8A%E3%80%8B/" target="cdt-mirror">冉云飞 | 大多数人为何容易被控制：《靠谱旬刊》第三期</a>
+</h2>
+<p><p><strong>冉按：</strong><strong>《靠谱旬刊》以一己之力，鸠合他人的信息分享，以及在互联网上的大量筛选，并用自己的阅读视野，理解能力，来达成一份有启迪、有意思的好文章的推选。</strong>欢迎各位在敝公微下面留言，推荐你认为好的文章，让我在优中择优，以最大限度节约人们的信息与知识搜寻成本，从而达成知识传播与用途的最优化。</p>
+<p>上网十七年来，我一直是个互联网信息与观念的分享者。举比较显著的事情，就是我曾于2005年至2011年近六年来，每日一博，日拱一卒，不间断写过两千多篇时评，批评中国社会生活各个方面不公平、不正义的事情。办过“冉氏新闻评论周刊”（198期）、“常识周刊”（比较短，只有8期）、“公民社会与NGO发展周刊”（143期），直到2011年2月因所发表大量尖锐批评文章而受缧绁之灾为止。</p>
+<p>本月初创办的《靠谱旬刊》电子刊物，<strong>其选择标准如次，</strong>一是我认为在某个领域的知识上有启发作用的文章，二是我认为大家所关心的问题，比较有意思的解答与解决方案，三是能给我们带来新知，拓宽我们视野的文字。其它标准，我尚未想好。请有兴趣的朋友跟帖提出你的看法，说不定可以丰富与拓展《靠谱旬刊》的选择标准。另外，每篇文章或者每个视频的推荐辞，尽量简短，而能击中其内核，将其呈现给读者。至于是否真正说出了该文章（视频）的精髓，这有待于读者自行检验。<strong>文章不允许做链接，朋友们可以用标题在网上一搜，即可看到。</strong></p>
+<p><strong>14：《纪录片：探索自我的世纪》：</strong>说弗洛伊德是二十世纪最有名的人物之一，恐怕没有人反对。但把他的理论运用到现实生活中，并且大发其财的外甥伯奈斯，就很少有人知道了。事实上，伯奈斯是运用心理学、传播学等来操控商业与政治，并深刻影响人们的消费与思想行为的牛人。<strong>不被老大哥无所不在的奴役与操控，你以为你是自由的，其实不然。此纪录片可与电影《楚门的世界》对看。</strong></p>
+<p><a href="http://movie.douban.com/subject/1779678/">http://movie.douban.com/subject/1779678/</a></p>
+<p><strong>15：《项飚：中国人像蜂鸟，振动翅膀悬在空中》：</strong><strong>中国人普遍的不安全感，无根的悬浮状态，我认为人类学者项飚这个访谈解释得比较到位。</strong>“一切现在发生的事情，都是为了未来的某一个目标。你要努力去做，不做，未来的目标就达不到；但是未来是什么，能不能达到，完全不知道。一切现在做的都是为了超越现在。现在去做工，‘工’是没有乐趣的，是为了明天更好；小孩被逼着学钢琴、画画，就为了后来加分、成名。在进行的事情本身没有意义，都是手段，但目的又完全是不确定的。它的本质不是对未来的追求，而是对现在的否定。这个就是我说的悬浮：把自己拔起来，悬在空中。”中国人很多人没有真正的信仰，又没有安全感，所以拚命想抓住未来，而未来又不可知，像个无底黑洞。这样的焦虑与失重，造成了中国人很大的精神创伤。</p>
+<p><a href="http://www.jiemian.com/article/215429.html">http://www.jiemian.com/article/215429.html</a></p>
+<p><strong>16：《向倩：如何跟孩子讲死亡》：</strong>谈论死亡的文章不算多，不过你一搜也不算少，但很多是噪音，而不是真正能给你带来知识增长的信息。<strong>这篇谈死亡的短文章，提及谈死亡的重大意义，同时也涉及了中国人为何逃避谈死亡的问题。她从哲学的角度分析了，中国为何重“身体崇拜”而轻精神轻“自我”，有不少的启发价值。</strong>其实孔子的“未知生，焉知死”就是轻视对死亡做哲学思考的知识渊源，文后所附的绘本也算是给父母打开与孩子谈死亡的钥匙。至于有人说与孩子谈死亡，不如先与他谈谈“量子信息学”，谈“量子态不可复制原则”，就可以让孩子明白死亡是怎么回事了，可能比较搞笑。我在想孩子要是明白了“量子信息学”，其智性优越感与理解力，恐怕就没有什么兴趣与你父母谈死亡问题了。</p>
+<p><strong>17：《王汎森：现在历史是什么——西方史学的新趋势》：</strong>这虽然是十多年前的一个演讲，但我认为对于认识西方历史从十九世纪至二十世纪的演进，却很有帮助，因为它是一个比较清晰的轮廓式阐释。<strong>内行人可以看出许多史学理论与研究之间的此消彼涨，从而找准自己的兴趣与超越目标，外行人可以得到理解历史不少的新方法。</strong></p>
+<p><a href="http://jds.cass.cn/Item/31649.aspx">http://jds.cass.cn/Item/31649.aspx</a></p>
+<p><strong>18：《端专访：如何打敗ISIS》：</strong>关于伊斯兰国的文字，越来越多，议论的人也不少，但到位的却不多。<strong>我认为这篇不长的新闻访谈，是把专家的现实策略与伊斯兰的内在生存理路相结合，分析得比较透彻的访谈。</strong>访谈后面的书籍推荐，更是专业指向与现实解决双重并举。</p>
+<p><a href="https://theinitium.com/article/20151120-international-howtodefeatISIS/">https://theinitium.com/article/20151120-international-howtodefeatISIS/</a></p>
+<p><strong>19：《吴国盛：没有基督教就没有近代科学》：</strong>这是科学史专家吴国盛先生的一个演讲，这个演讲条理分明，议论明析，结论也很肯定。当然你完全可以质疑他这样的结论，<strong>但你得想想基督教为何催生了近现代科学，却被近现代科学如达尔文的进化论，所强力阻击，这里面的张力何在？</strong>我觉得你是不是基督徒，有没有信仰，这个问题都不能回避。</p>
+<p><a href="http://www.phil.tsinghua.edu.cn/publish/dphi/9645/20150720/24831437406306159.pdf">http://www.phil.tsinghua.edu.cn/publish/dphi/9645/20150720/24831437406306159.pdf</a></p>
+<p><strong>20：《安替：关于贫穷和拖延的天才发现》：</strong>我一直主张在时间管理上学习柳比歇夫的做法（柳氏是苏联的生物学家，其事迹见格拉宁的《奇特的一生》），也觉得李笑来的《把时间当朋友》虽然不无心灵鸡汤的嫌疑，但对时间要有良好的管理，我却是赞同。但哈佛大学终身教授、经济学家穆来纳森团队所做的一个研究，却新我眼目。其结论是：<strong>“穷人和过于忙碌的人有一个共同思维特质，即注意力被稀缺资源过分占据，引起认知和判断力的全面下降。”</strong>安替这文章我是前年读到的，现在依然认为值得从观念拓展上，向大家推荐。</p>
+<p><a href="http://other.caixin.com/2013-09-14/100582628.html">http://other.caixin.com/2013-09-14/100582628.html</a></p>
+<p><strong>2015年11月26日于成都</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%86%89%E4%BA%91%E9%A3%9E-%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%AE%B9%E6%98%93%E8%A2%AB%E6%8E%A7%E5%88%B6%EF%BC%9A%E3%80%8A%E9%9D%A0%E8%B0%B1%E6%97%AC%E5%88%8A%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90/?category=18271" rel="tag">内容推荐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%89%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">冉云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E8%AF%BB/?category=18271" rel="tag">阅读</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A0%E8%B0%B1%E6%97%AC%E5%88%8A/?category=18271" rel="tag">靠谱旬刊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%99%88%E5%85%88%E7%94%9F%E7%9A%84%E6%8A%A2%E6%95%91%E5%AE%A4%EF%BD%9C%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E6%B5%81%E8%A1%8C%E8%83%8C%E5%90%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%84%8F%E5%91%B3/" target="cdt-mirror">陈先生的抢救室｜膜蛤文化流行背后的社会学意味</a>
+</h2>
+<p><p><em>原标题：“Moha文化”流行背后的社会学意味</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A401.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A401.jpg" alt="蛤01" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A402.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A402.jpg" alt="蛤02" width="525" height=""></a></p>
+<p>清华同学社交平台上的膜蛤现象：表情，动图，朋友圈</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A403.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A403.jpg" alt="蛤03" width="525" height=""></a></p>
+<p>网络空间上的膜蛤现象：蛤乎：与世界分享一点，人生的经验。山寨知乎的一个膜蛤网站张宝华微博：已成为蛤丝朝圣之地</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A404.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A404.jpg" alt="蛤04" width="525" height=""></a></p>
+<p>纽约时报中文网，10月21日，《“膜蛤文化”盛行中国网络，或映射习》，报道落脚点在对当下政治的批判</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A405.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A405.jpg" alt="蛤05" width="525" height=""></a></p>
+<p>到底什么是膜蛤？（根据维基百科）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A406.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A406.jpg" alt="蛤06" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A407.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A407.jpg" alt="蛤07" width="525" height=""></a></p>
+<p>我们怎么研究？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A408.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A408.jpg" alt="蛤08" width="525" height=""></a></p>
+<p><strong>第一部分：</strong>问卷及数据分析点击文末“阅读原文”可见问卷全文，ppt仅介绍部分题目问卷发出不到17个小时，在朋友圈传播，就获得了508份答卷：蛤丝群体的网络高活跃度；得分问卷易于传播</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A409.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A409.jpg" alt="蛤09" width="525" height=""></a></p>
+<p>问卷开头</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A410.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A410.jpg" alt="蛤10" width="525" height=""></a></p>
+<p>部分题型：选项设置处处有梗，难易结合Q1-Q20，试题部分</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A411.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A411.jpg" alt="蛤11" width="525" height=""></a></p>
+<p>Q21-Q32，调查问卷部分个人基本情况，膜蛤态度，政治评价</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A412.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A412.jpg" alt="蛤12" width="525" height=""></a></p>
+<p>试题分数结果均分50.13，标准差20.57</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A413.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A413.jpg" alt="蛤13" width="525" height=""></a></p>
+<p>部分基本问题结果</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A414.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A414.jpg" alt="蛤14" width="525" height=""></a></p>
+<p>怒斥港记是蛤丝的入门读物</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A415.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A415.jpg" alt="蛤15" width="525" height=""></a></p>
+<p>廉洁程度低分，个人魅力高分</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A416.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A416.jpg" alt="蛤16" width="525" height=""></a></p>
+<p>二代和三代好评</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A417.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A417.jpg" alt="蛤17" width="525" height=""></a></p>
+<p>数据处理结果试题得分只与一个变量呈强相关关系。强相关表明，看过越多Q29选项中的视频文字或图像资料，就对膜蛤文化越了解。也就是说，一个人对膜蛤的了解程度多少，取决于他是否看过选项中的几个材料。这非常符合我们的认知。此外，两个变量的强相关关系也证明了测试试题的有效性，即试题较好地检测了一个人对膜蛤文化的了解程度。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A418.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A418.jpg" alt="蛤18" width="525" height=""></a></p>
+<p>粉为主流，4成粉黑都有</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A419.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A419.jpg" alt="蛤19" width="525" height=""></a></p>
+<p>SPSS独立样本T检验结果：姿势水平与性别相关，与专业和年级无关（即便均分有差异）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A420.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A420.jpg" alt="蛤20" width="525" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A421.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A421.jpg" alt="蛤21" width="525" height=""></a></p>
+<p>膜蛤态度分析</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A422.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A422.jpg" alt="蛤22" width="525" height=""></a></p>
+<p>从条形图看，似乎是。但是还需要做进一步检验</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A423.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A423.jpg" alt="蛤23" width="525" height=""></a></p>
+<p>检验结果说明统计意义上相关</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A424.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A424.jpg" alt="蛤24" width="525" height=""></a></p>
+<p>但膜蛤水平与习评价的相关是否证明膜蛤是影射习？取另一个变量进行数据处理，结果如下说明并不是</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A425.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A425.jpg" alt="蛤25" width="525" height=""></a></p>
+<p>强行跑个回归（统计学刚入门，有科学性错误希望能指出并希望见谅）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A426.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A426.jpg" alt="蛤26" width="525" height=""></a></p>
+<p>伪蛤丝与真蛤丝的区别在于对长者开明程度和个人魅力的认识</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A427.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A427.jpg" alt="蛤27" width="525" height=""></a></p>
+<p><strong>第二部分</strong>：蛤丝采访结果这部分PPT说得很清楚，不再补充</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A428.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A428.jpg" alt="蛤28" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A429.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A429.jpg" alt="蛤29" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A430.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A430.jpg" alt="蛤30" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A431.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A431.jpg" alt="蛤31" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A432.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A432.jpg" alt="蛤32" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A433.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A433.jpg" alt="蛤33" width="525" height=""></a></p>
+<p>资深蛤丝表现出对长者的推崇，兼具情怀与趣味</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A434.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A434.jpg" alt="蛤34" width="525" height=""></a></p>
+<p><strong>第三部分</strong>：流行原因与传播规律（这部分如果本号幸存，那么之后还会有文章进一步分析）</p>
+<p>一、崇拜长者可能是由于江的个人魅力所致，而这个“魅力”也是相对的——他的形象与中国领导人一贯的死板面孔完全不同，相对于毛邓的伟人形象，胡温的官方腔调，江的形象是超脱于以上这些人们传统观念和官方正统主流要求的刻板形象的。他说话风趣，喜欢在中文中夹杂英语，精通多国语言；他衣着时尚，喜欢穿高腰裤，正因为这种反差的魅力，才让他受到疯狂的追捧。在江的身上，我们看到了人性的一面，也就是他作为一个鲜活的人所具有的一切特质，这或许听起来有些讽刺，但是中国传统观念上要求一个领导人应该是高高在上的，保持神秘感，而且在正式场合一定要维持形象和固定的模式。也就是领导人在人们心目中的私人空间是被压缩的，而江泽民的一系列表现（在死海中游泳、在领导人面前梳头）都是在现在的领导人身上看不到的“叛逆”和个性化行为，这种出格的行为或许就合了有些人的胃口，成为他们抗议政府的工具。（但同时长者的外交表现被西方媒体认为是一种失礼和失态）</p>
+<p>二、膜蛤的出发点还可能是因为青年群体的总体话语空间正在被压缩。不论是在网络空间还是在现实世界，反政府的言论都是很容易被和谐的，在这个社会剧烈变动的时代，贫富差距和社会不平等一系列问题很容易让人们对政府产生不满，而人们在压抑的情绪得不到释放时，只能采用暗语的方式反讽政府的所作所为。</p>
+<p>三、膜蛤一开始只是一种小众行为，掌握了“膜蛤姿势”的人可能会产生一种高高在上的优越感，认为自己知道了别人都不知道的领导人的行为举止、兴趣爱好等，而且更为关键的是这种政治上的信息获取量相对大小很容易成为人炫耀的资本。而演变到后来，膜蛤群体逐渐壮大起来后，这更成为区分群体内和群体外的最基本标准，群体内的人会有一种这种时尚由我们掌握和制定规则的感觉。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A435.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A435.jpg" alt="蛤35" width="525" height=""></a></p>
+<p>一开始是由少数群体引领的膜蛤现象，而这些人对于江的心态或许大部分出于讽刺和嘲笑，加之外媒的报道，膜蛤一开始是带着一种反抗的心理。而随着更多新鲜的蛤丝涌入，在传播的过程中人们的心态也发生了改变，由最初的讽刺吐槽变为了发自真心的崇拜和喜爱。少数人的行为活动能够被大多人数人所接受，膜蛤的生命力来源是以下几点：一、膜蛤的语言在很多人看来是很有趣的，很多人在最初接触到膜蛤时都是发现周围的人在使用特定的膜蛤语言（类似“吼啊”），他们可能并不理解词汇背后的真实含义，但是会认为这种说话方式很新潮有趣，所以在不清楚意义的时候就不自觉开始模仿这种语言，因而造成了病毒式的传播。二、从上述规律可以看到，膜蛤现象传播的大部分人是由于跟风。在选题了解的过程中，我们发现有很多人并不知道一些膜蛤词语的“本源”，甚至也不知道这些词是在“膜”。这种跟风可能是因为话语方式有趣或是没有经过思考的使用膜蛤的语言，而在逐渐深入了解江泽民的过程中，人们会逐渐对膜蛤群体这一身份产生群体认同，膜蛤文化也相应产生。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A436.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A436.jpg" alt="蛤36" width="525" height=""></a></p>
+<p>当我还在中学写着数理化作业的时候，第一次在网上看到了长者怒斥香港记者的视频，当时是震惊的。而那时网络上零星出现的对长者言行的改编，大部分都是带着嘲弄和讽刺的意味，同时还有讽刺党，批评政府的目的。但是几年过去了，这一现象就发生了逆转。犹记得今年“9·3阅兵”的时候，当长者出现在天安门城楼前，我的内心是无比激动的，就像看到心中的神明出现在了眼前一样。当时打开朋友圈，同样关心长者的人也无不激动感慨，他已成为蛤丝心中的一种图腾。从黑到粉，也只不过几年时间，这其中的变化非常巨大且微妙。而这些变化，既是个人的成长亦是时代环境的驱使。看似兴盛的一种青年亚文化，实则已经发生了转变。总结如下：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A437.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A437.jpg" alt="蛤37" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A438.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%9B%A438.jpg" alt="蛤38" width="525" height=""></a></p>
+<p>“<a href="http://www.sojump.com/m/6414209.aspx">阅读原文</a>”可见原问卷你们给我搞的这个东西呀，excited！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E9%99%88%E5%85%88%E7%94%9F%E7%9A%84%E6%8A%A2%E6%95%91%E5%AE%A4%EF%BD%9C%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E6%B5%81%E8%A1%8C%E8%83%8C%E5%90%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%84%8F%E5%91%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E9%95%BF%E8%80%85%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">为长者续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4/?category=18271" rel="tag">图样图森破</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F/?category=18271" rel="tag">谈笑风生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E6%B6%89%E5%AF%86%E6%A1%88%E4%BA%8C%E5%AE%A1%E6%94%B9%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%E4%BA%94%E5%B9%B4/" target="cdt-mirror">BBC | 中国记者高瑜涉密案二审改判有期徒刑五年</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151126021028_gao_yu_976x549_getty_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151126021028_gao_yu_976x549_getty_nocredit.jpg" alt="现年71岁的高瑜曾多次被中国司法机关关押" width="660" height="371"></a><p>现年71岁的高瑜曾多次被中国司法机关关押</p></div>
@@ -614,48 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%AE%E8%A7%86%E7%AF%A1%E6%94%B9%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%8C%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E8%84%B8%E8%AE%A9%E6%97%A5/" target="cdt-mirror">【河蟹档案】CCAV篡改党史，封杀赵紫阳</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40SCMP_%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1">SCMP_南華早報</a>：央视[胡耀邦]纪录片中出现了一份《人民日报》，头版标题是“胡耀邦任总书记邓小平任军委主席”，但时任中央政治局常委的赵紫阳的头像，被李先念的头像取代。//*<a href="https://freeweibo.com/weibo/%40%E8%94%A1%E6%96%AF%E5%9B%BE">@蔡斯图</a>:这么搞太恶心了，还有什么脸让日本人正视历史。 //*<a href="https://freeweibo.com/weibo/%40%E7%9F%B3%E6%89%89%E5%AE%A22014">@石扉客2014</a>:马云老师需要加大收购步伐啊。<em>相关阅读｜《南华早报<em>｜</em><a href="http://www.nanzao.com/sc/national/15132589f7f7a07/yang-shi-hu-yao-bang-ji-lu-pian-ren-min-ri-bao-tou-ban-bao-dao-zao-cuan-gai">央视胡耀邦纪录片 <人民日报>头版报道遭篡改</a>》；《<a href="https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3">维基百科<em><em>｜赵紫阳</em></em></a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/22.jpg" alt="22" width="546" height="751"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/33.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/33.png" alt="33" width="539" height="333"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/4443.png" alt="444" width="538" height="308"></a><br><a href="https://freeweibo.com/weibo/3912318079364944" target="/weibo/391">2015年11月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：【穿内裤“反党”案今在深圳中院宣判】在深工伤受害者杨明玉煽动颠覆国家政权案羁押近两年半、开庭19个月后11月24日宣判。最可笑罪状是杨穿条内裤称“为了包着党的尊严，特来到深圳市委门口前抗议，如果共产党不要脸，我把底裤也脱下来”，照片被外媒刊登。杨此前还因辱骂公安被控妨害公务劳教一年。<em>相关阅读｜</em>《<em><a href="http://www.voachinese.com/content/yang-lin-shenzheng-rights-lawyer-charged-sedition/1727592.html">美国之音｜深圳维权人士杨林（原名杨明玉）被控“煽动颠覆国家政权罪”</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44429.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44429.jpg" alt="444" width="537" height="403"></a><br><a href="https://freeweibo.com/weibo/3912603354912303" target="/weibo/391">2015年11月24</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B0%A2%E8%8B%8F%E6%98%8E014">谢苏明014</a>：被再次“依法”延长三个月审期，您已经被不明不白关押了18个月多，延长三月审期到期日是2016年2月18日，农历正月初十一春节期间，情人节后第四天。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/11/%E4%B8%9C%E7%BD%91-%E5%8D%97%E6%A1%A5%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%EF%BC%8C%E6%AC%B2%E5%8A%A0%E4%B9%8B%E7%BD%AA%E5%A6%82%E4%BD%95%E6%94%B6%E5%9C%BA/">东网<em>｜</em>南桥：浦志强案，欲加之罪如何收场</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44431.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44431.jpg" alt="444" width="337" height="447"></a><br><a href="https://freeweibo.com/weibo/3912330616032976" target="/weibo/391">2015年11月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%98%E5%BE%AE%E5%8D%9A%E5%A3%AB">丘微博士</a>：三次延后，明天开庭复审。<em>相关阅读｜</em>《<em><a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E7%91%9C%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%E5%89%8D%E8%A7%81%E5%BE%8B%E5%B8%88/">自由亚洲｜高瑜案二审开庭前见律师</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/44430.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/44430.jpg" alt="444" width="369" height="615"></a><br><a href="https://freeweibo.com/weibo/3912383044544581" target="/weibo/391">2015年11月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%93%9F%E5%A4%A7%E8%B1%AA%E7%88%B7">哟大豪爷</a>：雪蛤。<em>相关阅读｜</em>《<em><a href="http://cn.nytimes.com/china/20151021/c21sino-jiang/">纽约时报｜“膜蛤文化”盛行中国网络，或为影射习近平</a></em>》<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/3331.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/3331.jpg" alt="333" width="385" height="513"></a><br><a href="https://freeweibo.com/weibo/3912123568413395" target="/weibo/391">2015年11月22日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%A4%AE%E8%A7%86%E7%AF%A1%E6%94%B9%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%8C%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E8%84%B8%E8%AE%A9%E6%97%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%A4%96%E5%A4%A7%E4%BD%AC/?category=18271" rel="tag">体制外大佬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%A7%94%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">军委主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E8%99%9A%E6%97%A0%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">历史虚无主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%88%E5%BF%B5/?category=18271" rel="tag">李先念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%98%8E%E7%8E%89/?category=18271" rel="tag">杨明玉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%9E%97/?category=18271" rel="tag">杨林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BF%E5%86%85%E8%A3%A4%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">穿内裤反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AF%A1%E6%94%B9%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">篡改历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E8%AE%B0%E8%80%85/?category=18271" rel="tag">良心记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%B4%AB%E9%98%B3/?category=18271" rel="tag">赵紫阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E8%A6%81%E5%85%9A%E5%91%98%E5%AF%B9%E5%85%9A%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/" target="cdt-mirror">博谈网｜中央政治局会议要党员对党绝对忠诚</a>
-</h2>
-<p><p>（博谈网记者苏智敏报道）中共中央政治局11月23日召开会议，由中国国家主席习近平亲自主持，会议通过《关于打赢脱贫攻坚战的决定》、《关于加强和改进新形势下党校工作的意见》。会议中提到的“对党绝对忠诚是最重要的政治纪律”，引来网友讨论。</p>
-<p>对谁忠诚？</p>
-<p>《新华社》报导中提到，中共在改革开放后，实施扶贫开发“使7亿农村贫困人口摆脱贫困，取得了举世瞩目的伟大成就”。这场会议指出，要把精准扶贫、精准脱贫作为基本方略，目标到2020年中国现行标准下的农村贫困人口实现脱贫，贫困县全部摘帽，解决区域性整体贫困：“会议要求，到2020年通过产业扶持、转移就业、易地搬迁、教育支持、医疗救助等措施解决5000万人左右贫困人口脱贫，完全或部分丧失劳动能力的2000多万人口全部纳入农村低保制度覆盖范围，实行社保政策兜底脱贫。”</p>
-<p>“要振奋贫困地区广大干部群众精神，坚定改变贫困落后面貌的信心和决心。”会议提及实现全面建成小康社会的关键在党，要从严治党、依规治党，中央巡视组已经开展8轮巡视，巡视了149个地区和单位。报导中提到“对党绝对忠诚是最重要的政治纪律，管党治党责任是最根本的政治责任，守住纪律底线是最基本的政治要求。”</p>
-<p>《新华社》的这则新闻，人们关注的显然是“对党绝对忠诚是最重要的政治纪律”，中国媒体在微博上转发时，都在标题上如此强调。网友也对此提出质疑：不是为人民服务吗？甚致有人不满的表示“国家是谁的我不知道，但是党是谁的和人民绝对没关系。”</p>
-<p>另外，也有民众认为这样的宣示，听起来像邪教，更有人联想到极端恐怖组织“伊斯兰国”，网友“霜雪人间Vipsuper”就说：“绝对服从和忠诚组织的IS干出了丧尽天良惨无人道的恐怖事件。”</p>
-<p>贫富差距</p>
-<p>这场由习近平主持的会议，主要谈中国贫困地区的问题，中国政府希望能在2020年解决，离现在还有5年时间。然而中国的贫富差距之大，就跟这国家的人权现状一样，成了被外界诟病的问题之一。</p>
-<p>据中国社科院今年发表的蓝皮书显示，收入最低的20%中国城镇居民在2009年后收入增长速度有所上升，但同期收入最低的20%农村居民收入增速却在继续下降。这份报告将中国民众收入状况分为十组，1980年中国人平均收入落在第六组，2009年却落在第八组，说明越来越多的人收入低于平均水平，意味着中国的贫富悬殊状况不断加剧。</p>
-<p>今年3月，国际货币基金（IMF）发布最新研究报告也指出，中国贫富差距持续扩大。中国收入最高的20%人口，占总收入的近一半，而最贫穷的20%人口，连总收入5%都不到。该报告的二位作者塞维克（Serhan Cevik）和柯瑞亚－卡洛（Carolina Correa-Caro）皆认为，中国大部分经济发展的成果都被富人拿走。</p>
-<p>23日召开的这场会议还提到改革开放后，在扶贫开发上，“取得了举世瞩目的伟大成就”。但美国南卡州立大学教授谢田今年4月曾对《自由亚洲电台》表示：“改革开放以后中国的贫富悬殊一直在加剧。中国基尼系数0.4以后，中国政府就不再公布这个系数。一般估计现在可能超过了0.5，远远超过警戒线的水平，是世界上贫富悬殊最严重的国家之一。”</p>
-<p>谢田教授还指出中国贫富悬殊不断加剧激化的原因：“一般西方国家政府财政的大部份会用于社会保障和救济，包括教育、医疗和对低收入的补贴等。但中国不是，中国主要的支出用于政府营运，公务员和军费、维稳和政府投资。这等于扩大了社会贫富悬殊。”</p>
-<p>另外，贪污腐败也被认为是贫富悬殊拉大的根源之一，虽然23日会议上提出“要振奋贫困地区广大干部群众精神”，但中共当局以往在扶贫政策中，支出的救贫款，多数是落入地方官的口袋。国家级贫困县里出现豪华的办公大楼，在中国时有所闻。而在2012年，中国有27.7亿元救贫款被污走，这还是已曝光的冰山一角。</p>
-<p>关键词: 贫富差距 忠诚 共产党 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E8%A6%81%E5%85%9A%E5%91%98%E5%AF%B9%E5%85%9A%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -667,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

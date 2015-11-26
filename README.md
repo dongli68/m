@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E5%B8%88%E8%8C%83%E7%94%B7%E7%94%9F%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%EF%BC%9A%E4%BD%A0/" target="cdt-mirror">省教育厅工作人员回应“师范男生免费教育”：你没生男孩你不懂</a>
+</h2>
+<p><p>今年6月，福建省教育厅发布了《<a href="http://www.swjyj.com/upload/2015-06/15060408152795.pdf">福建省师范生免费教育试点办法（试行）</a>》，并于7月<a href="http://www.moe.edu.cn/jyb_xwfb/s6192/s222/moe_1745/201507/t20150706_192636.html">启动实施</a>，随之遭到了大量网民、尤其是女权主义者的强烈抗议和抵制。</p>
+<p><del>然并卵。</del>该政策已按原计划<a href="http://xw.qq.com/news/20151120038766?from=timeline&isappinstalled=0@">正式实施</a>，福建省首批试点招生的500名男生已经入学。</p>
+<p><strong>这项政策曾被中国官媒当作“<a href="http://www.chinanews.com/gn/2015/06-11/7338742.shtml">改善教师性别失衡</a>”的正面案例来报道</strong>，称其“颇为<strong>‘给力’</strong>”。</p>
+<p>在面对“为什么要开展师范男生免费教育”的问题时，该省教育厅的<a href="http://gaokao.fjedu.gov.cn/html/gkzx/gzyw/2015/07/11/846ac695-b741-4234-9ecb-73743b003a1a.html">官方回答</a>为，该省“小学、幼儿园师资队伍性别结构失衡，男教师稀缺，<strong>‘阳刚教育’缺位</strong>”，声称“<strong>改善教师性别结构已经成为一项刻不容缓的战略任务</strong>”。</p>
+<p>近日，一位名为<a href="http://weibo.com/2841892154">@太阳火焰七彩头</a> 的微博用户公开了她三次致电福建省教育厅和考试院、对这项政策进行投诉的全程录音<em>（编者注：@太阳火焰七彩头 录音分享<a href="http://yun.baidu.com/s/1bn2YXJ5">新链接</a>，原链接已失效）</em>。对话过程中，有教育厅工作人员抛出了诸如<strong>“你没生男孩你不懂”</strong>、<strong>“看看女教师教出来的男孩子都像女孩子！”</strong>等带有严重性别歧视倾向的惊人言论。甚至还有工作人员“大方”承认这项男性师范生免费的政策就是轻女重男：</p>
+<blockquote><p>我问这性别歧视政策不就是轻女重男吗？对方光明正大告诉我：“对对对。”</p></blockquote>
+<p><strong><a href="http://weibo.com/2841892154/D5ohmA8y2">@太阳火焰七彩头</a></strong>：拨打福建省教育厅和考试院电话全过程，这次男权骚屌们的态度更惊人，直接人生攻击“你没生男孩你不懂”且发表“看看女教师教出来的男孩子都像女孩子！”此类反女权男权言论。录音地址：<a title="http://yun.baidu.com/s/1eQHgdsm" href="http://t.cn/RUB7JJg" target="_blank"><em>网页链接</em></a> 听前请看：博主结巴、语无伦次、语言组织能力极差且表现懦弱，请做好耳聋准备orz</p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychoulfz6j20f00qoafe.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychoulfz6j20f00qoafe.jpg" alt="a963d53agw1eychoulfz6j20f00qoafe" width="300" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychowebnwj20f00qo0z3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychowebnwj20f00qo0z3.jpg" alt="a963d53agw1eychowebnwj20f00qo0z3" width="300" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychoxi2kdj20f00qon1c.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychoxi2kdj20f00qon1c.jpg" alt="a963d53agw1eychoxi2kdj20f00qon1c" width="300" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychoytkhvj20f00qogqg.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychoytkhvj20f00qogqg.jpg" alt="a963d53agw1eychoytkhvj20f00qogqg" width="300" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychozt06ij20f00qowh6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/a963d53agw1eychozt06ij20f00qowh6.jpg" alt="a963d53agw1eychozt06ij20f00qowh6" width="300" height=""></a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@豆瓣冷血才女：既然男孩让女老师教就会变成女孩，那么他们从小被女性妈妈抚养照料，不也是一样会变成女孩吗？按照福建教育部门的神逻辑，果然是应该让有儿子的男性都回家当全职爸爸，才可以避免儿子变成女孩。</p>
+<p>@玲珑大玉儿：呵呵，我有儿子，我儿子念的是全市最好的小学，念了几年，学校里全是女教师，那他也没有变成娘炮。拿生儿子说事，福建教育厅考试院这群男人的脸比脑洞还大！</p>
+<p>@兀兀-穷年：懂不懂居然跟生的是男是女挂上钩了？这样的人干教育，教出的又会是什么样的人？</p>
+<p>@淹死在沙漠海：学过高中历史的大家都知道，李贽作为福建人，明清时期挑战正统教条倡导男女平等，我当时想着这老头真不错，现如今，我想李贽要是魂能显灵，估计恨不得从福建的坟坑里跳出来：妈的这地不能呆了</p>
+<p>@follwind：听了一下，教育局的讲什么 没有调查没有发言权 ，难道你通过调查了就得出了： 男孩子娘是女老师教出来的 这样的结果？！是不是智商有问题？！</p>
+<p>@东方蝉寒：关键词“单身母亲教育优秀子女”百度结果→【老子、孔子、孟子、范仲淹、欧阳修、岳飞】关键词“单身父亲教育优秀子女”百度结果→【无】→_→</p>
+<p>@高富强：三段录音都听了，其中标记二的录音称，该政策已经征求省妇联的意见了，但是，该文件的制定单位并不包括妇联。</p>
+<p>@Endi雯雯：记得关于这事一评论说的好：教师待遇不满足于男性要求，该提高待遇福利来招收良师，而不是降低门槛，是个男的都能当老师，应求质而非求量。</p>
+<p>@霞光相思林：话说，“你没生儿子你不懂”，潜台词是不是“你没生儿子你不知道儿子多笨要不是免费教育包分配它哪里找得到工作，那它还怎么骗个媳妇回来给我传宗接代嘛”</p>
+<p><a href="http://weibo.com/2622419221" target="_blank">很大一块深井冰</a>：把教师这个职业塑造成“能力不用太高但要耐心温柔所以女孩子做最好了”的是你们，现在说着“女老师带出来的孩子太娇气了”的也是你们；说着“女孩子不用做事业当老师合适又稳当的”是你们，现在堂而皇之地不公平还是你们。<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/1836433733" target="_blank">柚子茶Lokiddleston</a>：哈哈哈，家政业也平衡下吧，打扫卫生爬高上低有时候还高空作业，可累可危险了，市场急需男性零时工来打扫卫生<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/aimuzixiang" target="_blank">木小襄菌</a><i></i>：理工科男多女少也没见政策引导调整，总之就是哪行哪业都有没有女人无所谓男人少了就是不行对吧<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/2676164173" target="_blank">爱走边缘的人_</a>：照这逻辑应该呼吁男性回归家庭，要不然以后都是”娘炮”呢<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
+<p><a href="http://weibo.com/5022129337" target="_blank">爱吃芝士条呵呵</a>：<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">下次会不会说女护士照顾的病人不够阳刚 妈妈教的小孩都娘炮 女医生开过刀的都变成gay了这种调查结果</p>
+<p><a href="http://weibo.com/1940665813" target="_blank">E大的街垒</a>：建议我国把女性灭绝，早日研制出男男生子技术，从根源上解决问题，迎来社会大和谐<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@kssushi_1th：女生读书付出的代价本来就比男生多 受到的非议压力也比男生大 女生就业读书收到的歧视也比男生严重 社会和教育机构还在女生仅有的比较占优势的领域给予男生优惠， 口口声声说的教育公平呢？！怎么不见在理工科领域给女生优惠？各种隐形歧视就不说了。教育界怎么能地存在这样的赤裸裸的性别歧视？</p>
+<p>@清尘风子：性别歧视先放一边，阳刚之气是什么先放一边，教师比例失衡影不影响孩子健全人格先放一边，就说人家如果不愿意当老师，你倒贴人家也不一定去。热爱教师的男性自然是福利，然而为了免交那点儿学费</p>
+<p>@-灵乌-：然而其他（例如工程类）行业男多女少怎么没见国家政策协调呢…归根结底，因为国家觉得一个行业可以缺少女性，却不可以缺少男性。这还不算是歧视吗。</p>
+<p>@那是我碎掉的三观：教育部也是男癌的天下，看高考分数还分男女录取就知道了</p>
+<p>@多看看我哥那飘逸的长脸：核心因素还是教师工资普遍低。在工资不高但收入预期稳定、假期足够的情况下，这个职位自然能吸引更多女生。福建教育厅的 做法是打着平衡教师性别比例的大旗堂而皇之地降低男性求学成本、人为制造师范类学生入学和就职不公。这即体现了决策无知，又体现了深入骨髓的性别歧视。</p>
+<p><strong>附：<a href="http://app.askform.cn/2696220001.aspx">呼吁福建教育部门取消师范男生免费教育的公开信</a> </strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E5%B8%88%E8%8C%83%E7%94%B7%E7%94%9F%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%EF%BC%9A%E4%BD%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%8F%E5%BB%BA%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85/?category=18271" rel="tag">福建省教育厅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E7%94%B7%E8%BD%BB%E5%A5%B3/?category=18271" rel="tag">重男轻女</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%83%A1%E8%80%80%E9%82%A6%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">【习总日记】 胡耀邦在干什么？</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，11，25）</p>
@@ -575,49 +615,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%AE%A9%E8%83%A1%E8%80%80%E9%82%A6%E9%87%8D%E5%9B%9E%E5%90%8D%E4%BA%BA%E5%A0%82%EF%BC%8C%E4%BD%BF%E4%BB%96%E5%BD%BB%E5%BA%95%E5%B1%9E%E4%BA%8E/" target="cdt-mirror">端传媒 | 让胡耀邦重回“名人堂”，使他彻底属于共产党</a>
-</h2>
-<p><p><span>虽然许多人记住胡耀邦、感念胡耀邦是因为他那些在共产党内显得不太“主流”的东西，但习近平讲话中的胡耀邦，就是中共高级领导人的“标准像”。</span></p>
-<p>中共纪念前领导人胡耀邦的活动，在他百年诞辰的当天——11月20日达到最高潮。全体政治局常委悉数出席纪念座谈会，习近平在座谈会上亲自讲话。鉴于胡耀邦身份的特殊性，内地和海外对这次纪念活动都高度关注。总的来看，这次座谈会，基本标志着“胡耀邦”在中国内地官方语境的完全“脱敏”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-22-at-%E4%B8%8B%E5%8D%883.33.26.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-22-at-%E4%B8%8B%E5%8D%883.33.26.png" alt="Screen Shot 2015-11-22 at 下午3.33.26" width="550" height="369"></a><span>中国北京有书店出售有关已故中共总书记胡耀邦的书籍。<span>摄：Jason Lee/REUTERS</span></span></p>
-<p><strong>纪念胡耀邦的“脱敏”之路</strong></p>
-<p>胡耀邦百年诞辰基本上是“最高规格”。虽然胡耀邦曾担任中共中央主席、中共中央总书记，但在中共历史叙事中，胡耀邦并非当时中共事实上的最高领导人，而是“以邓小平同志为核心的中央领导集体”的重要组成人员（邓小平当时任中央军委主席、中共中央顾问委员会主任等职）。</p>
-<p>和中共官方明定的六位地位最高的前领导人（毛泽东、周恩来、刘少奇、朱德、邓小平、陈云）相较，胡耀邦属于“第二序列”。在百年诞辰纪念活动的安排上，毛周刘朱邓陈可以在人民大会堂的万人礼堂召开“纪念大会”，而其他领导人就只能召开“纪念座谈会”。在这些座谈会中，政治局常委悉数出席，最高领导人亲自讲话的属于规格的顶格，仅在纪念已故正国级领导人的场合使用，如叶剑英、李先念等。胡耀邦百年诞辰，大致参照了和他同期担任政治局常委的叶、李等人的规格。</p>
-<p>除了召开纪念座谈会以外，官方还在胡耀邦百年诞辰时播出关于他生平的五集文献纪录片，发行《胡耀邦文选》和画册。尤其是《胡耀邦文选》的出版，对于胡耀邦的“脱敏”具有标志性意义，这意味着胡耀邦不再是中共“第二代”核心领导中没有出版文选的“异数”。</p>
-<p>对胡耀邦纪念的“脱敏”，源于胡耀邦身份的敏感。1987年初，胡耀邦因处置学潮不力下台，1989年4月逝世后，学生和民众对他的悼念活动又演化成中共历史上最大规模的民主运动，进而招致六四事件。客观而言，在当时胡耀邦就已经变成了一个“符号”，官方在1989年胡耀邦逝世后给他的评价和丧礼的规模并不算低，基本肯定了其作为一个前总书记的地位，然而民间对“胡耀邦”这个人物自有诠释，许多人认为他是高层政治斗争中的牺牲品。在起初，官方并不打算将“胡耀邦”作为一个特殊人物特殊对待，但事件的发展使得最终官方对胡耀邦的名字采取了刻意的淡化处理。</p>
-<p>1989年以后，以胡耀邦、赵紫阳等为代表有政治改革意愿的领导人，在中共高层中不再成建制存在。中共高层政治，在很大程度上彻底远离了八十年代的“保守”和“改革”之争。高层政治的分野，逐渐从政见转向派别。</p>
-<p>在中共高层中，对于胡耀邦，自然产生了两个不同的势力。对于在反“资产阶级自由化”和六四事件中客观获利的一方而言，回避胡耀邦是当然之选，而对于与胡耀邦下台、六四事件皆无瓜葛的人而言，胡耀邦仍有作为杰出共产党人的榜样价值。事实上，中共对胡耀邦的“脱敏”，始于2005年胡耀邦九十周年诞辰，彼时的总书记胡锦涛亲自提议召开包括三位时任政治局常委（温家宝、曾庆红、吴官正）出席的高规格纪念座谈会。</p>
-<p>胡锦涛、温家宝和胡耀邦都有千丝万缕的联系，胡锦涛和胡耀邦都曾在共青团中央担任第一书记，其成长也与胡耀邦力推的干部年轻化直接相关；温家宝更曾在胡耀邦任总书记期间就担任中央办公厅负责人，在2010年还出现过直接投书《人民日报》发表题为《再回兴义忆耀邦》的纪念文章的“自选动作”。而习近平的父亲习仲勋，一直和胡耀邦感情甚笃，肯定胡耀邦，对于习近平而言显然也是政治上的“正资产”。</p>
-<p>然而，无论高层对于胡耀邦“脱敏”的态度如何，他们对于借胡耀邦重谈八十年代的政改话语都毫无兴趣。观察2005年和2015年两次中共对胡耀邦的纪念活动，主要领导人讲话中出现“政治体制改革”和“自由”这两个词的次数，都为零。</p>
-<p>在核心决策层之外，中共党内和民众中间对胡耀邦的认知，大致可分为三类。第一类以极端“毛左”为代表，基于其顽固反对改革的立场否定胡耀邦；第二类则以“自由派”为主，将胡耀邦视为党内“开明派”和政治改革的符号；第三类主要是对高层政治不敏感但经历过胡耀邦时代的普通中共党员和民众，对胡耀邦清廉、坦荡的政治品格有朴素的感情。</p>
-<p>高层推动胡耀邦本人的“脱敏化”，考虑到与三种不同民意的互动。从胡锦涛到习近平，他们都希望以胡耀邦的人格形象，唤起对高层政治并不敏感的普罗大众的共鸣，而这种民意也有助于他们和那些与六四事件关系更直接的政治势力的现实博弈。至于第一类人，纪念胡耀邦本身就不遂他们的意，而第二类人也绝不会从纪念胡耀邦的活动中看到自己想要的信号。</p>
-<p><strong>红色领导人的信念</strong></p>
-<p>相较2005年时任国家副主席曾庆红在纪念座谈会的讲话，习近平20日的讲话有明显的差别。</p>
-<p>在座谈会前，外界曾普遍预计，由于当前中共正在进行“全面深化改革”的行动，改革可能是习近平讲话的主轴，然而事实却并非完全如此。习近平在讲话中向全党发出向胡耀邦学习的五点号召：坚守信仰、献身理想的高尚品格；心在人民、利归天下的为民情怀；实事求是、勇于开拓的探索精神；求真务实、敢于担当的优秀品质；公道正派、廉洁自律的崇高风范。而十年前曾庆红的讲话，倡导学习胡耀邦的是四点：忠于党的事业、鞠躬尽瘁的献身精神；锐意改革、勇于创新的思想境界；密切联系群众、关心群众疾苦的优良作风；顾全大局、光明磊落的高尚品德。</p>
-<p>这两篇讲话对胡耀邦精神的概括，有重合的地方，譬如为民情怀和联系群众大体就是同一范畴；但有些表述的细微差别，正反映出领导人思维方式的变化。曾庆红讲话对胡耀邦的肯定，首先是对共产党的忠诚和为人民鞠躬尽瘁，更多强调其个人品质和责任心；而习近平所说的理想、信仰，直指“共产主义”这一意识形态，甚至专门引用一整段胡耀邦关于最高理想是“共产主义”的讲话，强调共产党人对共产主义以及中国特色社会主义要“虔诚而执着”。在讲话全文中“共产主义”一词的出现频次，也从十年前的5次，猛增到了12次。</p>
-<p>又如，十年前曾庆红的讲话中，提及“锐意改革、勇于创新的思想境界”，而习近平表达类似意思，用的是“实事求是、勇于开拓的探索精神”，曾庆红强调的是“改革创新”，有非常明确的方向性；而习近平用的“实事求是、勇于开拓”，固然也有改革创新的意涵，但究其本质，首先从“实事求是”这个方法论出发，而不是从改革创新的目的出发。</p>
-<p>习近平和曾庆红对胡耀邦诞辰纪念谈话的细微变化，和习近平近年来在其他场合的讲话思路一脉相承。以对邓小平的纪念活动为例，胡锦涛在纪念邓小平百年诞辰时谈及邓小平的个人品格，首先讲的是他的“解放思想、实事求是”，而习近平在纪念邓诞辰一百一十周年时首先强调他的共产主义远大理想和坚定信念。</p>
-<p>相较于前任，习近平在纪念所谓“老一辈无产阶级革命家”的时候的讲话中，“人民”、“共产主义”这两个词的词频非常高，无论政治人物生前的政治光谱和具体政见，只要是中共领导人，其最值得后人学习的都是“共产主义信念”和对“人民”的忠诚。当然也有的词频在降低，譬如邓小平诞辰100周年大会上，胡锦涛提及“没有民主就没有社会主义”“使民主制度化、法制化”等，到了去年的110周年纪念就没有再引用这些话。 简单地说，习近平为每一个领导人都勾画出更鲜明的“红色面孔”。</p>
-<p><strong>彻底打破“路线斗争”论述</strong></p>
-<p>笔者以为，习近平在许多讲话中相较前人的变调，反映出他重构意识形态合法性的思路。</p>
-<p>一部中共政治史，就是一部“路线斗争”史。因而在谈论中共历史的时候，都离不开“左”“右”、“革命”“妥协”、“保守”“开放”这样的二元话语，习近平认识到这种论述的问题，想要彻底打破它。</p>
-<p>中共“造神”的极致时，毛泽东被称为“正确路线”的代表，他战胜了各种各样的党内“错误路线”，带领人民取得了革命和建设的成就。这种“路线斗争”的话语，在改革开放后不再使用，然而改革年代的政治斗争，尤其是八十年代的政治斗争，仍然明显带有“路线斗争”的色彩，从1978年到1992年，从要不要打破“一大二公”，到要不要允许民营经济，从要不要推动政治体制改革，再到“姓资姓社”的争论，意识形态的争论和斗争始终未有停歇，直至1992年邓小平南巡谈话，才把政治上坚持“四项基本原则”，经济上全面拥抱“市场经济”的路线大体确定，此后在决策层上层再无对中国基本政经框架的异议。</p>
-<p>回溯到1992年以前的中共高层政治，由于“路线斗争”和“二元话语”的客观存在，一个领导人往往成为某种路线、某种政策、某种意识形态的符号，其作为中国共产党这个“统一的政党”的杰出代表形象就可能受到某种冲击。</p>
-<p>习近平2013年启动了全面深化改革的议程，然而为何在纪念邓小平、胡耀邦的讲话中，都没有对“改革开放”的特别强调？原因正在于此。邓小平、胡耀邦不能仅仅作为“改革开放”的符号，而必须首先是“共产主义者”，他们的改革开放，首先不是在路线上对毛泽东时代的彻底变革，而是在目的上对毛泽东治国理想的坚持。</p>
-<p>早在习近平就任总书记之前，他就曾在党内会议上明确指出，“不能以改革开放前的历史来否定改革开放后的历史，也不能以改革开放后的历史来否定改革开放前的历史”，在习近平的崭新论述中，无论改革开放前还是改革开放后，无论毛泽东、邓小平还是胡耀邦，矢志不渝的都是中华民族伟大复兴的“中国梦”和共产主义的远大理想，至于他们在政见上的天差地别，都是可以被淡化和忽略的。</p>
-<p>习近平在做一道题，他需要在所有已故领导人身上“求同”，找到他们的共同点。找到了共同点，就可以打破“左”“右”叙事，建立一整套“主流叙事”的体系。在这套体系里，只要是能够被纪念的已故领导人，不分“左”“右”，也不分“改革”和“保守”，他们都有共产主义的信念和中国特色的追求，毛泽东的探索为“改革开放”创造条件，邓小平的改革为“共同富裕”指明路径。官方必须揭去外界给胡耀邦贴上的“改革派”标签，《环球时报》更曾直截了当地评论说，把胡耀邦作为政改符号的人，“似乎是在借他的英名反对他所忠诚的事业”。</p>
-<p>当胡耀邦全面回归中共最高层“名人堂”的中央，他的形象必须完全地属于党。虽然许多人记住胡耀邦、感念胡耀邦是因为他那些并在共产党内显得不太“主流”的东西，但习近平讲话中的胡耀邦，就是中共高级领导人的“标准像”。读习近平在座谈会上的讲话，胡耀邦对于共产主义和中国特色社会主义的信念，和当下最高层强调的“理论自信、道路自信、制度自信”深度契合；胡耀邦积极推动改革，映射当下的“全面深化改革”进程；胡耀邦清廉、坦荡的形象，更可在反腐浪潮下成为官员的一面镜子。</p>
-<p>中共从未像现在这样强调“传承”。在习近平的论述里，这个政党始终在进行着有条不紊的世代交替、接续奋斗。党内、党外一切的政治“正资产”，都可以纳入到型塑执政党意识形态合法性的资产池，成为中共民族复兴宏大进程中的“主流叙事”。</p>
-<p>面对复杂的意识形态问题，习近平不回避，也不绕道而行，这大概源于他的自信，对于中国特色社会主义制度及其庞大体系的自信。毕竟，当下中国的宣传系统，已经可以相当轻松地驾驭复杂议题，并将这些议题引向红色正统或民族主义的预设轨道。</p>
-<p><strong>（师愈闻，智库研究员，宏观政策分析师）</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%AE%A9%E8%83%A1%E8%80%80%E9%82%A6%E9%87%8D%E5%9B%9E%E5%90%8D%E4%BA%BA%E5%A0%82%EF%BC%8C%E4%BD%BF%E4%BB%96%E5%BD%BB%E5%BA%95%E5%B1%9E%E4%BA%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2%E5%8B%8B/?category=18271" rel="tag">习仲勋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">纪念胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">胡耀邦诞辰100周年</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -629,7 +626,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -639,5 +636,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

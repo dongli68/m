@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%B7%A5%E4%BA%BA%E6%97%A5%E6%8A%A5-%E5%85%A8%E5%9B%BD%E5%8D%83%E4%B8%87%E8%B6%85%E7%94%9F%E9%BB%91%E6%88%B7%E6%88%90%E5%8E%86%E5%8F%B2%E9%97%AE%E9%A2%98/" target="cdt-mirror">工人日报 | 全国千万超生黑户成历史问题</a>
@@ -135,7 +135,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%8B%E7%96%BE%E4%BA%BA/?category=18271" rel="tag">残疾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E6%88%B7/?category=18271" rel="tag">黑户</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%86%89%E4%BA%91%E9%A3%9E-%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%AE%B9%E6%98%93%E8%A2%AB%E6%8E%A7%E5%88%B6%EF%BC%9A%E3%80%8A%E9%9D%A0%E8%B0%B1%E6%97%AC%E5%88%8A%E3%80%8B/" target="cdt-mirror">冉云飞 | 大多数人为何容易被控制：《靠谱旬刊》第三期</a>
 </h2>
@@ -822,7 +822,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -832,5 +832,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

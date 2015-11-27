@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B0%B4%E6%9C%A8%E7%A4%BE%E5%8C%BA-%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81-%E4%B8%80%E4%B8%AA%E6%B2%89%E9%87%8D%E7%9A%84%E8%AF%9D%E9%A2%98/" target="cdt-mirror">水木社区 | 农村养老 一个沉重的话题</a>
+</h2>
+<p><p>前段时间回了一趟甘肃老家，耳闻目睹了村里的老人们晚年的生活，又激起了我想要写写他们的想法，其实这个想法由来已久，因为他们的养老问题由来已久。</p>
+<p>还没回村的时候家里人就告诉我说四伯母生病住院了，就是我在《悄悄问朋友……》一文中提到的养了一头牛的四伯母，是我的堂伯母。她病得很重，差点救不过来了。</p>
+<p>得了什么病呢？被猪撞了！儿子养了两头猪，因儿子儿媳外出，请老母亲过去护家看院并喂养两头猪，秋雨纷飞的夜晚，猪跑出了圈，老人家去赶猪，不知自己没走好还是被猪撞翻了，反正倒地后起不来。自己挣扎不起来，口袋里装着手机，但是不会拨号。伯母就在泥泞的雨水中挣扎了一夜，导致中风。</p>
+<p>我去医院看她的时候老人家还不会说话，只有一边的手脚稍微能动，翻身、活动、大小便都不能自理。坐在床头我握着她皲裂的手不知道该怎么安慰，只能在她的痛哭、流泪、叹息声中默默地努力倾听，看着她那随着抽搐的身体微微晃动的满头银发，想到如果四伯母不能康复而要长期卧床的艰难，那一刻，我深刻地体会到农民养老的不易。</p>
+<p>因事去三伯父家，也是堂伯父，敲了好久的门三伯父才听到。进院后没寻着三伯母，推开堂屋的门，映入眼帘的是躺在炕上的老人的一头白发，雪白的女式短发从头顶垂下来盖住了枕头，大白天屋外骄阳正火，屋内的三伯母睡着热炕，穿着棉衣棉裤，冷得瑟瑟发抖，浑身却已被汗湿透。住了多次医院，中医西医都查不出病因，也没什么药可吃，就只能这么熬着。钱没少花，罪没少受。</p>
+<p>离我家不远的邻居，年轻的时候是著名的大力士，也是父亲的老朋友，他在我每次回家的时候都会来我家看我，这次没见着，听说病了。我去看他，恰好他抱病赶集去了，接待我的是他的老伴，一个又老又瘦的老太太，佝偻着腰，已老态龙钟。</p>
+<p>这些伯父伯母跟我父母年龄不差上下，都75岁左右，算是村里老人的主体年龄。我发现村里几乎每一家都有这个年龄段的老人，而我小的时候基本上就没有见过这些老人的父母。换句话说：第一，这个年龄段的老人数量多可能是因为1940年到1950年这段时间有一个大的婴儿潮，官方公布的婴儿潮是新中国建国后，但我们村根据老人数量来看，应该在1949年前就生了很多；第二，这些人的父母和爷爷奶奶普遍都很短寿，有一些在1958年到1962年大饥荒时期去世了，熬过大饥荒的普遍都没有超过70岁就去世了。</p>
+<p>唐伯虎有诗云：人生七十古来稀。连千古一帝康熙都只活了68岁多一点而已，农业社会中的普通人还能活多长寿呢？</p>
+<p>由此我想到了中国农业社会中千古流传的“养老”和“孝道”，或许并没有传说中那么美好。</p>
+<p>因为平均寿命短，老人们普遍都不老，往往在还算身强体壮的时候因病突然去世，没有这么多像现在我们看到的八九十岁行动不便甚至老年痴呆的老人。我觉得陈忠实先生的《白鹿原》中关于死亡的描述就是我国几千年农业社会的真实写照，生命的诞生和死亡是那么波澜不惊，尤其死亡是那么轻而易举。</p>
+<p>农业社会往往子女众多，每个子女只需要承担一部分义务。何况那时候医疗条件差，生病了无非就请个乡里的土郎中开几幅草药，价格也贵不到哪里去，因为疗效差，耗不了多久病人也就去了，所以前前后后也花不了多少钱，因此“孝”的成本很低。即便如此，古人也有“久病床前无孝子”一说，可见古人也没孝顺到哪里去。</p>
+<p>但今天完全不同。医疗条件的提升导致平均寿命的延长，70岁以下死去的人都让人觉得有点不正常，于是老人们集体越过70岁靠近80岁甚至走向90岁。死亡可以延迟但衰老不可避免，于是老人越来越多，行动不便的老人也越来越多。现在我一走进村子，满眼都是白发老人，这些人的养老问题是千年未遇的，怎么对这些高龄的老人养老连老人们自己都不知道，因为他们的父母和爷爷奶奶都没活到这么大年龄。</p>
+<p>在这个医疗手段高超，可以“用钱延长生命”的时代，农村的“孝道”走到了一个十字路口：到底散尽家财送老人们去医院延长生命呢，还是像老祖宗一样“视死如归”呢？不管什么病，只要后辈们诚心想治，总能治一阵子，纵使有万贯家财，只要你肯花，不用三五个月就可以千金散尽。农村人赚钱不容易，一点家产可能积攒了几十年，所以遇到这种事就很伤脑筋。</p>
+<p>经济的发展社会的进步正在改写着传统的价值观，尤其正在颠覆一些家庭伦理。我承认上文提到的这种养老的两难是存在的，但是我看到的老人大多都很传统，他们坚持“活到老干到老”，并且坦然地“视死如归”，其对生死的观念就像他们的父辈们一样。</p>
+<p>但是我不得不羞愧地承认，我的老家那一带社会风气确实不好，儿女们把父母“抽干榨尽”后却不愿养老送终的情况很普遍，很多儿孙满堂的老人却晚景凄凉，没有子女愿意让老人跟他们一起生活，多子女的老人养老远比只有一个儿子的老人艰难。</p>
+<p>“婆媳矛盾、医疗花费、伺候老人”等都成为了家庭矛盾的爆发点，农业社会形成的传统价值伦理荡然无存，新的价值观又因为经济并没有那么富裕而难以形成。医学进步让老人们普遍高龄，孝道缺失让老人们晚景艰难，现在的这一批老人既享受着他们的父辈没有享过的福，也承受着他们的父辈没有受过的气。</p>
+<p>不要以为西北地区民风就有多堕落，我观察了湖南农村，养老问题也很棘手，经济条件不好的家庭或者兄弟姐妹不和睦的家庭，其老人的养老跟我上文提到的一样艰难。</p>
+<p>也不要以为只有农村这样，最早的独生子女们的父母已经渐渐老去，再过10年，一对独生子女肩扛至少4个老人，如果运气不好，瘫痪的瘫痪，痴呆的痴呆，看都怎么办！</p>
+<p>在城乡福利不均等的当下，如何尊严地老去平静地死去，农村的老人正在迷茫地思索。</p>
+<p>来源：http://newsmth.net/nForum/#!article/FamilyLife/1757298271</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B0%B4%E6%9C%A8%E7%A4%BE%E5%8C%BA-%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81-%E4%B8%80%E4%B8%AA%E6%B2%89%E9%87%8D%E7%9A%84%E8%AF%9D%E9%A2%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81/?category=18271" rel="tag">养老</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91/?category=18271" rel="tag">农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E4%BA%8C%E5%85%83%E7%BB%93%E6%9E%84/?category=18271" rel="tag">城乡二元结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">社会保障</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BF%9D/?category=18271" rel="tag">社保</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%BC%80%E5%B1%95%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%90%97%EF%BC%9F/" target="cdt-mirror">唐映红：给学生开展感恩教育真的好吗？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2.jpg" alt="感恩教育" width="525" height=""></a></p>
+<p>Q&A151126</p>
+<p><strong>　问：给学生开展感恩教育真的好吗？</strong></p>
+<p>答：近10多年以来，<strong>不少中小学热衷于给学生进行感恩教育</strong>，试图让学生学会对父母、师长感恩。有些学校甚至采取在广场公开给父母洗脚的方式来推行感恩教育，那么给中小学声开展感恩教育真的好吗？</p>
+<p>从心理学研究的角度，无论是<strong>个人感恩</strong>（对他人的行为或存在而感恩）还是<strong>超个人感恩</strong>（因自己的拥有而感恩上天），<strong>一个具有感恩特质的个体，往往同时也具备感情稳定性、宜人性、自信、不自恋，等特质</strong>，感恩与幸福感之间的相关性强于大五人格特质中任何一个特质与幸福感之间的相关性。也就是说，<strong>常怀感恩之心的人，更容易感受到，而且更深刻感受到幸福。</strong>所以，无论是从心理励志的角度，还是心理辅导的角度，都应当倾向于鼓励个人学会或保持感恩的心态。</p>
+<p>至于感恩教育，则基本上算是一个舶来品。最初发轫于西方的基督教文化，特别是美国的感恩节文化。传播到中国来以后，<strong>中国特色的感恩教育就将西方的感恩形式与中国传统的家长制以及孝道结合在一起，虽然看起来很美，但如果仔细辨析就难免金玉其外，败絮其中。</strong></p>
+<p>虽然心理学的研究证实了感恩的心态与体验幸福有高度的相关，但同样也揭示了<strong>感恩这种积极心态并非总是积极的。</strong>对他人、自然或际遇所怀着的感恩之心源自心理学里所谓的“<strong>积极幻想</strong>”，但积极幻想本身与自我欺骗是一体两面。换句话说，<strong>“积极幻想”本身就是人类一种认知偏差，只是这种积极偏差有助于人们有好的感受，所以在一般情况下并不去纠正它。</strong>举个例子，一个人因为从小因意外事故导致的残障而无法像他人一样地发展，但却收之桑榆，比如学会了用脚写字，并成为他人学习的楷模。他可能会因此感恩那场事故，因为正是那场意外使他学会了坚强，并因此成为了他人的楷模。感恩的态度对他而言是一种积极的生活态度，有什么理由去纠正他呢？因事故而致残的例子多了，<strong>之所以是他脱颖而出，不是因为事故，而是他与生俱来的某些人格特质，以及周围引导或影响他的情景共同造就了他。</strong>如果不是那场意外事故，他可能考上北大，到哈佛深造，诸如此类。我曾经教过的学生，雷庆瑶就是这样的例子。她周围很多人会嘀咕，认为是因为她失去双臂才谋得在大学深造的机会，但我一直告诉她，如果不是因为那场意外事故，她应该有机会考上北大。<strong>她通过自身的努力取得了成就，因而感恩磨难带给她成长无伤大雅</strong>；但对那些经历了类似际遇而自暴自弃的其他人又该感恩什么呢？<strong>造就雷庆瑶的是她与生俱来的某些特质，以及成长过程的特定情境。事故就是事故，本质上那就是一场灾难。</strong></p>
+<p><strong>但引发感恩的积极幻想这种自我欺骗超出一个合理的范围，它可能就很糟糕了。</strong>例如，纳粹集中营里面幸存的犹太人对他遭遇的惨痛经历，如果发展成因而感恩纳粹对他的折磨，因为正是这些经历使他更坚强，激发了他原本不知晓的巨大潜能。这种感恩就不是积极的，而是自欺欺人。他可能因此而感到好受些，<strong>但这种“好感觉”与其说是幸福，毋宁说是自我麻痹。</strong></p>
+<p>同样的道理，<strong>在中小学推行的具有中国特色的感恩教育其本质就很糟糕。</strong>像许多中小学推行“感恩教育”的视频里，演讲者声泪俱下地引导孩子们沉浸在父母的含辛茹苦的想象里面，让他们感动。之所以说中国特色的感恩教育很糟糕，因为类似的教育推行十分简单粗暴。它<strong>没有对学生的亲子关系进行甄别。</strong>尽管大多数，甚至绝大多数学生的父母都是关爱自己孩子的，但总会有一些父母遗弃、虐待、凌辱自己的孩子。<strong>所谓的“感恩教育”让这些遭受家暴，甚至遗弃的孩子沉浸在父母的含辛茹苦的想象里，这本质上就是一种赤裸裸的心理伤害。</strong>因为我国并不像美国那样对虐待、性侵儿童的父母有严格的法律规定，以及完善的社会救助体系，绝大多数虐待、性侵儿童的父母没有受到惩罚，也没有剥夺生父母抚养权，以及委托寄养家庭的法律和社会救助机制。因此，这些孩子在学校里接受简单粗暴的感恩教育本质上就是一种对他们的再次伤害。</p>
+<p>不仅如此，除了那些受到父母虐待、性侵和遗弃的孩子，<strong>即使是普通的孩子，简单粗暴的感恩教育对他们也是有害的。</strong>父母并非天然就是孩子的道德楷模，有很多的父母并不称职。他们疏于对孩子的管教，没有以身作则，尽管他们“爱”孩子，但行为举止相当地糟糕。<strong>让懵懂的孩子去感恩这样糟糕的父母，是鼓励孩子们也像他们父母一样糟糕吗？</strong></p>
+<p>中国特色的感恩教育除了蛊惑感恩父母，学校的另一个主题就是感恩师长。问题是，学生应当无条件感恩老师麽？当媒体不断曝光诸如强奸女生的校长、老师；虐待和体罚学生的老师；侮辱和排斥学生的老师；以及赤裸裸索贿的老师的报道，要知道，这些现象不是个别现象，而是具有一定的普遍性。在现时代，<strong>教师作为一种职业，已经不具有道德表率的传统光环。</strong>一个老师，只有他对学生成长带来了积极的引导，他才是一个值得尊敬的老师；<strong>没有任何理由说，仅仅因为他是老师，学生就应当尊敬他，感恩他。</strong>当一个老师不负责任、行为龌龊、漠视甚至敌视学生，学生应当学会判断，这样的老师是不合格的，是应当被抵制和替换掉的，而不是不分青红皂白地“感恩”。</p>
+<p>正是因为中小学推行的感恩教育简单粗暴，没有甄别不同的父母，不同的师长。有一些是好的，值得孩子们感恩；而另一些，甚至大多数是谈不上感恩的；还有一些，尽管可能只是个别，不仅不是感恩的问题，而是要<strong>教会孩子们学会保护自己，报警或向可靠的社会机构求助。</strong>（尽管我们的社会提供类似救助的机构凤毛麟角。）</p>
+<p>“感恩教育”本身就是舶来品。但要知道，美国也好，欧洲也好，甚至日本也好，世界上大多数文明国家都会在教育中加入引导孩子们感恩的内容，形式可能不完全一样，但本质上就是感恩教育。可问题是，<strong>不能只看到文明国家搞感恩教育，而忽略别人的另一些更重要的教育。</strong>以美国为例，从小学初始，就会<strong>教育孩子了解自己享有什么样的权利，以及权利的边界。</strong><strong>任何成年人，包括父母、师长，只能怎样对待自己，不能怎样对待自己。</strong>父母虐打孩子，会被起诉，并立即把父母与孩子隔离；校长或老师性侵学生，那是联邦重罪。有任何娈童前科的，不可能申请到任何教职；而且在所居住社区会被标注出来。</p>
+<p><strong>而中国的教育，从来不会告诉学生他们应当有什么样的权利，以及应当如何维护他们的权利；关键是社会根本就缺乏维护学生基本权利的机制。</strong>例如有报道云南景谷一中规定，带早餐到课室的学生会被开除，关键是这样变态的规定是公开的。学生怎么办？他们的家长怎么办？投诉到政府教育部门？向法院起诉？任何具备中国社会常识的人都知道，不仅学生，连带他们的家长根本就没有途径来维护他们的权利。事实上，<strong>对大多数，甚至99%以上的中小学教师、校长，他们心目中压根就不清楚他们的学生有什么权利</strong>（更可悲的是，他们连自己应当有什么权利往往也搞不清楚）。</p>
+<p>别说中小学，<strong>即使中国的高校，侵犯学生的权利也是肆无忌惮。</strong>例如，某些高校辅导员，很苛刻地规定学生必须在每个星期天下午报到，而罔顾学生有权支配自己星期天的日程。这样的辅导员的做法通常不会被纠正，反而更可能因为“管理有方”而受到褒奖。<strong>每个高校里的诸如校团委、学工部、辅导员，他们存在的目的不是维护学生的权利，而根本就是限制和戕害学生的权利。</strong></p>
+<p>也就是说，<strong>在保障每个人平等权利的基础上，感恩教育才是积极的。相对地，在罔顾学生个人权利的环境下，感恩教育是有害的，它更像是毒药，让权利受到侵害的学生麻痹、习惯，并最终习得性无助起来。</strong>只有懂得自己权利，以及权利边界在哪里，才能引导学生明辨是非；而<strong>一个能起码明辨是非的社会，才有感恩教育的土壤。</strong>抛开这个大前提，所谓的感恩教育，无非是<strong>洗脑灌输的一种形式</strong>，它让那些遭受着家庭、学校、社会各种戕害的孩子们不去思考他们为什么会遭受戕害，也消磨他们去改变境况的努力。<strong>扭曲的感恩教育培养出来的不可能是积极、健康、自信和宽容的公民，而更可能是狭隘、偏执和蛮横的奴才。</strong></p>
+<p>概言之，“感恩”和“感恩教育”，二者不是一个概念。对个人而言，感恩的态度更容易使我们感受到快乐，而且感恩的心态更容易使我们接近幸福。但感恩教育却是另外一回事，<strong>当我们蛊惑一群人要感恩，却不告诉他们享受怎样的权利，以及如何维护这些权利，这样的感恩教育本质上就是毒药。</strong></p>
+<p>即使对个人而言，感恩的态度是否是积极的，它也存在一个边界条件。<strong>积极的感恩是感恩那些善待我们的他人；即使退一步，我们宁可善意地解释他人也算是积极的感恩。</strong>但如果我们感恩那些戕害我们的他人或事件，这就不是积极的感恩了，而根本就是自欺欺人。<strong>感恩的前提之一是明辨是非。</strong>当我们跌跌撞撞的成长过程中，尽管有喜乐也有痛苦，但怀着一份感恩地心看待经历、曾经同行的他人，以及自己，这不啻是一种积极、乐观的人生态度。但<strong>如果我们曾经遭受不幸，却偏要感恩曾经强奸自己的人，那就不是积极、乐观的人生态度，而是低自尊的“犯贱”。</strong></p>
+<p>对了，顺便说一下，在《积极心理学》里，“<strong>感恩</strong>”只占了很小很小的篇幅。<strong>积极健康的价值观比“感恩”重要得多，无论是追求幸福，还是追求成就。</strong></p>
+<p>2015-11-26</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="300" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%BC%80%E5%B1%95%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%84%9F%E6%81%A9%E8%8A%82/?category=18271" rel="tag">中国感恩节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A6%81%E5%88%B8%E5%95%86%E5%85%88%E5%90%8E%E8%A2%AB%E6%9F%A5-%E6%B2%AA%E6%B7%B1%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C/" target="cdt-mirror">BBC｜中国主要券商先后被查 沪深股市大跌</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151127071852_shanghai_investors__976x549_reuters_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151127071852_shanghai_investors__976x549_reuters_nocredit.jpg" alt="中国股市周五（27日）显著下滑，其中证券股跌幅最大（图为上海股市散户投资者）。 " width="575" height=""></a><p>中国股市周五（27日）显著下滑，其中证券股跌幅最大（图为上海股市散户投资者）。</p></div>
@@ -868,70 +929,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B5%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%84%9F%E6%81%A9%E8%8A%82%EF%BC%9A%E5%90%83%E4%B8%8A%E9%A5%AD%E4%B8%8D%E5%BF%98%E7%82%92%E9%A5%AD%E4%BA%BA/" target="cdt-mirror">【网络民议】中国感恩节：吃上饭不忘炒饭人</a>
-</h2>
-<p><p>11月25日，是一年一度的中国大陆网友戏谑的“中国感恩节”、“蛋炒饭节”。此前，有媒体求证称毛岸英的死源于当年朝战中违规做蛋炒饭引起炊烟而遭美军空袭致死。不少网友认为虽然当今中国仍然是落后的极权专制但当年毛岸英的意外之死也避免了中国当年有步朝鲜后尘成为毛氏世袭王朝的可能性，加之这个日子也非常接近美国的“感恩节”，由此“中国感恩节”在调侃戏谑的氛围中诞生，而其中一项重要的仪式就是——吃蛋炒饭。</p>
-<blockquote><p>“蛋炒饭”的说法，来自于近期人们对毛泽东的儿子毛岸英的讨论。 关于毛岸英的死，军事科学院军史科学研究员王天成，走访过志愿军总部的许多老军人，并在《北纬三十八度：彭德怀与朝鲜战争》中描述，事发当天，毛岸英正围着火炉热鸡蛋炒米饭，炊烟引起美军注意，并来袭，毛岸英就此罹难。而《文史参考》则求证称毛岸英是因烤苹果引发炊烟遭到轰炸。</p>
-<p> </p></blockquote>
-<p> </p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUopOEXWEAAAgD2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUopOEXWEAAAgD2.png" alt="CUopOEXWEAAAgD2" width="598" height="123"></a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/112160157779885767.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/112160157779885767.jpg" alt="112160157779885767" width="450" height="538"></a></p>
-<p>dingtianran：今晚特地来点这盘 #蛋炒饭 致敬联合国军飞行员 #中国感恩节</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUojPcdUkAAyPD_.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUojPcdUkAAyPD_.jpg" alt="CUojPcdUkAAyPD_" width="450" height="338"></a></p>
-<p>jajia：友情提醒：今天是蛋炒饭节，标准配置是腊肠蛋炒饭配苹果。吃前拍照上传哦！是中国人就转！标签 #中国感恩节 #chinathanksgiving 。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUoNsovWoAA8JFQ.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUoNsovWoAA8JFQ.jpg" alt="CUoNsovWoAA8JFQ" width="450" height="300"></a></p>
-<p>badiucao：#巴丢草 漫画 【蛋炒饭】一碗腊肉蛋炒饭，浓浓的爱，深深的情，请各位推友笑纳！#毛岸英 #毛泽东 #蛋炒饭</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUouUPnXIAAXanN.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUouUPnXIAAXanN.png" alt="CUouUPnXIAAXanN" width="450" height="675"></a></p>
-<p>bigman945：感恩节 蛋炒饭</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUoopFoXIAANYQH.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUoopFoXIAANYQH.jpg" alt="CUoopFoXIAANYQH" width="400" height="533"></a></p>
-<p>arthur369：又到蛋炒饭纪念日了，感谢上天没有把我们变成西朝鲜。今天也是我生日，午饭固定节目。吃了七年了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUoJ6U0XIAAZ2QL.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUoJ6U0XIAAZ2QL.jpg" alt="CUoJ6U0XIAAZ2QL" width="450" height="338"></a></p>
-<p>Vela1680：朝鲜半岛团队的荣耀 蛋炒饭！（团队）：在韩战中驾驶飞行载具并击败共产王子毛暗影</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/CUpFFPGWcAAVhkv.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/CUpFFPGWcAAVhkv.jpg" alt="CUpFFPGWcAAVhkv" width="549" height="82"></a></p>
-<p>songma：据说毛岸英因为在韩战中因为开火吃蛋炒饭被美军飞行员炸死。不是美国感恩节，而是今天，所以今天被称为“中国感恩节”。#其实挺中二的</p>
-<p>crehage：China’s own Thanksgiving: November 25th, the day Mao Zedong’s son died making a dish of Fried Rice With Egg. #蛋炒饭</p>
-<p>mozhixu：又到蛋炒饭节，话说肉猪们现在岁月静好，以致要感恩了？这也太扯淡了吧，没有毛太子，还有五百家，无非是圈养变放养，肉猪们还真当自己是人了？</p>
-<p>szstupidcool：@dfhdkjbcd 1950年11月25日，毛贼岸英因为要吃蛋炒饭，被联合国军发现炊烟，于是被炸挂。从此，本朝避免了彻底沦为西朝鲜的厄运。</p>
-<p>p3p3pp3：时间的无涯的荒野里，没有早一步，也没有晚一步，刚巧赶上了，那也没有别的话可说，惟有轻轻地扔下一颗燃烧弹：“噢，你在吃蛋炒饭吗？”</p>
-<p>切歌廚：马上就又要到一年一度的蛋炒饭节了，就是中国感恩节(Thanksbombing Day)。还有不了解这个节日的筒子们吗？赶紧来提高姿势水平吧。</p>
-<p><img src="http://ww2.sinaimg.cn/bmiddle/4255c086gw1exmjmimxvrj20hs68ee81.jpg" alt=""></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%84%9F%E6%81%A9%E8%8A%82%EF%BC%9A%E5%90%83%E4%B8%8A%E9%A5%AD%E4%B8%8D%E5%BF%98%E7%82%92%E9%A5%AD%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B2%B8%E8%8B%B1/?category=18271" rel="tag">毛岸英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%8B%E7%82%92%E9%A5%AD/?category=18271" rel="tag">蛋炒饭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%8B%E7%82%92%E9%A5%AD%E8%8A%82/?category=18271" rel="tag">蛋炒饭节</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%88%98%E6%96%97%E6%B0%91%E6%97%8F%E5%90%83%E8%8B%A6%E5%A4%B4%E4%BA%86/" target="cdt-mirror">【习总日记】 战斗民族吃苦头了</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174"><br>
-（2015，11，24）</p>
-<p>一</p>
-<p>中共中央政治局23日下午就马克思主义政治经济学基本原理和方法论进行第二十八次集体学习。</p>
-<p>昨天我在主持学习时强调，要立足我国国情和我国发展实践，揭示新特点新规律，提炼和总结我国经济发展实践的规律性成果，把实践经验上升为系统化的经济学说，不断开拓当代中国马克思主义政治经济学新境界。</p>
-<p>昨天我在主持学习时发表了讲话。我指出，面对极其复杂的国内外政治军事经济形势，面对纷繁多样的经济现象，学习马克思主义政治经济学基本原理和方法论，有利于我们掌握科学的经济分析方法，认识经济运动过程，把握社会经济发展规律，提高驾驭社会主义市场经济能力，更好回答我国经济发展的理论和实践问题，提高领导我国经济发展能力和水平。</p>
-<p>与会同志一致认为，2001年基地组织发动的纽约911恐怖袭击，意外让我们得到15年的和平环境，经济大发展，贫困人口从7亿下降到7000万。如今叙利亚内战，难民潮袭击欧洲。加上ISIS作乱发动恐怖袭击，欧洲美国不得安宁。命运又将给我们十几年时间。我们要再次抓住历史机遇，实现中华民族复兴，实现小康，实现最后7000万人脱贫。</p>
-<p>二</p>
-<p>今天一架俄罗斯苏-24战机在叙利亚靠近土耳其一侧被土耳其F-16战机使用空空导弹击落。土耳其认为俄罗斯军机侵犯其领空，故予以击落。俄罗斯否认侵犯领空。事件发生后，土耳其政府以迅雷不及掩耳之势与北约和美国紧急磋商，也召见了美英法中俄五个常任理事国驻土耳其大使介绍情况。<br>
-疾风知劲草，烈火炼真金。战斗民族遭遇空前危机的同时，我们神龟民族怡然自得乐逍遥。俗话说不怕不识货，只怕货比货。我们的忍辱负重合作共赢政策，相较与普京大帝的扬眉剑出鞘，不知要高明多少个级别。</p>
-<p>不提当年印尼反华越南排华，只说说18日中国人质被杀。花同志说得好，是误杀。小平同志也说的好，是有人挑拨。面对人质被杀我们口头谴责君子不动手。中华五千年智慧告诫我们，冤冤相报何时了往事知多少？20日马里恐袭三位中方管理人员遇害，我们还是遵循古人教导，人死不能复生，怒有何用？</p>
-<p>为何今天是俄罗斯战机遭击落，而不是我解放军战机？原因一目了然。我们不惹事不生非。</p>
-<p>俄罗斯因为一架民航飞机遭炸弹袭击而出手轰炸ISIS石油赚钱生命线，顺带轰炸叙利亚亲土耳其反政府之土库曼民族武装，才惹急了与ISIS石油黑市买卖有关的土耳其方面出手报复。大家知道俄罗斯也是产油大国，炸毁ISIS占领的油田有利于俄罗斯。但如果事情发生在我们身上，我们决不会像俄罗斯那样蛮干。</p>
-<p>若中国民航遭遇炸弹我们谴责谴责还是谴责，决不会派空军轰炸ISIS在叙利亚的经济命脉油田及其输油运输设备。当年美国轰炸我驻南大使馆，炸死我使馆人员，我们要求美国道歉了事。当年美国侦察机致我飞行员死亡，我们要求美国道歉了事。最近缅甸军方炮弹落入我境内，我们予以警告了事。越南菲律宾等国占领我南海岛礁我们交涉了事。在我们大智慧大胸怀面前，没有啥事不能了事的。</p>
-<p>所以，我们才能得以享受和平环境，才能得以加入世界贸易当世界工厂30年，赚得贪官床上躺满年轻漂亮妹子床底下堆满黄金钞票。</p>
-<p>不惹事遇事不生气，不输出革命不输出贫困，也不接受西方民主制度普世价值。趋利避祸花钱消灾，是我们中华民族五千年不灭的菊花宝典。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%88%98%E6%96%97%E6%B0%91%E6%97%8F%E5%90%83%E8%8B%A6%E5%A4%B4%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -943,7 +940,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -953,5 +950,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

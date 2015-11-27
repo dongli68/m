@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A6%81%E5%88%B8%E5%95%86%E5%85%88%E5%90%8E%E8%A2%AB%E6%9F%A5-%E6%B2%AA%E6%B7%B1%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C/" target="cdt-mirror">BBC｜中国主要券商先后被查 沪深股市大跌</a>
@@ -206,7 +206,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E5%B0%8F%E5%A7%90/?category=18271" rel="tag">世界小姐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%8E/?category=18271" rel="tag">反华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%8E%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">反华势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%80%B6%E5%87%A1/?category=18271" rel="tag">林耶凡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%BD%AE%E5%8A%9F/?category=18271" rel="tag">法轮功</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%90%8D%E5%8D%95/?category=18271" rel="tag">黑名单</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E6%9F%B4%E9%9D%99%EF%BC%9A%E6%88%91%E5%8F%AA%E6%98%AF%E8%AE%A8%E5%8E%8C%E5%B1%88%E6%9C%8D/" target="cdt-mirror">共识网｜柴静：我只是讨厌屈服</a>
 </h2>
@@ -384,7 +384,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B4%E9%9D%99/?category=18271" rel="tag">柴静</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%80%82/?category=18271" rel="tag">胡适</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9D%E5%8A%B2%E6%9D%BE/?category=18271" rel="tag">郝劲松</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%B8%B9%E9%9D%92/?category=18271" rel="tag">陈丹青</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%9B%BE%E8%A7%A3%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1-%E5%9F%BA%E5%B1%82%E5%AE%98%E5%91%98%E8%B6%85%E8%BF%8723/" target="cdt-mirror">端传媒 | 图解中国官员非正常死亡 基层官员超过2/3</a>
 </h2>
@@ -943,7 +943,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -953,5 +953,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

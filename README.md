@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%81%E5%85%AD%E5%B9%B4/" target="cdt-mirror">BBC｜中国维权人士郭飞雄被判监禁六年</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png"><img src="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png" alt="郭飞雄画像。郭飞雄女儿作品" width="450" height=""></a><p>郭飞雄画像。郭飞雄女儿作品</p></div>
+<p>中国广州市天河区法院周五宣判，维权人士郭飞雄被判监禁六年、孙德胜被判两年六个月、刘远东三年有期徒刑。</p>
+<p>郭飞雄原被控“聚众扰乱公共场所秩序”，判刑四年。不过法院临时增加“寻衅滋事”罪名，共判六年。</p>
+<p>郭飞雄代表律师张磊对BBC中文网说：“我非常震惊，也非常愤怒。法院直接在检察院没有起诉的罪名上面，把一个整体事实分割开来，增加一个罪名，我认为这是对于程序正义的严重践踏。”</p>
+<p>张磊说：“我们一共在法庭上面没有见面超过十分钟……很快就完了。”</p>
+<p>BBC中文网获得郭飞雄的答复词。郭飞雄说：“这个判决是反正义、反法律的，是中国反民主的黑暗势力对我和孙德胜所作的卑劣的政治迫害。我们是完全无罪的。”</p>
+<p>郭飞雄继续说：“你们对堂堂正正履行公民政治权利的我们所制造的这一政治冤案，乃是将本当用于匡扶正义、保障人权的司法机构，颠倒用于构陷无辜的公民，用于碾压人权，用于践踏中华民族的核心利益——宪政民主事业。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151127064751_southern_weekly_2013_976x549_ap_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151127064751_southern_weekly_2013_976x549_ap_nocredit.jpg" alt="2013年，《南方周末》编采人员抗议新年贺词被大幅修改，郭飞雄、孙德胜及刘远东均有参与声援。 " width="550" height=""></a><p>2013年，《南方周末》编采人员抗议新年贺词被大幅修改，郭飞雄、孙德胜及刘远东均有参与声援。</p></div>
+<p>三人都被羁押超过两年，其中刘远东羁押时间长达二年九个月，所以孙德胜及刘远东快将出狱。郭飞雄及孙德胜不服判决，当庭提出上诉。</p>
+<p>张磊对BBC中文网说，郭飞雄跟孙德胜身体状况欠佳。张磊说：“包括郭飞雄今天进法庭的时候，他就要求法庭当场给他验伤，法警从看守所押送到法院的路上把他的手扭伤了。用手铐伤害了很深的印子，陷到肉里面去了。”</p>
+<p>根据其他传媒报道，三人在羁押期间都没有放风。长期没有接触日照，令他们健康大有问题。郭飞雄记忆力亦有减退的情况。</p>
+<p>张磊说他应该会继续担任郭飞雄、孙德胜的代表律师。他说：“担心不担心也没有意义……七月以来抓了那么多律师，你说作为律师的话，肯定会感受到压力。但是，这些基本的辩护工作，得有人去做。”</p>
+<p>2013年，《南方周末》编采人员抗议新年贺词被大幅修改，郭飞雄、孙德胜及刘远东均有曾与声援。三人被捕及监禁，外界视为政府报复的手段。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%81%E5%85%AD%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%BF%9C%E4%B8%9C/?category=18271" rel="tag">刘远东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">南周新年献辞事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E5%BE%B7%E8%83%9C/?category=18271" rel="tag">孙德胜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%9A%E4%BC%97%E6%89%B0%E4%B9%B1%E5%85%AC%E5%85%B1%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">聚众扰乱公共秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B0%B4%E6%9C%A8%E7%A4%BE%E5%8C%BA-%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81-%E4%B8%80%E4%B8%AA%E6%B2%89%E9%87%8D%E7%9A%84%E8%AF%9D%E9%A2%98/" target="cdt-mirror">水木社区 | 农村养老 一个沉重的话题</a>
 </h2>
 <p><p>前段时间回了一趟甘肃老家，耳闻目睹了村里的老人们晚年的生活，又激起了我想要写写他们的想法，其实这个想法由来已久，因为他们的养老问题由来已久。</p>
@@ -905,30 +928,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%8C%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%93-%E6%80%A7%E7%94%9F%E6%B4%BB%E5%A4%AA%E5%B0%91%E5%85%BB%E5%AD%A9%E5%AD%90%E5%A4%AA/" target="cdt-mirror">参考消息 | 在中国生孩子不易 性生活太少养孩子太贵</a>
-</h2>
-<p><p>参考消息网11月25日报道英媒称，政府可以立法实现很多事，但生孩子不是其中之一。流产太多，性生活太少，精子不足，就连北京也无法制造一场婴儿潮，除非把基本条件备好。</p>
-<p>据英国《金融时报》网站11月23日报道，中国似乎缺乏推动下一阶段经济奇迹的生物要素：精子。只有这些精子才能让卵子受孕发育成胚胎再变成未来的工作者。</p>
-<p>报道称，此外，性生活也不足。最近开展的一项调查显示，中国白领在单位长时间地拼命工作，一半人说每月性生活不到一次。这也可能跟大批20多岁的年轻人仍然跟母亲（甚至祖母外祖母）挤在城市单元房里的事实有关。这显然比最好的避孕药还灵。</p>
-<p>但是，在以作业繁重著称的中国高中生当中，偷偷摸摸的性活动似乎在增加：大陆正在用10年的时间重新展现在西方花50年完成的性革命。其结果却是青少年流产率的惊人上升。国家媒体称，16岁以下女孩的流产数字每年增长约30%。</p>
-<p>报道称，政府统计数据显示，中国每年有1300万例流产，这还只是官方注册机构提供的数字。这些流产有超过一半出自25岁以下的女性。</p>
-<p>这一切对于北京希望激发的生育革命都没什么帮助：上个月，北京宣布所有中国人现在都正式获准生育两个孩子。</p>
-<p>完全没有什么迹象显示，育龄女性准备听从新的生育法令。社会的日益繁荣、城市化以及养育孩子的时间和金钱成本使很多大陆夫妇不愿意生两个孩子——甚至连一个都不想生。</p>
-<p>精子银行已经做好准备，但遇到一个问题：很多中国人的身体受到影响，不具备生孩子的“条件”，要么是因为多年经济奇迹导致的污染，要么是因为工作过度和吸烟之类的问题。</p>
-<p>报道称，优质精子极为短缺，以至于上海一家医院最近在社交媒体上发布广告，提出将用足以购买新款iPhnoe的钱换取17毫升的优质精子（看来一位正常男性需要在三个月里去三次才能提供这么多精子）。上海仁济医院精子银行的微信公号称：卖肾’买6s早就不流行了。现在，无需卖肾，轻松拥有6s。上海市人类精子库祝您‘6神有主’。”</p>
-<p>发展迅速的不仅是这类广告。10年的性革命使一些引发争议的广告激增，比如人流广告。在这些广告里，婴儿粉似乎不幸地成为首选颜色。很多广告上都显示年轻姑娘欢笑嬉戏，据推测是因为某些流产诊所提供分期付款和学生优惠而感到高兴。</p>
-<p>一个广告称：“首付低至三成。”像其他很多广告一样，该广告被取缔。另一家诊所用中国著名的卡通角色喜羊羊做宣传。该广告也被取缔。</p>
-<p>报道称，在上海，很多怀孕的少女都去上海一家公立医院。在位于医院第五层的生殖诊所，一个玻璃瓶里展示着巨大的卵巢肿瘤，拐过来就是一块牌子，显示人工流产的价格：260元至420元人民币（40－65美元）不等，取决于手术的复杂程度。</p>
-<p>医院的工作人员说，有些来这里做流产的少女只有十三四岁，才来月经。他们把这归咎于学校里糟糕的性教育。十年来，这家医院的流产热线接到超过5万个电话。</p>
-<p>报道称，中国，欢迎来到现代世界：正如西方可以证明的，生孩子是一件极为复杂的事情。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%93-%E6%80%A7%E7%94%9F%E6%B4%BB%E5%A4%AA%E5%B0%91%E5%85%BB%E5%AD%A9%E5%AD%90%E5%A4%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B5%81/?category=18271" rel="tag">人流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E6%95%99%E8%82%B2/?category=18271" rel="tag">性教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E7%94%9F%E6%B4%BB/?category=18271" rel="tag">性生活</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E4%BA%A7/?category=18271" rel="tag">流产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E5%AD%A9%E5%AD%90/?category=18271" rel="tag">生孩子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -940,7 +939,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B5%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -950,5 +949,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B5%81
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

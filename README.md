@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3-%E4%BB%8E%E4%BB%8A%E4%BB%A5%E5%90%8E-%E8%BD%AC%E5%8F%91%E4%B8%80%E4%B8%AA%E6%AD%A3%E8%83%BD%E9%87%8F%E5%B8%96%E5%AD%90%E5%B0%B1%E6%9C%89%E8%A1%A5%E8%B4%B4/" target="cdt-mirror">呦呦鹿鸣 | 从今以后 转发一个正能量帖子就有补贴？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/13.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/13.png" alt="1" width="502" height="353"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/21.png" alt="2" width="502" height="323"></a></p>
+<p>今天，北京开了一个会，这个会的阵容有点意思。</p>
+<p>领衔的是：</p>
+<p><strong>徐麟：</strong>中央网信办副主任（不久前从上海市委常委、宣传部长任上调入中央）；</p>
+<p><strong>姜军：</strong>中央网信办网络新闻信息传播局局长；</p>
+<p><strong>马利：</strong>中国互联网发展基金会理事长（不久前从人民网董事长岗位转任）。</p>
+<p>与会的阵容：</p>
+<p>阿里巴巴、小米、滴滴出行、蚂蚁金服、乐视网、众筹网、今日头条、新华网、人民网、光明网、央广网、中国网、中国新闻网、中国日报网、中青在线、中国西藏网、中国台湾网、新浪、搜狐网、搜狐视频、网易、凤凰网、百度、爱奇艺、优酷网、中国广告协会、北京市网信办、无界传媒。</p>
+<p>这些机构，调性很不搭！就好像，五岳剑派、少林、武当、丐帮、灵鹫宫、天龙寺、昆仑派、峨眉派，乃至桃花岛、侠客岛、古墓派……都来了。</p>
+<p>把这几批人整到一起，到底要干什么？</p>
+<p>答案还是网信办楼下那句习近平组长的批示——让网络空间清朗起来。</p>
+<p>怎么清朗起来呢？“正能量”。“正能量”从哪里来呢？<strong>这就是问题。</strong>也是今天这个“互联网公益动员会”的问题起点。</p>
+<p>会议希望正能量从公益来。局长姜军透露了一个数据：2014年<strong>中国慈善公益事业金额1000亿左右，但是网上募集资金不到10亿</strong>。这10亿还主要来自三大平台——新浪微公益、腾讯公益、支付宝、淘宝公益店，三者合计4.28亿元。“还有很大空间”（也就是说还做得远远不够）。</p>
+<p>姜军说：互联网不但是信息集散地，也是知识集散地，也越来越多地成为商品和服务的集散地，同时，它也是大众情绪集散地，这其中，就有戾气、怨气。怎样平复呢？比如，可以通过公益活动，“让网民存善念、发善贴、行善事、助善行，有的国外的网站仅仅是<strong>转发一个善行的帖子就奖励，转发就会给予补贴</strong>。”</p>
+<p>转发帖子就有补贴？不用出门、动动手指头就能赚钱？这种国外网站的做法，实在令我脑洞大开。</p>
+<p>姜军说：</p>
+<section>我们要打扶贫攻坚战，现在网民有多少呢？有6亿多，没有脱贫的人有七千多万，比例差不多是九个网民对一个穷人，我们希望理想的结果是：让九个网民来帮助一个穷人。我相信，这场攻坚战借助互联网的方式、互联网的技术，利用互联网的思维，能够打赢！一定能够如期实现全面小康的目标。</section><p>“七千万贫困人口怎样脱贫”这样级别的议题稍大，大家还是和我回到“转正能量帖子有补贴”这个议题上来。</p>
+<p>我关注到了阿里巴巴集团公益开放平台总监张银生在会上的发言：</p>
+<section><section><section></section><section></section><section></section></section><section>阿里巴巴就有一个项目——“天天正能量”，由阿里巴巴公益联合100多家媒体共同发起，成立于2013年7月。“已累计奖励正能量人物1200余人<strong>，发放正能量奖金1700多万元</strong>。天天正能量官方微博已聚拢了44万忠实粉丝，长期占据着新浪微博“公益账号影响力排行榜”榜首位置。随手转发传递善行、发现正能量线索随手@天天正能量，成为粉丝的网络习惯。
+</section><section><section></section><section></section></section></section><p>发放正能量奖金1700多万，“天天正能量”是个怎样的存在？有一个故事是这样的：</p>
+<section>上海有个网友发了一条微博：“一号线车厢里不知谁扔了满地西瓜。坐在我旁边的女士站起来，耐心地把西瓜一块块捡起来装进一个塑料袋里，然后把塑料袋扎起来放到角落。擦了擦手，站到了车厢门口去(原来的位子已经被人占了)。全车厢的人都一起目不转睛地看完了整个过程。不知别人怎么想，反正我脸红了。”“脸红”的网友还在微博上附了阿姨座位被占后倚在地铁扶手边的照片。“天天正能量”的编辑发现后随即在微博上发起了“寻找地铁阿姨”的活动，表示：“勿以善小而不为，求扩散寻找这位美丽阿姨！每转发一次我们就奖她一块钱，2万封顶！ ”两天后，这条寻人的微博被转发了四万多次，开鞋店的陈阿姨最终被发现。<strong>“奖励”就是直接给钱。项目组马上联系陈阿姨，要其提供银行卡号，</strong>“陈阿姨根本不接受，说我就捡个西瓜皮，不要给我钱，也不接受媒体采访。”张银生说，还有的人在接到项目组电话时直接挂断，以为对方是骗子。“不相信，觉得凭什么给我送钱啊，还要我卡号身份证号。”
+</section><p>张银生：“‘天天正能量’的公益理念是马云提出来的。他认为现在负面新闻充斥媒体，很多真、善、美的东西报道不出来。但其实美好的事情是经常发生的，就想用一种方法来唤醒人心中积极向善的一面。”</p>
+<p>2014年，因为124亿的捐款额和国际视野的公益方式，马云成为了新一届的“中国首善”。马云宴请盖茨谈公益慈善的新闻也颇受瞩目。</p>
+<p>而我关心的是：现在，这么多真金白银已经发出来了，什么时候，会有什么样的互联网创新，实现“转正能量帖子就能得到补贴”呢？</p>
+<p>正如中央网信办副主任徐麟在会议的最后所说：“互联网公益的概念不应该是玄虚的，应该通过一个个鲜活的案例来引导我们。”</p>
+<p>噢耶。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3-%E4%BB%8E%E4%BB%8A%E4%BB%A5%E5%90%8E-%E8%BD%AC%E5%8F%91%E4%B8%80%E4%B8%AA%E6%AD%A3%E8%83%BD%E9%87%8F%E5%B8%96%E5%AD%90%E5%B0%B1%E6%9C%89%E8%A1%A5%E8%B4%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">中国互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">公益活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%9C%E5%86%9B/?category=18271" rel="tag">姜军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E9%BA%9F/?category=18271" rel="tag">徐麟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E6%B8%AF-%E5%86%8D%E7%9C%8B%E4%B8%AD%E6%96%87%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E5%9C%BA/" target="cdt-mirror">自由港 | 再看中文网络舆论场</a>
 </h2>
 <p><p>对网络舆论场的整体观察和分析每隔一段时间便会出现于热点评论中，很明显互联网舆情已成为<strong>社会学研究</strong>的重点对象。互联网即是工具也是平台，它本身就是研究课题，同时也是带动实体社会组织变化的因由之一。</p>
@@ -50,7 +87,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%96%87%E8%88%86%E8%AE%BA%E5%9C%BA/?category=18271" rel="tag">中文舆论场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD/?category=18271" rel="tag">信息过载</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%88%E5%AD%90/?category=18271" rel="tag">圈子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%9C%BA/?category=18271" rel="tag">舆论场</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%8E%80%E5%BC%80%E8%A5%BF%E6%96%B9%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC%E7%9A%84/" target="cdt-mirror">【异闻观止】人民日报 | 掀开西方“普世价值”的面纱</a>
 </h2>
@@ -788,36 +825,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B0%B4%E6%9C%A8%E7%A4%BE%E5%8C%BA-%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81-%E4%B8%80%E4%B8%AA%E6%B2%89%E9%87%8D%E7%9A%84%E8%AF%9D%E9%A2%98/" target="cdt-mirror">水木社区 | 农村养老 一个沉重的话题</a>
-</h2>
-<p><p>前段时间回了一趟甘肃老家，耳闻目睹了村里的老人们晚年的生活，又激起了我想要写写他们的想法，其实这个想法由来已久，因为他们的养老问题由来已久。</p>
-<p>还没回村的时候家里人就告诉我说四伯母生病住院了，就是我在《悄悄问朋友……》一文中提到的养了一头牛的四伯母，是我的堂伯母。她病得很重，差点救不过来了。</p>
-<p>得了什么病呢？被猪撞了！儿子养了两头猪，因儿子儿媳外出，请老母亲过去护家看院并喂养两头猪，秋雨纷飞的夜晚，猪跑出了圈，老人家去赶猪，不知自己没走好还是被猪撞翻了，反正倒地后起不来。自己挣扎不起来，口袋里装着手机，但是不会拨号。伯母就在泥泞的雨水中挣扎了一夜，导致中风。</p>
-<p>我去医院看她的时候老人家还不会说话，只有一边的手脚稍微能动，翻身、活动、大小便都不能自理。坐在床头我握着她皲裂的手不知道该怎么安慰，只能在她的痛哭、流泪、叹息声中默默地努力倾听，看着她那随着抽搐的身体微微晃动的满头银发，想到如果四伯母不能康复而要长期卧床的艰难，那一刻，我深刻地体会到农民养老的不易。</p>
-<p>因事去三伯父家，也是堂伯父，敲了好久的门三伯父才听到。进院后没寻着三伯母，推开堂屋的门，映入眼帘的是躺在炕上的老人的一头白发，雪白的女式短发从头顶垂下来盖住了枕头，大白天屋外骄阳正火，屋内的三伯母睡着热炕，穿着棉衣棉裤，冷得瑟瑟发抖，浑身却已被汗湿透。住了多次医院，中医西医都查不出病因，也没什么药可吃，就只能这么熬着。钱没少花，罪没少受。</p>
-<p>离我家不远的邻居，年轻的时候是著名的大力士，也是父亲的老朋友，他在我每次回家的时候都会来我家看我，这次没见着，听说病了。我去看他，恰好他抱病赶集去了，接待我的是他的老伴，一个又老又瘦的老太太，佝偻着腰，已老态龙钟。</p>
-<p>这些伯父伯母跟我父母年龄不差上下，都75岁左右，算是村里老人的主体年龄。我发现村里几乎每一家都有这个年龄段的老人，而我小的时候基本上就没有见过这些老人的父母。换句话说：第一，这个年龄段的老人数量多可能是因为1940年到1950年这段时间有一个大的婴儿潮，官方公布的婴儿潮是新中国建国后，但我们村根据老人数量来看，应该在1949年前就生了很多；第二，这些人的父母和爷爷奶奶普遍都很短寿，有一些在1958年到1962年大饥荒时期去世了，熬过大饥荒的普遍都没有超过70岁就去世了。</p>
-<p>唐伯虎有诗云：人生七十古来稀。连千古一帝康熙都只活了68岁多一点而已，农业社会中的普通人还能活多长寿呢？</p>
-<p>由此我想到了中国农业社会中千古流传的“养老”和“孝道”，或许并没有传说中那么美好。</p>
-<p>因为平均寿命短，老人们普遍都不老，往往在还算身强体壮的时候因病突然去世，没有这么多像现在我们看到的八九十岁行动不便甚至老年痴呆的老人。我觉得陈忠实先生的《白鹿原》中关于死亡的描述就是我国几千年农业社会的真实写照，生命的诞生和死亡是那么波澜不惊，尤其死亡是那么轻而易举。</p>
-<p>农业社会往往子女众多，每个子女只需要承担一部分义务。何况那时候医疗条件差，生病了无非就请个乡里的土郎中开几幅草药，价格也贵不到哪里去，因为疗效差，耗不了多久病人也就去了，所以前前后后也花不了多少钱，因此“孝”的成本很低。即便如此，古人也有“久病床前无孝子”一说，可见古人也没孝顺到哪里去。</p>
-<p>但今天完全不同。医疗条件的提升导致平均寿命的延长，70岁以下死去的人都让人觉得有点不正常，于是老人们集体越过70岁靠近80岁甚至走向90岁。死亡可以延迟但衰老不可避免，于是老人越来越多，行动不便的老人也越来越多。现在我一走进村子，满眼都是白发老人，这些人的养老问题是千年未遇的，怎么对这些高龄的老人养老连老人们自己都不知道，因为他们的父母和爷爷奶奶都没活到这么大年龄。</p>
-<p>在这个医疗手段高超，可以“用钱延长生命”的时代，农村的“孝道”走到了一个十字路口：到底散尽家财送老人们去医院延长生命呢，还是像老祖宗一样“视死如归”呢？不管什么病，只要后辈们诚心想治，总能治一阵子，纵使有万贯家财，只要你肯花，不用三五个月就可以千金散尽。农村人赚钱不容易，一点家产可能积攒了几十年，所以遇到这种事就很伤脑筋。</p>
-<p>经济的发展社会的进步正在改写着传统的价值观，尤其正在颠覆一些家庭伦理。我承认上文提到的这种养老的两难是存在的，但是我看到的老人大多都很传统，他们坚持“活到老干到老”，并且坦然地“视死如归”，其对生死的观念就像他们的父辈们一样。</p>
-<p>但是我不得不羞愧地承认，我的老家那一带社会风气确实不好，儿女们把父母“抽干榨尽”后却不愿养老送终的情况很普遍，很多儿孙满堂的老人却晚景凄凉，没有子女愿意让老人跟他们一起生活，多子女的老人养老远比只有一个儿子的老人艰难。</p>
-<p>“婆媳矛盾、医疗花费、伺候老人”等都成为了家庭矛盾的爆发点，农业社会形成的传统价值伦理荡然无存，新的价值观又因为经济并没有那么富裕而难以形成。医学进步让老人们普遍高龄，孝道缺失让老人们晚景艰难，现在的这一批老人既享受着他们的父辈没有享过的福，也承受着他们的父辈没有受过的气。</p>
-<p>不要以为西北地区民风就有多堕落，我观察了湖南农村，养老问题也很棘手，经济条件不好的家庭或者兄弟姐妹不和睦的家庭，其老人的养老跟我上文提到的一样艰难。</p>
-<p>也不要以为只有农村这样，最早的独生子女们的父母已经渐渐老去，再过10年，一对独生子女肩扛至少4个老人，如果运气不好，瘫痪的瘫痪，痴呆的痴呆，看都怎么办！</p>
-<p>在城乡福利不均等的当下，如何尊严地老去平静地死去，农村的老人正在迷茫地思索。</p>
-<p>来源：http://newsmth.net/nForum/#!article/FamilyLife/1757298271</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B0%B4%E6%9C%A8%E7%A4%BE%E5%8C%BA-%E5%86%9C%E6%9D%91%E5%85%BB%E8%80%81-%E4%B8%80%E4%B8%AA%E6%B2%89%E9%87%8D%E7%9A%84%E8%AF%9D%E9%A2%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81/?category=18271" rel="tag">养老</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91/?category=18271" rel="tag">农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E4%BA%8C%E5%85%83%E7%BB%93%E6%9E%84/?category=18271" rel="tag">城乡二元结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C/?category=18271" rel="tag">社会保障</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BF%9D/?category=18271" rel="tag">社保</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -829,7 +836,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -839,5 +846,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

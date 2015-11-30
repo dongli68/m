@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E6%B8%AF-%E5%86%8D%E7%9C%8B%E4%B8%AD%E6%96%87%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E5%9C%BA/" target="cdt-mirror">自由港 | 再看中文网络舆论场</a>
+</h2>
+<p><p>对网络舆论场的整体观察和分析每隔一段时间便会出现于热点评论中，很明显互联网舆情已成为<strong>社会学研究</strong>的重点对象。互联网即是工具也是平台，它本身就是研究课题，同时也是带动实体社会组织变化的因由之一。</p>
+<p>站在互联网自身实力和其预期效用的角度上看，近两年来<strong>中文舆论场</strong>的总体状况似乎呈现下跌趋势，不论是墙内还是墙外，尽管各种角度的研究者都在苦心挖掘优化措施，但实际状况显示并没能起到足够的作用。问题出在哪里？与什么有关？怎么办？</p>
+<p>今天<strong>iYouCha</strong>t邀请几位观察者来聊聊这个话题。</p>
+<p><strong>iYouChat</strong>：经常见到一些研究人士感慨“这个问题早在几年前我已经论述清楚（或提到过）了”，为什么如今还在反复提问、且每一次都要从头开始，最重要的是，很多茫然甚至误解就来自于表达者身边，显示当初的传播和影响并没能如期实现。还有很多其他的类似状况，它们有可能出于什么原因？</p>
+<p><strong>Don</strong>：首先是公众介入话题的目的，或许和表达者的预期不完全一致。表达者不仅希望自己的观点能获得关注，更希望关注的结论对认知有所帮助（<strong>包括实效，如指导行为</strong>）、或认知对结论有补充以促进提升。<strong>发布者误会了连接关系强度</strong>，认为近距离关系相比远距离关系更加适合理念传播，尤其是忽视了中国式社交的特征——强连接关系往往不是理性带来的，甚或大多涉及互利关系，所以<strong>对批判性思维模式的需求基本枉然</strong>。也就造成了<strong>越是近距离关系，理念传播的实质效力就越低</strong>。</p>
+<p>其次换个角度看，<strong>功利心</strong>也在很大程度上令观察者更多在意受众需求，于是质量中“求真求实求透彻”的部分被传播效果的需求所掩盖。人情社会中人们的精力大多被放在情感利益互动的相关方面，这点上线上线下没有太多区别，相比线下，线上的连接会更高效、但强度却更低。也于是这种情况下受众会更多急于表现，加上“<strong>表现渠道</strong>”比较少，只能以充分利用的方式来实现，也就是通常下我们都能明确感知到的各种“夸张”尺度（就不举例了），关键在于<strong>思考被姿态取代是不利于理念显效的。</strong></p>
+<p><strong>Evans</strong>：泡泡网曾经在一篇题为《<a title="泡泡网" href="https://pao-pao.net/article/586" target="_blank">自我审查比审查更可怕</a>》的分析中引用纽约时报中文网当时发表的评论文章，名为《<a title="纽约时报中文网" href="http://cn.nytimes.com/opinion/20150617/c17iht-edabrahamsen17/" target="_blank">谁是中国真正的审查者</a>》。那篇文章比较有意思，它说出了大多国人不愿承认的事实、对中国特有的文化界圈子现象的披露和对审查次生危害的理解和分析。这些年来各方面的政治观察者都在以不同形式呼吁<strong>翻墙以抵抗言论管制、追求自由表达</strong>，但几乎没人想过，即便摆脱了墙内极权政府的言论审查依旧无法脱离中文舆论场的“圈子审查”，虽然后者变相的起因于前者、是基于前者筛选后的结果，但后者往往不承认前者为“准入条件”。本网在“互联网能力”系列话题中指向的“<a title="泡泡网" href="https://pao-pao.net/article/630" target="_blank">大连接</a>”预期被圈子社会的网络化形态严重阻隔，简直是黑色幽默。</p>
+<p><strong>Sylar</strong>：呼吁翻墙的工作本身依旧没能出现明显效果，原因也与上述直接相关。比如圈子和队形，它需要<strong>保持一种可视的形态来彰显其体现在封闭排异等特质上的存在</strong>，于是诸如微信这种应用的设计极大程度上满足了中国式社交的基础需求，基于此呼吁放弃墙内应用效力不高的结果并不难理解。根源并不只有墙，更有中国文化传统背景下特有的<strong>社交习惯</strong>。曾经有人“恶意”推测微信的出现是冲淡翻墙需求的有意而为，这个观点比较幽默，但却如其无法证实一样，无法证伪，因为现实就摆在那里，难以解释。</p>
+<p><strong>Don</strong>：一些中文圈网友明显将微信的既有圈子关系带到了推特上，彼此关注、转发和评论，旁若无人，翻墙在自由连接方面的预期就此被打消了至少大半。<strong>有观察者将中文舆论场的“孤岛化”外观归因于管制，是有偏差的，近似当事人旁观者效应——当事人往往会高估环境因素，而低估自身因素</strong>。</p>
+<p><strong>iYouChat</strong>：何止孤岛化，甚至还有更多细化，经常可见同一阵营的群体被组合成和不同的群聊，其间<strong>重合度超过90%</strong>，也就是说“被甩出来的”只有那两三个人，而这种情况<strong>大多来自于异议群体</strong>。因为异议群体原本在整体上就是极小众——总共那几个人，虽然持坚定的政治反对立场，但思维行为习惯上依旧在被极权价值观和传统文化所左右，于是变成了一个社会缩影；另外<strong>更重要</strong>的是，<strong>高强度维稳令这个群体不得不长期保持着警惕</strong>，对于加入者的审视无法不严格甚至苛刻，再加上人情社会利益权衡思路的干扰，在队形标准内已经没什么耐心去接收共同立场下的不同意见甚至仅是提出问题的“新人”了，继而问题被搁置、感受到问题存在的“自己人”无法表述观点。细化便是无奈之下的<a title="泡泡网" href="https://pao-pao.net/article/640" target="_blank">第一序</a>内“改变”，整体系统没有任何变化，<strong>真正需要改变的是圈子规则，而不是圈子组合结构</strong>。</p>
+<p><strong>Don：</strong>如果说极化“是优势”那必须真正站到对抗一方来的人足够多且不会出现细化圈子（<strong>或者说细化不影响连接状况</strong>），但目前的情势则正相反。有观察者认为公知群体内部分裂会有部分走向异知，这应该属于<strong>没有透彻领略中文舆论场独特性的理想化，至少完全没有考虑到人类普遍感受最艰难的一点就是否定曾经的自己</strong>。关系形成的条件直接受中国式社交特色的左右，它正在决定几乎一切预期。</p>
+<p><strong>Evans</strong>：管制的作用是显著的，至少对墙内来说是如此。<strong>审查令表达趋势整体上走向保守和怯懦</strong>，然而自我审查的后效更高、波及面更广。在这种基础上的翻墙后依旧会带着一定程度上的惯性，毕竟人不是可控的机器，切换状态往往不能主动，于是<strong>墙外中文圈带有强烈的墙内特色的结果是合乎逻辑的</strong>。圈子的特性是体现在类似标签那种<strong>刻板印象</strong>上的，在这一基础之上的思考难以理性，于是有些怨恨和排斥不过是出于沟通不良，而社交网络的字数受限又加剧了这一程度——人们为了赢得足够的传播，需要尽可能以“正确的姿态”呈现观点、又要平衡大众认知，便无法不<a title="泡泡网" href="https://pao-pao.net/article/638" target="_blank">简化</a>处理，其结果却有可能就此<strong>扭曲了概念以及带来误读误判的扩展</strong>。社交网络上极少见到提供思路的或者思考空间的文字，大多是直接的、硬邦邦的结论，原因如上，接下来肯定就是基于情感来判断认同与否了，队形自然呈现。我接触过一些观察者，他们表示大多时候不知道“他为什么这么判断，还那么坚决，理由何在”，我觉得如果能了解到为什么，便有可能更好的互相理解。</p>
+<p><strong>Sylar</strong>：人们很容易适应环境，已经变得没什么耐心去品读分析长文了，他们需要知道最简单的结论是什么，对还是错。的确，很多判断不可能马上出现绝对正确的<strong>终极答案</strong>，每一步结论不过是那一刻的<strong>思考节点</strong>，发布者为了迎合反馈支持就只能选择将结论<strong>极端化</strong>表述（<strong>不容质疑的、不可深化的、甚至是口号式的激愤</strong>），其结果便是令情感基础的判断条件更加深化了，队形和姿态更加明显。</p>
+<p><strong>Don</strong>：或许也不完全是受众耐心的问题，这是个双向促进的力，网络信息过载状态下，表达者要想令自身观点有足够的吸睛度就肯定需要采取那样的表述形式，心理背景还是有功力的成分在作怪。</p>
+<p><strong>Evans</strong>：不能否认中文舆论场当前的状况是管制的结果，是<strong>一步步被挤兑出来的畸形</strong>，观察者有责任提出相关警惕，不能一味的被牵着鼻子走。我们都知道封闭必然极化，每一种极端都在指向其反面，改变的动力是有的，只是方式不对造成效果不佳。封闭造成思考程度、话题、视角差异极大，以至于在一个综合性的非圈子大群里完全无法沟通，于是很自然的按照既有队形发生分化、同时“排异”，经常能见到很激烈同时也很可笑的“对峙”，其实双方并没有立场基础上的分歧，不过是情感亲疏在作怪，导致的“话不投机”。也就是说，即便有机会打破圈子形态、形成组合，也没有机会将沟通正常化。</p>
+<p><strong>Don</strong>：对其他群体或非本群个体的扭曲化、甚至妖魔化的评价都很常见，同样出自于圈子规则中的积极区分，这样只会加速封闭。另外，一些口水口号甚至是伪造的消息都在封闭的小圈子内常年流传，正因为<strong>圈子规则</strong>下内部无法反驳、外部无法介入，形成了一个令人哭笑不得的自循环。</p>
+<p><strong>iYouChat</strong>：本网一贯的思路是发现问题、考虑这类问题为什么会出现，它有什么危害、并想办法解决，<strong>最终出现的是解决方案</strong>，不一定是问题本身。并且这个方案还有较广泛的<strong>实用价值</strong>。比如关于“连接”的话题系列、<a title="自由港" href="https://iyouport.com/archives/45558" target="_blank">思维模式优化</a>的系列、以及<a title="自由港" href="https://iyouport.com/archives/51962" target="_blank">说服技巧</a>系列。然而这些方案如果能明显显效就必须有足够的关注者和思考者，也就是<strong>同样发现了问题的人</strong>，然而事实显示，这一思路在当前的中文舆论场“特色”氛围内难以如期发挥效应，至于原因就是今天大家分析的这些。<strong>社会学常用理论</strong>基本都可以解释，但我们今天不谈理论，充分地接一次地气。至于如何改变，刚才大家也提到了，走出怪圈需要更多人的努力，至少<strong>从认识到问题的存在开始</strong>。</p>
+<p>好了时间差不多了，感谢各位的参与，读者朋友您如果还有同样的感受和创造性建议，欢迎在评论栏中留言~</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E6%B8%AF-%E5%86%8D%E7%9C%8B%E4%B8%AD%E6%96%87%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E5%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%96%87%E8%88%86%E8%AE%BA%E5%9C%BA/?category=18271" rel="tag">中文舆论场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD/?category=18271" rel="tag">信息过载</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%88%E5%AD%90/?category=18271" rel="tag">圈子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%9C%BA/?category=18271" rel="tag">舆论场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%8E%80%E5%BC%80%E8%A5%BF%E6%96%B9%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC%E7%9A%84/" target="cdt-mirror">【异闻观止】人民日报 | 掀开西方“普世价值”的面纱</a>
 </h2>
 <p><p>《人民日报 》（ 2015年11月30日 07版）</p>
@@ -790,37 +818,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%BC%80%E5%B1%95%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%90%97%EF%BC%9F/" target="cdt-mirror">唐映红：给学生开展感恩教育真的好吗？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2.jpg" alt="感恩教育" width="525" height=""></a></p>
-<p>Q&A151126</p>
-<p><strong>　问：给学生开展感恩教育真的好吗？</strong></p>
-<p>答：近10多年以来，<strong>不少中小学热衷于给学生进行感恩教育</strong>，试图让学生学会对父母、师长感恩。有些学校甚至采取在广场公开给父母洗脚的方式来推行感恩教育，那么给中小学声开展感恩教育真的好吗？</p>
-<p>从心理学研究的角度，无论是<strong>个人感恩</strong>（对他人的行为或存在而感恩）还是<strong>超个人感恩</strong>（因自己的拥有而感恩上天），<strong>一个具有感恩特质的个体，往往同时也具备感情稳定性、宜人性、自信、不自恋，等特质</strong>，感恩与幸福感之间的相关性强于大五人格特质中任何一个特质与幸福感之间的相关性。也就是说，<strong>常怀感恩之心的人，更容易感受到，而且更深刻感受到幸福。</strong>所以，无论是从心理励志的角度，还是心理辅导的角度，都应当倾向于鼓励个人学会或保持感恩的心态。</p>
-<p>至于感恩教育，则基本上算是一个舶来品。最初发轫于西方的基督教文化，特别是美国的感恩节文化。传播到中国来以后，<strong>中国特色的感恩教育就将西方的感恩形式与中国传统的家长制以及孝道结合在一起，虽然看起来很美，但如果仔细辨析就难免金玉其外，败絮其中。</strong></p>
-<p>虽然心理学的研究证实了感恩的心态与体验幸福有高度的相关，但同样也揭示了<strong>感恩这种积极心态并非总是积极的。</strong>对他人、自然或际遇所怀着的感恩之心源自心理学里所谓的“<strong>积极幻想</strong>”，但积极幻想本身与自我欺骗是一体两面。换句话说，<strong>“积极幻想”本身就是人类一种认知偏差，只是这种积极偏差有助于人们有好的感受，所以在一般情况下并不去纠正它。</strong>举个例子，一个人因为从小因意外事故导致的残障而无法像他人一样地发展，但却收之桑榆，比如学会了用脚写字，并成为他人学习的楷模。他可能会因此感恩那场事故，因为正是那场意外使他学会了坚强，并因此成为了他人的楷模。感恩的态度对他而言是一种积极的生活态度，有什么理由去纠正他呢？因事故而致残的例子多了，<strong>之所以是他脱颖而出，不是因为事故，而是他与生俱来的某些人格特质，以及周围引导或影响他的情景共同造就了他。</strong>如果不是那场意外事故，他可能考上北大，到哈佛深造，诸如此类。我曾经教过的学生，雷庆瑶就是这样的例子。她周围很多人会嘀咕，认为是因为她失去双臂才谋得在大学深造的机会，但我一直告诉她，如果不是因为那场意外事故，她应该有机会考上北大。<strong>她通过自身的努力取得了成就，因而感恩磨难带给她成长无伤大雅</strong>；但对那些经历了类似际遇而自暴自弃的其他人又该感恩什么呢？<strong>造就雷庆瑶的是她与生俱来的某些特质，以及成长过程的特定情境。事故就是事故，本质上那就是一场灾难。</strong></p>
-<p><strong>但引发感恩的积极幻想这种自我欺骗超出一个合理的范围，它可能就很糟糕了。</strong>例如，纳粹集中营里面幸存的犹太人对他遭遇的惨痛经历，如果发展成因而感恩纳粹对他的折磨，因为正是这些经历使他更坚强，激发了他原本不知晓的巨大潜能。这种感恩就不是积极的，而是自欺欺人。他可能因此而感到好受些，<strong>但这种“好感觉”与其说是幸福，毋宁说是自我麻痹。</strong></p>
-<p>同样的道理，<strong>在中小学推行的具有中国特色的感恩教育其本质就很糟糕。</strong>像许多中小学推行“感恩教育”的视频里，演讲者声泪俱下地引导孩子们沉浸在父母的含辛茹苦的想象里面，让他们感动。之所以说中国特色的感恩教育很糟糕，因为类似的教育推行十分简单粗暴。它<strong>没有对学生的亲子关系进行甄别。</strong>尽管大多数，甚至绝大多数学生的父母都是关爱自己孩子的，但总会有一些父母遗弃、虐待、凌辱自己的孩子。<strong>所谓的“感恩教育”让这些遭受家暴，甚至遗弃的孩子沉浸在父母的含辛茹苦的想象里，这本质上就是一种赤裸裸的心理伤害。</strong>因为我国并不像美国那样对虐待、性侵儿童的父母有严格的法律规定，以及完善的社会救助体系，绝大多数虐待、性侵儿童的父母没有受到惩罚，也没有剥夺生父母抚养权，以及委托寄养家庭的法律和社会救助机制。因此，这些孩子在学校里接受简单粗暴的感恩教育本质上就是一种对他们的再次伤害。</p>
-<p>不仅如此，除了那些受到父母虐待、性侵和遗弃的孩子，<strong>即使是普通的孩子，简单粗暴的感恩教育对他们也是有害的。</strong>父母并非天然就是孩子的道德楷模，有很多的父母并不称职。他们疏于对孩子的管教，没有以身作则，尽管他们“爱”孩子，但行为举止相当地糟糕。<strong>让懵懂的孩子去感恩这样糟糕的父母，是鼓励孩子们也像他们父母一样糟糕吗？</strong></p>
-<p>中国特色的感恩教育除了蛊惑感恩父母，学校的另一个主题就是感恩师长。问题是，学生应当无条件感恩老师麽？当媒体不断曝光诸如强奸女生的校长、老师；虐待和体罚学生的老师；侮辱和排斥学生的老师；以及赤裸裸索贿的老师的报道，要知道，这些现象不是个别现象，而是具有一定的普遍性。在现时代，<strong>教师作为一种职业，已经不具有道德表率的传统光环。</strong>一个老师，只有他对学生成长带来了积极的引导，他才是一个值得尊敬的老师；<strong>没有任何理由说，仅仅因为他是老师，学生就应当尊敬他，感恩他。</strong>当一个老师不负责任、行为龌龊、漠视甚至敌视学生，学生应当学会判断，这样的老师是不合格的，是应当被抵制和替换掉的，而不是不分青红皂白地“感恩”。</p>
-<p>正是因为中小学推行的感恩教育简单粗暴，没有甄别不同的父母，不同的师长。有一些是好的，值得孩子们感恩；而另一些，甚至大多数是谈不上感恩的；还有一些，尽管可能只是个别，不仅不是感恩的问题，而是要<strong>教会孩子们学会保护自己，报警或向可靠的社会机构求助。</strong>（尽管我们的社会提供类似救助的机构凤毛麟角。）</p>
-<p>“感恩教育”本身就是舶来品。但要知道，美国也好，欧洲也好，甚至日本也好，世界上大多数文明国家都会在教育中加入引导孩子们感恩的内容，形式可能不完全一样，但本质上就是感恩教育。可问题是，<strong>不能只看到文明国家搞感恩教育，而忽略别人的另一些更重要的教育。</strong>以美国为例，从小学初始，就会<strong>教育孩子了解自己享有什么样的权利，以及权利的边界。</strong><strong>任何成年人，包括父母、师长，只能怎样对待自己，不能怎样对待自己。</strong>父母虐打孩子，会被起诉，并立即把父母与孩子隔离；校长或老师性侵学生，那是联邦重罪。有任何娈童前科的，不可能申请到任何教职；而且在所居住社区会被标注出来。</p>
-<p><strong>而中国的教育，从来不会告诉学生他们应当有什么样的权利，以及应当如何维护他们的权利；关键是社会根本就缺乏维护学生基本权利的机制。</strong>例如有报道云南景谷一中规定，带早餐到课室的学生会被开除，关键是这样变态的规定是公开的。学生怎么办？他们的家长怎么办？投诉到政府教育部门？向法院起诉？任何具备中国社会常识的人都知道，不仅学生，连带他们的家长根本就没有途径来维护他们的权利。事实上，<strong>对大多数，甚至99%以上的中小学教师、校长，他们心目中压根就不清楚他们的学生有什么权利</strong>（更可悲的是，他们连自己应当有什么权利往往也搞不清楚）。</p>
-<p>别说中小学，<strong>即使中国的高校，侵犯学生的权利也是肆无忌惮。</strong>例如，某些高校辅导员，很苛刻地规定学生必须在每个星期天下午报到，而罔顾学生有权支配自己星期天的日程。这样的辅导员的做法通常不会被纠正，反而更可能因为“管理有方”而受到褒奖。<strong>每个高校里的诸如校团委、学工部、辅导员，他们存在的目的不是维护学生的权利，而根本就是限制和戕害学生的权利。</strong></p>
-<p>也就是说，<strong>在保障每个人平等权利的基础上，感恩教育才是积极的。相对地，在罔顾学生个人权利的环境下，感恩教育是有害的，它更像是毒药，让权利受到侵害的学生麻痹、习惯，并最终习得性无助起来。</strong>只有懂得自己权利，以及权利边界在哪里，才能引导学生明辨是非；而<strong>一个能起码明辨是非的社会，才有感恩教育的土壤。</strong>抛开这个大前提，所谓的感恩教育，无非是<strong>洗脑灌输的一种形式</strong>，它让那些遭受着家庭、学校、社会各种戕害的孩子们不去思考他们为什么会遭受戕害，也消磨他们去改变境况的努力。<strong>扭曲的感恩教育培养出来的不可能是积极、健康、自信和宽容的公民，而更可能是狭隘、偏执和蛮横的奴才。</strong></p>
-<p>概言之，“感恩”和“感恩教育”，二者不是一个概念。对个人而言，感恩的态度更容易使我们感受到快乐，而且感恩的心态更容易使我们接近幸福。但感恩教育却是另外一回事，<strong>当我们蛊惑一群人要感恩，却不告诉他们享受怎样的权利，以及如何维护这些权利，这样的感恩教育本质上就是毒药。</strong></p>
-<p>即使对个人而言，感恩的态度是否是积极的，它也存在一个边界条件。<strong>积极的感恩是感恩那些善待我们的他人；即使退一步，我们宁可善意地解释他人也算是积极的感恩。</strong>但如果我们感恩那些戕害我们的他人或事件，这就不是积极的感恩了，而根本就是自欺欺人。<strong>感恩的前提之一是明辨是非。</strong>当我们跌跌撞撞的成长过程中，尽管有喜乐也有痛苦，但怀着一份感恩地心看待经历、曾经同行的他人，以及自己，这不啻是一种积极、乐观的人生态度。但<strong>如果我们曾经遭受不幸，却偏要感恩曾经强奸自己的人，那就不是积极、乐观的人生态度，而是低自尊的“犯贱”。</strong></p>
-<p>对了，顺便说一下，在《积极心理学》里，“<strong>感恩</strong>”只占了很小很小的篇幅。<strong>积极健康的价值观比“感恩”重要得多，无论是追求幸福，还是追求成就。</strong></p>
-<p>2015-11-26</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="300" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%BB%99%E5%AD%A6%E7%94%9F%E5%BC%80%E5%B1%95%E6%84%9F%E6%81%A9%E6%95%99%E8%82%B2%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%84%9F%E6%81%A9%E8%8A%82/?category=18271" rel="tag">中国感恩节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -842,5 +839,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

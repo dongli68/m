@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%84%E5%A2%83%E6%84%88%E5%8A%A0%E6%81%B6%E5%8A%A3-%E5%94%90%E5%A4%A9%E6%98%8A%E6%B7%B1%E5%9C%B3%E8%A2%AB%E7%A6%81/" target="cdt-mirror">自由亚洲 | 维权律师处境愈加恶劣 唐天昊深圳被禁出境</a>
+</h2>
+<p><p>被中国当局列入禁止出境“黑名单”的律师越来越多，著名维权律师唐天昊11月30日在深圳皇岗口岸以可能“危害国家安全”为由被禁止出境。</p>
+<p>中国大陆维权律师唐天昊11月30日在深圳皇岗口岸遭到出入境边检站以护照有问题为由进行拦截。警察口头告知称因其可能危害国家安全而拒绝其出境。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/f825abf1-42c7-4542-9b18-422fcf670adc.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/f825abf1-42c7-4542-9b18-422fcf670adc.jpeg" alt="f825abf1-42c7-4542-9b18-422fcf670adc" width="550" height="733"></a></p>
+<p>唐天昊律师接受本台采访时称，他将回到护照签发地重庆采取法律手段维护自己的合法权益，并强烈谴责公权的肆意违法。</p>
+<p>唐天昊：“昨天我是准备持护照落地签东南亚的一些国家，过皇岗口岸的时候，海关看到我的护照，他说我们要向上面请示一下，就把我带到了一个小隔间，禁用手机，有民警看着。后来又把我带到另外一个隔间，民警的领导说有些方面认为你出境可能会危害国家安全，我说哪些有关方面？他们不做任何回答。我会从重庆过边检再前往香港，如果不让我前往，我会在重庆提起相关的诉讼。”</p>
+<p>对此，多次参与声援维权律师行动的香港支联会副主席蔡耀昌告诉本台：“这完全侵害了中国公民的出入境自由，违反了国际公约。中国已经签署联合国的公民权利和政治权利国际公约，也应该遵守有关规定，包括公民的出入境自由，我们看到虽然中国有这样的法律可以禁止出入境，但是我们看不到任何事实上的限制受侵害的包括律师和其他公民的一些正当的理由，如果说他们出境会侵害国家安全，那是什么国家安全？可是完全没有这方面的资料。无论怎么说，官方这样的作法都是侵害人权，是违法的。</p>
+<p>据统计，自7月份以来，中国已有超过20名律师或律师的家属被以同样理由拒绝出境。</p>
+<p>对此，唐天昊表示：“我们所从事的这些工作在国内办理各类案件，我们都是依法依规在办理，从昨天到现在我一直在思考，我到底哪一点危害了这个国家的安全？之前如果有危害国家安全的行为，为什么刑事机关没有将我们进行拘押，也没有相关的警告？自由迁徙的权利受到了限制，或任何权利受到限制，我们都应该依照法律去维护我们的权利，否则人们的自由会受到更大的钳制，今天是迁徙的自由，明天可能连人与人之间小声的沟通的权利都会受到剥夺。公安部的领导、中央的这些领导应该思考这些问题，把我们的权利收归上去到底要干什么？这不就是在培植不满的情绪吗？”</p>
+<p>因不满当局滥用“边控”权力，13名中国维权律师上月12日联名在网上发表致北京市公安局的公开信，抗议其侵害律师自由旅行权利，要求撤销禁止他们出国旅行的禁令。</p>
+<p>对此，蔡耀昌接受本台采访时称，当局的目的一是防止律师出境向外界指责中国侵犯维权律师的人权，其二是威胁和恐吓维权律师噤声。</p>
+<p>蔡耀昌：“估计来讲，可能第一怕他们出去以后传达一些对中国政府不好的讯息，其实我想这些律师可能出去讲的话都是事实，就是中国政府在最近几个月对很多维权律师跟其他人士的拘捕迫害。对中国政府来讲，当然他们不希望有人向外面提起，当然我们觉得是毫无理由和毫无法律依据的；另外一个原因是以对这些人的行动自由的限制作为恐吓，要求他们不要再做一些官方不喜欢的事情。”</p>
+<p>据中国维权律师关注组的最新统计数据显示，截至2015年11月27日，中国内地至少307名律师、律所人员、人权捍卫者和家属被约谈、传唤、限制出境、软禁、监视居住、刑事拘留、逮捕或失踪。</p>
+<p>特约记者：忻霖   责编：吴晶</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%84%E5%A2%83%E6%84%88%E5%8A%A0%E6%81%B6%E5%8A%A3-%E5%94%90%E5%A4%A9%E6%98%8A%E6%B7%B1%E5%9C%B3%E8%A2%AB%E7%A6%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E5%A4%A9%E6%98%8A/?category=18271" rel="tag">唐天昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E5%A4%A9%E6%98%8A%E8%A2%AB%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/?category=18271" rel="tag">唐天昊被限制出境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%80%80%E6%98%8C/?category=18271" rel="tag">蔡耀昌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A/?category=18271" rel="tag">香港支联会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%A8%9F%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A2%93%E7%A2%91%E7%9A%84%E4%BA%94%E5%8D%81%E5%B9%B4%E6%97%B6%E5%85%89/" target="cdt-mirror">博谈网｜李娟：没有墓碑的五十年时光</a>
+</h2>
+<p><p>昨天去邮局取稿费。旁边有一个老人在寄信。我觉得好奇，这年头还有人寄信？探头一看，大吃一惊，信封上赫然写着：‌‌“请交北京市国务院李克强同志收 ‌‌”。另外两封一个是给习大大的，一个给春贤哥的。我赶紧提醒他，这信寄不出去，劝他放弃。可他好像听不懂似的。四川口音。我这才认真地打量了一下他， 发现是一个很老的老人，穿着单薄破旧的旧军装。我用四川话和他交流，很快他明白了我的意思，问我该怎么办。我看信封还没封，就抽出信纸看。是一张打印稿， 错字连篇，内容混乱，但其间悲哀难抑。信封上手写的字迹，虽然非常颤抖，却是规整的繁体字。内页为什么是打印稿呢？他说是他口诉，请打印店的人打的。大约是为了表示对领导人的尊敬。一封信只需一张邮票就够了，可他买了六张，大约为了保险起见……可是一切都将石沉大海。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5EUH3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5EUH3.jpg" alt="5EUH3" width="374" height="500"></a></p>
+<p>见我好奇，又能沟通，他像捞了一根救命稻草，说了很多。翻来覆去都是：‌‌“太伤心了……五十年啊……伤心得很……整整五十年。‌‌”</p>
+<p>信的内容混乱，大意是他所居住的村庄自然条件恶劣，土地少，一年一产，无霜期还极短，<strong>玉米也不能种</strong>（编者注：作者<a href="http://weibo.com/p/2304184c4bfedf0102wdio">更正</a>版，原文为“只能种玉米”）。灌溉水供应不足。五十年过去了都没有什么改善。他想迁到附近一个条件相对好的新村。大约还有别的没写出来的什么原因。总之他只是想为自己争取一点点利益。对别人来说微不足道对他来说却有可能改变生活的利益。</p>
+<p>在农村生活久了，悲哀无奈的事情见得太多。但仍然麻木不了，仍然会为之痛苦。</p>
+<p>我从来都不相信勤劳可以致富。也许有一部分聪慧擅变通的农民能适应时代的变化，灵活转变。但还有一部分人只能依赖僵直的旧日生活习惯，固守僻远艰苦的地 方，沉默忍耐。八十五岁，来新疆五十年，口音丝毫未改，可见性情上的狭窄。可这又有什么错呢？‌‌<strong>“优胜劣汰‌‌”的说法只有乱世才提，在和平年代里，关注弱者，理解弱者才是正道。</strong></p>
+<p>好友雪飞说‌‌“汉人填边疆，一部血泪史。‌‌”所谓‌‌“填‌‌”，和活埋有什么区别？他们被抛掷的一场又一场五十年时光无人买单。</p>
+<p>总之想了又想，写下这些。为他颤抖的繁体字，为他不为人知的五十年，为他五十年的伤心。</p>
+<p>后来他听我的劝告，没有再寄信了。我取了钱飞快离去。回到家才想起忘了提醒他，邮票可以退的。六张邮票七块多钱呢。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/n2TVi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/n2TVi.jpg" alt="n2TVi" width="500" height="360"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/lwJag.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/lwJag.jpg" alt="lwJag" width="500" height="374"></a></p>
+<p>老人是四川口音，身份证上却写着蒙古族。可能是因为生活在蒙古自治乡的原因。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%A8%9F%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A2%93%E7%A2%91%E7%9A%84%E4%BA%94%E5%8D%81%E5%B9%B4%E6%97%B6%E5%85%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91/?category=18271" rel="tag">农民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%A7%A6%E6%99%96%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E5%8E%8C%E6%81%B6%E5%B8%9D%E5%88%B6/" target="cdt-mirror">秦晖：为什么人们厌恶帝制</a>
 </h2>
 <p><p><strong>大灾难的形成机制</strong></p>
@@ -130,7 +174,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">”泄露国家机密”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B5%B0%E5%87%BA%E5%B8%9D%E5%88%B6%E3%80%8B/?category=18271" rel="tag">《走出帝制》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E7%BC%BA%E9%99%B7/?category=18271" rel="tag">制度缺陷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E8%82%89%E5%BC%BA%E9%A3%9F/?category=18271" rel="tag">弱肉强食</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%9D%83/?category=18271" rel="tag">政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E6%94%BF/?category=18271" rel="tag">暴政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E6%99%96/?category=18271" rel="tag">秦晖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B0%E5%87%BA%E5%B8%9D%E5%88%B6/?category=18271" rel="tag">走出帝制</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E4%BA%AC%E5%9F%8E%E9%9B%BE%E9%9C%BE%E5%8F%B2%E4%B8%8A%E7%BD%95%E8%A7%81-%E6%B5%93%E5%BA%A6%E9%80%BC%E8%BF%911952%E5%B9%B4%E4%BC%A6%E6%95%A6%E7%83%9F%E9%9B%BE%E4%BA%8B/" target="cdt-mirror">财经网 | 京城雾霾史上罕见 浓度逼近1952年伦敦烟雾事件</a>
 </h2>
@@ -828,82 +872,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%9C%9F%E7%9A%84%E6%AF%94%E6%B0%91%E4%B8%BB%E5%A5%BD%EF%BC%9F/" target="cdt-mirror">译读 | 中国模式真的比民主好？</a>
-</h2>
-<p><p>今年的10月15日， 贝淡宁，《中国模式：精英政治与民主的局限》一书的作者，参加了亚洲协会的中参馆小组讨论。这场小组会议的另一个承办者是杂志《纽约书评》，出席的小组成员还包括英国牛津大学欧洲研究所蒂莫西·加顿·艾什，杜克大学法学院副教授张泰苏，哥伦比亚大学中国政治问题专家黎安友教授等。成员与贝淡宁就他书中的问题展开讨论：中国是否有属于自己的政治模式，如果有，那又是怎样的一种模式？为了更加清晰明了，接下来的中参馆对话包含了这场讨论的编辑摘要。</p>
-<p><img src="http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/82CYo7QhbzicjPdEmMpXXAicIrd571vSm3SCOm1dKyicdQaXMKyNEqevLLPwSfECNDjFG4oUtT9jLudlCxqIGhicHw/0?wx_fmt=jpeg" alt=""><br><strong>贝淡宁（Daniel A. Bell），清华大学哲学系教授以及伯格鲁恩哲学与文化中心主任</strong></p>
-<p>纵观中国的封建朝代，官员的选拔首先要通过考试，然后再经历低层政府的历练，评估其政绩。奇妙的是，这一套官员选拔制度在过去的三十年被重建了——尽管像我们看到的那样，缺点颇多。灵光乍现之后，我就开始了专栏写作。然而此举遭到我的自由派友人和儒学朋友的批评；他们问道：“这家伙是怎么回事？他已经成为中国政府的坚定支持者了。“ 事实并非如此。</p>
-<p>我把我的研究方法称为“关联政治理论“：也就是说一个政治理论家应该从连贯的，理性可靠的角度定义一个社会中主导的政治理想。我刚好在中国工作，那么中国主流的政治理想又是什么呢？ 我将其概括为“垂直的民主精英制度”，它渗透着过去三十年中国政治改革的方方面面。但是很遗憾，理想和现实间依然存在着巨大的鸿沟。这个政治理想是好的，至少理论上是好的，并且可以，也应该继续在未来引导中国的政治改革。</p>
-<p>究竟什么叫做“垂直的民主精英制度”呢？那是一种观念，认为民主在较为基层的政府才有效。这个理念，从亚里士多德、孟德斯鸠和罗素时期开始就一直引起西方政治理论家的不休争论。如果政治团体足够小，那么许多事情沟通起来就简单很多；你了解自己要选择的这个人的人品，因此基层的民主更有基础。然而像中国这么大的国家，随着上级的指令逐层下达，事情也会随之变得复杂，而误读或曲解的代价将是巨大的。</p>
-<p>因此中国需要使选拔系统制度化，以保证能筛选和提拔高质量的官员。基层民主政治，高层精英政治，这种模式有它的好处——至于夹在高低层之间的中层，我们不知道应该怎么做比较好，所以那里有巨大的空间来进行试验和探索，尝试不同的方法来选拔官员。基层民主，中层试验，高层精英不失为一种治理大国的好办法。并且我认为这种办法与中国的政治文化相得益彰。文化大革命的民粹主义是一种糟糕的尝试，因此中国必须要重建这种精英政治体系。</p>
-<p>接下来说一说理想与现实的差距。我并非在为中国的现状辩护，而是在为评估现状的标准——精英政治理想——辩护。怎样才能改变现状？问题出在基层民主：农村选举已得到改善，但要想选举更加自由和具有竞争性，还有很长的一段路要走。有很多民主价值和机制可以应用到这一改善的过程中，比如审议、磋商、听证、公民投票等。这些都是非常重要的手段，而在高层的官员选拔中也应该有一定比例的民主选举。还有一种方法可以扩大民主，并且更加科学地评估试验的结果。如今中国已经在中层进行了很多试验，但谁来决定这些试验是好是坏呢？我们应该要给专业人士多一点发言权。</p>
-<p><img src="http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/82CYo7QhbzicjPdEmMpXXAicIrd571vSm3n3rahPiaXwlibtgOhLiaia9koGdLS8Aoms9A3cnibtdhsCNOTRCzLc5lQUw/0?wx_fmt=jpeg" alt=""><br><strong>蒂莫西·加顿·艾什（Timothy Garton Ash），牛津大学欧洲研究教授</strong></p>
-<p>首先，我认为我们应该感谢贝淡宁，因为他对中国模式的看法更加多面化，不像李世默，张维为还有极左的刘明福大校，至少我们可以理性地和贝淡宁进行交流。</p>
-<p>其次，我认为如果中国真的有自己的政治模式，那是一件好事。对中国而言。固定的政治模式可以使中国政治改革的平稳推进成为可能。对西方而言也是好事，因为如此一来中国就能成为与西方意识形态势均力敌的对手。我认为西方之所以面临诸多问题，比如狂妄地入侵伊拉克，金融危机等，部分原因就是二战之后缺少一个可以与之匹敌的对手。所以，如果中国模式的确存在，那将是一件好事。</p>
-<p>第三，我同意贝淡宁的观点，显然中国正进行重大的政治改革，而且它并不是苏联模式的再现。中央在城市和各省级政府都在进行政策试验，而任何一个到过中国大学的人都知道，最终入党的，都是最聪明——甚至各方面素质都最高——的学生经过激烈竞争的。这些都是事实。然而根据我多次中国之行的观察以及将其与其他共产主义或后共产主义的体制对比，恐怕中国的政治模式并不像贝淡宁描绘的那样。贝淡宁认为，中国的精英政治没有发挥应有的作用，但它之所以没有，是因为它不是精英政治。根本不是。</p>
-<p>举一个书中的例子。在书中贝淡宁描述了他跟中共中央组织部部长的谈话，这位部长阐述了总书记选拔的过程：各方提名，审核，审核过程公示以接收群众监督，纪检组考核，最后投票选出领导人。对于一个精英政治体系，这过程看起来简直完美。虽然我和贝淡宁都不是亲身参与其中的人，但我们都很清楚中国共产党的行事风格——根本不是这回事。中共党内的派系斗争非常激烈，还有官官相护、政治赞助和贪污腐败等严重问题。这些信息都是从针对中共数不清的研究中得来的，甚至他们自己出版的许多刊物也是证据。所以我们知道，最重要的那位并不是像部长说的那样光明正大地选出来的。另外，我认为我们需要跟贝淡宁讨论一个问题是：究竟他是着眼实践还是理论？如果是现实，我们发现验证他说的跟现实符不符合；而如果是理论，这个理论其实又与列宁主义区别不大。贝淡宁还谈到言论自由，越来越少的言论自由。如果人民连公开评论政策可行性的自由都没有，又谈何真正的精英政治呢？我看不大可能。总的来说，我认为精英政治不能解决问题，因为中国根本没有精英政治。这意味着中国现有的政治体系将难以应对其正面临的挑战——经济放缓带来一系列问题，廉价劳动力时代的结束，以及与此同时社会结构日趋成熟，民众教育水平的提高和变得更为远大的抱负。我希望中国有精英政治，只是很遗憾，它并没有。</p>
-<p><img src="http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/82CYo7QhbzicjPdEmMpXXAicIrd571vSm32bWrPrBBkU4YwU5ib8DRPQ3uPumDZAqRmWhDW9JnwFicBbgS2geAnc4A/0?wx_fmt=jpeg" alt=""><br><strong>黎安友（Andrew J. Nathan），哥伦比亚大学政治科学教授</strong></p>
-<p>贝淡宁说的很清楚，这是一本政治理论书。他在麦吉尔大学受训和他的早期作品都是为了推行和阐释“社群主义”这一理论的。社群主义是对自由民主精神的批判，后者已经被西方内化了。他到过中国，他也写道，当他到了某些地方，例如新加坡、香港和中国的时候，他发现儒教和中国文化中都有社群主义的影子，在他看来，它们似乎比社群主义更胜一筹。因此这并不是一本描述中国现状的书——本来就没这个打算。但这本书很容易被人误以为是。其实它是一本关于理论，关于理想主义，关于“模式”这个词的另一种解读——我们可以把这本书看作一本蓝图。我只想告诉大家贝淡宁把他的这本书定义为理论书。所谓的理论是什么？他说了三个阶段：民主，试验，精英政治。首先这是一本支持精英政治的书，这是他论点的关键所在。那什么是精英政治？就是选拔出那些德才兼备的领袖。其中，贝淡宁作为一名政治哲学家和伦理哲学家，德这个字是他尤其看重的。</p>
-<p>我个人最不能赞同这本书的一点，那就是根据德才兼备的标准进行的选拔，能不能组成一个更好的政府。我认为这本书最大的谬误是忽略了权力的行使。这本书只关注官员的选拔，却忽略了选出来的官员是否受到制衡，是否接受一个自由社会的监督。中国的政治体系，或者理想的精英政治体系能否选出比民主制度下更好的管理者，有待商榷。我承认，有时候民主体制选出的人不是最好的。但是诸多例子表明独裁也不能。习近平的人品就一定高尚吗？我表示怀疑。也许奥巴马比习近平高尚，谁知道呢？民主的核心并不在领导人的选拔方式上上。领导人如何选拔固然重要，但民主比独裁优越的关键便是选出的领导人会受到自由权利赋予他人的监督制衡权。我想贝淡宁忽略了这一点，虽然他自己承认中国的理想和现实间有差距，但这种差距并不是偶然，而是政治体系的结构造成的。当他在书中谈到自由民主的时候，没有提到差距的问题。他只是说了现实民主制度的不足之处。因为是现实的民主制度，所以那些不足当然存在了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-28-at-%E4%B8%8B%E5%8D%883.32.11.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-28-at-%E4%B8%8B%E5%8D%883.32.11.png" alt="Screen Shot 2015-11-28 at 下午3.32.11" width="223" height="312"></a><br><strong>张泰苏（Zhang Taisu），杜克大学法学院副教授</strong></p>
-<p>我想继续关于理论的探讨。当我读这本书时，我的一个疑虑是作者在对比时，选取的标准是否合理。这本书的观点是这样的：中国的政治体制体现出精英政治的特点，而相比于有缺陷的西方民主，精英政治或将有更好的治理效果。可以说，书中是在比较两种模式的治理效果。但在某些政治理论家看来，你用这种标准衡量西方民主模式就很奇怪，因为西方的民主模式，特别是美国早期的共和国政体中，从一开始就不是为了追求更好的治理效果。它的目的是要通过代议制政府尽可能大地实现一人一票的民主理想。民主政府的核心价值在于，它的选拔过程具有与生俱来的选举公平性和执政合法性。因此，说民主制度下推选的政府治理不好国家，其实是忽略了民主国家为什么要实行民主制。同理，作者做出这样的对比，似乎也没有仔细考虑为什么要实行精英政治。</p>
-<p>举个例子，中国末代王朝也有精英政治的特点，即通过科举制度推选人才。在清朝，国家原先每年从GDP中抽取百分之八到九收归国库，但随着国土面积不断减小，到清政府灭亡前，只能抽不到百分之一。国家的重要性不断降低，这意味着治理本身也没有以前那么依赖国家。然而科举在社会中的地位却丝毫不减。原因何在？其实，在中国精英们的观念里，这种完全透明，开放，无门槛的考试是唯一公平，也是唯一在整个社会中具有合法性的官员选拔方式。所以，哪怕是精英政治，也需要选拔体制来创造合法性。即使纯粹比较治理效果，也不能说明这两种模式孰优孰劣，因为还有很多其他的因素会影响治理效果。也许这本书该问却没问的一个问题是：精英和民主这两种模式在各自的国家中，是否为各自的社会所接受？所谓的精英和民主，本质上是不是都是根据不同社会对于合法性的不同理解，而产生的两种不同的选拔方式？当然在不同阶段，对选拔方式的合法性也有不同的界定，你也可以说在当今中国，人民心目中普遍认可和欢迎的选拔方式可能比共产党允许的程度更加民主化。这是个问题。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F%E7%9C%9F%E7%9A%84%E6%AF%94%E6%B0%91%E4%B8%BB%E5%A5%BD%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B3%B0%E8%8B%8F/?category=18271" rel="tag">张泰苏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9D%E6%B7%A1%E5%AE%81/?category=18271" rel="tag">贝淡宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%8E%E5%AE%89%E5%8F%8B/?category=18271" rel="tag">黎安友</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5%E4%B9%A6%E8%AF%84-%E4%B8%80%E4%B8%AA%E5%B8%A6%E8%B7%AF%E5%85%9A%E4%BA%BA%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/" target="cdt-mirror">经济观察报书评 | 一个”带路党人”的自我修养</a>
-</h2>
-<p><p>作者：张明扬</p>
-<p>对于“带路党”这个几乎等同于“汉奸”的贬义词，我觉得最能帮他正名的是一个正气凛然的成语–箪食壶浆。</p>
-<p>事实上，“箪食壶浆”的由来就是一个带路党人的故事。时值战国时代，燕国内乱，民不聊生，齐宣王趁势出兵燕国，谁料燕国民众对齐国侵略军的态度跟对待“人民子弟兵”一样，用孟子的话来说就是，“民以为将拯己于水火之中也，箪食壶浆，以迎王师”.这不就是带路党么，不仅带路，还送饭送酒，军民鱼水情。</p>
-<p>据说在伐燕之前，齐宣王就曾问过孟子意见，孟子的态度基本上和现在的北约一样“霸权主义”，表示现在伐燕就跟武王伐纣一样大快人心。出兵之后，齐军大胜，齐宣王又找到了孟子问计，接着怎么办，孟子的意思是，如果齐军不在燕国大肆屠杀抢掠，而是本着吊民伐罪的高尚情操，对燕国民众秋毫无犯，与燕国民众商量着帮他们再立一位新国君，则就是一次非常完美的国际人道主义行动。</p>
-<p>问题是，齐宣王野心太大，想一举吞并燕国，这就好比美国在帮助利比亚除掉卡扎菲之后，竟然想吞并利比亚一样失策，再加上齐军在燕国的表现完全对不起燕国“带路党人”的一片赤诚，结果后来被打得大败，不仅被赶出了燕国，而且如果不是田单的火牛阵，差点齐国自己都被灭了。</p>
-<p>重点是，燕国民众在面对齐国侵略军的入侵时，为何纷纷成为“带路党”？对此，孟子给了一个十分夸张但却自成逻辑的解释，商汤在打天下时，先打东面，则“西夷怨”，先打南面，则“北狄怨”，反正面对商汤的“侵略”，周边国家的民众纷纷争先恐后的表示：“凭什么后‘解放’我们”？</p>
-<p>对于这群可能是中国历史上最早的“带路党”，孟子的形容是，“民望之，若大旱之望云霓也”“诛其君而吊其民，若时雨降，民大悦”.总之，在孟子的口中，带路党简直是一群最可爱的人，因此必须用“箪食壶浆”，“若大旱之望云霓也”此等华丽的辞藻来献给他们。</p>
-<p>当然，这段历史也告诉我们，如果齐国解放军背弃民心，烧杀抢掠，那么燕国千千万万曾箪食壶浆的“带路党”们会随时变脸为最英勇的抵抗者，将侵略军们赶出祖国。</p>
-<p>在中国历史上，最早成名的“带路党人”应该是伍子胥。伍子胥的祖国是楚国，还是个根红苗正的官二代，但当父亲和哥哥被听信谗言的楚平王杀掉之后，伍子胥一夜白头的逃到了吴国。之后伍子胥得到吴王阖闾的重用，举兵伐楚，攻破了楚国首都，掘开了仇人楚平王的墓，鞭尸三百。</p>
-<p>按理说，伍子胥充当“带路党”，引他国军队攻击祖国的行为至少也是个“叛国罪”吧，但问题是，伍子胥在中国历史上显然是作为正面形象出现的，用李零先生在名文《汉奸发生学》中的说法是，“大家对子胥非但不恨，反觉其情可悯，有如‘夜奔’的林冲”.</p>
-<p>继伍子胥之后，汉朝还出现过一个挺有名的“带路党”–太监中行说。据说中行说因为被迫参与和亲送亲团，到了匈奴之后一怒之下就归降了。中行说后来深度参与策划了匈奴对汉朝的战争，贡献了许多匈奴极其需要的情报和“本地智慧”.与伍子胥不同的是，尽管同为“带路党”先驱，中行说因为身上附带了民族冲突的概念，不可避免成为了早期“汉奸”的代表人物。但即使这样，司马迁在《史记》里对中行说的评价也没不堪到哪里去，还给他安排了一场舌战汉使，凸显才华的精彩桥段。</p>
-<p>可以说，一直到汉唐时代，“带路党人”的形象虽然算不上多么伟岸，但还远未沦为被侮辱被损害的群体。唐朝就不说了，连李氏皇族自己都分不清是胡是汉，民族大融合，也就谈不上去批判“带路党”或者汉奸了。在此之前的南北朝时代，如前秦的王猛，北魏的崔浩，尽管也出仕异族，但形象大多为正面，特别是王猛，在历史更被当作是如诸葛武侯一样的人杰，与苻坚二人君臣相得，在北方力主保护推行汉文化，死前还劝告苻坚不要伐晋，基本上属于那种心系故国的“带路党”.</p>
-<p><img src="http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/ZrogCTF6FdDSnA966BicFUZSQP5zaQMp8nYc7qMQhqCvkcSHjE5thM9o1hlevj7jXmF5tcibTJw1TKwxZH8VFiacw/0?wx_fmt=jpeg" alt=""><br>
-淝水之战</p>
-<p>“带路党”的形象逆转应该发生在“儿皇帝”石敬瑭身上。这要说起来，如果要给“带路党”分个类的话，石敬瑭绝对属于“带路党”中的败类，他的带路既没有伍子胥这样的家仇动因，更不是燕国民众那样的箪食壶浆以迎王师，他给契丹人带路就是为了自己当皇帝，因此不惜将燕云十六州作为报酬送给了契丹。放在任何一个时代，这种为了个人权位不惜生灵涂炭的都属于人中末流，至于是不是带路党还倒是其次了。</p>
-<p>不过，即使没有石敬瑭，“带路党”的形象崩塌也属于历史必然，因为碰到了极其讲求“夷夏之辨”和“君臣大义”的宋朝。用李零的话来说，就算是伍子胥，“这要放在宋以来，那是汉奸没跑”.稍扯远几句，中国历史上最注重“夷夏”和民族意识的时代，几乎都是衰落时代，如两宋，如明末，如清末，如民国，这似乎是一个悖论，你国家越弱，你越强调爱国。</p>
-<p>为了收回石敬瑭丢掉的燕云十六州，北宋曾出现过一次非常着名的“带路党”乌龙事件，直接导致了靖康之变。1120年，宋金结成“海上之盟”，相约夹攻辽国。在宋人看来，王师一入辽境，自然是人心所向，“若兴师吊民，不独箪食壶浆当以香花楼子界首迎接也”.也就是说，只要出兵，辽国的汉人同胞肯定会充当带路党，还会在边界用香花搭起彩门迎接，无非还有这样的桥段，“宋军兄弟们，你们终于打回来了，我们等你们等的好苦”.</p>
-<p>一开始的故事的确是按照宋徽宗君臣的剧本所写的。事实上，献计联金灭辽的就是辽国汉人马植，正是他用“箪食壶浆”这些大词忽悠了宋徽宗；还有一位重磅“带路党”是辽国常胜军的统帅郭药师，宋军还没有出兵，他就率军八千来投，当然动机和民族大义无关，只是为了升官发财。</p>
-<p>但让信心满满的宋朝君臣没想到的是，燕云十六州的汉人早已不“心向祖国”，在辽国轻徭薄赋的政策下，据说辽国汉人的税负比宋朝那边还要低，小日子过得挺红火，汉族读书人在高度汉化的辽国官场上也顺风顺水，在此种情况下，大宋祖国再怎么寄望于数百万汉族同胞幡然醒悟，再怎么意淫统一大业，也基本上属于痴人说梦。</p>
-<p>用葛剑雄先生在《“香花楼子”神话和北宋的覆灭》一文中的说法，宋军出兵之后，迎接他们的不是箪食壶浆和香花楼子，“而是观望和猜疑，甚至是反抗”.宋朝的文武官员以救星自居，将北方同胞视为异己。更关键的是，辽国的汉人非常仇视与女真结盟的宋朝，认为正是他们为了得到这片土地，才造成了他们的国破家亡，背井离乡。</p>
-<p>结果是，这群宋人预料之中的“带路党人”，非但没有对统一大业有所贡献，反而随即投靠了金军一方，很多辽国汉人加入了南下侵宋的金军，对“祖国”展开了复仇大业，在北宋的灭亡中贡献了属于自己一份的力量。</p>
-<p>明明是一个民族，辽国的汉人本是宋朝收复燕云十六州的“带路党”，最后却成为了金军侵宋的带路党，此种乌龙和逆转也堪称中国“带路党”历史上的最大奇观了。</p>
-<p>到了南宋末年，又出现了新的一群“带路党”，而这其中大约可分为两大群体。一群如吕文焕、夏贵这样半路出家的，他们也本算是死守襄阳的大宋忠良，最后却又投降元朝成为了下一阶段灭宋的“带路党”.特别是死守六年之久的襄阳主帅吕文焕，可算是孤臣孽子，可歌可泣，因与南宋权臣贾似道不和，而贾在襄阳被围时的确也是救援不力，最后吕文焕投降之后将贾似道的刻骨私仇升华为对南宋的“国仇”，积极参与了灭宋。</p>
-<p>还有一群如张弘范和史天泽这样的资深“带路党”.不夸张的说，在南宋的灭亡中，张弘范和史天泽这些汉族将领所起的作用甚至要大于蒙古人，比如张弘范，在崖山给了南宋最后一击的同时，还得意洋洋的在崖山留下了“张弘范灭宋于此”的墨宝；再比如郝经，在作为元人使节出使南宋时曾被囚禁了十六年而拒不归降，堪称元朝版的“苏武牧羊”.你很难说张弘范这群“开国功臣”有多么伟光正，但攻击他们为“汉奸”肯定是莫名其妙。</p>
-<p>事实上，张弘范史天泽郝经虽是汉人，但都是金朝的汉人，你一定要说他们是“奸”，那也是“金奸”.更何况，张弘范和史天泽从父亲那一辈开始便已归降蒙古，张弘范的父亲还被封为“汝南王”，按照中国历史不成文的传统，如果父亲是前朝之臣，再到新朝为官便是“失节”，但他们的儿孙就尽可以在新朝官场上混，比如说反清了一辈子的顾炎武，他的亲外甥徐乾学还做过康熙的刑部尚书。或者这么说，你如果要攻击张弘范他们这些“带路党”为汉奸的话，就好比说艾森豪威尔是“德奸”一样好笑，因为艾总统的祖上也是从德国来的，最后他成为了灭德功臣。</p>
-<p><img src="http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/ZrogCTF6FdDSnA966BicFUZSQP5zaQMp8DG4zO3wFee5V3D8HUmK6r6PZHgnNb5rhHvoVvVgEDwvBXBRXfGnbibg/0?wx_fmt=jpeg" alt=""><br>
-崖山灭宋之战</p>
-<p>最后是明末，这又是一个“带路党”的高产时代，当然，和宋朝一样，他们的历史形象已经不堪入目。无疑，没有范文程、洪承畴、吴三桂、耿精忠、尚可喜他们带路，仅凭多尔衮多铎这些八旗大爷，多半是灭不了明朝的，最少南明也能混个划江而治吧。但以范文程来说，一生并无戕害同胞的恶绩，在清军入关时甚至对劝说多尔衮收拾民心，善待汉人，“自古未有嗜杀而得天下者”“官来归者复其官，民来归者复其业。师律素严，必不汝害”，这个路至少带的堂堂正正，且温情脉脉。</p>
-<p>再比如说吴三桂，先降后叛，缢杀永历，自是无耻小人，属于明末“带路党”中的败类。但即使如此也应当正视，吴三桂在引清兵入关的初衷很可能只是“借师助剿”闯军，报君父大仇，在当时的南明朝野看来也一度有救国英雄的美誉。吴三桂后来的沉沦很大程度上也是被时势所裹挟，一步步的滑向了所谓汉奸与无耻之尤。</p>
-<p><img src="http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/ZrogCTF6FdDSnA966BicFUZSQP5zaQMp87P7Q89xpDialbcn4jkdg2ibbudev3DgAr7wU8oYVPAtz8Y2O4sQIpgLw/0?wx_fmt=jpeg" alt=""><br>
-江阴典史阎应元</p>
-<p>我想强调的是，在明亡清兴的那个历史时段，“带路党”曾是一个巨大的历史群体，远不是吴三桂等人可以涵盖的。在那个时代，同样也发生过如燕国民众从带路党变脸为抵抗者相似的历史情境。从1644年4月入关到1645年5月，在短短的一年的时间里，清军取得了令人炫目的胜利，从李自成身亡到南京弘光朝廷的土崩瓦解，清军基本上在鲜有激烈抵抗的情况下便已击败了大顺军和南明两大势力，南明那些拥兵自重的军阀们和各省州县也纷纷归降，清朝统一中国似乎已是手到擒来。</p>
-<p>但此时清朝却犯下了比之前齐宣王灭燕时更为严重的错误。多尔衮满以为天下已定，便推出了一系列民族歧视政策，这其中尤以“剃发留辫”影响最为巨大。可以这么时候，在“剃发令”颁布之前，大半个中国的汉人已经做好了成为新朝顺民甚至是“带路党”的准备，对于继续抵抗或者什么反清复明已经失去了兴趣和斗志。用顾诚先生在《南明史》中的说法，“剃发令一出，原本准备降清的人立即改弦易辙，连已经归附的州县百姓也纷纷揭竿而起，树帜反清”，“许多地方的抗清斗争不始于清廷接管之时，而起于剃发令颁布之日”.</p>
-<p>我们都知道反清中最为着名的江阴之战，但事实上，江阴在弘光政权垮台时早已“和平投降”了清朝，无论是亡国还是听起来很吓人的亡天下，千万个江阴县城中的普通民众处江湖之远，大可不必忧国忧君忧民族复兴，“肉食者谋之”，就算做个“带路党”也无可指摘，朱家的皇帝和爱新觉罗家的区别本来就不那么大。但就是因为剃发令，才弄得天怒人怨，转而起兵反清，几乎战至最后一人，当时有“六万人同心死义，村大明三百里江山”的壮烈说法。在此前后，嘉定、昆山各地也纷纷起事。后来连另一位着名的“带路党”–大学士陈名夏都看不下去了，在他当时给清廷的上书中直言，“只需留头发、复衣冠，天下即太平矣”.</p>
-<p>一直到1664年的康熙三年，清军才算最后扑灭了中国大陆上的反清力量。而此时，距离闪电战胜利顶峰的1645年，已过去了整整19年。也就是说，一个剃发令多带来了十多年的战火。</p>
-<p>“带路党”是如何成为反清义士的？箪食壶浆是如何成为四处烽火的？这其中的反转奥秘还是要回到文章一开头的“孟子曰”.</p>
-<p>从燕国之乱到北宋末年，再到晚明，这些其实都远非什么值得留恋的盛世，征了“三饷”的晚明税负之重甚至堪称前无古人，在这样的坏时代，若真有孟子所说的王师到来，“箪食壶浆，以迎王师”自是大义所在。带路也罢，汉奸也罢，也正是所谓“若大旱之望云霓也”，顺乎天而应乎人，少数人的国尽可以让少数人去爱。但“王师”们尤其应该警醒的是，一旦他们试图破坏这个社会的日常生活与传统秩序，“王师”便是“侵略者”，最温顺的“带路党”时刻都会变为最坚决的抵抗者。</p>
-<p>毕竟，带路党常有，而王师不常有。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5%E4%B9%A6%E8%AF%84-%E4%B8%80%E4%B8%AA%E5%B8%A6%E8%B7%AF%E5%85%9A%E4%BA%BA%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%98%8E%E6%89%AC/?category=18271" rel="tag">张明扬</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -915,7 +883,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -925,5 +893,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

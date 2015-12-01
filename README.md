@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%8C%E6%B7%B7%E5%AD%90stone%EF%BC%9A%E4%BD%A0%E6%87%82%E4%B8%8D%E6%87%82%E9%9B%BE%E9%9C%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3%EF%BC%9F/" target="cdt-mirror">二混子Stone：你懂不懂雾霾到底有多厉害？(外一则）</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/mmexport1448942587670.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/mmexport1448942587670.jpg" alt="mmexport1448942587670" width="450" height=""></a></p>
+<p><a href="http://sh.house.qq.com/zt2015/fgm18/index.htm">腾讯段子</a>：一个女记者街头采访：“大妈，今天的雾霾实在是太严重了，您觉得雾霾给您的生活带来了什么影响？”大妈说：“闺女，那影响可老大了，首先你得看清楚，我是你大爷！” </p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/127919459.jpg" alt="127919459" width="450" height="442"></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%8C%E6%B7%B7%E5%AD%90stone%EF%BC%9A%E4%BD%A0%E6%87%82%E4%B8%8D%E6%87%82%E9%9B%BE%E9%9C%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%9D%B0%E5%AE%89%E8%BF%AA%EF%BC%9A%E9%A9%BB%E5%8D%8E%E5%85%AB%E5%B9%B4%EF%BC%8C%E5%9B%9E%E6%9C%9B%E6%88%91%E8%BA%AB%E5%90%8E%E7%9A%84%E9%82%A3%E4%B8%AA/" target="cdt-mirror">纽约时报 | 杰安迪：驻华八年，回望我身后的那个中国</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/29jacobs-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/29jacobs-articleLarge.jpg" alt="北京，一幅宣传某家电商网站的广告。" width="600" height="401"></a><p>北京，一幅宣传某家电商网站的广告。</p></div>
+<p>北京——前两天的一个晚上，我和一些朋友在一家餐厅小聚，朋友里有中国人，也有外国人。在背景的巴萨诺瓦音乐中，我们抿着法国梅洛，用iPhone拍下彼此做鬼脸的样子。</p>
+<p>从远处看，这场聚会完全表现出，在经历三十年不间断的经济增长后，在中国终于成为大国的心态带动下，近年来北京已经变得多么国际化。</p>
+<p>但任何一个偷听到那晚谈话的人，都会对我的朋友表达出的焦虑和恐惧感到震惊。我即将结束在这里近八年的生活，朋友们是为我饯行的。</p>
+<p>他们中包括一位说话温柔的藏人作家、一名画家和一家小企业的老板。藏人作家一直拿不到护照，出不了国。画家朋友的作品去年被警方全部没收。那位企业老板则是一位单亲妈妈。虽然把尚处在青春期的儿子送去美国读书她有些不情愿，但她更“不愿他被中国的教育制度洗脑”。</p>
+<p>在桌子的另一头，一位在官方通讯社任职的编辑在抱怨宣传官员不断提出的要求。那些官员一心想要控制13亿人的思想。“我们是没有希望的一代，”这位32岁的编辑后来这样解释他为什么考虑放弃目前待遇丰厚的工作，去泰国寻找一个不确定的未来。“我认识的所有人都漫无目的，甚至对明天可能会发生的事情感到恐惧。”</p>
+<p>面对在中国的日子即将结束，我才意识到自从我1985年第一次来中国以后，这里的变化是多么大，又是多么小。那时候，毛泽东发起的文化大革命留下的伤口还没愈合，但在宁静的首都街头，明显能感觉到对未来会更好的期盼。那时的北京还满是低层建筑和纵横交错的胡同。自13世纪以来，那些胡同几乎没什么变化。</p>
+<p>2008年，在离北京奥运会开幕还有几个月时，我再次来到中国。这时，这座城市已经发生了翻天覆地的变化。很多胡同被拆，让位于扎哈·哈迪德(Zaha Hadid)和雷姆·库哈斯(Rem Koolhaas)设计的高楼大厦，和一个每年都会新增一条线路的世界级地铁网络。</p>
+<p>北京到处是意大利跑车和奢侈品牌手提包精品店。人们普遍认为，中国终于获得了过去几十年作为一个贫穷落后的国家所得不到的尊重。</p>
+<p>中国知识分子曾经抱一种谨慎乐观的态度，认为共产党实行的限制措施可能最终会放松。他们在很大程度上寄希望于互联网。当政府承诺在奥运会期间对之前被禁的网站解禁，并表示允许在官方规定的“示威区”举行示威时，人们更是充满了希望。</p>
+<p>但后来，那些承诺证明是空话。示威区空无一人（申请抗议许可的人遭到拘捕），只有在奥运村工作的外国记者可以享用没有限制的网络。</p>
+<p>回头看，举办奥运会是中国进入一个新时代的开端：这个国家力量不断增强，越来越自信，但它的领导层却害怕自己的公民，下决心要对他们的思想和抱负进行限制。</p>
+<p>互联网没有使社会发生革命性变化，而是变成了扭曲中国6.5亿网民思想的一套精密工具。奥运会落下帷幕后没几个月，政府开始屏蔽Facebook、Twitter和YouTube；不久，这个名单继续增大，囊括了《纽约时报》、彭博社(Bloomberg)、Instagram、Dropbox，以及谷歌(Google)的多项服务。</p>
+<p>作为替代，北京支持本土的此类公司，如类似Twitter的新浪微博、即时通讯软件微信和搜狐等门户网站。它们的内容都受到严格监督，要剔除所有被认为威胁共产党统治的东西。试着在中国主要的搜索引擎百度上输入“天安门大屠杀”，它会在跳转页面显示，“根据相关法规和政策”，搜索结果“未予显示”。</p>
+<p>这种网络控制的影响发人深省。大多数中国年轻人认不出天安门事件的一张标志性照片，上面是1989年春天一名抗议者独自站在一辆坦克前。去年，当数以千计的学生走上香港街头要求民主的时候，本来很理性的一些朋友却只是机械地重复官方媒体谈论的观点：抗议者是被宠坏的小混混，受到“境外敌对势力”的指使。</p>
+<p>中国的确比25年前要开放得多。中国人去国外旅游和学习的人数不断增长，社会控制的放松意味着中国人可以和外国人交往，不受当局干预。尽管政府尽了最大努力，还有成百上千万人成功地通过使用VPN软件避开了网络审查。</p>
+<p>然而，共产党的控制之术近乎完美，可以让中国社会呈现出让人陶醉的活力，模糊了政府对异见者无所不在的限制。现如今，官方大肆宣传“民主”、“公正”等理念，但它的公民却因倡导自由选举或就工厂污染问题起诉政府而遭到监禁。</p>
+<p>记者本应与报道的人物和新闻事件在情感上保持距离。但当我知道警察拘捕了知名人权律师<a href="http://cn.nytimes.com/china/20150515/c15china/" target="_blank" rel="nofollow">浦志强</a>——一年半过去了，他依然被警方扣押着——知道维吾尔学者<a href="http://cn.nytimes.com/china/20140923/cc23trial/" target="_blank" rel="nofollow">伊力哈木·土赫提(Ilham Tohti)</a>似乎因就政府针对中国西北部新疆地区的动荡采取的措施向记者提供坦率评价而被判处无期徒刑，我的客观性经受了考验。这两位不仅是可靠的信源，也成为了我的朋友。</p>
+<p>自习近平在三年前上台以来，他力主推动的中国梦——公正！平等！创新！——成为了民族复兴的集结令。但它的实际影响是挑起往往让人感觉有仇外色彩的民族情绪。记者、学者和佛教僧侣被迫上政治教育课，反复诵读有关共产党地位至高无上的陈词滥调。</p>
+<p>有这么一件事让人想起毛泽东时代的中国。最近几周，中国最著名的一些演员和电影导演纷纷公开承诺要拥护“社会主义核心价值观”。这是一场运动的一部分，其目的是确保流行文化是维护共产党利益的可靠宣传渠道。</p>
+<p>尽管中国经济近期开始放缓，但本月早些时候，北京的街头依然到处是购物者，现代社会的各种虚饰一样也不少。习近平政府赢得了很多人的喜爱：他在遏制让普通中国人恼火的小腐败方面取得了重大进展，他放松了限制中国夫妇生育第二胎的人口控制政策。时髦的高铁将不少大城市连接起来，拥有一辆别克轿车对人数急剧增长的中国中产阶级来说已不成问题。</p>
+<p>与此同时，共产党似乎也成功地引导许多中国人将自己的精力投入到物质消费追求上。这在很大程度上是通过让他们担忧和恐惧的方式来实现的。</p>
+<p>不过，对于更好的明天——更清洁的空气、正义、可以挑选自己的政治领袖的机会——的追求，不会完全泯灭。就要离开中国的时候，有一天，我在自己经常修自行车的铺子停了下来。那家店铺的老板非常爱国，经常动不动就辱骂日本人，或大赞自己国家的军事力量日益强大。</p>
+<p>我跟他做最后告别时，他开了个玩笑，说要躲在我的行李箱里偷渡出去。“但你不是很爱国吗，”我一边说，一边指着新铺的路，和一排由政府出资刚刚翻修的店面。“我是爱我的国家，”他难为情地看着自己的脚。“但我更爱自由。”</p>
+<div>
+<div>
+<p>杰安迪(Andrew Jacobs)是《纽约时报》前驻华记者。</p>
+</div>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%9D%B0%E5%AE%89%E8%BF%AA%EF%BC%9A%E9%A9%BB%E5%8D%8E%E5%85%AB%E5%B9%B4%EF%BC%8C%E5%9B%9E%E6%9C%9B%E6%88%91%E8%BA%AB%E5%90%8E%E7%9A%84%E9%82%A3%E4%B8%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85/?category=18271" rel="tag">外国记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E9%A2%86%E5%AF%BC%E5%8F%AB%E4%BD%A0%E5%8E%BB%E6%8C%A1%E6%9E%AA/" target="cdt-mirror">花儿街参考｜领导叫你去挡枪</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B31.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B31.jpg" alt="王勇平1" width="550" height=""></a></p>
@@ -795,62 +847,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%88%B1%E6%B8%AF%E7%88%B1%E5%9B%BD%E7%9A%84%E8%93%9D%E4%B8%9D%E5%B8%A6%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%96%B0%E6%B0%91%E4%B8%BB/" target="cdt-mirror">爱港爱国的“蓝丝带”为什么会分不清“新民主同盟”和“新民党”？</a>
-</h2>
-<p><p>知名“爱国爱港”人士、“蓝丝带”代表人物陈净心在微博称，“新民主同盟”之所以会在近日的香港区议会选举中大胜，是因为很多港人误以为他们是叶刘淑仪的“新民党”，所以<strong>投错票了</strong>。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%99%88%E5%87%80%E5%BF%83.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%99%88%E5%87%80%E5%BF%83.png" alt="陈净心" width="525" height="365"></a><p>陈净心微博截图</p></div>
-<blockquote><p><strong>@陳淨心_HongKong</strong>：我一早已覺得奇怪， 「新民主同盟」明明是隱性港毒政黨，沒有可能十六席中贏了十五席，原來很多港人都搞錯了，投錯票，誤以為是葉劉淑儀的「新民黨」，因為黨名有點相似，現在臉書（facebook）上的愛國群已鬧得熱烘烘。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/69eba87cjw1eybj89tu9sj20u01hcwtu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/69eba87cjw1eybj89tu9sj20u01hcwtu.jpg" alt="69eba87cjw1eybj89tu9sj20u01hcwtu" width="350" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/69eba87cjw1eybj8404uej20u01hc47t.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/69eba87cjw1eybj8404uej20u01hc47t.jpg" alt="69eba87cjw1eybj8404uej20u01hc47t" width="350" height=""></a></p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Blueribbonvote1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Blueribbonvote1.jpg" alt="Blueribbonvote1" width="450" height=""></a><br><span><strong>↓ ↑</strong> 图片来源：<a href="http://evchk.wikia.com/wiki/%E6%96%B0%E6%B0%91%E4%B8%BB%E5%90%8C%E7%9B%9F">香港网络大典</a></span><br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Blueribbonvote2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Blueribbonvote2.jpg" alt="Blueribbonvote2" width="450" height=""></a></p>
-<h3><span><strong>这两个党派在选票上会很难区分？</strong></span></h3>
-<p>先来看看2015年区议会一般<a href="http://www.elections.gov.hk/dc2015/pdf/Illustration_on_Guidance_on_Voting_Procedure.pdf">选举投票程序指引图示</a>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/2015%E6%A0%B7%E7%A5%A8%E6%8C%87%E5%8D%97.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/2015%E6%A0%B7%E7%A5%A8%E6%8C%87%E5%8D%97.png" alt="2015样票指南" width="575" height="201"></a></p>
-<p>再参照艺人黄贯中2012年涉嫌“偷拍”的选票实物照（<a href="http://hk.apple.nextmedia.com/news/art/20120911/18013459">来源：苹果日报 </a>）：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E8%B4%AF%E4%B8%AD%E5%81%B7%E6%8B%8D%E9%80%89%E7%A5%A8.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E9%BB%84%E8%B4%AF%E4%B8%AD%E5%81%B7%E6%8B%8D%E9%80%89%E7%A5%A8.jpg" alt="黄贯中偷拍选票" width="500" height="373"></a></p>
-<p>很明显，选票上所包含的信息有：<strong>候选人姓名、候选人照片、政团名称及政团标识</strong>。</p>
-<p>以下为“新民主同盟”和“新民党”基本信息对比，真的很容易混淆？</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%96%B0%E6%B0%91%E4%B8%BB%E5%90%8C%E7%9B%9Fvs%E6%96%B0%E6%B0%91%E5%85%9A.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E6%96%B0%E6%B0%91%E4%B8%BB%E5%90%8C%E7%9B%9Fvs%E6%96%B0%E6%B0%91%E5%85%9A.png" alt="新民主同盟vs新民党" width="585" height="332"></a><p>数字时代编辑制图</p></div>
-<p>蓝丝带认为“新民主同盟”和“新民党”名称“相似”，甚至因此投错票，说明他们：</p>
-<ol><li><strong>对自己所支持的党派候选人信息一无所知</strong></li>
-<li><strong>认不出所支持党派的标识</strong></li>
-<li><strong>不了解所支持党派名称的含义</strong></li>
-</ol><h3><span><strong><del datetime="2015-11-28T09:11:55+00:00">这次的盒饭没有加鸡腿？</del></strong></span></h3>
-<p> <br><a href="http://chinadigitaltimes.net/chinese/files/2014/10/x-mirrors-other-21.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/x-mirrors-other-21.jpeg" alt="变态辣椒_蓝丝带" width="500" height=""></a><br><span>漫画作者：变态辣椒</span></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8%E7%AC%AC%E5%85%AD%E5%A4%A9%EF%BC%9A%E5%8F%8D%E5%8D%A0%E4%B8%AD%E7%BE%A4%E4%BD%93%E4%B9%8B%E7%96%91%E5%9B%A2/">【图说天朝】雨伞运动第六天：反占中群体之疑团</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8%E7%AC%AC%E5%8D%81%E4%BA%94%E5%A4%A9%EF%BC%9A%E5%8F%8D%E5%8D%A0%E4%B8%AD%E7%A4%BA%E5%A8%81%E8%80%85%E8%AF%95/">【图说天朝】雨伞运动第十五天：反占中示威者试图清场</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E5%8F%8D%E5%8D%A0%E4%B8%AD%E4%BA%BA%E5%A3%AB%EF%BC%9A%E6%88%91%E6%94%B6%E5%92%97%E5%B9%BE%E5%A4%9A%E9%8C%A2-%E5%94%94%E4%BF%82%E5%91%A2%E5%80%8B%E5%95%8F%E9%A1%8C/">反占中人士：我收咗幾多錢 唔係呢個問題</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%8F%8D%E5%8D%A0%E4%B8%AD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B8%B8%E8%AF%86%E5%A4%AA%E5%B7%AE-%E7%AB%9F%E7%84%B6%E5%8F%AB%E6%A2%81%E6%8C%AF%E8%8B%B1%E4%B8%8B%E5%8F%B0/">法广｜反占中领导人常识太差 竟然叫梁振英下台</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E8%A6%96%E9%A0%BB%EF%BC%8B%E5%9C%96%E7%89%87%E3%80%91%E4%B8%AD%E5%A4%A7%E5%90%8C%E5%AD%B8dem-beat%E8%BF%8E%E5%81%B2%E5%AB%A3/">【視頻＋圖片】中大同學Dem Beat迎偲嫣</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A9%BF%E7%BA%A2%E8%A1%A3%E4%B8%8A%E8%A1%97%E7%88%B1%E5%9B%BD%EF%BC%8C250%E5%8C%85%E5%8D%88%E9%A4%90%E5%93%A6%E4%BA%B2/">【网络民议】穿红衣上街爱国，250包午餐哦亲</a></li>
-</ul></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%88%B1%E6%B8%AF%E7%88%B1%E5%9B%BD%E7%9A%84%E8%93%9D%E4%B8%9D%E5%B8%A6%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%96%B0%E6%B0%91%E4%B8%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%A0%E4%B8%AD%E8%93%9D%E4%B8%9D%E5%B8%A6/?category=18271" rel="tag">反占中蓝丝带</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E5%88%B6%E6%B4%BE/?category=18271" rel="tag">建制派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%9B%E6%B0%91%E9%98%B5%E8%90%A5/?category=18271" rel="tag">泛民阵营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E6%B8%AF/?category=18271" rel="tag">爱国爱港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%87%80%E5%BF%83/?category=18271" rel="tag">陈净心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%9C%AC%E5%9C%9F%E6%B4%BE/?category=18271" rel="tag">香港本土派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8C%97%E4%BA%AC%E9%81%AD%E9%81%87%E5%85%A5%E5%86%AC%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E9%9B%BE%E9%9C%BE/" target="cdt-mirror">德国之声｜北京遭遇入冬以来最严重雾霾</a>
-</h2>
-<p><p>德新社报道称，北京周六迎来了这个冬天最严重的一次雾霾。据美国政府掌握的测量结果，北京周六的空气污染程度将近为世界卫生组织所设最高上限的20倍。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2012/10/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%80%E6%99%AF.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2012/10/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%80%E6%99%AF.jpg" alt="北京雾霾天安门一景" width="575" height=""></a></p>
-<p>（德国之声中文网）包括”凤凰网”在内的中国媒体报道称，北京本周六（11月28日）的空气质量”暴跌”，市气象台已经发布霾黄色预警，空气质量从优良转为5级重度污染，情况将持续。</p>
-<p>环境保护部环境监测司司长罗毅向中新社表示，空气重污染期间，建议儿童、老年人和患有心脑血管、呼吸道疾病等易感人群留在室内，停止户外运动；一般人群减少户外运动和室外作业时间。</p>
-<p>据美国驻北京大使馆公布的空气测量结果，北京周六中午的PM2.5指数一度达到每立方米434微克的水平。这是相关空气质量指数所能够达到的最严重定义范围，为”危险”级别。该指数依照空气质量排行分别为好（0-50微克）、一般（51-100微克）、对敏感群体不健康（101-150微克）、不健康（151-200微克）、非常不健康（201-300微克）以及危险（301-500微克）。</p>
-<p>同时，北京市气象局官方网站上的消息则表示北京目前的空气质量为”中度霾”。空气质量”较适宜晨练”，但污染气象条件”非常不利于空气污染物扩散和清除”。</p>
-<p><strong>“核战中的冬天”</strong></p>
-<p>据世界卫生组织的标准，空气中的PM2.5含量不应该超过每立方米25微克。这种微小粉尘对人的身体健康可以造成严重危害，因为它们可以深入肺部。一位35岁的企业咨询师向德新社表示”外面看上去像是核战中的冬天……我计划整个周末都呆在一个房间里阅读，把两台空气净化器都开到最大。”</p>
-<p>最近几周以来，北京的空气P.M2.5污染指数经常能达到每平米200-300微克的水平。新华社28日援引环保部消息报道称，受污染排放和不利气象条件影响，京津冀及其周边地区未来数日可能出现空气重污染过程。据《新京报》报道，北京市各相关单位已按黄色预警措施要求，启动了应急减排措施，全市停止土石方、建筑拆除等施工作业。预计未来两天空气质量仍将维持重度污染状态，29日午后空气质量有望得到改善。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8C%97%E4%BA%AC%E9%81%AD%E9%81%87%E5%85%A5%E5%86%AC%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E9%9B%BE%E9%9C%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -862,7 +858,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -872,5 +868,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

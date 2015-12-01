@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E9%A2%86%E5%AF%BC%E5%8F%AB%E4%BD%A0%E5%8E%BB%E6%8C%A1%E6%9E%AA/" target="cdt-mirror">花儿街参考｜领导叫你去挡枪</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B31.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B31.jpg" alt="王勇平1" width="550" height=""></a></p>
+<p><strong>【来自微信公号：花儿街参考／ID：zaraghost】</strong></p>
+<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%B7%9E%E5%8A%A8%E8%BD%A6%E4%BA%8B%E6%95%85/">温州动车事故</a></p></blockquote>
+<p>这是一篇关于路人甲乙丙的文章。嗯，只有甲乙丙，没有丁，因为丁被领导叫去挡枪了。只是枪响的瞬间，撑在丁下面的领导跑了，丁就变成了一，挡抢变成了躺枪。</p>
+<p><strong>（一）</strong></p>
+<p>“王勇平退休了，他说自己等待这一天的到来”。骤然在朋友圈看到这条新闻标题，我茫然不知此人是谁，第一反应是我感了个冒、昏睡了几天，世间便又有了我不知道的奇葩与浪花，妖孽或英雄。看到副标题那句“反正我信了”，才想起来他是四年前723动车事故里，因为一句“反正我信了”语出惊人，也成了个倒霉蛋儿的铁道部前新闻发言人。</p>
+<p>2011年7月23日，温州发生动车追尾事故。舆论中，一面是惨烈、人祸、国难，另一面则是论坛中汹涌流传的，埋车头、瞒证据、瞒报死亡人数。一面是沉痛，一面是猜测或谣言四起。</p>
+<p>事故发生26小时后，铁道部召开了新闻发布会。会场内等待的记者，仿佛背负着汹涌民怨，能呼吸到的都是热腾腾的怨气；一墙之外，王勇平正待推门而入，他的空气中凝结的，是风萧萧兮易水寒。</p>
+<p><strong>时至今日，我都觉得那是一场无论谁去参加，都会被放在显微镜下审视、都会被汹汹怨气解读、都会随时引爆炸药包的新闻发布会</strong>。那一推门，无论要说什么，都要被钉在职业生涯的耻辱柱上。</p>
+<p>不过，对于曾经的铁道部，那个向来扮相威严、半军事化管理、姿态高高在上的铁道部，更不具备处理此类情况的经验。自然，王勇平做的也更笨拙。</p>
+<p>他在发布会上说了两句雷人的话，一是“至于你信不信，我反正信了”，另一句是“这是一个奇迹”。这本应是脱口便知是祸的对话，但久居体制内的人并不这样看。第二天早晨，王勇平在大厅里遇到部领导，部领导还告诉他“上级领导看到了发布会的现场转播，提出铁道部要表扬王勇平”。已然筋疲力尽的王勇平说，不求有功但求无过。</p>
+<p>但求无过，这无异于痴人说梦。王勇平自此成为了众矢之的，他被免职、被调任波兰，人们在网上叫嚷“绝不能放过他”。赴波兰前，他每天缩在铁道部小型新闻发布会的会议室里，不上网、不看报，把自己与外界隔离。在波兰，每逢重大节日，他也只能与自己80岁高龄的母亲QQ视频。</p>
+<p><strong>（二）</strong></p>
+<p>在召开新闻发布会前，王勇平两度跟领导表示“他没准备好”。</p>
+<p>7.23事故发生后，事故的原因还在调查，王勇平还没来得及去现场。他刚刚下飞机，就接到上级领导的指令，要求立即召开发布会。</p>
+<p>王勇平立即赶去向部领导汇报，<strong>由于当时很多情况还没有搞清楚，还没有人知道事故的真正原因是什么。王勇平提出能不能稍微晚一天再开发布会</strong>？</p>
+<p>但有关部门要求当天晚上必须开，因为当时的舆论出现了很大的偏差，谣言盛行，完全可能引发严重的群体性事件。而彼时，当天要开发布会的消息业已传出，很多媒体在等候。所以当天不管晚到什么时候，发布会都要开。</p>
+<p>部领导问王勇平“开这个发布会有没有把握”？他说自己刚刚到，情况不掌握，没有把握。时间分分秒秒过去，关于事故的传闻分分秒秒地发酵，领导又问“你究竟有没有把握”？王勇平依然说“我没有把握，但是领导让我上，我尽力而为”。</p>
+<p>去发布会现场前，王勇平给家里打了个电话，嘱咐家人今天晚上可能会有一个关于事故发布会的直播节目，家里人就不要看了，特别不要让80岁的老母亲来看。</p>
+<p>王勇平下车，走向发布厅要走进发布厅，门口，有一位熟悉的记者朋友在等他。<strong>见面，对方伸手拦住他：“王部长，里面太乱了，今天可能会出事，我建议你最好不要去，取消这次发布会吧”</strong>。这时站在王勇平身后的一位上级部门领导说，他先进去看看。过了一会儿，他出来很凝重地说，我们还是进去吧。</p>
+<p>此后，便是那场闻名的发布会。<strong>那是一场新闻发布会，也是一场情绪发泄会。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B32.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B32.jpg" alt="王勇平2" width="410" height="282"></a></p>
+<p>那句著名的“我反正相信了”，背景是彼时网络上盛传救援人员埋车头是为了掩盖证据与事实。被问及，王勇平回答说“我下飞机的时候，问接机的同志为什么会发生这样的事。他们给了我一个解释，掩埋车头是为了便于继续抢险，因为当时抢险现场狭窄，有一个泥潭，必须先填埋后才有助于继续的救援。事实上，这是举世皆知的事故，任何方式也掩盖不了”。</p>
+<p>其实话说到这里，他本是无责的，但王勇平又神补刀了一句“至于您信不信，我反正相信了”。后来他说，自己讲那句话是为了得到媒体的信任。也许，作为铁道部的宣传部长、新闻发言人，他只是习惯了这样的语气。</p>
+<p>一个尚搞不清楚发生了什么的人，被放置在了那个位置，不得不承担了所有该归属于他、超越于他的责任。</p>
+<p><strong>他做出了一个正常的官僚所能作出的正常反应，在自己习惯的行为逻辑里尽力一搏，但那一刻人们想看到的是更多的担当、责任感、道德、勇气。这一切，王勇平没有呈现，也许，他也无力呈现。</strong></p>
+<p>新闻发布会后，王勇平被免职，远走波兰，他的新职务是华沙铁路合作组织的委员。部领导找他谈话时说，舆论现在炒得这么厉害，但这不是你的过错。</p>
+<p><strong>（三）</strong></p>
+<p>2014年11月，王勇平从波兰回国，铁道部已然不是他熟悉的铁道部，换了牌子改叫铁路总公司，曾经由他挂帅的宣传部也早已换了新人。他迎来了职业生涯的最后一站，铁路总公司文联主席。</p>
+<p>在通过他作为文联主席提名的会上，王勇平讲了一段话，大意是说，他只有1年的工作时间了，算起来就是三百六十多天，他要把每天都过得有意义，不虚度职业生涯的最后一站。他的工作不再似从前那样忙碌，早八晚五，云淡风轻。此前他在宣传部时，基本要晚上八九点回家，有时凌晨两三点还要被叫去开会。</p>
+<p>王勇平说，在波兰的日子，如果说什么特别难熬的，便是在传统节日的时候，他特别想念自己的母亲，她80多岁了，为了可以经常见他，竟然学会了QQ视频。想来彼时大多曾经对王勇平不爽、不满、不忿的国人，已经忘记了这个名字是谁，但这家人却依然因为这一事件的波及，分离在QQ视频的两端。</p>
+<p>王勇平退休了，有人说他背了黑锅，有人说他是被叫去挡枪的，当时应该有更高级别的领导出席那场发布会。<strong>但也许此刻更该想想，即使他是被叫去挡枪的，他挡的又是谁盲射的子弹。</strong></p>
+<p>王勇平退休了，他说他等待这一天的到来。</p>
+<p>王勇平退休了，至少今年，他可以过个没有QQ视频的团圆年。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B33.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B33.jpg" alt="王勇平3" width="500" height="368"></a><br>
+图片为王勇平近照</p>
+<p><strong>附作者转发要求</strong>：</p>
+<blockquote><p><strong><strong><strong><strong>原创文章，转载请附下面的二维码，并于正文前显著处注明来源、微信公众号ID(zaraghost)、作者，否则视为侵权，必找你麻烦</strong></strong></strong></strong></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg" alt="花儿街参考" width="500" height="195"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E9%A2%86%E5%AF%BC%E5%8F%AB%E4%BD%A0%E5%8E%BB%E6%8C%A1%E6%9E%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA/?category=18271" rel="tag">新闻发言人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%B7%9E%E5%8A%A8%E8%BD%A6%E4%BA%8B%E6%95%85/?category=18271" rel="tag">温州动车事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%8B%87%E5%B9%B3/?category=18271" rel="tag">王勇平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E9%81%93%E9%83%A8/?category=18271" rel="tag">铁道部</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3-%E4%BB%8E%E4%BB%8A%E4%BB%A5%E5%90%8E-%E8%BD%AC%E5%8F%91%E4%B8%80%E4%B8%AA%E6%AD%A3%E8%83%BD%E9%87%8F%E5%B8%96%E5%AD%90%E5%B0%B1%E6%9C%89%E8%A1%A5%E8%B4%B4/" target="cdt-mirror">呦呦鹿鸣 | 从今以后 转发一个正能量帖子就有补贴？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/13.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/13.png" alt="1" width="502" height="353"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/21.png" alt="2" width="502" height="323"></a></p>
@@ -802,29 +851,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%81%E5%85%AD%E5%B9%B4/" target="cdt-mirror">BBC｜中国维权人士郭飞雄被判监禁六年</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png"><img src="http://chinadigitaltimes.net/chinese/files/2014/11/90ed98de96c450cf-5973513f676859295a07601d5ff572364eb2800c4f5c.png" alt="郭飞雄画像。郭飞雄女儿作品" width="450" height=""></a><p>郭飞雄画像。郭飞雄女儿作品</p></div>
-<p>中国广州市天河区法院周五宣判，维权人士郭飞雄被判监禁六年、孙德胜被判两年六个月、刘远东三年有期徒刑。</p>
-<p>郭飞雄原被控“聚众扰乱公共场所秩序”，判刑四年。不过法院临时增加“寻衅滋事”罪名，共判六年。</p>
-<p>郭飞雄代表律师张磊对BBC中文网说：“我非常震惊，也非常愤怒。法院直接在检察院没有起诉的罪名上面，把一个整体事实分割开来，增加一个罪名，我认为这是对于程序正义的严重践踏。”</p>
-<p>张磊说：“我们一共在法庭上面没有见面超过十分钟……很快就完了。”</p>
-<p>BBC中文网获得郭飞雄的答复词。郭飞雄说：“这个判决是反正义、反法律的，是中国反民主的黑暗势力对我和孙德胜所作的卑劣的政治迫害。我们是完全无罪的。”</p>
-<p>郭飞雄继续说：“你们对堂堂正正履行公民政治权利的我们所制造的这一政治冤案，乃是将本当用于匡扶正义、保障人权的司法机构，颠倒用于构陷无辜的公民，用于碾压人权，用于践踏中华民族的核心利益——宪政民主事业。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/151127064751_southern_weekly_2013_976x549_ap_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/151127064751_southern_weekly_2013_976x549_ap_nocredit.jpg" alt="2013年，《南方周末》编采人员抗议新年贺词被大幅修改，郭飞雄、孙德胜及刘远东均有参与声援。 " width="550" height=""></a><p>2013年，《南方周末》编采人员抗议新年贺词被大幅修改，郭飞雄、孙德胜及刘远东均有参与声援。</p></div>
-<p>三人都被羁押超过两年，其中刘远东羁押时间长达二年九个月，所以孙德胜及刘远东快将出狱。郭飞雄及孙德胜不服判决，当庭提出上诉。</p>
-<p>张磊对BBC中文网说，郭飞雄跟孙德胜身体状况欠佳。张磊说：“包括郭飞雄今天进法庭的时候，他就要求法庭当场给他验伤，法警从看守所押送到法院的路上把他的手扭伤了。用手铐伤害了很深的印子，陷到肉里面去了。”</p>
-<p>根据其他传媒报道，三人在羁押期间都没有放风。长期没有接触日照，令他们健康大有问题。郭飞雄记忆力亦有减退的情况。</p>
-<p>张磊说他应该会继续担任郭飞雄、孙德胜的代表律师。他说：“担心不担心也没有意义……七月以来抓了那么多律师，你说作为律师的话，肯定会感受到压力。但是，这些基本的辩护工作，得有人去做。”</p>
-<p>2013年，《南方周末》编采人员抗议新年贺词被大幅修改，郭飞雄、孙德胜及刘远东均有曾与声援。三人被捕及监禁，外界视为政府报复的手段。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%81%E5%85%AD%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%BF%9C%E4%B8%9C/?category=18271" rel="tag">刘远东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">南周新年献辞事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E5%BE%B7%E8%83%9C/?category=18271" rel="tag">孙德胜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%9A%E4%BC%97%E6%89%B0%E4%B9%B1%E5%85%AC%E5%85%B1%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">聚众扰乱公共秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -836,7 +862,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -846,5 +872,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

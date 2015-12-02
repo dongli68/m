@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/" target="cdt-mirror">财经网 | 莲花味精：取消提名习银平为独董候选人</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/201512021021094971b_550.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/201512021021094971b_550.png" alt="201512021021094971b_550" width="550" height="645"></a></p>
+<p>中国网报道 12月2日讯 莲花味精周二晚间发布公告称，经公司董事会提名委员会审核通过后，提名习银平先生、邢战军先生为公司独立董事候选人。</p>
+<p>————–</p>
+<p>财经网报道 12月2日盘后，莲花味精（600186.SH）公告称，公司董事会决议取消提名习银平为公司独立董事候选人，将尽快提名新的独立董事候选人。</p>
+<p>就在12月1日，莲花味精公告称，提名习银平为河南莲花味精股份有限公司第六届董事会独立董事候选人，并已充分了解被提名人职业专长、教育背景、工作经历、兼任职务等情况。12月2日，莲花味精开盘涨停，全天封涨停板，当日成交10.98亿元。</p>
+<p>在12月1日的公告中，莲花味精称，被提名人已书面同意出任河南莲花味精股份有限公司第六届董事会独立董事候选人。提名人认为，被提名人具备独立董事任职资格，与河南莲花味精股份有限公司之间不存在任何影响其独立性的关系。</p>
+<p>公告称，被提名人具备上市公司运作的基本知识，熟悉相关法律、行政法规、规章及其他规范性文件，具有五年以上法律、经济、财务、管理或者其他履行独立董事职责所必需的工作经验。且被提名人符合《公务员法》关于公务员兼任职务的规定；中央纪委、中央组织部《关于规范中管干部辞去公职或者退（离）休后担任上市公司、基金管理公司独立董事、独立监事的通知》的规定；中央纪委、教育部、监察部《关于加强高等学校反腐倡廉建设的意见》关于高校领导班子成员兼任职务的规定等。</p>
+<p>公开信息显示，习银平，汉族，1969年8月出生于陕西富平县，本科学历。2007-2012年任国际环保联盟荣誉会长，2010-2013年任和谐中国陕西工作站秘书长，2014年至今任陕西习仲勋研究会副会长，2013年至今任中国高层决策协会西部发展办公室副主任。</p>
+<p>据信报报道，46岁的习银平是陕西富平县人，传是习近平堂弟。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%9C%E5%B9%B3/?category=18271" rel="tag">习远平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E8%91%A3%E4%BA%8B%E5%80%99%E9%80%89%E4%BA%BA/?category=18271" rel="tag">独立董事候选人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE/?category=18271" rel="tag">莲花味精</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%A0%E6%96%87%EF%BC%9A%E5%80%98%E4%B8%8D%E6%8A%97%E4%BA%89-%E5%88%99%E9%9B%BE%E9%9C%BE%E6%97%A0%E6%B2%BB/" target="cdt-mirror">章文：倘不抗争 则雾霾无治</a>
 </h2>
 <p><p>写此文时，北京已经连续四日重度雾霾，我的嗓子也有些疼了。今天一天都不敢出门，就坐在开着空气净化器的家中，看朋友们在微博和微信朋友圈中各种自嘲和抱怨。然并卵。</p>
@@ -107,7 +126,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E4%B8%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">讲政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%EF%BC%9A%E9%AA%97%E6%88%91%E5%8F%AF%E4%BB%A5%EF%BC%81%E8%AF%B7%E6%B3%A8%E6%84%8F%E6%AC%A1%E6%95%B0%EF%BC%81/" target="cdt-mirror">999急救事件当事人：骗我可以！请注意次数！</a>
 </h2>
@@ -680,23 +699,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-imf%E4%BC%9A%E8%AE%AE%E5%B0%86%E5%86%B3%E5%AE%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E8%83%BD%E5%90%A6%E6%88%90%E4%B8%BA%E5%82%A8%E5%A4%87%E8%B4%A7%E5%B8%81/" target="cdt-mirror">BBC | IMF会议将决定人民币能否成为储备货币</a>
-</h2>
-<p><p><strong>国际货币基金组织（IMF）执行董事会周一（30日）稍晚时候预计将在会上讨论人民币加入特别提款权（SDR）的问题。人民币可能随后被宣布成为该组织的国际储备货币。</strong></p>
-<p>目前作为国际货币基金组织储备货币的只有美元、欧元、日元和英镑。</p>
-<p>国际货币基金组织总裁拉加德本月早些时候对人民币加入SDR表示了支持。</p>
-<p>中国目前已是仅次于美国的全球第二大经济体。去年开始，中国开始努力让其货币成为国际储备货币之一。</p>
-<p>外界存在对中国政府操纵人民币汇率以帮助出口的担心，这是人民币之前没能成为IMF储备货币的原因之一。但中国政府努力让各方支持人民币加入储备货币。</p>
-<p>汤森路透数据显示，11月以来，人民币累计贬值1.2%，是自8月贬值2.6%以后的最大跌幅 。</p>
-<p>本月早些时候国际货币基金组织提交给董事会的一份报告建议给予人民币国际储备货币地位。据金融时报（FT）报道，该组织工作人员当时称，人民币满足了两条标准，一是中国和人民币在全球贸易中具有重要影响。二是人民币在国际上“可自由使用”。第二条标准由于和此前的“可自由兑换”标准不同，因而引发了关注和争议。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/bbc-imf%E4%BC%9A%E8%AE%AE%E5%B0%86%E5%86%B3%E5%AE%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E8%83%BD%E5%90%A6%E6%88%90%E4%B8%BA%E5%82%A8%E5%A4%87%E8%B4%A7%E5%B8%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%A8%E5%A4%87%E8%B4%A7%E5%B8%81/?category=18271" rel="tag">储备货币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81/?category=18271" rel="tag">货币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87/?category=18271" rel="tag">货币基金组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AC%E5%80%BC/?category=18271" rel="tag">贬值</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -708,7 +710,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -718,5 +720,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

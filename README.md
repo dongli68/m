@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,82 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E9%9B%BE%E9%9C%BE%E4%B8%8D%E4%BC%9A%E8%AE%B2%E6%94%BF%E6%B2%BB/" target="cdt-mirror">六神磊磊：雾霾不会讲政治</a>
+</h2>
+<p><p>【编者注】这是六神磊磊去年的旧作，近日在其微信公号（ID：dujinyong6）内再次推送时被和谐。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2013/02/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/02/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE.jpg" alt="巴丢草：喂人民服雾" width="400" height="550"></a><br><em>（“喂人民服雾” by 巴丢草；数字时代配图）</em></p>
+<p><strong>文/六神磊磊</strong></p>
+<p><strong>一</strong></p>
+<p>有一个冷笑话：黄药师上北京，打一个《射雕》里的名词，答案是东邪西毒（吸毒）。</p>
+<p>我们有一条法则，它不载于任何法典，却又实实在在地存在；它没有任何具体内容，但每个人却又奇妙地都懂。这条法则叫做讲政治。</p>
+<p>它就像姜子牙请来的三光神水罩，牢牢保护着西岐城。有了它在，对于一些还不太完美的现实，例如雾霾，我们就不便出格地反对，因为不完美的永远是支流，是局部，是暂时。</p>
+<p>它告诉我们，上面需要试错的空间，需要缓慢地改进的余地。</p>
+<p>它告诉我们事物发展是前进行和曲折性的统一，我们不能老做“抠脚藓”般吹毛求疵的事。</p>
+<p>然而百密一疏，我们忘了一点，老天爷不会讲政治。</p>
+<p>老天爷不管什么主流和支流，也不顾什么大局和小局，更不讲什么负能量和正能量。他只会把一些不完美的事情，粗鲁地、赤裸裸地暴露给你看。</p>
+<p>你敢搞他，他就搞你。你让它长杨梅疮，哪怕你非说只是碗口大一个，和整个下身的肌肤比起来只是局部，它也敢把底裤脱到底。</p>
+<p>尔能欺人，不能欺天。</p>
+<p><strong>二</strong></p>
+<p>其实我一直觉得，讲政治这种提法，从某种意义上说不如“忠于领袖”的提法好。</p>
+<p>讲政治的本意是要让人忠诚，而且措辞更含蓄，显得不那么赤果果，这是优点。但正是由于它语义模糊，在实际操作中，它有三个方面的问题，反而未必有利于培养忠臣。</p>
+<p>一是它容易诱导人们见风使舵。比如东方不败在位时，讲政治就是紧跟东方不败；任我行上台后，讲政治又变成了揭发东方不败。如果有一个人能通过这些考验，你说他会是个忠臣呢，还是个滑头？它产生的导向示范作用，会是引导大家要做忠臣呢，还是做滑头？</p>
+<p>二是它容易被豪强窃用，反而分裂中枢。比如在明教里，教主张无忌可以要求属下讲政治，法王殷天正也可以要求属下讲政治，但前者的政治是效忠教主，后者的政治就变成了效忠法王。一件重要的名器，却不能唯上者所专，便隐藏了危险。</p>
+<p>三是这个词儿仍然有一丝理性的成分，有被坏蛋们利用的可能。左冷禅固然可以用这个词儿弹压刘正风，但刘正风也可以反过来用这个词儿反对左冷禅。比如刘正风可以说：“我认为五岳剑派同气连枝、不搞内斗是最大的政治。”左冷禅还真不好反驳。</p>
+<p>越是好的口号，就越必须指向明确、权属清晰，要简单有力，理性成分必须越少越好。比如讲“要爱教，要懂事”，就不如“誓死效忠东方教主”；讲“时刻保持清醒，一心奉献星宿”就不如“星宿老仙，法力无边”。</p>
+<p>如果扭捏地采用前一种口号，一旦风云突变，全教将无一人是男儿；相比之下，不如干脆采用后一种口号，倒说不定真能培养出一批赤胆忠臣。</p>
+<p><strong>三</strong></p>
+<p>回到雾霾的事情上，同样地，我们大家都知道要讲政治，我们都理解雾霾是历史原因、现实原因、客观原因、综合原因造成的，我们应该多传播正能量，要多关注有司采取的积极举措，等等。</p>
+<p>但这无法解决一个问题：老天爷不讲政治，怎么办？</p>
+<p>有老天爷当出头鸟，于是禁忌就打破了，大家窃窃私语者有之，借题发挥者有之，挟洋自重者有之，一片负能量。</p>
+<p>倒不如直接采用简单一点的口号，比如“刀枪不入、百毒不侵”“老天爷不讲政治，但我们讲忠心”之类，禁忌便永远不会打破，效果反而好得多。</p>
+<p>你看我们和东北边的隔壁邻居，我们讲政治，他们讲忠心，几十年过去，反差就出来了：</p>
+<p>我们什么都比他们强，我们有底气和他比经济、比文化、比外交、比胖子数量，比任何一种东西，但我们敢和他比忠臣么？</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E9%9B%BE%E9%9C%BE%E4%B8%8D%E4%BC%9A%E8%AE%B2%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">讲政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%EF%BC%9A%E9%AA%97%E6%88%91%E5%8F%AF%E4%BB%A5%EF%BC%81%E8%AF%B7%E6%B3%A8%E6%84%8F%E6%AC%A1%E6%95%B0%EF%BC%81/" target="cdt-mirror">999急救事件当事人：骗我可以！请注意次数！</a>
+</h2>
+<p><blockquote><p><strong><a href="http://weibo.com/1907166177/D6rA80Pry">@一个有点理想的记者</a></strong> ：声明：央视新闻中称，北京红十字会邀请第三方专家，对本人整个诊疗过程调查后认为完全符合医疗规定。经网友提醒，这位名为首都医科大学外科学术委员的樊有炜教授，竟然另一个身份是北京红十字会999急救专家。对于公众如此关注的事件，发表“客观”说法的竟然是自家人。骗我可以！请注意次数！</p>
+<p><strong><a href="http://weibo.com/1907166177/D6sfB7fXH">@一个有点理想的记者</a></strong>：这就是受北京市红十字会邀请，以“第三方”身份来调查的樊有炜教授。我悲愤的不能自已！这是全国公众关注的事件！这是关系到性命攸关的急救体系改革的事件！赔偿我与否不重要，但是明晃晃的自家人穿马甲来误导公众，作为一名医生，你对得起那一个个急救车里曾经鲜活的生命吗？<a href="http://t.cn/RUDa9nJ">秒拍视频</a></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykhsmjfb1j218g0xcwoh.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykhsmjfb1j218g0xcwoh.jpg" alt="71ad0be1jw1eykhsmjfb1j218g0xcwoh" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpsjsz6j20f70ev761.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpsjsz6j20f70ev761.jpg" alt="71ad0be1jw1eykkpsjsz6j20f70ev761" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpu5rprj20k00zk44n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpu5rprj20k00zk44n.jpg" alt="71ad0be1jw1eykkpu5rprj20k00zk44n" width="375" height=""></a></p>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6/">999急救事件</a>专题</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@王志安: 樊教授如果同时是999的专家，以第三方的身份接受采访就是一种欺骗行为。需要指出的是，真正的第三方不该由999邀请，999自己邀请就不叫第三方。建议卫计委同时查查这种伪造第三方欺骗公众的行为。</p>
+<p><a href="http://weibo.com/3032382280" target="_blank">泗亚乐Sylzy</a>：【通过细节看倾向】此人在表述中说患者在”我们”这里待了2个小时……(一句”我们”就可看出倾向，他和红+字会999的关系<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]">)另外为什么是受999之托，去调查999的问题？？？说实在的同系统之间都有默契，你懂的！</p>
+<p><a href="http://weibo.com/2092113653" target="_blank">MMS快到锅里去</a>：红十？哈哈哈哈哈哈哈，世界上有红十，但中国，只有红<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8cb3.png" alt="" width="20px" height="20px">或者黑十</p>
+<p>@梁博益：骗我一次算你狠，骗我两次算我蠢</p>
+<p>@油爆枇杷伴着面：说什么不该止疼这些其实都没错的东西纯粹是为了转移其不就近转送对急腹症处理不当的视线。别被他们牵着鼻子走。就死咬住严重的急腹症不为什么不就近。</p>
+<p>@带Ai前行：央视够脑残，洗地又洗出个洞来了。</p>
+<p>@关小刀：老老实实认错多好，越抹越黑，越圆越谎</p>
+<p>@百不：真正的欺骗行为是央视吧！帮洗地都洗不干净，很多人都替你们说了，找个人假惺惺认个错都不会……简直没没救了！</p>
+<p>@Jim-min：红X会再出晕招。以现在的网络系统，要查个专家就那么几秒的事情。估计独立第三方的医疗专家不认可他们的行为，所以无奈的把这些不合格的专家拉出来了。</p>
+<p>@歌本哈根迷雾：这不能怪999急救中心，人家认为自己的儿子也是第三方</p>
+<p>@求仁得仁：这就是耍流氓。一个堂而皇之的大型机构、事业单位，就这样低劣的品性与运营手法，还真是文革余孽，无法无天。</p>
+<p>@大漠刘：可以动用AV帮助洗地，十字就这么霸道！</p>
+<p>@微笑老戈说：拉来了病人全套CT，B超，多严重的病明明自己治不了，也不向上级医院转送，直接收到lCU病房，耽误你没商量，车祸外伤命大的活着出来的也不少，心梗脑梗错失最佳抢救时间的，死了只知道是自己病太重，他们已经尽力了，从进急诊中心的大门开始交钱死了请把人拉走，继续交钱，我们需要这样的急救收容吗</p>
+<p>@49吋屏：第一个专家的核心意思，没确定病情打止疼针不对，谁让你喊疼的？第二个专家的核心意思，送到999不送到其他医院当值医生说了算，即使中间有猫腻儿你们外人也不能说我违法。唉~~专门去看了看东方时空，真是醉了……刻意模糊焦点，妄图平息事态为红十字会洗地，这真的好吗？</p>
+<p>@海洋饼干3：还好雾霾重，多少可以遮掩些！</p>
+<p>@Hello辛同学：给大家讲个笑话，红十字会</p>
+<p>@小黄咖喱：这个演技不应该在医疗行业啊</p>
+<p>@bright飒：不是…这个演技我给95分，甩国内一众小花旦几百条街……999原则就是，我没错我没错我没错，你们酱做真的对得起你救死扶伤敬德修业的的医生工作么 p.s.那个，虽然我不想说，但是我们首医的官僚化气息也是相当的浓厚乌烟瘴气…</p>
+<p>@丁丁的丁丁被钉钉钉：这才是真正的“图样图森破”，认个错改个正难么？“自己就是正确的！”是马列主义？是毛泽东思想？是邓小平理论？是三个代表和科学发展观？还是你们999的中国梦？谁给你们的权利？谁指导你们这样工作？</p>
+<p>@老丿：我就说过，所谓强国梦，就是政府强大到可以为所欲为</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%EF%BC%9A%E9%AA%97%E6%88%91%E5%8F%AF%E4%BB%A5%EF%BC%81%E8%AF%B7%E6%B3%A8%E6%84%8F%E6%AC%A1%E6%95%B0%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/999%E6%80%A5%E6%95%91%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">999急救中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">999急救事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E4%BC%9A/?category=18271" rel="tag">中国红会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE%EF%BC%8C%E4%BD%95%E5%BF%85%E6%8F%90%E5%A4%B4%E6%9D%A5/" target="cdt-mirror">德国之声｜长平：“咱们的雾霾”，何必“提头来见”？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/10/BzjeiVvCIAAnhQ6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/BzjeiVvCIAAnhQ6.jpg" alt="雾霾之蓝天去哪里了" width="585" height=""></a><br><em>（网络图片）</em></p>
@@ -46,7 +119,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%84%E5%A2%83%E6%84%88%E5%8A%A0%E6%81%B6%E5%8A%A3-%E5%94%90%E5%A4%A9%E6%98%8A%E6%B7%B1%E5%9C%B3%E8%A2%AB%E7%A6%81/" target="cdt-mirror">自由亚洲 | 维权律师处境愈加恶劣 唐天昊深圳被禁出境</a>
 </h2>
@@ -748,51 +821,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%A4%96%E5%AE%A3%E5%87%BA%E5%87%BB-%E7%BA%A2%E8%89%B2%E8%B5%84%E6%9C%AC%E6%B8%97%E9%80%8F%E5%8F%B0%E6%B9%BE%E5%AA%92%E4%BD%93/" target="cdt-mirror">美国之音 | 北京大外宣出击 红色资本渗透台湾媒体</a>
-</h2>
-<p><p>作者：樊冬宁</p>
-<p>华盛顿—美国DMG娱乐集团总裁敏茨(Dan Mintz)日前宣布以个人名义出资六亿美元收购台湾东森电视，由于DMG母公司的股东有解放军背景，引起各界关注。台湾经济部表示将从严审查。与此同时，阿里巴巴集团董事长马云也传出正在洽购香港《南华早报》的股权。北京大外宣遍布全球各地，是否正展开新一轮出击? 台湾2016总统大选在即，红色资本是否打算进一步渗透台湾媒体?</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-29-at-%E4%B8%8B%E5%8D%881.11.24.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-29-at-%E4%B8%8B%E5%8D%881.11.24.png" alt="Screen Shot 2015-11-29 at 下午1.11.24" width="458" height="335"></a><br><span>图为2013年DMG娱乐集团总裁敏茨（右一）接受央视采访，谈《钢铁侠3》影片以及好莱坞与中国市场的合作前景</span></p>
-<p>曾在台湾媒体服务的资深媒体人沈同先生在海峡论谈节目中表示：据传有解放军背景的财团要收购台湾电视台，就被说成好像是解放军要打到台湾来了一样，媒体的渲染报导和民众的过度反应都是犯了“恐中病”！外资若有中国背景，是应该要审查，但是一切应该依法进行，不必太担心，也不应该搞民粹,否则反而会引发猜忌，对两岸关系不利。</p>
-<p>沈同还说，根据他之前为洪秀柱办后援会的个人经验，台湾媒体事实上自主性是非常高的，台湾有24家媒体倾向攻击国民党，其实只有两三家是蓝的。</p>
-<p>台湾健行科技大学颜建发教授则在海峡论谈节目中指出，“我认为这不是恐中，而是防中!” 颜建发认为这种担心绝对不是空穴来风，因为已有前例，旺旺集团收购中时已经出现这种问题。幸好现在还有公众舆论在制衡，否则如果只按照法律办理，恐怕结果不好。</p>
-<p>颜建发教授进一步表示，中国对外来媒体封锁，自己内部言论也不自由，为什么要到外边去购买媒体，就是想影响舆论。台湾现在的担心并不是“恐中”，而是长期经验的总结。</p>
-<p>颜建发教授特别以香港为例，他说，不要忘记北京的政策立场没有改变，香港就是一个例子。媒体是第四权，被北京渗透之后，多元言论可能紧缩。可以看看中评社近年来的报道和评论。一家就是这样，如果是十家、百家会是什么样子？不能等闲视之。</p>
-<p>至于阿里巴巴有意收购香港南华早报一事，颜建发教授认为，马云与中共上层关系密切，算是红顶商人。他购买《南华早报》，日后出现中共影响不会意外。</p>
-<p>山东奏先生在海峡论谈节目中表示：台湾人要提高警惕。不要以为现在的民主制度就可以保证永远的民主制度。当年希特勒上台也是通过民主制度上台，但是上台之后就是实行独裁。一位四川观众说：台湾对大陆一定要小心。过去国共合作两次，都被共产党占了便宜，都是国民党失败为结果。</p>
-<p>究竟DMG收购东森能否通过台湾的审查? 台湾2016总统大选在即，北京是否会利用控制媒体的方式对台湾总统大选发挥影响力?海峡论谈今晚邀请曾经在台湾媒体服务多年的资深媒体人沈同先生以及台湾健行科技大学企管系的颜建发教授为您进行深入分析，同时开放热线让海峡两岸的听众、观众表达看法，也欢迎网友们在此提出您的观察与建议。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%A4%96%E5%AE%A3%E5%87%BA%E5%87%BB-%E7%BA%A2%E8%89%B2%E8%B5%84%E6%9C%AC%E6%B8%97%E9%80%8F%E5%8F%B0%E6%B9%BE%E5%AA%92%E4%BD%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/dmg%E5%A8%B1%E4%B9%90%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">DMG娱乐集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%A3%AE%E7%94%B5%E8%A7%86/?category=18271" rel="tag">东森电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0%E6%88%98/?category=18271" rel="tag">对外宣传战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E8%8C%A8/?category=18271" rel="tag">敏茨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E8%8C%A8%E5%AE%A3%E5%B8%83%E6%94%B6%E8%B4%AD%E5%8F%B0%E6%B9%BE%E4%B8%9C%E6%A3%AE%E7%94%B5%E8%A7%86/?category=18271" rel="tag">敏茨宣布收购台湾东森电视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E7%A7%A6%E6%99%96%E6%96%B0%E4%B9%A6%E3%80%8A%E8%B5%B0%E5%87%BA%E5%B8%9D%E5%88%B6%E3%80%8B%E7%BD%91%E5%BA%97%E4%B8%8B%E6%9E%B6%E4%BC%A0/" target="cdt-mirror">法广 | 清华教授秦晖新书《走出帝制》网店下架传被查禁</a>
-</h2>
-<p><p>作者：上海特约记者 曹国星</p>
-<p><strong>昨天（11月28日），出版界从业者从微博传出消息称，称清华大学教授秦晖的新书《走出帝制》因政治原因被查禁，出版社相关负责人被新闻出版广电总局约谈。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-28-at-%E4%B8%8B%E5%8D%882.59.50.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/Screen-Shot-2015-11-28-at-%E4%B8%8B%E5%8D%882.59.50.png" alt="Screen Shot 2015-11-28 at 下午2.59.50" width="266" height="388"></a></p>
-<p><span>秦晖教授新书《走出帝制》 图片来自《南方周末》</span></p>
-<p>有微博网友说“ 一夜间，《走出帝制》已经从各大网上书店消失，当当、亚马逊、京东都没有了。”记者今天尝试在上述几家知名网上书店购买此书，或显示链接被删除，或被告知无货。</p>
-<p>知情人士告诉本台记者，该书的确被下令查禁。有业内人士称，该书原本在山西一家出版社洽谈出版，该社要求删节，“名字也不是这个，书都快出了，秦把书交给了群言出了。”</p>
-<p>《走出帝制》今年十月份由北京的“中国民主同盟中央委员会”主办的“群言出版社”出版，由秦晖先生近几年在报刊上发表的一些近代史文章组编而成，据说颇见功力但并未对当下时政有直接的发言。<br>
-对此，记者刘虎调侃说，“《走出帝制》被下架，看来是书名起错了，要是《走进帝制》，也许就没事了。这事儿，编辑有责任。”</p>
-<p>该书序言称，2011年时逢辛亥百年，秦晖应报章之邀开了个专栏，就中国“走出帝制，走向共和”中的许多问题谈了很多不一样的看法，到了2014年“一战”百年、2015年新文化运动百年，秦晖又写了些相关文字，这期间还对太平天国与近代中日关系也发表过意见；所有这些看法其实都来自多年以来秦晖对近现代史的一个宏观构想，如何“走出帝制，走向共和”？如何理解“三千年未有之变”何以发生？</p>
-<p>政治学者刘瑜曾为该书写作书评《巨轮调头的时刻》，该文提出，秦晖很像是一个思想的管道工，哪里出现了认识和观念的严重堵塞，他就常常“赶赴现场，进行疏通清理”。</p>
-<p>刘瑜说，“虽然专业背景是中国古代史，但他传奇般的知识面、记忆力和思辨力使其“管道疏通”工作远远超出了中国古代史领域。《走出帝制》是其将知识梳理能力运用到清末民初史的一次尝试。</p>
-<p>表面而言，《走出帝制》是一个大杂烩式的文集，综合了秦先生对清末到1949年这一历史时期的分析与评价。仔细阅读，会发现“大杂烩”背后，有清晰的逻辑与层层递进的追问。</p>
-<p>刘瑜认为，《走出帝制》追问的第一层，是辛亥革命到底成功了还是失败了？更确切地说，作为辛亥革命的成果——中华民国——在大陆时期的表现，到底有没有、有多少“成就”可言？《走出帝制》的第二层追问：清末民初的启蒙为什么失败？</p>
-<p>秦晖总结：文化无高下，制度有优劣。转型之难不在于如何在“中西文化”之间做出一个选择，而在于如何构建一个尊重“底线自由”的制度来呵护多元文化的生长。对此，刘瑜的评论是“怀绝望之心，行希望之事”。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E6%B3%95%E5%B9%BF-%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E7%A7%A6%E6%99%96%E6%96%B0%E4%B9%A6%E3%80%8A%E8%B5%B0%E5%87%BA%E5%B8%9D%E5%88%B6%E3%80%8B%E7%BD%91%E5%BA%97%E4%B8%8B%E6%9E%B6%E4%BC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B5%B0%E5%87%BA%E5%B8%9D%E5%88%B6%E3%80%8B/?category=18271" rel="tag">《走出帝制》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">文化审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E6%99%96/?category=18271" rel="tag">秦晖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -804,7 +832,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B5%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -814,5 +842,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%B5%B0
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

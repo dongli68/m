@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%8A%88%E4%B8%80%E6%A0%B9%E8%AF%9D%E8%AF%AD%E7%9A%84%E5%BA%9F%E6%9F%B4/" target="cdt-mirror">旧闻评论｜宋志标：劈一根话语的废柴</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6406.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6406.jpg" alt="6406" width="375" height=""></a><br>
+【题图当代水墨，作者新浪微博：@秃头倔人】</p>
+<p>雾霾的话语争锋，其持续时长略超过雾霾的起始，霾来话来，霾去话去，剩下的在气候上可能是蓝天白云，在舆论上也可能是心意难平。但似乎舍弃了词锋争执，没有更好的办法。话已经说尽了，此种情形又不是唯独雾霾一事上才有，国情之下比比皆是。</p>
+<p>所以，愈发觉着话语的无聊。这不是感叹，只是事实表述。前天旧闻评论写过<strong>《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E6%B2%BB%E9%9C%BE%E5%B7%B2%E7%BB%8F%E5%A4%B1%E5%8E%BB%E5%8A%9E%E6%B3%95/">治霾已经失去办法</a>》</strong>，多少小时后被举报删除，无非是讲了治霾所需的条件不足，无论是体制还是社会，都已不能。而后<strong>再试验一篇<a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%80%81%E5%A4%A7%E5%93%A5%E7%A4%BE%E8%AE%BA-%E5%85%AC%E7%9F%A5%E6%8A%95%E6%94%BE%E7%9A%84%E7%B2%BE%E7%A5%9E%E9%9B%BE%E9%9C%BE%E6%9B%B4%E5%8F%AF%E6%80%95/">相左立场的雾霾评论</a>，因为“五毛”，至今安然无恙</strong>。</p>
+<p>这两个小文的遭遇可谓是相互印证，就此可以看出来，<strong>到底什么才是真的，所以不应该存在，什么才是浮皮潦草的，可以流行</strong>。话语背后的东西，哪怕雾霾再厉害，都一直在那里。所以，有人说为何写“五毛”评论，<strong>就是要让读者看看现今的话语环境</strong>。</p>
+<p>习去巴黎开气候大会，与奥巴马会面的消息由新华社发布通稿，因为新记将“奥巴马”错成“奥马巴”，使用通稿的报社<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/">全都跟着错</a>。新华社将党媒小弟带进沟里这回事，没少犯过。但是在现在这个情况下，也能看出党媒真的品相尽失，全面倒退。</p>
+<p>搁在往年，要闻编辑少不得要问新记是不是错了。但在现在，已经没这个意识了，<strong>反正站队就行</strong>，错了全算在新华社头上，万一勘误错了，罪责在自身。党媒想得是：或许新华社修正了美国总统的译名吧。所以亦步亦趋，就不必思考了，也就不必承担责任。</p>
+<p>党媒这样，其他部门条线何尝不是如此。要么是统一听号令，错的就错了，杀了也就杀了。亦步亦趋还算好的，最坏的是<strong>上有所好，下必甚焉，层层加码，加到底层</strong>，受不了。“北京蓝”“阅兵蓝”“APEC蓝”的成因，相较于雾霾发生的机制，大概是一致的。</p>
+<p>整个执行层承担不起改变的责任，整个社会承担不了责任，偏偏转型又是不可避免，不以长官意志为转移，不以小民良心所左右。雾霾中话语阵营冲撞，人仰马翻，能见度差到极点，焦躁与无出路碰出的不是火化，火花塞被拔掉了，话语就是根废柴。</p>
+<p>即使是废柴，可能还是停不下来，还得要继续劈下去。就像一再重复的那样，争论中形成的“雾霾观”，就好像前阵子结下的“反恐观”，具体事件与议题一次次检验着“三观”（世界观、价值观与人生观）的存活状态。我们都在话语的流水线上，既然扭转不了，了然就行。</p>
+<p>2015/12/3</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%8A%88%E4%B8%80%E6%A0%B9%E8%AF%9D%E8%AF%AD%E7%9A%84%E5%BA%9F%E6%9F%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F-%E6%96%B0%E5%8D%8E%E7%A4%BE-%E6%94%B9%E7%A8%BF%E8%BF%99%E6%A0%B7%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E6%83%85%E8%A6%81%E8%AF%B4%E4%B8%89%E9%81%8D/" target="cdt-mirror">传媒大观察 | 新华社 改稿这样重要的事情要说三遍</a>
+</h2>
+<p><p>美国又多了一个总统了？</p>
+<p>据中国媒体报道，当地时间11月30日，习近平会见美国总统“奥马巴”，强调中美两国应不冲突不对抗、相互尊重、合作共赢。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC1.png" alt="奥巴马1" width="637" height="468"></a><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC1.png"><br></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC2.png" alt="奥巴马2" width="642" height="640"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC3.png" alt="奥巴马3" width="642" height="482"></a></p>
+<p>奥马巴，奥巴马，这是哥俩儿吧？NO，当然不是，是中国媒体写错了！除了上面三家纸媒之外，网媒可谓是集体昏厥，真真的把奥巴马写成奥马巴。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC4.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC4.png" alt="奥巴马4" width="550" height="661"></a></p>
+<p>当网媒迅速地在传稿系统里轻轻地将“巴马”和“马巴”颠倒顺序的时候，纸媒可就悲催了，即使撤掉或者隐藏一部分电子版，那曾经的错误就像是犯罪记录一样被拍照上传，板上钉钉咯。</p>
+<p>其实，不难发现，这些失误的媒体都有一个共同的标签，那就是“据新华社电”，也就是说，这些媒体发的稿件都是新华社的通稿。</p>
+<p>那也就是说，新华社的通稿出现了问题？不错，这个是自然。</p>
+<p>看看这个……</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC5.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC5.png" alt="奥巴马5" width="550" height="413"></a></p>
+<p>不少媒体人向观媒君反映，新华社的通稿中的确将“奥巴马”写成“奥马巴”，但是后来新华社发现错误后及时进行了更正。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC6.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A5%A5%E5%B7%B4%E9%A9%AC6.png" alt="奥巴马6" width="550" height="450"></a></p>
+<p>也就是说，在新华社第一稿和修改稿之间，部分媒体直接用了新华社的第一稿，才导致错误出现。那么问题来了？难道新华社犯错了，这些报纸就应该犯错了？</p>
+<p>观媒君认为，之所以部分纸媒将奥巴马的名字写错，有以下两个原因：</p>
+<p>其一，太过于相信新华社的权威性。新华社作为国社，在媒体中的权威性无可挑剔，相信新华社的权威性也无可置疑，但是不能将其权威性变成完全的正确性和依赖性，新华社的通稿中出现一些常识性的错误也应及时发现。</p>
+<p>第二，粗心大意，打马虎眼。观察君注意到新华社的通稿是当天晚上8点左右发的，也就是说在这个时候，如果编辑认真，报纸经过一轮轮审核后发现其错误是可以规避的，何况还是涉及到国家领导人方面的新闻，更应该擦亮眼睛审核。</p>
+<p>当下正是传统媒体转型之际，传统媒体的沦陷，应该是从媒体人的沦陷开始，而媒体人的沦陷，必先由责任心的丧失开始。</p>
+<p>哎，好不容易散去了雾霾，不少媒体却打起了瞌睡，总统见了，会笑的。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F-%E6%96%B0%E5%8D%8E%E7%A4%BE-%E6%94%B9%E7%A8%BF%E8%BF%99%E6%A0%B7%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E6%83%85%E8%A6%81%E8%AF%B4%E4%B8%89%E9%81%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E5%AA%92%E4%BD%93/?category=18271" rel="tag">传统媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E8%BE%91/?category=18271" rel="tag">编辑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/" target="cdt-mirror">【立此存照】忽如一夜春风来，千报万报“马巴”开</a>
 </h2>
 <p><p><a href="http://weibo.com/u/1496825941" target="_blank">@杨锦麟</a>：这阵子，各地报纸低级错误频频，媒记君都有点审美疲劳了。“贪污和受贿部”、“公安局分赃大会”、“市委书记公开辞职”，这几个梗哪个不比“奥马巴”来得 劲爆。不过，这次粗心大意的可不是一个两个编辑。定睛一看，忽如一夜春风来，千报万报“马巴”开。</p>
@@ -209,7 +259,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E7%AF%AE%E5%AD%90/?category=18271" rel="tag">货币篮子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">金融市场</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/" target="cdt-mirror">财经网 | 莲花味精：取消提名习银平为独董候选人</a>
 </h2>
@@ -628,58 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%8C%E6%B7%B7%E5%AD%90stone%EF%BC%9A%E4%BD%A0%E6%87%82%E4%B8%8D%E6%87%82%E9%9B%BE%E9%9C%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3%EF%BC%9F/" target="cdt-mirror">二混子Stone：你懂不懂雾霾到底有多厉害？(外一则）</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/mmexport1448942587670.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/mmexport1448942587670.jpg" alt="mmexport1448942587670" width="450" height=""></a></p>
-<p><a href="http://sh.house.qq.com/zt2015/fgm18/index.htm">腾讯段子</a>：一个女记者街头采访：“大妈，今天的雾霾实在是太严重了，您觉得雾霾给您的生活带来了什么影响？”大妈说：“闺女，那影响可老大了，首先你得看清楚，我是你大爷！” </p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/11/127919459.jpg" alt="127919459" width="450" height="442"></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E4%BA%8C%E6%B7%B7%E5%AD%90stone%EF%BC%9A%E4%BD%A0%E6%87%82%E4%B8%8D%E6%87%82%E9%9B%BE%E9%9C%BE%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%9D%B0%E5%AE%89%E8%BF%AA%EF%BC%9A%E9%A9%BB%E5%8D%8E%E5%85%AB%E5%B9%B4%EF%BC%8C%E5%9B%9E%E6%9C%9B%E6%88%91%E8%BA%AB%E5%90%8E%E7%9A%84%E9%82%A3%E4%B8%AA/" target="cdt-mirror">纽约时报 | 杰安迪：驻华八年，回望我身后的那个中国</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/11/29jacobs-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/29jacobs-articleLarge.jpg" alt="北京，一幅宣传某家电商网站的广告。" width="600" height="401"></a><p>北京，一幅宣传某家电商网站的广告。</p></div>
-<p>北京——前两天的一个晚上，我和一些朋友在一家餐厅小聚，朋友里有中国人，也有外国人。在背景的巴萨诺瓦音乐中，我们抿着法国梅洛，用iPhone拍下彼此做鬼脸的样子。</p>
-<p>从远处看，这场聚会完全表现出，在经历三十年不间断的经济增长后，在中国终于成为大国的心态带动下，近年来北京已经变得多么国际化。</p>
-<p>但任何一个偷听到那晚谈话的人，都会对我的朋友表达出的焦虑和恐惧感到震惊。我即将结束在这里近八年的生活，朋友们是为我饯行的。</p>
-<p>他们中包括一位说话温柔的藏人作家、一名画家和一家小企业的老板。藏人作家一直拿不到护照，出不了国。画家朋友的作品去年被警方全部没收。那位企业老板则是一位单亲妈妈。虽然把尚处在青春期的儿子送去美国读书她有些不情愿，但她更“不愿他被中国的教育制度洗脑”。</p>
-<p>在桌子的另一头，一位在官方通讯社任职的编辑在抱怨宣传官员不断提出的要求。那些官员一心想要控制13亿人的思想。“我们是没有希望的一代，”这位32岁的编辑后来这样解释他为什么考虑放弃目前待遇丰厚的工作，去泰国寻找一个不确定的未来。“我认识的所有人都漫无目的，甚至对明天可能会发生的事情感到恐惧。”</p>
-<p>面对在中国的日子即将结束，我才意识到自从我1985年第一次来中国以后，这里的变化是多么大，又是多么小。那时候，毛泽东发起的文化大革命留下的伤口还没愈合，但在宁静的首都街头，明显能感觉到对未来会更好的期盼。那时的北京还满是低层建筑和纵横交错的胡同。自13世纪以来，那些胡同几乎没什么变化。</p>
-<p>2008年，在离北京奥运会开幕还有几个月时，我再次来到中国。这时，这座城市已经发生了翻天覆地的变化。很多胡同被拆，让位于扎哈·哈迪德(Zaha Hadid)和雷姆·库哈斯(Rem Koolhaas)设计的高楼大厦，和一个每年都会新增一条线路的世界级地铁网络。</p>
-<p>北京到处是意大利跑车和奢侈品牌手提包精品店。人们普遍认为，中国终于获得了过去几十年作为一个贫穷落后的国家所得不到的尊重。</p>
-<p>中国知识分子曾经抱一种谨慎乐观的态度，认为共产党实行的限制措施可能最终会放松。他们在很大程度上寄希望于互联网。当政府承诺在奥运会期间对之前被禁的网站解禁，并表示允许在官方规定的“示威区”举行示威时，人们更是充满了希望。</p>
-<p>但后来，那些承诺证明是空话。示威区空无一人（申请抗议许可的人遭到拘捕），只有在奥运村工作的外国记者可以享用没有限制的网络。</p>
-<p>回头看，举办奥运会是中国进入一个新时代的开端：这个国家力量不断增强，越来越自信，但它的领导层却害怕自己的公民，下决心要对他们的思想和抱负进行限制。</p>
-<p>互联网没有使社会发生革命性变化，而是变成了扭曲中国6.5亿网民思想的一套精密工具。奥运会落下帷幕后没几个月，政府开始屏蔽Facebook、Twitter和YouTube；不久，这个名单继续增大，囊括了《纽约时报》、彭博社(Bloomberg)、Instagram、Dropbox，以及谷歌(Google)的多项服务。</p>
-<p>作为替代，北京支持本土的此类公司，如类似Twitter的新浪微博、即时通讯软件微信和搜狐等门户网站。它们的内容都受到严格监督，要剔除所有被认为威胁共产党统治的东西。试着在中国主要的搜索引擎百度上输入“天安门大屠杀”，它会在跳转页面显示，“根据相关法规和政策”，搜索结果“未予显示”。</p>
-<p>这种网络控制的影响发人深省。大多数中国年轻人认不出天安门事件的一张标志性照片，上面是1989年春天一名抗议者独自站在一辆坦克前。去年，当数以千计的学生走上香港街头要求民主的时候，本来很理性的一些朋友却只是机械地重复官方媒体谈论的观点：抗议者是被宠坏的小混混，受到“境外敌对势力”的指使。</p>
-<p>中国的确比25年前要开放得多。中国人去国外旅游和学习的人数不断增长，社会控制的放松意味着中国人可以和外国人交往，不受当局干预。尽管政府尽了最大努力，还有成百上千万人成功地通过使用VPN软件避开了网络审查。</p>
-<p>然而，共产党的控制之术近乎完美，可以让中国社会呈现出让人陶醉的活力，模糊了政府对异见者无所不在的限制。现如今，官方大肆宣传“民主”、“公正”等理念，但它的公民却因倡导自由选举或就工厂污染问题起诉政府而遭到监禁。</p>
-<p>记者本应与报道的人物和新闻事件在情感上保持距离。但当我知道警察拘捕了知名人权律师<a href="http://cn.nytimes.com/china/20150515/c15china/" target="_blank" rel="nofollow">浦志强</a>——一年半过去了，他依然被警方扣押着——知道维吾尔学者<a href="http://cn.nytimes.com/china/20140923/cc23trial/" target="_blank" rel="nofollow">伊力哈木·土赫提(Ilham Tohti)</a>似乎因就政府针对中国西北部新疆地区的动荡采取的措施向记者提供坦率评价而被判处无期徒刑，我的客观性经受了考验。这两位不仅是可靠的信源，也成为了我的朋友。</p>
-<p>自习近平在三年前上台以来，他力主推动的中国梦——公正！平等！创新！——成为了民族复兴的集结令。但它的实际影响是挑起往往让人感觉有仇外色彩的民族情绪。记者、学者和佛教僧侣被迫上政治教育课，反复诵读有关共产党地位至高无上的陈词滥调。</p>
-<p>有这么一件事让人想起毛泽东时代的中国。最近几周，中国最著名的一些演员和电影导演纷纷公开承诺要拥护“社会主义核心价值观”。这是一场运动的一部分，其目的是确保流行文化是维护共产党利益的可靠宣传渠道。</p>
-<p>尽管中国经济近期开始放缓，但本月早些时候，北京的街头依然到处是购物者，现代社会的各种虚饰一样也不少。习近平政府赢得了很多人的喜爱：他在遏制让普通中国人恼火的小腐败方面取得了重大进展，他放松了限制中国夫妇生育第二胎的人口控制政策。时髦的高铁将不少大城市连接起来，拥有一辆别克轿车对人数急剧增长的中国中产阶级来说已不成问题。</p>
-<p>与此同时，共产党似乎也成功地引导许多中国人将自己的精力投入到物质消费追求上。这在很大程度上是通过让他们担忧和恐惧的方式来实现的。</p>
-<p>不过，对于更好的明天——更清洁的空气、正义、可以挑选自己的政治领袖的机会——的追求，不会完全泯灭。就要离开中国的时候，有一天，我在自己经常修自行车的铺子停了下来。那家店铺的老板非常爱国，经常动不动就辱骂日本人，或大赞自己国家的军事力量日益强大。</p>
-<p>我跟他做最后告别时，他开了个玩笑，说要躲在我的行李箱里偷渡出去。“但你不是很爱国吗，”我一边说，一边指着新铺的路，和一排由政府出资刚刚翻修的店面。“我是爱我的国家，”他难为情地看着自己的脚。“但我更爱自由。”</p>
-<div>
-<div>
-<p>杰安迪(Andrew Jacobs)是《纽约时报》前驻华记者。</p>
-</div>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%9D%B0%E5%AE%89%E8%BF%AA%EF%BC%9A%E9%A9%BB%E5%8D%8E%E5%85%AB%E5%B9%B4%EF%BC%8C%E5%9B%9E%E6%9C%9B%E6%88%91%E8%BA%AB%E5%90%8E%E7%9A%84%E9%82%A3%E4%B8%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85/?category=18271" rel="tag">外国记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -691,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -701,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

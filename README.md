@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/" target="cdt-mirror">【立此存照】忽如一夜春风来，千报万报“马巴”开</a>
+</h2>
+<p><p><a href="http://weibo.com/u/1496825941" target="_blank">@杨锦麟</a>：这阵子，各地报纸低级错误频频，媒记君都有点审美疲劳了。“贪污和受贿部”、“公安局分赃大会”、“市委书记公开辞职”，这几个梗哪个不比“奥马巴”来得 劲爆。不过，这次粗心大意的可不是一个两个编辑。定睛一看，忽如一夜春风来，千报万报“马巴”开。</p>
+<blockquote>
+<p><a title="徐子林不加V" href="http://weibo.com/xuzilin" target="_blank">@徐子林不加V</a>：这才叫“通稿”，这在心里得多仇恨米果总统奥马巴啊……</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhohm0j20io09xjsd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhohm0j20io09xjsd.jpg" alt="4ef20071jw1eym8xhohm0j20io09xjsd" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhvvsqj20jd07gwey.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhvvsqj20jd07gwey.jpg" alt="4ef20071jw1eym8xhvvsqj20jd07gwey" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xijz4uj20k00bljt0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xijz4uj20k00bljt0.jpg" alt="4ef20071jw1eym8xijz4uj20k00bljt0" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xirjvhj20id07udgk.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xirjvhj20id07udgk.jpg" alt="4ef20071jw1eym8xirjvhj20id07udgk" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj0o1yj20gv0aq75k.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj0o1yj20gv0aq75k.jpg" alt="4ef20071jw1eym8xj0o1yj20gv0aq75k" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj7utaj20fa05rgmc.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj7utaj20fa05rgmc.jpg" alt="4ef20071jw1eym8xj7utaj20fa05rgmc" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xjf71ij20in079gm9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xjf71ij20in079gm9.jpg" alt="4ef20071jw1eym8xjf71ij20in079gm9" width="525" height=""></a></p></blockquote>
+<p><strong>以下图片来自新浪微博：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzgp2wfj30qo0zktdy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzgp2wfj30qo0zktdy.jpg" alt="0066OYJ1gw1eylmzgp2wfj30qo0zktdy" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzh4rf8j30nq0hsgpe.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzh4rf8j30nq0hsgpe.jpg" alt="0066OYJ1gw1eylmzh4rf8j30nq0hsgpe" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6d0b6b33gw1eym5us1rjzj20hs0d1mz4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6d0b6b33gw1eym5us1rjzj20hs0d1mz4.jpg" alt="6d0b6b33gw1eym5us1rjzj20hs0d1mz4" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzhigmpj30f10qotan.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzhigmpj30f10qotan.jpg" alt="0066OYJ1gw1eylmzhigmpj30f10qotan" width="440" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/9c1851c5jw1eym7axs0dcj20j60d575j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9c1851c5jw1eym7axs0dcj20j60d575j.jpg" alt="9c1851c5jw1eym7axs0dcj20j60d575j" width="440" height="302"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/darwinci" target="_blank">darwinci</a>：指鹿为马<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">这就是检验谁听话谁不听话的时候，印出来是奥巴马的，已经上巡视名单了</p>
+<p><a href="http://weibo.com/234541319" target="_blank">假行僧老巩</a>：关于各级地方报媒一律采用新华社通稿，把美国总统“奥巴马”写成“奥马巴”，一时间成了笑话。收到两条神评。1. 试探你的忠心，和指鹿为马一样样的……2. 一些媒体可能是故意不改，反正通稿出了错也找不到我，无声的抗议吧。都挺深刻、内涵。<img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"></p>
+<p>@深圳田雨：对重大敏感新闻严格按新华社消息报道是媒体铁律，所以当“奥马巴”出现在新华社的通稿标题之后，财新网、中国网、中国新闻网以及十几家报纸被带进沟里，奥马巴在12月1日响彻全国。这让我想起多年前在北方工作时，一副市长叫毛旭，我们的播音员播成了毛九日，这位市长也火了一把。</p>
+<p>@元元的姥爷退而不休：新华社出了个奧马巴，全国媒体统一跟进！我不相信编审们全都粗心大意，更不相信他们集体失明。因为这是对“必须使用新华社通稿”的绝好讽刺。想当年；全国学习“不须放屁”，这句台词让歌舞团的音乐舞美设计们绞尽脑汁。</p>
+<p>@寿大卫：可见各家报纸有的版面真是不用看，完全是传声筒和复印机的角色。</p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div><a href="http://weibo.com/talkcock" target="_blank">@郑维</a>：新华手一抖，大家都出丑……</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>@朱学东：通稿把奥巴马写成奥马巴，没什么好辩解的。至于那些犯错的报纸，同样也没什么好辩解的，活糙没责任心。当然跟着走到沟里问题的根源，还在体制，不全是通稿制度，而在于从上到下的号令一体化不得有他想妄议的体制，它们泯灭了其他人的判断力，只要跟紧就行，圣旨时代如此，毛时代如此，至今余绪犹存。。</p>
+<p>@光晖碎阅：千篇一律，一叶知秋！新华社通稿误，把“奥巴马”写成“奥马巴”，地方报刊照例一字不改采用，把明显的常识性错误，没有主动纠正过来。其中原因有两种：一种是明知错了也不敢改，多一事不如少一事，反正责任又不在我；明知错了也不愿改，故意亮亮现行新闻体制的弊端。神仙通稿，一律千篇源头所在。</p>
+<p>@宋朝诗人黄庭坚后人黄美娟：秀才江湖：宣传部经常下令，禁止媒体私自报道，一切以新华社报道为准。那么问题来了，如果新华社把“奥巴马”写成了“奥马巴”，媒体也必须以新华社报道为准，必须将错就错吗？新华社如果指鹿为马，媒体也不能指出那是鹿不是马？</p>
+<p>@樊昕-：【“奥马巴”影响到全国】12月1日，被新华社改名的美国总统“奥马巴”登上了烟台晚报、诸暨日报、银川晚报、东南快报、西安晚报、今日早报、亚太日报、绍兴晚报、青年时报、北海日报、北海晚报、巴渝都市报、国际旅游岛商报等报纸的标题，响彻全国。受水的媒体，今后还对国社的通稿深信不疑吗？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E9%83%AD%E4%BA%8E%E5%8D%8E%EF%BC%9A%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B9%88%E7%89%B9%E6%AE%8A%EF%BC%9F/" target="cdt-mirror">爱思想｜郭于华：我们究竟有多么特殊？</a>
 </h2>
 <p><p><em>注：原文发表于2013年1月</em></p>
@@ -667,43 +708,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3-%E4%BB%8E%E4%BB%8A%E4%BB%A5%E5%90%8E-%E8%BD%AC%E5%8F%91%E4%B8%80%E4%B8%AA%E6%AD%A3%E8%83%BD%E9%87%8F%E5%B8%96%E5%AD%90%E5%B0%B1%E6%9C%89%E8%A1%A5%E8%B4%B4/" target="cdt-mirror">呦呦鹿鸣 | 从今以后 转发一个正能量帖子就有补贴？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/13.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/13.png" alt="1" width="502" height="353"></a> <a href="http://chinadigitaltimes.net/chinese/files/2015/11/21.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/21.png" alt="2" width="502" height="323"></a></p>
-<p>今天，北京开了一个会，这个会的阵容有点意思。</p>
-<p>领衔的是：</p>
-<p><strong>徐麟：</strong>中央网信办副主任（不久前从上海市委常委、宣传部长任上调入中央）；</p>
-<p><strong>姜军：</strong>中央网信办网络新闻信息传播局局长；</p>
-<p><strong>马利：</strong>中国互联网发展基金会理事长（不久前从人民网董事长岗位转任）。</p>
-<p>与会的阵容：</p>
-<p>阿里巴巴、小米、滴滴出行、蚂蚁金服、乐视网、众筹网、今日头条、新华网、人民网、光明网、央广网、中国网、中国新闻网、中国日报网、中青在线、中国西藏网、中国台湾网、新浪、搜狐网、搜狐视频、网易、凤凰网、百度、爱奇艺、优酷网、中国广告协会、北京市网信办、无界传媒。</p>
-<p>这些机构，调性很不搭！就好像，五岳剑派、少林、武当、丐帮、灵鹫宫、天龙寺、昆仑派、峨眉派，乃至桃花岛、侠客岛、古墓派……都来了。</p>
-<p>把这几批人整到一起，到底要干什么？</p>
-<p>答案还是网信办楼下那句习近平组长的批示——让网络空间清朗起来。</p>
-<p>怎么清朗起来呢？“正能量”。“正能量”从哪里来呢？<strong>这就是问题。</strong>也是今天这个“互联网公益动员会”的问题起点。</p>
-<p>会议希望正能量从公益来。局长姜军透露了一个数据：2014年<strong>中国慈善公益事业金额1000亿左右，但是网上募集资金不到10亿</strong>。这10亿还主要来自三大平台——新浪微公益、腾讯公益、支付宝、淘宝公益店，三者合计4.28亿元。“还有很大空间”（也就是说还做得远远不够）。</p>
-<p>姜军说：互联网不但是信息集散地，也是知识集散地，也越来越多地成为商品和服务的集散地，同时，它也是大众情绪集散地，这其中，就有戾气、怨气。怎样平复呢？比如，可以通过公益活动，“让网民存善念、发善贴、行善事、助善行，有的国外的网站仅仅是<strong>转发一个善行的帖子就奖励，转发就会给予补贴</strong>。”</p>
-<p>转发帖子就有补贴？不用出门、动动手指头就能赚钱？这种国外网站的做法，实在令我脑洞大开。</p>
-<p>姜军说：</p>
-<section>我们要打扶贫攻坚战，现在网民有多少呢？有6亿多，没有脱贫的人有七千多万，比例差不多是九个网民对一个穷人，我们希望理想的结果是：让九个网民来帮助一个穷人。我相信，这场攻坚战借助互联网的方式、互联网的技术，利用互联网的思维，能够打赢！一定能够如期实现全面小康的目标。</section><p>“七千万贫困人口怎样脱贫”这样级别的议题稍大，大家还是和我回到“转正能量帖子有补贴”这个议题上来。</p>
-<p>我关注到了阿里巴巴集团公益开放平台总监张银生在会上的发言：</p>
-<section><section><section></section><section></section><section></section></section><section>阿里巴巴就有一个项目——“天天正能量”，由阿里巴巴公益联合100多家媒体共同发起，成立于2013年7月。“已累计奖励正能量人物1200余人<strong>，发放正能量奖金1700多万元</strong>。天天正能量官方微博已聚拢了44万忠实粉丝，长期占据着新浪微博“公益账号影响力排行榜”榜首位置。随手转发传递善行、发现正能量线索随手@天天正能量，成为粉丝的网络习惯。
-</section><section><section></section><section></section></section></section><p>发放正能量奖金1700多万，“天天正能量”是个怎样的存在？有一个故事是这样的：</p>
-<section>上海有个网友发了一条微博：“一号线车厢里不知谁扔了满地西瓜。坐在我旁边的女士站起来，耐心地把西瓜一块块捡起来装进一个塑料袋里，然后把塑料袋扎起来放到角落。擦了擦手，站到了车厢门口去(原来的位子已经被人占了)。全车厢的人都一起目不转睛地看完了整个过程。不知别人怎么想，反正我脸红了。”“脸红”的网友还在微博上附了阿姨座位被占后倚在地铁扶手边的照片。“天天正能量”的编辑发现后随即在微博上发起了“寻找地铁阿姨”的活动，表示：“勿以善小而不为，求扩散寻找这位美丽阿姨！每转发一次我们就奖她一块钱，2万封顶！ ”两天后，这条寻人的微博被转发了四万多次，开鞋店的陈阿姨最终被发现。<strong>“奖励”就是直接给钱。项目组马上联系陈阿姨，要其提供银行卡号，</strong>“陈阿姨根本不接受，说我就捡个西瓜皮，不要给我钱，也不接受媒体采访。”张银生说，还有的人在接到项目组电话时直接挂断，以为对方是骗子。“不相信，觉得凭什么给我送钱啊，还要我卡号身份证号。”
-</section><p>张银生：“‘天天正能量’的公益理念是马云提出来的。他认为现在负面新闻充斥媒体，很多真、善、美的东西报道不出来。但其实美好的事情是经常发生的，就想用一种方法来唤醒人心中积极向善的一面。”</p>
-<p>2014年，因为124亿的捐款额和国际视野的公益方式，马云成为了新一届的“中国首善”。马云宴请盖茨谈公益慈善的新闻也颇受瞩目。</p>
-<p>而我关心的是：现在，这么多真金白银已经发出来了，什么时候，会有什么样的互联网创新，实现“转正能量帖子就能得到补贴”呢？</p>
-<p>正如中央网信办副主任徐麟在会议的最后所说：“互联网公益的概念不应该是玄虚的，应该通过一个个鲜活的案例来引导我们。”</p>
-<p>噢耶。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3-%E4%BB%8E%E4%BB%8A%E4%BB%A5%E5%90%8E-%E8%BD%AC%E5%8F%91%E4%B8%80%E4%B8%AA%E6%AD%A3%E8%83%BD%E9%87%8F%E5%B8%96%E5%AD%90%E5%B0%B1%E6%9C%89%E8%A1%A5%E8%B4%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">中国互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">公益活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%9C%E5%86%9B/?category=18271" rel="tag">姜军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E9%BA%9F/?category=18271" rel="tag">徐麟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -715,7 +719,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -725,5 +729,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

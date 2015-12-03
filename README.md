@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%8A%88%E4%B8%80%E6%A0%B9%E8%AF%9D%E8%AF%AD%E7%9A%84%E5%BA%9F%E6%9F%B4/" target="cdt-mirror">旧闻评论｜宋志标：劈一根话语的废柴</a>
@@ -72,7 +72,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E5%AA%92%E4%BD%93/?category=18271" rel="tag">传统媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E8%BE%91/?category=18271" rel="tag">编辑</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/" target="cdt-mirror">【立此存照】忽如一夜春风来，千报万报“马巴”开</a>
 </h2>
@@ -152,7 +152,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%AA%E8%B7%AF/?category=18271" rel="tag">邪路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%B8%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">霸权主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E4%BC%91%E4%B8%A4%E6%9C%88%E4%BA%A7%E5%81%87%E4%B9%9F%E6%98%AF%E5%A5%B3%E6%80%A7%E7%9A%84/" target="cdt-mirror">女权之声｜为什么扎克伯格休两月产假也是女性的胜利</a>
 </h2>
@@ -689,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

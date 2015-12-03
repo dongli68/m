@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%BE%E6%8A%A5%E8%89%BA%E4%BA%BA%EF%BC%9A%E6%81%B6%E6%94%BF%E4%B9%8B%E4%B8%8B%E6%97%A0%E5%AE%8C%E5%8D%B5/" target="cdt-mirror">端传媒 | 举报艺人：恶政之下无完卵</a>
+</h2>
+<p><p>作者：长平</p>
+<blockquote><p>他们应该了解“文革”中很多造反派的命运，言论审查可以没有底线，所谓群众的力量也可能恶浪滔天。在这样的环境中，举报者自己也难有善终。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-03-at-%E4%B8%8A%E5%8D%8811.20.06.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-03-at-%E4%B8%8A%E5%8D%8811.20.06.png" alt="Screen Shot 2015-12-03 at 上午11.20.06" width="550" height="366"></a><br><span>2015年4月19日，香港，歌手卢凯彤出席在文化中心举行的香港电影金像奖颁奖礼。摄：TungStar</span></p>
+<p>举报反动政治立场，或者反党叛国行为，令其遭到公众唾骂，政府打击，从而身败名裂，甚至走投无路。这是“文革”中常见的一幕。“文革”之后，不少文章和书籍反思这类举报的危害，还有当事人站出来痛心疾首地表达忏悔。</p>
+<p>政治举报从未断绝。总是有人揭露，谁接受海外反共基金会资助了，谁参加民运组织的活动了，谁又和达赖喇嘛合影了。这些举报仍然会给被举报者带来很大的压力，但是在公共舆论中不受待见。人们似乎有理由相信，政治举报已然是一种过时的、无用的而且遭人鄙视的行为。</p>
+<p>历史不仅出乎意料地重演，而且难以想象地荒谬。今天，港台人士竟然向中国内地（大陆）公众及政府举报港台艺人的政治立场。香港“爱国人士”陈净心在微博举报香港歌手卢凯彤、谢安琪支持“占中”运动，来自台湾的艺人黄安（传言已入籍大陆，但“台湾艺人”仍是其身份背景）在微博揭露台湾歌手卢广仲的“台独”立场。是的，他们不是偷偷摸摸地向情报部门告密，而是义正辞严地公开举报。</p>
+<p>他们的举报“大获全胜”。主办单位取消了被举报歌手在大陆预定的若干场演出活动。在此之前，黄安也曾向国台办举报，要求调查可能与“台独女”钟屿晨合作的企业。国台办予以书面回复，对其举报行为大加赞赏，并称“领导高度重视，并责成相关单位迅速调查核实”。</p>
+<p> </p>
+<p><strong>举报乃因政治专制</strong></p>
+<p>去年9月，苏格兰公投前夕，文艺界名流纷纷表态。1300多位苏格兰作家、音乐家和艺术家联署了一封公开信支持独立，认为独立将让苏格兰民族拥有更多自由创造能力。他们说：“我们将投票支持（独立），因为我们想象了一个更好的国家。现在，我们想要建设这个国家。”支持独立的明星中包括第一个饰演“007”詹姆斯•邦德的着名演员肖恩•康纳利（Sean Connery），他一直都是一个坚定的“苏独分子”。</p>
+<p>反对独立的名人也不少，其中最受关注的大概要算《哈里波特》的作者J.K.罗琳（J.K. Rowling）。她认为独立将是一个“历史性的错误”，并捐款一百万英镑支持统一大业。包括滚石乐队主唱米克•贾格尔（Mick Jagger）、披头士乐队成员保罗•麦卡特尼（Paul McCartney）等人在内的演艺明星也联署了一封公开信，宣称：“将我们团结在一起的东西远多于分离我们的东西。”</p>
+<p>独立还是统一的确是一件大事，因此这些明星的立场也会引发争议，甚至招致言语攻击。但是，倘若有人跑到媒体上或者政府部门举报他们的政治立场，则显得十分滑稽。在民主社会，没有什么政治立场是不可以表达的。有些人愿意沉默，那也是应当受到尊重的个人选择。假如英国政府一本正经地表示要调查某个人或者企业的政治立场，那将是一个政治笑话。同样的道理，台湾每次大选，蓝绿两边都有演艺明星助阵，也有很多人作壁上观。</p>
+<p>举报之所以存在，乃因政治专制，取缔言论自由。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-03-at-%E4%B8%8A%E5%8D%8811.21.49.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-03-at-%E4%B8%8A%E5%8D%8811.21.49.png" alt="Screen Shot 2015-12-03 at 上午11.21.49" width="550" height="366"></a><br><span>2014年5月，北京，香港歌手谢安琪出席签约内地经理人公司的宣传活动。摄：Tung Star</span></p>
+<p>统治者的政策或者观点，只能赞同，不能反对。倘若反对执政党，对中国公民来说是犯罪，轻则“寻衅滋事”，重则“颠覆国家政权”。此外，据国际记者联会年度报告，中国政府还备有扰乱公共场所秩序、损毁商业声誉、刑事诽谤罪、非法获取经济利益罪、非法经营罪、聚众淫乱、散播谣言、制造虚假消息、制造虚假注册等等十多项罪名来打压言论自由，总有一款适合你。对于境外人士而言，则是反华敌对势力，亡我之心不死，不允许踏上中国土地。</p>
+<p>在这种国家暴力高压之下，执政党控制从幼儿园开始的所有学校教育、包括墙头黑板报及个人微博在内的所有媒体和书籍出版、包括流行歌曲及言情电视剧在内的所有影视作品，更不用说汗牛充栋的专门政治宣传，对民众进行洗脑教育。因此，举报者既可以跑到政府部门去要求查处，也可以在微博上号召民众抵制，声称这是人心所向。主办单位取消预定演出，从表面上看是顺应民意，担心有人砸场，实际上是害怕政府部门找麻烦，或者已经被政府部门打了招呼。否则，争议对于公共舆论、演艺明星和主办机构都未必是坏事。</p>
+<p>在大多数时候，中国民众提到分裂則义愤填膺，摩拳擦掌。但同样曾经属于清代版图，蒙古建国是友好邻邦，台湾独立则天崩地裂；呐喊着要收复荒岛钓鱼岛的人，却从来不会以同样的逻辑追讨美丽的海滨城市海参威。习近平去新加坡与马英九握手，民众称颂创造历史；但假如此前由一个演艺明星提议两岸领导人以对等身份见面，恐怕会被骂死。</p>
+<p>尽管如此，也并非每一个中国人都被成功洗脑。否则，就不需要那么多网络删帖人员和思想警察了，也不会有那么多人因言获罪了。即便论及独立与统一，也有很多不同的想法。但是，这些意见没有空间表达，没有机会交流，这也是言论封闭、思想狭隘的重要原因。那些可以说话的人，动辄代表“十三亿中国人”，不过是利用这种言论环境为虎作伥，在那些被迫沉默者身上再踏上一只脚。</p>
+<p> </p>
+<p><strong>举报增强政治审查</strong></p>
+<p>举报者可能会浩然正气地宣称：别的都可以忍了，在关乎“祖国统一”这样的大是大非面前，绝对不能让步！他们也许不知道，“文革”期间，“反对毛主席”、“同情国民党”甚至仅仅是黄安的台湾背景、陈净心的香港身份，都是绝对不可以容忍和让步的“大是大非”问题，红卫兵的革命热情和革命正气，一点都不比他们少。</p>
+<p>举报案中真正的大事大非问题，是举报者和当局狼狈为奸，协作进行更加广泛的政治审查，打压中国大陆之外的言论自由，逼迫可能与中国大陆人合作的艺人、作家和商人都进行更多的自我审查。同时，也让中国大陆的合作方画地为牢，故步自封，失去更多的生意和交流机会。</p>
+<p>港台艺人在大陆原本有比普通大陆居民更多的表达空间，至少以为在自己的土地上可以畅所欲言。除非被安全部门列入黑名单，唱片出版公司、演艺活动的主办和主管机构通常“管内不管外”，也就是说，只要删除其不受欢迎歌曲和镜头，或者要求不在活动期间不发表反政府言论，就可以合作。无论是支持“反攻大陆”的台湾歌手邓丽君，谴责“六四”镇压的歌手梅艳芳，还是支持藏独的冰岛歌手比约克（Björk Guðmundsdóttir），在大陆都是采用这样的原则对待。</p>
+<p>陈净心、黄安等举报者，利用中国当局的意识形态宣传，实际上是逼迫他们“有所作为”，进行更加严格的政治审查。或者，中国当局利用这些举报者，以及他们的举报造成的舆论影响，强化意识形态控制，迫使艺人们进行更多的自我审查。</p>
+<p>演艺人士不是专业的政治家，有些只是庸庸碌碌的卖艺人，但是他们中很多人都是青少年心目中的偶像。但经过这样的政治审查，还能让中国年轻人看到的境外艺人，很可能就剩下那些或者思想整齐划一，或者没有独立思考能力，或者为了大陆市场逢迎拍马的人。</p>
+<p>香港“占中”期间，导演王晶和北京政府站在一起，和同行划清界限。北京大阅兵当日，大量明星用过网络表达“爱国情怀”。钟镇涛发文称唱国歌激动得哽咽，而关之琳更发文直呼“祖国万岁”。无论是发自内心还是作秀表演，相较于前辈，他们的认知能力和批判精神都大为减弱，而自我审查和迎合顺从的倾向都大为增加。</p>
+<p>尽管中国改革开放超过三十年，但是言论空间从未自由，思想文化始终受压，后果有目共睹：偌大的一个国家，经济、文化都全靠“山寨”，连几首像样的原创歌曲都写不出来。口口声声爱国爱大陆的陈净心女士和黄安先生，为什么不想想这些“大是大非”问题呢？</p>
+<p>也许他们真正的兴趣，仅仅在于利用中国大陆政治环境，或打击政敌，或者报复私怨，或扩大地盘。但是，他们应该了解“文革”中很多造反派的命运，言论审查可以没有底线，所谓群众的力量也可能恶浪滔天。在这样的环境中，举报者自己也难有善终。</p>
+<p><strong>（长平，作家，资深时政评论人）</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%BE%E6%8A%A5%E8%89%BA%E4%BA%BA%EF%BC%9A%E6%81%B6%E6%94%BF%E4%B9%8B%E4%B8%8B%E6%97%A0%E5%AE%8C%E5%8D%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">反占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">群众举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E4%BA%BA/?category=18271" rel="tag">艺人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">香港占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA/?category=18271" rel="tag">香港艺人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E4%B8%8A%E8%AF%89%E8%A6%81%E6%B1%82%E6%94%B9%E5%88%A4%E6%97%A0%E7%BD%AA/" target="cdt-mirror">BBC｜中国维权人士郭飞雄上诉要求改判无罪</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/140911132645_cn_guo_feixiong_624x351_afp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/140911132645_cn_guo_feixiong_624x351_afp.jpg" alt="郭飞雄已被关押超过一年。 " width="575" height=""></a><p>郭飞雄已被关押超过一年。</p></div>
@@ -657,39 +696,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/" target="cdt-mirror">【网络民议】他们在拍咱们的雾霾</a>
-</h2>
-<p><p>北京空气中的PM2.5浓度持续居高不下。至12月1日上午，北京重污染持续5天，重污染橙色预警逾40小时，经历了今年最严重的污染过程。30日晚，多个监测站PM2.5浓度超过500微克/立方米，峰值接近1000微克/立方米。</p>
-<p>12月1日早6时，北京依然淹没在一片灰蒙蒙之中，室外空气有明显的呛鼻味道。北京市环境监测中心空气实时状况图上，一片紫红色，全城陷入重度、严重污染，京西南监测站PM2.5浓度达796微克/立方米。以至于有网友调侃“北京没了”。</p>
-<p>这轮雾霾来得有点突然。11月下旬多日雨雪后，北京扩散条件有利，至26日空气质量仍维持优良。但一夜过后，城区PM2.5浓度飙升7倍，27日上午8时，浓度为198微克/立方米，全城陷入重度污染。当天，北京市空气重污染应急指挥部办公室启动空气重污染黄色预警。29日上午10时，升级为今年首个橙色预警。北京市教委要求全市小学、幼儿园停止户外活动，中学停止室外体育课。</p>
-<p>30日，雾霾持续加重。午后，中心城区PM2.5维持500微克/立方米的高污染浓度，当晚南部部分站点出现超过900微克/立方米的极端峰值污染浓度。</p>
-<p>来源：中新网</p>
-<blockquote><p>@头条新闻：【“被发射了”的北京著名建筑[笑cry]】浓浓雾霾，北京这些地标都消失了…</p></blockquote>
-
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4at0b2ej20qe0eu0um/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4at0b2ej20qe0eu0um-150x150.jpg" alt="60718250jw1eyk4at0b2ej20qe0eu0um"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4atsgsqj20qe0hmn07/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4atsgsqj20qe0hmn07-150x150.jpg" alt="60718250jw1eyk4atsgsqj20qe0hmn07"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4awwme1j20qe0hcach/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4awwme1j20qe0hcach-150x150.jpg" alt="60718250jw1eyk4awwme1j20qe0hcach"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4axwqowj20qe0hkaca/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4axwqowj20qe0hkaca-150x150.jpg" alt="60718250jw1eyk4axwqowj20qe0hkaca"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4ayqesaj20qe0iqtb3/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4ayqesaj20qe0iqtb3-150x150.jpg" alt="60718250jw1eyk4ayqesaj20qe0iqtb3"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4b3zhaqj20bp0hl75k/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4b3zhaqj20bp0hl75k-150x150.jpg" alt="60718250jw1eyk4b3zhaqj20bp0hl75k"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4b6vnigj20qe0hmmyw/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4b6vnigj20qe0hmmyw-150x150.jpg" alt="60718250jw1eyk4b6vnigj20qe0hmmyw"></a>
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%8B%8D%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE/60718250jw1eyk4b20h7mj20qe0hm76m/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/60718250jw1eyk4b20h7mj20qe0hm76m-150x150.jpg" alt="60718250jw1eyk4b20h7mj20qe0hm76m"></a>
-
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>王超F8I5：吉尼斯纪录已经准备好颁发，同时吸雾霾人数最多的国家的荣誉证书。</p>
-<p>linglingfa：小时候课本上一直告诉我们：我国绝不会走资本主义”先污染后治理”的老路，今天我站在这一片雾霾中，才了解，我国走的是”先污染也不治理”的中国特色社会主义道路。</p>
-<p>demoi ：有点累了，每次雾霾严重的某一天，大家都出来集体哀悼似的地写文章，但是，一年又一年过去，眼看着空气是越来越差越来越差，一点长进也没有。等到哪年中国空气好起来了，大家大概又会交口称赞说，那几年我们过得很苦，但是我们已经熬过来了。奇迹会发生吗？</p>
-<p>mranti ：北京雾霾太严重了，因为窗户的微小缝隙，所有房间的空气净化器红灯都亮了，自动在开足马力工作。</p>
-<p>作业本：雾霾来了，戴口罩买净化器不出门。水不能喝，买纯净水买净水器。鱼肉蔬菜农药超标，使劲洗使劲泡…当你为这些基本生存权利说几句时，那你就是：“哗众取宠想红想搏出位，既然这么不喜欢中国，为什么不滚出去？”</p>
-<p>方绍伟：“大米不好就出国买，奶粉不好就海外带，雾霾来了就戴口罩，汽油涨价就连夜排队加，自来水不安全就买瓶装水喝，癌症高发就拼命养生，教育不好就送孩子出国留学，总之将聪明才智全部用在苟且营生上，然后轻蔑的对为了他们的权利奔走呼号的人说：这是个和谐的国家，你们不要太激进。”</p>
-<p>jajia：请问朝阳群众在哪里？今天有2200万人在吸毒啊！</p>
-<p>淡定de马铃薯：这不是丧尸美剧，也不是日影鬼谈，更不是韩国笔仙！这是国内惊悚之北京雾霾天大妈们在跳广场舞。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/63136032jw1eyjekp2f9vj20qo0zkwgp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/63136032jw1eyjekp2f9vj20qo0zkwgp.jpg" alt="63136032jw1eyjekp2f9vj20qo0zkwgp" width="440" height="587"></a></p>
-<p>horse：要是艳阳高照、风和日丽，你跟人讲社会问题积重难返，很难有效。他张口就告诉你生活在别处，拿出小温暖小确幸鼓励你去看美好。只有这样的雾霾天，你才能和他聊几句世道，谩骂两句，但惊醒他依然很难，要说社会哪个部分都深渗毒霾，对大多数人依然觉得不可思议。但好歹，毒霾天总是一个很好的形象类比。</p>
-<p>baby3707：刚听北京交通广播，有个司机打电话和主持人交流。都快哭了，说北京雾霾太大了，开车到交通灯下面才看见是红灯，都连闯了8个红灯了。这可怎么办？主持人安慰说，没事的，雾霾太大，它也拍不清你的车…<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +707,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +717,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

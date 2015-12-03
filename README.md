@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/" target="cdt-mirror">【立此存照】忽如一夜春风来，千报万报“马巴”开</a>
@@ -189,6 +189,27 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9B%E4%BA%86%E7%AF%AE%E5%AD%90-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E7%9C%9F%E6%88%90%E9%87%91%E8%9E%8D%E5%A4%A7%E5%9B%BD%E4%BA%86/" target="cdt-mirror">世界日报｜人民币进了篮子 中国就真成金融大国了？</a>
+</h2>
+<p><p>中国人民银行行长周小川日前为人民币国际化订出明确时间表，提出在五年后让人民币成为「国际性货币」，这另一个「中国梦」正在实现。国际货币基 金 (IMF)30日决定，将人民币纳入特别提款权(SDR)一篮子货币中，使人民币成为美元、欧元、英镑和日圆之外的全球五大货币之一。这是人民币国际化的 关键一步，也有望扩大中国经济金融版图，奠定中国金融大国地位。预计未来人民币在SDR中的权重，可能超越日圆，挑战英镑，甚至多年后挑战欧元地位。</p>
+<p>如果说，14年前中国加入世界贸易组织(WTO)，推动中国的出口型经济腾飞，那么现在人民币获准加入SDR，可能帮助中国在国际金融舞台站稳脚跟。中 国把人民币纳入SDR一篮子货币中，形象地称为「入篮」。可以说，人民币是「后布雷顿森林体系时代」第一个真正新增、第一个来自开发中国家、也是第一个按 可自由使用标准加入SDR的货币，无疑将增加人民币在IMF机制内的流通使用。不过按IMF规矩，人民币要正式成SDR一员，还要等到明年9月30日。</p>
+<p>人民币纳入SDR，对中国的重要意义显而易见。首先，它代表国际社会对中国作为最大贸易国和全球第二大经济体，在全球经济和国际金融中日益增强影响力的认可，同时也提升中国在国际货币和金融治理中的话语权。</p>
+<p>其次，有利增强市场对人民币信心，增加国际范围内公共部门和私人部门对人民币的使用，促进人民币国际化。</p>
+<p>第三，有助人民币成为国际储备货币，增强中国央行货币政策的独立性，扩大应对中国经济波动的政策空间。</p>
+<p>尤其重要的是，人民币成为国际储备货币，对中国老百姓境外消费、投资等将带来很大便利，未来持人民币「走天下」将不是梦。目前中国人出境旅游，不仅出发 前须换算汇率、预约银行换汇；回国后，还需要再把剩余外币现金兑换成人民币，其中不仅有汇率损失，而且操作步骤相对复杂，也增加出国成本。但在人民币加入 SDR后，将有越来越多国家认可人民币，愿意接收人民币，或用人民币来广泛开展各种交易。中国人出国留学、个人海外投资等，也可望从人民币「入篮」后间接 受益。</p>
+<p>而对国际社会，中国人民币加入SDR，将使SDR本身具更大代表性，甚至成为IMF改革的催化剂。美国过去较担心人民币国际化， 对美元独霸地位带来负面影响，但如今越来越多人认识到，人民币国际化短期和中期不仅不致构成对美元的挑战，而且有利美中经济平衡。中国对美国贸易持续顺 差，将不断积累美国国债。而人民币国际化后，可在某种程度上自然纠正美中贸易失衡。</p>
+<p>同时，美国也因在IMF所特有的投票权和话语权，将 获得控制人民币国际化进程的更大空间。因此，今年9月欧巴马总统和中国国家主席习近平的「欧习会」，美国对人民币纳入SDR一篮子货币，态度首度放软，成 为人民币迈向国际储备货币的关键。但可以预期，美国绝不会允许人民币国际化进程走太快，进而挑战美元霸权地位，一定会设法用强势美元战略，来抑制中国的强 势人民币战略。</p>
+<p>尽管人民币纳入SDR对中国的象徵意义巨大，必须指出的是，首先，这并不意味着人民币会立即成为储备货币，各国货币当局 仍将根据市场因素，决定是否将人民币加入其本国的储备货币库。据统计，截至2015年9月，IMF各成员国的SDR配额，相当于2800亿美元，而全球储 备资产规模约11兆3000亿美元，说明SDR在全球储备资产中所占份额还很低。</p>
+<p>其次，人民币加入SDR，意味人民币获得成为重要国际 化货币的「入场券」，但短期或不会直接增加人民币国际化的收益和资金流，反而人民币汇率贬值压力仍会较大。当前人民币在贸易结算中的占比居全球第三，但与 美元、欧元相比仍较低，同时在跨境支付中，尚未进入全球前五名，因此人民币国际化还有较长的路要走，加入SDR只是一个新开始，并非结束。</p>
+<p>至于人民币汇率，加入SDR篮子本身对人民币汇率是个利好消息，但这一利好几乎已被市场消化殆尽。现阶段人民币汇率有一定贬值预期。从现在起到明年正式 「入篮」期间，人民币可能再贬值3%至4%。而从长远角度看，逐步放开人民币波动区间，让汇率市场向更为市场化的方向发展，仍是大势所趋。这些都标志着中 国经济和金融走向市场化、国际化，甚至「资本主义化」，再向前迈进一大步。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9B%E4%BA%86%E7%AF%AE%E5%AD%90-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E7%9C%9F%E6%88%90%E9%87%91%E8%9E%8D%E5%A4%A7%E5%9B%BD%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E7%AF%AE%E5%AD%90/?category=18271" rel="tag">货币篮子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">金融市场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/" target="cdt-mirror">财经网 | 莲花味精：取消提名习银平为独董候选人</a>
 </h2>
@@ -659,55 +680,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E9%A2%86%E5%AF%BC%E5%8F%AB%E4%BD%A0%E5%8E%BB%E6%8C%A1%E6%9E%AA/" target="cdt-mirror">花儿街参考｜领导叫你去挡枪</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B31.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B31.jpg" alt="王勇平1" width="550" height=""></a></p>
-<p><strong>【来自微信公号：花儿街参考／ID：zaraghost】</strong></p>
-<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%B7%9E%E5%8A%A8%E8%BD%A6%E4%BA%8B%E6%95%85/">温州动车事故</a></p></blockquote>
-<p>这是一篇关于路人甲乙丙的文章。嗯，只有甲乙丙，没有丁，因为丁被领导叫去挡枪了。只是枪响的瞬间，撑在丁下面的领导跑了，丁就变成了一，挡抢变成了躺枪。</p>
-<p><strong>（一）</strong></p>
-<p>“王勇平退休了，他说自己等待这一天的到来”。骤然在朋友圈看到这条新闻标题，我茫然不知此人是谁，第一反应是我感了个冒、昏睡了几天，世间便又有了我不知道的奇葩与浪花，妖孽或英雄。看到副标题那句“反正我信了”，才想起来他是四年前723动车事故里，因为一句“反正我信了”语出惊人，也成了个倒霉蛋儿的铁道部前新闻发言人。</p>
-<p>2011年7月23日，温州发生动车追尾事故。舆论中，一面是惨烈、人祸、国难，另一面则是论坛中汹涌流传的，埋车头、瞒证据、瞒报死亡人数。一面是沉痛，一面是猜测或谣言四起。</p>
-<p>事故发生26小时后，铁道部召开了新闻发布会。会场内等待的记者，仿佛背负着汹涌民怨，能呼吸到的都是热腾腾的怨气；一墙之外，王勇平正待推门而入，他的空气中凝结的，是风萧萧兮易水寒。</p>
-<p><strong>时至今日，我都觉得那是一场无论谁去参加，都会被放在显微镜下审视、都会被汹汹怨气解读、都会随时引爆炸药包的新闻发布会</strong>。那一推门，无论要说什么，都要被钉在职业生涯的耻辱柱上。</p>
-<p>不过，对于曾经的铁道部，那个向来扮相威严、半军事化管理、姿态高高在上的铁道部，更不具备处理此类情况的经验。自然，王勇平做的也更笨拙。</p>
-<p>他在发布会上说了两句雷人的话，一是“至于你信不信，我反正信了”，另一句是“这是一个奇迹”。这本应是脱口便知是祸的对话，但久居体制内的人并不这样看。第二天早晨，王勇平在大厅里遇到部领导，部领导还告诉他“上级领导看到了发布会的现场转播，提出铁道部要表扬王勇平”。已然筋疲力尽的王勇平说，不求有功但求无过。</p>
-<p>但求无过，这无异于痴人说梦。王勇平自此成为了众矢之的，他被免职、被调任波兰，人们在网上叫嚷“绝不能放过他”。赴波兰前，他每天缩在铁道部小型新闻发布会的会议室里，不上网、不看报，把自己与外界隔离。在波兰，每逢重大节日，他也只能与自己80岁高龄的母亲QQ视频。</p>
-<p><strong>（二）</strong></p>
-<p>在召开新闻发布会前，王勇平两度跟领导表示“他没准备好”。</p>
-<p>7.23事故发生后，事故的原因还在调查，王勇平还没来得及去现场。他刚刚下飞机，就接到上级领导的指令，要求立即召开发布会。</p>
-<p>王勇平立即赶去向部领导汇报，<strong>由于当时很多情况还没有搞清楚，还没有人知道事故的真正原因是什么。王勇平提出能不能稍微晚一天再开发布会</strong>？</p>
-<p>但有关部门要求当天晚上必须开，因为当时的舆论出现了很大的偏差，谣言盛行，完全可能引发严重的群体性事件。而彼时，当天要开发布会的消息业已传出，很多媒体在等候。所以当天不管晚到什么时候，发布会都要开。</p>
-<p>部领导问王勇平“开这个发布会有没有把握”？他说自己刚刚到，情况不掌握，没有把握。时间分分秒秒过去，关于事故的传闻分分秒秒地发酵，领导又问“你究竟有没有把握”？王勇平依然说“我没有把握，但是领导让我上，我尽力而为”。</p>
-<p>去发布会现场前，王勇平给家里打了个电话，嘱咐家人今天晚上可能会有一个关于事故发布会的直播节目，家里人就不要看了，特别不要让80岁的老母亲来看。</p>
-<p>王勇平下车，走向发布厅要走进发布厅，门口，有一位熟悉的记者朋友在等他。<strong>见面，对方伸手拦住他：“王部长，里面太乱了，今天可能会出事，我建议你最好不要去，取消这次发布会吧”</strong>。这时站在王勇平身后的一位上级部门领导说，他先进去看看。过了一会儿，他出来很凝重地说，我们还是进去吧。</p>
-<p>此后，便是那场闻名的发布会。<strong>那是一场新闻发布会，也是一场情绪发泄会。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B32.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B32.jpg" alt="王勇平2" width="410" height="282"></a></p>
-<p>那句著名的“我反正相信了”，背景是彼时网络上盛传救援人员埋车头是为了掩盖证据与事实。被问及，王勇平回答说“我下飞机的时候，问接机的同志为什么会发生这样的事。他们给了我一个解释，掩埋车头是为了便于继续抢险，因为当时抢险现场狭窄，有一个泥潭，必须先填埋后才有助于继续的救援。事实上，这是举世皆知的事故，任何方式也掩盖不了”。</p>
-<p>其实话说到这里，他本是无责的，但王勇平又神补刀了一句“至于您信不信，我反正相信了”。后来他说，自己讲那句话是为了得到媒体的信任。也许，作为铁道部的宣传部长、新闻发言人，他只是习惯了这样的语气。</p>
-<p>一个尚搞不清楚发生了什么的人，被放置在了那个位置，不得不承担了所有该归属于他、超越于他的责任。</p>
-<p><strong>他做出了一个正常的官僚所能作出的正常反应，在自己习惯的行为逻辑里尽力一搏，但那一刻人们想看到的是更多的担当、责任感、道德、勇气。这一切，王勇平没有呈现，也许，他也无力呈现。</strong></p>
-<p>新闻发布会后，王勇平被免职，远走波兰，他的新职务是华沙铁路合作组织的委员。部领导找他谈话时说，舆论现在炒得这么厉害，但这不是你的过错。</p>
-<p><strong>（三）</strong></p>
-<p>2014年11月，王勇平从波兰回国，铁道部已然不是他熟悉的铁道部，换了牌子改叫铁路总公司，曾经由他挂帅的宣传部也早已换了新人。他迎来了职业生涯的最后一站，铁路总公司文联主席。</p>
-<p>在通过他作为文联主席提名的会上，王勇平讲了一段话，大意是说，他只有1年的工作时间了，算起来就是三百六十多天，他要把每天都过得有意义，不虚度职业生涯的最后一站。他的工作不再似从前那样忙碌，早八晚五，云淡风轻。此前他在宣传部时，基本要晚上八九点回家，有时凌晨两三点还要被叫去开会。</p>
-<p>王勇平说，在波兰的日子，如果说什么特别难熬的，便是在传统节日的时候，他特别想念自己的母亲，她80多岁了，为了可以经常见他，竟然学会了QQ视频。想来彼时大多曾经对王勇平不爽、不满、不忿的国人，已经忘记了这个名字是谁，但这家人却依然因为这一事件的波及，分离在QQ视频的两端。</p>
-<p>王勇平退休了，有人说他背了黑锅，有人说他是被叫去挡枪的，当时应该有更高级别的领导出席那场发布会。<strong>但也许此刻更该想想，即使他是被叫去挡枪的，他挡的又是谁盲射的子弹。</strong></p>
-<p>王勇平退休了，他说他等待这一天的到来。</p>
-<p>王勇平退休了，至少今年，他可以过个没有QQ视频的团圆年。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B33.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E7%8E%8B%E5%8B%87%E5%B9%B33.jpg" alt="王勇平3" width="500" height="368"></a><br>
-图片为王勇平近照</p>
-<p><strong>附作者转发要求</strong>：</p>
-<blockquote><p><strong><strong><strong><strong>原创文章，转载请附下面的二维码，并于正文前显著处注明来源、微信公众号ID(zaraghost)、作者，否则视为侵权，必找你麻烦</strong></strong></strong></strong></p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg" alt="花儿街参考" width="500" height="195"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E9%A2%86%E5%AF%BC%E5%8F%AB%E4%BD%A0%E5%8E%BB%E6%8C%A1%E6%9E%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA/?category=18271" rel="tag">新闻发言人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%B7%9E%E5%8A%A8%E8%BD%A6%E4%BA%8B%E6%95%85/?category=18271" rel="tag">温州动车事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%8B%87%E5%B9%B3/?category=18271" rel="tag">王勇平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A%E5%9E%84%E6%96%AD/?category=18271" rel="tag">行业垄断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E9%81%93%E9%83%A8/?category=18271" rel="tag">铁道部</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -719,7 +691,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -729,5 +701,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E4%B8%8A%E8%AF%89%E8%A6%81%E6%B1%82%E6%94%B9%E5%88%A4%E6%97%A0%E7%BD%AA/" target="cdt-mirror">BBC｜中国维权人士郭飞雄上诉要求改判无罪</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/140911132645_cn_guo_feixiong_624x351_afp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/140911132645_cn_guo_feixiong_624x351_afp.jpg" alt="郭飞雄已被关押超过一年。 " width="575" height=""></a><p>郭飞雄已被关押超过一年。</p></div>
+<p>在一审<a href="http://chinadigitaltimes.net/chinese/2015/11/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%81%E5%85%AD%E5%B9%B4/">被判</a>处六年有期徒刑后，中国维权人士郭飞雄周四（3日）在一份上诉状中要求重审此案，改判自己无罪。</p>
+<p>本名杨茂东的中国维权人士郭飞雄在名为《宪政民主政体革命为什么必须》的上诉状中写到：“我在此提出上诉，要求依法重审此案，改判我无罪。”并列出多项理由。</p>
+<p>郭飞雄上周五（11月27日）被广州天河区人民法院以“聚众扰乱公共场所秩序” 、“寻衅滋事” 两项罪名判处六年有期徒刑。</p>
+<p>郭飞雄在上诉状中提到“声援南方周末事件”，他表示判决书中对于他“导致现场秩序严重混乱”、“抗拒阻碍警察依法执行职务”、“（南方报业传媒）集团活动被迫取消”等指控“有违事实”，他在上诉书中还原当时情形，驳斥判决书中的说法。并称有些让他被定罪的证言是证人遭到刑求逼供而得来。</p>
+<p>他指出多项将他定罪的指控没有物证、书证，且是透过非法方式取得的“纯口供”，并不足以采信。</p>
+<p>郭飞雄的罪名之一是声援《南方周末》抗议。2013年《南方周末》新年特刊中的新年献词因多处提到中国宪政问题而遭大幅度审查修改，报社员工发动抗议，郭飞雄、孙德胜及刘远东前往声援。2013年8月8日，郭飞雄被警方刑事拘留，孙德胜、刘远东也被捕及监禁。</p>
+<p>郭飞雄也谈到被定罪的另一事件“八城快闪”，称天河法院“直接用文学性比喻而非法律性事实的情节将我定罪。”</p>
+<p>综合他所列举的指控与反驳，他写到：“这一判决违背了基本事理和法理，我和孙德胜是完全无罪的。”</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E9%83%AD%E9%A3%9E%E9%9B%84%E4%B8%8A%E8%AF%89%E8%A6%81%E6%B1%82%E6%94%B9%E5%88%A4%E6%97%A0%E7%BD%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">南周新年献辞事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%9A%E4%BC%97%E6%89%B0%E4%B9%B1%E5%85%AC%E5%85%B1%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">聚众扰乱公共秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AF%91%E8%AF%BB%EF%BD%9C%E4%BB%A5%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E5%90%8D%EF%BC%9F/" target="cdt-mirror">译读｜以胡耀邦之名？</a>
+</h2>
+<p><p><em>【编者注】译读（公号ID:T-Read）微信原文已被和谐。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E8%80%80%E9%82%A6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E8%80%80%E9%82%A6.jpg" alt="胡耀邦" width="550" height=""></a></p>
+<p><strong>以胡耀邦之名？<br></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/the-economist.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/the-economist.png" alt="the economist" width="250" height="127"></a><br>
+本文原载于<em>The Economist</em><br>
+编译/杨雪 & 公仔</p>
+<p>上一次人们大批在北京纪念1981年到1987年间任中共中央总书记的胡耀邦的时候，结局不是很美好。1989年4月，胡耀邦因心脏病发逝世。在他葬礼前夕，100万人民在天安门广场发起了建国以来最大规模的反政府抗议。胡耀邦在去世前两年因为对“资本主义自由化”心慈手软而被撤职，因此一直被要求民主的抗议者视作榜样。胡耀邦去世后，抗议者在首都中心的天安门广场进行了为期数周的静坐抗议，使中共的统治陷入了崩溃的边缘。6月3号到4号，一场对几百人的massacre才最终平息了这场运动。</p>
+<p>因此，中共在胡耀邦百年诞辰大张旗鼓地庆祝，似乎有些不合理。现任总书记习近平和其他6位政治局常委均出席了在人民大会堂举行的纪念活动。习近平在演讲中赞美胡耀邦是“久经考验的忠诚的共产主义战士，伟大的无产阶级革命家”，新闻中充满了对胡耀邦生平的溢美之词，一本胡耀邦的文选也即将出版。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E8%80%80%E9%82%A62.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E8%80%80%E9%82%A62.jpg" alt="胡耀邦2" width="525" height=""></a><br><span>出版文选</span></p>
+<p>胡耀邦象征着中共并不认可的民主化压力，并且将永远和1989年党治几近崩溃的回忆联系在一起，如今中共却对他致以敬意，不禁令人生疑。难道说上任三年来不断清除异己的习近平，其实是胡耀邦的继承人，是秘密的自由主义者？还是说这预示了党内即将为“广场上的那件事”平反，不再将其视作叛国之举，而只是理想主义者的行差踏错？这两种解释都不太可能。吹捧胡耀邦，只是一如既往地借逝世同志之口道出党内派系斗争之实罢了。还有一种解读更务实，即这反映了中国政治自1989年后的改变之处和未变之处，然而后者更加突出。</p>
+<p>有一点是确定的，而且一直没变，那就是胡耀邦一直很受欢迎。原因之一是胡耀邦质朴、低调、宽容的公众形象。人们甚至开起他身材的玩笑，说他是唯一一个需要抬起头来看邓小平的中国领导人。另外，资产阶级自由化及其侧面影响仍然吸引着许多人，尤其当现在，习治下中国缓慢扩大的个人自由又呈缩减之势。另外，胡和邓小平都是修正毛泽东时期错误的领导人。在毛统治的时期，无数人曾遭到迫害，是胡保住了他们的命，因此他们至今感激在心。习近平去世的父亲习仲勋就是其中之一。习老和胡、邓一样，都是“大跃进时期”的党内领导人。毛泽东当时很针对他。据说习仲勋得以复职，胡耀邦的介入起到了很大作用。如今的中国政坛还是和1989年一样，被少数几个家族统治着，而这些家族间的恩怨已经跨越了好几代。</p>
+<p>同样不变的还有党内对历史“奥威尔式”的控制（乔治·奥威尔为反乌托邦作品《一九八四》作者，《一九八四》刻画了一个令人感到窒息和恐怖的，以追逐权力为最终目标的假想的集权主义社会。“奥威尔式”指现代保守政体藉宣传、误报、否认事实、操纵过去，来执行社会控制，典型代表是斯大林时期的苏联。——译者注）。对胡耀邦的称赞省略了他还是（非自发）政治改革的代表这一事实。眼尖的观众发现，在关于胡的纪录片中，编辑甚至篡改了30年前刊登在中共喉舌《人民日报》上的胡接任总书记时的照片。他们用一个形象更能接受的党内领导人换掉了照片中的赵紫阳，而这位胡耀邦的接班人就是因为支持天安门的抗议者而被软禁。这种篡改历史的行为，中共不是第一次做了，但是在过去，它的手段起码还能光明正大一些。1976年毛泽东去世，在他的葬礼上，他的遗孀和三个随后被逮捕和打倒的同僚站在让人十分尴尬的显眼位置。为此，中共直接把他们从照片中涂掉了，并且在下方文字中用xx，xxx等代替他们的名字。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E8%80%80%E9%82%A63.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E8%80%80%E9%82%A63.jpg" alt="胡耀邦3" width="525" height=""></a><br><span>借助改革者的名号，重新解释“改革”</span></p>
+<p>赵紫阳仍为禁忌，说明为“那年广场上那件事”平反的希望并不大。与此同时，习强硬的外表下是否隐藏着一个为光明而奋斗的自由主义者？迹象也不明显。更可能的是习一边为如今中国不存在仍在世的自由主义旗手而暗喜，一边希望借助胡耀邦那改革者的名号，重新解释“改革”一词的内涵，用来指代自己的政策。加利福尼亚克莱蒙特·麦肯纳学院的裴敏新称，要是中共无视胡耀邦的百年诞辰，会更让人起疑。因为尽管胡被撤职，但他直到逝世前一直都是政治局常委。在前任书记胡锦涛（此胡与彼胡并无血缘关系）的领导下，2005年胡耀邦的90年诞辰也同样有过庆祝活动。中国很看重周年纪念日。2年前，为了纪念另外一名逝世领导人百年诞辰，中国不仅拍了电视连续剧，甚至还发行了一套邮票。这位领导人就是习仲勋。习近平要是对父亲的救命恩人置之不理，就不仅仅是没礼貌的问题了。</p>
+<p><strong>名为纪念胡，实为告别胡</strong></p>
+<p>在这种背景下，胡耀邦百年诞辰之际的大肆宣传，似乎是习自信的一种表现。在习的领导下，中共虽然仍未做好直面天安门阴影的准备，但也不再担心唤起人们对胡耀邦——那些年抗议者的精神领袖——的回忆。习可以说自己继承了胡的意识形态，没有任何人敢反对。</p>
+<p>另外一种分析则是，由于之前提到的原因，习除了歌颂胡耀邦之外别无选择，而纪念活动本身就是由不满习集权和保守的党内人士发起的。他们的存在本身就是一种提醒，提醒党内的意识形态并未实现大一统，而是——用一个过时的说法——“两条路线斗争”的结果。这是中国精英政治另外一个未曾改变的方面，它就像一个让人捉摸不透的黑箱，不管我们的分析如何合理，真正的事实也有可能截然相反。</p>
+<p><em>原文地址</em>：http://www.economist.com/news/china/21679190-old-time-pekingology-makes-comeback-old-time-party-rule-never-went-away-hus-name</p>
+<p>本文由译读团队的志愿者编译<br>
+如需转载，请联系我们<br>
+联络微信号：woohow555</p>
+<p><strong>Attention：</strong><br>
+译读君新注册了小号，以后译论中国栏目中某些“由于众所周知的原因”无法发布的文章会通过小号发布。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AF%91%E8%AF%BB.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/10/%E8%AF%91%E8%AF%BB.jpg" alt="译读" width="300" height="300"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AF%91%E8%AF%BB%EF%BD%9C%E4%BB%A5%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E5%90%8D%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2%E5%8B%8B/?category=18271" rel="tag">习仲勋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6/?category=18271" rel="tag">胡耀邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%80%80%E9%82%A6%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">胡耀邦诞辰100周年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E5%8A%88%E4%B8%80%E6%A0%B9%E8%AF%9D%E8%AF%AD%E7%9A%84%E5%BA%9F%E6%9F%B4/" target="cdt-mirror">旧闻评论｜宋志标：劈一根话语的废柴</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6406.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6406.jpg" alt="6406" width="375" height=""></a><br>
@@ -639,45 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
 <p>baby3707：刚听北京交通广播，有个司机打电话和主持人交流。都快哭了，说北京雾霾太大了，开车到交通灯下面才看见是红灯，都连闯了8个红灯了。这可怎么办？主持人安慰说，没事的，雾霾太大，它也拍不清你的车…<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%8C%81%E7%BB%AD%E9%87%8D%E5%BA%A6%E9%9B%BE%E9%9C%BE-%E7%BD%91%E6%B0%91%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%B2%A1%E4%BA%86/" target="cdt-mirror">BBC | 北京持续重度雾霾 网民：“北京没了”</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/151201055353_beijing_pollution_3_976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151201055353_beijing_pollution_3_976x549_bbcchinese_nocredit.jpg" alt="周二上午北京笼罩在一片灰蒙的雾霾当中，能见度仅数百米。" width="600" height="337"></a><p>周二上午北京笼罩在一片灰蒙的雾霾当中，能见度仅数百米。</p></div>
-<p><strong>中国北京持续遭遇今年以来最严重空气污染，周二（1日）测得超出安全标准35倍的PM2.5浓度。数千座工厂停工，超过30航班受影响，各级学校停止户外活动。</strong></p>
-<p>在中国国家主席习近平赴巴黎参加联合国气候变化大会（COP 21），宣誓采取行动降低温室气体排放之际，北京连续两天笼罩在重度空气污染之中，各地监测站录得对人体有害的PM2.5粉尘高度超标，京西南监测站一度测得796微克/立方米。世界卫生组织（WHO）提出的健康空气标准为“日平均PM2.5低于25微克/立方米”。</p>
-<p>BBC中文网记者查阅北京实时空气质量指数（AQI），截至发稿时，北京全城及周边仍测得数值为300至600不等。只要AQI指数高于300即属于一到六级分级中最高级别的“严重污染”。健康人群运动耐受力将会降低，应避免户外活动。</p>
-<p>法新社报道，当局令2100间高污染工厂停工，并建议市民留在家中。机场附近能见度仅得600至800米，影响航班正常起降。</p>
-<p>根据北京市政府官方微博消息，这波污染自11月27日开始，已经持续四天，是在“华北地区大范围持续性重污染的背景下发生的，京津冀、山东、山西、河南等地普遍出现严重污染。”形成污染的原因包括世界极端气候影响、华北地区特殊气候环境造成污染物不易排放、区域内烧煤与机动车排放污染、区域内污染源扩散。</p>
-<p>目前北京市环境保护局启动大气污染专项执法季夜查行动，专项查处夜间擅自停用环保设施等违法行为。</p>
-<p>北京市环保监测中心预报，周三（2日）凌晨开始，受冷空气影响，空气品质会由北而南渐次转好。周三至周五应该能维持良好空气质量。</p>
-<p>北京市民向BBC中文网表示，“今天都不敢出门，但是在室内也可以闻到空气中的硫酸味道。” 网民纷纷上传北京一片灰蒙蒙的雾霾照片，甚至有人戏言：“北京没了！”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/151201072317_beijing_pollution_wechat_screengrab_976x549_bbcchinese_nocredit.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151201072317_beijing_pollution_wechat_screengrab_976x549_bbcchinese_nocredit.jpg" alt="151201072317_beijing_pollution_wechat_screengrab_976x549_bbcchinese_nocredit" width="550" height="309"></a></p>
-<p>在社交媒体新浪微博上，关键词“北京雾霾”也进入热搜排行榜。一名网友留言：“都好几天没有体育课了，课间操也不能上，下课都不敢出教学楼，在班里上课都辣眼睛，感觉这几天就是跟进监狱一样，真的是大气不敢出。”另一名网民说：“如果是我，就不会在北京雾霾爆表的时候还跑到巴黎去给世界各国的领导人讲环保。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%8C%81%E7%BB%AD%E9%87%8D%E5%BA%A6%E9%9B%BE%E9%9C%BE-%E7%BD%91%E6%B0%91%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%B2%A1%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B0%94/?category=18271" rel="tag">天气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E6%9C%9D%E9%98%B3%E5%8C%BA%E6%95%A3%E5%85%BB%E4%BB%81%E6%B3%A2%E5%88%87%E4%BF%9D%E4%BD%91%E9%9B%BE%E9%9C%BE%E4%B8%AD%E7%9A%84%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%B0%91/" target="cdt-mirror">王五四 | 朝阳区散养仁波切保佑雾霾中的北京人民</a>
-</h2>
-<p><p>趁着上班时间看完了《火星救援》，这部影片讲述的是美国宇航员马特呆萌被困在雾霾严重的火星上不得已靠种土豆维生，最后在伟大的中国科学家的帮助下重返地球，马特呆萌感动滴要写入党申请书的故事。望着在火星的雾霾中艰难前行的马特呆萌老师，我大为感动，在我心中他已经成为火星上的仁波切了。为了让观看《火星救援》的北京观众有身临其境的感觉，北京今天的PM2.5浓度特地调成了爆表模式，让观众们花3D电影的钱看4D电影，请不要身在福中不知福。</p>
-<p>今天北京地铁上有位乘客就是典型的身在福中不知福，他在地铁上拍了一张豪乳少妇母乳喂养婴儿的照片并发布到网上，还配了段文字：“姑凉，你在地铁上这个样子真的好吗？哦，对了，可能你忘记了这里是哪里了，那由我提醒你一下吧，这里是北京的地铁之上，不是你们村的公交车，你这么做真的好吗？”，看到这里我不由地愤怒了，我们村的公交车上什么时候才能有这种福利？公共场合母乳喂养在世界各地包括火星上都是合情合理合规合法合我心意的行为，联合国儿童基金会说，“第一时间进行母乳喂养是每一位哺乳母亲和宝宝的权利，包括在公共场所”。反过来看这位拍人喂奶者，你这种拍摄他人哺乳照且隐私部位不打马赛克上传网络的行为，明显侵犯了女性的隐私权，是要负法律责任的，所以，请各位年轻妈妈放心在公共场所喂奶，也奉劝有些成年人，看孩子吃饭可以，不要跟孩子抢饭吃。</p>
-<p>马特呆萌在火星上孤独地种着土豆，翻土、培植、制水、浇灌，细心呵护着每一颗秧苗，慈爱的好像普渡众生的仁波切，而此刻的北京人民，则像被朝阳区三十万散养仁波切抛弃了一样，孤独的矗立在不明指数的雾霾之中，明明你近在咫尺，我却为何感觉远在天边，只是因为雾霾太大根本看不见人，朝阳散养仁波切集体发功也无法驱散阴霾，五颜六色的城市消失，行走的人群像丧失一般，人们开始热切期盼刚刚坐床成功的活佛白玛铁林的归来，再不回来，英勇的朝阳区群众就要累晕在举报的路上了，人人都在吸毒，群众很忙。这样的场景让我们已经无法辨别这是电影还是生活了，难怪阿里影业的副总裁说他们已经不再需要编剧了，此地生活处处充满了戏剧性，还要什么编剧。</p>
-<p>看了前几天阿里影业副总的发言，以及国产编剧们的反击，我实在不懂编剧们有什么好生气的，有什么尊严好维护的，从大部分国产编剧的作品水准来看，你们能挣到钱就偷偷乐吧，还好意思要尊严。阿里影业副总的话并没有编剧们说的那么荒唐，反而很实用，只是难听了一点，“我是在给在座的编剧指出一生路，IP真的是信息传播有效的传达方式……”，“指出一条生路”，这话说得也太难听了，在大部分编剧看来这无疑是“嗟，来食”，况且人家写脑残抗战剧狗血家庭伦理剧赚钱轻松的很，还轮不到你阿里来赏饭吃，现在非要编剧们走市场化路线提升专业度，这不是为难他们砸人饭碗吗？</p>
-<p>阿里影业的副总着实惹怒了不少满身正义感的编剧，《心花路放》的编剧董润年说，“把贴吧吧主和无数同仁小说作者圈养在一起厮杀，这不叫创作，叫养蛊，这是对所有人尊严的践踏。创作从根本上关乎的是人心，不是金钱。”，《神医喜来乐》的编剧高大庸说，“这两年闯入文化产业的这波资本其实和制造615股灾的是同一拨人：穷凶极恶、无所顾忌、杀鸡取卵……最终自取灭亡……”，当然，还有很多正义编剧说了很多正义话语，正义感已经超越了手撕鬼子。想提醒一下董编和高编，圈养作者的那叫作协，市场优选出来的作者总比权力豢养出来的好，穷凶极恶、无所顾忌、杀鸡取卵的也并非资本，而是手握资源的权贵。何必气势汹汹隔空对一个小小的阿里影业副总发难，这彰显不了你们的正义感和专业度，电影审查制度的存在是你们职业生涯里永远绕不过去的坎，如果马特呆萌在火星上种土豆这种简单的事给你们写，你们一定能写得很丰满，首先在火星上建立党支部，发动外星人入党……。</p>
-<p>越来越多的人已经分不清什么是生活，什么是剧本了，有些时候活着活着就开始演戏了，演着演着就把它当成生活，渐渐地他们也开始分不清真假法王了，而我也开始分不清他们是真分不清还是假分不清了。演皇帝的专业户张铁林，前不久也在香港会展中心被开光成白玛曲培了，看着他有模有样的行大礼，我不知道那是表演，还是真实，他那个拥有很多院士、教授、野鸡大学荣誉博士等头衔不知真假的导师白玛奥色法王也一方面广受质疑，一方面又从者甚多，看着那么多虔诚的不知真假的佛教徒在张铁林的微博后面发着不知真假的祝福，“感恩法王，随喜赞叹”，我只能感叹假作真时真亦假。</p>
-<p>人人入戏太深，很多东西不知真假，但雾霾笼罩京城、空气污染持续加重这肯定是真的，而对于这些肯定真实的东西，人们又往往不敢以此为出发点寻根溯源，他们更喜欢站在虚妄的基点上畅谈美好未来等待戈多。今天北京部分监测站点PM2.5接近1000微克/立方米极值，我有很多朋友用自己的设备检测的数值已经达到了2000，而据环境监测部门统计，明天空气污染还将加重，北京人民请保重，朝阳区三十万散养仁波切保佑你们。</p>
-<p>这是一篇影评，人生如戏。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E6%9C%9D%E9%98%B3%E5%8C%BA%E6%95%A3%E5%85%BB%E4%BB%81%E6%B3%A2%E5%88%87%E4%BF%9D%E4%BD%91%E9%9B%BE%E9%9C%BE%E4%B8%AD%E7%9A%84%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%B0%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B0%94/?category=18271" rel="tag">天气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -689,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,190 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E4%B8%9C%E5%8A%B3%E5%B7%A5ngo%E9%81%AD%E8%AD%A6%E6%96%B9%E6%89%AB%E8%8D%A1-%E5%A4%9A%E5%90%8D%E5%8A%B3%E7%BB%B4%E4%BA%BA%E5%A3%AB%E8%A2%AB/" target="cdt-mirror">自由亚洲｜广东劳工NGO遭警方扫荡 多名劳维人士被抓</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6ae196ac-df34-4ccd-9192-d95ad43f408d.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6ae196ac-df34-4ccd-9192-d95ad43f408d.jpeg" alt="广州海哥劳工服务部陈辉海主任在工人代表保护机制研讨会上对“工人代表被打压后的救济途径”做精彩的主题发言。（资料图/微博图片）" width="450" height="600"></a><p>广州海哥劳工服务部陈辉海主任在工人代表保护机制研讨会上对“工人代表被打压后的救济途径”做精彩的主题发言。（资料图/微博图片）</p></div>
+<p>广州海哥劳工服务部多名员工及两名工友12月3日上午突遭警方带走，至下午获释。与此同时，当地多家劳工NGO的负责人也处于失联状态，截至当天傍晚仍毫无音讯。海哥劳工服务部主任陈辉海在失联前向本台表示，此次的抓捕行动由市公安局牵头，是针对整个劳工NGO的打压。同日，佛山南飞雁负责人何晓波也被警方以涉嫌“财务侵占罪”强行带走。</p>
+<p>广东多个劳工NGO组织突然遭到警方“扫荡”。12月3日上午，多名警察来到位于广州番禺区的海哥劳工服务部（原广东劳维律师事务所工人培训部），当时在服务部办公室内工作的宾雪、何兵以及两名到访的工友黄冬梅、成能文被警察带走。另一名员工邓小明也在返回办公室后遭到控制。与此同时，“番禺打工族”、“向阳花女工中心”的负责人及员工曾飞扬、朱小梅、骆红梅、彭家勇等4人失去联系。</p>
+<p>本台记者当天下午2点多接通海哥劳工服务部主任陈辉海的电话时，对方告诉记者他目前躲藏在一间酒店内，但预料很快也会被警方带走。陈辉海说，上个月他突然被限制出境，相信此次打压行动针对整个劳工NGO群体。</p>
+<p>陈辉海：“半个小时前才确定，他们是撒开大网全部抓捕，我们4个办公室的（员工）全部被控。虽然我今天中午由于去区政府拿些工商资料侥幸走出，但是我估计我也走不了。我目前虽然躲在一个酒店里面，但他们的那种监控设备，我是躲不了的。刚才他们已经明确通知要带我走，已经明确地叫我：你不需要走，你也走不了。”</p>
+<p>记者：“他们是派出所还是公安局的？”</p>
+<p>陈辉海：“公安分局，市里面的。刚才跟我联系的是市公安局的，已经是很高级别。”</p>
+<p>记者：“他们之前有没有过比如登门查一些东西之类的行为？”</p>
+<p>陈辉海：“没有。我办公室在4月份曾经被那样，后来就没有。4月份曾经我支持个案的时候叫我要怎么怎么样，后来就没有了。但是今天突然间（抓人），连在场的工友也全部带走。可能大面积下来的，包括我从来没被限制出境，上个月也限制我出境了，本来我去加拿大的，以前从来没限制过。这次看起来就是全风暴。我估计我这次很大可能要（被关）半个月。”</p>
+<p>记者：“就是针对劳工维权NGO进行的行动。”</p>
+<p>陈辉海：“对，针对劳工维权。我可以承受这个压力，但可惜辛苦了我的工作人员跟工友，还有可能一些资料、电脑主机等等被他们搬走。”</p>
+<p>一个小时后，记者再次拨打陈辉海的手机时，提示电话已关机。另几名劳工维权人士的手机不是同样提示关机就是处于无人接听的状态。</p>
+<p>记者转而致电富华派出所，对方承认宾雪等人确实在派出所内，但拒绝在电话中透露抓捕原因及何时放人，在记者追问之下，对方表示实施抓捕行动的不是派出所，让记者询问刑警大队及国保大队。</p>
+<p>记者：“我想问下海哥劳工服务部的两个职员叫宾雪、何兵，还有另外两个工人，他们现在是不是在派出所这儿？”</p>
+<p>对方：“对啊。”</p>
+<p>记者：“为什么要把他们带到派出所呢，他们有什么问题吗？”</p>
+<p>对方：“电话里面我不能跟你说的。”</p>
+<p>记者：“什么时候可以把他们放回去？”</p>
+<p>对方：“也不可以跟你说的。”</p>
+<p>记者：“因为这个海哥劳工服务部并没有做什么事情，只是在帮助大家维权，为什么要这样做呢？”</p>
+<p>对方：“这个都不是我们抓的。”</p>
+<p>记者：“人不是你们抓的？”</p>
+<p>对方：“对啊，你要问的话问下刑警大队和国保大队。”</p>
+<p>其后，宾雪等4人发布消息说，他们在派出所内做完笔录已获释。不过，其余失联的劳维人士仍下落不明。</p>
+<p>至当天下午4点30分，再传来消息，佛山劳工NGO南飞雁的负责人何晓波被警方以涉嫌“财务侵占罪”强行带走。</p>
+<p>在中国，劳工NGO的处境一直十分艰难。近年来，由于珠三角倒闭潮的来临，大量工人加入了维权行列，而劳工NGO由于经常协助工人与资方、政府展开三方集体谈判，提供法律意见，也因此与地方政府的矛盾愈演愈烈。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E4%B8%9C%E5%8A%B3%E5%B7%A5ngo%E9%81%AD%E8%AD%A6%E6%96%B9%E6%89%AB%E8%8D%A1-%E5%A4%9A%E5%90%8D%E5%8A%B3%E7%BB%B4%E4%BA%BA%E5%A3%AB%E8%A2%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">劳工维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/?category=18271" rel="tag">境外NGO法案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">罢工</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BB%95%E9%80%94-%E7%BE%8E%E5%AE%A3%E9%83%A8%E7%BB%99%E3%80%8A%E7%81%AB%E6%98%9F%E6%95%91%E6%8F%B4%E3%80%8B%E7%9A%84%E5%AE%A1%E7%89%87%E6%84%8F%E8%A7%81/" target="cdt-mirror">仕途 | 美宣部给《火星救援》的审片意见</a>
+</h2>
+<p><p>二十世纪福克斯公司负责人：</p>
+<p>根据群众意见，你单位拍摄的电影《火星救援》存在比较大的导向性问题。</p>
+<p>具体表现在：</p>
+<p>导演斯科特是英国人，美国是一个历史短暂的文明新国，美国人民不堪忍受英国的殖民统治独立出来，独立后又曾经和英国交战，英国人更曾经火烧白宫，英殖民主义亡我之心从没消停。</p>
+<p>把一个讴歌爱国主义、英雄主义的主旋律影片交给一个外籍导演，这存在风险。</p>
+<p>此外，斯科特曾经拍摄过《天国王朝》，描绘中东地区的战争，导致了少数民族群众的强烈不满。</p>
+<p>他在此前拍摄的《黑鹰坠落》，浓墨重彩的描绘局部的战斗失败，全然不顾三角洲部队指战员勇猛作战，杀死杀伤匪徒多人的事迹，从片名到情节，充满了失败主义气质，此外描绘了联合国军队抛下我军指战员自己跑路的情景，引发了外交抗议。</p>
+<p>时任总统克林顿曾经反复强调：</p>
+<p>黑鹰坠落事件，成绩是主要的，伤亡是次要的，这是十个指头和一个指头的关系。境外势力利用电影来炒作，是非常令人发指的。</p>
+<p>综上所述，斯科特是个有历史问题的导演，不许雇佣、提及此人。</p>
+<p>责令你单位立刻解除和斯科特的后续合同，保证本国导演执导的影片中占到90%以上。这件事的发布上不自己发稿，用美联社通稿。</p>
+<p>此外福克斯电影公司属于副部级企业的新闻集团，福克斯下属电影项目导演应该比照副处级干部看待，斯科特今年78岁，早已经过了处级干部55岁退二线的年龄线，违反了奥巴马同志《向脸书公司学习，企业干部也应当年轻化》中提到的精神，现责令你单位明年45岁以下的年轻导演执导的影片应该超过50%，60岁以上的导演只允许以顾问形式出现。</p>
+<p>同时，马特·达蒙也有严重的政治问题，就在去年他扮演了为了活命把人类坑到冰山上的一个黑心博士，根据美国菲林局2012年的文件精神，“扮演过反派、叛徒的人，原则上三年内不许扮演英雄人物。”</p>
+<p>电影内容问题也很多，比如：</p>
+<p><strong>错误</strong></p>
+<p>大肆渲染火星的沙尘暴，试图动摇国家航天局（NASA）探索火星的决心。事实上火星空气稀薄，根本不可能有那么大的沙尘暴，编剧可能被一小撮公共知识分子误导甚至合谋。</p>
+<p>描绘火星登陆器会被刮风吹倒，遭到了NASA的强烈抗议，事实上这类登录器根本不会被吹倒。</p>
+<p><strong>修改</strong></p>
+<p>将沙尘暴改成蛾国特工的破坏，一群敌人妄图推倒登录器，马可和他们展开了殊死的搏斗，但被天线扎伤，刘易斯指挥官点燃了登录器烧死了敌人，但马可生死不明。</p>
+<p><strong>错误</strong></p>
+<p>马可吃土豆，容易让人联想到蛾国人，玉米是美国的第一作物。</p>
+<p><strong>修改</strong></p>
+<p>让马可种玉米，经过微波炉烹饪之后带着大批爆米花上路去跟阿瑞斯4号会合。</p>
+<p><strong>错误</strong></p>
+<p>用大便种地一段低级庸俗。尤其是马可闻了战友的大便之后龇牙咧嘴的表情非常低级趣味。而文艺是要塑造人的，尤其科幻片应该鼓励他们对科学的爱好，不能传递这样不雅的价值观。</p>
+<p><strong>修改</strong></p>
+<p>改为牛粪。马可背着筐到街上捡粪，满足了生产生活的需要。</p>
+<p><strong>错误</strong></p>
+<p>影片中NASA的主管是泰迪，历史上NASA从来没有一位叫NASA的负责人。影片失实。将一位副部级的领导描绘成没有担当的人，已经造成了严重的政治事件。</p>
+<p><strong>修改</strong></p>
+<p>将NASA标志全部修改或者用马赛克修改成NASHA。</p>
+<p><strong>错误</strong></p>
+<p>贝克和约翰森谈恋爱。NASA一贯高度重视广大航天员的情感需求，但又保持了“不许谈恋爱”的铁律，这是对广大航天员的侮辱。</p>
+<p><strong>修改</strong></p>
+<p>建议和编剧解除合同，同时将贝克和约翰森描绘成田纳西州的老乡和表兄妹。</p>
+<p><strong>错误</strong></p>
+<p>马可烧了马丁内兹的十字架引火。</p>
+<p><strong>修改</strong></p>
+<p>注意民族宗教团结问题，让马可出去外面捡树叶引火。</p>
+<p><strong>错误</strong></p>
+<p>中国航天局局长郭明是个老头。接到中国同行澄清，他们没有老头局长，也不姓郭。</p>
+<p><strong>修改</strong></p>
+<p>改成中国的一家食品生产厂家 shaxian。他们只提供了拌面和卤蛋。</p>
+<p><strong>错误</strong></p>
+<p>着力刻画火箭发射失败，显示美国科研工作者的无能和领导的瞎指挥。</p>
+<p><strong>修改</strong></p>
+<p>要求火箭发射没有失败，建议去掉运送给养一段，可以让机组人员回来的时候吃青稞。咬牛膝盖骨、也可以让刘易斯指挥官钓鱼。</p>
+<p><strong>错误</strong></p>
+<p>马可被要求拆掉了顶棚、座椅、坐敞篷飞船飞向太空。</p>
+<p><strong>修改</strong></p>
+<p>考虑剧情需要，可以拆，但是要让马可拆的时候边拆边哭。要对祖国人民有感情，一扇门，一扇窗，含着热泪绣星条旗的感觉要出来。</p>
+<p><strong>综合意见：</strong></p>
+<p>在接到群众投诉之后，局领导高度重视，认真审读了这部电影。</p>
+<p>这部电影政治敏感性极低，误入了英国导演的圈套，贬低了美国航天人可歌可泣的事业，导致了这部电影思想性艺术性不高。</p>
+<p>建议开除编剧。</p>
+<p>福克斯公司总编剧给予戒眠谈话，三年不得主持主旋律影片拍摄。</p>
+<p>取消该片百葩奖评选资格。</p>
+<p>NASA戏题材一定要但是要提交对方审查，实行一把手负责制，尽量避免“休斯顿神剧”的出现。</p>
+<p>各单位要强调政治家拍片的理念，狠抓落实、责任到人。</p>
+<p>希望广大电影公司以此为戒，进一步加强内部管理，坚持把社会效益放在首位、社会效益和经济效益相统一的原则，积极履行电影讲故事、教育人的社会责任，确保舆论导向正确。</p>
+<p>还有你们的名字也不好，要多面向未来嘛，现在已经是二十一世纪了。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BB%95%E9%80%94-%E7%BE%8E%E5%AE%A3%E9%83%A8%E7%BB%99%E3%80%8A%E7%81%AB%E6%98%9F%E6%95%91%E6%8F%B4%E3%80%8B%E7%9A%84%E5%AE%A1%E7%89%87%E6%84%8F%E8%A7%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E7%A9%BA/?category=18271" rel="tag">太空</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E6%98%9F%E6%95%91%E6%8F%B4/?category=18271" rel="tag">火星救援</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%AE%9E%E9%BB%91%E5%AE%A2%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%B0%E6%8D%AE%E5%BA%93-%E7%A7%B0%E6%98%AF/" target="cdt-mirror">美国之音｜中国证实黑客袭击美国政府数据库 称是犯罪分子所为</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/18EAE497-4572-44ED-870A-98F7A9938F8C_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/18EAE497-4572-44ED-870A-98F7A9938F8C_w640_r1_s.jpg" alt="美国司法部长林奇（中）以及国土安全部部长约翰逊（右）欢迎中国公安部部长郭声琨(左)参观美国司法部 （2015年12月1日）" width="640" height="360"></a><p>美国司法部长林奇（中）以及国土安全部部长约翰逊（右）欢迎中国公安部部长郭声琨(左)参观美国司法部 （2015年12月1日）</p></div>
+<p>北京—中国首次承认针对美国政府数据库的一次大规模袭击是中国黑客所为，但否认这是政府支持的行动。中国官媒称这一事件是本周中美高层网络安全对话的几个话题之一。</p>
+<p>这一消息是新华社报道本周会谈时顺便提到的。这篇报道没有提供更多有关黑客的细节，也没有说他们是否被逮捕了。</p>
+<p>这篇报道说，通过调查，这一事件证实是犯罪行为，而不是美方之前怀疑的由政府支持的网络攻击。</p>
+<p>据《华盛顿邮报》本周的一篇报道，中国表示就在习近平9月访美之前不久，一批与此事件有关的黑客已经被逮捕了。</p>
+<p>报道还说，被逮捕的黑客的身份还不明确，也不知道他们是否与中国政府有关。</p>
+<p>针对美国联邦人事管理局(OPM)的黑客袭击导致近2千2百万在职和退休联邦雇员、求职者及其家人的个人信息大规模失窃。这些敏感内容包含当局对员工的安全审查信息。</p>
+<p>美国官员已表示，他们还没有发现任何已通过安全审查的人员的人事资料被用于犯罪目的。</p>
+<p>针对《华盛顿邮报》的有关中国逮捕OPM黑客的报道，中国外交部发言人华春莹星期四在北京的例行记者会上说：“我没有这方面的信息。”</p>
+<p><strong>来自中国的网络攻击</strong></p>
+<p>咨询集团RGI的创始人鲍勃·福诺说，声称袭击是犯罪分子所为对中国来说很方便，但最终人们很难知道究竟是谁指使了这些袭击，不过，很明显的是，中国政府变得越来越在意美国的关注。</p>
+<p>证实黑客是中国人，这“是一次向美国显示中国努力处理这一问题的尝试，让美国明白谁是袭击者，他们为什么袭击。”</p>
+<p>福诺说，跟世界许多其他国家一样，中国的黑客袭击对象包括军事和外交目标。</p>
+<p>他说：“还有一类黑客袭击失去了控制，这种失控的黑客袭击是政府试图更好地了解并加以预防的。”</p>
+<p>在本周华盛顿举行的会议上，中美双方代表同意加强沟通，打击网络犯罪和其他恶意网络行为。</p>
+<p>根据美国司法部的一份声明，美国司法部长林奇、国土安全部部长约翰逊与中国公安部部长郭声琨在一次会议上达成了共识。</p>
+<p>双方也同意在明年春天共同举行“桌面推演”。这种演练包含一些场景，帮助双方了解如何回应袭击。</p>
+<p>中美两国还同意明年6月在北京举行新一轮会谈。</p>
+<p>中国公安部说，协议将对联合加强网络安全带来重要影响。周三发布的会议声明也指出，中美双方将继续坦诚交换意见，有建设性地处理争端，以建立更多打击网络犯罪方面的合作。</p>
+<p>在声明中，双方政府都提到，会议讨论了具体案件的调查进展，但没有给出细节。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%AE%9E%E9%BB%91%E5%AE%A2%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%B0%E6%8D%AE%E5%BA%93-%E7%A7%B0%E6%98%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%86%9B/?category=18271" rel="tag">中国网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%98/?category=18271" rel="tag">网络战</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%A5%97%E8%AF%9D%E5%A4%A7%E5%85%A8/" target="cdt-mirror">【立此存照】考研政治套话大全</a>
+</h2>
+<p><p><strong>【编者注】该微博收到的2千多条评论中，虽然多为调侃甚至嘲讽，但确也有不少真爱国言论。中国的<span><span>全国硕士研究生入学统一考试中包含所谓的“思想政治理论考试”，由五个部分组成：马克思主义基本原理概论、毛泽东思想和中国特色社会主义理论体系概论、中国近现代史纲要、思想道德修养与法律基础、形势与政策以及当代世界经济与政治。</span>不少近期在准备考研的网民表示，微博中的精神状态是考研政治内容看多后的真实写照。</span></strong></p>
+<blockquote><p><strong><a href="http://weibo.com/5119219312/D6sjIparu">@1ill</a></strong>：我就是喜欢你看不惯我 却不得不和我一同建设中国特色社会主义的样子</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%94%BF%E6%B2%BB%E6%BB%A1%E5%88%86.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%94%BF%E6%B2%BB%E6%BB%A1%E5%88%86.png" alt="政治满分" width="500" height=""></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2419922131" target="_blank">我叫邹文文-</a><i title="微博达人"></i>：楼主你是不是考研党<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我自从看了政治后天天说话就这个调子</p>
+<p>@M大王叫我来巡山：别低头，GDP会掉；别流泪，资本主义会笑</p>
+<p>@洋葱日报社: 我怕三十晚上的祝福太多，您会不在意我的问候；我怕初一早上的鞭炮太吵，您会听不到我的祝福 ，所以选择现在这个时候给您送来祝福，祝您全家早日实现中国梦。</p>
+<p>@夏影:你我之间本无缘分，全靠党的章程死撑</p>
+<p>@李铁根: “如果非要给这个爱加个期限，我希望是社会主义初级阶段”……</p>
+<p>@叫兽易小星:今天你对我爱搭不理，明天你跟我一起建设社会主义</p>
+<p>@眼睛长在屁股上: 自己选择的主义跪着也要发展</p>
+<p>@精分君：不要问我，跟我做代理，能挣多少。当你问这句话的时候，你的思想还停留在尊重资本和财产为个人所有，任何人都不得非法侵占的以私有制为最重要最主要内容的资本主义阶段。</p>
+<p><a href="http://weibo.com/5605833331" target="_blank">田北七的小粉絲er</a>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">別反駁。腦袋要掉。</p>
+<p><a href="http://weibo.com/n/%E9%9E%AD%E9%9E%AD%E4%BA%8E%E7%99%BD%E6%B0%B4?from=feed&loc=at" target="_blank">鞭鞭于白水</a>: 你爱或者不爱我，社会主义就在那里<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/3639309720" target="_blank">致俄耳甫斯十四行</a>：就是喜欢见到你掐不死我还得和我一起熟记马列主义毛泽东思想、社会主义本质的模样。<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2195883370" target="_blank">工藤新源</a>：别在我的坟前哭 我怕你脏了我全面建设小康社会的路<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/5621311358" target="_blank">MINE蜀黍</a>：很好，你努力建设社会主义的样子成功引起了我的注意<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/menmenbumen" target="_blank">闷闷不闷</a>：社会主义下的泡沫，是彩色的。就像被骗的我，是幸福的。全都是泡沫，是一刹的花火，共产主义承诺，全部都太脆弱！<img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"></p>
+<p>@一颗象牙：你可以抛下我、离开我、忘了我，但请不要忘记社会主义核心价值观</p>
+<p>@不愿意透露姓名的麦扣儿：你住的城市下雨了，很想问你有没有践行社会主义核心价值观。可是我忍住了，因为我怕你说没有，而我又无法不举起中国特色社会主义的伟大旗帜。就像是我爱你，却给不到你想要的资本主义。</p>
+<p>@靳待楼东：我要和你一起去看雪看月亮，从坚持发展中国特色社会主义谈到如何实现中华民族伟大的中国梦。</p>
+<p>@王炸特辣重庆小串：想和你谈一场弘扬社会主义正能量的恋爱，你却让我好好的做自己的中国梦。</p>
+<p>@真小理欣仪：我抽烟，打架，喝酒，纹身，但是我知道我是一个会背社会主义核心价值观的好女孩</p>
+<p>@你怎么知道朕是皇帝：为什么我的眼里常含泪水，因为我是共产主义接班人</p>
+<p>@王小叶儿film：紫薇：“她说你们一起构建社会主义和谐社会，从三个代表谈到共产主义，我都没有和你一起构建社会主义和谐社会，从三个代表谈到共产主义。”尔康：“都是我的错，我不该和她一起构建社会主义和谐社会，从三个代表谈到共产主义，我答应你今后只和你一起构建社会主义和谐社会，从三个代表谈到共产主义。”</p>
+<p>@突出一个55开: 你会不会突然的出现，考我社会主义核心价值观</p>
+<p>@C弥生：哼，有什么可高傲的，我们不一样是在社会主义初级阶段么</p>
+<p>@志宇wangg：为 了集中精力全面建成小康社会、全面深化改革、全面依法治国、全面从严治党~我决定和你分手！</p>
+<p>@鹅槑子嘤嘤嘤：真的，我们考研狗都这么说话</p>
+<p><strong>附：传说中的原作者</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6706c589jw1eynofg13a7j20ez0qo0v2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6706c589jw1eynofg13a7j20ez0qo0v2.jpg" alt="6706c589jw1eynofg13a7j20ez0qo0v2" width="400" height=""></a></p>
+<p>以下截屏来自新浪用户@我的极品评论：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz7u7xpj20k00g20u7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz7u7xpj20k00g20u7.jpg" alt="5e5c90e3gw1eynmz7u7xpj20k00g20u7" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz8s3psj20k00fadha.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz8s3psj20k00fadha.jpg" alt="5e5c90e3gw1eynmz8s3psj20k00fadha" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzd30poj20k00gdwg1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzd30poj20k00gdwg1.jpg" alt="5e5c90e3gw1eynmzd30poj20k00gdwg1" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmztucaoj20k00g5jt7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmztucaoj20k00g5jt7.jpg" alt="5e5c90e3gw1eynmztucaoj20k00g5jt7" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzw0m35j20k00hfq4o.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzw0m35j20k00hfq4o.jpg" alt="5e5c90e3gw1eynmzw0m35j20k00hfq4o" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzxpssvj20k00f3myp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzxpssvj20k00f3myp.jpg" alt="5e5c90e3gw1eynmzxpssvj20k00f3myp" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn00iff3j20k00y5wih.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn00iff3j20k00y5wih.jpg" alt="5e5c90e3gw1eynn00iff3j20k00y5wih" width="425" height="768"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn02lm2qj20k00wu0wa.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn02lm2qj20k00wu0wa.jpg" alt="5e5c90e3gw1eynn02lm2qj20k00wu0wa" width="425" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%A5%97%E8%AF%9D%E5%A4%A7%E5%85%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E8%AF%BE/?category=18271" rel="tag">思想政治课</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E6%9D%90/?category=18271" rel="tag">洗脑教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E7%A0%94/?category=18271" rel="tag">考研</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%80%81%E5%BC%9F%E5%95%86%E6%A6%B7/" target="cdt-mirror">苹果日报｜罗宇：与习近平老弟商榷</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/01/20sino-xi-articleLarge.jpg" alt="中国国家主席习近平" width="600" height="382"><p>中国国家主席习近平</p></div>
@@ -480,125 +661,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%9B%BC%E7%9F%A5%EF%BD%9C%E9%9B%BE%E9%9C%BE%E9%87%8C%E7%9A%84%E4%B9%90%E8%A7%82%E5%92%8C%E7%8A%AC%E5%84%92/" target="cdt-mirror">曼知｜雾霾里的乐观和犬儒</a>
-</h2>
-<p><p>作者：徐贲：</p>
-<blockquote><p>“对现实生活中的苦难、不义和虚假装聋作哑，如果要为此寻找一个高尚的借口，那么犬儒主义是最理想的了”。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/60718250jw1eyk4atsgsqj20qe0hmn07.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/60718250jw1eyk4atsgsqj20qe0hmn07.jpg" alt="60718250jw1eyk4atsgsqj20qe0hmn07" width="440" height="294"></a><br>
-（图片来自网络）</p>
-<p>不久前，面对北京的重度雾霾，学者于丹说：“天昏地暗一座北京城，能做的就是尽量不出门，不去跟它较劲。关上门窗，尽量不让雾霾进到家里；打开空气净化器，尽量不让雾霾进到肺里；如果这都没用了，就只有凭自己的精神防护，不让雾霾进到心里。”用主观臆想来逃避生活中的坏事或灾祸，是一种常见的白日梦心态，也是一种不得已的自我保护。问题不在于于丹有常人的心理缺陷或自我保护需要，而在于，作为一位学者，她不该对此浑然不觉，更不该将此当作一种人生智慧来向世人炫耀。</p>
-<p>人在不断遇到坏事或遭受不幸时，认为事情“还不算太坏”、“坏事可以变好事”，或者甚至坚持“这本来就是好事”，如此逃避现实和保持过度的乐观，在社会心理学里叫“波利亚娜症”或“波利亚娜人格”（类似伏尔泰小说《老实人》里那位永远盲目乐观的哲学教师和鲁迅笔下的阿Q）。波利亚娜（Pollyanna）是美国作家波特（Eleanor H.Porter）1913年同名小说的主角，她是一个不幸的小女孩，因为失去双亲，被送到西部的亲戚处寄养。她从小没了母亲，父亲临终前嘱咐她要满怀希望，好好生活，并教给她一个“快乐游戏”。那就是，不管碰到什么糟心的事情，先想想它好的一面。父亲一死，波利亚娜立即就有了一个玩“快乐游戏”的机会。她想，父亲死了，去天堂与母亲相见了，死得真好，于是她心里充满了快乐，不再觉得悲伤。</p>
-<p>波利亚娜现象还被用来解释，为什么许多人总是把过去记忆得比实际上更为美好，这叫作记忆的“波利亚娜原则”。心理学研究发现，人的头脑在处理愉快的信息时比不愉快的信息更为积极，因此，对过去的回忆选择好的一面往往超过不好的一面。离过去的事件越久远，这种偏见就越明显。坏事发生时越能“往好处着想”的人，在事情过后也就越会对过去有正面的回忆。这种情况，在一些人对“文革”的美好回忆中相当明显地表现出来。</p>
-<p>像波利亚娜那样看待生活中的坏事是一种乐观主义，与之相反的不只有“悲观主义”，还有“犬儒主义”。但是，在特定的情况下，乐观主义也会转变为犬儒主义，乐观的犬儒主义或犬儒的乐观主义是一种最诡异、最病态的心理现象，不幸的是，这种心理疾病正发生在远不止于丹一个的知识分子身上。</p>
-<p>悲观主义认为，坏事发生了还会有更坏的事情要发生。犬儒主义则是根本不相信会有好事会发生。犬儒主义是从不信任人会有好的动机开始的，无论别人做了什么好事，犬儒主义都能找出好行为后面的坏动机。</p>
-<p>犬儒主义特别擅长“透过现象看本质”，能从任何良好的行为后面“洞察”不良的动机。谁要是对现实的坏事提批评意见，那就一定是在唱衰、抹黑、造谣、污蔑，一定有不可告人的动机。谁要是同意批评的意见，也同样会被看成是心术不正、心理阴暗，看不到光明的一面。这样，犬儒主义就会自动转而维护一些被批评的坏事，并对之表现出异乎寻常的同情和反常识的过度乐观。</p>
-<p>医学博士杰瑞米·提摩西（Jeremy Timothy）在《乐观主义与犬儒主义：哪个更不真实》一文中指出，“波利亚娜现象和犬儒主义的动机猜疑都会引向偏执……，有些人既是波利亚娜又是犬儒主义者。白日梦的乐观主义最后一定会走向犬儒主义。”犬儒主义的“坏事变好事”是一种精致的理论游戏，只有具备“思想能力”的精英人士才玩得起来（如雾霾的五大意外收获和防激光武器功能）。然而，正如学者迪克·凯耶斯（Dick Keyes）在《看穿犬儒主义》一书中所说，犬儒主义玩的是一种“道德冷漠”的游戏，“对现实生活中的苦难、不义和虚假装聋作哑，如果要为此寻找一个高尚的借口，那么犬儒主义是最理想的了”。犬儒主义能让一个人自以为见识超凡，与众不同，因此对众人改变生活世界的要求和努力嗤之以鼻，认为那不过是庸人自扰。这样的人“自己什么事都不做，却还有着道德上的优越感”，也正因为如此，他们才成为世人厌弃和嘲笑的对象。</p>
-<p>徐贲，著名学者，马萨诸塞大学文学博士，曾任教于苏州大学外文系，现任美国加州圣玛利学院英文系教授，代表作有《通往尊严的公共生活》、《什么是好的公共生活》、《怀疑的时代需要怎样的信仰》等。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%9B%BC%E7%9F%A5%EF%BD%9C%E9%9B%BE%E9%9C%BE%E9%87%8C%E7%9A%84%E4%B9%90%E8%A7%82%E5%92%8C%E7%8A%AC%E5%84%92/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E4%B8%B9/?category=18271" rel="tag">于丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%AC%E5%84%92%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">犬儒主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">雾霾危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E9%9B%BE%E9%9C%BE%E4%B8%8D%E4%BC%9A%E8%AE%B2%E6%94%BF%E6%B2%BB/" target="cdt-mirror">六神磊磊：雾霾不会讲政治</a>
-</h2>
-<p><p>【编者注】这是六神磊磊去年的旧作，近日在其微信公号（ID：dujinyong6）内再次推送时被和谐。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2013/02/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2013/02/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE.jpg" alt="巴丢草：喂人民服雾" width="400" height="550"></a><br><em>（“喂人民服雾” by 巴丢草；数字时代配图）</em></p>
-<p><strong>文/六神磊磊</strong></p>
-<p><strong>一</strong></p>
-<p>有一个冷笑话：黄药师上北京，打一个《射雕》里的名词，答案是东邪西毒（吸毒）。</p>
-<p>我们有一条法则，它不载于任何法典，却又实实在在地存在；它没有任何具体内容，但每个人却又奇妙地都懂。这条法则叫做讲政治。</p>
-<p>它就像姜子牙请来的三光神水罩，牢牢保护着西岐城。有了它在，对于一些还不太完美的现实，例如雾霾，我们就不便出格地反对，因为不完美的永远是支流，是局部，是暂时。</p>
-<p>它告诉我们，上面需要试错的空间，需要缓慢地改进的余地。</p>
-<p>它告诉我们事物发展是前进行和曲折性的统一，我们不能老做“抠脚藓”般吹毛求疵的事。</p>
-<p>然而百密一疏，我们忘了一点，老天爷不会讲政治。</p>
-<p>老天爷不管什么主流和支流，也不顾什么大局和小局，更不讲什么负能量和正能量。他只会把一些不完美的事情，粗鲁地、赤裸裸地暴露给你看。</p>
-<p>你敢搞他，他就搞你。你让它长杨梅疮，哪怕你非说只是碗口大一个，和整个下身的肌肤比起来只是局部，它也敢把底裤脱到底。</p>
-<p>尔能欺人，不能欺天。</p>
-<p><strong>二</strong></p>
-<p>其实我一直觉得，讲政治这种提法，从某种意义上说不如“忠于领袖”的提法好。</p>
-<p>讲政治的本意是要让人忠诚，而且措辞更含蓄，显得不那么赤果果，这是优点。但正是由于它语义模糊，在实际操作中，它有三个方面的问题，反而未必有利于培养忠臣。</p>
-<p>一是它容易诱导人们见风使舵。比如东方不败在位时，讲政治就是紧跟东方不败；任我行上台后，讲政治又变成了揭发东方不败。如果有一个人能通过这些考验，你说他会是个忠臣呢，还是个滑头？它产生的导向示范作用，会是引导大家要做忠臣呢，还是做滑头？</p>
-<p>二是它容易被豪强窃用，反而分裂中枢。比如在明教里，教主张无忌可以要求属下讲政治，法王殷天正也可以要求属下讲政治，但前者的政治是效忠教主，后者的政治就变成了效忠法王。一件重要的名器，却不能唯上者所专，便隐藏了危险。</p>
-<p>三是这个词儿仍然有一丝理性的成分，有被坏蛋们利用的可能。左冷禅固然可以用这个词儿弹压刘正风，但刘正风也可以反过来用这个词儿反对左冷禅。比如刘正风可以说：“我认为五岳剑派同气连枝、不搞内斗是最大的政治。”左冷禅还真不好反驳。</p>
-<p>越是好的口号，就越必须指向明确、权属清晰，要简单有力，理性成分必须越少越好。比如讲“要爱教，要懂事”，就不如“誓死效忠东方教主”；讲“时刻保持清醒，一心奉献星宿”就不如“星宿老仙，法力无边”。</p>
-<p>如果扭捏地采用前一种口号，一旦风云突变，全教将无一人是男儿；相比之下，不如干脆采用后一种口号，倒说不定真能培养出一批赤胆忠臣。</p>
-<p><strong>三</strong></p>
-<p>回到雾霾的事情上，同样地，我们大家都知道要讲政治，我们都理解雾霾是历史原因、现实原因、客观原因、综合原因造成的，我们应该多传播正能量，要多关注有司采取的积极举措，等等。</p>
-<p>但这无法解决一个问题：老天爷不讲政治，怎么办？</p>
-<p>有老天爷当出头鸟，于是禁忌就打破了，大家窃窃私语者有之，借题发挥者有之，挟洋自重者有之，一片负能量。</p>
-<p>倒不如直接采用简单一点的口号，比如“刀枪不入、百毒不侵”“老天爷不讲政治，但我们讲忠心”之类，禁忌便永远不会打破，效果反而好得多。</p>
-<p>你看我们和东北边的隔壁邻居，我们讲政治，他们讲忠心，几十年过去，反差就出来了：</p>
-<p>我们什么都比他们强，我们有底气和他比经济、比文化、比外交、比胖子数量，比任何一种东西，但我们敢和他比忠臣么？</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E9%9B%BE%E9%9C%BE%E4%B8%8D%E4%BC%9A%E8%AE%B2%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">讲政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%EF%BC%9A%E9%AA%97%E6%88%91%E5%8F%AF%E4%BB%A5%EF%BC%81%E8%AF%B7%E6%B3%A8%E6%84%8F%E6%AC%A1%E6%95%B0%EF%BC%81/" target="cdt-mirror">999急救事件当事人：骗我可以！请注意次数！</a>
-</h2>
-<p><blockquote><p><strong><a href="http://weibo.com/1907166177/D6rA80Pry">@一个有点理想的记者</a></strong> ：声明：央视新闻中称，北京红十字会邀请第三方专家，对本人整个诊疗过程调查后认为完全符合医疗规定。经网友提醒，这位名为首都医科大学外科学术委员的樊有炜教授，竟然另一个身份是北京红十字会999急救专家。对于公众如此关注的事件，发表“客观”说法的竟然是自家人。骗我可以！请注意次数！</p>
-<p><strong><a href="http://weibo.com/1907166177/D6sfB7fXH">@一个有点理想的记者</a></strong>：这就是受北京市红十字会邀请，以“第三方”身份来调查的樊有炜教授。我悲愤的不能自已！这是全国公众关注的事件！这是关系到性命攸关的急救体系改革的事件！赔偿我与否不重要，但是明晃晃的自家人穿马甲来误导公众，作为一名医生，你对得起那一个个急救车里曾经鲜活的生命吗？<a href="http://t.cn/RUDa9nJ">秒拍视频</a></p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykhsmjfb1j218g0xcwoh.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykhsmjfb1j218g0xcwoh.jpg" alt="71ad0be1jw1eykhsmjfb1j218g0xcwoh" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpsjsz6j20f70ev761.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpsjsz6j20f70ev761.jpg" alt="71ad0be1jw1eykkpsjsz6j20f70ev761" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpu5rprj20k00zk44n.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/71ad0be1jw1eykkpu5rprj20k00zk44n.jpg" alt="71ad0be1jw1eykkpu5rprj20k00zk44n" width="375" height=""></a></p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6/">999急救事件</a>专题</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@王志安: 樊教授如果同时是999的专家，以第三方的身份接受采访就是一种欺骗行为。需要指出的是，真正的第三方不该由999邀请，999自己邀请就不叫第三方。建议卫计委同时查查这种伪造第三方欺骗公众的行为。</p>
-<p><a href="http://weibo.com/3032382280" target="_blank">泗亚乐Sylzy</a>：【通过细节看倾向】此人在表述中说患者在”我们”这里待了2个小时……(一句”我们”就可看出倾向，他和红+字会999的关系<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]">)另外为什么是受999之托，去调查999的问题？？？说实在的同系统之间都有默契，你懂的！</p>
-<p><a href="http://weibo.com/2092113653" target="_blank">MMS快到锅里去</a>：红十？哈哈哈哈哈哈哈，世界上有红十，但中国，只有红<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8cb3.png" alt="" width="20px" height="20px">或者黑十</p>
-<p>@梁博益：骗我一次算你狠，骗我两次算我蠢</p>
-<p>@油爆枇杷伴着面：说什么不该止疼这些其实都没错的东西纯粹是为了转移其不就近转送对急腹症处理不当的视线。别被他们牵着鼻子走。就死咬住严重的急腹症不为什么不就近。</p>
-<p>@带Ai前行：央视够脑残，洗地又洗出个洞来了。</p>
-<p>@关小刀：老老实实认错多好，越抹越黑，越圆越谎</p>
-<p>@百不：真正的欺骗行为是央视吧！帮洗地都洗不干净，很多人都替你们说了，找个人假惺惺认个错都不会……简直没没救了！</p>
-<p>@Jim-min：红X会再出晕招。以现在的网络系统，要查个专家就那么几秒的事情。估计独立第三方的医疗专家不认可他们的行为，所以无奈的把这些不合格的专家拉出来了。</p>
-<p>@歌本哈根迷雾：这不能怪999急救中心，人家认为自己的儿子也是第三方</p>
-<p>@求仁得仁：这就是耍流氓。一个堂而皇之的大型机构、事业单位，就这样低劣的品性与运营手法，还真是文革余孽，无法无天。</p>
-<p>@大漠刘：可以动用AV帮助洗地，十字就这么霸道！</p>
-<p>@微笑老戈说：拉来了病人全套CT，B超，多严重的病明明自己治不了，也不向上级医院转送，直接收到lCU病房，耽误你没商量，车祸外伤命大的活着出来的也不少，心梗脑梗错失最佳抢救时间的，死了只知道是自己病太重，他们已经尽力了，从进急诊中心的大门开始交钱死了请把人拉走，继续交钱，我们需要这样的急救收容吗</p>
-<p>@49吋屏：第一个专家的核心意思，没确定病情打止疼针不对，谁让你喊疼的？第二个专家的核心意思，送到999不送到其他医院当值医生说了算，即使中间有猫腻儿你们外人也不能说我违法。唉~~专门去看了看东方时空，真是醉了……刻意模糊焦点，妄图平息事态为红十字会洗地，这真的好吗？</p>
-<p>@海洋饼干3：还好雾霾重，多少可以遮掩些！</p>
-<p>@Hello辛同学：给大家讲个笑话，红十字会</p>
-<p>@小黄咖喱：这个演技不应该在医疗行业啊</p>
-<p>@bright飒：不是…这个演技我给95分，甩国内一众小花旦几百条街……999原则就是，我没错我没错我没错，你们酱做真的对得起你救死扶伤敬德修业的的医生工作么 p.s.那个，虽然我不想说，但是我们首医的官僚化气息也是相当的浓厚乌烟瘴气…</p>
-<p>@丁丁的丁丁被钉钉钉：这才是真正的“图样图森破”，认个错改个正难么？“自己就是正确的！”是马列主义？是毛泽东思想？是邓小平理论？是三个代表和科学发展观？还是你们999的中国梦？谁给你们的权利？谁指导你们这样工作？</p>
-<p>@老丿：我就说过，所谓强国梦，就是政府强大到可以为所欲为</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%EF%BC%9A%E9%AA%97%E6%88%91%E5%8F%AF%E4%BB%A5%EF%BC%81%E8%AF%B7%E6%B3%A8%E6%84%8F%E6%AC%A1%E6%95%B0%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/999%E6%80%A5%E6%95%91%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">999急救中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/999%E6%80%A5%E6%95%91%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">999急救事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E4%BC%9A/?category=18271" rel="tag">中国红会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A/?category=18271" rel="tag">红十字会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE%EF%BC%8C%E4%BD%95%E5%BF%85%E6%8F%90%E5%A4%B4%E6%9D%A5/" target="cdt-mirror">德国之声｜长平：“咱们的雾霾”，何必“提头来见”？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/10/BzjeiVvCIAAnhQ6.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/BzjeiVvCIAAnhQ6.jpg" alt="雾霾之蓝天去哪里了" width="585" height=""></a><br><em>（网络图片）</em></p>
-<p>记者在街头采访：“大妈，您觉得雾霾影响大吗？”受访者回答：“太大了！首先我是你大爷！”北京持续严重雾霾，PM2.5浓度高出世卫组织标准20多倍。两千多家企业暂时停产，学校暂停户外活动，30多次航班被取消。和往常一样，关于雾霾的各种笑话在社交媒体上传播。</p>
-<p>有外国人觉得奇怪，空气污染危害生命，此时此刻，北京人如何笑得出口，他们为什么不愤怒？提问者不明白，中共无论怎样失去治理雾霾的能力，也都还能收拾老百姓。忍受雾霾有可能若干年后慢慢死去，不忍受雾霾上街抗议可能立即就被关进监狱。</p>
-<p>不仅如此，一些北京老百姓尤其是经常举报明星吸毒的“朝阳区群众”，在浓雾中仍然眼睛雪亮，随时准备抓获不甘忍受雾霾的“敌对势力”。知名导演贾樟柯在微博透露：“去年拍环保广告，胡同里突然冲出几个大妈大爷，高声嚷嚷：‘他们在拍咱们的雾霾，快把摄像机扣下来。’”天昏地暗的浓雾中，有一些北京老年人仍然在朝阳公园跳“广场舞”。有人拍了下来，认为堪比恐怖片镜头。贾樟柯看到后，写下了这段回忆，感慨说：“也很恐怖”。</p>
-<p>“咱们的雾霾”，有人认为这句话说出了北京雾霾越来越严重，而且得不到治理的关键。雾霾再难受，那也是“咱们的雾霾”，不能让别有用心的人偷拍了去为难“咱们的领导”。无论尘雾把肺染得多么黑，他们仍然可以“一颗红心向着党”，信任中共领导人。</p>
-<p>只是他们没有想到，领导人治理雾霾的方法也是讲笑话。在这令人窒息的日子里，有人再一次想起了北京市长王安顺的郑重承诺：媒体曾经报道说，2013年9月，王安顺代表北京市政府和国务院签订责任状，立下“生死状”：北京治理PM2.5投入将高达7500亿，2017年治理不了就“提头来见”。</p>
-<p>今年年初雾霾严重的时候，这个豪言壮语就被人想起来。当时，《人民日报》帮助澄清说，王安顺表示，之前媒体报道的治不好霾“提头来见”，是一句玩笑话，只是表达治理大气的信心和决心。想必投入7500亿不是开玩笑。如今雾霾越来越浓污，那些钱也应该有一个交代了。</p>
-<p>治理承诺不如一阵风</p>
-<p>这不是人们第一次想起政府治理污染的承诺了。一年前的这个时候，有人发现一张1999年3月9日的《北京晚报》，头版头条大标题赫然写道：“绝不让污染的大气进入新世纪”。新华社大概忘了领导人也经常拿雾霾开玩笑，竟然发表了一篇评论《法治政府当一诺千金》，认为“这样的事情与法治政府的精神背道而驰，也不能让群众满意点赞”。评论还说，“今天的新闻，就是明天的历史；今天的承诺，不应变成明天的笑话。可历史证明，有的承诺到头来仍是空头支票一张，笑话一个。”这让人想到了上世纪四十年代，中共机关报《新华日报》关于民主、言论自由、联合政府、宪政民主的承诺。</p>
-<p>这并不是一个简单的联想，而是因为二者之间有紧密的联系。没有民主的监督机制，政府的承诺只能是一个玩笑，或者说一个笑话。“朝阳区群众”不仅不能也不愿监督“咱们的领导”，而且也不让外人拍摄来帮助监督。领导人再花钱不办事，那也是“咱们的领导”，不能让你们来监督。</p>
-<p>而且，王安顺的头并没有提在他自己手中，中国官场没有“引咎辞职”，除非领导要你走人。否则，那无意于逼迫领导自我检讨。真要能这样监督下去，中共的维稳武警就可以直接解散了。</p>
-<p>今天的《人民日报》再也不用急着为领导人辩护了，新华社也不敢说不兑现承诺就是历史的笑话了，宣传部门和网管部门统一行动：删。转眼间，“提头来见”删除殆尽。没有监督，就没有治理。媒体的微博已欣然报道：快起风啦！“咱们的雾霾”只能随风而去了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%92%B1%E4%BB%AC%E7%9A%84%E9%9B%BE%E9%9C%BE%EF%BC%8C%E4%BD%95%E5%BF%85%E6%8F%90%E5%A4%B4%E6%9D%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -610,7 +672,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -620,5 +682,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

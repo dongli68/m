@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%80%81%E5%BC%9F%E5%95%86%E6%A6%B7/" target="cdt-mirror">苹果日报｜罗宇：与习近平老弟商榷</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/01/20sino-xi-articleLarge.jpg" alt="中国国家主席习近平" width="600" height="382"><p>中国国家主席习近平</p></div>
+<p>习老弟，你当了最大的官，我仍称你为老弟，很多人说不合适。我则认为，如果你听得进去，中国在你的治下还有希望。</p>
+<p>我老爸和你老爸在战争年代没怎共过事。进城后，曾同在国务院当副总理，结为莫逆之交。你老爸文革后复出，我老爸已仙逝，你老爸和齐心阿姨（习近平母亲）仍来家中探视，问寒问暖。</p>
+<p>之后，齐心阿姨经常自己走着到我家来，约我母亲一起去人大会堂看戏。我经常给齐心阿姨开门，见了我母亲，总是那句话：他没时间，咱们俩一起去。直到八七年，你老爸反对整胡耀邦，被邓小平、杨尚昆定为“精神病”，软禁到深圳，我母亲每年去广东度寒，仍去探望你父母。</p>
+<p>九九年，你老爸被允许回京一次，摆了几桌，当官的一个没请，就请了一帮当权者不大理的老太太。餐桌上，耀邦的夫人李昭阿姨问我母亲：“你知道习老为什么被软禁在深圳？”我母亲答：“知道一点，不详细。”李昭说：“就是因为整耀邦时，习老跟薄一波拍了桌子。”</p>
+<p>遍地危机源于一党专政</p>
+<p>那时，薄一波和江泽民正勾结的火热，想方设法把薄熙来推上高位。现在你坐上大位，这个机会来之不易。因为专制体制没有接班机制，所以这里面有多少阴差阳错，你比我清楚。你首先成功粉碎了周（周永康）、薄（薄熙来）政变的阴谋。但反贪腐，你怎么反？全党都腐，无官不贪，你反贪，就是反党。常委里，一个支持你，一个中立，四个等着你垮台。</p>
+<p>你要真反腐，真想把一个腐败的中国共产党重新变成一个廉洁的为人民服务的党，像战争年代的中共，唯一的办法是有序的、逐步的民主化。今天的中国，遍地危机：信仰危机、道德危机、环境危机、经济危机、金融危机、教育危机、医疗危机、资源危机。总之，没有一方面没危机的。为什么？总祸根就是中共的一党专政。</p>
+<p>如何有序的、逐步的民主化？</p>
+<p>首先要解除报禁。你在联合国说：自由、民主、平等是人类共同的价值。中国人连说话的自由都没有，还谈什么自由、民主、平等。我的书在国内也不让出。《宪法》写明的权力，在国内都行不通，还谈什么依宪治国。你可千万不要说一套、做另一套。有了新闻自由，官就不敢贪了。纪委止不住贪，这已是实践证明了的真理。</p>
+<p>其次是解除党禁。只有允许反对党存在，中共才有可能重新变为廉洁。看看国民党，就有启示。</p>
+<p>第三是司法独立。中国有《宪法》，但无宪政。所有人办事都不遵守《宪法》。首先是中共办事不守法。文革、六四、镇压法轮功，都是中共带头违法。</p>
+<p>第四是选举，所有的官都得民选，哪还会容易有贪官？</p>
+<p>第五是军队国家化，军队不得参与政争。</p>
+<p>这五条是民主政体的基础，中共领导下的大陆一条没有，所以被称为独裁专制，是世界上最落后的反人民的政治制度。我们的老爸都是毛泽东农民革命的主要参与者，这个革命赶走了帝国主义，在中国历史上就站住了脚。但是革命成功后，没有建立民主政体，而是建立了一个专制政体。这就是毛泽东不如美国华盛顿的地方。</p>
+<p>我们都吃尽了专制政体的苦头，我们总应该比前辈进步。当今世界的主要矛盾，就是专制与民主的矛盾，中国大陆与民主世界格格不入，民主世界六四后制裁中国至今，就是因为中国是专制政体。六四是中国政府屠杀中国人民，邓小平可能认为，这和你民主世界有什么关系，这个关系就是你邓小平违反了民主理念，民主世界就制裁你。</p>
+<p>今天，四十岁以下的大陆人已经不大知道什么是六四了，只有香港和台湾的中国人还是年年纪念六四。民主世界对中国的制裁丝毫不松动。法国、英国、意大利、美国的军火商，一直想解除对中国的制裁，好跟中国的贪官做军火生意，民主世界就是不允。</p>
+<p>你访问美国，国内说这收获、那收获，可是你不会跟美国人谈解除制裁，因为你知道谈也没用。听说，你认为中国今天最大的危机是信仰和道德的危机。民主世界对中国的制裁就是表明了民主世界信仰和道德的力量。你反政变，有天时、地利、人和，成功了。但反腐，用现在的办法，肯定成功不了。因为全党都腐，无官不贪，谁和你一起反？</p>
+<p>本是同根生，兄弟情谊，可以说悄悄话。但专制体制下，没渠道，只好越洋喊话了。</p>
+<p>（注：现年71岁的罗宇，是解放军大将罗瑞卿次子，与习近平同属太子党。他曾任职解放军总参谋部，1988年授大校军衔。1989年出席法国航空展，因不满中共六四镇压逾期未归，1992年被江泽民颁令开除军籍党籍。罗宇早前在香港出版回忆录《告别总参谋部》，透露自己是香港艳星狄娜（梁帼馨）的最后一任丈夫。）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%80%81%E5%BC%9F%E5%95%86%E6%A6%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E5%AE%87/?category=18271" rel="tag">罗宇</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%AE%E6%80%9D%E5%AE%A2%EF%BD%9C%E5%BC%A0%E5%86%9B%EF%BC%9A%E7%A6%8F%E5%B1%B1%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/" target="cdt-mirror">微思客｜张军：福山讲座摘要</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg" alt="习近平亲民" width="500" height="395"></p>
+<p>福山今天在多大商学院就政治秩序和政治衰退（Political Order and Political Decay）做了一个45分钟的发言，还有30分钟左右的问答。</p>
+<p>他完全顺口说，几乎把整个世界都梳理一遍。确实脑子和嘴巴都比较好使。</p>
+<p>福山认为，西方的民主整体处于低潮和衰退（decay）之中。欧洲国家有的危机四伏，有的积重难返。当然部分北欧国家比如丹麦还是难得地有很好的平衡。美国的游说集团空前强大，两党的交叉共识空前稀薄，政治僵局时有发生，但暂时还不至于对经济产生太大影响。但是，有（西方）民主的替代品吗？</p>
+<p>他后来简短谈了三个可能的替代模式。</p>
+<p>第一是半神权的伊斯兰国家ISIS。这个显然对多数人没有吸引力也不具备可持续性，甚至是罪恶昭彰。</p>
+<p>第二个是普京的俄罗斯模式。表面上有选举，但控制权力的都是普京和他的朋党。无法节制腐败，也带不来好的经济发展。他问大家你有使用过任何俄罗斯制造的产品吗？显然俄罗斯模式也不会有光明的未来。</p>
+<p>他说最吸引人的恐怕是中国模式。在他的“国家、法治、民主”的三维分析框架里，中国有强大的国家，但后面两个支柱始终没有出现。</p>
+<p>他说，他的西方同事们很多都不了解中国在发生些什么事情。但是他自己经常去中国，每次都会看到新的高楼又拔地而起，北京又多了一条环路，等等。</p>
+<p>他说，中国实际上还是一种封建王朝的运行模式。中国现在擅长的事情也是中国过去250年所擅长的，那就是官僚集权、快速决策、大量投资（基础设施）。但是，政府的合法性危机事实上在日益加重。合法性都押宝在经济上，但经济也在严重滑坡。还在玩马列主义的意识形态，但对合法性全无帮助，因为没人相信。</p>
+<p>他私下说，今上上台后其实没干啥好事儿：政治上在开倒车，经济改革也停步不前。他说现在也许下结论还太早，但他很可能最终将被证明是一个糟糕的皇帝。他说即便你相信现在上面坐着个好皇帝，但是你这个体制有什么办法防止出现坏皇帝、或者说能一直保障好皇帝的供应呢？他自己的回答是：根本（还）没有办法。而且对他来说，这一点是这种体制最致命的问题。</p>
+<p>作者张军，任教于多伦多大学地理系。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%AE%E6%80%9D%E5%AE%A2%EF%BD%9C%E5%BC%A0%E5%86%9B%EF%BC%9A%E7%A6%8F%E5%B1%B1%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%8F%E5%B1%B1/?category=18271" rel="tag">福山</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E4%B8%A4%E7%8E%AF%E4%BF%9D%E5%BF%97%E6%84%BF%E8%80%85%E8%B5%B4%E5%AE%81%E5%BE%B7%E6%9F%A5%E6%B1%A1%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8C%87%E6%B6%89%E5%8D%96/" target="cdt-mirror">财新网｜两环保志愿者赴宁德查污被警方指涉“卖淫嫖娼”</a>
 </h2>
 <p><p>（记者 孔令钰）2015年12月3日早晨5点半左右，两名NGO组织的环保志愿者——自然大学的徐某（男）和天津绿领的田某（女），在福建省宁德市某宾馆被该市蕉城区警方带走，理由是“涉嫌卖淫嫖娼”。</p>
@@ -545,50 +599,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%84%E5%A2%83%E6%84%88%E5%8A%A0%E6%81%B6%E5%8A%A3-%E5%94%90%E5%A4%A9%E6%98%8A%E6%B7%B1%E5%9C%B3%E8%A2%AB%E7%A6%81/" target="cdt-mirror">自由亚洲 | 维权律师处境愈加恶劣 唐天昊深圳被禁出境</a>
-</h2>
-<p><p>被中国当局列入禁止出境“黑名单”的律师越来越多，著名维权律师唐天昊11月30日在深圳皇岗口岸以可能“危害国家安全”为由被禁止出境。</p>
-<p>中国大陆维权律师唐天昊11月30日在深圳皇岗口岸遭到出入境边检站以护照有问题为由进行拦截。警察口头告知称因其可能危害国家安全而拒绝其出境。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/f825abf1-42c7-4542-9b18-422fcf670adc.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/f825abf1-42c7-4542-9b18-422fcf670adc.jpeg" alt="f825abf1-42c7-4542-9b18-422fcf670adc" width="550" height="733"></a></p>
-<p>唐天昊律师接受本台采访时称，他将回到护照签发地重庆采取法律手段维护自己的合法权益，并强烈谴责公权的肆意违法。</p>
-<p>唐天昊：“昨天我是准备持护照落地签东南亚的一些国家，过皇岗口岸的时候，海关看到我的护照，他说我们要向上面请示一下，就把我带到了一个小隔间，禁用手机，有民警看着。后来又把我带到另外一个隔间，民警的领导说有些方面认为你出境可能会危害国家安全，我说哪些有关方面？他们不做任何回答。我会从重庆过边检再前往香港，如果不让我前往，我会在重庆提起相关的诉讼。”</p>
-<p>对此，多次参与声援维权律师行动的香港支联会副主席蔡耀昌告诉本台：“这完全侵害了中国公民的出入境自由，违反了国际公约。中国已经签署联合国的公民权利和政治权利国际公约，也应该遵守有关规定，包括公民的出入境自由，我们看到虽然中国有这样的法律可以禁止出入境，但是我们看不到任何事实上的限制受侵害的包括律师和其他公民的一些正当的理由，如果说他们出境会侵害国家安全，那是什么国家安全？可是完全没有这方面的资料。无论怎么说，官方这样的作法都是侵害人权，是违法的。</p>
-<p>据统计，自7月份以来，中国已有超过20名律师或律师的家属被以同样理由拒绝出境。</p>
-<p>对此，唐天昊表示：“我们所从事的这些工作在国内办理各类案件，我们都是依法依规在办理，从昨天到现在我一直在思考，我到底哪一点危害了这个国家的安全？之前如果有危害国家安全的行为，为什么刑事机关没有将我们进行拘押，也没有相关的警告？自由迁徙的权利受到了限制，或任何权利受到限制，我们都应该依照法律去维护我们的权利，否则人们的自由会受到更大的钳制，今天是迁徙的自由，明天可能连人与人之间小声的沟通的权利都会受到剥夺。公安部的领导、中央的这些领导应该思考这些问题，把我们的权利收归上去到底要干什么？这不就是在培植不满的情绪吗？”</p>
-<p>因不满当局滥用“边控”权力，13名中国维权律师上月12日联名在网上发表致北京市公安局的公开信，抗议其侵害律师自由旅行权利，要求撤销禁止他们出国旅行的禁令。</p>
-<p>对此，蔡耀昌接受本台采访时称，当局的目的一是防止律师出境向外界指责中国侵犯维权律师的人权，其二是威胁和恐吓维权律师噤声。</p>
-<p>蔡耀昌：“估计来讲，可能第一怕他们出去以后传达一些对中国政府不好的讯息，其实我想这些律师可能出去讲的话都是事实，就是中国政府在最近几个月对很多维权律师跟其他人士的拘捕迫害。对中国政府来讲，当然他们不希望有人向外面提起，当然我们觉得是毫无理由和毫无法律依据的；另外一个原因是以对这些人的行动自由的限制作为恐吓，要求他们不要再做一些官方不喜欢的事情。”</p>
-<p>据中国维权律师关注组的最新统计数据显示，截至2015年11月27日，中国内地至少307名律师、律所人员、人权捍卫者和家属被约谈、传唤、限制出境、软禁、监视居住、刑事拘留、逮捕或失踪。</p>
-<p>特约记者：忻霖   责编：吴晶</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%84%E5%A2%83%E6%84%88%E5%8A%A0%E6%81%B6%E5%8A%A3-%E5%94%90%E5%A4%A9%E6%98%8A%E6%B7%B1%E5%9C%B3%E8%A2%AB%E7%A6%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E5%A4%A9%E6%98%8A/?category=18271" rel="tag">唐天昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E5%A4%A9%E6%98%8A%E8%A2%AB%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/?category=18271" rel="tag">唐天昊被限制出境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%80%80%E6%98%8C/?category=18271" rel="tag">蔡耀昌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A/?category=18271" rel="tag">香港支联会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%A8%9F%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A2%93%E7%A2%91%E7%9A%84%E4%BA%94%E5%8D%81%E5%B9%B4%E6%97%B6%E5%85%89/" target="cdt-mirror">博谈网｜李娟：没有墓碑的五十年时光</a>
-</h2>
-<p><p>昨天去邮局取稿费。旁边有一个老人在寄信。我觉得好奇，这年头还有人寄信？探头一看，大吃一惊，信封上赫然写着：‌‌“请交北京市国务院李克强同志收 ‌‌”。另外两封一个是给习大大的，一个给春贤哥的。我赶紧提醒他，这信寄不出去，劝他放弃。可他好像听不懂似的。四川口音。我这才认真地打量了一下他， 发现是一个很老的老人，穿着单薄破旧的旧军装。我用四川话和他交流，很快他明白了我的意思，问我该怎么办。我看信封还没封，就抽出信纸看。是一张打印稿， 错字连篇，内容混乱，但其间悲哀难抑。信封上手写的字迹，虽然非常颤抖，却是规整的繁体字。内页为什么是打印稿呢？他说是他口诉，请打印店的人打的。大约是为了表示对领导人的尊敬。一封信只需一张邮票就够了，可他买了六张，大约为了保险起见……可是一切都将石沉大海。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5EUH3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5EUH3.jpg" alt="5EUH3" width="374" height="500"></a></p>
-<p>见我好奇，又能沟通，他像捞了一根救命稻草，说了很多。翻来覆去都是：‌‌“太伤心了……五十年啊……伤心得很……整整五十年。‌‌”</p>
-<p>信的内容混乱，大意是他所居住的村庄自然条件恶劣，土地少，一年一产，无霜期还极短，<strong>玉米也不能种</strong>（编者注：作者<a href="http://weibo.com/p/2304184c4bfedf0102wdio">更正</a>版，原文为“只能种玉米”）。灌溉水供应不足。五十年过去了都没有什么改善。他想迁到附近一个条件相对好的新村。大约还有别的没写出来的什么原因。总之他只是想为自己争取一点点利益。对别人来说微不足道对他来说却有可能改变生活的利益。</p>
-<p>在农村生活久了，悲哀无奈的事情见得太多。但仍然麻木不了，仍然会为之痛苦。</p>
-<p>我从来都不相信勤劳可以致富。也许有一部分聪慧擅变通的农民能适应时代的变化，灵活转变。但还有一部分人只能依赖僵直的旧日生活习惯，固守僻远艰苦的地 方，沉默忍耐。八十五岁，来新疆五十年，口音丝毫未改，可见性情上的狭窄。可这又有什么错呢？‌‌<strong>“优胜劣汰‌‌”的说法只有乱世才提，在和平年代里，关注弱者，理解弱者才是正道。</strong></p>
-<p>好友雪飞说‌‌“汉人填边疆，一部血泪史。‌‌”所谓‌‌“填‌‌”，和活埋有什么区别？他们被抛掷的一场又一场五十年时光无人买单。</p>
-<p>总之想了又想，写下这些。为他颤抖的繁体字，为他不为人知的五十年，为他五十年的伤心。</p>
-<p>后来他听我的劝告，没有再寄信了。我取了钱飞快离去。回到家才想起忘了提醒他，邮票可以退的。六张邮票七块多钱呢。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/n2TVi.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/n2TVi.jpg" alt="n2TVi" width="500" height="360"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/lwJag.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/lwJag.jpg" alt="lwJag" width="500" height="374"></a></p>
-<p>老人是四川口音，身份证上却写着蒙古族。可能是因为生活在蒙古自治乡的原因。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%9D%8E%E5%A8%9F%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%A2%93%E7%A2%91%E7%9A%84%E4%BA%94%E5%8D%81%E5%B9%B4%E6%97%B6%E5%85%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91/?category=18271" rel="tag">农民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -600,7 +610,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -610,5 +620,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,21 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%9C%BC%E7%9D%9B%E9%95%BF%E5%9C%A8%E5%B1%81%E8%82%A1%E4%B8%8A%EF%BC%9A%E3%80%8A4708%E3%80%8B/" target="cdt-mirror">眼睛长在屁股上：《4708》</a>
+</h2>
+<p><p>作者：新浪微博 <a href="http://weibo.com/1751158793/D6JQcenQ4">@眼睛长在屁股上 </a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4708.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4708.jpg" alt="4708" width="475" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%9C%BC%E7%9D%9B%E9%95%BF%E5%9C%A8%E5%B1%81%E8%82%A1%E4%B8%8A%EF%BC%9A%E3%80%8A4708%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">中国大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%AE%81%E5%90%B8%E6%AF%92%E8%A2%AB%E6%8A%93/?category=18271" rel="tag">毛宁吸毒被抓</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3%E4%BF%A1%E6%81%AF%E5%91%98/?category=18271" rel="tag">维稳信息员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%BE%E6%8A%A5%E8%89%BA%E4%BA%BA%EF%BC%9A%E6%81%B6%E6%94%BF%E4%B9%8B%E4%B8%8B%E6%97%A0%E5%AE%8C%E5%8D%B5/" target="cdt-mirror">端传媒 | 举报艺人：恶政之下无完卵</a>
 </h2>
 <p><p>作者：长平</p>
@@ -665,37 +677,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E4%BA%AC%E5%9F%8E%E9%9B%BE%E9%9C%BE%E5%8F%B2%E4%B8%8A%E7%BD%95%E8%A7%81-%E6%B5%93%E5%BA%A6%E9%80%BC%E8%BF%911952%E5%B9%B4%E4%BC%A6%E6%95%A6%E7%83%9F%E9%9B%BE%E4%BA%8B/" target="cdt-mirror">财经网 | 京城雾霾史上罕见 浓度逼近1952年伦敦烟雾事件</a>
-</h2>
-<p><p>记者 孔令钰 环境科学记者</p>
-<p>北京市环境保护监测中心官网数据显示，京西南区域点在11月30日18时左右，PM2.5达到当日浓度最大值，接近1000微克/立方米。截至12月1日8时，该区域点过去24小时PM2.5均值为745微克/立方米。</p>
-<p>《新京报》报道称，18时，京西南区域点PM2.5小时浓度达到945微克/立方米，17时该站小时浓度更是达到976微克/立方米。另外，京南区域点18时也达到了897微克/立方米。</p>
-<p>11月，东北三省多城市出现弥漫半月之久的严重雾霾。据新华社，沈阳市PM2.5均值当时一度达到1155微克/立方米，局地一度突破1400微克/立方米。</p>
-<p>上述分别发生于北京、沈阳等地的极严重空气污染引起公众对健康问题的担忧。那么，在科学上，PM2.5接近1000甚至超过1000，意味着什么？</p>
-<p>美国加州大学洛杉矶分校清洁空气中心副主任朱怡芳告诉财新记者，当PM2.5超过1000微克/立方米时，就空气颗粒物浓度而言，已基本相当于著名的1952年伦敦烟雾事件的污染浓度。</p>
-<p>1952年12月5日到9日，由于冬季燃煤、工业排放量大，加上持续几天的逆温，二氧化硫、烟尘等颗粒物聚集在伦敦上空，整座城市被笼罩入黑暗的迷雾，导致约12000人丧生，患病者不计其数。</p>
-<p>“那时没有PM2.5的数据，有的是Smoke（烟尘）的数据，在那五天当中，烟尘的峰值为1至2毫克/立方米（1000-2000微克/立方米）。考虑到PM2.5的监测数值要比烟尘（因为烟尘包括大颗粒物）低一些，（PM2.5浓度1000微克／立方米与伦敦烟雾事件中空气颗粒物浓度水平）应该是相当的。”她向财新记者分析。</p>
-<p>Smoke（烟尘）是过去科学不够发达时，用来表示空气污染程度的一个指标，简单讲就是燃烧形成的烟，如煤燃烧时产生的固体颗粒、水、焦油状物质和不完全燃烧的灰分所形成的混合物等。</p>
-<p>但必须注意到，“北京和伦敦的污染物成分确实存在很大的不同，由此引起的健康效应也会随之不同。”朱怡芳说，伦敦那时是1952年，这60多年以来医疗发展迅速，一些当年要命的病，现在已经可以治好了。所以，两者无法直接对比。“但是，东北污染期间，确实看到一些新闻报道讲医院爆满。”</p>
-<p>对于朱怡芳的观点，北京大学公共卫生学院教授潘小川基本认同，“颗粒物浓度水平也许很接近，但是性质不同。”他解释，现在京津冀地区主要污染物是PM2.5，而当年在伦敦则是粗颗粒物、二氧化硫。</p>
-<p>虽然颗粒物浓度接近，但二氧化硫浓度却相差很大。伦敦烟雾事件的五天中，其二氧化硫浓度达500-900微克/立方米。</p>
-<p>但据北京市环境保护监测中心官网，在过去24小时期间，北京各监测点的二氧化硫小时浓度多在50微克/立方米以下，峰值浓度也很少超过100微克/立方米。</p>
-<p>单从颗粒物角度来讲，潘小川告诉财新记者，伦敦和北京雾霾的健康效应也很难对比。理论上讲，PM2.5可进入血液，危害更大，但潘小川研究发现，北京2013年初那场严重雾霾事件带来的健康危害，较之伦敦当年却轻的多。</p>
-<p>他认为原因可能有两个，一是现在医疗条件、防护措施进步很多。二是细颗粒物对健康的危害，慢性效应更明显，现在不能看到明显的恶果。</p>
-<p>对于PM2.5峰值浓度超过1000微克/立方米的区域，尽管颗粒物浓度或与当年伦敦相当，但潘小川认为，污染水平、健康效应却不同，也可以说，伦敦烟雾的危害是立竿见影，但如今细颗粒物的危害仍需时间观察。</p>
-<p>环保部环境规划院张衍燊等人的一项研究表明，在2013年1月的严重雾霾事件中，在1月10日至31日期间，京津冀地区12个城市人群因PM2.5短期暴露，导致超额死亡2725人，其中呼吸系统疾病超额死亡846人，循环系统疾病超额死亡1878人。</p>
-<p>这12个城市为北京、天津、石家庄、保定、承德、邯郸、廊坊、衡水、秦皇岛、唐山、邢台和石家庄，其PM2.5的24h平均浓度最大值分别为705、411、675、506、255、598、698、667、231、178、718和405微克/立方米。</p>
-<p>尽管如此，张衍燊等依然认为，“本次评估的结论相对保守”。原因之一正如潘小川所言，该研究主要评估了PM2.5对人群健康的急性效应，但相关文献显示，PM2.5对人群健康的影响存在滞后效应和累计效应。</p>
-<p>据北京市环境保护监测中心，2015年12月1日上午8时，北京的AQI（空气质量指数）为486，首要污染物为PM2.5，也就是北京市PM2.5在7时，其小时浓度为486微克/立方米。</p>
-<p>AQI量程上限为500，486意味着“严重污染”。此时，健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病，建议儿童、老年人和病人应当留在室内，避免体力消耗，一般人群应避免户外活动。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E4%BA%AC%E5%9F%8E%E9%9B%BE%E9%9C%BE%E5%8F%B2%E4%B8%8A%E7%BD%95%E8%A7%81-%E6%B5%93%E5%BA%A6%E9%80%BC%E8%BF%911952%E5%B9%B4%E4%BC%A6%E6%95%A6%E7%83%9F%E9%9B%BE%E4%BA%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B0%94/?category=18271" rel="tag">天气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -707,7 +688,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -717,5 +698,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

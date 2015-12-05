@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,88 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%B4%97%E8%84%91%E7%9A%84%E5%8E%86%E5%8F%B2%E3%80%8B%E4%BD%9C%E8%80%85%E5%82%85%E5%BF%97%E5%BD%AC%E7%BD%AA%E6%88%90-%E8%8E%B7%E5%88%91%E4%B8%80%E5%B9%B4%E5%8D%81%E4%B8%AA%E6%9C%88/" target="cdt-mirror">自由亚洲｜《洗脑的历史》作者傅志彬罪成 获刑一年十个月</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%82%85%E5%BF%97%E5%BD%AC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%82%85%E5%BF%97%E5%BD%AC.jpg" alt=" 江西作家傅志彬因撰写出版《洗脑的历史》一书而被控“非法经营罪”。(图片来源：独立中文笔会) Photo: RFA" width="525" height=""></a><p><br>江西作家傅志彬因撰写出版《洗脑的历史》一书而被控“非法经营罪”。(图片来源：独立中文笔会)<br>Photo: RFA</p></div>
+<p>江西南昌青山湖法院12月4日对作家傅志彬“非法经营罪”一案一审宣判。傅志彬被判处有期徒刑1年10个月，并处罚金15万元。其在台湾出版的《洗脑的历史》被当局认为歪曲共产党史，抹黑中共领导人。傅志彬当庭提出上诉，其代理律师也表示当局以言论、思想论罪，判决不公。</p>
+<p>12月4日是中国的宪法日，同一天，江西作家傅志彬因撰写出版《洗脑的历史》一书而被控“非法经营罪”一案在南昌市青山湖区法院一审宣判。傅志彬被判处有期徒刑一年十个月，并处罚金十五万元。同案的另三名被告吴薇、赵贞活、邬新兵分别被判处有期徒刑一年五个月至六个月，并处罚金十万元至八万五千元不 等。</p>
+<p>为傅志彬作无罪辩护的代理律师之一张赞宁当天下午接受本台采访时表示判决不公，他的当事人也当庭表示要上诉。</p>
+<p>张赞宁：“我认为这个判的是不公正的，傅志彬应当是无罪的，而且傅志彬也提出了他要上诉。”</p>
+<p>记者：“他在法庭上当庭表示他要上诉是吗？”</p>
+<p>张赞宁：“嗯，当即表示上诉。审判长把判决书念了一下，就问被告人有没有什么意见，傅志彬表示要上诉。”</p>
+<p>张赞宁向本台披露，江西省国保当时下发给南昌市公安局青山湖分局的立案侦查函中指，傅志彬在书中抹黑、歪曲共产党史，否定共产党建国执政的合法性， 污蔑中共在苏俄的支持下建立并夺取政权，运用红色恐怖洗脑术控制全国人民思想，对共产党的第一代领导人毛泽东等极端侮辱、抹黑，影响十分恶劣。案件以“政治问题非政治化处理”。</p>
+<p>“国保大队立案通知写的，本案是‘政治案件非政治化处理’，意思就是本来可以判‘煽动颠覆国家政权罪’的，但是它就不以这个罪名判，以非法经营罪来判。我在辩护词里就讲，‘政治案件非政治化处理’是哪里规定？所谓以思想、以言论来论罪，是有违最新法律原则的。”</p>
+<p>曾阅读了傅志彬《洗脑的历史》一书的南京自由媒体人孙林当天向本台表示，该书讲述了包括共产党在内的所有信仰对民众“洗脑”的方式，但只有中共对傅志彬实施抓捕并判刑。中国《宪法》所赋予公民的一系列自由权利，其实是根本不存在的。</p>
+<p>“今天正好是宪法日，宪法第35条明文规定：言论自由、出版自由、结社自由。恰恰共产邪教不给人说话，禁止出版。但是它又不拿禁止出版（定罪），它叫非法经营罪来定他罪。非法经营首先就要追究他的出版，谁帮他印的，找这个印的厂家去定罪，你不能定他的罪，他只不过是一个作者。对于傅志彬这个案件，我深深的感觉到很遗憾，这本书不仅仅说了你的共产党，他整个包括宗教他也都说了，为什么宗教没有去诅咒他、谩骂他、没有去抓他、没有去按照伊斯兰的形式杀他？”</p>
+<p>今年51岁的傅志彬是原欧仕影视文化传播有限公司总经理。去年9月，傅志彬在自驾前往重庆与书友聚会途中突然失联，9月30日，家属获悉他已被警方以“非法经营罪”拘留，同年12月，傅志彬被以同一罪名正式逮捕。当局称其在台湾出书，并以淘宝等方式销售1000多本，销售额9万多元人民币。</p>
+<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%B4%97%E8%84%91%E7%9A%84%E5%8E%86%E5%8F%B2%E3%80%8B%E4%BD%9C%E8%80%85%E5%82%85%E5%BF%97%E5%BD%AC%E7%BD%AA%E6%88%90-%E8%8E%B7%E5%88%91%E4%B8%80%E5%B9%B4%E5%8D%81%E4%B8%AA%E6%9C%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95/?category=18271" rel="tag">中国宪法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E5%BF%97%E5%BD%AC/?category=18271" rel="tag">傅志彬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">抹黑中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%89%AD%E6%9B%B2%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%9A%E5%BC%BA%E5%A5%B8%E6%99%BA%E9%9A%9C%E5%A6%87%E5%A5%B3%E4%B9%9F/" target="cdt-mirror">【立此存照】扭曲的“正能量”：强奸智障妇女也能“感动中国”</a>
+</h2>
+<p><p><strong><a href="http://api.qiluyidian.mobi:8081/qlwb/html5/share-news.html?id=27678&type=1">齐鲁晚报｜聊城单亲五岁女孩照顾残疾父亲，刷锅洗碗还陪他遛弯</a></strong></p>
+<blockquote><p>张保勇说，自己家庭贫困，跟哥哥一把年龄了还没有结婚。<strong>10年前，他在外捡垃圾的时候，碰到一个智障女子，三年后，女子怀孕并生下一名女婴，因为害怕别人知道，他一直不敢出门，就在孩子刚满三个月的时候，孩子母亲偷跑出去，他一心照顾孩子，也没再寻找。</strong>“我身体残疾，没有劳动能力，我哥哥每天都去东阿县城捡垃圾，一个月也就收入六七百元钱。”</p>
+<p>[…]虽然有外债，但到了上学年龄，张保勇还是送女儿上了幼儿园，“半年学费一两千块钱，我们俩省吃俭用也得供孩子上学。”张保勇说，<strong>因为自己跟智障女没有结婚证</strong>，孩子在东阿县医院出生时，没法办理出生证明，所以女儿到现在还是黑户。“没有户口，连一年级都没法上。”张保勇说，女儿的户口是现在他最担心的问题。</p></blockquote>
+<p><strong>《齐鲁晚报》将上述报道直接打上了#正能量#的标签，《人民日报》和新浪山东也均被“感动”了。</strong>然而大量愤怒的网民表示，这根本不是所谓“单亲家庭”的感人故事，而分明是“<a href="http://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/">被拐乡村女教师</a>”悲剧的另一面——智障妇女被诱拐、非法拘禁、强奸生女后逃走，孩子无人照料。同时也有部分网民认为，孩子毕竟是无辜的，她不应成为舆论谴责其父亲的牺牲品。</p>
+<p>郜艳敏在1994年被拐卖到河北偏远农村后最终选择留下任教至今，其故事不仅被翻拍成鸡汤电影，更被官媒高调赞扬为“最美乡村女教师”。所谓“正能量”的标准可见一斑。</p>
+<p>另一方面，郜艳敏“最美女教师”事件也使部分偏远地区拐卖妇女问题成为了网络热议的焦点，让许多人第一次了解到了被拐妇女的悲惨境遇和地方政府的冷漠无情。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F3.png" alt="正能量3" width="550" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F1.png" alt="正能量1" width="550" height='"'></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F2.png" alt="正能量2" width="550" height=""></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a title="知乎｜女性遭遇强奸时如何有效地保留证据？" href="http://chinadigitaltimes.net/chinese/2015/12/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A5%B3%E6%80%A7%E9%81%AD%E9%81%87%E5%BC%BA%E5%A5%B8%E6%97%B6%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%9C%B0%E4%BF%9D%E7%95%99%E8%AF%81%E6%8D%AE%EF%BC%9F/">知乎｜女性遭遇强奸时如何有效地保留证据？</a></li>
+<li><a title="【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/">【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊</a></li>
+<li><a title="湛若秋水：有多少被拐女子还在继续“感动中国”" href="http://chinadigitaltimes.net/chinese/2015/07/%E6%B9%9B%E8%8B%A5%E7%A7%8B%E6%B0%B4%EF%BC%9A%E6%9C%89%E5%A4%9A%E5%B0%91%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/">湛若秋水：有多少被拐女子还在继续“感动中国”</a></li>
+<li><a title="德国之声 | 长平观察：拐卖人口与洗脑教育" href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8B%90%E5%8D%96%E4%BA%BA%E5%8F%A3%E4%B8%8E%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/">德国之声 | 长平观察：拐卖人口与洗脑教育</a></li>
+<li><a title="【网络民议】污血里都能榨出感动来" href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B1%A1%E8%A1%80%E9%87%8C%E9%83%BD%E8%83%BD%E6%A6%A8%E5%87%BA%E6%84%9F%E5%8A%A8%E6%9D%A5/">【网络民议】污血里都能榨出感动来</a></li>
+<li><a title="女权之声 | 被拐女成“最美乡村女教师”是国家耻辱" href="http://chinadigitaltimes.net/chinese/2015/07/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88%E6%98%AF%E5%9B%BD%E5%AE%B6%E8%80%BB/">女权之声 | 被拐女成“最美乡村女教师”是国家耻辱</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2129102901" target="_blank">正版瞌睡鱼游走</a>：【10年前，他在外捡垃圾的时候，碰到一个智障女子，三年后，女子怀孕并生下一名女婴，因为害怕别人知道，他一直不敢出门】看吧，小姑娘的智障母亲是怎么来的<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">为了一己私欲，强奸拘禁智障女性成孕；现在又让才5岁的小姑娘承担原不属于她这个年纪该承担的重担。现在再出来演演孝感动天的戏码，呵呵</p>
+<p><a href="http://weibo.com/1737220340" target="_blank">攒钱睡烊烊</a>：诱拐智障+强奸妇女+非法拘禁，这都拿来做鸡汤，三观也是够够的<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">心疼孩子</p>
+<p><a href="http://weibo.com/2138583232" target="_blank">sandeye</a>：感动你大爷<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">，诱拐强奸拘禁智障人士不提啊，现在孩子也是受害者啊</p>
+<p>@果冻日系：这男的强奸智障女啊！强奸好吗！害了这个孩子！</p>
+<p>@长鱼尾纹的吉娃娃：转：男子因贫困没有娶妻，偶遇一智障女，于是起了歹意，将其弄回家中，行奸污拘禁之举。智障女子怀孕生下孩子后不久，因不堪凌辱逃离其家。男子自知理亏怕惊动他人，落下强奸、非法拘禁等罪名，加上还要照顾孩子，于是便未寻找。孩子长大了，学会了照顾父亲，媒体看到孩子后感慨，感动中国的好题材啊。</p>
+<p>@WANG_32472：母亲是跑了还是被弄死了？生过孩子就失踪了？她生孩子前怎么没跑？赶快安置好孩子收押这罪犯吧</p>
+<p>@口吐大diao崔永盐：把这个强奸智力障碍妇女的王八蛋哥俩送进监狱，再找有能力抚养的好心人领养这个小女孩才叫正能量，现在制造舆论，不懂法律的蠢货真是漫山遍野。</p>
+<p>@dear_言小溯：我去。。。。强奸智障妇女，生下一个孩子忍受悲惨的人生，还成正能量了？小编你要不要也只有正能量一个？我保证不报警[拜拜]</p>
+<p>@开水族馆的生物男：感动你妈逼！贱货非法拘禁+强奸妇女（还不知道是不是被丫虐傻的）生下第二受害者小女孩，现在还让受害者做牛做马伺候自己，霉体跟痔怨者感动个屁。把贱货剥夺抚养权丢监狱，孩子送养</p>
+<p>@付栋Frodo：拒绝感动。这是个悲剧，希望警方能够核实，这个小女孩是怎么来的，以及是不是强奸加非法拘禁。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%89%AD%E6%9B%B2%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%9A%E5%BC%BA%E5%A5%B8%E6%99%BA%E9%9A%9C%E5%A6%87%E5%A5%B3%E4%B9%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E5%88%A9/?category=18271" rel="tag">儿童权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%90%E5%8D%96%E5%A6%87%E5%A5%B3/?category=18271" rel="tag">拐卖妇女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E9%83%BD%E7%BD%91%E5%89%8D%E7%BC%96%E8%BE%91%E6%9D%8E%E6%96%B0%E6%B5%B7%E5%A4%96%E7%88%86%E6%96%99%E9%81%AD%E6%8A%A5%E5%A4%8D-%E5%A6%BB%E5%AD%90/" target="cdt-mirror">自由亚洲｜南都网前编辑李新海外爆料遭报复 妻子出境被拒</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/69f76927-0812-43a5-bd72-cf83ea627b7e.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/69f76927-0812-43a5-bd72-cf83ea627b7e.jpeg" alt="69f76927-0812-43a5-bd72-cf83ea627b7e" width="575" height="358"></a><p>南都网前编辑李新。（RFA）</p></div>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%9B%BD%E5%AE%89%E5%B1%80%E7%BA%BF%E4%BA%BA%E7%BB%86%E6%95%B0%E5%B9%95%E5%90%8E%E7%9B%91%E6%8E%A7-%E9%99%90%E5%88%B6%E5%AD%A6%E8%80%85%E5%AA%92%E4%BD%93/">自由亚洲｜国安局线人细数幕后监控 限制学者媒体刊载文章有“黑名单”</a></p></blockquote>
+<p>正在海外向西方国家寻求政治庇护的前南都网编辑李新告诉本台，他的妻子带着不足两岁的孩子本周四（12月3日）试图经香港出境时，在深圳口岸被边检人员阻止；当局称，接到广东国保通知，限制其出境。李新表示，当局不应剥夺他家人的出境权利。</p>
+<p>一个月前逃抵印度，打算向美国或西方国家寻求政治庇护的前南都网记者李新，曾多次通过自由亚洲电台曝光中国有关当局对媒体进行严厉审查，遭到当局报复。李新的妻子12月3日带着一岁零十个月的儿子，打算从深圳湾口岸出境时被拦截。李新当晚告诉本台：“我帮她买了机票，从香港到德里的航班，是明天（4日）中午12点的。前两天她才告诉我，她怀孕了。我让她走深圳湾，今天早一点过关，在香港住一晚，今天早上一早就跟她联系，她说大概12点会出发，我这里的时间跟北京的时间不一样，大概下午两点她告诉我，从深圳福田汽车站坐上小客车，要到香港机场，到深圳湾海关的时候，被卡住了。她跟我在电话中说，人家正在问她问题，后来她也没有跟我说问她什么问题”。</p>
+<p>李新说，数小时后，他的妻子告诉他，边检人员称接到广东国保的通知，限制其出境：“后来海关（边检）人员检查了她的护照，就跟开车的人说，她不能出境，必须要把她（原路）送回去。开车的人把她送到公交车站，把她放在那里就走了。她现在去深圳的一个朋友家住了”。</p>
+<p>今年10月30日，李新经香港逃亡印度新德里，打算向美国寻求政治庇护。他称，选择离开中国是不堪河南情报系统，长期利用他在媒体工作的背景，搜集南都、广州、河南家乡NGO组织的资料，甚至前往香港搜集活跃人士的资料，不堪长期忍受充当国安人员的线人，过着人格分裂的生活。</p>
+<p>他还披露了南都网根据高层指示，内部规定不能发表涉及14类内容的文章，其中有涉及民族、宗教、警察及军队领域。他还展示两年前拍摄的南都网用于新闻审查的“敏感字列表”截图，显示被当局列入的敏感字，内容包罗万象。</p>
+<p>被问及其妻子被阻止出境究竟为何，李新不加思索的回答：“肯定是跟我有关系，因为她们（母子）本身没有任何犯罪行为，包括中国法律规定的几条，一条都算不上。为什么不让她们出去呢，还不是因为我的事情，肯定是因为我这件事情”。</p>
+<p>李新曾在11月13日向联合国，美国、及欧洲民主国家、记者无国界、国际特赦等海外人权机构发出求助信称，他担心在印度的签证日期届满后，被遣返中国。国际特赦组织表示，李新披露了大量鲜为人知的信息，恐遭报复，希望联合国尽快提供协助。他同时呼吁中国有关部门不要株连其家人。他说：“我做的事，当局可以找我，但是请不要找我爱人与我孩子的麻烦，她们只是妇女和儿童，她们没有过任何违法的行为。我希望中共在追求所谓的法制社会的时候，不要总做违法的事情”。</p>
+<p>李新家住河南省新乡市，毕业于中国政法大学法学专业，2007年创办公民社会网站，倡导公民社会，民主宪政，2010年留学印度尼赫鲁大学希望继续深造法 律，他称因为该校没有法律专业，于是选择了接近法律专业的国际关系专业，也刚好被该专业录取。2012年6月回国时，李新被河南国安软禁，并被胁迫搜集海外情报。2013年5月，李新又被云南省国安在社交网盯上，其后要求他提供在印度的同学资料。他说，因不愿为情报部门工作，因此选择逃离中国。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E9%83%BD%E7%BD%91%E5%89%8D%E7%BC%96%E8%BE%91%E6%9D%8E%E6%96%B0%E6%B5%B7%E5%A4%96%E7%88%86%E6%96%99%E9%81%AD%E6%8A%A5%E5%A4%8D-%E5%A6%BB%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E8%AE%B2/?category=18271" rel="tag">七不讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%A8%E7%AB%99ip%E8%A2%AB%E5%A2%99-%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%89%80%E6%9C%89%E8%AF%AD%E8%A8%80%E5%85%A8%E9%9D%A2%E9%98%B5%E4%BA%A1/" target="cdt-mirror">基金会全站IP被墙 维基百科所有语言全面阵亡</a>
 </h2>
 <p><p>网曝维基百科所有语言版本在中国大陆境内均无法通过电脑访问。有网民称，目前移动端仍可正常连接。</p>
@@ -553,147 +632,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E5%AA%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/" target="cdt-mirror">【立此存照】忽如一夜春风来，千报万报“马巴”开</a>
-</h2>
-<p><p><a href="http://weibo.com/u/1496825941" target="_blank">@杨锦麟</a>：这阵子，各地报纸低级错误频频，媒记君都有点审美疲劳了。“贪污和受贿部”、“公安局分赃大会”、“市委书记公开辞职”，这几个梗哪个不比“奥马巴”来得 劲爆。不过，这次粗心大意的可不是一个两个编辑。定睛一看，忽如一夜春风来，千报万报“马巴”开。</p>
-<blockquote>
-<p><a title="徐子林不加V" href="http://weibo.com/xuzilin" target="_blank">@徐子林不加V</a>：这才叫“通稿”，这在心里得多仇恨米果总统奥马巴啊……</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhohm0j20io09xjsd.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhohm0j20io09xjsd.jpg" alt="4ef20071jw1eym8xhohm0j20io09xjsd" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhvvsqj20jd07gwey.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xhvvsqj20jd07gwey.jpg" alt="4ef20071jw1eym8xhvvsqj20jd07gwey" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xijz4uj20k00bljt0.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xijz4uj20k00bljt0.jpg" alt="4ef20071jw1eym8xijz4uj20k00bljt0" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xirjvhj20id07udgk.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xirjvhj20id07udgk.jpg" alt="4ef20071jw1eym8xirjvhj20id07udgk" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj0o1yj20gv0aq75k.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj0o1yj20gv0aq75k.jpg" alt="4ef20071jw1eym8xj0o1yj20gv0aq75k" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj7utaj20fa05rgmc.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xj7utaj20fa05rgmc.jpg" alt="4ef20071jw1eym8xj7utaj20fa05rgmc" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xjf71ij20in079gm9.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4ef20071jw1eym8xjf71ij20in079gm9.jpg" alt="4ef20071jw1eym8xjf71ij20in079gm9" width="525" height=""></a></p></blockquote>
-<p><strong>以下图片来自新浪微博：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzgp2wfj30qo0zktdy.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzgp2wfj30qo0zktdy.jpg" alt="0066OYJ1gw1eylmzgp2wfj30qo0zktdy" width="475" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzh4rf8j30nq0hsgpe.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzh4rf8j30nq0hsgpe.jpg" alt="0066OYJ1gw1eylmzh4rf8j30nq0hsgpe" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6d0b6b33gw1eym5us1rjzj20hs0d1mz4.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6d0b6b33gw1eym5us1rjzj20hs0d1mz4.jpg" alt="6d0b6b33gw1eym5us1rjzj20hs0d1mz4" width="525" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzhigmpj30f10qotan.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0066OYJ1gw1eylmzhigmpj30f10qotan.jpg" alt="0066OYJ1gw1eylmzhigmpj30f10qotan" width="440" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/9c1851c5jw1eym7axs0dcj20j60d575j.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9c1851c5jw1eym7axs0dcj20j60d575j.jpg" alt="9c1851c5jw1eym7axs0dcj20j60d575j" width="440" height="302"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/darwinci" target="_blank">darwinci</a>：指鹿为马<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">这就是检验谁听话谁不听话的时候，印出来是奥巴马的，已经上巡视名单了</p>
-<p><a href="http://weibo.com/234541319" target="_blank">假行僧老巩</a>：关于各级地方报媒一律采用新华社通稿，把美国总统“奥巴马”写成“奥马巴”，一时间成了笑话。收到两条神评。1. 试探你的忠心，和指鹿为马一样样的……2. 一些媒体可能是故意不改，反正通稿出了错也找不到我，无声的抗议吧。都挺深刻、内涵。<img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"></p>
-<p>@深圳田雨：对重大敏感新闻严格按新华社消息报道是媒体铁律，所以当“奥马巴”出现在新华社的通稿标题之后，财新网、中国网、中国新闻网以及十几家报纸被带进沟里，奥马巴在12月1日响彻全国。这让我想起多年前在北方工作时，一副市长叫毛旭，我们的播音员播成了毛九日，这位市长也火了一把。</p>
-<p>@元元的姥爷退而不休：新华社出了个奧马巴，全国媒体统一跟进！我不相信编审们全都粗心大意，更不相信他们集体失明。因为这是对“必须使用新华社通稿”的绝好讽刺。想当年；全国学习“不须放屁”，这句台词让歌舞团的音乐舞美设计们绞尽脑汁。</p>
-<p>@寿大卫：可见各家报纸有的版面真是不用看，完全是传声筒和复印机的角色。</p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div><a href="http://weibo.com/talkcock" target="_blank">@郑维</a>：新华手一抖，大家都出丑……</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p>@朱学东：通稿把奥巴马写成奥马巴，没什么好辩解的。至于那些犯错的报纸，同样也没什么好辩解的，活糙没责任心。当然跟着走到沟里问题的根源，还在体制，不全是通稿制度，而在于从上到下的号令一体化不得有他想妄议的体制，它们泯灭了其他人的判断力，只要跟紧就行，圣旨时代如此，毛时代如此，至今余绪犹存。。</p>
-<p>@光晖碎阅：千篇一律，一叶知秋！新华社通稿误，把“奥巴马”写成“奥马巴”，地方报刊照例一字不改采用，把明显的常识性错误，没有主动纠正过来。其中原因有两种：一种是明知错了也不敢改，多一事不如少一事，反正责任又不在我；明知错了也不愿改，故意亮亮现行新闻体制的弊端。神仙通稿，一律千篇源头所在。</p>
-<p>@宋朝诗人黄庭坚后人黄美娟：秀才江湖：宣传部经常下令，禁止媒体私自报道，一切以新华社报道为准。那么问题来了，如果新华社把“奥巴马”写成了“奥马巴”，媒体也必须以新华社报道为准，必须将错就错吗？新华社如果指鹿为马，媒体也不能指出那是鹿不是马？</p>
-<p>@樊昕-：【“奥马巴”影响到全国】12月1日，被新华社改名的美国总统“奥马巴”登上了烟台晚报、诸暨日报、银川晚报、东南快报、西安晚报、今日早报、亚太日报、绍兴晚报、青年时报、北海日报、北海晚报、巴渝都市报、国际旅游岛商报等报纸的标题，响彻全国。受水的媒体，今后还对国社的通稿深信不疑吗？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E9%83%AD%E4%BA%8E%E5%8D%8E%EF%BC%9A%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B9%88%E7%89%B9%E6%AE%8A%EF%BC%9F/" target="cdt-mirror">爱思想｜郭于华：我们究竟有多么特殊？</a>
-</h2>
-<p><p><em>注：原文发表于2013年1月</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2014/02/%E9%97%AD%E7%9C%BC%E8%B5%B0%E9%82%AA%E8%B7%AF.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2014/02/%E9%97%AD%E7%9C%BC%E8%B5%B0%E9%82%AA%E8%B7%AF.jpeg" alt="闭眼走邪路" width="500" height=""></a><br><em>（当代水墨画 “闭眼走邪路” by 秃头倔人）</em></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%8E%80%E5%BC%80%E8%A5%BF%E6%96%B9%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC%E7%9A%84/">【异闻观止】人民日报 | 掀开西方“普世价值”的面纱</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%B8%8E%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E9%9D%92%E5%B9%B4%E4%BA%BA%E4%BC%9A/">唐映红：中国大陆青年人与世界其他国家青年人会越来越隔阂？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/09/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC%E6%98%AF%E8%A5%BF%E6%96%B9%E4%B8%AD%E5%BF%83%E8%AE%BA%E5%B9%BB%E8%A7%89/">环球时报 | 普世价值是西方中心论幻觉</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/06/%E7%88%B1%E6%80%9D%E6%83%B3-%E9%83%AD%E4%BA%8E%E5%8D%8E%EF%BC%9A%E4%BB%8E%E6%89%B9%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC%E5%88%B0%E4%BF%A1%E5%AE%87%E5%AE%99%E7%9C%9F/">爱思想 | 郭于华：从批“普世价值”到信“宇宙真理”——梦醒何时？</a></li>
-</ul></blockquote>
-<p>特殊主义与普遍主义的关系是一个长久争论的话题。作为处理社会关系的不同标准和方式，二者其实并非绝然对立，非此即彼。在几乎所有社会中，普遍主义与特殊主义都会并存；只是一般而言，传统社会通常更强调和盛行特殊主义而现代社会普遍主义会获得更多的认同，毕竟，人类所构成的世界正变得愈来愈相似和关联紧密，人们的社会生活需要更多的共同准则与价值。</p>
-<p>上个世纪80年代以来，伴随着文化多元主义、社群主义和女权主义的兴起，西方社会盛行的反普遍主义思潮，包括对一元现代性、对单极化的批判、对科学主义、启蒙话语的质疑等，是西方社会面对自身的问题进行的批判性反思，实际上正是以批评西方文化中心主义和文明优势论为思想基础的。如若在不同的情境下，即在中国社会还羁绊于前现代、非现代困境时，盲目追逐或套用西方的反普世主义，无疑会导致南辕北辙的结果。</p>
-<p>现代社会-文化人类学一直强调文化相对主义，对西方中心论和文化霸权持批判立场。其实这种相对主义也是相对的：相对于文化中心主义——即认为自身文化最为优越，最为文明，是全人类仿效的对象。但文化相对主义走到极端也会成为它所反对的文化特殊主义，所谓相对，就是反对绝对化、单极化；而主张的则是多元共存。既然要共存就须同场博弈，如同一起玩一场大游戏；而一起玩就得有相互认同的游戏规则，就要有共同接受的价值标准——普世价值；因而，可以说普世价值是构成人类社会共同准则的理性基础。</p>
-<p>当下不时看到强调中国国情特殊、不宜实行来自西方的自由民主制度，中国必须保持自己的特色、走自己的道路等的特殊论观点；而且为了证明“中国模式”的独特和优越，举国体制、集中力量办大事，统一（相对于多元）、稳定（相对于动乱）常常拿来说事。为了强调中国的特殊性，就得批判普世价值，以中国特殊之优越来证明共同价值之不存；而十分悖谬的是，与此同时这种论点还经常指责中国人民素质低，因而不适合民主。</p>
-<p>每当看到这样的观点和论证，总不免让人想问一声：中国有那么独一无二吗？进而，中国人是人吗？</p>
-<p>何为普世价值？根据维基百科的表述，就是泛指那些不分领域，超越宗教、国家、民族，只要本于良知与理性皆为所有或几乎所有的人们认同之价值、理念。简而言之，就是每个人都应该得到符合人性的或者人道的对待；就是作为人享有基本的信仰自由、言论自由、出版自由、结社自由，免于匮乏和免于恐惧的自由。</p>
-<p>在几年前官媒官学猛批普世价值的时候，我曾经写过“普世价值本是常识”一文。按照常识性的理解，“普世价值”是指人类在长期的历史进程中形成的共同价值观和创造的文明成果，大体包括自由、民主、科学、人权、法制、平等、博爱等等理念；是些普通人都不难明白的道理，说白了就是人人都需要人人都喜欢的价值观，有人说得极端些，就是连流氓都不能公开否认的东西。是啊，流氓都得承认的理，强盗都得遵守的道，还用得着讨论么？否认普世价值基本上就是公开表明：我就是不讲理了。这让人想起文革时曾经有“宁要社会主义的草，不要资本主义的苗”的口号，前不久又看到“宁可华夏不长草，也要收回钓鱼岛”，“宁可中国遍地坟，也要杀光日本人”的标语，这就是不讲道理的表现。</p>
-<p>如此说来，无论中国人多么坚定地要保持自己的“特色”，多么强烈地反对西方现代性并要形成自己的现代性，进而走出一条优越于西方的发展道路、实现中华民族的伟大复兴，也不能以反对普世价值为宗旨，也不能背离人类文明的主流。除非我们根本就是苗草不分、黑白不明、是非不辨的一群。</p>
-<p>鲁迅曾以“投枪”、“匕首”般的尖刻对传统国民性进行批判：他着重鞭挞主子（统治者）、奴才、看客等类，并深刻揭露“怯弱，懒惰，而又巧滑”、自主精神缺失、“瞒和骗”、“精神胜利法”、麻木、守旧、盲目自大、顺从忍让等一系列所谓国民劣根性。</p>
-<p>其后，更有柏杨以《丑陋的中国人》为书名，痛指“这么一个庞大的国度，拥有全世界四分之一人口的一个庞大民族，却陷入贫穷、愚昧、斗争、血腥等等的流沙之中，难以自拔。”对中国人的“脏、乱、吵”、“窝里斗”、“不能团结”、“死不认错”、“没有包容性的性格”，只有“狭窄的心胸”等等丑陋现象 一一针砭，并分析丑陋的原因在于“中国人是一个受伤很深的民族，没有培养出赞美和欣赏别人的能力，却发展成自斗或阿谀别人的两极化动物。更由于在酱缸里酱得太久，思想和判断以及视野都受到酱缸的污染，很难跳出酱缸的范畴”。而“文革”这样一场人造浩劫，不仅造成生命的损失，“最大的损失是对人性的摧残和对 高贵品德的摧残。人如果离开了人性和高贵的品德，就跟禽兽毫无区别”。</p>
-<p>有着强烈民族自尊心和自豪感的国人看到这样的评价多半会气得发抖，但仔细琢磨一下恐怕又觉不无道理，所谓爱之深，恨之切。回到本题，我们到底有多特殊？我们还是不是人类共同体中的成员？无论我们在饮食、服饰、语言、文化、宗教、信仰方面有多么独特，我们属于人类这一点应该没有异议，问题在于究竟是什么让我们如此特殊？以至于像是人类社会中的另类？</p>
-<p>中国人是不是人，取决于制度安排和治理理念是不是以人为本，是不是把人当作人，是不是以人道主义待人。</p>
-<p>我们常常听闻人们在面对现实的社会不公而无奈时说的一句话：“别忘了你是在中国”。这道出了体制机器从不把人当作人的本质。人们熟知的雷锋日记中有这样的句子：“我要做一颗革命的螺丝钉，党把我拧在哪里我就在哪里闪闪发光，永不生锈”。文革时的革命口号说：“革命战士是块砖，哪里需要哪里搬；搬到大厦不骄傲，搬到厕所不悲观”。</p>
-<p>很显然，螺丝钉不是人；砖石泥土不是人；草芥蝼蚁不是人；驯服工具不是人；马铃薯不是人；乌合之众不是人；义和团不是人；红卫兵不是人；……凡被驱使者都不是真正意义上的人！内战中的士兵不是人，是炮灰；历次政治运动中的斗争对象不是人，是要被消灭的阶级敌人即非人，而作为运动动力的群众也不是人，是被利用的武器；大饥荒中被饿死的不是人，只是作为数字存在的人口；新世界工厂中的工人不是人，而是灵巧又驯服的人手；奥运赛场上的运动员不是人而只 是拿金牌的工具；死于“躲猫猫”等五花八门形式的在押嫌疑犯们没有被当作人；在街头被城管追、打、抢、砸的小商贩们没有被当作人；倒在强拆车轮下的钱云会 们没有被当作人！在现实和虚拟世界中被禁言被失踪的也同样没有被当作人！同样地，实施强制压迫的国家机器当然也不是人。……</p>
-<p>“以人为本”，这是党和政府早在2003年党的十六届三中全会上就明确提出的，并且作为科学发展观的基础。为此，我们必须改变不把人当作人的制 度与文化基础。中国诸多问题的症结是没把人当人：比如，“发展是硬道理”！面对这个“硬道理”我们必须要问：什么是发展？谁的发展？经济增长、GDP增加能够“硬”过人的生存、发展和自由吗？再如，“稳定是压倒一切的”！我们必须思考：为何要稳定？谁从“稳定”中获益最大？稳定的根基是什么？社会稳定不应成为目标，稳定永远不能“压倒”人民的幸福和尊严！而当我们探索中国的宪政民主之路、努力融入人类文明主流的时候，却总有强大而不停的呱噪：中国人不适合民主，一旦民主就会乱；决不搞西方那一套；中国模式最优越。这就如同当你还跪着的时候，就有人告诉你一旦站起来就会摔倒因而很危险。</p>
-<p>当今世界中，一国之国民要成为真正的人，首先必须成为公民，即懂法律、有理性、知晓自己的权利、义务且能够合法合理地保护自己权利的有组织的公民。是不是人取决于我们要把自己当作人！要努力成为公民，要推动公民社会的成长。这也是阿伦特意义上的行动的人，独立思考的人，积极生活的人。在阿伦特看来，公民的性质不仅仅是一种政治共同体成员的身份，而且更是一种作用和能力，自由的个体以此在共同事务中成为有效成员。而相较于劳动和工作，行动置于“人的条件”的核心位置。行动是至高无上的人性的形式，没有行动的生命“简直是死寂一片，它不再是一种人类生活，因为此时人不再生活于人与人之间”。</p>
-<p>公民的行动以人的自由、尊严以及积极进取的主体性为基础，以人的自我启蒙为条件。由此个人才不再是孤独冷漠绝望的个体，而是现代社会中的公民 ——承担作为公民的责任，为自己的权利负责，为公共事务负责。公民社会的力量，公民的觉醒与能动性——公民的勇气、公民的能力和公民的智慧是创造性力量， 也是社会活力与改革动力的不竭之源。体制改革的动力来自社会而非权力自身：体制内的改革力量是在社会力量的逼迫下产生的；公平正义的规则是在各种力量的博弈中形成的；公民社会是在公民的参与行动中生产出来的。走出停滞状态、恢复社会活力只能从公民的自觉和公民的行动开始。</p>
-<p>1804年2月28日，德国小镇哥尼斯堡所有的教堂丧钟齐鸣，在许多素不相识的市民的瞩目下，80年前从这里诞生的哲学家康德下葬在故乡冰冷的 墓穴里。一块朴实的墓碑上，镌刻着音乐家贝多芬从康德《实践理性批判》中摘录的句子：位我上者 灿烂星空 道德律令 在我心中。</p>
-<p>《独立宣言》第二段开头的字句：We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.被称为“改变人类历史的五十五个字”而广为人知。</p>
-<p>从现实的日常生活开始，为实现和保护生命权、自由权和追求幸福的权利而行动、而发声，我们将证明中国人不是另类，而是人类大家庭中生而平等的成员。而此行动的过程中也将站立起真正的人、大写的人！</p>
-<p>来源: 《社会学家茶座》</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E9%83%AD%E4%BA%8E%E5%8D%8E%EF%BC%9A%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B9%88%E7%89%B9%E6%AE%8A%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%AA%E8%B7%AF/?category=18271" rel="tag">邪路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%B8%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">霸权主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E4%BC%91%E4%B8%A4%E6%9C%88%E4%BA%A7%E5%81%87%E4%B9%9F%E6%98%AF%E5%A5%B3%E6%80%A7%E7%9A%84/" target="cdt-mirror">女权之声｜为什么扎克伯格休两月产假也是女性的胜利</a>
-</h2>
-<p><blockquote><p>“长久以来，只有负责生育的母亲才休带薪育儿假。我们认为，不论是什么形式的家庭，当开始组建家庭时，像母亲一样，父亲也应该得到同等的支持。”</p>
-<p>——Facebook人力资源及招聘副总裁罗莉·格勒尔</p>
-</blockquote>
-<p>Facebook创始人兼CEO马克•扎克伯格刚成为了一名父亲。就在几天前，他宣布将休整整两个月的产假，来陪伴妻子和女儿。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%871.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%871.jpg" alt="产假1" width="550" height="367"></a></p>
-<p>鉴于美国是世界上唯一一个没有全国性法定带薪产假的发达国家，扎克伯格的做法对于facebook的员工和美国男性来说无疑是件大事儿。美国男性极少休产假，也很少有公司提供这样的选择。对于一家五百强的男老板<br>
-来说，两个月的产假更是闻所未闻。</p>
-<p>扎克伯格释放出一个信号：如果男人将家庭置于事业之上（至少在当你有个刚出生的孩子时），这也完全OK。对于其他男性来说，他是个好榜样。</p>
-<p>而且也不止于此。对于女人来说，这也是个好消息。生育让女性在职场上遭受着严重歧视和不公正对待。当男人开始放产假，就意味着平衡事业和家庭不再只是女人的事。男性产假将带来两性间的相互理解和共情，并且有助于消除那些过时又无用、对所有人都没有好处的性别刻板印象。</p>
-<p>“当男人和女人都休产假，也都理解家里有了新生儿是种怎样的体验后，会带来了一种不同感觉的合作，”一家咨询公司的副主席Nancy Altobello说，她们公司鼓励男性休产假。</p>
-<p>当他们为人父母时，职场中的女性和男性都可以成为反对性别刻板陈见的人。对于男人来说，这样的陈见对工作有利，同时却损害他们的家庭生活；对于女人而言，则两头都不利。</p>
-<p>传统定义的好父亲必须将工作置于首位，因为男人要养家糊口。也的确有研究发现，男性在成为父亲后赚得更多。</p>
-<p>尽管现实中多数家庭中的女性也同样外出工作，甚至是家庭的主要或唯一经济来源，但人们还是会有这样的假设：比起工作，女性更看重家庭。所以她们在职场上并不可靠，工作也不用那么拼。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%872.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%872.jpg" alt="产假2" width="475" height="446"></a></p>
-<p>《纽约时报》在去年发表的一篇文章提及了一则长达15年的研究，发现<strong>女性每生一个孩子，工资会降低4%，而男人每有一个孩子，工资则会提高6%</strong>。“雇主更不愿聘用母亲，或者认为她们不够称职，即便与男性资历相同也很难有同等薪资。”</p>
-<p>另一些研究则发现有孩子的女性和没有孩子的女性之间的工资差距，甚至比男女之间的差距还要大。</p>
-<p>而女性一旦将工作置于家庭之上也会遇到麻烦——她将遭到严厉指控，被认为是个不称职的母亲。</p>
-<p>哈佛商学院教授Robin Ely专门研究工作中的性别期待。他解释说，“女人通常被认为属于家庭，而不属于职场。对女性的期待就是，如果你不这样做，那你就不是一个好妈妈。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%873.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%873.jpg" alt="产假3" width="550" height="367"></a></p>
-<p>当雅虎CEO玛丽莎·梅耶今年秋天宣布12月待产只会休几周产假时，她被舆论猛烈抨击，甚至有报纸头条标题就这样写道：《玛丽莎·梅耶的两周产假是狗屁》。</p>
-<p>梅耶在2012年刚就职雅虎时也只休了两周产假，那时《每日电讯报》很好地总结了她的两难困境：“她的14天产假让一些人质疑她是否是个称职的母亲，另一些人则质疑她是否真的投入工作。”</p>
-<p>男人面临的则是另一种挑战。当越来越多的年轻男性像扎克伯格一样，希望更多地参与家庭生活时，他们会被污名或惩罚，因为没有把工作作为生活中的首要事务。</p>
-<p>“男人休产假的想法都是经理们的事儿。一般的男同事都不休，他们会嘲笑我。”一名在顶尖律所工作的男性这样说。“另一位合伙人告诉我，‘你必须做一个选择：是要成为一个杰出人士，还是只想普普通通混日子？如果你想出人头地，那就意味着世界上没什么事能比工作更重要。’”</p>
-<p>男人休产假是让为了更多参与到孩子的整个生命过程中。这同样很重要，不是么？而且顾家的父亲当然也会让他们的另一半生活起来更容易。女性已经太经常在双职工家庭中承担了更多的抚育责任。</p>
-<p>而男性产假就是改变这种过时模式的有效手段。在产假政策宽裕的瑞典，男性每休一个月产假，女性未来的工资就增长7%。</p>
-<p>一些有远见的雇主正在认识到这一点，开始性别中立地安排产假政策。就在扎克伯格宣布休产假的同时，Facebook公司公布了一项新政策：初为人父的男员工们将拥有为期四个月的带薪陪产假。新政策将于明年初生效，将惠及公司在全球的所有1.1万名员工，包括所有的母亲、父亲及同性恋父母。</p>
-<p>但无论是政策原因，或是文化和意识的原因，令人遗憾的是，这个世界上休产假的父亲实在太少。但男性产假带来的好处是深远的，对于家庭、女性、孩子和男人自己来说都是如此。男人们需要被推一把，这里有休男性产假的四个理由：</p>
-<p>1 你会成为更好、更开心的爸爸</p>
-<p>休产假的爸爸会是更好的爸爸。并不存在什么自然母性让女人就是天生的妈妈。因为女性承担了新生儿最初的照料工作，让大脑建立了更多对孩子的情感联系和反应。而这对爸爸们来说也行得通。</p>
-<p>也就是说，没什么不可改变的母性本能。成为好的养育者的秘诀在于：花时间和孩子相处。</p>
-<p>如果爸爸休一段时间的产假，他们也会发展出父亲的本能。他们会学会怎样换尿布，怎样哄小孩睡觉，当孩子哭闹或者发烧时知道该怎样处理。</p>
-<p>不是说不休产假的爸爸都不是好爸爸，而是小孩越小时爸爸休假越多，他们就会对自己与孩子之间的关系更加满意，而在他们重返职场后，他们也会更多地参与照顾孩子。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%874.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%A7%E5%81%874.jpg" alt="产假4" width="475" height="591"></a><br>
-☞ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MzY0Njc0MQ==&mid=204142723&idx=1&sn=8795a5954d2ae5804e8080b01f18b4ed&scene=21#wechat_redirect" target="_blank">喂奶、换尿布、做家务样样在行，看别人家的奶爸</a></p>
-<p>在瑞典，休产假的爸爸占到了85%的高比例，这些好处也在大范围里得到验证。一名休了八周产假的瑞典父亲说：“国家应该提供更多关于休产假好处的信息，因为给予创造你和孩子之间强烈情感连结的机会真的很重要。你得体验一下父亲产假，才能知道不休产假去工作你损失了什么。”</p>
-<p>2 职场也会更平等</p>
-<p>为女性创造友好工作环境的最好方法，就是让男人休产假。当男人可以照顾孩子，妈妈们也能重返职场，工作更长时间，赚更多钱。弹性工作时间也将成为男人的话题。</p>
-<p>但大多数的男人不会休产假，因为他们担心会影响自己的事业。也的确如此。有研究发现，男人休产假后赚得更少，或者更容易在工作场所中被骚扰和歧视。他们的工作时间也会缩短。</p>
-<p>所以在那些男性产假施行最成功的国家，比如芬兰、挪威、瑞典和德国，男人休一定天数的产假是强制的，不休也不能转移给女性。（☞ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MzY0Njc0MQ==&mid=200731658&idx=1&sn=740490190a5c6d6715369e51fca341fa&scene=21#wechat_redirect" target="_blank">三年产假让人想起“妇女回家论”</a>）</p>
-<p>那些休产假的男性会给更多男性树立榜样。当德国立法规定14个月产假里有两个月必须由父亲来休时，两年内休产假的男性比例从3%增长到了20%。</p>
-<p>而且休产假对父亲来说也好处多多，他们的工作满意度会更高。</p>
-<p>3 家庭关系更和谐</p>
-<p>女性的薪资更平等、工作和家务时间的分配更平衡，对于家庭来说也是好处多多。这会带来更高的婚姻满意度，也是男性和女性的共同心愿。（☞ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MzY0Njc0MQ==&mid=210921792&idx=1&sn=76d6bef211570e5238eb31181b69e291&scene=21#wechat_redirect" target="_blank">“拼妈”时代：父亲继续缺席，母亲加重焦虑</a>）</p>
-<p>最早在瑞典推行一个月产假的Bengt Westerberg认为，家庭是社会的镜子。“在社会中实现性别平等的唯一办法就是在家庭中实现平等。而让父亲休产假中，就是一个关键环节。”</p>
-<p>4 为了孩子也要这样</p>
-<p>在爸爸休产假的家庭，孩子与父母相处的总体时间增加了。这样的孩子更开心、更健康、学业表现更好、更自信、问题行为更少。</p>
-<p>在家务平分和父亲参与更多的家庭中，女孩更不会遵循传统性别刻板印象，而选择去尝试更多新事物，而男孩则更可能建立一段平等和健康的关系，也更少与人发生冲突。（☞ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MzY0Njc0MQ==&mid=200432670&idx=1&sn=75d94e0f9e5f50c8dadbae378e2f92ac&scene=21#wechat_redirect" target="_blank">想让女儿有丰富的职业选择？去做家务吧，爸爸们</a>）</p>
-<p>瑞典爸爸Johan Ekengård说：“休产假造成的经济损失，每一分都花得很值。它让我成为更自信的父亲，更理解我的伴侣，也和孩子建立了更紧密的联系。这对他们的成长来说非常重要。” （☞ <a href="http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MzY0Njc0MQ==&appmsgid=10001286&itemidx=1&sign=0c2a20181921cb50976c8f66bcad36d9#wechat_redirect" target="_blank">爸爸是赚钱机器，妈妈呢？</a>）</p>
-<p><em>女声编译自：</em></p>
-<p><em>Emily Peck：Why Mark Zuckerberg’s Paternity Leave Is A Win For Women，Huffington Post</em></p>
-<p><em>Gabrielle Jackson：Force men to take paternity leave. It will make the world a better place，the Guardian</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E4%BC%91%E4%B8%A4%E6%9C%88%E4%BA%A7%E5%81%87%E4%B9%9F%E6%98%AF%E5%A5%B3%E6%80%A7%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -705,7 +643,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -715,5 +653,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

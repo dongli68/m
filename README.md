@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,105 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/" target="cdt-mirror">要在高校“打响意识形态反击战”的李吉明是谁？</a>
+</h2>
+<p><p><strong>李吉明：清除高校害群之马，打响意识形态反击战</strong></p>
+<p>原标题：<a href="http://m.blogchina.com/v1.php/blog/view/uname/liming730210/bid/2853429">高校教师不可跨越底线</a></p>
+<blockquote><p>一个连自己国家都不爱的人，是很难担当“教书育人”重任的。难怪有人感叹现今高校已经没落了原本的精神，难怪有人愤懑于现今的高校教师已经失去了道德的坚守。有这样一群扭曲、变态的 “灵魂工程师”在一味否定中国的制度和体制、无限放大社会负面信息、发表不着边际的奇谈怪论，中国的高校还有什么精神可言，高校教师还有何颜面妄谈 “师德”。[…]</p>
+<p><strong>如果高校里总是蔓延着西方资本主义世界的错误思潮，尤其是西方国家宣扬的“普世价值”、宪政民主、历史虚无主义、新自由主义等错误政治思潮</strong>，就会严重阻碍实现民族伟大复兴“中国梦”的进程。所以，要真正抓好高校意识形态工作，就要把全面从严治党落到实处，就必须对那些经常发表攻击党和社会主义言论的高校教师予以严惩、坚决清除。</p>
+<p>[…]为了我们的未来和梦想，就必须对高校教师队伍进行全面整顿、彻底清理，全面打响意识形态反击战。</p>
+<p>（李吉明2015年12月3日 邮箱：liming7302102163.com）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA1.png" alt="李吉明新唐人1" width="450" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA2.png" alt="李吉明新唐人2" width="450" height=""></a></p>
+<p><strong>李吉明</strong>曾为河南省新乡市第二十六中学教师，目前具体职务不详。个人博客简介如下：</p>
+<blockquote><p>李吉明，致力于教育发展研究，关注国计民生，思想与行为并重、工作与博文同行。曾著长篇小说《教误》，短篇小说《激情无罪》、《残雪》等，人民网、博客中国专栏作家，著名网络热评人，现供职于河南新乡教育行业。</p></blockquote>
+<p>从<strong>2007年</strong>开始<a href="http://liming730210.blogchina.com/">积极创作</a>网评<strong>，以往言论包括：</strong></p>
+<ul><li>为给<a href="http://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/">辽宁日报</a>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%80%81%E5%B8%88%EF%BC%8C%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E8%AE%B2%E4%B8%AD%E5%9B%BD/">大学老师，请不要这样讲中国</a>》辩护的《求是》文章<a href="http://liming730210.blogchina.com/2374598.html">站台</a>：</li>
+</ul><blockquote><p>而那些所谓的“教授”呢？尽管他们在学术研究方面鲜有建树，但潜规则女学生、走穴敛财、甚至打着学术旗号搞诈骗的却屡屡热爆了人们的眼球。更有甚至，除了 信口开河的歪理邪说，就是紧盯着社会的紧盯着社会负面信息的哗众取宠，要么就是充当西方政治的传教士，通过各种路径、抓住一切机会向民众灌输西方的政治思 想；要么就是通过宣泄自己的情绪误导众生、毁人不倦。试问，如此这般的“话语权”，要它何用？</p></blockquote>
+<ul><li>把在《辽日》事件中反驳袁贵仁的大学教师<a href="http://liming730210.blogchina.com/2380393.html">批判了一番</a>：</li>
+</ul><blockquote><p><strong>如果高校里总是蔓延着西方资本主义世界的错误思潮，尤其是西方国家宣扬的“普世价值”、宪政民主、历史虚无主义、新自由主义等错误政治思潮</strong>，我们培养的人才又如何能服务于社会主义现代化、担当起民族复兴的历史重任？然而令人感到可笑的是，在西方敌对势力亡我之心不死，借助一切手段加大了意识形态渗透、和平演变力度的当下，我们的一些大学教师不是极力抵制而是积极充当其代言人甚至抹黑中国，这样的教师该不该给予严厉打击，“发现一个严惩一个”？</p></blockquote>
+<ul><li>还把原《炎黄春秋》执行主编洪振快<a href="http://china.gansudaily.com.cn/system/2015/08/25/015678030.shtml">批判了一番</a>：</li>
+</ul><blockquote><p>作为专家学者、社会公知，不是以爱国之心、民族大义为重，引领社会正能量；而是丧失最起码的民族良知，接受美国等西方国家收买，抹黑英雄恶搞历史，颠倒黑白颠覆信仰，试图削弱对人民民主专政的认同，动摇共产党的执政根基，简直就是“汉奸”、就是“卖国贼”，因而必须像当年的“锄奸”那样，将这些民族败类们铲除干净！</p></blockquote>
+<ul><li>“<a href="http://m.blogchina.com/blog/view/uname/liming730210/bid/446349">骂罢政府骂学术的知识分子，应当迷途知返！</a>”</li>
+</ul><blockquote><p>那些不知好歹的文化人，什么教授、研究员、批评家，靠政府微薄的工资吃茶饭的一拨“闲人”或“庸人”，常以不屑一顾的语气说东道西、闲话彼此，这本不关我等俗人之事，但如今他们这种亵渎国学、辱骂大师、蛊惑人心的行为实在是厚颜无耻、不知天高地厚。</p></blockquote>
+<ul><li>根据李吉明的姿势水平，都市传奇《十条诫令》<a href="http://liming730210.blogchina.com/416062.html">是真的</a>：</li>
+</ul><blockquote><p>美国中央情报局在其机密的“行事手册”中关于对付中国的部分最初撰写于中美极度对抗的1951年，以后随着中美关系的变化不断修改，至今共成十项，内部代号称为《十条诫令》。清楚地反映了中央情报用在华活动的重点目际和其险恶用心，现将全文转述如下：</p></blockquote>
+<ul><li>称李银河为<a href="http://liming730210.blogchina.com/453657.html">缔造性淫乱的丑婆姨</a>。</li>
+</ul><ul><li>不想搞个大新闻声明：<a href="http://liming730210.blogchina.com/417312.html">我与吴祚来绝非朋友，更不是一丘之貉</a></li>
+</ul><p> <br><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/u/1707683373" target="_blank">张鸣</a>：成了害马，荣幸。</p>
+<p><a href="http://weibo.com/3738026925" target="_blank">红河律师</a>：千古奇文! 本质:只有每日三呼“吾皇万岁!万岁!万万岁!”的臣民，才是好奴才!<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"></p>
+<p>@霾中之国：呵呵，宣传普世价值，霍乱视听，你是赞他们还是黑他们呢？</p>
+<p>@于洋律师：爱国就不能宣扬普世价值，难道这“国”是大清国不成？</p>
+<p>@光之前_jfn：各大纸媒、电媒、出版业都被某团伙打着国家的旗号垄断了，还要高喊“打一场意识形态的反击战”，正如一伙歹徒开着装甲车坦克上街高喊“指甲刀实名制，不实名收缴为国家财产！”。“指甲刀也是到，是刀就是凶器”</p>
+<p>@一生一会_21346：文采不如当年的“大字报”</p>
+<p>@ycyu8708：“一个连自己国家都不爱的人，是很难担当“教书育人”重任的。”——-请问所列举的公知如何就不爱国了？我看他们的言论证明他们恰恰才是真正的爱国者。</p>
+<p>@成就一切微尘定：把他们都打倒,我们就可以过上朝鲜的幸福生活了</p>
+<p>@愿意试：你不提我都不知道这几个人要关注，我要监督他们～谢谢提醒</p>
+<p>@林敬竣：一篇多好的文章，一篇教育人说谎不要脸红的范文，一篇倒打一耙的精华样本，一篇纯粹工作的作品，好好好。文章说了，“连自己国家都不”呆””……恰到好处</p>
+<p>@青城季节：他们手舞足蹈，义愤填膺，正义凛然，高喊着我要我要，亢奋的死去活来。</p>
+<p>@昆明好教练：张老师把整个中国的教育给害了，你真行！</p>
+<p>@出土的小青蛙：就是不允许不同意见，就这点胸怀，还他妈得中国梦呢，</p>
+<p>@杨春林佳：无权无势者就能唱衰中国，请问中国和美国一样都是纸老虎吗？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">辽宁日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%92%8C%E5%87%A4%E8%80%8C%E9%B8%A3%EF%BC%9A%E4%B8%89%E6%9C%9D%E5%9B%BD%E5%B8%88%E7%8E%8B%E6%B2%AA%E5%AE%81%E6%84%A7%E5%AF%B9%E9%BB%8E%E6%B0%91/" target="cdt-mirror">博客中国｜和凤而鸣：三朝国师王沪宁愧对黎民</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Wang_Huning_2013.jpg" alt="Wang_Huning_2013" width="100" height="150">某年某月某日午夜，一位气度不凡的企业家约谈我，他说他现在急需要一个顶层设计的文化助理，想聘我为公司的“王沪宁”。我一听就本能地弹出了一句：不为生民争权立命，只为帝王著功立言，知识分子和凤而鸣，王沪宁愧对黎民苍生。至于我与企业家谈的结果如何，暂且不表，下面就来侃一侃王沪宁。</p>
+<p>    说起王沪宁，稍有文化的人无不对其膜拜有嘉，皆因他是三朝国师和首席文胆。其实，我对王沪宁的了解比一般的淫儿更早，25年前他是复旦大学政治系教授，他肩负复旦大学辩论队领队、总教练和总顾问，在首届新加坡华语大专辩论赛中一举成名，复旦大学队获得冠军，辩手有姜峰、严加、季翔和蒋昌建，这些大家不应该陌生。王沪宁和他弟子们在辩论中的精彩演绎倾倒国人，尤其迷死大中专院校的莘莘学子。由王沪宁和俞金吾编著《舌战狮城》一书一直风靡九十年代的大学校园，从而在中国掀起了辩论秀热潮。我们知道，辩论从产生到发展都是为了辩出真相、真知和真理，以便于能提升整个人类社会的文明认知，但中国的辩论秀却与这毫无关系。《舌战狮城》一书只告诉每一个喜欢辩论的大学生：如何旁征博引、如何出其不意、如何技巧取胜。把一个好端端揭秘人生奥秘、探索社会道义、反思国家命运的民主工具，彻底娱乐成个人投机取巧的反智舞台。这种只重形式不重本质、只重表演不重践行、只重输赢不重真理的辩论秀，为啥能风靡中国？因为它刚好与这个国家的各种做派天然嵌合。你可以将月亮说成太阳，你可以将地狱描绘成天堂，你可以将臭不要脸雄辩成器宇轩昂，只要你占优了场面、话机和节奏，你就是最后的赢家，你就可能赢者通吃。</p>
+<p>    王沪宁和他的弟子们无疑都是赢家，王沪宁就此平步青云，旋即升调中央政研室，执掌首席国师17年，辅佐三朝领袖的谋纲施政，也算鞠躬尽瘁，居功至伟。但是，满腹经纶的王沪宁究竟为这个世界最大国家的三代领袖贡献了什么样的思政宏论呢？三个代表，科学发展观，伟大中国梦，还有正在路上的绝忠誓师和铁营重构。这些应该是王国师所奉出的最主要的锦囊智慧，最终转化为国家意志和意识形态唱响了最近二十年的政治主旋律，不但挥霍所有食利阶层日学夜读的碌碌时光，而且排他性霸居大国宝贵的文宣资源和教育阵地，并滋养了一大批犬儒学者对此不惜耗费半生心血和纳税人的血汗研究出连他们自己也从不看第二遍的狗血文字。请问王国师，你真的问心无愧吗？</p>
+<p>    十五年前，我的一个老师，一个老布尔维什克，戴着老花眼镜字斟句酌教我们学习三个代表理论，那种如醉如痴，那种倾情沉迷，那种如获至宝的连连叫好，我当时心里就想说一句“您老没事吧”。什么先进生产力代表，什么先进文化代表，什么根本利益代表，在我的心里就是三个字“草泥马”。王国师，请问先进生产力代表了啥，代表了防火墙还是代表了马桶盖？先进文化代表了啥，代表了孔子学院还是代表了孔子和平奖？根本利益代表了啥，代表了权贵利益还是代表了绝对忠诚？三个代表的答案随着时间推移越来越清晰，但王国师你为什么就要生产出这般假大空忽悠亿万国民的垃圾思想呢？你不觉得脸红吗？同样是这个老布尔维什克教授，一边讲着三个代表，一边又给弟子谆谆教诲：“找工作坚持两个原则，要么能当官，要么能赚钱”。原来一本正经的背后是如此龌蹉不堪的猥琐心机，我才明白，三个代表这块遮羞布掩盖的全是一群“闷声发大财”的王八蛋。我也第一次领悟什么叫大智若愚。</p>
+<p>    三个代表尘烟未尽，科学发展观的战鼓又擂得满地颤抖，一句索然无味的正确废话就帮胡温朝鬼混了整整十年。这十年是血腥强拆的十年，是地沟油最火热的十年，是上访最激烈的十年，是失独家庭集体绝望的十年，是光棍逐年以千万计增长的十年，是权贵从羞羞答答的勾结掠夺到肆意踩碎廉耻明抢明占的十年，是满朝文武藏绿卡半壁江山养红颜的十年，是维稳预算超过国防军费的十年。请问王国师，你说这是科学吗？你说这是发展吗？这就是你的科学发展观？</p>
+<p>    要说你王沪宁教授不懂世界潮流，谁信？要说你不知道普世精神，谁信？要说你不知道民主宪政，谁信？要说你不知道政治家的本分，谁信？要说你不知道知识分子的使命，谁信？但你却装聋作哑一味迎合，你故弄玄虚屈身慰主，你罔顾众望和凤而鸣，不为苍生说人话，只为帝王唱赞歌。王教授，王国师，我真的服了你！</p>
+<p>文\羽谈飞</p>
+<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%92%8C%E5%87%A4%E8%80%8C%E9%B8%A3%EF%BC%9A%E4%B8%89%E6%9C%9D%E5%9B%BD%E5%B8%88%E7%8E%8B%E6%B2%AA%E5%AE%81%E6%84%A7%E5%AF%B9%E9%BB%8E%E6%B0%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">三个代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B2%AA%E5%AE%81/?category=18271" rel="tag">王沪宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E8%A7%82/?category=18271" rel="tag">科学发展观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/" target="cdt-mirror">【图说天朝】党报的日常：习，你是唯一</a>
+</h2>
+<p><p>【编者注】《人日》这种头版完全只有习近平的情况其实并不罕见，尤其在他外访期间，如最近访美、访英时都曾出现过（文末附图）。15年12月4日的头版显得如此突兀，可能是排版较为单调的原因，不似访美、英期间配有多张图片。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg" alt="习近平" width="525" height=""></a></p>
+<blockquote><p><a href="http://weibo.com/u/1496825941?from=feed&loc=nickname" target="_blank"> @杨锦麟</a>：<a href="http://huati.weibo.com/k/%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87%E5%BE%88%E6%96%B0%E9%94%90?from=501" target="_blank">#我的照片很新锐#</a>有一點感覺，或許不一定準確，這樣的習版，似乎是「有人在玩」他！不正常，建國以來及改革開放之後，很少看到這樣的版面。</p>
+<p><a href="http://weibo.com/jiangyuanshan" target="_blank">攝影人姜淵杉</a><i title="微博个人认证 "></i>：习上台前新闻联播延时屈指可数，习上台后，新闻联播延时次数不过来<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">。</p>
+<p>@哈尔滨新青年：应该给百姓发一个小红本</p>
+<p>北洋学士：一竖排，七个横排，再四个横排，就怕细思！</p>
+<p>@潍水宝都：图片评论<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/a764e92cjw1eyo2cvzioyj20db0nojsr.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/a764e92cjw1eyo2cvzioyj20db0nojsr.jpg" alt="a764e92cjw1eyo2cvzioyj20db0nojsr" width="350" height="623"></a></p>
+<p>@拈花即语：右上角还差语录</p>
+<p>@蚁吁-稻草：感觉全是他一个人在忙……</p>
+<p>@zaleplon：看看北京地铁……三个月全是月饼的视频。包大大好这口!</p>
+<p>@v实话实说v： 密集恐惧症的我很不适应</p>
+<p>@color一酶：包子八十天环游世界！！！</p></blockquote>
+<p><strong>附：</strong></p>
+<p><strong>2015访美期间：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%BA%BA%E6%97%A5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%BA%BA%E6%97%A5.jpg" alt="习近平访美人日" width="475" height=""></a></p>
+<p><strong>2015访英期间：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1%E4%BA%BA%E6%97%A5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1%E4%BA%BA%E6%97%A5.jpg" alt="习近平访英人日" width="475" height=""></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5%EF%BD%9C%E8%92%8B%E9%93%81%E9%92%A2%EF%BC%9A%E5%A6%84%E8%AE%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E5%81%B6%E5%83%8F/">联合早报｜蒋铁钢：妄议习近平的政治偶像</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A2%AB%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E6%8F%90%E5%8F%8A%E7%9A%84%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87/">自由亚洲 | 习近平被党报提及的次数超过毛以后任何领导人</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/08/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%B8%AD%E7%9A%84%E8%80%81%E5%A4%A7%E5%92%8C%E8%80%81%E4%BA%8C%EF%BC%88%E6%9C%89%E5%9B%BE%E6%9C%89%E7%9C%9F%E7%9B%B8%EF%BC%89/">元淦恭：新闻联播中的老大和老二（有图有真相）</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E7%9A%84%E9%95%BF%E5%BA%A6/">元淦恭：新闻联播的长度</a></li>
+</ul></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1325643318178.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1325643318178.jpg" alt="三胖鼓掌" width="250" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90%E5%B8%9D/?category=18271" rel="tag">包子帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E4%B8%9C%E5%8A%B3%E5%B7%A5ngo%E9%81%AD%E8%AD%A6%E6%96%B9%E6%89%AB%E8%8D%A1-%E5%A4%9A%E5%90%8D%E5%8A%B3%E7%BB%B4%E4%BA%BA%E5%A3%AB%E8%A2%AB/" target="cdt-mirror">自由亚洲｜广东劳工NGO遭警方扫荡 多名劳维人士被抓</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6ae196ac-df34-4ccd-9192-d95ad43f408d.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6ae196ac-df34-4ccd-9192-d95ad43f408d.jpeg" alt="广州海哥劳工服务部陈辉海主任在工人代表保护机制研讨会上对“工人代表被打压后的救济途径”做精彩的主题发言。（资料图/微博图片）" width="450" height="600"></a><p>广州海哥劳工服务部陈辉海主任在工人代表保护机制研讨会上对“工人代表被打压后的救济途径”做精彩的主题发言。（资料图/微博图片）</p></div>
@@ -596,71 +692,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9B%E4%BA%86%E7%AF%AE%E5%AD%90-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E7%9C%9F%E6%88%90%E9%87%91%E8%9E%8D%E5%A4%A7%E5%9B%BD%E4%BA%86/" target="cdt-mirror">世界日报｜人民币进了篮子 中国就真成金融大国了？</a>
-</h2>
-<p><p>中国人民银行行长周小川日前为人民币国际化订出明确时间表，提出在五年后让人民币成为「国际性货币」，这另一个「中国梦」正在实现。国际货币基 金 (IMF)30日决定，将人民币纳入特别提款权(SDR)一篮子货币中，使人民币成为美元、欧元、英镑和日圆之外的全球五大货币之一。这是人民币国际化的 关键一步，也有望扩大中国经济金融版图，奠定中国金融大国地位。预计未来人民币在SDR中的权重，可能超越日圆，挑战英镑，甚至多年后挑战欧元地位。</p>
-<p>如果说，14年前中国加入世界贸易组织(WTO)，推动中国的出口型经济腾飞，那么现在人民币获准加入SDR，可能帮助中国在国际金融舞台站稳脚跟。中 国把人民币纳入SDR一篮子货币中，形象地称为「入篮」。可以说，人民币是「后布雷顿森林体系时代」第一个真正新增、第一个来自开发中国家、也是第一个按 可自由使用标准加入SDR的货币，无疑将增加人民币在IMF机制内的流通使用。不过按IMF规矩，人民币要正式成SDR一员，还要等到明年9月30日。</p>
-<p>人民币纳入SDR，对中国的重要意义显而易见。首先，它代表国际社会对中国作为最大贸易国和全球第二大经济体，在全球经济和国际金融中日益增强影响力的认可，同时也提升中国在国际货币和金融治理中的话语权。</p>
-<p>其次，有利增强市场对人民币信心，增加国际范围内公共部门和私人部门对人民币的使用，促进人民币国际化。</p>
-<p>第三，有助人民币成为国际储备货币，增强中国央行货币政策的独立性，扩大应对中国经济波动的政策空间。</p>
-<p>尤其重要的是，人民币成为国际储备货币，对中国老百姓境外消费、投资等将带来很大便利，未来持人民币「走天下」将不是梦。目前中国人出境旅游，不仅出发 前须换算汇率、预约银行换汇；回国后，还需要再把剩余外币现金兑换成人民币，其中不仅有汇率损失，而且操作步骤相对复杂，也增加出国成本。但在人民币加入 SDR后，将有越来越多国家认可人民币，愿意接收人民币，或用人民币来广泛开展各种交易。中国人出国留学、个人海外投资等，也可望从人民币「入篮」后间接 受益。</p>
-<p>而对国际社会，中国人民币加入SDR，将使SDR本身具更大代表性，甚至成为IMF改革的催化剂。美国过去较担心人民币国际化， 对美元独霸地位带来负面影响，但如今越来越多人认识到，人民币国际化短期和中期不仅不致构成对美元的挑战，而且有利美中经济平衡。中国对美国贸易持续顺 差，将不断积累美国国债。而人民币国际化后，可在某种程度上自然纠正美中贸易失衡。</p>
-<p>同时，美国也因在IMF所特有的投票权和话语权，将 获得控制人民币国际化进程的更大空间。因此，今年9月欧巴马总统和中国国家主席习近平的「欧习会」，美国对人民币纳入SDR一篮子货币，态度首度放软，成 为人民币迈向国际储备货币的关键。但可以预期，美国绝不会允许人民币国际化进程走太快，进而挑战美元霸权地位，一定会设法用强势美元战略，来抑制中国的强 势人民币战略。</p>
-<p>尽管人民币纳入SDR对中国的象徵意义巨大，必须指出的是，首先，这并不意味着人民币会立即成为储备货币，各国货币当局 仍将根据市场因素，决定是否将人民币加入其本国的储备货币库。据统计，截至2015年9月，IMF各成员国的SDR配额，相当于2800亿美元，而全球储 备资产规模约11兆3000亿美元，说明SDR在全球储备资产中所占份额还很低。</p>
-<p>其次，人民币加入SDR，意味人民币获得成为重要国际 化货币的「入场券」，但短期或不会直接增加人民币国际化的收益和资金流，反而人民币汇率贬值压力仍会较大。当前人民币在贸易结算中的占比居全球第三，但与 美元、欧元相比仍较低，同时在跨境支付中，尚未进入全球前五名，因此人民币国际化还有较长的路要走，加入SDR只是一个新开始，并非结束。</p>
-<p>至于人民币汇率，加入SDR篮子本身对人民币汇率是个利好消息，但这一利好几乎已被市场消化殆尽。现阶段人民币汇率有一定贬值预期。从现在起到明年正式 「入篮」期间，人民币可能再贬值3%至4%。而从长远角度看，逐步放开人民币波动区间，让汇率市场向更为市场化的方向发展，仍是大势所趋。这些都标志着中 国经济和金融走向市场化、国际化，甚至「资本主义化」，再向前迈进一大步。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9B%E4%BA%86%E7%AF%AE%E5%AD%90-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E7%9C%9F%E6%88%90%E9%87%91%E8%9E%8D%E5%A4%A7%E5%9B%BD%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E7%AF%AE%E5%AD%90/?category=18271" rel="tag">货币篮子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">金融市场</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/" target="cdt-mirror">财经网 | 莲花味精：取消提名习银平为独董候选人</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/201512021021094971b_550.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/201512021021094971b_550.png" alt="201512021021094971b_550" width="550" height="645"></a></p>
-<p>中国网报道 12月2日讯 莲花味精周二晚间发布公告称，经公司董事会提名委员会审核通过后，提名习银平先生、邢战军先生为公司独立董事候选人。</p>
-<p>————–</p>
-<p>财经网报道 12月2日盘后，莲花味精（600186.SH）公告称，公司董事会决议取消提名习银平为公司独立董事候选人，将尽快提名新的独立董事候选人。</p>
-<p>就在12月1日，莲花味精公告称，提名习银平为河南莲花味精股份有限公司第六届董事会独立董事候选人，并已充分了解被提名人职业专长、教育背景、工作经历、兼任职务等情况。12月2日，莲花味精开盘涨停，全天封涨停板，当日成交10.98亿元。</p>
-<p>在12月1日的公告中，莲花味精称，被提名人已书面同意出任河南莲花味精股份有限公司第六届董事会独立董事候选人。提名人认为，被提名人具备独立董事任职资格，与河南莲花味精股份有限公司之间不存在任何影响其独立性的关系。</p>
-<p>公告称，被提名人具备上市公司运作的基本知识，熟悉相关法律、行政法规、规章及其他规范性文件，具有五年以上法律、经济、财务、管理或者其他履行独立董事职责所必需的工作经验。且被提名人符合《公务员法》关于公务员兼任职务的规定；中央纪委、中央组织部《关于规范中管干部辞去公职或者退（离）休后担任上市公司、基金管理公司独立董事、独立监事的通知》的规定；中央纪委、教育部、监察部《关于加强高等学校反腐倡廉建设的意见》关于高校领导班子成员兼任职务的规定等。</p>
-<p>公开信息显示，习银平，汉族，1969年8月出生于陕西富平县，本科学历。2007-2012年任国际环保联盟荣誉会长，2010-2013年任和谐中国陕西工作站秘书长，2014年至今任陕西习仲勋研究会副会长，2013年至今任中国高层决策协会西部发展办公室副主任。</p>
-<p>据信报报道，46岁的习银平是陕西富平县人，传是习近平堂弟。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%9C%E5%B9%B3/?category=18271" rel="tag">习远平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E8%91%A3%E4%BA%8B%E5%80%99%E9%80%89%E4%BA%BA/?category=18271" rel="tag">独立董事候选人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE/?category=18271" rel="tag">莲花味精</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%A0%E6%96%87%EF%BC%9A%E5%80%98%E4%B8%8D%E6%8A%97%E4%BA%89-%E5%88%99%E9%9B%BE%E9%9C%BE%E6%97%A0%E6%B2%BB/" target="cdt-mirror">章文：倘不抗争 则雾霾无治</a>
-</h2>
-<p><p>写此文时，北京已经连续四日重度雾霾，我的嗓子也有些疼了。今天一天都不敢出门，就坐在开着空气净化器的家中，看朋友们在微博和微信朋友圈中各种自嘲和抱怨。然并卵。</p>
-<p>北京市长王安顺一年前的表态又被刷屏了。2014年北京两会上他代表北京与中央签订责任状时，中央领导说2017年实现不了空气治理就“提头来见”。此次在北京市政协十二届三次会议召开的“加快科技创新中心建设和推进京津冀协同发展”专题座谈会上，他解释说，之前媒体报道的治不好霾“提头来见”，既是一句玩笑话，也是表达治理大气的信心和决心。</p>
-<p>这个解释真让我生气，政治人物的表态岂能当作“玩笑话”，虽然不可能“提头”，但完不成任务摘去乌纱帽则理所应当。现在被王安顺这样一说，感觉就是领导和他开了一句玩笑，放了一个屁而已。</p>
-<p>当然，北京雾霾非北京一地可以解决，牵涉到河北、天津等地，需要京津冀联动。因此也不是王安顺一人能够主导，况且北京城还是首都，一干中央首长住在里面。</p>
-<p>就在北京、乃至整个华北沦陷于雾霾之际，从法国巴黎气候大会上传来令国人“自豪”的消息：习近平宣布中国将出资200亿元人民币建立“中国气候变化南南合作基金”，用于支持其他发展中国家应对气候变化。</p>
-<p>最近两年来，由于中国到处送钱，被送绰号“大撒比（币）”。中国民众很多为此感到骄傲，但也有不少感到愤怒。因为领导人大口一张就是几十亿、几百亿地撒出去了，而国内还有不少贫困地区的孩子缺衣少食、学舍破败，还有不少人看不起病，还有不少人生活在悲惨的境地。不过这一切都被盛世的繁华掩盖了，底层民众的辛苦只有自己去承受。</p>
-<p>然而，雾霾却是没有办法掩盖，也是不可回避的。去年两会前夕，前央视调查记者柴静制作了“穹顶之下”专题片，聚焦中国大地上越来越严重的空气污染问题。热播两周后被禁。事后听权威人士讲，有中央领导认为此片挑在两会之前放出，是“境外反华势力向我党的一次进攻”。</p>
-<p>领导人这样说，应该是从政治层面考虑。然而有些人真的认为雾霾之下有阴谋。有一次我和国防大学某教授同台做节目，节目开始前教授非常认真地对我讲“别把雾霾看得这么简单，这是美国针对中国的气候战”。我当时呆住了，真想上前摸摸他的额头看他发烧否。</p>
-<p>而在普通人中，认可这种“阴谋论”的不少。这真是令我哭笑不得：这是一个多么爱好阴谋论的国度啊！几千年来，中国的历代王朝上演了不计其数的各种阴谋，以至于到了21世纪的今天，“阴谋论”阴魂依然不散。</p>
-<p>雾霾何来？其实非常清楚：三十多年来的粗放式、以牺牲环境为代价的发展，是导致今天雾霾的主因。岂止空气，土壤和河流同样被污染。</p>
-<p>在朝廷者皆知主因何在，因此也力促“产业转型与升级”，然积重难返。更关键的是，中央的“GDP至上”指挥棒并未改变，地方追求政绩的欲望仍然强烈，在产业升级转型长期且困难时，几年一换的地方官们只会在意短期效益，不会做长远打算。</p>
-<p>这就是朝廷上下的心理以及雾霾难治的原因。在人大和媒体监督无力的情况下，这种困境几乎无解。连续多日重度雾霾，未见一个人大代表提出异议，未见一家媒体批评政府。那些走上街头强烈抗议日本占领钓鱼岛的爱国愤青们，面对危害其身体健康的雾霾，也不知龟缩到哪里去了。</p>
-<p>当年英国伦敦和美国洛杉矶的雾霾，就是民众不停地抗议、媒体不停地报道，才终于缓解并获得根治。所以民主真不是说着玩的，没有选票，没有新闻自由，没有公民运动，雾霾就真的无治，起码在相当长时间内看不到解决的希望。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%A0%E6%96%87%EF%BC%9A%E5%80%98%E4%B8%8D%E6%8A%97%E4%BA%89-%E5%88%99%E9%9B%BE%E9%9C%BE%E6%97%A0%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">雾霾危机</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -672,7 +703,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -682,5 +713,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

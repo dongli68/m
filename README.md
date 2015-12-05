@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%A8%E7%AB%99ip%E8%A2%AB%E5%A2%99-%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%89%80%E6%9C%89%E8%AF%AD%E8%A8%80%E5%85%A8%E9%9D%A2%E9%98%B5%E4%BA%A1/" target="cdt-mirror">基金会全站IP被墙 维基百科所有语言全面阵亡</a>
+</h2>
+<p><p>网曝维基百科所有语言版本在中国大陆境内均无法通过电脑访问。有网民称，目前移动端仍可正常连接。</p>
+<p>根据维基百科词条“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%AF%B9%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E7%9A%84%E5%B0%81%E9%94%81#2015.E5.B9.B4">中国大陆对维基媒体的封锁</a>”：</p>
+<blockquote><p>2015年12月4日下午起，维基百科的所有语种版本在中国大陆均不可访问，至5号，封鎖范围已擴展至維基媒體基金會全站，众多维基IP被封锁，更改主机 hosts已经无法解决问题。到其IP地址198.35.26.96的安全连接被阻断，但IP地址208.80.154.224仍可连接，智慧手机應用程式的连接尚正常。</p></blockquote>
+<p>推特用户<a href="https://twitter.com/chengr28" data-mentioned-user-id="45630895">@<b>chengr28</b></a>:</p>
+<blockquote><p>维基百科服务器的IP地址被墙了……所以上不了。之前一直只是投毒污染中文语言的域名，现在各个语言的都上不去了</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-04-at-11.01.24-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-04-at-11.01.24-PM.png" alt="Screen Shot 2015-12-04 at 11.01.24 PM" width="525" height="260"></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%A4%A7%E6%89%93%E5%87%BB%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/">反法西斯大阅兵前 中国被曝加大打击外国VPN服务</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-shadowsocks%E9%87%8D%E8%A6%81%E9%A2%86%E5%AF%BC%E8%80%85%E8%A2%AB%E5%96%9D%E8%8C%B6-%E6%94%BE%E5%BC%83%E9%A1%B9%E7%9B%AE%E7%BB%B4%E6%8A%A4/">Shadowsocks重要领导者被喝茶 放弃项目维护</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/github%E7%96%91%E9%81%AD%E6%9D%A5%E8%87%AA%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E7%9A%84%E5%A4%A7%E5%9E%8Bddos%E6%94%BB%E5%87%BB/">GitHub疑遭来自防火长城的大型DDoS攻击</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%8F%E8%AE%AE%E5%B1%82%E9%9D%A2%E4%B8%8A%E5%B1%8F%E8%94%BD%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/">中国在协议层面上屏蔽外国VPN服务</a></li>
+<li><a title="网曝Gmail电邮客户端被墙，已彻底沦陷" href="http://chinadigitaltimes.net/chinese/2014/12/%E7%BD%91%E6%9B%9Dgmail%E7%94%B5%E9%82%AE%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%A2%AB%E5%A2%99%EF%BC%8C%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%B2%A6%E9%99%B7/">网曝Gmail电邮客户端被墙，已彻底沦陷</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@Julian_the_Apostate_：还真是的，英文维基百科也被墙了，对于平时想看点正儿八经的东西的人来说没谷歌就够痛苦了，现在维基也没了。全体人民现在只能看百度的不孕不育广告了，真伟大，社会主义太牛逼了！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/70fc9484gw1eyopil10h2j215i15iqgu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/70fc9484gw1eyopil10h2j215i15iqgu.jpg" alt="70fc9484gw1eyopil10h2j215i15iqgu" width="440" height="440"></a></p>
+<p>@某只伊：嚓，维基百科全面被墙了，以后在外头想查点东西都麻烦了。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6d2bd3bagw1eyopgkkouzj20i70cwt90.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6d2bd3bagw1eyopgkkouzj20i70cwt90.jpg" alt="6d2bd3bagw1eyopgkkouzj20i70cwt90" width="440" height="312"></a></p>
+<p>@AngelinaAnne：虽说当年搞学术的时候大家都鄙视维基，只奉学术论文引用为正统；虽说维基上也有不少错误，然而这毕竟是开阔眼界的一扇窗，为了证伪维基而读书也能获取不少知识。我们跟国外比啥都不差，就这点不行。#每天凑五条#</p>
+<p>@伊藤薄饼：维基百科全面被墙。道路以目，精神锁国的大防火墙时代终于来了。汝必日暮途远，故倒行而逆施之。</p>
+<p>@陆大鹏Hans：哈！封了我每天工作必用的维基百科外文版。。由百度，女德，儒家国师，国梦，核x价值观，星辰大海，一花一带组成的盛世看样子已然降临。荣耀啊荣耀！</p>
+<p>@琴吹七瀨：维基百科又被封了？这次连英文都不放过？祝大大吃屎开心，全家中国梦。</p>
+<p><a title="阿瓜想去给娘家队开大巴" href="http://weibo.com/u/1996500645" target="_blank">阿瓜想去给娘家队开大巴</a>：卧槽在家连维基百科都上不了<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">要死了</p>
+<p><a title="TIANA_G" href="http://weibo.com/u/1687452035" target="_blank">TIANA_G</a>：作为一个三天两头需要做pre查维基的人，全语种封了维基百科难道去用百度？你国真棒。<img src="https://s.w.org/images/core/emoji/72x72/1f595.png" alt="</p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/" target="cdt-mirror">要在高校“打响意识形态反击战”的李吉明是谁？</a>
 </h2>
 <p><p><strong>李吉明：清除高校害群之马，打响意识形态反击战</strong></p>
@@ -667,31 +694,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%8D%E6%98%AF%E5%AE%98%E8%AF%9D%EF%BD%9C%E4%B8%BA%E5%95%A5%E5%85%9A%E6%8A%A5%E7%9A%84%E6%96%B0%E9%97%BB%E4%B8%8D%E5%A5%BD%E7%9C%8B%EF%BC%9F/" target="cdt-mirror">不是官话｜为啥党报的新闻不好看？</a>
-</h2>
-<p><p><strong>微信公号：不是官话； ID: bushiguanhua</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/640.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/640.jpg" alt="640" width="585" height=""></a></p>
-<p><em>作者/方迅 编辑/蔡军剑 制作/大锅 图片来自网络</em></p>
-<p>我在地市党委机关报工作。作为党报记者，我们下到各区县，确实是备受礼遇，看上去风光得很哪。可是，要说起那些窝囊事，那也是三天三夜说不完的。比如，审稿的那些事儿，外面人倍感神秘，对我们却是家常便饭，也伤我们最深。党报担负着政治责任，除了新闻差错，还存在只可意会不可言传、规矩高悬规定模糊的政治差错。所以，很多党报人时刻有如履薄冰的心态，审稿在很大程度上能够确保稿件“安全”，但审稿的经历大多是不愉快的，尤其遇到一些不讲专业的“婆婆”，实在是苦不堪言。下面说说咱们编辑部最怕的四种人：</p>
-<p><strong>1 完全不懂传播的</strong></p>
-<p>这类人可能有很强的文字功底，写公文也是把好手，但对新闻传播一窍不通，对新闻稿的规范要求也完全不懂，就是按照自己的喜好和写公文的经验来硬套。一次，我写了一篇领导调研的稿子，用的是双行题，即眉题是“某某在某地调研时强调”，主题则是讲话的核心提炼内容（一般标题中能出现名字的，就是本地前5位领导：市委书记、市长、副书记、人大主任、政协主席）。结果审稿的一位秘书不懂，一直追问，为什么在标题里出现的话还要出现在导语里，这样写太重复了，非要将主题删掉，只保留眉题。如果标题是“某某在某地调研”也是对的，但他非要把后面的“强调”二字也保留，结果就只有“某某在某地调研时强调”这个一行题，后面什么都不接。后来，我拿出《人民日报》的标题设计给他看，他才没有乱来。</p>
-<p>这个例子比较极端，毕竟如此“不学无术”的秘书不多见，但总有很多人为了突出领导指示的高大上，将稿件篇幅拉得很长，领导讲话的每个要点都要不断延伸细化，使一篇消息稿的篇幅可以和长篇通讯相媲美。还有些人将会议主持词中的各种背景放到新闻稿里，能从中央的指示精神一直延伸下来，以突出会议的重要性，或者将一些常规性、惯例性的领导批示也塞到新闻稿中，以体现对领导指示的仰视，将新闻稿变成了“四不像”，还在那里沾沾自喜。</p>
-<p><strong>2 太过重视宣传的</strong></p>
-<p>有些市领导非常重视宣传，重视到事无巨细亲自抓，尤其是新官上任，多会对自己的新闻报道格外重视。本地新来了一位主要领导（正厅级），对自己的新闻报道“关心入微”，开一个会，秘书准备有讲话稿，但他喜欢临场发挥一些，根据讲话稿和现场录音整理出的稿子根本无法审核通过，因为他要重新加工一下，即便很多是会上根本没讲过的，于是整篇新闻稿除了开头结尾是记者所写，剩下的就是该领导的“署名文章”了。遇上如此重视宣传的领导，任何记者都无法顺利过关，甚至连秘书都挠头无奈，他们会为了一个句子、一个字而不断推敲，甚至连用“被”字句和“被”字句都陷入选择症状，实在是一种不想重复的体验。</p>
-<p><strong>3 文字完全不通的</strong></p>
-<p>有些审稿人只会干行政工作、后勤工作，几乎没有任何文字功底，也可以说文字工作不是其长项，碰上这样的人，也只能自认倒霉。曾经遇到一位，是连规范汉字都没学全的，还保留着很多之前的一批简化字的痕迹（恕我无知，不知道是第几批简化字），比如“量”的下面不是“里”而是“力”，“展”的下面就只写个“一”；此人对标题符号也很不通，新闻稿中的领导讲话可以出现多处感叹号，将领导讲话硬生生用感叹号隔成了诗歌，读来十分滑稽可笑。</p>
-<p><strong>4 效率极其低下的</strong></p>
-<p>说的就是“慢”，而且慢到离谱。很多时候，审稿时间是可以重新写出好几篇稿子的，但如此多的时间只是用在一篇稿子上扯皮。一次，因为一篇稿子中出现两位老大（市委书记与市长），稿子要分开审。其实每位领导的讲话篇幅也就三百多个字，内容是针对绿化工作，并无复杂之处。但市长秘书（政府办主任）在我眼前硬生生抻了两三个小时，在白纸上的三百多个黑字上面画来画去，一会儿要这样，一会儿要那样，显得极为谨慎纠结。其实，他作为市政府办主任对稿件有终审权，如果觉得记者写得不行，他常在领导左右，经常与文字为伍，大可自己编上三百个字，也用不上几分钟，但就是连这点基本的效率都没有。还有一次是弄个新闻通稿，内容都是从领导讲话和汇报材料中复制出来的，只要核对一下数字、校对一下字句就可以了，偏偏就遇到一个磨蹭的审稿人（主管部门的副职，一个女的，最难缠），像得了“拖延症”一般，头一天就把稿子发过去了，过了两三天还不见审核完，等待的长度让人无语。</p>
-<p>以上四种皆为有代表性的现象，审稿中的奇葩经历不在少数，常常让人啼笑皆非，平时敢怒不敢言，在此吐槽诉一下委屈，让大家见笑了。（大家都说现在的报纸面目可憎，但其实我们同事的文笔、识见没那么糟糕，我们也痛恨那种八股文风呢。但您想想，有那么些难缠的“婆婆”在，还有多少人会去一根筋地琢磨什么理念创新、手段创新、基层工作创新呢？说实在的，基层工作创新不难，难的是市里“婆婆”们的理念要更新。起码起码，您遇到问题也可拿《人民日报》“对对口径”嘛，您看连《人民日报》的文风都变鲜活了，我们地市党报若仍一副死相，还会有明天吗？）</p>
-<p><strong>（作者为党报记者）</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%8D%E6%98%AF%E5%AE%98%E8%AF%9D%EF%BD%9C%E4%B8%BA%E5%95%A5%E5%85%9A%E6%8A%A5%E7%9A%84%E6%96%B0%E9%97%BB%E4%B8%8D%E5%A5%BD%E7%9C%8B%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -703,7 +705,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -713,5 +715,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

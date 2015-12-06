@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,102 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/ngocn-%E4%BF%9D%E6%8A%A4%E7%8E%AF%E5%A2%83%E6%80%8E%E4%B9%88%E5%A6%82%E6%AD%A4%E5%8D%B1%E9%99%A9%EF%BC%9F/" target="cdt-mirror">NGOCN | 保护环境怎么如此危险？</a>
+</h2>
+<p><p>昨天早上，两名环保NGO的志愿者在福建省宁德市蕉城区酒店被警察带走，理由是“涉嫌卖淫嫖娼”，两名自愿者分别来自NGO自然大学和天津绿领。</p>
+<p>根据财新报道，其中一名志愿者<strong>长期曝光宁德鼎信镍业等企业的污染行为，曾为调研而在当地租房，后被房东以“受到压力不敢出租”理由赶走，此次到宁德也是为调研而来。</strong></p>
+<p>宁德市公安局蕉城分局的告示指<strong>接群众举报</strong>前往调查：<strong>该两人无法说清两人之间的关系，且拒不配合民警调查。</strong>据此，我局民警依法将二人口头传唤至蕉城分局接受进一步调查。</p>
+<p>两名志愿者被拘留24小时后，才因到达时限而未有实质证据被释放，<strong>环保志愿者直指被诬陷，且警方传讯过程中，用语相当不文明。</strong></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibApNSEvMhA90QPHwlMvYticzOrhaiaAgINUSWEEvaMgEk5ficFE6LR9ovnUA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p><strong>鼎信镍业工厂图，来源：凤凰网</strong></p>
+<p>志愿者在宁德当地举报的“鼎信系”企业是当地的大企业，资料显示，该企业在当地的合作项目“已投资80多亿元，<strong>形成年产镍铁130万吨</strong>、不锈钢初钢400万吨、热轧不锈钢板400万吨、棒线材60万吨，2014年产值320亿元，就业人员1.2万人，是全国最大的不锈钢企业”。</p>
+<p>当地环保局也给该企业开过罚单，但未见成效，企业更是在不断扩张中，在三期项目听证会上，当地居民要求关停：</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibApLdxxUhqhpH4U0QibKyACiasUlbD6sJ24btUfI1GIBpr23zcjxDnz99EQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p><strong>居民的申请书，来源：凤凰网</strong></p>
+<p>奇怪的是，一边是居民的抗议，<strong>一边是鼎信二期、三期项目的环评“公参”满意度达到99%和98%</strong>。“鼎信系”无环评、环评造假、未批先建等批评声音在今年不断传出，但相关部门却似乎没有听到，有媒体称当地宣传官员对采访记者表示，<strong>“地方经济发展不容易，希望获得媒体的支持，尽量不要报道”。</strong></p>
+<p>这次，宁德当局终于听到了<strong>“群众的声音”</strong>，把志愿者带走了！</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCa1iam7xs0j2AE9tlDUeZoXciabpstfHRKv67JpxoyMZlicUftDeFVRLe2LK03pNSC3UjcsCAcNzRBsQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p><strong>做环保会有多危险？</strong></p>
+<p><strong>保护人士被判“敲诈勒索”</strong></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibAprCmj242RMtOHMKyStgEHSNKIMcUqk5yrqIGgHI0yDFD2mbmlpVibg7g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p><strong>田继光</strong></p>
+<p>保护斑海豹的“环保明星”田继光，2013年10月16日，被盘锦市公安局以<strong>“涉嫌敲诈勒索”</strong>刑事拘留；2014年12月9日，盘锦市中级法院认为原判决“事实不清，证据不足”，撤销大洼县法院的判决，并发回重审；2015年8月3日，大洼县法院公布判决结果，田继光<strong>犯敲诈勒索罪、职务侵占罪、挪用资金罪，数罪并罚，决定执行有期徒刑十二年，并处罚金人民币八万元</strong>；2015年11月13日盘锦市中级法院终审，上午庭辨结束，下午开庭5分钟即宣布维持原判。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibApavJk568ZnC2QVPjAfdYj5lJYWKhHxVDesnY7Q3ZCULlQibAllkzbbrQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p><strong>吴立红</strong></p>
+<p>吴立红长期举报当地太湖一带污染，有着“死磕”精神，被称为“太湖卫士”，在2005年更当选“中国民间环保杰出人物”，<strong>2007年被捕，指其曝光所谓“环保”问题相要挟，敲诈勒索、谋私敛财，蓄意已久</strong>。被捕后，相关消息已难查到。</p>
+<p><strong>为生态保护出书，被判“非法经营”</strong></p>
+<p><strong><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibApbdDnDtF5jE9uoiaBsogucjUe0cDY32u6AVics2H3s19jWcFOART6OVVQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt=""><br>
+刘福堂的“合法”出版物</strong></p>
+<p>刘福堂退休前是海南省林业局森林防火办公室主任、海南省政协人口资源环境委员会副主任，<strong>近20年来一直致力于保护海南生态环境，2009年退休后，依然活跃在许多环境保护事件的现场。</strong>2012年，其时已经<strong>65岁</strong>的刘福堂被海口市龙华区检察院对其提起公诉。起诉书指出，刘福堂没有取得国内省级出版行政主管部门的批准，私自印刷图书，并销售、赠与他人，<strong>其行为涉嫌“非法经营罪”。</strong></p>
+<p>刘福堂所印的书主题均为环境保护，他表示书都是自费印刷，向林业部门、环保组织和关心环保的人士广泛赠阅，只是一些收到赠书的机构和个人，为了贴补他的付出，给予了一些费用。一审判决为有期徒刑三年，缓刑三年，并处罚金1.7万元，<strong>其时他已失去自由168天，接受采访时表示“早点出来就好，有罪无罪都无所谓了”。</strong></p>
+<p><strong>感动中国却数遭毒打</strong></p>
+<p><strong><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibAp7H5DiaiabRJJWeJibxJhazT8OuvM7NkaKlfWHnPVp4a8K9P08OLShVt7Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""><br>
+张正祥右眼失明，左眼视力微弱，读写不便</strong></p>
+<p>张正祥被称为“滇池卫士”，曾获得“感动中国”人物称号，在长达30年的“环保守卫战”中，遭到<strong>无数次袭击，骨折多次，右侧的大腿根部甚至还被砍过一斧头，他缺乏安全感，总担心有人要杀他。</strong>他的两任妻子和三个子女先后离开他，儿子有精神问题，大女儿被打断了腿，二女儿甚至向他扔石块。尽管视力几乎尽失，他还在坚持举报挖矿的矿主、地产商、村官、违建的村民。</p>
+<p><strong>外国人怎么“搞”环保人士？</strong></p>
+<p><strong>环保人士死亡人数十年增加3倍</strong></p>
+<p>环保人士不仅在“依法治国”的贵国受到如此“待遇”，根据《卫报》报道的一项目报告，土地维权者与环保活动家在过去的10年（2002-2012）中死亡人数急剧增加，2012年被杀害的环保人士的人数是10年前的3倍。</p>
+<p>据一家位于英国伦敦的调查机构统计，<strong>2012年英国共有147名环保人士被杀害，</strong>而2002年仅有51名环保人士被杀害。在2002年至2013年之间，<strong>至少有来自35个不同国家的908名环保人士被杀害</strong>。该数字意味着在过去的4年中每周至少有两人被杀。这份来自该机构的报告还显示有多人受伤或者失踪，这些人生还的可能性非常小。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCZHyYZ6L6OZ3DnzlCx18ibhia24ZUECKR0LvEqiahibHiatV6BsasmEbIMm2DwrxkNKayqmBicd4QicZaYWA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p><strong>今年巴黎气候峰会，超过200名环保示威者被捕</strong></p>
+<p>这份报告中还提到，<strong>巴西是世界上环保人士受害者最多的国家。</strong>2002至2013年之间，巴西共有448人因参加环保活动而死亡。洪都拉斯共有109名环保人士死亡，秘鲁共有58人死亡。亚洲国家中，菲律宾是环保人士死亡最多的国家，共有67人死亡，其次是泰国，共有16人死亡。全世界被杀害的环保人士的数量中的80%集中在拉丁美洲和中美洲。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibApLjC4sG7sYudulERZ6E8Jhwyg6xECNTGPZ08Whhic1wfSWMbVylcicY5Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p><strong>巴西环保人士在淡水河谷公司抗议</strong></p>
+<p><strong>派个间谍约会你</strong></p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/U8TQ4cQsTCaW62yYvRslrr0ibLnGrhibApAsDBRmgh1gOPdfsLGh2ngKHF8aJt7c20RoG9lrpwquWz24nPa6yLVw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<p>《卫报》近日刊出一条新闻，英国环保社运人士Lisa发现，<strong>自己相爱六年的枕边人Mark是警察派来的卧底</strong>，Mark甚至在Lisa爸爸逝世时，他陪她坐在灵车内，一直以来两人关系都与一般的亲密爱人无异。知晓真相的Lisa受到严重的精神打击，在她心中，Mark已经是她在世上最亲密的人。</p>
+<p>据了解，<strong>英国警察自1968年起开始派卧底加入社运组织，公众对政府已进行数十年的卧底行动还是蒙在鼓里。Mark Kennedy 只是超过100名卧底警察之一，历年来扮演不同政见组织，假扮社运人士，把他们的示威或其他行动信息报告警方。</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/ngocn-%E4%BF%9D%E6%8A%A4%E7%8E%AF%E5%A2%83%E6%80%8E%E4%B9%88%E5%A6%82%E6%AD%A4%E5%8D%B1%E9%99%A9%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E5%A2%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">中国环境问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">公益组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E4%B8%BB%E4%B9%89%E8%80%85/?category=18271" rel="tag">环保主义者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E6%98%93-%E5%8E%9F%E5%AE%9E%E5%BE%B7%E4%BF%B1%E4%B9%90%E9%83%A8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96/" target="cdt-mirror">网易 | 原实德俱乐部董事长徐明狱中因病去世</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/20151206135647f05a8_550.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/20151206135647f05a8_550.jpg" alt="20151206135647f05a8_550" width="550" height="500"></a><br><span>徐明灵堂</span></p>
+<p>12月4日，前实德集团、实德俱乐部董事长徐明因病去世，终年44岁。</p>
+<p>1992年，徐明创建大连实德集团。1999年，实德集团成为大连万达俱乐部赞助商，大连万达队改名为“大连万达实德队”。2000年1月9日，大连实德俱乐部正式挂牌，徐明从王健林手中接过了球队。</p>
+<p>实德入主的前3年，球队一鼓作气实现甲A三连冠，这也是职业化之后，大连第二次赢得三连冠。2001赛季，实德队更是达到了国内赛场上的一个顶峰，不仅同时赢得足协杯冠军，而且以实德队员为主的辽宁队也在九运会上问鼎。</p>
+<p>在国际赛场上，2001年实德队也赢得了亚优杯亚军。2003年，实德队参加首届亚冠联赛，闯入四强。</p>
+<p>其间，徐明亦着手布局实德系，旗下同时拥有多家甲A、甲B俱乐部。此举受到了各俱乐部的普遍反对，在中国足协的要求下，实德系最终剥离。</p>
+<p>2004年10月，因对裁判判罚不满，国安罢赛，这一事件成为后来“G7革命”的导火索。徐明对国安的行为表示支持，其后，实德队亦罢赛。以实德、国安为首，7家俱乐部联手挑战足协，索要应属于俱乐部的权利，但最终被平息。</p>
+<p>2005年，徐明在“福布斯中国富豪榜”上排名第八，实德队则再次夺得中超、足协杯双冠王。不过，那也是俱乐部最后的辉煌。由于逐渐削减投入，实德队成绩连年滑坡，到后来，不得不为保级而战。</p>
+<p>2012年3月，徐明涉嫌经济案件被相关部门控制，后获刑入狱。年底，实德队在完成保级任务后，放弃中超资格，球队随后转手给大连阿尔滨俱乐部。</p>
+<p>据了解，服刑期间，徐明一直对足球保持着高度关注，得知球队在困境中被卖掉后，还一度耿耿于怀。</p>
+<p>明年9月，徐明将刑满释放，接近徐明的人士透露说，徐明甚至还有出狱后继续涉足足坛的打算。</p>
+<p>12月4日，徐明因病去世。徐明的灵柩今天（12月6日）被亲友运回大连。</p>
+<p> </p>
+<p><strong>以下为中国数字时代编辑摘自新浪网友评论：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-05-at-%E4%B8%8B%E5%8D%8811.40.05.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-05-at-%E4%B8%8B%E5%8D%8811.40.05.png" alt="Screen Shot 2015-12-05 at 下午11.40.05" width="594" height="584"></a></p>
+<p><a href="http://weibo.com/1975443884" target="_blank">易朽-</a>：实德某高管对《棱镜》透露，在此之前并未听说徐明有心肌梗塞疾病。在此之前，包括他在内的实德人都听说徐明即将归来，满心期待实德东山再起。徐明将于2016年刑满。实德高管以及知情人士都对《棱镜》表示，听到徐明去世的消息，都觉得太意外了。令他们更为意外的是，徐明去世后很快就被火化了。</p>
+<p><a href="http://weibo.com/zhugejingxu731fei" target="_blank">诸葛先森o0</a><i title="微博达人"></i>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">按计划死亡</p>
+<p><a href="http://weibo.com/liangzhile" target="_blank">梁律C</a><i title="微博个人认证 "></i>：按计划还是按法律，头条的字眼属于 非常高端的 黑。编辑大师级</p>
+<p><a href="http://weibo.com/1627756075" target="_blank">大楚自考本科董老师</a>：不相信病死的请举手</p>
+<p><a href="http://weibo.com/1914975305" target="_blank">BMW530i</a>：首富又如何？站错队，同样让你中年早逝。还想出狱？</p>
+<p><a href="http://weibo.com/3770290554" target="_blank">云拥枫树1991</a>：其实哈，我又一点不解，四号走的，六号通知家人领骨灰，根据相关规定，监狱在病死后的五天内，家属不答复，才有权火葬，我想徐明的亲人，不能让直接就火化了吧，。。。</p>
+<p><a href="http://weibo.com/3951615268" target="_blank">用户khppionx6r</a>：我对这个国家感到恐惧</p>
+<p><a href="http://weibo.com/5621392160" target="_blank">堅苦卓絕V</a>：徐是薄的金主，就像萬達的王是西的管家，如果某天變了天，王的下場你懂的……<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
+<p><a href="http://weibo.com/2598709737" target="_blank">且行且惜2003</a>：薄熙来会因病去世么？</p>
+<div>
+<p><a href="http://weibo.com/3077662152" target="_blank">爱柳说chan</a><i title="微博个人认证 "></i>：<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">xu死，bo罪名坐实？</p>
+<p><a href="http://weibo.com/2736289402" target="_blank">对面拿贼</a>：眼看他起朱楼,眼看他宴宾客,眼看他楼塌了.</p>
+<p><a href="http://weibo.com/u/2372430400">贫道黄某</a>：与官府纠结过深的有钱人移民是正道，抄家的县令灭门的府尹，从古至今都是如此。</p>
+<p><a href="http://weibo.com/5096908247" target="_blank">乔山脚下的顽石</a>：垄断的权力和财富，在黑暗的体制中，让本是金灿灿的黄金流淌出来都成了黑金，参与的精英和权贵自然都披上罪恶，如此恶性循环的环境还是弱肉强食的森林法则而已。没有人干净，没有人真正的遵循人性阳光一面的价值观，都是不择手段的胜者为王。</p>
+</div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E6%98%93-%E5%8E%9F%E5%AE%9E%E5%BE%B7%E4%BF%B1%E4%B9%90%E9%83%A8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%BF%9E%E5%AE%9E%E5%BE%B7/?category=18271" rel="tag">大连实德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E5%88%A4%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">审判薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">徐明狱中死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%87%BA%E9%97%A8%E8%A7%81%E4%BA%BA%EF%BC%8C%E5%9B%9E%E5%AE%B6%E6%89%AB%E5%9C%B0%EF%BC%8C%E5%9C%B0%E4%B8%8A%E6%9C%89%E5%8A%B3%E5%B7%A5ngo/" target="cdt-mirror">东网 | 赵思乐：出门见人，回家扫地，地上有劳工NGO</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151205000314669-1205_05411_001_01p.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151205000314669-1205_05411_001_01p.jpg" alt="bkncn-20151205000314669-1205_05411_001_01p" width="550" height="393"></a></p>
@@ -655,48 +748,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%AE%E6%80%9D%E5%AE%A2%EF%BD%9C%E5%BC%A0%E5%86%9B%EF%BC%9A%E7%A6%8F%E5%B1%B1%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/" target="cdt-mirror">微思客｜张军：福山讲座摘要</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg" alt="习近平亲民" width="500" height="395"></p>
-<p>福山今天在多大商学院就政治秩序和政治衰退（Political Order and Political Decay）做了一个45分钟的发言，还有30分钟左右的问答。</p>
-<p>他完全顺口说，几乎把整个世界都梳理一遍。确实脑子和嘴巴都比较好使。</p>
-<p>福山认为，西方的民主整体处于低潮和衰退（decay）之中。欧洲国家有的危机四伏，有的积重难返。当然部分北欧国家比如丹麦还是难得地有很好的平衡。美国的游说集团空前强大，两党的交叉共识空前稀薄，政治僵局时有发生，但暂时还不至于对经济产生太大影响。但是，有（西方）民主的替代品吗？</p>
-<p>他后来简短谈了三个可能的替代模式。</p>
-<p>第一是半神权的伊斯兰国家ISIS。这个显然对多数人没有吸引力也不具备可持续性，甚至是罪恶昭彰。</p>
-<p>第二个是普京的俄罗斯模式。表面上有选举，但控制权力的都是普京和他的朋党。无法节制腐败，也带不来好的经济发展。他问大家你有使用过任何俄罗斯制造的产品吗？显然俄罗斯模式也不会有光明的未来。</p>
-<p>他说最吸引人的恐怕是中国模式。在他的“国家、法治、民主”的三维分析框架里，中国有强大的国家，但后面两个支柱始终没有出现。</p>
-<p>他说，他的西方同事们很多都不了解中国在发生些什么事情。但是他自己经常去中国，每次都会看到新的高楼又拔地而起，北京又多了一条环路，等等。</p>
-<p>他说，中国实际上还是一种封建王朝的运行模式。中国现在擅长的事情也是中国过去250年所擅长的，那就是官僚集权、快速决策、大量投资（基础设施）。但是，政府的合法性危机事实上在日益加重。合法性都押宝在经济上，但经济也在严重滑坡。还在玩马列主义的意识形态，但对合法性全无帮助，因为没人相信。</p>
-<p>他私下说，今上上台后其实没干啥好事儿：政治上在开倒车，经济改革也停步不前。他说现在也许下结论还太早，但他很可能最终将被证明是一个糟糕的皇帝。他说即便你相信现在上面坐着个好皇帝，但是你这个体制有什么办法防止出现坏皇帝、或者说能一直保障好皇帝的供应呢？他自己的回答是：根本（还）没有办法。而且对他来说，这一点是这种体制最致命的问题。</p>
-<p>作者张军，任教于多伦多大学地理系。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%AE%E6%80%9D%E5%AE%A2%EF%BD%9C%E5%BC%A0%E5%86%9B%EF%BC%9A%E7%A6%8F%E5%B1%B1%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%8F%E5%B1%B1/?category=18271" rel="tag">福山</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E4%B8%A4%E7%8E%AF%E4%BF%9D%E5%BF%97%E6%84%BF%E8%80%85%E8%B5%B4%E5%AE%81%E5%BE%B7%E6%9F%A5%E6%B1%A1%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8C%87%E6%B6%89%E5%8D%96/" target="cdt-mirror">财新网｜两环保志愿者赴宁德查污被警方指涉“卖淫嫖娼”</a>
-</h2>
-<p><p>（记者 孔令钰）2015年12月3日早晨5点半左右，两名NGO组织的环保志愿者——自然大学的徐某（男）和天津绿领的田某（女），在福建省宁德市某宾馆被该市蕉城区警方带走，理由是“涉嫌卖淫嫖娼”。</p>
-<p>天津绿领工作人员向财新记者提供了相关电话录音，并称录音时间为3日上午10点56分，通话双方是天津绿领工作人员和蕉城区刑侦队工作人员。</p>
-<p>在电话录音中，天津绿领工作人员询问志愿者被抓事由，刑侦队接线工作人员确认上述两人“在里边”，并肯定缘由——“就是卖淫嫖娼。”被问及如何认定是卖淫嫖娼？刑侦队工作人员称正在了解。</p>
-<p>下午6点多，财新记者致电宁德蕉城区刑侦队，对方称，案情正在进一步调查，暂时无可奉告。</p>
-<p>自然大学污染防治负责人毛达告诉财新记者，被警方带走前，徐某一直在关注福建宁德的镍合金产业园工业污染和湿地破坏问题，2015年初至今赴当地调研多次，这次是去继续调研。</p>
-<p>天津绿领负责人之一董剑告诉财新记者，天津绿领同样关注在福建宁德镍矿污染，“12月1日，我们安排了田某和自然大学的徐某一起出差去福建。希望了解鼎信镍业和义联集团的整改状况。”</p>
-<p>由于目前与两人失联，天津绿领和自然大学均无法获知抓捕前后具体发生了什么。</p>
-<p>天津绿领工作人员朱清告诉财新记者，徐某此前曾在宁德租房一个月，打算跟踪调查，却被房东以“受到压力不敢出租”为由赶走。</p>
-<p>这两家NGO组织均称，徐某长期参与曝光宁德鼎信镍业等企业的污染行为，而且是主力，在宁德属于“敏感人士”，所以徐某在宁德不便用身份证办理宾馆入住，只好与田某共居一室。</p>
-<p>目前该事已引起环保公益圈普遍关注。中国生物多样性保护与绿色发展基金会当日致函宁德市公安局，表示关注此事，并称根据多个环保志愿者群体和人士反映，被带走两人均是热衷环保事业、在业内小有名气的环保志愿者，“此次二人刚到宁德便被以卖淫嫖娼为由抓捕，实在荒唐。”</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E4%B8%A4%E7%8E%AF%E4%BF%9D%E5%BF%97%E6%84%BF%E8%80%85%E8%B5%B4%E5%AE%81%E5%BE%B7%E6%9F%A5%E6%B1%A1%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8C%87%E6%B6%89%E5%8D%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E7%BB%84%E7%BB%87/?category=18271" rel="tag">环保组织</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -708,7 +759,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -718,5 +769,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

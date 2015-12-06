@@ -21,9 +21,83 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%8E%9F%E5%AE%9E%E5%BE%B7%E4%BF%B1%E4%B9%90%E9%83%A8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96/" target="cdt-mirror">【真理部】原实德俱乐部董事长徐明狱中因病去世</a>
+</h2>
+<p><p>各地各网站，原实德俱乐部董事长徐明狱中因病去世一事，严格和中央媒体统一口径，不得擅自报道炒作。注意清理网上攻击中央领导的评论。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<p>附：新京报：实德前董事长徐明狱中去世 骨灰已被运回大连</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/128796268.jpg" alt="徐明" width="400" height="587"><br>
+徐明</p>
+<p>新京报讯 （记者陈鹏 赵毅波）昨日下午，有媒体报道称，大连实德集团前董事长徐明去世，终年44岁。新京报记者从多位知情人士处获悉，徐明的确于12月4日在狱中去世，其骨灰已在6日被亲友从位于武汉的服刑地运回大连。</p>
+<p>目前徐明的死因尚无官方说法，一位接近实德的人士称，“俱乐部方面有透露说是‘心肌梗死’。据该人士介绍，徐明的骨灰原本12点就能抵达大连机场，但由于武汉的天气不好，行程有所耽误，也有一些球迷自发前往现场。去现场接机的实德俱乐部原总经理林乐丰向新京报记者表示，徐明的骨灰下午已经到达大连，是否因为心梗还不太清楚。</p>
+<p>徐明曾于1992年创建大连实德集团，并开始立足商海。之后，由其掌舵的实德集团通过入股大连万达俱乐部进军足球产业，最终挂牌成立了大连实德俱乐部。与此同时，其个人的财富与声望也日显。</p>
+<p>不过，徐明的命运最终在2012年发生了巨变。当年3月，徐明涉嫌经济案件被相关部门控制，后获刑入狱。2013年，徐明曾在薄熙来案庭审过程中出庭作证。林乐丰表示，按照计划，徐明本该明年服刑期满。</p>
+<p>实德集团官网显示，目前实德的业务包括化学建材、家电和金融三大领域，其中化学建材为实德的主导产业。不过，由于始终不披露其资产和业绩信息，实德日益显得神秘，其官网公布的“发展历程”一栏目前只更新到2011年。</p>
+<p>昨日，新京报记者未能联系到实德集团就徐明一事进行置评。</p>
+<p>■ 人物</p>
+<p>登上富豪榜的阶下囚</p>
+<p>出生于1971年的徐明自上世纪90年代以来，先后经历了从小商贩到大集团创始人、足球俱乐部老板、东北富豪，再到“经济案犯”、“阶下囚”的峰型转变。而最令人意想不到的是，原本将于明年出狱的他，却最终在铁窗内落幕。</p>
+<p>实业</p>
+<p>“对虾小贩”到塑钢大佬</p>
+<p>公开资料显示，徐明于1971年出生在大连庄河市吴炉镇光华村，后来进入沈阳航空工业学院（现沈阳航空航天大学）学习。他的第一份工作是在庄河三禾冷库驻大连办事处当业务员，其在这家出口对虾的公司中，具体负责对接日本客户。工作没多久，徐明便辞职创办了自己的对虾贸易公司。</p>
+<p>1992年，徐明注册了一家中外合资的大连实德机械工程有限公司，由庄河市工业品对外贸易公司和港商周一鸣的香港恒和机械工程公司共同出资80万美元，徐明任副董事长兼总经理。这是第一个以实德命名的企业。1992年到1995年，不到3年的时间里，实德承建了大连胜利广场、星海广场、金石高尔夫球场等多个大连的标志性建筑工程。</p>
+<p>1995年，注册资金40亿元的实德集团成立，并先后设立大连实德塑胶工业有限公司、大连实德塑料建材有限公司，确定化学建材为主导产业。此后的几年内，实德集团占领了长江以北的塑钢市场。</p>
+<p>1999年10月，徐明向庄河市对外经贸委原数退还了1995年庄河市工业品对外贸易公司最初投资大连实德集团的资金，从而获得了大连实德集团95%的股权，实德集团开始向私人公司转变。</p>
+<p>体育</p>
+<p>玩足球的亿万富豪</p>
+<p>徐明迅速为人所知是在1999年入股大连万达足球俱乐部之后。第二年，徐明从王健林手中接过了球队，并更名为大连实德俱乐部。</p>
+<p>在其入主的前3年内，大连实德在中国足球甲A联赛实现三连冠。国际赛场上，大连实德曾在2003年打进亚冠联赛四强。</p>
+<p>2012年徐明入狱后，大连实德队在当年的中超联赛中勉强完成保级任务，随后放弃中超资格，将球队转手给大连阿尔滨俱乐部。</p>
+<p>扬名之后的徐明，财富实力也急剧上升。在2005年的“福布斯中国富豪榜”上，徐明以80多亿元人民币的个人财富，排名第八位。</p>
+<p>徐明生前最后一次名列富豪榜是在2013年，当年的胡润百富榜上，徐明以30亿元的财富排在百富榜第676位。而此时的徐明已经身在狱中。</p>
+<p>投资</p>
+<p>涉足金融地产</p>
+<p>在“玩足球”的同时，实德集团还进军过金融、地产等诸多行业。</p>
+<p>实德集团于2000年首次进入金融业，曾出资1.8亿元购得生命人寿保险公司13.25%的股份。而在2009年，实德集团又组建天实安德房地产公司，正式进军房地产业。</p>
+<p>据新京报此前报道，1994年至2001年间，徐明带领的实德集团已拥有3家上市公司、3家商业银行、2家保险公司、1家基金以及10多个关联企业。此后，实德的产业布局逐渐涵盖化建、家电、体育、保险、石化、汽车和医疗等七大产业，被外界称为“实德帝国”。</p>
+<p>简历</p>
+<p>●1971年4月出生于大连。</p>
+<p>●1995年，创建大连实德集团。</p>
+<p>●2000年，接手大连万达足球队，并成立新的大连实德俱乐部。</p>
+<p>●2011年，首度登上《福布斯》中国富豪榜。</p>
+<p>●2012年3月，涉嫌经济案件被相关部门控制。</p>
+<p>●2013年8月，薄熙来案公审期间，徐明出庭。</p>
+<p>●2015年12月，徐明去世，终年44岁。</p>
+<p>新京报记者 陈鹏</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%8E%9F%E5%AE%9E%E5%BE%B7%E4%BF%B1%E4%B9%90%E9%83%A8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">徐明狱中死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%BE%90%E6%98%8E%E9%81%97%E4%B9%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%A3%8E%E9%99%A9%EF%BC%8C%E6%8A%95%E8%83%8E%E9%A1%BB%E8%B0%A8%E6%85%8E/" target="cdt-mirror">【习总日记】 徐明遗书：中国有风险，投胎须谨慎</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，12，07）</p>
+<p>熙来之白手套<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/" target="_blank">徐明</a>死于<a href="http://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%9F%8E%E7%9B%91%E7%8B%B1/" target="_blank">秦城</a>。留有遗书一封。摘要如下：</p>
+<p>我将不久于人世。无怨无悔。或亦可说，自作自受。</p>
+<p>常言道，大丈夫生逢乱世，理当建功立业攻城拔寨，成就一番大事。无奈时运不济，天灾人祸齐双降，夫复何求？</p>
+<p>我命中缺光和热，故取日月为名。当年偶遇薄熙来，暗喜，因其“熙来”二字。不曾想2012好运尽，主公锒铛入狱，我被诓骗出镜出卖主公铸成大错罪该万死。</p>
+<p>世人只知我徐明不忠不义苟且小人，世人谁知求生不能求死不成生不如死之惨痛。刑期将满之日，便是我徐明回归尘土之时。我知道太多，他们不可能让我活着出去。</p>
+<p>可怜父母儿女，满心期待我的归来，常梦享天伦共团圆。</p>
+<p>各位亲朋好友，若只留一句话，我要说：中国有风险，投胎须谨慎。</p>
+<p>徐明</p>
+<p>2015年11月</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/120715.jpg" alt="120715" width="600" height="400"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%BE%90%E6%98%8E%E9%81%97%E4%B9%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%A3%8E%E9%99%A9%EF%BC%8C%E6%8A%95%E8%83%8E%E9%A1%BB%E8%B0%A8%E6%85%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">徐明狱中死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">薄熙来事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%88%91%E5%8F%AA%E6%83%B3%E5%81%9A%E4%B8%80%E4%B8%AA%E5%AE%89%E9%9D%99%E5%BB%BA%E8%AE%BE%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E7%BE%8E/" target="cdt-mirror">【麻辣总局】我只想做一个安静建设社会主义的美男子</a>
 </h2>
 <p><p>史上最强「建设社会主义表情包」，可能是最全的。拿去吧，让我们一起建设具有中国特色的社会主义。让我们在党的光辉的照耀下，在社会主义核心价值观的要求下，为了中国梦，谈一场实事求是、与时俱进、面相世界、面向未来的恋爱。</p>
@@ -67,7 +141,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E8%A1%A8%E6%83%85%E5%8C%85/?category=18271" rel="tag">社会主义表情包</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E4%BE%83/?category=18271" rel="tag">调侃</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/ngocn-%E4%BF%9D%E6%8A%A4%E7%8E%AF%E5%A2%83%E6%80%8E%E4%B9%88%E5%A6%82%E6%AD%A4%E5%8D%B1%E9%99%A9%EF%BC%9F/" target="cdt-mirror">NGOCN | 保护环境怎么如此危险？</a>
 </h2>
@@ -485,6 +559,19 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D
 <p>
 	<small> ============== 2天前</small>
 </p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E5%8F%96%E6%B6%88%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/" target="cdt-mirror">【真理部】莲花味精取消独董候选人</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/">莲花味精取消独董候选人</a>提名一事，撤出首页不炒作。内容禁止提及相关国家领导人，违者严厉处罚。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E5%8F%96%E6%B6%88%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%93%B6%E5%B9%B3/?category=18271" rel="tag">习银平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/" target="cdt-mirror">要在高校“打响意识形态反击战”的李吉明是谁？</a>
 </h2>
 <p><p><strong>李吉明：清除高校害群之马，打响意识形态反击战</strong></p>
@@ -616,151 +703,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BB%95%E9%80%94-%E7%BE%8E%E5%AE%A3%E9%83%A8%E7%BB%99%E3%80%8A%E7%81%AB%E6%98%9F%E6%95%91%E6%8F%B4%E3%80%8B%E7%9A%84%E5%AE%A1%E7%89%87%E6%84%8F%E8%A7%81/" target="cdt-mirror">仕途 | 美宣部给《火星救援》的审片意见</a>
-</h2>
-<p><p>二十世纪福克斯公司负责人：</p>
-<p>根据群众意见，你单位拍摄的电影《火星救援》存在比较大的导向性问题。</p>
-<p>具体表现在：</p>
-<p>导演斯科特是英国人，美国是一个历史短暂的文明新国，美国人民不堪忍受英国的殖民统治独立出来，独立后又曾经和英国交战，英国人更曾经火烧白宫，英殖民主义亡我之心从没消停。</p>
-<p>把一个讴歌爱国主义、英雄主义的主旋律影片交给一个外籍导演，这存在风险。</p>
-<p>此外，斯科特曾经拍摄过《天国王朝》，描绘中东地区的战争，导致了少数民族群众的强烈不满。</p>
-<p>他在此前拍摄的《黑鹰坠落》，浓墨重彩的描绘局部的战斗失败，全然不顾三角洲部队指战员勇猛作战，杀死杀伤匪徒多人的事迹，从片名到情节，充满了失败主义气质，此外描绘了联合国军队抛下我军指战员自己跑路的情景，引发了外交抗议。</p>
-<p>时任总统克林顿曾经反复强调：</p>
-<p>黑鹰坠落事件，成绩是主要的，伤亡是次要的，这是十个指头和一个指头的关系。境外势力利用电影来炒作，是非常令人发指的。</p>
-<p>综上所述，斯科特是个有历史问题的导演，不许雇佣、提及此人。</p>
-<p>责令你单位立刻解除和斯科特的后续合同，保证本国导演执导的影片中占到90%以上。这件事的发布上不自己发稿，用美联社通稿。</p>
-<p>此外福克斯电影公司属于副部级企业的新闻集团，福克斯下属电影项目导演应该比照副处级干部看待，斯科特今年78岁，早已经过了处级干部55岁退二线的年龄线，违反了奥巴马同志《向脸书公司学习，企业干部也应当年轻化》中提到的精神，现责令你单位明年45岁以下的年轻导演执导的影片应该超过50%，60岁以上的导演只允许以顾问形式出现。</p>
-<p>同时，马特·达蒙也有严重的政治问题，就在去年他扮演了为了活命把人类坑到冰山上的一个黑心博士，根据美国菲林局2012年的文件精神，“扮演过反派、叛徒的人，原则上三年内不许扮演英雄人物。”</p>
-<p>电影内容问题也很多，比如：</p>
-<p><strong>错误</strong></p>
-<p>大肆渲染火星的沙尘暴，试图动摇国家航天局（NASA）探索火星的决心。事实上火星空气稀薄，根本不可能有那么大的沙尘暴，编剧可能被一小撮公共知识分子误导甚至合谋。</p>
-<p>描绘火星登陆器会被刮风吹倒，遭到了NASA的强烈抗议，事实上这类登录器根本不会被吹倒。</p>
-<p><strong>修改</strong></p>
-<p>将沙尘暴改成蛾国特工的破坏，一群敌人妄图推倒登录器，马可和他们展开了殊死的搏斗，但被天线扎伤，刘易斯指挥官点燃了登录器烧死了敌人，但马可生死不明。</p>
-<p><strong>错误</strong></p>
-<p>马可吃土豆，容易让人联想到蛾国人，玉米是美国的第一作物。</p>
-<p><strong>修改</strong></p>
-<p>让马可种玉米，经过微波炉烹饪之后带着大批爆米花上路去跟阿瑞斯4号会合。</p>
-<p><strong>错误</strong></p>
-<p>用大便种地一段低级庸俗。尤其是马可闻了战友的大便之后龇牙咧嘴的表情非常低级趣味。而文艺是要塑造人的，尤其科幻片应该鼓励他们对科学的爱好，不能传递这样不雅的价值观。</p>
-<p><strong>修改</strong></p>
-<p>改为牛粪。马可背着筐到街上捡粪，满足了生产生活的需要。</p>
-<p><strong>错误</strong></p>
-<p>影片中NASA的主管是泰迪，历史上NASA从来没有一位叫NASA的负责人。影片失实。将一位副部级的领导描绘成没有担当的人，已经造成了严重的政治事件。</p>
-<p><strong>修改</strong></p>
-<p>将NASA标志全部修改或者用马赛克修改成NASHA。</p>
-<p><strong>错误</strong></p>
-<p>贝克和约翰森谈恋爱。NASA一贯高度重视广大航天员的情感需求，但又保持了“不许谈恋爱”的铁律，这是对广大航天员的侮辱。</p>
-<p><strong>修改</strong></p>
-<p>建议和编剧解除合同，同时将贝克和约翰森描绘成田纳西州的老乡和表兄妹。</p>
-<p><strong>错误</strong></p>
-<p>马可烧了马丁内兹的十字架引火。</p>
-<p><strong>修改</strong></p>
-<p>注意民族宗教团结问题，让马可出去外面捡树叶引火。</p>
-<p><strong>错误</strong></p>
-<p>中国航天局局长郭明是个老头。接到中国同行澄清，他们没有老头局长，也不姓郭。</p>
-<p><strong>修改</strong></p>
-<p>改成中国的一家食品生产厂家 shaxian。他们只提供了拌面和卤蛋。</p>
-<p><strong>错误</strong></p>
-<p>着力刻画火箭发射失败，显示美国科研工作者的无能和领导的瞎指挥。</p>
-<p><strong>修改</strong></p>
-<p>要求火箭发射没有失败，建议去掉运送给养一段，可以让机组人员回来的时候吃青稞。咬牛膝盖骨、也可以让刘易斯指挥官钓鱼。</p>
-<p><strong>错误</strong></p>
-<p>马可被要求拆掉了顶棚、座椅、坐敞篷飞船飞向太空。</p>
-<p><strong>修改</strong></p>
-<p>考虑剧情需要，可以拆，但是要让马可拆的时候边拆边哭。要对祖国人民有感情，一扇门，一扇窗，含着热泪绣星条旗的感觉要出来。</p>
-<p><strong>综合意见：</strong></p>
-<p>在接到群众投诉之后，局领导高度重视，认真审读了这部电影。</p>
-<p>这部电影政治敏感性极低，误入了英国导演的圈套，贬低了美国航天人可歌可泣的事业，导致了这部电影思想性艺术性不高。</p>
-<p>建议开除编剧。</p>
-<p>福克斯公司总编剧给予戒眠谈话，三年不得主持主旋律影片拍摄。</p>
-<p>取消该片百葩奖评选资格。</p>
-<p>NASA戏题材一定要但是要提交对方审查，实行一把手负责制，尽量避免“休斯顿神剧”的出现。</p>
-<p>各单位要强调政治家拍片的理念，狠抓落实、责任到人。</p>
-<p>希望广大电影公司以此为戒，进一步加强内部管理，坚持把社会效益放在首位、社会效益和经济效益相统一的原则，积极履行电影讲故事、教育人的社会责任，确保舆论导向正确。</p>
-<p>还有你们的名字也不好，要多面向未来嘛，现在已经是二十一世纪了。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BB%95%E9%80%94-%E7%BE%8E%E5%AE%A3%E9%83%A8%E7%BB%99%E3%80%8A%E7%81%AB%E6%98%9F%E6%95%91%E6%8F%B4%E3%80%8B%E7%9A%84%E5%AE%A1%E7%89%87%E6%84%8F%E8%A7%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E7%A9%BA/?category=18271" rel="tag">太空</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E9%83%A8/?category=18271" rel="tag">文化部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E6%98%9F%E6%95%91%E6%8F%B4/?category=18271" rel="tag">火星救援</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%AE%9E%E9%BB%91%E5%AE%A2%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%B0%E6%8D%AE%E5%BA%93-%E7%A7%B0%E6%98%AF/" target="cdt-mirror">美国之音｜中国证实黑客袭击美国政府数据库 称是犯罪分子所为</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/18EAE497-4572-44ED-870A-98F7A9938F8C_w640_r1_s.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/18EAE497-4572-44ED-870A-98F7A9938F8C_w640_r1_s.jpg" alt="美国司法部长林奇（中）以及国土安全部部长约翰逊（右）欢迎中国公安部部长郭声琨(左)参观美国司法部 （2015年12月1日）" width="640" height="360"></a><p>美国司法部长林奇（中）以及国土安全部部长约翰逊（右）欢迎中国公安部部长郭声琨(左)参观美国司法部 （2015年12月1日）</p></div>
-<p>北京—中国首次承认针对美国政府数据库的一次大规模袭击是中国黑客所为，但否认这是政府支持的行动。中国官媒称这一事件是本周中美高层网络安全对话的几个话题之一。</p>
-<p>这一消息是新华社报道本周会谈时顺便提到的。这篇报道没有提供更多有关黑客的细节，也没有说他们是否被逮捕了。</p>
-<p>这篇报道说，通过调查，这一事件证实是犯罪行为，而不是美方之前怀疑的由政府支持的网络攻击。</p>
-<p>据《华盛顿邮报》本周的一篇报道，中国表示就在习近平9月访美之前不久，一批与此事件有关的黑客已经被逮捕了。</p>
-<p>报道还说，被逮捕的黑客的身份还不明确，也不知道他们是否与中国政府有关。</p>
-<p>针对美国联邦人事管理局(OPM)的黑客袭击导致近2千2百万在职和退休联邦雇员、求职者及其家人的个人信息大规模失窃。这些敏感内容包含当局对员工的安全审查信息。</p>
-<p>美国官员已表示，他们还没有发现任何已通过安全审查的人员的人事资料被用于犯罪目的。</p>
-<p>针对《华盛顿邮报》的有关中国逮捕OPM黑客的报道，中国外交部发言人华春莹星期四在北京的例行记者会上说：“我没有这方面的信息。”</p>
-<p><strong>来自中国的网络攻击</strong></p>
-<p>咨询集团RGI的创始人鲍勃·福诺说，声称袭击是犯罪分子所为对中国来说很方便，但最终人们很难知道究竟是谁指使了这些袭击，不过，很明显的是，中国政府变得越来越在意美国的关注。</p>
-<p>证实黑客是中国人，这“是一次向美国显示中国努力处理这一问题的尝试，让美国明白谁是袭击者，他们为什么袭击。”</p>
-<p>福诺说，跟世界许多其他国家一样，中国的黑客袭击对象包括军事和外交目标。</p>
-<p>他说：“还有一类黑客袭击失去了控制，这种失控的黑客袭击是政府试图更好地了解并加以预防的。”</p>
-<p>在本周华盛顿举行的会议上，中美双方代表同意加强沟通，打击网络犯罪和其他恶意网络行为。</p>
-<p>根据美国司法部的一份声明，美国司法部长林奇、国土安全部部长约翰逊与中国公安部部长郭声琨在一次会议上达成了共识。</p>
-<p>双方也同意在明年春天共同举行“桌面推演”。这种演练包含一些场景，帮助双方了解如何回应袭击。</p>
-<p>中美两国还同意明年6月在北京举行新一轮会谈。</p>
-<p>中国公安部说，协议将对联合加强网络安全带来重要影响。周三发布的会议声明也指出，中美双方将继续坦诚交换意见，有建设性地处理争端，以建立更多打击网络犯罪方面的合作。</p>
-<p>在声明中，双方政府都提到，会议讨论了具体案件的调查进展，但没有给出细节。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%AE%9E%E9%BB%91%E5%AE%A2%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%95%B0%E6%8D%AE%E5%BA%93-%E7%A7%B0%E6%98%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%86%9B/?category=18271" rel="tag">中国网军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%98/?category=18271" rel="tag">网络战</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%A5%97%E8%AF%9D%E5%A4%A7%E5%85%A8/" target="cdt-mirror">【立此存照】考研政治套话大全</a>
-</h2>
-<p><p><strong>【编者注】该微博收到的2千多条评论中，虽然多为调侃甚至嘲讽，但确也有不少真爱国言论。中国的<span><span>全国硕士研究生入学统一考试中包含所谓的“思想政治理论考试”，由五个部分组成：马克思主义基本原理概论、毛泽东思想和中国特色社会主义理论体系概论、中国近现代史纲要、思想道德修养与法律基础、形势与政策以及当代世界经济与政治。</span>不少近期在准备考研的网民表示，微博中的精神状态是考研政治内容看多后的真实写照。</span></strong></p>
-<blockquote><p><strong><a href="http://weibo.com/5119219312/D6sjIparu">@1ill</a></strong>：我就是喜欢你看不惯我 却不得不和我一同建设中国特色社会主义的样子</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%94%BF%E6%B2%BB%E6%BB%A1%E5%88%86.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%94%BF%E6%B2%BB%E6%BB%A1%E5%88%86.png" alt="政治满分" width="500" height=""></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2419922131" target="_blank">我叫邹文文-</a><i title="微博达人"></i>：楼主你是不是考研党<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我自从看了政治后天天说话就这个调子</p>
-<p>@M大王叫我来巡山：别低头，GDP会掉；别流泪，资本主义会笑</p>
-<p>@洋葱日报社: 我怕三十晚上的祝福太多，您会不在意我的问候；我怕初一早上的鞭炮太吵，您会听不到我的祝福 ，所以选择现在这个时候给您送来祝福，祝您全家早日实现中国梦。</p>
-<p>@夏影:你我之间本无缘分，全靠党的章程死撑</p>
-<p>@李铁根: “如果非要给这个爱加个期限，我希望是社会主义初级阶段”……</p>
-<p>@叫兽易小星:今天你对我爱搭不理，明天你跟我一起建设社会主义</p>
-<p>@眼睛长在屁股上: 自己选择的主义跪着也要发展</p>
-<p>@精分君：不要问我，跟我做代理，能挣多少。当你问这句话的时候，你的思想还停留在尊重资本和财产为个人所有，任何人都不得非法侵占的以私有制为最重要最主要内容的资本主义阶段。</p>
-<p><a href="http://weibo.com/5605833331" target="_blank">田北七的小粉絲er</a>：<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">別反駁。腦袋要掉。</p>
-<p><a href="http://weibo.com/n/%E9%9E%AD%E9%9E%AD%E4%BA%8E%E7%99%BD%E6%B0%B4?from=feed&loc=at" target="_blank">鞭鞭于白水</a>: 你爱或者不爱我，社会主义就在那里<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/3639309720" target="_blank">致俄耳甫斯十四行</a>：就是喜欢见到你掐不死我还得和我一起熟记马列主义毛泽东思想、社会主义本质的模样。<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/2195883370" target="_blank">工藤新源</a>：别在我的坟前哭 我怕你脏了我全面建设小康社会的路<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/5621311358" target="_blank">MINE蜀黍</a>：很好，你努力建设社会主义的样子成功引起了我的注意<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p><a href="http://weibo.com/menmenbumen" target="_blank">闷闷不闷</a>：社会主义下的泡沫，是彩色的。就像被骗的我，是幸福的。全都是泡沫，是一刹的花火，共产主义承诺，全部都太脆弱！<img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"></p>
-<p>@一颗象牙：你可以抛下我、离开我、忘了我，但请不要忘记社会主义核心价值观</p>
-<p>@不愿意透露姓名的麦扣儿：你住的城市下雨了，很想问你有没有践行社会主义核心价值观。可是我忍住了，因为我怕你说没有，而我又无法不举起中国特色社会主义的伟大旗帜。就像是我爱你，却给不到你想要的资本主义。</p>
-<p>@靳待楼东：我要和你一起去看雪看月亮，从坚持发展中国特色社会主义谈到如何实现中华民族伟大的中国梦。</p>
-<p>@王炸特辣重庆小串：想和你谈一场弘扬社会主义正能量的恋爱，你却让我好好的做自己的中国梦。</p>
-<p>@真小理欣仪：我抽烟，打架，喝酒，纹身，但是我知道我是一个会背社会主义核心价值观的好女孩</p>
-<p>@你怎么知道朕是皇帝：为什么我的眼里常含泪水，因为我是共产主义接班人</p>
-<p>@王小叶儿film：紫薇：“她说你们一起构建社会主义和谐社会，从三个代表谈到共产主义，我都没有和你一起构建社会主义和谐社会，从三个代表谈到共产主义。”尔康：“都是我的错，我不该和她一起构建社会主义和谐社会，从三个代表谈到共产主义，我答应你今后只和你一起构建社会主义和谐社会，从三个代表谈到共产主义。”</p>
-<p>@突出一个55开: 你会不会突然的出现，考我社会主义核心价值观</p>
-<p>@C弥生：哼，有什么可高傲的，我们不一样是在社会主义初级阶段么</p>
-<p>@志宇wangg：为 了集中精力全面建成小康社会、全面深化改革、全面依法治国、全面从严治党~我决定和你分手！</p>
-<p>@鹅槑子嘤嘤嘤：真的，我们考研狗都这么说话</p>
-<p><strong>附：传说中的原作者</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6706c589jw1eynofg13a7j20ez0qo0v2.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6706c589jw1eynofg13a7j20ez0qo0v2.jpg" alt="6706c589jw1eynofg13a7j20ez0qo0v2" width="400" height=""></a></p>
-<p>以下截屏来自新浪用户@我的极品评论：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz7u7xpj20k00g20u7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz7u7xpj20k00g20u7.jpg" alt="5e5c90e3gw1eynmz7u7xpj20k00g20u7" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz8s3psj20k00fadha.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmz8s3psj20k00fadha.jpg" alt="5e5c90e3gw1eynmz8s3psj20k00fadha" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzd30poj20k00gdwg1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzd30poj20k00gdwg1.jpg" alt="5e5c90e3gw1eynmzd30poj20k00gdwg1" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmztucaoj20k00g5jt7.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmztucaoj20k00g5jt7.jpg" alt="5e5c90e3gw1eynmztucaoj20k00g5jt7" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzw0m35j20k00hfq4o.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzw0m35j20k00hfq4o.jpg" alt="5e5c90e3gw1eynmzw0m35j20k00hfq4o" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzxpssvj20k00f3myp.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynmzxpssvj20k00f3myp.jpg" alt="5e5c90e3gw1eynmzxpssvj20k00f3myp" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn00iff3j20k00y5wih.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn00iff3j20k00y5wih.jpg" alt="5e5c90e3gw1eynn00iff3j20k00y5wih" width="425" height="768"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn02lm2qj20k00wu0wa.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5e5c90e3gw1eynn02lm2qj20k00wu0wa.jpg" alt="5e5c90e3gw1eynn02lm2qj20k00wu0wa" width="425" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%A5%97%E8%AF%9D%E5%A4%A7%E5%85%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E8%AF%BE/?category=18271" rel="tag">思想政治课</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E6%9D%90/?category=18271" rel="tag">洗脑教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E7%A0%94/?category=18271" rel="tag">考研</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -772,7 +714,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -782,5 +724,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

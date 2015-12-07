@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,149 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%8F%E6%B5%8E%E5%8F%82%E8%80%83%E6%8A%A5-%E4%B8%9C%E5%8C%97%E9%99%B7%E8%B4%A2%E6%94%BF%E5%9B%B0%E5%B1%80%EF%BC%9A%E6%9C%89%E7%9A%84%E5%B7%A5%E8%B5%84%E9%83%BD%E5%8F%91%E4%B8%8D%E5%87%BA/" target="cdt-mirror">经济参考报 | 东北陷财政困局：有的工资都发不出来了</a>
+</h2>
+<p><p>《经济参考报》记者 赵婧 王璐 辛林霞/北京 哈尔滨报道</p>
+<p>“今年我们组织税收收入遇到前所未有的困难。企业停产停工率居高不下，很多企业剩下的只有呆账，回收企业欠税难上加难。”东北某市地税局局长对《经济参考报》记者的寥寥数语透露出东北财政的丝丝寒意。</p>
+<p>受经济下行影响，当前东北地区财政运行情况不容乐观。大批企业亏损、停产、裁员，多数重点行业税收下降，黑龙江、辽宁、吉林三省财政收入持续负增长。与此同时，财政收支矛盾日趋尖锐，财力薄弱的市县财政运行困难，个别县乡拖欠工资的问题或难避免。</p>
+<p>已赋闲在家两个多月的苏建正谋划着转行，他所在的吉林某国有煤炭集团下属公司从2014年底起依靠贷款发工资的日子还是走到了尽头，在今年亏损不断加大的情况下，半停产、降薪裁员成为最终的选择。</p>
+<p>相形之下，龙煤集团10万人的分流改革似乎更具刮骨疗伤的痛感。这家东北最大的煤炭企业、黑龙江最大国有企业，从2012年开始连年亏损。数据显示，该企业2012年净亏8亿元，2013年亏损扩大到23亿元，2014年亏损接近60亿元。按官方“2015年前八个月同比减亏11亿元”的口径看，龙煤集团今年三季度亏损仍在30亿元左右。</p>
+<p>记者梳理发现，黑龙江、辽宁超过七成重点行业税收负增长。黑龙江全省16个重点行业中，只有4个行业税收正增长，其余12个行业税收均负增长。辽宁省的情况更为悲观。前三季度，仅成品油等个别行业保持正增长，其他重点行业税收均持续负增长。需要指出的是，汽车制造业已经连续六个月税收负增长，房地产业已连续21个月税收负增长，而采矿业税收自2013年底以来基本为负增长。</p>
+<p>公开数据显示，今年上半年，辽宁一般公共预算收入同比下降22.7%，黑龙江同比降20.1%，吉林同比降3.1%，东北三省财政收入负增长，步伐一致。更为严峻的是，财收负增长的幅度还在进一步扩大。以辽宁为例，前七个月辽宁一般公共预算收入同比降21.7%，前八个月同比降22.9%，而前九个月则同比下降27.4%，降幅不断扩大。</p>
+<p>“原油量价双降对我市财政收入影响比较大。财政收入持续负增长，收入下降趋势明显，丝毫没有减弱。”大庆市财政局人士告诉《经济参考报》记者。</p>
+<p>在收入大幅下降、增收难度不断加大的同时，东北地区收支矛盾不断尖锐，财政运行困难、支出乏力。</p>
+<p>黑龙江某市财政局人士告诉记者：“我们底子薄，财政收入特别紧张，是典型的吃饭财政，很多基本支出到现在都没有办法兑现。以社保支出为例，去年有30多亿元的支出缺口，以前除了中央资金之外，都是省里拿钱，现在省市要三七分，我们地市本级要拿出25亿元支出，而全市可用财力总共不到30亿元，我们所有人得不吃不喝才够拿的。”</p>
+<p>一位煤炭大市的政府官员告诉记者：“我们市一煤独大，煤炭一感冒我们就发烧。最近三年恰逢煤炭行业三期叠加，出现了重大困难。黑龙江四个‘煤城’中，有的已经困难到工资都发不出来了，非常艰难。”专家表示，在上级财政的支持下，当前尚未出现大面积的拖欠工资问题，但若长此以往，个别县乡拖欠工资的问题将不可避免。</p>
+<p>接受《经济参考报》记者采访的专家认为，东北财政遇到的困难是东北经济问题的投射。东北一些地方“一业独大”等问题突出，依靠资源、传统重化工业的经济结构多年未有明显改善，成为此番向下拉动的主要力量。</p>
+<p>国务院发展研究中心原副主任刘世锦则认为，东北经济下行除了行业冲击外，更深层次的还是体制问题。“此番经济下行考验企业生存能力而非扩张能力，但东北国有企业这么多年没有很大改革，特别是大型国企改革，比起其他地区还是相对落后的，生存能力和转型升级能力比较差。”他说。</p>
+<p>也有专家指出，虽然陷入短期困境，但未来东北仍是一个很有潜力的区域。财政部财科所副所长白景明告诉《经济参考报》记者，东北经济有其特有的积极因素，人口密度低、土地资源相对充裕、劳动力素质和技术水平比较高、固定资产储备也比较多，这都是其发展的基础。这些年私营企业比重在上升，对经济形成新的推动力量，第三产业比重有所提高，第二产业转型升级也在向前推动，“我觉得未来随着经济结构的调整和全国统一市场的发育，东北将是一个很有潜力的区域”。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%8F%E6%B5%8E%E5%8F%82%E8%80%83%E6%8A%A5-%E4%B8%9C%E5%8C%97%E9%99%B7%E8%B4%A2%E6%94%BF%E5%9B%B0%E5%B1%80%EF%BC%9A%E6%9C%89%E7%9A%84%E5%B7%A5%E8%B5%84%E9%83%BD%E5%8F%91%E4%B8%8D%E5%87%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%A2%83/?category=18271" rel="tag">经济困境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%94%BF/?category=18271" rel="tag">财政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%94%BF%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">财政危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E6%89%A7%E6%B3%95%E7%AB%99%E9%81%AD%E7%99%BE%E4%BD%99%E5%90%8D%E8%92%99%E9%9D%A2%E4%BA%BA%E6%9A%B4%E5%8A%9B%E8%A2%AD/" target="cdt-mirror">德国之声 | 内蒙古一执法站遭百余名蒙面人暴力袭击</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/015987801_30300.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/015987801_30300.jpg" alt="0,,15987801_303,00" width="550" height="310"></a></p>
+<p>内蒙古额济纳旗的一个综合执法站遭百余名蒙面人暴力袭击，造成13人不同程度的伤情。地方当局和国家媒体周一（12月7日）报道称，执法站遭袭的原因是多年的”侵占”土地纠纷。</p>
+<p>（德国之声中文网）中国官媒报道称，袭击是因内蒙古额济纳旗和甘肃省金塔县边界纠纷引发的。额济纳旗13名人员被打伤。</p>
+<p>执法站位于额济纳旗马莲井县，当地政府在其网站报告，12月6日凌晨，100多名蒙面男子闯入马莲井综合执法站后切段电源、手持器械，向工作人员和牧民喷洒胡椒水，还将工作人员的头用布袋套上后进行殴打。</p>
+<p>内蒙古额济纳旗政府副旗长陈铁军对中新网记者描述说，现场还传出”不听话往死里打”的话语。</p>
+<p>当地政府表示，执法站的工作人员和牧民当天夜里负责守卫额济纳旗所属土地，当时室外的气温为零下20度。其中6名重伤被送往医院。</p>
+<p>在网络上曝光的遭袭照片显示，执法站的设施几乎完全被毁，其中包括十余辆执法用车。现场一片狼藉。</p>
+<p>额济纳旗政府说，袭击者使用工程用推土机进行破坏，并拿走个人和政府财产。</p>
+<p>“纠纷由来已久”</p>
+<p>媒体报道说，额济纳旗的检查站并非首次遭到袭击。甘肃省金塔县距离额济纳旗马莲井综合执法站仅约20公里。由于甘肃省金塔县人口多、土地少，多年来，该县一直不断侵占额济纳旗所属土地并非法开垦。</p>
+<p>该片土地常年存在争议的原因是，遭袭执法站所在的额济纳旗曾被划入甘肃省，后在1979年又被划还内蒙古。当局在此地建立执法站的目的是避免土地侵占和非法开垦的事件发生。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E6%89%A7%E6%B3%95%E7%AB%99%E9%81%AD%E7%99%BE%E4%BD%99%E5%90%8D%E8%92%99%E9%9D%A2%E4%BA%BA%E6%9A%B4%E5%8A%9B%E8%A2%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E8%92%99%E5%8F%A4/?category=18271" rel="tag">内蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E5%9C%B0%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">土地纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">暴力事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">暴力袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E5%BC%80%E5%9E%A6/?category=18271" rel="tag">非法开垦</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E6%B6%88%E5%A4%B1%E7%9A%84%E5%BE%90%E6%98%8E%EF%BC%9A%E5%85%B6%E5%85%B4%E4%B9%9F%E5%8B%83-%E5%85%B6%E8%A1%B0%E4%B9%9F%E5%BF%BD/" target="cdt-mirror">南方周末 | 消失的徐明：其兴也勃 其衰也忽</a>
+</h2>
+<p><p><strong>据悉，2015年12月4日，前实德集团、实德俱乐部董事长徐明因病去世，终年44岁。1992年，徐明创建大连实德集团。2012年3月，徐明涉嫌经济案件被相关部门控制，后获刑入狱，刑期四年，于2016年刑满。不料就在徐明即将出狱之际，他却突然去世。</strong></p>
+<p><strong>从一个冷库业务员，到各种富豪榜上均赫赫有名的富豪，二十年间，徐明奇迹般崛起，却又奇迹般消失。这是2012年徐明被抓时，南方周末刊发过的一篇报道，旧文新发，与各位共同回顾一下入狱前曾盛极一时的徐明和他的大连实德。</strong></p>
+<p>本文首发于南方周末  2012-04-19</p>
+<p>2012年4月4日，清明节，一大早，七十岁的徐盛家带着大儿媳妇回大连庄河市吴炉镇光华村丁屯的徐家祖坟扫墓。</p>
+<p>从大连到这里要花两三个小时。上午十点，南方周末记者看到，一片山坳之中的墓地上，几炷香还没烧完。扫完墓后徐盛家和丁屯的一位村民寒暄几句，直接回了大连——两次路过老宅，一行人没有作片刻停留。</p>
+<p>进入丁屯只有一条路，正是徐明捐款修的，老宅就在路边必经之地，一间孤零零的草屋。</p>
+<p>41年前，大连实德集团董事长徐明出生在这个三十多平米的草屋里，7年后，其父徐盛家掌管大队的乡镇企业大连大河水产品公司，一家人搬出了这个山村，迁到庄河县城。</p>
+<p>1988年，徐明走出庄河，自费赴沈阳航空工业学院上学。离开丁屯时，即使村里最大胆的人都猜想不到，这个地道庄稼人家庭出身的17岁少年，会在短短十年后，创建驰名全国的“实德帝国”，跻身各大富豪榜。</p>
+<p>但如今，这位刚刚度过41岁生日的富豪正被卷入漩涡之中。3月31日，新华社《财经国家周刊》率先披露，3月15日晚徐明“因涉嫌经济案件被相关部门控制”。同样被调查的还有大连实德集团总裁陈春国，两人的手机持续关机。</p>
+<p>自3月中旬，多家银行突然对大连实德的贷款情况进行摸底排查。大连银监局一位内部人士告诉南方周末记者，目前该局对实德的银行贷款较为忧虑，多数贷款没有抵押物，仅靠授信支持。</p>
+<p>一位大连民营企业家4月6日向记者透露，实德一周来都在“疯狂对外结账，怕资产被冻结”。3月底，徐明的胞兄、大连实德副董事长徐斌组成了董事会领导小组，代行董事长职权。据《新世纪周刊》报道，目前实德已进入破产程序的前期准备阶段。</p>
+<p>没有人知道徐明如今身在何处。一位接近徐斌的民营企业家向南方周末记者透露，实德集团已向大连市委市政府提交过书面报告，“就是想问问，徐明现在在哪”。</p>
+<p>一位短暂跟随过徐明的前实德高管李文告诉南方周末记者，实德是一个在权贵资本间游走的怪胎，“出问题是早晚的事”。</p>
+<p><strong>1从庄河冷库业务员到福布斯富豪</strong></p>
+<p>很多年以后，张武才知道，自己认识的那个“徐胖子”，为何消失一年后摇身一变为暴发户。</p>
+<p>张武是徐明在庄河一中的高中校友。当徐明1990年从沈阳航空工业学院大专毕业后，他及几个哥们曾经和徐明一起“厮混过两年”。</p>
+<p>在张武的印象里，徐明胆子很小。当时在学校里男生不外乎三件事情，喝酒、打架和泡妞。在喝酒、打架上，徐明“最怂”，就算自己惹的事情，也要靠哥们摆平。在泡妞上，徐明不遗余力。</p>
+<p>徐明的前妻是庄河一中一位“会谈钢琴、特别有文艺范儿”的学妹，其父母是庄河市一家国营商店批发公司的职工，徐明追了她整整五年。两人1993年结婚，几年后离婚并断绝来往。其后徐明的婚姻状况不明，外界曾经盛传徐的妻子很有背景，但他的朋友们均否认了此说法。</p>
+<p>那些年，自费读大学不包分配，徐明只好自己到大连找工作。庄河三禾冷库驻大连办事处业务员，是徐明的第一份工作。这是一家出口对虾到日本的庄河县属企业，徐明的工作是对接日本客户。精明的徐明干了不到一年，就攒了五六万块钱。</p>
+<p>但很快，徐明把这份工作辞了，自己成立了一家对虾贸易公司，在大连渤海大酒店里租了一间套房作为办公室。发迹后徐明曾对媒体称，自己第一桶金来自以熟虾代替生虾搞对虾出口生意，但据南方周末记者了解，当时徐明的对虾贸易公司半年内没做成一单生意，只好灰心丧气地放弃。</p>
+<p>闲下来没事的时候，张武和徐明等人经常去大连市公安局后面的大众舞厅跳舞。大众舞厅上午门票1.5元，下午2.5元，晚上3元，中间不清场。为了节省，徐明等人往往一大早9点开门就进去，一瓶汽水、一支麻花、几盘瓜子，“一块五能玩一天”。那是1991年，徐明的屁股兜里别着花3万多元买的“大哥大”，昏暗的舞厅里，“大哥大”的红色信号灯一闪一闪的，使徐明成为舞池里最扎眼的“大款”。</p>
+<p>那时候的徐明是大连最早拥有手机的一批人，他喜欢数字“3”，带有5个“3”的手机号码多年不变。</p>
+<p>张武回忆说，一帮哥们厮混了一年多。有一天徐明突然说要回庄河，当时的哥们都劝他：“来大连多不容易，就呆着呗。”一心要出人头地的徐明抛下一句话——“农村包围城市，最终回归城市”。</p>
+<p>回到庄河的徐明办了一个厂子，招了十几个人，给一家韩国客户加工无线电路板。一个冬天他挣了十来万块钱，并花了两万多买了一辆东风130卡车。“他每次都有很大的跨越，从水产品到电路，他就觉得，你干什么我就能干什么。”张武说。</p>
+<p>张武再次见到徐明，已经是1993年了。当时张和朋友合作炒期货，中午休市后，一帮人在大连高尔基路一家茶馆打麻将，徐明突然出现了。</p>
+<p>没聊几句，徐明突然指着对面的高尔基公寓（后来的实德大厦）说，这楼我前几天买下来了，6000万。</p>
+<p>张武说，“徐明你上哪弄6000万去？”</p>
+<p>又过了三四个月。张武和朋友在外面打台球，突然朋友接到徐明的传呼，说在不夜城挖土石方——不夜城即后来的大连市中心胜利广场。</p>
+<p>“当时我心想，不夜城那个坑老大了，徐明在那里挖土石方？！吹吧。”到不夜城的时候，已经是晚上十点多了。张武看到23岁的徐明戴着黄色头盔，在工地上拿着图纸正指手画脚。张武当时还猜想这是徐明的哥哥徐斌包下的工程，徐明只是来帮忙。</p>
+<p>直到胜利广场盖完，真挂上了实德集团的牌子，张武才相信了徐明已今非昔比的事实。</p>
+<p>事后看来，张武的这位早年胆小而沉默寡言的哥们实际早有“鸿鹄之志”，比如年纪轻轻的他一度每天西装革履，打发胶梳大背头，在家对着镜子苦练口才。二十多岁他就能用蹩脚的庄河普通话在正式场合口若悬河。</p>
+<p>徐明对金钱和财富极度渴望。发迹前，他就沉迷于扑克三打一的赌搏。2002年，徐明因饮酒过度而突发肝硬化，生命垂危，身边的人四处搜罗熊胆，因为传言新鲜的熊胆能救肝。当听说香港动物园有只熊快死了，一位实德老臣立即飞过去等着那只熊咽气，把热腾腾的熊胆取出来即刻飞回北京。</p>
+<p>后来，当徐明的病情逐渐稳定下来，他就下决心要挣更多的钱。“他说，有钱就直接杀一头熊。”张武说。当年，徐明以24亿元资产位列“福布斯内地富豪榜”第12名。</p>
+<p><strong>2消失的1992年，实德起点之谜</strong></p>
+<p>徐明的大变化，发生在1992-1993年之间，从此他再也不是舞厅里的小混混和村子里的小老板。</p>
+<p>1992年10月，22岁的徐明成为庄河外经贸委旗下的庄河市工业品对外贸易公司的经理和法定代表人。后来成为大连实德集团副总裁的隋信敏，当时也从庄河市计委调到这家公司担任业务科长的二把手职位。这家公司即是大连实德集团的前身。</p>
+<p>也就是这家有着政府背景的小型贸易公司，成为徐明打造“商业帝国”的起点。</p>
+<p>上世纪九十年代初，中国政府给予合资企业诸多优惠，于是徐明决定去澳门做一个合资架构的澳门实德公司。在澳门，签完合同后他和另外三名股东喝完酒回酒店睡觉的途中，车翻了。三个股东当场死亡，徐明活了下来，只断了几根肋骨。假合资变成了真独资。</p>
+<p>此后，徐明在1992年10月27日，注册了一家中外合资的大连实德机械工程有限公司，由庄河市工业品对外贸易公司和港商周一鸣的香港恒和机械工程公司共同出资80万美元。其中中方以44万美元现金占55%的股权，外方以36万美元从日本、美国购买的37台二手机械设备占45%股权。</p>
+<p>在大连实德机械公司里，时任庄河外经贸委主任的杨兴普任董事长，徐明任副董事长兼总经理，周一鸣和隋信敏任副总经理。工商资料显示，这家合资公司的股本和投产后所需的流动资金，全系中国农业银行大连分行国际业务部的贷款。</p>
+<p>知情人士透露，随后徐明从中国农业银行大连分行国际业务部贷得了一笔过亿的贷款，从而接下胜利广场的土石方工程，赚取了第一桶金。</p>
+<p>这段时间徐明为什么会发生大变化，外界不得而知。张武后来听人说，徐明消失的1992年里去了北京，结交了一些有背景的“二代”，并由此结识了几位银行行长，为日后获得商业贷款埋下了伏笔。</p>
+<p>随后徐明进入了塑钢行业。据媒体公开报道，当时大连市对完全不同于铝合金的新材料塑钢表示出极大兴趣，徐明公开表示要响应号召，生产塑钢建材。</p>
+<p>1994年8月，徐明再次借助庄河外贸的政府背景，与一家名为德国亚洲进出口公司的外商合资，成立大连实德塑胶工业有限公司。中方出资675万美元现金占75%股份，其股本和流动资金仍是来自农行大连分行国际业务部的贷款。</p>
+<p>当时徐明一口气引入了12条塑钢挤出生产线，年设计生产能力1.5万吨。大连市建委的一位领导在大连实德塑胶工业有限公司开工典礼上问徐明：“这么做是不是风险太大了？”但事实证明，徐明选择的这条道路不但让其拥有了真正的实业，而且迅速做大了市场，成为全球最大的塑钢生产商之一。</p>
+<p><strong>3财富轨迹：足球、金融与地产</strong></p>
+<p>真正让徐明在全国曝得大名的，是实德接手大连万达足球俱乐部。</p>
+<p>1999年12月24日，28岁的徐明以1.2亿元代价从万达集团董事长王健林手中收购了大连万达足球俱乐部。转让合同书显示，大连实德集团只付出5000万元现金，其余的7000万“通过实德集团指定的承贷单位承担万达集团在建设银行大连分行的贷款来支付”。</p>
+<p>多位采访对象认为，徐明进入足球圈，与大连市有意打“足球名片”的背景有关，“徐明不懂球，也不看球。”张武说，徐明只是把足球当成企业运转的棋子。</p>
+<p>但后来，随着地方政府对足球支持的减弱，徐明对足球的投入亦大幅减少，成绩随即一落千丈。“以前主场比赛经常有副书记、副市长赛前看望球队，徐明就拼命把成绩做上去。但后来领导不重视足球了，连体育局长都不去看球了，徐明对足球的热情也骤然降温。”大连实德俱乐部一位中层人士向南方周末记者指出。</p>
+<p>大连实德俱乐部总经理林乐丰也向南方周末记者透露，徐明这些年基本上不怎么管俱乐部，“在公司都很少见到他，他不坐班，基本上都在北京和国外。”</p>
+<p>如果说足球是徐明的一个跳板，那么进军金融业则使他获得了撬动多个产业的杠杆。</p>
+<p>2000年，实德首次进入金融业，出资1.8亿元购得生命人寿保险公司13.25%的股份。接下来的几年中，实德相继参股或控股太平洋保险、景顺长城基金司、太平洋金融学院和大连市商业银行等。</p>
+<p>实德投资金融不仅获得了巨额利润——据媒体报道，仅入股太平洋保险，实德便获利超40亿元，而且得以撬动巨额资金进行资产运作，它曾先后用直接或间接持股、资产置换等方式，控制多家上市公司。</p>
+<p>“徐明玩金融，就是把资金链错落关系搞乱，东墙西墙不断拆借，非常不透明。”一位知情人士透露。</p>
+<p>获得资本杠杆之后，徐明将大连实德行政总裁角色交给了部下陈春国，自己的主要精力放到了投资领域，逐渐形成一个横跨化建、房地产、保险人寿、商业银行、医疗体系等诸多产业的多元谱系。</p>
+<p>2002年，徐明第一次进军房地产。他回到老家庄河，拍下了一大片地，一边拆迁一边盖住宅。</p>
+<p>然而就在房地产开发得火热之时，徐明因肝硬化病危，庄河的政府领导去看望他，触景生情，他当时做了两个决定，一是庄河地产项目实德无偿交给政府，算是为家乡做贡献；二是，今后再也不做房地产。</p>
+<p>但徐明违背了第二个诺言。2010年，实德的房地产板块“天实安德”浮出水面，在大连、重庆、北京成立项目公司，天实安德地产董事长为隋信敏，总裁是兼任香港天安中国投资有限公司华北区总裁的夏谦。</p>
+<p>有大连开发商对南方周末记者透露，“天实安德”是香港老牌地产公司天安中国与实德的合资企业，实德在其中扮演的主要角色，是利用自身资源拿地。</p>
+<p>2011年初，天实安德启动了长兴岛、金石滩、普湾和北京等地的项目开发建设。有消息称，除长兴岛朗庭山项目之外，其他项目均处于停滞或放缓阶段，融资并未成功。</p>
+<p>据南方周末记者调查，天实安德在大连东港还有一块土地，大连一位房地产经理向南方周末记者透露，2011年年底天实安德曾通过猎头找到他，希望其出任东港项目副总经理。东港是夏季达沃斯的举办地，“能在此拿地的开发商背景都非同一般。”该人士说。</p>
+<p>天实安德在北京的地产项目位于亦庄，项目公司为天实和华置业（北京）有限公司，其法定代表人为宋增彬。</p>
+<p>宋增彬是大连人，曾任大连市建委主任、大连市副市长。54岁提前退休后任天安中国投资有限公司（00028.HK）董事会副主席及非执行董事，主导和实德的房地产合作。</p>
+<p>实德进入地产的另一个平台，是与哈尔滨企业人和商业（01387.HK）的合作。2009年10月，双方成立盛和集团控股有限公司，各占50%的股份。盛和集团在北京、哈尔滨、大连、沈阳、重庆分别设有投资公司，总裁是来自实德集团的副总裁贾月湘。</p>
+<p>工商资料显示，重庆盛和外方股东是高登国际（香港）投资有限公司，投资总额8000万美元，其中外方出资5000万美元作为其注册资本。</p>
+<p>不过，受累于地产调控，盛和集团正四处兜售旗下的土地。在重庆两江新区的北碚蔡家，盛和集团2010年2月以重庆和生裕房地产开发有限公司的名义，拿下三块总建筑面积近50万平米的地块，总地价约4.5亿元。2011年底，大连实德开始为这三块土地寻找买家。重庆隆鑫地产新闻发言人徐思光向南方周末记者透露，当时实德欲作价10亿多元将这三块地打包卖给隆鑫。</p>
+<p>除了足球与地产，在实德的商业帝国中，原本还有一块规划是石化项目。</p>
+<p>2004年，大连市开始规划双岛湾石化项目，徐明向大连市政府提出建设双岛湾大型石化项目，预计投资达416亿元人民币。2004年9月，中国商务部发布公告，大连实德集团公司获得成品油国际贸易经营权牌照。</p>
+<p>但2009年7月，该项目规划被否，徐明的化工梦也成了幻影。</p>
+<p><strong>4实德落幕</strong></p>
+<p>在构建自己的商业帝国的过程中，早年徐明以庄河市工业品对外贸易公司法定代表人的身份，充分利用这家公司的政府信用和市场资源，为自己“孵”出了大连实德机械工程公司、大连实德塑胶工程公司和大连实德集团公司三大核心企业。</p>
+<p>1998年10月，庄河市工业品对外贸易公司因“未进行年检”而被吊销营业执照，1999年，杨兴普突然去世，这两件事使得庄河市工业品对外贸易公司完全掌握在了徐明的手中。</p>
+<p>“徐明对杨兴普的排挤，让杨在很长一段时间里心情抑郁。”知情人士向南方周末记者透露。</p>
+<p>工商资料显示，杨兴普在大连实德塑胶工程公司和大连实德机械工程公司的董事长职务，在没有股权转让发生的情况下，分别在1999年8月和2004年4月被徐明接替。2005年11月，已经被吊销营业执照的庄河市工业品对外贸易公司将其名下大连实德塑胶工程公司50.3%的股份无偿转让给大连实德集团公司。</p>
+<p>1999年，向庄河市外经贸委等原数退还当初注册时的出资后，大连实德的股份全部转让给了徐明、隋信敏、徐斌和陈春国四人，其中徐明绝对控股。由此，大连实德完全变成了一家民营企业。</p>
+<p>不久，私有化之后的实德突然大手笔增加注册资本。2001年初，当时注册资本仅有1.2亿元的实德集团突然获得一笔近40亿元的注资，成为徐明财富传奇的最大转折点，但这笔资金来自何方，至今是谜。</p>
+<p>虽然已是一家完全的民营企业，但大连实德依然有着浓厚的政府背景。实德高管层中包括69岁的党委书记、原辽宁省省长助理杨宝善和60岁的副董事长阮鑫光这两位前政府官员，82岁的前大连市市长魏富海亦曾担任过实德集团顾问。</p>
+<p>知情人士透露，徐明还与一家神秘律所——昂道律师事务所联系密切。</p>
+<p>昂道与一家名为Horas顾问投资公司的公司在大连和北京共用办公室。接受华尔街日报采访时，Horas公司的主席程怡君称，他们公司目前的主要股东是大连实德集团。</p>
+<p>北京昂道律所所在的汇园公寓是一座古旧的公寓楼，不时有住户牵着宠物进出。4月13日，K座9-318的门口还悬挂昂道律师事务所的牌匾，但大门紧闭。南方周末记者反复敲门后，一位中年男性小心翼翼地开门拒绝了记者的采访。</p>
+<p>实德前高管李文向南方周末记者指出，这家没有官方网站的律师事务所参与操作了众多辽宁国企改制过程，服务对象不乏东北大型国企，包括金杯汽车、大连友谊、大连易世达、大连天宝股份、长春百货大楼集团、东北制药、大连机场集团等。</p>
+<p>2000年，因为一次并购，李文加盟大连实德。有一天，李文到徐明办公室汇报工作，中间徐接到一个电话，李文听出电话那头是大连市某位副区长。这通电话打了半个小时，李文听出那位副区长是想通过徐明，和上级领导搭上线寻求晋升机会，而徐明满口答应。</p>
+<p>9个月后，李文辞职了，他对南方周末记者称，他预感徐明会出事，“和某些领导利益捆绑太深了”。</p>
+<p>（应受访者要求，张武、李文为化名）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E6%B6%88%E5%A4%B1%E7%9A%84%E5%BE%90%E6%98%8E%EF%BC%9A%E5%85%B6%E5%85%B4%E4%B9%9F%E5%8B%83-%E5%85%B6%E8%A1%B0%E4%B9%9F%E5%BF%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%BF%9E%E5%AE%9E%E5%BE%B7/?category=18271" rel="tag">大连实德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E5%88%A4%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">审判薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">徐明狱中死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%96%B0%E6%B5%AA%E4%BD%93%E8%82%B2-%E9%82%93%E4%BA%9A%E8%90%8D%E5%86%8D%E8%8E%B7%E6%96%B0%E8%81%8C-%E5%8F%97%E8%81%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E5%85%BC/" target="cdt-mirror">新浪体育 | 邓亚萍再获新职 受聘为中国政法大学兼职教授</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/w570187.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/w570187.jpg" alt="w570187" width="550" height="366"></a></p>
@@ -106,7 +246,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%85%B3/?category=18271" rel="tag">中国海关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%9E%E5%80%BC%E7%A8%8E/?category=18271" rel="tag">增值税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A2%E4%BE%88%E5%93%81/?category=18271" rel="tag">奢侈品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%85%B3/?category=18271" rel="tag">海关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%B4%AD/?category=18271" rel="tag">海外代购</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E7%A8%8E/?category=18271" rel="tag">消费税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9B%E5%8F%A3/?category=18271" rel="tag">进口</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%8E%9F%E5%AE%9E%E5%BE%B7%E4%BF%B1%E4%B9%90%E9%83%A8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96/" target="cdt-mirror">【真理部】原实德俱乐部董事长徐明狱中因病去世</a>
 </h2>
@@ -615,93 +755,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%A8%E7%AB%99ip%E8%A2%AB%E5%A2%99-%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%89%80%E6%9C%89%E8%AF%AD%E8%A8%80%E5%85%A8%E9%9D%A2%E9%98%B5%E4%BA%A1/" target="cdt-mirror">基金会全站IP被墙 维基百科所有语言全面阵亡</a>
-</h2>
-<p><p>网曝维基百科所有语言版本在中国大陆境内均无法通过电脑访问。有网民称，目前移动端仍可正常连接。</p>
-<p>根据维基百科词条“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%AF%B9%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E7%9A%84%E5%B0%81%E9%94%81#2015.E5.B9.B4">中国大陆对维基媒体的封锁</a>”：</p>
-<blockquote><p>2015年12月4日下午起，维基百科的所有语种版本在中国大陆均不可访问，至5号，封鎖范围已擴展至維基媒體基金會全站，众多维基IP被封锁，更改主机 hosts已经无法解决问题。到其IP地址198.35.26.96的安全连接被阻断，但IP地址208.80.154.224仍可连接，智慧手机應用程式的连接尚正常。</p></blockquote>
-<p>推特用户<a href="https://twitter.com/chengr28" data-mentioned-user-id="45630895">@<b>chengr28</b></a>:</p>
-<blockquote><p>维基百科服务器的IP地址被墙了……所以上不了。之前一直只是投毒污染中文语言的域名，现在各个语言的都上不去了</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-04-at-11.01.24-PM.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-04-at-11.01.24-PM.png" alt="Screen Shot 2015-12-04 at 11.01.24 PM" width="525" height="260"></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%A4%A7%E6%89%93%E5%87%BB%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/">反法西斯大阅兵前 中国被曝加大打击外国VPN服务</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E7%BF%BB%E5%A2%99-shadowsocks%E9%87%8D%E8%A6%81%E9%A2%86%E5%AF%BC%E8%80%85%E8%A2%AB%E5%96%9D%E8%8C%B6-%E6%94%BE%E5%BC%83%E9%A1%B9%E7%9B%AE%E7%BB%B4%E6%8A%A4/">Shadowsocks重要领导者被喝茶 放弃项目维护</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/03/github%E7%96%91%E9%81%AD%E6%9D%A5%E8%87%AA%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E7%9A%84%E5%A4%A7%E5%9E%8Bddos%E6%94%BB%E5%87%BB/">GitHub疑遭来自防火长城的大型DDoS攻击</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%8F%E8%AE%AE%E5%B1%82%E9%9D%A2%E4%B8%8A%E5%B1%8F%E8%94%BD%E5%A4%96%E5%9B%BDvpn%E6%9C%8D%E5%8A%A1/">中国在协议层面上屏蔽外国VPN服务</a></li>
-<li><a title="网曝Gmail电邮客户端被墙，已彻底沦陷" href="http://chinadigitaltimes.net/chinese/2014/12/%E7%BD%91%E6%9B%9Dgmail%E7%94%B5%E9%82%AE%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%A2%AB%E5%A2%99%EF%BC%8C%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%B2%A6%E9%99%B7/">网曝Gmail电邮客户端被墙，已彻底沦陷</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@Julian_the_Apostate_：还真是的，英文维基百科也被墙了，对于平时想看点正儿八经的东西的人来说没谷歌就够痛苦了，现在维基也没了。全体人民现在只能看百度的不孕不育广告了，真伟大，社会主义太牛逼了！<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/70fc9484gw1eyopil10h2j215i15iqgu.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/70fc9484gw1eyopil10h2j215i15iqgu.jpg" alt="70fc9484gw1eyopil10h2j215i15iqgu" width="440" height="440"></a></p>
-<p>@某只伊：嚓，维基百科全面被墙了，以后在外头想查点东西都麻烦了。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6d2bd3bagw1eyopgkkouzj20i70cwt90.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6d2bd3bagw1eyopgkkouzj20i70cwt90.jpg" alt="6d2bd3bagw1eyopgkkouzj20i70cwt90" width="440" height="312"></a></p>
-<p>@AngelinaAnne：虽说当年搞学术的时候大家都鄙视维基，只奉学术论文引用为正统；虽说维基上也有不少错误，然而这毕竟是开阔眼界的一扇窗，为了证伪维基而读书也能获取不少知识。我们跟国外比啥都不差，就这点不行。#每天凑五条#</p>
-<p>@伊藤薄饼：维基百科全面被墙。道路以目，精神锁国的大防火墙时代终于来了。汝必日暮途远，故倒行而逆施之。</p>
-<p>@陆大鹏Hans：哈！封了我每天工作必用的维基百科外文版。。由百度，女德，儒家国师，国梦，核x价值观，星辰大海，一花一带组成的盛世看样子已然降临。荣耀啊荣耀！</p>
-<p>@琴吹七瀨：维基百科又被封了？这次连英文都不放过？祝大大吃屎开心，全家中国梦。</p>
-<p><a title="阿瓜想去给娘家队开大巴" href="http://weibo.com/u/1996500645" target="_blank">阿瓜想去给娘家队开大巴</a>：卧槽在家连维基百科都上不了<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">要死了</p>
-<p><a title="TIANA_G" href="http://weibo.com/u/1687452035" target="_blank">TIANA_G</a>：作为一个三天两头需要做pre查维基的人，全语种封了维基百科难道去用百度？你国真棒。<img src="https://s.w.org/images/core/emoji/72x72/1f595.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E5%8F%96%E6%B6%88%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/" target="cdt-mirror">【真理部】莲花味精取消独董候选人</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%EF%BC%9A%E5%8F%96%E6%B6%88%E6%8F%90%E5%90%8D%E4%B9%A0%E9%93%B6%E5%B9%B3%E4%B8%BA%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/">莲花味精取消独董候选人</a>提名一事，撤出首页不炒作。内容禁止提及相关国家领导人，违者严厉处罚。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%B2%E8%8A%B1%E5%91%B3%E7%B2%BE%E5%8F%96%E6%B6%88%E7%8B%AC%E8%91%A3%E5%80%99%E9%80%89%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E9%93%B6%E5%B9%B3/?category=18271" rel="tag">习银平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/" target="cdt-mirror">要在高校“打响意识形态反击战”的李吉明是谁？</a>
-</h2>
-<p><p><strong>李吉明：清除高校害群之马，打响意识形态反击战</strong></p>
-<p>原标题：<a href="http://m.blogchina.com/v1.php/blog/view/uname/liming730210/bid/2853429">高校教师不可跨越底线</a></p>
-<blockquote><p>一个连自己国家都不爱的人，是很难担当“教书育人”重任的。难怪有人感叹现今高校已经没落了原本的精神，难怪有人愤懑于现今的高校教师已经失去了道德的坚守。有这样一群扭曲、变态的 “灵魂工程师”在一味否定中国的制度和体制、无限放大社会负面信息、发表不着边际的奇谈怪论，中国的高校还有什么精神可言，高校教师还有何颜面妄谈 “师德”。[…]</p>
-<p><strong>如果高校里总是蔓延着西方资本主义世界的错误思潮，尤其是西方国家宣扬的“普世价值”、宪政民主、历史虚无主义、新自由主义等错误政治思潮</strong>，就会严重阻碍实现民族伟大复兴“中国梦”的进程。所以，要真正抓好高校意识形态工作，就要把全面从严治党落到实处，就必须对那些经常发表攻击党和社会主义言论的高校教师予以严惩、坚决清除。</p>
-<p>[…]为了我们的未来和梦想，就必须对高校教师队伍进行全面整顿、彻底清理，全面打响意识形态反击战。</p>
-<p>（李吉明2015年12月3日 邮箱：liming7302102163.com）</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA1.png" alt="李吉明新唐人1" width="450" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%90%89%E6%98%8E%E6%96%B0%E5%94%90%E4%BA%BA2.png" alt="李吉明新唐人2" width="450" height=""></a></p>
-<p><strong>李吉明</strong>曾为河南省新乡市第二十六中学教师，目前具体职务不详。个人博客简介如下：</p>
-<blockquote><p>李吉明，致力于教育发展研究，关注国计民生，思想与行为并重、工作与博文同行。曾著长篇小说《教误》，短篇小说《激情无罪》、《残雪》等，人民网、博客中国专栏作家，著名网络热评人，现供职于河南新乡教育行业。</p></blockquote>
-<p>从<strong>2007年</strong>开始<a href="http://liming730210.blogchina.com/">积极创作</a>网评<strong>，以往言论包括：</strong></p>
-<ul><li>为给<a href="http://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/">辽宁日报</a>《<a href="http://chinadigitaltimes.net/chinese/2014/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%80%81%E5%B8%88%EF%BC%8C%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7%E8%AE%B2%E4%B8%AD%E5%9B%BD/">大学老师，请不要这样讲中国</a>》辩护的《求是》文章<a href="http://liming730210.blogchina.com/2374598.html">站台</a>：</li>
-</ul><blockquote><p>而那些所谓的“教授”呢？尽管他们在学术研究方面鲜有建树，但潜规则女学生、走穴敛财、甚至打着学术旗号搞诈骗的却屡屡热爆了人们的眼球。更有甚至，除了 信口开河的歪理邪说，就是紧盯着社会的紧盯着社会负面信息的哗众取宠，要么就是充当西方政治的传教士，通过各种路径、抓住一切机会向民众灌输西方的政治思 想；要么就是通过宣泄自己的情绪误导众生、毁人不倦。试问，如此这般的“话语权”，要它何用？</p></blockquote>
-<ul><li>把在《辽日》事件中反驳袁贵仁的大学教师<a href="http://liming730210.blogchina.com/2380393.html">批判了一番</a>：</li>
-</ul><blockquote><p><strong>如果高校里总是蔓延着西方资本主义世界的错误思潮，尤其是西方国家宣扬的“普世价值”、宪政民主、历史虚无主义、新自由主义等错误政治思潮</strong>，我们培养的人才又如何能服务于社会主义现代化、担当起民族复兴的历史重任？然而令人感到可笑的是，在西方敌对势力亡我之心不死，借助一切手段加大了意识形态渗透、和平演变力度的当下，我们的一些大学教师不是极力抵制而是积极充当其代言人甚至抹黑中国，这样的教师该不该给予严厉打击，“发现一个严惩一个”？</p></blockquote>
-<ul><li>还把原《炎黄春秋》执行主编洪振快<a href="http://china.gansudaily.com.cn/system/2015/08/25/015678030.shtml">批判了一番</a>：</li>
-</ul><blockquote><p>作为专家学者、社会公知，不是以爱国之心、民族大义为重，引领社会正能量；而是丧失最起码的民族良知，接受美国等西方国家收买，抹黑英雄恶搞历史，颠倒黑白颠覆信仰，试图削弱对人民民主专政的认同，动摇共产党的执政根基，简直就是“汉奸”、就是“卖国贼”，因而必须像当年的“锄奸”那样，将这些民族败类们铲除干净！</p></blockquote>
-<ul><li>“<a href="http://m.blogchina.com/blog/view/uname/liming730210/bid/446349">骂罢政府骂学术的知识分子，应当迷途知返！</a>”</li>
-</ul><blockquote><p>那些不知好歹的文化人，什么教授、研究员、批评家，靠政府微薄的工资吃茶饭的一拨“闲人”或“庸人”，常以不屑一顾的语气说东道西、闲话彼此，这本不关我等俗人之事，但如今他们这种亵渎国学、辱骂大师、蛊惑人心的行为实在是厚颜无耻、不知天高地厚。</p></blockquote>
-<ul><li>根据李吉明的姿势水平，都市传奇《十条诫令》<a href="http://liming730210.blogchina.com/416062.html">是真的</a>：</li>
-</ul><blockquote><p>美国中央情报局在其机密的“行事手册”中关于对付中国的部分最初撰写于中美极度对抗的1951年，以后随着中美关系的变化不断修改，至今共成十项，内部代号称为《十条诫令》。清楚地反映了中央情报用在华活动的重点目际和其险恶用心，现将全文转述如下：</p></blockquote>
-<ul><li>称李银河为<a href="http://liming730210.blogchina.com/453657.html">缔造性淫乱的丑婆姨</a>。</li>
-</ul><ul><li>不想搞个大新闻声明：<a href="http://liming730210.blogchina.com/417312.html">我与吴祚来绝非朋友，更不是一丘之貉</a></li>
-</ul><p> <br><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/u/1707683373" target="_blank">张鸣</a>：成了害马，荣幸。</p>
-<p><a href="http://weibo.com/3738026925" target="_blank">红河律师</a>：千古奇文! 本质:只有每日三呼“吾皇万岁!万岁!万万岁!”的臣民，才是好奴才!<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"></p>
-<p>@霾中之国：呵呵，宣传普世价值，霍乱视听，你是赞他们还是黑他们呢？</p>
-<p>@于洋律师：爱国就不能宣扬普世价值，难道这“国”是大清国不成？</p>
-<p>@光之前_jfn：各大纸媒、电媒、出版业都被某团伙打着国家的旗号垄断了，还要高喊“打一场意识形态的反击战”，正如一伙歹徒开着装甲车坦克上街高喊“指甲刀实名制，不实名收缴为国家财产！”。“指甲刀也是到，是刀就是凶器”</p>
-<p>@一生一会_21346：文采不如当年的“大字报”</p>
-<p>@ycyu8708：“一个连自己国家都不爱的人，是很难担当“教书育人”重任的。”——-请问所列举的公知如何就不爱国了？我看他们的言论证明他们恰恰才是真正的爱国者。</p>
-<p>@成就一切微尘定：把他们都打倒,我们就可以过上朝鲜的幸福生活了</p>
-<p>@愿意试：你不提我都不知道这几个人要关注，我要监督他们～谢谢提醒</p>
-<p>@林敬竣：一篇多好的文章，一篇教育人说谎不要脸红的范文，一篇倒打一耙的精华样本，一篇纯粹工作的作品，好好好。文章说了，“连自己国家都不”呆””……恰到好处</p>
-<p>@青城季节：他们手舞足蹈，义愤填膺，正义凛然，高喊着我要我要，亢奋的死去活来。</p>
-<p>@昆明好教练：张老师把整个中国的教育给害了，你真行！</p>
-<p>@出土的小青蛙：就是不允许不同意见，就这点胸怀，还他妈得中国梦呢，</p>
-<p>@杨春林佳：无权无势者就能唱衰中国，请问中国和美国一样都是纸老虎吗？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">辽宁日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -713,7 +766,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -723,5 +776,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

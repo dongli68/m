@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%96%B0%E9%97%BB%E5%AE%A3%E4%BC%A0%E4%B8%AD%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/" target="cdt-mirror">【河蟹档案】新闻宣传中的“个人崇拜”</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：总觉得有点儿像是在“挖坑”。让我不避“妄议”之嫌，说一句：是该警惕新闻宣传中的“个人崇拜”的时候了。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1114.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1114.jpg" alt="111" width="524" height="698"></a><br><a href="https://freeweibo.com/weibo/3916610873675796" target="/weibo/391">2015年12月05日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40ruanyf">ruanyf</a>：本月中文维基百科被墙以后，全球前30大英文网站还有14个能在中国正常访问。<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%A8%E7%AB%99ip%E8%A2%AB%E5%A2%99-%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%89%80%E6%9C%89%E8%AF%AD%E8%A8%80%E5%85%A8%E9%9D%A2%E9%98%B5%E4%BA%A1/">基金会全站IP被墙 维基百科所有语言全面阵亡</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/111.jpg" alt="111" width="501" height="337"></a><br><a href="https://freeweibo.com/weibo/3845593426557904" target="/weibo/384">2015年05月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E6%98%95">徐昕</a>：带走了多少秘密？//*<a href="https://freeweibo.com/weibo/%40%E7%8E%8B%E7%94%AB%E5%BE%8B%E5%B8%88">王甫律师</a>：何时抓不知道；羁押哪里不知道；有无律师不知道；涉嫌罪名不知道；哪家法院审判不知道；判处轻重不知道；是否上诉不知道；哪个监狱服刑不知道；何时死不知道。<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E6%98%93-%E5%8E%9F%E5%AE%9E%E5%BE%B7%E4%BF%B1%E4%B9%90%E9%83%A8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96/">网易<em><em>｜</em></em>原实德俱乐部董事长徐明狱中因病去世</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/111.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/111.png" alt="111" width="441" height="784"></a><br><a href="https://freeweibo.com/weibo/3917043268846887" target="/weibo/391">2015年12月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%87%8A%E4%B8%8D%E5%BD%92">释不归</a>：花样作死又出新高度。<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BF%BD%E5%A6%82%E4%B8%80%E5%A4%9C%E6%98%A5%E9%A3%8E%E6%9D%A5%EF%BC%8C%E5%8D%83%E6%8A%A5%E4%B8%87%E6%8A%A5%E9%A9%AC%E5%B7%B4/">【立此存照】忽如一夜春风来，千报万报马巴</a>》；《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E4%BC%A0%E5%AA%92%E5%A4%A7%E8%A7%82%E5%AF%9F-%E6%96%B0%E5%8D%8E%E7%A4%BE-%E6%94%B9%E7%A8%BF%E8%BF%99%E6%A0%B7%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E6%83%85%E8%A6%81%E8%AF%B4%E4%B8%89%E9%81%8D/">传媒大观察<em><em>｜</em></em> 新华社 改稿这样重要的事情要说三遍</a>》</em></em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1112.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1112.jpg" alt="111" width="394" height="702"></a><br><a href="https://freeweibo.com/weibo/3916693878898951" target="/weibo/391">2015年12月05日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%87%E7%AD%96%E5%B0%BD%E7%9F%A3">万策尽矣</a>：一种大型悲剧………………..<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1115.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1115.jpg" alt="111" width="415" height="278"></a><br><a href="https://freeweibo.com/weibo/3916469227833595" target="/weibo/391">2015年12月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%83%9F%E4%B8%80%E5%B1%85%E5%A3%AB">惟一居士</a>：马云夫妇。<em><em>相关阅读｜</em>《<a href="http://www.wenxuecity.com/news/2015/12/05/4764488.html">马云被曝皈依臧教佛门 网友：又有大师要被抓了</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1113.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1113.jpg" alt="111" width="455" height="640"></a><br><a href="https://freeweibo.com/weibo/3916639865138030" target="/weibo/391">2015年12月05日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%85%BB%E5%AE%B3">腻害</a>：我赌五毛这个浏览器做不久了<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1117.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1117.jpg" alt="111" width="349" height="621"></a><br><a href="https://freeweibo.com/weibo/3915895506162824" target="/weibo/391">2015年12月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B5%B5%E6%99%AE">赵普</a>：我到今天依然想不通，《穹顶之下》如此温和、建设性地调查报道为何网上搜不到了？<em><em>相关阅读｜</em>《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E4%BA%AC%E5%9F%8E%E9%9B%BE%E9%9C%BE%E5%8F%B2%E4%B8%8A%E7%BD%95%E8%A7%81-%E6%B5%93%E5%BA%A6%E9%80%BC%E8%BF%911952%E5%B9%B4%E4%BC%A6%E6%95%A6%E7%83%9F%E9%9B%BE%E4%BA%8B/">财经网<em><em>｜</em></em> 京城雾霾史上罕见 浓度逼近1952年伦敦烟雾事件</a>》；《【<a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%90cdtv%E3%80%91%E6%9F%B4%E9%9D%99%E9%9B%BE%E9%9C%BE%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%A9%B9%E9%A1%B6%E4%B9%8B%E4%B8%8B/">CDTV】柴静雾霾调查：穹顶之下</a>》</em><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1118.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1118.jpg" alt="111" width="440" height="587"></a><br><a href="https://freeweibo.com/weibo/3915034960429608" target="/weibo/391">2015年12月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40M%E5%A4%A7%E7%8E%8B%E5%8F%AB%E6%88%91%E6%9D%A5%E5%B7%A1%E5%B1%B1">M大王叫我来巡山</a>：整整一天了。。我满脑子还都是这样的画风。。出不去了。[笑cry]<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1111.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1111.jpg" alt="111" width="432" height="349"></a><br><a href="https://freeweibo.com/weibo/3916478925093843" target="/weibo/391">2015年12月05日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%96%B0%E9%97%BB%E5%AE%A3%E4%BC%A0%E4%B8%AD%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C/?category=18271" rel="tag">“习近平辞职”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E9%9D%9E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中非关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A0%E6%8E%AA%E6%B4%BB%E4%BD%9B/?category=18271" rel="tag">加措活佛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%83%E4%B8%96%E5%A4%A7%E5%AE%9D%E6%B3%95%E7%8E%8B/?category=18271" rel="tag">十七世大宝法王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%99%B6%E7%8E%9B%E5%B7%B4%C2%B7%E4%BC%8D%E9%87%91%E8%B5%A4%E5%88%97%E5%A4%9A%E5%90%89/?category=18271" rel="tag">噶玛巴·伍金赤列多吉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%BF%9E%E5%AE%9E%E5%BE%B7/?category=18271" rel="tag">大连实德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91/?category=18271" rel="tag">维基百科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99/?category=18271" rel="tag">藏传佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">被死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%92%B1%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">金钱外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E5%85%84%E5%BC%9F/?category=18271" rel="tag">非洲兄弟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BA%BA%E9%83%BD%E7%88%B1%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%B4%AD/" target="cdt-mirror">网易回声 | 为什么人人都爱海外代购</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/20151207110455e773d.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/20151207110455e773d-1024x662.jpg" alt="2015年7月27日，意大利佛罗伦萨The Mall购物中心，PRADA店内被中国游客占领。/CFP" width="500" height="323"></a><p>2015年7月27日，意大利佛罗伦萨The Mall购物中心，PRADA店内被中国游客占领。/CFP</p></div>
+<p><strong>质优价廉的外国商品是中国人热衷海外代购的最大原因，如果想要打击海外代购，就不得不面对国内严重的税负与糟糕的产品质量问题。</strong></p>
+<p>015年12月5日，香港《南华早报》网站发表了题为《政府顾问：当局快将出台打击代购措施》的报道，报道中称，内地政府可能会大幅抑制海外代购服务，以促进国内消费。</p>
+<p>随着中国消费者更多地从海外购物，如婴儿奶粉、化妆品、奢侈品手袋和新鲜食物等，海外代购业务近年快速增长。代购者们在海外购买产品，再卖给内地顾客以赚取利润。他们通常通过各种渠道避开关税以节省成本。据市场研究机构“财富品质研究院”院长周婷称，代购“不仅让政府损失了税收收入，还引起奢侈品牌供应和定价机制的混乱”，在一些情况下，“甚至会影响顾客利益”。然而实际情况是，海外代购在中国的蓬勃发展，让中国消费者获益良多。</p>
+<p><strong>从2005年至今，海外代购从零星的个人行为，发展到席卷全球，越来越多的人得以用低廉的价格购买国外商品。</strong></p>
+<p>在最初，海外代购只是零星的个人行为：在外工作或者学习的中国人，每年回家的时候帮亲戚朋友带点化妆品、手表、皮包等，委托人则会给予其一定的“跑腿费”作为酬谢。一些人也开始看到其中的商机，他们开始联合国外的亲友，帮人们购买他们想要的物品。在2007年，众多互联网公司开始瞄准海外代购，一批专注于海淘的网站与企业开始出现，这使得更多人有机会接触国外质优价廉的商品。</p>
+<p>2008年的三聚氰胺事件成为了海外代购的重大利好，此事件后，多个国家禁止中国乳制品进口，虽然中国国家质检总局在2008年9月24日表示牛奶事件已得到控制，但2011年中国中央电视台《每周质量报告》调查发现，仍有7成中国民众不敢买国产奶。</p>
+<p>因为担心在国内买到的进口奶粉是“假洋品牌”，加之提价频繁，中国市场的洋品牌奶粉普遍比国外贵1-2倍，纠结而多疑的中国父母们开始通过代购或者亲赴海外抢购奶粉。多个国家与地区不得不针对奶粉实施限购，来抵挡来势汹汹的中国买家。2013年，德国最大的日用品连锁店<mark>DM超市</mark>出台限购规定，每位顾客最多只能买3罐奶粉，且还要求出示孩子的身份证明或带着孩子才能买。</p>
+<p>在此之后，海外代购所涉及的商品范围日趋扩大，这一具有中国特色的商业模式开始冲击全球。在欧洲、日本等地，商店中开始配置中文导购，甚至允许使用银联卡。2008年后，除了母婴产品以外，奢侈品的代购热度也有增无减。贝恩咨询公司发布的《2013年中国奢侈品市场研究》称，中国奢侈品消费量达1160亿美元，其中很大一部分来自海外代购。此外，电子产品的狂热粉丝们也力图通过海外代购第一时间拿到各种新产品。当然，部分追求生活质量的中国人甚至把目光投向了一些匪夷所思的产品。2015年，赴日中国旅客在购买日本“招牌商品”电饭煲外，还开始抢购温水洗净马桶盖，甚至将<mark>秋叶原</mark>一家电器店买至断货。</p>
+<p><strong>中外奢侈品差价的70%到90%都是因为税收造成的，高额的增值税与消费税让进口商品价格居高不下，海外代购是非常理性的选择。</strong></p>
+<p>在质量保证外，中国人对海外代购如此热衷的一大原因就是国外低廉的产品价格，这在奢侈品价格上体现的尤为明显。国内奢侈品价格高于国外，已经是众人皆知。据商务部调查，手表、箱包、服装等20种品牌高档消费品价格，内地市场比香港要高45%左右，比美国高51%，比法国高72%。</p>
+<p>奢侈品国内外差价最为重要的原因，是在中国高昂的税额。事实上，中外奢侈品有 70%到90%的差价是由于税收造成的，而因为品牌在中国市场不同的定位而产生的价格差只占总差价的10%到30%。</p>
+<p>据网易财经报道，一件成本不足10000元人民币的奢侈品入境后，成本就变成了18887元，比境外购买成本至少高出89%。以增值税与消费税为例，中国的增值税本质上与美国与日本的消费税是一样的。中国增值税税率为17%，美国的消费税各州不同，但大都在7%到10%之间。2014年，日本消费税从5%增加至8%，2017年将上调至10%，均大幅低于中国。而至于入关的行邮税，政府也未忽视征敛。2010年，9月1日起，海关进一步收紧政策，过去对个人邮递物品500元的免税额被降低至50元，行邮税起征限额被大幅降低，后果自然是征税金额的提升。</p>
+<p><strong>2010年来，海关连续颁布文件，严厉监管海外代购，随着2014年海淘网站的合法化，个人海外代购受到的限制越来越多。</strong></p>
+<p>对于海外代购所出现的异议，原因大都集中于“偷逃税款”与“走私”。简单地说，从国外带东西如果是自己买来自用是合法的，如果带回来转卖就涉嫌走私。1973年的《关于简化和协调海关业务制度的国际公约》（也称《京都公约》）曾建议各国针对旅客携带物品实行按单一税率征税的制度，如美国对从一般国家进境私人物品设置了单一的10%税率。而中国海关则继续通过网罗密张的行政规定体系对入境物品课以高额税款。</p>
+<p>此外，海关规定，奶粉、IPAD等行李物品征行邮税按海关单方面定价，不按“发票”来。按海关总署现行的完税价格表便携式电脑使用的一般完税价格是5000元，而iPad等电子产品在香港等地购买的实际购买价格并不到4000元，在国内很多型号也未达到5000元。但海关2010年第54号公告和《完税价格表》将所有这些产品都以5000元作为完税价格，就等同于以5000元作为这些产品的“最低价格”，作为缴税的基数来计税，导致实际税负高于本应缴纳的税额。而在2012年，海关总署出台了《海关总署2012 年第15号公告》，此公告一出，境外快递无论价值几何，都需要照章纳税，即便是是国外的亲友用快递给国内寄件也无例外。</p>
+<p>中国刑法对走私普通货物、物品罪的定罪量刑与海关的行政规定密切相关，代购罪与非罪的界线随贸易政策调整而变化，朝令夕改并无定法。2010年到2012年，海关连续颁布15号、43号、54号公告等文件，对海外代购进行监管，海外代购所面临的法律风险不断增大。2013年离职空姐代购案即是一例。2010年起，离职空姐李晓航开始从韩国免税店中购买化妆品携带入境，并在淘宝网上销售。李在2011年被抓，2012年一审宣判时，其被以走私货物罪被判有期徒刑11年，二审时被改判为3年。</p>
+<p>之后，中国海关开始将海淘网站纳入监管。2014年8月1日，海关总署“56号文”生效，其中规定跨境电商整个过程的数据需要纳入“电子商务通关服务平台”，与海关联网对接。对企业来说，这意味着逃避关税的“灰色时代”的终结。有了合法身份的保证，加上顾客无需担心买到假冒商品，跨境电商B2C开始不断发展。以亚马逊公司为例， 2014年8月20日，亚马逊在上海签署了关于开展跨境电子商务合作的备忘录，并在上海自贸区设立国际贸易总部，将把海外市场的商品都进口到中国市场。亚马逊的商品将暂存在暂存在上海自贸区的仓库中，消费者下单后直接从自贸区发货。这样的跨境电商也以合法身份不断发展壮大。</p>
+<p>《南华早报》称，2015年，中国开始收紧对个人带入的进口商品的检查。许多消费者和他们的代购在9月开始发现，他们的包裹被海关扣留长达数周。部分人说，海关人员要求他们交税，甚至退回商品。业内人士称，海关收到上面的指令，要更认真检查个人包裹。</p>
+<p>但即便是这样日趋严厉的管制措施，也无法阻止中国人海淘与海外代购的热情。随着中国消费者更多地从外国购物，比如婴儿奶粉、化妆品、奢侈品手袋和新鲜食物，海外代购业务近年快速增长。据中国电子商务研究中心的监测数据显示，2008年中国海外代购市场规模达到28.95亿元，比上年增长了7倍，2010年海外代购的市场交易规模达到了120亿元，2013年，这一规模则扩大至767亿元，2014年达到了829亿元。</p>
+<p>海外代购越来越受到中国国内消费者的追捧。如果不解决国内产品的低劣质量与高税负问题，只关注如何对海外代购商品征税，既遏制不了国人海外代购的热情，也全无益于“中国制造”的任何改善，这样的监管也最终将成为一种变相的敛财手段。</p>
+<p>参考资料</p>
+<p>《海外代购走私犯罪研究》 胡曙元，浙江大学<br>
+《网络海外代购对我国的影响和对策》 田昊炜;田明华;邱洋;程思瑶<br>
+《网络海外代购行为的税收法律问题探析——建立“海外代购税”初设想》 兰兰;张梦晓<br>
+《中国消费者海外代购意愿影响因素研究》 杜宇;陈利馥</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BA%BA%E9%83%BD%E7%88%B1%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%B4%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%85%B3/?category=18271" rel="tag">中国海关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%9E%E5%80%BC%E7%A8%8E/?category=18271" rel="tag">增值税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A2%E4%BE%88%E5%93%81/?category=18271" rel="tag">奢侈品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%85%B3/?category=18271" rel="tag">海关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%B4%AD/?category=18271" rel="tag">海外代购</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E7%A8%8E/?category=18271" rel="tag">消费税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9B%E5%8F%A3/?category=18271" rel="tag">进口</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%8E%9F%E5%AE%9E%E5%BE%B7%E4%BF%B1%E4%B9%90%E9%83%A8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96/" target="cdt-mirror">【真理部】原实德俱乐部董事长徐明狱中因病去世</a>
 </h2>
 <p><p>各地各网站，原实德俱乐部董事长徐明狱中因病去世一事，严格和中央媒体统一口径，不得擅自报道炒作。注意清理网上攻击中央领导的评论。</p>
@@ -635,74 +691,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/" target="cdt-mirror">【图说天朝】党报的日常：习，你是唯一</a>
-</h2>
-<p><p>【编者注】《人日》这种头版完全只有习近平的情况其实并不罕见，尤其在他外访期间，如最近访美、访英时都曾出现过（文末附图）。15年12月4日的头版显得如此突兀，可能是排版较为单调的原因，不似访美、英期间配有多张图片。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg" alt="习近平" width="525" height=""></a></p>
-<blockquote><p><a href="http://weibo.com/u/1496825941?from=feed&loc=nickname" target="_blank"> @杨锦麟</a>：<a href="http://huati.weibo.com/k/%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87%E5%BE%88%E6%96%B0%E9%94%90?from=501" target="_blank">#我的照片很新锐#</a>有一點感覺，或許不一定準確，這樣的習版，似乎是「有人在玩」他！不正常，建國以來及改革開放之後，很少看到這樣的版面。</p>
-<p><a href="http://weibo.com/jiangyuanshan" target="_blank">攝影人姜淵杉</a><i title="微博个人认证 "></i>：习上台前新闻联播延时屈指可数，习上台后，新闻联播延时次数不过来<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">。</p>
-<p>@哈尔滨新青年：应该给百姓发一个小红本</p>
-<p>北洋学士：一竖排，七个横排，再四个横排，就怕细思！</p>
-<p>@潍水宝都：图片评论<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/a764e92cjw1eyo2cvzioyj20db0nojsr.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/a764e92cjw1eyo2cvzioyj20db0nojsr.jpg" alt="a764e92cjw1eyo2cvzioyj20db0nojsr" width="350" height="623"></a></p>
-<p>@拈花即语：右上角还差语录</p>
-<p>@蚁吁-稻草：感觉全是他一个人在忙……</p>
-<p>@zaleplon：看看北京地铁……三个月全是月饼的视频。包大大好这口!</p>
-<p>@v实话实说v： 密集恐惧症的我很不适应</p>
-<p>@color一酶：包子八十天环游世界！！！</p></blockquote>
-<p><strong>附：</strong></p>
-<p><strong>2015访美期间：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%BA%BA%E6%97%A5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E4%BA%BA%E6%97%A5.jpg" alt="习近平访美人日" width="475" height=""></a></p>
-<p><strong>2015访英期间：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1%E4%BA%BA%E6%97%A5.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E8%8B%B1%E4%BA%BA%E6%97%A5.jpg" alt="习近平访英人日" width="475" height=""></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/02/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5%EF%BD%9C%E8%92%8B%E9%93%81%E9%92%A2%EF%BC%9A%E5%A6%84%E8%AE%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E5%81%B6%E5%83%8F/">联合早报｜蒋铁钢：妄议习近平的政治偶像</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A2%AB%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E6%8F%90%E5%8F%8A%E7%9A%84%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87/">自由亚洲 | 习近平被党报提及的次数超过毛以后任何领导人</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/08/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%B8%AD%E7%9A%84%E8%80%81%E5%A4%A7%E5%92%8C%E8%80%81%E4%BA%8C%EF%BC%88%E6%9C%89%E5%9B%BE%E6%9C%89%E7%9C%9F%E7%9B%B8%EF%BC%89/">元淦恭：新闻联播中的老大和老二（有图有真相）</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E7%9A%84%E9%95%BF%E5%BA%A6/">元淦恭：新闻联播的长度</a></li>
-</ul></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1325643318178.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1325643318178.jpg" alt="三胖鼓掌" width="250" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90%E5%B8%9D/?category=18271" rel="tag">包子帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E4%B8%9C%E5%8A%B3%E5%B7%A5ngo%E9%81%AD%E8%AD%A6%E6%96%B9%E6%89%AB%E8%8D%A1-%E5%A4%9A%E5%90%8D%E5%8A%B3%E7%BB%B4%E4%BA%BA%E5%A3%AB%E8%A2%AB/" target="cdt-mirror">自由亚洲｜广东劳工NGO遭警方扫荡 多名劳维人士被抓</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6ae196ac-df34-4ccd-9192-d95ad43f408d.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6ae196ac-df34-4ccd-9192-d95ad43f408d.jpeg" alt="广州海哥劳工服务部陈辉海主任在工人代表保护机制研讨会上对“工人代表被打压后的救济途径”做精彩的主题发言。（资料图/微博图片）" width="450" height="600"></a><p>广州海哥劳工服务部陈辉海主任在工人代表保护机制研讨会上对“工人代表被打压后的救济途径”做精彩的主题发言。（资料图/微博图片）</p></div>
-<p>广州海哥劳工服务部多名员工及两名工友12月3日上午突遭警方带走，至下午获释。与此同时，当地多家劳工NGO的负责人也处于失联状态，截至当天傍晚仍毫无音讯。海哥劳工服务部主任陈辉海在失联前向本台表示，此次的抓捕行动由市公安局牵头，是针对整个劳工NGO的打压。同日，佛山南飞雁负责人何晓波也被警方以涉嫌“财务侵占罪”强行带走。</p>
-<p>广东多个劳工NGO组织突然遭到警方“扫荡”。12月3日上午，多名警察来到位于广州番禺区的海哥劳工服务部（原广东劳维律师事务所工人培训部），当时在服务部办公室内工作的宾雪、何兵以及两名到访的工友黄冬梅、成能文被警察带走。另一名员工邓小明也在返回办公室后遭到控制。与此同时，“番禺打工族”、“向阳花女工中心”的负责人及员工曾飞扬、朱小梅、骆红梅、彭家勇等4人失去联系。</p>
-<p>本台记者当天下午2点多接通海哥劳工服务部主任陈辉海的电话时，对方告诉记者他目前躲藏在一间酒店内，但预料很快也会被警方带走。陈辉海说，上个月他突然被限制出境，相信此次打压行动针对整个劳工NGO群体。</p>
-<p>陈辉海：“半个小时前才确定，他们是撒开大网全部抓捕，我们4个办公室的（员工）全部被控。虽然我今天中午由于去区政府拿些工商资料侥幸走出，但是我估计我也走不了。我目前虽然躲在一个酒店里面，但他们的那种监控设备，我是躲不了的。刚才他们已经明确通知要带我走，已经明确地叫我：你不需要走，你也走不了。”</p>
-<p>记者：“他们是派出所还是公安局的？”</p>
-<p>陈辉海：“公安分局，市里面的。刚才跟我联系的是市公安局的，已经是很高级别。”</p>
-<p>记者：“他们之前有没有过比如登门查一些东西之类的行为？”</p>
-<p>陈辉海：“没有。我办公室在4月份曾经被那样，后来就没有。4月份曾经我支持个案的时候叫我要怎么怎么样，后来就没有了。但是今天突然间（抓人），连在场的工友也全部带走。可能大面积下来的，包括我从来没被限制出境，上个月也限制我出境了，本来我去加拿大的，以前从来没限制过。这次看起来就是全风暴。我估计我这次很大可能要（被关）半个月。”</p>
-<p>记者：“就是针对劳工维权NGO进行的行动。”</p>
-<p>陈辉海：“对，针对劳工维权。我可以承受这个压力，但可惜辛苦了我的工作人员跟工友，还有可能一些资料、电脑主机等等被他们搬走。”</p>
-<p>一个小时后，记者再次拨打陈辉海的手机时，提示电话已关机。另几名劳工维权人士的手机不是同样提示关机就是处于无人接听的状态。</p>
-<p>记者转而致电富华派出所，对方承认宾雪等人确实在派出所内，但拒绝在电话中透露抓捕原因及何时放人，在记者追问之下，对方表示实施抓捕行动的不是派出所，让记者询问刑警大队及国保大队。</p>
-<p>记者：“我想问下海哥劳工服务部的两个职员叫宾雪、何兵，还有另外两个工人，他们现在是不是在派出所这儿？”</p>
-<p>对方：“对啊。”</p>
-<p>记者：“为什么要把他们带到派出所呢，他们有什么问题吗？”</p>
-<p>对方：“电话里面我不能跟你说的。”</p>
-<p>记者：“什么时候可以把他们放回去？”</p>
-<p>对方：“也不可以跟你说的。”</p>
-<p>记者：“因为这个海哥劳工服务部并没有做什么事情，只是在帮助大家维权，为什么要这样做呢？”</p>
-<p>对方：“这个都不是我们抓的。”</p>
-<p>记者：“人不是你们抓的？”</p>
-<p>对方：“对啊，你要问的话问下刑警大队和国保大队。”</p>
-<p>其后，宾雪等4人发布消息说，他们在派出所内做完笔录已获释。不过，其余失联的劳维人士仍下落不明。</p>
-<p>至当天下午4点30分，再传来消息，佛山劳工NGO南飞雁的负责人何晓波被警方以涉嫌“财务侵占罪”强行带走。</p>
-<p>在中国，劳工NGO的处境一直十分艰难。近年来，由于珠三角倒闭潮的来临，大量工人加入了维权行列，而劳工NGO由于经常协助工人与资方、政府展开三方集体谈判，提供法律意见，也因此与地方政府的矛盾愈演愈烈。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B9%BF%E4%B8%9C%E5%8A%B3%E5%B7%A5ngo%E9%81%AD%E8%AD%A6%E6%96%B9%E6%89%AB%E8%8D%A1-%E5%A4%9A%E5%90%8D%E5%8A%B3%E7%BB%B4%E4%BA%BA%E5%A3%AB%E8%A2%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">劳工维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/?category=18271" rel="tag">境外NGO法案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">罢工</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -714,7 +702,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -724,5 +712,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

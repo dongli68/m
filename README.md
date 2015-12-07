@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%AE%B5%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%8D%80%E9%BE%8D%E5%AE%87%EF%BC%9A%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%A5%9E%E5%AD%B8%E5%92%8C%E5%91%A8%E8%88%B5%E7%9A%84%E7%A7%91%E5%AD%B8/" target="cdt-mirror">端传媒｜區龍宇：共產黨的神學和周舵的科學</a>
+</h2>
+<p><p>任何人稍為認真閱讀馬克思，不難知道，他的學說與蘇共和中共根本相反。</p>
+<p>區龍宇：退休教師，工運研究者，美國學術雜誌WorkingUSA編委會成員</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/a24f38fa711b43af8cbabe13aeb0b5f6-1024x683.jpg" alt="" width="552" height="368"></p>
+<p>北京一間商店售賣印有中國國家主席習近平（左）和已故中共領導人毛澤東樣貌的紀念品。攝：Greg BAKER/AFP</p>
+<p>今年初習近平發表講話，重申「實現共產主義是共產黨員的最高理想」，好像印證了習近平是「左派」、「毛派」的看法。其實呢，打左燈，向右轉，中共最高領袖最好為之。習空言幾句共產主義，而實踐上，又有自貿區，又有滬港通，更重要者，乃更加獨裁，這加起來，就不只是典型資本主義，而且是很右那種。只有天真或不天真的強國左派，才會瞎起哄。<br>
+中華人民雜貨舖？</p>
+<p>更令人忍俊不禁的，是中共一面調和極右資本主義和共產主義，一面還把孔子拉落水。這當然不是孔子的錯。中共不過像一切皇朝一樣，利用孔子而已。但這樣做，特別彆扭：難道它忘記自己就是以打倒孔家店起家的嗎？這樣封建主義、資本主義、「共產主義」共冶一爐的黨國，不是有點像……雜貨舖嗎？我懷疑老闆在打烊後，舖裏的孔子和馬克思會否整晚打架？</p>
+<p>好在中共有大陸強國左派學者出來護航。例如甘陽，1978年前有一文《中國道路：三十年與六十年》，事先就為「今上」做好輿論，說中國道路，就是「儒家社會主義共和國」：「中國改革需要達成新時代的『通三統』：孔夫子的傳統，毛澤東的傳統，鄧小平的傳統，是同一個中國歷史文明連續傳統。」（註一）</p>
+<p>可惜此等高論，只能國內通行，在國外，不免有點為難。一位老外叫馬利德（Richard McGregor），他寫了一本書《中國共產黨不可說的秘密》，記載1980年代中，當時陳雲的紅二代陳元，在美國宴會上被追問：中共的馬克思主義，難道不是與自由市場改革矛盾嗎？陳元只能不耐煩的回答：「聽着，我們是共產黨，由我們決定共產主義的意涵！」（註二）</p>
+<p>以我劃線，至高無上</p>
+<p>問題是，蘇聯有蘇共的共產主義，南斯拉夫有南共的共產主義，中共又有自己「中國化」的共產主義，幾國的共產黨不斷打架；就是中國國內，毛澤東的共產主義，又為鄧小平的「社會主義初級階段」否定，究竟，誰才算真共產主義呢？答案其實很清楚，就是一切以「我」劃線，凡是我這位最高領袖說的做的，就是共產主義，就是真理，一切是非，俱以「我」為尺度。到了這一步，中共最高領袖確已超凡入聖，建立自己的神學了。在這個新神學裏，神明不是上帝，不是阿拉，不是佛祖，而是中共領袖自己，他就是一切真理的來源。</p>
+<p>有些強國左派或者反駁說，共產黨是無神論者，與有神論對立，怎能稱共產黨為宗教？<br>
+變成宗教的無神論</p>
+<p>錯了。如果把無神論當成絕對最高真理，進而不惜用國家暴力去消滅或打擊宗教，恰恰就類同宗教狂熱。尊重科學的無神論者，不是這樣的。雖然無神論與有神論在思想上對立，但那不是你死我亡的對立。思想上的激辯，畢竟同政治沒有直接關係。那種認為無神論者要把消滅有神論作為國家政治任務來抓的看法，不只也變成宗教，而且是沒有寬容性（religious tolerance）的極度排他的宗教。</p>
+<p>但這是否馬克思的原意呢？那位極力反對港人佔中的周舵說是。他在《馬克思主義是科學真理還是宗教？》一文，認為中共暴政根源，在於其所信奉的馬克思主義，不只不是科學，而是宗教，更是「壞宗教」，因為馬克思要在人間實現天堂云云。</p>
+<p>勃朗科．霍爾瓦特（Branko Horvat）是前南斯拉夫的馬克思主義經濟學家，也是1983年諾貝爾經濟學獎的候選人。但霍爾瓦特沒有像周舵那樣錯怪老馬。他在《社會主義政治經濟學》一書第二章，比周舵早幾十年，便有力批判蘇共，如何假無神論之名，而行宗教壓迫之實。（註三）霍爾瓦特引述了馬克思一封信，足以看出周舵錯得離譜。1871年，馬克思寫信給國際工人協會（即第一國際）一位同志，嘲笑了無政府主義者巴枯寧（當時也是協會成員），在會內成立自己的派別，宣傳他的「科學」綱領。馬克思特別批評他「把無神論作為會員必須遵守的教條」（註四）。原來主張無神論的馬克思，反對把無神論，作為第一國際會員資格！馬克思死後，他的老友恩格斯，參與建立第二國際（即各國社會民主黨聯合而成的國際），而第二國際也一樣，從來不曾要求黨員必須堅持無神論。為什麼呢？因為馬克思及其同道，都把宗教信仰或者無神論觀點，當作是私人事情，公共政治活動根本不必也無權去管。他們固然反對國家支持某種宗教，但想也沒有想過，反過來要國家支持無神論。<br>
+鴉片作為鎮痛劑</p>
+<p>但馬克思不是說過「宗教是人民的鴉片」嗎？而我們現在怎樣對待鴉片？令行禁止。對，不過那是現在。許多世紀以來，一直到馬克思時代，鴉片都作為麻醉/鎮痛劑來合法使用的。馬克思就是在這個意義上，說出這句話的。他的意思是，由於現實存在很多苦難，所以人們往往從宗教求得安慰，就像出現痛症時，需要鴉片鎮痛一樣。但是，要真正解決苦難，需要現實的反抗。（註五）</p>
+<p>一旦教徒在現實上反抗不公義，他們就不只提供鎮痛劑，而且攜手同人民奮鬥了。1960年代在拉美出現的解放神學，就是典型例子。秘魯神父哥斯達夫．哥達尼斯（Gustavo Gutierrez）所著的《解放神學及其前瞻》，就這樣主張：「消極等待來自天上的救贖是錯誤的……教會不應成為建制的一部分，而應當成為群眾解放運動的支持者。」（註六）這就是為什麼，國外許多馬克思主義者，都同解放神學實踐者聯盟。</p>
+<p>任何人稍為認真閱讀馬克思，不難知道，他的學說與蘇共和中共根本相反。把孔子變成中共專政的辯護者，或者把「馬克思主義」變成宗教以至壞宗教的，是官僚統治者。馬克思自己好像有先見之明，所以說過「我自己就不是馬克思主義者」。<br>
+當咒罵變成科學</p>
+<p>或云，不正是馬克思關於社會主義的空想，才造成大躍進悲劇嗎？這種質問，反映作者連常識都沒有，遑論科學了。馬克思從來都認為，社會主義只能在最發達資本主義開始（開始也不等於完成）；在貧窮國家硬搞，只能導致他所謂「否定個性的粗陋共產主義」。（註七）就是在先進國家，馬克思也從來沒有定下限期，沒有五年計劃，要在何年何日之前，完成社會主義。周舵不去歸咎這些官僚統治者，卻去歸咎馬克思，不多不少，正正為蘇共和中共開脫呢。</p>
+<p>其實，周舵罵馬，不是重點，他反「激進主義」，因此出來反佔中，才是重點。今天中國，恰恰回到了魯迅所說的，「搬動一張板凳都得革命才行」的時代。在這樣的時代，馬克思那種理性思維和實踐公義，兩者並重的精神，的確值得參考。既然是理性思維，自然也要以批判精神對待他的著作。可惜，周舵的批判，咒罵很多，科學卻很少。</p>
+<p>註一：《讀書》雜誌，2007年6月。</p>
+<p>註二：The Party: The secret world of China’s Communist Rulers，中文版，聯經，2011年，62-3頁。</p>
+<p>註三：The political economy of Socialism, M.E.Sharpe, 中文版由吉林人民出版社出版。</p>
+<p>註四：同上，29頁。引文見馬恩全集33卷333頁。中文版譯作「信條」，但英文版是「教條」：”His (Bakunin) programme was a superficially scraped together hash of Right and Left – …atheism as a dogma to be dictated to the members, etc.”</p>
+<p>註五：黑格爾法哲學和批判導言》，《馬克思思格斯選集》第一卷頁2。關於馬克思此言的較為詳盡解釋，請參考筆者《法輪功，江澤民與馬克思》。</p>
+<p>註六：《解放神學與拉美革命》</p>
+<p>註七：《1844年經濟哲學手稿》，馬恩全集42卷118頁。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%AE%B5%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%8D%80%E9%BE%8D%E5%AE%87%EF%BC%9A%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%A5%9E%E5%AD%B8%E5%92%8C%E5%91%A8%E8%88%B5%E7%9A%84%E7%A7%91%E5%AD%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E9%BE%99%E5%AE%87/?category=18271" rel="tag">区龙宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E8%88%B5/?category=18271" rel="tag">周舵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%98%E9%98%B3/?category=18271" rel="tag">甘阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%85%83/?category=18271" rel="tag">陈元</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D/?category=18271" rel="tag">马克思</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%98%B3%E6%B7%BC%EF%BC%9A%E4%BB%96%E8%AF%91%E4%BD%9C%E7%BB%B4%E5%9F%BA%E7%9A%84%E9%82%A3%E4%B8%AA%E7%BD%91%E7%AB%99%E6%B6%88%E5%A4%B1%E5%9C%A8%E7%AB%B9%E5%B9%95%E5%90%8E/" target="cdt-mirror">阳淼：他译作“维基”的那个网站消失在竹幕后</a>
+</h2>
+<p><p><strong>本文放弃一切经济权利，各网站、公号和其他各类载体可在保持原文完整的基础上自由转载。</strong></p>
+<p>这个周末，维基百科终于整体离我们而去。它的404，意味着13亿人再次被隔离于一个“普世产品”之外。</p>
+<p>Pingwest创始人托马斯·骆在山寨发布会群里分享了他勤奋更新的微信公众号文章，《自由和美好的事物总是戛然而止：比如约翰 列侬和维基百科》（点击原文链接可以访问过去，做好他的公众号无所不谈的准备，虽然都挺有趣的）。</p>
+<p>知乎讨论这个问题的500多个回答在昨天上午戛然而止，消失无踪。托马斯的这篇文字也不知道能生存到何时。互联网这片沃土在别的地方长出了很多参天大树，在中国却总像城市人行道水泥砖之间的野草，顽强地露头，被碾压而过；又螳臂挡车地冒头，再被碾压。周而复始。</p>
+<p>在这些野草之中，我翻出了2010年时采访第一个中文维基百科词条创建者、“维基”这个译名的提出者的随笔。当他以及最早期的维基中文十三人确定这个译名并胼手砥足地一条一条建立起中文维基时，未必能看到这灰暗的未来。但他接受采访时的淡然和话语间隐隐透露出的理想主义，却正是这些年来激励人们前赴后继地传播光明的原动力。</p>
+<p>这篇东西同样不知道能存活多久，所以本文开头我就放弃了关于本文的一切权利，希望尽量多的自媒体、网站和无处不在的SEO页能收录它、转发它，让人知道中文互联网世界一直燃烧不灭的微弱火种。即使不转发，也可以把它发到邮箱里，存到梯子通达的墙外，在隐秘的一个个圈子里流传。在历史无法书写之处，我们口口相传。仿佛华氏451那个时代，消防员以焚书为业；但热爱文字的人们仍然找到办法，他们分工合作，背下了每一本人类历史的名著；他们</p>
+<blockquote><p>跟普通人没什么两样，像是跑完了一段长路，经过漫长的寻觅，见过美好的事物被焚毁，如今已垂垂老矣，聚在一起等待曲终人散，灯干油尽。他们并不肯定自己脑中所记载的一切，能使未来每一个日出发出更纯净的光辉，他们对此并无把握。但他们确知，那些书储存在他们平静的眼眸之后，完好无缺地等待着将来某一天，那些手指干净或肮脏的读者再来翻动。</p></blockquote>
+<p>以下为原文。红字为今日所加。</p>
+<p><strong>那些改变中国互联网的小人物之一：维基百科命名者苑明理</strong></p>
+<p>2002年10月24日，苑明理（维基用户名 mountain）撰写了第一个具有中文内容的维基百科主页。</p>
+<p>此前，或许有其他用户也曾想尝试，但当时的维基主页不支持中文输入。借由工具软件，mountain巧妙地绕过了这个障碍。维基媒体基金会发现了这个微小但意义深远的变化，三天后，中文维基百科有了自己的服务器、域名，同时，后台程序也升级为支持中文输入的版本。世界上最大的百科全书与使用人口最多的语言成功握手。作为中文维基百科的第一位参与用户，苑明理启动了这一进程。</p>
+<p>在完成了第一篇中文条目“计算机科学”后，苑明理又提出了中文命名的提案。尽管已经有了中文内容，但这个百科全书的命名仍然用英文名字Wikipedia。 当时正在北大读应用数学研究生的苑明理引经据典，提出以“维基百科”作为Wikipedia的中文名称。苑明理向淼叔解释了当时的思路：“维”的本意是系物的大绳，由“纲举目张”转引到“网”的含义。而在此前，“万维网”作为WWW流传最广中文译名，已经认可了“维”与互联网的对应；“维基百科”，基于互联网的百科全书，这个译名成为Web2.0概念中音义俱佳的翻译，其流行程度仅次于“博客”（但后者并未得到普遍认同，现在仍有大量业者坚持称为“网志”）。一年之后的2003年10月，中文维基的13个管理员用户投票决定正式中文名，其中有9人选择了“维基百科”。在今天看来，这次投票的意义堪比埃尔隆德会议。</p>
+<p>发布首个维基百科中文条目，以及命名维基百科，这两项里程碑式工作，完成任何一项都可以在IT史甚至学术史上留名；但苑明理并不认为这些有多么重要。 “我不做，总有人会做。当时国内已经有一些人在英文维基上学习了。至于命名，其实当时参与投票的其他译名也有很不错的”。很难说这是一种故作姿态的谦虚， 因为相比浩淼如海的维基百科，无论是参与者，还是使用者，都会为海量的知识目眩神迷。</p>
+<p>Wikipedia 自2001年在美国建立以来，迄今已经拥有1200万个以上的条目，最大的英文维基拥有316万个条目（大英百科全书不到七万条）；中文维基自建立以来， 也已经拥有将近30万个条目。截至2007年10月，维基百科已经经历了四亿次编辑。相对地，维基的注册用户达1500万之众——要知道，维基百科的查阅甚至修改都无需注册。</p>
+<p>在这些数据背后，是仍然不断汇聚而来的知识，更多的编辑者，更多的条目，更多次搜索。苑明理参与维基社区时，中文用户寥寥，条目也以编译英文条目为主。“维基”之译名，自提案而至表决，长达一年。倒并非是争论激烈，而是一开始人数太少，不好遽然而定。“中文维基属于所有中文用户，人数太少时定下名字，对其他人不是很不公平。”</p>
+<p>苑明理坦承，维基所倡导的民主与自由，对其自身影响很大。维基的原则是每一个人均可参与编辑，人人平等；由于每一个人均可以编辑条目、增删内容，因此所有用户在维基面前平等。即使作为开创者和管理员，苑明理也并未享有太多的特权。管理员所作的，更多是维持编辑秩序，锁定或清理恶意编辑者。而对条目的修改，管理员与普通用户权限并无不同，都需要反复讨论、辨析，表明观点。这使维基的管理员远远不像一些论坛版主那样跋扈，所有参与者的讨论反映到条目上，也显得冷静而客观。</p>
+<p>早期参与编辑维基的用户，素质都较为卓越。“我从他们身上学到了很多。”苑明理很怀念一位新加坡籍管理员，后者致力于中文维基社区规则的建立与完善。维基开放给所有用户编写，汇聚知识领域的微力量，带来的副作用可能是信息杂化，和编辑者之间的争吵。既然管理员不能以权威压人，此时便需要依规则调解。另有管理员引入“共识”的标准，成为解决条目争议的重要规则。</p>
+<p>“早期中文维基的管理者贡献良多。”苑明理回忆。他们贡献的不止是中文条目，更在于及时将中文维基解决争端、协调众声的机制和规则建立起来。作为一个参与者几乎无限的项目，维基能够在高速增长的同时，仍维持条目令人惊奇的准确与中立，规则之完善与争端调解机制的建立，功不可没。</p>
+<p>在飞速发展的同时，维基百科也并非没有遇到障碍。尽管拥有世界上最高超的调和艺术和顶尖人才，但维基仍然常常爆发“编辑战”，即各位编辑者就词条的表达与取舍进行的激烈论战。较为典型的是，伊朗现任总统内贾德的词条，从他还是一个默默无闻的候选人时就出现在百科页面上，随着他仕途的通达和不断发表的争议性言论，维基内部也一次次爆发论战。他的哪些言行需要载入页面，哪些判断适合进入百科，“每一个字上都展开了殊死搏斗”。</p>
+<p>内贾德代表了世界上所有尖锐的冲突：东方主义下的东西方冲突，文明冲突论下的伊斯兰文明与基督教文明冲突，政治学意义下的学者与政客的冲突。反映到维基百科上，就是长达三年的争吵，三个调解员因此去职，单一个积极用户就作了近400次修改；最后完成的词条力争记录了内贾德的言论，却仍然被指责为“过长，但没有信息量”。筋疲力尽的维基人们告诉后来者：“可以重新开始讨论……可是我们已经没有精力再参与”（本段内容参考了南方都市报的相关报道）。</p>
+<p>中文维基百科面临相似的困扰，据mountain回忆，有时他甚至声称要因此退出维基项目。与大部分争吵的原因不同，对内容的讨论主要围绕中立原则，只不 过各方对“中立”的理解不同。维基的词条就是在这样严格得近乎苛刻的审查中诞生，每一个词条看上去都冷淡，平静，客观，不带任何感情色彩和倾向。维基的编写是天下大同的缩写，呈现出来的结果却是万籁俱寂的白描。“维基最大的特点，就是在规则之下的众声喧哗，直到共识。”苑明理总结。</p>
+<p>除了内容上的争论，中文维基还面临许多“特色国情”的挑战。作为百科全书，基本目的就是无所不包，除了“根据当地的法律法规不予显示”的内容。但是，当法律法规并未明确规定内容的界限时，无所不包就成为一种冒险的行为。中文维基百科自2005年后，访问上始终存在一些滞涩。有时一些页面会载入后无法显示，有 些时候则干脆整站无法访问。在这段时间，百度百科、互动百科等国产百科开始占领市场。</p>
+<p>在注意力就是资源的互联网，苑明理对这种蚕食并不是太在意。“维基百科不会死，其他山寨版不尊重版权，随意拷贝媒体内容，没有真正创作和学习的乐趣，对维基百科不会形成真正威胁。”似乎是为了证明这一点，科普作家方舟子在博客上发文，痛斥国内某搜索引擎的在线百科不尊重版权，随意剽窃他文章的内容，还设置了繁琐的投诉程序。</p>
+<p>“海纳百川，有容乃大”是中文维基百科的副标题，苑明理似乎从这句话中获得了更多从容的力量。“英文维基不会死，维基用户数量就有了保障。竞争再激烈，时间总会说明一切。坚持中立、包容和分享知识的乐趣，维基精神就不灭。”在关于维基你或许不知道的十件事这个条目下，最后一条就是“维基是一个百年大计”。既然能长寿到所有敌人都死去，那还有什么值得焦躁和忧愁呢？</p>
+<p>“维基汇聚了所有普通人的力量，分享着所有用户的知识，并以此为基础记录人类文明的成果。”苑明理终于谈到了自己的理想：“这就是我想要的，世界公民。”</p>
+<p>补记：苑明理已经于三年前离开了他服务多年的国际IT巨头。现在他在知春路的一家创业公司中埋头做一款叫做“彩云天气”的产品。除此之外，生活没有任何变化。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%98%B3%E6%B7%BC%EF%BC%9A%E4%BB%96%E8%AF%91%E4%BD%9C%E7%BB%B4%E5%9F%BA%E7%9A%84%E9%82%A3%E4%B8%AA%E7%BD%91%E7%AB%99%E6%B6%88%E5%A4%B1%E5%9C%A8%E7%AB%B9%E5%B9%95%E5%90%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">中文互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信息自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91/?category=18271" rel="tag">维基百科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%8F%E6%B5%8E%E5%8F%82%E8%80%83%E6%8A%A5-%E4%B8%9C%E5%8C%97%E9%99%B7%E8%B4%A2%E6%94%BF%E5%9B%B0%E5%B1%80%EF%BC%9A%E6%9C%89%E7%9A%84%E5%B7%A5%E8%B5%84%E9%83%BD%E5%8F%91%E4%B8%8D%E5%87%BA/" target="cdt-mirror">经济参考报 | 东北陷财政困局：有的工资都发不出来了</a>
 </h2>
 <p><p>《经济参考报》记者 赵婧 王璐 辛林霞/北京 哈尔滨报道</p>
@@ -210,7 +286,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C/?category=18271" rel="tag">“习近平辞职”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E9%9D%9E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中非关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%A0%E6%8E%AA%E6%B4%BB%E4%BD%9B/?category=18271" rel="tag">加措活佛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E4%B8%83%E4%B8%96%E5%A4%A7%E5%AE%9D%E6%B3%95%E7%8E%8B/?category=18271" rel="tag">十七世大宝法王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%99%B6%E7%8E%9B%E5%B7%B4%C2%B7%E4%BC%8D%E9%87%91%E8%B5%A4%E5%88%97%E5%A4%9A%E5%90%89/?category=18271" rel="tag">噶玛巴·伍金赤列多吉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%BF%9E%E5%AE%9E%E5%BE%B7/?category=18271" rel="tag">大连实德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91/?category=18271" rel="tag">维基百科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99/?category=18271" rel="tag">藏传佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">被死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%92%B1%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">金钱外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E5%85%84%E5%BC%9F/?category=18271" rel="tag">非洲兄弟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BA%BA%E9%83%BD%E7%88%B1%E6%B5%B7%E5%A4%96%E4%BB%A3%E8%B4%AD/" target="cdt-mirror">网易回声 | 为什么人人都爱海外代购</a>
 </h2>
@@ -698,63 +774,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%89%AD%E6%9B%B2%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%9A%E5%BC%BA%E5%A5%B8%E6%99%BA%E9%9A%9C%E5%A6%87%E5%A5%B3%E4%B9%9F/" target="cdt-mirror">【立此存照】扭曲的“正能量”：强奸智障妇女也能“感动中国”</a>
-</h2>
-<p><p><strong><a href="http://api.qiluyidian.mobi:8081/qlwb/html5/share-news.html?id=27678&type=1">齐鲁晚报｜聊城单亲五岁女孩照顾残疾父亲，刷锅洗碗还陪他遛弯</a></strong></p>
-<blockquote><p>张保勇说，自己家庭贫困，跟哥哥一把年龄了还没有结婚。<strong>10年前，他在外捡垃圾的时候，碰到一个智障女子，三年后，女子怀孕并生下一名女婴，因为害怕别人知道，他一直不敢出门，就在孩子刚满三个月的时候，孩子母亲偷跑出去，他一心照顾孩子，也没再寻找。</strong>“我身体残疾，没有劳动能力，我哥哥每天都去东阿县城捡垃圾，一个月也就收入六七百元钱。”</p>
-<p>[…]虽然有外债，但到了上学年龄，张保勇还是送女儿上了幼儿园，“半年学费一两千块钱，我们俩省吃俭用也得供孩子上学。”张保勇说，<strong>因为自己跟智障女没有结婚证</strong>，孩子在东阿县医院出生时，没法办理出生证明，所以女儿到现在还是黑户。“没有户口，连一年级都没法上。”张保勇说，女儿的户口是现在他最担心的问题。</p></blockquote>
-<p><strong>《齐鲁晚报》将上述报道直接打上了#正能量#的标签，《人民日报》和新浪山东也均被“感动”了。</strong>然而大量愤怒的网民表示，这根本不是所谓“单亲家庭”的感人故事，而分明是“<a href="http://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%95%99%E5%B8%88/">被拐乡村女教师</a>”悲剧的另一面——智障妇女被诱拐、非法拘禁、强奸生女后逃走，孩子无人照料。同时也有部分网民认为，孩子毕竟是无辜的，她不应成为舆论谴责其父亲的牺牲品。</p>
-<p>郜艳敏在1994年被拐卖到河北偏远农村后最终选择留下任教至今，其故事不仅被翻拍成鸡汤电影，更被官媒高调赞扬为“最美乡村女教师”。所谓“正能量”的标准可见一斑。</p>
-<p>另一方面，郜艳敏“最美女教师”事件也使部分偏远地区拐卖妇女问题成为了网络热议的焦点，让许多人第一次了解到了被拐妇女的悲惨境遇和地方政府的冷漠无情。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F3.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F3.png" alt="正能量3" width="550" height=""></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F1.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F1.png" alt="正能量1" width="550" height='"'></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%AD%A3%E8%83%BD%E9%87%8F2.png" alt="正能量2" width="550" height=""></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a title="知乎｜女性遭遇强奸时如何有效地保留证据？" href="http://chinadigitaltimes.net/chinese/2015/12/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%A5%B3%E6%80%A7%E9%81%AD%E9%81%87%E5%BC%BA%E5%A5%B8%E6%97%B6%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%9C%B0%E4%BF%9D%E7%95%99%E8%AF%81%E6%8D%AE%EF%BC%9F/">知乎｜女性遭遇强奸时如何有效地保留证据？</a></li>
-<li><a title="【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊" href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%BE%E5%9B%BD%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E5%9B%9A%E7%A6%81%E7%9D%80%E9%83%9C%E8%89%B3%E6%95%8F%EF%BC%9F%E7%9A%AE%E7%90%83%E8%B8%A2/">【网络民议】举国的正义感囚禁着郜艳敏？皮球踢的真是妙啊</a></li>
-<li><a title="湛若秋水：有多少被拐女子还在继续“感动中国”" href="http://chinadigitaltimes.net/chinese/2015/07/%E6%B9%9B%E8%8B%A5%E7%A7%8B%E6%B0%B4%EF%BC%9A%E6%9C%89%E5%A4%9A%E5%B0%91%E8%A2%AB%E6%8B%90%E5%A5%B3%E5%AD%90%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/">湛若秋水：有多少被拐女子还在继续“感动中国”</a></li>
-<li><a title="德国之声 | 长平观察：拐卖人口与洗脑教育" href="http://chinadigitaltimes.net/chinese/2015/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8B%90%E5%8D%96%E4%BA%BA%E5%8F%A3%E4%B8%8E%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/">德国之声 | 长平观察：拐卖人口与洗脑教育</a></li>
-<li><a title="【网络民议】污血里都能榨出感动来" href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%B1%A1%E8%A1%80%E9%87%8C%E9%83%BD%E8%83%BD%E6%A6%A8%E5%87%BA%E6%84%9F%E5%8A%A8%E6%9D%A5/">【网络民议】污血里都能榨出感动来</a></li>
-<li><a title="女权之声 | 被拐女成“最美乡村女教师”是国家耻辱" href="http://chinadigitaltimes.net/chinese/2015/07/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E8%A2%AB%E6%8B%90%E5%A5%B3%E6%88%90%E6%9C%80%E7%BE%8E%E4%B9%A1%E6%9D%91%E5%A5%B3%E6%95%99%E5%B8%88%E6%98%AF%E5%9B%BD%E5%AE%B6%E8%80%BB/">女权之声 | 被拐女成“最美乡村女教师”是国家耻辱</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2129102901" target="_blank">正版瞌睡鱼游走</a>：【10年前，他在外捡垃圾的时候，碰到一个智障女子，三年后，女子怀孕并生下一名女婴，因为害怕别人知道，他一直不敢出门】看吧，小姑娘的智障母亲是怎么来的<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">为了一己私欲，强奸拘禁智障女性成孕；现在又让才5岁的小姑娘承担原不属于她这个年纪该承担的重担。现在再出来演演孝感动天的戏码，呵呵</p>
-<p><a href="http://weibo.com/1737220340" target="_blank">攒钱睡烊烊</a>：诱拐智障+强奸妇女+非法拘禁，这都拿来做鸡汤，三观也是够够的<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">心疼孩子</p>
-<p><a href="http://weibo.com/2138583232" target="_blank">sandeye</a>：感动你大爷<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">，诱拐强奸拘禁智障人士不提啊，现在孩子也是受害者啊</p>
-<p>@果冻日系：这男的强奸智障女啊！强奸好吗！害了这个孩子！</p>
-<p>@长鱼尾纹的吉娃娃：转：男子因贫困没有娶妻，偶遇一智障女，于是起了歹意，将其弄回家中，行奸污拘禁之举。智障女子怀孕生下孩子后不久，因不堪凌辱逃离其家。男子自知理亏怕惊动他人，落下强奸、非法拘禁等罪名，加上还要照顾孩子，于是便未寻找。孩子长大了，学会了照顾父亲，媒体看到孩子后感慨，感动中国的好题材啊。</p>
-<p>@WANG_32472：母亲是跑了还是被弄死了？生过孩子就失踪了？她生孩子前怎么没跑？赶快安置好孩子收押这罪犯吧</p>
-<p>@口吐大diao崔永盐：把这个强奸智力障碍妇女的王八蛋哥俩送进监狱，再找有能力抚养的好心人领养这个小女孩才叫正能量，现在制造舆论，不懂法律的蠢货真是漫山遍野。</p>
-<p>@dear_言小溯：我去。。。。强奸智障妇女，生下一个孩子忍受悲惨的人生，还成正能量了？小编你要不要也只有正能量一个？我保证不报警[拜拜]</p>
-<p>@开水族馆的生物男：感动你妈逼！贱货非法拘禁+强奸妇女（还不知道是不是被丫虐傻的）生下第二受害者小女孩，现在还让受害者做牛做马伺候自己，霉体跟痔怨者感动个屁。把贱货剥夺抚养权丢监狱，孩子送养</p>
-<p>@付栋Frodo：拒绝感动。这是个悲剧，希望警方能够核实，这个小女孩是怎么来的，以及是不是强奸加非法拘禁。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%89%AD%E6%9B%B2%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%9A%E5%BC%BA%E5%A5%B8%E6%99%BA%E9%9A%9C%E5%A6%87%E5%A5%B3%E4%B9%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E5%88%A9/?category=18271" rel="tag">儿童权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%90%E5%8D%96%E5%A6%87%E5%A5%B3/?category=18271" rel="tag">拐卖妇女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9C%E8%89%B3%E6%95%8F/?category=18271" rel="tag">郜艳敏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E9%83%BD%E7%BD%91%E5%89%8D%E7%BC%96%E8%BE%91%E6%9D%8E%E6%96%B0%E6%B5%B7%E5%A4%96%E7%88%86%E6%96%99%E9%81%AD%E6%8A%A5%E5%A4%8D-%E5%A6%BB%E5%AD%90/" target="cdt-mirror">自由亚洲｜南都网前编辑李新海外爆料遭报复 妻子出境被拒</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/69f76927-0812-43a5-bd72-cf83ea627b7e.jpeg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/69f76927-0812-43a5-bd72-cf83ea627b7e.jpeg" alt="69f76927-0812-43a5-bd72-cf83ea627b7e" width="575" height="358"></a><p>南都网前编辑李新。（RFA）</p></div>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%9B%BD%E5%AE%89%E5%B1%80%E7%BA%BF%E4%BA%BA%E7%BB%86%E6%95%B0%E5%B9%95%E5%90%8E%E7%9B%91%E6%8E%A7-%E9%99%90%E5%88%B6%E5%AD%A6%E8%80%85%E5%AA%92%E4%BD%93/">自由亚洲｜国安局线人细数幕后监控 限制学者媒体刊载文章有“黑名单”</a></p></blockquote>
-<p>正在海外向西方国家寻求政治庇护的前南都网编辑李新告诉本台，他的妻子带着不足两岁的孩子本周四（12月3日）试图经香港出境时，在深圳口岸被边检人员阻止；当局称，接到广东国保通知，限制其出境。李新表示，当局不应剥夺他家人的出境权利。</p>
-<p>一个月前逃抵印度，打算向美国或西方国家寻求政治庇护的前南都网记者李新，曾多次通过自由亚洲电台曝光中国有关当局对媒体进行严厉审查，遭到当局报复。李新的妻子12月3日带着一岁零十个月的儿子，打算从深圳湾口岸出境时被拦截。李新当晚告诉本台：“我帮她买了机票，从香港到德里的航班，是明天（4日）中午12点的。前两天她才告诉我，她怀孕了。我让她走深圳湾，今天早一点过关，在香港住一晚，今天早上一早就跟她联系，她说大概12点会出发，我这里的时间跟北京的时间不一样，大概下午两点她告诉我，从深圳福田汽车站坐上小客车，要到香港机场，到深圳湾海关的时候，被卡住了。她跟我在电话中说，人家正在问她问题，后来她也没有跟我说问她什么问题”。</p>
-<p>李新说，数小时后，他的妻子告诉他，边检人员称接到广东国保的通知，限制其出境：“后来海关（边检）人员检查了她的护照，就跟开车的人说，她不能出境，必须要把她（原路）送回去。开车的人把她送到公交车站，把她放在那里就走了。她现在去深圳的一个朋友家住了”。</p>
-<p>今年10月30日，李新经香港逃亡印度新德里，打算向美国寻求政治庇护。他称，选择离开中国是不堪河南情报系统，长期利用他在媒体工作的背景，搜集南都、广州、河南家乡NGO组织的资料，甚至前往香港搜集活跃人士的资料，不堪长期忍受充当国安人员的线人，过着人格分裂的生活。</p>
-<p>他还披露了南都网根据高层指示，内部规定不能发表涉及14类内容的文章，其中有涉及民族、宗教、警察及军队领域。他还展示两年前拍摄的南都网用于新闻审查的“敏感字列表”截图，显示被当局列入的敏感字，内容包罗万象。</p>
-<p>被问及其妻子被阻止出境究竟为何，李新不加思索的回答：“肯定是跟我有关系，因为她们（母子）本身没有任何犯罪行为，包括中国法律规定的几条，一条都算不上。为什么不让她们出去呢，还不是因为我的事情，肯定是因为我这件事情”。</p>
-<p>李新曾在11月13日向联合国，美国、及欧洲民主国家、记者无国界、国际特赦等海外人权机构发出求助信称，他担心在印度的签证日期届满后，被遣返中国。国际特赦组织表示，李新披露了大量鲜为人知的信息，恐遭报复，希望联合国尽快提供协助。他同时呼吁中国有关部门不要株连其家人。他说：“我做的事，当局可以找我，但是请不要找我爱人与我孩子的麻烦，她们只是妇女和儿童，她们没有过任何违法的行为。我希望中共在追求所谓的法制社会的时候，不要总做违法的事情”。</p>
-<p>李新家住河南省新乡市，毕业于中国政法大学法学专业，2007年创办公民社会网站，倡导公民社会，民主宪政，2010年留学印度尼赫鲁大学希望继续深造法 律，他称因为该校没有法律专业，于是选择了接近法律专业的国际关系专业，也刚好被该专业录取。2012年6月回国时，李新被河南国安软禁，并被胁迫搜集海外情报。2013年5月，李新又被云南省国安在社交网盯上，其后要求他提供在印度的同学资料。他说，因不愿为情报部门工作，因此选择逃离中国。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E9%83%BD%E7%BD%91%E5%89%8D%E7%BC%96%E8%BE%91%E6%9D%8E%E6%96%B0%E6%B5%B7%E5%A4%96%E7%88%86%E6%96%99%E9%81%AD%E6%8A%A5%E5%A4%8D-%E5%A6%BB%E5%AD%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E8%AE%B2/?category=18271" rel="tag">七不讲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -766,7 +785,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -776,5 +795,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

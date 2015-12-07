@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%96%B0%E6%B5%AA%E4%BD%93%E8%82%B2-%E9%82%93%E4%BA%9A%E8%90%8D%E5%86%8D%E8%8E%B7%E6%96%B0%E8%81%8C-%E5%8F%97%E8%81%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E5%85%BC/" target="cdt-mirror">新浪体育 | 邓亚萍再获新职 受聘为中国政法大学兼职教授</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/w570187.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/w570187.jpg" alt="w570187" width="550" height="366"></a></p>
+<p>新浪体育讯　北京时间12月6日消息，昨天中国政法大学发布声明，表示将聘请乒乓球世界冠军、奥运冠军邓亚萍女士为中国政法大学兼职教授。</p>
+<p>中国政法大学在《关于聘请邓亚萍女士任兼职教授的情况说明》中写道：</p>
+<p>我校聘请邓亚萍女士为兼职教授，是由体育教学部向学校提出申请，由人事处根据《中国政法大学兼职教授聘任规定》的条件和程序通过该申请，聘请邓亚萍女士为体育教学部兼职教授，其主要工作是支持学校高水平乒乓球运动队的建设发展。</p>
+<p>学校希望通过聘请邓亚萍女士为兼职教授，能为进一步提升学校乒乓球高水平运动队成绩，营造健康向上的体育文化氛围发挥积极作用。</p>
+<p>据中国政法大学新闻中心报道，12月2日邓亚萍作为欧美同学会第六届理事会副会长在中国政法大学进行做了主题为《报效祖国 成就梦想》的专题报告会。报告会结束后，在乒乓球训练馆举行了邓亚萍受聘为中国政法大学兼职教授仪式，由中国政法大学校党委书记石亚军想邓亚萍颁发了兼职教授聘书。</p>
+<p>邓亚萍是乒乓球奥运冠军，现任人民日报社副秘书长。邓亚萍履历丰富，曾获得过清华大学学士学位、诺丁汉大学硕士学位和剑桥大学博士学位。</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>看我把绿叶吹黄：既然是提高乒乓球水平的，那就把教授改成教练。</p>
+<p>宅晚期综合症：她那个几个亿的网络没事了？！居然摇身一变去了法学院了。</p>
+<p>parttttttttttttty：打乒乓球的管足球，打乒乓球的当教授，打乒乓球的任政协委员……乒乓球打的好可以得到升天……</p>
+<p>whwh的微博：以后法官都是体育老师教的，依法治国，果然是中国梦。</p>
+<p>Liangggggggggg：中国的大学处处充满了政治。</p>
+<p>小谭sc：犯法失职怕担责可以像打乒乓球一样推来推去——邓亚萍。</p>
+<p>csxq：什么“数死早”“语体教”都图样了，邓亚萍证明了体育老师现在能教政法！真是不能更牛逼了～</p>
+<p>gongminyaoyao：邓亚萍去政法大学教体育，在一个正常社会的正常大学，没什么好讨论的，也可以支持一下。校友群里讨论的太玄幻，谈什么聘用程序也太装正经了，不就是党委书记喜欢打乒乓球，然后用权力找来个落魄的凤凰陪玩么。</p>
+<p>ZhouFengSuo：邓亚萍做了政法大学教授，绝对习包子特色，将来周小平作北大校长，也没有什么大不了。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%96%B0%E6%B5%AA%E4%BD%93%E8%82%B2-%E9%82%93%E4%BA%9A%E8%90%8D%E5%86%8D%E8%8E%B7%E6%96%B0%E8%81%8C-%E5%8F%97%E8%81%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E5%85%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B3%E5%88%BB%E6%90%9C%E7%B4%A2/?category=18271" rel="tag">即刻搜索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">政法大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E4%BA%9A%E8%90%8D/?category=18271" rel="tag">邓亚萍</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%96%B0%E9%97%BB%E5%AE%A3%E4%BC%A0%E4%B8%AD%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/" target="cdt-mirror">【河蟹档案】新闻宣传中的“个人崇拜”</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -674,23 +702,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%92%8C%E5%87%A4%E8%80%8C%E9%B8%A3%EF%BC%9A%E4%B8%89%E6%9C%9D%E5%9B%BD%E5%B8%88%E7%8E%8B%E6%B2%AA%E5%AE%81%E6%84%A7%E5%AF%B9%E9%BB%8E%E6%B0%91/" target="cdt-mirror">博客中国｜和凤而鸣：三朝国师王沪宁愧对黎民</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Wang_Huning_2013.jpg" alt="Wang_Huning_2013" width="100" height="150">某年某月某日午夜，一位气度不凡的企业家约谈我，他说他现在急需要一个顶层设计的文化助理，想聘我为公司的“王沪宁”。我一听就本能地弹出了一句：不为生民争权立命，只为帝王著功立言，知识分子和凤而鸣，王沪宁愧对黎民苍生。至于我与企业家谈的结果如何，暂且不表，下面就来侃一侃王沪宁。</p>
-<p>    说起王沪宁，稍有文化的人无不对其膜拜有嘉，皆因他是三朝国师和首席文胆。其实，我对王沪宁的了解比一般的淫儿更早，25年前他是复旦大学政治系教授，他肩负复旦大学辩论队领队、总教练和总顾问，在首届新加坡华语大专辩论赛中一举成名，复旦大学队获得冠军，辩手有姜峰、严加、季翔和蒋昌建，这些大家不应该陌生。王沪宁和他弟子们在辩论中的精彩演绎倾倒国人，尤其迷死大中专院校的莘莘学子。由王沪宁和俞金吾编著《舌战狮城》一书一直风靡九十年代的大学校园，从而在中国掀起了辩论秀热潮。我们知道，辩论从产生到发展都是为了辩出真相、真知和真理，以便于能提升整个人类社会的文明认知，但中国的辩论秀却与这毫无关系。《舌战狮城》一书只告诉每一个喜欢辩论的大学生：如何旁征博引、如何出其不意、如何技巧取胜。把一个好端端揭秘人生奥秘、探索社会道义、反思国家命运的民主工具，彻底娱乐成个人投机取巧的反智舞台。这种只重形式不重本质、只重表演不重践行、只重输赢不重真理的辩论秀，为啥能风靡中国？因为它刚好与这个国家的各种做派天然嵌合。你可以将月亮说成太阳，你可以将地狱描绘成天堂，你可以将臭不要脸雄辩成器宇轩昂，只要你占优了场面、话机和节奏，你就是最后的赢家，你就可能赢者通吃。</p>
-<p>    王沪宁和他的弟子们无疑都是赢家，王沪宁就此平步青云，旋即升调中央政研室，执掌首席国师17年，辅佐三朝领袖的谋纲施政，也算鞠躬尽瘁，居功至伟。但是，满腹经纶的王沪宁究竟为这个世界最大国家的三代领袖贡献了什么样的思政宏论呢？三个代表，科学发展观，伟大中国梦，还有正在路上的绝忠誓师和铁营重构。这些应该是王国师所奉出的最主要的锦囊智慧，最终转化为国家意志和意识形态唱响了最近二十年的政治主旋律，不但挥霍所有食利阶层日学夜读的碌碌时光，而且排他性霸居大国宝贵的文宣资源和教育阵地，并滋养了一大批犬儒学者对此不惜耗费半生心血和纳税人的血汗研究出连他们自己也从不看第二遍的狗血文字。请问王国师，你真的问心无愧吗？</p>
-<p>    十五年前，我的一个老师，一个老布尔维什克，戴着老花眼镜字斟句酌教我们学习三个代表理论，那种如醉如痴，那种倾情沉迷，那种如获至宝的连连叫好，我当时心里就想说一句“您老没事吧”。什么先进生产力代表，什么先进文化代表，什么根本利益代表，在我的心里就是三个字“草泥马”。王国师，请问先进生产力代表了啥，代表了防火墙还是代表了马桶盖？先进文化代表了啥，代表了孔子学院还是代表了孔子和平奖？根本利益代表了啥，代表了权贵利益还是代表了绝对忠诚？三个代表的答案随着时间推移越来越清晰，但王国师你为什么就要生产出这般假大空忽悠亿万国民的垃圾思想呢？你不觉得脸红吗？同样是这个老布尔维什克教授，一边讲着三个代表，一边又给弟子谆谆教诲：“找工作坚持两个原则，要么能当官，要么能赚钱”。原来一本正经的背后是如此龌蹉不堪的猥琐心机，我才明白，三个代表这块遮羞布掩盖的全是一群“闷声发大财”的王八蛋。我也第一次领悟什么叫大智若愚。</p>
-<p>    三个代表尘烟未尽，科学发展观的战鼓又擂得满地颤抖，一句索然无味的正确废话就帮胡温朝鬼混了整整十年。这十年是血腥强拆的十年，是地沟油最火热的十年，是上访最激烈的十年，是失独家庭集体绝望的十年，是光棍逐年以千万计增长的十年，是权贵从羞羞答答的勾结掠夺到肆意踩碎廉耻明抢明占的十年，是满朝文武藏绿卡半壁江山养红颜的十年，是维稳预算超过国防军费的十年。请问王国师，你说这是科学吗？你说这是发展吗？这就是你的科学发展观？</p>
-<p>    要说你王沪宁教授不懂世界潮流，谁信？要说你不知道普世精神，谁信？要说你不知道民主宪政，谁信？要说你不知道政治家的本分，谁信？要说你不知道知识分子的使命，谁信？但你却装聋作哑一味迎合，你故弄玄虚屈身慰主，你罔顾众望和凤而鸣，不为苍生说人话，只为帝王唱赞歌。王教授，王国师，我真的服了你！</p>
-<p>文\羽谈飞</p>
-<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%92%8C%E5%87%A4%E8%80%8C%E9%B8%A3%EF%BC%9A%E4%B8%89%E6%9C%9D%E5%9B%BD%E5%B8%88%E7%8E%8B%E6%B2%AA%E5%AE%81%E6%84%A7%E5%AF%B9%E9%BB%8E%E6%B0%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">三个代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B2%AA%E5%AE%81/?category=18271" rel="tag">王沪宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B1%95%E8%A7%82/?category=18271" rel="tag">科学发展观</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -702,7 +713,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +723,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

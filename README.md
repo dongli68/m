@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%97%A0%E8%81%8A%E4%BD%95%E4%BB%A5%E6%88%90%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B/" target="cdt-mirror">唐映红：无聊何以成了中国大陆互联网的“主旋律”？</a>
+</h2>
+<p><p><strong>问：无聊何以成了中国大陆互联网的“主旋律”？</strong></p>
+<p>答：前几天，一个<strong>无伤大雅的无聊游戏“主要看气质”</strong>再次风靡朋友圈。始作俑者晒出一张自拍照，标题为《主要看气质》发到微信朋友圈，如果有朋友点赞或跟贴，那么就算是入了游戏的彀中，会被要求或者给事主发一个5.21的小红包，或者也晒出自己的照片，标题《主要看气质》，然后等下一轮的入彀者。<strong>入彀的朋友，当然可以继续玩，或者向朋友支付小红包，或者置之不理；对此反应激烈一些的，也可以大肆宣泄一下对陋俗的睥睨，趁机秀一下特立独行的姿势。</strong></p>
+<p>尽管这只是一个一两天就会潮起潮落的无聊游戏，但在许多人感受里，<strong>无聊俨然成了互联网的“主旋律”。</strong>不仅类似“主要看气质”的游戏时不时就会泛起风靡一阵；而且网络传播最广，拥趸最多的也是不靠谱不着调的鸡汤、段子；人们通过网络最喜闻乐见的似乎也以娱乐圈的绯闻八卦为最甚。<strong>当一个人试图从网络上学习或者检索些有用的资料，才发现困难重重，远不如检索鸡汤、八卦那么顺畅、给力。</strong></p>
+<p>毋庸讳言，<strong>无聊消遣是人们的天性之一</strong>，所谓“不做无聊之事，何遣有涯之生”，不仅中国大陆的网络如此，国外的互联网也好不到哪里去。人们关心绯闻八卦的兴趣，一定大于真知灼见的讯息。但是，<strong>无聊不应该，在国外的互联网也并没有成为所谓的“主旋律”。</strong>像去年在Youtube、Facebook等社交网络上发轫并风靡全球的“冰桶挑战”，与“主要看气质”就截然不同，虽然二者形式均以连环游戏的方式传播，但“冰桶挑战”的初衷却并不无聊，而是为罕见的渐冻症患者募资。</p>
+<p>从心理学角度，人们对生活的感知是建立在意义的基础之上，人们将感觉到的刺激或讯息要经过大脑皮层的知觉加工，从记忆里提取出相关线索以赋予刺激或讯息以意义。而且，人们本能地对变化的、新奇的、期望的、主动选择的刺激或讯息更可能赋予充足的意义感。<strong>当人们从事有意义的事情时，就不会感到失控和不安。而一旦生活提供的刺激不具有意义，例如，或者枯燥，或者缺乏变化，或者不感兴趣，或者受到强制，那么就很容易产生失控感，这时，做一些无聊的事情就能够帮助我们消解失控的不安情绪。</strong>所以，当我们在车站候车时，就需要做些无聊的事来Kill Time；<strong>当从互联网上找不到恰当的有意义或有价值的事情值得做时，就需要通过无聊的事情来填充。</strong></p>
+<p>不仅如此，互联网对人类社会的革命性变革也绝非“无聊”二字所涵及，通过互联网人们能够更便捷地检索到有用的讯息（<strong>Wikipedia</strong>）；研究人员可以更迅速方便地查询全球学术资讯（<strong>Google Scholar</strong>）；通过社交APP除极个别国家地区外的全球年轻人能够“全球同此凉热”（<strong>Facebook）</strong>；相对弱势的社会文化，如鸟叔的骑马舞。能够通过分享转载向全世界发扬光大（<strong>Youtube</strong>）。在中国大陆，<strong>这些人类最优秀的具有普世价值的网站悉数被封禁</strong>，不仅台湾小学生作业使用的Wikipedia被墙，大学生写论文使用的Google Scholar也被墙。那些<strong>墙内的替代网站，不仅谎言和伪知识泛滥，有价值的知识随处被“阉割”、曲解，而且还处处充斥着伪劣商品和服务的陷阱。</strong></p>
+<p>除了讯息的传播的便捷，互联网对人类社会带来切实而隽永的促进和改善。像<strong>奥巴马</strong>这样的草根领袖能够超越资深的政治门阀候选人而当选历史上第一位黑人总统，表明了互联网技术对美国政治生态产生了颠覆性的变革影响。而一个孟加拉裔的数学天才<strong>萨尔曼•可汗</strong>以一己力所维持的“可汗学院”（Khan Academy）足以给全世界的中小学学生们上数学课。即使是那些在传统社会微不足道的弱势群体，像<strong>泛自闭障碍者</strong>，也能够通过互联网凝聚起来，发出自己的声音和诉求（Aspies for Freedom,AFF）。<strong>而在中国大陆，别说奥巴马这样的草根领袖最大的可能是锒铛入狱；可汗这样的天才早就被BAT资本巨鳄所网罗或淹没；弱势群体只要试图发出维权诉求的声音，轻则封禁网站，重则寻衅滋事。</strong>即使是普通的网民试图在社交网络中探讨一些感兴趣和有价值的话题，<strong>蝗虫一般的网评员、网络志愿者无时不刻的搅淆，以及无所不在的敏感词限制和言论审查使任何有价值的交流都变得索然无味。</strong></p>
+<p>从这个意义上说，<strong>之所以中国的互联网相比于境外的互联网被更多无聊的“鸡汤”、“八卦”，以及各种“伪知识”所充斥，恐怕就在于有太多的网民无法从互联网中找到有意义或价值的事情来做。</strong>即使“无聊”是人类之本性，无聊的讯息充斥着全球的互联网，但互联网的价值却绝非无聊的讯息，而是<strong>在无聊的讯息中不可遏止的学术探索、资讯分享、社群沟通、社会互动和政治诉求的表达才是瑕不掩瑜的“主旋律”。</strong>这就好比杂草丛生的自然丛林中，各种有价值的药用植物在其间自由生长，没有人会说一片盛产人参的丛林 “主旋律”是杂草，尽管人参不过是杂草的百分之一。<strong>只有当人们无法自由地检索学术，分享资讯、沟通互动、表达诉求时，互联网的生态才更可能沦为彻底的荒草芜生，无聊才更可能成为其间的“主旋律”。</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%97%A0%E8%81%8A%E4%BD%95%E4%BB%A5%E6%88%90%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E7%9F%A5%E8%AF%86/?category=18271" rel="tag">伪知识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信息自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E5%8D%A6/?category=18271" rel="tag">八卦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%81%8A/?category=18271" rel="tag">无聊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%AE%B5%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%8D%80%E9%BE%8D%E5%AE%87%EF%BC%9A%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%A5%9E%E5%AD%B8%E5%92%8C%E5%91%A8%E8%88%B5%E7%9A%84%E7%A7%91%E5%AD%B8/" target="cdt-mirror">端传媒｜區龍宇：共產黨的神學和周舵的科學</a>
 </h2>
 <p><p>任何人稍為認真閱讀馬克思，不難知道，他的學說與蘇共和中共根本相反。</p>
@@ -752,28 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%B4%97%E8%84%91%E7%9A%84%E5%8E%86%E5%8F%B2%E3%80%8B%E4%BD%9C%E8%80%85%E5%82%85%E5%BF%97%E5%BD%AC%E7%BD%AA%E6%88%90-%E8%8E%B7%E5%88%91%E4%B8%80%E5%B9%B4%E5%8D%81%E4%B8%AA%E6%9C%88/" target="cdt-mirror">自由亚洲｜《洗脑的历史》作者傅志彬罪成 获刑一年十个月</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%82%85%E5%BF%97%E5%BD%AC.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%82%85%E5%BF%97%E5%BD%AC.jpg" alt=" 江西作家傅志彬因撰写出版《洗脑的历史》一书而被控“非法经营罪”。(图片来源：独立中文笔会) Photo: RFA" width="525" height=""></a><p><br>江西作家傅志彬因撰写出版《洗脑的历史》一书而被控“非法经营罪”。(图片来源：独立中文笔会)<br>Photo: RFA</p></div>
-<p>江西南昌青山湖法院12月4日对作家傅志彬“非法经营罪”一案一审宣判。傅志彬被判处有期徒刑1年10个月，并处罚金15万元。其在台湾出版的《洗脑的历史》被当局认为歪曲共产党史，抹黑中共领导人。傅志彬当庭提出上诉，其代理律师也表示当局以言论、思想论罪，判决不公。</p>
-<p>12月4日是中国的宪法日，同一天，江西作家傅志彬因撰写出版《洗脑的历史》一书而被控“非法经营罪”一案在南昌市青山湖区法院一审宣判。傅志彬被判处有期徒刑一年十个月，并处罚金十五万元。同案的另三名被告吴薇、赵贞活、邬新兵分别被判处有期徒刑一年五个月至六个月，并处罚金十万元至八万五千元不 等。</p>
-<p>为傅志彬作无罪辩护的代理律师之一张赞宁当天下午接受本台采访时表示判决不公，他的当事人也当庭表示要上诉。</p>
-<p>张赞宁：“我认为这个判的是不公正的，傅志彬应当是无罪的，而且傅志彬也提出了他要上诉。”</p>
-<p>记者：“他在法庭上当庭表示他要上诉是吗？”</p>
-<p>张赞宁：“嗯，当即表示上诉。审判长把判决书念了一下，就问被告人有没有什么意见，傅志彬表示要上诉。”</p>
-<p>张赞宁向本台披露，江西省国保当时下发给南昌市公安局青山湖分局的立案侦查函中指，傅志彬在书中抹黑、歪曲共产党史，否定共产党建国执政的合法性， 污蔑中共在苏俄的支持下建立并夺取政权，运用红色恐怖洗脑术控制全国人民思想，对共产党的第一代领导人毛泽东等极端侮辱、抹黑，影响十分恶劣。案件以“政治问题非政治化处理”。</p>
-<p>“国保大队立案通知写的，本案是‘政治案件非政治化处理’，意思就是本来可以判‘煽动颠覆国家政权罪’的，但是它就不以这个罪名判，以非法经营罪来判。我在辩护词里就讲，‘政治案件非政治化处理’是哪里规定？所谓以思想、以言论来论罪，是有违最新法律原则的。”</p>
-<p>曾阅读了傅志彬《洗脑的历史》一书的南京自由媒体人孙林当天向本台表示，该书讲述了包括共产党在内的所有信仰对民众“洗脑”的方式，但只有中共对傅志彬实施抓捕并判刑。中国《宪法》所赋予公民的一系列自由权利，其实是根本不存在的。</p>
-<p>“今天正好是宪法日，宪法第35条明文规定：言论自由、出版自由、结社自由。恰恰共产邪教不给人说话，禁止出版。但是它又不拿禁止出版（定罪），它叫非法经营罪来定他罪。非法经营首先就要追究他的出版，谁帮他印的，找这个印的厂家去定罪，你不能定他的罪，他只不过是一个作者。对于傅志彬这个案件，我深深的感觉到很遗憾，这本书不仅仅说了你的共产党，他整个包括宗教他也都说了，为什么宗教没有去诅咒他、谩骂他、没有去抓他、没有去按照伊斯兰的形式杀他？”</p>
-<p>今年51岁的傅志彬是原欧仕影视文化传播有限公司总经理。去年9月，傅志彬在自驾前往重庆与书友聚会途中突然失联，9月30日，家属获悉他已被警方以“非法经营罪”拘留，同年12月，傅志彬被以同一罪名正式逮捕。当局称其在台湾出书，并以淘宝等方式销售1000多本，销售额9万多元人民币。</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%B4%97%E8%84%91%E7%9A%84%E5%8E%86%E5%8F%B2%E3%80%8B%E4%BD%9C%E8%80%85%E5%82%85%E5%BF%97%E5%BD%AC%E7%BD%AA%E6%88%90-%E8%8E%B7%E5%88%91%E4%B8%80%E5%B9%B4%E5%8D%81%E4%B8%AA%E6%9C%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95/?category=18271" rel="tag">中国宪法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E5%BF%97%E5%BD%AC/?category=18271" rel="tag">傅志彬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">抹黑中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -785,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -795,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

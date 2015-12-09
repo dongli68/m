@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%AF%E7%90%83%E7%9A%84%E9%80%BB%E8%BE%91%E8%A2%AB%E5%B0%B1%E8%BF%99%E4%B9%88%E8%A2%AB%E5%A4%A7%E5%AE%B6%E7%8E%A9%E5%9D%8F/" target="cdt-mirror">【网络民议】环球的神逻辑被大家“玩坏”了</a>
+</h2>
+<p><p>近日，北京市应急办宣布，将于12月8日7时至12月10日12时首次启动“空气重污染红色预警”。这是全国大城市首次在重度雾霾发生之前作出最高级别预警，并采取严厉防范措施。环球时报在其头版头条发文《北京“红色预警”引世界热议》。其副标题为“首次拉响最高级别警报 被赞展现治理雾霾决心”。此言一出，生活在雾霾中的网友们纷纷开启了段子模式。（摘自@神评）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/a8ef5277jw1eytqx9371aj20go0m8tbl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/a8ef5277jw1eytqx9371aj20go0m8tbl.jpg" alt="a8ef5277jw1eytqx9371aj20go0m8tbl" width="440" height="587"></a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>张穷酸：某男子强奸女子时带上保险套，事后被赞是暖男。</p>
+<p>学霸克里空：小偷盗窃后随手关灯，被赞节约型人才。</p>
+<p>赵品然：老公家暴打断妻7根肋骨，及时送医被赞爱心无限。</p>
+<p>宋林哲：小伙扶老人被讹，老人被赞影帝级表演。</p>
+<p>PPS客户端：售票员费劲全力唤醒一名晕倒孕妇令其补票，被赞最美售票员。</p>
+<p>弱智的鹏狗狗：男子强奸妇女致其怀孕，被赞当代送子观音。</p>
+<p>逗逼协会荣誉会长：银教授强奸夜行女，女子送“针灸泰斗”锦旗。</p>
+<p>熊小默：强奸犯最后关头良心发现，初中妹磕头感恩体外射精。</p>
+<p>鶩堻：杀人犯杀人后弃尸荒野，后折返以土埋葬被赞大爱无疆 。</p>
+<p>那年冬天_雪落倾城：肇事司机撞倒行人，倒车碾死助其脱离苦海。</p>
+<p>美少年等我去赚钱：古稀老人无人赡养饿死家中，七个子女大办丧事被赞贤孝。</p>
+<p>饭否zz：客户要求改了800遍设计后决定用回第一稿，设计师跪谢大赞客户眼光好。</p>
+<p>大暴龙的神奇生活：无良老师调戏女生致其两次怀孕 被赞刺激二孩政策提升人口生育率</p>
+<p>洋葱日报社：男大学生强奸室友后帮其穿好裤子并整理床铺，被赞暖男。</p>
+<p>某萤：恐怖组织袭击某市后表示对其负责，被赞有担当组织。</p>
+<p>岛主唐的日常：旷课少年终日网吧，被赞引领互联网+教学新风尚。</p>
+<p>嗨一汁：入室抢劫犯走后帮倒垃圾，荣获文明小卫士称号 。</p>
+<p>梨渐大：男子找完鸡后通知扫黄大队，被赞为建设文明社会出一份力。</p>
+<p>平民内参：公务猿强奸幼女戴套，被赞关爱下一代。</p>
+<p>爬上冰箱做高冷：老板要求员工加班导致过劳死，被赞促进祖国GDP发展。</p>
+<p>行人采诗：农民买到劣质农药自杀未遂，厂家被赞高瞻远瞩人性化服务。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%AF%E7%90%83%E7%9A%84%E9%80%BB%E8%BE%91%E8%A2%AB%E5%B0%B1%E8%BF%99%E4%B9%88%E8%A2%AB%E5%A4%A7%E5%AE%B6%E7%8E%A9%E5%9D%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E9%80%BB%E8%BE%91/?category=18271" rel="tag">神逻辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6/?category=18271" rel="tag">红色预警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B8%83%E4%B8%8D%E5%87%86/" target="cdt-mirror">【敏感词库】“七不准”、明镜集团陈小平等 2015-12-7</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/06/%E5%B0%8A%E5%AD%90%E6%BC%AB%E7%94%BB%EF%BC%9A%E5%B1%8F%E8%94%BD.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2014/06/%E5%B0%8A%E5%AD%90%E6%BC%AB%E7%94%BB%EF%BC%9A%E5%B1%8F%E8%94%BD.jpg" alt="尊子漫画：屏蔽" width="500" height=""></a><br><em>(图片作者：尊子漫画)</em></p>
@@ -723,34 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%BF%9E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%96%B0%E6%B5%AA%E4%BD%93%E8%82%B2-%E9%82%93%E4%BA%9A%E8%90%8D%E5%86%8D%E8%8E%B7%E6%96%B0%E8%81%8C-%E5%8F%97%E8%81%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E5%85%BC/" target="cdt-mirror">新浪体育 | 邓亚萍再获新职 受聘为中国政法大学兼职教授</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/w570187.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/w570187.jpg" alt="w570187" width="550" height="366"></a></p>
-<p>新浪体育讯　北京时间12月6日消息，昨天中国政法大学发布声明，表示将聘请乒乓球世界冠军、奥运冠军邓亚萍女士为中国政法大学兼职教授。</p>
-<p>中国政法大学在《关于聘请邓亚萍女士任兼职教授的情况说明》中写道：</p>
-<p>我校聘请邓亚萍女士为兼职教授，是由体育教学部向学校提出申请，由人事处根据《中国政法大学兼职教授聘任规定》的条件和程序通过该申请，聘请邓亚萍女士为体育教学部兼职教授，其主要工作是支持学校高水平乒乓球运动队的建设发展。</p>
-<p>学校希望通过聘请邓亚萍女士为兼职教授，能为进一步提升学校乒乓球高水平运动队成绩，营造健康向上的体育文化氛围发挥积极作用。</p>
-<p>据中国政法大学新闻中心报道，12月2日邓亚萍作为欧美同学会第六届理事会副会长在中国政法大学进行做了主题为《报效祖国 成就梦想》的专题报告会。报告会结束后，在乒乓球训练馆举行了邓亚萍受聘为中国政法大学兼职教授仪式，由中国政法大学校党委书记石亚军想邓亚萍颁发了兼职教授聘书。</p>
-<p>邓亚萍是乒乓球奥运冠军，现任人民日报社副秘书长。邓亚萍履历丰富，曾获得过清华大学学士学位、诺丁汉大学硕士学位和剑桥大学博士学位。</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>看我把绿叶吹黄：既然是提高乒乓球水平的，那就把教授改成教练。</p>
-<p>宅晚期综合症：她那个几个亿的网络没事了？！居然摇身一变去了法学院了。</p>
-<p>parttttttttttttty：打乒乓球的管足球，打乒乓球的当教授，打乒乓球的任政协委员……乒乓球打的好可以得到升天……</p>
-<p>whwh的微博：以后法官都是体育老师教的，依法治国，果然是中国梦。</p>
-<p>Liangggggggggg：中国的大学处处充满了政治。</p>
-<p>小谭sc：犯法失职怕担责可以像打乒乓球一样推来推去——邓亚萍。</p>
-<p>csxq：什么“数死早”“语体教”都图样了，邓亚萍证明了体育老师现在能教政法！真是不能更牛逼了～</p>
-<p>gongminyaoyao：邓亚萍去政法大学教体育，在一个正常社会的正常大学，没什么好讨论的，也可以支持一下。校友群里讨论的太玄幻，谈什么聘用程序也太装正经了，不就是党委书记喜欢打乒乓球，然后用权力找来个落魄的凤凰陪玩么。</p>
-<p>ZhouFengSuo：邓亚萍做了政法大学教授，绝对习包子特色，将来周小平作北大校长，也没有什么大不了。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%96%B0%E6%B5%AA%E4%BD%93%E8%82%B2-%E9%82%93%E4%BA%9A%E8%90%8D%E5%86%8D%E8%8E%B7%E6%96%B0%E8%81%8C-%E5%8F%97%E8%81%98%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E5%85%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B3%E5%88%BB%E6%90%9C%E7%B4%A2/?category=18271" rel="tag">即刻搜索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">政法大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E4%BA%9A%E8%90%8D/?category=18271" rel="tag">邓亚萍</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -762,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -772,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%97%E4%B8%8D%E9%9C%80%E8%A6%81%E8%A5%BF%E5%BC%8F%E6%B0%91%E4%B8%BB%EF%BC%8C/" target="cdt-mirror">唐映红：社会调查发现中国民众不需要西式民主，结论可靠吗？</a>
+</h2>
+<p><p>Q&A151209</p>
+<p><strong>　问：社会调查发现中国民众不需要西式民主，结论可靠吗？</strong></p>
+<p>答：从方法论角度，<strong>一个社会调查是否可靠，就要看它的调查主题和关键概念的界定、问卷结构、抽样方法、以及统计方法是否符合测量学的基本要求，如果各项要素均按照测量学要求进行，那么结论应该是可以接受的。</strong>但是，一般来说，要得出“中国民众不需要西式民主”这样的结论需要相当谨慎，<strong>一次调查的问卷和样本构成了一个特异性的情境，将特异性的情境下得到的有限结论做大范围的推广存在极大的风险。</strong></p>
+<p>例如，可口可乐公司在1985年曾经为新配方可乐推广曾经做过一次大范围的消费者调查，受访者对新配方可乐表示很满意（60%的受访者在无标签试饮评价中认为新配方比老配方口感更好）。因此，有此调查数据支撑的营销部门信心爆棚地耗费大量费用用于新配方可乐的营销推广。结果，消费者却并不买账，导致新配方可乐彻底的营销失败。从社会心理学角度，其主要的原因之一就在于<strong>调查时所建构的社会情境具有特异性，明显区别于购买时的情境，在前者得到的好评，与后者并没有必然的相关。</strong></p>
+<p>再例如，美国印度裔的社会心理学家古普塔和辛格（Gupta & Singh,1982）曾经对印度以父母包办为基础建立的婚姻家庭，以及美国以自由恋爱为基础建立的婚姻家庭进行跨文化的比较调查研究，使用同样的问卷，同样的方法，得出的结论是印度以父母包办为基础建立的婚姻，在5年后夫妇双方都比美国以爱为基础建立的婚姻更感到满意而持久。这个研究的结论<strong>被广泛的引用，经得起方法学的检验</strong>。但能否从辛格的调查研究中得出印度的包办婚姻比美国的爱情婚姻更幸福呢？<strong>不能</strong>。因为在这个调查研究中，虽然使用了同样的问卷（Rubin Love Scale），但<strong>由于受访者所处的社会文化不同，因此由问卷与受访者以及所处社会文化共同建构起来的调查情境，印、美之间具有完全不同的意蕴</strong>，换言之，印度包办婚姻中的夫妇的“满意”，与美国爱情婚姻中夫妇的“满意”其实不能简单地比较；印度夫妇评定为10分的“满意”情境，让美国夫妇来评定，恐怕1分也得不到。</p>
+<p>不仅如此，像我在指导学生开展社会调查时，有一个组的学生想去旁边的高校做访谈调查男生的择偶偏好议题。我告诉他们，男生去采集的数据，与女生去采集的数据也不能简单地合并。因为<strong>调查者不同，也构成不同的具有特异性的调查情境。</strong>原因很简单，女生作为调查者去拦访邻校的男生，想了解他们在选择女朋友方面有怎样的偏好，<strong>调查者自己就是一个干扰变量，她会成为受访者回答调查问题的一个“锚”。</strong></p>
+<p>回到有关中国民众政治态度方面的有关调查，如2012年底2013年初展开的第六轮“世界观念调查”显示：<strong>中国民众对政府的平均支持水平为7.5分（总分l0），完全可以与许多民主国家相媲美</strong>。又比如，Tang Wenfang、Michael Lewis-Beck和Nicholas Martini等在2013年发表的论文AChinese　Popularity　Function指出：基于3763份随机调查的研究显示，<strong>中国民众对政府的支持度为8分（总分10）</strong>。此外，世界著名的皮尤调查中心2010年的“全球观念调查”显示，<strong>87％的中国人对“本国前进的方向表示满意”。</strong>又比如，2008年德州农机大学和北京大学合作展开的一项民调显示（李连江论文Hierarchical Government Trust in China），<strong>85％的受访者表示对中央政府强烈或温和支持</strong>（对省和县级政府支持率略低）。</p>
+<p>在相信这些调查遵循了方法学要求的前提下，类似跨文化调查的结论的采信必须相当审慎。<strong>中国社会的受访者、中国社会的文化、以及问卷题目本身共同建构了一个迥异于在其他国家做同样调查所建构的社会情境，这种与其他大多数国家相当悬殊的调查社会情境使其得到的数据结论必须置于特殊性的社会情境才能解释，而不能轻易地迁移到去情境或异情境下进行比较。</strong>例如，中国民众对政府评价的8分，与美国民众对政府评价的8分具有完全不同的意蕴和内涵。即使是中国民众评价为10的情境，让美国民众来评价，完全可能连1分也嫌多。这与古普塔和辛格对印、美婚姻满意度的跨文化调查研究的例子相似。</p>
+<p>那么，造成这种中外跨文化社会调查数据无法简单比较的原因，主要的包括如下几项：</p>
+<p>首先是<strong>受访民众</strong>，他们<strong>对一些概念的理解与国外民众有着截然不同的看法</strong>，例如“<strong>民主</strong>”、“<strong>选举</strong>”、“<strong>自由</strong>”，等等。（<em>可参考阅读Q&A150827 《为什么〈1984〉里会说“战争即和平，自由即奴役，无知即力量”？》，点击“阅读原文”可直接跳转访问</em>） <strong>中国民众所理解的“民主”、“选举”与西方民众所理解的“民主”、“选举”具有大相径庭的理解。</strong>这就好比，一个人说，“我再也不相信爱情”，另一个人说“没有爱情我活不下去”，他们所谈的“爱情”可能截然不同。</p>
+<p>其次是<strong>调查本身</strong>。<strong>中国民众对接受调查与西方民众接受调查的感受和知觉完全不同。</strong>作为成熟自由社会的西方民众，对接受带有政治色彩的社会调查不过是司空见惯毫无压力的平常事，而中国民众，特别是底层普通民众，他们对接受带有政治色彩的社会调查，无论调查主体是境外机构，还是中国社会科学院，都几乎没有任何经验，他们会承受到无形的压力，<strong>说“正确的话”比说“我想说的话”更重要。</strong>而且，中国社会民众普遍的经验是，<strong>在公开场合涉及敏感议题（如对政府的评价，对西方民主的看法）都会自动激活心理防御机制，倾向于表达“正确的意见”，而中国民众心照不宣的“正确的意见”显然就是掌握了垄断权力的官方希望的那样，每天的新闻联播都有示范。</strong></p>
+<p>除了上述二者之外，中国民众从小学开始就接受系统的、循序渐进的“思想政治教育”的灌输，<strong>他们对一些议题已经形成了按照固定模式回答的条件反射，</strong>这跟多次参加政治思想品德课程的考试，多次参加政治学习会议精神传达的经验，多次观看新闻节目阅读报纸社论，等等诸多的“训练”有关。<strong>即使他们不介意表达自己的真实意见，但他们最习惯和最自然的反应就是以最熟悉的话语体系来应答。</strong></p>
+<p>综上所述，像中国社会科学院政治学研究所研究员张明澎老师所主持的调查并以此出版的《中国人想要什么样的民主》一书所得出的结论，“<strong>中国人想要中国自己而不是外国的民主</strong>”，是否可以采信。只需要用<strong>脚趾头</strong>稍微设想一下：<strong>如果调查得出的是截然相反的结论，张研究员的专著能否出版面市？他申请了课题经费，耗费了时间精力，得到了组织的支持，有可能得出一个不能公开出版面市的结论吗？</strong></p>
+<p>对类似的调查研究所谓的“成果”<strong>太认真，你就输了。</strong></p>
+<p>2015-12-09</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="350" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%97%E4%B8%8D%E9%9C%80%E8%A6%81%E8%A5%BF%E5%BC%8F%E6%B0%91%E4%B8%BB%EF%BC%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">西方民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AF%BA%E5%A5%96%E4%BD%9C%E5%AE%B6%E9%98%BF%E5%88%97%E5%85%8B%E8%B0%A2%E8%80%B6%E7%BB%B4%E5%A5%87%E6%BC%94%E8%AE%B2%EF%BC%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%88%98%E4%BA%89/" target="cdt-mirror">腾讯文化｜诺奖作家阿列克谢耶维奇演讲：失败的战争</a>
 </h2>
 <p><p><strong>腾讯文化 徐娉婷 王小星 陈默</strong></p>
@@ -713,46 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E7%94%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%AE%B5%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%8D%80%E9%BE%8D%E5%AE%87%EF%BC%9A%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%A5%9E%E5%AD%B8%E5%92%8C%E5%91%A8%E8%88%B5%E7%9A%84%E7%A7%91%E5%AD%B8/" target="cdt-mirror">端传媒｜區龍宇：共產黨的神學和周舵的科學</a>
-</h2>
-<p><p>任何人稍為認真閱讀馬克思，不難知道，他的學說與蘇共和中共根本相反。</p>
-<p>區龍宇：退休教師，工運研究者，美國學術雜誌WorkingUSA編委會成員</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/a24f38fa711b43af8cbabe13aeb0b5f6-1024x683.jpg" alt="" width="552" height="368"></p>
-<p>北京一間商店售賣印有中國國家主席習近平（左）和已故中共領導人毛澤東樣貌的紀念品。攝：Greg BAKER/AFP</p>
-<p>今年初習近平發表講話，重申「實現共產主義是共產黨員的最高理想」，好像印證了習近平是「左派」、「毛派」的看法。其實呢，打左燈，向右轉，中共最高領袖最好為之。習空言幾句共產主義，而實踐上，又有自貿區，又有滬港通，更重要者，乃更加獨裁，這加起來，就不只是典型資本主義，而且是很右那種。只有天真或不天真的強國左派，才會瞎起哄。<br>
-中華人民雜貨舖？</p>
-<p>更令人忍俊不禁的，是中共一面調和極右資本主義和共產主義，一面還把孔子拉落水。這當然不是孔子的錯。中共不過像一切皇朝一樣，利用孔子而已。但這樣做，特別彆扭：難道它忘記自己就是以打倒孔家店起家的嗎？這樣封建主義、資本主義、「共產主義」共冶一爐的黨國，不是有點像……雜貨舖嗎？我懷疑老闆在打烊後，舖裏的孔子和馬克思會否整晚打架？</p>
-<p>好在中共有大陸強國左派學者出來護航。例如甘陽，1978年前有一文《中國道路：三十年與六十年》，事先就為「今上」做好輿論，說中國道路，就是「儒家社會主義共和國」：「中國改革需要達成新時代的『通三統』：孔夫子的傳統，毛澤東的傳統，鄧小平的傳統，是同一個中國歷史文明連續傳統。」（註一）</p>
-<p>可惜此等高論，只能國內通行，在國外，不免有點為難。一位老外叫馬利德（Richard McGregor），他寫了一本書《中國共產黨不可說的秘密》，記載1980年代中，當時陳雲的紅二代陳元，在美國宴會上被追問：中共的馬克思主義，難道不是與自由市場改革矛盾嗎？陳元只能不耐煩的回答：「聽着，我們是共產黨，由我們決定共產主義的意涵！」（註二）</p>
-<p>以我劃線，至高無上</p>
-<p>問題是，蘇聯有蘇共的共產主義，南斯拉夫有南共的共產主義，中共又有自己「中國化」的共產主義，幾國的共產黨不斷打架；就是中國國內，毛澤東的共產主義，又為鄧小平的「社會主義初級階段」否定，究竟，誰才算真共產主義呢？答案其實很清楚，就是一切以「我」劃線，凡是我這位最高領袖說的做的，就是共產主義，就是真理，一切是非，俱以「我」為尺度。到了這一步，中共最高領袖確已超凡入聖，建立自己的神學了。在這個新神學裏，神明不是上帝，不是阿拉，不是佛祖，而是中共領袖自己，他就是一切真理的來源。</p>
-<p>有些強國左派或者反駁說，共產黨是無神論者，與有神論對立，怎能稱共產黨為宗教？<br>
-變成宗教的無神論</p>
-<p>錯了。如果把無神論當成絕對最高真理，進而不惜用國家暴力去消滅或打擊宗教，恰恰就類同宗教狂熱。尊重科學的無神論者，不是這樣的。雖然無神論與有神論在思想上對立，但那不是你死我亡的對立。思想上的激辯，畢竟同政治沒有直接關係。那種認為無神論者要把消滅有神論作為國家政治任務來抓的看法，不只也變成宗教，而且是沒有寬容性（religious tolerance）的極度排他的宗教。</p>
-<p>但這是否馬克思的原意呢？那位極力反對港人佔中的周舵說是。他在《馬克思主義是科學真理還是宗教？》一文，認為中共暴政根源，在於其所信奉的馬克思主義，不只不是科學，而是宗教，更是「壞宗教」，因為馬克思要在人間實現天堂云云。</p>
-<p>勃朗科．霍爾瓦特（Branko Horvat）是前南斯拉夫的馬克思主義經濟學家，也是1983年諾貝爾經濟學獎的候選人。但霍爾瓦特沒有像周舵那樣錯怪老馬。他在《社會主義政治經濟學》一書第二章，比周舵早幾十年，便有力批判蘇共，如何假無神論之名，而行宗教壓迫之實。（註三）霍爾瓦特引述了馬克思一封信，足以看出周舵錯得離譜。1871年，馬克思寫信給國際工人協會（即第一國際）一位同志，嘲笑了無政府主義者巴枯寧（當時也是協會成員），在會內成立自己的派別，宣傳他的「科學」綱領。馬克思特別批評他「把無神論作為會員必須遵守的教條」（註四）。原來主張無神論的馬克思，反對把無神論，作為第一國際會員資格！馬克思死後，他的老友恩格斯，參與建立第二國際（即各國社會民主黨聯合而成的國際），而第二國際也一樣，從來不曾要求黨員必須堅持無神論。為什麼呢？因為馬克思及其同道，都把宗教信仰或者無神論觀點，當作是私人事情，公共政治活動根本不必也無權去管。他們固然反對國家支持某種宗教，但想也沒有想過，反過來要國家支持無神論。<br>
-鴉片作為鎮痛劑</p>
-<p>但馬克思不是說過「宗教是人民的鴉片」嗎？而我們現在怎樣對待鴉片？令行禁止。對，不過那是現在。許多世紀以來，一直到馬克思時代，鴉片都作為麻醉/鎮痛劑來合法使用的。馬克思就是在這個意義上，說出這句話的。他的意思是，由於現實存在很多苦難，所以人們往往從宗教求得安慰，就像出現痛症時，需要鴉片鎮痛一樣。但是，要真正解決苦難，需要現實的反抗。（註五）</p>
-<p>一旦教徒在現實上反抗不公義，他們就不只提供鎮痛劑，而且攜手同人民奮鬥了。1960年代在拉美出現的解放神學，就是典型例子。秘魯神父哥斯達夫．哥達尼斯（Gustavo Gutierrez）所著的《解放神學及其前瞻》，就這樣主張：「消極等待來自天上的救贖是錯誤的……教會不應成為建制的一部分，而應當成為群眾解放運動的支持者。」（註六）這就是為什麼，國外許多馬克思主義者，都同解放神學實踐者聯盟。</p>
-<p>任何人稍為認真閱讀馬克思，不難知道，他的學說與蘇共和中共根本相反。把孔子變成中共專政的辯護者，或者把「馬克思主義」變成宗教以至壞宗教的，是官僚統治者。馬克思自己好像有先見之明，所以說過「我自己就不是馬克思主義者」。<br>
-當咒罵變成科學</p>
-<p>或云，不正是馬克思關於社會主義的空想，才造成大躍進悲劇嗎？這種質問，反映作者連常識都沒有，遑論科學了。馬克思從來都認為，社會主義只能在最發達資本主義開始（開始也不等於完成）；在貧窮國家硬搞，只能導致他所謂「否定個性的粗陋共產主義」。（註七）就是在先進國家，馬克思也從來沒有定下限期，沒有五年計劃，要在何年何日之前，完成社會主義。周舵不去歸咎這些官僚統治者，卻去歸咎馬克思，不多不少，正正為蘇共和中共開脫呢。</p>
-<p>其實，周舵罵馬，不是重點，他反「激進主義」，因此出來反佔中，才是重點。今天中國，恰恰回到了魯迅所說的，「搬動一張板凳都得革命才行」的時代。在這樣的時代，馬克思那種理性思維和實踐公義，兩者並重的精神，的確值得參考。既然是理性思維，自然也要以批判精神對待他的著作。可惜，周舵的批判，咒罵很多，科學卻很少。</p>
-<p>註一：《讀書》雜誌，2007年6月。</p>
-<p>註二：The Party: The secret world of China’s Communist Rulers，中文版，聯經，2011年，62-3頁。</p>
-<p>註三：The political economy of Socialism, M.E.Sharpe, 中文版由吉林人民出版社出版。</p>
-<p>註四：同上，29頁。引文見馬恩全集33卷333頁。中文版譯作「信條」，但英文版是「教條」：”His (Bakunin) programme was a superficially scraped together hash of Right and Left – …atheism as a dogma to be dictated to the members, etc.”</p>
-<p>註五：黑格爾法哲學和批判導言》，《馬克思思格斯選集》第一卷頁2。關於馬克思此言的較為詳盡解釋，請參考筆者《法輪功，江澤民與馬克思》。</p>
-<p>註六：《解放神學與拉美革命》</p>
-<p>註七：《1844年經濟哲學手稿》，馬恩全集42卷118頁。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%AE%B5%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%8D%80%E9%BE%8D%E5%AE%87%EF%BC%9A%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%A5%9E%E5%AD%B8%E5%92%8C%E5%91%A8%E8%88%B5%E7%9A%84%E7%A7%91%E5%AD%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E9%BE%99%E5%AE%87/?category=18271" rel="tag">区龙宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E8%88%B5/?category=18271" rel="tag">周舵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%98%E9%98%B3/?category=18271" rel="tag">甘阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%85%83/?category=18271" rel="tag">陈元</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D/?category=18271" rel="tag">马克思</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">马克思主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E9%BE%99
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BA%E9%BE%99
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

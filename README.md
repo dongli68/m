@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%88%91%E4%B8%8D%E7%9C%8B%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E5%A5%BD%E5%A4%9A%E5%B9%B4/" target="cdt-mirror">东网｜王药师：我不看《南华早报》好多年</a>
+</h2>
+<p><p>作为江湖上赫赫有名的“BAT”组合之一员，阿里巴巴正愈发显露出其“拱卫政权力量”的真实面目。最新的动作是，上周五（12月11日），阿里巴巴集团宣布收购《南华早报》以及南华早报集团旗下的其他媒体资产，打造一个让英语世界了解中国的优质窗口。</p>
+<p>对于阿里巴巴集团海外媒体收购的这“第一单”，各方舆论给予了高度关注，不仅《南华早报》前任和现任的许多员工纷纷呛声，担心阿里巴巴入主后会影响该报的编辑自主，就连香港记者协会都为此发表声明，坦言此举或令香港的新闻自由空间进一步收窄。当然，对于众多生活在墙内的内地普通民众来说，可能压根就没听说过这家历史悠久、影响巨大的英文报纸，原因和facebook、twitter一样，没见过！</p>
+<p>《南华早报》不是第一家被陆资或倾中资本染指的港媒，注定也不会是最后一家。同样的，香港也不是唯一一个被“老大哥”觊觎并发誓要夺取的外宣阵地。虽说“新华社要把地球管起来”早已沦为一句笑话，但实现“舆论一律”的雄心壮志显然从未泯灭。伴随着传说中的400亿外宣“大撒币”，这些年，从香港到台湾，从华人地区到欧美国家，当局或是让代理人收购，或是借助白手套入股，有时甚至自己赤膊上阵，可以说使出了浑身解数，而目的只有一个，即阿里巴巴高管口中的所谓“改善中国形象，提供一种与西方媒体带有偏见的报道所不同的视角”——尽管多数时候，这种“改善”是内向性的，糊弄的只是墙内的普通民众。</p>
+<p>所以，正如《纽约时报》在评论此事时所说的，“尽管阿里巴巴表示中国政府在这次收购中并未扮演任何角色，但其立场与共产党高度一致。中共对西方新闻机构报道中国的方式越来越不满”。这话好理解，因为即便是昔日上海滩上的地痞瘪三、青帮老大，也不希望成天被人揭老底、戳洋相。真正令我好奇的是，这种简单粗暴的“买买买战略”，真的能够实现权力所希冀的“重塑中国的媒体形象”的目的吗？</p>
+<p>别忘了，这可是个自媒体野蛮生长的时代，还有几个人在埋头读报纸，传统媒体的影响力还剩下多少，就算收庄包圆了又能怎样？更何况，这世上比《南华早报》历史更悠久、影响力更大的报纸媒体多的去了，难道也一家家都收购了？即便郎有情，妹也未必有意，陈光标同志“收购”《纽约时报》的闹剧总还没有忘记吧？</p>
+<p>借助于社交媒体和新技术的帮助，过去几年，我陆陆续续也看过不少《南华早报》的报道。印象中，《南华早报》虽然不乏独家采访斯诺登这样令人眼前一亮、击节叫好的作品，也发生过刘怡采访马云这样的冲突性事件，但其中文网上涉及内地时政方面的报道评论，就可读性来说总体上与《纽约时报》、《金融时报》等相比还是有所不及。以至于“南早中文”的微信公号，我都许久没有点开了，自然也并不特别在意《南华早报》这一城一报的得失。反正生活早已教会我们，《人民日报》要倒过来读。大不了，以后《南华早报》上涉及中国内地的时政文章，我们也倒过来读就得了。</p>
+<p>反倒是实施此次收购的阿里巴巴及其掌门人，在徐明死、徐翔关、李嘉诚跑路、郭广昌失联的大背景下，处境和前途更引人关注。诚如有论者指出的那样，“在中国，一个商人一旦有了平天下的虚妄时，离作死也不远了”。虽然马云比郭广昌牛，但终究还是“郭广昌”。现阶段，权力或许正在利用他下一盘很大的棋，但等到棋下完了，恐怕同样难逃兔死狗烹的结局。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%88%91%E4%B8%8D%E7%9C%8B%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E5%A5%BD%E5%A4%9A%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E9%9F%A9%E5%A3%B0%E7%A7%B0%E6%8B%A5%E6%B0%A2%E5%BC%B9-%E4%B8%AD%E5%9B%BD%E5%A4%84%E5%A2%83%E6%9C%80%E5%B0%B4%E5%B0%AC/" target="cdt-mirror">东方日报｜北韩声称拥氢弹 中国处境最尴尬</a>
+</h2>
+<p><p>北韩领导人金正恩日前视察革命史迹地时宣称已经研发了一枚氢弹，并准备好用于维护国家主权。如果金氏所言属实，表明北韩在核武开发上愈走愈远，解决朝核问题更加渺茫。</p>
+<p>金正恩暗示北韩有氢弹南韩持怀疑态</p>
+<p>目前外界还不清楚金正恩此话是真是假，鉴于北韩的好战言论，俄联邦委员会国防委员会第一副主席克林采维奇认为，金正恩是在虚张声势，北韩没可能瞒骗全世界秘密制造热核武器。首尔的专家则判断，北韩可能正在开发氢弹，但并没完成。事实上，北韩前不久在其第一艘弹道导弹潜艇进行了一次导弹发射，是否同氢弹试验有关，不得而知，但根据美国媒体报道，在该次试射中，导弹未能顺利离开发射管，导致潜艇艇体和指挥台围壳受损。换言之，即使此次试射与氢弹有关，也是不成功的。</p>
+<p>北韩自0五年宣布拥有核武器，其后于O六年、O九年和一三年进行了多次地下核试验，引起国际社会抗议，并招致联合国严厉制裁，迄今尚未解除。一二年十二月，北韩又利用「银河三号」运载火箭发射了「光明星三号」二期卫星，美韩日等担心，北韩可能实际试射了洲际弹道导弹。目前专家的一个看法是，北韩已经制造了多枚原子弹，但原子弹的技术还很简陋，尚未小型化。如果判断准确，北韩尚未制造出氢弹。</p>
+<p>驯服北韩 棘手难题</p>
+<p>那么，金正恩为何此时要放出拥有氢弹的信号？目的可能有二。一是对内鼓舞士气，塑造金正恩的威信。尽管被国际社会孤立，北韩军民仍然克服了难以想像的困难，在短时间内制造出氢弹，从而让人民更加相信金氏英明神武；二是对外表明绝不放弃核武开发，让外界对北韩走伊核道路彻底死心。伊朗在国际社会和国内经济压力下，今年七月宣布放弃核计划，以换取美国解除制裁。伊核问题的解决，让国际社会一度认为朝核问题也可照办煮碗，惟平壤已多次表明绝不仿效伊朗，这次更干脆由最高领导人宣布拥有氢弹，以打消外界要朝弃核的幻想。</p>
+<p>事实上，不管朝鲜是否拥有氢弹，都难掩中国在朝核问题上的尴尬，这从外交部发言人的表态可见一斑。该发言人表示，中方一直坚持朝鲜半岛无核化，坚持维护朝鲜半岛和平与稳定，坚持通过对话和磋商解决问题。显而易见，中国阻止不了北韩开发核武。在这种情况下，当局所能做的，就是不将有核的朝鲜推到美韩阵营，以便在必要时能够发挥平衡美日的作用。假如北韩能配合中国，其拥有氢弹从短中期来看，对中国在亚太地区的博弈有所助益，这或许可以解释近期中朝关系解冻的原因。当然，如何驯服拥核的北韩，长远来说仍然是中国必须面对的棘手难题。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1e7ak4ppppppppppppp-150x150.jpg" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E9%9F%A9%E5%A3%B0%E7%A7%B0%E6%8B%A5%E6%B0%A2%E5%BC%B9-%E4%B8%AD%E5%9B%BD%E5%A4%84%E5%A2%83%E6%9C%80%E5%B0%B4%E5%B0%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%AA%92%E8%AF%B4%E5%BE%90%E6%98%8E%E7%8C%9D%E6%AD%BB%E5%B8%A6%E8%B5%B0%E4%BA%86%E5%BE%88%E5%A4%9A%E7%A7%98%E5%AF%86/" target="cdt-mirror">法广｜港媒说徐明猝死带走了很多秘密</a>
+</h2>
+<p><p>大连实德集团前董事长徐明日前在监狱中猝死，引发广泛关注。到底是病死还是他杀？如果是他杀，又是死於于谁人之手？谁从中受益？众多猜疑，让人联想。不争事实是徐明猝死带走了很多秘密，徐明应当在明年9月就可刑满释放出狱。</p>
+<p>据太阳报今天透露，关于徐明在狱中死亡的消息，家属是在事发后几个小时才获悉。徐明家人口头转述官方通知称，徐明在凌晨上厕所时突发心肌梗塞，倒地而亡，因平时运动过度，心臟承受能力出现了问题。但他的朋友表示，从未听说过徐明患有此病。</p>
+<p>最让人质疑的是，徐明死后不久便迅速火化，当局和徐的家人都没有向外界交代原因。徐明作为全国性政治大案的当事人之一，官方应该明白徐明的死极为敏感，理应更加慎重地处理其遗体，起码验尸查明死因，并且向外界公布相关报告，以释众疑。但当局如此仓促，似乎在刻意隐瞒什么。正因为此，外界异口同声认为徐明是死于他杀，但谁是兇手，却有不同的版本。</p>
+<p>据太阳报署名报导说，自由派人士认为，徐明是薄熙来的家奴，掌握薄熙来家族大量的证据，为了防止徐明出狱之后胡说八道，薄熙来余党在监狱中杀人灭口。但左派人士则认为，薄熙来案本来就是一个冤案，徐明在法庭上没有死咬着薄熙来，而且薄熙来在庭上当面对徐明称“谢谢你实事求是”，因此薄熙来没有理由要杀害徐明。他们认为，反而是当年制造薄熙来冤案的人，为防止徐明出狱之后说出真相，于是痛下杀手，使徐明暴毙于狱中。</p>
+<p>报导还说，公说公有理，婆说婆有理。只要没有经过公平公正的调查，这些传闻和猜想就会甚嚣尘上，关于中共高层的流言及对于权力斗争的揣测更会四处流散。而官方处理这宗死亡案的草率仓促，以及面对外界质疑时默然不语，只会令整个事件堕入更深的迷雾中，甚至令人怀疑当局深度介入其中，也与以法治国的宗旨背道而驰。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%AA%92%E8%AF%B4%E5%BE%90%E6%98%8E%E7%8C%9D%E6%AD%BB%E5%B8%A6%E8%B5%B0%E4%BA%86%E5%BE%88%E5%A4%9A%E7%A7%98%E5%AF%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">徐明狱中死亡</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2%E7%9A%84%E9%81%97%E7%A5%B8/" target="cdt-mirror">中国人权双周刊 | 何清涟：中共洗脑教育的遗祸</a>
 </h2>
 <p><p>最近，撰写《洗脑的历史》一书的作者傅志彬被以“非法经营罪”判处有期徒刑1年10个月，参与该书出版的其他三人分别被判6个月至1年半不等的有期徒刑。这本《洗脑的历史》涉及人类社会几千年，从基督教、伊斯兰教直到法西斯与共产主义的红色洗脑，并非针对中国而写。但中国政府显然对此书名特别感冒，因为此时此刻的中共政府，还在乐此不疲地对全体国人尤其是青少年加强宣传教育。“宣传教育”，在中国就是“洗脑术”的官方说法。</p>
@@ -810,123 +866,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/421031/" target="cdt-mirror">纽约时报｜巴黎气候峰会上中国哭穷</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/10CHINADEVEL-articleLarge.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/10CHINADEVEL-articleLarge.jpg" alt="Jacky Naegelen/Reuters 周三，巴西环境部长伊莎贝拉·特谢拉与中国代表团团长解振华在法国勒布尔热的气候谈判期间出席新闻发布会。" width="570" height="286" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/10CHINADEVEL-articleLarge-300x151.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/10CHINADEVEL-articleLarge.jpg 600w" sizes="(max-width: 570px) 100vw, 570px"></a><p>Jacky Naegelen/Reuters<br> 周三，巴西环境部长伊莎贝拉·特谢拉与中国代表团团长解振华在法国勒布尔热的气候谈判期间出席新闻发布会。</p></div>
-<p>巴黎——上周，国际货币基金组织(IMF)<a href="http://www.nytimes.com/2015/12/01/business/international/china-renminbi-reserve-currency.html" target="_blank" rel="nofollow">将人民币升入主要货币的行列</a>，与美元、欧元、日元和英镑平齐，中国随之大肆宣扬它成为了世界经济强国之一。</p>
-<p>而本周，中国却在哭穷。</p>
-<p>在巴黎东北郊区勒布尔热正在进行的<a href="http://www.nytimes.com/interactive/projects/cp/climate/2015-paris-climate-talks/paris-climate-talks-deadlines-ratcheting-stock-taking" target="_blank" rel="nofollow">气候谈判</a>正面临一个关键问题，即谁将为2020年开始对发展中国家承诺的每年1000亿美元的长期援助资金买单。</p>
-<p>欧洲和美国仍受2008年到2009年的全球金融危机余波的影响，一直试图将此责任分摊给日益富裕的一些中等收入国家，尤其是中国。</p>
-<p>20多年来，中国为了便于气候谈判一直自视为一个发展中国家。它还在坚持这个立场，哪怕是在锁定为较贫穷国家提供每年1000亿美元援助的资金来源成为会谈剩余的最大障碍之一的时候。此次大会定于周五结束。</p>
-<p>中国政府最高规划机构——国家发展和改革委员会——下属的气候战略中心的主任李俊峰排除了中国作为发展中国家的认定会有任何变化的可能性。</p>
-<p>“这是最重要的规则，基于中国仍认为自己是发展中国家这一惯例，”他周二在《国际纽约时报》在巴黎主办的“<a title="Link: http://inytenergyfortomorrow.com/" href="http://inytenergyfortomorrow.com/" target="_blank" rel="nofollow">明日能源</a>”(Energy for Tomorrow)会议上说道。</p>
-<p>西方国家的官员一方面交口称赞北京限制未来温室气体排放的意愿，另一方面在融资问题上实行静默外交，以此来回应中国的立场。他们正在努力寻找可让中国接受的法律措辞，从而达到强制要求其做出可观的出资贡献的目的。</p>
-<p>“希望我们能安静而有效地与中国合作，使他们在这方面更进一步，但我认为中国发挥了非常大的影响，已经做出了巨大的努力，”美国国务卿约翰·克里(John Kerry)周三在这次会议上表示。</p>
-<p>他还指出，数亿中国人仍然很贫困。</p>
-<p>当天晚些时候，克里<a title="Link: http://www.nytimes.com/2015/12/10/world/europe/paris-climate-conference.html" href="http://www.nytimes.com/2015/12/10/world/europe/paris-climate-conference.html" target="_blank" rel="nofollow">宣布美国对发展中国家适应气候变化的援助将增加一倍</a>，从4.3亿美元提升到2020年的8.6亿美元。不过，该计划需国会批准。</p>
-<p>此时距达成新一轮大刀阔斧的气候协议的最终期限还有不到两天时间，来自近200个国家的谈判代表却还没有解决一些重大的问题，包括如何以及何时核实削减碳排放的承诺。</p>
-<p>主要的谈判代表表示，他们有信心能达成协议，不过世界银行 (World Bank)的气候变化特使雷切尔·凯特(Rachel Kyte)在“明日能源”会议上提到，会谈可能会拖到周六或周日。但一些一直关注会谈的外部观察人士表示，各方为冲过终点线所做的必要妥协，可能会大大削弱这份协议，使它变得几乎没有任何作用。</p>
-<p>此份拟议协议的关键部分，是来自186个国家的一系列减排承诺。这些国家占全球经济总量的90%。但周三公布的协议草案并没有包括如何监测和核实这些减排数字的任何细节。</p>
-<p>中国在其他一些项目上大把撒钱，但拒绝将它们计入气候谈判中呼吁的每年1000亿美元的援助资金。</p>
-<p>中国正在创建股本<a title="Link: http://www.nytimes.com/2015/12/05/business/international/china-creates-an-asian-bank-as-the-us-stands-aloof.html" href="http://www.nytimes.com/2015/12/05/business/international/china-creates-an-asian-bank-as-the-us-stands-aloof.html" target="_blank" rel="nofollow">1000亿美元的有57个成员国的亚洲基础设施投资银行</a>，在去年年底还建立了另一个400亿美元的基金，以资助古丝绸之路沿途国家的投资。三个月前，它宣布出资200亿元人民币创建“中国气候变化南南合作基金”，向发展中国家提供直接援助。</p>
-<p>中国还是世界上最大的出口国，拥有3.5万亿美元的外汇储备。这些储备资金已通过中国商业银行借款的形式进行了融资，但是，未来需要偿还这些资金的潜在要求意味着，它虽然可以投资于海外项目，但不能直接捐赠。</p>
-<p>中国官员担心，如果他们同意为发展中国家每年1000亿美 元的援助提供资金支持，中国就可能有一天被归类为工业化国家，并被要求遵循更加严格的温室气体排放限制。1997年的《京都议定书》(Kyoto Protocol)对工业化国家设置了约束性的排放限制，但对发展中国家较为宽松。</p>
-<p>西方国家的官员一直在寻求一种妥协。美国能源部长欧内斯特·J·莫尼斯(Ernest J. Moniz)在能源会议的场外告诉记者，他欢迎中国对发展中国家提供援助，即使它没有计入发展中国家希望西方国家提供的每年1000亿美元的资金援助。</p>
-<p>“对我个人来说，反正都是钱，但这并不是美国政府的回应，”他还说，财政部对出资问题拥有最终发言权。</p>
-<p>谈判人员一直在寻找一种方式来巧妙处理中国对于被列为工业化国家的担忧，同时还想着将中国雄心勃勃的国际投资项目纳入1000亿美元的援助中。随着气候谈判最后期限的临近，缺乏来自中国的资金，会让每年提供1000亿美元援助的承诺更加难产。</p>
-<p>总部设在巴黎的经济合作与发展组织 (Organization for Economic Cooperation and Development)相当于是个工业化民主国家俱乐部，它最近估计，去年筹集到了1000亿美元中的620亿美元。但是，中国和印度等国对这些资金中 有多少是坚定的承诺表示质疑。</p>
-<p>“发展中国家都在说，‘我们没有看到钱’——这就是为什么透明度非常重要。”在气候会谈的间隙，中国气候谈判代表团团长解振华上周二在勒布尔歇举行的新闻发布会上说道。“经合组织的数字还没有得到发展中国家的承认。这是我们需要解决的东西。“</p>
-<p>解振华和巴西、印度及南非的官员一起，在周二呼吁世界上的富裕国家最晚在2020年扩大每年1000亿美元援助的承诺，该承诺是在2009年哥本哈根气候谈判期间宣布的。这笔钱将用于帮助发展中国家减缓和适应气候变化的影响。哥本哈根谈判最后以失败告终。</p>
-<p>解振华捍卫了中国代表77国集团(Group of 77)利益的能力，该集团基本上是由众多非常贫困的国家组成，目标是在许多国际谈判中协调立场。中国仍是该集团的一员，尽管30年的高速增长已经让它成为世界上第二大经济体。</p>
-<p>“我们实际上就是77国集团的一部分，”解振华说。“那么，为什么我们不能提77国集团？”</p>
-<p>国家发改委的李俊峰说，在应对气候变化上，西方政府甚至拒绝与西方企业保持步调一致。“我认为这才是障碍，而不是中国，”他说。“我们希望在未来三四天可以解决这个问题。”</p>
-<p>不管协议最终以各种形式出现，它一定会要求已承诺大幅减排的各国政府，开始看看他们如何能做得更多。</p>
-<p>“我们会签署一份协议，”研究机构管理与可持续发展研究所(Institute for Governance and Sustainable Development)所长<a href="http://igsd.org/about/people_durwoodZaelke.php" target="_blank" rel="nofollow">德伍德·策尔克</a>(Durwood Zaelke)说道。“这足以让我们打开香槟了。第二天我们宿醉醒来后，会发现我们还有很多工作要做。”</p>
-<p>翻译：纽约时报中文网</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/421031/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A2%B3%E6%8E%92%E6%94%BE/?category=18271" rel="tag">碳排放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%82%E8%83%BD%E5%87%8F%E6%8E%92/?category=18271" rel="tag">节能减排</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E9%BB%8E%E6%B0%94%E5%80%99%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">巴黎气候大会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%83%AD%E5%B9%BF%E6%98%8C%E5%80%92%E4%B8%8B%EF%BC%8C%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB%E5%B4%A9%E5%A1%8C%EF%BC%9F/" target="cdt-mirror">花儿街参考｜郭广昌倒下，政商关系崩塌？</a>
-</h2>
-<p><p><strong>【注】花儿街参考（微信公号ID：zaraghost）微信原文已被和谐。下文转自腾讯科技。</strong></p>
-<p><em>文/马钺（微信公众号：花儿街参考）</em></p>
-<p>郭广昌“失联”，就像是一次地震，不，简直像是一次核爆。</p>
-<p>他可是复星集团董事长，“复星系”舵手，掌控着数千亿元的盘子，资本运作翻云覆雨，赢得“中国巴菲特”的美名。他人脉广阔，长袖善舞，身为浙商领袖，马云和他是太极拳友，王健林曾评价他：有广昌办事，我们放心，也省心。10月份，习近平出访英国，郭广昌是随行的150位企业家之一。再往前推，3月初的两会上，郭广昌还曾和李克强总理共话改革。</p>
-<p>他的分量，比之前落马的所有企业家加起来还重。</p>
-<p>在上海企业家中，他一直是众星捧月的偶像，就像是《上海滩》里的许文强，或者，杜月笙。他和这两人一样，攀上过时代的巅峰，成为时代的弄潮儿，并且试图引领时代——至少在经济上。但结局一样是失败。</p>
-<p>郭广昌“失联”的原因，目前不详。据财新网的报道，有可能是涉嫌行贿上海市友谊集团原总经理王宗南。2003年，郭广昌曾以208万余元的低价将两套别墅卖给王宗南父母，经估价，当时上述两套别墅的市场价与实际价格差额合计269万余元。另有媒体指出，郭广昌被带走或涉做空股市，和与前期落马的上海“首虎” 副市长艾宝俊、泽熙控制人徐翔都有莫大关系。</p>
-<p>确定失联后，郭广昌的微博被清零，删得一条不剩，他那个非富即贵的朋友圈，估计也很快就会白茫茫一片真干净。</p>
-<p>不久前实德董事长徐明在狱中猝逝，人们感叹“眼看他起高楼，眼看他楼塌了”。现在，郭广昌“失联”，我们眼看到的，显然不只是一座大楼的坍塌，或许还是一种秩序的崩溃。</p>
-<p>徐明、徐翔、郭广昌，或许还会有更多重量级企业家将被卷入风暴之中，不管是以反腐还是做空之名。这可能意味着，之前三十年尽管磕磕碰碰但大体上还算行之有效的政商关系模式，即使不到无以为继的地步，也已经非常不稳定，需要换个姿势，双方才能再来一次。事实上，这个趋势在李嘉诚坚决脱亚入欧时，就表现得非常明显了。</p>
-<p>世界是怎样终结的？乔治·艾略特说过：世界是这样终结的，不是轰隆一声，而是一声呜咽。郭广昌“失联”后，很多媒体找出了他之前接受《中国企业家》杂志采访时说过两段话，现在看来，这两段话就像是郭广昌的呜咽。</p>
-<p>顺便说一句，我发现最近花儿街写的好几个人物，其言论都与“相信”有关，王勇平在7·23动车事故发布会上说“至于您信不信，我反正相信了”，而郭广昌的标题干脆就是“我相信”。不过，我觉得，现在更适合重温的，却是北岛的“我不相信……”</p>
-<p><strong>《我相信》</strong></p>
-<p><em>文/郭广昌</em></p>
-<p>我相信什么？</p>
-<p>做企业到现在，我越来越感觉人是需要相信一点什么的。</p>
-<p>一个人最重要的是不要失去自己的方向，你认为什么是对的，千万不要因为外面的因素、舆论因素是怎么样的，你就去做一个决定。在追求“商业真理”的过程中，永远是要你自己去做决策，你永远是孤独的，这是没有办法的。这个“孤独”并不是说你不需要自己的团队，你的团队也是孤独的，总是要带着自己的船往前开。人面对未来并不是能够看得很清晰。人为什么需要宗教，就是因为我们永远解决不了一个问题：我们不知道死后是怎么回事，这个问题科学没有办法解决，终谓的终极关怀只有宗教解决。</p>
-<p>企业家该怎么做？该怎么样抵挡诱惑、克服贪婪与恐惧？讲到底你心里一定要有自己的价值观，一定要相信什么。</p>
-<p>我们相信什么？一路走过来，就外部来说，这个好像说起来很“政治”。我们相信30年的改革开放政策会是稳定和长期的。你要相信你这个企业只要自己没有犯错误，没有乱来，政府不会整你。很多人不信这一点，我们是信的。很多人跟我说，企业做得再好，政府要整你，要你死是很容易。我当时就问他一句话，我做得好好的，政府为什么要让我死？这跟党的价值观不一致，跟改革开放的价值观不一致啊。所以从大的方向上我一是相信中国的未来经济看好，二是相信党的改革开放政 策。我们四个人(创业团队)，我们没有一个移民海外、拿海外护照的，我们是中华人民共和国公民，我们生在这里，长在这里，我们对这片土地有信心。(说起来)这个相信好像是很容易的事情，但是有多少企业家真正相信呢？不见得吧？</p>
-<p>第二，对自己的企业，不管人家说什么，你对自己的企业健不健康要清楚：你有没有生癌症？2004年，我们进行“体检”。既是外部环境对我们的要求，同时也是我们对自己本身有信心。如果你本身有“癌症”了，你说“体检”能帮忙吗？“化疗”能帮忙吗？都帮不了你的忙。很多人“体检”出“癌症”早期还能多活几年，但是总归你是绝症，你之前做了不该有的事情，不该有的决策，注定你要死亡，有的时候只是死亡期延缓了而已。</p>
-<p>任何人必须要为你做的每一个决定付出代价。很多人在做一个决定时候，他觉得付这个代价很情愿，但真让他负这个代价的时候，他会说当时作这个决定是因为外面种 种原因决定的。哲学上有一句话很有道理：人是自由的，你必须要为你作为自由的人作出的决定负责任。有些人只会说，企业在市场环境下，政府应该给他自由决策 的权利，但是企业家要非常清楚，你做任何一个决定，都要为此负担责任，尤其是错误的决定。不能说因为我是为别人着想、因为我是受到种种诱惑，所有的借口都是不对的，至少你可以决定不做。企业的游戏规则非常简单，企业的游戏规则就是在法律允许的范围内最多为股东、为员工，为相关利益者争取最大的利益。但有些企业很多时候会偏离这个游戏规则。</p>
-<p>2004年我们之所以敢“体检”，就是基于以上我的两个相信。第一，我们相信自己是健康的，我们长期以来是规范的。如果不是规范的话，我敢透明吗？第二，<strong>我相信党和政府</strong>。我相信党和政府不是说我跟某个人有特殊的关系，而是相信党整体的方向，经过了文革，经过了这么长时间，我们终于找到了能带中国走上富裕的这条道路，这个方向没有人能够改变，虽然在这个过程中会有杂音，会有噪音，但是整体的方向是不会变的。</p>
-<p>既然不会的话，我还顾虑什么呢？别 人说我们惊涛骇浪走过来，我觉得自己一直很坦荡。坦荡并不是你装出来的，坦荡是来自内心的。当你独处的时候，面对旷野一个人在独思的时候，你真的坦荡吗？ 你到底做了你不该做的事情没有？你所做的事情是不是真的推动社会的进步？有些人很忙，但如果你的忙是跟整个社会的进步是背道而驰，你忙得再多你有什么价值呢？当然，这里面有个社会机制的问题，一个好的社会机制一定是让每个人在为自己价值最大化的时候，也是推动社会价值最大化；一个不好的社会机制下，一些人 为了自己的利益价值最大化，必须以破坏社会价值最大化为前提。我相信我们社会会形成良性的机制，我们坚信复星的价值观和社会的价值观是一致的。我们的每一 个商业决定，都是创造价值，而不是毁灭价值。如果你明明这个决定是毁灭价值的决定，还要说让社会为我的决定而负责，这就是不对的。</p>
-<p>我另一个坚信的是，企业应该盈利，应该创造利润，企业不盈利没有生存和存在的必要。有社会意义而不盈利，那是社会公益机构做的事情。企业应该以盈利并为相关的利益者创造最大价值为目的。这是我们坚信的价值观。只要你要相信你做的每一个业务都是在创造价值，通过管理、投资、品牌在创造价值的话，这样的企业是有生命力的，即使有可能你的负债率会高一点或者会低一点，即使有时身体弱点，但那只是“感冒”，而不是“癌症”，但如果你失去价值观，失去基本面，失去企业文化，你可能得的就是癌症。所以我们保持企业的健康，并不是我们不会伤风感冒，并不是我们不会经受一些风浪，但是那不是“癌症”。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%83%AD%E5%B9%BF%E6%98%8C%E5%80%92%E4%B8%8B%EF%BC%8C%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB%E5%B4%A9%E5%A1%8C%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E8%B4%BF/?category=18271" rel="tag">行贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E6%94%BF%E7%AD%96%E4%BA%9A%E5%85%8B%E8%A5%BF/?category=18271" rel="tag">党的政策亚克西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E8%81%94/?category=18271" rel="tag">失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/421014/" target="cdt-mirror">【立此存照】雾霾再次带来正能量：戴口罩不觉丢脸是“进步”</a>
-</h2>
-<p><p>北京时间10月11日，再有官媒生硬地把北京近日出现的严重雾霾往“正能量”方向引导。该市8日启动首次重污染红色警报以来，同样的“努力”已经连续出现了三天，分别来自《环球时报》、央视新闻、《中青报》。</p>
-<blockquote><p>@新浪评论：<strong>【中青报：戴口罩不再觉得丢脸是进步】</strong>7年前，在北京戴口罩还是一件“可耻”的事情。2008年北京奥运会，美国几名运动员在下飞机时戴上了口罩。网民愤怒地指责他们这是以“下三滥的馊招”侮辱中国。而今天，就连天安门广场上的武警戴上口罩执勤，也没有谁会觉得这是在给国家丢脸。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%88%B4%E5%8F%A3%E7%BD%A92.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%88%B4%E5%8F%A3%E7%BD%A92.png" alt="戴口罩2" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/戴口罩2-451x1024.png 451w, http://chinadigitaltimes.net/chinese/files/2015/12/戴口罩2.png 603w" sizes="(max-width: 603px) 100vw, 603px"></a></p>
-<p>中国北京时间本周四（10月10日），<strong>@央视新闻 和@环球时报</strong> 曾发布了同样内容的两条微博，希望网民为天安门武警首次戴口罩执勤“点赞”：</p>
-<blockquote><p>【<strong>天安门武警首次戴口罩执勤 支持请点赞！</strong>】今日，在天安门广场执勤的武警战士们，首次在雾霾天佩戴起了口罩。8日开始，北京正式启动3年来首个重污染红色预警信号，而武警战士每天都要在室外执勤站岗，忠于职守。重污染天气下，守护民众安全的卫士们戴口罩执勤，同意就点赞吧！</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB.png" alt="央视新闻" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/央视新闻-300x219.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/央视新闻.png 603w" sizes="(max-width: 603px) 100vw, 603px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%82%B9%E8%B5%9E2.png"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%82%B9%E8%B5%9E2.png" alt="点赞2" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/点赞2-300x224.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/点赞2.png 606w" sizes="(max-width: 606px) 100vw, 606px"></a></p>
-<p>中国北京时间本周三（10月9日），《环时》头版头条：“首次拉响最高级别警报 <strong>被赞展现治理雾霾决心</strong>”——<strong>详见：《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%AF%E7%90%83%E7%9A%84%E9%80%BB%E8%BE%91%E8%A2%AB%E5%B0%B1%E8%BF%99%E4%B9%88%E8%A2%AB%E5%A4%A7%E5%AE%B6%E7%8E%A9%E5%9D%8F/">环球的神逻辑被大家“玩坏”了</a>》</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/a8ef5277jw1eytqx9371aj20go0m8tbl.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/a8ef5277jw1eytqx9371aj20go0m8tbl.jpg" alt="a8ef5277jw1eytqx9371aj20go0m8tbl" width="440" height="587" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/a8ef5277jw1eytqx9371aj20go0m8tbl-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2015/12/a8ef5277jw1eytqx9371aj20go0m8tbl.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2231302211" target="_blank">0陌上阡0</a>：<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">又是一个伟大的胜利。</p>
-<p>@藏符常山：好进步啊，因为PM2.5指数也进步了。</p>
-<p>@破墙上的一块砖：这逻辑思维真奇葩，过两天你吃屎都不奇怪了</p>
-<p>@艺术片导演：下三滥的是喉舌，戴口罩只是不想吸太多雾霾</p>
-<p>@亿值：这篇讽刺文章写的好。生动诠释了你国国人吹牛逼已经吹到了自我催眠不要碧莲睁眼说瞎话的程度</p>
-<p>@折返跑Diaulos：照中青报的逻辑，戴防毒面具乘公交上班不再觉得丢脸就是大进步了。</p>
-<p>@秋裤老湿：看了这篇文章说不出的怪异和恶心，不明白到底是要通过雾霾来表扬什么事。。。感觉就像 强奸犯作案时主动戴套，不是丢脸，而是安全意识的一种进步 一样。。。</p>
-<p><a href="http://weibo.com/5741673626" target="_blank">嫣语天涯</a>：屎能舔出肉的味道，也是一种能力。<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p>@大嘴说自己：只能说环境更恶劣了！连有金刚不坏之躯的中国平民都受不了这个恶劣环境了！</p>
-<p>@savio491：不是人民戴口罩给国家丢脸，是政府治理不好环境给人民丢脸。</p>
-<p>@一勺花椒油：天安门广场武警带口罩 被赞给祖国形象增光添彩！</p>
-<p><a href="http://weibo.com/yxlz" target="_blank">青衫磊落险峰行</a>：这也能舔？服了！真是无耻则无敌！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@黄学军1978：这篇评论学胡编的红色预警是进步吧？也是醉了</p>
-<p>@REX1527大人：是你妈的比哪里进步？再不治理好都得穿生化服了！</p>
-<p>@野火子N：这进步也太慢了点，戴个口罩用了七年，中华民族的百年复兴梦只能戴十几个口罩</p>
-<p>@大菇菇菇鸡: 呵呵，你国人总幻想着进步进步，其实就是从屎坑的一角扒到了另一角，吃到了更新鲜的屎。</p>
-<p>@草色連雲：把黑的说成红的，更是进步。</p>
-<p>@尔冬雪：呵呵呵呵呵呵呵呵呵呵 这是要用精神打到一切啊</p>
-<p>@lee船长：哭着哭着就习惯了</p>
-<p>@深圳陈鹏：被强奸了，默默的接受了，渐渐的爱上了</p>
-<p>@淋漓醉墨-落樽前：我们可以接受错误承认错误，但不能安于现状对错误视而不见不去纠正，戴口罩绝不是什么进步的事，知耻而后勇，没有羞耻感那什么去下决心治理环境，如果你觉得戴口罩是进步，那我送你一个防毒面具！</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-7%E5%B9%B4%E5%89%8D-%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%88%B4%E5%8F%A3%E7%BD%A9%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84/">精读党报 | 7年前 在北京戴口罩是可耻的</a></p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A4%A9%E4%B9%8B%E8%93%9D1.jpg"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A4%A9%E4%B9%8B%E8%93%9D1.jpg" alt="天之蓝" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/天之蓝1-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/天之蓝1.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a><br><em>（图片来自新浪微博）</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/421014/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B%E5%96%9C%E5%8A%9E/?category=18271" rel="tag">丧事喜办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -938,7 +877,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +887,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

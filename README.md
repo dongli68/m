@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C-2/" target="cdt-mirror">苹果日报｜浦志強今北京受審　龍應台臉書聲援</a>
@@ -35,6 +35,20 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%A2%E5%B3%B0%EF%BC%9A%E9%A9%AC%E4%BA%91%E4%B9%B0%E5%86%8D%E5%A4%9A%E5%96%89%E8%88%8C%E4%B9%9F%E4%B8%8D%E7%AE%A1%E7%94%A8-%E4%BB%A4%E4%BA%BA%E7%9C%8B/" target="cdt-mirror">苹果日报｜卢峰：马云买再多喉舌也不管用 令人看清真面目</a>
+</h2>
+<p><p>阿里巴巴集团正式宣布收购百年老报《南华早报》不让人意外，毕竟大马郭氏家族早已无心恋战，想找合适买家；阿里集团则正大力扩展网上网下传媒版图，花几亿美元收购一家有历史的传媒集团十分化算；借用俗一点的说法正是「姣婆遇着脂粉客」。老实说自上月传出有关消息后各方便已确信收购很快会成事。果然，才不过一个月《南早》这家香港历史最悠久的报纸就从亲中商人转到正牌红色商人手中，往下来更紧贴甚至配合北京政府的看法是大有可能的事。 </p>
+<p>    事实上在宣布收购《南华早报》后，阿里集团执行副主席蔡崇信立即发出了一封给读者的信，除了表示入主《南早》十分兴奋外，更指出「中国对世界稳定的作用已经太过重要，实在不应该只有单一论调来涵盖」，必须以多种观点了解中国。他明言，报纸要调整路线，又指西方传媒常用非常特定的角度看中国，而《南早》日后要聚焦中国。除了重视中国议题外，这位高层又指媒体过去对「阿里」不好的地方关注太多，很多集团内有趣的事都忽略了，他认为《南早》应该对阿里集团对商业的影响「更好奇」。这种还未正式入主就指指点点（绝不能算是温馨提示）的做法反映，所谓让专业编采人员自行作决定的承诺只是空话一番，阿里集团希望的是利用《南早》这个历史悠久的新闻平台为阿里说话，为中国涂脂抹粉，甚至想为中国提升软实力及争取话语权。</p>
+<p>    软实力需要有共认价值</p>
+<p>    对香港传媒生态来说，《南早》从亲中商人手上转入红色新贵已是不妙，新贵公开提出希望它调整做法达成政治任务更令人担心该报未来的报道及言论自由将受到严重的局限，甚至可能要扮演阿里及北京喉舌的角色。难怪香港记者协会等传媒组织及学者都忧虑今次收购将进一步削弱香港的新闻自由，收窄言论空间，令主流传媒更一面倒倾向北京。</p>
+<p>    另一方面，阿里或北京希望透过收购传媒提升中国的软实力及争取话语权则只是一厢情愿的幻想，不会也不可能成功。要建立西方特别是美国的强大软实力，硬件或言论平台只是其中一个环节，更重要的是拥有一套让不同国家、地区人士认同、赞赏、拥抱的价值、原则及理念，拥有一套让其他人可以分享的普世价值，让大家共同追求，例如尊重个人权利及尊严，坚持自由法治，敢于追寻及捍卫事实与真相等。有些国家地区即使一时未能、不愿落实这些价值，他们也不能不敢否定，只能找各种借口推搪。美国及西方在国际事务上的强大话语权及广泛影响力，靠的正是这些共认的价值与理念。</p>
+<p>    偏偏崛起的中国在价值、理念上完全交了白卷，不要说拿不出一套可以跟西方媲美、抗衡的价值观，并且跟世界的发展潮流背道而驰，越走越远。当全球社会透过互联网互联互通，互相联系，并促使公民社会更开放有力，令民众拥有更大的发言权时，中国却只懂筑起一道又一道防火墙，组成一支又一支「网上维稳部队」监视及控制网上言行，甚至连党内异议也容不下，要引入「妄议中央」之类的罪名对付敢在内部提出不同意见的党员。</p>
+<p>    当国际监管机构及金融市场越来越讲究透明度，讲究监管规范化及有规可循的时候，中国政府却来个暴力救市，肆意使用行政权力及命令扭曲市场行为，逼企业按官员任意作的指令办事；出现大量企业高管、主事人忽然「失联」的现象更教人完全失却信心。</p>
+<p>    喉舌多令人看清真面目</p>
+<p>    此外，当全球200个国家齐集巴黎召开气候</p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8F%97%E5%AE%A1/" target="cdt-mirror">BBC | 中国维权律师浦志强在北京受审</a>
 </h2>
@@ -239,7 +253,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%9C%A8/?category=18271" rel="tag">乔木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%88%91%E4%B8%8D%E7%9C%8B%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E5%A5%BD%E5%A4%9A%E5%B9%B4/" target="cdt-mirror">东网｜王药师：我不看《南华早报》好多年</a>
 </h2>
@@ -712,30 +726,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/421202/" target="cdt-mirror">央视新闻：美国人宁可枪毙钱学森也不要让他回国</a>
-</h2>
-<p><p><strong>【编者注】</strong>必须指出的是，在@央视新闻 微博收到的众多评论中，相信官方说辞的“钱学森为⎡爱国海归⎦”的占多数。但同时也有网民引用张纯如的《<a href="http://chinadigitaltimes.net/chinese/2015/12/421198/">中国飞弹之父——钱学森之谜</a>》中的内容予以反驳，指出钱学森是当时美国“麦卡锡主义”的受害者之一，受到了毫无根据的指控，且入籍申请被拒，后被递解回中国大陆。<strong>@央视新闻 受到的质疑并非针对钱学森在科学领域的巨大贡献</strong>，<strong>而是来自中国官方宣传中硬要将其包装成近乎完人的作风</strong>。</p>
-<blockquote><p><strong><a href="http://weibo.com/2656274875/D7S8u8XQO">@央视新闻</a></strong>：#那年今日#【钱学森：我的归宿在中国】1911年的今天，钱学森出生。他是中国航天事业的奠基人，“两弹一星”元勋。美国人说他抵得上5个师，宁可枪毙也不让回国。软禁5年，他用香烟纸发出求助信，周总理过问才得以脱身。五年归国路，十年两弹成。钱老对科学的热忱和对国家的热爱，始终令人敬佩！怀念！</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%92%B1%E5%AD%A6%E6%A3%AE1.png" rel="attachment wp-att-421203"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%92%B1%E5%AD%A6%E6%A3%AE1.png" alt="钱学森1" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/钱学森1-484x1024.png 484w, http://chinadigitaltimes.net/chinese/files/2015/12/钱学森1.png 603w" sizes="(max-width: 603px) 100vw, 603px"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<blockquote><p><a href="http://weibo.com/5575009902/D7SQjsGqz">@圆排骨来了</a>: 这是美国移民局当年给钱学森的通知。他失去了工作资格。美国当局最初是要递解他。释放后，他上诉，不愿离开。五年后，美国法庭否决他的上诉，然后当局又主动取消递解令，允许他自愿离境。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0065iaKygw1eyvg0cqamrj30sg0lcacq.jpg" rel="attachment wp-att-421204"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0065iaKygw1eyvg0cqamrj30sg0lcacq.jpg" alt="0065iaKygw1eyvg0cqamrj30sg0lcacq" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/0065iaKygw1eyvg0cqamrj30sg0lcacq-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/0065iaKygw1eyvg0cqamrj30sg0lcacq-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/0065iaKygw1eyvg0cqamrj30sg0lcacq.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p></blockquote>
-<p>@行健的小屋_1：继续虚构事迹塑造“爱国英雄”的典范，可是真相毕竟是要浮出水面的。一个被麦肯锡主义迫害而被美国移民局要驱逐出境的，而又被美国政府搁置几年的、自己想留在美国洗刷罪名讨回清白的人，被G裆就这么迷迷糊糊地打造成了冲破重重阻拦、历经千辛万苦、一心回到祖国建设祖国的爱国科学家！</p>
-<p>@飞鸟啊飞鸟我爱你：关于钱的宣传还是有漏洞的。一，原子弹不是钱研究出来的，美国那时有大把比钱好的核科学家，美国没必要留钱。二，如果留钱是为了打压中国的核科学，美可以直接杀了钱或者按个罪名判他十年二十年的。第三，如果说迫于中国压力不敢杀钱，只能放钱更是说不通，中国都能给美国压力了，还需要研究原子弹吗？</p>
-<p>@清风泛舟-：以前我一直以为《半夜鸡叫》是真事儿，写的那么细腻，后来才知道是纯编造的，坏人周扒皮完全是作者臆想虚拟的。所以，你们明白我的意思吧…</p>
-<p>@青春如歌6886：从力学的角度推导出亩产万斤的可能</p>
-<p>@心镜一尘埃：八九十年代一大批能人异士发了家，就有张宝胜，严新，李洪志等代表人物，严新张宝胜受到了国家重要部门的重用，李洪志就不用说了，当时全国各地掀起了气功热，各种传福音宣传特异功能治病，就像今天的广场舞，到处是练气功的…钱大科学家功不可没</p>
-<p>@留校博士梁鑫泛：昨天金正恩说自己有了氢弹，想必背后也有这样的老艺术家在默默奉献，其小传没准儿会照抄原博，将文中的美国换成中国即可；或许还有穆斯林科学家心向伊斯兰国，怀揣了对科学的热枕和对国家的热爱，想方设法的要去建设更强大的IS，制造先进武器，论证亩产万斤吧；太阳底下无新事，流氓大抵很一致。</p>
-<p>@孫海峯：当年回国的故事，有政治宣传包装的成份。不过钱在美国做火箭研发也确实很牛，是有权接触军方秘密档案的上校。后来因为麦卡锡主义横行一时，钱被边缘化甚至受到打击迫害，愤而离美投共被树成爱国海归典型。</p>
-<p>@作家岳南：他不但制造军火，更牛的是制造一亩地产几十万斤和无数个气功大师。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/421202/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%BD%92/?category=18271" rel="tag">海归</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E5%AD%A6%E6%A3%AE/?category=18271" rel="tag">钱学森</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%94%E5%8A%9F%E7%83%AD/?category=18271" rel="tag">气功热</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BE%E5%8D%AB%E6%98%9F/?category=18271" rel="tag">放卫星</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -747,7 +737,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -757,5 +747,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

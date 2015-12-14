@@ -21,9 +21,99 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%BE%81%E6%8A%BC%E8%BF%91600%E5%A4%A9%E5%90%8E%E5%8F%97%E5%AE%A1%E7%BB%93%E6%9D%9F%E6%9C%AA%E8%AE%A4%E7%BD%AA/" target="cdt-mirror">端传媒 | 浦志强羁押近600天后受审结束未认罪</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-1024x683.jpg" alt="中国维权律师浦志强案12月14日上午9点在北京市第二中级法院开庭审理，未当庭宣判。摄 : Ng Han Guan/AP" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43.jpg 1080w" sizes="(max-width: 550px) 100vw, 550px"><p>中国维权律师浦志强案12月14日上午9点在北京市第二中级法院开庭审理，未当庭宣判。摄 : Ng Han Guan/AP</p></div>
+<p>中国知名维权律师浦志强被控煽动民族仇恨和寻衅滋事一案，于12月14日上午9点在北京市第二中级法院一审公开审理，但除浦志强的妻子孟群外，其余亲友皆未获准进入旁听。庭审约在中午结束，浦志强最后陈述不长，没有认罪，法庭称将择期宣判。</p>
+<p>此案之前曾被三次延期侦查、两次退回重新侦查和两次延长审理期限。当事人浦志强自去年5月6日被警方带走后，至今已被羁押长达1年7个多月。</p>
+<p>据浦志强的亲友转述孟群消息称，浦志强头发花白，瘦了很多，不过思维敏捷，语言锋利，精神状态很好。庭审结束后孟群对浦志强说，“朋友们都在外面，我们都支持你。”</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-1024x683.jpg" alt="为表达声援，中国网民在一个微信群中将头像都换成了浦志强。" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a.jpg 1080w" sizes="(max-width: 550px) 100vw, 550px"><p>为表达声援，中国网民在一个微信群中将头像都换成了浦志强。</p></div>
+<p>14日上午，多名赶赴现场的人士透露，开庭前已有多家媒体在门口守候，其中包括不少国外媒体。法院门口拉起了警戒线，有警察在外面盘查身份证和记者证。不少身著便衣、面戴口罩的安保人员在现场协助维护秩序，并驱赶围观路人。有外媒记者被安保人员肢体冲撞，美国及欧盟使馆官员在法庭外发表现场声明时亦被推搡干扰。</p>
+<blockquote><p>我们是来为群众服务的。</p>
+<footer><cite>现场安保人员胸前或袖口都贴有“笑脸”贴纸，当被问及为何要贴时他们回答</cite>
+</footer></blockquote>
+<p>浦志强的代理律师尚宝军透露，在12月8日召开的庭前会议上，检方提出控罪主要证据是他在2011至2014年间发布的微博，不过已从今年5月用来控罪的30条微博减少到只剩7条，内容涉及批评中国官员、人大代表、政府，以及评价新疆政策及去年3月昆明火车站发生的暴徒持刀袭击路人事件。</p>
+<p>尚宝军表示，浦志强至今仍认为自己是无罪的，之所以被控告主要是因为自己有话就直说的个性。</p>
+<p>知名媒体人何三畏在他的博客撰文分析，当局已经透过浦志强案达成了“让更多的人闭嘴”的预期目的，且也已经穷尽了所有法律程序，但定罪依据只有600多字的微博，因而很有可能会择机放人。</p>
+<blockquote><p>他（浦志强）承认他的有些言论或许有点过火，有嘲讽成分，甚至无理不敬，他愿意道歉，但他不认为他犯了任何法律。</p>
+<footer><cite>浦志强的律师尚宝军</cite>
+</footer></blockquote>
+<footer><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-1024x683.jpg" alt="便衣警察拉走一名到法院声援的浦志强支持者。 摄:Kim Kyung-Hoon/REUTERS" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06.jpg 1080w" sizes="(max-width: 550px) 100vw, 550px"><p>便衣警察拉走一名到法院声援的浦志强支持者。 摄:Kim Kyung-Hoon/REUTERS</p></div>
+<p>浦志强出生于1965年1月，河北唐山人，被拘留前曾是北京华一律师事务所合伙人。他1986年毕业于南开大学历史系，1988年又考入中国政法大学攻读法学硕士学位。1989年5月13日，他与其他12名同学成为政法大学首批在天安门广场绝食抗议的学生。</p>
+<p>浦志强于1991年获得法学硕士的学位，1993年取得了经济师的职称，1995年获得律师执业资格，并自1997年起开始执业。2009年起，他曾代理过谭作人案、任建宇劳教案、艾未未税务案、唐慧劳教案等多个在中国产生巨大社会影响的维权案件，成为中国最著名的维权律师之一。</p>
+<p>2014年5月6日，浦志强被北京市公安局海淀分局刑事拘留，罪名是“寻衅滋事”。3天前，他曾在朋友家中与其他12名学者一同举行了“六四纪念研讨会”，当时与会者多人都陆续被带走。</p>
+<p>6月13日，即依中国《刑事诉讼法》规定对“流窜作案、多次作案、结伙作案的重大嫌疑分子”批捕期限（37天）的最后一天，检察机关批准了北京市公安局以涉嫌“寻衅滋事罪”、“非法获取公民个人信息罪”对浦志强执行逮捕。</p>
+<p>浦志强当时的代理律师张思之于7月19日接受《亚洲周刊》采访时称，当局拿走了浦志强律师事务所十年来的全部账本，企图在经济与政治问题上寻找定罪依据。同月，张思之律师接受《明报》专访时表示，当局也仔细翻查浦志强多年的大量日记和微博留言，猜测他们可能会从浦志强过去的言论中寻找把柄。</p>
+<p>8月13日，浦志强案侦查羁押期满，依据中国《刑事诉讼法》第154条和156条中对于“案情复杂”和“重大复杂案件”的相关规定，侦查期被延长三个月。</p>
+<p>11月13日，侦查期限届满，浦志强被控“煽动分裂国家罪”和“煽动民族仇恨、民族歧视罪”，案件也被移交北京市检察院二分院审查起诉。</p>
+<p>12月13日，检察机关在没有说明具体理由的情况下，将浦志强案退回公安机关补充侦查，期限为一个月。2015年1月13日，退侦期满，卷宗移交回检察院。2月13日，第二次审查起诉期限届满，检察院在延长15天期限后，第二次退回公安机关再补充侦查一个月（中国《刑事诉讼法》规定补充侦查两次为限）。待案件再次移交回检察院，并又经过一个月及延迟15天的审查期后，正式起诉前的所有法律程序上的时限都已经耗尽，而距浦志强被捕已超过一年。</p>
+<p>今年5月15日，北京市人民检察院第二分院以浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”两项指控向北京市第二中级法院（下称“北京市二中院”）提起公诉。起诉书称：“被告人浦志强利用信息网络，先后多次发布微博，煽动民族仇恨，情节严重；公然辱骂他人，情节恶劣，破坏社会秩序，依法应当追究其刑事责任。”</p>
+<p>检察院起诉后，北京市二中院曾两次上报申请延长审理期限，并分别于8月18日和11月18日获得北京市高级法院和中国最高法院的批准，审理期限共被延长达6个月，达到了中国法定审理程序的最长期限。</p>
+</footer><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%BE%81%E6%8A%BC%E8%BF%91600%E5%A4%A9%E5%90%8E%E5%8F%97%E5%AE%A1%E7%BB%93%E6%9D%9F%E6%9C%AA%E8%AE%A4%E7%BD%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E6%98%AF%E6%88%91/" target="cdt-mirror">【异闻观止】六神磊磊：社会主义核心价值观是我创作出发点</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4640ce2293df8d7-1.jpg" alt="4640ce2293df8d7" width="345" height="607"><p>六神磊磊</p></div>
+<p>导语：12月12日，《新周刊》杂志主办的“2015中国年度新锐榜”将“推委会特别大奖”给了“微信公众号”，评价其为最多元趣味的养成所、最大的媒体实验场和承载创业雄心的最低成本平台。因自开公号写“读金庸”而成名的六神磊磊，作为代表之一，结果了这樽奖杯。</p>
+<p>凤凰文化与其进行了独家对话，了解了一个文字之外真实的六神磊磊。他为人和为文一样好玩，却并不显得油滑精明，相反有一种强烈的平凡气。曾经供职新华社的他，做过记者，他说社会主义核心价值观一直是自己一切创作的出发点，开公号写金庸完全是随意而为。随着名气越来越大，他的时间变得越来越不够用，于是最近他辞去了工作，成为一个全职的自由写作者。但他说自己从小就缺乏计划，不知道自己以后会干什么，所以只能是先写着，把金老爷子写不行了再说。</p>
+<p>他说只要发生一些事情的时候，别人会想到看看小磊怎么说，他就很开心了。</p>
+<p><strong>自媒体没有改变文字好坏的标准</strong></p>
+<p>凤凰文化：你的写作风格是怎么形成的？是一开始就是这样，还是开始做公众号，这种风格会比较讨喜？</p>
+<p>六神磊磊：原来就是这样的。怎么回事呢？以前我们新华社让写读书笔记，每个季度都要写，写了之后挂在墙上，我写得还挺认真的，每篇我都这么写，但写了之后每季度要换新的，也有秘书就把笔记拿下来扔了，我觉得挺可惜，自己写了这么多感悟，这么主旋律又符合社会价值观的东西就这样没有了，特别可惜，然后就发到网上，一直这样。</p>
+<p>凤凰文化：你在微信时代之前的，比如说论坛、博客这些，有尝试过吗？</p>
+<p>六神磊磊：没有，都是自己拿着玩，跟朋友聊天的。</p>
+<p>凤凰文化：没有试图在网上写文章？</p>
+<p>六神磊磊：没有，根本想都没想过这个事。我也是记者编辑，给单位写稿子累得不行了，回家哪想往网上去写，网上去写不给我钱我不干，何必呢，我给单位写多好，根本就没想。</p>
+<p>凤凰文化：新媒体以及它的传播规律对内容呈现方式的影响，你认为对于文字创作也好阅读也好，是有所损害还是有所启发的？</p>
+<p>六神磊磊：我觉得没有这么严重，我们经常听说一些词叫浅阅读、碎片化阅读，没有这么严重。比如说经常有人说自媒体上的东西太长不好，太长了没有人看，不能超过两千字，我自己经常会写五千字的东西，五千字长到连以前我们单位的报纸都觉得版面放不下，但是放在自媒体里最后阅读数还不错。所以我觉得自媒体没有改变文字好坏的标准，没有那么严重，而且一个很小的消息，放在今天的自媒体上肯定会做出很好玩的来。</p>
+<p><strong>社会主义核心价值观是我一切创作的出发点</strong></p>
+<p>凤凰文化：现在在干嘛？</p>
+<p>六神磊磊：我刚辞职了，但是手续还没办完。</p>
+<p>凤凰文化：为什么？是觉得已经忙不过来了吗？</p>
+<p>六神磊磊：不能兼顾了，没时间兼顾了。</p>
+<p>凤凰文化：你会感到“入不敷出”吗？自己积累的东西已经不断地往外掏，同时时间被更多的占用了，没有办法去补充大量营养。</p>
+<p>六神磊磊：这个很简单，躲起来不写嘛，现在倒还没有关上门看书。</p>
+<p>凤凰文化：你会觉得自己很分裂吗？因为你原本的工作是在新华社，而从你的文字、你的思路，看得出来你完全是另外一种人。</p>
+<p>六神磊磊：第一，我的特点是党性强，我是一个多年的老党员，社会主义核心价值观是我一切创作的出发点。第二，也不存在分裂，因为给单位写作和自己写作不一样，成年人这个能力还是有的，第三个就是给单位写东西的时候也做到我手写我心，不说违心的话。</p>
+<p><strong>先把金老爷子写不行了再说</strong></p>
+<p>凤凰文化：那你现在就是算赋闲了，时间怎么安排？</p>
+<p>六神磊磊：在家里看书吧，还在写一本书，把书写好。</p>
+<p>凤凰文化：每天会有多少时间拿来阅读？</p>
+<p>六神磊磊：其实我读书不多，这是真心话，但我喜欢读，比如我一个人吃饭的时候，边上不看看有字的东西就会很难受，当没有任何东西可以读的时候，我就把能找到的说明书、各种东西拆开来读。</p>
+<p>凤凰文化：你会对自己的阅读有一个目的性的选择吗？</p>
+<p>六神磊磊：过去没有，过去一直没有，后来有意识地去看一点比自己的知识理解能力更高一点的，觉得这样才能让自己进步，总去看一些自己觉得很舒适很顺畅的书很难进步。</p>
+<p>凤凰文化：除了读金庸的东西，你其实也会写一些评论的东西，但是你和别人写评论不一样，就是你很多还是会拿金庸东西去套，这个是满足大家的需求，还是说金庸的这些东西已经成了你某种意义上的工具了？</p>
+<p>六神磊磊：是这样的，说起来挺简单的，我这个号刚开始开的时候叫“读金庸”，本来就想搞成一个金庸小百科的东西。但后来因为都是媒体人，看见人家评，看见热点闲不住，就想说，可我又必须在自己的号里发，那怎么办呢，就往金庸上面挂，一挂二挂就挂成现在这个样子了。</p>
+<p>凤凰文化：自己会对这种方式有所厌烦吗？</p>
+<p>六神磊磊：没有，我觉得挺好玩的，乐在其中。</p>
+<p>凤凰文化：不会想摆脱吗？因为你的名字已经没有办法和金庸分开了。</p>
+<p>六神磊磊：乐在其中。</p>
+<p>凤凰文化：那除了读金庸，以后还会开发更多的写作题材吗？另外，你对自己的文字有一种期待吗？</p>
+<p>六神磊磊：今天叫新锐榜，刚才说过一切过时的东西都曾新锐过，我现在的想法是写到当发生一些事情的时候，别人会想到看看小磊怎么说，我就很开心了，没有太多想以后怎么办，我也是没有什么计划的人，我觉得关于金庸就够写很久很久，先把金老爷子写不行了再说，再看再写其他的。</p>
+<p>我现在还在写一本书是关于唐诗的，也不是说想留存什么价值，我只是想做一个唐诗的普及者，把唐诗里面一些很好玩很有意思的东西介绍给大家，告诉大家这个东西真的很好玩很美，你们没有注意到。</p>
+<p>凤凰文化：所以以后就是做一个职业的自由写作者了，还是说可能会再有另外工作的打算？</p>
+<p>六神磊磊：以后想得比较少，我只知道明天干什么，后天就不知道要干什么了。</p>
+<p>凤凰文化：从小就是这样一个没有计划的人吗？</p>
+<p>六神磊磊：干到哪算到哪。</p>
+<p>凤凰文化：我觉得这种心态也挺好的。</p>
+<p>六神磊磊：怎么办呢，因为世界变化太快。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E6%98%AF%E6%88%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E4%BE%A0/?category=18271" rel="tag">武侠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%BA%B8/?category=18271" rel="tag">金庸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%AA%92%E4%BD%93/?category=18271" rel="tag">自媒体</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C-2/" target="cdt-mirror">苹果日报｜浦志強今北京受審　龍應台臉書聲援</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/640_ba50a339b031ac04afa5ef620495b493.jpg" alt="640_ba50a339b031ac04afa5ef620495b493" width="550" height="429" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/640_ba50a339b031ac04afa5ef620495b493-300x234.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/640_ba50a339b031ac04afa5ef620495b493.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><br>
@@ -34,7 +124,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94%E5%8F%B0/?category=18271" rel="tag">龙应台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%B2%BE%E9%80%89/?category=18271" rel="tag">浦志强精选</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%A2%E5%B3%B0%EF%BC%9A%E9%A9%AC%E4%BA%91%E4%B9%B0%E5%86%8D%E5%A4%9A%E5%96%89%E8%88%8C%E4%B9%9F%E4%B8%8D%E7%AE%A1%E7%94%A8-%E4%BB%A4%E4%BA%BA%E7%9C%8B/" target="cdt-mirror">苹果日报｜卢峰：马云买再多喉舌也不管用 令人看清真面目</a>
 </h2>
@@ -604,128 +694,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A9%B3%E5%91%A8%E5%B0%8F%E5%B9%B3%EF%BC%8C%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE%E6%8E%A5%E8%BF%9152%E5%B9%B4%E7%9A%84%E4%BC%A6%E6%95%A6%E6%98%AF%E8%B0%A3%E8%A8%80%E5%90%97%EF%BC%9F/" target="cdt-mirror">彭大维：驳周小平，北京雾霾接近52年的伦敦是谣言吗？</a>
-</h2>
-<p><p>彭大维 2015.12.11 发表于零转基因</p>
-<p>​http://www.0zjy.org/viewthread.php?tid=126956&extra=page=1</p>
-<p>文革时期有句著名的口号“千万不要忘记阶级斗争”，自诩为文革精神的继承者的毛左大佬，已悄悄地将矛头由“阶级敌人”转向“民族敌人”-美国和汉奸，但是斗争的弦还是绷得紧。</p>
-<p>也不知孔庆东用他的哪只眼，居然从雾霾中看出美国的阴谋：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHlia2mQ00.jpg" rel="attachment wp-att-421311"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHlia2mQ00.jpg" alt="001FRbw1zy6XHlia2mQ00" width="440" height="256" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHlia2mQ00-300x175.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHlia2mQ00.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br>
-​<br>
-不爱文革的正能量周小平，今天从另一个角度发出警告《不要因为雾霾 而葬送了明天的一切！》</p>
-<p>另一方面，中国、美国、以色列的科学家们做了联合调研，发布的结论是《雾霾缩短中国北方人五年半寿命》。</p>
-<p>为延长患病亲人的生命，哪怕只延长5.5个月，绝大多数中国人都甘愿倾家荡产！而报告说北方人人均损失5.5年！</p>
-<p>“雾霾”的危害程度必须搞清！我们得认真分析周小平等说的话，并且记住他们说了什么，千万不要忘记……</p>
-<p>周小平开篇便辟谣：“前几天我看到一篇文章在微信流传，大约是说当年伦敦PM2.5达到1600时，上万人因此死去。而今北京的PM2.5峰值也突破了1600，因此中国人命在旦夕。但，实际上这却是一则彻彻底底的谣言，pm2.5是1977年才确立的标准和概念，谁也无法乘坐时光机回到1952年去测量伦敦当年的PM2.5。”。</p>
-<p>我搜索了一下，伦敦大雾事件中PM2.5达1600的说法最早好像出现于“加拿大华人网”2年前的一篇文章《60年前伦敦旧照VS今日北京 空气污染谁更糟》，该文错把烟尘值当成pm2.5的值，把整体当成部分，进而把伦敦的pm2.5值夸大了，反把北京的雾霾危机衬托轻了。</p>
-<p>财新网发文《京城雾霾史上罕见 浓度逼近1952年伦敦烟雾事件》，写道： “美国加州大学洛杉矶分校清洁空气中心副主任朱怡芳告诉财新记者，伦敦大雾那阵 ‘没有PM2.5的数据，有的是Smoke（烟尘）的数据，在那五天当中，烟尘的峰值为1至2毫克/立方米（1000-2000微克/立方米）。考虑到 PM2.5的监测数值要比烟尘（因为烟尘包括大颗粒物）低一些，（PM2.5浓度1000微克／立方米与伦敦烟雾事件中空气颗粒物浓度水平）应该是相当的。’”</p>
-<p>该文除了说北京的pm2.5值接近1000，还提到11月“沈阳市PM2.5均值当时一度达到1155微克/立方米，局地一度突破1400微克/立方米。”，沈阳的pm2.5浓度该超过1952的伦敦了吧？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHuCP50g6c.jpg" rel="attachment wp-att-421310"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHuCP50g6c.jpg" alt="001FRbw1zy6XHuCP50g6c" width="428" height="475" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHuCP50g6c-270x300.jpg 270w, http://chinadigitaltimes.net/chinese/files/2015/12/001FRbw1zy6XHuCP50g6c.jpg 428w" sizes="(max-width: 428px) 100vw, 428px"></a><br>
-图片网址：http://blog.sina.com.cn/s/blog_695ad1110100lh6g.html<br>
-​</p>
-<p>看周小平说别人造谣是很有喜感的事。在周小平跃上龙门参加文艺座谈会前，我就发文披露，他写的“江姐被折磨至死”，“下体都被‘木驴’磨烂化脓”系发明家周小平的“原创”，这篇文章周小平的“原创点”也颇多。</p>
-<p>周小平说：“越是靠近南北极或越是接近赤道的国家雾霾发生率就越低。”，若真如此，占着不冷不热好地方的中国也活该倒点霉，但他该文后面又提到；“全世界25个污染最严重的城市有13个在印度”。</p>
-<p>周小平还说:“从2006年到2015年，中国PM2.5平均值，（注意，是一年的平均值）连续9年下跌”。而北大的文章《中国 2001—2013 年 PM2.5重污染的历史变化与健康影响的经济损失评估》【1】称：“2013 年是中国 PM2.5重污染及其健康影响、健康损失最为严重的年份。2013 年 PM2.5重污染的发生比例(天数)为 6.1%,  是 2001 年以来发生比例最高的年份;  2013 年因 PM2.5重污染带来的过早死亡总数达 65355 例,  相当于 2001—2013 年期间过早死亡总数的 31%;  而 2013 年相应的健康损失为 281 亿元,  相当于 2001—2013 年期间健康损失总和的 54%。”</p>
-<p>该文最奇异的“原创”是：“中国的雾霾问题……绝对绝对绝对不能怪罪与中国工业。”，中央有三个自信，他就整出三个”绝对’，绝对不怪工业那怪罪谁呢？脑筋急转弯，想出来没？</p>
-<p>怪雾呀！“北京现在面临的雾霾，只在冬天发生的最大原因就是因为，它其中包含的水汽更为充分，干霾充分较之要少得多。”这个病句的意思似乎是：北京的雾霾中雾多霾少，没啥大事。其实pm2.5测量值中是不含水分的，全是周小平所谓“干霾”-细颗粒物的含量。</p>
-<p>曾亵渎江姐的周小平，又来品评美女支持人柴静。</p>
-<p>他说：“主持人煽情地讲了她小女儿得肺部肿瘤的故事，也拿出了中国每年新增肺癌患者是西方发达国家3.8倍的数据，引得全国人民震惊惶恐不已。但那个主持人却是用真实数据向中国网民撒了一个弥天大谎。”</p>
-<p>虽然视频《穹顶之下》被封禁，其解说词全文网上有很多，从解说词中，甚至在整个互联网中搜索“3.8”+“肺癌”+“穹顶之下”，都找不出这句“中国每年新增肺癌患者是西方发达国家3.8倍”与柴静的关联，周小平后面的批判也就无的放矢了。</p>
-<p>柴静说过：“过去30年来，我国的肺癌死亡率上升了465%”，而周小平引经据典说；“中国人患癌症的几率比起西方发达国家是明显偏低的。”而在3月份我就写了篇《五毛拿旧数据攻柴静，3年前中国肺癌死亡率进世界前6》【2】</p>
-<p>周小平还故意颠倒了2015年出品的《穹顶之下》与2010年柴静采访院士丁仲礼视频的时间先后。</p>
-<p>他文中的下面这段对话加了引号，看起来好像是原话，但是在柴静采访院士丁仲礼视频中【3】找不到，如同在他文章以外，找不到江姐下体被木驴磨烂。</p>
-<p>她表示：“大气是人类共有的财富，因此中国不应该多排放污染物，所以应该和欧洲国家拥有同样的大气污染物排放空间。”。然而她的这种表态却遭到了中国科学院丁院长的反驳。丁院长愤慨地回应：“…… 中国有13亿人，摩纳哥只有几百万人，如果中国和摩纳哥享受一个排放空间的话，那么13亿中国人怎么活下去？”然而那个雾霾纪录片的主持人却还继续厚颜地说到：“不管多少人，按国家为标准来限定排放空间是国际惯例啊。”</p>
-<p>周小平不但污蔑自费拍公益片，耗资百万的柴静，还抄《世界力量—非洲七雄之南非》，并添油加醋地说曼德拉为环保毁了南非工业。</p>
-<p>“​在90年代，南非曾经是发达国家，工业十分发达，人均寿命高，收入好，治安稳定，医疗水平好，世界上第一列心脏移植手术就是在南非完成的。我们的课本上赫然写着：‘南非，发达国家’。然而不到二十年的时间里，贫穷，祸乱已经向瘟疫一样缠上了这个国家。”</p>
-<p>种族隔离的旧南非被周小平写成天堂，而黑人上后新南非​则被描绘得一团黑。</p>
-<p>其实“新南非成立之前的 20 年，即1974~1993 年种族隔离的最后时期，南非国民生产总值年均增速仅为1.85%,而新南非成立后的近20 年，即1994~2012年政治变革后的近 20年，南非国民生产总值年均增速提升到 :3.25%。“【4】</p>
-<p>​周小平说南非的​“GDP当中已经<strong>不再有一分钱</strong>是属于南非本国人民的”，而腾讯公司股权四成半属于南非公司，参股腾讯的MIH还参股很多中国媒体。</p>
-<p>与中国一样， 南非被列入金砖五国，但该国重视环境保护，在生物种类数量上, 面积只有 122 万平方公里的南非竟排名世界第二。【5】周小平说南非”依然饱受雾霾“却因贫困而“无暇顾及”。南非三面环海，好望角风大浪急，该国能有严重的雾霾现象吗？</p>
-<p>最后周小平说：“有人把雾霾的原因归咎于中国的“钢产量””是“利用舆论让中国走向自杀之路的绞杀战”。这话要在理，那几乎所有真心讨论雾霾的人都能被打成汉奸。周小平还说，二战时中、日钢产量1:10，中国挨日本揍；日、美的钢产量也是1:10，所以日本挨美国揍，而现在美、中钢产量也是1:10……这前景太美好了吧，自干五们，你们是不是都憋不住，要射了。</p>
-<p>慢着，那为啥是美国军舰进中国岛礁12海里以内，而不是中国到美国海岸撩闲？海湾战争中，美军战机对撤退途中的萨达姆的部队发动大屠杀，结果每隔50米就有一堆冒烟的车辆残骸，排下来竟达36公里！<strong>6号公路因此被称为：“死亡公路”。</strong>是天上的飞机钢铁多，还是地面的装甲部队钢铁多？</p>
-<p>在后工业时代拿钢铁产量衡量国防实力，如同在后农业时代，用战马数量衡量军力一样愚不可及。</p>
-<p>周小平若真想强国也很简单，只要他安于养家糊口，哪怕是办黄网，编又黄又暴力的SM故事，只要别牵扯女烈士，别颠倒黑白误导人民就功德无量了。</p>
-<p>参考文献及网址：</p>
-<p>【1】​穆泉, 张世秋.中国 2001—2013 年 PM2.5重污染的历史变化与健康影响的经济损失评估.北京大学学报(自然科学版),2015,07<br>
-【2】​http://blog.sina.com.cn/s/blog_5b78b8b50102vj7a.html<br>
-【3】​文字版网址：http://www.szhgh.com/Article/news/politics/2015-03-03/77592.html<br>
-【4】​姚桂梅.南非经济发展的成就与挑战.学海,2014,05<br>
-【5】南非环保​.小星星,2007,06</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A9%B3%E5%91%A8%E5%B0%8F%E5%B9%B3%EF%BC%8C%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE%E6%8E%A5%E8%BF%9152%E5%B9%B4%E7%9A%84%E4%BC%A6%E6%95%A6%E6%98%AF%E8%B0%A3%E8%A8%80%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%BC%E5%BE%B7%E6%8B%89/?category=18271" rel="tag">曼德拉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B4%E9%9D%99/?category=18271" rel="tag">柴静</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8D%E6%9D%82%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">复杂中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%A1%E7%94%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">御用五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E9%B1%BC%E4%BE%AF/?category=18271" rel="tag">长鱼侯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E9%9A%94%E7%A6%BB/?category=18271" rel="tag">种族隔离</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%96%E6%98%9F%E4%BA%BA%E4%BC%9A%E6%B0%94%E5%8A%9F/" target="cdt-mirror">大象公会 ｜中国的外星人会气功</a>
-</h2>
-<p><blockquote><p>微信公号：大象公会／ID：<span>idxgh2013</span></p></blockquote>
-<p><strong>外星人在西方动辄绑架、人体实验甚至性侵，在中国却很少暴力犯罪，有些甚至非常认同中国的和谐社会理念。</strong></p>
-<p><em>文｜叶鹤洲</em></p>
-<p>不明飞行物（UFO）是世界范围内最著名的神秘现象之一，虽然全球各地据称是外星人驾驶的 UFO 来自宇宙不同角落，但至少降落在中国的外星人都是天然的气功大师——据中国 UFO 研究者们的经典说法，外星人的超能力与气功大师的超能力性质相同。</p>
-<p>2015 年 4 月，世界华人 UFO 联合会决定成立世界华人科学研究所，首批确定的重点课题就包括大量人体科学研究，目标是研究接受外星信息、说外星语、利用外星信息为人治病、作画等现象。</p>
-<p><strong>凭什么中国就没有 UFO？</strong></p>
-<p>1965-1990 年间出生的中国男性，几乎没有人不曾在青少年时期读过《飞碟探索》，美国的 UFO 怀疑论者承认，在 20 世纪末，中国当时是全世界 UFO 目击事件和 UFO 研究最为热络的地区。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%A3%9E%E7%A2%9F%E6%8E%A2%E7%B4%A2.jpg" rel="attachment wp-att-421294"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%A3%9E%E7%A2%9F%E6%8E%A2%E7%B4%A2.jpg" alt="飞碟探索" width="440" height="440" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/飞碟探索-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/飞碟探索-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/飞碟探索-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/飞碟探索-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/飞碟探索.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><span><strong>▍《飞碟探索》杂志的典型内容</strong></span></p>
-<p>不过，改革开放前，中国与其他社会主义国家一样，长期与 UFO 绝缘。1978 年11 月，《人民日报》与《科学画报》分别刊登了介绍西方 UFO 之谜的文章，强烈冲击了刚打开国门的中国人，中国的飞碟热由此兴起。</p>
-<p>充斥着飞船、地外文明等高端词汇的 UFO 被当成现代科学前沿问题。1980 年末举行的科学学、人才学、未来学大型学术讨论会上，曾任毛泽东西语翻译的外交官孙式立建议中国应大力研究 UFO 问题。</p>
-<p>来自西方的飞碟冲击甚至引起了民族主义情绪。1980 年 6 月 5 日的《北京晚报》出现了《“飞碟”崇洋吗？》这样愤恨的标题，质问 UFO 为什么只出现在外国。</p>
-<p>不过，随着国门开放，UFO 大批光顾中国。1979 年起，UFO 目击事件呈指数倍增长。不但云南科协创办的科普读物《奥秘》专门辟出大量版面给飞碟，《航空知识》和《光明日报》也大量刊登飞碟目击者来信。中国人也开始频繁被外星人绑架，甚至还出现了被强奸案例，而且与西方一样，很多被强奸者是男性。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/UFO.jpg" rel="attachment wp-att-421293"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/UFO.jpg" alt="UFO" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/UFO-300x263.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/UFO.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><span><strong>▍1987 年 8 月 27 日，华东地区出现了范围较广的螺旋形 UFO 目击事件。这其实是日本发射的一枚运载火箭抛弃的二级推进器在抛洒残余燃料</strong></span></p>
-<p>无论在物质基础还是理论储备，起步较晚的中国 UFO 爱好者都无法与手持天文望远镜的外国研究者相比。但借助气功和传统文化这两大法宝，中国 UFO 研究成功实现弯道超车。</p>
-<p>1970 年代末，飞碟热兴起的同时，由“耳朵识字”引发的特异功能与气功热潮席卷全国。在渴望延年益寿的老干部们支持下，特异功能和气功很快也成为科学前沿问题。由于 UFO 在现代科学体系中找不到位置，它随即与同样找不到位置的气功走到了一起。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%80%B3%E6%9C%B5%E8%AF%86%E5%AD%97.jpg" rel="attachment wp-att-421295"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%80%B3%E6%9C%B5%E8%AF%86%E5%AD%97.jpg" alt="耳朵识字" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/耳朵识字-226x300.jpg 226w, http://chinadigitaltimes.net/chinese/files/2015/12/耳朵识字.jpg 414w" sizes="(max-width: 414px) 100vw, 414px"></a><br><span><strong>▍图中右下角是可以实现“耳朵识字”的唐雨小朋友</strong></span></p>
-<p>1979 年 9 月，中国第一个 UFO 研究团体在武汉大学成立。1983 年，该组织更名“中国 UFO 研究会”，研究范围由 UFO 现象扩展到气功与人体科学理论。广东人体科学协会会长梁荣麟出任该会理事长，开始与气功界建立密切联系。</p>
-<p>1986 年 1 月，中国 UFO 研究会正式挂靠中国气功科学研究会，成为其下设二级学会。在中国 UFO 研究会第二次全国学术研讨会上，多位气功大师到场，还为观众作现场表演。在气功热加持下，UFO 研究会知名度迅速提升。1994 年全国已有近五万参会者。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BF%A1%E6%81%AF%E9%94%85.jpg" rel="attachment wp-att-421292"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BF%A1%E6%81%AF%E9%94%85.jpg" alt="信息锅" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/信息锅-300x136.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/信息锅.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍1993年北京市某气功培训班，学员们头顶“信息锅”接受宇宙大气场</strong></span></p>
-<p>UFO 也对气功和特异功能及时提供了理论反哺。对科学领悟能力较强的大师，纷纷放弃用咒语与神仙对话，改用宇宙语和外星人交谈，譬如 1987 年起红遍中国的气功大师张香玉学会了宇宙语与外星人交谈，接收“宇宙信息”。</p>
-<p>1988 年是外星人的“气功元年”。这年 3 月，《飞碟探索》刊载了《中国飞碟研究该往何处去》，作者满怀信心地展望，只要中国研究者都勤习气功，能“由五官感知转入意念感知”，“世界 UFO 研究中心迟早就将转移到中国来。”</p>
-<p>1989 年作家柯云路发表巨著《大气功师》，这是一部外星人会气功的宣言书：“外星人的超能力和地球上特异功能者、气功大师的超能力，性质完全是一样的。……人类对超能力的认识、开发，正是走向外星人那种高智慧生命的必由之路。”</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B0%94%E5%8A%9F%E9%A3%9E%E7%A2%9F%E5%AD%A6.jpg" rel="attachment wp-att-421291"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B0%94%E5%8A%9F%E9%A3%9E%E7%A2%9F%E5%AD%A6.jpg" alt="气功飞碟学" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/气功飞碟学-300x230.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/气功飞碟学.jpg 598w" sizes="(max-width: 598px) 100vw, 598px"></a><br><span><strong>▍1990 年代的气功飞碟学文献之一</strong></span></p>
-<p>1993 年 5 月，台湾中华飞碟学研究会吕应钟博士也表示，由于《易经》、佛禅、气功等东方遗产日益受到重视，东方才是飞碟研究的中心。吕应钟博士没有说错，虽然西方的外星人不会气功，但 UFO 研究确实已深受东方哲学影响。</p>
-<p><strong>东方哲学指导全球 UFO</strong></p>
-<p>1947 年 6 月 24 日，美国商人肯尼斯·阿诺德在华盛顿州南部山区驾机时自称看到 9 个发光的碟型飞行物。阿诺德担心这是苏联导弹，因为当地联邦调查局已经下班，他只好报告给当地报社。第二天，美联社几乎所有报纸都登载了这则新闻。这就是现代 UFO 热潮的起点，也是“飞碟”一词的来历。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%BE%8E%E5%9B%BD%E6%8A%A5%E7%BA%B8%E9%A3%9E%E7%A2%9F.jpg" rel="attachment wp-att-421290"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%BE%8E%E5%9B%BD%E6%8A%A5%E7%BA%B8%E9%A3%9E%E7%A2%9F.jpg" alt="美国报纸飞碟" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/美国报纸飞碟-300x196.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/美国报纸飞碟-230x150.jpg 230w, http://chinadigitaltimes.net/chinese/files/2015/12/美国报纸飞碟.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><span><strong>▍1947 年 7 月美国报纸对飞碟的报道</strong></span></p>
-<p>起初，飞碟与外星人并不相干，人们只是担心这是军方核武实验或苏联秘密武器。但美国海陆军与原子能委员会随即出面否认，舆论思维才开始发散。外星飞船本来只是排名靠后的备选项。随着火箭、新式飞机被权威人士排除，这个吸引眼球的解释才逐步上升为主流声音。</p>
-<p>阿诺德目击事件后，美国境内短短数月间冒出了四千余起目击事件，加拿大、巴拿马、古巴、瑞典、希腊、法国、伊朗、阿富汗等国的天空中都出现了飞碟。通常每次媒体报道后，都会有更多人看到飞碟。</p>
-<p>1960 年代前，UFO 研究偏重于对飞碟和外星人的实证研究，而且颇注重学术规范。但主流科学界眼里，这些研究只是披着学术外衣的臆想，而普通读者认为这些研究不如小报上的离奇新闻刺激。</p>
-<p>一些研究者逐渐领悟到：如果 UFO 是外星飞船，它就超出了人类认知，这种实证研究毫无意义。1960 年代后，UFO 开始朝着神秘主义和宗教的方向突飞猛进。</p>
-<p>1950 年代著名的美国飞碟作家乔治·亚当斯基就是个老牌神秘主义者，他 1930 年代曾痴迷于东方神秘思想，还成立过一个“西藏皇家骑士团”。他在第一轮飞碟热中自称能与外星人心灵感应，1955 年他又在《在飞船上》一书中声称自己和耶稣一样，都是被金星人选中向地球传达重要信息的使者。</p>
-<p>1960 年代末，民权运动和反越战运动中崛起的叛逆青年将追求自由的斗争转向精神空间。嬉皮士们认为传统伦理和宗教钳制了人们的精神，只有依靠个体化的灵性生活才能释放潜能，最终进入个人与宇宙融为一体的“新纪元”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%96%B0%E7%BA%AA%E5%85%83%E8%BF%90%E5%8A%A8.jpg" rel="attachment wp-att-421296"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%96%B0%E7%BA%AA%E5%85%83%E8%BF%90%E5%8A%A8.jpg" alt="新纪元运动" width="504" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/新纪元运动-300x205.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/新纪元运动.jpg 504w" sizes="(max-width: 504px) 100vw, 504px"></a><br><span><strong>▍“新纪元运动”的飞碟信仰：依靠外星能量发掘人类潜能，实现“觉醒”</strong></span></p>
-<p>这场“新纪元运动”中，佛教、瑜伽、占星术等神秘元素很快成了文艺青年灵修的时尚标签。那些能与外星高等文明沟通的地球高等人，自然也能提高嬉皮士们的精神境界。</p>
-<p>1970 年代，欧美出现了信仰 UFO 的宗教团体。1974 年成立的雷尔运动（Raëlism）是最大的一派，创始人是一位自称遭遇外星人的法国赛车手，他从外星人那里得知，地球的所有生物都是外星人的科技成果，耶稣、佛陀都是外星人的化身。信众应当宣扬这一真相，并遵从性自由、非暴力等教义。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%9B%B7%E5%B0%94%E8%BF%90%E5%8A%A8.jpg" rel="attachment wp-att-421289"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%9B%B7%E5%B0%94%E8%BF%90%E5%8A%A8.jpg" alt="雷尔运动" width="408" height="291" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/雷尔运动-300x214.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/雷尔运动.jpg 408w" sizes="(max-width: 408px) 100vw, 408px"></a><br><span><strong>▍“雷尔运动”的入会仪式</strong></span></p>
-<p>最著名的 UFO 教派或许是美国的“天堂之门”。教主马歇尔·艾普尔怀特是个患抑郁症的前音乐教师，曾被怀疑多次与男学生发生性关系。其教义认为耶稣死而复生是被飞碟接到了更高层次的世界。包括教主在内的 8 位信徒因此接受了阉割——要成为高等人，就要像耶稣那样断绝与这个星球的一切联系。</p>
-<p>1996 年末，艾普尔怀特相信，即将到来的海尔·波普彗星身后紧跟的飞碟会把他们接入高级世界，他们要赶在彗星到来前摆脱躯体。1997 年 3 月 22 日，他召集 38 名信徒，在圣迭戈郊外一所豪宅中集体服毒自尽。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A4%A9%E5%A0%82%E4%B9%8B%E9%97%A8.jpg" rel="attachment wp-att-421288"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%A4%A9%E5%A0%82%E4%B9%8B%E9%97%A8.jpg" alt="天堂之门" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/天堂之门-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2015/12/天堂之门.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍报道“天堂之门”自杀事件的杂志，封面人物即教主艾普尔怀特</strong></span></p>
-<p>当然，新纪元运动中的 UFO 文化并不都如此惊悚诡异。1977 年上映的影片《星球大战》将宇宙文明、东方哲学、自我觉醒与超能力元素融于一身，正是这一思潮最经典的产品。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98.jpg" rel="attachment wp-att-421287"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98.jpg" alt="星球大战" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/星球大战-300x223.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/星球大战.jpg 620w" sizes="(max-width: 620px) 100vw, 620px"></a><br><span><strong>▍《星球大战》电影海报</strong></span></p>
-<p><strong><strong><strong>越来越和谐的外星人</strong></strong></strong></p>
-<p>外星人被认为是气功大师后，中国的外星人绑架强奸案发案率急剧降低，与中国人的接触较多出现意念交流、沟通的情形，1990 年代后，外星人暴力犯罪事件已罕有所闻。</p>
-<p>近年媒体中较著名的外星人犯罪，是西安一位痴迷飞碟研究的花甲老汉被两位外星人骗取了九万元现金，但警方后来查明外星人是老汉楼上的少年和他的同学扮演。</p>
-<p>西方的 UFO 研究转入东方神秘主义后，外星人的暴力犯罪行为也逐渐降低，但存在滞后性，六七十年代仍是外星人暴力犯罪高发期，进入八十年代后才大幅降低，但在 1990 年代，西方仍有人被外星人绑架并遭性侵。</p>
-<p>中国 UFO 研究者在 1980 年代就注意到外星人在东西方的不同表现，有人撰文称：西方以“捕碟”的敌对态度对待飞碟, 采用的是“武攻”, 东方应以“寻碟”的友善态度对待飞碟, 采用“文攻”方式达到交流。那么如何“文攻”呢？最佳的方式是“对话”——即“意念呼唤”、“心灵传感”、“他心通”。</p>
-<p>但是，外星人因为会气功和特异功能的缘故，中国 UFO 热在 1999 年的反邪教运动中戛然而止。中国气功科学研究会遭取缔，下设的 UFO 研究组织随之解散。2002 年，央视《走近科学》栏目播出《中国 UFO 调查》系列节目，元气大伤的中国 UFO 研究这才逐步恢复活力。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/UFO2.jpg" rel="attachment wp-att-421297"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/UFO2.jpg" alt="UFO2" width="400" height="300" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/UFO2-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/UFO2.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></a><br><span><strong>▍《科技博览》栏目里出现的中国著名的UFO形态“飞棍”，只是飞虫掠过帧数较低的摄像机时留下的残影</strong></span></p>
-<p>中国 UFO 研究会解散后，1999 年由孙式立在香港注册成立的世界华人 UFO 联合会是目前最活跃的组织。2005 年，该会曾在大连举办首届世界 UFO 大会，却因组织混乱、收取高额会费引发争议。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%96%E7%95%8C-UFO-%E5%A4%A7%E4%BC%9A.jpg" rel="attachment wp-att-421286"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%96%E7%95%8C-UFO-%E5%A4%A7%E4%BC%9A.jpg" alt="世界 UFO 大会" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/世界-UFO-大会-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/世界-UFO-大会.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong><strong><strong>▍2005 年大连“世界 UFO 大会”现场</strong></strong></strong></span></p>
-<p>虽然近年中国 UFO 研究者已很少强调气功这个与外星人相同的爱好，但未能改变外星人在中国变得越发友善和谐的事实。</p>
-<p>家住湖南麻阳苗族自治县栗坪乡三家村的八旬老人向宽松，1962 年起就接触外星人。1994 年起，他自筹资金，历时十七年，按外星人的要求建设了一所外星人科研站——依据外星人的公开信，他们居住在东升球上，主老总宇天星君大帝，女皇李观音娘娘。</p>
-<p>东升星人不但希望帮助地球世界实现高科技、高寿命和天下平等三大目标，还认同中国倡导的和谐世界理念，尤其难得的是他们还经常在南海及钓鱼岛问题上给中国政府出主意。</p>
-<p>在外星人科研站的两道山门上，张贴着两副据说由东升星人撰写的对联：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%9C%E5%8D%87%E6%98%9F%E4%BA%BA1.jpg" rel="attachment wp-att-421285"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%9C%E5%8D%87%E6%98%9F%E4%BA%BA1.jpg" alt="东升星人1" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/东升星人1-300x227.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/东升星人1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%9C%E5%8D%87%E6%98%9F%E4%BA%BA2.jpg" rel="attachment wp-att-421284"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%9C%E5%8D%87%E6%98%9F%E4%BA%BA2.jpg" alt="东升星人2" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/东升星人2-300x256.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/东升星人2.jpg 639w" sizes="(max-width: 639px) 100vw, 639px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" rel="attachment wp-att-419061"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" alt="大象工会" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/大象工会-300x108.png 300w, http://chinadigitaltimes.net/chinese/files/2015/11/大象工会.png 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%96%E6%98%9F%E4%BA%BA%E4%BC%9A%E6%B0%94%E5%8A%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%94%E5%8A%9F%E7%83%AD/?category=18271" rel="tag">气功热</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -737,7 +705,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -747,5 +715,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

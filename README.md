@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A6%82%E4%BD%95%E4%BE%9D%E6%B3%95%E4%BD%BF%E6%97%A0%E7%BD%AA%E4%B9%8B%E4%BA%BA%E6%9C%89%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">唐映红 | 如何“依法”使无罪之人有“罪”？</a>
+</h2>
+<p><p><strong>问：如何“依法”使无罪之人有“罪”？</strong></p>
+<p>答：对于不同的社会文明而言，“法治”有着既然不同的含义。<strong>对普世的现代文明国家而言，</strong><strong>“法治”的首要之义是约束权力者</strong>，以使其“依法”而行使权力。对迄今仍然停留在前现代的专制社会而言，<strong>“法治”不过是权力者以法律的方式“依法”来奴役和打压无权力者。</strong>因此，对前者，权力者根本就不可能“依法”使一个无罪之人有“罪”；而后者则可以轻而易举地“依法”使无罪之人获“罪”。</p>
+<p>从心理学角度，<strong>一个人是否有“罪”，取决于他具体的行为是否违反了社会普遍共识的规范或禁忌。</strong>当一个人所做所为明显违反社会普遍共识的规范或禁忌，那么他就“有罪”。法律是人类社会主要的制度性明确规范之一。因此，<strong>法律意义上的“有罪”，则需要以法律明确之标准来衡量个体的行为是否有明显违反相关规定。</strong></p>
+<p>由于法律是由人为拟定的成文规则，那么<strong>法律本身是否反映了社会普遍共识就成为法律本身是否具有正当性的重要标准。</strong>一般来说，如果法律反映了社会大多数人的共识，那么法律就具有正当性；而<strong>如果法律只反映少数权力集团精英的意志，而与大多数无权力民众的意愿相冲突，那么法律就不具有正当性。</strong>因此，当一个社会的法律仅仅由社会权力集团制定，只反映权力集团的意志，那么<strong>无权的民众即使违反了法律，也未必违反社会普遍共识，那么这时违反的民众就完全有可能无罪而获“罪”。</strong>例如，种族和解前的<strong>南非</strong>，种族隔离法是由白人当局制定颁发，而并没有反映大多数黑人民众的诉求和意愿，因此，<strong>一个仅仅违反种族隔离法的黑人，他在法律上有“罪”，而在正当性的衡量下，无罪。</strong>因为“平等”才是社会普遍的共识，而种族隔离仅仅反映了少数白人权力集团的意志。</p>
+<p>更进一步地，<strong>当法律仅仅是权力集团奴役和统治民众的工具，而丝毫也不能约束权力集团自身时，那么对于权力集团“依法”使无罪之人有“罪”可谓是轻而易举。</strong></p>
+<p>首先，<strong>可以随时修改法律。</strong>当有些民众的诉求或活动威胁到权力集团时，而民众的活动又没有违反既然的法律规定，那么，权力集团可以随心所欲地及时修改法律，<strong>量身定做法律条文来促使民众的诉求或活动正好处于“违法犯罪”的境地。</strong>例如，当<strong>朝鲜</strong>权力集团担心民众通过收音机收听韩国的广播可能威胁到权力集团时，他们就可以颁发一个新的法律规定，凡是未经权力集团允可而收听境外广播，即构成“叛国罪”。在有些社会里，甚至可以迅速制定出新的法律规定来<strong>使擅自发布气象讯息的民众或机构处于违法犯罪的处境。</strong></p>
+<p>其次，<strong>在不必或不宜修改法律来新造罪名时，可以通过先抓再罗织罪证的方式来使威胁到权力集团的民众陷入“犯罪”的境地。</strong>例如，可以凭借“群众举报”的方式来将可能威胁到权力集团的民众抓捕，然后利用法律可能的延期来<strong>全面审查业已被抓捕者在经济、私生活以及社会活动中的所有资料</strong>，一般来说只要抓住任何有违反犯罪的线索，即可以名正言顺地予以刑事拘留。关于此项只要<strong>在一般性的法律条文中设定很低的犯罪门槛</strong>，使绝大多数民众在正常社会活动中轻而易举就处于违法犯罪而不自知，那么权力集团就可以<strong>选择性地执法</strong>，以惩罚那些可能给权力集团带来威胁的民众。</p>
+<p>如果通过不断地延期，也无法罗织出足以令无罪的民众有“罪”，那么还可以<strong>采取构陷的方式</strong>。像<strong>某个社会</strong>里，曾经有长期坚持举报官员滥用公车的老伯，被执法机构买通性工作者来构陷老伯“嫖娼”的先例。在为了达到惩治威胁者的目的，<strong>权力集团完全可以通过栽赃、诬陷或钓鱼的方式来使本来无罪的民众有“罪”。</strong></p>
+<p>当然，<strong>如果修改法律，罗织罪名，构陷栽赃都无法令对权力集团有威胁的无罪民众有“罪”，那么索性抛开“依法”的面纱，直接突突突，也不是什么不可思议的事情。</strong>对于屠夫来说，“依法”屠宰肉猪，不过是在自信的基础上展现出某种貌似文明的姿态；一旦威胁超过一个临界值，杀猪哪里还需要什么顾虑，直接用拖拉机碾压肉猪不过是分分钟的事儿。</p>
+<p>2015-12-14</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A6%82%E4%BD%95%E4%BE%9D%E6%B3%95%E4%BD%BF%E6%97%A0%E7%BD%AA%E4%B9%8B%E4%BA%BA%E6%9C%89%E7%BD%AA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" target="cdt-mirror">【立此存照】当高科技网军占领网络上甘岭（可惜操作有误）</a>
 </h2>
 <p><p><a href="http://weibo.com/1935652125/D8nUXxLuu?from=page_1003061935652125_profile&wvr=6&mod=weibotime&type=comment">@在下张耀之的原微博</a>下相关“正能量”自动发帖程序（又称“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/" target="_blank">机器五毛</a>”）的评论已经在新浪微博上被删除，以下网友截屏来自豆瓣网。</p>
@@ -641,60 +661,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%B3%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%85%B1%E8%AF%86%E7%BD%91-%E6%8F%AD%E5%AF%86%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%90%8C%E5%BF%97%E5%AE%B6%E5%BA%AD/" target="cdt-mirror">共识网 | 揭密中国式“同志家庭”</a>
-</h2>
-<p><p>作者：徐佳</p>
-<blockquote><p>不少同性伴侣有组成家庭以及抚养下一代的愿望，但在现实中，法律、道德、身份、社会容忍度等外部问题，再加上“家庭”内部的微妙关系，都是严峻的考验。</p></blockquote>
-<p>小欧的妈妈窝坐在宾馆房间沙发椅子上，眯着眼睛对记者笑着说：“姑娘，你和我儿子同岁，你俩处着试试?”原本一直低头沉默的小欧爸爸一下子伸出手来制止：“别瞎说。”</p>
-<p>这个不大的标间里挤着八九个小欧一家刚结识的同乡，他们都是来广州参加同性恋亲友会组织的“第八届全国同志亲友恳谈会”的。从全国各地赶来的700多名同性恋者及其父母，在500平方米的会议厅里，举着话筒分享“出柜”、代孕、养育孩子等经验。</p>
-<p>小欧是把父母骗过来的。到了现场，父母才知道，儿子坚持让他们从江西赶来参加的并不是一场异性恋间的“相亲大会”。刚知道儿子是同性恋时，小欧的妈妈哭了好半天，她对儿子说：“你回村里去，吃些马鞭，能治好的。”听说“同性恋不能治”，小欧的妈妈眼睛发直地点了点头，但她希望小欧能有个孩子。</p>
-<p>小欧妈妈的心愿引发了一个争论多年的话题：同性恋家庭是否适合养育孩子?孩子在这样的家庭里能否健康成长?</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-12-at-%E4%B8%8A%E5%8D%886.33.30.png" alt="Screen Shot 2015-12-12 at 上午6.33.30" width="498" height="263" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-12-at-上午6.33.30-300x158.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-12-at-上午6.33.30.png 498w" sizes="(max-width: 498px) 100vw, 498px"><br>
-2015年9月12日，第八届全国同志亲友恳谈会上，听完父亲接纳自己同性性取向的分享后，浅水(化名)对父母说出了一直难以说出口的“谢谢你们!”说完，一家三口抱作一团。</p>
-<p>　　尽管在会场内部，这是一个如何操作的“技术问题”，但在会场之外，这却是一个是否可行的“道德问题”。即使是在2015年最高法院裁定同性婚姻全境合法的美国，这一话题也时常引起风波，在同性恋群体相对更为低调的中国，养育孩子的同志家庭就显得更为隐秘。</p>
-<p><strong>　　两个爸爸</strong></p>
-<p>2008年8月27日，同志杨勇深刻地记住了这一天。像往常一样下班回家的他，打开房门的那一刹那，迎来了当时12岁的亮亮劈头盖脸的问话：“爹地，你是同性恋吗?”</p>
-<p>杨勇顿时感觉自己的“血液都凝固了”。而此时的亮亮却像恶作剧成功一样，倒在沙发上乐不可支：“哈哈，爸爸都跟我说了，你们都是同性恋。爸爸还说你很爱他，是不是啊?”</p>
-<p>这是杨勇的同性伴侣柳明策划的一场“出柜”活动。柳明是亮亮的亲生父亲。亮亮称呼柳明为“爸爸”，称呼杨勇为“爹地”。</p>
-<p>亮亮在9岁时已经迎来叛逆期，突然不那么听话了。他不仅喜欢问“为什么只有男生有小鸡鸡”这样的问题，有的时候还会突然心情低落。被追问原因，他指着杨勇和他的同性伴侣柳明说，“你们俩咯。”</p>
-<p>基于亮亮9岁时的反常，柳明决定向孩子坦白：哪怕现在孩子似懂非懂，但随着时间的流逝，一切都会成为自然。如果隐瞒，将来亮亮长大了发现自己的家庭与众不同，可能会“想不开”。</p>
-<p>在这场父与子的“出柜”中，柳明也教会亮亮如何面对同学，比如同学议论起同性恋话题时尽量避开，不主动跟别人谈论自己的家庭等。</p>
-<p>如今，已经高三的亮亮回忆起这段往事，评价柳明的举动“很机智”：“老爸第一次对我说他们两个是那种关系之前，我本身对自己的家庭情况很习惯，觉得是理所当然的。所以他和我讲我就没有什么负面情绪，长大也很适应，没有什么困扰”。</p>
-<p>2015年11月7日，亮亮所在学校为高三的学生组织了“成人礼”。杨勇和柳明双双出席，他们发现今年春节才给亮亮买的“人生第一套”西装又变小了一点。他们和亮亮一起走过学校布置的“成人桥”——意味已经长大成人，又跨过“成功桥”——寓意高考成功。相比穿着校服的其他学生，穿西装的亮亮成为学生的焦点，杨勇有点得意地说，很多女同学去找亮亮合影。</p>
-<p>亮亮并没有觉得两个爸爸的出席会为自己带来不便。同学间并没有详细询问过自己的家庭状况：“一般我会说一个是亲爸爸，一个是干爹。如果有人再深问我也会讲，但其实也没有人问过”。</p>
-<p>上小学的时候，亮亮曾经遇到过《我的爸爸》这样的作文题目，他将两位爸爸的故事和性格特征融合在了一起。没有经历过“父母”式家庭生活的亮亮将两位爸爸的关系形容为“性格完美互补的老夫老妻”，甚至觉得自己的生活“比别人过得更好一些”。如果有一天自己的家庭面对非议，“我一定会站在我们家这边”。</p>
-<p><strong>　　社会接纳困难重重</strong></p>
-<p>不管反对者是否愿意承认，在不断开放和多元化的中国社会，他们都将不得不面对这样的现实：拥有孩子或者计划要孩子的同志并不在少数。而且，随着社会联系的增加，这一隐蔽的群体正日渐浮出水面。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-12-at-%E4%B8%8A%E5%8D%886.32.31.png" alt="Screen Shot 2015-12-12 at 上午6.32.31" width="496" height="334" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-12-at-上午6.32.31-300x202.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-12-at-上午6.32.31.png 496w" sizes="(max-width: 496px) 100vw, 496px"><br>
-李秉光和阮文顺是居住在美国华盛顿特区附近马里兰州的同性恋家庭，他们于2011年11月18日在华盛顿特区登记结婚，图为二人与他们的亚欧混血龙凤双胞胎儿女。</p>
-<p>　　同性恋亲友会执行主任阿强说，去年亲友会通过社交网络组建“彩虹家庭群”，“一下子就加进来200多个人”。其中，为阿强所知的活跃的育儿同志家庭就有20多家，这些同志通过代孕、领养或是收养医院弃婴的方式成为“家长”。</p>
-<p>恳谈会结束后，几位在恳谈会上分享过育儿经验的同志嘉宾在一家互联网媒体上与网友进行在线交流，自我介绍后，未来得及“寒暄”，即已进入“混战”。</p>
-<p>网名为“袁姐”的网友说：“不赞同同性恋收养孩子。同性恋本身就是病态、不健康的方式。如果是一个正常的孩子，更愿意在一个正常的家庭过着正常人的生活。在一个同性恋家庭，一个变态的生活方式，让一个正常无辜的孩子遭受心理和精神上的伤害”。</p>
-<p>“为什么很多人不喜欢我们?”在一场类似议题的互联网争论中，一位自称来自同志家庭的女孩专门写下了自己的故事。她同样拥有两位爸爸，一位来自美国的“大爸”，一位来自中国的“小爸”。</p>
-<p>作为“两个爸爸”的女儿，女孩自小过得不是很顺利。从上幼儿园起，就不断有小孩问这位姑娘“为什么有两个爸爸”，其他家长对此嗤之以鼻，拒绝让小孩接近她。小学的时候还曾经有个女同窗在班上的互换日志公开写她是“怪人”的孩子。</p>
-<p>女孩现生活在美国，但她曾在中国上了三年小学，因为美国的“大爸”被学生投诉是“同志教员”，“小爸”也在美国找不到工作，所以不得不回中国“避风头”。这是一个在中国刻意低调的家庭。后来，为了避开邻居的“蜚短流长”，两位爸爸分居中美两地，“小爸”是以“独身爸爸”的身份在中国养育女孩的。</p>
-<p>这位正在美国读高二、考过美国权威钢琴考级制度CM(Certificate of Merit)十级的女孩在用蹩脚的中文如此叙述：“必定的是，我们一家履历了不可思议的疾苦，尽管两位爸爸勇敢的盖住了大部分。”“我不是怪物，我并不为我的家庭感到耻辱，我的家庭很可爱，我很幸福。我比好多其他的同龄人都要优异，我很爱我的两个爸爸，我就是同性恋者养大的孩子。”</p>
-<p>组成一个拥有孩子的同志家庭，是需要门槛的。大部分同志家庭获得小孩的渠道，是通过代孕。能够支付得起80万-100万人民币代孕费用的同志，多是社会中产阶层以上。即使是照看孩子的保姆，也无法当着雇主的面多说什么。代孕出生的孩子多为外籍，这些读着国际学校的小孩，如果在学校里遇到命题作文《我的妈妈》，家中的两个爸爸会直接找到学校：“以后不要给我们孩子出这样的题目，我们是同志家庭，连英国护照的家属关系都只写Parent(亲长)1，Parent2”。</p>
-<p><strong>　　最难的关卡：父母</strong></p>
-<p>即使可以或坦诚或隐晦地面对孩子，或勇敢或暧昧地面对社会，但如何面对父母，却是中国同性恋人群最难解的心结之一。传宗接代的传统观念，“不孝有三，无后为大”的传统道德，以及老无所依的未来担忧，对他们形成的心理压力，使得中国的同性恋人群对于结婚生子有着更大的需求。</p>
-<p>成为“爹地”，为杨勇带来的直接后果却是与父母的决裂。作为幺儿，自小到大，杨勇一直是家中最受宠的。与柳明和亮亮组建小家庭后，杨勇将父母接到广州家中，向他们介绍柳明是自己的朋友，亮亮是自己的干儿子。在杨勇的计划里，亮亮的可爱以及自己与柳明的和谐，将感动父母，他们会潜移默化地接受这样的关系。</p>
-<p>事情却远没有如此顺利。杨勇的父母根本无法接受亮亮，他们最大的愿望是杨勇结婚，育有自己亲生的孩子。此后，杨勇迎来的是来自父母漫无边际的“逼婚”。</p>
-<p>2003年，杨勇回家乡扫墓时，被母亲骗到神婆面前。神婆说，杨勇被“女鬼”附身，要施法。这是亲子决裂的最后一根稻草，杨勇抛下母亲决绝而去，此后两年和家中断了联系。如今面对年事已高的父母，杨勇能尽之孝也只局限在金钱上的赡养，由家中的姐姐代替自己照顾父母，双方仍不能互相接受。这成为杨勇心中巨大的“憾”，以至于他对亮亮最大的期许，是“自由”。</p>
-<p>成为父母，首先要面对自己的父母。现实中，杨勇并非孤案。</p>
-<p>戴伟是深圳一所大学的教师。如今，他的小孩已经“住”在一个美国代孕妈妈的肚子里5个月了。美国发达的代孕产业为戴伟提供了一切便利，而对于戴伟来说，除了常规需要考虑的条件，为了能够在中国低调生活，他要求在美国的捐卵者一定是“亚裔”。</p>
-<p>戴伟的父亲用了半年的时间来接受儿子的性取向，反反复复。“我挺心疼我老爸的”，戴伟说，父亲认为人生应该选择“做一个高尚的人”，而戴伟的性取向在父亲看来就是“不高尚”的。所以，戴伟要小孩的决定，也没有让父亲感到即将含饴弄孙的喜悦，反而让他因为不知该如何对外解释这个孩子的来历而更加苦恼。</p>
-<p>父亲觉得，如果戴伟一直没有婚姻，自己可以一直对外称“孩子大了，管不了”，可是这个孩子生下来以后怎么对亲戚朋友交代呢?目前戴伟只能教给父亲这样的说辞：孩子是自己在美国留学期间“不成功婚姻”的结果。</p>
-<p>(应受访者要求，文中人物均为化名)</p>
-<p>《凤凰周刊》记者/徐佳</p>
-<p>本文节选自《凤凰周刊》2015年第34期总第563期《揭密中国式同志家庭》</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%85%B1%E8%AF%86%E7%BD%91-%E6%8F%AD%E5%AF%86%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%90%8C%E5%BF%97%E5%AE%B6%E5%BA%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%A4%E5%87%B0%E5%91%A8%E5%88%8A/?category=18271" rel="tag">凤凰周刊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +672,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +682,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

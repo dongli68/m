@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E5%9C%B0%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%82%A8%E5%AD%98%E5%9C%A8%E5%A2%83%E5%86%85%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/" target="cdt-mirror">奇客资讯 | 中国要求地图数据储存在境内的服务器上</a>
+</h2>
+<p><p>国务院公布了一个《<a href="http://www.gov.cn/zhengce/content/2015-12/14/content_10403.htm" target="_blank">地图管理条例</a>》，其中一章专门与互联网地图服务有关。《条例》称，互联网地图服务单位需要获得测绘证书，需要将存放地图数据的服务器设在中国境内，“互联网地图服务单位用于提供服务的地图数据库及其他数据库不得存储、记录含有按照国家有关规定在地图上不得表示的内容。互联网地图服务单位发现其网站传输的地图信息含有不得表示的内容的，应当立即停止传输，保存有关记录，并向县级以上人民政府测绘地理信息行政主管部门、出版行政主管部门、网络安全和信息化主管部门等有关部门报告。”以及“任何单位和个人不得通过互联网上传标注含有按照国家有关规定在地图上不得表示的内容”。这意味着，互联网地图服务商必须审查数据，类似Google地图的用户标示功能可能将是不允许的。假如Google地图服务要重新进入中国，那么美国服务器是否就无法储存和处理中国地图相关数据，这是否就构成了违法？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E5%9C%B0%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%82%A8%E5%AD%98%E5%9C%A8%E5%A2%83%E5%86%85%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/">Permalink</a> |
+<br>
+Post tags: <br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E5%94%90%E5%B8%88%E6%9B%BE%EF%BC%9A%E6%88%91%E6%8B%8D%E8%BF%87%E7%9A%84%E5%A4%A7%E4%B8%AA%E5%84%BF/" target="cdt-mirror">【组图】唐师曾：我拍过的“大个儿”</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGVLtXq30690.jpg" alt="“大个儿”是北方人，比常人高一头，身材明显比他的农民兄弟高很多。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGVLtXq30690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGVLtXq30690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>“大个儿”是北方人，比常人高一头，身材明显比他的农民兄弟高很多。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHaEeVn9d690.jpg" alt="我184，“大个儿”目测好像比我高不少，且比我壮许多。我因罹患再生障碍性贫血虚胖而外强中干。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHaEeVn9d690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHaEeVn9d690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>我184，“大个儿”目测好像比我高不少，且比我壮许多。我因罹患再生障碍性贫血虚胖而外强中干。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGW0QbE82690.jpg" alt="“大个儿”记者朋友多，这是十八大代表《中国青年报》记者刘万永。我们一起弄过季羡林案。刘万永新华社办过的新闻学院毕业；“大个儿”政法大学研究生院毕业。我曾在这两个学校教过书，故相识久矣。现而今，能坚持几十年做律师、做记者不容易。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGW0QbE82690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGW0QbE82690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>“大个儿”记者朋友多，这是十八大代表《中国青年报》记者刘万永。我们一起弄过季羡林案。刘万永新华社办过的新闻学院毕业；“大个儿”政法大学研究生院毕业。我曾在这两个学校教过书，故相识久矣。现而今，能坚持几十年做律师、做记者不容易。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXdNgG56690.jpg" alt="“大个儿”喜欢倾听。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXdNgG56690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXdNgG56690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>“大个儿”喜欢倾听。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXyF1Jef690.jpg" alt="口才极好。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXyF1Jef690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXyF1Jef690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>口才极好。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXfTsK4a690.jpg" alt="招老头儿喜欢。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXfTsK4a690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXfTsK4a690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>招老头儿喜欢。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHW8tfBbb690.jpg" alt="还有妇女、儿童。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHW8tfBbb690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHW8tfBbb690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>还有妇女、儿童。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXGkDS98690.jpg" alt="喜欢北大钱理群的学问。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXGkDS98690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXGkDS98690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>喜欢北大钱理群的学问。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXIrd123690.jpg" alt="与原“人民网”老总杨良化是哥儿们。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXIrd123690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXIrd123690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>与原“人民网”老总杨良化是哥儿们。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHVXzfp1f690.jpg" alt="热爱祖国。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHVXzfp1f690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMHVXzfp1f690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>热爱祖国。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXNEr698690.jpg" alt="喜欢读报。 " width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXNEr698690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXNEr698690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>喜欢读报。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXMdYi3e690.jpg" alt="爱好摄影。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXMdYi3e690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXMdYi3e690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>爱好摄影。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXEzn6d4690.jpg" alt="动作敏捷。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXEzn6d4690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXEzn6d4690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>动作敏捷。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXE68zdb690.jpg" alt="从没与我喝过酒。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXE68zdb690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMGXE68zdb690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>从没与我喝过酒。</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690.jpg" alt="在政法大学上学时就是个“大个儿”。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>在政法大学上学时就是个“大个儿”。</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E5%94%90%E5%B8%88%E6%9B%BE%EF%BC%9A%E6%88%91%E6%8B%8D%E8%BF%87%E7%9A%84%E5%A4%A7%E4%B8%AA%E5%84%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%80%81%E5%A4%96%E6%9B%BE%E7%96%91%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A-%E7%8E%B0%E5%9C%A8%E4%B9%9F%E6%83%B3%E6%9C%89%E4%B8%AD%E7%BA%AA%E5%A7%94/" target="cdt-mirror">【异闻观止】老外曾疑八项规定 现在也想有中纪委</a>
+</h2>
+<p><p>专家说“外国人的中国观改变了”</p>
+<p>今年10月份，中国传媒大学副教授戴建华结束了在美国为期一年的访学。</p>
+<p>访学期间，虽然每天都能从互联网上得知来自国内的消息，但中央八项规定精神的贯彻落实力度，是否仍像他出国前一样？对党风廉政建设和反腐败工作一直都很感兴趣的戴建华，心中老想着这个问题。</p>
+<p>就在前几天，教育部集中通报了多起部属高校违反中央八项规定精神的典型案件，具体责任人和多名高校领导分别被给予相应处分，让他明白了“作风建设永远在路上”的真切含义。</p>
+<p>这对他震动很大。他告诉记者，合适的时候，他准备向国外对八项规定感兴趣的朋友介绍八项规定落实的现状，并告诉他们一句话：“这不是一场‘运动’，不要再拿老眼光看中国了，你们的中国观也该与时俱进了！”</p>
+<p><strong>1 不是“政治秀”</strong></p>
+<p>“你是中共党员吗？”</p>
+<p>经常有外国人拿这个问题问戴建华。他们中的很多人在问这个问题的时候都习惯于先入为主，戴着有色眼镜。</p>
+<p>“刚开始走出国门看世界时，我就让外国人给‘上了一课’。”戴建华表示，很多外国人尤其是美国人秉持着一种“我们是天朝上邦，尔等都是蛮夷”的自负。他们对中国的印象甚至还停留在冷战时期，对这个正在发生深刻变化的国度存有不小的无知和偏见。</p>
+<p>八项规定实施伊始，尽管不清楚具体内容是什么，但国际上有不少人已经注意到十八大后中国正在进行的正风反腐行动，不过他们的态度是这样的：</p>
+<p><strong>“八句话就能扭转腐败现象？”“估计很快就‘昨日重现’了。”</strong></p>
+<p>刚到美国时，类似的质疑戴建华并不陌生，而且这种根深蒂固的偏见，很难通过几句交流就能得到更正。作为一名党员和一名系党支部书记，他常常有一种百口莫辩的无奈之感。</p>
+<p>可一年多下来，戴建华发现周围外国人的态度正在逐渐发生转变。</p>
+<p><strong>一位在美国做奢侈品代购的朋友告诉他，之前发往国内的地址中含有某某机关、部门的字样是经常的事儿，可是现在这些客户越来越少。</strong>而这位朋友经常去采购的某奢侈品店销售人员说，过去在美国当地疯狂购买奢侈品的中国人群中，有很多官员的身影，但如今那种景象已经很难寻觅。</p>
+<p><strong>多家美国媒体转载路透社《中国惩处官僚主义、享乐主义和慵懒官员》一文，引发网友热议，一位美国网友感叹：“我们美国人怎样才能也有个‘中纪委’呢？”</strong></p>
+<p><strong>一位美国政治学教授表示，中国已经查处一百多名省部级高官，而且这个数字还在增长，这让他相信中国共产党是动真格的，既不是一时兴起，也不是做给世人看的“政治秀”。</strong></p>
+<p><strong>回国前跟一些外国友人道别时，有一位外国朋友竟然出人意料地称戴建华“戴同志”，这让他十分惊讶。</strong>这名友人还说，希望有机会能到中国亲身感受一下新一届中央领导班子带给中国的新变化。</p>
+<p><strong>2 “好戏”没看成</strong></p>
+<p>外国的普通群众对中国的认知绝大部分来自于媒体。</p>
+<p>自八项规定出台以来，中国矿业大学廉政研究中心执行副主任刘金程一直关注外媒对于八项规定的报道。他说，更多情况下，外媒是将八项规定放到反腐败的框架下谈论的。</p>
+<p>据刘金程观察，绝大多数外媒都能够真实客观地报道中国，但他们经常会采用“消息人士称”“不愿透露名字的人士称”等方式来表明立场。对于八项规定的报道，同样也没有脱离这个套路。“打着‘新闻价值’的旗号，传递一些不同声音，”刘金程说，“其实很多外媒都有等着看看笑话的动机。”</p>
+<p>刘金程记得，在美国有重要影响力的《华尔街日报》曾就八项规定有过这样的报道：“虽然这种努力的真实成分仍然有待观察，中共能做出多大的努力来改变其根深蒂固的习性也是个未知数，但至少是在呼吁采取一些与过去大不相同的行动。”类似的表述，很多外媒都曾有过。</p>
+<p>“有待观察”“未知数”显然是在表达一种质疑。刘金程表示，外媒对于中国正风反腐的态度很偏颇，他们不愿意相信中国共产党和中国政府反对腐败的决心，也不愿意承认中国在打击腐败方面取得的成绩。</p>
+<p>随着中国反腐败国际合作力度的加大，越来越多的外国媒体已经开始正视中国反腐败斗争取得的突破，并逐渐修正他们的片面观点。</p>
+<p>2014年2月17日，《联合早报》在一篇题为《将八项规定进行到底》的文章中写道：“转眼间，中共中央新一届领导人上台已一年有余，中央政治局前年底出台八项规定，要求精简会议活动、厉行勤俭节约等，当时很少人预见到，公款吃喝、文山会海等中国官场的‘老大难’问题，竟然在一年内出现如此明显的改善。”</p>
+<p>同年12月，法新社的一篇报道指出，“在一年半不到的时间里，中国政府清退16万吃空饷人员，8万多人因违反八项规定受到处理。”“民众越来越清晰地感受到中国领导人对腐败问题的零容忍态度，政府也将会越来越受到民众的欢迎。”</p>
+<p>刘金程说，透过马来西亚《新海峡时报》发表的《为何中国看上去正在赢得反腐斗争》中的一句话，可以窥见外媒对中国正风反腐的信心：“今天的亚洲正在以前所未有的力度打击腐败，其中最为认真的毫无疑问是中国。”</p>
+<p><strong>3 “这个政党不简单”</strong></p>
+<p>对八项规定给中国带来的变化最有发言权的，当是那些需要与政府机关频繁打交道，或者是产品和服务与党政部门密切相关的企业和个人。</p>
+<p>澳籍华人刘先生长期在国内经营红酒生意，在澳大利亚拥有葡萄园和酒庄。2012年前，他的酒庄生产的红酒每次都是十几个集装箱地出口，尤其是对公出货量非常大。在他看来，其实国人对于红酒的鉴赏能力参差不齐，很多公务场合上，喝红酒的方式甚至与喝啤酒一样，再加上花的都是公款，“把‘拉菲’的牌子都快喝倒了”，此言不虚。</p>
+<p><strong>八项规定出台后，红酒“销量锐减到只有原来的十分之一”。刘先生周围的红酒商也遭受相同的境遇：有的资金链已经断裂，有的刚入行赔得血本无归，几百块钱的红酒几十块钱甩卖，也不见买家。需求上的“断崖式暴跌”，也很快对原产地的红酒生产和葡萄种植产业造成了连锁反应。</strong></p>
+<p>“中国怎么了？”这是国外商人经常问的问题。他们难以想象简简单单的八句话就让中国的官员红酒说不喝就不喝了。大家感叹，这个政党真是不简单。刘金程注意到，八项规定的持续性所带来的辐射效应，正在全球范围逐渐改变外国人的中国观。</p>
+<p>日本门户网站Livedoor在其报道中写道：2012年12月定下了八项规定后，中国便产生了一种消费高级品就为“恶”的思想风潮。一些奢侈品研究人员甚至发现，普通人正在拥有更多的“定价权”。</p>
+<p>“习近平总书记曾对多国领导人提出，欢迎搭乘中国发展的快车、便车。而八项规定以及十八大以来的一系列正风反腐新举措，既是中国号列车的新引擎又是安全带，也唯有如此，才能行稳致远。”刘金程说。（本报记者 贾亮）</p>
+<p>来源：中国纪检监察报</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%80%81%E5%A4%96%E6%9B%BE%E7%96%91%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A-%E7%8E%B0%E5%9C%A8%E4%B9%9F%E6%83%B3%E6%9C%89%E4%B8%AD%E7%BA%AA%E5%A7%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A/?category=18271" rel="tag">八项规定</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A6%82%E4%BD%95%E4%BE%9D%E6%B3%95%E4%BD%BF%E6%97%A0%E7%BD%AA%E4%B9%8B%E4%BA%BA%E6%9C%89%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">唐映红 | 如何“依法”使无罪之人有“罪”？</a>
 </h2>
 <p><p><strong>问：如何“依法”使无罪之人有“罪”？</strong></p>
@@ -571,96 +652,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E5%88%AB%E4%BA%86%EF%BC%8C%E7%89%A1%E4%B8%B9%E5%B3%B0%E4%B9%90%E5%9B%A2%E7%9A%84%E5%A7%91%E5%A8%98%E4%BB%AC%EF%BC%81/" target="cdt-mirror">金融时报 | 别了，牡丹峰乐团的姑娘们！</a>
-</h2>
-<p><p><strong>中国亚非发展交流协会理事 曹辛 为FT中文网撰写</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/65c38c30jw1eyx7ngljn0j20dv0hydh6.jpg" alt="65c38c30jw1eyx7ngljn0j20dv0hydh6" width="440" height="570"></p>
-<p>“这件事对中朝关系的冲击将不亚于2013年那颗核弹，”12月12日，一位北京外交界人士这样对我说。</p>
-<p>他指的是这件事：北京观众们12月12日（周六）下午接到通知：原定于当晚进行来华首场演出的朝鲜牡丹峰乐团和朝鲜功勋合唱团的演出取消了。朝鲜演员们当天下午已经从首都机场返回朝鲜。</p>
-<p>这位外交人士说：“反正是他们自己作死。”</p>
-<p>这几天关于朝鲜牡丹峰乐团来北京演出的新闻还是很抢眼的：该乐团是朝鲜领导人金正恩创立、夫人李雪主主抓的。</p>
-<p>然而正因为是这样背景的乐团，事情就不简单了：</p>
-<p>北京新闻单位专门发表了一组身着军装的牡丹峰美女们10号到达北京火车站的图片。引起我高度关注的是：一个美女年纪轻轻，居然配戴大校（正师级，相当于美国的准将）军衔，而走在她后面的另一位男大校，都像我一样“哈拉伯吉”（大爷）的年纪了。这个很有味道的美女衣着不凡：军礼服大衣领子上配着华贵的皮毛，而她身后那位也是大校军衔的男军官大衣领子上并无皮毛，因为作为军礼服是要配领章的，这说明标准的人民军大衣领子是不配皮毛的；她军帽上的皮毛也和后面大校帽子上的人工栽毛不同。作为军官制服，一般是不能这样自行改动的。</p>
-<p>这里面应该是有什么说道：著名艺术家？谁的女儿、媳妇？谁的女友、密友？</p>
-<p>现在答案清楚了：她就是该团团长玄松月，一度被韩国媒体报道说是朝鲜领导人金正恩的前女友，并因为在金正恩与李雪主结婚后仍然对当年那段情史口不择言而被金正恩枪决。朝鲜方面让她在中国公开亮相，辟谣的动机十分清楚，而且，中韩关系不是正如蜜月吗？</p>
-<p>但与此同时，一起来华演出的朝鲜功勋合唱团却被美女们的图片掩盖了。而这个合唱团原属朝鲜人民军协奏团，该团的经典艺术水平和艺术沉淀，远高于金正恩夫人主抓的、建立时间不长的牡丹峰艺术团。而且，这个协奏团和中国很有渊源：参与创建这一协奏团的朝鲜艺术家郑律成，抗战八年一直和中国人民一起战斗在太行山和延安，并创作了传唱至今、并成为中国人民解放军军歌的《中国人民解放军进行曲》；同时，他又是朝鲜人民军军歌的作者，这在世界上恐怕是独一无二的，为此他得到了金日成主席的高度赞扬。</p>
-<p>看来，不管你资格多老，能否得到当朝领袖的青睐才永远是最重要的。这不由得让人想起中国当年江青主抓样板戏的那一幕了……</p>
-<p>然而事情还远不是这样简单：就在牡丹峰美女们到达北京的10号当天，朝鲜领导人金正恩宣布：朝鲜不仅已经拥有原子弹，而且拥有了氢弹！</p>
-<p>还有，据首都媒体的报道：此次朝鲜牡丹峰美女们的来华演出，不向中国公众公开售票，由朝鲜驻华使馆邀请约两千人观看……根据笔者了解到的情况，演出主要用于邀请中国对朝“友好人士”、代表性人物和革命后代，以及在北京的朝鲜驻华机构和企业的干部观看，甚至中国外事部门的票都很少。笔者就被外事部门支到宣传部门要票。</p>
-<p>至此，此次朝鲜对华“美女”外交的轮廓已经出来了：宣告朝鲜拥有原子弹和氢弹本身就是告诉你：我不怕你，别想让我屈服，朝鲜就是坚持拥核立场！而派朝鲜美女来华演出呢，当然是利用牡丹峰的美女们扩大国际亲和力、影响力。因为在一个封闭环境下出来的美女演出团，自然会吸引公众眼球——眼球就是影响力！</p>
-<p>藉此，金正恩向中国和世界展示了自己发展中朝关系的立场：可以友好，但前提是，和作为有核国家的朝鲜友好。</p>
-<p>同时，朝鲜对中国市场化媒体的宣传报道网开一面。这些市场化媒体铺天盖地的报道也在给世界留下一个印象：即中国并不在乎朝鲜拥核，这等于让中国自我否定了自己的朝鲜半岛“无核化”立场：你看，尽管朝鲜领导人公开宣称拥有了氢弹，中国还是在大力发展中朝友好交往嘛。朝鲜自己的媒体这几天也在连篇累牍地宣传牡丹峰艺术团来华演出，声称演出“必将征服中国观众”，而中国媒体的轰炸式报道，可以用高度配合来形容了。</p>
-<p>这一切，还让金夫人李雪主在国内政治上加了分。看，内政、外交都顾及到了，“两手”也都硬了。</p>
-<p>问题在于：这种先派美女演出团，再宣布朝鲜不仅拥有了原子弹甚至还有氢弹，把美女艺术和核武器这两样风马牛不相及的东西放在一起的做法，本身就是在给主张朝鲜半岛无核化的中国施加压力，最起码不能说是友好的做法，并在全世界面前坚持自己与联合国对立的拥核立场。</p>
-<p>此外，演出不对中国公众售票，而只对特定人士发放招待票的交流形式，不禁让人对朝鲜此次组织来华演出的动机生疑，也与国内倡导的反对公款消费的八项规定不符。</p>
-<p>根据中国已经投了赞成票的联合国制裁朝核问题的决议，在朝鲜公然宣称自己不仅“拥有了原子弹”，还“拥有氢弹”的背景下，朝鲜牡丹峰乐团在北京的造势演出是不合适的。金正恩这次，还是幼稚了。要是他父亲，一定会在牡丹峰乐团结束在北京演出的当天宣布朝鲜已经拥有了氢弹，那事情就麻烦了。战争边缘外交，不是谁都可以玩的。</p>
-<p>另一个给人印象深刻的事实是：这几天联合国安理会正在讨论朝鲜人权问题，如果通过相关决议，朝鲜人权案将被提交海牙国际刑事法院，而中国正和俄罗斯一起在联合国帮助朝鲜……</p>
-<p>别了，牡丹峰乐团的美女们。</p>
-<p>（注：本文仅代表作者本人观点。）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E5%88%AB%E4%BA%86%EF%BC%8C%E7%89%A1%E4%B8%B9%E5%B3%B0%E4%B9%90%E5%9B%A2%E7%9A%84%E5%A7%91%E5%A8%98%E4%BB%AC%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中朝关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝鲜问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B/?category=18271" rel="tag">朝鲜半岛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E7%89%A1%E4%B8%B9%E5%B3%B0%E4%B9%90%E5%9B%A2/?category=18271" rel="tag">朝鲜牡丹峰乐团</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%95%E4%B8%89%E7%95%8F%EF%BC%9A%E8%83%A1%E9%94%A1%E8%BF%9B%E5%B0%B1%E8%BF%99%E6%A0%B7%E9%BB%91%E5%8A%9E%E6%B5%A6%E7%9A%84%E6%9C%89%E5%85%B3%E6%96%B9%E9%9D%A2/" target="cdt-mirror">何三畏：胡锡进就这样黑办浦的有关方面</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4697cec3gw1eyuws0a6baj20k00c0abe.jpg" alt="4697cec3gw1eyuws0a6baj20k00c0abe" width="550" height="330" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/4697cec3gw1eyuws0a6baj20k00c0abe-300x180.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/4697cec3gw1eyuws0a6baj20k00c0abe-80x48.jpg 80w, http://chinadigitaltimes.net/chinese/files/2015/12/4697cec3gw1eyuws0a6baj20k00c0abe.jpg 720w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<div>
-<p>文／何三畏</p>
-<p>2015 年12月8日，有关方面召开浦志强案的“庭前会”。检方提交的犯罪证据只是共计六百三十几个字的七条微博，而且有的不见转发或只有一两个转发，隔“转五百”差得远，基本上没人看见，相当于家藏禁书。就这七条微博的内容来说，也相当普通，根本不足以支持犯罪指控。而且，网上一直很多类似言论，并没有被网络 警察视为犯罪。而把它们作为浦的罪证，只是在浦以一次家庭聚会涉嫌寻衅滋事被捕后，倒查出来的。可见，当时既没有危害，也没有人报案。</p>
-<p>“言论罪”跟其它行为罪不一样的是，原文转述一次，尤其是以同情及认可的态度原文转发一次，也就相当于照原样犯了一次罪！看看12月8日下午，多少人以赞成或 同情的态度原文转发了浦的全部“犯罪言论”，如果它真的适用“寻衅滋事”和“煽动XX分裂”的罪名，这次网络的扩散和放大，该滋了多大的事了，申代表等人 该被伤害得体无完肤，上吊自尽吧？民族也就在当天下午到晚上就加剧了XX吧？无数按浦的原样重复犯罪的网民，当然也该抓起来，跟浦治同等罪刑吧？</p>
-<p>但 事实上这些都没有发生。放大了无数倍都没有滋出事来，社会照样稳定，民族照样团结，同时，有关方面也不没有把那些转发和支持者抓起来。我觉得这也逻辑地证 明了浦没有罪。当然，我个人还认为，仅就这七条言论看，浦作为一个知识分子，批评政府的职责履行得还不够。总之，我看了起诉状和犯罪证据，就感觉以依法就 该放人了，应该有希望出来过春节，过五十一岁生日。</p>
-<p>然而，胡编锡进同志着急了。第二天（12月9号）就发出一篇他个人品牌的臭名昭著的社 评，咬定浦是政治犯。去年5月8日，浦刚被抓两天，胡锡进就发出了同样论调的社评。这两篇文章的陷害手法是，第一，必须在法律面前虚晃一枪，说现在既然抓 了，中国是一个法治国家，就要“依照法律处理”。第二，必须避谈具体案情，避谈公安抓人的理由，全篇只讲政治，把浦讲成<a href="http://chinadigitaltimes.net/space/%E6%94%BF%E6%B2%BB%E7%8A%AF">政治犯</a>。<br>
-上次（去年5月8 日），胡编说，浦作为一个律师，“更像一个社会活动家”，还是一个“<a href="http://chinadigitaltimes.net/space/%E6%AD%BB%E7%A3%95%E6%B4%BE%E5%BE%8B%E5%B8%88" target="_blank">死磕派律师</a>”，也就是“异见人士”，所以必须要“依法”把他搞掉。这次（今年12月9 日），胡编说，浦“身为律师，却长期热衷政治，是中国社会和舆论场上反体制的号召性人物之一。他的言行对社会治理明显构成了某种破坏力，这种破坏力形成挑 战法律权威的新形式”，所以必须“依法”把他搞掉。此外，这次，或许担心在区区七条微博证据面前，浦有可能漏网？胡编急了，径直“煽动”北京二中院判案要 “任性”一点。</p>
-<p>恶毒的话看三遍。上面引号内的话（以及胡编文章中类似的话）请看三遍，提神醒脑。当然，它的重要特征除了恶毒，还在于反动。它的反动本质是，一个公民“热衷政治”就是罪。难道胡锡进认为政治姓胡，是他家私器？只能他每天阴阳怪调地玩弄？并把它作为攻击他人的武器？</p>
-<p>不 过，我不会上胡编的当。跟着他的套路去讲政治就上当了——仿佛浦真的借用了他家的政治忘了归还。胡编，尽管热衷政治不犯法 ，但浦是不是“热衷了政治”， 是不是“反了体制”，是不是“破坏了社会治理”，是不是“挑战了法律权威”，有七条微博在，这是多少专案人员工作了多长时间从浦的多少言论中海选出来的， 你不相信他们的工作？如果不按这七条微博，而按你开列的政治帽子，没法判案，“任性”也没法判案，你说是吗？</p>
-<p>浦抓了，以寻滋罪抓的，你说 他是政治敌人。到法院了，两个罪名，七条言论，是经公安和检院一再延期反复确认的，你也不认，你还说他是政治敌人。按你的工作流程，过了法院关，你还会有 一篇，你会说什么，全国人民都早知道。胡编，你说来说去，表面上，是在陷害浦，实际上，也是黑北京公检法黑无数专案人员，你在检举他们假“寻衅滋事罪”以 及“非法获取公民信息罪”之名行政治打击之实。胡总，你觉得你这样做合适吗？公检法一直在法律和证据上工作，而你一再说他们在办政治案，你挟舆论陷浦案的 办案人员于不法的境地，你觉得你这样做合适吗？</p>
-<p>由于胡总锡进同志长期摆着一副怀揣密令的恶棍模样，让人莫测高深，已经有人叹息，浦案最终 还是由胡编定调。但我不认为检察官和审判官一定是跟胡编一样想的，胡编站着说话，可以“任性”，检察官和审判官的角色不一样，中央说了，案件终身负责，他 们怎么好像胡锡进同志那样“任性”呢。胡编锡进同志，我告诉你，浦案的各方工作人员可烦你了！历史的经验一再证明并将继续证明，玩政治阴谋的阴险小人没有好下场，你等着吧。</p>
-</div>
-<p>谢谢</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%95%E4%B8%89%E7%95%8F%EF%BC%9A%E8%83%A1%E9%94%A1%E8%BF%9B%E5%B0%B1%E8%BF%99%E6%A0%B7%E9%BB%91%E5%8A%9E%E6%B5%A6%E7%9A%84%E6%9C%89%E5%85%B3%E6%96%B9%E9%9D%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E4%B8%89%E7%95%8F/?category=18271" rel="tag">何三畏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%83%A1%E6%B3%B3%EF%BC%9A%E6%97%A7%E5%88%B6%E5%BA%A6%E4%B8%8E%E6%95%B0%E5%AD%97%E5%A4%A7%E9%9D%A9%E5%91%BD/" target="cdt-mirror">胡泳：旧制度与数字大革命</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/640-3.jpg" alt="640" width="548" height="431" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/640-3-300x236.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/640-3.jpg 640w" sizes="(max-width: 548px) 100vw, 548px"></p>
-<p>法国人托克维尔写过一部《旧制度与大革命》。由于一位国家领导人的推荐，这本写于一个半世纪以前的历史哲学著作几乎在一夜之间变得尽人皆知，成了一本超级畅销书。中国人今天读此书，会有一个观感：这本书是如此贴近我们的现实。</p>
-<p>比如托克维尔在前言中写下的这样一段话：“在这类社会中，没有什么东西是固定不变的，每个人都苦心焦虑，生怕地位下降，并拼命向上爬；金钱已成为区分贵贱尊卑的主要标志，还具有一种独特的流动性，它不断易手，改变着个人的处境，使家庭地位升高或降低，因此几乎无人不拼命地攒钱或赚钱。不惜一切代价发财致富的欲望、对商业的嗜好、对物质利益和享受的追求，便成为最普遍的感情。这种感情轻而易举地散步在所有阶级之中，甚至深入到一向与此无缘的阶级中，如果不加以阻止，它很快便会使整个民族萎靡堕落。然而，专制制度从本质上却支持和助长这种感情。这些使人消沉的感情对专制制度大有稗益；它使人们的思想从公共事务上转移开，使他们一想到革命，就浑身战栗，只有专制制度能给它们提供秘决和庇护，使贪婪之心横行无忌，听任人们以不以之行攫取不义之财。若无专制制度，这类感情或许也会变得强烈；有了专制制度，它们便占据了统治地位。”（托克维尔：《旧制度与大革命》，冯棠译，商务印书馆1992年9月第1版，第35页。）</p>
-<p>北大高毅教授认为《旧制度和大革命》的启示主要有两点：“第一，旧制度最大的弊端是统治者的腐败，只是在旧制度末期的时代条件下，这种腐败没有带来经济的凋敝，相反却促成了前所未有的物质繁荣，然而也正是这种繁荣加速了大革命的到来。第二，旧制度统治者的腐败，主要表现为贵族阶级的没落，此时已失去了它过去的社会管理职能，脱离了人民，却仍保持着种种令人憎恶的特权和占据着高官显爵的尊崇地位，从而加剧了社会不平等这个旧制度的顽症，而这也正是引发法国大革命的根本原因。”</p>
-<p>《庄子·齐物论》说：“方生方死，方死方生。”旧的腐烂当然也孕育着新的种子。托克维尔对此的描述是：“每个人都在自己的环境中焦虑兴奋，努力改变处境：追求更好的东西是普遍现象；但这是一种令人焦虑忧伤的追求，引人去诅咒过去，梦想一种与眼前现实完全相反的情况。”讨论互联网给中国带来的改变，首先要把互联网置于这种焦虑、这种对未来的不确定性以及这种浪漫化的想象之中来观照。</p>
-<p>近年来对中国互联网的流行观察不脱两个路数：一种是过度的乐观，欢呼互联网技术及其背后的思想理念和商业力量会彻底改变中国；一种是盲目的悲观，把中国看做奥威尔式“老大哥”的一统天下，人民在高压之下噤若寒蝉。两种看法都是虚幻的，都在某种程度上反映了媒体决定论的宿见。</p>
-<p>例如，对互联网的很多说法显示了媒体恐慌症的症状；又如，有很多人在虚拟的王国里渴望设计一个理想世界，一个与现世相反的理想世界。从根本上说，任何恐惧或理想都是媒体决定论的产物。</p>
-<p>互联网从诞生的最初时刻起，就一直与乌托邦与反乌托邦的图景与修辞纠缠不休。随着ICT技术的使用、功能与影响日益增强，个人的与公共的生活悉被覆盖，政治、经济、社会、文化等无不囊括其中，人们对互联网的认识变得更为多元，甚至在很大程度上是不可调和的。互联网一度被宣扬为民主参与和社会发展的工具，尤其给予边缘群体全新助力，帮助他们成为经济和政治生活的充分参与者；同时，人们也期待它可以对威权体制形成强大压力，促进开放和民主。然而，在今天，许多研究者发现，政治权力有能力迫使互联网按照自己的意愿发展，并经由新技术极大地增强“老大哥”的监控能力。公民的权利不仅在很多情况下被政府所剥夺，也被大企业所侵害。</p>
-<p>与此同时，社会性与地域性的鸿沟不仅始终没有消除，而且似乎还诞生了新的形式：例如，网络素养成为一个社会发展健康的公民文化的瓶颈。公民很大程度上现在可以利用ICT技术对公共政策发言、为自己坚信的事业聚集力量、通过大规模协作完成共同性的工作以及在整个社会中展开互助。我们把从事这些活动的公民称为“数字公民”。然而，成为数字公民必须满足两个要件：一是其必须具备广泛的技能、知识以及能够轻易地进入网络；二是有意愿在网上参与社会建设、政治进程以及对平等的经济机会的追求。这样的要件很自然地会把很多地方的民众排除在外，比如那些没有受过教育和不存在可行的上网方式的人。这在世界各地都绝非罕见：有许多人仍然不能阅读和写作；有些地方连电力都不能保证，上网不过是空想。这也表明，不断扩大数字公民在人口当中所占的比例，乃是各国政府的要务之一。</p>
-<p>数字文化中充满了挑战。一方面每个国家和地区的先行者都在利用新技术促进社会转变，特别是少数群体第一次获得机会挑战主流话语，为自身争取权益；另一方面网上充斥仇恨言辞和排外情绪，理性的公共讨论和建设性的批评甚为少见，达成共识也更加不易。加上互联网的超地理特性对族群认同形成压力，如何进行有意义的参与、对话，如何加强多元化的共存，都是数字公民的头疼问题。</p>
-<p>从国家与互联网的关系而言，全球国家业已分为两个阵营：那些坚持要对国民的信息入口实施更多控制的国家，倡导“国家主权模式”；而那些坚持“多利益相关方模式”的国家，则倾向于政府角色应大幅弱化。对于民间社会而言，这样的冲突更令世界各地的公民相信，互联网正走向一个制订“大宪章”的时刻，必须要求政府保护言论自由和公民的连接权利。正如英国的贵族们在1215年制订“大宪章”来约束不受欢迎的约翰国王的权力，今天，在“大宪章”800年之际，网民应组织起来遏制政府和企业的权力。</p>
-<p>互联网的“宪章时刻”存在三个突出的主题：一是自由与控制的关系，即如何平衡个人权利与安全。不少国家以强调安全之名牺牲公民自由与隐私，此一安全与自由之争在网络发展的各个领域都清晰可见。数字社会的复杂性质令我们需要重新思考固有的自由与安全的概念。个体公民更加关心自己的数据为何人掌握，政府则看到电脑犯罪、黑客活动、恐怖袭击等占据国家安全政策和国际关系的核心。我们有可能同时在网上获得自由与安全吗？</p>
-<p>二是如何建立数字信任。无所不在的互联网要求我们重新界定信任的边界，并在数字时代建立新的社会规范。用户现在可以方便、灵活地收发各种信息，这给网络法与网络规范造成了空前挑战。后者的问题在于，它们几乎总是落后于技术的发展。网络行为如何在规制与规范下得以发生和展开？信息的完整性与可靠性如何保证？边缘群体和弱势群体是否能共享技术带来的好处？在不同的语境和社会当中，到底如何才能建立数字信任？这种线上的信任又是怎样同线下的责任感、透明度等等关联在一起？在这些方面，我们的问题比答案更多。</p>
-<p>三是，数字社会的成熟化必然要求填平数字鸿沟与提高网络素养。网络接入权与网民素养是网络社会的基石所在，个人因此而赋权，知识藉此而撒播，从而确保不会有人中途掉下高速前进的互联网列车。在这里，数字鸿沟不仅意味着网络接入权的泛化与网络普及率的提高，还包括上网设备的成本、用户的技能、应用ICT技术的时间与机会以及用户使用的目的和影响等多个参数。我们常常看到，数字鸿沟的分裂带也是社会阶层与种族的分裂带，此外，年龄、教育程度、性别等的差异也不可忽视。例如，年轻的技术精英掌握编程技巧，熟稔代码，颠覆了传统精英的位置，致使整个社会弥漫“后喻”文化。然而数字一代的成长也需要新的教育、新的素养以及新的伦理，特别是在年长者对年轻人引领的网络规范充满狐疑的情况下。所有这一切决定了数字时代的连接是否最终会导向赋权，以及赋权的对象为何。</p>
-<p>总之，在互联网发展的最近10年，技术发生了许多重要变化，不论是工具还是平台，也不论人们对这些工具和平台的使用和理解，都显示出一种明确无误的演进：互联网终于由工具的层面、实践的层面抵达了社会安排或曰制度形式的层面。我们将面临一场“旧制度与数字大革命”的冲突。正是为此，围绕互联网的公共讨论和学术话语正在发生一场从“强调可能性、新鲜感、适应性、开放度到把风险、冲突、弱点、常规化、稳定性和控制看作当务之急”的迁移。</p>
-<p>我所说的这场冲突，构成全人类共同面临的一个关键性挑战：它并不仅仅关乎信息自由，而是关乎我们是否能够生活在同一个互联网、同一个国际社区和同一种团结所有人、并令所有人得益的共同知识之中。</p>
-<p>现在全球互联网分成了两大块，可以叫做互联网的旧大陆与互联网的新大陆。旧大陆是北美、西欧、日本；新大陆是亚洲、非洲、南美洲、俄罗斯。互联网普及率在发达国家为78%，在发展中国家仅为32%，尚未使用互联网的人90%以上在发展中国家。毫无疑问，我们已经来到了全球互联网的后美国时代。</p>
-<p>在这种情况下，互联网治理成为全球关注的事情。世界经济论坛研究全球互联网价值、信念与实践，得出四个见解：第一，新的联网国家在这个新世界里占主导地位；第二，一种互联网全球文化正在形成，对于表达自由、隐私、信任和安全，用户共享类似的价值观和态度；第三，用户什么都想要：他们并不认为表达自由、隐私、信任和安全是彼此排斥的，需要从中进行艰难的抉择；第四，新联网的国家拥有更自由的态度和更创新的行为，比如更支持表达自由，社交平台应用更广，而老的网络国家则更多使用传统的网络应用，态度更保守。</p>
-<p>总体而言，互联网的新大陆对于旧大陆来说具有决定性的作用。当然我们也知道，并非所有政府都支持自由和开放的互联网。事实上，目前对互联网自由的镇压越来越严重。很多国家都会过滤和审查网上內容，也颁布威胁网络言论自由的法律。</p>
-<p>互联网为每个人赋予力量——任何人都可以发言、创造、学习和共享资源。它不受个别机构、个人或政府操控。所以，各国政府不应该单独决定互联网的前途。全球数以十亿计使用互联网的人，才应该最有发言权。最好的方式是让国家政府退后一步，以便协调和整合各自的不同，积极促进公民社会和企业在全球治理、合作与沟通中发挥作用。而对于中国而言，如果要想成为真正有影响力的国际玩家，一定要认识到光成为经济大国是不够的，而是要让自己的人民生活在一个可以自由想象、自由沟通的环境中，让个体更有力量。</p>
-<p>法国已故“老虎总理”克莱孟梭讲过一句名言：战争太重要了，不可以把它交给将军们。我想套用这句话作为我为《另一个地球：互联网+社会》一书所作的这篇序言的结尾：互联网太重要了，不可以把它完全交给政府和企业。</p>
-<p>（点击“阅读原文”可以购买作者新近的译作《另一个地球：互联网+社会》）</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%83%A1%E6%B3%B3%EF%BC%9A%E6%97%A7%E5%88%B6%E5%BA%A6%E4%B8%8E%E6%95%B0%E5%AD%97%E5%A4%A7%E9%9D%A9%E5%91%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%B3%B3/?category=18271" rel="tag">胡泳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">中国互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">世界互联网大会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -672,7 +663,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%B3%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -682,5 +673,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%B3%B3
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

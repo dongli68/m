@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" target="cdt-mirror">【立此存照】当高科技网军占领网络上甘岭（可惜操作有误）</a>
+</h2>
+<p><p><a href="http://weibo.com/1935652125/D8nUXxLuu?from=page_1003061935652125_profile&wvr=6&mod=weibotime&type=comment">@在下张耀之的原微博</a>下相关“正能量”自动发帖程序（又称“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/" target="_blank">机器五毛</a>”）的评论已经在新浪微博上被删除，以下网友截屏来自豆瓣网。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-1.jpg" alt="bot-went-wrong-1" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-2-2.jpg" alt="bot-went-wrong-2-2" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-2.jpg" alt="bot-went-wrong-2" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-3.jpg" alt="bot-went-wrong-3" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-5.jpg" alt="bot-went-wrong-5" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-6.jpg" alt="bot-went-wrong-6" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-7.jpg" alt="bot-went-wrong-7" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-8.jpg" alt="bot-went-wrong-8" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-9.jpg" alt="bot-went-wrong-9" width="460" height="818"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-10.jpg" alt="bot-went-wrong-10" width="460" height="818"></p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%EF%BD%9C%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%8B%A6%E9%9A%BE%E4%B9%8B%E8%B7%AF%E9%80%9A%E5%90%91%E5%B9%B3%E5%AE%89%EF%BC%81/" target="cdt-mirror">有道云笔记｜斯伟江：苦难之路通向平安！</a>
 </h2>
 <p><blockquote><p><em>世上，你们有苦难，但你们可以放心，我已经胜了这个世界。（约翰福音16：33） </em></p></blockquote>
@@ -674,30 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/421316/" target="cdt-mirror">牡丹峰乐团来华演出突取消 传因不满中方改歌词要求（更新）</a>
-</h2>
-<p><p>【更新】国家大剧院发布演出取消<a href="http://www.chncpa.org/NewsSearchAct/zxxqAct.jspx?id=1408691">公告</a></p>
-<blockquote><p>亲爱的观众朋友：<br>
-原定举行的朝鲜功勋国家合唱团和牡丹峰乐团演出因故取消。<br>
-由此给您带来不便，我们深表歉意，感谢您对国家大剧院的理解和支持。</p>
-<p>国家大剧院<br>
-2015年12月12日</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%89%A7%E9%99%A2.png" rel="attachment wp-att-421328"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%89%A7%E9%99%A2.png" alt="国家大剧院" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/国家大剧院-300x247.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/国家大剧院-768x631.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/国家大剧院-1024x842.png 1024w" sizes="(max-width: 2408px) 100vw, 2408px"></a></p>
-<p> </p>
-<p><strong><a href="http://overseas.caijing.com.cn/20151212/4031135.shtml">财经网｜朝鲜牡丹峰乐团来华演出取消 人员离京舞台拆除</a></strong></p>
-<blockquote><p>原定于12月12日至14日在北京国家大剧院演出三天的朝鲜牡丹峰乐团今日（12月12日）离京。搜狐新闻从北京首都国际机场确认，他们乘坐的JS152航班在延迟约三小时后，已于下午16：07出港飞往平壤。知情人士透露，国家大剧院今晚的内部演出取消，舞台已经拆除，原定接下来两天对外售票的演出也已取消。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/61e04755gw1eyx05n813xj20c80gaq3g.jpg" rel="attachment wp-att-421319"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/61e04755gw1eyx05n813xj20c80gaq3g.jpg" alt="61e04755gw1eyx05n813xj20c80gaq3g" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/61e04755gw1eyx05n813xj20c80gaq3g-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2015/12/61e04755gw1eyx05n813xj20c80gaq3g.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/61e04755gw1eyx05nt82gj20c80ls3zb.jpg" rel="attachment wp-att-421318"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/61e04755gw1eyx05nt82gj20c80ls3zb.jpg" alt="61e04755gw1eyx05nt82gj20c80ls3zb" width="400" height=""></a></p></blockquote>
-<p>《北京日报》记者和小欣在其个人微博内称，据说牡丹峰合唱团演出突然取消的原因是中方要求改一句歌词，对方不同意，双方无法达成共识所致。</p>
-<blockquote><p><a href="http://weibo.com/1291443603/D85M8dL7w">@小心和小欣</a>：<strong>毛主席地球最大，金领袖宇宙最大</strong>。听说朝鲜牡丹峰合唱团下午已经打道回平壤了，原定国家大剧院的演出直接取消，原因是中方要改他们一句歌词，不让，谈崩了。真是任性的银啊。我为了拍他们，上周就找萱萱报名了，一直都没有采访的准点儿，昨天终于下通知了，却说朝鲜不让带摄影记者玩。现在谁都不带了～</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%94%B9%E6%AD%8C%E8%AF%8D.png" rel="attachment wp-att-421317"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%94%B9%E6%AD%8C%E8%AF%8D.png" alt="改歌词" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/改歌词-300x131.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/改歌词-768x336.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/改歌词-1024x448.png 1024w" sizes="(max-width: 2416px) 100vw, 2416px"></a></p>
-<p>截至发稿时，此事件尚未出现任何官方解释。搜狐新闻首发内容目前已被404（查看<a href="http://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2Fnews.sohu.com%2F20151212%2Fn431040369.shtml&ie=utf-8&oe=utf-8">谷歌缓存</a>）。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/421316/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E4%B8%89%E8%83%96/?category=18271" rel="tag">金三胖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -709,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -719,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

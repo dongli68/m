@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,130 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%AE%88%E9%AD%9A%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%B7%E6%A1%88%E5%89%9D%E9%9B%A2%E4%B8%8D%E9%96%8B%E7%9A%84%E5%85%AB%E4%B9%9D/" target="cdt-mirror">东网｜守魚：浦志強案剝離不開的八九</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690.jpg" alt="在政法大学上学时就是个“大个儿”。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>在政法大学上学时就是个“大个儿”。</p></div>
+<p>浦志強案已經開庭，在此之前，因為當事人要低調，外界也幾無聲音。然而，浦志強在當下的影響力無法低調，不僅開庭之前全國全面的拉網警告，開庭現場也聚滿了各國外交官、外國記者和訪民。</p>
+<p>法庭外的激烈對抗，和法庭內的保守辯護，形成了鮮明對比。前學運領袖周封鎖在推特上表達，「體制內發展，給浦志強提供了機會，可以成為今天的公眾人物。如果不提八九六四，浦志強的事只是雞零狗碎，消解了26年的積累。」這種聲音相對零散，更多的聲音是希望浦志強自由的呼聲，與法庭內圍繞被指控的微博言論進行的言論自由辯護相呼應。其中一種代表言論，表示浦案是中國法治進程的分水嶺。這樣的表達用在另一個人身上或許是一種鬥爭的策略，但放在浦志強身上完全不合適。如果2015年12月是中國法治的分水嶺，那麼他積極參與的1989年6月豈不成了政府依法處置暴徒。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA891.jpg" alt="浦志强891" width="260" height="194"></p>
+<p>將一個舉世關注的政治大案，弱化到生活層面，很類似近來的流行做法。在媒體界，不知何時起盛行的一種寫法，就是將個案衝突中公民與權力的碰撞，解構為兩個自然人在特定歷史時空中的交會。這樣的寫法不容易犯忌，讀起來也頗為類似知音體，細膩的生活細節和命運的無奈讓人敢看，民間弱女子手刃官員變成了戲劇化的衝突。如果普通案件做這樣的處理，倒也罷了，浦志強的案件，真的能割裂開大的歷史背景嗎？</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA-1.jpg" alt="浦志强" width="284" height="177"></p>
+<p>我也想起了和浦志強同一個律所，並且也在這一時期被刑拘的律師夏霖。據他自己的描述，他還是貴陽一個成功律所的合伙人時，日日聲色犬馬，而余世存先生的一篇鞭策八九一代的文章，讓他毅然做出決定，離開麻將桌，前往北京。在參與數起公民權利的案件以後，他如今也以涉嫌經濟案件的名義身陷囹圄。如果坊間非強調只能用六條微博定浦志強的罪名，說明浦志強的清白，讓人抓不住其他把柄，那麼夏霖豈不就成了不清白的一類。八九之後，無論是一直堅守的浦志強，還是後來又燃起青春激情的夏霖，今天的案件都是一代理想主義者的悲劇命運，而不是一個人網絡言論的遭遇。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA892.jpg" alt="浦志强892" width="192" height="262"></p>
+<p>浦案得到高度關注，浦志強本人的名聲，一方面是他多年來長期在體制空間邊緣行動的積累，而另一方面也不能忽視，他在八九運動中的突出身份，留下了深深地歷史烙印。有了後者的支撐，他在體制空間內推動漸進的努力，更能擁有凝聚體制內外改良派共同高度支持的道義基礎。八九學生的身份，承載了歷史的苦難，也凝聚了在苦難中繼續前行的堅韌，作為八九後的翹楚，成為眾望所歸的公眾人物。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA893.jpg" alt="浦志强893" width="214" height="235"></p>
+<p>這和周封鎖先生所言的26年積累之說倒是不謀而合。而全世界對案件的關注和聲援背後，八九的烙印無可抹去了。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%AE%88%E9%AD%9A%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%B7%E6%A1%88%E5%89%9D%E9%9B%A2%E4%B8%8D%E9%96%8B%E7%9A%84%E5%85%AB%E4%B9%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%B2%BE%E9%80%89/?category=18271" rel="tag">浦志强精选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A9%AC%E4%BA%91%E8%B1%AA%E6%8E%B720%E4%BA%BF%E6%94%B6%E8%B4%AD%E5%8D%97%E6%97%A9-%E8%87%AA%E7%94%B1%E7%81%AF%E5%A1%94%E4%B9%8B%E5%85%89%E5%B0%86/" target="cdt-mirror">美国之音｜马云豪掷20亿收购南早 自由灯塔之光将熄灭？</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s.png" alt="6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s" width="549" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s.png 640w" sizes="(max-width: 549px) 100vw, 549px"></p>
+<p>华盛顿—<br>
+中国政府的“大外宣”政策进一步渗入香港。这一次，香港销量最高的英文报纸《南华早报》未能幸免。周一（12月14日），南华早报集团宣布将以20.6亿港元（2.66亿美元）出售旗下媒体业务给中国阿里巴巴集团。马云此番收购行为使不少港人担忧香港的言论自由，已经被扼住的喉咙怕是要被攥得更紧了。</p>
+<p>马云豪掷20亿收购南早 自由灯塔之光将熄灭？</p>
+<p>《南华早报》创刊于1903年，是香港唯一的收费英文报纸。据公开数据显示，南华早报集团68%的收入来自报纸出版收入。曾在南华早报任财经记者的唐路对美国之音说，南华早报近几年一直亏损。她认为，马云此次收购其实是一笔亏钱的买卖。但是据中国媒体报道，阿里巴巴看重《南华早报》是因为其在英语文化圈的口碑，以及它的总部设在香港这一国际金融中心的地理优势。阿里巴巴集团执行副主席蔡崇信12月12日接受《南华早报》专访时也表示，香港的“位置很独特”“可以很好的覆盖全中国”。他还谈到《南华早报》作为一份英文报纸具有其他西方组织所没有的“独特优势”，“它可以让全世界的人更好地理解中国。”</p>
+<p>马云收购《南华早报》似乎是笔亏本买卖</p>
+<p>虽然阿里巴巴和中国媒体的报道都强调马云收购《南华早报》是单纯的商业行为，但似乎这种说法并不能令港人信服。</p>
+<p>曾在《南华早报》担任编辑的知名中国事务评论员林和立周一连线美国之音电视节目时谈到，马云此次收购行为应该是与中国的对外宣传政策有密切关系。他说：“因为阿里巴巴以及马云本人他跟中国党政高层的关系比较密切，很可能这一次的收购是配合中国的所谓大外宣政策，就是说利用有影响力的英文媒体来拓展中国的软实力。”</p>
+<p>他还表示，中国政府近几年一直鼓励大陆的商业集团收购香港媒体，阿里巴巴收购《南华早报》只是一个最新的例子，未来几年这样的收购行为还会更多。</p>
+<p>曾在《南华早报》工作过的刘慧卿和唐路也认同，目前香港媒体几乎已经全部受到中国政府的影响，其中一些甚至被直接控制。香港立法会议员刘慧卿对美国之音说：“香港现在真正独立的传媒都差不多没有了。独立、客观、公正的，差不多找不到了。这个很差。”</p>
+<p>一位不愿透露姓名的香港知名媒体人谈到，现在中文媒体在香港的影响力是最大的，这一点短期内不会改变。因此，《南华早报》作为一份英文报纸，它的地位近几年一直在降低。再加上它的编辑层经常对于选题等进行严格的自我审查，它的可信度也在降低。</p>
+<p>唐路说，自从王向伟2012年2月开始担任《南华早报》总编一职后，“《南华早报》整个就是一个中国日报海外版。”刘慧卿也表示：“这几年南华早报也是很小心，他们也是想自我审查，很多比较敏感的东西他们都不报了。他们内部有些时候就吵架了，因为有些编辑、有些记者都希望写的，但是高级的编辑就不允许他们报，所以就是很麻烦的。”</p>
+<p>王向伟1996年加入南华早报，2000年成为中国版主编，07年成为副总编。他曾经还有一个身份是中国吉林省政协委员，一度受到争议。《南华早报》今年11月宣布，2016年1月1日起，副总编谭卫儿将接替王向伟担任总编。王向伟会继续在《南华早报》担任总编顾问。</p>
+<p>为什么是马云？</p>
+<p>马云创立的阿里巴巴集团是目前全球最大的网上及移动商务公司，它在电子商务行业的迅速成长令同行难以望其项背。马云此番转向进军媒体业，令人疑惑其目的所在。一些人分析认为，马云这次收购行为实质上是执行政治任务。</p>
+<p>据报道，2013年7月，阿里巴巴集团主席马云曾与《南华早报》发生冲突。原因是《南华早报》刊登的一篇马云的专访中提到马云对于六四天安门事件的态度。马云据称在采访中说六四武装镇压是“最正确的决定”。之后撰文记者向马云致歉并辞职。</p>
+<p>在阿里巴巴收购之前，《南华早报》由马来西亚华裔富商郭鹤年持有。记者试图联系郭鹤年任董事长的马来西亚郭氏兄弟有限公司，电话无人接听。之后记者致电阿里巴巴集团总部，对方表示不能提供任何部门电话给媒体。</p>
+<p>林和立说，郭鹤年收购后，《南华早报》变得亲中，而现在被马云收购后或将更加保守。唐路也猜测说：“我估计是中共觉得郭鹤年这些毕竟不是自己人，它不可能完全百分之百控制。”而前文那位不愿透露姓名的香港知名媒体人分析说：“因为南华早报在香港的立场和地位，他们不能随便把它卖给谁，必须卖给北京认为政治上可以接纳的公司或个人。所以即便不是马云，也会是和他差不多的人。所以我觉得这次收购是可以预见的。”</p>
+<p>这位媒体人还谈到，媒体的可信度依赖于其独立性、开放性和稳定性，而中国政府利用马云收购《南华早报》的行为正是在破坏它的可信度。他说，此次收购后，《南华早报》的影响力恐怕会更加减弱，但是北京方面并没有真正意识到这个问题，仍把它当作是可以利用的宣传工具。</p>
+<p>蔡崇信在一封致读者的公开信中表示，《南华早报》日常报道的选题将仍由编辑室决定，管理层不会干涉。同时，《南华早报》数字版将取消现在的收费模式，改为免费网站。</p>
+<p>环时华邮发社论，南早命运难定</p>
+<p>环球时报周二发表社评，告诫香港舆论不要紧张。社评说，南早原本就由马来西亚人控制，现在转到阿里巴巴手里，南早原来的读者群没变，香港社会的大环境没变，可谓制约因素重重。</p>
+<p>社评说：”去香港冲锋陷阵，做改变那里舆论生态的‘决定性角色’，马云这位‘在商言商’者即使心血来潮，也必缺少法术。“</p>
+<p>不过，美国大报华盛顿邮报也在周二发表社论说：外界势必会对《南早》未来的编辑独立性感到担忧，因为马云与北京方面关系密切。文章说，这份百年报纸一直是一家自由独立的媒体，但是在中国收回香港的主权之后，迫于北京方面的压力，这种独立性已逐渐丧失，而如今，“有理由担心，甚至是这灯塔发出的微弱之光也将要被掐灭”。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A9%AC%E4%BA%91%E8%B1%AA%E6%8E%B720%E4%BA%BF%E6%94%B6%E8%B4%AD%E5%8D%97%E6%97%A9-%E8%87%AA%E7%94%B1%E7%81%AF%E5%A1%94%E4%B9%8B%E5%85%89%E5%B0%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8D%89%E6%A6%B4%E7%A4%BE%E5%8D%80%EF%BD%9C%E4%B8%AD%E5%9C%8B%E6%B3%95%E5%88%B6%E5%BB%BA%E8%A8%AD%E7%9A%84%E8%AC%8A%E8%A8%80%E5%8F%8A%E6%82%B2%E5%93%80-%E7%B4%80%E5%BF%B5%E6%B5%A6%E5%BF%97/" target="cdt-mirror">草榴社區｜中國法制建設的謊言及悲哀–紀念浦志強案開庭</a>
+</h2>
+<p><p>詞二首</p>
+<p>虞美人</p>
+<p>官官相護何時了<br>
+冤案知多少<br>
+月黑高飛捕律師<br>
+官吏觥籌交錯裝不知</p>
+<p>世間正義應猶在<br>
+不畏強權礙<br>
+問君共匪幾時休<br>
+恰似癌瘤雖死未能瘳</p>
+<p>江城子</p>
+<p>雙眼迷濛霧茫茫<br>
+吸毒量<br>
+斗難量<br>
+空氣數據<br>
+欲蓋卻彌彰<br>
+縱使相逢應不識<br>
+百米遙<br>
+若蒙霜</p>
+<p>夜來幽夢忽還鄉<br>
+清池塘<br>
+精神爽<br>
+睜眼無奈<br>
+唯有霾莽莽<br>
+料得年年咳嗽時<br>
+塵滿面<br>
+肺千瘡</p>
+<p>昨天發的這兩首 詞 主要是爲了今天的文章的。而很不幸，結果就如我預想中的一樣。</p>
+<p>其實我每次發的帖子也都是一次小小的調查。然而每一次的調查結果其實都是很悲催的。結果最後再討論，先容介紹一下今天的主角，浦志強律師，主要介紹一下他的主要貢獻。</p>
+<p>一、八九學運<br>
+1989年5月13日13时，中国政法大学首批绝食同学。浦志强回忆：“1989年6月3日我在广场，算是许个愿吧，如果可以活着出去，以后每年都要回来看看。”7自1989年起，每年6月3日，浦志强都亲自到天安门广场，每年亲自给失去孩子的天安门母亲丁子霖教授打电话<br>
+二、实名举报周永康<br>
+這個大家應該很清楚了，不摘錄了。<br>
+三、律師維權(部分)<br>
+2013年- 温州于其一双规期间被刑讯逼供致死案。<br>
+2013年-与张雪忠、斯伟江、杨金柱、杨学林、周泽、张培鸿等律师一同参与刘萍、魏忠平、李思华新余三公民案件。<br>
+2013年-唐慧劳教案<br>
+2011年-艾未未税务案件<br>
+2011年-任建宇劳教案<br>
+2009年-谭作人案<br>
+2008年-河南沁阳八村民检举党书记，遭控诽谤案<br>
+2005年-原南方都市报总经理喻华峰向最高法院上诉案<br>
+2004年-爱新觉罗·启笛诉中央人民广播电台案<br>
+2004年-张西德诉《中国农民调查》作者陈桂棣和吴春桃夫妇案<br>
+2004年-李晓华诉《21世纪经济报道》案<br>
+2003年-广州华侨房屋开发公司诉《中国改革》杂志社案<br>
+2001年- 方竹笋劳教案</p>
+<p>總之，他积极主张废除劳动教养制度、妥善解决六四事件。常代理维权辩护案件，案件以涉及公民权利为多。浦志强曾经因参与调查多起案件而数次遭到中国警方逮捕，例如著名的谭作人案、艾未未案。他于2013年2月6日公开实名举报前中共中央政治局常委周永康，要求中共高层清算周及其在任时的政法委系统十年维稳的问题，并建立法治社会和宪政体制。</p>
+<p>因爲他今天要開庭受審，所以我昨天寫了那帖子想紀念一下。文章標題爲 詞二首。 起這個名字主要是想看看到底還有多少人對古典文化有興趣。很不幸，從發貼截止到現在的32小時間，只有可憐的24個回覆。那麼更爲不幸的是，這24個回覆裏可能只有3個知道我在寫什麼，但是沒有1個明確提到浦志強律師。其實我個人覺得上的來草榴的羣體，不論是文化的平均水平還是政治覺悟的平均水平應該是高於國內均值的，我想這一點大家都應該沒有什麼異議吧。可是結果確是如此悲慟。</p>
+<p>我爲什麼要寫浦志強律師呢？當然是因爲他這個事件很重要。那他這個事件重要的什麼程度呢？之前寫了自由對於民主非常重要的意義。那麼法制就是自由的另一個方向，它對民主也是一樣重要的意義。如果一個人關心民主，卻不關心自由和法制，那還真難以被稱作民主人士。在我們國土上，自由的淪陷已經沒什麼好說的了。可是最近老是再喊的什麼法制建設的聲浪似乎一浪高於一浪，可是從一開始我就已經闡明，土共現行的統治模式是不可能跟法制相兼容的，浦志強律師的這個案件的開庭有着其重要的意義就在於印證了我之前表述過的觀點，土共宣傳的法制建設只能淪爲其專制的傀儡。在一個專制的社會，自由與法制必定導致專制走向其終點。這是土共非常不願意看到的。但是土共看到我的這篇文章卻會非常開心，因爲他可以從我這篇文章的調查結果發現，他的統治依然可以長治久安</p>
+<p>今天，在北京二中院的門口，聚集了一小撮，注意只是一小撮。這一小撮人裏面，外國人加便衣加警察應該佔到了一半左右。這就是咱國家的殘酷的國民國情。爲什麼我會這麼痛心。既往那些什麼案什麼案其本質跟今天的這個浦志強案有着絕大的不同，因爲既往絕大多數只是針對的是些草民人士，可是今天，當國的黑暗魔爪卻伸向了維護當年那些草民人士法律權利的律師，這就是對法制建設直接踐踏的一個標誌性事件。也標誌着土共法制建設謊言的徹底破產。這無異於對當今中國還有那麼一點點希望的釜底抽薪。這個開庭之前，如果說非法羈押浦志強，然後像某些人士那樣，沒開庭就悄悄把人家放了，那麼這明面上還不至於達到踐踏法制建設的地步。可是這一開庭，不管是怎麼個宣判，這法制建設的謊是無論如何也無法圓了。當然，今天土共沒宣判，但是據我的推測，根據現場國民人數甚少的情況，以及草榴社區這裏也是幾乎默默無聞的情況，再審宣判有罪入刑，於我看來是十拿九穩了。其實土共今天自己是知道事關重大的，所以肯定是提前就做好了不宣判的決定的。嘿～～只是沒想到這社會反響這麼小，沒想到多年洗腦灌輸的成果如此豐碩，他圈養的這羣碩鼠反而一點沒覺得這事態嚴重。</p>
+<p>一個國度的文明程度，是建立在其文化的基礎之上的。我發一篇原創詞二首爲題的帖子，卻只有區區24個回覆。其中還有不少是那種感謝分享式的疑似機器回覆。一個沒有文化爲基礎的政治那必定是無法理性的。而很可惜的是，這24個或許是對文化比較感興趣以及比較有了解的人卻又對政治不怎麼敏感。</p>
+<p>一個政治霧霾如此嚴重的國度，其天空霧霾久久不散也就不足爲奇了。</p>
+<p>土共，這一棋你又贏了。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8D%89%E6%A6%B4%E7%A4%BE%E5%8D%80%EF%BD%9C%E4%B8%AD%E5%9C%8B%E6%B3%95%E5%88%B6%E5%BB%BA%E8%A8%AD%E7%9A%84%E8%AC%8A%E8%A8%80%E5%8F%8A%E6%82%B2%E5%93%80-%E7%B4%80%E5%BF%B5%E6%B5%A6%E5%BF%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%87%A1%E7%BB%99%E9%92%B1%E4%B9%8B%E9%81%93%EF%BC%8C%E4%B8%8E%E6%97%B6%E6%9C%BA%E5%81%95%E8%A1%8C/" target="cdt-mirror">【习总日记】 凡给钱之道，与时机偕行</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，12，16 ）</p>
@@ -464,108 +585,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E4%BC%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%BE%81%E6%8A%BC%E8%BF%91600%E5%A4%A9%E5%90%8E%E5%8F%97%E5%AE%A1%E7%BB%93%E6%9D%9F%E6%9C%AA%E8%AE%A4%E7%BD%AA/" target="cdt-mirror">端传媒 | 浦志强羁押近600天后受审结束未认罪</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-1024x683.jpg" alt="中国维权律师浦志强案12月14日上午9点在北京市第二中级法院开庭审理，未当庭宣判。摄 : Ng Han Guan/AP" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/cfac3178601f4b2aa6936a308f93ad43.jpg 1080w" sizes="(max-width: 550px) 100vw, 550px"><p>中国维权律师浦志强案12月14日上午9点在北京市第二中级法院开庭审理，未当庭宣判。摄 : Ng Han Guan/AP</p></div>
-<p>中国知名维权律师浦志强被控煽动民族仇恨和寻衅滋事一案，于12月14日上午9点在北京市第二中级法院一审公开审理，但除浦志强的妻子孟群外，其余亲友皆未获准进入旁听。庭审约在中午结束，浦志强最后陈述不长，没有认罪，法庭称将择期宣判。</p>
-<p>此案之前曾被三次延期侦查、两次退回重新侦查和两次延长审理期限。当事人浦志强自去年5月6日被警方带走后，至今已被羁押长达1年7个多月。</p>
-<p>据浦志强的亲友转述孟群消息称，浦志强头发花白，瘦了很多，不过思维敏捷，语言锋利，精神状态很好。庭审结束后孟群对浦志强说，“朋友们都在外面，我们都支持你。”</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-1024x683.jpg" alt="为表达声援，中国网民在一个微信群中将头像都换成了浦志强。" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/15f9357d318147099232bd3fcc4ed54a.jpg 1080w" sizes="(max-width: 550px) 100vw, 550px"><p>为表达声援，中国网民在一个微信群中将头像都换成了浦志强。</p></div>
-<p>14日上午，多名赶赴现场的人士透露，开庭前已有多家媒体在门口守候，其中包括不少国外媒体。法院门口拉起了警戒线，有警察在外面盘查身份证和记者证。不少身著便衣、面戴口罩的安保人员在现场协助维护秩序，并驱赶围观路人。有外媒记者被安保人员肢体冲撞，美国及欧盟使馆官员在法庭外发表现场声明时亦被推搡干扰。</p>
-<blockquote><p>我们是来为群众服务的。</p>
-<footer><cite>现场安保人员胸前或袖口都贴有“笑脸”贴纸，当被问及为何要贴时他们回答</cite>
-</footer></blockquote>
-<p>浦志强的代理律师尚宝军透露，在12月8日召开的庭前会议上，检方提出控罪主要证据是他在2011至2014年间发布的微博，不过已从今年5月用来控罪的30条微博减少到只剩7条，内容涉及批评中国官员、人大代表、政府，以及评价新疆政策及去年3月昆明火车站发生的暴徒持刀袭击路人事件。</p>
-<p>尚宝军表示，浦志强至今仍认为自己是无罪的，之所以被控告主要是因为自己有话就直说的个性。</p>
-<p>知名媒体人何三畏在他的博客撰文分析，当局已经透过浦志强案达成了“让更多的人闭嘴”的预期目的，且也已经穷尽了所有法律程序，但定罪依据只有600多字的微博，因而很有可能会择机放人。</p>
-<blockquote><p>他（浦志强）承认他的有些言论或许有点过火，有嘲讽成分，甚至无理不敬，他愿意道歉，但他不认为他犯了任何法律。</p>
-<footer><cite>浦志强的律师尚宝军</cite>
-</footer></blockquote>
-<footer><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-1024x683.jpg" alt="便衣警察拉走一名到法院声援的浦志强支持者。 摄:Kim Kyung-Hoon/REUTERS" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/8457626a71384cdc8835277ba1156e06.jpg 1080w" sizes="(max-width: 550px) 100vw, 550px"><p>便衣警察拉走一名到法院声援的浦志强支持者。 摄:Kim Kyung-Hoon/REUTERS</p></div>
-<p>浦志强出生于1965年1月，河北唐山人，被拘留前曾是北京华一律师事务所合伙人。他1986年毕业于南开大学历史系，1988年又考入中国政法大学攻读法学硕士学位。1989年5月13日，他与其他12名同学成为政法大学首批在天安门广场绝食抗议的学生。</p>
-<p>浦志强于1991年获得法学硕士的学位，1993年取得了经济师的职称，1995年获得律师执业资格，并自1997年起开始执业。2009年起，他曾代理过谭作人案、任建宇劳教案、艾未未税务案、唐慧劳教案等多个在中国产生巨大社会影响的维权案件，成为中国最著名的维权律师之一。</p>
-<p>2014年5月6日，浦志强被北京市公安局海淀分局刑事拘留，罪名是“寻衅滋事”。3天前，他曾在朋友家中与其他12名学者一同举行了“六四纪念研讨会”，当时与会者多人都陆续被带走。</p>
-<p>6月13日，即依中国《刑事诉讼法》规定对“流窜作案、多次作案、结伙作案的重大嫌疑分子”批捕期限（37天）的最后一天，检察机关批准了北京市公安局以涉嫌“寻衅滋事罪”、“非法获取公民个人信息罪”对浦志强执行逮捕。</p>
-<p>浦志强当时的代理律师张思之于7月19日接受《亚洲周刊》采访时称，当局拿走了浦志强律师事务所十年来的全部账本，企图在经济与政治问题上寻找定罪依据。同月，张思之律师接受《明报》专访时表示，当局也仔细翻查浦志强多年的大量日记和微博留言，猜测他们可能会从浦志强过去的言论中寻找把柄。</p>
-<p>8月13日，浦志强案侦查羁押期满，依据中国《刑事诉讼法》第154条和156条中对于“案情复杂”和“重大复杂案件”的相关规定，侦查期被延长三个月。</p>
-<p>11月13日，侦查期限届满，浦志强被控“煽动分裂国家罪”和“煽动民族仇恨、民族歧视罪”，案件也被移交北京市检察院二分院审查起诉。</p>
-<p>12月13日，检察机关在没有说明具体理由的情况下，将浦志强案退回公安机关补充侦查，期限为一个月。2015年1月13日，退侦期满，卷宗移交回检察院。2月13日，第二次审查起诉期限届满，检察院在延长15天期限后，第二次退回公安机关再补充侦查一个月（中国《刑事诉讼法》规定补充侦查两次为限）。待案件再次移交回检察院，并又经过一个月及延迟15天的审查期后，正式起诉前的所有法律程序上的时限都已经耗尽，而距浦志强被捕已超过一年。</p>
-<p>今年5月15日，北京市人民检察院第二分院以浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”两项指控向北京市第二中级法院（下称“北京市二中院”）提起公诉。起诉书称：“被告人浦志强利用信息网络，先后多次发布微博，煽动民族仇恨，情节严重；公然辱骂他人，情节恶劣，破坏社会秩序，依法应当追究其刑事责任。”</p>
-<p>检察院起诉后，北京市二中院曾两次上报申请延长审理期限，并分别于8月18日和11月18日获得北京市高级法院和中国最高法院的批准，审理期限共被延长达6个月，达到了中国法定审理程序的最长期限。</p>
-</footer><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%BE%81%E6%8A%BC%E8%BF%91600%E5%A4%A9%E5%90%8E%E5%8F%97%E5%AE%A1%E7%BB%93%E6%9D%9F%E6%9C%AA%E8%AE%A4%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E6%98%AF%E6%88%91/" target="cdt-mirror">【异闻观止】六神磊磊：社会主义核心价值观是我创作出发点</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/4640ce2293df8d7-1.jpg" alt="4640ce2293df8d7" width="345" height="607"><p>六神磊磊</p></div>
-<p>导语：12月12日，《新周刊》杂志主办的“2015中国年度新锐榜”将“推委会特别大奖”给了“微信公众号”，评价其为最多元趣味的养成所、最大的媒体实验场和承载创业雄心的最低成本平台。因自开公号写“读金庸”而成名的六神磊磊，作为代表之一，结果了这樽奖杯。</p>
-<p>凤凰文化与其进行了独家对话，了解了一个文字之外真实的六神磊磊。他为人和为文一样好玩，却并不显得油滑精明，相反有一种强烈的平凡气。曾经供职新华社的他，做过记者，他说社会主义核心价值观一直是自己一切创作的出发点，开公号写金庸完全是随意而为。随着名气越来越大，他的时间变得越来越不够用，于是最近他辞去了工作，成为一个全职的自由写作者。但他说自己从小就缺乏计划，不知道自己以后会干什么，所以只能是先写着，把金老爷子写不行了再说。</p>
-<p>他说只要发生一些事情的时候，别人会想到看看小磊怎么说，他就很开心了。</p>
-<p><strong>自媒体没有改变文字好坏的标准</strong></p>
-<p>凤凰文化：你的写作风格是怎么形成的？是一开始就是这样，还是开始做公众号，这种风格会比较讨喜？</p>
-<p>六神磊磊：原来就是这样的。怎么回事呢？以前我们新华社让写读书笔记，每个季度都要写，写了之后挂在墙上，我写得还挺认真的，每篇我都这么写，但写了之后每季度要换新的，也有秘书就把笔记拿下来扔了，我觉得挺可惜，自己写了这么多感悟，这么主旋律又符合社会价值观的东西就这样没有了，特别可惜，然后就发到网上，一直这样。</p>
-<p>凤凰文化：你在微信时代之前的，比如说论坛、博客这些，有尝试过吗？</p>
-<p>六神磊磊：没有，都是自己拿着玩，跟朋友聊天的。</p>
-<p>凤凰文化：没有试图在网上写文章？</p>
-<p>六神磊磊：没有，根本想都没想过这个事。我也是记者编辑，给单位写稿子累得不行了，回家哪想往网上去写，网上去写不给我钱我不干，何必呢，我给单位写多好，根本就没想。</p>
-<p>凤凰文化：新媒体以及它的传播规律对内容呈现方式的影响，你认为对于文字创作也好阅读也好，是有所损害还是有所启发的？</p>
-<p>六神磊磊：我觉得没有这么严重，我们经常听说一些词叫浅阅读、碎片化阅读，没有这么严重。比如说经常有人说自媒体上的东西太长不好，太长了没有人看，不能超过两千字，我自己经常会写五千字的东西，五千字长到连以前我们单位的报纸都觉得版面放不下，但是放在自媒体里最后阅读数还不错。所以我觉得自媒体没有改变文字好坏的标准，没有那么严重，而且一个很小的消息，放在今天的自媒体上肯定会做出很好玩的来。</p>
-<p><strong>社会主义核心价值观是我一切创作的出发点</strong></p>
-<p>凤凰文化：现在在干嘛？</p>
-<p>六神磊磊：我刚辞职了，但是手续还没办完。</p>
-<p>凤凰文化：为什么？是觉得已经忙不过来了吗？</p>
-<p>六神磊磊：不能兼顾了，没时间兼顾了。</p>
-<p>凤凰文化：你会感到“入不敷出”吗？自己积累的东西已经不断地往外掏，同时时间被更多的占用了，没有办法去补充大量营养。</p>
-<p>六神磊磊：这个很简单，躲起来不写嘛，现在倒还没有关上门看书。</p>
-<p>凤凰文化：你会觉得自己很分裂吗？因为你原本的工作是在新华社，而从你的文字、你的思路，看得出来你完全是另外一种人。</p>
-<p>六神磊磊：第一，我的特点是党性强，我是一个多年的老党员，社会主义核心价值观是我一切创作的出发点。第二，也不存在分裂，因为给单位写作和自己写作不一样，成年人这个能力还是有的，第三个就是给单位写东西的时候也做到我手写我心，不说违心的话。</p>
-<p><strong>先把金老爷子写不行了再说</strong></p>
-<p>凤凰文化：那你现在就是算赋闲了，时间怎么安排？</p>
-<p>六神磊磊：在家里看书吧，还在写一本书，把书写好。</p>
-<p>凤凰文化：每天会有多少时间拿来阅读？</p>
-<p>六神磊磊：其实我读书不多，这是真心话，但我喜欢读，比如我一个人吃饭的时候，边上不看看有字的东西就会很难受，当没有任何东西可以读的时候，我就把能找到的说明书、各种东西拆开来读。</p>
-<p>凤凰文化：你会对自己的阅读有一个目的性的选择吗？</p>
-<p>六神磊磊：过去没有，过去一直没有，后来有意识地去看一点比自己的知识理解能力更高一点的，觉得这样才能让自己进步，总去看一些自己觉得很舒适很顺畅的书很难进步。</p>
-<p>凤凰文化：除了读金庸的东西，你其实也会写一些评论的东西，但是你和别人写评论不一样，就是你很多还是会拿金庸东西去套，这个是满足大家的需求，还是说金庸的这些东西已经成了你某种意义上的工具了？</p>
-<p>六神磊磊：是这样的，说起来挺简单的，我这个号刚开始开的时候叫“读金庸”，本来就想搞成一个金庸小百科的东西。但后来因为都是媒体人，看见人家评，看见热点闲不住，就想说，可我又必须在自己的号里发，那怎么办呢，就往金庸上面挂，一挂二挂就挂成现在这个样子了。</p>
-<p>凤凰文化：自己会对这种方式有所厌烦吗？</p>
-<p>六神磊磊：没有，我觉得挺好玩的，乐在其中。</p>
-<p>凤凰文化：不会想摆脱吗？因为你的名字已经没有办法和金庸分开了。</p>
-<p>六神磊磊：乐在其中。</p>
-<p>凤凰文化：那除了读金庸，以后还会开发更多的写作题材吗？另外，你对自己的文字有一种期待吗？</p>
-<p>六神磊磊：今天叫新锐榜，刚才说过一切过时的东西都曾新锐过，我现在的想法是写到当发生一些事情的时候，别人会想到看看小磊怎么说，我就很开心了，没有太多想以后怎么办，我也是没有什么计划的人，我觉得关于金庸就够写很久很久，先把金老爷子写不行了再说，再看再写其他的。</p>
-<p>我现在还在写一本书是关于唐诗的，也不是说想留存什么价值，我只是想做一个唐诗的普及者，把唐诗里面一些很好玩很有意思的东西介绍给大家，告诉大家这个东西真的很好玩很美，你们没有注意到。</p>
-<p>凤凰文化：所以以后就是做一个职业的自由写作者了，还是说可能会再有另外工作的打算？</p>
-<p>六神磊磊：以后想得比较少，我只知道明天干什么，后天就不知道要干什么了。</p>
-<p>凤凰文化：从小就是这样一个没有计划的人吗？</p>
-<p>六神磊磊：干到哪算到哪。</p>
-<p>凤凰文化：我觉得这种心态也挺好的。</p>
-<p>六神磊磊：怎么办呢，因为世界变化太快。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E6%98%AF%E6%88%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E4%BE%A0/?category=18271" rel="tag">武侠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%BA%B8/?category=18271" rel="tag">金庸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%AA%92%E4%BD%93/?category=18271" rel="tag">自媒体</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C-2/" target="cdt-mirror">苹果日报｜浦志強今北京受審　龍應台臉書聲援</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/640_ba50a339b031ac04afa5ef620495b493.jpg" alt="640_ba50a339b031ac04afa5ef620495b493" width="550" height="429" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/640_ba50a339b031ac04afa5ef620495b493-300x234.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/640_ba50a339b031ac04afa5ef620495b493.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><br>
-中國維權律師浦志強在北京受審，前文化部長龍應台今凌晨在臉書（http://ppt.cc/TYUlB）發文聲援，她表示：「天快亮了！律師浦志強是一個頂天立地的中國公民。今天上午九點，他將被帶到北京第二中級人民法院受審。法官應該知道，全世界的華人都在等候這早上九點，等著看：在偉大的『中國夢』裡，國家這個機器將如何處置寫了六百多字的浦志強。是的，北京，請做給我們看。我們需要知道『中國夢』裡文明的進度究竟走到了哪裏。」（大陸中心／綜合外電報導）</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94%E5%8F%B0/?category=18271" rel="tag">龙应台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%B2%BE%E9%80%89/?category=18271" rel="tag">浦志强精选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -577,7 +596,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -587,5 +606,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

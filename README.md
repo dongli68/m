@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/" target="cdt-mirror">【立此存照】五毛召唤术：“pu志强”的魔力</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/">浦志强案</a>开庭后，新浪微博一夜之间冒出许多疑似来自机器人的相关评论。然而不知是否因<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/">操作有误</a>，微博用户@在下张耀之 发布的以下这则微博内出现了大量带有数字序号的相关评论；且浦案明明是择日宣判，这些带有序号的评论中却有不少诸如“判得好！”“支持法院的判决！”等“先知”的内容。</p>
+<blockquote><p>@在下张耀之：汪峰老师曾唱过，我爱你中国，亲爱的母亲，我为你流泪，也为你自豪。在pu志强受审的这一天，官方发布了对薄谷开来和刘志军的减刑公告。</p></blockquote>
+<p>于是有不少网民发现<strong>只要使用关键词“pu志强”，就能召唤出机器五毛评论</strong>。</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/space/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E8%AF%84%E8%AE%BA%E5%BA%93%E5%88%97%E8%A1%A8">浦志强案机器五毛评论库列表</a></p></blockquote>
+<p><strong>实验成功(!)：<em>（</em></strong><em>编者小贴士：试验前请确认已开放评论）<strong><br></strong></em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF1.jpg" rel="attachment wp-att-421771"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF1.jpg" alt="五毛召唤术1" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术1.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF2.jpg" rel="attachment wp-att-421772"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF2.jpg" alt="五毛召唤术2" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术2-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术2.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a></p>
+<p>不出所料，<strong>相同内容的微博可以很轻易地召唤出机器五毛</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF5.png" rel="attachment wp-att-421776"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF5.png" alt="五毛召唤术5" width="475" height="1222" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术5-398x1024.png 398w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术5.png 601w" sizes="(max-width: 475px) 100vw, 475px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF6.png" rel="attachment wp-att-421777"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF6.png" alt="五毛召唤术6" width="475" height="1216" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术6-400x1024.png 400w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术6.png 604w" sizes="(max-width: 475px) 100vw, 475px"></a></p>
+<p>宁可错杀三千，不可放过一个。这些自动评论其实<strong>在所有符合关键词的微博下都会出现</strong>，很显然是在新浪微博全站搜索后统一部署：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF4.png" rel="attachment wp-att-421775"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF4.png" alt="五毛召唤术4" width="475" height="1257" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术4-387x1024.png 387w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术4.png 604w" sizes="(max-width: 475px) 100vw, 475px"></a></p>
+<p>连5月8日的微博也不放过：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF3.png" rel="attachment wp-att-421773"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF3.png" alt="五毛召唤术3" width="475" height="1204" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术3-404x1024.png 404w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术3.png 600w" sizes="(max-width: 475px) 100vw, 475px"></a></p>
+<p>类似的“机器五毛”乌龙在去年官媒报道浦志强被刑拘时也出现过，当时一名<a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%BA%BA%E6%9E%AA/">与浦律同名的江苏大学学生不幸躺枪</a>。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9C%BA%E5%99%A8%E8%AF%84%E8%AE%BA3.jpg" rel="attachment wp-att-421795"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9C%BA%E5%99%A8%E8%AF%84%E8%AE%BA3.jpg" alt="机器评论3" width="400" height="712" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/机器评论3-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2015/12/机器评论3.jpg 690w" sizes="(max-width: 400px) 100vw, 400px"></a><br><em>（机器自动评论内容举例）</em></p>
+<p><strong>附：僵尸号举例</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B71.jpg" rel="attachment wp-att-421778"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B71.jpg" alt="僵尸号1" width="375" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号1-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号1.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B72.jpg" rel="attachment wp-att-421779"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B72.jpg" alt="僵尸号2" width="375" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号2-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号2.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B73.png" rel="attachment wp-att-421780"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B73.png" alt="僵尸号3" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3-300x137.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3-768x350.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3-1024x466.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3.png 1388w" sizes="(max-width: 1388px) 100vw, 1388px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B74.png" rel="attachment wp-att-421782"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B74.png" alt="僵尸号4" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4-300x137.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4-768x351.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4-1024x469.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4.png 1390w" sizes="(max-width: 1390px) 100vw, 1390px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B75.png" rel="attachment wp-att-421783"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B75.png" alt="僵尸号5" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5-300x135.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5-768x345.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5-1024x460.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5.png 1391w" sizes="(max-width: 1391px) 100vw, 1391px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%8D%B3-%E4%B9%8C%E9%95%87%E5%B0%81%E4%BA%86/" target="cdt-mirror">德国之声｜世界互联网大会在即 乌镇”封了”</a>
 </h2>
 <p><p>中国举办的第二届世界互联网大会将在乌镇举行。为迎接习近平的到来，乌镇及周边地区的安保措施全面”升级”，甚至比去年还要严格。车辆停运、旅店停业，小镇进入全员”备战”状态。</p>
@@ -76,7 +102,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80%E5%9B%A0%E7%BD%AA%E5%85%A5%E7%8B%B1/" target="cdt-mirror">美国之音｜中国百万富翁百分之一因罪入狱</a>
 </h2>
@@ -620,25 +646,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%88%91%E4%B8%8D%E7%9C%8B%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E5%A5%BD%E5%A4%9A%E5%B9%B4/" target="cdt-mirror">东网｜王药师：我不看《南华早报》好多年</a>
-</h2>
-<p><p>作为江湖上赫赫有名的“BAT”组合之一员，阿里巴巴正愈发显露出其“拱卫政权力量”的真实面目。最新的动作是，上周五（12月11日），阿里巴巴集团宣布收购《南华早报》以及南华早报集团旗下的其他媒体资产，打造一个让英语世界了解中国的优质窗口。</p>
-<p>对于阿里巴巴集团海外媒体收购的这“第一单”，各方舆论给予了高度关注，不仅《南华早报》前任和现任的许多员工纷纷呛声，担心阿里巴巴入主后会影响该报的编辑自主，就连香港记者协会都为此发表声明，坦言此举或令香港的新闻自由空间进一步收窄。当然，对于众多生活在墙内的内地普通民众来说，可能压根就没听说过这家历史悠久、影响巨大的英文报纸，原因和facebook、twitter一样，没见过！</p>
-<p>《南华早报》不是第一家被陆资或倾中资本染指的港媒，注定也不会是最后一家。同样的，香港也不是唯一一个被“老大哥”觊觎并发誓要夺取的外宣阵地。虽说“新华社要把地球管起来”早已沦为一句笑话，但实现“舆论一律”的雄心壮志显然从未泯灭。伴随着传说中的400亿外宣“大撒币”，这些年，从香港到台湾，从华人地区到欧美国家，当局或是让代理人收购，或是借助白手套入股，有时甚至自己赤膊上阵，可以说使出了浑身解数，而目的只有一个，即阿里巴巴高管口中的所谓“改善中国形象，提供一种与西方媒体带有偏见的报道所不同的视角”——尽管多数时候，这种“改善”是内向性的，糊弄的只是墙内的普通民众。</p>
-<p>所以，正如《纽约时报》在评论此事时所说的，“尽管阿里巴巴表示中国政府在这次收购中并未扮演任何角色，但其立场与共产党高度一致。中共对西方新闻机构报道中国的方式越来越不满”。这话好理解，因为即便是昔日上海滩上的地痞瘪三、青帮老大，也不希望成天被人揭老底、戳洋相。真正令我好奇的是，这种简单粗暴的“买买买战略”，真的能够实现权力所希冀的“重塑中国的媒体形象”的目的吗？</p>
-<p>别忘了，这可是个自媒体野蛮生长的时代，还有几个人在埋头读报纸，传统媒体的影响力还剩下多少，就算收庄包圆了又能怎样？更何况，这世上比《南华早报》历史更悠久、影响力更大的报纸媒体多的去了，难道也一家家都收购了？即便郎有情，妹也未必有意，陈光标同志“收购”《纽约时报》的闹剧总还没有忘记吧？</p>
-<p>借助于社交媒体和新技术的帮助，过去几年，我陆陆续续也看过不少《南华早报》的报道。印象中，《南华早报》虽然不乏独家采访斯诺登这样令人眼前一亮、击节叫好的作品，也发生过刘怡采访马云这样的冲突性事件，但其中文网上涉及内地时政方面的报道评论，就可读性来说总体上与《纽约时报》、《金融时报》等相比还是有所不及。以至于“南早中文”的微信公号，我都许久没有点开了，自然也并不特别在意《南华早报》这一城一报的得失。反正生活早已教会我们，《人民日报》要倒过来读。大不了，以后《南华早报》上涉及中国内地的时政文章，我们也倒过来读就得了。</p>
-<p>反倒是实施此次收购的阿里巴巴及其掌门人，在徐明死、徐翔关、李嘉诚跑路、郭广昌失联的大背景下，处境和前途更引人关注。诚如有论者指出的那样，“在中国，一个商人一旦有了平天下的虚妄时，离作死也不远了”。虽然马云比郭广昌牛，但终究还是“郭广昌”。现阶段，权力或许正在利用他下一盘很大的棋，但等到棋下完了，恐怕同样难逃兔死狗烹的结局。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%88%91%E4%B8%8D%E7%9C%8B%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E5%A5%BD%E5%A4%9A%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -650,7 +657,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -660,5 +667,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,82 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%8D%B3-%E4%B9%8C%E9%95%87%E5%B0%81%E4%BA%86/" target="cdt-mirror">德国之声｜世界互联网大会在即 乌镇”封了”</a>
+</h2>
+<p><p>中国举办的第二届世界互联网大会将在乌镇举行。为迎接习近平的到来，乌镇及周边地区的安保措施全面”升级”，甚至比去年还要严格。车辆停运、旅店停业，小镇进入全员”备战”状态。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300.jpg" rel="attachment wp-att-421761"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300.jpg" alt="0,,18241077_303,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
+<p>（德国之声中文网）乌镇一家客栈的老板对港媒记者表示，由于世界互联网大会的召开，客栈被迫”关门”一周。</p>
+<p>多家客栈住满了警卫和安保。镇上的居民说，进出景区别说是普通游客，就连邮寄包裹都被禁止了。</p>
+<p>景区内多数商店和旅店是私人生意。他们被当局告知暂停营业，禁令将持续到周五会议结束。</p>
+<p>一家咖啡店工作人员告诉港媒记者，”如果没有登记和检查，生活在镇上的居民也禁止进入景区”，”有很多武警和直升机在附近巡逻。”</p>
+<p>中国当局为举办国际会议进行全面”封闭”的举动并不是头一遭，尤其是为迎接国家政要的到场。</p>
+<p>有乌镇居民对《南华早报》记者表示，乌镇甚至比去年的安保级别还要严格。</p>
+<p>国家媒体报道，巴基斯坦总统侯赛因、俄罗斯总理梅德韦杰夫等7国领导人和来自世界120多个国家的2000多名嘉宾将与会。中国国家主席习近平将在大会上发表主旨演讲。</p>
+<p>预计，世界互联网几大企业：阿里巴巴、腾迅、百度三大互联网公司的创始人，苹果、亚马逊、谷歌、Facebook、中兴和华为的高层计划参加乌镇的会议。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100.jpg" rel="attachment wp-att-421760"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100.jpg" alt="0,,18073188_401,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a><br>
+2014年11月19日首届世界互联网大会</p>
+<p><b>寻求谨慎的合作？</b></p>
+<p>海外互联网企业和科技公司希望借助大会寻求同中国的合作，但鉴于中国互联网受到当局封锁、审查和限制的情况，均持谨慎态度。</p>
+<p>将于12月16日至18日举办的第二届互联网大会的主题是”互联互通，共享共治，共建网络空间命运共同体”。但总部在法国的”记者无疆界”组织认为，中国当局恰恰违背了网络共享的原则。</p>
+<p>美国自由亚洲电台引述该组织亚太办公室负责人本杰明·伊思迈尔（Benjamin Ismail)的话称，中国政府严密监控互联网用户得到的信息，系统性地封锁让中共感到难堪的任何批评和信息透露。</p>
+<p>去年11月，乌镇举办了第一届世界互联网大会。大会是由中国国家互联网主办，计划每年举办一次。首届大会上，中方提出”尊重各国网络主权，广泛传播正能量”等倡议。当时不少民众在网上嘲讽拥有最严密防火墙的中国召开互联网大会的举动。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%8D%B3-%E4%B9%8C%E9%95%87%E5%B0%81%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%86%AC%E5%A4%A9%E9%87%8C%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%92%8C%E9%83%AD%E5%B9%BF%E6%98%8C/" target="cdt-mirror">德国之声｜德语媒体：冬天里浦志强和郭广昌</a>
+</h2>
+<p><p>中国距离法治国家越来越远，这是部分德国媒体对浦志强案开审的评价。同时，另外一位非法治国家体制下的中国富商的命运，也依然是德国媒体关注的目标。</p>
+<p>德国《明镜在线》发表评论文章关注中国著名维权律师浦志强被控“寻衅滋事”和“煽动民族仇恨”一案，指出：“今年的中国陷得很深。针对浦律师的法律诉讼表明，公民权利和人权彻底变得不再重要。”作者呼吁：“柏林对此必须有所表态。”</p>
+<p>“越来越糟”</p>
+<p>这篇题为“公民权在中国：越来越糟”（Bürgerrecht in China：Es wird schlimmer）的文章在开头描述了本周一（12月14日）北京第二中级人民法院前，各路赶来报道浦志强案庭审情况的记者以及美国外交使节和中国便衣警察发生肢体摩擦，有记者被推倒在地的情景。</p>
+<p>作者指出：“周一发生在法庭外的这一幕简单扼要地总结了，中国在这一年中深陷到何种地步。也让人能感受到，这个冬天会有多长，有多冷。这个人权和公民权的冬天。”</p>
+<p>作者随后从自身的角度介绍了浦志强案的背景：“周一法庭上的这个人是浦志强律师。他曾经为老百姓，为像艾未未这样的名人以及中国的少数民族辩护。而且他还不断地在互联网上对自己的工作加以评论。如今，正是因为这些评论，他需要面对法庭的审判。针对他的指控是‘寻衅滋事’以及‘煽动民族仇恨’。法庭将于一两周内作出判决，可能最多判处他八年徒刑。没有人认为他会被无罪释放。”</p>
+<p>文章随后写道：“仅今年一年就有超过300名维权律师被警察带走，面对审讯和刁难。他们当中的二十几个人仍被拘留。中国的司法机关在庭审开始之前，喜欢长时间地扣留在押人员。”</p>
+<p>作者指出：“中国的领导人从大约一年前开始表示这个国家正在向宪政和法治国家转变。国家主席习近平说，国家的权力必须被关入‘制度的笼子里’。如今的事实是，1989年镇压天安门示威以来，中国政府从来没有像2015年这样与维护法律及宪法距离遥远。今年夏天，党颁布了一部法律，让从管理互联网到非政府组织以及所有生活领域的活动都成为涉及’国家安全’的事物。而且就在一周前的国际宪法日，审查机关让一本勉强肯定中国正转变成宪政国家的作品从书架上消失。”</p>
+<p>“中国的司法在很多案件上违法了法治国家最基本的原则，这已经不是什么让人惊讶的事情了。但2015年的教训是：情况越来越糟……与北京展开‘法治对话’的德国政府应该考虑取消2016年的对话。如此一来，这会成为一种公开的表态，是中国在欧洲最强伙伴对打压律师和维权人士的批判–表明柏林也会为浦志强这样的人挺身而出。”</p>
+<p>浦志强的当事人包括艾未未</p>
+<p>“不仅仅是中国内政”</p>
+<p>周二出版的《南德意志报》则关注了非法治国家体系下，中国另外一位名人的命运。此人就是不久前“失联”，后又“协助司法机关调查”的中国富商郭广昌。</p>
+<p>作者认为：“无可厚非的是：有关这位复星集团总裁的一系列匪夷所思的事情早已不仅仅是中国内政。它们也让一大批欧洲企业揪心。因为复星集团几年来一直致力于在中国境外投资……在德国，郭广昌今年夏天宣布收购两家私人银行多数股权的消息引起了广泛关注。这两家银行分别是：BHF银行（BHF Bank）和Hauck Aufhäuser私人银行。他的目标是，让中国的投资者更加了解德国的中型企业，反过来让德国的投资者更加接近中国的资本市场。”</p>
+<p>到现在为止，仍不知道郭广昌“协助”的“调查”，是针对他自己，还是针对其他人？</p>
+<p>作者随后介绍了复星集团在收购BHF银行时所遇到的困难。指出：“收购Hauck Aufhäuser的情况要好得多。这家银行的70位家族股东已经承诺卖出手中的股份。中国人开出了2亿1千万欧元的价格。业内人士认为这是非常大方的开价。那些老股东们都很高兴终于有人愿意接受这家陷入危机数年的银行。但如今针对郭广昌的调查有可能让股权出售变得更加复杂，因为德国的银行监管机构还必须予以批准。对于一位想要在德国的银行市场立足的投资人来说，身陷腐败调查可没有什么正面的广告效应。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%86%AC%E5%A4%A9%E9%87%8C%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%92%8C%E9%83%AD%E5%B9%BF%E6%98%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80%E5%9B%A0%E7%BD%AA%E5%85%A5%E7%8B%B1/" target="cdt-mirror">美国之音｜中国百万富翁百分之一因罪入狱</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0.jpg" rel="attachment wp-att-421755"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0.jpg" alt="B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></a><p>2002年1月17日大连商人、实德集团董事长徐明在北京。他后来被判刑。</p></div>
+<p>据路透社报道，中国胡润富豪榜刚刚发布新报告，称过去17年内，3000多名中国的百万富翁中，有百分之一曾因贿赂、挪用公款或其他经济犯罪而入狱、被起诉甚至判刑。</p>
+<p>报告指出。这三千多名曾位列胡润年度富豪榜的百万富翁中，有35位涉嫌犯法。其中11位是房地产巨头，9位是金融业高管。他们大多来自北京和上海，他们的平均入狱年龄在47岁，平均服刑年数为10年。</p>
+<p>路透社报道称，胡润报告创始人胡润表示，涉嫌违法的富豪人数低于因涉嫌贪污腐败而被监禁或调查的政府官员及国有企业高管。</p>
+<p>据悉，习近平上台后，已有数位富豪被捕入狱，包括薄熙来的“商业同盟”、大连实德集团前总裁徐明。</p>
+<p>多家媒体日前报道复星集团董事长、亿万富豪郭广昌一度失联，之后又协助相关司法机关调查，引起人们猜疑此事是否与腐败案有关。据悉，郭广昌已经复出，而且调查不涉及他本人。</p>
+<p>据悉，郭广昌在今年的胡润富豪榜上排名第17位。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80%E5%9B%A0%E7%BD%AA%E5%85%A5%E7%8B%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">中国富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%89%8B%E5%A5%97/?category=18271" rel="tag">白手套</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%8A%A5%E7%AB%A0%EF%BC%9A%E8%B0%B7%E5%BC%80%E6%9D%A5%E5%88%98%E5%BF%97%E5%86%9B%E5%87%8F%E5%88%91%E9%9D%9E%E4%BA%AB%E7%89%B9%E6%AE%8A%E5%BE%85%E9%81%87/" target="cdt-mirror">BBC | 北京报章：谷开来刘志军减刑非享特殊待遇</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/120821040806_cn_gu_kailai_verdict_cctv_640x360_afp.jpg" alt="谷开来早在一年多前就获监狱当局建议减刑" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/120821040806_cn_gu_kailai_verdict_cctv_640x360_afp-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/120821040806_cn_gu_kailai_verdict_cctv_640x360_afp.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>谷开来早在一年多前就获监狱当局建议减刑</p></div>
@@ -566,76 +639,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E9%9F%A9%E5%A3%B0%E7%A7%B0%E6%8B%A5%E6%B0%A2%E5%BC%B9-%E4%B8%AD%E5%9B%BD%E5%A4%84%E5%A2%83%E6%9C%80%E5%B0%B4%E5%B0%AC/" target="cdt-mirror">东方日报｜北韩声称拥氢弹 中国处境最尴尬</a>
-</h2>
-<p><p>北韩领导人金正恩日前视察革命史迹地时宣称已经研发了一枚氢弹，并准备好用于维护国家主权。如果金氏所言属实，表明北韩在核武开发上愈走愈远，解决朝核问题更加渺茫。</p>
-<p>金正恩暗示北韩有氢弹南韩持怀疑态</p>
-<p>目前外界还不清楚金正恩此话是真是假，鉴于北韩的好战言论，俄联邦委员会国防委员会第一副主席克林采维奇认为，金正恩是在虚张声势，北韩没可能瞒骗全世界秘密制造热核武器。首尔的专家则判断，北韩可能正在开发氢弹，但并没完成。事实上，北韩前不久在其第一艘弹道导弹潜艇进行了一次导弹发射，是否同氢弹试验有关，不得而知，但根据美国媒体报道，在该次试射中，导弹未能顺利离开发射管，导致潜艇艇体和指挥台围壳受损。换言之，即使此次试射与氢弹有关，也是不成功的。</p>
-<p>北韩自0五年宣布拥有核武器，其后于O六年、O九年和一三年进行了多次地下核试验，引起国际社会抗议，并招致联合国严厉制裁，迄今尚未解除。一二年十二月，北韩又利用「银河三号」运载火箭发射了「光明星三号」二期卫星，美韩日等担心，北韩可能实际试射了洲际弹道导弹。目前专家的一个看法是，北韩已经制造了多枚原子弹，但原子弹的技术还很简陋，尚未小型化。如果判断准确，北韩尚未制造出氢弹。</p>
-<p>驯服北韩 棘手难题</p>
-<p>那么，金正恩为何此时要放出拥有氢弹的信号？目的可能有二。一是对内鼓舞士气，塑造金正恩的威信。尽管被国际社会孤立，北韩军民仍然克服了难以想像的困难，在短时间内制造出氢弹，从而让人民更加相信金氏英明神武；二是对外表明绝不放弃核武开发，让外界对北韩走伊核道路彻底死心。伊朗在国际社会和国内经济压力下，今年七月宣布放弃核计划，以换取美国解除制裁。伊核问题的解决，让国际社会一度认为朝核问题也可照办煮碗，惟平壤已多次表明绝不仿效伊朗，这次更干脆由最高领导人宣布拥有氢弹，以打消外界要朝弃核的幻想。</p>
-<p>事实上，不管朝鲜是否拥有氢弹，都难掩中国在朝核问题上的尴尬，这从外交部发言人的表态可见一斑。该发言人表示，中方一直坚持朝鲜半岛无核化，坚持维护朝鲜半岛和平与稳定，坚持通过对话和磋商解决问题。显而易见，中国阻止不了北韩开发核武。在这种情况下，当局所能做的，就是不将有核的朝鲜推到美韩阵营，以便在必要时能够发挥平衡美日的作用。假如北韩能配合中国，其拥有氢弹从短中期来看，对中国在亚太地区的博弈有所助益，这或许可以解释近期中朝关系解冻的原因。当然，如何驯服拥核的北韩，长远来说仍然是中国必须面对的棘手难题。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1e7ak4ppppppppppppp-150x150.jpg" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8C%97%E9%9F%A9%E5%A3%B0%E7%A7%B0%E6%8B%A5%E6%B0%A2%E5%BC%B9-%E4%B8%AD%E5%9B%BD%E5%A4%84%E5%A2%83%E6%9C%80%E5%B0%B4%E5%B0%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%AA%92%E8%AF%B4%E5%BE%90%E6%98%8E%E7%8C%9D%E6%AD%BB%E5%B8%A6%E8%B5%B0%E4%BA%86%E5%BE%88%E5%A4%9A%E7%A7%98%E5%AF%86/" target="cdt-mirror">法广｜港媒说徐明猝死带走了很多秘密</a>
-</h2>
-<p><p>大连实德集团前董事长徐明日前在监狱中猝死，引发广泛关注。到底是病死还是他杀？如果是他杀，又是死於于谁人之手？谁从中受益？众多猜疑，让人联想。不争事实是徐明猝死带走了很多秘密，徐明应当在明年9月就可刑满释放出狱。</p>
-<p>据太阳报今天透露，关于徐明在狱中死亡的消息，家属是在事发后几个小时才获悉。徐明家人口头转述官方通知称，徐明在凌晨上厕所时突发心肌梗塞，倒地而亡，因平时运动过度，心臟承受能力出现了问题。但他的朋友表示，从未听说过徐明患有此病。</p>
-<p>最让人质疑的是，徐明死后不久便迅速火化，当局和徐的家人都没有向外界交代原因。徐明作为全国性政治大案的当事人之一，官方应该明白徐明的死极为敏感，理应更加慎重地处理其遗体，起码验尸查明死因，并且向外界公布相关报告，以释众疑。但当局如此仓促，似乎在刻意隐瞒什么。正因为此，外界异口同声认为徐明是死于他杀，但谁是兇手，却有不同的版本。</p>
-<p>据太阳报署名报导说，自由派人士认为，徐明是薄熙来的家奴，掌握薄熙来家族大量的证据，为了防止徐明出狱之后胡说八道，薄熙来余党在监狱中杀人灭口。但左派人士则认为，薄熙来案本来就是一个冤案，徐明在法庭上没有死咬着薄熙来，而且薄熙来在庭上当面对徐明称“谢谢你实事求是”，因此薄熙来没有理由要杀害徐明。他们认为，反而是当年制造薄熙来冤案的人，为防止徐明出狱之后说出真相，于是痛下杀手，使徐明暴毙于狱中。</p>
-<p>报导还说，公说公有理，婆说婆有理。只要没有经过公平公正的调查，这些传闻和猜想就会甚嚣尘上，关于中共高层的流言及对于权力斗争的揣测更会四处流散。而官方处理这宗死亡案的草率仓促，以及面对外界质疑时默然不语，只会令整个事件堕入更深的迷雾中，甚至令人怀疑当局深度介入其中，也与以法治国的宗旨背道而驰。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://chrome.google.com/webstore/detail/china-digital-times-chrom/fcbhpdhpnadomgghompmimidgpeebacl?hl=en">这里</a>下载Chrome浏览器插件，直接点击阅读中国数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B8%AF%E5%AA%92%E8%AF%B4%E5%BE%90%E6%98%8E%E7%8C%9D%E6%AD%BB%E5%B8%A6%E8%B5%B0%E4%BA%86%E5%BE%88%E5%A4%9A%E7%A7%98%E5%AF%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">徐明狱中死亡</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2%E7%9A%84%E9%81%97%E7%A5%B8/" target="cdt-mirror">中国人权双周刊 | 何清涟：中共洗脑教育的遗祸</a>
-</h2>
-<p><p>最近，撰写《洗脑的历史》一书的作者傅志彬被以“非法经营罪”判处有期徒刑1年10个月，参与该书出版的其他三人分别被判6个月至1年半不等的有期徒刑。这本《洗脑的历史》涉及人类社会几千年，从基督教、伊斯兰教直到法西斯与共产主义的红色洗脑，并非针对中国而写。但中国政府显然对此书名特别感冒，因为此时此刻的中共政府，还在乐此不疲地对全体国人尤其是青少年加强宣传教育。“宣传教育”，在中国就是“洗脑术”的官方说法。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%82%85%E5%BF%97%E5%BD%AC-1.jpg" alt="傅志彬" width="550" height="397" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/傅志彬-1-300x217.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/傅志彬-1.jpg 622w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><strong>洗脑术中必不可少的惩罚</strong></p>
-<p>极权政治的洗脑从来就包含软硬两大块。软工程主要内容有二：一是通过国家教育系统灌输的意识形态；二是通过官方媒体持续不断地宣传，来强化意识形态教育的内容。但不管在哪个时代与哪个国家，比如中国的文革年代，总有少数具有独立思考能力的人，能够看出时代的荒谬，并且勇敢地说出来。这时就需要硬性惩罚手段，只是这种惩罚越到晚近，野蛮程度越轻。比如中国文革时期是用残忍手段剥夺批评者的生命，现在不再剥夺生命，而是用“卡住批评者的胃”（剥夺工作权利），到判处徒刑，轻重不等。</p>
-<p>傅志彬等4人入狱，只是中共洗脑工程中硬管制中的一项惩罚行动。即使是香港，也难逃中共硬管制之手。就在前不久，香港从事“大陆禁书”出版业务的书店老板桂民海及其合作伙伴共4人，自10月中先后在东莞、深圳、泰国等地失踪且一直下落不明。1997年，港英政府留给香港特区政府的政治遗产，包括良好法治与位居世界前列的新闻自由度。如今在中共的红色渗透及强力控制下，这些政治遗产已被折损殆尽，香港这颗曾经璀璨一时的“东方明珠”，已失去了昔日的光彩。</p>
-<p>对于“硬”管制，比较好辩识。当今世界除伊斯兰国（ISIS）之外，大多数国家的人民都知道这是对人权的侵犯，国际社会也会谴责那些专制政府，并呼吁停止这类侵害人权、违反人类政治文明的恶行。但对于洗脑产生的后遗症却无从措手。</p>
-<p><strong>洗脑后遗症：观察事物的方法与角度</strong></p>
-<p>这是洗脑后遗症当中最不容易被察觉的。多年前我就说过，许多反对中共极权统治的人，不仅使用中共极权政治灌输的话语体系，思考方式与观察事物的方法与角度也被洗脑教育打上很深的烙印。先说思考方式</p>
-<p>前不久，我在一家电台做“叩应”节目（Calling）。一位听众来电，批评中共当局对民众的洗脑教育残害人民，对现状相当不满，认为现在一切问题都出在生产力与生产关系不相适应上，资本家残酷剥削工人阶级导致严重的社会不公。我对这位听众说，我接下来的分析不是针对你，是针对普遍现象，即被洗脑的人用洗脑教育的理论与视角来分析与解释现实世界。</p>
-<p>在现代经济学各种理论中，只有马克思主义经济学自成一体，核心概念是生产力，并且让人将生产力等同于劳动力，等同于体力劳动，由此衍生出劳动创造世界，劳工神圣，高于其它一切阶层与阶级。再建构了“生产力与生产关系”这一组关系，推导出“经济基础决定上层建筑”，无产阶级与资产阶级的对立必将导致阶级斗争；在无产阶级的革命下，社会主义（共产主义）这一人类社会的高级形态必将取代资本主义，成为人类社会的最终形态。</p>
-<p>马克思主义这一关于社会主义必然战胜资本主义的理论，已经被现实证明是错误的。按照马克思的说法，人类历史上共有五种社会形态，从先到后，依次为原始社会、奴隶社会、封建社会、资本主义社会与社会主义（共产主义社会），后一种必然比前一种先进，因而会取代前一种。但百余年来的世界历史证明，所谓社会主义社会与资本主义社会其实是并存的社会形态，无论从经济发展的角度还是从人权方面来看，社会主义都比资本主义要野蛮落后得多，最终还在冷战中两大阵营的“和平竞赛”中垮台。</p>
-<p>关于劳动（中国毛时代宣扬成体力劳动）创造世界的说法，更是落后。近几个世纪以来的历史证明，科技进步是人类社会发展的动力，因而需要受过教育且有创造力的人才。西方经济学中的生产三要素早就解决这一问题。所谓生产三要素，就是指土地、资本、人力资本，人力资本中包含科技、管理、及各种经过专业培训的人才，体力劳动者，其市场价格（亦即劳动报酬）不一样。</p>
-<p>对于马克思主义经济学的谬误，中国高中、大学的政治经济学课程都不会纠正。青少年离开学校之后，除了极少数人通过阅读与思考能纠正这些谬误，一般人就会如此认识世界，包括那些反洗脑者在内。也因此，中国的工运缺少西方工运理论支持，仍然是马克思主义那套剥削与反剥削理论。只有少数几个工运网站偶然介绍一些现代社会运动的社团理论，但点击率远不如红色工运理论高。</p>
-<p><strong>洗脑教育的最大后遗症：将不同意见视为敌人</strong></p>
-<p>在长期洗脑教育下形成的行为模式也很不容易改变。</p>
-<p>善于发现敌人并制造敌人，是极权政治的一个特点。中共的思想控制有个特点，那就是将一切不同意见，哪怕是极温和的批评意见都视为敌对势力的攻击。对敌人的态度是无情打击，这有毛泽东语录为证：“凡是敌人反对的，我们就要拥护；凡是敌人拥护的，我们就要反对”，共产党树立的好榜样雷锋的名言有一句：“对敌人要像严冬一样残酷无情”。我小时候，学校教唱的《我们是共产主义接班人》中有句“要把敌人消灭干净”，用重复歌唱的方式加以强调。</p>
-<p>这种思维影响到几代中国人，即使到今天，中国人仍然习惯制造敌人并无情斗争。中文推特是个自由言说之地，一些自称“异议者”与“维权者”的人士，其行为正好与中共构成一块硬币的两面。中共以拥共作为政治正确的标准，这些异议维权者则以反共作为唯一标准来裁断谁是好人或是坏人，并以此规范其他人的言论，每天就像乍毛刺猬一样到处寻找敌人与叛徒，加以恶攻。</p>
-<p>近日我与一位在德国的推友讨论问题，涉及一些人以自己的判断为唯一正确是非标准、语言极端等现象。当时收到一位@WeissXin 的推文：“如果你不介意的话，我引用一位先进的话，供你参考：‘反共是做人的底线，不反共不是人养的。’我以为，中共是世界最张狂最邪恶最恶毒的恐怖团伙，是当今世界恐怖主义的源头。与中共相比，本拉登、塔利班、IS等等，都是‘小菜’。怎么做人，判断是非，人心自明。”</p>
-<p>我的回答是：“我当然介意。反共与反专制一样重要。但拿反共当旗号遮掩自身的一切丑恶，并颠倒黑白，放弃文明人的底线，这样的所谓‘反共’，只是打着‘反共’旗号的中共复制品。结果只会是前门送虎，后门迎狼。尤其是认为ISIS比中共好的看法，更难让人苟同。”我还质问这位@WeissXin：“你说‘反共是做人的底线，不反共不是人养的。’请问你全家都反共吗？如果不是，你是不是将他们视为‘不是人养的’？如果你生活在国内，你每天都以真身这样对周围人阐明这主张吗？如果是，你是真诚的；如果不是，只是在推上以化名说说，就不必当真了。”</p>
-<p>我还阐述了一些看法，比如民主、自由、人权是知行合一的价值体系，如果举着自由民主的旗号，到处诛杀不同意见，本身就违反民主自由人权准则。道理再简单不过，因为民主包含着对不同政治立场者的容忍，自由就是尊重他人的自由选择，人权包含着言论自由及尊重他人的言论自由权。</p>
-<p>这些人没有意识到，中共洗脑教育已经深深地影响到他们的思维与行动，这种极端的言行无论对他们本身还是对他们声称所代表的反对者政治活动，都是一种严重的伤害。因为人们在他们身上看到了中共的影像，自然而然地产生厌恶感并与之疏离。</p>
-<p>最后回到这本《洗脑的历史》。对于那些想了解人类控制思想历史的人来说，这是一本值得一读的好书。我自己就下载了一本电子版。如果有人对我前文讲的有关国人受洗脑毒害而不自知的评述不服气，请读一下傅志彬在《后记》中的一段话：“自我思考能力的形成，与知识存储没有必然关联，而与你观察事物的方法、角度有关。而观察事物的方法，角度往往在幼年，少年期就会形成。中国谚语：三岁看少，七岁看老，所言是焉！而这段时间，恰恰是父母亲对孩子影响最大的时期”。</p>
-<p>中共统治长达60多年，几代中国人都曾深受洗脑教育荼毒，“以曲木傅曲木，无所得直矣”。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2%E7%9A%84%E9%81%97%E7%A5%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E5%BF%97%E5%BD%AC/?category=18271" rel="tag">傅志彬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A/?category=18271" rel="tag">中国人权双周刊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E7%9A%84%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">洗脑的历史</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -657,5 +660,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

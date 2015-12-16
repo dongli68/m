@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,125 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B9%8C%E9%95%87%E7%9B%9B%E5%86%B5%E7%A9%BA%E5%89%8D-%E5%94%B1%E8%A1%B0%E8%80%85%E9%A1%BE%E5%BD%B1/" target="cdt-mirror">【异闻观止】环球时报 | 乌镇盛况空前 唱衰者顾影自怜</a>
+</h2>
+<p><p>第二届世界互联网大会今天起至18日在浙江乌镇举行，习近平主席和巴基斯坦总统侯赛因、俄总理梅德韦杰夫等8位领导人以及20个重要国际组织负责人，120多个国家的2000多名嘉宾出席大会。这样的世界互联网盛会已经很成规模，它反映了中国互联网实力对全球的吸引。</p>
+<p>西方一些主流媒体发出的声音有点酸，它们宣称中国是“互联网管控大国”，在互联网自由方面“排名垫底”。“记者无国界”组织甚至呼吁各方“抵制”乌镇大会，但它的呼声人们听上去一乐，根本没人搭理。</p>
+<p>围绕互联网管理美国等西方国家同中国存在争论，中国处理得相当稳健，赢得了不少主动。它们表现在：</p>
+<p>第一，中国实现了互联网产业的高速发展，成为名副其实的全球第二大网络强国。中国的多项互联网重要指标排世界第二或第一，这是中国互联网健康发展的强有力证明。过分抹黑中国互联网管理的人无异于自黑，因为将互联网事业如此繁荣的国家说成是互联网自由的“死区”，这明显是胡说八道。</p>
+<p>第二，互联网自由的领域十分广阔，新闻信息自由是很细致的一个小角。这个领域应当是什么样的，中国与西方的逻辑不同，西方处于强势，但愿意了解中国经验的人越来越多。受这一问题困扰的国家世界上有很多，都按美国那一套玩，很多社会玩不起，中国的探索因此具有了世界意义。</p>
+<p>第三，中国举办世界互联网大会，表明中国对不同模式与意见并非采取“斗争”的态度，而是愿意交流，促进全球范围内的相互借鉴与融合。这是一种真正的开放态度，在价值多元的当今世界至关重要。</p>
+<p>针对互联网自由的争议是人类社会围绕自由民主这一古老争论的延伸，它既是价值讨论，也是高度实践性的。有人把它当成精神贵族的情感游戏，或者当成纯意识形态奢侈品，实际上它注定混同于社会不那么漂亮坎坎坷坷、连推带拽的前行，常会缺边损角，沾污带锈，却又生生不息，历久弥新。</p>
+<p>互联网自由在中国不是花下清泉那般精致，却像有些浑浊的雨水、洪水、积水那样广泛，识别和感受它们都不那么整齐。然而中国互联网就像大地一样不断被浇过，它湿湿的，所以长出BAT那样的参天大树。</p>
+<p>如今只要有人们感兴趣的消息在，如果有人真能把它封堵在中国互联网之外，让中国网上的四处流水里没有它的一点“腥味”，那太阳可要从西边出来了。</p>
+<p>中国据称已有近7亿网民，比两个美国的全国人口还要多。这么大的场子，可以说要多嘈杂有多嘈杂，但它同时还有某种规矩存在，不是真的就靠“丛林法”物竞天择，这也许恰是中国互联网管理的成功之处。</p>
+<p>有秩序不意味着万事大吉，如何让秩序更加具有自然属性，让大多数普通人方便舒心，让少数性情特殊者也能感觉过得去，不断增加网上和谐度，这需要进一步摸索磨合。这决非大而空的哲学，这是中国互联网的现实处境和期待。</p>
+<p>尽管总有少数人情绪悲观，但中国互联网的势充满乐观与积极，乌镇的盛会也显示了世界对中国互联网未来的看好。中国互联网发展好了，国际互联网的繁荣就有坚实基础，有了今后更加广阔的空间。想唱衰中国互联网的人，只好眼看着乌镇两千多全球精英大会的盛况，咀嚼被边缘化的孤独了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B9%8C%E9%95%87%E7%9B%9B%E5%86%B5%E7%A9%BA%E5%89%8D-%E5%94%B1%E8%A1%B0%E8%80%85%E9%A1%BE%E5%BD%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/" target="cdt-mirror">【组图】习近平出席世界网络大会 四万军警部署乌镇</a>
+</h2>
+<p><p>第2届世界互联网大会12月16日至18日将在浙江桐乡市乌镇举行，来自政府、国际组织、企业等2000多名嘉宾参加，习近平将出席并发言。</p>
+<p>中共当局为了会议万无一失，只有一万人口的乌镇，竟然部署了四万多名军警，当地的学校都变成临时司令部。</p>
+<p>整个镇方圆五公里由武警部队成土圆形包围，街道上手持冲锋枪的特警、武警及便衣警察密布，三步一岗，五步一哨，狙击手亦准备就绪，连坦克、装甲车也出动，防卫森严。</p>
+<p>往日喧闹的乌镇大街空荡荡的，人烟稀少，如同“空城”。</p>
+<p>乌镇网友称：「我们大桐乡，威武~~今天进驻两个师，外加特警等警种一共在乌镇的维稳人员4万多人，整个乌镇的居民才1万多，开出租的都是持枪特警，狙击手已经准备就位，大街上全是便衣警察，是新疆人的全部被特警一对一跟着」。</p>
+<p>[中国茉莉花革命 http://www.molihua.org ] 转载请注明出处</p>
+
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k6a/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k6a-150x150.jpg" alt="k6a" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k6a-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k6a-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k6a-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k6aa/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k6aa-150x150.jpg" alt="k6aa" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k6aa-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k6aa-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k6aa-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7p/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7p-150x150.jpg" alt="大批装甲车开进乌镇" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7p-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7p-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7p-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7pp/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7pp-150x150.jpg" alt="k7pp" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7pp-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7pp-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7pp-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ppppp/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ppppp-150x150.jpg" alt="k7ppppp" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppp-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppp-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppp-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ppppppp7/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ppppppp7-150x150.jpg" alt="k7ppppppp7" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppp7-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppp7-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppp7-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ppppppp88/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ppppppp88-150x150.jpg" alt="k7ppppppp88" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppp88-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppp88-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppp88-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ppppppppppppp/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ppppppppppppp-150x150.jpg" alt="k7ppppppppppppp" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppppppppp-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppppppppp-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ppppppppppppp-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7pppppppppppppppppppppppp/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7pppppppppppppppppppppppp-150x150.jpg" alt="k7pppppppppppppppppppppppp" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7pppppppppppppppppppppppp-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7pppppppppppppppppppppppp-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7pppppppppppppppppppppppp-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7q/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7q-150x150.jpg" alt="k7q" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7q-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7q-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7q-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7qq/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7qq-150x150.jpg" alt="k7qq" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7qq-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7qq-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7qq-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7t/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7t-150x150.jpg" alt="k7t" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7t-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7t-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7t-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ttt-1/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ttt-1-150x150.jpg" alt="k7ttt (1)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ttt-1-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttt-1-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttt-1-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ttt3/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ttt3-150x150.jpg" alt="k7ttt3" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ttt3-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttt3-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttt3-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ttttt/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ttttt-150x150.jpg" alt="k7ttttt" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ttttt-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttttt-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttttt-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ttttttt/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ttttttt-150x150.jpg" alt="k7ttttttt" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ttttttt-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttttttt-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ttttttt-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7tttttttttt/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7tttttttttt-150x150.jpg" alt="k7tttttttttt" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7tttttttttt-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7tttttttttt-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7tttttttttt-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7uu/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7uu-150x150.jpg" alt="k7uu" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7uu-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7uu-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7uu-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7uuu/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7uuu-150x150.jpg" alt="k7uuu" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7uuu-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7uuu-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7uuu-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7uuuuu/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7uuuuu-150x150.jpg" alt="k7uuuuu" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7uuuuu-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7uuuuu-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7uuuuu-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7vvv-1/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7vvv-1-150x150.jpg" alt="k7vvv (1)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-1-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-1-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-1-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7vvv-2/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7vvv-2-150x150.jpg" alt="k7vvv (2)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-2-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-2-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-2-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7vvv-3/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7vvv-3-150x150.jpg" alt="k7vvv (3)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-3-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-3-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvv-3-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7vvvvvv/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7vvvvvv-150x150.jpg" alt="k7vvvvvv" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7vvvvvv-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvvvvv-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvvvvv-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7vvvvvvv/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7vvvvvvv-150x150.jpg" alt="k7vvvvvvv" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7vvvvvvv-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvvvvvv-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7vvvvvvv-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ww-1/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ww-1-150x150.jpg" alt="k7ww (1)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-1-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-1-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-1-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ww-2/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ww-2-150x150.jpg" alt="k7ww (2)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-2-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-2-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-2-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ww-3/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ww-3-150x150.jpg" alt="k7ww (3)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-3-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-3-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-3-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ww-4/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ww-4-150x150.jpg" alt="k7ww (4)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-4-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-4-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-4-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7ww-5/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7ww-5-150x150.jpg" alt="k7ww (5)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-5-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-5-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7ww-5-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7www-1/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7www-1-150x150.jpg" alt="k7www (1)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7www-1-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7www-1-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7www-1-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7www-2/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7www-2-150x150.jpg" alt="k7www (2)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7www-2-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7www-2-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7www-2-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7www-3/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7www-3-150x150.jpg" alt="k7www (3)" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7www-3-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7www-3-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7www-3-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7z/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7z-150x150.jpg" alt="往日喧闹的乌镇大街空荡荡的" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7z-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7z-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7z-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/k7zz/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2015/12/k7zz-150x150.jpg" alt="往日喧闹的乌镇大街空荡荡的" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k7zz-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/k7zz-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/k7zz-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BB%84%E5%9B%BE%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A-%E5%9B%9B%E4%B8%87%E5%86%9B%E8%AD%A6%E9%83%A8%E7%BD%B2%E4%B9%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A2%81%E4%BA%AC%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E7%9A%84%E9%87%8D%E8%A6%81%E6%84%8F%E4%B9%89/" target="cdt-mirror">自由亚洲 | 梁京：浦志强案的重要意义</a>
+</h2>
+<p><p><strong>这样一场较量，这样一个结果，有什么意义？有人说当局已经透过浦志强案达到了让更多人闭嘴的目的。这其实是给当局”圆场”的一种说法。今天网络上的言论控制，主要是靠技术手段，靠直接删除。如果没有这些手段，我们会看到更多人在”妄议中央”，在”煽动民族仇恨”，在”寻衅滋事”。这是中国网民人所共见的事实。</strong></p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46.jpg" alt="北京律师浦志强案件开庭，逾百公民到场声援，民众持标语并高呼”浦志强无罪”。（照片来自维权人士，拍摄日期2015年12月14日)" width="500" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46-300x210.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46.jpg 622w" sizes="(max-width: 500px) 100vw, 500px"><p>北京律师浦志强案件开庭，逾百公民到场声援，民众持标语并高呼”浦志强无罪”。（照片来自维权人士，拍摄日期2015年12月14日)</p></div>
+<p>周一（14日），北京当局对浦志强案开庭审理。从2014年5月6日被拘留，到开庭这一天，浦志强在未被定罪的情况下被羁押长达587天。在此期间，当局耗尽了”正式起诉前的所有法律程序上的时限”，结果是，只有七条共600馀字的微薄言论作为起诉罪证。浦志强在法庭上表示不认罪。</p>
+<p>他虽然”头发花白，瘦了许多”，但”精神很好”。这说明，当局迫害浦志强的一个重要目的，也就是从精神上和人格上摧毁他的目的，完全没有达到。而当局的另一个目标，就是罗织其他政治和经济罪名的目标也没有达到。</p>
+<p>这样一场较量，这样一个结果，有什么意义？有人说当局已经透过浦志强案达到了让更多人闭嘴的目的。这其实是给当局”圆场”的一种说法。今天网络上的言论控制，主要是靠技术手段，靠直接删除。如果没有这些手段，我们会看到更多人在”妄议中央”，在”煽动民族仇恨”，在”寻衅滋事”。这是中国网民人所共见的事实。</p>
+<p>那么，当局为什么不横下一条心，置各种法律时限于不顾，继续迫害浦志强，直到他屈服。我认为一个明显的逻辑，就是当局已经认识到，他们不可能摧毁浦志强的意志。在这种情况下，当局公然突破自己明文规定的法律程序来拖延此案，政治上不合算。当局的这种计算与”法治”没有任何关系，而是与浦志强个人的影响力有很大的关系，与一年多来时局的变化有关系。</p>
+<p>最近有机会从国内刚出来的人那里，得知一些当局迫害维权人士的细节。正是从这些细节中，我认识到，当局羁押维权人士的一个核心的目的，就是要从精神上和人格上摧毁维权人士的尊严，让抗争者陷于恐惧，失去自信和互信。这其实也就是当年国民党对付共产党的那一套。这些细节还告诉我，当权者并不相信法治，也不相信人权。但是，这并不等于当权者毫无顾忌，因为毕竟中国和世界的大环境已经发生了历史性的变化。</p>
+<p>当局使用下流手段迫害维权人士的一大顾忌，就是怕这些流氓手段在司法和执法队伍中泛滥失控，威胁到自己的统治。为此，当局组织了专门对付维权人士或政治反对派的职业化流氓队伍，并尽可能让这只队伍的”业务”与正常执法人员相隔离。当局这种既离不开流氓手段，又害怕流氓手段的维稳路线，是包括浦志强案在内的政治案件矛盾重重的重要原因。</p>
+<p>浦志强案的一个重要意义就在于，它让我们看到当局的这条维稳路线面临难以克服的矛盾：没有规矩的政治迫害会伤及自己，而立规矩的结果是束缚自己。更重要的是，在习近平四面树敌的形势下，”立规矩”会给极为不满的官僚阶层，用规矩来抵制”今上”制造各种机会。</p>
+<p>在羁押浦志强一年多的时间里，办案人未能”发现”新罪证，就有可能与此有关，当然也与浦志强本人的人格和影响力有关。我相信，浦志强的人格魅力和影响力，对办案人会有很大影响。</p>
+<p>影响力很大的浦志强不低头认罪，加上习近平的威信不断下降，令当局为如何”治罪”浦志强相当头痛，这恐怕是周一未能当庭宣判的重要原因。当局需要从各方反应来决定如何”量刑”，更重要的是，当局很可能要对浦志强做最后一次”工作”，逼他以某种政治承诺换取较轻的”量刑”。</p>
+<p>不过，不论当局如何”量刑”，都改变不了浦志强案的这样一个结果，那就是这个政治迫害案件让习近平付出了重大的政治代价，而浦志强的政治影响力则因此案而大大提高。我相信，浦志强不仅在维权人士中有了更高的威望，他对体制内部人士的影响力也会因此案而提告。</p>
+<p>因为人们通过此案，有机会更深入地了解浦志强，知道在未来中国政治中，这是一个可能扮演重要角色的人物。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A2%81%E4%BA%AC%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E7%9A%84%E9%87%8D%E8%A6%81%E6%84%8F%E4%B9%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%85%B3%E6%8A%BC%E8%AE%B0%E8%80%85%E4%BA%BA%E6%95%B0%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%9A/" target="cdt-mirror">纽约时报 | 报告显示中国关押记者人数全球最多</a>
+</h2>
+<p><p>周二，一家追踪新闻工作者被监禁情况的新闻自由倡导组织在其年度报告中表示，2015年，中国连续第二年成为关押记者人数最多的国家，而埃及和土耳其的关押人数相比于2014年也急剧增加。</p>
+<p>“一小部分国家持续用系统性的监禁措施来压制批评言论，”总部位于纽约的保护记者委员会(Committee to Protect Journalists)表示。</p>
+<p>这份有关被监禁记者简况的报告显示，截至12月1日，全世界共有199名记者身陷囹圄，相比于2014年的221人，人数略微下降。其中，有四分之一是被中国当局关押的新闻工作者。</p>
+<p>该组织表示，相比于前一年，最大的变化是埃及关押人数上升，使之成为羁押新闻工作者人数第二多的国家，仅次于中国。该组织称，埃及当局今年关押了23名新闻工作者，相比于一年前的12人，几乎翻倍。该组织将其原因归为埃及总统阿卜杜勒-法塔赫·塞西(Abdel Fattah el-Sisi)“持续以国家安全为借口压制异见者。”</p>
+<p>土耳其在2012年和2013年都是关押记者人数最多的国家，2014年释放了几十人，但今年该国对新闻媒体的压制程度再度恶化。土耳其今年身在狱中的记者人数翻倍，达到14人。保护记者委员会认为其原因在于，在两次普选中土耳其进一步卷入叙利亚内战，以及与库尔德激进分子的停火协议终止的背景下，当局对其眼中针对总统雷杰普·塔伊普·埃尔多安(Recep Tayyip Erdogan)的批评性报道进行了打压。</p>
+<p>2015年监禁新闻工作者人数比较多的国家还有伊朗（19人）、厄立特里亚（17人）、埃塞尔比亚（10人）、阿塞拜疆（8人）、叙利亚和沙特阿拉伯（各为7人）、越南（6人）、缅甸、孟加拉国和巴林（各为5人）。</p>
+<p>尽管反政府罪是其中最常见的指控，有55%的记者受到此类指控，但报告表示，过去五年比例最高（25%）的指控都是报复性的，文中将其指为“任意捏造的罪名，比如持有毒品或武器、挪用公款或人身攻击。”</p>
+<p>该组织所说的新闻工作者涵盖在各类纸媒、摄影机构、电台、电视台和网站就公共事务进行报道或评论的人。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%85%B3%E6%8A%BC%E8%AE%B0%E8%80%85%E4%BA%BA%E6%95%B0%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC%E8%AE%B0%E8%80%85/?category=18271" rel="tag">关押记者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/" target="cdt-mirror">【立此存照】五毛召唤术：“pu志强”的魔力</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/">浦志强案</a>开庭后，新浪微博一夜之间冒出许多疑似来自机器人的相关评论。然而不知是否因<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/">操作有误</a>，微博用户@在下张耀之 发布的以下这则微博内出现了大量带有数字序号的相关评论；且浦案明明是择日宣判，这些带有序号的评论中却有不少诸如“判得好！”“支持法院的判决！”等“先知”的内容。</p>
@@ -441,211 +557,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94
 <p>    此外，当全球200个国家齐集巴黎召开气候</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8F%97%E5%AE%A1/" target="cdt-mirror">BBC | 中国维权律师浦志强在北京受审</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151214021356_cn_pu_zhiqiang_trial_04_976x549_bbc_nocredit.jpg" alt="一些怀疑是警察，带着口罩的便衣人员猛力推搡记者和示威者，同时以摄像机拍下他们的模样。" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/151214021356_cn_pu_zhiqiang_trial_04_976x549_bbc_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/151214021356_cn_pu_zhiqiang_trial_04_976x549_bbc_nocredit.jpg 624w" sizes="(max-width: 550px) 100vw, 550px"><p>一些怀疑是警察，带着口罩的便衣人员猛力推搡记者和示威者，同时以摄像机拍下他们的模样。</p></div>
-<p><strong>中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”案件正式在北京开庭审理。</strong></p>
-<p>浦志强2014年5月初被警方抓捕，至今年5月被正式起诉。其间警方两度申请延长补充侦查期获准，至上周方在北京市第二中级法院召开庭前会议，并在12月10日国际人权日当天通知律师于星期一（14日）开审此案。</p>
-<p>案件定于9时（格林尼治标准时间1时）开庭。浦志强的代表律师尚宝军稍早前对BBC中文网说，法院在通知开庭后并未交代更多信息，他估计浦志强夫人孟群将获准旁听。</p>
-<p>不少境外记者来到北京二中院外采访。BBC驻北京记者沙磊（John Sudworth）表示，包括BBC采访队在内的记者遭到警察推搡驱逐。</p>
-<p>而根据其他记者透过社交媒体实时发布的照片，一些来到法院外声援浦志强的示威者也被带走。</p>
-<p>尚宝军与另一位维权律师莫少平将为浦志强出庭辩护。尚宝军估计，庭审将只持续一个上午。</p>
-<p>驻在香港的国际特赦组织中国研究员潘嘉伟则形容，对浦志强的审判是旨在“让其他独立声音噤声的政治审判”，他获得公平审判的机会“近乎零”。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9154fba0gw1eyyyxg3hbpj20zk0k0425.jpg" alt="陆伟民律师：北京二中院门口现场。" width="550" height="310" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9154fba0gw1eyyyxg3hbpj20zk0k0425-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9154fba0gw1eyyyxg3hbpj20zk0k0425.jpg 440w" sizes="(max-width: 550px) 100vw, 550px"><p>陆伟民律师：北京二中院门口现场。</p></div>
-<p>浦志强家属曾透露他有糖尿病等长期病患。尚宝军此前对BBC中文网指出，浦志强尚能应付上周两个多小时的庭前会议。</p>
-<p>而在孟群有否机会探视丈夫的问题上，尚宝军说：“我只能说到目前为止，即使有这个想法都没有成功过。到目前为止，浦律师和他的太太应该还没有见过面。”</p>
-<p>来自“维权网”的消息称，孟群上星期二（8日）乘着召开庭前会议之际到过法院门外目送接载丈夫的囚车，但被警察驱赶。</p>
-<p>浦志强被警方抓捕时的犯罪嫌疑是“寻衅滋事”和“非法获取公民个人信息”，至去年11月被加控“煽动分裂国家罪”和“煽动民族仇恨、民族歧视罪”。如今公诉方只根据他所发表的七组微博，诉以“煽动民族仇恨罪”和“寻衅滋事罪”。</p>
-<p>在上周召开庭前会议之际，中共《人民日报》旗下《环球时报》的主编胡锡进发表评论文章说：“分析人士认为无论浦案怎么审，最终判决是什么，都会引发西方舆论和国内部分公知的大量议论，出现一个攻击中国法治建设的新排浪。”</p>
-<p>胡锡进称：“法官要做的是法律审判，而非政治审判……中国司法体系不会接受西方来给浦案定调，之前的刘晓波案等中国人也未曾接受。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8F%97%E5%AE%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A4%9A%E7%BB%B4%E7%A4%BE%E5%8C%BA-%E4%BD%95%E5%85%B5%EF%BC%9A%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%A1%88%E7%9A%84%E6%B3%95%E5%BE%8B%E5%88%86%E6%9E%90/" target="cdt-mirror">多维社区 | 何兵：“七条微博案”的法律分析</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-1024x711.jpg" alt="Pu Zhiqiang (C), the lawyer for Chinese artist Ai Weiwei, talks to the media at the artist's studio in Beijing on November 14, 2011.  Pu said the tax office in Beijing has refused to accept money the activist needs to pay in order to lodge an appeal against a huge tax bill.     AFP PHOTO/Peter PARKS" width="550" height="382" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-300x208.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-768x533.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-1024x711.jpg 1024w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>浦志强律师因为“七条微博，六百余字”，被控两罪——“煽动民族仇恨罪”和“寻衅滋事罪”。社会各界尤其法律界，极其关注。国际社会一直在跟踪本案。本案能否严格依法判决，直接关涉国民对法治的信心和中央依法治国战略的推行，关涉到我国的国际形象。笔者不揣浅陋，试析此案，求教于大家。</p>
-<p>一、煽动民族仇恨罪</p>
-<p>　　起诉书称，被告2012年1月至2014年5月间，利用多个新浪微博帐户，粉丝共计13万余，“借助云南昆明暴力恐怖袭击事件等，先后8次发布多条微博，利用信息网络挑拨民族关系，引发大量网民浏览后转发和评论，破坏民族团结。”</p>
-<p>法律依据是刑法249条：“煽动民族仇恨、民族歧视，情节严重的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利；情节特别严重的，处三年以上十年以下有期徒刑。”</p>
-<p>此罪名下，涉及四条微博，试析如下：</p>
-<p>（一）对于言论，能否无限追诉？</p>
-<p>控方的方法是：将被告在长达“两年零四个月”时间内，针对完全不相干的“三个事件”发布的微博，在一项“煽动民族仇恨”的罪名下，揉合成“一起”严重的犯罪行为，从而满足法律条文中“情节严重”的要求。这种指控的要害是，如果控方可以不受限制地将网民就同一主題，在不同时期发表的评论“揉合在一起”，则网民在不同时期内发布若干批评政府的言论，就可能被人为地“接连在一起”，构成“情节严重”的“煽动颠覆国家政权罪”。此判例一开，网民中构成“煽动颠覆国家政权”的，不知凡知？</p>
-<p>本段分析，涉及到刑法上对“连续犯”的判断。刑法上“连续犯”，是指行为人基于同一或者概括的犯罪故意，虽然客观上连续实施数个独立的违法行为，但法律上认为是“一次犯罪行为”。</p>
-<p>将“数次行为”认定为“一次犯罪”，刑法上有严格的限制。主观上，要有同一或概括的犯罪故意。控方应当逐条证明，被告发表该微博时，皆存在“煽动民族仇恨”的故意。我的研究表明，被告发布的四条微博，皆不存在煽动民族仇恨的故意（详见后论），不存在“同一或概括”的犯罪故意，不存在主观上的接连。就客观而言，四条微博，断断续续。时间跨度，长达二年。评论的事件，相互独立。无客观上的连续性，只不过涉及的主題相同——民族关系。</p>
-<p>案涉之四条微博，2012年1月25日连续所发两条微博，系针对西藏和新疆处理民族问题的工作方法，所做评论。此两条微博，应算作“一起行为”。二年多后，2014年3月2日微博，是针对昆明事件所发的评论，这是“一起行为”。2014年5月1日的微博，与3月2日所发微博，相隔时间二个月，评论所指完全不同。后者系不针对任何具体人和具体事件的政论，两者无法合二为一。</p>
-<p>需要注意的是，两高2013年的《关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释》第四条：“一年内多次实施利用信息网络诽谤他人行为未经处理，诽谤信息实际被点击、浏览、转发次数累计计算构成犯罪的，应当依法定罪处罚。”</p>
-<p>这是通过司法解释，将一定时间内、客观上可能并不关连的行为，以法律规定的形式进行强制关连，从而定罪量刑。此解释重点有二：一、限定于诽谤他人；二、时间跨度，限定为一年。因本案不涉诽谤，不适用此条。但此条文从反面佐证，对于言论，不得无限追溯，强行关连。即使参照本条解释，也不得对被告２０１２年１月，所发的两条微博，进行“点击、浏览、转发次数累计计算”。至多可以对２０１４年所发两条微博，进行累计。</p>
-<p>据上，控方将2012年所发的两条微博，作为支持本罪的事实，纳入累计，没有任何法律根据。可能涉及本罪事实的，只有两条微博，而不是四条微博。 　　</p>
-<p>（二）２０１２年两条微博</p>
-<p>微博内容：1、2012年1月25日。23：58：01，帐号3。“藏区要寺庙‘九有’，要挂毛邓江胡领袖像，伊宁禁穆斯林留胡子和戴面纱，连串组合拳打出，号称淡化宗教意识，是汉人头疯了，还是汉人的头儿疯了？！”（评价数量：22，转发：2）</p>
-<p>　　2、3、2012．1．25日23：43：40，帐号3“伊宁已禁止穆斯林戴面纱，号称淡化宗教意识，汉人全疯了吗？”（评论数38，转发数0 共发了2次）</p>
-<p>这两篇微博，主要有两个内容。一、评论藏区给寺庙“送领袖像”；二、评论“禁止穆斯林留胡子和戴面纱”</p>
-<p>１、给寺庙“送领袖像”。该评论客观背景是：2012年1月24日，媒体报道，农历除夕(1月22日)上午，当地正在广泛开展“送国旗、送领袖像进村入户进寺庙”活动，已赠送国旗、领袖像100余万面(张)。[1]浦志强评论：“汉人头疯了，或汉人头儿疯了。”</p>
-<p>给寺庙送领袖像，是藏区推行“寺庙九有”内容之一，是通过中央和地方财政，使寺庙做到“有领袖像、有国旗、有道路、有水、有电、有广播电视、有电影、有书屋、有报纸。”</p>
-<p>我检索了“九有”的相关资料，认为“九有”的核心内容，应当是、客观上也是“改善民族地区生活条件”，而不是“送领袖像”。这是通过提高民族地区生活水平，从而增加民族感情的一项德政。 “九有”中，最难办到也最为藏民欢迎的，是“有道路、有水、有电……”等。地方宣传部门，应当重点突出“有道路、有水、有电……”，而不是非常错误地突出“送领袖像……”，导致“九有”在国际上，被误导成“洗脑行动”。浦志强律师敏锐地看到这一点，予以批评。其措词虽过于激烈，但判断却是正确的。</p>
-<p>“煽动民族仇恨罪”，在我国刑法理论上，必须言论违背党和国家的政策。由于共产党采取“地方服从中央”原则，地方与中央政策不一致的，当以中央为准。浦的评论，如果符合中央政策，即使西藏地方政策不合，也不构成此罪。那么，中央政策是什么？</p>
-<p>1980年7月30日，中共中央《关于坚持“少宣传个人”的几个问题的指示》规定：“毛主席像、语录和诗词在公共场所过去挂得太多，这是政治上不庄重的表现，有碍国际观瞻，今后要逐步减少到必要限度。其他领导人像和题词也按同样原则处理。”此项政策，至今依然生效。中央的规定，非常正确地指出，挂太多领袖像“政治上不庄重，有碍国际观瞻”。中央明确要求，领导人像要逐步减少到必要限度。</p>
-<p>我国西藏地区，2012年（微博发布时）总人口，只有308万人，总计67万户人家，客观上不可能送出几十万份领袖像。如果送出去几十万领袖像，显然严重违反中央指示。地方宣传部门这种不动头脑、不负责任的浮夸风，已在国际上造成极其严重恶果。谷歌上检索，国际舆论全是负面评论——“有碍国际观瞻”。以至于西藏自治区人大主任向巴平措，不得不出面澄清：“送领袖像进寺庙有传统，挂不挂，不强迫。”[2]但在只有67万户的地区，如果送出１００万份领袖像和国旗，如何让国际人士相信“挂不挂，不强迫？”</p>
-<p>结论：浦志强关于“送领袖像”的评论，完全符合中央政策，客观上维护了党和国家的形象。于国法无罪，于党国有功。</p>
-<p>２、“禁止穆斯林戴面纱”的评论。对于伊宁地区禁止穆斯林戴面纱，他的评论说“汉人全疯了？”言词过激，但质疑“面纱禁令”，无论国际还是国内，大有人在。</p>
-<p>中共中央党校民族宗教理论研究室主任靳薇，2015年4月16日在《金融时报》中文网发表文章称：“在高压严打下推行的一些措施或处置行为，易引发信教群众，甚至是不信教的同族干部民众的不满情绪，同时也易被民族分裂势力、宗教极端势力放大为‘消灭宗教’而引发更深的抵触心理。……把只是受消极影响而没有破坏行为的普通民众、他们的亲属族人，都推到政府的对立面，推到极端势力的怀抱中。……不仅没有争取到人心，反而如列宁所说：“帮了敌人的忙”。[3]</p>
-<p>靳薇教授的文章，与浦志强的微博，立场相同，论述更详细有力。他们主观上都是避免激化民族矛盾，希望促进民族团结，而不是煽动民族仇恨。法国在世界上最早发布“面纱禁令”，首都巴黎最近就发生恐怖袭击事件。有人认为，原因之一是法国对穆斯林采取“面纱禁令”等过激措施。</p>
-<p>结论：被告有关“面纱禁令”的评论，主观上无煽动民族仇恨的故意，客观上无煽动民族仇恨的内容。至于观点是否正确，另当别论。我国宪法赋予公民“批评政府的权利”，而不是“正确批评政府的权利”。公民有“言论的自由”，而不是有“说真理的自由”。浦的言论即使错误，显然属于言论自由范畴。</p>
-<p>（三）2014年3月2日微博</p>
-<p>微博内容：2014.3.2 14:03:52昆明事件太血腥，凶手罪孽深重。说疆独制造恐怖，这回我信，但这是结果，不是原因。死伤极惨重，后果太不堪，你就给了我一句话，说疆独凶残你没责任，我不满意。天天说党的政策亚克西，维吾尔人心向党，就这么血肉横飞？法学会会长王乐泉，你镇抚西域十几年，那儿你最熟悉，告诉我：为什么？冲谁来的？”（评论：1071，转发：1930）</p>
-<p>本篇微博，主要内容有三：一、谴责凶手；二、认为疆独是有原因的；三、新疆前领导人有责任。</p>
-<p>被告谴责凶手，无疑是正确的。按照马克思主义哲学中的因果关系理论，任何事物产生，都有其客观原因。被告关于“疆独是有原因的”言论，完全符合马克思主义的哲学。至于他认为，新疆前领导人对疆独，负有领导责任，与中共中央２００９年颁行的《关于实行党政领导干部问责的暂行规定》，精神完全相符合。他要求反思党的民族政策，法律上没有任何疑问。我国宪法赋予的公民对国家工作人员的“批评建议权”，而不是“正确地批评国家工作人员的权利”，即使言论久妥，也与“煽动民族仇恨”无任何关连，更不属于犯罪。</p>
-<p>（四）2014年5月1日微博</p>
-<p>微博内容：5、6、7、8 、2014.5.1日。13：36：02和14：39：29。帐号1。14：33：21：帐号4“普天之下莫非王土，率土之滨莫非王臣，说新疆是中国的，就别把它当殖民地，别当征服者和掠夺者，先发制人后发制人都为制人，都是把对方当敌人，都是荒谬的国策。冰冻三尺积重难返，免不了会在出事，只要民不畏死，以死惧之就没用，袭击者渴望成为真主的烈士，先发后发能吓唬谁呀？新疆政策，该调整了。”（评论数量23/42 转发数量60 /81。共发了4次）</p>
-<p>此文主旨是批评某些人不妥当的言论——“先发制人”。他告诫在处理民族问题上，要调整心态。他是在建议，而不是在判断。他的核心观点是：新疆政策要调整。本文批评政府的言论，假使可能引起某些人对政府不满，也不能认定煽动了民族仇恨。北京大学社会学系前任系主任、社会学人类学研究所前任所长，我国民族问题最权威的专家马戎教授，公开发文称：“我必须不断重申要反对大汉民族意识”。他多次公开建议，要反思党的民族政策。[4]</p>
-<p>煽动民族仇恨，是指煽动民族与民族之间的仇恨，不包括“煽动仇恨政府和政党”，后者属于煽动颠覆国家政权罪。必须严正地指出，中国共产党是各民族人民的党，代表各族人民的利益，不是“汉人党”。我国政府，是各族人民共同组织的政府，绝不是“汉人政府”。不能因为被告批评党和政府的政策，可能导致少数人对政府不满，就推导出这是“煽动民族仇恨”。将对政府的不满，等同于民族仇恨，这是在犯法律上和政治上的双重错误。</p>
-<p>综上，被告四条微博，无论从主观故意和客观行为上，皆无煽动民族仇恨内容，不构成犯罪。</p>
-<p>二、寻衅滋事罪</p>
-<p>起诉书称，被告“以侮辱性语言，对相关人员田某某、申某某等多人，肆意辱骂，引发大量网民浏览后转发评论，造成恶劣社会影响。”</p>
-<p>此罪名下，涉及三条微博，时间分别是2011年7月29日，2013年1月31日，2013．7．26日。在此期间，两高发布《关于办理寻衅滋事刑事案件适用法律若干问题的解释》，2013年7月22日起施行 。《关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释》，2013年9月10施行。</p>
-<p>三条微博中，前两条发表于两高解释施行之前，能否适用两高解释，颇存疑问。即使适用两高解释，参照两高关于“一年内累计”的规定，也不应将两年前的微博，纳入累计。如果控方这种指控逻辑成立，并得到判决认可，2013年后，网民发布的任何一条微博，只要有一丁点涉及犯罪，检方就可以将网民此前的微博，无任何时间限制地强行关连，“装入”犯罪事实之中，指称“情节严重”。这样的“寻衅滋事罪”，其实是文革时期的“坏分子”罪。</p>
-<p>（一）2011年7月29日微博</p>
-<p>微博内容：2011年7月29日，12：55：56。帐号3“我老姐新闻发布会无聊，但记者人身权有保障。她还证明：铁道部发言人王勇平真优秀，反正我信。铁道部毕竟让你问。中石油去年七一六好悬把大连炸飞。今年周年搞纪念，又放把大火，就不跟你说；还好老姐是母猪，换条疯狗就该问你：“你哪单位的？你老总跟我熟啊。录音笔借我玩玩儿？</p>
-<p>评论数量：49 转发数量：97。</p>
-<p>本条微博评论对象是“我老姐”。没看起诉书前，我捉摸半天，不知所指为谁？最后我猜测，应当是倪萍。她在某次人大或政协会议期间，因俯身地下，抢拍领导照片，被网友讥讽。当我信心满满地在网上搜索后，发现竟然是一个叫田振辉的，北京全路通信信号研究设计院有限公司党委宣传部部长。</p>
-<p>本条微博，唯一过格语言是“老姐是母猪”。但骂人不仅没有具体指名，而且单凭微博本身内容，无法推测出所指为谁。数量上，只骂一次，评论４９，转发９７，无任何其他严重后果，显然不属犯罪事实。</p>
-<p>（二）2013年1月31日微博</p>
-<p>微博内容：2013年1月31日 14：44：18。帐号10。“除了运气和血统，申纪兰当代表，毛新宇当委员。靠装傻和真傻。这说明人大和政协，啥也不是，人想如鱼得水，要么装傻，要么真傻。我不奢望毛委员聪明，只好祈求申老太：活着轻于鸿毛，死去重于泰山，您一死了之该多好啊！您都84个，当60年代表，终于到坎儿了，趁机马革裹尸，讹人大追封个烈女，如何？</p>
-<p>评论数量：145，转发数量：129。评论数量：97，转发数量：120</p>
-<p>　　此微博称，毛新宇傻瓜，虽然用词属于负面评论，但这是网络上常见的用语，尚不构成侮辱。本微博关于申纪兰的言论，涉嫌侮辱。但两个微博转发量，合计２４９次，远未达到所谓“５００次”标准，也未造成严重后果。不构成犯罪。个人认为，无论申纪兰是否提起自诉，作为公众人物的浦志强，都应主动赔礼道歉。</p>
-<p>（三）、2013年7月26日微博</p>
-<p>微博内容：2013．7．26日，23：29：23。账号9、帐号8“没有共产党为什么不行？”我他妈的哪儿知道，为什么不行？！我告诉你项平：中国没谁都行，少他妈的给爷指道儿，还“一本中国人应读的书”？你写出这种破书，简直是无耻之尤！要不是吴虹飞进去了，你的祖宗也会受性侵的！你让我看着就特恶心！哼！（注：最后一句存疑，疑似不是浦写的。）</p>
-<p>评论数量165/192,转发数量：251/330。共发了2次。</p>
-<p>此微博针对项平的言论中，只有一个“他妈的”这一过格的国骂，其他不过是措词严厉的批评而已，构不成侮辱。这条核心需要讨论的是，关于对执政党评论。</p>
-<p>激烈地批评共产党，究竟是否是犯罪行为？需要赞赏的是，起诉书中，没有将这方面的言论，列为犯罪事实。但法律上，我们仍需要对此加以分析。我们先看最高法院曾经的指导案例。</p>
-<p>牡丹江市郊区革命委员会科技科负责人刘殿清，1969年给毛主席和省委领导写了5封匿名信。信中说，现在的党是“吹牛的党”、“倒退的党”、“坑人的党”……1972年，牡丹江市法院以“恶毒攻击”罪，判他15年，刘申诉不止。江华看完案卷后说，他对党和领袖的攻击言论，是错误的，应当教育，但不是犯罪。[5]</p>
-<p>他不仅为刘殿清平反，还把他的案件编成案例，指导全国。在上海召开的千人大会上，他公开说，林彪、“四人帮”只许歌功颂德，不谁批评，动辄逮捕判刑，严重破坏社会主义法制。你的工作做的不好，就不准老百姓说几句不满意的话？共产党还不许群众批评？有些人到北京上访，回去就被批斗、游街、加刑，这些都是不能容许的奇怪现象。他风趣地说：“八亿人口，一个思想，你们相信不相信？我不相信。”[6]</p>
-<p>2000年12月，《人民日报》 发表何兰阶、 曾汉周、王怀安、王战平联合署名的文章，“实事求是，依法办事——江华同志逝世一周年祭”。此四人皆曾任最高法院副院长。文称：刘殿清的信“主要内容是对林彪、“四人帮”祸国殃民、破坏国民经济和科学文化事业等行为表示强烈不满；对打砸抢、破坏民主、践踏法制十分愤慨……同时有一些对党和领袖激烈攻击的言词。”他对党和领袖的攻击言论是错误的，应当教育。江华的意见，划清了犯罪与犯错误的界限，为冲破“禁区”开了一个头。[7]</p>
-<p>这说明直至2000年，中国共产党官方媒体，仍然认同，激烈地批评党和领袖是错误言论，但不是犯罪。２０１３年，习近平总书记也正确地指出：“对中国共产党而言,要容得下尖锐批评,做到有则改之、无则加勉；对党外人士而言,要敢于讲真话,敢于讲逆耳之言。”[8]</p>
-<p>[1] 西藏举行送领袖像进寺庙活动 2012年1月24日。</p>
-<p>[2] 中国网：送领袖像进寺庙有传统 挂不挂不强迫。2012年3月28日。</p>
-<p>[3] 靳薇：“新疆治理中的‘穿戴留’问题”</p>
-<p>[4] 马戎：“我必须不断重申要反对大汉民族意识”。２０１４年9月28日，共识网。</p>
-<p>[5] 江华传编审委员会：《江华传》。北京，中共党史出版社，２００７年，页３６４-３６７.</p>
-<p>[6] 类必允编：《江华司法文集》。人民法院出版社，１９８９年，页５０-５９.</p>
-<p>[7] 何兰阶等：“实事求是，依法办事——江华同志逝世一周年祭”。《人民日报》，2000年12月27日，第11版。</p>
-<p>[8]　习近平:“共产党要容得下尖锐批评”。新华每日电讯。２０１３年２月８日。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A4%9A%E7%BB%B4%E7%A4%BE%E5%8C%BA-%E4%BD%95%E5%85%B5%EF%BC%9A%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%A1%88%E7%9A%84%E6%B3%95%E5%BE%8B%E5%88%86%E6%9E%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%85%B5/?category=18271" rel="tag">何兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%95%E5%85%B5%EF%BC%9A%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%A1%88%E7%9A%84%E6%B3%95%E5%BE%8B%E5%88%86%E6%9E%90/" target="cdt-mirror">何兵：“七条微博案”的法律分析</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-1024x711.jpg" alt="Pu Zhiqiang (C), the lawyer for Chinese artist Ai Weiwei, talks to the media at the artist's studio in Beijing on November 14, 2011.  Pu said the tax office in Beijing has refused to accept money the activist needs to pay in order to lodge an appeal against a huge tax bill.     AFP PHOTO/Peter PARKS" width="550" height="382" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-300x208.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-768x533.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/000_Hkg5580141-1024x711.jpg 1024w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>浦志强律师因为“七条微博，六百余字”，被控两罪——“煽动民族仇恨罪”和“寻衅滋事罪”。社会各界尤其法律界，极其关注。国际社会一直在跟踪本案。本案能否严格依法判决，直接关涉国民对法治的信心和中央依法治国战略的推行，关涉到我国的国际形象。笔者不揣浅陋，试析此案，求教于大家。</p>
-<p>一、煽动民族仇恨罪</p>
-<p>　　起诉书称，被告2012年1月至2014年5月间，利用多个新浪微博帐户，粉丝共计13万余，“借助云南昆明暴力恐怖袭击事件等，先后8次发布多条微博，利用信息网络挑拨民族关系，引发大量网民浏览后转发和评论，破坏民族团结。”</p>
-<p>法律依据是刑法249条：“煽动民族仇恨、民族歧视，情节严重的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利；情节特别严重的，处三年以上十年以下有期徒刑。”</p>
-<p>此罪名下，涉及四条微博，试析如下：</p>
-<p>（一）对于言论，能否无限追诉？</p>
-<p>控方的方法是：将被告在长达“两年零四个月”时间内，针对完全不相干的“三个事件”发布的微博，在一项“煽动民族仇恨”的罪名下，揉合成“一起”严重的犯罪行为，从而满足法律条文中“情节严重”的要求。这种指控的要害是，如果控方可以不受限制地将网民就同一主題，在不同时期发表的评论“揉合在一起”，则网民在不同时期内发布若干批评政府的言论，就可能被人为地“接连在一起”，构成“情节严重”的“煽动颠覆国家政权罪”。此判例一开，网民中构成“煽动颠覆国家政权”的，不知凡知？</p>
-<p>本段分析，涉及到刑法上对“连续犯”的判断。刑法上“连续犯”，是指行为人基于同一或者概括的犯罪故意，虽然客观上连续实施数个独立的违法行为，但法律上认为是“一次犯罪行为”。</p>
-<p>将“数次行为”认定为“一次犯罪”，刑法上有严格的限制。主观上，要有同一或概括的犯罪故意。控方应当逐条证明，被告发表该微博时，皆存在“煽动民族仇恨”的故意。我的研究表明，被告发布的四条微博，皆不存在煽动民族仇恨的故意（详见后论），不存在“同一或概括”的犯罪故意，不存在主观上的接连。就客观而言，四条微博，断断续续。时间跨度，长达二年。评论的事件，相互独立。无客观上的连续性，只不过涉及的主題相同——民族关系。</p>
-<p>案涉之四条微博，2012年1月25日连续所发两条微博，系针对西藏和新疆处理民族问题的工作方法，所做评论。此两条微博，应算作“一起行为”。二年多后，2014年3月2日微博，是针对昆明事件所发的评论，这是“一起行为”。2014年5月1日的微博，与3月2日所发微博，相隔时间二个月，评论所指完全不同。后者系不针对任何具体人和具体事件的政论，两者无法合二为一。</p>
-<p>需要注意的是，两高2013年的《关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释》第四条：“一年内多次实施利用信息网络诽谤他人行为未经处理，诽谤信息实际被点击、浏览、转发次数累计计算构成犯罪的，应当依法定罪处罚。”</p>
-<p>这是通过司法解释，将一定时间内、客观上可能并不关连的行为，以法律规定的形式进行强制关连，从而定罪量刑。此解释重点有二：一、限定于诽谤他人；二、时间跨度，限定为一年。因本案不涉诽谤，不适用此条。但此条文从反面佐证，对于言论，不得无限追溯，强行关连。即使参照本条解释，也不得对被告２０１２年１月，所发的两条微博，进行“点击、浏览、转发次数累计计算”。至多可以对２０１４年所发两条微博，进行累计。</p>
-<p>据上，控方将2012年所发的两条微博，作为支持本罪的事实，纳入累计，没有任何法律根据。可能涉及本罪事实的，只有两条微博，而不是四条微博。 　　</p>
-<p>（二）２０１２年两条微博</p>
-<p>微博内容：1、2012年1月25日。23：58：01，帐号3。“藏区要寺庙‘九有’，要挂毛邓江胡领袖像，伊宁禁穆斯林留胡子和戴面纱，连串组合拳打出，号称淡化宗教意识，是汉人头疯了，还是汉人的头儿疯了？！”（评价数量：22，转发：2）</p>
-<p>　　2、3、2012．1．25日23：43：40，帐号3“伊宁已禁止穆斯林戴面纱，号称淡化宗教意识，汉人全疯了吗？”（评论数38，转发数0 共发了2次）</p>
-<p>这两篇微博，主要有两个内容。一、评论藏区给寺庙“送领袖像”；二、评论“禁止穆斯林留胡子和戴面纱”</p>
-<p>１、给寺庙“送领袖像”。该评论客观背景是：2012年1月24日，媒体报道，农历除夕(1月22日)上午，当地正在广泛开展“送国旗、送领袖像进村入户进寺庙”活动，已赠送国旗、领袖像100余万面(张)。[1]浦志强评论：“汉人头疯了，或汉人头儿疯了。”</p>
-<p>给寺庙送领袖像，是藏区推行“寺庙九有”内容之一，是通过中央和地方财政，使寺庙做到“有领袖像、有国旗、有道路、有水、有电、有广播电视、有电影、有书屋、有报纸。”</p>
-<p>我检索了“九有”的相关资料，认为“九有”的核心内容，应当是、客观上也是“改善民族地区生活条件”，而不是“送领袖像”。这是通过提高民族地区生活水平，从而增加民族感情的一项德政。 “九有”中，最难办到也最为藏民欢迎的，是“有道路、有水、有电……”等。地方宣传部门，应当重点突出“有道路、有水、有电……”，而不是非常错误地突出“送领袖像……”，导致“九有”在国际上，被误导成“洗脑行动”。浦志强律师敏锐地看到这一点，予以批评。其措词虽过于激烈，但判断却是正确的。</p>
-<p>“煽动民族仇恨罪”，在我国刑法理论上，必须言论违背党和国家的政策。由于共产党采取“地方服从中央”原则，地方与中央政策不一致的，当以中央为准。浦的评论，如果符合中央政策，即使西藏地方政策不合，也不构成此罪。那么，中央政策是什么？</p>
-<p>1980年7月30日，中共中央《关于坚持“少宣传个人”的几个问题的指示》规定：“毛主席像、语录和诗词在公共场所过去挂得太多，这是政治上不庄重的表现，有碍国际观瞻，今后要逐步减少到必要限度。其他领导人像和题词也按同样原则处理。”此项政策，至今依然生效。中央的规定，非常正确地指出，挂太多领袖像“政治上不庄重，有碍国际观瞻”。中央明确要求，领导人像要逐步减少到必要限度。</p>
-<p>我国西藏地区，2012年（微博发布时）总人口，只有308万人，总计67万户人家，客观上不可能送出几十万份领袖像。如果送出去几十万领袖像，显然严重违反中央指示。地方宣传部门这种不动头脑、不负责任的浮夸风，已在国际上造成极其严重恶果。谷歌上检索，国际舆论全是负面评论——“有碍国际观瞻”。以至于西藏自治区人大主任向巴平措，不得不出面澄清：“送领袖像进寺庙有传统，挂不挂，不强迫。”[2]但在只有67万户的地区，如果送出１００万份领袖像和国旗，如何让国际人士相信“挂不挂，不强迫？”</p>
-<p>结论：浦志强关于“送领袖像”的评论，完全符合中央政策，客观上维护了党和国家的形象。于国法无罪，于党国有功。</p>
-<p>２、“禁止穆斯林戴面纱”的评论。对于伊宁地区禁止穆斯林戴面纱，他的评论说“汉人全疯了？”言词过激，但质疑“面纱禁令”，无论国际还是国内，大有人在。</p>
-<p>中共中央党校民族宗教理论研究室主任靳薇，2015年4月16日在《金融时报》中文网发表文章称：“在高压严打下推行的一些措施或处置行为，易引发信教群众，甚至是不信教的同族干部民众的不满情绪，同时也易被民族分裂势力、宗教极端势力放大为‘消灭宗教’而引发更深的抵触心理。……把只是受消极影响而没有破坏行为的普通民众、他们的亲属族人，都推到政府的对立面，推到极端势力的怀抱中。……不仅没有争取到人心，反而如列宁所说：“帮了敌人的忙”。[3]</p>
-<p>靳薇教授的文章，与浦志强的微博，立场相同，论述更详细有力。他们主观上都是避免激化民族矛盾，希望促进民族团结，而不是煽动民族仇恨。法国在世界上最早发布“面纱禁令”，首都巴黎最近就发生恐怖袭击事件。有人认为，原因之一是法国对穆斯林采取“面纱禁令”等过激措施。</p>
-<p>结论：被告有关“面纱禁令”的评论，主观上无煽动民族仇恨的故意，客观上无煽动民族仇恨的内容。至于观点是否正确，另当别论。我国宪法赋予公民“批评政府的权利”，而不是“正确批评政府的权利”。公民有“言论的自由”，而不是有“说真理的自由”。浦的言论即使错误，显然属于言论自由范畴。</p>
-<p>（三）2014年3月2日微博</p>
-<p>微博内容：2014.3.2 14:03:52昆明事件太血腥，凶手罪孽深重。说疆独制造恐怖，这回我信，但这是结果，不是原因。死伤极惨重，后果太不堪，你就给了我一句话，说疆独凶残你没责任，我不满意。天天说党的政策亚克西，维吾尔人心向党，就这么血肉横飞？法学会会长王乐泉，你镇抚西域十几年，那儿你最熟悉，告诉我：为什么？冲谁来的？”（评论：1071，转发：1930）</p>
-<p>本篇微博，主要内容有三：一、谴责凶手；二、认为疆独是有原因的；三、新疆前领导人有责任。</p>
-<p>被告谴责凶手，无疑是正确的。按照马克思主义哲学中的因果关系理论，任何事物产生，都有其客观原因。被告关于“疆独是有原因的”言论，完全符合马克思主义的哲学。至于他认为，新疆前领导人对疆独，负有领导责任，与中共中央２００９年颁行的《关于实行党政领导干部问责的暂行规定》，精神完全相符合。他要求反思党的民族政策，法律上没有任何疑问。我国宪法赋予的公民对国家工作人员的“批评建议权”，而不是“正确地批评国家工作人员的权利”，即使言论久妥，也与“煽动民族仇恨”无任何关连，更不属于犯罪。</p>
-<p>（四）2014年5月1日微博</p>
-<p>微博内容：5、6、7、8 、2014.5.1日。13：36：02和14：39：29。帐号1。14：33：21：帐号4“普天之下莫非王土，率土之滨莫非王臣，说新疆是中国的，就别把它当殖民地，别当征服者和掠夺者，先发制人后发制人都为制人，都是把对方当敌人，都是荒谬的国策。冰冻三尺积重难返，免不了会在出事，只要民不畏死，以死惧之就没用，袭击者渴望成为真主的烈士，先发后发能吓唬谁呀？新疆政策，该调整了。”（评论数量23/42 转发数量60 /81。共发了4次）</p>
-<p>此文主旨是批评某些人不妥当的言论——“先发制人”。他告诫在处理民族问题上，要调整心态。他是在建议，而不是在判断。他的核心观点是：新疆政策要调整。本文批评政府的言论，假使可能引起某些人对政府不满，也不能认定煽动了民族仇恨。北京大学社会学系前任系主任、社会学人类学研究所前任所长，我国民族问题最权威的专家马戎教授，公开发文称：“我必须不断重申要反对大汉民族意识”。他多次公开建议，要反思党的民族政策。[4]</p>
-<p>煽动民族仇恨，是指煽动民族与民族之间的仇恨，不包括“煽动仇恨政府和政党”，后者属于煽动颠覆国家政权罪。必须严正地指出，中国共产党是各民族人民的党，代表各族人民的利益，不是“汉人党”。我国政府，是各族人民共同组织的政府，绝不是“汉人政府”。不能因为被告批评党和政府的政策，可能导致少数人对政府不满，就推导出这是“煽动民族仇恨”。将对政府的不满，等同于民族仇恨，这是在犯法律上和政治上的双重错误。</p>
-<p>综上，被告四条微博，无论从主观故意和客观行为上，皆无煽动民族仇恨内容，不构成犯罪。</p>
-<p>二、寻衅滋事罪</p>
-<p>起诉书称，被告“以侮辱性语言，对相关人员田某某、申某某等多人，肆意辱骂，引发大量网民浏览后转发评论，造成恶劣社会影响。”</p>
-<p>此罪名下，涉及三条微博，时间分别是2011年7月29日，2013年1月31日，2013．7．26日。在此期间，两高发布《关于办理寻衅滋事刑事案件适用法律若干问题的解释》，2013年7月22日起施行 。《关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释》，2013年9月10施行。</p>
-<p>三条微博中，前两条发表于两高解释施行之前，能否适用两高解释，颇存疑问。即使适用两高解释，参照两高关于“一年内累计”的规定，也不应将两年前的微博，纳入累计。如果控方这种指控逻辑成立，并得到判决认可，2013年后，网民发布的任何一条微博，只要有一丁点涉及犯罪，检方就可以将网民此前的微博，无任何时间限制地强行关连，“装入”犯罪事实之中，指称“情节严重”。这样的“寻衅滋事罪”，其实是文革时期的“坏分子”罪。</p>
-<p>（一）2011年7月29日微博</p>
-<p>微博内容：2011年7月29日，12：55：56。帐号3“我老姐新闻发布会无聊，但记者人身权有保障。她还证明：铁道部发言人王勇平真优秀，反正我信。铁道部毕竟让你问。中石油去年七一六好悬把大连炸飞。今年周年搞纪念，又放把大火，就不跟你说；还好老姐是母猪，换条疯狗就该问你：“你哪单位的？你老总跟我熟啊。录音笔借我玩玩儿？</p>
-<p>评论数量：49 转发数量：97。</p>
-<p>本条微博评论对象是“我老姐”。没看起诉书前，我捉摸半天，不知所指为谁？最后我猜测，应当是倪萍。她在某次人大或政协会议期间，因俯身地下，抢拍领导照片，被网友讥讽。当我信心满满地在网上搜索后，发现竟然是一个叫田振辉的，北京全路通信信号研究设计院有限公司党委宣传部部长。</p>
-<p>本条微博，唯一过格语言是“老姐是母猪”。但骂人不仅没有具体指名，而且单凭微博本身内容，无法推测出所指为谁。数量上，只骂一次，评论４９，转发９７，无任何其他严重后果，显然不属犯罪事实。</p>
-<p>（二）2013年1月31日微博</p>
-<p>微博内容：2013年1月31日 14：44：18。帐号10。“除了运气和血统，申纪兰当代表，毛新宇当委员。靠装傻和真傻。这说明人大和政协，啥也不是，人想如鱼得水，要么装傻，要么真傻。我不奢望毛委员聪明，只好祈求申老太：活着轻于鸿毛，死去重于泰山，您一死了之该多好啊！您都84个，当60年代表，终于到坎儿了，趁机马革裹尸，讹人大追封个烈女，如何？</p>
-<p>评论数量：145，转发数量：129。评论数量：97，转发数量：120</p>
-<p>　　此微博称，毛新宇傻瓜，虽然用词属于负面评论，但这是网络上常见的用语，尚不构成侮辱。本微博关于申纪兰的言论，涉嫌侮辱。但两个微博转发量，合计２４９次，远未达到所谓“５００次”标准，也未造成严重后果。不构成犯罪。个人认为，无论申纪兰是否提起自诉，作为公众人物的浦志强，都应主动赔礼道歉。</p>
-<p>（三）、2013年7月26日微博</p>
-<p>微博内容：2013．7．26日，23：29：23。账号9、帐号8“没有共产党为什么不行？”我他妈的哪儿知道，为什么不行？！我告诉你项平：中国没谁都行，少他妈的给爷指道儿，还“一本中国人应读的书”？你写出这种破书，简直是无耻之尤！要不是吴虹飞进去了，你的祖宗也会受性侵的！你让我看着就特恶心！哼！（注：最后一句存疑，疑似不是浦写的。）</p>
-<p>评论数量165/192,转发数量：251/330。共发了2次。</p>
-<p>此微博针对项平的言论中，只有一个“他妈的”这一过格的国骂，其他不过是措词严厉的批评而已，构不成侮辱。这条核心需要讨论的是，关于对执政党评论。</p>
-<p>激烈地批评共产党，究竟是否是犯罪行为？需要赞赏的是，起诉书中，没有将这方面的言论，列为犯罪事实。但法律上，我们仍需要对此加以分析。我们先看最高法院曾经的指导案例。</p>
-<p>牡丹江市郊区革命委员会科技科负责人刘殿清，1969年给毛主席和省委领导写了5封匿名信。信中说，现在的党是“吹牛的党”、“倒退的党”、“坑人的党”……1972年，牡丹江市法院以“恶毒攻击”罪，判他15年，刘申诉不止。江华看完案卷后说，他对党和领袖的攻击言论，是错误的，应当教育，但不是犯罪。[5]</p>
-<p>他不仅为刘殿清平反，还把他的案件编成案例，指导全国。在上海召开的千人大会上，他公开说，林彪、“四人帮”只许歌功颂德，不谁批评，动辄逮捕判刑，严重破坏社会主义法制。你的工作做的不好，就不准老百姓说几句不满意的话？共产党还不许群众批评？有些人到北京上访，回去就被批斗、游街、加刑，这些都是不能容许的奇怪现象。他风趣地说：“八亿人口，一个思想，你们相信不相信？我不相信。”[6]</p>
-<p>2000年12月，《人民日报》 发表何兰阶、 曾汉周、王怀安、王战平联合署名的文章，“实事求是，依法办事——江华同志逝世一周年祭”。此四人皆曾任最高法院副院长。文称：刘殿清的信“主要内容是对林彪、“四人帮”祸国殃民、破坏国民经济和科学文化事业等行为表示强烈不满；对打砸抢、破坏民主、践踏法制十分愤慨……同时有一些对党和领袖激烈攻击的言词。”他对党和领袖的攻击言论是错误的，应当教育。江华的意见，划清了犯罪与犯错误的界限，为冲破“禁区”开了一个头。[7]</p>
-<p>这说明直至2000年，中国共产党官方媒体，仍然认同，激烈地批评党和领袖是错误言论，但不是犯罪。２０１３年，习近平总书记也正确地指出：“对中国共产党而言,要容得下尖锐批评,做到有则改之、无则加勉；对党外人士而言,要敢于讲真话,敢于讲逆耳之言。”[8]</p>
-<p>[1] 西藏举行送领袖像进寺庙活动 2012年1月24日。</p>
-<p>[2] 中国网：送领袖像进寺庙有传统 挂不挂不强迫。2012年3月28日。</p>
-<p>[3] 靳薇：“新疆治理中的‘穿戴留’问题”</p>
-<p>[4] 马戎：“我必须不断重申要反对大汉民族意识”。２０１４年9月28日，共识网。</p>
-<p>[5] 江华传编审委员会：《江华传》。北京，中共党史出版社，２００７年，页３６４-３６７.</p>
-<p>[6] 类必允编：《江华司法文集》。人民法院出版社，１９８９年，页５０-５９.</p>
-<p>[7] 何兰阶等：“实事求是，依法办事——江华同志逝世一周年祭”。《人民日报》，2000年12月27日，第11版。</p>
-<p>[8]　习近平:“共产党要容得下尖锐批评”。新华每日电讯。２０１３年２月８日。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%95%E5%85%B5%EF%BC%9A%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%A1%88%E7%9A%84%E6%B3%95%E5%BE%8B%E5%88%86%E6%9E%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%85%B5/?category=18271" rel="tag">何兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AE%A1%E5%88%A4%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA/" target="cdt-mirror">墙外楼 | 乔木：审判律师浦志强</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg" alt="浦志强" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/浦志强-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/浦志强.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>浦志强人高马大，口才极好，平时总是提着一个硕大的罐头瓶做的茶杯，里面乌泱泱泡着茶叶或胖大海一类的东西，和西服革履不大搭调。一旦坐定打开笔记本，显示器上一个满脸沧桑的老妇脸就刺入眼中，她的额头上写一个大大的“冤”字。这是社会学家于建嵘教授的一幅著名油画，被浦志强作为电脑桌面。</p>
-<p>有冤就要帮伸。作为律师，他这些年不仅代理了许多房屋被强拆等财产权官司，还有非法拘禁、拦截上访等人身权官司，成为著名的维权律师。其实还有相当多的应该算是人权案件，比如由于调查汶川地震死难学生被下狱的谭作人案，给中南海讲过课的周叶中教授的剽窃案，以及艾未未的政商案。</p>
-<p>当然最有影响的还是代理重庆大学生村官任建宇的劳动教养案。这个案件不仅最终获胜，而且在他一直以来的奔走呼吁，和法律、媒体、学界同道的一起推动下，通过该案最终促成了侵犯人权、违背法律的劳教制度的废除。</p>
-<p>其实他代理过更多不知名的案子，一些还是免费代理。对于许多找上门来求助的底层百姓，由于各种压力不能代理的，他也尽可能给出建议、联系他人。食宿和钱财的救济总是有的，往往还伴随着无奈的叹息和难掩的泪水。</p>
-<p>办案之余，浦志强也热心公共事务，喜欢公共表达，经常参加各种研讨活动，接受媒体采访。他获过不少奖项，上过国内外的许多影响力榜单。比较有名的是《南方人物周刊》的一次专访，封面是他的大幅照片，标题是“中坚浦志强”。过去称他社会中坚，用现在的话说就是“满满的正能量”。</p>
-<p>他做的最正能量的一件事，是几年前在网上实名举报周永康，而且有理有据有文采，一如他在法庭的辩护词。后来周永康落马，有些人认为他功不可没。其实和他没有什么关系，一是他的举报公开信当时很快就被删除，就像他之前许多被消除的博客、微博帐号一样。二是党内清理门户、官员选择性反腐，对于百姓来说，只有感激领会传达。都像他那么举报添乱，还要不要党的领导？</p>
-<p>举报周永康在当时是有风险的，但要说风险有多大，洞察局势、熟悉政法的浦志强也是清楚的。这些年来，不管是被冠以死磕律师、人权律师，还是臭公知、带路党，他的大局观和分寸感都掌握的很好，从严律己、依法办事。</p>
-<p>他被销号的微博签名是“体制外大佬，美丽岛律师”。尽管被不断监控骚扰，但他还是游刃有余，办案、研讨、出访，立端行正，不留把柄。时间长了和当差的还有了交情。有一年寒冬他凌晨出门，看见楼道里蜷缩着几个官人，心疼地说，这么多年的了解，我又不会跑，你们可以回去休息，或者进我家暖和暖和也行。</p>
-<p>但他还是被抓了。去年五月在朋友家里，十几个人聊聊“六四”二十五周年的事。这样的聚会，以前私下是可以搞的，最近三年换了领导，就不行了。一起开会的人有的当天释放，有的一月后获释，而浦志强被抓后，却一直不放。当时一起聚会的土家野夫，去之前给家人交代好律师委托书，嘱咐万一回不来，就让去找浦志强。可别人有惊无险，而律师却身陷囹圄，令人唏嘘。</p>
-<p>因为共同关注传媒，我和浦志强有些联系，三件事印象深刻。一次是个饭局，有人听说他随身带个大针筒，糖尿病严重时自己打胰岛素缓解。他说随身是带着药剂，但打针还是会去医院。自己打出问题了，是畏罪自杀，找同伴打，是非法行医。再说带个针筒被怀疑吸毒怎么办？</p>
-<p>另一次是他代理的商人赵发琦和西安勘探院的探矿案，陕西省高级法院一审赵发琦胜，最高法院二审期间，省政府致函最高院，从维稳出发要求改判，同时以虚报注册资本罪，抓捕当事人。天则所专门为此案召开研讨会，许多学者、律师、记者参加。平时人气旺、爱发言的浦志强一言不发，只顾聆听记录。我问他为何如此低调，他说案情他清楚，请大家来就是听取意见的。</p>
-<p>还有一次我举办媒体法的研讨会，中午安排浦志强等与会人员用餐，他约了几个兼职指导的政法大学研究生一起来讨论。本来会务组可以一起签单结账，可服务员告诉我，浦那桌他已经自己买单。</p>
-<p>现在浦志强已被羁押快两年，不断审讯调查，罪名一变再变，近年来常见的寻衅滋事、非法经营、嫖娼吸毒都不适用，最终就是以七条微博认定的言论罪起诉。今天，也就是12月14日开庭审判。公开不敢奢求，惟愿公正审判。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AE%A1%E5%88%A4%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%9C%A8/?category=18271" rel="tag">乔木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -657,7 +568,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -667,5 +578,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

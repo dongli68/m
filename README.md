@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%87%A1%E7%BB%99%E9%92%B1%E4%B9%8B%E9%81%93%EF%BC%8C%E4%B8%8E%E6%97%B6%E6%9C%BA%E5%81%95%E8%A1%8C/" target="cdt-mirror">【习总日记】 凡给钱之道，与时机偕行</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，12，16 ）</p>
+<p>12月16日至18日，以“互联互通、共享共治，共建网络空间命运共同体”为主题的第二届世界互联网大会在浙江省乌镇举行。今天上午10时30分，第二届世界互联网大会在浙江乌镇开幕。我出席开幕式并<a href="http://news.sohu.com/20151216/n431530471.shtml">发表主旨演讲</a>。</p>
+<p>我在演讲中首先说，尊敬的巴拉巴拉，欢迎各位嘉宾来到美丽的乌镇，共商世界互联网发展大计。然后回忆过去。 我说我曾经在浙江工作多年，多次来过乌镇，很喜欢这个地方。接下来显摆。第二次乌镇改造时，我在这里帮助他们策划，支持他们古建保护、旅游开发。今天再次来到这里，感到亲切熟悉，感到耳目一新，毕竟我多年没有来了，感觉对这里还是刮目相看了。</p>
+<p>为何中国继上次举办世界互联网大会后再次举办？因为我们有钱。中国有一句俗话说得好，有钱能办世界大会。凡是世界性的大会，都可以到中国来举办。我们出钱买名誉，提高中国的知名度和国际威望。就好比企业花钱做广告，道理是一样的。自从我当上总书记开始全世界撒钱，中国的国际地位从九十多一下子上升到第二位。不信你们可以去街上打听。</p>
+<p>今天我演讲的题目是，凡给钱之道，与时机偕行。这是什么意思呢，估计很多人弄不明白。那我就花点小时间帮你们整明白。</p>
+<p>凡给钱之道的意思是，即便是送钱，你也必须有合理和适合方式方法，冒冒失失给钱而讲不出道理来，人家不会收。即使是收了，人家也不会说你好。给钱也是需要智慧的。中国几千年来估计就出这么一个。中国的慈禧太后“赠友邦”说，和毛主席的支援世界革命，都是给钱的大师，是那方面的实践者开拓者和理论家。</p>
+<p>与时机偕行的意思是，要看准时机。什么是好时机？就是我有钱而你正需要钱。人家若正处在不需要钱的历史阶段，还有我们自己正好没钱穷光蛋一个的时候，都不是送钱的好时机。送钱的原则是，要雪中送炭，而不要锦上添花。今天的中国正处于钱多得无处花的历史时期，而外国刚巧陷于无钱困境里。就这样买卖做成了。</p>
+<p>有时候我主动送上门去，像是照顾孤寡老人。有时他们来取，好像中国北京就是他们的银行金库。</p>
+<p>去年，<a href="https://chinadigitaltimes.net/chinese/2014/12/%E6%B3%A1%E6%B3%A1%E7%BD%91%EF%BD%9C%E8%B4%9D%E5%B8%A6%E5%8A%B2%EF%BC%9A%E4%B9%8C%E9%95%87%E5%AE%A3%E8%A8%80-%E4%B8%80%E4%B8%AA%E8%A2%AB%E9%81%97%E6%BC%8F%E4%BA%86%E7%9A%84%E7%AC%91/" target="_blank">首届世界互联网大会</a>在这里举办，推动了网络创客、网上医院、智慧旅游这些新的业态快速发展，让这个粉墙黛瓦的千年古镇焕发出新的魅力。乌镇的网络化、智慧化，和世界大会期间暂时免于屏蔽化，是传统和现代、人文和科技融合发展的生动写照，是<a href="http://chinadigitaltimes.net/space/%E4%B9%8C%E9%95%87%E7%BD%91" target="_blank">中国互联网创新发展</a>的一个缩影，也生动体现了全球互联网共享发展的理念。</p>
+<p>各位嘉宾、各位朋友！“凡给钱之道，与时机偕行。”互联网虽然是无形的，但运用互联网的人们都是有形的，互联网是人类的共同家园。让这个家园更美丽、更干净、更安全，是国际社会的共同责任。这就是我国政府不让老百姓<a href="http://chinadigitaltimes.net/space/%E7%BF%BB%E5%A2%99">翻墙</a>的基本理由。一旦开放，<a href="https://chinadigitaltimes.net/chinese/2015/12/420891/" target="_blank">外国一些污七八糟的东西</a>就会腐蚀我们的青少年，和青少年的父母们，会弄脏我们的美好心灵。</p>
+<p>让我们携起手来，共同推动互联网空间互联互通、共享共治，为开创人类发展更加美好的未来助力！ </p>
+<p>最后，预祝大会取得圆满成功！ 谢谢大家。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%87%A1%E7%BB%99%E9%92%B1%E4%B9%8B%E9%81%93%EF%BC%8C%E4%B8%8E%E6%97%B6%E6%9C%BA%E5%81%95%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B9%8C%E9%95%87%E7%9B%9B%E5%86%B5%E7%A9%BA%E5%89%8D-%E5%94%B1%E8%A1%B0%E8%80%85%E9%A1%BE%E5%BD%B1/" target="cdt-mirror">【异闻观止】环球时报 | 乌镇盛况空前 唱衰者顾影自怜</a>
 </h2>
 <p><p>第二届世界互联网大会今天起至18日在浙江乌镇举行，习近平主席和巴基斯坦总统侯赛因、俄总理梅德韦杰夫等8位领导人以及20个重要国际组织负责人，120多个国家的2000多名嘉宾出席大会。这样的世界互联网盛会已经很成规模，它反映了中国互联网实力对全球的吸引。</p>
@@ -138,7 +161,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC%E8%AE%B0%E8%80%85/?category=18271" rel="tag">关押记者</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/" target="cdt-mirror">【立此存照】五毛召唤术：“pu志强”的魔力</a>
 </h2>
@@ -393,7 +416,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" target="cdt-mirror">【立此存照】当高科技网军占领网络上甘岭（可惜操作有误）</a>
 </h2>
@@ -542,20 +565,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E4%BE%A0
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94%E5%8F%B0/?category=18271" rel="tag">龙应台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%B2%BE%E9%80%89/?category=18271" rel="tag">浦志强精选</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8D%A2%E5%B3%B0%EF%BC%9A%E9%A9%AC%E4%BA%91%E4%B9%B0%E5%86%8D%E5%A4%9A%E5%96%89%E8%88%8C%E4%B9%9F%E4%B8%8D%E7%AE%A1%E7%94%A8-%E4%BB%A4%E4%BA%BA%E7%9C%8B/" target="cdt-mirror">苹果日报｜卢峰：马云买再多喉舌也不管用 令人看清真面目</a>
-</h2>
-<p><p>阿里巴巴集团正式宣布收购百年老报《南华早报》不让人意外，毕竟大马郭氏家族早已无心恋战，想找合适买家；阿里集团则正大力扩展网上网下传媒版图，花几亿美元收购一家有历史的传媒集团十分化算；借用俗一点的说法正是「姣婆遇着脂粉客」。老实说自上月传出有关消息后各方便已确信收购很快会成事。果然，才不过一个月《南早》这家香港历史最悠久的报纸就从亲中商人转到正牌红色商人手中，往下来更紧贴甚至配合北京政府的看法是大有可能的事。 </p>
-<p>    事实上在宣布收购《南华早报》后，阿里集团执行副主席蔡崇信立即发出了一封给读者的信，除了表示入主《南早》十分兴奋外，更指出「中国对世界稳定的作用已经太过重要，实在不应该只有单一论调来涵盖」，必须以多种观点了解中国。他明言，报纸要调整路线，又指西方传媒常用非常特定的角度看中国，而《南早》日后要聚焦中国。除了重视中国议题外，这位高层又指媒体过去对「阿里」不好的地方关注太多，很多集团内有趣的事都忽略了，他认为《南早》应该对阿里集团对商业的影响「更好奇」。这种还未正式入主就指指点点（绝不能算是温馨提示）的做法反映，所谓让专业编采人员自行作决定的承诺只是空话一番，阿里集团希望的是利用《南早》这个历史悠久的新闻平台为阿里说话，为中国涂脂抹粉，甚至想为中国提升软实力及争取话语权。</p>
-<p>    软实力需要有共认价值</p>
-<p>    对香港传媒生态来说，《南早》从亲中商人手上转入红色新贵已是不妙，新贵公开提出希望它调整做法达成政治任务更令人担心该报未来的报道及言论自由将受到严重的局限，甚至可能要扮演阿里及北京喉舌的角色。难怪香港记者协会等传媒组织及学者都忧虑今次收购将进一步削弱香港的新闻自由，收窄言论空间，令主流传媒更一面倒倾向北京。</p>
-<p>    另一方面，阿里或北京希望透过收购传媒提升中国的软实力及争取话语权则只是一厢情愿的幻想，不会也不可能成功。要建立西方特别是美国的强大软实力，硬件或言论平台只是其中一个环节，更重要的是拥有一套让不同国家、地区人士认同、赞赏、拥抱的价值、原则及理念，拥有一套让其他人可以分享的普世价值，让大家共同追求，例如尊重个人权利及尊严，坚持自由法治，敢于追寻及捍卫事实与真相等。有些国家地区即使一时未能、不愿落实这些价值，他们也不能不敢否定，只能找各种借口推搪。美国及西方在国际事务上的强大话语权及广泛影响力，靠的正是这些共认的价值与理念。</p>
-<p>    偏偏崛起的中国在价值、理念上完全交了白卷，不要说拿不出一套可以跟西方媲美、抗衡的价值观，并且跟世界的发展潮流背道而驰，越走越远。当全球社会透过互联网互联互通，互相联系，并促使公民社会更开放有力，令民众拥有更大的发言权时，中国却只懂筑起一道又一道防火墙，组成一支又一支「网上维稳部队」监视及控制网上言行，甚至连党内异议也容不下，要引入「妄议中央」之类的罪名对付敢在内部提出不同意见的党员。</p>
-<p>    当国际监管机构及金融市场越来越讲究透明度，讲究监管规范化及有规可循的时候，中国政府却来个暴力救市，肆意使用行政权力及命令扭曲市场行为，逼企业按官员任意作的指令办事；出现大量企业高管、主事人忽然「失联」的现象更教人完全失却信心。</p>
-<p>    喉舌多令人看清真面目</p>
-<p>    此外，当全球200个国家齐集巴黎召开气候</p>
-<p>
 	<small> ============== 3天前</small>
 </p>
 <table>
@@ -578,5 +587,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

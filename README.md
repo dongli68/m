@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%9B%9B%E6%9C%88%E7%9A%84%E6%9E%AA%E5%A3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E8%9D%B4%E8%9D%B6%E5%90%AC%E8%A7%81/" target="cdt-mirror">天津诗人诗刊｜汤文：四月的枪声，只有蝴蝶听见</a>
+</h2>
+<p><p>今天是林昭女士83周年诞辰！</p>
+<p>林昭生于民国时代的苏州，早年入党，1954年就读北京大学，1957年的反右运动中因支持同学张元勛的大字报“是时候了”被划为右派，后因其长诗发表在右派学生顾雁等人的刊物《星火》上、成立“青年战斗联盟”等事，被以“阴谋推翻人民民主专政罪、反革命罪”收监，狱中写了不少不同政见的文章，1968年被秘密枪决。林昭被枪毙了，其母亲还被缴了五分钱子弹费。</p>
+<p>今天，《天津诗人》微信公众号隆重推出天津诗人汤文在三年前创作的纪念林昭女士的诗作，来纪念这位追求真理的伟大女性。</p>
+<p>林昭的姿态不仅使一段历史有了些许亮光，而且拯救了人们的道德底线。</p>
+<p>林昭，她是一个象征，一种精神和人格的象征。</p>
+<p><strong>四月的枪声，只有蝴蝶听见</strong></p>
+<p><strong>——写在林昭诞辰80周年 </strong></p>
+<p><strong>汤文</strong></p>
+<p>1968年春天，他们终于败下阵来</p>
+<p>他们用尽了几乎所有的酷刑</p>
+<p>在上海的提篮桥监狱</p>
+<p>在你身上，他们已无计可施</p>
+<p>他们只剩下五分钱</p>
+<p>一枚杀人的子弹</p>
+<p>他们决定用谋杀</p>
+<p>来拆除你身上的铁</p>
+<p>29日，“从午正到申初，遍地都黑暗了”①</p>
+<p>——雷霆，押入枪膛</p>
+<p>四月的枪声</p>
+<p>只有蝴蝶听见</p>
+<p>只有蝴蝶慢下来</p>
+<p>···为你送行</p>
+<p>（我们在罪恶中丧失的</p>
+<p>绝不会从仁慈中获得！）</p>
+<p>44年了，出生、成人，娶妻生子</p>
+<p>一代人不明不白，活在你的灰烬中</p>
+<p>44年了，为了全部的因为，我们捏造了一切的所以</p>
+<p>为了一切的所以，我们干掉了全部的因为</p>
+<p>44年——恶棍们没有死去！</p>
+<p>时间，瘫痪在表盘上一言不发</p>
+<p>而正义，这个传闻中的二流子</p>
+<p>至今，还游手好闲！</p>
+<p>——必有一场浩劫</p>
+<p>教会我们：忏悔</p>
+<p>——必有一次审判</p>
+<p>等待我们：认领所有的过犯</p>
+<p><strong>注①：引自《马太福音》：《耶稣的死》第一句。</strong></p>
+<p><strong>（2012-11-29至2012-12-10）</strong></p>
+<p><strong>原载于《天津诗人》2013年夏之卷</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B1%A4%E6%96%87.jpg" rel="attachment wp-att-421971"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B1%A4%E6%96%87.jpg" alt="汤文" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/汤文-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/汤文.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>汤文，1968年生，毕业于天津师范大学，装饰设计师。作品散见《天津诗人》《诗歌月刊》《天津文学》《世界诗人》等文学期刊，有作品被收入《天津现当代诗选》《2011天津辛卯诗选》等多种诗歌选本。</p>
+<p> </p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%9B%9B%E6%9C%88%E7%9A%84%E6%9E%AA%E5%A3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E8%9D%B4%E8%9D%B6%E5%90%AC%E8%A7%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E6%98%AD/?category=18271" rel="tag">林昭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E6%9E%97%E6%98%AD/?category=18271" rel="tag">纪念林昭</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BE%8B%E5%B8%88%E5%B0%9A%E5%AE%9D%E5%86%9B%E5%BD%93%E5%BA%AD%E8%BE%A9%E6%8A%A4%E8%AF%8D/" target="cdt-mirror">【立此存照】浦志强案律师尚宝军当庭辩护词</a>
 </h2>
 <p><p>以下是2015年12月14日，浦志强案辩护律师之一：北京莫少平律师事务所尚宝军律师在北京第二中级人民法院刑事审判庭上的当庭发言记录。</p>
@@ -550,26 +602,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A6%82%E4%BD%95%E4%BE%9D%E6%B3%95%E4%BD%BF%E6%97%A0%E7%BD%AA%E4%B9%8B%E4%BA%BA%E6%9C%89%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">唐映红 | 如何“依法”使无罪之人有“罪”？</a>
-</h2>
-<p><p><strong>问：如何“依法”使无罪之人有“罪”？</strong></p>
-<p>答：对于不同的社会文明而言，“法治”有着既然不同的含义。<strong>对普世的现代文明国家而言，</strong><strong>“法治”的首要之义是约束权力者</strong>，以使其“依法”而行使权力。对迄今仍然停留在前现代的专制社会而言，<strong>“法治”不过是权力者以法律的方式“依法”来奴役和打压无权力者。</strong>因此，对前者，权力者根本就不可能“依法”使一个无罪之人有“罪”；而后者则可以轻而易举地“依法”使无罪之人获“罪”。</p>
-<p>从心理学角度，<strong>一个人是否有“罪”，取决于他具体的行为是否违反了社会普遍共识的规范或禁忌。</strong>当一个人所做所为明显违反社会普遍共识的规范或禁忌，那么他就“有罪”。法律是人类社会主要的制度性明确规范之一。因此，<strong>法律意义上的“有罪”，则需要以法律明确之标准来衡量个体的行为是否有明显违反相关规定。</strong></p>
-<p>由于法律是由人为拟定的成文规则，那么<strong>法律本身是否反映了社会普遍共识就成为法律本身是否具有正当性的重要标准。</strong>一般来说，如果法律反映了社会大多数人的共识，那么法律就具有正当性；而<strong>如果法律只反映少数权力集团精英的意志，而与大多数无权力民众的意愿相冲突，那么法律就不具有正当性。</strong>因此，当一个社会的法律仅仅由社会权力集团制定，只反映权力集团的意志，那么<strong>无权的民众即使违反了法律，也未必违反社会普遍共识，那么这时违反的民众就完全有可能无罪而获“罪”。</strong>例如，种族和解前的<strong>南非</strong>，种族隔离法是由白人当局制定颁发，而并没有反映大多数黑人民众的诉求和意愿，因此，<strong>一个仅仅违反种族隔离法的黑人，他在法律上有“罪”，而在正当性的衡量下，无罪。</strong>因为“平等”才是社会普遍的共识，而种族隔离仅仅反映了少数白人权力集团的意志。</p>
-<p>更进一步地，<strong>当法律仅仅是权力集团奴役和统治民众的工具，而丝毫也不能约束权力集团自身时，那么对于权力集团“依法”使无罪之人有“罪”可谓是轻而易举。</strong></p>
-<p>首先，<strong>可以随时修改法律。</strong>当有些民众的诉求或活动威胁到权力集团时，而民众的活动又没有违反既然的法律规定，那么，权力集团可以随心所欲地及时修改法律，<strong>量身定做法律条文来促使民众的诉求或活动正好处于“违法犯罪”的境地。</strong>例如，当<strong>朝鲜</strong>权力集团担心民众通过收音机收听韩国的广播可能威胁到权力集团时，他们就可以颁发一个新的法律规定，凡是未经权力集团允可而收听境外广播，即构成“叛国罪”。在有些社会里，甚至可以迅速制定出新的法律规定来<strong>使擅自发布气象讯息的民众或机构处于违法犯罪的处境。</strong></p>
-<p>其次，<strong>在不必或不宜修改法律来新造罪名时，可以通过先抓再罗织罪证的方式来使威胁到权力集团的民众陷入“犯罪”的境地。</strong>例如，可以凭借“群众举报”的方式来将可能威胁到权力集团的民众抓捕，然后利用法律可能的延期来<strong>全面审查业已被抓捕者在经济、私生活以及社会活动中的所有资料</strong>，一般来说只要抓住任何有违反犯罪的线索，即可以名正言顺地予以刑事拘留。关于此项只要<strong>在一般性的法律条文中设定很低的犯罪门槛</strong>，使绝大多数民众在正常社会活动中轻而易举就处于违法犯罪而不自知，那么权力集团就可以<strong>选择性地执法</strong>，以惩罚那些可能给权力集团带来威胁的民众。</p>
-<p>如果通过不断地延期，也无法罗织出足以令无罪的民众有“罪”，那么还可以<strong>采取构陷的方式</strong>。像<strong>某个社会</strong>里，曾经有长期坚持举报官员滥用公车的老伯，被执法机构买通性工作者来构陷老伯“嫖娼”的先例。在为了达到惩治威胁者的目的，<strong>权力集团完全可以通过栽赃、诬陷或钓鱼的方式来使本来无罪的民众有“罪”。</strong></p>
-<p>当然，<strong>如果修改法律，罗织罪名，构陷栽赃都无法令对权力集团有威胁的无罪民众有“罪”，那么索性抛开“依法”的面纱，直接突突突，也不是什么不可思议的事情。</strong>对于屠夫来说，“依法”屠宰肉猪，不过是在自信的基础上展现出某种貌似文明的姿态；一旦威胁超过一个临界值，杀猪哪里还需要什么顾虑，直接用拖拉机碾压肉猪不过是分分钟的事儿。</p>
-<p>2015-12-14</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A6%82%E4%BD%95%E4%BE%9D%E6%B3%95%E4%BD%BF%E6%97%A0%E7%BD%AA%E4%B9%8B%E4%BA%BA%E6%9C%89%E7%BD%AA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -591,5 +623,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

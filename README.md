@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BE%8B%E5%B8%88%E5%B0%9A%E5%AE%9D%E5%86%9B%E5%BD%93%E5%BA%AD%E8%BE%A9%E6%8A%A4%E8%AF%8D/" target="cdt-mirror">【立此存照】浦志强案律师尚宝军当庭辩护词</a>
+</h2>
+<p><p>以下是2015年12月14日，浦志强案辩护律师之一：北京莫少平律师事务所尚宝军律师在北京第二中级人民法院刑事审判庭上的当庭发言记录。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/image1-2-copy-768x1024.jpg" alt="image1-2 copy" width="551" height="735" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/image1-2-copy-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2015/12/image1-2-copy-768x1024.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/image1-2-copy.jpg 960w" sizes="(max-width: 551px) 100vw, 551px">、、 <img src="http://chinadigitaltimes.net/chinese/files/2015/12/image1-2-768x1024.jpg" alt="image1-2" width="550" height="733" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/image1-2-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2015/12/image1-2-768x1024.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/image1-2.jpg 960w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%BE%8B%E5%B8%88%E5%B0%9A%E5%AE%9D%E5%86%9B%E5%BD%93%E5%BA%AD%E8%BE%A9%E6%8A%A4%E8%AF%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%9A%E5%AE%9D%E5%86%9B/?category=18271" rel="tag">尚宝军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%B2%BE%E9%80%89/?category=18271" rel="tag">浦志强精选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/421941/" target="cdt-mirror">乔木：护脸网大会召开</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44.jpg" alt="2015-12-16 14.28.44" width="552" height="475" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44-300x258.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44-768x661.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44.jpg 800w" sizes="(max-width: 552px) 100vw, 552px"></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%9D%B1%E7%B6%B2%EF%BD%9C%E5%96%AC%E6%9C%A8%EF%BC%9A%E5%88%A5%E6%8B%BF%E7%B6%B2%E7%B5%A1%E4%B8%BB%E6%AC%8A%E5%BF%BD%E6%82%A0%E7%B6%B2%E6%B0%91/">东网｜乔木：别拿网络主权忽悠网民</a></p></blockquote>
+<p>去年开始在浙江乌镇永久举办的“世界互联网大会”，由于其鲜明的政治目的，想用资本的优势，把中国的局域网控制模式，向世界推广，为中国的网络管制寻找借口，因此也被网民戏称为中国“护脸网”大会。</p>
+<p>今天召开的第二届，由于最高领导亲临讲话，道路关卡严查，又被戏谑这是互联网大会，还是铁丝网大会？</p>
+<p>去年启动时，中国政府作为永久主办方，从最高领导的贺信到主管副总理马凯的讲话，正式推出一个概念：“网络主权”，以此强调控制互联网的正当性。</p>
+<p>虚拟的网络空间和现实世界最大的不同，就是它的开放性和信息共享性，如果每个国家都把现实世界中的主权硬套在网络空间，那就像国境、海关、边防、护照、签证等繁琐的检查一样，怎么实现“互联互通”，享受上网的便捷乐趣。</p>
+<p>但总有国家要把全球互联互通的网络变成有本国特色的局域网，筑墙阻隔，检查干涉。Facebook作为全球最流行的社交媒体，当年在招股说明书中指出，该网在全球的sick（字面意思为病态）国家不能使用，即叙利亚（Syria）、伊朗（Iran）、China（中国）和朝鲜（North Korea）。</p>
+<p>如果说互联网有主权，那么为什么其他国家不行使主权，限制访问Facebook等网站？或者为什么这些sick国家容许别国侵犯主权，访问本国的网站？</p>
+<p>有意思的是，开会的乌镇，成为互联网特区，不用翻墙可以自由的冲浪。这也说明主办方对网络屏蔽的心虚和理亏，暂时抛开“网络主权”的说辞，营造一个自由上网的地方，平息与会者的怨气。</p>
+<p>所谓“网络主权”，其实就是用一个貌似神圣的概念，为控制阻塞网络寻找借口。对特色国家来说，就是筑起网络长城，阻挡让其恐惧的全球民主、自由、人权信息。这就像类似“人民民主专政”、“民主集中制”、“党领导下的法治”等众多有特色的概念一样，把两个完全对立的概念拧巴在一起，混淆视听，忽悠网民。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/421941/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E8%81%94%E7%BD%91/?category=18271" rel="tag">护联网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%AE%88%E9%AD%9A%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%B7%E6%A1%88%E5%89%9D%E9%9B%A2%E4%B8%8D%E9%96%8B%E7%9A%84%E5%85%AB%E4%B9%9D/" target="cdt-mirror">东网｜守魚：浦志強案剝離不開的八九</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690.jpg" alt="在政法大学上学时就是个“大个儿”。" width="490" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/001mPGVDzy6XMI18Pqy0a690.jpg 490w" sizes="(max-width: 490px) 100vw, 490px"><p>在政法大学上学时就是个“大个儿”。</p></div>
@@ -538,53 +570,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" target="cdt-mirror">【立此存照】当高科技网军占领网络上甘岭（可惜操作有误）</a>
-</h2>
-<p><p><a href="http://weibo.com/1935652125/D8nUXxLuu?from=page_1003061935652125_profile&wvr=6&mod=weibotime&type=comment">@在下张耀之的原微博</a>下相关“正能量”自动发帖程序（又称“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/" target="_blank">机器五毛</a>”）的评论已经在新浪微博上被删除，以下网友截屏来自豆瓣网。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-1.jpg" alt="bot-went-wrong-1" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-2-2.jpg" alt="bot-went-wrong-2-2" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-2.jpg" alt="bot-went-wrong-2" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-3.jpg" alt="bot-went-wrong-3" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-5.jpg" alt="bot-went-wrong-5" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-6.jpg" alt="bot-went-wrong-6" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-7.jpg" alt="bot-went-wrong-7" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-8.jpg" alt="bot-went-wrong-8" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-9.jpg" alt="bot-went-wrong-9" width="460" height="818"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bot-went-wrong-10.jpg" alt="bot-went-wrong-10" width="460" height="818"></p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%EF%BD%9C%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%8B%A6%E9%9A%BE%E4%B9%8B%E8%B7%AF%E9%80%9A%E5%90%91%E5%B9%B3%E5%AE%89%EF%BC%81/" target="cdt-mirror">有道云笔记｜斯伟江：苦难之路通向平安！</a>
-</h2>
-<p><blockquote><p><em>世上，你们有苦难，但你们可以放心，我已经胜了这个世界。（约翰福音16：33） </em></p></blockquote>
-<p>谁都知道中国的法律学院，除了综合性大学，都是政法大学，就算综合性大学，也无法避免政治在法律之上。而老浦和我，分别毕业于一南一北的政法大学。我们也应该知道，中国的法院，也是政法法院。<a href="http://chinadigitaltimes.net/space/%E7%8E%8B%E5%B2%90%E5%B1%B1" target="_blank">W书记</a>也说了，法治也是党领导下的法治。他这人实在，不诓人。</p>
-<p>老浦如果说有罪，也是因为政治上犯了错误，如《环球时报》<a href="http://chinadigitaltimes.net/space/%E8%83%A1%E9%94%A1%E8%BF%9B" target="_blank">胡主编</a>说的，“客观说，浦志强的案子挺难判的，原因是浦志强身为律师，却长期热衷政治，是中国社会及舆论场上反体制的号召性人物之一。他的言行对社会治理明显构成了某种破坏力，这种破坏力发生在中国进入互联网时代后的新社会现实之中，形成挑战法律权威的新形式”。</p>
-<p><a href="http://chinadigitaltimes.net/space/%E8%83%A1%E9%94%A1%E8%BF%9B" target="_blank">胡编</a>说案子难判，是因为浦志强热衷政治，是反体制的号召人物。这个定性，就是一个政治定性。因为胡编虽不懂法律，但懂历史，7条微博定2个罪，在历史书上是什么，他也清楚。老浦被抓时，并不因为发微博，而是因为开会。现在以7条微博定他罪时，这些微博都已经删除，连账号都尸骨无存，要是现行犯，以当时微博的监控之严，早就落地抓人了，这很简单，可以说，无非是找茬判人。为什么找茬，因为，老浦热衷政治，且按他自己的玩笑话，已经成为“体制外大佬”。</p>
-<p>不过，所以的政法大学，不都号召大家关心政治吗？就算不是现代大学，私塾讲顾炎武的天下兴亡匹夫有责，不也要关心政治。就是<a href="http://chinadigitaltimes.net/space/%E5%91%A8%E5%B0%8F%E5%B9%B3" target="_blank">周主席</a>的所谓星辰大海，不也是热衷政治吗？所以，胡编的定性不在第一句，而在第二句，反体制的号召人物。这话，我认为，不确切。体制是什么？如果体制是现行宪法法律下的体制，我说，老浦并没有反。因为，他所作所为，都在法律的范围下进行。就如他反劳教，他是用诉讼的手段，通过体制允许的媒体报道，人民呼声，最终促进中央，作出暂停劳教制度的执行。他自己承认，最终废劳教是中央，他只是起到一点推动作用，而不敢贪天之功。后来，老浦受此模式鼓励，又希望废双规。结果是什么，大家都看到了。反过来，也证明体制外大佬，没有体制的配合，不成气候。</p>
-<p>但有的人不怎么这样看。关键是，这个人成了体制外的大佬，大佬都有风险，无论体制内外。有的人粉丝上了千万，万一说的话不够正能量，也会成为自己的侧卧之榻，岂容酣睡。所以，同样用微博骂人，“正能量的人”骂人的可多了，但依然不但无事，而且有功。但老浦政治不正确的是，别人都不敢批评的民族问题，他敢说，古人所谓，千士之诺诺，不如一士之谔谔。好皇帝的朝代，这样的人是御史。没遇到的时代，这个人就是作死。翻几千年国史，历来如此。皇帝质量如何，全看运气。</p>
-<p>但老浦这种一士之谔谔，最终都会进入史册，而且也会被少数民族的人所感激。本民族的人为自己说句话，虽然也难，但毕竟是本族，但异族人为他族的人说话，更为难得。老浦作为体制外大佬，不管以后是否继续热衷政治，这个资本，是极为稀有的。这种待遇，可遇而不可求。某种程度上，比他<a href="http://chinadigitaltimes.net/space/%E5%88%98%E6%99%93%E6%B3%A2" target="_blank">另一个冠冕在头的朋友</a>，都要珍贵。</p>
-<p>老浦不是没缺点，和我一样，我们都开玩笑，戏虐，过头了，可能就刻薄。老浦在实际待人接物上比我厚道，确实有古道热肠。非常有礼节。我印象最深的是，他用不完的名片，有来必有往。从来不觉得体制外大佬，可以和体制内大佬一样，不用名片，本来他那身板和面孔就是名片。有一次，我带孩子见老浦，老浦居然还给一个大红包给孩子。换成我，根本就不会想到。朋友的婚礼，他千里迢迢会赶去。我和徐利平都托他送红包，这红包钱自然是欠了不给的。我们对他说，我们是帮你打工的。但说话说回来，我不是说，说话刻薄了，就法律上有罪。不是，但是，作为更高的标准，我们还需要再修炼，如何柔和谦卑地说话。我相信，他一定会做到。</p>
-<p>这几年的刑事司法，已经让我深深感觉，党领导司法，确实是目前颠扑不破的原则。所以，给什么司法人员写信，不是NAIVE，就是别开生面。李庄案二季，要不是<a href="http://chinadigitaltimes.net/space/%E8%96%84%E7%86%99%E6%9D%A5" target="_blank">薄书记</a>改变想法，或者有更大的权力影响，凭几个司法官员要反抗，谈也别谈。所以，老浦的命运，并不决定于法律人。同样，前几天那个大案，答案或许也是如此。这并不是让我们放弃。我们做该做的事情要做，其他的事情，其实要交给自己所信仰的。如基督徒，就相信耶稣已经胜了这世界，“把苦难当成通往平安的道路，接受这罪恶的世界，按其现实本相，而非如我所愿，相信他会使一切变得美好”（莱-尼布尔的祷告词）。</p>
-<p>而老浦所信的历史或正义，也一样，最终会让他的苦难遭遇，成为这社会以后平安的因素之一。老浦不但自己遭难，而且连累了他的外甥女。我想他心里有很多愧疚。他常年奔波在外，也愧对家人。他在看守所里面，甚少提自己的苦，反而经常问候朋友，关心朋友。希望我们平安，不敢说他有多崇高，但，从为人来说，他满有基督圣徒的样式。我们这个世界上，不但做坏事会遇到苦难，就算做好事，也会受到苦难。这让我们难以理解。但神让万事互相效力，也会让通过苦难试炼的人，如钻石一样，在高温下结晶，最终闪烁出非同寻常的光芒。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CWKZeyqUsAESMeh.jpg-large.jpg" alt="CWKZeyqUsAESMeh.jpg-large" width="550" height="550" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CWKZeyqUsAESMeh.jpg-large-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/CWKZeyqUsAESMeh.jpg-large-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/CWKZeyqUsAESMeh.jpg-large-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/CWKZeyqUsAESMeh.jpg-large-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/CWKZeyqUsAESMeh.jpg-large.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><br>
-如今，这一年多的试炼，到现在走上法庭，以这批评公权力的7条微博，作为罪证，老浦已经证明了自己。苦难无法避免，但显然，他战胜了自己。老浦的白发应该会更多了，他原来饱满的脸庞，恐怕更多皱纹。作为朋友，我很担心他，有许多次梦到他，有一次，居然梦见参加了他的葬礼，午夜梦醒，泪流不止。</p>
-<p>胡主编所说的，老浦的言行对社会治理有明显的破坏力，显然，他的用词很精巧，他不是说，老浦的言行对社会构成破坏力，而是说对治理有破坏力。如果我们的社会治理转型，要从法制走向法治，那么肯定会需要破旧立新，这样的话，胡编的话语，从我们的角度看，依然是飞盘准确地抓住了。什么时候，即使有人向法院和舆论发指令，胡编和法官岿然不动，老浦的中国梦，或许就实现了！</p>
-<p>“那美好的仗，我已经打过，当跑的路，我已经跑尽了，当守的道，我已经守住了，从此以后，有公义的冠冕为我存留”。（提摩太后书），一切皆有天意，我仿佛看到这个“傻大个”，饱经风霜的脸，依然有两个深深的酒窝；身上，依然洋溢着正气；心中，仍充满满满的家国之情。 他站在法庭上，只不过是他另一个宏业的起点。</p>
-<p>荀子曰：粹而王，驳而霸，无一焉而亡，秦之弊也。国之兴旺，在崇尚道义，抑或任用贤能。古人不是喜欢批评，但立谤木而求诤言，也是为了更好的社会治理。《春秋繁露》说：《春秋》之所恶者，不任德而任力。 我们今天谈论老浦的事情，不是单单关心他一人，或者其他<a href="http://chinadigitaltimes.net/space/%E8%AE%B8%E5%BF%97%E6%B0%B8" target="_blank">许</a>、<a href="http://chinadigitaltimes.net/space/%E9%83%AD%E9%A3%9E%E9%9B%84" target="_blank">郭</a>等个人命运，而是关心本国的国运，国运盛衰。欧阳文公曰： 呜呼！盛衰之理，虽曰天命，岂非人事哉！夫祸患常积于忽微，而智勇多困于所溺。权力在手，不能不慎。</p>
-<p>倒也不必再多悲情。<strong>人心已变，大河解冻。天理长存，不为尧存，不为桀亡。</strong>顺势而为，乃可永昌。逆水行舟，举步维艰。如此看来，我们除却心里常有期盼和希望，乃可以重申董仲舒的“正其谊不谋其利,明其道而不计其功”。多年后回望，义人们的苦难，乃是通向平安的道路。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%EF%BD%9C%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%8B%A6%E9%9A%BE%E4%B9%8B%E8%B7%AF%E9%80%9A%E5%90%91%E5%B9%B3%E5%AE%89%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E4%BC%9F%E6%B1%9F/?category=18271" rel="tag">斯伟江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E7%B2%BE%E9%80%89/?category=18271" rel="tag">浦志强精选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -596,7 +581,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E4%BC%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -606,5 +591,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E4%BC%9F
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

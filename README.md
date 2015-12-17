@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B5%B5%E6%99%97%EF%BC%9A%E8%AF%B7%E5%88%A0%E5%B8%96%E5%91%98%E5%96%9D%E5%92%96%E5%95%A1/" target="cdt-mirror">匆匆1993｜赵晗：请删帖员喝咖啡</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2012/05/-e1365068766786.jpg" alt="删帖周末" width="262" height="241"><strong>“所以你们那里是可以翻墙的。”可以，不但可以翻墙，我们每个人入职的时候还要学习许多敏感事件。很多我之前都不知道。比如**事件（26年前春夏之交发生于北京），我们好多人都完全不知道，需要从头学起。单位就给我们放各种纪录片，包括《***》（此事发生的地点），我看完都震惊了。</strong></p>
+<p>原文：</p>
+<p>如今，没有遭遇过删帖的人是少数吧。特别是对我这种政治觉悟不高，甚至思想有问题的人，“相关法律法规”经常润物细无声地把我的思想和言论删除。</p>
+<p>我就很好奇，删帖员是谁呢？他又有哪些经历想法？很快我无言的小心思就被上苍眷顾。话说我有一个大哥，是个了不起的摄像师。有一天他对我说：“我看你屡遭删帖挺闹心的，我认识一个删帖员，我们一起喝咖啡吧！”</p>
+<p>请删帖员喝咖啡，我心情很激动，有一种反侦察的快感。</p>
+<p>我们给这位删帖员起个代名吧，叫小山。原来，小山曾是我大哥的临时工。当时我还在服务农民工子女的NGO工作，没钱支付外面专业的摄影摄像，只能每次都让大哥做义工。有几个公益片子，大哥拍好后就是找小山当临时工剪辑的。大哥说，小山那时候在他们那实习，对于学习剪辑很有兴趣。</p>
+<p>我们约在北京城南的一个咖啡馆，我和大哥坐定，等着小山来。基于我对于国保的观察和认识，我对于小山的体貌特征充满了幻想，而且在这些势力面前，我总有一种“做贼心虚”的不安……</p>
+<p>终于，小山出现了，我听到了他上楼的脚步声，感到他从我身后走来，坐在了我旁边。我定睛一看：哇塞！好一个眉目清秀，文静俊朗的大男孩！<br>
+小山点了一杯冰摩卡。</p>
+<p>开场白是很困难的。好在大哥解围，身为东北汉子的他果然直爽：“这是记者姐姐，她老跟我说想认识认识删帖员。”</p>
+<p>小山并未显露尴尬，但很少和人有目光接触，不抬头，眼睛一直盯着桌子。“你想知道什么，问吧。”</p>
+<p>受访者少有的坦荡，反倒让我不知所措，赶紧说：“我们随便聊聊，随便聊聊……那我可就问了。”</p>
+<p>“你是怎么当上删帖员的？” 职高毕业后没找到合适的工作，他们（小山供职的某大型门户网站）来招人，就去了。</p>
+<p>“你们那有多少删帖员？人员构成？”大概一百来人吧，男的女的都有，挺平均的。绝大多数是职高、高职或大专毕业的，没找到其他工作想留北京，就先当删帖员。年轻小姑娘也不少。</p>
+<p>“收入如何？”不高。很低。</p>
+<p>“你如何评价这份工作？” 没什么想法，就是打份工而已。</p>
+<p>“平时工作流程是怎样的？”每天早上先开早会，每个人轮流汇报国内国际各种最新敏感局势、动态，做敏感词整体判断，制定当日敏感词。比如**花（一种有香味的花）革命的时候，我们早汇报的人要向大家介绍最新动态，否则不了解情况不容易监控，看不出来或者容易遗漏。</p>
+<p>“所以你们那里是可以翻墙的。”可以，不但可以翻墙，我们每个人入职的时候还要学习许多敏感事件。很多我之前都不知道。比如**事件（26年前春夏之交发生于北京），我们好多人都完全不知道，需要从头学起。单位就给我们放各种纪录片，包括《***》（此事发生的地点），我看完都震惊了。</p>
+<p>“所以你在这里工作最大的收获是？”最大的收获是了解了许多的真相。你们根本看不到。我过去也根本不知道。</p>
+<p>“每年最累是什么时候？”两会，还有**事件的纪念日，我们24小时不停班，看得我眼睛都是红血丝。这种时候还会增加人力，怕有人漏看，复查次数增多。而且发帖的人也越来越高明，写藏头诗的，做动态图的，写外语的。我记得最逗的是有人写了一排的“占”字，看上去就很像坦克。还有画蝴蝶，一个翅膀是6，一个翅膀是4，忽闪忽闪的，稍微不注意就漏了。</p>
+<p>“一排‘占’字也删？”删，必须删。无论变幻什么花样。</p>
+<p>“有没有枪口抬高一寸的时候？”想过，但不可能。层层筛查，我放过了别人也会拦住。还有工作统计，如果漏了算责任，影响奖金。</p>
+<p>“你们的学习资料那么宝贵，可不可以拿出来偷偷分享？”不可能。任何人拿走任何U盘或者拷贝，都会被发现。曾经有一个人把资料拷走了，后来被追究了责任，后果严重。</p>
+<p>“你在删帖的时候想些什么呢？”我什么也不想，就是一份工作。</p>
+<p>“你看《新闻联播》吗？”我才不看。</p>
+<p>“还打算干多久？”干不长，没什么发展空间，还是想学一门技术。</p>
+<p>“你家里人对你这份工作还满意吗？”小山顿了顿，这是他在整个回答过程中少有的停顿和沉默，之后说，还行吧。</p>
+<p>咖啡喝完了，小山对我没有任何问题。我和大哥送他回家。他给我们指路，车停在北京城南一处低矮破旧的平房居民区。</p>
+<p>“我父母离婚了，我一直和我妈住。”小山下车前说了这话，消失在冬日的小巷中。</p>
+<p>（作者是<a href="http://reporter.caixin.com/6711090/%E8%B5%B5%E6%99%97">财新传媒公共政策记者</a>）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B5%B5%E6%99%97%EF%BC%9A%E8%AF%B7%E5%88%A0%E5%B8%96%E5%91%98%E5%96%9D%E5%92%96%E5%95%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E5%B8%96/?category=18271" rel="tag">删帖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B5%B5%E6%99%97%EF%BC%9A%E8%AF%B7%E5%88%A0%E5%B8%96%E5%91%98%E5%96%9D%E5%92%96%E5%95%A1/" target="cdt-mirror">赵晗：请删帖员喝咖啡</a>
 </h2>
 <p><p><strong>“所以你们那里是可以翻墙的。”可以，不但可以翻墙，我们每个人入职的时候还要学习许多敏感事件。很多我之前都不知道。比如**事件（26年前春夏之交发生于北京），我们好多人都完全不知道，需要从头学起。单位就给我们放各种纪录片，包括《***》（此事发生的地点），我看完都震惊了。</strong></p>
@@ -616,25 +656,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80%E5%9B%A0%E7%BD%AA%E5%85%A5%E7%8B%B1/" target="cdt-mirror">美国之音｜中国百万富翁百分之一因罪入狱</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0.jpg" rel="attachment wp-att-421755"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0.jpg" alt="B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy10_cw0.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></a><p>2002年1月17日大连商人、实德集团董事长徐明在北京。他后来被判刑。</p></div>
-<p>据路透社报道，中国胡润富豪榜刚刚发布新报告，称过去17年内，3000多名中国的百万富翁中，有百分之一曾因贿赂、挪用公款或其他经济犯罪而入狱、被起诉甚至判刑。</p>
-<p>报告指出。这三千多名曾位列胡润年度富豪榜的百万富翁中，有35位涉嫌犯法。其中11位是房地产巨头，9位是金融业高管。他们大多来自北京和上海，他们的平均入狱年龄在47岁，平均服刑年数为10年。</p>
-<p>路透社报道称，胡润报告创始人胡润表示，涉嫌违法的富豪人数低于因涉嫌贪污腐败而被监禁或调查的政府官员及国有企业高管。</p>
-<p>据悉，习近平上台后，已有数位富豪被捕入狱，包括薄熙来的“商业同盟”、大连实德集团前总裁徐明。</p>
-<p>多家媒体日前报道复星集团董事长、亿万富豪郭广昌一度失联，之后又协助相关司法机关调查，引起人们猜疑此事是否与腐败案有关。据悉，郭广昌已经复出，而且调查不涉及他本人。</p>
-<p>据悉，郭广昌在今年的胡润富豪榜上排名第17位。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80%E5%9B%A0%E7%BD%AA%E5%85%A5%E7%8B%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E/?category=18271" rel="tag">徐明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA/?category=18271" rel="tag">中国富豪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%89%8B%E5%A5%97/?category=18271" rel="tag">白手套</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -646,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -656,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

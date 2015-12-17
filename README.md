@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B5%B5%E6%99%97%EF%BC%9A%E8%AF%B7%E5%88%A0%E5%B8%96%E5%91%98%E5%96%9D%E5%92%96%E5%95%A1/" target="cdt-mirror">赵晗：请删帖员喝咖啡</a>
+</h2>
+<p><p><strong>“所以你们那里是可以翻墙的。”可以，不但可以翻墙，我们每个人入职的时候还要学习许多敏感事件。很多我之前都不知道。比如**事件（26年前春夏之交发生于北京），我们好多人都完全不知道，需要从头学起。单位就给我们放各种纪录片，包括《***》（此事发生的地点），我看完都震惊了。</strong></p>
+<p>原文：</p>
+<p>如今，没有遭遇过删帖的人是少数吧。特别是对我这种政治觉悟不高，甚至思想有问题的人，“相关法律法规”经常润物细无声地把我的思想和言论删除。</p>
+<p>我就很好奇，删帖员是谁呢？他又有哪些经历想法？很快我无言的小心思就被上苍眷顾。话说我有一个大哥，是个了不起的摄像师。有一天他对我说：“我看你屡遭删帖挺闹心的，我认识一个删帖员，我们一起喝咖啡吧！”</p>
+<p>请删帖员喝咖啡，我心情很激动，有一种反侦察的快感。</p>
+<p>我们给这位删帖员起个代名吧，叫小山。原来，小山曾是我大哥的临时工。当时我还在服务农民工子女的NGO工作，没钱支付外面专业的摄影摄像，只能每次都让大哥做义工。有几个公益片子，大哥拍好后就是找小山当临时工剪辑的。大哥说，小山那时候在他们那实习，对于学习剪辑很有兴趣。</p>
+<p>我们约在北京城南的一个咖啡馆，我和大哥坐定，等着小山来。基于我对于国保的观察和认识，我对于小山的体貌特征充满了幻想，而且在这些势力面前，我总有一种“做贼心虚”的不安……</p>
+<p>终于，小山出现了，我听到了他上楼的脚步声，感到他从我身后走来，坐在了我旁边。我定睛一看：哇塞！好一个眉目清秀，文静俊朗的大男孩！<br>
+小山点了一杯冰摩卡。</p>
+<p>开场白是很困难的。好在大哥解围，身为东北汉子的他果然直爽：“这是记者姐姐，她老跟我说想认识认识删帖员。”</p>
+<p>小山并未显露尴尬，但很少和人有目光接触，不抬头，眼睛一直盯着桌子。“你想知道什么，问吧。”</p>
+<p>受访者少有的坦荡，反倒让我不知所措，赶紧说：“我们随便聊聊，随便聊聊……那我可就问了。”</p>
+<p>“你是怎么当上删帖员的？” 职高毕业后没找到合适的工作，他们（小山供职的某大型门户网站）来招人，就去了。</p>
+<p>“你们那有多少删帖员？人员构成？”大概一百来人吧，男的女的都有，挺平均的。绝大多数是职高、高职或大专毕业的，没找到其他工作想留北京，就先当删帖员。年轻小姑娘也不少。</p>
+<p>“收入如何？”不高。很低。</p>
+<p>“你如何评价这份工作？” 没什么想法，就是打份工而已。</p>
+<p>“平时工作流程是怎样的？”每天早上先开早会，每个人轮流汇报国内国际各种最新敏感局势、动态，做敏感词整体判断，制定当日敏感词。比如**花（一种有香味的花）革命的时候，我们早汇报的人要向大家介绍最新动态，否则不了解情况不容易监控，看不出来或者容易遗漏。</p>
+<p>“所以你们那里是可以翻墙的。”可以，不但可以翻墙，我们每个人入职的时候还要学习许多敏感事件。很多我之前都不知道。比如**事件（26年前春夏之交发生于北京），我们好多人都完全不知道，需要从头学起。单位就给我们放各种纪录片，包括《***》（此事发生的地点），我看完都震惊了。</p>
+<p>“所以你在这里工作最大的收获是？”最大的收获是了解了许多的真相。你们根本看不到。我过去也根本不知道。</p>
+<p>“每年最累是什么时候？”两会，还有**事件的纪念日，我们24小时不停班，看得我眼睛都是红血丝。这种时候还会增加人力，怕有人漏看，复查次数增多。而且发帖的人也越来越高明，写藏头诗的，做动态图的，写外语的。我记得最逗的是有人写了一排的“占”字，看上去就很像坦克。还有画蝴蝶，一个翅膀是6，一个翅膀是4，忽闪忽闪的，稍微不注意就漏了。</p>
+<p>“一排‘占’字也删？”删，必须删。无论变幻什么花样。</p>
+<p>“有没有枪口抬高一寸的时候？”想过，但不可能。层层筛查，我放过了别人也会拦住。还有工作统计，如果漏了算责任，影响奖金。</p>
+<p>“你们的学习资料那么宝贵，可不可以拿出来偷偷分享？”不可能。任何人拿走任何U盘或者拷贝，都会被发现。曾经有一个人把资料拷走了，后来被追究了责任，后果严重。</p>
+<p>“你在删帖的时候想些什么呢？”我什么也不想，就是一份工作。</p>
+<p>“你看《新闻联播》吗？”我才不看。</p>
+<p>“还打算干多久？”干不长，没什么发展空间，还是想学一门技术。</p>
+<p>“你家里人对你这份工作还满意吗？”小山顿了顿，这是他在整个回答过程中少有的停顿和沉默，之后说，还行吧。</p>
+<p>咖啡喝完了，小山对我没有任何问题。我和大哥送他回家。他给我们指路，车停在北京城南一处低矮破旧的平房居民区。</p>
+<p>“我父母离婚了，我一直和我妈住。”小山下车前说了这话，消失在冬日的小巷中。</p>
+<p>原微信logo：</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/XEPia95AExNhMCPjnxslr3ib540qrczib2g2Via6FhPUdy1ItnicfRU9pJY7aFGxHUqeoGq45vKqQ6fsiaUqZN0Te0kg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="275" height="270"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B5%B5%E6%99%97%EF%BC%9A%E8%AF%B7%E5%88%A0%E5%B8%96%E5%91%98%E5%96%9D%E5%92%96%E5%95%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E5%B8%96/?category=18271" rel="tag">删帖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%84%B1%E7%A8%BF%E6%BC%94%E8%AE%B225%E5%88%86%E9%92%9F%EF%BC%9F/" target="cdt-mirror">【立此存照】习近平用提词器“脱稿”演讲25分钟</a>
 </h2>
 <p><p><strong><a href="http://news.sina.com.cn/c/zg/2015-12-16/doc-ifxmpnqi6580987.shtml">新浪网｜25分钟3500字，除了乌镇习近平哪些演讲是脱稿的？</a></strong></p>
@@ -79,7 +120,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87/?category=18271" rel="tag">乌镇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91%E7%B2%BE%E9%80%89/?category=18271" rel="tag">乌镇网精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E4%B8%9D%E7%BD%91/?category=18271" rel="tag">铁丝网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E8%84%B8%E7%BD%91/?category=18271" rel="tag">护脸网</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BC%A0%E5%81%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E8%BF%90%E4%BD%9C%E9%80%BB%E8%BE%91%E7%9A%84%E5%8F%98%E5%8C%96%E4%B8%8E%E6%8C%91%E6%88%98/" target="cdt-mirror">张健：中国政治运作逻辑的变化与挑战</a>
 </h2>
@@ -150,7 +191,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E6%94%BF/?category=18271" rel="tag">问政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AC%E5%9E%8B%E9%97%AE%E9%A2%98/?category=18271" rel="tag">转型问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E8%B4%A3%E5%9E%8B%E5%9B%BD%E6%B0%91/?category=18271" rel="tag">问责型国民</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%9B%9B%E6%9C%88%E7%9A%84%E6%9E%AA%E5%A3%B0%EF%BC%8C%E5%8F%AA%E6%9C%89%E8%9D%B4%E8%9D%B6%E5%90%AC%E8%A7%81/" target="cdt-mirror">天津诗人诗刊｜汤文：四月的枪声，只有蝴蝶听见</a>
 </h2>
@@ -594,33 +635,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%8A%A5%E7%AB%A0%EF%BC%9A%E8%B0%B7%E5%BC%80%E6%9D%A5%E5%88%98%E5%BF%97%E5%86%9B%E5%87%8F%E5%88%91%E9%9D%9E%E4%BA%AB%E7%89%B9%E6%AE%8A%E5%BE%85%E9%81%87/" target="cdt-mirror">BBC | 北京报章：谷开来刘志军减刑非享特殊待遇</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/120821040806_cn_gu_kailai_verdict_cctv_640x360_afp.jpg" alt="谷开来早在一年多前就获监狱当局建议减刑" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/120821040806_cn_gu_kailai_verdict_cctv_640x360_afp-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/120821040806_cn_gu_kailai_verdict_cctv_640x360_afp.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>谷开来早在一年多前就获监狱当局建议减刑</p></div>
-<p><strong>中国媒体发现中共重庆市委原书记薄熙来的妻子谷开来与前铁道部长刘志军获得减刑的消息并予以报道后，北京两大报章均强调此举符合法律规定。</strong></p>
-<p>包括《人民日报》网站在内的党政机关媒体与多家门户网站星期一（12月14日）午后陆续报道，<a href="http://www.court.gov.cn/qgfyjxjszyjwzxxxw/resources/zhuzhan/case/20151117/340195.ht"> 谷开来</a>、<a href="http://www.court.gov.cn/qgfyjxjszyjwzxxxw/resources/zhuzhan/case/20151117/340194.html"> 刘志军</a>获监狱当局建议减刑，北京市高级法院上星期五（11日）分别裁定两人死缓刑罚减为无期徒刑。</p>
-<p>北京市委宣传部主管的《京华时报》与《新京报》星期二（15日）分别引述法律学者称，两人减刑符合中国《刑法》第50条规定，并非特殊待遇。报道更列举了多名获得减刑的涉腐官员。</p>
-<p>但两报同时引述中国政法大学专家称，刘志军是在《刑法修正案（九）》实施之前获刑，因此仍有机会获得进一步减刑。</p>
-<p>刚在11月1日实施的《刑法修正案（九）》规定，对犯贪污、受贿罪，被判处死刑缓期执行的，法院根据犯罪情节等情况可以同时决定在其死刑缓期执行二年期满减为无期徒刑后，终身监禁，不得减刑、假释。</p>
-<p>至于谷开来的减刑建议为何在提交超过一年后才予以公示，《新京报》称：“专家表示，对于减刑申请，法院也要组成合议庭进行立案和评议，延迟公示或因证据材料等问题。”</p>
-<p>北京知名律师李方平告诉BBC中文网说，减刑决定符合正常的法律程序，但为何在这个时间公布，则“很难揣测”。</p>
-<p>“判死缓以后两年没有其他事由的话，通常是改判无期徒刑，”李方平说。</p>
-<p>“但为什么集中在这个时间宣布，我也不太清楚，他们有他们的消息释放的意图吧。”</p>
-<p>除谷开来、刘志军外，原薄家勤务人员<a href="http://www.court.gov.cn/qgfyjxjszyjwzxxxw/resources/zhuzhan/case/20151029/328571.html"> 张晓军</a>今年11月13日获安徽省蚌埠市中级法院裁定减刑至7.5年有期徒刑，以及北京市第二中级法院建议对前国美电器董事长黄光裕减刑一年的的消息也在同日传出。</p>
-<p>其中，<a href="http://www.bjcourt.gov.cn/bggs/bggsView.htm?id=100312892714"> 黄光裕的减刑公示</a>将在星期二到期。</p>
-<p>四人的减刑公示均在中国最高法院“全国法院减刑、假释、暂予监外执行信息网”上刊登，但谷开来、刘志军的减刑判决书只出现在北京市高级法院网站。</p>
-<p>对于这次减刑判决延误多天才得到报道的问题，两报并未提及。</p>
-<p><a href="http://www.bbc.com/zhongwen/simp/china/2014/07/140711_china_wu-ying_sentence">去年7月11日</a>，浙江东阳“80后亿万富姐”吴英死缓减刑案由浙江省高级法院在浙江省女子监狱开庭宣判，中新社等官方媒体获安排到监狱实地采访宣判过程。</p>
-<p>对于媒体报道法庭决定的时间和方式，李方平表示：“我觉得都是有选择性的——什么时候释放，要不要释放，达到这样高层级的（案件），通常都是要由很高的层面去批准发布。”</p>
-<p>值得注意的是，在中国媒体报道上述减刑的同一天，中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”的案件<a href="http://www.bbc.com/zhongwen/simp/china/2015/12/151214_china_lawyer_trial_ends"> 在北京第二中级法院审结</a>，但中国媒体并没有对此案有任何报道。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%8A%A5%E7%AB%A0%EF%BC%9A%E8%B0%B7%E5%BC%80%E6%9D%A5%E5%88%98%E5%BF%97%E5%86%9B%E5%87%8F%E5%88%91%E9%9D%9E%E4%BA%AB%E7%89%B9%E6%AE%8A%E5%BE%85%E9%81%87/">Permalink</a> |
-<br>
-Post tags: <br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +646,7 @@ Post tags: <br>
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +656,5 @@ Post tags: <br>
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

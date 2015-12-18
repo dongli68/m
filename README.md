@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%A8%B1%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%B7%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E7%9A%84%E6%A6%AE%E8%80%80%E8%88%87%E8%8B%A6%E9%9B%A3/" target="cdt-mirror">东网｜莫之許：浦志強命中注定的榮耀與苦難</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang.jpg" alt="puzhiqiang" width="400" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></p>
+<p>2015年12月14日，著名人權律師浦志強「尋釁滋事」和「煽動民族仇恨」案在北京市第二中級人民法院開庭。自2014年5月初浦志強被抓捕以來，此案廣受關注，開庭當日，美國、歐盟等多國外交官前往現場，宣讀聲明，多家國際媒體也前往採訪報道，期間，外交官和媒體記者均遇到粗暴對待。此外，庭外也聚集了大批的浦志強支持者，他們高呼「浦志強、無罪」的口號，有17人被現場帶走，幾天後，已知張占、王素娥、渠紅霞、冉崇碧等四人被刑事拘留，其他人則在拘押多時後或釋放，或仍滯留於馬家樓收容點。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46.jpg" alt="北京律师浦志强案件开庭，逾百公民到场声援，民众持标语并高呼”浦志强无罪”。（照片来自维权人士，拍摄日期2015年12月14日)" width="549" height="384" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46-300x210.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46.jpg 622w" sizes="(max-width: 549px) 100vw, 549px"><p>北京律师浦志强案件开庭，逾百公民到场声援，民众持标语并高呼”浦志强无罪”。（照片来自维权人士，拍摄日期2015年12月14日)</p></div>
+<p>浦志強是大陸著名人權律師，1989年時，為中國政法大學研究生，積極參加學運，是第一批走入天安門絕食的中國政法大學13名學生之一，也是六‧四當天，最後撤離天安門廣場的學生之一，在此後25年的時間裏，堅持以自己的方式紀念六‧四，包括每年六‧四都會前往天安門廣場進行憑弔，2004年，六‧四的十五周年時，浦志強曾參與發起「八九一代關於六‧四問題的聲明」，2008年，浦志強也是《零八憲章》首批303名簽署人之一，此外，浦志強與劉曉波、張祖樺、張顯揚、江平、張思之……等異議人士或自由化人士保持著長期密切友好的關係，是大陸泛自由化群體中，或廣義上的異議人士當中活躍的一員。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA892.jpg" alt="浦志强892" width="192" height="262"></p>
+<p>與此同時，浦志強也以人權律師的社會角色而廣為人知。受胡平先生「論言論自由」一文的影響，浦志強對於言論自由有近乎信仰的堅持，自成為律師以來，很早就介入到了有關言論自由的訴訟案件之中，如余秋雨訴肖夏林案，以及原安徽臨泉縣縣委書記的張西德訴《中國農民調查》作者陳桂棣春桃夫婦案等，早在2005年，浦志強就與高智晟、郭飛雄、許志永、滕彪等人一道，入選了當年《亞洲周刊》的亞洲風雲人物，成為了當時方興未艾的維權運動中的一員，近年來，浦志強更先後介入了譚作人、艾未未等人的案件、重慶勞教系列案件、湖南唐慧勞教案等，依托新興的推特、微博等社交平台，和通過市場化媒體等傳播形式，浦志強獲得了廣泛的關注，除被多家媒體廣泛報道之外，更獲得了《中國新聞周刊》「影響中國2013年度法治人物」的榮譽，被看作是當代法治維權的領軍人物之一，同時也是最有影響力的人權律師。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2013/02/%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg" alt="浦志强" width="413" height="598" srcset="http://chinadigitaltimes.net/chinese/files/2013/02/浦志强-207x300.jpg 207w, http://chinadigitaltimes.net/chinese/files/2013/02/浦志强.jpg 413w" sizes="(max-width: 413px) 100vw, 413px"></p>
+<p>近年來，浦志強參與了越來越多的人權案件，獲得了越來越大的影響力，與此同時，浦志強在網絡社交平台如新浪微博，從不隱晦自己的那段歷史，時不時會主動貼出一些當年遊行、絕食、示威的圖片，在一些市場化媒體的報道如《南方人物周刊》的封面故事「中堅浦志強」當中，也會以雖然曲筆，但很明確的指向提及那一年，浦志強當初參與學運和此後的長期堅持，也越來越為人所知，可以說，浦志強以其特有的作為、表達和個人魅力，以一己之力，重新將自己連同那段歷史帶回到了主流人群之中。六‧四以後，當局試圖通過經濟發展和時間的沖刷，最終將六‧四問題加以排除，為此保持了長達26年的持續高壓和隔離，因此，當局很難容忍浦志強日益增加的影響力。以區區七條微博構成兩條罪名的荒唐背後，很大程度上可以從這一點得到解釋。事實上，導致浦志強最終被抓捕的事件，恰恰就是十多人在家中所舉辦的「北京六四二十五周年研討會」。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA-1.jpg" alt="浦志强" width="284" height="177"></p>
+<p>此外，當局對於人權律師的警惕和防範也由來已久，2012年7月31日，《人民日報》海外版刊登中國現代國家關係研究院美國所所長袁鵬的文章，將維權律師、地下宗教、異見人士、網絡領袖、弱勢群體（如訪民）等總結為所謂的「新黑五類」，在當局的眼裏，維權律師既是維權事件的直接參與者，同時又是維權事件的傳播者和意義闡釋者，擔當著樞紐和節點的作用，只有通過維權律師，個案維權事件才能獲得更為廣泛的法律和政治意義，也只有律師，才能橫跨包含訪民、地下宗教、異議人士、網絡意見領袖在內的所有群體。與浦志強在2005年一同入選「亞洲風雲人物」的14人，此前就已有鄭恩寵、高智晟、許志永、郭飛雄、陳光誠等人先後被判刑入獄，其他人士也都遭遇到程度不等的打壓措施，或被迫流亡。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/05/puzhiqiangai.jpg" alt="puzhiqiangai" width="550" height="388" srcset="http://chinadigitaltimes.net/chinese/files/2015/05/puzhiqiangai-300x212.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/05/puzhiqiangai.jpg 700w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>在社交平台時代，更逐漸興起了包括浦志強本人在內的一批維權律師，或被稱之為死磕律師，頻繁介入一些敏感或爭議性權利案件，如山東平度強拆案等。在新的傳播手段和行動空間下，一種費用公募公用，線上線下聯動，各地跨區圍觀，正面抗爭表達的維權抗爭模式開始浮現，如山東曲阜薛明凱父親非正常死亡事件圍觀、建三江黑監獄圍觀，鄭州第三看守所圍觀、蘇州范木根案開庭圍觀等等，這種抗爭形式以法制維權和死磕律師為依托，以社交平台和即時通訊軟件為傳播手段，具有了更強的動員能力、傳播能力和持續能力，對於當局的剛性維穩模式造成了相當的衝擊，儘管浦志強本人並沒有直接參與所有這些案件，但是，作為最有影響力的人權律師，浦志強、斯偉江等人，早就被認為具有相當的危險性，2015年7月9日起，針對維權律師和相關積極分子的大規模打擊終於全面展開，在這次被稱為律師劫的打壓行動中，被刑拘／監視居住律師共12名，被刑拘／監視居住積極分子十多名，更有超過250名律師被短暫拘留、強制約談、傳喚，在這個意義上，提早一年就被抓捕的浦志強，可謂是這一輪打擊的先聲或預演。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2013/09/%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%BC%A0%E6%99%B6.jpeg" alt="浦志强张晶" width="549" height="411" srcset="http://chinadigitaltimes.net/chinese/files/2013/09/浦志强张晶-300x224.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2013/09/浦志强张晶.jpeg 622w" sizes="(max-width: 549px) 100vw, 549px"></p>
+<p>儘管如此，以七條微博入罪的浦志強「尋釁滋事」和「煽動民族仇恨」案，首先仍與言論自由這一浦志強本人最為關切的主題密切相關。在開庭前後，這一主題也最為國內外的媒體和公眾所關切，被廣泛認為是對當下中國言論自由程度的測試。在大陸的有限市場化過程中，市場化媒體、網絡輿論空間與新興社會階層或俗稱的中產階級的自由化傾向相結合，一種親自由化的話語獲得了越來越大的傳播和影響，尤其是在新興的微博平台上，不僅這一話語得到了更大的放大和傳播，也開始出現自由化知識分子、媒體從業人員、法律維權人士、NGO活動家、以及企業界人士以這一話語為中介的廣泛結合，並具有跨越地區隔閡、由線上走入線下的趨勢，這一輿論現象以及其所對應的社會可能，也引發了當局的警惕和防範，並迅速採取了各種壓制措施，從刪除網絡大v的賬號、到推行「七不講」，再到2013年的「清網行動」等等。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA891.jpg" alt="浦志强891" width="260" height="194"></p>
+<p>作為法律人和表達者，浦志強在新興的社交平台上，也有著相當活躍的表現，既是諸多事件的積極參與者，同時也是自由化話語的持續表達者，其本人的微博個人說明為「美麗島律師、體制外大佬」雖不無自嘲，但並不誇張，其本人的賬號，就曾經經歷過數十次的被刪除和再「轉世」，此次在其身上適用的「尋釁滋事」罪名，援用的也正是2013年7月5日最高人民法院、最高人民檢察院出台的《關於辦理尋釁滋事刑事案件適用法律若干問題的解釋》，而此舉本身即為當時進行的「清網行動」所量身打造。因此，對浦志強的打擊，也可看作是此前清網行動的一個延續，是對浦志強此前曾經擁有的巨大影響力的一次清空動作，也是針對自由化話語的整體打擊的一部分。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2013/02/%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%B0%81%E9%9D%A2%E7%85%A7.jpg" alt="浦志强封面照" width="549" height="769" srcset="http://chinadigitaltimes.net/chinese/files/2013/02/浦志强封面照-214x300.jpg 214w, http://chinadigitaltimes.net/chinese/files/2013/02/浦志强封面照.jpg 590w" sizes="(max-width: 549px) 100vw, 549px"></p>
+<p>一身兼具維權律師、網絡意見領袖、廣義上的異議人士等諸多色彩，又走過了26年來的堅持和追求，這既能解釋浦志強何以具有如此大的影響力，同時，也能說明，作為一名不忘初心的理想主義者，作為一名用自己的法律職業追求言論自由、公平正義的人權捍衛者，浦志強就不可能不成為這個政權的敵人，對浦志強的打擊，是針對六四記憶、法制維權、普世話語的普遍高壓的一部分。如今，審判已經過去了幾天，而仍未有判決的結果，許多人仍在期待或者幻想奇跡的出現，人們所不能接受的是，何以要對這樣一名志行高潔的人士痛下殺手，又何以要以如此莫須有的罪名強加於他，這種難以接受的心理，轉化為了對奇跡的期待，對幻想的不忍拋去，轉化成了試金石、分水嶺、轉折點、里程碑等表達，浦志強的命運，在當下不啻是一個巨大的公眾心理事件，但是，在強固運行的市場新極權體制面前，浦志強的命運，或許早已經註定，而我也相信，等待他開創的歷史，還在前頭。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%A8%B1%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%B7%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E7%9A%84%E6%A6%AE%E8%80%80%E8%88%87%E8%8B%A6%E9%9B%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/422146/" target="cdt-mirror">PsyEyes｜唐映红：“中国模式”为什么会“成功”？（上）</a>
 </h2>
 <p><p>Q&A151217</p>
@@ -129,7 +157,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E4%B8%9A/?category=18271" rel="tag">失业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%91%98/?category=18271" rel="tag">裁员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E5%B2%97%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">下岗工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%8A%A8%E8%8D%A1/?category=18271" rel="tag">社会动荡</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/story%EF%BD%9C%E8%A9%B9%E8%86%91%EF%BC%9A%E9%87%8E%E7%94%9F%E5%8F%91%E8%A8%80%E8%80%85%E7%8E%8B%E4%BA%94%E5%9B%9B/" target="cdt-mirror">Story｜詹膑：野生发言者王五四</a>
 </h2>
@@ -156,7 +184,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9D%E8%8C%B6/?category=18271" rel="tag">喝茶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E5%8F%B7/?category=18271" rel="tag">封号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/?category=18271" rel="tag">微信公众号</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-124/" target="cdt-mirror">【河蟹档案】是万国来朝，还是一出丐帮帮主加冕喜剧？</a>
 </h2>
@@ -597,40 +625,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A9%AC%E4%BA%91%E8%B1%AA%E6%8E%B720%E4%BA%BF%E6%94%B6%E8%B4%AD%E5%8D%97%E6%97%A9-%E8%87%AA%E7%94%B1%E7%81%AF%E5%A1%94%E4%B9%8B%E5%85%89%E5%B0%86/" target="cdt-mirror">美国之音｜马云豪掷20亿收购南早 自由灯塔之光将熄灭？</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s.png" alt="6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s" width="549" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/6622053D-69D5-4A2C-8AD6-7C3B33786DB8_w640_r1_s.png 640w" sizes="(max-width: 549px) 100vw, 549px"></p>
-<p>华盛顿—<br>
-中国政府的“大外宣”政策进一步渗入香港。这一次，香港销量最高的英文报纸《南华早报》未能幸免。周一（12月14日），南华早报集团宣布将以20.6亿港元（2.66亿美元）出售旗下媒体业务给中国阿里巴巴集团。马云此番收购行为使不少港人担忧香港的言论自由，已经被扼住的喉咙怕是要被攥得更紧了。</p>
-<p>马云豪掷20亿收购南早 自由灯塔之光将熄灭？</p>
-<p>《南华早报》创刊于1903年，是香港唯一的收费英文报纸。据公开数据显示，南华早报集团68%的收入来自报纸出版收入。曾在南华早报任财经记者的唐路对美国之音说，南华早报近几年一直亏损。她认为，马云此次收购其实是一笔亏钱的买卖。但是据中国媒体报道，阿里巴巴看重《南华早报》是因为其在英语文化圈的口碑，以及它的总部设在香港这一国际金融中心的地理优势。阿里巴巴集团执行副主席蔡崇信12月12日接受《南华早报》专访时也表示，香港的“位置很独特”“可以很好的覆盖全中国”。他还谈到《南华早报》作为一份英文报纸具有其他西方组织所没有的“独特优势”，“它可以让全世界的人更好地理解中国。”</p>
-<p>马云收购《南华早报》似乎是笔亏本买卖</p>
-<p>虽然阿里巴巴和中国媒体的报道都强调马云收购《南华早报》是单纯的商业行为，但似乎这种说法并不能令港人信服。</p>
-<p>曾在《南华早报》担任编辑的知名中国事务评论员林和立周一连线美国之音电视节目时谈到，马云此次收购行为应该是与中国的对外宣传政策有密切关系。他说：“因为阿里巴巴以及马云本人他跟中国党政高层的关系比较密切，很可能这一次的收购是配合中国的所谓大外宣政策，就是说利用有影响力的英文媒体来拓展中国的软实力。”</p>
-<p>他还表示，中国政府近几年一直鼓励大陆的商业集团收购香港媒体，阿里巴巴收购《南华早报》只是一个最新的例子，未来几年这样的收购行为还会更多。</p>
-<p>曾在《南华早报》工作过的刘慧卿和唐路也认同，目前香港媒体几乎已经全部受到中国政府的影响，其中一些甚至被直接控制。香港立法会议员刘慧卿对美国之音说：“香港现在真正独立的传媒都差不多没有了。独立、客观、公正的，差不多找不到了。这个很差。”</p>
-<p>一位不愿透露姓名的香港知名媒体人谈到，现在中文媒体在香港的影响力是最大的，这一点短期内不会改变。因此，《南华早报》作为一份英文报纸，它的地位近几年一直在降低。再加上它的编辑层经常对于选题等进行严格的自我审查，它的可信度也在降低。</p>
-<p>唐路说，自从王向伟2012年2月开始担任《南华早报》总编一职后，“《南华早报》整个就是一个中国日报海外版。”刘慧卿也表示：“这几年南华早报也是很小心，他们也是想自我审查，很多比较敏感的东西他们都不报了。他们内部有些时候就吵架了，因为有些编辑、有些记者都希望写的，但是高级的编辑就不允许他们报，所以就是很麻烦的。”</p>
-<p>王向伟1996年加入南华早报，2000年成为中国版主编，07年成为副总编。他曾经还有一个身份是中国吉林省政协委员，一度受到争议。《南华早报》今年11月宣布，2016年1月1日起，副总编谭卫儿将接替王向伟担任总编。王向伟会继续在《南华早报》担任总编顾问。</p>
-<p>为什么是马云？</p>
-<p>马云创立的阿里巴巴集团是目前全球最大的网上及移动商务公司，它在电子商务行业的迅速成长令同行难以望其项背。马云此番转向进军媒体业，令人疑惑其目的所在。一些人分析认为，马云这次收购行为实质上是执行政治任务。</p>
-<p>据报道，2013年7月，阿里巴巴集团主席马云曾与《南华早报》发生冲突。原因是《南华早报》刊登的一篇马云的专访中提到马云对于六四天安门事件的态度。马云据称在采访中说六四武装镇压是“最正确的决定”。之后撰文记者向马云致歉并辞职。</p>
-<p>在阿里巴巴收购之前，《南华早报》由马来西亚华裔富商郭鹤年持有。记者试图联系郭鹤年任董事长的马来西亚郭氏兄弟有限公司，电话无人接听。之后记者致电阿里巴巴集团总部，对方表示不能提供任何部门电话给媒体。</p>
-<p>林和立说，郭鹤年收购后，《南华早报》变得亲中，而现在被马云收购后或将更加保守。唐路也猜测说：“我估计是中共觉得郭鹤年这些毕竟不是自己人，它不可能完全百分之百控制。”而前文那位不愿透露姓名的香港知名媒体人分析说：“因为南华早报在香港的立场和地位，他们不能随便把它卖给谁，必须卖给北京认为政治上可以接纳的公司或个人。所以即便不是马云，也会是和他差不多的人。所以我觉得这次收购是可以预见的。”</p>
-<p>这位媒体人还谈到，媒体的可信度依赖于其独立性、开放性和稳定性，而中国政府利用马云收购《南华早报》的行为正是在破坏它的可信度。他说，此次收购后，《南华早报》的影响力恐怕会更加减弱，但是北京方面并没有真正意识到这个问题，仍把它当作是可以利用的宣传工具。</p>
-<p>蔡崇信在一封致读者的公开信中表示，《南华早报》日常报道的选题将仍由编辑室决定，管理层不会干涉。同时，《南华早报》数字版将取消现在的收费模式，改为免费网站。</p>
-<p>环时华邮发社论，南早命运难定</p>
-<p>环球时报周二发表社评，告诫香港舆论不要紧张。社评说，南早原本就由马来西亚人控制，现在转到阿里巴巴手里，南早原来的读者群没变，香港社会的大环境没变，可谓制约因素重重。</p>
-<p>社评说：”去香港冲锋陷阵，做改变那里舆论生态的‘决定性角色’，马云这位‘在商言商’者即使心血来潮，也必缺少法术。“</p>
-<p>不过，美国大报华盛顿邮报也在周二发表社论说：外界势必会对《南早》未来的编辑独立性感到担忧，因为马云与北京方面关系密切。文章说，这份百年报纸一直是一家自由独立的媒体，但是在中国收回香港的主权之后，迫于北京方面的压力，这种独立性已逐渐丧失，而如今，“有理由担心，甚至是这灯塔发出的微弱之光也将要被掐灭”。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%A9%AC%E4%BA%91%E8%B1%AA%E6%8E%B720%E4%BA%BF%E6%94%B6%E8%B4%AD%E5%8D%97%E6%97%A9-%E8%87%AA%E7%94%B1%E7%81%AF%E5%A1%94%E4%B9%8B%E5%85%89%E5%B0%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -642,7 +636,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -652,5 +646,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

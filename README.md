@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,97 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E7%85%A4%E7%9F%BF%E8%A3%81%E5%91%98%E5%8A%A0%E5%89%A7%E7%A4%BE%E4%BC%9A%E5%8A%A8%E8%8D%A1%E9%9A%90%E5%BF%A7/" target="cdt-mirror">自由亚洲｜中国煤矿裁员加剧社会动荡隐忧</a>
+</h2>
+<p><p>中国经济持续放缓，导致包括煤炭在内的矿产品价格大幅下跌。美国《纽约时报》近日的报道介绍了中国黑龙江鹤岗市煤矿将大幅裁员，对煤矿工人生活造成极大影响的情况。有专家表示，经济增长放缓，将带来一系列影响中国社会稳定的问题。</p>
+<p>美国《纽约时报》中文网12月17日发表题为“中国煤矿工业衰落，大幅裁员加剧社会动荡隐忧”的报道采访了多名中国煤矿工人，分析了目前中国煤矿企业的困境 以及带给工人的困扰。黑龙江省龙煤集团下属企业有员工20多万人，是目前中国雇佣员工较多的国有企业。龙煤集团去年开始陷入亏损，由于难以归还债务，黑龙江省政府近期拨出37亿人民币补贴，但仍然难以维持企业正常运作。龙煤集团计划大幅度裁减10万名下属煤矿的员工，导致已经无法拿到足额工资的工人人心浮动。报道引述一些专家的话说，龙煤集团早就应该进行技术升级，裁减工人，但当局却因为担心引发社会不稳定而拖延。</p>
+<p>美国南卡州立大学教授谢田就此表示，过去十多年中国经济的发展，很大程度上依赖过度投资，一旦经济放缓，很多行业立即面临产能过剩、价格下跌的问题，</p>
+<p>“中国煤炭行业过去二十年经历了最好的年景，很多私人煤老板都发了大财。但因为过度投资，以粗放型和劳动密集型产业为主的这些投资，现在已经到头了。所以中国面临产能过剩的问题，包括煤矿在内就会遇到很大问题。”</p>
+<p>报道说，中国煤炭价格过去一年多下跌了60%以上，导致中国煤矿企业步履维艰。在美国的中国问题评论人士李洪宽认为，中共山西省和东北地区的煤矿经过多年的开采，地下煤矿储藏越来越少，挖掘起来也越来越困难，原来人海战术的开采方法已经无法持续，</p>
+<p>“有些矿因为开采了很多年，好挖的都挖光了，用以前那种人海战术、王进喜精神就不行了。需要进行技术升级，所以都要裁员。”</p>
+<p>黑龙江鹤岗的煤矿从上世纪初开始开采，到现在已经有100年历史。中国的另一个“煤都”，辽宁省抚顺的情况也非常类似。经过近百年的大规模开采，抚顺煤炭年产量目前只有高峰时期的百分之二十左右。大量和煤矿相关的企业关闭，年青人到外地寻找工作，造成该市人口不断下降。</p>
+<p>报道说，黑龙江鹤岗的一些煤矿工人计划发起抗议行动，但被当地警方阻止，不少组织者被拘捕，但并不能压制工人中急剧上升的不满情绪。</p>
+<p>谢教授表示，中国经济放缓，必将带来诸多的社会稳定问题，</p>
+<p>“象龙煤这种企业，大规模裁员，几万十几万下岗，那确实会出现问题。可能会采取武力镇压，但当局也知道这个不管用。”</p>
+<p>《纽约时报》的报道分析说，中国共产党的权力能否持久，总是和它是否能持续带来经济增长相关联，只要生活水平继续上升，工人就会默许共产党独揽大权，放弃组织工会或进行抗议的权利。但如果工人认为政府无法兑现它的承诺，这种约定就有可能解除。</p>
+<p>李洪宽分析说，这正是中国政府必须以高速度发展经济的原因，但目前中国当局面临无法摆脱的经济放缓趋势，</p>
+<p>“工人运动那边有传统，人口密集，工人也多，所以一旦出现某种产业衰退，很多人工作不保，那社会真的很容易出问题。”</p>
+<p>中国东北三省曾经是中国经济最发达的重工业区之一，重工业产品在中国具有举足轻重的地位。但改革开放之后，重工业地位下降，东北经济一落千丈，很多工厂倒闭，大量工人失业。东北也被称为中国的工业生锈带。报道说，经济放缓的后果在黑龙江鹤岗的市面上相当明显，顾客寥寥的商铺挂着转让的牌子，各种犯罪案件不断上升，抢劫案增加，街道上的井盖失踪，妇女因害怕被抢而不再佩戴珠宝。一些工人表示，当地富的太富，穷的太穷。面临大幅度裁员，大家都提心吊胆，又没有其他出路，社会肯定要出乱子。</p>
+<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E7%85%A4%E7%9F%BF%E8%A3%81%E5%91%98%E5%8A%A0%E5%89%A7%E7%A4%BE%E4%BC%9A%E5%8A%A8%E8%8D%A1%E9%9A%90%E5%BF%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E7%94%B1%E5%AE%88%E8%BD%AC%E6%94%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/" target="cdt-mirror">东网｜乔木：由守转攻的中国互联网</a>
+</h2>
+<p><p>正在浙江召开的“世界互联网大会”，中国最高领导高举“网络主权”，反对“网络霸权”。同时以强势的资本做后盾，提出“五点主张”，雄心勃勃地欲主导国际互联网的规则制定和管理。</p>
+<p>以去年启动在中国永久举办的“世界互联网大会”为标志，以2013年中国新领导上台为划分，中国的互联网管控开始了一个新的阶段，即之前的战术防守，现在的战略进攻。</p>
+<p>2013年以前的防守阶段，中国政府的重点和方向在国内，高筑起互联网长城，阻止外面对政权不利的信息进来。同时内部通过不断的删帖、销号、敏感词过滤、敏感期盯防，像消防队一样到处灭火，恰如98抗洪时江泽民说的“严防死守”。</p>
+<p>这个阶段在国际上也比较理亏，面对美国前国务卿克林顿夫人几次咄咄逼人的互联网自由的讲话，要么被动辩解，要么干脆不回应。因为中国除了那几句僵硬的说辞，什么国情不同，实在没有多少理论上的新主张。</p>
+<p>但是新领导上台后，国内外都转为强硬，开始主动出击。国内配合其巩固权力，开始出击抓人。抓的既有普通网民，也有名人大V，从17岁的甘肃张同学，到80多岁的老人铁流；从活跃的记者刘虎，到老记者高瑜；从富商薛蛮子，到歌手吴虹飞；从在墙外发稿的向南夫，到国内维权的浦志强。这种进攻的态势，在大规模抓捕新公民运动的成员和维权律师方面，体现的最为明显。</p>
+<p>抓人的目的，就是从源头消除网络上的异己声音，让其他网民心存恐惧，不敢发声。与此同时，中国政府开始推广网络“正能量”，正面报道，拥戴政府、政策和领导。在罕见的全国文艺座谈会上，最高领导不提别人，专门介绍了两位网络写手周小平、花千芳，要求像他们一样，多创作正能量的东西。</p>
+<p>政治上宣扬三个自信，大国崛起中国梦；经济上大搞银弹外交，国际采购和援助。借助强势的政治经济，花巨资举办世界互联网大会，提出自己的理论，推广管控策略，并请来一些外国政府附和点赞。</p>
+<p>中国政府在网络方面由守转攻，国内的基础是通过新一轮集权的高压管控，政局维持稳定。国外由于世界经济持续低迷，西方在资本和市场方面有求于中国，对其互联网自由的压力减轻。</p>
+<p>出头的美国，尽管在克林顿夫人任国务卿时代，强硬主张国际互联网自由，但由于维基解密、斯诺登事件等，网络安全似乎比网络自由更为紧迫。这也让中国抓住了出击机会，可以用维护网络安全的名义，加强网络控制和国际对话。尽管西方讲的网络安全主要是打击网络犯罪、防止黑客攻击、保护公众和私人信息等，而中国的网络安全，除了这些，更加强调政治、政策和政权的安全，不容许和政府不同的声音。</p>
+<p>目前来看，由守转攻的中国互联网管控取得了效果，国内网络充斥着娱乐、网购和心灵鸡汤，政治表达被遏制。国际上在自己主办的世界互联网大会上，也获得了掌声。但就像足球比赛一样，最终的胜利不在于进攻还是防守。而所有独裁者下台的时候，谁的手里又没有枪呢？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E7%94%B1%E5%AE%88%E8%BD%AC%E6%94%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422074/" target="cdt-mirror">【异闻观止】公安副局长朋友圈评论“一国两制” 纪委：妄议中央</a>
+</h2>
+<p><p>原标题：党员能在微信朋友圈妄议中央大政方针吗？</p>
+<p>【条例原文】第四十六条：通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，有下列行为之一，情节较轻的，给予警告或者严重警告处分；情节较重的，给予撤销党内职务或者留党察看处分；情节严重的，给予开除党籍处分：</p>
+<p>……</p>
+<p>（二）妄议中央大政方针，破坏党的集中统一的；</p>
+<p>……</p>
+<p>吴某，东部某市公安局副局长，中共党员。一个周六的午后，在家休息的吴某闲来无事，便打开微信浏览朋友圈。其间，他看到一篇关于“一国两制”的文章，觉得“甚好”，便轻点手机屏幕进行分享，并罔顾“一国两制”政策出台的背景与实际，发表评论大肆抨击、公然否定。由于吴某社会关系广、朋友杂，其观点被广泛转发，造成恶劣影响。</p>
+<p>吴某只是在微信朋友圈转发了一篇文章，并配发评论，殊不知，看似不经意的举动，其实违反了政治纪律。山东省纪委案件审理室干部王静告诉记者，吴某不仅违反了，而且违反的是很重要的一条政治纪律——妄议中央大政方针。</p>
+<p>王静表示，妄议中央大政方针构成违纪的关键是妄议。“一国两制”是中央为了实现祖国和平统一而提出的基本国策，对解决历史遗留问题具有重要意义，并已经在解决香港、澳门问题中得到成功运用。吴某身为共产党员，不顾“一国两制”基本国策出台的历史背景和实践意义，大肆抨击、公然否定，显然属于妄议。</p>
+<p>另外，妄议中央大政方针构成违纪，形式是通过信息网络、广播或者座谈会等公开的，使不特定人或者特定多数人听到、看到的方式发表看法。吴某社会关系广、朋友杂，微信朋友圈并非仅有家人和少数经常交往的好友，不属于私人空间，而是具有相当的公开性。其通过微信朋友圈妄言妄语，被广泛转发，造成了恶劣影响，破坏了党的集中统一。</p>
+<p>值得注意的是，造成破坏党的集中统一的危害后果，是妄议中央大政方针构成违纪的必要条件。如果没有这样的严重后果，则不构成违纪，<strong>但可以结合监督执纪问责“四种形态”，给予批评教育或者相应的组织处理</strong>。</p>
+<p>王静提醒，“妄议中央大政方针，破坏党的集中统一”，是《中国共产党纪律处分条例》新增加的内容。<strong>党中央在制定重大方针政策时，已经充分发扬党内民主，听取了有关党组织和党员的意见建议。党员干部应自觉在思想上、行动上与中央保持高度一致，决不能“当面不说，背后乱说”、“会上不说，会后乱说”、“台上不说，台下乱说”；也不能心无敬畏，在网络世界里丧失政治立场，随心所欲、妄言妄语。</strong>否则，一不小心就可能触犯纪律底线，悔之莫及。（本报记者张磊）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/20151121094244_51177.png" rel="attachment wp-att-422076"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/20151121094244_51177.png" alt="总有刁民想害朕" width="495" height="261" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/20151121094244_51177-300x158.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/20151121094244_51177.png 495w" sizes="(max-width: 495px) 100vw, 495px"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/5068494387" target="_blank">宝船愛日出</a>：联想起央视某名嘴也是在朋友面前倒下的…………朋友<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/2207113340" target="_blank">杨扬扬1978</a><i title="微博达人"></i>：吃个饭饭碗没了，分享微信官帽没了！！我们活在新世纪，做着中国梦……<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>foDDYY：也就是说，即使看到国王没穿衣服，大臣们不能说，一直等到那个图样图森破的救世主出现？</p>
+<p>MississaugaRunner：语焉不详，他到底说了些什么？</p>
+<p>哲学作为爱和幸福：不守政治规矩。。。黑话连篇，本色尽显</p>
+<p>Tostoevsky：这是违反帮规了</p>
+<p>李之琳Vin：妄议的具体内容是什么，公布出来，全党共诛之。</p>
+<p>难与君说：一国两制开创了在一国国土内实行通关放行的新时尚。</p>
+<p>大青果药丸丸：退党保平安</p>
+<p>各种姿势高级黑：还好我他妈明智没入党。</p>
+<p>變了好多啊：以后电视剧里的“妄议朝政”这词估计又要被去除了</p>
+<p>埃文-Ivan：文化大革命又来了</p>
+<p>方遠遠遠：焚百家之言，以愚黔首</p>
+<p>名不徐传：清风不识字，何必乱翻书</p>
+<p>辣笔大马哥：不听话的狗绝对要打死,哈哈</p>
+<p>好奇的二把刀：经常有人妄议否定文革的中央决定</p>
+<p>招财钱钱：来个炮决就能赶上宇宙真理了</p>
+<p>Jason猕猴桃：这哪是党纪，根本就是国法，官员有几个不是党员</p>
+<p>yeeechen：所有热门点评全部都删了，再来一遍 “只能称赞，根本不敢议论啊，犯了“妄议”大罪如何得了啊”</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422074/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%B5%B5%E6%99%97%EF%BC%9A%E8%AF%B7%E5%88%A0%E5%B8%96%E5%91%98%E5%96%9D%E5%92%96%E5%95%A1/" target="cdt-mirror">匆匆1993｜赵晗：请删帖员喝咖啡</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2012/05/-e1365068766786.jpg" alt="删帖周末" width="262" height="241"><strong>“所以你们那里是可以翻墙的。”可以，不但可以翻墙，我们每个人入职的时候还要学习许多敏感事件。很多我之前都不知道。比如**事件（26年前春夏之交发生于北京），我们好多人都完全不知道，需要从头学起。单位就给我们放各种纪录片，包括《***》（此事发生的地点），我看完都震惊了。</strong></p>
@@ -576,86 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/" target="cdt-mirror">【立此存照】五毛召唤术：“pu志强”的魔力</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/">浦志强案</a>开庭后，新浪微博一夜之间冒出许多疑似来自机器人的相关评论。然而不知是否因<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/">操作有误</a>，微博用户@在下张耀之 发布的以下这则微博内出现了大量带有数字序号的相关评论；且浦案明明是择日宣判，这些带有序号的评论中却有不少诸如“判得好！”“支持法院的判决！”等“先知”的内容。</p>
-<blockquote><p>@在下张耀之：汪峰老师曾唱过，我爱你中国，亲爱的母亲，我为你流泪，也为你自豪。在pu志强受审的这一天，官方发布了对薄谷开来和刘志军的减刑公告。</p></blockquote>
-<p>于是有不少网民发现<strong>只要使用关键词“pu志强”，就能召唤出机器五毛评论</strong>。</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/space/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E8%AF%84%E8%AE%BA%E5%BA%93%E5%88%97%E8%A1%A8">浦志强案机器五毛评论库列表</a></p></blockquote>
-<p><strong>实验成功(!)：<em>（</em></strong><em>编者小贴士：试验前请确认已开放评论）<strong><br></strong></em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF1.jpg" rel="attachment wp-att-421771"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF1.jpg" alt="五毛召唤术1" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术1.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF2.jpg" rel="attachment wp-att-421772"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF2.jpg" alt="五毛召唤术2" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术2-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术2.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a></p>
-<p>不出所料，<strong>相同内容的微博可以很轻易地召唤出机器五毛</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF5.png" rel="attachment wp-att-421776"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF5.png" alt="五毛召唤术5" width="475" height="1222" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术5-398x1024.png 398w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术5.png 601w" sizes="(max-width: 475px) 100vw, 475px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF6.png" rel="attachment wp-att-421777"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF6.png" alt="五毛召唤术6" width="475" height="1216" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术6-400x1024.png 400w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术6.png 604w" sizes="(max-width: 475px) 100vw, 475px"></a></p>
-<p>宁可错杀三千，不可放过一个。这些自动评论其实<strong>在所有符合关键词的微博下都会出现</strong>，很显然是在新浪微博全站搜索后统一部署：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF4.png" rel="attachment wp-att-421775"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF4.png" alt="五毛召唤术4" width="475" height="1257" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术4-387x1024.png 387w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术4.png 604w" sizes="(max-width: 475px) 100vw, 475px"></a></p>
-<p>连5月8日的微博也不放过：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF3.png" rel="attachment wp-att-421773"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF3.png" alt="五毛召唤术3" width="475" height="1204" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术3-404x1024.png 404w, http://chinadigitaltimes.net/chinese/files/2015/12/五毛召唤术3.png 600w" sizes="(max-width: 475px) 100vw, 475px"></a></p>
-<p>类似的“机器五毛”乌龙在去年官媒报道浦志强被刑拘时也出现过，当时一名<a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%90%8C%E5%AD%A6%E8%BA%BA%E6%9E%AA/">与浦律同名的江苏大学学生不幸躺枪</a>。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9C%BA%E5%99%A8%E8%AF%84%E8%AE%BA3.jpg" rel="attachment wp-att-421795"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9C%BA%E5%99%A8%E8%AF%84%E8%AE%BA3.jpg" alt="机器评论3" width="400" height="712" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/机器评论3-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2015/12/机器评论3.jpg 690w" sizes="(max-width: 400px) 100vw, 400px"></a><br><em>（机器自动评论内容举例）</em></p>
-<p><strong>附：僵尸号举例</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B71.jpg" rel="attachment wp-att-421778"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B71.jpg" alt="僵尸号1" width="375" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号1-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号1.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B72.jpg" rel="attachment wp-att-421779"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B72.jpg" alt="僵尸号2" width="375" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号2-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号2.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B73.png" rel="attachment wp-att-421780"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B73.png" alt="僵尸号3" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3-300x137.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3-768x350.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3-1024x466.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号3.png 1388w" sizes="(max-width: 1388px) 100vw, 1388px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B74.png" rel="attachment wp-att-421782"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B74.png" alt="僵尸号4" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4-300x137.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4-768x351.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4-1024x469.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号4.png 1390w" sizes="(max-width: 1390px) 100vw, 1390px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B75.png" rel="attachment wp-att-421783"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%83%B5%E5%B0%B8%E5%8F%B75.png" alt="僵尸号5" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5-300x135.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5-768x345.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5-1024x460.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/僵尸号5.png 1391w" sizes="(max-width: 1391px) 100vw, 1391px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%8D%B3-%E4%B9%8C%E9%95%87%E5%B0%81%E4%BA%86/" target="cdt-mirror">德国之声｜世界互联网大会在即 乌镇”封了”</a>
-</h2>
-<p><p>中国举办的第二届世界互联网大会将在乌镇举行。为迎接习近平的到来，乌镇及周边地区的安保措施全面”升级”，甚至比去年还要严格。车辆停运、旅店停业，小镇进入全员”备战”状态。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300.jpg" rel="attachment wp-att-421761"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300.jpg" alt="0,,18241077_303,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/018241077_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
-<p>（德国之声中文网）乌镇一家客栈的老板对港媒记者表示，由于世界互联网大会的召开，客栈被迫”关门”一周。</p>
-<p>多家客栈住满了警卫和安保。镇上的居民说，进出景区别说是普通游客，就连邮寄包裹都被禁止了。</p>
-<p>景区内多数商店和旅店是私人生意。他们被当局告知暂停营业，禁令将持续到周五会议结束。</p>
-<p>一家咖啡店工作人员告诉港媒记者，”如果没有登记和检查，生活在镇上的居民也禁止进入景区”，”有很多武警和直升机在附近巡逻。”</p>
-<p>中国当局为举办国际会议进行全面”封闭”的举动并不是头一遭，尤其是为迎接国家政要的到场。</p>
-<p>有乌镇居民对《南华早报》记者表示，乌镇甚至比去年的安保级别还要严格。</p>
-<p>国家媒体报道，巴基斯坦总统侯赛因、俄罗斯总理梅德韦杰夫等7国领导人和来自世界120多个国家的2000多名嘉宾将与会。中国国家主席习近平将在大会上发表主旨演讲。</p>
-<p>预计，世界互联网几大企业：阿里巴巴、腾迅、百度三大互联网公司的创始人，苹果、亚马逊、谷歌、Facebook、中兴和华为的高层计划参加乌镇的会议。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100.jpg" rel="attachment wp-att-421760"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100.jpg" alt="0,,18073188_401,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/018073188_40100.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a><br>
-2014年11月19日首届世界互联网大会</p>
-<p><b>寻求谨慎的合作？</b></p>
-<p>海外互联网企业和科技公司希望借助大会寻求同中国的合作，但鉴于中国互联网受到当局封锁、审查和限制的情况，均持谨慎态度。</p>
-<p>将于12月16日至18日举办的第二届互联网大会的主题是”互联互通，共享共治，共建网络空间命运共同体”。但总部在法国的”记者无疆界”组织认为，中国当局恰恰违背了网络共享的原则。</p>
-<p>美国自由亚洲电台引述该组织亚太办公室负责人本杰明·伊思迈尔（Benjamin Ismail)的话称，中国政府严密监控互联网用户得到的信息，系统性地封锁让中共感到难堪的任何批评和信息透露。</p>
-<p>去年11月，乌镇举办了第一届世界互联网大会。大会是由中国国家互联网主办，计划每年举办一次。首届大会上，中方提出”尊重各国网络主权，广泛传播正能量”等倡议。当时不少民众在网上嘲讽拥有最严密防火墙的中国召开互联网大会的举动。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%8D%B3-%E4%B9%8C%E9%95%87%E5%B0%81%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%86%AC%E5%A4%A9%E9%87%8C%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%92%8C%E9%83%AD%E5%B9%BF%E6%98%8C/" target="cdt-mirror">德国之声｜德语媒体：冬天里浦志强和郭广昌</a>
-</h2>
-<p><p>中国距离法治国家越来越远，这是部分德国媒体对浦志强案开审的评价。同时，另外一位非法治国家体制下的中国富商的命运，也依然是德国媒体关注的目标。</p>
-<p>德国《明镜在线》发表评论文章关注中国著名维权律师浦志强被控“寻衅滋事”和“煽动民族仇恨”一案，指出：“今年的中国陷得很深。针对浦律师的法律诉讼表明，公民权利和人权彻底变得不再重要。”作者呼吁：“柏林对此必须有所表态。”</p>
-<p>“越来越糟”</p>
-<p>这篇题为“公民权在中国：越来越糟”（Bürgerrecht in China：Es wird schlimmer）的文章在开头描述了本周一（12月14日）北京第二中级人民法院前，各路赶来报道浦志强案庭审情况的记者以及美国外交使节和中国便衣警察发生肢体摩擦，有记者被推倒在地的情景。</p>
-<p>作者指出：“周一发生在法庭外的这一幕简单扼要地总结了，中国在这一年中深陷到何种地步。也让人能感受到，这个冬天会有多长，有多冷。这个人权和公民权的冬天。”</p>
-<p>作者随后从自身的角度介绍了浦志强案的背景：“周一法庭上的这个人是浦志强律师。他曾经为老百姓，为像艾未未这样的名人以及中国的少数民族辩护。而且他还不断地在互联网上对自己的工作加以评论。如今，正是因为这些评论，他需要面对法庭的审判。针对他的指控是‘寻衅滋事’以及‘煽动民族仇恨’。法庭将于一两周内作出判决，可能最多判处他八年徒刑。没有人认为他会被无罪释放。”</p>
-<p>文章随后写道：“仅今年一年就有超过300名维权律师被警察带走，面对审讯和刁难。他们当中的二十几个人仍被拘留。中国的司法机关在庭审开始之前，喜欢长时间地扣留在押人员。”</p>
-<p>作者指出：“中国的领导人从大约一年前开始表示这个国家正在向宪政和法治国家转变。国家主席习近平说，国家的权力必须被关入‘制度的笼子里’。如今的事实是，1989年镇压天安门示威以来，中国政府从来没有像2015年这样与维护法律及宪法距离遥远。今年夏天，党颁布了一部法律，让从管理互联网到非政府组织以及所有生活领域的活动都成为涉及’国家安全’的事物。而且就在一周前的国际宪法日，审查机关让一本勉强肯定中国正转变成宪政国家的作品从书架上消失。”</p>
-<p>“中国的司法在很多案件上违法了法治国家最基本的原则，这已经不是什么让人惊讶的事情了。但2015年的教训是：情况越来越糟……与北京展开‘法治对话’的德国政府应该考虑取消2016年的对话。如此一来，这会成为一种公开的表态，是中国在欧洲最强伙伴对打压律师和维权人士的批判–表明柏林也会为浦志强这样的人挺身而出。”</p>
-<p>浦志强的当事人包括艾未未</p>
-<p>“不仅仅是中国内政”</p>
-<p>周二出版的《南德意志报》则关注了非法治国家体系下，中国另外一位名人的命运。此人就是不久前“失联”，后又“协助司法机关调查”的中国富商郭广昌。</p>
-<p>作者认为：“无可厚非的是：有关这位复星集团总裁的一系列匪夷所思的事情早已不仅仅是中国内政。它们也让一大批欧洲企业揪心。因为复星集团几年来一直致力于在中国境外投资……在德国，郭广昌今年夏天宣布收购两家私人银行多数股权的消息引起了广泛关注。这两家银行分别是：BHF银行（BHF Bank）和Hauck Aufhäuser私人银行。他的目标是，让中国的投资者更加了解德国的中型企业，反过来让德国的投资者更加接近中国的资本市场。”</p>
-<p>到现在为止，仍不知道郭广昌“协助”的“调查”，是针对他自己，还是针对其他人？</p>
-<p>作者随后介绍了复星集团在收购BHF银行时所遇到的困难。指出：“收购Hauck Aufhäuser的情况要好得多。这家银行的70位家族股东已经承诺卖出手中的股份。中国人开出了2亿1千万欧元的价格。业内人士认为这是非常大方的开价。那些老股东们都很高兴终于有人愿意接受这家陷入危机数年的银行。但如今针对郭广昌的调查有可能让股权出售变得更加复杂，因为德国的银行监管机构还必须予以批准。对于一位想要在德国的银行市场立足的投资人来说，身陷腐败调查可没有什么正面的广告效应。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%86%AC%E5%A4%A9%E9%87%8C%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%92%8C%E9%83%AD%E5%B9%BF%E6%98%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -667,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -677,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

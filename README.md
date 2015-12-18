@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-12/" target="cdt-mirror">马云称中国互联网管制“管出了BAT”和“无数创新” 自比邓小平</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2013/07/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E9%A9%AC%E4%BA%91%E7%82%B9%E8%B5%9E.jpg" rel="attachment wp-att-304854"><img src="http://chinadigitaltimes.net/chinese/files/2013/07/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E9%A9%AC%E4%BA%91%E7%82%B9%E8%B5%9E.jpg" alt="变态辣椒：马云点赞" width="450" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2013/07/变态辣椒：马云点赞-300x229.jpg 300w, http://chinadigitaltimes.net/chinese/files/2013/07/变态辣椒：马云点赞.jpg 450w" sizes="(max-width: 450px) 100vw, 450px"></a><p>“马云点赞” by 变态辣椒</p></div>
+<blockquote><p>相关阅读：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91%E5%85%AD%E5%9B%9B%E8%A8%80%E8%AE%BA/">马云六四言论</a>专题<strong><br></strong></p></blockquote>
+<p><strong><a href="http://companies.caixin.com/2015-12-18/100890197.html">财新网｜马云演讲实录</a></strong></p>
+<blockquote><p>今天全球有32亿的互联网用户，其中15亿人是出生于1980年以后，互联网已经深刻影响着世界，光在中国已经有近千亿人使用互联网，如果不对互联网的未来发展进行系统的治理，相信这是对全人类的挑战，当然不是每个人都喜欢被管理，或者绝大多数的人都不是希望被管理。美国有一些自由思想认为，互联网不需要管，该怎么样就怎么样，但是政府总是喜欢管的，但是事实上我觉得出了问题，大家觉得再管已经晚了，毕竟今天20年以前我们不知道怎么管，但是20年以后我们必须要有一种<strong>治理</strong>的思考。互联网的特性就像乌镇的水一样，水是无处不达必须互相连通，水是清澈透明，水又必须是公共的，所以水不是谁能管好，而是要共同致力，各个国家，各个民族，各个文化的不同，治理的方法确实不同，<strong>我在海外有不少人讲，中国的互联网是不是管得太紧，但是我自己这么认为，不管怎么样，这个国家管出了七亿互联网用户，管出了BAT，管出了无数的创新，还是有很多东西值得我们学习和反思的。就像阿里巴巴一样，以前我特反对管，但是今天出现了假货，欺诈，人家说你管理不严，所以还是需要管理</strong>。第二，我们正在进入IT向DT时代的转型，IT和DT巨大的差异在于思想上的差异，重要的差异是成功者必须是利他思想。只有让你的员工，让你的客户，让你的合作伙伴比你更强大，只有让你的竞争对手比你更强大，社会才会进步，你才有可能成功。互联网已经把大家，把人类变成了共同体，在这里面，你中有我，我中有你，并不是你消灭我，我消灭他的情况，互联网的技术正在发生天翻地覆的变化，技术也未必是好的，技术也会带来很多麻烦。<br>
+[…]<br><strong>技术和思想的变革一定会引来各种各样的不满和混乱，今天我在中国也一样，有人说卖假货的马云，有人说是颠覆的马云，破坏者的马云，我并不在乎，跟30年前改革家受到的压力和指责，跟现在反腐倡廉所受到的阻力和指责，我们这些算什么</strong>？但是我们今天必须要明白一个问题，社会的进步是谁也阻挡不了的，大家说制造业不行，制造业从来就没有不行过，苹果很好，特斯拉也很好，有人说实体不行，实体其实也不错，今天大家说零售行业被电子商务冲击了，但是大家记住没有，20年以前，今天的零售行业冲垮了零售小贩，冲垮了国有体系，但是当时他们引领了未来，创造了需求，引领了需求，发现了需求。今天的电子商务，今天的年轻人用互联网的技术发现了需求，创造了需求，今天更诞生出无数的新实体，在我们看到别人这个不对、那个不对的时候，我建议大家多思考一下自己问题。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong></p>
+<p>八大山债人：我就是互联网的小平？</p>
+<p><a href="http://weibo.com/3177037815" target="_blank">SpeedAuto-Alen</a><i title="微博个人认证 "></i>：哇，拿邓来比喻，这是在暗示什么吗？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/wwww0" target="_blank">-0寂寞鞦韆0-</a>：这倒是大实话。把当年的练摊、炒更活儿都搬到了网上。马云倒是成了首富，却没有造就任何一个商品名牌，反而是越来越多的品牌正在死去。这就是马云。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/3473053810" target="_blank">夏天真的在海边</a>：可是你还是卖假货了啊<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2395841793" target="_blank">PPP人生</a>：口才真好。卖个假货还能将自己拔高到总设计师的高度<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p>奇怪的笔记：卖假货能和改革开放反腐倡廉相提并论，真能给自己贴金。</p>
+<p>大壞蛋啪啪：这马屁拍的，PERFECT！</p>
+<p>蛋疼客：最近小马说话太多了，不是好兆头。</p>
+<p>唭哩咵啦：你其他可以不在乎，卖假货也装傻充愣就无耻了</p>
+<p>肥西县令：哈哈，真会找榜样，腐败的范围广，是不是假货也一样</p>
+<p>佳人信言：西方国家管的是黑客，隐私等，而我国管的是政治，异见分子。永远不在一频道上。</p>
+<p>Helm：还管出了13亿被洗过脑的国民呢</p>
+<p>用户5796868810：我觉得马云应该给奥巴马支招，趁民主党大权在握赶紧修宪，把民主党执政权写入宪法，成立民主党报党校，发布规定不准妄议和对民主党说三道四，成立国内局域网，设立敏感词，设立颠覆民主党罪，如此，安稳～</p>
+<p>MrBigEyes：这是个强盗无需面具，流氓言论被视作圣经的年代。</p>
+<p>炮轟鳥窩：所有魔幻现实主义的作品都值得我们去尊重！黄奇帆第二。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-12/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85/?category=18271" rel="tag">既得利益者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%9C%80%E8%A6%81%E7%AE%A1%E7%9A%84/?category=18271" rel="tag">中国人需要管的</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%B8%9A%E8%A1%B0%E8%90%BD-%E5%A4%A7%E5%B9%85%E8%A3%81%E5%91%98%E5%8A%A0%E5%89%A7%E7%A4%BE%E4%BC%9A%E5%8A%A8/" target="cdt-mirror">纽约时报 | 中国煤矿工业衰落 大幅裁员加剧社会动荡隐忧</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/xxhegang01-articleLarge.jpg" alt="兴山煤矿的两名工人。该矿隶属于黑龙江省鹤岗龙煤集团。9月，作为东北最大的煤炭公司，龙煤宣布计划裁员10万人。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/xxhegang01-articleLarge-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/xxhegang01-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>兴山煤矿的两名工人。该矿隶属于黑龙江省鹤岗龙煤集团。9月，作为东北最大的煤炭公司，龙煤宣布计划裁员10万人。</p></div>
@@ -637,29 +668,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%87%A1%E7%BB%99%E9%92%B1%E4%B9%8B%E9%81%93%EF%BC%8C%E4%B8%8E%E6%97%B6%E6%9C%BA%E5%81%95%E8%A1%8C/" target="cdt-mirror">【习总日记】 凡给钱之道，与时机偕行</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，12，16 ）</p>
-<p>12月16日至18日，以“互联互通、共享共治，共建网络空间命运共同体”为主题的第二届世界互联网大会在浙江省乌镇举行。今天上午10时30分，第二届世界互联网大会在浙江乌镇开幕。我出席开幕式并<a href="http://news.sohu.com/20151216/n431530471.shtml">发表主旨演讲</a>。</p>
-<p>我在演讲中首先说，尊敬的巴拉巴拉，欢迎各位嘉宾来到美丽的乌镇，共商世界互联网发展大计。然后回忆过去。 我说我曾经在浙江工作多年，多次来过乌镇，很喜欢这个地方。接下来显摆。第二次乌镇改造时，我在这里帮助他们策划，支持他们古建保护、旅游开发。今天再次来到这里，感到亲切熟悉，感到耳目一新，毕竟我多年没有来了，感觉对这里还是刮目相看了。</p>
-<p>为何中国继上次举办世界互联网大会后再次举办？因为我们有钱。中国有一句俗话说得好，有钱能办世界大会。凡是世界性的大会，都可以到中国来举办。我们出钱买名誉，提高中国的知名度和国际威望。就好比企业花钱做广告，道理是一样的。自从我当上总书记开始全世界撒钱，中国的国际地位从九十多一下子上升到第二位。不信你们可以去街上打听。</p>
-<p>今天我演讲的题目是，凡给钱之道，与时机偕行。这是什么意思呢，估计很多人弄不明白。那我就花点小时间帮你们整明白。</p>
-<p>凡给钱之道的意思是，即便是送钱，你也必须有合理和适合方式方法，冒冒失失给钱而讲不出道理来，人家不会收。即使是收了，人家也不会说你好。给钱也是需要智慧的。中国几千年来估计就出这么一个。中国的慈禧太后“赠友邦”说，和毛主席的支援世界革命，都是给钱的大师，是那方面的实践者开拓者和理论家。</p>
-<p>与时机偕行的意思是，要看准时机。什么是好时机？就是我有钱而你正需要钱。人家若正处在不需要钱的历史阶段，还有我们自己正好没钱穷光蛋一个的时候，都不是送钱的好时机。送钱的原则是，要雪中送炭，而不要锦上添花。今天的中国正处于钱多得无处花的历史时期，而外国刚巧陷于无钱困境里。就这样买卖做成了。</p>
-<p>有时候我主动送上门去，像是照顾孤寡老人。有时他们来取，好像中国北京就是他们的银行金库。</p>
-<p>去年，<a href="https://chinadigitaltimes.net/chinese/2014/12/%E6%B3%A1%E6%B3%A1%E7%BD%91%EF%BD%9C%E8%B4%9D%E5%B8%A6%E5%8A%B2%EF%BC%9A%E4%B9%8C%E9%95%87%E5%AE%A3%E8%A8%80-%E4%B8%80%E4%B8%AA%E8%A2%AB%E9%81%97%E6%BC%8F%E4%BA%86%E7%9A%84%E7%AC%91/" target="_blank">首届世界互联网大会</a>在这里举办，推动了网络创客、网上医院、智慧旅游这些新的业态快速发展，让这个粉墙黛瓦的千年古镇焕发出新的魅力。乌镇的网络化、智慧化，和世界大会期间暂时免于屏蔽化，是传统和现代、人文和科技融合发展的生动写照，是<a href="http://chinadigitaltimes.net/space/%E4%B9%8C%E9%95%87%E7%BD%91" target="_blank">中国互联网创新发展</a>的一个缩影，也生动体现了全球互联网共享发展的理念。</p>
-<p>各位嘉宾、各位朋友！“凡给钱之道，与时机偕行。”互联网虽然是无形的，但运用互联网的人们都是有形的，互联网是人类的共同家园。让这个家园更美丽、更干净、更安全，是国际社会的共同责任。这就是我国政府不让老百姓<a href="http://chinadigitaltimes.net/space/%E7%BF%BB%E5%A2%99">翻墙</a>的基本理由。一旦开放，<a href="https://chinadigitaltimes.net/chinese/2015/12/420891/" target="_blank">外国一些污七八糟的东西</a>就会腐蚀我们的青少年，和青少年的父母们，会弄脏我们的美好心灵。</p>
-<p>让我们携起手来，共同推动互联网空间互联互通、共享共治，为开创人类发展更加美好的未来助力！ </p>
-<p>最后，预祝大会取得圆满成功！ 谢谢大家。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%87%A1%E7%BB%99%E9%92%B1%E4%B9%8B%E9%81%93%EF%BC%8C%E4%B8%8E%E6%97%B6%E6%9C%BA%E5%81%95%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -671,7 +679,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -681,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

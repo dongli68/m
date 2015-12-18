@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422146/" target="cdt-mirror">PsyEyes｜唐映红：“中国模式”为什么会“成功”？（上）</a>
+</h2>
+<p><p>Q&A151217</p>
+<p><strong>问：“中国模式”为什么会“成功”？（上）</strong></p>
+<p>答：人类社会一直以来就有两种不同的组织和结构方式，一种是自下而上的，由个体以<strong>契约</strong>的方式而形成公权力以及行使公权力的机构；另一种是自上而下的，由掌握资源的少数以<strong>暴力</strong>的方式来形成公权力以及行使公权力的机构。如果抛开价值判断，<strong>这两种不同的社会机制其运转各有其心理学的基础</strong>。</p>
+<p><strong>契约社会维系的心理学基础是个体的认同</strong>。每个人或者大多数人认同所谓共同契约而形成某种形式的共同体。<strong>这种共同体就是“社会”。</strong>最少的共同体是两个人构成的群体，如婚姻；最大的共同体则是一个国家，它最多可以有数亿人。</p>
+<p>非契约社会缺乏个体自觉的认同作为基础，那么它必须要通过其他的方式来形成认同或者认同的替代品。比如，恐惧。<strong>传统的非契约社会是依靠暴力来维系共同体，通过暴力来控制成员的权利使其不得不顺从。非契约社会本质上是以顺从作为维系的基础。</strong></p>
+<p>从心理学角度，<strong>“认同</strong>”和“<strong>顺从</strong>”是两种不同的心理因素。不考虑这两种心理因素的价值判断，它们各有其优劣。<strong>依靠“认同”而构建的社会不用控制成员的权利</strong>，<strong>每个个体都能像马克思在《共产党宣言》中所说的那样“自由发展”；但大多数人的“认同”或共识一旦改变，公权力就必须重新组织和分配。</strong>当然，现代民主制度保障了契约社会<strong>有序地进行重新组织和分配</strong>。而<strong>依靠“顺从”而建立的社会就必须严厉地控制成员的权利，任何自由的东西都可能造成对“顺从”的抵触，所以必须严加控制。</strong>如果大多数人不“顺从”了，公权力机构为维护权威就必须<strong>加大控制的力度</strong>；一旦控制不住，就可能会以<strong>灾难性的破坏方式来重新组织和分配</strong>。</p>
+<p><strong>无论从政治学、经济学，还是社会学角度，中国的发展路径和国家、市场以及社会的组织方式都有别于以西方为代表的大多数其他国家。</strong>例如，按照西方经济学的理论来预测，中国的经济早就应该危机四伏，濒临崩溃，事实上却是欧、美经济前些年陆续陷入危机，中国经济反而<strong>看起来很美</strong>。传统的西方经济学理论无法合理地解释这个现象，只能把中国的经济称为“<strong>中国模式</strong>”，区别于西方社会的经济运行和发展，也有待经济学家来分析研究。再比如，从社会学和政治学角度，中国20多年前面临过大多数人拒绝“顺从”的危机，东欧、前苏联面临同样危机时都导致了国家和社会的解体、重组，而中国不仅没有出现同样的结果，反而从表面上看<strong>发展得越来越有自信</strong>。</p>
+<p>当然，“中国模式”是一个十分宏大的话题，要把维持“中国模式”的心理学基础讨论清楚，不是一、两篇问答所能完成的任务。今明两天只能浅略地稍微谈谈<strong>“中国模式”的心理学基础的几个关键点。</strong></p>
+<p>虽然两类不同的国家和社会组织模式维持的心理学基础不同，一为<strong>认同</strong>，二为<strong>顺从</strong>。但从心理学角度，<strong>认同和顺从是可以互相转化的。</strong>中国社会是建立在“<strong>顺从</strong>”基础上的，因为<strong>成员并没有一个表达“同意”并授权给公权力的过程</strong>；一旦公权力形成，成员是不能公开表示反对的。这跟诸如美国这样的社会不同，他们是建立在“契约”基础上的，无论谁掌握公权力，都必须有成员投票并授权的过程，总统如是，议员也如是；你不赞同大多数人授权结果，也可以公开表示反对。</p>
+<p>尽管人类的认同和顺从是两种不同的心理因素，但也并不是泾渭分明。<strong>认同的后果往往就是顺从</strong>，契约社会里，民众授权议会立法，议会立税法，政府来行使权力收税，民众就只能顺从。如果有民众很“认同”收税，那当然值得赞誉（像巴菲特那样，嚷嚷着“向我征税”），毕竟大多数民众哪怕你不情愿，也得纳税。这就是“顺从”。反过来，<strong>顺从的后果往往也就是认同</strong>。非契约社会里，哪怕你不情愿，少数人攫取了公权力并且凌驾于你之上，从认知失调理论的角度，<strong>你既然无力反抗，最大的可能就是改变态度，变得“认同”。</strong></p>
+<p>例如，多起跨文化的社会调查都反映出，<strong>中国民众对政府的认可和满意程度都相当高，甚至比大多数西方社会都高。</strong>（<em>可参考Q&A151209《社会调查发现中国民众不需要西式民主，结论可靠吗？》，点击“阅读原文”可直接跳转阅读。</em>）之所以会出现这样的结果，一方面固然反映了民众对权力集团的“<strong>认同</strong>”，但另一方面<strong>这种“认同”与契约社会的认同却有着云泥之别。</strong>由于具体的社会情境不同，两者事实上是不能简单对比的。举个例子，你能够在女邻居背后大肆地吐槽，对她品头论足；但当着她的面你还会这样评价吗？其间的差异就是情境不同。我们每个人的满意度往往是建立在社会比较基础上的，你只要比周围的其他人好，你就会觉得满意。在契约社会里面，因为资讯是自由传播的，民众对政府的任何瑕疵都了如指掌，所以满意度不会很高；而<strong>非契约社会里资讯的传播往往被控制、过滤，民众很难获取政府运作的真相，被获准传播的主旋律往往是文饰过的假象，民众当然很容易形成对政府的好印象。</strong></p>
+<p>不仅如此，契约社会里成员的社会认同是建立在自由选择的基础上；而<strong>非契约社会里的成员的社会认同却不能自由选择。</strong>对一个生活在不能自由选择的社会里的成员，他如果同时又对自身所处的状况不满意，这会令他感到<strong>失调，带来冲突感和焦虑感。</strong>为缓解焦虑，改变失调的状况，他最便捷的方式就是<strong>改变态度，认同所处的情境。</strong>而且，从管理心理学角度，人们对一个组织的<strong>满意和不满意其实是两回事</strong>，不能简单地认为满意度高不满意度就必然低，<strong>满意度高的同时也可能不满意度同样高，甚至更高。</strong></p>
+<p>一般来说，在传统的非契约社会里，随着资讯传播的越来越开放，民众获得的讯息也越来越多，往往会激发对权力集团越来越多的质疑。但“中国模式”相比于传统非契约社会在这点上却有所不同。表面上看，<strong>现时代民众获得的资讯远远超过10年前、20年前，但民众对政府的“认可”看起来却似乎越来越强烈，而不是相反。</strong>传统的非契约社会，无论是纳粹时期的德国、前苏联、现在的朝鲜，以及1978年之前的大陆中国，或者民国前的王朝中国，对资讯采用的方式都是<strong>从源头严格管制，禁止未被允许的资讯出现。</strong>例如，“焚书”是传统非契约社会的标识之一。但1992年之后，更准确地说是1998年之后，<strong>“中国模式”不再尝试从源头控制资讯，而是从公共传播的渠道进行钳制。</strong>随着互联网的发展，传统的资讯管制手段已经失效；而经济和市场的开放也必须要有限开放资讯，但伴随着经济和市场资讯传播的也必然夹杂着令公权力机构不悦的其他资讯。因此，<strong>近二十年来，“中国模式”探索，起码从表象上看成功地建立了一套对公共传播的渠道进行钳制的办法。</strong></p>
+<p>比如，<strong>将政府审查有效地转变成了全民审查。</strong>一方面，<strong>政府加大对资讯传播机构的压力和处罚力度，促使其履行严格的审查措施；普通网民或作者反而不会直接感受到来自公权力机构的直接压力。</strong>例如，对提供互联网空间的ISP商的政策是，只要租用其空间的任意网站有违规，整个机房就可能面临查封。要知道，一台服务器可能有数百甚至上千的小网站；而一个机房则有数十甚至上百台服务器托管。这种将审查压力下放到资讯传播机构的做法很有效，当“<strong>台独</strong>”被作为禁止谈论的敏感词时，“转让一<strong>台独</strong>立服务器”的无害讯息就可能导致整个网站，甚至服务器被查封。<strong>正是因为站方的审查压力，普通网民在发表言论时，就转化成网民的自我审查。</strong>对一个网文作者而言，他自己心中已经形成了一个自我审查的标准，哪些话题必须绕开不谈；哪些词必须避免应用或者转化后运用。所以，<strong>所谓的知识人阶层已经习惯了通过曲折、隐晦的方式来表达诉求或观点，反而对那些直抒心意的表达感到不适和不安。</strong></p>
+<p>从心理学角度，<strong>“中国模式”把政府审查转变为全民审查，反而取得了更好的效果。</strong>政府审查对个体而言那是一种被迫的压力。当我们被迫做某些事的时候，“被迫”就是我们做违心的事的正当理由，所以我们的态度无须转变。但<strong>自我审查的时候，个体就未必感受到被迫的压力，这时他们的态度就可能发生转变，认同审查的逻辑。</strong>所以，在中国互联网常常能观察到网民的抱怨，不是针对审查的抱怨，而是<strong>对那些违反审查的其他人的抱怨甚至指责、诋毁。</strong></p>
+<p>自我审查的效果包含了多种复杂的心理因素。其一是<strong>习得性无助</strong>。当你试图表达的资讯处处受到扼制，精心写作的文字却被删除，多次之后，你可能就放弃努力来摆脱审查。比如，早些年，你可能会测试到底哪个敏感词导致文字不能发表；后来你就放弃这种尝试；再后来你可能就不再去写这样的文字；最后你可能<strong>连思考也放弃了</strong>。<strong>当大多数人都认为不可能改变处境时，他们就要千方百计为处境辩护，使其合理化</strong>；<strong>即使什么时候可能通过努力可以改变处境时，他们已经习得性无助，不相信努力了。</strong>其二是<strong>认知启动效应</strong>。当你多次尝试突破都失败后，你可能就形成了自动的认知启动效应，只<strong>要一涉及到敏感的话题，你脑子就本能地激活了“这是不应该谈论”的念头</strong>。你谈自由被禁止，你再谈再被禁止，多次之后，别人一谈自由你就反应“<strong>应该被禁止</strong>”。</p>
+<p><strong>一旦将习得性无助和认知启动效应合理化以后，个体将认同不合理的压迫；他们甚至会倾向于认为那些一直不认同的其他人是“咎由自取”。</strong>特别地，当这种合理化后的认同与其他的既得利益结合在一起之，就会形成所谓的“<strong>合法性神话</strong>”（legitimizing myths)。<strong>他们不仅会为自己认同不合理的压迫合理化，而且还会为不合理的压迫本身辩护，认为就应当这样。</strong>也就是说，他们<strong>从受压迫者转变为压迫的维护者。</strong>尽管非契约社会都会出现类似的现象，但“中国模式”显然<strong>更加典型和普遍地使这种现象成为维系“中国模式”的重要心理学基础之一。</strong></p>
+<p>（明天继续谈通过普遍的既得利益来强化成员的认同感；以及通过扼制大众传播“结点”来阻止资讯的流通是“中国模式”得以维持和发展的另两条很重要的心理学基础。）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" rel="attachment wp-att-416940"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="350" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes-298x300.png 298w, http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png 427w" sizes="(max-width: 427px) 100vw, 427px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422146/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-12/" target="cdt-mirror">马云称中国互联网管制“管出了BAT”和“无数创新” 自比邓小平</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2013/07/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E9%A9%AC%E4%BA%91%E7%82%B9%E8%B5%9E.jpg" rel="attachment wp-att-304854"><img src="http://chinadigitaltimes.net/chinese/files/2013/07/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E9%A9%AC%E4%BA%91%E7%82%B9%E8%B5%9E.jpg" alt="变态辣椒：马云点赞" width="450" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2013/07/变态辣椒：马云点赞-300x229.jpg 300w, http://chinadigitaltimes.net/chinese/files/2013/07/变态辣椒：马云点赞.jpg 450w" sizes="(max-width: 450px) 100vw, 450px"></a><p>“马云点赞” by 变态辣椒</p></div>
@@ -602,72 +631,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8D%89%E6%A6%B4%E7%A4%BE%E5%8D%80%EF%BD%9C%E4%B8%AD%E5%9C%8B%E6%B3%95%E5%88%B6%E5%BB%BA%E8%A8%AD%E7%9A%84%E8%AC%8A%E8%A8%80%E5%8F%8A%E6%82%B2%E5%93%80-%E7%B4%80%E5%BF%B5%E6%B5%A6%E5%BF%97/" target="cdt-mirror">草榴社區｜中國法制建設的謊言及悲哀–紀念浦志強案開庭</a>
-</h2>
-<p><p>詞二首</p>
-<p>虞美人</p>
-<p>官官相護何時了<br>
-冤案知多少<br>
-月黑高飛捕律師<br>
-官吏觥籌交錯裝不知</p>
-<p>世間正義應猶在<br>
-不畏強權礙<br>
-問君共匪幾時休<br>
-恰似癌瘤雖死未能瘳</p>
-<p>江城子</p>
-<p>雙眼迷濛霧茫茫<br>
-吸毒量<br>
-斗難量<br>
-空氣數據<br>
-欲蓋卻彌彰<br>
-縱使相逢應不識<br>
-百米遙<br>
-若蒙霜</p>
-<p>夜來幽夢忽還鄉<br>
-清池塘<br>
-精神爽<br>
-睜眼無奈<br>
-唯有霾莽莽<br>
-料得年年咳嗽時<br>
-塵滿面<br>
-肺千瘡</p>
-<p>昨天發的這兩首 詞 主要是爲了今天的文章的。而很不幸，結果就如我預想中的一樣。</p>
-<p>其實我每次發的帖子也都是一次小小的調查。然而每一次的調查結果其實都是很悲催的。結果最後再討論，先容介紹一下今天的主角，浦志強律師，主要介紹一下他的主要貢獻。</p>
-<p>一、八九學運<br>
-1989年5月13日13时，中国政法大学首批绝食同学。浦志强回忆：“1989年6月3日我在广场，算是许个愿吧，如果可以活着出去，以后每年都要回来看看。”7自1989年起，每年6月3日，浦志强都亲自到天安门广场，每年亲自给失去孩子的天安门母亲丁子霖教授打电话<br>
-二、实名举报周永康<br>
-這個大家應該很清楚了，不摘錄了。<br>
-三、律師維權(部分)<br>
-2013年- 温州于其一双规期间被刑讯逼供致死案。<br>
-2013年-与张雪忠、斯伟江、杨金柱、杨学林、周泽、张培鸿等律师一同参与刘萍、魏忠平、李思华新余三公民案件。<br>
-2013年-唐慧劳教案<br>
-2011年-艾未未税务案件<br>
-2011年-任建宇劳教案<br>
-2009年-谭作人案<br>
-2008年-河南沁阳八村民检举党书记，遭控诽谤案<br>
-2005年-原南方都市报总经理喻华峰向最高法院上诉案<br>
-2004年-爱新觉罗·启笛诉中央人民广播电台案<br>
-2004年-张西德诉《中国农民调查》作者陈桂棣和吴春桃夫妇案<br>
-2004年-李晓华诉《21世纪经济报道》案<br>
-2003年-广州华侨房屋开发公司诉《中国改革》杂志社案<br>
-2001年- 方竹笋劳教案</p>
-<p>總之，他积极主张废除劳动教养制度、妥善解决六四事件。常代理维权辩护案件，案件以涉及公民权利为多。浦志强曾经因参与调查多起案件而数次遭到中国警方逮捕，例如著名的谭作人案、艾未未案。他于2013年2月6日公开实名举报前中共中央政治局常委周永康，要求中共高层清算周及其在任时的政法委系统十年维稳的问题，并建立法治社会和宪政体制。</p>
-<p>因爲他今天要開庭受審，所以我昨天寫了那帖子想紀念一下。文章標題爲 詞二首。 起這個名字主要是想看看到底還有多少人對古典文化有興趣。很不幸，從發貼截止到現在的32小時間，只有可憐的24個回覆。那麼更爲不幸的是，這24個回覆裏可能只有3個知道我在寫什麼，但是沒有1個明確提到浦志強律師。其實我個人覺得上的來草榴的羣體，不論是文化的平均水平還是政治覺悟的平均水平應該是高於國內均值的，我想這一點大家都應該沒有什麼異議吧。可是結果確是如此悲慟。</p>
-<p>我爲什麼要寫浦志強律師呢？當然是因爲他這個事件很重要。那他這個事件重要的什麼程度呢？之前寫了自由對於民主非常重要的意義。那麼法制就是自由的另一個方向，它對民主也是一樣重要的意義。如果一個人關心民主，卻不關心自由和法制，那還真難以被稱作民主人士。在我們國土上，自由的淪陷已經沒什麼好說的了。可是最近老是再喊的什麼法制建設的聲浪似乎一浪高於一浪，可是從一開始我就已經闡明，土共現行的統治模式是不可能跟法制相兼容的，浦志強律師的這個案件的開庭有着其重要的意義就在於印證了我之前表述過的觀點，土共宣傳的法制建設只能淪爲其專制的傀儡。在一個專制的社會，自由與法制必定導致專制走向其終點。這是土共非常不願意看到的。但是土共看到我的這篇文章卻會非常開心，因爲他可以從我這篇文章的調查結果發現，他的統治依然可以長治久安</p>
-<p>今天，在北京二中院的門口，聚集了一小撮，注意只是一小撮。這一小撮人裏面，外國人加便衣加警察應該佔到了一半左右。這就是咱國家的殘酷的國民國情。爲什麼我會這麼痛心。既往那些什麼案什麼案其本質跟今天的這個浦志強案有着絕大的不同，因爲既往絕大多數只是針對的是些草民人士，可是今天，當國的黑暗魔爪卻伸向了維護當年那些草民人士法律權利的律師，這就是對法制建設直接踐踏的一個標誌性事件。也標誌着土共法制建設謊言的徹底破產。這無異於對當今中國還有那麼一點點希望的釜底抽薪。這個開庭之前，如果說非法羈押浦志強，然後像某些人士那樣，沒開庭就悄悄把人家放了，那麼這明面上還不至於達到踐踏法制建設的地步。可是這一開庭，不管是怎麼個宣判，這法制建設的謊是無論如何也無法圓了。當然，今天土共沒宣判，但是據我的推測，根據現場國民人數甚少的情況，以及草榴社區這裏也是幾乎默默無聞的情況，再審宣判有罪入刑，於我看來是十拿九穩了。其實土共今天自己是知道事關重大的，所以肯定是提前就做好了不宣判的決定的。嘿～～只是沒想到這社會反響這麼小，沒想到多年洗腦灌輸的成果如此豐碩，他圈養的這羣碩鼠反而一點沒覺得這事態嚴重。</p>
-<p>一個國度的文明程度，是建立在其文化的基礎之上的。我發一篇原創詞二首爲題的帖子，卻只有區區24個回覆。其中還有不少是那種感謝分享式的疑似機器回覆。一個沒有文化爲基礎的政治那必定是無法理性的。而很可惜的是，這24個或許是對文化比較感興趣以及比較有了解的人卻又對政治不怎麼敏感。</p>
-<p>一個政治霧霾如此嚴重的國度，其天空霧霾久久不散也就不足爲奇了。</p>
-<p>土共，這一棋你又贏了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%8D%89%E6%A6%B4%E7%A4%BE%E5%8D%80%EF%BD%9C%E4%B8%AD%E5%9C%8B%E6%B3%95%E5%88%B6%E5%BB%BA%E8%A8%AD%E7%9A%84%E8%AC%8A%E8%A8%80%E5%8F%8A%E6%82%B2%E5%93%80-%E7%B4%80%E5%BF%B5%E6%B5%A6%E5%BF%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -679,7 +642,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -689,5 +652,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

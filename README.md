@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,101 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%BA%E4%BA%86%E6%B2%BB%E7%90%86%E9%9B%BE%E9%9C%BE%E8%80%8C%E7%BC%93%E9%99%8D%E6%B2%B9%E4%BB%B7-%E8%BF%99%E7%90%86%E7%94%B1%E6%88%90%E7%AB%8B%E4%B9%88%EF%BC%9F/" target="cdt-mirror">大脸撑在小胸：为了治理雾霾而缓降油价——这理由成立么？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo.jpg" rel="attachment wp-att-422236"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo.jpg" alt="6edf4ea4jw1ez32scjb00j20rs0jqjuo" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo-768x545.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px"></a></p>
+<p>前几天，发改委说“我国环保形势日益严峻，一些地区以臭氧、灰霾污染为特征的复合型污染日益突出，机动车尾气排放是造成空气污染的重要原因之一。充分发挥成品油价格杠杆作用，是促进资源节约、治理大气污染的重要手段”——然后就缓降油价了。</p>
+<p>为了避免一些不必要的误会，我首先声明：<strong>本人坚决反对发改委这套逻辑！</strong></p>
+<p>然后就可以从容讨论问题了~</p>
+<p>网上有些反对的理由：</p>
+<p>1.认为机动车对雾霾的影响很小</p>
+<p>2.认为不应该以限制机动车出行的思路来治理雾霾</p>
+<p>——虽然我同意你们的反对，但是不同意你们反对的理由。因为如果从这两个角度来讨论的话，最终反而会显得发改委很有道理。</p>
+<p>首先，<strong>机动车排放的确是PM2.5的重要来源，这是有很多科研依据的。</strong></p>
+<p>以北京、天津和广州为例，下图是2009-2011年这三个城市的PM2.5源解析结果（仅列出每个城市PM2.5来源的前4项）。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35.jpg" rel="attachment wp-att-422235"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35.jpg" alt="6edf4ea4jw1ez32khfig3j20f4048q35" width="544" height="152" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35-300x84.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35.jpg 544w" sizes="(max-width: 544px) 100vw, 544px"></a></p>
+<p>可以看出，机动车排放基本稳居第二，在京津仅次于燃煤，在广州仅次于工业。其它研究也表明，一般城市中机动车排放对PM2.5的平均贡献大约为20-30%。</p>
+<p>要强调的一点是，即使在同一城市的不同大气背景下，机动车排放的贡献也不一致。比如<strong>在北京，如果本身空气质量很好，那么PM2.5的最主要来源为燃煤（45%），机动车仅占13%；但如果已经发生了雾霾，那么机动车排放则一跃升至42%，成为最主要来源。</strong></p>
+<p>还有一点，机动车排放不仅能引起雾霾，而且能引起<strong>臭氧污染，城区中臭氧浓度的高低，最主要就取决于机动车尾气的排放量</strong>。臭氧污染对健康的危害也非常大，而且在我国也经常出现，但被严重忽视了，我过去写文章说过，不再赘述。</p>
+<p>其次，在国外已有的城市治理雾霾的经验中，<strong>确有不少专门针对机动车出行的限制。</strong></p>
+<p>限制的方式有两种，第一种是政府颁布禁令，比如日本东京，禁止任何柴油车进入城区。</p>
+<p>第二种是经济手段：比如英国伦敦在80年代治理雾霾时，征收高昂的进城费和停车费。再比如意大利米兰，以汽车的排放量来对汽车进行划分，如果一旦被认为是“污染严重的汽车”，那么在周一至周五的早7点至晚7点期间，想要进入市区必须额外交费约2-10欧。这也就是<strong>价格杠杆，增加机动车的出行成本，从而限制机动车的出行率，以达到减少尾气排放的目的。</strong></p>
+<p>所以说，治理雾霾要限制机动车、限制机动车采用价格杠杆，其实这两点反而是没什么问题的。</p>
+<p>关键问题在于，<strong>这价格杠杆到底应该杠在哪里？</strong></p>
+<p><strong>价格杠杆应该有非常明确的指向性</strong>，我们参考国外治霾经验，都指向一个特定的污染严重的城市，比如伦敦污染严重，那你要进入伦敦城区才征收高额进城费和停车费；甚至更明确到像米兰那样，具体到特定的车辆和特定的时段内，进城才收费。</p>
+<p>再反观这次“缓降油价”，不觉得离题太远么？</p>
+<p>首先，<strong>雾霾并不是全国每个城市每个区域都有，而油价却是全国一起缓降</strong>，人家那些空气质量一向很好的城市为什么也要一起杠杆？这要是套到上面那些治霾经验里，相当于英国全国征收高昂停车费，相当于意大利全国进城都额外交费，相当于日本全国都不许开柴油车……这说得过去么？</p>
+<p>其次，对于京津广这类人口密集的城市而言，机动车排放的PM2.5占比很大，成品油价或许还谈得上价格杠杆；但是对于有些区域，比如<strong>河北，机动车排放的PM2.5占比只有14%，燃煤排放却高达44%</strong>，就算要价格杠杆是不是也应该指向燃煤呢？</p>
+<p>综上，<strong>我不怀疑机动车是城市雾霾的主要来源，我也不反对动用价格杠杆来限制排放</strong>（然而就连我这种人都反对，可见发改委已经没救了），<strong>但是价格杠杆应该有明确指向，而不是用一个指向模糊的所谓价格杠杆来全国一刀切。</strong></p>
+<p><strong><span>最后，其实我从这个角度来反驳，实在是过于讲道理了，因为实际上我根本也不相信发改委真是为了治理雾霾。我只是想证明，他们连找借口都找不到一个正点的。就酱。</span></strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%BA%E4%BA%86%E6%B2%BB%E7%90%86%E9%9B%BE%E9%9C%BE%E8%80%8C%E7%BC%93%E9%99%8D%E6%B2%B9%E4%BB%B7-%E8%BF%99%E7%90%86%E7%94%B1%E6%88%90%E7%AB%8B%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9C%E8%BF%8E%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8/?category=18271" rel="tag">喜迎油价上涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-13/" target="cdt-mirror">【网络民议】你家做客？你们真拿自己当户口本第一页了？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%B2%81%E9%83%A8%E9%95%BF.png" rel="attachment wp-att-422225"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%B2%81%E9%83%A8%E9%95%BF.png" alt="鲁部长" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/鲁部长-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/鲁部长-768x331.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/鲁部长-1024x442.png 1024w" sizes="(max-width: 2458px) 100vw, 2458px"></a><br><em>（根据相关法律法规和政策，“鲁部长”搜索结果未予显示。）</em></p>
+<p><strong>观察者网近日<a href="http://tech.caijing.com.cn/20151218/4035871.shtml">专访CNNIC主任李晓东</a>时，问到了“局域网”的问题：</strong></p>
+<blockquote><p><strong>观察者网</strong>：问一个比较敏感的问题，您作为中国代表经常参加很多国际会议，他们可能会说，你们是局域网，facebook不翻墙都不能用，您怎么回答他们？</p>
+<p><strong>李晓东</strong>：这个问题，<strong>鲁部长</strong>已经有了经典的回答，“<strong>我有权决定谁到我家做客</strong>”。<span><strong>这些企业不说好坏，但至少要适应不同的国情</strong></span>。</p>
+<p>谷歌有好的东西，也有不好的东西。<span>Facebook做<strong>信息提供的时候</strong>，<strong>怎么兼顾不同的国情</strong></span>。中国没说不让你们进来，你不符合中国的法律和文化，你就进不来。</p>
+<p>假如facebook宣传恐怖主义，应不应该？谷歌搜索提供色情信息，大人倒还好，孩子呢？你也会很担心吧？</p>
+<p>很多企业的社会责任还没有形成，内容分级还没做好，电影院你看不到色情电影，但在网上可以看到。<strong>中国如果是局域网能有这么大吗，有6.68亿网民的局域网吗？你见过BAT这么大，还是局域网吗？上不了facebook就不能聊天了吗？没有谷歌就不能搜索了吗？</strong></p></blockquote>
+<p>究竟何为“国情”？上述专访中，<strong>李晓东已在不经意间道出了外国企业需要适应“国情”的真相</strong>：</p>
+<blockquote><p>互联网很本质的东西就是降低信息不对称，你这个人不好，以前你俩知道，我不知道，现在互联网扁平化了，你不好，这个信息传播很快的。所以你最好知行合一，表里如一，在群里、朋友圈里都是如此。比如企业，这个信息不好，找人删帖。你删了，过两天又出来了，所以关键是好好做。互联网还有这个作用，倒逼大家回到本质的东西。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1825530225" target="_blank">内心继续寻求强大的HHJ</a>：鲁部长一词被禁搜，估计狗裆领导自己也心慌怕被网友骂<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">“我有权决定…”不愧官老爷作风</p>
+<p>@雨伞杀人王：毛坯房就不能住人了？吃饭不配菜就不能吃了？是这意思么？</p>
+<p>@腹黑蛇男：对对对，没有不会怎样，同样的没有某党也不会怎样</p>
+<p><strong>@审计师理查德：“我有权决定谁到我家做客”？你家？你们真拿自己当户口本第一页了？</strong></p>
+<p><a href="http://weibo.com/3970803378" target="_blank">-司殿</a>：你有权决定谁去你家做客 我觉得这句话用在这里太可笑了 你家？你有权？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@Andy曉明：谁他妈给你这个权利决定谁能到你家做客了，我就想知道，谁他妈给你的这个权利</p>
+<p>@王教主王：“我有权决定谁来我家做客”这句话简直放屁。搞没搞清楚这个家的主人是谁？</p>
+<p><a href="http://weibo.com/3174884334" target="_blank">ETHE寂静轨迹</a>：我给大家讲个笑话 ：中国人民当家作主<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/5536739808" target="_blank">我是猪崽一生追</a>：<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">是啊是你家你决定，我的家呢？</p>
+<p><a href="http://weibo.com/2679822870" target="_blank">刘备是我爸</a>：为此我特地去查了一下哪些国家禁止了谷歌，朝鲜，古巴，阿富汗，津巴布韦，委内瑞拉，还有天朝<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">看来全世界都在受谷歌的戕害，就我大社会主义阵营幸免啊，果然是先进而优越的制度啊<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/2738204271" target="_blank">GypsyHey</a>：真的很同情国外的青少年，生活在水深火热之中，整天接触色情暴力。而我们祖国的花朵，都生活在新闻联播里。突出一个社会主义的优越性。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/pnnda" target="_blank">猫猫熊Mihashi</a><i title="微博个人认证 "></i>：我可以这么理解吗? <img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"> 火容易引起火灾,所以我们选择放弃使用火种.不烧火我们可以吃水果过活呀?为什么要使用火这种这么危险的东西呢?<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://weibo.com/2475855291" target="_blank">Astroboyss</a>：图片评论<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum.jpg" rel="attachment wp-att-422223"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum.jpg" alt="93928dbbjw1ez4zuiga7hj20k00n4jum" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum-260x300.jpg 260w, http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<p><a href="http://weibo.com/2927155995" target="_blank">口合口苗</a>：嘿嘿嘿<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c8f.png" alt="" width="20px" height="20px"><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq.jpg" rel="attachment wp-att-422222"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq.jpg" alt="ae78db1bgw1ez3wwvpzfzj20e80aqjsq" width="440" height="332" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq-300x226.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<p>@我为什么这么穷：不该问fb和gg吧，应该问github，dropbox之类的。。</p>
+<p>@陈尤楠Cheney：全世界都在用，到我们这就不符合国情了？那是国情有问题还是网络有问题？</p>
+<p><strong>@leo_stei_n：谷歌和facebook是web2.0时代的产品，他们本身不是内容提供者，内容的真正提供者是来自世界各地人们。就因为这些公司不搞审？？查就被屏蔽，还把原因归咎于别人，也就骗骗只看CCAV的人罢了</strong></p>
+<p>@圈揽绚烂：这货算个 J8 毛。百度纵容色情广告就不是色情了？保护了这么多年连个特么浏览器都做不好是不是该扇自己脸？学术网站违反了哪条火星法律？产品经理说得最多的一句话就他妈是：“这个地方我觉得可以插一条广告。” 抱歉鲁部长，我们生活在同一片土地，看着不同的天空。</p>
+<p>@小兴闲着也是闲着：霸气耍流氓，能忍；无赖讲道理，不能忍。</p>
+<p>@强力围观滴：1.有权决定谁到我家做客，同样有权出去看看 2.没限制fb,google的国家也有儿童，不只你家一个疼孩子,人家也怕恐怖活动 3.bat大是因为局域网内人口基数大，不是国际竞争力大. 还有有没有fb、google能不能聊天、搜索这话你怎么不对来这的外国记者，外国运动员，外国媒体说</p>
+<p>@大漠海盗L：厚颜无耻，那好啊，先把那个姓习的那叫什么来着，不是在Facebook 有个账号多少万粉丝吗？他该判几年？先判了来服众吧</p>
+<p>@可以做梦的空间：说得好！按照这货的逻辑可不可以这样理解：环球时报，人民日报，CCAV，还有他自己都能上这些网站，那是不是这些货色已经被这些坏东西影响了？以至于混球时报发文说ISIS不是恐怖组织，是不是说明这些货色已经成为ISIS的成员了？能这样理解吗？</p>
+<p>@北都YUMESS：从小你妈就应该给你锁房子里 天天给你送饭看你长大就好了 毕竟外面那么多危险 你说是吧</p>
+<p>@DDOGlwx：放你妈的臭屁！全世界都用fb google ，他们的人民就都色情了？就都支持恐怖主义了？怕泄密就做牛逼的生态圈给自己的人用，国内的某些大厂商app这么垃圾 这么不要脸 推送广告 占用资源 生产垃圾文件，你们怎么不管？</p>
+<p>@嘸颩哋慹帶：一群人天天“中国网民没智商”的论调也不知道跟谁学的，还一堆点赞。敢情您的智商是有多高？全球就四个国家封锁FB，所以中国网民的智商排在全球后四位？我看说出这种话的人智商才位于中国网民的最底层，一辈子的井底之蛙</p>
+<p>@松松zxs：违反了具体哪条法律？</p>
+<p>@Bayou_Gun：评论中有人说“别没事儿就跪舔外国软件，你真以为多少人整天用FB或者推？ ”为何奴？这就叫奴。因为他们不懂何为“权利”。“在不伤害他人的前提下，自由地认知世界”是一个人的权利。你可以不用，但不能被剥夺。奴就是自己不用，权利被剥夺后还嘲笑那些愿意多认知世界的人，说那些人“跪舔”。</p>
+<p>@zzq也可以叫229：宣传恐怖主义和搜索出色情内容影响孩子，你TM觉得国外是没有孩子了？最怕的不就还是怕撼动我党的霸主地位….</p>
+<p>@先生得学好：我们的国情是：你得用新华社通稿。</p>
+<p>@Zinyland：不要拿恐怖主义和色情信息举例子 找借口好吗？谁都知道封谷歌、脸书、ins的原因不是这些。真以为我们被你忽悠得啥都不知道？你这满口胡话就是对中国民众智商的侮辱！</p>
+<p>@柏小繁_Geeker：我们接入互联网了？什么时候接入的？</p>
+<p>@Godvisions：越不让我看的，我越要看。怎么能挡住我住我的求知欲。</p>
+<p>@魚未明：闭关锁国还讲的这么清新脱俗</p>
+<p>@KevinSong：网民折磨多，怎么可能是局域网？中国人这么多，怎么可能不民主？领导都是人民选的，不信你看看你家水表</p>
+<p>@Bayou_Gun：就算这WBD说的对，那凭什么乌镇开世界互联网大会时，会区内可以上这些“不符合法律”的网站？真要拿法律说事儿，乌镇算公然违法么？违法为何不究？或者是乌镇一秒钟变“租界”，享有“治外法权”了？</p>
+<p>@___Sinn：傻子都知道你不是为了色情。还有，没有电影分级制度，以模糊规则限制电影上映不正是你国ZF的专利？！</p>
+<p>@寶樹零叁柒肆：谷歌是一定要用的，搜索功能和百度比完全碾压，脸书用不用无所谓，但我们要的是选择的权利。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-13/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnnic/?category=18271" rel="tag">CNNIC</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%83%85/?category=18271" rel="tag">中国国情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%E7%9A%84%E4%B8%87%E7%A7%91%E5%AE%9D%E8%83%BD%E4%B9%8B%E4%BA%89%EF%BC%9A%E9%97%A8%E5%8F%A3%E7%9A%84%E9%87%8E%E8%9B%AE%E4%BA%BA%EF%BC%8C%E8%83%8C%E5%90%8E%E7%9A%84/" target="cdt-mirror">至道书院｜万科宝能之争：门口的野蛮人，背后的赵家人</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E7%9F%B3.jpg" rel="attachment wp-att-422209"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E7%9F%B3.jpg" alt="王石" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/王石-300x194.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/王石.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
@@ -99,7 +191,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%A7%81%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异见人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85/?category=18271" rel="tag">艾滋病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%80%E6%B4%81/?category=18271" rel="tag">高耀洁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%88%98%E6%BA%90%E4%B8%8A%E5%B0%86%E5%AE%A3%E5%B8%83%E5%B0%86%E9%80%80%E5%BD%B9-%E5%BF%86%E8%B0%B7%E4%BF%8A%E5%B1%B1%E6%A1%88%E8%B0%A2%E5%AE%98%E5%85%B5%E6%94%AF%E6%8C%81/" target="cdt-mirror">法广｜刘源上将宣布将退役 忆谷俊山案谢官兵支持</a>
 </h2>
@@ -561,63 +653,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%84%B1%E7%A8%BF%E6%BC%94%E8%AE%B225%E5%88%86%E9%92%9F%EF%BC%9F/" target="cdt-mirror">【立此存照】习近平用提词器“脱稿”演讲25分钟</a>
-</h2>
-<p><p><strong><a href="http://news.sina.com.cn/c/zg/2015-12-16/doc-ifxmpnqi6580987.shtml">新浪网｜25分钟3500字，除了乌镇习近平哪些演讲是脱稿的？</a></strong></p>
-<blockquote><p>今天，中国国家主席习近平出席在乌镇举行的世界互联网大会，并发表主旨演讲，就共同构建网络空间命运共同体提出5点主张。</p>
-<p>媒体和网友发现，在时常约25分钟的演讲中，习近平全程脱稿演讲。</p>
-<p>在国际场合演讲中，比如今年9月习近平在联合国大会发表的演讲，全程脱稿，一次都没有低头看演讲稿。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%88%91%E8%AF%BB%E4%B9%A6%E5%B0%91%E4%BD%A0%E4%B8%8D%E8%A6%81%E9%AA%97%E6%88%91.jpg" rel="attachment wp-att-421994"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%88%91%E8%AF%BB%E4%B9%A6%E5%B0%91%E4%BD%A0%E4%B8%8D%E8%A6%81%E9%AA%97%E6%88%91.jpg" alt="我读书少你不要骗我" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/我读书少你不要骗我-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/我读书少你不要骗我.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
-<p><strong>在央视新闻直播习近平演讲的<a href="http://tech.sina.com.cn/i/2015-12-16/doc-ifxmpnuk1629276.shtml">视频</a>中，台上分明有两台提词器：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%AD%97%E5%99%A8.png" rel="attachment wp-att-422002"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%AD%97%E5%99%A8.png" alt="习近平提字器" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/习近平提字器-300x222.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/习近平提字器.png 710w" sizes="(max-width: 710px) 100vw, 710px"></a></p>
-<p>在国际上，重要场合中演讲使用提词器（teleprompter）是非常普遍的现象。在习近平乌镇演讲中出现的提词器是一种较为新型的透明演讲提词器，因小巧低调而在各国商界政要人士中非常流行。比如下图中印度总理莫迪演讲时面前的两块玻璃就是提词器的显示屏：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/IndiaTv83208a_modi.jpg" rel="attachment wp-att-421991"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/IndiaTv83208a_modi.jpg" alt="IndiaTv83208a_modi" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/IndiaTv83208a_modi-300x210.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/IndiaTv83208a_modi.jpg 628w" sizes="(max-width: 628px) 100vw, 628px"></a></p>
-<p>演讲专用的提词器，从演讲者一方可以看得到字幕提示，而从观众一方只会看到透明玻璃。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/speechteleprompter2.jpg" rel="attachment wp-att-421992"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/speechteleprompter2.jpg" alt="" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/speechteleprompter2-300x150.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/speechteleprompter2-768x384.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/speechteleprompter2.jpg 840w" sizes="(max-width: 840px) 100vw, 840px"></a></p>
-<p>提词器在美国政客中非常普遍，奥巴马也是爱好者之一。有批评人士认为他对提词器过于依赖。</p>
-<p>蔡英文对提词器也极其热爱：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/20150608183105848.jpg" rel="attachment wp-att-421990"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/20150608183105848.jpg" alt="20150608183105848" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/20150608183105848-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/20150608183105848.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/StageProPair.jpg" rel="attachment wp-att-422005"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/StageProPair.jpg" alt="StageProPair" width="375" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/StageProPair-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/StageProPair-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/StageProPair-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/StageProPair-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/StageProPair.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
-<p>耐人寻味的是，央视播出的乌镇互联网大会上其他嘉宾发言时大都带了纸稿。提词器在中国大陆尚不普遍，也许只有最高领导人才有资格使用。</p>
-<p>（除央视视频截图，以上图片均来自网络）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%84%B1%E7%A8%BF%E6%BC%94%E8%AE%B225%E5%88%86%E9%92%9F%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E8%84%B8%E7%BD%91/?category=18271" rel="tag">护脸网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%9F%B3%E6%97%A0%E5%BF%8C%E6%83%AE-%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F/" target="cdt-mirror">石无忌惮 | 互联网大会的另一种打开方式</a>
-</h2>
-<p><p>按：小编曾在四一哥网易博客上看到他攒过一篇名为《2015年（推特段子接龙）》的博文，觉得很有意思。据说当时（2010年）在推上先由王佩老师写了一个2015年的段子，然后连岳、莫之许戏谑式模仿，跟着推特群雄就遍地狼烟搞创作。一转眼2015年都快过完了，恰逢今天又是世界互联网大会开幕日，小编决定贴出来供大家一睹当年”大V们”的风采~</p>
-<p>『 2015年 』推特段子接龙</p>
-<p>▎1、2015年，我到和菜头家里做客，看到地板上的网线和正在闪烁的路由器，我大喜过望。“想不到你家里还能…！”此时菜头夫人在一旁说：“这是一毛不拔送的新款灯具，完全模拟有互联网的日子。”（作者：王佩）</p>
-<p>▎2、2015年，我到王佩家里做客，看到他正打开twitter，我大喜过望。“想不到你家里还能…”此时王夫人在一旁说：“这是我们家的局域网，我们互Follow，完全模拟有twitter的日子”。（作者：连岳）</p>
-<p>▎3、2015年，我到连岳家做客，看到他正在写专栏，我大喜过望：“想不到你还在写啊……”此时连夫人在一旁说：“3年来他没收到过一封信，这是我写给他的，我当读者，他解答，完全模拟我爱问连岳的日子。”（作者：师北宸）</p>
-<p>▎4、2015年，我到一毛不拔家里做客，看到电脑里的纳斯塔客和纽约股市行情，我大喜过望。“想不到你家里还能…！”此时一毛不拔夫人在一旁说：“自从不能炒美股后，一毛不拔就疯了，这是医生吩咐道的，完全模拟有互联网的日子。”（作者：莫之许）</p>
-<p>▎5、2015年，我到莫之许家里做客，看到彪形大汉保镖与停在草坪的总统座机，我大喜过望：“想不到你真的成了…”此时莫之许夫人在一旁说：“保镖是在劳务市场雇来的，座机是充气模型，完全模拟奥巴马的日子。”（作者：宋石男）</p>
-<p>▎6、2015年，我到宋石男 家里做客，看到林志玲躺在他的床上，我大喜过望：“想不到你真的搞了…”此时宋夫人在一旁说：“这是莫之许买充气总统座机的赠品，完全模拟有林志玲日的日子。” （作者：抑扬）</p>
-<p>▎7、2015年，我到方滨兴家做客，看到搜索天安门居然页面被重置了。我大惊失色，“你……怎么还会被墙？！”方夫人说，自从GFW被推倒后，他就疯了，这是他自己在家里搭的，完全模拟有墙的日子。 （作者：photoxu）</p>
-<p>▎8、2015年，我到李彦宏家里做客，看到四色闪耀的GOOGLE，我大喜过望。“想不到你家里还…！”此时李彦宏夫人在一旁说：“现在做产品的时候都不知去哪里抄，马化腾就模仿GOOGLE首页做了这个桌面给大家用，希望多少有点感觉。” （作者：老卡）</p>
-<p>▎9、2015年，我到罗永浩家做客，门开了，开门的是是是是曾轶可…… （作者：阿丁）</p>
-<p>▎10、2015年，我陪江叔到胡哥家做客，门开了，开门的是是是是少将祖英……（作者：呆若木鸡333）</p>
-<p>▎11、2015年，我到韩寒家做客，门开了，开门的是是是是郭敬明…… （作者：肖川）</p>
-<p>▎12、2015年，我到邻居李大爷家做客，发现他不见了。此时李夫人在一旁说：他跟另外3位退休老人因玩“推倒胡”，被国宝带走。（作者：文涛）</p>
-<p>▎13、2015年圣诞节，我在街上散步，大雪漫天飞舞之中，竟然看到了刘大侠。我很激动，冲上去说，没想到您能提前出来……却听见他几乎是同时嘟囔：“怎么连他这号的都进来了……” （作者：李笑来）</p>
-<p>▎14、2015年，我到联合国做客，发现他们把GCD定为“非物质世界文化遗产”加以保护。（作者：饱醉豚）</p>
-<p>▎15、2015年，我到冠希家里做客，看到他的苹果电脑没有设密码。我大惊失色：“你好大胆……！”此时冠希夫人在一旁说，自从断了太平洋海底光缆，党蝈到处装绿霸，香港也在内。拍的艳照一上传就被穿上衣服了，穿的跟去政协开会一样。（作者：dcai）</p>
-<p>▎16、2015年，偶终于买到了房子,而且还是复式,老婆说,今晚偶们睡厨房下面,还是厕所上面？（作者：blog图党）</p>
-<p>▎17、2015年，我站在鼓浪屿边指着沙漠说几年前这里是海，围观群众纷纷抗议，怒斥我造谣。（作者：蒲飞）</p>
-<p>▎18、2015年，我要从北京回到出生的故里新缰，在入境的时候被拒签了。（作者：江湖鲜有的传说）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%9F%B3%E6%97%A0%E5%BF%8C%E6%83%AE-%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87/?category=18271" rel="tag">乌镇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91%E7%B2%BE%E9%80%89/?category=18271" rel="tag">乌镇网精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E4%B8%9D%E7%BD%91/?category=18271" rel="tag">铁丝网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E8%84%B8%E7%BD%91/?category=18271" rel="tag">护脸网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -629,7 +664,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -639,5 +674,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

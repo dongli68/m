@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,138 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422298/" target="cdt-mirror">搜狐文化 | 专访郭于华：常识在今日中国变成异端</a>
+</h2>
+<p><p><strong>郭于华，北京清华大学社会学系教授。1990年于北京师范大学获得博士学位，2000—2001年于哈佛大学人类学系做博士后研究。主要研究领域为社会人类学、农村社会研究、口述历史研究等。重点关注社会转型过程中的国家-社会关系、农民工权益保护、社会公正和公民社会建设等问题。著有《受苦人的讲述：骥村历史与一种文明的逻辑》（2013），《倾听底层》（2011），《居住的政治：当代都市的业主维权和社区建设》（主编，2014），《仪式与社会变迁》（主编，2000）、《死的困扰与生的执著——中国民间丧葬仪礼与传统生死观》（1992）等。</strong></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-%E4%B8%8B%E5%8D%8811.18.15.png" alt="Screen Shot 2015-12-19 at 下午11.18.15" width="417" height="318" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-下午11.18.15-300x229.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-下午11.18.15.png 417w" sizes="(max-width: 417px) 100vw, 417px"></p>
+<p><strong>高压锅气阀长久不打开，不是更危险么？</strong></p>
+<p><strong>搜狐文化：</strong>为什么中国转型困难这么多？</p>
+<p><strong>郭于华：</strong>经济制度上从计划经济转向了市场经济，但是在政治体制、意识形态上并没有相应的转变，没有转变的原因是强权压制造成的巨大阻力。这必然导致中国这个巨人的撕裂，一条腿往前迈了，大踏步迈入市场经济，而另一条腿却使劲往后撇。</p>
+<p><strong>搜狐文化：</strong>如何来启动转变的按钮？</p>
+<p><strong>郭于华：</strong>其实今天中国的很多问题，并不是大家不知道怎么办，不知道症结在哪里。关键在于掌权者不愿意放弃既得利益。非不能也，不为也。走还是不走的问题。</p>
+<p><strong>搜狐文化：</strong>放开之后是不是会产生新的问题？像苏联解体之后的遗留问题依旧很多。</p>
+<p><strong>郭于华：</strong>一方面我们对于苏联解体的认识，主要来自于官方的宣传，到底苏联解体之后是不是就到了分崩离析，民不聊生？我觉得应该打个问号，应该有专业人士对这个问题做出说明解释，当然这也不是就一家之言，是可以探讨的。</p>
+<p>另一方面当前对于民主化道路的妖魔化是非常成功的，维稳的力量不光来自于体制，它也是一种思路，一种思维方式，深入人心。拾废品的老头都在说：“这个社会不能乱。”</p>
+<p><strong>搜狐文化：</strong>“社会不能乱”这个逻辑好像很有说服力。</p>
+<p><strong>郭于华：</strong>但是从学理上来讲，是不是一旦民主化社会就乱了，哪个民主化的国家比极权专制还要乱，要看有没有这样的先例。所有问题不可能一下子都解决，但是至少先要释放出善意，有慢慢解决的希望，使中国社会走上一个比较良好的发展道路。没有人希望社会乱起来，乱起来肯定是老百姓最倒霉。所以现在中国应该破除这种妖魔化的东西。我概括了几个点：一个就是社会恐惧症，社会恐惧症就是对于社会上包括公益组织在内的自组织都有恐惧。如果社会自组织能够健康良好发展的话，那么它对社会的发展是有莫大好处的，对社会比较平稳温和的转型也是有很大好处的。</p>
+<p>另一个需要破除的是“不稳定幻像”，就是把任何东西都当作不稳定因素。我们在2010年写过一篇关于社会稳定的报告，实际上就是批评这个高压维稳体制，任何社会中的动向都能给排查成不稳定因素，例如中学生对食堂伙食不满意，提出意见，也是不稳定因素。那这样就会形成一种幻象，总觉得社会只要一放松就会乱，可是你不想想你的高压锅气阀长久不打开的话，不是更危险吗？</p>
+<p>还有一点需要破除的就是“中国特殊论”。我写过一篇文章，我们究竟有多特殊？我们特殊到什么程度，我们是人类的话，我们跟其他国家的人有本质性的区别吗？人都有一个对自由，对个人权利的基本要求。如果是人类就应该有免于匮乏，免于恐惧的自由。从这个角度来讲，没有说自由民主只适合于西方，而不适合于中国的。我觉得这个东西是一种错觉，这也是应该去破除的。</p>
+<p><strong>个人要在行动过程中成为公民</strong></p>
+<p><strong>搜狐文化：</strong>如何行动呢？不可能是一直等待</p>
+<p><strong>郭于华：</strong>这是等不来的，同时就涉及到一个很重要的问题：行动和意识是什么关系？因为按照现在的思路，等具备了意识才会有行动。但是实际在行动社会学看来，会给行动一个非常重要的优先地位。按照社会结构的视角来看，个人都是处在社会结构框定之中，当然会受到这个结构的制约。如果只看到这一点，作为行动者的个人就没有能动性，就是说结构给你多大空间，你才能做多少事，反过来讲没有空间你就什么都做不了。那样的话其实你就丧失了作为个人的最本质东西，因为人是有思想、有行动能力的动物。所以好社会是等不来的，怎么能够拥有这种意识呢？其实可能是在行动的过程当中意识慢慢形成的，意识和行动是一种互动、互构关系。</p>
+<p>这个道理其实很简单，比如我今天遇到了一件事，我认为这件事不公平，这个时候我应该做什么呢？我是不是应该遵循作为人最正常的反应，受到侵害我就要主张我的权利，当然维护权利应该是在一个合法的渠道内来进行。实际上这样就是已经在开始行动了，在行动的过程当中你才会想到，为什么我的权利受损？我被剥夺了权利，为什么我还不能主张权利，甚至发个声都不行？那我自然就会想到，因为我没有作为人的最基本权利，我没有公民的权利，进而会意识到，我为什么没有公民权利？我就会去想更多的问题。所以意识和行动应该是一个并进的过程，不能说哪个在先哪个在后。一定要在我什么都知道的情况下，既懂得公民社会的理论，也知道政治学的一些概念，我才能去行动。其实很多个人就是在行动的过程当中成长为一个公民的。</p>
+<p><strong>搜狐文化：</strong>当前知识分子如何去选择呢？</p>
+<p><strong>郭于华：</strong>每个人肯定是不一样的，而且每个人都需要在一种特定的社会结构之中做出一个选择。你对自己何去何从需要有一个选择，我不是说放弃知识分子的责任，或者说为一些知识分子开脱。毕竟这都是发生在中国特有的政治体制之下。其实今天大家已经把公知这个词变成一个很负面的概念了。</p>
+<p><strong>知识分子不能加入赞美大合唱之中</strong></p>
+<p><strong>搜狐文化：</strong>知识分子为什么会普遍地被污名化？</p>
+<p><strong>郭于华：</strong>首先要考虑公知的污名化是在什么样的制度环境当中发生的。1949年以来中国知识分子实际上是逐渐被消灭的，尤其是你想要发出一个声音的话。即使今天也是一样，包括整个教育在内的学术都不是独立的，它是在行政权力的掌控之下的。在这种情况下知识分子的自主性、主体性、独立性就变成一件很艰难的事情。知识分子当然有责任，但是我们必须在大的制度框架下来思考这个问题。如果一代又一代的学人从年轻的时候就看到，如果顺着权力要求的那些东西走的话，就会名利双收，就会混得人五人六的，如鱼得水的；而如果想要坚持自己的独立性，说出事实的真相同时还要去挖掘背后的根源呈现给公众的话，那很可能就是一个非常遭糕的下场。如果长久以往在如此背景下成长起来一代一代的学人的话，那发生什么结果就可想而知了。</p>
+<p>但是知识分子不应该就此顺从了，还是要坚持一个学术独立的立场，独立的精神。因为作为研究者，作为知识分子，你的工作，你的本职就是求真。我们暂且不去说启蒙大众，因为所有的启蒙其实都是自我启蒙，自我觉醒，知识分子不能以一个启蒙者的身份去启蒙大众。</p>
+<p><strong>搜狐文化：</strong>以启蒙大众的心态去面对大众的那是布道者吧。</p>
+<p><strong>郭于华：</strong>你也不是救世主，不能说你去启蒙大众，你自己其实都需要启蒙的。所以知识分子的工作是去求真的，你的工作不是要去赞美的。所以有很多人批评我们社会学看不到光明，总是去看社会的黑暗面。其实所有的进步，哪怕是一点一滴的进步、改善都能看得到，但是不必去赞美，因为份内之责。看到做得不够好的地方，要让这个社会一点一点变得越来越好，就像“啄木鸟”，看到树上有病虫要把它弄出来，而不是黄鹂鸟整天去唱赞歌唱得很好听。</p>
+<p>揭示社会问题是我们的本职所在，我们不能加入到赞美的大合唱之中。已经有太多人在唱赞美大合唱。知识分子还有必要加入到大合唱之中吗？还是有很多事可以去做的，当然不是以反对作为目的的，是以这个社会能够变得更好一点，大多数人能够生活得更好一点为目标。因为民众去追求幸福的、有尊严的生活不是最正当的要求吗？</p>
+<p><strong>搜狐文化：</strong>当前知识分子如何去达到独立性？</p>
+<p>郭于华：其实我觉得这当中还是会有一些误区，我们在强调学术的独立性、知识分子的人格独立时，我们常常只是更多强调其独立于权力，不能为权力唱赞歌，要坚持说出真相、见解、思想。另外一方面也要独立于市场，既不能依附权力，又不能完全依附于金钱，独立于金钱也不是那么容易的，因为人总是希望活得好一点。这种选择虽然不能完全归结于个人，但是个人也不能由此而逃避自己应该承担的责任。当然作为个人也没有权力要求别人都要达到这样的独立性。</p>
+<p><strong>文革恶果今天依旧在发酵</strong></p>
+<p><strong>搜狐文化：</strong>为什么大多数人会做出偏离独立性的选择？</p>
+<p><strong>郭于华：</strong>我觉得80年代是一个值得去思考的年代，那是全民启蒙的一个时代。那个时候确实有一种非常开放的感觉。“文革十年浩劫”刚刚结束（当然这个浩劫并不是一下子终止，直到今天它的恶果还在发生影响），那个时候社会各个阶层都是欣欣向荣蓬勃发展，大家都心怀着希望，其实并不是那会儿的物质条件有多好，而是大家觉得这个社会终于要开始正常了，大家都觉得有盼头了。</p>
+<p>高等教育停了那么多年，大家都如饥似渴，面对什么东西都像海绵吸水一样，吸取各种各样的思想，所以那时思想也很活跃。但是这个过程中断了，大家就开始下海“向钱看”，走入商业化大潮。不能简单地说商业化大潮就是一个坏事儿，因为它要走向一个市场经济，毕竟比计划经济要好，但是这种市场经济跟其他国家的市场经济并不完全一样的。这就要考虑它发生的一个背景，它发生在那样剧烈地中断之后，还要担心“极左”再度统治中国，大家就搁置争论先挣钱去。所以对于知识界来说商业化大潮实际上也是一个巨大的考验与冲击，一方面是权力，另一方面是市场，特别是中国的市场经济又是一个权力市场经济。在意识形态控制之下，权力和市场相结合会变得非常有力。国家暴力依然存在，又加上市场金钱的力量，这就会对个人产生更为内在深远的影响。在这种情况下，坚持学术独立是不容易的，但并不是不能做的。当然具体到每个人来讲，可能每个人的处境不一样，要在体制中生存只能按照体制的游戏规则来玩。</p>
+<p>同时也可以看到一个很不让人乐观的前景，就是如果按照它的这套规则跟它玩，最后你一定被它玩。特立独行就要放弃很多东西，“无欲则刚”，这不是所有人都能承受得了的。所以不能去苛求所有的人都这么做，每个人都有权自己做选择，但是我们可以不断反思自己能不能做得更多一点，更好一点。</p>
+<p><strong>搜狐文化：</strong>如何打开这个空间？</p>
+<p><strong>郭于华：</strong>其实大家可能对社会空间有一些误解，好像觉得空间就是所谓的“异见”，跟敌人差不多。其实这是一个很大的误解，空间是指一个社会能够逐渐发育起来，虽然它现在发展得很慢，依旧很微薄，但是通过努力一点一点让它的影响越来越大，让空间越来越大。这绝不仅仅是几个明白人就能做成的，应该是这个社会当中大多数人的一个共同理念。</p>
+<p>其实这个要求过分吗？一点都不过分。无非是要求社会当中的普通人、大多数人都能够享有一个基本的正常生活。不就是想要一个正常的社会吗？正常的社会不是一个绝对平等的社会，因为任何社会也达不到绝对的公平。但是一个比较正常的社会，普通人都能够在其中正常生存，拥有基本的权利和尊严。</p>
+<p><strong>当前中国常识变成异端</strong></p>
+<p><strong>搜狐文化：</strong>关于“什么是正常？”可能还没有达成共识。</p>
+<p><strong>郭于华：</strong>其实这个共识也容易达到，也就是底线的公平：在基本的权利和机会上人人应该平等。也就是说穷人家的孩子通过自己努力最后也能向上流动，也能够获得一个比较好的社会位置，能够通过他自己的聪明才智与奋斗获得上升的机会。可是现在呢？ “拼爹”，各种各样的“二代”现象，什么叫二代？二代就是社会地位向下一代传递，强者恒强，弱者恒弱。这个合理吗？当然不合理。这不都是最基本的常识吗？只要稍微正常都能理解这种常识性的道理。但是中国今天难就难在这儿：常识变成了异端。</p>
+<p><strong>搜狐文化：</strong>现在也有争论，但不是公共讨论，包括所谓的“极左”他们有一套自己很认可的理论，不管出于任何目的，这一套理论可能会让一批人认同，这是非常不正常的情况，而且会吸引一批年轻人。</p>
+<p><strong>郭于华：</strong>建国以后的教育体制实际上一直是意识形态的工具，教育成为意识形态的工具必然会产生出一代一代的“脑残”。对于很多基本的常识、基本的历史和基本的现实，他都可以视而不见。大家都说中国好几代人都喝“狼奶”长大的，阶级斗争这套思路就是“狼奶”。但是我觉得最坏的还不在于满脑子都是装的伪历史，如果满脑子都装着这些的话，一旦真相出现，完全可以把这些东西放弃，换一些东西装在脑子里头。最坏的就是脑子坏了，他对真相已经采取一个屏蔽的状态，即使历史真相在面前，他也看不到。如果真相已经呈现的话，为什么他们还不改变这种思维方式呢？关键在于他并不认为那是真相，他不会用真相去替换他脑子里的幻像。</p>
+<p><strong>搜狐文化：</strong>支持“极左”套路的人中是不是还有些不同？</p>
+<p><strong>郭于华：</strong>对他们也要具体地做一些分析，比如很多社会下层的工人、农民，有一些会怀念计划经济时代，他们很多人是根据自己的经历来做判断，许多时候是归因归错了。比如今天社会的很多问题，比如腐败问题，作为下层民众深受其害，当然他们也痛恨腐败，但是从根本上解决腐败问题的方式，一些人的理解就有问题，他们认为解决腐败问题的根本方式就是回到毛时代，回到计划经济时代，这肯定是错误的。他们不能理解今天腐败层出不穷，屡打也打不完恰恰是权力不受限制的结果。难听一点可以说这样归因是一种愚蠢，但是这种理解还情有可原，因为他们不了解真相。这就需要以一种他们能够理解的方式去告诉他们真相是什么。</p>
+<p>但是另外一些人却不是这样，尤其是在知识界中，你是不懂吗？如果是揣着明白装糊涂的话，这就是一种恶。还有更坏的，他拿这个东西当作棍子来打压别人，这就不是蠢，这是更大的恶。因为用这个作为意识形态工具来伤害别人，其实跟计划经济时代的那种统治方式是一样的，成为它的帮凶了。退一步讲要用这个东西来谋取自己的利益都不是那么不能理解，但是你还要拿这个来害别人的话，就是不可饶恕的，尤其对所谓知识人来说，更加不可饶恕。</p>
+<p>制度、文化、人性进入恶性循环 突破口在于制度</p>
+<p><strong>搜狐文化：</strong>一方面是戾性，另一方面是奴性，为什么在当前中国尤其严重？</p>
+<p><strong>郭于华：</strong>中国的问题在于制度、文化、人性进入恶性循环了，制度越有问题，人性越坏。人性当中固然有一些弱点的，但是不能归结到人性就完了，为什么中国人尤其严重呢？一定要去考虑是什么样的制度造就如此的人性，什么样的制度会把人性当中那些本来的弱点，那些恶发挥到极大？所以我们说好的制度才能造就好的人性，好的制度才能使人性当中那些善良的东西充分地发挥出来。通过人性可以看出制度的好坏。</p>
+<p><strong>搜狐文化：</strong>如何改变？</p>
+<p>郭于华：制度、文化和人性是相互建构的整体。但是打破这个循环的关键点在哪里？有人说要改造传统文化，怎么改造？还有人说要使人性变得更善一些，怎么使人性变得善？突破口还是在于制度。制度改变是很困难的事情，谁会主动放弃权力？谁会主动让权力走向一个比较分散化，不是那么集中的状态？没有人会主动去做。那就需要整个社会形成推促的力量。首先大家都努力做一个公民，然后让公民社会能够比较健康的发育，形成推动制度结构改变的动力。</p>
+<p><strong><br></strong><strong>采访编辑：王远哲，转载自搜狐文化</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422298/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">清华大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E6%8E%88/?category=18271" rel="tag">教授</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BA%8E%E5%8D%8E/?category=18271" rel="tag">郭于华</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%96%B9%E5%8F%AF%E6%88%90%EF%BC%9A%E5%A4%96%E4%BA%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94/" target="cdt-mirror">端传媒 | 方可成：“外交”是中国举办“世界互联网大会”的本质</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-%E4%B8%8B%E5%8D%8810.46.52.png" alt="Screen Shot 2015-12-19 at 下午10.46.52" width="550" height="364" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-下午10.46.52-300x199.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-下午10.46.52.png 616w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2015年12月15日，国家主席习近平与俄罗斯总理梅德韦杰夫游览乌镇。摄：Alexander Astafyev/Sputnik/AFP</span></p>
+<p>12月18日，为期三天的第二届世界互联网大会在浙江乌镇落幕。</p>
+<p>这场大会很是热闹：中国的互联网大佬们悉数到场；国外的知名互联网企业也有不少派出代表参会，像领英（LinkedIn）这种为中国市场专门推出了<a href="http://cn.nytimes.com/business/20141009/c09chinasocial/zh-hant/">阉割版服务</a>的更是直接由联合创始人参加；此外，还有许多国内外政要、国际组织代表、企业家、院士学者在嘉宾名单中。在社交媒体上围观的普通网民，则对会议现场传来的照片进行了<a href="http://tech.sina.com.cn/i/2015-12-17/doc-ifxmttck8181205.shtml">PS狂欢</a>，他们的主要关注点都在照片中的马云、马化腾、李彦宏、雷军、刘强东、周鸿祎……</p>
+<p>的确，这些执掌着巨型互联网企业的亿万富翁们是今日中国的明星。但是，马云和雷军们并不是互联网大会的中心。他们在乌镇，只是为了给另一个人当配角。这个人就是习近平。</p>
+<p>在这场由网信办（中国国家互联网信息办公室）和浙江省政府联合主办的大会上，中国政府是绝对的主角和核心。而中国政府举办大会的核心目的，要抛出的核心议题，并不是商业媒体和科技媒体所津津乐道的互联网产业、“互联网＋”战略、互联网金融、智能制造、初创企业等等。</p>
+<p>世界互联网大会的核心在于两个字：外交。其他一切都是为了这两个字服务。</p>
+<p><strong>会议召开前夜的另一场胜利</strong></p>
+<p>去年11月，首届世界互联网大会在乌镇举办时，习近平曾发去贺词。今年，习本人亲自出席并发表了主旨演讲，表明其对大会的重视程度有增无减。</p>
+<p><a href="http://www.wicwuzhen.cn/system/2015/12/16/020955518.shtml">习近平演讲的主体内容</a>是“推进全球互联网治理体系变革”的“四项原则”和“五点主张”，这也正是世界互联网大会的核心主旨。中国政府希望在全世界推广一种新的网络治理理念，这种理念的第一要义是“尊重网络主权”。具体而言，也就是“尊重各国自主选择网络发展道路、网络管理模式、互联网公共政策和平等参与国际网络空间治理的权利，不搞网络霸权，不干涉他国内政”。</p>
+<p>不出意外的，此次互联网大会最重要的座上宾之一、俄罗斯总理梅德韦杰夫在发言中呼应了习近平的主张。</p>
+<p>中俄两国在推广这一治理理念方面是紧密的伙伴。巧合的是，就在第二届世界互联网大会召开的前一天，中俄及其他一些盟友国家在另一场重要的互联网治理国际会议中取得了相当程度的外交胜利。</p>
+<p>12月16日，“信息社会世界峰会成果落实十年审查进程高级别会议（WSIS+10）”在纽约联合国总部落幕。顾名思义，这次会议的主要任务是全面审查十年前召开的联合国信息社会世界峰会（WSIS）成果落实工作。会议的审议结果虽然没有强制约束力，但它作为重要的联合国文件，对于世界互联网治理体系的未来发展具备相当大的影响力。</p>
+<p>中俄等国在会议上的成功，是历经半年的会议协商、讨价还价后，成功在<a href="http://workspace.unpan.org/sites/Internet/Documents/UNPAN95735.pdf">最终发布的文件</a>中加入了“多边”（multilateral）一词。这个词曾在会议上引发西方一些国家政府、企业及公民社会团体的强烈反对。</p>
+<p>去年，巴西曾主办另一次重要的世界互联网治理会议：NetMundial，有来自近180个国家的代表参与。在那一次会议上，中国就力推“多边”这一概念。但是最终出台的决议中并未包含这个词，中、俄、伊朗、印度等国因此拒绝在决议上签字。</p>
+<p>这一次，在世界互联网大会的主旨演讲中，习近平也使用了“多边”这个词：“建立多边、民主、透明的全球互联网治理体系。”</p>
+<p>为什么这个词如此重要？为什么这个词的使用标志着中国推广互联网治理模式的外交努力取得初步胜利？</p>
+<p><strong>多边 VS 多利益相关方</strong></p>
+<p>在世界互联网治理体系中，与“多边”相对的一个词是“多利益相关方”（multi-stakeholder）。</p>
+<p>这两个看起来只有微小差别的词，意味着迥然不同的治理体系。</p>
+<p>“多利益相关方”模式目前为大多数西方民主国家所认同和接纳，它的核心理念是让和互联网利益相关的所有方面都坐在一起，以平等、开放、透明的方式共同商议互联网的发展。这些相关方包括各国政府、国际组织、企业、工程界、学术界、公民社会团体、普通网民等等，没有任何一方可以拥有绝对的主导权。也因此，一些人将其称之为“分散／分布式”（distributed）的治理模式。</p>
+<p>与之相反，“多边”模式的核心则是由各国政府主导决策。各国可以对互联网治理模式作出各不相同的决定，并且互相不得干涉。美国顶尖智库<a href="http://www.brookings.edu/%5C~/media/research/files/reports/2015/07/internet-governance-brazil-us/usbrazil-global-internet-governance-web-final.pdf">布鲁金斯学会的报告</a>称，这种模式虽然也允许各方参与，但却给予了政府更多的特权。用<a href="http://www.nytimes.com/2015/12/17/technology/china-wins-battle-with-un-over-word-in-internet-control-document.html">纽约时报的话</a>来说，“多边的言下之意就是政府制定规则。”</p>
+<p>从两届世界互联网大会的嘉宾构成中，我们大概可以看出多边模式的影子：政府绝对主导，同时邀请对华友好的国外政要、商界大佬，以及有选择性地邀请学界和科技界领军人物，再找一些中外大学生来凑个热闹。至于公民社会团体，则根本不在考虑范围内。</p>
+<p>这两种模式分别会带来怎样的后果？举例来说，如果“多利益相关方”模式真的得到了很好的执行，那么美国NSA的大规模监听行为很可能就不会发生了，因为其他利益相关方都可以平等地对其进行监督，他国政府和国际组织可以向美国施加强大压力，企业可以拒绝配合政府的要求，公民社会团体可以持续发声和行动。而如果“多边”模式得以实行，那么NSA式的监听可能会更加肆无忌惮，因为政府在网络治理中享有了主导地位，公民社会团体和普通消费者处于劣势地位，而他国政府和国际组织又无权置喙。</p>
+<p>值得一提的是，现行的联合国体系，从本质上来说就是一种“多边”外交模式。《联合国宪章》中提出的基本原则包括主权平等、不得干涉他国内政等。也因此，宪章被中国政府频繁征引，作为支持互联网多边治理体系的重要论据。在这次互联网大会的主旨发言中，习近平就明确提出：“《联合国宪章》的原则和精神也应适用于网络空间。”</p>
+<p><strong>“第二届第三世界互联网大会”</strong></p>
+<p>为推广多边治理模式，中国政府不仅在联合国及其他国家组织的世界性会议上不遗余力地开展外交行动，同时也在本土创造了外交主场，那就是世界互联网大会。</p>
+<p>在对这次会议的讨论中，有人揶揄：虽然来了不少国家政要，但看起来都是来讨要经济援助的。有人创造了段子：“首先热烈祝贺第二届世界互联网大会开幕，这次规格够高，习大大都出席了！不过我看来看去，总觉得好像标题错了，经过反复对比资料，才知道原来漏了两个字—第三！应该是第二届第三世界互联网大会开幕。来中国的那几位某某斯坦就够我恶补地理的了，NND，中国一定要强大，以后发达国家开会咱也不去。”</p>
+<p>的确，<a href="http://www.dtcj.com/news/5670cbd5695a3262b2070f00">DT财经</a>做了个统计，以12月2日国际电信联盟发布的《2015年衡量信息社会发展报告》衡量，参加世界互联网大会的主要国家中，只有8个互联网水平高于全球均值。</p>
+<p>这固然说明大多数西方发达国家对中国的多边方案不买账，但另一方面也体现了中国一以贯之的外交策略：团结那些渴求经济援助，或是对西方民主深深疑虑的第三世界国家。中国网民创造的另一则段子将其生动描绘为：买高铁送防火墙。</p>
+<p>根据纽约时报的报道，中国在WSIS+10的外交胜利，就在一定程度上依托于这种联盟。现在已经有134个国家的所谓“77国集团”在谈判中力挺多边模式。</p>
+<p>习近平在演讲中说，“现有网络空间治理规则难以反映大多数国家意愿和利益”。谁是这里的“大多数国家”，显而易见。</p>
+<p>官方学者也不遗余力地赞美中国的外交努力。中国人民大学国际事务研究所所长王义桅就在<a href="http://theory.people.com.cn/n1/2015/1217/c49154-27939710.html">人民日报海外版撰文</a>说：习近平提出的四项原则，“让人想起万隆会议上中国提出的和平共处五项原则。一个是今天，一个是60年前，一个是针对虚拟世界，一个是针对现实世界，一个四项原则，一个五项原则，都强调尊重彼此主权、和平共处，都旨在建立公正合理的国际秩序。互联网治理的四项原则，使人类互联网治理理念迈向崭新的高度，有望成为互联网世界秩序的定海神针。”</p>
+<p>将互联网大会和万隆会议相提并论，不能说完全没有道理。万隆会议的背景是二战之后此起彼伏的民族独立运动，而世界互联网大会的背景则是第三世界国家的互联网渗透率蹿升，成为新增上网人口的最主要来源。万隆会议针对的是殖民主义、美苏霸权，而今天的互联网由于历史原因，也确实依然是由美国主导。</p>
+<p>但两者之间也存在非常明显而重要的差别。今天的美国在互联网上并不具备六十年前的霸权地位，殖民主义更是无从谈起，冷战也早已结束。相比之下，今日中国的地位则要比万隆会议时提升了许多。它早已不是那个尚显羸弱、急切希望融入世界的初生政权，而是一个经济崛起、政治上跃跃欲试的大国。一个例子是，现任国际电信联盟秘书长的就是中国人赵厚麟，他的当选自然有政府的功劳，而他在这一位置上也势必将为中国推广多边模式的外交努力起到极大的助推作用。</p>
+<p>更重要的是，万隆会议因其反抗殖民主义、帝国主义，支持民族解放和独立的积极意义，曾经获得西方社会的同情和支持。而今天的世界互联网大会，反抗的和支持的又是什么呢？</p>
+<p><strong>（方可成，美国宾夕法尼亚大学在读博士、原《南方周末》记者，著有《中国人民的老朋友》）</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%96%B9%E5%8F%AF%E6%88%90%EF%BC%9A%E5%A4%96%E4%BA%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E5%8F%AF%E6%88%90/?category=18271" rel="tag">方可成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422284/" target="cdt-mirror">三表龙门阵 | Fenng：马云的一块红布</a>
+</h2>
+<p><p>这次乌镇世界互联网大会，马云展示给外界的花絮并不多，但在唯一一次主题讲话中，他有一段话的能量还是超越了周鸿祎的手机、刘强东的0号西装、丁磊的猪肉加起来的总和。</p>
+<p>在回答「中国互联网是否监管太紧」时，他是这么说的：「不管怎么样，这个国家管出了七亿互联网用户，管出了BAT，管出了无数的创新，还是有很多东西值得我们学习和反思的。」</p>
+<p>听完这段话，我觉得成龙比李连杰更有资格成为马云的知心好友。因为前者几年前也有一段惊世之语：「有自由好还是没有自由好，真的我现在已经混乱了。太自由了，就变成像香港现在这个样子，很乱；而且变成台湾这个样子，也很乱；我慢慢觉得，我们中国人是需要管的。」</p>
+<p>成龙的瓜瓤无疑是红彤彤的，近年来也成为我国软实力形象工程对外的一块招牌。现在马云头蒙一块红布，追上来了。事实一次又一次证明马云的言论一旦趟过他熟悉的商业鸡汤范畴就会暴露其既得利益者的XX嘴脸。</p>
+<p>权力与资本的结合正反生强烈的化学反应。上一次《南华早报》发表了马云对于某敏感事件的不经之论，现在这份百年老报已被收纳，而马云这副瘦弱的躯体恐怕将更多担负起传话筒、扩音器的效用。</p>
+<p>马云内心真的拥抱监管吗？去年3月22日，工、农、中、建四大「国有」银行相继下调支付宝快捷支付的最高限额，马云愤而在「来往」上发布题为《支付宝，请扛住！》的文章：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/85d8ce590ad8981ca2c8286f79f59954.4.jpg" alt="85d8ce590ad8981ca2c8286f79f59954.4" width="440" height="957" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/85d8ce590ad8981ca2c8286f79f59954.4-138x300.jpg 138w, http://chinadigitaltimes.net/chinese/files/2015/12/85d8ce590ad8981ca2c8286f79f59954.4.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>去年马郎，一个多么威武不屈、坚贞强硬的姿态啊。21个月的时间思想转变如此之大，非误入传销魔窟不能也。只能说屁股决定脑袋，马云的屁股知道坐在哪最稳当，也就知道说什么话收益最大，商人这点算计还不知道吗？马云又不是个一般的商人。</p>
+<p>一句「不管怎么样」是智力的偷懒，也是公共发声上的油滑。成就不能抹消罪恶，一俊难遮白丑，秦始皇统一度量衡立下不世之功，亦有「焚毁五经、活埋儒士」的不堪之举。BAT是管出来的？你代表阿里可以表此忠心，牵扯BT何故呢？监管若真是灵丹妙药，为何没有成批量复制出李彦宏、马化腾？</p>
+<p>总理今年在一次座谈会上说：我们总习惯说，要「加强监管」。但事实上，很多监管是不需要、也不应该的。我们过去管了很多不该管的事情；我们资金贵的一大原因，就是‘管’得太多了；政府不要总给市场「发号施令」。</p>
+<p>由此看来，马云同志还是要提高自己的姿势水平。许知远有过一段妙论：「公共价值虚无主义或多或少影响了他们。当他们获得了巨大的财富，却很难把它转变成更广泛的社会进步力量。这也是马云这一代巨头所代表的商业成功的脆弱一面。」</p>
+<p>或许一探中国互联网风云人物的底裤，都是红彤彤、潮乎乎的，但只有马云内裤外穿，感觉自己像个超人。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422284/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87/?category=18271" rel="tag">乌镇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%BD%E8%B0%88%E9%A3%9E%E7%9A%84%E5%8D%9A%E5%AE%A2-%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%EF%BC%9A%E4%B8%80%E6%9E%9A%E5%BC%B1%E6%B0%91%E5%BC%B1%E5%9B%BD%E7%9A%84%E6%8A%A4%E8%BA%AB%E7%AC%A6/" target="cdt-mirror">羽谈飞的博客 | 网络主权：一枚弱民弱国的护身符</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44.jpg" alt="2015-12-16 14.28.44" width="302" height="260" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44-300x258.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44-768x661.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/2015-12-16-14.28.44.jpg 800w" sizes="(max-width: 302px) 100vw, 302px"></p>
@@ -112,7 +241,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9B%E4%BA%A5%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">辛亥革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E4%B8%96%E5%87%AF/?category=18271" rel="tag">袁世凯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%88%B6/?category=18271" rel="tag">帝制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E5%AE%AA%E5%B8%9D%E5%88%B6/?category=18271" rel="tag">洪宪帝制</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%9F%A5%E4%B9%8E-%E3%80%8C%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5%E3%80%8D%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%EF%BC%9F/" target="cdt-mirror">知乎 |「你也配姓赵」到底是什么意思？</a>
 </h2>
@@ -598,68 +727,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-124/" target="cdt-mirror">【河蟹档案】是万国来朝，还是一出丐帮帮主加冕喜剧？</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8D%A3%E5%89%912001">荣剑2001</a>：以前不知道Facebook在哪里，是一本什么书，原来就在中国的乌镇。中国现在要建网络强国了。//*<a href="https://freeweibo.com/weibo/%40%E7%A8%8B%E7%AB%8B%E6%BE%9C">程立澜</a>：在局域网内开互联网大会，告诫互联网要尊重局域网规则。<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-6.jpg" alt="333" width="449" height="800"><br><a href="https://freeweibo.com/weibo/3920616366929336" target="/weibo/392">2015年12月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BA%94%E9%9D%92%E6%A1%90">应青桐</a>：[万国来朝很容易把它演成一出丐帮帮主加冕喜剧]  <em>相关阅读｜《<a href="https://botanwang.com/articles/201512/%E5%9B%BE%E7%A4%BA%EF%BC%9A%E5%8F%82%E5%8A%A0%E4%B8%AD%E5%9B%BD%E2%80%9C%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E2%80%9D%E7%9A%84%E5%9B%BD%E5%AE%B6%E9%A6%96%E8%84%91.html">博谈网｜图示：参加中国“世界互联网大会”的国家首脑</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-11.jpg" alt="333" width="475" height="425" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-11-300x269.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-11.jpg 640w" sizes="(max-width: 475px) 100vw, 475px"><br><a href="https://freeweibo.com/weibo/3920963403770371" target="/weibo/392">2015年12月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A8%E5%85%83%E5%BA%86">杨元庆</a>：晚上的乌镇互联网峰会。大家品尝了丁磊自己养的猪肉，螃蟹，绍兴黄酒。马化腾最能喝最能劝酒。张磊和张朝阳<a href="https://freeweibo.com/weibo/%40%E6%90%9C%E7%8B%90charles">@搜狐charles</a> 大谈养身之道。<a href="https://freeweibo.com/weibo/%40%E6%9B%B9%E5%9B%BD%E4%BC%9F">@曹国伟</a> 揭密他当年如何错失雅虎（杨致远）[笑哈哈]  <a href="https://freeweibo.com/weibo/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A">#世界互联网大会#</a>  <em><em>相关阅读｜《<a href="http://news.sina.com.cn/c/nd/2015-12-17/doc-ifxmttcq1724839.shtml">朱镕基之子朱云来现身大陆互联网大佬饭局</a>》；《<a href="https://zh.wikipedia.org/wiki/%E6%9C%B1%E4%BA%91%E6%9D%A5">维基百科｜朱云来</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-10.jpg" alt="333" width="618" height="347" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-10-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-10-768x432.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/333-10-1024x576.jpg 1024w" sizes="(max-width: 618px) 100vw, 618px"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-14.jpg" alt="333" width="585" height="364" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-14-300x187.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-14.jpg 550w" sizes="(max-width: 585px) 100vw, 585px"><br><em>照片最右侧为朱云来 （图片来源：“政事儿” ，微信ID：gcxxjgzh）</em><br><a href="https://freeweibo.com/weibo/3920834530315524" target="/weibo/392">2015年12月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E9%97%AA%E5%A8%83">文闪娃</a>：環球時報 [继续舔]<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-13.jpg" alt="333" width="389" height="690" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-13-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/333-13-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2015/12/333-13.jpg 640w" sizes="(max-width: 389px) 100vw, 389px"><br><a href="https://freeweibo.com/weibo/3920679394654749" target="/weibo/392">2015年12月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%E4%B9%8B%E6%84%88%E6%8C%AB%E6%84%88%E5%8B%87">笑傲江湖之愈挫愈勇</a>：没有转发键，只好截图！<em><em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/pu-1-12162015083013.html">自由亚洲<em><em>｜</em></em>声援浦志强20多人被抓 数人仍被扣</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-7.jpg" alt="333" width="467" height="830"><br><a href="https://freeweibo.com/weibo/3920418525956236" target="/weibo/392">2015年12月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9">作家崔成浩</a>：国际油价跌破40美元，你们的油价不接轨了。理由是尾气是雾霾重要成因，抑制石油消费，改善空气质量。我不明白，夏天也是那么多车，怎么没有雾霾？如果说雾霾因为车太多造成，美国的车更多，日本的车密度更大，他们怎么就没那么多雾霾？冬季取暖烧低质煤，再用高油价来治雾霾，这是我听过最好笑的笑话。<em><em>相关阅读｜</em>《<a href="http://energy.people.com.cn/n1/2015/1218/c71661-27946241.html">人民网社评：如何看发改委缓降油价风波</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-8.jpg" alt="333" width="447" height="405" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-8-300x272.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-8-768x697.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/333-8-1024x929.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/333-8.jpg 1242w" sizes="(max-width: 447px) 100vw, 447px"><br><a href="https://freeweibo.com/weibo/3920401463677367" target="/weibo/392">2015年12月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%87%A4%E5%87%B0%E5%91%A8%E5%88%8A">凤凰周刊</a>：【脱北者网站：朝鲜逮捕百名华侨 中国大使被跟踪】由脱北者经营的“每日朝鲜”（Daily NK）引述消息人士称，朝鲜当局以间谍罪名逮捕了大约100名华侨，被拘人士正在接受朝鲜国家安全保卫部的问话。中国驻朝鲜大使据报也被跟踪调查。<em><em>相关阅读｜</em>《<a href="http://www.nanzao.com/sc/international/151a3cb5356300d/tuo-bei-zhe-wang-zhan-zhao-xian-dai-bu-bai-ming-hua-qiao-zhong-guo-da-shi-bei-gen-zong">南华早报｜脱北者网站：朝鲜逮捕百名华侨 中国大使被跟踪</a>》；《<a href="https://zh.wikipedia.org/wiki/%E5%88%98%E4%BA%91%E5%B1%B1">维基百科<em><em>｜刘云山</em></em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-9.jpg" alt='"/' width="377" height="264"><br><a href="https://freeweibo.com/weibo/3920332567893453" target="/weibo/392">2015年12月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%B7%AB%E4%B8%80%E8%A7%82">巫一观</a>：【中国82岁作家铁流指称警方酷刑折磨】 <em><em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/torture-12152015082355.html">自由亚洲<em><em>｜</em></em>铁流缓刑期突发声 揭看守所折磨内幕</a>》；《<a href="https://zh.wikipedia.org/wiki/%E9%93%81%E6%B5%81">维基百科<em><em>｜铁流</em></em></a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-12.jpg" alt="333" width="367" height="3565"><br><a href="https://freeweibo.com/weibo/3920788069186454" target="/weibo/392">2015年12月16日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-124/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E9%95%95%E5%9F%BA/?category=18271" rel="tag">朱镕基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中朝关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B9%E4%BB%B7/?category=18271" rel="tag">油价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B1%E5%8C%97%E8%80%85/?category=18271" rel="tag">脱北者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E6%B5%81/?category=18271" rel="tag">铁流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A/?category=18271" rel="tag">舔菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A3%B0%E6%8F%B4%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">声援浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E5%9B%BD%E6%9D%A5%E6%9C%9D/?category=18271" rel="tag">万国来朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%90%E5%B8%AE%E5%B8%AE%E4%B8%BB/?category=18271" rel="tag">丐帮帮主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A/?category=18271" rel="tag">第二届</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99/?category=18271" rel="tag">游戏规则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%89%B9%E4%BE%9B/?category=18271" rel="tag">互联网特供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BD%AC%E9%A5%AD%E5%B1%80/?category=18271" rel="tag">互联网大佬饭局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%85%83%E5%BA%86/?category=18271" rel="tag">杨元庆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%A0/?category=18271" rel="tag">张占</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-124/" target="cdt-mirror">【河蟹档案】互联网大会是万国来朝，还是丐帮帮主加冕喜剧？</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8D%A3%E5%89%912001">荣剑2001</a>：以前不知道Facebook在哪里，是一本什么书，原来就在中国的乌镇。中国现在要建网络强国了。//*<a href="https://freeweibo.com/weibo/%40%E7%A8%8B%E7%AB%8B%E6%BE%9C">程立澜</a>：在局域网内开互联网大会，告诫互联网要尊重局域网规则。<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-6.jpg" alt="333" width="449" height="800"><br><a href="https://freeweibo.com/weibo/3920616366929336" target="/weibo/392">2015年12月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BA%94%E9%9D%92%E6%A1%90">应青桐</a>：[万国来朝很容易把它演成一出丐帮帮主加冕喜剧]  <em>相关阅读｜《<a href="https://botanwang.com/articles/201512/%E5%9B%BE%E7%A4%BA%EF%BC%9A%E5%8F%82%E5%8A%A0%E4%B8%AD%E5%9B%BD%E2%80%9C%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E2%80%9D%E7%9A%84%E5%9B%BD%E5%AE%B6%E9%A6%96%E8%84%91.html">博谈网｜图示：参加中国“世界互联网大会”的国家首脑</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-11.jpg" alt="333" width="475" height="425" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-11-300x269.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-11.jpg 640w" sizes="(max-width: 475px) 100vw, 475px"><br><a href="https://freeweibo.com/weibo/3920963403770371" target="/weibo/392">2015年12月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A8%E5%85%83%E5%BA%86">杨元庆</a>：晚上的乌镇互联网峰会。大家品尝了丁磊自己养的猪肉，螃蟹，绍兴黄酒。马化腾最能喝最能劝酒。张磊和张朝阳<a href="https://freeweibo.com/weibo/%40%E6%90%9C%E7%8B%90charles">@搜狐charles</a> 大谈养身之道。<a href="https://freeweibo.com/weibo/%40%E6%9B%B9%E5%9B%BD%E4%BC%9F">@曹国伟</a> 揭密他当年如何错失雅虎（杨致远）[笑哈哈]  <a href="https://freeweibo.com/weibo/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A">#世界互联网大会#</a>  <em><em>相关阅读｜《<a href="http://news.sina.com.cn/c/nd/2015-12-17/doc-ifxmttcq1724839.shtml">朱镕基之子朱云来现身大陆互联网大佬饭局</a>》；《<a href="https://zh.wikipedia.org/wiki/%E6%9C%B1%E4%BA%91%E6%9D%A5">维基百科｜朱云来</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-10.jpg" alt="333" width="618" height="347" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-10-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-10-768x432.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/333-10-1024x576.jpg 1024w" sizes="(max-width: 618px) 100vw, 618px"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-14.jpg" alt="333" width="585" height="364" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-14-300x187.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-14.jpg 550w" sizes="(max-width: 585px) 100vw, 585px"><br><em>照片最右侧为朱云来 （图片来源：“政事儿” ，微信ID：gcxxjgzh）</em><br><a href="https://freeweibo.com/weibo/3920834530315524" target="/weibo/392">2015年12月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E9%97%AA%E5%A8%83">文闪娃</a>：環球時報 [继续舔]<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-13.jpg" alt="333" width="389" height="690" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-13-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/333-13-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2015/12/333-13.jpg 640w" sizes="(max-width: 389px) 100vw, 389px"><br><a href="https://freeweibo.com/weibo/3920679394654749" target="/weibo/392">2015年12月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%E4%B9%8B%E6%84%88%E6%8C%AB%E6%84%88%E5%8B%87">笑傲江湖之愈挫愈勇</a>：没有转发键，只好截图！<em><em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/pu-1-12162015083013.html">自由亚洲<em><em>｜</em></em>声援浦志强20多人被抓 数人仍被扣</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-7.jpg" alt="333" width="467" height="830"><br><a href="https://freeweibo.com/weibo/3920418525956236" target="/weibo/392">2015年12月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9">作家崔成浩</a>：国际油价跌破40美元，你们的油价不接轨了。理由是尾气是雾霾重要成因，抑制石油消费，改善空气质量。我不明白，夏天也是那么多车，怎么没有雾霾？如果说雾霾因为车太多造成，美国的车更多，日本的车密度更大，他们怎么就没那么多雾霾？冬季取暖烧低质煤，再用高油价来治雾霾，这是我听过最好笑的笑话。<em><em>相关阅读｜</em>《<a href="http://energy.people.com.cn/n1/2015/1218/c71661-27946241.html">人民网社评：如何看发改委缓降油价风波</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-8.jpg" alt="333" width="447" height="405" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-8-300x272.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-8-768x697.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/333-8-1024x929.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/333-8.jpg 1242w" sizes="(max-width: 447px) 100vw, 447px"><br><a href="https://freeweibo.com/weibo/3920401463677367" target="/weibo/392">2015年12月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%87%A4%E5%87%B0%E5%91%A8%E5%88%8A">凤凰周刊</a>：【脱北者网站：朝鲜逮捕百名华侨 中国大使被跟踪】由脱北者经营的“每日朝鲜”（Daily NK）引述消息人士称，朝鲜当局以间谍罪名逮捕了大约100名华侨，被拘人士正在接受朝鲜国家安全保卫部的问话。中国驻朝鲜大使据报也被跟踪调查。<em><em>相关阅读｜</em>《<a href="http://www.nanzao.com/sc/international/151a3cb5356300d/tuo-bei-zhe-wang-zhan-zhao-xian-dai-bu-bai-ming-hua-qiao-zhong-guo-da-shi-bei-gen-zong">南华早报｜脱北者网站：朝鲜逮捕百名华侨 中国大使被跟踪</a>》；《<a href="https://zh.wikipedia.org/wiki/%E5%88%98%E4%BA%91%E5%B1%B1">维基百科<em><em>｜刘云山</em></em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-9.jpg" alt='"/' width="377" height="264"><br><a href="https://freeweibo.com/weibo/3920332567893453" target="/weibo/392">2015年12月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%B7%AB%E4%B8%80%E8%A7%82">巫一观</a>：【中国82岁作家铁流指称警方酷刑折磨】 <em><em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/torture-12152015082355.html">自由亚洲<em><em>｜</em></em>铁流缓刑期突发声 揭看守所折磨内幕</a>》；《<a href="https://zh.wikipedia.org/wiki/%E9%93%81%E6%B5%81">维基百科<em><em>｜铁流</em></em></a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-12.jpg" alt="333" width="367" height="3565"><br><a href="https://freeweibo.com/weibo/3920788069186454" target="/weibo/392">2015年12月16日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-124/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D/?category=18271" rel="tag">间谍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E9%95%95%E5%9F%BA/?category=18271" rel="tag">朱镕基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中朝关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B9%E4%BB%B7/?category=18271" rel="tag">油价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B1%E5%8C%97%E8%80%85/?category=18271" rel="tag">脱北者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E6%B5%81/?category=18271" rel="tag">铁流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90/?category=18271" rel="tag">包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A/?category=18271" rel="tag">舔菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A3%B0%E6%8F%B4%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">声援浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E5%9B%BD%E6%9D%A5%E6%9C%9D/?category=18271" rel="tag">万国来朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%90%E5%B8%AE%E5%B8%AE%E4%B8%BB/?category=18271" rel="tag">丐帮帮主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A/?category=18271" rel="tag">第二届</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99/?category=18271" rel="tag">游戏规则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%89%B9%E4%BE%9B/?category=18271" rel="tag">互联网特供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BD%AC%E9%A5%AD%E5%B1%80/?category=18271" rel="tag">互联网大佬饭局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%85%83%E5%BA%86/?category=18271" rel="tag">杨元庆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%A0/?category=18271" rel="tag">张占</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E7%85%A4%E7%9F%BF%E8%A3%81%E5%91%98%E5%8A%A0%E5%89%A7%E7%A4%BE%E4%BC%9A%E5%8A%A8%E8%8D%A1%E9%9A%90%E5%BF%A7/" target="cdt-mirror">自由亚洲｜中国煤矿裁员加剧社会动荡隐忧</a>
-</h2>
-<p><p>中国经济持续放缓，导致包括煤炭在内的矿产品价格大幅下跌。美国《纽约时报》近日的报道介绍了中国黑龙江鹤岗市煤矿将大幅裁员，对煤矿工人生活造成极大影响的情况。有专家表示，经济增长放缓，将带来一系列影响中国社会稳定的问题。</p>
-<p>美国《纽约时报》中文网12月17日发表题为“中国煤矿工业衰落，大幅裁员加剧社会动荡隐忧”的报道采访了多名中国煤矿工人，分析了目前中国煤矿企业的困境 以及带给工人的困扰。黑龙江省龙煤集团下属企业有员工20多万人，是目前中国雇佣员工较多的国有企业。龙煤集团去年开始陷入亏损，由于难以归还债务，黑龙江省政府近期拨出37亿人民币补贴，但仍然难以维持企业正常运作。龙煤集团计划大幅度裁减10万名下属煤矿的员工，导致已经无法拿到足额工资的工人人心浮动。报道引述一些专家的话说，龙煤集团早就应该进行技术升级，裁减工人，但当局却因为担心引发社会不稳定而拖延。</p>
-<p>美国南卡州立大学教授谢田就此表示，过去十多年中国经济的发展，很大程度上依赖过度投资，一旦经济放缓，很多行业立即面临产能过剩、价格下跌的问题，</p>
-<p>“中国煤炭行业过去二十年经历了最好的年景，很多私人煤老板都发了大财。但因为过度投资，以粗放型和劳动密集型产业为主的这些投资，现在已经到头了。所以中国面临产能过剩的问题，包括煤矿在内就会遇到很大问题。”</p>
-<p>报道说，中国煤炭价格过去一年多下跌了60%以上，导致中国煤矿企业步履维艰。在美国的中国问题评论人士李洪宽认为，中共山西省和东北地区的煤矿经过多年的开采，地下煤矿储藏越来越少，挖掘起来也越来越困难，原来人海战术的开采方法已经无法持续，</p>
-<p>“有些矿因为开采了很多年，好挖的都挖光了，用以前那种人海战术、王进喜精神就不行了。需要进行技术升级，所以都要裁员。”</p>
-<p>黑龙江鹤岗的煤矿从上世纪初开始开采，到现在已经有100年历史。中国的另一个“煤都”，辽宁省抚顺的情况也非常类似。经过近百年的大规模开采，抚顺煤炭年产量目前只有高峰时期的百分之二十左右。大量和煤矿相关的企业关闭，年青人到外地寻找工作，造成该市人口不断下降。</p>
-<p>报道说，黑龙江鹤岗的一些煤矿工人计划发起抗议行动，但被当地警方阻止，不少组织者被拘捕，但并不能压制工人中急剧上升的不满情绪。</p>
-<p>谢教授表示，中国经济放缓，必将带来诸多的社会稳定问题，</p>
-<p>“象龙煤这种企业，大规模裁员，几万十几万下岗，那确实会出现问题。可能会采取武力镇压，但当局也知道这个不管用。”</p>
-<p>《纽约时报》的报道分析说，中国共产党的权力能否持久，总是和它是否能持续带来经济增长相关联，只要生活水平继续上升，工人就会默许共产党独揽大权，放弃组织工会或进行抗议的权利。但如果工人认为政府无法兑现它的承诺，这种约定就有可能解除。</p>
-<p>李洪宽分析说，这正是中国政府必须以高速度发展经济的原因，但目前中国当局面临无法摆脱的经济放缓趋势，</p>
-<p>“工人运动那边有传统，人口密集，工人也多，所以一旦出现某种产业衰退，很多人工作不保，那社会真的很容易出问题。”</p>
-<p>中国东北三省曾经是中国经济最发达的重工业区之一，重工业产品在中国具有举足轻重的地位。但改革开放之后，重工业地位下降，东北经济一落千丈，很多工厂倒闭，大量工人失业。东北也被称为中国的工业生锈带。报道说，经济放缓的后果在黑龙江鹤岗的市面上相当明显，顾客寥寥的商铺挂着转让的牌子，各种犯罪案件不断上升，抢劫案增加，街道上的井盖失踪，妇女因害怕被抢而不再佩戴珠宝。一些工人表示，当地富的太富，穷的太穷。面临大幅度裁员，大家都提心吊胆，又没有其他出路，社会肯定要出乱子。</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E7%85%A4%E7%9F%BF%E8%A3%81%E5%91%98%E5%8A%A0%E5%89%A7%E7%A4%BE%E4%BC%9A%E5%8A%A8%E8%8D%A1%E9%9A%90%E5%BF%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -671,7 +738,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -681,5 +748,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

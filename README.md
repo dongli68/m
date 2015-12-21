@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B9%B2%E9%83%A8%E8%B7%91%E5%AE%98%E5%8E%9F%E5%A7%8B%E8%B5%84%E6%96%99/" target="cdt-mirror">太阳报｜中共干部跑官原始资料</a>
+</h2>
+<p><p>中共官场多年来流行「跑官」。其背后有数之不尽、手法层出不穷的「买官卖官」、「结党营私」、「团团伙伙」、「利益交换」，是中共党政军体制腐败丛生的「核心腐败」。这个现象大家早已司空见惯，认为要想走仕途、当官从政，必须学会「跑官」且「善于跑官」也。</p>
+<p>「跑官」的手法和说法五花八门，明暗交错，或直截了当，或迂回包抄。最「明明白白」的是直接把所谋的「官位」讲出来。最近浙江温州瓯海区旅游局党组成员、纪检组长冯伟同志就「明明白白」、一点儿不客气、很轻车熟路的向陈书记发了一则「跑官短讯」。可惜发错了「收信人」，被上网疯传，结果经调查属实，被停职检查。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/k5ppppppppppppppppppppp.jpg" alt="k5ppppppppppppppppppppp" width="351" height="250" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k5ppppppppppppppppppppp-300x214.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/k5ppppppppppppppppppppp.jpg 351w" sizes="(max-width: 351px) 100vw, 351px"></p>
+<p>这是一篇「我党历史」上干部「跑官」的原始资料，全文如下：【陈书记您好，本来不想打扰你，看来不打扰你又不行。今天发信息给你又要请您帮忙。这次纪委要下派，我不想下派，因为旅游局程立剑副局长马上退居二线，我想趁这次机会转岗为旅游局副局长，麻烦你跟叶部长和黄慧部长讲一下好吗？可能马上到位，时间很紧，谢谢关照。冯伟】</p>
+<p>这位陈书记应该是温州瓯海区党委书记。因为只有区党委书记才有权力「跟叶部长和黄慧部长讲一下」，从而让冯伟同志免于被区纪委「下派」，并「转岗为旅游局副局长」，而叶部长和黄慧部长应该是组织、人事部门的负责人，管「官帽子」的。</p>
+<p>冯伟发短讯「又要请您帮忙」，显示他和陈书记关系不一般，不止一次「跑官」或有其他「利益交换」。他早将陈书记「摆平」，陈也早视冯伟是自己人。冯伟是旅游局党组成员、纪检组长和副局长是同级，因而他说是「转岗位」。一般而言，官场中「转岗位」在同一单位内，比较容易。故无怪乎这样的「跑官」只发短讯「打扰」可也。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B9%B2%E9%83%A8%E8%B7%91%E5%AE%98%E5%8E%9F%E5%A7%8B%E8%B5%84%E6%96%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%9C%BA/?category=18271" rel="tag">官场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%9C%BA/?category=18271" rel="tag">中国官场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%9C%BA%E7%94%9F%E6%80%81/?category=18271" rel="tag">官场生态</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B7%B1%E5%9C%B3%E5%B7%A5%E4%B8%9A%E5%8C%BA%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB%E5%9F%8B%E7%96%91%E4%B8%BA%E4%BA%BA%E7%A5%B8/" target="cdt-mirror">端传媒 | 深圳工业区山泥倾泻埋疑为“人祸”</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-1024x683.jpg" alt="傍晚六时许，一名在灾区找寻失踪亲友的女家属因伤心过度而晕倒，由救护员扶往救护车治理。摄：端传媒摄影部" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>傍晚六时许，一名在灾区找寻失踪亲友的女家属因伤心过度而晕倒，由救护员扶往救护车治理。摄：端传媒摄影部</p></div>
@@ -688,35 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/422146/" target="cdt-mirror">PsyEyes｜唐映红：“中国模式”为什么会“成功”？（上）</a>
-</h2>
-<p><p>Q&A151217</p>
-<p><strong>问：“中国模式”为什么会“成功”？（上）</strong></p>
-<p>答：人类社会一直以来就有两种不同的组织和结构方式，一种是自下而上的，由个体以<strong>契约</strong>的方式而形成公权力以及行使公权力的机构；另一种是自上而下的，由掌握资源的少数以<strong>暴力</strong>的方式来形成公权力以及行使公权力的机构。如果抛开价值判断，<strong>这两种不同的社会机制其运转各有其心理学的基础</strong>。</p>
-<p><strong>契约社会维系的心理学基础是个体的认同</strong>。每个人或者大多数人认同所谓共同契约而形成某种形式的共同体。<strong>这种共同体就是“社会”。</strong>最少的共同体是两个人构成的群体，如婚姻；最大的共同体则是一个国家，它最多可以有数亿人。</p>
-<p>非契约社会缺乏个体自觉的认同作为基础，那么它必须要通过其他的方式来形成认同或者认同的替代品。比如，恐惧。<strong>传统的非契约社会是依靠暴力来维系共同体，通过暴力来控制成员的权利使其不得不顺从。非契约社会本质上是以顺从作为维系的基础。</strong></p>
-<p>从心理学角度，<strong>“认同</strong>”和“<strong>顺从</strong>”是两种不同的心理因素。不考虑这两种心理因素的价值判断，它们各有其优劣。<strong>依靠“认同”而构建的社会不用控制成员的权利</strong>，<strong>每个个体都能像马克思在《共产党宣言》中所说的那样“自由发展”；但大多数人的“认同”或共识一旦改变，公权力就必须重新组织和分配。</strong>当然，现代民主制度保障了契约社会<strong>有序地进行重新组织和分配</strong>。而<strong>依靠“顺从”而建立的社会就必须严厉地控制成员的权利，任何自由的东西都可能造成对“顺从”的抵触，所以必须严加控制。</strong>如果大多数人不“顺从”了，公权力机构为维护权威就必须<strong>加大控制的力度</strong>；一旦控制不住，就可能会以<strong>灾难性的破坏方式来重新组织和分配</strong>。</p>
-<p><strong>无论从政治学、经济学，还是社会学角度，中国的发展路径和国家、市场以及社会的组织方式都有别于以西方为代表的大多数其他国家。</strong>例如，按照西方经济学的理论来预测，中国的经济早就应该危机四伏，濒临崩溃，事实上却是欧、美经济前些年陆续陷入危机，中国经济反而<strong>看起来很美</strong>。传统的西方经济学理论无法合理地解释这个现象，只能把中国的经济称为“<strong>中国模式</strong>”，区别于西方社会的经济运行和发展，也有待经济学家来分析研究。再比如，从社会学和政治学角度，中国20多年前面临过大多数人拒绝“顺从”的危机，东欧、前苏联面临同样危机时都导致了国家和社会的解体、重组，而中国不仅没有出现同样的结果，反而从表面上看<strong>发展得越来越有自信</strong>。</p>
-<p>当然，“中国模式”是一个十分宏大的话题，要把维持“中国模式”的心理学基础讨论清楚，不是一、两篇问答所能完成的任务。今明两天只能浅略地稍微谈谈<strong>“中国模式”的心理学基础的几个关键点。</strong></p>
-<p>虽然两类不同的国家和社会组织模式维持的心理学基础不同，一为<strong>认同</strong>，二为<strong>顺从</strong>。但从心理学角度，<strong>认同和顺从是可以互相转化的。</strong>中国社会是建立在“<strong>顺从</strong>”基础上的，因为<strong>成员并没有一个表达“同意”并授权给公权力的过程</strong>；一旦公权力形成，成员是不能公开表示反对的。这跟诸如美国这样的社会不同，他们是建立在“契约”基础上的，无论谁掌握公权力，都必须有成员投票并授权的过程，总统如是，议员也如是；你不赞同大多数人授权结果，也可以公开表示反对。</p>
-<p>尽管人类的认同和顺从是两种不同的心理因素，但也并不是泾渭分明。<strong>认同的后果往往就是顺从</strong>，契约社会里，民众授权议会立法，议会立税法，政府来行使权力收税，民众就只能顺从。如果有民众很“认同”收税，那当然值得赞誉（像巴菲特那样，嚷嚷着“向我征税”），毕竟大多数民众哪怕你不情愿，也得纳税。这就是“顺从”。反过来，<strong>顺从的后果往往也就是认同</strong>。非契约社会里，哪怕你不情愿，少数人攫取了公权力并且凌驾于你之上，从认知失调理论的角度，<strong>你既然无力反抗，最大的可能就是改变态度，变得“认同”。</strong></p>
-<p>例如，多起跨文化的社会调查都反映出，<strong>中国民众对政府的认可和满意程度都相当高，甚至比大多数西方社会都高。</strong>（<em>可参考Q&A151209《社会调查发现中国民众不需要西式民主，结论可靠吗？》，点击“阅读原文”可直接跳转阅读。</em>）之所以会出现这样的结果，一方面固然反映了民众对权力集团的“<strong>认同</strong>”，但另一方面<strong>这种“认同”与契约社会的认同却有着云泥之别。</strong>由于具体的社会情境不同，两者事实上是不能简单对比的。举个例子，你能够在女邻居背后大肆地吐槽，对她品头论足；但当着她的面你还会这样评价吗？其间的差异就是情境不同。我们每个人的满意度往往是建立在社会比较基础上的，你只要比周围的其他人好，你就会觉得满意。在契约社会里面，因为资讯是自由传播的，民众对政府的任何瑕疵都了如指掌，所以满意度不会很高；而<strong>非契约社会里资讯的传播往往被控制、过滤，民众很难获取政府运作的真相，被获准传播的主旋律往往是文饰过的假象，民众当然很容易形成对政府的好印象。</strong></p>
-<p>不仅如此，契约社会里成员的社会认同是建立在自由选择的基础上；而<strong>非契约社会里的成员的社会认同却不能自由选择。</strong>对一个生活在不能自由选择的社会里的成员，他如果同时又对自身所处的状况不满意，这会令他感到<strong>失调，带来冲突感和焦虑感。</strong>为缓解焦虑，改变失调的状况，他最便捷的方式就是<strong>改变态度，认同所处的情境。</strong>而且，从管理心理学角度，人们对一个组织的<strong>满意和不满意其实是两回事</strong>，不能简单地认为满意度高不满意度就必然低，<strong>满意度高的同时也可能不满意度同样高，甚至更高。</strong></p>
-<p>一般来说，在传统的非契约社会里，随着资讯传播的越来越开放，民众获得的讯息也越来越多，往往会激发对权力集团越来越多的质疑。但“中国模式”相比于传统非契约社会在这点上却有所不同。表面上看，<strong>现时代民众获得的资讯远远超过10年前、20年前，但民众对政府的“认可”看起来却似乎越来越强烈，而不是相反。</strong>传统的非契约社会，无论是纳粹时期的德国、前苏联、现在的朝鲜，以及1978年之前的大陆中国，或者民国前的王朝中国，对资讯采用的方式都是<strong>从源头严格管制，禁止未被允许的资讯出现。</strong>例如，“焚书”是传统非契约社会的标识之一。但1992年之后，更准确地说是1998年之后，<strong>“中国模式”不再尝试从源头控制资讯，而是从公共传播的渠道进行钳制。</strong>随着互联网的发展，传统的资讯管制手段已经失效；而经济和市场的开放也必须要有限开放资讯，但伴随着经济和市场资讯传播的也必然夹杂着令公权力机构不悦的其他资讯。因此，<strong>近二十年来，“中国模式”探索，起码从表象上看成功地建立了一套对公共传播的渠道进行钳制的办法。</strong></p>
-<p>比如，<strong>将政府审查有效地转变成了全民审查。</strong>一方面，<strong>政府加大对资讯传播机构的压力和处罚力度，促使其履行严格的审查措施；普通网民或作者反而不会直接感受到来自公权力机构的直接压力。</strong>例如，对提供互联网空间的ISP商的政策是，只要租用其空间的任意网站有违规，整个机房就可能面临查封。要知道，一台服务器可能有数百甚至上千的小网站；而一个机房则有数十甚至上百台服务器托管。这种将审查压力下放到资讯传播机构的做法很有效，当“<strong>台独</strong>”被作为禁止谈论的敏感词时，“转让一<strong>台独</strong>立服务器”的无害讯息就可能导致整个网站，甚至服务器被查封。<strong>正是因为站方的审查压力，普通网民在发表言论时，就转化成网民的自我审查。</strong>对一个网文作者而言，他自己心中已经形成了一个自我审查的标准，哪些话题必须绕开不谈；哪些词必须避免应用或者转化后运用。所以，<strong>所谓的知识人阶层已经习惯了通过曲折、隐晦的方式来表达诉求或观点，反而对那些直抒心意的表达感到不适和不安。</strong></p>
-<p>从心理学角度，<strong>“中国模式”把政府审查转变为全民审查，反而取得了更好的效果。</strong>政府审查对个体而言那是一种被迫的压力。当我们被迫做某些事的时候，“被迫”就是我们做违心的事的正当理由，所以我们的态度无须转变。但<strong>自我审查的时候，个体就未必感受到被迫的压力，这时他们的态度就可能发生转变，认同审查的逻辑。</strong>所以，在中国互联网常常能观察到网民的抱怨，不是针对审查的抱怨，而是<strong>对那些违反审查的其他人的抱怨甚至指责、诋毁。</strong></p>
-<p>自我审查的效果包含了多种复杂的心理因素。其一是<strong>习得性无助</strong>。当你试图表达的资讯处处受到扼制，精心写作的文字却被删除，多次之后，你可能就放弃努力来摆脱审查。比如，早些年，你可能会测试到底哪个敏感词导致文字不能发表；后来你就放弃这种尝试；再后来你可能就不再去写这样的文字；最后你可能<strong>连思考也放弃了</strong>。<strong>当大多数人都认为不可能改变处境时，他们就要千方百计为处境辩护，使其合理化</strong>；<strong>即使什么时候可能通过努力可以改变处境时，他们已经习得性无助，不相信努力了。</strong>其二是<strong>认知启动效应</strong>。当你多次尝试突破都失败后，你可能就形成了自动的认知启动效应，只<strong>要一涉及到敏感的话题，你脑子就本能地激活了“这是不应该谈论”的念头</strong>。你谈自由被禁止，你再谈再被禁止，多次之后，别人一谈自由你就反应“<strong>应该被禁止</strong>”。</p>
-<p><strong>一旦将习得性无助和认知启动效应合理化以后，个体将认同不合理的压迫；他们甚至会倾向于认为那些一直不认同的其他人是“咎由自取”。</strong>特别地，当这种合理化后的认同与其他的既得利益结合在一起之，就会形成所谓的“<strong>合法性神话</strong>”（legitimizing myths)。<strong>他们不仅会为自己认同不合理的压迫合理化，而且还会为不合理的压迫本身辩护，认为就应当这样。</strong>也就是说，他们<strong>从受压迫者转变为压迫的维护者。</strong>尽管非契约社会都会出现类似的现象，但“中国模式”显然<strong>更加典型和普遍地使这种现象成为维系“中国模式”的重要心理学基础之一。</strong></p>
-<p>（明天继续谈通过普遍的既得利益来强化成员的认同感；以及通过扼制大众传播“结点”来阻止资讯的流通是“中国模式”得以维持和发展的另两条很重要的心理学基础。）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" rel="attachment wp-att-416940"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="350" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes-298x300.png 298w, http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png 427w" sizes="(max-width: 427px) 100vw, 427px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/422146/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -728,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -738,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

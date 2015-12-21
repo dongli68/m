@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%EF%BC%9A%E7%BB%8F%E6%B5%8E%E6%BB%91%E5%9D%A1%E7%9A%84%E9%A2%84%E5%85%86/" target="cdt-mirror">【习总日记】 山体滑坡：经济滑坡的预兆</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，12，20 ）</p>
+<p>一</p>
+<p>近悉，今天11时40分，广东深圳市光明新区凤凰社区恒泰裕工业园发生山体滑坡，附近西气东输管道发生爆炸，多人受伤失联。</p>
+<p>灾害发生后，我极其重视，瞬间作出重要指示，要求广东省、深圳市迅速组织力量开展抢险救援，第一时间抢救被困人员，尽最大努力减少人员伤亡，做好伤员救治、伤亡人员家属安抚等善后工作。注意科学施救，防止发生次生灾害。中央有关部门指导地方加强各类灾害和安全生产隐患排查，制定预案，加强预警及应急处置等工作，确保人民群众生命财产安全。</p>
+<p>得悉我为人民生命财产焦虑担忧，睡不着吃不下，百姓非常感动，网上赞颂者如过江之鲫，熙熙攘攘，数以千万计。这都是我应该做的。</p>
+<p>二</p>
+<p>近日美军B-52轰炸机误闯我领空。得到消息后我立即打电话给美国总统奥巴马说，以后注意就是，别责怪他们。当兵的不容易，压力山大，都是爹妈的宝贝疙瘩。</p>
+<p>奥巴马说，就这样算啦？误闯他国领空倒也罢了，偏偏误闯中国领空，太丢我脸了。等他们回来我一定好好教训。</p>
+<p>唉，美国鬼子就是太认真。这种事情，你不说我不说，抬抬手过去，就当没发生，该多好啊。</p>
+<p>三</p>
+<p>晚上看足球转播。</p>
+<p>在20日晚进行的世俱杯三、四名决赛中，广州恒大队在先进一球的情况下，被日本的广岛三箭队连入两球逆转。</p>
+<p>我当即作出重要指示，以后凡中国足球队遭遇日本队，先让队员观看有关南京大屠杀纪录片，进行爱国主义教育，激发斗志。要把对日本鬼子的仇恨，转化成足球场上爆发力。要把足球场当作抗日战场，要把足球输赢与抗日战争胜利结合起来。</p>
+<p>丽媛插嘴说有用吗？我说不管有用没用，进行爱国主义教育总没错。</p>
+<p>四</p>
+<p>近来雾霾越来越广，越来越频繁，越来越严重，笼罩帝都。在古代，由于愚昧无知，会相信那是老天示警，皇帝治国有误。还好现在科学普及，没有人会把天气异象与最高领导人言行联系起来。</p>
+<p>听说美帝在研发电动车，这样就没有汽车尾气排放问题了。我们要抓紧搞到电动车技术，用电动车替换汽车。</p>
+<p>五</p>
+<p>国企重组正在加紧进行。这次国企重组与朱镕基时代国企重组的性质相似，将决定今后经济发展的成功与否。重组以提高国企市场竞争力为主要方向。</p>
+<p>六</p>
+<p>解放军体制改革，以适应现代化战争需要。但是，作为中国特色，如何使解放军牢牢掌握在党的手里，听党中央指挥，服从军委主席命令，才是重中之重。毕竟，敌国入侵的可能性非常小。因此解放军最主要任务不是国防，而是防止和镇压内部叛乱。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%EF%BC%9A%E7%BB%8F%E6%B5%8E%E6%BB%91%E5%9D%A1%E7%9A%84%E9%A2%84%E5%85%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E6%81%92%E5%A4%A7/?category=18271" rel="tag">广州恒大</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%85%B1%E5%B9%B2%E9%83%A8%E8%B7%91%E5%AE%98%E5%8E%9F%E5%A7%8B%E8%B5%84%E6%96%99/" target="cdt-mirror">太阳报｜中共干部跑官原始资料</a>
 </h2>
 <p><p>中共官场多年来流行「跑官」。其背后有数之不尽、手法层出不穷的「买官卖官」、「结党营私」、「团团伙伙」、「利益交换」，是中共党政军体制腐败丛生的「核心腐败」。这个现象大家早已司空见惯，认为要想走仕途、当官从政，必须学会「跑官」且「善于跑官」也。</p>
@@ -678,34 +710,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%A8%B1%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%B7%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E7%9A%84%E6%A6%AE%E8%80%80%E8%88%87%E8%8B%A6%E9%9B%A3/" target="cdt-mirror">东网｜莫之許：浦志強命中注定的榮耀與苦難</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang.jpg" alt="puzhiqiang" width="400" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2013/12/puzhiqiang.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></p>
-<p>2015年12月14日，著名人權律師浦志強「尋釁滋事」和「煽動民族仇恨」案在北京市第二中級人民法院開庭。自2014年5月初浦志強被抓捕以來，此案廣受關注，開庭當日，美國、歐盟等多國外交官前往現場，宣讀聲明，多家國際媒體也前往採訪報道，期間，外交官和媒體記者均遇到粗暴對待。此外，庭外也聚集了大批的浦志強支持者，他們高呼「浦志強、無罪」的口號，有17人被現場帶走，幾天後，已知張占、王素娥、渠紅霞、冉崇碧等四人被刑事拘留，其他人則在拘押多時後或釋放，或仍滯留於馬家樓收容點。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46.jpg" alt="北京律师浦志强案件开庭，逾百公民到场声援，民众持标语并高呼”浦志强无罪”。（照片来自维权人士，拍摄日期2015年12月14日)" width="549" height="384" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46-300x210.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/f76eef3b-cdf6-43a3-9d9f-2de6ac6d8a46.jpg 622w" sizes="(max-width: 549px) 100vw, 549px"><p>北京律师浦志强案件开庭，逾百公民到场声援，民众持标语并高呼”浦志强无罪”。（照片来自维权人士，拍摄日期2015年12月14日)</p></div>
-<p>浦志強是大陸著名人權律師，1989年時，為中國政法大學研究生，積極參加學運，是第一批走入天安門絕食的中國政法大學13名學生之一，也是六‧四當天，最後撤離天安門廣場的學生之一，在此後25年的時間裏，堅持以自己的方式紀念六‧四，包括每年六‧四都會前往天安門廣場進行憑弔，2004年，六‧四的十五周年時，浦志強曾參與發起「八九一代關於六‧四問題的聲明」，2008年，浦志強也是《零八憲章》首批303名簽署人之一，此外，浦志強與劉曉波、張祖樺、張顯揚、江平、張思之……等異議人士或自由化人士保持著長期密切友好的關係，是大陸泛自由化群體中，或廣義上的異議人士當中活躍的一員。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA892.jpg" alt="浦志强892" width="192" height="262"></p>
-<p>與此同時，浦志強也以人權律師的社會角色而廣為人知。受胡平先生「論言論自由」一文的影響，浦志強對於言論自由有近乎信仰的堅持，自成為律師以來，很早就介入到了有關言論自由的訴訟案件之中，如余秋雨訴肖夏林案，以及原安徽臨泉縣縣委書記的張西德訴《中國農民調查》作者陳桂棣春桃夫婦案等，早在2005年，浦志強就與高智晟、郭飛雄、許志永、滕彪等人一道，入選了當年《亞洲周刊》的亞洲風雲人物，成為了當時方興未艾的維權運動中的一員，近年來，浦志強更先後介入了譚作人、艾未未等人的案件、重慶勞教系列案件、湖南唐慧勞教案等，依托新興的推特、微博等社交平台，和通過市場化媒體等傳播形式，浦志強獲得了廣泛的關注，除被多家媒體廣泛報道之外，更獲得了《中國新聞周刊》「影響中國2013年度法治人物」的榮譽，被看作是當代法治維權的領軍人物之一，同時也是最有影響力的人權律師。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2013/02/%E6%B5%A6%E5%BF%97%E5%BC%BA.jpg" alt="浦志强" width="413" height="598" srcset="http://chinadigitaltimes.net/chinese/files/2013/02/浦志强-207x300.jpg 207w, http://chinadigitaltimes.net/chinese/files/2013/02/浦志强.jpg 413w" sizes="(max-width: 413px) 100vw, 413px"></p>
-<p>近年來，浦志強參與了越來越多的人權案件，獲得了越來越大的影響力，與此同時，浦志強在網絡社交平台如新浪微博，從不隱晦自己的那段歷史，時不時會主動貼出一些當年遊行、絕食、示威的圖片，在一些市場化媒體的報道如《南方人物周刊》的封面故事「中堅浦志強」當中，也會以雖然曲筆，但很明確的指向提及那一年，浦志強當初參與學運和此後的長期堅持，也越來越為人所知，可以說，浦志強以其特有的作為、表達和個人魅力，以一己之力，重新將自己連同那段歷史帶回到了主流人群之中。六‧四以後，當局試圖通過經濟發展和時間的沖刷，最終將六‧四問題加以排除，為此保持了長達26年的持續高壓和隔離，因此，當局很難容忍浦志強日益增加的影響力。以區區七條微博構成兩條罪名的荒唐背後，很大程度上可以從這一點得到解釋。事實上，導致浦志強最終被抓捕的事件，恰恰就是十多人在家中所舉辦的「北京六四二十五周年研討會」。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA-1.jpg" alt="浦志强" width="284" height="177"></p>
-<p>此外，當局對於人權律師的警惕和防範也由來已久，2012年7月31日，《人民日報》海外版刊登中國現代國家關係研究院美國所所長袁鵬的文章，將維權律師、地下宗教、異見人士、網絡領袖、弱勢群體（如訪民）等總結為所謂的「新黑五類」，在當局的眼裏，維權律師既是維權事件的直接參與者，同時又是維權事件的傳播者和意義闡釋者，擔當著樞紐和節點的作用，只有通過維權律師，個案維權事件才能獲得更為廣泛的法律和政治意義，也只有律師，才能橫跨包含訪民、地下宗教、異議人士、網絡意見領袖在內的所有群體。與浦志強在2005年一同入選「亞洲風雲人物」的14人，此前就已有鄭恩寵、高智晟、許志永、郭飛雄、陳光誠等人先後被判刑入獄，其他人士也都遭遇到程度不等的打壓措施，或被迫流亡。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/05/puzhiqiangai.jpg" alt="puzhiqiangai" width="550" height="388" srcset="http://chinadigitaltimes.net/chinese/files/2015/05/puzhiqiangai-300x212.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/05/puzhiqiangai.jpg 700w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>在社交平台時代，更逐漸興起了包括浦志強本人在內的一批維權律師，或被稱之為死磕律師，頻繁介入一些敏感或爭議性權利案件，如山東平度強拆案等。在新的傳播手段和行動空間下，一種費用公募公用，線上線下聯動，各地跨區圍觀，正面抗爭表達的維權抗爭模式開始浮現，如山東曲阜薛明凱父親非正常死亡事件圍觀、建三江黑監獄圍觀，鄭州第三看守所圍觀、蘇州范木根案開庭圍觀等等，這種抗爭形式以法制維權和死磕律師為依托，以社交平台和即時通訊軟件為傳播手段，具有了更強的動員能力、傳播能力和持續能力，對於當局的剛性維穩模式造成了相當的衝擊，儘管浦志強本人並沒有直接參與所有這些案件，但是，作為最有影響力的人權律師，浦志強、斯偉江等人，早就被認為具有相當的危險性，2015年7月9日起，針對維權律師和相關積極分子的大規模打擊終於全面展開，在這次被稱為律師劫的打壓行動中，被刑拘／監視居住律師共12名，被刑拘／監視居住積極分子十多名，更有超過250名律師被短暫拘留、強制約談、傳喚，在這個意義上，提早一年就被抓捕的浦志強，可謂是這一輪打擊的先聲或預演。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2013/09/%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%BC%A0%E6%99%B6.jpeg" alt="浦志强张晶" width="549" height="411" srcset="http://chinadigitaltimes.net/chinese/files/2013/09/浦志强张晶-300x224.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2013/09/浦志强张晶.jpeg 622w" sizes="(max-width: 549px) 100vw, 549px"></p>
-<p>儘管如此，以七條微博入罪的浦志強「尋釁滋事」和「煽動民族仇恨」案，首先仍與言論自由這一浦志強本人最為關切的主題密切相關。在開庭前後，這一主題也最為國內外的媒體和公眾所關切，被廣泛認為是對當下中國言論自由程度的測試。在大陸的有限市場化過程中，市場化媒體、網絡輿論空間與新興社會階層或俗稱的中產階級的自由化傾向相結合，一種親自由化的話語獲得了越來越大的傳播和影響，尤其是在新興的微博平台上，不僅這一話語得到了更大的放大和傳播，也開始出現自由化知識分子、媒體從業人員、法律維權人士、NGO活動家、以及企業界人士以這一話語為中介的廣泛結合，並具有跨越地區隔閡、由線上走入線下的趨勢，這一輿論現象以及其所對應的社會可能，也引發了當局的警惕和防範，並迅速採取了各種壓制措施，從刪除網絡大v的賬號、到推行「七不講」，再到2013年的「清網行動」等等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%B5%A6%E5%BF%97%E5%BC%BA891.jpg" alt="浦志强891" width="260" height="194"></p>
-<p>作為法律人和表達者，浦志強在新興的社交平台上，也有著相當活躍的表現，既是諸多事件的積極參與者，同時也是自由化話語的持續表達者，其本人的微博個人說明為「美麗島律師、體制外大佬」雖不無自嘲，但並不誇張，其本人的賬號，就曾經經歷過數十次的被刪除和再「轉世」，此次在其身上適用的「尋釁滋事」罪名，援用的也正是2013年7月5日最高人民法院、最高人民檢察院出台的《關於辦理尋釁滋事刑事案件適用法律若干問題的解釋》，而此舉本身即為當時進行的「清網行動」所量身打造。因此，對浦志強的打擊，也可看作是此前清網行動的一個延續，是對浦志強此前曾經擁有的巨大影響力的一次清空動作，也是針對自由化話語的整體打擊的一部分。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2013/02/%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%B0%81%E9%9D%A2%E7%85%A7.jpg" alt="浦志强封面照" width="549" height="769" srcset="http://chinadigitaltimes.net/chinese/files/2013/02/浦志强封面照-214x300.jpg 214w, http://chinadigitaltimes.net/chinese/files/2013/02/浦志强封面照.jpg 590w" sizes="(max-width: 549px) 100vw, 549px"></p>
-<p>一身兼具維權律師、網絡意見領袖、廣義上的異議人士等諸多色彩，又走過了26年來的堅持和追求，這既能解釋浦志強何以具有如此大的影響力，同時，也能說明，作為一名不忘初心的理想主義者，作為一名用自己的法律職業追求言論自由、公平正義的人權捍衛者，浦志強就不可能不成為這個政權的敵人，對浦志強的打擊，是針對六四記憶、法制維權、普世話語的普遍高壓的一部分。如今，審判已經過去了幾天，而仍未有判決的結果，許多人仍在期待或者幻想奇跡的出現，人們所不能接受的是，何以要對這樣一名志行高潔的人士痛下殺手，又何以要以如此莫須有的罪名強加於他，這種難以接受的心理，轉化為了對奇跡的期待，對幻想的不忍拋去，轉化成了試金石、分水嶺、轉折點、里程碑等表達，浦志強的命運，在當下不啻是一個巨大的公眾心理事件，但是，在強固運行的市場新極權體制面前，浦志強的命運，或許早已經註定，而我也相信，等待他開創的歷史，還在前頭。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%A8%B1%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%B7%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E7%9A%84%E6%A6%AE%E8%80%80%E8%88%87%E8%8B%A6%E9%9B%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -717,7 +721,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +731,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

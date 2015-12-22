@@ -21,9 +21,141 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-2015%E5%B9%B4%E5%BA%A6%E8%AF%84%E8%AE%BA%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%BD%A0%E5%BF%A7%E5%9B%BD-%E4%BB%96%E7%88%B1%E5%9B%BD/" target="cdt-mirror">旧闻评论 | 2015年度评论报告：你忧国 他爱国</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA.jpg" alt="秃头倔人" width="450" height="611" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/秃头倔人-221x300.jpg 221w, http://chinadigitaltimes.net/chinese/files/2015/12/秃头倔人.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p>每逢年底，各个行当少不了总结过往，以期用盘点开未来的企盼。而选择年度评论，也有一些媒体机构在搞，诸如腾讯大家之类。但凡评选，总是出自评选者的眼界，标准一二三，也只是敷衍而已，背后起决定作用的还是主事者的心胸，或者说胸中块垒所致。</p>
+<p>《旧闻评论》虽然有影像、诗歌做杂陈，多数篇幅还是评论的文字。不能免俗，今年也在年度媒体观察报告之外，再添年度评论的报告。这一举动，不是选优汰劣，所以谈不上拔萃；更因阅读有限，无法做全面观照。更因为没有奖励，自娱自乐，所以谈不上“评选”。</p>
+<p>在评论的老派时代，评价一篇评论的好坏，无外乎三条标准：义理、考据、辞章。具体而言，就是要有深入的观点揭示，要有周全的论证说明，要有独具风格的文字书写。这三条标准对于遴选单篇评论，标准可成，但是在众生喧哗的时代，有勉为其难之苦。</p>
+<p>所以，在旧闻评论的这里，尽管难以对年度评论下一个准确的标准，但是也总的有个度量才行。下面选择的年度评论，希望在以下三个方面有所体现：一是新知，二是异见，三为舆论。新知见智，是为思想价值；异见显勇，怀有言论的勇气；舆论角力，衡量评论的功效。</p>
+<p>进一步说，今人在读评论性质的文字，无论讲话也罢、专栏也好，甚至是散议而持续的片言只语，单就视野的养成而言，由新知而见智慧，借异见知所处境地的真实，而后理解舆论的构成及阳谋，都是关注公共阅读、在意他人声音的人们不可缺少的。</p>
+<p>根据上述筛选的原则，旧闻做了一些搜罗，着意体现新评论的标准，也与公号订户做一个年尾的交待。由于想到就说，加之搜集过程的先后相当随意，所以以下汇总及列举不分先后，更不完全体现喜好优劣，无非是做个编号，方便记述，还望观众知晓。</p>
+<p><strong>长者传奇文本/蛤丝评论</strong></p>
+<p>长者传奇文本，是非常正式的评论笔法，虽然是流传在手机端，但其路数无疑是老派的评论手法。这也是移动媒体上出现的令人叹服的一笔写作财富。没有长者，凡事不成，但仅有长者，而没有被体制隔离的笔阵，断然是不可能出现这样的文体，董生之后，今年才放异彩。</p>
+<p>与长者传奇相对的，是蛤丝评论，这是一体两面的东西。蛤丝评论从那次著名的香江训诫记者中做了智慧型发挥，攫取长者人生精华部分，对民间传说信手拈来，两下精密合成，从而具备了江湖切口、网络传闻、段子长篇化等特征，实为大陆难得一见的民间文创产品。</p>
+<p>旧闻在这里以“哈斯评论”代指“蛤丝评论”，并想说明的是，哈斯评论的创作者截取长者人生的高光部分，行文精确地区分政治与文化的界限，并在效果上实现了模糊了腹诽与妄议的区别，圆满地用文人智慧创作了政治人物剧目去续接了唐传奇以来的骚客写作。</p>
+<p>可以讲，在段子手肆虐的社交媒体上，哈斯评论以其清新的文风、且装且雅的品相以及游刃有余的大篇幅，整体地拔高了段子创作的水准。哈斯评论也是BBS论坛迭代到微信阶段，互联网文学对现实及历史的真诚关照，同时将汉字之朦胧大美表现得淋漓尽致。</p>
+<p>相关阅读：关键词 <a href="http://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/" target="_blank">江选研讨会 </a></p>
+<p><strong>孙立平《当前中国的经济困境与社会转型》</strong></p>
+<p>这是孙立平在某次年会上上所做的主体讲演。这个名称，在许多地方被改作：《创业运动搞不好是对中产阶层又一次洗劫》，兴许是改编者对全民创业及自媒体创业热有隐忧。总的来说，孙立平这个演讲内容，非常通俗地讲解了当前大陆的问题，现实又透彻。</p>
+<p>孙立平现在过着退休生活，喜欢在微博上晒照片，体现了一名老干部的通常爱好，那就是拿着尼康相机在旅游中留下光影，相片也多是风光题材。他同时也在微博上发言，未断表达意见。这边文章可以视作是他对微博意见的总成，也有重点地做了阐发。</p>
+<p>在这个讲话中，孙立平提出的主要观点是有两个方面：一是转型势不可免，不以统治阶级的意志为转移，二是社会已经承担不起转型之需，如果沿用孙的一贯理论，就是社会崩溃，无法为转型供应稳定根基。孙立平也由此将社会与政治以失败与危机联系到一起。</p>
+<p>很多人会觉得孙立平的阐释没有新意，但他从股灾等一系列事件中总结出社会溃败的新例证，从转型的视角观察社会崩溃，而且说理晓畅浅白，也是不可多得的形势认知材料。孙立平做社会政治研究，常常以深刻的观察取胜，再敷衍成篇，体现了深厚功力。</p>
+<p>怎么看待2012年以来的社会变化，要不要在浮躁的颂圣潮流中保持一点清醒，是否要给某种说不清道不明的狂热降降温？孙立平这篇演讲稿都是值得一读再读的。在今年的许多评论中，此篇讲话稿以单篇之力，负有通识的能量，算是非常少见的。</p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2015/11/%E5%AD%99%E7%AB%8B%E5%B9%B3%EF%BC%9A%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E5%BB%BA%E8%AE%BE%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%A4%BE%E4%BC%9A/" target="_blank">孙立平：我们需要建设一个更好的社会</a></p>
+<p><strong>莫之许《南周案曲终人散》及其系列</strong></p>
+<p>以时政的锐度而言，大陆评论人中以莫之许为最锋利。他以近乎决绝的立场将中国彻查为三个字：不可救。进而，在这个抵到退无可退的立场上，集中发展出对“虚假希望”的批判。这是莫之许的评论工事，是他赖以笔锋作战的利器，笑蜀等人知道厉害。</p>
+<p>在今年一年，莫之许开办了专栏撰稿，考虑到专栏生产的可持续性，莫之许在做了终极判决后再来铺陈专栏写作，只怕也有点“痛苦”。专栏写作，他主要不以时事为首选，而是集中在思潮批判、形势辨别、异见剖析等方面见长，等于用一把小刀解所有的“牛”。</p>
+<p>此篇文章不算是特别出彩，就异见而言，也算是中规中矩。不过，此文中包含了莫之许立论存身的全部要素：抵制虚假希望，抵制虚假希望，抵制虚假希望。不过，就具体评论的案件而言，莫之许与笑蜀有了交集，只是从最近的文章看，笑蜀似乎在修正自己。</p>
+<p>莫之许这篇文章所涉及的不远历史，以及评论时发生的现实，基本上指示了大陆异见所站立的位置，以及所能受到的对待，这是大陆异见这方所能抵达的离心力的最远边界了。因为今年以来的相关事件使然，这种立场被一再涉及，若要理解周全舆论，当不得不察。</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E5%8D%97%E5%91%A8%E6%A1%88%E6%9B%B2%E7%BB%88%E4%BA%BA%E6%95%A3/" target="_blank">莫之许：南周案曲终人散</a></p>
+<p><strong>温克坚《我给创业热泼点凉水》及其政经评论</strong></p>
+<p>温克坚是青年经济学人，纵横财经政经写作有年，早有名声，他集中撰写腾讯大家评论专栏，专注政经视角，无论是题材的广泛还是议论的扎实稳固，都是今年少见的评论人集合。从某种意义上讲，这个专栏让温克坚给人厚积薄发之感，等待他专栏集书出版。</p>
+<p>政经评论，顾名思义，以政治视角节制经济事件，在评论的起点上需要作者具备察时局的深厚功力，方能在经济万端中固定评议观点，并在政经两个维度的涉及中，既不为政治判断所累，也避免以经注政的窠臼。温克坚的政经评论，虽不能说篇篇做到守衡，但立论相当坚固。</p>
+<p>李克强说，在960万平方公里大地上掀起大众创业、草根创业新浪潮。而诸葛亮说过，先帝创业未半而中道崩殂。创业的风险在创业造势的时候，被人为遏制，不被充分讨论。温克坚一文，引发相邻的内容创业人士的商榷，多少为创业去泡沫化攒了点心理预期。</p>
+<p>顺便说一下，腾讯大家是时下评论最为集中的场地，搜路了大陆最多的专栏作者，是规模最大的笔阵所在地。大家专栏，是丰厚本钱下评论规模化生产所能达到的最高地步。但是受管制制约，其文字的上限被削平，鼓吹文字精致，力求以持续赢取赞誉，有便利也有不足。</p>
+<p>对许多评论人而言，大家供应的言论空间可能依旧不足，但腾讯的用户数量，成为弥补其先天缺陷的理由。腾讯是做网路发家，然后以传统笔阵的做法集约化地制造大家专栏，在评论的UGC时代也算是逆潮流而动。取法乎上而得乎其中，大概是它自我设计好的命数。</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E6%88%91%E7%BB%99%E5%88%9B%E4%B8%9A%E7%83%AD%E6%B3%BC%E7%82%B9%E5%87%89%E6%B0%B4/" target="_blank">温克坚：我给创业热泼点凉水</a></p>
+<p><strong>赵楚《巴黎血案：一场野蛮对文明的伤害》及其巴黎恐袭系列述评</strong></p>
+<p>对于国际事件的评论，向来是大陆评论界的短板，原因有二：一是官媒通常会自设霸道立场，禁绝评论出现；二是评论人缺乏国际认知的评论框架，无法置喙。由此，造成国际评论在官媒那里沦为倾向性报道的点缀，而在市场化媒体那里表现不稳定，难见成效。</p>
+<section></section><p>国际评论的立场，在无法展示复杂性的时候，往往展现其简单的一面。比如官媒会将其归结为政治攻击，将国际评论内政化，实为用国际事件来洗脑国民。而市场化媒体又拘泥于人道立场，望不见更细致的国际背景，以致于让国际评论显得善良而又不得要领。</p>
+<section></section><p>巴黎恐袭案之后，以军事评论见长的赵楚迎来了一波写作高峰行情。血案甫一传来，他就成为第一个被媒体约稿的专栏作家，他的评论与恐袭事件同步，对于读者了解血案供应了知识含量。其他评论人自觉让路，赵楚在国内外诸多媒体、新媒体上刊发了系列评论都值得一观。</p>
+<section></section><p>易言之，赵楚的巴黎血案系列评论，较一般以中立为名其实贫瘠的国际评论更有道义上的鲜明立场，较之一般的国关分析，更有宗教乃至于文明的深入见解，较之地缘及种族的评论视角又增加了军事谋略等分析，从而让他快速反应的系列评论深具认知价值。</p>
+<section></section><p>赵楚评论犹如立锋刃于纸面，逻辑核心相当严实，而在由其一点敷衍成文时，因遵循推演之严密法，行文犹如方阵行军，绵密不透风，对读者心神注意力提出了很高要求。而他近期在大家所写的水浒人物新论，有趣有料，祛除了一般演义式评论的陈腐之气。</p>
+<section></section><p>顺便说一下，戏说历史，或凭借少量史料勾画前朝生活场景，用今人之耳目凝固古代，就好像清宫戏是电影常青树那样，也是出版界追逐的题材。这类写作要么凭空捏造，将古史变成作者“俘虏”；要么固守偏见，勉强阐释，不惧从稀少史料行百步之远而贴近荒谬。</p>
+<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%B5%B5%E6%A5%9A%EF%BC%9A%E5%B7%B4%E9%BB%8E%E8%A1%80%E6%A1%88-%E4%B8%80%E5%9C%BA%E9%87%8E%E8%9B%AE%E5%AF%B9%E6%96%87%E6%98%8E%E7%9A%84%E4%BC%A4%E5%AE%B3/" target="_blank">赵楚：巴黎血案 一场野蛮对文明的伤害</a></p>
+<p><strong>张雪忠《为什么说胡适只是半吊子自由主义者？》</strong></p>
+<p>张雪忠写东西很少，但不妨碍这个写于年末、以对话体呈现的胡适文是一篇重要的议论文章。简单来说，张雪忠否定了胡适作为一名合格自由主义者的资格，更主要的是，他想借此来说明，推崇胡适为代表的大陆自由主义分子，要想真的“得到”，就要推翻胡适这个错误偶像。</p>
+<p>这明显是个容易引发自由主义者骚动的话题，也极容易引起割席举动——尽管我们谁也不知道这个席子有多大、上面做了多少人，但屡有人以“你们这类人”割席，可见席子总是在变小的——张雪忠可能要进一步说明他对胡适的看法不是偏见，只是争议似乎还没到这个地步。</p>
+<p>张雪忠经历使然，他超越了时事评论人的快餐式写作，进入了“通灵”范畴。“通灵”不是神鬼那一套，而是他的思考是从源头开始的，似乎希望顺流而下，整理自由主义及其势力范围（如果有的话），为政治反对意见腾空一点“库容”（如果有的话）。</p>
+<p>但凡对自由主义或话语竞争有所体会的人，都不难发现自由主义在作为生活方式之不可能后，更出现解释能力的衰减。自由主义者面对的诘问来自于残酷的国情及势利的选择，往往是只能哑忍。张雪忠廓清胡适这份遗产，不知能否为自由主义者的自清自证提供便利。</p>
+<p>在肉眼可见的范围内，左派（当然不是中国左右的划分法）话语对现实越来越有阐释能力，加之国情论正在被提炼为各种学科的门面，变成更具隐蔽能力的理论，为国内外更多理论大家推广，自由主义市场似乎在急剧萎缩，推到胡适能达到清“君”侧的目的吗？</p>
+<p>相关阅读：<a href="http://mp.weixin.qq.com/s?__biz=MzI5MTA2OTM0MQ==&mid=401296179&idx=1&sn=3ba95ef1bf1878ef9d1e09ba65910b75&scene=2&srcid=1220CLYKXJoKDPgCkQmRFWT2&from=timeline&isappinstalled=0#wechat_redirect" target="_blank">张雪忠：为什么说胡适只是半吊子自由主义者？</a></p>
+<p><strong>习近平：世界互联网大会主旨演讲</strong></p>
+<p>去年乌镇开会的时候，习近平没有做演讲，只是发来贺词，简短不过百数十字，只是很简略的意思，字条一样。而在今年的会上，则到场做了主旨发言，内容当然是别人写好的，发言亮明了“互联网主权”的说法。这个发言可视作近年网络管理的总结陈辞。</p>
+<p>这个发言就跟记者节时，会有大佬发言的仪式差不多。这么多年来，最高负责人也会对新闻宣传工作发表定调的讲话，只不过这个讲话是针对传统媒体的；可以想见，乌镇讲话所针对的互联网产业，与之相类似，形成了意识形态化的文宣与意识形态产业化的网络两条线。</p>
+<p>这个讲话对于理解社交媒体上的变化是有帮助的，因为它以对内对外两个角度，做了话语上的、理论上的迁建与防守。主权大于人权，从具体个案上的辩解式舆情应对手法，现在被迁移，变成了固定在互联网上的至上理论。使用网络的，应该是不难体会这种改变的。</p>
+<p><strong>王石内部讲话：《我们不欢迎宝能系》</strong></p>
+<p>宝能对万科发起的收购攻击，提供的看点很多，包括但不限于保险游资的风险及融资杠杆究竟可以触及到什么样的底线，类似的问题在股灾时就提出过，现在重复在提，相信王石他们都在等着看别人告诉他们底线在哪里。当然也不知道能不能等到。</p>
+<p>王石讲话除了起到挑明厉害、公开宣战的意思，几乎成为负面的文本。这是因为王石及其讲话陷入了更大的舆论漩涡中，这种漩涡不是公关可以搞定的，更非情怀可以说服。万科宝能的股权之争，早已不是政治素人之间的生意斗争，可能需要更高的调解。</p>
+<p>这就是股权之战贡献给大众舆论的：赵家人。大家都在谈论权力，但对于真正的权力是什么，可能都不甚清楚，也没有见识过。王石的讲话之所以受到冷落，是因为人们已经知道权力的影子，只是无从捉摸，赵家人是一个非常具象的解释，尽管它依旧含糊。</p>
+<p>所以王石在放出讲话之后，舆论实在的期待，已经不是谁是王的朋友，而是想看到更高层面的斗争，无论它以什么形式，都可以让现在的预测继续维持下去。一场戏，也是一个缺口，让众多权力想象倾斜出来。政经合一的戏码，对于理解真实的统治大有帮助。</p>
+<p><strong>周小平《到底是谁害死了中国人质》</strong></p>
+<p>这篇文章出来后，周在一个星期之内修改了四次，无论是每一次修改而成的样貌，还是频繁的按需修改本身，对于理解微博上的舆论订制服务都提供了直观的案例。而通过修正文章，来调整舆论指向，也体现了用舆论引导人、影响人及鼓舞人的显著目的。</p>
+<p>很多名门正派对周花之辈是不屑一顾的，这固然是清流自清的立场，但是对于一般的大众而言，他们的感知也许不那么敏锐。从深文周纳，到驱动舆论，这里面既包含着特批经营的意思，也指向了不设防的阅听人所遭到的影响，有人也将其认作是伤害。</p>
+<p>在周花及其旁系所联系起来的一众人等中，主要的意图是在社交网络上生产非意识形态化的话语，来用新媒体的方法波及到更多阅听人，将更多人卷入到他们的话语潮流中。不止是要占据平台，还要垄断话语，这是一个清晰的策略，估计很难停下来。</p>
+<p>这篇文章及其先后修改而成的姊妹篇，也许不能说服受众改变他们对言论自由的看法，但至少可以帮助澄清一些舆论的疑惑。在今日的社群媒体上，用户如果不能有意识地甄别信息、观点与立场，无疑会像傻瓜一样被愚弄，而且是以他们喜闻乐见的方式。</p>
+<p><strong>@文山娃及其微博评论</strong></p>
+<p>的微博技术性、纠缠式评论，成为网评员在购买政府服务时遇到的第一等对手。原因无他，@文山娃擅长纠缠，擅长插科打诨，擅长自嘲，这些在实操中被证明是有效的。</p>
+<p>对于网评员，一般的态度是敬而远之，任其自生自灭。这种态度相当消极，长此以往，不仅对无力分辨的人带来十足影响力，就是做壁上观的也会被负累到犬儒境地。@文山娃不做白手套，像环卫工人对待工作那样，善待网评员、呵护网评员，终于成全了自家气象。</p>
+<p>@文山娃的微博评论都是戏谑式的，与网评员称兄道弟，对恶语相加保持冷幽默，对揭短揭丑一笑化解。就缠斗而言，@文山娃没让各级网评员占过便宜，这种斗争方法兴许只可被借鉴，却无法被模仿，更不会被超越。这也算是2015年蔚为大观的微博现象。</p>
+<p>网评员的作业理论是有传播学依据的，那就是魔弹理论，不管信息真假，只要做到持续打靶，就一定能攻克靶子——当然，这里的标靶其实就是受众。@文山娃所做的是逆向的魔弹论，要把这个理论倒转过来，让发射魔弹的人成为众矢之的，@文山娃做到了。</p>
+<p>相关阅读：<a href="http://weibo.com/u/1707905652?is_all=1" target="_blank">文山娃微博</a></p>
+<p><strong>王五四的微信公号评论</strong></p>
+<p>王五四是公知在微博失守之后，被寄托了在微信朋友圈光复话语批评的写作者。当然，也因为这一点，他受到了别样的对待，王五四的写作方式似乎难以为继。到底是因人废言，还是因言废了人，不知内情不好评价，只是看起来，戏虐文体似乎也被锁定了。</p>
+<p>总体上看，王五四的写作风格是与早年的BBS论坛是一脉相承的，那就是嬉笑怒骂，在此当中包裹一些锋芒。这种写作风格在市场化报纸时期，特别不受待见，会被看作是肤浅的，没有认知深度的。但是在社交媒体阶段，这门手艺复活了，自有其道理。</p>
+<p>微信公号的写作，一大泛滥的后果，就是在标题上取巧，竭尽挑拨之能事，以期唤起点击的下意识。王五四吸取了这一据说是公号文传播必杀技的基本功，在标题上取巧，豪夺受众眼神。但其内文，则不标题取巧+内容藏拙的组合，一样是春光外泄。</p>
+<p>王五四的评论选题基本上是奔着“打劫舆论”去的，这是社群媒体下吸睛的不二之法。不过，他置评的时机往往故意延迟一两拍，从而在其他观点显露后，再做一个黄雀式的总揽。当然，在这些先期观点中，会按需突出，以实现自家评论的强度。</p>
+<p>有批评者认为，王五四的行文方式会背离他的批评目的，因为华丽的形式容易将堂皇的批评消解掉，同时让读者在重复的浅白抱怨中日夜沉溺。这种抱怨似乎是善于担忧的，似乎大可不必，谁能确定真的存在过用天下正声挽救老路歧路的事呢？</p>
+<p>相关阅读：关键词 <a href="http://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/" target="_blank">王五四</a></p>
+<blockquote><p>上述就是旧闻对年度评论的一些遴选与点评。还有一些单篇和评论作者，想到了最后也没写上，比如南都评论公号点评那个律师的评论，因为这个公号已经主动报废，所以不提。还比如长平的中国评论，因为发表在墙外，墙内读者看不到，可以另外单辟文章再说。</p>
+<p>今年，可以观察的还是“评论增量”的这个古老理想，在实验中的实现程度。类似大象工会这样矢志做知识增量的，也还是会遇到瓶颈，一是能提供增量的“知识”有限，蜜好喝，花丛少；二是增量的增长缓慢，会拖累付出的成本，最后还得走回打劫舆论的老路。</p>
+<p>总体上，2015年度评论的直接感受就是两句话：评论文章源源不断，可读的评论寥寥无几。评论的产能并没有下降，但评论消费的需求没有很好满足。这种不对称的原因，主要是因为受众还在经历信息筛查所造成的后遗症，或者说，人们正在学习着接受新的病症。</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-2015%E5%B9%B4%E5%BA%A6%E8%AF%84%E8%AE%BA%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%BD%A0%E5%BF%A7%E5%9B%BD-%E4%BB%96%E7%88%B1%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E8%AF%84/?category=18271" rel="tag">时评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">评论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E4%B9%8B%E8%AE%B8/?category=18271" rel="tag">莫之许</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%A5%9A/?category=18271" rel="tag">赵楚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%9B%AA%E5%BF%A0/?category=18271" rel="tag">张雪忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E6%94%BF%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">时政评论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3/?category=18271" rel="tag">王石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%96%87%E8%AF%84%E8%AE%BA%E5%9C%88/?category=18271" rel="tag">中文评论圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%B1%B1%E5%A8%83/?category=18271" rel="tag">文山娃</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%8A%A5%E7%AB%A0%E6%89%B9%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2-%E4%BA%8B%E5%85%B3%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95/" target="cdt-mirror">自由亚洲 | 中纪委报章批高校教师“歪曲历史” 事关执政合法性</a>
+</h2>
+<p><p>中共中纪委机关报12月19日刊文指责有大学历史系教授以“真相”、“揭秘”为噱头，批评历史书教科书的真实性。外界认为，被指遭歪曲的历史都涉及一个敏感的话题，即中共执政合法性；也有评论认为，中共本身就在不停篡改历史。</p>
+<p>中纪委机关报《中国纪检监察报》12月19日在头版位置刊发题为《以“揭秘”为噱头歪曲党史，是什么后果？》的文章，其中提到，有高校历史系教授歪曲党史，面对学生质疑，用“你们被忽悠”等理由搪塞而过。还举例某大学历史系教授、中共党员为大学生做讲座时，以“真相”、“揭秘”为噱头，“捏造事实、混淆视听”，大肆宣称历史教科书中的党史很多都不是“真实的历史”。文章认为该教授违反了党员不能公然歪曲党史、军史的政治纪律。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/image-11.jpeg" alt="image" width="550" height="828"></p>
+<p>宪政学者陈永苗告诉本台，当局认为遭歪曲的历史其实都涉及到了一个对中共而言堪称敏感的话题，即中共执政合法性。</p>
+<p>陈永苗：“应该来说这些历史事实都涉及到中共的合法性的问题，比如狼牙山五壮士、雷锋、中日之间的卖国投降的协定、对民国历史的挖掘真相的宣传。如果你提到这些，就从意识形态上否定中共，当局觉得这是敏感的不应该被谈论的。”</p>
+<p>今年9月，中央纪律检查委员会书记王岐山在“中国共产党与世界对话会”上表示，中国共产党的合法性源自于历史，是人心向背决定的，是人民的选择。外界认为，王岐山的讲话仍然停留在中共打天下坐天下的逻辑里，这样的逻辑与当代政治常识与社会逻辑相悖。</p>
+<p>有关注事件的网民写道：当局创造了“历史与人民的选择”这样一个宏大的概念，但人民却不享有宪法保障的自由权。“历史的选择”不等于现实的选择，“人民的选择”不等于公民通过选票的选择。</p>
+<p>对此，江苏独立媒体人孙林接受本台采访时称，为了证明其执政合法性，当局不仅禁止高校教师谈历史，还封杀历史月刊，与此同时共产党的党史研究室却在不停地篡改历史。</p>
+<p>孙林：“篡改的历史时期太长。我们国家只容许你表彰他的伟大，如果你想揭露他的事实，那是不容许的。这些教师也好，演讲者也好，像袁腾飞那样的能拿出历史的真实故事，他讲的事情都在历史上所曝光的。谈到历史，高华写的《红太阳是怎样升起的》完全都是摘过去的报纸和红旗杂志，他无话可说，即使当局没办法办他的罪，但他同样受到了打压。当你拿不出证据来的时候，他就说你谣言罪，说你颠复罪，说你寻衅滋事罪，扰乱社会秩序罪。所谓的党史，篡改了几十年了，台湾方面拿出来一部份，但是没有完全揭露真正的党史，《炎黄春秋》揭露出一部份图片，就被封杀了。”</p>
+<p>早在今年1月，中国国家互联网信息办公室就宣布关闭133个微信公共账号，称这些账号以”揭秘”、”真相”为噱头，打着”你不知道的历史”、”这才是历史”、”我知道的历史”等旗号，传播歪曲党史国史信息。</p>
+<p>对此，陈永苗认为，当局在清理网络上探寻历史真相的言论后，又把矛头指向了研究中国现代和当代史的学者，警告他们不要“吃党饭砸党锅”。</p>
+<p>陈永苗：“这是言论自由和学术自由的问题，如果政治不正确那是共产党的政治不正确。这边就涉及到一个问题，他们说高校里面的历史老师，你是吃党的饭，那么你就不应该砸党的饭碗，这是中共本身的逻辑。这就造成了一个很暧昧的情况，非共产党员我是不是可以说？这些人、这些老师们，他的身份是很暧昧的，他要么不吃共产党的饭，（这样）他们（当局）挖他的根也没什么大的用处；要么明白的说我站在对立面的，要么明白的说我就是支持共产党的。”</p>
+<p>特约记者：忻霖  责编：吴晶</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%8A%A5%E7%AB%A0%E6%89%B9%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2-%E4%BA%8B%E5%85%B3%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">封杀历史</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8C%97%E4%BA%AC%E4%BE%BF%E8%A1%A3%E7%B2%97%E6%9A%B4%E5%B9%B2%E6%B6%89%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E7%BA%AA/" target="cdt-mirror">美国之音 | 北京便衣粗暴干涉记者采访浦志强案纪实</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-21-at-%E4%B8%8B%E5%8D%8811.30.33.png" alt="Screen Shot 2015-12-21 at 下午11.30.33" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-21-at-下午11.30.33-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-21-at-下午11.30.33.png 636w" sizes="(max-width: 550px) 100vw, 550px"><br>
+北京警方12月14日一早在法院入口附近拉起警戒线，阻止要求旁听浦志强案庭审的西方外交官和中国公民接近法庭。（美国之音叶兵拍摄）</p>
+<p><span>北京—</span>周二上午，备受社会关注的浦志强案开庭宣判期间，法院外面及周边街道上，大批警察和便衣人员严加把守，并在多处拉起警戒线，严查过往行人，阻止公民或西方外交官进入旁听这个“敏感案件”。</p>
+<p>现场可以看到有一些人围观，一名妇女连声高呼“浦志强无罪”，随后被便衣人员带走。北京维权人士倪玉兰律师由丈夫董继勤推轮椅来到围观现场时，有不少记者上前采访。倪玉兰对着多个话筒刚说了几句支持浦志强的话，就被一群便衣团团围住驱离。</p>
+<p>一众便衣人员对在警戒线外停留或拍摄的美国之音、路透社等外媒记者一再采用暴力手段，粗暴干涉正常的新闻采访报道。</p>
+<p>美国之音记者在拍摄时遭到多名便衣前后夹攻，前胸后背和右臂多次遭拳击和强力推搡，并有人试图遮挡或抢夺记者的手机和摄像机。一名自称老百姓的中年男子反诬记者碰撞他，多次动手拉拽记者要求道歉，被记者严词拒绝。</p>
+<p>便衣人员向外媒记者施暴时，在场的多名警察只是旁观，没有采取制止暴力或保护记者的任何行动。记者向在场的负责外事警官投诉时，被告知他们管不了这些便衣。有些穿制服的警察表示希望记者理解是上面命令他们出来站岗，要求记者配合他们工作。</p>
+<p>一周前，国际记者联盟亚太办公室曾发表声明谴责北京警方针对采访浦志强案记者的暴力行径。</p>
+<p>声明说：“中国警方和中国当局对浦志强的起诉，以及当局对待报道浦志强案的记者的做法是公然践踏中国的表达自由和新闻自由。中国当局在全中国继续强化对表达自由的限制，必将对新闻自由造成破坏性的影响。”</p>
+<p>与此同时，驻华外国记者协会也曾发表声明表示，“这种震慑新闻采访的行动，完全违反中国政府有关外国记者的规定。” 声明敦促中国政府和警方停止骚扰和体罚外国记者，遵守中国自己的有关规定。</p>
+<p>几个月前，中国国家主席习近平对来访的新闻集团执行董事长默多克表示，“中国将继续对外国媒体持开放态度，欢迎外国媒体和记者来华采访报道，向世界介绍中国发展，帮助世界把握中国发展机遇，增进中国人民和各国人民相互理解和合作。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8C%97%E4%BA%AC%E4%BE%BF%E8%A1%A3%E7%B2%97%E6%9A%B4%E5%B9%B2%E6%B6%89%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E7%BA%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A3%B0%E6%8F%B4%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">声援浦志强</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B7%B1%E5%9C%B3%E5%9D%8D%E5%A1%8C%E5%8F%97%E7%BA%B3%E5%9C%BA%E8%BF%90%E8%90%A5%E6%9D%83%E7%94%B1%E4%B8%AD%E6%A0%87%E8%80%85%E5%8D%B3%E6%97%B6%E8%BD%AC%E5%8C%85%E8%8E%B7%E5%88%A975%E4%B8%87/" target="cdt-mirror">财新网｜深圳坍塌受纳场运营权由中标者即时转包获利75万</a>
 </h2>
 <p><p><strong>【编者注】财新网原文已被删除。以下内容来自<a href="http://webcache.googleusercontent.com/search?q=cache:bm8vCypN1DYJ:china.caixin.com/2015-12-21/100891130.html">谷歌缓存</a></strong></p>
@@ -672,129 +804,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%BA%E4%BA%86%E6%B2%BB%E7%90%86%E9%9B%BE%E9%9C%BE%E8%80%8C%E7%BC%93%E9%99%8D%E6%B2%B9%E4%BB%B7-%E8%BF%99%E7%90%86%E7%94%B1%E6%88%90%E7%AB%8B%E4%B9%88%EF%BC%9F/" target="cdt-mirror">大脸撑在小胸：为了治理雾霾而缓降油价——这理由成立么？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo.jpg" rel="attachment wp-att-422236"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo.jpg" alt="6edf4ea4jw1ez32scjb00j20rs0jqjuo" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo-768x545.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32scjb00j20rs0jqjuo.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px"></a></p>
-<p>前几天，发改委说“我国环保形势日益严峻，一些地区以臭氧、灰霾污染为特征的复合型污染日益突出，机动车尾气排放是造成空气污染的重要原因之一。充分发挥成品油价格杠杆作用，是促进资源节约、治理大气污染的重要手段”——然后就缓降油价了。</p>
-<p>为了避免一些不必要的误会，我首先声明：<strong>本人坚决反对发改委这套逻辑！</strong></p>
-<p>然后就可以从容讨论问题了~</p>
-<p>网上有些反对的理由：</p>
-<p>1.认为机动车对雾霾的影响很小</p>
-<p>2.认为不应该以限制机动车出行的思路来治理雾霾</p>
-<p>——虽然我同意你们的反对，但是不同意你们反对的理由。因为如果从这两个角度来讨论的话，最终反而会显得发改委很有道理。</p>
-<p>首先，<strong>机动车排放的确是PM2.5的重要来源，这是有很多科研依据的。</strong></p>
-<p>以北京、天津和广州为例，下图是2009-2011年这三个城市的PM2.5源解析结果（仅列出每个城市PM2.5来源的前4项）。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35.jpg" rel="attachment wp-att-422235"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35.jpg" alt="6edf4ea4jw1ez32khfig3j20f4048q35" width="544" height="152" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35-300x84.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/6edf4ea4jw1ez32khfig3j20f4048q35.jpg 544w" sizes="(max-width: 544px) 100vw, 544px"></a></p>
-<p>可以看出，机动车排放基本稳居第二，在京津仅次于燃煤，在广州仅次于工业。其它研究也表明，一般城市中机动车排放对PM2.5的平均贡献大约为20-30%。</p>
-<p>要强调的一点是，即使在同一城市的不同大气背景下，机动车排放的贡献也不一致。比如<strong>在北京，如果本身空气质量很好，那么PM2.5的最主要来源为燃煤（45%），机动车仅占13%；但如果已经发生了雾霾，那么机动车排放则一跃升至42%，成为最主要来源。</strong></p>
-<p>还有一点，机动车排放不仅能引起雾霾，而且能引起<strong>臭氧污染，城区中臭氧浓度的高低，最主要就取决于机动车尾气的排放量</strong>。臭氧污染对健康的危害也非常大，而且在我国也经常出现，但被严重忽视了，我过去写文章说过，不再赘述。</p>
-<p>其次，在国外已有的城市治理雾霾的经验中，<strong>确有不少专门针对机动车出行的限制。</strong></p>
-<p>限制的方式有两种，第一种是政府颁布禁令，比如日本东京，禁止任何柴油车进入城区。</p>
-<p>第二种是经济手段：比如英国伦敦在80年代治理雾霾时，征收高昂的进城费和停车费。再比如意大利米兰，以汽车的排放量来对汽车进行划分，如果一旦被认为是“污染严重的汽车”，那么在周一至周五的早7点至晚7点期间，想要进入市区必须额外交费约2-10欧。这也就是<strong>价格杠杆，增加机动车的出行成本，从而限制机动车的出行率，以达到减少尾气排放的目的。</strong></p>
-<p>所以说，治理雾霾要限制机动车、限制机动车采用价格杠杆，其实这两点反而是没什么问题的。</p>
-<p>关键问题在于，<strong>这价格杠杆到底应该杠在哪里？</strong></p>
-<p><strong>价格杠杆应该有非常明确的指向性</strong>，我们参考国外治霾经验，都指向一个特定的污染严重的城市，比如伦敦污染严重，那你要进入伦敦城区才征收高额进城费和停车费；甚至更明确到像米兰那样，具体到特定的车辆和特定的时段内，进城才收费。</p>
-<p>再反观这次“缓降油价”，不觉得离题太远么？</p>
-<p>首先，<strong>雾霾并不是全国每个城市每个区域都有，而油价却是全国一起缓降</strong>，人家那些空气质量一向很好的城市为什么也要一起杠杆？这要是套到上面那些治霾经验里，相当于英国全国征收高昂停车费，相当于意大利全国进城都额外交费，相当于日本全国都不许开柴油车……这说得过去么？</p>
-<p>其次，对于京津广这类人口密集的城市而言，机动车排放的PM2.5占比很大，成品油价或许还谈得上价格杠杆；但是对于有些区域，比如<strong>河北，机动车排放的PM2.5占比只有14%，燃煤排放却高达44%</strong>，就算要价格杠杆是不是也应该指向燃煤呢？</p>
-<p>综上，<strong>我不怀疑机动车是城市雾霾的主要来源，我也不反对动用价格杠杆来限制排放</strong>（然而就连我这种人都反对，可见发改委已经没救了），<strong>但是价格杠杆应该有明确指向，而不是用一个指向模糊的所谓价格杠杆来全国一刀切。</strong></p>
-<p><strong><span>最后，其实我从这个角度来反驳，实在是过于讲道理了，因为实际上我根本也不相信发改委真是为了治理雾霾。我只是想证明，他们连找借口都找不到一个正点的。就酱。</span></strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%BA%E4%BA%86%E6%B2%BB%E7%90%86%E9%9B%BE%E9%9C%BE%E8%80%8C%E7%BC%93%E9%99%8D%E6%B2%B9%E4%BB%B7-%E8%BF%99%E7%90%86%E7%94%B1%E6%88%90%E7%AB%8B%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9C%E8%BF%8E%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8/?category=18271" rel="tag">喜迎油价上涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-13/" target="cdt-mirror">【网络民议】你家做客？你们真拿自己当户口本第一页了？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%B2%81%E9%83%A8%E9%95%BF.png" rel="attachment wp-att-422225"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%B2%81%E9%83%A8%E9%95%BF.png" alt="鲁部长" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/鲁部长-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/鲁部长-768x331.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/鲁部长-1024x442.png 1024w" sizes="(max-width: 2458px) 100vw, 2458px"></a><br><em>（根据相关法律法规和政策，“鲁部长”搜索结果未予显示。）</em></p>
-<p><strong>观察者网近日<a href="http://tech.caijing.com.cn/20151218/4035871.shtml">专访CNNIC主任李晓东</a>时，问到了“局域网”的问题：</strong></p>
-<blockquote><p><strong>观察者网</strong>：问一个比较敏感的问题，您作为中国代表经常参加很多国际会议，他们可能会说，你们是局域网，facebook不翻墙都不能用，您怎么回答他们？</p>
-<p><strong>李晓东</strong>：这个问题，<strong>鲁部长</strong>已经有了经典的回答，“<strong>我有权决定谁到我家做客</strong>”。<span><strong>这些企业不说好坏，但至少要适应不同的国情</strong></span>。</p>
-<p>谷歌有好的东西，也有不好的东西。<span>Facebook做<strong>信息提供的时候</strong>，<strong>怎么兼顾不同的国情</strong></span>。中国没说不让你们进来，你不符合中国的法律和文化，你就进不来。</p>
-<p>假如facebook宣传恐怖主义，应不应该？谷歌搜索提供色情信息，大人倒还好，孩子呢？你也会很担心吧？</p>
-<p>很多企业的社会责任还没有形成，内容分级还没做好，电影院你看不到色情电影，但在网上可以看到。<strong>中国如果是局域网能有这么大吗，有6.68亿网民的局域网吗？你见过BAT这么大，还是局域网吗？上不了facebook就不能聊天了吗？没有谷歌就不能搜索了吗？</strong></p></blockquote>
-<p>究竟何为“国情”？上述专访中，<strong>李晓东已在不经意间道出了外国企业需要适应“国情”的真相</strong>：</p>
-<blockquote><p>互联网很本质的东西就是降低信息不对称，你这个人不好，以前你俩知道，我不知道，现在互联网扁平化了，你不好，这个信息传播很快的。所以你最好知行合一，表里如一，在群里、朋友圈里都是如此。比如企业，这个信息不好，找人删帖。你删了，过两天又出来了，所以关键是好好做。互联网还有这个作用，倒逼大家回到本质的东西。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1825530225" target="_blank">内心继续寻求强大的HHJ</a>：鲁部长一词被禁搜，估计狗裆领导自己也心慌怕被网友骂<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">“我有权决定…”不愧官老爷作风</p>
-<p>@雨伞杀人王：毛坯房就不能住人了？吃饭不配菜就不能吃了？是这意思么？</p>
-<p>@腹黑蛇男：对对对，没有不会怎样，同样的没有某党也不会怎样</p>
-<p><strong>@审计师理查德：“我有权决定谁到我家做客”？你家？你们真拿自己当户口本第一页了？</strong></p>
-<p><a href="http://weibo.com/3970803378" target="_blank">-司殿</a>：你有权决定谁去你家做客 我觉得这句话用在这里太可笑了 你家？你有权？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@Andy曉明：谁他妈给你这个权利决定谁能到你家做客了，我就想知道，谁他妈给你的这个权利</p>
-<p>@王教主王：“我有权决定谁来我家做客”这句话简直放屁。搞没搞清楚这个家的主人是谁？</p>
-<p><a href="http://weibo.com/3174884334" target="_blank">ETHE寂静轨迹</a>：我给大家讲个笑话 ：中国人民当家作主<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
-<p><a href="http://weibo.com/5536739808" target="_blank">我是猪崽一生追</a>：<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">是啊是你家你决定，我的家呢？</p>
-<p><a href="http://weibo.com/2679822870" target="_blank">刘备是我爸</a>：为此我特地去查了一下哪些国家禁止了谷歌，朝鲜，古巴，阿富汗，津巴布韦，委内瑞拉，还有天朝<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]">看来全世界都在受谷歌的戕害，就我大社会主义阵营幸免啊，果然是先进而优越的制度啊<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/2738204271" target="_blank">GypsyHey</a>：真的很同情国外的青少年，生活在水深火热之中，整天接触色情暴力。而我们祖国的花朵，都生活在新闻联播里。突出一个社会主义的优越性。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
-<p><a href="http://weibo.com/pnnda" target="_blank">猫猫熊Mihashi</a><i title="微博个人认证 "></i>：我可以这么理解吗? <img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"> 火容易引起火灾,所以我们选择放弃使用火种.不烧火我们可以吃水果过活呀?为什么要使用火这种这么危险的东西呢?<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p><a href="http://weibo.com/2475855291" target="_blank">Astroboyss</a>：图片评论<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum.jpg" rel="attachment wp-att-422223"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum.jpg" alt="93928dbbjw1ez4zuiga7hj20k00n4jum" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum-260x300.jpg 260w, http://chinadigitaltimes.net/chinese/files/2015/12/93928dbbjw1ez4zuiga7hj20k00n4jum.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p><a href="http://weibo.com/2927155995" target="_blank">口合口苗</a>：嘿嘿嘿<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c8f.png" alt="" width="20px" height="20px"><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq.jpg" rel="attachment wp-att-422222"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq.jpg" alt="ae78db1bgw1ez3wwvpzfzj20e80aqjsq" width="440" height="332" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq-300x226.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/ae78db1bgw1ez3wwvpzfzj20e80aqjsq.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>@我为什么这么穷：不该问fb和gg吧，应该问github，dropbox之类的。。</p>
-<p>@陈尤楠Cheney：全世界都在用，到我们这就不符合国情了？那是国情有问题还是网络有问题？</p>
-<p><strong>@leo_stei_n：谷歌和facebook是web2.0时代的产品，他们本身不是内容提供者，内容的真正提供者是来自世界各地人们。就因为这些公司不搞审？？查就被屏蔽，还把原因归咎于别人，也就骗骗只看CCAV的人罢了</strong></p>
-<p>@圈揽绚烂：这货算个 J8 毛。百度纵容色情广告就不是色情了？保护了这么多年连个特么浏览器都做不好是不是该扇自己脸？学术网站违反了哪条火星法律？产品经理说得最多的一句话就他妈是：“这个地方我觉得可以插一条广告。” 抱歉鲁部长，我们生活在同一片土地，看着不同的天空。</p>
-<p>@小兴闲着也是闲着：霸气耍流氓，能忍；无赖讲道理，不能忍。</p>
-<p>@强力围观滴：1.有权决定谁到我家做客，同样有权出去看看 2.没限制fb,google的国家也有儿童，不只你家一个疼孩子,人家也怕恐怖活动 3.bat大是因为局域网内人口基数大，不是国际竞争力大. 还有有没有fb、google能不能聊天、搜索这话你怎么不对来这的外国记者，外国运动员，外国媒体说</p>
-<p>@大漠海盗L：厚颜无耻，那好啊，先把那个姓习的那叫什么来着，不是在Facebook 有个账号多少万粉丝吗？他该判几年？先判了来服众吧</p>
-<p>@可以做梦的空间：说得好！按照这货的逻辑可不可以这样理解：环球时报，人民日报，CCAV，还有他自己都能上这些网站，那是不是这些货色已经被这些坏东西影响了？以至于混球时报发文说ISIS不是恐怖组织，是不是说明这些货色已经成为ISIS的成员了？能这样理解吗？</p>
-<p>@北都YUMESS：从小你妈就应该给你锁房子里 天天给你送饭看你长大就好了 毕竟外面那么多危险 你说是吧</p>
-<p>@DDOGlwx：放你妈的臭屁！全世界都用fb google ，他们的人民就都色情了？就都支持恐怖主义了？怕泄密就做牛逼的生态圈给自己的人用，国内的某些大厂商app这么垃圾 这么不要脸 推送广告 占用资源 生产垃圾文件，你们怎么不管？</p>
-<p>@嘸颩哋慹帶：一群人天天“中国网民没智商”的论调也不知道跟谁学的，还一堆点赞。敢情您的智商是有多高？全球就四个国家封锁FB，所以中国网民的智商排在全球后四位？我看说出这种话的人智商才位于中国网民的最底层，一辈子的井底之蛙</p>
-<p>@松松zxs：违反了具体哪条法律？</p>
-<p>@Bayou_Gun：评论中有人说“别没事儿就跪舔外国软件，你真以为多少人整天用FB或者推？ ”为何奴？这就叫奴。因为他们不懂何为“权利”。“在不伤害他人的前提下，自由地认知世界”是一个人的权利。你可以不用，但不能被剥夺。奴就是自己不用，权利被剥夺后还嘲笑那些愿意多认知世界的人，说那些人“跪舔”。</p>
-<p>@zzq也可以叫229：宣传恐怖主义和搜索出色情内容影响孩子，你TM觉得国外是没有孩子了？最怕的不就还是怕撼动我党的霸主地位….</p>
-<p>@先生得学好：我们的国情是：你得用新华社通稿。</p>
-<p>@Zinyland：不要拿恐怖主义和色情信息举例子 找借口好吗？谁都知道封谷歌、脸书、ins的原因不是这些。真以为我们被你忽悠得啥都不知道？你这满口胡话就是对中国民众智商的侮辱！</p>
-<p>@柏小繁_Geeker：我们接入互联网了？什么时候接入的？</p>
-<p>@Godvisions：越不让我看的，我越要看。怎么能挡住我住我的求知欲。</p>
-<p>@魚未明：闭关锁国还讲的这么清新脱俗</p>
-<p>@KevinSong：网民折磨多，怎么可能是局域网？中国人这么多，怎么可能不民主？领导都是人民选的，不信你看看你家水表</p>
-<p>@Bayou_Gun：就算这WBD说的对，那凭什么乌镇开世界互联网大会时，会区内可以上这些“不符合法律”的网站？真要拿法律说事儿，乌镇算公然违法么？违法为何不究？或者是乌镇一秒钟变“租界”，享有“治外法权”了？</p>
-<p>@___Sinn：傻子都知道你不是为了色情。还有，没有电影分级制度，以模糊规则限制电影上映不正是你国ZF的专利？！</p>
-<p>@寶樹零叁柒肆：谷歌是一定要用的，搜索功能和百度比完全碾压，脸书用不用无所谓，但我们要的是选择的权利。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-13/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cnnic/?category=18271" rel="tag">CNNIC</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%83%85/?category=18271" rel="tag">中国国情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E7%BD%91/?category=18271" rel="tag">乌镇网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%E7%9A%84%E4%B8%87%E7%A7%91%E5%AE%9D%E8%83%BD%E4%B9%8B%E4%BA%89%EF%BC%9A%E9%97%A8%E5%8F%A3%E7%9A%84%E9%87%8E%E8%9B%AE%E4%BA%BA%EF%BC%8C%E8%83%8C%E5%90%8E%E7%9A%84/" target="cdt-mirror">至道书院｜万科宝能之争：门口的野蛮人，背后的赵家人</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E7%9F%B3.jpg" rel="attachment wp-att-422209"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E7%9F%B3.jpg" alt="王石" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/王石-300x194.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/王石.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
-<p><em><strong>原标题：细思极恐的万科宝能之争：门口的野蛮人，背后的赵家人</strong></em></p>
-<p>中国的资本市场，是一个四层结构：散，庄，财阀，赵家人。财阀，就是人们经常听到的某某系，某某大鳄。而财阀背后，各有各的老板，这个比财阀还大的终极大老板，通常，被称之为赵家人。</p>
-<p>散户听K线图的，K线图听庄家的，庄家听财阀的，财阀又听赵家人的。所以，但凡有看不懂的行情，背后一定是庄家在做局。有看不懂的局，肯定是财阀在背后抢地盘。有看不懂的财阀们的命运沉浮，那么背后一定又是一帮赵家人在北戴河谈心，不知道又谈出了什么结果。</p>
-<p>王石说宝能是“门口的野蛮人”，这话说的挺形象的，只有老板才有资格做赵家人，而财阀，再大的也只是老板的打手，给老板站台做事的，他们根本没有资格姓赵。同时在资本市场上，财阀们又表现的非常嗜血和勇猛，为了给自己的老板抢地盘，在所不辞，他们的确是一群野蛮人。资本市场上的野蛮人。</p>
-<p>每一个野蛮人背后，都站着一个赵家人。真正决定胜败输赢的，不在于站在门口的野蛮人，而在于野蛮人背后的赵家人。</p>
-<p>大财阀复星系的郭广昌，进去了，又出来了。说明什么呢，说明他背后的那个老板，被其他的老板，再下一城。而郭广昌能出来，显然，他是被招安了，愿意择主而事。而徐翔没出来，说明背后的帐还没算清，也或者是，徐翔这个人不愿意背叛自己背后的赵家人。</p>
-<p>赵家人们，上次在北戴河谈心后，华润系背后的老板损失惨重，变成了诸多赵家人里面的软柿子，你软了，别人不捏你捏谁呢。华润系，下面就包括万科和另一家万字头的地产大鳄。这另一家的地产大鳄，少当家的又是微博千万粉丝的著名网红。所以，如果以反腐拿下，在舆论上，会造成比较大的冲击，最好的办法，还是以经济手段，摧毁并攻占它们。</p>
-<p>为什么王石在遇到宝能的猛攻，去北京求援，华润迟迟的按兵不动呢。因为华润系背后的老板，现在说话没分量了。已成定局的事，为何还要做无畏的反抗呢。王石不甘心，因为他只是前面站台的财阀旗帜，即便他老板已经回天无力，他还要争，因为对于财阀来说，失去地盘，就一无所有了。没有地盘的财阀，对于赵家人来说，毫无利用价值。</p>
-<p>所以王石不得已，又前往香港，去找一个很大很大的赵家人求援。那个赵家人会救他吗，不一定。要知道，这家人，每一次历史上的重大抉择，都没有站错队。这一次，应该也不会站错队。王石能去求他们，说明已经迫不得已，几乎可以说是走投无路。</p>
-<p>宝能在这次事件中，只是一个打手，自己拿了钱，替别人办好事，这就是打手的职业操守。宝能背后，站着的是安邦，这个巨无霸一样的大财阀。即便华润这时候出手，也会十分忌惮安邦螳螂扑蝉黄雀在后的那双虎视眈眈势在必得的目光和决心。</p>
-<p>接二连三的大财阀异动，现在又把战火烧到了房地产行业。说明，赵家人之间的斗争，已经白热化，进入了最后的决战阶段。因为地产，才是最大的一块地盘。谁能把对方的势力驱逐出去，谁就能基本掌控中国的钱袋子。</p>
-<p>很多人都会困惑不解，为什么紫光，安邦这些大财阀，怎么一出手就是几百亿的大手笔，他们的钱是哪里来的呢。原因很简单，钱都是背后的老板给的。他们之前在前面站台奉命行事的。作为中关村系里面的一支，紫光背后的老板，也是很大的一个大老板，这个老板手里，不仅有紫光，还有方正，还有联想。</p>
-<p>这次也不例外，王石遇到了绕不过去的坎，开始打舆论牌，开始讲情怀。而郁亮呢，比王石更慌乱，他公开对媒体说这样的话：宝能你有种敢说你的钱都是从哪里来的吗。能说出来这种话，不是说他不懂规矩，不懂事，只能说他已经阵脚大乱，口不择言。这种话，怎么可以拿出来对外面说呢。</p>
-<p>这件事，王石有三条路，第一是急流勇退，留个好名声。第二是识时务者为俊杰，重新选边站队，可以保个平安，像郭广昌那样。第三，就是和宝能背后的老板死磕到底，选这条路，基本上就是跪定了。因为上面的老板都大势已去，只是他不甘心而已。</p>
-<p>中国的钱归谁管，明面上看，这个系几千亿，那个系几万亿，都撰在各大财阀手里，而实际上，这些财阀也只是前面站台的。接下来的局势，就比较明朗了，这些财阀，某某某某系的，都会轮番的被整肃。能接受整编的，投诚保个平安，负隅顽抗的，将被直接的打击毁灭。而打击的手段，不光有反腐，还有经济金融等手段。</p>
-<p>宝能说，王石你有种我们讲市场，讲规则。王石说，不，我现在不跟你讲市场，我要讲情怀。为什么，因为他这仗根本就没法打，很明显的，宝能是蓄谋已久有备而来的突然发起的猛攻。而王石呢，则是仓促应战，甚至都没有什么后手。他完全破解不了宝能的攻击，他除了讲情怀，他没有别的办法。</p>
-<p>这都是生意，怎么能感情用事呢。王石这仗是怎么输的呢，在这个大变局的时期，别人都在忙着选边站队，在谋划备战，而王石在干什么，王笨笨在忙着给一个三线小明星做红烧肉，在忙着做他的归隐梦，做他的陶渊明梦。</p>
-<p>但是，覆巢之下，岂有完卵。这浩荡的大趋势下，他又怎么可能独善其身。财阀只是老板属下的将领，作为一个将领，他显然丧失了敏锐的嗅觉和战斗意识。因为他幻想的太多，跟丢了时局和形势。所以，他即将到来的失败，也是他自己一手铸就的。</p>
-<p>对于抱着追剧看戏心态的人来说，这场大戏，才刚刚的进入高潮部分，后面还会有更高潮的高潮。大家如果想追这个剧，我就接着往下讲。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%87%B3%E9%81%93%E4%B9%A6%E9%99%A2.jpg" rel="attachment wp-att-422210"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%87%B3%E9%81%93%E4%B9%A6%E9%99%A2.jpg" alt="至道书院" width="258" height="258" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/至道书院-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/至道书院-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/至道书院-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/至道书院.jpg 258w" sizes="(max-width: 258px) 100vw, 258px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%E7%9A%84%E4%B8%87%E7%A7%91%E5%AE%9D%E8%83%BD%E4%B9%8B%E4%BA%89%EF%BC%9A%E9%97%A8%E5%8F%A3%E7%9A%84%E9%87%8E%E8%9B%AE%E4%BA%BA%EF%BC%8C%E8%83%8C%E5%90%8E%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">资本市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3/?category=18271" rel="tag">王石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%89%8B%E5%A5%97/?category=18271" rel="tag">白手套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -806,7 +815,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +825,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

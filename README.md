@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-3/" target="cdt-mirror">【真理部】浦志强案宣判后启动网评工作的部署</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0KKI8U8AUMO2f.jpg" alt="CW0KKI8U8AUMO2f" width="375" height="602" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0KKI8U8AUMO2f-187x300.jpg 187w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0KKI8U8AUMO2f.jpg 375w" sizes="(max-width: 375px) 100vw, 375px"></p>
+<p>XXX重要通知：</p>
+<p>今天上午，北京有关法院对浦志强案件进行了宣判，新华社等已经发布相关消息。根据最新工作部署，需要<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" target="_blank">启动网评工作</a>，现提出有关指令如下：</p>
+<p>一，请各位网评员联络员协调本市XXXX网评员进行跟帖评论。</p>
+<p>主要阵地在腾讯网，今日头条网站以及客户端所看法的新华网新闻报道后进行跟帖评论。</p>
+<p>跟帖阵地：http://top.todayonhistory.com/a/201512/27283.html</p>
+<p>二，此次跟帖没有<a href="http://chinadigitaltimes.net/space/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E8%AF%84%E8%AE%BA%E5%BA%93%E5%88%97%E8%A1%A8">统一模版</a>。要求每个网评员在每条报道后至少跟帖评论3条以上，其中要有1-2条有质量的内容。请大家根据新闻报道内容及下列主题灵活组织网评跟帖内容；把住浦认罪悔罪、向社会及受害人真诚道歉、认可公诉机关对其罪名的指控等。</p>
+<p>三，此次网评时间从现在开始持续到12月23日上午8:30.</p>
+<p>四，要保守关注纪律和<a href="http://chinadigitaltimes.net/space/%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E7%BD%91%E8%AF%84%E5%91%98" target="_blank">网评秘密</a>，不得<a href="http://chinadigitaltimes.net/space/%E7%AB%A0%E8%B4%A1%E5%8C%BA%E7%BD%91%E5%AE%A3%E9%83%A8%E4%BF%A1%E7%AE%B1%E6%B3%84%E5%AF%86" target="_blank">外泄相关网评工作信息</a>。</p>
+<p>五，要汇总统计。请于12月23日8:30时前，将大家将各地组织跟帖评论条数汇总发我微信（包括参展人员书、跟帖地、给帖数量等）。</p>
+<p>图片发给大家。可以适当选取直接贴在腾讯网、今日头条网站或客户端后面的报道中。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%97%A5%E8%AE%B0/" target="cdt-mirror">【图说天朝】小时候的日记</a>
 </h2>
 <p><p>@Rick_Xu ：今天回家清理过去的东西，发现了小时候写的日记，笑了差不多一整天。</p>
@@ -769,42 +792,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9B%E4%BA%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%9F%A5%E4%B9%8E-%E3%80%8C%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5%E3%80%8D%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%EF%BC%9F/" target="cdt-mirror">知乎 |「你也配姓赵」到底是什么意思？</a>
-</h2>
-<p><div>著作权归作者所有。</div>
-<div>商业转载请联系作者获得授权，非商业转载请注明出处。<br>
-作者：Wood Wu<br>
-链接：https://www.zhihu.com/question/28969122/answer/66788342<br>
-来源：知乎</div>
-<div></div>
-<div>不用和時事聯係。</div>
-<p>典出魯迅《阿Q正傳》，開頭介紹阿Q來歷時，説到他在村中大人物趙太爺家兒子進秀才時喝多了，吹牛說自己也姓趙，結果惹趙太爺不悅進而遭打：</p>
-<blockquote><p>那知道第二天，地保便叫阿Ｑ到趙太爺家裡去；太爺一見，滿臉濺朱，喝道：<br>
-「阿Ｑ，你這渾小子！你說我是你的本家麼？」<br>
-阿Ｑ不開口。<br>
-趙太爺愈看愈生氣了，搶進幾步說：「你敢胡說！我怎麼會有你這樣的本家？你姓趙麼？」<br>
-阿Ｑ不開口，想往後退了；趙太爺跳過去，給了他一個嘴巴。<br>
-「你怎麼會姓趙！——你那裡配姓趙！」<br>
-阿Ｑ並沒有抗辯他確鑿姓趙，只用手摸著左頰，和地保退出去了；外面又被地保訓斥了一番，謝了地保二百文酒錢。知道的人都說阿Ｑ太荒唐，自己去招打；他大約未必姓趙，即使真姓趙，有趙太爺在這裡，也不該如此胡說的。此後便再沒有人提起他的氏族來，所以我終於不知道阿Ｑ究竟什麼姓。</p>
-<p>——摘自《阿Q正傳》，第一章 “序”</p></blockquote>
-<p><a href="http://www.letscorp.net/lynn/wp-content/uploads/2015/12/CKvsnt1UcAAwPfH.jpg"><img src="http://www.letscorp.net/lynn/wp-content/uploads/2015/12/CKvsnt1UcAAwPfH.jpg" alt="CKvsnt1UcAAwPfH" width="550" height="227"></a></p>
-<p>“你也配姓趙”實際上是一個複雜的表達，包含了一套完整的邏輯。<br>
-《阿Q正傳》中的趙太爺是村中有權有勢的大人物，與趙太爺同姓意味著“與有榮焉”，也就是可以分享趙太爺的權勢。然而趙太爺并不承認阿Q姓趙，也不願分享權勢。<br>
-擴大地審視這個現象，可以認爲這是統治階級内部的一種相互認同的方式。然而這種認同方式并不與非統治階級共享——即使你真的也姓趙，人家不承認也沒有意義。<br>
-在此邏輯下，聯係社會現實，“姓趙”可以用來指當今社會中由當權者、紅二代、紅三代、紅色資本家等分享權財的裙帶關係者所組成的統治階級，而“你也配姓趙”則多用於諷刺“自帶乾糧的五毛黨”——也就是作爲被統治者，明明處於無法分享利益的立場，卻被統治者欺騙而爲統治者説話的人。</p>
-<p>原话源于阿Q正传。阿Q想和赵老爷攀亲，结果赵老爷讽刺他，说：你也配姓赵，你哪里姓赵？<br>
-近日，某官员被问及如何看待网上的自干五时，引用了这句话。意思是自干五不配和五毛攀亲。</p>
-<p>起因是：微博用户 @穆好古 问四川团省委某喽啰对自干五现象怎么看。团省委喽啰回答的大致意思是：“你也配姓赵”。好玩的是……后来阎王殿某副部长级别人物在某次会议上大肆赞扬“自干五现象”并要求广大“赵家人”学习自干五，所以呢……你也配姓赵这话其实应该改成“你也配姓走”，因为真正有资格自称“赵老爷”的人说了相反的话嘛，那位四川团省委的喽啰也就只能当个“走老爷”（和赵老爷比档次不够啊），那句经典的嘲讽只好降级为：你也配姓“走”</p>
-<p>民主党派人士问起某宣传部人士，对网上的自干五现象怎么看？宣传部人士鄙夷的回答“你也配姓赵？”<br>
-此民主党派人士把这段发到了微博上，然后就被约谈了。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%9F%A5%E4%B9%8E-%E3%80%8C%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5%E3%80%8D%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E5%85%9A/?category=18271" rel="tag">五毛党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5/?category=18271" rel="tag">你也配姓赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%80%81%E7%88%B7/?category=18271" rel="tag">赵老爷</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -816,7 +803,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -826,5 +813,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

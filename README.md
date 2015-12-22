@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%97%A5%E8%AE%B0/" target="cdt-mirror">【图说天朝】小时候的日记</a>
+</h2>
+<p><p>@Rick_Xu ：今天回家清理过去的东西，发现了小时候写的日记，笑了差不多一整天。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlc6v5hj216s0qo13w.jpg" alt="631ce72bjw1ez7nlc6v5hj216s0qo13w" width="440" height="274" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlc6v5hj216s0qo13w-300x187.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlc6v5hj216s0qo13w.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlcosa0j20mz0hd426.jpg" alt="631ce72bjw1ez7nlcosa0j20mz0hd426" width="440" height="333" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlcosa0j20mz0hd426-300x227.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlcosa0j20mz0hd426.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nle6kikj21kw0lydt4.jpg" alt="631ce72bjw1ez7nle6kikj21kw0lydt4" width="440" height="170" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nle6kikj21kw0lydt4-300x116.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nle6kikj21kw0lydt4.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nletvhfj21500qodsn.jpg" alt="631ce72bjw1ez7nletvhfj21500qodsn" width="440" height="286" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nletvhfj21500qodsn-300x195.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nletvhfj21500qodsn.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlhor92j21kw0q0qhn.jpg" alt="631ce72bjw1ez7nlhor92j21kw0q0qhn" width="440" height="201" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlhor92j21kw0q0qhn-300x137.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlhor92j21kw0q0qhn.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlkoy34j20xk0qowob.jpg" alt="631ce72bjw1ez7nlkoy34j20xk0qowob" width="440" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlkoy34j20xk0qowob-300x239.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlkoy34j20xk0qowob.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nll8vl1j217c0qok2q.jpg" alt="631ce72bjw1ez7nll8vl1j217c0qok2q" width="440" height="271" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nll8vl1j217c0qok2q-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nll8vl1j217c0qok2q.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>@Rick_Xu：晒出几篇小时候的日记，被狂转狂评了。儿子问：你那时写的是真心话吗？回答这个问题还真有点难，得重回那个语境。从小被洗脑，那时还真的是这么想的，或者自己真心以为是这么想的。不能用现在的思维评价扭曲时代的思想。想到这里，我幸福的笑了。</p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：,sdhe</strong></p>
+<p>学术在拐角：一个时代的典型性刻画啊……瞬间觉得社会主义的春风迎面袭来……</p>
+<p>东风永健：革命事业接班人。</p>
+<p>冰与火的乐章：接到班没有啊，楼主。</p>
+<p>人望不惑：从50年代开始我们都生活在这样幸福的生活中。</p>
+<p>-法號文納：76年我三年级，刚好赶上唐山大地震，之后拿着小板凳去河边坐在大堤上上课，10月份下着雨游行，我领着喊口号：打倒王张江姚四人帮…….</p>
+<p>桐阶月暗：我小时候（90年代）只是把“革命接班人”换成“祖国的栋梁之才” 而已。</p>
+<p>DopeyTom：可惜了，博主。你要是一直坚持这种风格，上次开文艺座谈会就没有一花一带什么事了。</p>
+<p>语声jon：班委扩大会！民主气氛很浓！</p>
+<p>蕭沉：哈哈，我中小學寫過的那些日記本早就不知道扔哪去了。總之全是沒話搭話的這種，空泛蒼白，熟悉極了。</p>
+<p>冲动de猪：你个没节操的，信仰呢！</p>
+<p>盛满阳光的篮子：人的思想、意识绝大多数都是一种被环境搭建的产物，这个搭建起来的思想显然靠不住，所以老子说无名万物之母，那个无名才靠得住。</p>
+<p>天荒寺孤僧：所以，一代人想当然的认为自己是赵家人。</p>
+<p>殆知阁：你听那军号声嘀嘀哒哒哒童男童女排成队迎着你走来……</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%97%A5%E8%AE%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A9%E5%91%BD%E4%BA%8B%E4%B8%9A%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">革命事业接班人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-2015%E5%B9%B4%E5%BA%A6%E8%AF%84%E8%AE%BA%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%BD%A0%E5%BF%A7%E5%9B%BD-%E4%BB%96%E7%88%B1%E5%9B%BD/" target="cdt-mirror">旧闻评论 | 2015年度评论报告：你忧国 他爱国</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA.jpg" alt="秃头倔人" width="450" height="611" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/秃头倔人-221x300.jpg 221w, http://chinadigitaltimes.net/chinese/files/2015/12/秃头倔人.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"></p>
@@ -778,32 +805,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF/" target="cdt-mirror">东网 | 东步亮：网络主权是个什么东西</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-%E4%B8%8B%E5%8D%884.46.21.png" alt="Screen Shot 2015-12-19 at 下午4.46.21" width="519" height="291" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-下午4.46.21-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-19-at-下午4.46.21.png 519w" sizes="(max-width: 519px) 100vw, 519px"><br>
-（图片来自网络）</p>
-<p>作者：东步亮</p>
-<p>中共党首、中国国家主席习近平在第二届世界互联网大会上发表主旨演讲，提出“四项原则”和“五点主张”，其中“四项原则”之首为“尊重网络主权”，引起网友大规模恶搞和吐槽。</p>
-<p>习在演讲中认为，《联合国宪章》确立的主权平等原则是当代国际关系的基本准则，覆盖国与国交往各个领域，其原则和精神也应该适用于网络空间。</p>
-<p>这不是习第一次提及<a href="http://chinadigitaltimes.net/space/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83" target="_blank">网络主权</a>。在去年7月16日巴西国会演讲、去年11月19日首届世界互联网大会贺词中，习已多次提及或阐释了“网络主权”的概念。按照习的阐述，网络主权涵盖的范围包括尊重各国自主选择网络发展道路、网络管理模式、互联网公共政策和平等参与国际网络空间治理的权利，不搞网络霸权，不干涉他国内政，不从事、纵容或支持危害他国国家安全的网络活动等。此次，习的发言更为明确，将“网络主权”概念上升为国际互联网治理的一个重要原则。</p>
-<p>显然，这次“网络主权”概念的再次提出和强调，经过了有关部门的长期筹划和精心准备。习的讲话发表后，除了报纸、电视等中共喉舌媒体纷纷派出记者采访中共指定的著名“五毛专家”如张颐武、方滨兴等之外（张颐武是一个搞文学批评的教授，这几年频频为中共的肮脏活出面站台，竟让一个文学批评“专家”来就网络问题发言，也真是醉了），还事先准备了若干篇“雇佣军”撰写的网友口气“释疑”洗地文，在各大网站及媒体帖出和发表。习的讲话一公布，幕后黑手们即开始“网络大会战”，向网友宣讲、在各处灌水，试图在网络上抢占“网络主权”的解释话语权，形成“正能量”。</p>
-<p>但是他们忽略了一个关键点。当“网络主权”成为热词，人们开始上百度百科搜索（谷歌无法使用）这个词时，才发现聪明的网友对此另有解释。</p>
-<p>2014年7月30日网友编辑的百度百科“互联网主权”词条是这么解释的：</p>
-<p>“这个新词汇属于中国国家主权”，“一国之互联网，定然当有边界，一个国家有领土领海领空，必然，也将有‘领网’。领网之下，也可以根据各地情况设置行政管理区，统属新闻办，以便有效管理。”</p>
-<p>“有了主权，就有领网，有了领网，就有边界。领网的边界需要‘墙’来定”。</p>
-<p>“我们知道，领土，可以通过长城界定，前文讲了领网的概念，领网，也可以通过伟大的‘防火墙’界定。有了墙，互联网上就有国际边界，大家你不烦我我不烦你，平等。墙作为边界的象征，是应该受到法律保护的。因此，翻墙是一种未经许可的违法行为，违法行为，则要受到国际制裁。网络偷渡行为，也将受到打击。”</p>
-<p>“又有人问，不闭关锁国，那Google.com为啥不能访问了？Google不能访问，那是他们自绝于中国网民。在信息泛滥，没有主权的时代，他们付出了惨重的代价。现在，建立这样一套网络主权，维护了国际网络秩序后，你就可以访问啦。怎么访问？很简单，作为一个网民，你要带好居民身份证，按照公民出国流程，准备好各种证明材料，先到‘网络大使馆’申请，网络大使馆将申请提交Google，获得Google批准后即可登录。哈哈。当然你不能有犯罪前科，若是档案中曾有黑客记录的话，遭拒的可能性那就比较大啦。”</p>
-<p>这个解释应该是中国国务院新闻办公室首份《中国互联网状况》白皮书发表后，网友对白皮书的讽刺和恶搞，其中的语调清楚地表明了网友们对所谓“互联网主权”的反对意见。随着习讲话后“网络主权”一词火爆，百度百科对这个词条的解释“翻‘墙’是一种国际偷渡的犯罪行为”被迅速传遍社交媒体，“吓尿”了很多人。上国外网站居然是偷渡和犯罪，居然先要去向“网络大使馆”申请，这可不得了！“习大大”的“网络主权”名词果然很吓人。</p>
-<p>不过这个词条很快就被屏蔽。官方版本的“网络主权”词条替代了它。官方版本认为“网络主权”的含义包括“管辖权”、“独立权”、“防卫权”和“平等权”，其中“管辖权”是指“主权国家对本国网络加以管理的权力，比如通过设置准入许可限制未被授权的网站接入到网络中，对不服从管理的网站立刻停止服务”，这一下子泄露了中共设置所谓“网络主权”的根本目的，即试图让中共屏蔽境外网站、阻拦国内网民访问境外网站的行为合法化。一切所谓的“网络主权”之提法，不过是为此服务。</p>
-<p>信息的自由流动、无障碍传播是互联网的基本要义，中共居然要以所谓“主权”的名义来合法化他们屏蔽自由信息的无耻行为，并且堂而皇之在各种国际场合公开倡议，真是荒唐得够可以，这样的卑鄙行径应该记入吉尼斯世界纪录。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87/?category=18271" rel="tag">乌镇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -815,7 +816,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -825,5 +826,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

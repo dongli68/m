@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B7%B1%E5%9C%B3%E5%9D%8D%E5%A1%8C%E5%8F%97%E7%BA%B3%E5%9C%BA%E8%BF%90%E8%90%A5%E6%9D%83%E7%94%B1%E4%B8%AD%E6%A0%87%E8%80%85%E5%8D%B3%E6%97%B6%E8%BD%AC%E5%8C%85%E8%8E%B7%E5%88%A975%E4%B8%87/" target="cdt-mirror">财新网｜深圳坍塌受纳场运营权由中标者即时转包获利75万</a>
+</h2>
+<p><p><strong>【编者注】财新网原文已被删除。以下内容来自<a href="http://webcache.googleusercontent.com/search?q=cache:bm8vCypN1DYJ:china.caixin.com/2015-12-21/100891130.html">谷歌缓存</a></strong></p>
+<p>（记者 林金冰 实习记者 杨柳青）</p>
+<p>深圳市绿威物业管理有限公司（以下简称“绿威物业”）是20日滑坡事件中坍塌受纳场的中标运营方。绿威物业工作人员21日接受财新记者采访称：公司中标后，即将运营权转让给深圳市益相龙投资发展有限公司（下称益相龙公司），收取转让费75万元。</p>
+<p>两年半前（2013年7月23日），深圳光明新区政府采购中心发布招标公告，标的是“红坳渣土受纳场运营服务项目”。</p>
+<p>红坳受纳场即是20日深圳滑坡发生后，广东省地质灾害应急专家组初步认定的坍塌主体。这一结论改变了事故调查方向：从山体滑坡自然灾害转向安全生产责任事故。</p>
+<p>公告提出投标人资格要求包括：必须有“物业管理”经营范围；不接受联合投标，但允许将施工项目分包给有专业施工资质的企业。</p>
+<p>绿威物业该工作人员向财新记者出示的一份合同文件显示：2013年7月23日亦即招标公告当日，绿威物业与益相龙公司签下合同，前者承诺中标后将红坳渣土受纳场运营项目，转让给后者经营管理，并向后者收取75万元转让费。</p>
+<p>工作人员同时强调：当年是益相龙公司前来相告，绿威物业才知道有这一招标项目。</p>
+<p>合同显示：益相龙公司需制订红坳渣土受纳场运营技术方案，自负盈亏，同时承担安全事故等重大意外责任。</p>
+<p>半个月后（2013年8月7日），绿威物业中标。前述绿威物业工作人员认为，在此之后，红坳渣土受纳场运营项目就由益相龙负责，与绿威物业再无关联。</p>
+<p>查询工商资料可知：益相龙公司成立于2003年，注册资本1000万元，经营范围既有“物业管理”，也有“余泥、渣土及建筑垃圾受纳场的、纯土受纳场的管理”（工商资料注明：受纳场执照需要另行办理）。</p>
+<p>益相龙公司两名自然人股东为龙华美、龙容美，分持70%、30%股权。龙华美任执行董事，龙仁福任总经理，杜磊任监事。</p>
+<p>既然益相龙公司可以经营“物业管理”，同样具有投标资格，为何要让绿威物业先中标再转让呢？财新记者多次拨打益相龙公司一名余姓负责人手机，无人接听；益相龙公司法人代表龙华美电话一直关机。</p>
+<p>财新记者21日到访益相龙登记办公地址，即福田区梅林路的绿化大厦一层。只见大门已锁，红色锁头铺满灰尘，透过玻璃门可见地上散落信件几封，室内空无一人。大厦保安人员透露，益相龙公司三个月前搬离此处，应是迁往他处办公，公司规模不大，出入人员约有二十个。</p>
+<p>值得注意的是，红坳渣土受纳场运营项目招标公告，只提及“允许将施工项目分包”，但未说明究竟包含哪些施工项目，也未提及是否允许将整个运营项目转让他人。据财新记者了解，这一项目的采购方，是光明新区城市建设局。</p>
+<p>财新记者分别致电光明新区政府采购中心及城市建设局，二者均无正面回应。前者工作人员表示，采购中心仅负责中标过程审核和结果判定。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B7%B1%E5%9C%B3%E5%9D%8D%E5%A1%8C%E5%8F%97%E7%BA%B3%E5%9C%BA%E8%BF%90%E8%90%A5%E6%9D%83%E7%94%B1%E4%B8%AD%E6%A0%87%E8%80%85%E5%8D%B3%E6%97%B6%E8%BD%AC%E5%8C%85%E8%8E%B7%E5%88%A975%E4%B8%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E8%B4%A3%E4%BB%BB%E4%BA%8B%E6%95%85/?category=18271" rel="tag">安全责任事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5/?category=18271" rel="tag">安全检查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB/?category=18271" rel="tag">深圳山泥倾泻</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%B3%95%E9%99%A2%E5%88%A4%E5%A4%84%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%89%E5%B9%B4%E7%BC%93%E5%88%91/" target="cdt-mirror">BBC | 北京法院判处中国维权律师浦志强三年缓刑</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151214120958_cn_pu_zhiqiang_976x549_afp_nocredit.jpg" alt="浦志强曾是1989年天安门学运的示威者。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/151214120958_cn_pu_zhiqiang_976x549_afp_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/151214120958_cn_pu_zhiqiang_976x549_afp_nocredit.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>浦志强曾是1989年天安门学运的示威者。</p></div>
+<p><strong>北京市第二中级法院就中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”一案裁定浦志强有罪，两罪并罚，判处三年有期徒刑，缓刑三年。</strong></p>
+<p>浦志强2014年5月初被警方抓捕，至今年12月14日首次接受审判。北京二中院星期二（12月22日）作出一审宣判。官方新华社称浦志强服从判决不上诉。</p>
+<p>检方根据浦志强所发表的七组微博对他提起公诉。官方新华社报道称：“浦志强在庭审期间，表示认可公诉机关指控的犯罪事实，多次向公众和被害人真诚致歉，愿意接受法律的处罚。”</p>
+<p>美国与欧盟等西方政体认为浦志强只是行使其言论自由，纷纷要求中国无罪释放浦志强，中国则多次强调外国“必须尊重中国的司法主权”。</p>
+<p>一如14日庭审当天，北京二中院外星期二驻扎了大量警力，包括多名疑似便衣警员。BBC记者埃文斯及其采访队报道说，多名到法院外声援浦志强的民众被便衣人员拉走。</p>
+<p>BBC采访团队随后遭警察没收记者证件，警察指控BBC记者无照进行连线报道，违反中国法律。</p>
+<p>国际特赦组织称，警方在北京二中院外带走了至少12名声援者。BBC中文网未能独立核实此说法。</p>
+<p>组织批评说，中国法院对浦志强的判决是“给一位言论自由领先者扣上枷锁的蓄意行为”。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151222034633_cn_pu_zhiqiang_verdict_02_976x549_bbc_nocredit.jpg" alt="警员试图阻止BBC采访队摄像。" width="600" height="338" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/151222034633_cn_pu_zhiqiang_verdict_02_976x549_bbc_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/151222034633_cn_pu_zhiqiang_verdict_02_976x549_bbc_nocredit.jpg 624w" sizes="(max-width: 600px) 100vw, 600px"><p>警员试图阻止BBC采访队摄像。</p></div>
+<p><strong>“从轻处罚”</strong></p>
+<p>浦志强被警方抓捕时的犯罪嫌疑是“寻衅滋事”和“非法获取公民个人信息”，至去年11月被加控“煽动分裂国家罪”和“煽动民族仇恨、民族歧视罪”。如今公诉方只根据他所发表的七组微博，诉以“煽动民族仇恨罪”和“寻衅滋事罪”。</p>
+<p>中国中央电视台与新华社在法院宣判后不久即发稿报道判决结果。新华社的报道称：“鉴于被告人浦志强如实供述指控的犯罪事实，积极认罪悔罪，法院依法对其从轻处罚，两罪并罚决定执行有期徒刑三年，缓刑三年。浦志强表示服从判决不上诉。”</p>
+<p>“浦志强在庭审期间，表示认可公诉机关指控的犯罪事实，多次向公众和被害人真诚致歉，愿意接受法律的处罚。浦志强同时表示，从自身的经历，感受到了法治的进步、法律的完善及社会的进步。”</p>
+<p>不过，浦志强的代表律师尚宝军此前对BBC说，浦志强在庭审中并未认罪，但说要是其微博伤害到任何人，他愿意道歉。</p>
+<p>浦志强的另一名代表律师莫少平稍早前对外发布了检方所摘编作为证据的微博内容。其中被视为干犯“煽动民族仇恨罪”的包括对2014年3月昆明火车站袭击案的评论。该次袭击共造成31人死亡，北京当局将之定性为新疆维吾尔族分离主义份子策动的“暴力恐怖袭击”。</p>
+<p>被视为干犯“寻衅滋事罪”的微博则包括对中国连任全国人大代表次数最多者申纪兰，以及已故中共领导人毛泽东嫡孙毛新宇的批评。</p>
+<p>新华社的报道说：“法院审理认为，2012年1月至2014年5月间，被告人浦志强使用其注册的‘小小律师浦志强’等新浪微博账户，先后8次发布多条微博，挑拨民族关系，煽动民族仇恨，共计被转发2500余次，评论1300余条，引发了一些网民激烈的民族仇恨、民族对立情绪，具有现实的社会危害性，达到了情节严重程度。而且在被网站管理员多次提醒不宜公开、予以处理的情况下，浦志强仍继续发布煽动性微博，足见其主观上具有煽动民族仇恨的故意，其行为已构成煽动民族仇恨罪。”</p>
+<p>“法院审理认为，2011年以来，针对社会热点事件，被告人浦志强先后4次发布侮辱性微博，辱骂多人，共计被转发900余次，评论500余条，引发大量辱骂性跟帖和负面言论，不仅给他人造成了心理伤害及社会评价降低的后果，而且造成网络空间秩序的混乱和恶劣社会影响，扰乱了社会公共秩序，已达到情节恶劣程度，其行为已构成寻衅滋事罪。”</p>
+<p>莫少平星期二听判后在法院外对香港媒体记者说，他对浦志强获判缓刑感到高兴，只要浦志强能走出看守所他都感到欣慰，但他强调浦志强无罪。</p>
+<p>国际特赦组织中国研究员倪伟平（William Nee）在一份声明中说：“浦志强不太可能要在监狱度过另一个晚上显然是正面的，然而这埋没不了针对他的司法不公。”</p>
+<p>“他绝非犯罪分子，这个有罪裁决正是给中国最勇敢的言论自由领先者扣上枷锁，阻止其从事法律工作。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%B3%95%E9%99%A2%E5%88%A4%E5%A4%84%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%89%E5%B9%B4%E7%BC%93%E5%88%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-125/" target="cdt-mirror">【河蟹档案】百度百科：“翻墙是一种国际偷渡的犯罪行为”</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em><em>相关阅读｜</em></p>
@@ -737,73 +795,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA-%E6%9C%B1%E5%AD%A6%E5%8B%A4%EF%BC%9A%E8%AE%B0%E5%A5%BD%E5%8C%BB%E7%94%9F%E9%AB%98%E8%80%80%E6%B4%81/" target="cdt-mirror">东方历史评论 | 朱学勤：记好医生高耀洁</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：原文已遭删除，本文转载自“传送门”（chuansong.me）</strong></p>
-<p><em>今天（2015年12月19日）是“中国防艾第一人”高耀洁的88岁生日。我们刊发朱学勤教授写于五年前的这篇文章，祝她生日快乐。</em></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-18-at-%E4%B8%8B%E5%8D%8810.19.28.png" alt="Screen Shot 2015-12-18 at 下午10.19.28" width="550" height="348" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-18-at-下午10.19.28-300x190.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-18-at-下午10.19.28.png 726w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>我与高耀洁相识，是因为与中原有不解之缘。“文革”中插队去河南，在豫东盐碱地上生活过几年。犹记寒冬腊月，天一亮背起粪箩头拾粪，走九里跨过省界，走到过山东曹县地面。后来与高耀洁教授见面，才知道那竟是她出生的地方。中原血祸震惊全国，我去郑州她家，但见四壁萧瑟，墙上挂着一幅对联“但愿人皆健，何妨我独贫”，地上、床上、过道处凡能插脚的地方，堆满了防艾图书和方便食品，等着打包邮寄。听她略带鲁西南口音的豫东方言，与我能说的河南土话同音，于是互称“老家只隔几里地”。</p>
-<p>她问我对河南的印象，我说那里的官场令人不快，热情中透着虚伪，庸碌中透着狡诈；而百姓分外可怜，哀其不幸，怒其不争。四十年前，我带着左翼激情去豫东，下乡第一课是请贫苦社员忆苦思甜，老人们说着说着下了道，控诉起1959年“合大伙”（办食堂）饿死人的恐怖岁月，干部连声在底下喊：“下来，下来！”那一声喊，将我的左翼狂热砸得粉碎。高耀洁接着这句话，说了另一个“下来，下来”的故事：</p>
-<p>2001年9月30日，她到河南周口地区查访艾滋病疫情，返途中听说某村疫情严重，临时拐弯走进了这个村子。进村就听见有奶声奶气的叫声，略带嘶哑：“下来！下来！”循声走进一个门半掩小院，走到靠北的屋子，欲待敲门询问之际，出来一条大黑狗。这狗骨瘦如柴，叫了一声，返身回屋。她跟着那狗走进屋里，只见梁上垂挂着一根草绳，一个年轻农妇悬梁自尽。尸体脚下，是一个两岁多的小男孩，鼻涕和着眼泪哭喊，抓住梁上尸体的脚后跟在啃咬。</p>
-<p>“下来，下来！”，显然是那个只有两岁的孩子发出的，他是叫娘“下来”给他喂奶，却只够得到妈妈冰凉的脚后跟，将脚后跟当乳头啃咬。那一天是中秋前夕，也是那年那月的最后一日，中原血殇，以一个孩子的嘶哑叫声在纪念第二天的节日，母与子生离死别！如此悲惨景象，大概只有在毛泽东同样是咏叹血祸的诗词中出现过？——“千村薜荔人遗矢，万户萧疏鬼唱歌”。不到两个月，那孩子也死了。</p>
-<p>谈到我对中原官场的厌恶，高耀洁告诉我血祸恰恰起源于那里的官场，官员为“GDP”大办血站，官员采血，百姓卖血，祸害由此而起，并不是起源于西方人理解的民众“性解放”。她与我讲了当年田间地头如何采血、卖血的细节，此后她也曾对作家阎连科讲过，后者将其写入小说《丁庄梦》（上海文艺出版社2006年版）。阎连科的文学风格是魔幻现实主义，但这一细节却完全是写实：</p>
-<p>一夜间，几百口人的丁庄村，突然冒出了十几个血站来。县医院血站、乡医院血站、乡政府血站、公安局血站、组织部血站、宣传部血站、兽医站血站、教育局血站、商业局血站、驻军血站、红十字会血站、配种站血站，八八九九，竖一块木牌子，写上几个字，来两个护士和会计，一个血站就建立起来了。</p>
-<p>在庄头，在十字路口上，在谁家闲着的一间屋子里，再或把原来废了的牛棚扫一扫，取下一块门板洗一洗，把门板架在牛槽上，摆上针头、针管、酒精瓶，再把抽血的玻璃瓶子挂在牛棚的横梁上，这就开始买血、卖血了。</p>
-<p>庄子里到处都是挂着如藤如蔓、流着血的塑料管和红葡萄似的血浆瓶。到处都是扔的消毒棉球和废针头。到处都是碎了的针管玻璃和装血的玻璃瓶。到处都是搁着、挂着收集起来的O型、A型、B型、和AB型的血瓶和血桶。地面上是一片落着的血滴和洒出来的红血浆，空气中整日飘散着红烈烈的血腥气。</p>
-<p>……</p>
-<p>（老村长李三仁）唤着说：“丁辉呀——我头晕得很，这天这地都在我眼前转圈儿。”</p>
-<p>我爹说：“不让你卖你偏要卖。我提着你腿倒倒血？”</p>
-<p>他就说：“倒倒吧。”</p>
-<p>也就躺在田头上，我爹、我叔一人提了一只他的腿，脚在上，头向下，让他的血从腿上、身上朝着头上流。为了让他头上血足些，我爹我叔还慢慢提着他的双腿抖了抖，像提着洗了的裤子腿，抖着让水从裤腿朝着裤腰上流。</p>
-<p>抖完了，把他的双腿放下来：“好些吗？”</p>
-<p>李三仁就从地里慢慢站起来，走了两步路，回头笑着说：“好多了。我经了半辈子的事，还怕流这一点儿血。”</p>
-<p>我爹我叔蹬着三轮就走了。</p>
-<p>李三仁便柱着镢头又回田里干活了。</p>
-<p>阎连科听高耀洁讲述上述细节，惊讶得半天说不出一句话。我所谓“哀其不幸，怒其不争”，也只是来自鲁迅笔下，来自“鲁镇”、“未庄”系列小说。但鲁迅想象力再丰富，也无法想象世间有如此真实景象——人如鸡鸭，“提腿倒血”。这就是我所熟悉的中原田间地头，这就是我所熟悉的豫东乡亲父老？相比“我爹”、“我叔”、“李三仁”，那祥林嫂、阿Q、小T又算得了什么！</p>
-<p>也许正是这些亲眼目睹的悲惨场景，以及那一声声“下来，下来”，给高耀洁弱小的身躯注入顽强动力。她不是第一个把中原血祸说出来的医生，却是捅出这个消息之后（1996年），连续14年坚持不懈、遭打压而绝不倒下的人。《2009年中国卫生统计年鉴》公布，中国在2008年有19712所医院。即使以每个医院只有20个医生为计，也至少有40万医生。而这40万人中，为这场血祸站出来说话的只有4个医生，10万分之一；4个医生中只有高耀洁教授面对14年来的艰难险阻，挺到今天。她走过100多个村庄，访问过近1000个艾滋家庭；足迹遍布豫、冀、鲁、晋、陕、皖、湘、鄂、浙、苏、云、贵、川、粤、桂、沪16个省市。她收到过来自艾滋病人和各种其他性病相关的信件15000封，她给每一封信回信，没有让任何一个病人失望，这些信件集编为《一万封信》，已正式出版（中国社会科学出版社2004年版）。她亲手救助的艾滋孤儿就有164个。她的家每天接待来访的艾滋病患者，多的时候一个月内接待过58位。她自编、自写、自费印刷、自费寄出的防艾读物有130多万册。相伴一生的老伴郭明久医生于2006年4月去世后，她一度情绪低落，我把当月收到的稿费寄给她以致丧礼，她的回信竟是邮寄几百本防艾的宣传册，嘱我在大学生以及社区中分发。她不是没有钱，而是把国际、国内所获的奖金和个人积蓄、稿费、讲课费等总计100多万元人民币，全部用在了中原血祸、百姓血难的救助工作上！</p>
-<p>血祸蔓延惊天动地，危及种族血脉。如在以往，下至县丞上至朝廷将寝食难安，在今天也应该是部长、书记、乃至国家总理亲自过问的事，她却以八旬老人的孤独肩膀一人扛了起来。2007年，她突破封锁到美国首府华盛顿领取“环球女性领袖奖”，那是她迄今在国际上获得七个奖项中的第六项，但也是她第一次能够出国领奖。颁奖会上，一位未受邀请、自费乘机、自购昂贵门票、专程远途而来的美国乡间老妇人，握着高耀洁的手，急匆匆表达自己的钦佩，她愿以自己的微薄退休金赡养高耀洁晚年。凭着美国普通民众的直觉，她将高耀洁与特蕾莎修女（Mother Teresa，1910－1997）相提并论，说“高教授的工作条件比特蕾莎修女还要困难，高教授不仅是善良人，还是一个英雄。”</p>
-<p>这位素不相识的美国乡间妇人，也许比我们本土知识人士更懂我们这里的“特色”，更知道“特色”下的高耀洁是如何艰难：</p>
-<p>她本身是个残疾人。除了高血压、心脏病，她比正常人缺少一个重要器官——胃。她的胃在“文革”中遭暴打损伤，切除了十分之九，而今不过是一截肠子一样的象征物。在上海，我见她走路有点蹩拐，才发现这位妇产科医学教授竟然是我在豫东民间到处看得见的“大娘脚”——双足缠裹又放过。在参议员办公室，希拉里久久注视这双在西方看不到的脚，无法想象就是这双脚走过中国千里万里，山路、平路、沟沟坎坎，一步一步捱了下来。</p>
-<p>她是一个妻子。当她在山东大学讲坛上为学生普及防艾知识的时候，老伴病倒住院；当她在那里调查非法采血的黑血站时，老伴卧于病床乏人照顾；在她把关爱源源不断送给艾滋孤儿寡母的时期，老伴溘然去世。她是一个母亲，“文革”中儿子受她牵连，13岁曾被判刑关进冤狱，一生都活在恐惧中；小女儿受她牵连，曾经失去工作，走投无路，因此不能理解她的菩萨心肠和献身行为，至今对她心有怨忿。言及自己的亲人们，老人垂泪不已，私下里说：老伴是个好老伴，自己不是个好母亲。</p>
-<p>2007年，为了保全中原的脸面，而不是中原的生灵，有关方面调动所有能调动的力量，既要阻止老人出国领奖，又要迫使她做出自动放弃的姿态。最后竟把她那少年时期受其牵连，至今心有余悸的儿子动员到她面前。儿子以自己的工作和前程为抵押，给老人重重地磕响头，跪请母亲答应有关方面的话。那一天是2007年2月18日大年初一，她没有动摇，她用那双给这个世界接生无数次的手，在纸上写下了两行字：第一行是：“儿子郭锄非曾因我受害坐过三年狱。”第二行是：“本人行为本人负责，一切概与儿子无关。”此时此刻，她脑海里挥之不去的，想必还有另一幅母与子生离死别的真实画面，声声叫唤“下来，下来”？</p>
-<p>“空气中弥漫着采血、卖血的气息”，这在特蕾莎修女的世界是不存在的。特蕾莎最不能想象的是，艾滋病在西方是“后现代病”，但在中国竟会在不知后现代为何物的前现代农夫、农妇中疯狂蔓延。高耀洁一再辨明，中原血祸不是因为“后现代”，而是肇始于官场“前现代”，是官员疯狂追逐“GDP”，不择手段，这才造成这场旷古奇闻、人间惨祸。她说穿了艾滋病的“中国特色”，说穿了“后现代”浮表下的“前现代”血写的秘密，却又顶住压力守口不改，终于得罪有关方面，最终竟不能见容于这块土地。</p>
-<p>这一天终于来了。2009年8月9日早晨，我打开电脑，高耀洁发自大洋彼岸的一封电子邮件赫然在目：</p>
-<p>我离开中国，为的是能让世界知道中原血祸的真相；我还是要回来的，我死也要死在回中国的飞机上。</p>
-<p>合上电脑，我的大脑一片空白，如受电击，久久无言。耄耋八旬，离家万里，举目无亲，风烛残年？在我所知道的出走历史中，大概只有托尔斯泰83岁高龄在风雪中出走可以与之比拟。高耀洁也是知识分子，只是饱受儒家传统教育熏染。第一次与我见面，《诗经》、《论语》，脱口而出，整章背诵。不要说医学专家，即使在我认识的人文学界专业人士中，亦未见如此心诵故国古典者。她也83岁高龄了，这样一位可敬可亲的老人，在她有生之年，我再也见不着了？不再是乡音絮语，不再是《诗经》、《论语》，不再是“老家只隔几里”，而是一去两万里，桴浮于海，我们只能在飞机舷梯下等待她去国还魂之遗骸？</p>
-<p>960万平方公里有“血祸”在地下蔓延，却容不下地表上一个站着说真话的老人！所谓“中原血祸”，只是一个隐喻：华夏早有“国殇”，老人只不过说出“国殇”不是某一天造成，而是一场病在多年，无声无息的“血殇”——“殇”不在肘腋，而在“血脉”，在种族命脉所系之“血液”。她无情刺穿某些知识人“后现代”、“现代性”之神话，刺穿“特色”、“模式”、“崛起”之下还有前现代“血殇”。在丹麦，“皇帝没有穿新衣”，说出这一秘密的是一个口无遮拦的孩子，人们世世代代记诵他；在我们，能说出这一秘密的却是一位耄耋老人，一个来自旧社会的妇产科医生，中原故国只能放逐她？此情何以堪，此理何以言，若有言，又何处能畅言？</p>
-<p>我只感到眼前一层层病血淤积，堵至喉，堵至咽，口不能言。只好引毛泽东对另一位医生的著名赞誉，转录于下：</p>
-<p>一个中国人，不远万里，离开中国，这是什么精神？这是国际主义精神，是毫不利己专门利人的精神。每一个中国共产党员都要学习这种精神。这就是我们的国际主义，这就是我们用以反对狭隘民族主义和狭隘爱国主义的国际主义。对于他的离开，我是很悲痛的。现在大家纪念他，可见他的精神感人之深。我们大家要学习他毫无自私自利之心的精神。从这点出发，就可以变为大有利于人民的人。一个人能力有大小，但只要有这点精神，就是一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。</p>
-<p>熟悉“老三篇”的人不难看出，我只改了两个地方，将“外国人”改为“中国人”，将“来到”、“去世”改为“离开”。我以为，这也是最好的书面推荐，谨以此向诺贝尔和平奖评委会推荐：中国出了个高耀洁，她为维护13亿人的血脉做出巨大贡献，她对中国的贡献也是对人类和平的贡献，她理应获此奖，她是这一奖项的最好人选。</p>
-<p>本文系朱学勤为高耀洁著《我的防艾路》所作序言，广东人民出版社2011年版</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA-%E6%9C%B1%E5%AD%A6%E5%8B%A4%EF%BC%9A%E8%AE%B0%E5%A5%BD%E5%8C%BB%E7%94%9F%E9%AB%98%E8%80%80%E6%B4%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%A7%81%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异见人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85/?category=18271" rel="tag">艾滋病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%80%E6%B4%81/?category=18271" rel="tag">高耀洁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%88%98%E6%BA%90%E4%B8%8A%E5%B0%86%E5%AE%A3%E5%B8%83%E5%B0%86%E9%80%80%E5%BD%B9-%E5%BF%86%E8%B0%B7%E4%BF%8A%E5%B1%B1%E6%A1%88%E8%B0%A2%E5%AE%98%E5%85%B5%E6%94%AF%E6%8C%81/" target="cdt-mirror">法广｜刘源上将宣布将退役 忆谷俊山案谢官兵支持</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/04/72ec45e696226aaff0d6e70fc14dd979.jpg" alt="刘少奇之子刘源" width="358" height="220" srcset="http://chinadigitaltimes.net/chinese/files/2015/04/72ec45e696226aaff0d6e70fc14dd979-300x184.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/04/72ec45e696226aaff0d6e70fc14dd979.jpg 358w" sizes="(max-width: 358px) 100vw, 358px"><p>刘少奇之子刘源</p></div>
-<p>中国军队编制改革仍未正式公布。一直有传闻称，在谷俊山落马案中起到主要推动作用的总后勤部政委刘源有望担任新设军纪委第一位书记，并可能进入新的军委委员名单。不过，刘源前天（12月16日）对总后勤部军官发布讲话，对此明确否认，他表示他个人的军旅生涯将划上句号。</p>
-<p>刘源在讲话中首先证实总后勤部即将并入军委，组建新的“军委后勤保障部”，对自己未来的仕途，65岁的刘源也给出明确的说法，作为总后勤部的“末代政委”，“我个人的军旅生涯也将划上完满句号。”</p>
-<p>法广获得了讲话全文，但目前无法联系上刘源或者其他总后高层对此讲话发表看法。</p>
-<p>刘源谈到他推动谷俊山中将落马一事在体制内曝光，及在此前后，他受到“军委某人”打击报复的细节。</p>
-<p>他说，谷俊山是徐才厚安插在总后的“泼皮无赖”，一到总后，就“有恃无恐、为非作歹”，结果却“九年五晋升”；刘源又指责谷俊山：与徐才厚“狼狈为奸、疯狂敛财、祸害全军，早已骂声载道。”</p>
-<p>刘源说，2011年底，我第一次公开讲到此事（谷俊山案）时就说，“在事关党和军队生死存亡的斗争中，我们大家必须紧紧抱在一起。合军聚众、重在激气，豁出命来，终生不渝。把害党祸国的乱臣叛将、贪官污吏，牢牢钉在耻辱柱上，让这帮家伙遗臭万年”。据刘源回忆，当时会上热烈的掌声“余音绕梁”。</p>
-<p>刘源也明智地把这一功绩分享给了总后的其他官员和搭档廖锡龙，据海外媒体报道，掌握大量谷俊山涉贪证据后，刘源联名总后部长廖锡龙在2012年2月上报军委纪检部门。</p>
-<p>他说，“如果没有总后官兵多年的抵制和斗争，我怎么会知道谷俊山是何等恶人，干过何等恶事？没有廖锡龙部长下决心，我重回总后不满一年，又怎么会没事找事？”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%88%98%E6%BA%90%E4%B8%8A%E5%B0%86%E5%AE%A3%E5%B8%83%E5%B0%86%E9%80%80%E5%BD%B9-%E5%BF%86%E8%B0%B7%E4%BF%8A%E5%B1%B1%E6%A1%88%E8%B0%A2%E5%AE%98%E5%85%B5%E6%94%AF%E6%8C%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90/?category=18271" rel="tag">刘源</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -815,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -825,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

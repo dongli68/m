@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422587/" target="cdt-mirror">【网络民议】这是法律的胜利还是党的胜利？</a>
+</h2>
+<p><p>12月22日，北京市第二中级法院就中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”一案裁定浦志强有罪，两罪并罚，判处三年有期徒刑，缓刑三年。浦志强2014年5月初被警方抓捕，至今年12月14日首次接受审判，22日作出一审宣判。官方新华社称浦志强服从判决不上诉。（BBC）</p>
+<p>浦志强一案做出宣判后，微博、国内新闻网站等诸多评论渠道都进行了严厉的限制，与此同时大量的“五毛”账号活跃，不过，仍然有不少网友积极评论。23日环球时报对此官方定调称这是“<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%88%A4%E4%B8%89%E7%BC%93%E4%B8%89%E4%BD%93%E7%8E%B0%E4%B8%AD%E5%9B%BD/" target="_blank">法律的胜利</a>”，但是一些网友则认为这只是“党的胜利”。</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>letscorp：环球时报：浦志强被关押一年多，经过反复调查取证，其涉嫌触犯法律的证据最终缩小到他通过多个账号发布的一些微博，最终判三缓三体现中国法律尊严。 #装忠反 #黑得漂亮</p>
+<p>燕文薪：重判或者轻放，党国都在那里，不增一分仁慈，不减一分专制，政权的性质从未改变。26年前的坦克，26年来无数的义人入狱，以及空椅子主人的11年，难道还不足以让世人清醒吗？</p>
+<p>freedomandlaw：我知道浦志强不上诉，有些人会失望，他们期待一个不认罪的浦志强，依你们的对天朝制度的了解，上诉意味着能够获得公正的机会吗？浦志强无罪还需要通过上诉来证明吗？上诉意味着更长时间的羁押，对于一个身体不好的人，已经被监禁了那么长时间，你能体会那是什么滋味吗？你能体会他家人的滋味吗？</p>
+<p>freedomandlaw：判三缓三，浦志强终于可以回家了。但是呢，首先律师没得做了，其次已经关了近20个月，再次，缓刑还要三年，之前被羁押不会被折抵刑期，最后，他无罪，法官判他有罪。</p>
+<p>mozhixu：政治案件，仅从政治博弈计，缓刑是党国的最爱，即能清除直接目标，又不用付出太多负面代价，反过来，被缓刑是受害者最差结果，既实际付出完全自由（拘押期）和不完全自由（考验期），还要被迫低头，被羞辱，甚至可能失去道义形象。只是人非草木，健康、家庭都不能无所动心，早点出来，也不是什么坏事。</p>
+<p>blogtd：在中国一个人认罪与否，不是看他有没有上诉，而是看他有没有上央视。</p>
+<p>mynamexu：官方公布的浦志强“认罪书”，其实压根儿就不能收到抹黑并矮化老浦的功效！在这个不到三条推文长度的“认罪书”中，老浦很巧妙地释放出来了并非真心认罪，而仅仅只不过是为了早点回家之目的非常违心的敷衍当局的话语，明白人一眼就能看出来。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0Zhk5WoAAN_-3.jpg" alt="CW0Zhk5WoAAN_-3" width="599" height="791" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0Zhk5WoAAN_-3-227x300.jpg 227w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0Zhk5WoAAN_-3.jpg 599w" sizes="(max-width: 599px) 100vw, 599px"></p>
+<p>尚宝军律师：刚刚接到老浦的电话，表达：1、被指定监视居住，夫人陪同，环境、照顾尚好；2、感谢大家的关注、支持，特别感谢江老、张老、老贺、展江、宝成等朋友们；3、目前需要休息、调整，其他十天上诉期满再说了。</p>
+<p>letscorp：不管怎么说，能经受住土共掘地三尺的调查，既没有接受国外资助的证据，又没有被吸毒、嫖娼、偷税漏税等等，说明浦律真的是当代大圣人。全国九千万党员里能不能找出一个这样的我都很怀疑。</p>
+<p>duyanpili：为不让浦志强律师上诉，今天被判缓刑后浦还不能回家，被指定地点监视居住10天。10天上诉期过了，才能回家。——我当时就震惊了，党国的任性和创造力真是无穷啊。</p>
+<p>Mickle_Shen：网易新闻后面的评论好可怕！</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0EU2QUwAAeew2.jpg" alt="CW0EU2QUwAAeew2" width="600" height="687" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0EU2QUwAAeew2-262x300.jpg 262w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0EU2QUwAAeew2.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>sq_tai：我只想知道为什么百度搜索“浦志强”，很多网页都是404？</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA.png" alt="微博评论" width="600" height="759" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/微博评论-237x300.png 237w, http://chinadigitaltimes.net/chinese/files/2015/12/微博评论.png 626w" sizes="(max-width: 600px) 100vw, 600px"><p>微博上央视新闻账号下仅有几条评论显示</p></div>
+<p>老聊V：今天，一个大个子律师因为七条微博被判有罪。特转录当年微博漫画大V“变态辣椒”的预言性画作，记之。</p>
+<p>赵震JAMES：判三缓三，这是一个典型的中国式判决啊！</p>
+<p>csxq：对于眼下的天朝来说，人权与法治进步的唯一标志是“无条件释放所有政治犯”。而高瑜和浦志强的缓刑，是有条件的，因此根本不能与之相提并论。我们可以看见的只是当局对个人尊严和权利的侮辱与践踏。基本上连“惨胜”都说不上，只是说比“惨败”大概好那么一点点。</p>
+<p>追風000004：好一个“依法治国”！威风凛凛地悬在全体国民头上数十年？那一个屁民敢不服？全球注目下的“判三缓三”，真是皇恩浩荡呀，谢主隆恩！用七条微博给人定罪，到底丢谁的人，谁？审的是别人，判的是自己的灵魂。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/006k28esgw1ez8ek2ohprj30hm09xwff.jpg" alt="006k28esgw1ez8ek2ohprj30hm09xwff" width="440" height="248" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/006k28esgw1ez8ek2ohprj30hm09xwff-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/006k28esgw1ez8ek2ohprj30hm09xwff.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>趙恢鵬：今天是很特别的一天，注定载入中国法制史。一个多年为了这个国度进步不断努力的律师，在自己家中聚会被抓，被关押一年多，然后仅仅因为七条微博被判有罪，这一切，他们说是依法逮捕依法审判，这就是他们的全面依法治国。下午无意看到有关林昭的纪录片，相比之下，当年多少知识分子不感到汗颜至死吗？！</p>
+<p>胡一枪：经一年多调查，浦律没有嫖娼，他夫人放心了。律所账本很干净，合伙人放心了。罪证只有七条微博，公众放心了。接下来，爱怎么判就怎么判，哪怕法官当庭追加一条强奸母牛罪，也没人敢说啥。浦律多坐一天牢，就多一些人绝望。绝望的人多了，希望就有了。</p>
+<p>章诒和：从来没觉得这里有“法”，想批你，批你；想管（制）你，管你；想关你，关你，想判你，判你。想禁言，禁言；想禁书，禁书。我这辈子就是这样。至于有罪无罪之类，我根本不信。</p>
+<p>张雪忠：遭受政治迫害的人，若想降低判刑机率，应牢记伍雷强调过的原则：零口供。有的人认为自己行为根本不违法，可以坦坦荡荡如实陈述。但政治案根本不讲法律，你一提供事实陈述，法院就敢判你有罪；若连基本事实都欠缺，起诉和判刑就较困难。另外，不管你自己怎么想，千万不要告诉警方别人做过什么！</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%8E%A8%E7%89%B9%E4%BA%94%E6%AF%9B.png" alt="推特五毛" width="609" height="744"><p>推特上清一色的五毛评论</p></div>
+<p>tieyan：我为有浦志强这样的校友感到骄傲。南开大学也应该为他骄傲，他是践行“允公允能”校训的典范。另外，自由就好！</p>
+<p>ChinaReporters：中国作家慕容雪村在推特上写道：“浦志强只应该被法庭宣布为无罪，当庭释放，然后他再为自己无辜系狱的600天寻求公正。除此之外，任何判决都是政治迫害，任何处罚都是对法律的玷污。缓刑一是宣判他有罪，二是污蔑他承认了自己的罪，这种双重的污辱尤其不可容忍。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422587/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%88%A4%E4%B8%89%E7%BC%93%E4%B8%89%E4%BD%93%E7%8E%B0%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">【异闻观止】环球时报 | 浦志强判三缓三体现中国法律尊严</a>
 </h2>
 <p><p>北京市第二中级人民法院22日上午对浦志强案做出一审判决，法庭以煽动民族仇恨罪、寻衅滋事罪两罪并罚判处浦有期徒刑3年，缓刑3年。据新华社报道，浦志强认罪悔罪，表示服从判决不上诉。</p>
@@ -41,7 +81,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%85%B3%E4%BA%86%E9%82%A3%E4%B9%88%E4%B9%85%EF%BC%8C%E4%BB%96%E5%8F%AF%E8%83%BD%E5%B7%B2%E5%B0%86%E8%8B%A6%E9%9A%BE%E5%8C%96%E4%B8%BA%E6%80%9D%E6%83%B3/" target="cdt-mirror">政见 | 关了那么久，他可能已将苦难化为思想</a>
 </h2>
@@ -730,28 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E5%8F%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/422284/" target="cdt-mirror">三表龙门阵 | Fenng：马云的一块红布</a>
-</h2>
-<p><p>这次乌镇世界互联网大会，马云展示给外界的花絮并不多，但在唯一一次主题讲话中，他有一段话的能量还是超越了周鸿祎的手机、刘强东的0号西装、丁磊的猪肉加起来的总和。</p>
-<p>在回答「中国互联网是否监管太紧」时，他是这么说的：「不管怎么样，这个国家管出了七亿互联网用户，管出了BAT，管出了无数的创新，还是有很多东西值得我们学习和反思的。」</p>
-<p>听完这段话，我觉得成龙比李连杰更有资格成为马云的知心好友。因为前者几年前也有一段惊世之语：「有自由好还是没有自由好，真的我现在已经混乱了。太自由了，就变成像香港现在这个样子，很乱；而且变成台湾这个样子，也很乱；我慢慢觉得，我们中国人是需要管的。」</p>
-<p>成龙的瓜瓤无疑是红彤彤的，近年来也成为我国软实力形象工程对外的一块招牌。现在马云头蒙一块红布，追上来了。事实一次又一次证明马云的言论一旦趟过他熟悉的商业鸡汤范畴就会暴露其既得利益者的XX嘴脸。</p>
-<p>权力与资本的结合正反生强烈的化学反应。上一次《南华早报》发表了马云对于某敏感事件的不经之论，现在这份百年老报已被收纳，而马云这副瘦弱的躯体恐怕将更多担负起传话筒、扩音器的效用。</p>
-<p>马云内心真的拥抱监管吗？去年3月22日，工、农、中、建四大「国有」银行相继下调支付宝快捷支付的最高限额，马云愤而在「来往」上发布题为《支付宝，请扛住！》的文章：</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/85d8ce590ad8981ca2c8286f79f59954.4.jpg" alt="85d8ce590ad8981ca2c8286f79f59954.4" width="440" height="957" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/85d8ce590ad8981ca2c8286f79f59954.4-138x300.jpg 138w, http://chinadigitaltimes.net/chinese/files/2015/12/85d8ce590ad8981ca2c8286f79f59954.4.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
-<p>去年马郎，一个多么威武不屈、坚贞强硬的姿态啊。21个月的时间思想转变如此之大，非误入传销魔窟不能也。只能说屁股决定脑袋，马云的屁股知道坐在哪最稳当，也就知道说什么话收益最大，商人这点算计还不知道吗？马云又不是个一般的商人。</p>
-<p>一句「不管怎么样」是智力的偷懒，也是公共发声上的油滑。成就不能抹消罪恶，一俊难遮白丑，秦始皇统一度量衡立下不世之功，亦有「焚毁五经、活埋儒士」的不堪之举。BAT是管出来的？你代表阿里可以表此忠心，牵扯BT何故呢？监管若真是灵丹妙药，为何没有成批量复制出李彦宏、马化腾？</p>
-<p>总理今年在一次座谈会上说：我们总习惯说，要「加强监管」。但事实上，很多监管是不需要、也不应该的。我们过去管了很多不该管的事情；我们资金贵的一大原因，就是‘管’得太多了；政府不要总给市场「发号施令」。</p>
-<p>由此看来，马云同志还是要提高自己的姿势水平。许知远有过一段妙论：「公共价值虚无主义或多或少影响了他们。当他们获得了巨大的财富，却很难把它转变成更广泛的社会进步力量。这也是马云这一代巨头所代表的商业成功的脆弱一面。」</p>
-<p>或许一探中国互联网风云人物的底裤，都是红彤彤、潮乎乎的，但只有马云内裤外穿，感觉自己像个超人。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/422284/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87/?category=18271" rel="tag">乌镇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -763,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -773,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

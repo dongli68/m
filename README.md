@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E8%B3%80%E8%A1%9E%E6%96%B9-%E6%B3%95%E5%BE%8B%E7%95%8C%E7%9A%84%E8%89%AF%E7%9F%A5%E5%92%8C%E5%8B%87%E6%B0%A3%E5%9C%A8%E5%93%AA%E8%A3%8F%EF%BC%9F/" target="cdt-mirror">蘋果日報｜賀衞方 – 法律界的良知和勇氣在哪裏？</a>
@@ -48,7 +48,33 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E8%B3%80%E8%A1%9E%E6%96%B9-%E6%B3%95%E5%BE%8B%E7%95%8C%E7%9A%84%E8%89%AF%E7%9F%A5%E5%92%8C%E5%8B%87%E6%B0%A3%E5%9C%A8%E5%93%AA%E8%A3%8F%EF%BC%9F/" target="cdt-mirror">蘋果日報｜賀衞方：法律界的良知和勇氣在哪裏？</a>
+</h2>
+<p><p>作為浦志強多年好友，更作為中國司法改革長期的推動者，我覺得有義務對本案提出自己的看法。我也在12月10日就這些看法寫信給北京市第二中級法院合議庭法官。</p>
+<p>我看到用於指控浦志強的所有證據，即他所發表的編號共十二條其實只有七則的微博。我相信，不需要法學專業素養，稍具常識的人都會看出來，假如這也可以成為定罪和判刑的依據，豈不是讓人笑掉大牙？</p>
+<p>涉嫌尋釁滋事的前兩條，完全屬於對公職人員或公眾人物的正常批評範疇。對於某發言人的有些嘲弄的言辭沒有越出批評的範圍。申紀蘭是全國人大代表，毛新宇是全國政協委員，浦志強認為他們缺乏履行職責的能力和表現，提出批評，這也完全是在行使憲法所保障的公民權利，包括言論自由和公民對於公職人員提出批評的權利。當然，浦的微博用語尖刻，也許讓受批評的人感到難受。假如他們認為這種言辭給他們的名譽權造成傷害，完全可以依據民法保障名譽權的條款提起民事訴訟。這跟尋釁滋事扯不上任何關係。</p>
+<p>至於第三條，浦志強的微博針對的是2012年出版的一本書，項平的《中國大邏輯：沒有共產黨，為甚麼不行？》，書名之下還標註「一本中國人應該讀的書」。浦志強言辭激烈地批評了作者，說：「你寫出這種破書，簡直就是無恥之尤！要不是吳虹飛進去了，你的祖宗也會受性侵的！你讓我看着就特噁心！哼！」這裏的確有對執政黨態度上的不恭，但主要指向仍然是書的作者。我們都應該承認，歌頌共產黨的書也很可能是爛書或「破書」，作者也未必不是「無恥之尤」。更重要的是，浦志強激憤的言論也僅僅是對一本書作者的嚴厲批評，哪裏說得上是尋釁滋事？</p>
+<p>至於涉及民族關係與民族政策的微博，浦志強對於地方政府在西藏、新疆的某些做法以及昆明火車站的殺戮事件的評論再清楚不過地表明，他一方面旗幟鮮明地譴責恐怖行為，另一方面，他呼籲檢討我們的民族政策和現實做法，呼籲尊重宗教信仰和習俗，反對以「制人」的方式對待少數民族同胞。凡是讀過這幾條微博的人，都能夠感受到作者對於民族裂痕和民族仇恨的憂心忡忡。</p>
+<p>呼籲民族和解變煽動仇恨</p>
+<p>然而，這樣的微博卻被作為煽動民族仇恨的言論，這真是不折不扣的顛倒黑白。《刑法》第249條規定的是煽動民族仇恨、民族歧視，浦志強的言論指向恰恰相反，是期盼民族政策的改善以及民族之間的尊重與和解。作為一個漢族知名律師，他這樣的呼籲只會讓藏族、維吾爾族同胞感受到來自漢族的濃濃親情與善意理解，怎麼會在控方那裏變成了煽動民族仇恨？這裏還有沒有最起碼的邏輯和理性？</p>
+<p>我與浦志強交往近三十年，一直很關注他所代理的一些案件，還多次共同參加一些學術論壇，屬於那種無話不談的朋友。根據我長期的觀察，浦志強是那種最誠摯的愛國者，因為職業的緣故，他對於國家政治法律制度建設有着最深切的關注，當然對於某些弊端也有着更痛切的感受。正是因為這種熾熱的情感，他的言辭才會如此不假修飾，直來直去。</p>
+<p>在一些人看來，他的這種風格太不世故，會給自己招惹麻煩。但他義無反顧，百折不撓。讓我特別感佩的是，此次蒙難，公安、檢察等機構一年半的時間查下來，居然沒有絲毫經濟問題，也沒有其他任何違反職業規則的行為， 只能拿出這區區七條微博作為指控證據 ，這也反襯出他是我們這個時代多麼優秀的一位法律職業者。</p>
+<p>1978年我考入大學學習法律時，我們曾有一本名為《冤假錯案選編》的教學材料，其中收入了一些發生在文化大革命期間的典型冤案，絕大多數屬於因言獲罪、判決邏輯極度荒唐的案例。我們讀書期間，國家發生的一個重大事件就是鄧小平、胡耀邦等中國共產黨的領導人，以巨大的魄力平反各類冤假錯案，為黨和政府贏得了新的合法性基礎，也成為啟動我國法制建設的「開場鑼鼓」。那時，自己作為一個法律學生，真誠地相信今後我們這個國家不會再發生這類文字獄了。但是，後來的情況表明，這種期許顯然是過於樂觀了。</p>
+<p>我當日在給合議庭法官的信中說，面對浦志強案，我們是否能夠創造一個里程碑，一個證明中國法律職業界仍然具有良知、勇氣和起碼專業水準的里程碑？全世界的目光都在聚焦這宗審判，看你們的了！但是，我現在看到的結果是：「合法行為被判非法，毫無法理可言。」</p>
+<p>賀衞方<br>
+北京大學法學院教授</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/b23616438199-150x150.jpg" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E8%B3%80%E8%A1%9E%E6%96%B9-%E6%B3%95%E5%BE%8B%E7%95%8C%E7%9A%84%E8%89%AF%E7%9F%A5%E5%92%8C%E5%8B%87%E6%B0%A3%E5%9C%A8%E5%93%AA%E8%A3%8F%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA%E6%9C%80%E6%80%95%E7%AB%99%E9%94%99%E9%98%9F/" target="cdt-mirror">自由亚洲｜红顶商人最怕站错队</a>
 </h2>
@@ -700,29 +726,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%9C%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B7%B1%E5%9C%B3%E5%B7%A5%E4%B8%9A%E5%8C%BA%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB%E5%9F%8B%E7%96%91%E4%B8%BA%E4%BA%BA%E7%A5%B8/" target="cdt-mirror">端传媒 | 深圳工业区山泥倾泻埋疑为“人祸”</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-1024x683.jpg" alt="傍晚六时许，一名在灾区找寻失踪亲友的女家属因伤心过度而晕倒，由救护员扶往救护车治理。摄：端传媒摄影部" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/683fcf8fcca34139aaf882e1acaf4164.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>傍晚六时许，一名在灾区找寻失踪亲友的女家属因伤心过度而晕倒，由救护员扶往救护车治理。摄：端传媒摄影部</p></div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/b6dcbab794dc408c8531fdafd7cd1be8-1024x683.jpg" alt="入黑后搜救持续。摄：端传媒摄影部" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/b6dcbab794dc408c8531fdafd7cd1be8-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/b6dcbab794dc408c8531fdafd7cd1be8-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/b6dcbab794dc408c8531fdafd7cd1be8-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/b6dcbab794dc408c8531fdafd7cd1be8.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>入黑后搜救持续。摄：端传媒摄影部</p></div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bed63e71a66740168ab940ea70e2792e-1024x683.jpg" alt="摄：端传媒摄影部" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/bed63e71a66740168ab940ea70e2792e-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/bed63e71a66740168ab940ea70e2792e-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/bed63e71a66740168ab940ea70e2792e-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/bed63e71a66740168ab940ea70e2792e.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>12月20日中午11点42分，位于深圳市西北部的深圳光明新区柳溪工业园发生山泥倾泻。据高空拍摄的照片显示，整个工业园十数万平方米被吞噬。截止傍晚5点30分，现场指挥部的消息指出，现场共有22栋厂房掩埋，涉及15个公司，已撤离900人，救出4人。 深圳市出动了十个救援小组共约1500人参与救援。目前仍有至少22人未取得联系，包括17名男子，5名女子。而据新华社消息，截止16：30，失联人数已达41人。</p>
-<p>目前被困人员的人数、身份、伤亡情况未有全面估计，而山泥倾泻还在继续。</p>
-<p>现场指挥部并未回答记者关于事故原因的提问，事发核心区已经被封锁。据现场村民反映，现场大量厂房被黄土掩埋，而这些黄土并非山体本身，更多是过去两年陆续堆放在山体旁边的建筑渣土。<br>
-据现场村民称，被埋的工业园区有厂房，也有宿舍，平时居住工作上千人，今日是周末，宿舍楼仍至少留逾百人。 而社交媒体上流传的坍塌现场视频显示，事发时，大量山泥倾泻而下，喷涌起几十米的泥柱，多座厂房瞬间被覆盖并发生联排倒塌，场面骇人。</p>
-<p>端传媒记者已抵达现场，请留意后续报导。</p>
-<p>深圳地处华南，丘陵山地占全市总面积的7成以上，台风、暴雨频繁，而经济特区成立以来，更大规模开山取土造地，造成大量裸露山体缺口，小型地质灾害一直多发。深圳政府十多年来已投入超过百亿治理水土流失，仍未能根治泥石流隐患。</p>
-<p>此次事发的深圳光明新区是2007年新成立的新区，是深圳探索绿色城市的典范项目，1个月前刚刚获得2015“中欧绿色和智慧城市先行奖”。但新区建设亦加剧了建筑开发力度，2015年，当地政府曾警告，仅光明新区，地质灾害隐患点已经从2008年的108个增加至2015年的240个。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/7abe96ebd23a47389253bb61fe1c19f2-1024x683.jpg" alt="深圳工业区山泥倾泻埋" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/7abe96ebd23a47389253bb61fe1c19f2-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/7abe96ebd23a47389253bb61fe1c19f2-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/7abe96ebd23a47389253bb61fe1c19f2-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/7abe96ebd23a47389253bb61fe1c19f2.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>救缓人员带同搜救犬到灾区，入黑后搜救持续持续。摄：端传媒摄影部</p></div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/d2ab91e303f44938b3cf112e63e1ae80-1024x683.jpg" alt="深圳工业区山泥倾泻" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/d2ab91e303f44938b3cf112e63e1ae80-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/d2ab91e303f44938b3cf112e63e1ae80-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/d2ab91e303f44938b3cf112e63e1ae80-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/d2ab91e303f44938b3cf112e63e1ae80.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>入黑后搜救持续。摄：端传媒摄影部</p></div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9f38f7aba5214e6abeb461ada27984d9-1024x683.jpg" alt="深圳工业区山泥倾泻" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9f38f7aba5214e6abeb461ada27984d9-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9f38f7aba5214e6abeb461ada27984d9-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/9f38f7aba5214e6abeb461ada27984d9-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/9f38f7aba5214e6abeb461ada27984d9.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>摄：端传媒摄影部</p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B7%B1%E5%9C%B3%E5%B7%A5%E4%B8%9A%E5%8C%BA%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB%E5%9F%8B%E7%96%91%E4%B8%BA%E4%BA%BA%E7%A5%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A5%E7%9F%B3%E6%B5%81/?category=18271" rel="tag">泥石流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">地质灾害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B4%E5%9C%9F%E6%B5%81%E5%A4%B1/?category=18271" rel="tag">水土流失</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E6%B3%A5%E5%80%BE%E6%B3%BB/?category=18271" rel="tag">深圳泥倾泻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E7%AD%91%E6%B8%A3%E5%9C%9F/?category=18271" rel="tag">建筑渣土</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%BF%E8%89%B2%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">绿色城市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -734,7 +737,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -744,5 +747,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

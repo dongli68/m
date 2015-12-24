@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422714/" target="cdt-mirror">【立此存照】美帝“又”给中国人扣屎盆子了</a>
+</h2>
+<p><blockquote><p><strong><a href="http://weibo.com/1743951792/D9Sqn1AJl">@美国驻华大使馆</a> </strong>：美国使馆接到信息称圣诞节当日或前后在北京三里屯地区可能出现针对西方人士的威胁。强烈建议美国公民保持高度警惕。美国使馆已对美国政府人员发布了相同建议。通知全文请见英文: <a title="网页链接" href="http://t.cn/R4GdFF4" target="_blank"><em>网页链接</em></a> 中文: <a title="网页链接" href="http://t.cn/R4GgXgJ" target="_blank"><em>网页链接</em></a></p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%B1%8E%E7%9B%86%E5%AD%90.png" rel="attachment wp-att-422715"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%B1%8E%E7%9B%86%E5%AD%90.png" alt="屎盆子" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/屎盆子-592x1024.png 592w, http://chinadigitaltimes.net/chinese/files/2015/12/屎盆子.png 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
+<p><strong>与最开始为在华美国公民发布PM2.5值时的情况类似，美使馆这则警告很显然伤害了不少中国人民的感情。除了诸如给中国人“扣屎盆子”这样的“帝国主义亡我之心不死”指责外，微博上还充斥着各种美国如何“自导自演”恐怖袭击的阴谋论，对上述言论的反驳，以及吐槽朝阳区群众和雾霾的玩笑。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj.jpg" rel="attachment wp-att-422717"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj.jpg" alt="005K5v3Ugw1ezau205vtfj30ku0k6wjj" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj-300x290.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<blockquote><p><a href="http://weibo.com/1405603123/D9Tchz2py">@吴法天</a>：美使馆发警告，跟瞎子算命一个道理，一旦真有事，那就神了，如果没有事，亏得警告有效——正反怎么押都对。如果你不幸发现了上述逻辑，他还有一招，就是告诉你，我这警告是给美国公民的，关中国人屁事。客观的说，与三里屯的朝阳群众比，美国人在中国的情报能力不行，除非他就是主谋或帮凶。黄恒兄说。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%90%B4%E6%B3%95%E5%A4%A9.png" rel="attachment wp-att-422716"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%90%B4%E6%B3%95%E5%A4%A9.png" alt="吴法天" width="500" height="327" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-300x196.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-768x503.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-1024x671.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-230x150.png 230w" sizes="(max-width: 500px) 100vw, 500px"></a></p></blockquote>
+<p><strong>@燕关天：给中国人扣屎盆子么？</strong></p>
+<p>@千股评说：你美国人又在装B了！ 快看 ，有人在这里装B！。。。美国驻华使馆又在微博装B了。。。 只有你威胁别人的份，没有人会威胁你。。</p>
+<p>@远_征_：把屎尿引到中国來，你美国是何居心？不管有没有发生恐袭，反正达到做空中国的目的，够不要脸的</p>
+<p>@Vanished_dream：自由皿煮的美帝国主义，这屎你还是自己去吃吧，别扣给中国</p>
+<p>@天创流：what？帝都的警情都需要美帝使馆操心播报了？</p>
+<p>@Cocococococonut：难道是为了把中国拉上反恐战车的阴谋？？</p>
+<p>@过过过路：美国确实是最厉害的，所有的恐怖袭击的消息他都比别人提前知道。</p>
+<p><a href="http://weibo.com/2737122811" target="_blank">MrYc陈</a><i title="微博达人"></i>：若三里屯发生了什么事件，那就是你们美国佬干的<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/visionvei" target="_blank">Venusvei</a><i title="微博达人"></i>：你们美国不虚张声势不搞什么小动作整个世界都会太平！还好意思恶人先告状！大天朝治安很好！不像你们现在枪支泛滥 社会治安极其混乱！我们在美国的中国公民倒是应该小心！！！<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"><img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
+<p>@河海水力_uxq834593634：美帝国主义者，你们是秋后的蚂蚱没几天蹦跳了！哈哈！</p>
+<p>@gfhhfghfbkfg：造谣，企图引起社会恐慌，往中国头上扣屎盆子，美国狗居心不良。还有我想说中国的治安甩的美国10条街好不好。</p>
+<p>@吴昊HalWoo：近代史以来中国招惹过你们吗？只有你们威胁中国和全世界！只有猪才会相信你们这个狗屁通知。</p>
+<p><strong>vs</strong></p>
+<p><a href="http://weibo.com/5213008819" target="_blank">挂在墙上的灰兜帽</a>：建议评论里5毛今天都去三里屯好不好<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1509407451" target="_blank">菠萝油王子麦兜兜</a>：就很正常的发个警告，在某些人眼里又成了阴谋论了<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
+<p>@艾妮喵喵：三里屯长刀凶杀案也就发生在今年夏天。人家使馆收到威胁信息发一条提醒，评论里民族自尊心就又被伤害了。。</p>
+<p>@郭子阳：除评论里的一帮傻X外，请各位出去玩的注意安全。</p>
+<p>@李耳朵979：五味杂陈，尤其看到评论。他们有叫好的，有叫嚣着喊“滚回去”的，有调侃朝阳区群众的……</p>
+<p>@这是最后的机会了：有时候真心不能理解有些评论的智商……你说这个怎么就成了什么，给中国人扣blabla了呢……</p>
+<p>@___薇薇vivi___：提醒，好么，又不是害你，有没有点正常人的心理啊？没死呢，死了你嘴皮子也就不这么硬了！我怀疑有些人是心里畸形还是就是缺乏教养没素质？也可能天生的！</p>
+<p>@思无诸邪：美国保护美国人有错吗，人家拿人当人，艹。</p>
+<p><strong>vs</strong></p>
+<p><a title="方二斤" href="http://weibo.com/734549704" target="_blank">方二斤</a> ：恐怖分子如果真挑选三里屯，将是对朝阳区群众的一次公然挑衅<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@耳东玉峰：有我30万朝阳群众在，怕啥？</p>
+<p>@阿朗斯通：朝阳群众还未发表任何评论</p>
+<p>@七彩红橙黄绿青蓝紫：恐怖份子敢来北京！？？？分分钟被雾霾淹没估计连路都找不到</p>
+<p>Napoleon_Cxy：我就想问问恐怖分子，这样的天气，你们知道三里屯在哪吗？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422714/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">美国大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%B0%B1%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9C%8B%E4%B8%8D%E6%83%AF%E6%88%91%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%B4%87%E6%8B%9C%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90/" target="cdt-mirror">政见 | 就喜欢你看不惯我，但不得不崇拜我的样子</a>
 </h2>
 <p><p>作者：邵立</p>
@@ -653,29 +696,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E8%AF%84
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%8A%A5%E7%AB%A0%E6%89%B9%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2-%E4%BA%8B%E5%85%B3%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95/" target="cdt-mirror">自由亚洲 | 中纪委报章批高校教师“歪曲历史” 事关执政合法性</a>
-</h2>
-<p><p>中共中纪委机关报12月19日刊文指责有大学历史系教授以“真相”、“揭秘”为噱头，批评历史书教科书的真实性。外界认为，被指遭歪曲的历史都涉及一个敏感的话题，即中共执政合法性；也有评论认为，中共本身就在不停篡改历史。</p>
-<p>中纪委机关报《中国纪检监察报》12月19日在头版位置刊发题为《以“揭秘”为噱头歪曲党史，是什么后果？》的文章，其中提到，有高校历史系教授歪曲党史，面对学生质疑，用“你们被忽悠”等理由搪塞而过。还举例某大学历史系教授、中共党员为大学生做讲座时，以“真相”、“揭秘”为噱头，“捏造事实、混淆视听”，大肆宣称历史教科书中的党史很多都不是“真实的历史”。文章认为该教授违反了党员不能公然歪曲党史、军史的政治纪律。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/image-11.jpeg" alt="image" width="550" height="828"></p>
-<p>宪政学者陈永苗告诉本台，当局认为遭歪曲的历史其实都涉及到了一个对中共而言堪称敏感的话题，即中共执政合法性。</p>
-<p>陈永苗：“应该来说这些历史事实都涉及到中共的合法性的问题，比如狼牙山五壮士、雷锋、中日之间的卖国投降的协定、对民国历史的挖掘真相的宣传。如果你提到这些，就从意识形态上否定中共，当局觉得这是敏感的不应该被谈论的。”</p>
-<p>今年9月，中央纪律检查委员会书记王岐山在“中国共产党与世界对话会”上表示，中国共产党的合法性源自于历史，是人心向背决定的，是人民的选择。外界认为，王岐山的讲话仍然停留在中共打天下坐天下的逻辑里，这样的逻辑与当代政治常识与社会逻辑相悖。</p>
-<p>有关注事件的网民写道：当局创造了“历史与人民的选择”这样一个宏大的概念，但人民却不享有宪法保障的自由权。“历史的选择”不等于现实的选择，“人民的选择”不等于公民通过选票的选择。</p>
-<p>对此，江苏独立媒体人孙林接受本台采访时称，为了证明其执政合法性，当局不仅禁止高校教师谈历史，还封杀历史月刊，与此同时共产党的党史研究室却在不停地篡改历史。</p>
-<p>孙林：“篡改的历史时期太长。我们国家只容许你表彰他的伟大，如果你想揭露他的事实，那是不容许的。这些教师也好，演讲者也好，像袁腾飞那样的能拿出历史的真实故事，他讲的事情都在历史上所曝光的。谈到历史，高华写的《红太阳是怎样升起的》完全都是摘过去的报纸和红旗杂志，他无话可说，即使当局没办法办他的罪，但他同样受到了打压。当你拿不出证据来的时候，他就说你谣言罪，说你颠复罪，说你寻衅滋事罪，扰乱社会秩序罪。所谓的党史，篡改了几十年了，台湾方面拿出来一部份，但是没有完全揭露真正的党史，《炎黄春秋》揭露出一部份图片，就被封杀了。”</p>
-<p>早在今年1月，中国国家互联网信息办公室就宣布关闭133个微信公共账号，称这些账号以”揭秘”、”真相”为噱头，打着”你不知道的历史”、”这才是历史”、”我知道的历史”等旗号，传播歪曲党史国史信息。</p>
-<p>对此，陈永苗认为，当局在清理网络上探寻历史真相的言论后，又把矛头指向了研究中国现代和当代史的学者，警告他们不要“吃党饭砸党锅”。</p>
-<p>陈永苗：“这是言论自由和学术自由的问题，如果政治不正确那是共产党的政治不正确。这边就涉及到一个问题，他们说高校里面的历史老师，你是吃党的饭，那么你就不应该砸党的饭碗，这是中共本身的逻辑。这就造成了一个很暧昧的情况，非共产党员我是不是可以说？这些人、这些老师们，他的身份是很暧昧的，他要么不吃共产党的饭，（这样）他们（当局）挖他的根也没什么大的用处；要么明白的说我站在对立面的，要么明白的说我就是支持共产党的。”</p>
-<p>特约记者：忻霖  责编：吴晶</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%8A%A5%E7%AB%A0%E6%89%B9%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2-%E4%BA%8B%E5%85%B3%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">封杀历史</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -687,7 +707,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -697,5 +717,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

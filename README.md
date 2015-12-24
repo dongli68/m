@@ -21,9 +21,152 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%B0%B1%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9C%8B%E4%B8%8D%E6%83%AF%E6%88%91%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%B4%87%E6%8B%9C%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90/" target="cdt-mirror">政见 | 就喜欢你看不惯我，但不得不崇拜我的样子</a>
+</h2>
+<p><p>作者：邵立</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-23-at-%E4%B8%8B%E5%8D%8811.37.53.png" alt="Screen Shot 2015-12-23 at 下午11.37.53" width="518" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-23-at-下午11.37.53-300x187.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-23-at-下午11.37.53.png 518w" sizes="(max-width: 518px) 100vw, 518px"></p>
+<p>世界上有这么一个国家，国家领导人被官方宣传机构称为 “父亲”，或者用方言说，“大大”。他的语录贴满大街小巷。他的头像挂在学校教室里和出租车后视镜上。运动会的开幕式，观众举起手中的塑料板拼成他的图像，演员在场地里高呼他万岁。他既是人民的领导人，也是人民的好儿子。但在私底下，人们嘲笑他的专横和腐败，他的语录被恶搞成段子四处流传，他的样貌变成了漫画嘲讽的对象。喜剧电影颠覆着他全知全能的形象，把他描述成一个愚蠢的独裁者。</p>
+<p>没错，这个国家就是内战前的叙利亚。</p>
+<p>芝加哥大学政治学教授<strong>丽萨·韦典（Lisa Wedeen）</strong>在 1999 年出版了一本专门研究叙利亚前总统哈菲兹·阿萨德（现总统巴沙尔·阿萨德父亲）个人崇拜现象的专著。</p>
+<p>比起苏联的斯大林和伊拉克的萨达姆，阿萨德是一个相对 “弱势” 的领导人。比起斯大林，他没有标志性的建筑 （如克里姆林宫） 作为象征，也没有列宁这样 “前任”。比起以 “勇气” 作为卖点的萨达姆，阿萨德的形象比较 “谨慎” 和 “聪明”。</p>
+<p>因此，虽然阿萨德政府的宣传机器日夜开动，但叙利亚人民不太买个人崇拜的帐，人们在私底下利用漫画、电影或笑话嘲笑阿萨德总统、各种恶搞官方的个人崇拜叙述。但这丝毫不动摇政府坚决推进宣传总统伟大个人形象和话语的决心。</p>
+<p>作者要回答的问题是，既然人民群众不相信个人崇拜，政府也知道人民群众不相信个人崇拜，那么为什么叙利亚政府还要不遗余力地推动个人崇拜宣传呢？</p>
+<p>通过仔细分析叙利亚官方报纸的叙事方式，韦典认为，由于个人崇拜实践本身能规训 （discipline） 个人行为，使个人服从政权命令，因此这种宣传能有效保持政权稳定。也就是说政府并不需要人民去全心全意地相信阿萨德是他们心中的红太阳，只需要他们按照 “阿萨德是红太阳” 那样顺从地行动就足够了。</p>
+<p>其中，他们进行统治的一个重要工具，就是 “预定安排的场景政治”（a politic of orchestrated spectacles）。</p>
+<p>例如，在 1987 年的地中海运动会开幕式上，1.2 万名叙利亚学生在观众席上举起彩色塑料板，拼成一幅巨大的阿萨德头像，然后拼写阿拉伯文 “我们爱阿萨德” —其中 “爱” 字是用西方通用的心型符号代替。为了开幕式的表演，这些学生训练了三个月至半年不等的时间。</p>
+<p>这类场景政治虽然不能让叙利亚人 “爱上” 阿萨德，但在稳固统治方面却有奇效。场景活动的参与者 （即学生），其身体在重复仪式性姿势的过程中得到了规训，为以后的政治上的顺从做好准备。场景政治宣示着阿萨德的统治权力，将国家权力剧场化 （dramatize），制造出一种强制服从的场景。场景政治同时也在用声音和图像具象化抽象的政治概念，将暗示阿萨德无所不能的图像和人们渴望稳定的愿望结合在一起，犹如一个商业广告将商品与爱、舒适和财富结合在一起一样。</p>
+<p>按照马克斯韦伯对于权威的定义，阿萨德个人崇拜与他个人的魅力，也即卡里斯马 （Charisma） 无关。他的权威并不来自合法性 （legitimate），而是来自强制性 （coercive）。强制性的权威不是建立在惩罚的基础上，而是建立于对被惩罚的恐惧之上。阿萨德利用场景政治展示，利用无所不在的头像、语录和雕塑，向叙利亚人民发出了这样一个信号：我拥有很强大的权力，如果你不听我话，我随时都可以消灭你。</p>
+<p>个人崇拜宣传的乏味和空洞还成功地在群众中制造了政治冷感—民众变得更犬儒，仅仅麻木地跟随这种政治活动，不再关心真正的政治生活。这也正合统治者的意图 – 对政治缺乏兴趣的民众没有意图挑战统治者权威。但这种去政治化的努力并不是彻底的，有很多人学会了利用伪装起来的文本进行交流和传播。禁书、地下电影、人权组织报告、敏感政治期刊在民众间流传。因此，制造政治冷感的努力也起到了一定反作用 – 增加了批判性的民众参与 （critical engagement）。审查制度的存在，也为重要的政治话题指明了目标，这甚至比言论自由的环境有一点优胜之处。因为在那里重要的话题往往淹没在无关紧要的话题之中。但是，作者认为，虽然个人意义上，叙利亚人能做出挑战阿萨德个人权威的行为，但并不足以挑战已经制度化的政治生活，或者发起群体行动 （collective action）。</p>
+<p>当然，阿拉伯之春的到来和叙利亚内战的爆发，超出了韦典本书的估计。只不知叙利亚今天的混乱局面，是源于老阿萨德时代神埋下的祸根吗？</p>
+<div>
+<p><span>参考文献</span></p>
+<p><span>Wedeen, Lisa. (1999). <em>Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria.</em> Chicago: University of Chicago Press.</span></p>
+</div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%B0%B1%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9C%8B%E4%B8%8D%E6%83%AF%E6%88%91%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%B4%87%E6%8B%9C%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%99%E5%88%A9%E4%BA%9A/?category=18271" rel="tag">叙利亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%B2%99%E5%B0%94-%E9%98%BF%E8%90%A8%E5%BE%B7/?category=18271" rel="tag">巴沙尔.阿萨德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%8F%B2%E5%85%B9%C2%B7%E9%98%BF%E8%90%A8%E5%BE%B7/?category=18271" rel="tag">哈菲兹·阿萨德</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-5/" target="cdt-mirror">【真理部】美食品药品管理局从天津公司产品检出氰化物</a>
+</h2>
+<p><p>关于美国食品药品管理局从天津天药公司产品外包装检出氰化物一事，各网站严格以我国食品药品管理总局和天津市政府发布信息为准，不炒作，不渲染。除统一安排外，外地媒体不到天津采访。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%82%A3%E4%BA%9B%E5%9C%A8%E8%B1%86%E7%93%A3%E4%B8%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%A6/" target="cdt-mirror">墙外楼｜那些在豆瓣上消失的书</a>
+</h2>
+<p><p>@陆大鹏Hans：《那些在豆瓣上消失的书》很有意思。豆瓣的自我审查很厉害。我译的《纳粹德国的腐败与反腐》的豆瓣条目页很荣幸地被豆瓣删了，更厉害的是，把我建的相应德文版条目页删了。尽管该书销售一直正常</p>
+<p>豆瓣网收录的图书条目应该说是相当全的（包括港台版、外文版），毕竟聚集了全国那么多的爱书人。一些书的好坏优劣，在那里查评价，还是公允的。但如今，在豆瓣上搜索查找一些书，会提示没有该书条目，或者“呃…你想访问的条目豆瓣不收录”。有些书的条目，是眼睁睁看着消失。</p>
+<p>这里头，东方出版社十多年前出的“现代稀见史料书系”，其他7册都有，却独没《延安日记》；章诒和作品，豆瓣没有《伶人往事》，却有同“等级”的《往事并不如烟》，这书在孔夫子网目前还能买到；杨显惠的“命运三部曲”，豆瓣收录了《夹边沟记事》《甘南纪事 》，却没有《定西孤儿院纪事》（几大网站可买到）；最近看到内地版《纳粹德国的腐败与反腐》豆瓣条目被删除了……</p>
+<p>01 |上海生死劫<br>
+郑念 著</p>
+<p>上海生死劫（又名《生死在上海》）是女作家郑念的一部自传，最早于1986年出版了英文版，随后该书被译为多种文字在各国出版。在书中郑念记述了从文化大革命开始到1980年代初出国这段时间的个人经历。从1966年上海红卫兵以革命的名义对她进行抄家和逮捕，她在看守所单人牢房长达六年半的拘禁过程，和她由于始终不承认各种指控，坚持自己无罪，而受到的监狱当局的种种迫害和她对此进行的抗争直到出狱。1973年她出狱后，得知自己的独生女儿郑梅平早已在自己入狱后不久受迫害而死，继而努力查找女儿死因的过程。</p>
+<p>她在文革中拒绝间谍的罪名并要求当局道歉，此书追述知识分子理想如何被政治粉碎，是根据作者亲身经历写下的回忆录而非小说。</p>
+<p>02 | 一滴泪（中文版）<br>
+巫宁坤 著</p>
+<p>一九五一年，芝加哥大学博士候选人巫宁坤受邀到北京燕京大学担任西语系教授。巫宁坤和当时很多知识分子一样，是爱国主义者，读左翼书刊（但对共产主义一窍不通），希望为民族贡献一分力量……被迫经历一场又一场无可逃脱的政治运动与一连串的政治学习，一九五七年，从美国回到祖国六年之后，巫宁坤被打成「右派」，送到偏远的北大荒去接受「劳动改造」，抛下年轻的妻子和幼儿。从此他被视为「人民的敌人」，文革期间，又被下放农村再教育，蹲「牛棚」，受尽凌辱、迫害和艰辛，长达二十二年。</p>
+<p>《一滴泪》为巫宁坤三十年的生活、受难和思想提供了生动而真实的记述，完整呈现中国知识分子从五○年代初至七○年代末的全幅图景。他让历史栩栩如生，因为每句话都可信；也因为不是控诉，不是呐喊，没有火气，读来更是感人肺腑。</p>
+<p>03 |牛鬼蛇神录<br>
+杨曦光 著</p>
+<p>《牛鬼蛇神录》是杨小凯1992年完成的一部著作，英文版名字是《囹圄中的精灵》，讲述了他在十年监牢生活中的亲历亲闻。与社会上同类题材的作品不同，该书不是讲作者自己经历的苦难风流，而是他作为一个敏感的观察者，忠实地记录下了一群“文革”囚犯的人生命运，是一部现场历史的著述。书中列出的主要人物有20多个，各具社会的某种典型性。</p>
+<p>杨小凯用客观而冷静的笔触记录下这些“囚禁中的精灵”的罪与罚、言与行、善与恶，以及国家机器实施“杀、关、管、教”的理由和施为，展示出社会背面另一个罕为人知的世界，进而透视整个社会历史的问题。</p>
+<p>04 | 定西孤儿院纪事<br>
+杨显惠 著</p>
+<p>定西专区是甘肃省1958年到1960年饥荒的重灾区，灾难的三年过去，定西专区紧急成立了一个专署儿童福利院，接纳了几百孤儿。同期，定西专区的各县、镇、重灾县的各人民公社都成立了儿童福利院或是“幼儿园”。这些大大小小的儿童福利院收容了大约五千左右的孤儿。 杨显惠在本书中以忠实史料事实和当事人陈述事实的基础上，创作出一个个具有高度典型性和独特性的作品。完全是白描的手法，纪实性的语言，平实的语调，将一幕幕饥饿与死亡的惨烈情境撕裂在人们眼前。</p>
+<p>05 | 伶人往事<br>
+章诒和 著</p>
+<p>章诒和虽然以《往事并不如烟》洛阳纸贵， 但她最为人津津乐道的，仍然是她对中国艺人的写作：中国艺人，是奇特的一群，在创造灿烂的同时，也陷入卑贱。他们的种种表情和眼神都是与时代遭遇的直接反应。尚小云、言慧珠、杨宝忠、叶盛兰、叶盛长、奚啸伯、程砚秋等等，已因为章诒和的《伶人往事》深入读者之心。</p>
+<p>06 | 江上的母亲（台版）<br>
+野夫 著</p>
+<p>该书以其中收录的那篇催得无数人泪下的成名作——《江上的母亲》命名，并以此开篇。这不仅显示出作者对母亲的纪念初衷，更暗示了这本散文集的悼念意义。亲人的故事占了此书很大比重，而他们无一例外都已经逝世，最令人唏嘘的是，因为同在一个家族，他们有着共同悲怆的命运。因此，与其说这是土家野夫的一部回忆性质的散文集，不如说是他泣血而成的一首家族挽歌更为贴切。</p>
+<p>07 | 巨流河（台版）<br>
+齐邦媛 著</p>
+<p>巨流河，位于中国东北地区，是中国七大江河之一，被称为辽宁百姓的「母亲河」。南滨渤海与黄海，西南与内蒙内陆河、河北海滦河流域相邻，北与松花江流域相连。这条河古代称句骊河，现在称辽河，清代称巨流河。影响中国命运的「巨流河之役」，发生在民国十四年，当地淳朴百姓们仍沿用著清代巨流河之名。</p>
+<p>本书的记述，从长城外的「巨流河」开始，到台湾南端恒春的「哑口海」结束……作者齐邦媛的父亲齐世英──民国初年的留德热血青年，九一八事变前的东北维新派，毕生憾恨围绕着巨流河功败垂成的一战，渡不过的巨流像现实中的严寒，外交和革新思想皆困冻于此，从此开始了东北终至波及整个中国的近代苦难。作者的一生，正是整个二十世纪颠沛流离的缩影。</p>
+<p>08 | 延安日记（简体版）<br>
+彼得．弗拉基米洛夫 著</p>
+<p>《延安日记》作者彼得．弗拉基米洛夫，苏联人，1942年至1945年，以共产国际驻延安联络员兼塔斯社记者身分，在延安工作。作者以日记形式，根据他的观点，记述了延安的政治、经济与文化等各方面的问题。全书以抗日战争时期中共与苏共的关系为背景，记述了中共的整风运动、中共的第七次全国代表大会；对中共与当时驻延安的美国军事观察组织的接触以及中共与国民党的关系等问题，均有评述。</p>
+<p>09 | 邓小平时代（港版）<br>
+（美）傅高义 著</p>
+<p>哈佛大学傅高义教授倾十年心力完成的权威巨著《邓小平时代》，是对邓小平跌宕起伏的一生以及中国惊险崎岖的改革开放之路的全景式描述。作者对邓小平个人性格及执政风格进行了深层分析，并对中国改革开放史进行了完整而独到的阐释。书中涵盖丰富的中外档案数据和研究成果，以及为数众多的作者独家访谈。对中美建交、华国锋历史评价、改革开放的幕后曲折、邓小平和诸多邓时代关键人物的关系、香港问题、邓小平南巡等重大议题均有详述及剖析。本书既具学院研究的严谨专精，又对中国现实政治与事理人情有透彻把握，被誉为邓小平研究 的”纪念碑式”著作。</p>
+<p>10 | 文化大革命的起源（内地版）<br>
+（英）麦克法夸尔 著</p>
+<p>本书从政治、经济、文化和外交关系等方面，考察了1956-1960年间中国的历史进程，分析了中国党内分歧的由来和发展，对“文化大革命”起源作出了判断和解释。</p>
+<p>11 | 党史笔记：从遵义会议到延安整风<br>
+何方 著</p>
+<p>中国著名国际问题、中共党史专家何方先生穷6年之力完成的中共党史著作，突破了原有的官方党史体系、框架。何方16岁来到延安、亲历过整风和抢救运动，又做过十几年的张闻天助手（从东北局到驻苏联使馆、外交部），与周恩来、陈云、高岗、李富春等高级领导人有过近距离的直接接触，他对那段早年的历史有许多切身体会，但他的《党史笔记》不是停留在个人记忆上，更多的还是从大量的史料出发，旁征博引，并从中梳理出真实可信的历史。</p>
+<p>12 | 二十世纪中国政治<br>
+邹谠 著</p>
+<p>《二十世纪中国政治》是作者在不同时期的论文、记者谈访录、演讲稿编在一起的文集，所探讨的问题也不尽相同，但无一不围绕作者毕生冥思苦想的两个问题，一是如何理解二十世纪中国这部极端复杂的历史；二是中国如何向民主过渡。</p>
+<p>作者在西方政治学界的理论氛围从事研究工作逾半个世纪，属美国学府中的典型学者，但他又有自己的中国故事，其父邹鲁是国民党元老，著有《中国国民党史稿》。宏观历史与微观行动的分析方法相结合，是邹谠治学的一大特色。</p>
+<p>13 | 乌托邦运动——从大跃进到大饥荒<br>
+林蕴晖 著</p>
+<p>本书是金观涛主持、沈志华等人撰写的五百多万字、十卷本《中华人民共和国史》的第四卷。究竟mzd提出的超英赶美战略，如何在中共高层取得统一，又何以得到基层群众的积极回应？一再缩短的赶超时间表是如何编织出来的？在发动大跃进的过程中，有多少中共省级领导人被打成了右派分子？1958年的中共军委扩大会议为什么要拿粟裕开刀？1959年在庐山罢黜彭德怀的真实原因何在？造成大饥荒的主要原因是天灾，还是人祸？大饥荒的非正常死亡人数究竟有多少？为挽救危机，中共中央又采取了哪些措施？本卷依据第一手资料，作出详尽叙述和剖析。</p>
+<p>14 | 费正清论中国：中国新史（中文版）<br>
+费正清 著</p>
+<p>费正清（John King Fairbank 1907-1991）是美国当代著名的中国问题研究专家，《中国新史》是他的最后一部著作，在完成这部著作的两天之后，费正清便与世长辞了。全书分为四大部分：君主专制的兴起、中华帝国的晚期、中华民国、中华人民共和国。</p>
+<p>15 | 哈维尔文集<br>
+哈维尔 著</p>
+<p>人们说真话，动因是什么？哈维尔回答说：“良心”。他认为政治不应仅仅被理解为对权力的欲望和追逐，或任何控制人的权术和伎俩。也许阴谋可以使得某个人登上 某个宝座，但这也就是他成功的顶峰了，因为不可能以阴谋改进和推动社会。在哈维尔看来，“政治是求得有意义的生活的一种途径，是保护人和服务人的一种途径 ”。“我们必须相信我们良心的声音，甚于所有抽象推论的声音，不去捏造任何企图超越于良心的呼声上的责任”。换言之，人们有权拒绝为适应政治需要而压抑自 己内心深处感到的道德要求。</p>
+<p>16 | “砸烂旧世界”──文化大革命的动乱与浩劫（1966-1968）<br>
+卜伟华 著</p>
+<p>本书是金观涛主持、沈志华等人撰写的五百多万字、十卷本《中华人民共和国史》的第六卷。本卷简明地描绘出1966年5月至1969年4月文化大革命的全景图像与过程：从1965年底批判《海瑞罢官》至1969年4月召开九大期间，文化大革命从发动到形成高潮，从夺权到天下大乱，到全国各省、市、自治区成立革命委员会，到最后召开九大。作者坚持实事求是的原则，一切从史料出发，力求还历史之本来面貌。<img src="http://chinadigitaltimes.net/chinese/files/2015/12/0981grey.gif" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%82%A3%E4%BA%9B%E5%9C%A8%E8%B1%86%E7%93%A3%E4%B8%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E7%93%A3/?category=18271" rel="tag">豆瓣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C21%E4%B8%96%E7%BA%AA%E6%8A%A5%E7%B3%BB%E6%80%BB%E7%BC%96%E6%B2%88%E9%A2%A2%E8%8E%B7%E5%88%91-%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AA%92%E8%B7%9F%E9%80%9A%E7%A8%BF/" target="cdt-mirror">BBC｜21世纪报系总编沈颢获刑 中国网媒跟通稿</a>
+</h2>
+<p><p>上海浦东新区法院周四（24号）对广东21世纪报系总编沈颢“敲诈勒索”等案作出一审判决。法院判其有期徒刑四年，并处罚金人民币6万元。</p>
+<p>沈灏还是21世纪传媒股份有限公司总裁，隶属广州南方报业集团的这家公司经营《21世纪经济报道》等刊物与网站，法院对该公司处罚948.5万元。</p>
+<p>周三（23号）中国媒体人的社交媒体平台传出关于沈灏案的报道“通知”，指令中国各网站“严格按照新华社通稿报道，不炒作，不派记者采访”。</p>
+<p>而周四中国网络媒体对此案的报道如出一辙，全是新华社通稿。中国中央电视台在宣判后不久播出沈灏在庭上鞠躬道歉的片段。</p>
+<p>浦东新区法院周四透过官方微博发布通知称，该系列案件中的其他案件今天也将陆续作出一审判决。</p>
+<p>沈灏获罪</p>
+<p>沈灏因“犯敲诈勒索罪、强迫交易罪、职务侵占罪”获刑，但法院称其“具有自首、立功情节”，所以数罪并罚。</p>
+<p>21世纪传媒股份有限公司因“强迫交易罪”，被罚人民币948万5千元。</p>
+<p>广东21世纪传媒股份有限公司于2010年9月整体改制而来，控股股东为广东南方报业传媒集团有限公司，注册资本为人民币6900万元人民币。</p>
+<p>2014年9月25日下午，21世纪报系总编沈灏等30人被警方带走。而21世纪报系旗下的21世纪网则被吊销所有网站资质，人员全部遣散，公司注销。</p>
+<p>2015年8月20日，上海市浦东新区人民检察院向浦东新区人民法院提起了公诉。</p>
+<p>央视新闻在宣判后不久播出了沈灏在庭上的最后陈述。</p>
+<p>沈灏说：“我先表三个态吧。第一，对公诉人刚才陈述的21世纪传媒单位犯罪的事实、罪名、证据，没有任何的异议，没有任何的意见。”</p>
+<p>“第二，单位犯罪，我作为公司的总裁，负有不可推卸的领导责任。我也愿意承担法律责任。”</p>
+<p>“第三，我向因单位犯罪而受害的企业赔礼道歉。如果审判长可以（允许），我也希望能够让我站起来鞠一个躬，表示我的歉意。”</p>
+<p>审判长回以一句“可以”，沈灏起立，面向审判长鞠躬，然后坐下。</p>
+<p>“新闻敲诈”</p>
+<p>2014年9月3日中国警方宣布侦破一起“以舆论监督为幌子、通过有偿新闻非法获取巨额利益的特大新闻敲诈犯罪案”，逮捕了涉案的21世纪网主编等8名犯罪嫌疑人。</p>
+<p>警方指责上述人士在一些公司上市发行新股之际，通过所谓“正面报道”夸大事实、掩盖公司问题，而通过所谓“负面报道”进行攻击敲诈。</p>
+<p>该案发生后引起广泛关注，媒体业人士表示，此案反映中国缺乏良性舆论监督环境和体系的问题。</p>
+<p>另外有消息显示，《理财周报》多人也被带走调查。资料显示，《理财周报》也是21世纪报系重要成员。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C21%E4%B8%96%E7%BA%AA%E6%8A%A5%E7%B3%BB%E6%80%BB%E7%BC%96%E6%B2%88%E9%A2%A2%E8%8E%B7%E5%88%91-%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AA%92%E8%B7%9F%E9%80%9A%E7%A8%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93/?category=18271" rel="tag">21世纪经济报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E7%81%8F/?category=18271" rel="tag">沈灏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B7%B4%E4%B8%A2%E8%8D%89-%EF%BC%9A%E9%98%B2%E9%9B%BE%E9%9C%BE%E7%BA%A2%E9%A2%86%E5%B7%BE%E7%B3%BB%E6%B3%95/" target="cdt-mirror">巴丢草 ：防雾霾红领巾系法</a>
 </h2>
 <p><p>#巴丢草 【防雾霾红领巾系法】刚刚完成教育部委托的防治 #雾霾危害 #红领巾 新系法示意图，请各位朋友积极下载，打印并张贴给所有家长，老师，学校及其他青少年活动场所！</p>
@@ -111,6 +254,19 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-4/" target="cdt-mirror">【真理部】《21世纪经济报道》系列案件即将一审宣判</a>
+</h2>
+<p><p>各网站：《21世纪经济报道》系列案件即将一审宣判，各网站严格按照新华社通稿和上海高院微博报道，不炒作，不派记者采访。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93/?category=18271" rel="tag">21世纪经济报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E7%81%8F/?category=18271" rel="tag">沈灏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E8%B3%80%E8%A1%9E%E6%96%B9-%E6%B3%95%E5%BE%8B%E7%95%8C%E7%9A%84%E8%89%AF%E7%9F%A5%E5%92%8C%E5%8B%87%E6%B0%A3%E5%9C%A8%E5%93%AA%E8%A3%8F%EF%BC%9F/" target="cdt-mirror">蘋果日報｜賀衞方 – 法律界的良知和勇氣在哪裏？</a>
 </h2>
@@ -520,116 +676,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8C%97%E4%BA%AC%E4%BE%BF%E8%A1%A3%E7%B2%97%E6%9A%B4%E5%B9%B2%E6%B6%89%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E7%BA%AA/" target="cdt-mirror">美国之音 | 北京便衣粗暴干涉记者采访浦志强案纪实</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-21-at-%E4%B8%8B%E5%8D%8811.30.33.png" alt="Screen Shot 2015-12-21 at 下午11.30.33" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-21-at-下午11.30.33-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-21-at-下午11.30.33.png 636w" sizes="(max-width: 550px) 100vw, 550px"><br>
-北京警方12月14日一早在法院入口附近拉起警戒线，阻止要求旁听浦志强案庭审的西方外交官和中国公民接近法庭。（美国之音叶兵拍摄）</p>
-<p><span>北京—</span>周二上午，备受社会关注的浦志强案开庭宣判期间，法院外面及周边街道上，大批警察和便衣人员严加把守，并在多处拉起警戒线，严查过往行人，阻止公民或西方外交官进入旁听这个“敏感案件”。</p>
-<p>现场可以看到有一些人围观，一名妇女连声高呼“浦志强无罪”，随后被便衣人员带走。北京维权人士倪玉兰律师由丈夫董继勤推轮椅来到围观现场时，有不少记者上前采访。倪玉兰对着多个话筒刚说了几句支持浦志强的话，就被一群便衣团团围住驱离。</p>
-<p>一众便衣人员对在警戒线外停留或拍摄的美国之音、路透社等外媒记者一再采用暴力手段，粗暴干涉正常的新闻采访报道。</p>
-<p>美国之音记者在拍摄时遭到多名便衣前后夹攻，前胸后背和右臂多次遭拳击和强力推搡，并有人试图遮挡或抢夺记者的手机和摄像机。一名自称老百姓的中年男子反诬记者碰撞他，多次动手拉拽记者要求道歉，被记者严词拒绝。</p>
-<p>便衣人员向外媒记者施暴时，在场的多名警察只是旁观，没有采取制止暴力或保护记者的任何行动。记者向在场的负责外事警官投诉时，被告知他们管不了这些便衣。有些穿制服的警察表示希望记者理解是上面命令他们出来站岗，要求记者配合他们工作。</p>
-<p>一周前，国际记者联盟亚太办公室曾发表声明谴责北京警方针对采访浦志强案记者的暴力行径。</p>
-<p>声明说：“中国警方和中国当局对浦志强的起诉，以及当局对待报道浦志强案的记者的做法是公然践踏中国的表达自由和新闻自由。中国当局在全中国继续强化对表达自由的限制，必将对新闻自由造成破坏性的影响。”</p>
-<p>与此同时，驻华外国记者协会也曾发表声明表示，“这种震慑新闻采访的行动，完全违反中国政府有关外国记者的规定。” 声明敦促中国政府和警方停止骚扰和体罚外国记者，遵守中国自己的有关规定。</p>
-<p>几个月前，中国国家主席习近平对来访的新闻集团执行董事长默多克表示，“中国将继续对外国媒体持开放态度，欢迎外国媒体和记者来华采访报道，向世界介绍中国发展，帮助世界把握中国发展机遇，增进中国人民和各国人民相互理解和合作。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%8C%97%E4%BA%AC%E4%BE%BF%E8%A1%A3%E7%B2%97%E6%9A%B4%E5%B9%B2%E6%B6%89%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E7%BA%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A3%B0%E6%8F%B4%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">声援浦志强</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B7%B1%E5%9C%B3%E5%9D%8D%E5%A1%8C%E5%8F%97%E7%BA%B3%E5%9C%BA%E8%BF%90%E8%90%A5%E6%9D%83%E7%94%B1%E4%B8%AD%E6%A0%87%E8%80%85%E5%8D%B3%E6%97%B6%E8%BD%AC%E5%8C%85%E8%8E%B7%E5%88%A975%E4%B8%87/" target="cdt-mirror">财新网｜深圳坍塌受纳场运营权由中标者即时转包获利75万</a>
-</h2>
-<p><p><strong>【编者注】财新网原文已被删除。以下内容来自<a href="http://webcache.googleusercontent.com/search?q=cache:bm8vCypN1DYJ:china.caixin.com/2015-12-21/100891130.html">谷歌缓存</a></strong></p>
-<p>（记者 林金冰 实习记者 杨柳青）</p>
-<p>深圳市绿威物业管理有限公司（以下简称“绿威物业”）是20日滑坡事件中坍塌受纳场的中标运营方。绿威物业工作人员21日接受财新记者采访称：公司中标后，即将运营权转让给深圳市益相龙投资发展有限公司（下称益相龙公司），收取转让费75万元。</p>
-<p>两年半前（2013年7月23日），深圳光明新区政府采购中心发布招标公告，标的是“红坳渣土受纳场运营服务项目”。</p>
-<p>红坳受纳场即是20日深圳滑坡发生后，广东省地质灾害应急专家组初步认定的坍塌主体。这一结论改变了事故调查方向：从山体滑坡自然灾害转向安全生产责任事故。</p>
-<p>公告提出投标人资格要求包括：必须有“物业管理”经营范围；不接受联合投标，但允许将施工项目分包给有专业施工资质的企业。</p>
-<p>绿威物业该工作人员向财新记者出示的一份合同文件显示：2013年7月23日亦即招标公告当日，绿威物业与益相龙公司签下合同，前者承诺中标后将红坳渣土受纳场运营项目，转让给后者经营管理，并向后者收取75万元转让费。</p>
-<p>工作人员同时强调：当年是益相龙公司前来相告，绿威物业才知道有这一招标项目。</p>
-<p>合同显示：益相龙公司需制订红坳渣土受纳场运营技术方案，自负盈亏，同时承担安全事故等重大意外责任。</p>
-<p>半个月后（2013年8月7日），绿威物业中标。前述绿威物业工作人员认为，在此之后，红坳渣土受纳场运营项目就由益相龙负责，与绿威物业再无关联。</p>
-<p>查询工商资料可知：益相龙公司成立于2003年，注册资本1000万元，经营范围既有“物业管理”，也有“余泥、渣土及建筑垃圾受纳场的、纯土受纳场的管理”（工商资料注明：受纳场执照需要另行办理）。</p>
-<p>益相龙公司两名自然人股东为龙华美、龙容美，分持70%、30%股权。龙华美任执行董事，龙仁福任总经理，杜磊任监事。</p>
-<p>既然益相龙公司可以经营“物业管理”，同样具有投标资格，为何要让绿威物业先中标再转让呢？财新记者多次拨打益相龙公司一名余姓负责人手机，无人接听；益相龙公司法人代表龙华美电话一直关机。</p>
-<p>财新记者21日到访益相龙登记办公地址，即福田区梅林路的绿化大厦一层。只见大门已锁，红色锁头铺满灰尘，透过玻璃门可见地上散落信件几封，室内空无一人。大厦保安人员透露，益相龙公司三个月前搬离此处，应是迁往他处办公，公司规模不大，出入人员约有二十个。</p>
-<p>值得注意的是，红坳渣土受纳场运营项目招标公告，只提及“允许将施工项目分包”，但未说明究竟包含哪些施工项目，也未提及是否允许将整个运营项目转让他人。据财新记者了解，这一项目的采购方，是光明新区城市建设局。</p>
-<p>财新记者分别致电光明新区政府采购中心及城市建设局，二者均无正面回应。前者工作人员表示，采购中心仅负责中标过程审核和结果判定。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B7%B1%E5%9C%B3%E5%9D%8D%E5%A1%8C%E5%8F%97%E7%BA%B3%E5%9C%BA%E8%BF%90%E8%90%A5%E6%9D%83%E7%94%B1%E4%B8%AD%E6%A0%87%E8%80%85%E5%8D%B3%E6%97%B6%E8%BD%AC%E5%8C%85%E8%8E%B7%E5%88%A975%E4%B8%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E8%B4%A3%E4%BB%BB%E4%BA%8B%E6%95%85/?category=18271" rel="tag">安全责任事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5/?category=18271" rel="tag">安全检查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB/?category=18271" rel="tag">深圳山泥倾泻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%B3%95%E9%99%A2%E5%88%A4%E5%A4%84%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%89%E5%B9%B4%E7%BC%93%E5%88%91/" target="cdt-mirror">BBC | 北京法院判处中国维权律师浦志强三年缓刑</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151214120958_cn_pu_zhiqiang_976x549_afp_nocredit.jpg" alt="浦志强曾是1989年天安门学运的示威者。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/151214120958_cn_pu_zhiqiang_976x549_afp_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/151214120958_cn_pu_zhiqiang_976x549_afp_nocredit.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>浦志强曾是1989年天安门学运的示威者。</p></div>
-<p><strong>北京市第二中级法院就中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”一案裁定浦志强有罪，两罪并罚，判处三年有期徒刑，缓刑三年。</strong></p>
-<p>浦志强2014年5月初被警方抓捕，至今年12月14日首次接受审判。北京二中院星期二（12月22日）作出一审宣判。官方新华社称浦志强服从判决不上诉。</p>
-<p>检方根据浦志强所发表的七组微博对他提起公诉。官方新华社报道称：“浦志强在庭审期间，表示认可公诉机关指控的犯罪事实，多次向公众和被害人真诚致歉，愿意接受法律的处罚。”</p>
-<p>美国与欧盟等西方政体认为浦志强只是行使其言论自由，纷纷要求中国无罪释放浦志强，中国则多次强调外国“必须尊重中国的司法主权”。</p>
-<p>一如14日庭审当天，北京二中院外星期二驻扎了大量警力，包括多名疑似便衣警员。BBC记者埃文斯及其采访队报道说，多名到法院外声援浦志强的民众被便衣人员拉走。</p>
-<p>BBC采访团队随后遭警察没收记者证件，警察指控BBC记者无照进行连线报道，违反中国法律。</p>
-<p>国际特赦组织称，警方在北京二中院外带走了至少12名声援者。BBC中文网未能独立核实此说法。</p>
-<p>组织批评说，中国法院对浦志强的判决是“给一位言论自由领先者扣上枷锁的蓄意行为”。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151222034633_cn_pu_zhiqiang_verdict_02_976x549_bbc_nocredit.jpg" alt="警员试图阻止BBC采访队摄像。" width="600" height="338" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/151222034633_cn_pu_zhiqiang_verdict_02_976x549_bbc_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/151222034633_cn_pu_zhiqiang_verdict_02_976x549_bbc_nocredit.jpg 624w" sizes="(max-width: 600px) 100vw, 600px"><p>警员试图阻止BBC采访队摄像。</p></div>
-<p><strong>“从轻处罚”</strong></p>
-<p>浦志强被警方抓捕时的犯罪嫌疑是“寻衅滋事”和“非法获取公民个人信息”，至去年11月被加控“煽动分裂国家罪”和“煽动民族仇恨、民族歧视罪”。如今公诉方只根据他所发表的七组微博，诉以“煽动民族仇恨罪”和“寻衅滋事罪”。</p>
-<p>中国中央电视台与新华社在法院宣判后不久即发稿报道判决结果。新华社的报道称：“鉴于被告人浦志强如实供述指控的犯罪事实，积极认罪悔罪，法院依法对其从轻处罚，两罪并罚决定执行有期徒刑三年，缓刑三年。浦志强表示服从判决不上诉。”</p>
-<p>“浦志强在庭审期间，表示认可公诉机关指控的犯罪事实，多次向公众和被害人真诚致歉，愿意接受法律的处罚。浦志强同时表示，从自身的经历，感受到了法治的进步、法律的完善及社会的进步。”</p>
-<p>不过，浦志强的代表律师尚宝军此前对BBC说，浦志强在庭审中并未认罪，但说要是其微博伤害到任何人，他愿意道歉。</p>
-<p>浦志强的另一名代表律师莫少平稍早前对外发布了检方所摘编作为证据的微博内容。其中被视为干犯“煽动民族仇恨罪”的包括对2014年3月昆明火车站袭击案的评论。该次袭击共造成31人死亡，北京当局将之定性为新疆维吾尔族分离主义份子策动的“暴力恐怖袭击”。</p>
-<p>被视为干犯“寻衅滋事罪”的微博则包括对中国连任全国人大代表次数最多者申纪兰，以及已故中共领导人毛泽东嫡孙毛新宇的批评。</p>
-<p>新华社的报道说：“法院审理认为，2012年1月至2014年5月间，被告人浦志强使用其注册的‘小小律师浦志强’等新浪微博账户，先后8次发布多条微博，挑拨民族关系，煽动民族仇恨，共计被转发2500余次，评论1300余条，引发了一些网民激烈的民族仇恨、民族对立情绪，具有现实的社会危害性，达到了情节严重程度。而且在被网站管理员多次提醒不宜公开、予以处理的情况下，浦志强仍继续发布煽动性微博，足见其主观上具有煽动民族仇恨的故意，其行为已构成煽动民族仇恨罪。”</p>
-<p>“法院审理认为，2011年以来，针对社会热点事件，被告人浦志强先后4次发布侮辱性微博，辱骂多人，共计被转发900余次，评论500余条，引发大量辱骂性跟帖和负面言论，不仅给他人造成了心理伤害及社会评价降低的后果，而且造成网络空间秩序的混乱和恶劣社会影响，扰乱了社会公共秩序，已达到情节恶劣程度，其行为已构成寻衅滋事罪。”</p>
-<p>莫少平星期二听判后在法院外对香港媒体记者说，他对浦志强获判缓刑感到高兴，只要浦志强能走出看守所他都感到欣慰，但他强调浦志强无罪。</p>
-<p>国际特赦组织中国研究员倪伟平（William Nee）在一份声明中说：“浦志强不太可能要在监狱度过另一个晚上显然是正面的，然而这埋没不了针对他的司法不公。”</p>
-<p>“他绝非犯罪分子，这个有罪裁决正是给中国最勇敢的言论自由领先者扣上枷锁，阻止其从事法律工作。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E5%8C%97%E4%BA%AC%E6%B3%95%E9%99%A2%E5%88%A4%E5%A4%84%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%89%E5%B9%B4%E7%BC%93%E5%88%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-125/" target="cdt-mirror">【河蟹档案】百度百科：“翻墙是一种国际偷渡的犯罪行为”</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em><em>相关阅读｜</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BA%AA%E6%98%80">纪昀</a>：什么叫‌‌‌‌“尊重互联网主权‌‌‌‌”呢？有网友给出了解释：就是要把互联网按国别分割开来，在接入本国时设置防火墙。实际上就是分割互联网，让互联网变成国别网、局域网，让网络审查合法化，让世界接受中国的网络审查，或说要把中国式网络审查强加给世界。//*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E5%BA%AD%E6%BA%90%E5%BE%8B%E5%B8%882">张庭源律师2</a>：【问】这以后上外国网站需要办理签证么？<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%BE%BD%E8%B0%88%E9%A3%9E%E7%9A%84%E5%8D%9A%E5%AE%A2-%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%EF%BC%9A%E4%B8%80%E6%9E%9A%E5%BC%B1%E6%B0%91%E5%BC%B1%E5%9B%BD%E7%9A%84%E6%8A%A4%E8%BA%AB%E7%AC%A6/">羽谈飞的博客 | 网络主权：一枚弱民弱国的护身符</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-18.jpg" alt="333" width="358" height="636" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-18-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/333-18-576x1024.jpg 576w" sizes="(max-width: 358px) 100vw, 358px"><br><a href="https://freeweibo.com/weibo/3921861676758904" target="/weibo/392">2015年12月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%90%95%E8%89%AF%E5%BD%AA%E5%BE%8B%E5%B8%88">吕良彪律师</a>：【领网？！】领土、领海、领空，居然有人逢迎上意地提出“互联网主权”这样的概念，接下来是不是真要出现“领网”之说为权力全面管制互联网提供法理依据呢？<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%B3%A1%E6%B3%A1%E7%BD%91%EF%BD%9C%E8%B4%9D%E5%B8%A6%E5%8A%B2%EF%BC%9A%E4%B9%8C%E9%95%87%E5%AE%A3%E8%A8%80-%E4%B8%80%E4%B8%AA%E8%A2%AB%E9%81%97%E6%BC%8F%E4%BA%86%E7%9A%84%E7%AC%91/">泡泡网｜贝带劲：“乌镇宣言” 一个被遗漏了的笑话</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/493412ccjw1ez3wd883iaj20es0mm77t.jpg" alt="493412ccjw1ez3wd883iaj20es0mm77t" width="507" height="776" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/493412ccjw1ez3wd883iaj20es0mm77t-196x300.jpg 196w, http://chinadigitaltimes.net/chinese/files/2015/12/493412ccjw1ez3wd883iaj20es0mm77t.jpg 532w" sizes="(max-width: 507px) 100vw, 507px"><br><a href="https://freeweibo.com/weibo/3921441193656578" target="/weibo/392">2015年12月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BA%AA%E6%98%80">纪昀</a>：网友总结今年最冷的两个笑话：1，局域网国家还开世界互联网大会。2，雾霾产生了新的经济学科叫做雾霾经济。<br><a href="https://freeweibo.com/weibo/3921488627603019" target="/weibo/392">2015年12月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%B0%E8%AF%AD%E4%B8%9D%E4%B9%8B%E5%85%89">新语丝之光</a>：世界互不联网大会会徽<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/69c710a1jw1ez3z328b9yj20gm0a874o.jpg" alt="互联网大会会徽" width="465" height="286" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/69c710a1jw1ez3z328b9yj20gm0a874o-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/69c710a1jw1ez3z328b9yj20gm0a874o.jpg 598w" sizes="(max-width: 465px) 100vw, 465px"><br><a href="https://freeweibo.com/weibo/3921464471924130" target="/weibo/392">2015年12月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%A6%99%E6%B8%AF%E5%95%86%E5%A0%B1%E7%B6%B2">香港商報網</a>：【中国的互联网是不是管太紧？马云这样说️↓↓】马云在<a href="https://freeweibo.com/weibo/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A">#世界互联网大会#</a>闭幕式上说：海外有不少人讲，中国互联网是不是管太紧，但我自己认为，这个国家管出了七亿互联网用户，管出了BAT，管出了无数创新！就像阿里一样，以前我特反对管，但今天出现了假货，欺诈，人家说你管理不严，所以还是需要管理。<em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2015/12/422284/">三表龙门阵 | Fenng：马云的一块红布</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-17.jpg" alt="333" width="450" height="250" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-17-300x167.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-17.jpg 600w" sizes="(max-width: 450px) 100vw, 450px"><br><a href="https://freeweibo.com/weibo/3921439025906556" target="/weibo/392">2015年12月18日 </a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BB%8D%E5%85%B4%E5%B8%88%E7%88%B7%E5%9C%A8%E5%8C%97%E4%BA%AC">绍兴师爷在北京</a>：＂一句顶一万句＂、＂我们相信毛主席要相信到迷信的程度，我们服从毛主席要服从到盲从的程度＂这样赤裸裸的＂名言＂不会再有了。不过，思维逻辑、宦官政治依旧。近日，某人字里行间一口一声某主席、某主席演讲体现＂全球视野＂、＂人类社会发展重大思想贡献＂、＂里程碑＂、＂载入史册＂的话堂而皇之。<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E9%B2%81%E7%82%9C">维基百科<em>｜鲁炜</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-15.jpg" alt="333" width="473" height="315" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-15-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-15.jpg 600w" sizes="(max-width: 473px) 100vw, 473px"><br><a href="https://freeweibo.com/weibo/3922121983963660" target="/weibo/392">2015年12月20日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%89%E5%B0%91%E7%88%B7%E7%9A%84%E5%BE%AE%E7%AC%91Y">三少爷的微笑Y</a>：12月14日，因声援围观浦志强案被刑拘的四位草根志士：河北张占、辽宁王素娥、山西渠红霞、广西冉崇碧已被证实被关押在北京市丰台看守所(北京市丰台区卢沟桥沙岗村6号)，不知道有没有律师介入？为众人抱火者，不可使他冻毙于风雪！为自由开路者，不可使他困顿于荆棘！望大家声援四位勇士。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/Xinwen/d-12182015113735.html">自由亚洲｜围观浦志强案 数位公民被刑拘</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-19.jpg" alt="333" width="503" height="283" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-19-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-19-768x432.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/333-19.jpg 800w" sizes="(max-width: 503px) 100vw, 503px"><br><a href="https://freeweibo.com/weibo/3922445092018907" target="/weibo/392">2015年12月21日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B0%A2%E5%85%83">谢元</a>：[哈哈][哈哈]为中央领导同志代购？由喜贵？钱运录？石秀诗？庹文升？张传瑞？请予大力协助为盼？ <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%8A%9E%E5%85%AC%E5%8E%85%E8%AD%A6%E5%8D%AB%E5%B1%80">维基百科<em>｜</em>中共中央办公厅警卫局</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-16.jpg" alt="333" width="467" height="725" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-16-193x300.jpg 193w, http://chinadigitaltimes.net/chinese/files/2015/12/333-16-660x1024.jpg 660w, http://chinadigitaltimes.net/chinese/files/2015/12/333-16.jpg 684w" sizes="(max-width: 467px) 100vw, 467px"><br><a href="https://freeweibo.com/weibo/3921778177311426" target="/weibo/392">2015年12月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8F%AF%E6%96%B0%E5%A0%B1">華新報</a>：劉輝這樣要逼死多少亳州群眾？？？<em>相关阅读｜《<a href="http://news.ddsb.cn/city/201512/668161.html">安徽亳州：因政府征迁炮制的人间惨剧连连</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-21.jpg" alt="333" width="409" height="454" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-21-270x300.jpg 270w, http://chinadigitaltimes.net/chinese/files/2015/12/333-21.jpg 640w" sizes="(max-width: 409px) 100vw, 409px"><br><a href="https://freeweibo.com/weibo/3922395855607434" target="/weibo/392">2015年12月21日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-125/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E5%B7%9E/?category=18271" rel="tag">贵州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%84%8F%E8%AF%86/?category=18271" rel="tag">公民意识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8C%85%E5%8F%B0/?category=18271" rel="tag">茅台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E7%82%9C/?category=18271" rel="tag">鲁炜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">互联网主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/?category=18271" rel="tag">指鹿为马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A/?category=18271" rel="tag">第二届</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">恶搞讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9A%E5%BE%BD/?category=18271" rel="tag">会徽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%AB%E5%B7%9E/?category=18271" rel="tag">毫州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%AB%E5%B7%9E%E5%B0%91%E6%9E%97%E6%96%87%E6%AD%A6%E5%AD%A6%E6%A0%A1/?category=18271" rel="tag">毫州少林文武学校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E8%BF%90%E5%BD%95/?category=18271" rel="tag">钱运录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E6%96%87%E5%8D%87/?category=18271" rel="tag">庹文升</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E7%A7%80%E8%AF%97/?category=18271" rel="tag">石秀诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%89%B9%E4%BE%9B/?category=18271" rel="tag">中央特供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%8A%9E%E5%85%AC%E5%8E%85%E8%AD%A6%E5%8D%AB%E5%B1%80/?category=18271" rel="tag">中央办公厅警卫局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E9%A3%9E/?category=18271" rel="tag">刘飞</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E4%BA%BA%E7%A5%B8%EF%BC%9A%E6%BB%91%E5%9D%A1/" target="cdt-mirror">巴丢草 | 中国式人祸：滑坡</a>
-</h2>
-<p><p>@badiucao：深圳堆土滑坡是中国式发展的恶果；是每个环节不作为的共谋；是设计，施工，倾倒，环评，监管的集体犯罪； 制度的孽，无人无辜，亦无人生还。天朝既人朝；天灾既人祸！ #Shenzhenlandslide(...)<br>Read the rest of <a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E4%BA%BA%E7%A5%B8%EF%BC%9A%E6%BB%91%E5%9D%A1/">巴丢草 | 中国式人祸：滑坡</a> (0 words)</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E4%BA%BA%E7%A5%B8%EF%BC%9A%E6%BB%91%E5%9D%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A5%E7%9F%B3%E6%B5%81/?category=18271" rel="tag">泥石流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">地质灾害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B4%E5%9C%9F%E6%B5%81%E5%A4%B1/?category=18271" rel="tag">水土流失</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E6%B3%A5%E5%80%BE%E6%B3%BB/?category=18271" rel="tag">深圳泥倾泻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E7%AD%91%E6%B8%A3%E5%9C%9F/?category=18271" rel="tag">建筑渣土</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%BF%E8%89%B2%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">绿色城市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -641,7 +687,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -651,5 +697,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

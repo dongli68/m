@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B2%A1%E6%9C%89%E7%99%BD%E6%AD%A6%E5%A3%AB%EF%BC%8C%E5%8F%AA%E6%9C%89%E8%B5%B5%E5%AE%B6%E4%BA%BA-%E6%8B%86%E5%93%AA%E5%84%BF/" target="cdt-mirror">拆哪儿｜没有白武士，只有赵家人</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/640-5.jpg" rel="attachment wp-att-422770"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/640-5.jpg" alt="640" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/640-5-300x197.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/640-5.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>今天是平安夜。据说在遥远的东方，一个充满着梦想的国度，这一天长得好看的人都会被早早地被约出去。拆姐忍不住也问一遍，平安夜有人要约拆姐吗？</p>
+<p>没有的话，拆姐等会儿再问一遍……</p>
+<p>既然没有约会，拆姐决定让大家看看这个报道。20岁的湖南青年小龙因入室盗窃事发，逃到北京。正值北京冬季雾霾天气多发，小龙到北京一个星期后就感冒、咳嗽，并且肺炎复发。12月23日，不堪北京雾霾的小龙，毅然回家自首。</p>
+<p>这真是一个无比温暖的故事。感谢沁人心肺的雾霾，让一位迷途的男青年找到了回家的路。赠人雾霾，手有余香，拆姐忍不住感谢祖国。对了，住在北京的亲们，平安夜你们还出去约吗？</p>
+<p>平安夜这几天，王石仍旧很忙。他昨天早上去瑞士信贷交流，他称：宝能、万科都是在深圳的企业，大家都是为深圳做建设的，不应该内斗！</p>
+<p>这些讲话流出后，猫猫狗狗、迟迟朔朔们又开始了一轮铺天盖地的评论。大家纷纷给王石先生写下感人肺腑的墓志铭——王石认输、世间再无王石……</p>
+<p>王石的好朋友、著名二人转艺术家迟宇宙老师在造了《王石已筹得巨额资金》、《这是王石一个人的战斗》等多篇十万+的诼谣后，再次出手。他说有底气的人用拳头反击，没底气的人才聒噪个不停，王石这次的表现令人很失望，戏散了，王的时代正式结束了。</p>
+<p>抱歉，迟宇宙老师，真正聒噪的恐怕是你。作为二人转艺术家，不务正业不好好练习胸口碎大石，一身野鸡造型四处嚼舌根想做网红。你的表现真的也很令人失望哟。</p>
+<p>也是在平安夜这一天。万科在凌晨发来捷报：我们守住了底裤！因为我们张开双手拥抱了安邦。万科公告里说，“安邦在举牌中与万科进行了卓有成效的沟通。万科欢迎安邦成为万科重要股东，并愿与安邦全方位合作。”</p>
+<p>安邦也在凌晨紧随万科的脚步摩擦摩擦。他们也发表声明称，积极支持万科发展，希望万科管理层、经营风格保持稳定，继续为所有股东创造更大的价值。</p>
+<p>这个跟香港TVB一般的商战大片，似乎迎来了完美的结局。插入万科董事会的不会是野蛮人姚振华，而是白衣骑士安邦。王石先生守住了王座，也守住了贞操。看客们皆大欢喜。</p>
+<p>但姚振华输了吗？显然没有。宝能系大部分资金来自浙商银行理财池。为了买入万科股权，“宝能系”用钜盛华及前海人寿的股权质押，用高达14倍的杠杠从浙商银行融资了133亿资金。</p>
+<p>拆姐查到，就在这次万科大战爆发前不久，钜盛华引入两支私募基金进行增资，一个叫宝能创赢基金，融资方是民生银行，另一个浙商宝能产业基金的融资方是浙商银行。</p>
+<p>金融圈的朋友提醒拆姐，民生银行的第二大股东是安邦，浙商银行的第二大股东旅行者公司，也是安邦的主要股东。你还觉得这是巧合吗？</p>
+<p>2009年7月，在浙商银行北京分行的开业仪式上，安邦掌门人吴小晖作为浙商银行的股东代表参与揭牌。旅行者公司执行总裁，是一位卓（deng）姓（jia）女子，这位女子还出任过浙商银行的董事。旅行者公司也是安邦集团的第二大股东。</p>
+<p>安邦曾经在去年还入股过万科一次。当时他们是第四大股东，但很快又悄悄退出了。</p>
+<p>故事就是这样一个故事了。在总结了上次入股万科的深刻教训后，为避免吃相难看落人口舌，赵家人这次找到了宝能。宝能非常嗜血勇猛，顶着门口野蛮人的骂名，扛着赵家人的钞票，给赵家人争夺地盘。</p>
+<p>赵家人随后拍马赶到，化身白衣骑士的他们，经过一番非常良好的沟通，让王石终于签下城下之盟。</p>
+<p>记得上次拆姐推送的【宝能深喉爆料】里就提过，姚振华在内部十分推荐安邦，要把宝能系打造成小安邦。</p>
+<p>所以，世界是你们的，也是我们的。但归根结底，还是变成了赵家人的。</p>
+<p>大戏OVER。拆姐没读过什么书，不懂你们说什么，洗洗睡去了。</p>
+<p>对了，今天平安夜，真的没有人来约拆姐吗？</p>
+<p><strong>拆哪儿（ID：IChinar）</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%8B%86%E5%93%AA%E5%84%BF.jpg" rel="attachment wp-att-422769"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%8B%86%E5%93%AA%E5%84%BF.jpg" alt="拆哪儿" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/拆哪儿-300x146.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/拆哪儿.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B2%A1%E6%9C%89%E7%99%BD%E6%AD%A6%E5%A3%AB%EF%BC%8C%E5%8F%AA%E6%9C%89%E8%B5%B5%E5%AE%B6%E4%BA%BA-%E6%8B%86%E5%93%AA%E5%84%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3/?category=18271" rel="tag">王石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91/?category=18271" rel="tag">万科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91%E5%AE%9D%E8%83%BD%E4%B9%8B%E4%BA%89/?category=18271" rel="tag">万科宝能之争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">东网｜乔木：赵家人的中国</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW5ItYcUsAA2DZl.jpg" alt="CW5ItYcUsAA2DZl" width="551" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW5ItYcUsAA2DZl-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/CW5ItYcUsAA2DZl.jpg 600w" sizes="(max-width: 551px) 100vw, 551px"></p>
@@ -605,33 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%97%A5%E8%AE%B0/" target="cdt-mirror">【图说天朝】小时候的日记</a>
-</h2>
-<p><p>@Rick_Xu ：今天回家清理过去的东西，发现了小时候写的日记，笑了差不多一整天。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlc6v5hj216s0qo13w.jpg" alt="631ce72bjw1ez7nlc6v5hj216s0qo13w" width="440" height="274" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlc6v5hj216s0qo13w-300x187.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlc6v5hj216s0qo13w.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlcosa0j20mz0hd426.jpg" alt="631ce72bjw1ez7nlcosa0j20mz0hd426" width="440" height="333" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlcosa0j20mz0hd426-300x227.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlcosa0j20mz0hd426.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nle6kikj21kw0lydt4.jpg" alt="631ce72bjw1ez7nle6kikj21kw0lydt4" width="440" height="170" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nle6kikj21kw0lydt4-300x116.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nle6kikj21kw0lydt4.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nletvhfj21500qodsn.jpg" alt="631ce72bjw1ez7nletvhfj21500qodsn" width="440" height="286" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nletvhfj21500qodsn-300x195.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nletvhfj21500qodsn.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlhor92j21kw0q0qhn.jpg" alt="631ce72bjw1ez7nlhor92j21kw0q0qhn" width="440" height="201" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlhor92j21kw0q0qhn-300x137.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlhor92j21kw0q0qhn.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlkoy34j20xk0qowob.jpg" alt="631ce72bjw1ez7nlkoy34j20xk0qowob" width="440" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlkoy34j20xk0qowob-300x239.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nlkoy34j20xk0qowob.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nll8vl1j217c0qok2q.jpg" alt="631ce72bjw1ez7nll8vl1j217c0qok2q" width="440" height="271" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nll8vl1j217c0qok2q-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/631ce72bjw1ez7nll8vl1j217c0qok2q.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
-<p>@Rick_Xu：晒出几篇小时候的日记，被狂转狂评了。儿子问：你那时写的是真心话吗？回答这个问题还真有点难，得重回那个语境。从小被洗脑，那时还真的是这么想的，或者自己真心以为是这么想的。不能用现在的思维评价扭曲时代的思想。想到这里，我幸福的笑了。</p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：,sdhe</strong></p>
-<p>学术在拐角：一个时代的典型性刻画啊……瞬间觉得社会主义的春风迎面袭来……</p>
-<p>东风永健：革命事业接班人。</p>
-<p>冰与火的乐章：接到班没有啊，楼主。</p>
-<p>人望不惑：从50年代开始我们都生活在这样幸福的生活中。</p>
-<p>-法號文納：76年我三年级，刚好赶上唐山大地震，之后拿着小板凳去河边坐在大堤上上课，10月份下着雨游行，我领着喊口号：打倒王张江姚四人帮…….</p>
-<p>桐阶月暗：我小时候（90年代）只是把“革命接班人”换成“祖国的栋梁之才” 而已。</p>
-<p>DopeyTom：可惜了，博主。你要是一直坚持这种风格，上次开文艺座谈会就没有一花一带什么事了。</p>
-<p>语声jon：班委扩大会！民主气氛很浓！</p>
-<p>蕭沉：哈哈，我中小學寫過的那些日記本早就不知道扔哪去了。總之全是沒話搭話的這種，空泛蒼白，熟悉極了。</p>
-<p>冲动de猪：你个没节操的，信仰呢！</p>
-<p>盛满阳光的篮子：人的思想、意识绝大多数都是一种被环境搭建的产物，这个搭建起来的思想显然靠不住，所以老子说无名万物之母，那个无名才靠得住。</p>
-<p>天荒寺孤僧：所以，一代人想当然的认为自己是赵家人。</p>
-<p>殆知阁：你听那军号声嘀嘀哒哒哒童男童女排成队迎着你走来……</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%97%A5%E8%AE%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A9%E5%91%BD%E4%BA%8B%E4%B8%9A%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">革命事业接班人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -643,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -653,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

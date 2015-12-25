@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AE%B0%E8%80%85%E7%8E%8B%E5%86%A0%E7%9A%84%E5%8D%97%E6%B5%B7%E8%BE%A9%E8%AE%BA%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/" target="cdt-mirror">黎蜗藤：记者王冠的南海辩论错在哪里？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" rel="attachment wp-att-422784"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225"></a><br><em>（图文无关）</em></p>
+<p>中国央视驻北美首席政治记者王冠近来成了红人，早前在今日俄罗斯(RT)中就为中国的南海政策辩护，日前更在RT中与美国的Richard Weitz就南海问题直接交火(节目的名称就叫crosstalk)。说来，这个Weitz的来头不小，在美国智库界也算是有身份之人。王冠和他的对话， 虽说不是针锋相对，但王冠流利的英文也使他不落下风。这里要赞一下。同时也要感叹，中国央视和俄罗斯电视台能在美国宣传，何时根据对等原则也能让CNN和 Foxnews在中国下地呢?</p>
+<p>可惜，王冠华丽的辞藻掩盖不了在本质上的错误。作为一个电视节目，确实可能“忽悠”一般的观众，但若稍作思考，却不免发现漏洞百出。</p>
+<p>首先，在第一段发言里，王冠抨击美国的自由航行计划(FON program)，认为美国是根据一份自己也没有签署的条约(指联合国海洋法公约)推进自己的地缘政治利益。又指责美国行使自由航行权利时不客观公正。他 质问：全世界目前约有100个存在主权争议的岛屿，美国海军为什么不去南太平洋英属福克兰群岛(和阿根廷争议)、地中海上西班牙的岛屿(和摩洛哥争议)?</p>
+<p>这里王冠犯了两个错误。第一，美国尽管没有签订《联合国海洋法公约》，但是签订了联合国的《领海及毗连区公约》、《公海公约》等四大公约(1958 年)。这些公约到目前为止都是有效的。事实上，1982年的《联合国海洋法公约》是对这几个公约的继承，当中有关航海自由的规定，和1982年公约是没有 矛盾的。航海自由，不是1982年公约所赋予的，而是自古以来就有的，并且早就在1958年各公约中已经成文化。而且，美国自由航行计划也是严格遵从 1958年和1982年公约的规定。以美国没有签订1982年公约为由而否定美国拥有自由航行的权利，无疑是站不住脚的。</p>
+<p>此外，王冠可能不知道，美国法律体系是海洋法系。在美国法律传统中，即便美国没有签订的多边条约，如果被认为已经成为国际习惯法，那么可以直接应用到 美国的法律诉讼中。在美国有多个成功地运用这类国际法而赢得对美国政府的官司的案例。因此，即便美国没有签署1982年公约，如果就某个具体的相关案件， 以违反1982年公约为由在美国法院起诉美国政府，也很有可能被法官支持。</p>
+<p>第二，王冠在这里把海洋自由航行偷换成领土争端。自由航行计划从来不针对领土主权，而是针对“过分的海洋主张”(excessive maritime claims)。它不是美国支持某个国家对某个领土主权主张的工具，而是表明美国对自由航行的态度和以法律实践造成“不承认”实例的工具。故此，英国和阿根廷、西班牙和摩洛哥之间的领土争议和自由航行计划一点关系也没有，美军自然不会专门到“有领土争议”的地方。</p>
+<p>王冠或是出于知识的贫乏，或是出于诡辩的技巧，生搬硬套，可谓指鹿为马也。</p>
+<p>其次，王冠在第二段发言里，反驳美国有关历史性主权的质疑。他说美国经常质疑中国对南海诸岛的历史性主权(historical claim on those islands in the SCS)(注：在视频的中文字幕翻译中误译为对南海的历史性主权，南海与南海诸岛是截然不同的概念)，并提出所有国家的领土主权都根植于历史，又举出美国占领夏威夷、波多黎各、关岛和美属萨摩亚为例，证明历史在主权问题上的重要。</p>
+<p>这里，王冠再一次(故意)混淆了美国的观点。美国的要求是航海自由，而不是南海诸岛的主权。美国政府从来没有对中国是否拥有南海诸岛的“历史性主权” 发表评论(没有肯定过也没有否定过)。这不是美国所关心的东西。美国的立场是清晰的和一贯的：在南海诸岛的主权问题保持中立，但无论何方拥有主权都不能影 响南海的航海自由。美国政府否定的是中国对九段线内海域的“历史性主权”(historic title)。而依照国际法和历史证据的分析，美国的观点是站得住脚的，也得到绝大部分相关国家的赞同。</p>
+<p>最后，在第三段发言中，王冠首先说美国在过去70年一直遏制中国，然后又辩解中国的外交并不富有侵略性，并以没有在海外建立殖民地以及中国参与的最后一场战争是79年的越等来证明这个论点。</p>
+<p>王冠简单化和妖魔化了美国对中国的政策。他举出的麦卡锡主义和多米诺骨牌理论都是冷战高潮时的产物，在战后70年中最多只占20年左右的时间。相反， 从尼克松访华以来，尽管中美关系有时会有起伏，但总体而言越来越密切。中国从一个贫穷的发展中国家，一跃成为世界第二大国，美国对中国的直接投资、对中国 开放市场、以及把中国纳入美国主导打造的世界经济体系功不可没。这怎么可能用“遏制”来形容呢?</p>
+<p>至于中国的战略意图方面，到底中国的“野心”有多大，各种分析众说纷纭，并没有一个共识。但王冠列举的两个例子都显得很简单幼稚。</p>
+<p>中国确实没有在海外建立殖民地。这是因为中国自古以来都不是海洋国家，没有到海外建立殖民地的愿望，但不等于中国就是一个爱好和平、没有扩张欲望、从不侵略的国家。相反，中国作为陆权国家，目光放在陆地。如果说世界面积第三大国的领土都是“和平” 得来的，恐怕连小学生都笑了。东南亚国家中越南大概首先表示不同意。</p>
+<p>至于现代外交方面，东南亚对中国有戒心更是值得理解的。先纠正一点，中越之间的战争直到1989年之后才结束，比王冠所言整整多了10年。除了对越南 直接开战之外，在90年代之前，中国还一直通过输出革命扶植东南亚共产主义势力，干涉东南亚诸国内政：支持过马共和印共的反政府叛乱;支持制造惨无人道大 屠杀的红色高棉政权;长期为祸缅甸边境的“果敢”军队中，很多就是直接跑到缅甸当兵的中国人，他们有人甚至成为果敢军队的领导层(连王小波的小说中都记载 了这段历史);即便受影响最轻的菲律宾也遭受中国长期对在菲中国人的煽动反政府广播之困扰(菲律宾当时有很多华侨，70年代被归化之前，他们理论上是应该 服从中国政府的中国人)。</p>
+<p>中国的政策直到90年代才因为总所周知的原因而转变为“韬光养晦”和“睦邻”政策，这才开始改变中国在东南亚的形象。从1990年到2008年，中国 和东盟进入了总体上缓和与迅速发展的年代。但即便如此，以万安滩事件、美济礁事件和黄岩岛事件为代表的中国和东盟国家的冲突仍然令东盟国家对中国的战略抱 以怀疑的态度，更不说2009年之后的日益加深的南海冲突了。中国能否与如何能令东南亚各国真正感受到和平崛起，还是一个未知之数。</p>
+<p>Weitz并没有和王冠针锋相对地辩论，但所说的都很有说服力。美国作为从19世纪末一直在南海扮演重要角色的大国，是在东南亚赶走日本侵略者的最大 功臣，也是战后支持去殖民地化与民族解放的最重要的外部力量。在冷战结束后，美国仍然在东南亚扮演着首屈一指的维护安全的角色(包括传统和非传统的安全问 题)。这就是Weitz所说的有益的主导者(benign hegemon)。用中国的话来说，美国在东南亚的地位是历史形成的，是东南亚人民的选择。</p>
+<p>(注：中国一些无知的网友嘲笑翻译中的“善意霸权”。殊不知，中国现在的理论家也把中国以前的朝贡体系向善意霸权的概念解释。这些网友可不要误中副车了。)</p>
+<p>多年以来，东南亚诸国已经习惯了“现状”。在她们的眼中，中国作为一个崛起中的大国，却似乎要强行改变现状，把自己打造成一个历史上从来没有存在过的 “海洋大国”，也将要在史上第一次把军事力量插入东南亚的心脏——南海深处，还试图用“亚洲门罗主义”“瓜分太平洋”等策略把东南亚传统的安全提供者美国 排挤出去。这才是南海危机的核心矛盾。对此，包括越南、菲律宾、新加坡、印度尼西亚、马来西亚、文莱、美国、日本、印度、澳洲、英国、法国和欧盟国家在内 的国际社会，心存忧虑是可以理解的。国际社会希望中国和平崛起，而不能成为地区不稳定的因素。中国是否能实践和平崛起的承诺，是否能顺应国际社会对中国的 期望，才是中国在国际上所需要坦诚回答的。</p>
+<p>王冠在节目中没有直面国际社会的忧虑，反而用指鹿为马的诡辩术混淆视听。这种宣传肯定无法令善于思考的观众所信服。实在令人遗憾。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AE%B0%E8%80%85%E7%8E%8B%E5%86%A0%E7%9A%84%E5%8D%97%E6%B5%B7%E8%BE%A9%E8%AE%BA%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%B2%A1%E6%9C%89%E7%99%BD%E6%AD%A6%E5%A3%AB%EF%BC%8C%E5%8F%AA%E6%9C%89%E8%B5%B5%E5%AE%B6%E4%BA%BA-%E6%8B%86%E5%93%AA%E5%84%BF/" target="cdt-mirror">拆哪儿｜没有白武士，只有赵家人</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/640-5.jpg" rel="attachment wp-att-422770"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/640-5.jpg" alt="640" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/640-5-300x197.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/640-5.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
@@ -57,7 +87,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3/?category=18271" rel="tag">王石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91/?category=18271" rel="tag">万科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91%E5%AE%9D%E8%83%BD%E4%B9%8B%E4%BA%89/?category=18271" rel="tag">万科宝能之争</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">东网｜乔木：赵家人的中国</a>
 </h2>
@@ -617,29 +647,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-3/" target="cdt-mirror">【真理部】浦志强案宣判后启动网评工作的部署</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0KKI8U8AUMO2f.jpg" alt="CW0KKI8U8AUMO2f" width="375" height="602" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0KKI8U8AUMO2f-187x300.jpg 187w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0KKI8U8AUMO2f.jpg 375w" sizes="(max-width: 375px) 100vw, 375px"></p>
-<p>XXX重要通知：</p>
-<p>今天上午，北京有关法院对浦志强案件进行了宣判，新华社等已经发布相关消息。根据最新工作部署，需要<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" target="_blank">启动网评工作</a>，现提出有关指令如下：</p>
-<p>一，请各位网评员联络员协调本市XXXX网评员进行跟帖评论。</p>
-<p>主要阵地在腾讯网，今日头条网站以及客户端所看法的新华网新闻报道后进行跟帖评论。</p>
-<p>跟帖阵地：http://top.todayonhistory.com/a/201512/27283.html</p>
-<p>二，此次跟帖没有<a href="http://chinadigitaltimes.net/space/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E8%AF%84%E8%AE%BA%E5%BA%93%E5%88%97%E8%A1%A8">统一模版</a>。要求每个网评员在每条报道后至少跟帖评论3条以上，其中要有1-2条有质量的内容。请大家根据新闻报道内容及下列主题灵活组织网评跟帖内容；把住浦认罪悔罪、向社会及受害人真诚道歉、认可公诉机关对其罪名的指控等。</p>
-<p>三，此次网评时间从现在开始持续到12月23日上午8:30.</p>
-<p>四，要保守关注纪律和<a href="http://chinadigitaltimes.net/space/%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E7%BD%91%E8%AF%84%E5%91%98" target="_blank">网评秘密</a>，不得<a href="http://chinadigitaltimes.net/space/%E7%AB%A0%E8%B4%A1%E5%8C%BA%E7%BD%91%E5%AE%A3%E9%83%A8%E4%BF%A1%E7%AE%B1%E6%B3%84%E5%AF%86" target="_blank">外泄相关网评工作信息</a>。</p>
-<p>五，要汇总统计。请于12月23日8:30时前，将大家将各地组织跟帖评论条数汇总发我微信（包括参展人员书、跟帖地、给帖数量等）。</p>
-<p>图片发给大家。可以适当选取直接贴在腾讯网、今日头条网站或客户端后面的报道中。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +658,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +668,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

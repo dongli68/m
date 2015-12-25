@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%89%B9%E8%AF%84%E5%8C%97%E4%BA%AC%E7%9A%84%E6%B3%95%E5%9B%BD%E8%AE%B0%E8%80%85%E7%AD%BE%E8%AF%81%E4%BB%8D%E6%9C%AA%E5%BB%B6-%E6%88%96%E8%A2%AB%E8%BF%AB%E7%A6%BB%E4%BA%AC/" target="cdt-mirror">美国之音｜批评北京的法国记者签证仍未延 或被迫离京</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s.png" rel="attachment wp-att-422809"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s.png" alt="保护记者委员会2015年12月24日发布的新闻稿说，法国驻中国记者高洁记者签证迟迟未获延续，可能被迫离境。" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s.png 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>保护记者委员会2015年12月24日发布的新闻稿说，法国驻中国记者高洁记者签证迟迟未获延续，可能被迫离境。</p></div>
+<p>总部在纽约的非营利记者维权组织保护记者委员会(CPJ)星期四说，驻北京的法国记者高洁(Ursula Gauthier)说，她因为记者签证仍未延长，可能被迫要在1月1日前离开中国。</p>
+<p>法国《新观察家报》记者高洁在写给保护记者委员会的电邮中说，她还没有从中国外交部收到有关她签证的信息。驻中国的外国记者证一般在11月底或12月初延长。</p>
+<p>高洁记者证出问题之前,曾在今年11月写报道批评中国政府试图把巴黎恐袭事件与新疆动荡联系在一起。</p>
+<p>保护记者委员会亚洲项目协调人鲍勃•迪茨(Bob Dietz)说：“过去几年来驻中国的国际记者的工作条件一直在稳步恶化……我们呼吁北京延长高洁的签证，并允许所有记者在中国安全与自由地工作。“</p>
+<p>高洁的报道发表后，中国党报《人民日报》旗下的《环球时报》曾刊登评论文章，称西方在反恐问题上有双重标准，并斥责这篇报道“放肆地攻击中国新疆民族政策，为新疆恐怖分子辩护招魂唱颂歌”。《环时》的这篇文章还说，她的报道“构成对中国的诬陷，有损中法两国关系，为新疆恐怖主义分子撑腰打气，给建立全球反恐统一战线设置了障碍。”</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%89%B9%E8%AF%84%E5%8C%97%E4%BA%AC%E7%9A%84%E6%B3%95%E5%9B%BD%E8%AE%B0%E8%80%85%E7%AD%BE%E8%AF%81%E4%BB%8D%E6%9C%AA%E5%BB%B6-%E6%88%96%E8%A2%AB%E8%BF%AB%E7%A6%BB%E4%BA%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%B1%E4%BA%86%E6%B2%A1%E4%BA%8B%E5%B9%B2%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">吃饱了没事干的外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8D%E6%9D%82%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">复杂中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85/?category=18271" rel="tag">外国记者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E8%91%97%E5%90%8D%E5%A1%AB%E8%AF%8D%E4%BA%BA%E6%9E%97%E5%A4%95%E8%A2%AB%E4%B8%BE%E6%8A%A5-%E5%86%85%E5%9C%B0%E6%B4%BB%E5%8A%A8%E5%8F%96%E6%B6%88/" target="cdt-mirror">BBC｜香港著名填词人林夕“被举报” 内地活动取消</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night.jpg" rel="attachment wp-att-422800"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night.jpg" alt="撑起雨伞" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night-300x297.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night-768x761.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night-1024x1015.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night.jpg 1224w" sizes="(max-width: 1224px) 100vw, 1224px"></a><br><em>网络图片（<a href="http://www.umbrellaterms.hk/main/blog/keyword-umbrella-in-the-night">来源</a>）</em></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/vista-%E7%9C%8B%E5%A4%A9%E4%B8%8B%EF%BD%9C%E9%99%88%E5%8A%B2%E6%9D%BE%EF%BC%9A%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97%E9%BB%84%E5%AE%89/">Vista 看天下｜陈劲松：“朝阳群众”黄安</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%BE%E6%8A%A5%E8%89%BA%E4%BA%BA%EF%BC%9A%E6%81%B6%E6%94%BF%E4%B9%8B%E4%B8%8B%E6%97%A0%E5%AE%8C%E5%8D%B5/">端传媒 | 举报艺人：恶政之下无完卵</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%88%B1%E6%B8%AF%E7%88%B1%E5%9B%BD%E7%9A%84%E8%93%9D%E4%B8%9D%E5%B8%A6%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%96%B0%E6%B0%91%E4%B8%BB/">爱港爱国的“蓝丝带”为什么会分不清“新民主同盟”和“新民党”？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB%E3%80%91%E6%92%91%E8%B5%B7%E9%9B%A8%E4%BC%9E/">【歌曲分享】撑起雨伞</a></li>
+</ul></blockquote>
+<p><strong>香港著名填词人林夕在微博上“被举报”不爱国，原本于广西大学的活动被逼取消。</strong></p>
+<p>香港亲北京团体“爱港行动”召集人陈净心周二于微博上说：“林夕先生，听说你12月27日会在广西大学大礼堂与内地学生交流写歌心得。你说过《北京欢迎你》是你‘人生污点 ’，我恳请你不要把这种扭曲思维灌输给内地学生，我相信我们祖国会越来越好的！”</p>
+<p>陈净心的帖子得到三千多次转发、一千五百多则评论，大部份评论批评林夕，但也有一些留言者指陈净心故意挑动矛盾。</p>
+<p>林夕原本在27日前往广西大学，参与“阅读会大家”的活动。其中一个主办单位共青团广西大学委员会在微博上证实，该项活动已被取消。</p>
+<p>林夕暂时未有回应事件。</p>
+<p>林夕于去年四月出席香港大学现代语言及文化学院香港研究主办的讲座曾说，为《北京欢迎你》填词作了一趟官方喉舌，是其人生污点。</p>
+<p>林夕曾多次参与社会运动。去年九月香港爆发“占中”运动，一众艺人创作支持示威者的歌曲《撑起雨伞》，由林夕填词。</p>
+<p>今年香港大学前法律学院院长陈文敏疑因政治立场，经过物色委员会推荐后，亦未能获得副校长一职，引来极大争议。林夕亦曾出席集会，抗议学术自由被侵蚀。</p>
+<p>另外，林夕亦曾出席2012年的反国民教育的集会。</p>
+<p><strong>其他“被举报”的港台艺人</strong></p>
+<p>陈净心并非首次在微博上举报演艺界人士。上月，她在微博上举报香港歌手卢凯彤支持“占中”，最后她在“南方草莓音乐节”的演出被取消。此后，她亦接连举报香港歌手谢安琪、来自广州的歌手张敬轩、香港演员王宗尧等。</p>
+<p>其中张敬轩有传将会参与《我是歌手４》，因被陈净心举报而“被退出”，但张敬轩所属的英皇唱片指从未落实参与节目，否认该事。</p>
+<p>除了陈净心外，来自台湾、“反台独”的歌手黄安亦曾在微博“举报”台湾歌手卢广仲，指他支持反服贸行动。卢广仲其后亦未能出席“南方草莓音乐节”，其后在北京及西安的演唱会也被取消。</p>
+<p>陈净心与黄安在微博上也有互动。黄安在微博上称赞陈净心打港独“越来越顺手”，并指她“很不了起”。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E8%91%97%E5%90%8D%E5%A1%AB%E8%AF%8D%E4%BA%BA%E6%9E%97%E5%A4%95%E8%A2%AB%E4%B8%BE%E6%8A%A5-%E5%86%85%E5%9C%B0%E6%B4%BB%E5%8A%A8%E5%8F%96%E6%B6%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%87%80%E5%BF%83/?category=18271" rel="tag">陈净心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%A4%95/?category=18271" rel="tag">林夕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%85%B3%E4%BA%8E%E5%AF%B9%E7%BD%91%E6%B0%91%E5%BC%80%E5%B1%95%E8%90%BD%E5%9C%B0%E7%A8%B3%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%8C%87%E4%BB%A4/" target="cdt-mirror">【立存此照】关于对网民开展落地稳控工作的指令</a>
 </h2>
 <p><p>重要事项交办通知单 第23号（指令性）</p>
@@ -579,65 +626,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/422587/" target="cdt-mirror">【网络民议】这是法律的胜利还是党的胜利？</a>
-</h2>
-<p><p>12月22日，北京市第二中级法院就中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”一案裁定浦志强有罪，两罪并罚，判处三年有期徒刑，缓刑三年。浦志强2014年5月初被警方抓捕，至今年12月14日首次接受审判，22日作出一审宣判。官方新华社称浦志强服从判决不上诉。（BBC）</p>
-<p>浦志强一案做出宣判后，微博、国内新闻网站等诸多评论渠道都进行了严厉的限制，与此同时大量的“五毛”账号活跃，不过，仍然有不少网友积极评论。23日环球时报对此官方定调称这是“<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%88%A4%E4%B8%89%E7%BC%93%E4%B8%89%E4%BD%93%E7%8E%B0%E4%B8%AD%E5%9B%BD/" target="_blank">法律的胜利</a>”，但是一些网友则认为这只是“党的胜利”。</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>letscorp：环球时报：浦志强被关押一年多，经过反复调查取证，其涉嫌触犯法律的证据最终缩小到他通过多个账号发布的一些微博，最终判三缓三体现中国法律尊严。 #装忠反 #黑得漂亮</p>
-<p>燕文薪：重判或者轻放，党国都在那里，不增一分仁慈，不减一分专制，政权的性质从未改变。26年前的坦克，26年来无数的义人入狱，以及空椅子主人的11年，难道还不足以让世人清醒吗？</p>
-<p>freedomandlaw：我知道浦志强不上诉，有些人会失望，他们期待一个不认罪的浦志强，依你们的对天朝制度的了解，上诉意味着能够获得公正的机会吗？浦志强无罪还需要通过上诉来证明吗？上诉意味着更长时间的羁押，对于一个身体不好的人，已经被监禁了那么长时间，你能体会那是什么滋味吗？你能体会他家人的滋味吗？</p>
-<p>freedomandlaw：判三缓三，浦志强终于可以回家了。但是呢，首先律师没得做了，其次已经关了近20个月，再次，缓刑还要三年，之前被羁押不会被折抵刑期，最后，他无罪，法官判他有罪。</p>
-<p>mozhixu：政治案件，仅从政治博弈计，缓刑是党国的最爱，即能清除直接目标，又不用付出太多负面代价，反过来，被缓刑是受害者最差结果，既实际付出完全自由（拘押期）和不完全自由（考验期），还要被迫低头，被羞辱，甚至可能失去道义形象。只是人非草木，健康、家庭都不能无所动心，早点出来，也不是什么坏事。</p>
-<p>blogtd：在中国一个人认罪与否，不是看他有没有上诉，而是看他有没有上央视。</p>
-<p>mynamexu：官方公布的浦志强“认罪书”，其实压根儿就不能收到抹黑并矮化老浦的功效！在这个不到三条推文长度的“认罪书”中，老浦很巧妙地释放出来了并非真心认罪，而仅仅只不过是为了早点回家之目的非常违心的敷衍当局的话语，明白人一眼就能看出来。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0Zhk5WoAAN_-3.jpg" alt="CW0Zhk5WoAAN_-3" width="599" height="791" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0Zhk5WoAAN_-3-227x300.jpg 227w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0Zhk5WoAAN_-3.jpg 599w" sizes="(max-width: 599px) 100vw, 599px"></p>
-<p>尚宝军律师：刚刚接到老浦的电话，表达：1、被指定监视居住，夫人陪同，环境、照顾尚好；2、感谢大家的关注、支持，特别感谢江老、张老、老贺、展江、宝成等朋友们；3、目前需要休息、调整，其他十天上诉期满再说了。</p>
-<p>letscorp：不管怎么说，能经受住土共掘地三尺的调查，既没有接受国外资助的证据，又没有被吸毒、嫖娼、偷税漏税等等，说明浦律真的是当代大圣人。全国九千万党员里能不能找出一个这样的我都很怀疑。</p>
-<p>duyanpili：为不让浦志强律师上诉，今天被判缓刑后浦还不能回家，被指定地点监视居住10天。10天上诉期过了，才能回家。——我当时就震惊了，党国的任性和创造力真是无穷啊。</p>
-<p>Mickle_Shen：网易新闻后面的评论好可怕！</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0EU2QUwAAeew2.jpg" alt="CW0EU2QUwAAeew2" width="600" height="687" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0EU2QUwAAeew2-262x300.jpg 262w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0EU2QUwAAeew2.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>sq_tai：我只想知道为什么百度搜索“浦志强”，很多网页都是404？</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA.png" alt="微博评论" width="600" height="759" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/微博评论-237x300.png 237w, http://chinadigitaltimes.net/chinese/files/2015/12/微博评论.png 626w" sizes="(max-width: 600px) 100vw, 600px"><p>微博上央视新闻账号下仅有几条评论显示</p></div>
-<p>老聊V：今天，一个大个子律师因为七条微博被判有罪。特转录当年微博漫画大V“变态辣椒”的预言性画作，记之。</p>
-<p>赵震JAMES：判三缓三，这是一个典型的中国式判决啊！</p>
-<p>csxq：对于眼下的天朝来说，人权与法治进步的唯一标志是“无条件释放所有政治犯”。而高瑜和浦志强的缓刑，是有条件的，因此根本不能与之相提并论。我们可以看见的只是当局对个人尊严和权利的侮辱与践踏。基本上连“惨胜”都说不上，只是说比“惨败”大概好那么一点点。</p>
-<p>追風000004：好一个“依法治国”！威风凛凛地悬在全体国民头上数十年？那一个屁民敢不服？全球注目下的“判三缓三”，真是皇恩浩荡呀，谢主隆恩！用七条微博给人定罪，到底丢谁的人，谁？审的是别人，判的是自己的灵魂。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/006k28esgw1ez8ek2ohprj30hm09xwff.jpg" alt="006k28esgw1ez8ek2ohprj30hm09xwff" width="440" height="248" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/006k28esgw1ez8ek2ohprj30hm09xwff-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/006k28esgw1ez8ek2ohprj30hm09xwff.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
-<p>趙恢鵬：今天是很特别的一天，注定载入中国法制史。一个多年为了这个国度进步不断努力的律师，在自己家中聚会被抓，被关押一年多，然后仅仅因为七条微博被判有罪，这一切，他们说是依法逮捕依法审判，这就是他们的全面依法治国。下午无意看到有关林昭的纪录片，相比之下，当年多少知识分子不感到汗颜至死吗？！</p>
-<p>胡一枪：经一年多调查，浦律没有嫖娼，他夫人放心了。律所账本很干净，合伙人放心了。罪证只有七条微博，公众放心了。接下来，爱怎么判就怎么判，哪怕法官当庭追加一条强奸母牛罪，也没人敢说啥。浦律多坐一天牢，就多一些人绝望。绝望的人多了，希望就有了。</p>
-<p>章诒和：从来没觉得这里有“法”，想批你，批你；想管（制）你，管你；想关你，关你，想判你，判你。想禁言，禁言；想禁书，禁书。我这辈子就是这样。至于有罪无罪之类，我根本不信。</p>
-<p>张雪忠：遭受政治迫害的人，若想降低判刑机率，应牢记伍雷强调过的原则：零口供。有的人认为自己行为根本不违法，可以坦坦荡荡如实陈述。但政治案根本不讲法律，你一提供事实陈述，法院就敢判你有罪；若连基本事实都欠缺，起诉和判刑就较困难。另外，不管你自己怎么想，千万不要告诉警方别人做过什么！</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%8E%A8%E7%89%B9%E4%BA%94%E6%AF%9B.png" alt="推特五毛" width="609" height="744"><p>推特上清一色的五毛评论</p></div>
-<p>tieyan：我为有浦志强这样的校友感到骄傲。南开大学也应该为他骄傲，他是践行“允公允能”校训的典范。另外，自由就好！</p>
-<p>ChinaReporters：中国作家慕容雪村在推特上写道：“浦志强只应该被法庭宣布为无罪，当庭释放，然后他再为自己无辜系狱的600天寻求公正。除此之外，任何判决都是政治迫害，任何处罚都是对法律的玷污。缓刑一是宣判他有罪，二是污蔑他承认了自己的罪，这种双重的污辱尤其不可容忍。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/422587/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%88%A4%E4%B8%89%E7%BC%93%E4%B8%89%E4%BD%93%E7%8E%B0%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">【异闻观止】环球时报 | 浦志强判三缓三体现中国法律尊严</a>
-</h2>
-<p><p>北京市第二中级人民法院22日上午对浦志强案做出一审判决，法庭以煽动民族仇恨罪、寻衅滋事罪两罪并罚判处浦有期徒刑3年，缓刑3年。据新华社报道，浦志强认罪悔罪，表示服从判决不上诉。</p>
-<p>这一判决与很多法律人士之前的预测大致吻合。一方面浦在互联网上的表现对法律秩序造成了损害，打击此类行为是中国法律必须尽的职责。另一方面经过反复调查取证，浦志强涉嫌触犯法律的证据最终缩小到他通过多个账号发布的一些微博，因而对他的判决不会很重。判三缓三可以看成权衡各种法律因素的结果。</p>
-<p>西方舆论高度关注浦志强案，包括国内浦的一些支持者，一直宣称浦“无罪”。法院的判决坚持了司法原则，这在西方热衷干预中国国内事务的时代很重要。与此同时，国内有一些人从价值观出发，主张“重判”浦志强，认为判他越重，“政治越正确”，这也千万要不得。司法应独立于各种意识形态的考虑和影响，坚守它自身的公正。</p>
-<p>浦志强被关押已经一年多，现在判三缓三，他有可能从此失去律师从业资格，他总体上为自己的违法表现付出了相应代价。这个案件将产生多方面的长远影响，为进一步的法治建设提供标志性案例。</p>
-<p>言论自由是有边界的，互联网上的言论自由同样如此，浦案为此设立了最新的界桩。我们希望，言论自由的边界能够通过近年的著名案例变得愈发清晰，这当中有个要素不可缺少，那就是舆论活跃人士、尤其是异见人士们同意存在这样的边界，并且有认真总结这条边界究竟在哪的集体意愿。</p>
-<p>浦案也告诉官方，给用违法言论破坏社会秩序者定罪，在当前的现实环境下面临什么样的舆论不确定性。西方把反对中国此类司法行动作为对华政治及舆论斗争的关键战场之一，它们在这个领域调集资源的能力很强，也最容易在中国聚集起西方价值观的“粉丝”，形成有一定声势的压力。这要求中国司法机关审理此类案件必须有高度的准确性。</p>
-<p>法律的力量很强大，对于厘清言论自由边界发挥着决定性作用。来自外部和舆论场的压力从大环境和长效看，也客观上起到监督、限制公权力的作用。我们希望在历史的长河中，所有这些因素会形成正面的合力效果，让中国的言论自由受到法律的真正规制及保护。</p>
-<p>浦案大概会受到境内外各种力量的不同解读，但我们认为最重要的是，它是法律的胜利。很多因素都试图影响此案判决，它们反而进一步促成了坚守法律原则的绝对必要性。只有依法办案才能最有效地回应争议，才能让判决经得起各种检验和挑战。</p>
-<p>支持中国的法治建设，这至少应是国内所有人关心浦案的出发点和回归处。这是中国社会的共同利益所在，我们决不可因为局部和临时性因素的干扰，忘了自己利益的根。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%88%A4%E4%B8%89%E7%BC%93%E4%B8%89%E4%BD%93%E7%8E%B0%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -649,7 +637,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -659,5 +647,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

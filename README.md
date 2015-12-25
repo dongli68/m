@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%88%98%E6%BA%90%E8%A3%B8%E9%80%80-%E6%9B%9D%E4%B8%8D%E8%83%BD%E9%87%8D%E7%94%A82%E5%A4%A7%E5%86%85%E6%83%85/" target="cdt-mirror">世界日报｜刘源裸退 曝“不能重用”2大内情</a>
+</h2>
+<p><p>近日，网络热传中共军中“红人”刘源上将，已正式辞任总后勤部政委职务，无缘在新成立的军纪委中出任要职，更不可能进入中央军委任职。刘源在网络上流传的“临别稿”中说，“我坚决拥护中央军委的决定，坚决服从习主席的安排，并预祝即将成立的军委后勤保障部开局顺利，改革成功”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/liuyuan.jpg" alt="liuyuan" width="551" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/liuyuan-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/liuyuan.jpg 640w" sizes="(max-width: 551px) 100vw, 551px"></p>
+<p>前中共中央调查部部长罗青长之子<a href="http://chinadigitaltimes.net/space/%E7%BD%97%E6%8F%B4" target="_blank">罗援少将</a>，也在个人微博中公布署名刘源的《心中永存——向总后勤部告别》文字，并发表了题为《赞！一位共产党员的忠诚告白——读刘源政委“离职告别词”有感》的文章，称刘源是“春蚕到死丝方尽”，“在即将离开总后领导岗位时，仍然站好最后一班岗，以自己的言行给那些即将转型的军人们带了一个好头”。消息人士称，尽管中共官方针对这份告别书还没有正式回应，但刘源辞职消息可信。</p>
+<p><a href="http://chinadigitaltimes.net/space/%E5%88%98%E6%BA%90" target="_blank">刘源</a>是<a href="http://chinadigitaltimes.net/space/%E5%88%98%E5%B0%91%E5%A5%87" target="_blank">刘少奇</a>之子，据传是揭发谷俊山等贪腐，催化扫除“军中大老虎”的关键人物。他主动辞职，并高调宣示“当兵的来自百姓回归百姓，天经地义。如今，我如释重负、心情真是轻松愉快！”给人“无私无畏、无怨无悔”的大义懔然印象。但消息人士称，刘源几近“裸退”，并非像他所高唱的那样“高风亮节、视死如归”，和出自他本人真心实意，而是形势所迫，不得已而为之。理由有二：</p>
+<p>第一，刘源的仕途，与刘家的遭遇与声誉、刘源的政治人格与资历，和刘家与习家的关系有很大关联。消息人士说，上世纪80年代末，当新兴政治明星刘源晋升为河南省副省长，成为中管干部时，不少中共大老担心，刘少奇在文革中被迫害致死，给刘源留下惨痛记忆，有这种经历的人很难说没有报复心理。为此，中共内部形成不成文共识，凡父亲在文革期间被迫害致死的干部，原则上不能重用。于是，1992年风头正健的刘源被从政界转入军界“冷藏”。<br>
+刘源被冷藏后，其母王光美为了儿子前途，打消党内各大老顾虑，昧心地上演一出“相逢一笑泯恩仇”闹剧，出卖自己良心与死去的刘少奇。但刘家这套“口是心非”的表演，骗不了党内大老的“火眼金睛”，仍一直把刘源排斥在中共权力核心之外。</p>
+<p>2007年的中共17大上，同属“共和国太子”的习近平入选政治局常委，成为“皇储”，薄熙来也当选政治局委员，而刘源却连个中央委员都没混上。由于刘源在高干子弟中声望低，圈内普遍认为，用他执掌军委或军纪委大权，无异于中共自毁长城。所以，刘源出任军纪委书记的方案，在中共四中全会上被“淹没”。</p>
+<p>与同是“<a href="http://chinadigitaltimes.net/space/%E7%BA%A2%E4%BA%8C%E4%BB%A3" target="_blank">红二代</a>”的<a href="http://chinadigitaltimes.net/space/%E5%BC%A0%E5%8F%88%E4%BE%A0" target="_blank">张又侠</a>相比，刘源不是在军内一步步升上来的高级将领，没有自己的嫡系势力，也缺乏作战经验。被视为习近平“心腹大将”的张又侠，除了出身军旅世家，有40多年军队阅历，在成都军区、北京军区、沈阳军区和总后勤部、总装备部任一把手，和曾在上世纪70、80年代参与中越边境战争等资历，与习近平关系交好，习家和张家友好还有一段历史渊源。</p>
+<p>国共内战时期，张又侠的父亲张宗逊，和习近平的父亲习仲勋，曾在新建的陕甘宁野战集团军是搭档，张为集团军司令员，习任政委，两家私下感情颇深。而刘源的父亲刘少奇，曾参与整垮“西北帮”高岗，在习仲勋被陷害时也推波助澜，或许给习近平心中留下阴影。因此，传张又侠有望代替刘源，出任军委副主席等要职。</p>
+<p>第二，一山不容二虎，习近平不能让“共和国第一太子”刘源与其争辉。中共讲究资历辈份，刘源的父亲刘少奇比习近平的父亲习仲勋要高得多，如果重用刘源，习刘二人心理都会很别扭，对习近平的权威有威胁。尽管刘源在军内反腐起到“旗手”作用，如今军中大鳄已除，刘的使命和功能也告完结，该是解甲归田的时候了。</p>
+<p>当然，<a href="http://chinadigitaltimes.net/space/%E4%B9%A0%E8%BF%91%E5%B9%B3" target="_blank">习近平</a>也可能给刘源一个“军转民”的好结尾，譬如安排他出任下届全国政协副主席，或在全国人大担任要职等，都待下回分解。毕竟，刘源在薄熙来出事时曾反戈一击，毅然站到习近平一边。尽管刘源与薄关系匪浅，多次为薄的“重庆模式”出谋划策，打气造势。就像对待陈元、张海阳等太子党同辈一样，习对刘源也可能搞“杯酒释兵权”。</p>
+<p>刘源退役说明中共军改仍有巨大阻力。刘主动请辞，无疑会对军改不满的将领产生压制和示范效应。同时也表明，习近平推动的军改即将进入实施阶段，他对军队的控制也将更上层楼。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%88%98%E6%BA%90%E8%A3%B8%E9%80%80-%E6%9B%9D%E4%B8%8D%E8%83%BD%E9%87%8D%E7%94%A82%E5%A4%A7%E5%86%85%E6%83%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90/?category=18271" rel="tag">刘源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8F%88%E4%BE%A0/?category=18271" rel="tag">张又侠</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/422839/" target="cdt-mirror">【对比新闻】北京大气污染治理“取得阶段性成效”</a>
 </h2>
 <p><p><strong>不止是北京，河北的大气污染治理也“取得阶段性成效”了：</strong></p>
@@ -60,6 +82,29 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9
 <p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
 <hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
 <a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC/?category=18271" rel="tag">失独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E5%AE%B6%E5%BA%AD/?category=18271" rel="tag">失独家庭</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E8%AE%A1%E7%94%9F%E6%B3%95%E8%8D%89%E6%A1%88%E5%88%A0%E9%99%A4%E5%A4%B1%E7%8B%AC%E8%A1%A5%E5%8A%A9/" target="cdt-mirror">【真理部】关于计生法草案删除失独补助</a>
+</h2>
+<p><p>全国人大常委会：请注意，网上关于计生法草案删除失独补助系误读，请通知本媒体网站、微信、微博等各平台不要转载，已经发报道的请删除。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<p>法制晚报：《全国人大常委会：计生法草案删除失独补助系误读》</p>
+<p>法制晚报讯(记者 温如军)12月21日，十二届全国人大常委会第十八次会议初次审议了人口与计划生育法修正案草案。这是本年度最后一次常委会，会议的一个主要议程就是审议人口与计划生育法修正案草案。</p>
+<p>除了“全面两孩”这一核心主旨外，草案所涉及的晚婚晚育假的取消，失独家庭的社会保障，以及在一定程度上合理却并不合法的代孕等内容，因为关切到每个人和每个家庭的切身利益，从而引发社会各界普遍关注。</p>
+<p>23日，全国人大常委会对草案进行了分组审议。</p>
+<p>有媒体报道称，草案删除了跟独生子女奖励有关的规定，其中包括失独家庭扶助条款。消息引发社会各界热议。</p>
+<p>法晚记者注意到，我国现行《人口与计划生育法》第27条规定：“独生子女发生意外伤残、死亡，其父母不再生育和收养子女的，地方人民政府应当给予必要的帮助。”</p>
+<p>十几年前制定的这部法律，目的是为了实现人口与经济、社会、资源、环境协调发展，维护公民合法权益，促进家庭幸福、民族繁荣与社会进步。当然有利推行计划生育，更是其出台的最为核心的动力。</p>
+<p>据法晚记者了解，修正案草案删除了有关条款，但未取消对失独家庭的扶助。</p>
+<p>修正案(草案)第八条规定，本修正案自2016年1月1日起旅行。本修正案实施前，按照规定应当享受计划生育家庭老年人奖励扶助的，继续享受相关奖励扶助;已经获得《独生子女父母光荣证》的夫妻。按照规定继续享受独生子女父母奖励，独生子女发生意外伤残、死亡的，可以按照规定获得扶助。</p>
+<p>文/记者 温如军</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E8%AE%A1%E7%94%9F%E6%B3%95%E8%8D%89%E6%A1%88%E5%88%A0%E9%99%A4%E5%A4%B1%E7%8B%AC%E8%A1%A5%E5%8A%A9/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC/?category=18271" rel="tag">失独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E5%AE%B6%E5%BA%AD/?category=18271" rel="tag">失独家庭</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
@@ -533,45 +578,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-4/" target="cdt-mirror">【真理部】《21世纪经济报道》系列案件即将一审宣判</a>
-</h2>
-<p><p>各网站：《21世纪经济报道》系列案件即将一审宣判，各网站严格按照新华社通稿和上海高院微博报道，不炒作，不派记者采访。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93/?category=18271" rel="tag">21世纪经济报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E7%81%8F/?category=18271" rel="tag">沈灏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E8%B3%80%E8%A1%9E%E6%96%B9-%E6%B3%95%E5%BE%8B%E7%95%8C%E7%9A%84%E8%89%AF%E7%9F%A5%E5%92%8C%E5%8B%87%E6%B0%A3%E5%9C%A8%E5%93%AA%E8%A3%8F%EF%BC%9F/" target="cdt-mirror">蘋果日報｜賀衞方 – 法律界的良知和勇氣在哪裏？</a>
-</h2>
-<p><p>作為浦志強多年好友，更作為中國司法改革長期的推動者，我覺得有義務對本案提出自己的看法。我也在12月10日就這些看法寫信給北京市第二中級法院合議庭法官。</p>
-<p>我看到用於指控浦志強的所有證據，即他所發表的編號共十二條其實只有七則的微博。我相信，不需要法學專業素養，稍具常識的人都會看出來，假如這也可以成為定罪和判刑的依據，豈不是讓人笑掉大牙？</p>
-<p>涉嫌尋釁滋事的前兩條，完全屬於對公職人員或公眾人物的正常批評範疇。對於某發言人的有些嘲弄的言辭沒有越出批評的範圍。申紀蘭是全國人大代表，毛新宇是全國政協委員，浦志強認為他們缺乏履行職責的能力和表現，提出批評，這也完全是在行使憲法所保障的公民權利，包括言論自由和公民對於公職人員提出批評的權利。當然，浦的微博用語尖刻，也許讓受批評的人感到難受。假如他們認為這種言辭給他們的名譽權造成傷害，完全可以依據民法保障名譽權的條款提起民事訴訟。這跟尋釁滋事扯不上任何關係。</p>
-<p>至於第三條，浦志強的微博針對的是2012年出版的一本書，項平的《中國大邏輯：沒有共產黨，為甚麼不行？》，書名之下還標註「一本中國人應該讀的書」。浦志強言辭激烈地批評了作者，說：「你寫出這種破書，簡直就是無恥之尤！要不是吳虹飛進去了，你的祖宗也會受性侵的！你讓我看着就特噁心！哼！」這裏的確有對執政黨態度上的不恭，但主要指向仍然是書的作者。我們都應該承認，歌頌共產黨的書也很可能是爛書或「破書」，作者也未必不是「無恥之尤」。更重要的是，浦志強激憤的言論也僅僅是對一本書作者的嚴厲批評，哪裏說得上是尋釁滋事？</p>
-<p>至於涉及民族關係與民族政策的微博，浦志強對於地方政府在西藏、新疆的某些做法以及昆明火車站的殺戮事件的評論再清楚不過地表明，他一方面旗幟鮮明地譴責恐怖行為，另一方面，他呼籲檢討我們的民族政策和現實做法，呼籲尊重宗教信仰和習俗，反對以「制人」的方式對待少數民族同胞。凡是讀過這幾條微博的人，都能夠感受到作者對於民族裂痕和民族仇恨的憂心忡忡。</p>
-<p>呼籲民族和解變煽動仇恨</p>
-<p>然而，這樣的微博卻被作為煽動民族仇恨的言論，這真是不折不扣的顛倒黑白。《刑法》第249條規定的是煽動民族仇恨、民族歧視，浦志強的言論指向恰恰相反，是期盼民族政策的改善以及民族之間的尊重與和解。作為一個漢族知名律師，他這樣的呼籲只會讓藏族、維吾爾族同胞感受到來自漢族的濃濃親情與善意理解，怎麼會在控方那裏變成了煽動民族仇恨？這裏還有沒有最起碼的邏輯和理性？</p>
-<p>我與浦志強交往近三十年，一直很關注他所代理的一些案件，還多次共同參加一些學術論壇，屬於那種無話不談的朋友。根據我長期的觀察，浦志強是那種最誠摯的愛國者，因為職業的緣故，他對於國家政治法律制度建設有着最深切的關注，當然對於某些弊端也有着更痛切的感受。正是因為這種熾熱的情感，他的言辭才會如此不假修飾，直來直去。</p>
-<p>在一些人看來，他的這種風格太不世故，會給自己招惹麻煩。但他義無反顧，百折不撓。讓我特別感佩的是，此次蒙難，公安、檢察等機構一年半的時間查下來，居然沒有絲毫經濟問題，也沒有其他任何違反職業規則的行為， 只能拿出這區區七條微博作為指控證據 ，這也反襯出他是我們這個時代多麼優秀的一位法律職業者。</p>
-<p>1978年我考入大學學習法律時，我們曾有一本名為《冤假錯案選編》的教學材料，其中收入了一些發生在文化大革命期間的典型冤案，絕大多數屬於因言獲罪、判決邏輯極度荒唐的案例。我們讀書期間，國家發生的一個重大事件就是鄧小平、胡耀邦等中國共產黨的領導人，以巨大的魄力平反各類冤假錯案，為黨和政府贏得了新的合法性基礎，也成為啟動我國法制建設的「開場鑼鼓」。那時，自己作為一個法律學生，真誠地相信今後我們這個國家不會再發生這類文字獄了。但是，後來的情況表明，這種期許顯然是過於樂觀了。</p>
-<p>我當日在給合議庭法官的信中說，面對浦志強案，我們是否能夠創造一個里程碑，一個證明中國法律職業界仍然具有良知、勇氣和起碼專業水準的里程碑？全世界的目光都在聚焦這宗審判，看你們的了！但是，我現在看到的結果是：「合法行為被判非法，毫無法理可言。」</p>
-<p>賀衞方<br>
-北京大學法學院教授</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/b23616438199-150x150.jpg" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E8%B3%80%E8%A1%9E%E6%96%B9-%E6%B3%95%E5%BE%8B%E7%95%8C%E7%9A%84%E8%89%AF%E7%9F%A5%E5%92%8C%E5%8B%87%E6%B0%A3%E5%9C%A8%E5%93%AA%E8%A3%8F%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -593,5 +599,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

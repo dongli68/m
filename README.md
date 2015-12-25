@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%96%E5%9B%B4%E5%85%B3%E7%B3%BB%E7%BB%B4%E6%8A%A4%E8%B4%B9%E7%94%A8%E6%98%8E%E7%BB%86/" target="cdt-mirror">【图说天朝】外围关系维护费用明细</a>
+</h2>
+<p><p>@INXIAN：“御指天娇”是一个提供“软色情”的地方，俗称“洗浴、按摩、指压”，它的一名前员工爆料：咸阳怡和店靠贿赂打点渭城区的执法部门，每到节庆都有一笔“外围关系维护费”发出……详单见下：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CXCj9S-U0AAIHMm-575x1024.jpg" alt="CXCj9S-U0AAIHMm" width="575" height="1024" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CXCj9S-U0AAIHMm-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2015/12/CXCj9S-U0AAIHMm.jpg 600w" sizes="(max-width: 575px) 100vw, 575px"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%96%E5%9B%B4%E5%85%B3%E7%B3%BB%E7%BB%B4%E6%8A%A4%E8%B4%B9%E7%94%A8%E6%98%8E%E7%BB%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%B2%E6%83%85/?category=18271" rel="tag">色情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E6%B5%B4%E6%8C%89%E6%91%A9/?category=18271" rel="tag">洗浴按摩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%B4%E5%85%B3%E7%B3%BB%E7%BB%B4%E6%8A%A4%E8%B4%B9/?category=18271" rel="tag">外围关系维护费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%B4%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">外围关系</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422817/" target="cdt-mirror">LeMcDull：随手拼个图，让你国中产认清现实</a>
+</h2>
+<p><p>内容来源：新浪微博</p>
+<blockquote><p><a href="http://weibo.com/2535191304/Da1HOngJk">@LeMcDull</a>：隨手拼個圖，讓你國中產認清現實。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/971bf308jw1ezbqlwlm3vj20p218gwo2.jpg" rel="attachment wp-att-422818"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/971bf308jw1ezbqlwlm3vj20p218gwo2.jpg" alt="971bf308jw1ezbqlwlm3vj20p218gwo2" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/971bf308jw1ezbqlwlm3vj20p218gwo2-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/971bf308jw1ezbqlwlm3vj20p218gwo2-768x1362.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/971bf308jw1ezbqlwlm3vj20p218gwo2-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2015/12/971bf308jw1ezbqlwlm3vj20p218gwo2.jpg 902w" sizes="(max-width: 902px) 100vw, 902px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%8F%B2%E5%AE%B6%E5%B0%8F%E5%AD%A6.jpg" rel="attachment wp-att-422820"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%8F%B2%E5%AE%B6%E5%B0%8F%E5%AD%A6.jpg" alt="史家小学" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/史家小学-768x1055.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/史家小学-746x1024.jpg 746w, http://chinadigitaltimes.net/chinese/files/2015/12/史家小学.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>@我是你心中最温暖的那只小狗：本以为穹顶之下，无一幸免，还是大意了。</p>
+<p>@猫妈45：<img title="[衰]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif" alt="[衰]">2005年权贵子孙学校安装净化器，08年国人还叫戴口罩外国运动员道歉，拒不承认空气有毒。骗我们好多年哦</p>
+<p>@xintian01：原以为特权社会总算出了个人人平等的雾霾，谁知还是太幼稚了。</p>
+<p>@居白間：你国人：赵老爷，治理下空气吧，同呼吸共命运，好空气总不可能给你赵家人特供吧？ 赵老爷：能。</p>
+<p>@一个发条橙子：问君能有几多愁，恰似我辈不是赵家人</p>
+<p>@Ryu_dragon：贱民也配跟洋大爷相提并论？</p>
+<p>@慢语鹤：祖国这么流氓你国人就放心了</p>
+<p><strong>附2014年3月新闻一则：</strong></p>
+<blockquote><p><a href="http://edu.sina.com.cn/ischool/2014-03-04/1100411241.shtml">国际学校应对雾霾出奇招 3千万建防霾帐篷</a></p>
+<p>北京哈罗英国学校、北京加拿大国际学校和北京乐成国际学校每天会监测AQI，即空气质量指数(Air Quality Index，简称AQI)。哈罗之前的规定是当AQI超过275时，学生的户外活动被取消响，而随着雾霾现象的严重和持续，哈罗采取新的规定：当AQI达到201时，低年级的(包括学前班)学生被禁止外出；AQI达到251时，高年级学生禁止外出。加拿大国际学校小学校长每天亲自监测AQI，275是户外活动的上限。在每日监测AQI的同时，北京加拿大国际学校为每间教室安装了空气净化器；北京乐成国际学校也已经完成了对空气处理机组净化装置的全面改造，可以有效地解决新风系统带入的可吸入颗粒物污染的困扰。据了解为应对雾霾天气，北京英国学校也在筹建隔离雾霾设施以减少空气污染给学生带来的影响和伤害。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422817/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%B9%E9%A1%B6%E4%B9%8B%E4%B8%8B/?category=18271" rel="tag">穹顶之下</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE/?category=18271" rel="tag">雾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%89%B9%E8%AF%84%E5%8C%97%E4%BA%AC%E7%9A%84%E6%B3%95%E5%9B%BD%E8%AE%B0%E8%80%85%E7%AD%BE%E8%AF%81%E4%BB%8D%E6%9C%AA%E5%BB%B6-%E6%88%96%E8%A2%AB%E8%BF%AB%E7%A6%BB%E4%BA%AC/" target="cdt-mirror">美国之音｜批评北京的法国记者签证仍未延 或被迫离京</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s.png" rel="attachment wp-att-422809"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s.png" alt="保护记者委员会2015年12月24日发布的新闻稿说，法国驻中国记者高洁记者签证迟迟未获延续，可能被迫离境。" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/B86A4C97-92EE-4108-9A87-27BAADC64934_w640_r1_s.png 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>保护记者委员会2015年12月24日发布的新闻稿说，法国驻中国记者高洁记者签证迟迟未获延续，可能被迫离境。</p></div>
@@ -542,90 +578,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B5%B7%E5%BA%95%E8%A2%AB%E6%8D%95%E5%B9%BF%E4%B8%9C%E5%B7%A5%E8%BF%90%E4%BA%BA%E5%A3%AB%E6%9B%BE%E9%A3%9E%E6%B4%8B/" target="cdt-mirror">BBC | 人民日报“起底”被捕广东工运人士曾飞洋</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/150122032146_cn_zeng_feiyang_976x549_reuters.jpg" alt="曾飞洋此前称警察骚扰导致他要多次搬家。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/150122032146_cn_zeng_feiyang_976x549_reuters-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/150122032146_cn_zeng_feiyang_976x549_reuters.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>曾飞洋此前称警察骚扰导致他要多次搬家。</p></div>
-<p>继中国官方新华社发文证实广东七名基层工运活动人士被捕后，中共《人民日报》用一个整版起底其中一个维权机构——“番禺打工族文书处理服务部”——及其负责人曾飞洋。</p>
-<p>《人民日报》周三（12月23日）文章称“服务部”主任曾飞洋身份系“伪造”，其涉嫌“通奸”等犯罪行为，而该组织接受境外资金资助以及“导演”工人罢工等。</p>
-<p>被《人民日报》点名为资助方的香港《中国劳工通讯》（China Labour Bulletin）对BBC中文网称这是中国官媒的“未审先判”，但拒绝证实是否在资金上资助“服务部”。</p>
-<p>《中国劳工通讯》通讯部部长杰里弗（Crothall Jeoffrey）指出，现在被捕的工运活动人士迄今未被允许接触律师。</p>
-<p><strong>“未审先判”</strong></p>
-<p>新华社周二（22日）报道，广东公安是“根据群众举报”，“打掉一个以免费维权为幌子、长期接受境外组织资助、在境内插手劳资纠纷事件、严重扰乱社会秩序、严重践踏工人权益的非法组织，抓获曾飞洋等七名犯罪嫌疑人”。目前已经被警方“依法”采取“刑事强制措施”。</p>
-<p>《人民日报》的文章称，“服务部”每年接受《中国劳工通讯》70万元人民币的“活动经费”。</p>
-<p>BBC中文网记者试图求证此事时，杰里弗以“我们拒绝公开评论此事”为由规避了该问题，但在电话采访中他并没有直接否认或者肯定此事。</p>
-<p>杰里弗介绍说，广东的劳工组织一直都有被中国当局“骚扰”，此次警方的刑事拘留使得情况更糟。</p>
-<p>而《人民日报》文章中，关于服务部曾飞洋身份系“伪造”，还有“通奸”之嫌等描述，杰里弗向BBC中文网回应称：“这是中共当局想‘打压’工运人士或者维权律师时的惯用手法。他们会添加自己的版本，是中国官媒的‘未审先判’，这只是许多例子中的一例。”</p>
-<p>《人民日报》称，目前该案件还在调查中。并未提起诉讼。</p>
-<p><strong>“问题不在NGO”</strong></p>
-<p>杰里弗也反驳《人民日报》的叙述称：“服务部在幕后策划、组织、操纵工人罢工，激化劳资矛盾，严重扰乱社会秩序。”</p>
-<p>他解释称，番禹中心只是帮工人争取合法权益，但当地政府、中华全国总工会和雇主们不作为，无法解决工人诉求。所以工人求助非政府组织（NGO）是“没办法的办法”。</p>
-<p>他说：“七个活动人士遭遇逮捕后，还有罢工发生。所以问题不在NGO身上。”</p>
-<p>独立工运观察人士指出，由于中国政府支持的全国总工会长期被批评根本不代表工人利益，使得中国各地很多劳工自发的基层工运组织在劳动纠纷中日益广受工人欢迎。</p>
-<p>近年来，基层工运活动人士不断参与帮助工人组织基层工会，选举出与资方谈判的代表，并且为组织罢工和抗议提供帮助。</p>
-<p>BBC中文网记者尝试联系中华总工会，但电话一直无法接通。</p>
-<p>中国经济放缓、劳资纠纷增加，从中央到地方的各级政府面临越来越多的民众抗议和维权挑战，继多名维权律师被捕被判刑之后，再次大批逮捕工运人士，这显示当局进一步加强打击压制基层工运活动的力度。</p>
-<p>另据中国劳工通讯的统计显示，2015年中国各地规模不同的劳动纠纷事件多达2606起，比2014年的1379起几乎高出一倍。仅是11月份，就有301起，成为2015全年事件发生数字最高月份。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B5%B7%E5%BA%95%E8%A2%AB%E6%8D%95%E5%B9%BF%E4%B8%9C%E5%B7%A5%E8%BF%90%E4%BA%BA%E5%A3%AB%E6%9B%BE%E9%A3%9E%E6%B4%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BA%BA%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">工人运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">维权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E7%BB%84%E7%BB%87/?category=18271" rel="tag">劳工组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E5%B7%A5%E8%BF%90/?category=18271" rel="tag">基层工运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%8A%A8%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">劳动纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E8%B5%84%E9%87%91/?category=18271" rel="tag">境外资金</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90cdtv%E3%80%91%E5%B4%94%E5%81%A5%EF%BC%9A%E6%AD%BB%E4%B8%8D%E5%9B%9E%E5%A4%B4/" target="cdt-mirror">【CDTV】崔健：死不回头</a>
-</h2>
-<p><p></p>
-<p>词：崔健<br>
-曲：崔健</p>
-<p><a href="http://chinadigitaltimes.net/space/%E6%B5%A6%E5%BF%97%E5%BC%BA" target="_blank">我站在浪尖风口</a><br>
-南墙碰了我的头<br>
-我挺着身体背着手<br>
-风你可以斩我的首</p>
-<p>废话穿透了耳朵<br>
-恐惧压歌喉<br>
-土地松软沉默<br>
-骨头变成了肉</p>
-<p>我站在浪尖风口<br>
-南墙碰了我的头<br>
-我挺着身体背着手<br>
-风你可以斩我的首</p>
-<p>姑娘你跟在我身后<br>
-恐惧变忧愁<br>
-你是否还要跟我走<br>
-如果我死不回头</p>
-<p>南墙突然张开个口<br>
-要吃掉我的头<br>
-它是否已经害怕我<br>
-知道我死不回头</p>
-<p>姑娘你跟在我身后<br>
-恐惧变忧愁<br>
-你是否还要跟我走<br>
-如果我死不回头</p>
-<p>嘟嘟嘟嘟嘟嘟<br>
-如果我死不回头<br>
-嘟嘟嘟嘟嘟嘟<br>
-如果我死不回头</p>
-<p>嘟嘟嘟嘟嘟嘟<br>
-如果我死不回头<br>
-嘟嘟嘟嘟嘟嘟嘟<br>
-如果我死不回头</p>
-<p>如果我死不回头<br>
-如果我死不回头<br>
-如果我死不回头<br>
-如果我死不回头</p>
-<p>谁让我撞上了<a href="http://chinadigitaltimes.net/space/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E" target="_blank">墙口</a><br>
-闻到了腐朽的臭<br>
-墙外到底是什么<br>
-等我把<a href="http://chinadigitaltimes.net/space/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6" target="_blank">南墙</a>撞透</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90cdtv%E3%80%91%E5%B4%94%E5%81%A5%EF%BC%9A%E6%AD%BB%E4%B8%8D%E5%9B%9E%E5%A4%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2/?category=18271" rel="tag">歌曲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%94%E5%81%A5/?category=18271" rel="tag">崔健</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -637,7 +589,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -647,5 +599,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

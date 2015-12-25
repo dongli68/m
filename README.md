@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%85%B3%E4%BA%8E%E5%AF%B9%E7%BD%91%E6%B0%91%E5%BC%80%E5%B1%95%E8%90%BD%E5%9C%B0%E7%A8%B3%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%8C%87%E4%BB%A4/" target="cdt-mirror">【立存此照】关于对网民开展落地稳控工作的指令</a>
+</h2>
+<p><p>重要事项交办通知单 第23号（指令性）</p>
+<p>润州分局办公室   2015年12月14日</p>
+<hr><p>
+</p><p>关于对网民“恢复经营江苏8W（545514791）”开展落地稳控工作的指令</p>
+<p>润州分局、市局网安支队：</p>
+<p>据省厅通报，12月14日9时许，网民”会哭的眼睛（1127848363）”、“恢复经营江苏8W（545514791）”在QQ群“最新消息交流1群”煽动“去美国领事馆，让国际上对我们国家有看法”。</p>
+<p>QQ聊天记录如下：会哭的眼睛（1127848363）9：54：55 看情况，我感觉去大裤衩没有用，去上访没有用，但这都是必须要试的，最后不行大家可以考虑去美领馆，这样在国际上会对我们国家有看法，也是对我们zf的粉刺糖果（393105183）9：54：57  恢复经营江苏8W（545514791） 9：55：03 下个星期请假到北京逛一圈。</p>
+<p>经落查，QQ号1127848363网民使用的手机号码是  662606463（编辑注：截图不完整）。机主姓名王芳，苏州市人，身份证号码923198312296862（编辑注：截图不完整）。QQ号545514791网民使用的手机号码是535895（编辑注：截图不完整），机主姓名赵凯，镇江人，身份证号码2198308241514（编辑注：截图不完整），户籍地址：润州区民主街。</p>
+<p>要求</p>
+<p>XX分局迅速对本市网民赵凯开展落地稳控工作，请市局晚安支队做好XX指导工作。相关工作情况请及时通过情报平台报送市局指挥中….</p>
+<p>签发人：樊东晓  发布时间：2015-12-14</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0FmMxU8AAWAC9.jpg" alt="CW0FmMxU8AAWAC9" width="600" height="800" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0FmMxU8AAWAC9-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0FmMxU8AAWAC9.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%85%B3%E4%BA%8E%E5%AF%B9%E7%BD%91%E6%B0%91%E5%BC%80%E5%B1%95%E8%90%BD%E5%9C%B0%E7%A8%B3%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%8C%87%E4%BB%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%89%E6%94%AF%E9%98%9F/?category=18271" rel="tag">网安支队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/qq%E7%BE%A4/?category=18271" rel="tag">QQ群</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AE%B0%E8%80%85%E7%8E%8B%E5%86%A0%E7%9A%84%E5%8D%97%E6%B5%B7%E8%BE%A9%E8%AE%BA%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/" target="cdt-mirror">黎蜗藤：记者王冠的南海辩论错在哪里？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" rel="attachment wp-att-422784"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225"></a><br><em>（图文无关）</em></p>
@@ -87,7 +109,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3/?category=18271" rel="tag">王石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91/?category=18271" rel="tag">万科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%A7%91%E5%AE%9D%E8%83%BD%E4%B9%8B%E4%BA%89/?category=18271" rel="tag">万科宝能之争</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">东网｜乔木：赵家人的中国</a>
 </h2>
@@ -424,7 +446,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E8%B3%80%E8%A1%9E%E6%96%B9-%E6%B3%95%E5%BE%8B%E7%95%8C%E7%9A%84%E8%89%AF%E7%9F%A5%E5%92%8C%E5%8B%87%E6%B0%A3%E5%9C%A8%E5%93%AA%E8%A3%8F%EF%BC%9F/" target="cdt-mirror">蘋果日報｜賀衞方：法律界的良知和勇氣在哪裏？</a>
 </h2>
@@ -450,7 +472,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA%E6%9C%80%E6%80%95%E7%AB%99%E9%94%99%E9%98%9F/" target="cdt-mirror">自由亚洲｜红顶商人最怕站错队</a>
 </h2>
@@ -616,37 +638,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%85%B3%E4%BA%86%E9%82%A3%E4%B9%88%E4%B9%85%EF%BC%8C%E4%BB%96%E5%8F%AF%E8%83%BD%E5%B7%B2%E5%B0%86%E8%8B%A6%E9%9A%BE%E5%8C%96%E4%B8%BA%E6%80%9D%E6%83%B3/" target="cdt-mirror">政见 | 关了那么久，他可能已将苦难化为思想</a>
-</h2>
-<p><p>作者：张跃然</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-%E4%B8%8B%E5%8D%883.33.07.png" alt="Screen Shot 2015-12-22 at 下午3.33.07" width="517" height="347" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-下午3.33.07-300x201.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-下午3.33.07.png 517w" sizes="(max-width: 517px) 100vw, 517px"></p>
-<p>就在今天，法院公布了一件备受关注的案件判决结果。如果一切顺利，这意味着一段高墙背后生活的结束。牢狱之灾对任何人来说都是沉重的。我们无法全然知晓狱中会发生什么；但我们知道，苦难往往能够激发那些真正坚毅而深邃的灵魂。</p>
-<p>让我们相信这一点的，是历史。从古至今，许多伟大的学者即使身陷囹圄，依然将全部精力投入到学术事业当中，甚至在狱中做出经世不朽的学术贡献。学术，使他们在苦难的泥土中开出思想之花，使他们在肉体的不自由之外获得了精神自由。</p>
-<p>类似的故事在历史中并不陌生，例如法国启蒙运动中的标志性人物、伟大思想家伏尔泰。年少时，伏尔泰发表了大量批评法国政府的言论。1717年，因为讽刺一位王室成员与他人通奸，23岁的伏尔泰被关进巴士底狱。伏尔泰在11个月的牢狱生活中写出了人生中第一部戏剧《俄狄浦斯王》。在那部作品中，他第一次使用了“伏尔泰”这个笔名。这部作品是对古希腊戏剧家索福克勒斯那部同名戏剧的理性主义再诠释，同时也在情节中影射了王室成员的通奸故事。1718年，《俄狄浦斯王》在巴黎公演，大获成功，不仅开启了伏尔泰辉煌的戏剧生涯，也使他首次在法国知识界获得了知名度。然而，出狱后的伏尔泰并未改变叛逆习性。1726年，因为和贵族成员再起争执，伏尔泰再次被投入巴士底狱，最终被放逐英国。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-%E4%B8%8B%E5%8D%883.34.35.png" alt="Screen Shot 2015-12-22 at 下午3.34.35" width="279" height="229"><br>
-伏尔泰画像。作者：Pierre Charles Baquoy</p>
-<p>又如，著名的政治理论家、美国国父之一托马斯·潘恩也没少吃牢饭。他的著作在美国革命初期影响力巨大，大大推进了独立战争的动员进程。1790年，他频繁前往巴黎，参与到法国大革命之中。然而，随1793年雅各宾派上台、政治风向陡变，潘恩被捕入狱。他原本要被雅各宾派送上断头台，但因为标注犯人的记号放置错误，才十分侥幸地躲过一劫。在这生死之间的惊魂时刻，他开始写作《理性时代》一书。1794年，雅各宾派倒台，潘恩重获自由，将《理性时代》完成并出版。这本批判圣经与基督教、倡导自然神论的著作，刚一问世就引起了强烈的反响和争议，在美国成为畅销书的同时却在英国成为禁书。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-%E4%B8%8B%E5%8D%883.35.16.png" alt="Screen Shot 2015-12-22 at 下午3.35.16" width="240" height="280"><br>
-潘恩画像。作者：Laurent Dabos</p>
-<p>再比如，意大利政治家、马克思主义理论家安东尼奥·葛兰西也有类似经历。他是意大利共产党的创党领袖之一，1926年被墨索里尼法西斯政权逮捕，先是被判五年监禁、进而获判二十年徒刑。在狱中，他写作超过三十本笔记，这些海量笔记20世纪30年代陆续偷运出监狱，但直到20世纪50年代才首次出版，即《狱中笔记》。凭借《狱中笔记》，葛兰西成为二十世纪最重要的马克思主义思想家之一。他提出的“文化霸权”概念、对于国家和公民社会的深刻分析、关于历史主义的一系列论述以及其他种种思想贡献，直到今天依然在哲学、政治学、社会学、文化研究、批判理论等多个学科中焕发着活力。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-%E4%B8%8B%E5%8D%883.36.18.png" alt="Screen Shot 2015-12-22 at 下午3.36.18" width="195" height="279"><br>
-葛兰西</p>
-<p>另外，我们也不能忘记英国哲学家、数学家、逻辑学家、1950年诺贝尔文学奖得主伯特兰·罗素。作为坚定的反战主义者，罗素在第一次世界大战期间积极参与各种反战集会。1918年，因为公开发表演讲反对英国政府邀请美国介入一战，他被判处有期徒刑六个月。在狱中，他写出了《数理哲学导论》。这本书以更为通俗的方式介绍了罗素曾经出版过的数理逻辑研究成果，到今天仍然被一些学校选作数理逻辑课程教材。罗素在自传中写道：“我觉得从很多方面看，监狱生活挺好的：没有烦心事，没有艰难的决定要做，不用担心有人打电话给我，也没人打扰我的工作。”也许是因为罗素太喜欢监狱生活了，老天又让他在四十多年后再次回到监狱：1961年，89岁高龄的罗素参加了一次反核武器示威，随后因“寻衅滋事”被关押了七天。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-%E4%B8%8B%E5%8D%883.37.00.png" alt="Screen Shot 2015-12-22 at 下午3.37.00" width="274" height="279"><br>
-罗素</p>
-<p>另一位在失去自由的状态中做出重要学术贡献的著名学者是法国数学家让·勒雷。第二次世界大战爆发后，让·勒雷1939年加入法军，但在1940年被德军俘虏。在参军之前，他的研究方向以微分方程为主、代数拓扑为辅。但因为微分方程与应用数学、尤其是军事技术方面的应用过于贴近，勒雷害怕自己在微分方程上的工作被德军所用，所以谎称自己研究的只有代数拓扑一个领域。在战俘营的时光中，他完全投入代数拓扑研究中，完成了一系列日后以他名字命名的研究发现。1979年，让·勒雷获得有“数学界的诺贝尔奖”之称的沃尔夫奖。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-22-at-%E4%B8%8B%E5%8D%883.37.58.png" alt="Screen Shot 2015-12-22 at 下午3.37.58" width="197" height="280"><br>
-让•勒雷</p>
-<p>牢狱中的苦难本身并无伟大之处，但伟大的人却能战胜苦难、在苦难中获得学术事业和思想的升华。强权总是试图通过剥夺自由甚至生命的方式让某些人低头，但事实证明，它们的努力常常徒劳无功：自由的灵魂永远自由，并终将被历史所铭记。<br>
-（清华大学数学系邵城阳同学对此文亦有贡献）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%85%B3%E4%BA%86%E9%82%A3%E4%B9%88%E4%B9%85%EF%BC%8C%E4%BB%96%E5%8F%AF%E8%83%BD%E5%B7%B2%E5%B0%86%E8%8B%A6%E9%9A%BE%E5%8C%96%E4%B8%BA%E6%80%9D%E6%83%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A3%B0%E6%8F%B4%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">声援浦志强</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -668,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

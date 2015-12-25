@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422839/" target="cdt-mirror">【对比新闻】北京大气污染治理“取得阶段性成效”</a>
+</h2>
+<p><p><strong>不止是北京，河北的大气污染治理也“取得阶段性成效”了：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%88%90%E6%95%88.jpg" rel="attachment wp-att-422840"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%88%90%E6%95%88.jpg" alt="阶段性成效" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/阶段性成效-247x300.jpg 247w, http://chinadigitaltimes.net/chinese/files/2015/12/阶段性成效.jpg 748w" sizes="(max-width: 748px) 100vw, 748px"></a></p>
+<p><strong>媒体官微转发时的配图，你们感受下：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%BA%E6%B0%91%E7%BD%91.png" rel="attachment wp-att-422844"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%BA%E6%B0%91%E7%BD%91.png" alt="人民网" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/人民网-300x211.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/人民网-768x541.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/人民网-1024x721.png 1024w" sizes="(max-width: 2344px) 100vw, 2344px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png" rel="attachment wp-att-422841"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png" alt="vista看天下" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/vista看天下-300x149.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/vista看天下-768x381.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/vista看天下-1024x508.png 1024w" sizes="(max-width: 2284px) 100vw, 2284px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png" rel="attachment wp-att-422843"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png" alt="21世纪经济报道" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/21世纪经济报道-239x300.png 239w, http://chinadigitaltimes.net/chinese/files/2015/12/21世纪经济报道-768x964.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/21世纪经济报道-816x1024.png 816w" sizes="(max-width: 1782px) 100vw, 1782px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%BD%91%E6%98%93.png" rel="attachment wp-att-422842"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%BD%91%E6%98%93.png" alt="网易" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/网易-342x1024.png 342w, http://chinadigitaltimes.net/chinese/files/2015/12/网易.png 677w" sizes="(max-width: 677px) 100vw, 677px"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/aijun100" target="_blank">@舞心居士</a>：这个事吧，就得看风的脸色了。有风了，就解决了100%，没风了，又降到0%了。风小点，可能就是10%、30%，风大点，可能就是60%、80%。解决了，是政绩，没解决，是自然恶劣啊<img title="[酷]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]"></p>
+<p><a href="http://weibo.com/1664591801" target="_blank">@灼成褐色的笑容</a>：人民网的意思是明明看得见，你们非得‘’装的‘’看不见，演戏呢你们，<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@三刀流_D_Roy：北京欢迎你，编瞎话感动你，流动中的煤里充满着沼气。咦，给配图点赞！</p>
+<p>@TannerChen：连亩产一万斤的都看不过去了</p>
+<p>@彬彬有礼-xb：2015年度关键字-吹！</p>
+<p>@唧唧歪歪的小屁孩：看了这个以后，我表示我吹牛逼的技术还是有待于提高</p>
+<p>@保磊微博：要不是我眼睛没有瞎，我差点儿就信了。</p>
+<p>@f4ng012：明天有风，都爆表了就不用治理了</p>
+<p>@云中的金龙：因为已经爆表，北发说的是表外的值！</p>
+<p>@奥巴是匹黑马：为什么我们感受到的是越来越糟糕，除了单双号限行，请问还有过哪些治理措施，讲给我们听听，读书少，不要骗我！</p>
+<p>@酷儿要做教书小能手：哎妈呀，班里的学生一个个戴口罩上课还都咳咳咳地咳嗽，都爆表了还好意思说有成效！气的我想骂人！</p>
+<blockquote><p>@咦你在看什么那么好笑：可以的<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv.jpg" rel="attachment wp-att-422845"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv.jpg" alt="47bf5a84jw1ezbxg9du95j218g0ps0wv" width="440" height="255" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
+<p>@眼大肚子小吃不胖的云：人家才没有睁着眼睛说瞎话，雾霾太大，睁着眼睛和闭着眼睛没区别</p>
+<p><strong>@念正守恒：为什么他们知道老百姓知道他们在说谎他们还要说谎呢？</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422839/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%96%E5%9B%B4%E5%85%B3%E7%B3%BB%E7%BB%B4%E6%8A%A4%E8%B4%B9%E7%94%A8%E6%98%8E%E7%BB%86/" target="cdt-mirror">【图说天朝】外围关系维护费用明细</a>
 </h2>
 <p><p>@INXIAN：“御指天娇”是一个提供“软色情”的地方，俗称“洗浴、按摩、指压”，它的一名前员工爆料：咸阳怡和店靠贿赂打点渭城区的执法部门，每到节庆都有一笔“外围关系维护费”发出……详单见下：</p>
@@ -34,7 +63,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%B2%E6%83%85/?category=18271" rel="tag">色情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E6%B5%B4%E6%8C%89%E6%91%A9/?category=18271" rel="tag">洗浴按摩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%B4%E5%85%B3%E7%B3%BB%E7%BB%B4%E6%8A%A4%E8%B4%B9/?category=18271" rel="tag">外围关系维护费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%B4%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">外围关系</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/422817/" target="cdt-mirror">LeMcDull：随手拼个图，让你国中产认清现实</a>
 </h2>
@@ -556,28 +585,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA%E6%9C%80%E6%80%95%E7%AB%99%E9%94%99%E9%98%9F/" target="cdt-mirror">自由亚洲｜红顶商人最怕站错队</a>
-</h2>
-<p><p>最近，在中国民营企业家中，连续发生了几件大事。徐明在狱中不明不白地死去，郭广昌突然失联数日，返回企业后，说是配合官方“协助调查”去了，王石面临着宝能的恶意收购等等。这一系列大事件，再次警告那些被称为红顶商人的民营企业家们：在人身上、经济上、政治上，你们并不安全。</p>
-<p>红顶商人在这里泛指与政府高层关系良好而令企业受益甚至能够影响政策的企业界人士。红顶商人最原始的例子，当属100多年前的徽商胡雪岩。胡雪岩本是左宗棠捧起来的头戴二品红顶子的巨贾，但不幸在李鸿章和左宗棠的争斗中，站错了队。李为了遏制左的势力，扶持另一个红顶商人盛宣怀，以打击胡雪岩为开端，“排左必先除胡”。李鸿章的打击相当成功，最后，胡被慈禧太后下令革职抄家，抑郁而终。</p>
-<p>盛宣怀的最终命运也强不到哪去。他以洋务发家，和清廷高官往来密切，李鸿章在世时，盛几次被弹劾，都被李庇护，李去世后，无人保护他。盛后来因主张铁路国有，被内阁斥为“世人皆曰盛宣怀可杀”，最后被革职，“永不叙用”。</p>
-<p>这两个清代例子说明，红顶商人的地位何等脆弱。官家要捧他，易如反掌；官家要整他，更是易如反掌；他要是不幸站错了队，最后的下场，人财两空是常态。</p>
-<p>一百多年过去了，中国的政商关系，至今仍无什么进步。这些年来，中国红极一时的民营企业家，成于官家，毁于官家的例子，层出不穷。江泽民时代的黄光裕，因官商间走得过近而被指违法经营，贿赂官员，被判处14年徒刑。薄熙来走红时的徐明，曾经大红大紫过，前不久离奇死在牢房里。</p>
-<p>至于全国人大代表、复星老总郭广昌，他对自己和政府的关系曾经很自信。他在2014年发表过一篇文章称，“你要相信你这个企业只要自己没有犯错误，没有乱来，政府不会整你”，“很多人跟我说，企业做得再好，政府要整你，要你死是很容易。我当时就问他一句话，我做得好好的，政府为什么要让我死？这跟党的价值观不一致，跟改革开放的价值观不一致啊。”郭的这种自信，现在证明，相当幼稚。</p>
-<p>近日一篇叫“门口的野蛮人，背后的赵家人”在网上广泛流传，文章说，每一个野蛮人（指财阀）背后，都站着一个赵家人（大老板），真正决定胜败的，不在于站在门口的野蛮人，而在于野蛮人背后的赵家人。文章还称，郭广昌进去了，又出来了，说明他背后的那个老板，被其他的老板，再下一城。还说明，郭是被招安了，愿意择主而事。该文对这些企业家的政商关系，分析得相当剔透。</p>
-<p>不过对于这些“野蛮人”来说，没有政治靠山，要想做大，是不可能的任务。尽管胡雪岩下场悲惨，但现在的大生意人，无不顶礼膜拜胡雪岩，胡的官商两界通吃，善于经营政府关系，成为今天企业家的榜样。比如，王健林的生意中，就有多个现任和前任政治局委员、常委的家族参与。马云收购《南华早报》讨好官方的意图十分明显，而郭广昌的政治靠山，有说是江派的，有说是团派的，十分花哨。</p>
-<p>这些民营企业家们其实都知道，政治太危险，政府靠不住。王健林的“亲近政府，远离政治”，郭广昌的“亲近政治，远离政府”，王石的“这辈子不沾政治，下辈子也绝不沾”，冯仑的“离不开，靠不住”，马云的“中国商人要明白的，千万别在红道上混”，说明这些企业家们心里像明镜一样，跟政治和政府走得太近，是有巨大风险的。</p>
-<p>在诸多风险中，政治上站错队，可能是这些红顶商人最恐惧的噩梦。郭广昌的各种政商关系中，有一种传言称他和令计划、谷丽萍、李源潮走得很近，甚至参与了政变计划。这种非同小可的指控一旦属实，郭广昌绝对吃不了兜着走。</p>
-<p>总之，没有政治靠山，中国民企要想做大，几乎是不可能的任务。然而有了政治靠山，不等于就有了安全阀。这还要看他是否站错了队；站错队是红顶商人最大的梦魇。这种梦魇，在权力不受约束，产权不受保护的体制下，将永无终结之日。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA%E6%9C%80%E6%80%95%E7%AB%99%E9%94%99%E9%98%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3/?category=18271" rel="tag">王石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E5%95%86%E4%BA%BA/?category=18271" rel="tag">红顶商人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%98%8E%E7%8B%B1%E4%B8%AD%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">徐明狱中死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%B9%BF%E6%98%8C/?category=18271" rel="tag">郭广昌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -589,7 +596,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -599,5 +606,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%9F%B3
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

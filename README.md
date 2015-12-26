@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%B2%8D%E5%BD%A4%EF%BC%9A%E4%BC%9F%E5%A4%A7%E9%A2%86%E8%A2%96%E7%BB%99%E8%80%81%E7%99%BE%E5%A7%93%E5%B9%B2%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%8C%E5%8F%88%E7%BB%99%E6%8E%A5%E7%8F%AD%E4%BA%BA%E7%95%99/" target="cdt-mirror">鲍彤：伟大领袖给老百姓干了什么，又给接班人留下了什么</a>
+</h2>
+<p><p> </p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2013/12/MaoS-kitchen.jpg" alt="Mao'S kitchen" width="550" height="373" srcset="http://chinadigitaltimes.net/chinese/files/2013/12/MaoS-kitchen-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2013/12/MaoS-kitchen.jpg 800w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>党史教科书说，毛泽东领导中国人取得了民主革命的胜利。那不是事实。所谓〝新民主主义〞，是毛泽东为了跟蒋介石争夺政权而发明出来的骗局，主要内容有：许农民以土地，许知识分子以自由，许工商业者以发展，许工人以领导权，许所有的中国人以〝林肯的民有民治民享〞，〝罗斯福的四大自由〞。直到1949年9月，毛泽东仍在努力，向各民主党派推出并终于达成以新民主主义为内容的《共同纲领》。等到政权到手，毛就断然撕毁了一切支票，速度之快，连他的合作者刘少奇和周恩来也〝跟不上〞：土改是变戏法，全体耕者最后的命运是统统无其田。知识分子所得到的是被改造。无产者得到的是不准罢工和不准自行组织工会。有产者得到的是〝自愿〞献出全部财产。全体中国人，集体得到了一个不准选举的〝人民共和国〞。以上合计，是谓〝民主革命的伟大胜利〞，这也正是有关毛泽东的神话的基础。</p>
+<p>接下来的乐章是毛泽东本来不熟悉的社会主义，斯大林活着时，毛泽东不敢侈谈。斯大林一死，〝社会主义阵营〞的〝头头〞出缺待补，好机会来了。毛随机应变，废掉〝新民主主义〞，改做〝社会主义〞的梦。他要求全体中国人和他一起做梦。他要大家批判〝小脚女人〞。作为驱策，他不断发动顺我者昌逆我者亡的斗争。本来，他所知道的社会主义不外乎一本《联共（布）党史简明教程》，现在毛必须创造。东汉末年的五斗米道于是成了他梦中的新榜样。全民生产、全民战斗、全民学习毛泽东思想的〝五七公社〞是他新发明的组织形式。他的当前纲领是以大跃进超英赶美争第一，他的最终目标是当全世界革命人民世世代代的导师。私有制在中国，被毛铲除掉了，却被2007年的《物权法》恢复了。毛对社会主义的贡献，本来也许可以概括为〝等于零〞——如果几千万条人命和几亿人的灾难可以一笔勾销的话。</p>
+<p>第三部曲文化大革命，本来不在毛的计划之内。1958年总路线、大跃进、人民公社〝三面红旗〞的失败，使毛泽东的社会主义丢了脸。1962年初由中共中央召开的全国三级党委（省委、地委和县委）书记全部出席的〝七千人大会〞上，主流不再是对毛及其社会主义的的狂热，而是对毛心血来潮的〝三面红旗〞的普遍怀疑。连多年来一贯帮毛辩护的刘少奇似乎也流露了这种可怕的情绪。这使毛泽东非孤注一掷发动〝继续革命〞不可，哪怕它鱼死网破。作为天下第一赌徒，毛在这场豪赌中押下的赌注，与其说是他本人的灵魂和肉体，不如说是强迫整个国家为他殉葬。人们讲惯了〝文革十年〞，其实，毛在七千人大会后，一直在呕心沥血，他用了整整14个年头（在他统治中国27年中占了一半以上），策划和领导了这场以〝谁反对毛主席就打倒谁〞为唯一主题的大屠宰。在把一切对手打倒在地的同时，毛自己也倒下了。</p>
+<p>有人把〝建国〞归功于毛，似乎中国本来〝不是〞国，〝没有〞国；又似乎只要有了〝国〞，不管这个〝国〞干了些什么，老百姓都应该感激涕零。本文不准备为此留出篇幅。</p>
+<p>还有人把〝中国人站起来〞当作毛的天大德政。——〝你们说他在国内搞得一塌糊涂，至少，中国人站起来足以令我们扬眉吐气！〞我不想多费唇舌，指出四点就够了：第一，1945年反法西斯战争胜利和1946年中华民国就任联合国安理会常任理事国，已经意味着中国人站了起来。相反，1949年毛泽东宣布向苏联一边倒，以及奉斯大林之命〝抗美援朝〞（准确地说，应该是〝援金打朝〞）难道不意味着中国人重新趴下了吗？第二，毛泽东发明的〝超限〞外交战略，不是世界和平的稳定因素，中国人不值得为它骄傲。使毛泽东如获至宝的两弹，也不值得平民欢欣鼓舞，何况那是以大量出口口粮、饿死几千万同胞的代价换来的虚荣。第三，明明刘、周都跪下去了，除了毛泽东一个人，中国还有谁站得起来？</p>
+<p>所以我说，弄清了毛替老百姓做了些什么，他的神话应该不难戳穿。问题的复杂性在于毛泽东还留下了使他的一部分接班人爱不释手的战利品。权衡利害，这些接班人当然非常乐意把神龛里的毛泽东永恒化，以便让中国人一代又一代地从娃娃开始，就把〝大救星〞的神话溶化到血液里。</p>
+<p>说到毛泽东的遗产，至少包括：鸦雀无声的舆论；永不选举的政权；三权合作的和谐；设计和制造冤假错案的流水生产线等等。其中最最重要的，无疑是领导一切的权力，有了它，才有可能成为亿万劳动力和战斗力的占有者。权力就是真理，就是合法性，就是战无不胜的法宝，就是点石成金的摇钱树……</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%B2%8D%E5%BD%A4%EF%BC%9A%E4%BC%9F%E5%A4%A7%E9%A2%86%E8%A2%96%E7%BB%99%E8%80%81%E7%99%BE%E5%A7%93%E5%B9%B2%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%8C%E5%8F%88%E7%BB%99%E6%8E%A5%E7%8F%AD%E4%BA%BA%E7%95%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%8D%E5%BD%A4/?category=18271" rel="tag">鲍彤</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E4%BB%B7%E6%AF%9B%E6%B3%BD%E4%B8%9C/" target="cdt-mirror">余英时：评价毛泽东</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2014/08/maoo4.jpg" alt="maoo4" width="600" height="513" srcset="http://chinadigitaltimes.net/chinese/files/2014/08/maoo4-300x256.jpg 300w, http://chinadigitaltimes.net/chinese/files/2014/08/maoo4.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>历史人物的评价本是一件最困难的事情，而论断一个刚刚走进历史的人物则尤为不易。中国人所常说的“盖棺论定”其实大有斟酌的余地。这句话的本意不过是说人的言行表现至死而告终结，不再能有反复而已。但对于死者的看法则往往要经过很长的时间才能得到“定论”，而且既“定”之后，仍难保不再发生反案的情况。我首先声明这点意思，以表示本文关于毛泽东的评论只是个人的一种偏见，绝不敢自视为“定论”。</p>
+<p>毛泽东对于现代中国的影响之大已是一个无可置疑的历史事实，但这种影响的性质究竟如何则迄今尚在讨论的阶段。回顾自一九七六年毛泽东逝世以来的舆论变迁，我们不难发现一个极显著的客观趋势，即中国人对毛泽东的评价（包括中共官方在内）是愈来愈低；而且这一趋势还在继续发展之中。</p>
+<p>这里便透露出一个极值得注意的消息：毛泽东和其他二十世纪的大独裁者如希特勒、斯大林一样，其生前那种使人不可逼视的“伟大”，完全是由现实的权势所烘托出来的。权势随生命以俱去，剩下来的只是一片空虚。不但如此，毛泽东的死后命运较之希特勒、斯大林尚还有不如。</p>
+<p>此中关键即在于他是中国人而不是西方人。西方有英雄崇拜的传统，希、史两人虽各在人间留下不少罪孽，而依西方的标准言，终不失为“英雄”，因此自有其可资后市欣赏之风姿。中国的传统则不重视英雄，对死者的情感端视其人是否留有足够的德业可供人去后之思。这恰好是毛泽东生命中最薄弱的一个环节。</p>
+<p>思念他的人当然也是有的，像江青、姚文元以至汪东兴、陈永贵之流，凡是在他生前得过好处的人现在自然会对他倍加怀想。但是这些“攀龙附凤”的人毕竟只是极少数。以中国十亿人口而言，毛泽东最后二十年中对他们所留下的记忆除了灾害与苦难之外实在别无他物。如果我们承认历史人物的评价是和绝大多数人心分不开的话，那么毛泽东的终极的历史命运是不能乐观的。</p>
+<p>在这篇短论中，我不准备、也不能全面地评论毛泽东的功过问题。作为一个史学工作者，我只想是从中国史的观点来估定毛泽东的历史位置。毛泽东在生前一直以“革命”为标榜；通过他的一些极左的言论，他更在世界舞台上拥有一个最彻底的革命领袖形象。</p>
+<p>但是如果我们稍稍留心这四年来中国大陆所不断暴露出来的有关毛泽东晚年的言行，我们便不能不承认毛泽东最后并没有跳出中国传统的政治格局的限制。而且更不幸地，限制着他的正是中国政治传统中的那一部分——君主专制。所以他晚年依仗的不再是正式的官僚系统而是相当于传统的宦官、外戚之流的势力：如康生正是魏忠贤型的人物，而江青和她的党羽自然是诸吕、诸武一流的势力了。</p>
+<p>以行为而论，中国历史上的昏暴之君的特征如远贤臣、亲小人、拒谏饰非之类，毛泽东实无一不备，而且其程度则远过之。因为他所掌握的集权主义的权力结构是传统帝王所望尘莫及的。</p>
+<p>我并不是说，毛泽东一切的思想与行为都在中国传统的笼罩之中。他确有其革命性的一面，而且是一个最彻底否定传统的革命者。但这只限于他在自觉的思想状态之下为然。在潜意识里他则不折不扣地是传统的俘虏。传统的一面在他早年的诗词中已有清楚痕迹，不过一直要到一九四九以后才全面地爆发出来。阿克顿（Lord Acton）的名言：“权力腐蚀人，绝对的权力则绝对腐蚀人”到现在为止依然是一个有效的政治原理。</p>
+<p>一九四九以后，在绝对权力的腐蚀之下，革命的毛泽东逐渐让位于传统的毛泽东了。这绝不仅是他个人的问题，事实上环绕在他周边的几乎没有人不把他当作开国皇帝那样奉承。不说别人，当我们读到许多有关周恩来如何“忠于毛主席”的小故事，我们首先想到的便是他们之间只有传统的君臣关系，而不是革命同志的关系。中国大陆上这几年来才开始反省中国“封建”传统何以如此根深蒂固的问题，实在未免迟了一步了。</p>
+<p>目前中共官方对毛泽东的态度十分矛盾：一方面他们为了应付党内的困难不得不推崇他，但另一方面为了重新建立党在全国人民中的威信又不得不批判他晚年的一切作为。在这种情况下，中共于是大体上把毛泽东的政治历史划分为三个阶段：即开国有功、建国有错、文革有罪。</p>
+<p>现在我们先谈谈应该怎样估价他的“开国之功”。今天中共的领导人包括邓小平在内都强调“没有毛主席就没有新中国”。这句话正确与否是要看我们如何理解“新中国”这个名词。如果说“新中国”是指中共政权统治下的中国，那么这句话当然是不错的。但是如果所谓“新中国”涵蕴着一种价值判断，以为没有毛泽东则中国今天将仍然在帝国主义、封建主义的压迫之下，那么这个论断则是很成问题的。</p>
+<p>第二次世界大战以后，西方旧式的帝国主义、殖民主义在迅速的衰落之中，代之而起的是苏俄的新帝国主义和新殖民主义。所以，亚非地区大大小小无数的旧殖民地或被压迫的民族都一个个地获得了解放、并建立了新的国家。中国人民近百年来一直在寻求国家民族的独立自主之道，毛泽东当然也是其中之一人。</p>
+<p>但是在第二次大战之后，中国事实上已摆脱了旧帝国主义的直接压迫，而且至少在名义上已成为联合国的“五强”之一。毛泽东所建立的“新中国”只有对中国共产党才是有开天辟地的意义；对于中国人民而言，则不过是一个新的政权而已。这个新政权的成立颇藉助于中国近代民族主义的巨大力量，可是中国之成为一个独立的国家却并不是从一九四九年才开始的。</p>
+<p>从建立现代国家这一方面说，毛泽东的业绩不但没有超越过孙中山，而且也比不上甘地、尼赫鲁在印度独立运动上的贡献。客观地分析，毛泽东的“新中国”在社会革命方面所表现的意义是远大于民族革命的。</p>
+<p>毛泽东接受了“五四”以来反传统的思想洗礼；在自觉的层面，他是和传统全面决裂了的。但是，我在前文已指出，毛泽东并没有真的跳出传统的藩篱。以思想的内容而言，他是反“封建”的。但以思想的方式而言，他却把“封建”发展到了从来未有的高度。换一个角度，我们也可以说，他所运用的建筑材料全是新颖的，而他所想建造的地上天国则依然是陈旧的。正因为如此，他的“新中国”竟成为“封建主义”无限泛滥的重灾区。这样的国家对于绝大多数的中国人而言是没有“新”的意义可言的。</p>
+<p>由此可见，就毛泽东的所谓“开国之功”而言，中国共产党的官方评价和一般人民的评价是大有距离的。这和汉代朝廷与民间对汉武帝的评价之截然异致，先后如出一辙。汉宣帝要颂扬汉武帝开边的功德，特别下诏为武帝立庙作乐。但是当时有一位儒生夏侯胜竟持异议，他认为武帝虽有广土斥境之实，其代价则是“竭民财力，奢泰亡度，天下虚耗，百姓流离”。</p>
+<p>总结一句话，武帝“亡德泽于民，不宜立庙乐”。（见《汉书•夏侯胜传》）中国人对于历史人物的尊重向来只注重一个标准，就是看这个人对人民有没有“功德”、是不是“遗爱在民”。让我们再举秦始皇为例。《三国志•王朗传》注引“朗家传”云：“会稽旧祀秦始皇，刻木为像，与夏禹同庙。朗到官，以为无德之君，不应见祀，于是除之。”</p>
+<p>经过两汉三四百年之久，何以会稽独祀秦始皇？这当然是因为始皇曾于三十六年（公元前二一一）上会稽、祭大禹，又在会稽山上留下了著名的石刻文字。始皇和会稽有此一段香火之缘，因此后世民间对他还有所纪念。不过对整个中国而言，始皇毕竟是“无德之君”。王朗为会稽太守而禁民祭祀，其实也还反映了多数中国人的想法。秦皇、汉武诚然“略输文采”，但这两个人在毛泽东的心中仍然占有了重要的位置。</p>
+<p>从对人民有“功德”的观点看，毛泽东显然并不能胜过这两人。尤其是汉武帝，晚年曾下轮台诏，自悔其好大喜功、残民以逞的种种作为，这更是我们在毛泽东身上找不到的质量了。</p>
+<p>最后我也想略说几句关于毛泽东的“错误”与“罪恶”的问题。这一方面，许多人都已说过了，以后也还会有人继续深入地发掘。我只想把他和另一个历史人物作一对比，这就是他生前曾欣赏过的曹操。从我们今天的观点看，曹操绝不是一个反面人物。毛泽东一度表现过向曹操认同的意味，这大概是因为曹操不但有武功，而且还有文采，在中国文学史上占有一席之地的缘故。</p>
+<p>毛泽东的文学修养自然不能与曹操相提并论，但是他确是“虽不能至，心向往之”。以性格和才力而言，这两人都有不同。曹操毕竟生在汉末，虽然不信“天命之事”，尚非肆无忌惮之人。他至少还相信历史上尚有周公这种伟大的人格存在（见他的《述志令》）。毛泽东在极端过激思潮的激荡之下，则早已流入虚无主义一路。</p>
+<p>据服侍他的人所写的一篇文字，他熟读历史，但是完全不相信历史上有什么光明磊落的一面。他留心的大概都是权谋机诈一类的东西。他以自己的心度古人之腹，因此认为历史记载都是假的，都不足信。史书中当然有虚饰，这是古今中外皆然的。可是如果一个人过分地发展虚无史观，满眼看去只见到“脏唐臭汉”，那么他便不可能对人性有任何信心，也不可能对人类未来抱什么理想。而毛泽东便恰好是这样一个人。</p>
+<p>再以才力言，两人也迥不侔。许子将说曹操是“治世之能臣，乱世之奸雄”，大约可算得确评。但毛泽东则只是乱世奸雄而非治世能臣。以奸雄言，曹操远不是毛泽东的敌手；以能臣言，毛泽东却是连影子也没有。但更重要的是，毛泽东根本不曾为能臣，他终其一生只欣赏“人与人斗，其乐融融”的奸雄境界。</p>
+<p>但是毛泽东和曹操在中国历史上所造下的最主要的罪恶则属于同一性质的。顾炎武评曹操说：“孟德既有冀州，崇奖跅弛之士。观其下令在三，至于求负污辱之名、见笑之行、不仁不孝、而有治国用兵之术者。于是权诈迭进，奸道萌生。……夫以经术之治、节义之防，光武、明、章数世为之而未足；毁方败常之俗，孟德一人变之而有余。”（《日知录•两汉风俗》条）毛泽东由于无知所犯下的种种错误如“大跃进”、“人民公社”、“全民炼钢”都还是有形的、也是比较容易补救的。唯有他为了遂一己夺权之私，不惜玩弄纯洁的孩子们，搞所谓的“文化大革命”这一绝大的骗局，使大多数中国人今天都对中共政权基本上失去了信心，更使青年们对一切理想主义都不再发生兴趣，则几乎可以说是一个无可救治的精神崩溃症。</p>
+<p>一九四九年的时候，中国人因为望治心切，曾对毛泽东和共产党寄过深望，尤以知识分子为然。他们之中绝大多数人都不惜牺牲个人的利害、抛弃个人的尊严，以响应毛泽东的号召，参加社会主义建设的行列。在一九五七年“反右”运动之前，中国社会上的一般风气确是比较淳厚质朴的。但是毛泽东却一再地欺骗他们、整治他们，并以搞“阳谋”而沾沾自喜，终于把这样一笔最宝贵的精神资源完全糟蹋掉了。</p>
+<p>根据我个人这几年来的体察，现在中国老一代的人大多是以平静的心情等待生命的终结，中年一代是有的彷徨苦闷，有的随世浮沉，年轻的一代则或者腐化颓废、或者愤世嫉俗、或者各谋一己的前程。总之，大陆上的中国人显然已失去了中共建国初期的那种共同的热情和理想。不但一般人民如此，中共的干部也不例外。三十年前“不怕苦、不怕死”的革命者今天已多堕落成保权保位、有家无国的官僚了。追源溯始，造成这一弥漫在全中国的精神崩溃症，毛泽东是不能辞其咎的。</p>
+<p>借用顾炎武的话说，“毁方败常之俗，毛泽东一人变之而有余”。这当然并不是我故意夸大毛泽东个人在历史上的作用。事实上，我们可以这样来看问题：单从权力的性格来说，毛泽东生前所拥有的威势主要是建立在两个历史凭借上面，一是明、清以来恶化了的皇权传统，一是近代西方传来的极权的政党组织。前者构成其权力的实质，后者提供了权力的结构。毛泽东既是中共领导阶层中传统观念最浓厚的一个人，又恰好占据了这一权力结构的枢纽位置，他之所以能把中国弄得天翻地覆是丝毫不足为奇的。</p>
+<p>以上我从中国史的观点对毛泽东所扮演的历史角色略作说明。我所引的秦始皇、汉武帝和曹操三位都是毛泽东生前曾在不同阶段与不同情况中发展了自我认同的历史人物。他与这三人都各有异同，未可一概而论。但大体言之，所同者在过失方面，所异者则在功德方面。从文化精神言，前三人是肯定与否定兼而有之，毛泽东却代表了一种纯否定的精神。</p>
+<p>这大部分是时代的悲剧造成的，却不能完全归咎于他个人了。在结束本文之前，我还要补充一笔，中国史上和毛泽东的形象最相近者则是明太祖。我在七年多以前已一再指出毛泽东曾有意模仿朱元璋。就性格言，两人尤为肖似，都是阴狠、猜忌、残暴兼而有之。除了语录、红卫兵、整肃干部，以及因自卑感而迫害知识分子等仿制品之外，毛泽东师法朱元璋有时甚至到了亦步亦趋的境地。例如他所提出而在大陆上一度广为宣传的口号：“挖深洞、广积粮、不称霸”便完全是抄袭朱元璋的“高筑墙、广积粮、缓称王”。（按：这是朱元璋克徽州后，由儒生朱升向他提出的。见高岱《鸿猷录》卷二“延揽群英”条）这样明显的模仿颇足说明毛泽东向朱元璋认同的深度远在前三人之上。这为心理史家（Psycho-historian）分析毛泽东的历史人格提供了极有意义的线索。</p>
+<p>我很盼望将来有专治心理史学的人在这一方面作深入的探究。</p>
+<hr><p><small>© 网聚正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E8%AF%84%E4%BB%B7%E6%AF%9B%E6%B3%BD%E4%B8%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E5%A4%A7%E6%9E%97/?category=18271" rel="tag">斯大林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%A7%8B%E7%9A%87/?category=18271" rel="tag">秦始皇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E8%8B%B1%E6%97%B6/?category=18271" rel="tag">余英时</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E5%85%83%E7%92%8B/?category=18271" rel="tag">朱元璋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E6%93%8D/?category=18271" rel="tag">曹操</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%96%B0%E8%A7%82%E5%AF%9F%E5%AE%B6%E3%80%8B%E6%96%87%E7%AB%A0%E6%97%A2%E5%BE%88%E5%81%8F%E6%BF%80%EF%BC%8C%E5%8F%88%E4%B8%8D%E4%B8%93%E4%B8%9A/" target="cdt-mirror">《环时》为法媒专业性拙计  希望西方记者提高姿势水平</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E7%A7%8D%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9D%90%E5%85%AC%E4%BA%A4.jpg" rel="attachment wp-att-422928"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E7%A7%8D%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9D%90%E5%85%AC%E4%BA%A4.jpg" alt="在新疆，以上“五种人员”不可坐公交。" width="375" height="541" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五种人不能坐公交-208x300.jpg 208w, http://chinadigitaltimes.net/chinese/files/2015/12/五种人不能坐公交.jpg 532w" sizes="(max-width: 375px) 100vw, 375px"></a><p>在新疆，以上“五种人员”不可坐公交。</p></div>
@@ -466,78 +527,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/422714/" target="cdt-mirror">【立此存照】美帝“又”给中国人扣屎盆子了</a>
-</h2>
-<p><blockquote><p><strong><a href="http://weibo.com/1743951792/D9Sqn1AJl">@美国驻华大使馆</a> </strong>：美国使馆接到信息称圣诞节当日或前后在北京三里屯地区可能出现针对西方人士的威胁。强烈建议美国公民保持高度警惕。美国使馆已对美国政府人员发布了相同建议。通知全文请见英文: <a title="网页链接" href="http://t.cn/R4GdFF4" target="_blank"><em>网页链接</em></a> 中文: <a title="网页链接" href="http://t.cn/R4GgXgJ" target="_blank"><em>网页链接</em></a></p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%B1%8E%E7%9B%86%E5%AD%90.png" rel="attachment wp-att-422715"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%B1%8E%E7%9B%86%E5%AD%90.png" alt="屎盆子" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/屎盆子-592x1024.png 592w, http://chinadigitaltimes.net/chinese/files/2015/12/屎盆子.png 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
-<p><strong>与最开始为在华美国公民发布PM2.5值时的情况类似，美使馆这则警告很显然伤害了不少中国人民的感情。除了诸如给中国人“扣屎盆子”这样的“帝国主义亡我之心不死”指责外，微博上还充斥着各种美国如何“自导自演”恐怖袭击的阴谋论，对上述言论的反驳，以及吐槽朝阳区群众和雾霾的玩笑。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj.jpg" rel="attachment wp-att-422717"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj.jpg" alt="005K5v3Ugw1ezau205vtfj30ku0k6wjj" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj-300x290.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/005K5v3Ugw1ezau205vtfj30ku0k6wjj.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<blockquote><p><a href="http://weibo.com/1405603123/D9Tchz2py">@吴法天</a>：美使馆发警告，跟瞎子算命一个道理，一旦真有事，那就神了，如果没有事，亏得警告有效——正反怎么押都对。如果你不幸发现了上述逻辑，他还有一招，就是告诉你，我这警告是给美国公民的，关中国人屁事。客观的说，与三里屯的朝阳群众比，美国人在中国的情报能力不行，除非他就是主谋或帮凶。黄恒兄说。<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%90%B4%E6%B3%95%E5%A4%A9.png" rel="attachment wp-att-422716"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%90%B4%E6%B3%95%E5%A4%A9.png" alt="吴法天" width="500" height="327" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-300x196.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-768x503.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-1024x671.png 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/吴法天-230x150.png 230w" sizes="(max-width: 500px) 100vw, 500px"></a></p></blockquote>
-<p><strong>@燕关天：给中国人扣屎盆子么？</strong></p>
-<p>@千股评说：你美国人又在装B了！ 快看 ，有人在这里装B！。。。美国驻华使馆又在微博装B了。。。 只有你威胁别人的份，没有人会威胁你。。</p>
-<p>@远_征_：把屎尿引到中国來，你美国是何居心？不管有没有发生恐袭，反正达到做空中国的目的，够不要脸的</p>
-<p>@Vanished_dream：自由皿煮的美帝国主义，这屎你还是自己去吃吧，别扣给中国</p>
-<p>@天创流：what？帝都的警情都需要美帝使馆操心播报了？</p>
-<p>@Cocococococonut：难道是为了把中国拉上反恐战车的阴谋？？</p>
-<p>@过过过路：美国确实是最厉害的，所有的恐怖袭击的消息他都比别人提前知道。</p>
-<p><a href="http://weibo.com/2737122811" target="_blank">MrYc陈</a><i title="微博达人"></i>：若三里屯发生了什么事件，那就是你们美国佬干的<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
-<p><a href="http://weibo.com/visionvei" target="_blank">Venusvei</a><i title="微博达人"></i>：你们美国不虚张声势不搞什么小动作整个世界都会太平！还好意思恶人先告状！大天朝治安很好！不像你们现在枪支泛滥 社会治安极其混乱！我们在美国的中国公民倒是应该小心！！！<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"><img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
-<p>@河海水力_uxq834593634：美帝国主义者，你们是秋后的蚂蚱没几天蹦跳了！哈哈！</p>
-<p>@gfhhfghfbkfg：造谣，企图引起社会恐慌，往中国头上扣屎盆子，美国狗居心不良。还有我想说中国的治安甩的美国10条街好不好。</p>
-<p>@吴昊HalWoo：近代史以来中国招惹过你们吗？只有你们威胁中国和全世界！只有猪才会相信你们这个狗屁通知。</p>
-<p><strong>vs</strong></p>
-<p><a href="http://weibo.com/5213008819" target="_blank">挂在墙上的灰兜帽</a>：建议评论里5毛今天都去三里屯好不好<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/1509407451" target="_blank">菠萝油王子麦兜兜</a>：就很正常的发个警告，在某些人眼里又成了阴谋论了<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
-<p>@艾妮喵喵：三里屯长刀凶杀案也就发生在今年夏天。人家使馆收到威胁信息发一条提醒，评论里民族自尊心就又被伤害了。。</p>
-<p>@郭子阳：除评论里的一帮傻X外，请各位出去玩的注意安全。</p>
-<p>@李耳朵979：五味杂陈，尤其看到评论。他们有叫好的，有叫嚣着喊“滚回去”的，有调侃朝阳区群众的……</p>
-<p>@这是最后的机会了：有时候真心不能理解有些评论的智商……你说这个怎么就成了什么，给中国人扣blabla了呢……</p>
-<p>@___薇薇vivi___：提醒，好么，又不是害你，有没有点正常人的心理啊？没死呢，死了你嘴皮子也就不这么硬了！我怀疑有些人是心里畸形还是就是缺乏教养没素质？也可能天生的！</p>
-<p>@思无诸邪：美国保护美国人有错吗，人家拿人当人，艹。</p>
-<p><strong>vs</strong></p>
-<p><a title="方二斤" href="http://weibo.com/734549704" target="_blank">方二斤</a> ：恐怖分子如果真挑选三里屯，将是对朝阳区群众的一次公然挑衅<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@耳东玉峰：有我30万朝阳群众在，怕啥？</p>
-<p>@阿朗斯通：朝阳群众还未发表任何评论</p>
-<p>@七彩红橙黄绿青蓝紫：恐怖份子敢来北京！？？？分分钟被雾霾淹没估计连路都找不到</p>
-<p>Napoleon_Cxy：我就想问问恐怖分子，这样的天气，你们知道三里屯在哪吗？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/422714/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">美国大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%B0%B1%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9C%8B%E4%B8%8D%E6%83%AF%E6%88%91%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%B4%87%E6%8B%9C%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90/" target="cdt-mirror">政见 | 就喜欢你看不惯我，但不得不崇拜我的样子</a>
-</h2>
-<p><p>作者：邵立</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-23-at-%E4%B8%8B%E5%8D%8811.37.53.png" alt="Screen Shot 2015-12-23 at 下午11.37.53" width="518" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-23-at-下午11.37.53-300x187.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-23-at-下午11.37.53.png 518w" sizes="(max-width: 518px) 100vw, 518px"></p>
-<p>世界上有这么一个国家，国家领导人被官方宣传机构称为 “父亲”，或者用方言说，“大大”。他的语录贴满大街小巷。他的头像挂在学校教室里和出租车后视镜上。运动会的开幕式，观众举起手中的塑料板拼成他的图像，演员在场地里高呼他万岁。他既是人民的领导人，也是人民的好儿子。但在私底下，人们嘲笑他的专横和腐败，他的语录被恶搞成段子四处流传，他的样貌变成了漫画嘲讽的对象。喜剧电影颠覆着他全知全能的形象，把他描述成一个愚蠢的独裁者。</p>
-<p>没错，这个国家就是内战前的叙利亚。</p>
-<p>芝加哥大学政治学教授<strong>丽萨·韦典（Lisa Wedeen）</strong>在 1999 年出版了一本专门研究叙利亚前总统哈菲兹·阿萨德（现总统巴沙尔·阿萨德父亲）个人崇拜现象的专著。</p>
-<p>比起苏联的斯大林和伊拉克的萨达姆，阿萨德是一个相对 “弱势” 的领导人。比起斯大林，他没有标志性的建筑 （如克里姆林宫） 作为象征，也没有列宁这样 “前任”。比起以 “勇气” 作为卖点的萨达姆，阿萨德的形象比较 “谨慎” 和 “聪明”。</p>
-<p>因此，虽然阿萨德政府的宣传机器日夜开动，但叙利亚人民不太买个人崇拜的帐，人们在私底下利用漫画、电影或笑话嘲笑阿萨德总统、各种恶搞官方的个人崇拜叙述。但这丝毫不动摇政府坚决推进宣传总统伟大个人形象和话语的决心。</p>
-<p>作者要回答的问题是，既然人民群众不相信个人崇拜，政府也知道人民群众不相信个人崇拜，那么为什么叙利亚政府还要不遗余力地推动个人崇拜宣传呢？</p>
-<p>通过仔细分析叙利亚官方报纸的叙事方式，韦典认为，由于个人崇拜实践本身能规训 （discipline） 个人行为，使个人服从政权命令，因此这种宣传能有效保持政权稳定。也就是说政府并不需要人民去全心全意地相信阿萨德是他们心中的红太阳，只需要他们按照 “阿萨德是红太阳” 那样顺从地行动就足够了。</p>
-<p>其中，他们进行统治的一个重要工具，就是 “预定安排的场景政治”（a politic of orchestrated spectacles）。</p>
-<p>例如，在 1987 年的地中海运动会开幕式上，1.2 万名叙利亚学生在观众席上举起彩色塑料板，拼成一幅巨大的阿萨德头像，然后拼写阿拉伯文 “我们爱阿萨德” —其中 “爱” 字是用西方通用的心型符号代替。为了开幕式的表演，这些学生训练了三个月至半年不等的时间。</p>
-<p>这类场景政治虽然不能让叙利亚人 “爱上” 阿萨德，但在稳固统治方面却有奇效。场景活动的参与者 （即学生），其身体在重复仪式性姿势的过程中得到了规训，为以后的政治上的顺从做好准备。场景政治宣示着阿萨德的统治权力，将国家权力剧场化 （dramatize），制造出一种强制服从的场景。场景政治同时也在用声音和图像具象化抽象的政治概念，将暗示阿萨德无所不能的图像和人们渴望稳定的愿望结合在一起，犹如一个商业广告将商品与爱、舒适和财富结合在一起一样。</p>
-<p>按照马克斯韦伯对于权威的定义，阿萨德个人崇拜与他个人的魅力，也即卡里斯马 （Charisma） 无关。他的权威并不来自合法性 （legitimate），而是来自强制性 （coercive）。强制性的权威不是建立在惩罚的基础上，而是建立于对被惩罚的恐惧之上。阿萨德利用场景政治展示，利用无所不在的头像、语录和雕塑，向叙利亚人民发出了这样一个信号：我拥有很强大的权力，如果你不听我话，我随时都可以消灭你。</p>
-<p>个人崇拜宣传的乏味和空洞还成功地在群众中制造了政治冷感—民众变得更犬儒，仅仅麻木地跟随这种政治活动，不再关心真正的政治生活。这也正合统治者的意图 – 对政治缺乏兴趣的民众没有意图挑战统治者权威。但这种去政治化的努力并不是彻底的，有很多人学会了利用伪装起来的文本进行交流和传播。禁书、地下电影、人权组织报告、敏感政治期刊在民众间流传。因此，制造政治冷感的努力也起到了一定反作用 – 增加了批判性的民众参与 （critical engagement）。审查制度的存在，也为重要的政治话题指明了目标，这甚至比言论自由的环境有一点优胜之处。因为在那里重要的话题往往淹没在无关紧要的话题之中。但是，作者认为，虽然个人意义上，叙利亚人能做出挑战阿萨德个人权威的行为，但并不足以挑战已经制度化的政治生活，或者发起群体行动 （collective action）。</p>
-<p>当然，阿拉伯之春的到来和叙利亚内战的爆发，超出了韦典本书的估计。只不知叙利亚今天的混乱局面，是源于老阿萨德时代神埋下的祸根吗？</p>
-<div>
-<p><span>参考文献</span></p>
-<p><span>Wedeen, Lisa. (1999). <em>Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria.</em> Chicago: University of Chicago Press.</span></p>
-</div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%94%BF%E8%A7%81-%E5%B0%B1%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9C%8B%E4%B8%8D%E6%83%AF%E6%88%91%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%B4%87%E6%8B%9C%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81%E8%80%85/?category=18271" rel="tag">独裁者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%99%E5%88%A9%E4%BA%9A/?category=18271" rel="tag">叙利亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%B2%99%E5%B0%94-%E9%98%BF%E8%90%A8%E5%BE%B7/?category=18271" rel="tag">巴沙尔.阿萨德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%88%E8%8F%B2%E5%85%B9%C2%B7%E9%98%BF%E8%90%A8%E5%BE%B7/?category=18271" rel="tag">哈菲兹·阿萨德</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -549,7 +538,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -559,5 +548,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

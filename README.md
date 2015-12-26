@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%96%B0%E8%A7%82%E5%AF%9F%E5%AE%B6%E3%80%8B%E6%96%87%E7%AB%A0%E6%97%A2%E5%BE%88%E5%81%8F%E6%BF%80%EF%BC%8C%E5%8F%88%E4%B8%8D%E4%B8%93%E4%B8%9A/" target="cdt-mirror">《环时》为法媒专业性拙计  希望西方记者提高姿势水平</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E7%A7%8D%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9D%90%E5%85%AC%E4%BA%A4.jpg" rel="attachment wp-att-422928"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%94%E7%A7%8D%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9D%90%E5%85%AC%E4%BA%A4.jpg" alt="在新疆，以上“五种人员”不可坐公交。" width="375" height="541" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/五种人不能坐公交-208x300.jpg 208w, http://chinadigitaltimes.net/chinese/files/2015/12/五种人不能坐公交.jpg 532w" sizes="(max-width: 375px) 100vw, 375px"></a><p>在新疆，以上“五种人员”不可坐公交。</p></div>
+<p><strong>原标题：环球时报｜《新观察家》文章既很偏激，又不专业</strong></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/422915/" target="_blank">立場新聞｜報道新疆問題 官媒歪曲內容 駐京法國記者拒撤文章拒道歉 被驅逐出境 </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/422918/" target="_blank">明镜新闻｜法国记者高洁究竟说了什么？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/03/%E6%B3%95%E5%B9%BF-%E6%B3%95%E5%AA%92%E8%AE%B0%E8%80%85%E6%96%B0%E7%96%86%E9%B2%81%E5%85%8B%E6%B2%81%E9%95%87%E9%87%87%E8%AE%BF%E8%AE%B0/" target="_blank">法广 | 法媒记者新疆鲁克沁镇采访记</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%9D%E6%B3%95%E7%9A%84%E5%A4%A7%E8%83%A1%E9%A1%BB/" target="_blank">【图说天朝】违法的大胡须</a></li>
+</ul></blockquote>
+<p>法国《新观察家》杂志总编辑马修·克鲁瓦桑多以社论的名义发表文章，宣称该杂志驻北京女记者高洁(Ursula Gauthier)“受到威胁”。</p>
+<p>事情的原委是，在巴黎遭到恐怖袭击、中国公众对法国给予高度同情的时候，高洁于11月18日发表一篇文章，指责中国政府试图在支持法国反恐的同时塞进“私货”，将中国新疆发生的暴力事件也说成是“恐怖主义”。文章竟宣称“新疆暴力更多的是由于受到无情的镇压”。</p>
+<p>去年3月高洁还在一篇言辞更尖利的文章中批评新疆反恐，称那里发生的是“军人和警察占领区的起义之举”。</p>
+<p>《环球时报》11月20日发表社评，批评了高洁令人震惊的偏见，并且指出，在中国媒体齐声谴责IS对巴黎的恐怖袭击时，《新观察家》这样做是“<strong>以怨报德</strong>”。</p>
+<p>据《新观察家》的最新社论说，此后“高洁的Facebook账户受到了互联网用户的各种谩骂，甚至出现了对其进行死亡威胁的言论”，并且说“这是本刊历史上第一次出现如此悲惨的一幕，这也是对新闻自由的严重威胁”。</p>
+<p>如果确实有人在Facebook上对高洁进行超出批评正常限度的围攻，我们反对。<strong>但Facebook不是中国网站，《新观察家》应该去找美国人扎克伯格交涉</strong><em>（注）</em><strong>。</strong>如果高洁的确遭到应予重视的“死亡威胁”，那么我们强烈建议她报警。</p>
+<p>不过有一点必须讲清，高洁的文章明显为新疆恐怖主义势力张目，白纸黑字，她想不认账，说成是中国人误解了她的意思，这个马虎眼她是做不成的。反恐是当今国际社会的大是大非，高洁输了道义，就须承担相应责任。</p>
+<p><strong>《新观察家》作为媒体机构，本应对供职记者的明显过错进行追究，堵住机构的漏洞</strong>，但该杂志总编辑的做法正相反，为给高洁护短完全不顾是非曲直，搅乱事情原本的性质。</p>
+<p>仔细读一读高洁的文章，且不说它在价值观上的偏执，<strong>新闻专业人士很容易发现它缺乏专业性，内容粗糙，情绪化严重</strong>。我们高度怀疑《新观察家》的后方编辑流程也荒疏、残缺，<strong>严重低于西方主流媒体的通常业务水准</strong>。高洁的报道完全看不出她是在 中国生活多年的人，她的文章让人感觉出自对中国一无所知、仅凭想象写稿的驻华记者新手。她的编辑部也无人帮她纠错。</p>
+<p>我们有理由质疑，在中国舆论指出高洁报道的严重硬伤之后，高洁与《新观察家》为避免陷入丑闻，打起受到“威胁”“迫害”的悲情牌，试图蒙混过关，<strong>不亏反赚</strong>。他们寄希望于一些其他西方媒体会出于价值观的惯性出手帮忙。</p>
+<p>现在高洁和《新观察家》不仅不认错，还表现得很<strong>蛮横</strong>，一副强势姿态。他们指责中国外交当局不及时给高洁延长在华记者工作签证，俨然他们一直正确，而中方则一错再错。他们就差要求中国社会反过来向高洁和《新观察家》道歉了。</p>
+<p><strong>实事求是说</strong>，高洁和《新观察家》真是让中国公众看到了<strong>西方媒体参差不齐的下限</strong>。以往我们对西方媒体价值观及政治上的自恋感到无奈，但《新观察家》<strong>让我们看到业务质量低劣以及为掩饰沉沦靠政治博出位是什么样子</strong>。很简单说，<strong>《新观察家》是在中国社会给西方媒体群体丢了脸的</strong>。</p>
+<p>希望《新观察家》以后的驻华记者能养成深入社会的习惯。我们感觉高洁太不了解中国了，《新观察家》编辑部恐怕对中国的实际情况更知之甚少。他们的对华报道就像拴在西方价值观绳子上高高飘在空中的风筝，自己觉得挺美。虚心点吧。</p>
+<p><em>注：据无国界记者组织<a href="http://www.voachinese.com/content/voa-news-reporters-without-borders-20151201/3083053.html" target="_blank">声明</a>，针对高洁的死亡威胁出现在人民网评论版块，其照片住址等个人信息遭人肉后被公布在一些大陆门户网站论坛内。</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%96%B0%E8%A7%82%E5%AF%9F%E5%AE%B6%E3%80%8B%E6%96%87%E7%AB%A0%E6%97%A2%E5%BE%88%E5%81%8F%E6%BF%80%EF%BC%8C%E5%8F%88%E4%B8%8D%E4%B8%93%E4%B8%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422915/" target="cdt-mirror">立場新聞｜報道新疆問題 官媒歪曲內容 駐京法國記者拒撤文章拒道歉 被驅逐出境</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0.png" rel="attachment wp-att-422916"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0.png" alt="Ursula Gauthier （高潔）　（網絡片段截圖）" width="550" height="324" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0-300x177.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0-768x453.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0.png 831w" sizes="(max-width: 550px) 100vw, 550px"></a><p>Ursula Gauthier （高潔）　（網絡片段截圖）</p></div>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/12/422918/">明镜新闻｜法国记者高洁究竟说了什么？</a></p></blockquote>
+<p>法國《新觀察家》週刊駐京記者高潔(Ursula Gauthier)因發表新疆的報道以及有關中國新疆政策的評論，而遭到中國當局的驅逐。中國外交部周五（12月25日）正式通過電話告知，由於她始終拒絕就她的文章做出公開道歉，當局將不更新她的記者證，並且勒令她在12月31日簽證期滿之前離開中國。</p>
+<p>法國國際廣播電台（RFI）報道，高潔在中國工作已有六年。是駐京西方媒體記者群中日益罕見的漢語流利的中國通。一個多月來，她遭到中國官媒的點名攻擊，《環球時報》以及《中國日報》等官方喉舌譴責高潔的報道歪曲事實，偏見嚴重。</p>
+<p><strong>說流利漢語中國通</strong></p>
+<p>RFI指，中國官方對她的指控主要涉及兩篇文章，一篇是11月18日發表於新觀察家週刊文章的文章，標題是：〈中國譴責巴黎恐襲背後的盤算〉。另一篇是去年3月發表的一篇有關新疆的長篇報道。這篇報道的標題是：〈生活在恐怖與貧窮中的新疆〉。</p>
+<p>中國官媒環球網11月20日攻擊文高潔章的社評文章〈法國《新觀察家》，請你有點底線〉，批評「法國《新觀察家》雜誌網站18日發表一篇其駐北京記者高潔的長篇文章，該文對中國關於莫在反恐問題上搞雙重標準的呼籲做了非常刺耳的評述，嘲諷這種呼籲是中國向法國表示同情時塞的『私貨』。文章猛烈抨擊中國新疆的民族政策，直接宣稱『新疆暴力更多的是由於受到無情的鎮壓』。」</p>
+<p><strong>私隱被公開　收死亡恐嚇</strong></p>
+<p>《環球時報》、《人民日報》等官方媒體隨後以「嚴重歪曲」、「胡說八道」、「反華行為」等措辭予以公開譴責。高潔的私人住址、照片也相繼在中國的新浪、126等網絡平台被惡意曝光，她本人甚至收到死亡恐嚇。</p>
+<p>高潔因此遭中國外交部多次傳喚，當局幾度要求她撤回文章及發表公開道歉。</p>
+<p><strong>大陸官媒歪曲文章內容</strong></p>
+<p>而高潔周五卻向RFI表示，是中國官媒歪曲了她的文章。《環球時報》文章中所批評的內容與她的報道的原文有出入。她說，他們所譴責的並不是她寫的內容，她當然拒絕為她所沒有寫的內容道歉。</p>
+<p>RFI報道，懂法語的讀者可以在高潔11月18日發表的文章中搜尋一下，不難發現文章從頭至尾都未出現環球時報所指的「私貨」這兩個字。不知環球時報這兩個字究竟指的是什麼？此外，文章也沒有環球時報列舉這一句子：「新疆暴力更多的是由於受到無情的鎮壓」。RFI指這句話倒是在高潔去年三月發表的文章中出現，但這是她引用的來自國際人權組織的評論。並非是出自她本人的評論。</p>
+<p><strong>高潔：北京少數民族問題立場愈趨強硬</strong></p>
+<p>高潔周五接受RFI採訪時表示，她認為中國官方對她的打壓同北京在少數民族問題上立場越來越強硬有關。這同維族學者伊利哈木•土赫題被判無期徒刑，知名律師浦志強因有關新疆的微博而被判刑都同出一轍。北京試圖以此向外界發出一個強烈的信號：中國政府在民族問題上容不得來自國內國外的半點批評。</p>
+<p>回應高潔被驅逐的消息，RFI引述法國文化部強調捍衛言論自由的重要性，並聲稱將繼續與中方斡旋對話。新觀察家週刊總裁Matthieu Croissandeau則表示：這是對新聞自由的難以容忍的攻擊，是對記者職業行為的束縛。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422915/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%B4%81/?category=18271" rel="tag">高洁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD%E6%96%B0%E8%A7%82%E5%AF%9F%E5%AE%B6/?category=18271" rel="tag">法国新观察家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/422900/" target="cdt-mirror">【网络民议】不收钱成了另类？贵圈好乱</a>
 </h2>
 <p><p><strong><a href="http://gd.sina.com.cn/news/m/2015-12-26/detail-ifxmxxsr3740651.shtml">南方都市报｜百优县委书记陈行甲 怒批官员讲话稿蹿红</a></strong></p>
@@ -480,87 +538,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-5/" target="cdt-mirror">【真理部】美食品药品管理局从天津公司产品检出氰化物</a>
-</h2>
-<p><p>关于美国食品药品管理局从天津天药公司产品外包装检出氰化物一事，各网站严格以我国食品药品管理总局和天津市政府发布信息为准，不炒作，不渲染。除统一安排外，外地媒体不到天津采访。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%82%A3%E4%BA%9B%E5%9C%A8%E8%B1%86%E7%93%A3%E4%B8%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%A6/" target="cdt-mirror">墙外楼｜那些在豆瓣上消失的书</a>
-</h2>
-<p><p>@陆大鹏Hans：《那些在豆瓣上消失的书》很有意思。豆瓣的自我审查很厉害。我译的《纳粹德国的腐败与反腐》的豆瓣条目页很荣幸地被豆瓣删了，更厉害的是，把我建的相应德文版条目页删了。尽管该书销售一直正常</p>
-<p>豆瓣网收录的图书条目应该说是相当全的（包括港台版、外文版），毕竟聚集了全国那么多的爱书人。一些书的好坏优劣，在那里查评价，还是公允的。但如今，在豆瓣上搜索查找一些书，会提示没有该书条目，或者“呃…你想访问的条目豆瓣不收录”。有些书的条目，是眼睁睁看着消失。</p>
-<p>这里头，东方出版社十多年前出的“现代稀见史料书系”，其他7册都有，却独没《延安日记》；章诒和作品，豆瓣没有《伶人往事》，却有同“等级”的《往事并不如烟》，这书在孔夫子网目前还能买到；杨显惠的“命运三部曲”，豆瓣收录了《夹边沟记事》《甘南纪事 》，却没有《定西孤儿院纪事》（几大网站可买到）；最近看到内地版《纳粹德国的腐败与反腐》豆瓣条目被删除了……</p>
-<p>01 |上海生死劫<br>
-郑念 著</p>
-<p>上海生死劫（又名《生死在上海》）是女作家郑念的一部自传，最早于1986年出版了英文版，随后该书被译为多种文字在各国出版。在书中郑念记述了从文化大革命开始到1980年代初出国这段时间的个人经历。从1966年上海红卫兵以革命的名义对她进行抄家和逮捕，她在看守所单人牢房长达六年半的拘禁过程，和她由于始终不承认各种指控，坚持自己无罪，而受到的监狱当局的种种迫害和她对此进行的抗争直到出狱。1973年她出狱后，得知自己的独生女儿郑梅平早已在自己入狱后不久受迫害而死，继而努力查找女儿死因的过程。</p>
-<p>她在文革中拒绝间谍的罪名并要求当局道歉，此书追述知识分子理想如何被政治粉碎，是根据作者亲身经历写下的回忆录而非小说。</p>
-<p>02 | 一滴泪（中文版）<br>
-巫宁坤 著</p>
-<p>一九五一年，芝加哥大学博士候选人巫宁坤受邀到北京燕京大学担任西语系教授。巫宁坤和当时很多知识分子一样，是爱国主义者，读左翼书刊（但对共产主义一窍不通），希望为民族贡献一分力量……被迫经历一场又一场无可逃脱的政治运动与一连串的政治学习，一九五七年，从美国回到祖国六年之后，巫宁坤被打成「右派」，送到偏远的北大荒去接受「劳动改造」，抛下年轻的妻子和幼儿。从此他被视为「人民的敌人」，文革期间，又被下放农村再教育，蹲「牛棚」，受尽凌辱、迫害和艰辛，长达二十二年。</p>
-<p>《一滴泪》为巫宁坤三十年的生活、受难和思想提供了生动而真实的记述，完整呈现中国知识分子从五○年代初至七○年代末的全幅图景。他让历史栩栩如生，因为每句话都可信；也因为不是控诉，不是呐喊，没有火气，读来更是感人肺腑。</p>
-<p>03 |牛鬼蛇神录<br>
-杨曦光 著</p>
-<p>《牛鬼蛇神录》是杨小凯1992年完成的一部著作，英文版名字是《囹圄中的精灵》，讲述了他在十年监牢生活中的亲历亲闻。与社会上同类题材的作品不同，该书不是讲作者自己经历的苦难风流，而是他作为一个敏感的观察者，忠实地记录下了一群“文革”囚犯的人生命运，是一部现场历史的著述。书中列出的主要人物有20多个，各具社会的某种典型性。</p>
-<p>杨小凯用客观而冷静的笔触记录下这些“囚禁中的精灵”的罪与罚、言与行、善与恶，以及国家机器实施“杀、关、管、教”的理由和施为，展示出社会背面另一个罕为人知的世界，进而透视整个社会历史的问题。</p>
-<p>04 | 定西孤儿院纪事<br>
-杨显惠 著</p>
-<p>定西专区是甘肃省1958年到1960年饥荒的重灾区，灾难的三年过去，定西专区紧急成立了一个专署儿童福利院，接纳了几百孤儿。同期，定西专区的各县、镇、重灾县的各人民公社都成立了儿童福利院或是“幼儿园”。这些大大小小的儿童福利院收容了大约五千左右的孤儿。 杨显惠在本书中以忠实史料事实和当事人陈述事实的基础上，创作出一个个具有高度典型性和独特性的作品。完全是白描的手法，纪实性的语言，平实的语调，将一幕幕饥饿与死亡的惨烈情境撕裂在人们眼前。</p>
-<p>05 | 伶人往事<br>
-章诒和 著</p>
-<p>章诒和虽然以《往事并不如烟》洛阳纸贵， 但她最为人津津乐道的，仍然是她对中国艺人的写作：中国艺人，是奇特的一群，在创造灿烂的同时，也陷入卑贱。他们的种种表情和眼神都是与时代遭遇的直接反应。尚小云、言慧珠、杨宝忠、叶盛兰、叶盛长、奚啸伯、程砚秋等等，已因为章诒和的《伶人往事》深入读者之心。</p>
-<p>06 | 江上的母亲（台版）<br>
-野夫 著</p>
-<p>该书以其中收录的那篇催得无数人泪下的成名作——《江上的母亲》命名，并以此开篇。这不仅显示出作者对母亲的纪念初衷，更暗示了这本散文集的悼念意义。亲人的故事占了此书很大比重，而他们无一例外都已经逝世，最令人唏嘘的是，因为同在一个家族，他们有着共同悲怆的命运。因此，与其说这是土家野夫的一部回忆性质的散文集，不如说是他泣血而成的一首家族挽歌更为贴切。</p>
-<p>07 | 巨流河（台版）<br>
-齐邦媛 著</p>
-<p>巨流河，位于中国东北地区，是中国七大江河之一，被称为辽宁百姓的「母亲河」。南滨渤海与黄海，西南与内蒙内陆河、河北海滦河流域相邻，北与松花江流域相连。这条河古代称句骊河，现在称辽河，清代称巨流河。影响中国命运的「巨流河之役」，发生在民国十四年，当地淳朴百姓们仍沿用著清代巨流河之名。</p>
-<p>本书的记述，从长城外的「巨流河」开始，到台湾南端恒春的「哑口海」结束……作者齐邦媛的父亲齐世英──民国初年的留德热血青年，九一八事变前的东北维新派，毕生憾恨围绕着巨流河功败垂成的一战，渡不过的巨流像现实中的严寒，外交和革新思想皆困冻于此，从此开始了东北终至波及整个中国的近代苦难。作者的一生，正是整个二十世纪颠沛流离的缩影。</p>
-<p>08 | 延安日记（简体版）<br>
-彼得．弗拉基米洛夫 著</p>
-<p>《延安日记》作者彼得．弗拉基米洛夫，苏联人，1942年至1945年，以共产国际驻延安联络员兼塔斯社记者身分，在延安工作。作者以日记形式，根据他的观点，记述了延安的政治、经济与文化等各方面的问题。全书以抗日战争时期中共与苏共的关系为背景，记述了中共的整风运动、中共的第七次全国代表大会；对中共与当时驻延安的美国军事观察组织的接触以及中共与国民党的关系等问题，均有评述。</p>
-<p>09 | 邓小平时代（港版）<br>
-（美）傅高义 著</p>
-<p>哈佛大学傅高义教授倾十年心力完成的权威巨著《邓小平时代》，是对邓小平跌宕起伏的一生以及中国惊险崎岖的改革开放之路的全景式描述。作者对邓小平个人性格及执政风格进行了深层分析，并对中国改革开放史进行了完整而独到的阐释。书中涵盖丰富的中外档案数据和研究成果，以及为数众多的作者独家访谈。对中美建交、华国锋历史评价、改革开放的幕后曲折、邓小平和诸多邓时代关键人物的关系、香港问题、邓小平南巡等重大议题均有详述及剖析。本书既具学院研究的严谨专精，又对中国现实政治与事理人情有透彻把握，被誉为邓小平研究 的”纪念碑式”著作。</p>
-<p>10 | 文化大革命的起源（内地版）<br>
-（英）麦克法夸尔 著</p>
-<p>本书从政治、经济、文化和外交关系等方面，考察了1956-1960年间中国的历史进程，分析了中国党内分歧的由来和发展，对“文化大革命”起源作出了判断和解释。</p>
-<p>11 | 党史笔记：从遵义会议到延安整风<br>
-何方 著</p>
-<p>中国著名国际问题、中共党史专家何方先生穷6年之力完成的中共党史著作，突破了原有的官方党史体系、框架。何方16岁来到延安、亲历过整风和抢救运动，又做过十几年的张闻天助手（从东北局到驻苏联使馆、外交部），与周恩来、陈云、高岗、李富春等高级领导人有过近距离的直接接触，他对那段早年的历史有许多切身体会，但他的《党史笔记》不是停留在个人记忆上，更多的还是从大量的史料出发，旁征博引，并从中梳理出真实可信的历史。</p>
-<p>12 | 二十世纪中国政治<br>
-邹谠 著</p>
-<p>《二十世纪中国政治》是作者在不同时期的论文、记者谈访录、演讲稿编在一起的文集，所探讨的问题也不尽相同，但无一不围绕作者毕生冥思苦想的两个问题，一是如何理解二十世纪中国这部极端复杂的历史；二是中国如何向民主过渡。</p>
-<p>作者在西方政治学界的理论氛围从事研究工作逾半个世纪，属美国学府中的典型学者，但他又有自己的中国故事，其父邹鲁是国民党元老，著有《中国国民党史稿》。宏观历史与微观行动的分析方法相结合，是邹谠治学的一大特色。</p>
-<p>13 | 乌托邦运动——从大跃进到大饥荒<br>
-林蕴晖 著</p>
-<p>本书是金观涛主持、沈志华等人撰写的五百多万字、十卷本《中华人民共和国史》的第四卷。究竟mzd提出的超英赶美战略，如何在中共高层取得统一，又何以得到基层群众的积极回应？一再缩短的赶超时间表是如何编织出来的？在发动大跃进的过程中，有多少中共省级领导人被打成了右派分子？1958年的中共军委扩大会议为什么要拿粟裕开刀？1959年在庐山罢黜彭德怀的真实原因何在？造成大饥荒的主要原因是天灾，还是人祸？大饥荒的非正常死亡人数究竟有多少？为挽救危机，中共中央又采取了哪些措施？本卷依据第一手资料，作出详尽叙述和剖析。</p>
-<p>14 | 费正清论中国：中国新史（中文版）<br>
-费正清 著</p>
-<p>费正清（John King Fairbank 1907-1991）是美国当代著名的中国问题研究专家，《中国新史》是他的最后一部著作，在完成这部著作的两天之后，费正清便与世长辞了。全书分为四大部分：君主专制的兴起、中华帝国的晚期、中华民国、中华人民共和国。</p>
-<p>15 | 哈维尔文集<br>
-哈维尔 著</p>
-<p>人们说真话，动因是什么？哈维尔回答说：“良心”。他认为政治不应仅仅被理解为对权力的欲望和追逐，或任何控制人的权术和伎俩。也许阴谋可以使得某个人登上 某个宝座，但这也就是他成功的顶峰了，因为不可能以阴谋改进和推动社会。在哈维尔看来，“政治是求得有意义的生活的一种途径，是保护人和服务人的一种途径 ”。“我们必须相信我们良心的声音，甚于所有抽象推论的声音，不去捏造任何企图超越于良心的呼声上的责任”。换言之，人们有权拒绝为适应政治需要而压抑自 己内心深处感到的道德要求。</p>
-<p>16 | “砸烂旧世界”──文化大革命的动乱与浩劫（1966-1968）<br>
-卜伟华 著</p>
-<p>本书是金观涛主持、沈志华等人撰写的五百多万字、十卷本《中华人民共和国史》的第六卷。本卷简明地描绘出1966年5月至1969年4月文化大革命的全景图像与过程：从1965年底批判《海瑞罢官》至1969年4月召开九大期间，文化大革命从发动到形成高潮，从夺权到天下大乱，到全国各省、市、自治区成立革命委员会，到最后召开九大。作者坚持实事求是的原则，一切从史料出发，力求还历史之本来面貌。<img src="http://chinadigitaltimes.net/chinese/files/2015/12/0981grey.gif" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%82%A3%E4%BA%9B%E5%9C%A8%E8%B1%86%E7%93%A3%E4%B8%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E7%93%A3/?category=18271" rel="tag">豆瓣</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -572,7 +549,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -582,5 +559,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

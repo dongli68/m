@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,95 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/422900/" target="cdt-mirror">【网络民议】不收钱成了另类？贵圈好乱</a>
+</h2>
+<p><p><strong><a href="http://gd.sina.com.cn/news/m/2015-12-26/detail-ifxmxxsr3740651.shtml">南方都市报｜百优县委书记陈行甲 怒批官员讲话稿蹿红</a></strong></p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6204ece1gw1ezcuhxb56dj20f00j9mzh.jpg" rel="attachment wp-att-422908"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6204ece1gw1ezcuhxb56dj20f00j9mzh.jpg" alt="6204ece1gw1ezcuhxb56dj20f00j9mzh" width="315" height="405"></a></p>
+<p>“工程建设岂能成为官员的唐僧肉？”昨日，湖北巴东县委书记陈行甲在全县工程建设整治大会的发言稿在网上蹿红。这份9000余字的发言稿措辞严厉，提及多个官员在工程项目上的贪污腐败行为，并点名批评包括原县委副书记在内的多名官员。</p>
+<p>[…]“我是不收钱的县委书记，没想当大官，当了全国百优县委书记，也不会收敛锋芒等待提拔，会一如既往敢做敢言。”</p></blockquote>
+<p>然而…<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%87%E5%BA%86%E8%89%AF.jpg" rel="attachment wp-att-422907"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%87%E5%BA%86%E8%89%AF.jpg" alt="万庆良" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/万庆良-212x300.jpg 212w, http://chinadigitaltimes.net/chinese/files/2015/12/万庆良.jpg 524w" sizes="(max-width: 524px) 100vw, 524px"></a></p>
+<blockquote><p>万庆良：“我工作了20多年，还没买房，现在住的是市政府的宿舍，在珠江帝景130多平方米，每月交租600元，当然，政府会补贴一部分房租。”</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/06/%E5%8F%8D%E8%B4%AA%E5%B7%A8%E6%98%9F%E5%91%A8%E6%B0%B8%E5%BA%B7.png" rel="attachment wp-att-395421"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/%E5%8F%8D%E8%B4%AA%E5%B7%A8%E6%98%9F%E5%91%A8%E6%B0%B8%E5%BA%B7.png" alt="反贪巨星周永康" width="450" height=""></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/3318505591" target="_blank">鹏tanks</a>：徐才薄：我最大的缺点就是清廉！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/1298260145" target="_blank">mlqc001</a>：赶快把这人抓起来，他的潜台词竟然是说别的县委书记都收钱！<img title="[抓狂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/crazya_org.gif" alt="[抓狂]"></p>
+<p><a href="http://weibo.com/1218338990" target="_blank">传达室的王大爷</a>：光捡钱了……<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/nicotang" target="_blank">YuYeTanG-OneTwoThree</a><i title="微博达人"></i>：雾霾里有纯净？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@昵称不能为空yc：这个需要大家监督才能证实。万庆良之前还高调述廉，说自己租房子住，谁知道贪污1.1亿。。。</p>
+<p>@我去年买了个表110：不收钱，收金条、汽车、股票、房子、女色。。。。</p>
+<p>@武东木文4698：这哥们儿要卡，记住了，送卡</p>
+<p>@SiuJiYung：出事之前，它们都是这样评价自己的。</p>
+<p>@奢望free：本来应该的事情，在党的领导下，清廉成了奢侈</p>
+<p>@尼康D60：万庆良每次会议都这样说……哈哈</p>
+<p>@把想念藏起来：你的意思是每个县委书记都收钱</p>
+<p>@ad2000：对老百姓很正常的道德标准，对你们当官的，就成了千里挑一的优秀品质。</p>
+<p>@仰望宇空：没有用的。现在谁信啊。</p>
+<p>@Taylor_Y：君不见每一个贪官上任时都是嘴上清如水吗？</p>
+<p>@蛤粉笔记本：呵呵呵，老兄您已经被全国人民盯住了，好自为之！</p>
+<p>@兵a阳：别吹了，指不定哪天你就站在审判台上痛哭流涕说对不起党和人民，谈四个定力</p>
+<p>@苍耳在冬季：不收钱就算优秀了 原来那些没评上的都收钱了</p>
+<p>@CXCC-Director_Fu：我现在就怕这些公务员说这样的话~</p>
+<p>@忘尘D：徐才厚：我最大的缺点就是廉洁。</p>
+<p>@长海001：这对于一个官员来说是应该的，正常的，竟然要上新闻？</p>
+<p>@亮仔诶：对于优秀县委书记的宣传开始加码了，大大的嫡系部队开始集体性地升一格</p>
+<p>@aboa007：【没查】之前 ，人人【都】是【焦裕禄】。查了都是【和珅】。</p>
+<p>@西瓜和酱油：不收钱成了另类？贵圈好乱</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/422900/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">官员作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C/" target="cdt-mirror">东网｜吴戈：平安夜是怎么被搅黄的</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151226000316006-1226_05411_001_01p.jpg" alt="bkncn-20151226000316006-1226_05411_001_01p" width="551" height="393" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151226000316006-1226_05411_001_01p-300x214.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151226000316006-1226_05411_001_01p.jpg 608w" sizes="(max-width: 551px) 100vw, 551px"></p>
+<p>当前中国社会节日过多、过于商业化，圣诞节也不例外，教友们估计也看不上那么多无神论者为了促销和约炮瞎凑热闹。但是，哪怕非信教社会只是借圣诞当个幌子，为什么没看上别的宗教的节目，比如佛诞，显然还是与西方文明在现实世界的繁荣和巨大文化影响有关。文明从来就不断交融，哪怕形式不那么严谨甚至有些儿戏（比如埃塞俄比亚人画的耶稣就是个黑人），只要不像IS那样让历史倒退，都完全可以视为一种应予尊重和包容的自由。在这种包容中，情人节和七夕、圣诞和春节，哪怕双十一双十二这种生造的商业节日，都由他去好了。</p>
+<p>然而今年的圣诞暗流涌动，严重的雾霾并非最大的搅局者，圣诞节正在成为意识形态斗争的新阵地，着实让人震惊。</p>
+<p>首先是长沙的一些湖南大学学生身着汉服，到市中心广场与借圣诞促销的商业活动打对台戏。没人说圣诞不能宣传汉文化，但他们的牌子公然以“中国人不过外国节”为口号，显然就略为干涉了他人的自由。</p>
+<p>当然，这比起广州一批民族主义者深入黑人聚居区，向中国房东散发传单，号召将黑人赶出中国去，还算温和。后者已完全进入了种族歧视的境地。</p>
+<p>北京这次平安夜前发生的一幕则不负政治首都的高大上，直接以美英使馆向本国人发出警告称三里屯可能有针对外国人的袭击，中国也以王牌反恐特战队将这个圣诞商业地标围个剑拔弩张，将平安夜搅成了恐怖夜、冷清夜。</p>
+<p>反恐事关人命，即使美英得到的恐袭线索来自中方，也应允许有一定虚警率，而且恐袭者因已有预警而放弃的可能也的确有，有关的来龙去脉政府也的确可能为避免泄露反恐情报来源而不予公开。</p>
+<p>即使这样，如果在一个责任政府和新闻自由的社会，治安机构恐怕有责任多解释几句，至少应对社会有必要的心理安抚。但北京的现实是，绝大多数公众对首次遇到的大型商场、超市黄色预警（只比正常高一级）意味着什么毫无概念，笔者附近一家外资大型超市25日罕见地在节日营业时间大规模重新布置货架，几乎无法采购。对三里屯的风声鹤唳，团派的北京青年报的政治微信公号“政知局”信誓旦旦地称预警“那是相当地有用”，还以14年前的“9·11”后美国使馆也发布过一次，企图证明这非常正常。</p>
+<p>如果现在就说有司此举意在打击圣诞文化渗透，毕竟还有阴谋论之嫌，但北京市各学校接到管理当局明确指示，不得举行圣诞活动，甚至必须将圣诞树叫作“新年树”，已经不是第一年这样了。</p>
+<p>教育当局的理由，居然是国家实行“教育与宗教分离”原则，可是<a href="http://chinadigitaltimes.net/space/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89">共产主义</a>对中国青少年从小到大几十年的灌输，难道不是一种<a href="http://chinadigitaltimes.net/space/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%B7%A5%E4%BD%9C">意识形态</a>？而中国社会大多数家庭对圣诞的关注度，不过停留在对一种外国文化习俗的欣赏和商业消费上的节日气氛，过圣诞而不信基督的多的是，当局在慌什么？</p>
+<p>慌什么？大清正脉维系，义和团的反洋教、仇外不也差点立下大功吗。共产主义药效渐失，包上民族主义的糖衣，突然发现有奇效。君不见北京有几条地铁线路车箱内的液晶广告屏自9月3日以来，除了<a href="http://chinadigitaltimes.net/space/93%E9%98%85%E5%85%B5">抗战阅兵</a>实况轮番轰炸，至今没有任何别的内容吗？有的线路还怕招人反感，关掉了解说音量，有的则是声如洪钟地强行灌输爱国基情。</p>
+<p>当这个国家的公众分裂成接受西方文化和仇外反西方两大阵营（爱看阅兵的和厌恶看阅兵可能将会是其标志），义和团死灰复燃的希望也就日益明朗了。</p>
+<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E8%AF%9E/?category=18271" rel="tag">圣诞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E8%AF%9E%E8%8A%82/?category=18271" rel="tag">圣诞节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E6%96%87%E5%8C%96/?category=18271" rel="tag">西方文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E9%AB%98%E6%A0%A1%E6%8E%92%E6%9F%A5%E5%B8%88%E7%94%9F%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0-%E5%AE%88%E6%9C%9B%E6%95%99%E4%BC%9A%E5%A4%9A/" target="cdt-mirror">自由亚洲｜北京高校排查师生宗教信仰 学生信徒被约谈</a>
+</h2>
+<p><p><em>原标题：北京高校排查师生宗教信仰 守望教会多位学生信徒被约谈</em></p>
+<p>北京等地的高等院校在今年圣诞节前夕，向研究生导师及学生发出问卷调查，排查他们的宗教信仰情况。北京守望教会一位基督徒说，他们一个 聚会点的学生基督徒不久前被当局约谈。另一位基督徒称，她在合肥就读过的一所大学，也有校方排查学生宗教信仰的情况。日前，中国大陆各市教育局对幼儿园发 出通知，要求将“圣诞树”改称“新年树”。</p>
+<p>据总部在美国德州的基督徒人权机构对华援助协会新闻网消息，在2015年圣诞节前夕，中国多所大学对在校师生进行排查，当局以问卷方式调查他们的宗教信仰。据基督徒在网络聊天群转发北京工商大学校方对师生的问卷调查称，“为贯彻落实国家《宗教事务条例》，根据校党委工作安排，学校拟对在校教职工及学生涉及宗教情况进行统计：1.请各位老师回复本人是否信仰宗教（如答复“是”，请您回复信仰宗教类别）；2.如您担任研究生导师，请您统计本人所指导的研究生是否有涉教、信教情况，并将统计情况于本月23日下班前通过短信、飞信、微信、邮件、电话等形式回复研究生辅导员。若有涉教情况请务必回复。”</p>
+<p>该网站还发出一份来自北京某高校党委研究生工作部于12月21日发出的通告，名为“关于在研究生中排查守望教会参与者的工作方案”，该文要求在一周时间内，对所有参与守望教会活动的研究生进行排查，并排查研究生党员中有宗教信仰的情况。对此，守望教会一位匿名的基督徒25日告诉本台，该教会位于北京房山的聚会场所，有多位信徒被当局约谈，对方试图从信徒口中了解教会的情况。他说，北京某高校排查守望教会的通告是真的：</p>
+<p>“肯定是真的，而且主要是针对守望教会。他（政府方人员）就问你 是不是在守望教会聚会，有没有参加。守望教会在房山那边有一个大学城，也是一个分点，在那边聚会的学生受到了盘查、约谈。我就想，会不会是北京理工大学的 （学生），是校方发了这个文件，去盘查研究生中是否有人参加守望教会的聚会”。</p>
+<p>北京某高校发出的该份材料称，守望教会未经政府合法登记，不是合法的宗教团体，其组织在室内聚会和户外聚会是非法的宗教活动，不受法律保护，政府将依法取缔。排查时间由12月21日至27日。28日将筛选情况上报研究生工作部。</p>
+<p>北京一位大学研究生同学对记者说，北京的其他几所大学也在排查学生的宗教信仰情况：</p>
+<p>“我只是听他们在说，上级下文件到班主任，班主任要询问每一个学生。问你是否有宗教信仰，你有的话，就问你信主的一些状况”。</p>
+<p>记者：北京工商大学最近发了一个通知，统计研究生是否有信教情况。</p>
+<p>回答：对，是。我的导师也知道，现在可能是针对高校。我在合肥的高校，不止我就读的一家，很有可能北京的高校也不止工商大学一家。</p>
+<p>另外，北京市教育局向幼儿园发出通知，称不准开展与“圣诞节”相关的节日活动，不准装饰圣诞树，一律叫“新年树”。 并安排教育局领导暗访监督。还称，圣诞节虽起源于基督教，但事实上已演化为一个大众参与的世俗性节日，已具有全民性普世性质。一位匿名信徒告诉记者：</p>
+<p>“教育部有那么一个通知，反正是针对圣诞节。对幼儿园的小孩子，好像是说不许搞圣诞节”。</p>
+<p>据北京及广州等地的信徒称，今年的圣诞节，他们过得非常谨慎及小心翼翼，为避免受到当局的骚扰，从往年的上百人聚会分散为二、三十人的小规模聚会。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E9%AB%98%E6%A0%A1%E6%8E%92%E6%9F%A5%E5%B8%88%E7%94%9F%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0-%E5%AE%88%E6%9C%9B%E6%95%99%E4%BC%9A%E5%A4%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%90%AC%E4%B9%A0%E6%80%BB%E8%AE%B2%E8%B5%B5%E5%AE%B6/" target="cdt-mirror">【习总日记】 听习总讲赵家</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，12，25）<br>
@@ -475,76 +561,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C21%E4%B8%96%E7%BA%AA%E6%8A%A5%E7%B3%BB%E6%80%BB%E7%BC%96%E6%B2%88%E9%A2%A2%E8%8E%B7%E5%88%91-%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AA%92%E8%B7%9F%E9%80%9A%E7%A8%BF/" target="cdt-mirror">BBC｜21世纪报系总编沈颢获刑 中国网媒跟通稿</a>
-</h2>
-<p><p>上海浦东新区法院周四（24号）对广东21世纪报系总编沈颢“敲诈勒索”等案作出一审判决。法院判其有期徒刑四年，并处罚金人民币6万元。</p>
-<p>沈灏还是21世纪传媒股份有限公司总裁，隶属广州南方报业集团的这家公司经营《21世纪经济报道》等刊物与网站，法院对该公司处罚948.5万元。</p>
-<p>周三（23号）中国媒体人的社交媒体平台传出关于沈灏案的报道“通知”，指令中国各网站“严格按照新华社通稿报道，不炒作，不派记者采访”。</p>
-<p>而周四中国网络媒体对此案的报道如出一辙，全是新华社通稿。中国中央电视台在宣判后不久播出沈灏在庭上鞠躬道歉的片段。</p>
-<p>浦东新区法院周四透过官方微博发布通知称，该系列案件中的其他案件今天也将陆续作出一审判决。</p>
-<p>沈灏获罪</p>
-<p>沈灏因“犯敲诈勒索罪、强迫交易罪、职务侵占罪”获刑，但法院称其“具有自首、立功情节”，所以数罪并罚。</p>
-<p>21世纪传媒股份有限公司因“强迫交易罪”，被罚人民币948万5千元。</p>
-<p>广东21世纪传媒股份有限公司于2010年9月整体改制而来，控股股东为广东南方报业传媒集团有限公司，注册资本为人民币6900万元人民币。</p>
-<p>2014年9月25日下午，21世纪报系总编沈灏等30人被警方带走。而21世纪报系旗下的21世纪网则被吊销所有网站资质，人员全部遣散，公司注销。</p>
-<p>2015年8月20日，上海市浦东新区人民检察院向浦东新区人民法院提起了公诉。</p>
-<p>央视新闻在宣判后不久播出了沈灏在庭上的最后陈述。</p>
-<p>沈灏说：“我先表三个态吧。第一，对公诉人刚才陈述的21世纪传媒单位犯罪的事实、罪名、证据，没有任何的异议，没有任何的意见。”</p>
-<p>“第二，单位犯罪，我作为公司的总裁，负有不可推卸的领导责任。我也愿意承担法律责任。”</p>
-<p>“第三，我向因单位犯罪而受害的企业赔礼道歉。如果审判长可以（允许），我也希望能够让我站起来鞠一个躬，表示我的歉意。”</p>
-<p>审判长回以一句“可以”，沈灏起立，面向审判长鞠躬，然后坐下。</p>
-<p>“新闻敲诈”</p>
-<p>2014年9月3日中国警方宣布侦破一起“以舆论监督为幌子、通过有偿新闻非法获取巨额利益的特大新闻敲诈犯罪案”，逮捕了涉案的21世纪网主编等8名犯罪嫌疑人。</p>
-<p>警方指责上述人士在一些公司上市发行新股之际，通过所谓“正面报道”夸大事实、掩盖公司问题，而通过所谓“负面报道”进行攻击敲诈。</p>
-<p>该案发生后引起广泛关注，媒体业人士表示，此案反映中国缺乏良性舆论监督环境和体系的问题。</p>
-<p>另外有消息显示，《理财周报》多人也被带走调查。资料显示，《理财周报》也是21世纪报系重要成员。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C21%E4%B8%96%E7%BA%AA%E6%8A%A5%E7%B3%BB%E6%80%BB%E7%BC%96%E6%B2%88%E9%A2%A2%E8%8E%B7%E5%88%91-%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AA%92%E8%B7%9F%E9%80%9A%E7%A8%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93/?category=18271" rel="tag">21世纪经济报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E7%81%8F/?category=18271" rel="tag">沈灏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B7%B4%E4%B8%A2%E8%8D%89-%EF%BC%9A%E9%98%B2%E9%9B%BE%E9%9C%BE%E7%BA%A2%E9%A2%86%E5%B7%BE%E7%B3%BB%E6%B3%95/" target="cdt-mirror">巴丢草 ：防雾霾红领巾系法</a>
-</h2>
-<p><p>#巴丢草 【防雾霾红领巾系法】刚刚完成教育部委托的防治 #雾霾危害 #红领巾 新系法示意图，请各位朋友积极下载，打印并张贴给所有家长，老师，学校及其他青少年活动场所！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%9B%BE%E9%9C%BE%E5%A4%A9%E7%BA%A2%E9%A2%86%E5%B7%BE%E7%B3%BB%E6%B3%95-%E6%8B%B7%E8%B4%9D.png" rel="attachment wp-att-422683"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%9B%BE%E9%9C%BE%E5%A4%A9%E7%BA%A2%E9%A2%86%E5%B7%BE%E7%B3%BB%E6%B3%95-%E6%8B%B7%E8%B4%9D.png" alt="雾霾天红领巾系法 拷贝" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/雾霾天红领巾系法-拷贝-219x300.png 219w, http://chinadigitaltimes.net/chinese/files/2015/12/雾霾天红领巾系法-拷贝.png 747w" sizes="(max-width: 747px) 100vw, 747px"></a></p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B7%B4%E4%B8%A2%E8%8D%89-%EF%BC%9A%E9%98%B2%E9%9B%BE%E9%9C%BE%E7%BA%A2%E9%A2%86%E5%B7%BE%E7%B3%BB%E6%B3%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BD%93%E7%81%BE%E9%9A%BE%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E9%A2%82%E8%B5%9E/" target="cdt-mirror">湖畔｜西木：当灾难成为一种颂赞</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/04/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%A4%9A%E9%9A%BE%E8%85%A5%E9%82%A6.jpg" rel="attachment wp-att-289995"><img src="http://chinadigitaltimes.net/chinese/files/2013/04/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%A4%9A%E9%9A%BE%E8%85%A5%E9%82%A6.jpg" alt="巴丢草：多难腥邦" width="400" height=""></a><br><em>（“多难腥邦” by 巴丢草）</em></p>
-<p>“世界再次见证了中国救援的速度”，这个国家的官方电视台的男主持人一脸兴奋地向他的观众宣称，接下来的画面是一群人在鼓掌，一个领导模样的人上前紧紧握住刚从废墟中被抬上来的伤者的手，这个伤者脸上没有一丝表情。那个颤抖的声音还在继续，它似乎要用这种带有浮夸的方式向人们证明，这是一个多么感人，多么激动人心的场面。</p>
-<p>但在我看来，这又是一次把丧事办成喜事的拙劣表演，一次用颂赞掩盖痛苦、真相的视觉盛宴。这样的盛宴自我懂事以来，已不知经历过多少回，而这次的舞台是在一个叫深圳的地方。</p>
-<p>镜头之外是什么呢？那些失去生命的工友的家属将如何面对镜头里的“幸福场面”？他们的痛，他们的苦，他们的委屈又有多少镜头愿意去解读？如果一场应该引起反思的灾难再次演变成了一场“众志成城”的颂赞，那么它将会以更多的灾难出现在我们当中。</p>
-<p>但这样的灾难其实是可以避免的，地质灾害专家发现，发生坍塌的山体是人工堆土，原来山体并没有滑动。垮塌地点属于淤泥渣土收纳场，主要堆放渣土和建筑垃圾。由于堆积的量比较大，又恰逢下了雨，渣土就向附近的工业园区冲下来了，发生滑坡的山体并不高，但是近两年附近的基建挖出的渣土都堆在了这儿，一滑坡就全部都冲下来了。有人反映说，在事故发生之前两年就不断有群众向有关部门进行反映，但是都没有引起足够的重视。</p>
-<p>因为这样的不重视，我们的民众承担了太多的伤痛：天津爆炸、青岛爆炸、长江游轮倾斜，还有无数起大大小小的矿难，这次又是深圳的山体滑坡。画面里的被救工人，他们充满了对政府的感激，在他们还有些惊恐的脸上，我看不到愤怒，也看不到对灾难原因的质疑。我猜想，在他们的意识里，质问作为一项基本权力这样的概念是不存在的。</p>
-<p>政府将自己装点成那个高高在上、不可一世的“大老爷”，它以”颂赞”的方式告诉民众，服务你们不是它的义务而只是它的善举，因此你们要感恩戴德，而不是质问。政府在这次灾难中到底该承担什么样的责任，或许只能作为私下的谈资了。但如今，怕是这样的谈资也可能会成为招致牢狱的原因，对此，我们又怎么能去过多地责备他们呢，毕竟这也算是一个“中国特色”。</p>
-<p>一个世纪前，以陈独秀、胡适、鲁迅为代表的一批知识分子，开始认识到要改变中国的落后面貌，就必须从改造中国人的国民性开始，他们举起“新文化”大旗，试图让“德先生”和“赛先生”来教化尚未开智的民众。可是，我悲观地看到，一个世纪后，现在的中国知识分子依旧在呼喊开启“民智”，而鲁迅笔下用革命者的血做人血馒头的“愚民”，在当代的中国得到了最完整的延续。我突然意识到，经历了一个世纪的变革与动荡，在无数次灾难中存活下来的中国人，仍然“饮着”德赛两位先生的血，他们还在原地踏步。</p>
-<p>真的很和谐，关于深圳山体滑坡的新闻扑面而来，我看不到更多的“杂音”。所有媒体似乎更愿意将它看成是一场全民狂欢的盛宴，而不是一场带来痛苦的人间悲剧。纸质媒体不惜版面成篇累赘地报道，字里行间充满了对这次“大营救”的赞颂；而电台、电视台的主持人和记者们，则用了看足球赛才有的高昂而充满激情的语调在一次次地呼喊着“这是生命的奇迹”“这是中国救援的奇迹”；网络媒体也不甘落后，它们利用自身优势，以最快的速度发布获救者人数，用最全面的信息勾勒出一幅惊心动魄、感人肺腑的营救场面。</p>
-<p>当然，它们少不了会煽情一把，将被救工友与亲人拥抱的幸福、官员看望伤者的亲切，用最好的角度，最唯美的画面展示在首页。也许它们也会连接一两条“杂音”，但通常它们很难被发现。《V字仇杀队》里的大头领，为了掩盖掉V字怪客对威权的挑战，下令所有报纸，所有电视台，将所有V字怪客做下的破坏事件说成是恐怖袭击。于是，真相就这样被淹没在谎言中。</p>
-<p>在过去的两周中，我一听到“奇迹”与“中国速度”就感到厌倦，就像之前“中国特色”这个词给我的感觉，它们甚至令我产生了生理上的不适。许知远在《“大国崛起”厌倦症》一文中提到，信息的繁荣与泛滥，带来了两种后遗症：容易厌倦和容易遗忘。他举例说，在小说《1984》中，乔治·奥威尔谈到了极权主义者通过删减词汇来控制人们的思想，词汇的减少限制了所表达的深度与广度。而现在，技术革命所带来的传播方式，可以高密度与高频率地重复同一种思想、同一个词汇，它的结果多少有点像王小波曾经描绘过的那个前苏联外交官，在连续看了两百场《天鹅湖》后，每当听到柴科夫斯基的音乐，他就烦躁不安。</p>
-<p>这样的不适让我开始有意地远离媒体，远离新闻，我像这个国家的大部分人一样，开始习惯于这块土地上每天都在上演的“戏剧”。这种漠不关心渐渐成了一种冷漠，它最终演变成一种道德上的恐惧。如今，我经常心生不安，它来源于一种面对灾难时的无力感。一直来，我们的政府以“维稳”为主，只要是与此不一致的行为，或者言论都会被以“破坏安定局面”为由而“和谐”掉。那么，在死伤众多的灾难面前，不管是什么原因造成，政府都会以“中国的速度”将其引向一场充满“感恩的心”的颂赞，我们只好无力地面对幸福的“眼泪”而拍拍脑袋说：哦，又灾难了！</p>
-<p>我们这个民族是如此容易陷入集体的狂欢，就在40年前，一场疯狂而愚昧的“革命”，让这个国家深受其害，但到了现在，我们大部分人已经将它的灾难性忘记了，甚至是亲身经历过的人也是如此，他们写出各种回忆录，各种小说，拍出各类电影来证明那个时代的“浪漫色彩”，他们轻而易举地将自己抛进一场思想的“狂欢盛宴”，而我认为，这样的狂欢是无耻的，是对历史赤裸裸地的背叛。</p>
-<p>这种思想的“狂欢盛宴”当然也是我们的特色，在描述灾难时，我们太喜欢拿别人的“水生火热”来抨击，而拿自己的“和气祥和”来颂赞了。也许你还记得2008年的那场夺走了十几万人的大地震，现在回想起来，那些因学校质量问题而死去的孩子，那些为了救出孩子而空手刨挖废墟的父母，那些因愤怒而、上访讨说法而无理被抓被判刑的家长们，我们还记得多少？</p>
-<p>是的，我们已经习惯于这种能够带来暂时幸福的狂欢了，在政府有意开设的“盛宴”中，我们乐于享受，不假思索地接受所有的“真相”，不光是深圳的真相，还有那个“硬汉”的真相。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BD%93%E7%81%BE%E9%9A%BE%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E9%A2%82%E8%B5%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9/?category=18271" rel="tag">这是一个奇迹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB/?category=18271" rel="tag">深圳山泥倾泻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -556,7 +572,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -566,5 +582,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

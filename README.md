@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E4%B8%8E%E5%88%98%E6%BA%90%E8%B0%88%E6%AF%9B%E5%88%98/" target="cdt-mirror">【习总日记】 习总与刘源谈毛刘</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，12，26 ）</p>
+<p>今天是毛主席122周年冥诞。找来刘源一起吃饭，谈论毛主席和刘源的父亲刘少奇。</p>
+<p>习：刘源，你是怎么理解历史悲剧？</p>
+<p>刘：对家母的回答，当时我也想不通。我问家母，难道党就不能问毛主席的罪吗？母亲回答说，儿子，你父亲贵为国家主席，位列党内第二把手，毛主席的接班人，所以党内党外才如此关注他的悲剧。你想想，若你父亲只是一个地方干部，甚至是一个普通党员，谁会关心他的生死。你也知道，光死于文革之手的各级干部数以万计，死于文革的普通党员和人民群众更是千万计。所以我只能说，这是历史悲剧，不能怪罪于毛主席一人。</p>
+<p>习：我父亲平反后，也是有类似的看法。这本账无法算。因为无论怎么算，算到最后一定会落到每一个共产党员头上，尤其是如你父亲和我父亲，这些追随毛主席闹革命的无产阶级革命家头上。</p>
+<p>刘：有人说刘源啊，共产党对你而言有杀父之仇，你怎么还无耻地继续与共产党为伍。杀父之仇难道你忘记了吗？</p>
+<p>习：是啊，自新中国成立后政治运动一波接一波，历次运动都是由党发动杀人无数。若追究起来，党的高级领导干部包括我们的父亲，或多或少都背负血债。所以，也只能用历史悲剧来解释。</p>
+<p>刘：你父亲受迫害早，血债也少。我父亲跟毛主席跟得紧，地位高，血债也多。</p>
+<p>习：都是革命党，闹革命就是杀人。只可惜建国之后，还如此疯狂地搞运动杀人，就有点说不过去了。</p>
+<p>刘：都是老毛，什么无产阶级专政下继续革命理论。继续革命，就意味着继续杀人。</p>
+<p>习：你看现在，我们最多抓几个关几个，他们意见大得不得了。似乎我才是独裁者，反而毛主席是大救星。每逢12月26日，天安门纪念堂，湖南韶山，崇拜者络绎不绝啊。扪心自问，单论杀人，我们比毛主席可差远了，连一根小手指头也不及。</p>
+<p>刘：人民群众根本不识好歹，都是欺软怕硬的主。毛主席若是从纪念堂出来，我看他们跪都来不及，哪里还敢死磕。毛主席向来不死几万人是不会罢休的。</p>
+<p>习：刘源啊，老实说，我们第二代，顶多也就小打小闹拍个苍蝇打个虎，搞大的，实在没那么高威信。没有威信，谁会听你的？政治上，只能坚持马列毛邓三科；经济上，也只好顺着邓江胡的路子走，坚持改革开放。原本想借反贪腐提升一些个人威望，你看，搞不下去了。那帮孙子无法来硬的，就给你来软的，消极怠工，出工不出力，人到心不在，硬是把经济砸下去。我这边一点辙都没有。</p>
+<p>刘：历朝历代，吏治最难。你看大明朝到最后，就连皇亲国戚都只顾自己二亩三分地，置国家危难于不顾。</p>
+<p>习：我看咱们这儿也差不离了。</p>
+<p>刘：唉，别提了，过一天是一天吧。</p>
+<p>习：你倒好，说得轻巧。我这个十年有期徒刑才过去三年，还有七年要熬。</p>
+<p>（一阵风带来远方似有似无的笑声，哈哈哈–。）</p>
+<p>习：谁在笑？</p>
+<p>刘：听声音似乎是熙来。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E4%B8%8E%E5%88%98%E6%BA%90%E8%B0%88%E6%AF%9B%E5%88%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90/?category=18271" rel="tag">刘源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E4%B8%89%E4%B8%AA%E9%87%8D%E8%A6%81%E4%BC%9A%E8%AE%AE%E9%87%8A%E6%94%BE%E5%87%BA%E4%BA%86%E5%93%AA%E4%BA%9B%E7%A7%AF%E6%9E%81/" target="cdt-mirror">东方日报｜老徐：三个重要会议释放出了哪些积极信号？</a>
+</h2>
+<p><p>一到年底，作为政治中心的北京，各种会议扎堆儿。中国仍然是个依靠各种会议推进各项工作的社会。如果这个时候，你没有整天扎在会上，说明你的官还不够大。</p>
+<p>料日后农民工有望在城市落户、农民土地有望变现，及特大城市有望中央直辖。</p>
+<p>最近几天，在北京雾霾肆虐的日子里，中央连续召开了三个重要的会议：中央经济工作会议、中央城市工作会议和中央农村工作会议。在中国，只要是冠名「中央」名义的会议，那一定就是最顶级的，出台的会议文件将成为今后的大政方针政策。这三个会议里，经济工作会议无疑是党内级别最高的经济类别会议，各路要员齐聚。城市工作会议是时隔 37 年之后再次召开，意义不可谓不重大，但是规格比经济工作会议低一些，是套在经济工作会议里开的。规格最低的是农村工作会议，汪洋副总理出席讲话，习近平、李克强都没有出席，而只是做了「重要批示」。</p>
+<p>那么，这三个重要的会议，都释放出了哪些积极信号呢？</p>
+<p>1 、农民工有望在城市落户。中央经济工作会议提出 2016 年的五项重要任务中，房地产去库存是其中之一。「加快农民工市民化，允许非户籍人口在就业地落户」，则是房地产去库存的重要措施。目前全国大约有 2.7 亿农民工，他们已经在城市生活工作多年，但是现有的户籍制度使他们难以真正融入城市，属于被边缘化的城市人。如果他们之中有 10% 的人在城市购房，房地产去库存迎刃而解；</p>
+<p>2 、农民土地有望变现。农民工在城市买不起房，除了户籍制度、收入低、缺少金融、公积金支持等原因外，家乡农村的土地无法变现，也是重要的制约因素。守着「金饭碗」要饭吃。这次中央农村工作会议提出，明年土改主攻的三个方向：以农村土地征收、集体经营性建设用地入市、宅基地制度改革为代表的「三块地」改革试点将全面深入；以土地确权登记颁证工作为代表的农村土地承包经营制度改革将迎来系列部署：耕地保护和补偿制度将迎来顶层设计。如果在土地制度上能够有所突破，不仅仅给农村，也会给整个城镇化进程带来飞跃。</p>
+<p>3 、特大城市有望中央直辖。在城镇化率不断提升的当下，各种城市病爆发，但城市的管理方法却并没有与时俱进。比如在解决住房、道路拥堵、外来人口入户及相关公共服务、环境污染、地下基础设施建设、城市间互联互通等问题方面，各地多是简单地采取设置行政管制措施的办法，而不是积极应对。这次时隔 37 年重开城市工作会议，强调城市建设要「五大统筹」，尊重城市发展规律是做好城市工作的前提和基础。这其中释放出的一个信号就是，不排除今后将有更多大城市脱离开省里的领导，归中央直辖。</p>
+<p>目前，中国经济正面临关键的转型期，传统产业大都步履艰难，新兴产业尚在发育成熟。这三个重要会议的召开，将对 2016 年中国的经济、社会方方面面产生巨大的影响。不过有时候政府会议越多，经济运行往往越难。不管你是增什么、降什么，最终都要在老百姓身上有所体现。老百姓最想降和最想增的，其实很简单：一降物价，二增收入。如果做不到这一点，任何改革都是失败的。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E4%B8%89%E4%B8%AA%E9%87%8D%E8%A6%81%E4%BC%9A%E8%AE%AE%E9%87%8A%E6%94%BE%E5%87%BA%E4%BA%86%E5%93%AA%E4%BA%9B%E7%A7%AF%E6%9E%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E5%B7%A5/?category=18271" rel="tag">农民工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%A4%B1%E5%8E%BB%E8%87%AA%E7%94%B1%E7%9A%84%E5%A4%8F%E9%9C%96%E5%BE%8B%E5%B8%88/" target="cdt-mirror">维权网 | 失去自由的夏霖律师</a>
 </h2>
 <p><p>原标题：人权律师夏霖被控“诈骗案”将于2016年1月18至22日开庭（附：肖雪慧： 关注失去自由的夏霖律师）</p>
@@ -57,7 +108,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96/?category=18271" rel="tag">夏霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%80%9D%E4%B9%8B/?category=18271" rel="tag">张思之</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%B3%A5%E7%9F%B3%E6%B5%81%EF%BC%8C%E6%8A%8A%E6%8E%A9%E7%9B%96%E7%9A%84%E7%A9%BA%E9%97%B4%E4%B8%8D%E5%B9%B3%E7%AD%89%E5%86%B2%E5%87%BA%E6%9D%A5/" target="cdt-mirror">微思客 | 泥石流，把掩盖的空间不平等冲出来</a>
 </h2>
@@ -92,7 +143,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E5%B7%A5/?category=18271" rel="tag">中国农民工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%88%86%E5%8C%96/?category=18271" rel="tag">城乡分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3/?category=18271" rel="tag">深圳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB/?category=18271" rel="tag">深圳山泥倾泻</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%9D%8E%E5%8A%BC%EF%BC%9A%E6%AF%9B%E5%A4%A9%E4%B8%8B%E4%B8%8E%E5%85%9A%E5%A4%A9%E4%B8%8B%E4%B9%8B%E4%BA%89/" target="cdt-mirror">墙外楼 | 李劼：毛天下与党天下之争</a>
 </h2>
@@ -384,7 +435,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90/?category=18271" rel="tag">刘源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8F%88%E4%BE%A0/?category=18271" rel="tag">张又侠</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/422839/" target="cdt-mirror">【对比新闻】北京大气污染治理“取得阶段性成效”</a>
 </h2>
@@ -502,59 +553,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E8%91%97%E5%90%8D%E5%A1%AB%E8%AF%8D%E4%BA%BA%E6%9E%97%E5%A4%95%E8%A2%AB%E4%B8%BE%E6%8A%A5-%E5%86%85%E5%9C%B0%E6%B4%BB%E5%8A%A8%E5%8F%96%E6%B6%88/" target="cdt-mirror">BBC｜香港著名填词人林夕“被举报” 内地活动取消</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night.jpg" rel="attachment wp-att-422800"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night.jpg" alt="撑起雨伞" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night-300x297.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night-768x761.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night-1024x1015.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/umbrellas-in-the-night.jpg 1224w" sizes="(max-width: 1224px) 100vw, 1224px"></a><br><em>网络图片（<a href="http://www.umbrellaterms.hk/main/blog/keyword-umbrella-in-the-night">来源</a>）</em></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/vista-%E7%9C%8B%E5%A4%A9%E4%B8%8B%EF%BD%9C%E9%99%88%E5%8A%B2%E6%9D%BE%EF%BC%9A%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97%E9%BB%84%E5%AE%89/">Vista 看天下｜陈劲松：“朝阳群众”黄安</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%BE%E6%8A%A5%E8%89%BA%E4%BA%BA%EF%BC%9A%E6%81%B6%E6%94%BF%E4%B9%8B%E4%B8%8B%E6%97%A0%E5%AE%8C%E5%8D%B5/">端传媒 | 举报艺人：恶政之下无完卵</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%88%B1%E6%B8%AF%E7%88%B1%E5%9B%BD%E7%9A%84%E8%93%9D%E4%B8%9D%E5%B8%A6%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%88%86%E4%B8%8D%E6%B8%85%E6%96%B0%E6%B0%91%E4%B8%BB/">爱港爱国的“蓝丝带”为什么会分不清“新民主同盟”和“新民党”？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB%E3%80%91%E6%92%91%E8%B5%B7%E9%9B%A8%E4%BC%9E/">【歌曲分享】撑起雨伞</a></li>
-</ul></blockquote>
-<p><strong>香港著名填词人林夕在微博上“被举报”不爱国，原本于广西大学的活动被逼取消。</strong></p>
-<p>香港亲北京团体“爱港行动”召集人陈净心周二于微博上说：“林夕先生，听说你12月27日会在广西大学大礼堂与内地学生交流写歌心得。你说过《北京欢迎你》是你‘人生污点 ’，我恳请你不要把这种扭曲思维灌输给内地学生，我相信我们祖国会越来越好的！”</p>
-<p>陈净心的帖子得到三千多次转发、一千五百多则评论，大部份评论批评林夕，但也有一些留言者指陈净心故意挑动矛盾。</p>
-<p>林夕原本在27日前往广西大学，参与“阅读会大家”的活动。其中一个主办单位共青团广西大学委员会在微博上证实，该项活动已被取消。</p>
-<p>林夕暂时未有回应事件。</p>
-<p>林夕于去年四月出席香港大学现代语言及文化学院香港研究主办的讲座曾说，为《北京欢迎你》填词作了一趟官方喉舌，是其人生污点。</p>
-<p>林夕曾多次参与社会运动。去年九月香港爆发“占中”运动，一众艺人创作支持示威者的歌曲《撑起雨伞》，由林夕填词。</p>
-<p>今年香港大学前法律学院院长陈文敏疑因政治立场，经过物色委员会推荐后，亦未能获得副校长一职，引来极大争议。林夕亦曾出席集会，抗议学术自由被侵蚀。</p>
-<p>另外，林夕亦曾出席2012年的反国民教育的集会。</p>
-<p><strong>其他“被举报”的港台艺人</strong></p>
-<p>陈净心并非首次在微博上举报演艺界人士。上月，她在微博上举报香港歌手卢凯彤支持“占中”，最后她在“南方草莓音乐节”的演出被取消。此后，她亦接连举报香港歌手谢安琪、来自广州的歌手张敬轩、香港演员王宗尧等。</p>
-<p>其中张敬轩有传将会参与《我是歌手４》，因被陈净心举报而“被退出”，但张敬轩所属的英皇唱片指从未落实参与节目，否认该事。</p>
-<p>除了陈净心外，来自台湾、“反台独”的歌手黄安亦曾在微博“举报”台湾歌手卢广仲，指他支持反服贸行动。卢广仲其后亦未能出席“南方草莓音乐节”，其后在北京及西安的演唱会也被取消。</p>
-<p>陈净心与黄安在微博上也有互动。黄安在微博上称赞陈净心打港独“越来越顺手”，并指她“很不了起”。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E8%91%97%E5%90%8D%E5%A1%AB%E8%AF%8D%E4%BA%BA%E6%9E%97%E5%A4%95%E8%A2%AB%E4%B8%BE%E6%8A%A5-%E5%86%85%E5%9C%B0%E6%B4%BB%E5%8A%A8%E5%8F%96%E6%B6%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BF%97%E6%84%BF%E8%80%85/?category=18271" rel="tag">网络文明志愿者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%87%80%E5%BF%83/?category=18271" rel="tag">陈净心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%A4%95/?category=18271" rel="tag">林夕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%85%B3%E4%BA%8E%E5%AF%B9%E7%BD%91%E6%B0%91%E5%BC%80%E5%B1%95%E8%90%BD%E5%9C%B0%E7%A8%B3%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%8C%87%E4%BB%A4/" target="cdt-mirror">【立存此照】关于对网民开展落地稳控工作的指令</a>
-</h2>
-<p><p>重要事项交办通知单 第23号（指令性）</p>
-<p>润州分局办公室   2015年12月14日</p>
-<hr><p>
-</p><p>关于对网民“恢复经营江苏8W（545514791）”开展落地稳控工作的指令</p>
-<p>润州分局、市局网安支队：</p>
-<p>据省厅通报，12月14日9时许，网民”会哭的眼睛（1127848363）”、“恢复经营江苏8W（545514791）”在QQ群“最新消息交流1群”煽动“去美国领事馆，让国际上对我们国家有看法”。</p>
-<p>QQ聊天记录如下：会哭的眼睛（1127848363）9：54：55 看情况，我感觉去大裤衩没有用，去上访没有用，但这都是必须要试的，最后不行大家可以考虑去美领馆，这样在国际上会对我们国家有看法，也是对我们zf的粉刺糖果（393105183）9：54：57  恢复经营江苏8W（545514791） 9：55：03 下个星期请假到北京逛一圈。</p>
-<p>经落查，QQ号1127848363网民使用的手机号码是  662606463（编辑注：截图不完整）。机主姓名王芳，苏州市人，身份证号码923198312296862（编辑注：截图不完整）。QQ号545514791网民使用的手机号码是535895（编辑注：截图不完整），机主姓名赵凯，镇江人，身份证号码2198308241514（编辑注：截图不完整），户籍地址：润州区民主街。</p>
-<p>要求</p>
-<p>XX分局迅速对本市网民赵凯开展落地稳控工作，请市局晚安支队做好XX指导工作。相关工作情况请及时通过情报平台报送市局指挥中….</p>
-<p>签发人：樊东晓  发布时间：2015-12-14</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CW0FmMxU8AAWAC9.jpg" alt="CW0FmMxU8AAWAC9" width="600" height="800" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CW0FmMxU8AAWAC9-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2015/12/CW0FmMxU8AAWAC9.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%85%B3%E4%BA%8E%E5%AF%B9%E7%BD%91%E6%B0%91%E5%BC%80%E5%B1%95%E8%90%BD%E5%9C%B0%E7%A8%B3%E6%8E%A7%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%8C%87%E4%BB%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%89%E6%94%AF%E9%98%9F/?category=18271" rel="tag">网安支队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/qq%E7%BE%A4/?category=18271" rel="tag">QQ群</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -566,7 +564,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -576,5 +574,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

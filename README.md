@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B9%B3%E8%AF%B4%EF%BD%9C%E6%A2%81%E6%96%87%E9%81%93%EF%BC%9A%E4%BB%8E%E6%8A%84%E8%A2%AD%E7%9A%84%E3%80%8A%E8%B4%A7%E5%B8%81%E6%88%98%E4%BA%89%E3%80%8B%E7%9C%8B%E5%9B%BD%E4%BA%BA%E5%AF%B9%E6%97%A0/" target="cdt-mirror">平说｜梁文道：从抄袭的《货币战争》看国人对无知的恐惧</a>
@@ -191,7 +191,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?catego
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/?category=18271" rel="tag">限制出境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%96%8C/?category=18271" rel="tag">张斌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E7%B4%AB%E8%96%87/?category=18271" rel="tag">胡紫薇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">厦门大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E5%B1%B1%E7%9F%B3/?category=18271" rel="tag">曹山石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%AB%E5%85%89%E9%98%81/?category=18271" rel="tag">紫光阁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%B7%A6%E8%AF%86%E9%80%94/?category=18271" rel="tag">老左识途</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E6%99%BA%E5%BA%93/?category=18271" rel="tag">共青团智库</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E8%89%B3%E7%BA%A2/?category=18271" rel="tag">雷艳红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">前领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E4%B8%9C%E6%99%AE%E5%AE%81/?category=18271" rel="tag">广东普宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82/?category=18271" rel="tag">垃圾焚烧厂</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E4%B8%8E%E5%88%98%E6%BA%90%E8%B0%88%E6%AF%9B%E5%88%98/" target="cdt-mirror">【习总日记】 习总与刘源谈毛刘</a>
 </h2>
@@ -691,5 +691,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

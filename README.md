@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%A4%B1%E5%8E%BB%E8%87%AA%E7%94%B1%E7%9A%84%E5%A4%8F%E9%9C%96%E5%BE%8B%E5%B8%88/" target="cdt-mirror">维权网 | 失去自由的夏霖律师</a>
+</h2>
+<p><p>原标题：人权律师夏霖被控“诈骗案”将于2016年1月18至22日开庭（附：肖雪慧： 关注失去自由的夏霖律师）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/200905240531china1.jpg" alt="200905240531china1" width="400" height="300" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/200905240531china1-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/200905240531china1.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></p>
+<p>张思之和夏霖</p>
+<p>（维权网信息员刘云报道）2015年12月27日星期日，本网获悉：人权律师夏霖被控诈骗案将于2016年1月18至22日开庭。在北京警方第三次送检，检方第三次把时间用到极致后，案子上月移送给法院。12月24日下午，夏霖在会见中得知浦律出来，他很为浦志强高兴。</p>
+<p>夏霖律师是于2014年11月8日被抓，当时他刚接手北京民间机构传知行经济研究所创办人郭玉闪的案件。而其后来被控却是“诈骗罪”，目前得知涉及金额1000万。而夏霖本人否认指控。夏霖代理莫律师莫少平称，夏霖所涉借款，属民间借贷，部分尚未到期。</p>
+<p>夏霖律师曾代理“邓玉娇案”、“崔英杰案”、艾未未发课税案等广受海内外关注的维权案件。</p>
+<p><strong>附：肖雪慧： 关注失去自由的夏霖律师（2014年9月5日）</strong></p>
+<p>再有两天，夏霖失去自由就10个月了。6月30日第一次退侦期限用够，已经再次送检，期限也要到了。在浦案那里被用尽的送检-退侦-再送检……，似乎要在夏案故技重施，把退侦-送检程序吃干榨尽。</p>
+<p>十个月前夏霖被带走，很意外，但细细一想，就不意外了。</p>
+<p>夏霖对自己的定位不是维权律师，办案走的技术路子，但从不惧为公义出手、为朋友两肋插刀。他义救崔英杰、出手邓玉娇案。崔案结案后，夏霖继续关心着这个年轻人，在崔英杰服刑期间，夏霖不仅经常跟小伙子通信，还多次探望。我看过崔英杰写给他的一封信，读来令人动容。邓玉娇案发，他迅速赶赴巴东，取得关键性证据。案子后来能取得好结果，跟他在艰难危险处境下所做的前期努力是分不开的。他在巴东的作为和处境，从张思之和浦志强当时致他的信可以看出：</p>
+<p>夏霖律师：</p>
+<p>联系困难，沟通不便，师友同道，十分挂念。</p>
+<p>目前巴东情况令人担忧，考察你们前段工作，就我们所见，完全合法，无懈可击。信赖你的职业操守，不担心你的业务能力，只是挂念你们的人身安全。</p>
+<p>……</p>
+<p>如有不适，请设法电告，我们将随时前往。凡诉讼，终有水落石出之日，眼下不必过于着急。</p>
+<p>关注着你们，相信你们，等你们归来！</p>
+<p>浦志强 张思之</p>
+<p>二OO九年五月二十三日</p>
+<p>邓案之后，他跟浦律一起接下当时极为敏感的成都谭案。在中国的司法环境下，这个案子的性质就预先决定了审判结果，但两位律师尽了最大努力，在跟反法治力量的较量中，虽败犹荣。一、二审主审法官宣判审判结果，不敢正视两位律师的眼睛，也是奇观。</p>
+<p>“袍哥人家绝不拉稀摆带”，不光是他的口头禅，也是他处事风格。浦律出事，他欲推动事务所发声明支持浦律；雪村自首，他去派出所接人；玉闪被抓，他立即接手……</p>
+<p>在浦案上，他秉持“有一分希望做百倍努力”的原则做了很多工作，但也受了不少误解和攻击，我在微博上谈及这事，有律师留言：“我是知情人之一。疾风知劲草。”</p>
+<p>他的委屈只有跟很少朋友诉说。有次电话中他有点天真也有点负气的说：“一旦到可以公开案情不必忌讳那天，老子要臭骂……一顿。”还没等到这一天，他自己进去了。</p>
+<p>如今夏霖失去自由10个月，现正遭遇送检—退侦—再送检……模式的折磨。但他没有被抓的维权律师那样广泛的社会关注度，却有出自某些同行针对他的流言，在夏霖无法自辩、解释的处境下，不出示证据的指控性流言，伤害的不仅是夏霖。</p>
+<p> </p>
+<p>我始终认为，律师是一个很有行动力的职业共同体，只要不是听命权势随权势鼓点起舞的败类，律师间无论办案方向、理念有怎样的差异，个人关系上有什么问题，关键时刻宜抛开歧见和隔膜，团结起来维护律师权益、法律尊严。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%A4%B1%E5%8E%BB%E8%87%AA%E7%94%B1%E7%9A%84%E5%A4%8F%E9%9C%96%E5%BE%8B%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96/?category=18271" rel="tag">夏霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%80%9D%E4%B9%8B/?category=18271" rel="tag">张思之</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%B3%A5%E7%9F%B3%E6%B5%81%EF%BC%8C%E6%8A%8A%E6%8E%A9%E7%9B%96%E7%9A%84%E7%A9%BA%E9%97%B4%E4%B8%8D%E5%B9%B3%E7%AD%89%E5%86%B2%E5%87%BA%E6%9D%A5/" target="cdt-mirror">微思客 | 泥石流，把掩盖的空间不平等冲出来</a>
 </h2>
 <p><p>作者：左楠</p>
@@ -57,7 +92,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E5%B7%A5/?category=18271" rel="tag">中国农民工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%88%86%E5%8C%96/?category=18271" rel="tag">城乡分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3/?category=18271" rel="tag">深圳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB/?category=18271" rel="tag">深圳山泥倾泻</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%9D%8E%E5%8A%BC%EF%BC%9A%E6%AF%9B%E5%A4%A9%E4%B8%8B%E4%B8%8E%E5%85%9A%E5%A4%A9%E4%B8%8B%E4%B9%8B%E4%BA%89/" target="cdt-mirror">墙外楼 | 李劼：毛天下与党天下之争</a>
 </h2>
@@ -520,36 +555,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AE%B0%E8%80%85%E7%8E%8B%E5%86%A0%E7%9A%84%E5%8D%97%E6%B5%B7%E8%BE%A9%E8%AE%BA%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/" target="cdt-mirror">黎蜗藤：记者王冠的南海辩论错在哪里？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" rel="attachment wp-att-422784"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225"></a><br><em>（图文无关）</em></p>
-<p>中国央视驻北美首席政治记者王冠近来成了红人，早前在今日俄罗斯(RT)中就为中国的南海政策辩护，日前更在RT中与美国的Richard Weitz就南海问题直接交火(节目的名称就叫crosstalk)。说来，这个Weitz的来头不小，在美国智库界也算是有身份之人。王冠和他的对话， 虽说不是针锋相对，但王冠流利的英文也使他不落下风。这里要赞一下。同时也要感叹，中国央视和俄罗斯电视台能在美国宣传，何时根据对等原则也能让CNN和 Foxnews在中国下地呢?</p>
-<p>可惜，王冠华丽的辞藻掩盖不了在本质上的错误。作为一个电视节目，确实可能“忽悠”一般的观众，但若稍作思考，却不免发现漏洞百出。</p>
-<p>首先，在第一段发言里，王冠抨击美国的自由航行计划(FON program)，认为美国是根据一份自己也没有签署的条约(指联合国海洋法公约)推进自己的地缘政治利益。又指责美国行使自由航行权利时不客观公正。他 质问：全世界目前约有100个存在主权争议的岛屿，美国海军为什么不去南太平洋英属福克兰群岛(和阿根廷争议)、地中海上西班牙的岛屿(和摩洛哥争议)?</p>
-<p>这里王冠犯了两个错误。第一，美国尽管没有签订《联合国海洋法公约》，但是签订了联合国的《领海及毗连区公约》、《公海公约》等四大公约(1958 年)。这些公约到目前为止都是有效的。事实上，1982年的《联合国海洋法公约》是对这几个公约的继承，当中有关航海自由的规定，和1982年公约是没有 矛盾的。航海自由，不是1982年公约所赋予的，而是自古以来就有的，并且早就在1958年各公约中已经成文化。而且，美国自由航行计划也是严格遵从 1958年和1982年公约的规定。以美国没有签订1982年公约为由而否定美国拥有自由航行的权利，无疑是站不住脚的。</p>
-<p>此外，王冠可能不知道，美国法律体系是海洋法系。在美国法律传统中，即便美国没有签订的多边条约，如果被认为已经成为国际习惯法，那么可以直接应用到 美国的法律诉讼中。在美国有多个成功地运用这类国际法而赢得对美国政府的官司的案例。因此，即便美国没有签署1982年公约，如果就某个具体的相关案件， 以违反1982年公约为由在美国法院起诉美国政府，也很有可能被法官支持。</p>
-<p>第二，王冠在这里把海洋自由航行偷换成领土争端。自由航行计划从来不针对领土主权，而是针对“过分的海洋主张”(excessive maritime claims)。它不是美国支持某个国家对某个领土主权主张的工具，而是表明美国对自由航行的态度和以法律实践造成“不承认”实例的工具。故此，英国和阿根廷、西班牙和摩洛哥之间的领土争议和自由航行计划一点关系也没有，美军自然不会专门到“有领土争议”的地方。</p>
-<p>王冠或是出于知识的贫乏，或是出于诡辩的技巧，生搬硬套，可谓指鹿为马也。</p>
-<p>其次，王冠在第二段发言里，反驳美国有关历史性主权的质疑。他说美国经常质疑中国对南海诸岛的历史性主权(historical claim on those islands in the SCS)(注：在视频的中文字幕翻译中误译为对南海的历史性主权，南海与南海诸岛是截然不同的概念)，并提出所有国家的领土主权都根植于历史，又举出美国占领夏威夷、波多黎各、关岛和美属萨摩亚为例，证明历史在主权问题上的重要。</p>
-<p>这里，王冠再一次(故意)混淆了美国的观点。美国的要求是航海自由，而不是南海诸岛的主权。美国政府从来没有对中国是否拥有南海诸岛的“历史性主权” 发表评论(没有肯定过也没有否定过)。这不是美国所关心的东西。美国的立场是清晰的和一贯的：在南海诸岛的主权问题保持中立，但无论何方拥有主权都不能影 响南海的航海自由。美国政府否定的是中国对九段线内海域的“历史性主权”(historic title)。而依照国际法和历史证据的分析，美国的观点是站得住脚的，也得到绝大部分相关国家的赞同。</p>
-<p>最后，在第三段发言中，王冠首先说美国在过去70年一直遏制中国，然后又辩解中国的外交并不富有侵略性，并以没有在海外建立殖民地以及中国参与的最后一场战争是79年的越等来证明这个论点。</p>
-<p>王冠简单化和妖魔化了美国对中国的政策。他举出的麦卡锡主义和多米诺骨牌理论都是冷战高潮时的产物，在战后70年中最多只占20年左右的时间。相反， 从尼克松访华以来，尽管中美关系有时会有起伏，但总体而言越来越密切。中国从一个贫穷的发展中国家，一跃成为世界第二大国，美国对中国的直接投资、对中国 开放市场、以及把中国纳入美国主导打造的世界经济体系功不可没。这怎么可能用“遏制”来形容呢?</p>
-<p>至于中国的战略意图方面，到底中国的“野心”有多大，各种分析众说纷纭，并没有一个共识。但王冠列举的两个例子都显得很简单幼稚。</p>
-<p>中国确实没有在海外建立殖民地。这是因为中国自古以来都不是海洋国家，没有到海外建立殖民地的愿望，但不等于中国就是一个爱好和平、没有扩张欲望、从不侵略的国家。相反，中国作为陆权国家，目光放在陆地。如果说世界面积第三大国的领土都是“和平” 得来的，恐怕连小学生都笑了。东南亚国家中越南大概首先表示不同意。</p>
-<p>至于现代外交方面，东南亚对中国有戒心更是值得理解的。先纠正一点，中越之间的战争直到1989年之后才结束，比王冠所言整整多了10年。除了对越南 直接开战之外，在90年代之前，中国还一直通过输出革命扶植东南亚共产主义势力，干涉东南亚诸国内政：支持过马共和印共的反政府叛乱;支持制造惨无人道大 屠杀的红色高棉政权;长期为祸缅甸边境的“果敢”军队中，很多就是直接跑到缅甸当兵的中国人，他们有人甚至成为果敢军队的领导层(连王小波的小说中都记载 了这段历史);即便受影响最轻的菲律宾也遭受中国长期对在菲中国人的煽动反政府广播之困扰(菲律宾当时有很多华侨，70年代被归化之前，他们理论上是应该 服从中国政府的中国人)。</p>
-<p>中国的政策直到90年代才因为总所周知的原因而转变为“韬光养晦”和“睦邻”政策，这才开始改变中国在东南亚的形象。从1990年到2008年，中国 和东盟进入了总体上缓和与迅速发展的年代。但即便如此，以万安滩事件、美济礁事件和黄岩岛事件为代表的中国和东盟国家的冲突仍然令东盟国家对中国的战略抱 以怀疑的态度，更不说2009年之后的日益加深的南海冲突了。中国能否与如何能令东南亚各国真正感受到和平崛起，还是一个未知之数。</p>
-<p>Weitz并没有和王冠针锋相对地辩论，但所说的都很有说服力。美国作为从19世纪末一直在南海扮演重要角色的大国，是在东南亚赶走日本侵略者的最大 功臣，也是战后支持去殖民地化与民族解放的最重要的外部力量。在冷战结束后，美国仍然在东南亚扮演着首屈一指的维护安全的角色(包括传统和非传统的安全问 题)。这就是Weitz所说的有益的主导者(benign hegemon)。用中国的话来说，美国在东南亚的地位是历史形成的，是东南亚人民的选择。</p>
-<p>(注：中国一些无知的网友嘲笑翻译中的“善意霸权”。殊不知，中国现在的理论家也把中国以前的朝贡体系向善意霸权的概念解释。这些网友可不要误中副车了。)</p>
-<p>多年以来，东南亚诸国已经习惯了“现状”。在她们的眼中，中国作为一个崛起中的大国，却似乎要强行改变现状，把自己打造成一个历史上从来没有存在过的 “海洋大国”，也将要在史上第一次把军事力量插入东南亚的心脏——南海深处，还试图用“亚洲门罗主义”“瓜分太平洋”等策略把东南亚传统的安全提供者美国 排挤出去。这才是南海危机的核心矛盾。对此，包括越南、菲律宾、新加坡、印度尼西亚、马来西亚、文莱、美国、日本、印度、澳洲、英国、法国和欧盟国家在内 的国际社会，心存忧虑是可以理解的。国际社会希望中国和平崛起，而不能成为地区不稳定的因素。中国是否能实践和平崛起的承诺，是否能顺应国际社会对中国的 期望，才是中国在国际上所需要坦诚回答的。</p>
-<p>王冠在节目中没有直面国际社会的忧虑，反而用指鹿为马的诡辩术混淆视听。这种宣传肯定无法令善于思考的观众所信服。实在令人遗憾。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%AE%B0%E8%80%85%E7%8E%8B%E5%86%A0%E7%9A%84%E5%8D%97%E6%B5%B7%E8%BE%A9%E8%AE%BA%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -561,7 +566,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -571,5 +576,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%AF%81%E5%AE%9E%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E5%B8%B8%E5%B0%8F%E5%85%B5%E8%A2%AB%E6%9F%A5/" target="cdt-mirror">BBC｜中纪委证实中国电信董事长常小兵被查</a>
+</h2>
+<p><p>常小兵案发，事出其中国联通任内。</p>
+<p>中国中纪委网站发布通告，中国电信集团董事长常小兵目前正在接受调查。</p>
+<p>中纪委的通告指出，中国联合网络通信集团有限公司原党组书记、董事长，现中国电信集团公司党组书记、董事长常小兵涉嫌严重违纪，目前正接受组织调查。</p>
+<p>中国方面的媒体引述业内人士的话说，常小兵案发，事出其中国联通任内。</p>
+<p>常小兵曾经主事中国联通11年之久。今年才转任中国电信董事长。而中纪委巡视组之前调查联通后，多名高管落马。</p>
+<p>背景</p>
+<p>常小兵今年58岁，曾历任安徽省六安地区邮电局技术员，江苏省南京市电信局、江苏省邮电管理局网管中心工程师，江苏省邮电管理局电信处副处长，南京市电信局副局长。</p>
+<p>1996年6月之后，历任中国邮电电信总局副局长、信息产业部电信管理局副局长、信息产业部电信管理局局长。</p>
+<p>2004 年11 月起任中国联通公司董事长、党组书记。今年8月份中国联通和中国电信两家公司董事长对调，中国电信董事长王晓初调任中国联通出任董事长，常小兵出任中国电信董事长。</p>
+<p>据报道中国电信原定在12月28日召开年度工会，12月26日晚上，中国电信各省即将赴京参会的省级高官接到会议延期消息。常小兵被带走调查，办公室被查封的消息随后开始流传。</p>
+<p>外界猜测</p>
+<p>因其在中国电信任职不久，外界猜测，常小兵被双规可能还是源于其任职中国联通董事长期间有违规行为。</p>
+<p>中央巡视组是在去年11月27日至12月27日对联通进行为期一个月的巡视。</p>
+<p>中纪委网站今年2月报道，中共中央巡视组公布了中国联通的巡视结果，发现“有的领导和关键岗位人员利用职权与承包商、供应商内外勾结，搞权钱、权色交易”。</p>
+<p>负责领导联通巡视工作的中央第八巡视组组长宁延令表示，中国联通领导班子“存在一些不容忽视的问题”，其中包括“有的领导和关键岗位人员利用职权与承包商、供应商内外勾结，搞权钱、权色交易；有的纵容支持亲属、老乡或其他关系人在自己管辖范围内承揽项目或开办关联企业谋利；有的在子女出国留学、就业等方面接受供应商利益输送。”</p>
+<p>中国联通于2009年1月6日由原来的中国网通及中国联通两家公司合并而成的，目前是中国主要电信集团之一，并且同时在纽约、香港及上海三地的股市上市。</p>
+<p>前中国网通董事长、中国移动副总经理张春江在2009年底因“涉嫌严重违纪”遭中共中央纪委“双规”，随后更遭免职。</p>
+<p>前中国网通副总裁、中国联通高级副总裁赵继东则在2010年1月被有关部门带走协助调查。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 网聚正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%EF%BD%9C%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%AF%81%E5%AE%9E%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E8%91%A3%E4%BA%8B%E9%95%BF%E5%B8%B8%E5%B0%8F%E5%85%B5%E8%A2%AB%E6%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B0%8F%E5%85%B5/?category=18271" rel="tag">常小兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E4%BF%A1/?category=18271" rel="tag">电信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E5%9B%BD%E4%B8%8E%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E8%AF%9D/" target="cdt-mirror">东网｜乔木：赵家人的国与赵“家人”的话</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg" alt="赵国" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg 599w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>上周五我在东网首发的《赵家人的中国》，在墙内外获得广泛的转载。赵家人特指权贵家族，来自鲁迅的《阿Q正传》里赵老爷训斥阿Q：“呸！你也配姓赵？”</p>
+<p>当然墙内转载的这篇文章最终都显示“404”。如果说是被楼堂馆所、酒池肉林的赵家人亲自删除，或者专门为此文下令让人删除，不大可能。实际上网络管控和审查无需赵家人出马，自有赵“家人”替他们操心尽力。</p>
+<p>赵“家人”也可称为“家丁、家仆、家奴”。不管有几大家族，赵家人总是少数，可是被他们豢养的“家人、门客”众多。除了直接为赵家效力的“家人”，还有很多人和赵家并无关系，却在精神上把自己当做赵“家人”，有一整套思维和说辞为主人辩护。</p>
+<p>常见的就是，不要光指责中国，外国也一样有赵家人。布殊（大陆译作：布什）总统的儿子也是总统；克林顿总统的老婆当议员，当国务卿，现在还想当总统；日本更是家族政治，首相安倍的父亲做过外长，外祖父也是首相。</p>
+<p>政治家族有传统，就像体育、文艺、科学家的后人也容易从事本行业一样常见，但是在所有的民主政体，从中央到地方的各级行政长官，要民选。议员作为人民代表，更是要为选民说话办事，否则没人选他。那些被任命的重要官员，要经过各级议会的辩论批准，而所有的官员都要接受媒体、反对党、立法司法无时不在的监督，财产、收入、学历、亲属关系都是透明可查。这方面一旦有了丑闻，绝对是公众热议施压的大新闻。</p>
+<p>可是赵家人的国呢？要么是“王侯将相、宁有种乎”的造反，“枪杆子里面出政权”的改朝换代，要么是“老子英雄儿好汉”的权力继承，不经民选的红二代官二代权力内定。最常见的则是有权不用过期作废的贪腐，难以权力制衡和媒体监督。</p>
+<p>赵“家人”还说，中国这么大，谁上去也不好干。可是官场上裙带关系、近亲繁殖，要么拼爹，要么阿谀奉承，攀拉上位，正直有才的人难以立足。由于没有竞争性选举，民众没有选择的权利，有识之士缺乏参政议政的机会。</p>
+<p>西方人和中国台湾人说，今天投票，明天就知道谁是领导了。中国大陆人说，今天投票，5年前就知道谁是领导了，5年后谁还是领导也知道。习马会上马英九不无羡慕地说，我还有半年，他还有7年。政协委员是指定已属笑话，而各个地方的最高领导党委书记，则是上级直接任命，连个选举的程序都没有。赵家人权力在手，自信随性任性。</p>
+<p>赵“家人”说，不要老是批评，要提建设性意见，拿出解决方案。先进国家成功的解决方案都在那明摆着：权力民选、制衡监督、新闻自由、司法不受干扰、军队非党化、劳工受保护、民众有福利、网络不设墙。可是就有人揣着明白装糊涂，非要摸着石头过河。赵家把子弟往民主国家送，却对“家人”说那是邪路，千万不要走“改旗易帜的邪路”。一定要拥赵爱国，没有赵家人，就没有新赵国。</p>
+<p>赵国经济发展很快，卖地征税，钱多的花不忘。赵家人除了自己花，给外国花，为了安抚属下，也会分蛋糕。可是蛋糕由赵家人切，切完赵家人先拿，拿完最多最大的，再让别人拿。赵家控制主流媒体，还得让人说好话，感恩戴德。</p>
+<p>你要在网上稍有不满，删帖销号抓人。赵家手里有司法刀把子，背后有枪杆子，专治各种不服。赵“家人”多少也能分点残羹冷炙，自己心满意足，你要不满意，他们还指责你吃饭砸锅。</p>
+<p>赵“家人”被主人剥夺了选举、监督等政治权利，终年劳作缴纳重税，也没有多少经济权利和社会福利，很多人忍气吞声，自己不敢发声，拿回属于自己的权利，却像阿Q一样，去欺负比自己更孱弱的吴妈和小尼姑。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E5%9B%BD%E4%B8%8E%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E8%AF%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5/?category=18271" rel="tag">权贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B4%E6%89%8D/?category=18271" rel="tag">奴才</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%9C%A8/?category=18271" rel="tag">乔木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%A2%AB%E9%9A%8F%E6%84%8F%E6%93%8D%E6%8E%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B8%8E%E7%8E%B0%E5%AE%9E/" target="cdt-mirror">德国之声｜被随意操控的历史与现实</a>
+</h2>
+<p><p>《自由时报》认为台湾观光业过渡偏重中国</p>
+<p>媒体评论认为，在中国，从言论案件、两岸关系到历史沉船，都存在被随意操纵的危险。</p>
+<p>香港《苹果日报》发表多篇文章讨论浦志强案。人权律师滕彪认为，此案的关键不在表面上刑期的轻重。“一个公民，仅仅因为几条微博就被关押，并安上煽动民族仇恨、寻衅滋事等可怕又可笑的罪名，这本身就表明，这个政权把自己放在了人类自由之敌的位置”。</p>
+<p>滕彪说，浦案和其他每个政治案件一样，反映了中共操控司法的随意性，人可抓可放，罪可增可减，程序可长可短，央视可上可不上，结果可轻可重；不管狱中还是狱外，待遇可好可坏。即使缓刑，也可生出多种花样。此类案件，在幕后操控者那里，没有什么可以预期的法治规则发挥作用。“这种随意性才是真正可怕之处。这极大地恶化了政治犯的处境，并增加了抗争者的潜在风险。而这也正是专制政权想要的效果”。</p>
+<p>媒体人李平在文章中认为，浦志强被判缓刑之后，海内外网站都出现感恩的声音，对舆论的误导效果特别强，一是混淆有罪与无罪的界限，以轻判、人道掩盖高、浦两人无罪被囚的事实；二是制造对中共领导人的期望假象，减少对其形象的影响。</p>
+<p>古代沉船与现代主权</p>
+<p>海洋考古专家彼得？B•坎贝尔（PETER B. CAMPBELL）在《纽约时报》发表文章《古代沉船如何成为争夺海上主权的工具》指出，在过去几年中，加拿大、俄罗斯及中国的政界人士认识到，他们可以利用海底沉船来宣示新的领海主权。这种对科学的政治化滥用行为正在将世界引向爆发冲突的道路。</p>
+<p>坎贝尔说，虽然南海在历史上归中国和邻国共有，但北京在过去一年开始建造人工岛屿，宣称该水域是中国的领海。受政府资助的中国考古学家在存在争议的海域找到了逾120艘沉船。中国文化部副部长励小捷明确表示，“海上考古是彰显国家主权的行动。”坎贝尔认为，和其他滥用考古资源的国家一样，这是在利用捏造的历史上的归属权来公开篡夺土地。</p>
+<p>台湾观光业的隐忧</p>
+<p>台湾《自由时报》发表社论《观光客突破千万人的虚与实》认为，台湾观光业过度偏重中国，尽管带来若干外汇收益，让统计数字相对好看，却未必有助显着提升整体经济。“中国客大增，却只见人潮、不见钱潮，国内业者白忙一场，也排挤了国内旅游，更让中国把陆客做为左右台湾政经的工具”。</p>
+<p>社论说，台湾大选期间，中国已大举限缩陆客前来，幅度据报导可能高达九成五；选后或将继续以此为手段，视大选结果对如果重新执政的民进党当局施压勒索。“在中国并吞台湾的路径图上，没有所谓’政经分离’这回事”；“降低对中国的高度依赖，不论经贸或观光，都是大选辩论及投票须慎思明辨的重要课题”。</p>
+<p>国家队与企业商战</p>
+<p>中国“红色供应链”前锋紫光欲入股台湾第二大封装测试厂硅品，一场并购案掀起两岸半导体产业激战。媒体人顾尔德在香港《端传媒》发表文章认为，从中芯到紫金，十五年来两岸高科技战争愈打愈烈。这既是国家层级的产业策略战，也是企业间的商战。台湾人才、技术一再被中国买去，而台湾政府也提不出下一世代的产业策略以摆脱对岸竞争。</p>
+<p>顾尔德说，台湾是个移民社会、海洋国家，一直以来就是靠着对外开放来繁荣经济。两岸的竞争与商战实属正常，没必要特别把对手妖魔化。“但是，面对中国国家队，台湾政府没有自我警惕，八年来一心只想寻求与中国市场的连结，真的连结上，就只能门户洞开、被动地让中国业者直捣”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%A2%AB%E9%9A%8F%E6%84%8F%E6%93%8D%E6%8E%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B8%8E%E7%8E%B0%E5%AE%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B9%B3%E8%AF%B4%EF%BD%9C%E6%A2%81%E6%96%87%E9%81%93%EF%BC%9A%E4%BB%8E%E6%8A%84%E8%A2%AD%E7%9A%84%E3%80%8A%E8%B4%A7%E5%B8%81%E6%88%98%E4%BA%89%E3%80%8B%E7%9C%8B%E5%9B%BD%E4%BA%BA%E5%AF%B9%E6%97%A0/" target="cdt-mirror">平说｜梁文道：从抄袭的《货币战争》看国人对无知的恐惧</a>
 </h2>
 <p><p><br>
@@ -75,7 +156,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%96%87%E9%81%93/?category=18271" rel="tag">梁文道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E6%88%98%E4%BA%89/?category=18271" rel="tag">货币战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E9%B8%BF%E5%85%B5/?category=18271" rel="tag">宋鸿兵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-4/" target="cdt-mirror">【麻辣总局】阿Q新传</a>
 </h2>
@@ -605,71 +686,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/422839/" target="cdt-mirror">【对比新闻】北京大气污染治理“取得阶段性成效”</a>
-</h2>
-<p><p><strong>不止是北京，河北的大气污染治理也“取得阶段性成效”了：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%88%90%E6%95%88.jpg" rel="attachment wp-att-422840"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%98%B6%E6%AE%B5%E6%80%A7%E6%88%90%E6%95%88.jpg" alt="阶段性成效" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/阶段性成效-247x300.jpg 247w, http://chinadigitaltimes.net/chinese/files/2015/12/阶段性成效.jpg 748w" sizes="(max-width: 748px) 100vw, 748px"></a></p>
-<p><strong>媒体官微转发时的配图，你们感受下：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%BA%E6%B0%91%E7%BD%91.png" rel="attachment wp-att-422844"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%BA%BA%E6%B0%91%E7%BD%91.png" alt="人民网" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/人民网-300x211.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/人民网-768x541.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/人民网-1024x721.png 1024w" sizes="(max-width: 2344px) 100vw, 2344px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png" rel="attachment wp-att-422841"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png" alt="vista看天下" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/vista看天下-300x149.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/vista看天下-768x381.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/vista看天下-1024x508.png 1024w" sizes="(max-width: 2284px) 100vw, 2284px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png" rel="attachment wp-att-422843"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png" alt="21世纪经济报道" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/21世纪经济报道-239x300.png 239w, http://chinadigitaltimes.net/chinese/files/2015/12/21世纪经济报道-768x964.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/21世纪经济报道-816x1024.png 816w" sizes="(max-width: 1782px) 100vw, 1782px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%BD%91%E6%98%93.png" rel="attachment wp-att-422842"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%BD%91%E6%98%93.png" alt="网易" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/网易-342x1024.png 342w, http://chinadigitaltimes.net/chinese/files/2015/12/网易.png 677w" sizes="(max-width: 677px) 100vw, 677px"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/aijun100" target="_blank">@舞心居士</a>：这个事吧，就得看风的脸色了。有风了，就解决了100%，没风了，又降到0%了。风小点，可能就是10%、30%，风大点，可能就是60%、80%。解决了，是政绩，没解决，是自然恶劣啊<img title="[酷]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]"></p>
-<p><a href="http://weibo.com/1664591801" target="_blank">@灼成褐色的笑容</a>：人民网的意思是明明看得见，你们非得‘’装的‘’看不见，演戏呢你们，<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@三刀流_D_Roy：北京欢迎你，编瞎话感动你，流动中的煤里充满着沼气。咦，给配图点赞！</p>
-<p>@TannerChen：连亩产一万斤的都看不过去了</p>
-<p>@彬彬有礼-xb：2015年度关键字-吹！</p>
-<p>@唧唧歪歪的小屁孩：看了这个以后，我表示我吹牛逼的技术还是有待于提高</p>
-<p>@保磊微博：要不是我眼睛没有瞎，我差点儿就信了。</p>
-<p>@f4ng012：明天有风，都爆表了就不用治理了</p>
-<p>@云中的金龙：因为已经爆表，北发说的是表外的值！</p>
-<p>@奥巴是匹黑马：为什么我们感受到的是越来越糟糕，除了单双号限行，请问还有过哪些治理措施，讲给我们听听，读书少，不要骗我！</p>
-<p>@酷儿要做教书小能手：哎妈呀，班里的学生一个个戴口罩上课还都咳咳咳地咳嗽，都爆表了还好意思说有成效！气的我想骂人！</p>
-<blockquote><p>@咦你在看什么那么好笑：可以的<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv.jpg" rel="attachment wp-att-422845"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv.jpg" alt="47bf5a84jw1ezbxg9du95j218g0ps0wv" width="440" height="255" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/47bf5a84jw1ezbxg9du95j218g0ps0wv.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
-<p>@眼大肚子小吃不胖的云：人家才没有睁着眼睛说瞎话，雾霾太大，睁着眼睛和闭着眼睛没区别</p>
-<p><strong>@念正守恒：为什么他们知道老百姓知道他们在说谎他们还要说谎呢？</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/422839/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E6%94%B9%E5%A7%94/?category=18271" rel="tag">发改委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/" target="cdt-mirror">【真理部】关于计生法修改删除失独补助</a>
-</h2>
-<p><p>全国人大通知：请注意，网上关于计生法修改删除失独补助的报道是错误的，请通知本媒体网站、微信、微博等各平台不要转载，已经发报道的请删除。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC/?category=18271" rel="tag">失独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E5%AE%B6%E5%BA%AD/?category=18271" rel="tag">失独家庭</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E8%AE%A1%E7%94%9F%E6%B3%95%E8%8D%89%E6%A1%88%E5%88%A0%E9%99%A4%E5%A4%B1%E7%8B%AC%E8%A1%A5%E5%8A%A9/" target="cdt-mirror">【真理部】关于计生法草案删除失独补助</a>
-</h2>
-<p><p>全国人大常委会：请注意，网上关于计生法草案删除失独补助系误读，请通知本媒体网站、微信、微博等各平台不要转载，已经发报道的请删除。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p>法制晚报：《全国人大常委会：计生法草案删除失独补助系误读》</p>
-<p>法制晚报讯(记者 温如军)12月21日，十二届全国人大常委会第十八次会议初次审议了人口与计划生育法修正案草案。这是本年度最后一次常委会，会议的一个主要议程就是审议人口与计划生育法修正案草案。</p>
-<p>除了“全面两孩”这一核心主旨外，草案所涉及的晚婚晚育假的取消，失独家庭的社会保障，以及在一定程度上合理却并不合法的代孕等内容，因为关切到每个人和每个家庭的切身利益，从而引发社会各界普遍关注。</p>
-<p>23日，全国人大常委会对草案进行了分组审议。</p>
-<p>有媒体报道称，草案删除了跟独生子女奖励有关的规定，其中包括失独家庭扶助条款。消息引发社会各界热议。</p>
-<p>法晚记者注意到，我国现行《人口与计划生育法》第27条规定：“独生子女发生意外伤残、死亡，其父母不再生育和收养子女的，地方人民政府应当给予必要的帮助。”</p>
-<p>十几年前制定的这部法律，目的是为了实现人口与经济、社会、资源、环境协调发展，维护公民合法权益，促进家庭幸福、民族繁荣与社会进步。当然有利推行计划生育，更是其出台的最为核心的动力。</p>
-<p>据法晚记者了解，修正案草案删除了有关条款，但未取消对失独家庭的扶助。</p>
-<p>修正案(草案)第八条规定，本修正案自2016年1月1日起旅行。本修正案实施前，按照规定应当享受计划生育家庭老年人奖励扶助的，继续享受相关奖励扶助;已经获得《独生子女父母光荣证》的夫妻。按照规定继续享受独生子女父母奖励，独生子女发生意外伤残、死亡的，可以按照规定获得扶助。</p>
-<p>文/记者 温如军</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E8%AE%A1%E7%94%9F%E6%B3%95%E8%8D%89%E6%A1%88%E5%88%A0%E9%99%A4%E5%A4%B1%E7%8B%AC%E8%A1%A5%E5%8A%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC/?category=18271" rel="tag">失独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E5%AE%B6%E5%BA%AD/?category=18271" rel="tag">失独家庭</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -681,7 +697,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -691,5 +707,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

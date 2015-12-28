@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,106 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E5%8F%8D%E6%81%90%E6%B3%95-%E6%89%B9%E8%AF%84%E8%80%85%E6%8B%85%E5%BF%A7%E6%94%BF%E5%BA%9C%E6%BB%A5%E7%94%A8%E6%9D%83/" target="cdt-mirror">纽约时报 | 中国通过反恐法 批评者担忧政府滥用权力</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge.jpg" alt="多国驻京领事馆提醒圣诞节前后提防危险后，北京三里屯提高警力，严加戒备。" width="600" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge-300x207.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>多国驻京领事馆提醒圣诞节前后提防危险后，北京三里屯提高警力，严加戒备。</p></div>
+<p>中国立法机构周日表决通过了《反恐怖主义法》，在此之前，该法律的草案已在国际社会引起了长达数月的争议。人权组织、商业团体及奥巴马总统都表达了批评。</p>
+<p>批评者说，该法律草案中对于恐怖主义草率地采取了宽泛的定义，赋予政府新的审查权力以及取得敏感商业数据的授权。</p>
+<p>政府认为，为了防止恐怖袭击，这些授权都是必要的。反对者则指出，新的权力可能被滥用于监视和平的公民、窃取技术秘密。</p>
+<p>批评者的意见是否说服政府削弱了法律的文字不得而知：官方新闻媒体没有立即公布新的法律文本。但是，一位在全国人民代表大会常务委员会工作的官员表示，至少有一些向国家授予更大权力，以获取加密数据的措辞，保留在法律中。</p>
+<p>这位官员叫李寿伟，他在人大常委会在北京举行的新闻发布会上说，“不光是在中国，国际上很多地方越来越多的恐怖分子利用网络宣扬煽动恐怖主义，还利用网络组织策划实施恐怖活动。”</p>
+<p>刑法专家李寿伟说，反恐法包括一项规定，要求电信业务经营者、互联网服务提供者“应当为公安机关、国家安全机关依法进行防范、调查恐怖活动提供技术接口和解密等技术支持和协助。”</p>
+<p>中国人大在共产党的控制之下，人大常委会通过反恐法是在当局对反政府暴力日益不安之际，这种暴力在中国西部民族间分歧深重的<a href="http://cn.nytimes.com/china/20150817/c17sino-xinjiang/" target="_blank" rel="nofollow">新疆</a>尤为严重，那里的少数民族维吾尔族中的一些成员一直在与政府抗争。</p>
+<p>巴黎今年11月遭受大规模恐怖袭击之后，中国领导人已经<a href="http://www.xj.xinhuanet.com/2015-12/12/c_1117439482.htm" target="_blank" rel="nofollow">下令安全部队加强戒备</a>，防范发生类似的恐怖屠杀的可能性。</p>
+<p>周末，北京三里屯购物区加强了警戒，那里出现了武警部队。这之前，包括美国大使馆在内的几个外国使馆曾警告说，圣诞节前后，三里屯地区<a href="http://cn.nytimes.com/china/20151224/c24chinathreat/" target="_blank" rel="nofollow">安全风险增高</a>。</p>
+<p>此外，中国外交部<a href="http://cn.nytimes.com/china/20151227/c27china/" target="_blank" rel="nofollow">周六表示</a>，将把法国记者乌尔苏拉·高洁（Ursula Gauthier，又名郭玉）驱逐出境，因为她曾在报道中暗示，中国政府的强硬政策激发了新疆维吾尔族人的暴力行为。</p>
+<p>维吾尔族是一个讲一种突厥语族语言的少数民族，其成员主要是逊尼派穆斯林，他们对自己的宗教和文化受控制、汉族人大批涌入新疆越来越不满。政府认为，心存不满的维吾尔人的暴力行为受到了国际极端组织的煽动和启发，但批评人士说，这些冲突产生的原因是当地人的不满。</p>
+<p>去年3月，在中国西南地区城市昆明的一个火车站，维吾尔族袭击者<a href="http://cn.nytimes.com/china/20140303/c03kunming/" target="_blank" rel="nofollow">用刀砍死</a>了29人。上个月，新疆当局表示，中国安全部队<a href="http://cn.nytimes.com/china/20151123/c23xinjiang/" target="_blank" rel="nofollow">打死了28人</a>，他们被指控策划<a href="http://cn.nytimes.com/china/20151019/c19xinjiang/" target="_blank" rel="nofollow">袭击了一个煤矿</a>，导致16人死亡。</p>
+<p>人权组织警告说，新的法律将向中国政府赋予更多侵扰性极大的权力。中国政府已经拥有广泛的、几乎不受限制地监督和羁押公民的权力，以及要求公司和互联网服务商提供信息的权力。</p>
+<p>“虽然中国当局确实有保护其公民不受暴力袭击的合法责任，但这项法律的通过将会对人权产生一些负面影响，”国际特赦组织(Amnesty International)驻香港的研究员倪伟平(William Nee)通过电子邮件发表评论说。</p>
+<p>倪伟平说，“从本质上讲，该法会赋予当局更多的工具来审查不受欢迎的信息，从而为政府如何进行‘反恐战争’编织自己的故事。”</p>
+<p>官方通讯社新华社<a title="Link: http://news.xinhuanet.com/legal/2015-12/21/c_1117533184.htm" href="http://news.xinhuanet.com/legal/2015-12/21/c_1117533184.htm" target="_blank" rel="nofollow">上周一报道</a>说，反恐法草案的最终版本将恐怖主义定义为，“通过暴力、破坏、恐吓等手段，制造社会恐慌、危害公共安全或者胁迫国家机关、国际组织的主张和行为。”</p>
+<p>在中国使用加密技术的跨国公司之前就已经感到担心，因为该法律的<a title="Link: http://www.npc.gov.cn/npc/lfzt/rlys/2014-11/03/content_1885073.htm" href="http://www.npc.gov.cn/npc/lfzt/rlys/2014-11/03/content_1885073.htm" target="_blank" rel="nofollow">初步草案</a>包含一些条款，可以要求它们交出代码和其它信息，方便当局监视其用户。可能受到影响的跨国公司包括思科、IBM和苹果，它们在中国都有很大的利益关系。</p>
+<p>“过去两三年里，这些公司一直在应对这个加剧的问题，姑且称为‘监督’吧，”香港咨询公司思普知识产权服务(<a title="Link: http://www.sips.asia/" href="http://www.sips.asia/" target="_blank">Simone IP Services</a>)的法律顾问斯科特·D·利文斯顿(Scott D. Livingston)说。他一直在关心<a href="https://www.chinafile.com/reporting-opinion/viewpoint/will-chinas-new-anti-terrorism-law-mean-end-privacy" target="_blank" rel="nofollow">涉及这部法律的讨论</a>。如果反恐法的要求仍然与初稿相同，利文斯顿说，“从政府的角度来看，他们就有了更确凿的依据，来获取这些权限了。”</p>
+<p>今年1月，外国商业团体集体<a href="http://www.nytimes.com/2015/01/29/technology/in-china-new-cybersecurity-rules-perturb-western-tech-companies.html" target="_blank" rel="nofollow">致信习近平</a>，对中国的互联网政策，其中也包括这项立法草案，表达了不安。这项立法可能会要求它们提交敏感数据和商业秘密。</p>
+<p>3月初，奥巴马在接受<a title="Link: http://www.reuters.com/article/us-usa-obama-transcript-idUSKBN0LY2J820150302" href="http://www.reuters.com/article/us-usa-obama-transcript-idUSKBN0LY2J820150302" target="_blank" rel="nofollow">路透社的采访</a>时，对这项法案以及中国政府的类似举措<a href="http://cn.nytimes.com/technology/20150304/c04tech/" target="_blank" rel="nofollow">予以批评</a>。</p>
+<p>拟议的规定“实际上会强迫所有外国企业，包括美国企业，向中国政府机构提供渠道，使其能够监视并追踪这些服务上的所有用户，”奥巴马说。“科技公司是不愿意这样做的。”</p>
+<p>反恐法通过的几天之前，中国外交部发言人洪磊在<a href="http://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/2511_665403/t1327394.shtml" target="_blank" rel="nofollow">例行记者会</a>上说，奥巴马政府的批评是没有根据的。</p>
+<p>全国人大的刑法专家李寿伟坚称，跨国公司没有理由因为这项新的法律感到惊慌。“这样的规定不会影响相关企业的正常的经营活动，”他说。</p>
+<p>周日，人大还批准了对现行法律的修订，以贯彻10月下旬宣布的一项<a href="http://www.nytimes.com/2015/10/30/world/asia/china-end-one-child-policy.html" target="_blank" rel="nofollow">新政策</a>。此前实施了几十年的旧政策规定，城市里的大多数夫妇只能生育一个孩子，而新政策允许所有已婚夫妇生育两个孩子。二孩政策将会于本周五生效。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E5%8F%8D%E6%81%90%E6%B3%95-%E6%89%B9%E8%AF%84%E8%80%85%E6%8B%85%E5%BF%A7%E6%94%BF%E5%BA%9C%E6%BB%A5%E7%94%A8%E6%9D%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%B3%95/?category=18271" rel="tag">反恐法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E6%B3%95/?category=18271" rel="tag">反恐怖主义法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E9%83%A8%E9%98%9F/?category=18271" rel="tag">安全部队</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/" target="cdt-mirror">【网络民议】请按那个橙色键</a>
+</h2>
+<p><p>12月25日，习近平在视察解放军报社时，通过军报微博微信平台，<strong>敲击键盘、发出了一条微博</strong>“值此新年即将到来之际，我代表党中央、中央军委向全体解放军指战员、武警部队官兵和民兵预备役人员祝贺新年。希望大家践行强军目标，有效履行使命，为实现中国梦强军梦做出新的更大贡献！”（搜狐新闻）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5GVx-fxmxxsr3766798.jpg" alt="5GVx-fxmxxsr3766798" width="600" height="417" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/5GVx-fxmxxsr3766798-300x208.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/5GVx-fxmxxsr3766798.jpg 550w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>然而，有细心网友发现，习近平所操作的那台电脑的Enter键，<strong>被贴上了“微博发布”的橙色标签……</strong>这个”多此一举”的标注引起了不少网友对习本人电脑技术水平的怀疑，以及对下级无微不至的“贴心服务”的嘲笑。所以，结合官方的新闻报道，所谓的“敲击键盘发出微博”并不是指习亲自发出了这条消息，习本人只负责在百忙中按下那个醒目的按钮而已。<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/14695269_980x1200_0.jpg" alt="14695269_980x1200_0" width="600" height="410" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/14695269_980x1200_0-300x205.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/14695269_980x1200_0.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9lgruwj21f00z2n87.jpg" alt="9e5389bbjw1ezda9lgruwj21f00z2n87" width="600" height="412" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9lgruwj21f00z2n87-300x206.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9lgruwj21f00z2n87.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9nmc30j21f80z0n82.jpg" alt="9e5389bbjw1ezda9nmc30j21f80z0n82" width="600" height="410" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9nmc30j21f80z0n82-300x205.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9nmc30j21f80z0n82.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9ri4z4j21fa0z0tjh.jpg" alt="9e5389bbjw1ezda9ri4z4j21fa0z0tjh" width="600" height="409" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9ri4z4j21fa0z0tjh-300x205.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9ri4z4j21fa0z0tjh.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-1024x768.jpg" alt="87e90f81gw1ezeipxjd64j20zk0qo0ut" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-1024x768.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut.jpg 1280w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-1024x768.jpg" target="_blank">大图</a>可看清标签</p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>blogtd：习发微博被嘲一指禅这事活该，作秀要么来真的，像人家影帝就真哭，不行就干脆仪式化，晚启动仪式都会做一个像征性的按钮让领导亲自按一下，没人觉得有问题，现在弄得不伦不类，小乖友供个方案：做个御用键盘发微博专用，让丽媛提着，比核按纽还牛哦。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CXSqzpsUoAAyUR-.png" alt="CXSqzpsUoAAyUR-" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CXSqzpsUoAAyUR--300x225.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/CXSqzpsUoAAyUR-.png 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>变态辣椒：習近平用解放軍報的微博賬號發微博，視頻截圖顯示，他很可能是個電腦白癡，下屬生怕他不知道那個return鍵，還特意用貼紙醒目標出，不過他那一指禪式的手法已經出賣了他。</p>
+<p>蒋梦君啊啊：主席这打字手势，这段话没俩小时打不完。</p>
+<p>何以丶言希：谁再敢嫌弃我用一只手打字太慢时，我可以大声的告诉他，我是在跟党走！！</p>
+<p>饭BB7GDTop：网红习，好好练练。我们新浪就是你的江山了。虽然中国都是你的江山。</p>
+<p>Piggy看到我了吧hiahiahia：看这种新闻的贴图 不禁让我想起了金三胖开战斗机的那个图……</p>
+<p>十叁号熊兎子：请按内个红色按键 对！就是内个！</p>
+<p>别问我就这样了：习大大开通微博，可以想象每天给他私信或留言的数量绝对破亿。</p>
+<p>慕少艾：动作和我刚上网的时候一模一样哈哈</p>
+<p>lvlv0341：习大大就按了个enter键吗？</p>
+<p>嘿幼稚老罗：作秀无下限。</p>
+<p>奔跑吧露露：习大大又不是脑残！会敲键盘很奇怪吗？</p>
+<p>听水半夏：局域网……</p>
+<p>愿时光挽留所有人：只想知道习大大用过的，电脑、键盘、桌子、凳子，会不会被存起来</p>
+<p>TIM0队长：按enter键就可以发微博吗？怎么做到的</p>
+<p>DJL_坩埚上校：新浪此刻的内心应该是崩溃的，习大大用微博可以认为从国家层面上这个平台已经得到认可了，不过我党看上的东西怎么能不受国有资本的控制呢</p>
+<p>太乙堂中医院：感觉中国军人丢人</p>
+<p>Hyuk-Growl-黄洋：一个历史性的时刻！</p>
+<p>ooiiiioo：有什么好稀奇的，在中国就是这样，领导人无论干什么都是新闻。</p>
+<p>乡下韬韬：三胖的cosplay，绝了！</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%AD%97/?category=18271" rel="tag">打字</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%AE%E7%9B%98/?category=18271" rel="tag">键盘</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B8%8C%E7%89%B9%E5%8B%92%E8%A6%81%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%88%90%E4%B8%BA%E5%BE%B7%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E4%B8%AD%E7%9A%84%E4%BC%9F/" target="cdt-mirror">唐映红 | 希特勒要怎样才能成为德国人民心中的伟人？</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w.jpg" alt="23e2c3e8ce09b321613c6386cc18a724_w" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w.jpg 980w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><strong>问：希特勒要怎样才能成为德国人民心中的伟人？</strong></p>
+<p>答：众所周知，<strong>纳粹德国的元首希特勒是人类历史上被盖棺定论遭彻底否定的历史人物，在德国公开地颂扬希特勒，或者宣传希特勒思想，不仅是不合时宜的，根本就是违法犯罪行为。</strong>但是，希特勒在德国执政期间，不仅将一战失败后积贫积弱的德国发展成世界强国，真正意义上实现了“<strong>德意志民族的伟大复兴</strong>”，实现了从俾斯麦时代就萦绕在德国人心中的“<strong>德国梦</strong>”。</p>
+<p>例如，德国记者、历史学家格茨•阿利(Götz Aly)的《希特勒的民族帝国：劫掠、种族战争和纳粹主义》（Hitlers Volksstaat: Raub, Rassenkrieg und nationaler Sozialismus）书中，谈到“<em>今天的欧盟农业制度、配偶分割课税制度、道路交通规则、机动车强制责任保险制度、儿童补助制度、税率等级制以及自然保护的基础都源自那个时代。</em>”换言之，<strong>希特勒领导下的第三帝国在内政方面取得了相当杰出的成就，而且开创了许多足以影响迄今的欧盟的政策。</strong>不仅如此，纳粹时期的德国将整个国家民族从一战后后屈辱和泥潭中（一战后德国的通货膨胀仅次于当今的津巴布韦）带入<strong>伟大的德意志民族复兴之路</strong>，不仅<strong>大国崛起</strong>，<strong>对世界说不</strong>，也<strong>给整个德国的老百姓带来自豪和实惠</strong>（补助儿童，提升工人养老金；进行文字改革；为困难家庭提供经济适用房和廉租房，征收房东房产税，且禁止其擅自提高房租；许诺给人民发放汽车，推强制车险；抬高关税壁垒，补贴本国农业；发行国债，加强基础设施建设等等。）</p>
+<p>按照历史唯物主义和辩证唯物主义，希特勒尽管犯过一些过激、冒进的错误，也带来一些灾难性的后果，但也应该一分为二地辩证看待，而不应该一棍子打死。特别是，<strong>如果希特勒的事业没有失败，或者抗住了英美等西方敌对势力的煽动颠覆，</strong><strong>坚持住而没有亡党亡国</strong>，那么希特勒是否有可能成为德国人民心中的伟人？</p>
+<p><strong>当然可能，但前提必须是希特勒的第三帝国以及他领导的德国国家社会主义工人党</strong>（Nationalsozialistische Deutsche Arbeiterpartei，简称纳粹党,Nasos，为德文Nationalsozialismus的缩写）<strong>能取得胜利，或至少没有亡党亡国。</strong></p>
+<p>一旦希特勒与他的纳粹党得以继续统治德国，那么希特勒就<strong>不难被塑造，并且被德国人民普遍地看作是德国的一代伟人，而哪怕他所做过的所有事情与历史既往一模一样。</strong>事实上，只需要做到如下几个要点，那么希特勒就不会被现时代的德国人民视为历史的罪人，恐怖暴君，而反而成为<strong>德国人民心中不灭的太阳，印刷在高面额的德国马克上。</strong></p>
+<p>首先，<strong>对历史的诠释必须掌握在纳粹党宣传部的把握中</strong>，历史教材中应该弘扬什么，应该避免谈到什么，应该怎么解释都应该由纳粹委员会审定并颁发。所有学校、教师必须按照纳宣部的要求教学；媒体、艺术创作也必须牢牢地弘扬主旋律。例如，<strong>纳粹的对外侵略，是为了解放受资本家压迫的斯拉夫民族，与代表权贵资本主义的犹太人作不懈的斗争。</strong></p>
+<p>其次，<strong>要妖魔化英美为代表的西方国家，向民众灌输“西方敌对势力亡我之心不死”，将一切困难都归咎于西方敌对势力的作祟</strong>，包括柏林的雾霾，北海养殖带鱼的减产，等等。</p>
+<p>再者，<strong>在从小学到大学的所有教育中，强制性加入纳粹意识形态，特别是希特勒思想的课程。</strong>无论是要获得小学文凭，还是要就读高校，试图获得硕士、博士，以希特勒思想为核心的政治思想教育是必须掌握的课程。</p>
+<p>当然，无论是媒体，还是影视文学，以及随处可见的街头雕塑、宣传画，<strong>希特勒的形象都是积极、伟岸，和蔼可亲的。</strong>而且纳粹党甚至可以<strong>把希特勒思想作为整个德国的核心价值观，不容许亵渎。</strong>哪怕是像英、美这些国家出现任何有辱希特勒的广告创意、漫画等，都将遭到纳粹外交部的严正抗议，因为“<strong>伤害了德国人民的感情</strong>”。</p>
+<p>随着时代的变迁，对希特勒的反思也不是不可以，但必须<strong>以唯物辩证法和历史唯物主义为理论基础一分为二，成绩是七分，错误是三分。</strong>而且，希特勒的错误只不过是在针对贪婪的权贵资本主义的犹太人，以及外国那些欺压工人群众的资产阶级政权的斗争过程中，稍微过激而已。但他带领德国从积贫积弱，一穷二白的泥潭中“<strong>站起来了</strong>”，实现了“<strong>德意志民族的伟大复兴</strong>”，功不可没。</p>
+<p>如是，<strong>希特勒就成为了德国人民心中的伟人。</strong>而德国柏林大学的汉默·德强（Hanmer Detschöh）教授可以在街头骄傲地掌掴那些对希特勒有微词的八旬老人而不用担心被警察逮捕。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B8%8C%E7%89%B9%E5%8B%92%E8%A6%81%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%88%90%E4%B8%BA%E5%BE%B7%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E4%B8%AD%E7%9A%84%E4%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%9D%E5%BC%BA/?category=18271" rel="tag">王宝强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E8%80%85/?category=18271" rel="tag">专制者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%B1%82%E6%98%AF%E6%9D%82%E5%BF%97%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E5%BC%80%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%A3%E4%BC%A0/" target="cdt-mirror">【异闻观止】求是杂志：伍皓：理直气壮地开展中国宣传学研究</a>
 </h2>
 <p><p>2013年8月19日，习近平总书记在全国宣传思想工作会议上发表重要讲话时指出：“在长期实践中，我们党的宣传思想工作积累了十分丰富的经验。这些经验来之不易、弥足珍贵，是做好今后工作的重要遵循，一定要认真总结、长期坚持，并在实践中不断丰富和发展”。这一重要论述，给宣传思想战线提出了努力开展中国宣传学研究的重大任务。</p>
@@ -618,92 +715,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/422900/" target="cdt-mirror">【网络民议】不收钱成了另类？贵圈好乱</a>
-</h2>
-<p><p><strong><a href="http://gd.sina.com.cn/news/m/2015-12-26/detail-ifxmxxsr3740651.shtml">南方都市报｜百优县委书记陈行甲 怒批官员讲话稿蹿红</a></strong></p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/6204ece1gw1ezcuhxb56dj20f00j9mzh.jpg" rel="attachment wp-att-422908"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/6204ece1gw1ezcuhxb56dj20f00j9mzh.jpg" alt="6204ece1gw1ezcuhxb56dj20f00j9mzh" width="315" height="405"></a></p>
-<p>“工程建设岂能成为官员的唐僧肉？”昨日，湖北巴东县委书记陈行甲在全县工程建设整治大会的发言稿在网上蹿红。这份9000余字的发言稿措辞严厉，提及多个官员在工程项目上的贪污腐败行为，并点名批评包括原县委副书记在内的多名官员。</p>
-<p>[…]“我是不收钱的县委书记，没想当大官，当了全国百优县委书记，也不会收敛锋芒等待提拔，会一如既往敢做敢言。”</p></blockquote>
-<p>然而…<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%87%E5%BA%86%E8%89%AF.jpg" rel="attachment wp-att-422907"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E4%B8%87%E5%BA%86%E8%89%AF.jpg" alt="万庆良" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/万庆良-212x300.jpg 212w, http://chinadigitaltimes.net/chinese/files/2015/12/万庆良.jpg 524w" sizes="(max-width: 524px) 100vw, 524px"></a></p>
-<blockquote><p>万庆良：“我工作了20多年，还没买房，现在住的是市政府的宿舍，在珠江帝景130多平方米，每月交租600元，当然，政府会补贴一部分房租。”</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/06/%E5%8F%8D%E8%B4%AA%E5%B7%A8%E6%98%9F%E5%91%A8%E6%B0%B8%E5%BA%B7.png" rel="attachment wp-att-395421"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/%E5%8F%8D%E8%B4%AA%E5%B7%A8%E6%98%9F%E5%91%A8%E6%B0%B8%E5%BA%B7.png" alt="反贪巨星周永康" width="450" height=""></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/3318505591" target="_blank">鹏tanks</a>：徐才薄：我最大的缺点就是清廉！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/1298260145" target="_blank">mlqc001</a>：赶快把这人抓起来，他的潜台词竟然是说别的县委书记都收钱！<img title="[抓狂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/crazya_org.gif" alt="[抓狂]"></p>
-<p><a href="http://weibo.com/1218338990" target="_blank">传达室的王大爷</a>：光捡钱了……<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p><a href="http://weibo.com/nicotang" target="_blank">YuYeTanG-OneTwoThree</a><i title="微博达人"></i>：雾霾里有纯净？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@昵称不能为空yc：这个需要大家监督才能证实。万庆良之前还高调述廉，说自己租房子住，谁知道贪污1.1亿。。。</p>
-<p>@我去年买了个表110：不收钱，收金条、汽车、股票、房子、女色。。。。</p>
-<p>@武东木文4698：这哥们儿要卡，记住了，送卡</p>
-<p>@SiuJiYung：出事之前，它们都是这样评价自己的。</p>
-<p>@奢望free：本来应该的事情，在党的领导下，清廉成了奢侈</p>
-<p>@尼康D60：万庆良每次会议都这样说……哈哈</p>
-<p>@把想念藏起来：你的意思是每个县委书记都收钱</p>
-<p>@ad2000：对老百姓很正常的道德标准，对你们当官的，就成了千里挑一的优秀品质。</p>
-<p>@仰望宇空：没有用的。现在谁信啊。</p>
-<p>@Taylor_Y：君不见每一个贪官上任时都是嘴上清如水吗？</p>
-<p>@蛤粉笔记本：呵呵呵，老兄您已经被全国人民盯住了，好自为之！</p>
-<p>@兵a阳：别吹了，指不定哪天你就站在审判台上痛哭流涕说对不起党和人民，谈四个定力</p>
-<p>@苍耳在冬季：不收钱就算优秀了 原来那些没评上的都收钱了</p>
-<p>@CXCC-Director_Fu：我现在就怕这些公务员说这样的话~</p>
-<p>@忘尘D：徐才厚：我最大的缺点就是廉洁。</p>
-<p>@长海001：这对于一个官员来说是应该的，正常的，竟然要上新闻？</p>
-<p>@亮仔诶：对于优秀县委书记的宣传开始加码了，大大的嫡系部队开始集体性地升一格</p>
-<p>@aboa007：【没查】之前 ，人人【都】是【焦裕禄】。查了都是【和珅】。</p>
-<p>@西瓜和酱油：不收钱成了另类？贵圈好乱</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/422900/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">官员作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C/" target="cdt-mirror">东网｜吴戈：平安夜是怎么被搅黄的</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151226000316006-1226_05411_001_01p.jpg" alt="bkncn-20151226000316006-1226_05411_001_01p" width="551" height="393" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151226000316006-1226_05411_001_01p-300x214.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/bkncn-20151226000316006-1226_05411_001_01p.jpg 608w" sizes="(max-width: 551px) 100vw, 551px"></p>
-<p>当前中国社会节日过多、过于商业化，圣诞节也不例外，教友们估计也看不上那么多无神论者为了促销和约炮瞎凑热闹。但是，哪怕非信教社会只是借圣诞当个幌子，为什么没看上别的宗教的节目，比如佛诞，显然还是与西方文明在现实世界的繁荣和巨大文化影响有关。文明从来就不断交融，哪怕形式不那么严谨甚至有些儿戏（比如埃塞俄比亚人画的耶稣就是个黑人），只要不像IS那样让历史倒退，都完全可以视为一种应予尊重和包容的自由。在这种包容中，情人节和七夕、圣诞和春节，哪怕双十一双十二这种生造的商业节日，都由他去好了。</p>
-<p>然而今年的圣诞暗流涌动，严重的雾霾并非最大的搅局者，圣诞节正在成为意识形态斗争的新阵地，着实让人震惊。</p>
-<p>首先是长沙的一些湖南大学学生身着汉服，到市中心广场与借圣诞促销的商业活动打对台戏。没人说圣诞不能宣传汉文化，但他们的牌子公然以“中国人不过外国节”为口号，显然就略为干涉了他人的自由。</p>
-<p>当然，这比起广州一批民族主义者深入黑人聚居区，向中国房东散发传单，号召将黑人赶出中国去，还算温和。后者已完全进入了种族歧视的境地。</p>
-<p>北京这次平安夜前发生的一幕则不负政治首都的高大上，直接以美英使馆向本国人发出警告称三里屯可能有针对外国人的袭击，中国也以王牌反恐特战队将这个圣诞商业地标围个剑拔弩张，将平安夜搅成了恐怖夜、冷清夜。</p>
-<p>反恐事关人命，即使美英得到的恐袭线索来自中方，也应允许有一定虚警率，而且恐袭者因已有预警而放弃的可能也的确有，有关的来龙去脉政府也的确可能为避免泄露反恐情报来源而不予公开。</p>
-<p>即使这样，如果在一个责任政府和新闻自由的社会，治安机构恐怕有责任多解释几句，至少应对社会有必要的心理安抚。但北京的现实是，绝大多数公众对首次遇到的大型商场、超市黄色预警（只比正常高一级）意味着什么毫无概念，笔者附近一家外资大型超市25日罕见地在节日营业时间大规模重新布置货架，几乎无法采购。对三里屯的风声鹤唳，团派的北京青年报的政治微信公号“政知局”信誓旦旦地称预警“那是相当地有用”，还以14年前的“9·11”后美国使馆也发布过一次，企图证明这非常正常。</p>
-<p>如果现在就说有司此举意在打击圣诞文化渗透，毕竟还有阴谋论之嫌，但北京市各学校接到管理当局明确指示，不得举行圣诞活动，甚至必须将圣诞树叫作“新年树”，已经不是第一年这样了。</p>
-<p>教育当局的理由，居然是国家实行“教育与宗教分离”原则，可是<a href="http://chinadigitaltimes.net/space/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89">共产主义</a>对中国青少年从小到大几十年的灌输，难道不是一种<a href="http://chinadigitaltimes.net/space/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%B7%A5%E4%BD%9C">意识形态</a>？而中国社会大多数家庭对圣诞的关注度，不过停留在对一种外国文化习俗的欣赏和商业消费上的节日气氛，过圣诞而不信基督的多的是，当局在慌什么？</p>
-<p>慌什么？大清正脉维系，义和团的反洋教、仇外不也差点立下大功吗。共产主义药效渐失，包上民族主义的糖衣，突然发现有奇效。君不见北京有几条地铁线路车箱内的液晶广告屏自9月3日以来，除了<a href="http://chinadigitaltimes.net/space/93%E9%98%85%E5%85%B5">抗战阅兵</a>实况轮番轰炸，至今没有任何别的内容吗？有的线路还怕招人反感，关掉了解说音量，有的则是声如洪钟地强行灌输爱国基情。</p>
-<p>当这个国家的公众分裂成接受西方文化和仇外反西方两大阵营（爱看阅兵的和厌恶看阅兵可能将会是其标志），义和团死灰复燃的希望也就日益明朗了。</p>
-<hr><p><small>© 网民好声音 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E8%AF%9E/?category=18271" rel="tag">圣诞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E8%AF%9E%E8%8A%82/?category=18271" rel="tag">圣诞节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E6%96%87%E5%8C%96/?category=18271" rel="tag">西方文化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E9%AB%98%E6%A0%A1%E6%8E%92%E6%9F%A5%E5%B8%88%E7%94%9F%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0-%E5%AE%88%E6%9C%9B%E6%95%99%E4%BC%9A%E5%A4%9A/" target="cdt-mirror">自由亚洲｜北京高校排查师生宗教信仰 学生信徒被约谈</a>
-</h2>
-<p><p><em>原标题：北京高校排查师生宗教信仰 守望教会多位学生信徒被约谈</em></p>
-<p>北京等地的高等院校在今年圣诞节前夕，向研究生导师及学生发出问卷调查，排查他们的宗教信仰情况。北京守望教会一位基督徒说，他们一个 聚会点的学生基督徒不久前被当局约谈。另一位基督徒称，她在合肥就读过的一所大学，也有校方排查学生宗教信仰的情况。日前，中国大陆各市教育局对幼儿园发 出通知，要求将“圣诞树”改称“新年树”。</p>
-<p>据总部在美国德州的基督徒人权机构对华援助协会新闻网消息，在2015年圣诞节前夕，中国多所大学对在校师生进行排查，当局以问卷方式调查他们的宗教信仰。据基督徒在网络聊天群转发北京工商大学校方对师生的问卷调查称，“为贯彻落实国家《宗教事务条例》，根据校党委工作安排，学校拟对在校教职工及学生涉及宗教情况进行统计：1.请各位老师回复本人是否信仰宗教（如答复“是”，请您回复信仰宗教类别）；2.如您担任研究生导师，请您统计本人所指导的研究生是否有涉教、信教情况，并将统计情况于本月23日下班前通过短信、飞信、微信、邮件、电话等形式回复研究生辅导员。若有涉教情况请务必回复。”</p>
-<p>该网站还发出一份来自北京某高校党委研究生工作部于12月21日发出的通告，名为“关于在研究生中排查守望教会参与者的工作方案”，该文要求在一周时间内，对所有参与守望教会活动的研究生进行排查，并排查研究生党员中有宗教信仰的情况。对此，守望教会一位匿名的基督徒25日告诉本台，该教会位于北京房山的聚会场所，有多位信徒被当局约谈，对方试图从信徒口中了解教会的情况。他说，北京某高校排查守望教会的通告是真的：</p>
-<p>“肯定是真的，而且主要是针对守望教会。他（政府方人员）就问你 是不是在守望教会聚会，有没有参加。守望教会在房山那边有一个大学城，也是一个分点，在那边聚会的学生受到了盘查、约谈。我就想，会不会是北京理工大学的 （学生），是校方发了这个文件，去盘查研究生中是否有人参加守望教会的聚会”。</p>
-<p>北京某高校发出的该份材料称，守望教会未经政府合法登记，不是合法的宗教团体，其组织在室内聚会和户外聚会是非法的宗教活动，不受法律保护，政府将依法取缔。排查时间由12月21日至27日。28日将筛选情况上报研究生工作部。</p>
-<p>北京一位大学研究生同学对记者说，北京的其他几所大学也在排查学生的宗教信仰情况：</p>
-<p>“我只是听他们在说，上级下文件到班主任，班主任要询问每一个学生。问你是否有宗教信仰，你有的话，就问你信主的一些状况”。</p>
-<p>记者：北京工商大学最近发了一个通知，统计研究生是否有信教情况。</p>
-<p>回答：对，是。我的导师也知道，现在可能是针对高校。我在合肥的高校，不止我就读的一家，很有可能北京的高校也不止工商大学一家。</p>
-<p>另外，北京市教育局向幼儿园发出通知，称不准开展与“圣诞节”相关的节日活动，不准装饰圣诞树，一律叫“新年树”。 并安排教育局领导暗访监督。还称，圣诞节虽起源于基督教，但事实上已演化为一个大众参与的世俗性节日，已具有全民性普世性质。一位匿名信徒告诉记者：</p>
-<p>“教育部有那么一个通知，反正是针对圣诞节。对幼儿园的小孩子，好像是说不许搞圣诞节”。</p>
-<p>据北京及广州等地的信徒称，今年的圣诞节，他们过得非常谨慎及小心翼翼，为避免受到当局的骚扰，从往年的上百人聚会分散为二、三十人的小规模聚会。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E9%AB%98%E6%A0%A1%E6%8E%92%E6%9F%A5%E5%B8%88%E7%94%9F%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0-%E5%AE%88%E6%9C%9B%E6%95%99%E4%BC%9A%E5%A4%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -715,7 +726,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -725,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

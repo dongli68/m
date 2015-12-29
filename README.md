@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%B8%A6%E7%BB%99%E6%88%91%E4%BB%AC%E7%9A%84%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8B%87/" target="cdt-mirror">纽约时报 | 艾未未：浦志强案带给我们的希望与勇气</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge.jpg" alt="浦志强案" width="600" height="360" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge-300x180.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge-80x48.jpg 80w, http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>柏林——2011年4月，一群中国便衣警察将我在北京机场绑架，然后把我带到一个秘密地点<a href="http://www.nytimes.com/2011/04/04/world/asia/04china.html" target="_blank" rel="nofollow">拘留</a>了81天。虽然在关押期间，大多数审问都集中在我的政治活动上，但被释放之后，政府却捏造说我的公司偷税漏税，要求我交清240万美元的税款和罚金。我问他们为什么这样指控我，一名官员说，“不罚你，你也不会消停。”</p>
+<p>为了澄清事实，争取公正，我决定上诉。由于案子的敏感性很高，我联系了浦志强，他以敢为那些被中国专制政权打压的政治活动人士辩护而著名。出于仗义，浦志强接下我的上诉案。他办案条理清晰，逻辑明了，记忆惊人。</p>
+<p>多年来，志强为很多记者、上访者和人权活动者进行过辩护。他维护法制的行动，连同他的勇气和出类拔萃的能力，令他成为一个政治迫害目标。他的影响力日增，中国政府视之为威胁。</p>
+<p>浦志强在<a href="http://cn.nytimes.com/china/20151215/c15lawyer/" target="_blank" rel="nofollow">被关押</a>了19个月之后，于12月14日在北京市第二中级人民法院以“煽动民族仇恨”、“寻衅滋事”的罪名受审。检方的指控基于浦志强在社交网络上的七条微博。上周二，法庭宣布这些罪名成立，判处他有期徒刑三年，缓期三年执行。这一判决意味着，他将永远失去律师的身份——他多年来利用法律替无声者发出声音的平台也被摧毁。</p>
+<p>这个判决好于预期，可能是因为国际社会的压力产生了影响，但获释后他也不可能像正常人那样的生活。警方会监视他的一举一动，如果他在未来三年内继续开展政治活动，就有可能随时被捕入狱。</p>
+<p>警方在2011年6月结束对我的<a href="http://www.nytimes.com/2011/06/23/world/asia/23artist.html" target="_blank" rel="nofollow">羁押</a>之后，扣押了我的护照，禁止我在互联网上发布任何文章。还禁止我接受媒体采访。我工作室外的建筑物和电线杆上安装了监控摄像机，楼外还有警察驻扎。我要出门必须获得许可，即使出了门，也有便衣紧跟着我。浦志强也会遭到类似的待遇。</p>
+<p>我第一次见到浦志强是在2009年的夏天，当时他是四川作家谭作人的辩护律师。我不认识谭先生，但我知道他开展过一项与我类似的公民调查。我们都试图揭开一个真相：<a href="http://www.nytimes.com/2008/05/13/world/asia/13china.html" target="_blank" rel="nofollow">2008年5月发生的汶川地震</a>中，有5000多中小学生死于倒塌的校舍中。这在很大程度上是由于校舍的施工质量有问题。谭先生把他的调查结果张贴在网上，结果被警方逮捕。</p>
+<p>作为谭的律师，浦志强来到我的工作室交流意见。他是一个身材高大的北方人，嗓音明亮沉稳。他说如果我出庭作证，我的调查结果对谭的辩护很有利。他的执着令我感动。我毫不犹豫地同意了。</p>
+<p>谭先生受审当日的凌晨3点，警方突击<a title="Link: http://www.nytimes.com/2009/08/13/world/asia/13china.html" href="http://www.nytimes.com/2009/08/13/world/asia/13china.html" target="_blank" rel="nofollow">搜查了我住的酒店</a>，并且野蛮地强迫我和我的同事们留在那里，直到审判结束。我头部受伤，危及生命。尽管志强进行了强有力的辩护，谭先生还是被判处了<a title="Link: http://www.nytimes.com/2010/02/10/world/asia/10quake.html" href="http://www.nytimes.com/2010/02/10/world/asia/10quake.html" target="_blank" rel="nofollow">五年有期徒刑</a>。</p>
+<p>中国严重缺少能勇敢到为人权的普世价值而斗争的独立律师。但浦志强不一样。</p>
+<p>1989年，身在北京的浦志强是政法大学的学生。他在天安门广场上绝食抗议。他对我说，政府命令坦克开进市里的那天晚上，他和一个学医的女生是最后撤出广场的人。回宿舍的路上，他们在偏僻的巷子里迷路了。这证明是两人的福气：他们避开了在主路上出没的军人对抗议者的随意扫射。后来，那个女生成了浦志强的妻子。</p>
+<p>浦志强从未停止呼吁政府平反“六四”。去年5月，他在参加了一场纪念六四25周年的私人聚会后，被警方逮捕。我和他的朋友都没想到他会被逮捕并被关押这么久却不开审。在此期间，调查人员仔细盘问他的同事，并彻底审查了他律师事务所的财务记录，希望用经济罪名指控他。当这类企图失败后，他们只能诉诸于他的在微博上发的帖子。</p>
+<p>浦志强是独一无二的，但他的案子却不是。自他被捕以后，很多人权律师都消失了。公众和他们的家人都不知道他们被关押在何处，处境如何。他们没有机会被探视，他们的子女被限制出境。我们可以想象到，在不久的将来，这些律师也会像浦志强一样接受审判，并得到有罪判决。</p>
+<p>在全世界都在滔滔不绝地谈论中国的经济实力时，谁都不应该忘记，它的崛起是以自由和人权为代价的。悲哀的是，中国国内外的很多人接受了司法体制屈从于党的权力这个事实。</p>
+<p>尽管如此，我拒绝麻木和习惯化。我不认为在中国就只能逆来顺受。</p>
+<p>浦志强受审期间，法院外面聚集了一大群勇敢面对警方骚扰的中国支持者和西方人。他们的对浦志强的支持给了我希望。面对来自强大的国家机器的威胁，一个人只需要在一生中大声发出一次声音，我们会战胜恐惧，强迫这个政权做出改变。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%B8%A6%E7%BB%99%E6%88%91%E4%BB%AC%E7%9A%84%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8B%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%96%B0%E9%97%BB%E6%B5%85%E8%96%84%E5%8C%96-%E4%B8%AD%E5%9B%BD%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E/" target="cdt-mirror">美国之音 | 新闻浅薄化 中国调查记者何去何从</a>
 </h2>
 <p><p>作者：慕小易</p>
@@ -172,7 +199,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BF%A1%E5%8A%9B/?category=18271" rel="tag">公信力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">金融监管</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BC%A0%E5%8D%9A%E6%A0%91%EF%BC%9A/" target="cdt-mirror">纵览中国｜张博树：一份了不起的公民宣言 ──读郭飞雄上诉状</a>
 </h2>
@@ -654,41 +681,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%A4%B1%E5%8E%BB%E8%87%AA%E7%94%B1%E7%9A%84%E5%A4%8F%E9%9C%96%E5%BE%8B%E5%B8%88/" target="cdt-mirror">维权网 | 失去自由的夏霖律师</a>
-</h2>
-<p><p>原标题：人权律师夏霖被控“诈骗案”将于2016年1月18至22日开庭（附：肖雪慧： 关注失去自由的夏霖律师）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/200905240531china1.jpg" alt="200905240531china1" width="400" height="300" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/200905240531china1-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/200905240531china1.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></p>
-<p>张思之和夏霖</p>
-<p>（维权网信息员刘云报道）2015年12月27日星期日，本网获悉：人权律师夏霖被控诈骗案将于2016年1月18至22日开庭。在北京警方第三次送检，检方第三次把时间用到极致后，案子上月移送给法院。12月24日下午，夏霖在会见中得知浦律出来，他很为浦志强高兴。</p>
-<p>夏霖律师是于2014年11月8日被抓，当时他刚接手北京民间机构传知行经济研究所创办人郭玉闪的案件。而其后来被控却是“诈骗罪”，目前得知涉及金额1000万。而夏霖本人否认指控。夏霖代理莫律师莫少平称，夏霖所涉借款，属民间借贷，部分尚未到期。</p>
-<p>夏霖律师曾代理“邓玉娇案”、“崔英杰案”、艾未未发课税案等广受海内外关注的维权案件。</p>
-<p><strong>附：肖雪慧： 关注失去自由的夏霖律师（2014年9月5日）</strong></p>
-<p>再有两天，夏霖失去自由就10个月了。6月30日第一次退侦期限用够，已经再次送检，期限也要到了。在浦案那里被用尽的送检-退侦-再送检……，似乎要在夏案故技重施，把退侦-送检程序吃干榨尽。</p>
-<p>十个月前夏霖被带走，很意外，但细细一想，就不意外了。</p>
-<p>夏霖对自己的定位不是维权律师，办案走的技术路子，但从不惧为公义出手、为朋友两肋插刀。他义救崔英杰、出手邓玉娇案。崔案结案后，夏霖继续关心着这个年轻人，在崔英杰服刑期间，夏霖不仅经常跟小伙子通信，还多次探望。我看过崔英杰写给他的一封信，读来令人动容。邓玉娇案发，他迅速赶赴巴东，取得关键性证据。案子后来能取得好结果，跟他在艰难危险处境下所做的前期努力是分不开的。他在巴东的作为和处境，从张思之和浦志强当时致他的信可以看出：</p>
-<p>夏霖律师：</p>
-<p>联系困难，沟通不便，师友同道，十分挂念。</p>
-<p>目前巴东情况令人担忧，考察你们前段工作，就我们所见，完全合法，无懈可击。信赖你的职业操守，不担心你的业务能力，只是挂念你们的人身安全。</p>
-<p>……</p>
-<p>如有不适，请设法电告，我们将随时前往。凡诉讼，终有水落石出之日，眼下不必过于着急。</p>
-<p>关注着你们，相信你们，等你们归来！</p>
-<p>浦志强 张思之</p>
-<p>二OO九年五月二十三日</p>
-<p>邓案之后，他跟浦律一起接下当时极为敏感的成都谭案。在中国的司法环境下，这个案子的性质就预先决定了审判结果，但两位律师尽了最大努力，在跟反法治力量的较量中，虽败犹荣。一、二审主审法官宣判审判结果，不敢正视两位律师的眼睛，也是奇观。</p>
-<p>“袍哥人家绝不拉稀摆带”，不光是他的口头禅，也是他处事风格。浦律出事，他欲推动事务所发声明支持浦律；雪村自首，他去派出所接人；玉闪被抓，他立即接手……</p>
-<p>在浦案上，他秉持“有一分希望做百倍努力”的原则做了很多工作，但也受了不少误解和攻击，我在微博上谈及这事，有律师留言：“我是知情人之一。疾风知劲草。”</p>
-<p>他的委屈只有跟很少朋友诉说。有次电话中他有点天真也有点负气的说：“一旦到可以公开案情不必忌讳那天，老子要臭骂……一顿。”还没等到这一天，他自己进去了。</p>
-<p>如今夏霖失去自由10个月，现正遭遇送检—退侦—再送检……模式的折磨。但他没有被抓的维权律师那样广泛的社会关注度，却有出自某些同行针对他的流言，在夏霖无法自辩、解释的处境下，不出示证据的指控性流言，伤害的不仅是夏霖。</p>
-<p> </p>
-<p>我始终认为，律师是一个很有行动力的职业共同体，只要不是听命权势随权势鼓点起舞的败类，律师间无论办案方向、理念有怎样的差异，个人关系上有什么问题，关键时刻宜抛开歧见和隔膜，团结起来维护律师权益、法律尊严。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BB%B4%E6%9D%83%E7%BD%91-%E5%A4%B1%E5%8E%BB%E8%87%AA%E7%94%B1%E7%9A%84%E5%A4%8F%E9%9C%96%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96/?category=18271" rel="tag">夏霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%80%9D%E4%B9%8B/?category=18271" rel="tag">张思之</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -700,7 +692,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +702,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

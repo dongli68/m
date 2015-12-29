@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BC%A0%E5%8D%9A%E6%A0%91%EF%BC%9A/" target="cdt-mirror">纵览中国｜张博树：一份了不起的公民宣言 ──读郭飞雄上诉状</a>
+</h2>
+<p><p>作为勇敢的人权行动者，郭飞雄早已为海内外所知晓。最近一篇《宪政民主政体革命为什么必须──郭飞雄上诉状》又向人们揭示了这位行动家思想者的一面。2015年11月27日，广州市天河区法院以“聚众扰乱公共场所秩序”和“寻衅滋事”两项罪名，判处郭飞雄有期徒刑六年。一周后，郭飞雄的上诉状问世，洋洋洒洒近3万言，除驳斥法院判决的荒诞无理外，竟有四分之三的篇幅是在正面阐述上诉者关于“宪政民主政体革命为什么必须”的政治主张。这样的“上诉状”大概闻所未闻，但它却是新极权统治下一位中国公民的政治宣言，是转型中国一份珍贵的思想记录。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%83%AD%E9%A3%9E%E9%9B%84.jpg" alt="郭飞雄" width="550" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/郭飞雄-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/郭飞雄.jpg 622w" sizes="(max-width: 550px) 100vw, 550px"><br>
+郭飞雄</p>
+<p>郭指出，中国反民主的黑暗势力把宪政民主制度文明视为“基本恶”，多年来，他们一惯宣扬的论调是，宪政民主是西方舶来品，不符合中国国情。然而，在政体问题上，什么才是真正的“中国国情”呢？作者回顾了漫长的中国前现代史，认为“在数千年历史长河中，中华民族曾本土原创出世界政治制度史上堪称早熟且高度发达的中央集权政体。这一中国版的中央集权政体在适应不断变化的环境需要中发展出了多重成形的建制”且成就斐然，但它却一直无法解决诸多致命的结构性困扰，如皇权专断和膨胀之势越来越强，政体均衡受损并越来越向危险的绝对君权倾斜，暴政逐渐成为常态；残暴的司法制度、皇帝对异己的血腥杀戮和泛滥成灾的特务政治锻造了一种滥用暴力和酷刑解决侵权、矛盾和冲突的社会关系处置机制，它不仅置民众生命、人身自由和财产安全于严重缺乏保障的境地，而且还毒化了人民的精神，养成了官民皆暴、疯狂互害的社会习俗。</p>
+<p>所有这些规定了近代中国的任务，那就是必须结束皇权专制制度，完成中国的现代转型。然而，对中国而言不幸的是，尽管辛亥革命曾经造就了亚洲第一个民主共和国，却又很快走入歧途，一些激进革命者追随“数百年前刚刚摆脱蒙古金账汗国部族统治并沿袭了草原杀伐之气的俄罗斯生活背景下诞生的乌托邦政治行动家”，“把高度集权甚至法国大革命中滥用断头台的恐怖政策视为正面积极的精神遗产”。“为了推动新型至善主义实验、永久消除他们理念意义下的富人对穷人的‘社会奴役’，他们不惜祭用了危险的政治奴役──专政手段。这种新型至善主义不是踩在既有的思想文明即自由、民主、人权、法治诸价值的巨人肩膀上进行新的试错，而是毅然选取了另一条与自由、民主、人权、法治诸价值进行敌对性竞争的思想线路。绝对权力的政治思想和主张没有自然正义、只有强权者意志的法律思想被全面激活，走向全面集权、全无制约的政治兽性得到高级哲学的精密论证和美化。于是，一种前所未有的巨无霸怪兽──极权主义在大地上诞生了。”</p>
+<p>这段既隐晦又明确的语言概括了20世纪中国何以陷入共产革命之极权主义陷阱的大致过程。不过，作者还是承认“1956年以前，中国版的极权乌托邦运动首先表现为一场具有一定积极意义的平等主义革命。正是靠与革命联合、向革命妥协、领导了这样一场革命，它才取得了全国政权。在革命中，部分贫穷的农民分到了土地，一种类似于多个朝代初年实行的平等的土地私有制得以建立；几千年来一直遭受多重压迫的妇女得到了解放，这堪称革命取得的最大成就；传统的权威主义文化中乡绅的特权、宗法性的家长权和族权等全都烟消云散；此外，摆脱了诸多歧视和束缚的平民阶层也分享到了新型社会中部分的政治、经济、文化方面的管理机会。但是，这一公开排拒自由、民主、人权、法治理念的平等革命，不仅内容贫乏偏狭、也缺乏程序规范和法律保障。在精神倾向上，它流于一种形式主义的绝对平等崇拜，它的道德光芒，也被暴力土改、建立新型‘种姓制’、摧毁宗教自由等血腥和不义所冲淡。1956年之后，极权乌托邦实验碾压了革命，阉割了革命，吞噬了革命。为向‘人间天堂’进军而推动的生产资料全面公有化运动，摧毁了平等的土地私有制，被抢走土地的农民顿时沦为依附于国家这个唯一‘大地主’的实质农奴，这是中国近二千二百年来未曾有过的个人经济财产权利大倒退，尽管它蒙着‘历史进步’和 ‘至善理想’的华丽外衣。它的后果是灾难性的。城市私营工商业也被收归国有，失去了本来就有限的经济自由的人们从此失去了自我独立人格支撑，对党国产生了生存依赖。进一步的全面组织、全面控制人们的肉体─精神过程中，党国几乎将民众大多数权利和自由吞噬殆尽。人与人之间的确趋于平等了，但那是一种在超级国家机器中作一个微小零件的平等，一种蜜蜂面对蜂后、蚂蚁面对蚁后那般在掌握了绝对权力和绝对真理发布权的‘半神’面前顶礼膜拜的平等。人们平等地没有主权、没有人权、没有自由，平等地丧失了作为人的高贵尊严，平等地陷入了贫困或赤贫，平等地泯灭了活生生的个性”</p>
+<p>这样的分析深刻、悲壮，充满历史张力，远远超过那些做“国家课题”的所谓“学者”，也强于反对派阵营中一些头脑简单、非此即彼的批判家。</p>
+<p>“1978年后，大病求治求养的中国社会开始改革开放，资源占有制由全面公有向多种成分并存结构撤退，直至私有制占据大半份额，中央计划经济被抛弃，自由市场经济初步确立──这实质宣告了违反人性的乌托邦实验的历史性破产。随着阶级斗争被停止、新型‘种姓制’被取消以及经济、法律、文化诸领域的部分‘还权于民’，全面集权、全面专政的极权政体蜕变为稍为缓和但依旧全面管控、全面高压的后极权政体。”作者同样肯定这个“后极权政体”并非乏善可陈，比如它在中国三十年经济增长中，曾经“表现了较高的行政效率”，但“这些实用层面的某种成就，无法掩盖后极权政体固有的、严峻的结构性缺陷”，其中首要的、也是最根本的问题是“权力私有制本质的不合法性──后极权政体不仅通过党国对权力排他性的垄断僭夺人民主权，剥夺人民各项政治权利，排挤人民于核心的政治生活之外，严酷打压人民中不断兴起的政治反对力量，而且还把‘权力私有’、‘军权私有’、‘党天下’定为永远不容挑战的底线。这就决定了无论怎样自我调整和修补，后极权政府都无法建立起自己的道德价值合法性和授权程序合法性，而永远站在亿万民众对政治主权的渴求、对文明理性的政治生活的希冀、对社会长治久安的需要相对立的大河彼岸”，而“大本大源不立，国之命脉不立，这实际构成为中华民族最为深重的危机和隐患”！</p>
+<p>这样，关于什么才是真正的“中国国情”，答案也就一目了然了：“后极权政体本身事实上已成为中国民众基本权利和自由的最大的侵犯者、公共利益和国家利益的最大破坏者，这就是当今中国在政体问题上的基本国情。这一基本国情本身就提供了变革的最强有力的理由”！</p>
+<p>在郭飞雄看来，“权利的内在逻辑──也就是人道和正义的根本原理决定了中国民众不会满足于残缺的权利状态，必定会走向更充分的权利，直至彻底自主命运的主权现实。”“通过一场政体革命，彻底抛弃现有政体的制度荒野和政治兽性，建立起真正由人民程序授权和控制、实现了现代政治文明‘基本善’的新政体，才是当今中国真实的民意和深沉的天意。” 那么，什么样的政体能够满足这样的“基本善”呢？宪政民主政体。“作为现代政治文明‘基本善’，多元均衡的宪政民主政体具有纯正、深刻、系统的内在品质，为长期遭受滥权、贪腐、暴政的政治兽性严重侵害而民众已具备进行实质性政治变革的愿望和实力的中国社会，提供了实践政体革命的制度规范和操作参考框架。就中国基本国情、民意、风俗和历史传统而言，这是一副对症下药的良方。”</p>
+<p>应该说，以上阐述体现了一位人权行动者基于权利逻辑、也基于他对中国问题的历史观察和他本人的人权实践而对宪政民主合法性的深切思考。郭飞雄斩钉截铁地肯定：宪政民主不但不是什么“恶”，而恰恰是当今中国所最缺乏者，最需要者！“建设多元均衡的宪政民主政体就是培植中华民族的国之命脉，就是构筑中华民族尊严、自由、幸福、辉煌的大本大源。亿万民众的主权意愿，他们对极权政治血腥、暴虐的历史和滥权、贪腐、世袭、高压的现实的厌弃，对政治理性和制度文明的渴求，他们普遍的实力崛起和向着理想不竭的生命冲击力，决定了宪政民主政体革命在中国势在必行。”</p>
+<p>作者自豪地宣称：“这一代中国人承担着为中华民族进行第二次民主实验并将多元均衡的宪政民主政体化为中华大地上的制度现实的历史使命。它需要一代觉醒的公民展示强劲的道德勇气，向着极权主义不断发起和平的反对和行动的启蒙，以加速极权阵营的外融内变；它需要一代觉醒的公民表现出应有的政治智慧，召唤、团结绝大多数同胞，改变博弈双方实力对比，以人民的主体力量促成宪政民主政体革命实现；它还需要一代觉醒的公民焕发自由的想象力，在系统集成古今中外政治典章和操作智慧基础上，为宪政民主政体的中国版作出历史性的原创。” “宪政民主政体革命绝非由少数精英主导的幽静而冰冷的制度框架搭建工程，而是主体公民亲自参与操作的以伸张主权、实现权利为导向的制度安排、实验、调适、凝固、运行工作。人民既是制度舞台的搭建者，又是舞台上的演出者。人民是制度的主体，人民的权利是制度的灵魂。在政体革命进程中，与客体性的制度革命同时发生的，是主体的权利革命。”</p>
+<p>郭飞雄坦言，以上所述，“就是我作为一名中国宪政民主事业推进者长期从事政治反对活动的深沉动机，也是我参加声援南方周末的街头政治抗议和推动宣传《公民权利和政治权利国际公约》的‘八城快闪’的深沉动机。”</p>
+<p>这份上诉状，令人感动，也催人深思。在中国新极权主义黑云压城、红色恐怖正在吞噬自由心灵的几乎每一个角落的背景下，一个行动者的思想性呐喊，给这个社会带来冲击。它不但彰显了生命的尊严，也再一次证明，中国不乏有思想、敢行动的优秀公民，他们才是这个国家的真正希望。</p>
+<p>张博树（2015年12月26日，于新泽西）</p>
+<hr><p><small>© 网聚正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BC%A0%E5%8D%9A%E6%A0%91%EF%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%9A%E6%A0%91/?category=18271" rel="tag">张博树</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E5%8F%8D%E6%81%90%E6%B3%95-%E6%89%B9%E8%AF%84%E8%80%85%E6%8B%85%E5%BF%A7%E6%94%BF%E5%BA%9C%E6%BB%A5%E7%94%A8%E6%9D%83/" target="cdt-mirror">纽约时报 | 中国通过反恐法 批评者担忧政府滥用权力</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge.jpg" alt="多国驻京领事馆提醒圣诞节前后提防危险后，北京三里屯提高警力，严加戒备。" width="600" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge-300x207.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>多国驻京领事馆提醒圣诞节前后提防危险后，北京三里屯提高警力，严加戒备。</p></div>
@@ -689,32 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/422915/" target="cdt-mirror">立場新聞｜報道新疆問題 官媒歪曲內容 駐京法國記者拒撤文章拒道歉 被驅逐出境</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0.png" rel="attachment wp-att-422916"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0.png" alt="Ursula Gauthier （高潔）　（網絡片段截圖）" width="550" height="324" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0-300x177.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0-768x453.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/UrsulaGauthier_rP6jQ_1200x0.png 831w" sizes="(max-width: 550px) 100vw, 550px"></a><p>Ursula Gauthier （高潔）　（網絡片段截圖）</p></div>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/12/422918/">明镜新闻｜法国记者高洁究竟说了什么？</a></p></blockquote>
-<p>法國《新觀察家》週刊駐京記者高潔(Ursula Gauthier)因發表新疆的報道以及有關中國新疆政策的評論，而遭到中國當局的驅逐。中國外交部周五（12月25日）正式通過電話告知，由於她始終拒絕就她的文章做出公開道歉，當局將不更新她的記者證，並且勒令她在12月31日簽證期滿之前離開中國。</p>
-<p>法國國際廣播電台（RFI）報道，高潔在中國工作已有六年。是駐京西方媒體記者群中日益罕見的漢語流利的中國通。一個多月來，她遭到中國官媒的點名攻擊，《環球時報》以及《中國日報》等官方喉舌譴責高潔的報道歪曲事實，偏見嚴重。</p>
-<p><strong>說流利漢語中國通</strong></p>
-<p>RFI指，中國官方對她的指控主要涉及兩篇文章，一篇是11月18日發表於新觀察家週刊文章的文章，標題是：〈中國譴責巴黎恐襲背後的盤算〉。另一篇是去年3月發表的一篇有關新疆的長篇報道。這篇報道的標題是：〈生活在恐怖與貧窮中的新疆〉。</p>
-<p>中國官媒環球網11月20日攻擊文高潔章的社評文章〈法國《新觀察家》，請你有點底線〉，批評「法國《新觀察家》雜誌網站18日發表一篇其駐北京記者高潔的長篇文章，該文對中國關於莫在反恐問題上搞雙重標準的呼籲做了非常刺耳的評述，嘲諷這種呼籲是中國向法國表示同情時塞的『私貨』。文章猛烈抨擊中國新疆的民族政策，直接宣稱『新疆暴力更多的是由於受到無情的鎮壓』。」</p>
-<p><strong>私隱被公開　收死亡恐嚇</strong></p>
-<p>《環球時報》、《人民日報》等官方媒體隨後以「嚴重歪曲」、「胡說八道」、「反華行為」等措辭予以公開譴責。高潔的私人住址、照片也相繼在中國的新浪、126等網絡平台被惡意曝光，她本人甚至收到死亡恐嚇。</p>
-<p>高潔因此遭中國外交部多次傳喚，當局幾度要求她撤回文章及發表公開道歉。</p>
-<p><strong>大陸官媒歪曲文章內容</strong></p>
-<p>而高潔周五卻向RFI表示，是中國官媒歪曲了她的文章。《環球時報》文章中所批評的內容與她的報道的原文有出入。她說，他們所譴責的並不是她寫的內容，她當然拒絕為她所沒有寫的內容道歉。</p>
-<p>RFI報道，懂法語的讀者可以在高潔11月18日發表的文章中搜尋一下，不難發現文章從頭至尾都未出現環球時報所指的「私貨」這兩個字。不知環球時報這兩個字究竟指的是什麼？此外，文章也沒有環球時報列舉這一句子：「新疆暴力更多的是由於受到無情的鎮壓」。RFI指這句話倒是在高潔去年三月發表的文章中出現，但這是她引用的來自國際人權組織的評論。並非是出自她本人的評論。</p>
-<p><strong>高潔：北京少數民族問題立場愈趨強硬</strong></p>
-<p>高潔周五接受RFI採訪時表示，她認為中國官方對她的打壓同北京在少數民族問題上立場越來越強硬有關。這同維族學者伊利哈木•土赫題被判無期徒刑，知名律師浦志強因有關新疆的微博而被判刑都同出一轍。北京試圖以此向外界發出一個強烈的信號：中國政府在民族問題上容不得來自國內國外的半點批評。</p>
-<p>回應高潔被驅逐的消息，RFI引述法國文化部強調捍衛言論自由的重要性，並聲稱將繼續與中方斡旋對話。新觀察家週刊總裁Matthieu Croissandeau則表示：這是對新聞自由的難以容忍的攻擊，是對記者職業行為的束縛。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/422915/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%B4%81/?category=18271" rel="tag">高洁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%9B%BD%E6%96%B0%E8%A7%82%E5%AF%9F%E5%AE%B6/?category=18271" rel="tag">法国新观察家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -736,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

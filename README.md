@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD-%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%BD%91%E6%B0%91%E8%A2%AB%E5%88%A4%E5%88%9118%E4%B8%AA%E6%9C%88/" target="cdt-mirror">美国之音｜支持香港占中 中国一网民被判刑18个月</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg" rel="attachment wp-att-423393"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg" alt="在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)</p></div>
+<p>星期二，广东一法庭判处广州网民叶晓峥18个月有期徒刑，罪名是“寻衅滋事”。叶晓峥表示不认罪，并将提起上诉。</p>
+<p>据悉，叶晓峥去年在网上发文公开声援香港占中运动，并批评政府官员在打压群体性抗议事件时的不当措施。2014年12月12日，当地公安人员闯入叶晓峥家，调查他身穿印有“人民恐惧政府即为暴政”字样的黑衣，以及声援香港“占中”之事。当日，公安以涉嫌“寻衅滋事”拘留叶晓峥，并抄走其个人手机、电脑等物品。</p>
+<p>2015年1月17日，叶晓峥被批捕，6月18日被起诉。7月23日一审开庭，但未当庭宣判。媒体报道指出，起诉书中的主要指控，并未涉及香港“占中”，而是以叶晓峥发帖讥讽广东博罗县某公安局长及披露居民杨金华，因接待访客而遭警方骚扰为犯罪事实。</p>
+<p>此外，自由亚洲电台报道称，声援香港占中的公民裴国动12月10日被承德市围场县检察院院以 “涉嫌寻衅罪” 起诉。报道指出，今年61岁的裴国动于10月29日在北京西站被民警强行带走，11月21日批捕。裴国动的儿子接受采访时表示，其父亲不满当局无理拘押，自上个月14日刑拘起绝食抗议，至今已一个半月，身体状况持续恶化。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD-%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%BD%91%E6%B0%91%E8%A2%AB%E5%88%A4%E5%88%9118%E4%B8%AA%E6%9C%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%BD%B7%E5%BE%A8%E7%AD%89%E5%BE%85%E4%B8%AD%E5%BA%A6%E8%BF%872015%E5%B9%B4/" target="cdt-mirror">纽约时报 | 中国在彷徨等待中度过2015年</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/31letter-articleLarge.jpg" alt="上周，在北京天安门广场，一名卫兵戴上口罩，抵御严重的污染。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/31letter-articleLarge-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/31letter-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>上周，在北京天安门广场，一名卫兵戴上口罩，抵御严重的污染。</p></div>
+<p>对于中国首都的很多居民来说，这个冬天的雾霾都是一个恰当的比喻：它让建筑显得模糊不清，太阳苍白无华，正如他们今年面对的不确定性。</p>
+<p>在采访和私下交谈中，北京居民表示，2015年是等待的一年，等待中国的政治和经济前景逐渐明朗起来。</p>
+<p>“整个国家处于一种等待状态，”中国南方的商人和杂志出版商欧阳劲说。他在造访北京期间接受了采访。</p>
+<p>“谁都不清楚未来会走向什么方向，”欧阳劲说。“目前的状况很复杂，大家的心情也很复杂——焦虑、希望、害怕——所以我们只能等待。”</p>
+<p>投资者为<a title="Link: http://cn.nytimes.com/business/20151105/c05db-chinaecon/" href="http://cn.nytimes.com/business/20151105/c05db-chinaecon/" target="_blank" rel="nofollow">经济放缓</a>和<a title="Link: http://cn.nytimes.com/china/20150910/c10crackdown/" href="http://cn.nytimes.com/china/20150910/c10crackdown/" target="_blank" rel="nofollow">股市动荡</a>而悬心，等着看增长是否会有起色。官员们等着看习近平坚定的反腐运动会<a href="http://cn.nytimes.com/china/20150824/c24china/" target="_blank" rel="nofollow">影响他们的工作</a>多长时间。学者和作家等着看共产党对知识界活动的<a href="http://cn.nytimes.com/china/20150308/c08xi/" target="_blank" rel="nofollow">冷峻钳制</a>是否会有所松动。人权律师和异见人士等着看下一个被拘留或逮捕的人会不会是自己。</p>
+<p>北京以及其他北方城市的居民则等着雾霾来而复去。</p>
+<p>“可以说很多人都在等着呼口气——虽然北京最近的空气很糟，这么说似乎有点不恰当，”加州大学欧文分校(University of California, Irvine)历史学教授、中国问题专家华志坚(<a href="http://www.faculty.uci.edu/profile.cfm?faculty_id=5310" target="_blank" rel="nofollow">Jeffrey Wasserstrom</a>)说。</p>
+<p>中国当前面临的不确定性，已经超出了这个如此巨大而复杂的国家的通常程度。</p>
+<p>习近平推行的议程大刀阔斧而又自相矛盾，想通过重建共产党和儒家传统、增进中央集权，来推动中国走向未来。习近平似乎相信，中国要实现剧变，就必须恢复过去的传统。但在他可能拥有的10年任期中，如今已经到了第三年，这个议程已经让很多公民感到不安，不知道习近平将带他们走向何方。</p>
+<p>对中国来说，2015年是“充斥着矛盾信号的一年，或许也可以说，是矛盾激化的一年，”华志坚说。他指出，习近平似乎正在“求诸于内”和“求诸于外”之间摇摆。</p>
+<p>“一方面，我们看到习近平倍加努力地展示，中国能走自己的路，而且引经据典，无论这些经典出自共产党掌权之前还是之后，”他说。“但另一方面，他出访国外的次数比这几十年来的历任中国领导人都多，而且也走得更远。”</p>
+<p>几名要求匿名的商人和官员表示，这种不安感渗入了中国的官僚阶层，影响到中国经济。他们表示，由于担心被控徇私，就连没有腐败行为的官员，也越来越不愿做出重要决定。反腐行动导致“灰色收入”消失，这削弱了基层行政人员的士气。</p>
+<p>“当官儿的都不知道这个反腐运动、学习会议等等会什么时候结束，之前也不知道谁可能是下一个落马的人，”中国人民大学历史学者张鸣说。张鸣经常撰文讨论时事。</p>
+<p>“上下都没有一个明确的方向感，”他说。“以前，在八九十年代，事情要简单得多——改革，建立市场经济等等。但现在对于官员和老百姓来讲，政策变得更难以解读。”</p>
+<p>包括严厉打击腐败、压制政治自由主义在内的政策，削弱了官员的士气，并在一定程度上加剧了经济的不确定性——共产党领导人对这种观点嗤之以鼻。他们认为，收获经济结构调整的成果，需要时间和耐心。</p>
+<p>但清华大学知名社会学家<a href="http://www.tsinghua.edu.cn/publish/Socen/2759/2010/20101224015358415255634/20101224015358415255634_.html" target="_blank" rel="nofollow">孙立平</a>最近演讲时警告说，对中国未来的不确定感，可能会发展成为危险的隐患。</p>
+<p>他表示，2015年底的感觉可以用一个词来概括：“困惑”。</p>
+<p>孙立平表示，“这一次有点像我们在沙漠和戈壁上开车。”</p>
+<p>“前面的路都是很明确的。但是走着走着，路没有了，前面是个沙丘，”他说。“最后哪条路能走通它就是一条路，哪条走不通，那就不是路呢，我们现在可能就不知道。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%BD%B7%E5%BE%A8%E7%AD%89%E5%BE%85%E4%B8%AD%E5%BA%A6%E8%BF%872015%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AD%89%E5%BE%85/?category=18271" rel="tag">等待</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF%EF%BD%9C%E5%BE%AE%E8%BD%AF%E5%B0%86%E8%AD%A6%E5%91%8A%E7%94%A8%E6%88%B7%E5%85%B6%E8%B4%A6%E5%8F%B7%E6%98%AF%E5%90%A6%E9%81%AD%E5%88%B0%E6%94%BF%E5%BA%9C%E6%94%AF/" target="cdt-mirror">奇客资讯｜微软将警告用户其账号是否遭到政府支持黑客的攻击</a>
+</h2>
+<p><p>路透社<a href="http://www.reuters.com/article/microsoft-hacking-idUSL1N14K00B20151231" target="_blank"><u>报道</u></a>，微软表示将警告Outlook.com等消费者服务的用户其账号是否正遭到政府支持黑客的攻击。在此之前，路透社援引前雇员的话<a href="http://www.reuters.com/article/us-microsoft-china-insight-idUSKBN0UE01Z20151231" target="_blank"><u>报道</u></a>，几年前中国政府曾侵入了一千多个<span><span>Hotmail账号，但微软决定不告诉受害者，使得黑客能继续他们的行动。账号入侵的受害者主要是藏族和维吾尔族的国际领导人。微软曾对这起黑客攻击发起内部调查，显示攻击始于2009年7月，攻击目标除了</span></span><span><span>藏族和维吾尔族领导人之外，还有日本和非洲的外交官、人权律师，以及其他敏感人士。部分攻击源自网通/联通的网络</span></span><span><a href="http://bgp.he.net/AS4808#_whois" target="_blank"><u>AS4808</u></a>，该网络与多起大型网络间谍行动有关联。</span></p>
+<hr><p><small>© 网聚正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF%EF%BD%9C%E5%BE%AE%E8%BD%AF%E5%B0%86%E8%AD%A6%E5%91%8A%E7%94%A8%E6%88%B7%E5%85%B6%E8%B4%A6%E5%8F%B7%E6%98%AF%E5%90%A6%E9%81%AD%E5%88%B0%E6%94%BF%E5%BA%9C%E6%94%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gmail/?category=18271" rel="tag">gmail</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E8%BD%AF/?category=18271" rel="tag">微软</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%9B%B7%E5%85%8B%E4%B8%BB%E8%A7%82%E6%81%B6%E6%84%8F%E8%AF%84%E4%BB%B7%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9E%84%E6%88%90/" target="cdt-mirror">【异闻观止】专家：雷克主观恶意评价毛泽东构成违法</a>
 </h2>
 <p><p>习近平在纪念毛泽东诞辰120周年座谈会上指出，毛泽东同志是近代以来中国伟大的爱国者和民族英雄，是领导中国人民彻底改变自己命运和国家面貌的一代伟人。资料图</p>
@@ -129,7 +185,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80/?category=18271" rel="tag">六四屠杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/27%E5%86%9B/?category=18271" rel="tag">27军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%8E%AF%E4%BF%9D%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%BC%A0%E5%8A%9B%E5%86%9B%E8%A2%AB%E5%8F%8C%E5%BC%80/" target="cdt-mirror">BBC | 中国环保部原副部长张力军被双开</a>
 </h2>
@@ -150,7 +206,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E9%83%A8/?category=18271" rel="tag">环保部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8A%9B%E5%86%9B/?category=18271" rel="tag">张力军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">违纪违法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E4%B8%AD%E4%BB%8B/?category=18271" rel="tag">红顶中介</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%85%B0%E8%8A%B1%E6%8C%87/" target="cdt-mirror">【麻辣总局】邝飚：兰花指</a>
 </h2>
@@ -592,78 +648,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%AD%A6%E6%A0%A1%E8%A3%85%E4%B8%8D%E8%A3%85%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8-%E8%88%86/" target="cdt-mirror">【异闻观止】环球时报 | 学校装不装空气净化器 舆论不应管</a>
-</h2>
-<p><p>今冬的雾霾接连出现，迄今的严重程度似乎超过了前几年冬天。这使得空气净化器应当进校园的呼声逐渐高了起来，近日有媒体质问要做到这一点还需经过几道坎？并且强调“孩子的健康等不起”。</p>
-<p>据了解，北京市已有部分幼儿园和小学在教室里安装了空气净化器，乃至整套的系统。个别私立学校和资金充足的公立学校由校方出资做了统一安装，还有些学校是通过家长众筹方式购买设备的，其中有的学校只在部分教室做了安装，情况可谓参差不齐。</p>
-<p>社会的态度并不一致，在雾霾严重地区，家长们支持学校安装空气净化系统的居多，但愿意众筹支付费用的就少多了。如果让学校花钱做这件事，很多学校拿不出这笔费用。</p>
-<p>让政府短期内从财政拨钱给学校普遍安装空气净化系统，恐不现实。即使在北京这样的城市，这也是一笔巨大的费用，不是政府说拿就能拿得出的。而且如果北京这样做了，河北的雾霾一点也不轻，全河北的幼儿园和小学怎么办？如果只是北京由政府出资给学校装，其他北方地区的学校装不起，这样的不公平社会如何能够接受？</p>
-<p>此外从技术上说，雾霾的成因直到现在也不完全清楚，空气净化器到底起多大作用，它们大面积使用是否会导致二次污染，还存在争议。空气净化器的使用需要哪些配套措施和条件，很多问题还需得到实践的检验。</p>
-<p>如果把争议扩展一下，就会发现，哪些公共场所该安装空气净化系统，由谁出资的问题可以是牵一发而动全身的。比如小学和幼儿园安装了，中学就不该安装吗，大学就不该装吗？此外医院、老年人集中的场所是否也该安装，公共汽车上是否也该做同样的事？还有，北方这样做，南方的雾霾也越来越多，应该怎么办？中国社会显然目前没有能力对这些问题一一给出答案。</p>
-<p>因此我们认为，北京等地学校该不该装空气净化系统，应当由各个学校与家长们协商解决，它不应作为公共问题、以硬性要求迅速得到统一答案的姿态走上舆论场。围绕究竟应当怎么做，媒体的报道应侧重介绍经验，丰富人们的思路，而不应由价值观主导、领衔，把事情上升到道义层面，将问题口号化，好像这当中有一条正义与非正义的界限。</p>
-<p>雾霾问题非常复杂，应对这个问题不可能是简单的，做得能不能令大众满意，也不仅仅是政府有没有责任心的事情。针对雾霾煽情是最容易做的，但那样除了让社会上泛滥更多情绪之外，不会有任何实际作用。</p>
-<p>安装空气净化系统似乎是当下没有办法的办法。家长们的心情都可以理解，社会在这方面的操作困难也很现实。那么还是以积极态度面对具体的要求和方案为好，不要事情还没做起来，先形成严重的社会争议和冲突。这应成为学校装空气净化器问题的一项实用攻略。▲（作者是环球时报评论员）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%AD%A6%E6%A0%A1%E8%A3%85%E4%B8%8D%E8%A3%85%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8-%E8%88%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94/?category=18271" rel="tag">空气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96/?category=18271" rel="tag">空气净化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E6%AC%A1%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">二次污染</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B4%94%E5%8D%AB%E5%B9%B3%EF%BC%9A%E7%BB%B4%E7%A8%B3%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%94%BF%E6%B2%BB-2/" target="cdt-mirror">于建嵘的东书房 | 崔卫平：维稳年代的政治</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-28-at-%E4%B8%8B%E5%8D%8811.31.01.png" alt="Screen Shot 2015-12-28 at 下午11.31.01" width="550" height="363" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-28-at-下午11.31.01-300x198.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-28-at-下午11.31.01.png 606w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>作者：崔卫平</p>
-<p>将来的人们会用什么来称呼我们这个年代？“维稳”是再合适不过的了。“维稳年代”会变得如同“大饥荒”、“文革”、“改革开放”一样，用来标明某个历史时期。</p>
-<p>维稳着眼于当下。因此，对于我们民族来说，从来没有像这个年代，丧失了任何对于前景的期待。不论是“平等”、“自由”、“不受支配”这些现代展望，还是“耕者有其田”这样古老朴素的愿望，都变得无从谈起。没有未来，便缺少了信心。</p>
-<p>维稳着眼于效果。只要达到维稳的目标，哪怕不惜一切。于是，在维稳所“不惜”和“不屑”的对象中，受到伤害最深的是我们民族的价值观，是能够将我们民族凝聚起来的精神力量。利益总是分化的，分化的利益组成了一个陌生人的社会。但是通过认同某些价值观，依据某些共同的价值观，人们互相之间可以找到辨认，找到联合。</p>
-<p>维稳着眼于少数人。他们人数的数量，在我们民族当中，也许是一个可以省略的百分比。然而他们像某个“神圣家族”，可以不顾绝大多数人们的利益和意志，拒绝社会进步的要求，乃至锁住我们民族朝向明天的脚步。2010年关于“政改”的话题不了了之，谈论政改甚至遭到强力压制，结果堵塞了这个体制所能够释放的进步空间，切断了与社会对话的最后纽带。</p>
-<p>维稳最终诉诸于暴力，从而结束了从前那段“意识形态的历史”。无论如何，“意识形态”还是希望通过一套言辞，编织一些华丽外衣，哪怕与实际不符，但其中多少还有一些说服人的意思。维稳年代，意识形态的面具滑落在地。</p>
-<p>暴力是从结束言辞的地方开始的。政治的方式主要是言辞，是不同背景、不同利益的人们之间的互相商谈，是通过对话、协商，让种种分歧得到呈现和整合。衡量一个好的政治秩序的标准，看它是否能够给不同利益诉求提供释放的渠道，尤其是给那些因不同原因在不同时期受到压抑的人们提供空间。因此，运用暴力来维稳的年代，则是一个取消政治的年代，是排除任何政治途径的年代，是将政治丢弃到垃圾箱里的年代。</p>
-<p>我用过一个权力“内卷化”的说法。在广大社会面前，它向内卷缩萎缩，而不是向外延伸延展。维稳则是它的集中体现。一切朝向自身内部，一切集中在自身内部，一切归纳为自身内部。不打算面向社会，面向公众，体现人民群众利益的要求。</p>
-<p>这就产生了清华大学学者分析报告中所指出的“越维越不稳”的现实。所谓“不稳”，从另外一个角度来说，也可以视为社会仍然显示出蓬蓬勃勃的景象，社会各界仍然通过自己不同的方式，努力发出自己的声音、自身的利益诉求。人们每天不管是打开报纸，还是坐在电脑面前，都会感到一个海洋般涌动的社会，无限的潮汐和能量，各个不同的起点、出发点，五光十色的喧响，包括持续的、毫不客气的批评。</p>
-<p>需要有人想一想——这个世界的根基以及权力的根基，不可能在某个深宫之内，在某个“神圣家族”的手上，那是一个颠倒了的幻觉，是一个头足倒置的世界观。恰恰相反，根基在于这个世界上每个人的生活意志，每个人的利益要求，每个人的基本权利。最大限度地满足所有社会成员的要求，而不是少数人的要求，平等地对待所有社会成员，而不是给少数人以特权待遇，提供这样的背景和秩序，才是今天名副其实的政治行为。</p>
-<p>因此，“政治维稳”是一个毫无根据的说法。有维稳就没有政治，维稳年代就是一个没有政治的年代。因为维稳取消了政治，所以应该取消维稳。</p>
-<p>在某种程度上，如果说“人性”与“个人”是八十年代的关键词，“经济”和“市场”九十年代之后的关键词，那么，从现在开始，“政治”与“社会”将重新回到人们当中来，重新成为人们关注的重心和中心。那将是每一个人“同意的政治”，是建立人与人之间互相连结和共同分享的社会。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B4%94%E5%8D%AB%E5%B9%B3%EF%BC%9A%E7%BB%B4%E7%A8%B3%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%94%BF%E6%B2%BB-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E5%BB%BA%E5%B5%98/?category=18271" rel="tag">于建嵘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%94%E5%8D%AB%E5%B9%B3/?category=18271" rel="tag">崔卫平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6/?category=18271" rel="tag">作家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E5%BB%BA%E5%B5%98%E7%9A%84%E4%B8%9C%E4%B9%A6%E6%88%BF/?category=18271" rel="tag">于建嵘的东书房</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E2%80%8B%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%8A%98%E5%B0%84%E6%9C%AA%E6%9D%A5%E6%95%B0%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9A%BE%E9%A2%98/" target="cdt-mirror">​博谈网｜成品油价折射未来数年中国经济难题</a>
-</h2>
-<p><p>来源: 微博 发改委不下调油价，给了大众当头一棒，其背后折射出经济下行、债务风险、税费改革等一系列难题。</p>
-<p>官方的话可以折射部分真相。今年10月28日，财政部召开成品油税费改革三周年座谈会，财政部副部长王军总结，自2009年1月1日以来成品油税费改革五大成绩。</p>
-<p>一是理顺了交通税费关系，公平了交通税费负担。二是建立了科学规范的公路建设和管理资金筹资机制。三是建立了税收调控能源使用的新机制。四是政府还贷二级公路收费有序取消，大大降低了流通费用。五是有效控制和化解了地方政府债务风险。养路与化解地方债务风险引人关注，更重要的是，在税费改革过程中，弥补增值税下降、土地出让金下跌等收入缺口。</p>
-<p>油价上升还是下行，将直接影响政府收入，事实上，原先占据资源优势企业的困境，都有极大地困扰财政收支。</p>
-<p>目前政府收支难以平衡，必须寻找新的税源，而消费税与环境税都是未来税收大头。</p>
-<p>根据申万宏源的数据，今年11月当月，财政支出与当月财政收入的比值增加到1.45，比上月（0.93）上升0.52，累计的支出额/收入额比达1.07较之上月1.04略有上升，1-11月累计预算完成87.6%，高于去年同期5.1%，表明财政支出的力度是在加强的，财政收入受到经济下行以及减税降费影响，财政收支矛盾加剧。</p>
-<p>企业债与地方政府债数量庞大，笔者看到《普通国省干线公路养护资金审计调查表格》，分析成品油税费改革转移支付资金、取消政府还贷二级公路中央补助资金、中央车购税资金用于养护投入情况。取消收费公路还有一大笔养护费，成本不下降，规划不科学，效率不提升，如此多的公路收费人员，导致支出不可能下降。收费是经济问题，裁员是政治问题。</p>
-<p>油价步入下行周期，成品油消费税则进入上涨周期。从去年12月到今年1月，财政部、国家税务总局三次上调成品油消费。杜丽娟女士今年1月19日发表在《中国经营报》上的文章指出，连续提高成品油消费税之后，包含消费税、增值税、城建税、教育费附加、地方教育费附加总计占到成品油价格的近45%。</p>
-<p>很多财税人士并不讳言成品油消费税的重要性，税收年鉴数据显示，2013年国内消费税8230亿元，成品油消费税占国内消费税（不包括进口环节消费税）的比重为33%。</p>
-<p>成品油消费相对刚性，未来能源消费税只会提高，不会下降。据公开资料统计，2013年我国汽油消费量为9419万吨，相当于1290亿升，柴油消费量为1.7亿吨，相当于2000亿升。调整一次消费税增加400多亿元左右的收入。</p>
-<p>消费税从量计征，成品油价格与销量的下跌，意味着石油行业利润的下滑、石化行业股价的下滑，以及政府税费的下滑。并不奇怪，发改委公布成品油价格不下调后，两桶油股价跳空高开，只是由于全球大宗商品不景气，而略有下行。</p>
-<p>两桶油等央企上缴红利不少、税收巨量。两桶油去年5月开始按净利润20%上交国有资本经营收益，到2020年提高到30%。12月8日，《中国青年报》转引中国企业研究院首席研究员李锦的话，从2012到2014年，中石油境内上缴税费分别为4334.6亿元、4157.3亿元和4277.5亿元，均超过当年央企上缴合计的1/5（1.8万亿元、2万亿元和2.1万亿元），占全国财政收入（11.7万亿元、12.9万亿元和14万亿元）的比例分别为3.7%、3.2%和3.1%。两桶油利润与税收对政府很重要，绝对不能崩盘。资源性央企附着在传统制造业身上，通过油价等方式源源不断输血，随着传统制造业的局部塌方，资源性央企成为被扶持的对象。</p>
-<p>麦格理的报告指出，“2014年在大宗商品行业，超过一半的累积债务是无法用息税前利润偿付的，大宗商品行业下的每一个子领域都有各自的无法偿付债务，尤其是贱金属，煤炭以及钢铁。”除了烟酒等之外，目前指望其他资源性央企提振税收，不靠谱。</p>
-<p>因为雾霾不下调油价像个借口，除税费外，成本应该是个重要考量。12月17日，《光明日报》引用国家能源咨询专家委员会常务副理事长周大地的看法称，中国是个高度依赖石油进口的国家。现在达到3.5亿吨左右，石油进口对外依存度高于60%，是世界第二大石油消费国，也是世界最大的石油净进口国。为了提高国内供应能力，这些年来中国开始对属于非常规的高成本油气资源进行开发，国内石油的平均生产成本已经明显高于40美元一桶，国内原油生产已经进入亏损状态。</p>
-<p>为了保障能源安全角度，中国要维系一定比例的国内产量，维持2亿吨左右甚至力争更多一些，在世界石油供需偏紧、油价恶性上升时有必要的降压能力，同时确保在进口油气出现意外中断时，维持国内一定的持续供应能力，“一旦中断生产和维护作业，以后恢复产能将十分困难，或必须大幅度增加再次投入提高成本。”</p>
-<p>重要的问题是，中国进口油价到底多少？按照BP与路透等数据，以及庞名立先生的计算，2014年中国进口308,374,104吨（3.08亿吨）原油，同比去年增加9.45%，是历年来最高的；花费2280.87亿美元，每吨原油购买费用为739.65美元，相当于100.91美元/桶。</p>
-<p>2015年仍在大规模进口，价格跟随国际价格下降，海关总署最新出炉的进口数据显示，今年上半年我国进口原油1.6337亿吨，同比增长7.49％％；原油进口金额为1770.9亿元，同比减少41.72％。从进口单价来看，今年上半年我国原油进口单价约为每吨2599.2元，同比下降45.8％。现在每桶35到40美元左右，签订的是从现在来看仍然属于较高的价格。</p>
-<p>油价下跌可以降低企业与居民成本，但对于税费、央企、能源等形成严重冲击，油价不会下跌，经济运作体系无法承担油价下跌的压力。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E2%80%8B%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%8A%98%E5%B0%84%E6%9C%AA%E6%9D%A5%E6%95%B0%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9A%BE%E9%A2%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B9%E4%BB%B7/?category=18271" rel="tag">油价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E5%93%81%E6%B2%B9/?category=18271" rel="tag">成品油</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -685,5 +669,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

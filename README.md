@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,89 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%98%8E%E6%8A%A5%EF%BD%9C%E5%86%9B%E6%94%B9%E7%AC%AC%E4%B8%80%E5%88%80%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%88%92%E4%B8%A5%E9%83%A8%E9%98%9F27%E5%86%9B%E8%A2%AB%E8%A3%81/" target="cdt-mirror">明报｜军改第一刀：六四戒严部队27军被裁</a>
+</h2>
+<p><p>解放军军改启动，将裁减 30 万官兵。在黑龙江省大兴安岭地区加格达奇区，武警森林支队的士兵仍盼在新一年「练好兵，站好岗」，保护国家森林资源。日前士兵腾空飞跃大合照，迎接新年。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/k2gggg.jpg" alt="k2gggg" width="551" height="341" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k2gggg-300x186.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/k2gggg.jpg 640w" sizes="(max-width: 551px) 100vw, 551px"><br>
+27军装甲部队演习</p>
+<p>解放军军改正式启动，隶属北京军区的解放军王牌第 27 集团军被裁撤，集团军军部前晚撤往山西太原郊区一个坦克团营房，改编为陆军第27师，原位于河北石家庄的军部驻地移交给中部战区陆军部。而中央政府已要求国企把 5% 的工作岗位留给退役军人，协助解决被裁军人的就业问题。</p>
+<p>解放军第27集团军是历史悠久的部队之一，前身是原八路军胶东军区地方部队， 1946年部队整合为华东野战军第9纵，许世友任司令；中共建政前改编为第27军，军长聂凤智，随后参加攻占上海战斗。 1950年后入朝鲜参加韩战，击溃美军「北极熊团」。近年最为人熟悉的，则是在1987年参加对越南的老山战役，及1989年参与六四事件的戒严行动。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/k2g.jpg" alt="k2g" width="551" height="310" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k2g-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/k2g.jpg 640w" sizes="(max-width: 551px) 100vw, 551px"><br>
+美国解密文件透露，镇压六四的27军「大笑着，一看到集会民众就乱枪扫射。」</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/k2gg.jpg" alt="k2gg" width="550" height="412" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k2gg-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/k2gg.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>本报获悉前天是 27 军军部在石家庄的最后一天，最后一批人员物资全部撤离，到下午 5 时部队集结完毕。昨日由北京军区王副参谋长，将军部驻地移交给中部战区陆军部， 27 军搬到太原郊区一个坦克团的营房，改编为陆军第 27 师。中央军委目前并未公布具体的战区划分，不过外界普遍相信中国将会划分为五大战区，包括东、南、西、北和中部战区，其中成都军区与兰州军区将会合并，成为西部战区。</p>
+<p>《解放军报》报道亦证实部分建制部队被撤编的消息，前成都军区某师主管在军区接受撤编命令后，路上师长、政委还在车里默默流泪，回到师里，师长马上动员全师官兵：「我们师平时不含糊，战时能打仗，撤编也要撤出个样子来！」</p>
+<p>军改其中一个重要内容是裁军 30 万，使解放军现代化，但军方高级将领担忧被裁减人员会影响社会稳定。《解放军报》在 11 月 19 日的评论文章中亦称，「如果处理不好，裁军可能产生破坏稳定的影响，不稳定的风险可通过改革工资和养老金来缓解」。</p>
+<p>《金融时报》援引中国民政部部长李立国说，民政部以及国资委发布的相关文件指出，国有企业均有安置退役军人的责任和义务。央企应作带头模范。</p>
+<p><img alt=""><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%98%8E%E6%8A%A5%EF%BD%9C%E5%86%9B%E6%94%B9%E7%AC%AC%E4%B8%80%E5%88%80%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%88%92%E4%B8%A5%E9%83%A8%E9%98%9F27%E5%86%9B%E8%A2%AB%E8%A3%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80/?category=18271" rel="tag">六四屠杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/27%E5%86%9B/?category=18271" rel="tag">27军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%8E%AF%E4%BF%9D%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%BC%A0%E5%8A%9B%E5%86%9B%E8%A2%AB%E5%8F%8C%E5%BC%80/" target="cdt-mirror">BBC | 中国环保部原副部长张力军被双开</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/150730055518_cn_zhang_lijun_chinanpc_cr624.jpg" alt="张力军长年在环保系统工作。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/150730055518_cn_zhang_lijun_chinanpc_cr624-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/150730055518_cn_zhang_lijun_chinanpc_cr624.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>张力军长年在环保系统工作。</p></div>
+<p><strong>2015年的最后一天，中共中央纪律检查委员会宣布，中国环境保护部原党组成员、副部长张力军被开除党籍、开除公职，其涉嫌犯罪问题及所涉款物移送司法机关依法处理。</strong></p>
+<p>在中纪委的公布发表后，中国最高检察院也宣布，对张立军以涉嫌受贿罪立案侦查，并采取强制措施。</p>
+<p>现年63岁的张力军长年在环保系统工作。中纪委今年7月30日宣布，张力军涉嫌严重违纪违法正接受组织调查。</p>
+<p>中国媒体指出，张力军是中共中央总书记习近平开展反腐败运动以来在环保领域被打的“首虎”。</p>
+<p>中纪委的通报称：“张力军严重违反党的纪律，且党的十八大后仍不收敛、不收手，性质恶劣、情节严重。”</p>
+<p>张力军被指控“严重违反组织纪律，利用职务上的便利在干部选拔任用等方面为他人谋取利益并收受财物，在职工录用中为亲属谋取利益；严重违反廉洁纪律，在企业经营等方面为他人谋取利益并收受财物，收受礼金，为亲属经营活动谋取利益；严重违反中央八项规定精神，接受公款宴请”。</p>
+<p>“其中，利用职务上的便利为他人谋取利益，收受财物问题涉嫌犯罪。”</p>
+<p>在张力军被查之前，中共中央第三巡视组进驻环保部巡视，并于今年2月通报了相关问题。</p>
+<p>第三巡视组组长吉林指出，环保部存在未批先建、擅自变更等违法现象，且是“大量存在”，背后隐藏监管失职和腐败问题。环保部内有官员及亲属违规插手环评审批，以此牟利。</p>
+<p>此外，巡视组还称接到干部群众反映，环保部内环评“红顶中介”现象突出，环评机构资质审批“花钱办证”。环保部涉嫌把关不</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%8E%AF%E4%BF%9D%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%BC%A0%E5%8A%9B%E5%86%9B%E8%A2%AB%E5%8F%8C%E5%BC%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E9%83%A8/?category=18271" rel="tag">环保部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8A%9B%E5%86%9B/?category=18271" rel="tag">张力军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">违纪违法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E4%B8%AD%E4%BB%8B/?category=18271" rel="tag">红顶中介</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%85%B0%E8%8A%B1%E6%8C%87/" target="cdt-mirror">【麻辣总局】邝飚：兰花指</a>
+</h2>
+<p><blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/423275/">【赵王回车】军报详解习近平键盘发微博：自主研发平台</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">【网络民议】请按那个橙色键</a></li>
+</ul></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/mmexport1451513244035.jpg" rel="attachment wp-att-423309"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/mmexport1451513244035.jpg" alt="邝飚_兰花指" width="500" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%85%B0%E8%8A%B1%E6%8C%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">习近平发微博</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A2%81%E4%BA%AC%E8%AF%84%E8%AE%BA%EF%BC%9A2016%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%87%E5%A4%A7%E5%85%B3/" target="cdt-mirror">自由亚洲 |梁京评论：2016，习近平过大关</a>
+</h2>
+<p><p>2016年，习近平将面临他执政以来最大的挑战，这一点已经毫无悬念。</p>
+<p>有人认为，2016年习近平面对的最大难关，是经济下滑导致经济危机爆发，包括金融危机爆发，人民币大幅贬值，失业剧增，通货膨胀，并由此引发政治危机。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-30-at-%E4%B8%8B%E5%8D%886.03.08.png" alt="Screen Shot 2015-12-30 at 下午6.03.08" width="516" height="346" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-30-at-下午6.03.08-300x201.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-30-at-下午6.03.08.png 516w" sizes="(max-width: 516px) 100vw, 516px"></p>
+<p>在我看来，中国的经济虽然危机重重，但仍有回旋余地。人们强调经济危机对习近平权力挑战的一个潜在原因，就是不少希望习近平下台的人自觉不自觉地希望经济不好，从而给习近平带来压力。而这样的人在权贵中，特别是高官中是越来越多了。他们的这种消极对抗态度，也是经济危机不断加深的一个重要原因。最近中纪委的网站又发了一篇奇文，题目是”官员都在坐等出事”，就是影射这个现实。而现实比”坐等出事”更严峻，因为不少官员是在”坐盼出事”。</p>
+<p>这说明，习近平面临的政治危机，其实是比经济危机更大的挑战。三年来，习近平任性和霸道的执政风格令自己在权力精英和知识精英中陷入空前的孤立，不看好习近平已经成为相当普遍的共识。在这样的背景下，2016年的中国迎来的两个重大的政治事件，将成为诱发政治危机的导火索。一个政治事件就是纪念文革五十周年。另一个事件就是中共高层要确立十九大领导班子的人选。</p>
+<p>12月26日是毛泽东的诞辰。这几天围绕对毛的历史评价，许多微信群组都出现了热烈的议论和激辩。可以想像，明年一年，经历过文革的这代人，都不免会特别关注对文革的种种议论。这就为各种涉及文革的文字，提供了广大的读者群。没有经历过文革的中产阶级，尤其是他们的中坚力量——专业人士和知识分子，对文革这段历史也会产生特别的兴趣，因为半个世纪前他们父辈的经历已然有了越来越现实的意义：他们的职场和单位的政治生态，已经出现了类似文革的人人自危氛围。如何在这种氛围中保护自己，要不要借这种氛围来害人谋私，都成为很现实的问题。</p>
+<p>至于中共的高层权斗，因为习近平上台以来日益加剧的治理危机而有了新的内涵。原来大佬们想的主要是如何保住家族和帮派的利益，现在忧虑更多的则是习近平的这种搞法，会不会把整条船弄翻，让大家一起完蛋。因此，围绕著十九届中共常委人选的一场高层权斗，中共大佬们将有一个明确的共同目标，那就是如何来制约习近平的权力，避免同归于尽的前景。</p>
+<p>这场权斗对习近平的最大挑战就在于，他为了保住自己的权力，将设置什么样的政治伦理和道德的底线？这个选择是习近平政治生涯的一大关口，不仅关系到他的历史地位，更关系到整个中国和世界的福祉。我之所以这样想，是因为我看到痞子政治对习近平有很大的诱惑。为了保住自己的权力，他有可能学毛泽东的样，全面调动中国痞子政治的文化资源和社会资源，而中国从来不乏这样的资源。我相信，这也是今天许多人批毛、批文革时心中怀有的隐忧。</p>
+<p>不过，我还不能接受这样一种悲观的判断，那就是像文革那样调动人性中的邪恶是习近平唯一可能的选择。毕竟今天的中国已经不同于文革时代，”你死我活”的逻辑很难让绝大多数人理解。当然，习近平要拒绝痞子政治的诱惑，选择”自己活也让别人活”的理性政治，2016年就不得不做出不轻松的政治妥协，并且对自己的任性和霸道作风做痛苦调整，此即”过大关”之谓也。我有一位支持习近平的朋友告诉我，以习仲勋一家在文革乃至九十年代的经历来判断，应相信习近平有足够的调整能力和政治生存能力。</p>
+<p>我希望2016年能证明我的这位朋友对习近平的判断是对的，因为我实在不愿看到，习近平选择全面推动痞子政治带来的灾难后果。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A2%81%E4%BA%AC%E8%AF%84%E8%AE%BA%EF%BC%9A2016%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%87%E5%A4%A7%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E4%BA%AC/?category=18271" rel="tag">梁京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/423275/" target="cdt-mirror">【赵王回车】军报详解习近平键盘发微博：自主研发平台</a>
 </h2>
 <p><p><a href="http://www.thepaper.cn/newsDetail_forward_1415051"><strong>澎湃新闻｜军报详解习近平键盘发微博：自主研发平台，鼠标回车键都可发</strong></a></p>
@@ -567,138 +647,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E5%8F%8D%E6%81%90%E6%B3%95-%E6%89%B9%E8%AF%84%E8%80%85%E6%8B%85%E5%BF%A7%E6%94%BF%E5%BA%9C%E6%BB%A5%E7%94%A8%E6%9D%83/" target="cdt-mirror">纽约时报 | 中国通过反恐法 批评者担忧政府滥用权力</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge.jpg" alt="多国驻京领事馆提醒圣诞节前后提防危险后，北京三里屯提高警力，严加戒备。" width="600" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge-300x207.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/28china-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>多国驻京领事馆提醒圣诞节前后提防危险后，北京三里屯提高警力，严加戒备。</p></div>
-<p>中国立法机构周日表决通过了《反恐怖主义法》，在此之前，该法律的草案已在国际社会引起了长达数月的争议。人权组织、商业团体及奥巴马总统都表达了批评。</p>
-<p>批评者说，该法律草案中对于恐怖主义草率地采取了宽泛的定义，赋予政府新的审查权力以及取得敏感商业数据的授权。</p>
-<p>政府认为，为了防止恐怖袭击，这些授权都是必要的。反对者则指出，新的权力可能被滥用于监视和平的公民、窃取技术秘密。</p>
-<p>批评者的意见是否说服政府削弱了法律的文字不得而知：官方新闻媒体没有立即公布新的法律文本。但是，一位在全国人民代表大会常务委员会工作的官员表示，至少有一些向国家授予更大权力，以获取加密数据的措辞，保留在法律中。</p>
-<p>这位官员叫李寿伟，他在人大常委会在北京举行的新闻发布会上说，“不光是在中国，国际上很多地方越来越多的恐怖分子利用网络宣扬煽动恐怖主义，还利用网络组织策划实施恐怖活动。”</p>
-<p>刑法专家李寿伟说，反恐法包括一项规定，要求电信业务经营者、互联网服务提供者“应当为公安机关、国家安全机关依法进行防范、调查恐怖活动提供技术接口和解密等技术支持和协助。”</p>
-<p>中国人大在共产党的控制之下，人大常委会通过反恐法是在当局对反政府暴力日益不安之际，这种暴力在中国西部民族间分歧深重的<a href="http://cn.nytimes.com/china/20150817/c17sino-xinjiang/" target="_blank" rel="nofollow">新疆</a>尤为严重，那里的少数民族维吾尔族中的一些成员一直在与政府抗争。</p>
-<p>巴黎今年11月遭受大规模恐怖袭击之后，中国领导人已经<a href="http://www.xj.xinhuanet.com/2015-12/12/c_1117439482.htm" target="_blank" rel="nofollow">下令安全部队加强戒备</a>，防范发生类似的恐怖屠杀的可能性。</p>
-<p>周末，北京三里屯购物区加强了警戒，那里出现了武警部队。这之前，包括美国大使馆在内的几个外国使馆曾警告说，圣诞节前后，三里屯地区<a href="http://cn.nytimes.com/china/20151224/c24chinathreat/" target="_blank" rel="nofollow">安全风险增高</a>。</p>
-<p>此外，中国外交部<a href="http://cn.nytimes.com/china/20151227/c27china/" target="_blank" rel="nofollow">周六表示</a>，将把法国记者乌尔苏拉·高洁（Ursula Gauthier，又名郭玉）驱逐出境，因为她曾在报道中暗示，中国政府的强硬政策激发了新疆维吾尔族人的暴力行为。</p>
-<p>维吾尔族是一个讲一种突厥语族语言的少数民族，其成员主要是逊尼派穆斯林，他们对自己的宗教和文化受控制、汉族人大批涌入新疆越来越不满。政府认为，心存不满的维吾尔人的暴力行为受到了国际极端组织的煽动和启发，但批评人士说，这些冲突产生的原因是当地人的不满。</p>
-<p>去年3月，在中国西南地区城市昆明的一个火车站，维吾尔族袭击者<a href="http://cn.nytimes.com/china/20140303/c03kunming/" target="_blank" rel="nofollow">用刀砍死</a>了29人。上个月，新疆当局表示，中国安全部队<a href="http://cn.nytimes.com/china/20151123/c23xinjiang/" target="_blank" rel="nofollow">打死了28人</a>，他们被指控策划<a href="http://cn.nytimes.com/china/20151019/c19xinjiang/" target="_blank" rel="nofollow">袭击了一个煤矿</a>，导致16人死亡。</p>
-<p>人权组织警告说，新的法律将向中国政府赋予更多侵扰性极大的权力。中国政府已经拥有广泛的、几乎不受限制地监督和羁押公民的权力，以及要求公司和互联网服务商提供信息的权力。</p>
-<p>“虽然中国当局确实有保护其公民不受暴力袭击的合法责任，但这项法律的通过将会对人权产生一些负面影响，”国际特赦组织(Amnesty International)驻香港的研究员倪伟平(William Nee)通过电子邮件发表评论说。</p>
-<p>倪伟平说，“从本质上讲，该法会赋予当局更多的工具来审查不受欢迎的信息，从而为政府如何进行‘反恐战争’编织自己的故事。”</p>
-<p>官方通讯社新华社<a title="Link: http://news.xinhuanet.com/legal/2015-12/21/c_1117533184.htm" href="http://news.xinhuanet.com/legal/2015-12/21/c_1117533184.htm" target="_blank" rel="nofollow">上周一报道</a>说，反恐法草案的最终版本将恐怖主义定义为，“通过暴力、破坏、恐吓等手段，制造社会恐慌、危害公共安全或者胁迫国家机关、国际组织的主张和行为。”</p>
-<p>在中国使用加密技术的跨国公司之前就已经感到担心，因为该法律的<a title="Link: http://www.npc.gov.cn/npc/lfzt/rlys/2014-11/03/content_1885073.htm" href="http://www.npc.gov.cn/npc/lfzt/rlys/2014-11/03/content_1885073.htm" target="_blank" rel="nofollow">初步草案</a>包含一些条款，可以要求它们交出代码和其它信息，方便当局监视其用户。可能受到影响的跨国公司包括思科、IBM和苹果，它们在中国都有很大的利益关系。</p>
-<p>“过去两三年里，这些公司一直在应对这个加剧的问题，姑且称为‘监督’吧，”香港咨询公司思普知识产权服务(<a title="Link: http://www.sips.asia/" href="http://www.sips.asia/" target="_blank">Simone IP Services</a>)的法律顾问斯科特·D·利文斯顿(Scott D. Livingston)说。他一直在关心<a href="https://www.chinafile.com/reporting-opinion/viewpoint/will-chinas-new-anti-terrorism-law-mean-end-privacy" target="_blank" rel="nofollow">涉及这部法律的讨论</a>。如果反恐法的要求仍然与初稿相同，利文斯顿说，“从政府的角度来看，他们就有了更确凿的依据，来获取这些权限了。”</p>
-<p>今年1月，外国商业团体集体<a href="http://www.nytimes.com/2015/01/29/technology/in-china-new-cybersecurity-rules-perturb-western-tech-companies.html" target="_blank" rel="nofollow">致信习近平</a>，对中国的互联网政策，其中也包括这项立法草案，表达了不安。这项立法可能会要求它们提交敏感数据和商业秘密。</p>
-<p>3月初，奥巴马在接受<a title="Link: http://www.reuters.com/article/us-usa-obama-transcript-idUSKBN0LY2J820150302" href="http://www.reuters.com/article/us-usa-obama-transcript-idUSKBN0LY2J820150302" target="_blank" rel="nofollow">路透社的采访</a>时，对这项法案以及中国政府的类似举措<a href="http://cn.nytimes.com/technology/20150304/c04tech/" target="_blank" rel="nofollow">予以批评</a>。</p>
-<p>拟议的规定“实际上会强迫所有外国企业，包括美国企业，向中国政府机构提供渠道，使其能够监视并追踪这些服务上的所有用户，”奥巴马说。“科技公司是不愿意这样做的。”</p>
-<p>反恐法通过的几天之前，中国外交部发言人洪磊在<a href="http://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/2511_665403/t1327394.shtml" target="_blank" rel="nofollow">例行记者会</a>上说，奥巴马政府的批评是没有根据的。</p>
-<p>全国人大的刑法专家李寿伟坚称，跨国公司没有理由因为这项新的法律感到惊慌。“这样的规定不会影响相关企业的正常的经营活动，”他说。</p>
-<p>周日，人大还批准了对现行法律的修订，以贯彻10月下旬宣布的一项<a href="http://www.nytimes.com/2015/10/30/world/asia/china-end-one-child-policy.html" target="_blank" rel="nofollow">新政策</a>。此前实施了几十年的旧政策规定，城市里的大多数夫妇只能生育一个孩子，而新政策允许所有已婚夫妇生育两个孩子。二孩政策将会于本周五生效。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E5%8F%8D%E6%81%90%E6%B3%95-%E6%89%B9%E8%AF%84%E8%80%85%E6%8B%85%E5%BF%A7%E6%94%BF%E5%BA%9C%E6%BB%A5%E7%94%A8%E6%9D%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%B3%95/?category=18271" rel="tag">反恐法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E6%B3%95/?category=18271" rel="tag">反恐怖主义法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E9%83%A8%E9%98%9F/?category=18271" rel="tag">安全部队</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/" target="cdt-mirror">【网络民议】请按那个橙色键</a>
-</h2>
-<p><p>12月25日，习近平在视察解放军报社时，通过军报微博微信平台，<strong>敲击键盘、发出了一条微博</strong>“值此新年即将到来之际，我代表党中央、中央军委向全体解放军指战员、武警部队官兵和民兵预备役人员祝贺新年。希望大家践行强军目标，有效履行使命，为实现中国梦强军梦做出新的更大贡献！”（搜狐新闻）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/5GVx-fxmxxsr3766798.jpg" alt="5GVx-fxmxxsr3766798" width="600" height="417" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/5GVx-fxmxxsr3766798-300x208.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/5GVx-fxmxxsr3766798.jpg 550w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>然而，有细心网友发现，习近平所操作的那台电脑的Enter键，<strong>被贴上了“微博发布”的橙色标签……</strong>这个”多此一举”的标注引起了不少网友对习本人电脑技术水平的怀疑，以及对下级无微不至的“贴心服务”的嘲笑。所以，结合官方的新闻报道，所谓的“敲击键盘发出微博”并不是指习亲自发出了这条消息，习本人只负责在百忙中按下那个醒目的按钮而已。<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/14695269_980x1200_0.jpg" alt="14695269_980x1200_0" width="600" height="410" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/14695269_980x1200_0-300x205.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/14695269_980x1200_0.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9lgruwj21f00z2n87.jpg" alt="9e5389bbjw1ezda9lgruwj21f00z2n87" width="600" height="412" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9lgruwj21f00z2n87-300x206.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9lgruwj21f00z2n87.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9nmc30j21f80z0n82.jpg" alt="9e5389bbjw1ezda9nmc30j21f80z0n82" width="600" height="410" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9nmc30j21f80z0n82-300x205.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9nmc30j21f80z0n82.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9ri4z4j21fa0z0tjh.jpg" alt="9e5389bbjw1ezda9ri4z4j21fa0z0tjh" width="600" height="409" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9ri4z4j21fa0z0tjh-300x205.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/9e5389bbjw1ezda9ri4z4j21fa0z0tjh.jpg 440w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-1024x768.jpg" alt="87e90f81gw1ezeipxjd64j20zk0qo0ut" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-1024x768.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut.jpg 1280w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/87e90f81gw1ezeipxjd64j20zk0qo0ut-1024x768.jpg" target="_blank">大图</a>可看清标签</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>blogtd：习发微博被嘲一指禅这事活该，作秀要么来真的，像人家影帝就真哭，不行就干脆仪式化，晚启动仪式都会做一个像征性的按钮让领导亲自按一下，没人觉得有问题，现在弄得不伦不类，小乖友供个方案：做个御用键盘发微博专用，让丽媛提着，比核按纽还牛哦。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/CXSqzpsUoAAyUR-.png" alt="CXSqzpsUoAAyUR-" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/CXSqzpsUoAAyUR--300x225.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/CXSqzpsUoAAyUR-.png 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>变态辣椒：習近平用解放軍報的微博賬號發微博，視頻截圖顯示，他很可能是個電腦白癡，下屬生怕他不知道那個return鍵，還特意用貼紙醒目標出，不過他那一指禪式的手法已經出賣了他。</p>
-<p>蒋梦君啊啊：主席这打字手势，这段话没俩小时打不完。</p>
-<p>何以丶言希：谁再敢嫌弃我用一只手打字太慢时，我可以大声的告诉他，我是在跟党走！！</p>
-<p>饭BB7GDTop：网红习，好好练练。我们新浪就是你的江山了。虽然中国都是你的江山。</p>
-<p>Piggy看到我了吧hiahiahia：看这种新闻的贴图 不禁让我想起了金三胖开战斗机的那个图……</p>
-<p>十叁号熊兎子：请按内个红色按键 对！就是内个！</p>
-<p>别问我就这样了：习大大开通微博，可以想象每天给他私信或留言的数量绝对破亿。</p>
-<p>慕少艾：动作和我刚上网的时候一模一样哈哈</p>
-<p>lvlv0341：习大大就按了个enter键吗？</p>
-<p>嘿幼稚老罗：作秀无下限。</p>
-<p>奔跑吧露露：习大大又不是脑残！会敲键盘很奇怪吗？</p>
-<p>听水半夏：局域网……</p>
-<p>愿时光挽留所有人：只想知道习大大用过的，电脑、键盘、桌子、凳子，会不会被存起来</p>
-<p>TIM0队长：按enter键就可以发微博吗？怎么做到的</p>
-<p>DJL_坩埚上校：新浪此刻的内心应该是崩溃的，习大大用微博可以认为从国家层面上这个平台已经得到认可了，不过我党看上的东西怎么能不受国有资本的控制呢</p>
-<p>太乙堂中医院：感觉中国军人丢人</p>
-<p>Hyuk-Growl-黄洋：一个历史性的时刻！</p>
-<p>ooiiiioo：有什么好稀奇的，在中国就是这样，领导人无论干什么都是新闻。</p>
-<p>乡下韬韬：三胖的cosplay，绝了！</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%AD%97/?category=18271" rel="tag">打字</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%AE%E7%9B%98/?category=18271" rel="tag">键盘</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B8%8C%E7%89%B9%E5%8B%92%E8%A6%81%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%88%90%E4%B8%BA%E5%BE%B7%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E4%B8%AD%E7%9A%84%E4%BC%9F/" target="cdt-mirror">唐映红 | 希特勒要怎样才能成为德国人民心中的伟人？</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w.jpg" alt="23e2c3e8ce09b321613c6386cc18a724_w" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/23e2c3e8ce09b321613c6386cc18a724_w.jpg 980w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><strong>问：希特勒要怎样才能成为德国人民心中的伟人？</strong></p>
-<p>答：众所周知，<strong>纳粹德国的元首希特勒是人类历史上被盖棺定论遭彻底否定的历史人物，在德国公开地颂扬希特勒，或者宣传希特勒思想，不仅是不合时宜的，根本就是违法犯罪行为。</strong>但是，希特勒在德国执政期间，不仅将一战失败后积贫积弱的德国发展成世界强国，真正意义上实现了“<strong>德意志民族的伟大复兴</strong>”，实现了从俾斯麦时代就萦绕在德国人心中的“<strong>德国梦</strong>”。</p>
-<p>例如，德国记者、历史学家格茨•阿利(Götz Aly)的《希特勒的民族帝国：劫掠、种族战争和纳粹主义》（Hitlers Volksstaat: Raub, Rassenkrieg und nationaler Sozialismus）书中，谈到“<em>今天的欧盟农业制度、配偶分割课税制度、道路交通规则、机动车强制责任保险制度、儿童补助制度、税率等级制以及自然保护的基础都源自那个时代。</em>”换言之，<strong>希特勒领导下的第三帝国在内政方面取得了相当杰出的成就，而且开创了许多足以影响迄今的欧盟的政策。</strong>不仅如此，纳粹时期的德国将整个国家民族从一战后后屈辱和泥潭中（一战后德国的通货膨胀仅次于当今的津巴布韦）带入<strong>伟大的德意志民族复兴之路</strong>，不仅<strong>大国崛起</strong>，<strong>对世界说不</strong>，也<strong>给整个德国的老百姓带来自豪和实惠</strong>（补助儿童，提升工人养老金；进行文字改革；为困难家庭提供经济适用房和廉租房，征收房东房产税，且禁止其擅自提高房租；许诺给人民发放汽车，推强制车险；抬高关税壁垒，补贴本国农业；发行国债，加强基础设施建设等等。）</p>
-<p>按照历史唯物主义和辩证唯物主义，希特勒尽管犯过一些过激、冒进的错误，也带来一些灾难性的后果，但也应该一分为二地辩证看待，而不应该一棍子打死。特别是，<strong>如果希特勒的事业没有失败，或者抗住了英美等西方敌对势力的煽动颠覆，</strong><strong>坚持住而没有亡党亡国</strong>，那么希特勒是否有可能成为德国人民心中的伟人？</p>
-<p><strong>当然可能，但前提必须是希特勒的第三帝国以及他领导的德国国家社会主义工人党</strong>（Nationalsozialistische Deutsche Arbeiterpartei，简称纳粹党,Nasos，为德文Nationalsozialismus的缩写）<strong>能取得胜利，或至少没有亡党亡国。</strong></p>
-<p>一旦希特勒与他的纳粹党得以继续统治德国，那么希特勒就<strong>不难被塑造，并且被德国人民普遍地看作是德国的一代伟人，而哪怕他所做过的所有事情与历史既往一模一样。</strong>事实上，只需要做到如下几个要点，那么希特勒就不会被现时代的德国人民视为历史的罪人，恐怖暴君，而反而成为<strong>德国人民心中不灭的太阳，印刷在高面额的德国马克上。</strong></p>
-<p>首先，<strong>对历史的诠释必须掌握在纳粹党宣传部的把握中</strong>，历史教材中应该弘扬什么，应该避免谈到什么，应该怎么解释都应该由纳粹委员会审定并颁发。所有学校、教师必须按照纳宣部的要求教学；媒体、艺术创作也必须牢牢地弘扬主旋律。例如，<strong>纳粹的对外侵略，是为了解放受资本家压迫的斯拉夫民族，与代表权贵资本主义的犹太人作不懈的斗争。</strong></p>
-<p>其次，<strong>要妖魔化英美为代表的西方国家，向民众灌输“西方敌对势力亡我之心不死”，将一切困难都归咎于西方敌对势力的作祟</strong>，包括柏林的雾霾，北海养殖带鱼的减产，等等。</p>
-<p>再者，<strong>在从小学到大学的所有教育中，强制性加入纳粹意识形态，特别是希特勒思想的课程。</strong>无论是要获得小学文凭，还是要就读高校，试图获得硕士、博士，以希特勒思想为核心的政治思想教育是必须掌握的课程。</p>
-<p>当然，无论是媒体，还是影视文学，以及随处可见的街头雕塑、宣传画，<strong>希特勒的形象都是积极、伟岸，和蔼可亲的。</strong>而且纳粹党甚至可以<strong>把希特勒思想作为整个德国的核心价值观，不容许亵渎。</strong>哪怕是像英、美这些国家出现任何有辱希特勒的广告创意、漫画等，都将遭到纳粹外交部的严正抗议，因为“<strong>伤害了德国人民的感情</strong>”。</p>
-<p>随着时代的变迁，对希特勒的反思也不是不可以，但必须<strong>以唯物辩证法和历史唯物主义为理论基础一分为二，成绩是七分，错误是三分。</strong>而且，希特勒的错误只不过是在针对贪婪的权贵资本主义的犹太人，以及外国那些欺压工人群众的资产阶级政权的斗争过程中，稍微过激而已。但他带领德国从积贫积弱，一穷二白的泥潭中“<strong>站起来了</strong>”，实现了“<strong>德意志民族的伟大复兴</strong>”，功不可没。</p>
-<p>如是，<strong>希特勒就成为了德国人民心中的伟人。</strong>而德国柏林大学的汉默·德强（Hanmer Detschöh）教授可以在街头骄傲地掌掴那些对希特勒有微词的八旬老人而不用担心被警察逮捕。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B8%8C%E7%89%B9%E5%8B%92%E8%A6%81%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%88%90%E4%B8%BA%E5%BE%B7%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%83%E4%B8%AD%E7%9A%84%E4%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%9D%E5%BC%BA/?category=18271" rel="tag">王宝强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E8%80%85/?category=18271" rel="tag">专制者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%B1%82%E6%98%AF%E6%9D%82%E5%BF%97%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E5%BC%80%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%A3%E4%BC%A0/" target="cdt-mirror">【异闻观止】求是杂志：伍皓：理直气壮地开展中国宣传学研究</a>
-</h2>
-<p><p>2013年8月19日，习近平总书记在全国宣传思想工作会议上发表重要讲话时指出：“在长期实践中，我们党的宣传思想工作积累了十分丰富的经验。这些经验来之不易、弥足珍贵，是做好今后工作的重要遵循，一定要认真总结、长期坚持，并在实践中不断丰富和发展”。这一重要论述，给宣传思想战线提出了努力开展中国宣传学研究的重大任务。</p>
-<p>一</p>
-<p>目前，全国有数百万宣传工作者。然而，如此庞大的宣传工作者队伍，如此宏大的宣传活动实践，在我国却始终未能发展出独立的、完善的宣传学学科体系。迄今为止，没有任何一所大学开办有宣传学系或宣传学专业，也没有科研机构设立专门的宣传学研究中心或研究所。宣传学与新闻学、传播学堪称近亲，新闻学、传播学已成当之无愧的热门学科，论文、论著可谓汗牛充栋，而宣传学的研究则急需总结和发展。</p>
-<p>上世纪80年代、90年代，日益深化的改革开放对宣传工作提出了严峻挑战，我们党曾经擅长的传统宣传手段和方式也面临着新形势新情况，存在着老办法不管用、新办法不会用的问题，需要在实践中不断丰富和发展。1984年6月13日，《光明日报》发表中共中央党校宋振庭的文章《要重视宣传学、宣传史的研究》，在理论界引起强烈反响。建立宣传学的问题，伴随着改革开放的浪潮被提上议事日程。宣传学的提出、创建和发展，一开始就得到中共中央宣传部的高度重视。当时，四川省成为较早开展宣传学研究的地区，在中宣部直接支持下，云集了一大批精兵良将进行宣传学的研究。1986年，四川省社会科学院成立宣传学课题组、宣传学研究室。1987年，有关方面还举办了“全国首次宣传学学术讨论会”。1988年—1990年，四川省相继出版《宣传学概论》（向在仁著）、《宣传科学研究纲要》（林之达著）、《宣传心理学原理》（曾欣然主编）、《宣传学集论》（曹福田著）等宣传学专著。河北人民出版社也于1988年8月出版《中国共产党宣传学概论》（沈一之著），福建人民出版社于1989年推出《宣传学导论》（李良荣等著）。</p>
-<p>这一时期的宣传学研究，还大量涌现出针对宣传手段、宣传技巧、宣传效果等方面的微观研究成果，如《宣传的改革与宣传效益》（艾广明著，辽宁大学出版社1988年版）、《宣传艺术与技巧》（任健雄等主编，西南交通大学出版社1990年版）、《宣传艺术论》（祁崇岳著，江苏教育出版社1991年版）、《宣传技巧》（顾作义著，广东人民出版社1991年版）等。</p>
-<p>这一波宣传学研究的热潮，除了专注于宣传学学科体系的宏观架构外，对中国共产党宣传史的探究也是亮点。1990年，四川人民出版社推出林之达主编的《中国共产党宣传史》，它是目前为止我国公开出版的第一部研究民主革命时期党的宣传史的著作。与此同时，中宣部也开始对党的宣传工作重要文献史料进行搜集、整理，联合中央档案馆编辑了《中国共产党宣传工作文献选编1915—1937》（全四册），于1996年由学习出版社出版。</p>
-<p>1990年以后，宣传学研究没有发展起来。最近几年来，我国虽然相继出版了一些宣传工作方面的图书，但是多为一般性的普及培训类读物，如学习出版社自2010年起每年推出一本由全国宣传干部学院编的《宣传思想文化工作案例选编》，作为对全国宣传干部进行培训的教材。红旗出版社推出了《党的宣传工作培训教程（图文版）》 、《最新党的宣传工作操作方法与创新实务》、《基层党务工作科学化丛书：宣传工作实务》等培训教材，中共党史出版社出版了《新时期党的基层组织工作实务系列丛书：宣传工作》。 值得一提的研究类著作，仅有中国大百科全书出版社2013年出版的刘海龙著《宣传：观念、话语及其正当化》及中国广播影视出版社2014年出版的《宣传技巧与跨文化传播》等少数几种。令人欣慰的是，华中科技大学出版社2010年出版了习少颖著《1949—1966年中国对外宣传史研究》， 2014年清华大学出版社推出姚遥的《新中国对外宣传史——建构现代中国的国际话语权》，填补了我国对外宣传史研究的空白。</p>
-<p>总的看来，宣传学在我国仍然处于初创阶段，与许多社会科学学科相比，宣传学研究仍然是一门刚起步的学科；与其他学科的进步相比，宣传学研究仍需加快发展。这既是我国数以百万计的宣传思想工作者，面对越来越繁重和复杂的宣传思想工作实践渴求理论指导的需要，同时，我国极其丰富、极其生动、极其精彩的宣传工作实践也亟须进行总结提升，加强对宣传学自身的理论建设。</p>
-<p>二</p>
-<p>深入分析影响我国宣传学研究滞后的原因就会发现，其主要思想障碍，是所谓西方国家没有“宣传”，更没有“宣传学”。</p>
-<p>近年来，国内外反华势力“西化”、“分化”中国的图谋出现了一个新的动向，就是集中攻击我们党和国家的宣传工作。他们散布奇谈怪论称，“宣传”一词在西方是个令人反感和厌恶的贬义词，世界历史上只有两个国家设有“宣传部”这种机构，一个是纳粹德国，一个就是共产党中国。这种论调迷惑了很多人。</p>
-<p>西方国家果真如他们标榜的那样，没有“宣传”、没有“宣传部”吗？事实上，在宣传方面，西方国家是很有一套的。他们表面上反对搞宣传，实际上搞起来比谁都更来劲、更在行、更不择手段。</p>
-<p>“宣传”一词并非中国人的发明，而是起源于罗马教皇格雷戈里十五世于1662年创办的“信仰宣传传圣教会”（Sacra Congregatio de Propaganda Fide）；设立宣传部也不是中国共产党的发明，世界上第一个宣传机构恰恰就诞生在西方，而且并不是什么纳粹德国，而是英国。1918年初，英国成立了一个隶属于英国政府的机构Department of Enemy Propaganda （直译为“对敌宣传部”）, 这是Propaganda（宣传）一词首次出现在政府机构名称中。第一次世界大战时，Department of Enemy Propaganda在北岩勋爵的主持下，策划和指挥了卓有成效的对德国宣传战。这以后，西方国家的政党和政府纷纷效仿，相继建立起各自的宣传机构。在我国，孙中山先生为推翻清廷，首先向西方学习的就是组建资产阶级政党，于是连同西方政党的组织架构包括宣传部在内也沿袭了过来。第一次国共合作时期，毛泽东同志还担任了国民党中央宣传部代理部长。由此可见，政党组织设立自己的宣传机构是全球政党的通行做法，所谓“只有德国纳粹党和中国共产党才有宣传部”的谎言是不攻自破的，编造这一谎言者的险恶用心更是昭然若揭。</p>
-<p>受一些别有用心的人的蛊惑和误导，很多人想当然地认为以美国为代表的西方国家是反对搞宣传的，因此更不会有宣传学这门学科。其实，不仅“宣传”和“宣传部”都诞生于西方国家，“宣传学”作为一门独立的学科也是首先在西方建立的。美国著名学者拉斯韦尔被公认是宣传学的奠基人。1937年，年仅24岁的拉斯韦尔出版《世界大战中的宣传技巧》一书，这本书对第一次世界大战中英、法、德、美等主要交战国的宣传策略及其效果进行了全面和高度理性的分析，被奉为宣传学的开山之作。此后，拉斯韦尔倾其一生专注于宣传学的研究，先后出版了《政治学：谁得到什么？什么时候和如何得到？》（1936年）、《传播的结构和功能》（1948年）、《政治的语言：语义的定量研究》（1965年）、《世界历史上的宣传性传播》（1979年，与他人合著）等宣传学著作。</p>
-<p>在美国，不仅有宣传学这门学科，而且从事宣传学研究的学者是一个很大的群体。直到今天，美国的宣传学研究仍然很热门，产生了不少宣传学名著。近年来，一批美国的宣传学著作被陆续翻译到国内，让人们可以窥见美国宣传学发达程度之一斑。如普拉卡尼斯、埃利奥特·阿伦森的《宣传力——政治与商业中的心理操纵》 （新华出版社2014年版，林夕榆译），伯内斯的《宣传》（中国传媒大学出版社2014年版，胡百精、董晨宇译），伊斯特曼的《媒介宣传研究》 （中国传媒大学出版社2008年版，张丽华等译），等等。</p>
-<p>而且，美国的宣传学研究一直受到美国政府的资助。1937年，美国政府资助哈德利·坎特里尔建立了“美国宣传分析研究所”。这是世界上第一个专门以“宣传”命名的研究机构。后来被美国广泛采用的著名的七种常用的宣传手法，即咒骂法、粉饰法、转移法、证言法、平民法、堆牌法、乐队花车法，就出自该所研究者艾尔弗雷德·麦克朗·李与伊丽莎白·布赖恩特·李于1939年编辑出版的《宣传的艺术》一书。第二次世界大战期间，作为宣传学开山鼻祖的拉斯韦尔本人也接受有浓厚政府背景的洛克菲勒基金会的资助，在美国国会图书馆开展了战时宣传分析项目，其主要任务是对同盟国和轴心国的各种宣传进行内容分析。</p>
-<p>即便如此，还是有人在为美国的宣传和宣传学辩护，他们称：为了国家利益，对他国特别是敌对国展开宣传战是无可厚非的，但在美国，党派和政府是被严格禁止向国内民众开展宣传的，不得用宣传来妨碍民众的自由思想。果真是这样吗？我们看到的实情却是，四年一度的美国总统大选，堪称当今世界上规模最大、耗资最巨的针对国内民众的宣传运动，所有的竞选活动实质上都是宣传，为了选票什么宣传手段都可以无所不用其极，谎言、欺骗、攻讦、误导、洗脑都在所不惜，堪称“不择手段”。在所有的竞选顾问中，宣传专家是必不可少的，每个总统候选人都必须花费大笔佣金用于宣传策略设计和宣传效果分析。这才是美国宣传学研究经久不衰且日益兴盛最根本的秘密。</p>
-<p>上文已介绍过“美国宣传分析研究所”研究出的七种宣传手法，以美国为代表的西方国家可谓运用娴熟。第一种手法就叫“咒骂法”，又译作“恶名法”。为了抵消我国的宣传效力，西方国家首先要做的当然就是抹黑我国的宣传，给我国的宣传贯之以“歪曲”“夸大”“偏见”“洗脑”“思想控制”等恶名。可以说，污名化、妖魔化“宣传”一词本身，就是西方国家精心策划的一次宣传。第二种手法叫“粉饰法”，西方国家的宣传自然也是最擅长“粉饰”的，既然要污名化、妖魔化“宣传”一词，那他们的第二招，自然便是他们的宣传不再叫“宣传”了，而是粉饰成“公关”“大众传播”“公共信息”等新名词，他们的“宣传部”也改换成了“公共关系委员会”、“公共信息委员会”等五花八门的新招牌。就连宣传学的开山鼻祖拉斯韦尔也被重新包装成“传播学”的奠基人。然而，拉斯韦尔本人早已作古，再怎么粉饰，他在世时自称是“宣传学家”而不是“传播学家”，他的传世名作《世界大战中的宣传技巧》，其自述撰著此书的目的是想“发展出一个关于宣传如何能够成功实施的精确理论”，他对宣传学的定义：“宣传学就是说明宣传的运作机制，就是揭示社会行为的秘密原动力”，其用的词都是Propaganda（宣传）而不是communication（传播），这是无论如何也抹不掉、粉饰不了的了。</p>
-<p>在我国学界，不少人把西方新闻学、传播学理论奉为圭臬，紧跟西方一些学者，主张宣传学并不是一门独立的学科，只是新闻学、传播学研究的一小部分内容，用新闻学、传播学来代替宣传学的倾向十分明显。事实上，宣传学与新闻学、传播学不是一回事。宣传学不仅不是新闻学、传播学研究的“一小部分”，恰恰相反，宣传学的外延远比新闻学、传播学要大得多，新闻传播仅为宣传思想工作中的“一小部分”、只是众多宣传手段中的一种。除了新闻传播，宣传工作还需要做大量的直接面对群众的理论普及、政策宣讲、社会动员、思想教育、道德建设、价值观培育以及精神文明建设、文化强国建设等工作，这些都不是新闻学、传播学能够解决的问题。更关键的是，新闻的主要功能是报道事实，传播的主要功能是传递信息，而宣传的主要功能是传送思想；新闻和传播的主要任务是把新近发生的事和特定的信息呈现于受众，而我们的宣传最主要的任务是把党的主张传达到人民群众中去，以便为人民群众所掌握、所认同，巩固马克思主义在意识形态领域的指导地位，巩固全党全国人民团结奋斗的共同思想基础。新闻和传播是社会公共事业，而宣传历来是一种严肃的政治行为，是政党活动的主要形式和主要内容之一，中外皆如此，概莫能外，它的本质就是劝服、引导人们接受政党的主张。由此可见，宣传学与新闻学、传播学是有着本质的区别的，对此我们完全没有必要羞羞答答、遮遮掩掩，理应旗帜鲜明地亮出“中国宣传学”的旗号。</p>
-<p>西方国家蛊惑以传播代替宣传、以传播学代替宣传学，目的就是想让我们的宣传工作“去意识形态化”。他们鼓吹所谓“不带偏见”“价值中立”的传播，千方百计地抹黑我们党的宣传，是寄望于党的科学理论、正确主张和方针政策不要为中国人民所认识和掌握。一个强大的中国是他们所不愿看到的，中华民族形成统一的思想意志是令他们坐立不安的。他们美其名曰只“传播”不“宣传”，但又有哪一部好莱坞大片不是在宣传美国的价值观呢？无论是面对超乎想象的巨大灾难，还是面临突如其来的恐怖袭击、外星人入侵，好莱坞大片中总是会有一位美国英雄最终拯救了人类。这就是赤裸裸的宣传。它无时无刻不在告诉人们：美国是不可战胜的，只有美国才能拯救地球，美国是全人类的救星。西方国家是只客观传播而不宣传他们的意识形态、不宣传他们的价值观吗？他们直到今天都还执着于试图把他们的意识形态和价值观在全球宣传推销、要使之成为“普世价值”呢！他们要宣传，就必欲削弱我们的宣传而后快；他们不是不要宣传，而是只想要他们主宰的宣传。对此，我们必须时刻保持清醒。</p>
-<p>三</p>
-<p>西方国家污名化、妖魔化“宣传”一词，无非是想在我国民众中造成思想混乱，以便他们的意识形态和价值观可以大行其道。意图如此明显。可叹的是，我国不少人却深受西方的影响，也避讳谈“宣传”，对开展宣传学的研究更是态度消极，只愿意去研究新闻学或者传播学而不肯涉及宣传学，似乎研究新闻和传播才是学问，研究宣传就不大光彩。这样的思想认识，只能使我国的宣传学研究自己捆住自己的手脚，岂不是正中西方一些人的下怀，上了他们的当？</p>
-<p>西方学者并不避讳研究宣传。从美国学者鲁斯·兰尼斯·史密斯的《宣传、传播和舆论指南》（中山大学出版社2008年版，王海、胡帆、宋长青译）的书名就可以看出，他们把“宣传”“传播”“舆论”这几个概念是分得很清楚的。美国等西方国家高度重视宣传学的研究，宣传学研究繁荣且发达，目的就是为了不断探究宣传的自身规律，不断寻求新的宣传技术和宣传技巧，以帮助他们更好地在全球宣传。我们不能天真到真以为西方国家只是“传播”客观信息，而不“宣传”他们的价值观。事实上，宣传才是他们“软实力”“巧实力”的核心所在。西方国家不是没有宣传，只是他们千方百计掩盖，做“看不见的宣传”。他们的策略是，上乘的宣传看起来要像从未进行过一样，最好的宣传要让被宣传对象沿着你希望的方向走，却认为是自己在选择方向。西方国家能做到“看不见的宣传”，其高明正是来自于长期重视宣传学研究的结果。这也从反面说明我国必须加强宣传学理论研究的重要性。</p>
-<p>因此，在宣传学研究问题上，我们决不能含糊，更不能退避三舍。是被西方的新闻学、传播学牵着鼻子走，亦步亦趋、相呼相应，还是理直气壮地开展我们自己的宣传学研究，答案显然是后者。一些人老是担心“宣传”的国际形象欠佳，搞宣传学研究不利于自己的学术声誉，而说自己搞的是“传播学”则可以与国际接轨，让西方国家接受。在这个问题上，我们的注意力不应该被“西方国家究竟有没有宣传”的无谓争论所分散，而应该集中精力加强对党的宣传优势和宣传实践进行研究总结，并运用于新的宣传实践；我们也不要被“宣传在国际上究竟受不受欢迎”的疑虑所迷惑，而应该不为杂音噪音所扰，理直气壮地开展中国宣传学研究。</p>
-<p>（作者：<a href="http://chinadigitaltimes.net/space/%E4%BC%8D%E7%9A%93" target="_blank">伍皓</a>。中共云南省红河州委常委、宣传部长）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%B1%82%E6%98%AF%E6%9D%82%E5%BF%97%EF%BC%9A%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E5%BC%80%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%A3%E4%BC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8D%E7%9A%93/?category=18271" rel="tag">伍皓</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E5%AD%A6/?category=18271" rel="tag">宣传学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AD%A6/?category=18271" rel="tag">新闻学</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -710,7 +658,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8D%E7%9A%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -720,5 +668,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8D%E7%9A%93
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,92 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%9B%B7%E5%85%8B%E4%B8%BB%E8%A7%82%E6%81%B6%E6%84%8F%E8%AF%84%E4%BB%B7%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9E%84%E6%88%90/" target="cdt-mirror">【异闻观止】专家：雷克主观恶意评价毛泽东构成违法</a>
+</h2>
+<p><p>习近平在纪念毛泽东诞辰120周年座谈会上指出，毛泽东同志是近代以来中国伟大的爱国者和民族英雄，是领导中国人民彻底改变自己命运和国家面貌的一代伟人。资料图</p>
+<p>中国青年网北京12月30日电 （记者 卢冠琼 李拓）12月29日，中国青年网报道德国“网红”雷克录制视频，辱骂演员王宝强，并恶意评论中华人民共和国领袖毛泽东，将其比作二战纳粹头目希特勒，引起网友一片哗然。不少网友愤慨留言，“雷克此举难道不违法？他应当受到什么样的惩罚？”针对雷克的行为与造成的影响，中国青年网采访了几位学界、业界专家。专家们表示，雷克此举，已构成违法。</p>
+<p>“雷克在视频中对于毛泽东的评价，不是一个客观的评价。如果是客观的事实，可以认为是言论自由。但是雷克的言论，更多的是无中生有与主观恶意。”中国政法大学传播法研究中心副主任朱巍告诉中国青年网记者，德国青年雷克的行为扰乱社会公共秩序，已经构成了违法。朱巍分析，“雷克将毛主席称作‘中国的希特勒’，并形容他‘弄死几千万个同胞’，这样的言论不是对历史的客观还原，具有明显的主观恶意。”朱巍指出，“主观恶意，即便是在欧洲和美国，也是触犯了言论自由的底线。”</p>
+<p>中国共产党十一届三中全会前后，党进行了指导思想和各条战线的拨乱反正工作，对“文化大革命”进行否定，对中华人民共和国成立以后十七年的一些历史问题重新评价。如何看待建国以后党的历史，如何评价毛泽东思想，成为当时中国政治生活中的一个大问题。</p>
+<p>1981年6月，中共十一届六中全会一致通过了《关于建国以来党的若干历史问题的决议》，对建国以来党的重大历史问题特别是“文化大革命”、毛泽东的功过是非和毛泽东思想基本内容与指导意义作了总结和评价，“他虽然在‘文化大革命’中犯了严重错误，但是就他的一生来看，他对中国革命的功绩远远大于他的过失。他的功绩是第一位的，错误是第二位的。”《决议》统一了全党的认识，加强团结，促进了人民革命事业的迅猛前进和伟大胜利。</p>
+<p>习近平在纪念毛泽东诞辰120周年座谈会上指出，毛泽东同志是近代以来中国伟大的爱国者和民族英雄，是领导中国人民彻底改变自己命运和国家面貌的一代伟人。朱巍认为，雷克恶意评价中华人民共和国领袖，不仅扰乱社会公共秩序，违反法律，而且伤害了中国人民的情感。</p>
+<p>雷克在引发网友愤怒的长度为4分43秒的视频中透露，录制该视频时，自己正在家中过圣诞节。有网友疑问，“如果雷克不是在中国境内录制这段视频、表述这些言论，他的行为适用于中国法律吗？”朱巍给出了肯定的答复。朱巍指出，“即使雷克身在德国，或者是中国以外的其他国家，其行为的网络延伸、网络环境发生在中国，虚拟性主体和现实就算存在时空的差距，但是因为他的影响情况和网络行为发生在中国，所以仍旧适用于中国的法律。”</p>
+<p>朱巍进一步解释，“例如，一个人身在自己的国家中，但是其行为的网络影响发生在了国际上，发生在其他国家，按照‘保护原则’、‘管辖原则’，受到网络行为影响的国家，就有相关的管辖权。”</p>
+<p>国家主席习近平在出席第二届世界互联网大会开幕式时表示，互联网让世界变成了“鸡犬相闻”的地球村。同时，他强调，网络空间同现实社会一样，既要提倡自由，也要保持秩序。网络空间不是“法外之地”。</p>
+<p>“习主席所指出的‘网络空间不是法外之地’，不是说全世界的互联网都要遵循一样的规则，而是说，互联网上有主权，这个主权是有国家意志在里面的。其中，互联网主权中很重要的一块，就是司法主权。”朱巍补充道，“我们对自己互联网的环境有管辖权，不管这个人在什么地方，只要涉及中国的网络，他都适用于中国的法律。”朱巍指出，雷克的行为很明显已违反了2014年8月国家互联网信息办公室发布的“微信十条”（《即时通信工具公众信息服务发展管理暂行规定 》）。</p>
+<p>中国社会科学院国家文化安全与意识形态建设研究中心副主任兼秘书长朱继东在接受中国青年网记者采访时则直接表示，雷克这样的“洋公知”不是个案，而是一种群体势力，他们的根本目的就是以局外人的腔调，误导国人对于很多事情的认知，颠覆我们的历史和价值观，最终扰乱我们的意识形态。</p>
+<p>朱继东说：“这样的言论影响到我们国家的意识形态安全，进而危害我们的国家安全。我们要坚决予以曝光和抨击，揭露其危害。”</p>
+<p>一位从业30年的律师对中国青年网记者表示，从我国法律层面，根据雷克录制视频并公开发布的行为来看，他涉嫌违反了《中华人民共和国刑法》第二百四十六条规定的侮辱诽谤罪。他表示，根据相关法律条文的表述，雷克在公开的网络上以公然的方式利用捏造事实的方法诽谤我国领导人，是对领导人人格的侮辱，应符合侮辱诽谤罪的构成。</p>
+<p>该律师也提到，虽然侮辱诽谤罪属于“告诉才处理”的罪名之一，但我国国家领导人代表国家形象应属于国家利益范畴。而雷克公然侮辱诽谤前国家领导人的行为有损国家形象，并且严重危害了国家利益，造成恶劣国际影响，所以雷克的行为可以由国家公诉机关提起相关追诉程序。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%9B%B7%E5%85%8B%E4%B8%BB%E8%A7%82%E6%81%B6%E6%84%8F%E8%AF%84%E4%BB%B7%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9E%84%E6%88%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AE%A3/?category=18271" rel="tag">党宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B/?category=18271" rel="tag">雷克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%9D%E5%BC%BA/?category=18271" rel="tag">王宝强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B%E5%B0%8F%E6%B5%81%E6%B0%93/?category=18271" rel="tag">雷克小流氓</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 19分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/423370/" target="cdt-mirror">【网络民议】捆绑销售：爱国爱党爱社会主义</a>
+</h2>
+<p><p><strong><a href="http://news.sina.com.cn/c/2015-12-30/doc-ifxneept3408117.shtml">新华社｜习近平：坚持爱国和爱党爱社会主义相统一</a></strong></p>
+<blockquote><p>[…]他指出，爱国主义是中华民族精神的核心。爱国主义精神深深植根于中华民族心中，是中华民族的精神基因，维系着华夏大地上各个民族的团结统一，激励着一代又一代中华儿女为祖国发展繁荣而不懈奋斗。<strong>5000多年来</strong>，中华民族之所以能够经受住无数难以想象的风险和考验，始终保持旺盛生命力，生生不息，薪火相传，<strong>同中华民族有深厚持久的爱国主义传统是密不可分的</strong>。</p>
+<p>习近平强调，弘扬爱国主义精神，<strong>必须坚持爱国主义和社会主义相统一</strong>。我国爱国主义始终围绕着实现民族富强、人民幸福而发展，最终汇流于中国特色社会主义。祖国的命运和党的命运、社会主义的命运是密不可分的。<strong>只有坚持爱国和爱党、爱社会主义相统一，爱国主义才是鲜活的、真实的，这是当代中国爱国主义精神最重要的体现</strong>。今天我们讲爱国主义，这个道理要<strong>经常讲、反复讲</strong>。</p></blockquote>
+<p><strong>微博评论截图：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%88%B1%E5%9B%BD%E8%A6%81%E8%B7%9F%E7%88%B1%E5%85%9A%E7%88%B1%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89.png" rel="attachment wp-att-423371"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%88%B1%E5%9B%BD%E8%A6%81%E8%B7%9F%E7%88%B1%E5%85%9A%E7%88%B1%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89.png" alt="爱国要跟爱党爱社会主义" width="500" height=""></a></p>
+<p>必须指出的是，与2000多转发量相差悬殊的这200多条评论，<strong>已经是网民发表评论被延时处理后的结果：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%AF%84%E8%AE%BA%E5%BB%B6%E8%BF%9F.png" rel="attachment wp-att-423374"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%AF%84%E8%AE%BA%E5%BB%B6%E8%BF%9F.png" alt="评论延迟" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/评论延迟-300x178.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/评论延迟-768x455.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/评论延迟.png 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E9%AB%98%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E6%8E%A2%E7%A9%B6/">大数据时代高校思想政治教育模式创新探究</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/">中小学生守则修订版：一年后还是得爱党</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E8%AF%B4%E8%BF%87%E7%9A%84%E8%B0%8E%E8%AF%9D/">【网络民议】那些年我们说过的谎话</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%98%AF%E8%A2%AB%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%80%9D%E6%83%B3%E9%81%93/">【图说天朝】中国未成年人是如何被进行“思想道德建设”的</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%88%B1%E5%9B%BD%E5%92%8C%E7%88%B1%E5%85%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E8%87%B4/">【异闻观止】环球时报 | 爱国和爱党在中国是一致的</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E5%85%B1%E8%AF%86%E7%BD%91-%E7%A8%8B%E6%98%A0%E8%99%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E4%B8%AD%E6%8E%BA%E6%9D%82%E8%BF%87%E5%A4%9A%E7%9A%84%E7%A7%8D/">共识网 | 程映虹：中国的爱国主义中掺杂过多的种族性观念</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2871547701" target="_blank">我要誓死考北京</a>：连最起码的教育公平都做不到，考研这样的国家考试都能泄题，爱国爱党？心累<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p>@远水No1：爱国不爱党要定什么罪？</p>
+<p>@fapen：这味道就不对了。</p>
+<p>@风紧扯呼微博：这标准低了点，还得爱改革开放，爱马克思主义，爱毛泽东思想，爱邓小平理论，爱江三个代表，爱胡八荣八耻，爱习中国梦</p>
+<p>@猪巫：那在国内战争的时候，是该爱国民党呢还是GCD呢？</p>
+<p>@或会在旁：民主党派和无党派人士还能不能愉快的爱国了？</p>
+<p>@Bork123：我要是九三学社或者民进的怎么办，也爱中共</p>
+<p>@我的爱在这里14520：你要海外华侨，台湾香港人都爱国，意思就是。。。。。。？你要的祖国统一，就是让他们也。。。。？</p>
+<p>@好個李寶三：要不要连贵党成员一起爱？</p>
+<blockquote><p>@君子殉凶-冰冰无厘：党国万岁<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i.jpg" rel="attachment wp-att-423372"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i.jpg" alt="党国万岁" width="440" height="334" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i-300x228.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
+<p>@蛤艮达丝：毛：“必须迅速地认真地实行政治改革，结束国民党一党专正，召集真正代表民意的有权力的国民大会，制定宪法，实行宪正。”</p>
+<p>@xiangxinwo：我爱谁是我自己的自由</p>
+<p>@一生1567：这脑洗的，当人都脑残∞</p>
+<p>@八分钟后的黑暗：谎言重复一千遍,也会变成真理。”是保罗·约瑟夫·戈培尔，希特勒的宣传部长说的 （Paul Joseph Goebbels，1897.10.29－1945.5.1），纳粹党宣传部部长，纳粹德国国民教育与宣传部部长。 戈培尔认为，宣传的唯一目的，就是”征服民众”；”我们的宣传对象是普通老百姓，故而宣传的论点须粗犷、清晰和有力；</p>
+<p>@肥鸟呵鱼：国，党，社会主义三位一体了，哈哈哈哈哈哈哈</p>
+<p>@伍毛钱的灵魂：只听说过公仆爱人民，没听过人民爱公仆。你们原来好像不是这么宣传的吧？</p>
+<p>@臭流氓老孟：你国你们慢慢爱！</p>
+<p>@Rex_Wilde_LFC：我爱的中国，其内涵还在恢复中，其他的爱不起来，一会儿就得删了</p>
+<p>@草籽地：那只能都不爱了</p>
+<p>@上海边的森林：呵呵#知青治国荒腔走板#</p>
+<p>@阿青杀一下：刁总这治国能力还一群人叫大大，中国人是多缺父爱</p>
+<p>@阿拉斯加大好人：呵呵，真心累，按官方的说法，爱自己的国家还有这么多附加条件，那就不爱算了～</p>
+<p><strong>@冲上充数：捆绑销售</strong></p>
+<p><strong>@换马甲换风水换换换：强买强卖。</strong></p>
+<p>@酥梅特don丶t：对不起我只是爱国，并不爱你党</p>
+<p>@黄灿彬：老司机开倒车啦，大家坐稳喽！</p>
+<p>@唱搖滾的軟餅乾：爱国这玩意儿能把雾霾给吹走吗？</p>
+<p>@hy8989：看了评论我就放心了!</p>
+<p>@海岛旅行家biubiubiu：不知不觉的就快到庆丰6年了</p>
+<p>@处于假寐：一个犯罪率最高的邪教组织——–共产党</p>
+<p>@叫我超彦祖：党在国上，人在党上，爱习大大一人足矣，费那些劲干啥？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98.jpg" rel="attachment wp-att-423193"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98.jpg" alt="李小乖_御用键盘" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/御用键盘-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/御用键盘.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><em>（“御用键盘” by 李小乖）</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/423370/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%98%8E%E6%8A%A5%EF%BD%9C%E5%86%9B%E6%94%B9%E7%AC%AC%E4%B8%80%E5%88%80%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%88%92%E4%B8%A5%E9%83%A8%E9%98%9F27%E5%86%9B%E8%A2%AB%E8%A3%81/" target="cdt-mirror">明报｜军改第一刀：六四戒严部队27军被裁</a>
 </h2>
 <p><p>解放军军改启动，将裁减 30 万官兵。在黑龙江省大兴安岭地区加格达奇区，武警森林支队的士兵仍盼在新一年「练好兵，站好岗」，保护国家森林资源。日前士兵腾空飞跃大合照，迎接新年。</p>
@@ -581,72 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/ft%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E5%90%89%E5%AF%86%E6%AC%A7%EF%BC%9A%E8%B4%A8%E7%96%91%E4%B8%AD%E5%85%B1%E7%AE%A1%E7%90%86%E5%A4%8D%E6%9D%82%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%83%BD%E5%8A%9B/" target="cdt-mirror">FT中文网｜吉密欧：质疑中共管理复杂经济的能力</a>
-</h2>
-<p><p>二十多年来，中国共产党为国内民众提供了一份不成文的社会契约——我们管理这个国家，允许你们致富，只要你们不参与政治。</p>
-<p>快速提升的生活水平连同在实现高增长方面成绩斐然的官僚体系，让多数普通公民相信，这是一笔相当不错的交易。</p>
-<p>中国技术官僚的才能以及他们管理一个日益复杂经济体（至少按购买力平价算，中国如今已是世界最大经济体）的能力，同样令大多数在华外国投资者印象深刻。</p>
-<p>但今夏股市崩盘以及随后的一系列政策失误，让许多投资者开始质疑自己对北京官员绝对可靠能力的信心。</p>
-<p>与此同时，已困扰中国几年的残酷经济放缓似乎正在恶化，房地产、制造业以及金融领域的深层次问题正变得越来越严峻。</p>
-<p>就在两年前，许多中国官员还自信地预测，中国经济将继续以8%的稳定速度至少再增长20年。</p>
-<p>但随着中共竭力实现其全年“7%左右”的国内生产总值(GDP)增长目标，中国将迎来四分之一世纪以来最慢的年度增速。官方数据显示，中国经济第三季度同比增长6.9%，而上半年的增速为7%。</p>
-<p>瑞银(UBS)中国首席经济学家汪涛预计，明年增速将放缓至6.2%，2017年进一步降至5.8%。</p>
-<p>“（对这些预测而言）下行风险可能将主要来自更深层次、更长期的房地产去库存过程以及对工业部门造成的更大连锁效应，而在较小程度上，还来自在缓和经济下滑方面政策支持不足，”汪涛说，“这些都可能加剧疲弱的实体活动中的不利反馈循环，恶化通缩压力并增加债务负担；这些都将发生在更多的资本外流与金融市场波动的背景下。”</p>
-<p>投资者不大可能看到中国巨大的出口部门出现任何回暖迹象，这一部门正疲于应对全球需求疲软、环境及劳动力成本上升以及人民币升值。</p>
-<p>2015年初，中国政府设定了总贸易额增长6%的目标，但今年前10个月，中国与世界其他国家的贸易额同比下降了8%。</p>
-<p>知情人士透露，出口部门遭遇的困境是中国政府决定在8月11日让人民币贬值的原因之一。但全球市场的震惊反应以及中国当局随之而来的突然180度大转弯，或许对中国领导人经济管理能力方面的声誉造成的损害最大。</p>
-<p>“此番人民币贬值显然属于政策失误，”华盛顿美国企业研究所(American Enterprise Institute)的驻所学者史剑道(Derek Scissors)说，“他们似乎完全不在意下行风险和世界其他国家将作何反应。”</p>
-<p>实际上，一段时间以来，全球投资者早已对中国当局失去信心。</p>
-<p>2014年年中前后有一个迹象日渐明显，即中国政府决定鼓励国内巨大但监管不善的股市中的投机行为。通过对股市泡沫的许可，中国政府认为它可以策划一次巨大的债转股，让企业可以通过出售股票来偿还部分沉重的债务——随着增长放缓，偿债变得越来越难。</p>
-<p>随着2015年初上证综指的飙升，中共官方喉舌《人民日报》(People’s Daily)在头版社论中宣称，这只是多年牛市的开始。但仅仅两个月后，泡沫破裂，被大量新批准的保证金交易推高的股价开始直线下跌。</p>
-<p>北京方面对此的下意识反应是通过政府发起的大规模救市举措购买股票、阻止股价下跌。当救市无效时，中国政府开始禁止大股东出售股票。而股市继续下跌，在政府支持下进行购股的“国家队”最终也放弃了支撑股价的努力——但为了支撑股市，他们已经投入了逾2000亿美元。</p>
-<p>与金融监管高层关系密切一名市场人士称：“这对中国政府的公信力是巨大的打击，而失败的人民币贬值尝试更是雪上加霜。”</p>
-<p>多位知情人士透露，中国央行(PBoC) 8月11日宣布人民币贬值时，该行最高层官员中有多位正在度假，不得不被召回。知情人士称，央行曾提议将此举仅作为一项可能的政策选择，但并未预料到中央领导层会如此迅速地采纳该建议。乍看上去，这一决定的宣布似乎是一步高招。</p>
-<p>除了让人民币对美元“一次性”小幅贬值不到2%，中国央行还表示，将允许市场在汇率形成中发挥更大作用——国际货币基金组织(IMF)及许多其他机构多年来一直敦促中国政府实施这一改革。</p>
-<p>这意味着，北京方面既可以通过让人民币贬值帮助陷入困境的出口商，又可以表现出是在遵从IMF的要求。从理论上讲，这样做不会导致其他国家的竞争性贬值，而中国也不会被指责在奉行重商主义政策。如北京方面所愿，随后几天，投资者将人民币价值推低了近5%。</p>
-<p>但中国以外，全球市场及亚洲地区的货币都遭遇猛跌，因为在对中国经济面临的困难远超预想的担忧中，投资者担心会爆发货币战争。</p>
-<p>几天内，中国央行就已改弦易辙，宣布正在大力干预汇市——实际上将人民币与美元重新挂钩，以设法安抚惊慌失措的全球市场及贸易伙伴。“中国政府对国际上的剧烈反应十分惊讶，”中央领导层的一名高级顾问称，“但一旦政府感觉完全稳住了市场，那我们将会看到更多的贬值。”</p>
-<p>如果该预测无误的话，这将对全球企业以及在华或即将来华的投资者造成巨大影响。</p>
-<p>多年来，人民币不断升值就像中共与其民众之间的社会契约一样确凿且稳定，对涌向人民币资产的外国投资者而言，这意味着一种单向赌博和额外的吸引力。</p>
-<p>在华寻找亮点的投资者指向了消费和服务部门的强韧性，即便在投资、建筑、制造业以及重工业疲软之际，消费与服务也保持了增长。通过承诺经济增长模式将从投资与建设转向消费与服务，中国政府助推了这种乐观情绪。</p>
-<p>但在近期会见来访外国政要时的言论（未公开）中，连坦率直言的中国财长楼继伟都预计，由于经济要消化巨大的工业过剩产能和仍在上升的过度负债，未来四五年的经济增速将低得多。他还警告，随着失业率上升，经济将出现“阵痛”。</p>
-<p>“虽然就业与消费迄今仍保持活力，我们预计两者在2016年和2017年都将面临越来越多的阻力，”汪涛说，“未来，随着投资与GDP增速继续放缓，就业和工资增长可能进一步走弱。”</p>
-<p>随着增长放缓、债务累积，中国政府与民众（以及全球投资者）间不成文的契约看来将变得越来越难以维系。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/ft%E4%B8%AD%E6%96%87%E7%BD%91%EF%BD%9C%E5%90%89%E5%AF%86%E6%AC%A7%EF%BC%9A%E8%B4%A8%E7%96%91%E4%B8%AD%E5%85%B1%E7%AE%A1%E7%90%86%E5%A4%8D%E6%9D%82%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%83%BD%E5%8A%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BF%A1%E5%8A%9B/?category=18271" rel="tag">公信力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">金融监管</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BC%A0%E5%8D%9A%E6%A0%91%EF%BC%9A/" target="cdt-mirror">纵览中国｜张博树：一份了不起的公民宣言 ──读郭飞雄上诉状</a>
-</h2>
-<p><p>作为勇敢的人权行动者，郭飞雄早已为海内外所知晓。最近一篇《宪政民主政体革命为什么必须──郭飞雄上诉状》又向人们揭示了这位行动家思想者的一面。2015年11月27日，广州市天河区法院以“聚众扰乱公共场所秩序”和“寻衅滋事”两项罪名，判处郭飞雄有期徒刑六年。一周后，郭飞雄的上诉状问世，洋洋洒洒近3万言，除驳斥法院判决的荒诞无理外，竟有四分之三的篇幅是在正面阐述上诉者关于“宪政民主政体革命为什么必须”的政治主张。这样的“上诉状”大概闻所未闻，但它却是新极权统治下一位中国公民的政治宣言，是转型中国一份珍贵的思想记录。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E9%83%AD%E9%A3%9E%E9%9B%84.jpg" alt="郭飞雄" width="550" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/郭飞雄-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/郭飞雄.jpg 622w" sizes="(max-width: 550px) 100vw, 550px"><br>
-郭飞雄</p>
-<p>郭指出，中国反民主的黑暗势力把宪政民主制度文明视为“基本恶”，多年来，他们一惯宣扬的论调是，宪政民主是西方舶来品，不符合中国国情。然而，在政体问题上，什么才是真正的“中国国情”呢？作者回顾了漫长的中国前现代史，认为“在数千年历史长河中，中华民族曾本土原创出世界政治制度史上堪称早熟且高度发达的中央集权政体。这一中国版的中央集权政体在适应不断变化的环境需要中发展出了多重成形的建制”且成就斐然，但它却一直无法解决诸多致命的结构性困扰，如皇权专断和膨胀之势越来越强，政体均衡受损并越来越向危险的绝对君权倾斜，暴政逐渐成为常态；残暴的司法制度、皇帝对异己的血腥杀戮和泛滥成灾的特务政治锻造了一种滥用暴力和酷刑解决侵权、矛盾和冲突的社会关系处置机制，它不仅置民众生命、人身自由和财产安全于严重缺乏保障的境地，而且还毒化了人民的精神，养成了官民皆暴、疯狂互害的社会习俗。</p>
-<p>所有这些规定了近代中国的任务，那就是必须结束皇权专制制度，完成中国的现代转型。然而，对中国而言不幸的是，尽管辛亥革命曾经造就了亚洲第一个民主共和国，却又很快走入歧途，一些激进革命者追随“数百年前刚刚摆脱蒙古金账汗国部族统治并沿袭了草原杀伐之气的俄罗斯生活背景下诞生的乌托邦政治行动家”，“把高度集权甚至法国大革命中滥用断头台的恐怖政策视为正面积极的精神遗产”。“为了推动新型至善主义实验、永久消除他们理念意义下的富人对穷人的‘社会奴役’，他们不惜祭用了危险的政治奴役──专政手段。这种新型至善主义不是踩在既有的思想文明即自由、民主、人权、法治诸价值的巨人肩膀上进行新的试错，而是毅然选取了另一条与自由、民主、人权、法治诸价值进行敌对性竞争的思想线路。绝对权力的政治思想和主张没有自然正义、只有强权者意志的法律思想被全面激活，走向全面集权、全无制约的政治兽性得到高级哲学的精密论证和美化。于是，一种前所未有的巨无霸怪兽──极权主义在大地上诞生了。”</p>
-<p>这段既隐晦又明确的语言概括了20世纪中国何以陷入共产革命之极权主义陷阱的大致过程。不过，作者还是承认“1956年以前，中国版的极权乌托邦运动首先表现为一场具有一定积极意义的平等主义革命。正是靠与革命联合、向革命妥协、领导了这样一场革命，它才取得了全国政权。在革命中，部分贫穷的农民分到了土地，一种类似于多个朝代初年实行的平等的土地私有制得以建立；几千年来一直遭受多重压迫的妇女得到了解放，这堪称革命取得的最大成就；传统的权威主义文化中乡绅的特权、宗法性的家长权和族权等全都烟消云散；此外，摆脱了诸多歧视和束缚的平民阶层也分享到了新型社会中部分的政治、经济、文化方面的管理机会。但是，这一公开排拒自由、民主、人权、法治理念的平等革命，不仅内容贫乏偏狭、也缺乏程序规范和法律保障。在精神倾向上，它流于一种形式主义的绝对平等崇拜，它的道德光芒，也被暴力土改、建立新型‘种姓制’、摧毁宗教自由等血腥和不义所冲淡。1956年之后，极权乌托邦实验碾压了革命，阉割了革命，吞噬了革命。为向‘人间天堂’进军而推动的生产资料全面公有化运动，摧毁了平等的土地私有制，被抢走土地的农民顿时沦为依附于国家这个唯一‘大地主’的实质农奴，这是中国近二千二百年来未曾有过的个人经济财产权利大倒退，尽管它蒙着‘历史进步’和 ‘至善理想’的华丽外衣。它的后果是灾难性的。城市私营工商业也被收归国有，失去了本来就有限的经济自由的人们从此失去了自我独立人格支撑，对党国产生了生存依赖。进一步的全面组织、全面控制人们的肉体─精神过程中，党国几乎将民众大多数权利和自由吞噬殆尽。人与人之间的确趋于平等了，但那是一种在超级国家机器中作一个微小零件的平等，一种蜜蜂面对蜂后、蚂蚁面对蚁后那般在掌握了绝对权力和绝对真理发布权的‘半神’面前顶礼膜拜的平等。人们平等地没有主权、没有人权、没有自由，平等地丧失了作为人的高贵尊严，平等地陷入了贫困或赤贫，平等地泯灭了活生生的个性”</p>
-<p>这样的分析深刻、悲壮，充满历史张力，远远超过那些做“国家课题”的所谓“学者”，也强于反对派阵营中一些头脑简单、非此即彼的批判家。</p>
-<p>“1978年后，大病求治求养的中国社会开始改革开放，资源占有制由全面公有向多种成分并存结构撤退，直至私有制占据大半份额，中央计划经济被抛弃，自由市场经济初步确立──这实质宣告了违反人性的乌托邦实验的历史性破产。随着阶级斗争被停止、新型‘种姓制’被取消以及经济、法律、文化诸领域的部分‘还权于民’，全面集权、全面专政的极权政体蜕变为稍为缓和但依旧全面管控、全面高压的后极权政体。”作者同样肯定这个“后极权政体”并非乏善可陈，比如它在中国三十年经济增长中，曾经“表现了较高的行政效率”，但“这些实用层面的某种成就，无法掩盖后极权政体固有的、严峻的结构性缺陷”，其中首要的、也是最根本的问题是“权力私有制本质的不合法性──后极权政体不仅通过党国对权力排他性的垄断僭夺人民主权，剥夺人民各项政治权利，排挤人民于核心的政治生活之外，严酷打压人民中不断兴起的政治反对力量，而且还把‘权力私有’、‘军权私有’、‘党天下’定为永远不容挑战的底线。这就决定了无论怎样自我调整和修补，后极权政府都无法建立起自己的道德价值合法性和授权程序合法性，而永远站在亿万民众对政治主权的渴求、对文明理性的政治生活的希冀、对社会长治久安的需要相对立的大河彼岸”，而“大本大源不立，国之命脉不立，这实际构成为中华民族最为深重的危机和隐患”！</p>
-<p>这样，关于什么才是真正的“中国国情”，答案也就一目了然了：“后极权政体本身事实上已成为中国民众基本权利和自由的最大的侵犯者、公共利益和国家利益的最大破坏者，这就是当今中国在政体问题上的基本国情。这一基本国情本身就提供了变革的最强有力的理由”！</p>
-<p>在郭飞雄看来，“权利的内在逻辑──也就是人道和正义的根本原理决定了中国民众不会满足于残缺的权利状态，必定会走向更充分的权利，直至彻底自主命运的主权现实。”“通过一场政体革命，彻底抛弃现有政体的制度荒野和政治兽性，建立起真正由人民程序授权和控制、实现了现代政治文明‘基本善’的新政体，才是当今中国真实的民意和深沉的天意。” 那么，什么样的政体能够满足这样的“基本善”呢？宪政民主政体。“作为现代政治文明‘基本善’，多元均衡的宪政民主政体具有纯正、深刻、系统的内在品质，为长期遭受滥权、贪腐、暴政的政治兽性严重侵害而民众已具备进行实质性政治变革的愿望和实力的中国社会，提供了实践政体革命的制度规范和操作参考框架。就中国基本国情、民意、风俗和历史传统而言，这是一副对症下药的良方。”</p>
-<p>应该说，以上阐述体现了一位人权行动者基于权利逻辑、也基于他对中国问题的历史观察和他本人的人权实践而对宪政民主合法性的深切思考。郭飞雄斩钉截铁地肯定：宪政民主不但不是什么“恶”，而恰恰是当今中国所最缺乏者，最需要者！“建设多元均衡的宪政民主政体就是培植中华民族的国之命脉，就是构筑中华民族尊严、自由、幸福、辉煌的大本大源。亿万民众的主权意愿，他们对极权政治血腥、暴虐的历史和滥权、贪腐、世袭、高压的现实的厌弃，对政治理性和制度文明的渴求，他们普遍的实力崛起和向着理想不竭的生命冲击力，决定了宪政民主政体革命在中国势在必行。”</p>
-<p>作者自豪地宣称：“这一代中国人承担着为中华民族进行第二次民主实验并将多元均衡的宪政民主政体化为中华大地上的制度现实的历史使命。它需要一代觉醒的公民展示强劲的道德勇气，向着极权主义不断发起和平的反对和行动的启蒙，以加速极权阵营的外融内变；它需要一代觉醒的公民表现出应有的政治智慧，召唤、团结绝大多数同胞，改变博弈双方实力对比，以人民的主体力量促成宪政民主政体革命实现；它还需要一代觉醒的公民焕发自由的想象力，在系统集成古今中外政治典章和操作智慧基础上，为宪政民主政体的中国版作出历史性的原创。” “宪政民主政体革命绝非由少数精英主导的幽静而冰冷的制度框架搭建工程，而是主体公民亲自参与操作的以伸张主权、实现权利为导向的制度安排、实验、调适、凝固、运行工作。人民既是制度舞台的搭建者，又是舞台上的演出者。人民是制度的主体，人民的权利是制度的灵魂。在政体革命进程中，与客体性的制度革命同时发生的，是主体的权利革命。”</p>
-<p>郭飞雄坦言，以上所述，“就是我作为一名中国宪政民主事业推进者长期从事政治反对活动的深沉动机，也是我参加声援南方周末的街头政治抗议和推动宣传《公民权利和政治权利国际公约》的‘八城快闪’的深沉动机。”</p>
-<p>这份上诉状，令人感动，也催人深思。在中国新极权主义黑云压城、红色恐怖正在吞噬自由心灵的几乎每一个角落的背景下，一个行动者的思想性呐喊，给这个社会带来冲击。它不但彰显了生命的尊严，也再一次证明，中国不乏有思想、敢行动的优秀公民，他们才是这个国家的真正希望。</p>
-<p>张博树（2015年12月26日，于新泽西）</p>
-<hr><p><small>© 网聚正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E5%BC%A0%E5%8D%9A%E6%A0%91%EF%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%9A%E6%A0%91/?category=18271" rel="tag">张博树</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -658,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -668,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8D%9A
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

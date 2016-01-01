@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86%E7%8E%B0%E8%B1%A1%E5%B9%B6%E4%B8%8D%E7%AA%81%E5%87%BA%EF%BC%9F/" target="cdt-mirror">美国之音 | 中国社会的民族歧视现象并不突出？</a>
+</h2>
+<p><p>作者：莫雨</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s.jpg" alt="E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>西藏拉萨布达拉宫（资料图）</p>
+<p>华盛顿—中国最近发布的一份社会蓝皮书说，当前中国社会中存在的包括民族/种族在内的六种歧视现象并不突出。但是一些学者指出，中国在政策制度和执法方面对藏族等少数民族的区别对待、甚至是歧视在近几年非常普遍，连体制内的藏族官员和知识分子都有怨言，而这些赤裸裸的歧视会令西藏问题变得更加棘手和复杂。</p>
+<p>中国社会科学院上星期发布《社会蓝皮书：2016年中国社会形势分析与预测》。这本蓝皮书说，一个高质量的社会应当是一个有包容性的社会，也就是不应有各种制度性和非制度性的歧视，不同的社会群体不应受到区别对待。报告说，中国当前的社会歧视程度不高。</p>
+<p><strong>藏人遭受制度性歧视</strong></p>
+<p>但是，如果你是藏族，你很可能会被“特别关照”。</p>
+<p>现旅居美国的西藏问题专家阿沛晋美是已故中共藏族高官阿沛·阿旺晋美的三子，他早年也曾是中共体制内的人。他在接受美国之音采访时说：“近几年，在中国国内有这样的情况，就是，西藏人到中国内地去出差或者去旅行，上飞机要通过特别的检查口，到内地去住店、住饭馆，人家一看是西藏人，不让住，有很多这样的情况。这是一种非常明目张胆的民族歧视的行为。……如果中国认为他们是中华人民共和国公民的话，那应该一视同仁，与中国其他公民享受一样的待遇。但是，比方说，西藏人通通都不给发护照。西藏人过去有护照的，（现在）全部都收回去，现在西藏人想申请护照的话，是难上加难，几乎不可能。”</p>
+<p>另一位也在体制内学习和工作过、现旅居美国的藏族人士对美国之音表示，在过去，感受到这种歧视的往往是普通的藏族老百姓，但是现在，一些体制内的藏族干部也成了歧视的受害者。这位不愿透露姓名的藏族人士说，他听说过藏族官员被要求检查身份、而他的汉族同事甚至下级却可直接通行的事情。</p>
+<p>早些时候，曾任西藏自治区主席的人大副委员长向巴平措在一次人大常委会会议上说，少数民族群众在一些机场、酒店等服务性行业受歧视的问题已经产生不必要的社会冲击，并引发了少数民族群众的强烈反应。他说，政府需要更加努力来处理少数民族歧视问题。</p>
+<p><strong>“维稳”令问题复杂化</strong></p>
+<p>但是，一些分析人士认为，在中国目前强调“维稳”、“反分裂”和“反恐”的政治环境下，要想有效消除歧视藏族等少数民族的情况，似乎很难。</p>
+<p>上述那位不具名的藏族人士说，一些地方怕出事，就索性不让藏族人住酒店，或对藏族人进行区别对待。如果藏族人遭遇到了歧视，他们没有途径可以申诉，如果举动激烈一点的，又容易被扣上“达赖集团”的帽子。</p>
+<p>著名藏族学者、中国社科院研究生院藏学博士生导师降边嘉措在一篇文章中指出，即便是中共一些主管西藏政策的官员，如今也动不动就把有关西藏的很多问题简单地与“分裂主义”联系在一起，而不是检讨自己工作上的问题。</p>
+<p>他在抨击长期担任中共统战和宗教事务高官的朱维群和叶小文对“假活佛”事件的评论时说，朱维群在接受央视采访时只字不提汉族人吴达镕和张铁林他们是“假活佛”、“假法王”的事，却把矛头“直指藏族地区，指向藏族的喇嘛活佛，指向藏族同胞”。</p>
+<p>降边嘉措写道： “在西藏和其他藏族地区，一出现什么事，叶小文、朱维群就把它们与‘分裂主义’联系起来，然后‘义正词严’地加以批判，俨然成为‘反分裂’的英雄。对他们的这种做法，一些干部群众早就感到不满，批评说：‘反对分裂是个筐，什么问题都往里装。’”</p>
+<p>记者试图采访降边嘉措，但是他表示现在不方便接受采访。</p>
+<p><strong>歧视性做法产生副作用</strong></p>
+<p>2015年8月，中国国家主席习近平在中共中央第六次西藏工作座谈会上说，西藏工作的重要原则是“依法治藏、富民兴藏、长期建藏、凝聚人心、夯实基础”。</p>
+<p>但是阿沛·晋美认为，对藏族人的区别对待或者是歧视反而使中国的西藏工作适得其反。他说：“中国在西藏投入了很多，建设也花了很大力气，一方面想通过发展经济、提高人民生活水平这样的方法，让西藏人民能够跟中国人民同心同德，但是另一方面，这许许多多的歧视政策，反而造成了西藏人的离心离德。”</p>
+<p>一些观察人士指出，这些歧视事实上是在不断提醒藏族人（甚至是从小学习汉语的藏族人）他们在民族身份和文化上的不同；与此同时，而对于大多数中国的汉族人来说，他们了解西藏的渠道大多是中国官方的宣传报道，他们听到的不是西藏今非昔比的繁荣、藏人生活条件的改善、藏人受到的特殊照顾，就是“分裂势力”策划的暴力或自焚事件。观察人士说，这种两极性的话语反而会让汉族人产生“藏族人不知感恩”的观感，导致民族间的不信任。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86%E7%8E%B0%E8%B1%A1%E5%B9%B6%E4%B8%8D%E7%AA%81%E5%87%BA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">民族矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%97%8F/?category=18271" rel="tag">藏族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">民族关系</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E7%AC%AC%E4%BA%94%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA/" target="cdt-mirror">BBC中文网 | 香港铜锣湾书店第五名工作人员失踪</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151231200232_hk_512x288_bbcchinese_nocredit.jpg" alt="151231200232_hk_512x288_bbcchinese_nocredit" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/151231200232_hk_512x288_bbcchinese_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/151231200232_hk_512x288_bbcchinese_nocredit.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><span>铜锣湾书店因出售政治书籍而深受中国大陆游客欢迎</span></p>
+<p>继2015年10月香港铜锣湾书店4名工作人员失踪之后，星期三（12月31日）又有一名雇员不见踪影。</p>
+<p>香港铜锣湾是繁忙的商业区，而位于铜锣湾的铜锣湾书店是一家以出售中国政治禁书而知名的书店。</p>
+<p>铜锣湾书店规模不大，但深受中国大陆游客欢迎，因为他们不能在大陆买到这些书籍。</p>
+<p>铜锣湾书店的4名老板及职员今年10月突然失踪，引发关注。</p>
+<p>他们的同事李先生当时对BBC记者说，因为书店的关系，4人可能已经被中国官员拘留。</p>
+<p>星期三（12月31日）晚上，李先生没有回家吃饭，他的妻子无法联系上他。</p>
+<p>他的妻子对BBC记者说，她感到非常害怕。</p>
+<p><strong>不明身份的男子</strong></p>
+<p>书店的一位工作人员说，李先生已经被身份不明的男子带走。</p>
+<p>在今年10月铜锣湾书店的4名工作人员失踪之后，李先生曾向BBC记者介绍有关情况，但是他当时由于害怕而拒绝透露自己的姓名。</p>
+<p>根据他的介绍，4名失踪者中包括桂民海，是一位已入籍瑞典的华人，也是巨流传媒有限公司的股东，而巨流传媒有限公司去年收购铜锣湾书店。</p>
+<p>另外3名失踪者是巨流传媒总经理吕波、铜锣湾书店业务经理张志平和铜锣湾书店经理林荣基。</p>
+<p>李先生在失踪前对BBC说，他认为桂民海是头号目标，中国官员想阻止他出版一本新书。</p>
+<p>李先生当时说，他并不清楚桂民海计划撰写及出版的书籍包含了什么内容。</p>
+<p>有观察家认为，如果这些人的确因书籍内容受到拘押，事件非常令人忧虑，因为这将对香港言论自由有严重影响。</p>
+<p>（撰文：跃生 责编：立行）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E7%AC%AC%E4%BA%94%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">政治书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-126/" target="cdt-mirror">【河蟹档案】刘虎：请大家共同见证我的罪</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%92%A2%E9%93%81%E4%BE%A0">钢铁侠</a>：原来那条微博是这样发出去的啊 <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">【网络民议】请按那个橙色键</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333.gif" alt="333" width="354" height="291"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-38.jpg" alt="习近平" width="379" height="675"><br><a href="https://freeweibo.com/weibo/3924934121916699" target="/weibo/392">2015年12月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A8%E9%94%A6%E9%BA%9F">杨锦麟</a>：作者把這幅漫畫的主題寫成了三個字：倒車鍵。寓意深長哦。希望歷史不會開倒車。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/423275/">【赵王回车】军报详解习近平键盘发微博：自主研发平台</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/mmexport1451513244035.jpg" alt="邝飚_兰花指" width="312" height="441"><br><a href="https://freeweibo.com/weibo/3925916885446313" target="/weibo/392">2015年12月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%A5%BF%E5%AD%90%E5%B0%8F%E5%B0%8F%E5%B0%8F%E5%B0%8F%E8%A5%BF%E5%AD%90">西子小小小小西子</a>：//*<a href="https://freeweibo.com/weibo/%40%E5%86%85%E9%BB%84%E8%92%8B%E7%A7%80%E7%AB%A0%E5%8D%9A%E5%AE%A2_fYR">内黄蒋秀章博客_fYR</a>：[哈哈]这技术这版本<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-37.jpg" alt="333" width="500" height="248" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-37-300x149.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-37.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"><br><a href="https://freeweibo.com/weibo/3926221446344514" target="/weibo/392">2015年12月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%A7%A8%E5%A6%88%E5%A7%AC">姨妈姬</a>：周刊文春….说习大大像屁桃，日本药丸[拜拜][拜拜][拜拜] <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E5%91%A8%E5%88%8A%E6%96%87%E6%98%A5">维基百科<em>｜</em>周刊文春</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-35.jpg" alt="习近平" width="442" height="442" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-35-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35.jpg 750w" sizes="(max-width: 442px) 100vw, 442px"><br><a href="https://freeweibo.com/weibo/3926064785270380" target="/weibo/392">2015年12月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%89%E4%B8%AA%E7%81%AB%E6%9E%AA%E6%89%8B201509">三个火枪手201509</a>：【今天是刘博士晓波先生六十岁生日】遥祝身陷囫囵已七年的刘先生生日快乐，致敬刘霞女士（刘霞已被非法软禁五年有余）。刘先生是2010年诺贝尔和平奖得主，零8宪章发起人，独立中文笔会名誉主席。<em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2015/12/151228_liu_xiaobo_birthday">BBC<em>｜中国异议人士刘晓波狱中度过60岁生日</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-31.jpg" alt="333" width="346" height="482"><br><a href="https://freeweibo.com/weibo/3924993643586934" target="/weibo/392">2015年12月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E5%85%89%E4%BC%9F">何光伟</a>：还有5年耍流氓期？<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-36.jpg" alt="法治" width="484" height="341" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-36-300x211.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-36-768x540.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/333-36.jpg 800w" sizes="(max-width: 484px) 100vw, 484px"><br><a href="https://freeweibo.com/weibo/3925489435482694" target="/weibo/392">2015年12月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E6%B3%BD%E5%BE%8B%E5%B8%88">周泽律师</a>：经东城区人民检察院审查并两次退回补充侦查的刘虎案，在东城区检察院以“刘虎涉嫌犯罪的事实和证据不符合提起公诉的条件”，依据《刑事诉讼法》第一百七十一条第四款的规定作出不起诉决定后，在刘请求国家赔偿，检察机关决定改变不起诉决定。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/meiti/ql2-12312015094126.html">自由亚洲<em>｜</em>北京检察院改变决定 刘虎申请国家赔偿无望</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-33.jpg" alt="333" width="440" height="784"><br><a href="https://freeweibo.com/weibo/3926147328493045" target="/weibo/392">2015年12月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%AF%8C%E6%95%8F%E8%8D%A3%E5%BE%8B%E5%B8%88">富敏荣律师</a>：@刘虎：【求罪得罪】昨天我发布了去北京市检察院第三分院申请国家赔偿一事的前后经过。我犯有申请国家赔偿之罪，请大家见证。刚才我就接到了原认定我“不符合公诉条件不予起诉”的东城区检察院的房贺检察官的来电。他口头宣布经市检提起纠错，我如今变成了“罪行轻微不起诉”，相关决定会书面送达。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xl2-09112015113424.html">自由亚洲<em>｜</em>刘虎案“昭雪”翌日宋林被立案 大陆媒体网站报道评论均被删</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-34.jpg" alt="刘虎" width="462" height="4033"><br><a href="https://freeweibo.com/weibo/3926132573311741" target="/weibo/392">2015年12月31日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-126/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E/?category=18271" rel="tag">刘虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%88%8A%E6%96%87%E6%98%A5/?category=18271" rel="tag">周刊文春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%A1%83/?category=18271" rel="tag">屁桃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E%E6%A1%88/?category=18271" rel="tag">刘虎案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD-%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%BD%91%E6%B0%91%E8%A2%AB%E5%88%A4%E5%88%9118%E4%B8%AA%E6%9C%88/" target="cdt-mirror">美国之音｜支持香港占中 中国一网民被判刑18个月</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg" rel="attachment wp-att-423393"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg" alt="在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)</p></div>
@@ -563,91 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/" target="cdt-mirror">Blog图党｜李小乖：御用键盘</a>
-</h2>
-<p><p>中国共产党中央委员会总书记，中共中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席（没错偶就是为了凑字数…)习近平近日亲自发微博，却被无聊网民嘲笑一指禅甚至怀疑他可能不会打字，这事小乖觉得实在遗憾，这完全是有关部门没安排好哎。领导亲自作秀这种事要么就来真的，像人家影帝就真哭，实在不行就干脆仪式化，连一些晚会的启动仪式都会做一个像征性的按钮让领导们亲自按一下，虽然看起来有点傻，但没人觉得有问题，因为大家都知道是个仪式嘛。 现在倒好，弄得不伦不类，真不真假不假的，我大天朝大内没人呀哼哼。</p>
-<p>好吧，字数凑得差不多了，小乖最后友情提供个方案：做一个主席御用键盘，产品设计如图所示。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98.jpg" rel="attachment wp-att-423193"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98.jpg" alt="李小乖_御用键盘" width="560" height="420" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/御用键盘-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/御用键盘.jpg 640w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
-<p>整个产品只有一个按纽，简洁到极致，是继抽水马桶后人类第二大伟大的产品。</p>
-<p>功能就是一键发微博，傻瓜都会用，这人性化操作连苹果手提电话公司的乔总经理看到都要服。</p>
-<p>这键盘平时就让丽媛同志装包里拎着，去到哪里主席都可以随时来一发，嗯，就是来一个“发”微博的动作，凌厉，霸气，比随身带一核按纽还帅哦。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%B0%8F%E4%B9%962.png" rel="attachment wp-att-423196"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%9D%8E%E5%B0%8F%E4%B9%962.png" alt="李小乖2" width="146" height="147"></a></p>
-<p>李小乖 網絡漫畫工作者,<br>
-漫畫博客【blog圖黨】™ 的永遠唯一作者，網易新聞『老衲局長小李』系列漫畫的作者。<br>
-微信ID：Blogtdorg<br><a href="http://chinadigitaltimes.net/chinese/files/2015/06/%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" rel="attachment wp-att-394840"><img src="http://chinadigitaltimes.net/chinese/files/2015/06/%E6%9D%8E%E5%B0%8F%E4%B9%96.jpg" alt="李小乖" width="275" height="275" srcset="http://chinadigitaltimes.net/chinese/files/2015/06/李小乖-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/06/李小乖-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/06/李小乖-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/06/李小乖-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/06/李小乖.jpg 430w" sizes="(max-width: 275px) 100vw, 275px"></a><br>
-长按二维码关注【blog图党】™</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%9D%8E%E5%B0%8F%E4%B9%96%EF%BC%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%B8%A6%E7%BB%99%E6%88%91%E4%BB%AC%E7%9A%84%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8B%87/" target="cdt-mirror">纽约时报 | 艾未未：浦志强案带给我们的希望与勇气</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge.jpg" alt="浦志强案" width="600" height="360" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge-300x180.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge-80x48.jpg 80w, http://chinadigitaltimes.net/chinese/files/2015/12/22weiweiart-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>柏林——2011年4月，一群中国便衣警察将我在北京机场绑架，然后把我带到一个秘密地点<a href="http://www.nytimes.com/2011/04/04/world/asia/04china.html" target="_blank" rel="nofollow">拘留</a>了81天。虽然在关押期间，大多数审问都集中在我的政治活动上，但被释放之后，政府却捏造说我的公司偷税漏税，要求我交清240万美元的税款和罚金。我问他们为什么这样指控我，一名官员说，“不罚你，你也不会消停。”</p>
-<p>为了澄清事实，争取公正，我决定上诉。由于案子的敏感性很高，我联系了浦志强，他以敢为那些被中国专制政权打压的政治活动人士辩护而著名。出于仗义，浦志强接下我的上诉案。他办案条理清晰，逻辑明了，记忆惊人。</p>
-<p>多年来，志强为很多记者、上访者和人权活动者进行过辩护。他维护法制的行动，连同他的勇气和出类拔萃的能力，令他成为一个政治迫害目标。他的影响力日增，中国政府视之为威胁。</p>
-<p>浦志强在<a href="http://cn.nytimes.com/china/20151215/c15lawyer/" target="_blank" rel="nofollow">被关押</a>了19个月之后，于12月14日在北京市第二中级人民法院以“煽动民族仇恨”、“寻衅滋事”的罪名受审。检方的指控基于浦志强在社交网络上的七条微博。上周二，法庭宣布这些罪名成立，判处他有期徒刑三年，缓期三年执行。这一判决意味着，他将永远失去律师的身份——他多年来利用法律替无声者发出声音的平台也被摧毁。</p>
-<p>这个判决好于预期，可能是因为国际社会的压力产生了影响，但获释后他也不可能像正常人那样的生活。警方会监视他的一举一动，如果他在未来三年内继续开展政治活动，就有可能随时被捕入狱。</p>
-<p>警方在2011年6月结束对我的<a href="http://www.nytimes.com/2011/06/23/world/asia/23artist.html" target="_blank" rel="nofollow">羁押</a>之后，扣押了我的护照，禁止我在互联网上发布任何文章。还禁止我接受媒体采访。我工作室外的建筑物和电线杆上安装了监控摄像机，楼外还有警察驻扎。我要出门必须获得许可，即使出了门，也有便衣紧跟着我。浦志强也会遭到类似的待遇。</p>
-<p>我第一次见到浦志强是在2009年的夏天，当时他是四川作家谭作人的辩护律师。我不认识谭先生，但我知道他开展过一项与我类似的公民调查。我们都试图揭开一个真相：<a href="http://www.nytimes.com/2008/05/13/world/asia/13china.html" target="_blank" rel="nofollow">2008年5月发生的汶川地震</a>中，有5000多中小学生死于倒塌的校舍中。这在很大程度上是由于校舍的施工质量有问题。谭先生把他的调查结果张贴在网上，结果被警方逮捕。</p>
-<p>作为谭的律师，浦志强来到我的工作室交流意见。他是一个身材高大的北方人，嗓音明亮沉稳。他说如果我出庭作证，我的调查结果对谭的辩护很有利。他的执着令我感动。我毫不犹豫地同意了。</p>
-<p>谭先生受审当日的凌晨3点，警方突击<a title="Link: http://www.nytimes.com/2009/08/13/world/asia/13china.html" href="http://www.nytimes.com/2009/08/13/world/asia/13china.html" target="_blank" rel="nofollow">搜查了我住的酒店</a>，并且野蛮地强迫我和我的同事们留在那里，直到审判结束。我头部受伤，危及生命。尽管志强进行了强有力的辩护，谭先生还是被判处了<a title="Link: http://www.nytimes.com/2010/02/10/world/asia/10quake.html" href="http://www.nytimes.com/2010/02/10/world/asia/10quake.html" target="_blank" rel="nofollow">五年有期徒刑</a>。</p>
-<p>中国严重缺少能勇敢到为人权的普世价值而斗争的独立律师。但浦志强不一样。</p>
-<p>1989年，身在北京的浦志强是政法大学的学生。他在天安门广场上绝食抗议。他对我说，政府命令坦克开进市里的那天晚上，他和一个学医的女生是最后撤出广场的人。回宿舍的路上，他们在偏僻的巷子里迷路了。这证明是两人的福气：他们避开了在主路上出没的军人对抗议者的随意扫射。后来，那个女生成了浦志强的妻子。</p>
-<p>浦志强从未停止呼吁政府平反“六四”。去年5月，他在参加了一场纪念六四25周年的私人聚会后，被警方逮捕。我和他的朋友都没想到他会被逮捕并被关押这么久却不开审。在此期间，调查人员仔细盘问他的同事，并彻底审查了他律师事务所的财务记录，希望用经济罪名指控他。当这类企图失败后，他们只能诉诸于他的在微博上发的帖子。</p>
-<p>浦志强是独一无二的，但他的案子却不是。自他被捕以后，很多人权律师都消失了。公众和他们的家人都不知道他们被关押在何处，处境如何。他们没有机会被探视，他们的子女被限制出境。我们可以想象到，在不久的将来，这些律师也会像浦志强一样接受审判，并得到有罪判决。</p>
-<p>在全世界都在滔滔不绝地谈论中国的经济实力时，谁都不应该忘记，它的崛起是以自由和人权为代价的。悲哀的是，中国国内外的很多人接受了司法体制屈从于党的权力这个事实。</p>
-<p>尽管如此，我拒绝麻木和习惯化。我不认为在中国就只能逆来顺受。</p>
-<p>浦志强受审期间，法院外面聚集了一大群勇敢面对警方骚扰的中国支持者和西方人。他们的对浦志强的支持给了我希望。面对来自强大的国家机器的威胁，一个人只需要在一生中大声发出一次声音，我们会战胜恐惧，强迫这个政权做出改变。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%89%BE%E6%9C%AA%E6%9C%AA%EF%BC%9A%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E5%B8%A6%E7%BB%99%E6%88%91%E4%BB%AC%E7%9A%84%E5%B8%8C%E6%9C%9B%E4%B8%8E%E5%8B%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%96%B0%E9%97%BB%E6%B5%85%E8%96%84%E5%8C%96-%E4%B8%AD%E5%9B%BD%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E/" target="cdt-mirror">美国之音 | 新闻浅薄化 中国调查记者何去何从</a>
-</h2>
-<p><p>作者：慕小易</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-28-at-%E4%B8%8B%E5%8D%8811.50.28.png" alt="Screen Shot 2015-12-28 at 下午11.50.28" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-28-at-下午11.50.28-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-28-at-下午11.50.28.png 636w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<div><span>有人在北京街头看报纸（2003年）</span></div>
-<div></div>
-<div><span>华盛顿—</span>12月28日，钱江晚报刊发了一篇题为《深度报道不能死》的文章，配图是《财经》记者白兆东的微博，他说：“别了，华商报深度部”。华商报是继中国青年报、北京青年报和京华时报之后，今年中国第四家撤销或合并深度报道部的报社。裁撤深度部的原因，各家有各家的考量，但不少媒体人认为中心思想只有一个——环境变了。原华商报资深记者王歪（又名王晓亮）在一篇讲述他辞职原因的文章中叹道：“当你的情人已更名为玛丽，你怎能再送她一曲菩萨蛮？”</div>
-<p>深度报道部一向是媒体行使舆论监督职责的利器，但由于单篇报道的耗时长、产量低、政治风险大、版权得不到保障等原因，深度部往往被认为是整个报社最烧钱的部门。</p>
-<p>新京报社社长助理、新京报传媒研究院执行院长朱学东甚至将深度部称为“奢侈品”。他在博客中写道：“在媒体机构经济宽裕的时候，养一个这样的部门，多少还能给机构带来些职业的荣耀，但是，遭遇经济压力之后……把余粮供给给政治正确的时政社会报道，供给给多快好省不会惹麻烦的经济报道，在一些人眼中自然算是一种优选。”在互联网技术不断发展的新媒体时代，时政新闻拼不过党媒、突发新闻比不过微博等社交媒体的传统报社，如何维持经济效益成为了决策者考虑的首要问题。然而，朱学东说：“裁撤深度报道，表面上是砍掉了看似多余的奢侈品，实际上是砍掉了在新媒体时代市场化媒体尚存的竞争优势产品，砍掉的是自己的竞争力。”</p>
-<p><strong>那是一群有新闻理想的人</strong></p>
-<p>不仅是报社的深度部被裁撤，记者群体近几年的遭遇也令人堪忧。</p>
-<p>去年，自称有新闻理想的《新快报》财经记者陈永洲因涉嫌损害企业商誉被判一年零八个月的刑期；今年8月，《财经》记者王晓璐因在股灾期间发表报道《证金公司研究维稳资金退出方案》而被刑拘；今年10月，《南方都市报》深度报道记者刘伟因多次报道“气功大师”王林案被以“涉嫌非法获取国家秘密罪”刑拘。</p>
-<p>前《北京青年报》记者、《冰点》周刊创刊编辑李大同对美国之音说，调查性记者在中国是凤毛麟角，一些报社的深度部被裁撤有这个原因。他说：“通常一个深度报道部需要有一些重要的记者在那儿担这个纲。如果这个记者离职了，别的记者接不上来，那你这个部就存在不了。”</p>
-<p>始于2013年的深度报道记者离职潮，至今丝毫看不到停止的迹象。《京华时报》深度报道部主任康少见转投腾讯；新京报深度报道部副主编张寒转投今日头条；《南方都市报》首席记者王星转投搜狐；《财经》杂志知名记者欧阳洪亮转投新媒体机构无界传媒……</p>
-<p>原《京华时报》深度报道部主任康少见在谈到辞职原因时，对微信公众号《刺猬公社》说：“传统媒体深度新闻的操作遇到了很大的政策性限制……无论是记者还是上层的副总、主编辑，压力都特别大。很多我们感兴趣的选题都没办法操作，也没办法开发和运营。”</p>
-<p>已经离开华商报，目前在办编导培训班的王歪在他的一篇随笔中写道，2011年温州动车事故时铁道部回避媒体提问、急于为当地政府唱赞歌的情景令许多媒体人寒了心。他说：“京华时报摄影记者曹宗文顿时情绪失控，嚎啕大哭，被人架出温州殡仪馆”。后来，曹宗文从京华时报辞职转投腾讯。</p>
-<p>李大同在采访中说，调查性记者首先必须是理想主义者。“为了新闻理想敢于冒险，沉得住气，吃大苦、耐大劳，而且对公众有高度的责任感，这些人当然是少数。现在中国大部分的记者只不过把它当作一个饭碗对待。新闻理想主义者本来已经很少了，调查性记者是这帮人当中的少数人。”</p>
-<p>原香港《开放》杂志总编辑金钟也对美国之音表示，做深度报道需要功夫，一般的记者做不到这一点。</p>
-<p>网上流传中国青年报社原特别报道部副主任、现全媒体协调中心副主任刘万永在他的朋友圈中写道：“不断有人问我，为什么很多做调查的记者辞职？我的看法是：这与待遇无关，因为他们一开始就知道待遇不高，做调查更多的是因为自己的兴趣。甚至和管制关系也不太，谁还没被毙过稿子，多一篇不会难过死，少一篇也不会高兴死。一个重要的原因是，内部环境的毁灭……”</p>
-<p>刘万永在接受《刺猬公社》的采访时说，他谈到的“内部环境的毁灭”指的是一些媒体内部出于安全等因素的考虑，正在逐步放弃风险较大的深度报道。</p>
-<p>李大同也谈到，做深度报道，报社就必须要做好“吃官司”的准备。他说：“有不少报道，包括《冰点》的报道也都上法庭了，有胜诉的也有败诉的，反正在当地审理全都败诉，这是肯定的。司法完全都地方化了，肯定败诉，一赔就赔好多万。”</p>
-<p><strong>深度部撤了会怎样？</strong></p>
-<p>金钟说：“那很明显，按照我们的经验来说，那就说新闻就会做得非常的肤浅。”</p>
-<p>中国新闻出版报今年6月刊文称深度报道部门被撤是“一次被放大的误读”。文章举例《京华时报》时引用康少见的话说，该报的深度部实际是与机动报道部合并，统一由一个部门协调，原有人员待遇不变、业务不变。但康少见对《刺猬公社》说：“说是要把深度报道部并入突发新闻部，事实上就是撤销了。”</p>
-<p>据《刺猬公社》统计，《北京青年报》深度报道版通常每月十个版左右的规模，但是深度部被撤销后，每月只有一版。而《京华时报》此前每周至少有一个版面属于深度报道，而撤销后单月仅发过两篇算不上深度报道的“大稿”。</p>
-<p>朱学东在他的博客中说：“尽管今后这些媒体可能还会有深度报道，机构的裁撤，也会让职业和专业操作这些报道的动力欲望一起消减掉，逐渐悄无声息。”</p>
-<p>金钟认为，媒体对深度报道的弱化造成的一个结果就是进一步的“愚民政策”。他说：“你对一个新闻报道，你限制它的深度分析、深度挖掘的话，这当然就是限制新闻自由的一部分。那这个后果当然就使得一般的人、一般的受众对很多事情就一知半解，只知其一不知其二。”</p>
-<p>李大同也谈到：“往深里（做），你必然要揭露这些官场的错综复杂的这种关系，要揭露腐败。稍微一深，就要涉及到权力的胡作非为，这是没跑儿的。它（指中国政府）当然认为这对它的统治十分不利，它就不让你做，你也做不下去。”</p>
-<p>对于调查性记者，这是一个最好的时代，也是一个最坏的时代。这是一个媒体技术不断升级和多样化的时代，也是满屏充斥着鸡汤文、标题党、千篇一律的歌功颂德报道的时代。用《钱江晚报》的话作为结尾：深度报道不应该死，否则任何的繁荣都是表面。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%96%B0%E9%97%BB%E6%B5%85%E8%96%84%E5%8C%96-%E4%B8%AD%E5%9B%BD%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%A4%A7%E5%90%8C/?category=18271" rel="tag">李大同</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%BA%A6%E8%B0%83%E6%9F%A5/?category=18271" rel="tag">深度调查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85/?category=18271" rel="tag">调查记者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -659,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -669,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

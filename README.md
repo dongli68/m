@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,91 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E5%8F%B7%E6%B2%89%E8%88%B9%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%EF%BC%8C%E7%B3%BB%E7%81%BE%E9%9A%BE%E4%BA%8B%E4%BB%B6%E8%88%B9%E4%BD%93%E5%90%88/" target="cdt-mirror">端传媒｜“东方之星”号沉船报告公布，系灾难事件船体合规范</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg" rel="attachment wp-att-423553"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg" alt="2015年6月5日，救援人员翻沉的“东方之星”游轮打捞出水。摄： ChinaFotoPress/ChinaFotoPress via Getty Images" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><p>2015年6月5日，救援人员翻沉的“东方之星”游轮打捞出水。摄： ChinaFotoPress/ChinaFotoPress via Getty Images</p></div>
+<p>6月1日21时30分，隶属于重庆东方轮船公司的“东方之星”号客轮，在长江中游湖北监利水域发生沉船事故，共造成442人死亡，仅12人成功获救。</p>
+<p>时隔半年后，中国国务院于12月30日批覆了“东方之星”号客轮翻沉事件调查报告。国务院调查组调查认定，“东方之星”号客轮翻沉是由突发罕见的强对流天气——飑线伴有下击暴流——带来的强风暴雨袭击导致，属于重大灾难性事件。</p>
+<p>调查组认为，“‘东方之星’号客轮抗风压倾覆能力虽符合规范要求，但不足以抵抗此次遭遇的极端恶劣天气”。调查组同时指出，“船长及当班大副对极端 恶劣天气及其风险认知不足，在紧急状态下应对不力”，建议“对船长张顺文给予吊销船长适任证书、解除劳动合同处分，由司法机关对其是否涉嫌犯罪进一步调 查”；而由于当班大副刘先禄在事故中不幸身亡，“建议免于处理”。</p>
+<p>调查组称有43人对日常管理和监督检查中存在的问题负有责任，建议给予党纪、政纪处分，包括企业7人，行业管理部门、地方党委政府及有关部门36人，其中，副省级干部1人，厅局级干部8人，县处级干部14人。</p>
+<blockquote><p><span><strong>那时事故调查报告没出，我们觉得（钱）拿的不明不白。而且名义是补偿款，不是赔偿款。作为家人来讲，我们不是为了要钱，而是为了知道真相。</strong></span></p>
+<p><span>遇难者家属李建国（化名）</span></p>
+</blockquote>
+<p>“东方之星”沉船事故令数百个家庭承受丧失亲人的痛苦。8月底，各地政府实行“同船同命同价”，针对每位遇难者发放82.5万元的“政府补偿”，旅游责任保险及船舶保险另计。</p>
+<p>据搜狐网报导，有遇难者家属发现旅游协议中写明有20元被用来支付保险费用，但旅行社为游客在太平洋保险公司够买的保险却只用了5.7元，决定对旅行社和保险公司提起诉讼。</p>
+<p>也有遇难者家属表示，一些地方的民政局仍有很多无人认领的遗物。他称曾误领一台数码相机，里面有一位笑容可掬的老先生的照片。他将相机还到民政局，半个月后发现仍未回到失主手上，自己感到失望之余，用2个小时就在网上找到了那位老先生的家属。</p>
+<p>对于官方此前迟迟未公布调查结果，多次去社区询问也只能得到“等官方消息”的回复，不少遇难者家属已将亲人的下葬时间推迟到2016年的清明节。他们认为，事故原因不明，亲人的亡灵无法安息。</p>
+<table><tbody><tr><th><span>12～13 级</span></th>
+</tr><tr><td>调查组报告显示，“东方之星”号客轮受下击暴流袭击，风雨强度陡增，瞬时极大风力达12至13级，1小时降雨量达94.4毫米。而经试验和计算，该船遭遇 21.5米/秒（9级）以上横风时，或在32米/秒瞬时风（11级以上），风舷角大于 21.1°、小于156.6°时就会倾覆。</td>
+</tr></tbody></table><p> </p>
+<h3><span>声音</span></h3>
+<blockquote><p>我们不要多少赔偿，只要你能解释清楚，（保险金额）20元和5.7元的关系就可以了⋯⋯如果出事情的是我，估计我妈已经过不下去了，为了他们，我能做多少就做多少。</p>
+<p><span>——遇难者家属王博华（化名），已从公司辞职</span></p>
+</blockquote>
+<blockquote><p>就是想尽快知道结果，无论责任方在谁，他们欠一个道歉。</p>
+<p><span>——遇难者家属李建国（化名） </span></p>
+</blockquote>
+<blockquote><p>拖了半年，在2015年最后两天公布结果，之后必将迅速淹没庆祝新年的喜庆气氛中，这日子选的也是用心良苦啊。</p>
+<p><span>——中国网友 </span></p>
+</blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E5%8F%B7%E6%B2%89%E8%88%B9%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%EF%BC%8C%E7%B3%BB%E7%81%BE%E9%9A%BE%E4%BA%8B%E4%BB%B6%E8%88%B9%E4%BD%93%E5%90%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E7%BF%BB%E6%B2%89%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">“东方之星”船难</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/423513/" target="cdt-mirror">【立此存照】习总办公室 大家来找茬</a>
+</h2>
+<p><p><strong><a href="http://news.sina.com.cn/c/sz/2015-12-31/doc-ifxneept3476081.shtml">央视新闻｜习主席办公室今年有啥新变化？换了7张新照片</a></strong></p>
+<blockquote><p>从上图可以看出，今年主席的办公桌上有4个文件夹，叠成一摞；去年主席右手边上有6个文件夹，分成两摞。话说，文件夹里具体是什么重要文件，小编就不知道了，大家可以“脑洞大开”。</p>
+<p>接下来，请大家聚焦主席右手边的书架：曾在2015新年贺词中出现的5张照片被替换成了7张新照片！且让小编为大家送上高清图，重温照片背后的故事。</p>
+<p>[…]探秘主席办公室 大家一起找不同！</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%96%B0%E5%B9%B4%E5%8F%98%E5%8C%96.png" rel="attachment wp-att-423515"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E6%96%B0%E5%B9%B4%E5%8F%98%E5%8C%96.png" alt="新年变化" width="485" height="1810"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/boaoliyuan2012" target="_blank">@蜀山古侠</a>：皇上吉祥<img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
+<p><a href="http://weibo.com/junkinyoung" target="_blank">@螃蟹哥_刘挺</a>：龙椅和明黄杯藏起来了<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/1748330400" target="_blank">@K1BA</a>：桌子旁没龙椅，墙上没挂黄袍，差评<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<blockquote><p><a href="http://weibo.com/2753393097" target="_blank">@富土康的质检员</a>：这个椅子呢<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg" rel="attachment wp-att-423514"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg" alt="a41d71c9gw1ezj9fz8lxcj20ku0ed0tt" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt-300x207.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
+<p>@鸭梨三大闸蟹：听到第一句话“迎来2016第一缕阳光”心里一堵，难道不是迎来2016的第一口雾霾吗？</p>
+<p>@大贤凉師：这都是新闻？咱们国家叫朝鲜？</p>
+<p>@三体-李大爷：大家来找茬吗？</p>
+<p><a href="http://weibo.com/3462595804" target="_blank">@三龚九卿</a>：习总办公室的《诗经》居然是线装书局版的-_-这书现在在当当网一折出售，质量大家自己想<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@郭少爷的家丁：书柜增加了几本他也没听说过的书，如（联邦党人文集）</p>
+<p>@鸟枪咋换炮：玉玺呢？</p>
+<p>@guitar_man_：茴香豆的茴有四种写法……</p>
+<p>@莫问风月：估计办公室空气肯定是特供的！</p>
+<p>@0去过生活0：借我去你办公室呼吸下新鲜空气怎么样？</p>
+<p>@FLY–LEE：希望不要再做梦，把诚信立起来，政府不诚信，还有什么脸要求自己的人民，依法治国，也不能只止于口号。</p>
+<p>@亲近我_：关我什么事？我只要日子能特么好过点！</p>
+<p>@悠然优行：我只想说世界那么大，还轮不上你现在伸手，国内的事你干好了吗？2015年你的成绩单，就是国内叫百姓做梦，还有什么获得感，，也却实没获得只剩下感觉了……2015超级股灾，延迟退休，不减税还加税，国内人为灾祸连连，到是在国外送的欢大手笔的……</p>
+<p><a href="http://weibo.com/junkinyoung" target="_blank">@JunkinYoung</a>：五毛说的对，我们不能怨国家，听习大大的，努力赚钱，早日实现移民梦想！<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/3106170693" target="_blank">@水箫月</a><i></i>：老百姓日子难道不是越来越难混了？呵呵<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/michaelmjjackson" target="_blank">@村妇上春树</a>：包子脸更大了 越来越厚颜无耻 shameless<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@昵称怎么输入：希望2016不要乱送钱了，搞好自己国家的经济最要紧。</p>
+<p>@北冥无相：撒币界的奇迹</p>
+<p>@佳佳姐姐_TimeLine：办公桌这么干净，一看就是不做事的</p>
+<p>@医事无成47425：右边空了，左边多了</p>
+<p>@我不敢胡言乱语:人民付出很多房子，收获很多眼泪</p>
+<p>@Reeen：人家西方新年致辞是因为民选 大家爱听他说 咱就别学人家了 说也是些空话</p>
+<p>@叫我歪：打算學英女王麼 以後每年都來一次直播演講，問題是你看英國報導會蠢到問大家你們看欸女王家有什麼變化 嗎？</p>
+<p><a href="http://weibo.com/2001022761" target="_blank">@畅然自在</a>：去年做了个梦，梦见了中国变成了法冶国家，醒来发现只是个白日梦而己，它妈的差点被梦骗了。<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee90a1.png" alt="" width="20px" height="20px"></p>
+<p>@轻度对抗：办公室没什么变化，评论和去年相比倒变化挺大。</p>
+<p>@屏南v炎：为什么一开始人们喜欢，到后来越来越不喜欢，这是为什么呢，找找原因吧，干点人事吧！新年愿望！</p>
+<p>@木笃寨啊：看了评论，立刻觉得新年快乐了！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E8%85%8A%E6%B1%81%E8%82%89%E9%93%BA.jpg" rel="attachment wp-att-423520"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E8%85%8A%E6%B1%81%E8%82%89%E9%93%BA.jpg" alt="赵家腊汁肉铺" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/赵家腊汁肉铺-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/赵家腊汁肉铺-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/赵家腊汁肉铺.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a><br><em>（图文无关；来源：新浪微博@松平陆奥守）</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/423513/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">习总书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/423500/" target="cdt-mirror">【CDTV】腾讯新闻｜舌尖上的雾霾</a>
 </h2>
 <p><blockquote><p>雾霾， 我只吸北京的。相比于冀霾的厚重，鲁霾的激烈，蒙霾的阴冷，我更喜欢京霾的醇厚真实，和独一无二的乡土气息。脱硫脱销的低温湿润煤烟，与秸秆焚烧的碳香充分混合，还有工业排放的芬芳，加上尾气的催化和低气压的衬托，最后再经袅袅硫烟的勾兑，使得它经久而爽口，干洌且绵长，吸入后挂肺、沁心、入髓，让品味者肺腑欲焚，欲罢而不能。雾为帝都厚，霾是北京醇。</p></blockquote>
@@ -35,7 +117,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%E5%92%8C%E6%9D%83%E5%8A%9B%E7%9A%84%E4%BB%BB%E6%80%A7/" target="cdt-mirror">BBC中文网 | “国家网络主权”和权力的任性</a>
 </h2>
@@ -109,6 +191,36 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 <a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E5%9B%BD-%E5%9B%9B%E7%A7%8D%E4%BA%BA%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E5%AE%B6%E7%9A%84%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/" target="cdt-mirror">美国之音 | 习近平致新年贺词 网友说“看哭了”</a>
+</h2>
+<p><p><em>慕小易</em></p>
+<p>新年前夕，中国国家领导人习近平在中国电视台央视发表2016年新年贺词。习近平在致辞时延续他一贯的台风，表情和肢体语言比往年更丰富。</p>
+<p>习近平在贺词中提到，过去这一年，北京获得第24届冬奥会主办权、屠呦呦获诺贝尔奖，以及人民币纳入国际货币基金组织特别提款权货币篮子等事件，总结说：“这说明，只要坚持，梦想总是可以实现的”。</p>
+<p><strong>习近平的中国梦，是谁的梦？</strong></p>
+<p>中国梦是习近平在中共十八代后提出的指导思想和执政理念。他在今年访美前夕接受华尔街日报采访时说：“任何国家及每一位国民都有梦，梦想带来希望。”在致新年贺词时，习近平虽然没有明确提及”中国梦“，但他说：“只要坚持，梦想总是可以实现的”，似乎意指中国梦正在实现的过程中。但从一开始就有人指出，习近平定义的中国梦，毛泽东、华国锋早就提了，而且，按照当时中央的说法，也早已实现了。</p>
+<p>过去一年，中国的确在政策上有了一些发展和亮点如：全面实现“一对夫妻一对孩”、3000万“黑户”终于有了身份等。但是，同样在这一年，政府对维权律师和异议人士的打压，以及对言论自由的进一步压制等行动也为美好的中国梦蒙上了一层灰色。美国共和党总统候选人、国会及行政当局中国委员会（CECC）共同主席卢比奥12月初曾批评习近平，警告他不要让中国梦变“噩梦”。</p>
+<p>美梦还是噩梦，想来只有做梦的人才有裁决权，显然，每个人的梦，由于其地位身份以及拥有的财富之不同，其梦也是不一样的。</p>
+<p><strong>新年贺词只字未提雾霾</strong></p>
+<p>习近平说：“这一年，我们有欣喜，也有悲伤”。他谈到，<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E7%BF%BB%E6%B2%89%E4%BA%8B%E4%BB%B6/">“东方之星”号客轮翻沉</a>、天津港特别<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">重大火灾爆炸</a>、<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB/">深圳滑坡</a>等事故，以及恐怖主义事件都为人民的生活带来“一些困难和烦恼”。他承诺，“党和政府一定会继续努力，切实保障人民生命财产安全、保障人民生活改善、保障人民身体健康。”</p>
+<p>有网友在文末评论说，习近平的这“三个保障”感动得他“快哭了”。也有网友说，那个阻碍油价下跌、促进社会公平的PM2.5为什么被习大大选择性忘记了。还有网友说：能用谷歌和脸谱和推特么？</p>
+<p>在中国，只有高官和高管如环时老总胡锡进等人和机构，可以登录使用上述这些西方社交媒体。这些单位和个人，预先实现了他们的西方梦。中国互联网高管说：互联网也有主权。不容外人侵犯中国主权。</p>
+<p>据说十几年前中国就有雾霾，但直到2008年北京奥运会前，官方媒体才逐渐提到空气污染问题。而今，雾霾已经严重到满街口罩的程度。12月28日，天津气象局发布一则趣闻：“本周天津将迎来两次雾霾，一次持续两天半，一次持续四天。”有在中国的媒体人评论说，“天津气象局以科学而严谨的方式，不经意的流露出来天津人民天生的幽默。”</p>
+<p>环球时报也很幽默。它的总编兼评论员单仁平12月29日发表一篇社评认为，虽然雾霾严重，但<a href="http://chinadigitaltimes.net/chinese/2015/12/423255/">学校不该装空气净化器</a>，恐会影响社会公平。</p>
+<p>习大大的新年贺词中没有提雾霾，有网友说，想必也是怕会影响社会公平与稳定。做梦者的“盗梦空间”，怎容外界妄议？</p>
+<p><strong>习近平：中国不能缺席</strong></p>
+<p>习近平在新年贺词中说：“世界那么大，问题那么多，国际社会期待听到中国声音、看到中国方案，中国不能缺席。”</p>
+<p>巴基斯坦、印度尼西亚、哈萨克斯坦、俄罗斯、美国……习近平在过去的一年中八次走出国门，在境外的总天数42天，进一步将世界的目光吸引到中国。他在贺词中说：“中国将永远向世界敞开怀抱……让我们的‘朋友圈’越来越大。”</p>
+<p>中国在处理国际事务时需要朋友，在经济发展上也需要朋友。中华能源基金委员会副主席何志平在美国传统基金会主办的会议上谈及“一带一路”项目时曾表示，发展“一带一路”计划的目的是为了交朋友。他说：“中国人说：我来到这里，目之所及，我都愿意与之交朋友，然后回家。”</p>
+<p>中国的“一带一路”计划全称为丝绸之路经济带和21世纪海上丝绸之路。习近平2013年9月访问中亚时首次提起这个构想。在新年致辞上，习近平表示，目前“一带一路”建设取得了实质性进展。</p>
+<p>“一带一路”耗资1400亿美元，涵盖50多个国家的44亿人口，区域经济总量占全球29%，被外界认为是继美国主导的重建战后欧洲的“马歇尔计划”之后规模最大的经济外交项目。从数字上看，该项目对中国政治经济的推动力不可小觑。但全球安全研究院主任盖尔·勒夫特也提出了他的担心。他在美国传统基金会主办的会议上谈到，目前中国在南中国海的岛屿纷争仍未解决，中印边境纠纷、斯里兰卡对中国的反感情绪、中缅边境的不稳定因素、“伊斯兰国”恐怖主义以及新疆问题都可能成为“一带一路”的路障。</p>
+<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B32016%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%BE%9E/?category=18271" rel="tag">习近平2016新年贺辞</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
@@ -445,145 +557,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/423275/" target="cdt-mirror">【赵王回车】军报详解习近平键盘发微博：自主研发平台</a>
-</h2>
-<p><p><a href="http://www.thepaper.cn/newsDetail_forward_1415051"><strong>澎湃新闻｜军报详解习近平键盘发微博：自主研发平台，鼠标回车键都可发</strong></a></p>
-<blockquote><p>@军报记者 消息，习主席视察解放军报社时敲击键盘发出一条微博。有网友好奇：鼠标哪去了？其实，鼠标就在旁边。军报技术团队自主研发的“微博管理平台”，用鼠标、回车键都可以发微博。习主席敲击回车键，于16时13分把这条微博同时发布到4个平台，迅速引爆全网。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6.png" rel="attachment wp-att-423283"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6.png" alt="赵王回车" width="500" height=""></a></p>
-<blockquote><p>背景阅读：<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">【网络民议】请按那个橙色键</a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@托福苏巍老师：赵王回车 一键发送 引爆全网 着实牛逼</p>
-<p>@AIRTOPcompany：这是在宣传国家领导人啊还是秀柯基</p>
-<p>@杰克打电话可是手机坏了：其实你夶就是在摆拍，作秀都作得这么弱智，估计也就只能卖萌了。习大大好萌啊！暖男！！</p>
-<p>@鹿又又鹿：回车键还要涂成全黄色，不然 找不到</p>
-<p><a href="http://weibo.com/5546078146" target="_blank">@松平春饼</a><i title="微博个人认证 "></i>：我也以为是朝中社<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@rorikon：亮点是——军报技术团队自主研发的“微博管理平台”</p>
-<p>@悟理居士：没事情花经费就研究个回车键发微博啊</p>
-<p><a href="http://weibo.com/moresse" target="_blank">@漠里溪</a>：报专利了吗？得抓紧啊！不要被民间个别尖端技术团队抢了先机。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/yanmijun" target="_blank">@牙力山大-MIJun</a>：不用鼠标就不会发了？ <img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p><a href="http://weibo.com/meihaoshiguang666" target="_blank">@说好了的美好时光</a>：憋说了，我信了还不行麽<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/2192965611" target="_blank">@马勒戈壁取名神烦</a>：牛逼，支持，威武，原来用鼠标可以发微博，我国一大创新，证明我国科技已经领先美帝五倍<img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"><img title="[good]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]"></p>
-<p><a href="http://weibo.com/HANTEO" target="_blank">@李小霄</a>：得了吧，两次TAB，打个回车，就能发的。。。这也算自主研发？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
-<p>@嘉嘉他爹：红回车 就是屌 大大威武</p>
-<p>@野望__YeWang：我大天朝的黑科技层出不穷啊……</p>
-<blockquote><p>@流秋半岛：转发微博<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/752f2b1fjw1ezhth92481j20ku112jyn.jpg" rel="attachment wp-att-423282"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/752f2b1fjw1ezhth92481j20ku112jyn.jpg" alt="752f2b1fjw1ezhth92481j20ku112jyn" width="325" height="578"></a></p></blockquote>
-<p>@哥哥我很淡定：你说声控也就算了，这解释亮了</p>
-<p>@lIlIIIllIIIllIlIlIIIllIIIllI：我们说“发微博”主要是“编辑一条消息”，没想到你们说的“发微博”就真的是“发送一条微博”，好吧，好像也没什么不对</p>
-<p><strong>@杭州草民之音：P民不敢妄议大王，但是大王，用食指回车应该是不正确的。</strong></p>
-<p>@心若浮舟：细思，这算泄露国家机密吗？</p>
-<p>@天蝎座的凤凰花开：三胖在朝鲜如此，要是放个屁呢，谁研发的放屁平台</p>
-<p>@怪物楼梯：赵老师十几年前在春晚的舞台上看着用线穿起的甲鱼蛋，说:这都是人才啊！</p>
-<p>@番茄_蛋花汤：习主席敲击回车键，于16时13分把这条微博同时发布到4个平台。“同时发布到4个平台”这是如何实现的？</p>
-<p>@vraiwei：。。这种新闻再报下去 就显得新闻主角智商没有很高的样子</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/423275/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5/?category=18271" rel="tag">解放军报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">习近平发微博</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E8%B0%81%E8%83%BD%E9%98%BB%E6%AD%A2%E4%BB%96%E4%BB%AC%E5%BC%BA%E5%A5%B8%E3%80%81%E6%9D%80%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">精读党报 | 谁能阻止他们强奸、杀人？</a>
-</h2>
-<p><p>年底的新闻其实很多，比如昨天中央政治局的民主生活会，比如某省省长被约谈，面临断崖式降级。但今天，读报君想谈一个社会案件，因为，的确被震惊了。</p>
-<p>缘于最高人民法院网站一份核准死刑的《刑事裁定书》。</p>
-<p>被核准死刑的罪犯叫杨学奇，男，汉族，1970年2月3日出生，河南省长葛市人，小学肄业，农民。</p>
-<p>死刑核定的时间是2014年12月25日，相信杨学奇现在已经伏法。此人短短44年的生命，六进五出监狱（最后一进没有出来）。</p>
-<p>从17岁因盗窃到42岁最后一次被捕，25年的生命，有18年是在监狱度过。短暂的7年自由时间，他先后犯下了强奸、猥亵、偷窃、抢劫、脱逃等罪。</p>
-<p>2011年6月28日，因盗窃罪被判4年的杨学奇刑满释放。进入7月份，他开始疯狂作案，先后窜至河南省长葛市、许昌县、许昌市等地多所中学、技校，半年的时间内，强奸、猥亵妇女10多人，大部分是未成年女学生。</p>
-<p>杨学奇供述说，因前妻是同性恋，自己非常恼火，与前妻离婚后产生了“报复女人”的想法。</p>
-<p>读报君挺好奇，这个杨学奇居然还有时间结婚。1987年7月21日，17岁的杨学奇因盗窃被判二年，扣除前期在看守所的羁押时间，服刑也要到1988年底。</p>
-<p>1990年10月30日，杨学奇又犯盗窃罪，这次被判7年，服刑不久脱逃，但又被抓回，并于1992年7月30日因脱逃罪被判4年，与盗窃罪没有执行的刑罚并罚，决定执行有期徒刑10年。</p>
-<p>1997年8月23日被假释。1998年开始“报复女人”。</p>
-<p>上世纪80年代，河南农村一般结婚较早，读报君推测，杨学奇结婚时间应该在第一次入狱获释后，即1989年。离婚应该是在他二进宫后。</p>
-<p>据《检察日报》报道，1998年，杨学奇对两名在校女学生实施强奸，刚开始也感到害怕，后来发现一切风平浪静，杨学奇的胆子越来越大。</p>
-<p>在最高人民法院的《刑事裁定书》里，1998年的强奸案只有一起，也不是在校生：</p>
-<blockquote><p>1998年9月25日晚，杨学奇携带折叠刀等作案工具来到河南省长葛市××家属院二楼一户居民家中欲实施盗窃。见仅有13岁女孩李某甲一人在家，即持刀威胁李某甲，对李实施奸淫。</p></blockquote>
-<p>这起案件并未及时侦破。直到杨学奇后来犯下抢劫罪才被抓。2001年7月19日，杨学奇因犯抢劫罪，被判6年。杨学奇在假释考验期犯下的奸淫幼女案并未被起诉。</p>
-<p>最迟在2006年上半年，杨学奇又刑满释放。当年下半年某一天凌晨5时许，杨学奇携带折叠刀等作案工具，骑电动自行车来到河南省长葛市××中学校门口附近，见15岁女生马某甲一人在校门口等待开门。杨学奇便持刀将这名女生挟持到学校的西南角麦田内，采用暴力、胁迫手段两次奸淫马某甲。</p>
-<p>不久，杨学奇盗窃再次被抓，并于2008年5月23日，因盗窃罪被判四年。注意，2006年的校门口强奸案又未被追究。</p>
-<p>2011年6月28日，杨学奇刑满释放。“报复女人”的想法继续付诸行动，他瞄准了校园女生，“女学生胆子小，容易得手”。</p>
-<p>直到2012年5月9日被逮捕，不到一年的时间里，杨学奇疯狂作案，偷窃只是偶尔为之。</p>
-<p>6月底获释，7月份就开始作案，他携带剪刀、手电筒等作案工具，驾驶摩托车来到河南省长葛市××家属院，翻墙进入该院后，进入二楼被害人张甲（女，时年18岁）租住的房间。杨学奇从张甲的衣服口袋内窃取现金200余元后，欲对张甲实施奸淫。张甲惊醒后大声呼喊，致杨学奇强奸未逞。</p>
-<p>2011年9月，杨学奇瞄准了长葛市及邻近县市的中学校园，1个月作案5起。</p>
-<blockquote><p><strong>9月2日</strong>1时许，杨学奇携带液压断线钳、剪刀、水果刀、手电筒等作案工具，驾驶摩托车来到<strong>河南省长葛市××中学</strong>，翻墙入院后用液压断线钳剪断女生宿舍楼一寝室窗户上的钢筋进入室内。杨学奇在被害人张某甲（女，时年15岁）床前，乘张某甲熟睡之机，用剪刀将其内裤剪破，并用手抠摸张某甲的阴部。当张某甲惊醒后反抗时，杨学奇持刀威胁张某甲，欲对其实施奸淫。张某甲起身跑至宿舍管理员处求救，致杨学奇强奸未逞。</p>
-<p><strong>9月10日</strong>2时许，杨学奇再次携带液压断线钳、剪刀、手电筒等作案工具，驾驶摩托车来到<strong>河南省长葛市××中学</strong>，翻墙进入学校。杨学奇用液压断线钳将女生宿舍一楼卫生间窗户上的钢筋剪断，潜入一寝室，掀开被害人王某甲（女，时年19岁）的被子，抚摸王某甲时将其惊醒。因王某甲大声叫喊，杨学奇离开该寝室。后杨学奇来到女生宿舍二楼，潜入一寝室，用剪刀剪开被害人李某乙（女，时年19岁）的内裤，用手抠摸李某乙的阴部并欲对其实施奸淫。因李某乙惊醒后大声叫喊，杨学奇逃离现场。</p>
-<p><strong>9月某日</strong>夜，杨学奇又携带剪刀、手电筒等作案工具，驾驶摩托车来到<strong>河南省长葛市××中学</strong>，翻墙进校后潜入女生宿舍二楼一寝室，用剪刀将被害人张乙（女，时年14岁）的内裤剪开。当张乙惊醒后，杨学奇持刀对其实施威胁，用手抠摸张乙的阴部，欲对张乙实施奸淫。因张乙极力反抗并叫喊，杨学奇逃离现场。</p>
-<p><strong>9月21日</strong>2时许，杨学奇携带尖刀等作案工具，驾驶摩托车来到<strong>河南省许昌市××区××学校</strong>，翻墙进入学校后潜入女教师宿舍楼二楼被害人巩某某（女，时年18岁）的房间。杨学奇持刀威胁巩某某，两次强行奸淫巩某某后逃离现场。</p>
-<p><strong>9月30日</strong>1时许，杨学奇携带液压断线钳、尖刀、剪刀、手电筒等作案工具，驾驶摩托车来到<strong>河南省许昌市××中学</strong>，翻墙进入学校，用液压断线钳将女生宿舍卫生间窗户上的钢筋剪断，潜入女生宿舍楼一寝室。因室内女生被惊醒后叫喊，杨学奇离开该寝室。后杨学奇又潜入另一寝室，用剪刀将被害人孙某某（女，时年14岁）的内裤剪破，用手抠摸孙某某的阴部。孙某某惊醒后，杨学奇遂持刀强行猥亵孙某某后离开现场。</p></blockquote>
-<p>这5起案件，作案手法一致。都是夜间作案，杨学奇翻墙进入学校，液压钳剪断窗户上的钢筋，剪开女生内裤。如果女生反抗并叫喊，杨学奇就不会得逞，反之则会得逞。</p>
-<p>长葛市是河南许昌市下辖的县级市，常住人口只有66万。如果2006年的校门口强奸案，存在受害人未报案的情节，而未能引起重视的话。那2011年9月2日的案件中，受害女生起身跑至宿舍管理员处求救，理应引起校方注意了。</p>
-<p>按常理推测，这种恶性案件，宿舍管理员应该立即上报校领导，排查校园安全隐患。校方也应该向公安局报案，并知会市教育局，全市校园加强安全巡查。</p>
-<p>然而，悲剧仍不断上演，直到10月份，杨学奇在许昌市再次犯案，才引起警方的重视和行动。</p>
-<p>据《检察日报》报道，2011年10月，河南省许昌市某中学发生一起强奸案，一男子潜入校园，将一名女生打晕后作案。通过侦查，公安机关发现该案与一个月前邻市发生的校园强奸案作案手法相似。办案民警发现该名罪犯作案手法娴熟，有反侦查意识，应该有作案前科。据此，办案人员决定首先排查两劳释放人员。</p>
-<p>最高法的《刑事裁定书》提到2011年10月发生在许昌的强奸案只有一起：</p>
-<blockquote><p><strong>10月8日</strong>1时许，杨学奇驾驶摩托车来到<strong>河南省许昌市××区××学校</strong>，翻墙进入校园，潜入女生宿舍楼一寝室，掀开被害人刘某某（女，时年21岁）所盖被子，欲对其实施奸淫。因刘某某惊醒后大声叫喊，杨学奇逃离现场。</p></blockquote>
-<p>这起案件受害人是惊醒后大声叫喊，杨学奇作案未遂，和打晕后作案的描述并不相符。</p>
-<p>不过，<strong>10月11日</strong>发生在长葛市的案件，提到杨学奇“扼颈”强奸了一名女生。当日1时许，杨学奇用同样手法潜入<strong>河南省</strong><strong>长葛市××中学</strong>女生宿舍，剪开15岁女生查某某的内裤，采用扼颈等暴力、胁迫手段强行奸淫后逃离现场，致查某某轻伤。</p>
-<p>此事，警方已经开始排查“两劳释放人员”，但排查期间，案件仍不断上演。</p>
-<p><strong>11月22日</strong>零时许，<strong>长葛市××中学</strong>，害人贾某某（女，时年14岁）；被害人李某丙（女，时年15岁）。</p>
-<p><strong>12月29日</strong>零时许，<strong>长葛市××家属院</strong>，被害人魏某某（女，时年17岁）。</p>
-<p><strong>2012年2月21日</strong>1时许，<strong>长葛市一电子厂女工宿舍</strong>，被害人娄某某（女，时年24岁），被害人赵甲（女，时年16岁）。</p>
-<p><strong>3月8日</strong>1时许，<strong>长葛市××中学</strong>，被害人赵乙（女，时年13岁）。</p>
-<p><strong>3月18日</strong>23时许，<strong>许昌县××中学</strong>，被害人藏某某（女，时年15岁）。</p>
-<p>……</p>
-<p><strong>3月27日</strong>凌晨2时许，杨学奇来到河南省长葛市××中学，翻墙进入校园后潜入女生宿舍楼一寝室，用剪刀剪开正在熟睡的15岁女孩梁某某的内裤，梁某某惊醒后大声叫喊，杨学奇逃离现场。</p>
-<p>3月28日，警察终于排查到了杨学奇，检验结论显示其DNA与案发现场留下的作案人DNA一致，杨学奇被刑事拘留。</p>
-<p>罪恶终于终结。</p>
-<p>杨学奇交代，他在2011年7月至2012年3月短短8个月时间内，作案共计14起。被害人平均年龄仅16岁，其中有2名幼女。14名被害人中仅有2人及时报警。</p>
-<p>算上1998年、2006年的案件，杨学奇强奸18名妇女，其中强奸8人既遂，强奸10人未遂。盗窃案件反而只有3起，案值4200余元。</p>
-<p>2013年1月，长葛市检察院连续向该市教育局发出6条检察建议，要求该局在完善硬件设施、强化校园安全管理。</p>
-<p>这起案件让人意难平：</p>
-<p>第一，杨学奇为什么成了这样一个人？16岁是读高中的年龄，杨却偷窃入狱？</p>
-<p>第二，监狱能否改造好一个人？为什么杨学奇出了监狱门就去作案？对于两劳释放人员，有没有机构跟踪救助？</p>
-<p>第三，校园安全应对为何如此糟糕，小小一个县级市，寄宿制中学也是屈指可数，居然能够在半年内，坐视这么多起入室强奸案发生？而且杨学奇的作案手段完全一样，毫无改进？</p>
-<p>在最后一次被捕之前，杨学奇五进五出监狱，每次刑满释放，就意味着新的罪恶即将发生，我们的法律是对既定过错的惩戒，无法前置预防，但这种悲剧，社会真的没有办法吗？</p>
-<p>想起一个更血腥的案件，2011年，安溪县龙涓乡美岭村23岁青年李某福，试图强奸同村村妇游某红，犯下猥亵罪被判刑2年4个月，入狱前他扬言杀死游某红一家。</p>
-<p>2014年7月27日，李某福刑满释放，9月21日凌晨，他持一把杀猪刀，杀死了游某红、游某红的丈夫，以及两个孩子（分别为6岁、12岁）。</p>
-<p>在这起案件中，李某福犯猥亵罪，依法判刑28个月。司法不能根据他扬言杀人来定罪，最终在4人被害后，重新将李某福收监定罪。</p>
-<p>在杨学奇和李某福这样的案件中，有没有办法避免这种悲剧？</p>
-<p>求教专业人士。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E8%B0%81%E8%83%BD%E9%98%BB%E6%AD%A2%E4%BB%96%E4%BB%AC%E5%BC%BA%E5%A5%B8%E3%80%81%E6%9D%80%E4%BA%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%8B%B1/?category=18271" rel="tag">监狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%88%91%E6%A0%B8%E5%AE%9A/?category=18271" rel="tag">死刑核定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%AD%A6%E5%A5%87/?category=18271" rel="tag">杨学奇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91/?category=18271" rel="tag">核准死刑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E7%AA%83/?category=18271" rel="tag">盗窃</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%B9%BF%E5%B7%9E%E5%90%AF%E5%8A%A8%E5%8F%8D%E6%81%90%E4%B8%80%E7%BA%A7%E5%9B%9E%E5%BA%94-%E9%85%92%E5%BA%97%E6%8B%92%E6%8E%A5%E6%96%B0%E7%96%86%E5%B0%91/" target="cdt-mirror">自由亚洲 | 广州启动反恐一级回应 酒店拒接新疆少数民族</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/55df0298-7a19-40cb-b469-b225acbd5292.jpeg" alt="55df0298-7a19-40cb-b469-b225acbd5292" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/55df0298-7a19-40cb-b469-b225acbd5292-225x300.jpeg 225w, http://chinadigitaltimes.net/chinese/files/2015/12/55df0298-7a19-40cb-b469-b225acbd5292.jpeg 622w" sizes="(max-width: 450px) 100vw, 450px"></p>
-<p>北京、广州等多个城市12月24日启动反恐一级响应，但由于官方并无公开发布消息，民间对此议论不断，深圳已有两位网民因在网络上发布相关消息，被公安以散布虚假信息为由拘留。广州一家三星级酒店的服务员28日告诉本台，全市酒店接到警方新的通知，不准接待新疆少数民族。</p>
-<p>美、英等5个国驻华使馆12月24日发出警告，称圣诞节当日或前后在北京三里屯地区可能出现针对西方人士的威胁。事发当天，北京警方出动反恐部队武警雪豹突击队，加强巡逻。北京使馆区的一名保安员28日对本台记者说，加强安保是防范恐怖分子，并非针对新疆少数民族：“安保的事挺多的，主要怕出事，因为人多。安检是严不是针对新疆人，现在的安保都严”。</p>
-<p>在广州，公安局也向当地居委会、酒店发出通知，称根据广州市统一部署，2015年12月24日到2016年1月3日，启动反恐一级响应。还称，恐怖分子人员特征是1带刀具的包裹很长，2衣服上有星星月亮等标志，3，基本上是先朝拜后袭击。通知还提醒所有人员不要到人口密集地区，若发现可疑人员，及时上报。</p>
-<p>广州一家三星级酒店的服务员28日告诉记者，他们接到警方的通知，启动反恐一级响应，全市的酒店都不准接待新疆少数民族，直到另行通知。</p>
-<p>记者：问一下，持新疆的身份证可以住吗？</p>
-<p>回答：新疆啊，新疆的身份证不可以（住）。</p>
-<p>记者：汉族的身份证可以吗？</p>
-<p>回答：汉族的可以。除了汉族可以，其他的民族都不可以。</p>
-<p>记者：要到几号，其他民族的才可以入住？</p>
-<p>回答：到几号，这边公安还没有派发文件，还不知道。</p>
-<p>记者：我看到说，启动反恐一级回应，是吗？</p>
-<p>回答：是的。</p>
-<p>记者：我看（通知）上面说是到3日？</p>
-<p>回答：我们酒店还没有接到通知，所以还不知道。他们（公安）说可以接待新疆客人的话，我们这边肯定也会让新疆客人住的。</p>
-<p>记者：现在听说要注意恐怖人员的特征，是吧？</p>
-<p>回答：嗯，对。如果他（新疆人）非要住店，就要跟街道的和派出所联系。</p>
-<p>记者：其他酒店是不是也是这样？</p>
-<p>回答：对，对。</p>
-<p>新疆居民方先生28日对记者说，星星月亮并非维族穆斯林的标志：“他指的标志并不是维吾尔族的标志，是极端伊斯兰教思想，恐怖分子的标志，IS（伊斯兰国组织）的标志， 也不是所谓的东突厥，所以他（通知）中讲的特点，如果一个土耳其人拿着国旗来，不是成了（反恐目标）。在深圳、广州的白云机场都设有祷告室，他们在那里祷 告完，就可以干那个事情，你认为你设祷告室对不对，我不太赞成他的观点，第二点就是，他和今天发表的反恐法，实际上相呼应”。</p>
-<p>目前，广州、深圳警方对网民发帖涉及“恐怖袭击”高度紧张，先后已有两位深圳网民因此被拘留。警察在微博辟谣，指恐袭讯息不实。据南方都市报27日报道，12月24日，龙岗警方发现有网民传播“深圳发生恐怖袭击，砍死11人”的信息，遂展开调查。经查，陈某（女，40岁，湖南人）将道听途说的信息编撰后在微信群中发布，已构成散布谣言扰乱公共秩序的违法行为。目前，陈某被依法行政拘留2日。25日晚，龙华警方发现有人通过微信发布一条小视频，并配以“龙华出现恐怖分子，连砍五人”的文字说明，该信息被大量转发。经查，该信息是吴某（男，23岁，广东人）编撰的虚假信息。吴某对自己发布虚假恐怖信息的行为供认不讳。目前，吴某已被依法刑事拘留。</p>
-<p>据香港苹果日报25日报道，24日下午，直击深圳市公安局副局长施志刚现身福田口岸，数十荷枪实弹的武警、反恐部队、以及公安随行。钢叉、盾牌、机关枪，据称此番巡视是针对平安夜庆祝活动做准备。</p>
-<p>特约记者:乔龙 责编:嘉远</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%B9%BF%E5%B7%9E%E5%90%AF%E5%8A%A8%E5%8F%8D%E6%81%90%E4%B8%80%E7%BA%A7%E5%9B%9E%E5%BA%94-%E9%85%92%E5%BA%97%E6%8B%92%E6%8E%A5%E6%96%B0%E7%96%86%E5%B0%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90/?category=18271" rel="tag">反恐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E6%B3%95/?category=18271" rel="tag">反恐怖主义法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -605,5 +578,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,135 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/423500/" target="cdt-mirror">【CDTV】腾讯新闻｜舌尖上的雾霾</a>
+</h2>
+<p><blockquote><p>雾霾， 我只吸北京的。相比于冀霾的厚重，鲁霾的激烈，蒙霾的阴冷，我更喜欢京霾的醇厚真实，和独一无二的乡土气息。脱硫脱销的低温湿润煤烟，与秸秆焚烧的碳香充分混合，还有工业排放的芬芳，加上尾气的催化和低气压的衬托，最后再经袅袅硫烟的勾兑，使得它经久而爽口，干洌且绵长，吸入后挂肺、沁心、入髓，让品味者肺腑欲焚，欲罢而不能。雾为帝都厚，霾是北京醇。</p></blockquote>
+<p><br><a href="http://v.qq.com/cover/c/cnmaw8ea2jljbxt.html">腾讯视频地址</a></p>
+<p><br><a href="https://youtu.be/7DQJKHzw8dE">Youtube地址</a></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/423500/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%E5%92%8C%E6%9D%83%E5%8A%9B%E7%9A%84%E4%BB%BB%E6%80%A7/" target="cdt-mirror">BBC中文网 | “国家网络主权”和权力的任性</a>
+</h2>
+<p><p>作者：夏明 纽约城市大学政治学教授</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%8810.01.53.png" alt="Screen Shot 2015-12-31 at 下午10.01.53" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午10.01.53-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午10.01.53.png 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>中国政府在2014年11月主办了首届“世界互联网大会”；2015年12月，再次举办第二次大会。因为会议计划每年都会在浙江嘉兴市的乌镇举行，人们又称之为“互联网乌镇峰会”。</p>
+<p>在两次会议上，中国总理李克强和总书记/国家主席习近平先后都强调了同一个核心概念：“国家网络主权”。但正是因为这个概念，国际与会者（尤其是西方国家的）拒绝签署所谓的“共识”、“宣言”，让主办国的中方惘然若失。</p>
+<p>为什么“国家网络主权”成为引起纷争的那个苹果？要回答这个问题，我们一要在概念层面上搞清它是否有逻辑上的有效性，二要在实力层面上搞清中国是否有政治、经济、技术和道义上的实力来把自己的意图强加给世界。</p>
+<p>中共对主权的痴迷有历史传统，与世界各大国相比有过之而无不及。所谓的主权，也就是在一定范围内（主要是指领土空间）绝对的、最高的、不受第三方约束的权威。不过即便在最早提出主权思想的法国思想家不丹那里，享有绝对主权的君主也还必须受到神圣法和自然法的约束。国家主权的概念在1648年的威斯特伐利亚和平条约中得到确立，民族国家享有主权，在此之上没有主子，当时君主主权成为历史的主流。到了英国的几次大革命后（1640年的英国革命、1688年的光荣革命），议会主权得到逐渐确立。在美国和法国大革命后，尔后在英国十九世纪的普选权扩大后，人民主权的概念在西方得到确立。所以，主权的拥有者要么是君主，也就是专制君主制；要么是人民，也就是民主制。从理论上来说，如果要建立“网络主权”，逻辑结果要么是“君主网络主权”，要么是“人民网络主权”。显然，中国两者都不是，而是试图建立一个“党主治下的寡头网络主权”。</p>
+<p>“网络主权”是否成立？</p>
+<p>在上述的三个模式中，他们都共同面临一个概念上的挑战：“网络主权”是否成立？</p>
+<p>无论我们把网络理解为“人际关系网”、虚拟空间的互联网、相对于科层制和市场体系的网络治理模式，还是宇宙的生命和物质的网络，它们共同拥有的一个基本特征是无限性和开放性。其次的一个特征是绝对中心权威的消失，代之的是多元的纽带连接点，至多出现占据最多中心性的显赫角色。美国理论物理学家卡普拉（Fritjof Capra）在《物理学的道》、《生命之网》等著作中阐述了下列一个核心思想：现代量子力学发现物质世界并非由最后无法分割的最小的亚原子构成，而是最后分解为由物质和能量构成的场和关系。这暗合了东方的“色即是空、空即是色”的虚空观念。而在这种复杂体系里，成千上万的细小单元并不能解释体系的全部和其特征，相反，系统的思维才能看清单元在有机整体中的价值和意义。</p>
+<p>用简单的白话来说，在虚拟网络世界里，一个国家单元不仅根本无法控制整个体系，而且它的性质更依赖于这个体系。如果中国试图建立“国家网络主权”，实质就是用有限空间的主权概念去控制开放、无限的虚拟空间，结果就是如庄子所说的，“以有涯随无涯，殆已。”美国前总统克林顿在任时有过一个更形象的说法：控制互联网就如同“试图把果冻钉在墙上。”</p>
+<p>单元国家对互联网的合理反应应该是协调适应而非控制，美国就此提供了一个好例证。众所周知，互联网是由美国政府国防部的研究项目催生的。很自然地，全球13组根域名服务器就有10个在美国（另外三个分别在英国、瑞典和日本），美国控制了世界上互联网最重要的硬件，而且还控制了域名的认定、设置和管理。但因为互联网的极端自由主义倾向，全球商业公司、非政府组织和个人、国际组织和世界各国（尤其是欧盟国家）都试图推动和建立一个全球性的、民主化的网络管理体系，为此1998年美国政府发布了“关于互联网域名和网址管理的白皮书”，倡议建立一个新的私营非营利的、自主的公司来管理。美国政府（包括国防部和国家科学基金会）把互联网的硬件基础设施和管理职能交给私营，后来以“互联网名称和数字地址分配机构”（ICANN）为核心，加上国际组织（例如国际通讯联盟、国际知识产权组织、欧盟）、NGO （例如世界经济论坛、互联网协会等）、技术和通讯公司（IBM、因特尔、微软等）和大国构成了国际互联网治理体系。这个体系的形成过程体现了利益相关者的“粗燥的共识”。</p>
+<p>而“乌镇峰会”的实质并非是要顺应“互联网系统效应”，也不是要最大化协同接轨带来的同步效应，而是要颠覆已存的国际互联网治理体系，破坏逐渐形成的全球共识。首先，中国并无心尊重互联网的开放性和无限性，也不尊重人民主权在网络空间延伸。其次，在“国家网络主权”的荒谬概念下，建立政府对虚拟空间的所有权，从而破坏网络作为“人类共享资源”的特征。最后，以中国政府为主导的“网络空间圈地运动”也会破坏业已建立的“全球知识共同体”和它支撑的国际公民社会，从而阻止人类社会的进步。</p>
+<p>真正的含义</p>
+<p>“国家网络主权”的利益和权力基础是显而易见的：作为维护政体安全的需要，中共政权还要筑高它的防火墙、扩展它的敏感词、实名控制所有的电子通讯设备、屏蔽更多的境外网页，所以，它要把无限开放的互联网变成党国控制下的局域网。为了回避与世界强手的竞争、以劣质的服务和产品垄断中国的电子商务市场从而获得暴利，中国的网络公司和电子商务公司（也就是马云所说的BAT：百度、阿里巴巴、腾讯等）以依附政权为代价，成为构建“国家网络主权”的马前卒。</p>
+<p>在互联网领域政经官商勾结势必阻碍中国信息社会的发展，对中国社会、文化和经济的伤害已经被证明是无穷的。今天我们已经难以想象，在西方发达国家任何一个投资人、任何一个决策者、甚至任何一个科学家可以放弃阅读《纽约时报》、《华尔街日报》、《经济学家》，放弃收看CNN、彭博新闻，放弃登录Facebook、Youtube和谷歌。但中国上亿的决策者、投资人、学者学生失去了信息效率，就是在资讯闭塞的条件下选择的。</p>
+<p>纵观中国百年历史，面对民主和科学的冲击，清朝的保守派提出“中体西用”给现代化套上了长衫；面对市场经济在全球化条件下的扩张，中共领导又用“鸟笼经济”把市场关进了权力的笼子；面对二十一世纪信息社会的挑战，中共再次提出了“网络主权”，逆历史潮流而动，试图建立网络霸权，把中国禁锢在封闭社会里。</p>
+<p>如果我们认识到，“国家网络主权”的提出不仅挑战美国的价值、利益和权力，也与联合国的“信息社会世界峰会”分庭抗礼，还挑战全球网络公司利益集团推崇的消费者主权、自由主义治理体系体现的网民主权和国际组织支持的选民代议民主，我们就有理由相信，中国的政经寡头共同体不会有足够的经济、技术实力重建一个互联网或建设一个更优化的网络基础设施，也不会有足够的政治、知识和道德的力量来改写21世界历史。</p>
+<p>中国政坛流传着一个笑话：一个村委书记在省上听了省委书记关于“一路一带”、“大国崛起”和“中国梦”的文件传达后备受鼓舞，回到村子马上向县委呈上报告，提出了解决国家产能过剩、帮助经济增速的三项大工程：给长城铺上瓷砖、给喜马拉雅山装上电梯间、给太平洋围上栏杆。县委书记读完报告后，批示：“谋事要实、创业要实、做人要实。希望从利民利国的小工程做起。”村委书记很快就提出了新三项“小工程”请求领导批准：给蚊子戴上口罩、给苍蝇戴上手套、给老鼠戴上避孕套。</p>
+<p>只有明确意识到中国如此这般的权力生态大背景，我们才能理解中共权力的任性和荒诞。</p>
+<p>关键词: 网络 主权 互联网 栏目: 新颖视角 首页重点发表: 精品导读 作者: 夏明</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%E5%92%8C%E6%9D%83%E5%8A%9B%E7%9A%84%E4%BB%BB%E6%80%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD-%E5%86%9B%E6%94%B9%E9%98%BB%E5%8A%9B%E7%A9%BA%E5%89%8D-%E5%86%9B%E6%8A%A5%E6%8A%A5%E5%BA%86%E5%B1%95%E7%A4%BA%E5%86%9B%E5%A7%94/" target="cdt-mirror">中国茉莉花革命 | 军改阻力空前 军报报庆展示军委“团结”</a>
+</h2>
+<p><p>在《解放军报》创办六十周年之际，中共总书记、中央军委主席习近平率领中央军委全班人马前往致贺、视察，听取工作汇报，发表重要讲话。这段时间，正是解放军有史以来最大、最深、最广泛实施大改革、大手术、大整合之际，据闻阻力之大也是空前，各种谣言满天飞，说是中央军委高层有人「思想抵触」，要求「暂缓改革」，习主席动了真气，严批谁挡道搬开谁。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%889.54.27.png" alt="Screen Shot 2015-12-31 at 下午9.54.27" width="550" height="318"><br><span>习近平参观解放军报创刊60周年主题展览</span></p>
+<p>这段期间，《解放军报》连续发表评论文章，为军队大改革「鼓与呼」，狠批各种反改革言论，要求全军上下坚决贯彻执行军队改革，以大局为重，抛开各种「私心杂念」，以党的利益、军队利益、国家利益为先。</p>
+<p>这类文章发得愈多，措词愈严厉，人们就知道军队上下阻力愈大，尤其是「中央军委内部有不同意见」的「谣言」似乎就愈有市场。这种情况，「辟谣」的最好方法，就是找一个机会和场合，习主席带领全体中央军委委员一起出席某项活动，以示大家「紧密团结在习主席周围」也。</p>
+<p>《解放军报》是中央军委的机关报，相当于《人民日报》是中共中央机关报。党中央最高领导人担任中央军委主席，实施「党指挥枪」，就要牢牢抓住中央军委的「党报」，体现党对军队的全面、绝对领导。</p>
+<p>既然是党领导军队，军队要听党的话，军队要「卷进党内斗争」，《解放军报》就无可避免的在宣传、报道、评论方面，随着中共党内斗争的大势走，成为斗争工具。六十年来军报岁月峥嵘也。</p>
+<p>来源：太阳报 / 柳太极 传媒人</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD-%E5%86%9B%E6%94%B9%E9%98%BB%E5%8A%9B%E7%A9%BA%E5%89%8D-%E5%86%9B%E6%8A%A5%E6%8A%A5%E5%BA%86%E5%B1%95%E7%A4%BA%E5%86%9B%E5%A7%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E6%8A%A5/?category=18271" rel="tag">太阳报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%A7%94/?category=18271" rel="tag">军委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E5%9B%BD-%E5%9B%9B%E7%A7%8D%E4%BA%BA%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E5%AE%B6%E7%9A%84%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5/" target="cdt-mirror">东网 |“赵国”四种人：赵家人、赵家的家人、赵家的雇农、自耕农</a>
+</h2>
+<p><p>最近的流行词是「赵家人」，它来自鲁迅的《阿 Q 正传》：赵少爷中了秀才，自认为姓赵的阿 Q 跟着欢呼时，赵老爷一个嘴巴抽去：「呸！你也配姓赵？」 由此引申开来，赵家特指中国的权贵家族。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%889.44.20.png" alt="Screen Shot 2015-12-31 at 下午9.44.20" width="550" height="392" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.44.20-300x214.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.44.20.png 632w" sizes="(max-width: 550px) 100vw, 550px"><br><span>赵家人、赵国等词的流行，是在政治倒退、网络管制下，网民对官方主导话语的戏谑性解构</span></p>
+<p>赵家人、赵国等词的流行，是在政治倒退、网络管制的局势下，网民对官方主导话语的戏谑性解构，什么「人民共和国、当家作主、人民公仆、权为民所用」。如果没有「权为民所授」，没有选举和监督，谁都知道说的是一回事，实际是另一回事。</p>
+<p>赵家人除了笼统的指权贵家族，还可以细分。首先是赵老爷，毛邓一代的老一无（老一辈无产阶级革命家）基本都走了，但影响还在。其次是赵大人和赵少爷，除了江胡时代的政治大佬及其子嗣官二代，最主要的就是红二代太子党、驸马党，以及峥嵘显现的红三代。他们或出将入相，掌控党政军大权，或执掌经济命脉，垄断能源、金融、电讯等支柱产业，控制资本和对外贸易。许多人都直接或间接为赵家人打工。</p>
+<p>赵家人不光在中央一级，各级地方都有。曾任泰安市委书记的胡建学说过，共产党的官，当到市（地、厅、局、司）一级，就为所欲为、无法监督了。各级政府的权力高度集中，一个县委书记就是说一不二的土皇帝，其同僚、家族，通过政治联姻、政商勾结，基本上把持了一个地方的权力和利益。</p>
+<p>除了赵家人，还有赵「家人」，也可称为「家丁、家仆、家奴」。虽然叫人民军队，但归党绝对领导，除了守土备战、抗洪救灾，遇上 1989 那样的事，不惜开枪也要维护「赵」家权力（不是赵紫阳，是赵老爷）。公检法近三年重新使用文革时的概念「刀把子」，每有拆迁、上访等官民、商民纠纷，毫无例外地站在赵家和商家的权贵一边，打压民众。网民发帖举报或批评官员个人，本来应该官员起诉或媒体应对，但经常是「刀把子」删帖抓人，把官员自诉案，变成利用权力的公诉案。</p>
+<p>赵「家人」里面还有媒体，自己饱受压制，没有新闻自由，但把「喉舌」当大脑，以为自己也是赵家人，总是制造和谐、正能量圆梦。还有许多赵家豢养的「门客」文人，不断为赵家造势辩解。这些「家人、门客」，不管是做什么工作的，都直接听民于大小赵家，换得衣食住行。</p>
+<p>除此之外，还有雇农和自耕农。现在是工业社会，怎么还有雇农？看看赵家的权力产生和继承方式、个人崇拜、土地独占、土豪流行、对民众权利和福利的漠视，就知道还是赵国时的农业社会，至少是前工业社会。</p>
+<p>雇农主要是指官府的小吏、当差，赵家控制的国有企事业单位的工人、职员、小知识分子。他们凭着自己的付出伺候着赵家，却总是被教训饭碗是赵家所赐，不能「吃饭砸锅」。</p>
+<p>自耕农则是外企、私企的雇员、中小企业主、自由职业者。他们靠自己的本事吃饭，不需要吹捧赵家，但也不敢得罪赵家。不光政治上被排斥、经济上遭受不公平的竞争，而且自耕农不是自由民，税收、户籍、护照、个人信息全部由赵家掌握，专治各种不服。</p>
+<p>赵家人、赵家的家人、赵家的雇农、不敢惹赵家的自耕农，这就是赵国四种人。</p>
+<p>来源：东网 / 乔木 北京传媒学者</p>
+<p><img alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E5%9B%BD-%E5%9B%9B%E7%A7%8D%E4%BA%BA%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E5%AE%B6%E7%9A%84%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/" target="cdt-mirror">美国之音 | 习近平致新年贺词只字未提雾霾</a>
+</h2>
+<p><div>
+<div>作者：慕小易</div>
+</div>
+<div>
+<div>
+<p>新年前夕，中国国家领导人习近平在中国电视台央视发表2016年新年贺词。习近平在致辞时延续他一贯的台风，表情和肢体语言比往年更丰富。</p>
+<p>习近平在贺词中提到，过去这一年，北京获得第24届冬奥会主办权、屠呦呦获诺贝尔奖，以及人民币纳入国际货币基金组织特别提款权货币篮子等事件，总结说：“这说明，只要坚持，梦想总是可以实现的”。</p>
+<p><strong>习近平的中国梦，是谁的梦？</strong></p>
+<p>中国梦是习近平在中共十八代后提出的指导思想和执政理念。他在今年访美前夕接受华尔街日报采访时说：“任何国家及每一位国民都有梦，梦想带来希望。”在致新年贺词时，习近平虽然没有明确提及”中国梦“，但他说：“只要坚持，梦想总是可以实现的”，似乎意指中国梦正在实现的过程中。但从一开始就有人指出，习近平定义的中国梦，毛泽东、华国锋早就提了，而且，按照当时中央的说法，也早已实现了。</p>
+<p>过去一年，中国的确在政策上有了一些发展和亮点如：全面实现“一对夫妻一对孩”、3000万“黑户”终于有了身份等。但是，同样在这一年，政府对维权律师和异议人士的打压，以及对言论自由的进一步压制等行动也为美好的中国梦蒙上了一层灰色。美国共和党总统候选人、国会及行政当局中国委员会（CECC）共同主席卢比奥12月初曾批评习近平，警告他不要让中国梦变“噩梦”。</p>
+<p>美梦还是噩梦，想来只有做梦的人才有裁决权，显然，每个人的梦，由于其地位身份以及拥有的财富之不同，其梦也是不一样的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%889.35.35.png" alt="Screen Shot 2015-12-31 at 下午9.35.35" width="550" height="368" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.35.35-300x201.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.35.35.png 600w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p><strong>新年贺词只字未提雾霾</strong></p>
+<p>习近平说：“这一年，我们有欣喜，也有悲伤”。他谈到，“东方之星”号客轮翻沉、天津港特别重大火灾爆炸、深圳滑坡等事故，以及恐怖主义事件都为人民的生活带来“一些困难和烦恼”。他承诺，“党和政府一定会继续努力，切实保障人民生命财产安全、保障人民生活改善、保障人民身体健康。”</p>
+<p>有网友在文末评论说，习近平的这“三个保障”感动得他“快哭了”。也有网友说，那个阻碍油价下跌、促进社会公平的PM2.5为什么被习大大选择性忘记了。还有网友说：能用谷歌和脸谱和推特么？</p>
+<p>在中国，只有高官和高管如环时老总胡锡进等人和机构，可以登录使用上述这些西方社交媒体。这些单位和个人，预先实现了他们的西方梦。中国互联网高管说：互联网也有主权。不容外人侵犯中国主权。</p>
+<p>据说十几年前中国就有雾霾，但直到2008年北京奥运会前，官方媒体才逐渐提到空气污染问题。而今，雾霾已经严重到满街口罩的程度。12月28日，天津气象局发布一则趣闻：“本周天津将迎来两次雾霾，一次持续两天半，一次持续四天。”有在中国的媒体人评论说，“天津气象局以科学而严谨的方式，不经意的流露出来天津人民天生的幽默。”</p>
+<p>环球时报也很幽默。它的总编兼评论员单仁平12月29日发表一篇社评认为，虽然雾霾严重，但学校不该装空气净化器，恐会影响社会公平。</p>
+<p>习大大的新年贺词中没有提雾霾，有网友说，想必也是怕会影响社会公平与稳定。做梦者的“盗梦空间”，怎容外界妄议？</p>
+<p><strong>习近平：中国不能缺席</strong></p>
+<p>习近平在新年贺词中说：“世界那么大，问题那么多，国际社会期待听到中国声音、看到中国方案，中国不能缺席。”</p>
+<p>巴基斯坦、印度尼西亚、哈萨克斯坦、俄罗斯、美国……习近平在过去的一年中八次走出国门，在境外的总天数42天，进一步将世界的目光吸引到中国。他在贺词中说：“中国将永远向世界敞开怀抱……让我们的‘朋友圈’越来越大。”</p>
+<p>中国在处理国际事务时需要朋友，在经济发展上也需要朋友。中华能源基金委员会副主席何志平在美国传统基金会主办的会议上谈及“一带一路”项目时曾表示，发展“一带一路”计划的目的是为了交朋友。他说：“中国人说：我来到这里，目之所及，我都愿意与之交朋友，然后回家。”</p>
+<p>中国的“一带一路”计划全称为丝绸之路经济带和21世纪海上丝绸之路。习近平2013年9月访问中亚时首次提起这个构想。在新年致辞上，习近平表示，目前“一带一路”建设取得了实质性进展。</p>
+<p>“一带一路”耗资1400亿美元，涵盖50多个国家的44亿人口，区域经济总量占全球29%，被外界认为是继美国主导的重建战后欧洲的“马歇尔计划”之后规模最大的经济外交项目。从数字上看，该项目对中国政治经济的推动力不可小觑。但全球安全研究院主任盖尔·勒夫特也提出了他的担心。他在美国传统基金会主办的会议上谈到，目前中国在南中国海的岛屿纷争仍未解决，中印边境纠纷、斯里兰卡对中国的反感情绪、中缅边境的不稳定因素、“伊斯兰国”恐怖主义以及新疆问题都可能成为“一带一路”的路障。</p>
+</div>
+</div>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
+<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B32016%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%BE%9E/?category=18271" rel="tag">习近平2016新年贺辞</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86%E7%8E%B0%E8%B1%A1%E5%B9%B6%E4%B8%8D%E7%AA%81%E5%87%BA%EF%BC%9F/" target="cdt-mirror">美国之音 | 中国社会的民族歧视现象并不突出？</a>
 </h2>
 <p><p>作者：莫雨</p>
@@ -458,188 +584,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/423255/" target="cdt-mirror">【盛如愿】空气净化器之争：胡锡进的雾霾“政治正确性”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2013/12/%E7%8B%84%E9%9D%92%E5%AD%90%EF%BC%9A%E4%B8%8D%E6%83%A7%E9%9B%BE%E9%9C%BE%E8%83%A1%E9%94%A1%E8%BF%9B.jpg" rel="attachment wp-att-325944"><img src="http://chinadigitaltimes.net/chinese/files/2013/12/%E7%8B%84%E9%9D%92%E5%AD%90%EF%BC%9A%E4%B8%8D%E6%83%A7%E9%9B%BE%E9%9C%BE%E8%83%A1%E9%94%A1%E8%BF%9B.jpg" alt="狄青子：不惧雾霾胡锡进" width="550" height=""></a><br><em>（“不惧雾霾胡锡进” by 狄青子）</em></p>
-<p>《环球时报》近日发表一则题为《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%AD%A6%E6%A0%A1%E8%A3%85%E4%B8%8D%E8%A3%85%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8-%E8%88%86/">学校装不装空气净化器 舆论不应管</a>》的社评，在幼儿园小学是否安装空气净化器的问题上极力为政府推卸责任，并再次抛出了雾霾问题如何如何“<strong>非常复杂</strong>”的“复杂中国论”，引来大量网民不满。</p>
-<p>房产大亨潘石屹后在微博发声并@了胡锡进，认为人们应该“将心比心”，<strong>却不幸遭胡总编“逼捐”</strong>。</p>
-<p>财经网在微博转载《环时》社评时的一句“复杂的中国里的复杂雾霾问题”，引来胡锡进再度出面反驳，称民众的呼吁虽“<strong>在网上</strong>有政治正确性”但并不现实，并<strong>告诫媒体人“请别煽情”</strong>。</p>
-<blockquote><p><strong><a href="http://weibo.com/1989660417/DaOjGo54h">@胡锡进</a></strong>：我知道，呼吁政府买单给所有幼儿园小学校装空气净化器在网上有政治正确性，但这不现实。中学大学该不该装？北京装了河北山西装不装？真的，媒体人，请别煽情。 //@财经网:【复杂】复杂的中国里的复杂雾霾问题//@胡锡进:环球时报非常支持家长用众筹的方式装空气净化器，有钱的学校装，也很支持。</p>
-<p><strong><a href="http://weibo.com/1989660417/DaO7bBNCr">@胡锡进</a></strong>：环球时报非常支持家长用众筹的方式装空气净化器，有钱的学校装，也很支持。很多学校都是这样做的。潘总如果能给北京的所有学校都捐一套，我们更支持了。//@潘石屹:将心比心，成人用空气净化器时，我们为什么不能给孩子们配呢？@胡锡进 。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E9%94%A1%E8%BF%9B1.png" rel="attachment wp-att-423258"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E9%94%A1%E8%BF%9B1.png" alt="胡锡进1" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/胡锡进1-300x260.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/胡锡进1-768x667.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/胡锡进1-1024x889.png 1024w" sizes="(max-width: 2014px) 100vw, 2014px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E9%94%A1%E8%BF%9B2.png" rel="attachment wp-att-423257"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%83%A1%E9%94%A1%E8%BF%9B2.png" alt="胡锡进2" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/胡锡进2-300x270.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/胡锡进2-768x692.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/胡锡进2-1024x922.png 1024w" sizes="(max-width: 2014px) 100vw, 2014px"></a></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/12/422817/">LeMcDull：随手拼个图，让你国中产认清现实</a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2681220870" target="_blank">@友爱好青年</a>：胡编的意思是你们谁想去装我都欢迎，但是千万别找政府装吗？<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p>@南方梅雨：这狗就会挟民粹绑架。小潘凭什么？就凭他有钱？胡叼盘的恶是一般人难以看出来的恶，是大恶</p>
-<p>@卑微的大多数：又开始耍流氓了，别人说了你就让别人装？一贯的流氓逻辑啊。</p>
-<p>@bysis：他捐了，让当一把手吗</p>
-<p>@更深的蓝1969：@胡锡进 的习大大能给自己出入的地方装，把给学校装的责任推给@潘石屹 ，能把收税的权利叫你的习大大给@潘石屹 吗？</p>
-<p>@醉梦花满天：是啊，有钱出钱，没钱出力，老胡是不是应该动员你们报社所有人不戴口罩去户外多吸几口啊？</p>
-<p>@愤怒的胶水大爷：胡编智商无下限啊！潘总给所有学校都安装的话，养你们又有何用？为了洗地，你也是蛮拼的</p>
-<p><a href="http://weibo.com/n/%E5%AE%B9%E8%8B%A5%E9%A3%8E%E6%B5%81?from=feed&loc=at" target="_blank">@容若风流</a>: 胡编的逻辑：老百姓希望过上正常的日子我支持，但过上正常的日子不能指望政府，你如果为百姓能过上正常的日子而呼吁，那好，就请潘总你掏钱来为百姓解决吧！这真是特么主子豢养的一条好狗啊<img title="[弱]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]">原谅我爆粗口啊<img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"><img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"><img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"><img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"><img title="[话筒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]"><img title="[围观]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]"><img title="[围观]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]"><img title="[围观]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]"><img title="[围观]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]"><img title="[围观]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]"><img title="[围观]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]"></p>
-<p><a href="http://weibo.com/2959014965" target="_blank">@少先队员王半仙</a>：我党优秀的党员分子，国家能源部部长的不明资产，可以给北京所有的中小学配置一套高规格的空气净化器，还有余下的可以带河北雾霾严重地区的中小学来一套 <img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
-<p>@张的小璞：人家说的是政府责任。比如消减一些三公支出来补贴我们的未来。</p>
-<p><a href="http://weibo.com/yuefazhang01" target="_blank">@哨兵007</a>：用党费给领导先装<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
-<p>@LeeVanCleef：任何简单的问题在胡编那都是复杂问题，这就是政治正确性</p>
-<p>@小建锋吃萝卜：这个简单，北 京 政 府部门装了 那学校也得装，如果河 北 政 府部门装了 那河 北学校也要装。</p>
-<p>@一朵云的过客：安不了，其实也理解，但你们主动挑事，事大了又喊别煽情，何必！你们错在两点：你自己都说政治正确了，那你们写个不正确的干嘛？这是其一；人家就事论事，你发个抽烟照来诡辩，避实就虚，挺让人失望的，这是其二……</p>
-<p>@沙门释君：先给幼儿园装，再给小学装，中学大学一步步来，政府早做规划。。。。这样很现实吧，胡狗你说是不是，汪！</p>
-<p>@跳跳虎002：雾霾对幼儿的伤害最大你都不知道吗？当然优先从小学装起。河北装不起北京就不该装？西北很多小孩连像样的教室都没有，北京的孩子也不应该有教室吗？</p>
-<p>@因沙吉：为世界买单可以，为学生买单不行；宁赠友邦，不予家奴//</p>
-<p>@飞至远方：领导们的净化器都是自筹的吗！吃喝玩乐政府有钱，给学生装净化器政府没钱了！</p>
-<p>@沙砾于飞：胡锡进不自量力要为舆论定调，结果反而引发了舆论战。事实证明，在多元开放的网络舆论场上，一家声名狼藉的媒体想要用通过诡辩的方式进行舆论宣传，从而达到压制和操控舆论的目的，这是不可能的。</p>
-<p><strong>@燃烧金属：官员一贪都过亿，一谈民生就哭穷，这盛世还想怎么样？</strong></p>
-<p>@屈老师的财经玩乐汇：我党优秀的党员分子，能源局煤炭司原副司长魏鹏远贪那2个亿，可以给多少学校装净化器？</p>
-<p><a href="http://weibo.com/5336716938" target="_blank">@宇宙真理777</a>： 如果没有互联网，你说现在美国汽油80块钱一升大家也信，你说北京的雾霾是从东京飘过来的大家也信，你说奥巴马每天读毛选大家也信，你说美帝人民水深火热 也有人信你说按回车键能发微博大家也信。。。可是偏偏有了互联网，能怪谁呢？有人说，引进律师和互联网，是天朝两个最大的昏招！<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/423255/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E4%BE%9B/?category=18271" rel="tag">特供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8D%E6%9D%82%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">复杂中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9E%E7%9B%98%E8%83%A1/?category=18271" rel="tag">飞盘胡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/423251/" target="cdt-mirror">美国之音｜中国反恐法为何西方不买账？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/99D0CDAA-60C1-429D-8A4D-1A7CDF954B3A_w640_r1_s.jpg" rel="attachment wp-att-423252"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/99D0CDAA-60C1-429D-8A4D-1A7CDF954B3A_w640_r1_s.jpg" alt="99D0CDAA-60C1-429D-8A4D-1A7CDF954B3A_w640_r1_s" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/99D0CDAA-60C1-429D-8A4D-1A7CDF954B3A_w640_r1_s-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/99D0CDAA-60C1-429D-8A4D-1A7CDF954B3A_w640_r1_s.jpg 640w" sizes="(max-width: 575px) 100vw, 575px"></a><p>中国武警2015年12月27日在北京三里屯巡逻</p></div>
-<p>华盛顿— 中国全国人大常委会12月27日一致通过了中国首部《反恐怖主义法》，该法将从2016年1月1日起正式实施。中国官员表示，制定一部专门的反恐怖主义法，既是现实反恐需要，也是中国履行其国际责任。然而这部法律却在西方备受争议。美国国务院12月28日再度对这部法律表示关切，称该法可能导致对言论、结社、和平集会和宗教自由的进一步限制。中国公安部反恐怖局局长安卫星表示，近年来，受国际恐怖活动频发，中国境内“东突”势力渗透煽动的影响，中国国内面临的暴恐活动威胁日渐突出，“给中国的国家安全、社会稳定、经济发展、民族团结和人民生命财产安全构成了严重的威胁。”</p>
-<p><strong>美国继续表达忧虑</strong></p>
-<p>然而这部法律在起草阶段就备受国际舆论关注和争议。美国政府已多次对该法表示严重关切，美国总统奥巴马甚至当面向中国国家主席习近平表示对中国反恐法的担忧。美国国务院发言人马克·托纳12月28日在例行记者会上对中国反恐法最终通过发表评论时说：“美国对这部法律条款和界定措辞宽泛、空洞并可能导致中国言论、接受、和平集会和宗教自由被进一步限制仍然感到忧虑。我们正继续研究该法的最终文本，并会让中国政府了解到我们的担忧。”</p>
-<p>人权组织“自由之家”(Freedom House)就中国通过反恐法发表声明称，这是中国以反恐为名，限制言论和异议的又一举措。声明说，“新的反恐法扩大了中国政府本已十分广泛的权力去监视公民、收紧审查，给官员合法的借口去关押记者、活动人士和少数民族和少数宗教团体。”</p>
-<p><strong>中国指美国“妄议”，称取法欧美</strong></p>
-<p>对此，中国反驳说，其反恐法是借鉴了西方国家相关法律，批评“美国妄议中国反恐法”。中国全国人大法工委刑法室副主任李寿伟12月27日在记者会上说，“我们在制定反恐怖主义法的过程中，大量查阅资料，包括国外的规定。比如美国、欧盟等的法律，因为反恐工作等需要，都对网络运营商和网络服务商的一些协助义务在法律中有明确的规定。”</p>
-<p>该法最具争议的第十八条规定，电信业务经营者、互联网服务提供者应当为公安机关、国家安全机关依法进行防范、调查恐怖活动提供技术接口和解密等技术支持和协助。</p>
-<p>亲北京的“海外媒体”多维新闻12月28日报道说，“美国这些法律条款与中国反恐法的相关规定几无差异，甚至更为细致、更具强制性，也更容易导致对 个人‘自由’和‘权利’的侵害。”报道还表示，英国、法国、日本和俄罗斯等国的相关法律也有类似规定，未见中国反恐法有与他国明显不同的“越位”迹象。</p>
-<p><strong>人权活动人士：法制环境不同，实施效果亦不同</strong></p>
-<p>前中国知名维权律师、目前在美国哈佛大学作访问学者的滕彪表示，即使中国反恐法文本与西方民主国家相关法律完全一致，但由于制度环境和法治状况完全不一样，因此其实施效果会完全不一样。他说：“简单来说，在西方国家它有独立的司法体系，它有权力的相互监督，包括政党竞争，包括独立的新闻媒体进行监督。因此出于反恐的需要（西方国家政府）对信息的限制和公民信息的监视不会导致严重的后果。”</p>
-<p>国际特赦组织(Amnesty International)东亚地区负责人林伟(Nicolas Bequelin)12月27日对法广也表达了类似看法，即就算是中国的反恐法与美国的反恐法完全相同，法律执行的框架不同，其实施效果也自然不同。他说：“在西方，即使是在反恐领域，也会有反对党及人权组织对政府的越权行为拉响警告，而在中国，没有任何制度或者机构能够保障政府不会将这些个人信息用来作为政治打压的工具，对记者以及活动分子进行进一步监控。”除此之外，林伟首先指出，美国的反恐法并不是一个很好的参照。</p>
-<p>虽然中国反恐法第六条规定，反恐怖主义工作应当依法进行，尊重和保障人权，维护公民和组织的合法权益，但没有进一步解释将如何尊重和保障人权，以及如何维护公民和组织的合法权益。</p>
-<p><strong>最终文本体现一定妥协</strong></p>
-<p>值得一提的是，中国反恐法在草案阶段曾要求外国科技公司把用户数据和服务器留在中国大陆境内，并向中国政府提供加密系统备查，否则这些企业将无法在中国运营。在最终文本中，这一规定并未体现。这一规定在草案公布之初遭到了美国科技公司和政府的强烈反对。今年3月，美国总统奥巴马在接受路透社采访时表示，如果中国想要和美国做生意，那么中国必须修改这些规定。</p>
-<p>此外，草案第104条将恐怖主义的定义为“企图通过暴力、破坏、恐吓等手段，引发社会恐慌、影响国家决策、制造民族仇恨、颠覆政权、分裂国家的思想、言论和行为。”而最终文本对恐怖主义的定义是“通过暴力、破坏、恐吓等手段，制造社会恐慌、危害公共安全、侵犯人身财产，或者胁迫国家机关、国际组织，以实现其政治、意识形态等目的的主张和行为。”</p>
-<p>虽然最终文本对恐怖主义的界定依然宽泛模糊，但可以看出“企图”、“制造民族仇恨、颠覆政权、分裂国家的思想、言论”等，将恐怖主义的定义无限扩大的字眼已被替换。</p>
-<p>香港时事评论员何亮亮认为，中国政府注意到了这些反应。“我觉得中国方面考虑到了如果一定要通过这样一个条文会引起一个比较激烈的反弹，（因此）中国政府是做出了一定妥协的。”他说。</p>
-<p><strong>驱逐法记者，警示外媒不得妄议</strong></p>
-<p>在中国通过并即将实施其首部《反恐怖主义法》之际，法国杂志《新观察家》(L’Obs)驻北京记者郭玉(Ursula Gauthier，又名高洁)因在一篇报道中指称新疆维吾尔人的暴力行为是来自于政府强硬的民族政策，而不是纯粹意义的恐怖主义，遭中国政府拒绝延期记者签证。中国政府指责郭玉的报道同情恐怖主义。</p>
-<p>中国反恐法第六十三条规定，“任何单位和个人不得编造、传播虚假恐怖事件信息……除新闻媒体经负责发布信息的反恐怖主义工作领导机构批准外，不得报道、传播现场应对处置的工作人员、人质身份信息和应对处置行动情况。”</p>
-<p>等同于遭到中国政府驱逐的郭玉认为，这等于是“你说的或写的任何东西，只要在中国眼中是鼓励恐怖主义，那就是违法的。”</p>
-<p>金融时报中文网12月28日刊登了法国社会科学高等研究院社会学博士生、杭州师范大学钱江学院教师陈振铎的一篇观点文章。作者认为，郭玉的原文未报道中国官方立场，称“除了引用美国政府资助的自由亚洲电台(RFA)早先的非正式消息‘中国击毙妇女和小孩，认为他们是恐怖分子’等消息外，还用各种似是而非的消息借题发挥”。</p>
-<p><strong>中国亦需反思</strong></p>
-<p>这篇偏向于中国政府立场的文章说，中国的反恐行动得不到国际认可除“部分媒体偏见和敌对使然，还涉及利益和观念的博弈”。陈振铎称，中国的信息传播方式和对外话语习惯仍沿用旧式宣传思维和强硬民族主义立场使中国正在输掉国际反恐的舆论战。</p>
-<p>香港的时事评论员何亮亮也认同这种看法。“一方面中国舆论在讲述这些问题的时候确实是常常比较拙劣的，即使有道理也讲不清楚，”他还批评说，“但有时候它们也没有对西方的观点去进行探讨，到底为什么西方人会持这样一个观点。”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/423251/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">恐怖组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%B3%95/?category=18271" rel="tag">反恐法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%B4%81/?category=18271" rel="tag">高洁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%8E%E5%A4%8F%E6%97%B6%E6%8A%A5-%E4%B8%80%E5%90%A8%E7%85%A4%E5%8D%96%E4%B8%8D%E8%BF%87%E4%B8%80%E6%96%B9%E6%B2%99%E5%AD%90-%E5%B1%B1%E8%A5%BF%E8%B6%85%E5%85%AB%E6%88%90%E5%8E%BF%E5%8F%91/" target="cdt-mirror">华夏时报 | 一吨煤卖不过一方沙子 山西超八成县发不了工资</a>
-</h2>
-<p><p>本报记者 杨仕省 北京报道</p>
-<p>“总经理、副总经理都出去卖煤了。”12月24日，山西省一家煤炭企业的内部人士这样告诉《华夏时报》记者，很多煤炭企业正在困境中寻求出路。这只是8年3.1万亿巨额投资和50多亿吨超级产能下，中国煤炭行业从“黄金时代”到“铁锈时代”的一个缩影。</p>
-<p>记者采访山西、内蒙古、陕西、四川等多家煤企得知，对煤炭产业及其500多万煤矿职工来说，更严酷的冬天还在后头。</p>
-<p>“产能过剩折射出当下中国企业存在的深层次、结构性矛盾。”资深煤炭分析师李朝林向记者指出，但最大的问题是，这些企业下一步如何停下来、退出来。</p>
-<p><strong>最冷的冬天</strong></p>
-<p>受国内外形势影响，山西的煤价自2013年开始遭遇重创，而从2014年7月起，山西煤业连续12个月亏损。这股寒流一直持续至今，今年前三季度，全省煤企盈亏相抵净亏损70.37亿元，欠发职工工资35亿元，欠缴社会保险109亿元。<strong>“山西有119个县，目前有103个县发不了工资。”一位不愿具名的山西官员告诉《华夏时报》记者，山西的经济糟糕得可想而知。</strong></p>
-<p>从2002年开始，煤炭行业进入“黄金时代”，煤价从当初不足200元/吨一路飙至2008年7月的1070元/吨，之后因金融危机回落，2009年8月再度进入上升通道，作为市场风向标的环渤海动力煤价在2011年最高达到853元/吨。</p>
-<p>“那时成交价超千元的不是新鲜事儿，甚至得找关系、批条子。”山西晋煤集团下属企业的一个销售主管对记者说，目前的煤炭价格已经不如土豆价，多地的坑口吨煤价格卖不过一方沙子的价格。</p>
-<p>记者调查发现，今年这个严冬，其他地方煤企的日子同样过得异常艰难。“正是冬季用煤旺季，内蒙古、山西、陕西、宁夏等地的多个煤矿，颇为冷清，最多只有两三辆运煤车在装煤。”24日下午，5年前接受过记者采访的运煤货车司机胡军回忆说，光景好的时候，至少要排几小时队，赶上高峰期等上两三天也是常事，但而今10分钟就能装好一车煤炭。</p>
-<p>断崖式下跌的煤价，也正吞噬着企业利润。仅今年前三季度，全国规模以上煤炭企业利润同比下降64.4%，行业亏损面达80%以上，而四季度或更糟。今年前10个月，煤炭库存已连续46个月超过3亿吨，国有煤炭企业整体由去年盈利300亿元转为亏损223亿元，黑、吉、辽、冀、鲁、皖六个省出现全行业亏损。</p>
-<p><strong>根本停不下来</strong></p>
-<p>“产能扩张太快了。”许多煤企负责人抱怨说。2006年以来，全国煤炭采选业固定资产累计投资3.6万亿元，新增产能30亿吨，而到今年全国煤炭产能逾40亿吨，在建项目规模超过10亿吨。正如一位煤炭分析师估计，“煤炭建成和在建产能超过50亿吨，至少有3亿至4亿吨过剩。”</p>
-<p>“产能严重过剩是煤炭产业当前最主要的问题。”24日，山西省经济转型与企业发展研究会秘书长朱启远对本报记者说。</p>
-<p>“在山西，有的煤企新上的项目科技含量低、安置人员多，结果成了低效、闲置资产。”山西一位处级官员告诉记者，过剩是最大症结。该官员说，山西是典型的资源型省份，煤焦冶电四大产业占工业增加值的85%以上，几乎所有的产业都产能过剩。</p>
-<p>“为稳增长，很多地方上了很多不该上的项目。”据朱启远最近在全国多个省市考察发现，国内许多煤炭企业宁可让价格，也决不让市场，也决不让企业停下来，如此使得供给进一步过剩，价格进一步下跌，最终陷入恶性循环。</p>
-<p>但山西某煤矿企业负责人青永龙却告诉记者，不愿让市场、不愿停产的原因较为复杂，比如不正常生产就很难从银行获得贷款，原有的市场也许被别的企业抢走，因此很难减产、停产。“一旦减产或停产，企业运行、人员开支、社会稳定等问题便接踵而来。”</p>
-<p>山西就是“停不下来”的绝好例证。</p>
-<p>公开数据显示，山西省属五大煤企的银行贷款均达到千亿以上。截至6月底，这五大煤炭省属企业资产负债率78.5%，利息支出174.5亿元，同比增长19.3亿元。“阳煤今明两年处于还贷高峰期，2015年还款280亿元，2016年更是高达460亿元。”山西阳煤的一位管理者说，一旦停下来的后果可想而知。</p>
-<p>企业的负担何止这些。据记者了解，几十年来形成的煤矿人员退休金统筹费用全由煤炭企业承担，那是一笔巨大的开支。</p>
-<p>“产能过剩折射出当下中国企业存在的深层次、结构性矛盾。”李朝林认为，接下来最大的问题是这些企业如何停下来、退出来。</p>
-<p><strong>无路可退</strong></p>
-<p>“煤炭企业到了需要啃下硬骨头的时候了。”李朝林认为，当前煤炭产业已到危急时刻，如果不采取标本兼治的果断措施，产业困境的风险还将大大增加。“煤炭产业要实现持续健康运行，根本出路还是要靠改革、靠发展，去产能，加快转型升级。”李朝林说。</p>
-<p>国务院总理李克强已开出了治病的处方：对旧动能要下决心淘汰一批，更多地改造、升级一批；要有勇气对“僵尸企业”、“绝对过剩产能”的企业狠下刀子。</p>
-<p>“这算是找对了病根子。”李朝林说，这意味着煤矿退出机制等一系列政策的即将出台，无疑会使得整个行业迎来新一轮兼并重组潮。</p>
-<p>“应鼓励企业通过控股或参股，真正实现煤电一体化。”国家发改委副主任连维良日前在2016年度全国煤炭交易会上也表态说，目前我国30万吨/年以下的小煤矿还有7000多处，产能为5.7亿吨/年，需要加快兼并重组。</p>
-<p>在记者的采访中，山西、四川的一些民营煤老板表现出自己的煤矿被整合的诉求，但很多煤矿涉及民间融资和高额的债权债务而脱不了身，因此退出机制如何制定至关重要。</p>
-<p>12月21日闭幕的中央经济工作会议提出，要依法为实施市场化破产程序创造条件，提出和落实财税支持、不良资产处置、失业人员再就业及专项奖补等政策。</p>
-<p>“这样通过国家层面的帮助，地方把给僵尸企业、僵尸产能的巨额补贴用能鼓励企业破产、产能退出，实现有序平稳退出。”我的钢铁网分析师徐向春告诉记者，企业无法顺利实现破产和出清，一直是饱受诟病的问题。徐向春认为，这是中国产能过剩的症结所在，因此迫切需要制定出明确的出清制度。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%8D%8E%E5%A4%8F%E6%97%B6%E6%8A%A5-%E4%B8%80%E5%90%A8%E7%85%A4%E5%8D%96%E4%B8%8D%E8%BF%87%E4%B8%80%E6%96%B9%E6%B2%99%E5%AD%90-%E5%B1%B1%E8%A5%BF%E8%B6%85%E5%85%AB%E6%88%90%E5%8E%BF%E5%8F%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">社会稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9/?category=18271" rel="tag">产能过剩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E7%A0%B4%E4%BA%A7/?category=18271" rel="tag">企业破产</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E6%89%93%E5%BC%80%E6%80%A7%E9%AA%9A%E6%89%B0%E6%A1%88%E4%BB%B6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F/" target="cdt-mirror">女权之声 | 打开性骚扰案件的正确方式</a>
-</h2>
-<p><p>原标题：打开性骚扰案件的正确方式| 科学界的人文奖与人文界的耻辱奖</p>
-<p>作者：李昀</p>
-<p>女权之声编者按：</p>
-<blockquote><p>去年曾引发全国关注的性骚扰多名女学生、已被取消教职的厦门大学教授吴春明，近日被发现出现在中国社会科学网公布的一份“中国考古学会新石器时代考古专业委员会”名单上。这个消息一出，质疑声也随即而来。学术领域的性骚扰主角为何仍然可以堂而皇之出任要职？性骚扰仅仅是个道德问题，可以与学术资源的获取独立分割吗？</p>
-<p>本文为我们介绍回顾了今年在美国天文科学领域发生的一起类似的性骚扰案件。如何对待与处置把握资源与权力的性骚扰者，如何更大范围保护女性以及弱势者的权利，让女性学生和研究者更好更安全地在她们的领域里发展自我，或许我们能从不同的处理做法中得到启发和进步。</p></blockquote>
-<p>如果给人文学界设个耻辱奖，今年的奖项绝对要颁给中国考古学会新石器时代考古专业委员会。因为它太露脸，在明知吴春明因性骚扰被厦门大学处分的情况下，依然顶风选取吴为委员。陪奖的则应该是澎湃，它邀请了“著名教育专家”熊丙奇就此事件发文，提出貌似客观、公允、理性的讨论——学术应不应该与道德挂钩，并得出结论“道德的归道德，学术的归学术。”拜托，性骚扰根本就不是道德问题好吗！</p>
-<p>与此相反的是，国际自然科学界最近颁发了一个人文学奖，在《自然》杂志选出的2015年度十大重要人物中，有四位女性获选，其中两位是因为她们在社区和科学方面的双重贡献。其中的一位就是乔安·西麦兹（Joan Schmelz)，获选的理由是“为女性发声。”</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-%E4%B8%8B%E5%8D%885.50.22.png" alt="Screen Shot 2015-12-29 at 下午5.50.22" width="550" height="363" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-下午5.50.22-300x198.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-下午5.50.22.png 625w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><span>乔安·西麦兹，太阳物理学家，美国天文学会妇女地位委员会主席</span></p>
-<p>作为资深的天文学家，西麦兹揭开了杰夫·马西(Geoff Marcy)性骚扰案，最终让马西被迫辞职。马西是什么人物？这位天文学界的前大牛（现在是臭名昭著的性骚扰者）是著名的外星人跟踪者，加州大学伯克利分校的终身教授。至于多大牛？这么说吧，NASA的开普勒太空望远镜和北加州里克观察站“自动星球发现者”（注：一种地面望远镜）等随时任他调遣，用来专职寻找E.T，他还刚于今年7月接受了俄罗斯神秘大亨的一笔一亿美元的研究经费。</p>
-<p>不只是西麦兹，整个美国天文学会都参与了这次事件，从而让此事成为2015年度全球科学界最受关注的性别事件。第二受关注的是蒂姆·亨特，他被伦敦大学解除荣誉教授的职务，同时被赶出皇室生命科学奖委员会。这位2001年的诺贝尔医学奖获得者，于6月10在韩国举行的世界科学杂志作者大会上大放厥词：“让我来告诉你们我有多烦女生。如果实验室里有女生存在，只会发生三件事……你爱上她，她爱上你，或者你批评她们的时候她们大哭”。</p>
-<section><strong><span data-brushtype="text">学术机构打开性骚扰案件的正确方式：</span></strong>案件重现</section><section></section><section><section data-id="32290"><section><section><section><section><section data-bcless="darken" data-brushtype="text"><strong>第一步：不遮掩事件</strong></section><section></section></section></section></section></section><section></section></section><p>事情的起因是，几位年轻的女天文学家告诉西麦兹她们受到了性骚扰。西麦兹是“美国天文学会妇女地位委员会”的主席，她告诉她们她还听到过其他的类似投诉，指向的都是同一个人。</p>
-<p>西麦兹年轻的时候也受到过导师的骚扰，但是她对那时的回忆是“我非常孤独，不知道找谁倾述”。直到1991年，美国律师安妮塔·希尔控告提名美国最高法院法官的克莱伦斯·托马斯性骚扰，她才明白自己的遭遇究竟是怎么回事。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-%E4%B8%8B%E5%8D%885.53.40.png" alt="Screen Shot 2015-12-29 at 下午5.53.40" width="357" height="501" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-下午5.53.40-214x300.png 214w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-下午5.53.40.png 357w" sizes="(max-width: 357px) 100vw, 357px"></p>
-<p><span>杰夫·马西</span></p>
-<p>2011年，西麦兹在天文学会妇女地位委员会的网站上连续发表博客，马西事件逐步浮出水面。“有一段事件，我不断在想我们究竟能走多远——我联系了很多人，包括社区领袖们，看看我们能为这些女性做些什么。”她把各方力量联合起来，大家按照联邦法律Title IX——“禁止接受联邦资助学校内的性别歧视”——起草了一份投诉报告，于2014年递交给了伯克利校方。</p>
-<p>事情爆出来以后，伯克利和其他地方的天文学大牛们纷纷站出来，公布了一份有200人签名的请愿书，表示支持受害女性，要求严惩施害者。</p>
-<section data-id="32290" data-color="rgb(30, 155, 232)" data-custom="rgb(30, 155, 232)"><section><section><section><section><section data-bcless="darken" data-brushtype="text"><strong>第二步：不姑息侵害者</strong></section><section></section></section></section></section></section><section></section></section><p>接到投诉后，伯克利官方立即展开调查，并于2015年6月完成了一份未公开的调查报告，证实马西在2001年到2010年期间多次违反学校的反性骚扰政策，骚扰多名学生。10月7日，马西在学校官网上就自己的行为道歉，表示“我为自己的行为及其产生的影响负全责，愿意接受任何处罚”。10月9日伯克利的官方发言人发表声明，强调“我们认为此事性质严重，学校已经对其进行了严厉的处罚”。</p>
-<p>该处罚要求马西与学校官方签署一份保证书，主要内容是“留校察看，明确规定其未来与学生接触的行为举止”。如果违背这些保证“将受到严厉制裁，包括停职甚至解聘”。学校官方的解释是，校方无法杜绝教师的不当行为，“学校认为，建立限制他与学生课内外交往的行为规范，并要求他如果违反协议自动放弃程序权利，已经是最确实有效用来防范未来一切不当行为的选择了。”</p>
-<p>但是，声明中没有对马西过去的行为进行处罚，这引起了天文学家们的一片嘘声。华盛顿大学的天文物理学家朱莉安·达坎通立即站出来，指出如果让马西继续担任教职接触学生，将是“不道德的”。</p>
-<p>马西的同事也希望学校能对他给予更严厉的处罚。10月12日，天文学系几乎所有的老师发布了一份联署声明，要求马西离职。该系的研究生和博士后研究人员也纷纷递交各种声明，要求隔离马西与本科生的接触。</p>
-<p>加州大学天文台的主任卡莱尔·麦克斯联合加州大学圣克鲁兹分校的天文学系也发表声明，他们指出：“学生对老师和导师充满信任”，“任何破坏这种信任的行为都将破坏我们的相应职责、调查进行和表达的自由”。</p>
-<p>最终马西辞职了。</p>
-<section data-id="32290" data-color="rgb(204, 164, 227)" data-custom="rgb(204, 164, 227)"><section><section><section><section><section data-bcless="darken" data-brushtype="text"><strong>第三步：改变体制</strong></section><section></section></section></section></section></section><section></section></section><p>但是事情并未就此结束。开除了马西之后，美国天文学会在各高校天文学系展开了关于不当行为的公开讨论。达坎通认为像这样著名的事件不能就过去了，应该借此推动改善女性在天文学界的地位。“如果更多的人更深刻地认识到，像这样备受欢迎和尊重的人都可能破坏甚至毁掉年轻科学家的前途，也许我们才能更好地推动事情发展，让更多的人参与到解决问题中。”</p>
-<p>2014年公布的一份学术领域经验调查显示，科学研究领域的性骚扰非常普遍，大多针对初入门的女性，联邦法院此前也有接到其他女性研究者的起诉案件。</p>
-<p>美国天文学会在反对性骚扰问题上非常积极，绝不姑息。他们于2008年制定了反性骚扰政策，成为其他学会效仿的模板；还开设了“女天文学家博客”联盟，提供关于薪酬谈判、反对职场凌霸等建议；建立“天文学联盟成员系统”，为参加天文学活动的人员提供安全交通。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-%E4%B8%8B%E5%8D%885.56.52.png" alt="Screen Shot 2015-12-29 at 下午5.56.52" width="439" height="194" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-下午5.56.52-300x133.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-29-at-下午5.56.52.png 439w" sizes="(max-width: 439px) 100vw, 439px"></p>
-<p><span>2014年12月11日的Google Doodle展示了安妮·詹普·坎农，美国女天文学家，恒星光谱先驱者之一。</span></p>
-<p>西麦兹还想推动在学校和学术组织里建立长期的性骚扰投诉档案记录。“我不知道未来还会不会发生类似事件”，但是很多机构根本没有性骚扰记录，同一个骚扰者即使被多次投诉也可能无法追查。她说：“让我们寻找方法，减轻女性在学术界的压力，让她们可以集中精力从事研究、撰写论文，无需承担任何额外负担。让我们改变现有体制。”</p>
-</section><hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E6%89%93%E5%BC%80%E6%80%A7%E9%AA%9A%E6%89%B0%E6%A1%88%E4%BB%B6%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E4%B8%91%E9%97%BB/?category=18271" rel="tag">学术丑闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">女性权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">女权之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E9%AA%9A%E6%89%B0/?category=18271" rel="tag">性骚扰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%95%8C/?category=18271" rel="tag">学术界</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/423172/" target="cdt-mirror">文山娃：中國文人的“金蓮”情結——微博名士口業小錄</a>
-</h2>
-<p><p>於中華傳統，有些個男性學者們繼承得最好的，恐怕就是“金蓮文化”——把對著女性比拼把玩色情文字的技巧，視為雅。</p>
-<p>【上流文人 下流表達 】</p>
-<p>老左識途：共青團網絡智庫專家 歐美同學會會員 微博社區專家委員<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/562D0BBC-AACC-45D6-A91F-17111FA4FD1D.jpg" rel="attachment wp-att-423181"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/562D0BBC-AACC-45D6-A91F-17111FA4FD1D.jpg" alt="562D0BBC-AACC-45D6-A91F-17111FA4FD1D" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/562D0BBC-AACC-45D6-A91F-17111FA4FD1D-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/562D0BBC-AACC-45D6-A91F-17111FA4FD1D.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>戴旭：團中央網絡智庫專家 微博社區專家委員<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/92EB135F-E754-492F-9890-A1AB22A780DD.jpg" rel="attachment wp-att-423179"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/92EB135F-E754-492F-9890-A1AB22A780DD.jpg" alt="92EB135F-E754-492F-9890-A1AB22A780DD" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/92EB135F-E754-492F-9890-A1AB22A780DD-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/92EB135F-E754-492F-9890-A1AB22A780DD.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>點子正：團中央網絡智庫專家 前新華社記者 瀋陽城市學院兼職教授<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/8F6AE7FA-AE1F-4AE5-8691-83402E2D6BAE.jpg" rel="attachment wp-att-423176"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/8F6AE7FA-AE1F-4AE5-8691-83402E2D6BAE.jpg" alt="8F6AE7FA-AE1F-4AE5-8691-83402E2D6BAE" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/8F6AE7FA-AE1F-4AE5-8691-83402E2D6BAE-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/8F6AE7FA-AE1F-4AE5-8691-83402E2D6BAE.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>郭松民：前 空軍飛行員 《國企》雜誌研究部主任<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/ADDE9A76-F092-453A-95D0-F23573E452E6.jpg" rel="attachment wp-att-423184"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/ADDE9A76-F092-453A-95D0-F23573E452E6.jpg" alt="ADDE9A76-F092-453A-95D0-F23573E452E6" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/ADDE9A76-F092-453A-95D0-F23573E452E6-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/ADDE9A76-F092-453A-95D0-F23573E452E6.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>椒江葉Sir：台州市公安局椒江分局民警 新浪微博社區專家委員 浙江最美警察候選人<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/466973AD-180D-438A-BC0D-F18626402F28.jpg" rel="attachment wp-att-423182"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/466973AD-180D-438A-BC0D-F18626402F28.jpg" alt="466973AD-180D-438A-BC0D-F18626402F28" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/466973AD-180D-438A-BC0D-F18626402F28-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/466973AD-180D-438A-BC0D-F18626402F28.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>老辣陳香：台州市委宣傳部幹部<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/40F63163-813B-40FA-AF62-59F06045CB4D.jpg" rel="attachment wp-att-423178"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/40F63163-813B-40FA-AF62-59F06045CB4D.jpg" alt="40F63163-813B-40FA-AF62-59F06045CB4D" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/40F63163-813B-40FA-AF62-59F06045CB4D-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/40F63163-813B-40FA-AF62-59F06045CB4D.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>孤煙暮蟬：惠州公務員<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/115D9E55-2D72-4621-B52F-8833A8B6EBE4.jpg" rel="attachment wp-att-423180"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/115D9E55-2D72-4621-B52F-8833A8B6EBE4.jpg" alt="115D9E55-2D72-4621-B52F-8833A8B6EBE4" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/115D9E55-2D72-4621-B52F-8833A8B6EBE4-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/115D9E55-2D72-4621-B52F-8833A8B6EBE4.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/0B35A052-5B15-43CB-BE51-9505A979A9DC.jpg" rel="attachment wp-att-423173"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/0B35A052-5B15-43CB-BE51-9505A979A9DC.jpg" alt="0B35A052-5B15-43CB-BE51-9505A979A9DC" width="440" height="1116" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/0B35A052-5B15-43CB-BE51-9505A979A9DC-404x1024.jpg 404w, http://chinadigitaltimes.net/chinese/files/2015/12/0B35A052-5B15-43CB-BE51-9505A979A9DC.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>郝連勃勃大王：國家一級作家 央視《百家講壇》主講<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/B1C449FC-74B6-42C4-97D1-0C2AC30B208E.jpg" rel="attachment wp-att-423185"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/B1C449FC-74B6-42C4-97D1-0C2AC30B208E.jpg" alt="B1C449FC-74B6-42C4-97D1-0C2AC30B208E" width="440" height="782"></a></p>
-<p>胡楊麟：民間武裝運動導師<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/8BCFE88C-A7C1-48B6-AFC5-C453CA0F6BA5.jpg" rel="attachment wp-att-423175"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/8BCFE88C-A7C1-48B6-AFC5-C453CA0F6BA5.jpg" alt="8BCFE88C-A7C1-48B6-AFC5-C453CA0F6BA5" width="440" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/1AB7DEF2-C0C8-49DD-B364-A37E43C01AEA.jpg" rel="attachment wp-att-423174"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/1AB7DEF2-C0C8-49DD-B364-A37E43C01AEA.jpg" alt="1AB7DEF2-C0C8-49DD-B364-A37E43C01AEA" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/1AB7DEF2-C0C8-49DD-B364-A37E43C01AEA-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/1AB7DEF2-C0C8-49DD-B364-A37E43C01AEA.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>紀許光：前山東平度政府參事 美國華埠 『移民報』主編<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/A18F6539-76B7-495B-B9F8-0937F0963267.jpg" rel="attachment wp-att-423183"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/A18F6539-76B7-495B-B9F8-0937F0963267.jpg" alt="A18F6539-76B7-495B-B9F8-0937F0963267" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/A18F6539-76B7-495B-B9F8-0937F0963267-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/A18F6539-76B7-495B-B9F8-0937F0963267-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2015/12/A18F6539-76B7-495B-B9F8-0937F0963267.jpg 640w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>蔡小心：微博社區專家委員會成員 著名紅二代（註：核心）<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/31A4B08E-CA7E-4D33-B87F-E98CAA48DA4C.jpg" rel="attachment wp-att-423177"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/31A4B08E-CA7E-4D33-B87F-E98CAA48DA4C.jpg" alt="31A4B08E-CA7E-4D33-B87F-E98CAA48DA4C" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/31A4B08E-CA7E-4D33-B87F-E98CAA48DA4C-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2015/12/31A4B08E-CA7E-4D33-B87F-E98CAA48DA4C.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>上述公共知識份子，多有共青團智庫背景，亦多為新浪倚重并延請為微博社區專家委員。</p>
-<p>由此可見，團宣頗看中思想開放、語言犀利的人才。7月間，文登侯聚森等五人因打架被公安处理，一群古惑仔揮霍青春而已，結果變成今年比較重要的愛國示威遊行。最大的看点是舉國團宣的表現，紛紛表態力挺文登侯：一個有黃色語言天賦的紅色小孩。</p>
-<p>微博名士嘯聚，捫虱座談風月。</p>
-<p>坊間有詩贊這一時之盛：</p>
-<p>俱往矣！數下流人物，還看今朝。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/423172/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%B9%E5%AD%90%E6%AD%A3/?category=18271" rel="tag">点子正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%97%AD/?category=18271" rel="tag">戴旭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%9D%A8%E9%BA%9F/?category=18271" rel="tag">胡杨麟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%A1%E7%94%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">御用五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国好网民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +595,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +605,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

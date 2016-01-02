@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%9C%BA%E5%95%86linode%E8%A2%AB%E5%85%B3%E9%94%AE%E5%AD%97%E5%B1%8F%E8%94%BD/" target="cdt-mirror">月光博客｜知名主机商Linode被关键字屏蔽</a>
+</h2>
+<p><p>知名海外主机供应商Linode被中国屏蔽，目前已经无法访问，屏蔽的方法是域名关键字屏蔽（被屏蔽的关键字是.linode.com）和IP地址屏蔽。</p>
+<p>Linode是国外非常著名的VPS商之一，成立于2003年，办公地点在新泽西。所提供的VPS主机服务颇多好评，在国内站长圈中颇受推崇。</p>
+<p>Linode的VPS在业界有着较高的信誉评价，在国外和国内用户中的口碑不错，价格适中。Linode提供很多了原生的系统，装好基本的系统之后，可以根据自己的需求随便安装什么软件。对于中国用户来说，其机房访问速度相当快，用其做VPN可以带来很好的上网体验。</p>
+<p>几天前，Linode曾经遭到过大规模的DDoS攻击，导致其web服务的访问受影响，其中API调用和管理功能依然部分不可用，对于DDoS攻击的原因不得而知。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/4468_1.jpg" rel="attachment wp-att-423649"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4468_1.jpg" alt="4468_1" width="455" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4468_1-300x293.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/4468_1.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
+<p>对于Linode被封的原因，有可能因为Linode提供的价格较为低廉的VPS可以让中国用户搭建VPN或ShadowSocks，用于科学上网， 但这从法律上来说也存在争议，比如商店出售的刀具可以用来伤人，那么是否商店就该封？Linode提供的主机服务本身是否违法中国法律还有争议，阿里巴巴 也提供了海外主机服务，只是价格贵一些而已，这种对于商业网站的肆意屏蔽并不符合国际通用的贸易准则，对中国的互联网发展并无益处。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%9C%BA%E5%95%86linode%E8%A2%AB%E5%85%B3%E9%94%AE%E5%AD%97%E5%B1%8F%E8%94%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">科学上网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BDvpn%E9%81%AD%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">外国VPN遭屏蔽</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%9D%9B-%E7%BA%A2%E4%BA%8C%E4%BB%A3%E6%B7%A1%E5%87%BA%EF%BC%8C%E8%B5%B5/" target="cdt-mirror">美国之音｜何清涟：中国政坛——红二代淡出，赵家人恒在</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c.jpg" rel="attachment wp-att-423639"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c.jpg" alt="6d0b6b33gw1ezj1xvakgqj20zk0qo79c" width="525" height="394" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c.jpg 1024w" sizes="(max-width: 525px) 100vw, 525px"></a><br><em>（图片来源：新浪微博@郑维）</em></p>
+<p>2015年的最后一天，中国国防部宣布原总后政委刘源上将退休，为各种有关其前途猜测划上终止符。目前，军改后一级指挥官陆续到任，在已公布的名单中，军中27名在役“红二代”将军，目前只有秦天（秦基伟儿子）获武警部队参谋长一职。这些消息表明“红二代”正在淡出中国政坛。这一淡出过程，应该是习近平借自然规律（年龄上限）而促成的政治安排，江胡两朝“红二代”纵横政坛、国企、军界的鼎盛时期终结。</p>
+<p><strong>江胡20</strong><strong>年：红二代的鼎盛时期</strong></p>
+<p>习近平接任中共掌门人之后，2013年10月15日为其父习仲勋在人民大会堂举办了百年冥寿纪念会，中共红色家族每家派一代表出席，外界与红二代均认为这是邀请红二代“咸与新政，共掌朝纲”之意，认为从此中国是红色家族当家。对此，我一直心存怀疑。遍数党政军国企各界的当家人并计算年龄，再考虑时势（习近平集权需要），不得不对这一看法打个大大的问号。</p>
+<p>从中共建政开始，毛泽东等就开始考虑“红色接班人”问题，但因高层子弟年龄，在文革前真正进入接班人序列的只有毛泽东的儿子毛岸英，李鹏等只算是一匹“黑马”，原来打算当技术专家培养。</p>
+<p>毛泽东对长子毛岸英的培养颇有清朝康熙大帝让诸王子到“基层”办差历炼之风。因此，毛岸英的资历丰富：在苏德战争中参过战，回国后在共军占领的解放区发动过土改、并在情报部门任过职，还到工厂当过厂级管理干部。只是天不假年，1950年11月在朝鲜志愿军司令部遭空袭阵亡。毛泽东只好培养公主李讷与皇侄毛远新，李讷27岁时，就任《解放军报》总编辑，成为十大全国代表，1975年官至北京市委副书记。毛的侄子毛远新27岁官至省部级，但因毛去世后的政变，没接成班。</p>
+<p>毛家子弟成了红色接班人，其他追随毛打江山的元老子弟也念兹在兹，思谋接班。只是因为年龄缘故，文革时期，这些红二代一部分人在读大学，一部分人在读中小学。但做红色接班人的愿望却一度形成爆发式表述，比如北京高干子弟组成的红卫兵组织“联动”，其口号就是“老子英雄儿好汉、老子反动儿混蛋”。后来江青等将“联动”列为反动组织时，批判该组织的高干子弟“头脑中的特权思想，‘自来红’观念大大膨胀”。当时红色阶级中的底层人民为此很高兴，但没有意识到，江青领导的中央文革要批判这群高干子弟的特权思想，只是因为这部分人的父母属于被打倒对象，针对他们“想保爹、保妈、保自己”的政治意图，并非真是要清除什么特权思想。</p>
+<p>红二代们集体接班这一梦想，在江泽民、胡锦涛时期得到全面落实。从江时期开始，中央部委、国企、军队的红二代们大都稳步升迁。当然，这种照顾并不能保证每位红二代都官至厅局级乃至更高位，因各种原因屈居处级的也有不少，但这并不能否定红二代得到特殊照顾这一事实。任何朝代，有权有势的职位都有限，连一个皇帝留下的后人，都荣辱有别，更何况只有红色这一共同印记的阶层。</p>
+<p>未能进入党政部门、军界、国企的红二代们，还有全国人大、政协荣职恭候。江时期由于政治考虑，毛家、胡家有人未进入政协、人大系列，但到了胡锦涛时期，朝廷恩泽普降，李讷终于进了全国政协。人大政协两会，终于成了历代权贵世家子弟朝廷观礼的贵宾包厢。</p>
+<p>可以说，江胡两朝，终于实现了毛泽东与其战友们的共同理想：“天下者我们的天下，国家者我们的国家；社会者，我们的社会；我们不说，谁说？我们不干，谁干？”还有一句只干不说的，那就是“我们不拿，谁拿？”李鹏的千金，有公主CEO之称的李小琳有那么一段时期，将“两会”当作穿昂贵高级时装及拎名牌手袋走秀的T台。</p>
+<p>有关部分红色权贵家族成为巨富的故事，江湖从未绝迹。但那只是“传说”，谁想做成实打实的调查新闻，还真是不得其门而入。</p>
+<p><strong>红二代成为话题是中外媒体卷入权争的结果</strong></p>
+<p>江胡时期，历史终于等来了千载难逢的机会，那就是十八大之后的权力斗争。从古到今，这种仗一旦开打，就是“开弓没有回头箭”，不折腾出个胜负来，决计收不了场。在胜负决战中，外国媒体（主要是英文）与海外一些华文媒体，就因缘际会，得到不少曝光中共内部最高机密的机会。</p>
+<p>《纽约时报》得到的温家财富故事线索成就了该报记者荣获新闻界的最高荣誉普利策奖。除了该报与彭博社曝光的习近平姐姐家庭的个展之外，最全面的灰色财富故事展览，当属2014年1月21日国际调查记者联盟（ICIJ）所公布的那份《中国离岸金融报告解密》，那里面除了江泽民、周永康、曾庆红等少数几家子弟的公司未列名其上，习、胡、温、邓、李等五家新老政治局常委与其他上百位中共高干子弟公司资料的均列于其上。虽然该报告在中国大陆被封杀，但其意义之重大，远远超出“权力斗争产物”的范围。因为《中国离岸金融解密》向世界揭示了中共政治集团的盗贼型面目，严重削弱了中共执政集团的合法性。</p>
+<p>比较有趣的是，国内媒体不知出于何方授意，也都开始“正面”报导红二代的踪迹，比如《央企高管中的红色后代：保利名誉董事长系邓小平女婿》（《中国新闻周刊网》2013年6月3日），文中列了一批包括毛泽东侄子毛远建，李鹏女儿李小琳在内的特殊身份高管。信息见报之时，邓榕夫婿贺平早已退休，突出报导其为军企保利集团名誉董事长，让人产生有意为之的联想。李小琳本人一直是媒体高调追踪的目标，2013年以来，在压力之下，出席两会时比较低调，2015年12月下旬，李小琳已经辞任中国电力公司董事长一职。</p>
+<p>人民网2014年12月22日发布《盘点解放军现役高级将领中的“红二代” 》， 列出以张又侠为首的共27名有所谓“红色背景”的军方将领。每位将领的出身，其父革命业绩均列得清清楚楚。其时正是习近平整军集中力量打击郭徐势力之时。</p>
+<p>有关红色家族敛财的故事，一直是中国京城与坊间流传的时代故事，但媒体人知道那是雷区，没人敢轻易涉足。《人民论坛》（《人民日报》旗下）曾忍不住在2010年第4期的《中国新富家族》一文中提及，但也只敢透露，在 2009年中国3000家族财富榜总榜单中，“红色家族”是构成新富豪的主体：“红色家族……拥有深厚的政治与资本，故起步高，容易获得社会资源。这些红色商业家族，多从事一些需要审批的贸易，基础产业，能源等产业。房地产行业亦多为红色家族钟情的领域。”一个具体的名字都不敢提及。</p>
+<p>党政高层的红二代人数不是太多，我在《刘源退休：红二代政治长跑终封印》里谈得很清楚，目前位列政治局常委的习近平与俞正声，按红二代自己的说法， 都是弱枝，习仲勋的西北帮，在1962年就因“反党小说《刘志丹》案”已陷灭顶之灾；俞正声因父亲黄敬、母亲范瑾、兄长俞强声的关系，长期是官场边缘人， 但红色接班人的政治长跑中发生的种种变数成就了他，最后跑出了好成绩。</p>
+<p>综上所述，红二代纵横国企、军界与商界的全盛时期就在江胡两朝。进入习近平统治时期，红二代已进入“夕阳无限好，只是近黄昏”之境。因为他们遭遇到的铁门槛是自然规律，即年龄，政治局常委以下官员65岁退休，是邓小平时代定出干部“年轻化、知识化、专业化”几大标准后，经过30余年才逐渐形成的“党内规矩”。专制者从来就不想与人分享权力，对红二代，用年龄这条规矩就足以让他们平安退出政坛、国企与军界。</p>
+<p>红二代虽然会淡出政坛，但中共体制的三个垄断（政治垄断、资源垄断与舆论垄断）格局不改，必然由垄断而产生特权阶级。这就是本文标题所说的“红二代消失，赵家人恒在”，只是赵家人的构成将“新桃换旧符”，另一批新权贵登场罢了。</p>
+<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%9D%9B-%E7%BA%A2%E4%BA%8C%E4%BB%A3%E6%B7%A1%E5%87%BA%EF%BC%8C%E8%B5%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E5%AD%90%E5%BC%9F/?category=18271" rel="tag">权贵子弟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D%E5%AE%B6%E6%97%8F%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">温家宝家族财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/423608/" target="cdt-mirror">【异闻观止】经济观察报：忘掉万宝之争背后的赵家人</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" rel="attachment wp-att-422784"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225"></a></p>
@@ -583,89 +629,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/423370/" target="cdt-mirror">【网络民议】捆绑销售：爱国爱党爱社会主义</a>
-</h2>
-<p><p><strong><a href="http://news.sina.com.cn/c/2015-12-30/doc-ifxneept3408117.shtml">新华社｜习近平：坚持爱国和爱党爱社会主义相统一</a></strong></p>
-<blockquote><p>[…]他指出，爱国主义是中华民族精神的核心。爱国主义精神深深植根于中华民族心中，是中华民族的精神基因，维系着华夏大地上各个民族的团结统一，激励着一代又一代中华儿女为祖国发展繁荣而不懈奋斗。<strong>5000多年来</strong>，中华民族之所以能够经受住无数难以想象的风险和考验，始终保持旺盛生命力，生生不息，薪火相传，<strong>同中华民族有深厚持久的爱国主义传统是密不可分的</strong>。</p>
-<p>习近平强调，弘扬爱国主义精神，<strong>必须坚持爱国主义和社会主义相统一</strong>。我国爱国主义始终围绕着实现民族富强、人民幸福而发展，最终汇流于中国特色社会主义。祖国的命运和党的命运、社会主义的命运是密不可分的。<strong>只有坚持爱国和爱党、爱社会主义相统一，爱国主义才是鲜活的、真实的，这是当代中国爱国主义精神最重要的体现</strong>。今天我们讲爱国主义，这个道理要<strong>经常讲、反复讲</strong>。</p></blockquote>
-<p><strong>微博评论截图：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%88%B1%E5%9B%BD%E8%A6%81%E8%B7%9F%E7%88%B1%E5%85%9A%E7%88%B1%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89.png" rel="attachment wp-att-423371"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%88%B1%E5%9B%BD%E8%A6%81%E8%B7%9F%E7%88%B1%E5%85%9A%E7%88%B1%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89.png" alt="爱国要跟爱党爱社会主义" width="500" height=""></a></p>
-<p>必须指出的是，与2000多转发量相差悬殊的这200多条评论，<strong>已经是网民发表评论被延时处理后的结果：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%AF%84%E8%AE%BA%E5%BB%B6%E8%BF%9F.png" rel="attachment wp-att-423374"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%AF%84%E8%AE%BA%E5%BB%B6%E8%BF%9F.png" alt="评论延迟" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/评论延迟-300x178.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/评论延迟-768x455.png 768w, http://chinadigitaltimes.net/chinese/files/2015/12/评论延迟.png 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E9%AB%98%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E6%8E%A2%E7%A9%B6/">大数据时代高校思想政治教育模式创新探究</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/">中小学生守则修订版：一年后还是得爱党</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E8%AF%B4%E8%BF%87%E7%9A%84%E8%B0%8E%E8%AF%9D/">【网络民议】那些年我们说过的谎话</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%98%AF%E8%A2%AB%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%80%9D%E6%83%B3%E9%81%93/">【图说天朝】中国未成年人是如何被进行“思想道德建设”的</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%88%B1%E5%9B%BD%E5%92%8C%E7%88%B1%E5%85%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E8%87%B4/">【异闻观止】环球时报 | 爱国和爱党在中国是一致的</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/07/%E5%85%B1%E8%AF%86%E7%BD%91-%E7%A8%8B%E6%98%A0%E8%99%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E4%B8%AD%E6%8E%BA%E6%9D%82%E8%BF%87%E5%A4%9A%E7%9A%84%E7%A7%8D/">共识网 | 程映虹：中国的爱国主义中掺杂过多的种族性观念</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2871547701" target="_blank">我要誓死考北京</a>：连最起码的教育公平都做不到，考研这样的国家考试都能泄题，爱国爱党？心累<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p>@远水No1：爱国不爱党要定什么罪？</p>
-<p>@fapen：这味道就不对了。</p>
-<p>@风紧扯呼微博：这标准低了点，还得爱改革开放，爱马克思主义，爱毛泽东思想，爱邓小平理论，爱江三个代表，爱胡八荣八耻，爱习中国梦</p>
-<p>@猪巫：那在国内战争的时候，是该爱国民党呢还是GCD呢？</p>
-<p>@或会在旁：民主党派和无党派人士还能不能愉快的爱国了？</p>
-<p>@Bork123：我要是九三学社或者民进的怎么办，也爱中共</p>
-<p>@我的爱在这里14520：你要海外华侨，台湾香港人都爱国，意思就是。。。。。。？你要的祖国统一，就是让他们也。。。。？</p>
-<p>@好個李寶三：要不要连贵党成员一起爱？</p>
-<blockquote><p>@君子殉凶-冰冰无厘：党国万岁<br><a href="http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i.jpg" rel="attachment wp-att-423372"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i.jpg" alt="党国万岁" width="440" height="334" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i-300x228.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/639ca3dfgw1ezik6wg8sdj20cu09rq3i.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
-<p>@蛤艮达丝：毛：“必须迅速地认真地实行政治改革，结束国民党一党专正，召集真正代表民意的有权力的国民大会，制定宪法，实行宪正。”</p>
-<p>@xiangxinwo：我爱谁是我自己的自由</p>
-<p>@一生1567：这脑洗的，当人都脑残∞</p>
-<p>@八分钟后的黑暗：谎言重复一千遍,也会变成真理。”是保罗·约瑟夫·戈培尔，希特勒的宣传部长说的 （Paul Joseph Goebbels，1897.10.29－1945.5.1），纳粹党宣传部部长，纳粹德国国民教育与宣传部部长。 戈培尔认为，宣传的唯一目的，就是”征服民众”；”我们的宣传对象是普通老百姓，故而宣传的论点须粗犷、清晰和有力；</p>
-<p>@肥鸟呵鱼：国，党，社会主义三位一体了，哈哈哈哈哈哈哈</p>
-<p>@伍毛钱的灵魂：只听说过公仆爱人民，没听过人民爱公仆。你们原来好像不是这么宣传的吧？</p>
-<p>@臭流氓老孟：你国你们慢慢爱！</p>
-<p>@Rex_Wilde_LFC：我爱的中国，其内涵还在恢复中，其他的爱不起来，一会儿就得删了</p>
-<p>@草籽地：那只能都不爱了</p>
-<p>@上海边的森林：呵呵#知青治国荒腔走板#</p>
-<p>@阿青杀一下：刁总这治国能力还一群人叫大大，中国人是多缺父爱</p>
-<p>@阿拉斯加大好人：呵呵，真心累，按官方的说法，爱自己的国家还有这么多附加条件，那就不爱算了～</p>
-<p><strong>@冲上充数：捆绑销售</strong></p>
-<p><strong>@换马甲换风水换换换：强买强卖。</strong></p>
-<p>@酥梅特don丶t：对不起我只是爱国，并不爱你党</p>
-<p>@黄灿彬：老司机开倒车啦，大家坐稳喽！</p>
-<p>@唱搖滾的軟餅乾：爱国这玩意儿能把雾霾给吹走吗？</p>
-<p>@hy8989：看了评论我就放心了!</p>
-<p>@海岛旅行家biubiubiu：不知不觉的就快到庆丰6年了</p>
-<p>@处于假寐：一个犯罪率最高的邪教组织——–共产党</p>
-<p>@叫我超彦祖：党在国上，人在党上，爱习大大一人足矣，费那些劲干啥？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98.jpg" rel="attachment wp-att-423193"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98.jpg" alt="李小乖_御用键盘" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/御用键盘-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/御用键盘.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><em>（“御用键盘” by 李小乖）</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/423370/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%98%8E%E6%8A%A5%EF%BD%9C%E5%86%9B%E6%94%B9%E7%AC%AC%E4%B8%80%E5%88%80%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%88%92%E4%B8%A5%E9%83%A8%E9%98%9F27%E5%86%9B%E8%A2%AB%E8%A3%81/" target="cdt-mirror">明报｜军改第一刀：六四戒严部队27军被裁</a>
-</h2>
-<p><p>解放军军改启动，将裁减 30 万官兵。在黑龙江省大兴安岭地区加格达奇区，武警森林支队的士兵仍盼在新一年「练好兵，站好岗」，保护国家森林资源。日前士兵腾空飞跃大合照，迎接新年。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/k2gggg.jpg" alt="k2gggg" width="551" height="341" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k2gggg-300x186.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/k2gggg.jpg 640w" sizes="(max-width: 551px) 100vw, 551px"><br>
-27军装甲部队演习</p>
-<p>解放军军改正式启动，隶属北京军区的解放军王牌第 27 集团军被裁撤，集团军军部前晚撤往山西太原郊区一个坦克团营房，改编为陆军第27师，原位于河北石家庄的军部驻地移交给中部战区陆军部。而中央政府已要求国企把 5% 的工作岗位留给退役军人，协助解决被裁军人的就业问题。</p>
-<p>解放军第27集团军是历史悠久的部队之一，前身是原八路军胶东军区地方部队， 1946年部队整合为华东野战军第9纵，许世友任司令；中共建政前改编为第27军，军长聂凤智，随后参加攻占上海战斗。 1950年后入朝鲜参加韩战，击溃美军「北极熊团」。近年最为人熟悉的，则是在1987年参加对越南的老山战役，及1989年参与六四事件的戒严行动。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/k2g.jpg" alt="k2g" width="551" height="310" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k2g-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/k2g.jpg 640w" sizes="(max-width: 551px) 100vw, 551px"><br>
-美国解密文件透露，镇压六四的27军「大笑着，一看到集会民众就乱枪扫射。」</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/k2gg.jpg" alt="k2gg" width="550" height="412" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/k2gg-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/k2gg.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>本报获悉前天是 27 军军部在石家庄的最后一天，最后一批人员物资全部撤离，到下午 5 时部队集结完毕。昨日由北京军区王副参谋长，将军部驻地移交给中部战区陆军部， 27 军搬到太原郊区一个坦克团的营房，改编为陆军第 27 师。中央军委目前并未公布具体的战区划分，不过外界普遍相信中国将会划分为五大战区，包括东、南、西、北和中部战区，其中成都军区与兰州军区将会合并，成为西部战区。</p>
-<p>《解放军报》报道亦证实部分建制部队被撤编的消息，前成都军区某师主管在军区接受撤编命令后，路上师长、政委还在车里默默流泪，回到师里，师长马上动员全师官兵：「我们师平时不含糊，战时能打仗，撤编也要撤出个样子来！」</p>
-<p>军改其中一个重要内容是裁军 30 万，使解放军现代化，但军方高级将领担忧被裁减人员会影响社会稳定。《解放军报》在 11 月 19 日的评论文章中亦称，「如果处理不好，裁军可能产生破坏稳定的影响，不稳定的风险可通过改革工资和养老金来缓解」。</p>
-<p>《金融时报》援引中国民政部部长李立国说，民政部以及国资委发布的相关文件指出，国有企业均有安置退役军人的责任和义务。央企应作带头模范。</p>
-<p><img alt=""><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E6%98%8E%E6%8A%A5%EF%BD%9C%E5%86%9B%E6%94%B9%E7%AC%AC%E4%B8%80%E5%88%80%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%88%92%E4%B8%A5%E9%83%A8%E9%98%9F27%E5%86%9B%E8%A2%AB%E8%A3%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80/?category=18271" rel="tag">六四屠杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/27%E5%86%9B/?category=18271" rel="tag">27军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -677,7 +640,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -687,5 +650,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

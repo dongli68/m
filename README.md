@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/423608/" target="cdt-mirror">【异闻观止】经济观察报：忘掉万宝之争背后的赵家人</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" rel="attachment wp-att-422784"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225"></a></p>
+<p><em>原标题：忘掉万宝之争背后的赵家人 重塑政商关系</em></p>
+<p>围绕万科控制权的争夺尘埃未定。与这场并购战中折射的公司治理话题本身相比，观战者更有兴趣的关注点似乎是“赵家人”——那些隐身于公司背后的权力之手和神秘力量，在这样的语境中，公司不过是体现“赵家人”意志的提线木偶，商业很难找到自身的逻辑，反而天然地成为某种附属品。人们更愿意从隐秘的政商关系上对商业的成功与失败，或者强悍与退让作出解释。满城争说“赵家人”的喧闹盖因于此。</p>
+<p>问题在于，市场或许会忽视另外一些可能更为深刻的变化，比如对上市公司控制权市场的争夺正在成为资本市场的新常态——这的确是一个旧时代的结束，虽然并不一定是新时代的开始。由此我们更希望看到一场对公司治理有关话题的理性讨论。无论股东价值至上还是利益相关者价值最大化，又或者新近一些研究者推动的实体最大化和永续性模式——即公司管理层应力求对其所监管企业创造财富的潜能进行全方位的开发，并确保公司的可持续运营。不管秉持怎样的立场，这样一场观念层面的交锋，都能够帮助我们更好地理解 “万宝之争”，进而推动中国公司治理水平的提升。</p>
+<p>当然这不意味着可以无视“赵家人”，我们相信这套逻辑已经不能解释这个时代大部分的商业变迁。但是不能不说，对“赵家人”的热论反映了某种历史经验的沉淀。过去几十年，中国政商关系几经曲折，但似乎始终别别扭扭。改革前的轻商、抑商不用说了。改革开放至今的30多年，政府和市场的关系一直处在不断调整和重新定位中，这一调整至今仍未结束<strong>。</strong></p>
+<p>在此进程中发育的几代商业人，从一开始就必须学会在边界模糊的政府与市场关系中，寻找合理的腾挪空间。他们很难避免与公权力的摩擦与碰撞，他们因为最早冲破了环境的某种限制而享受商业的红利，却也无法逃避地触碰到依然坚硬的“底线”。由于法治的市场经济体系尚未确立，很多时候政商关系滑向了另一端——对一些企业来说，搞掂官员就等于获得特定资源的分配权，一旦权力不受监督，官商勾结就很难避免。这是所谓的“赵家人”得以滋生的温床。</p>
+<p>也正因为如此，普通民众很容易接受这样的看法，即每个贪腐官员都有若干个企业老板 “下线”，或者所有问题企业家背后总有一个或几个“赵家人”，他们和权力结成某种隐秘的勾连或利益共同体，虽然更多时候他们只是权力的工具。与其说这是一种偏见，不如坦率地说，这在现实中依然可见且很难根除——时至今日，官员贪腐案件常常牵出灰色的政商利益链，应声而倒或避居海外的老板的身影，也成为割不断的权贵与资本游戏的最佳注脚。</p>
+<p>好在目标早已确定。我们注意到，这一届政府对这个问题有清醒的认识。过去几年，简政放权是政府着力最多的改革事项之一。2015年初，李克强总理在承诺继续推动重点领域改革时还曾表示，首要任务即是处理好政府和市场的关系，并多次强调政府削权是一场自我革命。就此而言，满城争说“赵家人”，可以看做一个极富现实意义的警世寓言。它提示我们必须打破那一张“无形之网”，清理政府与市场间的灰色和模糊地带，将商业的归于商业。</p>
+<p>一定要说，这是重塑政商关系的基础。只有在边界清晰、规则透明和良性互动的政商关系中，企业家才会真正拥有自己的舞台，一跃而为创新和创造的主角和推动者，企业家的作用也才能得到淋漓尽致地发挥——在过去一年中，企业家精神已经是被决策层提及频率最高的词汇之一，这绝非偶然。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%AF%E7%90%83%E9%A3%9E%E7%8B%972.jpg" rel="attachment wp-att-422934"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%AF%E7%90%83%E9%A3%9E%E7%8B%972.jpg" alt="环球飞狗2" width="300" height="152" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/环球飞狗2-300x152.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/环球飞狗2-768x390.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/环球飞狗2.jpg 964w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@ffwyfc：Sx，眼睛看到了，却要忘掉，更阿Q</p>
+<p><strong><a href="http://weibo.com/1400708231" target="_blank">@沧海一声笑-滔滔两岸潮</a>：经济观察报这是在和环球时报抢饭碗吗？不是我瞧不起你，你们有胡锡进这样的叼飞盘领军人物吗？你有自己不是赵家人却以当赵家狗为荣的一颗红心吗？。。。<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></strong></p>
+<p><a href="http://weibo.com/3485396194" target="_blank">孤单北极狼919</a>：未有作者敢署名，只看见个责任编辑。可见此文虚伪到了什么程度！<img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"><img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"><img title="[鄙视]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]"></p>
+<p>@风不渡：嗯，看到雾霾要忘掉污染企业，看到高油价要忘掉涨价委。</p>
+<p>@鲸群：最早提出赵家人的文章已经被删掉了。删帖就是确认，这是赵家人的宿命。</p>
+<p>@herbiewu：“赵家人”的概念可以出现在官媒上了？</p>
+<p>@魔女墨筆：看来确有赵家！</p>
+<p><a href="http://weibo.com/oliverlee80" target="_blank">@霾去新生</a>：没有赵家人，这些企业早归西啦<img title="[偷笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]"></p>
+<p>@包子狗带：安邦就是赵家人的产业</p>
+<p>@铁风筝961：怕百姓知道的太多了</p>
+<p><a href="http://weibo.com/daixinghua24" target="_blank">@_燕山风云_</a>：为了尔等屁民的人身安全，不是赵家人，莫提赵家事，赵家豢养的一大批五毛和精赵正虎视眈眈呢<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@V字仇杀队的真相：继续坚定不移地走房地产强国之路！要什么科技？要什么制造？要什么创新？要什么未来？只要有房地产就能实现中国梦，成就百年强国！（皇亲国戚参股的房地产公司快顶不住了！所以千方百计让人接盘买单，方便他们拿钱移民）</p>
+<p>@非常阿杜：政商勾搭是党国改革开放以来最大的政经特色，赵家人是三十年来获利最大的利益集团，现在的改革方向如果是让利于民，必须打掉赵家人这个最强大的利益集团，否则都是空谈。但你相信我党有这个自我革命的决心和能力吗？</p>
+<p>@TA入他梦：我绝对相信党自己没有能力给自己看病。</p>
+<p>@枭肖：看到“赵家人”才明白鲁迅的文会从课本里消失</p>
+<p>@本分精灵：我并不喜欢王石，不过如果宝能的资金竟然能以这样的形式介入，并且没有监管部门查处，我真的相信有赵家人了。</p>
+<p>@北京财经资讯：别忘了，在中国媒体有时候就是喉舌。赵家人想让你说啥就说啥</p>
+<p><a href="http://weibo.com/2950773930" target="_blank">@卫星上天红旗倒下</a>：知道了又怎样，有枪就是这么任性。<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/423608/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9D%E4%B8%87%E4%B9%8B%E4%BA%89/?category=18271" rel="tag">宝万之争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B3%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%86%85%E5%AD%A6%E6%9C%AF%E6%9C%BA%E6%9E%84%E6%80%A7%E5%88%AB%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/" target="cdt-mirror">王立铭｜消失的女生：国内学术机构性别问题调查分析报告</a>
 </h2>
 <p><p><em><strong>微信公号：以负墒为生 (ID: Neg_Entropy)</strong><br></em><br>
@@ -627,27 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%8E%AF%E4%BF%9D%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%BC%A0%E5%8A%9B%E5%86%9B%E8%A2%AB%E5%8F%8C%E5%BC%80/" target="cdt-mirror">BBC | 中国环保部原副部长张力军被双开</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/150730055518_cn_zhang_lijun_chinanpc_cr624.jpg" alt="张力军长年在环保系统工作。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/150730055518_cn_zhang_lijun_chinanpc_cr624-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/150730055518_cn_zhang_lijun_chinanpc_cr624.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>张力军长年在环保系统工作。</p></div>
-<p><strong>2015年的最后一天，中共中央纪律检查委员会宣布，中国环境保护部原党组成员、副部长张力军被开除党籍、开除公职，其涉嫌犯罪问题及所涉款物移送司法机关依法处理。</strong></p>
-<p>在中纪委的公布发表后，中国最高检察院也宣布，对张立军以涉嫌受贿罪立案侦查，并采取强制措施。</p>
-<p>现年63岁的张力军长年在环保系统工作。中纪委今年7月30日宣布，张力军涉嫌严重违纪违法正接受组织调查。</p>
-<p>中国媒体指出，张力军是中共中央总书记习近平开展反腐败运动以来在环保领域被打的“首虎”。</p>
-<p>中纪委的通报称：“张力军严重违反党的纪律，且党的十八大后仍不收敛、不收手，性质恶劣、情节严重。”</p>
-<p>张力军被指控“严重违反组织纪律，利用职务上的便利在干部选拔任用等方面为他人谋取利益并收受财物，在职工录用中为亲属谋取利益；严重违反廉洁纪律，在企业经营等方面为他人谋取利益并收受财物，收受礼金，为亲属经营活动谋取利益；严重违反中央八项规定精神，接受公款宴请”。</p>
-<p>“其中，利用职务上的便利为他人谋取利益，收受财物问题涉嫌犯罪。”</p>
-<p>在张力军被查之前，中共中央第三巡视组进驻环保部巡视，并于今年2月通报了相关问题。</p>
-<p>第三巡视组组长吉林指出，环保部存在未批先建、擅自变更等违法现象，且是“大量存在”，背后隐藏监管失职和腐败问题。环保部内有官员及亲属违规插手环评审批，以此牟利。</p>
-<p>此外，巡视组还称接到干部群众反映，环保部内环评“红顶中介”现象突出，环评机构资质审批“花钱办证”。环保部涉嫌把关不</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%B8%AD%E5%9B%BD%E7%8E%AF%E4%BF%9D%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E5%BC%A0%E5%8A%9B%E5%86%9B%E8%A2%AB%E5%8F%8C%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E9%83%A8/?category=18271" rel="tag">环保部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D/?category=18271" rel="tag">开除党籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E9%99%A4%E5%85%AC%E8%81%8C/?category=18271" rel="tag">开除公职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%8A%9B%E5%86%9B/?category=18271" rel="tag">张力军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">违纪违法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E9%A1%B6%E4%B8%AD%E4%BB%8B/?category=18271" rel="tag">红顶中介</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -659,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -669,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

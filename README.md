@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,135 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B3%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%86%85%E5%AD%A6%E6%9C%AF%E6%9C%BA%E6%9E%84%E6%80%A7%E5%88%AB%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/" target="cdt-mirror">王立铭｜消失的女生：国内学术机构性别问题调查分析报告</a>
+</h2>
+<p><p><em><strong>微信公号：以负墒为生 (ID: Neg_Entropy)</strong><br></em><br>
+2015年11月，我们利用互联网平台发布了《国内学术机构性别问题调查问卷》。在短短两周时间内，我们收到了超过1600份有效问卷，仅是自愿留下联系方式的受访者，就覆盖了国内外数十所学术研究机构。我们知道，这些问卷代表的，是对国内学术研究机构中性别问题的关注乃至感同身受，也是许许多多期望得到理解和支持的个体。在过去的一个月里，我们在不断的讨论和数据分析中形成了第一轮的总结报告。希望我们的总结和分析，会帮助大家更好地认识和最终解决学术机构内存在的性别问题。</p>
+<p>王立铭（执笔），沈玥，蓝艺，董一格，汤富酬，陈晓雪，陈丹平，祁伟，叶洁对调查和文章写作亦有重要贡献和建议</p>
+<p><strong>写在前面</strong><strong>的话</strong></p>
+<p>笔者自认为还算是一个平日里颇为关心性别问题的人。只是身处象牙塔内，有时候会不由自主的忘记掉性别问题的真实存在。微观地看，自己实验室里的男女比例非常平衡，身边的女科学家同事似乎也不少；稍微扩展下考察范围的话，平日里做研究、申请基金、发表论文、参加各种奖项的评比，似乎也没有感觉到有什么性别的门槛。有段时间，我甚至比较天然地觉得，学术研究机构可能是性别平权的最佳实践，是未来平权社会的样板。</p>
+<p>直到最近，和朋友、师兄、北京大学生命科学学院的汤富酬教授聊天说起这个话题，他提了一个很简单、但却让我回答不上来的问题：“咱们两人的学生里，女生男生数量几乎相同；但是在你和我的研究所里，女教授的比例似乎都不到总数的一成。那么，最后没有做教授的女生都去哪里了呢？她们凭空消失了么？”</p>
+<p>这个问题促使我开始查找相关的新闻，于是惊讶地发现，汤富酬的观察并非孤立现象。几年前，清华大学医学院的颜宁教授也问出过几乎一模一样的问题：“女科学家去哪儿了？”（注1）。而在学术研究范畴，国外也有不少报告分析过学术机构内部的性别问题，并且得出了很严峻的结论。例如，有研究证明男性教授倾向于雇佣男性学生和研究者，而且越是成功的男科学家就越有这样的倾向（注2）；同时有研究证明，在学术界求职的时候，如果为简历随机分配一个女性的名字，那它得到教授们青睐的机会就大大降低了（注3）。这两项研究都说明，性别可能确实限制了女性在学术界的职业发展机会。即便是在理应严肃客观的学术成果评价环节，也存在性别歧视问题：有研究证明，女性研究者在学术论文的同行评审和发表上相较男性有明显劣势，一篇学术论文的作者是女性，竟然会影响到文章的评审结果和被引用的次数（注4和注5）！联想到近来诺贝尔奖得主蒂姆.亨特（TimHunt）最近公开发表的歧视女性的言论（注6，“让我告诉你我和女孩之间的麻烦。有三件事情会在实验室发生：你会爱上她们，她们会爱上你和当你批评她们，她们哭了”），我不得不改变之前的天真态度。我想象中纯粹清白的学术机构，并非性别歧视问题的绝缘地带。</p>
+<p>那么在中国呢？在中国的学术研究机构里，是不是也存在同样的偏见和障碍，导致了“消失的女生”问题，让女生和女性研究者中的大多数最终离开学术研究领域，离开学术职业，选择了另外的职业和人生道路？我们怎样才能更好地理解，在中国的学术机构里，这些可能终将“消失”的人，她们在想什么，她们面对的是什么样的工作环境？她们在学术机构中求学和研究的经历，又是如何影响甚至是干扰了她们的职业和人生选择呢？</p>
+<p>带着这些问题，我和同事们组织了这次“国内学术机构的性别问题调查”。我们的初衷是，小范围收集学术机构内，从学生到资深教授各个阶层、不同性别的研究者对待性别问题的观察和想法，从微观角度做一点分析和讨论。尽管我们不是性别问题的研究权威，但是仍然希望我们的分析和讨论，能够引发更大范围的讨论和思考，催化更严格和严肃的学术探讨和政策研究，为“消失的女生”这个问题的最终解决，贡献一点小小的力量。</p>
+<h3><strong>从学生到教授：职业金字塔中女性的严重流失</strong></h3>
+<p> <br>
+我们首先希望通过问卷数据，审视一下学术机构中女性研究者的流失情况究竟如何。</p>
+<p>在国内大多数传统的学术研究机构中（包括高校、中科院和社科院系统、省部属研究机构、医院附属研究机构等），学术研究职业的发展路径大致遵循如下的轨迹：<strong>受教育者</strong>（大学生、硕士和博士研究生、和博士后，下文时以“学生”指代）—<strong>初级教职</strong>（一般指大学系统的讲师/副教授、研究所系统的助研/副研等，下文时以“副教授”指代）—<strong>高级教职</strong>（指拥有独立招生和学术研究资格的教授、研究员等，下文时以“教授”指代）。三种状态构成了学术职业发展的金字塔形结构：塔基是数量最大的受教育者，而塔尖则是数量相对稀少的高级教职研究者。</p>
+<p>一个可以作为佐证的数据是，根据2014年的一项研究，2005-13年间国内在校研究生和研究生导师（主要是高级教职研究者）的人数比，始终稳定在5~6:1左右（注7）。相应的，我们回收的问卷比例也基本一致：受访者中65%是学生，副教授和教授的比例分别是18%和10%。而金字塔型的人数分布也意味着，在从学生到教职、从初级到高级教职的角色转换中，相当比例的学术研究者离开了学术研究职业，在其他行业继续发展。这本身并不奇怪，其实也正是学术研究机构存在的意义之一：为社会各界教育和培养人才。那些在职业发展过程中离开学术研究、走向各行各业的人们，正是学术研究成果离开象牙塔、福泽于社会和普罗大众的途径之一。</p>
+<p>然而，如果带入性别因素考察学术职业发展的金字塔，性别差异就开始清晰显现出来。大部分的学生受访者发现所在的学术机构中学生的男女比例处在合理范围内，仅有不到10%的学生分别观察到了女性或男性学生“极少”的情况。这一点也和更大规模的统计数字相吻合：我国高校毕业生的性别比例早在十多年前已经基本实现了男女平衡（以2004年为例，当年男性大学毕业生为140万，女性116万）（注8）。而到了教授阶层，男女比例失衡的范围和程度就立刻凸现出来。仅有25%的受访教授认为自身所在的学术机构中教授的性别比例相当。反之，却有多达67%的受访教授发现女性教授“较少”或“极少”，仅有9%的受访者发现男性教授数量占劣势。显然，在沿学术职业金字塔向上发展的过程中，女性的流失情况要远高于男性。因此导致了这一现象：尽管在构成金字塔基的受教育者群体中男女比例相当，成功上升至金字塔尖的男性数量则远远超过女性。（图1）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE1.jpg" rel="attachment wp-att-423601"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE1.jpg" alt="图1" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图1-300x175.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图1.jpg 619w" sizes="(max-width: 619px) 100vw, 619px"></a></p>
+<p>为了更好地验证这一观察，我们还抽样调查了国内七所不同地域的大学（北京大学、武汉大学、上海交大、厦门大学、四川大学、兰州大学和吉林大学）中理、工、医、人文、社科等专业方向三十多个不同院系的教职工性别比例。我们发现，和我们的问卷调查结果类似，在这些学术机构中，各个专业均出现了男性教授为主导的情况。在我们统计到的超过一千名教授中，女性总体占比仅有区区两成（仅有医科专业里女性达到三成以上）。而这其中，甚至还包括了人们日常经验中一般认为“更适合女性发展”的人文社科类院系。（图2）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE2.jpg" rel="attachment wp-att-423600"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE2.jpg" alt="图2" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图2-300x233.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图2.jpg 548w" sizes="(max-width: 548px) 100vw, 548px"></a></p>
+<p>而在抽样调查中我们也发现，即便在教师群体内部也存在着随教职晋升，女性比例继续下降的现象。相比教授群体中两成的女性比例，初级教职群体中（讲师、副教授）的女性比例仍有约四成。这说明，除了学生到教职转换中的女性流失之外，随着教师的学术晋升，还出现了女性研究者的进一步流失。无独有偶，根据一份2011年的政协提案，尽管中国女性科技人力资源已经占到总人数的40%，但在高端和决策岗位的比例非常低。例如，863专家委员会中女性仅占6.8%，973专家顾问组中女性仅占2.1%。（注9）</p>
+<p>能够与这些数字互为印证的是，在我们的调查中，处于受教育阶段的受访者对待学术职业发展的态度确实存在显著的性别差异。仅有20%的女生坚定地计划继续从事学术研究职业，而男生的相应比例是33%。相应的，更高比例的女生对职业发展方向存在犹豫，或已经决定放弃学术职业。而老师们的观察也和学生们的自我认知相吻合：有约三成的教授受访者发现，自己培养的男生毕业之后继续学术研究职业的比例要显著高于女生，而只有一成的教授得出了相反的结论。因此，导致学术职业金字塔尖性别不平衡的重要原因之一，很可能是女生们在完成学术训练之后、获得高级教职之前，大比例地选择了离开学术研究的职业。（图3）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE3.jpg" rel="attachment wp-att-423599"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE3.jpg" alt="图3" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图3-300x252.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图3.jpg 546w" sizes="(max-width: 546px) 100vw, 546px"></a></p>
+<p>由此，我们得到的第一个结论是，在国内学术机构内，相比男性，女性在职业发展过程中出现了更大程度的流失，从而导致了女性研究者、特别是拥有高级教职的精英女性研究者的比例较低。</p>
+<p>当然，女性离开学术研究职业本身，不一定说明存在针对女性的性别偏见和歧视，也不一定就是性别偏见和歧视的直接后果，女生们完全可能是因为个人原因作出了这样的选择。那么，我们能否从问卷信息中推导出女生们离开学术研究的真实原因呢？这种选择仅仅是基于兴趣、特长、职业目标的个人选择，还是存在某种具有普遍意义的影响因素？如果是后者，那么其中有没有性别偏见和歧视的原因呢？</p>
+<h3><strong>导师的性别偏好和“消失的女生”</strong></h3>
+<p> <br>
+带着这些问题，我们继而考察了学术机构内部是否存在性别歧视问题。在我们的调查中，绝大多数女性受访者在学术活动和日常生活中均感受到了性别歧视的存在。而与之相反，大多数受访男性根本没有意识到性别歧视问题的存在：近七成的男性没有感觉到学术机构内存在性别问题，超过八成的男性受访者不认为自己歧视女性。在被歧视主体（女性）和歧视的潜在实施方（男性）之间，我们观察到了显著的认知差别。这对我们的提示是，学术机构内部的性别歧视问题，很可能是以某种并非明文规定、较为隐蔽的方式存在着的。（图4）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE4.jpg" rel="attachment wp-att-423598"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE4.jpg" alt="图4" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图4-300x270.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图4.jpg 530w" sizes="(max-width: 530px) 100vw, 530px"></a></p>
+<p>那么我们不禁要问，如果学术机构内确实存在较为隐蔽的性别歧视，它具体是从哪里发端、又体现在哪些方面呢？</p>
+<p>我们已经知道，在从受教育者到初级和高级教职的工作转换中，女性研究者出现了显著的流失现象；同时，相当比例的女生（相比男生而言）在完成学术训练之前就已经产生了离开学术研究职业的想法。因此自然而然的，我们的首要怀疑对象就是学生们在学术研究中的直接领导和上级——她们的老师们了。会不会是老师们的性别偏见，最终导致了女性研究者的大量流失呢？</p>
+<p>为了回答这个问题，我们先来看看学生们自己的感受。在受访女生看来，学术机构内性别歧视的前三大来源，分别是社会整体气氛，导师，和同学。换句话说，在女生们看来，性别歧视问题在学术机构内部的首要源头，其实就是她们的导师群体。（图5）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE5.jpg" rel="attachment wp-att-423597"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE5.jpg" alt="图5" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图5-300x128.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图5.jpg 529w" sizes="(max-width: 529px) 100vw, 529px"></a></p>
+<p>那么，导师们是否确实是如此对待自己的女学生们呢？我们因此设计了一系列问题，试图发掘导师们对待不同性别学生的态度差别。我们发现，男性教授们对学生的看法，确实有明显的性别偏向性。认为自己指导的男生工作能力强、工作热情高的比例，要显著超过认为女性更优秀的比例。而女性教授们基本没有表现出明显的性别偏好，认为男生更优秀和认为女生更优秀的比例相差不多。特别值得注意的是，有近一半的女性教授自认为没有任何性别偏好，而仅四分之一的男性教授有类似想法。因此我们认为，导师阶层、特别是其中的男性导师，确实存在性别偏好。（图6）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE6.jpg" rel="attachment wp-att-423596"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE6.jpg" alt="图6" width="613" height="336" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图6-300x164.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图6.jpg 613w" sizes="(max-width: 613px) 100vw, 613px"></a></p>
+<p>这种思维倾向带来的影响可能是深远和广泛的。一方面，我们已经知道，在负责指导学生研究工作的高级教职阶层，男性本身就占据着主体地位，有人数上的巨大优势（参考图1-2）；另一方面，占据主体的男性导师中，又有相当比例对女生的能力和工作热情存在明显的怀疑。一个顺理成章的推论就是，这种大面积存在于导师群体当中的性别倾向，在长达数年的教育和学术研究中，会通过导师的一言一行潜移默化，对女生的自我评价（“我可能确实能力和工作热情有缺陷”）乃至职业选择（“我确实不应该继续学术研究职业”）产生广泛而深刻的影响。</p>
+<p>我们想提醒读者们注意，在性别平权的原则已经写入国际公约和中国法律的今天，明目张胆的性别歧视在主流话语里已经失去了道德合法性和生存空间；但性别歧视仍可能会通过一种更加隐性的方式存在。具体到学术职业发展的语境里，是不是存在这样一种可能性，明文规定女性“<em>不能</em>”“<em>不可以</em>”做研究、继续学术职业发展已经不多见，或者至少不再那么理直气壮；但是与此同时，仍然存在以性别划线的评判标准，让女生倾向于判断自身存在问题，从而“<em>不适合</em>”“<em>不应该</em>”做研究、继续学术职业发展。我们并没有能够证明其中的因果性，但是我们的数据至少强烈提示了这种可能性的存在。</p>
+<p>当然，我们必须承认，现实中确实存在一定比例的女生在学术研究方面“能力不强”或“热情不足”（同样道理也当然适用于男生群体）。我们当然也无意阻止导师们根据自己的经验，对每个学生个体的工作能力和热情进行评价，甚至形成自己的“偏爱”。但我们仍然希望强调，大量的实证研究早已说明，从身高和体能到智力和性格，个体差异几乎总是显著地超过基于某个群体标签（例如性别和种族）的差别。对学生研究能力的评判，不应该带有性别标签，也不应该受到个人经验主义的干扰。</p>
+<p>与此同时，我们也不应该忘记，现代社会中个人社会身份和自我认同的形成，最重要的场所之一就是学校。如果学校（以及其他学术研究机构）中存在潜移默化的性别区别对待，那么，学生们在接受教育之后所体现出的能力差别，很大程度上会天然的带有性别的印记。我们因此也希望强调，当导师在判断学生学术能力的时候，也不应该忘记，你们面前的女生，很可能已经、甚至正在遭受着某种隐蔽的性别歧视，她们的职业发展更需要得到导师的支持和鼓励。</p>
+<h3><strong>性别歧视：体制化、而且无处不在</strong></h3>
+<p> <br>
+带着我们的发现，我们继续审查了导师们对学生职业发展的期望。大多数导师在问卷中都表现出了不偏不倚的职业期望，这一点观察无疑让我们欣喜，但同时有一个偶然的发现困惑了我们。在男性教授群体中，有超过三分之一觉得自己培养的男生更“应该”也更“容易”继续学术研究的职业（而仅有个位数的男教授觉得女生更应该也更容易）。考虑到男性导师中存在的明显的性别偏向（图6），这一发现并不让我们吃惊。但与此同时，女性导师群体中依然有接近四分之一认可男生更容易和更应该继续学术道路！读者们不要忘记，在上一章节中，我们已经发现，女教授们在评判学生时并没有什么性别偏好。两个数据相结合就看到了明显的矛盾：有相当比例的女教授，在认可女生的能力和工作热情的同时，并不鼓励女生们从事学术研究职业！这种貌似分裂的思维显然已经不能用教授个人的性别偏好来解释了，那么又会是什么原因呢？（图7）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE7.jpg" rel="attachment wp-att-423595"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE7.jpg" alt="图7" width="575" height="262" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图7-300x137.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图7.jpg 611w" sizes="(max-width: 575px) 100vw, 575px"></a></p>
+<p>我们的一个猜测是，没有明显性别偏好的女性导师，可能意识到了学术机构内部的“体制化”的性别歧视。换句话说，她们可能认为，即便自己的女学生们确实能力很强、工作热情也很高，但在学术机构内生存和晋升仍然会因为某些她所无力改变的原因变得非常困难。因此，女教授们甚至是主动地打击女学生从事学术工作的积极性：既然明知困难重重，干脆劝她们改弦更张。</p>
+<p>这个猜测驱动我们首先去审视“体制化”的性别歧视是否真实存在。换句话说，如果暂且抛开导师们的个人倾向，也抛开女生们由此产生的离开学术职业的冲动，女性研究者在学术职业发展中是否存在其他困难呢？</p>
+<p>我们发现在问卷中，绝大多数的女性受访者认为，如果自己的性别转换成男性，对自己的学术职业发展可能会有所帮助；几乎没有女性受访者认为性别转换会构成阻碍。相反，则有接近1/3的男性受访者认为，如果自己的性别是女性，会对自身职业发展构成阻碍。与之相吻合的一个观察是，大多数女性和男性受访者共同承认，女性想要找到一份高级教职的难度（比男性）更大，这其中甚至也包括那些业已成功获得教授职位的女性。这些数据说明，大多数受访者承认，女性身份本身就会对学术职业发展造成障碍，特别是对女性获得高级教职有阻碍。（图8）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE8.jpg" rel="attachment wp-att-423594"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE8.jpg" alt="图8" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图8-300x238.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图8.jpg 603w" sizes="(max-width: 603px) 100vw, 603px"></a></p>
+<p>而获得高级教职之后的女性研究者，是否就可以高枕无忧，从此摆脱性别的不利影响了呢？我们的调查显示远非如此。首先，和女生们的反馈几乎一样，女教授们也反映，在学术机构中仍然时时感受到基于社会整体氛围、来自学术机构领导和来自同事的性别偏见。这些偏见同样也在指向她们的研究能力是否胜任、她们（相比男性同事）是否更多关注孩子和家庭从而丧失了对学术研究的热情、以及作为女性到底该不该成为一个学术工作者（图5）。换句话说，性别歧视一直伴随着女性的职业发展，从来也不曾远去！另外值得一提的是，有相当比例的的女性研究者，包括学生和教授群体，反映在工作中会遭遇和女性身份相关的玩笑（16%），甚至包括不当举动和性骚扰（11%）。这样的数字意味着，我们每位读者的身边，可能都有女性研究者遭遇过包括性骚扰在内的不当举动。也许我们永远也无法塑造纯真维善的理想社会，但我们的学术机构肩负着探索人类知识前沿、教育和培养下一代人的使命，本应和这样的丑恶现象彻底绝缘。联想到在新闻中偶有报道的国内高校性骚扰和性丑闻，我们知道，性别平权的道路仍然任重道远。</p>
+<p>同时在制度层面，也有不少女性研究者指出，现行的国家政策、科研政策、学术机构具体规定中也有很多不利于女性学术职业发展的条款。比如，和大多数机构团体一样，学术机构的退休年龄执行的是女性55岁、男性60岁的规定（对于高级教职则可以放宽到男性65岁、女性60岁）。但对于基本从事脑力劳动的学术工作者来说，是否有必要设置这种男女不一的规定？考虑到培养一位独立学术研究者所需要的超长时间和巨大资源，这种女性更早退休的规定本身从某种程度上就阻碍了女性的学术职业发展（注10）。再比如，现在越来越多的学术机构会设置针对学术工作者的定期考核和晋升。基于学术成果的考核本身当然有合理性，但在绝大多数国内学术机构里，这种考核和晋升都没有考虑到女性特别是生育期女性的特殊情况：不管是否刚刚生育，是否正在哺乳，该来的考核无法延期。这样一刀切的政策设置一方面阻碍了女性研究者更好的平衡事业和家庭，一方面也阻碍了她们更好地开展学术研究。最后，基于大多数学术机构内男教授占据主体的现实，女教授的特别需求（包括心理上和生理上的），并没有得到足够的重视和关注。（图9）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE9.jpg" rel="attachment wp-att-423593"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE9.jpg" alt="图9" width="524" height="332" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图9-300x190.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图9.jpg 524w" sizes="(max-width: 524px) 100vw, 524px"></a></p>
+<p>综上所述，我们认为，国内学术机构确实存在针对女性的体制化偏见，这不仅表现在女性想要获取高级教职更加困难，也表现在获得了高级教职的女性在日常工作中也会遭遇性别偏见和歧视，并面临整个政策体系构成的客观障碍。换句话说，性别相关的偏见和歧视，其实一直伴随着女性研究者的整个职业发展过程，这种偏见和歧视不会随着女性研究者自身的成长而烟消云散，也显然不仅仅是针对那些可能确实缺乏个人能力和工作热情的女性。</p>
+<p>这显然不利于女性在学术研究事业上的发展。而这些发现可能也帮助我们回答了这个章节开始时的困惑：正是这些无处不在的体制化的性别歧视问题，使得女教授们意识到了女性学术职业发展的特别困难。因此，虽然她们能够认可女学生们的能力和工作热情，却仍然不鼓励自己的女学生们继续从事学术研究。</p>
+<p>而这无疑是令人感到惋惜和难过的。</p>
+<h3><strong>隐形的大象：直面学术界的性别问题</strong></h3>
+<p> <br>
+总结我们的分析，国内学术机构确实存在针对女性的性别歧视问题，而性别偏见和歧视在微观和宏观层面都阻碍了女性研究者的职业发展。这一系列观察和分析，也许能够帮助我们回答“消失的女生”的拷问。</p>
+<p>而如果进一步审查我们的问卷数据，我们意识到，学术机构内部的性别歧视问题并不比社会整体情况好多少（参考图4）。在女性受访者看来，在日常生活中和在学术机构中遭遇的性别歧视并无本质区别。经常被我们比作“象牙塔”的学术研究机构，看起来并没有因为从业人员的高学历，和相对较高的收入水平，在性别问题上做得更好！这一点观察是非常令我们失望的。因为，这说明单纯依靠提高教育水平和收入水平，并不会自动地带来整个社会性别意识的觉醒和性别平权的实现。性别平权，仍然是一个需要我们倾注心力的事业。</p>
+<p>但是我们同样可以预料，一部分读者可能会有完全不同的观感。“我好像没有感受到这么严重的性别歧视问题啊”，可能会是很多读者的第一反应。 事实上，就连笔者自己，在做这个调查之前，其实也没有意识到在国内学术机构中存在如此广泛和深刻的性别问题。</p>
+<p>如何解释很多人的直观感受和调查结果的巨大差异呢？我们认为，这恰恰说明了我们的观点，即至少在学术机构内部，性别歧视更多是隐性化的存在。在当今世界，性别平权早已在法律和公共道德层面成为“政治正确”。尽管我们仍然不时会看到各种明目张胆的性别歧视，例如即便在学术机构内部，我们的受访者仍然提示我们，诸如“不招女生”“不招女老师”的言论仍然大行其道。但更多、更广泛的性别歧视，可能是以潜移默化的方式存在的。甚至，那些性别歧视的潜在实施者，自身压根就没有意识到这样的言行是对女性的伤害。（图10）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE10.jpg" rel="attachment wp-att-423592"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE10.jpg" alt="图10" width="524" height="505" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图10-300x289.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图10.jpg 524w" sizes="(max-width: 524px) 100vw, 524px"></a></p>
+<p>比如说，很可能会有男教授发问，“我觉得女生们确实轻松啊，不需要拼命奋斗努力研究，真不行了找个好男人嫁了也行啊；但是男生就没有这个可能了嘛。所以我在工作中对男生要求更高，这难道不是更尊重更照顾女生么？”而我们要说的是，性别歧视的判断标准，根本上是以被歧视方的感受为准绳的。这样看起来貌似公允甚至是“照顾”女性的话，其实带有强烈的两个心理暗示：“（因为有所谓的退路）所以女性倾向于不努力工作”，“我作为女性（因为有退路）所以可以不努力工作”。可以想象，这样看起来无害甚至有点“照顾性”的暗示，会伤害和打击那些确实希望努力工作、希望在学术研究职业上继续发展的女生们。</p>
+<p>打一个也许不那么恰当的比方，学术机构中存在的性别歧视问题，可能就像房间里一头隐形的大象。承认和意识到它的存在，是抓到大象的第一步。而这一步，恰恰也许会是最艰难的一步。</p>
+<p>首要的障碍当然来自于男性。在之前的数据对比中，敏感的读者可能已经发现，男性总体对女性遭受的性别歧视抱有中立甚至是漠然的态度。对大多数女性发现自己在日常生活中遭遇歧视、在学术机构中感受到歧视、并发现女性职业发展更加困难的同时，仅有较低比例的男性认同这些现象的存在。换句话说，有相当比例的男性学术研究者，从根本上否认性别歧视问题的存在。（图11）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE11.jpg" rel="attachment wp-att-423591"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE11.jpg" alt="图11" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图11-300x236.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/图11.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>一个意义深长的相关性是，那些能够认同女性受到性别歧视的男性群体，同样也倾向于赞成采取措施促进学术机构内的性别平权。反之，那些不认同女性受到任何性别歧视的男性，支持性别平权行动的比例要明显低得多。因此毫无疑问，想要真正推动学术机构内部的性别平权，必须唤醒这部分男性学术研究者的性别意识。我们愿意再重复强调的是，想要解决隐性化的性别歧视问题，首要的、也是最困难的任务，就是让学术研究者们清醒地意识到性别歧视的存在，认识到哪些言论、哪些行为已经触碰了性别问题的底线。（图11）</p>
+<p>同样不能忽视的是女性自身的态度：女性也需要更好地认知学术机构存在性别歧视问题，并积极采取措施。</p>
+<p>综合来看，女性研究者对自身所受的性别歧视有强烈的感受，对女性在学术职业道路发展上的性别障碍也有明确的认知。我们注意到，不管对于受教育者（学生和博后）、拥有初级教职、或是拥有高级教职的女性来说，她们整体上都认同女性的学术职业发展更加困难，感觉到了学术机构内针对女性的歧视，也基本认同学术机构应采取措施鼓励女性职业发展。这些意见显然会成为推动学术机构性别平权的巨大力量。（图12）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE12.jpg" rel="attachment wp-att-423590"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9B%BE12.jpg" alt="图12" width="484" height="491" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/图12-296x300.jpg 296w, http://chinadigitaltimes.net/chinese/files/2016/01/图12.jpg 484w" sizes="(max-width: 484px) 100vw, 484px"></a></p>
+<p>但是，在被问到性别是否构成了个人职业发展的障碍时，我们看到了一些微妙的分歧。对于受教育者群体和初级教职群体来说，认为女性身份造成阻碍的比例要远远大于认为女性身份提供了帮助的比例。然而在女教授这一群体中，我们看到持两种观点的比例接近。换句话说，对于站在职业发展阶梯的顶端、成为其他女性研究者职业榜样的女教授群体，虽然在具体问题上感受到了性别歧视的存在，但是整体上却并不认同性别对职业发展造成了障碍！（图12）</p>
+<p>我们认为，这看起来存在矛盾的数据，也许反映了某种“幸存者偏差”。一方面，那些经历了包括性别歧视在内的重重阻碍仍然成功实现事业发展的女性，很可能正是那些更有主见和坚强意志、不太容易被歧视问题所打击和阻挡的女性。而另一方面，这些成功女性可能也会倾向于认为，自身的成功本身就说明不存在体制性的性别歧视问题。在很多成功职业女性的访谈中，我们都能感受到这种思维的存在：你看，我的成功经历就说明，根本没有什么障碍（包括性别歧视的障碍）能够阻止女性的发展。</p>
+<p>在学术机构中战胜各种干扰和阻碍，成功实现自身的职业发展目标，这样的女性研究者当然值得敬佩。她们的精神和经验，也为更多的下一代女性研究者提供了很好的榜样和激励。但是，在鼓励女性自身更加自尊、自信、自强的同时，我们也希望，这部分已经站在职业发展金字塔尖端的成功女性，能够更多的发挥女性领袖的作用，在破除系统性的性别歧视问题上做出贡献。要知道，面对确实存在的性别歧视，仅仅要求女性研究者自身更加努力和顽强、而把问题的源头轻轻放过、显然是不公平的。我们需要让更多的学术研究者认识到性别歧视的存在和错误，并积极的对抗和消除性别歧视的言论和行为。只有这样，才能够更好地帮助更多处于职业发展早期的女性克服性别歧视的障碍，实现成功的职业和个人发展。</p>
+<p>带着这些并不轻松的观察和总结，我们还是衷心期待，我们的报告能让更多人意识到学术机构中性别问题的存在和危害，让更多人开始行动创造一个性别更加平等的未来。我们希望在不久的未来，女性研究者的职业发展之路，能走得越来越顺利、越来越自由。我们也期待有一天，学术职业发展金字塔的顶端，会有更多骄傲的女性研究者的身影。</p>
+<p><strong>参考资料：</strong></p>
+<p>注1：颜宁《女科学家去哪儿了》，发表于《赛先生》，2015-06-27<br>
+注2：Sheltzer and Smith, PNAS,2014<br>
+注3：Moss-Racusin, et al.PNAS, 2012<br>
+注4：Vincent Lariviere, et al.Nature, 2013<br>
+注5：<a>https://www.timeshighereducation.com/news/sexist-peer-review-causes-storm-online/2020001.article</a><br>
+注6：<a>http://www.bbc.com/news/uk-33090022</a><br>
+注7：沈忱 胡斌武，研究生教育研究，2014<br>
+注8：<a>http://edu.sina.com.cn/gaokao/2009-09-23/1128220187.shtml</a><br>
+注9：<a>http://news.sciencenet.cn/htmlnews/2015/3/314584.shtm</a><br>
+注10：<a>http://news.sciencenet.cn/htmlnews/2013/5/277809.shtm</a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B3%E7%94%9F%EF%BC%9A%E5%9B%BD%E5%86%85%E5%AD%A6%E6%9C%AF%E6%9C%BA%E6%9E%84%E6%80%A7%E5%88%AB%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/" target="cdt-mirror">旧闻评论｜宋志标：“赵家人”的前世今生</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87%E9%A3%9E%E8%BF%9B%E6%9D%A5_%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA.jpg" rel="attachment wp-att-423572"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87%E9%A3%9E%E8%BF%9B%E6%9D%A5_%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA.jpg" alt="一只苍蝇飞进来_秃头倔人" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/一只苍蝇飞进来_秃头倔人-529x1024.jpg 529w, http://chinadigitaltimes.net/chinese/files/2016/01/一只苍蝇飞进来_秃头倔人.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><strong>微信公号：旧闻评论（ID: jiuwenpinglun）<br></strong></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a title="东网 |“赵国”四种人：赵家人、赵家的家人、赵家的雇农、自耕农" href="http://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E5%9B%BD-%E5%9B%9B%E7%A7%8D%E4%BA%BA%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E5%AE%B6%E7%9A%84%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5/">东网 |“赵国”四种人：赵家人、赵家的家人、赵家的雇农、自耕农</a></li>
+<li><a title="变态辣椒 | 赵国国旗一枚" href="http://chinadigitaltimes.net/chinese/2015/12/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E8%B5%B5%E5%9B%BD%E5%9B%BD%E6%97%97%E4%B8%80%E6%9E%9A/">变态辣椒 | 赵国国旗一枚</a></li>
+<li><a title="【麻辣总局】阿Q新传" href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-4/">【麻辣总局】阿Q新传</a></li>
+<li><a title="LeMcDull：随手拼个图，让你国中产认清现实" href="http://chinadigitaltimes.net/chinese/2015/12/422817/">LeMcDull：随手拼个图，让你国中产认清现实</a></li>
+<li><a title="Permanent Link to 【立此存照】这盛世，经过重新定向，终于如你所愿" href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%BF%99%E7%9B%9B%E4%B8%96%EF%BC%8C%E7%BB%8F%E8%BF%87%E9%87%8D%E6%96%B0%E5%AE%9A%E5%90%91%EF%BC%8C%E7%BB%88%E4%BA%8E%E5%A6%82%E4%BD%A0%E6%89%80/" rel="bookmark">【立此存照】这盛世，经过重新定向，终于如你所愿 </a></li>
+</ul></blockquote>
+<p>也许在多少年后回头看刚刚过去的2015年，该年度贡献出的最重要概念就是“赵家人”。尽管网事沉浮，一个词语被谈论的时长熬不过二十四小时的周期律，但“赵家人”这个词汇不只是被埋没，也是可以蛰伏的。某种意义上，这个词是对意识形态的重大胜利。</p>
+<p>显然，“赵家人”这个词诞生在社交媒体上，是互联网社群“耳鬓厮磨”、灵光乍现的产物，与传统媒体毫无干系。可以想象到，“赵家人”这三个字是无法走进传统媒体的，它为新旧媒体划界，这对追逐网络时髦词汇以标榜不落伍的旧媒体来说，绝对是个讽刺。</p>
+<p>这么多年来，意识形态最看重的部分就是话语，包括包装自有的话语，压制乃至于清除大众话语的威胁，有时候也利用不对称的传播权去占有新话语，通过重新定义来为其所用。但这些话术上的改造技术，注定无法用在“赵家人”身上，所以它的待遇可以想象。</p>
+<p>如果要理一条线索，“赵家人”这个词并非孙猴子一样陡然降生的，它也有前世今生。往前追溯，“老子英雄儿好汉，老子反动儿混蛋”是半个世纪前流行的分类法，是阶级斗争时期划分阵营的标准，话糙理不糙，隐约闪现“赵家人”这个词语的雏形。</p>
+<p>“老子与儿子”的血统论，自然有他的后果，这里不用多说。陈云有言：还是我们的孩子可靠，不会掘自己的祖坟。这句话定下的铁尺原则，其影响所流布，也为时人耳熟能详。元老的概括更进一步，将血统论作了升华，“老子”也不是所有人都配叫的。</p>
+<table><tbody><tr><th><span>于此衍生而来的，就是孙立平所言的“我们”与“他们”。社会崩溃论可视作孙立平的关键理论，而提炼出“我们”与“他们”这组对立的划分法，更是其独到之处。许多人可能听过孙的这个说法，但当时没有能够玩味到，等到“赵家人”一说出来，恍然大悟。</span></th>
+</tr></tbody></table><p>相较于我们/他们，“赵家人”更不掩饰，其源流是血统论，但现实存在是金字塔顶端，把我们/他们切割得更加细致、更加陡峭、更少虚与委蛇。“赵家人”不啻是一种断崖式的划分法，它最意识形态最大的挑战，莫过于设定了那些始终被精心设计的、含糊的主语。</p>
+<p>我们知道宪法文本是有内在冲突的，所以左右人群各取所需，宪法属性就此含混不彰，“赵家人”一出，明了；人们也问法治法治，到底是谁的法治，“赵家人”解决了这个谜团；又，谁的社会主义？谁的社会主义核心价值观？“赵家人”统统做了回答。</p>
+<table><tbody><tr><th><span>由此可见，“赵家人”解决了中国人政治生活中要么习焉不察、要么困惑误解、要么精心隐藏的主语问题。“赵家人”作为一个词语的启蒙，盖过了自由派知识分子几十年的努力。实在是因为，“赵家人”除了廓清主语，更在于有力地回答了共识与否这个大问题。</span></th>
+</tr></tbody></table><p>显而易见的事实是，中国存在着非黑即白的二元现实。但是总有一些人不死心，是要寻找所谓共识的。比如在改革动力上认为有横跨“我们”与“他们”的“共识”，在意识形态上有超越左右的“共识”，有所谓中道，各类虚假希望就此产生，“赵家人”不这样看。</p>
+<p>“赵家人”对真真假假的“共识”不感兴趣，它指示了界限所在，这个界限是深深的鸿沟。所以，继为意识形态确立主语之后，“赵家人”破除了社会思想上赖以苟延残喘度日的“共识”。昭然若揭的是，有“赵家人”就没有共识，“赵家人”对共识不感兴趣。</p>
+<p>对“共识”派绝妙的讽刺在于，“赵家人”的得势恰恰是借助“共识”而来，从窃取“共识”成果而来，但它又绝对地屏蔽“共识”，或者说，只有赵家人的“共识”才算是共识。靠鼓吹“共识”混饭吃的媒体、各类人等，在“赵家人”之后当有新思维。</p>
+<p>无论是老子/儿子，还是我们/他们，论者想得总是找到联系点，以便求取“共识”。历史地看，这很可能是一种不自知的病症，是对此种划分的误读，从而走上了被利用的道路。估计还是有人如法炮制，在赵家人/非赵家人这里寻找共识的，真是呜呼哀哉。</p>
+<table><tbody><tr><th><span>所以，如果不能从“赵家人”划定的分野开始思考，拒绝从它标明的悬殊沟壑处出发，又会陷入无聊的循环，就像血统论、我们/他们那样，形成话语陷阱的因果往复，到时候不要说报应不预也。但很有可能，“赵家人”所提供的终结/起点，会被包括共识派在内的人群有意葬送。</span></th>
+</tr></tbody></table><p>总的来说，“赵家人”在纵向的话语历史脉络上，是老子/儿子的血统论、我们/他们两分法于网络统治时代衍生出的新品种；而在现实意义上，则是对全套意识形态护卫的“命门”——模糊主语——的逆反与廓清。它相当于话语竞争上的《1984》。</p>
+<p><strong>题图当代水墨，作者新浪微博：@秃头倔人</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E5%8F%B7%E6%B2%89%E8%88%B9%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%EF%BC%8C%E7%B3%BB%E7%81%BE%E9%9A%BE%E4%BA%8B%E4%BB%B6%E8%88%B9%E4%BD%93%E5%90%88/" target="cdt-mirror">端传媒｜“东方之星”号沉船报告公布，系灾难事件船体合规范</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg" rel="attachment wp-att-423553"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg" alt="2015年6月5日，救援人员翻沉的“东方之星”游轮打捞出水。摄： ChinaFotoPress/ChinaFotoPress via Getty Images" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><p>2015年6月5日，救援人员翻沉的“东方之星”游轮打捞出水。摄： ChinaFotoPress/ChinaFotoPress via Getty Images</p></div>
@@ -522,41 +648,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%85%B0%E8%8A%B1%E6%8C%87/" target="cdt-mirror">【麻辣总局】邝飚：兰花指</a>
-</h2>
-<p><blockquote><p>相关阅读：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/423275/">【赵王回车】军报详解习近平键盘发微博：自主研发平台</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">【网络民议】请按那个橙色键</a></li>
-</ul></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/mmexport1451513244035.jpg" rel="attachment wp-att-423309"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/mmexport1451513244035.jpg" alt="邝飚_兰花指" width="500" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%85%B0%E8%8A%B1%E6%8C%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">习近平发微博</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A2%81%E4%BA%AC%E8%AF%84%E8%AE%BA%EF%BC%9A2016%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%87%E5%A4%A7%E5%85%B3/" target="cdt-mirror">自由亚洲 |梁京评论：2016，习近平过大关</a>
-</h2>
-<p><p>2016年，习近平将面临他执政以来最大的挑战，这一点已经毫无悬念。</p>
-<p>有人认为，2016年习近平面对的最大难关，是经济下滑导致经济危机爆发，包括金融危机爆发，人民币大幅贬值，失业剧增，通货膨胀，并由此引发政治危机。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-30-at-%E4%B8%8B%E5%8D%886.03.08.png" alt="Screen Shot 2015-12-30 at 下午6.03.08" width="516" height="346" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-30-at-下午6.03.08-300x201.png 300w, http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-30-at-下午6.03.08.png 516w" sizes="(max-width: 516px) 100vw, 516px"></p>
-<p>在我看来，中国的经济虽然危机重重，但仍有回旋余地。人们强调经济危机对习近平权力挑战的一个潜在原因，就是不少希望习近平下台的人自觉不自觉地希望经济不好，从而给习近平带来压力。而这样的人在权贵中，特别是高官中是越来越多了。他们的这种消极对抗态度，也是经济危机不断加深的一个重要原因。最近中纪委的网站又发了一篇奇文，题目是”官员都在坐等出事”，就是影射这个现实。而现实比”坐等出事”更严峻，因为不少官员是在”坐盼出事”。</p>
-<p>这说明，习近平面临的政治危机，其实是比经济危机更大的挑战。三年来，习近平任性和霸道的执政风格令自己在权力精英和知识精英中陷入空前的孤立，不看好习近平已经成为相当普遍的共识。在这样的背景下，2016年的中国迎来的两个重大的政治事件，将成为诱发政治危机的导火索。一个政治事件就是纪念文革五十周年。另一个事件就是中共高层要确立十九大领导班子的人选。</p>
-<p>12月26日是毛泽东的诞辰。这几天围绕对毛的历史评价，许多微信群组都出现了热烈的议论和激辩。可以想像，明年一年，经历过文革的这代人，都不免会特别关注对文革的种种议论。这就为各种涉及文革的文字，提供了广大的读者群。没有经历过文革的中产阶级，尤其是他们的中坚力量——专业人士和知识分子，对文革这段历史也会产生特别的兴趣，因为半个世纪前他们父辈的经历已然有了越来越现实的意义：他们的职场和单位的政治生态，已经出现了类似文革的人人自危氛围。如何在这种氛围中保护自己，要不要借这种氛围来害人谋私，都成为很现实的问题。</p>
-<p>至于中共的高层权斗，因为习近平上台以来日益加剧的治理危机而有了新的内涵。原来大佬们想的主要是如何保住家族和帮派的利益，现在忧虑更多的则是习近平的这种搞法，会不会把整条船弄翻，让大家一起完蛋。因此，围绕著十九届中共常委人选的一场高层权斗，中共大佬们将有一个明确的共同目标，那就是如何来制约习近平的权力，避免同归于尽的前景。</p>
-<p>这场权斗对习近平的最大挑战就在于，他为了保住自己的权力，将设置什么样的政治伦理和道德的底线？这个选择是习近平政治生涯的一大关口，不仅关系到他的历史地位，更关系到整个中国和世界的福祉。我之所以这样想，是因为我看到痞子政治对习近平有很大的诱惑。为了保住自己的权力，他有可能学毛泽东的样，全面调动中国痞子政治的文化资源和社会资源，而中国从来不乏这样的资源。我相信，这也是今天许多人批毛、批文革时心中怀有的隐忧。</p>
-<p>不过，我还不能接受这样一种悲观的判断，那就是像文革那样调动人性中的邪恶是习近平唯一可能的选择。毕竟今天的中国已经不同于文革时代，”你死我活”的逻辑很难让绝大多数人理解。当然，习近平要拒绝痞子政治的诱惑，选择”自己活也让别人活”的理性政治，2016年就不得不做出不轻松的政治妥协，并且对自己的任性和霸道作风做痛苦调整，此即”过大关”之谓也。我有一位支持习近平的朋友告诉我，以习仲勋一家在文革乃至九十年代的经历来判断，应相信习近平有足够的调整能力和政治生存能力。</p>
-<p>我希望2016年能证明我的这位朋友对习近平的判断是对的，因为我实在不愿看到，习近平选择全面推动痞子政治带来的灾难后果。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E6%A2%81%E4%BA%AC%E8%AF%84%E8%AE%BA%EF%BC%9A2016%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%87%E5%A4%A7%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E4%BA%AC/?category=18271" rel="tag">梁京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -568,7 +659,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -578,5 +669,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

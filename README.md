@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%93%E8%AE%BF%E5%A4%B1%E8%B8%AA%E4%B9%A6%E5%95%86%E5%A6%BB%E5%AD%90%EF%BC%9A%E7%96%91%E8%A2%AB%E6%8E%B3%E5%88%B0%E5%86%85%E5%9C%B0%EF%BC%8C%E5%9B%9E%E4%B9%A1%E8%AF%81%E5%9C%A8%E9%A6%99%E6%B8%AF/" target="cdt-mirror">端传媒 | 铜锣湾失踪书商疑被掳到内地，回乡证在香港家中</a>
@@ -69,7 +69,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E8%B5%B5/?category=18271" rel="tag">贵赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%85%9A/?category=18271" rel="tag">你党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E8%9B%A4/?category=18271" rel="tag">我蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E8%9B%A4%E7%81%AD%E5%8C%85/?category=18271" rel="tag">续蛤灭包</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E6%94%AF/?category=18271" rel="tag">贵支</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%B8%E8%8D%AF%E5%A5%96/?category=18271" rel="tag">炸药奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E6%94%AF%E8%8D%AF%E4%B8%B8/?category=18271" rel="tag">贵支药丸</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/423657/" target="cdt-mirror">【立此存照】先有高洁 后有雷克，顺之者昌 逆之者亡</a>
 </h2>
@@ -674,7 +674,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -684,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

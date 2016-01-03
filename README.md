@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%8D%B1%E9%99%A9%E4%BA%86/" target="cdt-mirror">东网｜南桥：香港危险了</a>
+</h2>
+<p><p>据香港多家媒体报道，铜锣湾书店一名股东李波在岁末突然失踪。据李波妻子报案称，出事当日有人致电该公司表示要买十多本书，李波被骗到位于柴湾的货仓而中伏。几小时后，李太接到丈夫疑从深圳打来的电话，透露“正协助调查”，并表示“不要搞大”事件。这个电话所用的“协助调查”和“不要搞大”的说法，显示出此事背后中国公安操作的标记。这些说法是典型的中国大陆公安的用词。中国公安在“请喝茶”、黑头套、强迫旅游等措施的时候，通常会使用这样的语言，这类说法即使是香港的黑社会也不会用的。</p>
+<p>在此之前，以专门经营大陆禁书而小有名气的铜锣湾书店，已经有四名股东和工作人员先后在泰国和中国内地失踪，至今不知下落。李波是在香港的地界失踪，事后给家人的电话却疑是从深圳打来。他是怎么从香港去了深圳的呢？</p>
+<p>我认为，这是一个非常令人不安的事件。香港危险了。</p>
+<p>香港立法会议员涂谨申指出，事件的关键在于这些人是否自愿离开香港。他还指出，李波失踪后的“报平安”电话，说明制造事件者刻意营造失踪者是自愿前往内地“协助调查”，给人以没有失去自由的假象。在中国内地，公安是用不着这最后一步的，长久不通知家属的失踪事件有的是，但是香港不同，香港人在香港地面上失踪，司法部门照规矩是必须介入的。</p>
+<p>香港和内地，实行一国两制，而最大的不同，保证“两制”能持续下去的关键，是香港实行与内地不同的司法制度。香港是实行英国人留下的普通法体系的，其关键性的核心是历史悠久的“人身保护令”，任何人在任何有可能失去人身自由的情况下，第一件事是法庭过堂，有独立的中立的法官来决定此人被拘押被限制自由是否合法，是否必要。也就是说，香港人在香港地面上，太太平平的是不会无缘无故突然被警察弄去“协助调查”的。在我看来，这是做一个香港人和做一个大陆人最大的区别。可是这一次，铜锣湾书店的股东李波却在香港地面上突然疑去深圳“协助调查”了。这令人怀疑，香港人所拥有的司法保护在消融。这种消融一旦开了一个头，会发展到什么程度，谁也说不上。这种事件不阻止，香港的司法体系就会逐渐变质。一旦香港的司法内地化，香港就不再是香港了。</p>
+<p>当年邓小平承诺，香港回归后“马照跑，舞照跳，股照炒”，那么香港人有没有拒绝中国公安而“不协助调查”的权利呢？照理说，应该是有的，香港人在香港，应该享有免于恐惧的自由，应该不受大陆公安的影响。然而，铜锣湾书店至今竟有五人失踪，股东李波是在香港的地面上失踪。香港警方称李波“身体智力正常，有手有脚，有出境自由”，对他的失踪只暂时备案，对案件列为失踪人士由失踪人口调查组跟进。其实香港警方寻找这个失踪人口应该找大陆公安，让大陆公安表态，人是不是在你们手里，你们不可以在香港地面上把一个香港人弄到你们手里的。</p>
+<p>这一切，没有按香港法律体系的程序发生，连傻子都看得出，大陆公安在行动。</p>
+<p>事实上，按照大陆的政治性格，大陆公安是不会放过香港的，问题只是在什么时候他们能够做些什么。香港是全世界都知道的一个自由的地方，有时候大陆公安只能忍耐，不可以像在内地一样为所欲为，但是，大陆公安记仇，他们不会永远忍耐。只要香港的司法制度不阻挡他们，他们总有一天要在香港为所欲为的。</p>
+<p>九七回归后，香港似乎一切太平。我记得曾经在香港的一个大学里短期访问，经常遇到大陆来的学者，还经常遇到大陆来的身份不明的年轻人。这类年轻人穿着讲究但是有雷同的风格，出入低调但是很显眼，因为只有他们在早餐的时候用小调羹喝咖啡而且喝出声响来。所有看到他们的人都明白，这些人是来公干的，但是谁也不打听他们到香港的大学来是来干什么的，大家都不由自主地对他们敬而远之。</p>
+<p>那时候我就在想，他们最起码是来了解情况的，他们需要知道他们想知道的事情，香港没有什么事情他们不想知道的，不知道他们不放心不甘心。以后呢，以后他们会干什么？</p>
+<p>十几年后，我们看到了这个“以后”，香港人李波和他的四个同事失踪，疑“自愿”地去了“协助调查”，还要家属“不要搞大”，而香港的警方和司法体系，却至今无所作为，而且看上去不想有所作为，不敢有所作为。</p>
+<p>香港的自由，还保得住吗？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%8D%B1%E9%99%A9%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A%EF%BC%9A%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA%E6%A1%88%E7%96%91%E6%B6%89%E4%B9%A0%E8%BF%91/" target="cdt-mirror">BBC ｜香港支联会：铜锣湾书店人员失踪案疑涉习近平题材作品</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/tonglasdf.jpg" alt="tonglasdf" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/tonglasdf-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/tonglasdf.jpg 700w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>何俊仁（中）表示据传巨流传媒被劝止不要出版有关“习近平情人”的新书。</p>
+<p>香港民运团体称，铜锣湾书店五名股东职员失踪一事，可能涉及一本尚待出版有关中国国家主席习近平的书籍。</p>
+<p>香港市民支持爱国民主运动联合会（支联会）主席何俊仁周日（1月3日）称，这本书据信是有关习近平年轻时的情人。</p>
+<p>一位与铜锣湾书店老板桂民海关系密切的知情人士也对BBC中文网称，在五人先后失踪之前，该书店的确在策划出版一本有关习近平与其情人的书籍，甚至其书名就叫做《习近平与他的情人》。</p>
+<p>由于铜锣湾书店及其母公司巨流传媒出版及售卖政治敏感书籍，令人联想五人被内地官方人员带走。港府官员强调警方正在调查，目前不作揣测评论。</p>
+<p>何俊仁说，无人知否究竟五人失踪与这本尚未出版的书籍有否关连，不过形容这只是“骆驼背上最后一根稻草”。</p>
+<p>何俊仁在新闻发布会上说：“有几位与书店相熟的读者对我们说……听闻最近有一本书将会出版，会涉及到习近平年轻时候的一位情人。我曾听闻有人劝他们不要出版这本书籍。”</p>
+<p>再接电话</p>
+<p>自去年10月起，包括桂民海在内的铜锣湾书店四名股东和职员相继在大陆及外地行踪不明。至上周三（12月30日）晚上，股东李波亦告失踪。</p>
+<p>据香港媒体报道，李波妻子在家中已找到李波的回乡证与护照。多家媒体也引述消息称，港方并无李波的出入境记録。</p>
+<p>李太太说，周六约11时（格林尼治标准时间3时）再次接到李波报平安的电话，电话号码与此前一样是来自广东深圳。不过当她问李波是否身在深圳，他没有响应。</p>
+<p>当李太太说“你让他们听电话”，电话随即被切断。</p>
+<p>“冲击一国两制”</p>
+<p>李波在香港疑似被中国内地警方带走，何俊仁形容为“政治绑架”。</p>
+<p>被问到失踪事件会否与私怨有关，何俊仁对BBC中文网说：“当然是有可能，但是到现在已经变成一件这么大的事情，如果他们人是在内地、如果中央政府不认同他们现在被逮捕拘留，他们应该马上给释放了。”</p>
+<p>“如果中央政府还是纵容这些人的做法，那就是有问题了。”</p>
+<p>支联会秘书李卓人说：“李波事件让全香港人感到心寒、感到恐怖、感到愤怒。如果我们香港一国两制连港人的人身安全自由都无保障的话，我们还有甚么保障？”</p>
+<p>香港政制及内地事务局局长谭志源周日对记者说：“在一国两制的安排下，香港本身的法律是由香港特区政府相关的执法机构来执行，内地所有执法机关必须服从于一国两制的安排，这是大原则。”</p>
+<p>谭志源呼吁不要就事件多作揣测，并说：“个案正由保安局调查当中，若有进一步（消息），我相信他们会作进一步交代。”</p>
+<p>署理保安局局长李家超也回应说，香港警察港岛总区失踪人口组正跟进事件，由于李波是在香港失踪，事件的性质与此前四名失踪的书店股东及职员有所不同。</p>
+<p>李家超重申香港是法治之地，香港的执法权只属香港的执法部门。保安局已向内地机构查询是否有香港人被拘留，但尚未得到回覆。</p>
+<p>“打压出版业”</p>
+<p>何俊仁周日还说：“铜锣湾书店与其他售卖禁书书店不同之处，就因为它有巨流出版社。这个出版社的桂（民海）先生及他的朋友，相信他有不同渠道拿到不少敏感讯息。”</p>
+<p>何俊仁指，虽然书籍的可信性或有问题，但由于深受大陆游客欢迎，已“产生政治影响”。他说：“据知这些书籍相当畅销，尤其是周永康出事的那段时间。”</p>
+<p>据报，铜锣湾书店相关出版社出版的“中共禁书”约占香港“禁书”市场三分之一。</p>
+<p>支联会下周日将举行游行，呼吁港人关注铜锣湾书店事件。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A%EF%BC%9A%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA%E6%A1%88%E7%96%91%E6%B6%89%E4%B9%A0%E8%BF%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A/?category=18271" rel="tag">香港支联会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%98%8E%E6%8A%A5%EF%BD%9C%E4%B9%A0%E6%96%B0%E4%B9%A6%E6%89%B9%E8%96%84%E7%86%99%E6%9D%A5%E4%BB%A4%E8%AE%A1%E5%88%92%E5%88%86%E8%A3%82%E5%85%9A/" target="cdt-mirror">明报｜习新书批薄熙来令计划分裂党</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg" alt="习近平亲民" width="500" height="395" srcset="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235-300x237.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></p>
@@ -48,6 +111,28 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%98%8E%E6%8A%A5%EF%BD%9C%E4%B9%A0%E6%96%B0%E4%B9%A6%E6%89%B9%E8%96%84%E7%86%99%E6%9D%A5%E4%BB%A4%E8%AE%A1%E5%88%92%E5%88%86%E8%A3%82%E5%85%9A/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A2016%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E5%B0%86%E5%8F%98%E6%9C%AC%E5%8A%A0%E5%8E%89/" target="cdt-mirror">东网｜东步亮：2016白色恐怖将变本加厉</a>
+</h2>
+<p><p>这是 2016 年的第一篇文章。新年本来应该说点吉利话，可是眼下的形势，依旧让人悲观。</p>
+<p>今年大陆的白色恐怖措施可能仍将延续，甚至有可能变本加厉。</p>
+<p>恐怖气氛如影随形。岁末年终和新年伊始，各种不好消息仍在不断传来。最新的一则消息是曾为蒙冤访民代理「敲诈政府案」的济南律师舒向新遭公安以「诽谤罪」逮捕，而将此事发上微博的律师同行则遭到国保威胁， 「小心办了你！」</p>
+<p>如果一切都摆上台面，光明正大地该怎么办就怎么办，正义根本不会畏惧邪恶，怕的是国家机器耍流氓手段，它们不走「正路」，最常使用的手法是私底下抓捕、绑架、赃栽、陷害、恐吓，而不让外人知。去年 9 月已被北京市东城区检察院决定「不起诉」的原调查记者刘虎，屡次申请国家赔偿而不得。最近再次前往申请时，被威胁「如果还要求国家赔偿，就给你定罪」。果然，几天之后，东城区检察院就收回已作出三个多月的「不起诉决定书」，决定变更为「罪行轻微不起诉」，由无罪变成了有罪。声称要「依法治国」的国家视法律为玩物，司法机关的决定说变就变，仅仅因为你不听话，而不是事实有何变化。浦志强的「判三缓三」想必也是如此，缓刑的目的就是为了更好地控制他的思想言行。</p>
+<p>看过李庄最近公布的当年重庆审判李庄案的庭审笔录吧？和流氓政权缠斗，你是永远缠不过它的，因为它的基本逻辑是流氓，是白色恐怖，毫无理性与法律可言，想「解决」你总是有办法。</p>
+<p>什么叫白色恐怖和流氓？一位资深媒体人说，「媒体这一行，做了整整十五年。我入行时的总编和主管，现在统统在监狱里了。我入行时的媒体单位，现在连刊号都被吊销了。」一位北京的市民说，「我说怎么最近出租司机变乖了，很少见乱喷的了，以前在能听到的精彩段子、政治八卦都没了，问司机才知道，每个车上都装了监听」这两件看起来似乎毫不相干的事，解释了当下的气氛，它们有着绝对内在的关联。</p>
+<p>再举个例子。香港著名禁书店「铜锣湾书店」的一名老板和四名员工，自 2015 年 11 月以来，已先后在东莞、深圳、泰国和香港本地失踪，下落不明。连香港禁书店的经营人员都人间消失，红色巨人之爪竟能在作为自由民主之地的香港为所欲为，还有什么地方能够幸免，不被荼毒？</p>
+<p>著名学者、中国社科院社会问题研究中心主任于建嵘，在 2015 年上半年曾和他的朋友们有一个赌约，他赌 2016 年 9 月以后，当前的局势会有所缓和，被抓的朋友们会陆续获得一定程度的自由，包括他在内的异议人士会获得一定程度的自由言说空间，激烈地抓捕、打压异见人士的活动会有所收敛。但前提是中共现任领导人完成了对各方面权力的绝对掌控，错综复杂的权力斗争中习取得了最终胜利，具备了相对的安全感。他说，之所以把时间点定在 2016 年 9 月，是因为 2016 年 10 月将召开十八届六中全会，这次全会之前中共会基本确定十九大的人事问题。</p>
+<p>于建嵘对中国社会问题的看法历来深刻而富于洞察，他对中国社会政治前景曾有过多次准确的预测。但这次，恐怕他要失算了。以目前的形势来看，有关部门抓捕、打压异见人士，控制社会各阶层人士言论的行动丝毫不见半点收敛，预示主要领导人至今毫无「安全感」，今年这些白色恐怖措施可能仍将延续，甚至有可能变本加厉。</p>
+<p>但是，终有压垮巨人的最后一根稻草。终有人推倒多米诺骨牌。终有某个偶然引发必然。垮台往往只在一瞬间。只是，这个时间点会不会是 2016 ？或许这是今年，也许是今后几年唯一也是最大的悬念。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A2016%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E5%B0%86%E5%8F%98%E6%9C%AC%E5%8A%A0%E5%8E%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%BD%93%E5%88%B6/?category=18271" rel="tag">极权体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%9E%81%E6%9D%83/?category=18271" rel="tag">新极权</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -570,98 +655,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E5%9B%BD-%E5%9B%9B%E7%A7%8D%E4%BA%BA%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E5%AE%B6%E7%9A%84%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5/" target="cdt-mirror">东网 |“赵国”四种人：赵家人、赵家的家人、赵家的雇农、自耕农</a>
-</h2>
-<p><p>最近的流行词是「赵家人」，它来自鲁迅的《阿 Q 正传》：赵少爷中了秀才，自认为姓赵的阿 Q 跟着欢呼时，赵老爷一个嘴巴抽去：「呸！你也配姓赵？」 由此引申开来，赵家特指中国的权贵家族。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%889.44.20.png" alt="Screen Shot 2015-12-31 at 下午9.44.20" width="550" height="392" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.44.20-300x214.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.44.20.png 632w" sizes="(max-width: 550px) 100vw, 550px"><br><span>赵家人、赵国等词的流行，是在政治倒退、网络管制下，网民对官方主导话语的戏谑性解构</span></p>
-<p>赵家人、赵国等词的流行，是在政治倒退、网络管制的局势下，网民对官方主导话语的戏谑性解构，什么「人民共和国、当家作主、人民公仆、权为民所用」。如果没有「权为民所授」，没有选举和监督，谁都知道说的是一回事，实际是另一回事。</p>
-<p>赵家人除了笼统的指权贵家族，还可以细分。首先是赵老爷，毛邓一代的老一无（老一辈无产阶级革命家）基本都走了，但影响还在。其次是赵大人和赵少爷，除了江胡时代的政治大佬及其子嗣官二代，最主要的就是红二代太子党、驸马党，以及峥嵘显现的红三代。他们或出将入相，掌控党政军大权，或执掌经济命脉，垄断能源、金融、电讯等支柱产业，控制资本和对外贸易。许多人都直接或间接为赵家人打工。</p>
-<p>赵家人不光在中央一级，各级地方都有。曾任泰安市委书记的胡建学说过，共产党的官，当到市（地、厅、局、司）一级，就为所欲为、无法监督了。各级政府的权力高度集中，一个县委书记就是说一不二的土皇帝，其同僚、家族，通过政治联姻、政商勾结，基本上把持了一个地方的权力和利益。</p>
-<p>除了赵家人，还有赵「家人」，也可称为「家丁、家仆、家奴」。虽然叫人民军队，但归党绝对领导，除了守土备战、抗洪救灾，遇上 1989 那样的事，不惜开枪也要维护「赵」家权力（不是赵紫阳，是赵老爷）。公检法近三年重新使用文革时的概念「刀把子」，每有拆迁、上访等官民、商民纠纷，毫无例外地站在赵家和商家的权贵一边，打压民众。网民发帖举报或批评官员个人，本来应该官员起诉或媒体应对，但经常是「刀把子」删帖抓人，把官员自诉案，变成利用权力的公诉案。</p>
-<p>赵「家人」里面还有媒体，自己饱受压制，没有新闻自由，但把「喉舌」当大脑，以为自己也是赵家人，总是制造和谐、正能量圆梦。还有许多赵家豢养的「门客」文人，不断为赵家造势辩解。这些「家人、门客」，不管是做什么工作的，都直接听民于大小赵家，换得衣食住行。</p>
-<p>除此之外，还有雇农和自耕农。现在是工业社会，怎么还有雇农？看看赵家的权力产生和继承方式、个人崇拜、土地独占、土豪流行、对民众权利和福利的漠视，就知道还是赵国时的农业社会，至少是前工业社会。</p>
-<p>雇农主要是指官府的小吏、当差，赵家控制的国有企事业单位的工人、职员、小知识分子。他们凭着自己的付出伺候着赵家，却总是被教训饭碗是赵家所赐，不能「吃饭砸锅」。</p>
-<p>自耕农则是外企、私企的雇员、中小企业主、自由职业者。他们靠自己的本事吃饭，不需要吹捧赵家，但也不敢得罪赵家。不光政治上被排斥、经济上遭受不公平的竞争，而且自耕农不是自由民，税收、户籍、护照、个人信息全部由赵家掌握，专治各种不服。</p>
-<p>赵家人、赵家的家人、赵家的雇农、不敢惹赵家的自耕农，这就是赵国四种人。</p>
-<p>来源：东网 / 乔木 北京传媒学者</p>
-<p><img alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E5%9B%BD-%E5%9B%9B%E7%A7%8D%E4%BA%BA%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E5%AE%B6%E7%9A%84%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/" target="cdt-mirror">美国之音 | 习近平致新年贺词 网友说“看哭了”</a>
-</h2>
-<p><p><em>慕小易</em></p>
-<p>新年前夕，中国国家领导人习近平在中国电视台央视发表2016年新年贺词。习近平在致辞时延续他一贯的台风，表情和肢体语言比往年更丰富。</p>
-<p>习近平在贺词中提到，过去这一年，北京获得第24届冬奥会主办权、屠呦呦获诺贝尔奖，以及人民币纳入国际货币基金组织特别提款权货币篮子等事件，总结说：“这说明，只要坚持，梦想总是可以实现的”。</p>
-<p><strong>习近平的中国梦，是谁的梦？</strong></p>
-<p>中国梦是习近平在中共十八代后提出的指导思想和执政理念。他在今年访美前夕接受华尔街日报采访时说：“任何国家及每一位国民都有梦，梦想带来希望。”在致新年贺词时，习近平虽然没有明确提及”中国梦“，但他说：“只要坚持，梦想总是可以实现的”，似乎意指中国梦正在实现的过程中。但从一开始就有人指出，习近平定义的中国梦，毛泽东、华国锋早就提了，而且，按照当时中央的说法，也早已实现了。</p>
-<p>过去一年，中国的确在政策上有了一些发展和亮点如：全面实现“一对夫妻一对孩”、3000万“黑户”终于有了身份等。但是，同样在这一年，政府对维权律师和异议人士的打压，以及对言论自由的进一步压制等行动也为美好的中国梦蒙上了一层灰色。美国共和党总统候选人、国会及行政当局中国委员会（CECC）共同主席卢比奥12月初曾批评习近平，警告他不要让中国梦变“噩梦”。</p>
-<p>美梦还是噩梦，想来只有做梦的人才有裁决权，显然，每个人的梦，由于其地位身份以及拥有的财富之不同，其梦也是不一样的。</p>
-<p><strong>新年贺词只字未提雾霾</strong></p>
-<p>习近平说：“这一年，我们有欣喜，也有悲伤”。他谈到，<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E7%BF%BB%E6%B2%89%E4%BA%8B%E4%BB%B6/">“东方之星”号客轮翻沉</a>、天津港特别<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">重大火灾爆炸</a>、<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E5%B1%B1%E6%B3%A5%E5%80%BE%E6%B3%BB/">深圳滑坡</a>等事故，以及恐怖主义事件都为人民的生活带来“一些困难和烦恼”。他承诺，“党和政府一定会继续努力，切实保障人民生命财产安全、保障人民生活改善、保障人民身体健康。”</p>
-<p>有网友在文末评论说，习近平的这“三个保障”感动得他“快哭了”。也有网友说，那个阻碍油价下跌、促进社会公平的PM2.5为什么被习大大选择性忘记了。还有网友说：能用谷歌和脸谱和推特么？</p>
-<p>在中国，只有高官和高管如环时老总胡锡进等人和机构，可以登录使用上述这些西方社交媒体。这些单位和个人，预先实现了他们的西方梦。中国互联网高管说：互联网也有主权。不容外人侵犯中国主权。</p>
-<p>据说十几年前中国就有雾霾，但直到2008年北京奥运会前，官方媒体才逐渐提到空气污染问题。而今，雾霾已经严重到满街口罩的程度。12月28日，天津气象局发布一则趣闻：“本周天津将迎来两次雾霾，一次持续两天半，一次持续四天。”有在中国的媒体人评论说，“天津气象局以科学而严谨的方式，不经意的流露出来天津人民天生的幽默。”</p>
-<p>环球时报也很幽默。它的总编兼评论员单仁平12月29日发表一篇社评认为，虽然雾霾严重，但<a href="http://chinadigitaltimes.net/chinese/2015/12/423255/">学校不该装空气净化器</a>，恐会影响社会公平。</p>
-<p>习大大的新年贺词中没有提雾霾，有网友说，想必也是怕会影响社会公平与稳定。做梦者的“盗梦空间”，怎容外界妄议？</p>
-<p><strong>习近平：中国不能缺席</strong></p>
-<p>习近平在新年贺词中说：“世界那么大，问题那么多，国际社会期待听到中国声音、看到中国方案，中国不能缺席。”</p>
-<p>巴基斯坦、印度尼西亚、哈萨克斯坦、俄罗斯、美国……习近平在过去的一年中八次走出国门，在境外的总天数42天，进一步将世界的目光吸引到中国。他在贺词中说：“中国将永远向世界敞开怀抱……让我们的‘朋友圈’越来越大。”</p>
-<p>中国在处理国际事务时需要朋友，在经济发展上也需要朋友。中华能源基金委员会副主席何志平在美国传统基金会主办的会议上谈及“一带一路”项目时曾表示，发展“一带一路”计划的目的是为了交朋友。他说：“中国人说：我来到这里，目之所及，我都愿意与之交朋友，然后回家。”</p>
-<p>中国的“一带一路”计划全称为丝绸之路经济带和21世纪海上丝绸之路。习近平2013年9月访问中亚时首次提起这个构想。在新年致辞上，习近平表示，目前“一带一路”建设取得了实质性进展。</p>
-<p>“一带一路”耗资1400亿美元，涵盖50多个国家的44亿人口，区域经济总量占全球29%，被外界认为是继美国主导的重建战后欧洲的“马歇尔计划”之后规模最大的经济外交项目。从数字上看，该项目对中国政治经济的推动力不可小觑。但全球安全研究院主任盖尔·勒夫特也提出了他的担心。他在美国传统基金会主办的会议上谈到，目前中国在南中国海的岛屿纷争仍未解决，中印边境纠纷、斯里兰卡对中国的反感情绪、中缅边境的不稳定因素、“伊斯兰国”恐怖主义以及新疆问题都可能成为“一带一路”的路障。</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B32016%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%BE%9E/?category=18271" rel="tag">习近平2016新年贺辞</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/" target="cdt-mirror">美国之音 | 习近平致新年贺词只字未提雾霾</a>
-</h2>
-<p><div>
-<div>作者：慕小易</div>
-</div>
-<div>
-<div>
-<p>新年前夕，中国国家领导人习近平在中国电视台央视发表2016年新年贺词。习近平在致辞时延续他一贯的台风，表情和肢体语言比往年更丰富。</p>
-<p>习近平在贺词中提到，过去这一年，北京获得第24届冬奥会主办权、屠呦呦获诺贝尔奖，以及人民币纳入国际货币基金组织特别提款权货币篮子等事件，总结说：“这说明，只要坚持，梦想总是可以实现的”。</p>
-<p><strong>习近平的中国梦，是谁的梦？</strong></p>
-<p>中国梦是习近平在中共十八代后提出的指导思想和执政理念。他在今年访美前夕接受华尔街日报采访时说：“任何国家及每一位国民都有梦，梦想带来希望。”在致新年贺词时，习近平虽然没有明确提及”中国梦“，但他说：“只要坚持，梦想总是可以实现的”，似乎意指中国梦正在实现的过程中。但从一开始就有人指出，习近平定义的中国梦，毛泽东、华国锋早就提了，而且，按照当时中央的说法，也早已实现了。</p>
-<p>过去一年，中国的确在政策上有了一些发展和亮点如：全面实现“一对夫妻一对孩”、3000万“黑户”终于有了身份等。但是，同样在这一年，政府对维权律师和异议人士的打压，以及对言论自由的进一步压制等行动也为美好的中国梦蒙上了一层灰色。美国共和党总统候选人、国会及行政当局中国委员会（CECC）共同主席卢比奥12月初曾批评习近平，警告他不要让中国梦变“噩梦”。</p>
-<p>美梦还是噩梦，想来只有做梦的人才有裁决权，显然，每个人的梦，由于其地位身份以及拥有的财富之不同，其梦也是不一样的。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%889.35.35.png" alt="Screen Shot 2015-12-31 at 下午9.35.35" width="550" height="368" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.35.35-300x201.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午9.35.35.png 600w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><strong>新年贺词只字未提雾霾</strong></p>
-<p>习近平说：“这一年，我们有欣喜，也有悲伤”。他谈到，“东方之星”号客轮翻沉、天津港特别重大火灾爆炸、深圳滑坡等事故，以及恐怖主义事件都为人民的生活带来“一些困难和烦恼”。他承诺，“党和政府一定会继续努力，切实保障人民生命财产安全、保障人民生活改善、保障人民身体健康。”</p>
-<p>有网友在文末评论说，习近平的这“三个保障”感动得他“快哭了”。也有网友说，那个阻碍油价下跌、促进社会公平的PM2.5为什么被习大大选择性忘记了。还有网友说：能用谷歌和脸谱和推特么？</p>
-<p>在中国，只有高官和高管如环时老总胡锡进等人和机构，可以登录使用上述这些西方社交媒体。这些单位和个人，预先实现了他们的西方梦。中国互联网高管说：互联网也有主权。不容外人侵犯中国主权。</p>
-<p>据说十几年前中国就有雾霾，但直到2008年北京奥运会前，官方媒体才逐渐提到空气污染问题。而今，雾霾已经严重到满街口罩的程度。12月28日，天津气象局发布一则趣闻：“本周天津将迎来两次雾霾，一次持续两天半，一次持续四天。”有在中国的媒体人评论说，“天津气象局以科学而严谨的方式，不经意的流露出来天津人民天生的幽默。”</p>
-<p>环球时报也很幽默。它的总编兼评论员单仁平12月29日发表一篇社评认为，虽然雾霾严重，但学校不该装空气净化器，恐会影响社会公平。</p>
-<p>习大大的新年贺词中没有提雾霾，有网友说，想必也是怕会影响社会公平与稳定。做梦者的“盗梦空间”，怎容外界妄议？</p>
-<p><strong>习近平：中国不能缺席</strong></p>
-<p>习近平在新年贺词中说：“世界那么大，问题那么多，国际社会期待听到中国声音、看到中国方案，中国不能缺席。”</p>
-<p>巴基斯坦、印度尼西亚、哈萨克斯坦、俄罗斯、美国……习近平在过去的一年中八次走出国门，在境外的总天数42天，进一步将世界的目光吸引到中国。他在贺词中说：“中国将永远向世界敞开怀抱……让我们的‘朋友圈’越来越大。”</p>
-<p>中国在处理国际事务时需要朋友，在经济发展上也需要朋友。中华能源基金委员会副主席何志平在美国传统基金会主办的会议上谈及“一带一路”项目时曾表示，发展“一带一路”计划的目的是为了交朋友。他说：“中国人说：我来到这里，目之所及，我都愿意与之交朋友，然后回家。”</p>
-<p>中国的“一带一路”计划全称为丝绸之路经济带和21世纪海上丝绸之路。习近平2013年9月访问中亚时首次提起这个构想。在新年致辞上，习近平表示，目前“一带一路”建设取得了实质性进展。</p>
-<p>“一带一路”耗资1400亿美元，涵盖50多个国家的44亿人口，区域经济总量占全球29%，被外界认为是继美国主导的重建战后欧洲的“马歇尔计划”之后规模最大的经济外交项目。从数字上看，该项目对中国政治经济的推动力不可小觑。但全球安全研究院主任盖尔·勒夫特也提出了他的担心。他在美国传统基金会主办的会议上谈到，目前中国在南中国海的岛屿纷争仍未解决，中印边境纠纷、斯里兰卡对中国的反感情绪、中缅边境的不稳定因素、“伊斯兰国”恐怖主义以及新疆问题都可能成为“一带一路”的路障。</p>
-</div>
-</div>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90%E9%9B%BE%E9%9C%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B32016%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%BE%9E/?category=18271" rel="tag">习近平2016新年贺辞</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -673,7 +666,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -683,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

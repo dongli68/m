@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%98%8E%E6%8A%A5%EF%BD%9C%E4%B9%A0%E6%96%B0%E4%B9%A6%E6%89%B9%E8%96%84%E7%86%99%E6%9D%A5%E4%BB%A4%E8%AE%A1%E5%88%92%E5%88%86%E8%A3%82%E5%85%9A/" target="cdt-mirror">明报｜习新书批薄熙来令计划分裂党</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg" alt="习近平亲民" width="500" height="395" srcset="http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235-300x237.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/07/19244319140_2f2b553235.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>由中央文献出版社及中国方正出版社出版的新书《习近平关于严明党的纪律和规矩论述摘编》近日在内地发行，该书由中纪委及中央文献研究室编辑，书中首度公开很多国家主席习近平对反腐和「政治规矩」的讲话，习在讲话中更点名批判周永康、薄熙来、徐才厚、令计划、苏荣等前高官「背着党组织搞政治阴谋活动，搞破坏分裂党的政治勾当」。</p>
+<p>不同派系搞颠覆 暗批薄野心</p>
+<p>在去年 1 月 13 日的第十八届中纪委第五次全体会议上，习近平强调「政治纪律」和「政治规矩」居于中共党纪、党规的首位，指周、薄、徐、令、苏的案件是这方面的反面典型。</p>
+<p>习称，这些人「政治野心膨胀，为了一己私利或者小团体的利益，背着党组织搞政治阴谋活动，搞破坏分裂党的政治勾当」，痛批中共内部不同派系企图进行颠覆活动。</p>
+<p>习近平举例指出，有人「把党派他去主政的地方当成了自己的『独立王国』，用干部、作决策不按规定向中央报告，搞小山头、小团伙、小圈子」，且「为个人营造声势，政治野心很大」。这似是暗指曾主政重庆的薄熙来推行的所谓「重庆模式」。</p>
+<p>习近平还说，有人「冲着党的理论和路线方针政策大放厥词，散布对中央领导同志的恶毒谣言，压制、打击同自己意见不合的同志，一心以为鸿鹄将至，谁挡他的道就要把谁搬开」。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/Bo-Xilai-011-1024x614.jpg" alt="Bo-Xilai-011" width="550" height="330" srcset="http://chinadigitaltimes.net/chinese/files/2015/10/Bo-Xilai-011-300x180.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/10/Bo-Xilai-011-1024x614.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2015/10/Bo-Xilai-011-80x48.jpg 80w, http://chinadigitaltimes.net/chinese/files/2015/10/Bo-Xilai-011.jpg 1200w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>指有人散布领导同志恶毒谣言</p>
+<p>他又暗批原中办主任令计划建立的由山西籍高官富商组成的「西山会」，「有些干部聚在一起，搞个同乡会、同学会，一段时间聚一下，黄埔一期二期三期的这么论，看着好像漫无目的，其实醉翁之意不在酒」，「到处插手人事安排，关照自己小圈子里的人，结果他们就成了一根绳上的蚂蚱」。</p>
+<p>习还批评「妄议中央」的情况 ，表示有干部「热中于转发网上不良信息」，以及「四处寻问，八方打听，不该问的偏要问，不该知道的特想知道，捉到一些所谓内幕消息就到处私下传播」。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2014/12/141222145508_lingjihua_624x351_reuters.jpg" alt="令计划曾经长期担任前中共领导人胡锦涛的秘书。" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2014/12/141222145508_lingjihua_624x351_reuters-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2014/12/141222145508_lingjihua_624x351_reuters.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>令计划曾经长期担任前中共领导人胡锦涛的秘书。</p></div>
+<p>指有高官替贪官抱不平</p>
+<p>习近平说，「对中央查处的一些大案要案，有的高级干部就在背后说查人家干什么，做了那么多工作，就这一点小事就要抓住不放，显得忿忿不平的。情况是这样吗？看看那些人写的忏悔录，哪个人是冤枉的？」</p>
+<p>习近平特别指出，这类话虽然不是在正式场合说的，但其「腐蚀性、涣散性」非常严重。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CXoeE_QUwAAQfNZ.jpg" alt="枪杆子" width="551" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CXoeE_QUwAAQfNZ-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/CXoeE_QUwAAQfNZ.jpg 600w" sizes="(max-width: 551px) 100vw, 551px"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%98%8E%E6%8A%A5%EF%BD%9C%E4%B9%A0%E6%96%B0%E4%B9%A6%E6%89%B9%E8%96%84%E7%86%99%E6%9D%A5%E4%BB%A4%E8%AE%A1%E5%88%92%E5%88%86%E8%A3%82%E5%85%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C/" target="cdt-mirror">蘋果日報｜公安私自在港抓人违《基本法》</a>
+</h2>
+<p><p><span lang="EN-US">内地公安私自来港监视目标人物、搜集证据、甚至将涉案港人挟返内地审讯，自香港主权移交以来时有听闻，本港警方于</span>2004<span lang="EN-US">年也曾在港岛摩星岭道一高尚住宅外截获过</span>7<span lang="EN-US">名怀疑来港办案的内地公安。今售卖「禁书」的铜锣湾书店</span>5<span lang="EN-US">名港人先后失踪，其中李波更疑在港被内地公安绑架到内地，香港人权监察总干事罗沃垄称事件虽未经证实，但认为保安局及律政司应关注及交代事件，以维护一国两制及《基本法》。</span></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaa.jpg" alt="k5aaaaaaaaaaa" width="550" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaa-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaa.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>股东疑被公安带走的铜锣湾书店昨没营业</p>
+<p>团体促保安局交代</p>
+<p>罗沃垄说，内地公安来港「做事」已非新鲜事，而近期他也听闻有公安来港执法，但按《基本法》规定，公安来港应透过司法协助，不应自己出手，而在2003年7.1游行前后，就曾听闻有相当大批的不同公安系统人士来港，并要求逗留一段时间才离去，惟至今没有正式个案可予证实。他又说李波失踪事件仍未清楚，惟有传闻他被公安带到内地，保安局及律政司应关注及了解事件，并作出交代。</p>
+<p>支联会副主席蔡耀昌称，5名与售「禁书」书店有关人士，自去年10月起在不同地方失踪，事后他们的家人都接获报平安讯息，明显不是意外及绑架勒索，令人联想到是政府行为及与「禁书」有关。5名失踪者惟独李波是在港失踪，若证实为内地公安所为，令人震惊，希望特区政府全面调查及尽快交代事件，而支联会会留意事件进展，再作出跟进。</p>
+<p>1999年6月，46岁姓孙男子疑涉内地一国企骗案，被人目击在杏花村寓所外被人掳走，警方调查无出境纪录，疑被内地执法机构带到内地。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaaaaaaa.gif" alt="k5aaaaaaaaaaaaaaaa" width="548" height="405"><br>
+铜锣湾书店售卖多本中国政治禁书</p>
+<p>铜锣湾书店占中共禁书市场三分一</p>
+<p>涉事的铜锣湾书店以营销中共时政和高层内幕书籍著名，尤其是2014年桂民海（阿海）和李波接手经营后，店中描写中共高层政治内幕的书籍大增，成为内地文化客来香港游必去目的地之一，也是香港中国政治禁书出版发行的重要平台。</p>
+<p>据国际中文笔会会长贝岭介绍，阿海接手铜锣湾书店前自己就有多个出版社，如北运河、新视界版、三角地、双丰、飘萍、广度等，以不同社名交错出书，每年出约50本，占香港中国政治类禁书三分一。阿海与李波接手铜锣湾书店后，这一频率有增无减。据不完全统计，仅2014年以来铜锣湾书店售卖的中共禁书就有《习近平和元老巅峰之战》、《绝密：中南海零点计划》、《李克强因病辞职》、《十九大总理之战》、《中央军委清洗血案》、《大老虎反习同盟》等数十种。</p>
+<p>和阿海合作经营铜锣湾书店前，李波自己的香港文化艺术出版社也出版过一些涉中国时政和文化艺术方面的书籍，包括北大前副教授焦国标的《窝囊中国》等，但锋芒远不如阿海旗下所出版的书籍，影响也有限。</p>
+<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%93%E8%AE%BF%E5%A4%B1%E8%B8%AA%E4%B9%A6%E5%95%86%E5%A6%BB%E5%AD%90%EF%BC%9A%E7%96%91%E8%A2%AB%E6%8E%B3%E5%88%B0%E5%86%85%E5%9C%B0%EF%BC%8C%E5%9B%9E%E4%B9%A1%E8%AF%81%E5%9C%A8%E9%A6%99%E6%B8%AF/" target="cdt-mirror">端传媒 | 铜锣湾失踪书商疑被掳到内地，回乡证在香港家中</a>
 </h2>
 <p><p>自去年10月至今，專營过去3个月专营政治内幕书籍的铜锣湾书店5名股东及员工全部失踪，最近一个失踪的李波是在香港被带走，他妻子表示，李波一直觉得香港很安全，以为不离开香港就不会有事。</p>
@@ -67,6 +118,31 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E8%B5%B5/?category=18271" rel="tag">贵赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%85%9A/?category=18271" rel="tag">你党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E8%9B%A4/?category=18271" rel="tag">我蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E8%9B%A4%E7%81%AD%E5%8C%85/?category=18271" rel="tag">续蛤灭包</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E6%94%AF/?category=18271" rel="tag">贵支</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%B8%E8%8D%AF%E5%A5%96/?category=18271" rel="tag">炸药奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E6%94%AF%E8%8D%AF%E4%B8%B8/?category=18271" rel="tag">贵支药丸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%A0%E6%96%87%EF%BC%9A%E8%BF%98%E6%98%AF%E5%BF%8D%E4%B8%8D%E4%BD%8F%E8%A6%81%E7%A5%9D%E7%A6%8F%E4%B8%AD%E5%9B%BD%EF%BC%81/" target="cdt-mirror">章文：还是忍不住要祝福中国！</a>
+</h2>
+<p><p>往年新年第一天，我都会写一篇新年感言，回顾过去一年的得失、展望新的一年愿景。最近两年却失去了热情，自己也不清楚缘故，心情很复杂。</p>
+<p>也许是年逾不惑不愿再写应景之作，也许是平日里把该写的都写过了。仅仅在2015年，我平均每周要写两篇专栏，一年写了近一百篇的文章。好像把想说的话全说完了。</p>
+<p>前几天和大眼兄聊天，他感慨地说自己微博被封号前写的那些文章，加上诸多同道中人的文章，已经把该启蒙的人差不多启蒙完了，现在剩下的那些故意装睡的人，是没有办法唤醒他的。</p>
+<p>如今格局，大概如此。最近两年活跃网上的那些不讲道理的“喷子”，要么是“五毛”要么是“网络文明志愿者”，这些人都是衔着使命来网上“装睡”的，他们都在学前辈司马南之流，争取在中国出卖良心赚黑钱，然后把妻儿送到美国去。再进一步还可以学宋鸿兵之流，移民美国后出书揭批“美国阴谋”，拿到国内到处签售、演讲，名利双收！</p>
+<p>而那些赵家人，则面带微笑看着这一切。在他们的国里，对于他们之外的人赏罚是分明的：拍马溜须者赏肉汤，爪牙打手赏肉骨头。赏赐到此为止，如有僭越、取代之图，定当打回原形；不听话者则不得好食，若还敢大声抗议和批评，则销号、失联和吃牢饭等着他。</p>
+<p>所以世人看到，“依法治国”实际上是“依法治不服”，“寻衅滋事”、“扰乱公共秩序”、“煽动民族分裂”、“颠覆国家政权”等罪名随手拿来。所谓“法治”其实还是“人治”，只不过已不再是皇上一人说了算，而是赵家人说了算。</p>
+<p>当然，正如某些犬儒所言，也是有相当进步的。以前老毛时代，批评者很多是被从精神和肉体双重消灭的，现在不过销号、不过坐牢而已嘛。是的，在这个大猪圈里，养猪人把猪舍弄干净点、把猪食弄好吃点，猪们被宰之前是该感恩的。</p>
+<p>有朋友不解地问我，为什么赵国主政者一代不如一代？我的回答是：不是一代智商不如一代，而是遭遇的危机越来越严重。江时代，重点在继续扩大开放，忙于和世界接轨，国内少折腾，自然就相安无事；胡时代，外贸经济蒸蒸日上，国库充盈，官员也腐败，但他可以击鼓传花平稳过渡；如今却是内外交困，外贸受损、经济下行，新媒体、自媒体遍地开花，使得管控成本和难度陡然增高。</p>
+<p>此境之下，若是民主体制，必会采取两招来舒缓情势：对外，进一步的开放、更密切的国际合作；对内，进一步的减税、更全面的社会保障。然而在赵国，由于价值观差异的缘故，对外撒币多于实际合作，对内则只会进一步地压榨。</p>
+<p>结果可想而知。四起的失望和怨气经过微博微信的扩散严重冲击着赵国的政权根基，使得赵国主政者面临前所未有的压力。摆在他面前的就只有两条路：一条是进一步地管控，以铁腕对反对；另一条就是还权于民、还利于民，仿效台湾的蒋家人一步一步地摧毁旧体制，建立民主新国。</p>
+<p>然而，依目前形势看走的是第一条路，仍是一条几千年来的老路。这条路在二十一世纪已经越来越走不通了，面临的国内外障碍越来越多，如执意走下去，终究是死路一条。</p>
+<p>曾被传为赵国帝师的清华大学社会学家孙立平教授在过去的一年中，面对政局心情郁郁，只好寄情于山水之间，到处游山玩水拍花惹草，2015年12月31日的晚上还是终于忍不住在微博上写下他的新年愿望：辞旧迎新，总是怀有期待的时候。期待什么？改革？开放？发展？繁荣？实在不想说这些了。那期待什么？我期待的是人性的复苏。基于最基本的人性，分清是非对错；基于最基本的人性，明辨世界和文明的走势。这样才不会迷失。没有人性的回归，中国不会成为一个正常的社会。</p>
+<p>在我看来，人性的复苏，更多指向高位者。只有赵家人复苏了基本人性，以天下苍生为念，而不再执着于万年江山，赵国才有希望，赵家人也才可能避免被清算的命运。</p>
+<p>2016年的第一天，拉拉杂杂地写下这些话，算是我的新年寄语。尽管我对未来已不抱乐观期待，还是忍不住要祝福中国，这是我生长的地方，这是我和亲友们生活的地方，总是希望她能好一些，再好一些！</p>
+<p>作者：<a href="http://chinadigitaltimes.net/space/%E7%AB%A0%E6%96%87" target="_blank">章文</a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%A0%E6%96%87%EF%BC%9A%E8%BF%98%E6%98%AF%E5%BF%8D%E4%B8%8D%E4%BD%8F%E8%A6%81%E7%A5%9D%E7%A6%8F%E4%B8%AD%E5%9B%BD%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E6%96%87/?category=18271" rel="tag">章文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%B9%B4%E6%96%B0%E5%B9%B4/?category=18271" rel="tag">2016年新年</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5小时前</small>
@@ -586,83 +662,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86%E7%8E%B0%E8%B1%A1%E5%B9%B6%E4%B8%8D%E7%AA%81%E5%87%BA%EF%BC%9F/" target="cdt-mirror">美国之音 | 中国社会的民族歧视现象并不突出？</a>
-</h2>
-<p><p>作者：莫雨</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s.jpg" alt="E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/E0982490-B12B-490A-9106-7565BEE84ED4_w640_r1_s.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>西藏拉萨布达拉宫（资料图）</p>
-<p>华盛顿—中国最近发布的一份社会蓝皮书说，当前中国社会中存在的包括民族/种族在内的六种歧视现象并不突出。但是一些学者指出，中国在政策制度和执法方面对藏族等少数民族的区别对待、甚至是歧视在近几年非常普遍，连体制内的藏族官员和知识分子都有怨言，而这些赤裸裸的歧视会令西藏问题变得更加棘手和复杂。</p>
-<p>中国社会科学院上星期发布《社会蓝皮书：2016年中国社会形势分析与预测》。这本蓝皮书说，一个高质量的社会应当是一个有包容性的社会，也就是不应有各种制度性和非制度性的歧视，不同的社会群体不应受到区别对待。报告说，中国当前的社会歧视程度不高。</p>
-<p><strong>藏人遭受制度性歧视</strong></p>
-<p>但是，如果你是藏族，你很可能会被“特别关照”。</p>
-<p>现旅居美国的西藏问题专家阿沛晋美是已故中共藏族高官阿沛·阿旺晋美的三子，他早年也曾是中共体制内的人。他在接受美国之音采访时说：“近几年，在中国国内有这样的情况，就是，西藏人到中国内地去出差或者去旅行，上飞机要通过特别的检查口，到内地去住店、住饭馆，人家一看是西藏人，不让住，有很多这样的情况。这是一种非常明目张胆的民族歧视的行为。……如果中国认为他们是中华人民共和国公民的话，那应该一视同仁，与中国其他公民享受一样的待遇。但是，比方说，西藏人通通都不给发护照。西藏人过去有护照的，（现在）全部都收回去，现在西藏人想申请护照的话，是难上加难，几乎不可能。”</p>
-<p>另一位也在体制内学习和工作过、现旅居美国的藏族人士对美国之音表示，在过去，感受到这种歧视的往往是普通的藏族老百姓，但是现在，一些体制内的藏族干部也成了歧视的受害者。这位不愿透露姓名的藏族人士说，他听说过藏族官员被要求检查身份、而他的汉族同事甚至下级却可直接通行的事情。</p>
-<p>早些时候，曾任西藏自治区主席的人大副委员长向巴平措在一次人大常委会会议上说，少数民族群众在一些机场、酒店等服务性行业受歧视的问题已经产生不必要的社会冲击，并引发了少数民族群众的强烈反应。他说，政府需要更加努力来处理少数民族歧视问题。</p>
-<p><strong>“维稳”令问题复杂化</strong></p>
-<p>但是，一些分析人士认为，在中国目前强调“维稳”、“反分裂”和“反恐”的政治环境下，要想有效消除歧视藏族等少数民族的情况，似乎很难。</p>
-<p>上述那位不具名的藏族人士说，一些地方怕出事，就索性不让藏族人住酒店，或对藏族人进行区别对待。如果藏族人遭遇到了歧视，他们没有途径可以申诉，如果举动激烈一点的，又容易被扣上“达赖集团”的帽子。</p>
-<p>著名藏族学者、中国社科院研究生院藏学博士生导师降边嘉措在一篇文章中指出，即便是中共一些主管西藏政策的官员，如今也动不动就把有关西藏的很多问题简单地与“分裂主义”联系在一起，而不是检讨自己工作上的问题。</p>
-<p>他在抨击长期担任中共统战和宗教事务高官的朱维群和叶小文对“假活佛”事件的评论时说，朱维群在接受央视采访时只字不提汉族人吴达镕和张铁林他们是“假活佛”、“假法王”的事，却把矛头“直指藏族地区，指向藏族的喇嘛活佛，指向藏族同胞”。</p>
-<p>降边嘉措写道： “在西藏和其他藏族地区，一出现什么事，叶小文、朱维群就把它们与‘分裂主义’联系起来，然后‘义正词严’地加以批判，俨然成为‘反分裂’的英雄。对他们的这种做法，一些干部群众早就感到不满，批评说：‘反对分裂是个筐，什么问题都往里装。’”</p>
-<p>记者试图采访降边嘉措，但是他表示现在不方便接受采访。</p>
-<p><strong>歧视性做法产生副作用</strong></p>
-<p>2015年8月，中国国家主席习近平在中共中央第六次西藏工作座谈会上说，西藏工作的重要原则是“依法治藏、富民兴藏、长期建藏、凝聚人心、夯实基础”。</p>
-<p>但是阿沛·晋美认为，对藏族人的区别对待或者是歧视反而使中国的西藏工作适得其反。他说：“中国在西藏投入了很多，建设也花了很大力气，一方面想通过发展经济、提高人民生活水平这样的方法，让西藏人民能够跟中国人民同心同德，但是另一方面，这许许多多的歧视政策，反而造成了西藏人的离心离德。”</p>
-<p>一些观察人士指出，这些歧视事实上是在不断提醒藏族人（甚至是从小学习汉语的藏族人）他们在民族身份和文化上的不同；与此同时，而对于大多数中国的汉族人来说，他们了解西藏的渠道大多是中国官方的宣传报道，他们听到的不是西藏今非昔比的繁荣、藏人生活条件的改善、藏人受到的特殊照顾，就是“分裂势力”策划的暴力或自焚事件。观察人士说，这种两极性的话语反而会让汉族人产生“藏族人不知感恩”的观感，导致民族间的不信任。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86%E7%8E%B0%E8%B1%A1%E5%B9%B6%E4%B8%8D%E7%AA%81%E5%87%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">民族矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%97%8F/?category=18271" rel="tag">藏族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">民族关系</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E7%AC%AC%E4%BA%94%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA/" target="cdt-mirror">BBC中文网 | 香港铜锣湾书店第五名工作人员失踪</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/151231200232_hk_512x288_bbcchinese_nocredit.jpg" alt="151231200232_hk_512x288_bbcchinese_nocredit" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/151231200232_hk_512x288_bbcchinese_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/151231200232_hk_512x288_bbcchinese_nocredit.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><span>铜锣湾书店因出售政治书籍而深受中国大陆游客欢迎</span></p>
-<p>继2015年10月香港铜锣湾书店4名工作人员失踪之后，星期三（12月31日）又有一名雇员不见踪影。</p>
-<p>香港铜锣湾是繁忙的商业区，而位于铜锣湾的铜锣湾书店是一家以出售中国政治禁书而知名的书店。</p>
-<p>铜锣湾书店规模不大，但深受中国大陆游客欢迎，因为他们不能在大陆买到这些书籍。</p>
-<p>铜锣湾书店的4名老板及职员今年10月突然失踪，引发关注。</p>
-<p>他们的同事李先生当时对BBC记者说，因为书店的关系，4人可能已经被中国官员拘留。</p>
-<p>星期三（12月31日）晚上，李先生没有回家吃饭，他的妻子无法联系上他。</p>
-<p>他的妻子对BBC记者说，她感到非常害怕。</p>
-<p><strong>不明身份的男子</strong></p>
-<p>书店的一位工作人员说，李先生已经被身份不明的男子带走。</p>
-<p>在今年10月铜锣湾书店的4名工作人员失踪之后，李先生曾向BBC记者介绍有关情况，但是他当时由于害怕而拒绝透露自己的姓名。</p>
-<p>根据他的介绍，4名失踪者中包括桂民海，是一位已入籍瑞典的华人，也是巨流传媒有限公司的股东，而巨流传媒有限公司去年收购铜锣湾书店。</p>
-<p>另外3名失踪者是巨流传媒总经理吕波、铜锣湾书店业务经理张志平和铜锣湾书店经理林荣基。</p>
-<p>李先生在失踪前对BBC说，他认为桂民海是头号目标，中国官员想阻止他出版一本新书。</p>
-<p>李先生当时说，他并不清楚桂民海计划撰写及出版的书籍包含了什么内容。</p>
-<p>有观察家认为，如果这些人的确因书籍内容受到拘押，事件非常令人忧虑，因为这将对香港言论自由有严重影响。</p>
-<p>（撰文：跃生 责编：立行）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E7%AC%AC%E4%BA%94%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">政治书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-126/" target="cdt-mirror">【河蟹档案】刘虎：请大家共同见证我的罪</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%92%A2%E9%93%81%E4%BE%A0">钢铁侠</a>：原来那条微博是这样发出去的啊 <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">【网络民议】请按那个橙色键</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333.gif" alt="333" width="354" height="291"><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-38.jpg" alt="习近平" width="379" height="675"><br><a href="https://freeweibo.com/weibo/3924934121916699" target="/weibo/392">2015年12月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A8%E9%94%A6%E9%BA%9F">杨锦麟</a>：作者把這幅漫畫的主題寫成了三個字：倒車鍵。寓意深長哦。希望歷史不會開倒車。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2015/12/423275/">【赵王回车】军报详解习近平键盘发微博：自主研发平台</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/mmexport1451513244035.jpg" alt="邝飚_兰花指" width="312" height="441"><br><a href="https://freeweibo.com/weibo/3925916885446313" target="/weibo/392">2015年12月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%A5%BF%E5%AD%90%E5%B0%8F%E5%B0%8F%E5%B0%8F%E5%B0%8F%E8%A5%BF%E5%AD%90">西子小小小小西子</a>：//*<a href="https://freeweibo.com/weibo/%40%E5%86%85%E9%BB%84%E8%92%8B%E7%A7%80%E7%AB%A0%E5%8D%9A%E5%AE%A2_fYR">内黄蒋秀章博客_fYR</a>：[哈哈]这技术这版本<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-37.jpg" alt="333" width="500" height="248" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-37-300x149.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-37.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"><br><a href="https://freeweibo.com/weibo/3926221446344514" target="/weibo/392">2015年12月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%A7%A8%E5%A6%88%E5%A7%AC">姨妈姬</a>：周刊文春….说习大大像屁桃，日本药丸[拜拜][拜拜][拜拜] <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E5%91%A8%E5%88%8A%E6%96%87%E6%98%A5">维基百科<em>｜</em>周刊文春</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-35.jpg" alt="习近平" width="442" height="442" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-35-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/333-35.jpg 750w" sizes="(max-width: 442px) 100vw, 442px"><br><a href="https://freeweibo.com/weibo/3926064785270380" target="/weibo/392">2015年12月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%89%E4%B8%AA%E7%81%AB%E6%9E%AA%E6%89%8B201509">三个火枪手201509</a>：【今天是刘博士晓波先生六十岁生日】遥祝身陷囫囵已七年的刘先生生日快乐，致敬刘霞女士（刘霞已被非法软禁五年有余）。刘先生是2010年诺贝尔和平奖得主，零8宪章发起人，独立中文笔会名誉主席。<em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2015/12/151228_liu_xiaobo_birthday">BBC<em>｜中国异议人士刘晓波狱中度过60岁生日</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-31.jpg" alt="333" width="346" height="482"><br><a href="https://freeweibo.com/weibo/3924993643586934" target="/weibo/392">2015年12月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E5%85%89%E4%BC%9F">何光伟</a>：还有5年耍流氓期？<br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-36.jpg" alt="法治" width="484" height="341" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/333-36-300x211.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/333-36-768x540.jpg 768w, http://chinadigitaltimes.net/chinese/files/2015/12/333-36.jpg 800w" sizes="(max-width: 484px) 100vw, 484px"><br><a href="https://freeweibo.com/weibo/3925489435482694" target="/weibo/392">2015年12月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E6%B3%BD%E5%BE%8B%E5%B8%88">周泽律师</a>：经东城区人民检察院审查并两次退回补充侦查的刘虎案，在东城区检察院以“刘虎涉嫌犯罪的事实和证据不符合提起公诉的条件”，依据《刑事诉讼法》第一百七十一条第四款的规定作出不起诉决定后，在刘请求国家赔偿，检察机关决定改变不起诉决定。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/meiti/ql2-12312015094126.html">自由亚洲<em>｜</em>北京检察院改变决定 刘虎申请国家赔偿无望</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-33.jpg" alt="333" width="440" height="784"><br><a href="https://freeweibo.com/weibo/3926147328493045" target="/weibo/392">2015年12月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%AF%8C%E6%95%8F%E8%8D%A3%E5%BE%8B%E5%B8%88">富敏荣律师</a>：@刘虎：【求罪得罪】昨天我发布了去北京市检察院第三分院申请国家赔偿一事的前后经过。我犯有申请国家赔偿之罪，请大家见证。刚才我就接到了原认定我“不符合公诉条件不予起诉”的东城区检察院的房贺检察官的来电。他口头宣布经市检提起纠错，我如今变成了“罪行轻微不起诉”，相关决定会书面送达。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xl2-09112015113424.html">自由亚洲<em>｜</em>刘虎案“昭雪”翌日宋林被立案 大陆媒体网站报道评论均被删</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2015/12/333-34.jpg" alt="刘虎" width="462" height="4033"><br><a href="https://freeweibo.com/weibo/3926132573311741" target="/weibo/392">2015年12月31日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-126/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E/?category=18271" rel="tag">刘虎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%88%8A%E6%96%87%E6%98%A5/?category=18271" rel="tag">周刊文春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%A1%83/?category=18271" rel="tag">屁桃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%99%8E%E6%A1%88/?category=18271" rel="tag">刘虎案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -674,7 +673,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -684,5 +683,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

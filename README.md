@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%93%E8%AE%BF%E5%A4%B1%E8%B8%AA%E4%B9%A6%E5%95%86%E5%A6%BB%E5%AD%90%EF%BC%9A%E7%96%91%E8%A2%AB%E6%8E%B3%E5%88%B0%E5%86%85%E5%9C%B0%EF%BC%8C%E5%9B%9E%E4%B9%A1%E8%AF%81%E5%9C%A8%E9%A6%99%E6%B8%AF/" target="cdt-mirror">端传媒 | 铜锣湾失踪书商疑被掳到内地，回乡证在香港家中</a>
+</h2>
+<p><p>自去年10月至今，專營过去3个月专营政治内幕书籍的铜锣湾书店5名股东及员工全部失踪，最近一个失踪的李波是在香港被带走，他妻子表示，李波一直觉得香港很安全，以为不离开香港就不会有事。</p>
+<p>自2015年12月30日晚上7时失踪以来，香港禁书书商李波至今失踪三天仍未归家，怀疑被人掳到内地。端传媒记者赴李波家中访问，其妻子蔡嘉苹表示李波失踪后两次接到丈夫来电，手机显示电话来自“广东深圳”，但她却在香港家中找到李波本人的回乡证，另外香港警方亦向她表示入境处并无李波的出入境纪录。</p>
+<p>“他一定不是自愿过去（深圳）的，近年我们都好有戒心，不敢去大陆了。”蔡嘉苹对端传媒表示，她眉头深锁，显得非常担忧。1月1日下午她已到香港北角警署报案，其后一直在家中等警署电话，并反复寻找丈夫的回乡证，但发现自己遗失了一个放文件的抽屉的钥匙，其后找工匠来开锁，1月2日傍晚发现丈夫回乡证一直收在家中抽屉里。</p>
+<blockquote><p>李波妻子蔡嘉苹：他（李波）说在香港哪会有问题？街上那么多人，怎会突然抓人？他总是说‘如果桂民海没去泰国就不会出事’。</p></blockquote>
+<p>现年65岁的李波和多人合股成立巨流传媒集团，其后收购1994年开业的铜锣湾书店，出版、发行并销售大量政治内幕书籍。自2015年10月以来，铜锣湾书店的老板桂民海、店长林荣基、总经理吕波及业务经理张志平等4人相继于泰国、深圳和东莞“失踪”。</p>
+<p>“他（李波）说在香港哪会有问题？街上那么多人，怎会突然抓人？他总是说‘如果桂民海没去泰国就不会出事’。”蔡嘉苹对端传媒记者回忆说，书店4人失踪后，李波仍然相信自己在香港好安全，失踪前他一直在港奔走接受传媒访问，希望“用传媒力量令大家快点回来”。</p>
+<p>李波早年从事平面设计行业，曾在理工大学任教，亦曾多年在《星岛日报》写关于艺术鉴赏的专栏，自2003年开始出版政治话题书籍。其妻子蔡嘉苹现年61岁，过往30多年一直任职三联书店文学编辑，两人具有一子一女，23岁的儿子患有自闭症。<br>
+蔡表示，她与丈夫需要常年照顾儿子，丈夫“好有交代”，一般7点多回家吃饭，再为儿子洗澡，但12月30日晚上7时开始李波手机就转至留言信箱，当时她“深感不妙”。</p>
+<p>蔡说，铜锣湾书店员工告知她，李波下午收到电话说有顾客要购买“十几本不同年份出版的政治书”，因为书店里的书不齐，李波到位于柴湾的仓库找书。发现丈夫失踪后，蔡和员工在12月30日当晚曾上仓库查看，但没有找到李波，仓库门亦锁好。<br>
+据 BBC 报导，有书店工作人员称，李先生被身份不明的男子带走。而早在11月，李波接受 BBC 采访时表示，桂民海曾写电邮给印刷商，称会传送书本的草稿给他们，请他们凖备印刷新书；李波怀疑桂民海等人被抓可能是因为此事，但自己并不清楚这本书的相关内容。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-02-at-%E4%B8%8B%E5%8D%886.12.49.png" alt="Screen Shot 2016-01-02 at 下午6.12.49" width="550" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-02-at-下午6.12.49-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-02-at-下午6.12.49.png 616w" sizes="(max-width: 550px) 100vw, 550px"><br>
+香港铜锣湾书店外貌。摄：Billy H.C. Kwok/端传媒</p>
+<p>蔡嘉苹回忆说，李波失踪一天后的12月31日，晚上10点多和11点多分别打过一次电话。李波在通话中使用普通话，但两人在平时生活中只说粤语。</p>
+<p>第一次电话，李波简单交代说“配合调查，没这么快回来”，但第二次电话，蔡感觉丈夫“明显改变一贯硬净态度”，叫太太“不要太高调，看好屋企，自己千万要小心”。</p>
+<p>蔡嘉苹表示，她早前因此回绝了传媒及外媒的采访请求，但由于她的沉默引来网民揣测他们做了见不得光的事，感到受到伤害，于是决定将事件公开。</p>
+<p>去年10月失踪的四名巨流书商及职员至今下落不明。端传媒记者于去年11月赴广东东莞调查，有目击者透露，10月24日周六早上约10点，有十几名身穿便衣、携枪人士突然包围刘家大院，其后更冲进屋内，带走了张志平。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-02-at-%E4%B8%8B%E5%8D%886.14.33.png" alt="Screen Shot 2016-01-02 at 下午6.14.33" width="550" height="392" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-02-at-下午6.14.33-300x214.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-02-at-下午6.14.33.png 615w" sizes="(max-width: 550px) 100vw, 550px"><br>
+铜锣湾书店老板员工5人“被消失”。图：端传媒设计部</p>
+<p>11月5日，林荣基的太太郑女士已在香港湾仔警署报案，指未能与丈夫联络；同一天，尚未“失踪”的李波也在湾仔警署报案，指同事吕波和张志平失去联络。</p>
+<p>端传媒就事件向警方查询，警方证实，北角警署昨日（1月1日）接获一名61岁姓蔡女子报案，指未能与其65岁姓李丈夫联络。案件列作“ 失踪人士 ”，由港岛总区失踪人口调查组跟进。另外，湾仔警署于2015年11月五日接获一名65岁姓李男子报案，指未能与一名46岁姓吕男同事及宗一名32岁姓张男同事联络。2案件列作“失踪人士”，由港岛总区失踪人口调查组跟进。</p>
+<p>近年来，香港媒体及出版人在大陆被抓事件已发生多起。曾出版大量“敏感时政书籍”的晨钟书局，其出版人姚文田于2013年10月在深圳被捕，2014年5月被控共同走私普通货物罪，判刑10 年；2014年5月月底，两本时政杂志《新维月刊》、《脸谱》的经营者王健民、呙中校亦在深圳家中被大陆警方带走，被拘一年半后才开庭审理。</p>
+<p>然而，香港出版人在香港被疑似大陆人员“带走”则尚属首次。香港资深媒体人、《文汇报》前副总编程翔对此表示：“如果可以这样做，根本不需要23条。”</p>
+<p>蔡嘉苹亦表示，事件冲击她对香港法治的信任，她一再强调，丈夫相信民主、自由等普世价值，但平日并无参与党派或社会运动，出版政治话题书籍更多因为那是“不错的生意”。</p>
+<p>蔡以前从未想过丈夫会在香港突然失踪，现在只感觉“好惊，好惊”，她表示如果丈夫平安归来，二人之后可能不再出版政治话题书籍。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%93%E8%AE%BF%E5%A4%B1%E8%B8%AA%E4%B9%A6%E5%95%86%E5%A6%BB%E5%AD%90%EF%BC%9A%E7%96%91%E8%A2%AB%E6%8E%B3%E5%88%B0%E5%86%85%E5%9C%B0%EF%BC%8C%E5%9B%9E%E4%B9%A1%E8%AF%81%E5%9C%A8%E9%A6%99%E6%B8%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/" target="cdt-mirror">【真理部】精赵、贵赵、赵家人、赵王、你国、你党等</a>
+</h2>
+<p><p>请各编辑记者注意，请勿在微博、微信等公共平台使用如<a href="http://chinadigitaltimes.net/space/%E7%B2%BE%E8%B5%B5" target="_blank">精赵</a>、贵赵、<a href="http://chinadigitaltimes.net/space/%E8%B5%B5%E5%AE%B6%E4%BA%BA" target="_blank">赵家人</a>、赵王、你国、你党、膜蛤、蛤丝、我蛤、续蛤灭包、贵支、炸药奖、支那豚、天朝、贵支药丸、社病我药、<a href="http://chinadigitaltimes.net/space/%E5%A4%A7%E6%92%92%E5%B8%81" target="_blank">大撒币</a>、你大大吸精瓶刁太大等（胡乱修改领导人称谓）等（不<a href="http://chinadigitaltimes.net/space/Grass-Mud_Horse_Lexicon:_Browse_by_Pinyin" target="_blank">完全列举</a>）时政负面词汇，已有相关媒体人公开使用造成严重不良影响而受相应处分，特此强调。 （此乃内部通告，切勿外传。）</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E8%B5%B5/?category=18271" rel="tag">贵赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%85%9A/?category=18271" rel="tag">你党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E8%9B%A4/?category=18271" rel="tag">我蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E8%9B%A4%E7%81%AD%E5%8C%85/?category=18271" rel="tag">续蛤灭包</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E6%94%AF/?category=18271" rel="tag">贵支</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%B8%E8%8D%AF%E5%A5%96/?category=18271" rel="tag">炸药奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%B5%E6%94%AF%E8%8D%AF%E4%B8%B8/?category=18271" rel="tag">贵支药丸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/423657/" target="cdt-mirror">【立此存照】先有高洁 后有雷克，顺之者昌 逆之者亡</a>
 </h2>
 <p><p>先回顾一下《环球时报》一周前<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%8A%E6%96%B0%E8%A7%82%E5%AF%9F%E5%AE%B6%E3%80%8B%E6%96%87%E7%AB%A0%E6%97%A2%E5%BE%88%E5%81%8F%E6%BF%80%EF%BC%8C%E5%8F%88%E4%B8%8D%E4%B8%93%E4%B8%9A/" target="_blank">质疑法国媒体专业性</a>时的言论：</p>
@@ -616,51 +663,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD-%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%BD%91%E6%B0%91%E8%A2%AB%E5%88%A4%E5%88%9118%E4%B8%AA%E6%9C%88/" target="cdt-mirror">美国之音｜支持香港占中 中国一网民被判刑18个月</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg" rel="attachment wp-att-423393"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg" alt="在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/12F8E257-8ACE-4481-8432-AA5429A741B0_w640_r1_s_cx0_cy15_cw0.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>在香港占中运动期间，学生手持标语到场声援(2015年1月24日，美国之音湯惠芸拍攝)</p></div>
-<p>星期二，广东一法庭判处广州网民叶晓峥18个月有期徒刑，罪名是“寻衅滋事”。叶晓峥表示不认罪，并将提起上诉。</p>
-<p>据悉，叶晓峥去年在网上发文公开声援香港占中运动，并批评政府官员在打压群体性抗议事件时的不当措施。2014年12月12日，当地公安人员闯入叶晓峥家，调查他身穿印有“人民恐惧政府即为暴政”字样的黑衣，以及声援香港“占中”之事。当日，公安以涉嫌“寻衅滋事”拘留叶晓峥，并抄走其个人手机、电脑等物品。</p>
-<p>2015年1月17日，叶晓峥被批捕，6月18日被起诉。7月23日一审开庭，但未当庭宣判。媒体报道指出，起诉书中的主要指控，并未涉及香港“占中”，而是以叶晓峥发帖讥讽广东博罗县某公安局长及披露居民杨金华，因接待访客而遭警方骚扰为犯罪事实。</p>
-<p>此外，自由亚洲电台报道称，声援香港占中的公民裴国动12月10日被承德市围场县检察院院以 “涉嫌寻衅罪” 起诉。报道指出，今年61岁的裴国动于10月29日在北京西站被民警强行带走，11月21日批捕。裴国动的儿子接受采访时表示，其父亲不满当局无理拘押，自上个月14日刑拘起绝食抗议，至今已一个半月，身体状况持续恶化。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD-%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%BD%91%E6%B0%91%E8%A2%AB%E5%88%A4%E5%88%9118%E4%B8%AA%E6%9C%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%BD%B7%E5%BE%A8%E7%AD%89%E5%BE%85%E4%B8%AD%E5%BA%A6%E8%BF%872015%E5%B9%B4/" target="cdt-mirror">纽约时报 | 中国在彷徨等待中度过2015年</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2015/12/31letter-articleLarge.jpg" alt="上周，在北京天安门广场，一名卫兵戴上口罩，抵御严重的污染。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/31letter-articleLarge-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/31letter-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>上周，在北京天安门广场，一名卫兵戴上口罩，抵御严重的污染。</p></div>
-<p>对于中国首都的很多居民来说，这个冬天的雾霾都是一个恰当的比喻：它让建筑显得模糊不清，太阳苍白无华，正如他们今年面对的不确定性。</p>
-<p>在采访和私下交谈中，北京居民表示，2015年是等待的一年，等待中国的政治和经济前景逐渐明朗起来。</p>
-<p>“整个国家处于一种等待状态，”中国南方的商人和杂志出版商欧阳劲说。他在造访北京期间接受了采访。</p>
-<p>“谁都不清楚未来会走向什么方向，”欧阳劲说。“目前的状况很复杂，大家的心情也很复杂——焦虑、希望、害怕——所以我们只能等待。”</p>
-<p>投资者为<a title="Link: http://cn.nytimes.com/business/20151105/c05db-chinaecon/" href="http://cn.nytimes.com/business/20151105/c05db-chinaecon/" target="_blank" rel="nofollow">经济放缓</a>和<a title="Link: http://cn.nytimes.com/china/20150910/c10crackdown/" href="http://cn.nytimes.com/china/20150910/c10crackdown/" target="_blank" rel="nofollow">股市动荡</a>而悬心，等着看增长是否会有起色。官员们等着看习近平坚定的反腐运动会<a href="http://cn.nytimes.com/china/20150824/c24china/" target="_blank" rel="nofollow">影响他们的工作</a>多长时间。学者和作家等着看共产党对知识界活动的<a href="http://cn.nytimes.com/china/20150308/c08xi/" target="_blank" rel="nofollow">冷峻钳制</a>是否会有所松动。人权律师和异见人士等着看下一个被拘留或逮捕的人会不会是自己。</p>
-<p>北京以及其他北方城市的居民则等着雾霾来而复去。</p>
-<p>“可以说很多人都在等着呼口气——虽然北京最近的空气很糟，这么说似乎有点不恰当，”加州大学欧文分校(University of California, Irvine)历史学教授、中国问题专家华志坚(<a href="http://www.faculty.uci.edu/profile.cfm?faculty_id=5310" target="_blank" rel="nofollow">Jeffrey Wasserstrom</a>)说。</p>
-<p>中国当前面临的不确定性，已经超出了这个如此巨大而复杂的国家的通常程度。</p>
-<p>习近平推行的议程大刀阔斧而又自相矛盾，想通过重建共产党和儒家传统、增进中央集权，来推动中国走向未来。习近平似乎相信，中国要实现剧变，就必须恢复过去的传统。但在他可能拥有的10年任期中，如今已经到了第三年，这个议程已经让很多公民感到不安，不知道习近平将带他们走向何方。</p>
-<p>对中国来说，2015年是“充斥着矛盾信号的一年，或许也可以说，是矛盾激化的一年，”华志坚说。他指出，习近平似乎正在“求诸于内”和“求诸于外”之间摇摆。</p>
-<p>“一方面，我们看到习近平倍加努力地展示，中国能走自己的路，而且引经据典，无论这些经典出自共产党掌权之前还是之后，”他说。“但另一方面，他出访国外的次数比这几十年来的历任中国领导人都多，而且也走得更远。”</p>
-<p>几名要求匿名的商人和官员表示，这种不安感渗入了中国的官僚阶层，影响到中国经济。他们表示，由于担心被控徇私，就连没有腐败行为的官员，也越来越不愿做出重要决定。反腐行动导致“灰色收入”消失，这削弱了基层行政人员的士气。</p>
-<p>“当官儿的都不知道这个反腐运动、学习会议等等会什么时候结束，之前也不知道谁可能是下一个落马的人，”中国人民大学历史学者张鸣说。张鸣经常撰文讨论时事。</p>
-<p>“上下都没有一个明确的方向感，”他说。“以前，在八九十年代，事情要简单得多——改革，建立市场经济等等。但现在对于官员和老百姓来讲，政策变得更难以解读。”</p>
-<p>包括严厉打击腐败、压制政治自由主义在内的政策，削弱了官员的士气，并在一定程度上加剧了经济的不确定性——共产党领导人对这种观点嗤之以鼻。他们认为，收获经济结构调整的成果，需要时间和耐心。</p>
-<p>但清华大学知名社会学家<a href="http://www.tsinghua.edu.cn/publish/Socen/2759/2010/20101224015358415255634/20101224015358415255634_.html" target="_blank" rel="nofollow">孙立平</a>最近演讲时警告说，对中国未来的不确定感，可能会发展成为危险的隐患。</p>
-<p>他表示，2015年底的感觉可以用一个词来概括：“困惑”。</p>
-<p>孙立平表示，“这一次有点像我们在沙漠和戈壁上开车。”</p>
-<p>“前面的路都是很明确的。但是走着走着，路没有了，前面是个沙丘，”他说。“最后哪条路能走通它就是一条路，哪条走不通，那就不是路呢，我们现在可能就不知道。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%BD%B7%E5%BE%A8%E7%AD%89%E5%BE%85%E4%B8%AD%E5%BA%A6%E8%BF%872015%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AD%89%E5%BE%85/?category=18271" rel="tag">等待</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -672,7 +674,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -682,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

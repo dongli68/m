@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%A6%81%E8%A8%80%E5%88%B0%E5%A2%83%E5%A4%96%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：北京禁言到境外？</a>
+</h2>
+<p><p>中共喉舌《环球时报》有一种功能，就是说穿警方为了假装法治千方百计掩饰的黑幕。例如，当警方以经济案件调查艾未未、浦志强等异议人士时，该报连篇累牍揭示其因言获罪。其总编胡锡进甚至在微博替当局承认，“通过性丑闻、偷漏税等整政治对手，这是全世界政府通行的‘潜规则’”。</p>
+<p>这一次，香港铜锣湾书店五位人士失踪案件尚在“调查”之中，该报就发表社评为该书店进行政治定性：“虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的”，“变相插足了内地的事情，损害了内地保持和谐稳定的重大利益”。</p>
+<p>在中共的政治版图中，香港被称作“境外”。长期以来，中共的宣传策略是把世界分为“西方”与“中国”，“境内”与“境外”，或者把人类分为“人”与“中国人”，声称中国国情特殊，中国人素质不高，不能适应宪政民主、言论自由等普世人权。最近若干事件表明，北京正在放弃这种策略，改而要求全世界都统一遵从中国政治的游戏规则。《环球时报》关于香港铜锣湾书店案的社评，是一个明确的表达。它认为该书店的“罪行”是出版“禁书”，“像是要刻意在香港与内地之间拱出一块灰色地带，以挑衅的政治方式为自己谋利”，宣称“谁恶意挑动冲突，就有罪于整个国家，也是对香港根本利益的背叛”。</p>
+<p>首先应该明白，所谓“禁书”是特指在中国内地禁止出版的书籍。它们被禁，不是因为“造谣”，更不是因为观点有悖基本人权价值观。任何政治书籍，在中国内地出版都要经过严格的政治审查，否则就不能出版。审查的结果是，直接谈论中共领导人的书籍，只剩下虚伪的歌功颂德一类。香港“禁书”为中国言论自由作出了卓越的贡献。</p>
+<p>这些试图揭示政治黑幕的书籍，当然会有一些事实不确凿的地方，甚至整个叙述都建立在猜想和推测之上。在言论自由的地方，这些书籍中的某些部分也许不符合出版要求。但是，必须指出的是，这些不确和猜测，是因为中共当局对政治类信息的封锁。这就是为什么，世界上无论多么专业的媒体，多么资深的学者，在报道或研究中国、朝鲜等国的政治问题时，都难免出错。</p>
+<p>跨境绑架挑战人类政治文明</p>
+<p>越禁越想知道，这是人类基本的好奇心和求知欲所致。更何况，中南海的秘闻远远大过八卦的价值，事关中国人的政治命运和日常生活，也事关整个人类的文明进步。如果因为信息封锁后容易出错就不去报道和研究，那正好符合专制者的利益。因此，专制政府以事实不准确而谴责报道者和研究者，就如同把人关在黑屋子里而谴责他看不清东西一样，是十分荒谬的。</p>
+<p>然而，禁了就不能说，在黑屋子里看不清东西就有罪，在中国内地的宣传部门看来，竟是理所当然，很多民众也接受这样的逻辑。香港铜锣湾书店事件，和法国记者高洁（Ursula Gauthier）因为讨论新疆问题被逐、德国人雷克（Christoph Rehage）评价毛泽东被指“犯法”等事件一样，表明中共试图将此逻辑推及全球。</p>
+<p>香港特首梁振英称，“内地执法人员如果到香港执法，是不能接受的，因为这不符合《基本法》。”这句话是不正确的。倘若内地人真的到香港强制带走香港公民，那不是“执法”，而是绑架。更何况，即便在内地，警察跨省执法，也必须和本地警方打招呼，申请“协助调查”。这种失踪案，连“执法”的伪装都懒得做，那是赤裸裸的黑道行为。当它来自一个位居联合国安理会“五常”的大国时，则是对人类政治文明的挑战。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%A6%81%E8%A8%80%E5%88%B0%E5%A2%83%E5%A4%96%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD2016%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E6%94%BE%E7%BC%93/" target="cdt-mirror">自由亚洲｜中国2016年经济增长放缓</a>
+</h2>
+<p><p>中国官方媒体《上海证券报》元月四号星期一刊登预测报告称，2016年中国国内实际经济增速略低于7%左右的潜在增长率， 国内生产总值GDP将增长6.5%左右，对外贸易将零增长。</p>
+<p>虽然中国经济2016年放缓已经不是什么新闻， 但是海内外仍然有机构或媒体乐此不彼做出大同小异的各种预测。要说《上海证券报》的预测有什么新意，那就是将放缓原因归咎于中国迄今已经实施的 “经济政策有一定滞后影响”，还没有发挥应有的作用，一旦中国2015年出台的经济政策和措施发挥作用，中国“经济仍将平稳增长”。换句话说， 中国经济此前一直平稳增长。《上海证券报》的预测虽然如此这样说， 但是英国诺丁汉大学中国经济问题专家姚树洁教授星期一表示，中国经济未来五年的经济增速在6.5% 到7%之间的确是可能的:</p>
+<p>“中国十三五规划的未来五年里，经济增速平均可能就在6.5%左右， 因为中国经济面临各方面的压力很大， 6.5% 并不是最糟糕的预测。现在， 中国要开放，人民币也变得不像以往那样坚挺，股市问题长期存在，监管不严结果造成中国股市上市公司分红长期低迷，有些公司赚钱， 股民也得不到什么好处。鉴于如此种种情况，大家对中国经济发展前景缺乏信心。”</p>
+<p>路透社星期一发自上海的消息引述中国官方数据说，虽然中国经济在新的一年将继续放缓，但中国“国内消费需求会保持稳定，社会消费品零售总额将增长10.5%左右， 2016年低通胀继续延续，消费者物价指数CPI将上涨1.5%左右，生产者物价指数PPI 将下跌3.5%左右”。此外，路透社星期一发自上海的消息还说，中国“隐形失业将显性化， 预计2016年新增就业达到1000万人，但鉴于对外贸易将可能零增长的情况，重化工企业和出口行业的裁员和就业岗位流失在所难免”。</p>
+<p>在中国经济放缓的严峻情况下，中国官方智库和体制内学者开出的各种药方都没有涉及到政治层面。对此，美国纽约城市大学政治学教授夏明星期一认为，中国整个制度中缺乏信誉度才是最根本的问题实质：</p>
+<p>“因为整个经济的发展和资本的所有人最需要的是对未来的可靠预期， 需要从国家领导层和政府那里得到一个制度性的保障或承诺， 从而在经营决策中规避或减少风险， 将风险转化为赚钱的机会。然而， 中国的体制中目前缺乏这种机制，使中国的投资者面临的最大挑战不是风险，而是对未来的不确定性。”</p>
+<p>在夏教授看来，这一不确定性是政治体制造成的， 因为中国没有国会和议会机制和民选机制，国家政府对资本的安全性没有承诺，中央银行不独立，结果使财政部变为中共中央的出纳室，人民银行变为财政部的柜台收银员。此外，夏教授强调， 中国改革开放30多年后的今天，资本仍然不能自由流动。资本账户仍然不开放，外资赚到的利润难以汇出。随着中国改革开放中的各种红利逐渐消失， 夏教授总结以下政治层面上的三点将不可避免地阻碍中国经济的发展：</p>
+<p>“第一民主的代议机制， 第二独立的中央银行，第三开放的资本账户，三者中国迄今都没有建立。 这样就使中国整个市场变得非常没有确定性，中国经济必然因此受到伤害。”</p>
+<p>如果阅读中国官方报道，中国经济似乎并没有糟糕到引发星期一全球股市抛售的狂潮。中国股市2016年首个交易日以暴跌7%收市前跌停收盘。例如，连续10个月疲软的采购经理人指数PMI数据， 被官方学者解读为“企稳收官”，“2016年有望迎来平稳开局”。不过， 中国和讯网星期一有评论在列举中国经济2016年将要面临的五大风险之后，发人深省地说，中国“如果经济增速一旦低于6.5%，则在连锁效应下，可能引发社会不稳，这就转化成为政治风险”。</p>
+<p>（记者：闻剑；责编：嘉华）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD2016%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E6%94%BE%E7%BC%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912016%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%A1%80-%E6%AF%94%E5%BE%80%E5%B9%B4%E6%9D%A5%E5%BE%97%E6%97%A9%E4%B8%80%E4%BA%9B/" target="cdt-mirror">【网络民议】2016年的第一场血 比往年来得早一些</a>
 </h2>
 <p><p>@@华尔街见闻APP：【沪深300跌破7%，触发熔断机制提前收盘】节后开盘首日，A股低开后持续下行，至下午13:35，沪深300跌幅扩大至7%，触发熔断机制收盘。沪指跌6.85%，深成指、创业板跌8.2%。熔断阈值为5%和7%两档，熔断后，熔断范围内的证券将暂停交易15分钟；如果全天收盘前15分钟触发5%或全天任何时间触发7%，将暂停交易至收市。</p>
@@ -559,52 +601,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%9C%BA%E5%95%86linode%E8%A2%AB%E5%85%B3%E9%94%AE%E5%AD%97%E5%B1%8F%E8%94%BD/" target="cdt-mirror">月光博客｜知名主机商Linode被关键字屏蔽</a>
-</h2>
-<p><p>知名海外主机供应商Linode被中国屏蔽，目前已经无法访问，屏蔽的方法是域名关键字屏蔽（被屏蔽的关键字是.linode.com）和IP地址屏蔽。</p>
-<p>Linode是国外非常著名的VPS商之一，成立于2003年，办公地点在新泽西。所提供的VPS主机服务颇多好评，在国内站长圈中颇受推崇。</p>
-<p>Linode的VPS在业界有着较高的信誉评价，在国外和国内用户中的口碑不错，价格适中。Linode提供很多了原生的系统，装好基本的系统之后，可以根据自己的需求随便安装什么软件。对于中国用户来说，其机房访问速度相当快，用其做VPN可以带来很好的上网体验。</p>
-<p>几天前，Linode曾经遭到过大规模的DDoS攻击，导致其web服务的访问受影响，其中API调用和管理功能依然部分不可用，对于DDoS攻击的原因不得而知。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/4468_1.jpg" rel="attachment wp-att-423649"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4468_1.jpg" alt="4468_1" width="455" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4468_1-300x293.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/4468_1.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
-<p>对于Linode被封的原因，有可能因为Linode提供的价格较为低廉的VPS可以让中国用户搭建VPN或ShadowSocks，用于科学上网， 但这从法律上来说也存在争议，比如商店出售的刀具可以用来伤人，那么是否商店就该封？Linode提供的主机服务本身是否违法中国法律还有争议，阿里巴巴 也提供了海外主机服务，只是价格贵一些而已，这种对于商业网站的肆意屏蔽并不符合国际通用的贸易准则，对中国的互联网发展并无益处。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%9C%BA%E5%95%86linode%E8%A2%AB%E5%85%B3%E9%94%AE%E5%AD%97%E5%B1%8F%E8%94%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">科学上网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BDvpn%E9%81%AD%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">外国VPN遭屏蔽</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%9D%9B-%E7%BA%A2%E4%BA%8C%E4%BB%A3%E6%B7%A1%E5%87%BA%EF%BC%8C%E8%B5%B5/" target="cdt-mirror">美国之音｜何清涟：中国政坛——红二代淡出，赵家人恒在</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c.jpg" rel="attachment wp-att-423639"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c.jpg" alt="6d0b6b33gw1ezj1xvakgqj20zk0qo79c" width="525" height="394" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c-768x576.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6d0b6b33gw1ezj1xvakgqj20zk0qo79c.jpg 1024w" sizes="(max-width: 525px) 100vw, 525px"></a><br><em>（图片来源：新浪微博@郑维）</em></p>
-<p>2015年的最后一天，中国国防部宣布原总后政委刘源上将退休，为各种有关其前途猜测划上终止符。目前，军改后一级指挥官陆续到任，在已公布的名单中，军中27名在役“红二代”将军，目前只有秦天（秦基伟儿子）获武警部队参谋长一职。这些消息表明“红二代”正在淡出中国政坛。这一淡出过程，应该是习近平借自然规律（年龄上限）而促成的政治安排，江胡两朝“红二代”纵横政坛、国企、军界的鼎盛时期终结。</p>
-<p><strong>江胡20</strong><strong>年：红二代的鼎盛时期</strong></p>
-<p>习近平接任中共掌门人之后，2013年10月15日为其父习仲勋在人民大会堂举办了百年冥寿纪念会，中共红色家族每家派一代表出席，外界与红二代均认为这是邀请红二代“咸与新政，共掌朝纲”之意，认为从此中国是红色家族当家。对此，我一直心存怀疑。遍数党政军国企各界的当家人并计算年龄，再考虑时势（习近平集权需要），不得不对这一看法打个大大的问号。</p>
-<p>从中共建政开始，毛泽东等就开始考虑“红色接班人”问题，但因高层子弟年龄，在文革前真正进入接班人序列的只有毛泽东的儿子毛岸英，李鹏等只算是一匹“黑马”，原来打算当技术专家培养。</p>
-<p>毛泽东对长子毛岸英的培养颇有清朝康熙大帝让诸王子到“基层”办差历炼之风。因此，毛岸英的资历丰富：在苏德战争中参过战，回国后在共军占领的解放区发动过土改、并在情报部门任过职，还到工厂当过厂级管理干部。只是天不假年，1950年11月在朝鲜志愿军司令部遭空袭阵亡。毛泽东只好培养公主李讷与皇侄毛远新，李讷27岁时，就任《解放军报》总编辑，成为十大全国代表，1975年官至北京市委副书记。毛的侄子毛远新27岁官至省部级，但因毛去世后的政变，没接成班。</p>
-<p>毛家子弟成了红色接班人，其他追随毛打江山的元老子弟也念兹在兹，思谋接班。只是因为年龄缘故，文革时期，这些红二代一部分人在读大学，一部分人在读中小学。但做红色接班人的愿望却一度形成爆发式表述，比如北京高干子弟组成的红卫兵组织“联动”，其口号就是“老子英雄儿好汉、老子反动儿混蛋”。后来江青等将“联动”列为反动组织时，批判该组织的高干子弟“头脑中的特权思想，‘自来红’观念大大膨胀”。当时红色阶级中的底层人民为此很高兴，但没有意识到，江青领导的中央文革要批判这群高干子弟的特权思想，只是因为这部分人的父母属于被打倒对象，针对他们“想保爹、保妈、保自己”的政治意图，并非真是要清除什么特权思想。</p>
-<p>红二代们集体接班这一梦想，在江泽民、胡锦涛时期得到全面落实。从江时期开始，中央部委、国企、军队的红二代们大都稳步升迁。当然，这种照顾并不能保证每位红二代都官至厅局级乃至更高位，因各种原因屈居处级的也有不少，但这并不能否定红二代得到特殊照顾这一事实。任何朝代，有权有势的职位都有限，连一个皇帝留下的后人，都荣辱有别，更何况只有红色这一共同印记的阶层。</p>
-<p>未能进入党政部门、军界、国企的红二代们，还有全国人大、政协荣职恭候。江时期由于政治考虑，毛家、胡家有人未进入政协、人大系列，但到了胡锦涛时期，朝廷恩泽普降，李讷终于进了全国政协。人大政协两会，终于成了历代权贵世家子弟朝廷观礼的贵宾包厢。</p>
-<p>可以说，江胡两朝，终于实现了毛泽东与其战友们的共同理想：“天下者我们的天下，国家者我们的国家；社会者，我们的社会；我们不说，谁说？我们不干，谁干？”还有一句只干不说的，那就是“我们不拿，谁拿？”李鹏的千金，有公主CEO之称的李小琳有那么一段时期，将“两会”当作穿昂贵高级时装及拎名牌手袋走秀的T台。</p>
-<p>有关部分红色权贵家族成为巨富的故事，江湖从未绝迹。但那只是“传说”，谁想做成实打实的调查新闻，还真是不得其门而入。</p>
-<p><strong>红二代成为话题是中外媒体卷入权争的结果</strong></p>
-<p>江胡时期，历史终于等来了千载难逢的机会，那就是十八大之后的权力斗争。从古到今，这种仗一旦开打，就是“开弓没有回头箭”，不折腾出个胜负来，决计收不了场。在胜负决战中，外国媒体（主要是英文）与海外一些华文媒体，就因缘际会，得到不少曝光中共内部最高机密的机会。</p>
-<p>《纽约时报》得到的温家财富故事线索成就了该报记者荣获新闻界的最高荣誉普利策奖。除了该报与彭博社曝光的习近平姐姐家庭的个展之外，最全面的灰色财富故事展览，当属2014年1月21日国际调查记者联盟（ICIJ）所公布的那份《中国离岸金融报告解密》，那里面除了江泽民、周永康、曾庆红等少数几家子弟的公司未列名其上，习、胡、温、邓、李等五家新老政治局常委与其他上百位中共高干子弟公司资料的均列于其上。虽然该报告在中国大陆被封杀，但其意义之重大，远远超出“权力斗争产物”的范围。因为《中国离岸金融解密》向世界揭示了中共政治集团的盗贼型面目，严重削弱了中共执政集团的合法性。</p>
-<p>比较有趣的是，国内媒体不知出于何方授意，也都开始“正面”报导红二代的踪迹，比如《央企高管中的红色后代：保利名誉董事长系邓小平女婿》（《中国新闻周刊网》2013年6月3日），文中列了一批包括毛泽东侄子毛远建，李鹏女儿李小琳在内的特殊身份高管。信息见报之时，邓榕夫婿贺平早已退休，突出报导其为军企保利集团名誉董事长，让人产生有意为之的联想。李小琳本人一直是媒体高调追踪的目标，2013年以来，在压力之下，出席两会时比较低调，2015年12月下旬，李小琳已经辞任中国电力公司董事长一职。</p>
-<p>人民网2014年12月22日发布《盘点解放军现役高级将领中的“红二代” 》， 列出以张又侠为首的共27名有所谓“红色背景”的军方将领。每位将领的出身，其父革命业绩均列得清清楚楚。其时正是习近平整军集中力量打击郭徐势力之时。</p>
-<p>有关红色家族敛财的故事，一直是中国京城与坊间流传的时代故事，但媒体人知道那是雷区，没人敢轻易涉足。《人民论坛》（《人民日报》旗下）曾忍不住在2010年第4期的《中国新富家族》一文中提及，但也只敢透露，在 2009年中国3000家族财富榜总榜单中，“红色家族”是构成新富豪的主体：“红色家族……拥有深厚的政治与资本，故起步高，容易获得社会资源。这些红色商业家族，多从事一些需要审批的贸易，基础产业，能源等产业。房地产行业亦多为红色家族钟情的领域。”一个具体的名字都不敢提及。</p>
-<p>党政高层的红二代人数不是太多，我在《刘源退休：红二代政治长跑终封印》里谈得很清楚，目前位列政治局常委的习近平与俞正声，按红二代自己的说法， 都是弱枝，习仲勋的西北帮，在1962年就因“反党小说《刘志丹》案”已陷灭顶之灾；俞正声因父亲黄敬、母亲范瑾、兄长俞强声的关系，长期是官场边缘人， 但红色接班人的政治长跑中发生的种种变数成就了他，最后跑出了好成绩。</p>
-<p>综上所述，红二代纵横国企、军界与商界的全盛时期就在江胡两朝。进入习近平统治时期，红二代已进入“夕阳无限好，只是近黄昏”之境。因为他们遭遇到的铁门槛是自然规律，即年龄，政治局常委以下官员65岁退休，是邓小平时代定出干部“年轻化、知识化、专业化”几大标准后，经过30余年才逐渐形成的“党内规矩”。专制者从来就不想与人分享权力，对红二代，用年龄这条规矩就足以让他们平安退出政坛、国企与军界。</p>
-<p>红二代虽然会淡出政坛，但中共体制的三个垄断（政治垄断、资源垄断与舆论垄断）格局不改，必然由垄断而产生特权阶级。这就是本文标题所说的“红二代消失，赵家人恒在”，只是赵家人的构成将“新桃换旧符”，另一批新权贵登场罢了。</p>
-<hr><p><small>© 中流砥柱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%9D%9B-%E7%BA%A2%E4%BA%8C%E4%BB%A3%E6%B7%A1%E5%87%BA%EF%BC%8C%E8%B5%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E5%AD%90%E5%BC%9F/?category=18271" rel="tag">权贵子弟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D%E5%AE%B6%E6%97%8F%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">温家宝家族财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">政商关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -616,7 +612,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -626,5 +622,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

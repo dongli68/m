@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E9%AB%98%E5%8E%8B%E4%B8%8B%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%9A%E6%81%90%E6%83%A7%E5%92%8C%E6%84%A4%E6%80%92%E5%9C%A8%E6%B2%B8/" target="cdt-mirror">纽约时报中文网 | 高压下的新疆：恐惧和愤怒在沸腾</a>
+</h2>
+<p><p>作者：杰安迪</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-%E4%B8%8B%E5%8D%885.51.40.png" alt="Screen Shot 2016-01-03 at 下午5.51.40" width="550" height="356" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午5.51.40-300x194.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午5.51.40.png 593w" sizes="(max-width: 550px) 100vw, 550px"><br><span>在新疆喀什葛尔举行的一个传统婚礼。 ADAM DEAN FOR THE NEW YORK TIMES</span></p>
+<p>中国喀什——家庭因一批又一批的拘留而支离破碎。清真寺被禁止用广播唤拜。对劳动力流动性的限制已给当地农业造成严重损害。为防止对公共安全的可能威胁，用一系列比以往更令人讨厌的方法监视公民通信。</p>
+<p>最近在中国遥远的西部新疆地区的一次10天旅行揭示了一个充满愤怒和恐慌的社会，政府由于受到一场已导致数百人丧生的缓慢演化叛乱的震惊，在不断推出各种前所未有的措施，旨在影响中国1000万维吾尔人的行为和信仰，维族是一个讲一种突厥语系语言的穆斯林少数民族，他们认为新疆是自己的家园。</p>
+<p>政府认为，更严格的安全措施以及对伊斯兰教的更严密的限制，是阻止一起又一起暴力的最好方法，这些暴力包括去年9月在一个煤矿发生的导致数十人死亡的持刀行凶事件，这种观念在推动着政府的政策。</p>
+<p>这些严格的安全措施一览无遗地暴露在在这片粗圹无垠的沙漠和雪山地区缓慢旅行的人，因为他们经常要在公路边无处不有的检查站停下来。</p>
+<p>全副武装的士兵在检查站翻查过往车的后备箱，检查人们的身份证，维吾尔族驾驶员和乘客有时会被要求交出手机，以便警察在手机上搜索被他们视为对公众安全构成威胁的内容或软件。</p>
+<p>除了宣传圣战的视频之外，警方还查找Skype和WhatsApp等应用软件，人们用这些颇受欢迎的软件与国外的亲友交流，再就是让用户能访问被屏蔽网站的软件。</p>
+<p>“我们所有的人都变成了恐爆嫌疑人，”一名23岁的维吾尔族工程专业学生说，他说，去年11月，警方找到了他与一位在土耳其的朋友通的短信后，他被拘留过一夜。“这些天来，甚至接听海外打来的电话就一定能让国家安全部门的人找上门来。”</p>
+<p>喀什离中国与巴基斯坦和阿富汗的边境不远，是传说中的丝绸之路前哨，这里的官员已经禁止清真寺用广播唤拜，迫使宣礼员们站在城市各个地方的屋顶上，一天5次地用大喊发布祈祷通知。这项新规定是对一个长期政策的补充，该政策已经禁止课后宗教班，也禁止18岁以下的儿童进入清真寺。（最近几个月在清真寺门口安装的监督摄像头让人们难以忽视这些规定。）</p>
+<p>在喀什的东南部，和田市的店主们对政府取缔二十几名字的做法怒不可言，政府认为这些名字过于穆斯林，据当地居民和警察说，该决定迫使父母给孩子改名，否则无法让孩子注册上学。</p>
+<p>在北边以葡萄闻名的肥沃绿洲吐鲁番，葡萄园主们对禁止维吾尔族农民工来这里帮助摘葡萄的新限制怨声载道，新限制让成吨的葡萄枯萎在藤上。</p>
+<p>在更远的北边是离哈萨克边境不远的多民族城市伊宁(Ghulja)，这里的<a href="http://www.nytimes.com/1997/02/28/world/in-china-s-far-west-tensions-with-ethnic-muslims-boil-over-in-riots-and-bombings.html" target="_blank" rel="nofollow">紧张气氛已有一段时间</a>了，这里的两名失业大学毕业生对局严格禁止年轻男子留胡子、禁止妇女用面纱遮脸十分恼火。居民说，无视这些规定的人有时会受到监禁。</p>
+<p>“我、我本人并不信教，但是，迫使我们的妇女摘头巾是对她们尊严的侮辱，这让许多人很气氛，”两名毕业生之一说，他和其他接受采访的人一样，要求不具名，因为他们害怕受到当局的惩罚。</p>
+<p>其他的措施给人们的普遍印象是维吾尔族的身份认同受到困扰。学校已大都改用普通话作为主要的教学语言，而不再用维吾尔语，政府也开始用提供现金和住房补贴的方法，来鼓励维吾尔族和汉族之间的通婚，汉族占中国人口的大多数，已有大批汉族人迁入新疆。</p>
+<p>监视也在加强。自2014年起，想到自己家乡以外的地方旅行的维族人被要求携带一张专用卡，上面列着持卡人房东和当地派出所的电话号码。许多维族人抱怨说，这些所谓的“便民联系卡”是为了把他们挑出来进行严格检查。</p>
+<p>“政府渗透维吾尔族社会的能力已变得越来越五花八门、越来越令人讨厌，”詹姆斯·莱博尔德(James Leibold)说，他是在澳大利亚墨尔本的筹伯大学(La Trobe University)研究中国民族政治的专家。“然而，虽然这些新措施能让共产党把很多问题掐死在萌芽状态，但是，这些措施也导致新形式的格格不入和暴力，并最终会削弱党的合法性和执政能力。”</p>
+<p><span>杰安迪(Andrew Jacobs)是《纽约时报》记者。</span></p>
+<p><span>翻译：Cindy Hao</span></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E9%AB%98%E5%8E%8B%E4%B8%8B%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%9A%E6%81%90%E6%83%A7%E5%92%8C%E6%84%A4%E6%80%92%E5%9C%A8%E6%B2%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98/?category=18271" rel="tag">新疆问题</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E6%A0%B7%E5%AE%9A%E4%B9%89%E8%B5%B5%E5%AE%B6%E4%BA%BA%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%AF%8D%E6%9D%A5%E8%87%AA%E4%BA%8E/" target="cdt-mirror">【网络民议】怎样定义“赵家人”，这个词来自于哪里？</a>
 </h2>
 <p><p><strong>知乎：怎样定义“赵家人”，这个词来自于哪里？最近在一些论坛里经常看到“赵家人”“姓赵”“精赵”这种说法，为什么纠结于“赵”这个姓呢？这都是怎么来的？</strong></p>
@@ -649,38 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%E5%92%8C%E6%9D%83%E5%8A%9B%E7%9A%84%E4%BB%BB%E6%80%A7/" target="cdt-mirror">BBC中文网 | “国家网络主权”和权力的任性</a>
-</h2>
-<p><p>作者：夏明 纽约城市大学政治学教授</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%8810.01.53.png" alt="Screen Shot 2015-12-31 at 下午10.01.53" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午10.01.53-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2015-12-31-at-下午10.01.53.png 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>中国政府在2014年11月主办了首届“世界互联网大会”；2015年12月，再次举办第二次大会。因为会议计划每年都会在浙江嘉兴市的乌镇举行，人们又称之为“互联网乌镇峰会”。</p>
-<p>在两次会议上，中国总理李克强和总书记/国家主席习近平先后都强调了同一个核心概念：“国家网络主权”。但正是因为这个概念，国际与会者（尤其是西方国家的）拒绝签署所谓的“共识”、“宣言”，让主办国的中方惘然若失。</p>
-<p>为什么“国家网络主权”成为引起纷争的那个苹果？要回答这个问题，我们一要在概念层面上搞清它是否有逻辑上的有效性，二要在实力层面上搞清中国是否有政治、经济、技术和道义上的实力来把自己的意图强加给世界。</p>
-<p>中共对主权的痴迷有历史传统，与世界各大国相比有过之而无不及。所谓的主权，也就是在一定范围内（主要是指领土空间）绝对的、最高的、不受第三方约束的权威。不过即便在最早提出主权思想的法国思想家不丹那里，享有绝对主权的君主也还必须受到神圣法和自然法的约束。国家主权的概念在1648年的威斯特伐利亚和平条约中得到确立，民族国家享有主权，在此之上没有主子，当时君主主权成为历史的主流。到了英国的几次大革命后（1640年的英国革命、1688年的光荣革命），议会主权得到逐渐确立。在美国和法国大革命后，尔后在英国十九世纪的普选权扩大后，人民主权的概念在西方得到确立。所以，主权的拥有者要么是君主，也就是专制君主制；要么是人民，也就是民主制。从理论上来说，如果要建立“网络主权”，逻辑结果要么是“君主网络主权”，要么是“人民网络主权”。显然，中国两者都不是，而是试图建立一个“党主治下的寡头网络主权”。</p>
-<p>“网络主权”是否成立？</p>
-<p>在上述的三个模式中，他们都共同面临一个概念上的挑战：“网络主权”是否成立？</p>
-<p>无论我们把网络理解为“人际关系网”、虚拟空间的互联网、相对于科层制和市场体系的网络治理模式，还是宇宙的生命和物质的网络，它们共同拥有的一个基本特征是无限性和开放性。其次的一个特征是绝对中心权威的消失，代之的是多元的纽带连接点，至多出现占据最多中心性的显赫角色。美国理论物理学家卡普拉（Fritjof Capra）在《物理学的道》、《生命之网》等著作中阐述了下列一个核心思想：现代量子力学发现物质世界并非由最后无法分割的最小的亚原子构成，而是最后分解为由物质和能量构成的场和关系。这暗合了东方的“色即是空、空即是色”的虚空观念。而在这种复杂体系里，成千上万的细小单元并不能解释体系的全部和其特征，相反，系统的思维才能看清单元在有机整体中的价值和意义。</p>
-<p>用简单的白话来说，在虚拟网络世界里，一个国家单元不仅根本无法控制整个体系，而且它的性质更依赖于这个体系。如果中国试图建立“国家网络主权”，实质就是用有限空间的主权概念去控制开放、无限的虚拟空间，结果就是如庄子所说的，“以有涯随无涯，殆已。”美国前总统克林顿在任时有过一个更形象的说法：控制互联网就如同“试图把果冻钉在墙上。”</p>
-<p>单元国家对互联网的合理反应应该是协调适应而非控制，美国就此提供了一个好例证。众所周知，互联网是由美国政府国防部的研究项目催生的。很自然地，全球13组根域名服务器就有10个在美国（另外三个分别在英国、瑞典和日本），美国控制了世界上互联网最重要的硬件，而且还控制了域名的认定、设置和管理。但因为互联网的极端自由主义倾向，全球商业公司、非政府组织和个人、国际组织和世界各国（尤其是欧盟国家）都试图推动和建立一个全球性的、民主化的网络管理体系，为此1998年美国政府发布了“关于互联网域名和网址管理的白皮书”，倡议建立一个新的私营非营利的、自主的公司来管理。美国政府（包括国防部和国家科学基金会）把互联网的硬件基础设施和管理职能交给私营，后来以“互联网名称和数字地址分配机构”（ICANN）为核心，加上国际组织（例如国际通讯联盟、国际知识产权组织、欧盟）、NGO （例如世界经济论坛、互联网协会等）、技术和通讯公司（IBM、因特尔、微软等）和大国构成了国际互联网治理体系。这个体系的形成过程体现了利益相关者的“粗燥的共识”。</p>
-<p>而“乌镇峰会”的实质并非是要顺应“互联网系统效应”，也不是要最大化协同接轨带来的同步效应，而是要颠覆已存的国际互联网治理体系，破坏逐渐形成的全球共识。首先，中国并无心尊重互联网的开放性和无限性，也不尊重人民主权在网络空间延伸。其次，在“国家网络主权”的荒谬概念下，建立政府对虚拟空间的所有权，从而破坏网络作为“人类共享资源”的特征。最后，以中国政府为主导的“网络空间圈地运动”也会破坏业已建立的“全球知识共同体”和它支撑的国际公民社会，从而阻止人类社会的进步。</p>
-<p>真正的含义</p>
-<p>“国家网络主权”的利益和权力基础是显而易见的：作为维护政体安全的需要，中共政权还要筑高它的防火墙、扩展它的敏感词、实名控制所有的电子通讯设备、屏蔽更多的境外网页，所以，它要把无限开放的互联网变成党国控制下的局域网。为了回避与世界强手的竞争、以劣质的服务和产品垄断中国的电子商务市场从而获得暴利，中国的网络公司和电子商务公司（也就是马云所说的BAT：百度、阿里巴巴、腾讯等）以依附政权为代价，成为构建“国家网络主权”的马前卒。</p>
-<p>在互联网领域政经官商勾结势必阻碍中国信息社会的发展，对中国社会、文化和经济的伤害已经被证明是无穷的。今天我们已经难以想象，在西方发达国家任何一个投资人、任何一个决策者、甚至任何一个科学家可以放弃阅读《纽约时报》、《华尔街日报》、《经济学家》，放弃收看CNN、彭博新闻，放弃登录Facebook、Youtube和谷歌。但中国上亿的决策者、投资人、学者学生失去了信息效率，就是在资讯闭塞的条件下选择的。</p>
-<p>纵观中国百年历史，面对民主和科学的冲击，清朝的保守派提出“中体西用”给现代化套上了长衫；面对市场经济在全球化条件下的扩张，中共领导又用“鸟笼经济”把市场关进了权力的笼子；面对二十一世纪信息社会的挑战，中共再次提出了“网络主权”，逆历史潮流而动，试图建立网络霸权，把中国禁锢在封闭社会里。</p>
-<p>如果我们认识到，“国家网络主权”的提出不仅挑战美国的价值、利益和权力，也与联合国的“信息社会世界峰会”分庭抗礼，还挑战全球网络公司利益集团推崇的消费者主权、自由主义治理体系体现的网民主权和国际组织支持的选民代议民主，我们就有理由相信，中国的政经寡头共同体不会有足够的经济、技术实力重建一个互联网或建设一个更优化的网络基础设施，也不会有足够的政治、知识和道德的力量来改写21世界历史。</p>
-<p>中国政坛流传着一个笑话：一个村委书记在省上听了省委书记关于“一路一带”、“大国崛起”和“中国梦”的文件传达后备受鼓舞，回到村子马上向县委呈上报告，提出了解决国家产能过剩、帮助经济增速的三项大工程：给长城铺上瓷砖、给喜马拉雅山装上电梯间、给太平洋围上栏杆。县委书记读完报告后，批示：“谋事要实、创业要实、做人要实。希望从利民利国的小工程做起。”村委书记很快就提出了新三项“小工程”请求领导批准：给蚊子戴上口罩、给苍蝇戴上手套、给老鼠戴上避孕套。</p>
-<p>只有明确意识到中国如此这般的权力生态大背景，我们才能理解中共权力的任性和荒诞。</p>
-<p>关键词: 网络 主权 互联网 栏目: 新颖视角 首页重点发表: 精品导读 作者: 夏明</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83%E5%92%8C%E6%9D%83%E5%8A%9B%E7%9A%84%E4%BB%BB%E6%80%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">乌镇互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">第二届世界互联网大会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -692,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -702,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

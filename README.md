@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B4%BE%E8%91%AD%EF%BC%9A%E8%83%A1%E9%94%A1%E8%BF%9B%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%90%97%EF%BC%9F/" target="cdt-mirror">贾葭：胡锡进知道什么是“一国两制”吗？</a>
+</h2>
+<p><p>2015年12月31日在香港失踪、被劫持到深圳的铜锣湾书店经理李波，其实是自2015年10月以来该书店失踪的第五个工作人员。这五位失踪人员是桂民海、吕波、张志平、林荣基、李波。今天（1月4日）上午，特首梁振英对记者表示，内地执法人员在香港执法不能接受，因为不符合基本法。</p>
+<p>“铜锣湾书店事件”引发香港媒体连日来对“一国两制”的质疑。在我以为，这是一件未来会载入中国历史的大事。正是类似事件的不断发生，才使得“一国两制”形同虚设，才使得港人对“一国两制”愈加质疑，并且终究会失去对中国本部的身份认同。然而，《环球时报》的火上浇油，无疑更是让港人更加厌恶与反感。</p>
+<p>今天《环球时报》就此事刊发署名单仁平的评论说，“铜锣湾书店几乎专门出版、销售与内地有关的政治书籍，它们很多都包含恶意编造的内容，构成了对名誉权的严重侵犯。”又说，“虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的。它利用回归后内地人大量进出香港，把自己搞成向内地提供“禁书”的一个突出源头，不能不说它变相插足了内地的事情，损害了内地保持和谐稳定的重大利益。”</p>
+<p>首先，假如真就如胡总编辑所说，铜锣湾书店构成对名誉权的严重侵犯，而名誉权案件是自诉案件，那么由被侵权人在侵权发生地向法院提出告诉即可，还轮不到胡总替法院下结论。香港是法治社会，依法处理即可。胡总是什么意思？干涉香港司法独立吗？退一万步说，即便事情发生在中国大陆，也还有大陆法院在呢，你这么跳出来给别人定案，是在媒体上公开暗示中国不是法治国家吗？</p>
+<p>其次，胡总认为铜锣湾书店“靠给内地社会捣乱维持生存的”，这个说法有什么证据吗？书店不过是卖书而已，“捣乱”是一个什么性质的名词？捣乱的具体行为又是什么？符合香港法律对个体行为的定义吗？书店卖书就是商业行为，港府有签牌照，违法的话有香港法律管，你胡总编辑用一句语焉不详的“捣乱”，就可以替“被失踪”背书了吗？</p>
+<p>再说“禁书”的事情，中国人可以不可以在海外买书？可以不可以在香港买书？中国有哪条法律规定中国内地人不可以在香港买书？既然没有，凭什么说铜锣湾书店卖书这个行为“损害了内地保持和谐稳定的重大利益”？我想问问胡总，到底损害了哪些人的什么重大利益？胡总说书店“变相插足了内地的事情”，我想请问，插足是什么性质的名词？违反香港法律吗？</p>
+<p>铜锣湾书店是一间不超过20平米的小书店，只有四排书架，在寸土寸金的铜锣湾，勉强维持自身生存都很不容易了。胡总要这间书店担负“以挑衅的政治方式为自己谋利”的罪名，实在太难为了。真要谋利的话，改成咖啡馆或者奶粉店，谋利可就太容易了。但恰恰因为是在铜锣湾没有这么做，铜锣湾书店才成为香港的著名地标。</p>
+<p>铜锣湾书店卖的书，很多都是中共高级干部的著作，甚至还有当下领导人的著作。有些书是中共老一辈领导人比如张国焘、王明的著作，有些是文革期间的中共重要人物如邱会作、李作鹏等人的著作或回忆录，甚至被认为是“左王”的邓力群，其回忆录《十二个春秋》也是在香港出版。</p>
+<p>我想请问胡总，这些著作，都是内地人写的，为什么不能给内地人看？而且几乎都是中共高级党员的著作，据说代表了先进性，为什么不能给内地人看？为什么卖中共高级党员的书，反而是损害了内地的利益？这个道理我想不明白，我想也没有多少人明白，请胡总指教。</p>
+<p>“一国两制”的初衷，不是要把香港变得跟内地一样，而恰恰了为了保留香港这种不一样，邓小平的原话是“井水不犯河水”，“五十年不变”，保证尊重香港的自由与法治，保证尊重香港人对中国内地的不认同，尊重香港人的生活方式。从这一点来说，胡锡进一点也不了解“一国两制”，而且严重曲解了“一国两制”，给内地和香港的交流带来严重的负面后果。</p>
+<p>我的许多香港朋友都非常反感《环球时报》的涉港言论，认为该报不仅不了解香港，也不了解中国内地的涉港方略。铜锣湾书店事件发生后，香港媒体对此跟踪报道多日，认为跨境执法是违反基本法的，特首也于今日表态，那么，胡锡进老师是想干嘛呢？这样一篇火上浇油的评论，只能令事态愈发不可收拾。</p>
+<p>胡总编辑的结论，用在他自己身上最合适不过了：不能不说，胡锡进变相插足了香港的事情，损害了香港保持和谐稳定的重大利益。下面这两句引文也原封不动还给胡老师：像李波“失踪”这件事，有些人首先想到的就是炒作它，把它朝政治方向引，试图制造香港社会与内地的隔阂，抹黑“一国两制”。谁恶意挑动冲突，就有罪于整个国家，也是对香港根本利益的背叛。</p>
+<p>很多时候，我们反思内地与香港关系的时候，不得不重视《环球时报》这类媒体以及胡锡进老师给香港人民的人心回归带来的负面因素。回归后的人心向背，与舆论关系极大。胡锡进火上浇油的评论，只能帮倒忙，搬石头砸党的脚，打乱北京的涉港政策，令香港问题更加棘手难办。</p>
+<p><strong>附：</strong></p>
+<p><strong>环球时报 | 少数港人不应动辄质疑“一国两制”</strong></p>
+<p>单仁平</p>
+<p>香港铜锣湾书店股东李波被指12月30日“失踪”，其家人对媒体说他最后一个电话是从深圳打来，称自己“正协助调查”。而香港方面没有他的出境记录，他的回乡证也在家中。这件事在香港被炒作，猜测李波被内地执法人员“越境”带走的说法最热，一些人迫不及待给此事做“违反一国两制”的定性。</p>
+<p>香港有反对派组织计划本周举行游行示威，并宣称要向联合国人权委员会投诉。香港特区政府表示正在调查此事。</p>
+<p>中央及内地社会对坚持“一国两制”从未动摇过，香港回归18年多了，但至今与内地一眼看上去就不一样，就是坚持“一国两制”的结果。无论发生什么具体的事情，质疑“一国两制”政策有变，宣扬内地要把香港“管起来”，都是借题发挥，毫无根据。</p>
+<p>既然香港特区政府表示调查此事，相信它一定会与内地相关机构沟通，把事实搞清楚，公之于众。在这之前做各种政治猜测，上纲上线，没有任何好处。</p>
+<p>借这个空档，反思一下铜锣湾书店的所作所为，也有几分必要。</p>
+<p>铜锣湾书店几乎专门出版、销售与内地有关的政治书籍，它们很多都包含恶意编造的内容，构成了对名誉权的严重侵犯。那些书籍通过各种渠道流进内地，成为一些政治谣言的源头，在一定范围内造成恶劣影响。</p>
+<p>虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的。它利用回归后内地人大量进出香港，把自己搞成向内地提供“禁书”的一个突出源头，不能不说它变相插足了内地的事情，损害了内地保持和谐稳定的重大利益。铜锣湾书店像是要刻意在香港与内地之间拱出一块灰色地带，以挑衅的政治方式为自己谋利。</p>
+<p>香港少数人是给国家出了难题的。“一国两制”是很好的设计，当初内地社会都为它的确立而高兴、骄傲。大家想得很简单，真心愿意香港回归祖国后继续保持资本主义制度，也保持有特色的社会风貌，几乎没有想过后来出现香港一些人的反中央倾向。一些人张狂地要把香港搞成在政治上对抗国家的桥头堡，这尤其出乎内地很多人的意料。</p>
+<p>现在香港极少数人不断发动政治攻击。在互联网新时代，他们的负面影响已经不局限于香港，同时也在向内地渗透，这成为国家面临的一个现实问题。</p>
+<p>这部分少数人不该钻空子，把自己对内地有害的政治表现做到极致。这显然不符合“一国两制”的原意，基本法是要香港与内地和谐相处的，而不是要把两种制度安排搞成它们的彼此对抗。谁恶意挑动冲突，就有罪于整个国家，也是对香港根本利益的背叛。</p>
+<p>像李波“失踪”这件事，有些人首先想到的就是炒作它，把它朝政治方向引，试图制造香港社会与内地的隔阂，抹黑“一国两制”。而香港舆论对这样的炒作缺少警惕，很容易受其影响，这是令人遗憾的。</p>
+<p>相信国家，相信基本法，这应当是香港舆论研讨各种新闻事件的前提。好像“一国两制”随时都面临威胁，每件具体的事都是对它的考验，需要大家拿着放大镜盯住所有细节，这本身就是一种偏颇。因此让视角端正，这是值得努力的。▲（作者是环球时报评论员）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B4%BE%E8%91%AD%EF%BC%9A%E8%83%A1%E9%94%A1%E8%BF%9B%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A/?category=18271" rel="tag">香港支联会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8C%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5%E3%80%8D%EF%BC%9F/" target="cdt-mirror">【网络民议】如何评价「你也配姓赵」？</a>
 </h2>
 <p><p>提问：充分体现了网络上良莠不齐信息泛滥的现状。</p>
@@ -636,41 +674,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E5%8F%B7%E6%B2%89%E8%88%B9%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%EF%BC%8C%E7%B3%BB%E7%81%BE%E9%9A%BE%E4%BA%8B%E4%BB%B6%E8%88%B9%E4%BD%93%E5%90%88/" target="cdt-mirror">端传媒｜“东方之星”号沉船报告公布，系灾难事件船体合规范</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg" rel="attachment wp-att-423553"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg" alt="2015年6月5日，救援人员翻沉的“东方之星”游轮打捞出水。摄： ChinaFotoPress/ChinaFotoPress via Getty Images" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/6aa22ed3bb6845eaa31afc89fd7a8c32.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><p>2015年6月5日，救援人员翻沉的“东方之星”游轮打捞出水。摄： ChinaFotoPress/ChinaFotoPress via Getty Images</p></div>
-<p>6月1日21时30分，隶属于重庆东方轮船公司的“东方之星”号客轮，在长江中游湖北监利水域发生沉船事故，共造成442人死亡，仅12人成功获救。</p>
-<p>时隔半年后，中国国务院于12月30日批覆了“东方之星”号客轮翻沉事件调查报告。国务院调查组调查认定，“东方之星”号客轮翻沉是由突发罕见的强对流天气——飑线伴有下击暴流——带来的强风暴雨袭击导致，属于重大灾难性事件。</p>
-<p>调查组认为，“‘东方之星’号客轮抗风压倾覆能力虽符合规范要求，但不足以抵抗此次遭遇的极端恶劣天气”。调查组同时指出，“船长及当班大副对极端 恶劣天气及其风险认知不足，在紧急状态下应对不力”，建议“对船长张顺文给予吊销船长适任证书、解除劳动合同处分，由司法机关对其是否涉嫌犯罪进一步调 查”；而由于当班大副刘先禄在事故中不幸身亡，“建议免于处理”。</p>
-<p>调查组称有43人对日常管理和监督检查中存在的问题负有责任，建议给予党纪、政纪处分，包括企业7人，行业管理部门、地方党委政府及有关部门36人，其中，副省级干部1人，厅局级干部8人，县处级干部14人。</p>
-<blockquote><p><span><strong>那时事故调查报告没出，我们觉得（钱）拿的不明不白。而且名义是补偿款，不是赔偿款。作为家人来讲，我们不是为了要钱，而是为了知道真相。</strong></span></p>
-<p><span>遇难者家属李建国（化名）</span></p>
-</blockquote>
-<p>“东方之星”沉船事故令数百个家庭承受丧失亲人的痛苦。8月底，各地政府实行“同船同命同价”，针对每位遇难者发放82.5万元的“政府补偿”，旅游责任保险及船舶保险另计。</p>
-<p>据搜狐网报导，有遇难者家属发现旅游协议中写明有20元被用来支付保险费用，但旅行社为游客在太平洋保险公司够买的保险却只用了5.7元，决定对旅行社和保险公司提起诉讼。</p>
-<p>也有遇难者家属表示，一些地方的民政局仍有很多无人认领的遗物。他称曾误领一台数码相机，里面有一位笑容可掬的老先生的照片。他将相机还到民政局，半个月后发现仍未回到失主手上，自己感到失望之余，用2个小时就在网上找到了那位老先生的家属。</p>
-<p>对于官方此前迟迟未公布调查结果，多次去社区询问也只能得到“等官方消息”的回复，不少遇难者家属已将亲人的下葬时间推迟到2016年的清明节。他们认为，事故原因不明，亲人的亡灵无法安息。</p>
-<table><tbody><tr><th><span>12～13 级</span></th>
-</tr><tr><td>调查组报告显示，“东方之星”号客轮受下击暴流袭击，风雨强度陡增，瞬时极大风力达12至13级，1小时降雨量达94.4毫米。而经试验和计算，该船遭遇 21.5米/秒（9级）以上横风时，或在32米/秒瞬时风（11级以上），风舷角大于 21.1°、小于156.6°时就会倾覆。</td>
-</tr></tbody></table><p> </p>
-<h3><span>声音</span></h3>
-<blockquote><p>我们不要多少赔偿，只要你能解释清楚，（保险金额）20元和5.7元的关系就可以了⋯⋯如果出事情的是我，估计我妈已经过不下去了，为了他们，我能做多少就做多少。</p>
-<p><span>——遇难者家属王博华（化名），已从公司辞职</span></p>
-</blockquote>
-<blockquote><p>就是想尽快知道结果，无论责任方在谁，他们欠一个道歉。</p>
-<p><span>——遇难者家属李建国（化名） </span></p>
-</blockquote>
-<blockquote><p>拖了半年，在2015年最后两天公布结果，之后必将迅速淹没庆祝新年的喜庆气氛中，这日子选的也是用心良苦啊。</p>
-<p><span>——中国网友 </span></p>
-</blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E5%8F%B7%E6%B2%89%E8%88%B9%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%EF%BC%8C%E7%B3%BB%E7%81%BE%E9%9A%BE%E4%BA%8B%E4%BB%B6%E8%88%B9%E4%BD%93%E5%90%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E7%BF%BB%E6%B2%89%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">“东方之星”船难</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -682,7 +685,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -692,5 +695,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

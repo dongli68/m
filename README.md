@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E6%A0%B7%E5%AE%9A%E4%B9%89%E8%B5%B5%E5%AE%B6%E4%BA%BA%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%AF%8D%E6%9D%A5%E8%87%AA%E4%BA%8E/" target="cdt-mirror">【网络民议】怎样定义“赵家人”，这个词来自于哪里？</a>
+</h2>
+<p><p><strong>知乎：怎样定义“赵家人”，这个词来自于哪里？最近在一些论坛里经常看到“赵家人”“姓赵”“精赵”这种说法，为什么纠结于“赵”这个姓呢？这都是怎么来的？</strong></p>
+<p>知乎用户，求开喷人不掉友善度的PVP区： （寒羽狼、罗也也、知乎用户等人赞同）</p>
+<p>简而言之：“赵家人”是既得利益者，实际掌权者的意思，“精赵”，即精神赵家人，自认为能在执政集团的强势下能沾光的人。尤其用于嘲讽那些兴奋于军力强盛，望着国旗顶风流泪那种人。</p>
+<p>自从“自干五”连带着“五毛”在官方语境影响下，从贬义成为中性乃至褒义后，“你也配姓赵？”是一个语言上的反击。</p>
+<p>《阿Q正传》</p>
+<blockquote><p>我并不知道阿Q姓什么。</p>
+<p>有一回，他似乎是姓赵，但第二日便模糊了。</p>
+<p>那是<b>赵太爷的儿子进了秀才的时候，锣声镗镗的报到村里来，阿Q正喝了两碗黄酒，便手舞足蹈的说，这于他也很光采，因为他和赵太爷原来是本家，细细的排起来他还比秀才长三辈呢。</b>其时几个旁听人倒也肃然的有些起敬了。那知道第二天，地保便叫阿Q到赵太爷家里去；太爷一见，满脸溅朱，喝道：</p>
+<p>“阿Q，你这浑小子！你说我是你的本家么？”</p>
+<p>阿Q不开口。</p>
+<p>赵太爷愈看愈生气了，抢进几步说：</p>
+<p><b>“你敢胡说！我怎么会有你这样的本家？你姓赵么？”</b></p>
+<p>阿Q不开口，想往后退了；赵太爷跳过去，给了他一个嘴巴。</p>
+<p><b>“你怎么会姓赵！——你那里配姓赵！”</b></p>
+<p>阿Q并没有抗辩他确凿姓赵，只用手摸着左颊，和地保退出去了；外面又被地保训斥了一番，谢了地保二百文酒钱。知道的人都说阿Q太荒唐，自己去招打；他大约未必姓赵，即使真姓赵，有赵太爷在这里，也不该如此胡说的。此后便再没有人提起他的氏族来，所以我终于不知道阿Q究竟什么姓。</p></blockquote>
+<p><strong>以下网民评论由数字时代编辑搜集整理自知乎网站和新浪微博：</strong></p>
+<p>Wood Wu：“你也配姓趙”實際上是一個複雜的表達，包含了一套完整的邏輯。《阿Q正傳》中的趙太爺是村中有權有勢的大人物，與趙太爺同姓意味著“與有榮焉”，也就是可以分享趙太爺的權勢。然而趙太爺并不承認阿Q姓趙，也不願分享權勢。擴大地審視這個現象，可以認爲這是統治階級内部的一種相互認同的方式。然而這種認同方式并不與非統治階級共享——即使你真的也姓趙，人家不承認也沒有意義。在此邏輯下，聯係社會現實，“姓趙”可以用來指當今社會中由當權者、紅二代、紅三代、紅色資本家等分享權財的裙帶關係者所組成的統治階級，而“你也配姓趙”則多用於諷刺“自帶乾糧的五毛黨”——也就是作爲被統治者，明明處於無法分享利益的立場，卻被統治者欺騙而爲統治者説話的人。</p>
+<p>zcpey：起因是：微博用户 @穆好古 问四川团省委某喽啰对自干五现象怎么看。团省委喽啰回答的大致意思是：“你也配姓赵”。</p>
+<p>凌叫兽：知名自干五候聚森被体制内人士人肉就是对“你也配姓赵”最完美的诠释。</p>
+<p><a title="任我盈-看见" href="http://weibo.com/u/1706376625" target="_blank">任我盈-看见 </a>：<span>赵家人</span>：其原型是鲁迅先生笔下的赵庄赵太爷，象征上层阶级，现实中泛指高级官僚、富豪、体制内干部以及家属子女等。“精神赵家人”，部分意义上就是鲁迅先生笔下的阿Q，象征那些明明身处被压迫的局面却仍旧支持或顺从于压迫者的人。</p>
+<p><a title="侯虹斌" href="http://weibo.com/u/1658717970" target="_blank">侯虹斌</a>：发明“赵家”这个词的鲁迅好牛。凡是在想不明白的“国家”二字的地方，换上“赵家”，立即简明清晰。</p>
+<p><a title="荣剑2001" href="http://weibo.com/u/5459181838" target="_blank">荣剑2001</a>：除旧迎新之际，<span>赵家人</span>突然火了，都在问谁是“赵家人”？近百年前，有人在《湘江评论》创刊词中宣布：天下者，我们的天下；国家者，我们的国家；社会者，我们的社会；我们不说，谁说？我们不干，谁干？后来拿下天下，国家社会均归其所有。文革时有人再提此宣言，五十年后终于有了答案：天下原是赵家的。</p>
+<p><a title="无节操评论" href="http://weibo.com/u/2206185595">无节操评论</a>：能代表人民的仅剩五毛了！！！<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%94%E6%AF%9B.jpg" alt="五毛" width="421" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/五毛-300x284.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/五毛.jpg 421w" sizes="(max-width: 421px) 100vw, 421px"></p>
+<p><a href="http://weibo.com/u/1272610553">游向库页岛的大马哈鱼</a>：中国另一别称，赵国。“赵家人”是既得利益者实际掌权者意思。赵家人定位：省部级官员、将军级军官及其家属、附庸。“精赵”，即精神赵家人，自认为能在执政集团的强势下能沾光的人。尤其用于嘲讽那些兴奋于军力强盛，望着国旗顶风流泪那种人。源《阿Q正传》“你也配姓赵？”</p>
+<p><a title="田青伟的微博" href="http://weibo.com/u/2189358933" target="_blank">田青伟的微博</a>：有一帮人，真把自己当成“<span>赵家人</span>”了，连某党还没怎么着呢，这帮人就开始动辄那有敌对势力这有推墙势力，死活就是不尊重基本事实。有根有据的批评都不容，把群众推到对立面，把坚持实事求是坚持法治思维的推到对立面，境界与度量如此之低，这简直比某党还会自掘坟墓。</p>
+<p><a href="http://weibo.com/n/%E5%8D%8E%E4%B8%96%E9%BE%9995" target="_blank">华世龙95</a>: 赵家奴才不姓赵，但是自己总认为，这块长了毛的狗肉能贴到赵家这只红毛驴身上！赵家家财万贯，可以给万里之外的张三，或千里之外的李四！但是绝不会给自家的穷亲眷！偶而扔5个铜板给自认为是赵家人的人，殊不知到，赵家根本就没拿你当自家人，好不容易闻了一下赵家的屁！跑过来对我们说:香。</p>
+<p><a title="scarlett冰与火" href="http://weibo.com/u/3875416044" target="_blank">scarlett冰与火</a>：其实姓赵的<span>赵家人</span>并不可怕，因为不可能多，可怕的是精赵人越来越多。</p>
+<p><a title="六股河的风" href="http://weibo.com/u/2073536807" target="_blank">六股河的风 </a>：【<span>赵家人</span>】“赵家”是网民2015年的智慧结晶。以前说官商、权贵、二代等都不准确，只有当朝“核心圈”里的官商、权贵、二代等才算得上“赵家人”。 据考证，这一词汇来源于阿Q正传赵老爷骂阿Q：你也配姓赵！由此引申而来。 首先提出“赵家人”网友，可获普利策大奖。</p>
+<p><a title="明月还如李白时" href="http://weibo.com/u/2240517075" target="_blank">明月还如李白时</a>：转：“人民”难理解？只要换为“赵家”二字，便清晰了。”赵家政府”、“赵家公仆”、“赵家警察”、“赵家法院”、“为赵家服务”、“赵家教师”、“赵家日报”，“严重伤害了中国<span>赵家人</span>的感情”、“金正日、卡扎菲、穆加贝是中国赵家人的老朋友。”“一切权力属于赵家。”</p>
+<p><a title="蝌蚪往人" href="http://weibo.com/kdwr" target="_blank">蝌蚪往人</a>：<span>赵家人</span>现在的意思很明显，闷声发大财，以中华之物力，结与国之欢心，境内十四亿人肉电池呢。第一要务就是维稳。现在超市老板赔了85万这个说法流传这么广，就是因为大家都不傻，都懂这个逻辑。只要你耽误了赵国的稳定，赵国肯定喂你药丸。别提良民了，兔杂五毛什么蹦得高了，也要喂药丸，一视同仁。</p>
+<p><a title="文舟宁" href="http://weibo.com/beibeibear" target="_blank">文舟宁</a>：【<span>赵家人</span>歌】因为我们是赵家人，相亲相爱的赵家人，有权才能相聚，有钱才会珍惜，何不让满天乌云遮住眼睛。因为我们是赵家人，相亲相爱的赵家人，有福就该同享，有难必不同当，这样才能寿与天享，福比天长。</p>
+<p><a title="漫漫丁" href="http://weibo.com/manmanding" target="_blank">漫漫丁</a>：茅老先生尊重经济上的不平等，但提倡人格地位上的平等。我非常赞同。经济上的不平等是自由市场竞争出来的结果，可以通过政府税收和NGO慈善再次分配来进行适当纠正。我们赵国为什么不这么做呢？原来<span>赵家人</span>还是为了追求特权好发横财。所谓中国特色的社会主义就是他们的幌子。按说他们够富了，但还是贪。</p>
+<p><a title="等候9路" href="http://weibo.com/yuzechen" target="_blank">等候9路</a>：散户听K线图的，K线图听庄家的，庄家听财阀的，财阀又听“<span>赵家人</span>”的。炒股的最后被股炒是必然的 。</p>
+<p><a title="演员朱铁" href="http://weibo.com/zhutie" target="_blank">演员朱铁</a>：“<span>赵家人</span>”其原型是鲁迅先生笔下的赵庄赵太爷，象征上层阶级，现实中泛指高级官僚、富豪、体制内干部以及家属子女等。将“人民”换成“赵家人”即可理解，赵家人政府，赵家人日报，赵家人广播电台<img title="[黑线]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/91/h_org.gif" alt="[黑线]"> “赵家人”一词火爆于《细思极恐的万科宝能之争：门口野蛮人，背后赵家人》“呸，你也配姓赵！”</p>
+<p><a title="万水千山犹在" href="http://weibo.com/u/5760850084" target="_blank">万水千山犹在</a>：好同学小明改名叫<a href="http://weibo.com/n/%E8%B6%99%E5%AE%B6%E4%BA%BA%E5%BA%95%E7%B7%9A%E6%B2%92" target="_blank">@<span>趙</span><span>家人</span>底線沒</a> 了，他的口头禅就是：“赵家模式”，俺不信！<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61.jpg" alt="006hRWgQgw1ezmkxafjc7j30cu0hiq61" width="440" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E6%A0%B7%E5%AE%9A%E4%B9%89%E8%B5%B5%E5%AE%B6%E4%BA%BA%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%AF%8D%E6%9D%A5%E8%87%AA%E4%BA%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%8D%B1%E9%99%A9%E4%BA%86/" target="cdt-mirror">东网｜南桥：香港危险了</a>
 </h2>
 <p><p>据香港多家媒体报道，铜锣湾书店一名股东李波在岁末突然失踪。据李波妻子报案称，出事当日有人致电该公司表示要买十多本书，李波被骗到位于柴湾的货仓而中伏。几小时后，李太接到丈夫疑从深圳打来的电话，透露“正协助调查”，并表示“不要搞大”事件。这个电话所用的“协助调查”和“不要搞大”的说法，显示出此事背后中国公安操作的标记。这些说法是典型的中国大陆公安的用词。中国公安在“请喝茶”、黑头套、强迫旅游等措施的时候，通常会使用这样的语言，这类说法即使是香港的黑社会也不会用的。</p>
@@ -636,25 +681,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD-%E5%86%9B%E6%94%B9%E9%98%BB%E5%8A%9B%E7%A9%BA%E5%89%8D-%E5%86%9B%E6%8A%A5%E6%8A%A5%E5%BA%86%E5%B1%95%E7%A4%BA%E5%86%9B%E5%A7%94/" target="cdt-mirror">中国茉莉花革命 | 军改阻力空前 军报报庆展示军委“团结”</a>
-</h2>
-<p><p>在《解放军报》创办六十周年之际，中共总书记、中央军委主席习近平率领中央军委全班人马前往致贺、视察，听取工作汇报，发表重要讲话。这段时间，正是解放军有史以来最大、最深、最广泛实施大改革、大手术、大整合之际，据闻阻力之大也是空前，各种谣言满天飞，说是中央军委高层有人「思想抵触」，要求「暂缓改革」，习主席动了真气，严批谁挡道搬开谁。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/Screen-Shot-2015-12-31-at-%E4%B8%8B%E5%8D%889.54.27.png" alt="Screen Shot 2015-12-31 at 下午9.54.27" width="550" height="318"><br><span>习近平参观解放军报创刊60周年主题展览</span></p>
-<p>这段期间，《解放军报》连续发表评论文章，为军队大改革「鼓与呼」，狠批各种反改革言论，要求全军上下坚决贯彻执行军队改革，以大局为重，抛开各种「私心杂念」，以党的利益、军队利益、国家利益为先。</p>
-<p>这类文章发得愈多，措词愈严厉，人们就知道军队上下阻力愈大，尤其是「中央军委内部有不同意见」的「谣言」似乎就愈有市场。这种情况，「辟谣」的最好方法，就是找一个机会和场合，习主席带领全体中央军委委员一起出席某项活动，以示大家「紧密团结在习主席周围」也。</p>
-<p>《解放军报》是中央军委的机关报，相当于《人民日报》是中共中央机关报。党中央最高领导人担任中央军委主席，实施「党指挥枪」，就要牢牢抓住中央军委的「党报」，体现党对军队的全面、绝对领导。</p>
-<p>既然是党领导军队，军队要听党的话，军队要「卷进党内斗争」，《解放军报》就无可避免的在宣传、报道、评论方面，随着中共党内斗争的大势走，成为斗争工具。六十年来军报岁月峥嵘也。</p>
-<p>来源：太阳报 / 柳太极 传媒人</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2015. |
-<a href="https://chinadigitaltimes.net/chinese/2015/12/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD-%E5%86%9B%E6%94%B9%E9%98%BB%E5%8A%9B%E7%A9%BA%E5%89%8D-%E5%86%9B%E6%8A%A5%E6%8A%A5%E5%BA%86%E5%B1%95%E7%A4%BA%E5%86%9B%E5%A7%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E6%8A%A5/?category=18271" rel="tag">太阳报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%A7%94/?category=18271" rel="tag">军委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -666,7 +692,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -676,5 +702,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

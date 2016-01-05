@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/423959/" target="cdt-mirror">【图说天朝】孝悌忠信 誓戒邪淫</a>
+</h2>
+<p><p><a href="http://weibo.com/elifeeducation" target="_blank">@青杏网</a>：杏粉发来的，据说某高校图书馆每张书桌上都有一张。生气、失望！我们这些民间力量在不停提供正确的性知识性观念，却苦于力量小声音传不到校内，结果学校却 在任由这些恐吓教育、羞耻教育、污名教育在高校肆虐！你倒是给我说说，自慰是怎么导致性病艾滋的？<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB1.jpg" rel="attachment wp-att-423965"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB1.jpg" alt="邪淫1" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/邪淫1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/邪淫1.jpg 639w" sizes="(max-width: 639px) 100vw, 639px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB2.jpg" rel="attachment wp-att-423964"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB2.jpg" alt="邪淫2" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/邪淫2-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/邪淫2.jpg 639w" sizes="(max-width: 639px) 100vw, 639px"></a></p>
+<blockquote><p>孝悌忠信 誓戒淫邪／婚前禁欲 婚后节欲</p>
+<p>姑娘，你知道未婚先孕多伤你爸爸的心吗？</p>
+<p>此时还不悔悟，所以更大的苦果还在后面</p></blockquote>
+<p><strong>相关阅读：</strong></p>
+<blockquote>
+<ul><li>【<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%AF%B9%E7%90%86%E7%A7%91%E5%A5%B3%E7%94%9F%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%98%AF/" target="_blank">图说天朝】对理科女生来说，在清华大学学习是怎样的体验？</a></li>
+<li><a title="女声｜官方“孝道家风”学习材料惊现“红颜祸水”论" href="http://chinadigitaltimes.net/chinese/2015/05/%E5%A5%B3%E5%A3%B0%EF%BD%9C%E5%AE%98%E6%96%B9%E5%AD%9D%E9%81%93%E5%AE%B6%E9%A3%8E%E5%AD%A6%E4%B9%A0%E6%9D%90%E6%96%99%E6%83%8A%E7%8E%B0%E7%BA%A2%E9%A2%9C%E7%A5%B8%E6%B0%B4/" target="_blank">女声｜官方“孝道家风”学习材料惊现“红颜祸水”论</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%90%9C%E7%8B%90%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%95%B4%E9%A1%BF%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91-%E5%A9%9A%E5%A4%96%E6%81%8B%E4%B8%80%E5%A4%9C%E6%83%85%E9%A1%BB%E5%88%A0%E9%99%A4/" target="_blank">搜狐｜广电总局整顿网络视频 婚外恋一夜情须删除</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2012/08/%E4%BA%BA%E6%B0%91%E7%BD%91%E8%A2%AB%E6%9B%9D%E5%AE%A3%E6%89%AC%E5%90%83%E7%B2%BE%E6%B6%B2%E5%A5%BD%E5%A4%84-%E9%81%AD%E5%9B%B4%E8%A7%82%E5%90%8E%E6%92%A4%E4%B8%8B%E5%8E%9F%E6%96%87/" target="_blank">人民网被曝“宣扬”吃精液好处 遭围观后撤下原文（图）</a></li>
+</ul></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/423959/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85/?category=18271" rel="tag">艾滋病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E6%81%8B%E8%A7%82/?category=18271" rel="tag">婚恋观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E6%95%99%E8%82%B2/?category=18271" rel="tag">性教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E7%A7%91%E5%AD%A6/?category=18271" rel="tag">伪科学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%9117%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%B8%80%E7%96%91%E7%8A%AF%E4%BF%A1%E6%81%AF%E6%9B%9D%E5%85%89/" target="cdt-mirror">BBC | 银川公交车起火至少17人死亡 一疑犯信息曝光</a>
 </h2>
 <p><p>据中国央视报道，星期二（1月5日）早上7时许，宁夏银川市贺兰县境内一辆公交车行驶期间突然发生火灾，目前事故已造成17人死亡，32人受伤。<br>
@@ -714,29 +736,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C/" target="cdt-mirror">蘋果日報｜公安私自在港抓人违《基本法》</a>
-</h2>
-<p><p><span lang="EN-US">内地公安私自来港监视目标人物、搜集证据、甚至将涉案港人挟返内地审讯，自香港主权移交以来时有听闻，本港警方于</span>2004<span lang="EN-US">年也曾在港岛摩星岭道一高尚住宅外截获过</span>7<span lang="EN-US">名怀疑来港办案的内地公安。今售卖「禁书」的铜锣湾书店</span>5<span lang="EN-US">名港人先后失踪，其中李波更疑在港被内地公安绑架到内地，香港人权监察总干事罗沃垄称事件虽未经证实，但认为保安局及律政司应关注及交代事件，以维护一国两制及《基本法》。</span></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaa.jpg" alt="k5aaaaaaaaaaa" width="550" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaa-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaa.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>股东疑被公安带走的铜锣湾书店昨没营业</p>
-<p>团体促保安局交代</p>
-<p>罗沃垄说，内地公安来港「做事」已非新鲜事，而近期他也听闻有公安来港执法，但按《基本法》规定，公安来港应透过司法协助，不应自己出手，而在2003年7.1游行前后，就曾听闻有相当大批的不同公安系统人士来港，并要求逗留一段时间才离去，惟至今没有正式个案可予证实。他又说李波失踪事件仍未清楚，惟有传闻他被公安带到内地，保安局及律政司应关注及了解事件，并作出交代。</p>
-<p>支联会副主席蔡耀昌称，5名与售「禁书」书店有关人士，自去年10月起在不同地方失踪，事后他们的家人都接获报平安讯息，明显不是意外及绑架勒索，令人联想到是政府行为及与「禁书」有关。5名失踪者惟独李波是在港失踪，若证实为内地公安所为，令人震惊，希望特区政府全面调查及尽快交代事件，而支联会会留意事件进展，再作出跟进。</p>
-<p>1999年6月，46岁姓孙男子疑涉内地一国企骗案，被人目击在杏花村寓所外被人掳走，警方调查无出境纪录，疑被内地执法机构带到内地。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k5aaaaaaaaaaaaaaaa.gif" alt="k5aaaaaaaaaaaaaaaa" width="548" height="405"><br>
-铜锣湾书店售卖多本中国政治禁书</p>
-<p>铜锣湾书店占中共禁书市场三分一</p>
-<p>涉事的铜锣湾书店以营销中共时政和高层内幕书籍著名，尤其是2014年桂民海（阿海）和李波接手经营后，店中描写中共高层政治内幕的书籍大增，成为内地文化客来香港游必去目的地之一，也是香港中国政治禁书出版发行的重要平台。</p>
-<p>据国际中文笔会会长贝岭介绍，阿海接手铜锣湾书店前自己就有多个出版社，如北运河、新视界版、三角地、双丰、飘萍、广度等，以不同社名交错出书，每年出约50本，占香港中国政治类禁书三分一。阿海与李波接手铜锣湾书店后，这一频率有增无减。据不完全统计，仅2014年以来铜锣湾书店售卖的中共禁书就有《习近平和元老巅峰之战》、《绝密：中南海零点计划》、《李克强因病辞职》、《十九大总理之战》、《中央军委清洗血案》、《大老虎反习同盟》等数十种。</p>
-<p>和阿海合作经营铜锣湾书店前，李波自己的香港文化艺术出版社也出版过一些涉中国时政和文化艺术方面的书籍，包括北大前副教授焦国标的《窝囊中国》等，但锋芒远不如阿海旗下所出版的书籍，影响也有限。</p>
-<hr><p><small>© 图样图森破 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -748,7 +747,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -758,5 +757,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

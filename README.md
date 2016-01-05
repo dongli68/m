@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/423959/" target="cdt-mirror">【图说天朝】孝悌忠信 誓戒邪淫</a>
@@ -80,7 +80,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8/?category=18271" rel="tag">成都公交爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88/?category=18271" rel="tag">厦门公交爆炸案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BA%A4%E8%87%AA%E7%87%83/?category=18271" rel="tag">公交自燃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E5%B7%9D/?category=18271" rel="tag">银川</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB/?category=18271" rel="tag">银川公交车起火</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9D%80%E7%81%AB%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">公交车着火事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E4%B8%BA%E7%BA%B5%E7%81%AB/?category=18271" rel="tag">人为纵火</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E3%80%90%E4%B8%AD%E5%85%B1%E6%83%AF%E6%8A%80%E3%80%91%E6%9D%8E%E6%B3%A2%E3%80%8C%E8%A2%AB%E5%86%99%E4%BF%A1%E3%80%8D%E6%8A%A5%E5%B9%B3%E5%AE%89%EF%BC%9F/" target="cdt-mirror">立场新闻 | 【中共惯技】李波「被写信」报平安？</a>
 </h2>
@@ -319,7 +319,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%A7%E7%81%AB/?category=18271" rel="tag">宁夏银川公交车大火</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%A6%81%E8%A8%80%E5%88%B0%E5%A2%83%E5%A4%96%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：北京禁言到境外？</a>
 </h2>
@@ -747,7 +747,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -757,5 +757,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

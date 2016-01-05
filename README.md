@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/423959/" target="cdt-mirror">【图说天朝】孝悌忠信 誓戒邪淫</a>
@@ -317,6 +317,26 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9D%80%E7%81%AB/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%A7%E7%81%AB/?category=18271" rel="tag">宁夏银川公交车大火</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B3%95%E5%BA%AD%E9%BB%84%E7%89%9B%E5%85%9A/" target="cdt-mirror">【图说天朝】法庭黄牛党</a>
+</h2>
+<p><p>@迟夙生律师：今天朋友圈里发的最幽默图片，去年不立案得憋到什么程度，新年开局法院立案都整出黄牛党来了，真是温馨到家了！</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/FL99L.jpg" alt="FL99L" width="550" height="733" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/FL99L-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/01/FL99L.jpg 600w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>@TY记者文戈：年底不立案是很多法院的替规则。</p>
+<p>@火箭军司令：立案真难。我遇到的情况有:当事人必须亲自到场，不到场不立案；起诉状必须用四号字打印，非四号字的不立案；当事人签名必须用黑色墨水笔，用蓝色墨水笔和用圆珠笔签名的不立案；证据必须齐全，不齐全不立案；必须按照立案庭指示追加被告，不按指示办不立案；立案庭庭长开会或出差，当天不立案，等等。</p>
+<p>@南宁阿陈：窝草，我大天朝的黄牛可以分门别类载入史册了。</p>
+<p>@爱__摄影：奇葩的是高院要求结案率，这就是不懂法律的行政官员转任法官搞得怪。</p>
+<p>@蒋祖权评论：奇征异兆，盖过历朝。</p>
+<p>@用户2wacgple5s：法官们都卖身赚钱了！黄牛党岂有不卖票赚钱的道理？</p>
+<p>@粉色小金龙：这是赵家大法啊！</p>
+<p>@火星人来地球稳食啦2013：为得就是怕拉低年终结案率！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B3%95%E5%BA%AD%E9%BB%84%E7%89%9B%E5%85%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%9C%E8%A7%84%E5%88%99/?category=18271" rel="tag">潜规则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E9%99%A2/?category=18271" rel="tag">法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%89%9B/?category=18271" rel="tag">黄牛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%8B%E6%A1%88/?category=18271" rel="tag">立案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%89%9B%E5%85%9A/?category=18271" rel="tag">黄牛党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 7小时前</small>
@@ -714,28 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A2016%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E5%B0%86%E5%8F%98%E6%9C%AC%E5%8A%A0%E5%8E%89/" target="cdt-mirror">东网｜东步亮：2016白色恐怖将变本加厉</a>
-</h2>
-<p><p>这是 2016 年的第一篇文章。新年本来应该说点吉利话，可是眼下的形势，依旧让人悲观。</p>
-<p>今年大陆的白色恐怖措施可能仍将延续，甚至有可能变本加厉。</p>
-<p>恐怖气氛如影随形。岁末年终和新年伊始，各种不好消息仍在不断传来。最新的一则消息是曾为蒙冤访民代理「敲诈政府案」的济南律师舒向新遭公安以「诽谤罪」逮捕，而将此事发上微博的律师同行则遭到国保威胁， 「小心办了你！」</p>
-<p>如果一切都摆上台面，光明正大地该怎么办就怎么办，正义根本不会畏惧邪恶，怕的是国家机器耍流氓手段，它们不走「正路」，最常使用的手法是私底下抓捕、绑架、赃栽、陷害、恐吓，而不让外人知。去年 9 月已被北京市东城区检察院决定「不起诉」的原调查记者刘虎，屡次申请国家赔偿而不得。最近再次前往申请时，被威胁「如果还要求国家赔偿，就给你定罪」。果然，几天之后，东城区检察院就收回已作出三个多月的「不起诉决定书」，决定变更为「罪行轻微不起诉」，由无罪变成了有罪。声称要「依法治国」的国家视法律为玩物，司法机关的决定说变就变，仅仅因为你不听话，而不是事实有何变化。浦志强的「判三缓三」想必也是如此，缓刑的目的就是为了更好地控制他的思想言行。</p>
-<p>看过李庄最近公布的当年重庆审判李庄案的庭审笔录吧？和流氓政权缠斗，你是永远缠不过它的，因为它的基本逻辑是流氓，是白色恐怖，毫无理性与法律可言，想「解决」你总是有办法。</p>
-<p>什么叫白色恐怖和流氓？一位资深媒体人说，「媒体这一行，做了整整十五年。我入行时的总编和主管，现在统统在监狱里了。我入行时的媒体单位，现在连刊号都被吊销了。」一位北京的市民说，「我说怎么最近出租司机变乖了，很少见乱喷的了，以前在能听到的精彩段子、政治八卦都没了，问司机才知道，每个车上都装了监听」这两件看起来似乎毫不相干的事，解释了当下的气氛，它们有着绝对内在的关联。</p>
-<p>再举个例子。香港著名禁书店「铜锣湾书店」的一名老板和四名员工，自 2015 年 11 月以来，已先后在东莞、深圳、泰国和香港本地失踪，下落不明。连香港禁书店的经营人员都人间消失，红色巨人之爪竟能在作为自由民主之地的香港为所欲为，还有什么地方能够幸免，不被荼毒？</p>
-<p>著名学者、中国社科院社会问题研究中心主任于建嵘，在 2015 年上半年曾和他的朋友们有一个赌约，他赌 2016 年 9 月以后，当前的局势会有所缓和，被抓的朋友们会陆续获得一定程度的自由，包括他在内的异议人士会获得一定程度的自由言说空间，激烈地抓捕、打压异见人士的活动会有所收敛。但前提是中共现任领导人完成了对各方面权力的绝对掌控，错综复杂的权力斗争中习取得了最终胜利，具备了相对的安全感。他说，之所以把时间点定在 2016 年 9 月，是因为 2016 年 10 月将召开十八届六中全会，这次全会之前中共会基本确定十九大的人事问题。</p>
-<p>于建嵘对中国社会问题的看法历来深刻而富于洞察，他对中国社会政治前景曾有过多次准确的预测。但这次，恐怕他要失算了。以目前的形势来看，有关部门抓捕、打压异见人士，控制社会各阶层人士言论的行动丝毫不见半点收敛，预示主要领导人至今毫无「安全感」，今年这些白色恐怖措施可能仍将延续，甚至有可能变本加厉。</p>
-<p>但是，终有压垮巨人的最后一根稻草。终有人推倒多米诺骨牌。终有某个偶然引发必然。垮台往往只在一瞬间。只是，这个时间点会不会是 2016 ？或许这是今年，也许是今后几年唯一也是最大的悬念。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A2016%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E5%B0%86%E5%8F%98%E6%9C%AC%E5%8A%A0%E5%8E%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%BD%93%E5%88%B6/?category=18271" rel="tag">极权体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%9E%81%E6%9D%83/?category=18271" rel="tag">新极权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -747,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -757,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E6%9E%84%E5%AE%B6%E5%9B%BD-%E4%BB%8E%E6%96%B0%E8%AF%8D%E8%B5%B5%E5%9B%BD%E8%B0%88%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%9A%84%E5%BD%BB%E5%BA%95/" target="cdt-mirror">西域雪番：解构家国——从新词“赵国”谈爱国主义的彻底破产</a>
+</h2>
+<p><p>1）</p>
+<p>中国作为一个权贵之国，行的是权贵资本主义已是不争的事实，“<a href="http://chinadigitaltimes.net/space/%E5%A4%A9%E6%9C%9D" target="_blank">天朝</a>”取代中国作为称谓已有好些年了，作为再定义的解构，总是要靠近本质，最近还有“<a href="http://chinadigitaltimes.net/space/%E4%BD%A0%E5%9B%BD" target="_blank">你国</a>”的叫法，这是一种渐行渐远的界定，一句话，<a href="http://chinadigitaltimes.net/space/%E5%B1%81%E6%B0%91" target="_blank">屁民</a>对这个国家的认同离心，无论你叫新中国，共和国，我国，祖国，一样然并卵。</p>
+<p>农民徐纯合死后福利兑现呈现一个国之“贱民”要求权利的艰难，以及心酸，惨烈与代价，对于平民，教育，医疗，养老，住房绝对是四座大山，那山都能压死人。最近学习优良农家高二女生因吃不饱饭跳天桥自绝，民妇因看不起病内疚向自己的患儿下跪，留守儿童的集体自杀，翻船，爆炸，溃坡……，一面是平民灾难的滚滚而来，另一面是老大出访世界，满处撒钱，红朝像极满清天朝，似乎都恪守着“宁與外邦，不與家奴”的廷训，否则不会有坊间传闻：中国的钱美国可以用，非洲可以，朝鲜可以，政府可以，官员可以，富二代可以，二奶可以，唯独老百姓不能用。但拿“天朝”称谓本朝，虽然形似满格，但天朝一词终究是人家大清的原创，在这个现实大于想象的时代，一次拿来注定是个过渡。</p>
+<p>2）</p>
+<p>我家楼下一所连锁民办幼儿园，每天早晨的升旗都会听到这样的鸡血：爱我中华，我爱五星红旗……，不一而足，爱国从娃娃抓起是人生全过程的洗脑国策。所以，爱国等于爱政府，暴君就是大救星，分不清专制极权与普世民主、常识与邪教、人权与主权，依然是洗脑结果。然而，但凡强行植入，灌输并伴只有暴力胁迫的概念都是伪概念，是颠倒黑白，强奸真相的概念，而强奸的概念一旦穿帮必然会被解构，并不断地被解构，直至还原真相。</p>
+<p>爱国主义当为第一枚强奸概念，国是谁的？没有民权国能是谁的呢？就如耄太祖说的：假的就是假的，伪装应当剥去，目前的新词“赵国”就是对我国，共和国，新中国极好的解构，解构就是拆卸开来，让本质现形。“<a href="http://chinadigitaltimes.net/space/%E8%B5%B5%E5%9B%BD" target="_blank">赵国</a>”新词典出鲁迅《阿Q正传》，赵少爷中了秀才，阿Q也要自豪一把，马上消受到赵老太爷耳光:“你也配姓赵？”</p>
+<p>主子的家国是断然不准奴才染指的，不然慈禧太后能把“宁与外邦，不与家奴”当国策，老大没完没了的撒币很有一脉相承的神似。近期<a href="http://chinadigitaltimes.net/space/%E7%8E%8B%E7%9F%B3" target="_blank">王石</a>对宝能姚振华收购万科股份的愤怒就是主子对于权力的惯性。本来嘛，生意你有卖我就有买，契约交易，公平合理，然而，你作为一个买菜出身的，要来和我平起平坐，以王石们为代表权贵“你也配性赵”的愤怒便油然而生：以为你有钱了，可以姓赵了？呸！在红色权贵眼里，奴才就是奴才，何况是低级奴才。再如前<a href="http://chinadigitaltimes.net/space/%E8%96%84%E7%9D%A3" target="_blank">薄督</a>对<a href="http://chinadigitaltimes.net/space/%E5%BE%90%E6%98%8E" target="_blank">徐明</a>的不屑：徐明什么身份，我是什么身份？</p>
+<p>3）</p>
+<p>网上段子，“我们是共产主义接班人”是从小唱大到的，有好事者追问，我们什么时候接班啊？呵呵，问是天问，轮你接班，你也配性赵？别说为人民币服务岗位紧张，就红色茅坑也满满人蹲着，爱国作为一个奉献概念时，百无禁忌，一旦为利益诉求，只能是权贵手里的刀枪，其实一切无权无势的屁民都是那案板的肉，爱锅就是一个甘当傻逼的笑话，别人可以忽悠，你去信就一定傻缺，因为你不姓赵，家是人赵家的，国也是。</p>
+<p><a href="http://chinadigitaltimes.net/space/%E8%87%AA%E5%B9%B2%E4%BA%94" target="_blank">自干五</a>，一切平民的爱锅梦该当休矣，爱锅锅解构为赵国可谓正本清源，这是拿来主义的神来之笔，创意解构得无限接近真相了。说你不爱国你滚出中国去的<a href="http://chinadigitaltimes.net/space/%E4%BA%94%E6%AF%9B" target="_blank">五毛</a>，不过是拿区区五毛钱的瘪奴才，冒充主子是断然不成的，“<a href="http://chinadigitaltimes.net/space/%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5" target="_blank">你也配姓赵</a>”？一举将此类狗奴才全部缴械。本朝以赵国方式解构可谓正本清源，一切装逼犯立即桥归桥，路归路地被打回原形，八旗归八旗，奴才归奴才，屁民归屁民，如此也一举收缴爱国主义的佛光，就如满清天朝的奴才不能说我大清而必须说你大清，赵国，赵国人业已界定，如同天堑鸿沟，权属所有泾渭分明，如此可谓尘埃落定，石破天惊。</p>
+<p>2015-12-30</p>
+<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">赵家人</a></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61.jpg" alt="006hRWgQgw1ezmkxafjc7j30cu0hiq61" width="440" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E6%9E%84%E5%AE%B6%E5%9B%BD-%E4%BB%8E%E6%96%B0%E8%AF%8D%E8%B5%B5%E5%9B%BD%E8%B0%88%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%9A%84%E5%BD%BB%E5%BA%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8F%B4%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">援交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">接班人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%84%B6%E5%B9%B6%E5%8D%B5/?category=18271" rel="tag">然并卵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5/?category=18271" rel="tag">你也配姓赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">赵国人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B5%84%E4%B8%AD%E7%AD%A0%EF%BC%9A%E6%88%91%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A2%AB%E8%99%9A%E5%81%87%E5%8E%86%E5%8F%B2%E8%92%99%E8%94%BD%E5%BF%A7%E8%99%91%E5%BE%97%E5%BD%BB%E5%A4%9C%E9%9A%BE/" target="cdt-mirror">资中筠：我为年轻人被虚假历史蒙蔽忧虑得彻夜难眠</a>
 </h2>
 <p><p>资中筠先生：“中国大学，特别是以北大清华为代表的名牌大学，招收的是中国最聪明的学生，却用充满谎言的伪史谬论来毒化摧残他们的大脑，让中国真正的思想种苗断后绝育，葬送中国的希望和明天，是招天下英才而毁灭之，这是伤天害理的行为!这是我忧虑得非常深的一个问题，有时一想起来，真是忧虑得我经常晚上睡不着觉。”</p>
@@ -715,45 +738,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A%EF%BC%9A%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA%E6%A1%88%E7%96%91%E6%B6%89%E4%B9%A0%E8%BF%91/" target="cdt-mirror">BBC ｜香港支联会：铜锣湾书店人员失踪案疑涉习近平题材作品</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/tonglasdf.jpg" alt="tonglasdf" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/tonglasdf-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/tonglasdf.jpg 700w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>何俊仁（中）表示据传巨流传媒被劝止不要出版有关“习近平情人”的新书。</p>
-<p>香港民运团体称，铜锣湾书店五名股东职员失踪一事，可能涉及一本尚待出版有关中国国家主席习近平的书籍。</p>
-<p>香港市民支持爱国民主运动联合会（支联会）主席何俊仁周日（1月3日）称，这本书据信是有关习近平年轻时的情人。</p>
-<p>一位与铜锣湾书店老板桂民海关系密切的知情人士也对BBC中文网称，在五人先后失踪之前，该书店的确在策划出版一本有关习近平与其情人的书籍，甚至其书名就叫做《习近平与他的情人》。</p>
-<p>由于铜锣湾书店及其母公司巨流传媒出版及售卖政治敏感书籍，令人联想五人被内地官方人员带走。港府官员强调警方正在调查，目前不作揣测评论。</p>
-<p>何俊仁说，无人知否究竟五人失踪与这本尚未出版的书籍有否关连，不过形容这只是“骆驼背上最后一根稻草”。</p>
-<p>何俊仁在新闻发布会上说：“有几位与书店相熟的读者对我们说……听闻最近有一本书将会出版，会涉及到习近平年轻时候的一位情人。我曾听闻有人劝他们不要出版这本书籍。”</p>
-<p>再接电话</p>
-<p>自去年10月起，包括桂民海在内的铜锣湾书店四名股东和职员相继在大陆及外地行踪不明。至上周三（12月30日）晚上，股东李波亦告失踪。</p>
-<p>据香港媒体报道，李波妻子在家中已找到李波的回乡证与护照。多家媒体也引述消息称，港方并无李波的出入境记録。</p>
-<p>李太太说，周六约11时（格林尼治标准时间3时）再次接到李波报平安的电话，电话号码与此前一样是来自广东深圳。不过当她问李波是否身在深圳，他没有响应。</p>
-<p>当李太太说“你让他们听电话”，电话随即被切断。</p>
-<p>“冲击一国两制”</p>
-<p>李波在香港疑似被中国内地警方带走，何俊仁形容为“政治绑架”。</p>
-<p>被问到失踪事件会否与私怨有关，何俊仁对BBC中文网说：“当然是有可能，但是到现在已经变成一件这么大的事情，如果他们人是在内地、如果中央政府不认同他们现在被逮捕拘留，他们应该马上给释放了。”</p>
-<p>“如果中央政府还是纵容这些人的做法，那就是有问题了。”</p>
-<p>支联会秘书李卓人说：“李波事件让全香港人感到心寒、感到恐怖、感到愤怒。如果我们香港一国两制连港人的人身安全自由都无保障的话，我们还有甚么保障？”</p>
-<p>香港政制及内地事务局局长谭志源周日对记者说：“在一国两制的安排下，香港本身的法律是由香港特区政府相关的执法机构来执行，内地所有执法机关必须服从于一国两制的安排，这是大原则。”</p>
-<p>谭志源呼吁不要就事件多作揣测，并说：“个案正由保安局调查当中，若有进一步（消息），我相信他们会作进一步交代。”</p>
-<p>署理保安局局长李家超也回应说，香港警察港岛总区失踪人口组正跟进事件，由于李波是在香港失踪，事件的性质与此前四名失踪的书店股东及职员有所不同。</p>
-<p>李家超重申香港是法治之地，香港的执法权只属香港的执法部门。保安局已向内地机构查询是否有香港人被拘留，但尚未得到回覆。</p>
-<p>“打压出版业”</p>
-<p>何俊仁周日还说：“铜锣湾书店与其他售卖禁书书店不同之处，就因为它有巨流出版社。这个出版社的桂（民海）先生及他的朋友，相信他有不同渠道拿到不少敏感讯息。”</p>
-<p>何俊仁指，虽然书籍的可信性或有问题，但由于深受大陆游客欢迎，已“产生政治影响”。他说：“据知这些书籍相当畅销，尤其是周永康出事的那段时间。”</p>
-<p>据报，铜锣湾书店相关出版社出版的“中共禁书”约占香港“禁书”市场三分之一。</p>
-<p>支联会下周日将举行游行，呼吁港人关注铜锣湾书店事件。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A%EF%BC%9A%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%BA%E5%91%98%E5%A4%B1%E8%B8%AA%E6%A1%88%E7%96%91%E6%B6%89%E4%B9%A0%E8%BF%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A/?category=18271" rel="tag">香港支联会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -765,7 +749,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -775,5 +759,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

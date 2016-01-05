@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%9117%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%B8%80%E7%96%91%E7%8A%AF%E4%BF%A1%E6%81%AF%E6%9B%9D%E5%85%89/" target="cdt-mirror">BBC | 银川公交车起火至少17人死亡 一疑犯信息曝光</a>
@@ -317,7 +317,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD2016%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E6%94%BE%E7%BC%93/" target="cdt-mirror">自由亚洲｜中国2016年经济增长放缓</a>
 </h2>
@@ -339,7 +339,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912016%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%A1%80-%E6%AF%94%E5%BE%80%E5%B9%B4%E6%9D%A5%E5%BE%97%E6%97%A9%E4%B8%80%E4%BA%9B/" target="cdt-mirror">【网络民议】2016年的第一场血 比往年来得早一些</a>
 </h2>
@@ -758,5 +758,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

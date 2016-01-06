@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,111 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E7%B2%BE%E8%B5%B5%E7%8B%97%E8%AF%A5%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%B9%A6%E5%95%86%E7%9A%84%E7%8B%82%E5%90%A0%E4%BA%86/" target="cdt-mirror">苹果日报｜李平：精赵狗该停止对书商的狂吠了</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225">李波太太以收到丈夫报平安的传真为由向警方销案，相信中国当局让这封传真流出，最主要目的是想透过李太销案而阻止香港舆论继续热议李波被失踪，同时让他供认“以自己的方式”到中国协助调查，也为案件的定性和处理埋下伏笔。但是，无论是在北京的赵家的狗，还是在香港的精赵狗，都叫得太凶了，反而让更多人听到了，坏了赵家要转移视线的打算。</p>
+<p>从李波被失踪到李太销案，中共当局留下的漏洞实在太多。香港先有亲共议员以公安会做得“乾净啲”、习近平“唔会咁低庄”作辩护，又有梁振英要失踪人自己向警方提供资料的怪论，更有吴亮星宣称五条书局友坐“洗头艇”偷渡回内地嫖妓的人格谋杀。</p>
+<p>在北京，中共喉舌《环球时报》继指摘香港炒作铜锣湾书店书商失踪是抹黑一国两制后，昨日又迫不及待地以社评宣告“港书商亲笔信让‘绑架’谣言不攻自破”，强调“香港不能是敌对势力从事颠覆国家政治制度活动的特殊基地”。该报总编辑胡锡进还在新浪微博上加料称，现在最重要的事态是，梁振英表示只有香港执法人员可以在香港执法、内地媒体痛批内地警员越界执法的揣测，说明两边都认同此原则，“港人珍惜两制，望同时牢记一国的前提”。</p>
+<p>中港两地官方舆论对李波被失踪事件越描越黑，让人感受到鲁迅在《狂人日记》中所描写的一幕：“黑漆漆的，不知是日是夜，赵家的狗又叫起来了。狮子似的凶心，兔子的怯弱，狐狸的狡猾……”也让人听到狂人的感慨：“我认识他们是一伙，都是吃人的人。可是也晓得他们心思很不一样，一种是以为从来如此，应该吃的；一种是知道不该吃，可是仍然要吃，又怕别人说破他。”</p>
+<p>身为特首，梁振英不是督促保安局、警务处向中国交涉，营救被失踪的五个港人，反而要李波本人提供详细资料，以助警方调查。要失踪的人自己提供资料？擅长语言伪术的梁振英又在玩什么把戏？至于吴亮星声称收到消息指铜锣湾书店被失踪五人是坐“洗头艇”去深圳叫鸡，全然不顾有人在泰国被绑架回中国的事实，难道吴亮星有份开通从泰国到深圳的洗头艇航线？</p>
+<p>没有最无耻，只有更无耻</p>
+<p>至于胡锡进和《环球时报》的评论，网民的反应可分为三类：一是讥笑为高级黑，因其在内地的独家报道和评论，令更多人看到中共正在破坏一国两制、港人治港：“胡编劳苦功高，我一直认为他是潜伏在赵家的卧底。”二是挖苦竟然指李波是以自己的方式返回内地协助调查：“真爱国，要偷渡回祖国协助调查。”三是直接批评中共的胡作非为：“在国内跨省抓捕抓习惯了，哎。本来错就错了，搞出这么一出，就是无耻了。”“香港的底线被一次次戳穿，赵老爷威武！天下是赵家天下，岂容尔等说赵老爷不是。”</p>
+<p>一如港人近来喜以强国人指代中国人，赵家、真赵近来已取代你朝、你国成为中国网民对中共、中国的指代，不只有避开网络审查的作用，也凸显中国所谓人民当家作主、依法治国只是假象，实际上是中共权贵家族的天下，是吃人的赵家人的家天下。上周六网上还流出中宣部的指令，严禁在微博、微信等公共平台使用如精赵、贵赵、赵家人、你国、你党、王八（拼字：上王下八）朝、大撒币、吸精瓶、刁太大等时政负面辞汇，并警告“已有相关媒体人公开使用造成严重不良影响而受相应处分”。</p>
+<p>要分类的话，《环球时报》和胡锡进是赵家狗，疑是中共地下党员的梁振英也可以算是赵家狗，而香港的一班亲共议员、名流只能算是精赵狗。所谓精赵，即精神上的赵家人，并不是真正的赵家人。据网民考证，精赵的典故出自鲁迅的另一作品《阿Q正传》。阿Q自称是赵太爷的本家，而被赵太爷打耳光：“你也配姓赵？”</p>
+<p>看看香港那些亲共人士的嘴脸，自以为是赵家人，对着被失踪的书商狂吠不已，让港人见识到他们在涉及中港矛盾时没有最无耻，只有更无耻。但在中共权贵家族眼中，他们也只能落个“你也配姓赵”的结论，充其量是精赵狗而已。而精赵狗对书商的狂吠，坏了赵家吃人的隐情，总是要捱耳光的。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E7%B2%BE%E8%B5%B5%E7%8B%97%E8%AF%A5%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%B9%A6%E5%95%86%E7%9A%84%E7%8B%82%E5%90%A0%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5/?category=18271" rel="tag">你也配姓赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E7%8B%97/?category=18271" rel="tag">赵家狗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%BB%8E%E8%B5%B5%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%AF%8D%E7%9A%84%E7%AA%9C%E7%BA%A2%E7%9C%8B%E6%9D%83%E8%B4%B5/" target="cdt-mirror">自由亚洲｜未普：从“赵家人”一词的窜红看权贵与百姓的对立</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%AE%B6%E6%A5%BC.jpg" alt="赵家楼" width="296" height="347" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵家楼-256x300.jpg 256w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家楼.jpg 496w" sizes="(max-width: 296px) 100vw, 296px">“赵家人”，这个在鲁迅笔下才有意义的三个普通字，在2015年年底的中国互联网上，忽然变得神灵活现起来。它的出现，立即在网上惹来排山倒海般的反响，成为近年来展示朝和野、官和民、权贵和百姓、你们和我们、赵家人和非赵家人之间对立关系的最传神的词儿。</p>
+<p>“赵家人”最初来自于鲁迅的《阿Q正传》：赵少爷中了秀才，认为自己也姓赵的阿Q跟着欢呼时，赵老爷一个嘴巴抽去：“呸！你也配姓赵？”最近因万科和宝能之争，安邦介入，其背后的“赵家人”引发关注，“赵家人”就此被引申为中国的权贵家族。东网的乔木说，赵家人的流行，是在政治倒退、网络管制下，网民对官方主导话语的戏谑性<a href="http://chinadigitaltimes.net/space/%E8%A7%A3%E6%9E%84" target="_blank">解构</a>。</p>
+<p>妙不可言的是，“赵家人”这个词居然可以解释许多中国的政治现像，而这种解释赫然站在官方意识形态的对立面上。比如，凡是与国家、人民和民族有关的现像，如果用“赵家”或“赵家人”代替，竟然可以让许多曾经困惑不解的人们大梦初醒。原来“国家安全法”是赵家安全法，国家主权是赵家主权，涉嫌颠覆国家罪是涉嫌颠覆赵家罪。以此类推，国营企业是赵家企业，人民解放军是赵家解放军，法治是赵家人的法治，社会主义核心价值观是赵家人的核心价值观，共产主义信仰是赵家人的信仰！总之，中国的天下是赵家人的天下。</p>
+<p>这样一来，人们豁然开朗：原来长期以来，赵家人瞒天过海，偷梁换柱，用赵家这只“狸猫”换掉了国家这个“太子”，用赵家人掉了中国人民的包。人们一旦明白了这个掉包计，非赵家人哗然，天下哗然。</p>
+<p>哗然的天下忽然明白，赵家人和非赵家人如此不同，除了用对立两字，很难用其他更合适的字眼来描述。就拿利益对立来说吧，在过去的三十多年里，赵家人是获利最大的利益集团，差不多每一个赵家太爷级的人物及其家庭，都赚的盆满钵满，数以百亿计，可是普通老百姓却要承受医疗、教育、住房和养老的种种艰难。这种利益对立如此之大，足以使赵家人和非赵家人对立为你们和我们。</p>
+<p>然而对这种对立，赵家人似乎并不在乎。在过去的三年里，赵家人基本忙了三件大事：整党、整军、整社会。他们通过反腐整党和整军，通过打压律师、记者、学者和NGO整社会。这“三整”让中国从上到下都笼罩在焦虑和恐惧之中。赵家掌门人更是露出蛮横嘴脸：不管是谁，不许砸赵家的锅，否则让你们吃不了兜着走。</p>
+<p>进入2016，赵家人和非赵家人的对立会如何演化呢？现在看，赵家人垄断一切权力和资源的局面只会进一步加剧，只会不可理喻地进一步任性、无理、蛮横。比如，赵家人最近居然跑到自己曾信誓旦旦保证的“一国两制”香港，随心所欲的抓人。再比如，掌门人在党校会议上表示，党校就要姓党，其实就是姓赵。我们知道，这三年来，赵家就已经动了高校、司法和媒体的奶酪，要求所有高等学府、所有公检法、所有媒体，必须接受赵家的领导。难道在新的一年里，赵家人要用他们的咒语，进一步箍紧这个紧箍咒吗？如此，2016将是政治更加黑暗的一年。赵家人和非赵家人的对立会进一步加深。</p>
+<p>至于那个长期缺位而引发众多弊端的<a href="http://chinadigitaltimes.net/space/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9" target="_blank">政治改革</a>，赵家人显然不想搞，想搞的人不仅没有实权，也没有话语权和参与权。虽然赵家人的媒体没完没了地谈论改革，但没有话语权和参与权的老百姓对改革没信心，对政府没信心，对国家的前途没信心，对共产党政权没信心，归根结底，对赵家人没信心。</p>
+<p>2016年，赵家人的天下会如何演变呢？其实赵家人自己也说不好。别看他们一天到晚地说自己道路自信、理论自信、制度自信，赵家能不能扛得过去，他们心里也没底。他们非常害怕非赵家人革命，所以他们在过去几年里做的，就是拼命摧毁非赵家人中的脊梁。</p>
+<p>现在，赵家人和非赵家人、权贵和百姓的对立已经公开化了。下一步会怎样？决战吗？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%BB%8E%E8%B5%B5%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%AF%8D%E7%9A%84%E7%AA%9C%E7%BA%A2%E7%9C%8B%E6%9D%83%E8%B4%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?category=18271" rel="tag">阿Q</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%9C%A8%E8%B5%B5%E5%9B%BD%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%8D%E5%A7%93%E8%B5%B5%EF%BC%8C%E5%A7%93%E9%9C%BE/" target="cdt-mirror">高爽：在赵国，我们不姓赵，姓霾</a>
+</h2>
+<p><p>【编者注】作者微信原文已被和谐。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A7%93%E9%9C%BE.jpg" rel="attachment wp-att-424081"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A7%93%E9%9C%BE.jpg" alt="姓霾" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/姓霾-300x170.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/姓霾.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>我儿子出生八个月了，每天出门的时候，要绕三匝的围巾，包住他的脖颈、下巴，提至鼻子上方，只露出一双眼睛。他的睫毛细长，都能倒影在眼睛里了，水灵灵的，非常漂亮；被层层围裹着，他会不舒服，有时哭闹一下，作为新晋父母的心情，可想而知。出于婴儿的本能，他会伸出舌头舔舐送到嘴边的任何东西，我们很担心空气颗粒物会拉扯在围巾的纤维里，最终被他吞进肚子，但是不缠围巾，雾霾会更为直接地伤害他。</p>
+<p>是的，像所有的父母一样，从一出生，我们就开始防范任何威胁他健康的东西了，我们严格按照婴儿辅食添加时间表喂养他，我们会约束自己不要亲吻他，勤换洗衣物、按时洗浴，不让人为的细菌有机可乘。但是我们做不到万无一失，因为无处不在的空气，让我们束手无策。</p>
+<p>我由衷的觉得，我们的政府很强大，总理来了就是上合蓝，总理走了就是雾霾天，卖地收入几个亿，贪了最多判死缓。他们真正做到了上管天，下管地，中间管空气。比起我们的束手无策，他们上下其手，真是太威风了。</p>
+<p>我犹记得，人民政府朗诵政治抒情诗：孩子是祖国的花朵。</p>
+<p>可惜都生长在雾霾里。</p>
+<p>以前我对劳民伤财的各种会议很反感，现在都盼着下次会议的策划案递到中南海了，我都能想到策划案上都沾着社会主义道路上蓝天白云的气息。钱花哪不是花，反正他们当家，走什么路不是路，反正他们做主。</p>
+<p>所以，当我在新乡电视台公众号上看到元旦推送的一篇文章：<strong>太幸运了！我省首张“二孩证”被小店镇这对夫妻领了<strong>。</strong></strong>新年不要脸出了新气象，这种红包稿我想会有很多人和我一样吐“操”的。</p>
+<p>操！以前风声鹤唳，这会儿满嘴恭喜，腆着脸把公民的生育权利计划到底。种粮不纳税了还得歌颂你舔犊情深，生个孩子不罚款了还得感谢你格外开恩，是不是以后逢周一、三、五来个晴天还得赞美你道行精深？也难为这些政府喉舌了，自宫的够彻底了，还得不时改变口径，小心宫颈糜烂。强制堕胎是计划生育，放怀去生也是计划生育，措辞还都义正辞严、喜气洋洋，属狗的吧。</p>
+<p><strong>计划生育</strong>的词义在政府治下真是魔幻。这年头，不管政府他怎么计划，我们都是领计划，照办就是了，千万不能瞎比划，否则，轻则沦为邓吉元，重则打入精神病院，相当有尊严。</p>
+<p>霾来了，一切都像睡不醒的样子，望着漫天伸手不见五指的雾霾，感叹一句：霾God!</p>
+<p>估计上帝被召唤出来，也是一头雾霾水，这创世七天，要有光有光，要啥有啥，就是没有这东西。</p>
+<p>自然是人类节外生枝了。准确的说，是人类中的特权阶层节外生枝了。可能会有人另表一枝：分明是企业超排才导致环境恶化的。命苦不能怪政府、雾霾不能怪道台。</p>
+<p>呵呵，当我们查到2001年福布斯排行榜的榜眼是朝鲜特区行政长官杨斌，“划拨”到3000亩土地获利七十多亿就了然那些污染大户都是哪类人了，就是些小门小户的小型企业都能和权贵们瓜蔓出点儿关系。</p>
+<p>当知识分子们跌叹、论证、批判毛朝的3千多万人祸是多么惨无人道、骇人听闻，没有多少人长篇著述因人类诱发的举国天灾——雾霾是如何的惨无人道、骇人听闻，因为它潜伏期之长、之隐秘，是比<strong>众神之怒</strong>还要残暴的隐形杀手。毛朝是从精神和肉体上迅速消灭人，时间短，罪魁也一目了然，而祸首雾霾完全可以把罪责推诿、分摊给神经系统、心血管系统、呼吸系统、内分泌系统等疾病上，让人在雾霾中生离，霾散时死别，霾来霾去经年累月就习焉不察了，于是每年因雾霾提前死亡100万人，只成了数据而已。</p>
+<p>提前死亡的这些人里，或在弥留之际憧憬：20年后又是一条好汉！</p>
+<p>呵呵哒，让你失望了。有关专家说，我们还要和雾霾红尘作伴30年。</p>
+<p>我奶奶行年八十有七，她是旧社会的乱离人，也是新中国的歌颂者，她可谓是我们村的申纪兰，言必称社会主义好，社会主义呱呱叫，理由是不用吃窝窝头了，以前穷啊苦啊妇女的冤仇深啊。可能我们的政府就是如此自我标杆的：你们真不知足，满可以让你们手里啃着窝窝头，眼前雾霾把不住的往下流。</p>
+<p>但是阳历年回家，却见她慨叹的多了，神情中分明残留着惊痛。因为隔壁村，两个人五十来岁的年纪就先后死了，这不是孤例，不过是相继赴死所以显得愈加悲怆。疑难杂病让我们这个有名的长寿之乡名头不保，我奶奶在旧社会见过壮年被饿死的，恶霸、流弹打死的，就是没见过如此突然猝死的。当然医学上会给出各种解释，但是，长寿如她，身边经历了多少代人的死，还是禁不住感叹了一句：现在杂病太多了，人说没就没了。</p>
+<p>是啊，人说没就没了。铜锣湾书店负责人及职员相继失联，也是说没就没了，不过从香港警方的态度看，不是去地狱，很有可能是监狱。你香港再怎么信誓旦旦一国两制，也不可能让你一国两治啊，被跨省、跨境正是我警职业风范的体现。</p>
+<p>还是莫谈国事，回头谈谈风月吧。我那可以被归入中老年人群的父母，四十岁以前看到的都是白云苍狗，现在，全都是雾霾沉沉天不阔，他们会觉得楼高了人矮了洗个澡都要收费了，还满池子的漂白粉；我呢，有幸在小时候田田荷叶间浪游，晚霞漫天像失火的天殿，现在想来，自然之美幻莫过如此。现在，重现这种美好最直接的就是PS。</p>
+<p>这笔“变天账”找谁算呢。</p>
+<p>我有一朋友，愤世嫉俗：这世界没救了，人生得意须尽欢，来份腰子吃烩面；抹抹嘴巴奔旅馆，冲鸟一怒为红颜。他觉得自己才华横溢，写的都是不世出的作品，不能发表不被认可，是写给未来读者的。我偷看过他写的，算得上是些吐槽日记；以鲁迅的马上支日记的标准要求他，我怀疑朋友最想写的是马上风日记。正说着他接了个电话，欢欢喜喜的冲进雾霾里，约会小女朋友去了。鉴于他看见女的要抱抱，在伸手不见五指的雾霾里那么多口罩女，但愿他没抱错人喊着睡觉觉。</p>
+<p>过了阳历年，没浦更没谱的2015就过去了，一直被销声匿迹的浦终于被判决了；还是赵家天下的2016来得稍微平淡了些，除了<strong>贪污受贿数额超一亿元判死缓</strong>这则消息昙花一现了一下，微博的舆论氛围稍微失衡了一下，网友抹了下嘴角残留的唾沫星转身投入抢红包的狂欢中。总觉着今年的红包比往年更大一些，可能是地方官员们大保健之余撒出些红包冲喜的吧，不管对贪污的量刑新闻是否属实，至少释放出来的信号，对于他们不啻是颗定心丸，不知道身在囹圄被死刑判决多次的吴英深吸一口气（mai），会怎么想？</p>
+<p>一直奇怪大家津津乐道“你也配姓赵”，这个梗分明赵日天和最高法院才最有发言权，在赵国，我们不姓赵，姓霾。根据以往的治霾经验，我们被知识分子、有关部门追授为“治霾关键的要素”，还被当成巩固执政根基的尿素。我们一人饰了多角，没办法，执政党，真不是吃素的。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%9C%A8%E8%B5%B5%E5%9B%BD%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%8D%E5%A7%93%E8%B5%B5%EF%BC%8C%E5%A7%93%E9%9C%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/apec%E8%93%9D/?category=18271" rel="tag">apec蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E5%AD%A9/?category=18271" rel="tag">全面开放二孩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/" target="cdt-mirror">【河蟹档案】惹恼了谁？《佳访》李佳佳遭到朝阳群众举报</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%89%B9%E9%95%BF%E8%80%81105">艹长老105</a>：在兲朝，凡标有“人民”二字的东西，你只要换为“赵家”二字，一切便都清晰。“为赵家服务”，“赵家公仆”，“赵家教师”，“赵家医院”，“赵家法院”，“赵家日报”，“严重伤害了中国赵家人的感情”……<em>相关阅读｜《<a href="http://cn.nytimes.com/china/20160105/c05chinazhao/">纽约时报<em>｜</em>“赵家人”：中共权贵阶层的新称号</a>》</em><br><a href="https://freeweibo.com/weibo/3927163936096842" target="/weibo/392">2016年01月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B0%B7%E5%A4%A7%E7%99%BD%E8%AF%9D">谷大白话</a>：【看新闻学英语】sarcastic, Zhao family member, Zhao in spirit, Lu Xun, The True Story of Ah Q. <em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">数字时代<em>｜赵家人专题</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-6.jpg" alt="333" width="326" height="542"><br><a href="https://freeweibo.com/weibo/3928314165046844" target="/weibo/392">2016年01月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%B7%E9%A2%90">雷颐</a>：微信上看到的<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-1.jpg" alt="333" width="416" height="432" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-1-289x300.jpg 289w, http://chinadigitaltimes.net/chinese/files/2016/01/333-1.jpg 405w" sizes="(max-width: 416px) 100vw, 416px"><br><a href="https://freeweibo.com/weibo/3927347566558430" target="/weibo/392">2016年01月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40lelige">lelige</a>：【真理部】精赵、贵赵、赵家人、赵王、你国、你党等   <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%B2%BE%E8%B5%B5%E3%80%81%E8%B4%B5%E8%B5%B5%E3%80%81%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E7%8E%8B%E3%80%81%E4%BD%A0%E5%9B%BD%E3%80%81%E4%BD%A0/">【真理部】精赵、贵赵、赵家人、赵王、你国、你党等</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-2.jpg" alt="333" width="470" height="319" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-2-300x204.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-2.jpg 704w" sizes="(max-width: 470px) 100vw, 470px"><br><a href="https://freeweibo.com/weibo/3927180708520360" target="/weibo/392">2016年01月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E9%93%B6%E6%B2%B3">李银河</a>：马克思在他生活的年代（19世纪）就参与了争取言论自由出版自由的斗争，有专论批判普鲁士的书报检查制度。时间之轮已经转到21世纪，中国人民还在争取这个权利，尽管我们的主流意识形态是马克思主义，我们的宪法中也早就有了言论自由和出版自由的条款。李银河公众号已推送：审查制度的要害是害怕真相。<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%93%B6%E6%B2%B3">维基百科<em>｜</em>李银河</a>》</em><br><a href="https://freeweibo.com/weibo/3926908913335048" target="/weibo/392">2016年01月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%87%91%E8%BD%AE%E6%B3%95%E7%8E%8B1209">金轮法王1209</a>：分享图片<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-3.jpg" alt="333" width="389" height="550" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-3-212x300.jpg 212w, http://chinadigitaltimes.net/chinese/files/2016/01/333-3.jpg 640w" sizes="(max-width: 389px) 100vw, 389px"><br><a href="https://freeweibo.com/weibo/3927262652742697" target="/weibo/392">2016年01月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%AB%E5%AE%B6%E7%A7%81">享家私</a>：这就是和谐社会了。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-4.jpg" alt="333" width="415" height="415" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-4-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4.jpg 600w" sizes="(max-width: 415px) 100vw, 415px"><br><a href="https://freeweibo.com/weibo/3927158071993323" target="/weibo/392">2016年01月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E5%B9%B3%E5%AE%A2">老平客</a>：香港铜锣湾禁书书店相关人等全部消失<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333.jpg" alt="333" width="387" height="5653"><br><a href="https://freeweibo.com/weibo/3926893176633915" target="/weibo/392">2016年01月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%86%E4%BC%9F%E6%B0%91%E5%BE%8B%E5%B8%88">陆伟民律师</a>：对于铜锣湾一间书店负责人怀疑失踪事件，行政长官梁振英表示他和特区政府高度关注，申明根据「一国两制」安排和《基本法》规定，只有香港执法人员有权在港执法。<em>相关阅读｜《<a href="http://sc.news.gov.hk/TuniS/www.news.gov.hk/tc/categories/admin/html/2016/01/20160104_124410.shtml">书店股东失踪 政府高度关注</a>》</em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3927608146106959" target="/weibo/392">2016年01月04日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40Vet%E8%80%8C%E5%8F%91">Vet而发</a>：关于李佳佳利用“三个阵地”进行宣传的举报 致：广东省国家安全厅、广东省网信办、广东省省委宣传部、广东广播电视台纪委。<em>相关阅读｜《<a href="http://weibo.com/saysayjiajia?is_all=1">李佳佳新浪微博</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-7.jpg" alt="333" width="440" height="15983"><br>
+相关视频：</p><p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3928297404601039" target="/weibo/392">2016年01月06日</a>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">党委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%93%B6%E6%B2%B3/?category=18271" rel="tag">李银河</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91/?category=18271" rel="tag">人民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BD%B3%E4%BD%B3/?category=18271" rel="tag">李佳佳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E5%93%81%E5%BE%B7/?category=18271" rel="tag">思想品德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6/?category=18271" rel="tag">赵家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E5%A5%B3%E7%94%9F%E5%B0%B1%E4%B8%9A-%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F/" target="cdt-mirror">人民日报 | 女生就业 为啥这么难？</a>
 </h2>
 <p><p><strong>今天，我们先把目光聚焦在女毕业生群体，听听她们的故事。</strong></p>
@@ -711,110 +813,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%9C%E8%A7%84
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%A6%81%E8%A8%80%E5%88%B0%E5%A2%83%E5%A4%96%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：北京禁言到境外？</a>
-</h2>
-<p><p>中共喉舌《环球时报》有一种功能，就是说穿警方为了假装法治千方百计掩饰的黑幕。例如，当警方以经济案件调查艾未未、浦志强等异议人士时，该报连篇累牍揭示其因言获罪。其总编胡锡进甚至在微博替当局承认，“通过性丑闻、偷漏税等整政治对手，这是全世界政府通行的‘潜规则’”。</p>
-<p>这一次，香港铜锣湾书店五位人士失踪案件尚在“调查”之中，该报就发表社评为该书店进行政治定性：“虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的”，“变相插足了内地的事情，损害了内地保持和谐稳定的重大利益”。</p>
-<p>在中共的政治版图中，香港被称作“境外”。长期以来，中共的宣传策略是把世界分为“西方”与“中国”，“境内”与“境外”，或者把人类分为“人”与“中国人”，声称中国国情特殊，中国人素质不高，不能适应宪政民主、言论自由等普世人权。最近若干事件表明，北京正在放弃这种策略，改而要求全世界都统一遵从中国政治的游戏规则。《环球时报》关于香港铜锣湾书店案的社评，是一个明确的表达。它认为该书店的“罪行”是出版“禁书”，“像是要刻意在香港与内地之间拱出一块灰色地带，以挑衅的政治方式为自己谋利”，宣称“谁恶意挑动冲突，就有罪于整个国家，也是对香港根本利益的背叛”。</p>
-<p>首先应该明白，所谓“禁书”是特指在中国内地禁止出版的书籍。它们被禁，不是因为“造谣”，更不是因为观点有悖基本人权价值观。任何政治书籍，在中国内地出版都要经过严格的政治审查，否则就不能出版。审查的结果是，直接谈论中共领导人的书籍，只剩下虚伪的歌功颂德一类。香港“禁书”为中国言论自由作出了卓越的贡献。</p>
-<p>这些试图揭示政治黑幕的书籍，当然会有一些事实不确凿的地方，甚至整个叙述都建立在猜想和推测之上。在言论自由的地方，这些书籍中的某些部分也许不符合出版要求。但是，必须指出的是，这些不确和猜测，是因为中共当局对政治类信息的封锁。这就是为什么，世界上无论多么专业的媒体，多么资深的学者，在报道或研究中国、朝鲜等国的政治问题时，都难免出错。</p>
-<p>跨境绑架挑战人类政治文明</p>
-<p>越禁越想知道，这是人类基本的好奇心和求知欲所致。更何况，中南海的秘闻远远大过八卦的价值，事关中国人的政治命运和日常生活，也事关整个人类的文明进步。如果因为信息封锁后容易出错就不去报道和研究，那正好符合专制者的利益。因此，专制政府以事实不准确而谴责报道者和研究者，就如同把人关在黑屋子里而谴责他看不清东西一样，是十分荒谬的。</p>
-<p>然而，禁了就不能说，在黑屋子里看不清东西就有罪，在中国内地的宣传部门看来，竟是理所当然，很多民众也接受这样的逻辑。香港铜锣湾书店事件，和法国记者高洁（Ursula Gauthier）因为讨论新疆问题被逐、德国人雷克（Christoph Rehage）评价毛泽东被指“犯法”等事件一样，表明中共试图将此逻辑推及全球。</p>
-<p>香港特首梁振英称，“内地执法人员如果到香港执法，是不能接受的，因为这不符合《基本法》。”这句话是不正确的。倘若内地人真的到香港强制带走香港公民，那不是“执法”，而是绑架。更何况，即便在内地，警察跨省执法，也必须和本地警方打招呼，申请“协助调查”。这种失踪案，连“执法”的伪装都懒得做，那是赤裸裸的黑道行为。当它来自一个位居联合国安理会“五常”的大国时，则是对人类政治文明的挑战。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<hr><p><small>© 走丫的路 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%A6%81%E8%A8%80%E5%88%B0%E5%A2%83%E5%A4%96%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD2016%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E6%94%BE%E7%BC%93/" target="cdt-mirror">自由亚洲｜中国2016年经济增长放缓</a>
-</h2>
-<p><p>中国官方媒体《上海证券报》元月四号星期一刊登预测报告称，2016年中国国内实际经济增速略低于7%左右的潜在增长率， 国内生产总值GDP将增长6.5%左右，对外贸易将零增长。</p>
-<p>虽然中国经济2016年放缓已经不是什么新闻， 但是海内外仍然有机构或媒体乐此不彼做出大同小异的各种预测。要说《上海证券报》的预测有什么新意，那就是将放缓原因归咎于中国迄今已经实施的 “经济政策有一定滞后影响”，还没有发挥应有的作用，一旦中国2015年出台的经济政策和措施发挥作用，中国“经济仍将平稳增长”。换句话说， 中国经济此前一直平稳增长。《上海证券报》的预测虽然如此这样说， 但是英国诺丁汉大学中国经济问题专家姚树洁教授星期一表示，中国经济未来五年的经济增速在6.5% 到7%之间的确是可能的:</p>
-<p>“中国十三五规划的未来五年里，经济增速平均可能就在6.5%左右， 因为中国经济面临各方面的压力很大， 6.5% 并不是最糟糕的预测。现在， 中国要开放，人民币也变得不像以往那样坚挺，股市问题长期存在，监管不严结果造成中国股市上市公司分红长期低迷，有些公司赚钱， 股民也得不到什么好处。鉴于如此种种情况，大家对中国经济发展前景缺乏信心。”</p>
-<p>路透社星期一发自上海的消息引述中国官方数据说，虽然中国经济在新的一年将继续放缓，但中国“国内消费需求会保持稳定，社会消费品零售总额将增长10.5%左右， 2016年低通胀继续延续，消费者物价指数CPI将上涨1.5%左右，生产者物价指数PPI 将下跌3.5%左右”。此外，路透社星期一发自上海的消息还说，中国“隐形失业将显性化， 预计2016年新增就业达到1000万人，但鉴于对外贸易将可能零增长的情况，重化工企业和出口行业的裁员和就业岗位流失在所难免”。</p>
-<p>在中国经济放缓的严峻情况下，中国官方智库和体制内学者开出的各种药方都没有涉及到政治层面。对此，美国纽约城市大学政治学教授夏明星期一认为，中国整个制度中缺乏信誉度才是最根本的问题实质：</p>
-<p>“因为整个经济的发展和资本的所有人最需要的是对未来的可靠预期， 需要从国家领导层和政府那里得到一个制度性的保障或承诺， 从而在经营决策中规避或减少风险， 将风险转化为赚钱的机会。然而， 中国的体制中目前缺乏这种机制，使中国的投资者面临的最大挑战不是风险，而是对未来的不确定性。”</p>
-<p>在夏教授看来，这一不确定性是政治体制造成的， 因为中国没有国会和议会机制和民选机制，国家政府对资本的安全性没有承诺，中央银行不独立，结果使财政部变为中共中央的出纳室，人民银行变为财政部的柜台收银员。此外，夏教授强调， 中国改革开放30多年后的今天，资本仍然不能自由流动。资本账户仍然不开放，外资赚到的利润难以汇出。随着中国改革开放中的各种红利逐渐消失， 夏教授总结以下政治层面上的三点将不可避免地阻碍中国经济的发展：</p>
-<p>“第一民主的代议机制， 第二独立的中央银行，第三开放的资本账户，三者中国迄今都没有建立。 这样就使中国整个市场变得非常没有确定性，中国经济必然因此受到伤害。”</p>
-<p>如果阅读中国官方报道，中国经济似乎并没有糟糕到引发星期一全球股市抛售的狂潮。中国股市2016年首个交易日以暴跌7%收市前跌停收盘。例如，连续10个月疲软的采购经理人指数PMI数据， 被官方学者解读为“企稳收官”，“2016年有望迎来平稳开局”。不过， 中国和讯网星期一有评论在列举中国经济2016年将要面临的五大风险之后，发人深省地说，中国“如果经济增速一旦低于6.5%，则在连锁效应下，可能引发社会不稳，这就转化成为政治风险”。</p>
-<p>（记者：闻剑；责编：嘉华）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD2016%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E6%94%BE%E7%BC%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912016%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%A1%80-%E6%AF%94%E5%BE%80%E5%B9%B4%E6%9D%A5%E5%BE%97%E6%97%A9%E4%B8%80%E4%BA%9B/" target="cdt-mirror">【网络民议】2016年的第一场血 比往年来得早一些</a>
-</h2>
-<p><p>@@华尔街见闻APP：【沪深300跌破7%，触发熔断机制提前收盘】节后开盘首日，A股低开后持续下行，至下午13:35，沪深300跌幅扩大至7%，触发熔断机制收盘。沪指跌6.85%，深成指、创业板跌8.2%。熔断阈值为5%和7%两档，熔断后，熔断范围内的证券将暂停交易15分钟；如果全天收盘前15分钟触发5%或全天任何时间触发7%，将暂停交易至收市。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/dMVnf.jpg" alt="dMVnf" width="600" height="316" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/dMVnf-300x158.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/dMVnf.jpg 640w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>相关：<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E6%96%B0%E5%B9%B4%E9%A6%96%E7%9B%98%E9%87%8D%E6%8C%AB%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/" target="_blank">BBC | 中国股市新年首盘重挫 触发熔断机制</a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>love_sci4ever：（转） 美国的熔断是一个弱化版的涨跌停制度：触发熔断后，休息15分钟想明白了之后继续交易。中国的熔断是一个超级强化版的涨跌停制度：第二档7%熔断触发后，直接休市一天。我语文学的不好，不要骗我。我们这里的电工，管这个不叫熔断，叫拉闸。</p>
-<p>PhDEric：#2016年最幸福职业 券商员工一天的工作：8:30，晨会；9:00，泡茶，开市准备；9:20-9:30，准备子弹，直接跳空5%开盘；9:30，洗杯子、上厕所、理包、穿衣服；9:45，再砸两个百分点，关电脑，收摊下班。</p>
-<p>PhDEric：看明天是哪种情况了：1、没利好直接低开7%，收摊；2、有利好但不大，低开5%，休息，－7%，收摊；3、有大利好，高开5%，休息，7%，收摊；4、超级利好，高开7%，收摊。无论如何，明早10点前收摊都是大概率事件。</p>
-<p>新京报：韭菜纷纷发来祝贺，熔断机制首日就试验成功！确实好使。</p>
-<p>简直：上联：为防范股灾制造股灾，下联：搞熔断机制引发熔断。横批搞个啥好呢？</p>
-<p>但斌 ：2016年新年第一天就触及了熔断，在有涨跌停板制度背景下，再出台这个机制真是画蛇添足！难以理解！</p>
-<p>石述思 ：现在股票越来越人性化了，弄个熔断机制，给大家15分钟的时间喝口水，写个遗书，整理一下仪容仪表，理性选择一下死亡方式什么的，然后从容不迫的英勇就义。</p>
-<p>柯南_John的艰难岁月 ：熔断还是有用的，本来跌7%朋友圈一个个在鬼哭狼嚎，但是我发现朋友圈评论一个比一个欢乐，大家像是一起在玩网游，由于连续完成-5%和-7%两项任务，很多人欢快地讲起了段子，群众表示情绪稳定。不过等到晚上，大家最终还是会想起这次公测不删档，到时候努力别哭出来。顺便说一句，我已经哭过了。</p>
-<p>laoka01：~尼玛，开电梯开电梯，我们要上天台。~不好意思，开不了。今天起，天台电梯的保险丝和沪深300指数联动，现在已经熔断了。</p>
-<p>beidaijin：注：美国从1988年实行熔断机制至今，只有1997年10月27日实行了一次。</p>
-<p>magix_xiao：A股新年第一天开市暴跌，日本“失去的二十年”就是从新年第一天开始跌的。#希望历史不要重演</p>
-<p>Mr-Sine：这盛世，如你所愿。</p>
-<p>顺势而为ming：我国办大事一向高效率，不像资本国家拖拖拉拉！第一天一次性测试成功！</p>
-<p>听水半夏：“各部门注意，各部门注意，5%测试成功；接下来测试7%，测试成功，就下班。”看看人家证监会，刚放完长假，今天又提前下班，不说了，晚上回去继续做中国梦了。</p>
-<p>九华樱子：以前早上暴跌，下午还能反弹；现在早上暴跌，直接收盘！中国股市牛！</p>
-<p>将达到了方便弗兰克人家：所谓熔断机制的作用，好比一个人憋了好久正撒尿，中间被勒令憋住，15分钟后——你说他是接着撒还是不撒？</p>
-<p>刘芮东：美国本身没有涨跌停制度，这帮老爷生搬硬套，设置了熔断机制。我们这是结扎的同时，还学美国戴套。</p>
-<p>目向远方丶：以前我们叫韭菜，现在我们叫小白鼠。</p>
-<p>qhgy：美国从1988年实行熔断机制至今，只有1997年10月27日实行了一次熔断机制。而我国公元2016年头一天使用熔断机制，只用一天时间就完成美国9年要走的道路，效率比改革开放GDP增长的速度还要高 ！！而作为首日测试成功，就下跌至7%，人们为了纪念这一天，于是把这一天称为头七。</p>
-<p>beidaijin：美国的熔断意为:1.提供时间让市场冷静；2.提供时间让美金融机构公开信息；3.提供时间让上市公司公开信息；4.提供时间让政府发现其中原因….中国的熔断意为:1.让市场消息扩散；2.让市场进一步恐慌;3.让市场进一步恐慌;4.让市场进一步恐慌……</p>
-<p>KevinRestart：千股跌停辞旧岁，万众跳楼迎新年。</p>
-<p>LeoWang1009：这是要彻底弄死散户啊，都尼玛跌停啦，在给你弄个熔断，让你跑都跑不了，绝比双保险！</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912016%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%A1%80-%E6%AF%94%E5%BE%80%E5%B9%B4%E6%9D%A5%E5%BE%97%E6%97%A9%E4%B8%80%E4%BA%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">熔断机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E7%9B%98/?category=18271" rel="tag">收盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%A4%A7%E5%B9%85%E6%B3%A2%E5%8A%A8/?category=18271" rel="tag">股市大幅波动</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E6%96%B0%E5%B9%B4%E9%A6%96%E7%9B%98%E9%87%8D%E6%8C%AB%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/" target="cdt-mirror">BBC | 中国股市新年首盘重挫 触发熔断机制</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160104080135_chinese_investors_640x360_epa.jpg" alt="160104080135_chinese_investors_640x360_epa" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160104080135_chinese_investors_640x360_epa-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160104080135_chinese_investors_640x360_epa.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><strong>2016年首个股市交易日，做为A股指标的沪深300指数跌幅达7%，二度触发熔断机制，全日暂停交易提前收盘。港股、台股也重挫逾百点。</strong></p>
-<p>周一（1月4日）中国深证成指与沪指双双低开，中午过后，股市交易在沪深300指数跌幅达5%时第一次触发当天新上路的熔断机制，交易暂停15分钟。交易恢复后再度下挫7%，根据新规则，在13时43分停止交易至收盘。</p>
-<p>港股开盘即走低，随着中国股市一路下滑，港股跌幅也扩大，恒指收盘跌578.28点，报21327.12，跌幅2.68%</p>
-<p>在台湾，周一是证券交易所得税（证所税）废除的第一个交易日，旦受到国际利空影响，台股开低走低，盘中一度重挫228点，创17年来首个交易日最大跌点，终场收8114.26点，下跌223.8点，跌幅2.68%。</p>
-<p>周一公布的2015年12月份财新中国制造业采购经理人指数（PMI）为48.2，比11月下滑0.4个百分点，连续十个月低于50的荣枯分界线。</p>
-<p>相较于着重在大型公司的官方PMI，此非官方PMI调查较着重于中小型企业体。</p>
-<p>元旦中国国家统计局公布12月份中国制造业PMI为49.7，比上月提高0.1个百分点，但仍位于临界点以下，且低于历史同期水平。</p>
-<p>沪深300指数在达到提前收盘跌幅时，指数为3296.66点，下跌242.52点，跌幅6.85%。</p>
-<p>根据2016年新交易规则，熔断机制正式实施。沪深300指数涨跌幅超过5%，将暂停交易15分钟；沪深300涨跌幅超过7%时，交易时间将暂停至收盘。</p>
-<p>熔断机制在去年夏天中国股灾之后被研拟出来，防止股市大幅波动。</p>
-<p><strong>亚洲地区同步下跌</strong></p>
-<p>亚洲其他地区股市受到中国股市影响，在新年开盘首日走低。</p>
-<p>在日元走强对主要出口股造成压力的情况下，日经225指数收盘下跌582.73点，收盘在18,450.98点，跌幅3.06%。</p>
-<p>澳大利亚的标准普尔ASX200指数收盘跌幅0.5%，来到5,270.50。韩国首尔综指收盘跌2.2%，报1918.76点。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E6%96%B0%E5%B9%B4%E9%A6%96%E7%9B%98%E9%87%8D%E6%8C%AB%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E7%9B%98/?category=18271" rel="tag">收盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">熔断机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%A4%A7%E5%B9%85%E6%B3%A2%E5%8A%A8/?category=18271" rel="tag">股市大幅波动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -826,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E7%9B%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -836,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E7%9B%98
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

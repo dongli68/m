@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E4%B8%AD%E8%8B%B1%E5%B1%95%E5%BC%80%E5%A4%96%E4%BA%A4%E4%BA%A4%E9%94%8B/" target="cdt-mirror">BBC｜香港铜锣湾书店案：中英展开外交交锋</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg" rel="attachment wp-att-424009"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg" alt="160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg 660w" sizes="(max-width: 575px) 100vw, 575px"></a><p>香港铜锣湾书店五名股东、店员中最新失踪的李波确为英国公民，英国外相哈蒙德在北京与中国外长王毅展开外交角力。</p></div>
+<p>星期二（1月5日）开始访华行程的哈蒙德在与王毅共同召开的新闻发布会上说，李波持有英籍护照，英方已要求香港与中国内地当局协助探查李波的下落与处境。</p>
+<p>中方并未证实李波等人正被内地执法人员扣查，但王毅表态称，李波“首先是中国公民”，警告各方切勿就此案件对中方作出“无谓猜测”。</p>
+<p>李波的蔡姓妻子稍早前向香港警方注销其失踪人口报案。她在星期二向香港媒体证实，一封据称为其“报平安传真”的手写信函确实出自李波手笔。</p>
+<p>在李波失踪后，蔡女士表示丈夫曾以广东深圳的电话号码致电回家，这引起家属等怀疑他被中国大陆执法人员越境抓捕。</p>
+<p>行政长官梁振英表态称，根据《基本法》，香港以外执法人员无权在港执法，“内地执法人员如果在香港执法，是不能接受，因为这不符合《基本法》。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit.jpg" rel="attachment wp-att-424007"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit.jpg" alt="一份据称发自李波的传真写道，他利用“自己的方法”到中国内地“协助调查”。" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit.jpg 624w" sizes="(max-width: 575px) 100vw, 575px"></a><p>一份据称发自李波的传真写道，他利用“自己的方法”到中国内地“协助调查”。</p></div>
+<p><strong>中英外交声明</strong></p>
+<p>在哈蒙德发言前，英国外交部发表声明，证实五名失踪者当中包括一名英国公民（British Citizen）。据BBC了解，此人正是李波。</p>
+<p>香港《明报》稍早前报道，最先失踪的书店母公司巨流传媒负责人桂明海，其在英国读书的女儿以李波持有英国护照为由向英国警方报案，英方正在调查。</p>
+<p>哈蒙德在回答BBC记者提问时说：“我在这个下午向王毅外长提到了有关问题，我们寻求获取任何有关信息，无论是香港还是中国当局所掌握的信息。”</p>
+<p>“我们的看法是，《基本法》与《中英联合声明》（所订明的）‘一国两制’制度，意味着要是有人违反香港法律，有关问题必须在香港由香港的司法体系来解决。”</p>
+<p>“正如香港行政长官梁振英提醒我们，这正是‘一国两制’的重要部分。我们希望无论李先生身在何方，要是他被起诉任何罪名，这些罪名的审判会在香港进行。”</p>
+<p>王毅紧接回应说：“我要向你强调的是，中国中央政府对香港的政策没有任何的变化，我们将会继续坚持‘一国两制、港人治港、高度自治’的方针。”</p>
+<p>“你提出的这个个案，我首先要告诉你的是，根据香港《基本法》和《中华人民共和国国籍法》，他首先是中国公民。”</p>
+<p>“在他本人和他的家属，以及特区政府和中央政府还没有作出表态之前，我看各方没有必要做各种各样的无谓的猜测。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit.jpg" rel="attachment wp-att-424006"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit.jpg" alt="160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit.jpg 624w" sizes="(max-width: 575px) 100vw, 575px"></a><p>铜锣湾书店自李波失踪后停业至今。</p></div>
+<p><strong>李波亲笔传真？</strong></p>
+<p>蔡女士此前向BBC证实，李波12月31日晚并未按时回家晚膳。据香港媒体报道，蔡女士于元旦日向警方报案。</p>
+<p>香港警务处星期一晚间透过电邮告知BBC中文网，蔡女士已经销案，但“警方会与报案人保持紧密联系，并继续积极跟进案件”。目前李波与另外三名股东店员的失踪案由港岛总区失踪人口调查组合并调查。</p>
+<p>在蔡女士销案的消息传出后，台湾中央社驻港记者报道，李波透过传真向书店员工报平安，并刊发书店员工提供的传真照片，上面的下款显示日期为1月3日，并有李波签署。</p>
+<p>传真说：“我因急需处理有关问题，不能让外界知道，已采取了自己的方式返回了内地，配合有关方面调查，可能需要一些时间。”</p>
+<p>这封传真要求受函的陈姓店员继续运营书店，并说：“我目前情况很好，一切正常，书店的事麻烦你多费心了。十分感谢！”</p>
+<p>蔡女士星期二下午在寓所外被香港记者追问信函真伪时说：“是真的，那是他的字迹。”</p>
+<p>“我觉得他是自愿的（到中国内地接受调查），所以我取消了报案。”</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna.jpg" rel="attachment wp-att-424008"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna.jpg" alt="这封据称是李波亲笔所写的传真信函下款标明是在1月3日撰写。（台湾中央社图片） " width="485" height="567" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna-257x300.jpg 257w, http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna.jpg 624w" sizes="(max-width: 485px) 100vw, 485px"></a><p>这封据称是李波亲笔所写的传真信函下款标明是在1月3日撰写。（台湾中央社图片）</p></div>
+<p>香港支联会主席，民主党立法会议员何俊仁对BBC中文网说，他认为传真信函是真的，而当中似乎要为“大陆公安越境抓捕”这个指控作出“洗脱”。</p>
+<p>何俊仁说，他认为是拘押李波的人要求他写下这封传真，并要求蔡女士向香港警方销案。</p>
+<p>何俊仁说：“不单是香港的传媒，还有国际的传媒都非常关注这事情，所以，我觉得，对这次这样处理这件事情的一些中央的，或者是地方的官员产生了很大的政治压力。”</p>
+<p>属亲北京阵营的亲民党立法会议员兼特区政府行政会议成员叶刘淑仪稍早前对BBC中文网说，她认为李波案有很多疑点，例如李波要是在接受调查状态下，为何之前能致电回家。</p>
+<p>叶刘淑仪说：“手机显示内地电话号码不一定等于这个人在内地。现在很多电话卡都有两个号码……也有电话骗案，有人拿着内地的电话打来，原来是在印尼的。”</p>
+<p><strong>偷渡离港？</strong></p>
+<p>李波的传真声明传出后，港府保安事务官员被媒体记者追问这是否意味着香港边防存有缺失。</p>
+<p>此前，港府证实并无李波的出境记录；蔡女士向香港媒体证实，李波的回乡证仍在家中，而中国边防在一般情况下，只接受中国籍香港居民使用回乡证入境大陆。</p>
+<p>署理保安局局长李家超星期二确认，香港警方已经向中国大陆执法机关要求协助，但他不能公开调查细节，“因为公开后可能会影响调查进度及结果”。</p>
+<p>“至于有报道指失踪人士是用甚么方法到达他现时（所在）的地点，这些警方一定会调查。调查时亦会看看有没有证据涉及一些事情，法律上是否容许。基于证据，按香港法例处理。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit.jpg" rel="attachment wp-att-424010"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit.jpg" alt="李家超称应给予时间让香港警方调查。 " width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit.jpg 624w" sizes="(max-width: 575px) 100vw, 575px"></a><p>李家超称应给予时间让香港警方调查。</p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E4%B8%AD%E8%8B%B1%E5%B1%95%E5%BC%80%E5%A4%96%E4%BA%A4%E4%BA%A4%E9%94%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%A2%83%E6%89%A7%E6%B3%95/?category=18271" rel="tag">越境执法</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E6%9E%84%E5%AE%B6%E5%9B%BD-%E4%BB%8E%E6%96%B0%E8%AF%8D%E8%B5%B5%E5%9B%BD%E8%B0%88%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%9A%84%E5%BD%BB%E5%BA%95/" target="cdt-mirror">西域雪番：解构家国——从新词“赵国”谈爱国主义的彻底破产</a>
 </h2>
 <p><p>1）</p>
@@ -714,30 +761,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%8D%B1%E9%99%A9%E4%BA%86/" target="cdt-mirror">东网｜南桥：香港危险了</a>
-</h2>
-<p><p>据香港多家媒体报道，铜锣湾书店一名股东李波在岁末突然失踪。据李波妻子报案称，出事当日有人致电该公司表示要买十多本书，李波被骗到位于柴湾的货仓而中伏。几小时后，李太接到丈夫疑从深圳打来的电话，透露“正协助调查”，并表示“不要搞大”事件。这个电话所用的“协助调查”和“不要搞大”的说法，显示出此事背后中国公安操作的标记。这些说法是典型的中国大陆公安的用词。中国公安在“请喝茶”、黑头套、强迫旅游等措施的时候，通常会使用这样的语言，这类说法即使是香港的黑社会也不会用的。</p>
-<p>在此之前，以专门经营大陆禁书而小有名气的铜锣湾书店，已经有四名股东和工作人员先后在泰国和中国内地失踪，至今不知下落。李波是在香港的地界失踪，事后给家人的电话却疑是从深圳打来。他是怎么从香港去了深圳的呢？</p>
-<p>我认为，这是一个非常令人不安的事件。香港危险了。</p>
-<p>香港立法会议员涂谨申指出，事件的关键在于这些人是否自愿离开香港。他还指出，李波失踪后的“报平安”电话，说明制造事件者刻意营造失踪者是自愿前往内地“协助调查”，给人以没有失去自由的假象。在中国内地，公安是用不着这最后一步的，长久不通知家属的失踪事件有的是，但是香港不同，香港人在香港地面上失踪，司法部门照规矩是必须介入的。</p>
-<p>香港和内地，实行一国两制，而最大的不同，保证“两制”能持续下去的关键，是香港实行与内地不同的司法制度。香港是实行英国人留下的普通法体系的，其关键性的核心是历史悠久的“人身保护令”，任何人在任何有可能失去人身自由的情况下，第一件事是法庭过堂，有独立的中立的法官来决定此人被拘押被限制自由是否合法，是否必要。也就是说，香港人在香港地面上，太太平平的是不会无缘无故突然被警察弄去“协助调查”的。在我看来，这是做一个香港人和做一个大陆人最大的区别。可是这一次，铜锣湾书店的股东李波却在香港地面上突然疑去深圳“协助调查”了。这令人怀疑，香港人所拥有的司法保护在消融。这种消融一旦开了一个头，会发展到什么程度，谁也说不上。这种事件不阻止，香港的司法体系就会逐渐变质。一旦香港的司法内地化，香港就不再是香港了。</p>
-<p>当年邓小平承诺，香港回归后“马照跑，舞照跳，股照炒”，那么香港人有没有拒绝中国公安而“不协助调查”的权利呢？照理说，应该是有的，香港人在香港，应该享有免于恐惧的自由，应该不受大陆公安的影响。然而，铜锣湾书店至今竟有五人失踪，股东李波是在香港的地面上失踪。香港警方称李波“身体智力正常，有手有脚，有出境自由”，对他的失踪只暂时备案，对案件列为失踪人士由失踪人口调查组跟进。其实香港警方寻找这个失踪人口应该找大陆公安，让大陆公安表态，人是不是在你们手里，你们不可以在香港地面上把一个香港人弄到你们手里的。</p>
-<p>这一切，没有按香港法律体系的程序发生，连傻子都看得出，大陆公安在行动。</p>
-<p>事实上，按照大陆的政治性格，大陆公安是不会放过香港的，问题只是在什么时候他们能够做些什么。香港是全世界都知道的一个自由的地方，有时候大陆公安只能忍耐，不可以像在内地一样为所欲为，但是，大陆公安记仇，他们不会永远忍耐。只要香港的司法制度不阻挡他们，他们总有一天要在香港为所欲为的。</p>
-<p>九七回归后，香港似乎一切太平。我记得曾经在香港的一个大学里短期访问，经常遇到大陆来的学者，还经常遇到大陆来的身份不明的年轻人。这类年轻人穿着讲究但是有雷同的风格，出入低调但是很显眼，因为只有他们在早餐的时候用小调羹喝咖啡而且喝出声响来。所有看到他们的人都明白，这些人是来公干的，但是谁也不打听他们到香港的大学来是来干什么的，大家都不由自主地对他们敬而远之。</p>
-<p>那时候我就在想，他们最起码是来了解情况的，他们需要知道他们想知道的事情，香港没有什么事情他们不想知道的，不知道他们不放心不甘心。以后呢，以后他们会干什么？</p>
-<p>十几年后，我们看到了这个“以后”，香港人李波和他的四个同事失踪，疑“自愿”地去了“协助调查”，还要家属“不要搞大”，而香港的警方和司法体系，却至今无所作为，而且看上去不想有所作为，不敢有所作为。</p>
-<p>香港的自由，还保得住吗？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 翻翻更健康 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%8D%97%E6%A1%A5%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%8D%B1%E9%99%A9%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -749,7 +772,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -759,5 +782,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B5%B5%E5%A4%AA%E7%88%B7%E9%98%BFq%E4%BC%9A%E8%B0%88%E8%AE%B0%E8%A6%81/" target="cdt-mirror">【习总日记】 赵太爷阿Q会谈记要</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，1，6）</p>
+<p>最近听说民众纠纷不断，起因是赵太爷不许阿Q姓赵。便吩咐秘书去未庄一趟，让赵太爷找阿Q谈谈，搞好两造关系。正值多事之冬，流年不利，地方上少惹事生非。</p>
+<p>以下是赵太爷奉我大大之命找阿Q会谈记录摘要。</p>
+<p>阿Q听说赵太爷找他谈话，心想妈妈的又要出啥幺蛾子。不去。赵太爷一直等到点灯时分仍没见人影，不得不亲自去阿家登门拜访。</p>
+<p>听是赵太爷的声音，阿Q开门侧身让进屋里沏茶倒水。经过改革开放，阿Q毕竟不是先前的阿Q了。</p>
+<p>赵：“阿Q啊，我奉习总之命前来登门向你道歉，为以前不许你姓赵一事，表示由衷的歉意。”</p>
+<p>阿：“赵太爷，那是什么年代的事了，我早已忘得一干二净。不过既然你提起，不妨告诉你。经过多年打听，现已查明，我的确不姓赵。所以，你当年说我不配姓赵，还真让你说对了。”</p>
+<p>赵：“阿Q啊，你这么说更让我深感惭愧，简直无地自容。”</p>
+<p>阿：“不、不、不。真的，不是气话。”</p>
+<p>见赵太爷狐疑的神情，阿Q转身去拿了身份证递给赵太爷。</p>
+<p>赵太爷看仔细后，惊得张大了嘴巴：“阿Q，你，你，你姓习？”</p>
+<p>阿Q的身份证上写着他的姓名：习贵平。</p>
+<p>阿Q微笑着收好了身份证，翘起二郎腿一言不发望着赵太爷。铮亮的皮鞋闪着耀眼的光芒。</p>
+<p>赵太爷一阵头晕目眩差点血管爆裂。</p>
+<p>尴尬了好一阵子，赵太爷勉强挤出笑脸：“阿，哦，习，习先生。请恕赵某人无知，早年得罪了习先生，还请习先生大人不计小人过，高抬贵手，饶恕小人则个。”</p>
+<p>习：“赵太爷，你刚进来我就说了，第一我不姓赵，第二你说的并无过错。我的确不配姓赵。”</p>
+<p>赵太爷此刻犯起阿Q当年的毛病，膝关节自然而然宽松，扑通一声跪倒在习先生脚下，“咚-咚-咚-”磕了三个响头。</p>
+<p>我抬手示意秘书别再继续说下去：“你有没有查查阿Q身份证的真假？”</p>
+<p>秘书回答：“查了。真的假的。”</p>
+<p>我不解：“什么真的假的，到底是真的还是假的？”</p>
+<p>秘书慌忙道：“身份证是真的，名字是假的。是他买通了当地公安局办的真的身份证。”</p>
+<p>我当机立断作出重要指示：“赶紧找到赵太爷，严格保守秘密不许对任何人吐露半句会谈内容。另外通知阿Q，什么都可以姓，就是不准姓习。”</p>
+<p>秘书等着我进一步指示。</p>
+<p>我作进一步指示：“让阿Q姓赵。他不是曾经说他姓赵么。”</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B5%B5%E5%A4%AA%E7%88%B7%E9%98%BFq%E4%BC%9A%E8%B0%88%E8%AE%B0%E8%A6%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6%E3%80%81%E4%B9%A0%E5%A4%B6%E7%AD%89%E7%83%AD%E7%82%B9-2016-1-5/" target="cdt-mirror">【敏感词库】“赵王回车”、“赵家人”等热点 2016-1-5</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u.jpg" rel="attachment wp-att-424059"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u.jpg" alt="赵国送朝" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><em>图片来源：新浪微博@萬钟於我何加焉</em></span></p>
+<p>［新浪微博搜索禁词测试时间：2016年1月5日］</p>
+<p><strong>赵家人</strong>（<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">相关专题</a>）</p>
+<p><strong>赵王回车</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/12/423275/">军报详解习近平键盘发微博：自主研发平台 </a>&<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">【网络民议】请按那个橙色键</a> ）<br><strong> 习夶</strong>（即“习大大”；“夶”：bǐ ）<br><strong> 刁＋大</strong><br><strong> 习＋矛盾信号</strong></p>
+<p><strong>三里屯＋恐怖袭击</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/12/422714/">【立此存照】美帝“又”给中国人扣屎盆子了</a> ）<br><strong> 圣诞＋恐怖袭击</strong></p>
+<p><strong> 局域网大会</strong>（指<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/">乌镇互联网大会</a>）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%AE%B6%E4%BA%BA.png" rel="attachment wp-att-424054"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%AE%B6%E4%BA%BA.png" alt="赵家人" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵家人-300x126.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家人-768x323.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家人-1024x430.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家人.png 1190w" sizes="(max-width: 1190px) 100vw, 1190px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6.png" rel="attachment wp-att-424040"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6.png" alt="赵王回车" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车-300x126.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车-768x324.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车-1024x432.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车.png 1193w" sizes="(max-width: 1193px) 100vw, 1193px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%E5%A4%B6.png" rel="attachment wp-att-424035"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%E5%A4%B6.png" alt="习夶" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习夶-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习夶-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习夶-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/习夶.png 1195w" sizes="(max-width: 1195px) 100vw, 1195px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E7%9F%9B%E7%9B%BE%E4%BF%A1%E5%8F%B7.png" rel="attachment wp-att-424034"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E7%9F%9B%E7%9B%BE%E4%BF%A1%E5%8F%B7.png" alt="习 矛盾信号" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号-300x127.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号-768x324.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号-1024x432.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号.png 1192w" sizes="(max-width: 1192px) 100vw, 1192px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%81-%E5%A4%A7.png" rel="attachment wp-att-424037"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%81-%E5%A4%A7.png" alt="刁 大" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/刁-大-300x128.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/刁-大-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/刁-大-1024x438.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/刁-大.png 1184w" sizes="(max-width: 1184px) 100vw, 1184px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E9%87%8C%E5%B1%AF-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" rel="attachment wp-att-424033"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E9%87%8C%E5%B1%AF-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" alt="三里屯 恐怖袭击" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击.png 1193w" sizes="(max-width: 1193px) 100vw, 1193px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9C%A3%E8%AF%9E-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" rel="attachment wp-att-424038"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9C%A3%E8%AF%9E-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" alt="圣诞 恐怖袭击" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击-300x128.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击-1024x438.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击.png 1189w" sizes="(max-width: 1189px) 100vw, 1189px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%A4%A7%E4%BC%9A.png" rel="attachment wp-att-424039"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%A4%A7%E4%BC%9A.png" alt="局域网大会" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会-300x127.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会-768x326.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会-1024x435.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会.png 1189w" sizes="(max-width: 1189px) 100vw, 1189px"></a></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6%E3%80%81%E4%B9%A0%E5%A4%B6%E7%AD%89%E7%83%AD%E7%82%B9-2016-1-5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6/?category=18271" rel="tag">赵王回车</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E4%B8%AD%E8%8B%B1%E5%B1%95%E5%BC%80%E5%A4%96%E4%BA%A4%E4%BA%A4%E9%94%8B/" target="cdt-mirror">BBC｜香港铜锣湾书店案：中英展开外交交锋</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg" rel="attachment wp-att-424009"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg" alt="160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg 660w" sizes="(max-width: 575px) 100vw, 575px"></a><p>香港铜锣湾书店五名股东、店员中最新失踪的李波确为英国公民，英国外相哈蒙德在北京与中国外长王毅展开外交角力。</p></div>
@@ -687,80 +740,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E9%AB%98%E5%8E%8B%E4%B8%8B%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%9A%E6%81%90%E6%83%A7%E5%92%8C%E6%84%A4%E6%80%92%E5%9C%A8%E6%B2%B8/" target="cdt-mirror">纽约时报中文网 | 高压下的新疆：恐惧和愤怒在沸腾</a>
-</h2>
-<p><p>作者：杰安迪</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-%E4%B8%8B%E5%8D%885.51.40.png" alt="Screen Shot 2016-01-03 at 下午5.51.40" width="550" height="356" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午5.51.40-300x194.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午5.51.40.png 593w" sizes="(max-width: 550px) 100vw, 550px"><br><span>在新疆喀什葛尔举行的一个传统婚礼。 ADAM DEAN FOR THE NEW YORK TIMES</span></p>
-<p>中国喀什——家庭因一批又一批的拘留而支离破碎。清真寺被禁止用广播唤拜。对劳动力流动性的限制已给当地农业造成严重损害。为防止对公共安全的可能威胁，用一系列比以往更令人讨厌的方法监视公民通信。</p>
-<p>最近在中国遥远的西部新疆地区的一次10天旅行揭示了一个充满愤怒和恐慌的社会，政府由于受到一场已导致数百人丧生的缓慢演化叛乱的震惊，在不断推出各种前所未有的措施，旨在影响中国1000万维吾尔人的行为和信仰，维族是一个讲一种突厥语系语言的穆斯林少数民族，他们认为新疆是自己的家园。</p>
-<p>政府认为，更严格的安全措施以及对伊斯兰教的更严密的限制，是阻止一起又一起暴力的最好方法，这些暴力包括去年9月在一个煤矿发生的导致数十人死亡的持刀行凶事件，这种观念在推动着政府的政策。</p>
-<p>这些严格的安全措施一览无遗地暴露在在这片粗圹无垠的沙漠和雪山地区缓慢旅行的人，因为他们经常要在公路边无处不有的检查站停下来。</p>
-<p>全副武装的士兵在检查站翻查过往车的后备箱，检查人们的身份证，维吾尔族驾驶员和乘客有时会被要求交出手机，以便警察在手机上搜索被他们视为对公众安全构成威胁的内容或软件。</p>
-<p>除了宣传圣战的视频之外，警方还查找Skype和WhatsApp等应用软件，人们用这些颇受欢迎的软件与国外的亲友交流，再就是让用户能访问被屏蔽网站的软件。</p>
-<p>“我们所有的人都变成了恐爆嫌疑人，”一名23岁的维吾尔族工程专业学生说，他说，去年11月，警方找到了他与一位在土耳其的朋友通的短信后，他被拘留过一夜。“这些天来，甚至接听海外打来的电话就一定能让国家安全部门的人找上门来。”</p>
-<p>喀什离中国与巴基斯坦和阿富汗的边境不远，是传说中的丝绸之路前哨，这里的官员已经禁止清真寺用广播唤拜，迫使宣礼员们站在城市各个地方的屋顶上，一天5次地用大喊发布祈祷通知。这项新规定是对一个长期政策的补充，该政策已经禁止课后宗教班，也禁止18岁以下的儿童进入清真寺。（最近几个月在清真寺门口安装的监督摄像头让人们难以忽视这些规定。）</p>
-<p>在喀什的东南部，和田市的店主们对政府取缔二十几名字的做法怒不可言，政府认为这些名字过于穆斯林，据当地居民和警察说，该决定迫使父母给孩子改名，否则无法让孩子注册上学。</p>
-<p>在北边以葡萄闻名的肥沃绿洲吐鲁番，葡萄园主们对禁止维吾尔族农民工来这里帮助摘葡萄的新限制怨声载道，新限制让成吨的葡萄枯萎在藤上。</p>
-<p>在更远的北边是离哈萨克边境不远的多民族城市伊宁(Ghulja)，这里的<a href="http://www.nytimes.com/1997/02/28/world/in-china-s-far-west-tensions-with-ethnic-muslims-boil-over-in-riots-and-bombings.html" target="_blank" rel="nofollow">紧张气氛已有一段时间</a>了，这里的两名失业大学毕业生对局严格禁止年轻男子留胡子、禁止妇女用面纱遮脸十分恼火。居民说，无视这些规定的人有时会受到监禁。</p>
-<p>“我、我本人并不信教，但是，迫使我们的妇女摘头巾是对她们尊严的侮辱，这让许多人很气氛，”两名毕业生之一说，他和其他接受采访的人一样，要求不具名，因为他们害怕受到当局的惩罚。</p>
-<p>其他的措施给人们的普遍印象是维吾尔族的身份认同受到困扰。学校已大都改用普通话作为主要的教学语言，而不再用维吾尔语，政府也开始用提供现金和住房补贴的方法，来鼓励维吾尔族和汉族之间的通婚，汉族占中国人口的大多数，已有大批汉族人迁入新疆。</p>
-<p>监视也在加强。自2014年起，想到自己家乡以外的地方旅行的维族人被要求携带一张专用卡，上面列着持卡人房东和当地派出所的电话号码。许多维族人抱怨说，这些所谓的“便民联系卡”是为了把他们挑出来进行严格检查。</p>
-<p>“政府渗透维吾尔族社会的能力已变得越来越五花八门、越来越令人讨厌，”詹姆斯·莱博尔德(James Leibold)说，他是在澳大利亚墨尔本的筹伯大学(La Trobe University)研究中国民族政治的专家。“然而，虽然这些新措施能让共产党把很多问题掐死在萌芽状态，但是，这些措施也导致新形式的格格不入和暴力，并最终会削弱党的合法性和执政能力。”</p>
-<p><span>杰安迪(Andrew Jacobs)是《纽约时报》记者。</span></p>
-<p><span>翻译：Cindy Hao</span></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E9%AB%98%E5%8E%8B%E4%B8%8B%E7%9A%84%E6%96%B0%E7%96%86%EF%BC%9A%E6%81%90%E6%83%A7%E5%92%8C%E6%84%A4%E6%80%92%E5%9C%A8%E6%B2%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F/?category=18271" rel="tag">维族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E9%97%AE%E9%A2%98/?category=18271" rel="tag">新疆问题</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E6%A0%B7%E5%AE%9A%E4%B9%89%E8%B5%B5%E5%AE%B6%E4%BA%BA%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%AF%8D%E6%9D%A5%E8%87%AA%E4%BA%8E/" target="cdt-mirror">【网络民议】怎样定义“赵家人”，这个词来自于哪里？</a>
-</h2>
-<p><p><strong>知乎：怎样定义“赵家人”，这个词来自于哪里？最近在一些论坛里经常看到“赵家人”“姓赵”“精赵”这种说法，为什么纠结于“赵”这个姓呢？这都是怎么来的？</strong></p>
-<p>知乎用户，求开喷人不掉友善度的PVP区： （寒羽狼、罗也也、知乎用户等人赞同）</p>
-<p>简而言之：“赵家人”是既得利益者，实际掌权者的意思，“精赵”，即精神赵家人，自认为能在执政集团的强势下能沾光的人。尤其用于嘲讽那些兴奋于军力强盛，望着国旗顶风流泪那种人。</p>
-<p>自从“自干五”连带着“五毛”在官方语境影响下，从贬义成为中性乃至褒义后，“你也配姓赵？”是一个语言上的反击。</p>
-<p>《阿Q正传》</p>
-<blockquote><p>我并不知道阿Q姓什么。</p>
-<p>有一回，他似乎是姓赵，但第二日便模糊了。</p>
-<p>那是<b>赵太爷的儿子进了秀才的时候，锣声镗镗的报到村里来，阿Q正喝了两碗黄酒，便手舞足蹈的说，这于他也很光采，因为他和赵太爷原来是本家，细细的排起来他还比秀才长三辈呢。</b>其时几个旁听人倒也肃然的有些起敬了。那知道第二天，地保便叫阿Q到赵太爷家里去；太爷一见，满脸溅朱，喝道：</p>
-<p>“阿Q，你这浑小子！你说我是你的本家么？”</p>
-<p>阿Q不开口。</p>
-<p>赵太爷愈看愈生气了，抢进几步说：</p>
-<p><b>“你敢胡说！我怎么会有你这样的本家？你姓赵么？”</b></p>
-<p>阿Q不开口，想往后退了；赵太爷跳过去，给了他一个嘴巴。</p>
-<p><b>“你怎么会姓赵！——你那里配姓赵！”</b></p>
-<p>阿Q并没有抗辩他确凿姓赵，只用手摸着左颊，和地保退出去了；外面又被地保训斥了一番，谢了地保二百文酒钱。知道的人都说阿Q太荒唐，自己去招打；他大约未必姓赵，即使真姓赵，有赵太爷在这里，也不该如此胡说的。此后便再没有人提起他的氏族来，所以我终于不知道阿Q究竟什么姓。</p></blockquote>
-<p><strong>以下网民评论由数字时代编辑搜集整理自知乎网站和新浪微博：</strong></p>
-<p>Wood Wu：“你也配姓趙”實際上是一個複雜的表達，包含了一套完整的邏輯。《阿Q正傳》中的趙太爺是村中有權有勢的大人物，與趙太爺同姓意味著“與有榮焉”，也就是可以分享趙太爺的權勢。然而趙太爺并不承認阿Q姓趙，也不願分享權勢。擴大地審視這個現象，可以認爲這是統治階級内部的一種相互認同的方式。然而這種認同方式并不與非統治階級共享——即使你真的也姓趙，人家不承認也沒有意義。在此邏輯下，聯係社會現實，“姓趙”可以用來指當今社會中由當權者、紅二代、紅三代、紅色資本家等分享權財的裙帶關係者所組成的統治階級，而“你也配姓趙”則多用於諷刺“自帶乾糧的五毛黨”——也就是作爲被統治者，明明處於無法分享利益的立場，卻被統治者欺騙而爲統治者説話的人。</p>
-<p>zcpey：起因是：微博用户 @穆好古 问四川团省委某喽啰对自干五现象怎么看。团省委喽啰回答的大致意思是：“你也配姓赵”。</p>
-<p>凌叫兽：知名自干五候聚森被体制内人士人肉就是对“你也配姓赵”最完美的诠释。</p>
-<p><a title="任我盈-看见" href="http://weibo.com/u/1706376625" target="_blank">任我盈-看见 </a>：<span>赵家人</span>：其原型是鲁迅先生笔下的赵庄赵太爷，象征上层阶级，现实中泛指高级官僚、富豪、体制内干部以及家属子女等。“精神赵家人”，部分意义上就是鲁迅先生笔下的阿Q，象征那些明明身处被压迫的局面却仍旧支持或顺从于压迫者的人。</p>
-<p><a title="侯虹斌" href="http://weibo.com/u/1658717970" target="_blank">侯虹斌</a>：发明“赵家”这个词的鲁迅好牛。凡是在想不明白的“国家”二字的地方，换上“赵家”，立即简明清晰。</p>
-<p><a title="荣剑2001" href="http://weibo.com/u/5459181838" target="_blank">荣剑2001</a>：除旧迎新之际，<span>赵家人</span>突然火了，都在问谁是“赵家人”？近百年前，有人在《湘江评论》创刊词中宣布：天下者，我们的天下；国家者，我们的国家；社会者，我们的社会；我们不说，谁说？我们不干，谁干？后来拿下天下，国家社会均归其所有。文革时有人再提此宣言，五十年后终于有了答案：天下原是赵家的。</p>
-<p><a title="无节操评论" href="http://weibo.com/u/2206185595">无节操评论</a>：能代表人民的仅剩五毛了！！！<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%94%E6%AF%9B.jpg" alt="五毛" width="421" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/五毛-300x284.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/五毛.jpg 421w" sizes="(max-width: 421px) 100vw, 421px"></p>
-<p><a href="http://weibo.com/u/1272610553">游向库页岛的大马哈鱼</a>：中国另一别称，赵国。“赵家人”是既得利益者实际掌权者意思。赵家人定位：省部级官员、将军级军官及其家属、附庸。“精赵”，即精神赵家人，自认为能在执政集团的强势下能沾光的人。尤其用于嘲讽那些兴奋于军力强盛，望着国旗顶风流泪那种人。源《阿Q正传》“你也配姓赵？”</p>
-<p><a title="田青伟的微博" href="http://weibo.com/u/2189358933" target="_blank">田青伟的微博</a>：有一帮人，真把自己当成“<span>赵家人</span>”了，连某党还没怎么着呢，这帮人就开始动辄那有敌对势力这有推墙势力，死活就是不尊重基本事实。有根有据的批评都不容，把群众推到对立面，把坚持实事求是坚持法治思维的推到对立面，境界与度量如此之低，这简直比某党还会自掘坟墓。</p>
-<p><a href="http://weibo.com/n/%E5%8D%8E%E4%B8%96%E9%BE%9995" target="_blank">华世龙95</a>: 赵家奴才不姓赵，但是自己总认为，这块长了毛的狗肉能贴到赵家这只红毛驴身上！赵家家财万贯，可以给万里之外的张三，或千里之外的李四！但是绝不会给自家的穷亲眷！偶而扔5个铜板给自认为是赵家人的人，殊不知到，赵家根本就没拿你当自家人，好不容易闻了一下赵家的屁！跑过来对我们说:香。</p>
-<p><a title="scarlett冰与火" href="http://weibo.com/u/3875416044" target="_blank">scarlett冰与火</a>：其实姓赵的<span>赵家人</span>并不可怕，因为不可能多，可怕的是精赵人越来越多。</p>
-<p><a title="六股河的风" href="http://weibo.com/u/2073536807" target="_blank">六股河的风 </a>：【<span>赵家人</span>】“赵家”是网民2015年的智慧结晶。以前说官商、权贵、二代等都不准确，只有当朝“核心圈”里的官商、权贵、二代等才算得上“赵家人”。 据考证，这一词汇来源于阿Q正传赵老爷骂阿Q：你也配姓赵！由此引申而来。 首先提出“赵家人”网友，可获普利策大奖。</p>
-<p><a title="明月还如李白时" href="http://weibo.com/u/2240517075" target="_blank">明月还如李白时</a>：转：“人民”难理解？只要换为“赵家”二字，便清晰了。”赵家政府”、“赵家公仆”、“赵家警察”、“赵家法院”、“为赵家服务”、“赵家教师”、“赵家日报”，“严重伤害了中国<span>赵家人</span>的感情”、“金正日、卡扎菲、穆加贝是中国赵家人的老朋友。”“一切权力属于赵家。”</p>
-<p><a title="蝌蚪往人" href="http://weibo.com/kdwr" target="_blank">蝌蚪往人</a>：<span>赵家人</span>现在的意思很明显，闷声发大财，以中华之物力，结与国之欢心，境内十四亿人肉电池呢。第一要务就是维稳。现在超市老板赔了85万这个说法流传这么广，就是因为大家都不傻，都懂这个逻辑。只要你耽误了赵国的稳定，赵国肯定喂你药丸。别提良民了，兔杂五毛什么蹦得高了，也要喂药丸，一视同仁。</p>
-<p><a title="文舟宁" href="http://weibo.com/beibeibear" target="_blank">文舟宁</a>：【<span>赵家人</span>歌】因为我们是赵家人，相亲相爱的赵家人，有权才能相聚，有钱才会珍惜，何不让满天乌云遮住眼睛。因为我们是赵家人，相亲相爱的赵家人，有福就该同享，有难必不同当，这样才能寿与天享，福比天长。</p>
-<p><a title="漫漫丁" href="http://weibo.com/manmanding" target="_blank">漫漫丁</a>：茅老先生尊重经济上的不平等，但提倡人格地位上的平等。我非常赞同。经济上的不平等是自由市场竞争出来的结果，可以通过政府税收和NGO慈善再次分配来进行适当纠正。我们赵国为什么不这么做呢？原来<span>赵家人</span>还是为了追求特权好发横财。所谓中国特色的社会主义就是他们的幌子。按说他们够富了，但还是贪。</p>
-<p><a title="等候9路" href="http://weibo.com/yuzechen" target="_blank">等候9路</a>：散户听K线图的，K线图听庄家的，庄家听财阀的，财阀又听“<span>赵家人</span>”的。炒股的最后被股炒是必然的 。</p>
-<p><a title="演员朱铁" href="http://weibo.com/zhutie" target="_blank">演员朱铁</a>：“<span>赵家人</span>”其原型是鲁迅先生笔下的赵庄赵太爷，象征上层阶级，现实中泛指高级官僚、富豪、体制内干部以及家属子女等。将“人民”换成“赵家人”即可理解，赵家人政府，赵家人日报，赵家人广播电台<img title="[黑线]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/91/h_org.gif" alt="[黑线]"> “赵家人”一词火爆于《细思极恐的万科宝能之争：门口野蛮人，背后赵家人》“呸，你也配姓赵！”</p>
-<p><a title="万水千山犹在" href="http://weibo.com/u/5760850084" target="_blank">万水千山犹在</a>：好同学小明改名叫<a href="http://weibo.com/n/%E8%B6%99%E5%AE%B6%E4%BA%BA%E5%BA%95%E7%B7%9A%E6%B2%92" target="_blank">@<span>趙</span><span>家人</span>底線沒</a> 了，他的口头禅就是：“赵家模式”，俺不信！<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61.jpg" alt="006hRWgQgw1ezmkxafjc7j30cu0hiq61" width="440" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2016/01/006hRWgQgw1ezmkxafjc7j30cu0hiq61.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E6%A0%B7%E5%AE%9A%E4%B9%89%E8%B5%B5%E5%AE%B6%E4%BA%BA%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%AF%8D%E6%9D%A5%E8%87%AA%E4%BA%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -772,7 +751,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -782,5 +761,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

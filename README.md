@@ -21,9 +21,74 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E5%A5%B3%E7%94%9F%E5%B0%B1%E4%B8%9A-%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F/" target="cdt-mirror">人民日报 | 女生就业 为啥这么难？</a>
+</h2>
+<p><p><strong>今天，我们先把目光聚焦在女毕业生群体，听听她们的故事。</strong></p>
+<p>“现在放开二孩政策了，以后哪个单位还要女生啊？”</p>
+<p>“现在放开二孩政策了，以后哪个单位还要女生啊？”听到屋内两名大夫在讨论“全面放开二孩政策”，小陈的心里咯噔一声，心想这次求职也许又会败在“临门一脚”。</p>
+<p>来自西南某省的小陈，2012年考入上海某知名大学土木工程专业，今年大四，正奋斗在求职路上。前几日她应聘某单位，过五关斩六将进入了最终环节——体检，可是当录用名单出来时，小陈还是“榜上无名”。“被录用的几名同学我基本都认识，都很优秀，也都是男生。”回忆起前几日收到的应聘结果，这个爽朗的姑娘难掩失落，“我一开始以为是自己身体指标不合格，还专门去别的医院复查了，都说没有任何问题。也许真的是男生与这个岗位的匹配度更高吧。”</p>
+<p>小陈现在收到了5份不错的录用通知，其中有一家单位明确告诉她，录用小陈是因为单位女性太少。这个理由让小陈哭笑不得，“这样的工作机会，来得让我感觉很挫败。”</p>
+<p>“这次参加体检，无意间听到大夫这样说，心里真的很紧张，担心上一次应聘的‘悲剧’再次上演。”小陈说，“说实话，我也承认‘全面放开二孩’政策会对女生的职业选择产生较大影响，可是每一个个体都不一样啊。比如说我，可能还是只会想要一个孩子，对工作的影响也没有那么大。现在在应聘中，我和我的女同学们感觉一进面试现场，自己就被归类了，而相反，‘男生’两个字自带光环。”</p>
+<p>在面试中，小陈遇到过不下3次直接关于预期生产年龄、家庭事业冲突等问题。“有一次，面试官问我准备几年后要孩子，从面试官的语气中我明显感觉到那种刻意的挑剔。我实在没忍住，说了句‘首先，我得先有一个男朋友吧。’意外的是，那次面试我居然进终面了。也许用人单位就是想确认我短期内不会要孩子吧。”说到这里，小陈顿了顿，苦笑着端起手中的水杯。</p>
+<p>“女性的生育能力在社会发展层面来说，原本是一项重要贡献，为什么变成了自身发展的束缚和被‘歧视’的理由呢？要是到时候大家都选择少生或者不生，是不是才能倒逼社会真的重视呢？”小陈拿出手机里保存的“二孩政策”漫画图，打趣道。</p>
+<p>“女性不仅需要承担生育代价，也被赋予更多家庭责任”</p>
+<p>来自北京某高校的小君是传播学专业的硕士研究生，在北京上学6年了。说起在求职过程中女生受到的歧视，这个开朗的天津姑娘一下子滔滔不绝起来。</p>
+<p>“在许多国企，尤其是银行的招聘中，我们班的大多数男生都可以通过简历筛选，而女生往往只有一两个通过。但除了性别这一点区别，并不是所有通过的男生都强于女生，有些女生无论是成绩、实习经历、学生工作等都很优秀，但很难通过简历关。”</p>
+<p>小君说，她在应聘过程中遇到过几次明确标明倾向于选择男生的现象，而且不少是体制内单位，如一些国企、出版社、事业单位等。例如“岗位需要经常加班，男生更为合适”“岗位更适合男生应聘”等。</p>
+<p>“我觉得一些国企和体制内单位应当承担更多的社会责任，树立正确的风向标。但在求职过程中，它们反而让我和我的同学更明显地感受到是‘性别歧视’的单位。”小君坦言，体制内单位的选择标准给她和她的同学们造成了很大的求职压力。</p>
+<p>是什么原因造成了这种男女生求职不平等现象？</p>
+<p>小君认为，女性不仅在生理上需要承担生育带来的一些外部代价，同时也被赋予了更多的照顾家庭的责任。在女性必须承担家庭方面的社会压力的同时，实际上男性也被这种社会文化逼到了角落——必须奋斗不止、事业有成，哪怕现在已经有许多人认为重视家庭、性格温和的男性更值得认可，但这基本上也是要建立在“小有所成”的基础上的。“这是一个恶性循环。”小君直言，现在很多用人单位作出的选择，跟社会大环境有着密切的联系。</p>
+<p>谈起在招聘过程中用人单位主要考虑的产假和哺乳假，小君认为，现在只针对女性的产假和哺乳假政策本身即是一种隐性歧视，“政策方面，产假、哺乳假等政策在保障了权益的同时也实际上将女性聚焦在歧视的中心，企业的确有理由更少地雇佣需要更多假期的员工。”</p>
+<p>“有一次一个面试官问我对‘性别歧视’怎么看，我很紧张，但我还是坦诚地回答，在社会层面我承认男女不平等的存在，并愿意以平和的心态正视它；但在个人层面，我希望我个人不受这种观念的影响。”说完，小君的电话响起，恰是一家单位的面试通知。</p>
+<p>“传统偏见才是真正束缚我们的枷锁”</p>
+<p>“‘会喝酒，会开车吗？’室友咬咬牙回答‘会。’‘可能这个岗位还是更适合男生。’”小北略显无奈地讲起室友前几天在求职现场与面试官的一组对话。在对面试官提出的质疑都予以肯定正面的回答后，小北的室友还是没能得到她的理想岗位。</p>
+<p>小北是北京某高校文科院系的大四学生，是学校登山社团的骨干，作风干练。在求职过程中，她先后向互联网、咨询、金融、广告公关等行业的20余家单位投递过简历，共收到5次左右面试通知。“比例不算高，但我们同级一个男生投递简历命中率百分之百。坦率地说，最开始我会有一些失望，后来也慢慢能够接受了。”</p>
+<p>“我觉得就我自身而言，作为女生在求职过程中受到的‘区别对待’主要体现在简历筛选环节，进入面试后，我很少遇到直接对性别相关问题直接发问的。”小北理了理自己的冲锋衣，开玩笑般地说道，“可能是我自带‘女汉子’气场吧。”</p>
+<p>小北说，只有一次在面试中，她被礼貌地询问作为女生是否能适应该岗位的高强度工作，“面试官提到过做这一行可能比较辛苦，压力比较大，加班较多，问我作为女生是否能够胜任，但在我明确表示自己本身热爱该行业且吃苦耐劳以后还是得到了该职位。在面试过程中人力部门主管曾提到本来想让我去市场部门，但那边主管表示已经有很多女员工希望进一个男孩，所以就让我去电子商务部门面试，这在我看来属于部门间性别比例的调适，不算性别歧视。”小北坦言，自己是同班女生中找工作比较顺利的那一个。</p>
+<p>“我知道你们就想让我选稳定的那一个，那也得考虑职业发展前景啊。”小北带着央求的语气接起家里打来的电话，跟父母商量关于选择哪一个岗位作为自己踏入社会的第一份工作。“家里长辈都劝我选择稳定的岗位，说女孩子不适合长期出差、跑市场，以后得更多地兼顾家庭。说实话，我感觉这种心态和导向还是带有普遍性。”面对父母的期待与自己职业发展的冲突，小北坦言这是更深层次的“就业性别歧视”。</p>
+<p>“这种让我们无处可逃的‘传统偏见’才是真正束缚我们的枷锁。即便我们十分努力地获得了理想的岗位，用人单位也‘一碗水端平’给予我们平等的机会、公平的环境，但是父母的唠叨、期待，以后家庭的需求与伴侣的要求，可能才是真正长期制约我们发展的无形之手。我男朋友就说照顾家庭以后主要靠我。”获得好几份录用通知的小北，陷入了另一种焦虑和纠结。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E5%A5%B3%E7%94%9F%E5%B0%B1%E4%B8%9A-%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E4%B8%9A%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">就业歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别不平等</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F/" target="cdt-mirror">【立此存照】平行世界 · 中国血统</a>
+</h2>
+<p><p><strong>外交部近日如此<a href="http://news.ifeng.com/a/20160105/46952085_0.shtml">回应“香港书店股东失踪案”</a>：</strong></p>
+<blockquote><p>华春莹：“关于你提到的涉及到香港铜锣湾书店人员这件事的情况，我不了解，所以我也没有办法具体评论。但你提到英国有一些言行，那我想指出的是，香港是中国的特别行政区，香港事务纯属中国的内政，任何外国都无权干涉。而且我也想指出，根据香港的基本法和中华人民共和国的国籍法，凡是具有中国血统的香港居民，本人出生在中国领土含香港的人，以及其他符合中华人民共和国国际法规定的，具有中国国籍的条件者，都是中国的公民。”</p></blockquote>
+<p>新浪微博@青莲榆菜 发布了一则段子，讽刺所谓的“中国血统”论（该用户疑已遭封号），内容如下：</p>
+<blockquote><p><strong>@青莲榆菜：一个吸血鬼吸了一个中国人的血，中国人临死前冷笑，吸血鬼问道：”畜生，你笑什么？“，中国人用尽最后一口气说：”你现在……有了中国血统……你也要……为社会主义……奋斗终身……”</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954.jpg" rel="attachment wp-att-424126"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954.jpg" alt="" width="439" height="484" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954-272x300.jpg 272w, http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954.jpg 439w" sizes="(max-width: 439px) 100vw, 439px"></a><br><em>（截图内容来自新浪微博@oslh）</em></p></blockquote>
+<p>新浪微博<a href="http://weibo.com/5331423016/DbPKCv3U2"> @侵掠如火者浣熊是也</a>为此创作了漫画两则：</p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F1.jpg" rel="attachment wp-att-424154"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F1.jpg" alt="中国血统1" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/中国血统1-247x300.jpg 247w, http://chinadigitaltimes.net/chinese/files/2016/01/中国血统1-768x931.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/中国血统1-844x1024.jpg 844w" sizes="(max-width: 2142px) 100vw, 2142px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F2.jpg" rel="attachment wp-att-424152"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F2.jpg" alt="中国血统2" width="500" height=""></a></p></blockquote>
+<p>但让许多关心<a href="http://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/">铜锣湾书商“失踪”事件</a>的网民没有想到的是，由于中国当局对相关新闻执行严格审查，导致许多“不明真相”的“爱国青年”和一些营销号们会错了意，把对外交部“中国血统”论的讽刺当作了社会主义“正能量”梗在微博积极转发。目前@青莲榆菜 疑似已被新浪封号，原始微博也已消失。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/657fac00gw1ezp27r1zwhj20qo1bf11v.jpg" rel="attachment wp-att-424127"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/657fac00gw1ezp27r1zwhj20qo1bf11v.jpg" alt="657fac00gw1ezp27r1zwhj20qo1bf11v" width="440" height="782"></a></p>
+<blockquote><p><strong><a href="http://weibo.com/1681682181/DbLFmF7CQ">@我是你认识的王小能</a>：就，从含血惨笑变成了红红火火恍恍惚惚，原po都被删了，政治讽刺变成了社会主义梗，真的要成为本年度最佳正能量段子了啊。大噶都妹想到吧。</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y.jpg" rel="attachment wp-att-424129"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y.jpg" alt="643c6f05gw1ezoz8c1pduj20ku0obq6y" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y-257x300.jpg 257w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3.jpg" rel="attachment wp-att-424128"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3.jpg" alt="643c6f05gw1ezoz8ci0qyj20k00ioju3" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3-300x280.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3.jpg 720w" sizes="(max-width: 720px) 100vw, 720px"></a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@riffharrise：就…脑回路不在一个次元。反贼和粉红同时对一个段子喜闻乐见，真是一场大型魔幻</p>
+<p><a href="http://weibo.com/5086055663/DbMA24y6w">@一头小活猪</a>：一个缓则写的作死段子被一群中二段子手转发，明早不明真相群众打开电脑，发现你浪网红被销号了一大半，大型社会主义网络事故。</p>
+<p>@葉月_karao：刚想说好多五毛营销号都转了，根本就没get到点。。前几天他们还在疯转“习大大鸡汤”</p>
+<p><a href="http://weibo.com/5736505114" target="_blank">@脑浆爆裂草莓</a>：<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">看见了，一开始就那样小范围只可意会不可言传的刷刷，梗红了被营销狗转了首页简直’百感交集。</p>
+<p><a href="http://weibo.com/onlyqianlong" target="_blank">@乾隆皇帝专属微博</a>：这就是没get到点，感觉就像是强行闯进餐厅的耍猴似的<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
+<p><a href="http://weibo.com/3131672743" target="_blank">@syf月亮</a>：那出生在中国的为什么还有黑户<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p><a href="http://weibo.com/ssummertan" target="_blank">@陽汁甘露羹</a>：一口咬定从不承认双国籍，出事却看谁都是炎黄子孙<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908c.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c8f.png" alt="" width="20px" height="20px">这盛世</p>
+<p>@清如卜砂2：这国家看脸，全球黄种人怕起来！！</p>
+<p>@朤下独酌：公民贱民屁民可随意切换</p>
+<p>@忧郁爱吐槽的Marvin：我被图2吓懵了，强行中国公民！你们以为逃得掉？只要你身上有一滴中华血统，就可以依“天朝法律法规”办你！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">不明真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%9D%9E%E6%96%B0%E9%97%BB-2015%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6%E7%BB%9F%E8%AE%A1/" target="cdt-mirror">非新闻 | 2015年中国群体事件统计</a>
 </h2>
 <p><p>2015年记录到群体游行、示威、集会等共计28950起，平均每天79起，比2014年增长了34%，主要增长群体来自与房地产相关的工人和业主，此外，投资人、商户以及环境保护相关群体的增长也比较明显。主要增长地区在河南、河北、江苏等省。</p>
@@ -750,78 +815,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E7%9B%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B1%AA%E4%B8%81%E4%B8%81%EF%BC%9A%E9%95%BF%E6%9C%9F%E9%9B%BE%E9%9C%BE%E7%9A%84%E6%94%BF%E6%B2%BB%E7%A4%BE%E4%BC%9A%E6%95%88%E5%BA%94/" target="cdt-mirror">汪丁丁：长期雾霾的政治社会效应</a>
-</h2>
-<p><p>如果雾霾成为长期的，如北京这样的都市将发生什么？或许我仍可想象经济学家习惯于想象的某种长期均衡状态。</p>
-<p><strong>首先，人口将从大都市向雾霾尚可忍受的中小城市或山区迁徙，前提是雾霾被医学确认为肺癌和抑郁症的长期主因——极不利于儿童健康成长，和心脑系统疾病的短期主因——极不利于中老年人养生。互联网技术普及和成本降低，有利于人口从密集到疏朗的迁徙过程。</strong></p>
-<p>其次，如果国内的生存环境持续恶化，势必诱致中高收入群体（以及低收入但年轻的群体）移民海外——这一效应十分类似于持续战争诱致的移民潮。谁也无法阻拦，因为在马斯洛需求层级当中，基本的安全感，是最低需求，如果一个社会不能满足这一最低需求，这一社会就不再是适合人类生活的。</p>
-<p>与战争难民的年龄结构类似，在成本制约下，雾霾难民更多由儿童和年轻人组成，因为这些人以更高概率延续他们的家族（这是人性的生物本能）。</p>
-<p>关于人口迁徙的各种学说当中，适用于雾霾移民的是“pushing-pulling”与“移民成本”的联合作用模型。所谓“pushing”就是被本国的恶劣条件“推出去”的那些人。所谓“pulling”就是被他国的优厚条件“拉出去”的那些人。</p>
-<p>如果移民成本足够高，不难想象，最适合移民海外的是那些敏感地不喜欢本国生活条件并且具有高学历从而很容易被他国“拉出去”的那些人。可是，这就是所谓“脑流失”呀。</p>
-<p>我的同事胡大源，根据报道，估计北京地区的雾霾导致的经济损失大约在700亿（每年）的水平。我估计，大源的估计无法考虑如“脑流失”这样的长期损失。类似地，我们也缺乏数据来预测长期雾霾导致的各类健康损失。依照我的</p>
-<p><strong>另一同事宋国青常用的拇指规则，家庭收入的六倍，大约是家庭财富。与此类似，我估计，每年700亿元的收入损失，它的六倍，也就是大约5000亿元，是长期的损失——中国转型期社会的折现率很高，未来各年的经济损失折现到当前时刻，六年之后损失的或可忽略不计。</strong></p>
-<p>上述估算仍远未表现持续雾霾的长期影响，因为这些估算仅仅是经济方面的，并未考虑政治的和社会的影响。不论如何，我们姑且承认5000亿元是雾霾导致的北京地区的经济损失。于是我们可以询问北京的政府，用这样一笔钱（5000亿）可能做哪些事情来降低雾霾？</p>
-<p>我很悲观，我不认为这笔钱可使北京的雾霾消失或减少至能忍受的水平。</p>
-<p>根据科学院的一份报告，北京地区的雾霾成分主要（例如70%）来自汽车尾气排放，可是京津冀地区的雾霾成分主要（例如50%以上）来自燃煤。</p>
-<p>我们记得2015年9月的蓝天，被称为“阅兵蓝”。在一个多月时间里，据报道，京津冀地区完全停产的（或许可疑）企业数目大约5000家。</p>
-<p>这些企业养活了多少人口？或许有很多小企业，或许，平均而言，一家企业养活100名工人和他们的家庭（五口之家），那么，50万工人家庭总共有大约250万人口。</p>
-<p><strong>不考虑地方政府的财政损失，单纯命令这些企业永远停产，中国社会可能需要完全负担250万人口的生活费，假设每年每人4万元，一共要支付的费用是1000亿元。试问，北京市政府愿意每年损失700亿元还是愿意每年支付1000亿元？</strong></p>
-<p>其实，也可以干脆由北京市转移支付每年700亿元给这些企业，前提是永久停产。不过，动态而言，这一方法无效，因为它可能诱致更多的污染企业到北京的政府来“索赔”。更何况，这些完全停产的企业还有“乘数”效应呢。</p>
-<p>能否诱致对抗雾霾的新技术？当然可以。问题是，这是中国经济发展的现状，西方社会负责研发而中国负责制造。雾霾是中国现象，西方研发部门没有积极性研发对抗雾霾的新技术。</p>
-<p>于是，中国必须，这一次是真的，自主研发对抗雾霾的技术。我很怀疑德国研发的过滤雾霾的纱窗，之所以一年多没有进入市场，是否合用？</p>
-<p>根据一份报告，各种口罩的抗雾霾实验，其中3M专业口罩（带气阀的）大约可降低PM2.5百分之九十。也就是说，目前室外污染指数500，带着这种口罩可使进入鼻腔的空气的污染指数降低至大约50，仍然不健康，但凑合活着吧。</p>
-<p><strong>我的观察，绝大多数开车的中国人，更愿意继续开车，同时在车内安置一台或更多空气净化器（几百元的那种）可降低污染指数百分之七十以上，然后，在室外或车外戴口罩。所以，最终的受害者仍是他们的孩子（更易污染更缺乏戴口罩的习惯更喜欢户外活动）。</strong></p>
-<p>最后，我意识到雾霾在北京地区似乎有一种类似“收益递增”的趋势：严重雾霾导致更严重的雾霾。这就意味着开篇所述的第一阈值在持续下降，直到使北京地区永远笼罩于雾霾之中。这当然是一种可能的均衡，或许是最可能出现的长期均衡。</p>
-<p>那时，根据以上分析，北京的大街小巷能见度不过五米，昼夜灯火通明，防毒面具和氧气筒（至少在新技术出现之前）成为与iPad同等重要的日常可穿戴设备。由于终年不见阳光，“雾霾抑郁症”成为北京地区最常见且最高发的心理障碍。</p>
-<p>因此北京地区工作人群的必要劳保条件之一就是每年要有更多时间在外地度假，每年这样的假期可能长达半年。</p>
-<p><strong>继续想象：由于“脑流失”，北京地区将只有科技含量很低的产业。第一流的教师和学校将最早迁徙到污染更少的外地——例如张家界。接送孩子的校车，将从市内大巴改为跨市包机。</strong></p>
-<p>当然，还有一种可能性：京津冀一体化，借助于政治强势，将大部分污染企业南迁。这也是中国历史的常态，生存困难的北方人不断侵扰南方，可以一直侵略到亚洲大陆的最南端，或任何天然屏障（喜马拉雅山）。污染的南迁，很可能是一种选择。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B1%AA%E4%B8%81%E4%B8%81%EF%BC%9A%E9%95%BF%E6%9C%9F%E9%9B%BE%E9%9C%BE%E7%9A%84%E6%94%BF%E6%B2%BB%E7%A4%BE%E4%BC%9A%E6%95%88%E5%BA%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E5%AD%98%E7%8E%AF%E5%A2%83%E6%81%B6%E5%8C%96/?category=18271" rel="tag">生存环境恶化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1/?category=18271" rel="tag">经济损失</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B4%BE%E8%91%AD%EF%BC%9A%E8%83%A1%E9%94%A1%E8%BF%9B%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%90%97%EF%BC%9F/" target="cdt-mirror">贾葭：胡锡进知道什么是“一国两制”吗？</a>
-</h2>
-<p><p>2015年12月31日在香港失踪、被劫持到深圳的铜锣湾书店经理李波，其实是自2015年10月以来该书店失踪的第五个工作人员。这五位失踪人员是桂民海、吕波、张志平、林荣基、李波。今天（1月4日）上午，特首梁振英对记者表示，内地执法人员在香港执法不能接受，因为不符合基本法。</p>
-<p>“铜锣湾书店事件”引发香港媒体连日来对“一国两制”的质疑。在我以为，这是一件未来会载入中国历史的大事。正是类似事件的不断发生，才使得“一国两制”形同虚设，才使得港人对“一国两制”愈加质疑，并且终究会失去对中国本部的身份认同。然而，《环球时报》的火上浇油，无疑更是让港人更加厌恶与反感。</p>
-<p>今天《环球时报》就此事刊发署名单仁平的评论说，“铜锣湾书店几乎专门出版、销售与内地有关的政治书籍，它们很多都包含恶意编造的内容，构成了对名誉权的严重侵犯。”又说，“虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的。它利用回归后内地人大量进出香港，把自己搞成向内地提供“禁书”的一个突出源头，不能不说它变相插足了内地的事情，损害了内地保持和谐稳定的重大利益。”</p>
-<p>首先，假如真就如胡总编辑所说，铜锣湾书店构成对名誉权的严重侵犯，而名誉权案件是自诉案件，那么由被侵权人在侵权发生地向法院提出告诉即可，还轮不到胡总替法院下结论。香港是法治社会，依法处理即可。胡总是什么意思？干涉香港司法独立吗？退一万步说，即便事情发生在中国大陆，也还有大陆法院在呢，你这么跳出来给别人定案，是在媒体上公开暗示中国不是法治国家吗？</p>
-<p>其次，胡总认为铜锣湾书店“靠给内地社会捣乱维持生存的”，这个说法有什么证据吗？书店不过是卖书而已，“捣乱”是一个什么性质的名词？捣乱的具体行为又是什么？符合香港法律对个体行为的定义吗？书店卖书就是商业行为，港府有签牌照，违法的话有香港法律管，你胡总编辑用一句语焉不详的“捣乱”，就可以替“被失踪”背书了吗？</p>
-<p>再说“禁书”的事情，中国人可以不可以在海外买书？可以不可以在香港买书？中国有哪条法律规定中国内地人不可以在香港买书？既然没有，凭什么说铜锣湾书店卖书这个行为“损害了内地保持和谐稳定的重大利益”？我想问问胡总，到底损害了哪些人的什么重大利益？胡总说书店“变相插足了内地的事情”，我想请问，插足是什么性质的名词？违反香港法律吗？</p>
-<p>铜锣湾书店是一间不超过20平米的小书店，只有四排书架，在寸土寸金的铜锣湾，勉强维持自身生存都很不容易了。胡总要这间书店担负“以挑衅的政治方式为自己谋利”的罪名，实在太难为了。真要谋利的话，改成咖啡馆或者奶粉店，谋利可就太容易了。但恰恰因为是在铜锣湾没有这么做，铜锣湾书店才成为香港的著名地标。</p>
-<p>铜锣湾书店卖的书，很多都是中共高级干部的著作，甚至还有当下领导人的著作。有些书是中共老一辈领导人比如张国焘、王明的著作，有些是文革期间的中共重要人物如邱会作、李作鹏等人的著作或回忆录，甚至被认为是“左王”的邓力群，其回忆录《十二个春秋》也是在香港出版。</p>
-<p>我想请问胡总，这些著作，都是内地人写的，为什么不能给内地人看？而且几乎都是中共高级党员的著作，据说代表了先进性，为什么不能给内地人看？为什么卖中共高级党员的书，反而是损害了内地的利益？这个道理我想不明白，我想也没有多少人明白，请胡总指教。</p>
-<p>“一国两制”的初衷，不是要把香港变得跟内地一样，而恰恰了为了保留香港这种不一样，邓小平的原话是“井水不犯河水”，“五十年不变”，保证尊重香港的自由与法治，保证尊重香港人对中国内地的不认同，尊重香港人的生活方式。从这一点来说，胡锡进一点也不了解“一国两制”，而且严重曲解了“一国两制”，给内地和香港的交流带来严重的负面后果。</p>
-<p>我的许多香港朋友都非常反感《环球时报》的涉港言论，认为该报不仅不了解香港，也不了解中国内地的涉港方略。铜锣湾书店事件发生后，香港媒体对此跟踪报道多日，认为跨境执法是违反基本法的，特首也于今日表态，那么，胡锡进老师是想干嘛呢？这样一篇火上浇油的评论，只能令事态愈发不可收拾。</p>
-<p>胡总编辑的结论，用在他自己身上最合适不过了：不能不说，胡锡进变相插足了香港的事情，损害了香港保持和谐稳定的重大利益。下面这两句引文也原封不动还给胡老师：像李波“失踪”这件事，有些人首先想到的就是炒作它，把它朝政治方向引，试图制造香港社会与内地的隔阂，抹黑“一国两制”。谁恶意挑动冲突，就有罪于整个国家，也是对香港根本利益的背叛。</p>
-<p>很多时候，我们反思内地与香港关系的时候，不得不重视《环球时报》这类媒体以及胡锡进老师给香港人民的人心回归带来的负面因素。回归后的人心向背，与舆论关系极大。胡锡进火上浇油的评论，只能帮倒忙，搬石头砸党的脚，打乱北京的涉港政策，令香港问题更加棘手难办。</p>
-<p><strong>附：</strong></p>
-<p><strong>环球时报 | 少数港人不应动辄质疑“一国两制”</strong></p>
-<p>单仁平</p>
-<p>香港铜锣湾书店股东李波被指12月30日“失踪”，其家人对媒体说他最后一个电话是从深圳打来，称自己“正协助调查”。而香港方面没有他的出境记录，他的回乡证也在家中。这件事在香港被炒作，猜测李波被内地执法人员“越境”带走的说法最热，一些人迫不及待给此事做“违反一国两制”的定性。</p>
-<p>香港有反对派组织计划本周举行游行示威，并宣称要向联合国人权委员会投诉。香港特区政府表示正在调查此事。</p>
-<p>中央及内地社会对坚持“一国两制”从未动摇过，香港回归18年多了，但至今与内地一眼看上去就不一样，就是坚持“一国两制”的结果。无论发生什么具体的事情，质疑“一国两制”政策有变，宣扬内地要把香港“管起来”，都是借题发挥，毫无根据。</p>
-<p>既然香港特区政府表示调查此事，相信它一定会与内地相关机构沟通，把事实搞清楚，公之于众。在这之前做各种政治猜测，上纲上线，没有任何好处。</p>
-<p>借这个空档，反思一下铜锣湾书店的所作所为，也有几分必要。</p>
-<p>铜锣湾书店几乎专门出版、销售与内地有关的政治书籍，它们很多都包含恶意编造的内容，构成了对名誉权的严重侵犯。那些书籍通过各种渠道流进内地，成为一些政治谣言的源头，在一定范围内造成恶劣影响。</p>
-<p>虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的。它利用回归后内地人大量进出香港，把自己搞成向内地提供“禁书”的一个突出源头，不能不说它变相插足了内地的事情，损害了内地保持和谐稳定的重大利益。铜锣湾书店像是要刻意在香港与内地之间拱出一块灰色地带，以挑衅的政治方式为自己谋利。</p>
-<p>香港少数人是给国家出了难题的。“一国两制”是很好的设计，当初内地社会都为它的确立而高兴、骄傲。大家想得很简单，真心愿意香港回归祖国后继续保持资本主义制度，也保持有特色的社会风貌，几乎没有想过后来出现香港一些人的反中央倾向。一些人张狂地要把香港搞成在政治上对抗国家的桥头堡，这尤其出乎内地很多人的意料。</p>
-<p>现在香港极少数人不断发动政治攻击。在互联网新时代，他们的负面影响已经不局限于香港，同时也在向内地渗透，这成为国家面临的一个现实问题。</p>
-<p>这部分少数人不该钻空子，把自己对内地有害的政治表现做到极致。这显然不符合“一国两制”的原意，基本法是要香港与内地和谐相处的，而不是要把两种制度安排搞成它们的彼此对抗。谁恶意挑动冲突，就有罪于整个国家，也是对香港根本利益的背叛。</p>
-<p>像李波“失踪”这件事，有些人首先想到的就是炒作它，把它朝政治方向引，试图制造香港社会与内地的隔阂，抹黑“一国两制”。而香港舆论对这样的炒作缺少警惕，很容易受其影响，这是令人遗憾的。</p>
-<p>相信国家，相信基本法，这应当是香港舆论研讨各种新闻事件的前提。好像“一国两制”随时都面临威胁，每件具体的事都是对它的考验，需要大家拿着放大镜盯住所有细节，这本身就是一种偏颇。因此让视角端正，这是值得努力的。▲（作者是环球时报评论员）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B4%BE%E8%91%AD%EF%BC%9A%E8%83%A1%E9%94%A1%E8%BF%9B%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%94%AF%E8%81%94%E4%BC%9A/?category=18271" rel="tag">香港支联会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -833,7 +826,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -843,5 +836,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

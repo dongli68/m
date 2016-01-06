@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%9C%9D%E9%B2%9C%E5%9C%B0%E9%9C%87%E7%96%91%E6%98%AF%E6%A0%B8%E8%AF%95%E9%AA%8C/" target="cdt-mirror">纽约时报中文网 | 朝鲜地震疑是核试验</a>
+</h2>
+<p><p>作者：CHOE SANG-HUN</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-05-at-%E4%B8%8B%E5%8D%889.39.32.png" alt="Screen Shot 2016-01-05 at 下午9.39.32" width="443" height="497" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-05-at-下午9.39.32-267x300.png 267w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-05-at-下午9.39.32.png 443w" sizes="(max-width: 443px) 100vw, 443px"><br><span>美国地质调查局2016年1月5日发布的图示中，标出了地震位置。震级初步判定为5.1级。 USGS</span></p>
+<p><strong>更新：朝鲜稍早前宣布，已经成功引爆该国第一个氢弹。</strong></p>
+<p>首尔——韩国官员周三表示，他们正在检查朝鲜主要核试验场地附近传出的微震，是不是由核爆炸引发的。</p>
+<p>中国、欧洲、美国的地震台均表示发生了震荡，报告震级在4.9级至5.2不等。位于首尔的韩国气象厅(Korea Meteorological Administration)报告称，发生了4.2级微震，并表示震荡模式似乎是“人为的”，不像天然地震。</p>
+<p>韩国国防部的一位发言人表示，“我们正在检查这是否真的是核试验，还是其他事件。”该发言人按惯例要求匿名。</p>
+<p>官员们确定，这次的震中位于朝鲜丰溪里(Punggye-ri)地下核试验场附近。美国分析师和韩国官员最近都依据卫星图像报告称，朝鲜正在当地的万塔山(Mantap)中挖掘地道。朝鲜之前三次核试验也是在该试验场进行的。上一次核试验是在2013年2月。</p>
+<p><i>（本文更新中，敬请关注。）</i></p>
+<div> <span>翻译：王童鹤</span></div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%9C%9D%E9%B2%9C%E5%9C%B0%E9%9C%87%E7%96%91%E6%98%AF%E6%A0%B8%E8%AF%95%E9%AA%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝鲜核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%97%A0%E6%A0%B8%E5%8C%96/?category=18271" rel="tag">朝鲜无核化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%A2%E5%BC%B9/?category=18271" rel="tag">氢弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E5%AE%A3%E7%A7%B0%E6%8B%A5%E6%9C%89%E6%B0%A2%E5%BC%B9/?category=18271" rel="tag">朝鲜宣称拥有氢弹</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B5%B5%E5%A4%AA%E7%88%B7%E9%98%BFq%E4%BC%9A%E8%B0%88%E8%AE%B0%E8%A6%81/" target="cdt-mirror">【习总日记】 赵太爷阿Q会谈记要</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，1，6）</p>
@@ -707,39 +726,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%A4%E5%B2%B8%E4%B8%89%E5%9C%B0%E5%B9%B4%E5%BA%A6%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%94%BF%E6%B2%BB%E6%A0%BC%E5%B1%80/" target="cdt-mirror">端传媒 | 两岸三地年度观察：公民社会与政治格局变迁</a>
-</h2>
-<p><p>2014年大型群众运动的余波影响到2015年香港台湾两地的政治格局，民间新势力崛起，政党世代交替；另一边厢，中国公民社会却备受官方打压，改革派几乎销声匿迹。2015两岸三地政治格局的生与死，可堪对照。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-%E4%B8%8B%E5%8D%887.18.55.png" alt="Screen Shot 2016-01-03 at 下午7.18.55" width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午7.18.55-300x199.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午7.18.55.png 616w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2015年11月22日，区议会选举市民到票站投票。摄：Anthony Kwan/端传媒</span></p>
-<p><strong>香港：社运分歧难和，一同转战议会</strong></p>
-<p>雨伞运动落幕，政改搁浅，在胶着的政治格局中，香港2015年的社会运动争议不断──群众质疑旧有抗争方法，不信任传统组织或领袖；路线之争使社运分裂，变得碎片化。</p>
-<p>2月，传统社运组织龙头“民间人权阵线”（民阵）发起雨伞运动后首场游行，原预期有五万人参与，最后只有一万多人出席；及后数次游行人数亦逊于预期，折射出传统社运组织不再有昔日的号召力，以及群众开始质疑和平游行这种社运方式的效用。抗争方法思变，亦反映在年初一连串，由本土派组织发起的反水货客“光复行动”；参与者数量通常约数十至数百人，亦不再避讳较激烈的抗议手法，例如对骂和冲突。</p>
-<p>2月至5月间，雨伞运动最重要的领导组织之一香港专上学生联会（学联）被各大院校学生批评在雨伞运动中决策失当、理念保守不利抗争，发起公投要求退出学联，最终有四间大学通过“退联”，令香港最大的学生运动组织首次面临解体。及后的六四集会，和针对香港大学校委会拒绝任命陈文敏的抗议事件中，都出现力量分散的情况。</p>
-<p>社运分歧难和，却一同转战议会。11月举行的区议会选举，事前一片看淡，投票率却创下历届之冠。泛民主派的成绩比上届稍好，同时雨伞运动之后首次出战参选的“伞兵”告捷，不少建制派及民主派重量级议员相继堕马，为社会带来新的议会政治想像。</p>
-<p>市民投票给“伞兵”，是否代表社会支持新的抗争路线？不少学者认为，“抗议票”转为真实政治选择，仍需时日观察。而素人从“街头”走进“议会”，又是否代表社会运动能量的延续？1980年代压力团体参选议会之后，曾声言要将抗争带入议会，然而客观现象是由市民自发的街头抗争日渐衰弱。</p>
-<p>2016年，香港公民社会与政治格局，仍待观察。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-%E4%B8%8B%E5%8D%887.21.10.png" alt="Screen Shot 2016-01-03 at 下午7.21.10" width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午7.21.10-300x199.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午7.21.10.png 617w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2016总统大选辩论。左起为亲民党主席宋楚瑜，国民党主席朱立伦，民进党主席蔡英文。摄:Pool/中央社/台北市摄影记者联谊会</span></p>
-<p><strong>台湾：政治格局变迁</strong></p>
-<p>2014年的太阳花运动，在政治格局上带来三大趋势：一、国民党威信受到重创，几不可逆地走向崩坏，二、公民意识崛起，带动公民社会各种对话、集结、行动的能量，并浮现某种“超越蓝绿”的政治期待，三、民进党苏谢退位，蔡英文笃定接班，世代交替确立。这些趋势都延伸到2015，并直指2016年初的总统大选。</p>
-<p>国民党在 2014年底九合一大选的大败后，这一年气氛低迷。外界普遍不看好2016大选，加上马总统态度暧昧，朱王等较具实力的政治领袖均对参选总统扭捏作态。初选中意外由“B咖”洪秀柱出线，更让政坛老兵宋楚瑜宣布参选。洪提名后，不意外地民气低迷，复因言论过于偏统引发换柱风波，更让国民党态势更显分崩离析。</p>
-<p>另一方面，2014年底无党籍的柯文哲标榜“白色力量”，在台北市长选战胜出。其上任以来以明快直言、偶而白目的个人风格，颠覆台湾社会对政治人物的想像。尤其2015年初，其在大巨蛋、美河市、三创园区、台北文创、双子星五大案，强势杠上远雄、日盛生、鸿海、富邦等财团，甚至遥指马郝市府舞弊之嫌；其创造的政治新象，让柯一度享有八成以上的满意度。</p>
-<p>2015 年以来，若干标榜第三势力小党更是先后浮现。2014太阳花爆发前甫成立的“公民组合”，在今年初分裂为时代力量与社会民主党两个社运型政党。前者以前司改会长林峰正、闪灵乐团主唱Freddy Lin为主，后来太阳花领袖黄国昌加入并获选为主席，声势大振；后者由野百合世代学者范云、陈尚智，与若干人权运动者筹组，目前与长年耕耘环境议题的绿党结盟投入选战。两者皆期望走出某种不同于过去绿营，更重视公平正义人权的“进步的本土路线”。</p>
-<p>最后，相对于前述两股态势，2016年总统大选赢面甚高的民进党主席蔡英文，在2015年的政治动作却趋于低调保守，相对神隐。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-%E4%B8%8B%E5%8D%887.27.54.png" alt="Screen Shot 2016-01-03 at 下午7.27.54" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午7.27.54-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-03-at-下午7.27.54.png 615w" sizes="(max-width: 550px) 100vw, 550px"><br><span>浦志强支持者到中联办外递交请愿信，要求中方释放浦志强。摄: Karma Lo/端传媒</span></p>
-<p><strong>中国：改革派之死，公民社会的衰败</strong></p>
-<p>2015年，对北京政治改革还怀有期待的人，会把11月20日胡耀邦百年诞辰纪念日看成一个政治风向标。</p>
-<p>胡耀邦作为1980年代中共自我改革的代表，一向被党内民主派与党外改革派人士视为旗帜人物；此后各届中共领导人对胡耀邦的政治评价，也常常被舆论视作对政治改革的表态。2015年，与许多人的猜测不同，北京空前盛大地纪念了胡耀邦的百年诞辰，但是，对他的解读却集中在对共产主义和马克思主义的坚守，并不提及他为世人所知的“政治改革”。在媒体上，官方为胡耀邦纪念日定性，只有少数媒体发表了零星四五篇文章偏离主旋律，仍然低呼政治改革。</p>
-<p>把“人民的耀邦”变成“党的耀邦”，这是曾与胡耀邦共事过的学者对此次纪念的评价。这种“盘活”历史，为我所用的风格，本是中共十八大以来鲜明的执政特色。但如此“盘活”胡耀邦，是89以来第一次，这也使得聚集在胡耀邦精神旗帜下的党内与党外改革派，再难容身。</p>
-<p>2015年，“不讲宪政”、“不讲普世价值”、“不讲公民社会”的官方主张主导舆论场，NGO工作者、媒体记者、维权律师等公民社会的行动者全面受到打压，寒蝉效应笼罩曾经活跃的公民舆论场，除了偶见亮色的女权思潮与行动之外，公民社会整体黯然。（见《覆巢：中国权利NGO生死劫》、《记者刘虎的364天》）</p>
-<p>在胡温时代，“公民社会”曾是寄望改革人士的梦想，它意味着民间社会兴起、公民意识增强，维权行动的组织化；并蕴含着从倒逼官方改革、启动渐进民主的期待。但在胡温执政时期曾经由这个思路持续鼓呼政治改革的党内、党外改革派人士，在2012年之后的3年来，几乎销声匿迹。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%A4%E5%B2%B8%E4%B8%89%E5%9C%B0%E5%B9%B4%E5%BA%A6%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%94%BF%E6%B2%BB%E6%A0%BC%E5%B1%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%B4%BE/?category=18271" rel="tag">改革派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%B9%B4%E6%96%B0%E5%B9%B4/?category=18271" rel="tag">2016年新年</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -751,7 +737,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -761,5 +747,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

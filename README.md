@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,66 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BA%A4%E6%98%9315%E5%88%86%E9%92%9F%E6%94%B6%E7%9B%98-%E5%9B%9B%E5%A4%A9%E4%B8%A4%E6%AC%A1%E8%A7%A6%E5%8F%91%E7%86%94/" target="cdt-mirror">【网络民议】政党也应该有熔断机制</a>
+</h2>
+<p><p>受人民币快速贬值等因素的冲击，中国股市周四出现暴跌，触发熔断机制，暂停交易15分钟后重新开盘继续暴跌，再次触发熔断机制，于是股市收盘了。中国股票交易今年正式引入熔断机制以来，开年四天就有两天因为触发熔断机制提前收盘，周四的交易时间更是创下了记录。分析师对中国目前实行的熔断机制<a href="http://www.ftchinese.com/story/001065202?full=y" target="_blank">持批评观点</a>，认为涨跌停板机制已经足够了，熔断设定的阈值过低，太容易触发了。（奇客资讯）</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53ddf747gw1ezqv3dwfflj20bo0kr41c.jpg" alt="A股熔断" width="420" height="747"><p>A股熔断</p></div>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>NalaGinrut：IT业也应该引入熔断机制，如果发现bug，立即强制停工一天，过一天看它会不会自动修复。</p>
+<p>mranti：感觉现在是明显的傻逼而不是专家在管理中国股市啊。</p>
+<p>guangzhui：券商提前下班我还以为是段子，我同事女友在券商营业厅，真的十点就下班了…</p>
+<p>uGalaxy：我以前几个初中的好朋友，都读到博士，然后就去干对冲基金了，我曾经跟它们喝多了，就问他们到底读书的意义是什么，结果A君跟我说，就是为了持证上岗抢股民。所以说，人生要有几个好朋友，能跟你讲真话。</p>
+<p>lijiansion：转段子，如果你家里的保险丝1天断两次，有常识的人都知道应该换根粗点的。如果保险丝4天断四次，那有常识的人都知道应该是电路出问题了。</p>
+<p>LostAbaddon: 对于半小时就烧毁这件事，我朋友只能幽幽地感叹一句：公测玩家没人权，交完钱就关服啊！</p>
+<p>shmyd：资本主义可以搞股市，社会主义也可以搞嘛……要坚决地试，搞不好可以关掉嘛！这是小平同志说的。我认为现在该是党和政府兑现承诺的时候了。</p>
+<p>r2bb: #转 操盘手下班了，接下来看段子手了</p>
+<p>yaoyao：为了防止证券从业人员恶意制造熔断，骗取工资。国家规定，证券从业人员纳入技师行业管理，上班改为上钟。</p>
+<p>wxhch64：在厕所听隔壁蹲坑的说：一个政权如果没有熔断机制，在股市采取熔断机制一定是徒劳的。</p>
+<p>老费：股市暴跌，不光不炒股的在看好戏，炒股被套的也都极尽幽默冷嘲热讽，这种大众心理，证明国人内心在期待一次历史的熔断。</p>
+<p>虎头是我：政治局出5个贪官，执政党下台。</p>
+<p>生活家–李晨：政党也应该熔断机制，5%的群众不满意下台15个月，有7%的群众不满意直接淘汰重选。</p>
+<p>作家崔成浩：熔断这东西，有吸铁石的吸附功能。你设定5%，3%的时候就会引起恐慌，自然就会吸到5%，到了5%时，没有人敢抄底，资金于是在恐慌下加速出逃，瞬间就7%。如果没有熔断，大跌时还会有企稳和抄底出现，而现在的A股不会了。5%熔断谁提出来的？他在朝鲜是要犬决的！</p>
+<p>短歌行Tom：这样一来昨天追高的热钱全部被套，场外的人看熔断了又不进场，场内熔断后流动性全无。2850到3600这一带要是套死不是一两年能盘出来的，这责任某会负的起么？指数即国运，唉，谁能想到，某会的一帮傻B成了用杠杆做空国家的空头呢？</p>
+<p>hnjhj：个人猜测熔断机制马上就会被叫停。原因很简单，股市继续开着，尽管全部跌停，股民多少还能有个念想；你上午就把交易所关了，股民没地方去，整个下午都是跳楼的和去证监会门口静坐的。</p>
+<p>薛_昆-猎头ted：包子在位期间，股市砸的稀烂，人民币砸的稀烂，接下来房价砸的稀烂 药完</p>
+<p>吴汝旭：这盛世，如你所愿。</p>
+<p>敏感图：听说离岸也崩了，股市也崩，接着大撒币，然后印钞，百姓一贫如洗，背不起锅了。这面美联储加息，TPP/TIPP不和你玩了，嗯，心还挺大，还天天封网搞文字狱呢，坐等70年。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/9be419dbjw1ezqrgo2dcrj20bp48u7vb.jpg" alt="9be419dbjw1ezqrgo2dcrj20bp48u7vb" width="421" height="5502"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BA%A4%E6%98%9315%E5%88%86%E9%92%9F%E6%94%B6%E7%9B%98-%E5%9B%9B%E5%A4%A9%E4%B8%A4%E6%AC%A1%E8%A7%A6%E5%8F%91%E7%86%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD/?category=18271" rel="tag">熔断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%98%B2%E6%8A%A5-%E5%A5%89%E5%8A%9D%E5%96%B7%E5%AD%90%E4%BB%AC%E5%B0%8F%E5%BF%83%E9%BB%91%E4%BA%86%E8%87%AA/" target="cdt-mirror">【异闻观止】中国国防报 | 奉劝喷子们小心黑了自己</a>
+</h2>
+<p><p>吴一一/文</p>
+<p>有一种人，在网上最重要、最得意的一件事就是“喷”：喷完英烈喷军队，喷完军队侮历史，侮完历史辱国家……</p>
+<p>这种人，在网上回帖或评论时或断章取义、或偷换概念、或肆意谩骂，被广大网民冠以“喷子”。“爱军必攻、爱国必喷、爱党必骂”是“喷子”的基本行为特点。</p>
+<p>2015年12月28日，国内各大影院上映《胜利大阅兵》，这是八一电影制片厂重现9·3大阅兵的一部电影。这部大片虽然在宣传上很低调，但内容大气磅礴、画面雄浑震撼自不必说。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/61e04755jw1ezq3g9hk15j20id07v75h.jpg" alt="大阅兵" width="440" height="188" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/61e04755jw1ezq3g9hk15j20id07v75h-300x128.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/61e04755jw1ezq3g9hk15j20id07v75h.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>然而，就是这么一部艺术、品位、内容都可圈可点的电影，首映当天，却被一群“喷子”喷得天昏地暗。某著名商业影视网站上，给出“1星”（最差评）评价的居然达40%之多（力荐“5星”的比例近50%）。</p>
+<p>若是“喷子”真有那么高的艺术修养和艺术水准，对影片谈谈观感、评头论足，其实也正常。偏偏并非这回事，正如那些“喷子”们所言：“看没看过都是垃圾”“不看！路过必须是1星”……</p>
+<p>莫非，这些喷子们都是“章鱼帝”转世，对内容可以未卜先知，无须观看就能作出奇谈高论？</p>
+<p>非也！他们仿佛一支拉满弦沾着毒的箭，准备着随时射向网上的每一个热点事件。他们不过是有这样的潜意识：凡是老百姓叫好的他们就一股脑地差评，凡是我们党、国家、政府、军队干得漂亮的，他们就声嘶力竭地叫骂，似乎他们的祖辈从未在这个国家生活过一样。</p>
+<p>或者他们患有某种心理疾患，不管三七二十一遇事就批判反对。如果真是这样，也就罢了，但偏偏这些“喷子”病得又没那么彻底。比如抹黑《胜利大阅兵》的，就有不少人，对颠倒黑白，蛊惑人心的书籍，却毫不犹豫、毫不吝啬地评价“5星”，全是近乎阿谀的赞美。也就是说，只要是国外的或者是黑中国的作品，他们必然笑脸相迎，从来不打“1星”；而对于本土的或正能量的作品，则必然横眉冷对，不管好不好看，统统“1星”。</p>
+<p>总之，他们“只管反对，无论对错；只管差评，不问良心”；还有的“喷子”盲目跟风、黑白不分、人云亦云。殊不知，网络世界是透明的，网友的眼睛是雪亮的，“喷子”们在喷出“浓痰”恶心众人的同时，也不可避免地展示着自己的丑陋，毁灭着自己的良心。</p>
+<p>很显然，不是因为“喷子”疾病发作。很多“喷子”看似个性张扬，实则奴颜婢膝，坚信外国的月亮一定比中国的圆，外国的糖水一定比中国的甜。他们既不愿从现实出发，也不懂用事实说话。殊不知，网络也是有态度的，网民也是极睿智的，那些既不理性，也不客观的聒噪，只会让更多的网友唾弃他们。</p>
+<p>放任某些人在网上一味乱“喷”，肆意诋毁英雄、抹黑军队、歪曲历史，最终受害的是整个国家与民族。</p>
+<p>奉劝“喷子”们别喷了，小心黑了自己！网络是公共空间，当中国聚力要还网络一个朗朗晴空时，“喷子”们的恶搞、篡改和歪曲，终有一天要受到惩罚！事实上，越来越多的网友已经看到“喷子”们的不良用心，已经看到为数不少、喧嚣叫嚷、肆意妄为的“喷子”受到了正义的痛斥、法律的严惩！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%98%B2%E6%8A%A5-%E5%A5%89%E5%8A%9D%E5%96%B7%E5%AD%90%E4%BB%AC%E5%B0%8F%E5%BF%83%E9%BB%91%E4%BA%86%E8%87%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%98%B2%E6%8A%A5/?category=18271" rel="tag">中国国防报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%B7%E5%AD%90/?category=18271" rel="tag">喷子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%98%85%E5%85%B5/?category=18271" rel="tag">大阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%9C%E5%88%A9%E5%A4%A7%E9%98%85%E5%85%B5/?category=18271" rel="tag">胜利大阅兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BA%A4%E6%98%9315%E5%88%86%E9%92%9F%E6%94%B6%E7%9B%98-%E5%9B%9B%E5%A4%A9%E4%B8%A4%E6%AC%A1%E8%A7%A6%E5%8F%91%E7%86%94/" target="cdt-mirror">奇客资讯 | 中国股市交易15分钟收盘 四天两次触发熔断</a>
 </h2>
 <p><p>受人民币快速贬值等因素的冲击，中国股市周四出现暴跌，触发熔断机制，暂停交易15分钟后重新开盘继续暴跌，再次触发熔断机制，于是股市收盘了。中国股票交易今年正式引入熔断机制以来，开年四天就有两天因为触发熔断机制提前收盘，周四的交易时间更是创下了记录。分析师对中国目前实行的熔断机制<a href="http://www.ftchinese.com/story/001065202?full=y" target="_blank">持批评观点</a>，认为涨跌停板机制已经足够了，熔断设定的阈值过低，太容易触发了。</p>
@@ -610,66 +667,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%9117%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%B8%80%E7%96%91%E7%8A%AF%E4%BF%A1%E6%81%AF%E6%9B%9D%E5%85%89/" target="cdt-mirror">BBC | 银川公交车起火至少17人死亡 一疑犯信息曝光</a>
-</h2>
-<p><p>据中国央视报道，星期二（1月5日）早上7时许，宁夏银川市贺兰县境内一辆公交车行驶期间突然发生火灾，目前事故已造成17人死亡，32人受伤。<br>
-央视在周二中午表示，宁夏公安厅指挥部已发出协查通报，嫌疑人马永平有重大作案嫌疑，并公布了其身份证号。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8F231F8F115BF2D97F8235D5F2FB4F35.jpg" alt="8F231F8F115BF2D97F8235D5F2FB4F35" width="500" height="199" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/8F231F8F115BF2D97F8235D5F2FB4F35-300x119.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/8F231F8F115BF2D97F8235D5F2FB4F35.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></p>
-<p>报道说，马永平名下有三辆车：宁AKN035、宁E32909和宁AJB016。警方正在查缉。</p>
-<p>中国公安部消防局通过官方微博表示，公安部消防局已派出工作组赶赴银川，协助展开火灾原因调查工作。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160105122101a1065.jpg" alt="警方发协查通报" width="500" height="281"><p>警方发协查通报</p></div>
-<p><strong>一疑犯信息曝光</strong></p>
-<p>银川市政府官方微博“银川发布”披露，着火车辆型号为丹东黄海，纯天然气车，核定载客84人；火灾发生时乘客约40多人。</p>
-<p>央视新闻引述银川市政府新闻办说，银川301公交车起火的受伤人员已全部送往宁夏医科大学附属医院总院。</p>
-<p>截至目前，共救治伤员32人，其中重度伤8人、轻度及中度伤24人。受伤人员正在全力救治中。</p>
-<p>早些时候，中国央视引述宁夏消防总队消息说，7时13分，消防部门将火扑灭。</p>
-<p>新华社说，1月5日7时许，一辆车号为宁A22870的301路公交车沿109国道由北向南行驶至银川市贺兰县德胜园区金盛国际家居城路段时起火。</p>
-<p>报道称，事故原因和伤亡人数正在调查核实中。</p>
-<p>据“央视新闻”微博发布的现场视频显示，火灾发生时，熊熊大火已完全吞没公交车。但公交车尾部并没有着火。</p>
-<p>银川公交车大火导致至少17人死亡，“央视新闻”微博目前已有5500多人评论。</p>
-<p>有网友说：“这又让我想起了09年成都9路公交车燃烧事件，也是触目惊心，一片惨烈的撕叫声，真的，愿大家都平安，一切安好！”</p>
-<p>另一位网友说，“03分起火，13分扑灭，可见过火速度多快，都來不及逃生”。</p>
-<p>也有网友问道：“怎么就一下死了那么多人呢……出门坐公交要小心啊”。</p>
-<p><strong>公交车着火事件</strong></p>
-<p>最近几年来，中国多地曾发生公交车着火事件，其中有人为纵火，也有公交车自燃，发生公交车着火事故的城市包括浙江杭州、贵州贵阳、福建厦门和河南新乡等。</p>
-<p>2014年7月5日，杭州一辆7路公交车突然发生火灾。当局共收治伤员32人。警方初步调查怀疑人为纵火，公交车发动机没有着火的痕迹。</p>
-<p>2014年2月27日，贵阳市一辆237路公交车发生燃烧事故，造成6死35伤。警方在2月28日锁定了公交车燃烧案犯罪嫌疑人。</p>
-<p>2013年6月7日，厦门市一公交车在行驶中突然起火，事件造成48人死亡，30多人受伤。案件后来告破，犯罪嫌疑人陈水总被当场烧死。陈水总曾因低保被取消而上访，因自感生活不如意，悲观厌世，而泄愤纵火。</p>
-<p>2011年3月28日，新乡一辆公交车突然发生自燃，但事件未造成人员伤亡，10余名乘客成功自救。</p>
-<p>2010年7月21日，杭州一辆151路公交车突然自燃，但司机及时发现险情，停车并疏散10多名乘客。后来公交车被烧成车架子。</p>
-<p>2009年6月5日，成都一辆9路公交车发生燃烧，事件导致27人死亡，72人受伤。警方后来查明，公交车燃烧事件系故意纵火，62岁犯罪嫌疑人当场死亡。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%9117%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%B8%80%E7%96%91%E7%8A%AF%E4%BF%A1%E6%81%AF%E6%9B%9D%E5%85%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8/?category=18271" rel="tag">成都公交爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8%E5%85%AC%E4%BA%A4%E7%88%86%E7%82%B8%E6%A1%88/?category=18271" rel="tag">厦门公交爆炸案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BA%A4%E8%87%AA%E7%87%83/?category=18271" rel="tag">公交自燃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E5%B7%9D/?category=18271" rel="tag">银川</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB/?category=18271" rel="tag">银川公交车起火</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9D%80%E7%81%AB%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">公交车着火事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E4%B8%BA%E7%BA%B5%E7%81%AB/?category=18271" rel="tag">人为纵火</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E3%80%90%E4%B8%AD%E5%85%B1%E6%83%AF%E6%8A%80%E3%80%91%E6%9D%8E%E6%B3%A2%E3%80%8C%E8%A2%AB%E5%86%99%E4%BF%A1%E3%80%8D%E6%8A%A5%E5%B9%B3%E5%AE%89%EF%BC%9F/" target="cdt-mirror">立场新闻 | 【中共惯技】李波「被写信」报平安？</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160104-15_aDlhh_1200x0.png" alt="20160104-15_aDlhh_1200x0" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/20160104-15_aDlhh_1200x0-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/20160104-15_aDlhh_1200x0.png 750w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><a href="http://www.cna.com.tw/news/firstnews/201601045022-1.aspx">台湾中央社晚上报道</a>，铜锣湾书店失踪的股东李波今天写信给书店员工报平安。他表示，自己人在中国大陆，自己情况很好，一切正常。</p>
-<p>报道指书店陈姓员工晚间接受该社记者访问时表示，今天收到李波传真函。李波在传真函中表示，因为急需处理有关问题，又因为不能让外界知道，因此采取自己的方式返回大陆，以配合「有关方面」的调查。</p>
-<p>回乡卡在家　「自己方式回内地」？</p>
-<p>李波妻子早前表示，李的回乡卡在家中，这意味李并非通过正常合法途径返回内地。</p>
-<p>李波在传真函说，调查可能需要一段时间。目前自己的情况很好，一切正常。</p>
-<p>《星岛日报》晚上亦引述李波妻子称，已到警署销案，并表示今午收到李波传真的亲笔信，顿觉「松一口气」，又指丈夫「情况良好、身体无事」。</p>
-<p>声称是李波信件的全文如下：</p>
-<blockquote><p>陈生：</p>
-<p>我因急需处理有关问题，不能让外界知道，已采取了自己的方式返回了内地，配合有关方面调查，可能需要一段时间。</p>
-<p>书店请你依合约继续营运，书款找数可联络我太太（蔡小姐：xxxxxxxx），或由你垫付，待我回来才一起对账亦可。</p>
-<p>我目前情况很好，一切正常，书店的事麻烦你多费心了。十分感谢！</p>
-<p>李波<br>
-2016.1.3</p></blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%8B%E5%9C%BA%E6%96%B0%E9%97%BB-%E3%80%90%E4%B8%AD%E5%85%B1%E6%83%AF%E6%8A%80%E3%80%91%E6%9D%8E%E6%B3%A2%E3%80%8C%E8%A2%AB%E5%86%99%E4%BF%A1%E3%80%8D%E6%8A%A5%E5%B9%B3%E5%AE%89%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -681,7 +678,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -691,5 +688,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

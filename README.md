@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A6%82%E6%9E%9C%E5%BC%80%E5%BE%81%E6%88%BF%E4%BA%A7%E7%A8%8E%EF%BC%8C%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%B5%9E%E6%88%90%E5%90%97%EF%BC%9F/" target="cdt-mirror">唐映红：如果开征房产税，人们会赞成吗？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%8C%85%E5%AD%90%E6%A2%A6.jpg" rel="attachment wp-att-423311"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%8C%85%E5%AD%90%E6%A2%A6.jpg" alt="秃头倔人_包子梦" width="375" height="511" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/包子梦-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2015/12/包子梦.jpg 490w" sizes="(max-width: 375px) 100vw, 375px"></a><br>
+（当代水墨画“包子梦” by <a href="http://blog.sina.com.cn/cat8981300" target="_blank">秃头倔人</a>）</p>
+<p>Q&A160105</p>
+<p><strong>问：如果开征房产税，人们会赞成吗？</strong></p>
+<p>答：一般来说，<strong>税收是政府的一项权力。</strong>政府通过征收税款来支付政府本身的运营开销、公共支出，以及政策性的社会转移支付以抑制贫富加剧，促进社会公平。税收需要从民众的收入中分一杯羹，因此，没有人会乐意被征税。因此，<strong>民众要同意政府征税，就需要得到公平合理的交易</strong>，提供税收给政府，是要获得相应的公共服务，以及政府主持的国家机器给民众的安全和自由的保障。所以，在一些国家，民众已经普遍地接受，<strong>只有纳税和死亡是人生不可避免的事情。</strong></p>
+<p>因此，<strong>人们赞成政府开征某项税收，必须基于人们相信通过纳税，人们可以从政府那里获得足够且适当的公共服务或安全保障。</strong>所以，当布什政府试图为富豪减免税赋时（2003年），当时美国排名第二的富豪巴菲特挺身而出表态：“<em>我应该被征更多的税。</em>”在美国，巴菲特的税收建议又被称为“<strong>巴菲特规则</strong>”（Buffett rule），并被接下来的奥巴马政府所采纳（2011年）。</p>
+<p>换言之，<strong>如果政府与民众有着公平的契约，并以此为基础由民众授权政府以公权力，民众对政府的税收持普遍的赞成态度完全是有可能的。</strong>事实上，更重要的是，在以契约为基础组织的现代社会里，<strong>没有经过民众同意的税项，政府是无法开征的。</strong>道理很简单，因为税法并不由政府自行决定，而是由制衡政府的议会来立法，而议会则是代表着最广泛民意的权力机构。可以这么说，<strong>在一个基于契约的现代社会里，没有人们的赞成，政府就不可能征任何税；而政府开征任何税，都必然基于人们的授权同意。</strong></p>
+<p>但如果政府与民众之间并无公平的契约，政府的权力亦非授自民众，而被来自垄断资源的权力集团所操纵，那么<strong>民众对税收就不可能持普遍的赞成态度</strong>。从权力心理学的角度，当权力集团垄断了所有社会资源，获得以国家暴力机器加持的公权力，却丝毫也不会受到有效制衡，那么<strong>权力者就会近乎本能地将私利凌驾于公共服务之上。</strong>此时，无论权力者为了巩固权力、遏制挑战、消除威胁，还是对外大撒币、穷奢极欲地耀武扬威，<strong>所有的花销都来自税收</strong>。此时，<strong>民众并任何权利来抵制、反对，哪怕是质疑权力集团的征税。</strong>此时，<strong>人们对税收的赞成或不赞成已经毫无意义。</strong>当权力集团需要一些冠冕堂皇的pose时，很容易制造出“人们”普遍赞成开征房产税的现象。经过被控制的媒体，以及经过训练的朝阳群众，<strong>整个社会处处喜迎开征房产税</strong>的局面并不难做出来。</p>
+<p>具体到房产税。<strong>在土地被全面国有，住房仅有最多70年使用权；而且通过权力集团的操控推高房价的社会语境下</strong>，赵家想征收房产税，或者换个词，想掠夺，又有什么好奇怪的。作为被强征的民众，如果想令自己舒坦一点，就赞成赵家开征，<strong>假装他们是取之于民，用之于民。</strong>而那些赵家公知们，<strong>从赵老爷强暴一个丫鬟还要嘘寒问暖一番中看出渐进改良的希望，想想也是醉了。</strong></p>
+<p>2016-01-05<br>
+——————————————–<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" rel="attachment wp-att-416940"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="350" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes-298x300.png 298w, http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png 427w" sizes="(max-width: 427px) 100vw, 427px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A6%82%E6%9E%9C%E5%BC%80%E5%BE%81%E6%88%BF%E4%BA%A7%E7%A8%8E%EF%BC%8C%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%B5%9E%E6%88%90%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%A8%8E%E4%BA%BA/?category=18271" rel="tag">纳税人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E7%A8%8E/?category=18271" rel="tag">房产税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%86%E5%93%AA/?category=18271" rel="tag">拆哪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E7%A8%85/?category=18271" rel="tag">负稅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8A%AF%E5%BC%BA%E6%B1%89%E8%80%85%EF%BC%8C%E8%99%BD%E8%BF%9C%E5%BF%85%E5%A4%B1%E8%B8%AA/" target="cdt-mirror">六神磊磊：犯强汉者，虽远必失踪</a>
 </h2>
 <p><p><em>【编者注】作者微信原文已被和谐（ID: dujinyong6）。下文内容来自<a href="http://chuansong.me/n/2116711">传送门</a>。</em></p>
@@ -87,7 +108,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5/?category=18271" rel="tag">你也配姓赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E7%8B%97/?category=18271" rel="tag">赵家狗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%BB%8E%E8%B5%B5%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%AF%8D%E7%9A%84%E7%AA%9C%E7%BA%A2%E7%9C%8B%E6%9D%83%E8%B4%B5/" target="cdt-mirror">自由亚洲｜未普：从“赵家人”一词的窜红看权贵与百姓的对立</a>
 </h2>
@@ -817,25 +838,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9D%80%E7%81%AB/" target="cdt-mirror">【真理部】宁夏银川公交车起火致17人死亡</a>
-</h2>
-<p><p>宁夏银川公交车起火致17人死亡事件，各新闻网站要注意审核跟帖评论，必要可关闭评论。网站和媒体在没有权威机构正式认定结论之前，不要发表任何猜测式评论。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p>附：中新网：宁夏银川公交车着火追踪：死亡人数已升至17人</p>
-<p>　　中新网1月5日电 银川市委办公厅、市政府办公厅官方微博发布最新消息：截止目前，301路公交车大火事件死亡人数已升至17人。</p>
-<p>　　今日7时许，银川市公交公司301路公交车由贺兰县天骏花园开往银川火车站途中，在109国道金盛国际家居广场门口突然发生火灾。</p>
-<p>　　事故发生后，宁夏回族自治区公安厅发布协查通报，追捕造成公交起火案犯罪嫌疑人马永平。</p>
-<p>　　协查通报称，1月5日7时08分，银川公交公司301公交车在贺兰县109国道金盛国际家居广场门口起火，造成重大人员伤亡。经调查，嫌疑人马永平有重大作案嫌疑，嫌疑人名下有三辆车分别是宁AKN035、宁E32909、宁AJB016。现宁夏各地公安机关已迅速启动应急预案，启动市县卡口和出省卡口，对嫌疑人和车辆进行查缉。</p>
-<p>　　【最新消息】银川301公交车大火遇难人数上升至17人（男性8人，女性9人）</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9D%80%E7%81%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%81%E5%A4%8F%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%A4%A7%E7%81%AB/?category=18271" rel="tag">宁夏银川公交车大火</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -847,7 +849,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -857,5 +859,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

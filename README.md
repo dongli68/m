@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8A%AF%E5%BC%BA%E6%B1%89%E8%80%85%EF%BC%8C%E8%99%BD%E8%BF%9C%E5%BF%85%E5%A4%B1%E8%B8%AA/" target="cdt-mirror">六神磊磊：犯强汉者，虽远必失踪</a>
+</h2>
+<p><p><em>【编者注】作者微信原文已被和谐（ID: dujinyong6）。下文内容来自<a href="http://chuansong.me/n/2116711">传送门</a>。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B8%B8%E5%A8%81.jpg" rel="attachment wp-att-424260"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B8%B8%E5%A8%81.jpg" alt="常威" width="535" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/常威-300x192.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/常威.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a></p>
+<p><strong>文／六神磊磊</strong></p>
+<p><strong>一</strong></p>
+<p>今天我们来读《水浒传》。</p>
+<p>水浒传里有一个人，叫做小旋风柴进。看过书的都知道，这个人吊儿郎当，有个最大的毛病，就是喜欢搞独立王国，躲在朝廷管不到的地方搞七搞八。</p>
+<p>他的倚仗是什么呢？不过就是拿了一张所谓的“丹书铁券”，而且还是以前的太祖皇上发给他的，说是犯了事情也不能追究，仿佛一个大宋还搞起两套办法来了，对别人是一个办法，对他柴家是一个办法。</p>
+<p>柴进就得意洋洋起来，在自己的小庄子上收留犯人、胡说八道，老做些搅乱的事。</p>
+<p>可是，这个什么“丹书铁券”真的有用吗？在水浒中，它很快就被打回了原形。</p>
+<p>江湖上不久就出了一名侠客，叫做殷天锡，大概是白眉鹰王殷天正的师兄弟。他和郑屠、裴如海、蒋门神并称水浒四大侠客之一。殷天锡大侠看不惯柴进的气焰，上前教训柴进。</p>
+<p>不出所料，柴进又故伎重演，拿着丹书铁券当护身符：“我家也是龙子龙孙，放着先朝丹书铁券，谁敢不敬？”</p>
+<p>殷天锡一声断喝，用两个大义凌然的字对他进行了怒斥：</p>
+<p>“放屁！”</p>
+<p>结果怎么样？柴进被殷侠客狠狠收拾了一顿，还失了踪。梁山上的人怎么都找不到他，最后才发现他被丢在一口井里面，打成了猪头。这就是教训。</p>
+<p><strong>二</strong></p>
+<p>所以，不要以为躲在什么避风港里，就可以胡说八道的。不只是《水浒传》，金庸先生也早就说过这个道理。</p>
+<p>比如有一个人曾经不服，他叫做韦小宝。</p>
+<p>他曾经向自己的姑姑（陶宫娥）提过一个很幼稚的问题：神龙教真的很厉害么？可不可以说他们的坏话？</p>
+<p>姑姑大惊失色，立刻严正教育他：</p>
+<p>“人家徒子徒孙甚众，消息灵通之极，就算是在背后，言语中也不可得罪了他。”</p>
+<p>韦小宝仍然不服：我躲在安全的地方胡说八道几句，能把我怎么样？姑姑马上警告他：“得罪了神龙教教主，却是海角天涯，再无容身之地。”</p>
+<p>结果呢，还没过几章，韦小宝果然就被神龙教的章老七一顿暴打，失踪在鬼屋里。</p>
+<p>一句话：犯强汉者，虽远必失踪。</p>
+<p>又比如天山童姥，她老人家是最慈祥和蔼的，但是她的手下哪怕住得再远，甚至在什么三十六洞、七十二岛，连快递都到不了的地方，也绝对没有人敢对她胡说八道。</p>
+<p>听听当时的江湖黑社会头子乌老大是怎么说的吧：</p>
+<p>“就算是在万里之外，背后提到这老贼婆之时，谁也不敢稍有不敬之意，向来都以 ‘老夫人’相称。”不然你就准备失踪吧。</p>
+<p><strong>三</strong></p>
+<p>江湖上，对于恶意说三道四、搞七搞八的人，从来都没有法外之地。</p>
+<p>韦一笑躲在西域，以为是法外之地，灭绝师太不是杀过来了么？</p>
+<p>谢逊躲在灵蛇岛，以为是法外之地，大侠陈友谅不是找过来了么？</p>
+<p>还有苏轼躲在湖州发牢骚，以为是法外之地，开封首都不知道，最后不是被搞了么？包龙星躲在尚书家，以为是法外之地，可以说水师提督的坏话，最后不是被喂饼了么？还有李大钊躲在俄国使馆，以为是法外之地……</p>
+<p>就好像前面说的柴进，以为有什么丹书铁券，其实那就是个饼；还有包龙星，你以为老妈传给你的真是尚方宝剑么？那就是个咸鱼。</p>
+<p>最后用一首歌来结尾吧：小河弯弯，向南流；流到香江，去看一看。东方之珠，整夜未眠，守着丹书铁券或咸鱼的诺言。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8A%AF%E5%BC%BA%E6%B1%89%E8%80%85%EF%BC%8C%E8%99%BD%E8%BF%9C%E5%BF%85%E5%A4%B1%E8%B8%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%A4%96%E4%B9%8B%E5%9C%B0/?category=18271" rel="tag">法外之地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E5%BB%B7/?category=18271" rel="tag">朝廷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">赵国人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E7%B2%BE%E8%B5%B5%E7%8B%97%E8%AF%A5%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%B9%A6%E5%95%86%E7%9A%84%E7%8B%82%E5%90%A0%E4%BA%86/" target="cdt-mirror">苹果日报｜李平：精赵狗该停止对书商的狂吠了</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225">李波太太以收到丈夫报平安的传真为由向警方销案，相信中国当局让这封传真流出，最主要目的是想透过李太销案而阻止香港舆论继续热议李波被失踪，同时让他供认“以自己的方式”到中国协助调查，也为案件的定性和处理埋下伏笔。但是，无论是在北京的赵家的狗，还是在香港的精赵狗，都叫得太凶了，反而让更多人听到了，坏了赵家要转移视线的打算。</p>
@@ -66,7 +109,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?category=18271" rel="tag">阿Q</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%9C%A8%E8%B5%B5%E5%9B%BD%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%8D%E5%A7%93%E8%B5%B5%EF%BC%8C%E5%A7%93%E9%9C%BE/" target="cdt-mirror">高爽：在赵国，我们不姓赵，姓霾</a>
 </h2>
@@ -793,26 +836,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B3%95%E5%BA%AD%E9%BB%84%E7%89%9B%E5%85%9A/" target="cdt-mirror">【图说天朝】法庭黄牛党</a>
-</h2>
-<p><p>@迟夙生律师：今天朋友圈里发的最幽默图片，去年不立案得憋到什么程度，新年开局法院立案都整出黄牛党来了，真是温馨到家了！</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/FL99L.jpg" alt="FL99L" width="550" height="733" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/FL99L-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/01/FL99L.jpg 600w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>@TY记者文戈：年底不立案是很多法院的替规则。</p>
-<p>@火箭军司令：立案真难。我遇到的情况有:当事人必须亲自到场，不到场不立案；起诉状必须用四号字打印，非四号字的不立案；当事人签名必须用黑色墨水笔，用蓝色墨水笔和用圆珠笔签名的不立案；证据必须齐全，不齐全不立案；必须按照立案庭指示追加被告，不按指示办不立案；立案庭庭长开会或出差，当天不立案，等等。</p>
-<p>@南宁阿陈：窝草，我大天朝的黄牛可以分门别类载入史册了。</p>
-<p>@爱__摄影：奇葩的是高院要求结案率，这就是不懂法律的行政官员转任法官搞得怪。</p>
-<p>@蒋祖权评论：奇征异兆，盖过历朝。</p>
-<p>@用户2wacgple5s：法官们都卖身赚钱了！黄牛党岂有不卖票赚钱的道理？</p>
-<p>@粉色小金龙：这是赵家大法啊！</p>
-<p>@火星人来地球稳食啦2013：为得就是怕拉低年终结案率！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B3%95%E5%BA%AD%E9%BB%84%E7%89%9B%E5%85%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%9C%E8%A7%84%E5%88%99/?category=18271" rel="tag">潜规则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E9%99%A2/?category=18271" rel="tag">法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%89%9B/?category=18271" rel="tag">黄牛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%8B%E6%A1%88/?category=18271" rel="tag">立案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%89%9B%E5%85%9A/?category=18271" rel="tag">黄牛党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -834,5 +857,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%9C%E8%A7%84
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

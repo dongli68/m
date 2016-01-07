@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF-%E7%8E%AF%E6%97%B6%E8%AF%84%E6%9D%8E%E6%B3%A2%E6%A1%88%EF%BC%9A%E5%BC%BA%E5%8A%9B%E9%83%A8%E9%97%A8%E5%8F%AF%E8%A7%84%E9%81%BF%E6%B3%95%E5%BE%8B%E8%A6%81%E8%A2%AB%E8%B0%83/" target="cdt-mirror">法广 | 环时评李波案：强力部门可规避法律要被调查者配合</a>
+</h2>
+<p><p><strong>中国近年来挂在嘴边的“依法治国”，原来只是说说而已，中共喉舌环球时报6日就香港政治“禁书”出版商李波在香港离奇失踪一案发表社评，间接承认可以有法不依，指大陆的“强力部门”可以“规避法律”，让被调查者配合。</strong></p>
+<p>该社评又承认，香港一家小小的书店其实可以“挖了内地法治的墙脚”，“给内地维护秩序制造了特殊干扰”。</p>
+<p>泛民立法议员陈志全指，环时的社论是“画公仔画出肠”，等于承认大陆当局在香港将李波带返内地。</p>
+<p>以出售大陆政治敏感书籍为主的铜锣湾书店，5个负责人及职员相继失踪，目前下落仍然未明，持有英国护照的李波失踪已8日，其余4人失踪超过一个多月。另一名与李波合作的瑞典籍出版商桂民海，去年10月在泰国巴提雅失踪迄今，其家人并未在香港报案。</p>
+<p>保安局局长黎栋国表示，已向内地发函请求协助，正等候回覆，需予对方时间处理，有需要会查问进展。被问到李波称以“自己方式”回内地，香港的边界是否中门大开，黎栋国称不应过份揣测。</p>
+<p>环球时报的社评提到李波现人在大陆出现，是否符合基本法时，社评说，关键在于李波以什么方法入境，指如大陆警员到港对其采强制行动，“‘五花大绑’塞进警车带过检查站，那肯定不行”，但“全世界的强力部门”通常有“规避法律”让人配合调查的办法，而“不跨越制度底线”。</p>
+<p>社评提别批评铜锣湾书店出售大陆所不容的“禁书”，指书店虽开在香港，但它很大程度上面向内地读者出版、销售政治书籍，“因而事实上双脚跨到香港和内地两个社会中。它给内地维护秩序制造了特殊干扰，挖了内地法治的墙脚。内地围绕它开展调查，不仅‘理’站得住脚，也是符合中国法律的。””</p>
+<p>人民力量议员陈志全指出，就算李波触犯内地法例，但他身在香港，不能由任何人士在香港抓他返内地执法，他批评上述讲法是强国逻辑：“意思是执行人员不是公职人员佩戴证件，就做甚么都可以，令香港人非常震惊，简直无法无天，公然在社论讲‘我犯法，但你抓不到我呀，我大过或超越法律’，不用讲道理，可以打横来！”陈促请港府应尽快要求内地当局澄清有关立场。</p>
+<p>民主党立法会议员涂谨申表示，环球时报的“社评演绎令人震惊”，认为香港出入境管制属特区自治范围之一，如内地有“强力部门”认为可绕过特区的出入境管制做事，“是非常不尊重一国两制”，质疑“是否与国家主席习近平打对台”。</p>
+<p>记协及独立评论人协会均发声明批评该社评“言论荒谬、令人震惊、制造白色恐怖”，两团体促请港澳办、中联办及特区政府澄清香港与内地是否存在“规避法律”，令基本法荡然无存。</p>
+<p>根据环球时报2004年10月8日第六版的“答读者问”，“强力部门”是俄罗斯特有的一个政治名词，是“在军事和安全领域执行特种任务的俄罗斯执法部门”。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF-%E7%8E%AF%E6%97%B6%E8%AF%84%E6%9D%8E%E6%B3%A2%E6%A1%88%EF%BC%9A%E5%BC%BA%E5%8A%9B%E9%83%A8%E9%97%A8%E5%8F%AF%E8%A7%84%E9%81%BF%E6%B3%95%E5%BE%8B%E8%A6%81%E8%A2%AB%E8%B0%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%A2%83%E6%89%A7%E6%B3%95/?category=18271" rel="tag">越境执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BA%A4%E6%98%9315%E5%88%86%E9%92%9F%E6%94%B6%E7%9B%98-%E5%9B%9B%E5%A4%A9%E4%B8%A4%E6%AC%A1%E8%A7%A6%E5%8F%91%E7%86%94/" target="cdt-mirror">【网络民议】政党也应该有熔断机制</a>
 </h2>
 <p><p>受人民币快速贬值等因素的冲击，中国股市周四出现暴跌，触发熔断机制，暂停交易15分钟后重新开盘继续暴跌，再次触发熔断机制，于是股市收盘了。中国股票交易今年正式引入熔断机制以来，开年四天就有两天因为触发熔断机制提前收盘，周四的交易时间更是创下了记录。分析师对中国目前实行的熔断机制<a href="http://www.ftchinese.com/story/001065202?full=y" target="_blank">持批评观点</a>，认为涨跌停板机制已经足够了，熔断设定的阈值过低，太容易触发了。（奇客资讯）</p>
@@ -645,28 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/423959/" target="cdt-mirror">【图说天朝】孝悌忠信 誓戒邪淫</a>
-</h2>
-<p><p><a href="http://weibo.com/elifeeducation" target="_blank">@青杏网</a>：杏粉发来的，据说某高校图书馆每张书桌上都有一张。生气、失望！我们这些民间力量在不停提供正确的性知识性观念，却苦于力量小声音传不到校内，结果学校却 在任由这些恐吓教育、羞耻教育、污名教育在高校肆虐！你倒是给我说说，自慰是怎么导致性病艾滋的？<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB1.jpg" rel="attachment wp-att-423965"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB1.jpg" alt="邪淫1" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/邪淫1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/邪淫1.jpg 639w" sizes="(max-width: 639px) 100vw, 639px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB2.jpg" rel="attachment wp-att-423964"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%82%AA%E6%B7%AB2.jpg" alt="邪淫2" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/邪淫2-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/邪淫2.jpg 639w" sizes="(max-width: 639px) 100vw, 639px"></a></p>
-<blockquote><p>孝悌忠信 誓戒淫邪／婚前禁欲 婚后节欲</p>
-<p>姑娘，你知道未婚先孕多伤你爸爸的心吗？</p>
-<p>此时还不悔悟，所以更大的苦果还在后面</p></blockquote>
-<p><strong>相关阅读：</strong></p>
-<blockquote>
-<ul><li>【<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%AF%B9%E7%90%86%E7%A7%91%E5%A5%B3%E7%94%9F%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%98%AF/" target="_blank">图说天朝】对理科女生来说，在清华大学学习是怎样的体验？</a></li>
-<li><a title="女声｜官方“孝道家风”学习材料惊现“红颜祸水”论" href="http://chinadigitaltimes.net/chinese/2015/05/%E5%A5%B3%E5%A3%B0%EF%BD%9C%E5%AE%98%E6%96%B9%E5%AD%9D%E9%81%93%E5%AE%B6%E9%A3%8E%E5%AD%A6%E4%B9%A0%E6%9D%90%E6%96%99%E6%83%8A%E7%8E%B0%E7%BA%A2%E9%A2%9C%E7%A5%B8%E6%B0%B4/" target="_blank">女声｜官方“孝道家风”学习材料惊现“红颜祸水”论</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/11/%E6%90%9C%E7%8B%90%EF%BD%9C%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%95%B4%E9%A1%BF%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91-%E5%A9%9A%E5%A4%96%E6%81%8B%E4%B8%80%E5%A4%9C%E6%83%85%E9%A1%BB%E5%88%A0%E9%99%A4/" target="_blank">搜狐｜广电总局整顿网络视频 婚外恋一夜情须删除</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2012/08/%E4%BA%BA%E6%B0%91%E7%BD%91%E8%A2%AB%E6%9B%9D%E5%AE%A3%E6%89%AC%E5%90%83%E7%B2%BE%E6%B6%B2%E5%A5%BD%E5%A4%84-%E9%81%AD%E5%9B%B4%E8%A7%82%E5%90%8E%E6%92%A4%E4%B8%8B%E5%8E%9F%E6%96%87/" target="_blank">人民网被曝“宣扬”吃精液好处 遭围观后撤下原文（图）</a></li>
-</ul></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/423959/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85/?category=18271" rel="tag">艾滋病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E6%81%8B%E8%A7%82/?category=18271" rel="tag">婚恋观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E6%95%99%E8%82%B2/?category=18271" rel="tag">性教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E7%A7%91%E5%AD%A6/?category=18271" rel="tag">伪科学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -688,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

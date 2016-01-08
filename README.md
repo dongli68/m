@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E6%B5%81%E8%A1%8C%E7%9A%84%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">东网｜乔木：赵家人流行的原因</a>
@@ -46,7 +46,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%9C%A8/?category=18271" rel="tag">乔木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%99%93%E8%BE%89/?category=18271" rel="tag">吴晓辉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E9%95%95%E5%9F%BA/?category=18271" rel="tag">朱镕基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5/?category=18271" rel="tag">权贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E8%B5%84%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">权贵资产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%B0%8F%E9%B2%81/?category=18271" rel="tag">陈小鲁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%AF%85/?category=18271" rel="tag">陈毅</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%99%88%E4%B8%B9%E9%9D%92%EF%BC%9A%E7%AC%91%E8%B0%88%E5%A4%A7%E5%85%88%E7%94%9F/" target="cdt-mirror">陈丹青：笑谈大先生</a>
 </h2>
@@ -704,7 +704,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -714,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E8%BF%99%E6%98%AF%E8%82%96%E9%92%A2%E4%B8%8E%E7%8E%8B%E6%AC%A3%E4%BA%89%E5%A4%BA%E5%A4%B4%E6%9D%A1%E7%9A%84%E4%B8%80%E5%A4%A9/" target="cdt-mirror">花儿街参考｜这是肖钢与王欣争夺头条的一天</a>
+</h2>
+<p><p>林老湿的一天是这样度过的。当我回首往事的时候,想到这一天虽然碌碌无为、虚度年华，但我绝不悔恨；想到我为人卑鄙、生活庸俗，但我更不愧疚，因为这一天我看到了更卑鄙、更庸俗的存在。我会说“我把这24小时的生命和全部的精力献给了世界上最壮丽的事业——观看头条争夺大战”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/00.jpg" rel="attachment wp-att-424458"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/00.jpg" alt="00" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/00-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/00.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
+<p>昨儿监管层半夜鸡叫，暂停熔断。</p>
+<p>你妹！林老湿刚千娇百媚地跟某业内专家约了一篇关于熔断的专栏，估计他还没有写，就尼玛黄了！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/01.jpg" rel="attachment wp-att-424470"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/01.jpg" alt="01" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/01-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2016/01/01.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>紧接着有微博大V传出证监会主席肖钢卸任的消息，林老湿在一个群里问“为什么熬到这会儿才卸任？”，围观群众纷纷表示，谁愿意接这烫手山芋？</p>
+<p>看他们一个个绝世独立的表情，林老湿心里就翻过一万个白眼，你们都这么知难而退么，反正我愿意啊！我愿意！我愿意！（有没有人听到我的呐喊）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/02.jpg" rel="attachment wp-att-424469"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/02.jpg" alt="02" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/02-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/02.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>早起看到好多人纪念周总理逝世40周年，深深觉得，如何成为一个让人缅怀的好总理，也许没有资本市场、货币不能自由兑换也是必要的先决条件。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/03.jpg" rel="attachment wp-att-424468"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/03.jpg" alt="03" width="300" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/03-208x300.jpg 208w, http://chinadigitaltimes.net/chinese/files/2016/01/03.jpg 311w" sizes="(max-width: 311px) 100vw, 311px"></a></p>
+<p>公号狗林老湿开始琢磨着写篇关于某会主席的文章，然后手欠地刷进了快播王欣的审判直播。</p>
+<p>虽然A股今天没熔断，但是我的一天就这样被快播的庭审熔断了，太尼玛精彩了！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/04.jpg" rel="attachment wp-att-424467"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/04.jpg" alt="04" width="485" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/04-187x300.jpg 187w, http://chinadigitaltimes.net/chinese/files/2016/01/04-638x1024.jpg 638w, http://chinadigitaltimes.net/chinese/files/2016/01/04.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><span><strong>公诉人一直说，快播屏蔽了4000多个黄色网站，比例太少，既然是比例嘛，就要有基数，敢问黄色网站总数是多少？</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/05.jpg" rel="attachment wp-att-424466"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/05.jpg" alt="05" width="485" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/05-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/05.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><span><strong>还有陌陌和阿里躺枪！</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/06.jpg" rel="attachment wp-att-424465"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/06.jpg" alt="06" width="485" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/06-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/06.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><strong><span>以及，这一次神助攻！</span></strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/07.jpg" rel="attachment wp-att-424464"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/07.jpg" alt="07" width="500" height="424"></a></p>
+<p><span><strong>关于是谁举报了快播，腾讯一直跳进太液池液洗不清，现在终于上岸了，可怜了那个卖薯片的，跟着躺枪</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/08.jpg" rel="attachment wp-att-424463"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/08.jpg" alt="08" width="500" height="207" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/08-300x124.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/08.jpg 640w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/09.jpg" rel="attachment wp-att-424462"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/09.jpg" alt="09" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/09-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/09.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/10.jpg" rel="attachment wp-att-424461"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/10.jpg" alt="10" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/10-300x124.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/10.jpg 609w" sizes="(max-width: 609px) 100vw, 609px"></a></p>
+<p>眼看着满朋友圈都在直播快播的庭审，人生被点击量牵着鼻子走的林老湿毅然决定放弃某会主席的点评文章，跟随头条的方向，BB几句快播庭审。</p>
+<p>王欣并非正义，可他被更不正义地对待了。还有检察官童鞋，你若不是猴子派来帮王欣的，还是提高一下业务修养为好。</p>
+<p>就在林老湿准备开始瞎BB时，刷屏的风向又变了</p>
+<p>OMG!扶贫的第一步是先把散户折腾穷了么？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/11.jpg" rel="attachment wp-att-424460"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/11.jpg" alt="11" width="485" height="863" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/11-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2016/01/11.jpg 640w" sizes="(max-width: 485px) 100vw, 485px"></a></p>
+<p>于是，少女林老湿彻底沉沦在肖钢主席与犯罪嫌疑人王欣的头条争夺战中。而汪峰，你在哪里？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/12.jpg" rel="attachment wp-att-424459"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/12.jpg" alt="12" width="485" height="299" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/12-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/12.jpg 500w" sizes="(max-width: 485px) 100vw, 485px"></a></p>
+<p><strong>附作者转载要求：</strong></p>
+<p>原创文章，转载请附下面的二维码，并于正文前显著处注明来源、微信公众号ID(zaraghost)、作者，否则视为侵权，必找你麻烦<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg" rel="attachment wp-att-419541"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg" alt="花儿街参考" width="485" height="189" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/花儿街参考-300x117.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/11/花儿街参考.jpg 640w" sizes="(max-width: 485px) 100vw, 485px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E8%BF%99%E6%98%AF%E8%82%96%E9%92%A2%E4%B8%8E%E7%8E%8B%E6%AC%A3%E4%BA%89%E5%A4%BA%E5%A4%B4%E6%9D%A1%E7%9A%84%E4%B8%80%E5%A4%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">互联网监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">熔断机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%AE%A1%E5%8A%9E/?category=18271" rel="tag">网管办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E4%BD%A0%E7%9A%84%E6%AF%8F%E4%B8%80%E6%AC%A1%E5%91%BB%E5%90%9F%E9%83%BD%E5%B0%86%E6%88%90%E4%B8%BA%E5%91%88%E5%A0%82%E8%AF%81%E4%BE%9B/" target="cdt-mirror">王五四 | “你的每一次呻吟都将成为呈堂证供”</a>
 </h2>
 <p><p>2014年8月8日，全国“扫黄打非”办称，涉嫌网上传播淫秽色情信息的快播公司CEO王欣被抓捕归案。苍老师，作为快播出镜率最高的人之一，你的每一次呻吟都将成为呈堂证供。</p>
@@ -584,40 +626,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E5%A5%B3%E7%94%9F%E5%B0%B1%E4%B8%9A-%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F/" target="cdt-mirror">人民日报 | 女生就业 为啥这么难？</a>
-</h2>
-<p><p><strong>今天，我们先把目光聚焦在女毕业生群体，听听她们的故事。</strong></p>
-<p>“现在放开二孩政策了，以后哪个单位还要女生啊？”</p>
-<p>“现在放开二孩政策了，以后哪个单位还要女生啊？”听到屋内两名大夫在讨论“全面放开二孩政策”，小陈的心里咯噔一声，心想这次求职也许又会败在“临门一脚”。</p>
-<p>来自西南某省的小陈，2012年考入上海某知名大学土木工程专业，今年大四，正奋斗在求职路上。前几日她应聘某单位，过五关斩六将进入了最终环节——体检，可是当录用名单出来时，小陈还是“榜上无名”。“被录用的几名同学我基本都认识，都很优秀，也都是男生。”回忆起前几日收到的应聘结果，这个爽朗的姑娘难掩失落，“我一开始以为是自己身体指标不合格，还专门去别的医院复查了，都说没有任何问题。也许真的是男生与这个岗位的匹配度更高吧。”</p>
-<p>小陈现在收到了5份不错的录用通知，其中有一家单位明确告诉她，录用小陈是因为单位女性太少。这个理由让小陈哭笑不得，“这样的工作机会，来得让我感觉很挫败。”</p>
-<p>“这次参加体检，无意间听到大夫这样说，心里真的很紧张，担心上一次应聘的‘悲剧’再次上演。”小陈说，“说实话，我也承认‘全面放开二孩’政策会对女生的职业选择产生较大影响，可是每一个个体都不一样啊。比如说我，可能还是只会想要一个孩子，对工作的影响也没有那么大。现在在应聘中，我和我的女同学们感觉一进面试现场，自己就被归类了，而相反，‘男生’两个字自带光环。”</p>
-<p>在面试中，小陈遇到过不下3次直接关于预期生产年龄、家庭事业冲突等问题。“有一次，面试官问我准备几年后要孩子，从面试官的语气中我明显感觉到那种刻意的挑剔。我实在没忍住，说了句‘首先，我得先有一个男朋友吧。’意外的是，那次面试我居然进终面了。也许用人单位就是想确认我短期内不会要孩子吧。”说到这里，小陈顿了顿，苦笑着端起手中的水杯。</p>
-<p>“女性的生育能力在社会发展层面来说，原本是一项重要贡献，为什么变成了自身发展的束缚和被‘歧视’的理由呢？要是到时候大家都选择少生或者不生，是不是才能倒逼社会真的重视呢？”小陈拿出手机里保存的“二孩政策”漫画图，打趣道。</p>
-<p>“女性不仅需要承担生育代价，也被赋予更多家庭责任”</p>
-<p>来自北京某高校的小君是传播学专业的硕士研究生，在北京上学6年了。说起在求职过程中女生受到的歧视，这个开朗的天津姑娘一下子滔滔不绝起来。</p>
-<p>“在许多国企，尤其是银行的招聘中，我们班的大多数男生都可以通过简历筛选，而女生往往只有一两个通过。但除了性别这一点区别，并不是所有通过的男生都强于女生，有些女生无论是成绩、实习经历、学生工作等都很优秀，但很难通过简历关。”</p>
-<p>小君说，她在应聘过程中遇到过几次明确标明倾向于选择男生的现象，而且不少是体制内单位，如一些国企、出版社、事业单位等。例如“岗位需要经常加班，男生更为合适”“岗位更适合男生应聘”等。</p>
-<p>“我觉得一些国企和体制内单位应当承担更多的社会责任，树立正确的风向标。但在求职过程中，它们反而让我和我的同学更明显地感受到是‘性别歧视’的单位。”小君坦言，体制内单位的选择标准给她和她的同学们造成了很大的求职压力。</p>
-<p>是什么原因造成了这种男女生求职不平等现象？</p>
-<p>小君认为，女性不仅在生理上需要承担生育带来的一些外部代价，同时也被赋予了更多的照顾家庭的责任。在女性必须承担家庭方面的社会压力的同时，实际上男性也被这种社会文化逼到了角落——必须奋斗不止、事业有成，哪怕现在已经有许多人认为重视家庭、性格温和的男性更值得认可，但这基本上也是要建立在“小有所成”的基础上的。“这是一个恶性循环。”小君直言，现在很多用人单位作出的选择，跟社会大环境有着密切的联系。</p>
-<p>谈起在招聘过程中用人单位主要考虑的产假和哺乳假，小君认为，现在只针对女性的产假和哺乳假政策本身即是一种隐性歧视，“政策方面，产假、哺乳假等政策在保障了权益的同时也实际上将女性聚焦在歧视的中心，企业的确有理由更少地雇佣需要更多假期的员工。”</p>
-<p>“有一次一个面试官问我对‘性别歧视’怎么看，我很紧张，但我还是坦诚地回答，在社会层面我承认男女不平等的存在，并愿意以平和的心态正视它；但在个人层面，我希望我个人不受这种观念的影响。”说完，小君的电话响起，恰是一家单位的面试通知。</p>
-<p>“传统偏见才是真正束缚我们的枷锁”</p>
-<p>“‘会喝酒，会开车吗？’室友咬咬牙回答‘会。’‘可能这个岗位还是更适合男生。’”小北略显无奈地讲起室友前几天在求职现场与面试官的一组对话。在对面试官提出的质疑都予以肯定正面的回答后，小北的室友还是没能得到她的理想岗位。</p>
-<p>小北是北京某高校文科院系的大四学生，是学校登山社团的骨干，作风干练。在求职过程中，她先后向互联网、咨询、金融、广告公关等行业的20余家单位投递过简历，共收到5次左右面试通知。“比例不算高，但我们同级一个男生投递简历命中率百分之百。坦率地说，最开始我会有一些失望，后来也慢慢能够接受了。”</p>
-<p>“我觉得就我自身而言，作为女生在求职过程中受到的‘区别对待’主要体现在简历筛选环节，进入面试后，我很少遇到直接对性别相关问题直接发问的。”小北理了理自己的冲锋衣，开玩笑般地说道，“可能是我自带‘女汉子’气场吧。”</p>
-<p>小北说，只有一次在面试中，她被礼貌地询问作为女生是否能适应该岗位的高强度工作，“面试官提到过做这一行可能比较辛苦，压力比较大，加班较多，问我作为女生是否能够胜任，但在我明确表示自己本身热爱该行业且吃苦耐劳以后还是得到了该职位。在面试过程中人力部门主管曾提到本来想让我去市场部门，但那边主管表示已经有很多女员工希望进一个男孩，所以就让我去电子商务部门面试，这在我看来属于部门间性别比例的调适，不算性别歧视。”小北坦言，自己是同班女生中找工作比较顺利的那一个。</p>
-<p>“我知道你们就想让我选稳定的那一个，那也得考虑职业发展前景啊。”小北带着央求的语气接起家里打来的电话，跟父母商量关于选择哪一个岗位作为自己踏入社会的第一份工作。“家里长辈都劝我选择稳定的岗位，说女孩子不适合长期出差、跑市场，以后得更多地兼顾家庭。说实话，我感觉这种心态和导向还是带有普遍性。”面对父母的期待与自己职业发展的冲突，小北坦言这是更深层次的“就业性别歧视”。</p>
-<p>“这种让我们无处可逃的‘传统偏见’才是真正束缚我们的枷锁。即便我们十分努力地获得了理想的岗位，用人单位也‘一碗水端平’给予我们平等的机会、公平的环境，但是父母的唠叨、期待，以后家庭的需求与伴侣的要求，可能才是真正长期制约我们发展的无形之手。我男朋友就说照顾家庭以后主要靠我。”获得好几份录用通知的小北，陷入了另一种焦虑和纠结。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E5%A5%B3%E7%94%9F%E5%B0%B1%E4%B8%9A-%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">二胎政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">开放二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E4%B8%9A%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">就业歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别不平等</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -629,7 +637,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -639,5 +647,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

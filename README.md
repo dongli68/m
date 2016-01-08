@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,68 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/424393/" target="cdt-mirror">“文件加了密你为什么不解密呢”：快播案公审部分亮点内容</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg" rel="attachment wp-att-424404"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg" alt="ed1eb4c1jw1ezqq2pphbij20gi09d0v8" width="440" height="250" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8-300x170.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<p><strong>内容摘自新浪直播间<a href="http://live.sina.com.cn/zt/app_zt/l/v/news/kuaibo/">文字直播</a>，由数字时代编辑按时间顺序整理：</strong></p>
+<p>王欣：快播播放器开发了五六年时间，是全能型播放器，只要是视频文件都能打开。播放器本身无法分辨播放的是不是淫秽视频，这个技术全世界都做不到。<span><strong>播放器有一个搜索入口，但用的是百度、360的搜索引擎，只是提供了一个便捷方式</strong></span>，也可以搜索字幕。</p>
+<p><span><strong>王欣：如果采用人工防范方式来逐一观看处理不良画面，公司就开不下去了</strong></span>。业内都不会做这样的工作。</p>
+<p>王欣：据我所知，没有专门针对工具类软件的互联网管理条例。我们自己的防范系统都是我们自己摸索出来的。</p>
+<p><span><strong>王欣：我们对用户的本地文件有关键字的监控，但我们做过了，业内一般不会这样做，但我们跟深圳当地网监做了沟通，还是做了，并且受到了他们的表扬。</strong></span></p>
+<p><span><strong>王欣：世界上没有哪家公司对工具的使用者进行实名制认证。</strong></span></p>
+<p>王欣：涉案的4台缓存服务器中，被缓存下来的文件也许会也许不会被用户调取。缓存服务器不是快播必要的组成部分。</p>
+<p><span><strong>王欣：快播是互联网软件服务商，我们不提供内容服务。</strong></span></p>
+<p>王欣：缓存服务器中的文件是临时文件。对临时文件识别是非常难的过程。</p>
+<p><span><strong>王欣：在信息监管方面，我们在十八大期间实施了一系列监管方式，受到了深圳网监的表扬。</strong></span></p>
+<p>王欣：屏蔽系统除了关键字之外，还有网站的域名。淫秽网站被我们发现后，我们拒绝向其提供服务。</p>
+<p>王欣：我们没有接到用户举报说我们缓存服务器有问题。</p>
+<p><span><strong>王欣：我们对网监部门的监管要求都落实到位。</strong></span></p>
+<p><span><strong>公诉人：明知管不了淫秽视频，为什么公司不转型？王欣：我们公司不具备做内容的基因；其次，做技术并不可耻，坚持做技术的人很难得，为什么要去转型？</strong></span></p>
+<p>王欣：我自己也有小孩，我不希望他看到色情内容。所以我们设置了110系统。但如果我们的产品是在国外，那不会有这样的系统。</p>
+<p>王欣：我们是凭借经验来判断是不是有不良内容，无法具体判断色情文件具体存在哪个地方。</p>
+<p>王欣：快播事业部的收入主要分三部分，为广告收入、和搜索引擎的分成合作、部分会员收入。会员服务和迅雷的很相似。</p>
+<p>王欣：资讯窗口内的资讯来自于其他网站。</p>
+<p>问：淫秽视频发布者为什么选择快播的系统来发布？王欣：因为我们的播放效果非常好，很多年打不开的视频都可以打开。</p>
+<p>吴铭：起诉书所指控内容完全不符合事实。</p>
+<p>吴铭：我职务是快播事业部经理。快播事业部靠软件本身来盈利，比如状态栏的广告分成。</p>
+<p><span><strong>吴铭：110系统运行的挺好，网监还给我们发了奖状。</strong></span></p>
+<p><span><strong>吴铭：我认为那4台服务器根本就不是快播的服务器。里面的视频不知道是谁的，我看起诉书都觉得挺好笑的。</strong></span></p>
+<p><span><strong>吴铭：北京市公安局从上述服务器中的三台服务器里提取了29841个视频文件进行鉴定，认定其中属于淫秽视频的文件为21251个。这个数据太可笑了，很可能是做的。这怎么可能呢？<span>难道一天到晚没事做光看这个？</span></strong></span></p>
+<p><span><strong>张克东：我对起诉书中的指控内容有意见，起诉书中的“明知”我有意见。快播是一个开放平台，谁都可以用。我们对热门内容进行缓存，不识别内容是不是非法。</strong></span></p>
+<p>张克东：110系统从2011年就开始做了。王欣提出来，我负责开发。后来110系统的运营由牛文举负责。110系统由多少人负责我就不知道了。</p>
+<p>张克东：王欣要求我们不能和淫秽视频沾上边。110系统不间断运行。</p>
+<p>张克东：110系统屏蔽的参数有两个，一个是网址，一个是视频文件的关键字。</p>
+<p><span><strong>张克东：屏蔽参数来自三个渠道，一个是公安网监给我们；第二是用户举报系统；第三是我们自己发现的也会录入进去。</strong></span></p>
+<p><span><strong>张克东：我听说110系统和深圳网监有对接。单位有个专门的办公室，里面网监还挂了个锦旗。</strong></span></p>
+<p>张克东：世界上没有一种技术可以识别缓存服务器上的文件是不是淫秽视频。</p>
+<p>张克东：国家没有明确要求软件使用时需要实名制认证。</p>
+<p><span><strong>辩护人：正常的视频文件有没有可能被误杀？就是宁可错杀三前不可错放一个？张克东：是的。</strong></span></p>
+<p><span><strong>张克东：三台服务器里提取了29841个视频文件中属于淫秽视频的文件为21251个，比例多达70%。我对这个证据有怀疑。首先这个服务器是不是我们的硬盘，其次有没有可能淫秽文件被增多，70%这个比例明显不合中国互联网的常理，所以这个证据我认为有问题。</strong></span></p>
+<p><span><strong>审判长问：文件加了密，你为什么不解密呢？张克东听完愣了一下。</strong></span></p>
+<p>审判长问：110系统对文件的屏蔽采用敏感词方式，文件名称是可以自由改动的，那么敏感词改名后是不是就能传送成功？张克东：是的。</p>
+<p>牛文举：王欣要求我们严格按照深圳网监的要求去做。</p>
+<p>牛文举：我曾经参与过往110系统里录入过不良站点。在2012年的8月到10月间，按照网监和公司的要求，我组织五六个人录入过不良站点。</p>
+<p>牛文举：110系统仍然在线，还在发挥作用。公司培训的信息安全员都在上岗。网监在公司设有警务室。</p>
+<p><span><strong>牛文举：我们有深圳网监对我们的嘉奖证书。</strong></span></p>
+<p><span><strong>牛文举：警务室是深圳网监在我们公司设立的，是警察的办公地点。</strong></span></p>
+<p>审判长问王欣：做110系统到底是基于什么原因？简要说就可以了。</p>
+<p>王欣：110系统其实早就有了，但我们没有和深圳网监沟通，他们不知道我们已经有了。之后网监调查发现我们是有这个系统的，事后还给了我们奖励。110系统我们09年就开始开发了。</p>
+<p><span><strong>审判长：我觉得你们这个110系统功能也不是很复杂啊，技术难度很简单嘛。屏蔽的网址很好改吧？一天可以改100个？</strong></span></p>
+<p>王欣：用户量大的时候，涉及到一个效率问题，后台可能撑不到。</p>
+<p><span><strong>审判长问张克东：你是搞技术的是吧？从你了解来讲，画面拦截能不能达到？</strong></span></p>
+<p><span><strong>张克东：没有这种技术手段。</strong></span></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/ea186e75gw1ezr01uigmyj20c82zs15m-1.jpg" rel="attachment wp-att-424406"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/ea186e75gw1ezr01uigmyj20c82zs15m-1.jpg" alt="ea186e75gw1ezr01uigmyj20c82zs15m" width="440" height="3880"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/424393/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%91/?category=18271" rel="tag">网监</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%AE%A1%E5%8A%9E/?category=18271" rel="tag">网管办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E6%B5%81%E8%A1%8C%E7%9A%84%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">东网｜乔木：赵家人流行的原因</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/space/%E8%B5%B5%E5%AE%B6%E4%BA%BA" target="_blank">赵家人</a>，这一源于鲁迅的<a href="http://chinadigitaltimes.net/space/%E6%9D%83%E8%B4%B5" target="_blank">权贵</a>家族代称，经网民接力加工，旧词焕发新生，简单直接地反映了中国社会日益紧张的朝和野、官和民、权贵和百姓、你们和我们、赵家人和非赵家人之间的社会对立关系。</p>
@@ -646,53 +705,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E4%B8%AD%E8%8B%B1%E5%B1%95%E5%BC%80%E5%A4%96%E4%BA%A4%E4%BA%A4%E9%94%8B/" target="cdt-mirror">BBC｜香港铜锣湾书店案：中英展开外交交锋</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg" rel="attachment wp-att-424009"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg" alt="160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160105131946_cn_philip_hammond_wang_yi_976x549_ap_nocredit.jpg 660w" sizes="(max-width: 575px) 100vw, 575px"></a><p>香港铜锣湾书店五名股东、店员中最新失踪的李波确为英国公民，英国外相哈蒙德在北京与中国外长王毅展开外交角力。</p></div>
-<p>星期二（1月5日）开始访华行程的哈蒙德在与王毅共同召开的新闻发布会上说，李波持有英籍护照，英方已要求香港与中国内地当局协助探查李波的下落与处境。</p>
-<p>中方并未证实李波等人正被内地执法人员扣查，但王毅表态称，李波“首先是中国公民”，警告各方切勿就此案件对中方作出“无谓猜测”。</p>
-<p>李波的蔡姓妻子稍早前向香港警方注销其失踪人口报案。她在星期二向香港媒体证实，一封据称为其“报平安传真”的手写信函确实出自李波手笔。</p>
-<p>在李波失踪后，蔡女士表示丈夫曾以广东深圳的电话号码致电回家，这引起家属等怀疑他被中国大陆执法人员越境抓捕。</p>
-<p>行政长官梁振英表态称，根据《基本法》，香港以外执法人员无权在港执法，“内地执法人员如果在香港执法，是不能接受，因为这不符合《基本法》。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit.jpg" rel="attachment wp-att-424007"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit.jpg" alt="一份据称发自李波的传真写道，他利用“自己的方法”到中国内地“协助调查”。" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160105070542_cn_hongkong_causeway_bay_paul_lee_976x549_afp_nocredit.jpg 624w" sizes="(max-width: 575px) 100vw, 575px"></a><p>一份据称发自李波的传真写道，他利用“自己的方法”到中国内地“协助调查”。</p></div>
-<p><strong>中英外交声明</strong></p>
-<p>在哈蒙德发言前，英国外交部发表声明，证实五名失踪者当中包括一名英国公民（British Citizen）。据BBC了解，此人正是李波。</p>
-<p>香港《明报》稍早前报道，最先失踪的书店母公司巨流传媒负责人桂明海，其在英国读书的女儿以李波持有英国护照为由向英国警方报案，英方正在调查。</p>
-<p>哈蒙德在回答BBC记者提问时说：“我在这个下午向王毅外长提到了有关问题，我们寻求获取任何有关信息，无论是香港还是中国当局所掌握的信息。”</p>
-<p>“我们的看法是，《基本法》与《中英联合声明》（所订明的）‘一国两制’制度，意味着要是有人违反香港法律，有关问题必须在香港由香港的司法体系来解决。”</p>
-<p>“正如香港行政长官梁振英提醒我们，这正是‘一国两制’的重要部分。我们希望无论李先生身在何方，要是他被起诉任何罪名，这些罪名的审判会在香港进行。”</p>
-<p>王毅紧接回应说：“我要向你强调的是，中国中央政府对香港的政策没有任何的变化，我们将会继续坚持‘一国两制、港人治港、高度自治’的方针。”</p>
-<p>“你提出的这个个案，我首先要告诉你的是，根据香港《基本法》和《中华人民共和国国籍法》，他首先是中国公民。”</p>
-<p>“在他本人和他的家属，以及特区政府和中央政府还没有作出表态之前，我看各方没有必要做各种各样的无谓的猜测。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit.jpg" rel="attachment wp-att-424006"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit.jpg" alt="160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit" width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160105070129_cn_hongkong_causeway_bay_book_10_976x549_afp_nocredit.jpg 624w" sizes="(max-width: 575px) 100vw, 575px"></a><p>铜锣湾书店自李波失踪后停业至今。</p></div>
-<p><strong>李波亲笔传真？</strong></p>
-<p>蔡女士此前向BBC证实，李波12月31日晚并未按时回家晚膳。据香港媒体报道，蔡女士于元旦日向警方报案。</p>
-<p>香港警务处星期一晚间透过电邮告知BBC中文网，蔡女士已经销案，但“警方会与报案人保持紧密联系，并继续积极跟进案件”。目前李波与另外三名股东店员的失踪案由港岛总区失踪人口调查组合并调查。</p>
-<p>在蔡女士销案的消息传出后，台湾中央社驻港记者报道，李波透过传真向书店员工报平安，并刊发书店员工提供的传真照片，上面的下款显示日期为1月3日，并有李波签署。</p>
-<p>传真说：“我因急需处理有关问题，不能让外界知道，已采取了自己的方式返回了内地，配合有关方面调查，可能需要一些时间。”</p>
-<p>这封传真要求受函的陈姓店员继续运营书店，并说：“我目前情况很好，一切正常，书店的事麻烦你多费心了。十分感谢！”</p>
-<p>蔡女士星期二下午在寓所外被香港记者追问信函真伪时说：“是真的，那是他的字迹。”</p>
-<p>“我觉得他是自愿的（到中国内地接受调查），所以我取消了报案。”</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna.jpg" rel="attachment wp-att-424008"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna.jpg" alt="这封据称是李波亲笔所写的传真信函下款标明是在1月3日撰写。（台湾中央社图片） " width="485" height="567" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna-257x300.jpg 257w, http://chinadigitaltimes.net/chinese/files/2016/01/160105070625_cn_causeway_bay_paul_lee_letter_950x1110_cna.jpg 624w" sizes="(max-width: 485px) 100vw, 485px"></a><p>这封据称是李波亲笔所写的传真信函下款标明是在1月3日撰写。（台湾中央社图片）</p></div>
-<p>香港支联会主席，民主党立法会议员何俊仁对BBC中文网说，他认为传真信函是真的，而当中似乎要为“大陆公安越境抓捕”这个指控作出“洗脱”。</p>
-<p>何俊仁说，他认为是拘押李波的人要求他写下这封传真，并要求蔡女士向香港警方销案。</p>
-<p>何俊仁说：“不单是香港的传媒，还有国际的传媒都非常关注这事情，所以，我觉得，对这次这样处理这件事情的一些中央的，或者是地方的官员产生了很大的政治压力。”</p>
-<p>属亲北京阵营的亲民党立法会议员兼特区政府行政会议成员叶刘淑仪稍早前对BBC中文网说，她认为李波案有很多疑点，例如李波要是在接受调查状态下，为何之前能致电回家。</p>
-<p>叶刘淑仪说：“手机显示内地电话号码不一定等于这个人在内地。现在很多电话卡都有两个号码……也有电话骗案，有人拿着内地的电话打来，原来是在印尼的。”</p>
-<p><strong>偷渡离港？</strong></p>
-<p>李波的传真声明传出后，港府保安事务官员被媒体记者追问这是否意味着香港边防存有缺失。</p>
-<p>此前，港府证实并无李波的出境记录；蔡女士向香港媒体证实，李波的回乡证仍在家中，而中国边防在一般情况下，只接受中国籍香港居民使用回乡证入境大陆。</p>
-<p>署理保安局局长李家超星期二确认，香港警方已经向中国大陆执法机关要求协助，但他不能公开调查细节，“因为公开后可能会影响调查进度及结果”。</p>
-<p>“至于有报道指失踪人士是用甚么方法到达他现时（所在）的地点，这些警方一定会调查。调查时亦会看看有没有证据涉及一些事情，法律上是否容许。基于证据，按香港法例处理。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit.jpg" rel="attachment wp-att-424010"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit.jpg" alt="李家超称应给予时间让香港警方调查。 " width="575" height="323" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160104092721_cn_hongkong_causeway_bay_book_08_976x549_reuters_nocredit.jpg 624w" sizes="(max-width: 575px) 100vw, 575px"></a><p>李家超称应给予时间让香港警方调查。</p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E4%B8%AD%E8%8B%B1%E5%B1%95%E5%BC%80%E5%A4%96%E4%BA%A4%E4%BA%A4%E9%94%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%A2%83%E6%89%A7%E6%B3%95/?category=18271" rel="tag">越境执法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -704,7 +716,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -714,5 +726,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

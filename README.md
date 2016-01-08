@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/" target="cdt-mirror">【草泥马语】玩币归赵、赵令习改</a>
+</h2>
+<p><p><em>“<a href="http://chinadigitaltimes.net/space/Grass-Mud_Horse_Lexicon_%28arranged_alphabetically%29">草泥马语词典</a>” （英文版翻译为 Grass Mud Horse Lexicon）是中国数字时代的一个中英双语项目，自2010年以来持续收集了许多在网民中热传的种种时政词汇，比如“天朝”、“<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/">法西斯蓝</a>”、“法律不是挡箭牌”等等。我们在不断完善和补充词条内容的同时也希望能将新出炉的“草泥马语”与大家一同分享。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B52.jpg" rel="attachment wp-att-424412"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B52.jpg" alt="玩币归赵2" width="525" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵2-300x229.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵2.jpg 590w" sizes="(max-width: 525px) 100vw, 525px"></a><br><em>（图片来自新浪微博<a href="http://weibo.com/u/2564817342" target="_blank"> @那个宁波的老黄</a>）</em></p>
+<p><strong>玩币归赵</strong>：散户在股市无论怎么“玩”，这钱最后还是都要归“<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">赵家</a>”。是网民对2016年股市首周交易即暴跌的无奈调侃。</p>
+<p><strong>赵令习改</strong>：大量民众认为监管机构对股市交易规则的制定与实施朝令夕改，过于儿戏。这次股市暴跌中，新交易规则“熔断机制”分别在1月4日和1月7日被二度触发，造成恐慌情绪。证监会后宣布1月8日起，中国股市暂停实施熔断机制。</p>
+<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/">为国接盘</a></p></blockquote>
+<p><em>背景新闻（来自BBC中文）：</em></p>
+<p><strong><a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160104_china_stock_plunge">中国股市新年首盘重挫</a></strong></p>
+<blockquote><p>周一（1月4日）中国深证成指与沪指双双低开，中午过后，股市交易在沪深300指数跌幅达5%时第一次触发当天新上路的熔断机制，交易暂停15分钟。交易恢复后再度下挫7%，根据新规则，在13时43分停止交易至收盘。</p></blockquote>
+<p><strong><a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160107_china_stocks_circuit_breaker">中国股市1月8日起暂停实施指数熔断机制</a></strong></p>
+<blockquote><p>周四中国深证成指与沪指双双低开，开盘15分钟内，沪深300跌至5%，触发熔断机制。暂停交易15分钟后，上午10时左右，沪深300继续下挫，跌至7%触发二次熔断。依据今年新上路的熔断机制规定，两市暂停交易直至收盘。</p></blockquote>
+<p><strong><br>
+以下图片及评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5.jpg" rel="attachment wp-att-424413"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5.jpg" alt="玩币归赵" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<blockquote><p><a href="http://weibo.com/u/5729175192" target="_blank">@樊振义-ROC</a>：中国股市，一个成语就能概括——玩币归赵。</p></blockquote>
+<p><a href="http://weibo.com/u/2564817342" target="_blank"> @那个宁波的老黄</a>：#玩币归赵#世界是我们的，也是你们的，终归是他们的。<a title="那个宁波的老黄" href="http://weibo.com/u/2564817342" target="_blank"><img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></a></p>
+<p><a title="闫德坤" href="http://weibo.com/321048484" target="_blank">@闫德坤</a>：朋友圈对中国股市的诠释：你玩的再拼，结果都是“玩币归赵”！<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
+<p>@Miraclelmj梦想佳：股市就是玩币归赵。公务员都是按赵章办事，成天赵本宣科，天天梦想着吉星高赵，顶多也是回光返赵。吾等能做的就是真实写赵。</p>
+<p>@晓樓殘窗：玩幣歸趙：無論你玩得有多好，那些鈔票最後都是趙家的。</p>
+<p>@文山娃：谁是大陆股市熔断机制测试领导小组小组长啊？凭其收集散户钱包的强大能力，一定能成为全世界赌场老板的偶像。</p>
+<p>@查良钧：不管你玩不玩，你的币都得归赵。</p>
+<p><strong>附</strong>：证监会新闻发言人邓舸就暂停实施熔断机制答记者问的内容，在微博引来一片骂声。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%AF%81%E7%9B%91%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E9%82%93%E8%88%B8%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE.png" rel="attachment wp-att-424414"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%AF%81%E7%9B%91%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E9%82%93%E8%88%B8%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE.png" alt="证监会新闻发言人邓舸答记者问" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/证监会新闻发言人邓舸答记者问-169x300.png 169w, http://chinadigitaltimes.net/chinese/files/2016/01/证监会新闻发言人邓舸答记者问-577x1024.png 577w, http://chinadigitaltimes.net/chinese/files/2016/01/证监会新闻发言人邓舸答记者问.png 601w" sizes="(max-width: 601px) 100vw, 601px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%A3%E6%88%B7/?category=18271" rel="tag">散户</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">熔断机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6/?category=18271" rel="tag">赵家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/424393/" target="cdt-mirror">“文件加了密你为什么不解密呢”：快播案公审部分亮点内容</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg" rel="attachment wp-att-424404"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg" alt="ed1eb4c1jw1ezqq2pphbij20gi09d0v8" width="440" height="250" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8-300x170.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
@@ -687,24 +719,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6%E3%80%81%E4%B9%A0%E5%A4%B6%E7%AD%89%E7%83%AD%E7%82%B9-2016-1-5/" target="cdt-mirror">【敏感词库】“赵王回车”、“赵家人”等热点 2016-1-5</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u.jpg" rel="attachment wp-att-424059"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u.jpg" alt="赵国送朝" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/a135c8f0jw1ezoxeft6jyj20hs0bv74u.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><em>图片来源：新浪微博@萬钟於我何加焉</em></span></p>
-<p>［新浪微博搜索禁词测试时间：2016年1月5日］</p>
-<p><strong>赵家人</strong>（<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">相关专题</a>）</p>
-<p><strong>赵王回车</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/12/423275/">军报详解习近平键盘发微博：自主研发平台 </a>&<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%B0%8F%E4%B9%96-%E5%8F%91%E5%BE%AE%E5%8D%9A%E5%BE%A1%E7%94%A8%E9%94%AE%E7%9B%98/">【网络民议】请按那个橙色键</a> ）<br><strong> 习夶</strong>（即“习大大”；“夶”：bǐ ）<br><strong> 刁＋大</strong><br><strong> 习＋矛盾信号</strong></p>
-<p><strong>三里屯＋恐怖袭击</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/12/422714/">【立此存照】美帝“又”给中国人扣屎盆子了</a> ）<br><strong> 圣诞＋恐怖袭击</strong></p>
-<p><strong> 局域网大会</strong>（指<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%95%87%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/">乌镇互联网大会</a>）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%AE%B6%E4%BA%BA.png" rel="attachment wp-att-424054"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%AE%B6%E4%BA%BA.png" alt="赵家人" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵家人-300x126.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家人-768x323.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家人-1024x430.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家人.png 1190w" sizes="(max-width: 1190px) 100vw, 1190px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6.png" rel="attachment wp-att-424040"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6.png" alt="赵王回车" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车-300x126.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车-768x324.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车-1024x432.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/赵王回车.png 1193w" sizes="(max-width: 1193px) 100vw, 1193px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%E5%A4%B6.png" rel="attachment wp-att-424035"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%E5%A4%B6.png" alt="习夶" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习夶-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习夶-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习夶-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/习夶.png 1195w" sizes="(max-width: 1195px) 100vw, 1195px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E7%9F%9B%E7%9B%BE%E4%BF%A1%E5%8F%B7.png" rel="attachment wp-att-424034"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E7%9F%9B%E7%9B%BE%E4%BF%A1%E5%8F%B7.png" alt="习 矛盾信号" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号-300x127.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号-768x324.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号-1024x432.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/习-矛盾信号.png 1192w" sizes="(max-width: 1192px) 100vw, 1192px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%81-%E5%A4%A7.png" rel="attachment wp-att-424037"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%81-%E5%A4%A7.png" alt="刁 大" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/刁-大-300x128.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/刁-大-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/刁-大-1024x438.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/刁-大.png 1184w" sizes="(max-width: 1184px) 100vw, 1184px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E9%87%8C%E5%B1%AF-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" rel="attachment wp-att-424033"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E9%87%8C%E5%B1%AF-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" alt="三里屯 恐怖袭击" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-恐怖袭击.png 1193w" sizes="(max-width: 1193px) 100vw, 1193px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9C%A3%E8%AF%9E-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" rel="attachment wp-att-424038"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9C%A3%E8%AF%9E-%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB.png" alt="圣诞 恐怖袭击" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击-300x128.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击-1024x438.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/圣诞-恐怖袭击.png 1189w" sizes="(max-width: 1189px) 100vw, 1189px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%A4%A7%E4%BC%9A.png" rel="attachment wp-att-424039"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%A4%A7%E4%BC%9A.png" alt="局域网大会" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会-300x127.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会-768x326.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会-1024x435.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/局域网大会.png 1189w" sizes="(max-width: 1189px) 100vw, 1189px"></a></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6%E3%80%81%E4%B9%A0%E5%A4%B6%E7%AD%89%E7%83%AD%E7%82%B9-2016-1-5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B/?category=18271" rel="tag">赵王</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%8E%8B%E5%9B%9E%E8%BD%A6/?category=18271" rel="tag">赵王回车</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -716,7 +730,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -726,5 +740,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

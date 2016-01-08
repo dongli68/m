@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6%E4%BB%A4%E9%A6%99%E6%B8%AF%E4%BA%BA%E4%BA%BA%E8%87%AA%E5%8D%B1/" target="cdt-mirror">纽约时报｜“禁书”书商失踪事件令香港人人自危</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge.jpg" rel="attachment wp-att-424429"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge.jpg" alt="本周，抗议者手持五名失踪出版商的照片，包括李波的头像（右二）。" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><p>本周，抗议者手持五名失踪出版商的照片，包括李波的头像（右二）。</p></div>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/">铜锣湾书店员工失联事件</a>专题</p></blockquote>
+<p>香港——一位专门出版有关中国领导人的八卦书籍的香港编辑消失了。他的妻子向警方作了有人失踪的报案。但在接到一份传真后，她突然撤案。传真显然是她丈夫的字体，称他自愿前往中国内地，协助一项调查。香港边境官员却没有他出境的任何记录。</p>
+<p>李波（英文名Paul Lee）的情况，以及他的<a href="http://cn.nytimes.com/china/20160105/c05china/" target="_blank" rel="nofollow">四名失踪同事</a>的情况，具有一部间谍惊险小说的所有要素。但是，对这个英国前殖民地720万居民来说，他的失踪、以及他看似在把香港与中国其他地方隔开的边境的另一边的出现，已经引起许多人的极度恐惧。他们对一国两制安排下，这里的人直到本世纪中叶可免受北京管理的法律保障产生了怀疑。</p>
+<p>此案也制造了让中国大陆与英国的关系出现紧张气氛的威胁。英国最近一直在推进与中国的关系，宣布了两国关系“<a href="http://www.theguardian.com/world/2015/sep/19/george-osborne-embrace-china-dont-fear-its-rise" target="_blank" rel="nofollow">黄金十年</a>”的开端。周二，英国外交大臣菲利普·哈蒙德(Philip Hammond)在访问北京期间表示，李波是英国公民。他在第二天还表示，如果像许多香港人所担心的那样，李波是被从香港绑架到内地接受指控的话，这将是对1984年协议的“<a href="http://uk.reuters.com/article/uk-hongkong-publisher-britain-idUKKBN0UK19W20160106" target="_blank" rel="nofollow">令人震惊的违反</a>”。该协议开启了香港回归中国的历程。中国对此发表了一个简短的反驳，一位女发言人说，中国反对“任何外国干涉中国内政”。</p>
+<p>对法律学者和人权团体来说，李波的情况，以及他在巨流传媒 有限公司(Mighty Current Media)的四名同事的情况，是中国政府机器之手不断延长的最新例子。随着中国经济实力的增长，中国似乎越来越愿意超越自己的法律管辖范围行事。在美国，中国政府官员对住在这里的因腐败而受通缉的中国籍人士<a href="http://cn.nytimes.com/world/20150817/c17agents/" target="_blank" rel="nofollow">施加压力</a>，迫使他们返回中国。去年10月在缅甸，有关人员<a href="http://cn.nytimes.com/china/20151013/c13lawyersson/" target="_blank" rel="nofollow">将一名少年绑架</a>回国。这位少年的母亲是一名人权律师，被关押在中国大陆。</p>
+<p>“随着中国与世界各地的交往越来越多，这些问题也更加频繁地出现，”纽约大学美国亚美法研究所的共同主任孔杰荣(Jerome A. Cohen)说。“这不仅是中国法律波及范围的延伸，也是中国无视法律做法的影响范围的延伸。”</p>
+<p>对香港居民来说，受中国司法的波及是近在咫尺的事情。北京认为，在香港出生的华人，只要他们不宣布放弃中国国籍，<a href="http://www.hklii.hk/chi/hk/legis/instrument/204/paragraph.html" target="_blank" rel="nofollow">即使他们持有外国护照</a>，也仍是中华人民共和国公民。这是在英国统治香港150多年后将其主权于1997年<a href="http://www.nytimes.com/learning/general/onthisday/big/0630.html#article" target="_blank" rel="nofollow">归还</a>给中国的结果。就在哈蒙德透露李波的英国公民身份之际，中国外交部长王毅在周二表示，李波“首先是一名中国公民”。</p>
+<p>“失踪书商案在所有香港人心中引起恐慌，香港人在密切关注此案，”人权观察(Human Rights Watch)中国问题研究员王松莲(Maya Wang)说。</p>
+<p><strong>在中国，民族主义、爱国主义与公民观念是紧密交织在一起的，这让官员对谁应该效忠北京有一种膨胀的看法。于2011至2014年间出任美国驻中国大使的骆家辉(Gary F. Locke)，他的<a href="http://www.nytimes.com/2011/08/18/world/asia/18china.html" target="_blank" rel="nofollow">任命</a>曾被人们认为是一个好选择，因为他是华裔。但是，当人们清楚地认识他在代表美国时，<a href="http://www.chinanews.com/gn/2014/02-27/5892576.shtml" target="_blank" rel="nofollow">官方新闻媒体</a>对他嗤之以鼻，认为他背叛了自己的民族。</strong></p>
+<p><strong>“自古以来，中国人认为，如果你是中国人，即使你跑到地球的尽头，你也是中国人，”北京大学退休的国际研究教授梁英明说。他于1955年从印度尼西亚移民到中国大陆。“但是，这是不符合现实的。”</strong></p>
+<p>周一晚间，随着一份传真浮出水面，围绕着李波案的戏剧性色彩继续弥漫。这份由台湾一家新闻社公开的传真，据称是李波发给巨流传媒下属的一家书店的店员的。李波的妻子是巨流传媒的持股人之一。</p>
+<p>传真写道，“我因急需处理有关问题，不能让外界知道，已采取了自己的方式返回了内地，配合有关方面调查，可能需要一些时间。”</p>
+<p>目前还不清楚李波在协助进行何种调查，但巨流传媒是推出有关中国领导人的几乎没什么根据的耸动图书最多的出版社之一。它会做很多其他出版商认为是禁区的图书选题，包括有关国家主席习近平的感情生活的书籍。这些书很受去香港的内地游客的欢迎，因为它们在内地是被禁的。巨流传媒另一名大股东桂民海是瑞典公民，他在去年10月中旬从自己位于泰国的共管公寓里消失。据说他可以在短短一个月内写出这样一本标准长度的书。</p>
+<p>孔杰荣等法律学者表示，李波是自愿离开香港的说法颇为牵强，且不说他的旅行证件还在家里，不知为什么竟能避开严格的边境管控。他们认为，让被绑架者写信为当局洗脱其不正当行为，是一种常用伎俩。周三，当地最大的英文报纸《南华早报》(South China Morning Post)报道，在失踪之前<a href="http://www.scmp.com/news/hong-kong/law-crime/article/1898370/he-vanished-hong-kong-bookseller-thought-no-harm-would-come" target="_blank" rel="nofollow">接受采访</a>时，李波曾表示，四名同事在10月份失踪后他并不担心自己的安全，因为他已经“很多年”没有去过内地，也不打算去。</p>
+<p>香港立法会的一名建制派议员吴亮星(Ng Leung-sing)的说法让此事更加扑朔迷离。他<a href="https://www.hongkongfp.com/2016/01/05/finance-sector-lawmaker-missing-booksellers-arrested-for-illegally-entering-mainland-for-sex/" target="_blank" rel="nofollow">在周二称</a>，“一位老朋友”告诉他，李波及其失踪同事实际上是偷偷越过将这片前英国殖民地与内地分开的边境，<a href="http://www.scmp.com/comment/insight-opinion/article/1898456/hong-kong-lawmaker-ng-leung-sing-making-name-himself-all" target="_blank" rel="nofollow">去那边嫖妓</a>，然后当场被抓。第二天，他又道了歉。</p>
+<p>“最近出现的说法，即几名出版商去深圳然后因为嫖妓在深圳被抓，真是荒唐可笑。大家都知道，这是共产党惯用的抹黑方式，”香港大学法学院前任院长陈文敏(Johannes Chan)通过邮件接受采访时表示。去年9月，校委会<a href="http://www.nytimes.com/2015/10/01/world/asia/hong-kong-university-votes-against-promoting-johannes-chan.html" target="_blank" rel="nofollow">否决</a>陈文敏出任该校一个高层职位，在校园里引发了大规模抗议活动。很多教职员工和学生将这一决定归因于来自北京的压力。</p>
+<p><em>傅才德(Michael Forsythe)是《纽约时报》记者。</em><br><em> 欢迎在Twitter关注 <a title="Link: https://twitter.com/PekingMike" href="https://twitter.com/PekingMike" target="_blank" rel="nofollow">@PekingMike</a>。</em><br><em> Kiki Zhao、Yufan Huang自北京对本文有报道贡献。</em><br><em> 翻译：Cindy Hao</em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6%E4%BB%A4%E9%A6%99%E6%B8%AF%E4%BA%BA%E4%BA%BA%E8%87%AA%E5%8D%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/ngo4u-%E4%BB%8E%E7%BE%8E%E4%B8%BD%E5%B2%9B%E5%88%B0%E5%A4%A7%E5%80%BE%E5%90%AC%EF%BC%8C%E9%BE%99%E5%BA%94%E5%8F%B0%E7%BB%99%E4%B8%8D%E4%BA%86%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%A6/" target="cdt-mirror">NGO4U | 从美丽岛到大倾听，龙应台给不了的中国梦</a>
+</h2>
+<p><p>关注NGOCN，公益视野大不同</p>
+<p>作者：小田</p>
+<blockquote><p>龙应台昨天来北大演讲了，题目是《倾听一个人的记忆》，六年前她也在北大演讲过，当时谈的是《文明的力量：从乡愁到美丽岛》，这个美丽岛不仅是民歌的美丽岛，还是陈菊、陈水扁经历过的美丽岛。</p></blockquote>
+<p>2010年，那时龙应台还是龙部长，被邀请到北大作主题为“中国梦”的演讲，还拿了南方周末颁发的“二零一零中国梦践行者”奖杯，当然，那时中国梦还未成为铺天盖地的宣传语，南方周末也还未试图说出“中国梦，宪政梦”。这个《野火集》的作者，虽未在北大“放火”，但也戳了不少“和谐点”。（中国数字时代编辑注：点击<a href="http://www.21ccom.net/articles/lsjd/lsjj/article_2010081015350.html#rd">此处</a>，查看2010年龙应台演讲原文）</p>
+<p>想不到六年后卸任部长，回归书桌的龙应台，火气更少了，龙应台这次北大演讲的主题，跟小编夏天在香港书展听基本一致，谈倾听、谈抢救历史、赞政府抢历史的行动，但她还是多说了一点点别的。</p>
+<p>当听到对于“倾听”的强调时，让人不禁想问，<strong>在不能说的时代，你能听到什么？</strong>“大倾听时代”看上去很美，很重要，可是如果言论自由得不到保障，受过苦的人不敢说、说出来的话被删除，任你怎么用力听，有的也只是一种声音。</p>
+<p>龙应台在演讲中说到：“<strong>有些遗忘，是因为总有人设局，在那个‘局’里头强化你的欢乐，扩大你的无知让你慢慢长大，让你遗忘</strong>”、“记忆更是一种权利，凡是权利，就有被人拿走的可能”。</p>
+<p>例如小编就好健忘，NGOCN的公众号最近又被“失联”了，有读者发现这个新号的数字是4，于是猛问“1、2、3是怎么死的”，既然都被封杀了，看不见了，我还怎么可能记得呢？</p>
+<p>倾听的建议是很好，可是想去倾听，前提是有人在说。说太多、听太少的人固然多，提倡倾听有利于交流和发展，可是捂你嘴的人也不少，尤其是有些人(例如某微信资深用户“多人”)可以把自己不喜欢的声音抹掉，这种情况下，不是你不愿“做功课”去听，而是连那些声音的存在都不知道，倾听时代又从何谈起？</p>
+<p>记得在夏天的讲座现场，龙应台说希望能通过脸书跟未能在现场提问的观众互动，台下内地观众大喊“上不了！”，她知趣地回应说会学着用微博。微博是个什么玩意？是一个可以让律师因7条发言而获刑三年的玩意！</p>
+<p>龙应台会为因言获罪的台湾老兵落泪，因为他们是她爱的美丽岛土地上的人，她不愿这些故事、这些名字被遗忘，她要去抢救记忆。与此同时，在她发言的</p>
+<p>二十一世纪的中国大陆正在发生着：有公益组织印制和派发调研报告、文集被定性为“非法经营”，维权律师被官方喉舌未判先审，新华社争着帮劳工NGO人纪录生平。<strong>这些人并不活在历史中，就在此时此刻，我想，他们最需要的不是二十年后，一个公知在台上为这段黑暗的时期流泪、呼吁大家去倾听去记住，他们需要的是此时此刻的公义和自由，对，现在就要。</strong></p>
+<p>所以，当我看到内地观众为龙应台的演讲动容时，有一种看不下去的揪心。很想冲上去问，你们是否知道“别人”的历史问题正在“我们”的地方上演？难道看着阻止不了的当下，不是更痛吗，不生气吗？</p>
+<p>“你今天不生气，不站出来说话，明天你——还有我、还有你我的下一代。就要成为沉默的牺牲者、受害人！如果你有种、有良心，你现在就去告诉你的公仆立法委员、告诉卫生署、告诉环保局：你受够了，你很生气！ ”这是龙应台在大陆广为流传的作品《中国人你为什么不生气》的结尾，<strong>这种生气需要的不仅是有种，还有公民意识，以及一个会听你“气话”的公仆。</strong>前两天，有一个中国人真的很生气，生气到去烧了公交车，导致17人无辜遇难，在生气到放火前，这个中国人为讨回22万的欠薪去跟劳保局说了很多遍，甚至试过跳楼讨薪，还没“受够了”？他在朋友圈写绝笔信，预告要放火烧车，亲戚跑遍银川派出所，告诉公仆们，有人在听吗？</p>
+<p>六年前，龙应台在北大演讲以她1986年出版《野火集》后，鹤唳风声中准备离开台湾前的告别演讲结束：</p>
+<p>今天晚上站在这里说话，我心里怀着深深的恐惧，恐惧今晚的言词带来什么后果，我的梦想是，希望中国人的下一代可以在任何一个晚上站在任何一个地方说出心里想说的话，而心中没有任何恐惧。我们这一代人所做的种种努力也不过是希望我们的下一代将来会有免于恐惧的自由。</p>
+<p>我比龙应台的大儿子小，论辈份也是龙应台口中的下一代了，但我未曾有过免于恐惧的自由。<strong>六年了，龙应台从谈美丽岛到谈大倾听，我们既然没有获得免于恐惧的自由，一个包容、开阔的中国，也没有获得记忆的权利。</strong></p>
+<p>毕竟，这个“中国梦”不是靠演说达成的。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/ngo4u-%E4%BB%8E%E7%BE%8E%E4%B8%BD%E5%B2%9B%E5%88%B0%E5%A4%A7%E5%80%BE%E5%90%AC%EF%BC%8C%E9%BE%99%E5%BA%94%E5%8F%B0%E7%BB%99%E4%B8%8D%E4%BA%86%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo4u/?category=18271" rel="tag">NGO4U</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18271" rel="tag">NGOCN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E8%A8%80/?category=18271" rel="tag">禁言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E4%B8%BD%E5%B2%9B/?category=18271" rel="tag">美丽岛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E5%BA%94%E5%8F%B0/?category=18271" rel="tag">龙应台</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/424424/" target="cdt-mirror">法广｜中国股市带动全球股市下挫</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0.jpg" rel="attachment wp-att-424425"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0.jpg" alt="2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0" width="550" height="310" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0-768x434.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0.jpg 1024w" sizes="(max-width: 550px) 100vw, 550px"></a><p>2016年1月7日，当上海股市触发熔断机制时，一名投资者正在看股市信息。 路透社/China Daily</p></div>
+<p>中国股市的暴跌对全球股市都造成重击。纽约股市周四早上一开盘就下跌。在欧洲，所有的欧洲股市周四都在中国股市的带动下收盘下跌。</p>
+<p>对于已经26岁的中国股市来说，星期四是史无前例的一天。</p>
+<p>继2016年元旦过后首个交易日A股两次熔断之后，星期四，开盘仅半个小时，沪深300指数暴跌7%，触发“二档”熔断机制，累计交易时间仅约15分钟就提前收市，创下了有史以来的最短交易日。这也是2016年新年之后的第4个交易日，四次熔断、两次提前收市。7日星期四晚间，中国证监会发布关于暂停实施指数熔断机制的通知。</p>
+<p>在仅实施了4天的熔断制度被叫停之后，有消息称，证监会主席肖钢在7日星期四的国务院紧急会议上提出辞职。根据搜狐网的报道，微博名为“曹山石”的账号称肖钢目前已不主持工作，该消息将于周末宣布。</p>
+<p>中国股市的暴跌对全球股市都造成重击。纽约股市周四早上一开盘就下跌。开盘15分钟后，道琼斯工业指数下跌225.48点，报16681.03。标准普尔500(S&P 500)指数下跌26.68点，报1963.58。纳斯达克(NASDAQ)指数下跌83.32点，报4752.45。</p>
+<p>在欧洲，所有的欧洲股市周四都在中国股市的带动下收盘下跌。</p>
+<p>巴黎股市收盘下跌1.72%.四十种工业指数收盘下跌了76,89点，报收4403.58。</p>
+<p>伦敦股市收盘下跌1.96%, 金融时报100种指数收盘下跌了119,30点，报收5954.08。</p>
+<p>法兰克福股市收盘下跌2.29%，达克斯指数收盘报9979.85。</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/424424/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/" target="cdt-mirror">【草泥马语】玩币归赵、赵令习改</a>
 </h2>
 <p><p><em>“<a href="http://chinadigitaltimes.net/space/Grass-Mud_Horse_Lexicon_%28arranged_alphabetically%29">草泥马语词典</a>” （英文版翻译为 Grass Mud Horse Lexicon）是中国数字时代的一个中英双语项目，自2010年以来持续收集了许多在网民中热传的种种时政词汇，比如“天朝”、“<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/">法西斯蓝</a>”、“法律不是挡箭牌”等等。我们在不断完善和补充词条内容的同时也希望能将新出炉的“草泥马语”与大家一同分享。</em></p>
@@ -549,176 +625,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%9D%9E%E6%96%B0%E9%97%BB-2015%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6%E7%BB%9F%E8%AE%A1/" target="cdt-mirror">非新闻 | 2015年中国群体事件统计</a>
-</h2>
-<p><p>2015年记录到群体游行、示威、集会等共计28950起，平均每天79起，比2014年增长了34%，主要增长群体来自与房地产相关的工人和业主，此外，投资人、商户以及环境保护相关群体的增长也比较明显。主要增长地区在河南、河北、江苏等省。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23818595459_85660ae39c_o-1024x589.jpg" alt="23818595459_85660ae39c_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23818595459_85660ae39c_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23818595459_85660ae39c_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23818595459_85660ae39c_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>被镇压和被抓捕</p>
-<p>至少1943起遭到警察镇压（有示威者被抓捕），至少14250人被抓捕。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23559611713_6b267519a9_o.jpg" alt="23559611713_6b267519a9_o" width="600" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23559611713_6b267519a9_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23559611713_6b267519a9_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23559611713_6b267519a9_o-1024x588.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>地区</p>
-<p>河南、广东、河北、江苏等排名前十的省份占总数的64%。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o.jpg" alt="24078361292_59ac35570e_o" width="600" height="383" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o-300x191.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o-768x490.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o-1024x653.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>年底（2月份）讨薪高峰主要发生在河南、河北、安徽、江苏、四川以及湖北，广东相比平时有所下降。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23818595139_e0d306107b_o.jpg" alt="23818595139_e0d306107b_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23818595139_e0d306107b_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23818595139_e0d306107b_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23818595139_e0d306107b_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>群体</p>
-<p>工人、业主、农民占了总数的69%，工人、业主增长明显。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o-1.jpg" alt="24078361292_59ac35570e_o" width="600" height="383" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o-1-300x191.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o-1-768x490.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/24078361292_59ac35570e_o-1-1024x653.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/24078361112_490227fd84_o.jpg" alt="24078361112_490227fd84_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/24078361112_490227fd84_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/24078361112_490227fd84_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/24078361112_490227fd84_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（01）工人：绝大部分是建筑工人，制造、加工、服务业工人占一小部分，国企工人极少。引发示威的原因主要是欠薪，其他原因有失业赔偿、搬迁赔偿、低薪、克扣工资、欠缴社保等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23890786020_0d3a17492c_o.jpg" alt="23890786020_0d3a17492c_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23890786020_0d3a17492c_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23890786020_0d3a17492c_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23890786020_0d3a17492c_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（02）业主：楼盘、小区房产的所有者以及已购买了但未收房的准业主，引发示威的原因主要是楼盘烂尾、开发商不能按时交房、开发商欺诈销售、房屋质量差、物业乱收费、物业不作为、强拆以及环境被（或面临）污染破坏等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23818594959_3746192784_o.jpg" alt="23818594959_3746192784_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23818594959_3746192784_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23818594959_3746192784_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23818594959_3746192784_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（03）农民：引发原因主要是强征、强拆、官员贪腐以及环境被（或面临）污染破坏等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23558214984_9bdce02750_o.jpg" alt="23558214984_9bdce02750_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23558214984_9bdce02750_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214984_9bdce02750_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214984_9bdce02750_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（04）死者家属：医疗事故、交通事故以及警察滥用暴力等事件中死者的家属、亲属，引发原因主要是寻求公道、要求赔偿、要求处罚事件责任人等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23890785890_4301600249_o.jpg" alt="23890785890_4301600249_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23890785890_4301600249_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23890785890_4301600249_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23890785890_4301600249_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（05）投资人：融资公司以及P2P网贷平台倒闭、跑路事件中的受害人，引发原因是不能兑付投资款和利息。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23890785860_11216ea5e0_o.jpg" alt="23890785860_11216ea5e0_o" width="600" height="346" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23890785860_11216ea5e0_o-300x173.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23890785860_11216ea5e0_o-768x442.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23890785860_11216ea5e0_o-1024x590.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（06）商户：各种实体经营场所的商家，引发原因主要租金上涨、经营困难要求减租、强拆以及物业乱收费和不作为等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/24103796551_ceb2a077ca_o.jpg" alt="24103796551_ceb2a077ca_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/24103796551_ceb2a077ca_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/24103796551_ceb2a077ca_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/24103796551_ceb2a077ca_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（07）拆迁户：被政府强拆了房屋的房主，引发原因是赔偿过低或没有赔偿。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23558214654_aa205a01d5_o.jpg" alt="23558214654_aa205a01d5_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23558214654_aa205a01d5_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214654_aa205a01d5_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214654_aa205a01d5_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（08）出租车：引发原因主要有黑车、专车抢走客源，以及规费（份子钱）过高、政府强行收回运营权、要求涨运价等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23558214434_ccac807f13_o.jpg" alt="23558214434_ccac807f13_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23558214434_ccac807f13_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214434_ccac807f13_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214434_ccac807f13_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（09）家长：未成年人的监护人，引发原因主要有争取教育平权、环境等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23558214174_61b678fb3b_o.jpg" alt="23558214174_61b678fb3b_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23558214174_61b678fb3b_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214174_61b678fb3b_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23558214174_61b678fb3b_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（10）教师：引发原因有欠薪、被克扣工资、低薪、欠缴社保等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23559610423_1d0938e868_o.jpg" alt="23559610423_1d0938e868_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23559610423_1d0938e868_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23559610423_1d0938e868_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23559610423_1d0938e868_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（11）路人：非事件的受害人，愿意为公义挺身而出的人，引发原因有城管暴力、警察暴力等。（2014年4月浙江温州苍南城管事件以后，很少再有因城管暴力引发的大规模事件了。）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23818593969_7ff104d906_o.jpg" alt="23818593969_7ff104d906_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23818593969_7ff104d906_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23818593969_7ff104d906_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23818593969_7ff104d906_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（12）车主：车辆质量问题的受害者，引发原因主要是车商拒绝对问题车做出赔偿或赔偿标准过低。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/24160307296_f44b81c277_o.jpg" alt="24160307296_f44b81c277_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/24160307296_f44b81c277_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/24160307296_f44b81c277_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/24160307296_f44b81c277_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（13）退伍军人：引发原因主要是退伍后待遇、福利太低或被克扣等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/23818593509_59df62f05b_o.jpg" alt="23818593509_59df62f05b_o" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/23818593509_59df62f05b_o-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/23818593509_59df62f05b_o-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/23818593509_59df62f05b_o-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（14）公交车：引发原因有低薪、运价低等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%AC%E4%BA%A4%E8%BD%A6.jpg" alt="公交车" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/公交车-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/公交车-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/公交车-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（15）客运车：长途运客车辆，引发原因有运价低、被黑车抢走客源、运营权被政府强行收回等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%AE%A2%E8%BF%90%E8%BD%A6.jpg" alt="客运车" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/客运车-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/客运车-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/客运车-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（16）学生：引发原因主要有学校饭菜差、校方封闭管理谋取私利、负责人卷款跑路等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%AD%A6%E7%94%9F.jpg" alt="学生" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/学生-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/学生-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/学生-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（17）三轮车：载客运营的三轮车，引发原因主要有被政府禁止载客运营、被禁止在城区通行等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E8%BD%AE%E8%BD%A6-1.jpg" alt="三轮车" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/三轮车-1-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/三轮车-1-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/三轮车-1-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"><br>
-（18）医护：医生和护士，引发原因主要有低薪、欠薪、医院改制等。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8C%BB%E6%8A%A4.jpg" alt="医护" width="600" height="345" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/医护-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/医护-768x441.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/医护-1024x589.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（19）通讯用户：中国移动、联通的客户，引发原因是商业欺诈。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%80%9A%E8%AE%AF%E7%94%A8%E6%88%B7.jpg" alt="通讯用户" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/通讯用户-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/通讯用户-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/通讯用户-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"><br>
-（20）失独者：失去独子的计生受害者，引发原因主要是要求政府兑现承诺，对失独者作出赔偿。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%B1%E7%8B%AC%E8%80%85.jpg" alt="失独者" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/失独者-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/失独者-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/失独者-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（21）专车：引发原因有被运管“钓鱼”、与出租车之间的冲突。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%93%E8%BD%A6.jpg" alt="专车" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/专车-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/专车-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/专车-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（22）信徒：基督教、天主教的信徒，引发原因主要是政府强拆教堂。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BF%A1%E5%BE%92.jpg" alt="信徒" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/信徒-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/信徒-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/信徒-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"><br>
-原因</p>
-<p>欠薪、商业欺诈占总数的一半。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8E%9F%E5%9B%A0.jpg" alt="原因" width="600" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/原因-300x175.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/原因-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/原因-1024x597.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8E%9F%E5%9B%A0%E5%AF%B9%E6%AF%94.jpg" alt="原因对比" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/原因对比-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/原因对比-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/原因对比-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（01）欠薪：涉及工人、教师、医护。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AC%A0%E8%96%AA.jpg" alt="欠薪" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/欠薪-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/欠薪-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/欠薪-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（02）商业欺诈：涉及业主、商户、通讯用户。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%95%86%E4%B8%9A%E6%AC%BA%E8%AF%88.jpg" alt="商业欺诈" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/商业欺诈-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/商业欺诈-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/商业欺诈-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（03）强征：涉及农民。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BC%BA%E5%BE%81.jpg" alt="强征" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/强征-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/强征-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/强征-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（04）环境：环境被污染、破坏或面临被污染、破坏，涉及农民、业主、家长。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%AF%E5%A2%83.jpg" alt="环境" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/环境-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/环境-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/环境-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（05）融资诈骗：融资公司倒闭、跑路、不能兑付本金等，涉及投资人。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9E%8D%E8%B5%84%E8%AF%88%E9%AA%97.jpg" alt="融资诈骗" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/融资诈骗-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/融资诈骗-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/融资诈骗-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（06）强拆：涉及农民、拆迁户、信徒、商户。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BC%BA%E6%8B%86.jpg" alt="强拆" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/强拆-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/强拆-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/强拆-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（07）物业：小区、商城的物业管理公司乱收费、不作为，涉及业主、商户。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%89%A9%E4%B8%9A.jpg" alt="物业" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/物业-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/物业-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/物业-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（08）医疗事故：医院过失导致病人死亡，涉及死者家属。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85.jpg" alt="医疗事故" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/医疗事故-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/医疗事故-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/医疗事故-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（09）贪腐：官员贪污腐败，涉及农民、工人（国企）。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B4%AA%E8%85%90.jpg" alt="贪腐" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/贪腐-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/贪腐-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/贪腐-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（10）失业赔偿：工人被雇佣方解雇后、工厂倒闭导致工人失业后，雇佣方拒绝赔偿或者是赔偿金额过低，涉及工人。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%B1%E4%B8%9A%E8%B5%94%E5%81%BF.jpg" alt="失业赔偿" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/失业赔偿-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/失业赔偿-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/失业赔偿-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（11）黑车：涉及出租车。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%91%E8%BD%A6.jpg" alt="黑车" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/黑车-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/黑车-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/黑车-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（12）低薪：工资过低，要求加薪，涉及工人、教师、医护。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BD%8E%E8%96%AA.jpg" alt="低薪" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/低薪-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/低薪-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/低薪-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（13）租金：商城租金暴涨商户无力承担，涉及商户。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%A7%9F%E9%87%91.jpg" alt="租金" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/租金-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/租金-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/租金-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（14）城管暴力：涉及路人。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%9F%8E%E7%AE%A1%E6%9A%B4%E5%8A%9B.jpg" alt="城管暴力" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/城管暴力-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/城管暴力-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/城管暴力-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（15）欠缴社保：雇佣方未缴纳（或未足额缴纳）被雇佣方的五险一金，涉及工人、教师、医护。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D.jpg" alt="欠缴社保" width="600" height="343" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/欠缴社保-300x171.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/欠缴社保-768x438.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/欠缴社保-1024x585.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（16）克扣工资：雇佣方克扣被雇佣方的薪资、奖金等，涉及工人、教师、医护。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%8B%E6%89%A3%E5%B7%A5%E8%B5%84.jpg" alt="克扣工资" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/克扣工资-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/克扣工资-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/克扣工资-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（17）规费：出租车公司向出租车收取的费用（也叫份子钱）太高，涉及出租车。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%A7%84%E8%B4%B9.jpg" alt="规费" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/规费-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/规费-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/规费-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（18）搬迁赔偿：公司搬迁厂区但拒绝对受影响的工人作出赔偿（或赔偿过低），涉及工人。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%90%AC%E8%BF%81%E8%B5%94%E5%81%BF.jpg" alt="搬迁赔偿" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/搬迁赔偿-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/搬迁赔偿-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/搬迁赔偿-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（19）运营权：运营权被政府强行收回，涉及出租车、公交车、客运车。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%BF%90%E8%90%A5%E6%9D%83.jpg" alt="运营权" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/运营权-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/运营权-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/运营权-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（20）警察暴力：涉及路人。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B.jpg" alt="警察暴力" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/警察暴力-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/警察暴力-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/警察暴力-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>（21）运价：运价低要求涨价，涉及出租车、公交车、客运车。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%BF%90%E4%BB%B7.jpg" alt="运价" width="600" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/运价-300x174.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/运价-768x447.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/运价-1024x595.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>备注：</p>
-<p>1）在我们收集到当天的图文资料的情况下，同一事件如持续到第二天或多天，算另一起或多起。</p>
-<p>2）我们的联系邮箱是：darkmamu2@gmail.com，推特账号是：@wickedonnaa ，博客1: http://newsworthknowingcn.blogspot.com 博客2: wickedonna.blogspot.com</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%9D%9E%E6%96%B0%E9%97%BB-2015%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6%E7%BB%9F%E8%AE%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%9C%9D%E9%B2%9C%E5%9C%B0%E9%9C%87%E7%96%91%E6%98%AF%E6%A0%B8%E8%AF%95%E9%AA%8C/" target="cdt-mirror">纽约时报中文网 | 朝鲜地震疑是核试验</a>
-</h2>
-<p><p>作者：CHOE SANG-HUN</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-05-at-%E4%B8%8B%E5%8D%889.39.32.png" alt="Screen Shot 2016-01-05 at 下午9.39.32" width="443" height="497" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-05-at-下午9.39.32-267x300.png 267w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-05-at-下午9.39.32.png 443w" sizes="(max-width: 443px) 100vw, 443px"><br><span>美国地质调查局2016年1月5日发布的图示中，标出了地震位置。震级初步判定为5.1级。 USGS</span></p>
-<p><strong>更新：朝鲜稍早前宣布，已经成功引爆该国第一个氢弹。</strong></p>
-<p>首尔——韩国官员周三表示，他们正在检查朝鲜主要核试验场地附近传出的微震，是不是由核爆炸引发的。</p>
-<p>中国、欧洲、美国的地震台均表示发生了震荡，报告震级在4.9级至5.2不等。位于首尔的韩国气象厅(Korea Meteorological Administration)报告称，发生了4.2级微震，并表示震荡模式似乎是“人为的”，不像天然地震。</p>
-<p>韩国国防部的一位发言人表示，“我们正在检查这是否真的是核试验，还是其他事件。”该发言人按惯例要求匿名。</p>
-<p>官员们确定，这次的震中位于朝鲜丰溪里(Punggye-ri)地下核试验场附近。美国分析师和韩国官员最近都依据卫星图像报告称，朝鲜正在当地的万塔山(Mantap)中挖掘地道。朝鲜之前三次核试验也是在该试验场进行的。上一次核试验是在2013年2月。</p>
-<p><i>（本文更新中，敬请关注。）</i></p>
-<div> <span>翻译：王童鹤</span></div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%9C%9D%E9%B2%9C%E5%9C%B0%E9%9C%87%E7%96%91%E6%98%AF%E6%A0%B8%E8%AF%95%E9%AA%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝鲜核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%97%A0%E6%A0%B8%E5%8C%96/?category=18271" rel="tag">朝鲜无核化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%A2%E5%BC%B9/?category=18271" rel="tag">氢弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E5%AE%A3%E7%A7%B0%E6%8B%A5%E6%9C%89%E6%B0%A2%E5%BC%B9/?category=18271" rel="tag">朝鲜宣称拥有氢弹</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B5%B5%E5%A4%AA%E7%88%B7%E9%98%BFq%E4%BC%9A%E8%B0%88%E8%AE%B0%E8%A6%81/" target="cdt-mirror">【习总日记】 赵太爷阿Q会谈记要</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2015，1，6）</p>
-<p>最近听说民众纠纷不断，起因是赵太爷不许阿Q姓赵。便吩咐秘书去未庄一趟，让赵太爷找阿Q谈谈，搞好两造关系。正值多事之冬，流年不利，地方上少惹事生非。</p>
-<p>以下是赵太爷奉我大大之命找阿Q会谈记录摘要。</p>
-<p>阿Q听说赵太爷找他谈话，心想妈妈的又要出啥幺蛾子。不去。赵太爷一直等到点灯时分仍没见人影，不得不亲自去阿家登门拜访。</p>
-<p>听是赵太爷的声音，阿Q开门侧身让进屋里沏茶倒水。经过改革开放，阿Q毕竟不是先前的阿Q了。</p>
-<p>赵：“阿Q啊，我奉习总之命前来登门向你道歉，为以前不许你姓赵一事，表示由衷的歉意。”</p>
-<p>阿：“赵太爷，那是什么年代的事了，我早已忘得一干二净。不过既然你提起，不妨告诉你。经过多年打听，现已查明，我的确不姓赵。所以，你当年说我不配姓赵，还真让你说对了。”</p>
-<p>赵：“阿Q啊，你这么说更让我深感惭愧，简直无地自容。”</p>
-<p>阿：“不、不、不。真的，不是气话。”</p>
-<p>见赵太爷狐疑的神情，阿Q转身去拿了身份证递给赵太爷。</p>
-<p>赵太爷看仔细后，惊得张大了嘴巴：“阿Q，你，你，你姓习？”</p>
-<p>阿Q的身份证上写着他的姓名：习贵平。</p>
-<p>阿Q微笑着收好了身份证，翘起二郎腿一言不发望着赵太爷。铮亮的皮鞋闪着耀眼的光芒。</p>
-<p>赵太爷一阵头晕目眩差点血管爆裂。</p>
-<p>尴尬了好一阵子，赵太爷勉强挤出笑脸：“阿，哦，习，习先生。请恕赵某人无知，早年得罪了习先生，还请习先生大人不计小人过，高抬贵手，饶恕小人则个。”</p>
-<p>习：“赵太爷，你刚进来我就说了，第一我不姓赵，第二你说的并无过错。我的确不配姓赵。”</p>
-<p>赵太爷此刻犯起阿Q当年的毛病，膝关节自然而然宽松，扑通一声跪倒在习先生脚下，“咚-咚-咚-”磕了三个响头。</p>
-<p>我抬手示意秘书别再继续说下去：“你有没有查查阿Q身份证的真假？”</p>
-<p>秘书回答：“查了。真的假的。”</p>
-<p>我不解：“什么真的假的，到底是真的还是假的？”</p>
-<p>秘书慌忙道：“身份证是真的，名字是假的。是他买通了当地公安局办的真的身份证。”</p>
-<p>我当机立断作出重要指示：“赶紧找到赵太爷，严格保守秘密不许对任何人吐露半句会谈内容。另外通知阿Q，什么都可以姓，就是不准姓习。”</p>
-<p>秘书等着我进一步指示。</p>
-<p>我作进一步指示：“让阿Q姓赵。他不是曾经说他姓赵么。”</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B5%B5%E5%A4%AA%E7%88%B7%E9%98%BFq%E4%BC%9A%E8%B0%88%E8%AE%B0%E8%A6%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -730,7 +636,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -740,5 +646,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

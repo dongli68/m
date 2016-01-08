@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E4%BD%A0%E7%9A%84%E6%AF%8F%E4%B8%80%E6%AC%A1%E5%91%BB%E5%90%9F%E9%83%BD%E5%B0%86%E6%88%90%E4%B8%BA%E5%91%88%E5%A0%82%E8%AF%81%E4%BE%9B/" target="cdt-mirror">王五四 | “你的每一次呻吟都将成为呈堂证供”</a>
+</h2>
+<p><p>2014年8月8日，全国“扫黄打非”办称，涉嫌网上传播淫秽色情信息的快播公司CEO王欣被抓捕归案。苍老师，作为快播出镜率最高的人之一，你的每一次呻吟都将成为呈堂证供。</p>
+<p>塞缪尔·约翰逊老师说：与时间抗争者，面对的是一个刀枪不入的敌手；快播CEO王欣的密友说：开始大家看视频要先下载，而快播只要5-10秒就可以看，快播帮全中国人省了两千年。2016年1月7日，快播涉嫌传播淫秽案开庭审理，作为一名与时间的抗争者，今天王欣面对的敌手是大权在握刀枪不入的法官。</p>
+<p>跟快播一样，迅雷离线当年也是看片神器，前年政府搞净网行动时，有人爆料称“迅雷老板邹胜龙带着他的3.5亿个种子跑路了”，轮到王欣被抓时，大家称他为“中国最有种的男人”，王欣的确有种，当审判长问他对起诉书指控的事实有何异议时，王欣毫不犹豫的回答，“有异议，我认为公诉人的指控是不正确的，快播公司和我个人都不构成犯罪。”</p>
+<p>看了整个庭审过程中各方的对话，法官和公诉人对计算机技术完全不懂，连直播这次庭审的新浪直播员都忍不住了，“今天这场庭审，就是一堆不懂技术的人和技术人员的对话……”，既然腾讯多次举报了快播，你们好歹也派个技术员事先辅导一下法官，否则真是太丢人了。</p>
+<p>“问：既然你们无法有效监管不良信息，为何不人工逐一观看？王欣：“如果这样的话公司就开不下去了……”，王欣说得没错，那些耗费巨资使用人工逐一审查网络言论的部门一定不是企业，企业哪能这么折腾自己的钱。</p>
+<p>“问：为什么用户要选择快播服务器？”，王欣：“因为快播的播放效果比较好。”，庭审依然不忘给自己的产品做宣传，这是一名合格的CEO。</p>
+<p>王欣说：“用户上传的内容都是被服务器加密的，我们并不能分析出是不是黄色内容。”，审判长问：“文件加了密，那你们怎么不解密？”，虽然用户没有什么真正的隐私，但是面子工程还得做，审判长公然这么问，有泄露国家机密的嫌疑。</p>
+<p>“问：明知有监管漏洞，为何不转型、不停用QSI技术？王欣：“快播做的点播模式与世界其他点播服务的模式是一样的，因为这个原因我们去改变公司的定位并不可取，技术本身并不可耻。”，是啊，技术本身并不可耻，菜刀本身是无罪的，避孕套本身是正经的，作为一个播放器，为什么要管你放的是什么？作为一把菜刀，为什么要管你切菜还是切肉？作为一个避孕套，为什么要管你跟哪个人睡用什么姿势？</p>
+<p>上大学那会儿我们用过电驴、PP点点通、天网FTP、网际快车、网际蚂蚁，不仅开阔了国际视野拓展了思想空间，还丰富了业余文化生活掌握了多种技巧姿势，技术本身并不可耻也不罪恶，就像谢若林老师说过的，“这、这有两根金条，你告诉我哪根是高尚的，哪根是龌龊的。”，这是一场毫无逻辑和技术含量的庭审，但是却有勇气直播出来，我唯一能想到的理由就是它想告诉那些还在做法治社会梦的人：赵国梦，我的梦，你们也配做梦。</p>
+<p>如果你还听不明白，就再上上下面这场“法治教育课”：1月5日，安徽警方抓获了3名抢夺儿童的犯罪嫌疑人，中国警察网安徽站官方微博发出了嫌疑人照片，还在嫌疑人的头部标了“马赛克”3个字，不是在面部打马赛克，而是戏虐般的打了“马赛克”三个字，该官微说：“因为上午发布的嫌疑人照片未做处理，引发某些群众不适，下午照片特别给三嫌疑人面部做了马赛克处理。”，它说的“某些群众的不适”应该是指“当犯罪嫌疑人未经审判时，要充分尊重其隐私、保护其合法权利”吧，这么简单的道理有啥问题？</p>
+<p>打“马赛克”这三个字的做法引来一片欢呼，不仅众人点赞，连各地警方、警员微博、党媒官微也纷纷转发，公安部打四黑除四害的官博在转发这条信息时还配上了三个鼓掌，看把你们给能的，一堆流氓加一群法盲，你们这样会把贺卫方老师气坏的。一看拐卖可爱的儿童就又激起你们的母爱父爱了？祖国的花朵天天吸着雾霾你们怎么不敢爱了？祖国花朵天天喝着毒奶粉你们怎么不敢爱了？还强烈要求重判、枪毙人贩子，看把你给能的，你姓赵吗？也配提要求？“舆论左右司法”的梦做多了吧？你的“舆论”左右不了司法，你的“舆论”经常被左右。</p>
+<p>古龙老师说，“看不见的剑，才是最可怕的剑。 能令人看不出他真正面目的人，才是最可怕的人。”，其实还有更可怕的，自己出来犯贱，才是最可怕的贱，时常把自己傻逼的一面显露出来的人，才是最可怕的傻逼。</p>
+<p>网上有种任我下，心中无码天地宽，马赛克本身并不可耻，有些时候我们想有码，有些时候我们想无码，全凭个体所需。喜欢动作片要看无码，喜欢体育内容，一定要看“有码”，有码体育，源自南方公园，请关注微信公号：youmatiyu 点击阅读原文看最新文章。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/aYSiay3GDUXAUWW8HB8RNdy0Jnp7bFsoGg7RYybmy5UMJmK8H0zW3qMHrbs4KfI1IMNhadgRMAbAbojGxHSkCjQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E4%BD%A0%E7%9A%84%E6%AF%8F%E4%B8%80%E6%AC%A1%E5%91%BB%E5%90%9F%E9%83%BD%E5%B0%86%E6%88%90%E4%B8%BA%E5%91%88%E5%A0%82%E8%AF%81%E4%BE%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%91/?category=18271" rel="tag">网监</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%AE%A1%E5%8A%9E/?category=18271" rel="tag">网管办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6%E4%BB%A4%E9%A6%99%E6%B8%AF%E4%BA%BA%E4%BA%BA%E8%87%AA%E5%8D%B1/" target="cdt-mirror">纽约时报｜“禁书”书商失踪事件令香港人人自危</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge.jpg" rel="attachment wp-att-424429"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge.jpg" alt="本周，抗议者手持五名失踪出版商的照片，包括李波的头像（右二）。" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/08hongkong_web1-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><p>本周，抗议者手持五名失踪出版商的照片，包括李波的头像（右二）。</p></div>
@@ -594,37 +618,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F/" target="cdt-mirror">【立此存照】平行世界 · 中国血统</a>
-</h2>
-<p><p><strong>外交部近日如此<a href="http://news.ifeng.com/a/20160105/46952085_0.shtml">回应“香港书店股东失踪案”</a>：</strong></p>
-<blockquote><p>华春莹：“关于你提到的涉及到香港铜锣湾书店人员这件事的情况，我不了解，所以我也没有办法具体评论。但你提到英国有一些言行，那我想指出的是，香港是中国的特别行政区，香港事务纯属中国的内政，任何外国都无权干涉。而且我也想指出，根据香港的基本法和中华人民共和国的国籍法，凡是具有中国血统的香港居民，本人出生在中国领土含香港的人，以及其他符合中华人民共和国国际法规定的，具有中国国籍的条件者，都是中国的公民。”</p></blockquote>
-<p>新浪微博@青莲榆菜 发布了一则段子，讽刺所谓的“中国血统”论（该用户疑已遭封号），内容如下：</p>
-<blockquote><p><strong>@青莲榆菜：一个吸血鬼吸了一个中国人的血，中国人临死前冷笑，吸血鬼问道：”畜生，你笑什么？“，中国人用尽最后一口气说：”你现在……有了中国血统……你也要……为社会主义……奋斗终身……”</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954.jpg" rel="attachment wp-att-424126"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954.jpg" alt="" width="439" height="484" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954-272x300.jpg 272w, http://chinadigitaltimes.net/chinese/files/2016/01/5eeb2608jw1ezp3k9n3zpj20p018gwjc-e1452063251954.jpg 439w" sizes="(max-width: 439px) 100vw, 439px"></a><br><em>（截图内容来自新浪微博@oslh）</em></p></blockquote>
-<p>新浪微博<a href="http://weibo.com/5331423016/DbPKCv3U2"> @侵掠如火者浣熊是也</a>为此创作了漫画两则：</p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F1.jpg" rel="attachment wp-att-424154"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F1.jpg" alt="中国血统1" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/中国血统1-247x300.jpg 247w, http://chinadigitaltimes.net/chinese/files/2016/01/中国血统1-768x931.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/中国血统1-844x1024.jpg 844w" sizes="(max-width: 2142px) 100vw, 2142px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F2.jpg" rel="attachment wp-att-424152"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F2.jpg" alt="中国血统2" width="500" height=""></a></p></blockquote>
-<p>但让许多关心<a href="http://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/">铜锣湾书商“失踪”事件</a>的网民没有想到的是，由于中国当局对相关新闻执行严格审查，导致许多“不明真相”的“爱国青年”和一些营销号们会错了意，把对外交部“中国血统”论的讽刺当作了社会主义“正能量”梗在微博积极转发。目前@青莲榆菜 疑似已被新浪封号，原始微博也已消失。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/657fac00gw1ezp27r1zwhj20qo1bf11v.jpg" rel="attachment wp-att-424127"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/657fac00gw1ezp27r1zwhj20qo1bf11v.jpg" alt="657fac00gw1ezp27r1zwhj20qo1bf11v" width="440" height="782"></a></p>
-<blockquote><p><strong><a href="http://weibo.com/1681682181/DbLFmF7CQ">@我是你认识的王小能</a>：就，从含血惨笑变成了红红火火恍恍惚惚，原po都被删了，政治讽刺变成了社会主义梗，真的要成为本年度最佳正能量段子了啊。大噶都妹想到吧。</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y.jpg" rel="attachment wp-att-424129"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y.jpg" alt="643c6f05gw1ezoz8c1pduj20ku0obq6y" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y-257x300.jpg 257w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8c1pduj20ku0obq6y.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3.jpg" rel="attachment wp-att-424128"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3.jpg" alt="643c6f05gw1ezoz8ci0qyj20k00ioju3" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3-300x280.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1ezoz8ci0qyj20k00ioju3.jpg 720w" sizes="(max-width: 720px) 100vw, 720px"></a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@riffharrise：就…脑回路不在一个次元。反贼和粉红同时对一个段子喜闻乐见，真是一场大型魔幻</p>
-<p><a href="http://weibo.com/5086055663/DbMA24y6w">@一头小活猪</a>：一个缓则写的作死段子被一群中二段子手转发，明早不明真相群众打开电脑，发现你浪网红被销号了一大半，大型社会主义网络事故。</p>
-<p>@葉月_karao：刚想说好多五毛营销号都转了，根本就没get到点。。前几天他们还在疯转“习大大鸡汤”</p>
-<p><a href="http://weibo.com/5736505114" target="_blank">@脑浆爆裂草莓</a>：<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">看见了，一开始就那样小范围只可意会不可言传的刷刷，梗红了被营销狗转了首页简直’百感交集。</p>
-<p><a href="http://weibo.com/onlyqianlong" target="_blank">@乾隆皇帝专属微博</a>：这就是没get到点，感觉就像是强行闯进餐厅的耍猴似的<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
-<p><a href="http://weibo.com/3131672743" target="_blank">@syf月亮</a>：那出生在中国的为什么还有黑户<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p><a href="http://weibo.com/ssummertan" target="_blank">@陽汁甘露羹</a>：一口咬定从不承认双国籍，出事却看谁都是炎黄子孙<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908c.png" alt="" width="20px" height="20px"><img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c8f.png" alt="" width="20px" height="20px">这盛世</p>
-<p>@清如卜砂2：这国家看脸，全球黄种人怕起来！！</p>
-<p>@朤下独酌：公民贱民屁民可随意切换</p>
-<p>@忧郁爱吐槽的Marvin：我被图2吓懵了，强行中国公民！你们以为逃得掉？只要你身上有一滴中华血统，就可以依“天朝法律法规”办你！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">不明真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -636,7 +629,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -646,5 +639,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

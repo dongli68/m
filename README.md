@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BD%91%E6%B0%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%BF%AB%E6%92%AD%E6%A1%88/" target="cdt-mirror">【立此存照】网民眼中的快播案</a>
@@ -153,7 +153,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">家庭暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5%E6%A1%88/?category=18271" rel="tag">性侵案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%B0%8A%E5%A5%B3%E5%8D%91/?category=18271" rel="tag">男尊女卑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%9C%E6%B9%96%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88/?category=18271" rel="tag">芜湖女大学生坠亡案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E8%BF%99%E6%98%AF%E8%82%96%E9%92%A2%E4%B8%8E%E7%8E%8B%E6%AC%A3%E4%BA%89%E5%A4%BA%E5%A4%B4%E6%9D%A1%E7%9A%84%E4%B8%80%E5%A4%A9/" target="cdt-mirror">花儿街参考｜这是肖钢与王欣争夺头条的一天</a>
 </h2>
@@ -710,7 +710,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -720,5 +720,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

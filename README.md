@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%9D%83%E8%83%BD%E5%A4%9F%E4%B8%AD%E5%9B%BD%E5%8C%96%E4%B9%88%EF%BC%9F/" target="cdt-mirror">BBC｜吴祚来：中共政权能够中国化么？</a>
@@ -58,7 +58,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6%E6%80%9D%E6%83%B3/?category=18271" rel="tag">儒家思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8A%E5%AD%94/?category=18271" rel="tag">尊孔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-3/" target="cdt-mirror">【习总日记】 自信者无羞耻</a>
 </h2>
@@ -748,5 +748,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%A8%8E
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

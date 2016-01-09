@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%9D%83%E8%83%BD%E5%A4%9F%E4%B8%AD%E5%9B%BD%E5%8C%96%E4%B9%88%EF%BC%9F/" target="cdt-mirror">BBC｜吴祚来：中共政权能够中国化么？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/09/%E5%AD%94%E5%A4%A7%E5%A4%A7.jpg" rel="attachment wp-att-362914"><img src="http://chinadigitaltimes.net/chinese/files/2014/09/%E5%AD%94%E5%A4%A7%E5%A4%A7.jpg" alt="孔大大" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2014/09/孔大大-222x300.jpg 222w, http://chinadigitaltimes.net/chinese/files/2014/09/孔大大-758x1024.jpg 758w, http://chinadigitaltimes.net/chinese/files/2014/09/孔大大.jpg 875w" sizes="(max-width: 875px) 100vw, 875px"></a><br><em>（“孔大大” by 邝飚）</em></p>
+<p><strong>著名新儒家学者、清华大学陈来教授给中共中央政治局讲课的消息，最先我是在自媒体上看到的，但打开大陆主要网站首页，却没有看到在显著页面上得到报道。我通过关键词检索，才在新华网等官方媒体上看到有关消息：中共中央政治局 （2015年）12月30日下午，就中华民族爱国主义精神的历史形成和发展进行第二十九次集体学习。</strong></p>
+<p>有趣的是，新华网这则报道中，绝大部分篇幅都是报道习近平关于爱国主义的重要讲话，而关于主讲者，只有一句介绍：清华大学陈来教授就这个问题进行讲解，并谈了意见和建议。中共中央政治局各位同志认真听取了他的讲解。</p>
+<p>新儒家学者陈来教授到底会对中共高层说些什么？我们通过中共官方访谈，仍然可以见其观点端倪。</p>
+<p>五个月前，也就是2015年7月31日，陈来接受王岐山治下的中纪委网站专访，提出“执政党要中国化，要更自觉地传承中华文明”。从这次访谈的标题看，这是一个非常有价值的话题，与前不久王岐山提出的执政党合法性问题，一样可以夺人眼球、引发思考。</p>
+<p>陈来教授在这次接受中纪委网站访谈时，关于儒家德治并没有多少新意，但其新儒家思路却是明晰的：其一：你们当政党官员倡导那些道德理念，你自己得践行，不能马列道德对别人，自己却做不道德不仁义的事情；其次，传统中国社会讲德治，一味的刑法威权暴力控制，是没有出路的；最重要的一条，就是相关网站上出现的标题：执政党的中国化。</p>
+<p>提出中共政权中国化问题，是提出了一个当代中国社会面临的重大政治问题，也是真问题。其一，它意味着中国政权没有中国 化或没有完全中国化；其二，它促使人们思考，中共政权如何中国化，是回到独尊儒术的中国化，还是像台湾那样民主宪政中国化，或者新加坡那样有一定民主法制的中国化（可以参照的还有东亚文化圈中的日本与韩国民主化）。</p>
+<p>中共成立之初是国际共运机构的资金启动，甚至是作为国际共运组织的分支机构在中国的政治存在，因为全世界无产者要联合起来，无产阶级没有祖国，其指导思想是马克思列宁主义，政治理想是通过暴力方式推翻资产阶级的政府、消灭私有制， 实现人类的共产主义大同。就在2015年度，习近平还公开倡导过共产主义理想，认为共产党人应该有崇高的理想。</p>
+<p>执政党的指导思想决定了其执政的性质与政制结构，这种政制在苏联与东欧已然被汰弃，它不可能与民主宪政兼容，陈来教授提出中共政权的中国化，它不可能是简单的初级阶段的中国特色社会主义，必须在指导思想是中国化，那么，中共面临的问题是，要改变中共的指导思想，由马列主义改变儒家思想或儒佛道互补的意识形态？那共产党就不叫共产党， 改叫共和党或其它名字了。</p>
+<p>陈来教授在中纪委访谈时强调，中共作为中国的当政党，应该自觉传承中华文化。现在中共难道不重视传统中华文化吗？ 但在他们重视的文化领域，文化与艺术只是一种市场消费或文化元素而已，当学术著作《走出帝制》（秦晖著）出现之时，仍然面临封杀的命运，走出帝制这样的学术图书为什么遭到封杀？因为中共在回归中国传统之时，他们更喜欢帝制的威权模式，毛泽东没有走出帝制，而习近平的威权，却正在走向新帝制。</p>
+<p>新儒家学者们努力让中共政权中国化之时，他们难以摆脱这样的悲剧命运，就是要通过威权，树立一个新威权核心，有一个不叫皇帝的新帝王，让中共政权成为一个新帝国政权。然后由儒家主导一个宪政院，为帝王师，为天下师，以儒家道德来重新秩序化社会。</p>
+<p><strong>传统帝制与党治中国（家天下与党天下）</strong></p>
+<p>中国古代是王法之治，现在是党法之治，党的利益与党内法则高于国家法律。中国古代的儒家德治某种意义上是政教合一，以儒家思想为国家指导思想，由于教化与政权紧密维系，所以一荣俱荣，一损俱损，政权强盛时，道德昌明，政权没落与崩溃时也礼崩乐坏。而欧洲文艺复兴之后确立的政教分离原则，使社会信仰与道德与政权分开，上帝的事情归上帝，凯撒的事情归凯撒。而中国一直缺少这样一个政教分离的革命性变化。</p>
+<p>中共现在的政权也是政教合一，政法合一，政治态度决定道德品质，政治意识决定法治状态，也即，传统帝制与当代中共一样，都是人治社会，传统皇权号称替天行道，使政权具有天然的合法性，而中共号称为人民服务实现共产主义，使自己的政权具有历史的合法性（因为历史选择了中共的执政权）与未来的正义性（因为未来要实现共产主义伟大理想，所以现在的一切作为都是合法的）。</p>
+<p>为什么许多学者敢于倡言要求中共回归中国传统？为什么中共高层多次让历史学者到中央政治局讲课？因为中国古代传统的帝国之治，在许多方面是优于中共的政治治理的。</p>
+<p>古代帝王敬天畏民，当代中共的统治者们何尝有过敬畏？中共之治，只有政治信念，没有相对独立的社会信仰。中共的意识形态把政治理念当成社会信仰，这仍然是政教合一，所以在思想禁锢方面，与欧洲中世纪无异。</p>
+<p>有政教合一必有政法合一，依法治国因此就成空话。政教合一另一危害性在于，用政治理念来教化民众，用乌托邦思想对民众洗脑，使普众失去独立的思想，没有常识没有逻辑没有理性。</p>
+<p>古代社会是皇家与儒家（或多家）共治，一家不可能真正控制天下（秦以酷法治国，所以秦朝很快灭亡），汉代开启了共治模式，广征社会贤才，以德才取人，特别是隋唐以后的科举取士制，规范了社会治理者的标准，道德文章优秀者才是国家精英，由精英来家治理皇家的国政，民间社会呢？秦制县以下基本是自治方式，由士绅或家族来管治（皇家、儒家与家族，三家共治天下）。皇家有最终的裁决权，儒家有掌管道德精神（皇家的教育权在儒家手中），而民间社会，家族通过家规或家法，使民间社会有道德与秩序。</p>
+<p>传统中国社会的三家之治，构建了中国古代社会的超稳定性，它无论怎样天然合理或拥有道德秩序，仍然摆脱不了官僚的腐败，以及礼教的非人性禁锢，为什么？因为它是单面的社会，只强调道德秩序与社会稳定，只有君主没有民主，只强调三纲五常上下尊卑，社会没有开放性与自由度，有纵向的发展，没有横向的社会自由。通过红楼梦与巴金的家春秋，可以就可以形象地看到儒家传统的家国腐败与没落。</p>
+<p><strong>中共需要新三权共治</strong></p>
+<p>中共建政之初，创建的是政治协商制度，并在此基础上建立了全国人民代表大会，全国人大是国家法定的最高权力机构，而当时的宪法上也明确写着，中国人民（年满１８岁）有选举与被选举权，当时的选举被视为是普选。</p>
+<p>由此说来，中共最初的政治体制也可以说是三权共治：人民代表大会、政治协商会议与中共中央，全国人大拥有立法权与对政府最高领导人的任免权，中共中央作为当政党，全国政协作为各民主党派、社会贤达、名流、工商代表等的议政之所，并通过宪法保障人民的言论、结社与信仰自由，这种政制尽管也是在中共一党“领导”之下，但仍然有着某种强大的制约作用。</p>
+<p>但上世纪五六十年代毛泽东一步步破坏了三权共治，使人大政协沦为花瓶或举手表决的机器，三权之治，成为一党独治。“文革”之时，一党独治又变成了毛泽东一人之治。</p>
+<p>现在中共这样的政制，一步进入欧美宪政民主制度，勉为其难，为什么？不是中国人民不具备民主普选的素质，而是中共庞大的身躯不可能一步扭动过来，中共不仅是一个庞大的政治集团，也是一个利益共同体，立即剥夺他们的政治与经济特权，掌握国家机器的官僚体系不会合作，除非发生革命性巨变；而一步回归到传统中国社会的所谓德治，更是不可能，经济如此发达的社会，仅靠道德的力量不可能使社会有序与发展，只能通过社会自由信仰的方式，以及普遍的商业信誉记录，提升全民道德品格，当代社会的秩序维系，靠的只能是独立的宪法体系下的法治。</p>
+<p>将人大与政协做实，就可以实现中国政治改革的第一步，而这一步是没有政治风险的（不违反中共的政治正确性，因为三权共治是中共与民主党派共同创立的政制），中共建政之时建构起来的政制，既是历史承诺的实施，又在某种程度上体现了中国特色。在这一政制下，中共只扮演了一种政治角色，而不是全部的政治角色，中共的独裁在一定程度上可以得遏制，不至于像毛时代或邓时代那样，一种政治力量说了算，一个人说了算，最后出现灾难性的错误。</p>
+<p>有人会说，习近平正在构建自己的威权，这种三权共治模式，如果全国人大真的拥有最高权力，会不会弹骇习近平？如果习近平真的有如此担心的话，他自己在下一任期可以担任全国人大委员长兼国家主席，并让军队国家化，自己就可以担任三军统帅，这样，他的威权就可以用在政治改革这样宏大蓝图上了。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%9D%83%E8%83%BD%E5%A4%9F%E4%B8%AD%E5%9B%BD%E5%8C%96%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6%E6%80%9D%E6%83%B3/?category=18271" rel="tag">儒家思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8A%E5%AD%94/?category=18271" rel="tag">尊孔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-3/" target="cdt-mirror">【习总日记】 自信者无羞耻</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，9）</p>
@@ -691,49 +727,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%A8%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8A%AF%E5%BC%BA%E6%B1%89%E8%80%85%EF%BC%8C%E8%99%BD%E8%BF%9C%E5%BF%85%E5%A4%B1%E8%B8%AA/" target="cdt-mirror">六神磊磊：犯强汉者，虽远必失踪</a>
-</h2>
-<p><p><em>【编者注】作者微信原文已被和谐（ID: dujinyong6）。下文内容来自<a href="http://chuansong.me/n/2116711">传送门</a>。</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B8%B8%E5%A8%81.jpg" rel="attachment wp-att-424260"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%B8%B8%E5%A8%81.jpg" alt="常威" width="535" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/常威-300x192.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/常威.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a></p>
-<p><strong>文／六神磊磊</strong></p>
-<p><strong>一</strong></p>
-<p>今天我们来读《水浒传》。</p>
-<p>水浒传里有一个人，叫做小旋风柴进。看过书的都知道，这个人吊儿郎当，有个最大的毛病，就是喜欢搞独立王国，躲在朝廷管不到的地方搞七搞八。</p>
-<p>他的倚仗是什么呢？不过就是拿了一张所谓的“丹书铁券”，而且还是以前的太祖皇上发给他的，说是犯了事情也不能追究，仿佛一个大宋还搞起两套办法来了，对别人是一个办法，对他柴家是一个办法。</p>
-<p>柴进就得意洋洋起来，在自己的小庄子上收留犯人、胡说八道，老做些搅乱的事。</p>
-<p>可是，这个什么“丹书铁券”真的有用吗？在水浒中，它很快就被打回了原形。</p>
-<p>江湖上不久就出了一名侠客，叫做殷天锡，大概是白眉鹰王殷天正的师兄弟。他和郑屠、裴如海、蒋门神并称水浒四大侠客之一。殷天锡大侠看不惯柴进的气焰，上前教训柴进。</p>
-<p>不出所料，柴进又故伎重演，拿着丹书铁券当护身符：“我家也是龙子龙孙，放着先朝丹书铁券，谁敢不敬？”</p>
-<p>殷天锡一声断喝，用两个大义凌然的字对他进行了怒斥：</p>
-<p>“放屁！”</p>
-<p>结果怎么样？柴进被殷侠客狠狠收拾了一顿，还失了踪。梁山上的人怎么都找不到他，最后才发现他被丢在一口井里面，打成了猪头。这就是教训。</p>
-<p><strong>二</strong></p>
-<p>所以，不要以为躲在什么避风港里，就可以胡说八道的。不只是《水浒传》，金庸先生也早就说过这个道理。</p>
-<p>比如有一个人曾经不服，他叫做韦小宝。</p>
-<p>他曾经向自己的姑姑（陶宫娥）提过一个很幼稚的问题：神龙教真的很厉害么？可不可以说他们的坏话？</p>
-<p>姑姑大惊失色，立刻严正教育他：</p>
-<p>“人家徒子徒孙甚众，消息灵通之极，就算是在背后，言语中也不可得罪了他。”</p>
-<p>韦小宝仍然不服：我躲在安全的地方胡说八道几句，能把我怎么样？姑姑马上警告他：“得罪了神龙教教主，却是海角天涯，再无容身之地。”</p>
-<p>结果呢，还没过几章，韦小宝果然就被神龙教的章老七一顿暴打，失踪在鬼屋里。</p>
-<p>一句话：犯强汉者，虽远必失踪。</p>
-<p>又比如天山童姥，她老人家是最慈祥和蔼的，但是她的手下哪怕住得再远，甚至在什么三十六洞、七十二岛，连快递都到不了的地方，也绝对没有人敢对她胡说八道。</p>
-<p>听听当时的江湖黑社会头子乌老大是怎么说的吧：</p>
-<p>“就算是在万里之外，背后提到这老贼婆之时，谁也不敢稍有不敬之意，向来都以 ‘老夫人’相称。”不然你就准备失踪吧。</p>
-<p><strong>三</strong></p>
-<p>江湖上，对于恶意说三道四、搞七搞八的人，从来都没有法外之地。</p>
-<p>韦一笑躲在西域，以为是法外之地，灭绝师太不是杀过来了么？</p>
-<p>谢逊躲在灵蛇岛，以为是法外之地，大侠陈友谅不是找过来了么？</p>
-<p>还有苏轼躲在湖州发牢骚，以为是法外之地，开封首都不知道，最后不是被搞了么？包龙星躲在尚书家，以为是法外之地，可以说水师提督的坏话，最后不是被喂饼了么？还有李大钊躲在俄国使馆，以为是法外之地……</p>
-<p>就好像前面说的柴进，以为有什么丹书铁券，其实那就是个饼；还有包龙星，你以为老妈传给你的真是尚方宝剑么？那就是个咸鱼。</p>
-<p>最后用一首歌来结尾吧：小河弯弯，向南流；流到香江，去看一看。东方之珠，整夜未眠，守着丹书铁券或咸鱼的诺言。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8A%AF%E5%BC%BA%E6%B1%89%E8%80%85%EF%BC%8C%E8%99%BD%E8%BF%9C%E5%BF%85%E5%A4%B1%E8%B8%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%A4%96%E4%B9%8B%E5%9C%B0/?category=18271" rel="tag">法外之地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E5%BB%B7/?category=18271" rel="tag">朝廷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">赵国人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -745,7 +738,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -755,5 +748,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

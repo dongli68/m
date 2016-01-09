@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2%E7%AD%89%E4%B8%89%E6%96%87%E8%89%BA%E5%9B%A2%E4%BD%93%E6%92%A4%E9%94%80/" target="cdt-mirror">自由亚洲｜解放军总政歌舞团等三文艺团体撤销</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2-%E6%91%98%E7%89%8C.png" rel="attachment wp-att-424622"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2-%E6%91%98%E7%89%8C.png" alt="总政歌舞团 摘牌" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌-300x124.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌-768x316.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌-1024x422.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌.png 2317w" sizes="(max-width: 2317px) 100vw, 2317px"></a><br><em>（截至发稿时，新浪微博搜索功能已将“总政歌舞团＋摘牌”设为敏感词；数字时代配图）</em></p>
+<p>中国人民解放军总政治部歌舞团、歌剧团及话剧团，1月7日正式摘牌。据报，三团将合并重组为解放军交响乐团、解放军合唱团与解放军舞蹈团。有解放军文艺团体人员告诉记者，新组建的演出团体人数不超过三百人，每团编制人员约八十人。对此，不少网民拍手称赞，认为部队文艺团体拿着高工资到处走穴捞钱，影响极坏，应该彻底取消。</p>
+<p>有六十多年历史的解放军总政治部歌舞团等三个文艺团体1月7日正式摘牌撤销。当天，总政歌舞团门前的“总政”两字被人铲除，留下“歌舞团”三个字。据搜狐网当天的消息称，从知情人士处得知，中国人民解放军总政治部歌舞团、总政治部歌剧团、总政治部话剧团，截止今日已正式摘牌。 它们曾隶属于总政文工团，已经成立超过60年，正式摘牌意味着总政歌舞团、总政歌剧团、总政话剧团从此成了历史概念。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/deaff6e0-b9ad-4b23-89fe-e008b5e88ce8.jpeg" rel="attachment wp-att-424621"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/deaff6e0-b9ad-4b23-89fe-e008b5e88ce8.jpeg" alt="deaff6e0-b9ad-4b23-89fe-e008b5e88ce8" width="550" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/deaff6e0-b9ad-4b23-89fe-e008b5e88ce8-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/deaff6e0-b9ad-4b23-89fe-e008b5e88ce8.jpeg 622w" sizes="(max-width: 550px) 100vw, 550px"></a><p>摘牌后的“总政”两字被铲除，成“歌舞团”。（网民提供/记者乔龙）</p></div>
+<p>该知情人士向搜狐娱乐透露，之后这三个团将隶属于政治工作部，具体名称和职能划分暂时还没有确定。据法制晚报记者发微信称，在现场看到，不少北京市民在得知总政歌舞团摘牌后，纷纷来到总政歌舞团门口合影留念。向本台记者提供现场照片的北京一网民8日对本台称：“我们家一个亲戚他发给我的，发完以后，我转发了，等我再发一张照片给你看一下”。</p>
+<p>另一位知情的北京网民陈女士对记者说：“这三个团，总政歌舞团，还有总政话剧团，总政歌剧团,合并为解放军交响乐团、解放军合唱团、解放军舞蹈团，总人数不超过三百人，原来总政歌舞团管弦乐队与总政歌剧团的管弦乐队将合并为中国人民解放军交响乐团，编制只有八十个人，其他人要另谋出路，有些人要下岗，但还是享受军队待遇”。</p>
+<p>在摘牌的三个解放军文艺团体中，最为中国民众熟知的是总政歌舞团，隶属于解放军总政治部，下设创作室、合唱队、舞蹈队、乐队和舞台美术队等部门，在中国军队歌舞团系统，处于最高位置。而且演员阵容庞大，不少是带有军衔的知名演艺人，包括中国国家主席习近平的妻子彭丽媛（少将军衔）、阎维文（享副军级待遇）等，也有不少人是全国政协委员。</p>
+<p>民间网络歌手“红衣大叔”对解放军三大文艺团体被撤销感到高兴。他对记者说：“演员也是将军的待遇，这简直是开玩笑。演戏的人不是战斗成员。讲的不好听，在清朝的时候，太监不能上四品，清朝的时候太监做官最高只能做到四品，不会打仗的人还当将军，简直是笑话。连清朝的统治者都有这个清醒的头脑。你现在养了一大帮人，老百姓的负担就重了。世界上的军队都没有养一大帮辅助人员”。</p>
+<p>此事引发网民热议。有山西网民称，唱歌跳舞当将军没必要，你成立100年又怎么了，当年铁道兵部队不是一样集体脱军装吗？撤销解放军文艺团体，可以节约一些纳税人的金钱。也有网民称，将军唱歌跳舞的闹剧，终于结束了，支持撤销歌舞团。另有网民评论道，部队文艺团体应该彻底取消，拿着高工资到处走穴捞钱影响极坏，部队需如文艺服务可向社会购买服务，又省军费又消除了坏影响，一举两得。另有网民的相关评论却被人删除。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2%E7%AD%89%E4%B8%89%E6%96%87%E8%89%BA%E5%9B%A2%E4%BD%93%E6%92%A4%E9%94%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2%E6%91%98%E7%89%8C/?category=18271" rel="tag">总政歌舞团摘牌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%B7%A5%E5%9B%A2/?category=18271" rel="tag">文工团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%85%B5/?category=18271" rel="tag">文艺兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%9D%83%E8%83%BD%E5%A4%9F%E4%B8%AD%E5%9B%BD%E5%8C%96%E4%B9%88%EF%BC%9F/" target="cdt-mirror">BBC｜吴祚来：中共政权能够中国化么？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2014/09/%E5%AD%94%E5%A4%A7%E5%A4%A7.jpg" rel="attachment wp-att-362914"><img src="http://chinadigitaltimes.net/chinese/files/2014/09/%E5%AD%94%E5%A4%A7%E5%A4%A7.jpg" alt="孔大大" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2014/09/孔大大-222x300.jpg 222w, http://chinadigitaltimes.net/chinese/files/2014/09/孔大大-758x1024.jpg 758w, http://chinadigitaltimes.net/chinese/files/2014/09/孔大大.jpg 875w" sizes="(max-width: 875px) 100vw, 875px"></a><br><em>（“孔大大” by 邝飚）</em></p>
@@ -268,7 +287,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">家庭暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5%E6%A1%88/?category=18271" rel="tag">性侵案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%B0%8A%E5%A5%B3%E5%8D%91/?category=18271" rel="tag">男尊女卑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%9C%E6%B9%96%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88/?category=18271" rel="tag">芜湖女大学生坠亡案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E8%BF%99%E6%98%AF%E8%82%96%E9%92%A2%E4%B8%8E%E7%8E%8B%E6%AC%A3%E4%BA%89%E5%A4%BA%E5%A4%B4%E6%9D%A1%E7%9A%84%E4%B8%80%E5%A4%A9/" target="cdt-mirror">花儿街参考｜这是肖钢与王欣争夺头条的一天</a>
 </h2>
@@ -706,27 +725,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
 <p><a href="http://weibo.com/1843910535" target="_blank">@不妥协的豆豆</a>：其实我们国家有个秘密组织，特异功能组，能瞬间转移。<img src="https://s.w.org/images/core/emoji/72x72/1f611.png" alt="</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A6%82%E6%9E%9C%E5%BC%80%E5%BE%81%E6%88%BF%E4%BA%A7%E7%A8%8E%EF%BC%8C%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%B5%9E%E6%88%90%E5%90%97%EF%BC%9F/" target="cdt-mirror">唐映红：如果开征房产税，人们会赞成吗？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%8C%85%E5%AD%90%E6%A2%A6.jpg" rel="attachment wp-att-423311"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E5%8C%85%E5%AD%90%E6%A2%A6.jpg" alt="秃头倔人_包子梦" width="375" height="511" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/包子梦-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2015/12/包子梦.jpg 490w" sizes="(max-width: 375px) 100vw, 375px"></a><br>
-（当代水墨画“包子梦” by <a href="http://blog.sina.com.cn/cat8981300" target="_blank">秃头倔人</a>）</p>
-<p>Q&A160105</p>
-<p><strong>问：如果开征房产税，人们会赞成吗？</strong></p>
-<p>答：一般来说，<strong>税收是政府的一项权力。</strong>政府通过征收税款来支付政府本身的运营开销、公共支出，以及政策性的社会转移支付以抑制贫富加剧，促进社会公平。税收需要从民众的收入中分一杯羹，因此，没有人会乐意被征税。因此，<strong>民众要同意政府征税，就需要得到公平合理的交易</strong>，提供税收给政府，是要获得相应的公共服务，以及政府主持的国家机器给民众的安全和自由的保障。所以，在一些国家，民众已经普遍地接受，<strong>只有纳税和死亡是人生不可避免的事情。</strong></p>
-<p>因此，<strong>人们赞成政府开征某项税收，必须基于人们相信通过纳税，人们可以从政府那里获得足够且适当的公共服务或安全保障。</strong>所以，当布什政府试图为富豪减免税赋时（2003年），当时美国排名第二的富豪巴菲特挺身而出表态：“<em>我应该被征更多的税。</em>”在美国，巴菲特的税收建议又被称为“<strong>巴菲特规则</strong>”（Buffett rule），并被接下来的奥巴马政府所采纳（2011年）。</p>
-<p>换言之，<strong>如果政府与民众有着公平的契约，并以此为基础由民众授权政府以公权力，民众对政府的税收持普遍的赞成态度完全是有可能的。</strong>事实上，更重要的是，在以契约为基础组织的现代社会里，<strong>没有经过民众同意的税项，政府是无法开征的。</strong>道理很简单，因为税法并不由政府自行决定，而是由制衡政府的议会来立法，而议会则是代表着最广泛民意的权力机构。可以这么说，<strong>在一个基于契约的现代社会里，没有人们的赞成，政府就不可能征任何税；而政府开征任何税，都必然基于人们的授权同意。</strong></p>
-<p>但如果政府与民众之间并无公平的契约，政府的权力亦非授自民众，而被来自垄断资源的权力集团所操纵，那么<strong>民众对税收就不可能持普遍的赞成态度</strong>。从权力心理学的角度，当权力集团垄断了所有社会资源，获得以国家暴力机器加持的公权力，却丝毫也不会受到有效制衡，那么<strong>权力者就会近乎本能地将私利凌驾于公共服务之上。</strong>此时，无论权力者为了巩固权力、遏制挑战、消除威胁，还是对外大撒币、穷奢极欲地耀武扬威，<strong>所有的花销都来自税收</strong>。此时，<strong>民众并任何权利来抵制、反对，哪怕是质疑权力集团的征税。</strong>此时，<strong>人们对税收的赞成或不赞成已经毫无意义。</strong>当权力集团需要一些冠冕堂皇的pose时，很容易制造出“人们”普遍赞成开征房产税的现象。经过被控制的媒体，以及经过训练的朝阳群众，<strong>整个社会处处喜迎开征房产税</strong>的局面并不难做出来。</p>
-<p>具体到房产税。<strong>在土地被全面国有，住房仅有最多70年使用权；而且通过权力集团的操控推高房价的社会语境下</strong>，赵家想征收房产税，或者换个词，想掠夺，又有什么好奇怪的。作为被强征的民众，如果想令自己舒坦一点，就赞成赵家开征，<strong>假装他们是取之于民，用之于民。</strong>而那些赵家公知们，<strong>从赵老爷强暴一个丫鬟还要嘘寒问暖一番中看出渐进改良的希望，想想也是醉了。</strong></p>
-<p>2016-01-05<br>
-——————————————–<br><a href="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" rel="attachment wp-att-416940"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" alt="psy-eyes" width="350" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes-298x300.png 298w, http://chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png 427w" sizes="(max-width: 427px) 100vw, 427px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E5%A6%82%E6%9E%9C%E5%BC%80%E5%BE%81%E6%88%BF%E4%BA%A7%E7%A8%8E%EF%BC%8C%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%B5%9E%E6%88%90%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%A8%8E%E4%BA%BA/?category=18271" rel="tag">纳税人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E7%A8%8E/?category=18271" rel="tag">房产税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%86%E5%93%AA/?category=18271" rel="tag">拆哪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E7%A8%85/?category=18271" rel="tag">负稅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -738,7 +736,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%A8%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -748,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%A8%8E
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

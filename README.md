@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%BD%AD%E5%AE%9A%E9%BC%8E%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%B8%AA%E6%A1%88%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB/" target="cdt-mirror">BBC中文网 | 彭定鼎：香港失踪案背后的政治</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-%E4%B8%8A%E5%8D%885.27.57.png" alt="Screen Shot 2016-01-09 at 上午5.27.57" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-上午5.27.57-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-上午5.27.57.png 642w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>作者：<span>彭定鼎 </span><span>北京独立时事评论员</span></p>
+<p>香港铜锣湾书店股东李波失踪。2016年1月1日，李波妻子报案，香港警方以“失踪人口”立案调查。3日，书店收到李波神秘传真称“我因急需处理有关问题，不能让外界知道，已采取了自己的方式返回了内地，配合有关方面调查，可能需要一段时间。”李波妻子向警方申请撤销案件，但是根据相关规定，销案需要本人现身才能获准。</p>
+<p>5日，大陆《环球时报》高调发文称“‘越境执法’和‘绑架’说都已不攻自破”，指责铜锣湾书店“长期出版、销售针对内地的政治书籍，大量编造虚假内容，恶毒攻击国家政治制度，造成了恶劣影响。”，并且证实该事件系“港人前往内地配合调查”。</p>
+<p>越抹越黑！《环球时报》颠倒黑白到了无以复加的地步！无耻至极！</p>
+<p>假如李波自主地 “配合调查”，真心“不让外界知道”，他完全能够以合法途径低调到达内地。没有理由玩失踪，搞出那么大动静。但是李波回乡证留在家中，而且香港警方也没有查到李波近日出境记录，也就是说李波通过非法途径从香港到达内地。有报道称李波失踪之前去给客户送货。从情节看，李波失踪高度疑似被绑架。</p>
+<p><strong>问题的根源</strong></p>
+<p>这个事件的根源在于香港特别行政区基本法对于中央政府没有约束力。</p>
+<p>“一国两制”受到越来越严重的破坏。许多香港人对此忧心忡忡。香港回归之前，港人十分恐惧，纷纷外逃。直到邓小平先生承诺香港高度自治、“港人治港”，香港人心才稳定下来，保持了繁荣。</p>
+<p>但是近年来，中央政府一直在“一国”上做文章，淡化“两制”，从“23条”到特区首长提名，中央政府不断把权力之手伸进香港，引起香港人极大不安。7.1大游行、占领中环都是对中央政府插手香港事务的抗议。</p>
+<p>《环球时报》的言论不打自招地暴露了中央政府的心态：“在‘两制’的同时，香港与内地还首先同属‘一国’，香港不能是敌对势力从事颠覆国家政治制度活动的特殊基地。”</p>
+<p>又回到23条上了！这一点很有意思，值得细说。</p>
+<p>其实呢，“颠覆国家政治制度”本身不构成犯罪。人类政治生活的进步史就是颠覆政治制度的历史。奴隶制度在全世界被颠覆了，封建王朝制度在中国被颠覆了。至于政权的颠覆那更是正常不过的事情。中华民国在中国大陆被内部武力颠覆了，萨达姆政权被外部武力颠覆了。反对政府是公民的权利。民主国家的反对党天天在颠覆政府。政府必须向人民证明自己是正当合法的，否则就该被颠覆！</p>
+<p>民主政府就是能够被合法颠覆的政府。而专制独裁政府就是不能被“合法”颠覆的政府。于是，在专制独裁制度下，反对政府的人们就成了“匪”。无怪乎共产党人被国民政府称为“共匪”。</p>
+<p>说句题外话，专制独裁向民主的过渡有三条路径：1）由上至下实行政治改革（台湾）；2）政变之后实行民主，还政于民（俄罗斯）；3）暴力革命（罗马尼亚）。不知道中国的政治改革将走哪条途径。</p>
+<p><strong>“港人治港”试金石</strong></p>
+<p>香港长期实行民主制度，人民幸福，经济繁荣，社会稳定。这一点有目共睹。中共高级干部的子女很多生活在香港，是香港永久居民，例如叶剑英元帅的后代。领导嘛，站得高看得远手里又有资本，他们的后代定居海外资本主义国家或者香港这个事实有力地驳斥了“社会主义优越性”、“制度自信道路自信”的说法。</p>
+<p>大陆呢，中国人民共和国尚且不是民主法治的国家，还在建设民主法治，还在摸石头。我一直不明白为什么不能照搬西方民主制度，据说是因为“中国特色”。民主制度在台湾香港澳门都实行得很顺利，究竟是哪些“特色”阻碍中国大陆实行民主呢、或者说只能实行党的领导下的“具有中国特色的社会主义民主”？我始终弄不清楚。</p>
+<p>香港人民珍惜他们享有的民主法治和自由。《环球时报》说港人享有“港式言论自由”，什么意思我不明白。港式言论自由是不是打了折扣的言论自由？但是香港人迄今一直能够妄议香港政府、能够妄议中央政府，这一点委实让我羡慕。正是由于这样的妄议，香港才成为世界上最廉洁的地区，政治清明，社会稳定。香港人告诉我，香港是个好地方，千万不要沦为内地统治下的地区。香港人高度评价邓小平先生的根本原因就是“港人治港”的政治设计。</p>
+<p>据香港媒体消息，李波是铜锣湾书店及其母公司巨流传媒相关人士中第五名失踪的，有关人士从去年10月开始，在泰国、香港、内地陆续失踪，有家人朋友报警，但至今这些人都没有再露面。这次的失踪倒是有了消息：在大陆“配合调查”。调查什么呢？开政治书店显然是符合香港法律的，否则香港警方早就会着手调查。那么大陆方面针对香港的书店展开调查的确如香港特区行政长官所说“违反了基本法”。</p>
+<p>香港从来没有试图独立，“一国”从未受到挑战。倒是“两制”不断受到挑战。此次失踪事件将检验“港人治港”原则能否坚持。</p>
+<p>我猜测李波被绑架（或者至少被胁迫）至大陆“协助调查”。这里关键的问题是：这次“有关部门”的行动是擅自采取的还是高层授意的？</p>
+<p>1984年年台湾当局派出竹联帮分子特工赴美国暗杀作家江南（刘宜良），美国警方查出幕后黑手是台湾情报机关。江南写了《蒋经国传》，对蒋总统的完美形象颇为不利。台湾情报机关雇用华人黑帮，自作主张为主解难。蒋经国得知真相后大发雷霆，抓捕相关情报机构领导人、改组情报机构并且对台湾黑帮展开著名的“一清行动”。</p>
+<p>这次的行动实在过于愚蠢，太缺乏政治智慧。真心希望是“有关部门”自作主张。</p>
+<p>现在，最有可能的情形是李波在大陆有关部门手中。《环球时报》也间接地证实了这一点。那么大陆方面该怎么办呢？</p>
+<p>公开！公开才能公平公正。这个事情迟早要有结果，越晚公布越被动。</p>
+<p>邓小平先生谈香港问题时说过一句极其重要的的话：“50年不变，50年之后没必要变。”香港不变，那么哪一边变呢？</p>
+<p>一国两制终归要过渡到“一国良制”。</p>
+<p>不要骚扰香港了。自己的政治改革任重道远呢！</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%BD%AD%E5%AE%9A%E9%BC%8E%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%B8%AA%E6%A1%88%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E6%B3%95%E6%B2%BB%E6%B8%B8%E6%88%8F%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E7%A7%8D%E6%97%A0%E6%9C%9B%E7%9A%84%E7%8A%B6%E6%80%81/" target="cdt-mirror">东网 | 赵思乐：法治游戏，这是一种无望的状态</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-%E4%B8%8A%E5%8D%885.13.26.png" alt="Screen Shot 2016-01-09 at 上午5.13.26" width="571" height="407" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-上午5.13.26-300x214.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-上午5.13.26.png 571w" sizes="(max-width: 571px) 100vw, 571px"></p>
+<p>问题是我们要怎样在这种无望中生存。</p>
+<p>你被邀请参加一个游戏，赢了就可以得到珍贵的奖品。游戏规则是对手制定的，不甚公平清晰，但你看到赢并不是不可能的，甚至只要你玩得足够好就可以修订规则。</p>
+<p>你开始玩这个游戏，耗费了大量的时间、精力和金钱，但你实在太想要那个奖品了，而且投入得越多你就越想要。你想了很多规则没有禁止的办法，巧妙而且勇敢地帮助自己在各个回合中战胜对手。你的进展不错，对手在好几个回合中败下阵来，你取得了阶段性的成果，甚至成功修订了一些规则。你觉得胜利并不是不可能的，或者至少你能让规则更合理，好让你的队友有一天能获得奖品。</p>
+<p>突然有一天，你被宣布进入了游戏的「黑夜模式」，这在原有的规则中闻所未闻。所有的游戏规则都改变了，或者说规则只有一条：「对手可以随时改变规则。」</p>
+<p>所有你在原来的「白日模式」做过的事情，在「黑夜模式」里都得被追究和惩罚，折算成「黑夜模式」里的时间和待遇。现在轮到你的身体、精神和亲人要作为游戏的筹码。至于你的队友，他们想用「白日模式」里的规则把你拯救出来，当然是徒劳——这是完全不同的两个世界。</p>
+<p>遭遇了「709大抓捕」的律师和人权捍卫者们就被邀请参加了这个游戏。</p>
+<p>目前「战况」如下：截至2015年12月30日18:00，至少316名律师、律所人员、人权捍卫者和家属被逮捕或失踪、刑事拘留、监视居住、软禁、传唤、限制出境和约谈。其中36名已被强制进入「黑夜模式」——被完全剥夺自由，处于强制措施中——他们是律师14名：王宇、包龙军、王全璋、刘四新、李和平、谢燕益、周世锋、黄力群、隋牧青、谢阳、李春富、谢远东、李姝云、张凯；律所工作者4名：赵威（考拉，括号内为使用名，下同）、高月、王芳、吴淦（屠夫）；人权捍卫者18名：勾洪国（戈平）、刘永平（老木）、林斌（望云和尚）、尹旭安、胡石根、王芳、幸清贤、唐志顺、翟岩民、张卫红（张皖荷）、刘星（老道）、李燕军、姚建清、黄益梓、张崇助、张制、程从平、严晓洁。 （注：名单来自香港机构「中国维权律师关注组」）</p>
+<p>他们中的大多数人都被指涉嫌危害国家安全犯罪，被实施「指定场所监视居住」的强制措施。这意味着什么呢？除了「对手」，没有人知道他们在哪里，没有人能见到他们，没有人知道他们遭遇了什么，没有人能阻止「对手」对他们做任何事。</p>
+<p>这个被对手命名为「法治」的游戏，已经玩了许多年。普遍认为它是2003年开始，由「胡温新政」中的各种事件启动，「依法治国」是其广告语。</p>
+<p>早期的参与者都已经「死得很惨」：废除收容遣送制度的参与者，许志永，判刑四年，仍在狱中；废除劳教制度的参与者，浦志强，判三缓三，现在外出需要带着监控手表；维权律师中的抗争派代表，高智晟，自2007年失踪到去年底才「重回人世」，仍在严密的软禁当中；维权运动的坚定推动者，郭飞雄，刚刚再次被判刑6年……</p>
+<p>他们的故事里都是满满的黑色幽默，比如这个：郭飞雄被审判时的罪名是「聚众扰乱公共场所秩序」，最长刑期是5年，但法官，而不是公诉人，在宣判时称郭飞雄还应加上一条「寻衅滋事」，于是在没有起诉、没有质证、没有辩护等等程序的情况下，郭飞雄罪加一等，判刑6年——唯一的规则就是「对手可以随时改变规则」。</p>
+<p>至于「黑夜模式」里会有何种遭遇，高智晟的经历可见一斑。他在2007年的文章《黑夜、黑头套、黑帮绑架》中披露，他被黑头套绑架至神秘地点，多名警察对他施行残酷殴打、电击全身及生殖器、香烟薰眼睛、在他身上撒尿、生殖器插牙签等等酷刑。同时，他的妻子和女儿也被警察入驻家中监控，洗澡上厕所都不得关门，上街上学也遭警察当众殴打辱骂。</p>
+<p>这样一个赢不了而且「死得很惨」的游戏，为什么总有人前赴后继地去「玩」？除了对手在不断重复地许诺之外，一方面是奖品过于诱人——民主法治——在游戏里获得任何阶段性的奖励都好像能离它更近一些；另一方面，或许是最重要的方面，除了「法治」这个游戏有一些似是而非的条文和程序作为规则以外，这个国家之内没有任何明文的规则可以推动体制的改变。</p>
+<p>这促使人们不得不前赴后继地走进这个移动迷宫，尽管从队友此起彼伏的惨叫声中，他们越来越明白迷宫尽头是黑暗的深渊，但在迷宫之外没有任何道路，只有茫茫的黑暗和无处不在的深渊。</p>
+<p>一个没有走进迷宫的改变者会怎样呢？一两个月前官媒报道称一个名叫张六毛的人企图制造炸药攻击政府。这个报道是在他在看守所死亡后发布的，在此之前，他的家人都不知道他已被刑拘。至今，他的家人还没有等到他的尸检报告。</p>
+<p>1月9日，是「709大抓捕」半周年。这不是纪念意义上的半周年，而是游戏里又一个回合的终结钟鸣，因为「指定地点监视居住」的最长期限就是半年，这意味着36名被抓者应变更强制措施，要么正式逮捕，要么刑事拘留，要么释放。当然，这只是「理论上」的规则，这些规则只要对手一句话就可以荡然无存。</p>
+<p>在这半年里，他们的队友们做了许许多多各种各样的努力，信息公开申请、控告、投诉、公开信、联署、举牌……除了部分人被拘留，没有回应。</p>
+<p>这一回合，当然是败，你无法玩赢一个「法治」游戏——「对手想用什么办法就用什么办法治你」的游戏。这些律师们即将面临怎样的命运呢？只等对手宣判。</p>
+<p>毫无疑问，这是一种无望的状态。问题是我们要怎样在这种无望中生存，是麻木地继续走进迷宫，等着规则后的深渊把自己吞噬，同时期望对手有一天突然决定遵守他自己制定的规则；抑或是走进迷宫外茫茫的黑暗。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E6%B3%95%E6%B2%BB%E6%B8%B8%E6%88%8F%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E7%A7%8D%E6%97%A0%E6%9C%9B%E7%9A%84%E7%8A%B6%E6%80%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">人权活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">良心律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2%E7%AD%89%E4%B8%89%E6%96%87%E8%89%BA%E5%9B%A2%E4%BD%93%E6%92%A4%E9%94%80/" target="cdt-mirror">自由亚洲｜解放军总政歌舞团等三文艺团体撤销</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2-%E6%91%98%E7%89%8C.png" rel="attachment wp-att-424622"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2-%E6%91%98%E7%89%8C.png" alt="总政歌舞团 摘牌" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌-300x124.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌-768x316.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌-1024x422.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/总政歌舞团-摘牌.png 2317w" sizes="(max-width: 2317px) 100vw, 2317px"></a><br><em>（截至发稿时，新浪微博搜索功能已将“总政歌舞团＋摘牌”设为敏感词；数字时代配图）</em></p>
@@ -41,7 +110,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2%E6%91%98%E7%89%8C/?category=18271" rel="tag">总政歌舞团摘牌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%B7%A5%E5%9B%A2/?category=18271" rel="tag">文工团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%85%B5/?category=18271" rel="tag">文艺兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%9D%83%E8%83%BD%E5%A4%9F%E4%B8%AD%E5%9B%BD%E5%8C%96%E4%B9%88%EF%BC%9F/" target="cdt-mirror">BBC｜吴祚来：中共政权能够中国化么？</a>
 </h2>
@@ -697,34 +766,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BA%A4%E6%98%9315%E5%88%86%E9%92%9F%E6%94%B6%E7%9B%98-%E5%9B%9B%E5%A4%A9%E4%B8%A4%E6%AC%A1%E8%A7%A6%E5%8F%91%E7%86%94/" target="cdt-mirror">奇客资讯 | 中国股市交易15分钟收盘 四天两次触发熔断</a>
-</h2>
-<p><p>受人民币快速贬值等因素的冲击，中国股市周四出现暴跌，触发熔断机制，暂停交易15分钟后重新开盘继续暴跌，再次触发熔断机制，于是股市收盘了。中国股票交易今年正式引入熔断机制以来，开年四天就有两天因为触发熔断机制提前收盘，周四的交易时间更是创下了记录。分析师对中国目前实行的熔断机制<a href="http://www.ftchinese.com/story/001065202?full=y" target="_blank">持批评观点</a>，认为涨跌停板机制已经足够了，熔断设定的阈值过低，太容易触发了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BA%A4%E6%98%9315%E5%88%86%E9%92%9F%E6%94%B6%E7%9B%98-%E5%9B%9B%E5%A4%A9%E4%B8%A4%E6%AC%A1%E8%A7%A6%E5%8F%91%E7%86%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD/?category=18271" rel="tag">熔断</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/424305/" target="cdt-mirror">【网络民议】党中央特殊行动科普：“强力部门”＋“规避法律”</a>
-</h2>
-<p><p><strong><a href="http://weibo.com/ttarticle/p/show?id=2309403928340313600245">环球时报｜香港书商配合调查真是被炒作歪了</a></strong></p>
-<blockquote><p>至于让李波出现在内地“有关部门”符合不符合《基本法》，关键看李波是以什么方式进入内地的。如果是内地警员去香港对李波采取强制行动，把他“五花大绑”塞进警车带过检查站，那肯定不行。<strong>然而全世界的强力部门通常都有规避法律让一个被调查者进行配合的办法，既达到开展工作的目的，又不跨越制度的底线</strong>。​</p>
-<p>有一点很重要，<strong>香港法律与中华人民共和国法律不是对抗的关系</strong>，前者不是用来掩护一些人或机构危害国家安全的专门制度安排。如果一些力量把香港的法律空间朝着对抗国家的极致使用，就说不准什么时候踩到危险的边界上。如果是普通人，没有做特殊斗争的准备，就不应把自己推向极限的地带。​</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BC%BA%E5%8A%9B%E9%83%A8%E9%97%A8%E8%A7%84%E9%81%BF%E6%B3%95%E5%BE%8B.png" rel="attachment wp-att-424324"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BC%BA%E5%8A%9B%E9%83%A8%E9%97%A8%E8%A7%84%E9%81%BF%E6%B3%95%E5%BE%8B.png" alt="强力部门规避法律" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/强力部门规避法律-487x1024.png 487w, http://chinadigitaltimes.net/chinese/files/2016/01/强力部门规避法律.png 605w" sizes="(max-width: 605px) 100vw, 605px"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1425459925" target="_blank">越虚子</a>：强力部门，规避法律，这还是法治社会吗？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">都可以笑出声来。</p>
-<p><a href="http://weibo.com/dyy2011conan" target="_blank">@当鱼鱼DDD</a>：“强力部门”“规避法律”……真是传说中的猪队友啊<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/michaelmjjackson" target="_blank">@村妇上春树</a>：你就说锦衣卫又非正常手段抓人的不就好了<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"> 有此猪太监 赵国基业怕是药丸<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png" alt="" width="20px" height="20px"></p>
-<blockquote><p><a href="http://weibo.com/5609633120" target="_blank">@F_雪墨</a>：目瞪口交<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/0067DrPyjw1ezqor74hokj30tq0gogna.jpg" rel="attachment wp-att-424307"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/0067DrPyjw1ezqor74hokj30tq0gogna.jpg" alt="0067DrPyjw1ezqor74hokj30tq0gogna" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/0067DrPyjw1ezqor74hokj30tq0gogna-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/0067DrPyjw1ezqor74hokj30tq0gogna-768x431.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/0067DrPyjw1ezqor74hokj30tq0gogna-1024x574.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/0067DrPyjw1ezqor74hokj30tq0gogna.jpg 1070w" sizes="(max-width: 1070px) 100vw, 1070px"></a></p></blockquote>
-<p><a href="http://weibo.com/5655397300" target="_blank">@小清新的我-宇佐见美咲</a><i></i>：我其实就是想知道，什么叫“以自己的方式回到内地”，用哆啦A梦的时光机咩。。。。。。。。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<blockquote><p>@一头小活猪：强力部门应该是如图所释操作的#我替进进叼飞盘#<br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/005yczpRgw1ezqoqjuvuaj30kq0e8my3.jpg" rel="attachment wp-att-424306"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/005yczpRgw1ezqoqjuvuaj30kq0e8my3.jpg" alt="005yczpRgw1ezqoqjuvuaj30kq0e8my3" width="440" height="302" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/005yczpRgw1ezqoqjuvuaj30kq0e8my3-300x206.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/005yczpRgw1ezqoqjuvuaj30kq0e8my3.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
-<p><a href="http://weibo.com/1843910535" target="_blank">@不妥协的豆豆</a>：其实我们国家有个秘密组织，特异功能组，能瞬间转移。<img src="https://s.w.org/images/core/emoji/72x72/1f611.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -736,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -746,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

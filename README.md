@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,116 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E4%BB%A3/" target="cdt-mirror">芝士控-Solarion：我们的时代</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b.jpg" rel="attachment wp-att-424502"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b.jpg" alt="5827890190_26a0466f91_b" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b-768x510.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a><br><em>(“Don’t rape” by <a href="https://www.flickr.com/photos/cascade_of_rant/5827890190/">Richard Potts</a>@Flickr / under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</em></p>
+<p>又一个女孩死了。<br>
+在中国，女孩难将养。<br>
+一个女孩坠楼，媒体的第一反应是强调她是跟两个男人开房的。<br>
+女孩是否被迫的，无所谓<br>
+女孩是否是被戕害的，也无所谓。<br>
+重要的是在场的两个男人。<br>
+两男一女，就足以让很多中国人幻想出一大堆下流东西。<br>
+然后他们从裤裆里把手掏出来，甩着乳白色的粘液去侮辱受害人。<br>
+她已经死了，呼天抢地痛哭流涕她看不见，你们的谩骂她也听不见。<br>
+受折磨的，只有生者。</p>
+<p>我习惯起床时和睡前刷微博<br>
+现在戒了<br>
+因为受够了在胆寒中睡下然后清早又被恶心醒。<br>
+都说中国的女人可怜。<br>
+中国的女人是可怜。<br>
+我不想谈重男轻女或者男权这类的话题。<br>
+因为这些东西关乎思想和人心，这两样东西，变化无穷捉摸不定。<br>
+我想谈谈法律，那白纸黑字的，法律。<br>
+那我所尊敬，所信仰，所依赖的法律。</p>
+<p>中国的法律，字里行间只有他，没有她。<br>
+家庭暴力是家务事，警察不管，检察官更是连看都不会看一眼。<br>
+猥亵是平常事，地铁痴汉就算是被抓住了最多也就是批评教育。<br>
+他们为什么胆大妄为？因为他们知道，比起那不痛不痒的后果来说，在无辜的女人身上摩擦自己的生殖器还是很划算的。<br>
+就算是强奸又如何？从女性到底是不是被强迫开始，一个女人需要拼尽全力才能证明自己真的是被强奸了。<br>
+不，我不是他的女友，不，我不是性服务者<br>
+不，我没有自愿，不，我尽力反抗了<br>
+不，我没有快感<br>
+不知道被审判的究竟是谁。<br>
+是男女朋友又如何？是夫妻又如何？即使妓女，也有不愿意分开腿的时候。<br>
+但是这份自由，这份法律所保护的性自由，中国的女人是没有的。<br>
+你敢说你要性自由，那就足以说明你是个荡妇，你是个贱货，你怎么会被强奸呢？你高兴的不得了。<br>
+岂不知，拒绝，也是自由的一种。</p>
+<p>我们再来说说杀人。<br>
+你知道一个人被杀了，意味着什么吗？<br>
+意味着他的生命就此终结，再也没有以后了，什么都没有了。<br>
+杀了路人的药家鑫死刑，杀了董珊珊的王光宇被判七年。<br>
+可知，女人何止是附属品，就连生命的价值都被打了折扣。</p>
+<p>从前计划生育的时候，生过孩子的女人必须要带节育环。<br>
+那东西戕害了多少中国女人。<br>
+然而，不上环孩子不能上户口，不上环单位体检发现要罚。<br>
+还谈什么财产权，连女人的子宫都要被放在放大镜下面监视。<br>
+生育权？听都没听过。<br>
+计划生育可以是国策，然而为什么计生的责任全部被推给了女人？<br>
+现在，有些女人刚要回自己的子宫。<br>
+却可能又要被逼迫着去再次生育。<br>
+那个预产期在12月26号，为了避免罚款而拖延到1月1号才生孩子的女人<br>
+媒体叫她“全面二孩政策的第一批受益人。”<br>
+我害怕，发自内心的害怕。</p>
+<p>哦，对了，媒体。<br>
+我怎么能忘了你们呢？<br>
+无论是保守派还是改革派的媒体，没有一个肯为女人发声。<br>
+看到一具冰凉的尸体，他们激动地甩着手里沾着精液的内裤，对所有人大叫：<br>
+看啊！她是个被用过的女人！<br>
+所谓丧尽天良，我想也不过如此。<br>
+所谓的媒体的良知和底线，我没见过。<br>
+受害人的照片占着大幅的版面，而强奸犯的脸打着马赛克。<br>
+这就是中国的媒体。</p>
+<p>中国传统的审美，喜欢女人如弱柳扶风。<br>
+婀娜多姿要紧，谁管你健不健康。<br>
+林黛玉的病态我见犹怜，就连身体无恙的薛宝钗也要吃着冷香丸，以表示自己四体不勤。<br>
+姑娘们，我要告诉你们一个被掩盖的真相。<br>
+我不知道他们是否真心喜爱女人娇弱的样子，<br>
+但我可以告诉你们，<br>
+他们没打算保护娇弱的女人。<br>
+警察说，女性应该保护自己。<br>
+可女人的税，照样拿去养警察。<br>
+中国的社会，是吝于向女人展露温情的。</p>
+<p>最后，我们再来说说女人。<br>
+那些说“正经女人怎么会和男人喝酒/唱歌/开房/约炮/做网友”的女人<br>
+那些说“正经女人怎么会穿低胸衣/短裙/短裤/背心/高跟鞋”的女人<br>
+那些说“正经女人怎么会去酒吧/网吧/酒店/夜店”的女人<br>
+那些说“正经女人怎么会一个人/那么晚/和男人一起出去”的女人<br>
+其实我很懂你们，你们不是在做道德批判。<br>
+你们是在保护自己。<br>
+你们以为，只要自己是和受害人不同的，自己就永远不会成为受害人。<br>
+你们大错特错。<br>
+女人足不出户的那个年代，就没有强奸案吗？<br>
+没有人穿短裤短裙背心的时代，就没有强奸案吗？<br>
+你们那点愚蠢的自我慰藉，不过是自欺欺人而已。<br>
+你没有受害，不是因为你道德高尚或者因为你懂得了生存之道。<br>
+是因为你幸运。<br>
+今天如此，下周呢？下个月呢？明年呢？<br>
+如果你也有哪怕一丝丝的恐惧，那就请你，闭上你侮辱受害人的那张嘴。<br>
+她已经死了，不需要你再去侮辱她。</p>
+<p>看到这样的新闻，总是会胆寒。<br>
+似有无数妖怪埋伏在暗中，伺机而动。<br>
+鲁迅说社会吃人，我感同身受。<br>
+中国有多少政策是蘸着女人的血写成的，你我都知道。<br>
+新中国的历史上，女人没有过暴乱，也没有屠杀过男人。<br>
+可惜，你没作恶，并不代表你不会受难。</p>
+<p>你们听没听过那个故事。<br>
+四个小孩在铁轨上玩耍，一个小孩在废弃的铁轨上玩耍。<br>
+火车来了。<br>
+你要轧死谁？</p>
+<p>言尽于此，已不知所云。<br>
+希望大家珍重。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E4%BB%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">家庭暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5%E6%A1%88/?category=18271" rel="tag">性侵案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%B0%8A%E5%A5%B3%E5%8D%91/?category=18271" rel="tag">男尊女卑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%9C%E6%B9%96%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E6%A1%88/?category=18271" rel="tag">芜湖女大学生坠亡案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E8%BF%99%E6%98%AF%E8%82%96%E9%92%A2%E4%B8%8E%E7%8E%8B%E6%AC%A3%E4%BA%89%E5%A4%BA%E5%A4%B4%E6%9D%A1%E7%9A%84%E4%B8%80%E5%A4%A9/" target="cdt-mirror">花儿街参考｜这是肖钢与王欣争夺头条的一天</a>
 </h2>
 <p><p>林老湿的一天是这样度过的。当我回首往事的时候,想到这一天虽然碌碌无为、虚度年华，但我绝不悔恨；想到我为人卑鄙、生活庸俗，但我更不愧疚，因为这一天我看到了更卑鄙、更庸俗的存在。我会说“我把这24小时的生命和全部的精力献给了世界上最壮丽的事业——观看头条争夺大战”。</p>
@@ -604,28 +711,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/" target="cdt-mirror">【河蟹档案】惹恼了谁？《佳访》李佳佳遭到朝阳群众举报</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%89%B9%E9%95%BF%E8%80%81105">艹长老105</a>：在兲朝，凡标有“人民”二字的东西，你只要换为“赵家”二字，一切便都清晰。“为赵家服务”，“赵家公仆”，“赵家教师”，“赵家医院”，“赵家法院”，“赵家日报”，“严重伤害了中国赵家人的感情”……<em>相关阅读｜《<a href="http://cn.nytimes.com/china/20160105/c05chinazhao/">纽约时报<em>｜</em>“赵家人”：中共权贵阶层的新称号</a>》</em><br><a href="https://freeweibo.com/weibo/3927163936096842" target="/weibo/392">2016年01月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B0%B7%E5%A4%A7%E7%99%BD%E8%AF%9D">谷大白话</a>：【看新闻学英语】sarcastic, Zhao family member, Zhao in spirit, Lu Xun, The True Story of Ah Q. <em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">数字时代<em>｜赵家人专题</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-6.jpg" alt="333" width="326" height="542"><br><a href="https://freeweibo.com/weibo/3928314165046844" target="/weibo/392">2016年01月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%9B%B7%E9%A2%90">雷颐</a>：微信上看到的<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-1.jpg" alt="333" width="416" height="432" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-1-289x300.jpg 289w, http://chinadigitaltimes.net/chinese/files/2016/01/333-1.jpg 405w" sizes="(max-width: 416px) 100vw, 416px"><br><a href="https://freeweibo.com/weibo/3927347566558430" target="/weibo/392">2016年01月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40lelige">lelige</a>：【真理部】精赵、贵赵、赵家人、赵王、你国、你党等   <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%B2%BE%E8%B5%B5%E3%80%81%E8%B4%B5%E8%B5%B5%E3%80%81%E8%B5%B5%E5%AE%B6%E4%BA%BA%E3%80%81%E8%B5%B5%E7%8E%8B%E3%80%81%E4%BD%A0%E5%9B%BD%E3%80%81%E4%BD%A0/">【真理部】精赵、贵赵、赵家人、赵王、你国、你党等</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-2.jpg" alt="333" width="470" height="319" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-2-300x204.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-2.jpg 704w" sizes="(max-width: 470px) 100vw, 470px"><br><a href="https://freeweibo.com/weibo/3927180708520360" target="/weibo/392">2016年01月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E9%93%B6%E6%B2%B3">李银河</a>：马克思在他生活的年代（19世纪）就参与了争取言论自由出版自由的斗争，有专论批判普鲁士的书报检查制度。时间之轮已经转到21世纪，中国人民还在争取这个权利，尽管我们的主流意识形态是马克思主义，我们的宪法中也早就有了言论自由和出版自由的条款。李银河公众号已推送：审查制度的要害是害怕真相。<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%93%B6%E6%B2%B3">维基百科<em>｜</em>李银河</a>》</em><br><a href="https://freeweibo.com/weibo/3926908913335048" target="/weibo/392">2016年01月02日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%87%91%E8%BD%AE%E6%B3%95%E7%8E%8B1209">金轮法王1209</a>：分享图片<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-3.jpg" alt="333" width="389" height="550" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-3-212x300.jpg 212w, http://chinadigitaltimes.net/chinese/files/2016/01/333-3.jpg 640w" sizes="(max-width: 389px) 100vw, 389px"><br><a href="https://freeweibo.com/weibo/3927262652742697" target="/weibo/392">2016年01月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%AB%E5%AE%B6%E7%A7%81">享家私</a>：这就是和谐社会了。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-4.jpg" alt="333" width="415" height="415" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-4-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/333-4.jpg 600w" sizes="(max-width: 415px) 100vw, 415px"><br><a href="https://freeweibo.com/weibo/3927158071993323" target="/weibo/392">2016年01月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E5%B9%B3%E5%AE%A2">老平客</a>：香港铜锣湾禁书书店相关人等全部消失<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333.jpg" alt="333" width="387" height="5653"><br><a href="https://freeweibo.com/weibo/3926893176633915" target="/weibo/392">2016年01月02日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%86%E4%BC%9F%E6%B0%91%E5%BE%8B%E5%B8%88">陆伟民律师</a>：对于铜锣湾一间书店负责人怀疑失踪事件，行政长官梁振英表示他和特区政府高度关注，申明根据「一国两制」安排和《基本法》规定，只有香港执法人员有权在港执法。<em>相关阅读｜《<a href="http://sc.news.gov.hk/TuniS/www.news.gov.hk/tc/categories/admin/html/2016/01/20160104_124410.shtml">书店股东失踪 政府高度关注</a>》</em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3927608146106959" target="/weibo/392">2016年01月04日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40Vet%E8%80%8C%E5%8F%91">Vet而发</a>：关于李佳佳利用“三个阵地”进行宣传的举报 致：广东省国家安全厅、广东省网信办、广东省省委宣传部、广东广播电视台纪委。<em>相关阅读｜《<a href="http://weibo.com/saysayjiajia?is_all=1">李佳佳新浪微博</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-7.jpg" alt="333" width="440" height="15983"><br>
-相关视频：</p><p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3928297404601039" target="/weibo/392">2016年01月06日</a>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">党委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%93%B6%E6%B2%B3/?category=18271" rel="tag">李银河</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91/?category=18271" rel="tag">人民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BD%B3%E4%BD%B3/?category=18271" rel="tag">李佳佳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E5%93%81%E5%BE%B7/?category=18271" rel="tag">思想品德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6/?category=18271" rel="tag">赵家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -637,7 +722,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -647,5 +732,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,119 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%BB%8D%E5%8F%97%E7%9B%91%E8%A7%86%EF%BC%8C%E8%A2%AB%E6%88%B4%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/" target="cdt-mirror">【河蟹档案】浦志强仍受监视，被戴“缓刑手表”</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E6%98%8C%E5%B9%B3">罗昌平</a>：玩币归赵 ！<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E7%BD%97%E6%98%8C%E5%B9%B3">维基百科<em>｜罗昌平</em></a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/">【草泥马语】玩币归赵、赵令习改</a>》</em><br><a href="https://freeweibo.com/weibo/3928783491032820" target="/weibo/392">2016年01月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B3%95%E5%BE%8B%E5%8F%8A%E5%85%B6%E4%BB%B7%E5%80%BC">法律及其价值</a>：【敏感词？】”赵家人“——根据相关法律法规和政策，部分搜索结果未予显示。<em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">数字时代<em>｜赵家人专题</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-14.jpg" alt="赵家人" width="540" height="216" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-14-300x120.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-14.jpg 540w" sizes="(max-width: 540px) 100vw, 540px"><br><a href="https://freeweibo.com/weibo/3928619938108076" target="/weibo/392">2016年01月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9B%B9%E5%B1%B1%E7%9F%B3">曹山石</a>：经典重温：肖钢自称数学差最初无意学金融，这辈子只做对这一件事情——选对了老婆。*//<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E6%99%8B%E5%A6%82">@徐晋如</a>：一个屁轰掉了6.6万亿。*//<a href="https://freeweibo.com/weibo/%4012345%E5%B0%8F%E5%8D%92">@12345小卒</a>：三次股灾水平够高[弱]*//<a href="https://freeweibo.com/weibo/%40%E6%BD%98%E7%9B%8A%E5%85%B5">@潘益兵</a>：其实早该辞职了。<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%82%96%E9%92%A2">维基百科<em>｜肖钢</em></a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E8%BF%99%E6%98%AF%E8%82%96%E9%92%A2%E4%B8%8E%E7%8E%8B%E6%AC%A3%E4%BA%89%E5%A4%BA%E5%A4%B4%E6%9D%A1%E7%9A%84%E4%B8%80%E5%A4%A9/">花儿街参考｜这是肖钢与王欣争夺头条的一天</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912016%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%A1%80-%E6%AF%94%E5%BE%80%E5%B9%B4%E6%9D%A5%E5%BE%97%E6%97%A9%E4%B8%80%E4%BA%9B/">【网络民议】2016年的第一场血 比往年来得早一些</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-12.jpg" alt="肖刚" width="565" height="163" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-12-300x87.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-12.jpg 652w" sizes="(max-width: 565px) 100vw, 565px"><br><a href="https://freeweibo.com/weibo/3928602208763742" target="/weibo/392">2016年01月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：浦律师被免费送戴一款“高、精、尖”的缓刑手表，据说带着洗澡也没问题。不仅能定位，或许能录音，唯一麻烦就是进洞房可能也摘不下，总之一切悠着点！<em>相关阅读｜《BBC<em>｜</em><a href="http://www.bbc.com/zhongwen/simp/china/2015/12/151222_china_rights_lawyer_verdict">中国维权律师浦志强被判缓刑后监视居住</a>》；《<a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160103_china_rights_lawyer">BBC<em>｜</em>监视居住期限将届 中国维权律师浦志强确认不上诉</a>》；《<a href="http://hk.on.cc/cn/bkn/cnt/news/20160107/bkncn-20160107150815457-0107_05011_001_cn.html?refer=fn2">东网<em>｜</em>浦志强要戴电子跟踪手表 24小时受监控</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-13.jpg" alt="浦志强" width="444" height="770" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-13-173x300.jpg 173w, http://chinadigitaltimes.net/chinese/files/2016/01/333-13.jpg 553w" sizes="(max-width: 444px) 100vw, 444px"><br><a href="https://freeweibo.com/weibo/3928681561264110" target="/weibo/392">2016年01月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%93%9D%E9%B2%B8%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0">蓝鲸财经记者工作平台</a>：中宣部下发通知，做好贴春联工作。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-9.jpg" alt="333" width="545" height="526" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-9-300x289.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-9.jpg 654w" sizes="(max-width: 545px) 100vw, 545px"><br><a href="https://freeweibo.com/weibo/3929038424816848" target="/weibo/392">2016年01月08日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%8D%86%E6%A5%9A%E7%8B%82%E7%94%9F1957">荆楚狂生1957</a>：<a href="https://freeweibo.com/weibo/%40William">@William</a> 昨晚去舒向新律师家，舒律师夫人去蔡瑛律师处未回，舒律师的女儿在家。···于新永、张继伟也相继过来看望舒律师家人。我们等舒律师夫人（刘秀芹）回来后了解了舒律师在看守所的情况。看守所对舒向新的验伤报告如下：眼部、头部多处外伤，有脑积水、脑萎缩、脑梗塞症状。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf2-01062016102135.html">自由亚洲<em>｜</em>公民赴公安部控告济南看守所虐待舒向新律师</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf2-01082016100443.html">自由亚洲<em>｜舒向新被判6个月 数百公民到场声援 律师被拒进入法庭 舒女遭殴打致昏</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-10.jpg" alt="舒向新律师" width="365" height="649"><br><a href="https://freeweibo.com/weibo/3928958854949855" target="/weibo/392">2016年01月08日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E5%B7%A6%E8%AF%86%E9%80%94">老左识途</a>：<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/">【河蟹档案】惹恼了谁？《佳访》李佳佳遭到朝阳群众举报</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-16.jpg" alt="李佳佳" width="445" height="478" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-16-279x300.jpg 279w, http://chinadigitaltimes.net/chinese/files/2016/01/333-16.jpg 609w" sizes="(max-width: 445px) 100vw, 445px"><br><a href="https://freeweibo.com/weibo/3927696390071638" target="/weibo/392">2016年01月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%BC%8E%E7%9B%9B-%E6%98%BE%E6%91%86">鼎盛-显摆</a>：宁夏上上下下的傻逼们，都在忙着舔驴叫屁眼、推动阿拉伯语成为官方语言吧？你们辛苦了。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/bbc-%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%9117%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%B8%80%E7%96%91%E7%8A%AF%E4%BF%A1%E6%81%AF%E6%9B%9D%E5%85%89/">BBC | 银川公交车起火至少17人死亡 一疑犯信息曝光</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-8.jpg" alt="马永平" width="507" height="891" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-8-768x1349.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-8-583x1024.jpg 583w, http://chinadigitaltimes.net/chinese/files/2016/01/333-8.jpg 822w" sizes="(max-width: 507px) 100vw, 507px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-15.jpg" alt="马永平" width="341" height="593"><br><a href="https://freeweibo.com/weibo/3929086575088728" target="/weibo/392">2016年01月08日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40DC%E8%83%96%E5%85%94%E5%AD%90">DC胖兔子</a>：讀報：銅鑼灣書局怎么了。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6%E4%BB%A4%E9%A6%99%E6%B8%AF%E4%BA%BA%E4%BA%BA%E8%87%AA%E5%8D%B1/">纽约时报｜“禁书”书商失踪事件令香港人人自危</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-17.jpg" alt="铜锣湾书店" width="428" height="637"><br><a href="https://freeweibo.com/weibo/3927769090196839" target="/weibo/392">2016年01月05日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">任志强</a>：居然是这样？<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%BF%97%E5%BC%BA">维基百科<em>｜任志强</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-11.jpg" alt="333" width="445" height="496" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-11-269x300.jpg 269w, http://chinadigitaltimes.net/chinese/files/2016/01/333-11.jpg 640w" sizes="(max-width: 445px) 100vw, 445px"><br><a href="https://freeweibo.com/weibo/3928782081444987" target="/weibo/392">2016年01月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B2%A1%E6%9C%89%E7%BE%8A%E5%85%88%E7%94%9F">没有羊先生</a>：千万篇环球时报政论，其实只有两句话：1.「党国这么做，一定有它的道理。有时党国看起来没道理，但其实还是很有道理。」。2.「西方这么做，一定有它的阴谋。有时西方看起来没阴谋，但其实还是很有阴谋。」围绕这两句话，结合时事扩写呗。<br><a href="https://freeweibo.com/weibo/3928227896476236" target="/weibo/392">2016年01月06日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%BB%8D%E5%8F%97%E7%9B%91%E8%A7%86%EF%BC%8C%E8%A2%AB%E6%88%B4%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E5%8F%B2/?category=18271" rel="tag">习近平情史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF/?category=18271" rel="tag">刑讯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%81%94%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">春联工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BD%B3%E4%BD%B3/?category=18271" rel="tag">李佳佳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%BC%80%E5%A4%8D/?category=18271" rel="tag">李开复</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD/?category=18271" rel="tag">熔断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/?category=18271" rel="tag">玩币归赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/?category=18271" rel="tag">缓刑手表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">罗昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%B7%A6%E8%AF%86%E9%80%94/?category=18271" rel="tag">老左识途</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%92%E5%90%91%E6%96%B0/?category=18271" rel="tag">舒向新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4/?category=18271" rel="tag">银川公交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E5%B9%B3/?category=18271" rel="tag">马永平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E8%AF%B7%E6%8D%82%E7%9D%80%E8%84%B8%EF%BC%8C%E5%9D%9A%E6%8C%81%E7%9B%B4%E6%92%AD%E7%9A%84%E5%8B%87%E6%B0%94/" target="cdt-mirror">六神磊磊：请捂着脸，坚持直播的勇气</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/640-1.jpg" rel="attachment wp-att-424634"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640-1.jpg" alt="640" width="460" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640-1-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/640-1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>来自微信公号：六神磊磊读金庸 (ID: dujinyong6)</p>
+<p><strong>文／六神磊磊</strong></p>
+<p><em>今天我站在法检两家的立场上说一点话</em></p>
+<p><strong>一</strong></p>
+<p>王欣案的直播，似乎出了一点小意外。</p>
+<p>关上门，本来可以鲁提辖拳打镇关西；一公开，就变成许褚裸衣斗马超。</p>
+<p>我看到有一些评论人，很看不惯一边倒挺王欣的“民意”，他们奋力地试图说明：王欣在狡辩。</p>
+<p>可是这很奇怪吗？一个人，马上可能要被判有罪了，马上要面临严重的刑罚了，他当然可能要狡辩啰！此时不狡辩，更待何时呢？</p>
+<p>法律的公正，不能寄望于靠被告不狡辩来实现。</p>
+<p>作为一个围观群众，我真的并不在乎一个被告是不是在狡辩，我只关心我们的公诉人和法官是不是职业、素质如何。如果你不能理解这一句，可以取消对我的关注。</p>
+<p><strong>二</strong></p>
+<p>现在，我觉得有一个最值得关注的问题：</p>
+<p>我们的法检两家，会怎么总结和反思这一次庭审？</p>
+<p>翌日，如果分管领导、政法委、宣传部门、公诉机关、侦察机关坐在一起，关上了门，大家默默对视着，又会怎么总结和反思这一次庭审？</p>
+<p>可以理解，会有一些唏嘘：哎，谢特，我去……</p>
+<p>但我希望千万不要得出一个结论：TNND，下次再也不搞直播了。</p>
+<p>千错万错，直播没错。千吊打万吊打，直播值得鼓励。</p>
+<p><strong>三</strong></p>
+<p>法院为什么要网上直播这个案子？我不了解内情。大致可以猜想一下。</p>
+<p>直播是有风险的。这肯定不是一时冲动，也不是一个基层院可以决定的，肯定是请示上级院同意的结果。</p>
+<p>过去，只有少数全国关注的“大佬案”才搞了直播，就好像在江湖武林中，审判欧阳锋、审判左冷禅、审判金轮法王、审判星宿老怪才搞直播。</p>
+<p>现在王欣案也搞直播，出乎意料。</p>
+<p>也许是法院为了树立一个标杆，也许是要体现司法体制改革的成果，也不排除法院领导个人对公正公开有所追求，心中有一份情怀，想搞一点突破。</p>
+<p>谁想得到对方这么牙尖嘴硬啊？甚至还做无罪辩护。</p>
+<p>一不小心，庭审向着另一个方向滑去，变成所谓的“吊打”。</p>
+<p><strong>四</strong></p>
+<p>我知道，如果不直播，什么鸟事都没有了。</p>
+<p>关起门来，一切都会不一样的。公诉人会以泰山之势，碾压“最有种的男人”。</p>
+<p>王欣和辩护人将没有机会长篇大论，纵论情怀，还没发挥几句就会被审判长打断了。</p>
+<p>不搞直播，你我最后只能读读通稿，看几句不咸不淡的庭审描述，然后你还看你的芈月传，我还发我的万柳书院广告，一切云淡风轻，就此过去。</p>
+<p>可是一直播，战斗就变成了另一个样子，公诉人紧张了，整个矮了一头；辩护人兴奋了，整个高了一头；审判长又要表现不偏不倚，让被告说话。</p>
+<p>于是各种吊打，各种被带到坑里。被告一边，王欣甚至有藐视审判长之嫌，居然还能频频反问。</p>
+<p><strong>五</strong></p>
+<p>经此一役，法院想要推进公开的小心脏，想必很受了一番挫折。法检两家很容易把账算到直播头上。这是最不好的。</p>
+<p>每当发生错误时，最怕的就是倒退式的、简单化的反思。</p>
+<p>例如前些年某地的一起个案：一个执法者粗暴地打了人，还踩住她的头发。这个场面被人拍照上网，成了热点，当事人被处分。</p>
+<p>对于此事，最好的反思是慎用警力，并提高执法队伍的素质。</p>
+<p>可我却很担心，他们经过闭门总结、认真反思后，得出的结论是：以后千万当心手机，可别让人拍到了！谁拍就弄谁丫的。</p>
+<p>如此一来，不好的执法习惯仍会继续，而唯一发生的变化是：一见到手机就拼命抢。</p>
+<p>同样地，这次王欣案直播，最好的反思是：我们的法官、公诉人、侦察人员要多勤练内功。</p>
+<p>而最不该有的反思是：都是直播惹的祸。以后能不直播就不直播啰，能不公开就不公开啰。就算要公开审，那也尽量少报道、不报道，开庭时找个小厅，多安排群众演员把位子坐满啰。</p>
+<p>我希望一定不要有这样的反思。</p>
+<p><strong>六</strong></p>
+<p>最后，对王欣案，我来鼓励法检两家几句吧。</p>
+<p>没错，审判长有一些问题似乎不专业。</p>
+<p>但是他至少保障了辩护一方的权利，做到了双方机会平等，让我们大家看到了一场精彩的刑案抗辩。</p>
+<p>对于没有正经国产律政剧看的我们而言，这是很难得的。</p>
+<p>我也来鼓励公诉机关几句吧。</p>
+<p>法院要搞直播，你们心里大概也是有意见的，上场时也是心里咯噔咯噔的。</p>
+<p>但你们至少没有对王欣搞道德审判，没有忽然说他买春；你们的人才储备或许还不够，但毕竟没有搞“支持起诉”，把上级院的人临时调到基层院来当公诉人。</p>
+<p>多直播，才能多历练。郭靖的绝世武功怎么来的？欧阳锋在农家乐里逼着打架练出来的！杨过的绝世武功怎么来的？神雕逼着他打架、洗洪水澡练出来的！</p>
+<p>上场练得多了，我们才会少一些播音腔公诉人，少一些只会字正腔圆、以气驭剑、一边倒怒斥对面的公诉人，多一些真正的精英，上得了真正的拳台。</p>
+<p>今天啪啪啪，是了明天的啊啊啊。</p>
+<p>请捂着脸，坚持直播的勇气。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E8%AF%B7%E6%8D%82%E7%9D%80%E8%84%B8%EF%BC%8C%E5%9D%9A%E6%8C%81%E7%9B%B4%E6%92%AD%E7%9A%84%E5%8B%87%E6%B0%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%AD%E5%AE%A1%E7%9B%B4%E6%92%AD/?category=18271" rel="tag">庭审直播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/709%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95-%E9%83%A8%E5%88%86%E4%BA%BA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F%E6%9C%9F%E5%B1%8A%E6%BB%A1%E4%BB%8D%E4%B8%8B%E8%90%BD%E4%B8%8D/" target="cdt-mirror">自由亚洲｜709大抓捕 部分人监视居住期届满仍下落不明</a>
+</h2>
+<p><p><em>原标题：709维权律师大抓捕 部分人监视居住期届满仍下落不明</em></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057.jpeg" rel="attachment wp-att-424629"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057.jpeg" alt="人权团体声援大陆被捕维权律师。（忻霖摄影）" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057-300x200.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>人权团体声援大陆被捕维权律师。（忻霖摄影）</p></div>
+<p>中国当局去年7月大肆抓捕维权律师，警方以“监视居住”名义将他们关在秘密地点，1月9号法定“监视居住”六个月的期限将届满。国际人权组织敦促中国当局释放38名被拘禁律师和维权人士。有中国律师也在为在押同事争取自由。</p>
+<p>总部设在美国纽约的“人权观察”组织1月7号发表声明，呼吁中国释放2015年7月以来被捕的、与北京锋锐律师事务所相关的38名维权律师和活动人士。声明指出，1月9号，多名被捕的律师和维权人士六个月的“指定监视居住”将期满，中国当局应该依法释放他们。“人权观察”中国部主任索菲・理查森在声明中指出，秘密拘押数十名律师，已让中国主席习近平自诩的依法治国成为笑话，如果不能在六个月期限届满时将这38人全部释放，未来不会再有任何人相信中国当局会尊重自己制定的法律。</p>
+<p>“人权观察”中国部主任索菲・理查森1月8号接受本台记者电话采访时表示，</p>
+<blockquote><p>“当你看到一个强权政府如此明显、故意的违背自己的法律，而不顾国内外的强烈谴责，很明显中国共产党继续把司法体系看作是为党权力服务的工具，中国的司法不是独立的。”</p></blockquote>
+<p>“人权观察”的声明指出，2015年7月到9月期间,中国当局逮捕了全国各地300多名人权律师和活动人士。大逮捕开始不久，官方媒体就发表对这些律师、维权人士的不实指控，并播出部分在押人员的“认罪”视频，抹黑相关人员及其工作。香港非政府组织“中国维权律师关注组的资料”显示，包括北京锋锐律师事务所的王宇律师夫妇在内，目前仍有38人被拘留，其中21人仍被警方“指定监视居住”，13人可能遭受了其他形式的强制措施，4人“被失踪”。被拘留的38人中只有一人获准会见律师，没有任何人获准会见家属。中国当局还限制了约30名律师出境。一些被拘留者的家庭成员也被警方骚扰。</p>
+<p>在美国的项小吉律师就此评论说：</p>
+<blockquote><p>“在中国，‘法治’基本上是一个虚假的东西。不管你是什么群体，不管你是律师还是什么别的群体，你只要触碰了当局的权威、利益，它就实施镇压，毫无程序可言。”</p></blockquote>
+<p>法新社1月8号报道，在中国大陆，目前仍有16名维权律师被秘密关押，他们的家人生活在恐惧和孤立无援中。为争取在押同事重获自由，许多中国律师仍在不懈努力。如余文生律师，去年也曾被拘押，现在是同行王全璋的辩护律师。王全璋曾为法轮功学员担任辩护律师。余文生对法新社记者表示，“共产党用武器维护统治。我们不能用枪，但至少能用法律作为武器（维权）。”</p>
+<p>王全璋的另一名辩护律师王秋实1月8号晚间接受本台记者采访时介绍说，警方告知他，王全璋涉嫌寻衅滋事、煽动颠覆国家政权，目前在天津被”监视居住”，但因”国家安全”原因不能透露地点，也不让律师与王全璋会面。王秋实律师说：</p>
+<blockquote><p>“他们从来就没有告知过我们到底是在什么地方监视居住。我要求河西分局和天津市公安局信息公开，王全璋监视居住期间的伙食、衣物所花费用的财政信息，也都被羁押单位拒绝了。”</p></blockquote>
+<p>王秋实律师表示，他和于文生律师已在上个月末就王全璋案向天津公安局递交《履行职责要求书》，指出天津市河西区公安分局诸多违法行为，包括：在王全璋被采取强制措施后，辩护人及家属从未得相关法律文书；警方至今不告知律师及家属被采取强制措施的时间地点；至今不向律师告知案情；妨碍律师与王全璋行使通信权等。警方至今仍未对《要求书》作出任何回复。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/709%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95-%E9%83%A8%E5%88%86%E4%BA%BA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F%E6%9C%9F%E5%B1%8A%E6%BB%A1%E4%BB%8D%E4%B8%8B%E8%90%BD%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A7%81%E8%80%85/?category=18271" rel="tag">持不同政见者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B/?category=18271" rel="tag">王全璋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%BD%A6%E6%B5%A9%EF%BC%9A%E5%BF%AB%E6%92%AD%E6%98%AF%E5%90%A6%E5%BA%94%E4%B8%BA%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%AD%E7%AB%8B%E8%A1%8C%E4%B8%BA%E4%B9%B0%E5%8D%95/" target="cdt-mirror">车浩：快播是否应为互联网中立行为买单?</a>
 </h2>
 <p><p>文/车浩（北京大学法学院副教授）</p>
@@ -56,7 +166,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">互联网监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E6%B3%95/?category=18271" rel="tag">刑法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">网络警察</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%BD%AD%E5%AE%9A%E9%BC%8E%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%B8%AA%E6%A1%88%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB/" target="cdt-mirror">BBC中文网 | 彭定鼎：香港失踪案背后的政治</a>
 </h2>
@@ -198,7 +308,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E6%88%98
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E6%94%BF%E6%AD%8C%E8%88%9E%E5%9B%A2%E6%91%98%E7%89%8C/?category=18271" rel="tag">总政歌舞团摘牌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%B7%A5%E5%9B%A2/?category=18271" rel="tag">文工团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%85%B5/?category=18271" rel="tag">文艺兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%85%B1%E6%94%BF%E6%9D%83%E8%83%BD%E5%A4%9F%E4%B8%AD%E5%9B%BD%E5%8C%96%E4%B9%88%EF%BC%9F/" target="cdt-mirror">BBC｜吴祚来：中共政权能够中国化么？</a>
 </h2>
@@ -678,125 +788,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E6%B5%81%E8%A1%8C%E7%9A%84%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">东网｜乔木：赵家人流行的原因</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/space/%E8%B5%B5%E5%AE%B6%E4%BA%BA" target="_blank">赵家人</a>，这一源于鲁迅的<a href="http://chinadigitaltimes.net/space/%E6%9D%83%E8%B4%B5" target="_blank">权贵</a>家族代称，经网民接力加工，旧词焕发新生，简单直接地反映了中国社会日益紧张的朝和野、官和民、权贵和百姓、你们和我们、赵家人和非赵家人之间的社会对立关系。</p>
-<p>赵家人流行的背后，有深刻的政治、经济原因，和变化的历史、现实背景。</p>
-<p>历史上，“普天之下莫非王土，率土之滨莫非王臣”，一切都是以赵匡胤为代表的皇家的，岳母刺字的“精忠报国”，也是报效朝廷，报答赵家之恩。辛亥革命结束帝制，中国进入现代的共和政体，道理上国家属于每个国民，而不是专属某人、某个家族或某党、某派。但随即军阀混战，更有国共的残酷内战。中共宣称国民党有四大家族，在推翻了“蒋家王朝”和三座大山之一的“官僚资本主义”后，建立了新政权。</p>
-<p>毛泽东在天安门城楼喊人民万岁、中国人民站起来了，很快发现站着的只是他，人民跪拜，喊他万岁。承诺的联合政府不再提起，人民公社把分出去的土地又收了回来，公私合营、消灭私有制的结果是一切变成公有。但是谁掌握权力、不受监督的权力，公有制就是最大的私有制，国有制变成官有制，家天下变成党天下。</p>
-<p>改革开放表面的发展和繁荣，并没有改变党国一体的性质，权贵赵家人更是以人民和国有的名义，垄断权力和巨额财富。中国跃居全球第二大经济体，更有世界上最有钱的政府，但国内腐败，对外撒币，民生福利，万般心酸。除了既得利益的赵家人，以及分得残羹冷炙的赵家狗，没有几个人对现状满意。</p>
-<p>近三年开始又一轮反腐，而且动静很大，没收的贪腐官员的赃款，动辄以亿计、以吨量。但民众没有从反腐中获得任何经济上的好处，赃款既没有返还民众、发红包、增福利，也没有减税退税。与此同时，继续征收重税、高价卖地、哄抬房价、滥发货币、物价飞涨。</p>
-<p>最具讽刺意味的是，去年以来股市大跌，中小投资者损失惨重。赵家人集中的证监会开始救市，成立应急小组，组织国家队入场，不许做空。但最终结果是，负责救市的证监会副主席姚刚、主席助理张育军落马，更有监管处长、发行处长、发审委员、投资者保护局局长、稽查总队副队长前赴后继。</p>
-<p>随着赵家人把持的中信证券、国泰君安、长江证券等公司的董事长、总经理落马，十几家国有证券公司的被查，原来所谓的救市，又是赵家人在发国难财。而赵家人和“门客”拍着脑门想出的熔断，不仅是个笑话，更是对非赵家的又一次洗劫。</p>
-<p>就是反腐，也是赵家人内部清理门户的封闭式反腐，非赵家人既没有监督权、参与权，也没有知情权，只能等最后赵家日报或新赵社的统一新闻发布。而且反腐的动静再大，也没有从根子上解决问题。关键在于权力的产生是民选，还是赵家委派？权力是由百家监督，还是赵家人内部监督？</p>
-<p>这就回到<a href="http://chinadigitaltimes.net/space/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9" target="_blank">政治改革</a>的老问题。从1987年中共十三大提出政治改革，到2012年两会上温家宝下台前还在说：“没有政治体制改革的成功，经济体制改革不可能进行到底，社会上新产生的问题，也不能从根本上得到解决。”</p>
-<p>可是最近三年，政改提都不再提，甚至党内民主都不讲，内部权力进一步集中，外部抓网民、抓记者、抓律师、抓维权人士，媒体正能量，全国被做梦。红二代从地方到中央全面掌权，红三代政商兼顾，蓄势待发。</p>
-<p>赵家人突然流行的导火索是宝能收购万科大战，看看背后的<a href="http://chinadigitaltimes.net/space/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9" target="_blank">安邦保险</a>：董事长<a href="http://chinadigitaltimes.net/space/%E5%90%B4%E6%99%93%E8%BE%89" target="_blank">吴晓辉</a>是<a href="http://chinadigitaltimes.net/space/%E9%82%93%E5%B0%8F%E5%B9%B3" target="_blank">邓家</a>的外孙女婿，董事<a href="http://chinadigitaltimes.net/space/%E9%99%88%E5%B0%8F%E9%B2%81" target="_blank">陈小鲁</a>是<a href="http://chinadigitaltimes.net/space/%E9%99%88%E6%AF%85" target="_blank">陈毅</a>的儿子，前董事<a href="http://chinadigitaltimes.net/space/%E6%9C%B1%E4%BA%91%E6%9D%A5" target="_blank">朱云来</a>是<a href="http://chinadigitaltimes.net/space/%E6%9C%B1%E9%95%95%E5%9F%BA" target="_blank">朱镕基</a>的儿子，就知道什么是赵家人了。</p>
-<p>赵家人迅速流行与中国近年的政经变化有关。虽然网民在使用该词的时候心态各异，有抱怨，有调侃，但也借此表达不满，希望改变。政治上能参与国家的管理，经济上能公平地获得好处。通过这一极具冲击力的概念，警醒当局，除了反腐，到了政治改革、还政于民、还利于民的时候了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<hr><p><small>© 朝阳群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E6%B5%81%E8%A1%8C%E7%9A%84%E5%8E%9F%E5%9B%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%9C%A8/?category=18271" rel="tag">乔木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E6%99%93%E8%BE%89/?category=18271" rel="tag">吴晓辉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E9%95%95%E5%9F%BA/?category=18271" rel="tag">朱镕基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5/?category=18271" rel="tag">权贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E8%B4%B5%E8%B5%84%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">权贵资产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%B0%8F%E9%B2%81/?category=18271" rel="tag">陈小鲁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%AF%85/?category=18271" rel="tag">陈毅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%99%88%E4%B8%B9%E9%9D%92%EF%BC%9A%E7%AC%91%E8%B0%88%E5%A4%A7%E5%85%88%E7%94%9F/" target="cdt-mirror">陈丹青：笑谈大先生</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34382f4c7558756e313933302e6a70672f32303070782d4c7558756e313933302e6a7067.jpg" alt="鲁迅" width="200" height="238">今天在鲁迅纪念馆讲话，心里紧张——老先生就住在隔壁，讲到一半，他要是走进来怎么办？其实，我非常巴望老先生真的会走进来，因为我知道，我们根本别想见到鲁迅先生了。</p>
-<p><a href="http://chinadigitaltimes.net/space/%E9%B2%81%E8%BF%85" target="_blank">鲁迅先生</a>被过度谈论了。其实在我们今天的社会尺度中，鲁迅是最不该被谈论的人。按照胡塞尔的定义：“一个好的怀疑主义者是个坏公民。”鲁迅的性格、脾气，不管哪个朝代，恐怕都是“坏公民”。好在今天对鲁迅感兴趣的年轻人，恐怕不多了吧？</p>
-<p>然而全中国专门研究鲁迅、吃鲁迅饭的专家，据说仍有两万人。所以要想比较认真地谈论鲁迅，先得穿越两万多专家的几万万文字，这段文字路线实在太长了，每次我读到这类文章，总是弄得很茫然，好像走丢了一样。可是翻出鲁迅先生随便哪本小册子，一读下去，就看见老先生坐在那里抽烟，和我面对面！</p>
-<p>我不是鲁迅研究者，没有专门谈论鲁迅的资格。今天晚上孙郁先生给我大面子，叫到这里来，怎么办呢，自己想个话题讲讲？想不出来，就算有什么意思要来讲，一到鲁迅家，就吓得不敢讲；讲鲁迅先生？那么多人已经说过他了，还有什么可讲？</p>
-<p>所以你在鲁迅纪念馆不谈鲁迅、谈鲁迅，我觉得都不恭敬，都为难。</p>
-<p>我知道自己是属于在“鲁迅”这两个字上“落了枕”的人，我得找到一种十分私人的关系，才好开口谈鲁迅。可是我和老先生能有什么私人关系呢？说是读者，鲁迅读者太多了；说是喜欢他，喜欢鲁迅的人也太多了；天底下多少好作者都有读者，都有人喜欢，那都不是谈论鲁迅的理由。最后我只能说，鲁迅是我几十年来不断想念的一个人。</p>
-<p>注意，我指的不是“想到”（ｔｈｉｎｋｉｎｇ），而是“想念”（ｍｉｓｓ），这是有区别的。譬如鲁迅研究者可能每天想到鲁迅，但我不确定他们是否想念他——我们会想念一位亲人、恋人、老朋友，可是几十年想念一位你根本不认识的人，是怎样一回事？出于什么理由？</p>
-<p>在我私人的“想念名单”中，绝大部份都是老早老早就死掉的人，譬如伟大的画家、音乐家、作家。在这些人中间，不知为什么，鲁迅先生差不多是我顶顶熟悉的一位，并不完全因为他的文学，而是因为他这个人。我曾经假想自己跟这个人要好极了，所以我常会嫉妒那些真的和鲁迅先生认识的人，同时又讨厌他们，因为他们的回忆文字很少描述关于鲁迅的细节，或者描述得一点都不好——除了极稀罕的几篇，譬如萧红女士的回忆。</p>
-<p>可是你看鲁迅先生描述他那些死掉的朋友：范爱农、韦素园、柔石、刘半农等等，就比别人回忆鲁迅的文字，不知道精彩多少。每次读鲁迅先生的回忆文字，我立刻变成鲁迅本人，开始活生生回想那些死掉的老朋友。他那篇《范爱农》，我不晓得读过多少遍，每次读，都会讨厌这个家伙，然后渐渐爱他，然后读到他死掉——尸体找到了，在河水中“直立着”——心里难过起来。</p>
-<p>我们这代人欢喜鲁迅，其实是大有问题的。我小学毕业，文革开始，市面上能够出售、准许阅读的书，只有《毛泽东选集》和鲁迅的书。从五十年代开始，鲁迅在中国被弄成一尊神，一块大牌坊。这是另一个大话题，今天不说。反正我后来读到王朔同志批评鲁迅的文章，读到不少撩拨鲁迅的文字，我猜，他们讨厌的大概是那块牌坊。其实，民国年间鲁迅先生还没变牌坊，住在弄堂里，“一声不响，浑身痱子”，也有许多人讨厌他。我就问自己：为什么我这样子喜欢鲁迅呢？今天我来试着以一种私人的方式，谈论鲁迅先生。</p>
-<p>第一，我喜欢看他的照片，他的样子，我以为鲁迅先生长得真好看。</p>
-<p>文革中间我弄到一本日记本，里面每隔几页就印着一位中国五四以来大作家的照片，当然是按照四九年后官方钦定的顺序排列：“鲁、郭、茅，巴、老、曹”之类，我记得最后还有赵树理的照片——平心而论，郭沫若、茅盾、老舍、冰心的样子，各有各的性情与份量。近二十多年，胡适之、梁实秋、沈从文、张爱玲的照片，也公开发布了，也都各有各的可圈可点，尤其胡适同志，真是相貌堂堂。反正现在男男女女作家群，恐怕是排不出这样的脸谱了。</p>
-<p>可是我看来看去，看来看去，还是鲁迅先生样子最好看。</p>
-<p>五四那一两代人，单是模样摆在那里，就使今天中国的文艺家不好比。前些日子，我在三联买到两册抗战照片集，发布了陈公博、林伯生、丁墨村、诸民谊押赴公堂，负罪临刑的照片，即便在丧尽颜面的时刻，他们一个个都还是书生文人的本色。他们丢了民族的脸，照片上却是没有丢书生相貌的脸。我斗胆以画家的立场对自己说：不论有罪无罪，一个人的相貌是无辜的。我们可能有资格看不起汉奸，却不见得有资格看不起他们的样子。其中还有一幅珍贵的照片，就是周作人被押赴法庭，他穿件干净的长衫，瘦得一点点小，可是那样的置之度外、斯文通脱。你会说那种神色态度是强作镇定，装出来的，好的，咱们请今天哪位被双规被审判的大人物在镜头前面装装看，看能装得出那样的斯文从容么？</p>
-<p>我这是第一次看见周作人这幅照片，一看之下，真是叹他们周家人气质非凡。</p>
-<p>到了１９７９年，文革后第一次文代会召开，报纸上许多久违的老脸出现了：胡风、聂甘弩、丁玲、肖军……一个个都是劫后余生。我看见什么呢？看见他们的模样全都坍塌了，无一例外地被扭曲了。忍心说句不敬的话，那种模样，还不如丑陋，还不如法庭刑场上的汉奸们，至少保留了相貌上一点最后的尊严。这批文代会代表索性不是文艺家，不是名人，倒也罢了，现在你看看，长期的侮辱已经和他们的模样长在一起了——再忍心说句不敬的话：他们带着自己受尽侮辱的面相，还居然愿意去参加文代会，本身就是再次确认侮辱。我想，鲁迅先生不会去参加那样的会议的。</p>
-<p>这时我就想到鲁迅先生。老先生的相貌先就长得和他们不一样，这张脸非常不卖帐，又非常无所谓，非常酷，又非常慈悲，看上去一脸的清苦、刚直、坦然，骨子里却透着风流与俏皮……可是他拍照片似乎不做什么表情，就那么对着镜头，意思是说：怎么样！我就是这样！</p>
-<p>所以鲁迅先生的模样真是非常非常配他，配他的文学，配他的脾气，配他的命运，配他的地位与声名。我们说起五四新文学，都承认他是头一块大牌子，可他要是长得不像我们见到的这付样子，你能想象么？</p>
-<p>鲁迅的时代，中国的文艺差不多勉强衔接着西方十八、九世纪末。人家西方十八、九世纪文学史，法国人摆得出斯汤达、巴尔扎克的好样子，英国人摆得出哈代、狄更斯的好样子，德国人摆得出哥德、席勒的好样子，俄国人摆得出托尔斯泰或者妥斯托也夫斯基的好样子，印度还有个泰戈尔，也是好样子——现代中国呢，谢天谢地，总算五四运动闹过后，留下鲁迅先生这张脸摆在世界文豪群像中，不丢我们的脸——大家想想看，上面提到的中国文学家，除了鲁迅先生，哪一张脸摆出去，要比他更有份量？更有泰斗相？更有民族性？更有象征性？更有历史性？</p>
-<p>而且鲁迅先生非得那么矮小，那么瘦弱，穿件长衫，一付无所谓的样子站在那里。他要是长得跟肖伯纳一般高大，跟巴尔扎克那么壮硕，便是一个致命的错误。可他要是也留着于右任那把长胡子，或者象沈君儒那样光脑袋，古风是有了，毕竟还是不像他。他长得非常像他自己，非常地“五四”；非常地“中国”，又其实非常地摩登……我记得那年联合国秘书长见周恩来，叹其风貌，说是在你面前，我们西方人还是野蛮人。这话不管是真心还是辞令，确是说出一种真实。西洋人因为西洋的强大，固然在模样上占了便宜，可是真要遇见优异的中国人，那种骨子里的儒雅凝炼，脱略虚空，那种被彼得·卢齐准确形容为“高贵的消极”的气质，实在是西方人所不及。好比中国画的墨色，可以将西洋的五彩缤纷比下去；你将鲁迅先生的相貌去和西方文豪比比看，真是文气逼人，然而一点不嚣张。</p>
-<p>有人会说，这是因为历史已经给了鲁迅伟大地位，他的模样已经被印刷媒体塑造了七十多年，已经先入为主成为我们的视觉记忆。是的，很可能是的，但我以为模样是一种宿命，宿命会刻印在模样上——托尔斯泰那部大胡子，是应该写写《战争与和平》；鲁迅那笔小胡子，是应该写写《阿Ｑ正传》。当托尔斯泰借耶稣的话对沙皇说，“你悔改吧”，这句话与托尔斯泰的模样很配；当鲁迅随口给西洋文人看相，说是“妥斯托耶夫斯基一付苦相、尼采一付凶相、高尔基简直像个流氓”……这些话，与鲁迅的模样也很配——大家要知道，托尔斯泰和鲁迅这样子说法，骄傲得很呢！他们都晓得自己伟大，也晓得自己长得有样子。那年肖伯纳在上海见鲁迅，即称赞他好样子，据说老先生应声答道：早年的样子还要好。这不是鲁迅会讲话，而是他看得起肖伯纳，也看得起他自己。</p>
-<p>我这不是以貌取人么？是的，在最高意义上，一个人的相貌，便是他的人。但以上说法只是我对老先生的一厢情愿，单相思，并不能证得大家同意的。好在私人意见不必证得同意，不过是自己说说而已。</p>
-<p>我喜欢鲁迅的第二个理由，是老先生好玩，就文学论，就人物论，他是百年来中国第一好玩的人。</p>
-<p>“好玩”这个词，说来有点轻佻，这是现在小青年随口说的话，形容鲁迅先生，对不对呢？我想来想去，还是选了这个词。这个词用来指鲁迅，什么意思呢？我只好试着说下去，看看能不能说出意思来。</p>
-<p>老先生去世，到明年整七十年了。七十年来，崇拜鲁迅的人说他是位斗士、勇士、先驱、导师、革命家，说他是愤怒激烈、疾恶如仇、“没有半点媚骨的人”；厌恶鲁迅的人，则说他心胸狭窄、不知宽容、睚眦必报、有失温柔敦厚的人。总之，这些正反两面的印象与评价，都仿佛鲁迅是个很凶、很严厉、不通人情的人。</p>
-<p>鲁迅先生到底是怎样一个人呢？</p>
-<p>最近二十多年，“鲁迅研究”总算比较地能够将鲁迅放回他生存的时代和“语境”中去，不再像过去那样，给他涂上厚厚的意识形态涂料，比较平实地看待他。那么，平心而论，在他先后、周围，可以称作斗士、先驱、导师、革命家的人，实在很不少。譬如章太炎敢于斗袁世凯，鲁迅就很欣赏；创建民国的辛亥烈士，更是不计其数；梁启超鼓吹共和、孙中山订立三民主义、陈独秀创建共产党，蔡元培首倡学术自由、胡适宣扬民主理念、梁漱溟亲力乡村建设……这些人物不论成功失败，在中国近代史都称得起先驱和导师，他们的事功，可以说均在鲁迅之上。</p>
-<p>当年中间偏左的一路，譬如七君子，譬如杨杏佛、李公仆和闻一多，更别说真正造反的大批左翼人士与共产党人，则要论胆量，论行动力，论献身的大勇，论牺牲的壮烈，更在鲁迅之上。即便在右翼阵营，或者以今天的说法，在民国“体制”内敢于和最高当局持续斗争、不假辞色的人，就有廖仲凯、傅斯年、雷震等等一长串名单。据说傅斯年单独扳倒了民国年间两任财政部长，他与蒋介石同桌吃饭，总裁打招呼，他也不相让，居然以自己的脑袋来要挟，总裁也拿他无奈何——这种事，鲁迅先生一件也没干过，也不会去干，我们就从来没听说鲁迅和哪位民国高干吃过饭。</p>
-<p>或者说，以上人物多是政治家，鲁迅先生是文人、作家、思想家——这说法也对也不对。须知民国是个“国家兴亡，匹夫有责”的时代，书生问政，书生干政，多得是，譬如傅斯年本职就是教授。和民国许多文人一样，鲁迅一辈子叫喊国事天下事，可是你说他热衷政治，他既不入国共两党，也不做官；你说他是个文人，他却私下和当时的乱党交接甚密，还入过左联。就拿他常被通缉这件事来说，将鲁迅和政治家比较，也不算怎样地不恰当。</p>
-<p>要说斗士，我们先得假定鲁迅斗争的对象，并不一定就是错的，而鲁迅也并不全部是对的。这样看来，当年和鲁迅先生斗过较量过的大小“匹夫”，数也数不过来，他们也是“斗士”，也凶得很呀。我看过一本鲁迅研究专著叫做《鲁迅：最被诬蔑的人》，全是报告人家怎样对鲁迅咒骂批判吐口水。然而这本书的观点，仍设定鲁迅“政治上正确”，仍然没有将鲁迅放在当时的语境中看待——长期以来，我们不是总在猜测鲁迅先生要是活在今天会怎样么？阿弥陀佛，还是将鲁迅放回他的时代吧。在他的时代，他可以做胡塞尔所谓的“坏公民”——据说，白色恐怖时期，鲁迅曾经认真地向革命者打听严刑拷打究竟怎样滋味，可见他是准备吃苦头的。最著名的例子，是他出门不带钥匙，意思是横竖死了算了。然而他到底从未挨过整，挨过打，没蹲过一天班房。我们渲染他怎样地避难、逃亡，其实那正是鲁迅的奢侈与风流，鲁迅属蛇，蛇最会逃，而且逃到租界去。</p>
-<p>总之，鲁迅的时代，爱国志士与英雄豪杰，多了去了，只不过五十多年来，许多民国人被我们抹掉了、贬低了、歪曲了、遗忘了……在我们几代人接受的教育中，万恶的“旧社会”与“解放前”，除了伟大的共产党人，好像只有鲁迅一个人在那里左右开弓跟黑暗势力斗。鲁迅一再说，他只有一枝笔，可是我们偏要给他弄得很凶，给他背后插许多军旗，像个在舞台上唱独角戏的老武生。</p>
-<p>现在我这样子单挑个所谓“好玩”的说法来说鲁迅，大有“以偏盖全”之嫌，但我不管它，因为我不可能因此贬低鲁迅，不可能抹煞喜欢鲁迅或讨厌鲁迅的人对他的种种评价。我不过是在众人的话语缝隙中，捡我自己的心得，描一幅我以为“好玩”的鲁迅图像。</p>
-<p>什么叫做“好玩”？“好玩”有什么好？“好玩”跟道德文章是什么关系？为什么我要强调鲁迅先生的“好玩”？以我私人的心得，所谓“好玩”一词，能够超越意义、是非，超越各种大字眼，超越层层叠叠仿佛油垢一般的价值判断与意识形态，直接感知那个人——当我在少年时代阅读鲁迅，我就会不断不断发笑。成年以后，我知道这发笑有无数秘密的理由，但我说不出来，而且幸亏说不出来——这样一种阅读的快乐，在现代中国的作家中，读来读去，读来读去，只有鲁迅能够给予我，我相信，他这样写，知道有人会发笑。</p>
-<p>随便举一个微不足道的例子吧，在《看萧与看萧的人们》中，记录宋庆龄通知鲁迅说，萧伯纳到了上海了，正在哪里吃饭，问他愿不愿意去见见。鲁迅于是写道：有这样的要去见一见，那就见一见吧。</p>
-<p>什么意思呢？没有什么意思，但这里面有一层需要说却又不好说、说不好就很不好玩的意思。什么意思呢——萧是大人物，鲁迅知道自己也是大人物，不去见，或赶紧去见，看得很重，或存心看轻，都没必要，都不恰当，都不大方。其实鲁迅是想要见见的，又其实不见也无所谓。现在人家来了，邀请也来了，那么：有这样的要去见一见，那就见一见吧。</p>
-<p>这意思很深，也很浅，很率性，也很得体，他当时那么想了一想，事后这么写了一笔，很轻，很随便，用了心思，又看不出怎样地用心思，然而有这么一笔在——后来便写他去了，居然坐在那里看萧和众人吃饭，等等等等——这就是我所谓的好玩，很不起眼的两句话，我年轻时读到，不注意，中年后读到，心里笑起来。</p>
-<p>太多了。鲁迅先生的文句中，布满这类不起眼的好玩，轻轻地，或者放纵地，故意的，或不是故意的，随时想到，随时好玩，随手写下来，因他是通体的、彻头彻尾的好玩，所以他知道自己好玩，不放过一行文字，在那里独自“玩”。所以除了“好玩”，鲁迅先生另一个偶尔被提到的特质，就是非常寂寞，因为他好玩了一生一世，结果大家把他看成个很凶很苦、一天到晚发脾气的人。这一层，鲁迅真是很失败，他害了好多读者，也被读者所害。</p>
-<p>诸位可能知道：我常会提起胡兰成。他是个彻底的失败者，因此他成为一个旁观者。他不是左翼，也不是右翼，他在鲁迅的年代，是个小辈，没有五四同人对鲁迅的种种情结与偏颇。四九年以后，他的流亡身份，也使他没有国共两党在评价鲁迅、看待鲁迅时那种政治意图或党派意气。所以他点评鲁迅，我以为倒是最中肯。他说，鲁迅先生经常在文字里装得“呆头呆脑”，其实很“刁”，鲁迅真正的可爱处，是他的“迭宕自喜”。</p>
-<p>“迭宕自喜”什么意思呢？也不好说，这句话我们早就遗忘了，我只能粗暴而庸俗地翻译成“好玩”。然而“迭宕自喜”也罢、“好玩”也罢，都属于点到为止的说法，领会者自去领会，不领会，或不愿接受的，便说了也白说。我今天要来强说鲁迅的“好玩”，先已经不好玩，怎么办呢，既是已经在这里装成讲演的样子，只好继续做这吃力不讨好的事。我们先从鲁迅的性格说起。</p>
-<p>最近我弄到一份四十多年前的内部文件，是当年中宣部为了拍摄电影《鲁迅传》，邀请好些文化人的谈话录，当然，全是文艺高官，但都和老先生认识，打过交道。我看了有两点感慨。一是鲁迅死了，怎样塑造他，修改他，全给捏在官家手里。什么要重点写，什么不可以写，谁必须出现，谁的名字就不必点了，等等等等，这就可见我们知道的鲁迅，是硬生生给一小群人捏造出来的。第二个感触就比较好玩了：几乎每个人都提到鲁迅先生并不是一天到晚板面孔，而是非常诙谐、幽默、随便、喜欢开玩笑。夏衍是老先生讨厌责骂的四条汉子之一，他也说：老先生“幽默的要命”。</p>
-<p>我有一位上海老朋友，他的亲舅舅，就是当年和鲁迅先生玩的小青年，名叫唐弢。唐弢五六十年代看见世面上把鲁迅弄成那幅凶相、苦相，就私下里对他外甥说，哎呀鲁迅不是那个样子的（谈细节），还说，譬如老先生夜里写了骂人的文章，隔天和那被骂的朋友酒席上见面，互相问起，照样谈笑。除了鲁迅深恶痛绝的一些论敌，他与许多朋友的关系，绝不是那样子黑白分明（谈他与郑振铎的关系）。</p>
-<p>这样子听下来，不但鲁迅好玩，而且我们看到了民国时期的文人、社会、气氛，都蛮好玩，并不全是凶险，全是暗杀，并不成天价你死我活、我活你死。我们的历史教育是严重失实的，我们的历史记忆是缺乏质感的，历史的某一面被夸张变形，历史的另一面却是给藏起来，总是不在场的。我们要还原鲁迅，先得尽可能还原历史的情境。我说“尽可能”，因为历史经常是哈哈镜，变了形的。我们要学会在“变形”中去找那可能准确的“形”。</p>
-<p>在回忆老先生的文字中，似乎女性比较地能够把握老先生“好玩”的一面。近年的出版物，密集呈现了相对真实的鲁迅，看下来，鲁迅简直随时随地对身边人、身边事在那里开玩笑。江南的说法，他是个极喜欢讲“戏话”的人，连送本书给年轻朋友，也要顺便开个玩笑（给刚结婚的川岛的书：我亲爱的一撮毛哥哥呀，请你从爱人的怀抱中汇出一只手来，接受这枯燥乏味的《中国文学史略》）。那种亲昵！那种仁厚与得意！一个智力与感受力过剩的人，大概才会这样的随时随地讲“戏话”。我猜，除了老先生遇见什么真的愤怒的事，他醒着的每一刻，都在寻求这种自己制造的快感。</p>
-<p>但我们并非没有机会遇见类似的滑稽人，平民百姓中就多有这样可爱的无名智者。我相信，在严重变形的民国人物中，一定也有不少诙谐幽默之徒。然而我所谓的“好玩”是一种活泼而罕见的人格，我不知道用什么词语定义它，它的效果，决不只是滑稽、好笑、可爱，它的内在的力量远远大于我们的想象。好玩，不好玩，甚至有致命的力量——希特勒终于败给丘吉尔，因为希特勒一点不懂得“好玩”；蒋介石败给毛泽东，因为蒋介石不懂得“好玩”——好玩的人懂得自嘲，懂得进退，他总是放松的，豁达的，游戏的。“好玩”，是人格乃至命运的庞大的余地、丰富的侧面、宽厚的背景，好玩的人一旦端正严肃，一旦愤怒激烈，一旦发起威来，不懂得好玩的对手，可就遭殃了。</p>
-<p>我们再回头看看清末民初及五四英雄们——康有为算得是雄辩滔滔，可是不好玩；陈独秀算得鲜明锋利，可是不好玩；胡适算得开明绅士，也嫌不好玩；郭沫若算得风流盖世，他好玩吗？好笑倒是有一点；茅盾则一点好玩的基因也没有；郁达夫算是性情中人，然而性情并不就是好玩；再说周作人，他的人品文章淡归淡，总还缺一点好玩，论境界，我以为比他哥哥的纵横交错有声色，到底窄了好几圈，虽然这样说法不免有偏爱之嫌。最可喜是林语堂，他在当年乱世提倡英国式的幽默，给鲁迅好生骂了好几回——顺便说一句，鲁迅批判林语堂，可就脸色端正，将自己的“好玩”暂时收起来——可是林语堂自己平时并不真好玩，他或许幽默的吧，但毕竟偏于西化之后的种种自我教养，与鲁迅那种天性里骨子里的大好玩，哪里比得过。这样地比下来，我们就可以从鲁迅日常的滑稽好玩寻开心，进入他的文章与思想。</p>
-<p>然而鲁迅先生的文章与思想，已经被长期困在一种模式里，我来插一脚，又是不好玩。倒是胡兰成接着说，后来那些研究鲁迅的人，“斤斤计较”，一天到晚根据鲁迅的著作“核对”鲁迅的思想，我以为也是中肯的话。</p>
-<p>依我看，历来推崇鲁迅那些批判性的、匕首式的、战斗性的革命文章，今天看来，大多数是鲁迅先生只当好玩写写的，以中国的说法，叫做“游戏文章”，以后现代的说法，就叫做“写作的愉悦”——所谓“游戏”，所谓“愉悦”，直白的说法，可不就是“好玩”——譬如鲁迅书写的种种事物，反礼教、解剖国民性、鼓吹白话、反对强权等等，前面说了，当时也有许多人在写，其激烈深刻，并不在鲁迅之下，时或犹有过之。然而九十多年过去，我们今天翻出来看看，五四众人的批判文章总归及不过鲁迅，不是主张和道理不及他，而是鲁迅懂得写作的愉悦，懂得调度词语的快感，懂得文章的游戏性。</p>
-<p>可是我们看他的文字，通常只看到犀利与深刻，不看到老先生的得意，因为老先生不流露。这不流露，也是一种得意，一种“玩”的姿态，就像他讲笑话，自己不笑的。</p>
-<p>我们单是看鲁迅各种集子的题目，就不过是捡别人的讥嘲拿来耍着玩，什么《而已集》啊、《三闲集》啊，《准风月谈》啊、《南腔北调集》啊，真是顺手玩玩，一派游戏态度，结果字面、意思又好看，又高明。他给文章起的题目，也都好玩，一看之下就想读，譬如《论他妈的》、《一思而行》、《人心很古》、《马上支日记》等等等等，数也数不过来。想必老先生一起这题目，就在八字胡底下笑笑，自己得意起来。《花边文学》中有两篇著名的文章：《京派与海派》、《南人与北人》，竟是同一天写的，显然老人家半夜里写得兴起，实在得意，烟抽得一塌糊涂，索性再写一篇。</p>
-<p>譬如《论他妈的》，我们读着，以为是在批判国民性，其实语气把握的好极了，写到结尾，我猜老先生写到这里，一定得意极了。</p>
-<p>中国散文中这样子到末尾一笔宕开，宕得这么恳切，又这么漂亮，真是只有鲁迅。大家不要小看这结尾：它不单是为了话说回来，不单是为了文章的层次与收笔。我以为更深的意思是，老先生看事情非常体贴，他既是犀利的，又是厚道的，既是猛烈的，又是清醒的，不会将自己的观点与态度推到极端，弄得像在发高烧——一个愤怒的人同时是个智者，他的愤怒，便是漂亮的文学。</p>
-<p>有这样浑身好玩的态度，鲁迅的文章便可以尽管严肃、尽管深刻，然后套个好玩的题目，自己笑笑——他晓得自己的文章站得比别人高，更晓得他自己站得比他的文章还要高——站得高，看得开，所以他好玩得起，游戏得起。所谓“嘻笑怒骂皆成文章”，其实古今中外，没几个人可以做到的。</p>
-<p>文章的张力，是人格的张力，写作的维度，也是人格的维度——愤怒、但是同时好玩；深刻、然而精通游戏；挑衅、却随时自嘲，批判、却忽然话说回来……鲁迅作文，就是这样地在玩自己人格的维度与张力。他的语气和风调，哪里只是激愤犀利这一路，他会忽儿深沉厚道，如他的回忆文字；忽儿辛辣调皮，如中年以后的杂文；忽儿平实郑重，如涉及学问或翻译；忽儿精深苍老，如《故事新编》；忽儿温柔伤感，如《朝华夕拾》；而有一种非常绝望、空虚的况味，几乎出现在他各个时期的文字中——尤其在他的序、跋、题记、后记中，以上那些反差极大的品质，会出人意料地揉杂在一起，难分难解。</p>
-<p>譬如鲁迅一篇序言的结尾，佩服黄升的拖刀计，但宁可喜欢张飞的鲁莽，偷了头去，讨厌李逵的不问青红皂白排头砍去，因此喜欢张顺的好水性，淹得两眼发白——这一段，其实就是鲁迅天性的自白，他自己同时就可以是黄升、张飞、李逵、张顺。</p>
-<p>许多意见以为鲁迅先生后期的杂文没有文学价值。我的意见正好相反，老先生越到后来，越是深味“写作的愉悦”。有些绝妙的文章，我们在《古文观止》中也不容易找到相似而相应的例。雄辩如韩愈，变幻如苏轼，读到鲁迅的杂文，都会惊异赞赏，因鲁迅触及的主题与问题，远比古人杂异；与西人比，要论好玩，乔叟、塞万提斯、蒙田、伏尔泰，似乎都能找见鲁迅人格的影子，当然，鲁迅直接的影响来自尼采，凭他对世界与学问的直觉，他也如尼采一样，早就是“伟大的反系统论者”。只是尼采的德国性格太认真，也缺鲁迅的好玩，结果发疯，虽然这发疯也叫人起敬意。</p>
-<p>将鲁迅与今人比，又是一大话题。譬如鲁迅的《花边文学》，几乎每篇都是游戏文章的妙品，此后报纸上的专栏文章，再也不可能请到这样的笔杆子。鲁迅晚期杂文，尤其是《且介亭》系列，我借桑塔格形容巴特尔的词语，则老先生七十多年前就半自觉地倾心于“写作本身”——当鲁迅闷在上海独自玩耍时，本雅明、萨特、巴特尔、德里达等等，都还是小青年或高中生。当十九世纪中叶，马克思主义在二十世纪三十年代的中国还是最前卫最时髦的思想体系时，当生于光绪年间的鲁迅也自认是唯物主义初学者时，他凭自己的笔力与洞察力，单独一人，大胆地、自说自话地，异常敏锐而前卫地，触及了二战以后现代写作的种种问题与方式。他完全不是靠讯息、靠学习获知并实践这类新的文学观念，而是凭借他自己内在的天性，即我所谓的“好玩”，玩弄文学，玩弄时代，玩弄他自己。</p>
-<p>再借桑塔格对巴特尔的描述——所谓“修辞策略”、所谓“散文与反散文的实践”、所谓“写作变成了冲动与制约的记录”、所谓“思想的艺术变成一种公开的表演”、所谓“让散文公开宣称自己是小说”、所谓“短文的复合体”与“跨范畴的写作”，这些后现代写作特质不论是否能够或有必要挪回去比照鲁迅，然而在鲁迅晚期的杂文中，早已无所不在。</p>
-<p>而鲁迅大气，根本不在乎这类建树，根本不给出说法，只管自己玩。即便他得知后来的种种西洋理论与流派，他仍然会做他自己——他活在一个奉唯物主义马克思主义为最正确的时代，但是今天看来，他的许多见解和预测，比马克思主义者更深刻、更真实、更高明－－他早就警告，什么主义进了中国的酱缸，就会变；他也早就直觉到，未来中国不知要出多大的灾难－－因为他更懂得中国与中国人。他要是活在今天这个笼统被称作后现代文化的时期，他也仍然知道自己相信什么，怀疑什么。他会是后现代文化研究极度清醒的认识者与批判者。诚如巴特尔论及纪德的说法，鲁迅“博览群书，并没有因此改变自己。”</p>
-<p>是的，我非常钦佩后现代文本，我们已经没有思想家了，只好借借别人的思想。但我觉得他们似乎还是没有鲁迅“好玩”——我们中国幸亏有过一个鲁迅，幸亏鲁迅好玩。为什么呢，因为鲁迅先生还有另一层最迷人的底色，就是他一早就提醒我们的话。他说：他内心从来是绝望的、黑暗的、有毒的。</p>
-<p>他说的是实话。</p>
-<p>好玩，然而绝望，绝望，然而好玩，这是一对高贵的、不可或缺的品质。由于鲁迅其他深厚的品质——热情、正直、近于妇人之仁的同情心——他曾经一再欣然上当：上进化论的当、上革命的当、上年轻人的当、上左翼联盟的当，许多聪明的、右翼的正人君子因为他上这些当而指责他，贬损他——可是鲁迅都能跳脱，都曾经随即看破而道破，因为他内心克制不住地敏感到黑暗与虚空，因为他克制不住地好玩。</p>
-<p>这就是鲁迅为什么至今远远高于他的五四同志们，为什么至今没有人能够掩盖他，企及他，超越他。</p>
-<p>鲁迅的话题，说不完的。我关于鲁迅先生的两点私人意见——他好看、他好玩——就这么勉强说到这里。有朋友会问：鲁迅怎么算好看呢？怎能用好玩来谈论鲁迅呢？这是难以反驳的问题，这也是因此吸引我的问题。这问题的可能的答案之一，恐怕因为我们这个世代，我们的文学，越来越不好玩了。</p>
-<p>当然，这也是我的私人意见，无法征得大家同意的。我的话说完了。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%99%88%E4%B8%B9%E9%9D%92%EF%BC%9A%E7%AC%91%E8%B0%88%E5%A4%A7%E5%85%88%E7%94%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%B8%B9%E9%9D%92/?category=18271" rel="tag">陈丹青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF-%E7%8E%AF%E6%97%B6%E8%AF%84%E6%9D%8E%E6%B3%A2%E6%A1%88%EF%BC%9A%E5%BC%BA%E5%8A%9B%E9%83%A8%E9%97%A8%E5%8F%AF%E8%A7%84%E9%81%BF%E6%B3%95%E5%BE%8B%E8%A6%81%E8%A2%AB%E8%B0%83/" target="cdt-mirror">法广 | 环时评李波案：强力部门可规避法律要被调查者配合</a>
-</h2>
-<p><p><strong>中国近年来挂在嘴边的“依法治国”，原来只是说说而已，中共喉舌环球时报6日就香港政治“禁书”出版商李波在香港离奇失踪一案发表社评，间接承认可以有法不依，指大陆的“强力部门”可以“规避法律”，让被调查者配合。</strong></p>
-<p>该社评又承认，香港一家小小的书店其实可以“挖了内地法治的墙脚”，“给内地维护秩序制造了特殊干扰”。</p>
-<p>泛民立法议员陈志全指，环时的社论是“画公仔画出肠”，等于承认大陆当局在香港将李波带返内地。</p>
-<p>以出售大陆政治敏感书籍为主的铜锣湾书店，5个负责人及职员相继失踪，目前下落仍然未明，持有英国护照的李波失踪已8日，其余4人失踪超过一个多月。另一名与李波合作的瑞典籍出版商桂民海，去年10月在泰国巴提雅失踪迄今，其家人并未在香港报案。</p>
-<p>保安局局长黎栋国表示，已向内地发函请求协助，正等候回覆，需予对方时间处理，有需要会查问进展。被问到李波称以“自己方式”回内地，香港的边界是否中门大开，黎栋国称不应过份揣测。</p>
-<p>环球时报的社评提到李波现人在大陆出现，是否符合基本法时，社评说，关键在于李波以什么方法入境，指如大陆警员到港对其采强制行动，“‘五花大绑’塞进警车带过检查站，那肯定不行”，但“全世界的强力部门”通常有“规避法律”让人配合调查的办法，而“不跨越制度底线”。</p>
-<p>社评提别批评铜锣湾书店出售大陆所不容的“禁书”，指书店虽开在香港，但它很大程度上面向内地读者出版、销售政治书籍，“因而事实上双脚跨到香港和内地两个社会中。它给内地维护秩序制造了特殊干扰，挖了内地法治的墙脚。内地围绕它开展调查，不仅‘理’站得住脚，也是符合中国法律的。””</p>
-<p>人民力量议员陈志全指出，就算李波触犯内地法例，但他身在香港，不能由任何人士在香港抓他返内地执法，他批评上述讲法是强国逻辑：“意思是执行人员不是公职人员佩戴证件，就做甚么都可以，令香港人非常震惊，简直无法无天，公然在社论讲‘我犯法，但你抓不到我呀，我大过或超越法律’，不用讲道理，可以打横来！”陈促请港府应尽快要求内地当局澄清有关立场。</p>
-<p>民主党立法会议员涂谨申表示，环球时报的“社评演绎令人震惊”，认为香港出入境管制属特区自治范围之一，如内地有“强力部门”认为可绕过特区的出入境管制做事，“是非常不尊重一国两制”，质疑“是否与国家主席习近平打对台”。</p>
-<p>记协及独立评论人协会均发声明批评该社评“言论荒谬、令人震惊、制造白色恐怖”，两团体促请港澳办、中联办及特区政府澄清香港与内地是否存在“规避法律”，令基本法荡然无存。</p>
-<p>根据环球时报2004年10月8日第六版的“答读者问”，“强力部门”是俄罗斯特有的一个政治名词，是“在军事和安全领域执行特种任务的俄罗斯执法部门”。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF-%E7%8E%AF%E6%97%B6%E8%AF%84%E6%9D%8E%E6%B3%A2%E6%A1%88%EF%BC%9A%E5%BC%BA%E5%8A%9B%E9%83%A8%E9%97%A8%E5%8F%AF%E8%A7%84%E9%81%BF%E6%B3%95%E5%BE%8B%E8%A6%81%E8%A2%AB%E8%B0%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%A2%83%E6%89%A7%E6%B3%95/?category=18271" rel="tag">越境执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -808,7 +799,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -818,5 +809,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

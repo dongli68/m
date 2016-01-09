@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BD%91%E6%B0%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%BF%AB%E6%92%AD%E6%A1%88/" target="cdt-mirror">【立此存照】网民眼中的快播案</a>
+</h2>
+<p><blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/">快播案</a>专题</p></blockquote>
+<p><strong>以下投票截图来自新浪微博用户：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A85.jpg" rel="attachment wp-att-424518"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A85.jpg" alt="快播投票5" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/快播投票5-262x300.jpg 262w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票5.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/62e49697gw1ezs2675d6ij20ku1120vd.jpg" rel="attachment wp-att-424522"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/62e49697gw1ezs2675d6ij20ku1120vd.jpg" alt="62e49697gw1ezs2675d6ij20ku1120vd" width="400" height=""></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/85758c0fgw1ezrpp6szhsj20qo1be444.jpg" rel="attachment wp-att-424523"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/85758c0fgw1ezrpp6szhsj20qo1be444.jpg" alt="85758c0fgw1ezrpp6szhsj20qo1be444" width="400" height=""></a></p>
+<p><strong>以下为新浪微博部分投票结果页面截图：<br></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A83.png" rel="attachment wp-att-424516"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A83.png" alt="快播投票3" width="625" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/快播投票3-300x128.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票3-768x327.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票3-1024x436.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票3.png 2774w" sizes="(max-width: 2774px) 100vw, 2774px"></a><br><em>（无辜躺枪的乐事，支持率比公诉人高。）</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A81.png" rel="attachment wp-att-424519"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A81.png" alt="快播投票1" width="625" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/快播投票1-300x98.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票1-768x250.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票1-1024x334.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票1.png 2780w" sizes="(max-width: 2780px) 100vw, 2780px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A82.png" rel="attachment wp-att-424520"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A82.png" alt="快播投票2" width="625" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/快播投票2-300x112.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票2-768x288.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票2-1024x384.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票2.png 2780w" sizes="(max-width: 2780px) 100vw, 2780px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A84.png" rel="attachment wp-att-424517"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BF%AB%E6%92%AD%E6%8A%95%E7%A5%A84.png" alt="快播投票4" width="625" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/快播投票4-300x114.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票4-768x291.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票4-1024x388.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/快播投票4.png 1848w" sizes="(max-width: 1848px) 100vw, 1848px"></a></p>
+<p><strong>点赞数量惊人的热评截图：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%83%AD%E8%AF%84.png" rel="attachment wp-att-424525"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%83%AD%E8%AF%84.png" alt="热评" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/热评-283x300.png 283w, http://chinadigitaltimes.net/chinese/files/2016/01/热评-768x813.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/热评-967x1024.png 967w, http://chinadigitaltimes.net/chinese/files/2016/01/热评.png 2001w" sizes="(max-width: 2001px) 100vw, 2001px"></a></p>
+<p><strong>网民P图热情高涨，古美门躺枪</strong>（搜集自网络）<strong>：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp1xvy0j20k00cign0.jpg" rel="attachment wp-att-424531"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp1xvy0j20k00cign0.jpg" alt="69af1c70gw1ezsdp1xvy0j20k00cign0" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp1xvy0j20k00cign0-300x188.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp1xvy0j20k00cign0.jpg 720w" sizes="(max-width: 720px) 100vw, 720px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0vp5ej20k00cl0u9.jpg" rel="attachment wp-att-424534"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0vp5ej20k00cl0u9.jpg" alt="69af1c70gw1ezsdp0vp5ej20k00cl0u9" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0vp5ej20k00cl0u9-300x189.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0vp5ej20k00cl0u9.jpg 720w" sizes="(max-width: 720px) 100vw, 720px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/d4a1ab4egw1ezshnq43vxj20g40d9tag.jpg" rel="attachment wp-att-424535"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d4a1ab4egw1ezshnq43vxj20g40d9tag.jpg" alt="d4a1ab4egw1ezshnq43vxj20g40d9tag" width="525" height="432" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d4a1ab4egw1ezshnq43vxj20g40d9tag-300x247.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d4a1ab4egw1ezshnq43vxj20g40d9tag.jpg 580w" sizes="(max-width: 525px) 100vw, 525px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp18qpfj20c807rab1.jpg" rel="attachment wp-att-424533"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp18qpfj20c807rab1.jpg" alt="69af1c70gw1ezsdp18qpfj20c807rab1" width="440" height="279" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp18qpfj20c807rab1-300x190.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp18qpfj20c807rab1.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2zowrj208w050t8v.jpg" rel="attachment wp-att-424528"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2zowrj208w050t8v.jpg" alt="69af1c70gw1ezsdp2zowrj208w050t8v" width="320" height="180" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2zowrj208w050t8v-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2zowrj208w050t8v.jpg 320w" sizes="(max-width: 320px) 100vw, 320px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0haecj206e060wei.jpg" rel="attachment wp-att-424529"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0haecj206e060wei.jpg" alt="69af1c70gw1ezsdp0haecj206e060wei" width="230" height="216"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2mo24j20k00b875i.jpg" rel="attachment wp-att-424530"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2mo24j20k00b875i.jpg" alt="69af1c70gw1ezsdp2mo24j20k00b875i" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2mo24j20k00b875i-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp2mo24j20k00b875i.jpg 720w" sizes="(max-width: 720px) 100vw, 720px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp9jf3lj20k00cijso.jpg" rel="attachment wp-att-424527"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp9jf3lj20k00cijso.jpg" alt="69af1c70gw1ezsdp9jf3lj20k00cijso" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp9jf3lj20k00cijso-300x188.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp9jf3lj20k00cijso.jpg 720w" sizes="(max-width: 720px) 100vw, 720px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/130160604.jpg" rel="attachment wp-att-424526"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/130160604.jpg" alt="130160604" width="450" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BD%91%E6%B0%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%BF%AB%E6%92%AD%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E4%BB%A3/" target="cdt-mirror">芝士控-Solarion：我们的时代</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b.jpg" rel="attachment wp-att-424502"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b.jpg" alt="5827890190_26a0466f91_b" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b-768x510.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/5827890190_26a0466f91_b.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a><br><em>(“Don’t rape” by <a href="https://www.flickr.com/photos/cascade_of_rant/5827890190/">Richard Potts</a>@Flickr / under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>)</em></p>
@@ -675,42 +699,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%9C%A8%E8%B5%B5%E5%9B%BD%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%8D%E5%A7%93%E8%B5%B5%EF%BC%8C%E5%A7%93%E9%9C%BE/" target="cdt-mirror">高爽：在赵国，我们不姓赵，姓霾</a>
-</h2>
-<p><p>【编者注】作者微信原文已被和谐。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A7%93%E9%9C%BE.jpg" rel="attachment wp-att-424081"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A7%93%E9%9C%BE.jpg" alt="姓霾" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/姓霾-300x170.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/姓霾.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<p>我儿子出生八个月了，每天出门的时候，要绕三匝的围巾，包住他的脖颈、下巴，提至鼻子上方，只露出一双眼睛。他的睫毛细长，都能倒影在眼睛里了，水灵灵的，非常漂亮；被层层围裹着，他会不舒服，有时哭闹一下，作为新晋父母的心情，可想而知。出于婴儿的本能，他会伸出舌头舔舐送到嘴边的任何东西，我们很担心空气颗粒物会拉扯在围巾的纤维里，最终被他吞进肚子，但是不缠围巾，雾霾会更为直接地伤害他。</p>
-<p>是的，像所有的父母一样，从一出生，我们就开始防范任何威胁他健康的东西了，我们严格按照婴儿辅食添加时间表喂养他，我们会约束自己不要亲吻他，勤换洗衣物、按时洗浴，不让人为的细菌有机可乘。但是我们做不到万无一失，因为无处不在的空气，让我们束手无策。</p>
-<p>我由衷的觉得，我们的政府很强大，总理来了就是上合蓝，总理走了就是雾霾天，卖地收入几个亿，贪了最多判死缓。他们真正做到了上管天，下管地，中间管空气。比起我们的束手无策，他们上下其手，真是太威风了。</p>
-<p>我犹记得，人民政府朗诵政治抒情诗：孩子是祖国的花朵。</p>
-<p>可惜都生长在雾霾里。</p>
-<p>以前我对劳民伤财的各种会议很反感，现在都盼着下次会议的策划案递到中南海了，我都能想到策划案上都沾着社会主义道路上蓝天白云的气息。钱花哪不是花，反正他们当家，走什么路不是路，反正他们做主。</p>
-<p>所以，当我在新乡电视台公众号上看到元旦推送的一篇文章：<strong>太幸运了！我省首张“二孩证”被小店镇这对夫妻领了<strong>。</strong></strong>新年不要脸出了新气象，这种红包稿我想会有很多人和我一样吐“操”的。</p>
-<p>操！以前风声鹤唳，这会儿满嘴恭喜，腆着脸把公民的生育权利计划到底。种粮不纳税了还得歌颂你舔犊情深，生个孩子不罚款了还得感谢你格外开恩，是不是以后逢周一、三、五来个晴天还得赞美你道行精深？也难为这些政府喉舌了，自宫的够彻底了，还得不时改变口径，小心宫颈糜烂。强制堕胎是计划生育，放怀去生也是计划生育，措辞还都义正辞严、喜气洋洋，属狗的吧。</p>
-<p><strong>计划生育</strong>的词义在政府治下真是魔幻。这年头，不管政府他怎么计划，我们都是领计划，照办就是了，千万不能瞎比划，否则，轻则沦为邓吉元，重则打入精神病院，相当有尊严。</p>
-<p>霾来了，一切都像睡不醒的样子，望着漫天伸手不见五指的雾霾，感叹一句：霾God!</p>
-<p>估计上帝被召唤出来，也是一头雾霾水，这创世七天，要有光有光，要啥有啥，就是没有这东西。</p>
-<p>自然是人类节外生枝了。准确的说，是人类中的特权阶层节外生枝了。可能会有人另表一枝：分明是企业超排才导致环境恶化的。命苦不能怪政府、雾霾不能怪道台。</p>
-<p>呵呵，当我们查到2001年福布斯排行榜的榜眼是朝鲜特区行政长官杨斌，“划拨”到3000亩土地获利七十多亿就了然那些污染大户都是哪类人了，就是些小门小户的小型企业都能和权贵们瓜蔓出点儿关系。</p>
-<p>当知识分子们跌叹、论证、批判毛朝的3千多万人祸是多么惨无人道、骇人听闻，没有多少人长篇著述因人类诱发的举国天灾——雾霾是如何的惨无人道、骇人听闻，因为它潜伏期之长、之隐秘，是比<strong>众神之怒</strong>还要残暴的隐形杀手。毛朝是从精神和肉体上迅速消灭人，时间短，罪魁也一目了然，而祸首雾霾完全可以把罪责推诿、分摊给神经系统、心血管系统、呼吸系统、内分泌系统等疾病上，让人在雾霾中生离，霾散时死别，霾来霾去经年累月就习焉不察了，于是每年因雾霾提前死亡100万人，只成了数据而已。</p>
-<p>提前死亡的这些人里，或在弥留之际憧憬：20年后又是一条好汉！</p>
-<p>呵呵哒，让你失望了。有关专家说，我们还要和雾霾红尘作伴30年。</p>
-<p>我奶奶行年八十有七，她是旧社会的乱离人，也是新中国的歌颂者，她可谓是我们村的申纪兰，言必称社会主义好，社会主义呱呱叫，理由是不用吃窝窝头了，以前穷啊苦啊妇女的冤仇深啊。可能我们的政府就是如此自我标杆的：你们真不知足，满可以让你们手里啃着窝窝头，眼前雾霾把不住的往下流。</p>
-<p>但是阳历年回家，却见她慨叹的多了，神情中分明残留着惊痛。因为隔壁村，两个人五十来岁的年纪就先后死了，这不是孤例，不过是相继赴死所以显得愈加悲怆。疑难杂病让我们这个有名的长寿之乡名头不保，我奶奶在旧社会见过壮年被饿死的，恶霸、流弹打死的，就是没见过如此突然猝死的。当然医学上会给出各种解释，但是，长寿如她，身边经历了多少代人的死，还是禁不住感叹了一句：现在杂病太多了，人说没就没了。</p>
-<p>是啊，人说没就没了。铜锣湾书店负责人及职员相继失联，也是说没就没了，不过从香港警方的态度看，不是去地狱，很有可能是监狱。你香港再怎么信誓旦旦一国两制，也不可能让你一国两治啊，被跨省、跨境正是我警职业风范的体现。</p>
-<p>还是莫谈国事，回头谈谈风月吧。我那可以被归入中老年人群的父母，四十岁以前看到的都是白云苍狗，现在，全都是雾霾沉沉天不阔，他们会觉得楼高了人矮了洗个澡都要收费了，还满池子的漂白粉；我呢，有幸在小时候田田荷叶间浪游，晚霞漫天像失火的天殿，现在想来，自然之美幻莫过如此。现在，重现这种美好最直接的就是PS。</p>
-<p>这笔“变天账”找谁算呢。</p>
-<p>我有一朋友，愤世嫉俗：这世界没救了，人生得意须尽欢，来份腰子吃烩面；抹抹嘴巴奔旅馆，冲鸟一怒为红颜。他觉得自己才华横溢，写的都是不世出的作品，不能发表不被认可，是写给未来读者的。我偷看过他写的，算得上是些吐槽日记；以鲁迅的马上支日记的标准要求他，我怀疑朋友最想写的是马上风日记。正说着他接了个电话，欢欢喜喜的冲进雾霾里，约会小女朋友去了。鉴于他看见女的要抱抱，在伸手不见五指的雾霾里那么多口罩女，但愿他没抱错人喊着睡觉觉。</p>
-<p>过了阳历年，没浦更没谱的2015就过去了，一直被销声匿迹的浦终于被判决了；还是赵家天下的2016来得稍微平淡了些，除了<strong>贪污受贿数额超一亿元判死缓</strong>这则消息昙花一现了一下，微博的舆论氛围稍微失衡了一下，网友抹了下嘴角残留的唾沫星转身投入抢红包的狂欢中。总觉着今年的红包比往年更大一些，可能是地方官员们大保健之余撒出些红包冲喜的吧，不管对贪污的量刑新闻是否属实，至少释放出来的信号，对于他们不啻是颗定心丸，不知道身在囹圄被死刑判决多次的吴英深吸一口气（mai），会怎么想？</p>
-<p>一直奇怪大家津津乐道“你也配姓赵”，这个梗分明赵日天和最高法院才最有发言权，在赵国，我们不姓赵，姓霾。根据以往的治霾经验，我们被知识分子、有关部门追授为“治霾关键的要素”，还被当成巩固执政根基的尿素。我们一人饰了多角，没办法，执政党，真不是吃素的。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%9C%A8%E8%B5%B5%E5%9B%BD%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%8D%E5%A7%93%E8%B5%B5%EF%BC%8C%E5%A7%93%E9%9C%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">雾霾中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/apec%E8%93%9D/?category=18271" rel="tag">apec蓝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E5%85%B5%E8%93%9D/?category=18271" rel="tag">"阅兵蓝"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E4%BA%8C%E5%AD%A9/?category=18271" rel="tag">全面开放二孩</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -722,7 +710,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -732,5 +720,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

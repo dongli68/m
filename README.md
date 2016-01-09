@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,88 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-3/" target="cdt-mirror">【习总日记】 自信者无羞耻</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，9）</p>
+<p>一</p>
+<p>中共中央、国务院8日上午在北京隆重举行国家科学技术奖励大会。我、李克强、刘云山、张高丽出席大会并为获奖代表颁奖。李克强代表党中央、国务院在大会上讲话。张高丽主持大会。上午10时，大会在雄壮的国歌声中开始。在热烈的掌声中，我、李克强等党和国家领导人向获得2015年度国家自然科学奖、国家技术发明奖、国家科学技术进步奖和中华人民共和国国际科学技术合作奖的代表颁奖，并同他们热情握手表示祝贺。</p>
+<p>医学生理诺奖获得者<a href="http://chinadigitaltimes.net/space/%E5%B1%A0%E5%91%A6%E5%91%A6" target="_blank">屠呦呦</a>无缘任何奖项。因为在诺贝尔颁奖演讲上，只字未提感谢党、祖国和人民。而且党组织要去机场送行，她独自离开目中无党。这样的人，要坚决抵制。</p>
+<p>二</p>
+<p>2015年第一天，以上海踩踏死人开局。结果长江翻船、天津大爆炸、深圳滑坡，发生一系列死难事件。2016年开局，以股市熔断亏钱开始，是否预示着今年，经济方面会发生一系列灾难？外资出逃人民币贬值，已经是铁板钉钉，无法避免。</p>
+<p>三</p>
+<p>股市熔断机制使党出丑，快播案直播又使我党出丑。</p>
+<p>1月7日、8日，北京海淀法院连续公审快播涉嫌传播淫秽物品牟利案。审就审，为何网络直播？是谁的主意？</p>
+<p>快播一案，又使政府出尽了洋相丢尽了丑。不过网络上有句话说得好：不是不要脸，不是不知羞耻，那是因为有自信。</p>
+<p>哦，我们有<a href="http://chinadigitaltimes.net/space/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1" target="_blank">三个自信</a>，还能抵挡一阵子。</p>
+<p>四</p>
+<p>1月5日到第13集团军视察。在听取集团军工作汇报后，发表重要讲话。重要讲话无非是听中央军委，中央军委听军委主席，军委主席听我的话。绕口令到最后就是自己听自己的话。</p>
+<p>五</p>
+<p>抓了个香港卖书的，惊动了英国人。英国人说这人归他们管。证据是大英帝国海外国民护照。问题是，那人有香港居民身份证，是香港人。香港人么，当然归咱管。除非他已经移民英国成为英国公民。</p>
+<p>关键时刻<a href="http://chinadigitaltimes.net/space/%E7%8E%AF%E7%90%83%E9%A3%9E%E7%8B%97" target="_blank">一条狗</a>不知从哪里冲出来说：“全世界的强力部门通常都有规避法律让一个被调查者进行配合的办法，既达到开展工作的目的，又不跨越制度的底线。”</p>
+<p>聪明如狗。以后夸奖人都用这句。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E4%B9%A6%E5%BA%97%E7%96%91%E6%A1%88%E5%85%B3%E9%94%AE%E4%BA%BA%EF%BC%9A%E9%99%88%E5%85%88%E7%94%9F%EF%BC%8C%E4%BB%8E%E4%BA%8B%E9%BB%84%E8%89%B2%E4%BA%8B/" target="cdt-mirror">端传媒｜书店疑案：陈先生，从事“黄色事业”，突然接手书店</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg" rel="attachment wp-att-424603"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg" alt="铜锣湾书店。摄 : Anthony Kwan/端传媒" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><p>铜锣湾书店。摄 : Anthony Kwan/端传媒</p></div>
+<p>铜锣湾书店老板李波，自12月30日未归家至今，已失踪10天。一名关键人物“陈生”登场，为5名书店股东及职员先后失踪的案件，尤其是李波的失踪提供了更多线索。</p>
+<p>这名关键人物，在1月4日一封传真回港、相信是李波亲撰的“报平安”信上首次曝光。信的上款写着“陈生”。</p>
+<p>该传真信件上写著“陈生：（我）已采取了自己的方式返回内地，配合有关方面调查”，以及“书店请你依合约继续营运”。</p>
+<p>此处的“合约”，据李波太太蔡嘉苹之前接受端传媒记者专访时提及，是1<a href="https://theinitium.com/article/20151110-hongkong-hkbooksellers/">1月初书店4名股东和职员相继失踪后</a>，一位有意接手书店的买家与李波签订的。端传媒向李太求证后得知，亲笔信收件人“陈生”，就是这位买家，已经与李波签约，租下铜锣湾书店6个月，至今年5月。</p>
+<p>这封信，落款是1月3日，在1月4日分别传送给了李波太太和陈先生。李太称自己是回到公司办公室见到此信，并确实是李波的字迹，其后向香港警方提出销案。而陈先生则在收到信之后提供给了台湾中央社，由后者最先曝光。</p>
+<p>这名陈先生在信上出现后，一直没有现身，直至昨天（1月7日）下午4时半，4名港岛总区重案组探员，与一名身浅色穿恤衫、黑色外套、戴太阳眼镜的男子，其年纪介于30-40岁之间，一同前往铜锣湾书店。该名男子，手执钥匙，打开绑住书店铁闸的铁链上的锁头，然后5人一同进入书店内。经约半小时的调查后，该名男子与由探员陪同下，登车离开。</p>
+<p>这名持有书店钥匙的男子，经证实，就是陈先生。</p>
+<h3>从事黄色事业的陈先生</h3>
+<p> </p>
+<blockquote><p><span><strong>只知道他是香港人，从事黄色事业，是色情相关。背后有一名大陆老板，称很有钱，被老板吩咐到香港接手这书店。</strong></span></p>
+<p><span>禁书出版业内知情者</span></p>
+</blockquote>
+<p>他现身之后，业内一位知情者向端传媒披露更多关于神秘人陈生的背景。</p>
+<p>“只知道他是香港人，从事黄色事业，是色情相关。背后有一名大陆老板，称很有钱，被老板吩咐到香港接手这书店。”</p>
+<p>他进一步透露，陈生第一次在书店出现，是在去年2015年11月，正是铜锣湾书店有关股东及职员包括柱民海、吕波、张志平及林荣基共4人相继失踪之后。“其他人都失踪了，李波感到一个人难以维持书店的运作，亏了不少钱。然后，一名律师介绍‘陈生’给李波认识，话他老板对书店有兴趣。”</p>
+<p>据传媒报导，李波与陈先生在律师见证下，于2015年11月12日签下为期6个月的租约，至今年5月13日，陈先生每月支付数万元给李波作租金及其它开支。</p>
+<p>而签约的条件之一，是必须答应让李波信赖的一位兼职职员，转作全职打理书店业务。该名书店员工与李波有20年交情，李波在2015年11月、失踪前接受端传媒访问时，曾形容这个老朋友，为人可靠。当时李波发给记者的手机信息写道：“我可保证不是坏人，但脾气暴躁，容易和人结怨，有不少‘敌人’，但人是可靠的。”</p>
+<p>该职员向端传媒确认上述消息，并说：“陈生说，如果书店若赚钱，他取1/4利润，而蚀钱的话，就由他包底”。双方最终成功签约，正式由陈先生接手。</p>
+<h3>书店起了莫名变化</h3>
+<p> <br>
+作为书店老板的李波，一向专心母公司的出版业务，鲜理店务，而陈生接手书店后，派了一名姓邓女子处理书店运作。“我和这位邓小姐开始一齐打理书店日常工作，这个陈先生一星期会到书店一、两次，但每次我问他拿手提电话以便联络，他都不给。我问邓小姐，她也说不知道。后来，陈先生说会给我名片，最后也没 给”，书店职员忆述。</p>
+<blockquote><p><span><strong>陈先生一星期会到书店一、两次，但每次我问他拿手提电话以便联络，他都不给。我问邓小姐，她也说不知道。后来，陈先生说会给我名片，最后也没给。</strong></span></p>
+<p><span>李波廿年老友、信赖的书店店员</span></p>
+</blockquote>
+<p>于是两个月以来，该名书店职员始终无法知道陈先生的全名，也没任何联络方法。只是在李波失踪后，该职员发现铜锣湾书店的门锁突然被换掉。“大门原本坏了，所以用带大锁的铁链锁住铁闸。后来，我猜是他（陈生）换了这把大锁，便打不开了。钥匙只有他有，所以我猜警方要他来书店现场开门。”</p>
+<h3>李生是如何“被消失”的</h3>
+<p> <br></p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6ac91e1c936343bd81d6889d444269d2.jpg" rel="attachment wp-att-424602"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6ac91e1c936343bd81d6889d444269d2.jpg" alt="柴灣康民工業中心" width="575" height="383" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6ac91e1c936343bd81d6889d444269d2-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6ac91e1c936343bd81d6889d444269d2-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6ac91e1c936343bd81d6889d444269d2-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/6ac91e1c936343bd81d6889d444269d2.jpg 1080w" sizes="(max-width: 575px) 100vw, 575px"></a><p>巨流传媒位于柴湾的一个办公室。 摄 : Anthony Kwan/端传媒</p></div>
+<p>根据业内知情者、上述书店职员、<a href="https://theinitium.com/article/20160102-dailynews-hkbooksellers/">李波太太</a>在接受端传媒访问时所透露的消息，及综合各传媒报道可知，12月30日下午2时，李波是和李太午膳后才分道扬镳，李波去了书店位于柴湾货仓康民工业中心的仓库工作，而蔡嘉苹则回到其任职编辑的工作单位。</p>
+<p>下午4时许，蔡嘉苹致电李波想讨论购买床上用品之事，但李波表示赶着出货，很忙。</p>
+<p>据另一传媒报导消息，下午4时许，有一名年约50多岁的谢顶男子进入书店，表示要找李波。员工指李波不在，但对方仍不断追问谁是书店负责人，经在场的陈生劝告下，谢顶男子才离去。</p>
+<p>其后一直在货仓执货的李波，据悉突然从电话收到一张订单，要求买十多本书，而订单上，并没写下客户资料。</p>
+<p>下午5时许，货仓职员带着书首先离开仓库，送到铜锣湾书店</p>
+<p>下午5时45分，据警方资料，闭路电视拍到李波手持一袋物品离开货仓</p>
+<p>晚上7时15分，蔡嘉苹见丈夫仍未回家，四出打听</p>
+<p>晚上9时许，蔡嘉苹与仓库员工回到仓库，但发现无人</p>
+<p>晚上10时半，李波致电蔡嘉苹的来电显示来自广东深圳，李波反常地以普通话自称正在协助调查，不会那么快回家</p>
+<p>晚上11时许，李波再次致电蔡嘉苹，要求她别张扬。</p>
+<p>2016年1月1日下午，蔡嘉苹去到北角警署报案指丈夫失踪，翌日她在家中抽屉发现丈夫的回乡证。蔡嘉苹告诉端传媒︰“自李波也失踪后，我再也联系不到陈生。”</p>
+<p>昨日（1月7日）下午约4时半，警方派员到柴湾货仓康民工业中心附近调查，向小贩、停车场职员等，询问12月30日，曾否见过可疑人士。陈先生亦在现场一同进行调查。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg" rel="attachment wp-att-424601"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg" alt="柴灣康民工業中心" width="575" height="383" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg 1080w" sizes="(max-width: 575px) 100vw, 575px"></a><p>巨流传媒位于柴湾仓库。 摄 : Anthony Kwan/端传媒</p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E4%B9%A6%E5%BA%97%E7%96%91%E6%A1%88%E5%85%B3%E9%94%AE%E4%BA%BA%EF%BC%9A%E9%99%88%E5%85%88%E7%94%9F%EF%BC%8C%E4%BB%8E%E4%BA%8B%E9%BB%84%E8%89%B2%E4%BA%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BD%91%E6%B0%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%BF%AB%E6%92%AD%E6%A1%88/" target="cdt-mirror">【立此存照】网民眼中的快播案</a>
 </h2>
 <p><blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/">快播案</a>专题</p></blockquote>
@@ -655,50 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E7%B2%BE%E8%B5%B5%E7%8B%97%E8%AF%A5%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%B9%A6%E5%95%86%E7%9A%84%E7%8B%82%E5%90%A0%E4%BA%86/" target="cdt-mirror">苹果日报｜李平：精赵狗该停止对书商的狂吠了</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225">李波太太以收到丈夫报平安的传真为由向警方销案，相信中国当局让这封传真流出，最主要目的是想透过李太销案而阻止香港舆论继续热议李波被失踪，同时让他供认“以自己的方式”到中国协助调查，也为案件的定性和处理埋下伏笔。但是，无论是在北京的赵家的狗，还是在香港的精赵狗，都叫得太凶了，反而让更多人听到了，坏了赵家要转移视线的打算。</p>
-<p>从李波被失踪到李太销案，中共当局留下的漏洞实在太多。香港先有亲共议员以公安会做得“乾净啲”、习近平“唔会咁低庄”作辩护，又有梁振英要失踪人自己向警方提供资料的怪论，更有吴亮星宣称五条书局友坐“洗头艇”偷渡回内地嫖妓的人格谋杀。</p>
-<p>在北京，中共喉舌《环球时报》继指摘香港炒作铜锣湾书店书商失踪是抹黑一国两制后，昨日又迫不及待地以社评宣告“港书商亲笔信让‘绑架’谣言不攻自破”，强调“香港不能是敌对势力从事颠覆国家政治制度活动的特殊基地”。该报总编辑胡锡进还在新浪微博上加料称，现在最重要的事态是，梁振英表示只有香港执法人员可以在香港执法、内地媒体痛批内地警员越界执法的揣测，说明两边都认同此原则，“港人珍惜两制，望同时牢记一国的前提”。</p>
-<p>中港两地官方舆论对李波被失踪事件越描越黑，让人感受到鲁迅在《狂人日记》中所描写的一幕：“黑漆漆的，不知是日是夜，赵家的狗又叫起来了。狮子似的凶心，兔子的怯弱，狐狸的狡猾……”也让人听到狂人的感慨：“我认识他们是一伙，都是吃人的人。可是也晓得他们心思很不一样，一种是以为从来如此，应该吃的；一种是知道不该吃，可是仍然要吃，又怕别人说破他。”</p>
-<p>身为特首，梁振英不是督促保安局、警务处向中国交涉，营救被失踪的五个港人，反而要李波本人提供详细资料，以助警方调查。要失踪的人自己提供资料？擅长语言伪术的梁振英又在玩什么把戏？至于吴亮星声称收到消息指铜锣湾书店被失踪五人是坐“洗头艇”去深圳叫鸡，全然不顾有人在泰国被绑架回中国的事实，难道吴亮星有份开通从泰国到深圳的洗头艇航线？</p>
-<p>没有最无耻，只有更无耻</p>
-<p>至于胡锡进和《环球时报》的评论，网民的反应可分为三类：一是讥笑为高级黑，因其在内地的独家报道和评论，令更多人看到中共正在破坏一国两制、港人治港：“胡编劳苦功高，我一直认为他是潜伏在赵家的卧底。”二是挖苦竟然指李波是以自己的方式返回内地协助调查：“真爱国，要偷渡回祖国协助调查。”三是直接批评中共的胡作非为：“在国内跨省抓捕抓习惯了，哎。本来错就错了，搞出这么一出，就是无耻了。”“香港的底线被一次次戳穿，赵老爷威武！天下是赵家天下，岂容尔等说赵老爷不是。”</p>
-<p>一如港人近来喜以强国人指代中国人，赵家、真赵近来已取代你朝、你国成为中国网民对中共、中国的指代，不只有避开网络审查的作用，也凸显中国所谓人民当家作主、依法治国只是假象，实际上是中共权贵家族的天下，是吃人的赵家人的家天下。上周六网上还流出中宣部的指令，严禁在微博、微信等公共平台使用如精赵、贵赵、赵家人、你国、你党、王八（拼字：上王下八）朝、大撒币、吸精瓶、刁太大等时政负面辞汇，并警告“已有相关媒体人公开使用造成严重不良影响而受相应处分”。</p>
-<p>要分类的话，《环球时报》和胡锡进是赵家狗，疑是中共地下党员的梁振英也可以算是赵家狗，而香港的一班亲共议员、名流只能算是精赵狗。所谓精赵，即精神上的赵家人，并不是真正的赵家人。据网民考证，精赵的典故出自鲁迅的另一作品《阿Q正传》。阿Q自称是赵太爷的本家，而被赵太爷打耳光：“你也配姓赵？”</p>
-<p>看看香港那些亲共人士的嘴脸，自以为是赵家人，对着被失踪的书商狂吠不已，让港人见识到他们在涉及中港矛盾时没有最无耻，只有更无耻。但在中共权贵家族眼中，他们也只能落个“你也配姓赵”的结论，充其量是精赵狗而已。而精赵狗对书商的狂吠，坏了赵家吃人的隐情，总是要捱耳光的。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E7%B2%BE%E8%B5%B5%E7%8B%97%E8%AF%A5%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%B9%A6%E5%95%86%E7%9A%84%E7%8B%82%E5%90%A0%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%8C%AF%E8%8B%B1/?category=18271" rel="tag">梁振英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E4%B9%9F%E9%85%8D%E5%A7%93%E8%B5%B5/?category=18271" rel="tag">你也配姓赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E7%8B%97/?category=18271" rel="tag">赵家狗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%BB%8E%E8%B5%B5%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%AF%8D%E7%9A%84%E7%AA%9C%E7%BA%A2%E7%9C%8B%E6%9D%83%E8%B4%B5/" target="cdt-mirror">自由亚洲｜未普：从“赵家人”一词的窜红看权贵与百姓的对立</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%AE%B6%E6%A5%BC.jpg" alt="赵家楼" width="296" height="347" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵家楼-256x300.jpg 256w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家楼.jpg 496w" sizes="(max-width: 296px) 100vw, 296px">“赵家人”，这个在鲁迅笔下才有意义的三个普通字，在2015年年底的中国互联网上，忽然变得神灵活现起来。它的出现，立即在网上惹来排山倒海般的反响，成为近年来展示朝和野、官和民、权贵和百姓、你们和我们、赵家人和非赵家人之间对立关系的最传神的词儿。</p>
-<p>“赵家人”最初来自于鲁迅的《阿Q正传》：赵少爷中了秀才，认为自己也姓赵的阿Q跟着欢呼时，赵老爷一个嘴巴抽去：“呸！你也配姓赵？”最近因万科和宝能之争，安邦介入，其背后的“赵家人”引发关注，“赵家人”就此被引申为中国的权贵家族。东网的乔木说，赵家人的流行，是在政治倒退、网络管制下，网民对官方主导话语的戏谑性<a href="http://chinadigitaltimes.net/space/%E8%A7%A3%E6%9E%84" target="_blank">解构</a>。</p>
-<p>妙不可言的是，“赵家人”这个词居然可以解释许多中国的政治现像，而这种解释赫然站在官方意识形态的对立面上。比如，凡是与国家、人民和民族有关的现像，如果用“赵家”或“赵家人”代替，竟然可以让许多曾经困惑不解的人们大梦初醒。原来“国家安全法”是赵家安全法，国家主权是赵家主权，涉嫌颠覆国家罪是涉嫌颠覆赵家罪。以此类推，国营企业是赵家企业，人民解放军是赵家解放军，法治是赵家人的法治，社会主义核心价值观是赵家人的核心价值观，共产主义信仰是赵家人的信仰！总之，中国的天下是赵家人的天下。</p>
-<p>这样一来，人们豁然开朗：原来长期以来，赵家人瞒天过海，偷梁换柱，用赵家这只“狸猫”换掉了国家这个“太子”，用赵家人掉了中国人民的包。人们一旦明白了这个掉包计，非赵家人哗然，天下哗然。</p>
-<p>哗然的天下忽然明白，赵家人和非赵家人如此不同，除了用对立两字，很难用其他更合适的字眼来描述。就拿利益对立来说吧，在过去的三十多年里，赵家人是获利最大的利益集团，差不多每一个赵家太爷级的人物及其家庭，都赚的盆满钵满，数以百亿计，可是普通老百姓却要承受医疗、教育、住房和养老的种种艰难。这种利益对立如此之大，足以使赵家人和非赵家人对立为你们和我们。</p>
-<p>然而对这种对立，赵家人似乎并不在乎。在过去的三年里，赵家人基本忙了三件大事：整党、整军、整社会。他们通过反腐整党和整军，通过打压律师、记者、学者和NGO整社会。这“三整”让中国从上到下都笼罩在焦虑和恐惧之中。赵家掌门人更是露出蛮横嘴脸：不管是谁，不许砸赵家的锅，否则让你们吃不了兜着走。</p>
-<p>进入2016，赵家人和非赵家人的对立会如何演化呢？现在看，赵家人垄断一切权力和资源的局面只会进一步加剧，只会不可理喻地进一步任性、无理、蛮横。比如，赵家人最近居然跑到自己曾信誓旦旦保证的“一国两制”香港，随心所欲的抓人。再比如，掌门人在党校会议上表示，党校就要姓党，其实就是姓赵。我们知道，这三年来，赵家就已经动了高校、司法和媒体的奶酪，要求所有高等学府、所有公检法、所有媒体，必须接受赵家的领导。难道在新的一年里，赵家人要用他们的咒语，进一步箍紧这个紧箍咒吗？如此，2016将是政治更加黑暗的一年。赵家人和非赵家人的对立会进一步加深。</p>
-<p>至于那个长期缺位而引发众多弊端的<a href="http://chinadigitaltimes.net/space/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9" target="_blank">政治改革</a>，赵家人显然不想搞，想搞的人不仅没有实权，也没有话语权和参与权。虽然赵家人的媒体没完没了地谈论改革，但没有话语权和参与权的老百姓对改革没信心，对政府没信心，对国家的前途没信心，对共产党政权没信心，归根结底，对赵家人没信心。</p>
-<p>2016年，赵家人的天下会如何演变呢？其实赵家人自己也说不好。别看他们一天到晚地说自己道路自信、理论自信、制度自信，赵家能不能扛得过去，他们心里也没底。他们非常害怕非赵家人革命，所以他们在过去几年里做的，就是拼命摧毁非赵家人中的脊梁。</p>
-<p>现在，赵家人和非赵家人、权贵和百姓的对立已经公开化了。下一步会怎样？决战吗？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%BB%8E%E8%B5%B5%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%AF%8D%E7%9A%84%E7%AA%9C%E7%BA%A2%E7%9C%8B%E6%9D%83%E8%B4%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?category=18271" rel="tag">阿Q</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -710,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -720,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

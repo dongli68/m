@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E8%B5%B5%E5%AE%B6%E5%A8%81%E6%AD%A6%E4%B8%8E%E4%B8%8A%E6%83%85%E4%B8%8B%E8%BE%BE/" target="cdt-mirror">凯迪社区｜上情下达，赵家威武，环球时报</a>
+</h2>
+<p><p><strong>1.</strong></p>
+<p><strong>上情下达</strong></p>
+<p>省里召开的会议结束以后，一位首长找到了他插队儿子所在地的地委书记，说：“你们不要总那样照顾他嘛！我已经说过多少次了，这样影响不好，你们应该多从政治上去关心他，这才是对他的爱护嘛！这个问题你一定要向下面的同志讲清楚！”</p>
+<p>地委书记回去以后，马上给县委书记挂了个电话：“省里某首长昨天当面对我讲，他对你们那里插队的孩子很不满意，要我转告你们，对他的孩子不要只注意从生活上去照顾，要多从政治上去给以关心。我个人认为这个问题不仅仅是对首长的儿子的问题，更重要的是牵扯到我们整个青年一代的问题，所以你一定要把这个问题向下边讲清楚，不然我们就要犯错误，请你务必过问一下，报地委。”</p>
+<p>县委书记放下电话，停顿了一下，接着便给公社书记挂了个电话：“刚才地委的同志对我们的工作提出了几点意见，尤其着重指出的是你们那里插队的那个首长儿子的问题，要我们一定要注意从政治上多给以关心和培养，这个问题是牵扯到我们如何对待培养造就一代新人的问题，因为人在你们那里，所以具体工作就要你们去做了，请你们务必关照此事，然后将情况报县委。”</p>
+<p>公社书记放下电话后，略思量了一下，接着给大队书记也挂了个电话说：“县委刚才指示我们，要我们抓好培养青年的工作，特别是对首长那个儿子，县领导指示我们一定要抓住这个点，把整个青年工作带上去。当然喽！许多具体问题，比如入党问题啦，提干问题啦，都是我们今后议事日程上要考虑的事。总之，你们一定要把这个工作做好，要大胆解放思想，要不拘一格。然后将情况报公社。”</p>
+<p>大队干部听完书记指示后，便闻风而动了起来。没多少日子，领导的指示便一一落实了，然后便由大队逐层报到了地委。地委书记听到报告后，便打电话给那位首长说：“您要我带回来的意见，我已经传达下去了，同志们改变了做法，您的儿子进步很快，入了党，还担任了大队副书记。”</p>
+<p>首长嗯了一声说：“这是组织的培养嘛！我还是那个意见，对青年人就是要从政治上严格要求！这样我这个当爸爸的才好放心嘛！”</p>
+<p>地委书记又说：“我们还准备把您的儿子调到地委担任团的工作，不知您有什么意见！”</p>
+<p>首长提高了语调说：“这不好讲嘛！组织上的决定，我们当父母的怎么能指东道西呢！至于意见嘛，我看也就是让他去闯闯吧！”</p>
+<p>说罢，便撂下了话筒。</p>
+<p><em>原载人民日报出版社《讽刺与幽默》第一辑1979-1980<br>
+作者： 雒惠</em></p>
+<p><strong>2.</strong></p>
+<p><a href="http://user.kdnet.net/?username=%E5%A5%BD%E6%B1%89%E7%9C%BC%E5%89%8D%E4%B8%8D%E5%90%83%E4%BA%8F15" target="_blank">@好汉眼前不吃亏15</a>：【赵家威武】“赵家主权”，“赵家宪法”，“赵家军”，“境外敌赵势力” ，“煽动颠覆赵家罪”， “妄议赵家罪”，“依赵家法律治国”，“赵国梦”，“赵式民主”，“赵式选举”，“赵式幸福感”。好汉点评：祝“赵家人”继续为富不仁，撒币钓誉，在“赵式正路”上加快 “多行不义必自毙”的步伐。</p>
+<p><strong>3.</strong></p>
+<p>【环球时报：爱国和爱党在中国是一致的】第一，爱党与爱国本质是一致的。第二，西方多党制不能代表和实现最广大发展中国家和人民的根本利益。第三，历史和实践证明：办好中国事情关键在党。中国公民爱国就要爱党，反共就是祸害中国；爱党与否，是中国人是否真爱国的主要衡量标准。<a href="http://t.cn/RhcgvUE" target="_blank">http://t.cn/RhcgvUE</a><a href="http://user.kdnet.net/?username=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E8%90%A5%E6%8A%A5" target="_blank">@中国经营报</a></p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E8%B5%B5%E5%AE%B6%E5%A8%81%E6%AD%A6%E4%B8%8E%E4%B8%8A%E6%83%85%E4%B8%8B%E8%BE%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA%E4%B8%8E%E5%B9%BD%E9%BB%98/?category=18271" rel="tag">讽刺与幽默</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/424701/" target="cdt-mirror">【网络民议】赵家报的言辞再慷慨正义，也不配赢得人心</a>
 </h2>
 <p><p><strong><a href="http://comments.caijing.com.cn/20160109/4050480.shtml">人民日报客户端：快播的辩词再精彩，也不配赢得掌声</a></strong></p>
@@ -758,26 +785,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo4u/?category=18
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/424424/" target="cdt-mirror">法广｜中国股市带动全球股市下挫</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0.jpg" rel="attachment wp-att-424425"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0.jpg" alt="2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0" width="550" height="310" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0-768x434.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/2016-01-07T080309Z_931049702_GF20000086399_RTRMADP_3_CHINA-MARKETS_0.jpg 1024w" sizes="(max-width: 550px) 100vw, 550px"></a><p>2016年1月7日，当上海股市触发熔断机制时，一名投资者正在看股市信息。 路透社/China Daily</p></div>
-<p>中国股市的暴跌对全球股市都造成重击。纽约股市周四早上一开盘就下跌。在欧洲，所有的欧洲股市周四都在中国股市的带动下收盘下跌。</p>
-<p>对于已经26岁的中国股市来说，星期四是史无前例的一天。</p>
-<p>继2016年元旦过后首个交易日A股两次熔断之后，星期四，开盘仅半个小时，沪深300指数暴跌7%，触发“二档”熔断机制，累计交易时间仅约15分钟就提前收市，创下了有史以来的最短交易日。这也是2016年新年之后的第4个交易日，四次熔断、两次提前收市。7日星期四晚间，中国证监会发布关于暂停实施指数熔断机制的通知。</p>
-<p>在仅实施了4天的熔断制度被叫停之后，有消息称，证监会主席肖钢在7日星期四的国务院紧急会议上提出辞职。根据搜狐网的报道，微博名为“曹山石”的账号称肖钢目前已不主持工作，该消息将于周末宣布。</p>
-<p>中国股市的暴跌对全球股市都造成重击。纽约股市周四早上一开盘就下跌。开盘15分钟后，道琼斯工业指数下跌225.48点，报16681.03。标准普尔500(S&P 500)指数下跌26.68点，报1963.58。纳斯达克(NASDAQ)指数下跌83.32点，报4752.45。</p>
-<p>在欧洲，所有的欧洲股市周四都在中国股市的带动下收盘下跌。</p>
-<p>巴黎股市收盘下跌1.72%.四十种工业指数收盘下跌了76,89点，报收4403.58。</p>
-<p>伦敦股市收盘下跌1.96%, 金融时报100种指数收盘下跌了119,30点，报收5954.08。</p>
-<p>法兰克福股市收盘下跌2.29%，达克斯指数收盘报9979.85。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/424424/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -789,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -799,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

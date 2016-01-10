@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/424701/" target="cdt-mirror">【网络民议】赵家报的言辞再慷慨正义，也不配赢得人心</a>
+</h2>
+<p><p><strong><a href="http://comments.caijing.com.cn/20160109/4050480.shtml">人民日报客户端：快播的辩词再精彩，也不配赢得掌声</a></strong></p>
+<blockquote><p>被告人在法庭上为自己辩护是公民的权利，律师的辩护也是法律赋予的权利和职责。可问题是，在庭审现场公诉人的表现也许真的不够好，<strong>但不能因为辩论精彩就混淆了是非黑白</strong>，也不能因为转发的人多就占据某种“道义”高地。[…]</p>
+<p>我们都应该尊重快播在法庭上为自己辩护的权利，不过有句话也应该明白：违法不违法，不看谁更伶牙俐齿，快播的辩护不配赢得掌声。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0haecj206e060wei.jpg" rel="attachment wp-att-424529"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0haecj206e060wei.jpg" alt="69af1c70gw1ezsdp0haecj206e060wei" width="230" height="216"></a></p>
+<p><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@韦中-：艹！人民日报的想熔断人民的掌声？</p>
+<p><a href="http://weibo.com/2880447665" target="_blank">@Jacky_薛</a>：我建议取消所有法院。法规。全部由人日来宣判。人日说什么就是什么。我们亩产万斤全靠它了<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/3858887419" target="_blank">@苏楚涵sue</a><i></i>：<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">大家不要激动，我们都是人民，人民不能鼓掌，但还可以日报</p>
+<p><a href="http://weibo.com/1625556390" target="_blank">@Gorky2u</a>：“人民”<img title="[太阳]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif" alt="[太阳]">人民，又来了！</p>
+<div><a href="http://weibo.com/3247512704" target="_blank">昵称仅好友可见</a>：意思就是，法庭辩论其实就是走过场，辩论如何和判决结果毫无关系，对吧？！！哈哈，伪经济！伪法律！遮羞布遮不住无耻啊！！！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></div>
+<p>@眼镜蛇机动：人民日报我就呵呵了，辩护哪里有问题你指出来啊？在这边混淆视听偷换概念打模糊眼有意义么，那是法庭，这是中国，你们不是说在建设法治社会么，法院还没宣判，你就直接以官媒定性，谁给你的权利！</p>
+<p>@节操被蛤蟆吃了yuuuuuuu：依法治国是：即使A杀了人，只要没有人有任何证据证明A能杀人，A就无罪。 以人治国是：不知道A杀没杀人，没有人有任何证据。但大家都认为A杀了人，舆论上认为A杀人的占主流，然后法院强行把A判死刑。 而人民日报的意图和逻辑很明显是后者，现在强行洗白、扭转网络舆论，最后强行定罪。法治国家沦为笑话</p>
+<p>@懒散的意面君：法制还是什么？法庭辩论不行要公诉人/律师做什么，走什么过场，您直接判了得了</p>
+<p>@iYee：日人民报的谎言再逼真，也不配赢得人性。</p>
+<p>@凉斐_今天有伞了吗：欲加之罪，何患无辞？ 不过这辞你不觉得苍白么？如同在岸上翻滚的鱼？</p>
+<p>@南山巴人1158699164：“人民日报”：“亩产万斤”你报道过吧；“打倒叛徒、工贼刘少奇”你鼓与呼过吧；“打到最大的走资派邓小平”你拥护过吧；“大跃进”、“文攻武卫”、“文化大革命”等等曾经都是你竭力歌颂过得吧。请你自评！</p>
+<p><a href="http://weibo.com/2658461611" target="_blank">@_楼东玉</a>：饭做的再好也不配吃，什么逻辑<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">再说人家辩护人哪一句不是紧扣中华人民共和国刑法？倒是人日，几近于法盲。</p>
+<p>@夜空中最美丽的star：掌声不是你说了算的 手长在我身上</p>
+<p><a href="http://weibo.com/3089479923" target="_blank">@田螺姑娘_A</a>：我们就愿意给掌声 我们说什么你也管不着<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p>@杰森奥利尔Orville：偏要给掌声，去他妈的人民日报</p>
+<p>@wang炜颉_秋千：我记着新闻媒体不应该在法律判决前发表具有明显指向性的评论吧？新华社更是用了“狡辩”这个词，明显就是新华社已经给快播定罪了？？？新华社你有什么权利在法院没宣判的时候提前宣判人家获罪？</p>
+<p>@何bee_：新华社： 无论快播是否有罪，都要对“狡辩的权利”报以掌声。人民日报：快播的辩词再精彩，也不配赢得掌声</p>
+<p>@云棠圆滚滚：赵家报的言辞再慷慨正义，也不值得赢得人心</p>
+<p>@ludwig_law：本来想拉出来杀鸡给猴看的，结果鸡没杀成，粘了一身鸡毛，丢人现眼！</p>
+<p>@汉服摄影：庭审辩护再精彩也没用，因为判冫决 早已经在庭审之前定了下来，庭审只是走过场而已，哪怕公诉人的证词多么经不起推敲，哪怕公诉人的证据链有多么漏洞百出，灵道定了多少年就是多少年。精彩的辩护不仅无助于被告的脱罪，被告反而会因此受到更重的惩罚，因为……等等，有快递~~~</p>
+<p>@好穷好想有钱好想浪：啥叫“混淆是非黑白”？判决结果出来之前谁是“黑”？既然默认了黑那还审个毛，直接判不就得了。嘴里说着依法治国，也还不是个叼飞盘的。</p>
+<p>@抗氧化剂：还没到你了，别抢台词啊喂，观众还以为这案子已经钦定了啊</p>
+<p>@席地而坐2013：至从党的灵魂戈贝尔发明了宣传部，纳党的机关报《人民观察家报！》就不分昼夜的工作着，工作着，工作着……….</p>
+<p><strong>附微博热门评论截图：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%BA%E6%97%A5.png" rel="attachment wp-att-424704"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%BA%E6%97%A5.png" alt="人日" width="440" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/424701/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%AD%E5%AE%A1%E7%9B%B4%E6%92%AD/?category=18271" rel="tag">庭审直播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%9C%9D%E9%B2%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%96%AF%E4%BA%86%EF%BC%9F/" target="cdt-mirror">微思客 | 朝鲜为什么疯了？</a>
 </h2>
 <p><p>作者：于晓华，德国哥廷根大学教授。</p>
@@ -738,38 +778,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/" target="cdt-mirror">【草泥马语】玩币归赵、赵令习改</a>
-</h2>
-<p><p><em>“<a href="http://chinadigitaltimes.net/space/Grass-Mud_Horse_Lexicon_%28arranged_alphabetically%29">草泥马语词典</a>” （英文版翻译为 Grass Mud Horse Lexicon）是中国数字时代的一个中英双语项目，自2010年以来持续收集了许多在网民中热传的种种时政词汇，比如“天朝”、“<a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E6%B3%95%E8%A5%BF%E6%96%AF%E8%93%9D/">法西斯蓝</a>”、“法律不是挡箭牌”等等。我们在不断完善和补充词条内容的同时也希望能将新出炉的“草泥马语”与大家一同分享。</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B52.jpg" rel="attachment wp-att-424412"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B52.jpg" alt="玩币归赵2" width="525" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵2-300x229.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵2.jpg 590w" sizes="(max-width: 525px) 100vw, 525px"></a><br><em>（图片来自新浪微博<a href="http://weibo.com/u/2564817342" target="_blank"> @那个宁波的老黄</a>）</em></p>
-<p><strong>玩币归赵</strong>：散户在股市无论怎么“玩”，这钱最后还是都要归“<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">赵家</a>”。是网民对2016年股市首周交易即暴跌的无奈调侃。</p>
-<p><strong>赵令习改</strong>：大量民众认为监管机构对股市交易规则的制定与实施朝令夕改，过于儿戏。这次股市暴跌中，新交易规则“熔断机制”分别在1月4日和1月7日被二度触发，造成恐慌情绪。证监会后宣布1月8日起，中国股市暂停实施熔断机制。</p>
-<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/">为国接盘</a></p></blockquote>
-<p><em>背景新闻（来自BBC中文）：</em></p>
-<p><strong><a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160104_china_stock_plunge">中国股市新年首盘重挫</a></strong></p>
-<blockquote><p>周一（1月4日）中国深证成指与沪指双双低开，中午过后，股市交易在沪深300指数跌幅达5%时第一次触发当天新上路的熔断机制，交易暂停15分钟。交易恢复后再度下挫7%，根据新规则，在13时43分停止交易至收盘。</p></blockquote>
-<p><strong><a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160107_china_stocks_circuit_breaker">中国股市1月8日起暂停实施指数熔断机制</a></strong></p>
-<blockquote><p>周四中国深证成指与沪指双双低开，开盘15分钟内，沪深300跌至5%，触发熔断机制。暂停交易15分钟后，上午10时左右，沪深300继续下挫，跌至7%触发二次熔断。依据今年新上路的熔断机制规定，两市暂停交易直至收盘。</p></blockquote>
-<p><strong><br>
-以下图片及评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5.jpg" rel="attachment wp-att-424413"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5.jpg" alt="玩币归赵" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<blockquote><p><a href="http://weibo.com/u/5729175192" target="_blank">@樊振义-ROC</a>：中国股市，一个成语就能概括——玩币归赵。</p></blockquote>
-<p><a href="http://weibo.com/u/2564817342" target="_blank"> @那个宁波的老黄</a>：#玩币归赵#世界是我们的，也是你们的，终归是他们的。<a title="那个宁波的老黄" href="http://weibo.com/u/2564817342" target="_blank"><img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></a></p>
-<p><a title="闫德坤" href="http://weibo.com/321048484" target="_blank">@闫德坤</a>：朋友圈对中国股市的诠释：你玩的再拼，结果都是“玩币归赵”！<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]"></p>
-<p>@Miraclelmj梦想佳：股市就是玩币归赵。公务员都是按赵章办事，成天赵本宣科，天天梦想着吉星高赵，顶多也是回光返赵。吾等能做的就是真实写赵。</p>
-<p>@晓樓殘窗：玩幣歸趙：無論你玩得有多好，那些鈔票最後都是趙家的。</p>
-<p>@文山娃：谁是大陆股市熔断机制测试领导小组小组长啊？凭其收集散户钱包的强大能力，一定能成为全世界赌场老板的偶像。</p>
-<p>@查良钧：不管你玩不玩，你的币都得归赵。</p>
-<p><strong>附</strong>：证监会新闻发言人邓舸就暂停实施熔断机制答记者问的内容，在微博引来一片骂声。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%AF%81%E7%9B%91%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E9%82%93%E8%88%B8%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE.png" rel="attachment wp-att-424414"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%AF%81%E7%9B%91%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E9%82%93%E8%88%B8%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE.png" alt="证监会新闻发言人邓舸答记者问" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/证监会新闻发言人邓舸答记者问-169x300.png 169w, http://chinadigitaltimes.net/chinese/files/2016/01/证监会新闻发言人邓舸答记者问-577x1024.png 577w, http://chinadigitaltimes.net/chinese/files/2016/01/证监会新闻发言人邓舸答记者问.png 601w" sizes="(max-width: 601px) 100vw, 601px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%A3%E6%88%B7/?category=18271" rel="tag">散户</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">熔断机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6/?category=18271" rel="tag">赵家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -781,7 +789,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -791,5 +799,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

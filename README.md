@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%9C%9D%E9%B2%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%96%AF%E4%BA%86%EF%BC%9F/" target="cdt-mirror">微思客 | 朝鲜为什么疯了？</a>
+</h2>
+<p><p>作者：于晓华，德国哥廷根大学教授。</p>
+<p>最近看到北朝鲜大动作频频。在金正恩上台后，各种疯招迭出，发完了导弹，搞核爆，现在又是撕毁停战协定，不断挑战国际秩序。朝鲜在金正恩的带领下，疯了吗？对，是因为穷疯了！</p>
+<p>我在日本留学的时候，周围有不少研究北朝鲜的专家，对北朝鲜有不少的认识。对于这样的疯狂行动，我很能够理解的。其实，这正是朝鲜劳动党60多年来一贯的屡试不爽，赖以生存的策略。</p>
+<section><section><section><section><section><section><section>一 <strong><span lang="ZH-CN" xml:lang="ZH-CN">劳动党的任务</span></strong></section></section></section></section><section></section></section></section></section><p>北朝鲜人口只有2500万，相对于中国，是一个非常小的国家。在1990年之前，北朝鲜背靠社会主义的大国，中国和苏联，从而获取了大量的经济援助。那么小的国家，只要苏联和中国稍微给点施舍，加上自己的生产，生活过的得那是相当的滋润。朝鲜那时确实比中国人民过的滋润多了，看一下下图的GDP比较就知道了。按照韩国银行的统计，1990年北朝鲜的人均GDP为1146美元，而那时中国只有344美元，比中国的3倍还要多。看到这样的统计，我差点被气死，到底谁应该援助谁啊？遗憾的是，除了众所周知的抗美援朝，在过去60多年中中国到底给了朝鲜多少援助还没有公布！</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-%E4%B8%8B%E5%8D%884.51.40.png" alt="Screen Shot 2016-01-09 at 下午4.51.40" width="550" height="136" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-下午4.51.40-300x74.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-下午4.51.40.png 600w" sizes="(max-width: 550px) 100vw, 550px"><br>
+（Source: Data for <wbr></wbr>North Korea <wbr></wbr>is from Bank of Korea and China from World Bank）</p>
+<section><section><section><section><section><section><section>二 <strong><span lang="ZH-CN" xml:lang="ZH-CN">苏联解体后的贫困</span></strong></section></section></section></section><section></section></section></section></section><p>苏联解体后，世界形势发生了巨变。苏联的援助从此没有，俄罗斯自己还不能解决自己的温饱问题，哪顾得上北朝鲜。中国也和韩国建立了外交关系，中国的外交政策也变得越来越务实，渐渐减少对北朝鲜的援助。这使得被朝鲜经济和劳动党的统治都陷入了困境。</p>
+<p>在1990年初，朝鲜人民开始自立更生，开荒多生产粮食。虽然苏联在1970年代援助了大量的拖拉机，可是由于缺少能源，机械化无法深化。雪上加霜的是1994-1995年左右的大水灾。由于北朝鲜属于多山地带，大雨的冲刷使得大量肥沃土壤流失，粮食产量进一步下降。人均GDP，在1994年后逐步下降。朝鲜人民陷入了极度贫困之中。</p>
+<section><section><section><section><section><section><section>三 <strong><span lang="ZH-CN" xml:lang="ZH-CN">金氏王朝的对策</span></strong></section></section></section></section><section></section></section></section></section><p>为了维持劳动党和金氏王朝的统治，北朝鲜想尽一切办法，获取外援。</p>
+<p>首先是自立更生，主要手段是政府支持下对日本以及中国等国出口毒品。在2000年左右的时候，东京的地下毒品市场的主要来源就是北朝鲜。最近中国东北毒品泛滥，也是根源朝鲜，据凤凰周刊报道，2010年中国当局没收的朝鲜产毒品价值达6000万美元（4）。这一点被国际社会所获知，从此开始对北朝鲜的各种出口采取严密防范，并在海上打掉了几次朝鲜毒品走私船只，使得北朝鲜的这一生财之道渐渐受控。</p>
+<p>其次，金氏家族开始考虑使用国际讹诈等方式骗取外援。既然苏联的外援没有了，中国给的钱不痛不痒。那就要向韩国，日本以及美国要。最好的方法就是核讹诈加欺骗。</p>
+<p>1988年美国正式对国际社会宣称，朝鲜可能在开发核武器。1994年，联合国安理会提出对朝鲜制裁。1994年美国前总统卡特对朝鲜访问，进行斡旋，达成协议，同意美日韩拆除其石墨反应堆，帮助朝鲜建立两座轻水反应堆。不过由于朝美双方对资金分摊问题，一直讨价还价，延宕了援助进程。</p>
+<p>其间，金正日也展示所谓和平和温情一面，骗取国际社会大<span lang="ZH-CN" xml:lang="ZH-CN">量援助，尤其是韩国和日本的援助。</span>2000<span lang="ZH-CN" xml:lang="ZH-CN">年6月韩国总统金大中访问朝鲜；</span>2002<span lang="ZH-CN" xml:lang="ZH-CN">年</span>9<span lang="ZH-CN" xml:lang="ZH-CN">月，日本首相小泉纯一郎访问北朝鲜。为了实现和平，也为了给这些政客添光，他们私下或者公开都带去了大量的援助。比如，金大中就通过现代集团私下汇款</span>1<span lang="ZH-CN" xml:lang="ZH-CN">亿美元。</span>1<span lang="ZH-CN" xml:lang="ZH-CN">亿美元换取了一枚诺贝尔和平奖，便宜还是贵呢？</span></p>
+<p>不过，2002年美国获取了朝鲜背信弃义，继续研制核武器的证据。朝鲜马上承认了美国的指控，朝鲜核危机爆发，这也使朝鲜的国家信誉彻底破产。不过在中国的斡旋下，2005年9月朝鲜问题六方会谈取得进展，朝鲜承诺放弃核武器，美国承诺对其继续支援。比如，在2008年美国对北朝鲜的支援总额达到了2.25亿美元。</p>
+<p>可能由于北朝鲜金融改革失败，以及觉得援助太少，内部压力加大，朝鲜于是在2009年4月发射一枚飞越日本的火箭；并宣布重启钚浓缩反应堆，并在2009年5月25日再进行了一次核试验。2009年6月12日，联合国安理会一致通过1874号决议，对北朝鲜进行核试验进行谴责，并加强对北朝鲜的经济制裁，美国日本等国断绝了给朝鲜的经济援助。</p>
+<p><span lang="ZH-CN" xml:lang="ZH-CN">从此，朝鲜在疯狂的道路上越走越远，继续核试验，继续发射导弹，并走向了所谓撕毁朝鲜停战协定的地步。</span></p>
+<section><section><section><section><section><section><section>四 <strong><span lang="ZH-CN" xml:lang="ZH-CN"><strong><span lang="ZH-CN" xml:lang="ZH-CN">朝鲜疯狂的原因</span></strong></span></strong></section></section></section></section><section></section></section></section></section><p>朝鲜采取的任何行动，时而温顺，时而疯狂，根本目的就是为了获取外国援助，维持劳动党和金氏王朝的统治。</p>
+<p>朝鲜劳动党对内统治，遇到了严重的危机，这主要是经济危机造成的。如果温顺可以获取外援，借以能够收买国内的反对势力，摆平国内的危机，那就值得温顺。如果温顺不能够获取足够的外援，不能解决国内的反对势力，那就对外强硬，吸引中国，美国，日本以及韩国注意，讹诈更多援助。如果中国，美国，日本以及韩国继续不给钱，朝鲜就会对内宣传说，朝鲜的苦难，是由于美帝国主义等国家封锁造成的，引起内部人民的同仇敌忾，转移对执政党的不满。为了内部的统治稳定，我认为甚至可以不惜代价挑衅韩国，来一场区域性的可控的小规模战斗，2010年的延坪岛炮击事件以及韩国舰艇天安号被击沉事件，都是最好的证据。</p>
+<p>朝鲜金氏王朝赌博的筹码也很清楚，与其让内部推翻，不如索性对外挑衅一把，说不定还能捞点好处，转危为安。这也是不得已而为之的策略。</p>
+<p>可是，韩国，日本，中国，美国在和朝鲜长达几十年的交往中，已经洞悉了朝鲜的伎俩，对不讲信用的朝鲜，现在采取的政策就是不理睬。人与人交往中，对一个人最大的蔑视就是“不理睬”；对一个不守信用的流氓最优的对策也是“不理睬”，对国家也不例外。</p>
+<section><section><section><section><section><section><section>五 <strong><span lang="ZH-CN" xml:lang="ZH-CN"><strong><span lang="ZH-CN" xml:lang="ZH-CN">结论</span></strong></span></strong></section></section></section></section><section></section></section></section></section><p>在新的国际秩序中，内外交困的朝鲜金氏王朝何去何从？</p>
+<p>我的预测就是：如果美国，韩国和日本继续不理睬朝鲜，不给朝鲜巨额援助，朝鲜很可能继续升级无赖行为。或者对韩国发起一场，有限的类似于2010年“延坪岛炮击事件”这样的小规模战斗，借以转移内部的压力。不过，如果战斗过大，可能会导致美韩联军的反扑，把朝鲜彻底灭掉。朝鲜的劳动党也很难办！</p>
+<p>如果没有外部巨额援助，已经苦苦支撑了20多年的金氏王朝很快就会灭亡！不是被内部起义灭亡，就是因为挑衅美韩被美韩灭亡。</p>
+<p>至于中国，无论朝鲜被内部攻破，还是被美韩灭亡。为了国家利益，中国都应该派出维和部队，占领北朝鲜，参与破除核设施，并进行大规模的经济援助，以此维持中国在朝鲜半岛的战略存在，并维护东北亚的稳定。</p>
+<p><span><em><strong>参考文献：</strong></em></span></p>
+<p><span>1，报道：《朝鲜粮食援助：填不满的无底洞》</span></p>
+<p><span><a>http://data.163.com/12/0330/01/7TQE29FD00014MTN.html</a></span></p>
+<p><span>2， Manyin M. E, and M. B. Nikitin(2012) “Foreign Assistance to North Korea” Congressional Research Service, 7-5700. <a>http://www.fas.org/sgp/crs/row/R40095.pdf</a></span></p>
+<p><span>3， <a>高安 雄一</a> <wbr></wbr>„えっ、北朝鮮が最貧国じゃない!?“　2012年1月10日。日経ビジネスオンライン。<a>http://business.nikkeibp.co.jp/article/report/20120106/225846/?rt=nocnt</a></span></p>
+<p><span>4：《凤凰周刊》中国发怒了：朝鲜毒品攻陷东三省，2011年12月。</span></p>
+<p><span><a>http://blog.ifeng.com/article/15302975.html</a></span></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%9C%9D%E9%B2%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%96%AF%E4%BA%86%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中朝关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝鲜问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%BB%8D%E5%8F%97%E7%9B%91%E8%A7%86%EF%BC%8C%E8%A2%AB%E6%88%B4%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/" target="cdt-mirror">【河蟹档案】浦志强仍受监视，被戴“缓刑手表”</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -729,65 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/424393/" target="cdt-mirror">“文件加了密你为什么不解密呢”：快播案公审部分亮点内容</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg" rel="attachment wp-att-424404"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg" alt="ed1eb4c1jw1ezqq2pphbij20gi09d0v8" width="440" height="250" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8-300x170.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/ed1eb4c1jw1ezqq2pphbij20gi09d0v8.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p><strong>内容摘自新浪直播间<a href="http://live.sina.com.cn/zt/app_zt/l/v/news/kuaibo/">文字直播</a>，由数字时代编辑按时间顺序整理：</strong></p>
-<p>王欣：快播播放器开发了五六年时间，是全能型播放器，只要是视频文件都能打开。播放器本身无法分辨播放的是不是淫秽视频，这个技术全世界都做不到。<span><strong>播放器有一个搜索入口，但用的是百度、360的搜索引擎，只是提供了一个便捷方式</strong></span>，也可以搜索字幕。</p>
-<p><span><strong>王欣：如果采用人工防范方式来逐一观看处理不良画面，公司就开不下去了</strong></span>。业内都不会做这样的工作。</p>
-<p>王欣：据我所知，没有专门针对工具类软件的互联网管理条例。我们自己的防范系统都是我们自己摸索出来的。</p>
-<p><span><strong>王欣：我们对用户的本地文件有关键字的监控，但我们做过了，业内一般不会这样做，但我们跟深圳当地网监做了沟通，还是做了，并且受到了他们的表扬。</strong></span></p>
-<p><span><strong>王欣：世界上没有哪家公司对工具的使用者进行实名制认证。</strong></span></p>
-<p>王欣：涉案的4台缓存服务器中，被缓存下来的文件也许会也许不会被用户调取。缓存服务器不是快播必要的组成部分。</p>
-<p><span><strong>王欣：快播是互联网软件服务商，我们不提供内容服务。</strong></span></p>
-<p>王欣：缓存服务器中的文件是临时文件。对临时文件识别是非常难的过程。</p>
-<p><span><strong>王欣：在信息监管方面，我们在十八大期间实施了一系列监管方式，受到了深圳网监的表扬。</strong></span></p>
-<p>王欣：屏蔽系统除了关键字之外，还有网站的域名。淫秽网站被我们发现后，我们拒绝向其提供服务。</p>
-<p>王欣：我们没有接到用户举报说我们缓存服务器有问题。</p>
-<p><span><strong>王欣：我们对网监部门的监管要求都落实到位。</strong></span></p>
-<p><span><strong>公诉人：明知管不了淫秽视频，为什么公司不转型？王欣：我们公司不具备做内容的基因；其次，做技术并不可耻，坚持做技术的人很难得，为什么要去转型？</strong></span></p>
-<p>王欣：我自己也有小孩，我不希望他看到色情内容。所以我们设置了110系统。但如果我们的产品是在国外，那不会有这样的系统。</p>
-<p>王欣：我们是凭借经验来判断是不是有不良内容，无法具体判断色情文件具体存在哪个地方。</p>
-<p>王欣：快播事业部的收入主要分三部分，为广告收入、和搜索引擎的分成合作、部分会员收入。会员服务和迅雷的很相似。</p>
-<p>王欣：资讯窗口内的资讯来自于其他网站。</p>
-<p>问：淫秽视频发布者为什么选择快播的系统来发布？王欣：因为我们的播放效果非常好，很多年打不开的视频都可以打开。</p>
-<p>吴铭：起诉书所指控内容完全不符合事实。</p>
-<p>吴铭：我职务是快播事业部经理。快播事业部靠软件本身来盈利，比如状态栏的广告分成。</p>
-<p><span><strong>吴铭：110系统运行的挺好，网监还给我们发了奖状。</strong></span></p>
-<p><span><strong>吴铭：我认为那4台服务器根本就不是快播的服务器。里面的视频不知道是谁的，我看起诉书都觉得挺好笑的。</strong></span></p>
-<p><span><strong>吴铭：北京市公安局从上述服务器中的三台服务器里提取了29841个视频文件进行鉴定，认定其中属于淫秽视频的文件为21251个。这个数据太可笑了，很可能是做的。这怎么可能呢？<span>难道一天到晚没事做光看这个？</span></strong></span></p>
-<p><span><strong>张克东：我对起诉书中的指控内容有意见，起诉书中的“明知”我有意见。快播是一个开放平台，谁都可以用。我们对热门内容进行缓存，不识别内容是不是非法。</strong></span></p>
-<p>张克东：110系统从2011年就开始做了。王欣提出来，我负责开发。后来110系统的运营由牛文举负责。110系统由多少人负责我就不知道了。</p>
-<p>张克东：王欣要求我们不能和淫秽视频沾上边。110系统不间断运行。</p>
-<p>张克东：110系统屏蔽的参数有两个，一个是网址，一个是视频文件的关键字。</p>
-<p><span><strong>张克东：屏蔽参数来自三个渠道，一个是公安网监给我们；第二是用户举报系统；第三是我们自己发现的也会录入进去。</strong></span></p>
-<p><span><strong>张克东：我听说110系统和深圳网监有对接。单位有个专门的办公室，里面网监还挂了个锦旗。</strong></span></p>
-<p>张克东：世界上没有一种技术可以识别缓存服务器上的文件是不是淫秽视频。</p>
-<p>张克东：国家没有明确要求软件使用时需要实名制认证。</p>
-<p><span><strong>辩护人：正常的视频文件有没有可能被误杀？就是宁可错杀三前不可错放一个？张克东：是的。</strong></span></p>
-<p><span><strong>张克东：三台服务器里提取了29841个视频文件中属于淫秽视频的文件为21251个，比例多达70%。我对这个证据有怀疑。首先这个服务器是不是我们的硬盘，其次有没有可能淫秽文件被增多，70%这个比例明显不合中国互联网的常理，所以这个证据我认为有问题。</strong></span></p>
-<p><span><strong>审判长问：文件加了密，你为什么不解密呢？张克东听完愣了一下。</strong></span></p>
-<p>审判长问：110系统对文件的屏蔽采用敏感词方式，文件名称是可以自由改动的，那么敏感词改名后是不是就能传送成功？张克东：是的。</p>
-<p>牛文举：王欣要求我们严格按照深圳网监的要求去做。</p>
-<p>牛文举：我曾经参与过往110系统里录入过不良站点。在2012年的8月到10月间，按照网监和公司的要求，我组织五六个人录入过不良站点。</p>
-<p>牛文举：110系统仍然在线，还在发挥作用。公司培训的信息安全员都在上岗。网监在公司设有警务室。</p>
-<p><span><strong>牛文举：我们有深圳网监对我们的嘉奖证书。</strong></span></p>
-<p><span><strong>牛文举：警务室是深圳网监在我们公司设立的，是警察的办公地点。</strong></span></p>
-<p>审判长问王欣：做110系统到底是基于什么原因？简要说就可以了。</p>
-<p>王欣：110系统其实早就有了，但我们没有和深圳网监沟通，他们不知道我们已经有了。之后网监调查发现我们是有这个系统的，事后还给了我们奖励。110系统我们09年就开始开发了。</p>
-<p><span><strong>审判长：我觉得你们这个110系统功能也不是很复杂啊，技术难度很简单嘛。屏蔽的网址很好改吧？一天可以改100个？</strong></span></p>
-<p>王欣：用户量大的时候，涉及到一个效率问题，后台可能撑不到。</p>
-<p><span><strong>审判长问张克东：你是搞技术的是吧？从你了解来讲，画面拦截能不能达到？</strong></span></p>
-<p><span><strong>张克东：没有这种技术手段。</strong></span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/ea186e75gw1ezr01uigmyj20c82zs15m-1.jpg" rel="attachment wp-att-424406"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/ea186e75gw1ezr01uigmyj20c82zs15m-1.jpg" alt="ea186e75gw1ezr01uigmyj20c82zs15m" width="440" height="3880"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/424393/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%91/?category=18271" rel="tag">网监</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%AE%A1%E5%8A%9E/?category=18271" rel="tag">网管办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -799,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -809,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

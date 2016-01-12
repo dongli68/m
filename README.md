@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,107 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%8E%8B%E5%96%9C%EF%BC%9A%E9%81%97%E6%86%BE%E6%96%87%E7%AB%A0%E8%AE%A9%E5%9B%BD%E4%BA%BA%E6%84%9F%E5%86%92%E7%8A%AF/" target="cdt-mirror">南华早报 |  王喜：遗憾文章让国人感冒犯</a>
+</h2>
+<p><p>香港艺人王喜疑因其言论而遭封杀，其之前录制的央视节目也将他出现的所有镜头全程马赛克处理。对此，王喜昨天（1月11日）下午在其微博上发表声明回应称，早前在脸书上转发一则对周恩来的文章报道，令国人感到被冒犯而深表遗憾，并澄清自己非港独支持者。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%8B%E5%96%9C.jpg" alt="王喜" width="500" height="388" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/王喜-300x233.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/王喜.jpg 550w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>王喜称自己在脸书上转发了关於已故总理周恩来的文章报道，并配上了“屈原之後”四个字，只是陈述几年前，网络上曾出现过有关屈原类似的描述文章，其中没有掺入任何人意见。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%8B%E5%96%9C%E9%81%93%E6%AD%89.png" alt="王喜道歉" width="450" height="801"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%8B%E5%96%9C%E9%81%93%E6%AD%892.png" alt="王喜道歉2" width="450" height="801"></p>
+<p>王喜目前疑似已经删除全部微博  <a href="http://weibo.com/u/2004967804?zw=ent#_rnd1452578269621" target="_blank">传送门</a></p>
+<p>王喜之前所转述的是一篇文章，称已故总理周恩来有可能是同性恋。战国诗人屈原，历史上也有人考证，其可能为同性恋。</p>
+<p>之後，王喜表示：“无缘无故被冠上‘港独’帽子後，情况就更偏离事实。”</p>
+<p>他特此澄清，“本人不同意及不支持任何主张香港独立的人或事。对已故国家领导人的卓越贡献，深表敬意。”</p>
+<p>目前，王喜的新浪微博只有声明那一条微博，为昨天下午17点多发出，此微博被设置成为不能评论。</p>
+<p>在1月10日央视播出的真人秀《了不起的挑战》中，节目组原本请了香港演员王喜录制，但最後播出的版本中王喜的所有镜头都被删去，没办法删的全程用马赛克处理。之後有内地媒体报道指，是因为王喜在其社交媒体上发布了大量羞辱内地的言论而被封杀。</p>
+<p>《了不起的挑战》总导演12月31日在其新浪微博@正牌三条中，称“放心，老母鸡不会有独！”并附上图文指“知道，我们不会请；请了，我们不会录；录了，我们不会用；用了，我们不会播。”以此来回应此事件。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%8E%8B%E5%96%9C%EF%BC%9A%E9%81%97%E6%86%BE%E6%96%87%E7%AB%A0%E8%AE%A9%E5%9B%BD%E4%BA%BA%E6%84%9F%E5%86%92%E7%8A%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9%E6%9D%A5/?category=18271" rel="tag">周恩来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%96%9C/?category=18271" rel="tag">王喜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%B5%9B%E5%85%8B/?category=18271" rel="tag">马赛克</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E6%9D%8E%E4%B8%9C%E7%94%9F%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4/" target="cdt-mirror">BBC ｜中国公安部原副部长李东生一审获刑15年</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/131225114425_cn_li_dongsheng_624x351_afp.jpg" alt="李东生" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/131225114425_cn_li_dongsheng_624x351_afp-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/131225114425_cn_li_dongsheng_624x351_afp.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><br>
+2007年10月，李东生曾担任中共十七大新闻发言人。</p>
+<p>中国中央电视台新闻中心官方微博“央视新闻”周二（12日）报道，天津市第二中级人民法院当天对原中国公安部副部长李东生受贿案作出一审判决。李东生被判有期徒刑15年，没收个人财产100万元。</p>
+<p>“央视新闻”称，李东生当庭表示不上诉。</p>
+<p>2015年10月14日，天津市第二中级人民法院开审公安部原副部长李东生受贿一案。天津市人民检察院第二分院起诉指控称：1996年至2013年，李东生利用职务上的便利以及职权和地位形成的便利条件，为11个单位和个人，在获取广告代理权、调动工作、案件处理、户口办理等事宜上提供帮助。2007年至2013年，李东生直接或通过其亲属索取、非法收受财物共计折合人民币2198万余元，应以受贿罪追究李东生的刑事责任。</p>
+<p>李东生与周永康案</p>
+<p>2013年底，中纪委宣布，李东生涉嫌严重违纪违法已经被免职。他是中共十八大后落马的第二名中央委员和首位落马的政法系统高官。</p>
+<p>中国媒体当时的报道列出了李东生接受调查前担任的所有职务，包括中央防范和处理邪教问题领导小组副组长、办公室主任，国务院防范和处理邪教问题办公室主任，公安部副部长、党委副书记（正部级）。</p>
+<p>在进入政府系统前，毕业于复旦大学新闻系的李东生曾长期在中国中央电视台和中宣部工作，曾任中共宣传部副部长。根据中国官方公布的李东生的简历，李东生在中央电视台“扎根”20多年，从摄影记者干起，历任中央电视台新闻部时政组副组长、政文部副主任、新闻采访部副主任、主任、新闻中心主任和副台长。2009年10月到公安部担任副部长前，李东生从未有过任何政法工作经历。</p>
+<p>虽然审理过程中没有披露相关信息，但李东生被认为和前中共政治局常委、政法委书记周永康关系密切。</p>
+<p>除李东生所在的政法系统外，周永康曾经工作多年的石油系统和四川省在十八大后也有多名高官落马。与周永康关系密切的前石油系统官员蒋洁敏和王永春已被判刑。四川省文联原主席郭永祥，海南省原副省长冀文林，四川前省委副书记李春城也先后落马。</p>
+<p>前中共政治局常委、政法委书记周永康已于2015年6月在天津被判无期徒刑，剥夺政治权利终身。他是中共建政60多年以来落马的最高级别官员。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=3f0cf759-287f-4738-938a-3ced9c4a3e1c">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E6%9D%8E%E4%B8%9C%E7%94%9F%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">周永康案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%B8%9C%E7%94%9F/?category=18271" rel="tag">李东生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%83%85%E5%BF%AB%E6%92%AD%EF%BC%9F/" target="cdt-mirror">东方日报 | 大陆网民为什么同情快播？</a>
+</h2>
+<p><p>这两天，火遍大陆网络、刷爆微博微信的快播案，随着人民日报、新华社等官方媒体的介入以及国家网信办的明确表态，而变得越发扑朔迷离，各种观点的碰撞精彩纷呈。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-%E4%B8%8B%E5%8D%889.19.12.png" alt="Screen Shot 2016-01-11 at 下午9.19.12" width="550" height="306" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.19.12-300x167.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.19.12.png 603w" sizes="(max-width: 550px) 100vw, 550px"><br><span>不论快播是否有罪，尊重法律、尊重程序，这才是法治。</span></p>
+<p>快播公司及主管人员传播淫秽物品牟利案在北京开庭审理，并进行了网络直播。控辩双方交锋激烈，精彩不断。王欣等 4 名快播前高管均坚称无罪，辩方强力嘴炮，金句百出，致使辩护词在网上广泛热传。</p>
+<p>面对这种局面，官方赶紧出面表态，意在给炽热的讨论降温。先是人民日报客户端和新华社先后刊发文章。人民日报的题目是：《快播的辩词再精彩，也不配赢得掌声》；新华社发表电讯稿的题目是：《无论快播是否有罪，都要对狡辩的权利报以掌声》。这两篇文章貌似观点针锋相对，其实有着异曲同工的作用。一个是直接建议定罪，有未审先判嫌疑；一个是假设辩词是狡辩。一个唱黑脸、一个唱白脸。当然还是新华社老道些，明里公正，暗里放枪。人家一个词儿就定性了：狡辩。</p>
+<p>紧接着，代表互联网管理最权威部门的国家网信办新闻发言人姜军发表谈话，表示坚决支持对快播涉黄案进行依法查处。所有利用网络技术开展服务的网站，都应对其传播的内容承担法律责任。希望广大网民在发表言论时坚守底线，支持司法机关依法办案。</p>
+<p>至此，快播案基本瓜熟蒂落，只等着法院最后宣判。人们毫不怀疑快播罪名成立，王欣等高管有可能被判处有期徒刑 10 年以上或着无期。</p>
+<p>但是，当局和全社会应该为此反思一个问题：大陆网民为什么会这么同情快播？</p>
+<p>我想恐怕有这么几个原因：第一，法院破天荒地进行网络和视频直播，让广大公众第一时间了解到了庭审辩论的实况，使这个案件受到广泛关注和热议。通过先进的网络直播手段，让公众能够积极关注并见证案件审理的全过程，这本身就是个进步；</p>
+<p>第二，快播案的背后，是新技术与传统管理制度的激烈碰撞。在互联网 + 时代，对涉黄产业如何有序管理？治理网络涉黄问题，一直是一个全球性的问题。在互联网 + 的背景下，它实际上不是被压制而是被放大了，有些传统的法律法规恐怕应该重新检讨；</p>
+<p>第三，很多公众是藉这个案件，发泄对执政当局的不满，包括对那些思想上、行动上都很不干净的人，却用司法手段强制净化社会的不满；对那些对市场和新技术一窍不通的人，粗暴打压技术进步的不满；对集权有术，治国无能的人，由着性子瞎折腾玩残这个时代的不满。</p>
+<p>不管配不配赢得掌声，也不管狡不狡辩，反正现在的事实是：掌声已经响起来了。不过，这个掌声不是给快播，也不是给哪个人，更不是给网络涉黄。这个掌声，应该是给已经开启的民智，是给这次司法的公开和透明。</p>
+<p>在平等的条件下，各种观点的激烈碰撞、讨论，体现了一个法治社会的基本氛围。不论快播是否有罪，尊重法律、尊重程序，这才是法治。如果这场大众关注的庭审，最后能够变成一次普法公开课，能够让中国的互联网从此走向法治和规范，能够进一步开启民智，难道我们不应该对此给予一点掌声吗？</p>
+<p>来源：东方日报 / 老徐 独立评论员</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%83%85%E5%BF%AB%E6%92%AD%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%AD%E5%AE%A1%E5%AE%9E%E5%BD%95/?category=18271" rel="tag">庭审实录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%81%94%E5%90%88%E6%8A%A5-%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%BA%97%E5%91%98%E4%B8%BA%E4%BD%95%E3%80%8C%E6%8A%A5%E5%B9%B3%E5%AE%89%E3%80%8D%E6%97%A0%E7%94%A8%EF%BC%9F/" target="cdt-mirror">联合报 | 铜锣湾书店店员为何「报平安」无用？</a>
+</h2>
+<p><p>所谓报平安，就是一个人避免自己因为行踪不明而让家人担心，通报以让家人知道自己没有生命危险的行为，比方说，中学生晚上离家，打电话告诉家人自己去了哪里，也是一种报平安的行为。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-%E4%B8%8B%E5%8D%889.01.40.png" alt="Screen Shot 2016-01-11 at 下午9.01.40" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.01.40-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.01.40.png 620w" sizes="(max-width: 550px) 100vw, 550px"><br><span>香港数千人示威，声援铜锣湾书店5名失踪人士和要求中国政府交代5人下落</span></p>
+<p>如果你曾是学生的家长，你去想像一下，你大概会了解报平安是甚么回事。通常就会希望知道学生目前所在的地点，正在做什么，跟什么人在一起，什么时候会回来，最重要的是，留下之后的联络方法。</p>
+<p>这其实是一种常识，如果你的家人和你联络一次之后，又再失踪几天，而且无法联络，我想大部分心理正常的家人，都不会认同这是一个令人安心的行为。</p>
+<p>最近，香港书店店员于两个月内连环五人失踪案，失踪者多次的「报平安」然后又再失去音讯。而去到今天，这是个诱拐事件的迹象已相当明显，其实暴露这些迹象的，正正是因为报平安这个行为。我们可以合理怀疑，这是个诱拐犯罪，并假定绑匪的存在。</p>
+<p>失踪者在此案中，有几次通讯机会，内容不外乎「我没事，我健康，不要把事情弄大」，绑匪们可能觉得这就可以了，他们可能不察觉，事情弄大的原因是人持续失踪，要让事情平息，就只有让当事人重新出现，所以他们想透过报平安舒缓事件的意图，就从没有真正代入家属们的感受和需求，套一个网络上的潮语，他们真的是「你有想到报平安为何没有用？没有，因为你只想到自己。」</p>
+<p>作为绑匪或者是因为任何利益关系如政治，宗教立场，或者任何偏激的意识形态，而同情或支持绑匪者，不少都一心期望家属和公众们，能够息事宁人，把事情不看成绑票而看成是私事，使事情能够不闹大，但这些人的盲点，在于他们只站在绑匪方的立场看问题，而不明白对于家属方，他们需要的第一就是安全回港，如果做不到第一点，那需求就会是保持联络。</p>
+<p>而这个需求从没有在「报平安」这个行为得到满足，反之，这些「报平安」的行为，不仅没有达致息事宁人的效果，还会使事情变得越来越难以收拾。</p>
+<p>首先第一次报平安用的是电话，这对于绑匪来说，就是非常危险的行为。因为电话是一种实时通讯，人质很可能会突然把重要的资讯，例如绑匪的身份，目前所在的位置，在电话通讯中泄漏出去。就算绑匪立即截线，或者是处决人质，都已经太迟。</p>
+<p>所以跟着报平安，改用的是书信，自然就是方便绑匪审查，防止不想泄漏的资讯外泄。但是这个审查本身也是有漏洞的，就是绑匪的语文能力不足，并不足以看到文中的所有陷阱。</p>
+<p>报平安用的书信，出现了两个大漏洞，第一是「以自行形式回内地」，绑匪大概以为，人质声明用自行形式回大陆，是可能引导公众认为他是自愿失踪。先不论他们这种乐观的想法是否正确，但是「回内地」却成功表达了当事人现在的位置，加上他回大陆的旅游证件还留在香港。</p>
+<p>这个资讯泄漏，导致了香港有护航者主张「电话来自大陆不一定是大陆」，期望可以把事情拗成当事人从没离开香港一说，完全不攻自破，而且再也没有可能使用──失踪者在大陆，而且是非法入境这点已经被确认。而另一点「配合有关方面调查」的有关方面是什么，以及他们在调查什么，引起联想的破坏力更是可想而知。这完全是因为绑匪在文字方面的功力不足，引致的意外。</p>
+<p>而最近又据说「流出影片」，虽然公众没机会看到影片，而影片的内容又是「不要把事情闹大」，同样地，他只会得出一个恶化的结果：便是欲盖弥彰。绑匪们似乎没有理解到，报平安需要的，就是留下一种较稳定的联络方式，可以让当事人自由联络，他们一直误解了这点，概念上有落差，才导致事情越发不可收拾。 使绑匪去到进退两难的地步。 已难以息事宁人，绑匪去到这局面，最好的方式也许就是自首，否则，事情只会走向对绑匪更不利的方向。</p>
+<p>虽然这是值得严肃看待的事情，但绑匪们犯的错误，却有一种傻气的黑色幽默，犯下一些非常幼稚的错误。当然，犯罪者们的愚蠢，对于善良百姓而言，应该是一件值得庆幸的事情。</p>
+<p>来源：联合报 / 郑立</p>
+<p><img alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%81%94%E5%90%88%E6%8A%A5-%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%BA%97%E5%91%98%E4%B8%BA%E4%BD%95%E3%80%8C%E6%8A%A5%E5%B9%B3%E5%AE%89%E3%80%8D%E6%97%A0%E7%94%A8%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%EF%BC%9A%E6%94%BF%E6%B2%BB%E5%92%8C%E9%81%93%E5%BE%B7%E5%86%B2%E7%AA%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93/" target="cdt-mirror">BBC | 点评中国：政治和道德冲突的中国媒体</a>
 </h2>
 <p><p><strong>2015年底，中国记协成立新闻道德委员会，既正常又意外。正常是此前地方大多数省市区已成立这种机构，当然也需要一个全国性的委员会加以协调指导、最终裁决。意外是中国作为一个对媒体严格管理和控制的国家，多少年来竟然一直没有新闻道德委员会。</strong></p>
@@ -711,167 +809,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%9C%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E5%8F%B2/?category=18271" rel="tag">习近平情史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF/?category=18271" rel="tag">刑讯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%81%94%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">春联工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BD%B3%E4%BD%B3/?category=18271" rel="tag">李佳佳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%BC%80%E5%A4%8D/?category=18271" rel="tag">李开复</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD/?category=18271" rel="tag">熔断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/?category=18271" rel="tag">玩币归赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/?category=18271" rel="tag">缓刑手表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">罗昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%B7%A6%E8%AF%86%E9%80%94/?category=18271" rel="tag">老左识途</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%92%E5%90%91%E6%96%B0/?category=18271" rel="tag">舒向新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4/?category=18271" rel="tag">银川公交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E5%B9%B3/?category=18271" rel="tag">马永平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E8%AF%B7%E6%8D%82%E7%9D%80%E8%84%B8%EF%BC%8C%E5%9D%9A%E6%8C%81%E7%9B%B4%E6%92%AD%E7%9A%84%E5%8B%87%E6%B0%94/" target="cdt-mirror">六神磊磊：请捂着脸，坚持直播的勇气</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/640-1.jpg" rel="attachment wp-att-424634"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640-1.jpg" alt="640" width="460" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640-1-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/640-1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<p>来自微信公号：六神磊磊读金庸 (ID: dujinyong6)</p>
-<p><strong>文／六神磊磊</strong></p>
-<p><em>今天我站在法检两家的立场上说一点话</em></p>
-<p><strong>一</strong></p>
-<p>王欣案的直播，似乎出了一点小意外。</p>
-<p>关上门，本来可以鲁提辖拳打镇关西；一公开，就变成许褚裸衣斗马超。</p>
-<p>我看到有一些评论人，很看不惯一边倒挺王欣的“民意”，他们奋力地试图说明：王欣在狡辩。</p>
-<p>可是这很奇怪吗？一个人，马上可能要被判有罪了，马上要面临严重的刑罚了，他当然可能要狡辩啰！此时不狡辩，更待何时呢？</p>
-<p>法律的公正，不能寄望于靠被告不狡辩来实现。</p>
-<p>作为一个围观群众，我真的并不在乎一个被告是不是在狡辩，我只关心我们的公诉人和法官是不是职业、素质如何。如果你不能理解这一句，可以取消对我的关注。</p>
-<p><strong>二</strong></p>
-<p>现在，我觉得有一个最值得关注的问题：</p>
-<p>我们的法检两家，会怎么总结和反思这一次庭审？</p>
-<p>翌日，如果分管领导、政法委、宣传部门、公诉机关、侦察机关坐在一起，关上了门，大家默默对视着，又会怎么总结和反思这一次庭审？</p>
-<p>可以理解，会有一些唏嘘：哎，谢特，我去……</p>
-<p>但我希望千万不要得出一个结论：TNND，下次再也不搞直播了。</p>
-<p>千错万错，直播没错。千吊打万吊打，直播值得鼓励。</p>
-<p><strong>三</strong></p>
-<p>法院为什么要网上直播这个案子？我不了解内情。大致可以猜想一下。</p>
-<p>直播是有风险的。这肯定不是一时冲动，也不是一个基层院可以决定的，肯定是请示上级院同意的结果。</p>
-<p>过去，只有少数全国关注的“大佬案”才搞了直播，就好像在江湖武林中，审判欧阳锋、审判左冷禅、审判金轮法王、审判星宿老怪才搞直播。</p>
-<p>现在王欣案也搞直播，出乎意料。</p>
-<p>也许是法院为了树立一个标杆，也许是要体现司法体制改革的成果，也不排除法院领导个人对公正公开有所追求，心中有一份情怀，想搞一点突破。</p>
-<p>谁想得到对方这么牙尖嘴硬啊？甚至还做无罪辩护。</p>
-<p>一不小心，庭审向着另一个方向滑去，变成所谓的“吊打”。</p>
-<p><strong>四</strong></p>
-<p>我知道，如果不直播，什么鸟事都没有了。</p>
-<p>关起门来，一切都会不一样的。公诉人会以泰山之势，碾压“最有种的男人”。</p>
-<p>王欣和辩护人将没有机会长篇大论，纵论情怀，还没发挥几句就会被审判长打断了。</p>
-<p>不搞直播，你我最后只能读读通稿，看几句不咸不淡的庭审描述，然后你还看你的芈月传，我还发我的万柳书院广告，一切云淡风轻，就此过去。</p>
-<p>可是一直播，战斗就变成了另一个样子，公诉人紧张了，整个矮了一头；辩护人兴奋了，整个高了一头；审判长又要表现不偏不倚，让被告说话。</p>
-<p>于是各种吊打，各种被带到坑里。被告一边，王欣甚至有藐视审判长之嫌，居然还能频频反问。</p>
-<p><strong>五</strong></p>
-<p>经此一役，法院想要推进公开的小心脏，想必很受了一番挫折。法检两家很容易把账算到直播头上。这是最不好的。</p>
-<p>每当发生错误时，最怕的就是倒退式的、简单化的反思。</p>
-<p>例如前些年某地的一起个案：一个执法者粗暴地打了人，还踩住她的头发。这个场面被人拍照上网，成了热点，当事人被处分。</p>
-<p>对于此事，最好的反思是慎用警力，并提高执法队伍的素质。</p>
-<p>可我却很担心，他们经过闭门总结、认真反思后，得出的结论是：以后千万当心手机，可别让人拍到了！谁拍就弄谁丫的。</p>
-<p>如此一来，不好的执法习惯仍会继续，而唯一发生的变化是：一见到手机就拼命抢。</p>
-<p>同样地，这次王欣案直播，最好的反思是：我们的法官、公诉人、侦察人员要多勤练内功。</p>
-<p>而最不该有的反思是：都是直播惹的祸。以后能不直播就不直播啰，能不公开就不公开啰。就算要公开审，那也尽量少报道、不报道，开庭时找个小厅，多安排群众演员把位子坐满啰。</p>
-<p>我希望一定不要有这样的反思。</p>
-<p><strong>六</strong></p>
-<p>最后，对王欣案，我来鼓励法检两家几句吧。</p>
-<p>没错，审判长有一些问题似乎不专业。</p>
-<p>但是他至少保障了辩护一方的权利，做到了双方机会平等，让我们大家看到了一场精彩的刑案抗辩。</p>
-<p>对于没有正经国产律政剧看的我们而言，这是很难得的。</p>
-<p>我也来鼓励公诉机关几句吧。</p>
-<p>法院要搞直播，你们心里大概也是有意见的，上场时也是心里咯噔咯噔的。</p>
-<p>但你们至少没有对王欣搞道德审判，没有忽然说他买春；你们的人才储备或许还不够，但毕竟没有搞“支持起诉”，把上级院的人临时调到基层院来当公诉人。</p>
-<p>多直播，才能多历练。郭靖的绝世武功怎么来的？欧阳锋在农家乐里逼着打架练出来的！杨过的绝世武功怎么来的？神雕逼着他打架、洗洪水澡练出来的！</p>
-<p>上场练得多了，我们才会少一些播音腔公诉人，少一些只会字正腔圆、以气驭剑、一边倒怒斥对面的公诉人，多一些真正的精英，上得了真正的拳台。</p>
-<p>今天啪啪啪，是了明天的啊啊啊。</p>
-<p>请捂着脸，坚持直播的勇气。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E8%AF%B7%E6%8D%82%E7%9D%80%E8%84%B8%EF%BC%8C%E5%9D%9A%E6%8C%81%E7%9B%B4%E6%92%AD%E7%9A%84%E5%8B%87%E6%B0%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%AD%E5%AE%A1%E7%9B%B4%E6%92%AD/?category=18271" rel="tag">庭审直播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/709%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95-%E9%83%A8%E5%88%86%E4%BA%BA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F%E6%9C%9F%E5%B1%8A%E6%BB%A1%E4%BB%8D%E4%B8%8B%E8%90%BD%E4%B8%8D/" target="cdt-mirror">自由亚洲｜709大抓捕 部分人监视居住期届满仍下落不明</a>
-</h2>
-<p><p><em>原标题：709维权律师大抓捕 部分人监视居住期届满仍下落不明</em></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057.jpeg" rel="attachment wp-att-424629"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057.jpeg" alt="人权团体声援大陆被捕维权律师。（忻霖摄影）" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057-300x200.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/860704dc-717f-422b-a66f-d5b25f411057.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>人权团体声援大陆被捕维权律师。（忻霖摄影）</p></div>
-<p>中国当局去年7月大肆抓捕维权律师，警方以“监视居住”名义将他们关在秘密地点，1月9号法定“监视居住”六个月的期限将届满。国际人权组织敦促中国当局释放38名被拘禁律师和维权人士。有中国律师也在为在押同事争取自由。</p>
-<p>总部设在美国纽约的“人权观察”组织1月7号发表声明，呼吁中国释放2015年7月以来被捕的、与北京锋锐律师事务所相关的38名维权律师和活动人士。声明指出，1月9号，多名被捕的律师和维权人士六个月的“指定监视居住”将期满，中国当局应该依法释放他们。“人权观察”中国部主任索菲・理查森在声明中指出，秘密拘押数十名律师，已让中国主席习近平自诩的依法治国成为笑话，如果不能在六个月期限届满时将这38人全部释放，未来不会再有任何人相信中国当局会尊重自己制定的法律。</p>
-<p>“人权观察”中国部主任索菲・理查森1月8号接受本台记者电话采访时表示，</p>
-<blockquote><p>“当你看到一个强权政府如此明显、故意的违背自己的法律，而不顾国内外的强烈谴责，很明显中国共产党继续把司法体系看作是为党权力服务的工具，中国的司法不是独立的。”</p></blockquote>
-<p>“人权观察”的声明指出，2015年7月到9月期间,中国当局逮捕了全国各地300多名人权律师和活动人士。大逮捕开始不久，官方媒体就发表对这些律师、维权人士的不实指控，并播出部分在押人员的“认罪”视频，抹黑相关人员及其工作。香港非政府组织“中国维权律师关注组的资料”显示，包括北京锋锐律师事务所的王宇律师夫妇在内，目前仍有38人被拘留，其中21人仍被警方“指定监视居住”，13人可能遭受了其他形式的强制措施，4人“被失踪”。被拘留的38人中只有一人获准会见律师，没有任何人获准会见家属。中国当局还限制了约30名律师出境。一些被拘留者的家庭成员也被警方骚扰。</p>
-<p>在美国的项小吉律师就此评论说：</p>
-<blockquote><p>“在中国，‘法治’基本上是一个虚假的东西。不管你是什么群体，不管你是律师还是什么别的群体，你只要触碰了当局的权威、利益，它就实施镇压，毫无程序可言。”</p></blockquote>
-<p>法新社1月8号报道，在中国大陆，目前仍有16名维权律师被秘密关押，他们的家人生活在恐惧和孤立无援中。为争取在押同事重获自由，许多中国律师仍在不懈努力。如余文生律师，去年也曾被拘押，现在是同行王全璋的辩护律师。王全璋曾为法轮功学员担任辩护律师。余文生对法新社记者表示，“共产党用武器维护统治。我们不能用枪，但至少能用法律作为武器（维权）。”</p>
-<p>王全璋的另一名辩护律师王秋实1月8号晚间接受本台记者采访时介绍说，警方告知他，王全璋涉嫌寻衅滋事、煽动颠覆国家政权，目前在天津被”监视居住”，但因”国家安全”原因不能透露地点，也不让律师与王全璋会面。王秋实律师说：</p>
-<blockquote><p>“他们从来就没有告知过我们到底是在什么地方监视居住。我要求河西分局和天津市公安局信息公开，王全璋监视居住期间的伙食、衣物所花费用的财政信息，也都被羁押单位拒绝了。”</p></blockquote>
-<p>王秋实律师表示，他和于文生律师已在上个月末就王全璋案向天津公安局递交《履行职责要求书》，指出天津市河西区公安分局诸多违法行为，包括：在王全璋被采取强制措施后，辩护人及家属从未得相关法律文书；警方至今不告知律师及家属被采取强制措施的时间地点；至今不向律师告知案情；妨碍律师与王全璋行使通信权等。警方至今仍未对《要求书》作出任何回复。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/709%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95-%E9%83%A8%E5%88%86%E4%BA%BA%E7%9B%91%E8%A7%86%E5%B1%85%E4%BD%8F%E6%9C%9F%E5%B1%8A%E6%BB%A1%E4%BB%8D%E4%B8%8B%E8%90%BD%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%81%E4%B8%8D%E5%90%8C%E6%94%BF%E8%A7%81%E8%80%85/?category=18271" rel="tag">持不同政见者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B/?category=18271" rel="tag">王全璋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%BD%A6%E6%B5%A9%EF%BC%9A%E5%BF%AB%E6%92%AD%E6%98%AF%E5%90%A6%E5%BA%94%E4%B8%BA%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%AD%E7%AB%8B%E8%A1%8C%E4%B8%BA%E4%B9%B0%E5%8D%95/" target="cdt-mirror">车浩：快播是否应为互联网中立行为买单?</a>
-</h2>
-<p><p>文/车浩（北京大学法学院副教授）</p>
-<p>据新华社2014年9月报道，深圳快播科技有限公司法定代表人王欣等5人被移送检察机关审查起诉。警方称，他们利用其公司研发的快播软件，以只做技术，不问内容为借口，放任大量淫秽色情和侵犯他人著作权的视频广泛传播，通过收取会员费和广告费等牟利，经营额达数亿元，非法获利数额巨大。该公司不服2.6亿元行政处罚提起的行政诉讼在2014年12月31日开庭，将择日宣判。</p>
-<p>从媒体报道的材料来看，本案之所以有这么大的影响力，一是由于快播的视频播放器的用户量非常大，快播出事了，有很多用户关注；二是由于快播软件有一个很明显的技术特点，也是它与其他播放器软件的一个最大区别，那就是视频内容可以在使用快播的用户之间分享，这就大大地扩展了视频来源的数量和丰富性，因此受到用户的追捧。然而，也正是由于这个让快播播放器风靡一时的技术设计，让快播公司在法律上栽了跟头，把它送进了我们今天讨论的话题范围。</p>
-<p>据多家媒体报道，“海淀检察院指控，快播公司自2007年 12月成立以来，基于流媒体播放技术，通过向国际互联网发布免费的QVOD媒体服务器安装程序(简称QSI)和快播播放器软件的方式，为网络用户提供网络视频服务。其间，快播及其直接负责的主管人员王欣、吴铭、张克东、牛文举为牟利，在明知QVOD媒体服务器安装程序及快播播放器被网络用户用于发布、搜索、下载、播放淫秽视频的情况下，仍予以放任，导致大量淫秽视频网上传播。” 1从指控内容来看，快播公司案在法律上颇有值得探究之处。</p>
-<p>通常情况下，一个网站如果被认定为是传播淫秽物品，往往是由于网站本身储备或者发布淫秽信息，或者作为专门供用户发布淫秽信息的平台。快播案件的特殊性在于，快播软件不是一个网站，只是一个技术中立的播放器软件，其本身并不包含或者发布淫秽信息。但是，如果一个快播用户观看的视频中有淫秽视频，那么，这个视频就可以被其他用户分享，而分享的人多了，就从一个点对点的分享，变成一种在不特定多数人之间的传播。从技术层面来看，快播软件在客观上是这种分享和传播得以实现的一个支持工具。概言之，快播既不是一个淫秽信息的内容提供者，也不是一个专门供用户发布淫秽信息的平台，但是作为一款可以播放各种视频信息的播放器软件，客观上为那些分享淫秽信息的用户提供了帮助和便利，这就是其涉嫌犯罪的事实基础。</p>
-<p>那么，根据快播播放器在客观上能够帮助用户传播淫秽信息这一事实，而指控快播公司成立犯罪，法律依据是否充分?</p>
-<p>2004年两高《关于办理利用互联网、移动通讯中断、声讯台制作、复制、出版、贩卖、传播淫秽电子信息刑事案件具体应用法律若干问题的解释》第7条规定：“明知他人实施制作、复制、出版、贩卖、传播淫秽电子信息犯罪，为其提供互联网接入、服务器托管、网络存储空间、通讯传输通道、费用结算等帮助的，对直接责任人员和其他直接责任人员，以共同犯罪论处。”对于为传播淫秽信息者提供网络播放器软件的行为，该司法解释并没有专门界定。不过，按照提供互联网接入、服务器托管、网络存储空间等服务的均被认定为共犯这一逻辑来看，具有在互联网上发布和搜索等功能的播放器软件，由于同样是在客观上为传播淫秽信息者提供“帮助”，因而也应得出同样的定罪结论。</p>
-<p>此外，2010年两高《关于办理利用互联网、移动通讯终端、声讯台制作、复制、出版、贩卖、传播淫秽电子信息刑事案件具体应用法律若干问题的解释(二)》第 4条规定，“以牟利为目的，网站建立者、直接负责的管理者明知他人制作、复制、出版、贩卖、传播的是淫秽电子信息，允许或者放任他人在自己所有、管理的网 站或者网页上发布”，达到一定数量或数额的，按照传播淫秽物品牟利罪处理。该司法解释也没有专门界定提供播放器软件的行为性质。但是，按该司法解释，网站建立者和管理者允许或放任他人在自己网站上发布、传播淫秽信息，就具备了传播淫秽物品的故意。从这一定罪逻辑来看，快播软件的管理者明知他人利用其播放器传播淫秽信息而放任，其“允许或者放任”的主观故意也是一样的。</p>
-<p>不仅是这两个直接规定传播淫秽信息犯罪的司法解释。 2001年《关于办理生产、销售伪劣商品刑事案件具体应用法律若干问题的解释》、 2003年《关于办理假冒伪劣烟草制品等刑事案件适用法律问题座谈会纪要》以及 2004年《关于办理侵犯知识产权刑事案件具体应用法律若干问题的解释》中均规定，明知对方系从事生产、销售伪劣商品、侵权产品的企业而向其提供贷款的，构成相应犯罪的帮助犯。这些司法解释的一个共同点是，只要一个行为客观上对犯罪行为有帮助作用，行为人主观上也对此明知，该行为就应当按照帮助犯处理。</p>
-<p>这样看来，快播公司的播放器软件在客观上为用户传播淫秽信息提供了帮助作用，管理者也对此存在主观明知，按照上述司法解释的定罪思路，认定快播公司构成传播淫秽物品牟利罪，在法律上似乎并无疑义。但是，如果将这些司法解释与更高位阶的刑法条文来对比考查，会发现一些微妙但是关键的差异，而正是这些差异，会直接导致不同的结论。</p>
-<p>我国刑法典分则中关于共犯的直接规定很少，这里仅举两例说明之。 (1)《刑法》第 156条关于走私共犯的规定，“与走私罪犯通谋，为其提供贷款、资金、帐号、发票、证明，或者为其提供运输、保管、邮寄或者其他方便的，以走私罪的共犯论 处”。(2)《刑法》第350条关于制造毒品罪的共犯规定，“明知他人制造毒品而为其提供前款规定的物品的，以制造毒品罪的共犯论处”。显然，(1)成立共犯必须是“通谋”， (2)则只要“明知”即可。</p>
-<p>为什么会有这种不同?仔细观察后可知，在(1)中的行为，是为走私者提供贷款、资金、账号、发票、证明，或者提供运输、保管、邮寄等，这些都是属于现代社会生活中非常普遍的、大量存在的日常行为。提供此类帮助者，必须事先与他人有通谋。而在(2)中的行为，即为制毒者提供制造毒品的原料或者配剂，却并不是一种日常性的行为，显然，这些制造毒品的原料或者配剂不同于普通的货物，持有者或经营者不能向其他的日用商品一样随意向他人提供。提供此类帮助者，主观上只要明知就足以入罪。由此可见，尽管行为都是在客观上为他人犯罪提供了帮助，但是，鉴于不同帮助行为存在某种性质差异，相应地，入罪时对于行为人的主观方面的要求也宽严不同。</p>
-<p>但是，立法上的这种刻意的、精细的区分，却被司法解释的制定者们有意或无意地抹杀了。上述提及的各个司法解释，对为他人犯罪提供帮助者，主观上一概以是否“明知”衡量之。只要达到这一门槛，不再进一步考虑有无“通谋”的问题，而直接以共犯入罪。同样是帮助行为，提供贷款、提供网络服务与提供制毒原料之间有无差异？以及这种差异有无法律上的重要意义？这些问题，在上述司法解释的定罪逻辑中，处在了一个盲点的位置。</p>
-<p>实践中的盲目，并不意味着理论上的缺席。与这里讨论的法条、司法解释以及类似快播案紧密相关的，是刑法理论上的“中立的帮助行为”的问题。</p>
-<p>在我们的社会生活中，每天有无数的日常性事件发生，其中一些行为，直接或间接地为犯罪行为的实行提供了帮助。例如，开饭店，开公交车或出租车、开商场、开加油站等，这些行为本来都是中立无害的。现在假设，有一个人到饭店来吃饭，是打算吃饱了有力气去杀人的;有一个人上了公交车或者出租车，是打算去火车站实施爆炸的;有一个人到商店里买一把榔头，是打算入室盗窃的;有一个人来给车加油，是要开车去抢银行的……如果这些场所或设施的经营者对此“明知”，不仅知道那个人的犯罪意图，而且也知道自己的经营行为会为那个人的违法犯罪，提供帮助或者促进的作用，但是他仍然照常为那个人提供饭菜、提供运输、卖榔头给他、给他的汽车加油……事后来看，经营者的行为在客观上确实对犯罪人起到了帮助作用，是其犯罪行为得以实施的因果链条上必不可缺的一环。从共同犯罪的基本原理来看，既然提供支持者认识到了罪犯的行为，又有客观的帮助效果，那么，就应该按照帮助犯予以处罚。但是，这些日常行为的存在和实施，是被这个社会生活接纳、允许甚至必不可少的一部分，这就出现了矛盾和冲突。法律是否应当惩罚这个外表看起来是中立无害的，但客观上又有帮助作用的行为呢?</p>
-<p>这就是刑法上的“中立的帮助行为”之争。在法教义学上，这个问题被具体讨论：在何种程度上，一个日常中立的行为，能够被评价为是可罚的犯罪行为?对此，理论上存在很大争议。有较为激进的少数观点认为，中立的帮助行为与普通的帮助犯一样，不存在任何特殊性。帮助犯的处罚规则并没有对某个行业给予特殊的优待。如果认为一种符合交易惯例的帮助方式有别于其他的帮助犯，那么就会在此撕开一道惩罚漏洞，在这个漏洞的范围之内，鉴于这种有利可图而又没有风险后果的划算理由，会形成一种特别有效的刺激，激励人们去提供这种可以出售的支持和服务。</p>
-<p>但是，这种不加限制的观点很少得到支持。绝大多数学者主张，应该对中立行为的处罚进行限制。其中，一些观点是从客观构成要件层面进行入罪限缩。理由在于，如果把各种日常行为千篇一律、机械地视作抽象的支持行为，这会导致刑法构成要件的范围不可接受的过度延伸。当一个日常行为能够被公民的一般性行动自由所覆盖和庇护时，客观构成要件的部分就已经取消了。仅依靠剩下的主观部分，惩罚一个提供间接帮助的行为决意，是对个人自由的不被允许的限制。这是要求从事日常生活交往的人，对于犯罪人承担起一种额外的监管义务，或者说赋予其一种对于受到威胁的特定法益予以保护的保证人地位，而这种要求是缺乏根据的，也违背了基本的生活情理。</p>
-<p>即使是在从客观层面加以限缩的理论阵营中，具体的角度和进路也存在差异。例如，有的观点主张通过社会相当性理论进行限制(如 Mai wald,Rudolphi,Hoyer,Welzel,Haft等)。具有社会相当性就意味着一种属于通常状态的、在社会上行动的自由。如果行为落在这个范围之内，它就同时脱离了刑法构成要件的包围。中立行为所创设的这种风险，落在应该由社会答责的范围内，因为既然它是一种在日常生活中大量出现的、被社 会生活秩序允许进行的，社会就要为这种诞生和容纳这种行为的后果负责。</p>
-<p>也有的学者认为，一般的社会相当性标准有些模糊宽泛，应该进一步加上“职业”的限制(如 Hassemer,Gallandi,Kniffka,Kohlmann,Volk等)。并非所有的中立的、具有社会相当性的行为，都应该被排除出刑法构成要件的范围，而仅是那些条件或群体被专门化的或被地方化的行为人，如医生、糕点师、律师、税务顾问等，由于其职业的性质和行规而形成了职业的社会相当性，这样的职业相当性就应该被预先规定在构成要件之外。之所以如此，是因为如果每一个职业都公开其行业行为规范，并在这种规范下履行了国家和社会认可的工作任务，也就是都在执行社会的分工，那么，就可以推论说，这种行业规范并没有和刑法相抵触，而是呈现出相互补充和更加具体化的关系。</p>
-<p>还有一种看法认为社会相当性的标准过于苍白，需要进一步借助客观归责理论(如 Freud,Frisch,Gropp,Lesch,Ransiek以及我国学者陈洪兵等)。只有通过客观归责理论的替代和弥补，才能对于那些间接地引起危害后果的帮助行为提供能否归责的具体化的标准，也就是说，是否创设了一个法所不允许的，而且在具体结果中被实现的风险。与上述从客观要件层面加以限制的 思路相反，还有很多学者从主观层面入手，区分直接故意和间接故意或者是看有无促进意思(如 For thauser,Haecker,Rainer,Krekeler等)。此外，还有很多学者采取较为折衷的观点，认为在中立帮助行为的问题上，主客观要素有必要同时考虑(如德国学者 Roxin以及我国学者张明楷、周光权等)。</p>
-<p>可以说，刑法理论在中立的帮助行为的问题上，观点林林总总，理由不一而足，但是一个共同的努力方向，都是在为这种中立行为的入罪化，寻找一个可靠的教义学上的限制标准。进一步来说，这些教义学的技术方案的背后，或者说，制约甚至决定人们设计或者选择具体理论方案的驱动力，是要回答一个宪法的，甚至是法哲学和公共政策上的一般性问题。那就是，一个行为可能在某些场合创造了风险，但同时，它又是一种在日常生活中大量出现的、被这个社会生活秩序允许和接纳的行为，那么，这个行为创设风险的后果，究竟是要归责给这个行为人，还是要作为社会存续和进步所必付的代价，而由这个社会自己消化、自我答责呢?这些问题，实在是最高司法机关在出台司法解释时应当慎重考虑的。</p>
-<p>但是，最近的立法者似乎跑得比两高还快一些。快播案件让人联想到《刑法修正案(九)》草案。按照这个草案的规定，网络服务提供者明知他人在其网络上传播违法信息或实施犯罪，而仍然提供技术支持或者平台服务的，要独立地追究刑事责任。这个规定，比现在的司法解释更进了一步，将本来还存在理论争议的中立帮助行为，一下子立法提升为正犯处罚了。我个人觉得，这一步跨得有点大也太急了。</p>
-<p>类似的司法解释以及修正案的立法者，应该考虑到中立的帮助行为的惩罚与社会存续进步之间的关系。特别是在互联网领域中，决策者似乎并没有充分理解和认识到相关立法的后果和深远影响。生活在一个全球化时代，互联网已经成为公认的最充满想象力和创造性的新的产业。中国这些年在经济、文化、社会等各个方面所涌现出来的想象力和创造力，在整个全球竞争中展现出来的活力和影响力，相当大一部分来自于互联网。在今天这样一个信息网络的时代，类似的立法会不会给网络服务商赋予过重的、实际上也难以承担的审核和甄别的责任?会不会在网络服务商与用户之间滋生出一种相互监督甚至敌视的关系?要求企业履行网络警察的义务，这样一个社会分工的错位，最终可能会阻碍甚至窒息整个互联网行业的发展。</p>
-<p>这个国家要进步，特别是要创新，要摆脱对他国的技术依赖、思想依赖、文化依赖，就必须要给创新者提供一个最少束缚的、能让其迸发出最大创造力的平台。打开窗户，总会飞进来苍蝇，但人们还是要打开窗户;吃饭有时候会噎住，但人们不会因噎废食。凡事都有代价，不能因为付出一些代价，就看不到这个代价可能换来的巨大收益。希望立法者、司法者、执政者，在出台或制定每一项政策和制度时，在处理每一起案件时，都能够在一个更加长远的视野之内，认真地考虑这些利弊权衡的问题。在此过程中，刑法理论可以也应当可以提供技术和智力上的支持。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%BD%A6%E6%B5%A9%EF%BC%9A%E5%BF%AB%E6%92%AD%E6%98%AF%E5%90%A6%E5%BA%94%E4%B8%BA%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%AD%E7%AB%8B%E8%A1%8C%E4%B8%BA%E4%B9%B0%E5%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">互联网监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E6%B3%95/?category=18271" rel="tag">刑法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">网络警察</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%BD%AD%E5%AE%9A%E9%BC%8E%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%B8%AA%E6%A1%88%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB/" target="cdt-mirror">BBC中文网 | 彭定鼎：香港失踪案背后的政治</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-%E4%B8%8A%E5%8D%885.27.57.png" alt="Screen Shot 2016-01-09 at 上午5.27.57" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-上午5.27.57-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-上午5.27.57.png 642w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>作者：<span>彭定鼎 </span><span>北京独立时事评论员</span></p>
-<p>香港铜锣湾书店股东李波失踪。2016年1月1日，李波妻子报案，香港警方以“失踪人口”立案调查。3日，书店收到李波神秘传真称“我因急需处理有关问题，不能让外界知道，已采取了自己的方式返回了内地，配合有关方面调查，可能需要一段时间。”李波妻子向警方申请撤销案件，但是根据相关规定，销案需要本人现身才能获准。</p>
-<p>5日，大陆《环球时报》高调发文称“‘越境执法’和‘绑架’说都已不攻自破”，指责铜锣湾书店“长期出版、销售针对内地的政治书籍，大量编造虚假内容，恶毒攻击国家政治制度，造成了恶劣影响。”，并且证实该事件系“港人前往内地配合调查”。</p>
-<p>越抹越黑！《环球时报》颠倒黑白到了无以复加的地步！无耻至极！</p>
-<p>假如李波自主地 “配合调查”，真心“不让外界知道”，他完全能够以合法途径低调到达内地。没有理由玩失踪，搞出那么大动静。但是李波回乡证留在家中，而且香港警方也没有查到李波近日出境记录，也就是说李波通过非法途径从香港到达内地。有报道称李波失踪之前去给客户送货。从情节看，李波失踪高度疑似被绑架。</p>
-<p><strong>问题的根源</strong></p>
-<p>这个事件的根源在于香港特别行政区基本法对于中央政府没有约束力。</p>
-<p>“一国两制”受到越来越严重的破坏。许多香港人对此忧心忡忡。香港回归之前，港人十分恐惧，纷纷外逃。直到邓小平先生承诺香港高度自治、“港人治港”，香港人心才稳定下来，保持了繁荣。</p>
-<p>但是近年来，中央政府一直在“一国”上做文章，淡化“两制”，从“23条”到特区首长提名，中央政府不断把权力之手伸进香港，引起香港人极大不安。7.1大游行、占领中环都是对中央政府插手香港事务的抗议。</p>
-<p>《环球时报》的言论不打自招地暴露了中央政府的心态：“在‘两制’的同时，香港与内地还首先同属‘一国’，香港不能是敌对势力从事颠覆国家政治制度活动的特殊基地。”</p>
-<p>又回到23条上了！这一点很有意思，值得细说。</p>
-<p>其实呢，“颠覆国家政治制度”本身不构成犯罪。人类政治生活的进步史就是颠覆政治制度的历史。奴隶制度在全世界被颠覆了，封建王朝制度在中国被颠覆了。至于政权的颠覆那更是正常不过的事情。中华民国在中国大陆被内部武力颠覆了，萨达姆政权被外部武力颠覆了。反对政府是公民的权利。民主国家的反对党天天在颠覆政府。政府必须向人民证明自己是正当合法的，否则就该被颠覆！</p>
-<p>民主政府就是能够被合法颠覆的政府。而专制独裁政府就是不能被“合法”颠覆的政府。于是，在专制独裁制度下，反对政府的人们就成了“匪”。无怪乎共产党人被国民政府称为“共匪”。</p>
-<p>说句题外话，专制独裁向民主的过渡有三条路径：1）由上至下实行政治改革（台湾）；2）政变之后实行民主，还政于民（俄罗斯）；3）暴力革命（罗马尼亚）。不知道中国的政治改革将走哪条途径。</p>
-<p><strong>“港人治港”试金石</strong></p>
-<p>香港长期实行民主制度，人民幸福，经济繁荣，社会稳定。这一点有目共睹。中共高级干部的子女很多生活在香港，是香港永久居民，例如叶剑英元帅的后代。领导嘛，站得高看得远手里又有资本，他们的后代定居海外资本主义国家或者香港这个事实有力地驳斥了“社会主义优越性”、“制度自信道路自信”的说法。</p>
-<p>大陆呢，中国人民共和国尚且不是民主法治的国家，还在建设民主法治，还在摸石头。我一直不明白为什么不能照搬西方民主制度，据说是因为“中国特色”。民主制度在台湾香港澳门都实行得很顺利，究竟是哪些“特色”阻碍中国大陆实行民主呢、或者说只能实行党的领导下的“具有中国特色的社会主义民主”？我始终弄不清楚。</p>
-<p>香港人民珍惜他们享有的民主法治和自由。《环球时报》说港人享有“港式言论自由”，什么意思我不明白。港式言论自由是不是打了折扣的言论自由？但是香港人迄今一直能够妄议香港政府、能够妄议中央政府，这一点委实让我羡慕。正是由于这样的妄议，香港才成为世界上最廉洁的地区，政治清明，社会稳定。香港人告诉我，香港是个好地方，千万不要沦为内地统治下的地区。香港人高度评价邓小平先生的根本原因就是“港人治港”的政治设计。</p>
-<p>据香港媒体消息，李波是铜锣湾书店及其母公司巨流传媒相关人士中第五名失踪的，有关人士从去年10月开始，在泰国、香港、内地陆续失踪，有家人朋友报警，但至今这些人都没有再露面。这次的失踪倒是有了消息：在大陆“配合调查”。调查什么呢？开政治书店显然是符合香港法律的，否则香港警方早就会着手调查。那么大陆方面针对香港的书店展开调查的确如香港特区行政长官所说“违反了基本法”。</p>
-<p>香港从来没有试图独立，“一国”从未受到挑战。倒是“两制”不断受到挑战。此次失踪事件将检验“港人治港”原则能否坚持。</p>
-<p>我猜测李波被绑架（或者至少被胁迫）至大陆“协助调查”。这里关键的问题是：这次“有关部门”的行动是擅自采取的还是高层授意的？</p>
-<p>1984年年台湾当局派出竹联帮分子特工赴美国暗杀作家江南（刘宜良），美国警方查出幕后黑手是台湾情报机关。江南写了《蒋经国传》，对蒋总统的完美形象颇为不利。台湾情报机关雇用华人黑帮，自作主张为主解难。蒋经国得知真相后大发雷霆，抓捕相关情报机构领导人、改组情报机构并且对台湾黑帮展开著名的“一清行动”。</p>
-<p>这次的行动实在过于愚蠢，太缺乏政治智慧。真心希望是“有关部门”自作主张。</p>
-<p>现在，最有可能的情形是李波在大陆有关部门手中。《环球时报》也间接地证实了这一点。那么大陆方面该怎么办呢？</p>
-<p>公开！公开才能公平公正。这个事情迟早要有结果，越晚公布越被动。</p>
-<p>邓小平先生谈香港问题时说过一句极其重要的的话：“50年不变，50年之后没必要变。”香港不变，那么哪一边变呢？</p>
-<p>一国两制终归要过渡到“一国良制”。</p>
-<p>不要骚扰香港了。自己的政治改革任重道远呢！</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%BD%AD%E5%AE%9A%E9%BC%8E%EF%BC%9A%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%B8%AA%E6%A1%88%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
 	<small> ============== 3天前</small>
 </p>
 <table>
@@ -884,7 +821,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -894,5 +831,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

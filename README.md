@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,92 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%9D%9A%E6%8C%8110%E5%A4%9A%E5%B9%B4%E7%AB%99%E5%9C%A8%E5%8F%8D%E7%99%BE%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%BA%BF%E7%9A%84/" target="cdt-mirror">歪理邪说 | 我是如何坚持10多年站在反百度第一线的</a>
+</h2>
+<p><p>这是我这个帐号开通以来，最不冷静和最不客观的文章。在这件事上，我也并不想客观。</p>
+<p>中国互联网里面，百度是个绕不过去的坎。它是个很大又很有钱的公司，它控制着流量，很多人直接或者间接的依靠它生存，人们恨它、离不开它但又不敢得罪它。</p>
+<p>最近关于百度的大新闻，是百度把“血友病”贴吧卖掉了，并且这不是第一个被卖掉的疾病相关贴吧。过去人们总是批评百度的竞价排名之恶，但卖这些疾病相关贴吧运营权是比竞价排名更恶劣的行为，堪称恶中之恶。百度的竞价排名历史悠久，已经被太多人骂过了，多少让人们有了一些警惕。贴吧可不一样，它本来是患者病友们自己组织的社区，患者交流经验、分享治疗信息、互相鼓励，这是一件非常重要的事。如果你常看美剧，应该会有印象那种“AA互助组织“，就是大家围成一圈，互相讲述自己的痛苦经历。在西方国家，这是患者们非常重要的心理支援方式，在中国，线下的活动少，线上活动多，类似血友病这种贴吧某种意义上承担了这种职责。</p>
+<p>弄清楚这件事之后，就很容易理解为什么百度把贴吧卖掉的行为是如此之恶，这就就好像大家围成一圈，正在述说自己的疾病的痛苦，这时候活动的组织者说，你们不用这么痛苦的，我认识一个专家，治这种病很厉害，不用手术药到病除，我就是这么治好的。在这种情况下，患者们非常容易相信他，本来就是一群接近绝望的人，抓住一丝希望做为救命稻草完全不奇怪。可惜信了之后只有一个结果，就是被骗。如果只是一次骗点钱倒也算了，但实际情况是骗子总要长期控制住患者，源源不断的赚他们的钱，最后患者因此耽误了治疗，这就不是骗钱的事，而是人命关天了。</p>
+<p>这不是我想像出来的夸张剧情，血友病吧的成员们本来常年跟骗子斗争，结果转眼之间，他们斗争已久的骗子买下了贴吧运营权，上来先把过去吧主的帐号全封了，再把过去关于自己的不利消息全删掉。血友病吧一点也不孤独，他们也不是第一个被卖掉的贴吧。</p>
+<p>这10多年里，百度一直是盈利能力相当强的一家公司，甚至从财报看，利润率常常超过Google。这些利润从哪来呢？不知道有多少人记得去年（2014年）新东方董事长俞敏洪炮轰莆田系的事情，当时是新东方学校的一位老师，在”云南玛莉亚医院“分娩时候不幸去世。这是一家莆田系的医院，莆田系医院里面不是没有正常的，但是大部分都不正常，这早就不是什么秘密了。 有多少人因此致死致残，现在没有具体的统计数据，但我相信俞敏洪所炮轰的只是冰山一渣（比冰山一角还小的多）而已。莆田系医院的客户来源，主要就是百度，福建莆田市委书记梁建勇曾公开表示：“百度2013年的广告总量是260亿元，莆田的民营医院在百度上就做了120亿元的广告。” 这个数字很可能是保守的，当年各家财经媒体也估算过数据，他们估算的结果是甚至会超过200亿。就按照120亿计算，它也占了260亿的46%，再算上其他来自竞价排名的骗子，比如假搬家公司，假快递公司，各种假的电器维修…（部分骗子当年被曝光之后改掉了，现在少了一些）把这些都算上，总共能占百度广告收入的比例会有多大呢？我不知道，也不想知道，知道之后我怕吓得睡不着觉。</p>
+<p>这件事是跟每个人都有关，你可能会觉得，我很小心，不会受骗。但你想过你的父母、或者那些对互联网还不怎么熟悉的亲朋好友吗？我问过不少百度员工，你们让父母用什么搜索引擎？他们一般避而不答。偶尔也有一些人会悄悄会跟我说，他们的父母用百度也受过骗，从医疗到生活服务，总有一款能骗住你。每家公司都会有人骂，有骂360的 ，有骂携程的，但比起来百度，中国任何一家互联网公司都算的上圣人。</p>
+<p>百度这家公司倒是有一点好，凡是被大家注意了、媒体跟进了，他们就会说”我们已经着手调查，如发现问题属实一定改正”。比如血友病贴吧这件事闹大了，最新的消息说百度改正了，血友病吧不卖了。但是高血压吧呢？还有更多早就被卖掉的疾病贴吧，又怎么办？这样的“改正”，百度做了很多次，比如：</p>
+<ul><li>百度改正过文库侵权事件</li>
+<li>百度改正过竞价排名的假快递公司</li>
+<li>百度改正过竞价排名的假电器维修服务</li>
+<li>百度改正过竞价排名的假搬家公司</li>
+<li>百度改正过百度百科里面错误的医学、科学名词</li>
+<li>百度改正过强制设置浏览器首页</li>
+<li>百度改正过不能卸载的插件</li>
+<li>百度改正过在图片搜索搜“护士”搜出来一堆色情图片的问题</li>
+<li>百度即将改正了血友病贴吧被卖事件</li>
+</ul><p>……</p>
+<p>历史上这些事情太多了，列举不完。这些问题都是被用户和媒体发现了，闹大了，百度才会改正。我有时候都在疑惑，百度的产品、运营和管理工作，到底是他们自己的员工承担的，还是普通用户承担的。百度目前有5万员工，但是这些问题员工全都发现不了，这符合概率和逻辑吗？这简直中国互联网上最大的奇迹，5万多人，面对一堆令人轻则破财，重则致命的问题，不约而同的视而不见，更何况被坑的人里面还包括他们自己的父母和亲人，太疯狂了。</p>
+<p>这些疯狂的事我已经看了10多年了，早就不相信这家公司有变好的可能性了。这就像是一个坏人，被骂了10多年，反而变本加厉的发明出越来越坏的事，你还会相信他有一天变好吗？</p>
+<p>那么我们能做什么呢？比较悲哀，因为Google早就被轰走了，能全方位替代百度的产品几乎没有。但即便如此，也不能就放弃了。我本人持续了10多年站在写文章批评百度的第一线，其中有好几篇流传很广，写这些文章有没有用？我个人觉得还是很有用的，今天，中国互联网上反百度已经成为了一种政治正确，这是相当可喜的趋势，我觉得这跟我持续了10多年的努力是有一些关系的。希望更多人加入这个行列。这不仅是我们的使命，甚至是我们的义务。</p>
+<p>除了键盘党，我也有一些比较实际的行动，我一个人的行动影响不大，但如果慢慢形成一种风气，积累起来就会有很大力量。比如：</p>
+<ul><li>我不允许我写的任何文章被百度百家转载，我不会去开专栏，也不允许转载我文章的人把我的文章再次发布到百家，一旦发现，提醒一次无效的话，我会永久取消对方转载权（如果读者发现了这种行为，欢迎告诉我）</li>
+<li>我，以及我参与的项目，一概拒绝跟百度任何合作，赚钱也不干。去年百度旗下某技术平台曾经希望和我们的《神秘的程序员们》漫画合作，我们拒绝了。只要想到百度46%的收入来自莆田系，我就没办法从他们手里赚钱，那是货真价实的带血的钱。</li>
+<li>给父母装上“丁香医生“和”用药指南“这两个app，然后反复多次，用各种方式告诉父母和亲人，不要相信来自百度的任何东西，有医疗方面的问题，用这两个app。这两个app是来自医学药学生命科学专业网站“丁香园”的产品，我信任他们。</li>
+<li>只要能我能碰到的计算机，凡是有百度插件的我立刻会卸载它们，把百度/hao123设置成首页的，我立刻换掉他们，用百度输入法的，我会立刻给他们换个输入法。</li>
+<li>抓住一切机会告诉相信你的人，不用百度任何服务，包括外卖和地图。反正你用什么早晚都会被装上被戏称为“百度全家桶“的所有软件，还不如极端一点，什么都不要用。</li>
+<li>如果有认识的人去百度工作，那我一定会问他这个问题：“你让你的父母日常使用什么搜索引擎，如何能确保他们不被骗？” 这可不是挑衅，这是帮助他们注意到原本的存在盲区，是对朋友负责的行为。</li>
+</ul><p>10多年来，我一直这么做。这些习惯当然也给我带来过一些麻烦，也经常会面对别人的不理解，不过我觉得还是挺值得的，现在随着政治正确的氛围逐渐建立，做起来这些事情阻力也小多了。随着整个舆论环境的变化，我相信未来做这些事情会越来越容易。历史上，百度一直控制着流量入口，很多人对这些事情是敢怒不敢言。但现在，流量已经逐步转移到了App和微信，开始脱离了百度的势力范围。这是前所未有的好机会，千万不要放过了。</p>
+<p>昨天，国家互联网信息办公室对“快播”案发表谈话，表示所有网站都应对传播内容承担法律责任。奇怪了，百度这些事情干了这么多年，钱赚了这么多，承担过法律责任吗？希望国家互联网信息办公室这个态度可以一视同仁，别光针对快播，也要关注一下百度嘛。</p>
+<hr><p>对了，不知道这篇文章会有什么结果，一种可能性是被百度举报掉。另外一种可能性，也许他们会跟王健林那样起诉我。对于这些可能性的应对办法我也考虑了一下，如下：</p>
+<ol><li>欢迎转载这篇文章，本文连署名权都可以放弃。只要求保持内容完整即可随便转，无需再征求我同意。</li>
+<li>如果起诉我，所有不喜欢百度的人，可以一起来众筹律师费或者赔偿金。我们可以像快播案一样，让这个案子再次成为焦点，从而让更多人知道百度之恶，就当是大家众筹了一个大广告。</li>
+<li>其实还有个更大的风险，就是毁坏商誉罪，它是个刑事罪。不过我对照法条和司法解释看了一遍，觉得本文应该够不上，事实都是真实发生的，数据都来自可信媒体，行为都是个人行为，毫无捏造，也非造谣，应该不算违法。至于到底会怎么样，随他去吧。</li>
+</ol><hr><p>参考备注：</p>
+<ul><li>标题图：来自 https://unsplash.com/finleydesign 免费/ Creative Commons Zero</li>
+<li>关于百度卖掉疾病相关贴吧运营权的新闻： http://news.sohu.com/20160111/n434179036.shtml</li>
+<li>俞敏洪炮轰莆田系 http://www.ce.cn/cysc/newmain/pplm/czrw/xw/201407/17/t20140717_3178429.shtml</li>
+</ul><p><img src="http://mmbiz.qpic.cn/mmbiz/FGHkyMt13UWd5e1Ts2sdySkL7bv9icIdicdoewiano5sDIOPaw5aSks8Ij4O8xSm1Ul33HSXcaKHae0iarO1zLLRVA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%9D%9A%E6%8C%8110%E5%A4%9A%E5%B9%B4%E7%AB%99%E5%9C%A8%E5%8F%8D%E7%99%BE%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%BA%BF%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">抵制百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/?category=18271" rel="tag">百度贴吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%E5%A5%B3%E6%98%9F%E5%91%A8%E5%AD%90%E7%91%9C-%E7%96%91%E5%88%B0%E4%BA%AC%E5%8F%82/" target="cdt-mirror">观察者网 | 黄安举报“台独”女星周子瑜 疑到京参加春晚录制</a>
+</h2>
+<p><p>黄安从不避讳表明自己“反台独”的政治立场，还因为常在微博上举报“台独”人士，获封“台独克星”。近日，黄安又在微博抓“台独”，这次的焦点是台湾16岁女艺人周子瑜。周子瑜现为韩国女团TWICE成员，去年她在参加韩国节目时手举青天白日旗遭黄安举报。早前，小编在黄安发出的微博截图中注意到，疑似周子瑜后援团在脸书中表示“子瑜是台湾人，并不是中国人，台湾本来就是一个国家……”</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303.jpeg" alt="Img434229303" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303-768x576.jpeg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303.jpeg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>据搜狐娱乐，昨日（1月10日）周子瑜所在的韩国女团TWICE现身韩国首尔金浦机场，网曝是要飞往北京，到水立方参加北京卫视BTV环球春晚的录制。周子瑜则看似心情不错，开心比“剪刀手”。此外1月6日，安徽卫视粉丝网官博发布消息称，TWICE将加盟2016安徽卫视春晚。截至观察者网发稿，该条微博已删除。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307.jpeg" alt="Img434229307" width="600" height="392" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307-300x196.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307-230x150.jpeg 230w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307.jpeg 656w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229308.jpeg" alt="Img434229308" width="440" height="782"></p>
+<p>1月8日，黄安微博称，一位叫周子瑜的台湾女孩，去年她在韩国电视上挥台湾“国旗”，我就曾发微博举报过她，她的“粉丝”代表给我一封私信解释一切，希望我能手下留情。之后，台独电视台三立却拼命的将她打造成“台独艺人”骄傲，“为国争光”。最近这个有一位台独、三位小日本的韩国组合将上安徽卫视春晚，反对的转起来。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317.jpeg" alt="Img434229317" width="554" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317-300x217.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317.jpeg 554w" sizes="(max-width: 554px) 100vw, 554px"></p>
+<p>黄安爆料，“台独”电视台三立电视台将周子瑜打造成“台独艺人”和“台湾之光”。她本人被台独媒体大力吹捧，成为“强国”的工具，小女生自己却没走出来说明，但“台独拥护的，我们就要反对。”黄安表示，要证明“非台独”，只要周子瑜出来说一句“我是中国人”。</p>
+<p>据悉，北京卫视《环球春晚》是国内首创的中外同台的国际化晚会节目，于1月10日在北京水立方完成录制，2月6日首播。而在北京电视台的官方微博，小编发现，1月7日@北京电视台 2016环球春晚的宣传海报上还有TWICE的照片，但在1月10日@北京电视台 发出的新宣传海报上，则删除了TWICE成员头像。小编又登陆2016北京卫视环球春晚官方直播网站发现，在出场明星的阵容中，也没有韩国女团TWICE。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229321.jpeg" alt="Img434229321" width="440" height="647" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229321-204x300.jpeg 204w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229321.jpeg 440w" sizes="(max-width: 440px) 100vw, 440px"><p>1月7日@北京电视台 的宣传海报还有TWICE</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229323.jpeg" alt="Img434229323" width="500" height="729" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229323-206x300.jpeg 206w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229323.jpeg 554w" sizes="(max-width: 500px) 100vw, 500px"><p>1月10日的宣传海报就没有了……</p></div>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229325.jpeg" alt="Img434229325" width="554" height="295" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229325-300x160.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229325.jpeg 554w" sizes="(max-width: 554px) 100vw, 554px"><p>明星阵容里也没有TWICE</p></div>
+<p>黄安的举报奏效了？</p>
+<p>据查阅，周子瑜（쯔위），1999年6月14日生于中国台湾。JYP选秀节目《Sixteen》台湾参赛者。2015年6月15日，在真人秀节目Sixteen成员中，人气颇高。而在近日除了遭到黄安举报外，周子瑜还疑似接拍了一款国产手机的广告……</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229327.jpeg" alt="周子瑜脸书晒照" width="480" height="678"><p>周子瑜脸书晒照</p></div>
+<p>周子瑜被黄安爆料“台独”后，数万网友纷纷要求安徽卫视春晚和北京卫视BTV环球春晚取消其演出。</p>
+<p>部分中国网友评论：</p>
+<blockquote><p>@青黑造了个白：我就想说，反正没得人看这个节目。只要有这个人在场。</p>
+<p>@镜中人水中明月太摇曳：周子瑜怎么看都是被台独利用了。可能她本身也懵懵懂懂，她这次要来北京就来呗，让她见识一下我们强国的文化。如果她还是一意孤行甘愿被利用，那她就是作死了。</p>
+<p>@菲雪六月：作为安徽人，我第一个不同意她来，来了也不会看了。</p>
+<p>@xuyangyang159：说实在的，如果不是黄哥微博举报她，真没有多少个人知道这是谁，她应该感谢黄哥。</p>
+<p>@张三200103：周子瑜，敢举五星红旗吗？</p>
+<p>@又见冰轮1：让台独没市场，挣不着钱，她就知道自己是不是中国人了。</p>
+<p>@繁华背后的眼睛：脸书上的“台独分子”成群结队的，建议大陆有专门管理艺人的部门定期审查一下港台艺人的政治背景，只要有危害国家统一、民族团结，宣扬地域歧视的通通通告封杀！</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%E5%A5%B3%E6%98%9F%E5%91%A8%E5%AD%90%E7%91%9C-%E7%96%91%E5%88%B0%E4%BA%AC%E5%8F%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">我是中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6/?category=18271" rel="tag">抵制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">政治审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A1%A8%E6%80%81/?category=18271" rel="tag">政治表态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%8E%8B%E5%96%9C%EF%BC%9A%E9%81%97%E6%86%BE%E6%96%87%E7%AB%A0%E8%AE%A9%E5%9B%BD%E4%BA%BA%E6%84%9F%E5%86%92%E7%8A%AF/" target="cdt-mirror">南华早报 |  王喜：遗憾文章让国人感冒犯</a>
 </h2>
 <p><p>香港艺人王喜疑因其言论而遭封杀，其之前录制的央视节目也将他出现的所有镜头全程马赛克处理。对此，王喜昨天（1月11日）下午在其微博上发表声明回应称，早前在脸书上转发一则对周恩来的文章报道，令国人感到被冒犯而深表遗憾，并澄清自己非港独支持者。</p>
@@ -747,69 +830,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%9C%9D%E9%B2%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%96%AF%E4%BA%86%EF%BC%9F/" target="cdt-mirror">微思客 | 朝鲜为什么疯了？</a>
-</h2>
-<p><p>作者：于晓华，德国哥廷根大学教授。</p>
-<p>最近看到北朝鲜大动作频频。在金正恩上台后，各种疯招迭出，发完了导弹，搞核爆，现在又是撕毁停战协定，不断挑战国际秩序。朝鲜在金正恩的带领下，疯了吗？对，是因为穷疯了！</p>
-<p>我在日本留学的时候，周围有不少研究北朝鲜的专家，对北朝鲜有不少的认识。对于这样的疯狂行动，我很能够理解的。其实，这正是朝鲜劳动党60多年来一贯的屡试不爽，赖以生存的策略。</p>
-<section><section><section><section><section><section><section>一 <strong><span lang="ZH-CN" xml:lang="ZH-CN">劳动党的任务</span></strong></section></section></section></section><section></section></section></section></section><p>北朝鲜人口只有2500万，相对于中国，是一个非常小的国家。在1990年之前，北朝鲜背靠社会主义的大国，中国和苏联，从而获取了大量的经济援助。那么小的国家，只要苏联和中国稍微给点施舍，加上自己的生产，生活过的得那是相当的滋润。朝鲜那时确实比中国人民过的滋润多了，看一下下图的GDP比较就知道了。按照韩国银行的统计，1990年北朝鲜的人均GDP为1146美元，而那时中国只有344美元，比中国的3倍还要多。看到这样的统计，我差点被气死，到底谁应该援助谁啊？遗憾的是，除了众所周知的抗美援朝，在过去60多年中中国到底给了朝鲜多少援助还没有公布！</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-%E4%B8%8B%E5%8D%884.51.40.png" alt="Screen Shot 2016-01-09 at 下午4.51.40" width="550" height="136" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-下午4.51.40-300x74.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-09-at-下午4.51.40.png 600w" sizes="(max-width: 550px) 100vw, 550px"><br>
-（Source: Data for <wbr></wbr>North Korea <wbr></wbr>is from Bank of Korea and China from World Bank）</p>
-<section><section><section><section><section><section><section>二 <strong><span lang="ZH-CN" xml:lang="ZH-CN">苏联解体后的贫困</span></strong></section></section></section></section><section></section></section></section></section><p>苏联解体后，世界形势发生了巨变。苏联的援助从此没有，俄罗斯自己还不能解决自己的温饱问题，哪顾得上北朝鲜。中国也和韩国建立了外交关系，中国的外交政策也变得越来越务实，渐渐减少对北朝鲜的援助。这使得被朝鲜经济和劳动党的统治都陷入了困境。</p>
-<p>在1990年初，朝鲜人民开始自立更生，开荒多生产粮食。虽然苏联在1970年代援助了大量的拖拉机，可是由于缺少能源，机械化无法深化。雪上加霜的是1994-1995年左右的大水灾。由于北朝鲜属于多山地带，大雨的冲刷使得大量肥沃土壤流失，粮食产量进一步下降。人均GDP，在1994年后逐步下降。朝鲜人民陷入了极度贫困之中。</p>
-<section><section><section><section><section><section><section>三 <strong><span lang="ZH-CN" xml:lang="ZH-CN">金氏王朝的对策</span></strong></section></section></section></section><section></section></section></section></section><p>为了维持劳动党和金氏王朝的统治，北朝鲜想尽一切办法，获取外援。</p>
-<p>首先是自立更生，主要手段是政府支持下对日本以及中国等国出口毒品。在2000年左右的时候，东京的地下毒品市场的主要来源就是北朝鲜。最近中国东北毒品泛滥，也是根源朝鲜，据凤凰周刊报道，2010年中国当局没收的朝鲜产毒品价值达6000万美元（4）。这一点被国际社会所获知，从此开始对北朝鲜的各种出口采取严密防范，并在海上打掉了几次朝鲜毒品走私船只，使得北朝鲜的这一生财之道渐渐受控。</p>
-<p>其次，金氏家族开始考虑使用国际讹诈等方式骗取外援。既然苏联的外援没有了，中国给的钱不痛不痒。那就要向韩国，日本以及美国要。最好的方法就是核讹诈加欺骗。</p>
-<p>1988年美国正式对国际社会宣称，朝鲜可能在开发核武器。1994年，联合国安理会提出对朝鲜制裁。1994年美国前总统卡特对朝鲜访问，进行斡旋，达成协议，同意美日韩拆除其石墨反应堆，帮助朝鲜建立两座轻水反应堆。不过由于朝美双方对资金分摊问题，一直讨价还价，延宕了援助进程。</p>
-<p>其间，金正日也展示所谓和平和温情一面，骗取国际社会大<span lang="ZH-CN" xml:lang="ZH-CN">量援助，尤其是韩国和日本的援助。</span>2000<span lang="ZH-CN" xml:lang="ZH-CN">年6月韩国总统金大中访问朝鲜；</span>2002<span lang="ZH-CN" xml:lang="ZH-CN">年</span>9<span lang="ZH-CN" xml:lang="ZH-CN">月，日本首相小泉纯一郎访问北朝鲜。为了实现和平，也为了给这些政客添光，他们私下或者公开都带去了大量的援助。比如，金大中就通过现代集团私下汇款</span>1<span lang="ZH-CN" xml:lang="ZH-CN">亿美元。</span>1<span lang="ZH-CN" xml:lang="ZH-CN">亿美元换取了一枚诺贝尔和平奖，便宜还是贵呢？</span></p>
-<p>不过，2002年美国获取了朝鲜背信弃义，继续研制核武器的证据。朝鲜马上承认了美国的指控，朝鲜核危机爆发，这也使朝鲜的国家信誉彻底破产。不过在中国的斡旋下，2005年9月朝鲜问题六方会谈取得进展，朝鲜承诺放弃核武器，美国承诺对其继续支援。比如，在2008年美国对北朝鲜的支援总额达到了2.25亿美元。</p>
-<p>可能由于北朝鲜金融改革失败，以及觉得援助太少，内部压力加大，朝鲜于是在2009年4月发射一枚飞越日本的火箭；并宣布重启钚浓缩反应堆，并在2009年5月25日再进行了一次核试验。2009年6月12日，联合国安理会一致通过1874号决议，对北朝鲜进行核试验进行谴责，并加强对北朝鲜的经济制裁，美国日本等国断绝了给朝鲜的经济援助。</p>
-<p><span lang="ZH-CN" xml:lang="ZH-CN">从此，朝鲜在疯狂的道路上越走越远，继续核试验，继续发射导弹，并走向了所谓撕毁朝鲜停战协定的地步。</span></p>
-<section><section><section><section><section><section><section>四 <strong><span lang="ZH-CN" xml:lang="ZH-CN"><strong><span lang="ZH-CN" xml:lang="ZH-CN">朝鲜疯狂的原因</span></strong></span></strong></section></section></section></section><section></section></section></section></section><p>朝鲜采取的任何行动，时而温顺，时而疯狂，根本目的就是为了获取外国援助，维持劳动党和金氏王朝的统治。</p>
-<p>朝鲜劳动党对内统治，遇到了严重的危机，这主要是经济危机造成的。如果温顺可以获取外援，借以能够收买国内的反对势力，摆平国内的危机，那就值得温顺。如果温顺不能够获取足够的外援，不能解决国内的反对势力，那就对外强硬，吸引中国，美国，日本以及韩国注意，讹诈更多援助。如果中国，美国，日本以及韩国继续不给钱，朝鲜就会对内宣传说，朝鲜的苦难，是由于美帝国主义等国家封锁造成的，引起内部人民的同仇敌忾，转移对执政党的不满。为了内部的统治稳定，我认为甚至可以不惜代价挑衅韩国，来一场区域性的可控的小规模战斗，2010年的延坪岛炮击事件以及韩国舰艇天安号被击沉事件，都是最好的证据。</p>
-<p>朝鲜金氏王朝赌博的筹码也很清楚，与其让内部推翻，不如索性对外挑衅一把，说不定还能捞点好处，转危为安。这也是不得已而为之的策略。</p>
-<p>可是，韩国，日本，中国，美国在和朝鲜长达几十年的交往中，已经洞悉了朝鲜的伎俩，对不讲信用的朝鲜，现在采取的政策就是不理睬。人与人交往中，对一个人最大的蔑视就是“不理睬”；对一个不守信用的流氓最优的对策也是“不理睬”，对国家也不例外。</p>
-<section><section><section><section><section><section><section>五 <strong><span lang="ZH-CN" xml:lang="ZH-CN"><strong><span lang="ZH-CN" xml:lang="ZH-CN">结论</span></strong></span></strong></section></section></section></section><section></section></section></section></section><p>在新的国际秩序中，内外交困的朝鲜金氏王朝何去何从？</p>
-<p>我的预测就是：如果美国，韩国和日本继续不理睬朝鲜，不给朝鲜巨额援助，朝鲜很可能继续升级无赖行为。或者对韩国发起一场，有限的类似于2010年“延坪岛炮击事件”这样的小规模战斗，借以转移内部的压力。不过，如果战斗过大，可能会导致美韩联军的反扑，把朝鲜彻底灭掉。朝鲜的劳动党也很难办！</p>
-<p>如果没有外部巨额援助，已经苦苦支撑了20多年的金氏王朝很快就会灭亡！不是被内部起义灭亡，就是因为挑衅美韩被美韩灭亡。</p>
-<p>至于中国，无论朝鲜被内部攻破，还是被美韩灭亡。为了国家利益，中国都应该派出维和部队，占领北朝鲜，参与破除核设施，并进行大规模的经济援助，以此维持中国在朝鲜半岛的战略存在，并维护东北亚的稳定。</p>
-<p><span><em><strong>参考文献：</strong></em></span></p>
-<p><span>1，报道：《朝鲜粮食援助：填不满的无底洞》</span></p>
-<p><span><a>http://data.163.com/12/0330/01/7TQE29FD00014MTN.html</a></span></p>
-<p><span>2， Manyin M. E, and M. B. Nikitin(2012) “Foreign Assistance to North Korea” Congressional Research Service, 7-5700. <a>http://www.fas.org/sgp/crs/row/R40095.pdf</a></span></p>
-<p><span>3， <a>高安 雄一</a> <wbr></wbr>„えっ、北朝鮮が最貧国じゃない!?“　2012年1月10日。日経ビジネスオンライン。<a>http://business.nikkeibp.co.jp/article/report/20120106/225846/?rt=nocnt</a></span></p>
-<p><span>4：《凤凰周刊》中国发怒了：朝鲜毒品攻陷东三省，2011年12月。</span></p>
-<p><span><a>http://blog.ifeng.com/article/15302975.html</a></span></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%9C%9D%E9%B2%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%96%AF%E4%BA%86%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%9C%9D%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中朝关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝鲜问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E6%AD%A3%E6%81%A9/?category=18271" rel="tag">金正恩</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%BB%8D%E5%8F%97%E7%9B%91%E8%A7%86%EF%BC%8C%E8%A2%AB%E6%88%B4%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/" target="cdt-mirror">【河蟹档案】浦志强仍受监视，被戴“缓刑手表”</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E6%98%8C%E5%B9%B3">罗昌平</a>：玩币归赵 ！<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E7%BD%97%E6%98%8C%E5%B9%B3">维基百科<em>｜罗昌平</em></a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD%E3%80%91%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/">【草泥马语】玩币归赵、赵令习改</a>》</em><br><a href="https://freeweibo.com/weibo/3928783491032820" target="/weibo/392">2016年01月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B3%95%E5%BE%8B%E5%8F%8A%E5%85%B6%E4%BB%B7%E5%80%BC">法律及其价值</a>：【敏感词？】”赵家人“——根据相关法律法规和政策，部分搜索结果未予显示。<em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">数字时代<em>｜赵家人专题</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-14.jpg" alt="赵家人" width="540" height="216" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-14-300x120.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-14.jpg 540w" sizes="(max-width: 540px) 100vw, 540px"><br><a href="https://freeweibo.com/weibo/3928619938108076" target="/weibo/392">2016年01月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9B%B9%E5%B1%B1%E7%9F%B3">曹山石</a>：经典重温：肖钢自称数学差最初无意学金融，这辈子只做对这一件事情——选对了老婆。*//<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E6%99%8B%E5%A6%82">@徐晋如</a>：一个屁轰掉了6.6万亿。*//<a href="https://freeweibo.com/weibo/%4012345%E5%B0%8F%E5%8D%92">@12345小卒</a>：三次股灾水平够高[弱]*//<a href="https://freeweibo.com/weibo/%40%E6%BD%98%E7%9B%8A%E5%85%B5">@潘益兵</a>：其实早该辞职了。<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%82%96%E9%92%A2">维基百科<em>｜肖钢</em></a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E8%BF%99%E6%98%AF%E8%82%96%E9%92%A2%E4%B8%8E%E7%8E%8B%E6%AC%A3%E4%BA%89%E5%A4%BA%E5%A4%B4%E6%9D%A1%E7%9A%84%E4%B8%80%E5%A4%A9/">花儿街参考｜这是肖钢与王欣争夺头条的一天</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912016%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%A1%80-%E6%AF%94%E5%BE%80%E5%B9%B4%E6%9D%A5%E5%BE%97%E6%97%A9%E4%B8%80%E4%BA%9B/">【网络民议】2016年的第一场血 比往年来得早一些</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-12.jpg" alt="肖刚" width="565" height="163" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-12-300x87.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-12.jpg 652w" sizes="(max-width: 565px) 100vw, 565px"><br><a href="https://freeweibo.com/weibo/3928602208763742" target="/weibo/392">2016年01月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：浦律师被免费送戴一款“高、精、尖”的缓刑手表，据说带着洗澡也没问题。不仅能定位，或许能录音，唯一麻烦就是进洞房可能也摘不下，总之一切悠着点！<em>相关阅读｜《BBC<em>｜</em><a href="http://www.bbc.com/zhongwen/simp/china/2015/12/151222_china_rights_lawyer_verdict">中国维权律师浦志强被判缓刑后监视居住</a>》；《<a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160103_china_rights_lawyer">BBC<em>｜</em>监视居住期限将届 中国维权律师浦志强确认不上诉</a>》；《<a href="http://hk.on.cc/cn/bkn/cnt/news/20160107/bkncn-20160107150815457-0107_05011_001_cn.html?refer=fn2">东网<em>｜</em>浦志强要戴电子跟踪手表 24小时受监控</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-13.jpg" alt="浦志强" width="444" height="770" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-13-173x300.jpg 173w, http://chinadigitaltimes.net/chinese/files/2016/01/333-13.jpg 553w" sizes="(max-width: 444px) 100vw, 444px"><br><a href="https://freeweibo.com/weibo/3928681561264110" target="/weibo/392">2016年01月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%93%9D%E9%B2%B8%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0">蓝鲸财经记者工作平台</a>：中宣部下发通知，做好贴春联工作。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-9.jpg" alt="333" width="545" height="526" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-9-300x289.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-9.jpg 654w" sizes="(max-width: 545px) 100vw, 545px"><br><a href="https://freeweibo.com/weibo/3929038424816848" target="/weibo/392">2016年01月08日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8D%86%E6%A5%9A%E7%8B%82%E7%94%9F1957">荆楚狂生1957</a>：<a href="https://freeweibo.com/weibo/%40William">@William</a> 昨晚去舒向新律师家，舒律师夫人去蔡瑛律师处未回，舒律师的女儿在家。···于新永、张继伟也相继过来看望舒律师家人。我们等舒律师夫人（刘秀芹）回来后了解了舒律师在看守所的情况。看守所对舒向新的验伤报告如下：眼部、头部多处外伤，有脑积水、脑萎缩、脑梗塞症状。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf2-01062016102135.html">自由亚洲<em>｜</em>公民赴公安部控告济南看守所虐待舒向新律师</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf2-01082016100443.html">自由亚洲<em>｜舒向新被判6个月 数百公民到场声援 律师被拒进入法庭 舒女遭殴打致昏</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-10.jpg" alt="舒向新律师" width="365" height="649"><br><a href="https://freeweibo.com/weibo/3928958854949855" target="/weibo/392">2016年01月08日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E5%B7%A6%E8%AF%86%E9%80%94">老左识途</a>：<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%83%B9%E6%81%BC%E4%BA%86%E8%B0%81%EF%BC%9F%E3%80%8A%E4%BD%B3%E8%AE%BF%E3%80%8B%E6%9D%8E%E4%BD%B3%E4%BD%B3%E9%81%AD%E5%88%B0%E6%9C%9D%E9%98%B3/">【河蟹档案】惹恼了谁？《佳访》李佳佳遭到朝阳群众举报</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-16.jpg" alt="李佳佳" width="445" height="478" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-16-279x300.jpg 279w, http://chinadigitaltimes.net/chinese/files/2016/01/333-16.jpg 609w" sizes="(max-width: 445px) 100vw, 445px"><br><a href="https://freeweibo.com/weibo/3927696390071638" target="/weibo/392">2016年01月04日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%BC%8E%E7%9B%9B-%E6%98%BE%E6%91%86">鼎盛-显摆</a>：宁夏上上下下的傻逼们，都在忙着舔驴叫屁眼、推动阿拉伯语成为官方语言吧？你们辛苦了。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/bbc-%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%9117%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E4%B8%80%E7%96%91%E7%8A%AF%E4%BF%A1%E6%81%AF%E6%9B%9D%E5%85%89/">BBC | 银川公交车起火至少17人死亡 一疑犯信息曝光</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-8.jpg" alt="马永平" width="507" height="891" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-8-768x1349.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-8-583x1024.jpg 583w, http://chinadigitaltimes.net/chinese/files/2016/01/333-8.jpg 822w" sizes="(max-width: 507px) 100vw, 507px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-15.jpg" alt="马永平" width="341" height="593"><br><a href="https://freeweibo.com/weibo/3929086575088728" target="/weibo/392">2016年01月08日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40DC%E8%83%96%E5%85%94%E5%AD%90">DC胖兔子</a>：讀報：銅鑼灣書局怎么了。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%A6%81%E4%B9%A6%E4%B9%A6%E5%95%86%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6%E4%BB%A4%E9%A6%99%E6%B8%AF%E4%BA%BA%E4%BA%BA%E8%87%AA%E5%8D%B1/">纽约时报｜“禁书”书商失踪事件令香港人人自危</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-17.jpg" alt="铜锣湾书店" width="428" height="637"><br><a href="https://freeweibo.com/weibo/3927769090196839" target="/weibo/392">2016年01月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">任志强</a>：居然是这样？<em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%BF%97%E5%BC%BA">维基百科<em>｜任志强</em></a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-11.jpg" alt="333" width="445" height="496" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-11-269x300.jpg 269w, http://chinadigitaltimes.net/chinese/files/2016/01/333-11.jpg 640w" sizes="(max-width: 445px) 100vw, 445px"><br><a href="https://freeweibo.com/weibo/3928782081444987" target="/weibo/392">2016年01月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B2%A1%E6%9C%89%E7%BE%8A%E5%85%88%E7%94%9F">没有羊先生</a>：千万篇环球时报政论，其实只有两句话：1.「党国这么做，一定有它的道理。有时党国看起来没道理，但其实还是很有道理。」。2.「西方这么做，一定有它的阴谋。有时西方看起来没阴谋，但其实还是很有阴谋。」围绕这两句话，结合时事扩写呗。<br><a href="https://freeweibo.com/weibo/3928227896476236" target="/weibo/392">2016年01月06日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%BB%8D%E5%8F%97%E7%9B%91%E8%A7%86%EF%BC%8C%E8%A2%AB%E6%88%B4%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E5%8F%B2/?category=18271" rel="tag">习近平情史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF/?category=18271" rel="tag">刑讯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%81%94%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">春联工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%BD%B3%E4%BD%B3/?category=18271" rel="tag">李佳佳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%BC%80%E5%A4%8D/?category=18271" rel="tag">李开复</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%94%E6%96%AD/?category=18271" rel="tag">熔断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/?category=18271" rel="tag">玩币归赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%93%E5%88%91%E6%89%8B%E8%A1%A8/?category=18271" rel="tag">缓刑手表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">罗昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%B7%A6%E8%AF%86%E9%80%94/?category=18271" rel="tag">老左识途</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%92%E5%90%91%E6%96%B0/?category=18271" rel="tag">舒向新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E5%B7%9D%E5%85%AC%E4%BA%A4/?category=18271" rel="tag">银川公交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%B0%B8%E5%B9%B3/?category=18271" rel="tag">马永平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -821,7 +841,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -831,5 +851,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,80 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/" target="cdt-mirror">【歌曲推荐】嗨，山巅的姑娘（写给赵威）</a>
+</h2>
+<p><p><em>来源：Youtube <a href="https://www.youtube.com/channel/UCC8nda4gxCTY_z0iPlml72A" target="_blank">@Wen YunChao</a>（温云超）；歌曲创作者不详</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" rel="attachment wp-att-425301"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" alt="考拉" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/考拉-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br>
+（“考拉” by Twitter<a href="https://twitter.com/wuyuren/status/686652844506628096">@wuyuren</a> [吴玉仁] ）</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C90%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%80%83%E6%8B%89%E6%B6%89%E9%A2%A0/">自由亚洲｜“90后” 中国最年轻政治犯考拉涉“颠覆”被捕</a></p></blockquote>
+<p></p>
+<p><strong>《嗨，山巅的姑娘》</strong></p>
+<p>崎岖的山路<br>
+通向着山巅<br>
+入云不见，闭日遮天<br>
+魔鬼冒牌天神<br>
+风沙迷住双眼<br>
+不会磨灭心中信念</p>
+<p>瑟瑟的寒冬<br>
+沉沉的黑夜<br>
+那个已到山巅的姑娘<br>
+她在大声呐喊<br>
+在风中和魔鬼战斗<br>
+想把地狱变成天堂</p>
+<p>嗨，山巅的姑娘<br>
+我要送你一件红色衣裳<br>
+这寒冬的火<br>
+黑夜里的光</p>
+<p>嗨，山巅的姑娘<br>
+我要大声呐喊为你歌唱<br>
+这漆黑的夜<br>
+我们不再幻想</p>
+<p>考拉（赵威）是个90后河南女孩，她热爱自由民主，热心于公益事业，从大学开始参与捍­卫人权的活动。2014年到北京做李和平律师的助理。2015年7月10号被抓到天津­监视居住，2016年1月8号被批准以颠覆国家政权罪逮捕。</p>
+<p><a title="嗨，山巅的姑娘（写给赵威）" href="http://www.youtube.com/watch?v=m26t1sj6NNk" target="_blank">嗨，山巅的姑娘（写给赵威）</a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E6%A1%88/?category=18271" rel="tag">考拉案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%89%8D%E9%AB%98%E5%AE%98%EF%BC%9A%E8%A7%A3%E6%94%BE%E5%8F%B0%E6%B9%BE%E6%97%B6%E6%9C%BA%E6%AD%A3%E5%9C%A8%E6%88%90%E7%86%9F/" target="cdt-mirror">BBC｜中国军方前高官：解放台湾时机正在成熟</a>
+</h2>
+<p><p>台湾大选即将举行，解放军南京军区原副司令员王洪光撰文称，若蔡英文当选，绝不姑息养奸。</p>
+<p>此文周二（1月12日）刊登在中国大陆门户网站上，被多家媒体转载。有大陆媒体评论称，“读来酸爽痛快，掷地有声。”</p>
+<p>该文预测：几轮辨论会开下来，蔡英文的可能当选率虽有下降，但仍遥遥领先。蔡英文被选为台湾“总统”是十拿九稳了。</p>
+<p>文章还批评蔡英文，尽管大陆“官方频频向岛内喊话，再三强调九二共识”，“蔡英文仍一意孤行，拒不承认九二共识，不承认一个中国，用所谓维持现状、不挑衅、多沟通等说辞来麻痹敷衍民意”，“是不是把大陆的警告当作耳旁风了？”</p>
+<p>在谈到蔡英文上台后的两岸关系时，文章预计：没有“九二共识”的蔡英文一旦上台，“绝没有什么听其言、观其行的缓冲期。”</p>
+<p>文章警告称：蔡英文及其“台独”势力，不要心存侥幸，大陆不会咽下“台独”的苦果，不会与“台独”沟通。</p>
+<p>“在一个中国原则下彻底解决台湾问题的时机，正在成熟。‘地动山摇’是怎么回事，岛内民众不亲自体验一下，是不会觉悟的。我是把‘地动山摇’和‘水深火热’看成是一体的。”</p>
+<p>在文章最后，王洪光还警告说，“针对台岛的各军种装备，配套齐全，人装结合紧密，一线部队如虎添翼；战略打击部队已形成覆盖第一岛链，打击第二岛链内重要目标的能力”。</p>
+<p>他质问台湾军方“胜算几何？能扛几日？”</p>
+<p>退休“鹰派”？</p>
+<p>大陆已经汲取过往经验：对台湾大选的最佳对策就是“静观”选举结果</p>
+<p>王洪光生于1949年8月1日，祖籍山东新泰，中国人民解放军中将，原南京军区副司令员。他的父亲为开国少将王建青，岳父则为原空军政委、开国少将高厚良。</p>
+<p>王洪光于1968年入伍。曾在总参谋部任职，担任过总参兵种部装甲兵局局长、总参兵种部副部长等。1996年晋升为少将。1998年2月出任装甲兵工程学院院长。2002年9月起任总装备部通用设备保障部部长。2005年12月起任南京军区副司令员。2007年7月晋升为中将。2012年12月退役。</p>
+<p>台湾临近大选阶段，王洪光撰写多篇文章，突出解放军在对台战争中的军事优势，主张武力攻打台湾，被视为解放军高级将领中的“鹰派”人物。</p>
+<p>2015年9月中国大陆举行抗战胜利大阅兵时，王洪光曾宣称，在具有制空权之下，动用数个加强团空降到台湾，就可取得夺台先机。</p>
+<p>针对王洪光的讲话，台湾国防部发言人罗绍和曾批评他的“谈话内容很不友善，令人反感，也无意义。”</p>
+<p>王洪光这一最新对台言论，在中国社交媒体上引来支持评论的同时，也招来讥讽和谩骂。</p>
+<p>有网友分析认为，以王洪光退役前在军中的级别，此番讲话基本就是官方含蓄的警告。</p>
+<p>也有网友调侃称：如此看来，蔡英文当选，会加速推进祖国统一进程！所以，我也选蔡英文！</p>
+<p>更有评论认为，中国大陆应该汲取20年来历次台湾大选期间的经验教训，避免用武力威胁台湾，成为“独派”的超级助选团。</p>
+<p>面对台湾即将举行的第6次总统大选，中国大陆国台办曾经表态不会干预，更希望海峡两岸继续保持和平与稳定的关系。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%89%8D%E9%AB%98%E5%AE%98%EF%BC%9A%E8%A7%A3%E6%94%BE%E5%8F%B0%E6%B9%BE%E6%97%B6%E6%9C%BA%E6%AD%A3%E5%9C%A8%E6%88%90%E7%86%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E5%AE%81%E4%B9%8C%E5%B8%82%E5%BC%80%E7%9B%B4%E9%80%9A%E8%BD%A6%E5%BD%93%E5%B1%80%E5%8F%91%E9%98%B2%E8%8C%83%E7%BB%B4%E4%BA%BA%E9%80%9A%E5%91%8A/" target="cdt-mirror">自由亚洲｜南宁乌市开直通车当局发防范维人通告</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard40.jpg" alt="Clipboard40" width="549" height="620"></p>
@@ -113,7 +184,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%94%B9/?category=18271" rel="tag">军改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/" target="cdt-mirror">【CDTV】解读习近平：纪录片The Xi Factor（二之二）</a>
 </h2>
@@ -776,61 +847,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%E5%A5%B3%E6%98%9F%E5%91%A8%E5%AD%90%E7%91%9C-%E7%96%91%E5%88%B0%E4%BA%AC%E5%8F%82/" target="cdt-mirror">观察者网 | 黄安举报“台独”女星周子瑜 疑到京参加春晚录制</a>
-</h2>
-<p><p>黄安从不避讳表明自己“反台独”的政治立场，还因为常在微博上举报“台独”人士，获封“台独克星”。近日，黄安又在微博抓“台独”，这次的焦点是台湾16岁女艺人周子瑜。周子瑜现为韩国女团TWICE成员，去年她在参加韩国节目时手举青天白日旗遭黄安举报。早前，小编在黄安发出的微博截图中注意到，疑似周子瑜后援团在脸书中表示“子瑜是台湾人，并不是中国人，台湾本来就是一个国家……”</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303.jpeg" alt="Img434229303" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303-768x576.jpeg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229303.jpeg 1024w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>据搜狐娱乐，昨日（1月10日）周子瑜所在的韩国女团TWICE现身韩国首尔金浦机场，网曝是要飞往北京，到水立方参加北京卫视BTV环球春晚的录制。周子瑜则看似心情不错，开心比“剪刀手”。此外1月6日，安徽卫视粉丝网官博发布消息称，TWICE将加盟2016安徽卫视春晚。截至观察者网发稿，该条微博已删除。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307.jpeg" alt="Img434229307" width="600" height="392" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307-300x196.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307-230x150.jpeg 230w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229307.jpeg 656w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229308.jpeg" alt="Img434229308" width="440" height="782"></p>
-<p>1月8日，黄安微博称，一位叫周子瑜的台湾女孩，去年她在韩国电视上挥台湾“国旗”，我就曾发微博举报过她，她的“粉丝”代表给我一封私信解释一切，希望我能手下留情。之后，台独电视台三立却拼命的将她打造成“台独艺人”骄傲，“为国争光”。最近这个有一位台独、三位小日本的韩国组合将上安徽卫视春晚，反对的转起来。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317.jpeg" alt="Img434229317" width="554" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317-300x217.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317.jpeg 554w" sizes="(max-width: 554px) 100vw, 554px"></p>
-<p>黄安爆料，“台独”电视台三立电视台将周子瑜打造成“台独艺人”和“台湾之光”。她本人被台独媒体大力吹捧，成为“强国”的工具，小女生自己却没走出来说明，但“台独拥护的，我们就要反对。”黄安表示，要证明“非台独”，只要周子瑜出来说一句“我是中国人”。</p>
-<p>据悉，北京卫视《环球春晚》是国内首创的中外同台的国际化晚会节目，于1月10日在北京水立方完成录制，2月6日首播。而在北京电视台的官方微博，小编发现，1月7日@北京电视台 2016环球春晚的宣传海报上还有TWICE的照片，但在1月10日@北京电视台 发出的新宣传海报上，则删除了TWICE成员头像。小编又登陆2016北京卫视环球春晚官方直播网站发现，在出场明星的阵容中，也没有韩国女团TWICE。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229321.jpeg" alt="Img434229321" width="440" height="647" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229321-204x300.jpeg 204w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229321.jpeg 440w" sizes="(max-width: 440px) 100vw, 440px"><p>1月7日@北京电视台 的宣传海报还有TWICE</p></div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229323.jpeg" alt="Img434229323" width="500" height="729" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229323-206x300.jpeg 206w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229323.jpeg 554w" sizes="(max-width: 500px) 100vw, 500px"><p>1月10日的宣传海报就没有了……</p></div>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229325.jpeg" alt="Img434229325" width="554" height="295" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229325-300x160.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229325.jpeg 554w" sizes="(max-width: 554px) 100vw, 554px"><p>明星阵容里也没有TWICE</p></div>
-<p>黄安的举报奏效了？</p>
-<p>据查阅，周子瑜（쯔위），1999年6月14日生于中国台湾。JYP选秀节目《Sixteen》台湾参赛者。2015年6月15日，在真人秀节目Sixteen成员中，人气颇高。而在近日除了遭到黄安举报外，周子瑜还疑似接拍了一款国产手机的广告……</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229327.jpeg" alt="周子瑜脸书晒照" width="480" height="678"><p>周子瑜脸书晒照</p></div>
-<p>周子瑜被黄安爆料“台独”后，数万网友纷纷要求安徽卫视春晚和北京卫视BTV环球春晚取消其演出。</p>
-<p>部分中国网友评论：</p>
-<blockquote><p>@青黑造了个白：我就想说，反正没得人看这个节目。只要有这个人在场。</p>
-<p>@镜中人水中明月太摇曳：周子瑜怎么看都是被台独利用了。可能她本身也懵懵懂懂，她这次要来北京就来呗，让她见识一下我们强国的文化。如果她还是一意孤行甘愿被利用，那她就是作死了。</p>
-<p>@菲雪六月：作为安徽人，我第一个不同意她来，来了也不会看了。</p>
-<p>@xuyangyang159：说实在的，如果不是黄哥微博举报她，真没有多少个人知道这是谁，她应该感谢黄哥。</p>
-<p>@张三200103：周子瑜，敢举五星红旗吗？</p>
-<p>@又见冰轮1：让台独没市场，挣不着钱，她就知道自己是不是中国人了。</p>
-<p>@繁华背后的眼睛：脸书上的“台独分子”成群结队的，建议大陆有专门管理艺人的部门定期审查一下港台艺人的政治背景，只要有危害国家统一、民族团结，宣扬地域歧视的通通通告封杀！</p></blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91-%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%E5%A5%B3%E6%98%9F%E5%91%A8%E5%AD%90%E7%91%9C-%E7%96%91%E5%88%B0%E4%BA%AC%E5%8F%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">我是中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6/?category=18271" rel="tag">抵制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">政治审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%A1%A8%E6%80%81/?category=18271" rel="tag">政治表态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%8E%8B%E5%96%9C%EF%BC%9A%E9%81%97%E6%86%BE%E6%96%87%E7%AB%A0%E8%AE%A9%E5%9B%BD%E4%BA%BA%E6%84%9F%E5%86%92%E7%8A%AF/" target="cdt-mirror">南华早报 |  王喜：遗憾文章让国人感冒犯</a>
-</h2>
-<p><p>香港艺人王喜疑因其言论而遭封杀，其之前录制的央视节目也将他出现的所有镜头全程马赛克处理。对此，王喜昨天（1月11日）下午在其微博上发表声明回应称，早前在脸书上转发一则对周恩来的文章报道，令国人感到被冒犯而深表遗憾，并澄清自己非港独支持者。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%8B%E5%96%9C.jpg" alt="王喜" width="500" height="388" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/王喜-300x233.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/王喜.jpg 550w" sizes="(max-width: 500px) 100vw, 500px"></p>
-<p>王喜称自己在脸书上转发了关於已故总理周恩来的文章报道，并配上了“屈原之後”四个字，只是陈述几年前，网络上曾出现过有关屈原类似的描述文章，其中没有掺入任何人意见。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%8B%E5%96%9C%E9%81%93%E6%AD%89.png" alt="王喜道歉" width="450" height="801"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%8B%E5%96%9C%E9%81%93%E6%AD%892.png" alt="王喜道歉2" width="450" height="801"></p>
-<p>王喜目前疑似已经删除全部微博  <a href="http://weibo.com/u/2004967804?zw=ent#_rnd1452578269621" target="_blank">传送门</a></p>
-<p>王喜之前所转述的是一篇文章，称已故总理周恩来有可能是同性恋。战国诗人屈原，历史上也有人考证，其可能为同性恋。</p>
-<p>之後，王喜表示：“无缘无故被冠上‘港独’帽子後，情况就更偏离事实。”</p>
-<p>他特此澄清，“本人不同意及不支持任何主张香港独立的人或事。对已故国家领导人的卓越贡献，深表敬意。”</p>
-<p>目前，王喜的新浪微博只有声明那一条微博，为昨天下午17点多发出，此微博被设置成为不能评论。</p>
-<p>在1月10日央视播出的真人秀《了不起的挑战》中，节目组原本请了香港演员王喜录制，但最後播出的版本中王喜的所有镜头都被删去，没办法删的全程用马赛克处理。之後有内地媒体报道指，是因为王喜在其社交媒体上发布了大量羞辱内地的言论而被封杀。</p>
-<p>《了不起的挑战》总导演12月31日在其新浪微博@正牌三条中，称“放心，老母鸡不会有独！”并附上图文指“知道，我们不会请；请了，我们不会录；录了，我们不会用；用了，我们不会播。”以此来回应此事件。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%8E%8B%E5%96%9C%EF%BC%9A%E9%81%97%E6%86%BE%E6%96%87%E7%AB%A0%E8%AE%A9%E5%9B%BD%E4%BA%BA%E6%84%9F%E5%86%92%E7%8A%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9%E6%9D%A5/?category=18271" rel="tag">周恩来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%96%9C/?category=18271" rel="tag">王喜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E8%B5%9B%E5%85%8B/?category=18271" rel="tag">马赛克</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -842,7 +858,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -852,5 +868,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%98%91%E5%A4%95%EF%BC%9A%E7%99%BE%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8D%96%E8%B4%B4%E5%90%A7/" target="cdt-mirror">阑夕：百度为什么要“卖”贴吧</a>
+</h2>
+<p><p>关于百度贴吧的“血友病风波”，一个在义愤填膺的情绪中悄然流失的逻辑在于：这件事情的后果愈是恶劣，也就愈是证明了百度贴吧这款产品在它前十二年的生命周期里是多么出色。</p>
+<p>否则，那些贴吧也不会成为深受病友信任并赖以交流的独立社区，从而反衬出“遭到出卖”之后的巨大落差和群情激昂。</p>
+<p>拿破仑一世英名，可是一场滑铁卢，就让他和第一帝国万劫不复。</p>
+<p>昨天，“贴吧之父”俞军在微信里说了这么一段话：</p>
+<blockquote><p><strong>“你们怀念我，我怀念Google。如果外部压力不够，我回百度也是独木难支。百度的核心问题首先是价值观，然后是激励机制。”</strong></p></blockquote>
+<p>前任高管牵头惋惜竞敌的离开，此章剧情之辗转反侧令人惊诧，却极为精确的点明了商业文明最为本质的要素：竞争促进创新。</p>
+<p>用纳什均衡的“非合作博弈”理论来讲，就是：<strong>完全竞争市场的经济效率最高，因为它提高了企业盈利的难度，从而驱动企业通过技术创新提升盈利能力，而寡头及垄断市场则截然相反。</strong></p>
+<p>俞军有着充分的理由怀念Google，贴吧、知道、百科、地图等百度史上最为优异的产品，均在2005年到2009年之间羽翼渐丰，而这正是百度面临Google压力最大的阶段，在那个勉强还算自由竞争的年代，作为挑战者的Google也做了诸如与天涯合作“来吧”与“问吧”、收购导航网站265、投资巨鲸音乐等大量的本土化运营工作。</p>
+<p>随着Google退出中国，百度在产品上的进化也从那一刻戛然而止，在接下来的独占岁月里，百度没有任何一款能够与贴吧、知道相提并论的产品拿得出手。</p>
+<p>2009年，也是俞军辞职的那一年，他给百度留下的遗产，一个是著名的“PM12条”，一个就是他从一塌糊涂挖过来的实习生李明远。</p>
+<p>李明远之于百度的价值，在于他以一个年轻产品经理的角色将运营概念带入了百度这家技术公司，贴吧的整个运营框架——比如吧主的产生流程、用户的互动体系、百度的服务支持——都是在俞军和李明远的主持下完成的。到了俞军走时，贴吧的流量已经占到了百度的11%，这在当时仅次于搜索和MP3。</p>
+<p>去年年底，百度架构调整，贴吧被调到移动服务事业群组（MSG）底下，因为战略级别的提升，贴吧团队一度士气高涨，不料没有隔上一个月，一滩烂泥就被糊到了刚刚接手的李明远脸上。</p>
+<p><strong>放任积劳成疾，却不能久病成医，</strong>或许这才是对百度失道寡助的最好注解。</p>
+<p>在失去了Google这个重量级的竞争对手之后，百度所处的商业环境始终有惊无险，它的经营理念也迅速蜕变为销售主导。必须要说的是，销售主导这个类型并不具有贬义色彩，很多伟大的公司都因打造出了极为强劲的销售能力而正在走向基业长青的路上。</p>
+<p>然而，销售文化的一大弊病，它有制造内部矛盾的可能性，尤其是在二次或多次变现的商业链条上，用户体验和销售业绩往往不可兼得。大多数社区类产品，会将销售团队与产品及运营团队隔离，两套班子独立运作，用以规避利益冲突，而这种“最不坏”的设计又在无形当中割裂了两支团队的使命，将打架置于肉眼不可视的盲区。</p>
+<p>就贴吧而言，它的销售体系沿袭了百度赖以成功的代理商制度，以分销模式逐层推行，刺激销售人员以签单为第一诉求。在这个多面体中，与其说这些销售代表了百度的意志，不如说他们更愿意配合有投放能力的客户合伙“搞定”百度：合伙做帐对账、合伙炮制材料、合伙对付年检……</p>
+<p>这也是为什么销售型公司都以外界难以理解的“打鸡血”作为管理手段，因为对于这种不可能养育出企业忠诚度的团队，唯有像在驴子脑门前面挂上胡萝卜那样的激励才是最有效的。</p>
+<p>因此，在很长一段时间内，百度的营收增长都是可控的：<strong>它取决于前一季度的收入规模和管理层的未来预期，经过量化成为具体的百分比数值之后，往下压到销售部门的头顶，接下来，就是粗暴直接的跑马圈地。</strong></p>
+<p>百度的广告主也都承担有预算增长的考核，如果第二年无法满足百度的设定，那么所有的返点和优惠都会荡然无存，相反，倘若能够配合百度——比如在次年的预算申报表上增加20%——那么百度则会提供超过这部分成本的资源馈赠。</p>
+<p>原理就是这么简单，“权力越大、责任越大”的理想主义很难经得起机括转动之后造成的磨损，讨论百度是不是一家坏公司没有任何意义，就像反复念叨“资本主义来到世间，每个毛孔都滴着血和肮脏的东西”只会制造空洞无用的回音，它的逻辑不应该是用道德工具绑架商业公司——没有人能够否认，贴吧属于百度的资产，其处置权也只会由百度拥有，说白了，就是百度把贴吧给关了，也无可辩驳——而是百度伤及用户体验的做法，是否会对其长期利益产生影响？</p>
+<p>对于企业而言，<strong>“你做的事情不受欢迎”和“你做的事情会危及收益”这两种反馈，后者的撼动力量要大得多。</strong></p>
+<p>贴吧的悲剧在于，它曾被百度置于拆分上市的计划里，却又回心转意终而叫停，在这个过程当中，贴吧由销售骨干舒迅（后任百度销售副总裁助理）主管，被赋予了如今看来难以经受检验的商业模式，其商业化的努力并非是百度需要这部分的收入，而是需要证明自己具备盈利能力。</p>
+<p>而贴吧在2015年的疾步狂奔及其附加产品，则是年度营收考核指标翻了三倍的结果。</p>
+<p>除了这份“厚礼”之外，早已不再是产品经理的李明远还需要认真对待的是：在这十余年的时间里，贴吧逐渐从百度知识系产品的阵营中脱队，成为一个“人味”极浓的话题性社区，百度亦无法用简单的一套标准来对数以千万计的贴吧进行统一管理。</p>
+<p>一个垂直社区电商的创始人对贴吧事件的评论相当准确，他认为社区从流量变现到运营变现的转换路径不长，但是需要下苦功夫，以社区电商的玩法为例，即使买手制已经相当成熟，多数公司还是会自己另立子公司来做商业运营，用公司品牌来为货币化背书。但是贴吧的去中心化结构，使它很难复制这些成功经验，百度没有能力对每一个贴吧直接部署运营团队——那样会在人数规模及成本上远远超载——而出售流量（即广告）又是一个润物细无声的过程，需要长期培养长尾广告主的加入，这些都不符合贴吧短期冲出业绩的目标。</p>
+<p>事实上，有人的地方就有江湖，有江湖的地方就有买卖和斗争，这种生态从未变过。一切社区产品都有着竭力保持场所纯净性的“民意基础”和设法染指用户消费决策的“商业力量”共同存在，坦率的讲，站方的主动介入，既不会让情况变得更好，也难以把事情弄得更糟。</p>
+<p>我在天涯社区担任IT版版主的时候，每天收到删帖请求不计其数，而我的上任版主就是因为相关问题而被某家电脑安全企业以百万人民币级别的成本给“弄了下去”。而在那些娱乐性主题的社区，帮助商家置顶、加亮一些广告帖子，也是某种得到默许的潜规则应用。而据我所知，<strong>百度贴吧一个吧主帐号的私下交易，在2014年曾经达到过78万人民币的成交价格。</strong></p>
+<p>不过，同样的做法，不能适用于不同的行业。百度将游戏类贴吧卖给游戏运营商，让后者在里面发发点券、带带节奏，似乎不会有人抗议。换至医疗领域，把病患按人头数给并没有经过信任环节的医疗机构，就会出事。</p>
+<p>而这只是百度过度依赖医疗类型广告客户的一个缩影。简单来讲，医疗资源在中国属于稀缺资源，也就是说，在这样一个供不应求的市场，通过搜索引擎揽客的行为，更容易发生在那些竞争力较弱的医疗机构身上。</p>
+<p>加上求医问药的消费具有从恐惧到无助再到求救等系列心理演进程序的特殊性，百度与医疗行业的相互共生形成了唇亡齿寒的格局，尽管有着“莆田系”在去年春天与百度的短暂“决裂”，但是很快双方都意识到，真要翻脸下去，两边都会是输家。</p>
+<p>根据Google于2012年公布的数据，金融业、零售业、旅游业、教育业、家居业构成了其广告占比最高的五大客户行业，尽管金融业的广告内容当中主要还是以医疗保险居多，但是Google现在并不会遇到百度式的“灵魂拷问”。</p>
+<p>有趣的是，Google的广告投放多为自助式的，即广告主全程不需要与Google的具体员工发生接触，一切都在后台提交完成、展示扣费。Google甚至不需要雇佣一支专门的团队来对广告客户进行审核——相信我，百度竟然是有这样的团队的——那么Google如何解决虚假医疗广告的隐患？</p>
+<p>以美国为例，在美国搭建网站是完全自由的，不需要任何所谓的ICP许可证之类，但是如果一个网站想要在线上销售药品和在Google投放广告，那么它必须找美国国家药房委员会协会（NABP）拿到一个证书，同时连接美国食品药品监督管理局（FDA）的数据库，前者确保了它的经营资质，后者确保了不会出现违禁品。</p>
+<p>简而言之，Google并不会去大费周章的审核每一个医疗广告客户是不是骗子，<strong>它只认NABP和FDA的认证，</strong>而在这种情况下如果出了问题，那也是NABP和FDA的责任，边界明确。</p>
+<p>众所周知的是，FDA在美国是以极端严厉著称的，也只有这样的机构，才被公众授权有资格判断药物商品的合格与否，它就像一个滤网，帮助Google这样的互联网公司拦住了绝大多数的魑魅魍魉。而Google以及美国互联网公司的逻辑在于，它们不必具有专业级的鉴别能力——比如，接受一个美白化妆品的广告，并不意味着它们要亲自判断这个商品是否真的如其宣传那样有效——只要市场监管机构放行，那么这个责任的划分就足够清晰了。</p>
+<p>相比之下，百度的城门失火则有着相当程度的中国特色：</p>
+<blockquote><p><strong>在其内部，销售体系能够绕过审查体系，同时为公司财报增添亮色；</strong></p>
+<p><strong>而在外部，中国拥有世界上最为严密的互联网监管措施，却在与意识形态无关的领域催生大量的寻租空间，导致服务供应商的合法性极其模糊；</strong></p>
+<p><strong>司法的追责系统——无论是对百度还是非法医疗机构——都显得长期疲软，进而压低了违法风险，很多医疗机构都以“站群”性质运作，除非一网打尽，否则一个头砍下去，两个头又会毫不费力的生长出来。</strong></p></blockquote>
+<p>所以，如果回到就事论事的层面，“打倒百度”是一句喊杀起来十分痛快的口号，但是这种汹涌而至的快感并不是解决问题的有效手段。比如，在没有竞价排名的搜索引擎——比如微软的Bing——那些神棍似的医疗机构把付费对象换成了各大SEO团队，于是，它们还是能够换来最好且逼真的展示位置。</p>
+<p>于是什么都没有改变。</p>
+<p>* 下图为Google Adwords的“医疗照护和药品”类型广告接受政策截屏，原始链接地址：</p>
+<p><strong>https://support.google.com/adwordspolicy/answer/176031?hl=zh-Hant</strong></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/google%E6%94%BF%E7%AD%96.jpg" alt="google政策" width="600" height="5675"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%98%91%E5%A4%95%EF%BC%9A%E7%99%BE%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8D%96%E8%B4%B4%E5%90%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">抵制百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/?category=18271" rel="tag">百度贴吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%AC%A7%E9%98%B3%E5%8D%97%E5%B1%B1%EF%BC%9A%E5%AE%9D%E8%B4%B5%E7%9A%84%E5%8F%8D%E5%AF%B9%E5%A3%B0%E9%9F%B3/" target="cdt-mirror">博谈网｜欧阳南山：宝贵的反对声音</a>
 </h2>
 <p><p>随着1月16日的临近，中华历史上第一位民选女总统极有可能产生，如果不出意外的话。</p>
@@ -57,7 +111,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E6%B4%BE/?category=18271" rel="tag">反对派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BC%9A%E8%81%8A%E8%81%8A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E8%B5%B0%E7%BA%A2%E7%BD%91%E7%BB%9C%E7%9A%84%E9%87%8D%E8%A6%81%E6%84%8F%E4%B9%89/" target="cdt-mirror">编程随想：聊聊“赵家人”走红网络的重要意义</a>
 </h2>
@@ -825,37 +879,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%98%8E%E6%8A%A5%EF%BD%9C2013%E5%B9%B4%E6%B8%AF%E5%95%86%E8%A2%AB%E6%8E%B3%E5%86%85%E5%9C%B0-%E5%A6%BB%E6%B1%82%E5%8A%A9%E4%B8%AD%E8%81%94%E5%8A%9E-%E6%8D%86%E7%BB%91%E5%85%A8%E8%BA%AB%E5%8F%AA/" target="cdt-mirror">明报｜2013年港商被掳内地 妻求助中联办 捆绑全身只留口鼻</a>
-</h2>
-<p><p>铜锣湾书店负责人李波上月底在港失踪，事件引起外界关注另一宗港商在港被人强行掳返内地禁锢，之后再被公安拘捕的案件。</p>
-<p>2013 年 9 月，潘维曦夫妇疑返回其香岛道寓所期间被掳走，送到广州禁锢及严刑拷问。潘维曦事后于内地以「广州市人」身分被判刑，其妻陆珈则于香港警方协助下被公安释放回港。图为香港香岛道寓所附近范围一带。</p>
-<p>2013 年 9 月，持本港永久居民身分的潘维曦夫妇，驾车返回香岛道寓所途中遭掳走，送到广州禁锢及严刑拷问。潘其后在内地以「广州市人」身分被判刑 17 年 9 个月，罚款 80 万元人民币；其妻子陆珈在香港警方协助下获释回港。本港警方昨证实接获有关报案，曾于 2013 年 12 月 3 日至 4 日，以涉非法禁锢拘捕 3 名香港男子，调查后因证据不足暂时释放 3 人，案件由港岛总区重案组继续调查。本报昨曾传真广东省公安厅查询，至截稿时未有回复。</p>
-<p>据熟悉案情人士称，潘维曦案件稍后在内地进行二审，家属冀上诉推翻判决，已委托内地律师段万金跟进。陆珈上周并就事件去信特首梁振英、中联办主任张晓明、立法会主席曾钰成等（见另稿），认为事件涉及非法拘捕行动，希望为事件讨回公道。</p>
-<p>资深传媒人纪硕鸣昨在本报撰文，提到潘维曦事件及内地传媒有关报道。翻查资料， 2013 年 12 月，内地《南方都市报》首先报道称潘「近日在香港被广东警方拘捕」；去年 3 月，广东《新快报》报道潘早前在广州被正式起诉，亦再提广东警方于 2013 年 12 月在港将潘抓获归案。</p>
-<p>当事人：手法专业 疑公安所为</p>
-<p>另外，消息人士对本报称，潘维曦夫妇于 2013 年 9 月 8 日晚返回寓所期间，在香岛道遇到身穿反光衣、手持指挥棒的疑似警察人士，他们藉词要两人下车后，数名男子冲出并将两夫妇五花大绑。据悉，当事人认为捆绑手法极为专业，「连黑帮都不会这么专业」，两人被绑后仅可露出口鼻呼吸，怀疑数名男子是内地公安。</p>
-<p>大飞(马达快艇)抵内地 送深山拷问</p>
-<p>潘氏夫妇被绑后，遭送上「大飞」快艇；而把两人五花大绑的男子未有同行，自行离境。快艇到达内地后，有另外 3 人接应，再送到深山严刑拷问。潘氏女儿发现父母失踪后，向香港警方报警。</p>
-<p>本报昨向警方查询，警方表示， 2013 年 9 月 9 日曾接获报案人（潘氏夫妇女儿）报称父母于 9 月 8 日晚失踪。警方初步调查发现，潘氏夫妇报称失踪当晚，曾有可疑人士及车辆在其寓所附近出现，案件同日由港岛总区重案组接手调查。</p>
-<p>公安路旁「发现」失踪港商</p>
-<p>警方说，同年 9 月 13 日，报案人获内地亲友通知，其父母被公安于公路旁发现后带到派出所处理。同日，香港警方经广东省公安厅确认报案人父母下落后，到广州与广东省公安厅了解事件； 9 月 15 日，港警带同寻回女子回港，其夫涉内地经济罪行被公安拘留。</p>
-<p>证据不足 被拘 3 人获释</p>
-<p>警方在 12 月 3 日及 4 日就非法禁锢之罪行拘捕 3 名香港男子，调查后证据不足，分别于 2014 年 12 月 31 日及 2015 年 1 月 2 日暂时释放。</p>
-<p>潘维曦 2001 年曾于本港因串谋诈骗等罪名被判监，其后在狱中曾被追债 。 据段万金博客称，潘于 1992 年成为香港居民， 1999 年取得香港永久性居民身分，起诉书中可见潘的香港身分证号码。不过，在前年海珠区人民法院刑事判决书中，则指潘为广州市人。段万金质疑，检察院最终判决书是否故意忽视潘的香港人身分。</p>
-<p>资深传媒人程翔认为，潘维曦案「好恐怖」，严重损害「一国两制」，亦令国际社会哗然，表示无论案件涉及什么罪行，公安来港跨境执法是不对。若有需要，内地执法部门应该堂堂正正透过司法协作拘人，而非使用绑架手段，立法会议员涂谨申表示关注事件。</p>
-<p>保安局：跨境执法 违港法例</p>
-<p>保安局表示，据香港法例，如有其他司法管辖区的执法人员在港执法，属于违法。对于曾否为案件提供协助，入境处说不就个别案件评论。</p>
-<p><img alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%98%8E%E6%8A%A5%EF%BD%9C2013%E5%B9%B4%E6%B8%AF%E5%95%86%E8%A2%AB%E6%8E%B3%E5%86%85%E5%9C%B0-%E5%A6%BB%E6%B1%82%E5%8A%A9%E4%B8%AD%E8%81%94%E5%8A%9E-%E6%8D%86%E7%BB%91%E5%85%A8%E8%BA%AB%E5%8F%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -867,7 +890,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -877,5 +900,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

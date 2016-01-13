@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91/" target="cdt-mirror">【敏感词库】习近平朋友圈、“7条微博”等热点 2016-1-12</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2014/03/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%8D%B1%E6%9C%BA.jpg" alt="巴丢草：微信危机" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2014/03/巴丢草：微信危机-1024x992.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2014/03/巴丢草：微信危机.jpg 1057w" sizes="(max-width: 1057px) 100vw, 1057px"><br><em>巴丢草：微信危机</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年1月12日］</p>
+<p><strong>习＋朋友圈</strong><br><strong> 习＋秘书</strong><br><strong> 习 + 爷</strong><br><strong> 习＋小圈子</strong></p>
+<p><strong>周永康＋曾庆红</strong><br><strong> 曾飞洋＋被捕</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B5%B7%E5%BA%95%E8%A2%AB%E6%8D%95%E5%B9%BF%E4%B8%9C%E5%B7%A5%E8%BF%90%E4%BA%BA%E5%A3%AB%E6%9B%BE%E9%A3%9E%E6%B4%8B/"><span>BBC | </span><span>人民日报</span><span>“</span><span>起底</span><span>”</span></a><span><a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B5%B7%E5%BA%95%E8%A2%AB%E6%8D%95%E5%B9%BF%E4%B8%9C%E5%B7%A5%E8%BF%90%E4%BA%BA%E5%A3%AB%E6%9B%BE%E9%A3%9E%E6%B4%8B/">被捕广东工运人士曾飞洋</a>）</span><br><strong> 曾飞洋＋服务部</strong><br><strong> 鲁部长</strong>（相关：<span><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-13/">【网络民议】你家做客？你们真拿自己当户口本第一页了？</a>）</span><br><strong>洪哲胜</strong></p>
+<p><strong>7条微博 </strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA%E8%87%AA/"><span>纽约时报中文网</span><span> | </span></a><span><a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA%E8%87%AA/">浦志强七条微博测试中国言论自由</a>）</span><br><strong>二中院 + 聚集</strong></p>
+<p><strong>中国军火</strong></p>
+<p><strong>三里屯 + 威胁</strong></p>
+<p><strong>新生网</strong></p>
+<p><strong>淫秽（网）</strong><br><strong>色情网（站）</strong></p>
+<p><strong>视频 + AV</strong><br><strong> YouTube + AV</strong><br><strong>操比</strong></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%EF%BC%8B%E6%9C%8B%E5%8F%8B%E5%9C%88.png" alt="习＋朋友圈" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习＋朋友圈-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋朋友圈-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋朋友圈.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%EF%BC%8B%E7%A7%98%E4%B9%A6.png" alt="习＋秘书" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习＋秘书-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋秘书-768x302.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋秘书.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E7%88%B7.png" alt="习 + 爷" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习-爷-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习-爷-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习-爷.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%EF%BC%8B%E5%B0%8F%E5%9C%88%E5%AD%90.png" alt="习＋小圈子" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习＋小圈子-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋小圈子-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋小圈子.png 771w" sizes="(max-width: 771px) 100vw, 771px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%91%A8%E6%B0%B8%E5%BA%B7%EF%BC%8B%E6%9B%BE%E5%BA%86%E7%BA%A2.png" alt="周永康＋曾庆红" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/周永康＋曾庆红-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/周永康＋曾庆红-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/周永康＋曾庆红.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9B%BE%E9%A3%9E%E6%B4%8B%EF%BC%8B%E8%A2%AB%E6%8D%95.png" alt="曾飞洋＋被捕" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋被捕-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋被捕-768x301.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋被捕.png 769w" sizes="(max-width: 769px) 100vw, 769px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9B%BE%E9%A3%9E%E6%B4%8B%EF%BC%8B%E6%9C%8D%E5%8A%A1%E9%83%A8.png" alt="曾飞洋＋服务部" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋服务部-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋服务部-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋服务部.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%B2%81%E9%83%A8%E9%95%BF.png" alt="鲁部长" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/鲁部长-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/鲁部长.png 768w" sizes="(max-width: 768px) 100vw, 768px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B4%AA%E5%93%B2%E8%83%9C.png" alt="洪哲胜" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/洪哲胜-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/洪哲胜-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/洪哲胜.png 769w" sizes="(max-width: 769px) 100vw, 769px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/7%E6%9D%A1%E5%BE%AE%E5%8D%9A.png" alt="7条微博" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/7条微博-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/7条微博-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/7条微博.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%8C%E4%B8%AD%E9%99%A2-%E8%81%9A%E9%9B%86.png" alt="二中院 + 聚集" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/二中院-聚集-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/二中院-聚集-768x296.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/二中院-聚集.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%81%AB.png" alt="中国军火" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/中国军火-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/中国军火-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/中国军火.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E9%87%8C%E5%B1%AF-%E5%A8%81%E8%83%81.png" alt="三里屯 + 威胁" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-威胁-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-威胁-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-威胁.png 769w" sizes="(max-width: 769px) 100vw, 769px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%B0%E7%94%9F%E7%BD%91.png" alt="新生网" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/新生网-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/新生网.png 768w" sizes="(max-width: 768px) 100vw, 768px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B7%AB%E7%A7%BD%E7%BD%91.png" alt="淫秽网" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/淫秽网-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/淫秽网-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/淫秽网.png 773w" sizes="(max-width: 773px) 100vw, 773px"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%89%B2%E6%83%85%E7%BD%91.png" rel="attachment wp-att-425003"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%89%B2%E6%83%85%E7%BD%91.png" alt="色情网" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/色情网-300x127.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/色情网-768x326.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/色情网.png 838w" sizes="(max-width: 838px) 100vw, 838px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%A7%86%E9%A2%91-AV.png" rel="attachment wp-att-425002"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%A7%86%E9%A2%91-AV.png" alt="视频 AV" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/视频-AV-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/视频-AV-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/视频-AV.png 837w" sizes="(max-width: 837px) 100vw, 837px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV.png" rel="attachment wp-att-425000"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV.png" alt="YouTube AV" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV-768x332.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV.png 834w" sizes="(max-width: 834px) 100vw, 834px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%93%8D%E6%AF%94-1.png" rel="attachment wp-att-425004"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%93%8D%E6%AF%94-1.png" alt="操比" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/操比-1-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/操比-1-768x332.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/操比-1.png 842w" sizes="(max-width: 842px) 100vw, 842px"></a></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%BE%E5%BA%86%E7%BA%A2/?category=18271" rel="tag">曾庆红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%BA%E8%A1%8C%E4%BA%8C%E6%AC%A1%E5%85%83/" target="cdt-mirror">【网络民议】强行二次元</a>
+</h2>
+<p><p><em>【编者按】《新京报》这名批评二次元的作者很显然对该词的含义一无所知。下文涉及的网络直播发生在斗鱼TV，很难让人不联想到近日<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/">快播案</a>中受到网民一边倒支持的快播科技有限公司。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh.jpg" rel="attachment wp-att-424980"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh.jpg" alt="d00565dbgw1ezscr5h12hj20c808sabh" width="440" height="316" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh-300x215.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><em>（网络图片）</em></p>
+<blockquote><p><strong><a href="http://epaper.bjnews.com.cn/html/2016-01/12/content_617996.htm?div=-1">新京报｜“直播造人”：二次元也不能挑战法律</a></strong></p>
+<p>据网友举报，1月10日凌晨，有人在某网络直播平台上，开启直播间“直播造娃娃”，一男一女赤裸身体，公然直播性行为，当时吸引近千人观看，网友纷纷在弹幕上发表自己的看法。1月10日晚，武汉网警在官微上宣布，已收到相关举报，正在开展调查。之后，该直播平台发布官方声明称：已在第一时间将其直播封停，并立即向警方报案且提供了涉事主播的个人身份信息。</p>
+<p>以网络、动漫为元素构建的“二次元世界”，很大程度上消解了过去中国人对于性话题的禁忌和敏感，这是社会开放的表现。但“二次元世界”不能用直播色情活动、非法飙车的方式，挑战法律和社会伦理底线。不是什么都可以拿出来直播的，不是什么都可以拿出来换钱的。</p>
+<p>相关网站作为平台，要履行监督责任，不能“揣着明白装糊涂”，放任他人利用其平台搞违法勾当，自己分利其间。希望最近接连发生的“直播飙车门”“直播造娃娃门”成为网络直播平台能干干净净发展的一个转折点。这要靠行业自律，也需要社会舆论、政府和司法等各方面的压力。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@乔手办之刘羽熙：跟二次元有毛关系，蛇精病看不出来这是真人啊</p>
+<p><a href="http://weibo.com/2252358725" target="_blank">@出国的汉子</a>：不会用一个词就不要乱用，不然就会变成笑话<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
+<p><a href="http://weibo.com/5543683460" target="_blank">@cherry一blossom</a><i></i>： 来自日本早期的动画、漫画、游戏作品都是以二维图像构成的，随着这些载体的流行，其相关作品中表现的世界也被其爱好者称为“二次元世界”。二次元也泛指动 画、漫画、游戏、小说、虚拟偶像以及其衍生同人创作及周边产品等。 这才是二次元，二次元的世界比三次元美好的多，不懂就别瞎BB<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/3982808255" target="_blank">@王牌大人呦</a>：把这锅糊你一脸<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">二次元宝宝心里苦<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]"></p>
+<p><strong>@俾斯麦小姐的男朋友：强行二次元</strong></p>
+<p><a href="http://weibo.com/5324049832" target="_blank">@你的名字已经被河蟹啦</a>：不懂什么二次元就别乱说<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]">这个黑锅我们不背<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/3842702610" target="_blank">@小one君</a>：不背<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">那些都不是人是玩偶吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">他们是哪部动漫的<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">有相关手办吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">是平面二次元传播的吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">新京报了解相关词义吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">编辑会查字典吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">长脑子了吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><strong><a href="http://weibo.com/2891486241" target="_blank">@杞安久</a>：不背 你以为我们是乐事啊<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></strong></p>
+<p>@我是大白你谁啊：原来我一直生活在二次元！鲁路修！我要去找你~！</p>
+<p><a href="http://weibo.com/2732130792" target="_blank">@沐寒冰馨</a><i></i>：<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">能不扯淡么？这关动漫有半毛钱关系么？有闲心管这些，不如多做点实际的。还有，你确定你不是为了各种禁而夸大么？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%BA%E8%A1%8C%E4%BA%8C%E6%AC%A1%E5%85%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E6%AC%A1%E5%85%83/?category=18271" rel="tag">二次元</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E6%B2%9F/?category=18271" rel="tag">代沟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%89%B2%E6%83%85/?category=18271" rel="tag">网络色情</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%9D%9A%E6%8C%8110%E5%A4%9A%E5%B9%B4%E7%AB%99%E5%9C%A8%E5%8F%8D%E7%99%BE%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%BA%BF%E7%9A%84/" target="cdt-mirror">歪理邪说 | 我是如何坚持10多年站在反百度第一线的</a>
 </h2>
 <p><p>这是我这个帐号开通以来，最不冷静和最不客观的文章。在这件事上，我也并不想客观。</p>
@@ -763,73 +812,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%A9%E7%9B%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E8%B5%B5%E5%AE%B6%E5%A8%81%E6%AD%A6%E4%B8%8E%E4%B8%8A%E6%83%85%E4%B8%8B%E8%BE%BE/" target="cdt-mirror">凯迪社区｜上情下达，赵家威武，环球时报</a>
-</h2>
-<p><p><strong>1.</strong></p>
-<p><strong>上情下达</strong></p>
-<p>省里召开的会议结束以后，一位首长找到了他插队儿子所在地的地委书记，说：“你们不要总那样照顾他嘛！我已经说过多少次了，这样影响不好，你们应该多从政治上去关心他，这才是对他的爱护嘛！这个问题你一定要向下面的同志讲清楚！”</p>
-<p>地委书记回去以后，马上给县委书记挂了个电话：“省里某首长昨天当面对我讲，他对你们那里插队的孩子很不满意，要我转告你们，对他的孩子不要只注意从生活上去照顾，要多从政治上去给以关心。我个人认为这个问题不仅仅是对首长的儿子的问题，更重要的是牵扯到我们整个青年一代的问题，所以你一定要把这个问题向下边讲清楚，不然我们就要犯错误，请你务必过问一下，报地委。”</p>
-<p>县委书记放下电话，停顿了一下，接着便给公社书记挂了个电话：“刚才地委的同志对我们的工作提出了几点意见，尤其着重指出的是你们那里插队的那个首长儿子的问题，要我们一定要注意从政治上多给以关心和培养，这个问题是牵扯到我们如何对待培养造就一代新人的问题，因为人在你们那里，所以具体工作就要你们去做了，请你们务必关照此事，然后将情况报县委。”</p>
-<p>公社书记放下电话后，略思量了一下，接着给大队书记也挂了个电话说：“县委刚才指示我们，要我们抓好培养青年的工作，特别是对首长那个儿子，县领导指示我们一定要抓住这个点，把整个青年工作带上去。当然喽！许多具体问题，比如入党问题啦，提干问题啦，都是我们今后议事日程上要考虑的事。总之，你们一定要把这个工作做好，要大胆解放思想，要不拘一格。然后将情况报公社。”</p>
-<p>大队干部听完书记指示后，便闻风而动了起来。没多少日子，领导的指示便一一落实了，然后便由大队逐层报到了地委。地委书记听到报告后，便打电话给那位首长说：“您要我带回来的意见，我已经传达下去了，同志们改变了做法，您的儿子进步很快，入了党，还担任了大队副书记。”</p>
-<p>首长嗯了一声说：“这是组织的培养嘛！我还是那个意见，对青年人就是要从政治上严格要求！这样我这个当爸爸的才好放心嘛！”</p>
-<p>地委书记又说：“我们还准备把您的儿子调到地委担任团的工作，不知您有什么意见！”</p>
-<p>首长提高了语调说：“这不好讲嘛！组织上的决定，我们当父母的怎么能指东道西呢！至于意见嘛，我看也就是让他去闯闯吧！”</p>
-<p>说罢，便撂下了话筒。</p>
-<p><em>原载人民日报出版社《讽刺与幽默》第一辑1979-1980<br>
-作者： 雒惠</em></p>
-<p><strong>2.</strong></p>
-<p><a href="http://user.kdnet.net/?username=%E5%A5%BD%E6%B1%89%E7%9C%BC%E5%89%8D%E4%B8%8D%E5%90%83%E4%BA%8F15" target="_blank">@好汉眼前不吃亏15</a>：【赵家威武】“赵家主权”，“赵家宪法”，“赵家军”，“境外敌赵势力” ，“煽动颠覆赵家罪”， “妄议赵家罪”，“依赵家法律治国”，“赵国梦”，“赵式民主”，“赵式选举”，“赵式幸福感”。好汉点评：祝“赵家人”继续为富不仁，撒币钓誉，在“赵式正路”上加快 “多行不义必自毙”的步伐。</p>
-<p><strong>3.</strong></p>
-<p>【环球时报：爱国和爱党在中国是一致的】第一，爱党与爱国本质是一致的。第二，西方多党制不能代表和实现最广大发展中国家和人民的根本利益。第三，历史和实践证明：办好中国事情关键在党。中国公民爱国就要爱党，反共就是祸害中国；爱党与否，是中国人是否真爱国的主要衡量标准。<a href="http://t.cn/RhcgvUE" target="_blank">http://t.cn/RhcgvUE</a><a href="http://user.kdnet.net/?username=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E8%90%A5%E6%8A%A5" target="_blank">@中国经营报</a></p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E8%B5%B5%E5%AE%B6%E5%A8%81%E6%AD%A6%E4%B8%8E%E4%B8%8A%E6%83%85%E4%B8%8B%E8%BE%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA%E4%B8%8E%E5%B9%BD%E9%BB%98/?category=18271" rel="tag">讽刺与幽默</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/424701/" target="cdt-mirror">【网络民议】赵家报的言辞再慷慨正义，也不配赢得人心</a>
-</h2>
-<p><p><strong><a href="http://comments.caijing.com.cn/20160109/4050480.shtml">人民日报客户端：快播的辩词再精彩，也不配赢得掌声</a></strong></p>
-<blockquote><p>被告人在法庭上为自己辩护是公民的权利，律师的辩护也是法律赋予的权利和职责。可问题是，在庭审现场公诉人的表现也许真的不够好，<strong>但不能因为辩论精彩就混淆了是非黑白</strong>，也不能因为转发的人多就占据某种“道义”高地。[…]</p>
-<p>我们都应该尊重快播在法庭上为自己辩护的权利，不过有句话也应该明白：违法不违法，不看谁更伶牙俐齿，快播的辩护不配赢得掌声。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0haecj206e060wei.jpg" rel="attachment wp-att-424529"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69af1c70gw1ezsdp0haecj206e060wei.jpg" alt="69af1c70gw1ezsdp0haecj206e060wei" width="230" height="216"></a></p>
-<p><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@韦中-：艹！人民日报的想熔断人民的掌声？</p>
-<p><a href="http://weibo.com/2880447665" target="_blank">@Jacky_薛</a>：我建议取消所有法院。法规。全部由人日来宣判。人日说什么就是什么。我们亩产万斤全靠它了<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p><a href="http://weibo.com/3858887419" target="_blank">@苏楚涵sue</a><i></i>：<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">大家不要激动，我们都是人民，人民不能鼓掌，但还可以日报</p>
-<p><a href="http://weibo.com/1625556390" target="_blank">@Gorky2u</a>：“人民”<img title="[太阳]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif" alt="[太阳]">人民，又来了！</p>
-<div><a href="http://weibo.com/3247512704" target="_blank">昵称仅好友可见</a>：意思就是，法庭辩论其实就是走过场，辩论如何和判决结果毫无关系，对吧？！！哈哈，伪经济！伪法律！遮羞布遮不住无耻啊！！！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></div>
-<p>@眼镜蛇机动：人民日报我就呵呵了，辩护哪里有问题你指出来啊？在这边混淆视听偷换概念打模糊眼有意义么，那是法庭，这是中国，你们不是说在建设法治社会么，法院还没宣判，你就直接以官媒定性，谁给你的权利！</p>
-<p>@节操被蛤蟆吃了yuuuuuuu：依法治国是：即使A杀了人，只要没有人有任何证据证明A能杀人，A就无罪。 以人治国是：不知道A杀没杀人，没有人有任何证据。但大家都认为A杀了人，舆论上认为A杀人的占主流，然后法院强行把A判死刑。 而人民日报的意图和逻辑很明显是后者，现在强行洗白、扭转网络舆论，最后强行定罪。法治国家沦为笑话</p>
-<p>@懒散的意面君：法制还是什么？法庭辩论不行要公诉人/律师做什么，走什么过场，您直接判了得了</p>
-<p>@iYee：日人民报的谎言再逼真，也不配赢得人性。</p>
-<p>@凉斐_今天有伞了吗：欲加之罪，何患无辞？ 不过这辞你不觉得苍白么？如同在岸上翻滚的鱼？</p>
-<p>@南山巴人1158699164：“人民日报”：“亩产万斤”你报道过吧；“打倒叛徒、工贼刘少奇”你鼓与呼过吧；“打到最大的走资派邓小平”你拥护过吧；“大跃进”、“文攻武卫”、“文化大革命”等等曾经都是你竭力歌颂过得吧。请你自评！</p>
-<p><a href="http://weibo.com/2658461611" target="_blank">@_楼东玉</a>：饭做的再好也不配吃，什么逻辑<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]">再说人家辩护人哪一句不是紧扣中华人民共和国刑法？倒是人日，几近于法盲。</p>
-<p>@夜空中最美丽的star：掌声不是你说了算的 手长在我身上</p>
-<p><a href="http://weibo.com/3089479923" target="_blank">@田螺姑娘_A</a>：我们就愿意给掌声 我们说什么你也管不着<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
-<p>@杰森奥利尔Orville：偏要给掌声，去他妈的人民日报</p>
-<p>@wang炜颉_秋千：我记着新闻媒体不应该在法律判决前发表具有明显指向性的评论吧？新华社更是用了“狡辩”这个词，明显就是新华社已经给快播定罪了？？？新华社你有什么权利在法院没宣判的时候提前宣判人家获罪？</p>
-<p>@何bee_：新华社： 无论快播是否有罪，都要对“狡辩的权利”报以掌声。人民日报：快播的辩词再精彩，也不配赢得掌声</p>
-<p>@云棠圆滚滚：赵家报的言辞再慷慨正义，也不值得赢得人心</p>
-<p>@ludwig_law：本来想拉出来杀鸡给猴看的，结果鸡没杀成，粘了一身鸡毛，丢人现眼！</p>
-<p>@汉服摄影：庭审辩护再精彩也没用，因为判冫决 早已经在庭审之前定了下来，庭审只是走过场而已，哪怕公诉人的证词多么经不起推敲，哪怕公诉人的证据链有多么漏洞百出，灵道定了多少年就是多少年。精彩的辩护不仅无助于被告的脱罪，被告反而会因此受到更重的惩罚，因为……等等，有快递~~~</p>
-<p>@好穷好想有钱好想浪：啥叫“混淆是非黑白”？判决结果出来之前谁是“黑”？既然默认了黑那还审个毛，直接判不就得了。嘴里说着依法治国，也还不是个叼飞盘的。</p>
-<p>@抗氧化剂：还没到你了，别抢台词啊喂，观众还以为这案子已经钦定了啊</p>
-<p>@席地而坐2013：至从党的灵魂戈贝尔发明了宣传部，纳党的机关报《人民观察家报！》就不分昼夜的工作着，工作着，工作着……….</p>
-<p><strong>附微博热门评论截图：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%BA%E6%97%A5.png" rel="attachment wp-att-424704"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%BA%E6%97%A5.png" alt="人日" width="440" height=""></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/424701/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%AD%E5%AE%A1%E7%9B%B4%E6%92%AD/?category=18271" rel="tag">庭审直播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -841,7 +823,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -851,5 +833,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

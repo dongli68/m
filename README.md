@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,114 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E5%AE%81%E4%B9%8C%E5%B8%82%E5%BC%80%E7%9B%B4%E9%80%9A%E8%BD%A6%E5%BD%93%E5%B1%80%E5%8F%91%E9%98%B2%E8%8C%83%E7%BB%B4%E4%BA%BA%E9%80%9A%E5%91%8A/" target="cdt-mirror">自由亚洲｜南宁乌市开直通车当局发防范维人通告</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard40.jpg" alt="Clipboard40" width="549" height="620"></p>
+<p>中国第一条从广西到新疆的铁路1月13日开通，但在官方大肆宣传加强内地与新疆联系之时，广西自治区首府南宁市政府却下令，称因反恐需要，明确要求居民严防新疆人，包括禁止居民向新疆人出租房子及出售除食品衣服外的商品，并向公安局报告新疆人行踪。与此同时，全国铁路正式实施被称为“史上最严”禁带目录。</p>
+<p>中国第一条新疆与广西两地间的直达铁路开通，首趟乌鲁木齐南至南宁的列车于1月13日11：52分抵达南宁。但据网络上流传的一张南宁市宾阳县黎塘镇永安东社区发出的通告，明确要求居民严防新疆人。</p>
+<p>通知具体提出三点要求，一是“务必婉言拒绝出租房子给新疆人居住”；二是“拒绝出售刀具、生火工具、汽油、硫酸等具有威胁人身安全的物品给新疆人，只能出售食品和衣服”；三是“如发现新疆人行踪，要立即向镇政府、镇派出所报告”，通告上还留有多个负责人的联络电话。</p>
+<p>本台记者就此致电南宁市政府，但接线人员回应称，从未出具任何相关通知：“我们是没有种族歧视的，我不知道你是从哪里听来的消息，我们没有办法给你任何答覆。”</p>
+<p>但记者随后致电黎塘镇的一家商务酒店，服务员向记者证实，近日确实收到了警方的通知，不准接待新疆少数民族。</p>
+<p>服务员：“不是每个新疆人都是坏人，但是这里就是有公安局通知，不给住。它说市公安局通知，有新疆人来了，不给住，但是按照道理来说，有身份证都是可以入住的。”</p>
+<p>记者：“用别人的身份证代替开房，由新疆人入住可以吗？”</p>
+<p>服务员：“不可以，我们现在全部都要求实名制。哪个人住就用哪个人的身份证。”</p>
+<p>记者：“为什么不能让（新疆人入住）？”</p>
+<p>服务员：“这个肯定是因为国家要防范。”</p>
+<p>记者：“为什么要（防范）？”</p>
+<p>服务员：“毕竟公安局通知了我们酒店，我们也没办法。”</p>
+<p>记者：“新疆人要入住要去派出所开证明是吗？”</p>
+<p>服务员：“应该是这样，他们现在通知我们不给直接办理入住，我们也没办法。”</p>
+<p>记者：“从什么时候开始的？”</p>
+<p>服务员：“从这个月，公安局通知我们了，我们必需按照这样的规定来实行，不然我们会被罚款。”</p>
+<p>记者：“应该找那个派出所开证明呢？”</p>
+<p>服务员：“就是黎塘镇派出所。反正自从暴乱开始，很少有新疆人来住宿了，反正直接来的我们肯定不给。”</p>
+<p>记者随后致电黎塘镇派出所，一名值班人员在得知记者身份后拒绝接受采访。</p>
+<p>与此同时，中国官媒“中国新闻网”报道，被称为“史上最严”铁路“禁带目录”于1月10日开始实行，菜刀、餐刀、射钉枪等被禁止带上列车，安全火柴、普通打火机携带数量则降为只能携带2个。报道引述铁路警方表示，全国各大火车站逢包必检、逢液必检。</p>
+<p>这一新规引发网民热议，不少网民认为这是扰民之举。有网民提问道：过年回家想带瓶酒也不可以了吗？请问吃水果怎么削皮？以后行李全部发快递吗？</p>
+<p>网民“骑狗看星星”说：守法的你就是让他带也没事，不守法的你让他光着一样得给你弄点事出来。”</p>
+<p>另一网民“混沌逃生者2012”说：国外都没这么严格，为何国内越来越严？人们出行需要携带生活必需品，应提供方便才对。安检的目的就是拦截真正的危险品，难道有了安检还不放心吗？这是不是安检部门因噎废食、以图绝对无责任之举? 对此不敢苟同。</p>
+<p>南宁市政府发出通知禁止居民向新疆人出租房子。（Public Domain）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E5%AE%81%E4%B9%8C%E5%B8%82%E5%BC%80%E7%9B%B4%E9%80%9A%E8%BD%A6%E5%BD%93%E5%B1%80%E5%8F%91%E9%98%B2%E8%8C%83%E7%BB%B4%E4%BA%BA%E9%80%9A%E5%91%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%AE%81/?category=18271" rel="tag">南宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E4%BA%BA/?category=18271" rel="tag">新疆人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%EF%BD%9C%E6%B3%95%E5%AE%98%E8%AA%93%E8%AF%8D%E4%B8%8D%E5%90%AB%E5%BF%A0%E4%BA%8E%E5%85%9A-%E5%BE%8B%E5%B8%88%E5%AE%98%E6%96%B9%E5%81%9A/" target="cdt-mirror">美国之音 ｜法官誓词不含”忠于党” 律师:官方做法自相矛盾</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard41_16.jpg" alt="Clipboard41_16" width="549" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard41_16-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard41_16.jpg 700w" sizes="(max-width: 549px) 100vw, 549px"></p>
+<p>13日，最高人民法院举行新任法官宪法宣誓仪式</p>
+<p>中国最高法院副院长沈德咏带领数十位新任法官向宪法宣誓，这在历史上是首次。70字的誓词提到“忠于宪法”、“忠于祖国”、“忠于人民”，却只字未提“党”，似乎法终归大于党。但有中国观察人士认为，这在形式上是一种进步，但形式和内容还未达到一致。更有常年与法官打交道的律师也表示，问题不在于他们怎么说，而是它制度的本质是什么。</p>
+<p>“我宣誓：忠于中华人民共和国宪法，维护宪法权威，履行法定职责，忠于祖国、忠于人民，恪尽职守、廉洁奉公，接受人民监督，为建设富强、民主、文明、和谐的社会主义国家努力奋斗！” 1月13日，最高人民法院举行新任法官宪法宣誓仪式，在最高人民法院院长周强的监誓下，最高人民法院常务副院长沈德咏带领包括45位新任法官宣读了70字的誓词。</p>
+<p>这份誓词不仅针对法官群体。根据《全国人大常委会关于实行宪法宣誓制度的决定》，今年1月1日起，各级人民代表大会及县级以上地方各级人民代表大会常务委员会选举或者任命的国家工作人员，以及地方各级人民政府、人民法院、人民检察院任命的国家工作人员，在就职时都应当公开进行宪法宣誓。誓词统一为这70个字。</p>
+<p>公仆们不必“忠于党”了？</p>
+<p>前中国最高人民法院院长王俊胜曾说，司法工作要三个至上，党的事业至上、人民利益至上、宪法法律至上，而最新的70字誓词只字未提“党”。人在中国的维权律师刘士辉谈到，两者虽然用词不同，但实质没有变。他说：“王大法盲他那三个至上在外面太丢人了，所以说现在换了这样一种誓词，实际上没有区别。”</p>
+<p>在中国，共产党是领导一切的。政法委统管全国的公检法工作，法官当然不例外。所有大案要案最终裁决权在政法委不在法官。法官也是公务员，公务员首先是对党负责，然后才是“公仆”。</p>
+<p>但毕竟誓词只要求公仆们“忠于宪法”、“忠于国家”、“忠于人民”，人民大学教授周孝正表示，这在形式上是一种进步。他谈到，习近平在纪念新宪法成立30周年时也讲过，一切组织机构都必须在宪法和法律的范围内活动。“一切组织机构包括共产党，因为共产党是一个组织，”周孝正说。</p>
+<p>关于党大还是法大的问题，已经是老生常谈。习近平的父亲习仲勋就曾问过：“到底是党大还是法大？是法管党，还是党管法？这个问题不解决，中国还会有灾难！” 人民日报援引清华大学法学院院长王振民的话说，党大还是法大是个伪命题。王振民说：“最重要的是，党把自己的权力放到法律法规的笼子里边”。</p>
+<p>周孝正教授也认为这是个伪命题。他说：“我记得李鹏当总理，后来又当了委员长了。在他当人大委员长的时候，他有一句话大意是这么说的：法是哪儿来的？党领导着全国人大定的法。那么一旦定了法，党的组织包括党的一个一个的个人都要服从法。他这个道理我觉得还是讲的比较清楚的。”</p>
+<p>习近平周二在中纪委全会（18届6中）上说，全面从严治党永远在路上。他说，坚持纪严于法、纪在法前，“努力建造一支忠诚、干净、担当的纪检监察队伍”。 中纪委对干部的双规，就是置宪法于不顾的一种党纪严于法律的最直接和明显的表现。</p>
+<p>官媒为何经常自相矛盾？</p>
+<p>但同样是人民日报，它去年2月通过总编室官方微信公号“一撇一捺”发布文章称：“有些人盯着‘党大还是法大’这个问题不放……有时跃跃欲试，要把党‘关进法的笼子’。”言语间有种讽刺的意味。</p>
+<p>刘士辉认为，中国官方说法的自相矛盾是很常见的。他说：“这种自相矛盾其实的话，不要说在社会生活当中，在法律里面也有所体现。” 刘士辉表示，“把党关进法的笼子”是宪法的题中应有之义。中国官方在1982年新宪法颁布之时也强调，一切政党、社团、国家机关以及其他组织和个人都要在宪法和法律范围内来活动，不能超越法律，不能超越宪法。</p>
+<p>周孝正将这种自相矛盾的现象称为“双重人格、三套面具”。他说：“中国的基本国情就是精神分裂，就是说它说一套，做一套，想一套。比如说我们年轻时候唱国际歌，但是唱完了国际歌，马上我们又唱东方红。什么叫国际歌呢？世界上从来没有救世主，也没有神仙皇帝；要创造人类幸福，全靠我们自己。但是马上就是：东方红，太阳升，中国出了个毛泽东；他为人民谋幸福，他是人民的大救星……所以说那边唱‘从来就没有（救世主）’，这边呼呼就出一个（大救星）。”</p>
+<p>他谈到，中国官方的声音也不是只有一个。</p>
+<p>比如，前中共中央总书记胡锦涛在十七大的讲话上强调要 “彻底否定‘以阶级斗争为纲’的错误理论和实践”，但江泽民却讲到，“只要阶级斗争还在一定范围内存在，我们就不能丢弃马克思主义的阶级和阶级分析的观点与方法。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%EF%BD%9C%E6%B3%95%E5%AE%98%E8%AA%93%E8%AF%8D%E4%B8%8D%E5%90%AB%E5%BF%A0%E4%BA%8E%E5%85%9A-%E5%BE%8B%E5%B8%88%E5%AE%98%E6%96%B9%E5%81%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">党管司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">司法系统</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B/" target="cdt-mirror">自由亚洲｜未普：习近平的政治建军</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8xQ69UYAAzPpE.jpg" alt="解放军" width="549" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2015/09/CN8xQ69UYAAzPpE-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/09/CN8xQ69UYAAzPpE.jpg 599w" sizes="(max-width: 549px) 100vw, 549px"></p>
+<p>在过去的几个月里，中国军队开始了大动作裁军、调整和改革，海内外对此议论纷纷。各种议论似有一种共识，即，这次军改主要是强化军队高层的集中统一领导。</p>
+<p>《纽约时报》说，这次军改就是要在裁军的基础上改革中国军队的指挥方式，“重塑军队的指挥系统，收回长期被各军区掌握的军事指挥权力”。BBC赵楚亦认为，这次军改就是刷新威权型党军领袖体制。</p>
+<p>这种看法是不错的。军队的指挥权，过去长期把持在腐败分子手中，军队战斗力受到极大侵蚀。通过反腐和大换血，把军队的领导权和指挥权收回到最高层，是这次军改的首要任务。习近平在2015年11月召开的中央军委改革会议上，表明了这一点。他说，要“强化军委集中统一领导”，更好地“使军队最高领导权和指挥权集中于党中央、中央军委”。</p>
+<p>根据中国官方和军方的报道，我们知道，习近平非常看重这次军改，称它“是一场无法回避的大考”，是“决定未来的关键一招”。因此，习近平亲任操盘手，还亲自设计军改的顶层方案。把强军梦并入了中国梦，据称就是习的设计。至于习的强军梦，《环球时报》是这样诠释的：中国军队一定要足够强大，这个国家才能“不怒自威”，“军事实力弱，其他力量就少了支撑，就会严重影响综合国力，影响其他国家对我们的态度。中国的军力强大了，我们的政治号召力、整体影响力、威慑力、说服力乃至凝聚力都会随之增强。”</p>
+<p>习近平要实现其强军梦，面临的军队改革难题是：如何克服军内阻力，把一支腐败的，几无战斗力的军队整治成“敢打仗打胜仗”的军队？如何让人民解放军绝对忠诚于党，绝对忠诚于习近平本人？</p>
+<p>毫无疑问，这次军改的阻力主要来自于军队内部。军中成千上万人员被裁减，军区数目减少、指挥结构改变，使很多人的利益受到影响。英国《金融时报》称，军改计划引发解放军内部发出间接警告，“可能导致社会不稳定”；报导还认为，“军方报纸的评论表明，某些阻力可能在不断加大”。</p>
+<p>如何应对这些阻力？刘亚洲主张，要用“断腕”的勇气，直面军改这个“铁腕”的事业。习近平的“断腕”杀手锏，就是“政治建军”。</p>
+<p>什么叫政治建军？政治建军其实就是党指挥枪，就是军队绝对忠于党，绝对跟党走。这是军中最大的政治，习近平最近屡次强调这个最大政治。他说，军委领导干部“讲政治是第一要求，必须坚守党性原则，坚定政治信念，增强政治意识，站稳政治立场，严守政治纪律，做政治上的明白人。”习近平视察十三集团军时也说，要“自觉强化政治意识，自觉坚定政治信念、站稳政治立场、严守政治纪律和政治规矩，做政治上的明白人”，要“确保部队在思想上政治上行动上自觉同党中央和中央军委保持高度一致，坚决听从党中央和中央军委指挥”。</p>
+<p>政治建军是毛泽东建军思想的核心。毛泽东1929年在古田会议上，主张从政治上、组织上、思想上确立党领导军队，强调在军队中实行坚强有力的政治工作。习近平非常崇拜毛泽东的这一建军思想。在福建工作期间，他曾先后7次来到古田拜谒，古田会议精神——“革命的政治工作是革命军队的生命线”，差不多融入了习近平的血液。</p>
+<p>当年毛泽东使用政治建军这个杀手锏，摆平了和朱德的矛盾及党内的分歧，也应给习极大启发。今天，习近平也要用这个杀手锏，摆平军内不满改革的异见和对他不忠诚的高层军官。军中凡是不能坚守党性原则，不能坚定政治信念，不能站稳政治立场，不能严守政治纪律，不能做“政治上的明白人”，统统属于被清除之列。对习近平的绝对忠诚，是习的政治建军的核心，更是这次军改的核心的核心。</p>
+<p>总之，这次军改是习近平完成党政军全面集权的关键步骤。之后，习近平会不会走向“一人专制”，非常非常值得关注。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%94%B9/?category=18271" rel="tag">军改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/" target="cdt-mirror">【CDTV】解读习近平：纪录片The Xi Factor（二之二）</a>
+</h2>
+<p><p>BBC电视节目《广角镜》（Panorama）在习近平访英前播出纪录片The Xi Factor《习近平因素》。BBC中国编辑凯瑞（Carr­ie Gracie）从习近平的家庭背景说到他集权于一身的经过。</p>
+<p><a href="https://www.youtube.com/v/HW6chb_La14?version=3">https://www.youtube.com/v/HW6chb_La14?version=3</a> </p>
+<p><a target="_blank" href="http://www.youtube.com/watch?v=HW6chb_La14" title="解读习近平：纪录片The Xi Factor二之二">解读习近平：纪录片The Xi Factor二之二</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-127/" target="cdt-mirror">【河蟹档案】顾的IDEA：“百度老贼，别人不敢骂你我来骂”</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -726,105 +831,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E6%9D%8E%E4%B8%9C%E7%94%9F%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4/" target="cdt-mirror">BBC ｜中国公安部原副部长李东生一审获刑15年</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/131225114425_cn_li_dongsheng_624x351_afp.jpg" alt="李东生" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/131225114425_cn_li_dongsheng_624x351_afp-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/131225114425_cn_li_dongsheng_624x351_afp.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><br>
-2007年10月，李东生曾担任中共十七大新闻发言人。</p>
-<p>中国中央电视台新闻中心官方微博“央视新闻”周二（12日）报道，天津市第二中级人民法院当天对原中国公安部副部长李东生受贿案作出一审判决。李东生被判有期徒刑15年，没收个人财产100万元。</p>
-<p>“央视新闻”称，李东生当庭表示不上诉。</p>
-<p>2015年10月14日，天津市第二中级人民法院开审公安部原副部长李东生受贿一案。天津市人民检察院第二分院起诉指控称：1996年至2013年，李东生利用职务上的便利以及职权和地位形成的便利条件，为11个单位和个人，在获取广告代理权、调动工作、案件处理、户口办理等事宜上提供帮助。2007年至2013年，李东生直接或通过其亲属索取、非法收受财物共计折合人民币2198万余元，应以受贿罪追究李东生的刑事责任。</p>
-<p>李东生与周永康案</p>
-<p>2013年底，中纪委宣布，李东生涉嫌严重违纪违法已经被免职。他是中共十八大后落马的第二名中央委员和首位落马的政法系统高官。</p>
-<p>中国媒体当时的报道列出了李东生接受调查前担任的所有职务，包括中央防范和处理邪教问题领导小组副组长、办公室主任，国务院防范和处理邪教问题办公室主任，公安部副部长、党委副书记（正部级）。</p>
-<p>在进入政府系统前，毕业于复旦大学新闻系的李东生曾长期在中国中央电视台和中宣部工作，曾任中共宣传部副部长。根据中国官方公布的李东生的简历，李东生在中央电视台“扎根”20多年，从摄影记者干起，历任中央电视台新闻部时政组副组长、政文部副主任、新闻采访部副主任、主任、新闻中心主任和副台长。2009年10月到公安部担任副部长前，李东生从未有过任何政法工作经历。</p>
-<p>虽然审理过程中没有披露相关信息，但李东生被认为和前中共政治局常委、政法委书记周永康关系密切。</p>
-<p>除李东生所在的政法系统外，周永康曾经工作多年的石油系统和四川省在十八大后也有多名高官落马。与周永康关系密切的前石油系统官员蒋洁敏和王永春已被判刑。四川省文联原主席郭永祥，海南省原副省长冀文林，四川前省委副书记李春城也先后落马。</p>
-<p>前中共政治局常委、政法委书记周永康已于2015年6月在天津被判无期徒刑，剥夺政治权利终身。他是中共建政60多年以来落马的最高级别官员。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=3f0cf759-287f-4738-938a-3ced9c4a3e1c">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E6%9D%8E%E4%B8%9C%E7%94%9F%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">周永康案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%B8%9C%E7%94%9F/?category=18271" rel="tag">李东生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%83%85%E5%BF%AB%E6%92%AD%EF%BC%9F/" target="cdt-mirror">东方日报 | 大陆网民为什么同情快播？</a>
-</h2>
-<p><p>这两天，火遍大陆网络、刷爆微博微信的快播案，随着人民日报、新华社等官方媒体的介入以及国家网信办的明确表态，而变得越发扑朔迷离，各种观点的碰撞精彩纷呈。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-%E4%B8%8B%E5%8D%889.19.12.png" alt="Screen Shot 2016-01-11 at 下午9.19.12" width="550" height="306" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.19.12-300x167.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.19.12.png 603w" sizes="(max-width: 550px) 100vw, 550px"><br><span>不论快播是否有罪，尊重法律、尊重程序，这才是法治。</span></p>
-<p>快播公司及主管人员传播淫秽物品牟利案在北京开庭审理，并进行了网络直播。控辩双方交锋激烈，精彩不断。王欣等 4 名快播前高管均坚称无罪，辩方强力嘴炮，金句百出，致使辩护词在网上广泛热传。</p>
-<p>面对这种局面，官方赶紧出面表态，意在给炽热的讨论降温。先是人民日报客户端和新华社先后刊发文章。人民日报的题目是：《快播的辩词再精彩，也不配赢得掌声》；新华社发表电讯稿的题目是：《无论快播是否有罪，都要对狡辩的权利报以掌声》。这两篇文章貌似观点针锋相对，其实有着异曲同工的作用。一个是直接建议定罪，有未审先判嫌疑；一个是假设辩词是狡辩。一个唱黑脸、一个唱白脸。当然还是新华社老道些，明里公正，暗里放枪。人家一个词儿就定性了：狡辩。</p>
-<p>紧接着，代表互联网管理最权威部门的国家网信办新闻发言人姜军发表谈话，表示坚决支持对快播涉黄案进行依法查处。所有利用网络技术开展服务的网站，都应对其传播的内容承担法律责任。希望广大网民在发表言论时坚守底线，支持司法机关依法办案。</p>
-<p>至此，快播案基本瓜熟蒂落，只等着法院最后宣判。人们毫不怀疑快播罪名成立，王欣等高管有可能被判处有期徒刑 10 年以上或着无期。</p>
-<p>但是，当局和全社会应该为此反思一个问题：大陆网民为什么会这么同情快播？</p>
-<p>我想恐怕有这么几个原因：第一，法院破天荒地进行网络和视频直播，让广大公众第一时间了解到了庭审辩论的实况，使这个案件受到广泛关注和热议。通过先进的网络直播手段，让公众能够积极关注并见证案件审理的全过程，这本身就是个进步；</p>
-<p>第二，快播案的背后，是新技术与传统管理制度的激烈碰撞。在互联网 + 时代，对涉黄产业如何有序管理？治理网络涉黄问题，一直是一个全球性的问题。在互联网 + 的背景下，它实际上不是被压制而是被放大了，有些传统的法律法规恐怕应该重新检讨；</p>
-<p>第三，很多公众是藉这个案件，发泄对执政当局的不满，包括对那些思想上、行动上都很不干净的人，却用司法手段强制净化社会的不满；对那些对市场和新技术一窍不通的人，粗暴打压技术进步的不满；对集权有术，治国无能的人，由着性子瞎折腾玩残这个时代的不满。</p>
-<p>不管配不配赢得掌声，也不管狡不狡辩，反正现在的事实是：掌声已经响起来了。不过，这个掌声不是给快播，也不是给哪个人，更不是给网络涉黄。这个掌声，应该是给已经开启的民智，是给这次司法的公开和透明。</p>
-<p>在平等的条件下，各种观点的激烈碰撞、讨论，体现了一个法治社会的基本氛围。不论快播是否有罪，尊重法律、尊重程序，这才是法治。如果这场大众关注的庭审，最后能够变成一次普法公开课，能够让中国的互联网从此走向法治和规范，能够进一步开启民智，难道我们不应该对此给予一点掌声吗？</p>
-<p>来源：东方日报 / 老徐 独立评论员</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8C%E6%83%85%E5%BF%AB%E6%92%AD%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%AD%E5%AE%A1%E5%AE%9E%E5%BD%95/?category=18271" rel="tag">庭审实录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%81%94%E5%90%88%E6%8A%A5-%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%BA%97%E5%91%98%E4%B8%BA%E4%BD%95%E3%80%8C%E6%8A%A5%E5%B9%B3%E5%AE%89%E3%80%8D%E6%97%A0%E7%94%A8%EF%BC%9F/" target="cdt-mirror">联合报 | 铜锣湾书店店员为何「报平安」无用？</a>
-</h2>
-<p><p>所谓报平安，就是一个人避免自己因为行踪不明而让家人担心，通报以让家人知道自己没有生命危险的行为，比方说，中学生晚上离家，打电话告诉家人自己去了哪里，也是一种报平安的行为。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-%E4%B8%8B%E5%8D%889.01.40.png" alt="Screen Shot 2016-01-11 at 下午9.01.40" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.01.40-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-11-at-下午9.01.40.png 620w" sizes="(max-width: 550px) 100vw, 550px"><br><span>香港数千人示威，声援铜锣湾书店5名失踪人士和要求中国政府交代5人下落</span></p>
-<p>如果你曾是学生的家长，你去想像一下，你大概会了解报平安是甚么回事。通常就会希望知道学生目前所在的地点，正在做什么，跟什么人在一起，什么时候会回来，最重要的是，留下之后的联络方法。</p>
-<p>这其实是一种常识，如果你的家人和你联络一次之后，又再失踪几天，而且无法联络，我想大部分心理正常的家人，都不会认同这是一个令人安心的行为。</p>
-<p>最近，香港书店店员于两个月内连环五人失踪案，失踪者多次的「报平安」然后又再失去音讯。而去到今天，这是个诱拐事件的迹象已相当明显，其实暴露这些迹象的，正正是因为报平安这个行为。我们可以合理怀疑，这是个诱拐犯罪，并假定绑匪的存在。</p>
-<p>失踪者在此案中，有几次通讯机会，内容不外乎「我没事，我健康，不要把事情弄大」，绑匪们可能觉得这就可以了，他们可能不察觉，事情弄大的原因是人持续失踪，要让事情平息，就只有让当事人重新出现，所以他们想透过报平安舒缓事件的意图，就从没有真正代入家属们的感受和需求，套一个网络上的潮语，他们真的是「你有想到报平安为何没有用？没有，因为你只想到自己。」</p>
-<p>作为绑匪或者是因为任何利益关系如政治，宗教立场，或者任何偏激的意识形态，而同情或支持绑匪者，不少都一心期望家属和公众们，能够息事宁人，把事情不看成绑票而看成是私事，使事情能够不闹大，但这些人的盲点，在于他们只站在绑匪方的立场看问题，而不明白对于家属方，他们需要的第一就是安全回港，如果做不到第一点，那需求就会是保持联络。</p>
-<p>而这个需求从没有在「报平安」这个行为得到满足，反之，这些「报平安」的行为，不仅没有达致息事宁人的效果，还会使事情变得越来越难以收拾。</p>
-<p>首先第一次报平安用的是电话，这对于绑匪来说，就是非常危险的行为。因为电话是一种实时通讯，人质很可能会突然把重要的资讯，例如绑匪的身份，目前所在的位置，在电话通讯中泄漏出去。就算绑匪立即截线，或者是处决人质，都已经太迟。</p>
-<p>所以跟着报平安，改用的是书信，自然就是方便绑匪审查，防止不想泄漏的资讯外泄。但是这个审查本身也是有漏洞的，就是绑匪的语文能力不足，并不足以看到文中的所有陷阱。</p>
-<p>报平安用的书信，出现了两个大漏洞，第一是「以自行形式回内地」，绑匪大概以为，人质声明用自行形式回大陆，是可能引导公众认为他是自愿失踪。先不论他们这种乐观的想法是否正确，但是「回内地」却成功表达了当事人现在的位置，加上他回大陆的旅游证件还留在香港。</p>
-<p>这个资讯泄漏，导致了香港有护航者主张「电话来自大陆不一定是大陆」，期望可以把事情拗成当事人从没离开香港一说，完全不攻自破，而且再也没有可能使用──失踪者在大陆，而且是非法入境这点已经被确认。而另一点「配合有关方面调查」的有关方面是什么，以及他们在调查什么，引起联想的破坏力更是可想而知。这完全是因为绑匪在文字方面的功力不足，引致的意外。</p>
-<p>而最近又据说「流出影片」，虽然公众没机会看到影片，而影片的内容又是「不要把事情闹大」，同样地，他只会得出一个恶化的结果：便是欲盖弥彰。绑匪们似乎没有理解到，报平安需要的，就是留下一种较稳定的联络方式，可以让当事人自由联络，他们一直误解了这点，概念上有落差，才导致事情越发不可收拾。 使绑匪去到进退两难的地步。 已难以息事宁人，绑匪去到这局面，最好的方式也许就是自首，否则，事情只会走向对绑匪更不利的方向。</p>
-<p>虽然这是值得严肃看待的事情，但绑匪们犯的错误，却有一种傻气的黑色幽默，犯下一些非常幼稚的错误。当然，犯罪者们的愚蠢，对于善良百姓而言，应该是一件值得庆幸的事情。</p>
-<p>来源：联合报 / 郑立</p>
-<p><img alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%81%94%E5%90%88%E6%8A%A5-%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%BA%97%E5%91%98%E4%B8%BA%E4%BD%95%E3%80%8C%E6%8A%A5%E5%B9%B3%E5%AE%89%E3%80%8D%E6%97%A0%E7%94%A8%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%EF%BC%9A%E6%94%BF%E6%B2%BB%E5%92%8C%E9%81%93%E5%BE%B7%E5%86%B2%E7%AA%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93/" target="cdt-mirror">BBC | 点评中国：政治和道德冲突的中国媒体</a>
-</h2>
-<p><p><strong>2015年底，中国记协成立新闻道德委员会，既正常又意外。正常是此前地方大多数省市区已成立这种机构，当然也需要一个全国性的委员会加以协调指导、最终裁决。意外是中国作为一个对媒体严格管理和控制的国家，多少年来竟然一直没有新闻道德委员会。</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%B0%E9%97%BB%E9%81%93%E5%BE%B7.jpg" alt="新闻道德" width="600" height="480" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/新闻道德-300x240.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/新闻道德.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>这就像作为一个大陆法系需要成文法的国家，虽然中国还做不到法治，但法制肯定是有了，几乎在所有的领域都制定了相关的法律。唯独在最活跃、影响最广泛的媒体，却一直没有媒体法或新闻法，被人戏称中国的媒体一直在裸奔。</p>
-<p>没有媒体法，但对媒体的管控却从来没有放松过，特别是近些年随着网络平台、社交媒体的巨大影响，管控更严。除了引用刑法等相关法律外，日常管控主要靠中宣部、网信办、国新办、广电总局、新闻出版署等众多党政部门的规定。这些规定不是法律，往往是因为形势和政治的需要，遵照党的政策、会议精神、甚至领导的讲话或批示做出的。</p>
-<p>这么多年来，中国媒体的指导方针不管是党的“喉舌论”、坚持正确的“导向论”、贴近群众的“贴近论”，还是这几年推行的“走转改”三项教育（走基层、转文风、改作风），始终强调的是媒体的政治性，自上而下传达党的声音，教育群众。变化的只是宣传的形式和方式，比如官媒也广泛使用网络新媒体，多了轻松的软新闻，也会卖萌，使用网络热词。但就媒体的本质来说还是政治的工具，对它的管理也一直是政治的手段，现在怎么突然开始讲道德，成立新闻道德委员会，用道德的手段来管理呢？</p>
-<p>近两年，接连出现新快报陈永洲虚假新闻损害商业信誉案、三联生活周刊尚进收企业感谢费案、以及以沈颢为首的21世纪报系集体的敲诈勒索、强迫交易案。这些不是政治案件，通常的政治和政策难以约束。尽管有许多部门制定的媒体管理条例，但面对普遍存在的这类现象，人们认为只是选择性执法。普通人对媒体的“有偿新闻”和“有偿不闻”早已见怪不怪，就是新闻行业内部的认识也不一致。在此情况下，当局认为有必要增加手段，从思想源头和认识上管理媒体，重新强调新闻道德，并设立专门的委员会。</p>
-<p>这就像江泽民时代，党纪国法治不了腐败，提出“以德治国”。胡锦涛时代的 “八荣八耻”，同样也是道德。习近平上台后搞的“整风”运动和“三严三实”教育（严以修身、严以用权、严以律己、谋事要实、创业要实、做人要实），还是道德。道德总是最开始强调，转了一大圈回来，又最后提醒的无奈手段。</p>
-<p>但道德又是最靠不住的，它主要靠自律，而每个人在认识不一、面对诱惑、侥幸心理、缺乏有效监督的情况下，对道德的操守和做法会有不同。陈永洲收钱算犯罪，但中国记者普遍存在的收红包又算什么？犯罪算不上，违反道德了，又能怎么样？沈颢领导的市场媒体收企业钱财犯案，而中央巡视组称新华社利用特权搞“有偿新闻”或“有偿不闻”。事发后，上海分社只是终止与企业的合作协议，退回未执行款350万元。这种差别待遇又怎么解释？ 三联生活周刊主笔尚进，为几家企业发表软文后收感谢费获罪，但如果企业赞助给媒体发他稿费和奖金，算违法还是失德，还是什么也不算？</p>
-<p>而最大的问题是，媒体的道德，经常和约束媒体的中国政治相互冲突。媒体道德的最基本要求是不说假话，而政治需要说假话。邓亚萍被聘大学兼职教授引起非议，其中很重要的原因是，她出任人民日报高管职务时，说该报60多年从不说假话。一时舆论哗然，大跃进人民日报说了多少假话？文革又说了多少错话？</p>
-<p>就在去年，中国由于实体经济滑坡，当局似欲借股市圆中国梦。股市短期大涨80%，泡沫和风险加大，但人民日报称股市并无泡沫，4000点才是牛市的开端。党报如此造势，吸引更多人入市推高，最终股灾。不知是该报无德无能，还是为了政治需要而失德？</p>
-<p>媒体的道德还要求敢于批评政府，监督权力，揭露丑恶。可是近年来中国政府力推正能量，这在中国的政治语境下，就是媒体要多做正面报道，歌功颂德，不给政府添乱。报喜不报忧，又算什么媒体道德？</p>
-<p>中国官员前赴后继，因为不能从权力的产生和有效监督方面动手，穷尽党纪国法，最后还是讲道德。中国媒体乱象丛生，因为政治本质和党要专管不能变，存在行政等级、差别待遇，没有充分的市场竞争和开放的中外竞争。媒体彼此心照不宣，缺乏相互监督。政策规定不管用，又不愿专门立法，最后还是重拾道德神器。媒体道德在小问题上管用，但是和政治冲突怎么办？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%EF%BC%9A%E6%94%BF%E6%B2%BB%E5%92%8C%E9%81%93%E5%BE%B7%E5%86%B2%E7%AA%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">中宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%96%B0%E5%8A%9E/?category=18271" rel="tag">国新办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E7%AE%A1%E6%8E%A7/?category=18271" rel="tag">媒体管控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">新闻管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E9%81%93%E5%BE%B7/?category=18271" rel="tag">新闻道德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -836,7 +842,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -846,5 +852,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

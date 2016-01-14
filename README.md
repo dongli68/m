@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,130 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%8E%A5%E6%89%8B%E4%BA%BA%E9%99%88%E6%98%BE%E8%AF%9A%E6%9B%BE%E6%B7%B7%E8%BF%B9%E7%A4%BE%E5%9B%A2%EF%BC%8C%E7%9F%A5/" target="cdt-mirror">端传媒｜知情人称铜锣湾书店接手人“想要书店客人名单”</a>
+</h2>
+<p><p><em>原标题：铜锣湾书店接手人陈显诚曾混迹社团，知情人称“他想要书店客人名单”</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7.jpg" rel="attachment wp-att-425332"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7.jpg" alt="2016年1月10日，金钟，支联会举行游行表示关注李波“被消失”事件，期间有游行人士戴上李波的面具。摄：Anthony Kwan/端传媒" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><br><span>2016年1月10日，金钟，支联会举行游行表示关注李波“被消失”事件，期间有游行人士戴上李波的面具。摄：Anthony Kwan/端传媒</span></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E4%B9%A6%E5%BA%97%E7%96%91%E6%A1%88%E5%85%B3%E9%94%AE%E4%BA%BA%EF%BC%9A%E9%99%88%E5%85%88%E7%94%9F%EF%BC%8C%E4%BB%8E%E4%BA%8B%E9%BB%84%E8%89%B2%E4%BA%8B/">端传媒｜书店疑案：陈先生，从事“黄色事业”，突然接手书店</a></p></blockquote>
+<p>1月13日，铜锣湾书店老板李波已失踪两星期，其妻子相继收到疑似李波发来的“亲笔信”和视频“报平安”后，对媒体噤声。失踪案陷入一片迷雾，不安感愈发弥漫整个香港社会。</p>
+<p>端传媒独家调查发现，经营色情行业、曾混迹社团的香港男子“陈生”全名陈显诚，在李波失踪前一个半月突然出面接手铜锣湾书店，据称他“背后有一名大陆老板”，并搜集书店内保存的数千名内地客人资料。李波失踪后，陈显诚一度失踪，无法联系，直至1月7日香港警方才找到他协助调查。</p>
+<h3>“陈生”是谁？来书店目的是什麼？</h3>
+<p> <br>
+1月2日下午接受端传媒访问时，李波妻子蔡嘉苹曾透露，铜锣湾书店4名股东及员工失踪不久，当时独立支撑书店的李波与一名自称“陈生”的人签约，由后者接手铜锣湾书店半年。但李波失踪后，再也无法联系上“陈生”。</p>
+<p>此前，端传媒就获得业内人士消息，指这名陈生在2015年11月，由一名律师介绍给李波认识，说他的“老板”对书店有兴趣；李波于11月12日与 “陈生”签约，“书店若赚钱，他取1/4利润，而亏损的话，就由他包底”。他接手书店后，委派一名“邓小姐”天天看店，“陈生”自己从不对书店职员公布全 名和透露联系方式。</p>
+<p>端传媒进一步调查发现，这名“陈生”全名陈显诚，据查册资料，他是位于佐敦的淘金沙桑拿的股东及董事，其持股量为6名股东之首。他亦是一间位于火炭的信惠电器实业有限公司的董事。记者前往位于佐敦道大街上的淘金沙桑拿查看，那是一间只招待男宾的大型桑拿，该处一名女职员表示︰“我不认识，我不知道陈显诚”。记者再问有没有其他人可查询，她连番说“不清楚、不方便”，便赶记者离开。</p>
+<p>另外，记者前往信惠电器实业所报称、注册办事处位于火炭一工业大厦内的地址，发现该处实际为一间商务中心，一名男负责人表示没有该公司。而该公司所报，位于尖沙咀东部一写字楼的地址，亦是另一间公司。</p>
+<blockquote><p><span><strong>除了这两门生意，据知情人透露，陈显诚还曾经营通讯公司和运输贸易，与新界社团人仕过从甚密，“是一个看钱做事的人”。</strong></span></p></blockquote>
+<p>据悉，李波失踪后，陈显诚非常慌张，通知所有朋友不要透露其行踪，其亲人朋友亦难以与他取得联系。</p>
+<p>另一相关人士向端传媒记者透露，陈显诚委派来看店的“邓小姐”年约30岁，接管书店的一个多月来，天天到铜锣湾书店看舖，“每天都化粧来上班，又抽烟，他们两人根本不懂书，突然出现（在书店内）好奇怪”。</p>
+<p>陈显诚及邓小姐这两个外行人突然接手书店，书店人员都感到莫名其妙。而一名与李波相熟多年的资深业内人士向端传媒透露：“他们要的是一份记载了数千名内地客人姓名资料的名单”，他认为这份名单是“大陆想要搜集的罪证”。据他表示，铜锣湾书店常年做内地自由行游客生意，亦积累了稳定的客源，而载有这些客人资料的那份名单，即被存放在书店内的一个文件夹中。</p>
+<p>熟悉内情的知情者告诉端传媒记者，“非法经营罪”是最有可能用来控告书店职员的罪名。根据中国大陆法律，“非法从事出版物的出版、印刷、复制、发行业务，严重扰乱市场秩序，非法经营数额在15万元以上”，可判“非法经营罪”。</p>
+<p>2014年在大陆被刑事拘留的著名维权学者郭玉闪，2015年1月正是被以“非法经营罪”正式批准逮捕，其它被控以此罪名的还包括异见作家铁流、禁书《洗脑的历史》作者傅志彬等。</p>
+<p>而2014年5月在深圳被拘捕的香港永久居民、香港政论杂志《新维月刊》、《脸谱》的经营者王健民（同时持美国护照）与呙中校，在被拘17月后，亦是因涉嫌“非法经营罪”公开受审──核心情节是，他们将这些杂志寄给了八位内地读者。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg" rel="attachment wp-att-424601"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg" alt="柴灣康民工業中心" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><br><span>2016年1月2日，巨流出版社于柴湾的货仓，有记者在货仓采访。摄：Anthony Kwan/端传媒</span></p>
+<h3>从本土到国际，不安弥漫</h3>
+<p> <br>
+自去年10月底起，铜锣湾书店相关人士桂民海、吕波、张志平与林荣基相继在泰国、东莞与深圳失踪。由桂民海、李波妻子与吕波分别持股34%，34% 与32%的巨流媒体有限公司，2012年4月成立，专出各类政治禁书。2014年年底，巨流买下由林荣基创办二十余年的铜锣湾书店，后者在书店易手后留任店长。4人失踪后，仅剩的股东李波艰难维持书店运作，但他亦于两个月后的12月30日在香港失踪。</p>
+<p>据1月12日《明报》报导，有目击者称，李波于2015年12月30日离开最后现身的柴湾康民工业中心时，被多名男子推上一架停在大厦门口对出巴士站的客货车，期间有人目击喝问“做咩事？！”但客货车随即关门，绝尘而去。</p>
+<p>失踪案被踢爆以来，香港特区政府三次对事件作出回应。1月4日中午，特首梁振英在记者会中强调，“根据《基本法》，香港以外执法人员无权在港执法。”1月10日，香港政府新闻网发表声明表示，“由于警方正全力调查事件，政府在未完全掌握事实之前，不宜作揣测。”1月12日，特首梁振英再次表示对事件“高度关注”，并表示已就李波事件向内地相关部门寻求协助，但并未透露是哪个部门，并指出与内地执法部门的通报机制下，内地的回复时间“有长有短”。</p>
+<p>香港警方亦一再表示案件仍在调查中，但并未公布任何具体进展。</p>
+<p>1月12日，法律年度开启典礼今午举行，律政司司长袁国强致辞时主动提及铜锣湾书店负责人李波等5名失踪人士，并强调不能容许任何人或任何机构进行未获授权的刑事调查或非法拘捕，特区政府也必定彻查任何涉及疑似该等违法事件。</p>
+<p>为向北京当局施压，支联会在1月10日组织市民游行至中联办请愿，同时也主动接触失踪者家属以作支援，并计划于近日向联合国下属的“强迫及非自愿失踪工作组”投诉铜锣湾书店失踪事件。</p>
+<p>支联会接受端传媒访问时表示，李波失踪后，曾有在港的禁书业内人士主动向他们求助，担心自己将成为在香港境内突然“被失踪”的“第6个人”。</p>
+<p>支联会统计称有6000名香港市民在1月10日走上街头，沿途高喊“抗议政治绑架、捍卫一国两制”等口号。参与游行的包括占中发起人戴耀廷、香港特区前政务司司长陈方安生等，陈方安生表示这次事件远比2003年的23条立法严重，因为显示内地执法人员可能在香港执法，威胁一国两制和香港独立的司法制度。</p>
+<p>1月4日，中国外交部发言人华春莹在例行记者会上，回答关于铜锣湾书店五人失踪一事时称，对此不了解，没有相关信息。</p>
+<p>1月5日，正在北京访问的英国外相夏文达会见中国外交部长王毅时表示，李波持有英国护照，是英国公民，而王毅则回应指“李波首先是属中国公民”，更吁“各方无必要作出无谓猜测”。华春莹亦于当日表示，“根据基本法和中国的国籍法，凡是具有中国血统的香港居民、本人出身在中国领土包括香港的人，以及其他符合中国国籍法规定而具有中国国籍条件的人，都是中国的公民。”不过华春莹两日的相关问答都未出现在外交部官方网站上所列载的“发言人表态”中。</p>
+<p>1月6日，夏文达在结束北京访问行程时再评论铜锣湾书店事件。他表示，“我们要知道发生什么事，是谁人所做，包括最终负责者和直接牵涉者。”而假若是“最坏的情况”，那么就意味著“严重地违反”一国两制、《基本法》和《联合声明》。这是香港回归18年以来，首次有英国官员公开表示《联合声明》被破坏的可能。</p>
+<p>欧盟、英国、美国也对事件表达关注。欧盟于1月7日发表声明，指出铜锣湾失踪者桂民海是瑞典籍，李波是英国公民，欧盟对“香港铜锣湾书店5名股东及员工失踪表示极其担忧，呼吁展开调查”。1月8日，美国国务院发言人在例行记者会上表示，对失踪事件，“美国和香港人一样感到担忧，美方正密切关注这一问题”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg" rel="attachment wp-att-424603"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg" alt="铜锣湾书店。摄 : Anthony Kwan/端传媒" width="575" height="383" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg 1080w" sizes="(max-width: 575px) 100vw, 575px"></a><br><span>2016年1月2日，李波失踪后，铜锣湾书店停止营业。</span></p>
+<h3>“报平安”方式不断升级，欲盖弥彰？</h3>
+<p> <br>
+伴随著国际舆论的不断升温，李波“报平安”的方法也不断升级。</p>
+<p>1月2日下午，蔡嘉苹表示李波于12月30日晚上7时左右失踪后，自己曾3次收到李波致电“报平安”，手机显示电话来自广东深圳，电话中李波有别于平常，用普通话与妻子沟通。</p>
+<p>1月4日下午，蔡嘉苹收到了李波的“亲笔信报平安”后，前往警署注销此前所报的失踪案。销案消息由香港无线电视首先披露，而亲笔信则由台湾中央通讯社与香港星岛报业集团旗下的《星岛日报》与《头条日报》首先在台、港两地曝光。</p>
+<p>1月8日晚上，舆论发酵几日后，《星岛日报》再报导，蔡嘉苹收到李波的视频和新一封“亲笔信”。根据媒体报导，视频中李波穿著长袖T恤和格子背心，头发整齐，说话时用手指向自己。该“亲笔信”没有写收信人，信中写道，“我注意到，香港近日有些人士，因为我的事要组织游行，对此我十分困惑和不解”， “这次回内地完全是我的个人行为，是为了解一些个人事情”，“我不知道为什么有人为了这件事大造文章”，“这样的氛围下，我还怎么回香港？”</p>
+<blockquote><p><span><strong>李波升级“报平安”之后，一直愿意公开事件的李波太太蔡嘉苹开始噤声，端传媒曾多次致电或发手机信息尝试联络，但未获任何回复。</strong></span></p></blockquote>
+<p>对于此次失踪事件，《人民日报》旗下《环球时报》也先后刊文评论。1月4日刊文称：“（铜锣湾书店）那些书籍通过各种渠道流进内地，成为一些政治谣言的源头，在一定范围内造成恶劣影响。虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的。”1月5日、6日两天连发社评，其中6日的社评中称：“全世界的强力部门通常都有规避法律让一个被调查者进行配合的办法，既达到开展工作的目的，又不跨越制度的底线”，并说李波“原本大概很愿意这次配合调查‘低调进行’，港媒大肆炒作对他本人、对书店的生意都不是什么好事。”</p>
+<p>但这类“报平安”信息和环球时报评论并未平息事件，反令更多香港市民感到恐惧。</p>
+<p>香港资深媒体人区家麟在1月5日的评论中写道：“请放心，肯肯定，无人在港执法，他们只是帮你‘用自己的方式’回内地，请你谈谈心，现在无人说过那五人已被拘留，家有家规，正式拘留前，可以请你饮茶、被旅游、请你住酒店，可以被享受好长时间；没有拘留记录，也不须通报任何人…… 这帮人，就用自己的方式引狼入室，用自己的方式断送这城最后堡垒。”</p>
+<p>不少政界和社会人士也公开就此事发言。香港立法会主席曾钰成在一个电视节目上表示，有关事件已令社会有不同的猜测，他不相信中央政府会同意让执法人员来港执法，纵容破坏一国两制。他希望特区政府及中央政府重视，中港合作解决李波事件，应将真相公诸如世，如果事件拖延，只会引起更多无根据猜测。而行政会议召集人林焕光则表示，期望本港警方尽快调查铜锣湾书店股东李波失踪的来龙去脉，并期望相关人士和组织，能公开交待，使外界知道李波的安全不受任何威胁。</p>
+<p>另外，香港知名导演舒琪制作、陈分奇执导、香港7位名人包括歌手黄耀明、演员王宗尧、港大法律学院副教授戴耀廷、前立法会议员吴霭仪、前政务司司长陈方安生、民主党创党主席李柱铭、学民思潮黄之锋合力拍摄了英语短片《<a href="https://www.youtube.com/watch?v=RT3xoyhsN-o">失踪的李波，失踪的香港</a>》（Disappearance of Lee Bo… Disappearance of Hong Kong ），并上传至YouTube，呼吁国际社会关注。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%8E%A5%E6%89%8B%E4%BA%BA%E9%99%88%E6%98%BE%E8%AF%9A%E6%9B%BE%E6%B7%B7%E8%BF%B9%E7%A4%BE%E5%9B%A2%EF%BC%8C%E7%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91/?category=18271" rel="tag">中国公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E5%BF%97%E5%BD%AC/?category=18271" rel="tag">傅志彬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">政治传言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E7%8E%89%E9%97%AA/?category=18271" rel="tag">郭玉闪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%BB%8F%E8%90%A5%E7%BD%AA/?category=18271" rel="tag">非法经营罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%8A%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B%E3%80%8B%E7%9A%84%E5%91%BD%E8%BF%90%E5%92%8C%E5%8F%97%E5%AE%83%E7%89%B5%E8%BF%9E%E7%9A%84%E4%BA%BA/" target="cdt-mirror">肖雪慧：《大学人文教程》的命运和受它牵连的人</a>
+</h2>
+<p><p>今早在得知涉出版界一条坏消息后，一句话挥在脑海里之不去：这个权力，专干搜索英才而毁之的事。而在教育、出版等被当成“上甘岭”阵地的领域，情况更严峻，现在几乎是：凡想在这些领域做点正常事，就动辄得咎。下面发的是两年前写的，当时很多人读后为文中提到的好编辑的境遇唏嘘不已，但今早得知的消息，这种情况正在常态化，出版界、思想文化界正被推入暗夜。</p>
+<p>2016年1月10日<br><em><br>
+正文：</em></p>
+<p><strong>《大学人文教程》的命运和受它牵连的人</strong></p>
+<p>肖雪慧</p>
+<p>前天，西南交大举行了黄万里雕像揭幕仪式，受邀的很少，仅二十来人，我学界的朋友、《黄万里的长河孤旅》的作者赵诚是其中之一。多年不见，来了成都，自然要请他过来一叙。</p>
+<p>他是昨天傍晚的回程机票。早晨还有机会去趟三星堆。参观了三星堆来电话时，已经在校门了。我骑车到校门，虽然十年没见面，还是一眼就认出来。</p>
+<p>我跟赵诚同为《大学人文教程》的作者，也是因为这本书认识的。其实，这本书之前，广西师大出版社已经出版了三卷本的《大学人文读本》。这套近百万字的读本分为《人与自我》、《人与国家》、《人与世界》，按主题需要从国内外现当代作者的作品中选取了约三百篇文章，主旨是给当代大学生精神成长提供根基性价值参照和精神底线。我的《纳税人，说出你的权利》收入了《人与国家》，这是我收到出版社赠寄的书之后才知道的。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B1.jpg" rel="attachment wp-att-425319"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B1.jpg" alt="大学人文教程1" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程1-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程1.jpg 1872w" sizes="(max-width: 1872px) 100vw, 1872px"></a></p>
+<p>《读本》是2002年上半年出版的。夏天，丁东来电话邀请我参加《大学人文教程》的写作。原来，这是《读本》几位编者的后续计划：不仅通过一套大学生和同龄青年有兴趣去读的人文读本给出有助于他们了解和认识种种基本关系的线索，还要写出一本尽可能高质量的原创性教程，争取把人文教育纳入课堂。教程按照读本的三大块分为上中下篇，“人与自我”篇包含了自我实现、性爱·青春·婚姻、女性意识、生存勇气等，“人与国家”篇有历史记忆、启蒙革命自由民主宪政等诸多主题，而人权、和平、环境、全球化等主题则在“人与世界”篇，每一章，即使作为单独课题都很值得阐释和挖掘，我很乐意加盟，承担了下篇中的“和平”、“多样文化与普世价值”这两章。说好两个月后完成其中一章初稿。</p>
+<p>10月份，全部作者在黄山市第一次开会。近十位作者中，除了丁东是早就认识的，赵诚、邵建、谢泳、李新宇、刘峰杰……书的主编夏中义、师大出版社编辑赵明节，都是第一次见面。大约三天的会议，真是高强度的脑力劳动。交叉看稿之后逐一讨论每个作者稿子时，坦率、直言不讳和热烈程度，有一种久违了的感觉，有点像80年代在我家里定期举办的学术沙龙气氛。</p>
+<p>这样高强度的会议又进行了两次。最后一次恰逢非典，会议地点又在疫情严重的太原，但是我们在太原周边一个小县城每天看稿、讨论，竟不知道身处疫区。</p>
+<p>教程在2003年7月出版，赶上了秋季开学。那个时候，大学教师还多少有一些开设新课的自主权，夏中义教授率先在上海交大开设了大学人文，又到各地讲学办班、培训教师。而最初设想的由所有作者轮流讲学培训教师，后来大概出于顺利推广人文教程课的考虑，“敏感”作者就没参加了。所以，对后来的情况，我并不清楚。我知道的是，大学人文系列（连同读本、教程以及接下来以书代刊的好几期《大学人文》）在思想学术界、在大学生中反响热烈，这个系列也成了广西师大出版社的一个品牌。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B2.jpg" rel="attachment wp-att-425320"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B2.jpg" alt="大学人文教程2" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程2-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程2-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程2.jpg 1872w" sizes="(max-width: 1872px) 100vw, 1872px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B3.jpg" rel="attachment wp-att-425321"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B3.jpg" alt="大学人文教程3" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程3-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程3-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程3.jpg 1872w" sizes="(max-width: 1872px) 100vw, 1872px"></a></p>
+<p>但昨天赵诚告诉了我《大学人文教程》和这个人文系列书籍后来的厄运。这个书系被“上面”定为有严重政治问题。大学人文书系在所有书店下架，广西师大出版社官网则彻底删除了跟这个书系有关的一切信息。夏中义教授因为是这个书系的主编，又在大学开设了这门课并进行教师培训，有关部门就此专门发文，他不再能招收 博士和带博士，早早被要求办理了退休。受影响最大的是这个书系的编辑赵明节。他的职务被免除，一位在思想界建立了广泛联系的资深编辑现在只能在审校室工作。最骇人听闻的是，这位并非维权者，更无涉任何敏感活动，不过就是想做出好书的编辑，竟一度连离开桂林也受限制，得向当地公安局报告。</p>
+<p>在我认识的编辑中，有两位编辑我印象很深。一位是原《东方文化》副主编余浩明，她是真正热爱编辑工作，很善于跟作者沟通、交流，而且从寂寂无名的青年学子中发现好作者，给青年学子提供平台。后来杂志停刊了，她转到广州一个有编辑专业设置的大学，还算能以另一种方式继续她的事业。另一位就是赵明节，对他的工作抱有很高热情、很敬业。第一次会议期间我跟他交谈过，从他对读本中一些篇目的评价就可以看出他的眼光。但他也很谨慎，为了不给书系带来学术之外的麻烦，也会疏远他很欣赏的作者。这样一位编辑，后来遭遇那样的处境，确实出乎我预料。他被免职后，部分同事的态度也把这地方的世态炎凉表现得淋漓尽致。</p>
+<p>2013年11月25日星期一</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%8A%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B%E3%80%8B%E7%9A%84%E5%91%BD%E8%BF%90%E5%92%8C%E5%8F%97%E5%AE%83%E7%89%B5%E8%BF%9E%E7%9A%84%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%96%87%E5%AD%A6%E7%A7%91/?category=18271" rel="tag">人文学科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E4%B8%AD%E4%B9%89/?category=18271" rel="tag">夏中义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E8%87%AA%E7%94%B1/?category=18271" rel="tag">思想自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/" target="cdt-mirror">【歌曲】嗨，山巅的姑娘（写给赵威）</a>
+</h2>
+<p><p><em>来源：Youtube <a href="https://www.youtube.com/channel/UCC8nda4gxCTY_z0iPlml72A" target="_blank">@Wen YunChao</a>（温云超）；歌曲创作者不详</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" rel="attachment wp-att-425301"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" alt="考拉" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/考拉-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br>
+（“考拉” by Twitter<a href="https://twitter.com/wuyuren/status/686652844506628096">@wuyuren</a> [吴玉仁] ）</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C90%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%80%83%E6%8B%89%E6%B6%89%E9%A2%A0/">自由亚洲｜“90后” 中国最年轻政治犯考拉涉“颠覆”被捕</a></p></blockquote>
+<p></p>
+<p><strong>《嗨，山巅的姑娘》</strong></p>
+<p>崎岖的山路<br>
+通向着山巅<br>
+入云不见，闭日遮天<br>
+魔鬼冒牌天神<br>
+风沙迷住双眼<br>
+不会磨灭心中信念</p>
+<p>瑟瑟的寒冬<br>
+沉沉的黑夜<br>
+那个已到山巅的姑娘<br>
+她在大声呐喊<br>
+在风中和魔鬼战斗<br>
+想把地狱变成天堂</p>
+<p>嗨，山巅的姑娘<br>
+我要送你一件红色衣裳<br>
+这寒冬的火<br>
+黑夜里的光</p>
+<p>嗨，山巅的姑娘<br>
+我要大声呐喊为你歌唱<br>
+这漆黑的夜<br>
+我们不再幻想</p>
+<p>考拉（赵威）是个90后河南女孩，她热爱自由民主，热心于公益事业，从大学开始参与捍­卫人权的活动。2014年到北京做李和平律师的助理。2015年7月10号被抓到天津­监视居住，2016年1月8号被批准以颠覆国家政权罪逮捕。</p>
+<p><a title="嗨，山巅的姑娘（写给赵威）" href="http://www.youtube.com/watch?v=m26t1sj6NNk" target="_blank">嗨，山巅的姑娘（写给赵威）</a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/" target="cdt-mirror">【歌曲推荐】嗨，山巅的姑娘（写给赵威）</a>
 </h2>
 <p><p><em>来源：Youtube <a href="https://www.youtube.com/channel/UCC8nda4gxCTY_z0iPlml72A" target="_blank">@Wen YunChao</a>（温云超）；歌曲创作者不详</em></p>
@@ -60,7 +181,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E6%A1%88/?category=18271" rel="tag">考拉案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%89%8D%E9%AB%98%E5%AE%98%EF%BC%9A%E8%A7%A3%E6%94%BE%E5%8F%B0%E6%B9%BE%E6%97%B6%E6%9C%BA%E6%AD%A3%E5%9C%A8%E6%88%90%E7%86%9F/" target="cdt-mirror">BBC｜中国军方前高官：解放台湾时机正在成熟</a>
 </h2>
@@ -184,7 +305,21 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%94%B9/?category=18271" rel="tag">军改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/" target="cdt-mirror">【CDTV】BBC｜解读习近平：纪录片The Xi Factor（二之二）</a>
+</h2>
+<p><p>BBC电视节目《广角镜》（Panorama）在习近平访英前播出纪录片The Xi Factor《习近平因素》。BBC中国编辑凯瑞（Carr­ie Gracie）从习近平的家庭背景说到他集权于一身的经过。</p>
+<p><a href="https://www.youtube.com/v/HW6chb_La14?version=3">https://www.youtube.com/v/HW6chb_La14?version=3</a></p>
+<p><a title="解读习近平：纪录片The Xi Factor二之二" href="http://www.youtube.com/watch?v=HW6chb_La14" target="_blank">解读习近平：纪录片The Xi Factor二之二</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/" target="cdt-mirror">【CDTV】解读习近平：纪录片The Xi Factor（二之二）</a>
 </h2>
@@ -735,118 +870,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%8F%E9%98%BF-%E5%BE%AE%E5%8D%9A%E7%94%BB%E5%B1%95-%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A4%9A%E7%9A%84%E5%88%9B%E4%BD%9C%E5%90%88%E8%BE%91/%E5%A4%8F%E9%98%BF%EF%BC%9A%E5%B1%B1%E6%9E%97%E9%A3%8E%E5%95%B8%E5%9B%BE/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/01/%E5%A4%8F%E9%98%BF%EF%BC%9A%E5%B1%B1%E6%9E%97%E9%A3%8E%E5%95%B8%E5%9B%BE-150x150.jpg" alt="夏阿：山林风啸图" srcset="http://china</p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91/" target="cdt-mirror">【敏感词库】习近平朋友圈、“7条微博”等热点 2016-1-12</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2014/03/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%8D%B1%E6%9C%BA.jpg" alt="巴丢草：微信危机" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2014/03/巴丢草：微信危机-1024x992.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2014/03/巴丢草：微信危机.jpg 1057w" sizes="(max-width: 1057px) 100vw, 1057px"><br><em>巴丢草：微信危机</em></p>
-<p>［新浪微博搜索禁词测试时间：2016年1月12日］</p>
-<p><strong>习＋朋友圈</strong><br><strong> 习＋秘书</strong><br><strong> 习 + 爷</strong><br><strong> 习＋小圈子</strong></p>
-<p><strong>周永康＋曾庆红</strong><br><strong> 曾飞洋＋被捕</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B5%B7%E5%BA%95%E8%A2%AB%E6%8D%95%E5%B9%BF%E4%B8%9C%E5%B7%A5%E8%BF%90%E4%BA%BA%E5%A3%AB%E6%9B%BE%E9%A3%9E%E6%B4%8B/"><span>BBC | </span><span>人民日报</span><span>“</span><span>起底</span><span>”</span></a><span><a href="https://chinadigitaltimes.net/chinese/2015/12/bbc-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B5%B7%E5%BA%95%E8%A2%AB%E6%8D%95%E5%B9%BF%E4%B8%9C%E5%B7%A5%E8%BF%90%E4%BA%BA%E5%A3%AB%E6%9B%BE%E9%A3%9E%E6%B4%8B/">被捕广东工运人士曾飞洋</a>）</span><br><strong> 曾飞洋＋服务部</strong><br><strong> 鲁部长</strong>（相关：<span><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-13/">【网络民议】你家做客？你们真拿自己当户口本第一页了？</a>）</span><br><strong>洪哲胜</strong></p>
-<p><strong>7条微博 </strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA%E8%87%AA/"><span>纽约时报中文网</span><span> | </span></a><span><a href="http://chinadigitaltimes.net/chinese/2015/12/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91-%E6%B5%A6%E5%BF%97%E5%BC%BA%E4%B8%83%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA%E8%87%AA/">浦志强七条微博测试中国言论自由</a>）</span><br><strong>二中院 + 聚集</strong></p>
-<p><strong>中国军火</strong></p>
-<p><strong>三里屯 + 威胁</strong></p>
-<p><strong>新生网</strong></p>
-<p><strong>淫秽（网）</strong><br><strong>色情网（站）</strong></p>
-<p><strong>视频 + AV</strong><br><strong> YouTube + AV</strong><br><strong>操比</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%EF%BC%8B%E6%9C%8B%E5%8F%8B%E5%9C%88.png" alt="习＋朋友圈" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习＋朋友圈-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋朋友圈-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋朋友圈.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%EF%BC%8B%E7%A7%98%E4%B9%A6.png" alt="习＋秘书" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习＋秘书-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋秘书-768x302.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋秘书.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E7%88%B7.png" alt="习 + 爷" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习-爷-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习-爷-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习-爷.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%EF%BC%8B%E5%B0%8F%E5%9C%88%E5%AD%90.png" alt="习＋小圈子" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习＋小圈子-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋小圈子-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习＋小圈子.png 771w" sizes="(max-width: 771px) 100vw, 771px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%91%A8%E6%B0%B8%E5%BA%B7%EF%BC%8B%E6%9B%BE%E5%BA%86%E7%BA%A2.png" alt="周永康＋曾庆红" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/周永康＋曾庆红-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/周永康＋曾庆红-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/周永康＋曾庆红.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9B%BE%E9%A3%9E%E6%B4%8B%EF%BC%8B%E8%A2%AB%E6%8D%95.png" alt="曾飞洋＋被捕" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋被捕-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋被捕-768x301.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋被捕.png 769w" sizes="(max-width: 769px) 100vw, 769px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9B%BE%E9%A3%9E%E6%B4%8B%EF%BC%8B%E6%9C%8D%E5%8A%A1%E9%83%A8.png" alt="曾飞洋＋服务部" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋服务部-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋服务部-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/曾飞洋＋服务部.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%B2%81%E9%83%A8%E9%95%BF.png" alt="鲁部长" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/鲁部长-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/鲁部长.png 768w" sizes="(max-width: 768px) 100vw, 768px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B4%AA%E5%93%B2%E8%83%9C.png" alt="洪哲胜" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/洪哲胜-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/洪哲胜-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/洪哲胜.png 769w" sizes="(max-width: 769px) 100vw, 769px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/7%E6%9D%A1%E5%BE%AE%E5%8D%9A.png" alt="7条微博" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/7条微博-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/7条微博-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/7条微博.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%BA%8C%E4%B8%AD%E9%99%A2-%E8%81%9A%E9%9B%86.png" alt="二中院 + 聚集" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/二中院-聚集-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/二中院-聚集-768x296.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/二中院-聚集.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%81%AB.png" alt="中国军火" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/中国军火-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/中国军火-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/中国军火.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E9%87%8C%E5%B1%AF-%E5%A8%81%E8%83%81.png" alt="三里屯 + 威胁" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-威胁-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-威胁-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/三里屯-威胁.png 769w" sizes="(max-width: 769px) 100vw, 769px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%B0%E7%94%9F%E7%BD%91.png" alt="新生网" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/新生网-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/新生网.png 768w" sizes="(max-width: 768px) 100vw, 768px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B7%AB%E7%A7%BD%E7%BD%91.png" alt="淫秽网" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/淫秽网-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/淫秽网-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/淫秽网.png 773w" sizes="(max-width: 773px) 100vw, 773px"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%89%B2%E6%83%85%E7%BD%91.png" rel="attachment wp-att-425003"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%89%B2%E6%83%85%E7%BD%91.png" alt="色情网" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/色情网-300x127.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/色情网-768x326.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/色情网.png 838w" sizes="(max-width: 838px) 100vw, 838px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%A7%86%E9%A2%91-AV.png" rel="attachment wp-att-425002"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%A7%86%E9%A2%91-AV.png" alt="视频 AV" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/视频-AV-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/视频-AV-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/视频-AV.png 837w" sizes="(max-width: 837px) 100vw, 837px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV.png" rel="attachment wp-att-425000"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV.png" alt="YouTube AV" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV-768x332.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/YouTube-AV.png 834w" sizes="(max-width: 834px) 100vw, 834px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%93%8D%E6%AF%94-1.png" rel="attachment wp-att-425004"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%93%8D%E6%AF%94-1.png" alt="操比" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/操比-1-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/操比-1-768x332.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/操比-1.png 842w" sizes="(max-width: 842px) 100vw, 842px"></a></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%BE%E5%BA%86%E7%BA%A2/?category=18271" rel="tag">曾庆红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%BA%E8%A1%8C%E4%BA%8C%E6%AC%A1%E5%85%83/" target="cdt-mirror">【网络民议】强行二次元</a>
-</h2>
-<p><p><em>【编者按】《新京报》这名批评二次元的作者很显然对该词的含义一无所知。下文涉及的网络直播发生在斗鱼TV，很难让人不联想到近日<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/">快播案</a>中受到网民一边倒支持的快播科技有限公司。</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh.jpg" rel="attachment wp-att-424980"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh.jpg" alt="d00565dbgw1ezscr5h12hj20c808sabh" width="440" height="316" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh-300x215.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d00565dbgw1ezscr5h12hj20c808sabh.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><em>（网络图片）</em></p>
-<blockquote><p><strong><a href="http://epaper.bjnews.com.cn/html/2016-01/12/content_617996.htm?div=-1">新京报｜“直播造人”：二次元也不能挑战法律</a></strong></p>
-<p>据网友举报，1月10日凌晨，有人在某网络直播平台上，开启直播间“直播造娃娃”，一男一女赤裸身体，公然直播性行为，当时吸引近千人观看，网友纷纷在弹幕上发表自己的看法。1月10日晚，武汉网警在官微上宣布，已收到相关举报，正在开展调查。之后，该直播平台发布官方声明称：已在第一时间将其直播封停，并立即向警方报案且提供了涉事主播的个人身份信息。</p>
-<p>以网络、动漫为元素构建的“二次元世界”，很大程度上消解了过去中国人对于性话题的禁忌和敏感，这是社会开放的表现。但“二次元世界”不能用直播色情活动、非法飙车的方式，挑战法律和社会伦理底线。不是什么都可以拿出来直播的，不是什么都可以拿出来换钱的。</p>
-<p>相关网站作为平台，要履行监督责任，不能“揣着明白装糊涂”，放任他人利用其平台搞违法勾当，自己分利其间。希望最近接连发生的“直播飙车门”“直播造娃娃门”成为网络直播平台能干干净净发展的一个转折点。这要靠行业自律，也需要社会舆论、政府和司法等各方面的压力。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@乔手办之刘羽熙：跟二次元有毛关系，蛇精病看不出来这是真人啊</p>
-<p><a href="http://weibo.com/2252358725" target="_blank">@出国的汉子</a>：不会用一个词就不要乱用，不然就会变成笑话<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]"></p>
-<p><a href="http://weibo.com/5543683460" target="_blank">@cherry一blossom</a><i></i>： 来自日本早期的动画、漫画、游戏作品都是以二维图像构成的，随着这些载体的流行，其相关作品中表现的世界也被其爱好者称为“二次元世界”。二次元也泛指动 画、漫画、游戏、小说、虚拟偶像以及其衍生同人创作及周边产品等。 这才是二次元，二次元的世界比三次元美好的多，不懂就别瞎BB<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
-<p><a href="http://weibo.com/3982808255" target="_blank">@王牌大人呦</a>：把这锅糊你一脸<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">二次元宝宝心里苦<img title="[悲伤]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]"></p>
-<p><strong>@俾斯麦小姐的男朋友：强行二次元</strong></p>
-<p><a href="http://weibo.com/5324049832" target="_blank">@你的名字已经被河蟹啦</a>：不懂什么二次元就别乱说<img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]"><img title="[怒骂]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]">这个黑锅我们不背<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p><a href="http://weibo.com/3842702610" target="_blank">@小one君</a>：不背<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">那些都不是人是玩偶吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">他们是哪部动漫的<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">有相关手办吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">是平面二次元传播的吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">新京报了解相关词义吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">编辑会查字典吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">长脑子了吗<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p><strong><a href="http://weibo.com/2891486241" target="_blank">@杞安久</a>：不背 你以为我们是乐事啊<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></strong></p>
-<p>@我是大白你谁啊：原来我一直生活在二次元！鲁路修！我要去找你~！</p>
-<p><a href="http://weibo.com/2732130792" target="_blank">@沐寒冰馨</a><i></i>：<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]">能不扯淡么？这关动漫有半毛钱关系么？有闲心管这些，不如多做点实际的。还有，你确定你不是为了各种禁而夸大么？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%BA%E8%A1%8C%E4%BA%8C%E6%AC%A1%E5%85%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E6%AC%A1%E5%85%83/?category=18271" rel="tag">二次元</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E6%B2%9F/?category=18271" rel="tag">代沟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%89%B2%E6%83%85/?category=18271" rel="tag">网络色情</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91-bbc%EF%BD%9C%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor-%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%B8%80%EF%BC%89/" target="cdt-mirror">【CDTV】 BBC｜解读习近平：纪录片The Xi Factor （二之一）</a>
-</h2>
-<p><p>BBC电视节目《广角镜》（Panorama）在习近平访英前播出的The Xi Factor《习近平因素》引起广泛关注。在纪录片中，BBC中国编辑凯瑞（Carrie Gracie）从习近平的家庭背景说到他集权于一身的经过。</p>
-<p><a href="https://www.youtube.com/v/Oc2uuziqPM8?version=3">https://www.youtube.com/v/Oc2uuziqPM8?version=3</a></p>
-<p><a title="解读习近平：纪录片The Xi Factor 二之一" href="http://www.youtube.com/watch?v=Oc2uuziqPM8" target="_blank">解读习近平：纪录片The Xi Factor 二之一</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91-bbc%EF%BD%9C%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor-%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%B8%80%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/youtube/?category=18271" rel="tag">youtube</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%9D%9A%E6%8C%8110%E5%A4%9A%E5%B9%B4%E7%AB%99%E5%9C%A8%E5%8F%8D%E7%99%BE%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%BA%BF%E7%9A%84/" target="cdt-mirror">歪理邪说 | 我是如何坚持10多年站在反百度第一线的</a>
-</h2>
-<p><p>这是我这个帐号开通以来，最不冷静和最不客观的文章。在这件事上，我也并不想客观。</p>
-<p>中国互联网里面，百度是个绕不过去的坎。它是个很大又很有钱的公司，它控制着流量，很多人直接或者间接的依靠它生存，人们恨它、离不开它但又不敢得罪它。</p>
-<p>最近关于百度的大新闻，是百度把“血友病”贴吧卖掉了，并且这不是第一个被卖掉的疾病相关贴吧。过去人们总是批评百度的竞价排名之恶，但卖这些疾病相关贴吧运营权是比竞价排名更恶劣的行为，堪称恶中之恶。百度的竞价排名历史悠久，已经被太多人骂过了，多少让人们有了一些警惕。贴吧可不一样，它本来是患者病友们自己组织的社区，患者交流经验、分享治疗信息、互相鼓励，这是一件非常重要的事。如果你常看美剧，应该会有印象那种“AA互助组织“，就是大家围成一圈，互相讲述自己的痛苦经历。在西方国家，这是患者们非常重要的心理支援方式，在中国，线下的活动少，线上活动多，类似血友病这种贴吧某种意义上承担了这种职责。</p>
-<p>弄清楚这件事之后，就很容易理解为什么百度把贴吧卖掉的行为是如此之恶，这就就好像大家围成一圈，正在述说自己的疾病的痛苦，这时候活动的组织者说，你们不用这么痛苦的，我认识一个专家，治这种病很厉害，不用手术药到病除，我就是这么治好的。在这种情况下，患者们非常容易相信他，本来就是一群接近绝望的人，抓住一丝希望做为救命稻草完全不奇怪。可惜信了之后只有一个结果，就是被骗。如果只是一次骗点钱倒也算了，但实际情况是骗子总要长期控制住患者，源源不断的赚他们的钱，最后患者因此耽误了治疗，这就不是骗钱的事，而是人命关天了。</p>
-<p>这不是我想像出来的夸张剧情，血友病吧的成员们本来常年跟骗子斗争，结果转眼之间，他们斗争已久的骗子买下了贴吧运营权，上来先把过去吧主的帐号全封了，再把过去关于自己的不利消息全删掉。血友病吧一点也不孤独，他们也不是第一个被卖掉的贴吧。</p>
-<p>这10多年里，百度一直是盈利能力相当强的一家公司，甚至从财报看，利润率常常超过Google。这些利润从哪来呢？不知道有多少人记得去年（2014年）新东方董事长俞敏洪炮轰莆田系的事情，当时是新东方学校的一位老师，在”云南玛莉亚医院“分娩时候不幸去世。这是一家莆田系的医院，莆田系医院里面不是没有正常的，但是大部分都不正常，这早就不是什么秘密了。 有多少人因此致死致残，现在没有具体的统计数据，但我相信俞敏洪所炮轰的只是冰山一渣（比冰山一角还小的多）而已。莆田系医院的客户来源，主要就是百度，福建莆田市委书记梁建勇曾公开表示：“百度2013年的广告总量是260亿元，莆田的民营医院在百度上就做了120亿元的广告。” 这个数字很可能是保守的，当年各家财经媒体也估算过数据，他们估算的结果是甚至会超过200亿。就按照120亿计算，它也占了260亿的46%，再算上其他来自竞价排名的骗子，比如假搬家公司，假快递公司，各种假的电器维修…（部分骗子当年被曝光之后改掉了，现在少了一些）把这些都算上，总共能占百度广告收入的比例会有多大呢？我不知道，也不想知道，知道之后我怕吓得睡不着觉。</p>
-<p>这件事是跟每个人都有关，你可能会觉得，我很小心，不会受骗。但你想过你的父母、或者那些对互联网还不怎么熟悉的亲朋好友吗？我问过不少百度员工，你们让父母用什么搜索引擎？他们一般避而不答。偶尔也有一些人会悄悄会跟我说，他们的父母用百度也受过骗，从医疗到生活服务，总有一款能骗住你。每家公司都会有人骂，有骂360的 ，有骂携程的，但比起来百度，中国任何一家互联网公司都算的上圣人。</p>
-<p>百度这家公司倒是有一点好，凡是被大家注意了、媒体跟进了，他们就会说”我们已经着手调查，如发现问题属实一定改正”。比如血友病贴吧这件事闹大了，最新的消息说百度改正了，血友病吧不卖了。但是高血压吧呢？还有更多早就被卖掉的疾病贴吧，又怎么办？这样的“改正”，百度做了很多次，比如：</p>
-<ul><li>百度改正过文库侵权事件</li>
-<li>百度改正过竞价排名的假快递公司</li>
-<li>百度改正过竞价排名的假电器维修服务</li>
-<li>百度改正过竞价排名的假搬家公司</li>
-<li>百度改正过百度百科里面错误的医学、科学名词</li>
-<li>百度改正过强制设置浏览器首页</li>
-<li>百度改正过不能卸载的插件</li>
-<li>百度改正过在图片搜索搜“护士”搜出来一堆色情图片的问题</li>
-<li>百度即将改正了血友病贴吧被卖事件</li>
-</ul><p>……</p>
-<p>历史上这些事情太多了，列举不完。这些问题都是被用户和媒体发现了，闹大了，百度才会改正。我有时候都在疑惑，百度的产品、运营和管理工作，到底是他们自己的员工承担的，还是普通用户承担的。百度目前有5万员工，但是这些问题员工全都发现不了，这符合概率和逻辑吗？这简直中国互联网上最大的奇迹，5万多人，面对一堆令人轻则破财，重则致命的问题，不约而同的视而不见，更何况被坑的人里面还包括他们自己的父母和亲人，太疯狂了。</p>
-<p>这些疯狂的事我已经看了10多年了，早就不相信这家公司有变好的可能性了。这就像是一个坏人，被骂了10多年，反而变本加厉的发明出越来越坏的事，你还会相信他有一天变好吗？</p>
-<p>那么我们能做什么呢？比较悲哀，因为Google早就被轰走了，能全方位替代百度的产品几乎没有。但即便如此，也不能就放弃了。我本人持续了10多年站在写文章批评百度的第一线，其中有好几篇流传很广，写这些文章有没有用？我个人觉得还是很有用的，今天，中国互联网上反百度已经成为了一种政治正确，这是相当可喜的趋势，我觉得这跟我持续了10多年的努力是有一些关系的。希望更多人加入这个行列。这不仅是我们的使命，甚至是我们的义务。</p>
-<p>除了键盘党，我也有一些比较实际的行动，我一个人的行动影响不大，但如果慢慢形成一种风气，积累起来就会有很大力量。比如：</p>
-<ul><li>我不允许我写的任何文章被百度百家转载，我不会去开专栏，也不允许转载我文章的人把我的文章再次发布到百家，一旦发现，提醒一次无效的话，我会永久取消对方转载权（如果读者发现了这种行为，欢迎告诉我）</li>
-<li>我，以及我参与的项目，一概拒绝跟百度任何合作，赚钱也不干。去年百度旗下某技术平台曾经希望和我们的《神秘的程序员们》漫画合作，我们拒绝了。只要想到百度46%的收入来自莆田系，我就没办法从他们手里赚钱，那是货真价实的带血的钱。</li>
-<li>给父母装上“丁香医生“和”用药指南“这两个app，然后反复多次，用各种方式告诉父母和亲人，不要相信来自百度的任何东西，有医疗方面的问题，用这两个app。这两个app是来自医学药学生命科学专业网站“丁香园”的产品，我信任他们。</li>
-<li>只要能我能碰到的计算机，凡是有百度插件的我立刻会卸载它们，把百度/hao123设置成首页的，我立刻换掉他们，用百度输入法的，我会立刻给他们换个输入法。</li>
-<li>抓住一切机会告诉相信你的人，不用百度任何服务，包括外卖和地图。反正你用什么早晚都会被装上被戏称为“百度全家桶“的所有软件，还不如极端一点，什么都不要用。</li>
-<li>如果有认识的人去百度工作，那我一定会问他这个问题：“你让你的父母日常使用什么搜索引擎，如何能确保他们不被骗？” 这可不是挑衅，这是帮助他们注意到原本的存在盲区，是对朋友负责的行为。</li>
-</ul><p>10多年来，我一直这么做。这些习惯当然也给我带来过一些麻烦，也经常会面对别人的不理解，不过我觉得还是挺值得的，现在随着政治正确的氛围逐渐建立，做起来这些事情阻力也小多了。随着整个舆论环境的变化，我相信未来做这些事情会越来越容易。历史上，百度一直控制着流量入口，很多人对这些事情是敢怒不敢言。但现在，流量已经逐步转移到了App和微信，开始脱离了百度的势力范围。这是前所未有的好机会，千万不要放过了。</p>
-<p>昨天，国家互联网信息办公室对“快播”案发表谈话，表示所有网站都应对传播内容承担法律责任。奇怪了，百度这些事情干了这么多年，钱赚了这么多，承担过法律责任吗？希望国家互联网信息办公室这个态度可以一视同仁，别光针对快播，也要关注一下百度嘛。</p>
-<hr><p>对了，不知道这篇文章会有什么结果，一种可能性是被百度举报掉。另外一种可能性，也许他们会跟王健林那样起诉我。对于这些可能性的应对办法我也考虑了一下，如下：</p>
-<ol><li>欢迎转载这篇文章，本文连署名权都可以放弃。只要求保持内容完整即可随便转，无需再征求我同意。</li>
-<li>如果起诉我，所有不喜欢百度的人，可以一起来众筹律师费或者赔偿金。我们可以像快播案一样，让这个案子再次成为焦点，从而让更多人知道百度之恶，就当是大家众筹了一个大广告。</li>
-<li>其实还有个更大的风险，就是毁坏商誉罪，它是个刑事罪。不过我对照法条和司法解释看了一遍，觉得本文应该够不上，事实都是真实发生的，数据都来自可信媒体，行为都是个人行为，毫无捏造，也非造谣，应该不算违法。至于到底会怎么样，随他去吧。</li>
-</ol><hr><p>参考备注：</p>
-<ul><li>标题图：来自 https://unsplash.com/finleydesign 免费/ Creative Commons Zero</li>
-<li>关于百度卖掉疾病相关贴吧运营权的新闻： http://news.sohu.com/20160111/n434179036.shtml</li>
-<li>俞敏洪炮轰莆田系 http://www.ce.cn/cysc/newmain/pplm/czrw/xw/201407/17/t20140717_3178429.shtml</li>
-</ul><p><img src="http://mmbiz.qpic.cn/mmbiz/FGHkyMt13UWd5e1Ts2sdySkL7bv9icIdicdoewiano5sDIOPaw5aSks8Ij4O8xSm1Ul33HSXcaKHae0iarO1zLLRVA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%9D%9A%E6%8C%8110%E5%A4%9A%E5%B9%B4%E7%AB%99%E5%9C%A8%E5%8F%8D%E7%99%BE%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%BA%BF%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">抵制百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/?category=18271" rel="tag">百度贴吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -868,5 +891,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

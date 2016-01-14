@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/" target="cdt-mirror">【真理部】北京锋锐律师事务所多名律师涉重大犯罪专案</a>
+</h2>
+<p><p>关于北京锋锐律师事务所多名律师涉重大犯罪专案：各网站一律不得开设专题专栏、不擅自采访报道、不擅自评论。要及时删除微博、微信等互动环节中的有害信息，对性质恶劣的用户账号要及时采取管控措施。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%8B%E9%94%90%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">锋锐律师事务所</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%BB%8F%E6%B5%8E%E5%B7%AE%EF%BC%8C%E8%AE%B2%E6%94%BF%E6%B2%BB/" target="cdt-mirror">【习总日记】经济差，讲政治</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，13）</p>
+<p>一</p>
+<p>12日上午在第十八届中央纪律检查委员会第六次全体会议上发表重要讲话。我警告大家，经济越差，我们就越要讲政治。若经济形势好了，少讲点政治也无妨。因为，经济差人心浮动，队伍不好带。不讲政治，队伍更不好带。有钱的时候可以用钱砸晕，现在没钱了，讲政治绕晕也不错。</p>
+<p>我强调，把党管起来靠谁？就靠你们。老祖宗靠东厂西厂太监管官吏，我们靠纪委管党管干部。来点实惠的。2016年你们好好干，我给大家加工资。</p>
+<p>王岐山主持会议并发表讲话说，纪委干部不要怕得罪人。你的工作就是得罪人的工作，拿钱得罪人总比不拿钱得罪人要好。再说，你若不得罪人，我要来得罪你。我若不得罪你，习总便要来得罪我。所以，先得罪为强，后得罪遭殃。</p>
+<p>王岐山最后说，不过话要说回来，反腐没有禁区，可得罪人有禁区。有些人你们不能得罪。譬如邓家、陈家等。</p>
+<p>二</p>
+<p>律师要继续抓，要把胆敢在法庭上与我们争夺<a href="http://chinadigitaltimes.net/space/%E8%AF%9D%E8%AF%AD%E6%9D%83" target="_blank">话语权</a>的律师统统抓起来。不服的关他服帖为止，永远不服的关他死为止。</p>
+<p>有人指责我们抓了<a href="http://chinadigitaltimes.net/space/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81" target="_blank">20多岁的小姑娘</a>，质疑她们怎么可能犯有颠覆国家罪？不读书没文化没历史。要知道我父亲闹革命时才几岁？16岁啊！16岁就从事颠覆国家的正义行为。还有共产党良心胡耀邦也是小小年纪便热爱颠覆国家。</p>
+<p>总之，你们想颠覆祖国我坚决支持。什么大明满清中华民国。只是中华人民共和国一个国家你们不能颠覆不许颠覆。因为我是这个国家当权者。</p>
+<p>三</p>
+<p>看香港书商谁还再敢出版诽谤我攻击党的书籍。</p>
+<p>四</p>
+<p>南海搞搞东海搞搞。不搞心痒。搞好搞坏再说。</p>
+<p>五</p>
+<p>上海迪士尼开幕了。明显的文化入侵。敌对势力又一杰作。该考虑米老鼠唐老鸭入党的事情了。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E7%BB%8F%E6%B5%8E%E5%B7%AE%EF%BC%8C%E8%AE%B2%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/425415/" target="cdt-mirror">财新网 | 百度贴吧卖吧风波：为什么又是莆田系？</a>
 </h2>
 <p><p><b>记者： <span><a href="http://reporter.caixin.com/6659782/%E6%9D%8E%E5%A6%8D" target="_blank">李妍</a></span></b></p>
@@ -710,72 +750,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%85%A8%E7%90%83%E9%A6%96%E5%B1%8A%E8%9B%A4%E4%B8%9D%E5%A4%A7%E4%BC%9A%E6%88%90%E9%83%BD%E4%B8%BE%E8%A1%8C/" target="cdt-mirror">【麻辣总局】全球首届蛤丝大会成都举行</a>
-</h2>
-<p><p><strong>相关背景：</strong></p>
-<blockquote><p>2000年10月，一名香港女记者因为连续追问“中央钦定特首”的敏感问题而使得江泽民大怒。这名成为那段“江泽民怒斥香港记者”知名视频的主角之一的香港记者就是张宝华。张宝华在新浪微博注册账号并认证之后不久，“蛤丝现象”的兴起使得她的微博意料之外地成为了“蛤丝聚集地”，她发的任何一条微博下面几乎都有大量蛤丝的膜拜、调侃，她从起初的不知所谓，到坦然接受，最后甚至主动和微博上的蛤丝们用“膜蛤语录”互动，以及组织线下网友见面会。</p>
-<p>2015年，江选研讨会作者黄薄码的文章<a href="http://chinadigitaltimes.net/chinese/2015/03/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E5%88%B0%E5%BA%95%E8%B7%91%E7%9A%84%E6%9C%89%E5%A4%9A%E5%BF%AB%EF%BC%9F/" target="_blank">《香港记者到底跑的有多快？》</a>向其读者详细介绍了“向长者提问的女记者”张宝华，也使得她在那次采访十余年后，进入了大陆蛤丝们的视野。</p>
-<p>相关阅读：</p>
-<p><a title="纽约时报 | “膜蛤文化”盛行中国网络 或为影射习近平" href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/">纽约时报 | “膜蛤文化”盛行中国网络 或为影射习近平</a></p>
-<p><a title="林中来信｜“膜蛤”的模因与迷思" href="http://chinadigitaltimes.net/chinese/2016/01/424823/">林中来信｜“膜蛤”的模因与迷思</a></p>
-<p><a title="黄薄码：我们来谈谈「江选研讨会」这个号" href="http://chinadigitaltimes.net/chinese/2015/11/%E9%BB%84%E8%96%84%E7%A0%81%EF%BC%9A%E6%88%91%E4%BB%AC%E6%9D%A5%E8%B0%88%E8%B0%88%E3%80%8C%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A%E3%80%8D%E8%BF%99%E4%B8%AA%E5%8F%B7/">黄薄码：我们来谈谈「江选研讨会」这个号</a></p>
-<p><a title="江选研讨会 | 长者的毕业季" href="http://chinadigitaltimes.net/chinese/2015/11/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A-%E9%95%BF%E8%80%85%E7%9A%84%E6%AF%95%E4%B8%9A%E5%AD%A3/">江选研讨会 | 长者的毕业季</a></p></blockquote>
-<p>1月13日，香港媒体人张宝华因个人事务途径成都，提前在新浪微博召集网友聚会，而后见面会现场意外聚集几十名“蛤丝”，规模庞大，成为蛤丝们戏谑的“全球首届蛤丝大会”。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A.jpg" alt="蛤丝见面会" width="450" height="331"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D.png" alt="蛤丝" width="450" height="544" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝-248x300.png 248w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝.png 601w" sizes="(max-width: 450px) 100vw, 450px"></p>
-<p>现场图片</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A.png" alt="蛤丝见面会" width="600" height="448" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会-300x224.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会.png 639w" sizes="(max-width: 600px) 100vw, 600px"><p>现场有蛤丝拿出《基本法》要求签名</p></div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A2.png" alt="蛤丝见面会2" width="600" height="338" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会2-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会2.png 640w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A3.png" alt="蛤丝见面会3" width="600" height="448" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会3-300x224.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会3.png 639w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A5.png" alt="蛤丝见面会5" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会5-225x300.png 225w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会5.png 637w" sizes="(max-width: 450px) 100vw, 450px"></p>
-<p>张宝华（15年前，一个长者怒斥的香港女记者，现在已经是寰亚传媒集团高级副总裁）：</p>
-<p>我很喜欢微博的朋友，他们年纪都很小，大概都是80后、90后，他们来到我的微博都是因为15年前的那件事情。我没想到这件事情，在15年后还很能引起很多朋友的关注。</p>
-<p>我对这种情况很惊讶，没想到现在还能火。每天还有很多人通过微博私信我，过来问我一些问题。有的问念书念不好怎么办，有的问追女孩子追不到怎么办，形形色色的问题都有。</p>
-<p>所以你一定要问我觉得烦不烦的话，坦白告诉你我不觉得烦。</p>
-<p>我觉得他们挺可爱的，我很喜欢微博的朋友。他们每个人都很不一样，有些像你一样喊我“张老师”，还有一些喊我“宝华姐”。叫我“宝华姐”的人比较多，其实从小身边的朋友都喊我“宝姐姐”，我的感觉很好。他们有的在读大学，有的刚毕业，所以我肯定是他们的大姐姐，大他们很多岁。我对他们一点也不觉得烦。</p>
-<p>宝华姐来到成都和蛤丝见面，现场蛤意盎然，蛤友们神魂颠倒，坐卧难安，大家都很excited！</p>
-<p>来源： 蛤友谭缘一线消息 1980青年学社</p>
-<p>其他网友详细<a href="http://mp.weixin.qq.com/s?__biz=MzIxODEwMjA2MQ%3D%3D&from=groupmessage&idx=1&isappinstalled=0&mid=401658759&scene=1&sn=df8d9c6684722a19c1f5401915f52618&srcid=0113Tvvzepnh7kLp9RDy6GKM" target="_blank">现场记录</a>     来源： 一个赛艇</p>
-<p><strong>以下来自现场网友 @deidei 的记录：<br></strong></p>
-<p>非常有意思的一次见面会，膜蛤膜到线下也是醉了，成都此站可谓第一届蛤丝大会，有种既轻松又正式的感觉，毕竟还有人专门带来了基本法，甚至还有人从昆明专程飞机赶来。因为张宝华本人的高亲和力，与网友积极的互动，使得蛤丝这个偏小众的亚文化群体有了一次难得的线下聚集契机（毕竟不可能由蛤蛤组织）。</p>
-<p>也许是和上班时间冲突，张宝华现场调查的时候，可以看到绝大多数在场者都是90后的大学生，男生占据九成以上的比例，现场粗略观察仅有3、4名女生。</p>
-<p>张宝华在谈话中并没有聊到太多的政治议题，而是以“长者身份”向在座各位年轻人提出人生建议：在适合的年龄段多拍拖、注意锻炼强健的体魄（例如自己坚持长跑）、要耐得住人生的各种艰难挑战。</p>
-<p>有媒体人士向张宝华提问：觉得自己工作特别没有成就感，整日被束缚手脚，该如何对待？张宝华回答说改变环境很艰难，可以尝试先不被改变和对环境有限改变，她以自己马拉松竞赛体验为例，也许现在身处一个体力瓶颈期，自觉无法继续，但一心要跑完全程就必须坚持。</p>
-<p>有网友问16年前面对长者的心态是什么？张宝华回答说当时年轻，自己只是想尽到自己的责任，但是自己从来没有想过过去这么多年了，还会有那么多人记得她。又有网友追问现在做记者还有没有勇气提问最高领导人，张宝华坦言这个不是勇气的问题，而是责任的问题，很多时候你需要这么做。</p>
-<p>还有现场网友询问张宝华，“蛤丝现象”得到了海内外时政中文群体的关注，成为一种不那么容易解释的现象级的政治文化现象，不同人对此的解读差异甚大，不知道张个人怎么看待？怎么解读？被迫圈入这种“膜蛤现象”的张有没有觉得困扰？张宝华并没有回答第一个问题，只是表示自己没有收到膜蛤的困扰，反而觉得自己能在陌生的城市召集到这么多的朋友而感到高兴。</p>
-<p>一点自己的观察：蛤丝聚会从源头上讲应该算是有政治属性的圈子聚会，但是由于它独特的幽默属性，使得这样形态的线下聚会可以很大的消解敏感风险，但反过来也会消解它时政讨论的空间和严肃氛围，当然这一方面也和张宝华个人的主持和答问风格有关，总之这一次的聚会更多的像是一个轻松友好的粉丝见面会。蛤丝群体的复杂化也在这次聚会中得到体现，和很多媒体所结论的蛤丝约等于政治反对派、不满现实人士、热心时政人群不完全相同，从关注和讨论的内容可以看到，相当多的现场蛤丝其实并不政治感冒，他们更多的只是觉得“膜蛤”有趣而已，好玩且很酷，一个亚文化群体的不同个体中可能有一些东西是相似的，但也存在有一些东西是截然不同的。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%85%A8%E7%90%83%E9%A6%96%E5%B1%8A%E8%9B%A4%E4%B8%9D%E5%A4%A7%E4%BC%9A%E6%88%90%E9%83%BD%E4%B8%BE%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E7%90%83%E9%A6%96%E5%B1%8A%E8%9B%A4%E4%B8%9D%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">全球首届蛤丝大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%AE%9D%E5%8D%8E/?category=18271" rel="tag">张宝华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9E%E7%AC%91/?category=18271" rel="tag">搞笑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%B6/?category=18271" rel="tag">政治家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%96%84%E7%A0%81/?category=18271" rel="tag">黄薄码</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C90%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%80%83%E6%8B%89%E6%B6%89%E9%A2%A0/" target="cdt-mirror">自由亚洲｜“90后” 中国最年轻政治犯考拉涉“颠覆”被捕</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/CYebYE4UsAMp-Fp.jpg" rel="attachment wp-att-425182"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CYebYE4UsAMp-Fp.jpg" alt="CYebYE4UsAMp-Fp" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CYebYE4UsAMp-Fp-233x300.jpg 233w, http://chinadigitaltimes.net/chinese/files/2016/01/CYebYE4UsAMp-Fp.jpg 599w" sizes="(max-width: 599px) 100vw, 599px"></a><br><em>（考拉；图片来自Twitter）</em></p>
-<p>近日，多名去年7月被捕的中国维权律师及维权人士被当局批捕，其中维权律师李和平的助理、年仅24岁的“考拉”，也被控“颠覆国家政权罪”。其代理律师称，“考拉”是目前中国最年轻的政治犯，曾参与为各地冤假错案申诉的“平冤大篷车”运动。</p>
-<p>中国维权律师关注组1月11日公布多个在“709大抓捕”行动中被失踪的人权律师遭批捕的消息，其中人权律师李和平的助手、24岁的“考拉”因涉嫌“颠覆国家政权罪”被正式逮捕。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/CYbuYPdUoAAONYb.jpg" rel="attachment wp-att-425186"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CYbuYPdUoAAONYb.jpg" alt="CYbuYPdUoAAONYb" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CYbuYPdUoAAONYb-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/CYbuYPdUoAAONYb-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/CYbuYPdUoAAONYb-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/CYbuYPdUoAAONYb-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/CYbuYPdUoAAONYb.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><em>（考拉因“颠覆国家政权”罪被正式逮捕，目前关押在天津市第一看守所；图片来自Twitter）</em></p>
-<p>考拉的代理律师任全牛告诉本台，李和平可能是“709抓捕律师事件”中被当局重点锁定打击的目标之一，考拉可能也因此被认为是敏感人物：“我猜和李和平有关，她是李和平的助理，当局觉得他敏感，认为她起到了煽动的作用，现在没有太多资料来源。”</p>
-<p>记者：“说考拉是全中国最年轻的煽动颠覆国家政权犯？”</p>
-<p>任全牛：“对，有名有姓的逮捕的人里她是最年轻的。她1991年出生，2013年大学毕业，2015年被抓。她参加工作的时间很短，到李和平这也不是一毕业就来，时间也特别短。我所知道的就是她参与洗冤大篷车，到各地去办冤假错案和申诉，有一些公民围观，在网上揭露等等。”</p>
-<p>考拉原名赵威，2013年毕业于江西师范大学新闻专业。2014年任李和平的行政助理，从事法律维权工作，曾参加过“平冤大篷车”、“江西高院门口捍卫律师阅卷权”等维权活动。她和江西维权人士刘萍的女儿廖敏月曾经在日本NHK电视台作为中国抗争新世代的代表接受采访发言，去年7月11日被北京警方从家中带走。</p>
-<p>任全牛认为，考拉是“90后”沉默的大多数人中为数不多的积极争取社会变革的先锋人物，但相信当局一定会抹黑她。</p>
-<p>任全牛：“当局进一步的宣传的话，肯定会用恶意去宣传，对其他不明就里的人来说，是个震慑。她的家人很支持她的选择，她父母认为孩子做这个事情是不违法的。4、5号的时候我去要求会见，给的答覆是不允许会见，毕竟是已经到看守所了，估计看守所也是那句话，需要办案单位批准。”</p>
-<p>为考拉四处呼吁的丈夫游明磊接受本台采访时称，妻子目前关在天津市第一看守所，律师、家人均不能会见，感到彷徨无助。</p>
-<p>游明磊：“说颠覆国家政权罪跟境外组织有牵连，就给她安了这个罪名，之前她是煽动颠覆国家政权罪，这次过来我知道她出不来了。目前也没有别的什么办法，只能由律师介入。这种罪名短时间内律师都不能会见，也是没有别的什么办法，一直以来也会见不了，存钱、送衣服都不行。之前对他监视居住，之后半年关在哪儿都不知道。现在通知书出来了，才知道是在第二看守所，之前我们都以为她在河西区看守所。”</p>
-<p>在上周中国“709维权律师大抓捕”事件半周年时，全球有106个民间团体共同签署了联合声明，呼吁国际社会持续关注大抓捕事件，要求中国政府立即释放38名被违法扣押的维权律师及公民。</p>
-<p>根据香港的“中国维权律师关注组”的最新数据显示，目前至少316名律师、律所人员、人权捍卫者和家属被约谈、传唤、限制出境、软禁、监视居住、刑事拘留、逮捕或失踪。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C90%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%80%83%E6%8B%89%E6%B6%89%E9%A2%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -787,7 +761,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -797,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

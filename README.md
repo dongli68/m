@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,93 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%AB%AF1%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8D%A0%E6%9C%89%E6%80%BB%E4%B8%89%E6%88%90%E4%BB%A5%E4%B8%8A%E8%B4%A2%E4%BA%A7/" target="cdt-mirror">第一财经 | 中国顶端1%的家庭占有总三成以上财产</a>
+</h2>
+<p><p>中国目前的收入和财产不平等状况正在日趋严重。顶端1%的家庭占有全国约三分之一的财产，底端25%的家庭拥有的财产总量仅在1%左右。此外，从教育机会到医疗保障，中国社会的不平等现象整体呈现扩大趋势。日前公布的《中国民生发展报告2015》在深入调研的基础上作出了上述判断。</p>
+<p>《中国民生发展报告》丛书是基于北京大学中国家庭追踪调查(China Family Panel Studies, CFPS)撰写的系列专题报告，以全国25个省市160个区县的14960个家庭为基线样本，探讨民生问题状况、差异、原因和社会机制。</p>
+<p>《中国民生发展报告2015》显示，中国目前的收入和财产不平等状况正在日趋严重。近30年来，中国居民收入基尼系数从80年代初的0.3左右上升到现在的0.45以上。而据CFPS2012资料估算，2012年，全国居民收入基尼系数约为0.49，大大超出0.4的警戒线。财产不平等的程度更加严重。估算结果显示，中国家庭财产基尼系数从1995年的0.45扩大到2012年的0.73。顶端1%的家庭占有全国约三分之一的财产，底端25%的家庭拥有的财产总量仅在1%左右。</p>
+<p>除了收入和财产上的不平等之外，不同人群在教育机会、健康保障等方面的差异也非常明显。</p>
+<p>以教育为例，“只要努力就一定能考上大学”，这样励志的话语正在越来失去说服力。教育这项重要的公共服务存在巨大的城乡差距、东中西区域差距和性别差距。尤其是城乡差距十分显著。《中国民生发展报告2015》显示，60年代出生的人群教育不平等程度最低，此后不平等程度不断上升，80年代出生的人群教育不平等程度达到历史最高。户口、父母的教育水平、党员身份、出生所在省份等一系列并非通过个体努力可以改变的因素对教育资源获得的影响份额在过去三十年有所上升。这表明未来相关公共政策应该着力于减少劣势境况对人力资本发展的负面影响，使社会成员获得平等的教育机会。</p>
+<p>在医疗保障上，本应起到减小收入差距作用的社保体系反而起到逆向调节的作用。《中国民生发展报告2015》主要负责人、北京大学教授李建新的研究表明，健康状况更差的个体往往更加缺乏医疗保障资源，面临更大的就医压力。从收入上看，高收入人群享有更多的医疗补贴，医疗补贴不成比例的补贴给了富裕人群而不是穷人。</p>
+<p>在性别方面，女性往往受教育水平更低，工作和收入更差，相应健康水平也比男性更差。女性更容易有抑郁倾向，自报慢性病的比例更高。但是，在决定个体就医机会的医疗保障方面，女性拥有医疗保险的比例却低于男性，在看病时自己负担的医疗费用比例更高。</p>
+<p>城乡居民也存在巨大的健康和医疗不平等。农村居民的抑郁水平更高，其慢性病类型主要为高血压、呼吸系统疾病和胃肠炎，而后两者主要由落后的生活条件和医疗卫生服务导致。农村居民的新农合医保虽然覆盖率高于城市，但是保障力度明显低于城市，因而，农村居民的自付比例仍然高于城市。<br>
+李建新等人在《报告》中阐述，上述不均等现象无论从社会结构、社会阶层视角，还是跨城乡、跨地区的视角去度量，都显现出扩大的趋势。这些问题亟需得到有效解决，否则很有可能威胁到社会的稳定，进而成为未来社会发展的瓶颈。</p>
+<p>除此之外，《中国民生发展报告2015》还考察婚姻和家庭在转型社会的极速变迁，包括夫妻间财产分配、子代对年长父母的社会支持、流动人口对家庭的支持和担当等问题。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%AB%AF1%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8D%A0%E6%9C%89%E6%80%BB%E4%B8%89%E6%88%90%E4%BB%A5%E4%B8%8A%E8%B4%A2%E4%BA%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C/?category=18271" rel="tag">，</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0/?category=18271" rel="tag">基尼系数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">收入不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%8D%E5%85%AC/?category=18271" rel="tag">社会不公</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">贫富差距</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%82%B2%E5%89%A7/" target="cdt-mirror">大象公会｜一个理想社会的悲剧</a>
+</h2>
+<p><p><strong>这是一个寄托了美国黑人的理想和善意，全套照搬了美国制度蓝本设计的理想国家，但它逐渐变形走样，最终迎来了吞噬整个社会的大洪水。</strong></p>
+<p><em>文｜韩高宗</em></p>
+<p>很多年以后的 1980 年 4 月 22 日，当利比里亚政府的部长们面对行刑队，也许会想起 10 年前，他们的托尔伯特总统刚接班时，满口改革、大搞反腐的样子。</p>
+<p>他们可能还会想到，在这个权贵家族坐拥财富、平民百姓被百般榨取的不幸国家，反腐运动也曾一度受到过平民的支持。但随着国内经济日渐受挫，民怨反而沸腾起来。政府采取了一系列措施想改善经济状况，统统无济于事。</p>
+<p>当然，此时的部长们多半只剩下了恐惧。托尔伯特总统已于 10 天前遭遇不测，在自己的卧室里被政变军人肢解；总统的儿子被抓上军用飞机，起飞后再从高处推下来摔死；现在他们自己也被绑在海边的电线杆上，眼前是围观群众、醉醺醺的行刑队和摄像机——全国观众们将很快在电视直播中看到他们被乱枪扫射的惨状。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A01.jpg" rel="attachment wp-att-425337"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A01.jpg" alt="利比里亚01" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚01-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚01.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<h2><span><strong>一个国家的诞生</strong></span></h2>
+<p>非洲政治向来以古怪、野蛮著称。各种重大变故和人为灾难如果发生在其他地方，多半会导致世界哗然，甚至触发外国干涉。而在非洲这个屠杀几十万人才能被好莱坞拍电影、童兵被砍手砍脚也上不了几天新闻的神秘大陆，类似的事件常常不足为奇。</p>
+<p>但利比里亚和其他的非洲国家有所不同。它是非洲的第一个共和国，从最初萌芽就背负着美国人的善意和希望，早在 19 世纪 40 年代就建立了美国式的共和政体，连 Liberia 这个地名，都是美国朋友依照拉丁文“自由”（liber）命名的。一直到今天，该国酷似美国星条旗的国旗，还会在奥运会上给各国观众留下深刻的印象。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A02.png" rel="attachment wp-att-425338"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A02.png" alt="利比里亚02" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚02-300x158.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚02.png 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>19 世纪上半叶，随着美国国内废奴运动的兴起，其中的主流政要认为，若将黑人送返“非洲家园”，则既能缓解黑奴的苦难，又能缓解美国国内的政治冲突，可谓一举两得。</p>
+<p>在这种思路的指导下，废奴派成立了“美国殖民协会”等一系列“殖民协会”，旨在将赎身黑奴、自由黑人和在贩奴船上查扣的黑奴都送回非洲。1822 年，来自美国的黑人移民第一次抵达西非的蒙罗维亚，开始在未来的利比里亚定居，在废奴派的资助下开始新的生活。</p>
+<p>这个由美国黑人组成的社群，就这样在西非慢慢发展起来，慢慢不再依赖“美国好人”的帮助。他们先是成立了“利比里亚联邦”，然后于 1847 年正式独立建国，颁布了照搬自美国的宪法和《独立宣言》，还通过美国式的选举推出了一位黑人总统，从此以“黑美国”的形象矗立于非洲大地。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A03.jpg" rel="attachment wp-att-425339"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A03.jpg" alt="利比里亚03" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚03-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚03.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍1867 年美国殖民协会登记点，准备前往利比里亚的美国黑人</strong></span></p>
+<p>不幸的是，虽然利比里亚体制完全照搬自美国，总统制、三权分立、选举制甚至共济会都一应俱全，但利比里亚的民主之路才刚起步就已夭折。建国才二十几年，利比里亚的两大党——前美裔自由黑人组成的共和党与前美裔黑奴组成的辉格党——之间的斗争就已经没什么美国味儿了。</p>
+<p>1871 年，共和党在国会成功弹劾辉格党总统爱德华·罗伊，不料总统竟赖着不走，拒绝下野。结果共和党发动政变，判处罗伊总统死刑，绞刑执行前夜，罗伊总统又离奇死亡，据说是被共和党人扒光衣服游街后活活打死的；但也有说法指出，他是企图游到海中的英军军舰逃亡，结果身上带的跑路经费太多，活活被钱坠下去淹死了。</p>
+<h2><span><strong>黑美国的黑历史</strong></span></h2>
+<p>此时的利比里亚政坛的风貌虽然已经很像 20 世纪非洲了，但至少还是一个货真价实的两党制国家。等到几年后的 1878 年，由辉格党更名而来的真辉格党人安东尼·加纳德当选总统后，该党就干脆不再下过台了——非洲第一个一党独大的国家由此诞生，一直到一百年后电线杆子上的部长们惨遭扫射时才告灭亡。</p>
+<p>美式选举制逐渐变成了走过场，虽然反对党仍然可以存在，但每次大选都会搞成做票的假选举，最后上台的人选总不令人意外。在 1927 年的大选中，全国共有登记选民 1.5 万人，结果竟有 24.3 万张选票投给了真辉格党总统查尔斯·金，终于被吉尼斯世界纪录定为“全世界最假的选举“。</p>
+<p>选举如此，体制其他部件的运行情况可想而知。国会成了摆设，政策和法律都由真辉格党的“执行委员会”自行制定；行政官、议员、法官都出自寡头家族，对美裔黑人——他们理论上的“选民”——行使酋长式生杀予夺的权力；就连真辉格党的总统和议员候选人以及执委会委员，都是由各个寡头家族敲定的，而不是像美国那样产生自各级党代会。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A04.jpg" rel="attachment wp-att-425340"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A04.jpg" alt="利比里亚04" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚04-300x297.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚04.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍利比里亚土著贫民望着远处的飞机</strong></span></p>
+<p>尤为神奇的是，利比里亚还根据美国“总统不能履职时副总统接班”的规定，发明了一套独裁权力交接的手法——独裁大总统把接班人定为副总统，到规定时候便宣布下台（或者遭到逼宫），顺利交棒。这一击鼓传花的游戏常年不衰，成为了利比里亚政治制度的标准形象。</p>
+<p>在利比里亚的全面非洲化进程中，就连该国的共济会都失去了美国特色，转而向非洲土著的秘密会社靠拢，崇拜西非土产的山精、水怪、湖灵、树妖和祖先灵魂。共济会也与专制政权关系紧密，到了“要有体面工作先进真辉格党，要入党先混共济会”的地步。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A05.jpg" rel="attachment wp-att-425341"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A05.jpg" alt="利比里亚05" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚05-239x300.jpg 239w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚05.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍精灵崇拜是西方宗教利比里亚本土化的表征，图为<strong>土著宗教</strong>“波罗秘社”的“树妖迎宾”仪式</strong></span></p>
+<p>利比里亚还向其领土上的非洲土著黑人下手，突然要求课税，交不起税的就要给政府做无限期的无偿劳工，很多方面与奴隶无异。有些劳工甚至连税都没逃，完全是被政府绑架来的。政府甚至把劳工出口到西属西非的可可种植园里，所有工钱都被政府吞掉。</p>
+<p>1927 年，无偿劳工的惨状终于引发西方关注——一个在美国被奴役过的黑人社群，回老家后竟然奴役起本地的黑人兄弟来了，这样的情景着实令人瞠目。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A06.jpg" rel="attachment wp-att-425342"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A06.jpg" alt="利比里亚06" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚06-300x216.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚06.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍1927 年利比里亚奴隶危机时，查尔斯·金总统访问国联总部斡旋</strong></span></p>
+<p>1930 年，国联派出的调查团发布报告，宣称利比里亚是一个“1.5 万公民凌驾于百万子民”的国家，简直就是一个国家级的奴隶庄园，建议国联不要将利比里亚视为主权国家，应直接占领并接管。刚在“世界上最假的选举”中就职没几年的查尔斯·金总统及其副总统被迫辞职。</p>
+<h2><span><strong>改革年代的政治斗争</strong></span></h2>
+<p>1944 年，威廉·杜博曼就任总统，正式开启了利比里亚的改革年代。他推行了“门户开放”的经济政策，向国外投资者提供较为宽松的投资环境；他宣布“国族统一”，不再将国民分成美裔黑人和本地黑人，将利比里亚人视为统一的民族；他还扩大了投票权的范围，不分性别和国族的 21 岁以上平民只要交房产税——税制的合理性另当别论——都可以在选举中投票。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A07.jpg" rel="attachment wp-att-425343"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A07.jpg" alt="利比里亚07" width="502" height="380" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚07-300x227.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚07.jpg 502w" sizes="(max-width: 502px) 100vw, 502px"></a><br><span><strong>▍杜博曼总统被子民抬下船</strong></span></p>
+<p>杜博曼的改革带来了货真价实的繁荣，美、德、瑞典的橡胶业、铁矿业和伐木业公司纷纷来投资办厂。从 1954 年到 1960 年，利比里亚的年经济增长率高达 15%，仅次于同时代的日本。首都的人口在 30 年里翻了 10 倍，初等教育普及率在 10 年内翻了 3.6 倍，其发展速度令人叹为观止。</p>
+<p>但与此同时，利比里亚的经济奇迹也被美国经济学界指责为“没有发展的增长”。经济发展的好处都被体制内的“自己人”瓜分，真正的民间私营经济并不自由，完全处在“联合经贸委员会”与“经济事务部”的管控之下。</p>
+<p>杜博曼的族群改革也并没有消除社会的分化，而是把族群的分化变成了“体制内与体制外”的分化。曾经独享投票权的美裔黑人如果不混体制内，也会沦为失业人士；而曾经被奴役的本土黑人，只要能和真辉格党搭上线，也可以成为上层阶级——1966 年杜博曼总统就曾大手一挥，让他的土著家仆回乡当上了酋长。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A08.jpg" rel="attachment wp-att-425344"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A08.jpg" alt="利比里亚08" width="475" height="491" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚08-290x300.jpg 290w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚08.jpg 640w" sizes="(max-width: 475px) 100vw, 475px"></a><br><span><strong>▍1952 年总统连任典礼，穿土著服装出席的上流人士</strong></span></p>
+<p>而且，虽然杜博曼总统在经济和社会层面的改革称得上是大手笔，但政治体制改革仍然裹足不前，因而利比里亚政坛的景观并无改观。1955 年，前内务部长、前司法部长等政要在大选中支持反对党候选人，结果政要们纷纷被捕，反对党也被取缔，前内务部长父子出逃时直接遭到射杀。</p>
+<p>杜博曼总统还授意议会修改宪法，废止“两届八年”的美国式总统任期限制，他本人便成功连任到去世。为了保证权力，他多次以阴谋政变的罪名打击党内寡头，比之前所有总统加起来还多，罗织罪名千奇百怪，甚至包括“雇佣尼日利亚巫师诅咒总统”。</p>
+<p>秘密警察制度和群众举报网络也在这一时期出现。1963 年多哥政变后，一名利比里亚军队上校私下开玩笑说：两百五十个多个多哥士兵就能杀死总统，我军可有五千人编制，简直能做出不可思议的奇迹啊……结果自然被逮捕下狱。</p>
+<p>在宣传战线上，杜博曼总统的表现也完全不像在经济领域般开明——他是利比里亚人民的大先知、超级酋长和大神巫，决策永远英明，地位永远伟大。如果有人公开批评杜博曼总统，那一定是像总统语录中说的那样：出生时不喝母乳喝牛奶，长大了就蠢得像母牛一样。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A09.jpg" rel="attachment wp-att-425345"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A09.jpg" alt="利比里亚09" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚09-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚09.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍杜博曼总统身穿土著服装在<strong>真辉格党大会发表讲话</strong>，在其身后副总统托尔伯特着<strong>西装</strong>出席</strong></span></p>
+<h2><span><strong>共和国的末日</strong></span></h2>
+<p>1971 年，杜博曼总统心脏病发去世，实现了“死也要死在任上”的理想。副总统威廉·托尔伯特继位，随即开始大刀阔斧的亲民改革。</p>
+<p>首先，托尔伯特总统严厉打击腐败，坚决要求各级领导干部严守法律和党纪，否则便予以严惩，绝不手软。他首先对公检法领域开刀，以挪用公款的罪名拿下了两名秘密警察首脑；他还在首都微服私访，在教育部发现部长上班迟到便将其开除。他变卖了前任的总统游艇，把总统专车从“卡迪拉克”换成“大众”。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A10.jpg" rel="attachment wp-att-425346"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A10.jpg" alt="利比里亚10" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚10-300x193.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚10.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍反腐改革没有削弱官方强调“总统崇拜”，即使一个化工厂的路标牌上也得写着“我们感谢总统”</strong></span></p>
+<p>托尔伯特总统的反腐决心虽然有目共睹，也受到了平民阶层的一定拥护，但由于下台入狱的都被认为是总统家族的政敌，反腐运动在世人眼中的成色也不免打了折扣。</p>
+<p>更要命的是，总统家族本身也不干净——自托尔伯特上台，他的家族便控制了汽车和大米的进口，哥哥当了参议院议长，弟弟当了财政部长，女婿当了国防部长，弟弟的岳父当了最高法院的大法官，女儿当了教育部副部长，垄断了全国教科书的销售。他那位后来被从飞机上推下来摔死的儿子则是全国工会主席、最大的勒索犯，还是国内唯一的外交护照经销商。</p>
+<p>反腐运动期间，由于国际环境的变化，利比里亚经济受挫，物价飞涨。托尔伯特政府被迫强调“自主发展”、“自力更生”、“团结时刻”、“更高的制高点”、“从草席到床垫”等正能量主张，还推出了一连串“四年发展计划”，但还是不能改善恶劣的经济形势。</p>
+<p>时间很快到了 1979 年，为了本国主持的“非洲统一组织”年会，利比里亚政府斥资过亿美元在首都修建豪奢会展中心。1979 年 4 月，为了“促使粮食自给、激励进城打工的农民工回乡种田”，托尔伯特政府宣布提高大米专卖价格，结果首都的大学生和贫民上街游行示威，抗议政府亏空国库压榨民生。托尔伯特总统下令军队开枪镇压，遭到拒绝。最后，总统竟从几内亚借来军队，和本国警察一起镇压了示威。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A11.jpg" rel="attachment wp-att-425347"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A11.jpg" alt="利比里亚11" width="500" height="335" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚11-300x201.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚11.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a><br><span><strong>▍<strong>1979 年利比里亚首都大学生和贫民上街游行遭镇压，警察当街射杀过百示威者</strong></strong></span></p>
+<p>事情当然不可能就此结束。街头流血和军管政治的先例一开，军中自然会涌现出有志者步武前贤。</p>
+<p>一年后的 1980 年 4 月 12 日，本文开头的场面终于发生了——托尔伯特总统被肢解在卧室里，儿子被从飞行中的飞机上扔下来，全国观众看着喝醉的行刑队举起枪支，用电线杆上的诸位部长练习打靶。</p>
+<p>而真辉格党的一党统治崩溃后，利比里亚也并没能走上民主自由的光明大道，而且很快就将迎来吞噬整个社会的大洪水——政变上台的多尔政府还能依靠冷战站队来获取美国援助，到 90 年代冷战结束后便彻底崩溃，利比里亚开始了近二十年的内战，成为了国际新闻版编辑们熟知的利比里亚——那个由剁肢刑、童兵、“血钻”和在镜头前挥舞步枪的武人独夫组成的利比里亚。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A12.jpg" rel="attachment wp-att-425348"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A12.jpg" alt="利比里亚12" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚12-254x300.jpg 254w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚12.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" rel="attachment wp-att-419061"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" alt="大象工会" width="550" height="199" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/大象工会-300x108.png 300w, http://chinadigitaltimes.net/chinese/files/2015/11/大象工会.png 640w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%82%B2%E5%89%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A/?category=18271" rel="tag">利比里亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">非洲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%AF%E6%97%B6%E8%AF%847%E5%BE%8B%E5%B8%88%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95%E6%9C%BA%E5%85%B3%E8%AE%B2%E6%B3%95%E5%BE%8B%E8%AE%A4%E8%AF%81%E6%8D%AE-%E6%B5%A6%E5%BF%97/" target="cdt-mirror">【异闻观止】单仁平：“7律师”犯罪否，惟法院说了算</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929.jpg" rel="attachment wp-att-425373"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929.jpg" alt="1CBK-fxnqrkc6376929" width="468" height="439" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929-300x281.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929.jpg 468w" sizes="(max-width: 468px) 100vw, 468px"></a></p>
@@ -294,7 +378,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%AE%81/?category=18271" rel="tag">南宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E4%BA%BA/?category=18271" rel="tag">新疆人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%EF%BD%9C%E6%B3%95%E5%AE%98%E8%AA%93%E8%AF%8D%E4%B8%8D%E5%90%AB%E5%BF%A0%E4%BA%8E%E5%85%9A-%E5%BE%8B%E5%B8%88%E5%AE%98%E6%96%B9%E5%81%9A/" target="cdt-mirror">美国之音 ｜法官誓词不含”忠于党” 律师:官方做法自相矛盾</a>
 </h2>
@@ -666,167 +750,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%AC%A7%E9%98%B3%E5%8D%97%E5%B1%B1%EF%BC%9A%E5%AE%9D%E8%B4%B5%E7%9A%84%E5%8F%8D%E5%AF%B9%E5%A3%B0%E9%9F%B3/" target="cdt-mirror">博谈网｜欧阳南山：宝贵的反对声音</a>
-</h2>
-<p><p>随着1月16日的临近，中华历史上第一位民选女总统极有可能产生，如果不出意外的话。</p>
-<p><a href="http://chinadigitaltimes.net/space/%E6%B0%91%E8%BF%9B%E5%85%9A" target="_blank">民进党</a>击败国民党，重获执政地位。我不只是看做民进党或<a href="http://chinadigitaltimes.net/space/%E8%94%A1%E8%8B%B1%E6%96%87" target="_blank">蔡英文</a>个人的胜利，我倒是乐见其成的祝贺台湾政坛上反对者取胜。</p>
-<p>当年<a href="http://chinadigitaltimes.net/space/%E9%99%88%E6%B0%B4%E6%89%81" target="_blank">陈水扁</a>贪腐入狱，民进党在台湾的地位岌岌可危。眼看民进党大势已去，几近遭遇灭顶之灾。然而此刻，台湾人民站了出来，义无反顾的对民进党施以援手，他们的逻辑简单得惊人——台湾不能没有反对声音！台湾不允许一党独大！</p>
-<p>正是因为台湾人这一理念，加之国民党<a href="http://chinadigitaltimes.net/space/%E9%99%88%E6%B0%B4%E6%89%81" target="_blank">马英九</a>执政数年的种种失误，使得台湾政坛国民两党发生戏剧性的逆转——民进党主席蔡英文即将执掌台湾政权！</p>
-<p>面对这一情况，我不想过多的为民进党大唱赞歌——任何对台上风光的执政者歌功颂德都毫无益处。我只想探究，在一个健康的政治社会里，反对声音对于国家和民众来说，是多么重要。</p>
-<p>回顾中国几千年历史，春秋战国时代，百花齐放，多种思想同时并存，多种声音齐齐发出，催生出诸子百家繁荣一时的局面。可惜的是，秦皇统一后，焚书坑儒，再加汉朝的尊孔，废黜百家，定于一尊。至此，中国人再也没有创造力与活力，上上下下，除了孔孟之道，难有其他。</p>
-<p>学术上如此，政治上更是如此。普天之下莫非王土，国土属于帝王，连同思想也统统悉数归在帝王麾下，容不得任何反对声音。率土之滨，莫非王臣。君为臣纲，父为子纲，偌大一个国家，朕就是天，朕就是法，谁要是胆敢对朕说三道四，出言不逊，定是死路一条，甚至株连九族也未可知。</p>
-<p>长此以往，君王言行至高无上，无人敢于撼动君王独享的一言九鼎地位。哪怕再荒淫无度，再暴虐残忍，帝王们都能够为所欲为，如入无人之境，顶多就是暴政之后迅速垮台改朝换代，比如秦二世，比如隋炀帝。即便如此，历朝历代的帝王们依然津津乐道于绝对的唯我独尊，绝对不允许除了帝王之外有不同的反对声音。</p>
-<p>当然，绝对之中也有局部的相对，那就是名噪一时的唐太宗之魏征之间的佳话，曾经为世人津津乐道，念念有兹。唐太宗曾经有过名言，谓之：“以铜为镜，可以正衣冠；以古为镜，可以知兴替；以人为镜，可以明得失…”应该说，中国古代历史上，唐太宗是少有的多少能够容忍部分反对声音的君王。也因为这一点，大约才成就了唐王朝难得的盛世。</p>
-<p>显而易见的是，唐太宗一个人的偶尔“兼听则明，偏信则暗”绝对改变不了数千年封建王朝的制度痼疾——不允许有与帝王不同乃至反对声音。这种态势延续到所谓的大清盛世，没有丝毫收敛，反倒是愈演愈烈，遂有了大兴文字狱之风，对各种民间反对声音彻底打压禁锢。</p>
-<p>非常遗憾的是，1911年据说是推翻千年帝制的伟大革命，使得帝王高高在上的情况不再，共和了，任何复辟倒退的情形都在全国人民共诛之范围，比如张勋复辟，比如<a href="http://chinadigitaltimes.net/space/%E8%A2%81%E4%B8%96%E5%87%AF" target="_blank">袁世凯</a>称帝，都在唾骂声中灰飞烟灭。但是，这一切仿佛都只是昙花一现，如同时光倒流，距离1911年辛亥革命38年后的中国，居然又莫名其妙再度回到君临天下的年代。</p>
-<p>虽然换了一身红色马甲，虽然字典里不再有帝王二字，但从镇反肃反到反右，再到大跃进，大饥荒，以及十年文革，可曾容忍过不同声音存在？可曾有过反对声音出现？纵然是开国元勋彭德怀万言书的反对声音，一样打压不商量！至于林昭、张志新等无名小卒，想要发出反对声，那更是投入大牢，极尽凌辱至命毙！</p>
-<p>仰天长叹！百年反帝成果，竟在1949年的分水岭后成为绝响一般了无声息！</p>
-<p>没有了反对声音，一切都在一个伟大领袖的旨意中大行其道，哪怕是脱缰的野马一般狂奔呼啸，也没有任何人能够加以阻挡。数千万生命顷刻间化为一缕轻烟，数千年文化毁于一旦。真是个史无前例，空前绝后！</p>
-<p>痛定思痛，人们如梦方醒，始知反对声音有多么重要，始知没有黄袍加身的帝王危害更甚！于是有了上上下下的反思，有了种种限制权力的开始，有了对文明世界的向往。</p>
-<p>然而，头痛医头，脚痛医脚的诊断与治疗有何疗效？</p>
-<p>如同不长记性，旧的伤疤尚未结痂，新的利刃又翩然而至。从清理精神污染，反对资产阶级自由化到无端褫夺合法总书记权位，再到广场上冤魂无数，反对声音依然绝不允许。与党中央在思想上保持高度一致，成为民众耳熟能详的政治术语和行为准则。演化至今，不许妄议中央又改头换面冠冕堂皇出世……</p>
-<p>反观台湾，也曾经有过<a href="http://chinadigitaltimes.net/space/%E4%BA%8C%E4%BA%8C%E5%85%AB" target="_blank">二二八</a>，也有过<a href="http://chinadigitaltimes.net/space/%E7%BE%8E%E4%B8%BD%E5%B2%9B%E4%BA%8B%E4%BB%B6" target="_blank">美丽岛事件</a>，也有过<a href="http://chinadigitaltimes.net/space/%E6%B1%9F%E5%8D%97%E5%91%BD%E6%A1%88" target="_blank">江南命案</a>。但是，自从经国先生放开党禁报禁，反对声音不再遭到无情打压，而是光明正大走到台前。至此，台湾没有了声音一律，没有思想一致。而重大的反对声音，莫过于反对党民进党的出世，从此，曾经的蒋家王朝不再，曾经的国民党一党专政不再。</p>
-<p>在台湾，健康社会已然成型。反对声音既不是民进党的专利，也不是国民党甘愿放弃的权利。两党博弈，相互监督制衡，百姓们渔翁得利，乃是现代文明社会的福音。</p>
-<p>在台湾，因为有了反对声音的存在，国民党也好，民进党也罢，都没有了天然的垄断话语的特权，都不能为非作歹胡乱作为。哪怕民众一时看走眼，出现陈水扁贪腐分子，一样让他入狱不商量！同样，即使马英九再清廉，欲使台湾变香港，更要遭到台湾民众的无情抛弃！</p>
-<p>在台湾，有了反对声音的运作机制，国民党不重要，民进党也不重要。重要的是绝不允许一个人说了算！绝不允许一个党说了算！重要的是不论何时何地，都必须坚定不移的保护反对声音的一席之地！</p>
-<p>反对声音，对于一个健康的文明社会而言，犹如阳光和空气，一刻也不能离弃。</p>
-<p>1月16号，让我们见证台湾反对声音的胜利，让我们为台湾有反对声音而祝福！</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%AC%A7%E9%98%B3%E5%8D%97%E5%B1%B1%EF%BC%9A%E5%AE%9D%E8%B4%B5%E7%9A%84%E5%8F%8D%E5%AF%B9%E5%A3%B0%E9%9F%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E6%B4%BE/?category=18271" rel="tag">反对派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BC%9A%E8%81%8A%E8%81%8A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E8%B5%B0%E7%BA%A2%E7%BD%91%E7%BB%9C%E7%9A%84%E9%87%8D%E8%A6%81%E6%84%8F%E4%B9%89/" target="cdt-mirror">编程随想：聊聊“赵家人”走红网络的重要意义</a>
-</h2>
-<p><p>近期“赵家人”一词闪电般串红，朝廷方面已经开始封杀相关的词汇。朝廷越是封杀，就越值得俺来聊一下。</p>
-<p>★“赵家人”一词走红的传播学特征<br>
-先来聊聊相关的传播学特征。<br>
-（郑重声明：俺对“传播学”也仅仅是略知一二，在此班门弄斧，大伙儿别见笑哦）</p>
-<p>◇语言的简洁性<br>
-长篇大论的东西，通常是无法在网络上走红的。因为在网络上占主导地位的文化是快餐文化，大部分网民的“耐心和注意力”非常有限，不会去阅读长篇大论的东西。<br>
-所以，某个信息在网络上走红的【必要条件】是“简洁性”。而“赵家人/你也配姓赵/赵家的狗”这一系列短语，非常简短（屈指可数的几个字），符合“简洁性”这个特点。</p>
-<p>◇含义的深刻性<br>
-在之前的“江/胡”时代，网络上也曾经出现过好些个政治方面的流行语，比如：“江蛤蟆、戴三个表、胡面瘫、河蟹、温影帝、草泥马、五毛党”。不过捏，之前这些流行词，要么单纯依靠“谐音”，要么是通过“绰号”来嘲讽中共领导人。总体而言，深刻性不够。<br>
-而“赵家人”这一系列流行语，则深刻地体现出——“权贵与民众的对立”、“权贵才是中国的统治阶层”。</p>
-<p>◇应用的广泛性<br>
-之前的那些政治流行语，大都只能用来嘲讽某个人或某个事物。<br>
-而“赵家人”这个词汇的应用范围就广泛多了——可以用来反讽官方话语体系的方方面面（关于这点，下面俺会细聊）</p>
-<p>★“赵家人”一词在“反洗脑”方面的作用<br>
-◇对“爱国主义忽悠”的揭露<br>
-在咱们天朝，“爱国主义”方面的宣传已经变成“忽悠”，采用的手法是“偷欢概念”。比如说，真理部的宣传总是把“爱国”和“爱政府/爱党”混为一谈。其实捏，“国家、政府、政党”这几个概念是全然不同的——具体参见《 政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念 》<br>
-前些年也出现过一些流行语，用来嘲讽官方的爱国主义宣传，比较知名的有“贵国、你国、支那国”。但是这几个词汇都不如“赵国”那么深刻。“赵国”这词儿一针见血地点出了：天朝纯粹是权贵主导的。</p>
-<p>◇对“五毛党”的嘲讽<br>
-以前，当你在网上碰见“自干五”（自带干粮的五毛党），如果跟对方理论，可能费了大量的口水，也未必有效果。<br>
-如今捏，当你再次碰见“五毛党”（不管是“自干五”还是“职业五毛”），只需要简单的一句话——【你也配姓赵】——就可以把对方噎住。</p>
-<p>举例：<br>
-某人在知乎上贴了一个问题：<br>
-提问：充分体现了网络上良莠不齐信息泛滥的现状。<br>
-这个词来源于阿Q正传，本意是讽刺阿Q这样的流氓无产阶级的空想和意淫，毫无革命精神毫无爱国情怀却以官本位自居的可悲陈腐的封建道德思想。<br>
-然而在网络世界上却被大量别有用心的人滥用，不顾语境，用来攻击那些忧国忧民心忧天下充满爱国报国之心的热心网友们。<br>
-体现了虚无主义和封建主义的思想。<br>
-这难道不是别有用心的外国势力和反动分子们的反攻倒算吗？<br>
-至于有人想千方百计挖空心思栽赃于党、国家和政府，那可真是其心可诛总想搞个大新闻了。 结果引发了潮水般的回应（如下图）。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4134904-1.png" alt="4134904" width="622" height="857" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4134904-1-218x300.png 218w, http://chinadigitaltimes.net/chinese/files/2016/01/4134904-1.png 622w" sizes="(max-width: 622px) 100vw, 622px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4134905-1.png" alt="4134905" width="581" height="840"><br>
-◇对“官方话语体系”的全面解构<br>
-前面说的，都只是某些局部。“赵家人”一词更大的妙处在于——【 可以全面解构官方的话语体系 】。你只需遵循如下规律——对官方话语体系中的名词词组，把其中的“人民”替换为“赵家”。下面俺简单举几个例子（欢迎大伙儿补充）：<br>
-官方的话语                     解构后的话语                            备注</p>
-<p>中华人民共和国             赵家共和国                               简称“赵国”</p>
-<p>全国人民代表大会         赵家代表大会                           简称“赵代会”</p>
-<p>人民政府                         赵家政府</p>
-<p>中国人民解放军             赵家解放军                               简称“赵家军”</p>
-<p>人民币                              赵家币                                       简称“赵币”</p>
-<p>人民公仆                         赵家公仆</p>
-<p>为人民服务                    为赵家服务</p>
-<p>中国人民的老朋友       中国赵家的老朋友</p>
-<p> </p>
-<p>★“赵家人”流行的重要意义<br>
-◇朝廷丧失舆论阵地<br>
-老实说，这个词汇以这么快的速度走红，超出了俺的预料。大量的网民使用这个词汇，至少说明如下几点：<br>
-1、相当比例的民众已经意识到“权贵”与“民众”是对立的，权贵是民众的主要敌人；<br>
-2、相当比例的民众在意识到这点之后，还愿意（敢于）在公共场合（网络空间）表达出来；<br>
-3、原因公开表达，说明这些民众对权贵的不满，已经达到一定的程度。<br>
-朝廷以很快的反应速度开始封杀这个词汇，也从侧面说明了：这个词汇的广泛流行，对朝廷是很不妙的。<br>
-一年多前，俺写过一篇《 各种迹象显示——党国喉舌正逐渐失去舆论阵地 》，如今看来，朝廷方面正以非常快的速度丧失舆论阵地。</p>
-<p>◇舆论对于政权的重要性<br>
-有一个浅显的道理，估计大伙儿应该都明白，那就是——【 得民心者得天下，失民心者失天下 】。<br>
-如今是互联网时代，网络舆论就是“民心”的体现。当网络舆论对朝廷越来越不利，就说明朝廷的民意基础越来越差；因此，朝廷的统治基础也越来越差。<br>
-很多网民虽然痛恨中共，但是不相信中共会垮台。在他们看来，中共掌握了国家机器（军队、警察），而民众手无寸铁。但是你应该明白：国家机器的基层成员，也是民众。朝廷失去的民心，有一部分原本是属于国家机器的成员。当朝廷失去的民心多到一定程度，国家机器就未必能够正常运转了；更有甚者，国家机器还可能在关键时刻反戈一击（可以回忆一下“苏共垮台”和“罗共垮台”的案例）。<br>
-为了避免某些人抬杠，俺补充声明一下：<br>
-俺并不是说中共很快就会垮台。俺的意思是——当失去的民心越来越多，迟早会垮台。<br>
-（经常碰到有读者问俺“垮台的时间点”——俺又不是算命的，无法回答这个问题）<br>
-俺目前的当务之急，就是做好“党国的掘墓人”——尽自己的微薄之力，给党国的坟墓添砖加瓦 :)</p>
-<p>◇如何做“党国的掘墓人”？<br>
-刚才提到网络舆论的重要性。因此，影响网络舆论，也就可以影响民心。<br>
-俺在2009年1月开博（再过几天就是7周年庆），2009年6月开始聊政治话题。如今，俺博客的“政治内容”明显超过了“技术内容”。坦率地说：俺写这些政治内容，就是为了反共，就是为了抹黑党国，就是为了恶毒攻击党和国家领导人 :)<br>
-如果你比较擅长 IT 技术，你也可以像俺这样——“利用博客反党”。不过俺要提醒一下：墙内的同学利用博客反党，一定要先仔细看完《 如何隐藏你的踪迹，避免跨省追捕 》系列教程。俺长期煽动颠覆国家政权，并吸引大量的读者，至今没有被捕，靠的就是【网络隐身术】。<br>
-如果你不擅长技术，或者你不愿意承担太大的风险，同样也可以尽自己的微薄之力，为党国的坟墓添砖加瓦。<br>
-你可以在各种场合使用“赵家人”这一系列的词汇，让更多人知道“权贵的真面目”；<br>
-你可以影响你身边的人，让他们知道权贵才是民众的主要敌人；<br>
-你可以教周围的人翻墙；<br>
-你可以把墙外那些好的网站推荐给你身边的人；<br>
-你可以帮助周围的人摆脱洗脑；<br>
-…… 　　说到“反洗脑”，你还可以参考俺之前写的几篇博文：<br>
-《 如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验 》<br>
-《 聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒” 》<br>
-《 比“欺骗”更有效的洗脑手法——基于【双重思想】的思维控制 》<br>
-《 比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠 》</p>
-<p>★附录：“赵家人”一词的3个起源<br>
-在本文的末尾，附上关于“赵家人”一词的考据。</p>
-<p>◇最早出自鲁迅笔下<br>
-元旦前后，“赵家人”一词迅速窜红——大量的网友使用这个词汇来影射咱们天朝的权贵家族。既然“赵家人”如此流行，估计大部分读者都知道，这词儿出自鲁迅笔下。俺正好借此机会，摘录《阿Q正传》的序言如下，大伙儿再细细品味一下阿Q的形象。<br>
-立传的通例，开首大抵该是“某，字某，某地人也”，而我并不知道阿Ｑ姓什么。有一回，他似乎是姓赵，但第二日便模糊了。那是赵太爷的儿子进了秀才的时候，锣声镗镗的报到村里来，阿Ｑ正喝了两碗黄酒，便手舞足蹈的说，这于他也很光采，因为他和赵太爷原来是本家，细细的排起来他还比秀才长三辈呢。其时几个旁听人倒也肃然的有些起敬了。那知道第二天，地保便叫阿Ｑ到赵太爷家里去；太爷一见，满脸溅朱，喝道：<br>
-“阿Ｑ，你这浑小子！你说我是你的本家么？”<br>
-阿Ｑ不开口。<br>
-赵太爷愈看愈生气了，抢进几步说：“你敢胡说！我怎么会有你这样的本家？你姓赵么？”<br>
-阿Ｑ不开口，想往后退了；赵太爷跳过去，给了他一个嘴巴。<br>
-“你怎么会姓赵！——你哪里配姓赵！”<br>
-阿Ｑ并没有抗辩他确凿姓赵，只用手摸着左颊，和地保退出去了；外面又被地保训斥了一番，谢了地保二百文酒钱。知道的人都说阿Ｑ太荒唐，自己去招打；他大约未必姓赵，即使真姓赵，有赵太爷在这里，也不该如此胡说的。此后便再没有人提起他的氏族来，所以我终于不知道阿Ｑ究竟什么姓。 　　（要阅读《阿Ｑ正传》的全文，可以看维基文库的“ 这个链接 ”）</p>
-<p>除了《阿Q正传》，鲁迅的另一部小说《狂人日记》，有三处提及了“赵家的狗”。俺引述开篇部分（第一节）。<br>
-一<br>
-今天晚上，很好的月光。<br>
-我不见他，已是三十多年；今天见了，精神分外爽快。才知道以前的三十多年，全是发昏；然而须十分小心。不然，那赵家的狗，何以看我两眼呢？<br>
-我怕得有理。 　　（要阅读《狂人日记》的全文，可以看维基文库的“ 这个链接 ”）</p>
-<p>◇2013年开始在新浪微博上被演绎<br>
-《纽约时报》有一篇文章（链接在“ 这里 ”），考据了“赵家人”在网络上开始被演绎，是在2013年。以下是《纽约时报》文章的摘录：<br>
-知乎上的讨论显示，一个网名为“穆好古”的用户在2013年5月发布的一条微博帖子，可能是这个词的一个早期使用案例。他写道：“周末和一个在省团委宣传部的朋友吃饭，我问他：你们这些正牌意识形态干部是怎么看网上那些自干五的？”<br>
-“五毛党”指政府花钱聘请的网上评论员，作用是将网上舆论朝有利于国家政策的方向引导。而那些即使没有收钱也歌颂党的人，有时就被称为“自干五”。<br>
-穆好古援引宣传官员的回答说：“就像赵太爷对阿Q那样——‘你哪里配姓赵！’”<br>
-◇近期引爆流行的好文——《门口的野蛮人，背后的赵家人》<br>
-虽然“赵家人”在前几年已经在网上出现，但还仅仅是“小众范围”内传播。真正成为网络热词，得益于前不久的一篇好文章——《门口的野蛮人，背后的赵家人》（全文参见“ 这里 ”）<br>
-此文开篇就提到了：<br>
-中国的资本市场，是一个四层结构：散，庄，财阀，赵家人。财阀，就是人们经常听到的某某系，某某大鳄。而财阀背后，各有各的老板，这个比财阀还大的终极大老板，通常，被称之为赵家人。<br>
-散户听K线图的，K线图听庄家的，庄家听财阀的，财阀又听赵家人的。所以，但凡有看不懂的行情，背后一定是庄家在做局。有看不懂的局，肯定是财阀在背后抢地盘。有看不懂的财阀们的命运沉浮，那么背后一定又是一帮赵家人在北戴河谈心，不知道又谈出了什么结果。<br>
-俺博客上，和本文相关的帖子（需翻墙） ：<br>
-各种迹象显示——党国喉舌正逐渐失去舆论阵地<br>
-如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验<br>
-聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”<br>
-比“欺骗”更有效的洗脑手法——基于【双重思想】的思维控制<br>
-比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠<br>
-谈革命（系列）<br>
-政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念<br>
-如何隐藏你的踪迹，避免跨省追捕<br>
-版权声明<br>
-本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者” 编程随想 “和本文原始地址。<br>
-翻墙工具<br>
-使用 BT sync 自动同步各种翻墙工具（BT sync 免翻墙可用），<br>
-同步密钥是 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG<br>
-如有其它问题，用 program.think@gmail.com 联系俺</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/72ffUNZFsC5Kr-pAMG9hRWzhcWNNlaDmj50P7OtqwPU5PWl-YJjEg-150x150.jpg" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BC%9A%E8%81%8A%E8%81%8A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E8%B5%B0%E7%BA%A2%E7%BD%91%E7%BB%9C%E7%9A%84%E9%87%8D%E8%A6%81%E6%84%8F%E4%B9%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3/?category=18271" rel="tag">编程随想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -838,7 +761,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -848,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

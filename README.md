@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,158 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%A3%E8%AA%93%E6%B3%95%E5%99%A8%E9%A6%96%E5%8F%91-%E5%85%A8%E5%A5%97%E5%85%B1%E4%BA%94%E4%BB%B6/" target="cdt-mirror">【异闻观止】中国宪法宣誓法器首发 全套共五件</a>
+</h2>
+<p><p>央广网北京1月15日消息，1月15日，中华人民共和国宪法宣誓法器首发式在北京人民大会堂举行。</p>
+<p>记者现场看到，中华人民共和国宪法宣誓规范法器全套共五件，分别由宪法宣誓领誓法台（集体宣誓领誓人专用）、宪法宣誓法台、宪法宣誓领誓法台脚踏——“上台”（两件）、中华人民共和国宪法（书法版宣誓专用）图书共同构成，全套法器全部选用红木材质加工，采用中国传统的榫卯结构制作，设计独特新颖、外观庄重大方。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/c63c4d8f4f80c75.jpg" alt="c63c4d8f4f80c75" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/c63c4d8f4f80c75-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/c63c4d8f4f80c75.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>中国宪法学研究会会长、中国人民大学法学院院长韩大元表示，“宪法宣誓规范法器的诞生，既是一次推动国家宪法宣誓制度发展的有益尝试，更是一次把宪法宣誓制度在实施中意义如何贯彻的成功体现。”“宪法宣誓制度是世界普遍遵行的一种国家公权约束特殊机制。推崇宣誓就是要以庄严、规范的仪式，唤起宣誓者对宪法和国家的忠诚与尊重。”</p>
+<p>多位专家发言指出，中华人民共和国宪法宣誓规范法器的创意设计和成功推出，是全面贯彻落实习近平同志在首个国家宪法日之际所作出的重要指示：“坚持依法治国首先要坚持依宪治国，坚持依法执政，首先要坚持依宪执政，切实增强宪法意识，推动全面贯彻宪法实施”精神；是以具体行动贯彻落实《全国人民代表大会常务委员会关于设立国家宪法日的决定》和《全国人民代表大会常务委员会关于实行宪法宣誓制度的决定》的表现。宪法宣誓规范法器的创新推出，旨在倡导、推进全国宪法宣誓行为走向规范，引导宪法宣誓法器实现规范化、标准化所做的一次成功的尝试和有益的研究；因此，宪法宣誓规范法器对推进依法治国、规范宪法宣誓行为、提高国家工作人员在就职时的宪法宣誓意识、普及法治观、宪法观等都将产生积极、深远的影响。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/26a023c78cacc66.jpg" alt="26a023c78cacc66" width="480" height="320" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/26a023c78cacc66-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/26a023c78cacc66.jpg 480w" sizes="(max-width: 480px) 100vw, 480px"></p>
+<p>据了解，中华人民共和国宪法（书法版）·宣誓专用书籍已由国家新闻出版总署批准出版发行，全国新华书店总经销。该专用书籍，是为配合国家设立宪法宣誓制度专门研究设计的一款以中国传统文化为基础，以中国楷书书体创作书写为手法、选用特制宣纸印制的线装专用宣誓工具类书籍。全书为大八开，一书一函，函套镶贴14吋金属质中华人民共和国国徽，目的是凸显宪法的庄严厚重，使宣誓人员在宣誓时可以真实触摸到中华人民共和国国徽，增加宪法宣誓的威严。有关专家认为，中华人民民共和国宪法（书法版）宪法宣誓与弘扬中国传统文化相结合，是一种全新的尝试，也是一种全新法治文本，它打破了世界宪法印刷体书籍作为唯一公开使用法治文本的记录，是具体完善中国宪法宣誓制度、推动中国法治文化发展的重要体现。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%A3%E8%AA%93%E6%B3%95%E5%99%A8%E9%A6%96%E5%8F%91-%E5%85%A8%E5%A5%97%E5%85%B1%E4%BA%94%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E8%AA%93%E8%A1%8C%E4%B8%BA/?category=18271" rel="tag">宣誓行为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%B3%95/?category=18271" rel="tag">宪法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%B3%95%E5%AE%A3%E8%AA%93%E6%B3%95%E5%99%A8/?category=18271" rel="tag">宪法宣誓法器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%B3%95%E6%97%A5/?category=18271" rel="tag">宪法日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB%E8%A7%82/?category=18271" rel="tag">法治观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%8F%91%E5%B8%83%E4%BC%9A-%E5%A2%83%E5%A4%96%E8%AE%B0%E8%80%85%E7%9A%84%E9%97%AE%E9%A2%98%E9%83%BD%E4%BA%AE%E4%BA%86/" target="cdt-mirror">精读党报 | 中纪委发布会 境外记者的问题都亮了</a>
+</h2>
+<p><p>今天上午10时，国新办举行新闻发布会，请中央纪委副书记吴玉良，监察部副部长肖培，中央纪委宣传部部长陈小江，国家预防腐败局副局长、中央纪委国际合作局局长刘建超，中央纪委案件审理室主任罗东川解读中纪委六次全会精神，并答记者问。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/wNx3X.jpg" alt="wNx3X" width="600" height="377" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/wNx3X-300x188.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/wNx3X.jpg 637w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>读报君注意到，发布会上的境外记者，提问都很犀利。</p>
+<p>首先是<strong>新加坡联合早报</strong><strong>记者</strong>，他问道：</p>
+<blockquote><p>过去一年有像令计划、周永康这样的大老虎被打下了，中纪委今年会不会继续这样的趋势，<strong>我们会不会看到更多这类级别的大老虎被打下呢？</strong></p></blockquote>
+<p>中纪委案件审理室主任罗东川的回答也很干脆：反腐败坚持全覆盖、无禁区、<strong>无上限</strong>，始终保持反腐败的高压态势。<strong>任何人都没有丹书铁券，也没有铁帽子王。</strong>在这次全会上，总书记再次强调，坚定不移反腐败的决心没有变，坚决遏制腐败现象蔓延势头的目标也没有变。</p>
+<p>有没有这个级别的大老虎呢？2016，我们拭目以待。</p>
+<p>然后是<strong>美国有线电视CNN记者</strong>，他的问题很长，他说：</p>
+<blockquote><p>习近平主席在美国演讲说反腐的时候说中国没有纸牌屋，但是外面传说王岐山书记挺喜欢这部美剧。<strong>在中国国内和国际上都有人认为中国反腐是政治工具，为现任领导人领导层打压他们政治上的挑战者，为他们扫除政治障碍</strong>，我们也注意到最新的几个和反腐有关的高官公布的时候，都有外国人不是很能理解的妄议中央大政方针的一条罪名，请问吴副书记您对这种评论或者是看法有什么回应？还有一个相关的问题，在中国那么多大老虎落马之后，不可能一直有大老虎被打下去，新的反腐工作的重点，是小老虎，大苍蝇在这个方针、目标和重点上有什么新的趋势和发展？</p></blockquote>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/liIs2.jpg" alt="liIs2" width="600" height="377" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/liIs2-300x188.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/liIs2.jpg 637w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>中纪委副书记吴玉良回答说，总书记讲到我们不是纸牌屋，不是权力斗争，为什么记者反反复复提这个问题，实质<strong>是不是权力斗争？我的回答肯定是否定的</strong>，可能你还接受不了。（重复三遍：可能你还接受不了。可能你还接受不了。可能你还接受不了。）</p>
+<p>吴玉良还提到《芈月传》，然而跟《芈月传》并没有什么关系，他是说芈月时代的《吕氏春秋》一书中的《疑邻盗斧》故事，说，有一个人丢了一把斧子，老怀疑邻居偷了，看他走路的姿势，看他表情，甚至说话，都怀疑偷了他的斧子。第二天找到斧子了，再看邻居走路的姿势也不像了，说话也不像了。</p>
+<p>吴玉良回应那些权力斗争的观点的人，你们就像《疑邻盗斧》一样，带着这种观念或者有色眼镜看待中国的事情。</p>
+<p><strong>日本经济新闻记者</strong>提问说：中国有<strong>一些官僚被反腐败运动弄得意志消沉</strong>，甚至对招商引资和与国外交流都变得有些消极，反腐败的运动的消极一面变得明显，对这个问题怎么应对？</p>
+<p>久经考验的、前外交部发言人刘建超登场回答了这个问题，他的结论是，“<strong>你提的问题是伪命题，不成立。</strong>”（日本记者黑线了）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/vmAXa.jpg" alt="vmAXa" width="600" height="377" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/vmAXa-300x188.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/vmAXa.jpg 637w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>刘建超是这样回答的：</p>
+<blockquote><p>我们也注意到社会上有不少这样的说法，反腐败导致党员干部意志消沉，甚至不作为。这样的说法是伪命题，或者另有所图，或者人云亦云。实际上抓党风廉政建设，开展反腐败斗争，就是让那些品行低劣、违法违纪的干部受到警示和惩戒，让那些德才兼备、遵纪守法、全心全意为人民服务的好干部能够振奋精神，奋发有为。</p>
+<p>刚才几位同事都说了，实际上反腐败斗争是振奋了精神，深得党心、民心。我们历来主张干部既要廉政，也要勤政。</p>
+<p><strong>今后对那些碌碌无为，懒政、怠政的党员干部该调整的调整，该挪位的挪位</strong>，这样会倒逼在那些经济新常态形势下不会为、不善为的干部能够提高自己，能够跟上，能够有所作为。</p>
+<p>说有些人因为腐败不敢同外商进行联系，我不知道理由何在。实际上在反腐败的大背景下，在政府更加清廉的背景下，外资对在中国投资会更有信心，我们的干部也会更加有信心同外资打交道，你提的问题是伪命题，不成立。</p></blockquote>
+<p>吴玉良又出来“补刀”说：</p>
+<blockquote><p>你提的这个问题舆论上有这种论调，可以做一个逆向思维，你提的问题是反腐败导致一些干部不作为了，逆向思维就是腐败导致一些干部作为了，如果作为腐败的利益驱动导致作为，肯定是乱作为，破坏市场秩序，破坏社会环境。所以，反腐败带来的是既要廉政，又要勤政，忠诚、干净、担当，我们党提出的标准，实际上是这样的。</p>
+<p>为什么有这样的舆论？这就复杂了，我们要分析，这里不乏有的论调混淆视听。<strong>因为现在审查的干部悔过交待了，</strong><strong>为什么散布反腐败就不作为了，就是因为他有问题，他希望反腐放松一点，不要再继续反了，反反就反到自己头上了</strong>，这个问题要继续认真分析。（读报君插一句：这是说周本顺吗？）</p></blockquote>
+<p>就像2012年3月15日的两会上抛出王立军问题一样，<strong>路透社记者</strong>又搞了一个“炸”：</p>
+<blockquote><p>现在对令完成的调查是否已经展开，<strong>他是一名美国的公民</strong>，调查过程中是否会和美国官方沟通。去年中国共产党正式禁止党员违规打高尔夫球，请您对这个规定做进一步解释？</p></blockquote>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/raol0.jpg" alt="化名“王诚”的令完成。" width="600" height="401" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/raol0-300x201.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/raol0.jpg 640w" sizes="(max-width: 600px) 100vw, 600px"><p>化名“王诚”的令完成。</p></div>
+<p>关于令完成这件事情，吴玉良只回答了一句话，“<strong>中方正在处理，也在和美国进行沟通。</strong>”</p>
+<p>原来令计划的弟弟令完成同学是美国公民啊！读报君黑线了。</p>
+<p>彭博新闻社记者的问题是：</p>
+<p>我的问题分成两部分。第一部分，我们知道反腐败运动开展以来有很多高级别的官员被撤职了，或者是因为腐败而被调查，有没有这样的时间点，党来决定或者是宣布，现在腐败不仅仅作为个人问题进行调查，而是把它作为一个更广意义上的结构性的问题需要进行处理。第二部分是有没有一个时间点认为反腐败斗争已经达到了预期的效果，对于打击腐败这项行动不再作为在执法方面的一个重点了。</p>
+<p>肖培回答说，<strong>十八大以来，查处了高级干部150多人</strong>，习近平总书记说过，这是一个令人震惊而痛心的数字。如果从广义上讲，我们要从查处的这些个案吸取教训，要深化标本兼治，一手推进改革，完善体制机制，完善法规制度。</p>
+<p>吴玉良补充说，我们不是结构性的腐败：</p>
+<blockquote><p>为什么有一个错觉，中国共产党8700万人，世界上最大的政党。所以我刚才说的我们查处的数字33万多，听了以后绝对数是吓人的，8700万的分母一算，比例是很小的，而33万包括政纪，党纪20多万，我仔细算过，比例很小。我们党的性质和宗旨是全心全意为人民服务，我们的制度，社会主义制度是人民群众当家作主，腐败现象和我们党的宗旨和我们的制度格格不入，背道而驰的，所以我们党对腐败是零容忍，<strong>出问题的干部总归是少数，大多数主流是好的</strong>，这道算术题还要算明白。</p></blockquote>
+<p><strong>意大利24小时太阳报记者</strong>提问道：我的问题是，根据我的理解，如果理解正确的话，移民到国外中国公民依然能够持有或者不失去中国户口的，这样一种情况下是否为中国政府追逃那些海外贪官造成一定困难？</p>
+<p>刘建超回答说：中国公民移居其他国家，依然保持中国户口，根据国际法，也根据中国出入境管理法的规定，确认这些人依然是中华人民共和国的公民，如果有经济犯罪，就要受到天网行动下猎狐行动的缉捕，<strong>如果这些人是党员或者国家工作人员，在整个天网行动下对国家工作人员的缉捕，对我们开展追逃追赃不构成任何障碍。</strong></p>
+<p><strong>金融时报记者</strong>的问题有点软趴趴，或者都没做功课，他问道：</p>
+<blockquote><p>关于打虎和打苍蝇具体行动提一些意见，我们不仅要打虎还要打苍蝇，这会花费很多资源，特别是打虎的话要派出纪律检查组到一些地方，要用很多人力资源，如何继续进行既打虎又打苍蝇的行动？</p></blockquote>
+<p>然后被罗东川轻易打发了：</p>
+<blockquote><p>有中央纪委和地方纪委，打老虎是属于对高级干部讲的，是由中央纪委直接负责。对于其他的，比如省里的违纪人员，甚至县、乡有相应纪委，相应机构进行这方面的处理，因为这也是纪委工作的职责。</p></blockquote>
+<p>中国媒体也不是没有好问题，比如中央电视台记者，就问了四川省长魏宏失联的事情。</p>
+<p>中央电视台记者：请问书记，最近网络上转发了四川省省长魏宏失联的事情，他作为中管干部，他的失联究竟是怎么回事？（读报君插一句：中管干部失联，除了中纪委动手，还有能谁？）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/qWAlm.jpg" alt="qWAlm" width="600" height="382" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/qWAlm-300x191.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/qWAlm.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>吴玉良回答说，“我开诚布公地说，<strong>魏宏同志涉嫌严重违纪，正在反省思过，下一步将根据违纪的情况作出相应的处理。</strong>谢谢！”</p>
+<p>还说，“中纪委在十八大以来破除神秘化，是秉持开放的、阳光的态度，五大理念首先是开放的。”（那怎么不早点公布嘛！）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%8F%91%E5%B8%83%E4%BC%9A-%E5%A2%83%E5%A4%96%E8%AE%B0%E8%80%85%E7%9A%84%E9%97%AE%E9%A2%98%E9%83%BD%E4%BA%AE%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E8%85%90%E8%B4%A5/?category=18271" rel="tag">制度腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E8%B4%A5/?category=18271" rel="tag">反腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AA%92/?category=18271" rel="tag">外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%A1%E6%B2%AB%E7%BB%88%E5%B0%86%E7%A0%B4%E7%81%AD%EF%BC%9A%E6%B8%85%E6%9C%AB%E6%B0%91%E5%9B%BD%E7%9A%84%E5%8E%86%E6%AC%A1%E8%82%A1%E7%81%BE/" target="cdt-mirror">东方历史评论｜泡沫终将破灭：清末民国的历次股灾</a>
+</h2>
+<p><p>撰文：金满楼<br>
+《东方历史评论》微信公号：ohistory</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B52.jpg" rel="attachment wp-att-424412"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B52.jpg" alt="玩币归赵2" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵2-300x229.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/玩币归赵2.jpg 590w" sizes="(max-width: 590px) 100vw, 590px"></a></p>
+<p><strong>1</strong></p>
+<p><strong>清末股灾：压死骆驼的最后一根稻草</strong></p>
+<p>股票是西方的舶来品，但对近代国人而言却绝不陌生。早在1860年代，洋行股票即在开埠未久的上海面世。之后，随着洋务新政的次第铺开，轮船招商局、开平矿务局等近代知名企业相继发行股票。其股价也随着企业经营状况的不断发展而扶摇直上，如最初乏人问津的轮船招商局股票，由银价100两升至260两的高位，不过十余年。</p>
+<p>股票的不断升值无疑是个赚钱的良机，嗅觉敏锐的商人也很快看到了这点。1882年后，大量资金陆续卷入了这场炒卖股票的狂欢。但好景不长，这种击鼓传花的资本游戏最终因过度投机而骤然顿挫。如《申报》所言，当时“买卖股份之旺，几于举国若狂”，而“不及一年，情弊显露，股票万千直如废纸”。危机来临之时，此前被热炒的矿业股票迅速暴跌，就连信誉良好的轮船招商局、开平矿务局股票也被连累，其股价一跌再跌，元气大伤。</p>
+<p>在1883年10月的这场风潮中，很多从钱庄、票号流出的投机资金一夜蒸发，成为无法收回的呆账、坏账。一些承做股票抵押或直接参与股票投机的钱庄、票号纷纷倒闭，此起彼伏的挤兑风潮中，就连当年显赫一时的“红顶商人”胡雪岩也栽了大跟头，从此一蹶不振。</p>
+<p>时间总是最好的遗忘剂，记吃不记打也似乎是人之本性。20多年后，一场新的金融风暴在上海突然爆发，这次埋葬的不仅仅是钱庄票号，而是原本就摇摇欲坠的大清帝国。事件的缘由还得从当时最朝阳的产业——汽车工业说起。1900年后，美国汽车产量大增，由此带动了橡胶市场的迅猛发展，而国际资本投资的东南亚橡胶公司，大约有1/3在上海发行股票。仅1910年6月一个月间就有30家橡胶公司在上海挂牌募资，募集的资金量更是高达1350万两白银。此时的上海俨然成为全球橡胶资本市场的一大中心。</p>
+<p>橡胶公司股票受到热捧并不奇怪。据测算，当时每磅橡胶的开采成本为1.6先令，市场价却在12先令，利润高得惊人。但值得注意的是，在各路资本蜂拥而入的同时，其背后也难免泥沙俱下，一些在东南亚圈地的橡胶公司甚至连树苗都还没种下去，股票价格已经一涨再涨，风险也就一步步不断累积。</p>
+<p>当时，有个名叫麦边的英国人开设了一家名为兰格志的橡胶公司，在各大报纸上大登广告，一时成为资本市场的宠儿。在当时的热潮下，真实经营状况并不光鲜的兰格志公司，股票面值从最初的100两涨至1000两，随后又突破1300两，最高时甚至冲到1675两。在兰格志的带动下，其他橡胶公司的股价也纷纷飙升，上海很多钱庄、票号也在无比诱人的财富效应下相继卷入这场疯狂的炒作，直到泡沫最终被刺破。资本市场向来云谲波诡，翻云覆雨只在等闲之间。正当多数人还在做着股价继续高涨的美梦时，作为橡胶最大消费国的美国在1910年6月突然宣布紧缩政策。消息传出后，国际橡胶价格随之大幅跳水，伦敦股市上原本最热门的橡胶股一泻千里，其中兰格志公司的股价在一个月内由最高点1675两跌至105两，惨烈如斯。</p>
+<p>资本市场上的投机就像是击鼓传花，谁接到最后一棒谁倒霉。伦敦股市崩盘后，橡胶股票的重仓户，那些高位接盘的中国商家无疑成了最大的输家。如果只是一般老百姓用闲钱炒股倒也罢了，但上海很多钱庄因为介入太深而被深度套牢，根本无法脱身。当年7月，上海“八大钱庄”中的正元、谦余、兆康三家先后倒闭，另五家（森元、元丰、会大、协丰、晋大）也被拖下水。风潮闹到最后，号称“钱庄的钱庄”的源丰润、义善源两大票号崩盘，上海资本市场哀鸿遍野，一片狼藉。</p>
+<p>在这次股灾中，一个名叫施典章的人开始浮出水面，此人是川汉铁路公司驻上海的“总收支”，职责是对公司将来用于修路的350万两集资款进行投资管理，目的是在铁路开工前获得适当的收益。但事与愿违，倒闭的三家钱庄，其主要资金正是来自川汉铁路公司的这笔巨款。覆巢之下无完卵，川汉铁路公司亏空近300万两。而盛宣怀出任邮传部尚书并推行铁路“国有化”政策时，拒绝为川汉铁路公司的亏空买单，由此引发四川保路运动，进而成为清王朝最终覆亡的导火索。</p>
+<p><strong>2</strong></p>
+<p><strong>信交风潮：党国元老纷纷炒股</strong></p>
+<p>说来有趣，尽管清末就已出现股灾，但国人自办股票交易所却是民国的事。1917年1月，由孙中山领衔，虞洽卿、张静江、戴季陶等8人附议，上海证券物品交易所的组织申请正式提交北京政府（黎元洪任总统、段祺瑞任总理时期）。不巧的是，当年7月张勋突然发动复辟，政局混乱之下，孙中山南下“护法”，交易所筹办工作只得暂时停顿下来。</p>
+<p>直到1918年6月，中国首家证券交易所——北京证券交易所开业。得此消息后，更早提出申请的虞洽卿等人也坐不住了。在一番争吵与磨难后，上海证券物品交易所于1920年2月1日举行创立大会，5个月后正式开业。自此，中国证券市场进入有组织的证券交易所时代。</p>
+<p>上海证券物品交易所本身是股份公司的形式，共有股东572户、股票10万股。由于事属首创，加上一战期间中国出口贸易大发利市，很多上海商人都发了大财，国内外资本一时云集上海滩，各行业的商业巨子看到交易所来钱既多又快，于是都来搞交易所。到1921年10月，上海各类交易所竟达140余家，如时人描述，“几日间有一交易所出现，十日间必有一信托公司发生”。各交易所与信托公司的业务也是包罗万象，除股票外，棉纱、麻布、煤油、火柴、木材、烟酒、沙土、水泥，什么都交易，市场一片兴旺，很多人发了横财。</p>
+<p>交易所越多，投机越大，在最初两年中，上海证券市场的泡沫大得惊人。以上海证券物品交易所本所股票为例，由最初的30元涨到80元，1920年底升至120元，1921年初又被抬到160元，年底竟到了200元。两年不到的时间，竟然涨了近6倍，其中的投机与泡沫，毋庸智者而知之。</p>
+<p>世上万物，物极必反。交易所数量越来越多，质量参差不齐，风险也就逐步扩大。一些先知先觉的资本玩家觉得其中风险太大而开始收回资金，“信交风潮”由此爆发。到1921年11月，上海共38家交易所歇业；12月后，每天至少有一家交易所歇业。泡沫破裂，一度空前繁荣的信用交易市场变成了一地鸡毛，投机失败者比比皆是。所谓“昨日陶朱，今日乞丐”，纸上财富最终不过是一场空。</p>
+<p>市场信用坍塌后，证券交易空气日坏，即使是开办最早、规模最大的上海证券物品交易所也不能幸免，而且其正是张静江、蒋介石等人押宝坐庄的对象。据参与其事的陈果夫说，上海证券物品交易所的经营情况本来不错，从开业到后来倒闭，营业额有数亿元，但因为某些人过度投机，甚至违规炒作本所股票，最终使得交易所停止交割并长时间停业，股票几乎成为废纸。</p>
+<p>上海证券物品交易所的停业事件，和张静江、蒋介石、戴季陶等人组织的“协进社”有很大关系。因为协进社拥有本所股票3万股，当股价炒至120元后，一部分交易所创办者开始撤资，而张静江等人却以为自己有实力，仍继续大做本所股票买卖。1921年底，本所股票涨到每股200多元，现货与期货的差价越来越大，张静江等人非但未足额缴纳交易保证金，反而强迫常务理事郭外峰、闻兰亭等收受空头支票。这时发生买方资金不足违约而停止交割，最终让多头集团崩盘破产。</p>
+<p>在这场风潮中，蒋介石同乡、交易所监察人周骏彦因套利失败欠债20万元，后来到处被人逼债而两度跳入黄浦江。多头集团的操盘手洪善强更惨，被逼得自尽身亡。闹到最后，虞洽卿等上海巨商不得不提出方案，将上海证券物品交易所与上海全球货币物券交易所合并，同时引进外国资本及洋员管理，才渡过难关。</p>
+<p>炒股失败后，蒋介石等人决定前往广东跟随孙中山继续革命。离开上海前，他们找到交易所原理事长虞洽卿要求给予资助（或因他们仍持有原所股票而要求解决办法）。后者听后很是恼怒，说蒋介石等人搞垮了交易所，现在还要捣乱，不肯给钱。直到青帮头目黄金荣介入，双方经过谈判，虞洽卿答应以6万元了结，但必须在蒋离开上海那天才付款（怕他们拿了钱再捣乱）。由此，张静江、蒋介石等人鼓捣交易所的烂账就此一笔勾销。</p>
+<p><strong>3</strong></p>
+<p><strong>畸形繁荣：孤岛时期的股市狂欢</strong></p>
+<p>1921年信交风潮后，上海资本市场仅证券、金业等6家交易所得以存活，昔日盛极一时的股票市场就此跌入低谷，而公债市场则后来居上，取而代之。这一局面一直持续到1939年，公债市场因抗战爆发而一落千丈，而与之几乎同步的是，股票市场却在上海租界悄然复苏并迅速繁荣。</p>
+<p>据旧上海名中医陈存仁回忆，上海的证券交易所本来只做公债票，但开战后公债无人过问，跌得不像样，于是有四五十家大厂商的股票上市，股票数额较大的是永安纱厂、新光内衣、美亚织绸三家，很多炒股的人都以这三家为标的。当然，孤岛时期的上海证券市场得以突然复兴，与租界的特殊性有关，因为当时日军慑于英美列强的压力而未能进入租界，孤岛虽孤，但安全相对还是有保障的。在此时期，租界里的各大银行、交易所仍旧照常营业，而随着战争的扩大，沦陷区资本和后来的南洋、香港资本也相继进入，加上中日套汇战、法币通胀加剧等因素，界成为逃避日寇掠夺的最佳避难所，同时也为囤货保值等投机活动提供了极好的条件。据1940年的统计，从各地流入上海租界的游资增加到50亿元以上，在此汹涌资金推动下，长期被冷落的股票市场咸鱼翻身，再度进入了一段畸形的繁荣时期。</p>
+<p>据陈存仁回忆，当时的股票买卖，买客和卖客都可进场当面交易，一手付钱，一手交票，因此“交易所内人头挤迫，喊声震天，从前上海人穿的都是中装，少数人穿西装，在这个市场中，一件中装大概十天半月的时间就会被挤破，一身西装也只能维持一个短时期就破了”。从这段话也可推想当时上海股票市场的热闹和混乱。</p>
+<p>由于没有统一的场内市场，证券由各股票公司和证券行自由开拍、买卖，同一时间、同一股票的行情大相径庭，股票柜台交易和黑市交易都十分火爆。以股价论，当时各种股票价格都是屡创新高，有的甚至超过票面价值的十几倍乃至几十倍。如会德丰股票面值为白银10两，而市价竟炒至271两。再如新亚制药，战前不过数千元规模的小药厂，上市后竟摇身一变，成为十亿规模的五大龙头企业之一。永安百货公司有个小毛纺厂，股票从10元飙升到190元，按市值计算成为继荣氏企业之后的第二大棉纺企业。</p>
+<p>当时的交易量也十分惊人。以上海众业公所为例，1937年的总成交量为1800万元，到1940年上半年扩大为5682万元，仅1940年1月8日这一天，就成交了132.2万股。这一时期，上海股票市场买卖投机几成白热化状态，股价也是大起大落，交易所还经常因价格涨跌幅度过大而被迫停市。当然，也有很多人靠炒股发了大财，成天鱼翅捞饭，过着醉生梦死的生活。</p>
+<p>上帝欲使其灭亡，必先使其疯狂。抗战期间的上海股票市场并非产业经济发展的产物，而是社会游资投机的结果，完全是一种畸形繁荣。尤其在抗战的最后一年，证券交易所几乎变成了一个庞大的赌场，投机猖獗，泡沫大到吓人。而随着抗战的胜利，这些股票最终形同一堆废纸。</p>
+<p>抗战结束后，上海华商证券交易所被查封停业，股票买卖转入黑市。1946年9月，南京方面指定杜月笙牵头筹建的上海证券交易所开业，证券交易得以恢复。当年11月，交易所日成交量达到8亿多股，到1947年，总市值更是达到70783亿元。当然，这很大程度上是因为国民党统治下恶性通胀所致，而随着全面内战的爆发，国统区经济全面崩溃，股票市场也无法独善其身。在经历极其短暂的繁荣后，上海证券市场迅速衰退，股票价格全面暴跌。1949年5月，上海解放，证券交易所停业，旧中国畸形发展的股票市场也就走到了尽头。</p>
+<p><strong>4</strong></p>
+<p><strong>投机与贪婪：疯狂股市背后的病因</strong></p>
+<p>早在1910年，梁启超就曾撰文指出，中国的股份公司之所以不能发达，其原因有四：一是法规很少，即使有也不遵守，“有法而不行等于无法，中国是无法之国”；二是法律状态不定，股份公司的股东不能行确实之监督权；三是股份公司外缺少相配套的机关；四是股份公司内缺乏规范化管理人才。梁启超遗憾地表示，当时的中国不知法制为何物，即使清末已经有了公司法，但律文鲁莽灭裂，难以实行。到了民国，即使北洋及南京政府为规范证券市场而出台了相关法律，但效果很差，甚至根本就没施行。</p>
+<p>梁启超所说的大体属于机制方面的问题，“华人不善效颦，徒慕公司之名，不考公司之实”。换言之，国人只是觉得股份公司的名义好听就冲进股市，至于公司的实际基本面通常不予考虑。</p>
+<p>梁启超将股市泡沫称为“气泡”，谓其“张至极大时，即将散之时”，可谓一语中的。事实上，股市泡沫的形成，除了机制上的原因外，股民无知的投机也是促成因素之一。如1883年的那次股灾，《申报》当时即评论说：“今华人之购股票者，则不问该公司之美恶及可以获利与否，但有一公司新创、纠集股份，则无论如何，竞往附股。”</p>
+<p>1910年的“橡胶风潮”就是如此。当时KotaBahroe橡胶置业有限公司在上海发行新股，孰料申购前一天半夜就有很多人来排队。到了第二天，原定的股票申购指标在一个小时内即全部售罄，股民的热情可想而知。对于这种现象，当时一些媒体也批评说，很多人连什么是橡胶都不知道，却照样大炒特炒，而且“投出多年的积蓄尚且不以为足，进而变卖家人的衣装、首饰等物，竞相购买橡胶股票”，其奋身入市可谓趋之若鹜，几近疯癫，浑然不顾风险——橡胶园在几千里外的南洋，而股票更是在万里之遥的伦敦发行，两样东西都是看不见、摸不着的。</p>
+<p>最吊诡的是，股灾每隔一二十年总要重演一次，而股民前赴后继，旧的去了一茬，新的又来一茬。原因无他，股市上巨大的财富效应让人眼红心热，追根溯源，还是人性的贪婪驱动使然。在股市的上升期，股民买股赚了钱，但多数人往往不知满足，反而想赚得更多而不断追加投资。股市在不断走向疯狂的同时，股民的风险意识反而减弱。即使用九头牛去拉，也拉不动这些头脑发胀的人群。到最后股市突然崩盘，很多股民被套牢甚至血本无归，其本意是想多赚点钱，结果却纷纷走上天台“思考人生”。</p>
+<p>对多数人而言，赚钱是永远都不会嫌多的，但股市很大程度上是一个超级大赌场，牛市的时候它是财富的放大器，一旦牛市结束，股市就成为可怕的绞肉机。在这里，人性的贪婪、恐惧与丑陋，也被成倍放大。以历史的眼光看，股市中的各种概念炒作、暴富神话、投机与骗局，都是形成股灾的要件。百年前如此，现在同样如此。</p>
+<p><strong><em>本文原载《同舟共进》杂志2015年第12期，同舟共进微信公号：tzgjmag</em></strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%A1%E6%B2%AB%E7%BB%88%E5%B0%86%E7%A0%B4%E7%81%AD%EF%BC%9A%E6%B8%85%E6%9C%AB%E6%B0%91%E5%9B%BD%E7%9A%84%E5%8E%86%E6%AC%A1%E8%82%A1%E7%81%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%9A%E6%B8%85/?category=18271" rel="tag">晚清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%A9%E5%B8%81%E5%BD%92%E8%B5%B5/?category=18271" rel="tag">玩币归赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98/" target="cdt-mirror">德国之声｜长平：“嗨，山巅的姑娘”</a>
+</h2>
+<p><p><strong>年轻女性赵威以政治罪名被捕备受瞩目。时评人长平认为，中共打压人权律师，并不存在误会。<br></strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/018594034_40100.jpg" rel="attachment wp-att-425486"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/018594034_40100.jpg" alt="0,,18594034_401,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/018594034_40100-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/018594034_40100.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
+<p>“瑟瑟的寒冬，沉沉的黑夜，那个已到山巅的姑娘，她在大声呐喊，在风中和魔鬼战斗，想把地狱变成天堂。……嗨，山巅的姑娘，我要大声呐喊为你歌唱，这漆黑的夜，我们不再幻想。”一首题为《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/">嗨，山巅的姑娘</a>》的歌曲，在中国网络悄悄流传。旋律哀伤悲切，却又坚毅执著，吟唱一位姑娘在寒冬的黑夜里，沿着崎岖的山路走上了山巅。</p>
+<p>这位姑娘名叫<a href="http://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/">赵威</a>（网名“考拉”），曾是人权律师李和平的助理。中共当局去年7月9日开始<a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">大搜捕</a>，全国各地超过300名人权律师和活动人士被绑架、拘留、逮捕和骚扰，全球一百多个政府及人权团体表达关切与声援。部分被关押者获得释放，但仍然没有公民自由。其余大多被秘密关押，或者下落不明。近日，知名律师<a href="http://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/">王宇</a>、<a href="http://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/">周世锋</a>、<a href="http://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B/">王全璋</a>等均被以“<a href="http://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/">颠覆国家政权罪</a>”逮捕。以同样罪名被逮捕的，还包括实习律师李姝云、律师助理赵威等年轻人。</p>
+<p>中国政治犯被起诉的罪名通常是“颠覆国家政权罪”或者“煽动颠覆国家政权罪”，后者又被简称为“煽颠”，网民以其谐音“<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/">山巅</a>”来规避言论审查。唱给赵威的这首歌既取其谐音来传递政治打压信息，又借其谐音的含义描绘了人们在严酷的政治环境中为人权而抗争的情景。</p>
+<p><strong>“山巅”没有误会</strong></p>
+<p>出生于1991年的赵威以政治罪名被逮捕，在网络上激起了很大的反响。在长期的政治高压之下，人们对于政治犯的辩护，通常是声称他们的言行既无政治动机，也没有触犯当局的政治利益，甚至有利于维护当局的统治。一方面，辩护者希望说服当局，抓捕他们是一个误会，应当无罪释放或者从轻发落。另一方面，大多数民众对反对当局的政治活动感到恐惧，不仅不敢表达一丝同情，甚至怕给生活带来麻烦而反感，辩护者希望以此争取更多的同情与支持。因此，“一个如此年轻漂亮的女孩，怎么能够颠覆国家政权？”成了网络上广为流传的声援话语。</p>
+<p>然而，这句话既非事实，也不正确，而且没有效果。赵威协助人权律师的工作，无论她本人是否怀有推翻当局的政治目的，这就是一种政治行动，一种正直、勇敢和高尚的政治行动。当局并没有那么天真，而是十分清醒：尊重普遍的公民权利，就是威胁专制政权。他们比体制内呼吁变革的知识分子更加明白，人权与专制根本无法并行。对于当局来说，抓捕人权律师，打压言论自由，限制和排挤民间组织，从来就不存在什么误会。</p>
+<p>这句话还存在价值观上的错误。它暗示着年轻漂亮女孩既不应该从事政治活动，也没有能力从事政治活动。一些巧妙地为官方打压行为辩解的人借此批评她们的事业伙伴说，他们不负责任地把年轻人引向了危险的歧途。事实上，赵威虽然年轻，但她已经是二十多岁的成年人，早有独立思考和自主行动的能力。历史上，年轻女性为政治权利而抗争的例子数不胜数。</p>
+<p><strong>“颠覆赵家政权罪”</strong></p>
+<p>对于政治抗争的恐惧，并不能让人们躲避政治迫害——何况，这种恐惧以及因恐惧而放弃政治权利，本身就是一种政治迫害。早有法律人士指出，合乎政治伦理的法律，应当废除“颠覆国家政权罪”或者“煽动颠覆国家政权罪”。民主国家的首脑选举，从来都是在颠覆政权，这是公民必须拥有的基本政治权利。颠覆政权不等于颠覆国家，恰恰相反，执政者随时面临被颠覆的压力，国家才能稳定发展。</p>
+<p>在政权及政府机构前面加上“国家”、“人民”等概念，是一种“朕即天下”的皇权思想，长期误导人们党国不分：批评中共就是反华，呼吁人权就是卖国。但是，最近一个流行词“赵家”对此做了重新界定。在鲁迅的小说《阿Q正传》中，地方权贵赵家的少爷中了秀才，自称姓赵的阿Q前往祝贺，却被赵老爷抽了一个嘴巴：“呸！你也配姓赵？”网民重新发掘出这个词来，不仅用来讽刺为政府卖力的“五毛”和“自干五”，而且可以在避免直接的政治对话的情况下，清晰地区分权贵和民众的关系。他们发现，“国家政权”即“赵家政权”，“人民法院”即“赵家法院”，“伤害中国人民的感情”即“惹得赵太老爷不高兴”。</p>
+<p>1989年“六四”镇压之后，中共强化了民族主义和爱国主义教育。党国不分的观念，深深地植入年轻人的思想。“赵家”一词的流行，撕破了官方宣传苦心经营的遮羞布。“六四”运动发生时，赵威还没有出生。她的被捕提示人们，中共的高压统治又持续了一代人。同时，人们由此看到，新生代的反抗者站出来了。</p>
+<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/425435/" target="cdt-mirror">【网络民议】唇亡齿寒，还得意洋洋</a>
 </h2>
 <p><p><em>【编者注】求是网这份所谓“互联网舆情研究报告”不仅没有包括任何能说明事实的数据，还将公知大V“遭到压制性打击”和“销号”、重大事故后舆论场被“平静”等中共加紧控制言论的行为当作正面新闻来报道。求是网最后还不忘自行曝出“自干五”目前面临着内部分裂的困境。</em></p>
@@ -534,6 +683,44 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 <p>
 	<small> ============== 1天前</small>
 </p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/" target="cdt-mirror">【好声音】嗨，山巅的姑娘（写给赵威）</a>
+</h2>
+<p><p><em>来源：Youtube <a href="https://www.youtube.com/channel/UCC8nda4gxCTY_z0iPlml72A" target="_blank">@Wen YunChao</a>（温云超）；歌曲创作者不详</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" rel="attachment wp-att-425301"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" alt="考拉" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/考拉-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br>
+（“考拉” by Twitter<a href="https://twitter.com/wuyuren/status/686652844506628096">@wuyuren</a> [吴玉仁] ）</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C90%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%80%83%E6%8B%89%E6%B6%89%E9%A2%A0/">自由亚洲｜“90后” 中国最年轻政治犯考拉涉“颠覆”被捕</a></p></blockquote>
+<p></p>
+<p><strong>《嗨，山巅的姑娘》</strong></p>
+<p>崎岖的山路<br>
+通向着山巅<br>
+入云不见，闭日遮天<br>
+魔鬼冒牌天神<br>
+风沙迷住双眼<br>
+不会磨灭心中信念</p>
+<p>瑟瑟的寒冬<br>
+沉沉的黑夜<br>
+那个已到山巅的姑娘<br>
+她在大声呐喊<br>
+在风中和魔鬼战斗<br>
+想把地狱变成天堂</p>
+<p>嗨，山巅的姑娘<br>
+我要送你一件红色衣裳<br>
+这寒冬的火<br>
+黑夜里的光</p>
+<p>嗨，山巅的姑娘<br>
+我要大声呐喊为你歌唱<br>
+这漆黑的夜<br>
+我们不再幻想</p>
+<p>考拉（赵威）是个90后河南女孩，她热爱自由民主，热心于公益事业，从大学开始参与捍­卫人权的活动。2014年到北京做李和平律师的助理。2015年7月10号被抓到天津­监视居住，2016年1月8号被批准以颠覆国家政权罪逮捕。</p>
+<p><a title="嗨，山巅的姑娘（写给赵威）" href="http://www.youtube.com/watch?v=m26t1sj6NNk" target="_blank">嗨，山巅的姑娘（写给赵威）</a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2/?category=18271" rel="tag">歌曲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/" target="cdt-mirror">【歌曲推荐】嗨，山巅的姑娘（写给赵威）</a>
 </h2>
 <p><p><em>来源：Youtube <a href="https://www.youtube.com/channel/UCC8nda4gxCTY_z0iPlml72A" target="_blank">@Wen YunChao</a>（温云超）；歌曲创作者不详</em></p>
@@ -671,99 +858,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B/" target="cdt-mirror">自由亚洲｜未普：习近平的政治建军</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/09/CN8xQ69UYAAzPpE.jpg" alt="解放军" width="549" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2015/09/CN8xQ69UYAAzPpE-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/09/CN8xQ69UYAAzPpE.jpg 599w" sizes="(max-width: 549px) 100vw, 549px"></p>
-<p>在过去的几个月里，中国军队开始了大动作裁军、调整和改革，海内外对此议论纷纷。各种议论似有一种共识，即，这次军改主要是强化军队高层的集中统一领导。</p>
-<p>《纽约时报》说，这次军改就是要在裁军的基础上改革中国军队的指挥方式，“重塑军队的指挥系统，收回长期被各军区掌握的军事指挥权力”。BBC赵楚亦认为，这次军改就是刷新威权型党军领袖体制。</p>
-<p>这种看法是不错的。军队的指挥权，过去长期把持在腐败分子手中，军队战斗力受到极大侵蚀。通过反腐和大换血，把军队的领导权和指挥权收回到最高层，是这次军改的首要任务。习近平在2015年11月召开的中央军委改革会议上，表明了这一点。他说，要“强化军委集中统一领导”，更好地“使军队最高领导权和指挥权集中于党中央、中央军委”。</p>
-<p>根据中国官方和军方的报道，我们知道，习近平非常看重这次军改，称它“是一场无法回避的大考”，是“决定未来的关键一招”。因此，习近平亲任操盘手，还亲自设计军改的顶层方案。把强军梦并入了中国梦，据称就是习的设计。至于习的强军梦，《环球时报》是这样诠释的：中国军队一定要足够强大，这个国家才能“不怒自威”，“军事实力弱，其他力量就少了支撑，就会严重影响综合国力，影响其他国家对我们的态度。中国的军力强大了，我们的政治号召力、整体影响力、威慑力、说服力乃至凝聚力都会随之增强。”</p>
-<p>习近平要实现其强军梦，面临的军队改革难题是：如何克服军内阻力，把一支腐败的，几无战斗力的军队整治成“敢打仗打胜仗”的军队？如何让人民解放军绝对忠诚于党，绝对忠诚于习近平本人？</p>
-<p>毫无疑问，这次军改的阻力主要来自于军队内部。军中成千上万人员被裁减，军区数目减少、指挥结构改变，使很多人的利益受到影响。英国《金融时报》称，军改计划引发解放军内部发出间接警告，“可能导致社会不稳定”；报导还认为，“军方报纸的评论表明，某些阻力可能在不断加大”。</p>
-<p>如何应对这些阻力？刘亚洲主张，要用“断腕”的勇气，直面军改这个“铁腕”的事业。习近平的“断腕”杀手锏，就是“政治建军”。</p>
-<p>什么叫政治建军？政治建军其实就是党指挥枪，就是军队绝对忠于党，绝对跟党走。这是军中最大的政治，习近平最近屡次强调这个最大政治。他说，军委领导干部“讲政治是第一要求，必须坚守党性原则，坚定政治信念，增强政治意识，站稳政治立场，严守政治纪律，做政治上的明白人。”习近平视察十三集团军时也说，要“自觉强化政治意识，自觉坚定政治信念、站稳政治立场、严守政治纪律和政治规矩，做政治上的明白人”，要“确保部队在思想上政治上行动上自觉同党中央和中央军委保持高度一致，坚决听从党中央和中央军委指挥”。</p>
-<p>政治建军是毛泽东建军思想的核心。毛泽东1929年在古田会议上，主张从政治上、组织上、思想上确立党领导军队，强调在军队中实行坚强有力的政治工作。习近平非常崇拜毛泽东的这一建军思想。在福建工作期间，他曾先后7次来到古田拜谒，古田会议精神——“革命的政治工作是革命军队的生命线”，差不多融入了习近平的血液。</p>
-<p>当年毛泽东使用政治建军这个杀手锏，摆平了和朱德的矛盾及党内的分歧，也应给习极大启发。今天，习近平也要用这个杀手锏，摆平军内不满改革的异见和对他不忠诚的高层军官。军中凡是不能坚守党性原则，不能坚定政治信念，不能站稳政治立场，不能严守政治纪律，不能做“政治上的明白人”，统统属于被清除之列。对习近平的绝对忠诚，是习的政治建军的核心，更是这次军改的核心的核心。</p>
-<p>总之，这次军改是习近平完成党政军全面集权的关键步骤。之后，习近平会不会走向“一人专制”，非常非常值得关注。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%94%B9/?category=18271" rel="tag">军改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/" target="cdt-mirror">【CDTV】BBC｜解读习近平：纪录片The Xi Factor（二之二）</a>
-</h2>
-<p><p>BBC电视节目《广角镜》（Panorama）在习近平访英前播出纪录片The Xi Factor《习近平因素》。BBC中国编辑凯瑞（Carr­ie Gracie）从习近平的家庭背景说到他集权于一身的经过。</p>
-<p><a href="https://www.youtube.com/v/HW6chb_La14?version=3">https://www.youtube.com/v/HW6chb_La14?version=3</a></p>
-<p><a title="解读习近平：纪录片The Xi Factor二之二" href="http://www.youtube.com/watch?v=HW6chb_La14" target="_blank">解读习近平：纪录片The Xi Factor二之二</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/" target="cdt-mirror">【CDTV】解读习近平：纪录片The Xi Factor（二之二）</a>
-</h2>
-<p><p>BBC电视节目《广角镜》（Panorama）在习近平访英前播出纪录片The Xi Factor《习近平因素》。BBC中国编辑凯瑞（Carr­ie Gracie）从习近平的家庭背景说到他集权于一身的经过。</p>
-<p><a href="https://www.youtube.com/v/HW6chb_La14?version=3">https://www.youtube.com/v/HW6chb_La14?version=3</a> </p>
-<p><a target="_blank" href="http://www.youtube.com/watch?v=HW6chb_La14" title="解读习近平：纪录片The Xi Factor二之二">解读习近平：纪录片The Xi Factor二之二</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A7%A3%E8%AF%BB%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87the-xi-factor%EF%BC%88%E4%BA%8C%E4%B9%8B%E4%BA%8C%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-127/" target="cdt-mirror">【河蟹档案】顾的IDEA：“百度老贼，别人不敢骂你我来骂”</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E8%95%B4%E8%8A%B8">徐蕴芸</a>：“没错这不是野鸡医院，这特么根本就不是医院，是个卖东西的网站。”就是这样的玩意儿承包了百度的疾病贴吧，鼓吹他们的食品可以根治疾病。百度需要的不是公愤，是公诉。李彦宏比王欣更应该受审判。『百度老贼，别人不敢骂你我来骂』<em>相关阅读｜《<a href="http://mp.weixin.qq.com/s?__biz=MzA4OTI3NzIwNA%3D%3D&mid=402430688&idx=1&sn=4a97efb0eb8c2ff61b30ed3b1ab60955&scene=2&srcid=0112ISGja0WTLGHB5ah2xItq&from=timeline&isappinstalled=0">百度老贼，别人不敢骂你我来骂</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E9%98%91%E5%A4%95%EF%BC%9A%E7%99%BE%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8D%96%E8%B4%B4%E5%90%A7/">阑夕：百度为什么要“卖”贴吧</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E9%BA%A6%E7%90%AA%EF%BC%9A%E7%99%BE%E5%BA%A6-%E4%B8%BA%E4%BD%9C%E6%81%B6%E8%80%8C%E7%94%9F/">麦琪：百度 为作恶而生</a>》</em><br><a href="https://freeweibo.com/weibo/3930433953283585" target="/weibo/393">2016年01月12日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA">五岳散人</a>：前段时间刚刚批评完所谓“舆论审判”，中青网之流就自己开启了舆论审判的模式，说什么“快播被告人及辩护人已丢掉羞耻心”，话说这么不要脸还真是挺少见的。作为媒体当然需要自己的判断与态度，这么表态本身没啥不对，但立了“不要舆论审判”的牌坊之后再这么说，基本类似穿情趣内衣炫耀守宫砂了。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%BD%91%E6%B0%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%BF%AB%E6%92%AD%E6%A1%88/">【立此存照】网民眼中的快播案</a>》</em><br><a href="https://freeweibo.com/weibo/3930070055633956" target="/weibo/393">2016年01月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E4%B8%AD%E6%96%87%E7%BD%91">华尔街日报中文网</a>：【中国民众争相购汇导致美元现金短缺】- 在过去几周人民币大跌的情况下，中国民众一直忙着将手中的人民币兑换成美元，导致中国内地一些银行出现现金短缺的局面。<em>相关阅读｜《<a href="http://cn.wsj.com/gb/20160113/fin122033.asp">华尔街日报<em>｜</em>中国民众争相购汇导致美元现金短缺</a>》</em><br><a href="https://freeweibo.com/weibo/3930914041685575" target="/weibo/393">2016年01月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6%E9%87%91%E6%A7%BF%E5%A7%AC">作家金槿姬</a>：某些人嘲讽我们，说我们不怕打仗，却怕南朝鲜的广播。请问有什么资格嘲笑我们？某国不但害怕打仗，还害怕香港媒体、台湾媒体、美国媒体、Google、Twitter、Facebook…我们嘲笑他们了吗？从来没有，我们都懒的笑。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-18.jpg" alt="333" width="426" height="318" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-18-300x224.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-18-768x573.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-18.jpg 815w" sizes="(max-width: 426px) 100vw, 426px"><br><a href="https://freeweibo.com/weibo/3929965949194465" target="/weibo/392">2016年01月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%A9%95-%E6%9E%9D%E7%8E%89%E8%91%89">驕-枝玉葉</a>：才知道原來咱們大大的家族只剩他一個人還是中國籍了，哈哈～好棒噠<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%88%98%E8%BF%9C%E4%B8%BE-%E5%AE%A1%E8%AE%AF%E5%BF%AB%E6%92%AD%EF%BC%9A%E9%81%93%E5%BE%B7%E5%81%87%E8%B1%A1%E4%B8%8E%E6%B2%BB%E7%90%86%E9%9A%90%E5%BF%A7/" target="cdt-mirror">刘远举 | 审讯快播：道德假象与治理隐忧</a>
-</h2>
-<p><p>近日北京市海淀法院开庭审理快播公司及相关被告人涉嫌传播淫秽物品牟利案，引发激烈讨论。对于此案的评论，有从技术中立出发，认为快播无罪的观点，也有从平台责任角度，认为快播有罪的观点，还有人从程序出发，认为证据已受污染，无法支撑起严密的证据链。但是，无论快播是否故意传播淫秽视频，在许多80后乃至更年轻的许多人心中，快播是无罪的。当网民得知是乐视举报了快播的时候，乐视立即陷入严重的公关危机，微博马上被网民攻陷。</p>
-<p>2006年实施的《中华人民共和国治安管理处罚法》不再对公民查阅淫秽信息做出处罚规定，仅规定“制作、运输、复制、出售、出租”淫秽物品的行为违法。显而易见，查阅过成人内容的公民会对这种违法行为报以同情。这并不是一个小群体。著名性学家潘绥铭的一份调查显示，18-29岁的年轻人，“上一年”看过“黄”的比例，达到68.4%，如果这个提问改为“看过”，则比例还要高很多。</p>
-<p>所以，目前沸沸扬扬的舆论，归根到底，是法律所试图施加的道德底线，远远高过了公民所愿意接受的程度，令老百姓反感，产生民意裂痕。</p>
-<p>更何况，施加这种束缚的，导致裂痕的，不仅仅是法律。</p>
-<p>五年前，一部叫做《网瘾战争》的视频在网络热传，总点击量已超过100万，有人称之为“2010年第一部大片”。影片把对游戏内容的审批和修改，管理部门的争权夺利，“电击专家”陶宏开都嘲讽了一遍，另外还穿插了大量的当年的热点事件，如“钓鱼执法”、“七十码”、“躲猫猫死”等。</p>
-<p>该视频的初衷仅仅为了游戏而呼喊，但《网瘾战争》的影响力不仅仅限于魔兽玩家。类似的经历最容易唤起共鸣。《网瘾战争》的台词真实、熟悉、草根、粗野而有力，最后一段主人公号召所有的普通玩家举起手，共同反抗对手的时候，让魔兽玩家甚至普通网友潸然泪下。他们评论说，“当看着《网瘾战争》中那些游戏角色举起自己的手，我感受到的是如海潮般的共鸣。再小的力量也是一种力量，再小的声音也是一种声音，这次，我不想再沉默。”而视频下面的跟帖中，更是有大量的网友在“举手”。如今，类似的一幕又在快播案件中再现，本质上都是被压抑之后的吐槽。</p>
-<p>其实，老百姓是否看了色情视频、娱乐节目是不是过多、妖精是否建国后成精，这些都不关系中国政府乃至中国政治精英群体的核心利益，但是，在这个领域，以道德为诉求的权力触角广泛地伸向公民生活的细节，不断激怒着这个国家的老百姓，最终激起游戏玩家、快播客户、电视盒子用户、电视剧观众、娱乐节目观众的强烈逆反，最后指向（正如《网瘾战争》中的台词）“金字塔顶的服务者们”！</p>
-<p>那么，这是何苦呢？</p>
-<p>一个国家的治理机制的方式、政策，本身就与其核心利益、权力机制息息相关，在逻辑上必须自洽。中国精英的权力来源，某种程度上，是建立在道德基础上的。权力体系对道德有着强烈渴求。</p>
-<p>在庭审中，当辩护人问公诉人，是否用快播看过涉性视频时，得到的均是否定回答。只要有过大学经历的人都不难得到这样一个结论，中国大学男生看过涉性视频的，不说100%，也起码有90%以上。</p>
-<p>看一个国外的例子。在2008年首次竞选美国总统时，奥巴马坦承大麻吸食史，他说：“当我还是个孩子时，我吸过大麻，经常性地。”克林顿的有关回答更出名，他说：“我尝试过一次或两次，但我没有吸进肺里，之后我也没有再尝试过。”不过，这个“没有吸进肺里”的回答遭到很多人的嘲笑。</p>
-<p>美国总统坦陈吸毒，与中国要装成圣人一般的基层普通公务员的对比，反映出中国的权力体系，对基层公务员的道德要求，远大过了美国公民对总统的道德要求。权力体系对道德的渴求可见一斑。这种渴求在具体过程中，向公民生活中扩张，于是，在法律与政策中，不承认成人内容分级机制，“建国后不能成精”，娱乐节目不能过多等道德戒律，就成为中国核心利益的派生之物，不可放松。</p>
-<p>大多数时候，这些严苛的道德戒律，仍然极大地被经济发展与执行者的实际道德水平所抵消，仅仅以条文形式存在，形成真实生活中的灰色局面，道德戒律与民众生活相安无事。但在需要的时候，比如，牵涉利益时，这些法律与规定，又会露出其强力而凶狠的面目。老百姓当然明白这背后的虚伪，这个时候，民众的愤怒则在于：你用MBA方式管理情妇，还一本正经地、凶横地审判让我能看上成人内容的人。</p>
-<p>于是，执行者只好假装不知道发生了什么。从之前的“很黄很暴力”到“心绪不宁”的虚假新闻，再到“各地群众支持封杀BT”与从没看过成人内容的普通公务员，道德戒律的执行者已经学会不在乎民众是否知道自己的虚伪，假装没有看到舆论。</p>
-<p>由此，导致一个国家的统治与真实之间的距离。</p>
-<p>统治与真实之间的距离，影响着统治的效率甚至方向，不管对于一个国家、一个公司、还是一个组织，都是极端重要的，甚至致命的。所谓“欺君之罪”，在某种程度上，反映的就是真实对于统治与治理的重要性，而政治制度的演进，也是朝着更有效率地搜集与传递信息的方向进行。对法条与司法，民意与舆论不能干涉，但法理与立法，乃至国家的治理，却不可傲慢地不理会民意与舆论。</p>
-<p>当一个国家的治理方式，已经不在乎这个国家到底发生了些什么的时候，民意与国家治理必然出现裂痕，治理方式就已经在不断侵蚀自己的基础。从这个角度看，快播一案反映了比案件本身更深远与深刻的问题。</p>
-<p>某种程度上，“宅男”、“工业党”、“自干五”与魔兽、快播的用户群体高度重合，可以这么说，原本他们是坚定的民族主义者，而现在，却因魔兽、因快播、因不能看到自己喜欢的娱乐节目而察觉自身的真正身份。</p>
-<p>五年前，500万玩家，500万个年轻人，再加上身边的同龄人，愤怒于魔兽游戏被横加干涉，在《网瘾战争》之下聚集；五年之后，又一批年轻人，愤怒于快播案件，在乐视的微博中群起而攻之，在弹幕中集体发出自己的声音。令人遐想的是，一批又一批的年轻人，一批又一批的长大，再过10年、20年，当他们进入中年，占据中国社会主流的时候，他们记忆中曾经的“憋屈”又会怎么影响他们？</p>
-<p>上海金融与法律研究员项目研究员 刘远举</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%88%98%E8%BF%9C%E4%B8%BE-%E5%AE%A1%E8%AE%AF%E5%BF%AB%E6%92%AD%EF%BC%9A%E9%81%93%E5%BE%B7%E5%81%87%E8%B1%A1%E4%B8%8E%E6%B2%BB%E7%90%86%E9%9A%90%E5%BF%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">互联网监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E6%B3%95/?category=18271" rel="tag">刑法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%BF%9C%E4%B8%BE/?category=18271" rel="tag">刘远举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%AD/?category=18271" rel="tag">快播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E6%92%ADceo%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">快播CEO王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AC%A3/?category=18271" rel="tag">王欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">网络警察</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -775,7 +869,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -785,5 +879,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

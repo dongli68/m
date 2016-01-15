@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%86%8D%E6%AC%A1%E6%9A%B4%E8%B7%8C%E6%98%AF%E4%B8%AD%E5%85%B1%E5%86%85%E9%83%A8%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89%E7%9A%84%E7%BB%A7/" target="cdt-mirror">法广｜中国股市再次暴跌是中共内部政治斗争的继续</a>
+</h2>
+<p><div>
+<p>新年伊始，中国经济突然出现一系列前所未有的震荡，在海内外引起广泛关注。今天的观察中国要向大家介绍有关当下中国经济的分析评论。</p>
+</div>
+<p>香港《明报》的社论称：“2016年是中国十三五规划的‘开局之年’，但谁都没想到，在‘开局十日’就怪事迭出，中国证监会破了多项纪录的‘熔断’机制，更搞出一场令人哭笑不得的风波。正在力避‘拉美陷阱’（中等收入陷阱）的中国，股市、汇市和楼市恐成三大陷阱，经济大势不仅扑朔迷离，还有势危之象。”</p>
+<p>这家香港报纸的社论分析称：“内地股市，本是中国经济助推之市。”“然而去年股市的大起大落，不仅未能帮助经济向上，反而令国家不得不呕血救市，甚至还因‘暴力救市’，坏了中国特色市场经济的名声。”“本来新一届中证监负有全面改革重整的任务，讵料中证监利益丰厚，贪官云集，更有人胆敢趁经济有病，来取国家之命，内外勾结，上下其手，制造暴升暴跌。”“高层下令今年要全力控制资本市场风险，中证监或为将功抵过，推出‘熔断机制’，结果千股暴泻，草草收市，成为大笑话。” “A股‘熔断机制’风波的同时，近期人民币汇率急跌，不仅令人对人民币国际化今年的加快推进产生疑虑，还给中国经济今年的‘稳增长’带来冲击。”“当局的应对之策，是央行不惜代价地以外汇储备力撑人民币汇率，令中国的外汇储备一下子剧减了几千亿美元。”“内地楼市也已出现隐忧，可能成为另一个大陷阱。”“虽然楼市‘去库存’中央政策还未出台，地方政府和地产商推动楼市上升已花样百出，前者想多收点钱填库房之虚，后者则想大捞一笔走人。因此楼价攀升，市场不稳，去库存之功末见，楼市还可能走上股市般大起大落之路，反酿泡沫风险。”</p>
+<p>美国中文《世界日报》的社论称：“近日，来自北京‘海内’(中央直属机构)供职官员的消息称，中国股市再次(或连续)暴跌，”“是‘中共内部政治斗争的继续，是习近平谋夺军权后，对方的疯狂反扑’，是‘权贵阶层的大动作’。有官员指出：‘经济是根本，只要经济崩溃，习近平在党内一把手的合法性就会动摇，对方就会有翻盘的希望’； ‘双方在经济上对决，已到了赤膊相见的白热化程度。如果习近平稳不住经济，到手的军权也会发生变化’；甚至说，‘目前，不排除习近平使用武力解决经济战役的可能性’。”</p>
+<p>这家美国中文报纸的社论分析称：“中国股市在中央连出数十招后，仍不断下跌，其表现不可思议，的确留下许多疑点，”“一、有一股敢于与习近平叫板的‘超级力量’在操作。有分析认为，一开盘即熔断，明眼人一看就知，肯定有人捣鬼。刚开盘时，大多数投资人还在观望，这时有大股东想砸盘付出的代价比较小，‘国家队’救市也还未准备就绪。这说明有一股超强力量，足以与‘国家队’抗衡，且在之前就运筹好。国家队来不及接盘，熔断剧则不断上演。这就给习近平摆了一盘相当致命的残棋。二、国家队中有‘内鬼’。去年6、7月发生股灾时，中央多次出手救市，但股市却持续暴跌。有分析认为，国家队里一定有内鬼勾结外资，集体参与做空A股。8月末至今，中信证券12名高管被查、前证监会主席助理张育军落马、国信证券总裁陈鸿桥自杀、私募‘一哥’徐翔被抓、证监会副主席姚刚现形、国泰君安国际行政总裁阎峰失联，以及‘中国的巴菲特’郭广昌‘被协助调查’。这些股市秃鹰涉嫌搅乱股市的目的，被一些分析看作是利用经济手段阻扰习近平的反腐与改革。三、中国金融市场经历的‘大变局’，揭示了大陆资本界深层次的黑幕。股市暴跌，在知情人士看来，不是简单的恶意做空，而是带政治目的的‘金融政变’。因为，如果仅仅是为了赚钱，用不着要和国家作对，拚命砸盘，与国家力量叫板。”</p>
+<p>以上是法国国际广播电台特约记者张文中在香港为您报导。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%86%8D%E6%AC%A1%E6%9A%B4%E8%B7%8C%E6%98%AF%E4%B8%AD%E5%85%B1%E5%86%85%E9%83%A8%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89%E7%9A%84%E7%BB%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E5%86%85%E6%96%97/?category=18271" rel="tag">高层内斗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B9%94%E6%9C%A8%EF%BC%9A%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E6%A0%87%E9%85%8D/" target="cdt-mirror">乔木：赵家人的标配</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%AE%B6%E6%A5%BC.jpg" alt="赵家楼" width="274" height="321" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵家楼-256x300.jpg 256w, http://chinadigitaltimes.net/chinese/files/2016/01/赵家楼.jpg 496w" sizes="(max-width: 274px) 100vw, 274px">赵家人火了，中外驰名。纽约时报记者Kiki Zhao在关于赵家人的报道中，称自己虽然也姓Zhao，但不是赵家人。参加一印度驻华记者的婚礼，介绍新娘姓赵，但也不是赵家人。那么到底谁是赵家人？赵家人又有什么样的特点和标准配置？</p>
@@ -809,44 +827,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/" target="cdt-mirror">【好声音】嗨，山巅的姑娘（写给赵威）</a>
-</h2>
-<p><p><em>来源：Youtube <a href="https://www.youtube.com/channel/UCC8nda4gxCTY_z0iPlml72A" target="_blank">@Wen YunChao</a>（温云超）；歌曲创作者不详</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" rel="attachment wp-att-425301"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" alt="考拉" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/考拉-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br>
-（“考拉” by Twitter<a href="https://twitter.com/wuyuren/status/686652844506628096">@wuyuren</a> [吴玉仁] ）</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C90%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%80%83%E6%8B%89%E6%B6%89%E9%A2%A0/">自由亚洲｜“90后” 中国最年轻政治犯考拉涉“颠覆”被捕</a></p></blockquote>
-<p></p>
-<p><strong>《嗨，山巅的姑娘》</strong></p>
-<p>崎岖的山路<br>
-通向着山巅<br>
-入云不见，闭日遮天<br>
-魔鬼冒牌天神<br>
-风沙迷住双眼<br>
-不会磨灭心中信念</p>
-<p>瑟瑟的寒冬<br>
-沉沉的黑夜<br>
-那个已到山巅的姑娘<br>
-她在大声呐喊<br>
-在风中和魔鬼战斗<br>
-想把地狱变成天堂</p>
-<p>嗨，山巅的姑娘<br>
-我要送你一件红色衣裳<br>
-这寒冬的火<br>
-黑夜里的光</p>
-<p>嗨，山巅的姑娘<br>
-我要大声呐喊为你歌唱<br>
-这漆黑的夜<br>
-我们不再幻想</p>
-<p>考拉（赵威）是个90后河南女孩，她热爱自由民主，热心于公益事业，从大学开始参与捍­卫人权的活动。2014年到北京做李和平律师的助理。2015年7月10号被抓到天津­监视居住，2016年1月8号被批准以颠覆国家政权罪逮捕。</p>
-<p><a title="嗨，山巅的姑娘（写给赵威）" href="http://www.youtube.com/watch?v=m26t1sj6NNk" target="_blank">嗨，山巅的姑娘（写给赵威）</a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2/?category=18271" rel="tag">歌曲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -868,5 +848,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

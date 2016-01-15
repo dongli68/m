@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,94 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/425527/" target="cdt-mirror">【立此存照】消除党重大政治隐患 vs 反腐没有纸牌屋</a>
+</h2>
+<p><p><strong>2015年9月：</strong></p>
+<p><strong><a href="http://news.ifeng.com/a/20150923/44716884_0.shtml">习近平：中国反腐没有权力斗争 没有纸牌屋</a></strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/02a63b3cf40feab.jpg" rel="attachment wp-att-425528"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/02a63b3cf40feab.jpg" alt="02a63b3cf40feab" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/02a63b3cf40feab-300x143.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/02a63b3cf40feab.jpg 590w" sizes="(max-width: 590px) 100vw, 590px"></a></p>
+<blockquote><p>【习近平：中国反腐没有权力斗争，没有“纸牌屋”】22日习近平在西雅图出席欢迎晚宴。他指出：我们大力查处腐败案件，坚持老虎苍蝇一起打，是要顺应人民要求。其中没有什么权力斗争，没有什么“纸牌屋”。愿同国际社会积极开展反腐追逃合作，让腐败分子在海外永无“避罪天堂”。</p></blockquote>
+<p><em>VS</em></p>
+<p><strong>2016年1月：</strong></p>
+<p><strong><a href="http://news.sina.com.cn/c/2016-01-14/doc-ifxnqrkc6415273.shtml">中纪委全会:查周永康令计划案 消除党政治隐患</a></strong></p>
+<blockquote><p>党中央严肃查处周永康、令计划违纪违法案件，消除了党内重大政治隐患，彰显了全面从严治党的坚定决心。把严明政治纪律和政治规矩摆在首位，坚决查处政治问题与经济问题相互渗透，拉帮结派、搞利益交换，对抗组织、欺瞒组织等问题。坚持依规治党，扎紧制度笼子，修订实施廉洁自律准则、党纪处分条例、巡视工作条例，为全面从严治党提供制度利器。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B6%88%E9%99%A4%E9%87%8D%E5%A4%A7%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3-e1452844898983.png" rel="attachment wp-att-425531"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B6%88%E9%99%A4%E9%87%8D%E5%A4%A7%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3-e1452844898983.png" alt="消除重大政治隐患" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/消除重大政治隐患-e1452844898983-465x1024.png 465w, http://chinadigitaltimes.net/chinese/files/2016/01/消除重大政治隐患-e1452844898983.png 603w" sizes="(max-width: 603px) 100vw, 603px"></a><br><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@nnogou：赵家人内斗，不关我们平民百姓的事</p>
+<p>@znbmcr：你们赵家人的事，和我们没什么关系。</p>
+<p>@上杉达也1986：作为老百姓没感到一点好处</p>
+<p>@京城玩主-超子爷：只能说是败了 不是小编说的消除了党内隐患</p>
+<p>@被发现了怎么破：嗯，巩固了政权！</p>
+<p>@不如初见-Rxin：可以安心当皇帝了！哎</p>
+<p>@PromiseCharles：政斗无数，治国无方。</p>
+<p>@梦浩蝶：每次这种新闻我就看了标题，然而几百条评论我全部看完，有谁和我一样</p>
+<p>@大锅只是喝醉了：别逼逼了，经济让你搞成这样！</p>
+<p>@李将军9418：妈的，发的公报怎么都跟朝鲜用的感觉是一个模板</p>
+<p>@梦浩蝶：天天这些有意思么，天朝人们又不是傻子。</p>
+<p>@学着一个人看花：消除隐患又能咋样？油价还那么回事，房价也没见降降，我们老百姓实惠在哪里呢</p>
+<p>@大明湖畔的搓澡工：清洗异己不要紧，把经济弄得一塌糊涂那就是没能耐还在台上祸害人了。</p>
+<p>@winson9898：帮派内斗关我鸟事</p>
+<p>@黑格士光影艺术：消除了党内重大政治隐患！终于憋不住说出了所谓反腐的真实动机</p>
+<p>@灰来灰去大青年：原来是政治隐患，不是百姓隐患</p>
+<p>@ab建设：披着共产党外衣，挂羊头卖狗肉，推行一条反革命修正主义路线。对外，投靠美帝国主义，打造“中美国”；对内，以先富论为纲，打造“特色社会主义”；剥削者可以入党，打造忌唱《国际歌》的“特色党”；</p>
+<p>@借留白：雅安地震军队去仍几箱方便面叫救灾？一直到现在还在抓军权！收拾完周兴高采烈的去签100美金的石油，回头就暴跌？搞石油的没有人做风控？。5%7%10%，证交所的能不懂？完全就是玩儿领导。</p>
+<p>@小程222：这不是反腐，这是官官争斗，大家别被小编洗脑了</p>
+<p>@额滴神__啊：赵家病: 精于权斗 治国无方</p>
+<p>@发财与阉割小组组长：然而，我们村那帮隐患还稳稳地坐着奥迪 #他们指向左，他们指向右，他们说着大机霸#</p>
+<p>@肥鸟呵鱼：以内战始，以内战终，老狗就是学不会新把戏。</p>
+<p>@我是柳爹爹：他说这不是纸牌屋……..那是麻将屋？</p>
+<p>@光头浪叔：是是是，打来打去，你家自己人。真是厉害极了，棒极了。</p>
+<p>@路见：究竟是腐败问题还是政治问题？</p>
+<p>@i354：一个政党，连周这样级别的官员都出了这样的事情，还好意思说消除隐患？你档的优势就是人民的嘴皮子由你档管。</p>
+<p>@肥鸟呵鱼：成王败寇，胜出方往往更加残忍恶毒……</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/425527/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B8%E7%89%8C%E5%B1%8B/?category=18271" rel="tag">纸牌屋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%EF%BC%9A%E6%96%B0%E7%97%85%E6%82%A3%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%A2%A6/" target="cdt-mirror">旧闻评论｜黄安举报“台独”：新病患的鸳鸯蝴蝶梦</a>
+</h2>
+<p><p><em>作者：宋志标</em><br><em> 微信公号：旧闻评论（ID:jiuwenpinglun）</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/640-3.jpg" rel="attachment wp-att-425523"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640-3.jpg" alt="640" width="400" height=""></a><br>
+【题图当代水墨，作者新浪微博：秃头倔人】</p>
+<p>台湾人黄安曾经以《新鸳鸯蝴蝶梦》这首歌打进大陆，不能说风靡一时也小有名气，毕竟有罗大佑、蔡琴、齐豫姐弟等扛鼎歌手在。这是二十多年前的事。现在的黄安借助从前的艺人名声，多见于二流电视台的医药直销节目，等于是电视屏幕上的“活体电线杆”。</p>
+<p>黄安推销面目可疑的保健医疗产品，并不为外人知道。他在大众视线里的露出，是因为他以反台独的名义，连续举报了多位台湾艺文人士来华活动。名单上包括卢广仲、张悬、蔡依林、王大陆、杨丞琳、九把刀、五月天，名单可能还会延续下去。</p>
+<p>也因为频繁的举报，黄安在台湾文艺界的声誉被降到冰点，劣评如潮。而在黄安的微博上，他十分高调地宣示自己的立场，贬抑台湾，抬高大陆，甚至出言：要与北京雾霾共存亡。老实讲，黄安亲大陆的姿态是如此高昂，令其反台独的独白变得不让人信服。</p>
+<p>黄安为什么会从一名记忆中的老歌手，变成一名电视保健品推销员，进而去举起反台独的旗帜？一名在大陆谋生的台湾籍没落歌手，如何沉醉在斗士一样的存在中不可自拔？尤其是，这种近似癫狂的爱恨转变缺少过度，也欠缺足够的逻辑支持。</p>
+<p>艺人当然可以有自己的政治立场，但政治立场这个东西不是一日养成的，像打滴点一样诸如到身体里面。就像黄安举报的那些艺人，他们的政治立场的获得及表达，是人生经历的一部分。客气地讲，黄安的立场，可能也是他钻研的成果，近朱者赤。<br><strong><br>
+黄安举报台独，与黄安举报台独成功，是两回事。</strong>经他举报的艺人，在大陆的演出或活动多多少少都受到了影响，卢广仲的东莞草莓姐演出被临时取消等等。所以，重点可能不在于黄安举报，而是他为什么在这个时候举报，而且有关部门吸取了这个举报。</p>
+<p>黄安的举报发生在台湾发生太阳花运动之后，在这场以反对两岸间服务贸易的重大事件中，台湾各界都出来表达意见，主张反对黑箱操作的立场。依照台湾现在的法律环境，这是台湾人享有的政治表达的自由。但它的影响，终结了服贸谈判，影响远播大陆。</p>
+<p>在事件结束后的一段时间，参加太阳花事件的台湾人受到了反弹，其中有些人在入境香港时受到阻碍。大陆将台湾反服贸，看作是对台政策上的挫败，因而在舆论上采取了攻击的立场，试图抵消反对声音对两岸现有接触管道的劣评，捍卫对台立场。</p>
+<p>在这种情况下，黄安的举报，并且被接受，是因为事件刚消散不久有后关部门采取了舆论反制，需要这么个材料。所以，<strong>不是黄安在反台独，实际上是有关部门在反台独</strong>。而且“台独”一词在特殊时期因为敏感放宽了定义范围，容忍了黄安乱贴台独标签的做法。</p>
+<p>比如对周子瑜的举报，是因为她在MV中举了青天白日旗。但是，任谁都知道，真正的台独是要去掉这面旗帜的，没有哪位台独分子会举着中华民国国旗。在遭到反驳后，黄安就列举其他疑似台独表现，连国民党都看不下了，在脸书上说支持周子瑜。</p>
+<p>在香港发生占中事件之后，香港艺人中持有同情立场的，在北上大陆的工作时也遇到了类似问题。他们当中肯定不包括成龙，但至少有黄秋生、卢凯彤、林夕、何韵诗、黄耀明、杜汶泽等受到牵连。但香港艺人的举报工作由爱字头的中联办外围组织包办，黄安插不上手。</p>
+<p>无论是台湾还是香港，伴随着每一次重大的社会事件，大陆在后续处理上都采取了围堵式的惩罚。对艺人的惩罚当然非常明显，这也将中港台三地的政策壁垒显现到艺人身上。因为这些艺人在大陆的知名度，又将本身是针对港台的意识形态围堵反弹到大陆舆论场中。</p>
+<p>所以看待黄安举报这件事，重要的观察点是大陆对台湾所采取的报复性手法，为何出现，如何实施。只有这样才能研判这种举报的持久性。<strong>可以想见，对港台的意识形态压制本身是波动的，随着需要调整强弱烈度，黄安举报的成功与否，取决于此，而不是取决于黄。</strong></p>
+<p>那么，现在的预测是对台的舆论压制趋势会在某个时候缓和吗？在什么时间段，黄安作为举报人与线人的角色会被冷落与弃置？现在还不好预估具体时间，对岸正在搞选举，香港又因众所周知的事情陷入情绪，舆论上保持压制，以观察事态过渡，恐怕是措手之一。</p>
+<p>但是，真正的问题又不在于大陆对港台持有不同政见的艺文人士会在合适解冻？真正的问题是，放任黄安举报、将来自宝岛的志愿者线人、以及将爱字头的职业举报人强化舆论场中对港台的厌憎，会导致什么后果？这种后果又会对两岸三地的关系有何影响？</p>
+<p>经过黄安举报，在文艺演出范围造成了某种禁忌，就是要审核艺人的政治立场，间接促成政审在舞台上的展开。一些艺人被切断大陆的工作机会，黄秋生自嘲说“连演成人片的机会都无”，这对港台艺人的短期收益会有杀伤力，但并不意味着“赶尽杀绝”。</p>
+<p>对于黄安来说，举报台独、被认可为举报线人，好处是直接的。<strong>那就是他的“投名状”可以掩护他推销可疑保健品的问题，通过有关部门的“认可”来强化爱党爱国的效忠立场，拖延对他违规节目的查处</strong>。黄安举报台独，也是把爱国做成了一门生意的具体体现。</p>
+<p>在反对港台艺人的一般理由中，是这样的论证：既然反对大陆，就不要来赚大陆的钱。这里面的逻辑漏洞像筛子眼一样多。反对的对象到底是国、是政府还是别的什么，指向并不清晰，反对的可能是某项政策，而政策是可以被讨论的，政策会变动也是常识。</p>
+<p>赚大陆的钱，不等于赚大陆人的钱，更不等于赚反对者的钱。有些人只想听歌，指向看到表演，他们是花他们自己的钱，而且是自愿的。但是这部人的消费权利被剥夺了。<strong>反对者认为可以代表大陆或大陆人，但这只是假象，能够阻止艺人的从来不是他们。</strong></p>
+<p>黄安举报台独，乃至于要举报台湾，尽管在大陆引起了少数人的附和，一些艺人因为举报得逞而失去工作机会，也被认为大快人心。但从对岸的角度看，这种举报正在引发强烈的对大陆的反感，如果有台独人士知道黄安的事业，也会要感谢黄安的。</p>
+<p>台独或香港城邦论的形成，首先在于社会心理上的认同，或者说至少不厌恶。黄安以反台独的名义举报，在台湾人那里能激起什么情绪？我想没有人是赞成的，正常人都会认为是荒谬。随即，台湾人会想：这么荒谬的主张和人物，也被大陆认可，那大陆真可怕。</p>
+<p>香港的情形也做如是观。被爱字头陈净心举报的香港艺人，尽管失去了大陆的工作机会，但是获得了香港人的欢迎，对他们受打压保持同情态度，也正在以实际的票房支持受打压艺人在本地的商演。但是对大陆，一般港台人的反感情绪随着举报升温。</p>
+<p>在这样的局面下，大陆对港台的政策、措施都会首先遇到人的心理抵触，这对两岸三地的政策关系是不利的。如果选择持续强硬，黄安、陈净心们的举报当然可以继续采用，<strong>但一旦要调整政策，就会发现已经没了弹性——为何？这都要拜举报所赐。</strong></p>
+<p>意识形态为剑拔弩张的中港台关系埋下了不利的因素，黄安举报犹如被利用的棋子，在虚假的成就感之下制造着举报者的快感、狂欢，但是对于大陆真正要用力化解的困难百害而无一益。这只能是特定时期的产物，对港台实施“文艺戒严”的恶果，又不用黄安之流承担。</p>
+<p>总之，黄安举报台独，并非黄安的胜利，最多延缓他在大陆低级而可疑的变现盈利模式遭执法查处而破产的速度，举报所做的反向宣传，对“台独”绝对是个利好，台独乐见其成。而借举报来强化意识形态，导致人性迟迟不能复苏，只有新“病患”捏着举报的牌子招摇过市。</p>
+<p>2016/1/14</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%EF%BC%9A%E6%96%B0%E7%97%85%E6%82%A3%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%A2%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">台湾独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA/?category=18271" rel="tag">香港艺人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91-%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%B3%95%E5%AE%A3%E8%AA%93%E6%B3%95%E5%99%A8%E9%A6%96%E5%8F%91-%E5%85%A8%E5%A5%97%E5%85%B1%E4%BA%94%E4%BB%B6/" target="cdt-mirror">【异闻观止】中国宪法宣誓法器首发 全套共五件</a>
 </h2>
 <p><p>央广网北京1月15日消息，1月15日，中华人民共和国宪法宣誓法器首发式在北京人民大会堂举行。</p>
@@ -791,73 +876,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E5%AE%81%E4%B9%8C%E5%B8%82%E5%BC%80%E7%9B%B4%E9%80%9A%E8%BD%A6%E5%BD%93%E5%B1%80%E5%8F%91%E9%98%B2%E8%8C%83%E7%BB%B4%E4%BA%BA%E9%80%9A%E5%91%8A/" target="cdt-mirror">自由亚洲｜南宁乌市开直通车当局发防范维人通告</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard40.jpg" alt="Clipboard40" width="549" height="620"></p>
-<p>中国第一条从广西到新疆的铁路1月13日开通，但在官方大肆宣传加强内地与新疆联系之时，广西自治区首府南宁市政府却下令，称因反恐需要，明确要求居民严防新疆人，包括禁止居民向新疆人出租房子及出售除食品衣服外的商品，并向公安局报告新疆人行踪。与此同时，全国铁路正式实施被称为“史上最严”禁带目录。</p>
-<p>中国第一条新疆与广西两地间的直达铁路开通，首趟乌鲁木齐南至南宁的列车于1月13日11：52分抵达南宁。但据网络上流传的一张南宁市宾阳县黎塘镇永安东社区发出的通告，明确要求居民严防新疆人。</p>
-<p>通知具体提出三点要求，一是“务必婉言拒绝出租房子给新疆人居住”；二是“拒绝出售刀具、生火工具、汽油、硫酸等具有威胁人身安全的物品给新疆人，只能出售食品和衣服”；三是“如发现新疆人行踪，要立即向镇政府、镇派出所报告”，通告上还留有多个负责人的联络电话。</p>
-<p>本台记者就此致电南宁市政府，但接线人员回应称，从未出具任何相关通知：“我们是没有种族歧视的，我不知道你是从哪里听来的消息，我们没有办法给你任何答覆。”</p>
-<p>但记者随后致电黎塘镇的一家商务酒店，服务员向记者证实，近日确实收到了警方的通知，不准接待新疆少数民族。</p>
-<p>服务员：“不是每个新疆人都是坏人，但是这里就是有公安局通知，不给住。它说市公安局通知，有新疆人来了，不给住，但是按照道理来说，有身份证都是可以入住的。”</p>
-<p>记者：“用别人的身份证代替开房，由新疆人入住可以吗？”</p>
-<p>服务员：“不可以，我们现在全部都要求实名制。哪个人住就用哪个人的身份证。”</p>
-<p>记者：“为什么不能让（新疆人入住）？”</p>
-<p>服务员：“这个肯定是因为国家要防范。”</p>
-<p>记者：“为什么要（防范）？”</p>
-<p>服务员：“毕竟公安局通知了我们酒店，我们也没办法。”</p>
-<p>记者：“新疆人要入住要去派出所开证明是吗？”</p>
-<p>服务员：“应该是这样，他们现在通知我们不给直接办理入住，我们也没办法。”</p>
-<p>记者：“从什么时候开始的？”</p>
-<p>服务员：“从这个月，公安局通知我们了，我们必需按照这样的规定来实行，不然我们会被罚款。”</p>
-<p>记者：“应该找那个派出所开证明呢？”</p>
-<p>服务员：“就是黎塘镇派出所。反正自从暴乱开始，很少有新疆人来住宿了，反正直接来的我们肯定不给。”</p>
-<p>记者随后致电黎塘镇派出所，一名值班人员在得知记者身份后拒绝接受采访。</p>
-<p>与此同时，中国官媒“中国新闻网”报道，被称为“史上最严”铁路“禁带目录”于1月10日开始实行，菜刀、餐刀、射钉枪等被禁止带上列车，安全火柴、普通打火机携带数量则降为只能携带2个。报道引述铁路警方表示，全国各大火车站逢包必检、逢液必检。</p>
-<p>这一新规引发网民热议，不少网民认为这是扰民之举。有网民提问道：过年回家想带瓶酒也不可以了吗？请问吃水果怎么削皮？以后行李全部发快递吗？</p>
-<p>网民“骑狗看星星”说：守法的你就是让他带也没事，不守法的你让他光着一样得给你弄点事出来。”</p>
-<p>另一网民“混沌逃生者2012”说：国外都没这么严格，为何国内越来越严？人们出行需要携带生活必需品，应提供方便才对。安检的目的就是拦截真正的危险品，难道有了安检还不放心吗？这是不是安检部门因噎废食、以图绝对无责任之举? 对此不敢苟同。</p>
-<p>南宁市政府发出通知禁止居民向新疆人出租房子。（Public Domain）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E5%AE%81%E4%B9%8C%E5%B8%82%E5%BC%80%E7%9B%B4%E9%80%9A%E8%BD%A6%E5%BD%93%E5%B1%80%E5%8F%91%E9%98%B2%E8%8C%83%E7%BB%B4%E4%BA%BA%E9%80%9A%E5%91%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%AE%81/?category=18271" rel="tag">南宁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E4%BA%BA/?category=18271" rel="tag">新疆人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%EF%BD%9C%E6%B3%95%E5%AE%98%E8%AA%93%E8%AF%8D%E4%B8%8D%E5%90%AB%E5%BF%A0%E4%BA%8E%E5%85%9A-%E5%BE%8B%E5%B8%88%E5%AE%98%E6%96%B9%E5%81%9A/" target="cdt-mirror">美国之音 ｜法官誓词不含”忠于党” 律师:官方做法自相矛盾</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard41_16.jpg" alt="Clipboard41_16" width="549" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard41_16-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Clipboard41_16.jpg 700w" sizes="(max-width: 549px) 100vw, 549px"></p>
-<p>13日，最高人民法院举行新任法官宪法宣誓仪式</p>
-<p>中国最高法院副院长沈德咏带领数十位新任法官向宪法宣誓，这在历史上是首次。70字的誓词提到“忠于宪法”、“忠于祖国”、“忠于人民”，却只字未提“党”，似乎法终归大于党。但有中国观察人士认为，这在形式上是一种进步，但形式和内容还未达到一致。更有常年与法官打交道的律师也表示，问题不在于他们怎么说，而是它制度的本质是什么。</p>
-<p>“我宣誓：忠于中华人民共和国宪法，维护宪法权威，履行法定职责，忠于祖国、忠于人民，恪尽职守、廉洁奉公，接受人民监督，为建设富强、民主、文明、和谐的社会主义国家努力奋斗！” 1月13日，最高人民法院举行新任法官宪法宣誓仪式，在最高人民法院院长周强的监誓下，最高人民法院常务副院长沈德咏带领包括45位新任法官宣读了70字的誓词。</p>
-<p>这份誓词不仅针对法官群体。根据《全国人大常委会关于实行宪法宣誓制度的决定》，今年1月1日起，各级人民代表大会及县级以上地方各级人民代表大会常务委员会选举或者任命的国家工作人员，以及地方各级人民政府、人民法院、人民检察院任命的国家工作人员，在就职时都应当公开进行宪法宣誓。誓词统一为这70个字。</p>
-<p>公仆们不必“忠于党”了？</p>
-<p>前中国最高人民法院院长王俊胜曾说，司法工作要三个至上，党的事业至上、人民利益至上、宪法法律至上，而最新的70字誓词只字未提“党”。人在中国的维权律师刘士辉谈到，两者虽然用词不同，但实质没有变。他说：“王大法盲他那三个至上在外面太丢人了，所以说现在换了这样一种誓词，实际上没有区别。”</p>
-<p>在中国，共产党是领导一切的。政法委统管全国的公检法工作，法官当然不例外。所有大案要案最终裁决权在政法委不在法官。法官也是公务员，公务员首先是对党负责，然后才是“公仆”。</p>
-<p>但毕竟誓词只要求公仆们“忠于宪法”、“忠于国家”、“忠于人民”，人民大学教授周孝正表示，这在形式上是一种进步。他谈到，习近平在纪念新宪法成立30周年时也讲过，一切组织机构都必须在宪法和法律的范围内活动。“一切组织机构包括共产党，因为共产党是一个组织，”周孝正说。</p>
-<p>关于党大还是法大的问题，已经是老生常谈。习近平的父亲习仲勋就曾问过：“到底是党大还是法大？是法管党，还是党管法？这个问题不解决，中国还会有灾难！” 人民日报援引清华大学法学院院长王振民的话说，党大还是法大是个伪命题。王振民说：“最重要的是，党把自己的权力放到法律法规的笼子里边”。</p>
-<p>周孝正教授也认为这是个伪命题。他说：“我记得李鹏当总理，后来又当了委员长了。在他当人大委员长的时候，他有一句话大意是这么说的：法是哪儿来的？党领导着全国人大定的法。那么一旦定了法，党的组织包括党的一个一个的个人都要服从法。他这个道理我觉得还是讲的比较清楚的。”</p>
-<p>习近平周二在中纪委全会（18届6中）上说，全面从严治党永远在路上。他说，坚持纪严于法、纪在法前，“努力建造一支忠诚、干净、担当的纪检监察队伍”。 中纪委对干部的双规，就是置宪法于不顾的一种党纪严于法律的最直接和明显的表现。</p>
-<p>官媒为何经常自相矛盾？</p>
-<p>但同样是人民日报，它去年2月通过总编室官方微信公号“一撇一捺”发布文章称：“有些人盯着‘党大还是法大’这个问题不放……有时跃跃欲试，要把党‘关进法的笼子’。”言语间有种讽刺的意味。</p>
-<p>刘士辉认为，中国官方说法的自相矛盾是很常见的。他说：“这种自相矛盾其实的话，不要说在社会生活当中，在法律里面也有所体现。” 刘士辉表示，“把党关进法的笼子”是宪法的题中应有之义。中国官方在1982年新宪法颁布之时也强调，一切政党、社团、国家机关以及其他组织和个人都要在宪法和法律范围内来活动，不能超越法律，不能超越宪法。</p>
-<p>周孝正将这种自相矛盾的现象称为“双重人格、三套面具”。他说：“中国的基本国情就是精神分裂，就是说它说一套，做一套，想一套。比如说我们年轻时候唱国际歌，但是唱完了国际歌，马上我们又唱东方红。什么叫国际歌呢？世界上从来没有救世主，也没有神仙皇帝；要创造人类幸福，全靠我们自己。但是马上就是：东方红，太阳升，中国出了个毛泽东；他为人民谋幸福，他是人民的大救星……所以说那边唱‘从来就没有（救世主）’，这边呼呼就出一个（大救星）。”</p>
-<p>他谈到，中国官方的声音也不是只有一个。</p>
-<p>比如，前中共中央总书记胡锦涛在十七大的讲话上强调要 “彻底否定‘以阶级斗争为纲’的错误理论和实践”，但江泽民却讲到，“只要阶级斗争还在一定范围内存在，我们就不能丢弃马克思主义的阶级和阶级分析的观点与方法。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%EF%BD%9C%E6%B3%95%E5%AE%98%E8%AA%93%E8%AF%8D%E4%B8%8D%E5%90%AB%E5%BF%A0%E4%BA%8E%E5%85%9A-%E5%BE%8B%E5%B8%88%E5%AE%98%E6%96%B9%E5%81%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">党管司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">司法系统</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -869,7 +887,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -879,5 +897,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

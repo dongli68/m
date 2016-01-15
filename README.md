@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/425435/" target="cdt-mirror">【网络民议】唇亡齿寒，还得意洋洋</a>
+</h2>
+<p><p><em>【编者注】求是网这份所谓“互联网舆情研究报告”不仅没有包括任何能说明事实的数据，还将公知大V“遭到压制性打击”和“销号”、重大事故后舆论场被“平静”等中共加紧控制言论的行为当作正面新闻来报道。求是网最后还不忘自行曝出“自干五”目前面临着内部分裂的困境。</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BC%A0%E6%99%A8%E5%88%9D%E6%9C%89%E7%94%BB%E8%AF%B4_%E4%B8%AD%E5%9B%BD%E8%A7%92%E8%89%B2.jpg" rel="attachment wp-att-425439"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%BC%A0%E6%99%A8%E5%88%9D%E6%9C%89%E7%94%BB%E8%AF%B4_%E4%B8%AD%E5%9B%BD%E8%A7%92%E8%89%B2.jpg" alt="张晨初有画说_中国角色" width="425" height=""></a><br><em>（“中国角色” by 张晨初）</em></p>
+<p><strong><a href="http://news.ifeng.com/a/20160114/47075316_0.shtml">求是网｜2015年中国互联网舆情研究报告</a></strong>（部分）</p>
+<blockquote><p>2015年，一个值得写入中国互联网发展史册的年份。</p>
+<p>2015年，是中国互联网舆论格局和生态治理震荡上扬的一年。<span><strong>公知大V和网络谣言遭到压制性打击</strong></span>，被称为“推墙派”、“凿船派”、“体制婊”的一系列网络负能量群体折戟沉沙，<strong>一大批涉政治敏感帐号被依法关闭</strong>，个别在重大公共突发事件中发表不当言论的网络大V，被中央网信办点名批评、惩戒。[…] 政务微博强势介入舆论场，微博热度一度呈现上扬趋势，<strong>但大V的失声（沉寂、被销号）、转场（微信等）、转型（变营销号），使得核心资源加速流失</strong>，加之新浪平台不能合理开发利用自身资源，微博衰败加速或已不可避免；[…]</p>
+<p>一、总体情况</p>
+<p>3、公知核心力量受重创折戟沉沙。<strong>2015年，公知核心力量“@老榕”、“@报人老罗、“@袁裕来律师”等陆续被销号</strong>，在2015年重大公共突发事件中的影响力明显减弱。[…]仅对网络上流传的“公知地图”名单进行观察，<span><strong>公知群体的发声明显有所谨慎、收紧，这与国家对互联网越来越成熟的治理手段有密切关联</strong></span>。</p>
+<p>4、自干五强势崛起，观点分歧不影响整体发展战略。正能量传播冲抵负能量，在2015年的各大公共突发事件中表现得非常明显。“4·25尼泊尔地震”、“6·1东方之星旅游客船倾覆事件”、“8·12天津滨海新区爆炸事故”等一系列重大事件，<strong>自干五都显示出了强大的战斗力，以及对负面舆情的精准“狙击”能力</strong>。[…]</p>
+<p>6、官方处置重大舆情危机能力再度提升。与“甬温线7·23动车事故”相比，<strong>中国舆论场在“6·1东方之星旅游客船倾覆事件”事件上表现的<span>出奇“平静”</span></strong>。总理的亲自坐镇、媒体的密集发布、外媒的妥善处置、正义网民的准确发力，使得该事故成为经典的舆情保卫战。</p>
+<p>二、2015年中国十大互联网舆情</p>
+<p>2、“长江沉船”，舆情防御的经典案例。[…]<strong>从舆论施压角度来说，并没有一个实体组织、政府部门、政府官员、游船负责人成为媒体或网络共同口诛笔伐的焦点，对于如此重大的突发事件，网络能够有如此事表现，全然得益于官方和正义网民的上下齐手、协力奋战。</strong></p>
+<p>三、中国互联网发展变向</p>
+<p>4、民间力量跨网先行，海外舆论场首现纯正中国声音。[…]提前嗅到这一动向的民间正义网友，尤其是欧美留学生已经率先发力，<strong>自发地在海外发出<span>纯正的</span>中国声音，表达中国态度</strong>。</p>
+<p>四、中国互联网未来趋向</p>
+<p>三是“自干五”自我净化。随着以“自干五”为代表的网络正能量群体不断壮大、发展，舆论江湖呈现出打破公知“一统天下”的态势，但受到“自干五”的“桃子诱惑”，投机派开始大量涌入，使得小部分“自干五”的初衷不纯；<span><strong>＊＊＊＊对“自干五”的“不当认识”和“拔苗助长”，“自干五”受到越来越明显的利益侵扰和分化</strong>。另外，<strong>核心“自干五”的观点纠纷，将促进“自干五”内部加速裂变。</strong></span></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/5797592037" target="_blank">@爱霜始</a>：靠着销号、删帖、禁言的不正当手段，还好意思说“正能量”如何如何？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/taoyh1028" target="_blank">@YohannTao</a>：一个大V倒下去了，千千万万个小V站起来了，V们是……<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/1901091063" target="_blank">@猫言可畏</a>：以后分普世派与特色派？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p><a href="http://weibo.com/bjlisonglin" target="_blank">@李松林的微博</a>：这盛世，如你所愿。<img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"><img title="[鼓掌]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]"></p>
+<p><a href="http://weibo.com/2470978847" target="_blank">@simo平</a>：过去牛鬼蛇神……帽子多呢，现在的帽子是公知大V<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"><img title="[偷乐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif" alt="[偷乐]"></p>
+<p><a href="http://weibo.com/5614018835" target="_blank">@豆豆打搜都</a>：共产党左转并不是坏事。加速历史进程有啥不好<img title="[歪果仁夏克立]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9c/bbqnxiakeli_org.gif" alt="[歪果仁夏克立]">的</p>
+<p><a href="http://weibo.com/2924407910" target="_blank">@Hongs-Jiacuo</a>：载入史册是毫无疑问的！是名垂青史还是遗臭万年，那就不好说了<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p>@木头8724：赵国就是牛X</p>
+<p>@ST42195：自干五去吃屎，我们五毛看不起你们！别来分我们口粮！</p>
+<p>@哈三哥：哈哈，自干五都成了正能量了，那你删掉德国自干五干吗</p>
+<p><strong>@杨小沐奶奶：唇亡齿寒，还得意洋洋</strong></p>
+<p>@朝一匹卧槽马：能公布网评员的经费开销吗？</p>
+<p>@夜妄子:背后动作频频才是主要原因，也就是阶级斗争一抓就灵那一套</p>
+<p>@奉天道者飞狐：历史虚无主义：某些国家的一半历史是假的—龙应台演讲</p>
+<p>@面朝大海VVV：它们有枪。</p>
+<p>@终南山人的天空1：哈哈 ，杀了公鸡，天就不亮了。</p>
+<p>@郭少爷的家丁：你们有七千亿的维稳经费啊，这么点成绩不值得吹牛皮。</p>
+<p>@凌国华兮：眼下正逢三九四九，是天气最寒冷的时候。</p>
+<p>@白河从我家门前流过：想当初，包子刚上台，万众期待，反腐声隆，风光得很。看现在，民怨沸腾，有几人不唾X。</p>
+<p>@烧不酥的老番茄：厉害厉害！自干五比依“法”滞国还厉害</p>
+<p>@ww663：给上面看的舆情报告，其真实性可想而知</p>
+<p>@奥伯丁的落日：你党上一次气象这么好是57年，一年后马上粮铁翻番，超英赶美去了</p>
+<p>@goodlucks123：看了看《求是》微博评论大多是个位数，二位数都少，自干五都没关心的一个媒体。</p>
+<p>@尹銘君：包子铺掌柜的一人忙前忙后，还得留神自家的包子铺被手下的伙计给强拆了。我等屁民无非就是看看热闹罢了。</p>
+<p>@举手表决全体同意:开始闭目自撸了！</p>
+<p>@子夜的昙4：牛逼，为了凑数，很多人被公知了，@-小麻子- 那种无害家庭妇女都被封号了，我整天发吃发喝发旅游也到4了。</p>
+<p>@水流沙坝2：大V被朝阳区群众，五毛，自干五围剿，国安网警的主力兵团的打击，已经溃不成军，正能量有7000多亿的维稳经费，弹药充足，历史虚无主义已经被平息了。</p>
+<p>@东马1126：四人帮最忘形的时候，他们占领的舆论高地比珠峰还高，又怎样呢？！</p>
+<p>@齐天小射：1638年，李自成仅剩18骑躲进商洛山，朝廷欢庆。1644年，明亡，崇祯自缢……</p>
+<p>@顺其自然7275：呸，认清了包子什么馅</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/425435/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E7%BF%BB%E6%B2%89%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">“东方之星”船难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9F%A5/?category=18271" rel="tag">公知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%A4%A7v/?category=18271" rel="tag">微博大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E6%98%AF/?category=18271" rel="tag">求是</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%A4%A7v/?category=18271" rel="tag">网络大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/" target="cdt-mirror">【真理部】北京锋锐律师事务所多名律师涉重大犯罪专案</a>
 </h2>
 <p><p>关于北京锋锐律师事务所多名律师涉重大犯罪专案：各网站一律不得开设专题专栏、不擅自采访报道、不擅自评论。要及时删除微博、微信等互动环节中的有害信息，对性质恶劣的用户账号要及时采取管控措施。</p>
@@ -708,48 +764,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%85%A8%E7%90%83%E9%A6%96%E5%B1%8A%E8%9B%A4%E4%B8%9D%E5%A4%A7%E4%BC%9A%E6%88%90%E9%83%BD%E4%B8%BE%E8%A1%8C/" target="cdt-mirror">【网通社】全球首届蛤丝大会成都举行</a>
-</h2>
-<p><p><strong>相关背景：</strong></p>
-<blockquote><p>2000年10月，一名香港女记者因为连续追问“中央钦定特首”的敏感问题而使得江泽民大怒。这名成为那段“江泽民怒斥香港记者”知名视频的主角之一的香港记者就是张宝华。张宝华在新浪微博注册账号并认证之后不久，“蛤丝现象”的兴起使得她的微博意料之外地成为了“蛤丝聚集地”，她发的任何一条微博下面几乎都有大量蛤丝的膜拜、调侃，她从起初的不知所谓，到坦然接受，最后甚至主动和微博上的蛤丝们用“膜蛤语录”互动，以及组织线下网友见面会。</p>
-<p>2015年，江选研讨会作者黄薄码的文章<a href="http://chinadigitaltimes.net/chinese/2015/03/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E5%88%B0%E5%BA%95%E8%B7%91%E7%9A%84%E6%9C%89%E5%A4%9A%E5%BF%AB%EF%BC%9F/" target="_blank">《香港记者到底跑的有多快？》</a>向其读者详细介绍了“向长者提问的女记者”张宝华，也使得她在那次采访十余年后，进入了大陆蛤丝们的视野。</p>
-<p>相关阅读：</p>
-<p><a title="纽约时报 | “膜蛤文化”盛行中国网络 或为影射习近平" href="http://chinadigitaltimes.net/chinese/2015/10/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96%E7%9B%9B%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E6%88%96%E4%B8%BA%E5%BD%B1%E5%B0%84%E4%B9%A0/">纽约时报 | “膜蛤文化”盛行中国网络 或为影射习近平</a></p>
-<p><a title="林中来信｜“膜蛤”的模因与迷思" href="http://chinadigitaltimes.net/chinese/2016/01/424823/">林中来信｜“膜蛤”的模因与迷思</a></p>
-<p><a title="黄薄码：我们来谈谈「江选研讨会」这个号" href="http://chinadigitaltimes.net/chinese/2015/11/%E9%BB%84%E8%96%84%E7%A0%81%EF%BC%9A%E6%88%91%E4%BB%AC%E6%9D%A5%E8%B0%88%E8%B0%88%E3%80%8C%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A%E3%80%8D%E8%BF%99%E4%B8%AA%E5%8F%B7/">黄薄码：我们来谈谈「江选研讨会」这个号</a></p>
-<p><a title="江选研讨会 | 长者的毕业季" href="http://chinadigitaltimes.net/chinese/2015/11/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A-%E9%95%BF%E8%80%85%E7%9A%84%E6%AF%95%E4%B8%9A%E5%AD%A3/">江选研讨会 | 长者的毕业季</a></p></blockquote>
-<p>1月13日，香港媒体人张宝华因个人事务途径成都，提前在新浪微博召集网友聚会，而后见面会现场意外聚集几十名“蛤丝”，规模庞大，成为蛤丝们戏谑的“全球首届蛤丝大会”。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A.jpg" alt="蛤丝见面会" width="450" height="331"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D.png" alt="蛤丝" width="450" height="544" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝-248x300.png 248w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝.png 601w" sizes="(max-width: 450px) 100vw, 450px"></p>
-<p>现场图片</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A.png" alt="蛤丝见面会" width="600" height="448" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会-300x224.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会.png 639w" sizes="(max-width: 600px) 100vw, 600px"><p>现场有蛤丝拿出《基本法》要求签名</p></div>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A2.png" alt="蛤丝见面会2" width="600" height="338" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会2-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会2.png 640w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A3.png" alt="蛤丝见面会3" width="600" height="448" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会3-300x224.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会3.png 639w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%9B%A4%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A5.png" alt="蛤丝见面会5" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会5-225x300.png 225w, http://chinadigitaltimes.net/chinese/files/2016/01/蛤丝见面会5.png 637w" sizes="(max-width: 450px) 100vw, 450px"></p>
-<p>张宝华（15年前，一个长者怒斥的香港女记者，现在已经是寰亚传媒集团高级副总裁）：</p>
-<p>我很喜欢微博的朋友，他们年纪都很小，大概都是80后、90后，他们来到我的微博都是因为15年前的那件事情。我没想到这件事情，在15年后还很能引起很多朋友的关注。</p>
-<p>我对这种情况很惊讶，没想到现在还能火。每天还有很多人通过微博私信我，过来问我一些问题。有的问念书念不好怎么办，有的问追女孩子追不到怎么办，形形色色的问题都有。</p>
-<p>所以你一定要问我觉得烦不烦的话，坦白告诉你我不觉得烦。</p>
-<p>我觉得他们挺可爱的，我很喜欢微博的朋友。他们每个人都很不一样，有些像你一样喊我“张老师”，还有一些喊我“宝华姐”。叫我“宝华姐”的人比较多，其实从小身边的朋友都喊我“宝姐姐”，我的感觉很好。他们有的在读大学，有的刚毕业，所以我肯定是他们的大姐姐，大他们很多岁。我对他们一点也不觉得烦。</p>
-<p>宝华姐来到成都和蛤丝见面，现场蛤意盎然，蛤友们神魂颠倒，坐卧难安，大家都很excited！</p>
-<p>来源： 蛤友谭缘一线消息 1980青年学社</p>
-<p>其他网友详细<a href="http://mp.weixin.qq.com/s?__biz=MzIxODEwMjA2MQ%3D%3D&from=groupmessage&idx=1&isappinstalled=0&mid=401658759&scene=1&sn=df8d9c6684722a19c1f5401915f52618&srcid=0113Tvvzepnh7kLp9RDy6GKM" target="_blank">现场记录</a>     来源： 一个赛艇</p>
-<p><strong>以下来自现场网友 @deidei 的记录：<br></strong></p>
-<p>非常有意思的一次见面会，膜蛤膜到线下也是醉了，成都此站可谓第一届蛤丝大会，有种既轻松又正式的感觉，毕竟还有人专门带来了基本法，甚至还有人从昆明专程飞机赶来。因为张宝华本人的高亲和力，与网友积极的互动，使得蛤丝这个偏小众的亚文化群体有了一次难得的线下聚集契机（毕竟不可能由蛤蛤组织）。</p>
-<p>也许是和上班时间冲突，张宝华现场调查的时候，可以看到绝大多数在场者都是90后的大学生，男生占据九成以上的比例，现场粗略观察仅有3、4名女生。</p>
-<p>张宝华在谈话中并没有聊到太多的政治议题，而是以“长者身份”向在座各位年轻人提出人生建议：在适合的年龄段多拍拖、注意锻炼强健的体魄（例如自己坚持长跑）、要耐得住人生的各种艰难挑战。</p>
-<p>有媒体人士向张宝华提问：觉得自己工作特别没有成就感，整日被束缚手脚，该如何对待？张宝华回答说改变环境很艰难，可以尝试先不被改变和对环境有限改变，她以自己马拉松竞赛体验为例，也许现在身处一个体力瓶颈期，自觉无法继续，但一心要跑完全程就必须坚持。</p>
-<p>有网友问16年前面对长者的心态是什么？张宝华回答说当时年轻，自己只是想尽到自己的责任，但是自己从来没有想过过去这么多年了，还会有那么多人记得她。又有网友追问现在做记者还有没有勇气提问最高领导人，张宝华坦言这个不是勇气的问题，而是责任的问题，很多时候你需要这么做。</p>
-<p>还有现场网友询问张宝华，“蛤丝现象”得到了海内外时政中文群体的关注，成为一种不那么容易解释的现象级的政治文化现象，不同人对此的解读差异甚大，不知道张个人怎么看待？怎么解读？被迫圈入这种“膜蛤现象”的张有没有觉得困扰？张宝华并没有回答第一个问题，只是表示自己没有收到膜蛤的困扰，反而觉得自己能在陌生的城市召集到这么多的朋友而感到高兴。</p>
-<p>一点自己的观察：蛤丝聚会从源头上讲应该算是有政治属性的圈子聚会，但是由于它独特的幽默属性，使得这样形态的线下聚会可以很大的消解敏感风险，但反过来也会消解它时政讨论的空间和严肃氛围，当然这一方面也和张宝华个人的主持和答问风格有关，总之这一次的聚会更多的像是一个轻松友好的粉丝见面会。蛤丝群体的复杂化也在这次聚会中得到体现，和很多媒体所结论的蛤丝约等于政治反对派、不满现实人士、热心时政人群不完全相同，从关注和讨论的内容可以看到，相当多的现场蛤丝其实并不政治感冒，他们更多的只是觉得“膜蛤”有趣而已，好玩且很酷，一个亚文化群体的不同个体中可能有一些东西是相似的，但也存在有一些东西是截然不同的。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%85%A8%E7%90%83%E9%A6%96%E5%B1%8A%E8%9B%A4%E4%B8%9D%E5%A4%A7%E4%BC%9A%E6%88%90%E9%83%BD%E4%B8%BE%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E7%90%83%E9%A6%96%E5%B1%8A%E8%9B%A4%E4%B8%9D%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">全球首届蛤丝大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%AE%9D%E5%8D%8E/?category=18271" rel="tag">张宝华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9E%E7%AC%91/?category=18271" rel="tag">搞笑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%B6/?category=18271" rel="tag">政治家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%96%84%E7%A0%81/?category=18271" rel="tag">黄薄码</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -771,5 +785,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

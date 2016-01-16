@@ -21,9 +21,68 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/" target="cdt-mirror">中国数字时代(China Digital Times)发布免翻墙浏览器扩展</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2012/07/gfw-6978.jpg" alt="gfw-6978" width="351" height="498"></p>
+<p>一键穿墙，任性阅读中国数字时代。</p>
+<h3>Firefox</h3>
+<p>下载: <a href="https://github.com/cdtmirrors/cdt.unblocked/blob/master/installer/china_digital_times-0.0.5-fx+an.xpi?raw=true" target="_blank">github</a></p>
+<p>安装: 直接用 Firefox 浏览器打开安装文件</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-15-at-3.32.28-PM.png" alt="Screen Shot 2016-01-15 at 3.32.28 PM" width="389" height="504"></p>
+<h3>Chrome</h3>
+<p>方法1：墙外请直接访问 <a href="https://chrome.google.com/webstore/detail/pogbeechjdafcafejffopgfhafkkbgfe" target="_blank">Chrome Store 地址</a> 安装；</p>
+<p>方法2：<br>
+2.1 点击 <a href="https://github.com/cdtmirrors/cdt.unblocked/blob/master/installer/china_digital_times-v0.0.5.crx?raw=true" target="_blank">github</a> 下载 china_digital_times-v0.0.5.crx<br>
+2.2 在谷歌地址栏输入 chrome://extensions/ 打开扩展程序管理界面，<br>
+2.3 将安装文件拖拽入浏览器窗口.</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14-1024x768.png" alt="Fuck GFW 14" width="500" height="375" srcset="http://chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14-300x225.png 300w, http://chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14-1024x768.png 1024w, http://chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png 1600w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<h3>开源翻墙工具：萤火虫FireFly Proxy 新版 0.2.0</h3>
+<p>内置TOR的meek流量混淆技术，可通过默认浏览器直接翻墙，支持HTTP(s)和SOCKS5协议，可自定goagent等http代理、SSH和Shadowsocks账号（需要自备）。</p>
+<p>支持黑名单/白名单（自动更新），墙内直通，墙外自动翻墙，浏览器建议使用FireFox或Chrome，无需安装翻墙插件。</p>
+<p>支持Windows和Mac系统，操作说明和设置界面为中文，自动解压缩到桌面并生成快捷方式，纯绿色，删除文件即卸载。</p>
+<p>项目页：https://github.com/yinghuocho/firefly-proxy</p>
+<p>FireFly 0.2.0 版下载地址：</p>
+<p><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true" target="_blank">Windows 版 github 下载地址</a><br><a href="http://sourceforge.net/projects/fireflyproxy/files/firefly-proxy-win-0.3.0.zip/download" target="_blank">Windows 版 sourceforge 下载地址</a><br><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-mac-latest.dmg?raw=true" target="_blank">Mac OS X 版 github 下载地址</a><br><a href="http://sourceforge.net/projects/fireflyproxy/files/firefly-proxy-mac-0.3.0.dmg/download" target="_blank">Mac OS X 版 sourceforge 下载地址</a></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2013/06/gfw2.jpg" alt="gfw2" width="492" height="407"></p>
+<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=18271" rel="tag">Chrome</a>, <a href="https://chinadigitaltimes.net/chinese/tag/firefox/?category=18271" rel="tag">firefox</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/?category=18271" rel="tag">浏览器插件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E5%86%85%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/" target="cdt-mirror">【习总日记】 党内还有哪些“政治隐患”</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，14）</p>
+<p>《中纪委十八届六中会议公报》发布：中国共产党第十八届中央纪律检查委员会第六次全体会议，于2016年1月12日至14日在北京举行。出席这次全会的中央纪委委员124人，列席226人。</p>
+<p>我出席全会并发表重要讲话。李克强等党和国家领导人出席会议。</p>
+<p>全会由中央纪律检查委员会常务委员会主持。全会总结2015年纪律检查工作，部署2016年任务，审议通过了王岐山同志代表中央纪委常委会所作的《全面从严治党，把纪律挺在前面，忠诚履行党章赋予的神圣职责》工作报告。</p>
+<p>《公报》发布后，我请中纪委书记王岐山对《公报》作进一步解释。王岐山说还是习总您来吧。我想也是。很多问题只有我讲得清楚。</p>
+<p>政治隐患</p>
+<p>《公报》说：“党中央严肃查处周永康、令计划违纪违法案件，消除了党内重大政治隐患，彰显了全面从严治党的坚定决心。”</p>
+<p>上面这段有三点必须说明。第一，“消除了”不等于说党内现在将来就不存在重大政治隐患。第二，“隐患”指将病未病。我曾经写过一篇日记说的就是向中医学习治未病。看你不顺眼，认为你可能犯罪，在你并未犯罪的情况下先把你抓起来治罪，以绝后患。第三，联系到周永康令计划违纪违法案件，指这两起案件是政治隐患，并无事实发生。证明了周永康令计划两人行为并未造成实际上的政治事件，仅仅是隐患。</p>
+<p>纪法分开</p>
+<p>《公报》说：“在全面依法治国条件下，管党治党要靠党规党纪，坚持纪严于法、纪在法前，实现纪法分开，用严明的纪律管住全体党员。”</p>
+<p>上面这段重点是“纪法分开”四个字。纪法分开就是法律归法律，党纪归党纪，互不干扰，互不挖墙脚。讲法律的场合不提党纪，讲党纪的场合不提法律。每一个共产党员请听好了，包括刘少奇同志，党无论如何对待你，要你生或要你死，别跟我谈什么宪法法律。</p>
+<p>纪委不是“公检法”</p>
+<p>《公报》说：“纪委决不能成为党内的‘公检法’，执纪审查决不能成为‘司法调查’，要依纪监督、从严执纪，真正把纪律立起来、严起来，执行到位。”</p>
+<p>上面这段是要告诉每一位党员干部，当纪委对你执行纪律审查时，不会效仿司法调查的套路保障人权讲究证据什么的。第一你没有任何尊严权利可言，第二证据不重要上级领导说了算，第三你可以跳楼我们绝不阻拦大家省事。</p>
+<p>《公报》说：“全面从严治党，要运用监督执纪‘四种形态’：让咬耳朵、扯袖子，红红脸、出出汗成为常态，党纪轻处分、组织调整成为大多数，重处分、重大职务调整的是少数，而严重违纪涉嫌违法立案审查的只是极极少数。”</p>
+<p>上面这段发出明确信号，中纪委的重点从打老虎向拍苍蝇转移。为啥？因为党依靠老虎管苍蝇。老虎们整天提心吊胆哪还有心思管苍蝇？苍蝇没老虎管的话就如同无头苍蝇，乱来。那还了得。</p>
+<p>最后提个问题给大家回去思考：周永康令计划的政治隐患消除了，还有哪些政治隐患亟待消除？</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E5%86%85%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">中纪委全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/?category=18271" rel="tag">政治隐患</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%86%8D%E6%AC%A1%E6%9A%B4%E8%B7%8C%E6%98%AF%E4%B8%AD%E5%85%B1%E5%86%85%E9%83%A8%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89%E7%9A%84%E7%BB%A7/" target="cdt-mirror">法广｜中国股市再次暴跌是中共内部政治斗争的继续</a>
 </h2>
 <p><div>
@@ -762,71 +821,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%8A%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B%E3%80%8B%E7%9A%84%E5%91%BD%E8%BF%90%E5%92%8C%E5%8F%97%E5%AE%83%E7%89%B5%E8%BF%9E%E7%9A%84%E4%BA%BA/" target="cdt-mirror">肖雪慧：《大学人文教程》的命运和受它牵连的人</a>
-</h2>
-<p><p>今早在得知涉出版界一条坏消息后，一句话挥在脑海里之不去：这个权力，专干搜索英才而毁之的事。而在教育、出版等被当成“上甘岭”阵地的领域，情况更严峻，现在几乎是：凡想在这些领域做点正常事，就动辄得咎。下面发的是两年前写的，当时很多人读后为文中提到的好编辑的境遇唏嘘不已，但今早得知的消息，这种情况正在常态化，出版界、思想文化界正被推入暗夜。</p>
-<p>2016年1月10日<br><em><br>
-正文：</em></p>
-<p><strong>《大学人文教程》的命运和受它牵连的人</strong></p>
-<p>肖雪慧</p>
-<p>前天，西南交大举行了黄万里雕像揭幕仪式，受邀的很少，仅二十来人，我学界的朋友、《黄万里的长河孤旅》的作者赵诚是其中之一。多年不见，来了成都，自然要请他过来一叙。</p>
-<p>他是昨天傍晚的回程机票。早晨还有机会去趟三星堆。参观了三星堆来电话时，已经在校门了。我骑车到校门，虽然十年没见面，还是一眼就认出来。</p>
-<p>我跟赵诚同为《大学人文教程》的作者，也是因为这本书认识的。其实，这本书之前，广西师大出版社已经出版了三卷本的《大学人文读本》。这套近百万字的读本分为《人与自我》、《人与国家》、《人与世界》，按主题需要从国内外现当代作者的作品中选取了约三百篇文章，主旨是给当代大学生精神成长提供根基性价值参照和精神底线。我的《纳税人，说出你的权利》收入了《人与国家》，这是我收到出版社赠寄的书之后才知道的。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B1.jpg" rel="attachment wp-att-425319"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B1.jpg" alt="大学人文教程1" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程1-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程1.jpg 1872w" sizes="(max-width: 1872px) 100vw, 1872px"></a></p>
-<p>《读本》是2002年上半年出版的。夏天，丁东来电话邀请我参加《大学人文教程》的写作。原来，这是《读本》几位编者的后续计划：不仅通过一套大学生和同龄青年有兴趣去读的人文读本给出有助于他们了解和认识种种基本关系的线索，还要写出一本尽可能高质量的原创性教程，争取把人文教育纳入课堂。教程按照读本的三大块分为上中下篇，“人与自我”篇包含了自我实现、性爱·青春·婚姻、女性意识、生存勇气等，“人与国家”篇有历史记忆、启蒙革命自由民主宪政等诸多主题，而人权、和平、环境、全球化等主题则在“人与世界”篇，每一章，即使作为单独课题都很值得阐释和挖掘，我很乐意加盟，承担了下篇中的“和平”、“多样文化与普世价值”这两章。说好两个月后完成其中一章初稿。</p>
-<p>10月份，全部作者在黄山市第一次开会。近十位作者中，除了丁东是早就认识的，赵诚、邵建、谢泳、李新宇、刘峰杰……书的主编夏中义、师大出版社编辑赵明节，都是第一次见面。大约三天的会议，真是高强度的脑力劳动。交叉看稿之后逐一讨论每个作者稿子时，坦率、直言不讳和热烈程度，有一种久违了的感觉，有点像80年代在我家里定期举办的学术沙龙气氛。</p>
-<p>这样高强度的会议又进行了两次。最后一次恰逢非典，会议地点又在疫情严重的太原，但是我们在太原周边一个小县城每天看稿、讨论，竟不知道身处疫区。</p>
-<p>教程在2003年7月出版，赶上了秋季开学。那个时候，大学教师还多少有一些开设新课的自主权，夏中义教授率先在上海交大开设了大学人文，又到各地讲学办班、培训教师。而最初设想的由所有作者轮流讲学培训教师，后来大概出于顺利推广人文教程课的考虑，“敏感”作者就没参加了。所以，对后来的情况，我并不清楚。我知道的是，大学人文系列（连同读本、教程以及接下来以书代刊的好几期《大学人文》）在思想学术界、在大学生中反响热烈，这个系列也成了广西师大出版社的一个品牌。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B2.jpg" rel="attachment wp-att-425320"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B2.jpg" alt="大学人文教程2" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程2-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程2-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程2.jpg 1872w" sizes="(max-width: 1872px) 100vw, 1872px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B3.jpg" rel="attachment wp-att-425321"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B3.jpg" alt="大学人文教程3" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程3-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程3-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/大学人文教程3.jpg 1872w" sizes="(max-width: 1872px) 100vw, 1872px"></a></p>
-<p>但昨天赵诚告诉了我《大学人文教程》和这个人文系列书籍后来的厄运。这个书系被“上面”定为有严重政治问题。大学人文书系在所有书店下架，广西师大出版社官网则彻底删除了跟这个书系有关的一切信息。夏中义教授因为是这个书系的主编，又在大学开设了这门课并进行教师培训，有关部门就此专门发文，他不再能招收 博士和带博士，早早被要求办理了退休。受影响最大的是这个书系的编辑赵明节。他的职务被免除，一位在思想界建立了广泛联系的资深编辑现在只能在审校室工作。最骇人听闻的是，这位并非维权者，更无涉任何敏感活动，不过就是想做出好书的编辑，竟一度连离开桂林也受限制，得向当地公安局报告。</p>
-<p>在我认识的编辑中，有两位编辑我印象很深。一位是原《东方文化》副主编余浩明，她是真正热爱编辑工作，很善于跟作者沟通、交流，而且从寂寂无名的青年学子中发现好作者，给青年学子提供平台。后来杂志停刊了，她转到广州一个有编辑专业设置的大学，还算能以另一种方式继续她的事业。另一位就是赵明节，对他的工作抱有很高热情、很敬业。第一次会议期间我跟他交谈过，从他对读本中一些篇目的评价就可以看出他的眼光。但他也很谨慎，为了不给书系带来学术之外的麻烦，也会疏远他很欣赏的作者。这样一位编辑，后来遭遇那样的处境，确实出乎我预料。他被免职后，部分同事的态度也把这地方的世态炎凉表现得淋漓尽致。</p>
-<p>2013年11月25日星期一</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%8A%E5%A4%A7%E5%AD%A6%E4%BA%BA%E6%96%87%E6%95%99%E7%A8%8B%E3%80%8B%E7%9A%84%E5%91%BD%E8%BF%90%E5%92%8C%E5%8F%97%E5%AE%83%E7%89%B5%E8%BF%9E%E7%9A%84%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%96%87%E5%AD%A6%E7%A7%91/?category=18271" rel="tag">人文学科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E4%B8%AD%E4%B9%89/?category=18271" rel="tag">夏中义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E8%87%AA%E7%94%B1/?category=18271" rel="tag">思想自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/" target="cdt-mirror">【歌曲】嗨，山巅的姑娘（写给赵威）</a>
-</h2>
-<p><p><em>来源：Youtube <a href="https://www.youtube.com/channel/UCC8nda4gxCTY_z0iPlml72A" target="_blank">@Wen YunChao</a>（温云超）；歌曲创作者不详</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" rel="attachment wp-att-425301"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%80%83%E6%8B%89.jpg" alt="考拉" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/考拉-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/考拉.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br>
-（“考拉” by Twitter<a href="https://twitter.com/wuyuren/status/686652844506628096">@wuyuren</a> [吴玉仁] ）</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C90%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF%E8%80%83%E6%8B%89%E6%B6%89%E9%A2%A0/">自由亚洲｜“90后” 中国最年轻政治犯考拉涉“颠覆”被捕</a></p></blockquote>
-<p></p>
-<p><strong>《嗨，山巅的姑娘》</strong></p>
-<p>崎岖的山路<br>
-通向着山巅<br>
-入云不见，闭日遮天<br>
-魔鬼冒牌天神<br>
-风沙迷住双眼<br>
-不会磨灭心中信念</p>
-<p>瑟瑟的寒冬<br>
-沉沉的黑夜<br>
-那个已到山巅的姑娘<br>
-她在大声呐喊<br>
-在风中和魔鬼战斗<br>
-想把地狱变成天堂</p>
-<p>嗨，山巅的姑娘<br>
-我要送你一件红色衣裳<br>
-这寒冬的火<br>
-黑夜里的光</p>
-<p>嗨，山巅的姑娘<br>
-我要大声呐喊为你歌唱<br>
-这漆黑的夜<br>
-我们不再幻想</p>
-<p>考拉（赵威）是个90后河南女孩，她热爱自由民主，热心于公益事业，从大学开始参与捍­卫人权的活动。2014年到北京做李和平律师的助理。2015年7月10号被抓到天津­监视居住，2016年1月8号被批准以颠覆国家政权罪逮捕。</p>
-<p><a title="嗨，山巅的姑娘（写给赵威）" href="http://www.youtube.com/watch?v=m26t1sj6NNk" target="_blank">嗨，山巅的姑娘（写给赵威）</a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%97%A8%EF%BC%8C%E5%B1%B1%E5%B7%85%E7%9A%84%E5%A7%91%E5%A8%98%EF%BC%88%E5%86%99%E7%BB%99%E8%B5%B5%E5%A8%81%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -838,7 +832,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -848,5 +842,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

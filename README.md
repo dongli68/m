@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E9%99%86%E7%BD%91%E5%8F%8B%E5%AE%8C%E8%83%9C/" target="cdt-mirror">【立此存照】大陆网友完胜！？</a>
+</h2>
+<p><p>【编者按】周子瑜公开道歉后，《环球时报》官方账号发布长微博，宣称“大陆网友完胜”。但随即有大量微博用户留言，指责周道歉念稿态度不佳、JYP 只是为了钱并没有诚意、在“外网”被人“误会”为中国网民使用网络暴力、故意用低姿态道歉是为了在“外网”赢得同情等等，总之仍群情激愤。即使《环时》某主任编辑在其个人账号内呼吁“现在不应该把她当成敌人”也无济于事（注1）。</p>
+<p>本事件还凸显了防火墙的一个妙处：周子瑜明明没有自己的社交网络账号，Facebook上用她名字的页面都在显眼处标明了”Fan Page” “unofficial fanpage”，以表示为粉丝经营。但在周道歉后，偏被“爱国青年”们在微博传成她在Facebook / Twitter自己的帐号中“已删除道歉视频还转发辱华的帖子”（FB和Twitter的版本都有），绝大多数墙内网友连证伪都无法轻易完成。</p>
+<p><strong><a href="http://weibo.com/p/1001603931681533859185">环球时报：这次对阵“台独势力”，大陆网友完胜！</a></strong></p>
+<blockquote><p>to大陆粉丝们：我们与台独势力的斗争并没有结束…</p>
+<p><strong>而且，你们让JYP公司的老板朴振英道歉的意义也很巨大。</strong><br>
+[…]<br>
+这次JYP的事件，会给其他韩国的娱乐机构乃至韩国其他的商业机构带来一个强烈的“示范效应”：那就是如果你们希望与崛起的中国分享利益经济发展的利益，就必须在对待台湾乃至其他中国的主权和领土问题上“长点脑子”，再不能胡乱地将台湾标注为是一个国家，挑战中国大陆网友的底线。</p>
+<p>因为，我们大陆网友的爱国之心，绝不是什么“暂时的情绪”，祖国才是大本命，这是在中国网友心中会跟随中国走向强势复兴一路的坚定信仰。而在这次事件后，相信大陆网友对与中国有生意往来的境外企业是否敢做出挑战中国底线的事情，只会变得更加上心。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%AF%E6%97%B61.png" rel="attachment wp-att-425600"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%AF%E6%97%B61.png" alt="环时1" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/环时1-407x1024.png 407w, http://chinadigitaltimes.net/chinese/files/2016/01/环时1.png 603w" sizes="(max-width: 603px) 100vw, 603px"></a></p>
+<blockquote><p><strong>@环球时报</strong>：to某由时报、某立、某果等：1，我们这次，赢回了一个中国少女的美好前程；2，我们死磕，是要用行动告诉你们，你们选举爱赢不赢，我们要赢回来的，是一个一个台湾年轻人的未来；3，作为成年人请保持风度，胆敢对周子瑜和她的家人有任何邪念和恶行，绝不姑息。勿谓言之不预。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%AF%E6%97%B62.png" rel="attachment wp-att-425599"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8E%AF%E6%97%B62.png" alt="环时2" width="525" height=""></a></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%EF%BC%9A%E6%96%B0%E7%97%85%E6%82%A3%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%A2%A6/">旧闻评论｜黄安举报“台独”：新病患的鸳鸯蝴蝶梦 </a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2090802231" target="_blank">@奥巴马爱上武松</a>：① 我就喜欢你这一脸不情愿但又不得不和我共建社会主义的样子 ②一脸看不惯中国人又干不掉我们的样子③一脸fk china但嘴里又说我一直为我是一个中国人而感到骄傲的样子。看到你扑通一声跪倒在钱面前道歉的样子，我突然觉得呵呵两个字发明的真是好。机智的中国人 不接受这样不真诚的道歉，对不起啊<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"></p>
+<p><a href="http://weibo.com/1928245851" target="_blank">@Lokmanka</a><i title="微博达人"></i>：你以为中国只有钱？没错我们就是有钱 你他妈能奈我何？最后JYP还不是跪在钱面前？把外网的事解决干净了再来给我们道歉 13亿中国人不是说着玩的 我们能给你整出几千几万种死法不带重样的<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">台独你们有蔡主席？我们还有习大大！<a href="http://huati.weibo.com/k/%E6%8A%B5%E5%88%B6%E5%91%A8%E5%AD%90%E7%91%9C?from=501" target="_blank">#抵制周子瑜#</a> <a href="http://huati.weibo.com/k/%E6%8A%B5%E5%88%B6JYP?from=501" target="_blank">#抵制JYP#</a> <a href="http://huati.weibo.com/k/%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84?from=501" target="_blank">#台湾是中国的#</a></p>
+<div><a href="http://weibo.com/2386879743" target="_blank">@李以诺成长记</a><i></i>：<a href="http://huati.weibo.com/k/%E6%8A%B5%E5%88%B6JYP?from=501" target="_blank">#抵制JYP#</a> 看了道歉视频，现在在国外抹黑<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9493.png" alt="" width="20px" height="20px">，说中国人蛮横无理欺负一个不懂政治的小姑娘是吧<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">好的，我们的不欺负你，周子瑜长得丑请滚出中国，jyp三个字母中国人不喜欢请滚出中国。不跟你瞎折腾，我们就是恶心你们，可以滚了吧<a href="http://weibo.com/n/JYPnation?from=feed&loc=at" target="_blank">@JYPnation</a></div>
+<p><a href="http://weibo.com/2498948744" target="_blank">@倾听指尖</a><i title="微博达人"></i><i></i>：我们胜了！<img title="[耶]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif" alt="[耶]"></p>
+<p><a href="http://weibo.com/3316969304" target="_blank">@杨小脸yo</a>：大陆看来你已经来不了了，以后也请你只说台湾省地方话，毕竟汉语是我们的<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"><img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
+<p><a href="http://weibo.com/3535433583" target="_blank">@小只只只只只-</a><i></i>：周子瑜推特已经删除道歉视频，接着转载了骂中国人是猪的 链接。真是的，两面三刀给谁看？周子瑜戏怎么这么多啊？赶紧狗带！！！<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]">请大家赞上去看到真相，一副委屈的样子想要骗谁？永久性抵制JYP！！！（ps：复制）</p>
+<p><a href="http://weibo.com/1630651381" target="_blank">@大白兔爱喝牛奶不吃糖</a>：说她可怜的也是够了<img title="[哈欠]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif" alt="[哈欠]">她是个牺牲品这没错但16岁了也清楚自己在做什么并且她已删除道歉视频还转发辱华的帖子<img title="[喵喵]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]">jyp因股价下跌把周子瑜扔出来道歉同时在外网各种编排中国人，搞得很多不明真相的外国人以为我们13亿人吃饱了撑的欺负他们公司无知的傻白甜<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我只想说，请把钱还给安徽台然后狗带</p>
+<p>@聂科的微时光：不好意思，中国人健忘，你这说的什么我已经记不清了。我只记得抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp，抵制jyp</p>
+<p>@Jacqueline—zhang：发现一部分中国人真的被jyp说对了，忘性大！！！看看他们公司每天怎样在外网损中国人吧，为了钱扑通跪倒的道歉我们凭什么原谅！！！中国人不被诋毁时你们再心软吧！！！</p>
+<p>@幸福的小Rou：退出，滚回你的台湾去，哔了狗了，还自己取消中国行程，不要脸，16岁你爸妈没教好你，就让中国千千万万来练练你怎么做人，还照着念，你妈没教过你要脱稿啊</p>
+<p>@张星辰是个色厉内荏的girl：卧槽你他妈竟然还写稿子！而且竟然没哭！卧槽一段视频有毛用？麻烦你开个新闻发布会吧最起码！再说了你是自愿终止的吗？你丫是不得不终止吧？</p>
+<p>@木软猪：@情绪少女YY:【扩散】JYP已经道歉几次，外网不明真相，只会误会我们得理不饶人，抹黑我们国际形象。。所以我们需要做的就是，能上外网的尽力去解释，不是吵架撕逼，是搜集各方资料，理智的还原事情真相。。不能用外网的就是继续全力抵制JYP，，这么阴险，陷我中国于不义，手撕了他！！！</p>
+<p>@绿豆石头：中国现被外媒形容为“中国猪！欺负无辜16岁女孩”JYP事件对中国名誉的损害早已超越原本台独言论的危害！不反抗豺狼就坐在我们头上，jyp立刻在全世界媒体上向中国国民道歉！撤掉抹黑中国言论！已经严重伤及中国名誉！韩国方面必须对这样伤害中韩和平的公司予以制裁 此事件严重伤害全体中国</p>
+<p>@荧光色的坚果：说句俗话  如果我妈妈被别人侮辱  就算我会被外人说成不讲理说成蛮横我也会毫不留情并且一直的反击回去直到对方闭嘴</p>
+<p>@树上长了猫：只想说jyp有滚无回，在外网说的那些当我们看不见？？？不是你们选择终止国内活动，是我们不让你们再在中国活动，别个自己脸上贴金！！！抵制jyp！！！</p>
+<p>@心事重重的黄逗逼：我们不被黑锅：必须在全球社交网站公开说清事实，我们没有欺负人，我们在合理捍卫国家主权跟领土完整，开发布会，公开用中英韩三语原原本本讲述事情经过，鞠躬道歉！为外网抹黑中国国家和人民形象道歉！辱华台独绝对不能高高举起轻轻放下，不给他们一个深刻的教训随便谁都能欺负到我们头上</p>
+<p>@请叫我栋仔：我就发了一晚上<br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/005TGiKWgw1f00m8601jgj30hs0tmjs9.jpg" rel="attachment wp-att-425604"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/005TGiKWgw1f00m8601jgj30hs0tmjs9.jpg" alt="005TGiKWgw1f00m8601jgj30hs0tmjs9" width="300" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/005TGiKWgw1f00m8601jgj30hs0tmjs9-180x300.jpg 180w, http://chinadigitaltimes.net/chinese/files/2016/01/005TGiKWgw1f00m8601jgj30hs0tmjs9-615x1024.jpg 615w, http://chinadigitaltimes.net/chinese/files/2016/01/005TGiKWgw1f00m8601jgj30hs0tmjs9.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>@水中鱼0925：你这边胜利了，那边完败啊。外网全是骂我们的呢，为什么不给我们解禁，解禁了看我大陆网友不撕烂他们。可问题是我们现在翻不了墙，对我们有利的证据送不上去啊，其实这样也不好，以前之所以漏掉好多台独港独都是因为信息不对称，所以我要解禁！</p>
+<p>@心事重重的黄逗逼：我们不被黑锅：必须在全球社交网站公开说清事实，我们没有欺负人，我们在合理捍卫国家主权跟领土完整，开发布会，公开用中英韩三语原原本本讲述事情经过，鞠躬道歉！为外网抹黑中国国家和人民形象道歉！辱华台独绝对不能高高举起轻轻放下，不给他们一个深刻的教训随便谁都能欺负到我们头上</p>
+<p>@不懂拉格朗日定理：大陆和台湾都撕逼起来了，这也叫完胜？</p>
+<p><strong>附：JYP 新浪微博官方账号“周子瑜道歉”热门评论截图</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/JYP.png" rel="attachment wp-att-425598"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/JYP.png" alt="JYP" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/JYP-490x1024.png 490w, http://chinadigitaltimes.net/chinese/files/2016/01/JYP.png 602w" sizes="(max-width: 602px) 100vw, 602px"></a></p>
+<p><strong>注1:</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/005yAiU9gw1f015jo3k6cj30k00zkjyf.jpg" rel="attachment wp-att-425607"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/005yAiU9gw1f015jo3k6cj30k00zkjyf.jpg" alt="005yAiU9gw1f015jo3k6cj30k00zkjyf" width="375" height=""></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E9%99%86%E7%BD%91%E5%8F%8B%E5%AE%8C%E8%83%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/425586/" target="cdt-mirror">【异闻观止】湖南省委书记：加强对我监督 及时“向我开炮”</a>
 </h2>
 <p><p><strong><a href="http://news.sina.com.cn/c/2016-01-15/doc-ifxnqriz9713693.shtml">中新网｜湖南省委书记：加强对我监督 及时“向我开炮”</a><br></strong></p>
@@ -160,7 +206,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/" target="cdt-mirror">中国数字时代(China Digital Times)发布免翻墙浏览器扩展</a>
 </h2>
@@ -191,7 +237,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=18271" rel="tag">Chrome</a>, <a href="https://chinadigitaltimes.net/chinese/tag/firefox/?category=18271" rel="tag">firefox</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/?category=18271" rel="tag">浏览器插件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E5%86%85%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/" target="cdt-mirror">【习总日记】 党内还有哪些“政治隐患”</a>
 </h2>
@@ -219,7 +265,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">中纪委全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/?category=18271" rel="tag">政治隐患</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%86%8D%E6%AC%A1%E6%9A%B4%E8%B7%8C%E6%98%AF%E4%B8%AD%E5%85%B1%E5%86%85%E9%83%A8%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89%E7%9A%84%E7%BB%A7/" target="cdt-mirror">法广｜中国股市再次暴跌是中共内部政治斗争的继续</a>
 </h2>
@@ -776,26 +822,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%AB%AF1%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8D%A0%E6%9C%89%E6%80%BB%E4%B8%89%E6%88%90%E4%BB%A5%E4%B8%8A%E8%B4%A2%E4%BA%A7/" target="cdt-mirror">第一财经 | 中国顶端1%的家庭占有总三成以上财产</a>
-</h2>
-<p><p>中国目前的收入和财产不平等状况正在日趋严重。顶端1%的家庭占有全国约三分之一的财产，底端25%的家庭拥有的财产总量仅在1%左右。此外，从教育机会到医疗保障，中国社会的不平等现象整体呈现扩大趋势。日前公布的《中国民生发展报告2015》在深入调研的基础上作出了上述判断。</p>
-<p>《中国民生发展报告》丛书是基于北京大学中国家庭追踪调查(China Family Panel Studies, CFPS)撰写的系列专题报告，以全国25个省市160个区县的14960个家庭为基线样本，探讨民生问题状况、差异、原因和社会机制。</p>
-<p>《中国民生发展报告2015》显示，中国目前的收入和财产不平等状况正在日趋严重。近30年来，中国居民收入基尼系数从80年代初的0.3左右上升到现在的0.45以上。而据CFPS2012资料估算，2012年，全国居民收入基尼系数约为0.49，大大超出0.4的警戒线。财产不平等的程度更加严重。估算结果显示，中国家庭财产基尼系数从1995年的0.45扩大到2012年的0.73。顶端1%的家庭占有全国约三分之一的财产，底端25%的家庭拥有的财产总量仅在1%左右。</p>
-<p>除了收入和财产上的不平等之外，不同人群在教育机会、健康保障等方面的差异也非常明显。</p>
-<p>以教育为例，“只要努力就一定能考上大学”，这样励志的话语正在越来失去说服力。教育这项重要的公共服务存在巨大的城乡差距、东中西区域差距和性别差距。尤其是城乡差距十分显著。《中国民生发展报告2015》显示，60年代出生的人群教育不平等程度最低，此后不平等程度不断上升，80年代出生的人群教育不平等程度达到历史最高。户口、父母的教育水平、党员身份、出生所在省份等一系列并非通过个体努力可以改变的因素对教育资源获得的影响份额在过去三十年有所上升。这表明未来相关公共政策应该着力于减少劣势境况对人力资本发展的负面影响，使社会成员获得平等的教育机会。</p>
-<p>在医疗保障上，本应起到减小收入差距作用的社保体系反而起到逆向调节的作用。《中国民生发展报告2015》主要负责人、北京大学教授李建新的研究表明，健康状况更差的个体往往更加缺乏医疗保障资源，面临更大的就医压力。从收入上看，高收入人群享有更多的医疗补贴，医疗补贴不成比例的补贴给了富裕人群而不是穷人。</p>
-<p>在性别方面，女性往往受教育水平更低，工作和收入更差，相应健康水平也比男性更差。女性更容易有抑郁倾向，自报慢性病的比例更高。但是，在决定个体就医机会的医疗保障方面，女性拥有医疗保险的比例却低于男性，在看病时自己负担的医疗费用比例更高。</p>
-<p>城乡居民也存在巨大的健康和医疗不平等。农村居民的抑郁水平更高，其慢性病类型主要为高血压、呼吸系统疾病和胃肠炎，而后两者主要由落后的生活条件和医疗卫生服务导致。农村居民的新农合医保虽然覆盖率高于城市，但是保障力度明显低于城市，因而，农村居民的自付比例仍然高于城市。<br>
-李建新等人在《报告》中阐述，上述不均等现象无论从社会结构、社会阶层视角，还是跨城乡、跨地区的视角去度量，都显现出扩大的趋势。这些问题亟需得到有效解决，否则很有可能威胁到社会的稳定，进而成为未来社会发展的瓶颈。</p>
-<p>除此之外，《中国民生发展报告2015》还考察婚姻和家庭在转型社会的极速变迁，包括夫妻间财产分配、子代对年长父母的社会支持、流动人口对家庭的支持和担当等问题。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E5%A4%A7%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%AB%AF1%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8D%A0%E6%9C%89%E6%80%BB%E4%B8%89%E6%88%90%E4%BB%A5%E4%B8%8A%E8%B4%A2%E4%BA%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C/?category=18271" rel="tag">，</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B0%BC%E7%B3%BB%E6%95%B0/?category=18271" rel="tag">基尼系数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">收入不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%8D%E5%85%AC/?category=18271" rel="tag">社会不公</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">贫富差距</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -817,5 +843,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C/?categor
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

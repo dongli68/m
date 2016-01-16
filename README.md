@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/425586/" target="cdt-mirror">【异闻观止】湖南省委书记：加强对我监督 及时“向我开炮”</a>
+</h2>
+<p><p><strong><a href="http://news.sina.com.cn/c/2016-01-15/doc-ifxnqriz9713693.shtml">中新网｜湖南省委书记：加强对我监督 及时“向我开炮”</a><br></strong></p>
+<blockquote><p>徐守盛说，必须强化思想定力、战略定力，摒弃一切私心杂念，排除各种杂音干扰，毫不松动、锲而不舍地反“四风”、正党风、反腐败、倡清廉，不断开创全面从严治党新局面；必须始终坚持反腐无禁区、全覆盖、零容忍，着力解决群众身边的腐败问题。</p>
+<p>在谈及创新体制机制强化党内监督时，徐守盛主动要求与会省委常委及领导干部加强对自己的监督、发现问题及时向自己开炮，也希望所有省委常委都做领队带队的“头雁”，不仅对自己要求严格，也要监督好家属、子女。“我能做到的希望大家也都能做到。”徐守盛说。</p></blockquote>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E8%A1%A8%E6%83%85%E5%8C%8525.jpg" alt="" width="440" height="292"><br><span><em>（“<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E6%88%91%E5%8F%AA%E6%83%B3%E5%81%9A%E4%B8%80%E4%B8%AA%E5%AE%89%E9%9D%99%E5%BB%BA%E8%AE%BE%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E7%BE%8E/">社会主义表情包</a>”系列图片之一；来自网络）</em></span></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/422900/">【网络民议】不收钱成了另类？贵圈好乱</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-10/">【异闻观止】浙江26名厅官将为大学生上思想政治教育课</a></li>
+<li><a title="【网络民议】反腐警示：久久不能平静，收个红包压惊" href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%8D%E8%85%90%E8%AD%A6%E7%A4%BA%EF%BC%9A%E4%B9%85%E4%B9%85%E4%B8%8D%E8%83%BD%E5%B9%B3%E9%9D%99%EF%BC%8C%E6%94%B6%E4%B8%AA%E7%BA%A2%E5%8C%85/">【网络民议】反腐警示：久久不能平静，收个红包压惊</a></li>
+<li><a title="【异闻观止】中纪委开通手机一键举报 平均一分半接到1条" href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%BC%80%E9%80%9A%E6%89%8B%E6%9C%BA%E4%B8%80%E9%94%AE%E4%B8%BE%E6%8A%A5-%E5%B9%B3%E5%9D%87%E4%B8%80%E5%88%86%E5%8D%8A/">【异闻观止】中纪委开通手机一键举报 平均一分半接到1条</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/01/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%87%91%E7%9B%86%E6%B4%97%E6%89%8B/">【图说天朝】金盆洗手</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/wyh0428" target="_blank">@Amy__YH</a><i></i>：万庆良也是这么说的<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://weibo.com/CarmeloAnthonyZys" target="_blank">@裤裤同学___Jay</a>：让人民监督   又不让人民评论  拔了人民网线吧  <img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png" alt="" width="20px" height="20px"></p>
+<p>@陈卓-Joshua：你省刚出了<a href="http://news.xinhuanet.com/local/2015-12/07/c_128503985.htm">新闻记者十不准</a>，让谁监督？</p>
+<p>@徒步走天涯yu：狐猩对鸡说：你做我的廉政监察员吧，欢迎对我及我家人的监督。</p>
+<p>@张眠：先公布私人财产说话才有公信力。</p>
+<p>@天之健2013：在这样的体制下说这样的话等于放屁，加宝也说过比你更厉害的，到头来还是被看做演技派的！</p>
+<p>@张自力1：我代表表演艺术协会会长给你颁发：终身成就奖！感谢你在表演艺术上的伟大贡献</p>
+<p>@大侠长啸：监督的媒体在你的手里，微博上说两句就被封号，吹牛B的民主生活。</p>
+<p>@夜海之旅：傻呀，向一把手开炮，不想混了。这就叫政治自信。</p>
+<p>@悠悠客03：好像被抓的所以大老虎，反腐口号都喊的震天响吧。</p>
+<p>@青青树林tsilin：叫得响，值得怀疑。一个个叫得响的都进去了。</p>
+<p>@江湖越老越寒心：开炮就免了，能先公布一下自己的财产么？至于家属和子女，你得告诉公众他们的学历履历，收入几何。鉴于职务显赫，理应连兄弟姐妹及姻亲方面的情况一并公布，然后再谈监督，否则既是作秀，更是扯淡!</p>
+<p>@雪山菩提：妄议省委？不敢</p>
+<p>@慢慢骑士：我党高官都是影帝级演技啊</p>
+<p>@皮鞭加辣：“欢迎大家在我廉洁自律奉公民主的牌坊上撒尿，反正我们禁枪。”</p>
+<p>@放炮台主:毛泽东同志曾多次明确表示说我们党是民主政党，要发挥民主优势，勇于讲真话勇于监督批评，也欢迎同志们先向我开炮；大家纷纷表示赞同，彭大将军向毛主席开炮，于是毛主席立即在庐山会议上将炮口调了个头，彭大将军立即变成反革命分子。</p>
+<p>@Indrea：周官上任三把火，为人民服雾，替人民花钱，代人民说话。</p>
+<blockquote><p>“请大家首先从监督我开始，领导干部从我带头，绝不插手任何土地、工程、项目、国有资产、招投标，绝不利用自己的权力为亲友、为他人谋取私利，绝不追求特权、追求享受。”</p>
+<p>——2013年，广州市委书记万庆良在市纪委三次全会上强调<em>（<a href="http://xhpfm.mobile.zhongguowangshi.com:8091/share/38526">万庆良“反腐”语录</a>）</em></p>
+</blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/425586/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">官员作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">舆论监督</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/425582/" target="cdt-mirror">選举前夜蔡英文演説全文：終於，我們一起走到這裡了</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p.jpg" rel="attachment wp-att-425583"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p.jpg" alt="600_php3TTt0p" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p-300x193.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><em>（图片来源：自由时报）</em></p>
@@ -754,70 +796,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C/?categor
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%82%B2%E5%89%A7/" target="cdt-mirror">大象公会｜一个理想社会的悲剧</a>
-</h2>
-<p><p><strong>这是一个寄托了美国黑人的理想和善意，全套照搬了美国制度蓝本设计的理想国家，但它逐渐变形走样，最终迎来了吞噬整个社会的大洪水。</strong></p>
-<p><em>文｜韩高宗</em></p>
-<p>很多年以后的 1980 年 4 月 22 日，当利比里亚政府的部长们面对行刑队，也许会想起 10 年前，他们的托尔伯特总统刚接班时，满口改革、大搞反腐的样子。</p>
-<p>他们可能还会想到，在这个权贵家族坐拥财富、平民百姓被百般榨取的不幸国家，反腐运动也曾一度受到过平民的支持。但随着国内经济日渐受挫，民怨反而沸腾起来。政府采取了一系列措施想改善经济状况，统统无济于事。</p>
-<p>当然，此时的部长们多半只剩下了恐惧。托尔伯特总统已于 10 天前遭遇不测，在自己的卧室里被政变军人肢解；总统的儿子被抓上军用飞机，起飞后再从高处推下来摔死；现在他们自己也被绑在海边的电线杆上，眼前是围观群众、醉醺醺的行刑队和摄像机——全国观众们将很快在电视直播中看到他们被乱枪扫射的惨状。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A01.jpg" rel="attachment wp-att-425337"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A01.jpg" alt="利比里亚01" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚01-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚01.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<h2><span><strong>一个国家的诞生</strong></span></h2>
-<p>非洲政治向来以古怪、野蛮著称。各种重大变故和人为灾难如果发生在其他地方，多半会导致世界哗然，甚至触发外国干涉。而在非洲这个屠杀几十万人才能被好莱坞拍电影、童兵被砍手砍脚也上不了几天新闻的神秘大陆，类似的事件常常不足为奇。</p>
-<p>但利比里亚和其他的非洲国家有所不同。它是非洲的第一个共和国，从最初萌芽就背负着美国人的善意和希望，早在 19 世纪 40 年代就建立了美国式的共和政体，连 Liberia 这个地名，都是美国朋友依照拉丁文“自由”（liber）命名的。一直到今天，该国酷似美国星条旗的国旗，还会在奥运会上给各国观众留下深刻的印象。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A02.png" rel="attachment wp-att-425338"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A02.png" alt="利比里亚02" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚02-300x158.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚02.png 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<p>19 世纪上半叶，随着美国国内废奴运动的兴起，其中的主流政要认为，若将黑人送返“非洲家园”，则既能缓解黑奴的苦难，又能缓解美国国内的政治冲突，可谓一举两得。</p>
-<p>在这种思路的指导下，废奴派成立了“美国殖民协会”等一系列“殖民协会”，旨在将赎身黑奴、自由黑人和在贩奴船上查扣的黑奴都送回非洲。1822 年，来自美国的黑人移民第一次抵达西非的蒙罗维亚，开始在未来的利比里亚定居，在废奴派的资助下开始新的生活。</p>
-<p>这个由美国黑人组成的社群，就这样在西非慢慢发展起来，慢慢不再依赖“美国好人”的帮助。他们先是成立了“利比里亚联邦”，然后于 1847 年正式独立建国，颁布了照搬自美国的宪法和《独立宣言》，还通过美国式的选举推出了一位黑人总统，从此以“黑美国”的形象矗立于非洲大地。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A03.jpg" rel="attachment wp-att-425339"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A03.jpg" alt="利比里亚03" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚03-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚03.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍1867 年美国殖民协会登记点，准备前往利比里亚的美国黑人</strong></span></p>
-<p>不幸的是，虽然利比里亚体制完全照搬自美国，总统制、三权分立、选举制甚至共济会都一应俱全，但利比里亚的民主之路才刚起步就已夭折。建国才二十几年，利比里亚的两大党——前美裔自由黑人组成的共和党与前美裔黑奴组成的辉格党——之间的斗争就已经没什么美国味儿了。</p>
-<p>1871 年，共和党在国会成功弹劾辉格党总统爱德华·罗伊，不料总统竟赖着不走，拒绝下野。结果共和党发动政变，判处罗伊总统死刑，绞刑执行前夜，罗伊总统又离奇死亡，据说是被共和党人扒光衣服游街后活活打死的；但也有说法指出，他是企图游到海中的英军军舰逃亡，结果身上带的跑路经费太多，活活被钱坠下去淹死了。</p>
-<h2><span><strong>黑美国的黑历史</strong></span></h2>
-<p>此时的利比里亚政坛的风貌虽然已经很像 20 世纪非洲了，但至少还是一个货真价实的两党制国家。等到几年后的 1878 年，由辉格党更名而来的真辉格党人安东尼·加纳德当选总统后，该党就干脆不再下过台了——非洲第一个一党独大的国家由此诞生，一直到一百年后电线杆子上的部长们惨遭扫射时才告灭亡。</p>
-<p>美式选举制逐渐变成了走过场，虽然反对党仍然可以存在，但每次大选都会搞成做票的假选举，最后上台的人选总不令人意外。在 1927 年的大选中，全国共有登记选民 1.5 万人，结果竟有 24.3 万张选票投给了真辉格党总统查尔斯·金，终于被吉尼斯世界纪录定为“全世界最假的选举“。</p>
-<p>选举如此，体制其他部件的运行情况可想而知。国会成了摆设，政策和法律都由真辉格党的“执行委员会”自行制定；行政官、议员、法官都出自寡头家族，对美裔黑人——他们理论上的“选民”——行使酋长式生杀予夺的权力；就连真辉格党的总统和议员候选人以及执委会委员，都是由各个寡头家族敲定的，而不是像美国那样产生自各级党代会。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A04.jpg" rel="attachment wp-att-425340"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A04.jpg" alt="利比里亚04" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚04-300x297.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚04.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍利比里亚土著贫民望着远处的飞机</strong></span></p>
-<p>尤为神奇的是，利比里亚还根据美国“总统不能履职时副总统接班”的规定，发明了一套独裁权力交接的手法——独裁大总统把接班人定为副总统，到规定时候便宣布下台（或者遭到逼宫），顺利交棒。这一击鼓传花的游戏常年不衰，成为了利比里亚政治制度的标准形象。</p>
-<p>在利比里亚的全面非洲化进程中，就连该国的共济会都失去了美国特色，转而向非洲土著的秘密会社靠拢，崇拜西非土产的山精、水怪、湖灵、树妖和祖先灵魂。共济会也与专制政权关系紧密，到了“要有体面工作先进真辉格党，要入党先混共济会”的地步。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A05.jpg" rel="attachment wp-att-425341"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A05.jpg" alt="利比里亚05" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚05-239x300.jpg 239w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚05.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍精灵崇拜是西方宗教利比里亚本土化的表征，图为<strong>土著宗教</strong>“波罗秘社”的“树妖迎宾”仪式</strong></span></p>
-<p>利比里亚还向其领土上的非洲土著黑人下手，突然要求课税，交不起税的就要给政府做无限期的无偿劳工，很多方面与奴隶无异。有些劳工甚至连税都没逃，完全是被政府绑架来的。政府甚至把劳工出口到西属西非的可可种植园里，所有工钱都被政府吞掉。</p>
-<p>1927 年，无偿劳工的惨状终于引发西方关注——一个在美国被奴役过的黑人社群，回老家后竟然奴役起本地的黑人兄弟来了，这样的情景着实令人瞠目。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A06.jpg" rel="attachment wp-att-425342"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A06.jpg" alt="利比里亚06" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚06-300x216.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚06.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍1927 年利比里亚奴隶危机时，查尔斯·金总统访问国联总部斡旋</strong></span></p>
-<p>1930 年，国联派出的调查团发布报告，宣称利比里亚是一个“1.5 万公民凌驾于百万子民”的国家，简直就是一个国家级的奴隶庄园，建议国联不要将利比里亚视为主权国家，应直接占领并接管。刚在“世界上最假的选举”中就职没几年的查尔斯·金总统及其副总统被迫辞职。</p>
-<h2><span><strong>改革年代的政治斗争</strong></span></h2>
-<p>1944 年，威廉·杜博曼就任总统，正式开启了利比里亚的改革年代。他推行了“门户开放”的经济政策，向国外投资者提供较为宽松的投资环境；他宣布“国族统一”，不再将国民分成美裔黑人和本地黑人，将利比里亚人视为统一的民族；他还扩大了投票权的范围，不分性别和国族的 21 岁以上平民只要交房产税——税制的合理性另当别论——都可以在选举中投票。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A07.jpg" rel="attachment wp-att-425343"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A07.jpg" alt="利比里亚07" width="502" height="380" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚07-300x227.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚07.jpg 502w" sizes="(max-width: 502px) 100vw, 502px"></a><br><span><strong>▍杜博曼总统被子民抬下船</strong></span></p>
-<p>杜博曼的改革带来了货真价实的繁荣，美、德、瑞典的橡胶业、铁矿业和伐木业公司纷纷来投资办厂。从 1954 年到 1960 年，利比里亚的年经济增长率高达 15%，仅次于同时代的日本。首都的人口在 30 年里翻了 10 倍，初等教育普及率在 10 年内翻了 3.6 倍，其发展速度令人叹为观止。</p>
-<p>但与此同时，利比里亚的经济奇迹也被美国经济学界指责为“没有发展的增长”。经济发展的好处都被体制内的“自己人”瓜分，真正的民间私营经济并不自由，完全处在“联合经贸委员会”与“经济事务部”的管控之下。</p>
-<p>杜博曼的族群改革也并没有消除社会的分化，而是把族群的分化变成了“体制内与体制外”的分化。曾经独享投票权的美裔黑人如果不混体制内，也会沦为失业人士；而曾经被奴役的本土黑人，只要能和真辉格党搭上线，也可以成为上层阶级——1966 年杜博曼总统就曾大手一挥，让他的土著家仆回乡当上了酋长。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A08.jpg" rel="attachment wp-att-425344"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A08.jpg" alt="利比里亚08" width="475" height="491" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚08-290x300.jpg 290w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚08.jpg 640w" sizes="(max-width: 475px) 100vw, 475px"></a><br><span><strong>▍1952 年总统连任典礼，穿土著服装出席的上流人士</strong></span></p>
-<p>而且，虽然杜博曼总统在经济和社会层面的改革称得上是大手笔，但政治体制改革仍然裹足不前，因而利比里亚政坛的景观并无改观。1955 年，前内务部长、前司法部长等政要在大选中支持反对党候选人，结果政要们纷纷被捕，反对党也被取缔，前内务部长父子出逃时直接遭到射杀。</p>
-<p>杜博曼总统还授意议会修改宪法，废止“两届八年”的美国式总统任期限制，他本人便成功连任到去世。为了保证权力，他多次以阴谋政变的罪名打击党内寡头，比之前所有总统加起来还多，罗织罪名千奇百怪，甚至包括“雇佣尼日利亚巫师诅咒总统”。</p>
-<p>秘密警察制度和群众举报网络也在这一时期出现。1963 年多哥政变后，一名利比里亚军队上校私下开玩笑说：两百五十个多个多哥士兵就能杀死总统，我军可有五千人编制，简直能做出不可思议的奇迹啊……结果自然被逮捕下狱。</p>
-<p>在宣传战线上，杜博曼总统的表现也完全不像在经济领域般开明——他是利比里亚人民的大先知、超级酋长和大神巫，决策永远英明，地位永远伟大。如果有人公开批评杜博曼总统，那一定是像总统语录中说的那样：出生时不喝母乳喝牛奶，长大了就蠢得像母牛一样。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A09.jpg" rel="attachment wp-att-425345"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A09.jpg" alt="利比里亚09" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚09-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚09.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍杜博曼总统身穿土著服装在<strong>真辉格党大会发表讲话</strong>，在其身后副总统托尔伯特着<strong>西装</strong>出席</strong></span></p>
-<h2><span><strong>共和国的末日</strong></span></h2>
-<p>1971 年，杜博曼总统心脏病发去世，实现了“死也要死在任上”的理想。副总统威廉·托尔伯特继位，随即开始大刀阔斧的亲民改革。</p>
-<p>首先，托尔伯特总统严厉打击腐败，坚决要求各级领导干部严守法律和党纪，否则便予以严惩，绝不手软。他首先对公检法领域开刀，以挪用公款的罪名拿下了两名秘密警察首脑；他还在首都微服私访，在教育部发现部长上班迟到便将其开除。他变卖了前任的总统游艇，把总统专车从“卡迪拉克”换成“大众”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A10.jpg" rel="attachment wp-att-425346"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A10.jpg" alt="利比里亚10" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚10-300x193.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚10.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><span><strong>▍反腐改革没有削弱官方强调“总统崇拜”，即使一个化工厂的路标牌上也得写着“我们感谢总统”</strong></span></p>
-<p>托尔伯特总统的反腐决心虽然有目共睹，也受到了平民阶层的一定拥护，但由于下台入狱的都被认为是总统家族的政敌，反腐运动在世人眼中的成色也不免打了折扣。</p>
-<p>更要命的是，总统家族本身也不干净——自托尔伯特上台，他的家族便控制了汽车和大米的进口，哥哥当了参议院议长，弟弟当了财政部长，女婿当了国防部长，弟弟的岳父当了最高法院的大法官，女儿当了教育部副部长，垄断了全国教科书的销售。他那位后来被从飞机上推下来摔死的儿子则是全国工会主席、最大的勒索犯，还是国内唯一的外交护照经销商。</p>
-<p>反腐运动期间，由于国际环境的变化，利比里亚经济受挫，物价飞涨。托尔伯特政府被迫强调“自主发展”、“自力更生”、“团结时刻”、“更高的制高点”、“从草席到床垫”等正能量主张，还推出了一连串“四年发展计划”，但还是不能改善恶劣的经济形势。</p>
-<p>时间很快到了 1979 年，为了本国主持的“非洲统一组织”年会，利比里亚政府斥资过亿美元在首都修建豪奢会展中心。1979 年 4 月，为了“促使粮食自给、激励进城打工的农民工回乡种田”，托尔伯特政府宣布提高大米专卖价格，结果首都的大学生和贫民上街游行示威，抗议政府亏空国库压榨民生。托尔伯特总统下令军队开枪镇压，遭到拒绝。最后，总统竟从几内亚借来军队，和本国警察一起镇压了示威。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A11.jpg" rel="attachment wp-att-425347"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A11.jpg" alt="利比里亚11" width="500" height="335" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚11-300x201.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚11.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a><br><span><strong>▍<strong>1979 年利比里亚首都大学生和贫民上街游行遭镇压，警察当街射杀过百示威者</strong></strong></span></p>
-<p>事情当然不可能就此结束。街头流血和军管政治的先例一开，军中自然会涌现出有志者步武前贤。</p>
-<p>一年后的 1980 年 4 月 12 日，本文开头的场面终于发生了——托尔伯特总统被肢解在卧室里，儿子被从飞行中的飞机上扔下来，全国观众看着喝醉的行刑队举起枪支，用电线杆上的诸位部长练习打靶。</p>
-<p>而真辉格党的一党统治崩溃后，利比里亚也并没能走上民主自由的光明大道，而且很快就将迎来吞噬整个社会的大洪水——政变上台的多尔政府还能依靠冷战站队来获取美国援助，到 90 年代冷战结束后便彻底崩溃，利比里亚开始了近二十年的内战，成为了国际新闻版编辑们熟知的利比里亚——那个由剁肢刑、童兵、“血钻”和在镜头前挥舞步枪的武人独夫组成的利比里亚。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A12.jpg" rel="attachment wp-att-425348"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A12.jpg" alt="利比里亚12" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚12-254x300.jpg 254w, http://chinadigitaltimes.net/chinese/files/2016/01/利比里亚12.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" rel="attachment wp-att-419061"><img src="http://chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" alt="大象工会" width="550" height="199" srcset="http://chinadigitaltimes.net/chinese/files/2015/11/大象工会-300x108.png 300w, http://chinadigitaltimes.net/chinese/files/2015/11/大象工会.png 640w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%82%B2%E5%89%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E6%AF%94%E9%87%8C%E4%BA%9A/?category=18271" rel="tag">利比里亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">非洲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -839,5 +817,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

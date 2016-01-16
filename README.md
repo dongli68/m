@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,105 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/425582/" target="cdt-mirror">選举前夜蔡英文演説全文：終於，我們一起走到這裡了</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p.jpg" rel="attachment wp-att-425583"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p.jpg" alt="600_php3TTt0p" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p-300x193.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/600_php3TTt0p.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><em>（图片来源：自由时报）</em></p>
+<p><em>演讲内容来自新浪微博<a href="http://weibo.com/luochangping">@罗昌平</a></em></p>
+<p>終於，我們一起走到這裡了。</p>
+<p>剛剛，我們在板橋，也就是四年前我們接受敗選結果的地方。從那裡出發，我們來到了這次選舉活動的終點。現在，我們站在凱達格蘭大道上。在我的身後，就是總統府。</p>
+<p>過去八年，在這個廣場發生了很多事。</p>
+<p>野草莓運動的時候，年輕人在這裡主張集會遊行的權利。</p>
+<p>反核遊行的時候，二十萬人在這裡，呼籲能源的安全。</p>
+<p>洪仲丘事件的時候，二十五萬人在這裡，抗議政府公然說謊、掩蓋真相。</p>
+<p>太陽花運動的時候，我們有五十萬人在這裡，捍衛民主，反對黑箱。</p>
+<p>但是，人民的聲音，不管怎麼大聲，到了凱道就停住了。我身後的總統府，離廣場上的人民，只有幾百公尺的距離，不過，總統府裡面的人，就是聽不到人民的聲音。</p>
+<p>政府無能、政府無心、政府無感、政府對人民的痛苦麻木不仁。這就是此時此刻，台灣人民普遍的感受。</p>
+<p>不過，台灣社會最令人感動的地方就在於，即使過去八年，我們有這樣的政府，但是，民間正面的能量，從來不曾消失，而且一天比一天大。</p>
+<p>明天，我們就要把這股能量釋放出來。我以及民主進步黨，只是這股能量的一部分。我說過很多次，這次選舉，我們不是要打敗任何人，我們要打敗的，是這個國家的困境。</p>
+<p>如果你也認同這股正面的力量，如果你也希望看到台灣社會的改變，我拜託大家，明天，走進投票所，展現你的意志，展現你的決心。</p>
+<p>出來投票，不只是相信蔡英文可以帶來改變，也不只是相信民進黨會帶來改變。<strong>出來投票的意義，就在於，我們親手用自己的力量來改變這個國家。</strong></p>
+<p>站在我身旁的，有百工百業的代表，有我這次的競選團隊，有我平時跟他們開會討論政策的智庫學者專家，還有我這些年來，深入基層，在民間社會所結識的好朋友們。</p>
+<p>他們今天站在我身旁，還有，我看到現場有這麼多的鄉親陪我走最後的一里路，我不知道該怎麼說，才能表達我心中對大家的感謝。</p>
+<p>這次選舉，一路走來，我心中充滿了感謝。我感謝人民的支持，我也感謝這個國家成熟的民主。</p>
+<p><strong>當我的對手恐嚇說，不投給他們，台灣的社會就會動盪。台灣人民選擇相信我，相信我可以用具體的政策，來解決社會的不安。</strong></p>
+<p><strong>當我的對手威脅說，不投給他們，中華民國就要滅亡。台灣人民選擇相信我，我可以用決心和毅力，把這個國家真正團結起來。d</strong></p>
+<p>當我的對手訴諸抹黑，訴諸對立。千千萬萬的台灣人民，就用行動來支持我。他們拒絕國民黨用這種方法來選舉，我們也拒絕任何政黨用這種方式來撕裂台灣。</p>
+<p>這就是沉默的大多數。這就是沉默的力量。</p>
+<p>對立牌已經沒有用，因為我們相信對話。恐嚇牌也沒有用，因為我們相信改革。</p>
+<p>中華民國更不會因為誰當選而滅亡，因為我們相信，只要有民主，這個國家會比以前更強大。</p>
+<p>明天，我們就用選票證明，恐嚇和對立的舊政治會走入歷史。台灣人追求新時代的決心，終將戰勝一切。</p>
+<p>各位親愛的台灣人民，新時代就差這麼一步了。跨過這一步，就是改革的第一里路。</p>
+<p>我希望，全體台灣人民用快樂的心情來迎接，台灣民主史上的第三次政黨輪替。這是新政治的起點。我會用五大政治改革，來讓台灣真正走向團結。</p>
+<p>黑箱會成為過去。民主國家，不是總統一個人說了算。如果我當選總統，我會讓人民的聲音，透過民主程序，來變成決策的基礎。民主不只是選舉，民主就是我們每天的生活。未來，所有的改革，都會透過民主程序，在團結的基礎上，我們一個一個來推我們要的改革。</p>
+<p>跨過這一步，也是我們台灣新經濟的第一里路。我會推動五大創新研發計畫，以及台灣經濟發展新模式，讓產業轉型的機制馬上啟動，讓勞工的薪水，和企業的利潤，同時成長。</p>
+<p>跨過這一步，更是新社會的第一里路。我們會推動五大社會安定計畫，我們會建立食品安全的管理系統，發展社區照顧制度，辦理社會住宅。我要讓台灣的社會真正走向安居樂業。</p>
+<p>這個新時代，就在我們眼前。</p>
+<p>明天，你的一票，就是投給新政治一票。</p>
+<p>明天，你的一票，就是投給新經濟一票。</p>
+<p>明天，你的一票，就是投給新社會一票。</p>
+<p>明天，不管天氣再怎麼冷，我拜託大家，一定要出來投票。不管刮風還是下雨，不管回家的路有多遠，我拜託大家，一定要出來投票。</p>
+<p>選舉活動再過幾分鐘，就要正式告一段落。我要特別把最後這幾分鐘，留給我們的年輕人，尤其是首投族。</p>
+<p>我是民主進步黨主席，我以這個身分為榮。這個黨的基因裡面，有著台灣人永不放棄的精神。這個黨的血液裡面，流的是台灣人民追求民主、追求自由的渴望。</p>
+<p>我從來不會掩飾，我所領導的政黨曾經跌倒，曾經失敗，曾經失去人民的信任。但是過去這幾年來，我所做的一切，就是要讓這個黨，重新再站起來。民進黨沒有黨產，我們只有一顆堅定改革的決心。</p>
+<p>我再一次拜託大家，去看一看我們這一次所提名的不分區名單。藍綠沒有一樣爛。在十八個政黨裡面，我有信心，民進黨的名單，絕對是最好的。</p>
+<p>現在這些人，都站在我身後。他們是食安專家，他們是人權律師，他們是第一線的社會運動者，他們是長期以來，為了這個社會的公平正義，不斷奮鬥的知識份子。他們每一個人，都代表民進黨改革的決心，他們每一個人，都代表了民進黨打開大門，走出去，跟社會進步力量結合的努力。</p>
+<p>如果你在意這個國家沒有是非，這些人在立法院裡面，會幫大家把是非找回來。如果你在意這個社會沒有正義，這些人會在立法院裡面，幫大家把正義找回來。</p>
+<p>前年九合一大選，各位回去投票，不只是讓故鄉重新燃起希望，你們的努力，還讓全世界都看到。台灣因為你們，在世界上發光發熱。</p>
+<p>明天，我拜託大家，這個國家的年輕人，這個國家還需要各位在後面推他一把。如果你還在猶豫，請不要再考慮。坐上巴士，坐上火車，坐上高鐵，用任何方式，明天一定要回家投票。</p>
+<p>請相信這幾年來大家的初衷，自己的國家自己救，現在，就是完成這個任務的時候了。</p>
+<p>請投給最好的。請投給最專業的。請你投給陣容最完整的。請你投給，最有能力改變這個國家的政黨。</p>
+<p>這個禮拜，我們的車隊從南到北，來回掃了兩次。一路上，有很多人給我們加油，給我們打氣。我站在車上，看到有年輕人，特地拿著上一次我參選總統的旗子，來幫我加油。</p>
+<p>也許，有人會覺得，他們拿錯旗子了。不過，在我的心中，那些四年前的旗子，卻讓我最感激，也最感動。</p>
+<p>謝謝你們把四年前的旗子還留在身邊。謝謝你們願意相信，四年前我所說的，有一天我們會再回來。</p>
+<p>蔡英文做到了。而且，這一次我帶著更多的台灣人民回來了。現在，站在這裡的我，是一個更堅強的蔡英文。我要帶領台灣人民，走向未來，走向新時代。</p>
+<p>明天，就是我們的最後一步。漫長的等待，就要結束。我要拜託所有的人，把你們對台灣的熱情，把你們對改變的盼望，把你們這幾年來的不滿，全部轉化為改革的動力。</p>
+<p>出來投票，我拜託大家，就差你這一票。明天走進投票所，在選票上蓋章，把最後一里路走完。</p>
+<p>總統票，投給②號蔡英文、陳建仁。</p>
+<p>政黨票，投給①號民主進步黨。</p>
+<p>立委票，投給民進黨支持的立委候選人。</p>
+<p>改變台灣，一票都不能少。</p>
+<p>明天，人民把權力拿回來。</p>
+<p>明天，我們把台灣贏回來。</p>
+<p>明天，我們一起用選票，讓這個總統府，真正屬於台灣人民。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/425582/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE/?category=18271" rel="tag">台湾选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/425574/" target="cdt-mirror">龙兴伟：赵国“考拉”的命运</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%9B%BD%E8%80%83%E6%8B%891.jpg" rel="attachment wp-att-425579"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%9B%BD%E8%80%83%E6%8B%891.jpg" alt="赵国考拉1" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵国考拉1-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/赵国考拉1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>考拉，树袋熊的别称，模样极是可爱。是澳大利亚奇特的珍贵原始树栖动物。</p>
+<p>赵国也有“考拉”。不过她是人。是一位赵姓姑娘的别称。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%9B%BD%E8%80%83%E6%8B%892.jpg" rel="attachment wp-att-425578"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%9B%BD%E8%80%83%E6%8B%892.jpg" alt="赵国考拉2" width="356" height="431" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵国考拉2-248x300.jpg 248w, http://chinadigitaltimes.net/chinese/files/2016/01/赵国考拉2.jpg 356w" sizes="(max-width: 356px) 100vw, 356px"></a></p>
+<p>“物以稀为贵”。澳大利亚的考拉因为少，被澳大利亚人视为国宝，国家濒危保护动物。如果一只考拉生病后给人发现了，野生动物保护委员会立马会派人将其送进动物医院精心治疗；</p>
+<p>然而，赵国的“考拉”实在太多，也就难免“人以多为贱”。所以，赵国的“考拉”去年七月份失踪后，家属心急火燎四处寻找，以为给黑社会绑架了，找到有关部门，也支支吾吾、拐弯抹角不正面回答。近日才得知作律师助理的姑娘与好几个律师犯了颠覆罪，给看管起来了。</p>
+<p>既然犯罪，看管起来也就罪有应得。但，将人捉将起来，应当通知家属一声，好让家人放心嘛。这，既是最起码的法律程序，也是最起码的人道。然而，大半年了，就是不通知。看多了西方、香港电影的人也就难免纳闷：万恶资本主义国家将一个犯罪嫌疑人捉将起来，首先要通知律师和家属。如果拿不出过硬证据，24小时就要放人。然而赵国呢？去年七月份将人看管起来，大半年间却不通知律师和家属。看来，人权绝不只“比美国好五倍”了！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%9B%BD%E8%80%83%E6%8B%893.jpg" rel="attachment wp-att-425577"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%B5%B5%E5%9B%BD%E8%80%83%E6%8B%893.jpg" alt="赵国考拉3" width="550" height="330" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/赵国考拉3-300x180.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/赵国考拉3-80x48.jpg 80w, http://chinadigitaltimes.net/chinese/files/2016/01/赵国考拉3.jpg 580w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<p>这些天，网上无数网民在寻找“考拉”，据说，“西方多家主流媒体也纷纷报道了此事”。习惯扮演主力救火队员的胡锡进先生又顶着“单仁平”的马甲又及时挺身而出，说：“我们认为，这些律师和助理被依法拘留、刑侦，然后逮捕并提起公诉，但最终他们的罪名是否成立，只能由法院做出裁定。在此之前，知情人和舆论可以做案情分析，但都不应该为他们做有罪或无罪背书，尤其不应搞‘舆论审判’，向法院施压”。</p>
+<p>一班网民为有关部门不按严格的法律程序将人看管大半年，使得家人以为其失踪，乃至被黑社会绑架了，而纷纷感到惊愕；更为一位弱不禁风的姑娘犯下“颠覆”大罪感到骇然，这就搞“舆论审判，向法庭施压”了？这些年，国家领导人一再呼吁要“创造条件让人民批评和监督政府”，公检法也是政府的组成部分，质疑、批评他们就是搞“舆论审判”，就是“向法院施压”了？</p>
+<p>更何况，将人捉将起来大半年不通知律师和家人，是执法犯法，网民和舆论的批评应当赞扬才是，然而，自称是“媒体人”的锡进兄关键时刻却露出了庐山真面目。</p>
+<p>声称“正在全面推进依法治国”的锡进兄还责备一些网民不该说“依法治国”是假的。其实，“依法治国”确是不应怀疑的——所谓“依法治国”，就是依据本朝制定的法律“治国”。自商鞅同志以来，历朝历代都是“依法治国”的。当然，当今赵国也是“依法治国”的。例如，当年“镇压反革命”是“依法治国”，时下惩处“颠覆分子”，也是“依法治国”。</p>
+<p>不过，锡进兄极需恶补法治常识：一个现代国家最需要的，是法治。而不是一切由唯公权力意志的“依法治国”！</p>
+<p>锡进兄还奉劝人们：“相信法院，相信依法治国的真实推进，这比听信舆论场上煽情的口号要靠谱得多。”唉，还有什么锡进先生说不出口呢？——将人捉将起来，大半年不告诉家属，却劝人们要“相信……”拿什么去“相信”？在轻则删文、封号，重则“喝茶”、“颠覆”，文人噤若寒蝉、律师纷纷知难而退的大环境下，拿什么去“相信”？</p>
+<p>锡进兄一副痛心的样子说：“一名24岁的女助理被逮捕，令人扼腕。但进而认为24岁的女生肯定不会做出危害国家安全的行为，法制史无此逻辑。”这话说得倒是有几分道理的：24岁的女助理难道就不可能“危害国家安全”？“法制史”确实“无此逻辑”——就别说贺子珍同志当年上井冈山只有19岁了，刘胡兰呢？英勇就义时才15岁！如假包换的未成年少女，不一样“危害国家安全”了？</p>
+<p>但问题是：只知“法制史”而不知“法治史”的锡进兄，却严重忽视了这样一个事实：子珍同志当年是永新著名的手提两把驳壳枪的“双枪将”，她上井冈山，确是能“危害国家安全”的；未成年少女刘胡兰，整天跟一班手提德国二十响驳壳枪的武工队员混在一起，也是能“危害国家安全”的。但弱不禁风的“考拉”呢？只是一位会在电脑上敲敲文案的律师助理，如此之人，不知凭什么“危害国家安全”？</p>
+<p>“考拉”纵然有罪，但，作为一个女律师助理，断犯不了“危害国家安全”的“颠覆”大罪吧？“三个自信”，不要太不自信，自己吓自己嘛——六个律师加一个女助理能“颠覆”一个政权？不会如此弱不禁风吧？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/640-4.jpg" rel="attachment wp-att-425576"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640-4.jpg" alt="640" width="279" height="324" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640-4-258x300.jpg 258w, http://chinadigitaltimes.net/chinese/files/2016/01/640-4.jpg 279w" sizes="(max-width: 279px) 100vw, 279px"></a></p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/425574/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/" target="cdt-mirror">中国数字时代(China Digital Times)发布免翻墙浏览器扩展</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2012/07/gfw-6978.jpg" alt="gfw-6978" width="351" height="498"></p>
@@ -722,105 +818,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%AF%E6%97%B6%E8%AF%847%E5%BE%8B%E5%B8%88%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95%E6%9C%BA%E5%85%B3%E8%AE%B2%E6%B3%95%E5%BE%8B%E8%AE%A4%E8%AF%81%E6%8D%AE-%E6%B5%A6%E5%BF%97/" target="cdt-mirror">【异闻观止】单仁平：“7律师”犯罪否，惟法院说了算</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929.jpg" rel="attachment wp-att-425373"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929.jpg" alt="1CBK-fxnqrkc6376929" width="468" height="439" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929-300x281.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1CBK-fxnqrkc6376929.jpg 468w" sizes="(max-width: 468px) 100vw, 468px"></a></p>
-<blockquote><p><strong>相关专题</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/">维权律师大抓捕</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/">考拉赵威</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/">浦志强案</a></li>
-</ul></blockquote>
-<p>西方媒体援引北京锋锐律师事务所人士的消息报道，该律所7名“人权律师”或助理近日被正式逮捕，他们大多是去年7月被拘留的。这7人被指控犯有 颠覆国家政权罪或煽动颠覆国家政权罪。遭到前一指控的包括锋锐律所主任周世锋，遭后一指控的为4人，包括24岁的女助理赵威，她的网名叫“考拉”。</p>
-<p>多家西方主流媒体对此事做了报道和评论，它们的调子普遍是指责中国司法当局“打击捍卫人权的律师群体”，有的还称这是“空前的镇压”。中国互联网上有一些人通过支持、同情“考拉”表达对逮捕及公诉上述7人的反对。他们的逻辑是：一个24岁的女孩就能对国家“煽颠”吗？这个国家是否太脆弱了？</p>
-<p>我们认为，这些律师和助理被依法拘留、刑侦，然后逮捕并提起公诉，但最终他们的罪名是否成立，只能由法院做出裁定。<strong>在此之前，知情人和舆论可以做案情分析，但都不应该为他们做有罪或无罪背书，尤其不应搞“舆论审判”，向法院施压。</strong></p>
-<p>中国正在全面推进依法治国，这个过程中少数律师遭到调查审判，就说依法治国“是假的”，在行政官员、国企及民营企业都有人涉案，司法系统也有法官和检察官获罪的时候，把律师单辟出来作为“不能碰”的群体，是完全讲不通的。我们相信绝大多数律师都是守法的，但不排除有少数律师有严重触犯法律之举。至于这7人什么情况，应由法院说了算。</p>
-<p>一名24岁的女助理被逮捕，令人扼腕。但进而认为24岁的女生肯定不会做出危害国家安全的行为，法制史无此逻辑。<strong>少数人强调她“善良”“单纯”，恐怕是在煽情，争取舆论支持。</strong>同样，那名女助理该不该定罪，法院的判定最权威。</p>
-<p><strong>中国司法机关办案并非先入为主、政治挂帅，而是会讲法律、认证据，浦志强案对此做出了证明。</strong>浦案原有的一些证据未被检察院采纳，法院最后以收窄了的证据进行审理和判决，<strong>对浦判了较轻的刑罚，并给予了缓刑</strong>。浦也是律师，名气比此案7人大得多，<strong>对他的审判都能严格依法进行</strong>，其他涉案律师和助理又有什么值得不顾证据给予特别“严厉打击”的呢？</p>
-<p>值得一提的是，律师的主阵地应当是司法战线。改革开放以来，中国律师行业重新兴起，为法治建设乃至社会建设作出巨大贡献，令人尊敬。然而近年来出现一个新情况，有少数律师成为舆论场上最活跃的群体之一，是很多公众舆论事件公开或幕后的推手，这不能说是很正常的事。此外，一些境外势力对这少部分“人权律师”特殊关照，给予他们有别于中国其他涉案人的<strong>特别保护</strong>，也值得思考。</p>
-<p><strong>这些年确有少数律师“政治热情高涨”，热衷于做律师职业行为之外的事情</strong>，他们人数很有限，显然不是律师行业的主流代表，却被一些舆论包装成“律师的良心”，这都是中国社会需要厘清的现象。</p>
-<p>相信法院，相信中国依法治国的真实推进，这比听信舆论场上煽情的口号要靠谱得多。在社会价值多元的时代，法律是辨别是非的最高准绳，任何价值观都不能凌驾于法律之上。因此，关心此“律师案”的人，都应对最终到来的裁决予以尊重。(作者是环球时报评论员)</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2804395150" target="_blank">末节还是末节</a>：翻译一下就是：有罪没罪你们都别BB，政府说了算<img title="[拜拜]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]"></p>
-<p><a href="http://weibo.com/2010906020" target="_blank">浙江风过耳</a>：听起来好像司法已独立了<img title="[哼]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]"></p>
-<p>文理科2112：最近经常幻听，一听到我威武xx海军舰艇进入战斗序列仿佛听见致远号镇远号，一听见七律师好像是七君子，恍惚看到了老佛爷慈祥的面容。快了。</p>
-<p>差不多地道乐先生：关键法院都是听党的</p>
-<p>wawa141：都是赵家人办的</p>
-<p>苏理作：然而法院为赵家人服务……</p>
-<p>那么志能做什么呢：环球这种论调有跟CCTV去说过吗？</p>
-<p>Kin_馮健：趙家央視表示不服</p>
-<p>猎风谋士：他们组织了武装力量要暴动么？如果只是说几句话，那咱祖国也太脆弱了吧……</p>
-<p>和谐的我真高兴：敢公开办案吗?让社会了解真相才能揭穿谎言。</p>
-<p>邓树林律师：没有司法独立，法院说了算吗？</p>
-<p>依桂揽香：平仁单只知道向外找原因找不是，而不去考虑，为什么一些律师去抗争去死磕。根子不断灭，律师抗争的事情还会层出不穷。就像尖刀插入肉中，平仁善告诉人们：别动，越动越疼！</p>
-<p>終南山雪：一个手无缚鸡之力的女子，能将一座泰山推倒？如果真的要倒，没人推自己也会倒。</p>
-<p>润物听声：混球又来泼脏水了~七条微博判三缓三，给这女子带个“山巅”的帽子能判几年？</p>
-<p>停车问股：可是你朝外交部发言说“法律不是挡箭牌”。环球到底听谁的啊？</p>
-<p>九思蜗牛：权威在于法、在于依法治国，而不在法院！自封权威在法院，是耍流氓行径。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B2%A1%E6%9C%89%E7%BE%8A%E5%85%88%E7%94%9F.jpg" rel="attachment wp-att-425374"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B2%A1%E6%9C%89%E7%BE%8A%E5%85%88%E7%94%9F.jpg" alt="没有羊先生" width="385" height="683" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/没有羊先生-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/没有羊先生.jpg 440w" sizes="(max-width: 385px) 100vw, 385px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%AF%E6%97%B6%E8%AF%847%E5%BE%8B%E5%B8%88%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95%E6%9C%BA%E5%85%B3%E8%AE%B2%E6%B3%95%E5%BE%8B%E8%AE%A4%E8%AF%81%E6%8D%AE-%E6%B5%A6%E5%BF%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/?category=18271" rel="tag">浦志强案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%8E%A5%E6%89%8B%E4%BA%BA%E9%99%88%E6%98%BE%E8%AF%9A%E6%9B%BE%E6%B7%B7%E8%BF%B9%E7%A4%BE%E5%9B%A2%EF%BC%8C%E7%9F%A5/" target="cdt-mirror">端传媒｜知情人称铜锣湾书店接手人“想要书店客人名单”</a>
-</h2>
-<p><p><em>原标题：铜锣湾书店接手人陈显诚曾混迹社团，知情人称“他想要书店客人名单”</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7.jpg" rel="attachment wp-att-425332"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7.jpg" alt="2016年1月10日，金钟，支联会举行游行表示关注李波“被消失”事件，期间有游行人士戴上李波的面具。摄：Anthony Kwan/端传媒" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/08dcdb05ca8d453093cc4963eb6cd7e7.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><br><span>2016年1月10日，金钟，支联会举行游行表示关注李波“被消失”事件，期间有游行人士戴上李波的面具。摄：Anthony Kwan/端传媒</span></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E4%B9%A6%E5%BA%97%E7%96%91%E6%A1%88%E5%85%B3%E9%94%AE%E4%BA%BA%EF%BC%9A%E9%99%88%E5%85%88%E7%94%9F%EF%BC%8C%E4%BB%8E%E4%BA%8B%E9%BB%84%E8%89%B2%E4%BA%8B/">端传媒｜书店疑案：陈先生，从事“黄色事业”，突然接手书店</a></p></blockquote>
-<p>1月13日，铜锣湾书店老板李波已失踪两星期，其妻子相继收到疑似李波发来的“亲笔信”和视频“报平安”后，对媒体噤声。失踪案陷入一片迷雾，不安感愈发弥漫整个香港社会。</p>
-<p>端传媒独家调查发现，经营色情行业、曾混迹社团的香港男子“陈生”全名陈显诚，在李波失踪前一个半月突然出面接手铜锣湾书店，据称他“背后有一名大陆老板”，并搜集书店内保存的数千名内地客人资料。李波失踪后，陈显诚一度失踪，无法联系，直至1月7日香港警方才找到他协助调查。</p>
-<h3>“陈生”是谁？来书店目的是什麼？</h3>
-<p> <br>
-1月2日下午接受端传媒访问时，李波妻子蔡嘉苹曾透露，铜锣湾书店4名股东及员工失踪不久，当时独立支撑书店的李波与一名自称“陈生”的人签约，由后者接手铜锣湾书店半年。但李波失踪后，再也无法联系上“陈生”。</p>
-<p>此前，端传媒就获得业内人士消息，指这名陈生在2015年11月，由一名律师介绍给李波认识，说他的“老板”对书店有兴趣；李波于11月12日与 “陈生”签约，“书店若赚钱，他取1/4利润，而亏损的话，就由他包底”。他接手书店后，委派一名“邓小姐”天天看店，“陈生”自己从不对书店职员公布全 名和透露联系方式。</p>
-<p>端传媒进一步调查发现，这名“陈生”全名陈显诚，据查册资料，他是位于佐敦的淘金沙桑拿的股东及董事，其持股量为6名股东之首。他亦是一间位于火炭的信惠电器实业有限公司的董事。记者前往位于佐敦道大街上的淘金沙桑拿查看，那是一间只招待男宾的大型桑拿，该处一名女职员表示︰“我不认识，我不知道陈显诚”。记者再问有没有其他人可查询，她连番说“不清楚、不方便”，便赶记者离开。</p>
-<p>另外，记者前往信惠电器实业所报称、注册办事处位于火炭一工业大厦内的地址，发现该处实际为一间商务中心，一名男负责人表示没有该公司。而该公司所报，位于尖沙咀东部一写字楼的地址，亦是另一间公司。</p>
-<blockquote><p><span><strong>除了这两门生意，据知情人透露，陈显诚还曾经营通讯公司和运输贸易，与新界社团人仕过从甚密，“是一个看钱做事的人”。</strong></span></p></blockquote>
-<p>据悉，李波失踪后，陈显诚非常慌张，通知所有朋友不要透露其行踪，其亲人朋友亦难以与他取得联系。</p>
-<p>另一相关人士向端传媒记者透露，陈显诚委派来看店的“邓小姐”年约30岁，接管书店的一个多月来，天天到铜锣湾书店看舖，“每天都化粧来上班，又抽烟，他们两人根本不懂书，突然出现（在书店内）好奇怪”。</p>
-<p>陈显诚及邓小姐这两个外行人突然接手书店，书店人员都感到莫名其妙。而一名与李波相熟多年的资深业内人士向端传媒透露：“他们要的是一份记载了数千名内地客人姓名资料的名单”，他认为这份名单是“大陆想要搜集的罪证”。据他表示，铜锣湾书店常年做内地自由行游客生意，亦积累了稳定的客源，而载有这些客人资料的那份名单，即被存放在书店内的一个文件夹中。</p>
-<p>熟悉内情的知情者告诉端传媒记者，“非法经营罪”是最有可能用来控告书店职员的罪名。根据中国大陆法律，“非法从事出版物的出版、印刷、复制、发行业务，严重扰乱市场秩序，非法经营数额在15万元以上”，可判“非法经营罪”。</p>
-<p>2014年在大陆被刑事拘留的著名维权学者郭玉闪，2015年1月正是被以“非法经营罪”正式批准逮捕，其它被控以此罪名的还包括异见作家铁流、禁书《洗脑的历史》作者傅志彬等。</p>
-<p>而2014年5月在深圳被拘捕的香港永久居民、香港政论杂志《新维月刊》、《脸谱》的经营者王健民（同时持美国护照）与呙中校，在被拘17月后，亦是因涉嫌“非法经营罪”公开受审──核心情节是，他们将这些杂志寄给了八位内地读者。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg" rel="attachment wp-att-424601"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg" alt="柴灣康民工業中心" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/a050ee2708dd4faea77ed77023481c26.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><br><span>2016年1月2日，巨流出版社于柴湾的货仓，有记者在货仓采访。摄：Anthony Kwan/端传媒</span></p>
-<h3>从本土到国际，不安弥漫</h3>
-<p> <br>
-自去年10月底起，铜锣湾书店相关人士桂民海、吕波、张志平与林荣基相继在泰国、东莞与深圳失踪。由桂民海、李波妻子与吕波分别持股34%，34% 与32%的巨流媒体有限公司，2012年4月成立，专出各类政治禁书。2014年年底，巨流买下由林荣基创办二十余年的铜锣湾书店，后者在书店易手后留任店长。4人失踪后，仅剩的股东李波艰难维持书店运作，但他亦于两个月后的12月30日在香港失踪。</p>
-<p>据1月12日《明报》报导，有目击者称，李波于2015年12月30日离开最后现身的柴湾康民工业中心时，被多名男子推上一架停在大厦门口对出巴士站的客货车，期间有人目击喝问“做咩事？！”但客货车随即关门，绝尘而去。</p>
-<p>失踪案被踢爆以来，香港特区政府三次对事件作出回应。1月4日中午，特首梁振英在记者会中强调，“根据《基本法》，香港以外执法人员无权在港执法。”1月10日，香港政府新闻网发表声明表示，“由于警方正全力调查事件，政府在未完全掌握事实之前，不宜作揣测。”1月12日，特首梁振英再次表示对事件“高度关注”，并表示已就李波事件向内地相关部门寻求协助，但并未透露是哪个部门，并指出与内地执法部门的通报机制下，内地的回复时间“有长有短”。</p>
-<p>香港警方亦一再表示案件仍在调查中，但并未公布任何具体进展。</p>
-<p>1月12日，法律年度开启典礼今午举行，律政司司长袁国强致辞时主动提及铜锣湾书店负责人李波等5名失踪人士，并强调不能容许任何人或任何机构进行未获授权的刑事调查或非法拘捕，特区政府也必定彻查任何涉及疑似该等违法事件。</p>
-<p>为向北京当局施压，支联会在1月10日组织市民游行至中联办请愿，同时也主动接触失踪者家属以作支援，并计划于近日向联合国下属的“强迫及非自愿失踪工作组”投诉铜锣湾书店失踪事件。</p>
-<p>支联会接受端传媒访问时表示，李波失踪后，曾有在港的禁书业内人士主动向他们求助，担心自己将成为在香港境内突然“被失踪”的“第6个人”。</p>
-<p>支联会统计称有6000名香港市民在1月10日走上街头，沿途高喊“抗议政治绑架、捍卫一国两制”等口号。参与游行的包括占中发起人戴耀廷、香港特区前政务司司长陈方安生等，陈方安生表示这次事件远比2003年的23条立法严重，因为显示内地执法人员可能在香港执法，威胁一国两制和香港独立的司法制度。</p>
-<p>1月4日，中国外交部发言人华春莹在例行记者会上，回答关于铜锣湾书店五人失踪一事时称，对此不了解，没有相关信息。</p>
-<p>1月5日，正在北京访问的英国外相夏文达会见中国外交部长王毅时表示，李波持有英国护照，是英国公民，而王毅则回应指“李波首先是属中国公民”，更吁“各方无必要作出无谓猜测”。华春莹亦于当日表示，“根据基本法和中国的国籍法，凡是具有中国血统的香港居民、本人出身在中国领土包括香港的人，以及其他符合中国国籍法规定而具有中国国籍条件的人，都是中国的公民。”不过华春莹两日的相关问答都未出现在外交部官方网站上所列载的“发言人表态”中。</p>
-<p>1月6日，夏文达在结束北京访问行程时再评论铜锣湾书店事件。他表示，“我们要知道发生什么事，是谁人所做，包括最终负责者和直接牵涉者。”而假若是“最坏的情况”，那么就意味著“严重地违反”一国两制、《基本法》和《联合声明》。这是香港回归18年以来，首次有英国官员公开表示《联合声明》被破坏的可能。</p>
-<p>欧盟、英国、美国也对事件表达关注。欧盟于1月7日发表声明，指出铜锣湾失踪者桂民海是瑞典籍，李波是英国公民，欧盟对“香港铜锣湾书店5名股东及员工失踪表示极其担忧，呼吁展开调查”。1月8日，美国国务院发言人在例行记者会上表示，对失踪事件，“美国和香港人一样感到担忧，美方正密切关注这一问题”。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg" rel="attachment wp-att-424603"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg" alt="铜锣湾书店。摄 : Anthony Kwan/端传媒" width="575" height="383" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/6a2ad6d359004ca0b3a1a45889c54797.jpg 1080w" sizes="(max-width: 575px) 100vw, 575px"></a><br><span>2016年1月2日，李波失踪后，铜锣湾书店停止营业。</span></p>
-<h3>“报平安”方式不断升级，欲盖弥彰？</h3>
-<p> <br>
-伴随著国际舆论的不断升温，李波“报平安”的方法也不断升级。</p>
-<p>1月2日下午，蔡嘉苹表示李波于12月30日晚上7时左右失踪后，自己曾3次收到李波致电“报平安”，手机显示电话来自广东深圳，电话中李波有别于平常，用普通话与妻子沟通。</p>
-<p>1月4日下午，蔡嘉苹收到了李波的“亲笔信报平安”后，前往警署注销此前所报的失踪案。销案消息由香港无线电视首先披露，而亲笔信则由台湾中央通讯社与香港星岛报业集团旗下的《星岛日报》与《头条日报》首先在台、港两地曝光。</p>
-<p>1月8日晚上，舆论发酵几日后，《星岛日报》再报导，蔡嘉苹收到李波的视频和新一封“亲笔信”。根据媒体报导，视频中李波穿著长袖T恤和格子背心，头发整齐，说话时用手指向自己。该“亲笔信”没有写收信人，信中写道，“我注意到，香港近日有些人士，因为我的事要组织游行，对此我十分困惑和不解”， “这次回内地完全是我的个人行为，是为了解一些个人事情”，“我不知道为什么有人为了这件事大造文章”，“这样的氛围下，我还怎么回香港？”</p>
-<blockquote><p><span><strong>李波升级“报平安”之后，一直愿意公开事件的李波太太蔡嘉苹开始噤声，端传媒曾多次致电或发手机信息尝试联络，但未获任何回复。</strong></span></p></blockquote>
-<p>对于此次失踪事件，《人民日报》旗下《环球时报》也先后刊文评论。1月4日刊文称：“（铜锣湾书店）那些书籍通过各种渠道流进内地，成为一些政治谣言的源头，在一定范围内造成恶劣影响。虽然铜锣湾书店存在于香港的环境中，但它实际上就是靠给内地社会捣乱维持生存的。”1月5日、6日两天连发社评，其中6日的社评中称：“全世界的强力部门通常都有规避法律让一个被调查者进行配合的办法，既达到开展工作的目的，又不跨越制度的底线”，并说李波“原本大概很愿意这次配合调查‘低调进行’，港媒大肆炒作对他本人、对书店的生意都不是什么好事。”</p>
-<p>但这类“报平安”信息和环球时报评论并未平息事件，反令更多香港市民感到恐惧。</p>
-<p>香港资深媒体人区家麟在1月5日的评论中写道：“请放心，肯肯定，无人在港执法，他们只是帮你‘用自己的方式’回内地，请你谈谈心，现在无人说过那五人已被拘留，家有家规，正式拘留前，可以请你饮茶、被旅游、请你住酒店，可以被享受好长时间；没有拘留记录，也不须通报任何人…… 这帮人，就用自己的方式引狼入室，用自己的方式断送这城最后堡垒。”</p>
-<p>不少政界和社会人士也公开就此事发言。香港立法会主席曾钰成在一个电视节目上表示，有关事件已令社会有不同的猜测，他不相信中央政府会同意让执法人员来港执法，纵容破坏一国两制。他希望特区政府及中央政府重视，中港合作解决李波事件，应将真相公诸如世，如果事件拖延，只会引起更多无根据猜测。而行政会议召集人林焕光则表示，期望本港警方尽快调查铜锣湾书店股东李波失踪的来龙去脉，并期望相关人士和组织，能公开交待，使外界知道李波的安全不受任何威胁。</p>
-<p>另外，香港知名导演舒琪制作、陈分奇执导、香港7位名人包括歌手黄耀明、演员王宗尧、港大法律学院副教授戴耀廷、前立法会议员吴霭仪、前政务司司长陈方安生、民主党创党主席李柱铭、学民思潮黄之锋合力拍摄了英语短片《<a href="https://www.youtube.com/watch?v=RT3xoyhsN-o">失踪的李波，失踪的香港</a>》（Disappearance of Lee Bo… Disappearance of Hong Kong ），并上传至YouTube，呼吁国际社会关注。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%8E%A5%E6%89%8B%E4%BA%BA%E9%99%88%E6%98%BE%E8%AF%9A%E6%9B%BE%E6%B7%B7%E8%BF%B9%E7%A4%BE%E5%9B%A2%EF%BC%8C%E7%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91/?category=18271" rel="tag">中国公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E5%BF%97%E5%BD%AC/?category=18271" rel="tag">傅志彬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">政治传言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E7%8E%89%E9%97%AA/?category=18271" rel="tag">郭玉闪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%BB%8F%E8%90%A5%E7%BD%AA/?category=18271" rel="tag">非法经营罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -832,7 +829,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -842,5 +839,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

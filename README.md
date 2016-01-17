@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8F%B0%E6%B9%BE%E9%80%89%E6%B0%91%E8%B1%AA%E8%B5%8C-%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%BF%E6%AF%94%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%89%B0%E8%8B%A6/" target="cdt-mirror">世界日报｜台湾选民豪赌 蔡英文势比马英九艰苦</a>
@@ -234,6 +234,31 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%B2%BD%E6%B8%8E%EF%BC%9A%E5%9B%BD%E6%B0%91%E5%85%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%94%E4%B8%AA%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">博谈网｜沽渎：国民党失败的五个主要原因</a>
+</h2>
+<p><p>一、成也九二共识，败也九二共识</p>
+<p>四年前，二零一二年台湾总统大选的最后时刻，九二共识曾经是马英九的救生圈。当时大陆台商中有几位关键性人物纷纷出来为马英九站台助选，表示支持九二共识：没有九二共识，就没有台海稳定！关键人物这一不同寻常表态，成为改变选情影响蔡英文惜败的一个关键因素。在总结二零一二年台湾总统大选结果时，舆论一般认为马英九主要赢在九二共识上，而蔡英文也主要输在九二共识上。今年选举中，国民党如法炮制再次搬出九二共识。今年与四年前不同的是，二零一二年选举中九二共识只是到最后时刻才被国民党当作救生之用。今年的变化是从一开始国民党就拼力主打九二共识牌，把九二共识当成今年的竞选口号和旗帜。然而今非昔比时过境迁，四年前最后时刻帮国民党涉险过关的九二共识，今年却令国民党蒙羞。二零一二年选举后，媒体对台商关键人物助选国民党的不同寻常现象进行过披露。台商大佬是被特定组织要求出来表态的，同时被要求为台籍员工提供假期和机票返台帮国民党投票，当时规模有二十五万至三十万之众。今年选举这一盛况不再现，国民党举着九二共识盾牌艰难走行八年终于累了。国民党该歇歇了，九二共识也该一道歇歇了。</p>
+<p>二、不合时宜的大陆政策</p>
+<p>说九二共识毁了国民党不如说不合时宜的大陆政策毁了国民党。马英九执政八年，跟大陆跟得太近太紧失去自我，直至迷失方向。早在蒋经国时就已意识到国民党在台湾的出路问题，蒋经国渐渐明白，国民党的大陆情结虽无法割舍，但国民党的未来已越来越离不开本土派。因此蒋经国才会有意放弃既忠心耿耿又德才兼备的李焕严家淦蒋纬国等一干人才不用而选择李登辉。李登辉的台湾本土背景是李登辉被蒋经国破格选中的根本原因，足见蒋经国选择接班人的良苦用心。国民党内暗中一直弥漫一种对蒋经国的怨言情绪，认为正是蒋经国的一失足才成千古恨，才为李登辉分裂国民党提供了机会，没有李登辉就不会有国民党后来的分裂。虽然从表面上看，这种情绪似乎有一些道理，其实并没有把正国民党的脉搏。按照这种情绪的理解：好像没有李登辉，国民党就不可能分裂出一个宋楚瑜的亲民党来。问题没这么简单，即使当时把李登辉换成马英九或者换成马英九一路的人物也未必能避免国民党的分裂。</p>
+<p>我们不妨这样反问：今天国民党的分裂又是谁造成的？国民党内的各类精英若能看清本党命运的严重性或问题的本质就会发现：国民党的分裂只是时间问题，蒋经国选择李登辉或选择其他人能改变的也只是分裂的时间而不会改变分裂的本质。国民党内的残酷现实是做为蒋经国先生的后来者们，还没有在国民党生存的忧患意识上达到蒋经国那样的忧患高度。从这一点出发，蒋经国选择李登辉并没错，只是高度太高让周围人不适应，他没能把自己切身感受到的对国民党未来的忧患意识如实地交代给他的后来者们，以致这些后来者们至今仍站在云端里相互埋怨相互指责相互拆台，只会找别人身上的错。历史的偶然让国民党来到台湾岛上，一时为躲避灾难合理也正当，想永远待下去成为主人就会暴露出某些先天不足。要么早日回大陆去，那里才是国民党的根；要么与大陆保持适当距离，最后实现本土化才是唯一出路。马英九的八年执政已很努力，可偏离了轨道也走错了方向。</p>
+<p>三、党内不和，没有凝聚起足够力量</p>
+<p>政党内部的融合仅以个人友情为重不会太长久，只有本党的理念一致才会让一盘散沙也能凝聚起力量。民进党内也同样存在相互融合问题，关键是民进党内有着基本一致的相同理念，这才会让民进党在选战面前放弃个人恩怨，才会凝成合力一起努力。今天的国民党与民进党比，不是国民党员们不想不爱团结，也不是人品出现多大问题，而是国民党的基本理念上出现分化。在这种情况下，还期待国民党融合非常难。站在选举台上的每一位国民党候选人都会高呼团结，可下选台后就不是他们。国民党内已经自觉不自觉地分化为三个阵营：一派以王金平为首的本土派；一派以连战为首的大陆派；一派以马英九为首的中间地带派。其中诡异的是王金平的本土派与连战的大陆派并不是死对头，恰恰是马英九的中间地带派与王金平的本土派之间水火不容。这是个人情感使然的结果，暴露出马英九在个人性格上的特点，既不想成为铁杆大陆派又不愿与本土派合流已经越来越孤立。国民党输在气势上也输在不团结上，个人有私心党也有私心，国民党的分裂不可避免。结果会一分为三还是一分为二有待进一步观察，能一分为三是短痛，短痛比长痛更有利于以后的发展。如一分为二明显不彻底，以后还会再次分裂，这不利于以后的发展。国民党的当务之急不是如何发展而是如何生存，生存成问题还谈不上发展。靠大陆派救国民党越救越糟，唯一能救国民党的是本土派，只是不知本土派还愿不愿留着这块失色的无光招牌。</p>
+<p>四、马英九能力不足，未能兑现当初竞选承诺</p>
+<p>竞选中的承诺是不可被小觑的。你干得好时它也许不重要，当你干得不好时它会成为一面放大镜把你当初的承诺照得清清楚楚。八年前马英九竞选时激情端出他的六三三竞选大餐，诱人且色香味俱全：六是年经济成长率百分之六；第一个三是年国民所得三万美金；第二个三是年失业率控制在百分之三。八年后的今天，马英九全部跳票，一样也未能兑现。执政能力是检验执政者的硬性指标，怎么说不重要，怎么做才是关键。八年前的马英九是神，八年后的马英九成鬼。执政八年平平淡淡表现欠佳，辜负了所有支持者对马英九的期待。政治上马英九过去一直强调大陆不民主两岸关系免谈，但这一政治立场的晚节不保也成马英九的致命伤。外交上在国际场合唯唯诺诺不敢主张中华民国的合理权益，在钓鱼台和南海问题上没能发挥出应有作用，本来计划视察太平岛以宣誓主权却也落空。事事太过听话未必为上，别人得不少便宜也没能谢谢你。马英九在第二任期内致力于个人历史定位存在时机上的偏差，少了一些审时度势，多了一些一往情深。国民党中不乏人才专才，马英九团队未能把这一优势体现出来。选民最后把不满变成选票对马英九进行了惩罚性投票。</p>
+<p>五、不善打选战，输得心服口不服</p>
+<p>在以往选举中，国民党历来被认为是不善打选战的，这次选举更是给外界提供了足够口实。本次选举的主轴应该是民生问题，与选民切身利益相关的根本问题是台湾的经济发展，大多数选民已经对意识形态话题不感兴趣甚至反感了。国民党从一开始就迟迟推不出参选人，有心参选的王金平不敢直接表态，无心参选的朱立伦却被寄予着厚望。在这种不顺畅的开局下，洪秀柱的见缝插针参选本来有一定合理性（促动该选的人早些出来），但洪秀柱后来食言不肯退选又把换柱风波变成了一场添乱。应该说，起先朱立伦表态不参选是明智的，但一趟北京之行让朱立伦的明智之举顷刻就付之西流了。换柱风波彻底害了朱立伦，也彻底害了国民党的这场选举战。无论朱立伦被逼参选的背后有多少身不由己的苦衷，残酷的政治现实都至少证明两点，一点是怂恿朱立伦霸王硬上弓蛮横参选的策略严重荒腔走板不在调上，另一点是朱立伦的前途和未来将会随着这次选战的失利而变得越来越暗淡。马习会是马英九在第二任期内全力推动的，却没被接受是北京不想成全马英九。在选情告急的情况下，北京突然改变态度希望马习会能对选情起到推动作用。马习会匆忙登场，不仅没有起到作用反而帮了倒忙。选战进入最后冲刺阶段的正毅合谋抹黑蔡英文更是滥招害死鱼。过去国民党一直反对在选战中给对手抹黑，这次选战到最后时刻国民党为挽救败局也学会东施效颦了。黄安之乱，更是让周子瑜大于一百万票。</p>
+<p>来源：万维博客 / 沽渎</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/b165k9ppppppppppppppppppppppppppppppppppppppppppp-150x150.jpg" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%B2%BD%E6%B8%8E%EF%BC%9A%E5%9B%BD%E6%B0%91%E5%85%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%94%E4%B8%AA%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -662,45 +687,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%EF%BC%9A%E6%96%B0%E7%97%85%E6%82%A3%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%A2%A6/" target="cdt-mirror">旧闻评论｜黄安举报“台独”：新病患的鸳鸯蝴蝶梦</a>
-</h2>
-<p><p><em>作者：宋志标</em><br><em> 微信公号：旧闻评论（ID:jiuwenpinglun）</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/640-3.jpg" rel="attachment wp-att-425523"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640-3.jpg" alt="640" width="400" height=""></a><br>
-【题图当代水墨，作者新浪微博：秃头倔人】</p>
-<p>台湾人黄安曾经以《新鸳鸯蝴蝶梦》这首歌打进大陆，不能说风靡一时也小有名气，毕竟有罗大佑、蔡琴、齐豫姐弟等扛鼎歌手在。这是二十多年前的事。现在的黄安借助从前的艺人名声，多见于二流电视台的医药直销节目，等于是电视屏幕上的“活体电线杆”。</p>
-<p>黄安推销面目可疑的保健医疗产品，并不为外人知道。他在大众视线里的露出，是因为他以反台独的名义，连续举报了多位台湾艺文人士来华活动。名单上包括卢广仲、张悬、蔡依林、王大陆、杨丞琳、九把刀、五月天，名单可能还会延续下去。</p>
-<p>也因为频繁的举报，黄安在台湾文艺界的声誉被降到冰点，劣评如潮。而在黄安的微博上，他十分高调地宣示自己的立场，贬抑台湾，抬高大陆，甚至出言：要与北京雾霾共存亡。老实讲，黄安亲大陆的姿态是如此高昂，令其反台独的独白变得不让人信服。</p>
-<p>黄安为什么会从一名记忆中的老歌手，变成一名电视保健品推销员，进而去举起反台独的旗帜？一名在大陆谋生的台湾籍没落歌手，如何沉醉在斗士一样的存在中不可自拔？尤其是，这种近似癫狂的爱恨转变缺少过度，也欠缺足够的逻辑支持。</p>
-<p>艺人当然可以有自己的政治立场，但政治立场这个东西不是一日养成的，像打滴点一样诸如到身体里面。就像黄安举报的那些艺人，他们的政治立场的获得及表达，是人生经历的一部分。客气地讲，黄安的立场，可能也是他钻研的成果，近朱者赤。<br><strong><br>
-黄安举报台独，与黄安举报台独成功，是两回事。</strong>经他举报的艺人，在大陆的演出或活动多多少少都受到了影响，卢广仲的东莞草莓姐演出被临时取消等等。所以，重点可能不在于黄安举报，而是他为什么在这个时候举报，而且有关部门吸取了这个举报。</p>
-<p>黄安的举报发生在台湾发生太阳花运动之后，在这场以反对两岸间服务贸易的重大事件中，台湾各界都出来表达意见，主张反对黑箱操作的立场。依照台湾现在的法律环境，这是台湾人享有的政治表达的自由。但它的影响，终结了服贸谈判，影响远播大陆。</p>
-<p>在事件结束后的一段时间，参加太阳花事件的台湾人受到了反弹，其中有些人在入境香港时受到阻碍。大陆将台湾反服贸，看作是对台政策上的挫败，因而在舆论上采取了攻击的立场，试图抵消反对声音对两岸现有接触管道的劣评，捍卫对台立场。</p>
-<p>在这种情况下，黄安的举报，并且被接受，是因为事件刚消散不久有后关部门采取了舆论反制，需要这么个材料。所以，<strong>不是黄安在反台独，实际上是有关部门在反台独</strong>。而且“台独”一词在特殊时期因为敏感放宽了定义范围，容忍了黄安乱贴台独标签的做法。</p>
-<p>比如对周子瑜的举报，是因为她在MV中举了青天白日旗。但是，任谁都知道，真正的台独是要去掉这面旗帜的，没有哪位台独分子会举着中华民国国旗。在遭到反驳后，黄安就列举其他疑似台独表现，连国民党都看不下了，在脸书上说支持周子瑜。</p>
-<p>在香港发生占中事件之后，香港艺人中持有同情立场的，在北上大陆的工作时也遇到了类似问题。他们当中肯定不包括成龙，但至少有黄秋生、卢凯彤、林夕、何韵诗、黄耀明、杜汶泽等受到牵连。但香港艺人的举报工作由爱字头的中联办外围组织包办，黄安插不上手。</p>
-<p>无论是台湾还是香港，伴随着每一次重大的社会事件，大陆在后续处理上都采取了围堵式的惩罚。对艺人的惩罚当然非常明显，这也将中港台三地的政策壁垒显现到艺人身上。因为这些艺人在大陆的知名度，又将本身是针对港台的意识形态围堵反弹到大陆舆论场中。</p>
-<p>所以看待黄安举报这件事，重要的观察点是大陆对台湾所采取的报复性手法，为何出现，如何实施。只有这样才能研判这种举报的持久性。<strong>可以想见，对港台的意识形态压制本身是波动的，随着需要调整强弱烈度，黄安举报的成功与否，取决于此，而不是取决于黄。</strong></p>
-<p>那么，现在的预测是对台的舆论压制趋势会在某个时候缓和吗？在什么时间段，黄安作为举报人与线人的角色会被冷落与弃置？现在还不好预估具体时间，对岸正在搞选举，香港又因众所周知的事情陷入情绪，舆论上保持压制，以观察事态过渡，恐怕是措手之一。</p>
-<p>但是，真正的问题又不在于大陆对港台持有不同政见的艺文人士会在合适解冻？真正的问题是，放任黄安举报、将来自宝岛的志愿者线人、以及将爱字头的职业举报人强化舆论场中对港台的厌憎，会导致什么后果？这种后果又会对两岸三地的关系有何影响？</p>
-<p>经过黄安举报，在文艺演出范围造成了某种禁忌，就是要审核艺人的政治立场，间接促成政审在舞台上的展开。一些艺人被切断大陆的工作机会，黄秋生自嘲说“连演成人片的机会都无”，这对港台艺人的短期收益会有杀伤力，但并不意味着“赶尽杀绝”。</p>
-<p>对于黄安来说，举报台独、被认可为举报线人，好处是直接的。<strong>那就是他的“投名状”可以掩护他推销可疑保健品的问题，通过有关部门的“认可”来强化爱党爱国的效忠立场，拖延对他违规节目的查处</strong>。黄安举报台独，也是把爱国做成了一门生意的具体体现。</p>
-<p>在反对港台艺人的一般理由中，是这样的论证：既然反对大陆，就不要来赚大陆的钱。这里面的逻辑漏洞像筛子眼一样多。反对的对象到底是国、是政府还是别的什么，指向并不清晰，反对的可能是某项政策，而政策是可以被讨论的，政策会变动也是常识。</p>
-<p>赚大陆的钱，不等于赚大陆人的钱，更不等于赚反对者的钱。有些人只想听歌，指向看到表演，他们是花他们自己的钱，而且是自愿的。但是这部人的消费权利被剥夺了。<strong>反对者认为可以代表大陆或大陆人，但这只是假象，能够阻止艺人的从来不是他们。</strong></p>
-<p>黄安举报台独，乃至于要举报台湾，尽管在大陆引起了少数人的附和，一些艺人因为举报得逞而失去工作机会，也被认为大快人心。但从对岸的角度看，这种举报正在引发强烈的对大陆的反感，如果有台独人士知道黄安的事业，也会要感谢黄安的。</p>
-<p>台独或香港城邦论的形成，首先在于社会心理上的认同，或者说至少不厌恶。黄安以反台独的名义举报，在台湾人那里能激起什么情绪？我想没有人是赞成的，正常人都会认为是荒谬。随即，台湾人会想：这么荒谬的主张和人物，也被大陆认可，那大陆真可怕。</p>
-<p>香港的情形也做如是观。被爱字头陈净心举报的香港艺人，尽管失去了大陆的工作机会，但是获得了香港人的欢迎，对他们受打压保持同情态度，也正在以实际的票房支持受打压艺人在本地的商演。但是对大陆，一般港台人的反感情绪随着举报升温。</p>
-<p>在这样的局面下，大陆对港台的政策、措施都会首先遇到人的心理抵触，这对两岸三地的政策关系是不利的。如果选择持续强硬，黄安、陈净心们的举报当然可以继续采用，<strong>但一旦要调整政策，就会发现已经没了弹性——为何？这都要拜举报所赐。</strong></p>
-<p>意识形态为剑拔弩张的中港台关系埋下了不利的因素，黄安举报犹如被利用的棋子，在虚假的成就感之下制造着举报者的快感、狂欢，但是对于大陆真正要用力化解的困难百害而无一益。这只能是特定时期的产物，对港台实施“文艺戒严”的恶果，又不用黄安之流承担。</p>
-<p>总之，黄安举报台独，并非黄安的胜利，最多延缓他在大陆低级而可疑的变现盈利模式遭执法查处而破产的速度，举报所做的反向宣传，对“台独”绝对是个利好，台独乐见其成。而借举报来强化意识形态，导致人性迟迟不能复苏，只有新“病患”捏着举报的牌子招摇过市。</p>
-<p>2016/1/14</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%EF%BC%9A%E6%96%B0%E7%97%85%E6%82%A3%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%A2%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">台湾独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/?category=18271" rel="tag">吃饭砸锅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA/?category=18271" rel="tag">香港艺人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -712,7 +698,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -722,5 +708,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

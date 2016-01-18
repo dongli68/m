@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%9B%B9%E5%9B%BD%E6%98%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E5%8F%8B%E5%AF%B9%E8%94%A1%E8%8B%B1%E6%96%87%E5%BD%93%E9%80%89%E7%9A%84%E8%AE%A8%E8%AE%BA/" target="cdt-mirror">法广｜曹国星：大陆网友对蔡英文当选的讨论被赶到了微信里</a>
+</h2>
+<p><p>昨天（1月16日），蔡英文当选中华民国第一位女总统，在中国的社交网络微博上，搜索“蔡英文”结果寥寥无几，传统媒体只是转载了新华社的报道，网络媒体中，只有凤凰网做了较深入的报道。</p>
+<p>这并非偶然，据说网信办的指令是，“各网对‘台湾地区领导人’选举的报道在网站首页不超过两行，位置必须安排在PC端第5行之后、移动端首屏第4行之后，不得做专题和集纳，不符合的立即纠正，违规将‘依法查处’”。</p>
+<p>由于网络整肃运动，微博上，官方支持的言论冲锋队如黄安和环球时报得到支持，许多支持台湾民主的网友或者自我审查，或者被删帖，更多的讨论躲藏到了相对封闭的微信群和朋友圈里。</p>
+<p>共青团中央的微博发了台湾地图，并配上文字“当归是最常见的中药之一，有补血调经、抗癌防老免疫之功效”，对此网友评论是，“可惜赵家药锅里，以太子参、党参为主，当归好像反太子参、且畏党参。”</p>
+<p>搅动了两岸的台湾少女艺人周子瑜事件，在选举之前成为最热门话题，有评估称，可能给民进党带去了额外的五十万张选票。</p>
+<p>对此，杨恒均的文章对周子瑜手中的青天白日旗做了解释。</p>
+<p>杨恒均说，台湾这面“国旗”虽然早就不完全是当初的青天白日满地红，可历史无法割断。这面旗帜曾经代表了那一代先烈在孙中山号召下推翻满清，结束专制；这面旗，曾经凝聚全中国人的眼泪和斗志，艰苦抗日十几年；这面旗，即便在国民党撤退到台湾犯下了不少罪行时，却也一步一步肃清了日本殖民台湾留下的流毒；这面旗，最终在蒋经国领导下，在台湾进行了民主化改革——这面旗，还不该我们中国人记住与敬佩？如何能把挥舞这面旗帜简单等同于台独？</p>
+<p>今天下午，有几位持民国立场的长沙网友在长沙黄兴路步行街展示这面旗帜，对蔡英文表示恭贺，并且调戏举报周子琪的黄安“小黄你举报我啊”。如专栏作家贾葭所说的，如果黄安们不让台湾人展示青天白日旗，一定会有更多台湾人展示民进党的绿色台独旗。</p>
+<p>在台湾再次民主交接政权之际，许多大陆网友怀念并呼唤蒋经国。</p>
+<p>对此，网友燕文薪认为，蒋经国只是在专制者间横向比较，审时度势顺应潮流，值得赞许，但他对台湾白色恐怖党化教育及情治泛滥，罪责甚重。不能有意无意忽略了台湾党外运动几十年的艰苦努力和血泪牺牲。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%9B%B9%E5%9B%BD%E6%98%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E5%8F%8B%E5%AF%B9%E8%94%A1%E8%8B%B1%E6%96%87%E5%BD%93%E9%80%89%E7%9A%84%E8%AE%A8%E8%AE%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E5%9B%BD%E6%98%9F/?category=18271" rel="tag">曹国星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF%E6%A1%82%E6%95%8F%E6%B5%B7%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【异闻观止】香港铜锣湾书店老板桂敏海失踪事件调查</a>
 </h2>
 <p><p>新华社北京1月17日电　题：香港铜锣湾书店老板桂敏海“失踪”事件调查</p>
@@ -705,34 +727,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E5%86%85%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/" target="cdt-mirror">【习总日记】 党内还有哪些“政治隐患”</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，14）</p>
-<p>《中纪委十八届六中会议公报》发布：中国共产党第十八届中央纪律检查委员会第六次全体会议，于2016年1月12日至14日在北京举行。出席这次全会的中央纪委委员124人，列席226人。</p>
-<p>我出席全会并发表重要讲话。李克强等党和国家领导人出席会议。</p>
-<p>全会由中央纪律检查委员会常务委员会主持。全会总结2015年纪律检查工作，部署2016年任务，审议通过了王岐山同志代表中央纪委常委会所作的《全面从严治党，把纪律挺在前面，忠诚履行党章赋予的神圣职责》工作报告。</p>
-<p>《公报》发布后，我请中纪委书记王岐山对《公报》作进一步解释。王岐山说还是习总您来吧。我想也是。很多问题只有我讲得清楚。</p>
-<p>政治隐患</p>
-<p>《公报》说：“党中央严肃查处周永康、令计划违纪违法案件，消除了党内重大政治隐患，彰显了全面从严治党的坚定决心。”</p>
-<p>上面这段有三点必须说明。第一，“消除了”不等于说党内现在将来就不存在重大政治隐患。第二，“隐患”指将病未病。我曾经写过一篇日记说的就是向中医学习治未病。看你不顺眼，认为你可能犯罪，在你并未犯罪的情况下先把你抓起来治罪，以绝后患。第三，联系到周永康令计划违纪违法案件，指这两起案件是政治隐患，并无事实发生。证明了周永康令计划两人行为并未造成实际上的政治事件，仅仅是隐患。</p>
-<p>纪法分开</p>
-<p>《公报》说：“在全面依法治国条件下，管党治党要靠党规党纪，坚持纪严于法、纪在法前，实现纪法分开，用严明的纪律管住全体党员。”</p>
-<p>上面这段重点是“纪法分开”四个字。纪法分开就是法律归法律，党纪归党纪，互不干扰，互不挖墙脚。讲法律的场合不提党纪，讲党纪的场合不提法律。每一个共产党员请听好了，包括刘少奇同志，党无论如何对待你，要你生或要你死，别跟我谈什么宪法法律。</p>
-<p>纪委不是“公检法”</p>
-<p>《公报》说：“纪委决不能成为党内的‘公检法’，执纪审查决不能成为‘司法调查’，要依纪监督、从严执纪，真正把纪律立起来、严起来，执行到位。”</p>
-<p>上面这段是要告诉每一位党员干部，当纪委对你执行纪律审查时，不会效仿司法调查的套路保障人权讲究证据什么的。第一你没有任何尊严权利可言，第二证据不重要上级领导说了算，第三你可以跳楼我们绝不阻拦大家省事。</p>
-<p>《公报》说：“全面从严治党，要运用监督执纪‘四种形态’：让咬耳朵、扯袖子，红红脸、出出汗成为常态，党纪轻处分、组织调整成为大多数，重处分、重大职务调整的是少数，而严重违纪涉嫌违法立案审查的只是极极少数。”</p>
-<p>上面这段发出明确信号，中纪委的重点从打老虎向拍苍蝇转移。为啥？因为党依靠老虎管苍蝇。老虎们整天提心吊胆哪还有心思管苍蝇？苍蝇没老虎管的话就如同无头苍蝇，乱来。那还了得。</p>
-<p>最后提个问题给大家回去思考：周永康令计划的政治隐患消除了，还有哪些政治隐患亟待消除？</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E5%86%85%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%85%A8%E4%BC%9A/?category=18271" rel="tag">中纪委全会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3/?category=18271" rel="tag">政治隐患</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -754,5 +748,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

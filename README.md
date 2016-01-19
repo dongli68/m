@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%ACnhk%E9%9B%BB%E8%A6%96%E5%8F%B0-%E8%A3%BD%E3%80%8C%E5%A4%AA%E9%99%BD%E8%8A%B1%E9%81%8B%E5%8B%95%E3%80%8D%E7%B4%80%E9%8C%84%E7%89%87%E4%B8%AD%E6%96%87%E5%AD%97/" target="cdt-mirror">【CDTV】日本NHK電視台｜「太陽花運動」(中文字幕)</a>
+</h2>
+<p><p>〔自由時報〕「太陽花學運」雖然在台灣已落幕，不過，日本媒體NHK於10日播出長達49分鐘的「學運全紀錄」紀錄片，用鏡頭詳細的紀錄學生佔領立法院24天的過程，以及詳細介紹服貿爭議的來龍去脈。 </p>
+<p>日本媒體NHK透過鏡頭記錄，學生長達24天佔領立法院的過程，並製作長達49分鐘的學運紀錄片，不僅從學生觀點和政府回應出發，還走訪台灣美容、出版業者，紀錄各界對於服貿的看法。 NHK形容「太陽花學運」是一場前所未聞的佔領行動，雖然最終和平落幕，但是支持和反對服貿的雙方，仍在探討解決服貿爭議的方法。</p>
+<p><a href="https://www.youtube.com/v/U1agYWMah4E?version=3">https://www.youtube.com/v/U1agYWMah4E?version=3</a> </p>
+<p><a target="_blank" href="http://www.youtube.com/watch?v=U1agYWMah4E" title="日本NHK電視台 製「太陽花運動」紀錄片(中文字幕)">日本NHK電視台 製「太陽花運動」紀錄片(中文字幕)</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%ACnhk%E9%9B%BB%E8%A6%96%E5%8F%B0-%E8%A3%BD%E3%80%8C%E5%A4%AA%E9%99%BD%E8%8A%B1%E9%81%8B%E5%8B%95%E3%80%8D%E7%B4%80%E9%8C%84%E7%89%87%E4%B8%AD%E6%96%87%E5%AD%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91/" target="cdt-mirror">【立存此照】昨日像那东流水 离我远去不可留</a>
 </h2>
 <p><p>1月19日，有网友发现黄安实名认证微博的最新一条消息为2015年6月3日发布，包括此前举报多名艺人和本次风波的内容全部不见踪迹。新浪微博相关工作人员表示，黄安微博内容并非站方处理，而是其本人账号操作。搜狐新闻跟进发现，从上午开始，黄安一直在持续删除微博，直到下午3点07分，所有内容都已删除。（搜狐）</p>
@@ -47,7 +62,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">台湾独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">黄安微博</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E7%BA%A2%E4%B8%8E%E9%BB%91%EF%BC%9A%E4%B8%80%E4%BB%B6%E4%BB%B6%E6%8D%A2%E8%A1%A3%E6%9C%8D60%E4%B8%87%E4%BA%BA%E7%9C%8B/" target="cdt-mirror">澎湃新闻 | 网络主播红与黑：一件件换衣服60万人看</a>
 </h2>
@@ -156,7 +171,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E4%B8%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E5%9B%BD%E8%87%AA%E9%A6%96/?category=18271" rel="tag">回国自首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%B0%91%E6%B5%B7/?category=18271" rel="tag">桂民海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%A6%E9%9B%AA/?category=18271" rel="tag">梦雪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%92%E6%A0%91%E4%B9%8B%E6%9E%9C/?category=18271" rel="tag">毒树之果</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B4%BB%E4%BD%9B-%E6%94%BF%E5%BA%9C%E8%AF%B4%E4%BA%86%E7%AE%97/" target="cdt-mirror">奇闻录 | 是不是活佛 政府说了算</a>
 </h2>
@@ -174,6 +189,40 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B4%BB%E4%BD%9B-%E6%94%BF%E5%BA%9C%E8%AF%B4%E4%BA%86%E7%AE%97/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BB%E4%BD%9B/?category=18271" rel="tag">活佛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BB%E4%BD%9B%E6%9F%A5%E8%AF%A2%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">活佛查询系统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99/?category=18271" rel="tag">藏传佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%AD%99%E7%AB%8B%E5%B9%B3%EF%BC%9A%E9%A2%86%E5%AF%BC%E4%BD%93%E5%88%B6%E7%9A%84%E4%B9%B1%E8%B1%A1%E4%BD%95%E4%BB%A5%E5%BD%A2%E6%88%90%EF%BC%9F/" target="cdt-mirror">孙立平：领导体制的乱象何以形成？</a>
+</h2>
+<p><p>经常在各地跑，发现一个很有意思的问题，这就是领导体制乱象。</p>
+<p>无论是政府机构中，还是国有企事业单位， 举凡任何一个行政组织中（私企除外），都涉及到一个最基本的问题：谁是最高决策者，反过来说，谁是最高责任者。</p>
+<p>回顾一下改革开放之初。</p>
+<p>当时鉴于过去权力过于集中的教训，开始推行三方面的体制变革：一是强调分权，尤其是中央与地方的分权（也包括向企事业单位的分权）；二是强调集体领导的体制，以防止将权力过多地集中到个人手里（指一把手）；三是推进党政分开的制度。</p>
+<p>在其后形成的体制中，虽然一把手的权力也是很大的，但其后的几把手，仍然有很大的独立决策权，特别是在其主管的领域和部门事务中。一些重要的决策，则往往要经过集体决策的程序，而这种程序在很大程度上并不是走过场的。而在党政分开制度能落到实处的地方，实际上出现了双首长体制（如市委书记和市长）。</p>
+<p>这种体制从防止权力过分集中的角度说，当然有道理，但其实仍然是一种很蹩脚的体制。集体领导，说穿了，就是在缺乏权力外部制衡的情况下，用权力内部分散来实现权力制衡的一种安排。但由此产生的弊端也是明显的。首先，分权后，一级行政组织的集体决策者向谁负责？比如说一个学校，如果把权力下放给校长们，校长们向谁负责？其次，很多事情在集体领导的名义下互相扯皮，效率低下。更有许多地方，实际上是内斗不止。</p>
+<p>这一点，在地方政府实际上充当经济发展发动机的情况下，问题越来越明显。现实的要求，推动着权力向一把手集中，而模糊的规则和制度，则为这种集中提供了空间。因此，在过去20年间，总的趋势是权力越来越向一把手集中，所谓集体领导实际上已经名存实亡。特别是在一度实行的书记兼人大主任的体制中，一把手专权的模式开始制度化。</p>
+<p>一把手专权的体制有利于提高效率，但弊端更为明显。因为这种一把手专权的体制是在缺乏其他权力制约的情况下发生的，于是各个地方的一把手就越来越像一个地方的土皇帝。所谓县委书记现象（成为腐败重灾区）就是这样形成的。</p>
+<p>这其中还有一个问题，因为我们在字面上不能放弃集体领导的说法，这样字面上的集体领导也就成为专权的一把手在决策失误时推卸责任的冠冕堂皇的理由（最常见的情况就是，书记是最高决策者，但出了问题，则要由行政负责人担责）。此中可以见到权责的混乱。</p>
+<p>这当中还有一个很值得玩味的状况。由于所谓集体领导的制度安排是很模糊的，在现实中，往往是领导者尤其是一把手的能力性格等因素决定了实际的运作的情况。这样，到了本世纪前十年，在中央层面上实行的实际是九龙治水的集体领导体制，而在地方的层面，则是一把手专权越来越明显。这种情况更进一步加剧了权力内部的失控。</p>
+<p>于是，就有了18大之后的再集权化过程。</p>
+<p>以上，是现象的过程描述。下面，我们进行理论上的分析。</p>
+<p>在现代社会中，最有效率的体制是委托–代理关系明确前提下的首长负责制。下面是百度的首长制词条：首长制又称一长制或独任制，是指行政组织的法定最高决策权由行政首长一人执掌的行政组织体制。其基本特征是行政首长对行政机关各种事务拥有最终决定权，一人决定一切行政措施，其他领导成员均为行政首长的幕僚，只有建议权，而无决定权。美国的总统制是首长制的典型。如林肯总统某次召集七位部长开会讨论一个重要问题，七位部长均反对林肯的意见，但林肯仍坚持自己的主张，并最后宣布说：“七人反对，一人赞成，赞成者胜利。”</p>
+<p>词条接着说：首长制的优点在于：权力集中、指挥灵敏、责任明确、减少扯皮，办事果断行动迅速、效率较高。</p>
+<p>这种首长制其实有两个具体安排。第一，首长或一把手组阁制。即副手及各部门负责人由一把手选定任命。即我们通常所说的一朝天子一朝臣。这样做的好处是，能保障首长意志的贯彻执行。第二，首长或一把手拥有最终决策权。</p>
+<p>但首长制的前提是，必须要有明确的委托代理关系。比如，美国的总统，是选民选出来的，要对选民负责，你可以自己组阁，但你得对你自己组的这个阁负责任。如果你组的阁不称职，你要做好下台的准备。同时，为了防止行政首长专权，还要设立各种制约的措施，比如外部权力的制衡，舆论的监督等。但很明显，在这种制度安排之下，最高行政首长的决策一旦做出，执行起来是高效率的。</p>
+<p>明确的委托代理关系和制衡机制这两个前提非常重要。反观我们的体制，首先是缺乏这些前提。由于委托代理关系不明确，同时也由于缺乏有效的制衡机制，就无法名正言顺地实行真正的首长负责制。前些年，云南等一些地方曾进行过一把手组阁的试点，但最后不了了之。问题的原因就在这。因此，我们现在实行的，在名义上的是集体领导体制，而实际上是名不正言不顺的首长制。</p>
+<p>这其实是一种很混乱的体制。说是集体领导，但又无法真正实行，就是真正实行了，也是弊端多多。但由于这种原则上的集体领导体制，又不能名正言顺的组阁。于是，每一个新的领导上任，面对的都不是自己的人。要把相当的精力放在漫长而复杂的换人的过程中。无处不在的权力斗争即由此而来。</p>
+<p>在这种缺乏明确委托代理关系的委派制中，为了保障上级对下级的控制，防止下级抱团儿对付上级，上级往往不能容忍下级的几个主要领导关系过于密切；但为了保障工作的正常进行，也不能允许其关系过于紧张。结果是各揣心腹事，互相掣肘。从现实来看，各个地方的一二把手关系都是一种非常微妙的关系。</p>
+<p>但无论是在什么情况下，在分权制下，由于没有明确的委托代理关系，上述问题解决不了，就只能靠更不规范的方式，如党管干部、党的纪律、政治觉悟等来保障体制的运作。然而，在今天的社会，这些因素能起的作用越来越有限。</p>
+<p>在毛泽东的时代，曾经是靠高度中央集权的方式来解决这个问题。当时，不仅下级官员是上级委任的，而且要隔级委任，即地市级的主要负责人也要由中央委任。目的是确保上级对下级的控制。但随着市场经济体制的建立，经济社会生活的复杂化，这样的体制在很大程度上已经成为不可能。</p>
+<p>这样，就形成了一种既不能体现民主的原则，又不能达成效率的目标的体制。这告诉我们，如果不能通过民主的方式将委托代理关系落到实处，仅仅通过行政体制框架内的集权或分权来解决问题，是不可能的。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%AD%99%E7%AB%8B%E5%B9%B3%EF%BC%9A%E9%A2%86%E5%AF%BC%E4%BD%93%E5%88%B6%E7%9A%84%E4%B9%B1%E8%B1%A1%E4%BD%95%E4%BB%A5%E5%BD%A2%E6%88%90%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 11小时前</small>
@@ -635,59 +684,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%AE%80%E7%AB%8B%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%BC%AA%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%EF%BC%9A%E6%96%B0%E5%B7%A6%E6%B4%BE%E6%88%90%E4%B8%BA%E4%BD%93%E5%88%B6/" target="cdt-mirror">讀立｜莫之许：那些伪知识分子：新左派成为体制的工具</a>
-</h2>
-<p><p> 新左派的浮现和转向，与体制在1989年之后针对自由化知识分子群体的整体对策有关。 </p>
-<p>2016年1月7日，中山大学博雅学院年度教职工会议现场，青年教师李思涯当场扇了该院院长甘阳几个耳光，据称，此举是对甘阳长期拖延、刁难青年教师职称评定的报复。由于此事涉及到学院内的权力关系，职称评定等更关乎自身利益，引起众多学院人士关注，自在情理之中，但除此之外，此事还得到了更大层面的关注，「打得好」之声不绝于耳，之所以如此，大概与甘阳的另一个头衔，也就是所谓的「新左派」领袖有关。</p>
-<p>    大陆所谓新左派，发端于1990年代中期，一向认为以汪晖领衔，其主要特点在于挪用后现代主义等西方当代思想资源，对启蒙话语——也就是宣扬自由、民主、宪政的自由化话语——进行质疑。在当时，由于新左派貌似独立的派头，以及其时髦的话语表达，曾经吸引了相当多的青年人，不过，在自由主义者看来，新左派以貌似偏离于官方意识形态的独立姿态，挪用后现代主义等西方前卫批判理论，而在这一切的背后，其实是为官方打压自由化话语的目标服务。双方曾展开长期的唇枪舌战，2000年前后，围绕长江读书奖「自己评，奖自己」事件，新左派与自由主义者之间，更是曾爆发过一场热闹的论战。</p>
-<p>    新左派作为体制的工具，以攻击、质疑自由化言论为任务，在当时，这一指控或许并没有广为接受，然而，令人好笑的是，仅仅数年之后，所谓的新左派自汪晖以下，无一例外都摇身一变成为了「中国模式」派，一反其曾经持有的先锋前卫立场，成为了亲现行体制的保守派，这样戏剧性的跃迁，没有任何学理上可信的过渡逻辑，而只能显示所谓新左派群体与体制的隐秘关系，以及始终反对自由民主的用心。这在一定程度上也证明了自由主义者当初的指控，真可谓水退了，才知道谁没有穿内裤。</p>
-<p>    作为新左派阵营中的一员，甘阳也有着类似的经历。 1996年，甘阳发表「自由主义：平民的还是贵族的？」一文，批判当时大陆自由主义话语的贵族化、保守化倾向，俨然以左翼自由主义自居，不过，在当时的思潮环境下，1980年代以来的泛自由化或泛启蒙群体正在分化，一部分人如朱学勤、徐友渔、秦晖等人仍坚持自由化立场，展开各种观念表达，而另一些人则开始以新左派的面目出现，甘阳的左翼自由主义立场，其实已开始与当时的新左派遥相呼应，标志着甘阳开始脱离泛自由化阵营。而又过了短短几年，甘阳更是直接跳过右手边的贵族自由主义，提倡「将错就错」（甘阳图书的书名），致力于通三统——中统、西统、马统，成为了更为右倾的亲体制保守主义者。</p>
-<p>    新左派的浮现和转向，与体制在1989年之后针对自由化知识分子群体的整体对策有关。 1980年代，随着共产主义信仰在文革后的大面积破灭，人们迫切需要寻找新的解释体系，而国门的打开，又为各种主义的引入推广提供了条件，在当时，思想观念起到的是某种先导作用，知识界由此获得了与此前相比巨大的话语权力和空间。 1989年学生运动的爆发，与此前的自由化思潮有直接的关系，也因此，1989年悲剧之后，针对自由化知识分子，体制始终采取警惕、压制、甚至加以打击的立场。曾经活跃的知识界人士，许多人因此被清除出了体制，或是下狱、如包遵信、刘晓波，有的流亡，如苏晓康、金观涛，自由化知识分子与体制的关系由1989年之前的既紧密又紧张，变成了一直到今天的既疏离又对立。</p>
-<p>    出于对自由化思潮的警惕和敌视，当局乐于看到对自由化话语的对冲和批判，即使其与正统意识形态不符，这可以解释新左派话语在1990年代中期的出现。而当局对自由化思潮的立场和态度，必然影响到大批仍旧栖身在体制内的知识分子，总的来说，被迫隐晦甚至藏匿自己的政治倾向成为主流，这被含蓄地称为「由思想转向学术」。而自1990年代末期以来，凭借从经济发展中所获得的经济利益，体制对知识分子加以了精心的吸附和控制，高校等知识人群体因利益等因素，出现了难以避免的整体保守化倾向。可以说，除了在市场化媒体或网络平台上还在活跃的零星自由化知识分子之外，当今并不存在如1980年代那样的泛自由化知识界了。</p>
-<p>    甘阳成名于1980年代，是当时知识界启蒙群体的新星，1989年后避居海外求学，被认为是流亡「精英」中的一员，一向持自由民主理念。如今，甘阳却被特聘为中山大学博雅学院的院长，成为了新时代的学术主流人物，相比如今身陷囹圄多年的刘晓波，和海外流亡的苏晓康等人，甘阳可谓是春风得意，而常常所鼓吹的，则是很清晰的亲体制言论和倾向。甘阳的这种变化，当然会遭到持自由化观念人群的不满和鄙视，这也是甘阳被扇耳光之后，会有这么多人叫好的缘故。</p>
-<p>    在甘阳身上，能折射出体制这20多年来知识分子策略的成功，通过维系事业体制，再辅之以经济手段，相比于1980年代，当今的学院已经彻底被党国掌控。而经过体制20余年的敌视、压制和收买，曾经的自由化知识群体不仅早已分化瓦解，而且从自然规律而言，甘阳这一代人，也已进入了其生命的暮年，有的甚至已然仙去，如陈子明、曹思源，已经不再能够想象，这一代知识分子还能有什么贡献和作为，倒是其生平言行出处，也大致可论定也，上者如刘晓波、陈子明，可谓抗争不屈，生死以之，中者如徐友渔、张博树，也称得上安贫乐道，坚守气节，至于甘阳、刘晓枫这等投机反复，终于寄食体制者，其实已经成为了保守、反动的伪知识分子。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%AE%80%E7%AB%8B%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%BC%AA%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%EF%BC%9A%E6%96%B0%E5%B7%A6%E6%B4%BE%E6%88%90%E4%B8%BA%E4%BD%93%E5%88%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">伪知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%9E%AB/?category=18271" rel="tag">刘晓枫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B7%A6%E6%B4%BE/?category=18271" rel="tag">新左派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E6%99%96/?category=18271" rel="tag">汪晖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%98%E9%98%B3/?category=18271" rel="tag">甘阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E4%B9%8B%E8%AE%B8/?category=18271" rel="tag">莫之许</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8C%97%E4%BA%AC%E8%A1%97%E5%A4%B4%E5%B8%82%E6%B0%91%E8%B0%88%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E8%AE%AE%E6%B0%91%E4%B8%BB/" target="cdt-mirror">美国之音｜北京街头市民谈台湾大选议民主</a>
-</h2>
-<p><p>北京—对于台湾四年一度的总统选举情况，中国大陆媒体报道不是很多，但是仍有一些中国民众对这次可能对两岸关系产生深远影响的选举坦率表达了关注和看法。台湾选举结果揭晓前夕，美国之音记者叶兵在北京街头对过往行人作了随机采访，其中有些市民对中国大陆未来的民主之路表示谨慎乐观。我们一起来听听北京的普通市民怎么说。</p>
-<p>外企职员张女士说：“不是特别关注（台湾领导人选举），大概知道有几个候选人。”</p>
-<p>从事建筑工程的市民张先生：“通过新闻报道，或多或少知道一点，但了解的不是很深入。”</p>
-<p>从事生物科技研究工作的曾先生说：“大致了解，但我觉得都差不多。因为都是在做一些类似于政治表演的东西。在台湾，至少在我看来，大家风格上是过度夸张地表达观点，但做的事情本质上来说相差不大。”</p>
-<p>记者：“对这几位候选人，您对哪位印象最好？”</p>
-<p>从事环保技术工作的孟先生告诉记者：“印象谈不上，因为我不选举。我只是看看报道，估计也就是蓝党和绿党这两个选举人了。我觉得谁上来都不会改变海峡两岸大的格局，不会有太大的选择性。谁上都一样。最后海峡两岸的关系还得往好的方向发展才行。”</p>
-<p>公司职员肖女士说：“我觉得对缓和大陆和台湾关系好一点的话，我选民进党吧。是一位女性吧？（记者：是的，蔡英文）我觉得女性参选有自己的特点，执政角度可能不太一样。”</p>
-<p>张先生：“我希望国民党(当选)。长久以来就有自己的情感在里面。对具体两派政策不清楚，但我从个人感情，毕竟国民党还是从这里出去的。马英九这几年的政策还不错，对大陆还算比较亲和，两岸关系也还行。”</p>
-<p>张女士回答说：“我觉得哪个（竞选者）台湾人民自己喜欢，他们选出来的、谁适合于他们的，就是最好的。”</p>
-<p>记者：“你认为如果是蔡英文上台，大陆应该怎样处理？”</p>
-<p>曾先生说：“我觉得目前来看，至少在过去的几年当中，两岸关系并不是有很多冲突。一直都是向前走的。基调也是很和平的。在未来几年甚至几十年，也应该都会保持现在的基调。”</p>
-<p>张女士说：“中国人，不管大陆人还是台湾人，是同一个根。如果他们不想和大陆统一，那是他们的选择，和中国大陆老百姓没有什么太大关系吧。这是政治上的问题。”</p>
-<p>孟先生说：“如果她当选，政策上肯定有所调整，竞选是竞选，但上位以后她该做什么，要从整个台湾的利益出发而不是党派利益出发，否则她也不太好做下去。所以我相信她的政策会有所调整。竞选是打竞选战，可能口号提的更激烈一点，在美国也都是这样，很习以为常了。这个毕竟是要为台湾2300万人的福祉考虑，我相信她不会做的太激进，或者说跟现在的政策彻底脱节。如果她这么做，那大陆这边肯定有相关反应，那就是新一轮的角力出现，那就交给政治家处理了。”</p>
-<p>曾先生说：“（两岸关系）不会倒退，毕竟大家都是血缘相同的，而且大家也是越来越理性，越来越open。大家互相获取信息的渠道越来越多。说实话，我很理解台湾人民在想什么，台湾人民通过网络也了解大陆人民在想什么，本质上我们没有分歧。”</p>
-<p>记者：“台湾民主选举你怎么看？是不是今后大陆的发展方向？”</p>
-<p>孟先生：“不太好说。有权利表达自己选举意愿总归是好事。大陆这边在村一级也有自己的选举开始，但是到达台湾这种情况，短期内应该不会实现的。因为两岸的政治体制还是不一样。”</p>
-<p>肖女士说：“我希望大陆参与这种竞争和民选。毕竟台湾是大陆的一部分，应该往那边靠拢。”</p>
-<p>张女士说：“民主是现在国际社会中最先进的一种制度。中国也一定会往这方向走，只不过时间会长一点。”</p>
-<p>孟先生说：“作为公民来说，大家都希望国家更加民主。其实在别的国家，美国，台湾也一样。台湾也不是说选举了就彻底民主了。各种方式上也有很多值得往前走的地方。民主是一个不断渐进的过程。不是说选了总统民主就结束了，或者说就到顶峰了。他们选举中出现了很多弊端也是有的，这个还要往前走。 ”</p>
-<p>曾先生说：“无论是上层来说，还是普通民众来说，都是在往前走，社会不会倒退的。”</p>
-<p>孟先生：“我觉得民主肯定是这个国家的诉求，这个领导人都已经说过了。中国肯定要往更民主化的方向走，这个是很明确的。没有说不民主，谁也不会这样说。”</p>
-<p>老家安徽已在北京落户的张先生说：“世界上大的潮流，有选举的还是比较多一点，主流是如此吧！”</p>
-<p>记者追问道：“你希望不希望今后有一天你手中也有一张选票，去选你想要的领导人，或者你自己想不想参加竞选？”</p>
-<p>张先生笑着回答：“当然希望了，哈哈哈……”</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8C%97%E4%BA%AC%E8%A1%97%E5%A4%B4%E5%B8%82%E6%B0%91%E8%B0%88%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E8%AE%AE%E6%B0%91%E4%B8%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -699,7 +695,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -709,5 +705,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

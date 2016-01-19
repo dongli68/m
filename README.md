@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,89 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B-%E6%8D%9E%E9%92%B1%E6%AF%94%E5%88%98%E5%BF%97%E5%86%9B%E8%BF%98%E5%A4%9A%EF%BC%8C%E7%94%B3%E7%BB%B4%E8%BE%B0%E5%88%B7%E6%96%B0%E6%AD%A3%E9%83%A8/" target="cdt-mirror">长安街知事 | 捞钱比刘志军还多，申维辰刷新正部贪腐记录</a>
+</h2>
+<p><p><strong>作者：紫汐</strong></p>
+<p>如今，十八大后落马的高官陆续进入审判季，在这个审判季里，令人开眼的事儿不少。这不，一项新记录就此诞生了。</p>
+<p>最新消息称：曾任中宣部副部长、中国科协党组书记、太原市委书记的申维辰，被常州市人民检察院指控为他人在企业经营、干部职务晋升或岗位调整等事宜上谋取利益，收受他人给予的财物，共计折合人民币9541万余元。</p>
+<p>有小伙伴觉得这不算什么，就在元旦前，广州市委原书记万庆良受审，涉案金额过亿，瞬间亮瞎大家双眼。但请大家淡定，这里要先介绍申维辰的一个重要标签，正部级官员。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.28.31.png" alt="Screen Shot 2016-01-18 at 下午6.28.31" width="489" height="388" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.28.31-300x238.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.28.31.png 489w" sizes="(max-width: 489px) 100vw, 489px"></p>
+<p>长安街知事（微信ID:Capitalnews）梳理发现，十八大后共有蒋洁敏、李东生、李崇禧、申维辰、白恩培、何家成、朱明国、周本顺、杨栋梁、苏树林等10名正部级官员被查，其中蒋洁敏、李东生、李崇禧、申维辰四人已经受审，蒋涉案2880余万，李东生涉案2198余万，李崇禧涉案1109余万，三人加起来也不及申维辰一人多。申维辰，刷新了正部级干部贪腐记录，其数额，还超过了原铁道部长刘志军这位巨贪（知事注：检方指控刘志军涉案金额为6460.54万）。</p>
+<p>申维辰捞钱的“本事”，长安街知事（微信ID:Capitalnews）此前已经做了详细介绍，这里不妨再简单回顾一下。</p>
+<p>据财新网报道，2006年1月，在文宣系统浸淫多年的申维辰从山西省委宣传部长任上调任太原市委书记，与其相识多年的文化产业商人胡树嵬也随之而来，当时胡树嵬很喜欢提申维辰，不断地找其吃饭。当地多位人士透露，胡树嵬的得一集团可以顺利扩张并进军房地产界，离不开申维辰的“扶持”。</p>
+<p>申维辰主政太原期间，房地产市场勃兴，多家知名房产大鳄纷纷进驻，山西煤老板也纷纷转战地产行业，太原土地被“土豪式”地开发，胡树嵬的得一集团，“抓住机会”成为了绿地、复地等大型房企进军太原的“股东”。众人皆知，以得一集团当时的资金实力，引进房产大鳄，拿下黄金地块尚有难度，圈内朋友都说，胡是得到了申维辰等多位“圈内人士”的鼎力帮助，才得以迅速站稳脚跟。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.29.19.png" alt="Screen Shot 2016-01-18 at 下午6.29.19" width="509" height="352" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.29.19-300x207.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.29.19.png 509w" sizes="(max-width: 509px) 100vw, 509px"></p>
+<p>而据《中国经济周刊》报道，申维辰还与出事的“山西首富”张新明有不少瓜葛，张新明为巴结申维辰，曾一次斥资500万元人民币赞助与申关系暧昧的女歌手的演唱会。</p>
+<p>从检方指控来看，申不仅涉及地产腐败，还在违规提拔干部上获益，虽然其中细节并没有公开，但申落马后的一系列连锁反应，就足以提供有力证明。申出事后，就有媒体陆续报道称：忻州市委常委吉久昌、太原市国土资源局总工杜怡及该局前任局长张宝玉被带走。知情人称，有被查处的山西官员交代曾向申维辰行贿数百万元。</p>
+<p>申维辰涉足过文化、城建等个领域，善于作秀，在官员中被视作有政绩的“能人”，特别是在其策划《乔家大院》后，迅速积攒了超高人气。然而，此人在群众中口碑极差，许多拆迁户不仅在中纪委官网上实名举报申，还将材料送到了中央巡视组的驻地。申落马次日，太原不少群众走上广场放鞭炮庆祝，喜称“胸中出了一口闷气”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.30.47.png" alt="Screen Shot 2016-01-18 at 下午6.30.47" width="550" height="380"></p>
+<p>因为工作关系，长安街知事（微信ID：Capitalnews）曾与申有过几面之缘：此人身材挺拔，声音洪亮，出口成章，特别善于用言辞抓住全场的注意力。初次交往的人，很容易被他表面的气场所感染。这一感觉，也被山西的小伙伴们所证实：台上看是个君子能吏，台下看真让人大跌眼镜。</p>
+<p>申维辰在正部级干部中，或许不是最知名的人物，但其今日用一项极不光彩的记录再度激活了社会对其的关注。然而，这样的关注，给党和国家形象带来的伤害是不可估量的：一个正部级官员贪腐近亿还步步高升，不能不让人深思。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B-%E6%8D%9E%E9%92%B1%E6%AF%94%E5%88%98%E5%BF%97%E5%86%9B%E8%BF%98%E5%A4%9A%EF%BC%8C%E7%94%B3%E7%BB%B4%E8%BE%B0%E5%88%B7%E6%96%B0%E6%AD%A3%E9%83%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF/?category=18271" rel="tag">山西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF%E5%B8%AE/?category=18271" rel="tag">山西帮”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%96%B0%E6%98%8E/?category=18271" rel="tag">张新明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E7%BB%B4%E8%BE%B0/?category=18271" rel="tag">申维辰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B/?category=18271" rel="tag">长安街知事</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2%EF%BC%9A%E9%9F%A9%E5%9B%A2%E4%BD%93%E5%B0%86%E8%AF%89%E8%AF%B8%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%9D%83/" target="cdt-mirror">BBC中文网 | 周子瑜道歉风波：韩团体将诉诸国家人权委员会</a>
+</h2>
+<p><p>作者：杨虔豪 BBC中文网韩国特约记者</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.16.15.png" alt="Screen Shot 2016-01-18 at 下午6.16.15" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.16.15-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.16.15.png 643w" sizes="(max-width: 550px) 100vw, 550px"><br><span>韩国偶像团体TWICE台籍成员周子瑜</span></p>
+<p>“韩团TWICE台籍成员周子瑜的“国旗道歉”风波引发争议，有韩国公民团体周一（18日）上午发表声明，将向国家人权委员会申诉，要求针对事件展开详细调查，并扬言将向检方对TWICE的经纪公司JYP代表朴轸永提告。</p>
+<p>韩国偶像团体TWICE台籍成员周子瑜，因在电视节目中挥舞青天白日旗，遭中方抵制后，又在台湾大选最后一夜，拍摄并公开承认自己是“中国人”的道歉影片，同时在台韩两地引起争议。</p>
+<p>针对这起风波，韩国方面，已有将采取行动的预告。公民组织“韩国多文化中心”在18日上午发表声明，将以“种族歧视”与“打压人权”为由，向韩国国家人权委员会申诉，同时也不排除向检方对周子瑜所属的经纪公司JYP代表朴轸永提告。</p>
+<p>韩国多文化中心表示：“17岁的少女，手摇让自己在演艺界出道的韩国太极旗，还有自己出身的母国─台湾的青天白日旗，是相当自然的模样。下面还有挥舞太极旗的成员、也有挥舞日本国旗的成员，还能存在甚么‘政治黑幕’？”</p>
+<p>声明指出，“对周子瑜被强迫施加的道歉行为，已引起台湾国民公愤，最终将为台湾撒下‘反韩’感情的火苗”。</p>
+<p>该团体将向韩国国家人权委员会申诉，要求对周子瑜事件展开进一步调查；若经判断当中确实存在强迫行为，将向韩国检方对JYP代表朴轸永提告。</p>
+<p>韩国多文化中心代表金成会，18日下午接受BBC中文网记者采访时表示：“拿自己国家的国旗，当然没错，JYP却只想到中国市场与网友的反应。”他不满地反问道：“JYP是只在乎钱和经济吗？”</p>
+<p>“我们认为台湾国民，会因此感到很受伤。韩国已经实现民主化了，我们想告诉台湾国民，韩国也是相当珍视民主和人权的国家。”金成会说道。</p>
+<p>他并指出，此事对韩国国格造成损害，将在同律师讨论后，于本周内正式向人权委员会提起申诉，在国家层次上，透过客观调查，让JYP对事件做出解释。</p>
+<p>金成会认为，在迈入全球化背景下，韩国经济公司推出许多包括不同国家出身成员的偶像团体，应该提高对多元文化的认识水平，并固守人权意识，不再发生同样问题。</p>
+<p>成立于2009年的韩国多文化中心，主要从事对各国移住者，包括对他们的父母与子女提供包括咨询、韩语教育与创业等支持，使其融入韩国社会；目前也组成多国子女的合唱团，促使他们一起相处学习与适应环境。</p>
+<p>事实上，面对周子瑜的道歉风波，韩国舆论大多表以同情与反对经纪公司的态度。“拿着自己国家国旗，为何需要道歉”、“JYP的作法太离谱了”的留言，在韩国网上疯传。甚至也有人指责道：“这样的事情，在韩国正频繁出现；这是业主对受雇者，还有老人对未成年者的虐待。”</p>
+<p>而在台湾，人权律师王可富也于18日上午，偕同支持群众，前往台北地检署，以涉嫌“强制罪”为由，对最初举发周子瑜“台独”的艺人黄安和JYP提告。</p>
+<p>王可富表示，黄安的举发行径导致周子瑜被迫做出“非义务”举动，JYP也涉及违反他人自由意志的行为，都已触及强制罪的围。</p>
+<p>JYP则在18日下午发表声明表示：“子瑜发表立场，基于其仍未成年，最初公司就与其父母一起商议，我们并等她的父母来到韩国为止。”</p>
+<p>声明中指出：“公司无法对个人的信念做出强迫，也不能做出强迫，全然没有存在强迫之事。”JYP同时强调，“道歉影带”要等到周子瑜的父母赴韩，经过与子瑜讨论后，最终才做出的决定。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2%EF%BC%9A%E9%9F%A9%E5%9B%A2%E4%BD%93%E5%B0%86%E8%AF%89%E8%AF%B8%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%9D%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E5%8F%8D%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">黄安“反台独”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">黄安举报周子瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%8D%8E%E5%8F%B0%E5%8C%97%EF%BC%9A%E4%B8%A4%E5%B2%B8%E4%BA%89%E5%90%8D%E4%BB%BD/" target="cdt-mirror">微思客 | 中国台北，还是中华台北：两岸争“名份”的历史</a>
+</h2>
+<p><p>作者：冉夷侨</p>
+<blockquote><p><strong>编者按：</strong>台湾艺人周子瑜手持“青天白日满地红旗”，被自称“台独杀手”的黄安在微博上斥为“台独”，一时激起千层浪。事实上，这个旗帜早在“国民革命军”北伐胜利之后就颁行于全国，和“台独”毫无关系。相反，真正希望独立者，则是希望废掉这面旗帜。从这个事件中可以看出，对于历史的许多侧面，我们值得挖掘一番。今天，我们推送一篇文章，为大家厘清“中国台北”与“中华台北”，一字之差背后的两岸历史。</p></blockquote>
+<p>1949年，国共内战以国民政府败退台湾，中华人民共和国建立告终。自那时起，“谁代表中国”的重要问题产生。1951年7月，在国际奥委会第28期公报中，将“中华民国奥委会”的会址改为147, West Gate Street, Taiwan (China)，会名仍为Chinese Olympic Committee, National Amateur Athletic Federation。1952年，面对即将到来的第15届赫尔辛基奥运会，新生的中华人民共和国向国际奥委会表达参加奥运会的意愿。面对均以全中国“唯一合法代表”身份的两岸政府，国际奥委会提交大会讨论，最终得到以下决议：“两方可参加由单项运动总会所核可的项目”。在获知这个结果之后，台湾方面的代表郝更生立即表示，不屑于与中共同场竞技，宣布退赛。在台湾方面退出比赛之后，中国大陆代表团从北京出发奔赴赛场，可惜比赛接近尾声，只赶上男子仰泳项目。</p>
+<p>到了1954年5月，在雅典举行的国际奥委会第49届年会当中，国际奥委会以23票对21票，通过了中华人民共和国的入会提案。就在1954年8月的奥委会公报当中，同时出现了“中华奥委会”和“中华人民共和国奥委会”。戏剧性的事件发生在1956年的墨尔本奥运会上。台湾方面透过奥运会筹备委员会主席Kennt Hughes的运作，将奥运村的升旗典礼时段安排在中国大陆之前。不料，在11月1日的升旗仪式上，“旗帜”被掉包，升上去的不是“青天白日旗”而是“五星红旗”。这一突发情况引发了Kennt Hughes的强烈不满，立即要求更换旗帜。但是，这一举动触怒了大陆方面。11月6日，新华社发布国家体育总局的声明，宣布退出墨尔本奥运会。</p>
+<p>大陆方面自然无法允许在国际上出现“两个中国”的局面。1958年，中国奥委会董守义去信国际奥委会主席Avery Brundage，强调中华人民共和国是中国的唯一合法代表。在Avery Brundage回信指出，“国际奥委会不涉及政治，对各国既不承认也不与之交涉……你已在许多场合试图引入政治，若再如此，唯一的对策就是请你辞职。”在1958年8月，董守义回复道，“Brundage故意违反奥委会宪章，为美帝国主义者制造两个中国的政治阴谋服务”，宣布中国奥委会终止承认国际奥委会，并同时退出八个国际单项体育总会。</p>
+<p>至此，“两个中国”的问题似乎得到了解决。然而，在国际奥委会内部，部分委员开始质疑“中华奥委会”（台湾方面）是否能够代表“中国”。就在1959年5月的国际奥委会慕尼黑全会上，国际奥委会做出决议，由于“中华奥委会”未能真正代表中国的体育活动，不能被国际奥委会承认为“中国”，会名从正式文件中删除。后来，台湾方面锲而不舍，重新申请。在1960年8月获得确认，在国际奥委会公报中改为，TAIWAN, Republic of China Olympic Committee。面对这样的局面，台湾方面不愿接受，但又无可奈何。决议次日，奥运会开幕式，代表团决定在开幕式绕场时，举出写有Under protest的布条，以示抗议。1964年，东京奥运会。台湾方面经过与国际奥委会协商，在英文TAIWAN的名牌之下，加注日文汉字“中华民国”字样参加开闭幕式。依照同样的模式，台湾方面参与了1968年墨西哥奥运会。</p>
+<p>正如大陆方面无法接受“两个中国”，台湾方面也无法接受以TAIWAN为名参与国际奥委会。由此，一场展开恢复“中华民国奥委会”的“正名”运动开始。借助朝鲜、东德都存在名称问题，台湾方面决定争取有利时机，把“正名”加入议程。最终，在1968年11月1日起，国际奥委会准用“中华民国奥委会”（Republic of China Olympic Committee）的名称。</p>
+<p>然而，随着1971年联合国“恢复中华人民共和国的合法席位”，“中华民国”的名称也自然遭到了持续地挑战。鉴于国际局势发生的变化，对于国际奥委会而言，解决两岸问题的最好方式就是让台湾方面更改名称。由此，“中国问题”成了国际奥委会亟待解决的问题。</p>
+<p>1979年4月，国际奥委会执委会会议通过提案：（1）恢复中国奥委会的会籍；（2）继续承认位于台北的奥委会，有关名称、歌、旗问题的研究，需尽快加以完成。1980年2月，国际奥委会通过“通讯投票”，以62票赞成、17票反对和2张废票的结果，通过提案。自此，在第145期11月的Olympic Review当中刊登，（1）中国大陆方面称谓变为Chinese Olympic Committee，其旗、歌、徽合格；（2）在台北的奥委会称谓为Chinese Taipei Olympic Committee，其旗、徽、宪章必须修改。虽然台湾方面仍然为“称谓”而不屑“斗争”，但是情况并不乐观。</p>
+<p>围绕“称谓”，两岸均有各自的期待。如何化解两岸的“称谓争议”，1980年新任的国际奥委会主席萨马兰奇（Samaranch） 开启了一道“协商之门”，最终成就了“奥运模式”，即台湾方面称谓改为“中华台北奥委会”，会旗改为另行设计的梅花旗。虽然台湾方面仍然努力争取，让“国歌”成为“会歌”，但是由于国际奥委会的反对，最终以“中华民国国旗歌”代之。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%885.47.41.png" alt="Screen Shot 2016-01-18 at 下午5.47.41" width="406" height="398" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午5.47.41-300x294.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午5.47.41.png 406w" sizes="(max-width: 406px) 100vw, 406px"><br><span>中华台北奥委会会旗 图片来自维基百科</span></p>
+<p>1989年4月6日，代表台湾方面的“中华奥林匹克委员会”秘书长李庆华与中国奥林匹克委员会主席何振梁在香港签署协议。协议当中称，“台湾地区体育团队及体育组织赴大陆参加比赛、会议或活动，将按国际奥委会有关规定办理，大会（即主办单位）所编印之文件、手册、寄发之信函、制作之名牌，以所做之广播等等，凡以中文指称台湾体育团队与体育组织时，均称为‘中华台北’。”</p>
+<p>由此，“奥运模式”的称谓和安排，成为了两岸双方均可接受的一种安排。1991年11月12日，经APEC主办会员国韩国居中协调，台湾方面以“中华台北”（Chinese Taipei）名义加入。2004年12月15日，经济合作组织（OECD）理事会通过以“中华台北”名义成为该组织“竞争政策委员会”的观察员。2009年5月18日，台湾方面以“中华台北”的名义，以观察员身份参加世界卫生大会（WHA）。</p>
+<p>在2008年北京奥运会前夕，大陆媒体将台湾方面的称为“中国台北”而不是“中华台北”，一时间引起台湾各界的不满。台湾方面认为，这样的称谓有“矮化之嫌”。争议起初，大陆方面认为，奥委会协定不涉及他人在协议之外使用“中国台北”的权利，不同意矮化一说。然而，随着不满声浪地升高，大陆媒体在2008年7月下旬，逐渐改用“中华台北”的称谓，顺利地解决了称谓争议。</p>
+<p>“称谓”是一种“政治”，而凡是涉及“政治”，就需要务实面对、智慧处理。“奥运模式”既照顾了两岸双方不同的坚持，也包容了彼此的分歧，找到了最大公约数。政治家需要有大智慧，媒体同样也应该本着“实事求是”的态度进行采写、报道。两岸这一段鲜为人知的“要名份”的历史，足可以给我们大家以启迪。</p>
+<p><span>参考文献：</span><br><span> 1. （台）刘进枰：“1981年奥会模式签订之始末”</span><br><span> http://www.tpa.gov.tw/upfile/www/Pdf/%E8%AB%96%E6%96%87%E9%9B%86/200710/20071025c.pdf</span><br><span> 2. 维基百科：“中华台北”辞条</span><br><span> http://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E8%87%BA%E5%8C%97#cite_note-.E7.9F.A5.E8.AD.98.E5.BA.AB-3</span><br><span> 3. 中华台北APEC研究中心网站：http://www.ctasc.org.tw/01intro/bg.asp</span><br><span> 4. “连胡4度会，胡提搁置争议16字”，《自由时报》</span><br><span> http://news.ltn.com.tw/news/focus/paper/207764</span></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%8D%8E%E5%8F%B0%E5%8C%97%EF%BC%9A%E4%B8%A4%E5%B2%B8%E4%BA%89%E5%90%8D%E4%BB%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E5%8F%B0%E5%8C%97/?category=18271" rel="tag">中华台北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97/?category=18271" rel="tag">中国台北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90/?category=18271" rel="tag">北京奥运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/" target="cdt-mirror">【河蟹档案】证监会否认肖钢辞职，路透社随后遭封杀</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -43,7 +123,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5/?category=18271" rel="tag">袁裕来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/?category=18271" rel="tag">限制出境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%A5%87%E5%B8%86/?category=18271" rel="tag">黄奇帆</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/" target="cdt-mirror">【河蟹档案】证监会否认肖钢辞职，路透社随后遭到封杀</a>
 </h2>
@@ -64,7 +144,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5/?category=18271" rel="tag">袁裕来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/?category=18271" rel="tag">限制出境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%A5%87%E5%B8%86/?category=18271" rel="tag">黄奇帆</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E4%B8%93%E5%AE%B6%E4%BD%93%E9%AA%8C%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/" target="cdt-mirror">奇客资讯 | 信息安全专家体验防火长城</a>
 </h2>
@@ -603,68 +683,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/" target="cdt-mirror">【真理部】周子瑜和台湾大选</a>
-</h2>
-<p><p>各网站：1，注意查删台湾艺人周子瑜相关报道 （例如：周子瑜发视频致歉 朱立伦、国民党凌晨回应）。<br>
-2，“台湾大选”消息各媒体一律不再跟进，不再摘用多方网友言论，不得将消息置于网站重要位置，有关“选举”新动向以权威媒体报道消息为准，对于出现的负面时政评论注意清除。</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%B2%BD%E6%B8%8E%EF%BC%9A%E5%9B%BD%E6%B0%91%E5%85%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%94%E4%B8%AA%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">博谈网｜沽渎：国民党失败的五个主要原因</a>
-</h2>
-<p><p>一、成也九二共识，败也九二共识</p>
-<p>四年前，二零一二年台湾总统大选的最后时刻，九二共识曾经是马英九的救生圈。当时大陆台商中有几位关键性人物纷纷出来为马英九站台助选，表示支持九二共识：没有九二共识，就没有台海稳定！关键人物这一不同寻常表态，成为改变选情影响蔡英文惜败的一个关键因素。在总结二零一二年台湾总统大选结果时，舆论一般认为马英九主要赢在九二共识上，而蔡英文也主要输在九二共识上。今年选举中，国民党如法炮制再次搬出九二共识。今年与四年前不同的是，二零一二年选举中九二共识只是到最后时刻才被国民党当作救生之用。今年的变化是从一开始国民党就拼力主打九二共识牌，把九二共识当成今年的竞选口号和旗帜。然而今非昔比时过境迁，四年前最后时刻帮国民党涉险过关的九二共识，今年却令国民党蒙羞。二零一二年选举后，媒体对台商关键人物助选国民党的不同寻常现象进行过披露。台商大佬是被特定组织要求出来表态的，同时被要求为台籍员工提供假期和机票返台帮国民党投票，当时规模有二十五万至三十万之众。今年选举这一盛况不再现，国民党举着九二共识盾牌艰难走行八年终于累了。国民党该歇歇了，九二共识也该一道歇歇了。</p>
-<p>二、不合时宜的大陆政策</p>
-<p>说九二共识毁了国民党不如说不合时宜的大陆政策毁了国民党。马英九执政八年，跟大陆跟得太近太紧失去自我，直至迷失方向。早在蒋经国时就已意识到国民党在台湾的出路问题，蒋经国渐渐明白，国民党的大陆情结虽无法割舍，但国民党的未来已越来越离不开本土派。因此蒋经国才会有意放弃既忠心耿耿又德才兼备的李焕严家淦蒋纬国等一干人才不用而选择李登辉。李登辉的台湾本土背景是李登辉被蒋经国破格选中的根本原因，足见蒋经国选择接班人的良苦用心。国民党内暗中一直弥漫一种对蒋经国的怨言情绪，认为正是蒋经国的一失足才成千古恨，才为李登辉分裂国民党提供了机会，没有李登辉就不会有国民党后来的分裂。虽然从表面上看，这种情绪似乎有一些道理，其实并没有把正国民党的脉搏。按照这种情绪的理解：好像没有李登辉，国民党就不可能分裂出一个宋楚瑜的亲民党来。问题没这么简单，即使当时把李登辉换成马英九或者换成马英九一路的人物也未必能避免国民党的分裂。</p>
-<p>我们不妨这样反问：今天国民党的分裂又是谁造成的？国民党内的各类精英若能看清本党命运的严重性或问题的本质就会发现：国民党的分裂只是时间问题，蒋经国选择李登辉或选择其他人能改变的也只是分裂的时间而不会改变分裂的本质。国民党内的残酷现实是做为蒋经国先生的后来者们，还没有在国民党生存的忧患意识上达到蒋经国那样的忧患高度。从这一点出发，蒋经国选择李登辉并没错，只是高度太高让周围人不适应，他没能把自己切身感受到的对国民党未来的忧患意识如实地交代给他的后来者们，以致这些后来者们至今仍站在云端里相互埋怨相互指责相互拆台，只会找别人身上的错。历史的偶然让国民党来到台湾岛上，一时为躲避灾难合理也正当，想永远待下去成为主人就会暴露出某些先天不足。要么早日回大陆去，那里才是国民党的根；要么与大陆保持适当距离，最后实现本土化才是唯一出路。马英九的八年执政已很努力，可偏离了轨道也走错了方向。</p>
-<p>三、党内不和，没有凝聚起足够力量</p>
-<p>政党内部的融合仅以个人友情为重不会太长久，只有本党的理念一致才会让一盘散沙也能凝聚起力量。民进党内也同样存在相互融合问题，关键是民进党内有着基本一致的相同理念，这才会让民进党在选战面前放弃个人恩怨，才会凝成合力一起努力。今天的国民党与民进党比，不是国民党员们不想不爱团结，也不是人品出现多大问题，而是国民党的基本理念上出现分化。在这种情况下，还期待国民党融合非常难。站在选举台上的每一位国民党候选人都会高呼团结，可下选台后就不是他们。国民党内已经自觉不自觉地分化为三个阵营：一派以王金平为首的本土派；一派以连战为首的大陆派；一派以马英九为首的中间地带派。其中诡异的是王金平的本土派与连战的大陆派并不是死对头，恰恰是马英九的中间地带派与王金平的本土派之间水火不容。这是个人情感使然的结果，暴露出马英九在个人性格上的特点，既不想成为铁杆大陆派又不愿与本土派合流已经越来越孤立。国民党输在气势上也输在不团结上，个人有私心党也有私心，国民党的分裂不可避免。结果会一分为三还是一分为二有待进一步观察，能一分为三是短痛，短痛比长痛更有利于以后的发展。如一分为二明显不彻底，以后还会再次分裂，这不利于以后的发展。国民党的当务之急不是如何发展而是如何生存，生存成问题还谈不上发展。靠大陆派救国民党越救越糟，唯一能救国民党的是本土派，只是不知本土派还愿不愿留着这块失色的无光招牌。</p>
-<p>四、马英九能力不足，未能兑现当初竞选承诺</p>
-<p>竞选中的承诺是不可被小觑的。你干得好时它也许不重要，当你干得不好时它会成为一面放大镜把你当初的承诺照得清清楚楚。八年前马英九竞选时激情端出他的六三三竞选大餐，诱人且色香味俱全：六是年经济成长率百分之六；第一个三是年国民所得三万美金；第二个三是年失业率控制在百分之三。八年后的今天，马英九全部跳票，一样也未能兑现。执政能力是检验执政者的硬性指标，怎么说不重要，怎么做才是关键。八年前的马英九是神，八年后的马英九成鬼。执政八年平平淡淡表现欠佳，辜负了所有支持者对马英九的期待。政治上马英九过去一直强调大陆不民主两岸关系免谈，但这一政治立场的晚节不保也成马英九的致命伤。外交上在国际场合唯唯诺诺不敢主张中华民国的合理权益，在钓鱼台和南海问题上没能发挥出应有作用，本来计划视察太平岛以宣誓主权却也落空。事事太过听话未必为上，别人得不少便宜也没能谢谢你。马英九在第二任期内致力于个人历史定位存在时机上的偏差，少了一些审时度势，多了一些一往情深。国民党中不乏人才专才，马英九团队未能把这一优势体现出来。选民最后把不满变成选票对马英九进行了惩罚性投票。</p>
-<p>五、不善打选战，输得心服口不服</p>
-<p>在以往选举中，国民党历来被认为是不善打选战的，这次选举更是给外界提供了足够口实。本次选举的主轴应该是民生问题，与选民切身利益相关的根本问题是台湾的经济发展，大多数选民已经对意识形态话题不感兴趣甚至反感了。国民党从一开始就迟迟推不出参选人，有心参选的王金平不敢直接表态，无心参选的朱立伦却被寄予着厚望。在这种不顺畅的开局下，洪秀柱的见缝插针参选本来有一定合理性（促动该选的人早些出来），但洪秀柱后来食言不肯退选又把换柱风波变成了一场添乱。应该说，起先朱立伦表态不参选是明智的，但一趟北京之行让朱立伦的明智之举顷刻就付之西流了。换柱风波彻底害了朱立伦，也彻底害了国民党的这场选举战。无论朱立伦被逼参选的背后有多少身不由己的苦衷，残酷的政治现实都至少证明两点，一点是怂恿朱立伦霸王硬上弓蛮横参选的策略严重荒腔走板不在调上，另一点是朱立伦的前途和未来将会随着这次选战的失利而变得越来越暗淡。马习会是马英九在第二任期内全力推动的，却没被接受是北京不想成全马英九。在选情告急的情况下，北京突然改变态度希望马习会能对选情起到推动作用。马习会匆忙登场，不仅没有起到作用反而帮了倒忙。选战进入最后冲刺阶段的正毅合谋抹黑蔡英文更是滥招害死鱼。过去国民党一直反对在选战中给对手抹黑，这次选战到最后时刻国民党为挽救败局也学会东施效颦了。黄安之乱，更是让周子瑜大于一百万票。</p>
-<p>来源：万维博客 / 沽渎</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/b165k9ppppppppppppppppppppppppppppppppppppppppppp-150x150.jpg" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%B2%BD%E6%B8%8E%EF%BC%9A%E5%9B%BD%E6%B0%91%E5%85%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%BA%94%E4%B8%AA%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E8%94%A1%E8%8B%B1%E6%96%87%E8%AE%B0%E8%80%85%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E6%96%87/" target="cdt-mirror">联合早报 | 蔡英文记者会演讲全文</a>
-</h2>
-<p><p>台湾2016大选结果出炉，民进党蔡英文胜选，将成为台湾历史上首位女总统。她在胜选后举行国际记者会，以下是她演讲全文：</p>
-<p>谢谢各位国内外的媒体记者朋友，感谢大家的耐心等候。今天，台湾人用选票写下了历史，完成了总统职权以来第三次的政党轮替，以及第四个国会政党轮替。我要向所有在今天走进投票所投下神圣一票的台湾人民，致上最深的敬意。无论投票给谁，民主精神的展现，就是这场选举最大的意义。</p>
-<p>2016年我们又一次的透过民主选举，向全世界展现作为一个民主国家的骄傲，以及身为台湾人的光荣。我们也再一次地告诉了国际社会，民主的价值已经深入台湾人的血液，民主的生活方式更将是2300万人永远的坚持。</p>
-<p>在这里我要感谢两位可敬的对手——国民党的朱主席，还有亲民党的宋主席。我感谢他们展现了民主的风度，让这一次的大选能够顺利圆满。在过去这段时间的相互竞争，以及他们对我很多的指教，都将是鞭策我自己不断进步的动力。</p>
-<p>我相信政党之间除了竞争，当然也可以合作。在新国会就职，新政府上任之间的过渡期，民进党会依循现有体制，和现在的政府保持密切的沟通，协调、协助政府完成交接过程的政局稳定，以及正常的运作。</p>
-<p>我也会尽快和国内主要的政党来共商国是的机制，我们也希望借由这个共商的机制，能够经常就重大的政策交换意见，让台湾摆脱政治恶斗的旧思维，迎接新政治的来临。</p>
-<p>另外，我要感谢投票支持蔡英文、陈建仁、民主进步党和立委候选人的所有选民，让民进党再次站起来，并且再一次把治理国家的责任交给我们。</p>
-<p>对我来说，这个不只是一场选举的胜利，这个结果是在告诉我人民期待一个更愿意亲近民意的政府，一个决策更透明的政府，一个有能力解决困难，照顾弱势的政府，一个可以把国家带进新时代的政府，还有一个为坚定捍卫国家主权的政府。</p>
-<p>我说过从今天起就是改革的第一里路，这些托付将是推动改革的最大后盾，我承诺，2月1日就职的新国会以及5月20号上任的新政府，都会把实现这些期待当做最重要的使命。</p>
-<p>我们必须要诚实面对，改革不可能一步到位，台湾眼前的挑战也不会立即消失，但是在未来四年的任期内，我一定会尽全力兑现我的承诺，为台湾晋升先进国家，展开各项软硬体建设，修复过去政策的错误，重现人民对政府的信赖，为下个阶段的台湾发展奠下最坚实的基础。</p>
-<p>借这个机会，我也要代表台湾人民感谢国际友人，对台湾选举的关注和支持。作为国际社会的一份子，台湾愿意积极参与国际合作，台湾也愿意和全世界的朋友共享利益，共担责任，并且对区域和平稳定做出最大的贡献。</p>
-<p>在这场选战中，我曾多次承诺，将会建立最有一致性，可预测性，可持续的两岸关系。作为中华民国第十四任总统的当选人，我要再次重申，今年5月20日，新政府执政之后，将以中华民国现行的宪政体制，两岸交流协商互动的成果，以及民主原则，和普遍的民意，作为推动两岸关系的基础，我也会秉持超越党派的立场，遵循台湾最新的民意，最大的共识，致力确保海峡两岸关系维持和平稳定的现状，以创造台湾人民最大的利益福祉。</p>
-<p>我也要强调，两岸都有责任尽最大努力，寻求一个对等的尊严，彼此都能够接受的互动之道，没有挑衅也没有意外。今天选举的结果是台湾民意的展现，是中华民国作为一个民主国家，是2300万人民的共同坚持。我们的民主制度，国家认同和国际空间必须被充分的尊重，任何的打压都会破坏两岸关系的稳定。</p>
-<p>最后我要强调，我知道自己有重大的责任，就是团结这个国家。这两天有一则新闻撼动了台湾社会，有一位在韩国发展的台湾艺人，一个16岁的女生，因为拿着中华民国国旗的画面而遭到打压。这件事引起了不分党派台湾人的普遍不满。这件事将会永远提醒我团结这个国家，壮大这个国家，并且一致对外，是我作为下一任中华民国总统最重要的责任。</p>
-<p>台湾有很多挑战，来自外部，也来自内部。选举已经结束，所有选举中的摩擦和争执，都应该到此为止。我们会和2300万人一起向前走，共同打败这个国家的困境。我们不会因为选举而分裂，而是因为民主而团结。谢谢大家！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E8%94%A1%E8%8B%B1%E6%96%87%E8%AE%B0%E8%80%85%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E6%96%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE/?category=18271" rel="tag">台湾选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">女总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -686,5 +704,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

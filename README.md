@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,121 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91/" target="cdt-mirror">【立存此照】昨日像那东流水 离我远去不可留</a>
+</h2>
+<p><p>1月19日，有网友发现黄安实名认证微博的最新一条消息为2015年6月3日发布，包括此前举报多名艺人和本次风波的内容全部不见踪迹。新浪微博相关工作人员表示，黄安微博内容并非站方处理，而是其本人账号操作。搜狐新闻跟进发现，从上午开始，黄安一直在持续删除微博，直到下午3点07分，所有内容都已删除。（搜狐）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%84%E5%AE%89%E5%BE%AE%E5%8D%9A.png" alt="黄安微博" width="550" height="580" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/黄安微博-285x300.png 285w, http://chinadigitaltimes.net/chinese/files/2016/01/黄安微博.png 761w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>1月8日，黄安曾发布微博举报台湾艺人周子瑜。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317-2.jpeg" alt="Img434229317" width="554" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317-2-300x217.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Img434229317-2.jpeg 554w" sizes="(max-width: 554px) 100vw, 554px"></p>
+<p> </p>
+<p>1月18日，黄安发布的台湾同胞声明。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/945fe7c9jw1f03t4t4nuij20fl0m8mz4.jpg" alt="945fe7c9jw1f03t4t4nuij20fl0m8mz4" width="550" height="784"></p>
+<p>到19日下午2时25分许，黄安微博主页上2015年的内容已全部删除，最新一条停留在2014年6月，微博总数从上午的4000多条变为1421条。弧度跟进发现，大约每10分钟，黄安的微博就以数百条的速度消失，其中包括大量有关外孙女的晒娃照片和日常生活记事消息：下午2点35分，消息总数由1421条下降为959条，2点45分，消息总数是713条，2点55分，消息总数变成389条，3点05分，消息仅剩50条，3点07分，黄安所有微博均已删除。</p>
+<p>查看黄安原微博 <a href="http://sinacn.weibodangan.com/user/2489313225/" target="_blank">传送门</a></p>
+<p><strong>相关阅读:</strong></p>
+<blockquote><p><a title="路标 | 爱国老炮黄安：中国特色社会主义是最好的" href="https://chinadigitaltimes.net/chinese/2016/01/%E8%B7%AF%E6%A0%87-%E7%88%B1%E5%9B%BD%E8%80%81%E7%82%AE%E9%BB%84%E5%AE%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/">路标 | 爱国老炮黄安：中国特色社会主义是最好的</a></p>
+<p><a title="【敏感词库】周子瑜事件、台湾大选 相关 2016-1-16" href="https://chinadigitaltimes.net/chinese/2016/01/425637/">【敏感词库】周子瑜事件、台湾大选 相关 2016-1-16</a></p>
+<p><a title="奇闻录 | 助选最大功臣：黄安、时报、中国网友" href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%8A%A9%E9%80%89%E6%9C%80%E5%A4%A7%E5%8A%9F%E8%87%A3%EF%BC%9A%E9%BB%84%E5%AE%89%E3%80%81%E6%97%B6%E6%8A%A5%E3%80%81%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B/">奇闻录 | 助选最大功臣：黄安、时报、中国网友</a></p>
+<p><a title="【立此存照】大陆网友完胜！？" href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E9%99%86%E7%BD%91%E5%8F%8B%E5%AE%8C%E8%83%9C/">【立此存照】大陆网友完胜！？</a></p>
+<p><a title="旧闻评论｜黄安举报“台独”：新病患的鸳鸯蝴蝶梦" href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%8F%B0%E7%8B%AC%EF%BC%9A%E6%96%B0%E7%97%85%E6%82%A3%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%A2%A6/">旧闻评论｜黄安举报“台独”：新病患的鸳鸯蝴蝶梦</a></p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">台湾独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">黄安微博</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E7%BA%A2%E4%B8%8E%E9%BB%91%EF%BC%9A%E4%B8%80%E4%BB%B6%E4%BB%B6%E6%8D%A2%E8%A1%A3%E6%9C%8D60%E4%B8%87%E4%BA%BA%E7%9C%8B/" target="cdt-mirror">澎湃新闻 | 网络主播红与黑：一件件换衣服60万人看</a>
+</h2>
+<p><ul><li>她们之中，有的住在上海千万元豪宅里，有的住在单位提供的小房子里。她们在不同的房子里大多穿着暴露，对着电脑摄像头，不时做出暧昧的动作。</li>
+<li>她们之中，有的是在校大学生，有的是来自偏远地区的年轻无业女子。她们身份不同，她们处境相似，怀着一个明星梦，亦或想快速赚更多的钱。</li>
+<li>她们在经纪人的劝说下，或在网民的追捧声中，游走在掺杂色情、违法的灰色地带，有的被男友提出分手后依然不愿离去，有的在自我奋斗，准备离开这个行业。</li>
+<li>她们是互联网时代兴起的网络直播。除了女性，这个行业亦有不少男性，他们游走的江湖中，甚至还掺杂着暴力。</li>
+<li>她们和他们，近日引发网络和社会各界的高度关注。</li>
+<li>2016年1月10日凌晨，斗鱼TV一名男主播与一女子赤裸身体，在平台上直播性行为。此前在2015年最后一天，斗鱼TV一名主播在上海驾豪车玩直播，撞伤2人。而日前，虎牙直播在户外综艺直播中，主播因口角引发斗殴，一男子头部受到重创，血流不止。</li>
+<li>她们和他们，只是中国庞大人口中极小的一部分，但其影响力不容小觑。借着互联网的渠道，有业内人士根据2015年的调研报告预测，2016年，每个月看一次网络直播平台的用户数可能在1亿人次左右。</li>
+<li>巨大的蛋糕吸引着网络主播们，冲击着她们的底线，甚至影响着中国大批年轻人的未来。</li>
+</ul><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/303.jpg" alt="2016年1月14日，上海，丁瑶每天要花一个多小时来化妆，因为要做直播，她十分在意自己在屏幕前的形象。去年11月开始，丁瑶在朋友的介绍下接触了网络主播这一行，她原本以为网络主播可以轻松月入百万，但真正接触这行以后，才发现这个职业背后不为人知的辛酸，经过两个月的磨练，她现在每天的直播能够有近5万人收看，但是至于月入百万的传说，她连忙否认。近期由于网络直播接连出事，直播平台对网络主播的管控与限制愈加严格，丁瑶向记者坦言“现在主播的工作没有以前来的好做”。 早报记者 高征 图" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/303-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/303.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>2016年1月14日，上海，丁瑶每天要花一个多小时来化妆，因为要做直播，她十分在意自己在屏幕前的形象。去年11月开始，丁瑶在朋友的介绍下接触了网络主播这一行，她原本以为网络主播可以轻松月入百万，但真正接触这行以后，才发现这个职业背后不为人知的辛酸，经过两个月的磨练，她现在每天的直播能够有近5万人收看，但是至于月入百万的传说，她连忙否认。近期由于网络直播接连出事，直播平台对网络主播的管控与限制愈加严格，丁瑶向记者坦言“现在主播的工作没有以前来的好做”。<br> 早报记者 高征 图</p></div>
+<p><strong>60万人盯着她一件件换衣服</strong></p>
+<p>“可以吗，我直播你的采访？”</p>
+<p>对着客厅的镜子，边化妆边和我聊天的丁瑶突然说。</p>
+<p>镜子的另一端，是和一台黑色台式电脑、一个话筒和一台大功率的聚光灯。这名拥有48万粉丝的网络主播，正在仔细地描眼线。落地窗外，黄浦江上星光点点。<strong>这里是上海陆家嘴的核心区域，她暂住的这套房子100多平米，市值大约1500万元。</strong></p>
+<p>得到同意之后，她有点兴奋，跑进卧室，翻出一根自拍杆，装上一台为直播特意买的iPhone 6 Plus手机，对着镜头说，“今天有记者来采访哦，大家的弹幕要给力一点哦。”</p>
+<p>采访继续进行，屏幕上飞出一堆弹幕，粉丝们七嘴八舌，“记者过来坐坐”、“记者好白”、“找助理演的吧”、“小心假记者”。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/240.jpg" alt="丁瑶为粉丝准备的自拍照礼物。网络主播不仅要在线上与粉丝互动，更重要的是在线下维护好与粉丝的关系。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/240-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/240.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>丁瑶为粉丝准备的自拍照礼物。网络主播不仅要在线上与粉丝互动，更重要的是在线下维护好与粉丝的关系。</p></div>
+<p>丁瑶随时随地都能直播。有次，她去剧场听郭德纲的相声，举着手机，跟十几万人直播。过了一会儿，剧场的工作人员把她送到派出所，说她偷录人家的演出。</p>
+<p>直播完我的采访之后，今天的新节目马上开始：跳钢管舞。</p>
+<p>她把手机交给我，爬上钢管，用双臂拉起自己的身体，面对镜头，笑着摆出几个姿势，动作撩人。</p>
+<p>丁瑶刚满23岁，学法律出身，拍过网络剧、上过杂志、但都是“跑龙套的”，进入这行纯属偶然。</p>
+<p>两个月前，有个经纪公司的朋友告诉她，“做主播在韩国，月入百万元”，还让她看其他主播的视频，对着镜头舔一下，或者吃个香蕉什么的。</p>
+<p>最开始，她拒绝了，“我就说，我不想走这种风格，可能干不了这种。公司的人给我洗脑，说‘屌丝也是要看女神的呀’。”</p>
+<p>做主播的第一周，她还是放不开，觉得自己是个“高冷的天蝎座”。有人发弹幕提问，她也不太爱理。一周后，经纪人批评她，要她多跟粉丝互动，才能涨粉。</p>
+<p><strong>她翻了一圈其他主播的直播间，“懂了，从此迅速走红，两个月做到48万粉丝。”人气最高的一次，有60万人同时盯着屏幕，看她在电脑前一件件更换从韩国买回来的衣服。</strong></p>
+<p>不断有人在直播里送她“火箭”。这是一种虚拟货币，粉丝购买后，一架带着买家名字的卡通火箭，会从屏幕上飞过，远比普通粉丝的弹幕醒目。</p>
+<p><strong>每支“火箭”的价格是500元人民币。有个90后的土豪，曾经一口气为她刷几十个“火箭”，占满了整个屏幕。经过平台和经纪公司的分成后，它们将折现，成为主播的收入来源。</strong></p>
+<p>收到“火箭”后，丁瑶会起立，在摄像头前跳舞、飞吻、摆出可爱的姿势和眼神，然后把送“火箭”的粉丝名字念出来，表示感谢。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/301.jpg" alt="2016年1月15日，上海，一群梦想成为网络主播的女孩正在拍摄宣传照。近期，“网络主播”再次成为热词，从2015年12月31日一起当红网络主播直播飙车引发的车祸，再到1月10日的在线直播“造人”性行为引发近千人围观。“网络主播”这一新兴行当再次备受争议。 网络直播除了为年轻人提供了一个赚钱的渠道外，催生一批主播经纪公司外，有的直播平台从一开始就抱着打擦边球，提供伪色情，钻法律空子的态度去违法经营。 据艾瑞《2015年中国互联网演艺平台发展研究报告》显示，中国互联网演艺平台市场规模在2010—2011年呈爆发式增长，2014 年市场规模54.3 亿，较2013年增长49.2%，预计2015年达77.7 亿，2016年突破百亿，整体呈“野蛮式”生长。 根据国内某直播平台发布的《中国互联网网络主播数据报告》显示，大比例入侵网络主播领域的多为90后，而且女生居多。如今网络直播只需要一张身份证，就可以实现很多人的明星梦。在互联网时代，已经成长起来的90后逐渐在这里找到了自由又高薪的职业，也找到了“张扬自我个性”的独特生活方式。 早报记者 高征 图" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/301-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/301.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>2016年1月15日，上海，一群梦想成为网络主播的女孩正在拍摄宣传照。</p></div>
+<p>“很年轻，虚荣心很强，他们一进房间别人就会知道。”丁瑶边化妆边评价粉丝，“也不排除，就是想要泡一个女主播。”</p>
+<p>优秀的网络主播，年收入已经过百万元，虽然丁瑶坚持“收入保密”，但巨大的粉丝数量让她成为了这个平台的佼佼者之一。</p>
+<p>她的粉丝、一名大三男生说，丁瑶是个典型的白富美，身材“符合男性的一切幻想，穿衣品味也好过那些乡村女主播”。</p>
+<p>对着落地镜一边化妆，丁瑶介绍起她最近在看一本与互联网有关的书，睡觉前，她有听《逻辑思维》的习惯、也爱看《奇葩说》、《晓松奇谈》这类综艺节目，希望可以在直播时能聊一些有趣的话题。</p>
+<p>但是，“他们还是看身材。”丁瑶摇着头说，游戏直播平台的娱乐主播在造型上必须保持新鲜感。一间储藏室堆满了丁瑶在直播时穿的衣服，这些衣服的面料轻薄，大多是一次性的。丁瑶挑出了一件圣诞节时穿着的裙子，红色的裙子胸前绑带，裙子下摆刚刚超过丁瑶的臀部下沿。</p>
+<p><strong>“乡村女主播”的成功渴望</strong></p>
+<p>第二天，我真地见到了一个“乡村女主播”。</p>
+<p>在上海郊区一家三星级宾馆的总统套房里，倩倩和其他4名主播站在一起，光着脚，穿着比基尼，在沙发、浴室、床上轮流拍宣传照。</p>
+<p>她相貌平凡，脸大，鼻子略塌，染了一头过时的黄头发，说话有浓重的口音。</p>
+<p>经纪人甚至都记不住她的真实姓名：“红花也要绿叶配，有的人就是绿叶。”</p>
+<p>被称做绿叶的倩倩，来自福建农村，上一份工作是10086的客服。现在，怕保守的家人误解，她还骗家人，说在“办公楼里上班”。</p>
+<p>她以前不化妆、很少买衣服，不去KTV，生活很简单：上班、下班、买菜、做饭。她很想改变这种生活，一次选秀真地改变了她。</p>
+<p>看到朋友圈里有人分享主播的消息，倩倩也报名选秀。虽然落选，但被另一家公司看上了。为了适应这份新工作，她化了浓妆，衣着前卫。男朋友接受不了，认为她变得“妖里妖气”，两个人分手了。</p>
+<p>她的故事让知情者感叹如同日本电影《裸》。这部电影中，来自新泻乡村的18岁美丽女孩山濑广美高中毕业后，和男友携手前往东京闯荡。广美做着一份稳定的机场安检工作，但在生活的压力和对明星梦的追求下，她接受在涩谷街头遇到的经纪人的邀请，开始拍摄极度诱惑的平面写真。随着人气上升带来的满足感，虽然男友发现后和她分手，闺蜜也离她而去，她还是离那条底线越来越近。</p>
+<p><strong>倩倩没想过要像《裸》中的主角一样走那么远，但为了拉粉，她慢慢学会了主播们的拉粉方式。</strong></p>
+<p>因为住处条件比较差，“属于女生宿舍那种”，她每天都在经纪公司做直播。从零起步，慢慢拉粉丝，她总结出了经验：“舞蹈组合会比较简单一点，只要跳舞，别人会帮你喊麦。”</p>
+<p>她会琢磨粉丝，每天要关心他们，吃饭没有，睡觉没有等等，“其实是很烦的一件事，每天你要关心很多人，今天日子过的怎么样，而且要记住他们所有的东西。”</p>
+<p>琢磨粉丝，是要吸引“土豪”。这些人，出手大方，怪癖很多。有人进来都不讲话，让你认为他不在，“感觉对了，他突然刷刷刷给你刷一笔钱。”</p>
+<p>虽然粉丝少，每次最多也就几百个人看，但仍然挣了“比以前多很多的钱”。</p>
+<p>网络主播们的江湖里，丁瑶所拥有的，正是倩倩所渴望的。</p>
+<p>来自上海的29岁直播平台用户王先生告诉我，自己在近3个月的时间里为一名网络主播投入近30万元。他曾在一次平台组织的比赛中，为自己喜欢的主播刷了近5万元的礼物，帮助她获得了活动的第一名，“只要她高兴就好。”</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/302.jpg" alt="2016年1月14日，上海，网络主播丁瑶苦练钢管舞，准备用来增加直播的内容。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/302-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/302.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>2016年1月14日，上海，网络主播丁瑶苦练钢管舞，准备用来增加直播的内容。</p></div>
+<p>在宾馆拍摄现场，其他主播带了胸贴，而倩倩没有。她处在一个尴尬的境地：不想放过这个宣传的机会，又不好意思跟别人借。</p>
+<p>显然，她对成功有着更强烈的渴望。没有犹豫太久，她当着男摄影师的面，躲在沙发后面，脱下胸罩，用手挡着胸部，凑合拍了照片。</p>
+<p><strong>“每个月1亿人次看网络主播”</strong></p>
+<p>钢管舞的直播只进行了2分钟，直播画面突然出现黑屏。</p>
+<p>丁瑶一下子收起了脸上职业的笑容，从钢管上跳下，拿起手机，喘着气说，“可能是钢管舞不让播。”</p>
+<p>她的判断非常准确，经纪人马上发来微信，“非常时期，不能跳的。”</p>
+<p>粉丝们也纷纷抱怨，“‘房管’来了”。</p>
+<p>“房管”是对斗鱼直播房间管理员的称呼。2015年12月31日，斗鱼TV旗下一名主播在上海直播驾豪车，结果酿成车祸，撞伤2人。几天后，2016年1月10日凌晨，斗鱼TV另一名主播与一女子赤裸身体，在平台上直播性行为，引起轩然大波。</p>
+<p>随着媒体的介入，<strong>丁瑶和同伴感觉对网络主播的管理骤然收紧。她所在网站的首页，开始出现一条《网络直播自律公约》，要求节目不能“色情、暴力血腥、消极反动以及有擦边球嫌疑”，并“要求主播都能加入”。</strong></p>
+<p>监管在加强，但并没有影响这些活跃着的网络主播。据艾瑞咨询互娱分析师王静怡分析，游戏直播平台在电竞类游戏行业中可以为游戏拉入流量，提升用户粘性。<strong>根据2015年的调研报告，游戏直播平台用户中，19岁到35岁用户达到68%，男女比例为4：1，她预测2016年，每个月看一次的直播平台的用户数可能在1亿左右。</strong></p>
+<p>巨大的蛋糕吸引着一批又一批网络主播们，也冲击着她们的底线。</p>
+<p>“<strong>网络主播目前主要有两类人，第一类是在读的大学生，第二类是没找到好工作的外地年轻人。</strong>”姀星源造星梦工厂的负责人赵紫承分析网络主播的构成，“<strong>大主播一般都是玩情商的，同时职业度也更高。职业度就是我可以给你产生暧昧，但是我永远都是冷血的。我之所以和你沟通就是为了让你留住。</strong>”</p>
+<p>在网络直播平台上，<strong>几乎每一个主播都需要归属于一个“公会”，而“公会”背后则有经纪公司在操作。随着网络红人兴起，越来越多的经济公司随着诞生。</strong></p>
+<p><strong>这类经济公司好比流水线，而这些主播则是流水线上的产品，一个接一个地被加工</strong>。</p>
+<p>“<strong>一个女生通过面试后，先发现她身上的特点，再根据特点安排她上形体、舞蹈、声乐课程，教她怎么用直播软件，直播时灯光怎么调，什么样的妆容化妆、服装、各个平台的规则，怎么吸引土豪给她砸钱</strong>。”赵紫承总结出打造一个娱乐主播的顺序。</p>
+<p>赵紫承雄心勃勃，对网络主播事业高度认可，认为这个造星计划“在把素人变成明星”（素人在直播圈指平常的人、朴素的人）。</p>
+<p>但是，丁瑶并没有认为自己走在明星的道路上。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/305.jpg" alt="网络主播丁瑶收藏的鞋子。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/305-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/305.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>网络主播丁瑶收藏的鞋子。</p></div>
+<p>她仍然梦想成为一名真正的明星，像她曾经合过影的前辈赵雅芝那样的，做主播只是为未来的自己积累粉丝。</p>
+<p>她的桌子上，放着她穿三点式内衣的宝丽来相片。这是准备送给真爱粉的礼物。所谓“真爱粉”，判断标准是“经常给你留言啊，会经常来看你啊”。</p>
+<p><strong>她认为，做一个女主播最好的出路就是，你积攒一些真爱粉，可以做到一呼百应，有人愿意支持你，“比如开个淘宝店什么的。”</strong></p>
+<p>同样不认同这条道路的，还有倩倩。</p>
+<p><strong>她自考考上了上海某学校的会计专业，打算再做两三年主播，会计学得差不多了，与经纪公司的合约也到期了，就退出这一行</strong>，“这种都是青春饭，我要是考出了会计，肯定不会做主播了。”</p>
+<p>她有点忧虑，在网上留下了太多痕迹，以后转行后会有负面影响。但现在没有更好的办法，“只能好好工作，努力学习，争取尽快过上自己想要的生活。”</p>
+<p>有时会碰到言语轻佻的粉丝，她假装没看到，含糊过去。</p>
+<p>她想起以前做客服的日子，经常有人半夜无聊打电话调戏，“姑娘你在哪里？我去找你吧？”</p>
+<p>公司规定，不允许主动挂电话，否则扣奖金。她只能装作没听到，耐着性子，一遍遍对着电话重复，“您有什么需要帮助的吗？”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E7%BA%A2%E4%B8%8E%E9%BB%91%EF%BC%9A%E4%B8%80%E4%BB%B6%E4%BB%B6%E6%8D%A2%E8%A1%A3%E6%9C%8D60%E4%B8%87%E4%BA%BA%E7%9C%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E4%B8%BB%E6%92%AD/?category=18271" rel="tag">女主播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%B1%E4%B9%90%E8%87%B3%E6%AD%BB/?category=18271" rel="tag">娱乐至死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%97%E9%B1%BC/?category=18271" rel="tag">斗鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD/?category=18271" rel="tag">网络主播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%B2%E6%83%85/?category=18271" rel="tag">色情</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%A1%82%E6%B0%91%E6%B5%B7%E6%A1%88-%E6%AF%92%E6%A0%91%E7%BB%93%E5%87%BA%E6%AD%A3%E4%B9%89%E6%9E%9C%EF%BC%9F/" target="cdt-mirror">德国之声 | 长平观察：桂民海案 毒树结出正义果？</a>
 </h2>
 <p><p><strong>中国央视报道出版商桂民海因13年前醉驾撞人案“回国自首”。时评人长平认为，即便如此也不能抵消非法绑架、非法拘押和非法审讯的恶行。</strong></p>
@@ -44,7 +156,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E5%9B%BD%E8%87%AA%E9%A6%96/?category=18271" rel="tag">回国自首</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%B0%91%E6%B5%B7/?category=18271" rel="tag">桂民海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%A6%E9%9B%AA/?category=18271" rel="tag">梦雪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%92%E6%A0%91%E4%B9%8B%E6%9E%9C/?category=18271" rel="tag">毒树之果</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B4%BB%E4%BD%9B-%E6%94%BF%E5%BA%9C%E8%AF%B4%E4%BA%86%E7%AE%97/" target="cdt-mirror">奇闻录 | 是不是活佛 政府说了算</a>
 </h2>
@@ -115,7 +227,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF/?category=18271" rel="tag">山西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF%E5%B8%AE/?category=18271" rel="tag">山西帮”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%96%B0%E6%98%8E/?category=18271" rel="tag">张新明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E7%BB%B4%E8%BE%B0/?category=18271" rel="tag">申维辰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B/?category=18271" rel="tag">长安街知事</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2%EF%BC%9A%E9%9F%A9%E5%9B%A2%E4%BD%93%E5%B0%86%E8%AF%89%E8%AF%B8%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%9D%83/" target="cdt-mirror">BBC | 周子瑜道歉风波：韩团体将诉诸国家人权委员会</a>
 </h2>
@@ -576,51 +688,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8F%B0%E6%B9%BE%E9%80%89%E6%B0%91%E8%B1%AA%E8%B5%8C-%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%BF%E6%AF%94%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%89%B0%E8%8B%A6/" target="cdt-mirror">世界日报｜台湾选民豪赌 蔡英文势比马英九艰苦</a>
-</h2>
-<p><p>中华民国总统大选结果今晨揭晓，开启新世代政治里程碑。包括诞生历史上首位女总统、第三次政党轮替和民进党完全执政、网路世代主导选局、政治生态丕变等，本可大书特书的新猷，却因蔡英文对两岸关系认知暧昧，对美中台三方建立的既有架构接受度不明，开创历史的喜悦反而如山雨欲来。美国派特使穿梭两岸，重申支持两岸和平对话；解放军鹰派中将王洪光撰文威吓「解放台湾时机成熟」，都印证台海外弛内张，防杜 1996 年台海危机重演，成胜负之外国际的最大关注点。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k9pppppppppppppppppppppppppppppppppppppppppppppppp.jpg" alt="k9pppppppppppppppppppppppppppppppppppppppppppppppp" width="550" height="385" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/k9pppppppppppppppppppppppppppppppppppppppppppppppp-300x210.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/k9pppppppppppppppppppppppppppppppppppppppppppppppp.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><br>
-蔡英文 在 16 日举行的台湾总统选举中大胜，民进党同时赢得“立委”选举，获得立法院的多数席位。</p>
-<p>很多政治观察者同意，北京这次对台湾选举相当克制，但选举大势底定，或意味北京对台政策失败，可能改弦更张，不再有观察冷却期， 5 月 20 日新总统就职可能是最后期限，如蔡英文无具体接受「九二共识」的宣示，两岸可能立即「地动山摇」。陆客中转、两岸互设办事处等叫停，陆客访台、经贸让利、外交雪崩等压力都将紧随而至，台海将进入「和平动荡」局面。</p>
-<p>和平和动荡两个冲突的情境，用来形容台海局势却恰如其分：无论台海现状、美中台互动，都须维持和平，力保不军事冲突；但非军事领域，如两岸交流、经贸让利、外交等可能迎来震荡期。蔡英文如何回应「九二共识」，正是两岸和战的按钮人。</p>
-<p>这次选举至少有多项意义。一，亚洲继菲律宾、印尼、南韩等国家后，华人首次出现女总统，显示男尊女卑的中华传统，终于突破性别藩篱，女性成为国家舵手。吊诡的是，蔡英文能否把握契机，开创类似英国柴契尔、德国梅克尔般的女领导人治国成就，而不空转虚耗四年，关键就在她强调的「旧政治的恐吓对立」能否真正走入历史；如果她走台独路线，即使只做不说，朝野和谐团结、两岸和平都将成空谈。</p>
-<p>二，年轻世代崛起，摆脱统独思维和传统蓝绿纠葛，可能改变台湾政治版图。网路时代资讯获取、传播和互动交流不再依循旧模式，七年级、八年级（ 80 后、 90 后世代）自行定义对世局看法，想改变世界、拥有主导权，民进党巧妙结合，造成大胜的结果。小党林立参与，策划「太阳花学运」的「时代力量」，多少威胁民进党不分区得票，台湾新社会力量涌现，国民党成最大受害者；即将执政的民进党也将逐渐面对严酷挑战。</p>
-<p>三，自主多元的社会力量，和香港「占中」运动年轻世代雷同，不遵从体制和现状，亟思开创新未来。他们不是摆脱统独纠结，而是深化台湾认同，「台湾意识」和「一边一国」结合，集体步向前国安会秘书长苏起形容的「新国家建构」，或蔡英文强调的「天然独」。这种逐步向前的「新台独」，既是台湾生存和安全的筹码，也将成自我残害的致命伤；北京极度忧虑却棘手难决，发展下去可能成诉诸武力的借口，正是两岸的死结。</p>
-<p>四，统独还是大选主轴，台湾现实上难摆脱大陆的政经影响和控制，也无法脱离美国影响和保护，蓝绿各有所偏。美国四任国防部长现身座谈忠告台湾，华府选前派特使穿梭两岸，意味对蔡英文执政，北京不默然接受，华府不全然放心，幕后风云险恶。解放军鹰派将领发表解放台湾时机成熟长文，显示鹰派借民进党胜选将更抬头，绿营如何创造条件，让习近平「主和」提高说服力，也自利台湾，找到台湾主体性和大陆交往的平衡点，是蔡英文执政的万钧之重和成败所系。</p>
-<p>五，蔡英文既是新台独风潮的培养、鼓动和获益者，她高票当选，易被倾独力量绑架。但选举和执政毕竟是两回事，马英九自当选之日创声望最高峰后，此后即一路下滑，渐至被蓝绿共弃，几乎成「全民公敌」，正是选民严苛到近乎无情刻薄，以致失去是非标准的「台湾特色」。如今蔡英文即将面对严苛翻脸不认人的选民，和选民的蜜月期可能在胜选后告终，开始执政内部震荡和北京的外在考验；如何约制和引导绿营倾独的民气，走向务实，其处境将比马英九更艰苦十百倍。</p>
-<p>这次大选，举世关注。第三次政权和平转移，执政党做不好就下台，人民真正当家作主，是台湾的民主成就和骄傲，足以式范大陆。但民进党大胜，如自我解读为主流民意认同「去中国化」，将如飞蛾扑火和以卵击石，受害者是谁，不问可知。而蔡英文执政的「现状」新定义，或许只专注内政，宁不要九二共识，让两岸关系停滞；两岸「置之死地而后生」，从此打通经脉、步上坦途的机率偏低。台湾选民主导这场「世纪实验」震荡，正押上自己的切身福祉作豪赌。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%8F%B0%E6%B9%BE%E9%80%89%E6%B0%91%E8%B1%AA%E8%B5%8C-%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%BF%E6%AF%94%E9%A9%AC%E8%8B%B1%E4%B9%9D%E8%89%B0%E8%8B%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E9%81%A3%E8%BF%94%E6%97%A0%E6%9C%9F-%E7%BC%89%E8%80%81%E8%99%8E%E6%B5%B7%E5%A4%96%E5%8F%97%E6%8C%AB/" target="cdt-mirror">太阳报｜令完成遣返无期 缉老虎海外受挫</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/raol0.jpg" alt="化名“王诚”的令完成。" width="550" height="368" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/raol0-300x201.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/raol0.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>化名“王诚”的令完成。</p></div>
-<p>中央办公厅前主任令计划的弟弟令完成，潜逃美国之后行踪成谜。近日，中纪委官员透露，关于令完成一事，中方正在与美国沟通，间接承认令完成遣返无期，无疑是海外缉虎行动的一大挫折。</p>
-<p>令完成是令氏家族的核心人物之一，也是令家在商界敛财的前台操盘手，当年令计划出任中办主任前，就建议令完成离开体制下海经商，并建议其改名王诚。令完成深受令计划信任，对中共政坛的内幕显然也知之甚详，甚至不排除参与令计划的政变阴谋。</p>
-<p>早前当局公布令计划罪名时就有一项「违纪违法获取党和国家大量核心机密」，不排除令计划在知悉政治生涯不保之际，将一批核心机密交给令完成，由他携往美国保管，作为令氏一门的护身符。以令计划当时所处的岗位，几乎掌握全国所有机密，包括政治局常委会讨论的内容以及各派政治势力的分歧与内斗。美国媒体早前就透露，令完成手握大量中共机密，很有可能是中华人民共和国历史上最具破坏力的叛逃者，美国联邦调查局甚至多次上门「拜访」令完成。</p>
-<p>奇货可居 美拒让步</p>
-<p>正因为此，美国对令完成视如珍宝，奥巴马政府如果掌握这些机密，可以就南海、东海、互联网等问题逼华就范，因此美国故意大声疾呼，反对中国派遣「特工」前往美国猎狐，对中方的遣返要求狮子开大口。据说，美方一度提出，若要遣返令完成，必须随同遣返被美方认定的二万多名偷渡美国的中国人，而且令完成带往美国的赃款不能交回给中国。双方为此交涉多轮，美方拒不让步，即使习近平访美期间亲自向奥巴马交涉，也无功而返。</p>
-<p>事实上，美国虽然与中国签订了一系列协议，表示愿意在联合国、二十国集团等多边框架之下，加强与中国的反腐合作，但这些承诺是选择性的，对那些没有甚么价值的贪官，美国乐于做顺水人情，将他们遣返中国；对令完成这类掌握机密的人却视如珍宝，根本不想与中国合作。</p>
-<p>再说，美国并不愿意看到中国反腐成功，中国官场愈腐败，裸官愈多，愈证明中国体制之混乱，中共愈无法占据道德高地；而且中国官员愈是向往美国，积极寻求美国庇护，更足以证明美国普世价值高人一等。此外，中国贪官是美国对华发动颜色革命的最好内应，也是影响中国民心的工具。正是因为上述诸多原因，美国对遣返令完成根本毫不上心。</p>
-<p>想当年，中国为了将厦门远华案主犯赖昌星从加拿大遣返回国，动用了数不清的外交资源。今次令完成事件也有可能令北京陷入一场与美国无穷无尽的谈判之中，并成为中美关系的一个死结。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/3f0bk9bbb-150x150.jpg" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E9%81%A3%E8%BF%94%E6%97%A0%E6%9C%9F-%E7%BC%89%E8%80%81%E8%99%8E%E6%B5%B7%E5%A4%96%E5%8F%97%E6%8C%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +699,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +709,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

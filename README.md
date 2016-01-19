@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2-%E5%A4%A7%E9%99%86/" target="cdt-mirror">【异闻观止】环球时报 | 周子瑜“道歉”风波 大陆网民错几许</a>
+</h2>
+<p><p>单仁平​​</p>
+<p>周子瑜“道歉”事件仍在发酵。这名台湾新出道的16岁艺人上周被黄安举报早前在韩国举“中华民国”的青天白日旗，疑似她的粉丝团表示“子瑜是台湾人，并不是中国人，台湾本来就是一个国家”，遭到大陆网民的批评。由于其签约的韩国JYP公司处理失当，引起大陆网民进一步愤慨。网上指责周子瑜和JYP公司的声音响成一片。​​</p>
+<p>这件事的发酵过程中大陆官方未做表态，大陆主流报刊、电视媒体也都未予置评。拉高这件事热度的几乎完全是网上舆论力量，表达的明显是大陆民间情绪。​​</p>
+<p>令人始料不及的是，周子瑜15日、也就是台湾“总统”选举的前一晚通过一段视频做出道歉。她在视频中向大陆批评者鞠躬，并且说自己感到“愧疚”，强调中国只有一个，“始终为自己是一个中国人而感到骄傲”。这段视频让人看到一个“在大陆舆论压力下被迫屈服小姑娘”的形象。​​</p>
+<p>很多人立刻意识到这段视频在台湾选举当日的爆炸性。民进党果然立刻动员起来，大肆炒作、强化“大陆舆论欺负台湾小姑娘”的解读，把事件朝着两岸对立的方向引。甚至一些人怀疑，民进党就是这段视频出笼的幕后策划者，要把它变成12年前陈水扁在选举关键时刻肚皮上挨的那颗子弹。​​</p>
+<p>分析人士相信，民进党这次选举的胜局早已确定，但周子瑜道歉事件刺激了台湾部分年轻选民，使蔡英文赢得更多。​​</p>
+<p>一些人指责大陆舆论为民进党获胜“帮了大忙”，把大陆网上舆论这个环节单独抽出来，夸大它的作用。​​</p>
+<p>这种看法是把一件很复杂的事简单化了，也是大陆一些人“出了问题就把责任往舆论头上推”习惯思维的表现。​​</p>
+<p>首先，大陆网民讨厌“台独”是一个事实，他们平时说话就经常挺激烈的，遇到“像台独的表现”，就会出现集体愤慨。虽然这从理性角度有推敲的空间，尤其是围绕“度”的推敲，但现实是，全世界的互联网舆论都不是把握“度”的作品。让网民理性得像专业人士，这种要求根本落不了地。情绪激烈几乎是网上舆论的天性，网上舆论的平衡也往往是一种复杂过程。​​</p>
+<p>周子瑜道歉的当天，大陆网上对她的同情声变得突出，与之前的谴责声各执一端，形成新的网上舆论局面。​​</p>
+<p>台湾所有政治人物都能看懂这是怎么回事，但他们都不顾大陆网上谴责周子瑜的舆论大背景，而是顺着表象各自发挥，榨取他们在台湾的政治利益。大陆只是网民和网络小编们的朴素自发行动，没有任何政治力量参与。而台湾的选举各方全都卷了进来，台湾方面对这件事投入的政治操作规模堪称是空前的。​​</p>
+<p>这本来就是一个娱乐事件，一名初出道的艺人被认为踩了政治线，网上舆论教训她一顿，她和公司低调些，或者采取恰当补救措施，也就过去了。但她的道歉方式变成了更重的政治炸弹，JYP或者是傻到家的娱乐公司，或者这场道歉从一开始就受到了政治操纵，融进了阴谋。​</p>
+<p>不过事情也没什么了不起，民进党本来就会赢，它多得的那些选票需要它用日后成绩来埋单的。如果民进党要靠两岸舆论的激烈对立来维持它的当政，它走的就是一条邪路，跳得越高，摔得将越重。​​</p>
+<p>大陆民众有权利表达爱国情怀，这种表达不可能总与国家的政策制定和执行合拍，更没义务为台湾某个政治集团的利益服务。当网民们的爱国表达有可能导致某种现实工作困难时，应当做工作，通过释放更多信息引导大家。但谁也不应对他们颐指气使，更不应对他们以“爱国贼”斥之。​​</p>
+<p>总体看，大陆爱国民意释放得不是太多，而是不足。国家对外打“民意牌”的经验也需不断积累。民意、尤其是爱国民意在任何国家都是社会治理的正资源。我们切莫因具体争议而怀疑这一点。▲（作者是环球时报评论员）​</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2-%E5%A4%A7%E9%99%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E5%8F%8D%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">黄安“反台独”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">黄安举报周子瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B-%E6%8D%9E%E9%92%B1%E6%AF%94%E5%88%98%E5%BF%97%E5%86%9B%E8%BF%98%E5%A4%9A%EF%BC%8C%E7%94%B3%E7%BB%B4%E8%BE%B0%E5%88%B7%E6%96%B0%E6%AD%A3%E9%83%A8/" target="cdt-mirror">长安街知事 | 捞钱比刘志军还多，申维辰刷新正部贪腐记录</a>
 </h2>
 <p><p><strong>作者：紫汐</strong></p>
@@ -76,7 +101,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E5%8F%8D%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">黄安“反台独”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">黄安举报周子瑜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%8D%8E%E5%8F%B0%E5%8C%97%EF%BC%9A%E4%B8%A4%E5%B2%B8%E4%BA%89%E5%90%8D%E4%BB%BD/" target="cdt-mirror">微思客 | 中国台北，还是中华台北：两岸争“名份”的历史</a>
 </h2>
@@ -665,24 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/425637/" target="cdt-mirror">【敏感词库】周子瑜事件、台湾大选 相关 2016-1-16</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/mmexport1452978458753.jpg" rel="attachment wp-att-425648"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/mmexport1452978458753.jpg" alt="王左中右" width="450" height="400"></a><br><span>（”♀aiwan” by 王左中右）</span></p>
-<p>［新浪微博搜索禁词测试时间：中国北京时间(GMT+8) 2016年1月16日 18:40］</p>
-<p><strong>周子瑜</strong><br><strong> 蔡英文</strong><br><strong> 台湾</strong><br><strong> 台湾大选</strong><br><strong> 总统大选</strong><br><strong> 黄安</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%91%A8%E5%AD%90%E7%91%9C.png" rel="attachment wp-att-425642"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%91%A8%E5%AD%90%E7%91%9C.png" alt="1-16 周子瑜" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-周子瑜-300x139.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1-16-周子瑜.png 712w" sizes="(max-width: 712px) 100vw, 712px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E8%94%A1%E8%8B%B1%E6%96%87.png" rel="attachment wp-att-425644"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E8%94%A1%E8%8B%B1%E6%96%87.png" alt="1-16 蔡英文" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-蔡英文-300x135.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1-16-蔡英文.png 718w" sizes="(max-width: 718px) 100vw, 718px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%8F%B0%E6%B9%BE.png" rel="attachment wp-att-425638"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%8F%B0%E6%B9%BE.png" alt="1-16 台湾" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-台湾-300x173.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1-16-台湾.png 736w" sizes="(max-width: 736px) 100vw, 736px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89.png" rel="attachment wp-att-425640"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89.png" alt="1-16 台湾大选" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-台湾大选-300x132.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1-16-台湾大选.png 748w" sizes="(max-width: 748px) 100vw, 748px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89.png" rel="attachment wp-att-425643"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89.png" alt="1-16 总统大选" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-总统大选-300x137.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1-16-总统大选.png 736w" sizes="(max-width: 736px) 100vw, 736px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%84%E5%AE%89.png" rel="attachment wp-att-425645"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%84%E5%AE%89.png" alt="黄安" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/黄安-300x181.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/黄安.png 733w" sizes="(max-width: 733px) 100vw, 733px"></a></p>
-<p>本次测试中，繁体字”台灣大選”未被屏蔽：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E7%B9%81%E4%BD%93%E6%9C%AA%E5%B1%8F%E8%94%BD.png" rel="attachment wp-att-425641"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E7%B9%81%E4%BD%93%E6%9C%AA%E5%B1%8F%E8%94%BD.png" alt="1-16 台湾大选繁体未屏蔽" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/1-16-台湾大选繁体未屏蔽-300x174.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/1-16-台湾大选繁体未屏蔽.png 738w" sizes="(max-width: 738px) 100vw, 738px"></a></p>
-<p>［北京时间2016年1月17日9:00 (Jan. 16 5pm PST/GMT-8) <strong>复测结果</strong>：上述关键词均已开禁；但<strong>“抵制JYP”的搜索结果遭到严格限制</strong>］</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%8A%B5%E5%88%B6JYP.png" rel="attachment wp-att-425646"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%8A%B5%E5%88%B6JYP.png" alt="抵制JYP" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/抵制JYP-300x268.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/抵制JYP-768x685.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/抵制JYP-1024x913.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/抵制JYP.png 2350w" sizes="(max-width: 2350px) 100vw, 2350px"></a></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/425637/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -694,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -704,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

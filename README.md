@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BC%A0%E5%86%9B%EF%BC%9A%E4%B9%9F%E8%B0%88%E6%AD%A6%E7%BB%9F%E6%97%8F/" target="cdt-mirror">微思客 | 张军：也谈“武统族”</a>
+</h2>
+<p><p>作者：张军 加拿大多伦多大学助理教授</p>
+<blockquote><p>摘要：近来，显然是由于海峡那边的大选，“武统族”－－主张武力统一台湾一族的简称－－突然变得显赫起来。没打算做啥系统分析，只是忍不住想说一句，<strong>那些动不动就要“武统”的人，说到底是缺乏一种起码的、把每个地球人都当人看的、人人平等的价值观。</strong></p></blockquote>
+<p>当然他们可能不承认，但是事实上，在武统族那里没有人人生而平等的概念，更谈不上人与人在造物主面前的灵魂平等。在他们的字典里，只有“我国”／“你国”，“我族“／“你族”，“我者”／“他者”，“我等”／“尔等”这样的整体性的、黑白两分的概念。尽管任何一个两分的边界也常常变动不居，边界双方通常都是一种相互对立敌视的状况。所以，只要是你族冒犯了我族，你国冒犯了我国，尔等冒犯了我等，或者是我族的一部分想变成你族，我国人妄图要变成你国人，他者的一部分想变成我者，尔等的一部分人也想跟我等一样姓赵，诸如此类，武统族就会毫无忌惮地主张棍棒相加、兵戎相见，试图从肉体上消灭那些异己，或者至少不惜以消灭他们的肉体为代价，以此来维持“我等”、“我者”、“我族”或“我国”的“高贵”与“完整”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-20-at-%E4%B8%8A%E5%8D%885.13.28.png" alt="Screen Shot 2016-01-20 at 上午5.13.28" width="498" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-20-at-上午5.13.28-300x207.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-20-at-上午5.13.28.png 498w" sizes="(max-width: 498px) 100vw, 498px"></p>
+<p>在武统族眼里，凡是被他们认定的或者从祖宗某一辈儿传下来的某个集合体，他人就没有轻易进出的自由，甚至心里想想都是大逆不道。他族或他者中的个体既没有因为按照上帝形象被造所带来的必须被珍视的神本的绝对价值，也没有康德以降的人本主义哲学家眼中的、每个人类个体都不可剥夺的绝对价值。只要为了某个自认为崇高的整体性目标，每个人都可以成为被利用或者被牺牲的手段，每个人都可以成为垫脚石被踩踏，每个人都可以被当作猪肉来宰割，每个人都可以成为“正义之战”的炮灰，只要那个目标足够“伟大”，比如国家的统一。</p>
+<p>然而，如此对待”他族”与“他者”的，也必然随时可能用同样的观念和手段来对待“我族”与“我者”中的个体。因此，在武统族主导之地，即便是“我等”、“我者”、“我族”与“我国”中的个体也是随时都岌岌可危的。对“他族”可以枪炮相加，对“我族”中的不受待见者也可以随时棍棒伺候。那些不知人人平等为何物的人，随时会发明出各种名词来，比如地富反坏右、比如反革命、比如右派、比如盲流、比如女流、比如小姐、比如汉奸、比如叛徒、比如扇颠者、比如寻衅滋事者，如此等等，随时把“他者”从“我者”中拎出来或者驱逐出去。或者视为下等人，或者送进大牢，以便保持我者的纯洁和高贵，以便自己可以安享人上人或主人翁的一切福乐。所以，武统族占上峰的地方，一定是窝里斗盛行的地方。</p>
+<p>所以，武统族正是本族或本国不安定的制造者：他们本来没有什么敌人，敌人更多都是他们自己制造出来的。正是因为无视人人平等，才生出了越来越大的离心力，才让越来越多的人对他们的本族本国越来越失望，越来越耻于与武统族为伍，一起汇聚成为各种寻求独立或者拒绝大一统的力量。吊诡的是，正因为武统族漠视平等，他们才更迷恋“大一统”。甚至可以说，武统族的存在感和优越感恰恰都是建立在人与人不平等的等级根基上的。“大一统”显然最符合等级金字塔中高高在上的当权者的利益，否则一旦分崩离析，官大人们岂不威风大减、颜面扫地？更何况，那样的话让谁来纳税、进贡、朝拜呢？更糟的是，失去大一统就可能失去等级社会里的一切，甚至人头落地、诛灭九族。这种教训历史上多了去了。同理，武统族风行之地，主子的利益也必定是奴才的利益，金字塔上面的”高等人“的利益，也一定是相信自己有机会往上爬的金字塔半山腰上的准精英一族的利益，甚至是那些底层被驯化的、即便一辈子吃不着肉甚至喝不着汤仍然会对主子永远感恩戴德的那些可怜人的“利益”。</p>
+<p>所以，武统族每天都在追求大一统，同时每天都在生产新的离心力。他们没有能力也没有意愿制造真正的向心力，根本上就是因为他们不肯或无法正视每个人类个体的独立价值。为了维护大一统，只能是让内部的武力镇压和恐惧威慑逐步升级，甚至利用窝里斗来维稳。但武力压制本身就是最大的离心力。恐惧和仇恨怎么可能带来向心力？所以武力必然催生更多的武力，终究到失控的时候，不是分崩离析，就是改朝换代。</p>
+<p>武统族虽然擅长窝里横，但对外一般都是纸老虎。武统叫得越凶的，越是贪生怕死的怯懦之辈。因为生出他们无视人人平等的价值本体，也必然同时生出贪生怕死、斤斤计较的理性。所以，武统族其实没什么战斗力。他们的“武统”更多是虚张声势。不信，如果真的搞武统了，你看有几个武统族愿意去冲锋陷阵？武统族其实根本谈不上什么骑士、武士或绅士精神，因为对他们来说，只有虚荣没有荣誉，只有今生没有永恒。所以，武统族风行的国家，不管武统叫得多么凶，历史上他们割让出去的国土往往比统一回来的更多。</p>
+<p>其实，小国寡民、鸡犬之声相闻、老死不相往来的时代早已一去不复返。地球人已经进入了不可逆转的全球性的分工合作时代：你中有我，我中有你。因此，地球人合并为一个地球国才符合地球人最大的共同利益，那才叫真正的大一统。否则，欧洲的独立国家本来好好的，为何要穷折腾搞联合呢？问题是，地球人的本性决定了他们做不到实现地球国，他们永远有闹不完的别扭，解不开的冤仇，打不完的仗。所以，你看欧盟也折腾出一堆麻烦来，只能走走停停、分分合合。</p>
+<p>但是，在现代社会里，即便在一个国族的内部，只有在平等观念深入人心之时，才能产生出真正的人与人、企业与企业、生产者与消费者、统治者与被统治者之间的互信合作。只有在每一个个体的人格尊严都得到平等尊重之时，只有在每一个个体的良心自由与相应的言论自由得到不打折扣的保护之时，只有在每一个个体都平等地享有充分的迁徙自由与国民待遇之时，只有在每一个个体在政治共同体中的参政议政权利都得到平等保障之时，这个国族的在开放竞争的地球上才有持久繁荣的可能，也唯其如此它才可能产生真正的向心力，才能减少暴力压制与武力征服的需要，才可能以“文统”取代“武统”，甚至可能人家都会哭着喊着跟你来求统一。</p>
+<p>但是，如果武统族内心深处的价值观不被颠覆，这种美好的愿景绝无实现的可能。其实隐藏在武统族反个人主义的集体主义之后的是一种我活你死的、我的快乐建立在你的痛苦之上的、极端的、吃人的个人主义信念。武统族心中预设的是达尔文式的生存竞争和丛林社会，这种预设在供奉马克思阶级斗争思想和达尔文生存竞争思想的地方，实在是正常不过。当然表面上他们还要用儒家的礼教和马家的共产主义理想来装饰门面。但根子上，儒家、马家、达家，还有各种后现代的虚无主义，在拆毁人类个体的超越价值、拆毁人人平等的超越根基上是高度契合的、异曲同工的。所以，武统族的存在，其实是有强大的社会根基的。扳倒他们恐怕还真没你想象的那么容易。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BC%A0%E5%86%9B%EF%BC%9A%E4%B9%9F%E8%B0%88%E6%AD%A6%E7%BB%9F%E6%97%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">国家统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%8A%9B%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">武力统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E7%BB%9F%E6%97%8F/?category=18271" rel="tag">武统族</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A-%E4%BD%A0%E7%8C%9C%E6%88%91%E6%98%AF%E8%B0%81-%E4%B8%80%E4%B8%AA%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97%E6%9D%91%E7%9A%84/" target="cdt-mirror">中国新闻周刊 | “你猜我是谁” 一个电信诈骗村的诞生</a>
 </h2>
 <p><p>你可能没有听说过石溪村，但你的手机或许曾收到来自石溪村的短信。短信大部分内容是这样的：重金求子、亲人遭遇车祸、脑溢血急需手术等。对于大部分人来说，看到类似短信会一删了之，但石溪村人却靠着这种陈旧套路的诈骗手法走上了“发家致富”的道路。</p>
@@ -851,32 +873,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B-%E6%8D%9E%E9%92%B1%E6%AF%94%E5%88%98%E5%BF%97%E5%86%9B%E8%BF%98%E5%A4%9A%EF%BC%8C%E7%94%B3%E7%BB%B4%E8%BE%B0%E5%88%B7%E6%96%B0%E6%AD%A3%E9%83%A8/" target="cdt-mirror">长安街知事 | 捞钱比刘志军还多，申维辰刷新正部贪腐记录</a>
-</h2>
-<p><p><strong>作者：紫汐</strong></p>
-<p>如今，十八大后落马的高官陆续进入审判季，在这个审判季里，令人开眼的事儿不少。这不，一项新记录就此诞生了。</p>
-<p>最新消息称：曾任中宣部副部长、中国科协党组书记、太原市委书记的申维辰，被常州市人民检察院指控为他人在企业经营、干部职务晋升或岗位调整等事宜上谋取利益，收受他人给予的财物，共计折合人民币9541万余元。</p>
-<p>有小伙伴觉得这不算什么，就在元旦前，广州市委原书记万庆良受审，涉案金额过亿，瞬间亮瞎大家双眼。但请大家淡定，这里要先介绍申维辰的一个重要标签，正部级官员。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.28.31.png" alt="Screen Shot 2016-01-18 at 下午6.28.31" width="489" height="388" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.28.31-300x238.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.28.31.png 489w" sizes="(max-width: 489px) 100vw, 489px"></p>
-<p>长安街知事（微信ID:Capitalnews）梳理发现，十八大后共有蒋洁敏、李东生、李崇禧、申维辰、白恩培、何家成、朱明国、周本顺、杨栋梁、苏树林等10名正部级官员被查，其中蒋洁敏、李东生、李崇禧、申维辰四人已经受审，蒋涉案2880余万，李东生涉案2198余万，李崇禧涉案1109余万，三人加起来也不及申维辰一人多。申维辰，刷新了正部级干部贪腐记录，其数额，还超过了原铁道部长刘志军这位巨贪（知事注：检方指控刘志军涉案金额为6460.54万）。</p>
-<p>申维辰捞钱的“本事”，长安街知事（微信ID:Capitalnews）此前已经做了详细介绍，这里不妨再简单回顾一下。</p>
-<p>据财新网报道，2006年1月，在文宣系统浸淫多年的申维辰从山西省委宣传部长任上调任太原市委书记，与其相识多年的文化产业商人胡树嵬也随之而来，当时胡树嵬很喜欢提申维辰，不断地找其吃饭。当地多位人士透露，胡树嵬的得一集团可以顺利扩张并进军房地产界，离不开申维辰的“扶持”。</p>
-<p>申维辰主政太原期间，房地产市场勃兴，多家知名房产大鳄纷纷进驻，山西煤老板也纷纷转战地产行业，太原土地被“土豪式”地开发，胡树嵬的得一集团，“抓住机会”成为了绿地、复地等大型房企进军太原的“股东”。众人皆知，以得一集团当时的资金实力，引进房产大鳄，拿下黄金地块尚有难度，圈内朋友都说，胡是得到了申维辰等多位“圈内人士”的鼎力帮助，才得以迅速站稳脚跟。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.29.19.png" alt="Screen Shot 2016-01-18 at 下午6.29.19" width="509" height="352" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.29.19-300x207.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.29.19.png 509w" sizes="(max-width: 509px) 100vw, 509px"></p>
-<p>而据《中国经济周刊》报道，申维辰还与出事的“山西首富”张新明有不少瓜葛，张新明为巴结申维辰，曾一次斥资500万元人民币赞助与申关系暧昧的女歌手的演唱会。</p>
-<p>从检方指控来看，申不仅涉及地产腐败，还在违规提拔干部上获益，虽然其中细节并没有公开，但申落马后的一系列连锁反应，就足以提供有力证明。申出事后，就有媒体陆续报道称：忻州市委常委吉久昌、太原市国土资源局总工杜怡及该局前任局长张宝玉被带走。知情人称，有被查处的山西官员交代曾向申维辰行贿数百万元。</p>
-<p>申维辰涉足过文化、城建等个领域，善于作秀，在官员中被视作有政绩的“能人”，特别是在其策划《乔家大院》后，迅速积攒了超高人气。然而，此人在群众中口碑极差，许多拆迁户不仅在中纪委官网上实名举报申，还将材料送到了中央巡视组的驻地。申落马次日，太原不少群众走上广场放鞭炮庆祝，喜称“胸中出了一口闷气”。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.30.47.png" alt="Screen Shot 2016-01-18 at 下午6.30.47" width="550" height="380"></p>
-<p>因为工作关系，长安街知事（微信ID：Capitalnews）曾与申有过几面之缘：此人身材挺拔，声音洪亮，出口成章，特别善于用言辞抓住全场的注意力。初次交往的人，很容易被他表面的气场所感染。这一感觉，也被山西的小伙伴们所证实：台上看是个君子能吏，台下看真让人大跌眼镜。</p>
-<p>申维辰在正部级干部中，或许不是最知名的人物，但其今日用一项极不光彩的记录再度激活了社会对其的关注。然而，这样的关注，给党和国家形象带来的伤害是不可估量的：一个正部级官员贪腐近亿还步步高升，不能不让人深思。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B-%E6%8D%9E%E9%92%B1%E6%AF%94%E5%88%98%E5%BF%97%E5%86%9B%E8%BF%98%E5%A4%9A%EF%BC%8C%E7%94%B3%E7%BB%B4%E8%BE%B0%E5%88%B7%E6%96%B0%E6%AD%A3%E9%83%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF/?category=18271" rel="tag">山西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF%E5%B8%AE/?category=18271" rel="tag">山西帮”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%96%B0%E6%98%8E/?category=18271" rel="tag">张新明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E7%BB%B4%E8%BE%B0/?category=18271" rel="tag">申维辰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%AE%89%E8%A1%97%E7%9F%A5%E4%BA%8B/?category=18271" rel="tag">长安街知事</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -888,7 +884,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -898,5 +894,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

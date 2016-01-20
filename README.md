@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,150 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E8%BE%B9%E7%A4%BE%EF%BD%9C%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%9C%A8%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E3%80%81%E8%AE%A4%E7%BD%AA%EF%BC%9F/" target="cdt-mirror">法边社｜他们为什么会在央视忏悔、认罪？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/13548_2016-01-18_200127.jpg" rel="attachment wp-att-425996"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/13548_2016-01-18_200127.jpg" alt="13548_2016-01-18_200127" width="520" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/13548_2016-01-18_200127-300x158.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/13548_2016-01-18_200127-768x405.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/13548_2016-01-18_200127.jpg 867w" sizes="(max-width: 867px) 100vw, 867px"></a><br><em>（图片来源：<a href="https://www.thestandnews.com/china/%E5%8F%88%E4%B8%80%E5%80%8B%E6%A1%82%E6%B0%91%E6%B5%B7-%E7%91%9E%E5%85%B8%E5%85%AC%E6%B0%91%E5%A4%AE%E8%A6%96%E8%AA%8D%E7%BD%AA-%E6%94%B6%E5%A4%96%E5%9C%8B%E8%B3%87%E9%87%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9C%8B-%E5%80%9F%E7%B6%AD%E6%AC%8A%E5%8D%B1%E5%AE%B3%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8/">謎米新聞</a>）</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/CZIWSIdUAAEf3i3.jpg_large.jpg" rel="attachment wp-att-425995"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZIWSIdUAAEf3i3.jpg_large.jpg" alt="CZIWSIdUAAEf3i3.jpg_large" width="520" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZIWSIdUAAEf3i3.jpg_large-300x222.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/CZIWSIdUAAEf3i3.jpg_large.jpg 522w" sizes="(max-width: 522px) 100vw, 522px"></a><br><em>（网络图片）</em></p>
+<p><strong>【编者注】作者原文已被和谐，本文内容来自微信公号 法边社(ID: lawside) 转载。</strong></p>
+<p><em>作者：新浪微博<a href="http://weibo.com/meishanzpj">@埂上插秧</a></em></p>
+<p>失踪的香港书商桂敏海，成为又一个上央视的人。他诚恳的对全国人民谢罪，几乎哭出声来：</p>
+<p>“我虽然有瑞典国籍，但是我真切地感到我还是一个中国人，我的根还是在中国。所以我希望瑞典方面能够尊重我个人的选择，尊重我的权利和隐私，让我自己解决自己的问题。”</p>
+<p>“我的内心是很痛苦的，我经常用物质享受去排解这种痛苦，实际上是排解不了的。我长期受到心理折磨，整日做噩梦，引发高血压、心脏病，痛苦不堪……”</p>
+<p>按照目前的故事脉络，一个法律上的外国人，因被判缓刑本不用坐牢的人因为“害怕坐牢”而“潜逃出境”，在时隔多年后，因为不堪忍受良心的折磨，再次“潜逃”回内陆自首。真是一出令人感动的心灵救赎。</p>
+<p>然而央视播出后，一如既往，遭遇了大量质疑。就连香港警方没忍住发了声明打脸。</p>
+<p>为什么各式各样的人物会在央视认罪？下面这篇文章我作于记者刘伟央视认罪后，桂敏海案与此前沈颢案、刘伟案区别明显，但也不乏相同之处。</p>
+<p>大家似乎发现了一个规律：很多案子，司法程序才在调查程序，以新华社、人民日报为代表的几大央媒就会迫不亟待告诉外界：快看，他们认罪了！！</p>
+<p>但几乎每一次，外界还是，我不相信！</p>
+<p>于是，央视的镜头这时候就出来补充了——看，我还有视频为证。</p>
+<p>视频中，这些人有些言语平静，有些”泣不成声”。态度却都出奇地“端正”，异口同声“我认罪，我伏法”。</p>
+<p>大家似乎都有一个疑问：为什么他们会在镜头下“认罪伏法”，甚至“泣不成声”？</p>
+<h3><strong>“央视认罪”为何会成为依法治国标配？</strong></h3>
+<p> <br>
+也许你已经发现了，这其实一直是这个国度的传统。无论是“人民日报认罪”，“新华社认罪”，还是“央视认罪”，甚至早期还包括《中国青年报》等团报，各地省委籍贯党报上的认罪，本质上都是政治运动中“当众检查”“低头认罪”的传统延续。</p>
+<p>“央视认罪”则是“2.0升级版”，也是近些年官方对网络民意的反弹，毕竟视频看起来比纸上有说服力地多。事实上，“央视认罪”并非新鲜东西，只是近几年各路明星、记者、新闻事件人物轮番登场，才加强了大家对这个词语的概念。早央视此前许多法制节目中，嫌疑人认罪以彰显“法制的胜利”，往往都是标配。</p>
+<p>认罪传统，早在1940年代延安整风运动中，上至周恩来等中共高干，下至普通党员，便已经开始，人人均一一当众检查，以求过关。如周恩来在1943年整风运动中的检讨提纲即自承“有经验宗派之毒，再加上迷信国际并与教条宗派有思想上、气味上相投之处，所以不论在思想上、组织上都担了极大的罪过，成为经验宗派的代表，教条统治的帮凶……党的布尔什维克化的阻碍。”（高华《延安整风运动的来龙去脉》）</p>
+<p>历次政治运动中，强迫受整肃者“当众检查”、“低头认罪”成为其中重要一环。</p>
+<p>49年后，这一运动趋势在党内外愈演愈烈。1952年胡风案中，周恩来亲自致信胡风，逼迫胡风主动认罪。57年反右运动中，大量右派都被逼迫认罪。不肯认罪的“右派分子”即遭受政治与生活上的重重折磨。坚贞耿直如经济学家顾准者，临终前也被迫签了《认罪书》，希望能借此稍改善子女的政治处境。</p>
+<p>这些虽然与如今司法概念上的“认罪”看起来并不一样，但在当年毫无司法意识，私刑甚上的年代，其实质并无太大区别。“央视认罪”可以视作这一趋势的当代表现。</p>
+<h3><strong>为什么他们会觉得自己有罪？</strong></h3>
+<p> <br>
+当年的反右中，知识分子一开始桀骜不驯，最终却几乎都纷纷低头认罪，右派之一的舒芜曾说这事因为受了“政治催眠术”。胡风案时，舒芜估计正是因为看透了这些手段，便决心为了自保坑了胡风。没想到，反右时，历史还是给她补上了这一课。</p>
+<p>在反右斗争的初期，大部分右派对被强加的罪名都是不承认的，而后在持续的压力下才终于“低头认罪”；然而这种认罪又并不仅仅是迫于外部压力的违心之论，而是程度不等的真心悔过。这就和古今中外屡见不鲜的屈打成招有所不同，因为在屈打成招当事人内心是自觉冤枉的；而反右斗争以及毛时代的其他许多政治运动的结果却是，它最终使得受害者自己也认为自己果真犯下了他实际上不曾犯下的罪过。</p>
+<p>这就是“政治催眠术”的魅力。与普通的催眠术通常针对病人实施不同，“政治催眠术”针对的，恰恰都是以健康人为对象，越是头脑清醒、意志坚强的人，越是要施行“政治催眠术”。</p>
+<p>按照《人的驯化、躲避与反叛》一书中的理论框架，“政治催眠术”的做法通常由以下几大招：</p>
+<blockquote><p>１，广大人民群众一致强烈批判；２，四面楚歌，从群众中孤立出来，从肉体上孤立，导致自我怀疑；</p>
+<p>３，孤立于集体之中，妻儿划清界限，从精神上孤立；</p>
+<p>４，强化党的精神支柱力量，让你只能依靠党；</p>
+<p>５，产生向压迫者认同的愿望。不论是出于“党和人民总不会错，千万不要站在党和人民的对立面”的角度，还是出于“随大流更安全”的角度抑或是出于二者的混合，最后你决定要“承认错误”。</p>
+<p>６，党还要进一步追问你：既然你承认自己的思想是错误的，可见你本来就怀有恶劣的动机。如此一来，百口莫辩，只能继续”揭发“自己。</p></blockquote>
+<p>关于“政治催眠术”的案例，《罗隆基：历史的漩涡——一九五七》一书中有过描述。</p>
+<blockquote><p>经施行“政治催眠术”，胸有城府如章伯钧，恃才傲物如罗隆基，居然也方寸大乱。　开始，章伯钧只是承认“思想上犯了严重错误”，“政治设计院”等言论“造成政治上的不良影响，为右派分子所利用”。经过一个月的批判斗争，思想防线全面崩溃。章伯钧在第一届全国人民代表大会第四次会议上作书面检讨，承认自己是“右派分子”，承认“‘章罗联盟’走上了险途”。7月16日，《人民日报》刊登了这个题为《向人民低头认罪》的检讨。章伯钧从古到今、从头到脚无情揭发，痛骂自己。“我今天是一个在政治上犯有严重错误的罪人，我愿向全国人民请罪，向党和政府请罪。”</p></blockquote>
+<p>同样，“罗章联盟”的罗隆基也是如此。罗隆基的态度一开始是比较“恶劣”的。</p>
+<blockquote><p>《人民日报》6月26日报道了前一天他在民盟中央小组扩大座谈会上的发言：“他接着又说，就是把他的骨头烧成灰，他也没有反对社会主义和反对党的领导的企图和阴谋，如果查出，愿受国法和盟章制裁。”</p></blockquote>
+<p>过了短短20天，罗隆基完全换了一副模样。7月16日，《人民日报》刊登了他在第一届全国人民代表大会第四次会议上的书面检讨，长达9000多字，还是《我的初步交待》，开头就说：</p>
+<blockquote><p>“我是中华人民共和国一个有了罪过的人，我最近有些言论和行为犯了反党、反社会主义的罪过。今天，我站在这个庄严的讲台上来向诸位代表低头认罪。“</p>
+<p>“现在我经过这次反右派斗争后，感觉羞愧到无以自容的地步。我今日幡然悔悟，愿以今日之我同昨日之我作斗争，来检举自己的罪过。”</p></blockquote>
+<p>罗隆基在“右派分子”中还算是有骨头的，对于指鹿为马者并未苟同，但思虑已失常态。这位英国工党理论家、著名政治学教授拉斯基（Harold Joseph Laski）的高足，在检讨中把言论与行动的区别、道德与法律的差异、罪与非罪的界限搞得一塌糊涂了。</p>
+<h3><strong>他们认罪是被逼还是真心？</strong></h3>
+<p> <br>
+不过，和当下对比起来，这些毕竟是过去式。再怎么样，如今家人划清界限的事已经不会发生。而且，外界还有大批你的支持者，这与当年的“政治孤立”相比，已经幸福不少。“政治催眠术”显然并非是他们“央视认罪”的主要原因。</p>
+<p>为什么在环境大不同的今天，他们还会主动认罪？</p>
+<p>可以举个比较近的例子。</p>
+<p>如今起诉《中国青年报》“未审先判”的李庄，曾经也“认罪”了。不过他的认罪书却是一首藏头诗——被比认罪缓刑。</p>
+<p>李庄自己解释，是”比“，不是”逼“，因为并不是刑讯逼供，而是自己综合权衡后做出了的选择。</p>
+<p>这里的”权衡“，指的便是许多大案进行中被司法界学者诟病的中国特色式的“诉辩交易”。</p>
+<blockquote><p>“诉辩交易”，其实是西方国家的一种刑讼制度，它是指开庭前，控方掌握被告证据来定罪的铁证较少甚至没有，如继续搜集，又很困难，为了指控不被法庭驳回，控方向律师保证，与法院协商，被告人认罪可得到从轻处罚，其主要方式是控方与律师在庭外达成妥协。</p>
+<p>在中国，实质就是司法、当事人各方博弈。</p></blockquote>
+<p>李庄说，一审开庭前，法庭的交易条件：只要态度好点，认个错，配合庭审，可以建议北京司法机关内部处理，免于刑罚。由于李庄拒不认错，“诉辩交易”失败，才有了李庄一审时的“咆哮公堂”。</p>
+<p>到了二审，李庄公然认罪，承认自己犯了伪证罪，庭上两位律师茫然失措，出现了还继续为他做无罪辩护的诡异局面。当时，外界支持他的律师界全是一片“震惊”“失望”。</p>
+<p>李庄后来说，自己此举，正是为了利用“诉辩交易”，“低头诈降”，能够极大地挽回法院一审中失去的面子，也能诱发二审开庭。“低头诈降”，名誉肯定受损，但从长远看，尽快出去拿到证据是第一要务。</p>
+<p>最终，李庄认罪，出来后为自己伸冤。</p>
+<p>在许多案件中，“诉辩交易”并不鲜见，有些嫌疑人一审认罪后，法庭二审时却当庭反供，说有“诱供”，因为警方承诺，只要他乖乖认罪，态度良好，就能缓刑，不用坐牢。结果，警方认罪书拿到后，翻脸不认此前的交易。</p>
+<h3><strong>许多人都听说过著名的糖果实验：</strong></h3>
+<p> </p>
+<blockquote data-block_id="22GYbzuIKka"><p>给每个孩子一粒糖果，告诉他们如果等十几分钟再吃，就可以额外得到一粒糖果，结果有许多孩子忍不住诱惑提前吃了那粒糖果。这种行为的心理学机制很可能就是导致无辜者过度追求短期目标而认罪的原因，即“时间贴现”。</p>
+<p>所谓“时间贴现”（Temporal discounting），即个人对事件的价值量估计随着时间的流逝而下降的心理现象，也就是说短期因素比长期因素更容易影响人们的行为。</p></blockquote>
+<p>如果，身陷囹圄是你，很多人在自由和名声之间，怕是要首选自由。</p>
+<p>在真正审讯的过程中，人们面临的短期因素正是审讯本身——警察无休止的质问、责难、辱骂、威胁、隔离，甚至偷偷的刑讯逼供。这对于那些安分守己的无辜者们不啻于一场噩梦，他们急切地寻找逃离的途径，而认罪似乎是摆脱这一噩梦的唯一出路。而且还有“诉辩交易”的大蛋糕等着他们。一步步将他们拉入深渊。</p>
+<p>当然，也有坚贞不屈的人。张志新因为拒绝认罪，作为代价，她在狱中背着18斤背铐，拖着沉重的脚镣多次惨遭毒打，头发几乎被拔光，受人唆使，狱中男犯人数次对她实施强奸。</p>
+<h3><strong>为何会”泣不成声“？</strong></h3>
+<p> <br>
+这也是很多人关心的问题，对于本来可能无罪的人，既然认罪就行了，那为什么还要这么“入戏”，面对镜头“泣不成声”？</p>
+<p>这通常是心理防线击溃的结果，击溃心理防线的方式很简单，谁家没有妻儿？就算没有妻儿，谁家没有父母？</p>
+<p>《报人程益中》中有这样的情节。</p>
+<blockquote><p>检察院的人都穿制服，轮班工作，通常审讯要进行到后半夜。但有一天早上，他们容光焕发地来见程益中，大家新剪了头发，换上了便衣。他们告诉程益中要放松放松。他们说，今天外面是晴天，他们要带他去他们的办公室。程益中很警觉。这一天是他的生日，他怀疑他们要利用这一点来对付他。他们带他走出看守所，开车去了检察院总部，将他领进一间会议室。检察官说，今天他们不谈他的罪行，而是想请他跟他们的新员工聊聊天，这些人都是刚从大学毕业，很爱读他的报纸。几个年轻人走进房间。程益中注意到，当中的几个女孩长得很漂亮，他们坐在他身边，跟他聊起人生、文学、诗歌和理想主义这类话题。他们说他们都很崇拜他，其中一个还念起了他的诗。程益中顺着他们的意思，一边喝茶一边回答他们的问题。午饭时分，服务员送来了几筐他的安徽家乡菜——脆皮鱼、黄山石鸡——还送上了面条。程益中吃完后，一个检察官使了个眼色，随后，一个女人端着他生平所见最大的生日蛋糕走上前来。</p>
+<p>“程总，今天是你39岁的生日，”这位检察官说。“现在还不知道，你会在哪里度过你40岁的生日。我们都希望，通向你40岁的生日这条道路会很愉快。”</p>
+<p>然后他们给程益中一把塑料刀子，让他许个愿再切蛋糕。房间里有人举起了照相机。在一瞬间，程益中想起了他的家人，差点就要流下眼泪。</p>
+<p>但他控制住了，因为很快他就意识到，他的眼泪正是他们想要的东西，他不能让他们得逞。他们想要让他脆弱和崩溃，然后抓拍到那一刻的画面，电视台常常播出这类画面：贪污腐败分子痛哭涕零，承认他们的桩桩罪行。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B3%95%E8%BE%B9%E7%A4%BE%EF%BD%9C%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%9C%A8%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E3%80%81%E8%AE%A4%E7%BD%AA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8F%B3/?category=18271" rel="tag">反右</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%95%8F%E6%B5%B7/?category=18271" rel="tag">桂敏海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%94%BF%E8%A7%81%EF%BD%9C%E6%88%91%E4%BB%AC%E6%83%B3%E5%81%9A%E7%9A%84%EF%BC%8C%E4%B8%8D%E8%BF%87%E6%98%AF%E6%8B%86%E6%8E%89%E7%9F%A5%E8%AF%86%E7%9A%84%E9%AB%98%E5%A2%99/" target="cdt-mirror">政见｜我们想做的，不过是拆掉知识的高墙</a>
+</h2>
+<p><p>【政见 微信号：cnpolitics2011】</p>
+<p><em>方可成／政见发起人</em></p>
+<h3><strong>一</strong></h3>
+<p>互联网天才 Aaron Swartz 离开这个世界已经3年了。</p>
+<p>2013 年 1 月 11 日，Swartz 在他位于纽约的公寓里悬梁自尽。两个月前，他刚刚过完 26 岁生日。在短暂的一生中，Swartz 做过的事情令人惊叹。14 岁时，他参与创造了 RSS，这种技术改变了互联网上的信息发布和获取方式；15 岁，他找到哈佛大学法学教授 Lawrence Lessig，帮他写 CC（Creative Commons）协议，这个协议重新定义了互联网的版权规则；19 岁，他是社交新闻网站 Reddit 的创始人之一。</p>
+<p>Swartz 的天才足以让他成为又一位年轻的硅谷千万富翁。但他对赚钱毫无兴趣，他唯一关心的事情是怎样让这个世界变得更好，而他所采取的主要路径是：分享知识。</p>
+<p>这种路径，已经充分反映在了他少年时代做过的事情中——RSS 为知识的传播搭建了基础协议，CC 协议为在保护作者权益的前提下分享知识提供了保障，Reddit 则是一个以信息、知识为中心的社交网站。</p>
+<p>之后，他又做了两件大事。22 岁时，他写了一份代码，下载了 270 万份联邦法院文件，并将它们公之于众。这些文件本应由人们公开、免费获取，但一个名为 PACER 的机构垄断了这些文件，人们每下载一页都需要向它支付 8 美分的费用。Swartz 摧毁了这一不合理的付费墙，让人们没有障碍地接触到这些文件，以及文件上的知识。</p>
+<p>24 岁时，他又用类似的方式，瞄准了另一堵不合理的付费墙：学术论文数据库。下载过学术论文的人都知道，只有通过学校图书馆花大价钱购买的数据库系统才能免费下载。若在这个系统之外，下载一篇论文往往需要支付高达几十美元的费用。</p>
+<p>这一体系的不合理之处在于：下载者支付的费用、图书馆购买数据库的费用，没有一分一厘落到论文作者的口袋里。它们全被学术出版商赚去了。而论文作者的研究经费，又完全不是出版商提供的，它们大多来自各种各样的政府经费。也就是说，纳税人的钱支持了学者们的研究，他们将研究成果发表于学术期刊之后，纳税人却要再花一笔高得惊人的价钱才能读到。</p>
+<p>Swartz 想要改变这种奇怪的状况，让在纳税人的支持之下生产的知识，能够为纳税人免费获取。他在 MIT 的地下室里，依靠自己写的一段代码，从学术论文数据库 JSTOR 下载了 480 万篇论文。然后，他被捕了，检方的指控最高可能给他带来 50 年监禁和 100 万美元的罚款。2013 年初，Swartz 自杀了。尽管无从证明这一案件和他自杀之间的因果关系，但他周围的人们普遍认为，这一案件是他自杀的决定性因素。</p>
+<p>Swartz 的死引发了知识界的剧烈震动，也在很大程度上推动了学术界的 “开放获取（Open Access）” 运动。学术出版商开始出版更多的开放获取期刊，任何人都可以免费下载这些期刊的内容。许多曾经被锁在保险柜里的知识成果，得以被自由地获取和分享。</p>
+<h3><strong>二</strong></h3>
+<p>Swartz 的故事，被记录在了一部名为《互联网之子》的纪录片中。</p>
+<p>Swartz 的确是互联网之子，他所做的一切都深深植根于互联网开放、共享的特性。是这种新技术，让知识的传播得以到达前所未有的规模和效率。维基百科、网络公开课、开放获取等，是互联网促进 “知识民主化” 的代表案例。上一次这样大规模的知识民主化，发生在印刷术发明之后。</p>
+<p>我常常想，如果一生致力于知识民主化的 Swartz 依然活着，他要做的下一件事情，会是什么？</p>
+<p>也许他会继续推动 “开放获取” 运动，让更多学术论文、学术著作通过互联网免费共享。但我总觉得，他要做的，肯定不止于此。<br>
+这样想吧：如果全世界所有的论文和学术著作都可以免费下载了，那么这些知识真的就可以无障碍地传播了吗？</p>
+<p>并非如此。除非这个世界上所有人都有了博士学位，否则人们读起这些论文来将会无比困难。更何况，其中还有学科的壁垒、语言的壁垒。一位社会科学的博士多半完全读不懂一篇物理论文，而母语非英语的人们读起英文文献来也要费劲许多。</p>
+<p>也就是说，学术界投入巨大人力物力生产的知识，不仅被学术出版商锁了起来，更被专业壁垒以及学术论文的写作方式建起了一座高墙。仅仅把锁给砸了，让天下的论文都能免费下载了，并不能让大多数普通人真正接触到这些知识。</p>
+<p>要越过这道高墙，只能通过两种方式。一是让所有人都具备攀爬的能力，也就是让大家都成为全科博士，但这显然不可能。二是由具备能力的人翻过这道墙，把里面的知识取出来，用平易的方式介绍给普通人。</p>
+<p>第二种方式是可行的，也是 “政见” 团队一直在做的。从 2011 年 11 月到现在，我们所做的，不过是用这种方式，拆掉横亘在普通人和学术知识之间的高墙，让用公共资源支持的学术成果，真正为公众所接触和了解。</p>
+<p>就像我们视为榜样的科学松鼠会致力于剥开自然科学的坚果一样，我们试图拆掉社科知识的高墙。</p>
+<h3><strong>三</strong></h3>
+<p>我们——拆掉知识高墙的人，有一个你经常见到的称呼：“政见观察员”。我们大多是在全世界各所大学求学的学生，也有几位已经毕业，走上了讲台。我们的团队里还有另一批人，不直接撰写内容，而是负责内容的包装和传播。为了让这些知识到达更多的普通人，我们需要运营新媒体账号、配发图片、设计 logo 和整体形象、维护网站。</p>
+<p>我们有时会说自己是知识的搬运工。但我们很清楚：这件事情比 “搬运” 要更有挑战性。从一篇几十页的论文中，提取出精华部分，再完全抛弃掉学术论文那种或古板、或诘屈聱牙的写法，用大众可接受的方式，往往还要结合当下热点，用千余字的篇幅娓娓道来，所需付出的精力非 “搬运” 所能概括。这也是为什么我们从不认为自己做的是 “编译”——这件事比编译要难多了。</p>
+<p>我们也不像某个流行的自媒体大号那样声称自己要为粉丝读书。我们只是尽力发掘思想资源，呈现到你的面前，鼓励你自主吸收和分享知识。我们的所有文章都会详细列出参考文献，供有兴趣的读者深入探索——几年前，Swartz 分享的免费学术论文，让 14 岁男孩 Jack Andraka 想出了一种提早检测胰腺癌的方法，谁知道我们提供的参考文献能带来怎样的美好结果呢？我们也时常介绍各类优质网站、平台，鼓励你获取一手知识。</p>
+<p>和致力于网络教育的可汗学院一样，我们不追求商业利润——其实，我们只是一个松散的志愿团队，没有经费资助，大家依靠互联网聚在了一起做一些事情，很大一部分人都未曾谋面。</p>
+<p>虽然只是利用业余时间来做事，但我们愿意将自己置身于一个更大的画面中。在这一波由互联网带来的知识民主化浪潮中，我们想要回答的是 “开放存取” 之后的问题，让学术界生产的知识能够尽量广地传播到普通人当中。</p>
+<p>知识的传播和分享从来都是走向一个更美好社会的必由之路。几百年前，欧洲破除了教会对知识的垄断，西方社会走出了蒙昧时代。</p>
+<p>几十年前，刚刚成立的中华人民共和国掀起扫盲运动，让近一亿国人摘掉了文盲的帽子，促进了社会和经济发展。在扫盲运动中，毛泽东曾引用列宁的话说：“在一个文盲充斥的国家内，是建成不了共产主义社会的。”</p>
+<h3><strong>四</strong></h3>
+<p>在微信平台上，知识的传播已经初见规模，诞生了不少学术类账号。我们和许多学术号的区别在于：它们更多针对学术圈，服务于学术圈。而我们，则致力于面向大众，让学术知识的流动方向不仅仅是在圈子里打转，而是流向普通人。</p>
+<p>但学界永远是我们的坚实后盾，我们需要更多来自学界的支持，期待和我们有同样愿景的学界朋友加入。我们也需要在学术界之外，吸纳更多有创意、脑洞大的新媒体运营人才，帮助这些有价值的思想资源吸引更多的普通受众。</p>
+<p>互联网之子 Swartz 曾经在一篇博客中论述他对知识分子的定义：知识分子都有一种倾向，那就是不仅接受一件事，而且要思考它、理解它。</p>
+<p>接着，他话锋一转：“而如果你不分享的话，这些思考又有什么用呢？……真正的知识分子热衷于解释自己的想法，让所有感兴趣的人都能理解。”</p>
+<p>这是一个知识分享狂热者的心声。我们愿以自己的努力回应他的理念：如果学术界生产的知识不被分享和传播，又有什么用呢？</p>
+<blockquote>
+<p><strong>一些说明</strong></p>
+<p>2015 年圣诞节当天，我们与大家暂时失联了。自那时起，我们收到了许多读者通过各种途径表达的关心和询问。这些关心令我们倍感温暖，也令我们更坚定决心，要把拆掉知识高墙这件事继续做下去。</p>
+<p>我们想请大家帮忙，把这篇文章分享到你的朋友圈，让我们找到失联的政见读者们，也让更多新朋友了解我们，让知识抵达更多人的手机屏幕。</p>
+<p>如果你关注了我们的微博账号但看不到我们的微博内容，你可以用微博私信发送 dy 两个字母给我们，接收我们的消息推送。<br>
+现在你应该能访问我们的网站。如果不行，你可以收藏我们的备用域名：http://cnpolitics.info</p>
+<p>再次感谢大家。重新见面的感觉真好。</p></blockquote>
+<p><strong>最新合辑下载</strong></p>
+<p>Dropbox：http://t.cn/RAW0oro<br>
+豆瓣阅读：http://t.cn/RAETKQH<br>
+百度网盘：http://t.cn/RAWOIzw</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%94%BF%E8%A7%81%EF%BD%9C%E6%88%91%E4%BB%AC%E6%83%B3%E5%81%9A%E7%9A%84%EF%BC%8C%E4%B8%8D%E8%BF%87%E6%98%AF%E6%8B%86%E6%8E%89%E7%9F%A5%E8%AF%86%E7%9A%84%E9%AB%98%E5%A2%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">信息控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7/?category=18271" rel="tag">微信公号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A7%B0%E7%91%9E%E5%85%B8%E5%85%AC%E6%B0%91%E5%BD%BC%E5%BE%97-%E8%BE%BE%E6%9E%97%E6%B6%89%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">自由亚洲｜新华社称瑞典公民彼得.达林涉危害国家安全案件</a>
 </h2>
 <p><p>中国官方新华社星期二（1月19日）发文，称，国家安全机关和公安机关联合破获一起危害国家安全案件，成功打掉一个以“中国维权紧急援助组”为名、长期接受境外资金支持、在境内培训和资助多名“代理人”、从事危害国家安全犯罪活动的非法组织。彼得·耶斯佩尔·达林（瑞典籍）等犯罪嫌疑人被依法采取刑事强制措施。</p>
@@ -576,38 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/" target="cdt-mirror">【河蟹档案】证监会否认肖钢辞职，路透社随后遭到封杀</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8F%89%E8%91%AD%E8%8B%8D%E8%8B%8D">菉葭苍苍</a>：【袁裕来律师被“依法”限制出境】，慢慢来，网大的很，总有收网的时候。<em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/meiti/yf1-11062015100611.html">自由亚洲<em>｜</em>网络大V袁裕来微博账号被封杀 知识分子如履薄冰称似白色恐怖</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-26.jpg" alt="袁裕来" width="382" height="680"><br><a href="https://freeweibo.com/weibo/3931153884719330" target="/weibo/393">2016年01月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B7%AF%E9%80%8F%E4%B8%AD%E6%96%87%E7%BD%91Reuters">路透中文网Reuters</a>：【中国证监会主席肖钢提出辞职–消息（更新版）】目前还不清楚肖钢何时离任。有可能会在本月或下月的全国人大常委会之后或3月份的全国人大会议期间发布公告。消息人士说，中央组织部已经将肖钢接任人选名单缩小到三人。<em>相关阅读｜《<a href="http://cn.reuters.com/article/csrc-xiaogang-idCNKCS0UW0XD">路透社<em>｜</em>中国证监会主席肖钢提出辞职–消息</a>》；《<a href="http://www.dw.com/zh/%E4%B8%BB%E5%B8%AD%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E9%9D%A2%E8%BE%9F%E8%B0%A3/a-18987341">德国之声<em>｜</em>主席肖钢辞职？证监会出面辟谣</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-38.jpg" alt="肖钢" width="354" height="630" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-38-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2016/01/333-38.jpg 719w" sizes="(max-width: 354px) 100vw, 354px"><br><a href="https://freeweibo.com/weibo/3932712630846588" target="/weibo/393">2016年01月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%85%89%E8%BF%9C%E7%9C%8B%E7%BB%8F%E6%B5%8E">光远看经济</a>：证监会辟谣之后，路透的微博逝世。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-37.jpg" alt="路透社" width="367" height="653" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-37-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/333-37.jpg 750w" sizes="(max-width: 367px) 100vw, 367px"><br><a href="https://freeweibo.com/weibo/3932744612963685" target="/weibo/393">2016年01月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%88%98%E8%B7%AF%E5%86%9B%E5%85%88%E7%94%9F">刘路军先生</a>：说肖刚辞职的<a href="https://freeweibo.com/weibo/%40%E8%B7%AF%E9%80%8F%E4%B8%AD%E6%96%87%E7%BD%91Reuters">@路透中文网Reuters</a> 被党双规了。帐号已封，动作真快，可比股市狂跌时的反应快多了。让你造谣[嘻嘻]<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-36.jpg" alt="路透社" width="550" height="325" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-36-300x177.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-36-768x454.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-36.jpg 1021w" sizes="(max-width: 550px) 100vw, 550px"><br><a href="https://freeweibo.com/weibo/3932751524782012" target="/weibo/393">2016年01月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%9C%88%E5%B0%91%E7%88%B7">圈少爷</a>：蔡英文当选台湾地区领导人，2小时得到600万台湾人民支持，一个小时前她在Facebook发表声明，感谢台湾选民的支持，争取在未来任职的四年内为台湾晋升先进国家而奋斗。。。。。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-30.jpg" alt="蔡英文" width="427" height="759" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-30-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-30-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/333-30.jpg 1242w" sizes="(max-width: 427px) 100vw, 427px"><br><a href="https://freeweibo.com/weibo/3932036836185197" target="/weibo/393">2016年01月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%AC%E9%83%BD%E6%8E%A2%E8%8A%B1">京都探花</a>：【周小平，请您道歉】微博著名大V任志强曾发了一条“刚从台湾回国”的微博，被著名爱国学者司马南郑重警告：“台湾是中国不可分割的一部分！”，任总立马道歉；非著名博主探花，在此把司先生的警告转送爱国大V周小平：“从台湾回来，不是回国。台湾是中国不可分割的一部分！”请道歉！<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9D%8E%E9%93%B6%E6%B2%B3%EF%BC%9A%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%96%87%E7%AB%A0%E7%82%B9%E8%AF%84/">【网络民议】李银河：周小平文章点评</a>》；《<a href="http://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/">数字时代周小平专题</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-33.jpg" alt="周小平" width="396" height="705"><br><a href="https://freeweibo.com/weibo/3932637531490972" target="/weibo/393">2016年01月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BF%83%E4%B9%8B%E6%B4%9B">心之洛</a>：“趙家人”（简体“赵家人”）在微信已经遭到屏蔽，不信可以一试。这应该是当局有史以来最哑口无言又最惶恐忌惮的一个指代词，以至于不惜冒犯天下赵姓人而出此下策，作出无差别屏蔽。<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-31.jpg" alt="赵家人" width="440" height="360" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-31-300x245.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-31-768x628.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-31.jpg 783w" sizes="(max-width: 440px) 100vw, 440px"><br><a href="https://freeweibo.com/weibo/3932036652278662" target="/weibo/393">2016年01月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%87%A4%E5%87%B0%E5%91%A8%E5%88%8A">凤凰周刊</a>：【消息人士：黄奇帆将上调中央 主管金融】接近中国金融监管当局的一名消息人士透露，重庆市长黄奇帆已被国家主席习近平选定，负责整理中国陷入混乱的金融市场，这一决定将对目前的政策走向带来“重大”影响。via南早中文   <em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E9%BB%84%E5%A5%87%E5%B8%86">维基百科<em>｜</em>黄奇帆</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-28.jpg" alt="黄奇帆" width="486" height="302" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-28-300x186.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-28.jpg 486w" sizes="(max-width: 486px) 100vw, 486px"><br><a href="https://freeweibo.com/weibo/3932240532249171" target="/weibo/393">2016年01月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【黄市长】最近关于重庆黄市长将高升的传说很多。我曾看过黄的演讲视频，其雄辩和专业令人印象不错。不过，薄在重庆风生水起的时候，黄也是党政主要领导人，参与重大决策。前总理温曾明确要求重庆现任市委和市政府必须反思，从王立军事件吸取教训，不知道黄市长对黑打等诸多恶行是否反思？<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-35.jpg" alt="黄奇帆" width="482" height="338"><br><a href="https://freeweibo.com/weibo/3932775800960334" target="/weibo/393">2016年01月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%9F%B9%E5%93%88%E7%89%B9213">蟹哈特213</a>：这个牛！<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-29.jpg" alt="蔡英文" width="456" height="629"><br><a href="https://freeweibo.com/weibo/3932031505602773" target="/weibo/393">2016年01月16日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%81%BE/?category=18271" rel="tag">股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5/?category=18271" rel="tag">袁裕来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E5%88%B6%E5%87%BA%E5%A2%83/?category=18271" rel="tag">限制出境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%A5%87%E5%B8%86/?category=18271" rel="tag">黄奇帆</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E4%B8%93%E5%AE%B6%E4%BD%93%E9%AA%8C%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/" target="cdt-mirror">奇客资讯 | 信息安全专家体验防火长城</a>
-</h2>
-<p><p>一位信息安全专业人员首次访问了中国，获得了防火长城的第一手经验，发现防火长城能使用机器学习识别流量模式。他<a href="http://blog.zorinaq.com/?e=81" target="_blank"><u>在博客上描述了他的经历</u></a>：他预加载了Google地图，结果发现由于中国的GPS飘移问题地图根本就没有用；为了绕过防火长城，他在宾馆首先设立了SSH隧道，在笔记本上连接美国数据中心的一台服务器，结果前几分钟还行，后几分钟就出现了严重的丢包问题；他在服务器上运行一个Web代理，利用SSH端口重定向访问代理，结果和SSH隧道相同，几分钟后又出现丢包；他改用TLS连接直接访问代理，这一次可以成功访问很长时间，但当他通过代理访问HTTPS网站后防火长城探测到了代理，丢包问题再次出现；他进行了一番实验，确认防火长城能利用TLS的旁路泄露观察数据包特征识别代理服务器，于是利用随机填充修改请求和握手中间发送的数据包大小，结果显示可以正常浏览被审查的HTTP和HTTPS网站，关闭随机填充丢包问题则会立即再现。作者称，防火长城现在利用了机器学习算法自动的学习、发现和屏蔽VPN和代理。他在手机上使用了一个中国可以正常访问的VPN服务ExpressVPN，发现它的Root CA证书使用的是1024位RSA算法加密，而如此长度的RSA密钥中国政府有能力破解，他怀疑中国政府已经这么做了，并利用破解的密钥监视部分用户。他疑惑为什么中国没有屏蔽ExpressVPN。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E4%B8%93%E5%AE%B6%E4%BD%93%E9%AA%8C%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E7%90%86/?category=18271" rel="tag">代理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8D%E5%8A%A1%E5%99%A8/?category=18271" rel="tag">服务器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -619,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -629,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

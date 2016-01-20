@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,74 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91-2/" target="cdt-mirror">【敏感词库】“青天白日旗” 、“肖钢辞职”等热点 2016-1-19</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2013/12/%E5%B0%8A%E5%AD%90%E6%BC%AB%E7%94%BB%EF%BC%9A%E5%B9%B3%E5%AE%89%E7%AC%A6.jpg" alt="尊子漫画：平安符" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2013/12/尊子漫画：平安符-300x293.jpg 300w, http://chinadigitaltimes.net/chinese/files/2013/12/尊子漫画：平安符.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><br><em>尊子漫画：平安符</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年1月19日］</p>
+<p><strong>肖钢＋辞职</strong>（<strong><a title="编辑“【河蟹档案】证监会否认肖钢辞职，路透社随后遭到封杀”" href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/">证监会否认肖钢辞职，路透社随后遭到封杀</a>）</strong><br><strong> 肖钢＋下台</strong></p>
+<p><strong>青天白日旗</strong></p>
+<p><strong>自由写作奖</strong></p>
+<p><strong>死亡＋党</strong><br><strong> 习 + 黑材料</strong></p>
+<p><strong>xi禁评</strong><br><strong> 洗禁评</strong><br><strong> 吸金瓶</strong></p>
+<p><strong>色情视频</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E8%BE%9E%E8%81%8C.png" rel="attachment wp-att-426039"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E8%BE%9E%E8%81%8C.png" alt="肖钢 辞职" width="475" height="207" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-辞职-768x334.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-辞职-1024x445.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-辞职.png 2092w" sizes="(max-width: 475px) 100vw, 475px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E4%B8%8B%E5%8F%B0.png" rel="attachment wp-att-426041"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E4%B8%8B%E5%8F%B0.png" alt="肖钢 下台" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台.png 2096w" sizes="(max-width: 2096px) 100vw, 2096px"></a><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97.png" alt="青天白日旗" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/青天白日旗-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/青天白日旗-768x302.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/青天白日旗.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%87%AA%E7%94%B1%E5%86%99%E4%BD%9C%E5%A5%96.png" alt="自由写作奖" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/自由写作奖-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/自由写作奖-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/自由写作奖.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%BB%E4%BA%A1%EF%BC%8B%E5%85%9A.png" alt="死亡＋党" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/死亡＋党-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/死亡＋党-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/死亡＋党.png 774w" sizes="(max-width: 774px) 100vw, 774px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E9%BB%91%E6%9D%90%E6%96%99.png" alt="习 + 黑材料" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习-黑材料-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习-黑材料-768x301.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习-黑材料.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/xi%E7%A6%81%E8%AF%84.png" rel="attachment wp-att-426029"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/xi%E7%A6%81%E8%AF%84.png" alt="xi禁评" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评-300x144.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评-768x368.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评-1024x491.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评.png 2098w" sizes="(max-width: 2098px) 100vw, 2098px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B4%97%E7%A6%81%E8%AF%84.png" rel="attachment wp-att-426030"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B4%97%E7%A6%81%E8%AF%84.png" alt="洗禁评" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评-768x330.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评-1024x440.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评.png 2128w" sizes="(max-width: 2128px) 100vw, 2128px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%90%B8%E9%87%91%E7%93%B6.png" rel="attachment wp-att-426031"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%90%B8%E9%87%91%E7%93%B6.png" alt="吸金瓶" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶.png 2092w" sizes="(max-width: 2092px) 100vw, 2092px"></a><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91.png" alt="色情视频" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/色情视频-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/色情视频-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/色情视频.png 770w" sizes="(max-width: 770px) 100vw, 770px"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%9C%E8%8E%9E%E5%88%B6%E9%80%A0%E4%B8%9A%E8%A1%B0%E9%80%80%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B/" target="cdt-mirror">纽约时报 | 东莞制造业衰退折射中国经济转型阵痛</a>
+</h2>
+<p><p>中国东莞——方明华（音）在一家废弃家具厂的周围走着，指着曾经是上百名工人辛勤工作的厂房，工人们曾在那里用粗木板制造电视柜和衣柜，供应给中国及其他新兴经济国家里渴望成为中产阶级的人。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%9C%E8%8E%9E%E5%BA%9F%E5%BC%83%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA.png" alt="东莞，一处废弃的鞋业批发市场。这座镇上的工厂目前举步维艰，但曾一度占全球运动鞋生产的四分之一。" width="550" height="368"><p>东莞，一处废弃的鞋业批发市场。这座镇上的工厂目前举步维艰，但曾一度占全球运动鞋生产的四分之一。</p></div>
+<p>这家工厂正在搬到距此地两小时车程的新址，由于成本不断上升、订单减少，它在这里已无法生存。据方先生估计，东莞有多达三分之一的家具厂已经倒闭，许多其他厂家也在苦苦挣扎。</p>
+<p>46岁的方先生说，“经济放缓是真的。”在过去的22年里，他从每月挣50美元（约合400元人民币）的打工者升到生产主管的位置。</p>
+<p>东莞曾是繁荣的制造业中心，这里出现的衰退是全球投资者在试图解决的中国经济难题的一部分。</p>
+<p>虽然中国已经逐渐从东莞特长的低端制造业转型，但国内庞大工业部门的长期低迷对国家已经放缓的经济是个严重的威胁。虽然政府试图对情况进行控制，但仍旧存在着中国经济情况实际上比预期差的风险，这种担忧已让世界各地的股票市场坐立不安。</p>
+<p>来自中国的最新信号并没有给人提供多少安慰，经济疲软没有任何减弱的迹象。周二，<a href="http://www.nytimes.com/2016/01/19/business/international/china-gdp-economy.html" target="_blank" rel="nofollow">中国公布</a>的去年第四季度增长率只有6.8％，这是自2009年的金融危机深渊以来，最慢的经济扩张速度。</p>
+<p>方先生说，每当说到经济时，政客和商业领袖们就大谈特谈产业创新和升级，“但我认为那只是个口号。其实很难实现。”</p>
+<p>东莞位于中国南方珠江三角洲的核心位置。几十年来，这个地区推动着中国向全球出口量的上升，制造了从家具到服装和鞋等各种商品。</p>
+<p>但是，随着亚洲成本更低的生产基地逐渐形成，东莞的世界工厂已经面临困境。去年，中国的出口量自金融危机以来首次下降，这也仅仅是经济自从在20世纪70年代末向世界开放以来，中国出口量的第二次下降。</p>
+<p>中国在全球制造业的地位很可能会由于跨太平洋伙伴关系而受到进一步的削弱。这一以美国为首的贸易协议将深化美国与越南和马来西亚等亚洲国家的关系，但不包括中国。</p>
+<p>经济低迷已给政府制造了一种棘手的局面。</p>
+<p>官员们在鼓励逐步淘汰低端出口产品，同时在提倡服务业和高技术制造业。尽管更新、更充满活力的公司在中国呈上升的趋势，但风险在于，这些公司的发展速度不够快，不足以弥补轻工制造业的空缺，轻工制造业虽然在收缩，但仍是全国各地的主要用人单位。</p>
+<p>一些传统的制造商对经济衰退的反应，是把工厂向内地或海外搬迁，因为这些更远地方的成本通常相对较低。其他制造商则努力在国内市场上建立自己的品牌产品，以减少对出口订单的依赖。</p>
+<p>“传统老行业正在感受到这种不幸的痛苦，”牛津经济研究院(Oxford Economics)亚洲经济负责人高路易(Louis Kuijs)说。但是他补充说，从低端的劳动密集型制造业转型，“是正在发生的经济结构性变化的一个不可避免的部分。”</p>
+<p>43岁的张林（音）正在努力适应这种转型。</p>
+<p>25年前，张先生离开了他在四川省西部的老家，到东莞鞋厂打工，后来当了主管，他曾在这里的一家台资工厂负责监督大约7000名生产线上的工人。据东莞鞋业协会的估计，在金融危机之前的鼎盛时期，东莞工厂生产的运动鞋，大约占到全球出售运动鞋的25%。</p>
+<p>但是，成本上升也给制鞋企业带来了沉重的压力。张先生工作的台资工厂已于2012年倒闭。他和几个伙伴一起办了一家自己的工厂，为盖世威(K-Swiss)和杜兰戈(Durango)等品牌生产鞋子和皮靴。如今，张先生的工厂雇了大约700名工人。</p>
+<p>成本在上升，海外客户的需求也在不断下降。去年，公司订单上的鞋子减少了约120万双，与2014年相比，下降了15％左右。</p>
+<p>“我们能不能再坚持五年很难说——前景不怎么好，”张先生说。</p>
+<p>为了应对这种局面，该公司已减少了工人的工作时数，而且也在考虑搬厂。</p>
+<p>该公司打算继续经营这里现有的工厂，同时也计划未来扩张到欠发达省份贵州去。那里的劳动力成本比东莞低40%。张先生去年8月还去孟加拉考察过，东莞的一些大型制鞋厂已经将生产环节转移到了那里。</p>
+<p>该工厂也已开始生产自己的真皮休闲鞋系列，通过网店在中国境内销售。在阿里巴巴的主要的网购平台淘宝上，这些鞋的售价高达75美元一双。</p>
+<p>“海外订单正在减少，你需要有两手准备，”张先生说。</p>
+<p>其他一些行业也同样步履维艰，包括一些电子产品制造商。去年10月，电信设备制造商华为和中兴通讯的供应商福昌电子突然关闭，导致数以千计的工人在深圳政府大楼前抗议。</p>
+<p>中国官员担心发生更多的劳工骚乱，希望纾解该行业的压力。本月早些时候，中国一个主要的科技监管机构表示，将与一个大型本地银行一起，设立300亿美元的资金，为陷入困境的中小型电子产品供应商提供支持。</p>
+<p>虽然东莞仍然有很多活跃的工厂，但成功的大厂越来越倾向于采用高科技，减少对人力的依赖。</p>
+<p>在阿拉巴马州的汽车厂工作15年后，迈克尔·瑞卡(Michael Recha)2012年搬到东莞，组建了一家专门的汽车零部件厂。它是中国第一批这样的工厂，隶属于西班牙汽车零部件制造商海斯坦普(Gestamp)公司。该工厂使用一种称为热冲压的技术，为汽车保险杠和车身面板中的精密部件制作金属片，客户包括国内外汽车制造商。</p>
+<p>但是在生产中，自动装置所占的份额越来越大。这家工厂仅雇佣了400名工人，每天两班倒。</p>
+<p>“中国不再是一个低成本国家，所以我们在这里也使用了和欧洲相同的自动装置和设备，”瑞卡说。</p>
+<p>家具厂的方先生估计，把三个厂搬到内地、进行合并之后，公司每个月可以节省大约15万美元的运营成本——电费和水费减少了，税也降低了。节省最多的是租金，因为公司老板可以买到低价地皮，修建新厂。</p>
+<p>但搬厂也有搬厂的问题。</p>
+<p>新工厂的位置相对偏僻，下班后时间没有太多消遣。方先生的妻子留在了东莞，她对“分开不太开心，”他说。</p>
+<p>两人现在的打算是，下个月过完春节之后，她就去他那里。</p>
+<p>“她会找到新工作，可能就在同一家工厂，和我一起，”他说。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%9C%E8%8E%9E%E5%88%B6%E9%80%A0%E4%B8%9A%E8%A1%B0%E9%80%80%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E/?category=18271" rel="tag">东莞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E5%95%86/?category=18271" rel="tag">制造商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%BD%8E%E8%BF%B7/?category=18271" rel="tag">经济低迷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B/?category=18271" rel="tag">经济转型</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9D%8E%E6%80%9D%E7%A3%90%EF%BC%9A%E4%BB%8E%E8%94%A1%E8%8B%B1%E6%96%87%E4%B8%8A%E4%BD%8D-%E7%9C%8B%E5%A5%B3%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%90%9E%E6%94%BF%E6%B2%BB/" target="cdt-mirror">李思磐：从蔡英文上位 看女人为什么要搞政治</a>
 </h2>
 <p><p><strong>从这里看对岸，我还是想谈一谈王如玄、王清峰和彭婉如们给我的启示，从而去寻找千万女人命运的答案。</strong></p>
@@ -392,7 +457,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">国家广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%89%87/?category=18271" rel="tag">审片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%B2%BE%E9%80%89/?category=18271" rel="tag">广电总局精选</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E6%9C%AC%E8%81%9A%E7%84%A6%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%9D%83%E4%B8%8B%E7%9A%84%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB-2/" target="cdt-mirror">美国之音｜日本聚焦蔡英文政权下的两岸关系</a>
 </h2>
@@ -424,7 +489,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%ACnhk%E9%9B%BB%E8%A6%96%E5%8F%B0-%E8%A3%BD%E3%80%8C%E5%A4%AA%E9%99%BD%E8%8A%B1%E9%81%8B%E5%8B%95%E3%80%8D%E7%B4%80%E9%8C%84%E7%89%87%E4%B8%AD%E6%96%87%E5%AD%97/" target="cdt-mirror">【CDTV】日本NHK電視台｜「太陽花運動」(中文字幕)</a>
 </h2>
@@ -707,60 +772,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2%EF%BC%9A%E9%9F%A9%E5%9B%A2%E4%BD%93%E5%B0%86%E8%AF%89%E8%AF%B8%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%9D%83/" target="cdt-mirror">BBC中文网 | 周子瑜道歉风波：韩团体将诉诸国家人权委员会</a>
-</h2>
-<p><p>作者：杨虔豪 BBC中文网韩国特约记者</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%886.16.15.png" alt="Screen Shot 2016-01-18 at 下午6.16.15" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.16.15-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午6.16.15.png 643w" sizes="(max-width: 550px) 100vw, 550px"><br><span>韩国偶像团体TWICE台籍成员周子瑜</span></p>
-<p>“韩团TWICE台籍成员周子瑜的“国旗道歉”风波引发争议，有韩国公民团体周一（18日）上午发表声明，将向国家人权委员会申诉，要求针对事件展开详细调查，并扬言将向检方对TWICE的经纪公司JYP代表朴轸永提告。</p>
-<p>韩国偶像团体TWICE台籍成员周子瑜，因在电视节目中挥舞青天白日旗，遭中方抵制后，又在台湾大选最后一夜，拍摄并公开承认自己是“中国人”的道歉影片，同时在台韩两地引起争议。</p>
-<p>针对这起风波，韩国方面，已有将采取行动的预告。公民组织“韩国多文化中心”在18日上午发表声明，将以“种族歧视”与“打压人权”为由，向韩国国家人权委员会申诉，同时也不排除向检方对周子瑜所属的经纪公司JYP代表朴轸永提告。</p>
-<p>韩国多文化中心表示：“17岁的少女，手摇让自己在演艺界出道的韩国太极旗，还有自己出身的母国─台湾的青天白日旗，是相当自然的模样。下面还有挥舞太极旗的成员、也有挥舞日本国旗的成员，还能存在甚么‘政治黑幕’？”</p>
-<p>声明指出，“对周子瑜被强迫施加的道歉行为，已引起台湾国民公愤，最终将为台湾撒下‘反韩’感情的火苗”。</p>
-<p>该团体将向韩国国家人权委员会申诉，要求对周子瑜事件展开进一步调查；若经判断当中确实存在强迫行为，将向韩国检方对JYP代表朴轸永提告。</p>
-<p>韩国多文化中心代表金成会，18日下午接受BBC中文网记者采访时表示：“拿自己国家的国旗，当然没错，JYP却只想到中国市场与网友的反应。”他不满地反问道：“JYP是只在乎钱和经济吗？”</p>
-<p>“我们认为台湾国民，会因此感到很受伤。韩国已经实现民主化了，我们想告诉台湾国民，韩国也是相当珍视民主和人权的国家。”金成会说道。</p>
-<p>他并指出，此事对韩国国格造成损害，将在同律师讨论后，于本周内正式向人权委员会提起申诉，在国家层次上，透过客观调查，让JYP对事件做出解释。</p>
-<p>金成会认为，在迈入全球化背景下，韩国经济公司推出许多包括不同国家出身成员的偶像团体，应该提高对多元文化的认识水平，并固守人权意识，不再发生同样问题。</p>
-<p>成立于2009年的韩国多文化中心，主要从事对各国移住者，包括对他们的父母与子女提供包括咨询、韩语教育与创业等支持，使其融入韩国社会；目前也组成多国子女的合唱团，促使他们一起相处学习与适应环境。</p>
-<p>事实上，面对周子瑜的道歉风波，韩国舆论大多表以同情与反对经纪公司的态度。“拿着自己国家国旗，为何需要道歉”、“JYP的作法太离谱了”的留言，在韩国网上疯传。甚至也有人指责道：“这样的事情，在韩国正频繁出现；这是业主对受雇者，还有老人对未成年者的虐待。”</p>
-<p>而在台湾，人权律师王可富也于18日上午，偕同支持群众，前往台北地检署，以涉嫌“强制罪”为由，对最初举发周子瑜“台独”的艺人黄安和JYP提告。</p>
-<p>王可富表示，黄安的举发行径导致周子瑜被迫做出“非义务”举动，JYP也涉及违反他人自由意志的行为，都已触及强制罪的围。</p>
-<p>JYP则在18日下午发表声明表示：“子瑜发表立场，基于其仍未成年，最初公司就与其父母一起商议，我们并等她的父母来到韩国为止。”</p>
-<p>声明中指出：“公司无法对个人的信念做出强迫，也不能做出强迫，全然没有存在强迫之事。”JYP同时强调，“道歉影带”要等到周子瑜的父母赴韩，经过与子瑜讨论后，最终才做出的决定。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%E4%B8%AD%E6%96%87%E7%BD%91-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2%EF%BC%9A%E9%9F%A9%E5%9B%A2%E4%BD%93%E5%B0%86%E8%AF%89%E8%AF%B8%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%9D%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E5%8F%8D%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">黄安“反台独”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">黄安举报周子瑜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%8D%8E%E5%8F%B0%E5%8C%97%EF%BC%9A%E4%B8%A4%E5%B2%B8%E4%BA%89%E5%90%8D%E4%BB%BD/" target="cdt-mirror">微思客 | 中国台北，还是中华台北：两岸争“名份”的历史</a>
-</h2>
-<p><p>作者：冉夷侨</p>
-<blockquote><p><strong>编者按：</strong>台湾艺人周子瑜手持“青天白日满地红旗”，被自称“台独杀手”的黄安在微博上斥为“台独”，一时激起千层浪。事实上，这个旗帜早在“国民革命军”北伐胜利之后就颁行于全国，和“台独”毫无关系。相反，真正希望独立者，则是希望废掉这面旗帜。从这个事件中可以看出，对于历史的许多侧面，我们值得挖掘一番。今天，我们推送一篇文章，为大家厘清“中国台北”与“中华台北”，一字之差背后的两岸历史。</p></blockquote>
-<p>1949年，国共内战以国民政府败退台湾，中华人民共和国建立告终。自那时起，“谁代表中国”的重要问题产生。1951年7月，在国际奥委会第28期公报中，将“中华民国奥委会”的会址改为147, West Gate Street, Taiwan (China)，会名仍为Chinese Olympic Committee, National Amateur Athletic Federation。1952年，面对即将到来的第15届赫尔辛基奥运会，新生的中华人民共和国向国际奥委会表达参加奥运会的意愿。面对均以全中国“唯一合法代表”身份的两岸政府，国际奥委会提交大会讨论，最终得到以下决议：“两方可参加由单项运动总会所核可的项目”。在获知这个结果之后，台湾方面的代表郝更生立即表示，不屑于与中共同场竞技，宣布退赛。在台湾方面退出比赛之后，中国大陆代表团从北京出发奔赴赛场，可惜比赛接近尾声，只赶上男子仰泳项目。</p>
-<p>到了1954年5月，在雅典举行的国际奥委会第49届年会当中，国际奥委会以23票对21票，通过了中华人民共和国的入会提案。就在1954年8月的奥委会公报当中，同时出现了“中华奥委会”和“中华人民共和国奥委会”。戏剧性的事件发生在1956年的墨尔本奥运会上。台湾方面透过奥运会筹备委员会主席Kennt Hughes的运作，将奥运村的升旗典礼时段安排在中国大陆之前。不料，在11月1日的升旗仪式上，“旗帜”被掉包，升上去的不是“青天白日旗”而是“五星红旗”。这一突发情况引发了Kennt Hughes的强烈不满，立即要求更换旗帜。但是，这一举动触怒了大陆方面。11月6日，新华社发布国家体育总局的声明，宣布退出墨尔本奥运会。</p>
-<p>大陆方面自然无法允许在国际上出现“两个中国”的局面。1958年，中国奥委会董守义去信国际奥委会主席Avery Brundage，强调中华人民共和国是中国的唯一合法代表。在Avery Brundage回信指出，“国际奥委会不涉及政治，对各国既不承认也不与之交涉……你已在许多场合试图引入政治，若再如此，唯一的对策就是请你辞职。”在1958年8月，董守义回复道，“Brundage故意违反奥委会宪章，为美帝国主义者制造两个中国的政治阴谋服务”，宣布中国奥委会终止承认国际奥委会，并同时退出八个国际单项体育总会。</p>
-<p>至此，“两个中国”的问题似乎得到了解决。然而，在国际奥委会内部，部分委员开始质疑“中华奥委会”（台湾方面）是否能够代表“中国”。就在1959年5月的国际奥委会慕尼黑全会上，国际奥委会做出决议，由于“中华奥委会”未能真正代表中国的体育活动，不能被国际奥委会承认为“中国”，会名从正式文件中删除。后来，台湾方面锲而不舍，重新申请。在1960年8月获得确认，在国际奥委会公报中改为，TAIWAN, Republic of China Olympic Committee。面对这样的局面，台湾方面不愿接受，但又无可奈何。决议次日，奥运会开幕式，代表团决定在开幕式绕场时，举出写有Under protest的布条，以示抗议。1964年，东京奥运会。台湾方面经过与国际奥委会协商，在英文TAIWAN的名牌之下，加注日文汉字“中华民国”字样参加开闭幕式。依照同样的模式，台湾方面参与了1968年墨西哥奥运会。</p>
-<p>正如大陆方面无法接受“两个中国”，台湾方面也无法接受以TAIWAN为名参与国际奥委会。由此，一场展开恢复“中华民国奥委会”的“正名”运动开始。借助朝鲜、东德都存在名称问题，台湾方面决定争取有利时机，把“正名”加入议程。最终，在1968年11月1日起，国际奥委会准用“中华民国奥委会”（Republic of China Olympic Committee）的名称。</p>
-<p>然而，随着1971年联合国“恢复中华人民共和国的合法席位”，“中华民国”的名称也自然遭到了持续地挑战。鉴于国际局势发生的变化，对于国际奥委会而言，解决两岸问题的最好方式就是让台湾方面更改名称。由此，“中国问题”成了国际奥委会亟待解决的问题。</p>
-<p>1979年4月，国际奥委会执委会会议通过提案：（1）恢复中国奥委会的会籍；（2）继续承认位于台北的奥委会，有关名称、歌、旗问题的研究，需尽快加以完成。1980年2月，国际奥委会通过“通讯投票”，以62票赞成、17票反对和2张废票的结果，通过提案。自此，在第145期11月的Olympic Review当中刊登，（1）中国大陆方面称谓变为Chinese Olympic Committee，其旗、歌、徽合格；（2）在台北的奥委会称谓为Chinese Taipei Olympic Committee，其旗、徽、宪章必须修改。虽然台湾方面仍然为“称谓”而不屑“斗争”，但是情况并不乐观。</p>
-<p>围绕“称谓”，两岸均有各自的期待。如何化解两岸的“称谓争议”，1980年新任的国际奥委会主席萨马兰奇（Samaranch） 开启了一道“协商之门”，最终成就了“奥运模式”，即台湾方面称谓改为“中华台北奥委会”，会旗改为另行设计的梅花旗。虽然台湾方面仍然努力争取，让“国歌”成为“会歌”，但是由于国际奥委会的反对，最终以“中华民国国旗歌”代之。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-%E4%B8%8B%E5%8D%885.47.41.png" alt="Screen Shot 2016-01-18 at 下午5.47.41" width="406" height="398" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午5.47.41-300x294.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-18-at-下午5.47.41.png 406w" sizes="(max-width: 406px) 100vw, 406px"><br><span>中华台北奥委会会旗 图片来自维基百科</span></p>
-<p>1989年4月6日，代表台湾方面的“中华奥林匹克委员会”秘书长李庆华与中国奥林匹克委员会主席何振梁在香港签署协议。协议当中称，“台湾地区体育团队及体育组织赴大陆参加比赛、会议或活动，将按国际奥委会有关规定办理，大会（即主办单位）所编印之文件、手册、寄发之信函、制作之名牌，以所做之广播等等，凡以中文指称台湾体育团队与体育组织时，均称为‘中华台北’。”</p>
-<p>由此，“奥运模式”的称谓和安排，成为了两岸双方均可接受的一种安排。1991年11月12日，经APEC主办会员国韩国居中协调，台湾方面以“中华台北”（Chinese Taipei）名义加入。2004年12月15日，经济合作组织（OECD）理事会通过以“中华台北”名义成为该组织“竞争政策委员会”的观察员。2009年5月18日，台湾方面以“中华台北”的名义，以观察员身份参加世界卫生大会（WHA）。</p>
-<p>在2008年北京奥运会前夕，大陆媒体将台湾方面的称为“中国台北”而不是“中华台北”，一时间引起台湾各界的不满。台湾方面认为，这样的称谓有“矮化之嫌”。争议起初，大陆方面认为，奥委会协定不涉及他人在协议之外使用“中国台北”的权利，不同意矮化一说。然而，随着不满声浪地升高，大陆媒体在2008年7月下旬，逐渐改用“中华台北”的称谓，顺利地解决了称谓争议。</p>
-<p>“称谓”是一种“政治”，而凡是涉及“政治”，就需要务实面对、智慧处理。“奥运模式”既照顾了两岸双方不同的坚持，也包容了彼此的分歧，找到了最大公约数。政治家需要有大智慧，媒体同样也应该本着“实事求是”的态度进行采写、报道。两岸这一段鲜为人知的“要名份”的历史，足可以给我们大家以启迪。</p>
-<p><span>参考文献：</span><br><span> 1. （台）刘进枰：“1981年奥会模式签订之始末”</span><br><span> http://www.tpa.gov.tw/upfile/www/Pdf/%E8%AB%96%E6%96%87%E9%9B%86/200710/20071025c.pdf</span><br><span> 2. 维基百科：“中华台北”辞条</span><br><span> http://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E8%87%BA%E5%8C%97#cite_note-.E7.9F.A5.E8.AD.98.E5.BA.AB-3</span><br><span> 3. 中华台北APEC研究中心网站：http://www.ctasc.org.tw/01intro/bg.asp</span><br><span> 4. “连胡4度会，胡提搁置争议16字”，《自由时报》</span><br><span> http://news.ltn.com.tw/news/focus/paper/207764</span></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%AD%E5%8D%8E%E5%8F%B0%E5%8C%97%EF%BC%9A%E4%B8%A4%E5%B2%B8%E4%BA%89%E5%90%8D%E4%BB%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E5%8F%B0%E5%8C%97/?category=18271" rel="tag">中华台北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97/?category=18271" rel="tag">中国台北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90/?category=18271" rel="tag">北京奥运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -772,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -782,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,158 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%93%81%E7%8E%A9-%E4%BA%B2%E8%87%AA%E5%8F%82%E5%8A%A0%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93/" target="cdt-mirror">品玩 | 亲自参加“表情包大战”是一种什么样的体验？</a>
+</h2>
+<p><p><strong>或许你已知道，在 Facebook 的中文圈子中正在进行一阵史无前例的 “ 大战 ” ，这就是 “ 周子瑜事件 ” 持续发酵引起的两岸 “ 表情包大战 ”。 今晚（2016年1月20日）百度贴吧李毅吧宣布了 “ FB圣战 ”，把这场表情包大战打到了最高潮。不过这场表情包大战的结局，却委实出人意料 …… 我们采访了一位亲历这场战争的大陆青年，听听他的“战争故事”。</strong></p>
+<p>或许你已知道，在 Facebook 的中文圈子中正在进行一阵 “ 大战 ” ，这就是 “ 周子瑜事件 ” 持续发酵引起的两岸 “ 表情包大战 ”。 在 “ 周子瑜事件 ” 和蔡英文当选台湾地区领导人之后，岛内舆论沸腾。媒体与部分网民纷纷发布对大陆的激烈言论。不少大陆网民，也开始组织 “ 反击 ”，他们的武器，就是在微博和微信上红极一时的表情包。今晚（2016年1月20日）百度贴吧李毅吧宣布了 “ FB圣战 ”，把这场表情包大战打到了最高潮。不过结局，却委实出人意料……</p>
+<p>我们采访了一位参与此次表情包 “ 圣战 ” 的大陆青年，为了尊重他的意见，我们将他化名为他最喜爱的动漫角色 —— “ 美琴 ”</p>
+<hr><p><strong>PingWest：你是如何知道这场“圣战”的？</strong></p>
+<p>美琴：我有自己的脸书账号，从大选开始就关注，然后看到这个活动是在帝吧（注：即百度贴吧李毅吧），帝吧有人发帖，然后贴出了群号，里面号召会PS的去P图，会外语的去翻译。然后我会中日韩英几门语言，我就去了。</p>
+<p>这是贴吧图片：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/245661258248017422.jpg" alt="245661258248017422" width="450" height="550"></p>
+<p><strong>PingWest：然后呢？</strong></p>
+<p>美琴：加入群组之后，在总群中有个群主给出了一篇文章，里面介绍了大陆人对于周事件的看法，然后就是希望我们在google+和youtube上遇到了外国人，可以用外语介绍我们的情况，免得他们误会国人的意思，影响中国的形象，其中我和其他小伙伴分到了英语组，日语组和文言组。其他的还有德语，法语，俄语，意大利语和西班牙语，甚至连泰语组都有。</p>
+<p><strong>PingWest：还有多国文字版？</strong></p>
+<p>美琴：我给你看看，这是大家一起翻译的东西，各种版本都有，其中中文是原始版本，还有人写了绝句，文言文和楚辞版。</p>
+<p> </p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/394769822383031110.jpg" alt="394769822383031110" width="450" height="777"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/420810703023527450.jpg" alt="420810703023527450" width="450" height="801" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/420810703023527450-575x1024.jpg 575w, http://chinadigitaltimes.net/chinese/files/2016/01/420810703023527450.jpg 719w" sizes="(max-width: 450px) 100vw, 450px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/497424423723140855.jpg" alt="497424423723140855" width="450" height="648" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/497424423723140855-711x1024.jpg 711w, http://chinadigitaltimes.net/chinese/files/2016/01/497424423723140855.jpg 719w" sizes="(max-width: 450px) 100vw, 450px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/574178463326036762.jpg" alt="574178463326036762" width="450" height="704" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/574178463326036762-192x300.jpg 192w, http://chinadigitaltimes.net/chinese/files/2016/01/574178463326036762.jpg 515w" sizes="(max-width: 450px) 100vw, 450px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/786348296810935608.jpg" alt="786348296810935608" width="450" height="916"></p>
+<p><strong>PingWest：那你在其中的贡献是什么呢？</strong></p>
+<p>美琴：我在指挥部，不在前线，哈哈，我在大陆墙内帮忙翻译前线发回来的外语，然后是帮忙编辑图片，再让前线的人用。自己用手机刷刷脸书看看战况，我本人并没有参与斗图和骂战。因为我只有一个真实的脸书账号，怕被人肉和封号。</p>
+<p><strong>PingWest：具体开战的时间是？帝吧兄弟们士气如何？站前有誓师大会吗？</strong></p>
+<p>美琴：誓师大会，倒是没有，一开始有一个编号10534的斗鱼直播间在6:30左右开播，直播注册脸书账号，然后给大家普及事件的前因后果，大家在重返了解事情原委的前提下在7:00准时转向脸书战场，形成计划是7:00-7:15三立新闻，7:15-7:30苹果日报，往后是蔡英文。</p>
+<p><strong>PingWest：为什么目标是这三家媒体？</strong></p>
+<p>美琴：三立新闻是专门骂国人“强国人”和“玻璃心”的绿媒。是重点的进攻对象，其次是苹果日报，是“台独女神”的塑造者。</p>
+<p><strong>PingWest：第一波战况如何？</strong></p>
+<p>美琴：基本上屠版。全是社会主义核心价值观和八荣八耻。</p>
+<p>但是后面，对方也开始享受这种交流了。这已经不是在战斗，而是在狂欢了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/902421526000626548.jpg" alt="902421526000626548" width="450" height="744" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/902421526000626548-620x1024.jpg 620w, http://chinadigitaltimes.net/chinese/files/2016/01/902421526000626548.jpg 719w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p><strong>PingWest：台湾那边就没有反击吗？</strong></p>
+<p>美琴：反击就是互相调侃。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/5112690316292100481.jpg" alt="5112690316292100481" width="450" height="680" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/5112690316292100481-677x1024.jpg 677w, http://chinadigitaltimes.net/chinese/files/2016/01/5112690316292100481.jpg 750w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p><strong>PingWest：除了调侃，他们还说些什么？</strong></p>
+<p>美琴：很意外地在认真地回复各种问题。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/708411176754250386.jpg" alt="708411176754250386" width="450" height="698" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/708411176754250386-660x1024.jpg 660w, http://chinadigitaltimes.net/chinese/files/2016/01/708411176754250386.jpg 750w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p><strong>PingWest：那么大陆网友的反应呢？</strong></p>
+<p>美琴：苦笑一下，继续发表情包丫。比如说这个，他们已经会用尔康了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/623532677663175824.jpg" alt="623532677663175824" width="450" height="692" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/623532677663175824-195x300.jpg 195w, http://chinadigitaltimes.net/chinese/files/2016/01/623532677663175824-666x1024.jpg 666w, http://chinadigitaltimes.net/chinese/files/2016/01/623532677663175824.jpg 719w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p>这哪里还是吵架……</p>
+<p><strong>PingWest：没有台独分子来战斗吗？</strong></p>
+<p>美琴：三立就是绿媒啊，只不过这个时候已经是一副来玩的样子了，大家真正这样正面打起来反而没怎么骂了。</p>
+<p>绿营的人在大家大部分都是绿的时候，骂蓝的和大陆人就会很恶心，但是单独作战的时候反而更像普通人。前一段时间微博上也有一个绿营的和大陆人吵着吵着开始聊电视剧聊吃的了。</p>
+<p><strong>PingWest：这么容易就赢了，会有人觉得不过瘾么？</strong></p>
+<p>美琴：有什么过瘾不过瘾的，大家不过是假装来打架，却发现大家带的都是面包而不是砖头而已。指挥总部在发起总攻之前在群里都说了，尽量发吃的玩的，只骂“ 台独 ”不骂 “ 台湾同胞 ”，和外国人好好交流，不要带脏话，不要骂人。“我们是劝出走的兄弟回来的，不是赶别人分家的”。</p>
+<p><strong>PingWest：那其他两场战役如何？</strong></p>
+<p>美琴：仔细想想，其实指挥部那边召集的网友，各种语言都会，还清楚历史政治，有的还是海外侨胞，各种和台胞好好解释，好好说。我觉得那个群里面的也都是起码本科文凭以上的吧，大家说话做事意外地干净团结。</p>
+<p>比起 “ 三立 ”，苹果日报根本不回复网友的评论，是骂的最惨的，但也基本就是八荣八耻和中国梦屠版而已，蔡英文那边因为关闭了图片评论，所以大家都是在话的后面手动带“ jpg ”和“ gif ”。比如说 “ 手动斜眼.jpg ”。</p>
+<p><strong>PingWest：可是台湾人跟得上这些梗么？</strong></p>
+<p>美琴：跟不上啊，所以有很多台湾反而私聊找我们大陆的孩子要图包，或者是问，你们这是什么意思啊？</p>
+<p><strong>PingWest：那你会给他们介绍吗？</strong></p>
+<p>美琴：会啊。就是来普及知识，交朋友的嘛，难道还真的指望可以说服对方嘛，不都是在找共同点。</p>
+<p>PingWest：那你看最后，这场仗的结果是谁赢了？</p>
+<p>美琴：兄弟间的打架哪里会有输赢呢，记得有句话，大部分的争吵都是 “ 名词之争 ” 。就这次脸书大战而言，没有输赢，陆方没有说服任何人，台湾也没有说获得什么的。如果说硬要有赢家的话，那就是中华民族和扎克伯格了吧。前者的感情又加深了一些（各种意义上）后者可以开始准备中国市场了，墙快倒了。</p>
+<p><strong>PingWest：那你亲身经历或者看到的与对岸的互动，哪一次最让你印象深刻？</strong></p>
+<p>美琴：有一次我和一个台湾的男生吵起来了，他说台湾是一个国家，然后我就开始引经据典，然后跟着社团里有其他的同学加入进来，互相讨论。不知道怎么吵得，后来我们就开始讨论怎么统一了。就变成了，他在说我们不接受大陆这边什么什么，我这边就一一给他解释，分析利弊，他有时候也同意，最后就说，希望有一天统一，到对岸找你们玩。噗，不是要独立的嘛，他后来嘿嘿，说也挺想去你们那边玩的。</p>
+<p><strong>PingWest：好的，那我们说说大陆这边，上次大陆网民进入蔡英文主页引起很大争议，相信这一次也不会少。应该有不少人会说今天跟你一起作战的这些人是愤青，小粉红，喝狼奶长大的一代等等，你跟他们的接触，你认为他们是吗？</strong></p>
+<p>美琴：不是呢，我觉得国内有太多人有这样的误解，比如我的同学也不认同我去帮他们，同学说我在帮助愤青，反而会抹黑中国的形象。我个人是这么想的，湾湾们之所以会说我们是喝毒奶粉长大的，是被洗脑的一代，是因为他们的媒体只报道这些，他们有些人到现在还认为大陆没厕所，有厕所也没门，我也不知道为什么会这样认为的。但是大家确实是有这样那样的误解，那该怎么办呢，会翻墙，想翻墙的大部分人其实是有自己的辨别能力的。如果我们去解释呢？没错，孤军奋战只会被占大多数的台湾人呛回来。那该怎么办呢？就要形成我们的话语权，带着我们的大部分人过去。让我们在海外也应该有自己的一个地盘，有自己说话的权利。我认为这次翻墙过去的孩子，本身并不了解事情的真相，比如那个翻墙去了 “ 三立娱乐星闻 ” 的孩子，他根本不知道三立新闻和三立娱乐的区别。大家根本不知道为什么翻墙过来，都是来凑热闹的。但是这样的人，是大多数人群，他们的存在就是让这次大战政治意味不那么浓，让大家真的是在闹腾，在狂欢，而不是在打仗。我不认为他们是五毛，是愤青，相反他们是一群好奇的人，好奇到费劲力气翻过高高的围墙去了解外面的世界的人，这里应该用老培的漫画，加上那句写给湾湾的话：“ 我们的墙是技术上的，你们的墙是在心里的 ”。</p>
+<p><strong>PingWest：你觉得这场“战争”真的能够解决这些沟通的问题吗？</strong></p>
+<p>美琴：交流最可怕的不是内容的对错与否，而是连交流的欲望都没有了。就好像一对恋人吵架，如果连骂的心都没了。这段感情就真没了。我并不指望这种做法可以唤醒多少台独青年，或者说能让统战前进多少，甚至改变国家形象，但是有一点，就是像我们刚才讨论的一样，整个骂战，斗图到最后都变成了互相讨论美食和美景的时候。就说明，只要有交流的意愿，总比两个人都不说话强。fb大战的目的不在于说服任何一方，而是让双方都知道，对方不是只能看标签的敌人，而是活生生的人。</p>
+<p><strong>PingWest：那你的感触是？还没有问你为什么要参加这场“战争”呢。</strong></p>
+<p>美琴：我啊，还是那句话，在 “ 经历历史 ” 。希望推到柏林墙的那个时候，可以在墙上留下自己的手印。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%93%81%E7%8E%A9-%E4%BA%B2%E8%87%AA%E5%8F%82%E5%8A%A0%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/dcard%EF%BD%9C/" target="cdt-mirror">Dcard｜匿名：我是陆生，我不反对台独</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB.jpg" alt="台北故宫 " width="640" height="425" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"><p>台北故宫</p></div>
+<p>（为了个人安全，还是隐去了学校。。）</p>
+<p>作为一个普通的大陆人，我从小也是那种洗脑教育生产线生产出来的。但是可能因为自己性格比较叛逆，所以一直对ccp存在质疑。当然对于台湾问题，我一直是希望能有一个统一的强大的中国。</p>
+<p>但是后来慢慢的，我觉得我梦想中的“中国”，并不是中华人民共和国。一个1949年成立的国家，竟然在1945年成为了二战战胜国。在国庆66周年之時，竟然阅兵庆祝抗日战争胜利70周年。红军从抗日战争开始时的几万人，发展到抗日战争结束时的几百万人，你课本突然告诉我，中共是抗日中流砥柱？这tm是大肠杆菌吧！不是摆明了：一分抗日，两分应付，七分抢地盘！（说实话我小时候一直以为当时蒋介石和日本人联合起来屠杀中国人，只有中共死死支撑抗日）</p>
+<p>类似这些充斥谎言的知识，居然成为了我们考中学，考大学，考硕士时候的试题！这样的考试，居然也会成为筛选人才的一个门槛！我十分不愿意为这样的政府背书。</p>
+<p>至于这次的周子瑜的事情，我觉得，就算ta是台独主义者，又怎么样？难道不允许言论自由吗？如果这个国家只允许说一种话，那这种国家还不如推倒重来！一个政党主张统一，这个是ok的，但是需要用自己的魅力来感化对方啊，而不是靠野蛮的打压。在国际上利用自己的强势打压别人，在国内宣传“台湾人民盼望统一，痛恨台独”，这样除了给人民带来错误认知，给执政党贴金，还能带来什么呢？即使“统一台湾”是一个很好的政治主张，但是如果这个好的主张需要用谎言来维持，那它还能算好的主张吗？</p>
+<p>还在大陆读书的时候，我经常和另一派的同学讨论这个问题，我一直为台湾说话，觉得台湾是我们大陆民主发展的榜样，大陆走向民主制度是必然的。来了台湾以后，也有一些新的认识，感觉到台湾的民主确实已经渗透到各个角落，但是也有一些缺憾，比如说立法委员的参政议政水平似乎比较差；执政党与在野党对于一些事情总是为了对立而对立，并没有真正考虑到真正的利弊分析。但是总不能因为缺憾而否定民主的意义。而在当前这种两岸强弱分明的情况下，如果发生统一，那台湾的民主必然被牺牲，那真是华人世界的悲哀！所以我个人坚定地说，在当前情况下，我绝对反对“统一”！对于未来的情况，我也乐观的希望，大陆能够彻底的民主化改革，一定一定不要专制。当民主中国到来的时候，再谈统一问题，顺势而为。</p>
+<p>总之，我坚定支持：台湾不属于中华人民共和国！</p>
+<p>天佑民主！天佑中华！</p>
+<p>看板：心情 發文時間：2016年1月17日上午10點06</p>
+<p>以下网民评论来自原论坛版面：</p>
+<div>
+<div>
+<p> <button type="button">下一篇</button> <button type="button">回應</button> <button>至底</button></p>
+<div>
+<div>
+<div>
+<h3>按讚給作者鼓勵吧 : )</h3>
+<div>
+<div>
+<p><button type="button"> 喜歡 9291 </button><button type="button">回應</button><button type="button"> 追蹤 </button></p>
+<div>
+<p><button type="button">更多</button>人氣回應</p>
+<p>希望中國內部多一點像你一樣明理的人 中國一直打壓我國才造就了我們的反感 如果能學會尊重我國為一個國家、且是友善而非否定和打壓 其實應該很多人不反對兩國有合作關係吧？（至少我是不反對啦）</p>
+<p>屏東大學<br>
+B6<br>
+2016年1月17日上午10點12<br><button type="button"> 喜歡 2054 </button></p>
+<p>中國領導人換你來當該有多好</p>
+<div>
+<p>共 478 則回應</p>
+<p>輔仁大學<br>
+B3<br>
+2016年1月17日上午10點11<br><button type="button"> 喜歡 3104 </button></p>
+<p>希望中國內部多一點像你一樣明理的人 中國一直打壓我國才造就了我們的反感 如果能學會尊重我國為一個國家、且是友善而非否定和打壓 其實應該很多人不反對兩國有合作關係吧？（至少我是不反對啦）</p>
+<p>靜宜大學<br>
+B4<br>
+2016年1月17日上午10點09<br><button type="button"> 喜歡 100 </button></p>
+<p>謝謝您！</p>
+<p>東華大學<br>
+B5<br>
+2016年1月17日上午10點34<br><button type="button"> 喜歡 386 </button></p>
+<p>原po我愛你 謝謝你尊重台灣人 我們雖然現在或許立場不同 甚至國家不同 可是祖先是同胞  如果大陸人都跟你一樣 兩岸一定可以和平友好，相親相愛</p>
+<p>屏東大學<br>
+B7<br>
+2016年1月17日上午10點12<br><button type="button"> 喜歡 164 </button></p>
+<p>嗚嗚好感動，如果兩岸的人都像你這麼理性就好了。</p>
+<p>文藻外語大學<br>
+B8<br>
+2016年1月17日上午10點15<br><button type="button"> 喜歡 351 </button></p>
+<p>原本要複製翻成繁體 結果原波自己很貼心哈哈哈哈哈 簡體我真的無法啊啊啊啊 BTW這篇推一個</p>
+<p>逢甲大學<br>
+B9<br>
+2016年1月17日上午10點53<br><button type="button"> 喜歡 130 </button></p>
+<p>相信你們有些人的想法一定是開明的 對於你的看法我也覺得該受到言論自由的保障，也希望在未來溝通上可以理性、而不是互罵，最後促成和平的局面。</p>
+<p> </p>
+<p>逢甲大學<br>
+B12<br>
+2016年1月17日上午10點30<br><button type="button"> 喜歡 235 </button></p>
+<p>為什麼台灣人在這次選舉用選票表現出這麼討厭親中,統一的路線 我想就是源自於對於中共政府的不信任 從動車事故,到香港銅鑼灣書店股東員工失蹤 且如果若是中國願意尊重台灣是一個獨立的國家的事實 就像B3說的,應該會有很多人是不反對中國的,甚至我們可以有許多合作的機會也不一定 再來,台灣的立委,議員水準參差不齊,我想可能與我們的民主還太年輕有關 但是這次的選舉讓多種訴求不一樣的政黨都出現了 成熟的民主,不是一蹴可幾,是需要隨著時間不斷的進步來慢慢完成的</p>
+<p>國立臺南大學<br>
+B16<br>
+2016年1月17日晚上8點13<br><button type="button"> 喜歡 21 </button></p>
+<p>原Po超棒啊啊啊啊啊</p>
+<p>義守大學<br>
+B18<br>
+2016年1月17日晚上9點50<br><button type="button"> 喜歡 49 </button></p>
+<p>推原po 理性又有見解 我也覺得如果大陸也是民主國家 我也不排斥統一 畢竟資源跟實力的確是擺在那的 謝謝你讓我看到理性的中國人</p>
+<p>Sierra Col<br>
+B19<br>
+2016年1月17日晚上10點04<br><button type="button"> 喜歡 89 </button></p>
+<p>抱歉歪樓  不過大腸桿菌是什麼梗嗎？好好笑喔！</p>
+<p>高雄海洋科大<br>
+B20<br>
+2016年1月17日晚上10點34<br><button type="button"> 喜歡 97 </button></p>
+<p>推原po的勇敢和獨立思考能力。 我認識的蒙古朋友知道我是臺灣人後，非常激動地說蔣介石是抗日英雄云云… 中國人口眾多，各地素質不一，未建立民主素養，推動民主還有很長的路要走。但可以從部分地區選出地方首長著手。 我認為中國政府遲早必須告知真相給民眾，主動開放某些供民眾爭取權利的管道，否則人們一旦越來越接觸他國查到了真相，或者某些人權遭到忽視，人才只會不斷覺醒與出走。欺騙最終引致失望的反彈。 老實說，若中國從一開始就不會進行思想控制的行為，臺灣人根本不會這麼反中啊！ 這年頭，國家若動用武力會引起國際輿論撻伐，網路發達時代中，縱使進行鎮壓與封鎖，還是會滲出真相。 所以中國若持續維持現狀，縱使臺灣不獨，中國自己也會亂，只是時間問題罷了。</p>
+<p>文化大學<br>
+B21<br>
+2016年1月17日晚上11點45<br><button type="button"> 喜歡 58 </button></p>
+<p>看完才發現  B1  有翻譯<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/card%EF%BD%9C/" target="cdt-mirror">Card｜匿名：我是陆生，我不反对台独</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB.jpg" alt="台北故宫 " width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>台北故宫</p></div>
@@ -814,60 +963,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B4%BB%E4%BD%9B-%E6%94%BF%E5%BA%9C%E8%AF%B4%E4%BA%86%E7%AE%97/" target="cdt-mirror">奇闻录 | 是不是活佛 政府说了算</a>
-</h2>
-<p><p>据新华社报道，<a href="http://hf.tibet.cn/">藏传佛教活佛查询系统</a>1月18日正式上线。这套在线查询系统第一批公布了870位境内活佛信息，是国内宗教教职人员身份信息首次实现互联网查询。目前，该系统已在中国佛教协会网站、国家宗教事务局网站和中国西藏网同步上线。<span></span></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/45652.jpg" alt="45652" width="600" height="463" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/45652-300x231.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/45652-768x592.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/45652.jpg 971w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>据中国佛教协会介绍，藏传佛教活佛查询系统在电脑和手机上都可以使用，系统公布了按照宗教仪轨和历史定制认定、经政府批准的境内活佛的8项信息，分别是照片、姓名、法名、法号、出生年月、教派、活佛证号和所在寺庙，照片都打上了中国佛教协会的水印，防止盗用。目前四川甘孜州、阿坝州和木里县的活佛信息正在进行核对，也将于近期在系统中公布。新转世的活佛信息也将及时收入数据库，实现每一位活佛可查询。</p>
-<p>“作为一名活佛，我感到由衷的高兴。”在查询系统上线发布会上，中国佛教协会副会长、西藏孝登寺第七世珠康活佛珠康·土登克珠表示，他也解释了为什么要打造这个系统：</p>
-<p>第一句话：意义很重要。他说，查询系统的上线是推动宗教教务公开的重要措施，对于进一步规范活佛转世事务具有重要的积极意义，利教利国，功德无量。</p>
-<p>第二句话：现实针对性很强。他说，近年来，一些人在藏区和内地冒充活佛招摇撞骗，损害信教群众利益，败坏藏传佛教和活佛群体的声誉。</p>
-<p>第三句话：高僧的呼声很高。他说，很多藏传佛教活佛高僧强烈呼吁对藏区的活佛重新进行登记造册上网，方便社会公众查询。</p>
-<p>第四句话：效果会很好。他说，现在有了活佛查询系统，有助于更好地保护藏传佛教界的合法权益，也有助于增进社会各界对藏传佛教和活佛群体的了解。</p>
-<p>活佛转世是藏传佛教特有的传承制度，产生于13世纪，已形成了一整套严密的宗教仪轨和历史定制。2010年，中国佛教协会开始制发藏传佛教活佛证。目前，绝大多数按照宗教仪轨和历史定制认定、经政府批准的活佛都已经领到了证件。</p>
-<p>而在藏传佛教活佛查询系统上线仪式上，中国佛教协会会长学诚法师表示，汉传佛教的僧尼信息也将在网上公开。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B4%BB%E4%BD%9B-%E6%94%BF%E5%BA%9C%E8%AF%B4%E4%BA%86%E7%AE%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BB%E4%BD%9B/?category=18271" rel="tag">活佛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BB%E4%BD%9B%E6%9F%A5%E8%AF%A2%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">活佛查询系统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99/?category=18271" rel="tag">藏传佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%AD%99%E7%AB%8B%E5%B9%B3%EF%BC%9A%E9%A2%86%E5%AF%BC%E4%BD%93%E5%88%B6%E7%9A%84%E4%B9%B1%E8%B1%A1%E4%BD%95%E4%BB%A5%E5%BD%A2%E6%88%90%EF%BC%9F/" target="cdt-mirror">孙立平：领导体制的乱象何以形成？</a>
-</h2>
-<p><p>经常在各地跑，发现一个很有意思的问题，这就是领导体制乱象。</p>
-<p>无论是政府机构中，还是国有企事业单位， 举凡任何一个行政组织中（私企除外），都涉及到一个最基本的问题：谁是最高决策者，反过来说，谁是最高责任者。</p>
-<p>回顾一下改革开放之初。</p>
-<p>当时鉴于过去权力过于集中的教训，开始推行三方面的体制变革：一是强调分权，尤其是中央与地方的分权（也包括向企事业单位的分权）；二是强调集体领导的体制，以防止将权力过多地集中到个人手里（指一把手）；三是推进党政分开的制度。</p>
-<p>在其后形成的体制中，虽然一把手的权力也是很大的，但其后的几把手，仍然有很大的独立决策权，特别是在其主管的领域和部门事务中。一些重要的决策，则往往要经过集体决策的程序，而这种程序在很大程度上并不是走过场的。而在党政分开制度能落到实处的地方，实际上出现了双首长体制（如市委书记和市长）。</p>
-<p>这种体制从防止权力过分集中的角度说，当然有道理，但其实仍然是一种很蹩脚的体制。集体领导，说穿了，就是在缺乏权力外部制衡的情况下，用权力内部分散来实现权力制衡的一种安排。但由此产生的弊端也是明显的。首先，分权后，一级行政组织的集体决策者向谁负责？比如说一个学校，如果把权力下放给校长们，校长们向谁负责？其次，很多事情在集体领导的名义下互相扯皮，效率低下。更有许多地方，实际上是内斗不止。</p>
-<p>这一点，在地方政府实际上充当经济发展发动机的情况下，问题越来越明显。现实的要求，推动着权力向一把手集中，而模糊的规则和制度，则为这种集中提供了空间。因此，在过去20年间，总的趋势是权力越来越向一把手集中，所谓集体领导实际上已经名存实亡。特别是在一度实行的书记兼人大主任的体制中，一把手专权的模式开始制度化。</p>
-<p>一把手专权的体制有利于提高效率，但弊端更为明显。因为这种一把手专权的体制是在缺乏其他权力制约的情况下发生的，于是各个地方的一把手就越来越像一个地方的土皇帝。所谓县委书记现象（成为腐败重灾区）就是这样形成的。</p>
-<p>这其中还有一个问题，因为我们在字面上不能放弃集体领导的说法，这样字面上的集体领导也就成为专权的一把手在决策失误时推卸责任的冠冕堂皇的理由（最常见的情况就是，书记是最高决策者，但出了问题，则要由行政负责人担责）。此中可以见到权责的混乱。</p>
-<p>这当中还有一个很值得玩味的状况。由于所谓集体领导的制度安排是很模糊的，在现实中，往往是领导者尤其是一把手的能力性格等因素决定了实际的运作的情况。这样，到了本世纪前十年，在中央层面上实行的实际是九龙治水的集体领导体制，而在地方的层面，则是一把手专权越来越明显。这种情况更进一步加剧了权力内部的失控。</p>
-<p>于是，就有了18大之后的再集权化过程。</p>
-<p>以上，是现象的过程描述。下面，我们进行理论上的分析。</p>
-<p>在现代社会中，最有效率的体制是委托–代理关系明确前提下的首长负责制。下面是百度的首长制词条：首长制又称一长制或独任制，是指行政组织的法定最高决策权由行政首长一人执掌的行政组织体制。其基本特征是行政首长对行政机关各种事务拥有最终决定权，一人决定一切行政措施，其他领导成员均为行政首长的幕僚，只有建议权，而无决定权。美国的总统制是首长制的典型。如林肯总统某次召集七位部长开会讨论一个重要问题，七位部长均反对林肯的意见，但林肯仍坚持自己的主张，并最后宣布说：“七人反对，一人赞成，赞成者胜利。”</p>
-<p>词条接着说：首长制的优点在于：权力集中、指挥灵敏、责任明确、减少扯皮，办事果断行动迅速、效率较高。</p>
-<p>这种首长制其实有两个具体安排。第一，首长或一把手组阁制。即副手及各部门负责人由一把手选定任命。即我们通常所说的一朝天子一朝臣。这样做的好处是，能保障首长意志的贯彻执行。第二，首长或一把手拥有最终决策权。</p>
-<p>但首长制的前提是，必须要有明确的委托代理关系。比如，美国的总统，是选民选出来的，要对选民负责，你可以自己组阁，但你得对你自己组的这个阁负责任。如果你组的阁不称职，你要做好下台的准备。同时，为了防止行政首长专权，还要设立各种制约的措施，比如外部权力的制衡，舆论的监督等。但很明显，在这种制度安排之下，最高行政首长的决策一旦做出，执行起来是高效率的。</p>
-<p>明确的委托代理关系和制衡机制这两个前提非常重要。反观我们的体制，首先是缺乏这些前提。由于委托代理关系不明确，同时也由于缺乏有效的制衡机制，就无法名正言顺地实行真正的首长负责制。前些年，云南等一些地方曾进行过一把手组阁的试点，但最后不了了之。问题的原因就在这。因此，我们现在实行的，在名义上的是集体领导体制，而实际上是名不正言不顺的首长制。</p>
-<p>这其实是一种很混乱的体制。说是集体领导，但又无法真正实行，就是真正实行了，也是弊端多多。但由于这种原则上的集体领导体制，又不能名正言顺的组阁。于是，每一个新的领导上任，面对的都不是自己的人。要把相当的精力放在漫长而复杂的换人的过程中。无处不在的权力斗争即由此而来。</p>
-<p>在这种缺乏明确委托代理关系的委派制中，为了保障上级对下级的控制，防止下级抱团儿对付上级，上级往往不能容忍下级的几个主要领导关系过于密切；但为了保障工作的正常进行，也不能允许其关系过于紧张。结果是各揣心腹事，互相掣肘。从现实来看，各个地方的一二把手关系都是一种非常微妙的关系。</p>
-<p>但无论是在什么情况下，在分权制下，由于没有明确的委托代理关系，上述问题解决不了，就只能靠更不规范的方式，如党管干部、党的纪律、政治觉悟等来保障体制的运作。然而，在今天的社会，这些因素能起的作用越来越有限。</p>
-<p>在毛泽东的时代，曾经是靠高度中央集权的方式来解决这个问题。当时，不仅下级官员是上级委任的，而且要隔级委任，即地市级的主要负责人也要由中央委任。目的是确保上级对下级的控制。但随着市场经济体制的建立，经济社会生活的复杂化，这样的体制在很大程度上已经成为不可能。</p>
-<p>这样，就形成了一种既不能体现民主的原则，又不能达成效率的目标的体制。这告诉我们，如果不能通过民主的方式将委托代理关系落到实处，仅仅通过行政体制框架内的集权或分权来解决问题，是不可能的。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%AD%99%E7%AB%8B%E5%B9%B3%EF%BC%9A%E9%A2%86%E5%AF%BC%E4%BD%93%E5%88%B6%E7%9A%84%E4%B9%B1%E8%B1%A1%E4%BD%95%E4%BB%A5%E5%BD%A2%E6%88%90%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -879,7 +974,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -889,5 +984,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

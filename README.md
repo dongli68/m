@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A7%B0%E7%91%9E%E5%85%B8%E5%85%AC%E6%B0%91%E5%BD%BC%E5%BE%97-%E8%BE%BE%E6%9E%97%E6%B6%89%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">自由亚洲｜新华社称瑞典公民彼得.达林涉危害国家安全案件</a>
@@ -36,6 +36,37 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A7%B0%E7%91%9E%E5%85%B8%E5%85%AC%E6%B0%91%E5%BD%BC%E5%BE%97-%E8%BE%BE%E6%9E%97%E6%B6%89%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%BC%E5%BE%97-%E8%BE%BE%E6%9E%97/?category=18271" rel="tag">彼得.达林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8F%B0%E6%B9%BE%E5%85%AC%E6%B0%91%E5%9B%A2%E4%BD%93%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E6%8E%A8%E5%8A%A8%E5%92%8C%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3/" target="cdt-mirror">美国之音｜台湾公民团体要求停止推动和中国有关的争议政策</a>
+</h2>
+<p><p>台湾公民团体召开记者会要求停止推动和中国有关的争议政策</p>
+<p>台湾总统大选之后，一些公民团体要求马英九政府停止推动和中国有关的争议政策。</p>
+<p>台湾公民团体经济民主连合召集人赖中强律师表示，台湾总统大选之后，马英九政府已经进入看守内阁的阶段，应该停止继续推动和中国有关的争议政策。</p>
+<p>他说：“我们也要求蔡英文主席即将组成的政权交接小组应该清楚坚定的向马政府传递讯息，就是这9大争议政策不可以再执行，绝对不能放水。”</p>
+<p>废止政策</p>
+<p>赖中强还呼吁，即将上台的民进党政府应该废止这些和中国有关的争议政策，以免辜负选民的期待。</p>
+<p>台湾一般舆论认为，国民党政府在这次总统大选严重挫败的主要原因是采取了太过倾向中国的政策，年轻选民尤其对此感到不安。</p>
+<p>台湾多个公民团体星期二召开记者会，要求看守内阁停止和中国有关的争议政策，包括开放低薪白领外劳、开放中国散户买卖台股基金、批准中国中信集团入股台湾中信金控、申请加入亚投行、提高中国观光客的限额以及两岸货贸谈判和中资入股台湾高科技产业和传媒等。</p>
+<p>内阁总辞</p>
+<p>台湾行政院长毛治国日前已经带领内阁提出总辞，马英九总统指示行政院，在总辞批准之前，政府一切正常运作，不可以有看守的心态。</p>
+<p>经济部长邓振中表示，内阁总辞之后，将不会推动新的政策，有关货贸谈判等两岸协商全面暂停。</p>
+<p>与会的台湾教授协会会长张信堂表示，亚投行日前举行首次理事会，中国籍行长金立群表示，台湾不享有主权，入会问题将经由其他成员同意并代为申请，在这种情况下，台湾如果还执意加入，等于是落入中国的主权陷阱。</p>
+<p>他说：“民进党新政府执政时，对亚投行这个事情也要慎重考虑，不要轻易答应加入亚投行，尤其台湾已经是亚洲开发银行的一部份，没有必要再加入亚投行。”</p>
+<p>张信堂会长说，中国现在的经济几乎接近泡沫化，台湾如果加入亚投行，让中国利用台湾的金援开拓相关建设，对台湾将产生不利影响。</p>
+<p>政治威胁</p>
+<p>台湾劳工阵线秘书长孙友联表示，马政府不断提高中国观光客的限额，目前已经达到每天11000人，并计划今年2月19号之前再增加每天3000人，这样的政策是在剥削环境，也使得旅游从业人员的劳动条件更加恶化。</p>
+<p>孙友联还说，随着台湾经济逐渐深化对中国游客的依赖，将能让中国政府可以透过停止观光客来台做为政治威胁。</p>
+<p>与会的民主斗阵代表蔡明颖表示，马政府计划开放低薪白领外劳来台，对大企业降低成本比较有利，更将冲击台湾年轻人的就业，并恶化青年的贫穷状况。</p>
+<p>蔡明颖还指出，劳动部应该立刻停止与世代对立、与劳工为敌，不要再重蹈过去开放国外蓝领劳工的错误政策。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8F%B0%E6%B9%BE%E5%85%AC%E6%B0%91%E5%9B%A2%E4%BD%93%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E6%8E%A8%E5%8A%A8%E5%92%8C%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
@@ -577,36 +608,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93%EF%BC%9A%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%AE%B6%E5%B0%86%E7%9F%A5%E6%9F%B4%E7%B1%B3%E8%B4%B5/" target="cdt-mirror">BBC | 中国官方媒体：“民进党当家将知柴米贵”</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160118051103.jpg" alt="专家认为，蔡英文上台意味着陆台双方都需要在两岸问题处理上作一些调整" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160118051103-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160118051103.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>专家认为，蔡英文上台意味着陆台双方都需要在两岸问题处理上作一些调整</p></div>
-<p><strong>中共官方人民日报社旗下媒体分析蔡英文当选后所面对的政治和经济难题，并指中国大陆应巩固“内部凝聚力”以处理对台工作。</strong></p>
-<p>《环球时报》周一（1月18日）发表社评，指蔡英文和民进党在台湾选举胜出后即将“全面执政”，未来台海形势仍有“很大不确定性”；但表示中国大陆应该“莫着急”，蔡英文和民进党上台后“当家将知柴米贵”。</p>
-<p>该评论指，蔡英文在两岸问题上的姿态虽然较之前的民进党总统当选人陈水扁温和，但她强调“要以台湾民意为基础”处理两岸关系，而未有公开接受“九二共识”，是“典型的民粹主义”，并且有“影响台湾现实政治的力量”，而两岸感情和台湾民众与大陆的“凝聚力”在一段时间内不会有太大改善。《环时》指大陆应该在打击“台独”的同时发展自身，从社会根本利益上推动两岸关系。</p>
-<p>“客观说，台湾与大陆的‘凝聚力’靠拉和哄是做不到的，或者是远远不够的。它在相当程度上要靠‘逼出来’，”该社评文章说，“当大陆强大到台湾继续闹别扭会危及其全社会根本利益的时候，以及当大陆有能力影响台湾政治力量和人物前途，大量台湾老百姓的生计都要直接依赖大陆市场的时候，台湾谁上台就都会把确保两岸关系健康发展放在首位。”</p>
-<p>《环时》还称，大陆在台湾问题上既有“耐心”也有“原则和底线”，而蔡英文和民进党“需要的是清醒”。</p>
-<p>“应当同时照顾两岸的民意，寻找最大公约数以及大中华的共同民意，”文章说，“试图用‘台湾民意’做筹码主导两岸关系，既不现实，也是危险的。蔡英文不应给台湾社会灌输这一幻想。”</p>
-<p><strong>“重点‘反台独’”</strong></p>
-<p>中共党报的海外版则在周一引述专家对两岸形势的讨论。专家普遍认为蔡英文最终将会调整两岸政策，而大陆的对台工作重点将是“反‘台独’”。</p>
-<p>《人民日报》海外版转载一篇新加坡国立大学东亚研究所所长郑永年教授的采访文章，郑永年在采访中指，蔡英文在意识形态上倾向“台独”，但她执政之后将最终会务实调整两岸政策。</p>
-<p>“这么多年看下来，至少从意识形态上，蔡英文仍然是倾向于台独的，”郑永年告诉华南理工大学公共政策研究院微信公号说，“不过，她掌权之后，就必须对其台独意识形态有所调整，尽管蔡英文不会很乐意这样做。”</p>
-<p>他表示虽然蔡英文不想承认“九二共识”，但实际上“台独”对她来说“已经很难是选项”。</p>
-<p>郑永年还表示，台湾当局虽然希望分散经济活动，减少对大陆的依赖，“但台湾资本的走向并不是台湾当局说了算”。</p>
-<p>“资本有资本自己的逻辑。就台湾的发展而言，资本的逻辑跟政治的逻辑是互相矛盾的。蔡英文必须从现实主义的角度意识到这一点。”</p>
-<p>不过，郑永年指，蔡英文不可能一上台即承认“九二共识”，而在外交和两岸关系经历波折和困难后才会调整：“这就是政治逻辑，尤其是她作为那么倾向于台湾独立意识形态的领导人。”</p>
-<p>另一些中国专家则表示，民进党上台后两岸关系出现一些明显的调整或是“在所难免”，而蔡英文在短期内可能不会在两岸问题上“公开挑衅”，但也不会有非常积极的作为。</p>
-<p>在《人民日报》海外版主办的一个论坛上，北京大学台湾研究院院长李义虎表示，要蔡英文接受“九二共识”是“有难度的”，指“在政治领域她仍是不接受的”，并且说如果蔡英文试图推动修改宪法来搞“法理台独”，就将“彻底突破大陆底线”。</p>
-<p>北京联合大学台湾研究院教授刘红则认为，蔡英文在胜选发言中不提“九二共识”而只说“两岸关系可持续”是显得“不真诚”，因为对大陆而言，“所谓两岸关系可持续的条件就是接受‘九二共识’”。</p>
-<p>她表示台湾政权进入了一个新阶段，即所谓“台独”执政阶段。</p>
-<p>“从这个意义上来说，未来对台工作重点恐将转变为反对‘台独’，”刘红说。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93%EF%BC%9A%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%AE%B6%E5%B0%86%E7%9F%A5%E6%9F%B4%E7%B1%B3%E8%B4%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%BF%9B%E5%85%9A/?category=18271" rel="tag">民进党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -618,7 +619,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -628,5 +629,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/card%EF%BD%9C/" target="cdt-mirror">Card｜匿名：我是陆生，我不反对台独</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB.jpg" alt="台北故宫 " width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>台北故宫</p></div>
+<p>（为了个人安全，还是隐去了学校。。）</p>
+<p>作为一个普通的大陆人，我从小也是那种洗脑教育生产线生产出来的。但是可能因为自己性格比较叛逆，所以一直对ccp存在质疑。当然对于台湾问题，我一直是希望能有一个统一的强大的中国。</p>
+<p>但是后来慢慢的，我觉得我梦想中的“中国”，并不是中华人民共和国。一个1949年成立的国家，竟然在1945年成为了二战战胜国。在国庆66周年之時，竟然阅兵庆祝抗日战争胜利70周年。红军从抗日战争开始时的几万人，发展到抗日战争结束时的几百万人，你课本突然告诉我，中共是抗日中流砥柱？这tm是大肠杆菌吧！不是摆明了：一分抗日，两分应付，七分抢地盘！（说实话我小时候一直以为当时蒋介石和日本人联合起来屠杀中国人，只有中共死死支撑抗日）</p>
+<p>类似这些充斥谎言的知识，居然成为了我们考中学，考大学，考硕士时候的试题！这样的考试，居然也会成为筛选人才的一个门槛！我十分不愿意为这样的政府背书。</p>
+<p>至于这次的周子瑜的事情，我觉得，就算ta是台独主义者，又怎么样？难道不允许言论自由吗？如果这个国家只允许说一种话，那这种国家还不如推倒重来！一个政党主张统一，这个是ok的，但是需要用自己的魅力来感化对方啊，而不是靠野蛮的打压。在国际上利用自己的强势打压别人，在国内宣传“台湾人民盼望统一，痛恨台独”，这样除了给人民带来错误认知，给执政党贴金，还能带来什么呢？即使“统一台湾”是一个很好的政治主张，但是如果这个好的主张需要用谎言来维持，那它还能算好的主张吗？</p>
+<p>还在大陆读书的时候，我经常和另一派的同学讨论这个问题，我一直为台湾说话，觉得台湾是我们大陆民主发展的榜样，大陆走向民主制度是必然的。来了台湾以后，也有一些新的认识，感觉到台湾的民主确实已经渗透到各个角落，但是也有一些缺憾，比如说立法委员的参政议政水平似乎比较差；执政党与在野党对于一些事情总是为了对立而对立，并没有真正考虑到真正的利弊分析。但是总不能因为缺憾而否定民主的意义。而在当前这种两岸强弱分明的情况下，如果发生统一，那台湾的民主必然被牺牲，那真是华人世界的悲哀！所以我个人坚定地说，在当前情况下，我绝对反对“统一”！对于未来的情况，我也乐观的希望，大陆能够彻底的民主化改革，一定一定不要专制。当民主中国到来的时候，再谈统一问题，顺势而为。</p>
+<p>总之，我坚定支持：台湾不属于中华人民共和国！</p>
+<p>天佑民主！天佑中华！</p>
+<p>看板：心情 發文時間：2016年1月17日上午10點06</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/card%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD/?category=18271" rel="tag">中华人民共和国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">国家统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%8F%B0%E9%99%86%E7%94%9F/?category=18271" rel="tag">在台陆生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BC%A0%E5%86%9B%EF%BC%9A%E4%B9%9F%E8%B0%88%E6%AD%A6%E7%BB%9F%E6%97%8F/" target="cdt-mirror">微思客 | 张军：也谈“武统族”</a>
 </h2>
 <p><p>作者：张军 加拿大多伦多大学助理教授</p>
@@ -177,7 +197,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E4%B8%9A%E5%8C%96%E9%AA%97%E5%AD%90/?category=18271" rel="tag">产业化骗子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97/?category=18271" rel="tag">电信诈骗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E6%BA%AA%E6%9D%91/?category=18271" rel="tag">石溪村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%88%E9%AA%97/?category=18271" rel="tag">诈骗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91-2/" target="cdt-mirror">【敏感词库】“青天白日旗” 、“肖钢辞职”等热点 2016-1-19</a>
 </h2>
@@ -197,7 +217,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E4%B8%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%9C%E8%8E%9E%E5%88%B6%E9%80%A0%E4%B8%9A%E8%A1%B0%E9%80%80%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B/" target="cdt-mirror">纽约时报 | 东莞制造业衰退折射中国经济转型阵痛</a>
 </h2>
@@ -848,31 +868,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2-%E5%A4%A7%E9%99%86/" target="cdt-mirror">【异闻观止】环球时报 | 周子瑜“道歉”风波 大陆网民错几许</a>
-</h2>
-<p><p>单仁平​​</p>
-<p>周子瑜“道歉”事件仍在发酵。这名台湾新出道的16岁艺人上周被黄安举报早前在韩国举“中华民国”的青天白日旗，疑似她的粉丝团表示“子瑜是台湾人，并不是中国人，台湾本来就是一个国家”，遭到大陆网民的批评。由于其签约的韩国JYP公司处理失当，引起大陆网民进一步愤慨。网上指责周子瑜和JYP公司的声音响成一片。​​</p>
-<p>这件事的发酵过程中大陆官方未做表态，大陆主流报刊、电视媒体也都未予置评。拉高这件事热度的几乎完全是网上舆论力量，表达的明显是大陆民间情绪。​​</p>
-<p>令人始料不及的是，周子瑜15日、也就是台湾“总统”选举的前一晚通过一段视频做出道歉。她在视频中向大陆批评者鞠躬，并且说自己感到“愧疚”，强调中国只有一个，“始终为自己是一个中国人而感到骄傲”。这段视频让人看到一个“在大陆舆论压力下被迫屈服小姑娘”的形象。​​</p>
-<p>很多人立刻意识到这段视频在台湾选举当日的爆炸性。民进党果然立刻动员起来，大肆炒作、强化“大陆舆论欺负台湾小姑娘”的解读，把事件朝着两岸对立的方向引。甚至一些人怀疑，民进党就是这段视频出笼的幕后策划者，要把它变成12年前陈水扁在选举关键时刻肚皮上挨的那颗子弹。​​</p>
-<p>分析人士相信，民进党这次选举的胜局早已确定，但周子瑜道歉事件刺激了台湾部分年轻选民，使蔡英文赢得更多。​​</p>
-<p>一些人指责大陆舆论为民进党获胜“帮了大忙”，把大陆网上舆论这个环节单独抽出来，夸大它的作用。​​</p>
-<p>这种看法是把一件很复杂的事简单化了，也是大陆一些人“出了问题就把责任往舆论头上推”习惯思维的表现。​​</p>
-<p>首先，大陆网民讨厌“台独”是一个事实，他们平时说话就经常挺激烈的，遇到“像台独的表现”，就会出现集体愤慨。虽然这从理性角度有推敲的空间，尤其是围绕“度”的推敲，但现实是，全世界的互联网舆论都不是把握“度”的作品。让网民理性得像专业人士，这种要求根本落不了地。情绪激烈几乎是网上舆论的天性，网上舆论的平衡也往往是一种复杂过程。​​</p>
-<p>周子瑜道歉的当天，大陆网上对她的同情声变得突出，与之前的谴责声各执一端，形成新的网上舆论局面。​​</p>
-<p>台湾所有政治人物都能看懂这是怎么回事，但他们都不顾大陆网上谴责周子瑜的舆论大背景，而是顺着表象各自发挥，榨取他们在台湾的政治利益。大陆只是网民和网络小编们的朴素自发行动，没有任何政治力量参与。而台湾的选举各方全都卷了进来，台湾方面对这件事投入的政治操作规模堪称是空前的。​​</p>
-<p>这本来就是一个娱乐事件，一名初出道的艺人被认为踩了政治线，网上舆论教训她一顿，她和公司低调些，或者采取恰当补救措施，也就过去了。但她的道歉方式变成了更重的政治炸弹，JYP或者是傻到家的娱乐公司，或者这场道歉从一开始就受到了政治操纵，融进了阴谋。​</p>
-<p>不过事情也没什么了不起，民进党本来就会赢，它多得的那些选票需要它用日后成绩来埋单的。如果民进党要靠两岸舆论的激烈对立来维持它的当政，它走的就是一条邪路，跳得越高，摔得将越重。​​</p>
-<p>大陆民众有权利表达爱国情怀，这种表达不可能总与国家的政策制定和执行合拍，更没义务为台湾某个政治集团的利益服务。当网民们的爱国表达有可能导致某种现实工作困难时，应当做工作，通过释放更多信息引导大家。但谁也不应对他们颐指气使，更不应对他们以“爱国贼”斥之。​​</p>
-<p>总体看，大陆爱国民意释放得不是太多，而是不足。国家对外打“民意牌”的经验也需不断积累。民意、尤其是爱国民意在任何国家都是社会治理的正资源。我们切莫因具体争议而怀疑这一点。▲（作者是环球时报评论员）​</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2-%E5%A4%A7%E9%99%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E5%8F%8D%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">黄安“反台独”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89%E4%B8%BE%E6%8A%A5%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">黄安举报周子瑜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -884,7 +879,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -894,5 +889,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

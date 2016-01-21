@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E5%8F%AA%E8%A6%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%9C%9F%E5%9C%B0/" target="cdt-mirror">毒舌的舌｜西坡：我们只要你们的土地</a>
@@ -51,6 +51,18 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E5%8F%AA%E8%A6%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%9C%9F%E5%9C%B0/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%8A%9B%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">武力统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%8F%8D%E5%8F%B0%E7%8B%AC%E5%B8%AE%E5%80%92%E5%BF%99/" target="cdt-mirror">【CDTV】白岩松：大陆网民反台独帮倒忙</a>
+</h2>
+<p><p>近日，韩国女团TWICE中的台湾艺人周子瑜涉“台独”事件不断发酵，在经过15日的­周子瑜道歉视频后，蓝绿领导人也发表言论，争相“安慰”周子瑜。昨日，在《新闻1+1­》节目中，白岩松对此事表态，并建议大陆网友多读些书、多了解些背景，举例劝导大陆网­民：“民进党和台湾的台独在参加他们很多活动时，肯定不会拿青天白日旗，那你就琢磨一­下你的反对是不是帮倒忙。”</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%8F%8D%E5%8F%B0%E7%8B%AC%E5%B8%AE%E5%80%92%E5%BF%99/"><em>点击这里查看嵌入的视频。</em></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%8F%8D%E5%8F%B0%E7%8B%AC%E5%B8%AE%E5%80%92%E5%BF%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E5%B2%A9%E6%9D%BE/?category=18271" rel="tag">白岩松</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -904,39 +916,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E7%89%A9%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E9%95%BF%E7%9A%84%E7%94%B5%E5%BD%B1%E5%AE%A1%E7%89%87%E5%91%98/" target="cdt-mirror">人物｜中国最年长的电影审片员</a>
-</h2>
-<p><p>每周四下午13：30，刘惠中先生乘坐公交准时抵达中国电影资料馆的301室。2015年底的一天，按计划，他要和其他两位审片员审两部从胶片转为数字的老电影。</p>
-<p>第一部是1947年拍摄的《太太万岁》，刘惠中打了62分，‌‌“我给它过了啊。‌‌”他冲一米多远的同事吼。下午审的这批老电影转化后有斑痕、黑点、忽明忽暗的技术问题，他需要把关它们是否修复到位。这只是他作为电影审片人的部分工作，每周还有两天，刘惠中要在国家新闻出版广电总局电影局审新电影。</p>
-<p>作为一名电影审片员，刘惠中是‌‌“掌握影片命运‌‌”的人之一。在中国，任何一部电影想上映必须通过广电总局的审核，拿到电影公映许可证，也就是大众熟知的红底金色的龙标。审片员队伍约50人，大多年过50，最年轻的30多岁，刘惠中75岁，一头银发，是其中最年长的一位。</p>
-<p>按照审核流程，一部电影随机分配5位审委，每位给出1—5的评分，提出修改意见。意见不同的两方互相阐述、劝服，第三人做裁判。如果无法达成统一，再换5位审委，直到全部意见一致——通过还是不通过？带修改意见通过还是修改后再审查？‌‌“最好的少，最差的少，大部分都在这肚上了。‌‌”刘惠中形容评分大多呈枣核形，他带着一口浓重的北京口音，半开玩笑地说，‌‌“别人看影片都是花钱，我看影片是挣钱。‌‌”</p>
-<p>外界认为审片员手握大权，刘惠中却没有把自己当作一名官员，‌‌“绝不是‌‌”，他视自己为制度的一枚螺丝钉，‌‌“主宰‌‌”的权力‌‌“应该是属于广电总局‌‌”，‌‌“广电总局不用你，你屁也不是‌‌”。</p>
-<p>1964年，刘惠中从北京电影学院摄影系毕业，1968年被派往越南任战地摄影。回国后，他从摄影师做起，1990年代转为导演，之后又转任制片人、艺术总监。2008年，在中央电视台电影频道做了5年审片员后，他开始在广电总局审查电影。在当审片员之前，他本有担任中国儿童电影制片厂厂长的机会，但当被告知当厂长的附带条件是不准再拍片子后，他拒绝了，‌‌“你要知道，我是一个真正玩业务的人，我一直没离开过影片。‌‌”</p>
-<p>审片员‌‌“作为国家的宣传机构，国家的主旋律，你得必须把住这口的‌‌”。他告诉记者，这份国家委派的任务没有量化标准，得靠‌‌“悟性‌‌”，‌‌“如果你的悟性不到，你掌握的标准不准，那就是你自己犯错误了。‌‌”他看报，看电视，学习党政政策，但仍觉得‌‌“政治水平不是太高‌‌”。</p>
-<p>在审查环节中，政治审查无处不在。7年前审查葛优主演的《气喘吁吁》，刘惠中提出有几个天安门的镜头色彩灰暗、不明快，‌‌“就好像旧社会似的‌‌”，但影片讲的是当代故事。尽管镜头里天安门只作为背景，刘惠中也觉得不行，他据理力争，天安门蓝天白云的日子多的是，为什么非得用灰暗的？抱着可能有类似‌‌“政治隐喻‌‌”的顾虑，他说服了其他审委，定了修改意见——‌‌“调子比较灰暗，表现新社会的画面一定要给人欣欣向荣的气氛。‌‌”制作方把画面改后又送回复审。</p>
-<p>相比修改或通过，想要毙一部影片要难得多。‌‌“过去叫毙和不毙，现在叫建议怎么修改。‌‌”刘惠中和同事交流连‌‌“毙‌‌”字也会尽量用其他词代替。想毙片时，他会旁敲侧击地说：‌‌“我觉得这个有点玄乎，你们大伙觉得怎么着？‌‌”要是意见一致，就毙，要是自己是少数，他就写个意见。‌‌“你得考虑到导演的前途，考虑到制片商的投资，考虑到社会的影响，考虑到舆论的压力，各方面都得圆满了才能动，不能轻易动这个东西。‌‌”</p>
-<p>曾有一位五十来岁的女士自掏腰包，凭家用DV自拍自导自演了一部90分钟的生平传记，想进入院线。刘惠中第一次看片后就没通过，‌‌“它不是个故事，技术上也不行，全都比较粗糙。‌‌”一般电影被毙就无法再送审了，但这片子‌‌“有能量‌‌”，前后送审了八九次，轮到刘惠中手里就有3次，对方用尽改电影名字、改公司名的伎俩，片子最终还是没过。‌‌“审片位置不是说我看，我同情你的问题……观众否则骂你，‌‌‘什么玩意儿，这玩意也都通过了‌’，你不能随便。‌‌”刘惠中说。</p>
-<p>作为审查机制的个体，审片员被广电总局完好地‌‌“保护‌‌”起来，随机安排影片，事先不告知审哪部，提交的意见表以总局的官方意见公示，不公布具体参审人员，以此避免审片员与观众、制作方直接的接触。</p>
-<p>制作方和电影导演把审片员当作阅卷者。刘惠中回忆，一次，轮到他审顾长卫的电影，顾长卫‌‌“刺溜一下，自个儿钻来‌‌”审片室，‌‌“藏在后边不敢露‌‌”。这是不被允许的，高椅背的软座和昏暗的光线恰如其分地帮顾长卫打了掩护。直到刘惠中站起来，一回头，‌‌“那顾长卫吧。‌‌”‌‌“哎哟，刘老师，刘老师。这我片子，我来看一眼。‌‌”‌‌“你怎么进来的？‌‌”‌‌“哦……哦……我干别的事进来的。‌‌”隔几句话的时间，再回头，顾长卫不在了。</p>
-<p>有时，也会出现审片方被动的局面。姜文导演的《一步之遥》上映前，被删剪的传闻众说纷纭，作为《一步之遥》的审委之一，刘惠中清楚地记得电影只改了两处，一是舒淇的台词‌‌“初夜权‌‌”改为‌‌“初嫁权‌‌”，二是大腿舞剪了一个拍得太高的镜头。‌‌“这就是发行商在发行上的一点微妙之处。‌‌”他说，观众的心理是‌‌“越说毙，越说不易看、儿童不宜，就越觉得新鲜，去看看到底什么东西。上座率就高了‌‌”。</p>
-<p>情色是审片绕不过去的元素。前几年在电影频道审片，刘惠中专门负责审核进口影片中的裸露镜头。当时电影频道对裸露的内部规定是，‌‌“女同志的裸镜头只能从后背转45度，男同志后边怎么都可以裸，正面下身不行。‌‌”那会儿，刘惠中盯着监视器，拿着回放器，一秒25帧，一点点抠，一帧帧找，直到寻找到一个合适的帧，一刀切下去，又不影响情节。</p>
-<p>审片员还需要紧跟时代的趣味。刘惠中举例说，《泰囧》曾放大过审委和观众间的审美差异，几个老专家审了，‌‌“这片子，嗯……不行。乱七八糟‌‌”，放映后却获得12.67亿的票房。《泰囧》之后再审《港囧》，刘惠中感觉不一样了，要以现代人的角度看，不能按审委个人的口味，‌‌“现在跟那会儿不一样了。尤其是男女之间的东西。你要是说这帮老审委们，那都是中规中矩的人。‌‌”</p>
-<p>他承认，自己是‌‌“比较过时的年龄段‌‌”，但心理上不落伍。在西餐厅吃饭，他买团购券。别人赌他玩不转微信，他买了一个智能手机，自学一星期全会了。对这些异于同龄人的举止，他乐意归功于‌‌“一年最多要看1200部片子‌‌”，电影中年轻人的生活更新着他的观念库。</p>
-<p>总有言论表达对电影审片制度的不满，这是一个微妙的现实，但刘惠中不会为此感到纠结，‌‌“这等于就是一项工作，按着规定走嘛‌‌”。国家使命高于一切，‌‌“（观众）对制度的不满，我们不太介入这些东西。因为国家规定的，我是受国家委托来的‌‌”，‌‌“他们（观众）直接对的是电影局，我们是具体执行人。‌‌”</p>
-<p>中国的审片制度是不是束缚太多了？可不可以实行电影分级制度？刘惠中觉得不行，因为不同国家‌‌“人的知识水平、认知度不同‌‌”，他和记者举了在奥地利讲学时观察到的例子：他站在路边看来往车辆，他一站，所有的车‌‌“唰‌‌”地停住了，他一过马路，车马上就走了。后来他搞懂了，在国外，车会自觉尊重行人，而‌‌“中国人现在的自觉性不够‌‌”。</p>
-<p>审查会变吗？会变化。刘惠中说，也许广电总局不设置审查了，由工会或制片协会之类来监督。</p>
-<p>那什么时候会变？记者问。</p>
-<p>5—6年暂时不会。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E7%89%A9%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E9%95%BF%E7%9A%84%E7%94%B5%E5%BD%B1%E5%AE%A1%E7%89%87%E5%91%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">国家广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%89%87/?category=18271" rel="tag">审片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%B2%BE%E9%80%89/?category=18271" rel="tag">广电总局精选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -948,7 +927,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -958,5 +937,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

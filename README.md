@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【真理部】“帝吧出征”事件</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/space/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98" target="_blank">“帝吧出征”事件</a>情况复杂化，地方媒体对此事要适度降温，不要进行话题推荐，特别要注意对借此事攻击国家制度、两岸关系等网友负面评论的删除，同时也要留意并制止“<a href="http://chinadigitaltimes.net/space/%E7%BF%BB%E5%A2%99" target="_blank">翻墙</a>”等有害技术信息的传播。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg" alt="" width="550" height="120" srcset="http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu-300x65.jpg 300w, http://chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81%E4%BA%8B%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%BA%E7%89%88%E5%B7%B2%E6%95%85%E7%A6%81%E4%B9%A6%E4%BD%9C%E8%80%85%E9%AB%98%E5%8D%8E%E6%96%87%E9%9B%86-%E5%B9%BF%E8%A5%BF%E5%87%BA%E7%89%88%E7%A4%BE%E9%81%AD%E5%A4%84%E5%88%86/" target="cdt-mirror">自由亚洲｜出版已故“禁书”作者高华文集 广西出版社遭处分</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/image.jpg" rel="attachment wp-att-426267"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/image.jpg" alt="资料图片：中国大陆著名学者、历史学家高华。（新浪微博）" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/image-300x248.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/image.jpg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>资料图片：中国大陆著名学者、历史学家高华。（新浪微博）</p></div>
@@ -43,6 +56,44 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%BA%E7%89%88%E5%B7%B2%E6%95%85%E7%A6%81%E4%B9%A6%E4%BD%9C%E8%80%85%E9%AB%98%E5%8D%8E%E6%96%87%E9%9B%86-%E5%B9%BF%E8%A5%BF%E5%87%BA%E7%89%88%E7%A4%BE%E9%81%AD%E5%A4%84%E5%88%86/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%87%BA%E7%89%88%E7%A4%BE/?category=18271" rel="tag">广西师大出版社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%8D%8E/?category=18271" rel="tag">高华</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A7%9A%E5%B9%BF%E5%AD%9D%EF%BC%9A%E6%8F%AD%E5%B8%96/" target="cdt-mirror">【立此存照】姚广孝：揭帖</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae.jpg" rel="attachment wp-att-426256"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae.jpg" alt="8149a40f4bfbfbeda2280a777ff0f736aec31fae" width="460" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae-300x209.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae.jpg 529w" sizes="(max-width: 529px) 100vw, 529px"></a><br><span><em>“出征” FB 表情包之一；图片来自百度贴吧</em></span></p>
+<p>神助拳，粉红团，<br>
+只因台湾要翻天。<br>
+闹独立，敢大选，<br>
+绿狗不是人所添。<br>
+如不信，请细观，<br>
+志玲妖娆似狐仙。<br>
+天津爆，汇率贬，<br>
+都怪台独气老天。<br>
+校长筑墙把蛊炼，<br>
+派我翻墙把法传。<br>
+搭梯子，买账号，<br>
+脸书推特若等闲。<br>
+VPN，3秒挂，<br>
+忍痛再花五块钱。<br>
+不用兵，只用俺，<br>
+干翻台独不费难。<br>
+刷评论，发表情，<br>
+简体换成火星言，<br>
+Chinglish美名传。<br>
+民进党，心胆寒，<br>
+邱毅躺枪哭连连。<br>
+D疼我，国爱我，<br>
+他日进宫献忠言。<br>
+百万飞弹过海峡，<br>
+人滚地留美梦圆。<br>
+一概绿狗都杀尽，<br>
+大清一统祭黄安。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A7%9A%E5%B9%BF%E5%AD%9D%EF%BC%9A%E6%8F%AD%E5%B8%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 10小时前</small>
@@ -598,159 +649,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A-%E4%BD%A0%E7%8C%9C%E6%88%91%E6%98%AF%E8%B0%81-%E4%B8%80%E4%B8%AA%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97%E6%9D%91%E7%9A%84/" target="cdt-mirror">中国新闻周刊 | “你猜我是谁” 一个电信诈骗村的诞生</a>
-</h2>
-<p><p>你可能没有听说过石溪村，但你的手机或许曾收到来自石溪村的短信。短信大部分内容是这样的：重金求子、亲人遭遇车祸、脑溢血急需手术等。对于大部分人来说，看到类似短信会一删了之，但石溪村人却靠着这种陈旧套路的诈骗手法走上了“发家致富”的道路。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/145325127791341200_a580x330.jpg" alt="145325127791341200_a580x330" width="550" height="313" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/145325127791341200_a580x330-300x171.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/145325127791341200_a580x330.jpg 580w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>石溪村位于江西省余干县江埠乡。事实上，江埠乡的“诈骗业”早已名声在外，多次被公安部列为专案督办。在百度贴吧余干吧里，有个江埠本地人提了一个有意思的问题：在江埠，除了骗，你们还能记起什么?回答也很有趣：除了骗，还有骗。</p>
-<p><strong>“白富美”落网</strong></p>
-<p>李树芳（化名）坐在凳子上，怀里抱着一个6个月大的婴孩，与她红润粗糙的皮肤比起来，孩子的脸色蜡黄。“他已经生病半个月了。”李树芳告诉《中国新闻周刊》。她摸了下孩子的脑袋，依旧笑嘻嘻的。</p>
-<p>一件粉红色的棉袄满是褶皱，上面还有孩子抓摸的污渍，下半身是一个满是圆点的粉色睡裤，配上她一米五左右的个头，显得有些臃肿和土气。唯一和时尚能够扯上关系的是她头上两缕染了色的头发，一绿一紫。</p>
-<p>出生于1989年的李树芳，是余干县江埠乡石溪村人，现在已经是3个孩子的母亲。不论是穿着打扮，还是言谈举止，李树芳都是一个典型的农村妇女。</p>
-<p>这些，很难让人联想起她的另外一个身份——一位肤白貌美，丰满迷人，身材高挑的“白富美”。当然，这只存在于电话的一头。她软言细语，周旋于众多男人之中，想尽方法从电话另一头的受害者腰包里骗取更多的钱财。</p>
-<p>如今，她因从事“重金求子”诈骗而被余干县公安局抓捕。因在哺乳期，她被取保候审。</p>
-<p>重金求子是众多电信诈骗手段的一种。作案人一般会声称自己是富婆，丈夫因年龄太大或者无生育能力，急需找一名健康男士帮助其怀孕。而他们的诱饵是成功后的重金酬谢。一旦有人“上钩”，作案人会设计各种环节让受害人不断打钱。为了引人注意，扮演富婆的李树芳把“酬金”开到了150万。</p>
-<p>利用“富婆”的身份，从2015年1月份到11月份，李树芳已经从受害人那里骗取了将近20万元，这些钱来自安徽、江苏、云南等地。如果不是在取钱的时候被警方发现，这个数目或许会更大。</p>
-<p>2015年10月14日，正在巡逻的江西省余干县黄金埠乡派出所民警琚列武接到一起报案：在中国农业银行黄金埠分理处，有一对男女因银行卡解锁与工作人员发生争执，形迹可疑。凭着5年多的办案经验，琚列武下意识判断，这可能又是一起诈骗案。</p>
-<p>这对男女，正是李树芳夫妇。琚列武赶到现场的时候，李树芳二人已经从银行出来走到马路上。“我对着他们喊‘停下来’，但男的一听声音就使劲跑。”琚列武告诉《中国新闻周刊》，这更加验证了他的猜测。</p>
-<p>被抓住后，李树芳很有警觉性，没读完小学的她，操着一口蹩脚的普通话说，他们都是从浙江来的生意人。“我们什么都没有做，为什么抓我们?”她泼辣地向琚列武喊道。</p>
-<p>“他们本人与手中的身份证、两张银行卡的开户名都对不上。”琚列武说，“口音也像余干当地的，但是两人又不承认。”琚列武开始检查两人身上的物品，他发现了一把汽车钥匙。</p>
-<p>琚列武拿着车钥匙回到银行门口，边走边试，最后在银行附近一个废弃的汽车站里找到了车。这个汽车站已经废弃了多年，偶尔会有几辆车停在这里。李树芳的车就掩藏在其他车的后面。</p>
-<p>“从车子停靠位置来说，两人应该不是第一次来这里。一般人只会把车停在街边上，知道这个汽车站的人也不多。”琚列武告诉《中国新闻周刊》。在车子里，他找到了一本行驶证，照片正是李树芳的丈夫徐家力（化名）本人。</p>
-<p>琚列武迅速调取了两张银行卡的流水，发现这张银行卡接收了来自全国各地的汇款，少则几百，多则上万。“她就是一个农村妇女，按说不可能有那么多人给她打款。”</p>
-<p>黄金埠派出所遂将李树芳二人移交给了县公安局。证据面前，李树芳承认自己正在从事“重金求子”的诈骗，并对每一笔流水账都供认不讳。</p>
-<p>其实，对于这样的情形，琚列武已经见怪不怪。每年他都要经办几起这样的案例，而取款人大多是重金求子的案犯。“现在县城里取钱管得严，所以很多诈骗犯会到黄金埠来取钱。”琚列武曾经办理过一个案件，嫌疑人甚至带了5张银行卡。</p>
-<p>李树芳居住的江埠乡位于余干县的西南方，黄金埠则在东北位置。到黄金埠来取钱，意味着李树芳要穿过整个县城。这里的派出所也已经意识到了这一点，如今，黄金埠的五家银行所在地都已经被列为巡逻的重点。</p>
-<p><strong>“是他们太贪心了”</strong></p>
-<p>一个小学都没毕业的农村妇女如何从事诈骗？</p>
-<p>李树芳依靠的作案工具只有三种，一只专门购买的魔音手机，可以变换男声和女声，一个从事诈骗所需要的剧本，还有转账用的银行卡。</p>
-<p>“这些只需要200块钱。”李树芳告诉《中国新闻周刊》，村子里的电线杆上贴有招“学徒”的广告。她只拨了一个电话，“教材”就送到了村口，一个骑着摩托车的年轻男人将东西递给了她。</p>
-<p>在余干，“重金求子”已经是产业链条齐全的行当，“有负责贴广告的，有专门打电话的，还有负责取钱的、送东西的。”江埠乡派出所的一位民警告诉《中国新闻周刊》。</p>
-<p>而围绕石溪村，周边地区已经聚拢形成了余干“重金求子”的诈骗重灾区。自2010年至今，余干总共抓获了三百六十多名“重金求子”的涉案人员，其中二百多人来自石溪村以及与它相邻的团林李家村，诈骗受害者遍布全国二十多个省区。</p>
-<p>在这里，诈骗已经成为一种好的“活计”。“有的人相亲，会问对方是做什么的，如果对方说是诈骗的，那这门婚事竟更容易成了。”一位江埠乡的大学生告诉《中国新闻周刊》。</p>
-<p>事实上，余干“重金求子”的诈骗出现要早于2010年。那时，琚列武大学毕业，在上海工作。“我当时在街头看到很多重金求子的广告，那时没有留意，但回来发现，很多都是我们余干人贴的。”</p>
-<p>与其他的电信诈骗案一样，重金求子诈骗案的作案者和受害者大多是跨区域的，二者不会产生正面接触，不在同一地区，受害者就无法提供犯罪嫌疑人特征等相关资料。也正因为如此，公安机关一时难以确定具体的侦查范围与方向。</p>
-<p>“几乎每个月，我们都会接到外地警方要求我们协查的案件，少则一两起，多则五六起。”一名余干县公安人员告诉《中国新闻周刊》，其中，就有重金求子的案件。</p>
-<p>李树芳支付了500块钱的群发短信费用后，开始收到来自各地的电话。“作案人借助手机网络、伪基站进行群发，一分钟可以发送6万条诈骗信息。”一位民警告诉《中国新闻周刊》。</p>
-<p>短信的内容大致为：本人，女，30岁，身高1.65米，肤白靓丽，楚楚动人，嫁香港富商，夫无生育能力，眼看雄厚资产无后继承，为避免纷争，借探亲之机寻找体贴、健康、品正的男子共孕，通话满意，将汇定金30万元，安排住宿见面后，体检签约，有孕重酬150万元。不影响家庭，本人亲谈，短信不回。</p>
-<p>“他们一开头就会问我要不要生孩子。也有人不相信的，我会直接把电话挂掉。”李树芳告诉《中国新闻周刊》。</p>
-<p>刚开始的时候，李树芳也会有点担心，但是随着聊天的增多，她变得游刃有余了。按照手里的剧本，在男方提出见面后，李树芳会向他提出第一笔费用，即诚意费，这发生在两人开始聊天之后。一般来说，这个金额不会太多，一般为200-300元。</p>
-<p>“他们有的人叫我老婆，我就会说自己的老公经常给我买东西，你是不是也得给我买点?”这是诈骗的第二环，以买衣服、买首饰的理由让被骗人支付更多的钱。当然，李树芳为此要设法说不少甜言蜜语。</p>
-<p>开了这些头之后，相继的费用也随之而来。两人在一起生子的公证费、同居费和打定金的手续费，各种名头一环扣一环，只是为了从受害者口袋中捞取更多的钱财。在索取公证费的环节中，为了让受害者相信，还会有一个律师的角色跟其进行沟通。</p>
-<p>“一般来说，重金求子都是有一个律师的角色相配合的，但是目前取证来看，李树芳分饰了两角。”负责此次案件的余干县公安局办案民警李云湖告诉《中国新闻周刊》。</p>
-<p>为了让受害者相信，李树芳会提出与对方见面，并声称已经到了对方所在城市的某个酒店。她会借用改号软件，让对方误以为电话真的是从当地打来的。然后在受害者上当后，借故说已经离开。</p>
-<p>根据银行流水显示，李树芳最多的一笔钱来自江苏宿迁的一位名叫韩坤（化名）的农民，金额接近6万元。从2015年6月初最初的两三百元开始，到7月底，李树芳一共从他那里收到了十多笔汇款，单笔最高的超过万元。</p>
-<p>“当我们带着材料去找韩坤的时候，他不承认自己上当了，他主要是害怕家庭受到影响。”余干县公安局刑警大队中队长时兴国告诉《中国新闻周刊》，韩坤的妻子被诊断为癌症晚期，儿子在外面打工赚钱，被骗的这些钱对他们来说是救命钱。</p>
-<p>“我就说了一两句话他就相信我了，是他们太贪心了。”李树芳并不关心被骗人到底是谁，又遭遇了哪些变故。</p>
-<p><strong>300人的大行动</strong></p>
-<p>2015年11月29日凌晨5点，余干县公安局就已经灯火通明。三百多名公安干警在一楼大厅迅速地列队整齐，民警们都佩戴了防暴枪、穿上了防弹衣。</p>
-<p>他们今天的目标就是李树芳所在的江埠乡石溪村以及其隔壁的团林李家村。“我们将50%左右的家庭列为搜查的对象，每家都有个把人从事相应的诈骗活动。”余干县公安局办公室主任谢鑫鑫告诉《中国新闻周刊》。</p>
-<p>“这是毒瘤。”余干县副县长、县公安局局长陈关华告诉《中国新闻周刊》，电信诈骗已经严重影响了余干的地方形象，“一定要连根拔起、彻底打掉。”</p>
-<p>陈关华的压力很大。从2015年开始，全国加大了对电信诈骗的打击力度。在2015年11月初公安部联合23家部委打击电信诈骗专项行动会议上，余干被点了名，并列为专项的首批目标。</p>
-<p>“考虑到行动中会碰到很多困难，我们做了最坏的打算，如果遇到暴力抗法，一定要坚决依法处理掉。”陈关华说。</p>
-<p>为了配合这次行动，上饶市公安局特警支队调动了30名特警支援，市武警支队也调动了50名武警。他们甚至专门买了一架无人机，用于搜捕时的空中侦察，防止突发事件。</p>
-<p>余干县刑侦大队队长刘华卫已经在这里工作了十多年，他告诉《中国新闻周刊》，在此之前，公安局很少有如此声势浩大的行动。“在我们县这一级，像这种大规模的执法行动，都是需要向上级请示汇报的。”</p>
-<p>石溪村依河堤而建，绵延而深长，只有村头和村尾两个行车路口。根据安排，武警和特警负责守住路口和巡逻，其他的人均在当地派出所人员的带领下进行搜查。</p>
-<p>每个搜查小队由十多人组成，包括放哨的、搜捕的。“我们年初就在准备这次行动，甚至还从市里请了教官，并购买了枪支弹药。”谢鑫鑫说。</p>
-<p>余干县公安局如此大费周章是出于对当地宗族势力的考虑。石溪村下设5个村小组，包括段家、张家、叶家、刘家、徐家五大姓氏，累计人口三千多人。“这些诈骗分子利用宗族势力结成了同盟，我们担心他们不配合，会暴力抗法。”谢鑫鑫告诉《中国新闻周刊》。</p>
-<p>石溪村的一个村民也告诉《中国新闻周刊》，以前民警去抓人，他们村里的人就会拿着耙子、鱼叉等工具堵在村口，不让民警进村。</p>
-<p>但行动比想象的顺利。江埠乡派出所的民警刘叶（化名）是石溪村的片警，已经在这里工作5年，他的任务是为行动的队伍带队，在此之前，他已经将重点搜查对象所在的位置以及周围环境摸得一清二楚。</p>
-<p>张意华是此次抓捕的重点对象。2007年，他曾在北京汽车站骗取受害者5万元钱，后在取保候审的过程中逃逸。刘叶带着县公安局民警到达他家的时候，已经是人去楼空。“前面一户一户搜下来，后面的人家听到风声，就逃走了。”</p>
-<p>在团林李家村，目标对象李森福也逃跑了。当洪家嘴乡派出所的民警带着一帮人冲到他家的时候，只有他父亲一个人蹲在家里。“他的父母劝儿子去自首，但是他本人还不愿意，一直在逃。”一位民警告诉《中国新闻周刊》。</p>
-<p>在这次行动中，公安局共抓获了21名犯罪嫌疑人，收缴了一大批用于“重金求子”诈骗活动的电脑、手机、银行卡、信号发射器。大堆的工具甚至摆满了整个办公室。时兴国对其中的微信群发器产生了兴趣。那是一种手机大小的黑色盒子，只要机器打开，就可以将周围的人强加为微信好友，群发诈骗信息。“我都不会用，诈骗又升级了。”时兴国向《中国新闻周刊》感慨。</p>
-<p>让民警们吃惊的是，他们在很多人家里发现了自制钢叉、梭标数百支，甚至还有弩、防弹背心、防弹头盔和土铳。谢鑫鑫觉得这是初步的胜利，“现在起码没人敢在村子里打电话了。”</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/145325166756909700.jpg" alt="余干警方在打击活动中抓捕的犯罪嫌疑人。摄影：谢鑫鑫" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/145325166756909700-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/145325166756909700.jpg 700w" sizes="(max-width: 550px) 100vw, 550px"><p>余干警方在打击活动中抓捕的犯罪嫌疑人。摄影：谢鑫鑫</p></div>
-<p><strong>产业链家族式诈骗</strong></p>
-<p>许芳新（化名）在取保候审的单子上签上她的名字。拿笔的手颤抖着，她的左手使劲按在纸上，以让自己颤抖得不那么厉害。</p>
-<p>她没有上过学，这是她一生中为数不多的几次签名。三个字，她写了有一分钟。相比于签名，她更习惯按手印。红红的手印按完之后，她就要离开这个待了一个月的看守所。</p>
-<p>许芳新被关押的原因是包庇在逃的丈夫段兴华。2013年4月中旬，段兴华在某报致富先锋栏目里刊登借腹生子的广告，以此骗取受害人12万多元。</p>
-<p>“他其实是将整个报纸套印，更换了致富先锋栏目里面的广告。”时兴国告诉《中国新闻周刊》，这是早期重金求子的一种形式，印刷广告在人群集聚区分发。</p>
-<p>2015年11月29日，当警察冲进许芳新家里的时候，她正试图将家里两台旧的电脑往外扔，“电脑在家里放了很久，早就坏了。我看到其他人都在藏电脑，很害怕。”她向《中国新闻周刊》如此解释。在这两台电脑里，办案民警时兴国发现了从事重金求子诈骗的资料。</p>
-<p>许芳新知道丈夫在做“秘密”的事情，但是不清楚具体内容。被通缉后，段兴华也曾回过几次家，但待的时间很短，甚至儿子结婚的时候也只是回家里吃了个饭。</p>
-<p>许芳新穿着一套黑灰格子的棉睡衣，脚上趿着一双棉拖鞋，看起来很素净。她低着头，小心翼翼。</p>
-<p>在看守所里，一想起丈夫，她就满是恨意。“家里就我一个妇女操持，有八十多的婆婆，还有10岁的小孩。”她的手满是褶皱，“这几天在看守所待着，手都变得好了很多。”她揉搓着双手说。即使这样，许芳新还是不忍心举报丈夫，“我不管他，但是也不想害他。”</p>
-<p>在余干，很多在逃犯罪嫌疑人的家属，都和许芳新一样，成为了不同程度的“同谋者”。</p>
-<p>和许芳新一起关押在看守所的李明房就是其中的一位，她是李树芳的婆婆。在她的家里，也搜到了一系列的作案工具。当天，家里只有她一人。在警察盘问的时候，她依旧不承认儿子在做违法的事情。“我的儿子，在外面打工，做漆匠，每年好的时候能够赚十多二十万。”</p>
-<p>2015年12月17日，余干县警方刚刚协助江苏宿迁警方，破获了一起受害人遍及全国31个省份、涉案犯罪嫌疑人500余名的特大通信网络诈骗案。作案人大多出自江埠乡一个汤姓家族，涉案总值高达1200万元。</p>
-<p>在这个诈骗集团里，有“老总”负责引君入瓮;有技术部门负责PS全套照片放到空间相册，证明他就是老总;有创作部门根据主题创作“剧本”，包括老总聊到哪种程度时该说什么;有“知名律师”根据受害人经济条件算出诈骗金额;还有业务部门负责将受害人的现金转移。所有角色，一应俱全，都是亲戚朋友扮演的。对于电信诈骗，他们已经非常娴熟。</p>
-<p>这也是余干诈骗扩张的主要途径：亲戚带亲戚，朋友带朋友。“在这里，一个家里很多成员都参与到案件中去，但是很多如果拿不到确凿证据，他们就不会承认，就定不了他们的罪。”这让时兴国非常无奈，整整一天，他都带着队友在村里的芦苇荡里寻找被丢弃的作案工具，手上尽是各种划伤。可惜，一无所获。</p>
-<p><strong>“因为能赚钱，所以不反对”</strong></p>
-<p>从县城开车出来向东走，大概半小时，过了一个鱼塘，就到了江埠乡石溪村，石溪村的村口有一棵歪脖子树，很好辨认。</p>
-<p>在村子里，随处可以看到“打击电信诈骗”的标语，这些标语已经有了年头，经过日晒雨淋变得模糊。此时，距离11月底的行动已经过了将近一个月。</p>
-<p>石溪村的房子建设可以用“阔气”来形容。村里子大多是四层以上的独栋楼房，每层至少五六间房子。楼房外墙装饰得相当精致，贴满色彩浓郁的瓷砖，有的大气复古，有的别致精细。</p>
-<p>“我们村里平均每人只有四分地，人均年收入只有1800元。”石溪村书记叶长寿告诉《中国新闻周刊》。不过他依然回避“诈骗村”的事实，“我们这里诈骗的很少。小部分人搞这个事情。”</p>
-<p>这里的片警刘叶对他的态度表示理解。“村干部也挺为难的，一方面要配合我们工作，一方面也不能得罪村民。得罪了，也要考虑子子孙孙要在这里生活。”</p>
-<p>警车开进石溪村的小广场时，在周边闲聊的村民的目光一下子投了过来，他们大多是年迈的老人和妇女，涉嫌诈骗的年轻人都已经逃了出去。警车停下的时候，他们慢慢围了过来，有的还跟民警打招呼。在行动过后，公安局在村子里进行大普查，村里16~60周岁的人都签订了不从事诈骗犯罪等违法犯罪活动的承诺书。对于警车隔三差五的到来，他们已经习惯了。</p>
-<p>小广场呈长条形，长50米左右。这里有一道黑板墙，是村里贴通告的地方。黑板墙上的广告已经扯干净，只留下浆糊的痕迹。电线杆上的广告有的还在，仔细辨认后，发现是代发短信等业务。</p>
-<p>一旁的屋墙上还贴着公安局悬赏的通告，不过，通告已经被村里的人撕去了大半：四排通缉嫌疑人的头像只剩下了不到两排，尤其是脸部位置都已经被抠掉。一旁的文字通告还好好地贴在那里，只是字迹变得有些模糊。</p>
-<p>余干县政法委副书记吴振富拿着宣传海报，走到一边的宣传栏旁边，海报的内容主要还是讲述行动的成果，他希望以此来提高对村民的威慑力。一开口，他已经变成了余干的方言，而不再用普通话。或许觉得外地人听不懂，他也因此而更加放得开。“诈骗的行为你们这些做父母的应该知道，但你们知道却不说。你们不要贪这个便宜。”</p>
-<p>“因为能够赚钱，所以我们才不反对。”一位村民说。当他们自己聊起诈骗，并不回避，就像谈论一件再普通不过的事情。而对外人，他们则缄口不言。</p>
-<p><strong>不断壮大的诈骗圈</strong></p>
-<p>在江埠乡副书记邹国富看来，石溪村的诈骗也是“不得已而为之”。他告诉《中国新闻周刊》，一直以来，石溪都是远近闻名的穷村子，“田比较少，加上道路不通，勤劳致富也没有好的办法，人一穷，歪门邪道比较多。”</p>
-<p>已经在外地工作的吴明居住在距离石溪村5公里外的一个村子。上世纪80年代初，吴明读初中时就开始听石溪村的同学讲村民出外搞钱的故事。最早的诈骗手段是“套铅笔”，骗人者拿出两支铅笔，皮尺套在其中一支铅笔上，并用皮尺将两支铅笔缠在一起，由围观者猜皮尺套在哪支铅笔上。猜对者赢钱，猜错者输钱。</p>
-<p>这其实是一种类似于小魔术的手法，变换全在皮尺的缠绕方法上，骗人者可以根据场景来随时调整。“换句玩笑话，这还算是靠手艺吃饭。”时兴国说。</p>
-<p>那个时候，中国人口流动初现高峰期。和别的地区一样，石溪村的村民也开始纷纷出外谋生。余干县紧邻福建，福建就成为村民外出的首选。而此时，福建就已经是诈骗高发的区域，不少村民也因此受影响。</p>
-<p>1990年后，“手艺活”发生了质的变化，而逐渐演变为诈骗。石溪村的人开始扔假金戒指，骗捡起“金戒指”的人。为了让人相信，金戒指外面会包着一个喜帖或者几张看起来有用的票据。一旦有人捡拾起来，就会出现一名“分赃者”，接下来，分赃、要钱抵押等。</p>
-<p>直到现在，扔金戒指的骗术依然猖獗，石溪村可谓是这一骗术的“引领者”。凭着假金戒指等骗术，石溪村开始富裕了起来。“石溪村90年代中期就开始建楼房，是当时周围村子里最早的。”吴明犹记得自己的村子直到90年代末才有楼房出现。</p>
-<p>在骗术不断升级的过程中，诈骗的范围也在慢慢扩张。吴明所在的村子也开始有人从事诈骗。吴明犹记得，当时石溪村有一户人家的女儿嫁到了自己的村子里，带动全家搞诈骗，然后慢慢传开，“如今，整个村子很多人都在做这个。”吴明告诉《中国新闻周刊》，村里人经常边打麻将边打手机。</p>
-<p>在吴明的村子里，对于上钩者，他们一律称为“猪”，而将骗人这种行为称为“杀猪”。在当地，能骗人者被视为“聪明人”。</p>
-<p>为了提供一条龙的服务，村子里甚至有人专门安装了pos机，用以套现。一个小村子是藏不住事情的，套现地成了村里的信息源，谁家骗了多少，很快都能从这家传开来。吴明告诉《中国新闻周刊》，诈骗从石溪村开始蔓延到周围的村子，进而辐射到临近的几个乡镇，如洪家嘴乡、三塘乡。</p>
-<p>余干的诈骗气候开始受到外界关注是在2000年左右，此时正是电信诈骗开始在全国蔓延的时候。当时，诈骗术也再次升级。在全国各地的列车上、汽车站、火车站，只要是人群聚集的地方，随处可以看到余干人的身影。他们这一时期的骗术统称为“脑溢血”诈骗案。</p>
-<p>在这类骗术中，诈骗人冒充医务人员，谎称外出人员在异地患脑溢血等重病或遭遇车祸，哄骗其家属将所谓“手术费”“医疗费”汇入指定账号，少则几千、多则十余万。</p>
-<p>2003年，在被央视《焦点访谈》曝光后，江西省有关部门和上饶市有关方面联合余干县，迅速成立“6·14”专案组，派出十余名便衣民警前往案发较为猖獗的广州、武汉、福建、金华等地火车站，在当地警方的协助下进行秘密侦查。</p>
-<p>目前已经是余干县公安局指挥中心主任的刘玮明当时被派到上海，他的主要工作是配合当地公安搞宣传，“我们是告诉火车站、汽车站附近的人群不要相信和上当，这些都是余干人干的。”</p>
-<p>后来，有脑溢血诈骗案的主犯被枪毙了，这件事轰动了整个余干县城。然而，震慑力显然没有保持多久，诈骗开始死灰复燃。</p>
-<p>“打击诈骗，乡政府这块主要是做宣传，其他也没有好的手段。空口说白话，他们也听不进去，有高额收入在那里诱惑。”邹国富向《中国新闻周刊》陈述打击不力的原因。</p>
-<p>如果说刚开始从事诈骗是因为穷，那么后来则只是出于贪欲。“只要家里有合适的人选，一般都会做这个。村里有些包工头，小老板都不干了，回来做这些。”吴明告诉《中国新闻周刊》。</p>
-<p>在吴明的村子里，有的村干部往往是诈骗的佼佼者。“他们能说会道，家里人也多，自然赚的也多。”吴明说，不少村民在“猪”上钩后，没有把握，都会去找村干部帮忙。当然，这需要从诈骗所得款中取出一部分作为提成。</p>
-<p>而随着科技的发展，诈骗也更加具有隐蔽性。作案者只需要通过网络智能语音平台自动拨打软件来拨打不特定用户，或者是群发短信的手段就可实施诈骗，不会跟受害者产生正面接触，跨区域犯罪的特征日趋明显。</p>
-<p>公安部统计，2014年全国电信诈骗发案四十余万起，群众损失107亿元。而在2013年，电信诈骗案发案就已达三十余万起，群众被骗100亿元。</p>
-<p>“重金求子”的诈骗手法也从开始的街头贴小广告，发展到了登广告、短信群发和电话群拨。“案件的受害者和报案者大多在外地，等我们知道的时候，大多都已成了气候。”时兴国告诉《中国新闻周刊》。</p>
-<p>诈骗人员“与时俱进”的学习能力让时兴国震惊。他曾经审讯过一个犯罪嫌疑人，小学三年级文化，连拼音都不会，但跟别人打字的时候从来不会有错别字。“他们肯钻研，会买手写板，甚至买字典，一点点查拼音。”</p>
-<p><strong>2000元的宽带</strong></p>
-<p>2015年2月9日，360公司发布“中国网络骗子地图”，网民可以通过地图，发现诈骗高发区和作案手段。这是通过对12亿终端设备的安全保护大数据分析挖掘出来的结果，余干县所在的区域也被用绿色明显标记，其他为人熟知的诈骗区广西、海南、福建、云南等也都有显示。毫无疑问，电信诈骗已经具有明显的区域化特征。</p>
-<p>曾有数据统计，全国范围内，海南的骗子聚集人数最多，超过4万人次，占全国骗子总数的30%;其次是广西、福建。</p>
-<p>在上海金融与法律研究院研究员刘远举看来，这其实是中国特有的非正式的社会规则的一种体现。“只要一个地方有一个人做了一件事情，并获取了利益，整个地区的人都会跟进学习。”他告诉《中国新闻周刊》，诈骗的区域化特征与一个地方的人占据一个产业是类似的，比如说申通快递、圆通速递等有一个共同的特点，那就是均为浙江桐庐人开的。</p>
-<p>在他看来，在这条独具中国特色的“产业聚集”背景下，如果相应的条件不成熟或者不完善，很容易导致价值观和是非观的扭曲。</p>
-<p>在专家眼中，电信诈骗的量刑轻，惩罚小，正是不完善条件的一种。到目前为止，法律对电信诈骗犯罪定罪量刑仍是采用普通的诈骗罪的定罪量刑标准，最低入罪标准为3000元，而电信诈骗往往都是从小额度开始的。另外，电信诈骗数额的调查取证有一定难度，“受害者与罪犯不在同一地区，我们做事也需要同其他地方的兄弟机构沟通，取证费时费力也费钱。”时兴国说。</p>
-<p>防范意识的增强也是必须的，而这需要公安部门等相关机构加大事前宣传力度。“公众在接到诈骗或疑似诈骗的电话或短信之后要迅速向有关部门举报，从而对电信诈骗形成‘老鼠过街，人人喊打’的态势。”公安部打拐办主任陈士渠向《中国新闻周刊》表示。</p>
-<p>而在全国人大代表陈伟才眼中，电信诈骗案件，运营商有着不可推卸的责任。这位昔日的广州市公安局政治部人事处处长离任后，依然对电信诈骗非常关注。</p>
-<p>“基于我对各种案件的分析以及受害者的回访，他们都有一个特点，即他们会认定诈骗者是什么人、什么部门。”陈伟才告诉《中国新闻周刊》，很多实施电信诈骗者都会运用改号软件来伪装，骗取受害者的信任，“受害者甚至会打114查询，证实后深信不疑。”</p>
-<p>问题也就提出来了。陈伟才发现，在2013年30万起电信诈骗案中，其中使用网络改号电话作案的占90%以上。他甚至拿出一个《2013年被骗100亿元电话诈骗利益分配图》指出，其中，运营商在这个“诈骗蛋糕”中获得10%的利益。</p>
-<p>在他看来，解决电信诈骗乱象的一个重要的事情，是把虚拟改号的电话拦截下来，不能让这些伪号接通电话用户，而这是源头所在。“同一个地址发出数量巨大的短信，运营商肯定知道在做什么，但为什么不主动去作为?因为涉及自身的利益。”</p>
-<p>在陈伟才眼中，运营商的责任远不止此。“一些员工非法出租网络电话线路参与犯罪;手机实名制未落实，警方每打掉一个电话诈骗团伙，都能缴获成百上千张无记名手机卡……”他罗列着这些已经烂熟于心的问题。</p>
-<p>而在余干县，这些尚未解决的问题暴露得更为严重。吴明告诉《中国新闻周刊》，村子里从事诈骗用的宽带，都是专门定制的。“普通的宽带一年只需要六七百块钱，而用来诈骗的宽带需要向运营商交两千多元或者更高的费用。”</p>
-<p>取保候审之后，李树芳和丈夫徐家力回到村里。村民得知后，都说李树芳傻，“在里面怎么能全交待呢?”李树芳不以为然，反而有些悔悟，“被骗的人也挺不容易的，都挣的是辛苦钱。”徐家力坐在旁边，话不多，他说最喜欢看的是白岩松主持的《新闻周刊》，“很正直，替老百姓说话。”</p>
-<p>就在两个月前，白岩松主持的另一档节目《新闻1＋1》曾专门揭露电信诈骗，但徐家力错过了这一期，那时，他还在看守所里。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A-%E4%BD%A0%E7%8C%9C%E6%88%91%E6%98%AF%E8%B0%81-%E4%B8%80%E4%B8%AA%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97%E6%9D%91%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E4%B8%9A%E5%8C%96%E9%AA%97%E5%AD%90/?category=18271" rel="tag">产业化骗子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97/?category=18271" rel="tag">电信诈骗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E6%BA%AA%E6%9D%91/?category=18271" rel="tag">石溪村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%88%E9%AA%97/?category=18271" rel="tag">诈骗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91-2/" target="cdt-mirror">【敏感词库】“青天白日旗” 、“肖钢辞职”等热点 2016-1-19</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2013/12/%E5%B0%8A%E5%AD%90%E6%BC%AB%E7%94%BB%EF%BC%9A%E5%B9%B3%E5%AE%89%E7%AC%A6.jpg" alt="尊子漫画：平安符" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2013/12/尊子漫画：平安符-300x293.jpg 300w, http://chinadigitaltimes.net/chinese/files/2013/12/尊子漫画：平安符.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><br><em>尊子漫画：平安符</em></p>
-<p>［新浪微博搜索禁词测试时间：2016年1月19日］</p>
-<p><strong>肖钢＋辞职</strong>（<strong><a title="编辑“【河蟹档案】证监会否认肖钢辞职，路透社随后遭到封杀”" href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/">证监会否认肖钢辞职，路透社随后遭到封杀</a>）</strong><br><strong> 肖钢＋下台</strong></p>
-<p><strong>青天白日旗</strong></p>
-<p><strong>自由写作奖</strong></p>
-<p><strong>死亡＋党</strong><br><strong> 习 + 黑材料</strong></p>
-<p><strong>xi禁评</strong><br><strong> 洗禁评</strong><br><strong> 吸金瓶</strong></p>
-<p><strong>色情视频</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E8%BE%9E%E8%81%8C.png" rel="attachment wp-att-426039"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E8%BE%9E%E8%81%8C.png" alt="肖钢 辞职" width="475" height="207" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-辞职-768x334.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-辞职-1024x445.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-辞职.png 2092w" sizes="(max-width: 475px) 100vw, 475px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E4%B8%8B%E5%8F%B0.png" rel="attachment wp-att-426041"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%82%96%E9%92%A2-%E4%B8%8B%E5%8F%B0.png" alt="肖钢 下台" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/肖钢-下台.png 2096w" sizes="(max-width: 2096px) 100vw, 2096px"></a><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97.png" alt="青天白日旗" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/青天白日旗-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/青天白日旗-768x302.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/青天白日旗.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%87%AA%E7%94%B1%E5%86%99%E4%BD%9C%E5%A5%96.png" alt="自由写作奖" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/自由写作奖-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/自由写作奖-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/自由写作奖.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%BB%E4%BA%A1%EF%BC%8B%E5%85%9A.png" alt="死亡＋党" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/死亡＋党-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/死亡＋党-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/死亡＋党.png 774w" sizes="(max-width: 774px) 100vw, 774px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0-%E9%BB%91%E6%9D%90%E6%96%99.png" alt="习 + 黑材料" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/习-黑材料-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/习-黑材料-768x301.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/习-黑材料.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/xi%E7%A6%81%E8%AF%84.png" rel="attachment wp-att-426029"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/xi%E7%A6%81%E8%AF%84.png" alt="xi禁评" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评-300x144.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评-768x368.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评-1024x491.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/xi禁评.png 2098w" sizes="(max-width: 2098px) 100vw, 2098px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B4%97%E7%A6%81%E8%AF%84.png" rel="attachment wp-att-426030"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%B4%97%E7%A6%81%E8%AF%84.png" alt="洗禁评" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评-768x330.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评-1024x440.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/洗禁评.png 2128w" sizes="(max-width: 2128px) 100vw, 2128px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%90%B8%E9%87%91%E7%93%B6.png" rel="attachment wp-att-426031"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%90%B8%E9%87%91%E7%93%B6.png" alt="吸金瓶" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶-768x333.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶-1024x444.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/吸金瓶.png 2092w" sizes="(max-width: 2092px) 100vw, 2092px"></a><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91.png" alt="色情视频" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/色情视频-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/色情视频-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/色情视频.png 770w" sizes="(max-width: 770px) 100vw, 770px"></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97/?category=18271" rel="tag">青天白日旗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -762,7 +660,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -772,5 +670,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

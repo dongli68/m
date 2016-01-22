@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,122 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E8%AF%84%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A90%E5%90%8E-%E7%9B%B8%E4%BF%A1%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">人民日报 | 评帝吧出征FB：90后 相信你们</a>
+</h2>
+<p><p>从20日晚到昨天中午，挪威和瑞典这两国的驻华大使馆，突然纷纷在微博上表态：我们支持一个中国！台湾是中国的一部分！</p>
+<p>可为啥这两国的大使馆会选在这个时候密集表态支持“一个中国”呢？</p>
+<p>这，还要从前天晚7点发生的一件很“燃”的事情说起…… 　　20日晚7点，在境外的社交网站<a href="http://tech.163.com/company/facebook/">Facebook</a>（以下简称FB）上，“臭名昭著”的台独媒体三立电视台的FB账号管理员突然发现他们的账号下出现了大量来自大陆的网友的言论——他们表态支持两岸统一、台湾是中国一部分。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/D487E01470F091CFB4DCF2E94415A845.jpg" alt="D487E01470F091CFB4DCF2E94415A845" width="550" height="340" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/D487E01470F091CFB4DCF2E94415A845-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/D487E01470F091CFB4DCF2E94415A845.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>原来，早在前天下午，我们大陆的微博上就有人透出风来，说当晚7点会有大量来自“李毅贴吧”的网友，自发组织去FB上与台湾的网民进行一次“大规模”的交流，一方面给他们讲讲大陆的真实一面以及台湾为何属于中国的历史，一方面也打击一下台独势力的嚣张气焰。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/3334EBAF690ECF636AC11599FE238E2F.png" alt="3334EBAF690ECF636AC11599FE238E2F" width="368" height="446"></p>
+<p>于是，台独势力的“传声筒”三立电视台、<a href="http://tech.163.com/company/apple/">苹果</a>日报以及自由时报，就成了大陆网友们打击台独势力、传播统一思想和大陆真实面貌的“主战场”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8885AFCBFC0EEA627CB6652A25AEB178.png" alt="8885AFCBFC0EEA627CB6652A25AEB178" width="382" height="359" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/8885AFCBFC0EEA627CB6652A25AEB178-300x282.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/8885AFCBFC0EEA627CB6652A25AEB178.png 382w" sizes="(max-width: 382px) 100vw, 382px"></p>
+<p>不过，看到“战场”一词，有些人可能会以为这是一场大陆网友和台湾网友间“吐沫星子四溅”、“脏话横飞”的互骂。</p>
+<p>然而，事实绝非如此！——我们的网友并没有陷入骂战，虽然我们遭到了嘲讽：比如一些人就拿出了最粗鄙的语言攻击，有的还拿南京大屠杀恶毒地攻击我们，说日本人应该杀光我们——甚至还宣称前几天那位枪杀中国女生的美国瘾君子，是“英雄”。</p>
+<p>但令人佩服的是，即便面对这些网民如此暴戾的情绪，如此冷血甚至没有人性的攻击，我们大陆的网民仍然保持了克制，大家只是在淡定地发着那些最能感染对岸同胞的图片，比如：</p>
+<p>美食——</p>
+<p> </p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/233932DA316E567F20659CF61DF813A3.png" alt="233932DA316E567F20659CF61DF813A3" width="288" height="576" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/233932DA316E567F20659CF61DF813A3-150x300.png 150w, http://chinadigitaltimes.net/chinese/files/2016/01/233932DA316E567F20659CF61DF813A3.png 288w" sizes="(max-width: 288px) 100vw, 288px">风景——</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/FD80EAA9529F15AFD61598C13C4A0044.png" alt="FD80EAA9529F15AFD61598C13C4A0044" width="404" height="437" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/FD80EAA9529F15AFD61598C13C4A0044-277x300.png 277w, http://chinadigitaltimes.net/chinese/files/2016/01/FD80EAA9529F15AFD61598C13C4A0044.png 404w" sizes="(max-width: 404px) 100vw, 404px"></p>
+<p>乃至一些感人的诗歌——</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/FD969F433F7A979858E2A177700FDEF9.png" alt="FD969F433F7A979858E2A177700FDEF9" width="354" height="544" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/FD969F433F7A979858E2A177700FDEF9-195x300.png 195w, http://chinadigitaltimes.net/chinese/files/2016/01/FD969F433F7A979858E2A177700FDEF9.png 354w" sizes="(max-width: 354px) 100vw, 354px"></p>
+<p>毕竟，如今很多台湾的年轻人，本质上还是被台湾偏执的政治斗争给洗脑了，以为大陆又穷又弱；而且他们的身份认同感也被分裂的台湾社会所撕碎，很多人并不知道自己到底是什么身份……</p>
+<p>不过，不跟台独分子对骂，而是选择与对岸网友理性地交流——这得感谢昨晚组织了这场“交流”的多位无名的“帝吧”网友们。他们早早就在大陆的各大网络空间上发布了信息，其中他们还格外强调了大家去Facebook上和台湾网友进行交流，并不是反台湾，而是反台独，并不去是去宣泄愤怒和骂人，而是要让大家知道一个真正的大陆，知道为什么大陆人对台湾有着这么强烈的感情。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/0DC5D3DE9516CB8FDF928A561E9D2EAA.png" alt="0DC5D3DE9516CB8FDF928A561E9D2EAA" width="550" height="262" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/0DC5D3DE9516CB8FDF928A561E9D2EAA-300x143.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/0DC5D3DE9516CB8FDF928A561E9D2EAA.png 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>此外，并没有介入此事、仅仅在围观的@共青团中央 ，也在微博上发了一张“三大纪律、八项注意”的图：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/5AF5434C61757FE4ABE9F19DEB4D1350.png" alt="5AF5434C61757FE4ABE9F19DEB4D1350" width="239" height="546"></p>
+<p>这些大家自我的约束，更充分说明，将大量来自天南海北的、彼此互不相识的网友凝聚在一起的，绝非戾气，而是大家对于台湾最朴素的情感，以及对“统一”最真诚的希望。</p>
+<p>其中，一位网友的话就很触动人：台湾的教育却让台湾民众对我们产生了偏见甚至仇视，但我们的教育却始终让我们对台湾保持着最真挚的感情……</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/C110D7E8D62021000FDE634DDF1447A0.png" alt="C110D7E8D62021000FDE634DDF1447A0" width="359" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/C110D7E8D62021000FDE634DDF1447A0-270x300.png 270w, http://chinadigitaltimes.net/chinese/files/2016/01/C110D7E8D62021000FDE634DDF1447A0.png 359w" sizes="(max-width: 359px) 100vw, 359px"></p>
+<p>所以，即便是面对公然支持台独的媒体，大陆的网友们也没有乱喷脏话，而是拿出证据打脸。</p>
+<p>比如，这次“战斗”中最出彩的一幕就是： 支持台独的“三立电视台”发布了一个宣称“北欧国家对台湾友好，挪威承认台湾是一个国家”的新闻，来“反击”大陆网友。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/03292E21B065A9BA184435D4CBC6A03F.png" alt="03292E21B065A9BA184435D4CBC6A03F" width="442" height="389" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/03292E21B065A9BA184435D4CBC6A03F-300x264.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/03292E21B065A9BA184435D4CBC6A03F.png 442w" sizes="(max-width: 442px) 100vw, 442px"></p>
+<p>然而，在短短30分钟内，《环球时报》就获得了挪威外交部的官方回复：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/2D8E9A70AF00F6A1C72339FA931B4CE1.png" alt="2D8E9A70AF00F6A1C72339FA931B4CE1" width="550" height="658" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/2D8E9A70AF00F6A1C72339FA931B4CE1-251x300.png 251w, http://chinadigitaltimes.net/chinese/files/2016/01/2D8E9A70AF00F6A1C72339FA931B4CE1.png 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>不仅如此，挪威多个驻华使领馆的账号还分别转发了这一消息，而这也为他们赢得了大量大陆网友的称赞，大家纷纷表示会继续购买挪威的三文鱼~</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/621C83168A8E78206B5B3E61608C6191.png" alt="621C83168A8E78206B5B3E61608C6191" width="550" height="280" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/621C83168A8E78206B5B3E61608C6191-300x153.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/621C83168A8E78206B5B3E61608C6191.png 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>不过，虽然 “碰瓷”挪威失败反被打脸，但三立电视台还在负隅顽抗，又抛出了一则新闻，宣称“7名瑞典议员支持承认台湾是一个国家”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/EC768B6BA60D1EF0A5F7F859A5A83883.png" alt="EC768B6BA60D1EF0A5F7F859A5A83883" width="446" height="432" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/EC768B6BA60D1EF0A5F7F859A5A83883-300x291.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/EC768B6BA60D1EF0A5F7F859A5A83883.png 446w" sizes="(max-width: 446px) 100vw, 446px"></p>
+<p>然而，或许是受到之前挪威使领馆因及时回应而被大陆网友纷纷点赞的启发，昨天中午，瑞典官方也迅速发布了一份措辞十分明确的公告：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/C5C657A408328659545A6C3150C8725D.png" alt="C5C657A408328659545A6C3150C8725D" width="550" height="269" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/C5C657A408328659545A6C3150C8725D-300x147.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/C5C657A408328659545A6C3150C8725D.png 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>同样的，这条微博也迅速获得了大陆网友的称赞。更有人调侃，现在这些外国驻华使馆最好的“圈粉”方式，就是“表态支持一个中国”~</p>
+<p>但更值得我们感慨的是，在这起事件中，我们的外交部并没有出动，可挪威和瑞典的外交部却纷纷主动站出来表态支持“一个中国”。这一方面得感谢愚蠢的“台独势力”送上的“助攻”，另一方面也证明了在外交和维护国家主权方面，网民自发的强大力量。</p>
+<p>在这场网络较量中，与中国内地这些90后的青少年们相比，一些持“台独”观点的人显得笨拙、无知、狭隘和自大。通过这次“网络大战”，双方综合素养高下立判。</p>
+<p>更让人惊叹的是，这些自发组织的以90后为主的一群人（甚至包括一些00后），竟然有详细的分工、严明的纪律，在facebook上只打台独而不伤台胞感情。可以看出，中国新一代90后的青少年们已经开始登上历史舞台了，他们自信地迈着阔步，天马行空地自由挥洒，他们充满阳光和自信的表现，让人眼前一亮。</p>
+<p>希望他们一直保持着这种自信，做中华民族的好儿女，为推动中华民族伟大复兴的中国梦添砖加瓦。只要我们足够自信，大踏步向前，一定会将“台独”势力踩在历史的脚下！</p>
+<p>90后，相信你们！</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/69CD6529B68F3D7A7FB0D72F6CE028B7.jpg" alt="69CD6529B68F3D7A7FB0D72F6CE028B7" width="458" height="324" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/69CD6529B68F3D7A7FB0D72F6CE028B7-300x212.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/69CD6529B68F3D7A7FB0D72F6CE028B7.jpg 458w" sizes="(max-width: 458px) 100vw, 458px"></p>
+<p>大陆网民20日晚搞出百度“帝吧出征”，翻墙向Facebook上的蔡英文及台湾绿营媒体挑战，很快刷爆那些账号。这些网友立下“不要骂人”等“参战须知”，有避免被举报或被抹黑的意识。21日晚，类似行动再次出现。</p>
+<p>参加“帝吧出征”的据分析主要是大陆90后网民，蔡英文当选台湾“总统”和周子瑜事件之后，不断有大陆网民翻墙去Facebook与台湾网民论战，发生了“表情包大战”等。那些大陆网民据信也都主要是90后。</p>
+<p>网络小青年们的“爱国行动”非常抢眼，舆论众说纷纭。批评者首先是台湾媒体和网民，他们嘲笑大陆网民需要“翻墙”攻击“自由的台湾”，并且指责大陆网民此举“不文明”。大陆一些自由派知识分子表达了类似态度，认为这些行动有损大陆形象，增加了两岸民间隔阂。</p>
+<p>这 是大陆青年网民完全自发的“出征”，整个过程无官方的影响，它更像是一种网上狂欢，要挑毛病总是不难的。但它的价值观基础是爱国的。它是大陆90后青年受 到外部政治刺激时的自然反应，是那些年轻人情绪的呈现。如果用国际上政治行为体的一些规则来度量它，这种度量本身就有些荒诞。</p>
+<p>“帝吧出征”等透出了一些信息，它们包括中国90后年轻人国家认同的轮廓，他们潜在的政治热情以及它的大致方向，还有他们的自我组织能力等等。这些信息与国内外一些力量原来的预期不太一致，也不合他们的愿望，因此他们对它的批评走了价值先行的老套路。</p>
+<p>作 为大陆媒体，我们认为“帝吧出征”应被看作网络上的一件“普通的趣事”，它挺新鲜，还让人看到大陆设的所谓“网墙”并非密不透风，真想出入它的人们做到这 点并不难。大陆90后与台湾年轻人在网上“打了一架”，能不打当然好，但“打了”从过程和结果看也没啥大不了，它不是人们想象中的那种“打架”，年轻人自 有他们的智慧和底线。还有一点挺重要的：大陆年轻人们没有吃亏，他们玩得好像挺开心。</p>
+<p>长期以来大陆方面出于善意对台言行谨慎，非常注意照顾 台湾公众的感受。一些人主张不仅大陆官方应当说话很注意，大陆民众在遇两岸摩擦时也应克制言行，避免损害两岸间的氛围。然而事实证明台湾舆论“很难哄”， 它们不太买账。而这样做又可能压制大陆民众的正常爱国情绪表达，综合效果未必好。</p>
+<p>实事求是大概最轻松。解决台湾问题光靠以利诱之肯定不行， 战略上需要恩威并施。大陆做不到的没必要硬撑，有力量则不需隐藏。大陆民众的爱国情绪与“台独”的影响自然要发生碰撞的，这种碰撞在某些时候会被“台独” 用制造悲情加以利用，但大陆民意的团结和强大还会有更多正面作用，而且这些正作用一定比因“台独”捣鬼而生出的负效果要多得多。</p>
+<p>随着民进党 上台，今后一段时间两岸年轻人的网上摩擦恐怕少不了，大陆官方大可不必为此担心，不妨让这些网上子弹“飞一会儿”。官方自有官方的稳健，民间自有民间的活 泼和不规则，大陆90后网民增添了外界认识中国社会的一个突出元素，我们是什么样就什么样，不能总是我们适应外部社会，今后也要让外部尽可能多地适应我 们。</p>
+<p>大陆90后小青年似乎比年长的一代人更自信，更有能力直接参与到全球化时代的各种跨境事件和热闹中去。我们应提醒他们注意分寸，别吃 亏，但没必要以老经验教训他们，更不应从政治功利的角度细究他们言行与国家某个具体计划之间的利害关系。有些责任是我们“大人”的，还是让我们“大人”承 担吧。年轻人活泼、健康就好。</p>
+<p>虎嗅网 文|水原瓜子、发条橙子、提琴没有弦</p>
+<p><strong>声明：本文不对爆吧行为及其涉及的事件进行是非判断，只探讨帝吧文化本身，欢迎拍砖、更正和补充。</strong></p>
+<p><strong>一、帝吧“出征”史</strong></p>
+<p>还是先说一嘴什么叫“爆吧”吧，虽然你可能已经大概get到了。所谓爆吧，就是在很短的时间内，有组织、有计划地以批量发帖的方式淹没攻陷某一个贴吧的行为。</p>
+<p>此 番帝吧“远征”facebook，当是贴吧“爆吧”运动的升级版。不同于很多的贴吧，帝吧吧友几乎不粉任何文体娱乐明星，作为互联网亚文化的一大输出口， 帝吧吧友长期讨论的主要是民生、恶搞、情感、社会热点事件，其爆吧行为是以攻击娱乐圈粉丝群为主，且是这对针对百度其他贴吧，至多也就是贴吧与贴吧间的自 娱自乐，此次一役，倒似乎是头一次脱离贴吧的土壤去发光发热。</p>
+<p>且对帝吧此前的几次著名”出征”事件作一番整理，资料参考自百度贴吧。</p>
+<p><strong>6·21爆吧事件  李毅吧  vs 李宇春吧</strong></p>
+<p>李 宇春吧是于2005年崛起的一大贴吧，两个都颇有影响力的贴吧门派，似乎难免会有些冲突摩擦。而此次爆吧事件的起因，似是因李毅吧大小吧主被封，网友疑因 李宇春吧举报，遂进行报复。于是，2005年6月21日，百度贴吧发生了一次大规模的爆吧活动（有说法称这是贴吧历史上规模最大的一次爆吧活动）。</p>
+<p>此番爆吧，达到了每秒1帖的速度，吧主虽有删帖以抵抗，奈何“敌方”攻势太猛，当晚，李宇春吧被刷屏1900多页，发帖十万加。</p>
+<p>据说，该爆吧事件终引得百度官方介入解决，李宇春吧一度被设置为先审后发，而这也是官方首次采取非常措施。</p>
+<p><strong>李毅吧、李宇春吧……..vs杨丞琳吧</strong></p>
+<p>此 次爆吧事件发生在2007月8月5日。事件的起因是杨丞琳参加某综艺节目，回答主持人提问“抗日战争打了几年”时，错答“11年”而后在知道正确答案时竟 表示“才8年而已啊？”，且在得知日军在南京大屠杀中残忍杀害我40万同胞后，回应称“才40万？”。这番举动点燃了网友们的怒火。</p>
+<p>当日晚上11点半，李毅吧联合其他几家发起了对“杨丞琳吧”的爆吧行动，由于吧主不在线，该吧很快沦陷，2小时就刷过了一百多页。</p>
+<p><strong>魔兽世界吧、李毅吧，动漫大吧、海贼王吧…vs 东方神起吧</strong></p>
+<p>此次事件的导火索是，韩国男子团体东方神起成员之一的沈昌珉殴打中国孕妇的事件。</p>
+<p>2008 年11月28日中午12点，百度魔兽世界吧率先发出一个名词——圣战，相约在晚上8点对东方神起吧进行爆吧行动。此次活动在8点20分呈白热化，以每秒 200帖的速度重创目标。这场爆吧被载入百度贴吧的史册——其波及范围之广，参战人数之多，堪与6.21事件相当。</p>
+<p><strong>vs NBA吧</strong></p>
+<p>这 一次爆吧事件源于足球篮球之争。帝吧虽然大多数时候讨论的自黑与黑人的事，但到底大家最初还是因为足球运动（员）走到一起的，因而帝吧与NBA吧之间的斗 争在所难免。从此次事件中也可以看到帝吧的一大特色，怎么说？笔者决定把帝吧吧友自己对这一仗的描述搬上来，你们感受下：</p>
+<blockquote><p>“双 方从足球篮球发展到互黑对方，发展到互黑阶段n8不可避免败下阵来。打篮球的至少要高，不少还是高帅富，自然自尊心很强，只能侮辱别人不能被侮辱。但是帝 吧却是一群loser，善于自嘲，对方一切的攻击都会生气地被帝吧化为帝吧文化的一部分，并以此为乐。最明显的当属屌丝。而且作为篮球第一大篮球吧， NBA吧从未在网络输出过自己的主流文化，而帝吧却在深藏功与名时悄悄地改变着世界。 本次帝吧联合巴塞罗那吧、皇家马德里吧、拜仁吧、阿森纳吧、切尔西吧、AC米兰吧、国际米兰吧、巴黎圣日耳曼吧以及中超各队（对NBA吧发起进攻）。”</p></blockquote>
+<p>如果你以为爆吧主要拼的是手速，那就too young too simple了，事实上，人家还有专门的爆吧器，如果手动爆吧是小米步枪, 那爆吧器简直就是机关扫射。知乎网友杨雨强曾介绍称：</p>
+<blockquote><p>核 心的爆吧成员是依托于爆吧软件的，通常与爆吧软件开发者处于统一组织，也就是产品的“核心用户”，由于拥有良好的互动，爆吧软件很容易围绕核心用户来开 发，提什么要求做什么功能。我所处的时代我所知的所有爆吧软件作者，以及爆吧组织，均没有为了金钱利益而制作贩卖爆吧器或帮人爆吧的行为，也就是说纯粹是 非盈利的集体娱乐行为。</p></blockquote>
+<p><strong>有组织，有纪律 ，奈何还是有误伤</strong></p>
+<p>正 如前文中所提及的一般，爆吧活动多是由核心成员策划组织，有纪律有分工甚至还有战术，但是具体的流程如何走，由于缺少实战经验，没法告诉大家，欢迎曾参 与”战斗”的吧友在评论中跟我们进行一个分享。这里想说的是，即使是作战目标明确，组织分工明确的情况下，爆吧大战也总是闹出不少误爆它吧的乌龙事件，大 军杀过，躺枪无数。前阵子快播事件躺枪的乐事吧一个大写的冤，爆日本吧时，ak98吧就替akb48吧挡了不少子弹，这些失误（或者恶搞？）给本来不就不 太严肃的爆吧活动更增添了不少娱乐气质。</p>
+<p><strong>二、为何总是李毅吧</strong></p>
+<p>虽然，这次“帝吧出征FB事 件”被不少媒体报道，微博和知乎也有相当一部分的网友持续关注、讨论，但主流人群听到“帝吧出征”还是一头雾水：帝吧是个怎样的地方？聚集了些什么样的 人？他们共同产生了什么样的社群文化？为何他们热衷通过“爆吧”、“刷版”的行为输出自己的价值观？虎嗅今天在这里尝试浅析一二，希望有更懂的朋友指正补 充。</p>
+<p><strong>“帝吧”（D8）即“李毅吧”的由来和转变</strong></p>
+<p>对中国足球不太关心的朋友，可能对“李毅”这个名字感到陌生或者已经淡忘，这位在03、04年红极一时的前锋可能不会想到如今自己会因为这个贴吧产生如此莫名其妙又强烈的长尾效应。</p>
+<p>李毅曾于2003年获得末代甲A金靴奖，也是04中超元年深圳健力宝夺冠的主力成员，多次入选国家队、国奥队。他性格张扬，面对媒体直言直语。在2005年之前，李毅吧只是一个很普通的球员粉丝社区，吧友在群内发的都是李毅近况、报道和比赛图片。</p>
+<p>但自2005年5月25日这一天开始，李毅吧开始有了奇妙的变化。这天是深圳健力宝俱乐部与韩国水原三星的亚冠比赛，李毅效力的深足获得了出线权，在接受赛后媒体采访时，李毅洋洋得意地说了一句：“我的护球像亨利”。</p>
+<p>与之相对应的，是李毅在国家队的持久低迷表现和有关“球霸”的负面报道，于是这句“我的护球像亨利”经媒体报道后激起千层浪，亨利人称“亨利大帝”，于是球迷嘲讽地称李毅为“李毅大帝”，李毅吧开始成为网民们花样调侃、恶搞李毅的地方。</p>
+<p>这种“黑”的氛围成为了李毅吧最鲜明的特色，有才的网友们将“黑”逐渐从李毅个人身上扩展到一切网络和社会事件，并由此产生了极多的原创内容，“内涵”、“屌丝”、“高帅富”等词汇都源于这里。</p>
+<p><strong>李毅吧的推手们是怎样的一拨人？</strong></p>
+<p>上 文已经提到，帝吧拥有2071万粉丝，吧内累积发帖超过8亿，且这两个数字还在迅速增长，这是一个活跃度超过想象的社群。庞大的社群背后是一个组织严密的 管理团队，虽然团队成员是多数时间是通过网络对贴吧进行运营管理，但他们都严格遵守既定的规则，是对李毅吧有着高度认同感和责任感一批网友。</p>
+<p>据“李毅吧”吧务信息显示：李毅吧吧务团队目前共有78人，团队等级和分工非常明确，其中吧主3人，协助吧主进行吧内秩序管理的小吧主63人，还有负责图片、视频和语音的专职编辑，另外贴吧还有专门的吧刊，有专人运营。</p>
+<p>早期李毅吧对会员有严格的审核机制，会员须经吧主人工批准通过，对内容进行筛选、对会员数量严格把控，李毅吧影响力迅速成长，一度被称为百度“卢浮宫”。</p>
+<p>据pingwest对李毅吧吧主英三嘉哥的一篇专访，英三嘉哥2014年起担任李毅吧吧主，是贴吧的意见领袖，其精力主要集中在怎样做贴吧文化上：</p>
+<blockquote><p>“李 毅吧的这个规模，不需要吧主做绝对的统治和管理，但是李毅吧需要一种新的文化，就不再停留在屌丝之类的事情，而是是一种正能量，但是正能量的精神必须是吧 友自己给的。他们太孤独了，需要认同感，需要帮助其他的人。如果有人带着他们去做，需要没有利益动机地带动他们，（这样贴吧）文化自然就会改变，所以我就 来做这个事情。”</p></blockquote>
+<p>早期带动李毅吧内容生产的即是这样一批从论坛成长起来，对如何产生话题、引导话题、引起传播非常有经验的资深网民。</p>
+<p><strong>由“屌丝文化”进化而来的亚文化社群</strong></p>
+<p>“李 毅吧”里的粉丝自称“毅丝不挂”，寓意是指大帝的粉丝们永远平安。后百度“三巨头吧”将他们戏称为“屌丝”，但热衷于黑和自黑的李毅吧粉丝不仅欣然接受了 这个称呼，并不断赋予其内涵，使得“屌丝”成为了出身卑微、生活平庸、沉迷网络、不被主流价值观所认同的群体的代名词。</p>
+<p>而迅速，这种小群体的文化经由互联网的传播在主流人群中产生了极大的影响力，这种扩散也使得李毅吧社群的凝聚力进一步增强。</p>
+<p>众“屌丝”在李毅吧产生了强烈的身份认同，他们希望与主流人群区别开来，在表达对社会事件的看法时，他们常用的方式是：嘲讽、反话、恶搞、PS等，他们共同的价值观是：没有什么不能黑，但所谓权威和明星我们绝不粉</p>
+<p>他们热衷于用一种网络化的、“逗逼”而强烈的方式参与社会议题、表达自己的观点，论坛时代流行的刷版被升级为如今的“爆吧”、“出征”，而这种表达门槛低、娱乐性强、规模和影响力巨大，给予了他们强烈的参与感和满足感，集体参与的形式感更让他们兴奋。</p>
+<p>互联网的“去中心化”使得越来越多的亚文化社群和他们的价值观被主流社会所认识到，亚文化正不断走向台前，对主流社会的事件进程、价值观产生影响，注意！这次真的不是演习！</p>
+<p><strong>再次声明：</strong><strong>本文不对爆吧行为及其涉及的事件进行是非判断，只探讨帝吧文化本身，欢迎拍砖、更正和补充。</strong></p>
+<p>【环球时报综合报道】据台湾“中央社”报道，周子瑜事件后，两岸网民在脸谱上掀起“FB表情包大战”。大陆百度人气贴吧“帝吧”20日传出一则“帝吧fb出征，寸草不生”的消息，称晚间7时要翻墙进攻台湾特定媒体的脸谱粉丝团。</p>
+<p>报道称，这一波大陆网友进攻脸谱，涌入三立新闻、《自由时报》《苹果日报》等台湾媒体粉丝团，连香港艺人何韵诗、蔡英文的脸谱也被灌爆。蔡英文晚间一则“国会议长中立化”的脸谱贴文，在3小时内涌入2万多则贴文，多是简体字的反“台独”言论。</p>
+<p>对于蔡英文脸谱此次遭刷屏，民进党仅简短响应“欢迎光临民主自由的台湾”，并表示，“不会删文”。</p>
+<p>报道称，蔡英文的脸谱不是第一次被大陆网友刷屏，去年11月间，她的脸谱粉丝专页也是突遭数万则大陆网民留言灌爆，以辱骂图文刷屏，台湾网友随后加入战场“反制”。(尚建松)</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E8%AF%84%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A90%E5%90%8E-%E7%9B%B8%E4%BF%A1%E4%BD%A0%E4%BB%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E5%B2%A9%E6%9D%BE/?category=18271" rel="tag">白岩松</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【真理部】“帝吧出征”事件</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/space/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98" target="_blank">“帝吧出征”事件</a>情况复杂化，地方媒体对此事要适度降温，不要进行话题推荐，特别要注意对借此事攻击国家制度、两岸关系等网友负面评论的删除，同时也要留意并制止“<a href="http://chinadigitaltimes.net/space/%E7%BF%BB%E5%A2%99" target="_blank">翻墙</a>”等有害技术信息的传播。</p>
@@ -35,7 +148,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%BA%E7%89%88%E5%B7%B2%E6%95%85%E7%A6%81%E4%B9%A6%E4%BD%9C%E8%80%85%E9%AB%98%E5%8D%8E%E6%96%87%E9%9B%86-%E5%B9%BF%E8%A5%BF%E5%87%BA%E7%89%88%E7%A4%BE%E9%81%AD%E5%A4%84%E5%88%86/" target="cdt-mirror">自由亚洲｜出版已故“禁书”作者高华文集 广西出版社遭处分</a>
 </h2>
@@ -56,6 +169,42 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
 <a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%BA%E7%89%88%E5%B7%B2%E6%95%85%E7%A6%81%E4%B9%A6%E4%BD%9C%E8%80%85%E9%AB%98%E5%8D%8E%E6%96%87%E9%9B%86-%E5%B9%BF%E8%A5%BF%E5%87%BA%E7%89%88%E7%A4%BE%E9%81%AD%E5%A4%84%E5%88%86/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%87%BA%E7%89%88%E7%A4%BE/?category=18271" rel="tag">广西师大出版社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%8D%8E/?category=18271" rel="tag">高华</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 12小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A7%9A%E5%B9%BF%E5%AD%9D%EF%BC%9A%E6%8F%AD%E5%B8%96/" target="cdt-mirror">【麻辣总局】姚广孝：揭帖</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae.jpg" rel="attachment wp-att-426256"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae.jpg" alt="8149a40f4bfbfbeda2280a777ff0f736aec31fae" width="460" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae-300x209.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/8149a40f4bfbfbeda2280a777ff0f736aec31fae.jpg 529w" sizes="(max-width: 529px) 100vw, 529px"></a><br><span><em>“出征” FB 表情包之一；图片来自百度贴吧</em></span></p>
+<p>神助拳，粉红团，<br>
+只因台湾要翻天。<br>
+闹独立，敢大选，<br>
+绿狗不是人所添。<br>
+如不信，请细观，<br>
+志玲妖娆似狐仙。<br>
+天津爆，汇率贬，<br>
+都怪台独气老天。<br>
+校长筑墙把蛊炼，<br>
+派我翻墙把法传。<br>
+搭梯子，买账号，<br>
+脸书推特若等闲。<br>
+VPN，3秒挂，<br>
+忍痛再花五块钱。<br>
+不用兵，只用俺，<br>
+干翻台独不费难。<br>
+刷评论，发表情，<br>
+简体换成火星言，<br>
+Chinglish美名传。<br>
+民进党，心胆寒，<br><a href="http://chinadigitaltimes.net/space/%E9%82%B1%E6%AF%85" target="_blank">邱毅</a>躺枪哭连连。<br>
+D疼我，国爱我，<br>
+他日进宫献忠言。<br>
+百万飞弹过海峡，<br><a href="http://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E5%8F%AA%E8%A6%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%9C%9F%E5%9C%B0/" target="_blank">人滚地留美梦圆</a>。<br>
+一概绿狗都杀尽，<br>
+大清一统祭<a href="http://chinadigitaltimes.net/space/%E9%BB%84%E5%AE%89" target="_blank">黄安</a>。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A7%9A%E5%B9%BF%E5%AD%9D%EF%BC%9A%E6%8F%AD%E5%B8%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 12小时前</small>
@@ -607,48 +756,6 @@ B21<br>
 <p>看完才發現  B1  有翻譯<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/card%EF%BD%9C/" target="cdt-mirror">Card｜匿名：我是陆生，我不反对台独</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB.jpg" alt="台北故宫 " width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>台北故宫</p></div>
-<p>（为了个人安全，还是隐去了学校。。）</p>
-<p>作为一个普通的大陆人，我从小也是那种洗脑教育生产线生产出来的。但是可能因为自己性格比较叛逆，所以一直对ccp存在质疑。当然对于台湾问题，我一直是希望能有一个统一的强大的中国。</p>
-<p>但是后来慢慢的，我觉得我梦想中的“中国”，并不是中华人民共和国。一个1949年成立的国家，竟然在1945年成为了二战战胜国。在国庆66周年之時，竟然阅兵庆祝抗日战争胜利70周年。红军从抗日战争开始时的几万人，发展到抗日战争结束时的几百万人，你课本突然告诉我，中共是抗日中流砥柱？这tm是大肠杆菌吧！不是摆明了：一分抗日，两分应付，七分抢地盘！（说实话我小时候一直以为当时蒋介石和日本人联合起来屠杀中国人，只有中共死死支撑抗日）</p>
-<p>类似这些充斥谎言的知识，居然成为了我们考中学，考大学，考硕士时候的试题！这样的考试，居然也会成为筛选人才的一个门槛！我十分不愿意为这样的政府背书。</p>
-<p>至于这次的周子瑜的事情，我觉得，就算ta是台独主义者，又怎么样？难道不允许言论自由吗？如果这个国家只允许说一种话，那这种国家还不如推倒重来！一个政党主张统一，这个是ok的，但是需要用自己的魅力来感化对方啊，而不是靠野蛮的打压。在国际上利用自己的强势打压别人，在国内宣传“台湾人民盼望统一，痛恨台独”，这样除了给人民带来错误认知，给执政党贴金，还能带来什么呢？即使“统一台湾”是一个很好的政治主张，但是如果这个好的主张需要用谎言来维持，那它还能算好的主张吗？</p>
-<p>还在大陆读书的时候，我经常和另一派的同学讨论这个问题，我一直为台湾说话，觉得台湾是我们大陆民主发展的榜样，大陆走向民主制度是必然的。来了台湾以后，也有一些新的认识，感觉到台湾的民主确实已经渗透到各个角落，但是也有一些缺憾，比如说立法委员的参政议政水平似乎比较差；执政党与在野党对于一些事情总是为了对立而对立，并没有真正考虑到真正的利弊分析。但是总不能因为缺憾而否定民主的意义。而在当前这种两岸强弱分明的情况下，如果发生统一，那台湾的民主必然被牺牲，那真是华人世界的悲哀！所以我个人坚定地说，在当前情况下，我绝对反对“统一”！对于未来的情况，我也乐观的希望，大陆能够彻底的民主化改革，一定一定不要专制。当民主中国到来的时候，再谈统一问题，顺势而为。</p>
-<p>总之，我坚定支持：台湾不属于中华人民共和国！</p>
-<p>天佑民主！天佑中华！</p>
-<p>看板：心情 發文時間：2016年1月17日上午10點06</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/card%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD/?category=18271" rel="tag">中华人民共和国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">国家统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%8F%B0%E9%99%86%E7%94%9F/?category=18271" rel="tag">在台陆生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BC%A0%E5%86%9B%EF%BC%9A%E4%B9%9F%E8%B0%88%E6%AD%A6%E7%BB%9F%E6%97%8F/" target="cdt-mirror">微思客 | 张军：也谈“武统族”</a>
-</h2>
-<p><p>作者：张军 加拿大多伦多大学助理教授</p>
-<blockquote><p>摘要：近来，显然是由于海峡那边的大选，“武统族”－－主张武力统一台湾一族的简称－－突然变得显赫起来。没打算做啥系统分析，只是忍不住想说一句，<strong>那些动不动就要“武统”的人，说到底是缺乏一种起码的、把每个地球人都当人看的、人人平等的价值观。</strong></p></blockquote>
-<p>当然他们可能不承认，但是事实上，在武统族那里没有人人生而平等的概念，更谈不上人与人在造物主面前的灵魂平等。在他们的字典里，只有“我国”／“你国”，“我族“／“你族”，“我者”／“他者”，“我等”／“尔等”这样的整体性的、黑白两分的概念。尽管任何一个两分的边界也常常变动不居，边界双方通常都是一种相互对立敌视的状况。所以，只要是你族冒犯了我族，你国冒犯了我国，尔等冒犯了我等，或者是我族的一部分想变成你族，我国人妄图要变成你国人，他者的一部分想变成我者，尔等的一部分人也想跟我等一样姓赵，诸如此类，武统族就会毫无忌惮地主张棍棒相加、兵戎相见，试图从肉体上消灭那些异己，或者至少不惜以消灭他们的肉体为代价，以此来维持“我等”、“我者”、“我族”或“我国”的“高贵”与“完整”。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-20-at-%E4%B8%8A%E5%8D%885.13.28.png" alt="Screen Shot 2016-01-20 at 上午5.13.28" width="498" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-20-at-上午5.13.28-300x207.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-20-at-上午5.13.28.png 498w" sizes="(max-width: 498px) 100vw, 498px"></p>
-<p>在武统族眼里，凡是被他们认定的或者从祖宗某一辈儿传下来的某个集合体，他人就没有轻易进出的自由，甚至心里想想都是大逆不道。他族或他者中的个体既没有因为按照上帝形象被造所带来的必须被珍视的神本的绝对价值，也没有康德以降的人本主义哲学家眼中的、每个人类个体都不可剥夺的绝对价值。只要为了某个自认为崇高的整体性目标，每个人都可以成为被利用或者被牺牲的手段，每个人都可以成为垫脚石被踩踏，每个人都可以被当作猪肉来宰割，每个人都可以成为“正义之战”的炮灰，只要那个目标足够“伟大”，比如国家的统一。</p>
-<p>然而，如此对待”他族”与“他者”的，也必然随时可能用同样的观念和手段来对待“我族”与“我者”中的个体。因此，在武统族主导之地，即便是“我等”、“我者”、“我族”与“我国”中的个体也是随时都岌岌可危的。对“他族”可以枪炮相加，对“我族”中的不受待见者也可以随时棍棒伺候。那些不知人人平等为何物的人，随时会发明出各种名词来，比如地富反坏右、比如反革命、比如右派、比如盲流、比如女流、比如小姐、比如汉奸、比如叛徒、比如扇颠者、比如寻衅滋事者，如此等等，随时把“他者”从“我者”中拎出来或者驱逐出去。或者视为下等人，或者送进大牢，以便保持我者的纯洁和高贵，以便自己可以安享人上人或主人翁的一切福乐。所以，武统族占上峰的地方，一定是窝里斗盛行的地方。</p>
-<p>所以，武统族正是本族或本国不安定的制造者：他们本来没有什么敌人，敌人更多都是他们自己制造出来的。正是因为无视人人平等，才生出了越来越大的离心力，才让越来越多的人对他们的本族本国越来越失望，越来越耻于与武统族为伍，一起汇聚成为各种寻求独立或者拒绝大一统的力量。吊诡的是，正因为武统族漠视平等，他们才更迷恋“大一统”。甚至可以说，武统族的存在感和优越感恰恰都是建立在人与人不平等的等级根基上的。“大一统”显然最符合等级金字塔中高高在上的当权者的利益，否则一旦分崩离析，官大人们岂不威风大减、颜面扫地？更何况，那样的话让谁来纳税、进贡、朝拜呢？更糟的是，失去大一统就可能失去等级社会里的一切，甚至人头落地、诛灭九族。这种教训历史上多了去了。同理，武统族风行之地，主子的利益也必定是奴才的利益，金字塔上面的”高等人“的利益，也一定是相信自己有机会往上爬的金字塔半山腰上的准精英一族的利益，甚至是那些底层被驯化的、即便一辈子吃不着肉甚至喝不着汤仍然会对主子永远感恩戴德的那些可怜人的“利益”。</p>
-<p>所以，武统族每天都在追求大一统，同时每天都在生产新的离心力。他们没有能力也没有意愿制造真正的向心力，根本上就是因为他们不肯或无法正视每个人类个体的独立价值。为了维护大一统，只能是让内部的武力镇压和恐惧威慑逐步升级，甚至利用窝里斗来维稳。但武力压制本身就是最大的离心力。恐惧和仇恨怎么可能带来向心力？所以武力必然催生更多的武力，终究到失控的时候，不是分崩离析，就是改朝换代。</p>
-<p>武统族虽然擅长窝里横，但对外一般都是纸老虎。武统叫得越凶的，越是贪生怕死的怯懦之辈。因为生出他们无视人人平等的价值本体，也必然同时生出贪生怕死、斤斤计较的理性。所以，武统族其实没什么战斗力。他们的“武统”更多是虚张声势。不信，如果真的搞武统了，你看有几个武统族愿意去冲锋陷阵？武统族其实根本谈不上什么骑士、武士或绅士精神，因为对他们来说，只有虚荣没有荣誉，只有今生没有永恒。所以，武统族风行的国家，不管武统叫得多么凶，历史上他们割让出去的国土往往比统一回来的更多。</p>
-<p>其实，小国寡民、鸡犬之声相闻、老死不相往来的时代早已一去不复返。地球人已经进入了不可逆转的全球性的分工合作时代：你中有我，我中有你。因此，地球人合并为一个地球国才符合地球人最大的共同利益，那才叫真正的大一统。否则，欧洲的独立国家本来好好的，为何要穷折腾搞联合呢？问题是，地球人的本性决定了他们做不到实现地球国，他们永远有闹不完的别扭，解不开的冤仇，打不完的仗。所以，你看欧盟也折腾出一堆麻烦来，只能走走停停、分分合合。</p>
-<p>但是，在现代社会里，即便在一个国族的内部，只有在平等观念深入人心之时，才能产生出真正的人与人、企业与企业、生产者与消费者、统治者与被统治者之间的互信合作。只有在每一个个体的人格尊严都得到平等尊重之时，只有在每一个个体的良心自由与相应的言论自由得到不打折扣的保护之时，只有在每一个个体都平等地享有充分的迁徙自由与国民待遇之时，只有在每一个个体在政治共同体中的参政议政权利都得到平等保障之时，这个国族的在开放竞争的地球上才有持久繁荣的可能，也唯其如此它才可能产生真正的向心力，才能减少暴力压制与武力征服的需要，才可能以“文统”取代“武统”，甚至可能人家都会哭着喊着跟你来求统一。</p>
-<p>但是，如果武统族内心深处的价值观不被颠覆，这种美好的愿景绝无实现的可能。其实隐藏在武统族反个人主义的集体主义之后的是一种我活你死的、我的快乐建立在你的痛苦之上的、极端的、吃人的个人主义信念。武统族心中预设的是达尔文式的生存竞争和丛林社会，这种预设在供奉马克思阶级斗争思想和达尔文生存竞争思想的地方，实在是正常不过。当然表面上他们还要用儒家的礼教和马家的共产主义理想来装饰门面。但根子上，儒家、马家、达家，还有各种后现代的虚无主义，在拆毁人类个体的超越价值、拆毁人人平等的超越根基上是高度契合的、异曲同工的。所以，武统族的存在，其实是有强大的社会根基的。扳倒他们恐怕还真没你想象的那么容易。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BC%A0%E5%86%9B%EF%BC%9A%E4%B9%9F%E8%B0%88%E6%AD%A6%E7%BB%9F%E6%97%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">国家统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%8A%9B%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">武力统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E7%BB%9F%E6%97%8F/?category=18271" rel="tag">武统族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,7 +767,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -670,5 +777,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

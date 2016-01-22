@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%8C%97%E4%BA%AC%E6%8B%85%E5%BF%83%E8%B6%8A%E5%8D%97%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/" target="cdt-mirror">东方日报 | 柳三禅：北京担心越南颜色革命</a>
+</h2>
+<p><p>作者：柳三禅</p>
+<p>早前，北京的周边多传出不安宁的消息。先是北韩极度任性，牡丹峰乐团说走就走，并且悍然进行第四次核试，一点面子也不给；接着，承受两岸和平红利的国民党大败，不但丢了总统权，而且立法院也惨败，差点连修宪权也丢了。再跟着，越共十二大是否出戈尔巴乔夫式的人物，北京密切关注。</p>
+<p>新华社发自河内的报道说，「各种敌对势力和政治机会主义分子」的活动愈来愈猖獗。他们编造抹黑越南共产党和政治制度的文章，进而在越南策动「颜色革命」。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-21-at-%E4%B8%8B%E5%8D%885.57.51.png" alt="Screen Shot 2016-01-21 at 下午5.57.51" width="493" height="317" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-21-at-下午5.57.51-300x193.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-21-at-下午5.57.51.png 493w" sizes="(max-width: 493px) 100vw, 493px"><br><span>温家宝会见越南总理阮晋勇(左)。阮晋勇是越南著名改革派，政治上亲美疏中。一名美国的前外交官戴维布朗公开表示，他希望阮晋勇能够让越南制度向“自由”转变。</span></p>
+<p>如同中共十八大一样，越共十二大也是最高权力更替的重要会议，也是越共北派和南派的一次角力，焦点是南派的现任总理阮晋勇会否夺得总书记的大权。</p>
+<p>北派的现任总书记阮富仲已连任两届且年过七十，他有意让北派的河内市市委书记范光毅或中央组织部部长苏辉若接班。同时，阮晋勇未能参加越共十二大文件起草小组，被视为排除出未来越共领导层核心。</p>
+<p>但是，阮晋勇依然志在必得，并得到南派拥戴及美国的背后支持。阮晋勇亲美是得到西方媒体公认，他也不时提出一些离经叛道的主张。二O一四年中越南大规模反华暴乱，越共中央将此定性为「反共反社会主义的、以民族主义为借口发生的暴力行为」，并传出阮晋勇有参与被越共中央调查。北京央视引述过这一消息。</p>
+<p>事实上，这一暴乱是由美国支持的南越旧组织──越南改革党组织的，而阮晋勇与其关系的确密切。当时，北京还撤走了南海831钻井平台，缓和越共北派受到的压力。三禅以为，在国家利益上越共两派是一致的，只不过若阮晋勇掌权使北京更麻烦些。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%8C%97%E4%BA%AC%E6%8B%85%E5%BF%83%E8%B6%8A%E5%8D%97%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%85%B1/?category=18271" rel="tag">越共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%85%B1%E5%8D%81%E4%BA%8C%E5%A4%A7/?category=18271" rel="tag">越共十二大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%8D%97/?category=18271" rel="tag">越南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%AE%E5%AF%8C%E4%BB%B2/?category=18271" rel="tag">阮富仲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%AE%E6%99%8B%E5%8B%87/?category=18271" rel="tag">阮晋勇</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E5%8F%AA%E8%A6%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%9C%9F%E5%9C%B0/" target="cdt-mirror">毒舌的舌｜西坡：我们只要你们的土地</a>
 </h2>
 <p><p>在知乎上，一个叫李小佑的台湾网友回答了“如何看待黄安举报周子瑜的事情？”在我看来，他的回答理性而令人心酸。他主要讲了民进党上台后，台湾历史课本变成了“台湾历史”本位，以及由此造成的族群割裂、代际割裂。</p>
@@ -880,42 +898,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8A%A8%E5%90%91%EF%BD%9C%E6%9D%A8%E5%85%89%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BA%8C%E2%97%8B%E4%B8%80%E4%BA%94/" target="cdt-mirror">动向｜杨光：习近平的二○一五</a>
-</h2>
-<p><p> </p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2015/01/20sino-xi-articleLarge.jpg" alt="中国国家主席习近平" width="550" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2015/01/20sino-xi-articleLarge-300x191.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/01/20sino-xi-articleLarge.jpg 600w" sizes="(max-width: 550px) 100vw, 550px"><p>中国国家主席习近平</p></div>
-<p>内整人权律师，外搞金钱外交</p>
-<p>二○一四年习近平做成了两件事情，第一是集权，第二是“打虎”。集权大获成功，整残了总理，玩废了常委，打散了山头，制服了“老同志”。“打虎”凯歌高奏，官场一片狼藉。而“打虎”服务于集权，所以归根结底，那一年习近平的全部收获就是集权：块块向条条集权，条条向中央集权，中央向“领导小组”集权，“领导小组”向习近平集权。至于其他的事情，“全面深化改革”、“依法治国”，说得很热闹，但只说不做，沦为空谈；经济、民生、环保，说也说了，做也做了，但全没做到点子上，效果都很不好；疆藏、港台，一味走强硬路线，甚至比不做更糟，维吾尔人的“暴恐”、港台人的“反中”似已成为习时代之“新常态”；东海、南海持续紧张，中日关系走入死角，中美关系每况愈下；……总而言之，除了“打虎”一俊遮百丑，二○一四习近平几乎一无是处。以上是拙作《习近平的二○一四：成功集权，失败治理》（发表于《动向》二○一五年二月号）给习近平所作的年度总结。</p>
-<p>又一年过去了。二○一五年习近平又做成了哪些事情、做坏了哪些事情？做对了什么、做错了什么？其“治国理政”成绩单有没有一些新亮点呢？大致说来，这一年除了集权全面深化、“打虎”骑虎难下，这两件事情或主动或被动而处于持续进展状态之外，习近平又新做成了两件事情：一是恶整人权律师，二是大搞金钱外交。</p>
-<p>这两件事情似乎也收获甚丰：其一，律师队伍已经丢盔卸甲、溃不成军，律师制度已经奄奄一息。整人权律师是一场震撼律师界的轰轰烈烈的“清理阶级队伍”运动，经此一役，可以想见，未来的律师队伍将会变得更加“纯洁”，只许给党护刀（习近平仿照毛泽东称政法工作为“刀把子”），不许与民维权。也许，在“党管干部”、“党管军队”、“党管舆论”……“党管文艺”之外，“党管律师”、“支部建在律所上”的新律师体制将在习时代隆重开张，也说不定。</p>
-<p>其二，在经历了三十多年“韬光养晦、决不当头”的外交沉闷期之后，习近平又恢复了毛泽东时代人民吃糠咽菜、对外一掷千金的“国际主义”外交路线。习夫妇一年出访八次，足迹遍及亚欧美非四大洲，每到一国都有“大单”奉送，少则百亿美金，多则五六百亿美金，就连人口不足一千万的“蕞尔小国”白俄罗斯也得到了一百五十七亿美元的“大单”。无论访穷国还是攀富国，无一例外，掏腰包、撒钞票的，都是中国金主习主席。二○一五年里，比国际风头，满世界撒钱的“习大大”显然盖过了四处受气的“强人普京”。中国人“有钱就是任性”的“好名声”之所以举世闻名，不仅得益于在日本“爆买”马桶盖的中国游客，在加拿大、澳大利亚大建豪宅的中国贪官，更有习近平金钱外交的一份大功劳。</p>
-<p>“律师劫”是反右、文革余绪</p>
-<p>二○一五年的“律师劫”，必定载入“新中国”法律制度史册。这一年里，凡是近些年来比较活跃、在维权圈子里稍有知名度的律师均遭清算，挨整的并不止于狭义的“死磕派”。整人手法或“失踪”、或“失联”，或示众、或判刑，自上而下，全国一盘棋，口诛笔伐，“批倒批臭”（文革用语），大张旗鼓，气势如虹，可见这是由习近平本人亲自发动、亲自指挥的一场政治运动，其他人做不出这种效果来。</p>
-<p>与当年轰动一时的薄熙来、王立军恶整律师李庄案相比，此番习近平风格的“律师劫”有如大巫见小巫、大海望小溪。实践证明，习近平与薄熙来均非凡品，但习比薄更厉害。习近平的“打虎拍蝇”、“治国理政”与薄熙来的“唱红打黑”、“五个重庆”在政治上大体同构，均为毛泽东阶级斗争、政治运动的余绪，好处是整人立威，快速高效，坏处是运动治国，百事无成。在此种毛式执政风格之下，律师不仅是多余的，而且是有害的。“文艺工作者”好歹还能写点马屁文章，最不济也能翻唱一下红色经典悲剧《白毛女》什么的，而律师除了添堵捣乱增加“负能量”之外，还有什么用处呢？这大概就是薄习二人不约而同讨厌律师，对人权律师出手很重的原因所在。</p>
-<p>“司法改革”已无价值</p>
-<p>仅凭七条微博，就定下了浦志强“煽动民族仇恨”、“寻衅滋事”两项罪名，这已是世界司法史上的最大奇观，没有之一；就郭飞雄上街那点儿事情，居然重判六年，简直骇人听闻。如果习近平把这样赤裸裸的政治迫害也叫做“依法治国”，那么朱元璋、毛泽东就是“依法治国”的先锋，反右、文革就是“依法治国”的典范。</p>
-<p>前一阶段针对“公知”、“大V”、“文艺工作者”、媒体从业者、高校教师的政治整肃运动多少还带有一点“和风细雨”、“正面教育为主”的味道，谁乖给谁发糖，谁不乖砸谁的“饭碗”，一边树周小平、花千芳为“正能量”典型，一边开除几个“吃党的饭砸党的锅”的“砸锅党”以儆效尤，揪出了几个嫖过娼、造过谣的“大V”到央视示众，处理得都还不算太重。而此番整肃人权律师和公益维权NGO，则一上来就是“狂风骤雨”，杀气腾腾，一不做二不休，直接诉诸专政手段。</p>
-<p>如此规模、如此手段的整肃律师运动为邓小平时代恢复律师制度以来所仅见，受打击的自然不仅是“死磕派”律师——在法律划定的范围内为当事人争权益，“死磕”一下又有何妨，也不仅是整个律师界，而是本来就先天不足、后天不良的中国司法体系。事实上，打掉了律师敢于为人权和正义而“死磕”的勇气和锐气，中国的司法体系也就失去了其苟残于世的微弱生机，所谓“司法改革”云云，已经无可期待，因为一个不善待律师的司法体制是毫无价值，没有改革余地的。</p>
-<p>金钱外交“一带一路”风险大</p>
-<p>整人是共产党的强项，“打老虎”也好，整律师也好，在习近平而言都是驾轻就熟，还算顺利。但搞外交就不同了，中共一向成少败多。想当年，毛泽东趁苏共二十大之后发生波匈事件，社会主义阵营一片混乱之机，跑到莫斯科与赫鲁晓夫争当“世界领袖”。毛泽东虽然没有美金可撒，却向各国共产党和工人党夸下了海口，打核战争中国人民愿当冤大头，六亿人死掉一半、还剩一半，照样可以带领社会主义兄弟取得伟大胜利。结果，他吓坏了东欧各国，“世界领袖”没弄到手，反倒把中苏同盟玩出了轨。</p>
-<p>毛时代的中国是国际社会里的特困户，尽管如此，毛泽东仍大把花钱，实行金钱革命外交。以外援占GDP的比例来看，毛泽东堪称“新中国”金钱外交的始作俑者。但效果怎么样呢：支援东南亚革命引发了血腥排华浪潮，陷当地华侨于不义；中阿（阿尔巴尼亚）、中越关系最后反目成仇，赔了夫人又折兵；中朝“鲜血凝成的友谊”也是面和心恶，只怕最终也逃不过反目成仇的下场，这一天看来为期不远了。</p>
-<p>习近平自恃财大气粗，以为撒了钱就会有“大国地位”，金钱能买来“朋友圈”，能实现“全球治理”，但事实恰恰是，没有普世价值作支撑的金钱外交大都靠不住：胡锦涛借给委内瑞拉独裁者查韦斯五百多亿美元，虽以石油作保，仍属慷国家之慨胡乱花钱，随着查韦斯驾崩、油价大跌、委内瑞拉反对党上台，现在是钱也没指望了，“反美战略协作关系”也快泡汤了；中国没少给缅甸军政府、斯里兰卡前政府撒钱，可是钱撒得越多，越有可能被当地人民和民选新政府所鄙弃、所憎厌。</p>
-<p>习近平豪掷一千四百亿美元打造“一带一路”，比起胡锦涛给独裁者借钱，此方案又上升了好几个档次，豪华之极，宏大之极，号称“中国版马歇尔计划”，欲投资于政治欠民主、经济欠发达、宗教欠宽容、社会欠稳定的沿线五十个国家。但随之而来的，则是无可估算的巨大系统性风险。此方案有如唐僧取经，步步有困难，处处有障碍，复杂性远非委内瑞拉或缅甸的个案可比，一不小心就会鸡飞蛋打，一地鸡毛。习近平果真驾驭得了“一带一路”吗？</p>
-<p>“四个全面”与一个“片面”</p>
-<p>二○一五习近平很忙。除了整肃律师、金钱外交之外，救股市，大阅兵，十三五，习马会，南海造岛，军队改革，也都颇费心力。当然，习近平并不是一件好事也没做，“全面二孩”算是一件好事，习马会和隆重纪念胡耀邦百岁冥诞可各算半件好事——因为这两件事情做了比不做好，但做得很不到位，动机也略显可疑。</p>
-<p>这一年，其实习近平的开局很高，“四个全面”，极富雄心，但走势不稳，高开低走。岁末再来看，四个“片面”也都谈不上，“深化改革”、“依法治国”、“小康社会”不仅未见“全面”进取之意，反有向毛时代大幅倒退之虞。“从严治党”倒是堪称一个“片面”了，毕竟“打虎”没有停顿——且不管挨打的是不是片面来自对立面的政敌，但是，“从严治党”更多的动力来自二○一四“打虎”运动的惯性，而不是来自反腐体制与机制的创新突破。于反腐败而言，“打虎”运动只有短期效果，远远不如官员财产公开化、舆论监督自由化、政府行为法治化等制度化防腐反腐方案扎实可靠。</p>
-<p>归根结底，“从严治党”也罢，“从严治军”也罢，仍以服务于习近平个人集权为政治依归：打了周永康，集了政法的权；打了令计划，集了内卫、国安的权；打了徐才厚、郭伯雄，集了军委的权。集权倒是越来越“全面”了，不能不让人生疑的是，当习近平的个人集权“全面”完成之后——当然更有可能的是全面集权永无穷期，“打老虎”的动力也就全面枯竭了。</p>
-<p>《动向》2016年1月号</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8A%A8%E5%90%91%EF%BD%9C%E6%9D%A8%E5%85%89%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BA%8C%E2%97%8B%E4%B8%80%E4%BA%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -927,7 +909,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -937,5 +919,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

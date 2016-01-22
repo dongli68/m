@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%BA%E7%89%88%E5%B7%B2%E6%95%85%E7%A6%81%E4%B9%A6%E4%BD%9C%E8%80%85%E9%AB%98%E5%8D%8E%E6%96%87%E9%9B%86-%E5%B9%BF%E8%A5%BF%E5%87%BA%E7%89%88%E7%A4%BE%E9%81%AD%E5%A4%84%E5%88%86/" target="cdt-mirror">自由亚洲｜出版已故“禁书”作者高华文集 广西出版社遭处分</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/image.jpg" rel="attachment wp-att-426267"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/image.jpg" alt="资料图片：中国大陆著名学者、历史学家高华。（新浪微博）" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/image-300x248.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/image.jpg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>资料图片：中国大陆著名学者、历史学家高华。（新浪微博）</p></div>
+<p>去年11月，中国“禁书”《红太阳是怎样升起的》的作者高华病逝四周年前夕，广西师大出版社出版了高华文集《历史学的境界》。近日，据香港及国际媒体披露，广西师大出版社因此遭到中宣部和新闻出版广电总局的处分。</p>
+<p>在去年11月下旬，著名作家高华病逝四周年前夕，广西师大出版社推出高华的文集《历史学的境界》，向作者致敬。不料，这却给出版社带来不小的麻烦。据香港《明报》1月21日引述知情者称，主导出版高华的遗作结集的出版社总编刘瑞琳直接被撤职。</p>
+<p>消息传出后，刘瑞琳创办的“理想国”1月21日通过微信公号发布信息引述刘瑞琳表示，自己和“理想国”一切正常，但却未直接回应有关广西师大出版高华“禁书” 的事。</p>
+<p>而据法国广播电台引述业界多方得到的消息称，广西师大出版社的确因为该书受到中宣部和新闻出版广电总局处分，但刘瑞琳并未被撤职，据说是做了检讨后过关。</p>
+<p>高华是南京大学教授，也是讲述共产党思想模式改造的缘起与模式的“禁书”《红太阳是怎么样升起的——延安整风运动的来龙去脉》的作者。报了解，其新书《历史学的境界》收集了高华专业论文之外的其他文章，包括专稿、演讲、书评、时事观察、论文评议、讲课纪录等。</p>
+<p>上海独立作家，独立笔会前副会长蒋亶文接受本台采访时称，高华一生以学术为志业，关注家国命运，他虽然还没有机会读过高华的这本新书，但可以肯定，当局处罚出版新书的出版社是为了防止自由主义、宪政、非官方观点的近代历史出版物得到宣传推广的机会。</p>
+<p>蒋亶文：“我觉得高华先生是一个认真负责的历史学家，他书里有很多被遮蔽的历史真相，使我们更全面的认识中国建政前后的很多不为人知的内幕，也使我们对以往的历史有更全面和准确的认知，我想高华先生在这方面的贡献是很难有其他人可比的。长期以来，当局都对言论自由和出版自由进行压制，禁书的实质是不让更多的人了解历史、了解真相。当越来越多的“禁书”（的消息）传出来的时候，只能说是出版业乃至于言论自由进入了一个寒冬，这是意识形态领域集权的信号。”</p>
+<p>1月19日，文化学者吴祚来在推特上曝光称，同期除了高华新书被禁之外，章诒和的《钱氏女》已排好版，但被中宣部且严令禁止出版。</p>
+<p>1月20日章诒和也通过微博亲自证实：“上面有话：章诒和的书不能出，谁出，撤谁。报告：原定于2015年12月出版的《钱氏女》已被查禁。”</p>
+<p>曾在中国的宣传部门工作过的西安时事评论员马晓明告诉本台，中国的出版管制隐秘微妙，相关禁令多以口头传达，而出版业的自我审查也极为严格。</p>
+<p>马晓明：“我在中共的宣传机构中工作过多年，这种打压往往都是口头性的。过去国外有一种说法，中共有严格的新闻检查制度。这种说法是不确切的，不是说制度性的送审，或者是有人员驻在宣传机构里审查。在我们中国大陆，没有不受中共控制的媒体，所以他不需要审查，在这些宣传机构里面的工作人员，就自觉自愿的维护中共的利益。出版系统认为是离经叛道的、对中共统治有不良影响的这种书籍是极少数，也在必需要坚决封杀之列。”</p>
+<p>在严查“禁书”的同时，北京近日召开2016年全国千家实体书店发展大会，国家新闻出版广电总局在会上表示，今年将出台相关实体书店扶植政策。但有分析指，在严格的出版审查高压之下，扶持书店只是当局控制言论的手段之一。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%BA%E7%89%88%E5%B7%B2%E6%95%85%E7%A6%81%E4%B9%A6%E4%BD%9C%E8%80%85%E9%AB%98%E5%8D%8E%E6%96%87%E9%9B%86-%E5%B9%BF%E8%A5%BF%E5%87%BA%E7%89%88%E7%A4%BE%E9%81%AD%E5%A4%84%E5%88%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%B8%88%E5%A4%A7%E5%87%BA%E7%89%88%E7%A4%BE/?category=18271" rel="tag">广西师大出版社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%8D%8E/?category=18271" rel="tag">高华</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%B5%B5%E5%AE%B6%E7%9A%84%E7%89%8C%E5%9D%8A%E5%9C%A8%E8%BF%99%E5%A4%B4%EF%BC%8C%E5%85%AC%E6%B0%91%E7%9A%84%E9%80%89%E7%A5%A8%E5%9C%A8%E9%82%A3/" target="cdt-mirror">【河蟹档案】赵家的牌坊在这头，公民的选票在那头</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%94%E6%8A%A8%E8%AE%BA">朔抨论</a>：先帝爷留下的烂摊子，第二代治理者的办法是头疼医头，脚疼医脚，虽然去不了病根儿，但起码能减轻症状，让你自以为治好了。第三代是头疼医脸，脚疼也医脸，对他们来说，治不治好不要紧，面子最重要。这一代就邪乎了，头疼堵嘴，脚疼也堵嘴，只要不喊出来疼，就算没病。<br><a href="https://freeweibo.com/weibo/3932937718346041" target="/weibo/393">2016年01月19日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%85%8E%E9%A5%BC%E5%A4%A7%E5%B8%88">煎饼大师</a>：“同志们！跟我一起去攻占敌军的桥头堡！”“太好了！我们怎么开始？”“第一步，我们首先攻破我军的防线。。。” <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E8%A2%AB%E5%B0%81%E7%A6%81-%E5%A4%9A%E4%B8%AA%E7%BD%91%E7%AB%99%E5%85%B3%E8%AF%84%E8%AE%BA/">腾讯科技｜帝吧出征FB：直播平台被封禁 多个网站关评论</a>》 </em><br><a href="https://freeweibo.com/weibo/3933500376043986" target="/weibo/393">2016年01月20日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40baidu%E5%86%B7%E5%85%B5%E5%99%A8%E5%90%A7">baidu冷兵器吧</a>：我大团系第一次明火执仗的出来当流氓头子了（TD指台独）。 <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/426215/">共识网｜邹思聪：帝吧“FB远征“背后的迥异三观</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E8%99%B9%EF%BC%9A%E8%AF%A5%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E5%B8%9D%E5%90%A7%E8%9B%86%E4%BC%97%E7%BB%84%E5%9B%A2%E7%BF%BB%E5%A2%99%E9%9B%86%E4%BD%93%E8%A2%AD%E6%89%B0fb%E7%94%A8/">唐映虹：该怎样看待帝吧蛆众组团翻墙集体袭扰FB用户？</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-39.jpg" alt="台独" width="366" height="651"><br><a href="https://freeweibo.com/weibo/3933466737279805" target="/weibo/393">2016年01月20日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E6%98%8C%E5%B9%B3">罗昌平</a>：一定解放台湾，实现祖国统一！<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-40.jpg" alt="333" width="342" height="691" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-40-507x1024.jpg 507w, http://chinadigitaltimes.net/chinese/files/2016/01/333-40.jpg 708w" sizes="(max-width: 342px) 100vw, 342px"><br><a href="https://freeweibo.com/weibo/3933091133034991" target="/weibo/393">2016年01月19日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BA%93%E5%B0%94%E7%8F%AD%E6%B1%9F%E8%B5%9B%E4%B9%B0%E6%8F%90">库尔班江赛买提</a>：分享视频 <a href="http://t.cn/RbH1ONi" target="_BLANK">http://t.cn/RbH1ONi</a> //*<a href="https://freeweibo.com/weibo/%40%E5%A6%82%E7%9A%8B%E8%80%81%E7%8C%AB">如皋老猫</a>：你冷，你冷得很牛逼，很牛卵，这下子好了，全国网民都在夸你，这下子不冷了吧王大记者？这下子出名了吧央视五套赛事直播记者王华年？ <em><em>相关阅读｜《<a href="http://hk.on.cc/cn/bkn/cnt/news/20160122/bkncn-20160122071839018-0122_05011_001.html">東網<em><em>｜</em></em>央視記者大鬧冬運會 聲稱怕冷拒脫外套安檢（视频）</a>》</em></em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%B5%B5%E5%AE%B6%E7%9A%84%E7%89%8C%E5%9D%8A%E5%9C%A8%E8%BF%99%E5%A4%B4%EF%BC%8C%E5%85%AC%E6%B0%91%E7%9A%84%E9%80%89%E7%A5%A8%E5%9C%A8%E9%82%A3/"><em>点击这里查看嵌入的视频。</em></a></p><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-42.jpg" alt="王年华" width="367" height="652" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-42-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/333-42-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-42-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/333-42.jpg 1242w" sizes="(max-width: 367px) 100vw, 367px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-43.jpg" alt="王年华" width="413" height="734"><br><a href="https://freeweibo.com/weibo/3933835483966596" target="/weibo/393">2016年01月21日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%95%BF%E5%BE%97%E5%B8%85%E4%B8%8D%E5%A6%82%E8%B7%91%E7%9A%84%E5%BF%AB">长得帅不如跑的快</a>：路透中文网办事处现状  <em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/">【河蟹档案】证监会否认肖钢辞职，路透社随后遭到封杀</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333.gif" alt="路透社" width="421" height="234"><br><a href="https://freeweibo.com/weibo/3932761355964659" target="/weibo/393">2016年01月18日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：只能新华社的独家报道称：瑞典人彼得和王全璋律师合作成立 “中国维权紧急援助组”。一个瑞典人海外筹款不远万里来到中国，给弱势者提供法律援助，这不就是法律界的白求恩嘛！ 我翻墙看了这家法援网站，救助的大多是访民。我想凡得到他们法援的，都不会载去烧巴士、压小孩子吧？<em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160119_china_sweden_detention">BBC<em><em>｜</em></em>中国：被拘瑞典活动人士危及国家安全</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-41.jpg" alt="瑞典人彼得" width="453" height="664" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-41-768x1125.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-41-699x1024.jpg 699w, http://chinadigitaltimes.net/chinese/files/2016/01/333-41.jpg 800w" sizes="(max-width: 453px) 100vw, 453px"><br><a href="https://freeweibo.com/weibo/3933133973812340" target="/weibo/393">2016年01月19日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40DDDDDDDebby-">DDDDDDDebby-</a>：<a href="https://freeweibo.com/weibo/FB%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98">#FB表情包大战#</a><a href="https://freeweibo.com/weibo/%E5%B8%9D%E5%90%A7fb%E5%87%BA%E5%BE%81">#帝吧fb出征#</a> 发现一组萌萌的图片</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-44.jpg" alt="333" width="521" height="391" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-44-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-44.jpg 560w" sizes="(max-width: 521px) 100vw, 521px"><br><a href="https://freeweibo.com/weibo/3933706575897714" target="/weibo/393">2016年01月21日</a></div>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%B5%B5%E5%AE%B6%E7%9A%84%E7%89%8C%E5%9D%8A%E5%9C%A8%E8%BF%99%E5%A4%B4%EF%BC%8C%E5%85%AC%E6%B0%91%E7%9A%84%E9%80%89%E7%A5%A8%E5%9C%A8%E9%82%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E5%AE%89%E6%A3%80/?category=18271" rel="tag">央视记者安检</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7/?category=18271" rel="tag">帝吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">王全璋律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%8D%8E%E5%B9%B4/?category=18271" rel="tag">王华年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%85%B8%E4%BA%BA%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">瑞典人彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E8%B6%85%E5%B9%B3/?category=18271" rel="tag">罗超平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E6%83%85%E5%8C%85/?category=18271" rel="tag">表情包</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/426215/" target="cdt-mirror">共识网｜邹思聪：帝吧“FB远征“背后的迥异三观</a>
 </h2>
 <p><p><em>【编者注】此文为作者去年11月所作，共识网近日在其微信公号进行了转发。微信原文已被和谐，本文内容来自传送门。</em></p>
@@ -708,116 +751,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%9C%E8%8E%9E%E5%88%B6%E9%80%A0%E4%B8%9A%E8%A1%B0%E9%80%80%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B/" target="cdt-mirror">纽约时报 | 东莞制造业衰退折射中国经济转型阵痛</a>
-</h2>
-<p><p>中国东莞——方明华（音）在一家废弃家具厂的周围走着，指着曾经是上百名工人辛勤工作的厂房，工人们曾在那里用粗木板制造电视柜和衣柜，供应给中国及其他新兴经济国家里渴望成为中产阶级的人。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%9C%E8%8E%9E%E5%BA%9F%E5%BC%83%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA.png" alt="东莞，一处废弃的鞋业批发市场。这座镇上的工厂目前举步维艰，但曾一度占全球运动鞋生产的四分之一。" width="550" height="368"><p>东莞，一处废弃的鞋业批发市场。这座镇上的工厂目前举步维艰，但曾一度占全球运动鞋生产的四分之一。</p></div>
-<p>这家工厂正在搬到距此地两小时车程的新址，由于成本不断上升、订单减少，它在这里已无法生存。据方先生估计，东莞有多达三分之一的家具厂已经倒闭，许多其他厂家也在苦苦挣扎。</p>
-<p>46岁的方先生说，“经济放缓是真的。”在过去的22年里，他从每月挣50美元（约合400元人民币）的打工者升到生产主管的位置。</p>
-<p>东莞曾是繁荣的制造业中心，这里出现的衰退是全球投资者在试图解决的中国经济难题的一部分。</p>
-<p>虽然中国已经逐渐从东莞特长的低端制造业转型，但国内庞大工业部门的长期低迷对国家已经放缓的经济是个严重的威胁。虽然政府试图对情况进行控制，但仍旧存在着中国经济情况实际上比预期差的风险，这种担忧已让世界各地的股票市场坐立不安。</p>
-<p>来自中国的最新信号并没有给人提供多少安慰，经济疲软没有任何减弱的迹象。周二，<a href="http://www.nytimes.com/2016/01/19/business/international/china-gdp-economy.html" target="_blank" rel="nofollow">中国公布</a>的去年第四季度增长率只有6.8％，这是自2009年的金融危机深渊以来，最慢的经济扩张速度。</p>
-<p>方先生说，每当说到经济时，政客和商业领袖们就大谈特谈产业创新和升级，“但我认为那只是个口号。其实很难实现。”</p>
-<p>东莞位于中国南方珠江三角洲的核心位置。几十年来，这个地区推动着中国向全球出口量的上升，制造了从家具到服装和鞋等各种商品。</p>
-<p>但是，随着亚洲成本更低的生产基地逐渐形成，东莞的世界工厂已经面临困境。去年，中国的出口量自金融危机以来首次下降，这也仅仅是经济自从在20世纪70年代末向世界开放以来，中国出口量的第二次下降。</p>
-<p>中国在全球制造业的地位很可能会由于跨太平洋伙伴关系而受到进一步的削弱。这一以美国为首的贸易协议将深化美国与越南和马来西亚等亚洲国家的关系，但不包括中国。</p>
-<p>经济低迷已给政府制造了一种棘手的局面。</p>
-<p>官员们在鼓励逐步淘汰低端出口产品，同时在提倡服务业和高技术制造业。尽管更新、更充满活力的公司在中国呈上升的趋势，但风险在于，这些公司的发展速度不够快，不足以弥补轻工制造业的空缺，轻工制造业虽然在收缩，但仍是全国各地的主要用人单位。</p>
-<p>一些传统的制造商对经济衰退的反应，是把工厂向内地或海外搬迁，因为这些更远地方的成本通常相对较低。其他制造商则努力在国内市场上建立自己的品牌产品，以减少对出口订单的依赖。</p>
-<p>“传统老行业正在感受到这种不幸的痛苦，”牛津经济研究院(Oxford Economics)亚洲经济负责人高路易(Louis Kuijs)说。但是他补充说，从低端的劳动密集型制造业转型，“是正在发生的经济结构性变化的一个不可避免的部分。”</p>
-<p>43岁的张林（音）正在努力适应这种转型。</p>
-<p>25年前，张先生离开了他在四川省西部的老家，到东莞鞋厂打工，后来当了主管，他曾在这里的一家台资工厂负责监督大约7000名生产线上的工人。据东莞鞋业协会的估计，在金融危机之前的鼎盛时期，东莞工厂生产的运动鞋，大约占到全球出售运动鞋的25%。</p>
-<p>但是，成本上升也给制鞋企业带来了沉重的压力。张先生工作的台资工厂已于2012年倒闭。他和几个伙伴一起办了一家自己的工厂，为盖世威(K-Swiss)和杜兰戈(Durango)等品牌生产鞋子和皮靴。如今，张先生的工厂雇了大约700名工人。</p>
-<p>成本在上升，海外客户的需求也在不断下降。去年，公司订单上的鞋子减少了约120万双，与2014年相比，下降了15％左右。</p>
-<p>“我们能不能再坚持五年很难说——前景不怎么好，”张先生说。</p>
-<p>为了应对这种局面，该公司已减少了工人的工作时数，而且也在考虑搬厂。</p>
-<p>该公司打算继续经营这里现有的工厂，同时也计划未来扩张到欠发达省份贵州去。那里的劳动力成本比东莞低40%。张先生去年8月还去孟加拉考察过，东莞的一些大型制鞋厂已经将生产环节转移到了那里。</p>
-<p>该工厂也已开始生产自己的真皮休闲鞋系列，通过网店在中国境内销售。在阿里巴巴的主要的网购平台淘宝上，这些鞋的售价高达75美元一双。</p>
-<p>“海外订单正在减少，你需要有两手准备，”张先生说。</p>
-<p>其他一些行业也同样步履维艰，包括一些电子产品制造商。去年10月，电信设备制造商华为和中兴通讯的供应商福昌电子突然关闭，导致数以千计的工人在深圳政府大楼前抗议。</p>
-<p>中国官员担心发生更多的劳工骚乱，希望纾解该行业的压力。本月早些时候，中国一个主要的科技监管机构表示，将与一个大型本地银行一起，设立300亿美元的资金，为陷入困境的中小型电子产品供应商提供支持。</p>
-<p>虽然东莞仍然有很多活跃的工厂，但成功的大厂越来越倾向于采用高科技，减少对人力的依赖。</p>
-<p>在阿拉巴马州的汽车厂工作15年后，迈克尔·瑞卡(Michael Recha)2012年搬到东莞，组建了一家专门的汽车零部件厂。它是中国第一批这样的工厂，隶属于西班牙汽车零部件制造商海斯坦普(Gestamp)公司。该工厂使用一种称为热冲压的技术，为汽车保险杠和车身面板中的精密部件制作金属片，客户包括国内外汽车制造商。</p>
-<p>但是在生产中，自动装置所占的份额越来越大。这家工厂仅雇佣了400名工人，每天两班倒。</p>
-<p>“中国不再是一个低成本国家，所以我们在这里也使用了和欧洲相同的自动装置和设备，”瑞卡说。</p>
-<p>家具厂的方先生估计，把三个厂搬到内地、进行合并之后，公司每个月可以节省大约15万美元的运营成本——电费和水费减少了，税也降低了。节省最多的是租金，因为公司老板可以买到低价地皮，修建新厂。</p>
-<p>但搬厂也有搬厂的问题。</p>
-<p>新工厂的位置相对偏僻，下班后时间没有太多消遣。方先生的妻子留在了东莞，她对“分开不太开心，”他说。</p>
-<p>两人现在的打算是，下个月过完春节之后，她就去他那里。</p>
-<p>“她会找到新工作，可能就在同一家工厂，和我一起，”他说。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%9C%E8%8E%9E%E5%88%B6%E9%80%A0%E4%B8%9A%E8%A1%B0%E9%80%80%E6%8A%98%E5%B0%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E9%98%B5%E7%97%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E8%8E%9E/?category=18271" rel="tag">东莞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E5%95%86/?category=18271" rel="tag">制造商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%BD%8E%E8%BF%B7/?category=18271" rel="tag">经济低迷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B/?category=18271" rel="tag">经济转型</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9D%8E%E6%80%9D%E7%A3%90%EF%BC%9A%E4%BB%8E%E8%94%A1%E8%8B%B1%E6%96%87%E4%B8%8A%E4%BD%8D-%E7%9C%8B%E5%A5%B3%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%90%9E%E6%94%BF%E6%B2%BB/" target="cdt-mirror">李思磐：从蔡英文上位 看女人为什么要搞政治</a>
-</h2>
-<p><p><strong>从这里看对岸，我还是想谈一谈王如玄、王清峰和彭婉如们给我的启示，从而去寻找千万女人命运的答案。</strong></p>
-<p>在中国大陆能够接触到的台湾信息，媒体和读者的关注点都总是过于狭窄：热点时刻主要围绕地区领导人选举，囿于两党中男性政治人物的言行，主要从两岸关系的角度看台湾，而少注意政治与社会议题的关联，以及在政治周边活跃的各式各样的人物和团体。</p>
-<p>终于，蔡英文让女性进入了这样一种看似重要，实则刻板无聊的“硬新闻”。</p>
-<p>作为一个女权主义者，我被记者问及这个问题：蔡英文胜选对于大陆女权主义有何意义？我想，媒体记者们依从惯性，高估了“硬”的选举和政治的意义。其实应该问的是：“女权主义对于蔡英文胜选有何意义？”或者“台湾与大陆的女权主义对于彼此有何意义？”</p>
-<p><strong>▍</strong><strong>为什么蔡英文要感谢王如玄？</strong></p>
-<p>蔡英文的胜选没有悬念，从她胜选之夜开始，大家都淡忘了她的对手们，更不要说对手的副职候选人。自然也没人注意这条“茶杯里的风波”：选前在参加妇女组织活动的时候，国民党台湾副领导人候选人王如玄批评蔡英文作为女性政治人物，在“内阁”时期，根本没有为女性做过一些什么。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640JTK6D46M.jpg" alt="国民党侯选人王如玄参选海报" width="450" height="398"><p>国民党侯选人王如玄参选海报</p></div>
-<p>而蔡英文的回应则是：“我知道王如玄女士最近对我批评很多，不过，我期待我们的支持者不要抹杀她过去在台湾妇运上的贡献。民进党妇女部曾拍过一支纪录片《回首来时路》，记录所有曾为台湾女性参政打拼的前辈所努力的点点滴滴。我要向这些前辈说一声谢谢，我也要跟许多不是本党的女性参政前辈、妇运前辈，包括王如玄女士，以及所有曾经为台湾性别平等努力过的朋友们，说一声谢谢。今天，蔡英文可以女性‘候选人’的身份站在这里，我要感谢所有妇运前辈曾经做过的努力！”</p>
-<p><strong>除了一个胜券在握的竞争者对对手的姿态，蔡英文的表态多少是基于历史的事实。</strong>是的，尽管蔡英文对台湾的党外运动和女权运动从来没有参与，始终是一个体制内的政治“职人”，她作为地区领袖的今天，却大多拜二者之赐。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640171RWLDG.jpg" alt="蔡英文的性别政策被妇女团体指责不及格" width="400" height="569" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640171RWLDG-211x300.jpg 211w, http://chinadigitaltimes.net/chinese/files/2016/01/640171RWLDG.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"><p>蔡英文的性别政策被妇女团体指责不及格</p></div>
-<p><strong>▍</strong><strong>从政的原动力</strong></p>
-<p>对于男性来说，政治从来都是为他们设置好程序的游戏。男人生来就要做“大事”，并不需要考虑“我从哪里来，要到哪里去”的问题。但女人在政治的场域是从无到有，从花瓶、边缘到主流。蔡英文不是一个人走过这女人从政的“最后一哩路”——迄今为止，参与台湾地区领导人竞选的女性，除了蔡英文，全部都在台湾的女权史上扮演了重要角色。1996年作为副职候选人的王清峰是慰安妇对日诉讼的主要参与者，2000年吕秀莲更是当代台湾妇女运动的先驱者。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6407PY3D1YD.jpg" alt="王清峰的参选广告 " width="500" height="296" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6407PY3D1YD-300x178.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6407PY3D1YD.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"><p>王清峰的参选广告</p></div>
-<p>1971年，27岁的吕秀莲在台大法律系发表以《男性中心的社会该结束了吧》为题的演说，提出了她的看起来有些类似“性别中立”的“新女性主义”。她主张“先做人，再做男人或女人”、女性要“左手拿锅铲、右手拿笔杆”，主张堕胎合法化、批评《民法（亲属篇）》对妇女的歧视、反对性别歧视，要求“用人唯才，不问性别”。她办出版社，写专栏，到处演讲，成功吸引了很多年轻高知女性的加入，这些人很多都成为妇女运动的后继者。</p>
-<p>事实上，本身已经在“行政院”工作的吕秀莲，是因为搞妇女运动，发现在一个威权体制之下，女权主义者的活动面临特务各种干扰，妇女要改善处境难上加难，才逐步加入党外抗争运动的——这不同于她那些党内男同志的生命经验：<strong>女权是她关注人权的入口。</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/64057REDYO8.jpg" alt="64057REDYO8" width="277" height="384"></p>
-<p>终于，美丽岛事件的牢狱岁月之后，吕秀莲从“立委”、地方县市长做起，2000年成为副领导人。然而妇女团体对于这位发动当代台湾妇运的前辈也颇有微词，认为她在高位上对妇女权利并不算上心。吕参加的两次大选，对手阵营都是清一色男性，扁政府所谓的“两性共治”，仍然是男正女副，吕秀莲自己抱怨“深宫怨妇”难有作为。而这次全部“男女搭配”的竞选组合，不能不说是被蔡英文的女性参选正职，以及“小辣椒”洪秀柱的出头催逼而来；既然已经有了女性正职候选人，其他组合全男班就显得相当不合时宜。这种情形是否会在今后的选举中延续成为“新常态”，值得关注。</p>
-<p><strong>▍</strong><strong>女人从政的动力</strong></p>
-<p>当我听到王如玄要接受国民党征召，做这次<strong>注定失败</strong>的选举的副职候选人，惊讶之余，却也在意料之中。作为女权主义者，我当然希望她能够获胜，但是，她所在的党派阵营，却实在很不女权，是一个<strong>家长制文化最严重的党</strong>，党内接班梯队，基本都来自政治世家。“小辣椒”洪秀柱表面因为两岸路线而被换下候选人的位置，背后透露的问题是，作为没有家族和派系背景的女性候选人，她根本得不到党内的支持与辅佐。</p>
-<p>国民党需要王如玄“为弱势担当”的道德形象，来挽救他们失去的人心。王的个人生活为选举付出很大代价，因为之前买卖眷村房屋的记录被曝光，她不得不一再道歉、向数十家公益组织捐出相当于数百万人民币的盈利，搬离丈夫职务宿舍，她身为司法系统官员的丈夫也选择了辞职。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640PRVOTNVT.jpg" alt="在竞选中因为炒卖军宅而被迫搬离丈夫宿舍的王如玄" width="489" height="320" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640PRVOTNVT-300x196.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/640PRVOTNVT.jpg 489w" sizes="(max-width: 489px) 100vw, 489px"><p>在竞选中因为炒卖军宅而被迫搬离丈夫宿舍的王如玄</p></div>
-<p><strong>然而我知道，王如玄为何要参选。</strong>2008年，刚刚进入马英九内阁的她，毫无国民党内一些上位之后凡事谨慎的官员的习气，爽快地接受了我的访谈。她那时候是“劳委会主委”，誓言要改变消除就业歧视，推行劳保年金、两性育婴假等政策。她说年近半百，为自己赚钱只剩下一个数量积累，而进政府“丰富了我的生命，我的努力可以改变这个社会，真的可以为劳工做一些事情，去实践我觉得对的事情，还蛮有趣的”。她说，只是把自己当作一个临时工：“我随时可以为了我的政策在这里，也可以随时为了我的政策而走。”她当然愿意利用副领导的位置，再次推展她的政策理念。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640DOHORPLF.jpg" alt="刚刚上任“劳委会”的王如玄" width="489" height="313" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640DOHORPLF-300x192.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/640DOHORPLF.jpg 630w" sizes="(max-width: 489px) 100vw, 489px"><p>刚刚上任“劳委会”的王如玄</p></div>
-<p>王如玄从大学时代开始参与妇女运动，司法考试考了很多次才拿到律师资格的她，1994年在一桩家暴杀夫案中成名。这起被女权主义者、小说家李昂写进成名作《杀夫》的案件，当年本没有公众关注。当时，“法不入家门”，当事人邓如雯上初中时被地方上颇有财势的流氓林阿棋强奸，而这个施暴者曾经长期性侵卖槟榔的邓母，最后结果却是“友人调解”不要报案，干脆嫁给强奸犯。婚后林一再殴打凌虐邓如雯家人触法的时候，总是有地面上的民进党政治人物帮忙说合保释——这也能说明，为什么民主运动不能取代妇女运动，泛泛的“人权”保障不能惠及女权。遭遇了6年罄竹难书的暴力和威胁后，22岁的邓杀了“丈夫”。女权团体的抗议和介入案件，最后法官给予邓如雯轻判，邓如雯也获得了子女的监护权。</p>
-<p>在这之后短短几年，在妇女团体持续的政策游说下，台湾迅速出台了《家庭暴力法》。包括这部法律在内，十年内相继出台的《儿童及少年性交易防治条例》、《性侵害犯罪防治法》、《性骚扰防治法》、《男女工作平等法》和《性别平等教育法》并称“<strong>女人六法</strong>”，王如玄一直参与其中。</p>
-<p>这个迅速围绕妇女权利立法的过程，也是与1990年代初“国会”改选有关。新的民意代表有了政绩压力，但是对具体社会问题，并没有很深的了解。因此，与民间团体合作，促进不同群体的权利保障，是积累政治资本的捷径。这种选举与女权运动的互利关系，带来了妇女立法的大跃进。</p>
-<p>所以，在大选前的电视辩论中，王如此表达她参政的初衷：“我想到的是……穷我尽毕生之力，又能帮助几个邓如雯？我开始明白政治的力量。透过政治，改变制度，才能发挥更大的力量。因此，我决定走出法庭，推动立法。……这，就是我从政的原动力。所以，对我而言，政治不是勾心斗角、不是抢新闻版面、不是打口水战、更不是抹黑对手。我们可以透过建立制度及‘国家’资源的分配，让更多弱势的需求被看到、被照顾。这是权贵者难以理解的，因为他们没有这样的生命经验。”</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/64050IML4G6.jpg" alt="竞选辩论中的王如玄" width="329" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/64050IML4G6-247x300.jpg 247w, http://chinadigitaltimes.net/chinese/files/2016/01/64050IML4G6.jpg 329w" sizes="(max-width: 329px) 100vw, 329px"><p>竞选辩论中的王如玄</p></div>
-<p>王清峰和王如玄是我在马“政府”中唯二采访到的“部长级”成员，她们给我这个机会，除了我当时服务的媒体机构的背景，也因为我是通过自己的女权社会网络联络她们。<strong>王清峰律师在台湾社会是“菩萨”形象，她的女权生涯，先是与黑道为敌，解救雏妓，继而为慰安妇发声奔走，并照顾她们的晚年。她为弱势妇女打官司，从不收钱。</strong></p>
-<p>1996年，王清峰与曾经任“监察院长”的陈履安搭档以无党籍身份参选，二人同为佛教徒，希望在台湾经济高速发展，政治转型而又黑金化的“李登辉时代”，让大家意识到社会必须要有精神的追求。王清峰是这样解释自己为什么要全台湾走遍祈福拜票，踏上那注定失败的参选行程：“今天我们对政治的厌恶，正是我们需要去破解的。”这种从理念出发而不顾目标是否达成的实践哲学贯穿了她的人生。她曾经如此描述当初那一群年轻女知识分子为雏妓与庞大的黑道对峙的意义：<strong>“虽然海上不是每艘船都会进入你的港，可是灯塔不能不设，让她有一丝希望。”</strong></p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6409KJIMH82.jpg" alt="6409KJIMH82" width="400" height="601"><p>王清峰照片。作者拍摄。</p></div>
-<p>终于，2008年，王清峰成为“法务部长”。在这个有更多资源促进公平正义的位置上，她却在两年之后挂冠求去，只是为了监狱里关着的尚未处决的44个死刑犯。陈水扁执政期间对国际上声称废除死刑，对内却核准了二十几个新的死刑犯，用技术借口一再拖延不执行。幕僚劝王清峰也用拖延战术，可是王清峰认为“政务官要负责任讲清楚自己的政策”，不肯含糊，甚至亲自撰文说明废除死刑的理念。终于，她在严重的社会反弹中辞职。</p>
-<p>王清峰与王如玄，她们在政治场域的存在，更多是坚持从事社会运动时候的理想，不愿意对冷漠的、目标导向的官僚体系让步。她们确实为政策而来，为政策而走。王清峰从佛家“慈悲”的哲学出发，希望通过司法净化社会，推行“修复式正义”让服刑人通过服务社会来自新，再譬如她坚持要在自己任上废除死刑。而王如玄从妇女议题进入劳工领域，最后因为坚持要调涨最低工资、保证外来劳工的平权而主动辞职。她们一再尝试把弱势者的需求、女性的生命哲学和社会政治观点带进男人们的政治斗兽场，然而无论是行政体系，还是民意，都并不是那么支持她们。</p>
-<p>她们的经验表明，仅仅是女性在政治场域的来来去去，不改变政治的核心结构，并不足以纳入应该被讨论和解决的公共议题，尤其是“社会朝哪里走”的问题。</p>
-<p><strong>▍</strong><strong>妇女参政奠基者</strong></p>
-<p>就在这次选举之前，还有一条社会新闻——一桩将近二十年未破的命案，因为新线索发现而被媒体重提。这桩命案的被害人，是当年民进党首任妇女部主任彭婉如。彭在1996年底，民进党在高雄召开的临时党代会前夜，坐上一辆出租车返回酒店，就此失踪。几天后人们发现被司机奸杀的她的尸体，情形惨不忍睹，法医形容“凶手满怀仇恨”。这桩命案因为证据不够而成为悬案。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6406C6JDAHR.jpg" alt="6406C6JDAHR" width="300" height="168"></p>
-<p>到了1990年代，“国会”选举带来更多的参政机会，而在男性主导的政党文化中，女性并不容易获得提名。而当年彭婉如南下出差，就是为了说服党代表们支持党内的妇女参政提名四分之一的保障。在彭婉如被谋杀次日，民进党通过了她一直为之奔走的这个“女性四分之一党公职保障条款”。从此之后，民进党各类公职和选区提名名额中，每四席中女性至少应占一席，<strong>这意味着，假如成为执政党，提名的所有政务官员中必须有超过1/4的女性。</strong></p>
-<p>那是台湾政党竞争日益激烈的时代。自民进党设定妇女参政保障比例之后，新党、国民党也相继在不同选举设立三分之一或四分之一的妇女保障名额。除此之外，国民党和民进党也在党章中规定党内职务也适用四分之一妇女保障名额或性别比例原则。1999年，妇女团体游说女性“内政部长”叶金凤，在“地方制度法”中将各级选举的妇女保障名额，提高为四分之一。</p>
-<p><strong>表面看起来，这个规定违反了“机会平等”</strong>，连吕秀莲当年也反对比例保障，然而，在大男子主义文化盛行的中国人社会，比例保障帮助从政女性对抗歧视，增加了她们的参与机会，让机会平等免于停留于形式。</p>
-<p>2000年，陈水扁落实“女性内阁四分之一”，这一做法被2008年的马英九延续；继而政府“妇权会”吸纳妇女组织倡议，2004年修“宪”时，在立委选举不分区立委席次部分，明定“各政党当选名单中，妇女不得低于二分之一”。而政府内部所有委员会也必须达到单一性别1/3的要求。很快，在政治场域，“任一性别比例应达三分之一以上”成为一个主流的性别正义指标。</p>
-<p><strong>回过头来看蔡英文，如果没有党内女权主义者发起的参政比例保障动议，并且最终形成制度，她能登上今日的位置吗？</strong>历史和人生都很难假设，回头看蔡英文的履历，她上高中的时候，差不多正是吕秀莲搞“新女性主义”如火如荼的时候，“白富美”少女一路从欧美名校读到博士，是否受到当时的女权思潮影响不得而知。国民党威权后期重视“选贤举能”，没有女权运动，也许她仍然可能被吸纳进李登辉政府，成为顾问团队的一员。</p>
-<p>然而，如果没有参政比例的推动，民进党会是另一个党。毕竟，吕秀莲第一次宣誓就职的时候，党内大佬辜宽敏会说“穿裙子的不适合当三军统帅”，2008年老人家当仁不让出来跟蔡英文竞选民进党主席的时候又说，将民进党的未来交给一位没有结婚的小姐，难道民进党都没有人了吗？（竟无一人是男儿啊）2012年，前主席施明德又要求她“公开性取向”为选民负责。<strong>党内早期的大男子主义文化，需要不断地以制度去冲击。</strong></p>
-<p>在国际上比例代表制的讨论中，有基于不同立场的对于性别比例的论证。除去妇女从政的示范效应、带来多元利益表达以及增加政治组织合法性之外，其中功利主义的说法，就是有利于广泛吸纳人才。确实如此，女性候选人教育良好，亲和、清廉、专业的形象，有助于草根、乡土的民进党的转型，而且女性候选人的当选率高于男性，女性的加入，确实加强了政党的资本与合法性。</p>
-<p>蔡英文自己就是一个例子。2000年蔡英文“入阁”，因为当时的执政党要向社会证明自己是一个“民主的政党”，“两性共治”的承诺很重要。如果没有当时1/4的比例保障，女性的位置会更少，她未必有机会。蔡确实对于行政很在行，前后任“陆委会主委”“行政院副院长”兼“消保会主委”，在任内施政满意度永远第一名。正是前面的经验和公众形象的积累，让她2008年可以出来，在民进党男性深陷弊案风波的时候，以一个不同于他们风格的形象，领导和改造民进党，使其走出低谷。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640YLAXOAYI.jpg" alt="向“陆委会主委”蔡英文汇报香港行程的台北市长马英九" width="399" height="271" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640YLAXOAYI-300x204.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/640YLAXOAYI.jpg 399w" sizes="(max-width: 399px) 100vw, 399px"><p>向“陆委会主委”蔡英文汇报香港行程的台北市长马英九</p></div>
-<p>蔡自身的能力表现固然很重要，但如果不是妇女运动一再拓宽女性参政的舞台，让女性得以长期在县市长、县市议员、“立法院”和“行政院”各个层次上耕耘，展现执政议政能力，选民对于从政女性，会有今天这样的信心吗？</p>
-<p><strong>▍</strong><strong>那一夜的两岸</strong></p>
-<p><strong>多元的价值，弱势的诉求，世代正义，住宅正义，这些都是蔡英文从2008年的低谷一路走来，与社会运动相互呼应并且逐渐赢得民意的铺路石。</strong>然而，执政意味着重新回到一个顽固的主流架构，在一个资本主义缔造的全球体系中，无论是选举政治，还是所谓号称“选贤举能”的政体，人民大多还是用经济衡量政府的政绩，政府也通常以经济绩效自证。蜜月会非常短暂，民意也常常会自相矛盾。<strong>在马英九执政期间，常常是上一条新闻还在讨论政府有没有“出卖台湾”，下面一串新闻都在计算陆客到底带来了多少真金白银。一方面，台湾人为“小而美”的发展模式自豪，另一方面又为经济数据而焦虑。</strong></p>
-<p>被称之为“空心蔡”的蔡英文，迄今为止，很难知道她的政治理念为何。她在国民党和民进党的政府都干的不错。她的“空心”或冷静，也许是政治职人式的审慎。正因为如此，她很可能比一些男性同行更有能力处理复杂的问题，也会给台湾女性的参政表现刷新一些成绩。因为她从未试图超越体制，去重新写这台笨重机器的新程序，而只是用娴熟的技艺——精算、劝服、平衡，让机器磨合得更顺畅。</p>
-<p>即便只是改良，这台机器也还有不少地方需要着力。台湾女性参政难以涉足的层级，是乡镇长和里长。乡镇长的职位通常涉及政府工程分包、黑道/商界的错杂关系，而里长则是更加攸关草根妇女在家庭和社区中的地位。<strong>精英妇女能得到顶尖的地位，不等于基层女性能够获得同样的领导力。</strong></p>
-<p>然而我也不愿意跟有些朋友所批评的那样，认为蔡英文只是复制了一个资产阶级的代议政治，对妇女和弱势毫无益处。</p>
-<p>台湾政治和妇女运动互动的这些年，女性政治人物整体在政治泥塘中表现清流，她们确实形成了女性特有的政治文化。而女权主义者则大量介入政治，成为政府官员、咨询委员、顾问和民意代表，这个庞大而密集的女权与政治的互动当中，不仅让政策法律更加照顾女性和边缘群体利益，也通过监督施政而保证了执行的效果。政治是人的实践，是重塑公共的努力，然而，这个重塑的过程必须紧密地嵌入政治结构，因此无限艰困，面临理想、道义和功利之间的冲突，正如马克斯韦伯所言，“政治是件用力而缓慢穿透硬木板的工作，它同时需要激情和洞见”。</p>
-<p>蔡英文胜选之夜，比女权圈里小小的争议更加响亮的，是关于一位即将博士毕业的高龄产妇的死亡，网友对她丈夫的声讨，以及女权友人对消费这一事件的淘宝店主A姓的大加挞伐。A氏据说以进化心理学和女性成功学成功成为妇女们的情感生活导师，看网友总结她的荒谬观点，不外乎“这个世界就是如此，男强女弱就是天意，抱紧一个男人兼饭票让他满意是天大的事；男人施暴不可避免，你谴责没用的啊，我来告诉你怎么通过变成一个冰雪聪明的人来躲灾避难”。</p>
-<p>当我们通过微信传播的直播地址，观看台湾的“女人当家”时，我们这边的关于女人处境的讨论，却总被妇女成功学贩子，以“嫁人”、“生孩子”、“买东西”和“成为人生赢家”之类的私人处方终结。从这里看对岸，我还是想谈一谈王如玄、王清峰和彭婉如们给我的启示：<strong>必须回到公共，回到政治，去寻找千万女人命运的答案。<br></strong></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9D%8E%E6%80%9D%E7%A3%90%EF%BC%9A%E4%BB%8E%E8%94%A1%E8%8B%B1%E6%96%87%E4%B8%8A%E4%BD%8D-%E7%9C%8B%E5%A5%B3%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%90%9E%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E8%80%85/?category=18271" rel="tag">女权主义女权主义者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -829,7 +762,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -839,5 +772,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

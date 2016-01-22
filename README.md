@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B9%A0%E6%80%BB%E5%85%B3%E4%BA%8E%E5%B8%9D%E5%90%A7fb%E5%87%BA%E5%BE%81%E7%9A%84%E6%8C%87%E7%A4%BA/" target="cdt-mirror">【习总日记】习总关于帝吧fb出征的指示</a>
@@ -201,7 +201,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E5%B2%A9%E6%9D%BE/?category=18271" rel="tag">白岩松</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【真理部】“帝吧出征”事件</a>
 </h2>
@@ -721,7 +721,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -731,5 +731,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

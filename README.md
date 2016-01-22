@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%AF%B9%E5%A4%96%E6%AD%A2%E6%88%98%E5%AF%B9%E5%86%85%E7%A6%81%E8%A8%80/" target="cdt-mirror">【习总日记】 对外止战对内禁言</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，21）</p>
+<p>对外止战</p>
+<p>我深信，越是武备强大，外敌越不敢轻举妄动。故我下达指示，多造武器，造好武器。以达到止战作用。</p>
+<p>对谁止战？对周边小国，如越南菲律宾等。要使我们的武力能够在与周边小国局部战争中，达到一击即溃的效果。唯有如此，小国必不敢妄动。小国不妄动，战争便不会发生。这便是我备武止战的战略决策。就目前形势而言，我们非常害怕发生战争，即使是局部小型有限的战争也要尽量避免。因为战势一旦控制不好，便会蔓延成大规模战争，会导致美日加入。一旦美日加入，战事的主动权由谁掌控就很难说了。</p>
+<p>譬如台湾自干五黄安举报港台艺人台独言行，刀刀见血，绝无落空。最后却栽在<a href="http://chinadigitaltimes.net/space/%E5%91%A8%E5%AD%90%E7%91%9C" target="_blank">周子瑜</a>身上，输到脱裤，血本无归。其实大陆这边两岸政策依旧，台湾那里也并无重大立场改变，但两因素导致翻盘。一是十六岁花季美少女，一是正值台湾大选季。两者相互影响酿成挺周护台大风暴。最终结果，我党躺枪无可避免。造孽者黄安自遭两岸娱乐业联手绞杀，死有余辜。</p>
+<p>同理，战争的不可预测因素，对于维稳大于天的中共政权，是要极力避免的。</p>
+<p>对内禁言</p>
+<p>党内讲规矩，党外讲法律。党内讲规矩，不懂规矩触犯规矩者，双规底下无人权，要死要活不由你选。党外讲法律，懂法律吗？好，请君入瓮。用法律犯法，见过么？没见过没尝过的请你见识请你尝。伟大领袖毛主席说无法无天，我们有法也可以无天。</p>
+<p>我们抓了约15位维权人士，包括律师，目的就是要<a href="http://chinadigitaltimes.net/space/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95" target="_blank">掌握法律的主动权</a>，掌握法律的解释权，掌握法律的使用权。</p>
+<p>从前我们会羞答答地说，法律是我们的，也是你们的，但归根结底是我们的。不，今天我要告诉你们，明白坦率地告诉你们，法律是我们的，不是你们的，从来就不是你们的。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%AF%B9%E5%A4%96%E6%AD%A2%E6%88%98%E5%AF%B9%E5%86%85%E7%A6%81%E8%A8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%8C%97%E4%BA%AC%E6%8B%85%E5%BF%83%E8%B6%8A%E5%8D%97%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/" target="cdt-mirror">东方日报 | 柳三禅：北京担心越南颜色革命</a>
 </h2>
 <p><p>作者：柳三禅</p>
@@ -850,54 +871,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%A4%E6%98%93%E5%BD%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E6%81%B6%E5%8C%96/" target="cdt-mirror">交易录 ｜中国企业债务危机恶化</a>
-</h2>
-<p><p>美国《纽约时报》网站1月18日报道，当前，像舜天船舶这样债台高筑的企业处在中国经济困境的核心，这种困境扰乱了最近的货币、商品和股票市场。造船业是中国众多工业行业中的一员，这些行业包括钢铁制造业、煤矿开采业和汽车业等，在好的年景里，这些行业中的企业能从国有银行获得大量贷款来扩大规模，这帮助推动了中国多年来两位数的经济增长。但现在经济增长率下滑至7%左右，许多企业出现了资金紧缺的状况。</p>
-<p>江苏舜天船舶股份有限公司一开始是家小公司，在1980年代曾经买卖过一些船只。但过去几年，这家中国国有企业依靠贷款大肆扩张，开了几间造船厂，还签下几个价值数亿美元的订单。</p>
-<p>现在，中国的经济问题引起了货币汇率、大宗商品和股市的波动，而像舜天这样负债累累的公司，则处在问题的核心。</p>
-<p>舜天公司刚刚发现自己成了法庭上的被告，中国最大的一家银行要求法院判处这家公司破产，以便赔偿它所欠下的逾期贷款。政府监管者正在调查这家公司财务报告的真实性，其银行账户最近已被冻结，这家深圳上市公司的股票从去年八月开始停止交易。</p>
-<p>“情况很糟，”香港船运业咨询人士马修·弗林(Matthew Flynn)说。</p>
-<p>在经济行情好的时期，许多行业会从国有银行大量贷款以支持扩张，造船业只是其一，其他还有钢铁制造、采矿和汽车制造等，它们助推中国经济在过去三十年保持了两位数增长。但中国经济增长率现在已经下滑至大约7%，很多企业开始出现资金匮乏的情况。</p>
-<p>这加重了外界对中国经济走向所持的各种担忧，全球投资者紧张不安，由此给石油价格带来很大压力。像舜天这样的企业让这一前景更加不明朗。</p>
-<p>多年来，国有企业一直能持续提高产品价格，助其偿还贷款。随着消费者收紧荷包，通缩压力显现，这些企业被迫降低产品价格，但它们背负的贷款并没有减少。</p>
-<p>企业的困境给政府的经济管控雪上加霜。为避免经济增长速度出现剧烈下滑，中国当局正加紧实施一系列刺激措施，比如建造更多高铁线路，鼓励国有银行持续提供贷款。</p>
-<p>但随着企业破产给中国带来更多压力，贷款持续增多只会让中国经济愈发脆弱。去年，中国各类债务——家庭、企业和政府债务——增长的总额，相当于中国经济总量的12%。中央银行周五发布的数据显示，总体贷款额度在去年12月大幅增长，增速达到去年6月以来的最高水平。</p>
-<p>借贷大部分银行贷款的工业企业，正在进入一个十分危险的环境。</p>
-<p>产品价格低，或不断下降，意味着企业需要每年大幅增加销售额才能有足够的收入偿还贷款。但在经济增长放缓的时候，企业实现销售增长比较难。</p>
-<p>中国不是唯一一个生产价格下降的国家。由于石油和其他大宗商品价格疲软，美国的生产价格也从一年前开始下降。</p>
-<p>中国特别的地方在于，它还要应对劳动力成本急剧上升的问题。随着劳动力年龄增大，以及更多的年轻人倾向于找白领工作，蓝领工人的工资一年要增长将近10%。很多行业出现过度投资，也导致有太多工厂和其他企业在争夺有限的生意。</p>
-<p>“劳动力成本上升，产品价格下降，这两项加在一起是个不小的挑战，”惠誉金融机构香港办公室高级董事鲍冰娜(Sabine Bauer)说。</p>
-<p>从舜天等造船企业的情况可以看出这些问题的严重程度。</p>
-<p>中国的海岸线沿岸各个港口和沿海诸河两岸，都有不少企业买下大块土地，购买起重机，聘用大量焊工进行建设。中国的造船产能在全球所占比例从2008年的五分之一，增长到去年的五分之二。</p>
-<p>质量控制从一开始就是个问题。“接连制造出来的两艘船原本应该一模一样，但在中国就是两艘不同的船，”曼哈顿船舶经纪人巴兹尔·卡拉察斯(Basil Karatzas)说。“在日本，他们连着造十船，也是一样的。”</p>
-<p>尽管不少中国造船厂都遭到很多这样的投诉，但这个行业竞争非常激烈。日本和韩国造船厂要求买家为订单支付20%的定金，另外还要有一家国际银行为其担保，如果买家违约，将由银行负责支付剩余款项。尽管中国造船上也要求同样买家预付同样比例的定金，但他们不要求国际银行担保，会接受那些财务状况并不稳固、实际上是空壳公司的企业所下的订单。</p>
-<p>这让中国造船厂处在非常危险的境地。</p>
-<p>如果船只价格剧降，买家可以放弃定金，不再支付剩余船只费用，让造船厂自己解决这个烂摊子。因为全球大宗商品需求在过去两年有所萎缩，船只价格下降了逾20%——有些情况下降幅要更大。</p>
-<p>中国造船厂大量生产的5.8万吨散货船，价格已经从2013年的3000万美元降至现在的1600万美元。这种情况下，在价格比较高的时期下单的买家会放弃定金，而不是全款买下已经贬值的完工船只。</p>
-<p>在中国造船厂随处可见造了一半的船体，看起来就像被切成两半的钢铁蚯蚓。很多造船厂没有资金完成船只的建造，以便将其折价卖给别的卖家，那样或许还能让它们拿回一些成本。</p>
-<p>即便是实力比较强的买家也无法完成交易。舜天有四艘完工船只，都被曼谷的珍宝航运公司拒收。之前交付的一艘船也因质量争端被要求退回，在伦敦引发了一起仲裁案件。</p>
-<p>周二，中国最大的商业银行之一中国银行将舜天公司告上法庭，地点是该造船公司创始地江苏省。中国银行要求对该公司进行清算，因为它的违约贷款已经达到8100万美元。</p>
-<p>舜天公司一位马姓高级职员表示，法院本周举行了几场听证会，但她同时表示，据她所知法院尚未做出任何裁决。中国银行和法院都没有对此事置评。</p>
-<p>国有银行如此积极地索偿债务，在中国非常少见。</p>
-<p>中国当局不时发出关闭此类僵尸企业的信号。“僵尸企业并非新生事物，随着经济下行压力加大，其严重性和危害性日益凸显，”中国主要的党报《人民日报》最近表示。</p>
-<p>不过，银行往往继续让贷款展期并提供更多贷款，尤其是对舜天这样的国有企业。该公司控股股东是江苏省政府。对于完全关闭这些公司，政府一直很犹豫，因为担心大规模下岗可能会引发抗议活动。</p>
-<p>然而，造船业正处于彻底的混乱之中，有几十家公司没有任何订单。政府下令停止给该行业提供出口信贷，似乎已经下定决心要强制关停一些企业。</p>
-<p>若非如此，人民币贬值或许本可以让情况有所缓和。</p>
-<p>人民币汇率下降，会使进口商品价格上涨。这有助于减轻会损害企业提高产品价格能力的通缩压力。它也使中国劳动力价格在换算成美元后显得比较低，有助于吸引海外投资。</p>
-<p>这些因素是中国政府近期一直在让人民币贬值的一个重要原因。</p>
-<p>但货币问题也颇具挑战性。</p>
-<p>人民币走低可能会进一步遏制中国对通常以美元定价的进口商品的需求。随着中国需求的减少，货运业停滞不前，船运公司对新船只的需求会变得更少。</p>
-<p>对舜天这样的企业而言，这种状况是灾难性的。“即便是已经签下订单，”船运业咨询人士弗林说，“买家现在也不想收货。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%A4%E6%98%93%E5%BD%95-%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E6%81%B6%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%80%BA%E5%8A%A1/?category=18271" rel="tag">企业债务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%83%B5%E5%B0%B8%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">僵尸企业</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -909,7 +882,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -919,5 +892,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

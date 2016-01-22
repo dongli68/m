@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/426314/" target="cdt-mirror">【立存此照】爱国小粉红“复杂像”</a>
+</h2>
+<p><blockquote><p>转自奇闻录19日消息：1月19日下午，黄安手动清空了自己新浪微博的<a href="http://weibo.com/u/2489313225?topnav=1&wvr=6&topsug=1&is_all=1">所有言论</a>，至此其2014年至今的所有微博均被清除殆尽，他清除微博的动机尚不得知。他在微博举报周子瑜一事似乎就要结束，然而不少“爱国小粉红”的墙外讨伐战还在继续，该事件之后，一些“爱国小粉红”与台湾网友发生了争执、对骂，后来演变成所谓的“互发表情包大战”，更多小粉红甚至“翻墙增援”参与骂战。当然，与各种洗版的表情包相比，更有趣的还是不少小粉红令人脑洞大开的评论。</p></blockquote>
+<p>较为常见的表情包  已经泛滥FB相关页面</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/902421526000626548-1.jpg" alt="902421526000626548" width="440" height="727" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/902421526000626548-1-620x1024.jpg 620w, http://chinadigitaltimes.net/chinese/files/2016/01/902421526000626548-1.jpg 719w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>为中国防火墙辩护的小粉红</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8d245a62gw1f042wbhtv6j20f00qoafc.jpg" alt="8d245a62gw1f042wbhtv6j20f00qoafc" width="440" height="782"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8d245a62gw1f042wf5txfj20f00qotdz.jpg" alt="8d245a62gw1f042wf5txfj20f00qotdz" width="440" height="782"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8d245a62gw1f042whl2ngj20f00qo7a4.jpg" alt="8d245a62gw1f042whl2ngj20f00qo7a4" width="440" height="782"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/8d245a62gw1f042wi4w7aj20f00qowif.jpg" alt="8d245a62gw1f042wi4w7aj20f00qowif" width="440" height="782"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZPdL60WEAAXPDu.jpg" alt="CZPdL60WEAAXPDu" width="440" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZPdL60WEAAXPDu-300x249.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/CZPdL60WEAAXPDu.jpg 600w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZVXVszUkAElnxv.jpg" alt="CZVXVszUkAElnxv" width="500" height="253" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZVXVszUkAElnxv-300x152.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/CZVXVszUkAElnxv.jpg 598w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>施展“我作为你爸”钓鱼计的小粉红</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZSs2C4WYAEyEgR.jpg" alt="CZSs2C4WYAEyEgR" width="450" height="482" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZSs2C4WYAEyEgR-280x300.jpg 280w, http://chinadigitaltimes.net/chinese/files/2016/01/CZSs2C4WYAEyEgR.jpg 513w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p>没有看懂@阑夕微博言论的小粉红</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZUMrmMUkAEflRq.jpg" alt="CZUMrmMUkAEflRq" width="440" height="744"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZUMrmNU8AAReu3.jpg" alt="CZUMrmNU8AAReu3" width="440" height="753"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZUMrjJVAAAW-6X-1.jpg" alt="CZUMrjJVAAAW-6X" width="439" height="567" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZUMrjJVAAAW-6X-1-232x300.jpg 232w, http://chinadigitaltimes.net/chinese/files/2016/01/CZUMrjJVAAAW-6X-1.jpg 439w" sizes="(max-width: 439px) 100vw, 439px"></p>
+<p>在蔡英文页面怒刷八荣八耻的小粉红</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZKc1w2UsAADCTO.jpg" alt="CZKc1w2UsAADCTO" width="450" height="800" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZKc1w2UsAADCTO-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/CZKc1w2UsAADCTO.jpg 600w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p>感觉“八荣八耻”作用不大的小粉红</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZS_tKcWkAAxnlp.jpg" alt="CZS_tKcWkAAxnlp" width="438" height="453" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZS_tKcWkAAxnlp-290x300.jpg 290w, http://chinadigitaltimes.net/chinese/files/2016/01/CZS_tKcWkAAxnlp.jpg 438w" sizes="(max-width: 438px) 100vw, 438px"></p>
+<p>没有历史认知的小粉红</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/7Qz1G.jpg" alt="7Qz1G" width="451" height="800" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/7Qz1G-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/7Qz1G.jpg 451w" sizes="(max-width: 451px) 100vw, 451px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZPemUEWwAAtogo.png" alt="CZPemUEWwAAtogo" width="550" height="455" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZPemUEWwAAtogo-300x248.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/CZPemUEWwAAtogo.png 599w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>不按照套路出牌的小粉红</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZTV1w0WIAAv43I.jpg" alt="CZTV1w0WIAAv43I" width="450" height="586"></p>
+<p> </p>
+<p>然而在人民日报评论文章中 爱国小粉红却是全然不同的另外形象：</p>
+<blockquote><p>转自人民日报22日<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E8%AF%84%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A90%E5%90%8E-%E7%9B%B8%E4%BF%A1%E4%BD%A0%E4%BB%AC/" target="_blank">评论</a>：在这场网络较量中，与中国内地这些90后的青少年们相比，一些持“台独”观点的人显得笨拙、无知、狭隘和自大。通过这次“网络大战”，双方综合素养高下立判。</p>
+<p>更让人惊叹的是，这些自发组织的以90后为主的一群人（甚至包括一些00后），竟然有详细的分工、严明的纪律，在facebook上只打台独而不伤台胞感情。可以看出，中国新一代90后的青少年们已经开始登上历史舞台了，他们自信地迈着阔步，天马行空地自由挥洒，他们充满阳光和自信的表现，让人眼前一亮。</p>
+<p>这些大家自我的约束，更充分说明，将大量来自天南海北的、彼此互不相识的网友凝聚在一起的，绝非戾气，而是大家对于台湾最朴素的情感，以及对“统一”最真诚的希望。</p></blockquote>
+<p>例如会发美食图片</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/233932DA316E567F20659CF61DF813A3.png" alt="233932DA316E567F20659CF61DF813A3" width="288" height="576" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/233932DA316E567F20659CF61DF813A3-150x300.png 150w, http://chinadigitaltimes.net/chinese/files/2016/01/233932DA316E567F20659CF61DF813A3.png 288w" sizes="(max-width: 288px) 100vw, 288px"></p>
+<p> </p>
+<p>例如会发诗句<img src="http://chinadigitaltimes.net/chinese/files/2016/01/C110D7E8D62021000FDE634DDF1447A0.png" alt="C110D7E8D62021000FDE634DDF1447A0" width="359" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/C110D7E8D62021000FDE634DDF1447A0-270x300.png 270w, http://chinadigitaltimes.net/chinese/files/2016/01/C110D7E8D62021000FDE634DDF1447A0.png 359w" sizes="(max-width: 359px) 100vw, 359px"></p>
+<p>例如会”有理有据“地反驳台湾媒体</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/EC768B6BA60D1EF0A5F7F859A5A83883.png" alt="EC768B6BA60D1EF0A5F7F859A5A83883" width="446" height="432" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/EC768B6BA60D1EF0A5F7F859A5A83883-300x291.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/EC768B6BA60D1EF0A5F7F859A5A83883.png 446w" sizes="(max-width: 446px) 100vw, 446px"></p>
+<p>那爱国小粉红的形象，到底是怎样的呢？还是如胡锡进的“复杂中国论”，爱国小粉红的样貌也是复杂的，不过有一点，他们几乎都是翻墙而来的，他们几乎都在灌水式地表达着自己的意见。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/426314/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E8%AF%84%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A90%E5%90%8E-%E7%9B%B8%E4%BF%A1%E4%BD%A0%E4%BB%AC/" target="cdt-mirror">人民日报 | 评帝吧出征FB：90后 相信你们</a>
 </h2>
 <p><p>从20日晚到昨天中午，挪威和瑞典这两国的驻华大使馆，突然纷纷在微博上表态：我们支持一个中国！台湾是中国的一部分！</p>
@@ -672,90 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/dcard%EF%BD%9C/" target="cdt-mirror">Dcard｜匿名：我是陆生，我不反对台独</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB.jpg" alt="台北故宫 " width="640" height="425" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫-300x199.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/台北故宫.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"><p>台北故宫</p></div>
-<p>（为了个人安全，还是隐去了学校。。）</p>
-<p>作为一个普通的大陆人，我从小也是那种洗脑教育生产线生产出来的。但是可能因为自己性格比较叛逆，所以一直对ccp存在质疑。当然对于台湾问题，我一直是希望能有一个统一的强大的中国。</p>
-<p>但是后来慢慢的，我觉得我梦想中的“中国”，并不是中华人民共和国。一个1949年成立的国家，竟然在1945年成为了二战战胜国。在国庆66周年之時，竟然阅兵庆祝抗日战争胜利70周年。红军从抗日战争开始时的几万人，发展到抗日战争结束时的几百万人，你课本突然告诉我，中共是抗日中流砥柱？这tm是大肠杆菌吧！不是摆明了：一分抗日，两分应付，七分抢地盘！（说实话我小时候一直以为当时蒋介石和日本人联合起来屠杀中国人，只有中共死死支撑抗日）</p>
-<p>类似这些充斥谎言的知识，居然成为了我们考中学，考大学，考硕士时候的试题！这样的考试，居然也会成为筛选人才的一个门槛！我十分不愿意为这样的政府背书。</p>
-<p>至于这次的周子瑜的事情，我觉得，就算ta是台独主义者，又怎么样？难道不允许言论自由吗？如果这个国家只允许说一种话，那这种国家还不如推倒重来！一个政党主张统一，这个是ok的，但是需要用自己的魅力来感化对方啊，而不是靠野蛮的打压。在国际上利用自己的强势打压别人，在国内宣传“台湾人民盼望统一，痛恨台独”，这样除了给人民带来错误认知，给执政党贴金，还能带来什么呢？即使“统一台湾”是一个很好的政治主张，但是如果这个好的主张需要用谎言来维持，那它还能算好的主张吗？</p>
-<p>还在大陆读书的时候，我经常和另一派的同学讨论这个问题，我一直为台湾说话，觉得台湾是我们大陆民主发展的榜样，大陆走向民主制度是必然的。来了台湾以后，也有一些新的认识，感觉到台湾的民主确实已经渗透到各个角落，但是也有一些缺憾，比如说立法委员的参政议政水平似乎比较差；执政党与在野党对于一些事情总是为了对立而对立，并没有真正考虑到真正的利弊分析。但是总不能因为缺憾而否定民主的意义。而在当前这种两岸强弱分明的情况下，如果发生统一，那台湾的民主必然被牺牲，那真是华人世界的悲哀！所以我个人坚定地说，在当前情况下，我绝对反对“统一”！对于未来的情况，我也乐观的希望，大陆能够彻底的民主化改革，一定一定不要专制。当民主中国到来的时候，再谈统一问题，顺势而为。</p>
-<p>总之，我坚定支持：台湾不属于中华人民共和国！</p>
-<p>天佑民主！天佑中华！</p>
-<p>看板：心情 發文時間：2016年1月17日上午10點06</p>
-<p>以下网民评论来自原论坛版面：</p>
-<div>
-<div>
-<p> <button type="button">下一篇</button> <button type="button">回應</button> <button>至底</button></p>
-<div>
-<div>
-<div>
-<h3>按讚給作者鼓勵吧 : )</h3>
-<div>
-<div>
-<p><button type="button"> 喜歡 9291 </button><button type="button">回應</button><button type="button"> 追蹤 </button></p>
-<div>
-<p><button type="button">更多</button>人氣回應</p>
-<p>希望中國內部多一點像你一樣明理的人 中國一直打壓我國才造就了我們的反感 如果能學會尊重我國為一個國家、且是友善而非否定和打壓 其實應該很多人不反對兩國有合作關係吧？（至少我是不反對啦）</p>
-<p>屏東大學<br>
-B6<br>
-2016年1月17日上午10點12<br><button type="button"> 喜歡 2054 </button></p>
-<p>中國領導人換你來當該有多好</p>
-<div>
-<p>共 478 則回應</p>
-<p>輔仁大學<br>
-B3<br>
-2016年1月17日上午10點11<br><button type="button"> 喜歡 3104 </button></p>
-<p>希望中國內部多一點像你一樣明理的人 中國一直打壓我國才造就了我們的反感 如果能學會尊重我國為一個國家、且是友善而非否定和打壓 其實應該很多人不反對兩國有合作關係吧？（至少我是不反對啦）</p>
-<p>靜宜大學<br>
-B4<br>
-2016年1月17日上午10點09<br><button type="button"> 喜歡 100 </button></p>
-<p>謝謝您！</p>
-<p>東華大學<br>
-B5<br>
-2016年1月17日上午10點34<br><button type="button"> 喜歡 386 </button></p>
-<p>原po我愛你 謝謝你尊重台灣人 我們雖然現在或許立場不同 甚至國家不同 可是祖先是同胞  如果大陸人都跟你一樣 兩岸一定可以和平友好，相親相愛</p>
-<p>屏東大學<br>
-B7<br>
-2016年1月17日上午10點12<br><button type="button"> 喜歡 164 </button></p>
-<p>嗚嗚好感動，如果兩岸的人都像你這麼理性就好了。</p>
-<p>文藻外語大學<br>
-B8<br>
-2016年1月17日上午10點15<br><button type="button"> 喜歡 351 </button></p>
-<p>原本要複製翻成繁體 結果原波自己很貼心哈哈哈哈哈 簡體我真的無法啊啊啊啊 BTW這篇推一個</p>
-<p>逢甲大學<br>
-B9<br>
-2016年1月17日上午10點53<br><button type="button"> 喜歡 130 </button></p>
-<p>相信你們有些人的想法一定是開明的 對於你的看法我也覺得該受到言論自由的保障，也希望在未來溝通上可以理性、而不是互罵，最後促成和平的局面。</p>
-<p> </p>
-<p>逢甲大學<br>
-B12<br>
-2016年1月17日上午10點30<br><button type="button"> 喜歡 235 </button></p>
-<p>為什麼台灣人在這次選舉用選票表現出這麼討厭親中,統一的路線 我想就是源自於對於中共政府的不信任 從動車事故,到香港銅鑼灣書店股東員工失蹤 且如果若是中國願意尊重台灣是一個獨立的國家的事實 就像B3說的,應該會有很多人是不反對中國的,甚至我們可以有許多合作的機會也不一定 再來,台灣的立委,議員水準參差不齊,我想可能與我們的民主還太年輕有關 但是這次的選舉讓多種訴求不一樣的政黨都出現了 成熟的民主,不是一蹴可幾,是需要隨著時間不斷的進步來慢慢完成的</p>
-<p>國立臺南大學<br>
-B16<br>
-2016年1月17日晚上8點13<br><button type="button"> 喜歡 21 </button></p>
-<p>原Po超棒啊啊啊啊啊</p>
-<p>義守大學<br>
-B18<br>
-2016年1月17日晚上9點50<br><button type="button"> 喜歡 49 </button></p>
-<p>推原po 理性又有見解 我也覺得如果大陸也是民主國家 我也不排斥統一 畢竟資源跟實力的確是擺在那的 謝謝你讓我看到理性的中國人</p>
-<p>Sierra Col<br>
-B19<br>
-2016年1月17日晚上10點04<br><button type="button"> 喜歡 89 </button></p>
-<p>抱歉歪樓  不過大腸桿菌是什麼梗嗎？好好笑喔！</p>
-<p>高雄海洋科大<br>
-B20<br>
-2016年1月17日晚上10點34<br><button type="button"> 喜歡 97 </button></p>
-<p>推原po的勇敢和獨立思考能力。 我認識的蒙古朋友知道我是臺灣人後，非常激動地說蔣介石是抗日英雄云云… 中國人口眾多，各地素質不一，未建立民主素養，推動民主還有很長的路要走。但可以從部分地區選出地方首長著手。 我認為中國政府遲早必須告知真相給民眾，主動開放某些供民眾爭取權利的管道，否則人們一旦越來越接觸他國查到了真相，或者某些人權遭到忽視，人才只會不斷覺醒與出走。欺騙最終引致失望的反彈。 老實說，若中國從一開始就不會進行思想控制的行為，臺灣人根本不會這麼反中啊！ 這年頭，國家若動用武力會引起國際輿論撻伐，網路發達時代中，縱使進行鎮壓與封鎖，還是會滲出真相。 所以中國若持續維持現狀，縱使臺灣不獨，中國自己也會亂，只是時間問題罷了。</p>
-<p>文化大學<br>
-B21<br>
-2016年1月17日晚上11點45<br><button type="button"> 喜歡 58 </button></p>
-<p>看完才發現  B1  有翻譯<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -767,7 +725,7 @@ B21<br>
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -777,5 +735,5 @@ B21<br>
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

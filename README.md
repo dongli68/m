@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%8F%AD%E9%9C%B2%E5%9B%BD%E5%AE%89%E5%86%85%E5%B9%95-%E9%A6%99%E6%B8%AF%E3%80%8A%E5%89%8D%E5%93%A8%E3%80%8B%E8%81%8C%E5%91%98%E9%81%AD%E5%A4%A7%E9%99%86%E8%AD%A6%E9%9D%9E%E6%B3%95%E7%A6%81%E9%94%A2/" target="cdt-mirror">自由亚洲｜揭露国安内幕 香港《前哨》职员遭大陆警非法禁锢</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/a75ee6ff-10da-4742-8de9-72af7b12fb38.jpeg" rel="attachment wp-att-426389"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/a75ee6ff-10da-4742-8de9-72af7b12fb38.jpeg" alt="香港铜锣湾书店。（忻霖摄影）" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/a75ee6ff-10da-4742-8de9-72af7b12fb38-225x300.jpeg 225w, http://chinadigitaltimes.net/chinese/files/2016/01/a75ee6ff-10da-4742-8de9-72af7b12fb38.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>香港铜锣湾书店。（忻霖摄影）</p></div>
+<p>香港铜锣湾书店五人失踪事件持续发酵之际，香港另一出版发行“禁书”的夏菲尔出版社负责人曝光，该出版社一名员工日前在大陆被当局非法关押及审讯四小时，原因可能是该出版去年上半年曾刊出多篇长文披露中国国安内幕，触怒了当局。</p>
+<p>香港铜锣湾书店事件发展至今，除桂民海及李波外，余人杳无音讯。近日，另一出版“禁书”的香港出版社夏菲尔出版社负责人、政治月刊《前哨》的总编刘达文透露，该出版社一名员工日前被大陆官方人员非法关押及审讯四小时。</p>
+<p>刘达文接受本台采访时称，事发当天早上，管理处突然敲门称楼下投诉漏水，要求开门检查，不料员工开门后冲入十多名大汉：“怎么用这么肮脏的手段骗开门呢？他们自报家门说是公安局的，我的员工就说我犯了什么法？他说没有，聊聊天，要跟他们去派出所。专门审问我们的员工。但他是做财会的，问不到我们的消息来源和作者，因为他是管理财务的，后来就让他讲财务经营状况的事情。过程中有近十个人，没有一个人出示任何证件，也没有出示任何法律文件，限制他人身自由四个小时，等于是非法胁持、非法禁锢、非法审讯。”</p>
+<p>刘达文介绍称，目前夏菲尔出版社多以发行商的身份活跃在出版市场上，不参与禁书的出版。他相信当局的做法意在恐吓，因为去年《前哨》曾刊出多篇长文披露国安内幕，当时就有当局人员出面阻挠。</p>
+<p>记者：“您觉得您可不可能是他们最终的目标？”</p>
+<p>刘达文：“这件事情的处理手法看起来和铜锣湾书店是不同的，我个人的看法是，他想吓唬我。我们基本上 这两年越来越少出这类书，根本也没有什么太大不了的内容刺激他们，因为我们比较克制。其他出版社出了我们帮他发行，责任不在我们，如果你发现哪个出版社出的不好，该找那个出版社沟通。”</p>
+<p>记者：“你觉得你们出版的那些书是有可能触怒了中国当局？”</p>
+<p>刘达文：“去年四、五月份我们曾经登过几篇长的文章，揭露国安统里面的东西，他们说上面不高兴，不登行不行。我说有没有泄露国家机密？他们说没有。我说有没有造谣？他们说暂时没发现。那我有什么理由不让人家登这些稿子？所以他们无话好说，那我就照登。”</p>
+<p>据了解，夏菲尔出版社以出版最高层领导人权斗书籍为主，较为人熟知的出版物为政治月刊《前哨》。该杂志经常刊出有关中共高层人物的敏感内容。《前哨》杂志今年二月号刊登出版社声明，并向外界、员工及其家属“预警”称，若“作者有何不测，一定是中共特工黑警栽赃嫁祸所为。”</p>
+<p>香港出版人鲍朴告诉本台，一系列事件对他没太大影响，因早有心理准备，在香港从事出版行业会承担一定的政治风险：“我们从来没有自我审查，以后也不会自我审查。禁书是在大陆说这本书不能出版，香港都是合法出版物，我认为包括李波他们出版的也是香港的合法出版物。我办出版社之前就有这个准备，在香港出版社有政治上的风险，这些都知道，不是说李波事件发生以后才有的。”</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%8F%AD%E9%9C%B2%E5%9B%BD%E5%AE%89%E5%86%85%E5%B9%95-%E9%A6%99%E6%B8%AF%E3%80%8A%E5%89%8D%E5%93%A8%E3%80%8B%E8%81%8C%E5%91%98%E9%81%AD%E5%A4%A7%E9%99%86%E8%AD%A6%E9%9D%9E%E6%B3%95%E7%A6%81%E9%94%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E9%83%A8/?category=18271" rel="tag">国安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E3%80%8C%E7%88%B1%E5%9B%BD%E5%B0%91%E5%A5%B3%E3%80%8D%E3%80%8C%E5%B0%8F%E7%B2%89%E7%BA%A2%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88/" target="cdt-mirror">知乎｜「爱国少女」「小粉红」这些标签是什么意思？</a>
 </h2>
 <p><div><a href="https://www.zhihu.com/people/su-di-17" data-tip="p$b$su-di-17">张钟麟</a><span title="抗战少女/回答自带三百反对所以求个赞">，抗战少女/回答自带三百反对所以求个赞</span></div>
@@ -711,28 +732,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E8%99%B9%EF%BC%9A%E8%AF%A5%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E5%B8%9D%E5%90%A7%E8%9B%86%E4%BC%97%E7%BB%84%E5%9B%A2%E7%BF%BB%E5%A2%99%E9%9B%86%E4%BD%93%E8%A2%AD%E6%89%B0fb%E7%94%A8/" target="cdt-mirror">唐映虹：该怎样看待帝吧蛆众组团翻墙集体袭扰FB用户？</a>
-</h2>
-<p><p><strong>问：该怎样看待帝吧蛆众组团翻墙集体袭扰FB用户？</strong></p>
-<p>答：昨天，据称百度第一大吧的李毅吧组织了<strong>数以万计</strong>的成员，<strong>集体翻墙登陆Facebook去集体袭扰苹果日报、三立新闻网以及台湾地区中华民国候任总统蔡英文的页面</strong>，掀起了所谓的<strong>表情包“大战”。</strong>帝吧的蛆众们假反“台独”的名义，将政治课洗脑的文字材料以及下三滥的表情包一古脑地在他们“敌人”的页面狂刷屏，逼迫苹果日报、蔡英文候任总统不得不关闭评论，只有被误入的三立娱乐小编萌嗒嗒的方式将气势汹汹袭来的蛆众以柔化刚。</p>
-<p>至于该如何看待此事，则<strong>没有表面看起来那样一目了然</strong>。在心理学里有个术语“俄狄浦斯情结”（Oedipus complex），是精神分析用来描述所谓的“恋父情结”的，但<strong>俄狄浦斯的原型在社会心理学里有远比精神分析所提炼的意蕴更为有价值的现象，</strong>可以称之为<strong>“俄狄浦斯陷阱</strong>”（Oedipus trap）。在古希腊的故事原型中，悲剧人物俄狄浦斯的父亲拉伊俄斯因为恩将仇报诱惑并杀害恩人珀罗浦斯的儿子，而被珀罗浦斯诅咒“会被自己的儿子杀死”的预言，因此将婴儿扔到野外，试图令其自然死亡。殊不料婴儿被牧羊人救下，命名为俄狄浦斯，并成为了没有子嗣的邻国国王波里玻斯的养子。在一系列命途多舛的际遇造化后，成年后的俄狄浦斯真的在不知情的情况下，娶了自己的母亲，杀了自己的父亲。</p>
-<p>在社会生活中，<strong>由于人类社会的组织和互动结构异常复杂多维，因此，当一些违背普世价值的行为因为无法使行为逻辑自洽，很可能就蹈进“俄狄浦斯陷阱”，即行为的效果恰好是强化了行为目的的反面。</strong>例如，上周黄安举报的周子瑜道歉一事，对暗地里操纵的始作俑者来说，他们想以此震慑“台独”思潮，却反而将更多中间的台湾民众推向了“台独”阵营；并且将本已因蓝绿而撕裂的台湾，因16岁少女被暗地里的强权所欺凌而空前地团结和凝聚了起来。<strong>这就是一起经典得不能再经典的“俄狄浦斯陷阱”的事例。</strong></p>
-<p><strong>帝吧蛆众组团集体翻墙去袭扰Facebook用户，其行为也恰好因无法逻辑自洽而不可避免掉入“俄狄浦斯陷阱”。</strong>从其蛊惑的初衷来说，是想借此震慑所谓的“台独”，表明大陆蛆众的爱国热情。但是，<strong>造成的实际效果，以及牠们根本无法控制的事件发酵和演变，最终将有利于牠们的“敌人”，成为进一步凝聚台湾共识，挤压支持统一的话语空间，促使台湾与大陆渐行渐远的把柄和助力。</strong></p>
-<p>那些造成两岸隔阂，妨碍两岸统一的主要因素，对于台湾民众来讲，首先就是两岸价值观念、社会文化和生活方式的“<strong>异质</strong>”感；其次是大陆太过<strong>庞大霸道</strong>，统一后将不可避免压制台湾。也正是基于这两点，所谓的“台独”势力才能蛊惑民众。<strong>那些“台独”势力千方百计要做的，想做的，在做的，无非就是不断强调和夸大大陆与台湾是“异质”的，是“霸道”的，以此来说服民众，拉拢青年。</strong></p>
-<p>帝吧蛆众们集体组团翻墙去FB砸场子，实际上带给台湾民众的强烈感受无非就两点：<strong>“异质”感和“霸道”感。</strong>试想一下，如果有一天，突然有数以万计的ISIS的“圣战士”突然集体登陆大陆民众所熟悉和习惯使用的微博，在上面贴上星月旗，蛊惑着新疆地区是伊斯兰国的一部分，那么大陆的民众是多少受点震撼而倾向赞同ISIS“圣战士”呢，还是更加地<strong>痛恨和厌恶</strong>？</p>
-<p>不仅如此，在社会互动中，一个人不爱你，不喜欢你，没什么，因为你还可能通过做对事情来赢得对方的喜欢和爱；但一个人厌恶你，从生理上就恶心你，反感你，那么你无论做什么都只会加剧对方对你的厌恶。<strong>帝吧蛆众所做所为，除了强化台湾民众对大陆的“异质”感和“霸道”感，给所谓的“台独”势力授之以柄之外，也同样带给习惯了使用Facebook的台湾民众以厌恶和反感。</strong></p>
-<p>从某种意义上说，<strong>台湾地区国民党的节节败退，而所谓的“台独”势力步步发展，很大程度上要拜大陆那些爱国蛆众以及背后暗地操纵的势力所赐。</strong>正是因为牠们一次又一次地跌入“俄狄浦斯陷阱”而不自知，反而变本加厉地在错误的道路上越走越远。</p>
-<p>用简单的心理学话语来讲，台湾民众为什么对统一心有忌惮？因为没有<strong>安全感</strong>。那么正确的做法是要给台湾民众安全感，而不是一次又一次破坏他们的安全感。<strong>你用破坏安全感的方式来试图阻止别人离开，其效果只可能是更加推离别人的远离，而且还是毫无愧疚，毫无挂念的远离。</strong>不过，这可能苛求帝吧蛆众了，连<strong>牠们自己都没有安全感</strong>，而且还无法离开。</p>
-<p>不过，帝吧蛆众组团翻墙集体袭扰FB用户的事件也不是没有积极意义。由于这一周正好是各高校大学生期末考试结束，陆续离校回家的时机，所以帝吧之所以能组织起如此之多的蛆众，其中<strong>绝大多数正好是那些无所事事，百无聊赖的大学生们。</strong>通过网络的号召与响应，有序地组织和行动，其实对90后新生代是一次<strong>很好的动员与演练</strong>。去年台湾青年学生的“五月花”反服贸；香港青年学生的“占中”反特首，都是同样地经由网络的动员、号召和组织。尽管帝吧蛆众的大规模网络行动是被严格限制和控制下的，但<strong>任何网络动员、组织的经验都是一把双刃剑。对那些试图操纵它来达成自己目的的势力来说，青年人通过这次演练所积累的网络动员、组织的经验也完全可能在任何时候反噬自己。</strong></p>
-<p>因此，如果你的BF或GF是帝吧蛆众的一员，那没什么，谁年轻时没干过荒唐事呀。但如果你BF或GF干了蠢事后还想不明白，并且为此沾沾自喜，这样的货还是<strong>甩了</strong>吧。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E8%99%B9%EF%BC%9A%E8%AF%A5%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E5%B8%9D%E5%90%A7%E8%9B%86%E4%BC%97%E7%BB%84%E5%9B%A2%E7%BF%BB%E5%A2%99%E9%9B%86%E4%BD%93%E8%A2%AD%E6%89%B0fb%E7%94%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -744,7 +743,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -754,5 +753,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

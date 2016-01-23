@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,74 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%9C%BC%E9%87%8C%EF%BC%8C%E4%B8%8D%E4%BD%86%E6%9C%89%E5%8F%B0%E7%8B%AC%EF%BC%8C%E8%80%8C%E4%B8%94%E6%9C%89%E9%A9%AC%E7%8B%AC/" target="cdt-mirror">墙外楼｜小粉红眼里，不但有台独，而且有马独</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160123_a7c1f01aa1218f9c8be2LVYEHyQOf3jI-%E5%89%AF%E6%9C%AC.jpg" alt="20160123_a7c1f01aa1218f9c8be2LVYEHyQOf3jI-副本" width="540" height="960"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6ac98825jw1f09e7nrwmbj20ff0adta3-%E5%89%AF%E6%9C%AC.jpg" alt="6ac98825jw1f09e7nrwmbj20ff0adta3-副本" width="440" height="296" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6ac98825jw1f09e7nrwmbj20ff0adta3-副本-300x202.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6ac98825jw1f09e7nrwmbj20ff0adta3-副本.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><br>
+我觉得很真实，不要低估小粉红的脑残程度，前面已经有人以亲身经历来证明了。</p>
+<p>我几年前在微博上也看到类似一幕：一个韩国女子组合里面有个成员是在香港长大的韩国人，全家都住在香港，会讲一些普通话和粤语，经常被其他韩国人误认为是中国人，所以在某个韩国节目上澄清自己是韩国人不是中国人。然后就被小粉红截图发到微博上，好几千的转发都是骂她的，“被当成中国人很丢脸吗？”、“对，我们中国没有这样的丑逼”、“你当然不配当中国人”……，小粉红潜意识里都很自卑，整天觉得别人看不起中国人，一碰就炸。几年前用微博的人还没现在多，如果是现在发出来，估计会有好几万人转发骂她。其实那人应该是比较亲中的，从无任何反中的言行，在大陆呆过一段时间，有好几个中国大陆的朋友，光从她全家都搬到香港去住这点就可以看出她的家庭环境肯定不讨厌中国人，她还去孔子学院学中文深造过。只因为澄清了一下自己不是中国人，就被小粉红骂得狗血淋头。</p>
+<p>在小粉红眼里，无论台湾人还是外国人，如果被别人当成是中国人，唯一正确的反应是“哇，我被当成是中国人了，好光荣好骄傲喔”，只有这个反应是对的，其他反应都该死。</p>
+<p>中国人的<a href="http://chinadigitaltimes.net/space/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89" target="_blank">种族主义</a>其实是最严重的，只不过平时不表露出来。。。。。</p>
+<p>汉族绝对主体下，种族主义已变身为地域主义。<img src="http://chinadigitaltimes.net/chinese/files/2016/01/0981grey.gif" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%9C%BC%E9%87%8C%EF%BC%8C%E4%B8%8D%E4%BD%86%E6%9C%89%E5%8F%B0%E7%8B%AC%EF%BC%8C%E8%80%8C%E4%B8%94%E6%9C%89%E9%A9%AC%E7%8B%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">种族主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%8D%83%E6%B0%91%E9%80%81%E8%A1%8C%E5%A4%9A%E9%97%B9%E5%89%A7-%E8%B4%AA%E5%AE%98%E8%87%AA%E5%AF%BC%E4%B8%8D%E7%9F%A5%E8%80%BB/" target="cdt-mirror">太阳报｜千民送行多闹剧 贪官自导不知耻</a>
+</h2>
+<p><p>中国 很多贪官在台上是一副爱民如子、千民拥戴模样，但被调查之后，很快就露出腐败不堪的原形。更讽刺的是，有些贪官还热衷自编自导「万民送行」闹剧，结果真相曝光，沦为笑柄。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k1bb.jpg" alt="k1bb" width="550" height="314" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/k1bb-300x171.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/k1bb.jpg 574w" sizes="(max-width: 550px) 100vw, 550px"><br>
+蓝军自导「千人送蓝书记」</p>
+<p>早前被调查的吉林省松原市原市委书记蓝军，在离任时就曾自导「千人送蓝书记」，在当时的市委广场、市政路，一群身着黑色西装、白色衬衫的干部「群众」，手拉着各种横幅，如「蓝军，松原人民的好儿子」、「蓝书记，我们不愿您走」等，颇为热闹。事后有人披露，这些所谓的干部群众，不过是一批花钱雇用的群众演员而已，蓝军自编自导自演，不过是为了给自己贴金邀功，没想到弄巧成拙。</p>
+<p>「千民送官」之事，在中国史不绝书。古代官员离任时，常有老百姓「自发」聚集为其送行，有时还向官员送「万民伞」、「清官旗」、「功德碑」，以表达对父母官的感恩之情、惜别之意。现在有些官员也古为今用，想利用这个古老「桥段」为自己树碑立传，洗白贪腐形象。</p>
+<p>比如河北张北县原县委书记早前离任，当地上演万人送行盛况，宣传部门主动发布「经核实」声明，称送行是群众自发，但媒体调查证实，参与表演的秧歌队、锣鼓队事先接到街道办通知，被要求前去为书记表演送行。</p>
+<p>警车开道 鞭炮齐鸣</p>
+<p>江苏泗洪县原纪委书记离任，报道称群众「自发」为书记送行，并附有群众送伞、撑旗、赠匾的照片。很快，网友发现了其中的疑点，所有的锦旗都按同一模式定制。</p>
+<p>前几年被查处的江苏邳州市原市委书记李连玉则搞了一个万人相迎的仪式。当年他从北京开完党代会归来，在警车开道下，浩浩荡荡的车队进入邳州地界后，鞭炮齐鸣，小学生们挥舞小国旗、党旗，高喊「欢迎、欢迎，热烈欢迎！」这位「敬爱的李书记」还频频从车上下来，检阅子民。事后有人揭发，所谓的自发欢迎完全是当局组织的，如果哪个单位不出人，领导一律免职，哪个公务员不参加，一律扣一百元。</p>
+<p>人在做，天在看，这些人为炮制的民意，即使能瞒骗一时，也无法瞒骗一世，时间是最好的检验者。以李连玉为例，当时千人相迎的场面轰动一时，却难掩其专断横行的土皇帝本色，在其治理下，邳州征地过程中多次发生当局放水淹良田、流氓施暴、暴徒「勘察」等伤害百姓的惨剧。</p>
+<p>这些官员自编自导自演，通过媒体展示自己是如何得民心，为的是「挟民意以令上级」，希望能被上级「慧眼识珠」，殊不知这种反常规的做法，如同搬起石头砸自己的脚，一旦虚假的民意泡沫爆破，自己反而身败名裂，从一个「万民欢迎的好书记」变成人人喊打的过街老鼠。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%8D%83%E6%B0%91%E9%80%81%E8%A1%8C%E5%A4%9A%E9%97%B9%E5%89%A7-%E8%B4%AA%E5%AE%98%E8%87%AA%E5%AF%BC%E4%B8%8D%E7%9F%A5%E8%80%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">大陆贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E8%BF%9E%E7%8E%89/?category=18271" rel="tag">李连玉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%93%9D%E5%86%9B/?category=18271" rel="tag">蓝军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E5%AE%98%E4%BC%97%E7%94%9F%E7%9B%B8/?category=18271" rel="tag">贪官众生相</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%EF%BC%9A%E8%B4%AA%E5%AE%98%E8%B4%AA%E6%B1%A1%E6%8C%AA%E7%94%A8%E5%85%AC%E6%AC%BE63%E4%BA%BF/" target="cdt-mirror">BBC｜中国反腐：贪官贪污挪用公款“63亿”</a>
+</h2>
+<p><p>一份最新报告称，习近平上台展开反腐运动以来，落马贪官贪污挪用公款达63亿元人民币，约合10亿美元。</p>
+<p>在美国纽约的“亚洲协会”的网络刊物“中参馆”，ChinaFile，上发表的报告中提供的这个数字，是根据中国官方对贪官判决书中公布的贪污数额累计得出的。</p>
+<p>“中参馆”的报告说，它跟踪了近1500起中国公开宣布进行调查的目标。</p>
+<h2>冰山一角</h2>
+<p>报告说，习近平上台展开反腐运动中以来，通过中国的法庭正式审讯并宣判的贪官共有231名。</p>
+<p>这个数字只占接受中共调查的官员的极小一部分。</p>
+<p>中共更愿意通过党内的纪检系统进行调查和惩处。</p>
+<p>本月初，中共的中纪委宣布，去年共有336000人受到了党纪处分。</p>
+<p>批评者说，习近平的反腐运动缺乏透明度，并被用来整肃政治对手。</p>
+<p>“中参馆”的统计记录了许多贪污细节，包括一位官员挪用20万元公款买玉石。</p>
+<p>报告统计的落马中共官员中，来自习近平起家的政治基地福建和浙江籍的官员相对较少，报告说：“似乎受到的惩罚较轻”。</p>
+<p>香港科技大学教授崔大伟对法新社说，如果你是习的人马，你不会受到整肃，其他人都不保险。</p>
+<p>（编写：白墨 责编：路西）</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%EF%BC%9A%E8%B4%AA%E5%AE%98%E8%B4%AA%E6%B1%A1%E6%8C%AA%E7%94%A8%E5%85%AC%E6%AC%BE63%E4%BA%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8F%82%E9%A6%86/?category=18271" rel="tag">中参馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%9A%E6%B4%B2%E5%8D%8F%E4%BC%9A/?category=18271" rel="tag">亚洲协会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-5/" target="cdt-mirror">【一颗腮挺】邝飚：赵氏春晚</a>
 </h2>
 <p><p>作者：邝飚</p>
@@ -593,111 +658,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E5%8F%AA%E8%A6%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%9C%9F%E5%9C%B0/" target="cdt-mirror">毒舌的舌｜西坡：我们只要你们的土地</a>
-</h2>
-<p><p>在知乎上，一个叫李小佑的台湾网友回答了“如何看待黄安举报周子瑜的事情？”在我看来，他的回答理性而令人心酸。他主要讲了民进党上台后，台湾历史课本变成了“台湾历史”本位，以及由此造成的族群割裂、代际割裂。</p>
-<p>李小佑说：</p>
-<blockquote><p>連台灣人自己有時都不確定自己是哪邊的，大陸人會比我們更了解嗎？</p>
-<p>我必須坦白，作為一個台灣人是令我驕傲的，因為我愛我生長的土地，但也是讓我感到悲哀的，因為這國籍的枷鎖無數時刻都困惑著我。</p>
-<p>我沒有可以決定自己身分的權利，我只能在誰上台執政時說自己是哪裡人才曉得自己是誰；我只能眼睜睜看著國際上台灣不被認同中華民國不被接受，而一再承擔外國對台灣的輕視甚至無視；我只能無力看著平時聊天很嗨的大陸朋友，遇到台獨問題就紛紛打壓罵聲叫好的情況。</p>
-<p>所以我到底是哪裡人呢？</p></blockquote>
-<p>1949年之后，大陆上的中国人经历了各种各样的天灾人祸，却唯独没有体会过“我到底是哪里人”的困惑。但是稍微了解近代史的人，都能体会台湾人在家国认知上的痛苦无奈。台湾与大陆的分离，没有一次是它主动选择的。</p>
-<p>这位台湾的同学自称常年混迹于大陆的网络，写这一篇回答也是为了增进双方的了解。但令人寒心的是，大陆网友在评论中极尽嘲讽之能事——</p>
-<blockquote><p>继续，继续悲哀，继续自我陶醉，继续闭眼看世界，继续悲伤，继续悲情，已点反对和没有帮助。</p>
-<p>无所谓啦！反正那地是我们的！你差不多就行了！</p>
-<p>我们只要台湾的土地，至于你们这些人可以换个地方区，比如日本(前提是人家收留)</p>
-<p>你写的是繁体字。可是这个是大陆网站。可见我们对不同文化是多么包容。</p></blockquote>
-<p>李小佑最后补充了两句：</p>
-<p><strong>我認為我的言論普遍是所有台灣人的心聲，既然我的聲音是不重要的，那我也沒什麼好說的了。</strong></p>
-<p>说实话，看完这些，我感觉脸有点烫。什么“同文同种”，什么“同胞兄弟”，一言不遂意便图穷匕见。我们只要你们的土地，至于你们那些小心思，没功夫搭理。no gun no bb,u can u up.战场上见。</p>
-<p>祖国看到你们这么流氓，是不是特别放心？</p>
-<p>我并不像有些知识分子，一遇到台湾议题便摆出世界公民的姿态。我不得不承认的是，自己内心对统一是有期盼的。但我期盼的绝不是要土地不要人的那种。如果未来局势恶化到刀剑相向，我宁愿带着遗憾挥手告别，兴许还要说上几句祝福的客套话。</p>
-<p>我不理解一些大陆人面对台湾摆出的优越感，才富了几天便忘记了饿死人的日子。那些用爱发电的台湾民粹固然可笑，可大老虎说要把小老虎都关进笼子里还不许绵羊瞎叫唤就不可笑了？</p>
-<p>我最不理解的是，我国热血网民经常翻墙出去开展网络斗争。大陆网友常常举报别人言行不一，在中华局域网是一套，是不存在的网站是另一套。于是要求别人道歉的时候，也要求必须在不存在的网站上道一样的歉。</p>
-<p>在赵国，翻墙显然是违反赵法的。墙的存在是为了保护你们不受外面的污染，一个经常翻墙的爱国者，还是真正的爱国者吗？我认为爱国只是他们的幌子，背后一定有不可告人的目的。一个表里如一的爱国者，要敢于在局域网内把敌人骂死，要勇于把所有在不存在的网站上注册账号的赵国人统统举报，然后果断带着键盘鼠标路由器去当地公安机关自首。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/640-5.jpg" rel="attachment wp-att-426148"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640-5.jpg" alt="640" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640-5-300x90.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/640-5.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%88%91%E4%BB%AC%E5%8F%AA%E8%A6%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%9C%9F%E5%9C%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%8A%9B%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">武力统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%8F%8D%E5%8F%B0%E7%8B%AC%E5%B8%AE%E5%80%92%E5%BF%99/" target="cdt-mirror">【CDTV】白岩松：大陆网民反台独帮倒忙</a>
-</h2>
-<p><p>近日，韩国女团TWICE中的台湾艺人周子瑜涉“台独”事件不断发酵，在经过15日的­周子瑜道歉视频后，蓝绿领导人也发表言论，争相“安慰”周子瑜。昨日，在《新闻1+1­》节目中，白岩松对此事表态，并建议大陆网友多读些书、多了解些背景，举例劝导大陆网­民：“民进党和台湾的台独在参加他们很多活动时，肯定不会拿青天白日旗，那你就琢磨一­下你的反对是不是帮倒忙。”</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%8F%8D%E5%8F%B0%E7%8B%AC%E5%B8%AE%E5%80%92%E5%BF%99/"><em>点击这里查看嵌入的视频。</em></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90cdtv%E3%80%91%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%A4%A7%E9%99%86%E7%BD%91%E6%B0%91%E5%8F%8D%E5%8F%B0%E7%8B%AC%E5%B8%AE%E5%80%92%E5%BF%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E5%B2%A9%E6%9D%BE/?category=18271" rel="tag">白岩松</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-15/" target="cdt-mirror">【网络民议】那些反对赵国“小粉红”们的声音</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZKfRdsVIAEANc9.jpg" alt="CZKfRdsVIAEANc9" width="507" height="727" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZKfRdsVIAEANc9-209x300.jpg 209w, http://chinadigitaltimes.net/chinese/files/2016/01/CZKfRdsVIAEANc9.jpg 507w" sizes="(max-width: 507px) 100vw, 507px"></p>
-<p>@cuixueqin：这两天在墙内目睹一大波小粉红愤恨的叫嚣要是没有墙一定要去FB、Y2B上把台独分子撕个稀烂。那种狂暴而有愤恨的神情，让我仿佛看到一条疯狗撕扯着拴住自己的铁链，狂吠：要是没有这链子，我早替我主人把你咬死了。</p>
-<p>@wangyi09：民进党候选人蔡英文当选了。统与独成各方的热议话题。看大门的老赵和老李侃上了，老赵：给13亿人每人发一杆枪，就可以轻而易举地解放台湾。老李不服道：有本事发一下试试，保证先解放的不是台湾……^_^</p>
-<p>@Monoremonton：我覺得我有需要提醒一下：「翻牆」這種 circumvent measure 本質上就是反抗權力的政治行為，如果意識不到它的政治意義，我還真不知道你翻出來是「別有用心」還是怎樣。</p>
-<p>@hnjhj：关于小粉红和草泥马的三条公理：公理一【后天性】所有草泥马往前倒无一例外都是小粉红（不存在先天草泥马）。公理二【单向性】从小粉红到草泥马的转变是单向不可逆的（所谓，一朝草泥马，终身草泥马）。公理三【偶发性】从小粉红到草泥马的转变是小概率偶发事件（大多数人一生都是小粉红）。</p>
-<p>@OraclMachine：“爱国”，“民族主义“空前泛滥。我猜测是前所未有的文化管制和舆论清洗，导致了现在年轻人的精神生活极端贫瘠。想象一下现在年轻人能消费到的文化产品有什么？“爱国主义““民族主义“可能他们生活中容易体验到个体超越感和崇高感的东西。</p>
-<p>@szstupidcool：以后，台湾艺人将陆续道歉，香港商人将陆续自首。这盛世，如你所愿。</p>
-<p>@sliangq： #台湾大选：作为一个大陆屁民，我才不在乎谁执政，只要台湾不被中共蚕食鲸吞就好。让一部分人先自由起来总比共同受奴役好嘛。</p>
-<p>@mozhixu：实际上，台湾人才有理由出于宪政爱国主义，认同自己的国家；大陆人除非是赵家人，根本就没有所谓国家，也就谈不上认同不认同的。</p>
-<p>@wusi75102：粉红征台湾，翻墙不畏难。胸中一腔血，欲平阿里山。天朝上国民，三鹿能壮胆，手中无选票，专斗美日韩。张口要“统一”，举手耍核弹。全凭一张嘴，狠话来洗版。放眼谁能比，高丽有金三。无赖一家亲，爱国招魂幡。可怜睁眼瞎，羞说海参崴。</p>
-<p>@1957spirit：十年前一个福建朋友到台湾某大学做交换生，他就像个大熊猫一样被同学或老师带到各种场合说“你们看，他是大陆来的”，当然还是很友好了。他说他到台湾印象最深刻的是从日常生活中就完全能够感受台湾是在作为一个国家而不是一个省运转，绝非共党讲的什么中国台湾地区。他这段话让我一下子清醒了很多。</p>
-<p>@charliechou：长者已经说的很明白了：1 一切都按照基本法 按照选举法 2 不要见的风就是雨 3 西方哪一个国家都要去 4 要提高自己的姿势水平 5 谈笑风声 这几点基本通杀各类政治问题</p>
-<p>@qhgy： 能靠点儿谱吗？文明世界给了他们互联网，他们用来追番和搜集表情，文明世界给了他们翻墙软件，他们用来泄愤和对骂。结果一点课本外的知识都没有学到，一点高墙外的信息都没有获取，最后在一片自high中被利维坦吞噬，求仁得仁，不值得同情。</p>
-<p>@qhgy：“ 剑三给我汉服身，日音赐我古风魂。芈月传上学历史，二次元里寻亲人。党妈赐我粉红心，兔漫给我正三观。贴吧里面淘泔货，键盘之上点江山。科幻文学唯三体，万物互联在乌镇。美国选举是骗局，不信去看纸牌屋。见祖流氓我放心，我兔腹黑星辰命。公知精英皆谣棍，大大普京真cp”。</p>
-<p>@kujou_rin：小粉紅那麼想統一，為什麼不去政府請願，或者爭取權力選舉一個希特勒出來呢，為祖國幹點實事不好嗎。</p>
-<p>@hiranomasaharu：“你给我滚，你不爱我，人滚财产留，你的房子、票子、车子都是我的！老子就是直男癌，你敢提告离婚我就铁链子打死你！”</p>
-<p>@scavin：帝吧出征fb，让我想起很久前的红客出征白宫，只要下一个软件，就能 DDoS 白宫网站…其实，就是那之后，很多年轻人才知道了原来外面的世界是什么样子。这一次又何尝不是。</p>
-<p>@neverever_d：职业反贼根本没闹明白小粉红这个群体是怎么源发的，之所以叫小粉红，最初起源就是匿名发言论坛晋江，因为这论坛背景色是粉红色的。因为过去可以匿名发言，披上马甲无所不黑就来了。同样可以匿名发言的4chan也是网路著名粪坑。</p>
-<p>@neverever_d：然而起初的晋江并没有那么小将，这里头有个导向作用。因为网站本身是受到当局压力威胁的，所以会自省把发言偏右偏民主自由的网友封杀，往外赶以求息事宁人。把右倾网友赶走之后却不去赶左倾，毕竟网站靠流量赚钱能不送客就不送客。就落得论坛里一片小将之声。本质上也是政权选择的结果。</p>
-<p>@jianshenbiao：昨天小粉红“远征”fb时，有绿阵营人士故意使坏，丢蔡正元的fb主页给迷路的小粉红说他台独分子，还说蔡正元是蔡英文的弟弟。还别说，他们还真长得蛮像的…..</p>
-<p>‏@lijiansion：“翻墙很容易，哪里不自由？我有翻墙的自由，你们台湾省人有吗？”FB上响起了热烈的掌声。</p>
-<p>@Zodiac4698：其实我觉得中共开始雇人翻墙咬人也许是件好事情，说明中共已经不能不重视墙外这块阵地了，这就会让更多的国人以“奉旨咬人”名义翻出去，然后信息渠道实际上就打开了！当然，“咬人”只是一份工作，但工作之余总有“休闲”，我希望那些在“休闲中的小粉红”好好看看世界，想想自己的处境与祖国的未来！</p>
-<p>@王星WX ：周子瑜事件基本判断：1.黄安“反台独”不是有人指使，环球激烈表态也不是官方授意，这就是一起原发性事件。2.致歉视频不是阴谋。3.大陆有司对事件严重性和民意都严重误判，呆板应对，而对岸三候选人明确表态，致大陆失分；4.事件影响选情，但未影响结果。5.真正的伤害在台湾民众的心理，代价长期深远。</p>
-<p>@Musa8964：在香港读书的中国女生，评论中国人：“这个政权执政了六七十年而不倒，人民早已经与它融为一体。对付敌对势力时，人民是打手。”“我现在真真切切地，要你们实实在在地警惕我出身的这个群体。”</p>
-<p>@poooo_chu：啊～看支那翻牆真的超紓壓的，各種易炸毛、各種崩潰、各種殭屍兵、各種迷路、各種找主戰場、各種組團打副本、各種被打臉、各種被消失、各種內鬼反串、各種綠媒小編引戰，各種歡樂XDDDD #兩岸大轟趴</p>
-<p>@jaowon：中國網友們，想統一台灣，這邊有有用SOP：1. 集結去微博或FB的中國官方媒體留言洗版，要求解放台灣。2. 集結去各國家機構的網站留言，或寄建議信箱，要求解放台灣。3. 集結去天安門廣場舉牌，要求解放台灣。4. 衝進人民大會堂，奪回屬於人民的大會堂，要求解放台灣 #如何解放台灣</p>
-<p>@letscorp：国民党选输，国台办副主任隔天就进去了。圣心不悦，官员动辄得咎，而假贪腐治其罪，这御下之道倒是很有崇祯遗风。</p>
-<p>@letscorp：熟悉晚清史的人一定明白，义和团明面上是“扶清灭洋”，实际是载漪王爷拿来逼宫慈禧废光绪立其子溥儁为帝的道具。前两周刚有胡孙二人嗣位不稳的传闻，共青团中央便策划出一场场小粉红狠斗台独的大戏，时间点选得也太巧了。</p>
-<p>@gudsn：一份来信：评论备份-您好，xxx，您在问题「大陆群众如何看待台湾？」中的评论已被删除，原因是：「不友善内容」。您的评论如下：吃着地沟油的命，操着赵家人的心。</p>
-<p>@uponsnow：如何判断自己是否小粉红？如果在天朝没有感受到任何不自由，相反感到如鱼得水，那就是小粉红，因为你已经按照牢笼的样子生长好了.</p>
-<p>@heynancy45：爱国也不能自己加戏、抢戏，非专业出身的还是谨慎一点。</p>
-<p>@yeallyCO2：刚才我问我爸”爸，你支持台独吗？””支持啊””为什么啊？””好端端的干嘛做中国人”。</p>
-<p>@libearal：没有事实支撑的洗脑无法持续。我一直强调小粉红的地域分布和家庭背景，是要说明她们中大多数的家庭正是中国经济高速膨胀的受益者。她们生活的城市事实上不输欧美，烂疮遍布的乡土中国则和她们几无交集。她们的资源能够轻易抹平墙和护照带来的不便，甚至能让国际资本低头谄媚，她们的处境与观念是自洽的。</p>
-<p>@libearal：所以你很难去说服她们，因为她们的利益本就和体制绑定，体制也不会完全抛弃这个群体。而寄望事实打脸，即使是丛林社会人人自危，倒霉者的出现也不会是太大的概率，更何况她们所处的阶层本就是安全系数较高的。除了极稀有的觉醒者，她们必然是各路反贼的天然敌人。</p>
-<p>@mozhixu：关于小粉红：1、极权下，每个人都傻逼过；2、要转变，主要来自”被扇了一耳光“，说（启）理（蒙）基本是不可能；3、翻墙出来，会增加转变几率，值得欢迎；4、这次小粉红，是98炸馆，08圣火后的第三次大发作，当初的什锦八宝饭转变了很多嘛。5、再差，差不过如今跳广场舞这拨文革经历者；</p>
-<p>@mozhixu：1、以在校大学专科以上学生3000万计算，党国坐拥几百万学生五毛并不夸张，仅仅党员和入党积极分子就够了；此外，党国在各单位宣传口还有五毛，也在几百万之谱，以此而论，帝吧远征的几万数量级，就太小意思了，但黑客横行，如何组织五毛炸版还不被抓到现行，仍是个难题，帝吧远征不像是官方组织；</p>
-<p>@mozhixu：2、但是，在赵国，党领导一切，就没有什么真正的自发，党国至少可以封杀掉远征。更为可能的情况是，第一并不反对，甚至乐见，第二，也不排除背后有认在推动，这个就比较简单而不露痕迹。1999年炸馆后的示威游行，2005年的反对日本入常，2008年的冲击家乐福，都有各种操弄痕迹。</p>
-<p>@mozhixu：3、背后有手操弄，一部分直接组织带领，一部分自发小粉红，既有效果又很隐秘，这可能最接近真相。小粉红从哪里来？当然首先是洗脑教育的成就，系统性地通过教育和宣传洗脑，乃是极权国家的本质之一，而近二十年的主要灌输洗脑内容，正是民族主义、爱国主义，批量制造出小粉红供赶尸差遣，不足为奇！“3、背后有手操弄，一部分直接组织带领，一部分自发小粉红，既有效果又很隐秘，这可能最接近真相。小粉红从哪里来？当然首先是洗脑教育的成就，系统性地通过教育和宣传洗脑，乃是极权国家的本质之一，而近二十年的主要灌输洗脑内容，正是民族主义、爱国主义，批量制造出小粉红供赶尸差遣，不足为奇！</p>
-<p>@mozhixu：4、造成小粉红的原因是洗脑教育，只要党国犹在，就会如此，应当平常心看待。以我20年网络经验，历经99、05、08多次粪青高潮，记忆所及，曾经的小粉红有许多转变成了自由派（当然，也有许多顽固的），但几乎没有看到从自由派转变成民族主义粪青的，小粉红不是什么难以治愈的顽症。</p>
-<p>@mozhixu：5、小粉红转变，很难依靠说服或什么启蒙，而是要靠走上社会后那一耳光，简单说就是现体制违背人性的地方，就足以唤醒，08年因314、奥运火炬、地震，小粉红一时猖獗，尤其地震后，自由派悲观地说因此推迟民主十年云云，结果呢，一个灾区学校，一个三鹿奶粉，08年反倒自由化思潮大扩展。</p>
-<p>@mozhixu：6、悲观心态可以理解，自由派在打压之下，孤立离散，看到小粉红成群结队，自然感觉势单力孤。但是，现体制既压制权利，又攫取利益，实际以所有人为敌，从而对于体制外任何群体都持怀疑心态，维稳体制更容不得持续动员和组织，对自发小粉红也不会信任，99、05、08，都有粪青事后被判刑的先例。</p>
-<p>@mozhixu：7、2008年前后的什锦八宝饭比现在的小粉红还吓人，小粉红还知道追韩星，审美尚称正常，前者直接对统治者就花痴开了，可如前所说，08年是一个拐点，面瘫、影帝迅速成为了新的代词，27亿美元更是让星空暗淡无光，今天你要再说如今已为人妻人母的谁是什锦八宝饭，估计一口唾沫就吐你脸上了！</p>
-<p>@libearal：一边看着微博上君达乐的慢先生记录的那些如同牲口一般被丈夫活活打死的农村妇女的故事，一边看着城市年轻少女们自带干粮爬过高墙向世界展示自信，这魔幻般的荒诞情景让我有种无法言说的胸闷感。</p>
-<p>@libearal：女人们被男人打死，或者忍无可忍杀了男人，自己走向监狱。他们的孩子流落街头，冻死在垃圾箱里，有些侥幸长大成为小偷、妓女、吸毒者、杀人犯。你们自信的翻过高墙去为这样的国家辩护，攻击想象中的“敌人”，然后转过头来对这些孩子说：你们这些社会渣滓就该全都去死。</p>
-<p>@wangyungao： 小粉红是假象，一个内地小县城，大约有有五十名政府正式工作人员按照上级安排注册了各大网站微博境外推特Facebook账号，有工作群，任务来就上，你可以算算全国有多少个县。大浪背后都有风。</p>
-<p>@cqy279： 看见小粉红们拼命翻墙上 FB 跟台独人士大战，五个翻墙VPN挂了四个也要上。如果你们用同样的热情去推倒墙，那还何愁墙不倒啊。整个过程不去质疑墙，没有责怪墙，反过来说有墙在是为了外面的人好啊什么的。我真的觉得好悲哀。</p>
-<p>@wentommy：帝吧圣战势破竹，功夫墙厚原豆腐；冲锋队已登金门，受命寸草不容生；待到王师复台岛，国士黄安必封神。</p>
-<p>@microcai：我只是暂住中国，因为我在这里居住要暂住证，我是那个国籍我不知道，反正是要税时全说我是中国人，福利时全说我是外地人。</p>
-<p>@fysly：本来就已经够拥挤的国际带宽，还要浪费在这种蠢货身上。</p>
-<p>@ichimaru0223：多少以后，他们都三十而立。偶尔的一次同学会让他们重新聚在一起。他们有的成了学者，有的创业，有的已经移民。但老同学们聚在一起，仍然能依稀回忆起2016年初的光辉岁月，那时候上互联网不方便，但依然挡不住他们爱国的心。#激情燃烧的岁月2030</p>
-<p>@uponsnow：北京网友：“（小粉红）赤裸裸地表现出一种近似男权癌的逻辑：我并不爱你，但你是属于我的，你敢离开我就弄死你。” 果然女权主义能产生独特的视角，佩服。</p>
-<p>@cuixueqin ：有组织的爱国和有组织的山巅对党来说是同样危险的事情。党不需要你支持，也不需要你反对，党只需要你听话。希望那些自以为是国家主人、要奋力捍卫国家主权的小粉红们，能尽早明白这个道理。不然你们的下场会很惨。这是一点推心置腹的忠告。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-15/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -719,5 +679,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

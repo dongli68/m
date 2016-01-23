@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E3%80%8C%E7%88%B1%E5%9B%BD%E5%B0%91%E5%A5%B3%E3%80%8D%E3%80%8C%E5%B0%8F%E7%B2%89%E7%BA%A2%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88/" target="cdt-mirror">知乎｜「爱国少女」「小粉红」这些标签是什么意思？</a>
+</h2>
+<p><div><a href="https://www.zhihu.com/people/su-di-17" data-tip="p$b$su-di-17">张钟麟</a><span title="抗战少女/回答自带三百反对所以求个赞">，抗战少女/回答自带三百反对所以求个赞</span></div>
+<div data-votecount="2221"><span><span><a href="https://www.zhihu.com/people/yao-yao-da-91-79" data-tip="p$b$yao-yao-da-91-79" data-original_title="Charlotte">Charlotte</a>、</span><span><a title="唯爱青柠" href="https://www.zhihu.com/people/wei-ai-qing-ning" data-tip="p$t$wei-ai-qing-ning">唯爱青柠</a>、</span><span><a title="埃里克森的劇本" href="https://www.zhihu.com/people/jing-chen-84-4" data-tip="p$t$jing-chen-84-4">埃里克森的劇本</a></span> </span><a>等人赞同</a></div>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/946422137eec7e927483c088fce9ee1d_b.jpg" alt="946422137eec7e927483c088fce9ee1d_b" width="600" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/946422137eec7e927483c088fce9ee1d_b-300x172.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/946422137eec7e927483c088fce9ee1d_b.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4769ecb7a8e2745fabe6aa392da5cbe2_b.jpg" alt="4769ecb7a8e2745fabe6aa392da5cbe2_b" width="600" height="139" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4769ecb7a8e2745fabe6aa392da5cbe2_b-300x70.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/4769ecb7a8e2745fabe6aa392da5cbe2_b.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>说出这句话的人和给她点赞的两千多人，无疑就是「小粉红」中的典型了。</p>
+<p>说我贴标签的，我不归类人，我只归类一群人的行为。</p>
+<p>前段日子，中华红客向美国网络宣战的谣言传遍了微博，紧接着早已不存在的中国红客联盟居然出现了一个微博账号在新浪…我随手翻了一下，几千条评论里几乎都是动漫或软妹头像…要给「红客」们生孩子的少女。</p>
+<p>她们可以很轻易的把生孩子说出口，给马云，给王思聪，给宁泽涛，给所有她们认为优秀的人，本来这无可厚非，但对象有时跨度非常大，比如日本声优，比如黄安，比如那群违法的「红客」。</p>
+<p>因为她们认为这是爱国。<br>
+爱国嘛，爱国总是没有错的。</p>
+<p>这是戴着爱国的假面寻找认同感的人,她们渴望这种团结一致的话语权，渴望得到同类与认可，她们「哈哈哈哈哈哈哈哈哈」，要么就「微笑」，永远站在制高点。常常对政见不同者以一种其实表达不了什么见地但能宣泄情绪的表情包作为回应，并以此为荣。</p>
+<p>问题不出在爱国上。这种爱国本质上和追星并无区别。</p>
+<p>小粉红们对待政治事件和历史人物的看法是十分简单粗暴的。她们可以大号小号一起上给TF-boys刷十几万的转发——也可以把这种热情应用在给周总理刷十几万“这盛世如你所愿”上。</p>
+<p>举个例子，这次有很多小粉红因为翻墙在fb上和台湾台独分子争吵时取得优势而对黄子韬转粉的，前一天她们还让他「狗带」。</p>
+<p>小粉红们多数接受过“星辰大海”的教育，姑且用这个词吧，肯定周小平同志的经典文章“请不要辜负这个时代”，肯定中国的辉煌与成就，“看到祖国这么流氓，我就放心了。”</p>
+<p>将国家扩张土地变为一件顶荣耀顶自豪的事情。津津乐道着中国的迷之造岛大法，甚至…希望祖国去入侵别的国家，形成大霸权…当然，这种想法是非常好的，可惜这一切都是在意淫中进行的。</p>
+<p>俄罗斯好！一票否决好！动漫cp红色组就是两位男性国家领导人在一起的理论依据。普京大帝什么都会，真厉害啊！中俄友谊万岁！可是你要和她们说说俄罗斯侵占我国的领土，她们就顾左右而言他了。</p>
+<p>台湾是中国的！香港是中国的！地留人滚！想收回台湾，却攻击台湾人，想宣布主权，却攻击香港人。</p>
+<p>和我说的不一样的全都是反革命者，反国家者，说「你国」「贵国」的全都是傻x……你们怎么能和本公主的意见不一致呢，啊不对…你怎么可以不爱国呢？</p>
+<p>「不（和我们抱团）爱国的人应该炸妈。」</p>
+<p>她们原始的，幼稚的人生观和政治观还不足让她们获得正确的认识……然而她们已经拥有发表意见的权力了，而且抱团使得她们无限的放大这种权力，得以以此去攻击那些意见不同的他人。</p>
+<p>引用评论区观点：「 他们希望这盛世，如他所愿，而且这盛世不允许有观点和他们不一致者。。。」</p>
+<p>理论上将一些恶心行为归纳到一起扣帽子攻击一群人的行为是不对的，应该对行为不对人，但是「小粉红」是以上行为全都有的女孩子，所以只是简单的称呼。</p>
+<p>「不让我们上外网是为我们好！」<br>
+「墙是英明决定，保护国家网络产业，你看现在的中国社交软件多么好，不要目光短浅！」<br>
+「普习cp大好！中俄友谊万岁！」<br>
+「中国崛起之日四方跪拜称臣！」</p>
+<p>盲目，狂热，热情，幼稚，抱团，天真，自以为是，严重的受迫害妄想症，上纲上线的攻击，娱乐至死的回应。</p>
+<p>「爱国」嘛，「爱国」总是没有错的。</p>
+<p>「社会达尔文主义者」和「乌合之众」这些名号对于一群十几岁二十岁的小姑娘来说确实太不怜香惜玉了，就叫她们小粉红吧。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E3%80%8C%E7%88%B1%E5%9B%BD%E5%B0%91%E5%A5%B3%E3%80%8D%E3%80%8C%E5%B0%8F%E7%B2%89%E7%BA%A2%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E7%BA%A2%E5%AE%A2/?category=18271" rel="tag">中华红客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B9%A0%E6%80%BB%E5%85%B3%E4%BA%8E%E5%B8%9D%E5%90%A7fb%E5%87%BA%E5%BE%81%E7%9A%84%E6%8C%87%E7%A4%BA/" target="cdt-mirror">【习总日记】习总关于帝吧fb出征的指示</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，01，22）</p>
@@ -214,7 +254,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%BA%E7%89%88%E5%B7%B2%E6%95%85%E7%A6%81%E4%B9%A6%E4%BD%9C%E8%80%85%E9%AB%98%E5%8D%8E%E6%96%87%E9%9B%86-%E5%B9%BF%E8%A5%BF%E5%87%BA%E7%89%88%E7%A4%BE%E9%81%AD%E5%A4%84%E5%88%86/" target="cdt-mirror">自由亚洲｜出版已故“禁书”作者高华文集 广西出版社遭处分</a>
 </h2>
@@ -693,23 +733,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E8%A2%AB%E5%B0%81%E7%A6%81-%E5%A4%9A%E4%B8%AA%E7%BD%91%E7%AB%99%E5%85%B3%E8%AF%84%E8%AE%BA/" target="cdt-mirror">腾讯科技｜帝吧出征FB：直播平台被封禁 多个网站关评论</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025259.jpg" rel="attachment wp-att-426117"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025259.jpg" alt="20160120210025259" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025259-300x194.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025259-768x495.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025259-1024x661.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025259.jpg 1637w" sizes="(max-width: 1637px) 100vw, 1637px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025590.jpg" rel="attachment wp-att-426116"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025590.jpg" alt="20160120210025590" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025590-300x140.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025590-768x358.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025590-1024x478.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025590.jpg 1200w" sizes="(max-width: 1200px) 100vw, 1200px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025273.jpg" rel="attachment wp-att-426115"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025273.jpg" alt="20160120210025273" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025273-300x194.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025273-768x495.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025273-1024x661.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025273.jpg 1637w" sizes="(max-width: 1637px) 100vw, 1637px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025963.jpg" rel="attachment wp-att-426114"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025963.jpg" alt="20160120210025963" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025963-300x140.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025963-768x358.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025963-1024x478.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/20160120210025963.jpg 1200w" sizes="(max-width: 1200px) 100vw, 1200px"></a></p>
-<p>腾讯科技讯（孙宏超）1月21日消息，昨天晚间帝吧出征FB打击“台独”成为一件网络热事，微信、微博等社交平台都有大量网友对此事进行讨论。</p>
-<p>帝吧，原名百度李毅吧，也叫帝吧、D吧、D8。有百度卢浮宫之称，人气最旺盛的贴吧，有超过2000万的用户，与台湾人口大致相当 。</p>
-<p>此前，关于台独行为引发广泛争论，台湾地区新任领导人蔡英文、艺人罗志祥等Facebook成为两岸网友开战的重要场所。</p>
-<p>和此前百度贴吧数次爆吧不同，此次帝吧远征堪称“有组织、有纪律”，帝吧相关组织者在组建的多个qq群里多次强调文明用语，不发黄图，反台独但不反台湾人民 ，随后翻译组还把英日韩德法等多国语言版本的反台独声明翻译出来，一些表情包风景图也盖上了印章。</p>
-<p>晚上7点，多个平台迅速被中国大陆网友占据，网友们通过刷诗歌、表情包的方式霸屏，一些平台选择关闭评论以此躲避。因为进展如此顺利，甚至有网友评论：“今晚很无聊。”</p>
-<p>和此前的爆吧行为不同，由于无法在国内直接登录Facebook，此次帝吧打击“台独”事件在各直播平台上广泛传播，首先开通直播的是斗鱼，同时观看人数迅速超过10万，后被斗鱼官方封禁。随后B站、虎牙、熊猫等多个平台也先后跟进直播，但均被封禁。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E8%A2%AB%E5%B0%81%E7%A6%81-%E5%A4%9A%E4%B8%AA%E7%BD%91%E7%AB%99%E5%85%B3%E8%AF%84%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -721,7 +744,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -731,5 +754,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

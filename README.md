@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%9D%8E%E5%92%8C%E5%B9%B3%E7%AD%89%E8%A2%AB%E6%8E%A7%E9%A2%A0%E8%A6%86%E7%BD%AA%E6%89%B9%E6%8D%95/" target="cdt-mirror">美国之音 | 中国维权律师李和平等被控颠覆罪批捕</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%886.09.57.png" alt="Screen Shot 2016-01-23 at 下午6.09.57" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.09.57-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.09.57.png 636w" sizes="(max-width: 550px) 100vw, 550px"><br><span>维权律师王宇,李和平 （资料图片）</span></p>
+<p>北京维权律师李和平、李春富和家庭教会成员勾洪国本月早些时候被批捕，三人的罪名都是“涉嫌颠覆国家政权”。李和平和李春富是兄弟。李和平是北京高文律师事务所律师，李春富是北京市蓝鹏律师事务所律师。</p>
+<p>据博讯网消息，这一最新情况已获得上述三人的家属证实。 李和平关押在天津第一看守所，李春富和勾洪国关押在天津市第二看守所。</p>
+<p>此前，另一名北京基督徒刘永平也以颠覆国家政权的罪名被正式逮捕。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%886.13.38.png" alt="Screen Shot 2016-01-23 at 下午6.13.38" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.13.38-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.13.38.png 637w" sizes="(max-width: 550px) 100vw, 550px"><br><span>北京律师李春富、王宇。 (资料图片）</span></p>
+<p>目前，去年7月9日以来被当局正式逮捕的律师和维权人士已经达到15人。那次抓捕行动中，中国多个地方的100多名维权律师和活动人士被失踪、监视居住、限制行动或约谈。</p>
+<p>去年晚些时候，一些被警方抓走的律师和维权人士在全国电视节目中被发表道歉或忏悔录像。官方媒体将电视播出的北京律师周世锋表示认错的话语诠释为“认罪”。当时这些被抓捕者受到颠覆罪指控。</p>
+<p>近日，被控在从事非法活动的瑞典人权工作者达林也出现在中国电视节目中示众。</p>
+<p>一些国际人权团体对抓捕律师和维权人士的做法表示抗议，美国国务院也表示关切，呼释放周世锋、王宇和李和平等律师。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%9D%8E%E5%92%8C%E5%B9%B3%E7%AD%89%E8%A2%AB%E6%8E%A7%E9%A2%A0%E8%A6%86%E7%BD%AA%E6%89%B9%E6%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92%E5%88%98%E6%B0%B8%E5%B9%B3/?category=18271" rel="tag">基督徒刘永平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">李和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%98%A5%E5%AF%8C%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">李春富律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">颠覆国家政权罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E9%AB%98%E5%A4%A7%E4%B8%8A%E5%81%87%E6%83%B3%E6%95%8C/" target="cdt-mirror">东网 | 赵思乐：高大上假想敌</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%885.53.29.png" alt="Screen Shot 2016-01-23 at 下午5.53.29" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.53.29-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.53.29.png 575w" sizes="(max-width: 550px) 100vw, 550px"><br><span>“小粉红”的爱国青年们翻墙“出征”，是一场“网络版黄祸”</span></p>
+<p>自从1月3日在北京机场被抓，瑞典籍人权工作者彼得·达林已经被关押超过两周，他以涉嫌“危害国家安全犯罪”被中国国家安全部门处以“指定地点监视居住”的强制措施。也就是说，彼得无需审判就被中国警方“合法地”关押在秘密地点，尽管这是联合国《人权公约》禁止的情况，尽管中国签署过《人权公约》。</p>
+<p>同时失踪的还有他的女朋友，中国籍女孩潘金玲。彼得的同事迈克尔·卡斯特事后向媒体表示，在乘飞机离开前的数日，彼得感到紧张不安，决定暂时离开中国首都。</p>
+<p>1月9日，彼得的中国同事王秋实律师也与外界失去联系，他同时是“709律师大抓捕”中被关押的王全璋的代理律师。他原本计划在前一天与王全璋的妻子及其他该案代理律师一同去天津，同办案机关交涉，但遭警察阻拦未能成行。 1月12日，王秋实的家人收到通知称，他已被北京市国家安全局执行监视居住。同时，一封王秋实留给父母的信被他的朋友释出，信的第一句是：“在你们看到这封信的时候，儿子应已失去自由。”落款是1月4日，彼得被抓后一天。</p>
+<p>1月20日，中国中央电视台播出“新闻调查”，彼得和一位“王某”在节目中胡子拉碴地出现了。彼得对着镜头说他对于自己的行为十分后悔：“我在中国从事了违反中国法律的活动，伤害了中国政府和中国人民，为此我要深深致歉。”他还承认，维权人士幸清贤意图帮助“709”被捕律师王宇的儿子包卓轩偷渡出境的行为，是受到他的资助的。王某也在镜头前“作证”称，彼得的企图就是颠覆中国国家政权。</p>
+<p>央视报道还称，彼得与锋锐律师事务所王全璋合作，在香港成立了名为Joint Development Institute Limited(简称JDI)的机构，在大陆以“中国维权紧急援助组”的名义活动，他们“通过被培训人员，插手社会热点问题和敏感案事件，蓄意激化一些原本并不严重的矛盾纠纷，煽动群众对抗政府，意图制造群体性事件。”</p>
+<p>但央视的报道迅速遭遇“打脸”。</p>
+<p>目前已回到美国的JDI工作人员迈克尔向媒体澄清说，虽然王全璋是援助组的董事，但自2014年他加入锋锐律师事务所，王全璋对援助组的参与已经很少，他在锋锐的工作也与援助组无关。 “将援助组与锋锐联系在一起的确是错的，因为两者之间真的没有关联。”他说。</p>
+<p>锋锐律师事务所是在“709”中受到主要打击的机构，其工作人员周世锋、王宇、王全璋等已被中国警方以“颠覆国家政权罪”逮捕。</p>
+<p>迈克尔认为，彼得明显是被迫认罪，“说彼得有参与其中……似乎是想加重对那些维权律师的指控。”他说，这向中国维权人士和国际社会发出了非常强烈的信号：“任何以法治和人权，挑战政府对法治和人权定义的垄断的行为，都会被盯上，并面临报复。”</p>
+<p>迈克尔还澄清，虽然援助组曾资助幸清贤在四川设立一个法律援助站，但两者之间的合作关系在2014年初就结束了，援助组没有参与包卓轩的逃离行动。</p>
+<p>两方各执一词，但谁的可信度更高有简单的判断方法：谁处于更自由的状态。</p>
+<p>自2013年的“薛蛮子嫖娼事件”之后，“上央视”几乎成了“官方打压套餐”的必选菜，从网络红人郭美美，21世纪传媒集团的沈灏，到709案、张六毛死亡事件、劳工维权案、浦志强案等等民间打压案件，都上央视走了一遭。惯例是新华社先发通稿，全国主流媒体统一口径，然后央视出马，绘声绘色地铺陈，让还没经过司法程序的当事人在电视上“向全国人民认罪”。</p>
+<p>中国当局如此使用被全球传统知识精英视为讲坛的新闻媒体，无怪乎全球影响力最大的记者联盟“记者无国界”已向欧盟要求对央视和新华社实施制裁，将它们开除出新闻媒体的行列——总不能把独裁者的布告栏视为媒体吧。</p>
+<p>但央视的报道也不是毫无意义，在向外界展示官方打压背后的意图和逻辑方面，它作出了重大贡献。</p>
+<p>通过将彼得提供的人道援助和法律培训敍述为犯罪，央视替中国当局向民众讲了这样一个故事：外国势力出钱出人，在中国培养维权律师、煽动访民，通过塑造维权领袖、制造官民冲突，要颠覆中国共产党的政权。</p>
+<p>这个故事在冷战时期叫做“和平演变”，在现在叫做“颜色革命”。</p>
+<p>在去年的香港占中大抓捕，和今年年初的追杀权利NGO，虽然每个被抓者都被反覆讯问了两种问题：跟境外有什么联系；要怎么搅乱中国社会，但这个故事都没成功讲出来。这一次，终于在维权律师大案中讲成了。</p>
+<p>通过这个故事，普通民众收到三个讯息：一、你们三天两头听说的，社会上这儿那儿发生的种种不公和矛盾，都不是真的，都不是政府和制度的错；二、凡是有人说政府不好，凡是有人跟政府发生冲突，他肯定是在故意捣乱，背后肯定有外国势力在指使；三、你要是像他们一样说政府不好，跟政府闹矛盾，你就中了外国势力的计、称了他们的心。 ——“新闻不都说了嘛！”</p>
+<p>于是，一个“高大上”的敌人形象出现了，它叫“境外反华势力”。它层层伪装、无处不在，它用心险恶、布局精密，要对付这么高大上的敌人只有一个办法：永远站在政府的一边。</p>
+<p>极权永远需要敌人，敌人越高大上越好，形势越严峻越好，这样才有理由把资源和权力永远抓在手上。为了保持高大上形象，敌人必须不断更新，从地富反坏右，到党内大炸弹大毒草，到苏联修正主义，到美国帝国主义，到日本军国主义，现在又轮到台独港独和颜色革命。</p>
+<p>在召唤凝聚力和合法性上，共产主义在使用了30年后终于失效，民族主义已经用了40年，似乎还不能说是强弩之末。</p>
+<p>近日，被戏称为“小粉红”的爱国青年们翻墙“出征”到FB骂蔡英文，其中一位在谈自己的动力时说，自己在“经历历史”：“希望推到柏林墙的那个时候，可以在墙上留下自己的手印。”这一个经典案例说明，民族主义洗脑与模糊的启蒙话语相结合，会制造怎样一种惊人的扭曲逻辑，再加上互联网，就是一场“网络版黄祸”。</p>
+<p>这仅是民族主义40年养蛊的牛刀一亮，线下版不妨各自想像。</p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E9%AB%98%E5%A4%A7%E4%B8%8A%E5%81%87%E6%83%B3%E6%95%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%85%B8/?category=18271" rel="tag">瑞典</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%85%B8%E4%BA%BA%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">瑞典人彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%A8%81%E5%8A%9B-%E7%9F%A5%E5%90%8D%E8%87%AA%E5%B9%B2%E4%BA%94%E4%B9%9F%E6%8A%95%E9%99%8D/" target="cdt-mirror">博谈网 | “小粉红”威力 知名自干五也投降</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%885.25.44.png" alt="Screen Shot 2016-01-23 at 下午5.25.44" width="550" height="487" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.25.44-300x266.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.25.44.png 595w" sizes="(max-width: 550px) 100vw, 550px"></p>
@@ -608,64 +663,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E4%B8%8B%E9%99%8D-%E4%B8%8A%E6%B5%B7%E4%B8%A5%E7%AE%A1%E4%B8%AA%E4%BA%BA%E7%BB%93%E5%94%AE%E6%B1%87/" target="cdt-mirror">茉莉花革命｜外汇储备下降 上海严管个人结售汇</a>
-</h2>
-<p><p>中国当局开始在居民个人结售汇领域开辟资金围堵战和汇率保卫战的新战场，以防普通民众对本币资产信心动摇，爆发大规模换汇潮等意外事件。 </p>
-<p>中国外汇存底急剧下降</p>
-<p>面对日益高涨的人民币贬值预期和不断缩水的外汇存底，中国当局开始在居民个人结售汇领域开辟资金围堵战和汇率保卫战的新战场，以防普通民众对本币资产信心动摇，爆发大规模换汇潮等意外事件。</p>
-<p>周三下午，多位不愿具名的知情人士向彭博透露，上海部分银行已明确要求各分支机构严格规管个人结售汇业务。其实从上周开始，有关中国居民蜂拥至各零售银行换汇的消息已不绝于耳。彭博从中国银行和招商银行在上海的多家支行了解到，近期个人外汇需求迅速升温，在这些网点将人民币换成美元的居民增加不少。</p>
-<p>在浓郁的看空人民币氛围中，民众迫切换汇的心情不难理解。彭博汇总的 66 家机构预估中值显示，今年第四季在岸人民币兑美元会跌至 6.75 。在接受彭博调查的 45 位分析师中，最为看空人民币的荷兰合作银行料今年人民币会跌到 7.60 。更有甚者，一位预见到当年美国次贷危机和欧债危机的对冲基金经理呼吁，中国应将人民币一次性贬值至少 50% 。</p>
-<p>北京时间周三 23:30 夜盘交易结束时，在岸人民币兑美元报 6.5785 ，与上日夜盘结束时基本持平。当天 16:30 的官方收盘价报 6.5796 ，较上日官方收盘价下跌 0.02% 。纽约时间周三 16 ： 52 ，离岸人民币兑美元下跌至 6.6015 ，较在岸人民币贴水约 230 点。</p>
-<p>瑞穗银行驻纽约的外汇策略师 Sireen Harajli 认为，这一新举措显示中国对资本外流的情况非常担忧。「这些短期的措施会加剧市场的恐慌，也会转移市场对中国在资本账户开放上所作努力的关注，」她通过电子邮件接受彭博采访时说，「虽然中国经济表现仍处在正轨上，但是这些措施可能暗示会有更多的麻烦浮现。」</p>
-<p>严打非法换汇</p>
-<p>德国商业银行驻新加坡的高级经济学家周浩在电话采访中也表示，严格规管个人换汇本身问题不大，但若修改个人结售汇限额等规定，恐怕反而会引起恐慌。</p>
-<p>据上述知情人士透露，上海的部分银行已要求严查个人分批购汇出境，一旦查出违规，将作出相应惩罚。此外，这些银行还要求各分支机构停止对购汇业务的宣传。其中两位知情人士称，外汇局近期对其所在银行进行窗口指导，要求上报近期结售汇数据。</p>
-<p>外汇局未立即回复彭博寻求置评的传真。当天外汇局上海分局公布了 2016 年上海市外汇管理工作会议的部分内容，其中提出严厉打击外汇违法违规行为，严厉打击地下钱庄等各种非法外汇交易，切实防范跨境资本流动冲击。</p>
-<p>中国政府规定，中国居民每人每年只能购买等值 5 万美元的外汇。尽管如此，坊间却有多种手段规避该购汇额度限制。根据彭博汇总的数据，去年前 11 个月，中国的外流资金规模超过了 8,400 亿美元。</p>
-<p>再缩三千亿</p>
-<p>外汇存底数据也不容乐观。刚刚过去的 2015 年，中国的外汇存底大幅下降了 5130 亿美元，至 3.33 万亿美元，为 1992 年以来首次出现全年下跌。</p>
-<p>在彭博上周进行的一项调查中， 12 名经济学家有 10 人预计，到今年年底，中国的外汇存底可能会进一步缩水 3000 亿美元至 3 万亿美元甚至以下。调查得到的预期中值也接近该水平。受访者预计，到明年年底，外储料将进一步减少至 2.66 万亿美元，达到 2010 年以来的最低水平。</p>
-<p>Roubin iGlobal Economics LLC 驻新加坡经济学家 Daili Wang 、交银国际首席策略师洪灏和加利福尼亚大学圣地亚哥分校研究中国政治和金融的教授 Victor Shih 等人均表示， 3 万亿美元将是影响市场情绪的重要关口。</p>
-<p>「跌破 3 万亿美元不会导致恐慌情绪的出现，但是，尤其是中国民众肯定会变得更加警觉，」 Shih 说，「如果外汇存底低于 3 万亿美元，那么将会出现另一个心理关口。距离这个关口，可能会有几个月，甚至只有几周的时间。」</p>
-<p>当务之急</p>
-<p>人民币贬值预期加剧了中国的资本外流压力。央行上周公布的数据显示， 12 月份央行口径的外汇占款大幅减少 7082 亿元人民币，远超此前于 8 月份才创出的历史最大降幅 3184 亿元，其规模亦与此前公布的 12 月外汇存底下降 1083 亿美元接近。</p>
-<p>野村驻香港的中国首席经济学家赵扬认为，央行近期加强对资本外流的监管，意味着决策层将货币政策以及汇率稳定摆在了资本账户开放以及人民币国际化的前面。</p>
-<p>招商证券宏观研究主管谢亚轩对此持有相同的观点。他表示，中国央行的一系列超预期举措表明，当前维稳汇率已经超过了人民币国际化被视为当务之急。 丰业银行驻多伦多的首席外汇策略师 Shaun Osborne 对此则有不同的看法。「这个其实并不是新的管理措施，可能只是在过去的一段时间被忽视了，而现在需要更加严格的执行，」他在接受彭博邮件采访时说，「人民币国际化的进程不会因此而后退」。</p>
-<p>来源：南华早报</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E4%B8%8B%E9%99%8D-%E4%B8%8A%E6%B5%B7%E4%B8%A5%E7%AE%A1%E4%B8%AA%E4%BA%BA%E7%BB%93%E5%94%AE%E6%B1%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA%EF%BC%9A%E7%88%B1%E5%9B%BD%E3%80%81%E7%88%B1%E5%9B%BD%E8%B4%BC%E4%BB%A5%E5%8F%8A%E5%85%B6%E5%AE%83/" target="cdt-mirror">五岳散人：爱国、爱国贼以及其它</a>
-</h2>
-<p><p>看来共青团的小编很不爽“<a href="http://chinadigitaltimes.net/space/%E7%88%B1%E5%9B%BD%E8%B4%BC" target="_blank">爱国贼</a>”这个词，觉得这个词很恶心。这个词确实恶心，只是你觉得恶心的方向大概与我不同，你觉得爱国被冠以贼名是一种恶心，我觉得以爱国的名义行害国之实的行为很恶心。</p>
-<p>一帮小粉红们误以为这个词是我的创造，洒家不敢掠美，这是我从网上看来的，才疏学浅，这么精妙的好词不在我能力范围之内。这倒不是胆小推脱，如果这个词真是我所创造，我非常乐意认领之，凭此一个词我就可以写进历史了。</p>
-<p>我们要讨论一个问题的时候要先定义这个问题。</p>
-<p>什么是国？国者，我们以及我们的祖先生活之地，其中包含土地、文化。土地的疆界可能在几千年里有变化、文化的内涵可能有变化，但其一脉相承的内在联系不会变。</p>
-<p>作为一个中国人，我们都有过这样的经验：某个东西明明是非常现代的表现形式，但我们能够理解其中包含的中国元素。为什么会这样？这是因为我们在这个地方、这个文化中成长，每天都有同样文化基因的东西在潜移默化的告诉你“这是中国”，当你看到含有这种文化意味的新东西时，你就会知道这是中国的。这就是国，吾土吾民。</p>
-<p>什么是爱国？就是热爱这个土地与文化应该呈现的一切。记住，并非是“爱这里的一切”，而是“爱这里应该呈现的一切”。</p>
-<p>这两者区别何在？举个例子：你是爱缠小脚呢，还是喜欢现在的天足？如果你爱这里的一切，应该连缠小脚也喜欢嘛。可现在除了变态之外，没人喜欢那种畸形的审美。你爱女人，但你不会去爱一个把自己变成畸形脚的女人。这就是爱这里应该呈现的，而不是所有的一切。否则的话，我们就不要改革开放、建立共和国了。</p>
-<p>那么，这个国家应该是个什么样的国家？我劝各位读一下社会主义核心价值观的二十四个字：富强、民主、文明、和谐、自由、平等、公正、法制、爱国、敬业、诚信、友善。这二十四个字就是说明我们应该是个什么样的国家，其实也是说明我们人类文明走到今天，每个政治实体应该成为的样子。</p>
-<p>什么是爱国贼？就是窃取了爱国的名义、实际上是残害这个国家基本价值观的人。这样的人不是虚构的。</p>
-<p>如果我们愿意的话，我们可以搜到徐才厚、周永康、令计划等人无数次爱国的宣言、讲话、誓词，他们身居高位、手握重权、口含天宪、行为下作，可在他们没有被反腐风暴清理出来之前，谁敢说他们不是爱国者？以爱国之名、行窃国之实，这不是“爱国贼”是什么？</p>
-<p>还有一种爱国贼更为可怕，他们没有权力，真的是单纯的爱国而已，可他们本身的行为却只能对这个国家与国人造成伤害。最明显的例子就是那个拿着U型锁打碎日本车车主颅骨的人。他爱国吗？他爱。包括那些打砸家乐福的人也爱。他们的行为你喜欢吗？我想绝大多数国人不会喜欢。他们也是窃用了爱国的概念，使之成为了自己过激行为的理由，这种人也是爱国贼的一种。</p>
-<p>那么，对于这些人被冠以“爱国贼”的名头，你是应该觉得这个词恶心呢，还是觉得这些人的行为令人恶心？我想正常人都该知道怎么选择。至于不正常的那部分，我只能说这个世界上总是有变态的，他们更喜欢三寸金莲一些。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA%EF%BC%9A%E7%88%B1%E5%9B%BD%E3%80%81%E7%88%B1%E5%9B%BD%E8%B4%BC%E4%BB%A5%E5%8F%8A%E5%85%B6%E5%AE%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA/?category=18271" rel="tag">五岳散人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC%E7%B2%BE%E9%80%89/?category=18271" rel="tag">爱国贼精选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -687,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%A8%81%E5%8A%9B-%E7%9F%A5%E5%90%8D%E8%87%AA%E5%B9%B2%E4%BA%94%E4%B9%9F%E6%8A%95%E9%99%8D/" target="cdt-mirror">博谈网 | “小粉红”威力 知名自干五也投降</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%885.25.44.png" alt="Screen Shot 2016-01-23 at 下午5.25.44" width="550" height="487" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.25.44-300x266.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.25.44.png 595w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p><span>截屏自林岳芳的微博</span></p>
+<p>来源: 博谈网 ‌（博谈网记者苏智敏报道）连日以来，台湾总统当选人蔡英文、与一些被认为有台独倾向的人士、媒体，其脸书持续被大量突破网络封锁的中国网军入侵，他们留下许多‌‌‌‌“八荣八耻‌‌‌‌”、《歌唱祖国》歌词及各式表情包图片，并激烈的与台湾网友进行台独等相关议题的争辩，其中也不乏粗俗的漫骂。</p>
+<p>这群来自百度帝吧的网军，又被称作是‌‌‌‌“小粉红‌‌‌‌”。据了解，此称呼是来自《晋江文学城》论坛，现在主要是指90后到00后的年轻一代。</p>
+<p>‌‌‌‌“小粉红‌‌‌‌”们的行动得到共青团的支持，共青团中央22日在官方微博公开称赞他们：‌‌‌‌“可以看到中国迎来自信一代！他们自信地迈着阔步，天马行空地自由挥洒，他们充满阳光和自信的表现，让人眼前一亮。只要我们足够自信，大踏步向前，一定会将‌‌‌‌‘台独’势力踩在历史的脚下！‌‌‌‌”</p>
+<p>共青团中央官方微博同时还附上一篇来源标注为《环球时报》和占豪的文章，里面提到这些网军是去‌‌‌‌“理性地交流‌‌‌‌”，给台湾网友讲述大陆的真实一面以及台湾为何属于中国的历史，另一方面是‌‌‌‌“打击一下台独势力的嚣张气焰‌‌‌‌”。因此《三立电视台》、《苹果日报》以及《自由时报》这些‌‌‌‌“台独势力的传声筒‌‌‌‌”，就成了大陆网友们‌‌‌‌“打击台独势力、传播统一思想和大陆真实面貌的‌‌‌‌‘主战场’‌‌‌‌”。</p>
+<p>文中同时批评台湾年轻人被政治斗争洗脑了：‌‌‌‌“本质上还是被台湾偏执的政治斗争给洗脑了，以为大陆又穷又弱；而且他们的身份认同感也被分裂的台湾社会所撕碎，很多人并不知道自己到底是什么身份……‌‌‌‌”</p>
+<p>然而这些看似针对台独的争论火力，连自干五都被‌‌‌‌“烧‌‌‌‌”了一把。微博上知名的自干五林岳芳23日发出‌‌‌‌“休博公告‌‌‌‌”：‌‌‌‌“看着污言秽语的‌‌‌‌‘爱国小粉红’们，和我曾经的自干五战友们，他们的暴戾与疯狂，已经超越了正常讨论交流的范围。再次深深感觉到，热爱自己的国家，呼吁理性、呼唤和平，竟然如此不易！虽意犹未尽但心灰意冷，准备给心情放个长假。休博一个月‌‌‌‌”而点开林岳芳个人微博的留言中，可见到许多她口中的‌‌‌‌“爱国小粉红‌‌‌‌”对她的人身攻击。</p>
+<p>这些‌‌‌‌“小粉红‌‌‌‌”的出现，除了共青团的支持，中国异议漫画家‌‌‌‌“变态辣椒‌‌‌‌”认为背后有习近平政府的默许：‌‌‌‌“有些分析人士认为共青团擅自鼓励翻墙，恐怕会被中央打脸，但是现在看到，环球时报都出来发声力挺，说明习近平政府也想利用这种他们眼中的‌‌‌‌‘柔性攻势’‌‌‌‌”</p>
+<p>‌‌‌‌“变态辣椒‌‌‌‌”还认为，‌‌‌‌“小粉红‌‌‌‌”对对中共的辩证法思维应用娴熟。他指出，他们很多人知道八九六四，却说政府镇压得当，不然就没有今天的美好生活。‌‌‌‌“这些小粉红比过去的自干五更加自信和无耻，颠倒黑白的能力升级了。‌‌‌‌”</p>
+<p>目前，‌‌‌‌“小粉红‌‌‌‌”本身，在网络上已引来围观，舆论认为‌‌‌‌“小粉红‌‌‌‌”的言论可笑又无知。有人如此形容‌‌‌‌“小粉红‌‌‌‌”的思维，即是‌‌‌‌“只要出发点是爱国，那做什么都合理，你不认同就是卖国贼。‌‌‌‌”在微博上发表许多支持中共政府文章的林岳芳，也正是被‌‌‌‌“小粉红‌‌‌‌”骂为卖国贼的其中一人。</p>
+<p>关键词: 小粉红 自干五 爱国贼 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%A8%81%E5%8A%9B-%E7%9F%A5%E5%90%8D%E8%87%AA%E5%B9%B2%E4%BA%94%E4%B9%9F%E6%8A%95%E9%99%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%B2%B3%E8%8A%B3/?category=18271" rel="tag">林岳芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E5%90%B4%E6%88%88%EF%BC%9A%E5%A4%AE%E8%A7%86%E6%92%AD31%E9%9B%86%E5%9B%A2%E5%86%9B%E6%BC%94%E4%B9%A0%E5%94%AC%E5%8F%B0%E7%8B%AC-%E8%A2%AB%E6%8F%AD%E9%80%A0%E5%81%87/" target="cdt-mirror">东网 | 吴戈：央视播31集团军演习唬台独 被揭造假</a>
+</h2>
+<p><p>台湾有大陆不喜欢的人可能当选领导人，就用武力威胁当地选民，这么不光彩的方式在大陆公众中还大受欢迎，至少没人敢异议，无非因为理由是该领导人要搞「台独」。就算如此吧，可是这一招效果往往适得其反，大陆朝野上下一大批人依然乐此不疲，无非又是认定「台独必须武力解决，只能武力解决，也一定能用武力解决掉」的暴戾恣睢而已。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%885.12.19.png" alt="Screen Shot 2016-01-23 at 下午5.12.19" width="550" height="278" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.12.19-300x152.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.12.19.png 761w" sizes="(max-width: 550px) 100vw, 550px"><br><span>央视关于解放军日前东南沿海演习的报道，被揭造假。 央视放的演习画面，实际上是去年解放军多项演练画面剪辑而成</span></p>
+<p>这次蔡英文当选，虽然党首安然他的海外大撒币之旅，党内正将民族、民粹和专制熔于一炉的一些跟班仍急于要为台湾人民的不听话来个下马威。 1 月 21 日，大陆各大新闻网站突现「中国在东南沿海举行实弹登陆演习」的惊人消息，彷佛看透蔡英文台独野心，要随时高悬大棒，让她在枪口下老老实实地执政。</p>
+<p>可是这条消息的来路颇为可疑。最初来源是 20 日晚央视军事频道（绝非央视一套，更非「新闻联播」）名为「新启航：先进在强军路上」的系列报道中出现了「第 31 集团军：新型作战力量融入作战体系运用」的消息。极为微妙地是，这则视频新闻中口播的内容称「日前，一场讯息化条件下的联合作战演练在第 31 集团军所属地域展开」，到了央视网 1 月 21 日发布的文字稿中，标题成了「火炮齐射，陆空协同，第 31 集团军在东南沿海举行登陆演习」，其他网站转载时题目又悄悄改成「中国在东南沿海举行实弹登陆演习」。</p>
+<p>请看，「演练」成了「演习」，「第 31 集团军」成了「中国」，「某地域」成了「东南沿海」，正文中「实弹登陆演习」前还被硬塞进「大规模」三个字。于是，一条正常的部队训练报道就成了中国政府特意针对蔡英文当选而发出的「武统」警告。</p>
+<p>其实，只要查一下《解放军报》 1 月 18 日一篇基本事实和用语大致相同的报道，不仅标题也只是「新型作战力量融入作战体系运用」，而且直接承认了该军组织实战化演练的时间是「去年」。这让大陆官媒酷爱的「日前」一语可能包含的时间误差昭然若揭。</p>
+<p>这则报道并非没有技术含量，该军也的确在特战、陆航、两栖突击营和电子对抗等「新型作战力量」的合成化上花了工夫，但总的来说仍是探索和试验性质，达到的水平──一定程度的多兵种合成陆空协同、立体超越突击，使「新型作战力量」从辅助配属到主战主用，从人才短缺到配齐配强──也只是西方国家 80 年代的水平，为此军报文章中还特意生造了「研练」一词。</p>
+<p>更为搞笑的是，集团军根本不辖登陆艇 / 舰，报道中只提到「陆空协同」，可见海军没有参加，镜头中两栖车辆行驶的水面平滑如镜，但编导们仍为它自行脑补了两栖战车「迅速驶离舰艇」的文字，否则「东南沿海」的霸气岂不真地要「侧漏」？至于武装直升机、运输直升机、浮渡中的两栖战车在现代登陆战场上的生存力等技术问题，还是让他们保密好了。</p>
+<p>22 日，《人民日报海外版》的微信公号「侠客岛」还意犹未尽。可文章中除了加几句 31 军威镇东南的历史、与党首关系亲密，以及武直 -9 、武直 -10 都是全军的先进装备外，居然连这次「演习」「罕见地选在冬季」也被用来解读出「大战在即」的气氛。这难道是在揭露此前十余年对台军事斗争准备「天冷就不愿下水」？徐国妖、郭国贼真是误国误军啊！</p>
+<p>呵呵，以这样的战力威慑台湾，还真不如火箭军的常规导弹千弹齐发，寸草不留。</p>
+<p>来源：东网 / 吴戈 国际时事军事评论员</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E5%90%B4%E6%88%88%EF%BC%9A%E5%A4%AE%E8%A7%86%E6%92%AD31%E9%9B%86%E5%9B%A2%E5%86%9B%E6%BC%94%E4%B9%A0%E5%94%AC%E5%8F%B0%E7%8B%AC-%E8%A2%AB%E6%8F%AD%E9%80%A0%E5%81%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E9%80%A0%E5%81%87/?category=18271" rel="tag">央视造假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E9%80%A0%E5%81%87/?category=18271" rel="tag">新闻造假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E7%BB%9F%E6%97%8F/?category=18271" rel="tag">武统族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%9C%BC%E9%87%8C%EF%BC%8C%E4%B8%8D%E4%BD%86%E6%9C%89%E5%8F%B0%E7%8B%AC%EF%BC%8C%E8%80%8C%E4%B8%94%E6%9C%89%E9%A9%AC%E7%8B%AC/" target="cdt-mirror">墙外楼｜小粉红眼里，不但有台独，而且有马独</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160123_a7c1f01aa1218f9c8be2LVYEHyQOf3jI-%E5%89%AF%E6%9C%AC.jpg" alt="20160123_a7c1f01aa1218f9c8be2LVYEHyQOf3jI-副本" width="540" height="960"></p>
@@ -619,45 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%AF%B9%E5%A4%96%E6%AD%A2%E6%88%98%E5%AF%B9%E5%86%85%E7%A6%81%E8%A8%80/" target="cdt-mirror">【习总日记】 对外止战对内禁言</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，21）</p>
-<p>对外止战</p>
-<p>我深信，越是武备强大，外敌越不敢轻举妄动。故我下达指示，多造武器，造好武器。以达到止战作用。</p>
-<p>对谁止战？对周边小国，如越南菲律宾等。要使我们的武力能够在与周边小国局部战争中，达到一击即溃的效果。唯有如此，小国必不敢妄动。小国不妄动，战争便不会发生。这便是我备武止战的战略决策。就目前形势而言，我们非常害怕发生战争，即使是局部小型有限的战争也要尽量避免。因为战势一旦控制不好，便会蔓延成大规模战争，会导致美日加入。一旦美日加入，战事的主动权由谁掌控就很难说了。</p>
-<p>譬如台湾自干五黄安举报港台艺人台独言行，刀刀见血，绝无落空。最后却栽在<a href="http://chinadigitaltimes.net/space/%E5%91%A8%E5%AD%90%E7%91%9C" target="_blank">周子瑜</a>身上，输到脱裤，血本无归。其实大陆这边两岸政策依旧，台湾那里也并无重大立场改变，但两因素导致翻盘。一是十六岁花季美少女，一是正值台湾大选季。两者相互影响酿成挺周护台大风暴。最终结果，我党躺枪无可避免。造孽者黄安自遭两岸娱乐业联手绞杀，死有余辜。</p>
-<p>同理，战争的不可预测因素，对于维稳大于天的中共政权，是要极力避免的。</p>
-<p>对内禁言</p>
-<p>党内讲规矩，党外讲法律。党内讲规矩，不懂规矩触犯规矩者，双规底下无人权，要死要活不由你选。党外讲法律，懂法律吗？好，请君入瓮。用法律犯法，见过么？没见过没尝过的请你见识请你尝。伟大领袖毛主席说无法无天，我们有法也可以无天。</p>
-<p>我们抓了约15位维权人士，包括律师，目的就是要<a href="http://chinadigitaltimes.net/space/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95" target="_blank">掌握法律的主动权</a>，掌握法律的解释权，掌握法律的使用权。</p>
-<p>从前我们会羞答答地说，法律是我们的，也是你们的，但归根结底是我们的。不，今天我要告诉你们，明白坦率地告诉你们，法律是我们的，不是你们的，从来就不是你们的。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%AF%B9%E5%A4%96%E6%AD%A2%E6%88%98%E5%AF%B9%E5%86%85%E7%A6%81%E8%A8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%8C%97%E4%BA%AC%E6%8B%85%E5%BF%83%E8%B6%8A%E5%8D%97%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/" target="cdt-mirror">东方日报 | 柳三禅：北京担心越南颜色革命</a>
-</h2>
-<p><p>作者：柳三禅</p>
-<p>早前，北京的周边多传出不安宁的消息。先是北韩极度任性，牡丹峰乐团说走就走，并且悍然进行第四次核试，一点面子也不给；接着，承受两岸和平红利的国民党大败，不但丢了总统权，而且立法院也惨败，差点连修宪权也丢了。再跟着，越共十二大是否出戈尔巴乔夫式的人物，北京密切关注。</p>
-<p>新华社发自河内的报道说，「各种敌对势力和政治机会主义分子」的活动愈来愈猖獗。他们编造抹黑越南共产党和政治制度的文章，进而在越南策动「颜色革命」。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-21-at-%E4%B8%8B%E5%8D%885.57.51.png" alt="Screen Shot 2016-01-21 at 下午5.57.51" width="493" height="317" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-21-at-下午5.57.51-300x193.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-21-at-下午5.57.51.png 493w" sizes="(max-width: 493px) 100vw, 493px"><br><span>温家宝会见越南总理阮晋勇(左)。阮晋勇是越南著名改革派，政治上亲美疏中。一名美国的前外交官戴维布朗公开表示，他希望阮晋勇能够让越南制度向“自由”转变。</span></p>
-<p>如同中共十八大一样，越共十二大也是最高权力更替的重要会议，也是越共北派和南派的一次角力，焦点是南派的现任总理阮晋勇会否夺得总书记的大权。</p>
-<p>北派的现任总书记阮富仲已连任两届且年过七十，他有意让北派的河内市市委书记范光毅或中央组织部部长苏辉若接班。同时，阮晋勇未能参加越共十二大文件起草小组，被视为排除出未来越共领导层核心。</p>
-<p>但是，阮晋勇依然志在必得，并得到南派拥戴及美国的背后支持。阮晋勇亲美是得到西方媒体公认，他也不时提出一些离经叛道的主张。二O一四年中越南大规模反华暴乱，越共中央将此定性为「反共反社会主义的、以民族主义为借口发生的暴力行为」，并传出阮晋勇有参与被越共中央调查。北京央视引述过这一消息。</p>
-<p>事实上，这一暴乱是由美国支持的南越旧组织──越南改革党组织的，而阮晋勇与其关系的确密切。当时，北京还撤走了南海831钻井平台，缓和越共北派受到的压力。三禅以为，在国家利益上越共两派是一致的，只不过若阮晋勇掌权使北京更麻烦些。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5-%E5%8C%97%E4%BA%AC%E6%8B%85%E5%BF%83%E8%B6%8A%E5%8D%97%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%85%B1/?category=18271" rel="tag">越共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%85%B1%E5%8D%81%E4%BA%8C%E5%A4%A7/?category=18271" rel="tag">越共十二大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%8A%E5%8D%97/?category=18271" rel="tag">越南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%AE%E5%AF%8C%E4%BB%B2/?category=18271" rel="tag">阮富仲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%AE%E6%99%8B%E5%8B%87/?category=18271" rel="tag">阮晋勇</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -669,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -679,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

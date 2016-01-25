@@ -21,9 +21,141 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A-%E4%B8%AD%E5%AD%A6%E8%AF%BE%E6%9C%AC%E7%85%A7%E6%88%91%E5%8E%BB%E6%88%98%E6%96%97/" target="cdt-mirror">六神磊磊 | 中学课本照我去战斗</a>
+</h2>
+<p><p><strong>文／六神磊磊</strong></p>
+<p><strong>一</strong></p>
+<p>帝吧事件，一直没有写文。眼看过去了，可以平静地小总结一下了。</p>
+<p>话说在武侠江湖里，经常有这样一种现象：</p>
+<p>一个武林人士，不出手则已，只要一出手，就会被一眼识破师承门派，看透你学的是什么路子的功夫。</p>
+<p>就像郭靖打了人，欧阳锋一看就知道是蒙古摔角术；甚至有的高手只是吐了口痰，王语嫣都能一眼看出是“五斗米神功”。</p>
+<p>如果不想暴露老底，那最好不要轻易出手，不然必定露馅。</p>
+<p>前不久，正有号称多达2000万剑客一起出手了——百度人气最旺贴吧“帝吧”的热血青年翻墙远征facebook，通过刷屏、贴图等，刷爆了一些台湾政要和媒体帐号。</p>
+<p>我看了一下，他们的武器包括表情包、诗歌、民歌、段子、大陆的美食美景纪念照等等，内容很多，五花八门。</p>
+<p>然而，他们一出手，我就第一眼识破了他们武功的师承来历：</p>
+<p>统统来自三本绝世武功秘籍：《中学语文课本》《中学政治课本》《中学历史课本》。</p>
+<p><strong>二</strong></p>
+<p>一开始，看到他们用诗歌当武器，我是挺高兴的。因为我自己也很喜欢唐诗，虽然研读水平不高。</p>
+<p>在开战之初，就有我方热血小将一个虎步上前，祭出一首诗，“啪”地给了对方帐号凌厉一击。定睛一看，乃是：</p>
+<p>“小时候，乡愁是一枚小小的邮票”……</p>
+<p>这时候我还蛮欣慰。我看出来，这乃是出自人教版初三下册《语文》。</p>
+<p>我本来以为这一招乃是试探，就好像少林弟子和人过招，往往都先使用简单的罗汉拳，打上几式“黑虎掏心”，探一探虚实，然后再行变化。</p>
+<p>可我没想到的是，后来我方小将千军万马涌上，但凡诗歌，一堆堆被祭出的仍然是：</p>
+<p>“小时候，乡愁是一枚小小的邮票”“长大后，乡愁是一窄窄的船票”“而现在，乡愁是一湾浅浅的海峡”……</p>
+<p>我傻眼了。原来他们压根只会一招“黑虎掏心”，胸中之全部所学，出不了初中语文。</p>
+<p>所以刷来刷去，全不脱三本武功秘籍和中学学生经历的范畴：《歌唱祖国》《七子之歌》《亚细亚的孤儿》……</p>
+<p>和台湾有关的诗文那么多，他们搜索枯肠，所能想到的仍然只有初中的《乡愁》。</p>
+<p>你们爱国，那很好，怎么就不把祖国的诗多背几首啊。</p>
+<p>三</p>
+<p>这就是旁观的最大感受：他们所有的政治常识，都出自中学政治课本；所有的历史知识，都出自中学历史课本；就如同他们所有的文学知识积累，也都出自中学语文课本。</p>
+<p>胸中有了这三本绝世秘籍，就可以兵来将挡，水来土掩，所向披靡。</p>
+<p>如果你和他们说：我们来聊点当代文学……</p>
+<p>他们便怒目圆睁：“呔！乡愁是一张小小的邮票……”</p>
+<p>如果你说：哥们，我们来谈点现代政治常识……</p>
+<p>他便又拍马舞刀而出：“休走！国家是阶级矛盾不可调和的产物……”</p>
+<p>你若说：“朋友，我们来看看近代史上这一段究竟是怎么发生的……”</p>
+<p>他们必早已一枪搠来：“看枪！民族资产阶级的软弱性决定了它不能肩负起领导中国革命的重任……”</p>
+<p>这三本武学秘籍，让他们内力充盈、气走诸穴、真阳鼓荡；三本书构成了他们所有的知识体系，给他们提供了回答一切问题的信心。</p>
+<p>就好像太平天国杨秀清作法时的口诀“左来左挡，右来右挡，随便来随便挡……”</p>
+<p><strong>四</strong></p>
+<p>其实，这三本武功秘籍也是有可取之处的。就算你只读这三本书，也可以不贫乏成这个样子的。</p>
+<p>例如聪明的孩子就会发现：在语文课本上，其实可以读到历史；在历史课本上，其实可以读到语文。</p>
+<p>就像关于台湾的诗文，中学的历史课本上藏着很多啊！大诗人黄遵宪的痛彻心扉的哭声，你们忘记了吗？</p>
+<p>“我高我曾我祖父，</p>
+<p>艾杀蓬蒿来此土。</p>
+<p>糖霜茗雪千亿树，</p>
+<p>岁课金银无万数。”</p>
+<p>“城头蓬蓬擂大鼓，</p>
+<p>苍天苍天泪如雨，</p>
+<p>倭人竟割台湾去……</p>
+<p>成败利钝非所睹，</p>
+<p>万众一心谁敢侮？”</p>
+<p>何至于会刷来刷去只记得《乡愁》呢？</p>
+<p>依我估计，他们中的多数人，其实在中学时也并没有把这三本秘籍学好。真正学好了的那些人，多半早就扔掉这些敲门砖，高飞远走、不顾横池了，哪有那么多空闲时间天天耗在贴吧里打口水仗呢。</p>
+<p>唯独被剩下的他们，当初只学了个半吊子，结果却反而最入脑入心，把别人早扔掉的敲门砖抱在怀里不放。</p>
+<p>也真是实心眼。</p>
+<p><strong>五</strong></p>
+<p>结尾吧。其实我觉得知识分为两种：</p>
+<p>有的知识，能帮你寻找新知识，就像望远镜，可以帮你探寻到更广阔的天地；有的知识，则会帮你抵御新知识，它像厚盔甲，穿上它，你就油盐不进了。</p>
+<p>再换一种比方：前一种知识像是口诀，念诵它，你可以解开未知之锁，打开新的窗户；另一种知识则像咒语，念诵它，你就浑浑噩噩，水火不侵。</p>
+<p>念咒语念到水火不侵是什么样呢？《鹿鼎记》里就有这样一幕：</p>
+<p>“十余汉子一齐举起兵刃，大呼： ‘寿与天齐，寿与天齐！’声震屋瓦，状若颠狂……顷刻间，竟然武功大进，如痴如狂，兵刃乱砍乱杀。”</p>
+<p>难怪战无不胜、攻无不克了。</p>
+<p>我不由得想起，近一个世纪前，胡适先生曾对学生说过四条希望：平民夜校、通俗讲演、破除迷信、改良风俗。</p>
+<p>我没法和胡适先生比，他说四点，我只弱弱地说一点期望好不好，但是我必须要说三遍：</p>
+<p>读书！读书！读书！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A-%E4%B8%AD%E5%AD%A6%E8%AF%BE%E6%9C%AC%E7%85%A7%E6%88%91%E5%8E%BB%E6%88%98%E6%96%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/?category=18271" rel="tag">周子瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E5%90%A7/?category=18271" rel="tag">爆吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E5%B2%A9%E6%9D%BE/?category=18271" rel="tag">白岩松</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%B8%80%E7%89%87%E6%82%B2%E8%A7%82-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E7%9D%80%E9%99%86%E4%B8%8D%E5%8F%AF/" target="cdt-mirror">世界日报｜全球经济一片悲观 中国经济硬着陆不可避免？</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k4aaaaaaaaaaaaaaaa.jpg" alt="k4aaaaaaaaaaaaaaaa" width="491" height="268" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/k4aaaaaaaaaaaaaaaa-300x164.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/k4aaaaaaaaaaaaaaaa.jpg 500w" sizes="(max-width: 491px) 100vw, 491px"></p>
+<p>美国银行日前公布调查报告，访问全球 173 名基金经理，发现他们对中国和全球经济一片悲观。调查中有三个问题是这样的：一，全球经济未来一年有多大增长？大多数被访者说，增长会放缓，只有 8% 被访者说会有改善；二，全球经济目前处于经济周期的哪个阶段？大多数被访者说，正处于 2008 年以来的经济周期末期，亦即成长已到尽头、接近硬着陆和经济衰退边缘；三，中国经济是否出现衰退？ 45% 被访者都说，中国经济可能出现衰退，成为全球经济的最大风险。虽然这只是 173 人的意见，但他们管理全球 4490 亿美元资金，看法具有重大意义。</p>
+<p>所谓「硬着陆」，是指每个经济周期都有一个发展过程，亦即从经济成长，到成长放缓，再到衰退；当走到放缓尽头时，就代表成长从正增长走向负增长，当负增长出现时，就代表进入衰退。这么多基金经理说，中国经济正走向衰退，等于说，中国经济无可避免要硬着陆。</p>
+<p>在刚结束的瑞士达沃斯世界经济论坛，政商领袖对中国经济的讨论正好反映一片悲观的看法，虽然代替李克强总理出席会议的国家副主席李潮源说，中国政府有能力、有信心可保持中高速经济成长，但政商领袖却有截然不同意见。</p>
+<p>对中国经济的看法，以前的达沃斯与今年的达沃斯有很大分别。以前达沃斯论坛普遍认为，中国经济很正面、很牛市，认为中国即将超越美国，有强大的外汇储备，有能力面对挑战，建立一个现代化的经济体；虽然也有人持负面看法，但也只认为中国经济转型，必然引起阵痛，仍可保持持续发展。今年的达沃斯却截然不同，政商领袖不约而同表示，中国经济正处危急关头，有不少经济问题必须处理，不但讨论到具体问题，更表达一片悲观情绪。</p>
+<p>我们可从三方面看今年达沃斯对中国经济的态度。第一，中国必须尽快处理的问题。在人民币贬值问题上， BlackRock 执行长芬克 (Larry Fink) 说，自去年 8 月以来，中国对人民币汇价的立场反覆不定，造成信息混乱，引起全球经济和股市动荡，这个问题必须迅速处理，增加透明度。</p>
+<p>中国股市是另一个必须尽快处理的问题。高盛财务长柯恩 (Gary Cohn) 说，中国政府说要建立自由开放的市场，但是却干预市场运作，使中国的股市变得越来越不自由、不开放。</p>
+<p>事实上，中国政府一方面表示，会维持人民币汇价稳定，但去年 8 月将人民币贬值，之后，汇价只稳定了三个月，等到去年底，人民币成功「入篮」，成为「国际货币」之后，今年开年以来，立即又让人民币持续贬值，这是导致中国股市于开年头四个交易日两次「熔断」的导火线。</p>
+<p>第二，中国处理问题的方式。全球现在最关注，人民币未来是否继续贬值？更忧虑的是，是否出现一次过大的贬值？中国政府如不能在这个问题上作透明化的说明，不但会继续导致全球股市波动，也对中国股市发展不利。中国一方面希望维持人民币地位，但又想将它逐渐贬值，以达到改善出口的目的，贬与不贬之间，必须有所决定。</p>
+<p>在论坛上，国际货币基金 (IMF) 总裁拉嘉德说，中国政府没有在人民币问题上作出说明，有良好沟通对经济转型有利无害，中国透明度不够，使市场难以了解政府要干什么。事实上，中国政府说要改革企业债务和产能过剩，但说了很久，却一直未见公布计画。</p>
+<p>第三，中国处理问题的能力。投资家索罗斯在论坛上说，中国政府在经济转型这个重大事情上已拖得太久，使问题恶化，要挽救已太迟，中国经济无可避免要硬着陆；中国经济目前成长率只有 3.5%( 不是中国政府宣布的 6.8%) 。他认为，中国的通缩情况严重，但中国有 3 兆美元外汇储备，可以应付问题，但人民币贬值引起通缩，将输出给全球，使与中国有贸易关系的国家无法应付。</p>
+<p>与索罗斯持同样熊市态度的专家认为，中国经济正在痛苦转型，国企负债深重，全球经济又在放缓，对中国产品的需求不再像以前一样，再加上人民币贬值所引起的经济危机，已难以挽回，中国无可避免要硬着陆，全球也不知如何应付数十年来没有见过的全球性通缩。全球股市最近震荡加剧，或许正反映这种不确定的危机。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%B8%80%E7%89%87%E6%82%B2%E8%A7%82-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E7%9D%80%E9%99%86%E4%B8%8D%E5%8F%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%80%E6%94%BE%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%A6%E4%BC%A6%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%AF%B9%E5%8F%B0%E6%96%B9%E9%92%88%E7%9A%84%E6%83%A8%E8%B4%A5/" target="cdt-mirror">开放网｜王荦伦：中共对台方针的惨败</a>
+</h2>
+<p><p>2016年1月16日，台湾大选。谢票记者会原定于晚间八点召开，但七点不到，国民党朱立伦团队就决定出面向大家致歉提前认输。根据台湾中央选举委员会至夜间十一点的统计数字，民进党总统候选人蔡英文顺利地大幅度胜出，当选中华民国第十四届总统。她得票高达6,894,744张，得票率56.1234%。连在泛蓝军势力庞大的首都台北市和新北直辖市，蔡英文也破记录地遥遥领先朱立伦。朱总共只得票3,813,365张（得票率31.0409%），即使加上亲民党宋楚瑜的票（1,576,861张，得票率12.8537%），还差蔡英文约一百五十万票。这是蓝绿史无前例的重大差距：马英九2008年高票当选时，创下的得票记录也只是51.60%。</p>
+<p>与蔡英文一同当选的，还有民进党共拿下68席的立法委员，而国民党仅拿到35席，让民进党取得立法院一党过半（57席）的绝对优势。民进党的得票率版图，也从原来占有大幅优势的南台湾，一举北上囊括中台湾，并越过台湾中央山脉夺取东台湾。国民党只剩下台湾北部少数县市孤军奋战。真可谓蓝营票仓大沦陷，国民党遭遇有史以来最大的挫败，全台湾一片绿色。</p>
+<p>正如当天拨云见日的大好天气，中华民国诞生了史上首位女总统，亚洲继菲律宾、印度尼西亚、南韩等国家后，首次出现华人女总统。台湾实现自1996年总统直选以来的第三次政党轮替，这是又一波“颜色革命”。</p>
+<p>进而论之，2016台湾大选，实质是中共对台方针的惨败。中共一些人强权行事，不可一世，但往往是搬起石头砸自己的脚。台湾民众在恐怖威吓魔影之下，实在忍无可忍，以手中选票，表达心中的愤怒和反抗，对中共高声说“不”。</p>
+<p>铜锣湾书店事件：为台湾民众敲响警钟</p>
+<p>台湾大选前，香港铜锣湾书店的股东与员工五人相继“被失踪”，引发国际关注。北京《环球时报》元月六号居然为此辩护，强硬声称：“全世界的强力部门通常都有规避法律让一个被调查者进行配合的办法”。这完全是等于宣告：中国的执法机构可以“规避法律”，追缉所有被调查者，无论你在香港、东南亚，还是在任何国家。中共的执法机构，俨然成了与黑社会无异的无赖！</p>
+<p>这个事件当然是“天大的事情”，中共强力部门不是越境执法，而是“越境犯法”。即使“被失踪”的李波等人日后平安归来，是次失踪事件引起的问题已响起了“一国两制”的最后警号，说明香港已和大陆一样变得不安全，公民随时会“被消失”，连最基本的安全与自由都有问题。发展下去，全面性的恐怖就会来临，没有人有安全感。最后毁掉的，将不只是香港。</p>
+<p>当年中共决定在香港实行“一国两制”，主要当然是为了谋取自己的利益，其中一个更大的考虑是，要为将来台湾“回归”树立一个榜样。但近年来，中共这个考虑也不顾了。铜锣湾书店事件不单使香港民众极其惶恐，也为台湾民众敲响警钟。蔡英文就此事强调：言论自由是普世价值，希望北京当局厘清外界的质疑，确保香港的言论自由。连亲民党的宋楚瑜也表示，这起失踪案证明了台湾应该珍惜得来不易的民主自由。据香港支联会的说法，该书店只是因为准备出版《习近平情史》而惹祸。那不是一九八四年发生在美国旧金山的江南案——台湾旅美作家江南因为要出版《蒋经国传》而惹上杀身之祸的翻版吗？台湾民众对此记忆犹新，他们当然担心“今天的铜锣湾就是明天的台湾”。</p>
+<p>压倒骆驼的最后一根稻草：周子瑜道歉事件</p>
+<p>1月15日晚，台湾大选投票日前夜，发生一个周子瑜道歉事件，成了“压倒骆驼的最后一根稻草”。</p>
+<p>十六岁台湾少女偶像周子瑜，在韩国发展，属于韩国九人女团TWICE成员。她在一个综艺节目上拿着青天白日满地红旗，竟被在北京居住的台湾过气艺人黄安诬蔑为台独分子，向中国电视台举报。于是，周子瑜在中国大陆的演艺活动遭到全面封杀，广告代言被取消，还被中国愤青批斗围剿。在强大的压力之下，周子瑜通过视频道歉，素颜出镜，两次鞠躬，一脸委屈，看上去像要被ISIS斩首的人。</p>
+<p>中共官媒竟然洋洋得意。人民日报社旗下的《环球时报》即时在其微信号中发布评论，题目就是：《这次对阵“台独势力”，大陆网友完胜！》。该文为中国愤青撑腰打气，宣称：“大陆网友的爱国之心，绝不是什么‘暂时的情绪’，祖国才是大本命，这是在中国网友心中会跟随中国走向强势复兴一路的坚定信仰。而在这次事件后，相信大陆网友对与中国有生意往来的境外企业是否敢做出挑战中国底线的事情，只会变得更加上心。”</p>
+<p>一石激起千重浪！与大陆官媒的“爱国宣言”与“胜利宣示”截然相反，周子瑜事件引起台湾各界哗然，迅速发酵，不分蓝绿一边倒地对其表示支持与同情，并把此次投票率激发至比预期更高的水平，使得一直被大陆指为“台独”的民进党选情更加看好。</p>
+<p>据有关资料，五十万台湾年轻人票子的去向与周子喻事件有关，比起当年陈水扁当选时的“枪击”骗案，这是货真价实的“新型态的两颗子弹”。被激怒了的台湾民众用选票投给中共看，决心拒绝出现“今日周子瑜、明日台湾人民”的悲剧。</p>
+<p>武力讹诈：解放军中将对蔡英文放狠话</p>
+<p>台湾大选之际，中共再次使用武力讹诈，警告民进党人。他们再三强调“九二共识”，称其为台海局势的“定海神针”，如果否认“九二共识”，就会“地动山摇”。解放军“鹰派”代表，南京军区原副司令员王洪光中将连续发表辣评。1月12日，陆媒《搜狐军事》刊出他的最新文章《若蔡英文当选绝不姑息养奸》。他特意披露，解放军近期军队改革，构成了军委-战区-部队的指挥层级，陆、海、空、火、战略支援五军种联合作战体系初步形成。而大陆对付“台独”军事力量的就是南京战区及其所指挥的五军部队。解放军战略打击部队已形成覆盖第一岛链，打击第二岛链内重要目标的能力，超出台岛一两千公里。王中将讽刺地说，台军的情报工作据说还不错，请台军把南京战区力量与自己的力量作一对比，当然不是数字对比，而是通过计算机仿真系统，进行兵棋推演，在虚拟空间先打上一仗，看“胜算几何？能扛几日？”</p>
+<p>王洪光中将口气严厉，以战争威吓自己的骨肉同胞，完全没有人性。但就如1996年台湾大选时中共在台海上演导弹危机，推波助澜使李登辉顺利成为台湾首位民选总统，现在此举也不过是适得其反，让许多选民更加凝聚在民进党周围。</p>
+<p>正是中共把台湾国民党拖上死路</p>
+<p>许多有识之士指出，马英九及其国民党在台湾治理上有许多失误，但最下作最无耻的是，他们老是试图借用武力威胁的邪恶力量去为自己加分，说什么选择民进党就是选择战争，只有我国民党才可以赢得台海和平。基于这种逻辑，国民党对于中共独裁暴政不但不发声谴责，相反还眉来眼去。例如，北京“九三”阅兵，连战的令人失望的表现，把国民党的脸丢尽了。新加坡“习马会”，一声招呼，马英九屁颠屁颠跑去握手，又不敢提一句中华民国，很让台湾民众瞧不起，简直要恶心呕吐。共产党老说，群众的眼睛是雪亮的。正是2015年11月7日中共大肆宣传具有历史意义的“习马会”，让台湾人进一步证实：中共的“九二共识”是“各表一中”，而从不承认“一中各表”；国民党却顺从地展现出与北京合为一国的政治意愿。台湾人感觉到行将被北京并吞的强烈危机感，他们因为厌恶中共的作为不得不也厌恶国民党！</p>
+<p>大选过后，台湾国民党陷入“四大皆空”困境：丢失政权、丢失国会最大党、没有地方诸侯（只剩一都五县）、找不到人才。历史的确无情。2014年九合一选举，国民党未能记取教训；这次雪崩式惨败后，除非改弦更张，实难从废墟中重生了。正是中共错误的对台方针把国民党拖上死路。民进党取得胜利，蔡英文真应该在致辞中对中共表示由衷的感谢。</p>
+<p>台湾首先是台湾人的台湾：中共如何面对蔡英文时代？</p>
+<p>蔡英文以绝对优势当选中华民国首任女总统，中国大陆媒体当天一时全部静默观望。“共青团中央”微博别出心裁，发了张形似台湾的当归图样，配有文字：“当归是最常用的中药之一，具有补血和血，调经止痛，润燥滑肠、抗癌、抗老防老、免疫之功效。”网友神评：“可惜赵家药锅里，以太子参、党参为主。当归好像反太子参，且畏党参。”</p>
+<p>中共可能没法明白：国民党为什么输得这么惨？台湾民意在这十多年间发生了什么变化？其实，一般人都看出，最大的变化就是台湾人对台湾的定位：台湾是台湾，大陆是大陆，不要将我们和大陆硬拉到一起。这“渐行渐远”的局面就是中共错误的对台方针酿成的恶果，而中共之所以犯这个错误并无法自我纠正，又因为中共本身的专制独裁性质所决定。顺着这个形势发展下去，民进党经过几次大选当政越来越有治理经验，并获得多数民众特别年青人的拥护；而国民党这个百年老党大可能走向更深的衰微，不仅会使中共在台湾丧失“统一”的政治同盟，也让台湾割断了与中国最后一道情感羁绊。这样，中共可能会冒天下之大不违，向台湾开战。以中国当今强大的军事力量，完全可能迅速占领台湾全岛，但也会因此永远与台湾民众结仇，并因台湾治理问题激发中国大陆种种治理难题；当然，肯定还会受到世界舆论谴责。或者，中共也会因各种考量包括前述考量，不敢或者不能动用武力实现统一。那么，又会出现这种局面：中国大陆现在维持专制制度，是民主台湾拒绝被统一的理由；将来大陆实现民主化了，台湾人更坚定的台湾认同，却排除自愿被统一的选项了；而那时具有民主理念的大陆民众，也变得尊重住民自决原则，并不强求大一统的版图。</p>
+<p>如果历史真的走到这一步，中国强烈的民族主义者将会有一天因中国失去台湾而问罪于中共！</p>
+<p>（2016年1月20日）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%80%E6%94%BE%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%A6%E4%BC%A6%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%AF%B9%E5%8F%B0%E6%96%B9%E9%92%88%E7%9A%84%E6%83%A8%E8%B4%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%9D%8E%E5%92%8C%E5%B9%B3%E7%AD%89%E8%A2%AB%E6%8E%A7%E9%A2%A0%E8%A6%86%E7%BD%AA%E6%89%B9%E6%8D%95/" target="cdt-mirror">美国之音 | 中国维权律师李和平等被控颠覆罪批捕</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%886.09.57.png" alt="Screen Shot 2016-01-23 at 下午6.09.57" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.09.57-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.09.57.png 636w" sizes="(max-width: 550px) 100vw, 550px"><br><span>维权律师王宇,李和平 （资料图片）</span></p>
@@ -566,103 +698,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%B5%B5%E5%AE%B6%E7%9A%84%E7%89%8C%E5%9D%8A%E5%9C%A8%E8%BF%99%E5%A4%B4%EF%BC%8C%E5%85%AC%E6%B0%91%E7%9A%84%E9%80%89%E7%A5%A8%E5%9C%A8%E9%82%A3/" target="cdt-mirror">【河蟹档案】赵家的牌坊在这头，公民的选票在那头</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%94%E6%8A%A8%E8%AE%BA">朔抨论</a>：先帝爷留下的烂摊子，第二代治理者的办法是头疼医头，脚疼医脚，虽然去不了病根儿，但起码能减轻症状，让你自以为治好了。第三代是头疼医脸，脚疼也医脸，对他们来说，治不治好不要紧，面子最重要。这一代就邪乎了，头疼堵嘴，脚疼也堵嘴，只要不喊出来疼，就算没病。<br><a href="https://freeweibo.com/weibo/3932937718346041" target="/weibo/393">2016年01月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%85%8E%E9%A5%BC%E5%A4%A7%E5%B8%88">煎饼大师</a>：“同志们！跟我一起去攻占敌军的桥头堡！”“太好了！我们怎么开始？”“第一步，我们首先攻破我军的防线。。。” <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb%EF%BC%9A%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E8%A2%AB%E5%B0%81%E7%A6%81-%E5%A4%9A%E4%B8%AA%E7%BD%91%E7%AB%99%E5%85%B3%E8%AF%84%E8%AE%BA/">腾讯科技｜帝吧出征FB：直播平台被封禁 多个网站关评论</a>》 </em><br><a href="https://freeweibo.com/weibo/3933500376043986" target="/weibo/393">2016年01月20日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40baidu%E5%86%B7%E5%85%B5%E5%99%A8%E5%90%A7">baidu冷兵器吧</a>：我大团系第一次明火执仗的出来当流氓头子了（TD指台独）。 <em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/426215/">共识网｜邹思聪：帝吧“FB远征“背后的迥异三观</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E6%98%A0%E8%99%B9%EF%BC%9A%E8%AF%A5%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E5%B8%9D%E5%90%A7%E8%9B%86%E4%BC%97%E7%BB%84%E5%9B%A2%E7%BF%BB%E5%A2%99%E9%9B%86%E4%BD%93%E8%A2%AD%E6%89%B0fb%E7%94%A8/">唐映虹：该怎样看待帝吧蛆众组团翻墙集体袭扰FB用户？</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-39.jpg" alt="台独" width="366" height="651"><br><a href="https://freeweibo.com/weibo/3933466737279805" target="/weibo/393">2016年01月20日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E6%98%8C%E5%B9%B3">罗昌平</a>：一定解放台湾，实现祖国统一！<br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-40.jpg" alt="333" width="342" height="691" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-40-507x1024.jpg 507w, http://chinadigitaltimes.net/chinese/files/2016/01/333-40.jpg 708w" sizes="(max-width: 342px) 100vw, 342px"><br><a href="https://freeweibo.com/weibo/3933091133034991" target="/weibo/393">2016年01月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BA%93%E5%B0%94%E7%8F%AD%E6%B1%9F%E8%B5%9B%E4%B9%B0%E6%8F%90">库尔班江赛买提</a>：分享视频 <a href="http://t.cn/RbH1ONi" target="_BLANK">http://t.cn/RbH1ONi</a> //*<a href="https://freeweibo.com/weibo/%40%E5%A6%82%E7%9A%8B%E8%80%81%E7%8C%AB">如皋老猫</a>：你冷，你冷得很牛逼，很牛卵，这下子好了，全国网民都在夸你，这下子不冷了吧王大记者？这下子出名了吧央视五套赛事直播记者王华年？ <em><em>相关阅读｜《<a href="http://hk.on.cc/cn/bkn/cnt/news/20160122/bkncn-20160122071839018-0122_05011_001.html">東網<em><em>｜</em></em>央視記者大鬧冬運會 聲稱怕冷拒脫外套安檢（视频）</a>》</em></em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%B5%B5%E5%AE%B6%E7%9A%84%E7%89%8C%E5%9D%8A%E5%9C%A8%E8%BF%99%E5%A4%B4%EF%BC%8C%E5%85%AC%E6%B0%91%E7%9A%84%E9%80%89%E7%A5%A8%E5%9C%A8%E9%82%A3/"><em>点击这里查看嵌入的视频。</em></a></p><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-42.jpg" alt="王年华" width="367" height="652" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-42-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/333-42-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-42-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/333-42.jpg 1242w" sizes="(max-width: 367px) 100vw, 367px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-43.jpg" alt="王年华" width="413" height="734"><br><a href="https://freeweibo.com/weibo/3933835483966596" target="/weibo/393">2016年01月21日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%95%BF%E5%BE%97%E5%B8%85%E4%B8%8D%E5%A6%82%E8%B7%91%E7%9A%84%E5%BF%AB">长得帅不如跑的快</a>：路透中文网办事处现状  <em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%A6%E8%AE%A4%E8%82%96%E9%92%A2%E8%BE%9E%E8%81%8C%EF%BC%8C%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%9A%8F%E5%90%8E%E9%81%AD/">【河蟹档案】证监会否认肖钢辞职，路透社随后遭到封杀</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333.gif" alt="路透社" width="421" height="234"><br><a href="https://freeweibo.com/weibo/3932761355964659" target="/weibo/393">2016年01月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：只能新华社的独家报道称：瑞典人彼得和王全璋律师合作成立 “中国维权紧急援助组”。一个瑞典人海外筹款不远万里来到中国，给弱势者提供法律援助，这不就是法律界的白求恩嘛！ 我翻墙看了这家法援网站，救助的大多是访民。我想凡得到他们法援的，都不会载去烧巴士、压小孩子吧？<em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/01/160119_china_sweden_detention">BBC<em><em>｜</em></em>中国：被拘瑞典活动人士危及国家安全</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-41.jpg" alt="瑞典人彼得" width="453" height="664" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-41-768x1125.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/333-41-699x1024.jpg 699w, http://chinadigitaltimes.net/chinese/files/2016/01/333-41.jpg 800w" sizes="(max-width: 453px) 100vw, 453px"><br><a href="https://freeweibo.com/weibo/3933133973812340" target="/weibo/393">2016年01月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40DDDDDDDebby-">DDDDDDDebby-</a>：<a href="https://freeweibo.com/weibo/FB%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98">#FB表情包大战#</a><a href="https://freeweibo.com/weibo/%E5%B8%9D%E5%90%A7fb%E5%87%BA%E5%BE%81">#帝吧fb出征#</a> 发现一组萌萌的图片</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/333-44.jpg" alt="333" width="521" height="391" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/333-44-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/333-44.jpg 560w" sizes="(max-width: 521px) 100vw, 521px"><br><a href="https://freeweibo.com/weibo/3933706575897714" target="/weibo/393">2016年01月21日</a></div>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E8%B5%B5%E5%AE%B6%E7%9A%84%E7%89%8C%E5%9D%8A%E5%9C%A8%E8%BF%99%E5%A4%B4%EF%BC%8C%E5%85%AC%E6%B0%91%E7%9A%84%E9%80%89%E7%A5%A8%E5%9C%A8%E9%82%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AC%E5%A5%A5%E4%BC%9A/?category=18271" rel="tag">冬奥会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E5%AE%89%E6%A3%80/?category=18271" rel="tag">央视记者安检</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7/?category=18271" rel="tag">帝吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">王全璋律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%8D%8E%E5%B9%B4/?category=18271" rel="tag">王华年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%85%B8%E4%BA%BA%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">瑞典人彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E8%B6%85%E5%B9%B3/?category=18271" rel="tag">罗超平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E6%83%85%E5%8C%85/?category=18271" rel="tag">表情包</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E9%80%8F%E7%A4%BE/?category=18271" rel="tag">路透社</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/426215/" target="cdt-mirror">共识网｜邹思聪：帝吧“FB远征“背后的迥异三观</a>
-</h2>
-<p><p><em>【编者注】此文为作者去年11月所作，共识网近日在其微信公号进行了转发。微信原文已被和谐，本文内容来自传送门。</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/80952292gw1f06w5lrhj2j20qo1bfk2r.jpg" rel="attachment wp-att-426246"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/80952292gw1f06w5lrhj2j20qo1bfk2r.jpg" alt="80952292gw1f06w5lrhj2j20qo1bfk2r" width="440" height="782"></a><br><em>（本次“<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/">小粉红翻墙大作战</a>”中，用中英双版的“八荣八耻”刷屏被“出征”的大陆网民认为是不骂人的“正能量”、是在“讲道理”；图片来自网络）</em></p>
-<h3><span><strong>蔡英文的脸书来了一群“爱国者”</strong></span></h3>
-<p><em>邹思聪</em></p>
-<p>前段时间，蔡英文主席的脸书主页突然来了一群大陆人民观光团，这群爱国人士开始狂轰乱炸蔡的主页，于是相应的，激起了台湾人民的抵抗。晚上我听说这件事的时候战争才刚刚开始，但也没太在意，第二天早上一看，六万多条唇枪舌剑，你来我往，根本看不完，据说之后发展到了十五万多条以上。</p>
-<p>这一次的行为，外媒新闻报道不多，也并不深入，内地就更几乎没有关注，因此我不揣冒昧，记录一些事实与想法。</p>
-<h3><span><strong>一、蔡英文主页突然来了一群民间的“爱国者”</strong></span></h3>
-<p> <br>
-这场战争，我看最后大陆人民和台湾人民打了个平手，原因不是大陆人民不够勇猛粗俗，不够骁勇善战，而是墙在短时间内又竖起来，拦住了观光团对蔡主席的疯狂问候。</p>
-<p>台湾人民这才慢慢回击，将此前大陆人民极富想象力的问候掩埋了一些。台湾人民的攻击力明显要弱很多，除了奉献各种在微信上不能放的敏感话题以外，最多的问候还是“谢谢对岸的朋友帮小英助驯。</p>
-<p>从各方面的迹象来看，这应该只是一场民间行为，来自于天涯论坛、帝吧等等地方的网友组织起来，然后进行的一场行为艺术。</p>
-<p>帝吧和天涯的网友们极有创意，比如把蔡主席P成那个样子，创造性的演绎蔡英文与安倍的色情对话，这符合他们的一贯风格。他们也给中国的互联网带来了欢乐，带来了想象力。我想没有帝吧的网友，也不会有现在很多的流行语。</p>
-<p>但是我还是蛮奇怪，好不容易墙没了，怎么不出去做点其他的，为什么一定要和政治联系起来呢？平时在墙内党疼国爱得还爱不够吗？</p>
-<p>按照正常的逻辑，好不容易升级一下防火墙，各位有点机会出去放放风，不好好地享受一下无障碍上网，为嘛在这时候还要集体为国出征？而且这还不是第一次了，据说五月份蔡主席的脸书也被大陆观光团小小的围攻了一次。</p>
-<p>还不得不让人再一次感慨，一个人最基本的个人生活方式，网上娱乐方式，言说表达方式，都离不开你对“政治”的认识，离不开对世界的认知框架，以及面对不同意见之间的解决方式。</p>
-<h3><span><strong>二、意见战争背后的迥异三观</strong></span></h3>
-<p> <br>
-上周和大学好友打电话聊天，我和他也谈到阅读与求知的过程。我们大学期间在宿舍走廊上激烈争论过很多次，他那时的认知工具是二程、朱熹、混合了一些海德格尔，这些学说可以提供许多思考，也可以提供很多启发，但是对于我们谈论的社会制度、政治制度、现代化问题几乎没有帮助。</p>
-<p>上周我们相互回忆道，大学期间的修课与阅读，首先与其说是系统的学习，不如说是先清除掉两种谬误：</p>
-<blockquote><p>一种是知识论的谬误，就是那些似是而非的、以偏概全的、甚至于彻底错误的、扭曲是非的知识，无论是对中国传统的错误认知，还是对现代化的错误认知；</p></blockquote>
-<blockquote><p>一种是方法论的谬误，就是那些庸俗无赖的转化论、自相矛盾的阶级观、漏洞百出的辩证法、同时又是摩尼教式的敌对观……</p></blockquote>
-<p>在此以前，我和南华早报的好友高隽松聊到我们初次接触反右、文革的历史是什么时候，我说我小学五六年级吧，第一次知道反右，大跃进，大饥荒……因为我的启蒙导师就是右派加黑帮，腹笥丰瞻，才华横溢，又颠沛流离，命途多舛。我从小学二三年级开始在他那里学古文和历史，高隽松说，“所以你是从小就被灌了狼奶，对吧？”</p>
-<p>我纠正道，“不是啊，这才是人奶诶。”</p>
-<p>而这件大陆人民观光蔡英文主席的事儿，与其说是一次攻陷敌人阵营的大举进攻，不如说是一次大陆网民三观的大规模真实展示。</p>
-<p>因为在国内的网站上，我们会怀疑大规模爱国爱D行为是五毛，是水军，不是真实民意。但是鉴于各方面的迹象看，这都是一次民间行为，那么在Facebook上的这一次，真是凸显了两岸人民迥然不同的三观，或者说对宏观世界、以及自己所处生活的不同“意见”。</p>
-<h3><span><strong>三、表达意见的两种方式，无法沟通的死循环</strong></span></h3>
-<p> <br>
-生活本来由意见构成，而意见就是政治。因为关于生活的知识是人文学科与社会科学，它们从来都与关于宇宙的自然科学不同，一定包含了一套价值观的解释。人们在意见世界里，按照意见世界的运行方式去解决问题。而这样一个意见世界，就注定了是一个政治世界。</p>
-<p>大陆人民观光团展示出的迥异三观，以及极其特殊的攻击方式，非常明确的表达了自己不想讲道理，或者说，这就是我们“讲道理的特色”。比如把蔡英文主席P成AV女优，绿营下贱，蔡英文和安倍（真是躺着中枪）是无耻狗男女……</p>
-<p>反观台湾人民最恶毒的攻击就是支那猪，比起来，大陆观光团的攻击力确实是“不知高到哪里去”。台湾人会觉得不可思议，比如Facebook上一种普遍的观点是，“我以前觉得大陆人民很可怜，因为不能用facebook，但是现在我觉得这是中国做的唯一正确的事情。”</p>
-<p>因为对比起来，台湾网民的战斗力真的太弱了，全拿敏感历史来堆砌评论区，可是这些敏感历史真的有人在乎吗？</p>
-<p>这恰恰是两种方式，台湾人会觉得，我把这些敏感历史拿出来，对岸的人民你们看，这些就是发生在那片大陆上的真真切切的悲剧……这种攻击方式虽然言语激烈，但仍然在陈列事实，信奉的仍然是“陈列事实—改变认知—停止攻击—承认错误—取得理解”的一套逻辑。</p>
-<p>但这些敏感历史一旦进入大陆人民观光团的认知框架和知识储备，这样的逻辑结果根本不会发生。上文提到，知识人通过系统学习和阅读，花费大量精力去改变的知识论和方法论谬误，在很多人那里，这两套方式却是身处纷繁意见世界里最舒服的自处方式。</p>
-<p>在知识论的谬误上，观光团人民所有的知识奠基，都来自于从小到大的知识灌输。</p>
-<p>而在方法论上，上文提到的转换论、辩证法、阶级观、二元论除了造成是非不分、积非成是、指鹿为马以外，这套“万能的”、“解释一切真理”的方法论还会造成知识上的怠惰——这很好理解，人文社科的知识本质上都是经验，当我有了“理性”解答一切的万应锭，为何还要努力靠经验的积累去判断是非？</p>
-<p>而势不两立的阶级观、敌我二分的二元论则总是重复着虚无缥缈的“敌对势力”，以至于一切暴政除了是可以相互转换的，需要辩证看待的以外，还因为有敌对势力的永远存在，就更加注定了其正当性，永远可以被理解、被认可。所以制造了敏感历史是对的，制造了敏感历史却不敢说也是对的；制造了计划生育是对的，放开二胎也是对的……</p>
-<p>一旦认知形成这样的死循环，在为了“爱国”这样一个议题上，“不讲道理”只是“不讲你们的道理”，人身攻击只是“爱国者导弹”，替国行道，又何错之有呢？</p>
-<h3><span><strong>四、不关心政治与疯狂关心政治的悖论</strong></span></h3>
-<p> <br>
-但是，仍然有可疑的地方，大陆人民观光团里，天涯论坛和帝吧吧的网友，在本质上并非是一群疯狂的丧尸，日常生活中他们可能是学生，是码农，是企业职员，是公务员……他们矜矜业业，日常生活中很可能不会谈论任何政治，也不关心任何政治，只是在意升职、加薪、谈恋爱、买房、买车、养老等问题……须知道，在这个国家，这些问题已经可以让人费尽心力，无法分心，还去关心什么“政治”？</p>
-<p>而在一个正常的国家，普通人关心好自己的生活就好了，让自己的人生价值得以实现，让自己的家人与爱人过得好，获得足够的小确幸，那就足够了，也不需要过多的介入实际的国家大政。</p>
-<p>但是并非如此，事关自身切身利益的“政治”，亦即生活的政治，异地高考、计划生育、社会保险、税收缴纳、房屋拆迁、道路修缮、公共交通、化工产业……等等问题，而面对对这些问题，大陆网民呈现出惊人的沉默，对于政治毫不关心是基本特征。但是对于和自己的生活几乎没有关系的领域里，涉及到中日关系、中美关系、台湾问题、香港问题、藏疆问题、南海问题，他们又会呈现出对政治的狂热关注，种种置生死度外的言论，匪夷所思的勇敢，瞠乎其后的愤怒……</p>
-<p>这种让人瞠目结舌的前后对比，更加让人明白知识论和方法论所构成的认知框架，会在多大程度上塑造一个人，塑造一个族群——对于正当维权（哪怕是口头上的）毫不关心，对于犯罪参与（哪怕是口头上的）勇往直前。</p>
-<p>大概能解释造成这种状态的原因，从你出生开始，你的知识来源和认知结构就被控制，并且大批量的制造无数同样的人群，你的人生道路看上去有许多选择，而实际上无可选择时，你只能在一条轨道上行驶，对待某些事情你知道该保持沉默，对待某些事情你知道可以群情激奋……</p>
-<p>这样的人生，大概不需要智慧，不需要对智慧的渴望，更不需要建立一个普世的（比如说日本、韩国、台湾、香港等地方通行的）价值标准和认知框架——如果没有自由，那么建立这样迥异的认知框架，面对同胞的狂热意见时，只能徒增痛苦。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/426215/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E8%8B%B1%E6%99%BA%E5%BA%93%E5%85%AC%E5%B8%83%E6%B0%91%E4%B8%BB%E6%8C%87%E6%95%B0-%E4%B8%AD%E5%9B%BD%E8%A2%AB%E8%AF%84%E4%B8%BA%E5%A8%81%E6%9D%83%E6%94%BF%E4%BD%93/" target="cdt-mirror">BBC | 英智库公布民主指数 中国被评为“威权”政体</a>
-</h2>
-<p><p><strong>经济学人智库（EIU）公布2015年的民主指数，中国在167个国家及地区之中排行136，评分及排名都比去年稍微上升，但仍然被评为“威权”政体。</strong></p>
-<p>中国今年评分为3.14分，比去年上升0.14分，评分以10分为满分。排行方面，中国亦有进步，从144位上升至136位。</p>
-<p>经济学人智库周四（21日）公布民主指数从五方面评分，包括选举程序及多元化、公民自由、政府运作、政治参与及政治文化。</p>
-<p>经济学人智库亚洲分析师任韬（Tom Rafferty）对BBC中文网说：“很多人或其他观察员可能会认为，评分进步了，与去年我们见到政府收紧对公民社会、非政府组织、人权组织、法律组织不一致。不过，这只是故事的一部份。”</p>
-<p>任韬表示：“我们提升（中国的）评分，是因为……人民对参与政治有更大的要求。”他说，中国人民要求透明度更高的政府。</p>
-<p>过去中国政府以经济进步去维持它的正当性，但随着经济增长，任韬说中国人民期望政府能够解决社会公义、环保问题等等。</p>
-<p>展望未来，任韬说中国政府或会改善司法独立及法治方面，尤其在地区层面。不过，在习近平治下，他认为政府仍然会加强对公民社会、传媒、互联网等的控制，情况不会有太大的改变。</p>
-<p><strong>台湾、香港情况</strong></p>
-<p>经济学人智库把香港和台湾都评为“有缺陷的民主”，但台湾排名为31，远比排在67的香港为高。</p>
-<p>任韬形容台湾民主现时“活力充沛及强健”，新政党的出现及新生代参与政治是好的现象。不过，台湾明年的排名或会受到今年大选的低投票率、新政府表现影响。</p>
-<p>香港今年评分为6.5，排名比去年微升一位。任韬说，评分上升主要是“占领中环”之后香港民众对政治有更高的参与度，不过香港的评分一直较为稳定。</p>
-<p>任韬指出，铜锣湾书店事件影响香港的“一国两制”、司法独立等方面，评分明年或会有波动。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E8%8B%B1%E6%99%BA%E5%BA%93%E5%85%AC%E5%B8%83%E6%B0%91%E4%B8%BB%E6%8C%87%E6%95%B0-%E4%B8%AD%E5%9B%BD%E8%A2%AB%E8%AF%84%E4%B8%BA%E5%A8%81%E6%9D%83%E6%94%BF%E4%BD%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83/?category=18271" rel="tag">威权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83/?category=18271" rel="tag">极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%8C%87%E6%95%B0/?category=18271" rel="tag">民主指数</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -674,7 +709,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -684,5 +719,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

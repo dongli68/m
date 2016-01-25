@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%89%E5%B9%B4-%E7%9C%8B%E7%8E%8B%E5%B2%90%E5%B1%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BD%93%E4%BC%9A/" target="cdt-mirror">精读党报 | 中纪委三年 看王岐山的工作体会</a>
@@ -405,7 +405,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92%E5%88%98%E6%B0%B8%E5%B9%B3/?category=18271" rel="tag">基督徒刘永平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">李和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%98%A5%E5%AF%8C%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">李春富律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">颠覆国家政权罪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E9%AB%98%E5%A4%A7%E4%B8%8A%E5%81%87%E6%83%B3%E6%95%8C/" target="cdt-mirror">东网 | 赵思乐：高大上假想敌</a>
 </h2>
@@ -831,7 +831,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -841,5 +841,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

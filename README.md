@@ -21,9 +21,98 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E5%86%B7%E5%A4%A9%E6%8F%90%E9%95%BF%E6%B4%A5%E6%B9%96%EF%BC%9F%E4%BD%A0%E5%85%94%E5%8F%88%E8%85%B9%E9%BB%91%E4%BA%86%E5%90%A7/" target="cdt-mirror">仕图｜大冷天提长津湖？你兔又腹黑了吧</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%941.jpg" rel="attachment wp-att-426627"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%941.jpg" alt="兔1" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔1-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%942.jpg" rel="attachment wp-att-426626"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%942.jpg" alt="兔2" width="360" height="121" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔2-300x101.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔2.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%944.jpg" rel="attachment wp-att-426630"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%944.jpg" alt="兔4" width="360" height="182" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔4-300x152.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔4.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a></p>
+<p>新媒体的玩法，TUAN中央已经玩得很好了。比如遇到冬至谈饺子，遇到满月谈饼子，但是遇到寒潮……</p>
+<p>居然谈论的是长津湖！</p>
+<p>真是高级黑啊。</p>
+<p>长津湖战役是第9兵团在朝鲜打的仗，那一仗是打败联军，但是损伤很大，因为出国的时候没有领到冬衣，上万人冻死冻伤。当然你可以夸赞9兵团的战士英勇，但他们穿着秋装就被送到零下40度的雪地里，除了战略上急于出手之外，还有指挥官和后勤的各种不给力。</p>
+<p>为了赶紧突进，你可能就是要开进到冰天雪地被牺牲掉的。</p>
+<p>那是极大的悲剧和事故，今天的军队要避免的就是这样无谓的牺牲。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%943.jpg" rel="attachment wp-att-426625"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%943.jpg" alt="兔3" width="360" height="181" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔3-300x151.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔3.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a></p>
+<p>用典要准确，多思忖。</p>
+<p>二月河《雍正王朝》里，三爷允祉一直是个爱读书野心不算大的阿哥，但是到了中年结局不好，雍正继位后，遇到皇太后的六十冥寿，让大家点戏，允祉点了一出《目连救母》，听着是关于孝道的故事，但是细细品味剧情：</p>
+<p>目连的母亲作恶，堕入了饿鬼道，目连深入地狱，用法力救走了自己的老妈。</p>
+<p>皇上就要想了：</p>
+<p>你这是暗示什么？朕的额娘会在地狱里吗？</p>
+<p>用一个梗、一个典故之前，先把前后搞清楚，不然的话，不如土，不如笨。懒于翻书找真相的人，没法子忠君体国。撑死做个带鱼猴。</p>
+<p>“你以为跳脱衣舞不要脸就行啊。下腰劈叉，一抬腿都得能抬到脑袋上。”——《不见不散》，葛优台词。</p>
+<p><strong>附作者转载要求：</strong></p>
+<p>2015年8月开始仕图已经开放微信公众号转载<br>
+站外转载只要注明<br>
+仕图 （shi4tu2）<br>
+再挂上二维码就可以转载<br><a href="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" rel="attachment wp-att-368426"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" alt="仕图" width="258" height="258" srcset="http://chinadigitaltimes.net/chinese/files/2014/10/8-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2014/10/8-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg 258w" sizes="(max-width: 258px) 100vw, 258px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E5%86%B7%E5%A4%A9%E6%8F%90%E9%95%BF%E6%B4%A5%E6%B9%96%EF%BC%9F%E4%BD%A0%E5%85%94%E5%8F%88%E8%85%B9%E9%BB%91%E4%BA%86%E5%90%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89/?category=18271" rel="tag">朝鲜战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94/?category=18271" rel="tag">那年那兔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%96%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E5%B0%86%E6%88%91%E9%80%81%E5%85%A5%E7%9B%91%E7%8B%B1/" target="cdt-mirror">奇闻录 | 他们可以随时将我送入监狱</a>
+</h2>
+<p><p>据美联社与卫报1月22日报导，因不愿充当中国国家安全部门线人而逃离中国的前南都网编辑李新在泰国“失踪”。身在中国的李新妻子称，李新于1月10日乘火车从曼谷去往泰国北部城市廊开，次日两人便失去联系，她因此怀疑丈夫已被中方人员带回国内。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da.jpg" alt="2015年11月20日，前南都编辑李新摄于印度新德里。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>2015年11月20日，前南都编辑李新摄于印度新德里。</p></div>
+<p>曼谷邮报于24日报导，称泰国警方及外交部均表示对此并不知情。</p>
+<p>中国当局近期屡遭外界怀疑在境外拘捕敏感人士。日前在中国央视“认罪”的香港铜锣湾书店老板桂敏海，2015年10月也是在泰国“失踪”。</p>
+<blockquote><p>我非常害怕，他们可以随时将我送入监狱。我不想和他们合作，但又觉得没有选择。—-被中国国安威胁充当线人的李新</p></blockquote>
+<p>现年37岁的李新网名为“公民西西弗斯”，是一位积极参与中国公民运动的活跃人士。他毕业于中国政法大学法学专业，于2007年创办公民社会网，自2010年至2012年间在印度尼赫鲁大学修读国际关系专业。</p>
+<p>2013年，李新加入南方报业集团旗下的南都网，担任评论频道编辑，从而与中国许多维权人士及知识分子有联系。他还透露，自己曾将一些中国大陆政府关于媒体管控的信息披露给台湾政府。而大陆国安人员也因此胁迫他充当线人，监控维权人士、记者等，否则将以“间谍罪”将他送进监狱。</p>
+<p>李新曾表示出于无奈，答应了国安人员以换取自由，但一直未有提供任何有价值的“情报”。国安人员经常电话联络他，要求汇报情况，甚至一度没收其护照及港澳通行证。直到2014年，他才以迁户口的名义从国安人员手中取回证件。</p>
+<p>2015年10月，李新从中国逃往印度，尝试寻求西方国家政治庇护，而由于印度没有为其延长签证，因此他又在今年1月1日去往泰国。李新的妻子去年12月带着1岁多的孩子试图前往香港，但在深圳口岸被阻止出境。</p>
+<p>BBC 中文网去年11月曾采访李新，他表示出逃的原因是自己“承受着很大的心理压力”，觉得无法坦诚地与朋友沟通交流。为此，他一直策划离开中国，并在离开的半年前就买好了飞往印度的机票。</p>
+<p>来源：端传媒</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%96%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E5%B0%86%E6%88%91%E9%80%81%E5%85%A5%E7%9B%91%E7%8B%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%8D%97%E9%83%BD%E7%BD%91%E7%BC%96%E8%BE%91/?category=18271" rel="tag">前南都网编辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">大陆国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%96%B0/?category=18271" rel="tag">李新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BF%E4%BA%BA/?category=18271" rel="tag">线人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-a%E8%82%A1%E8%B7%8C%E7%A0%B42750%E7%82%B9-%E5%88%9B14%E4%B8%AA%E6%9C%88%E6%9D%A5%E6%96%B0%E4%BD%8E/" target="cdt-mirror">澎湃新闻 | A股跌破2750点 创14个月来新低</a>
+</h2>
+<p><p>没有底部，只有更低。</p>
+<p>1月26日，沪指刺破1月18日创下的 2844.7点底部，临近尾盘跌幅进一步扩大逾6%，再度刷新14个月新低，单日下跌187点，2750点失守。</p>
+<p>截至收盘，沪指报2749.79点，跌幅6.42%；创业板指报1994.05点，跌幅7.63%。</p>
+<p>两市成交共计6243亿，其中沪市2126亿，深市3105亿。两市共9只个股涨停，1030只跌停。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160126152600fbbbc.jpg" alt="各板块皆绿" width="440" height="639"><p>各板块皆绿</p></div>
+<p><strong>复盘：“两材”概念股走强，A股午后大变脸</strong></p>
+<p>当日早盘，沪深两市大幅低开，受原油大幅回落及隔夜外围市场集体回调的影响，沪指低开1.05%后随即跌破2900点。</p>
+<p>与此同时，港股开盘亦大幅下挫。“三桶油”早盘大跌，中国海洋石油暴跌7.02%，中国石油化工股份跌4.90%，中国石油股份跌4.31%。</p>
+<p>整体来看，A股早盘热点不足。盘中，央企改革概念股再度走高，受中材集团与中国建材集团拟重组影响概念股大幅拉升，宁夏建材、中材节能涨停。</p>
+<p>1月25日晚，包括中材节能、宁夏建材、祁连山在内的8家A股公司，几乎同时发布了实际控制人策划战略重组的公告，业内人士分析，这意味着中材集团与中国建材集团的重组进入到最为关键的实际操作层面。</p>
+<p>此外，临近午间收盘，军工板块突然异动，板块一线拉升涨逾1%，北方导航率先涨停。</p>
+<p>午后开盘，A股跌幅进一步放大。沪指先是跌逾3%失守2840点，刺破了1月18日创下的阶段性底部，随后又接连失守2800点，创13个月来新低。创业板指跌幅更为“惊人”，尾盘跌幅逼近8%失守2000点。</p>
+<p>与此同时，板块全线失守，传媒、软件、券商等带头杀跌，跌幅均超过9%。题材股方面亦全线尽墨，次新股全面回调。</p>
+<p><strong>焦点：三大因素致A股杀跌</strong></p>
+<p>广州万隆指出，当日在三大因素的作用下，A股不仅没有延续周一弱反弹致势，反而再次出现了跳水杀跌。</p>
+<p>一、两市买盘基本消失，而卖盘却持续涌现，这直接导致的就是个股重心不断下移，不少板块个股更是跳水杀跌不断。其中涨幅巨大的次新股开板便一字跌停，不仅挫伤了市场人气，更是导致了股价仍虚高类品种加速下行。</p>
+<p>二、外围市场风声鹤唳，美股、原油大涨后隔夜再次大跌，且金融大鳄索罗斯为首的空头虎视眈眈，严重影响了市场做多情绪；再加上两融余额连续十六个交易日下降，刷新了历史纪录，说明其对后市行情难乐观，大盘反弹缺少了根基。</p>
+<p>三、两市量能大幅萎缩热点全无，地量见地价概率越来越高。市场悲观情绪在蔓延，致使2850点一带受考验。</p>
+<p><strong>震荡格局未变</strong></p>
+<p>申万宏源指出，震荡格局未变，没有看到明显预期好转的信号。</p>
+<p>首先，周一（1月25日）大盘反弹主要是受到上周五（1月22日）欧美股市大幅反弹的带动，但从反弹力度看，则明显滞后。同时，从成交量看，周一两市总成交4229亿元，再创近期除熔断日以外的交易量新低，表明在反弹中投资者观望气氛浓重，出手做多的力量疲弱。</p>
+<p>其次从市场环境看，虽然海外股市超跌反弹，但是属于下跌中继还是趋势扭转目前还为时尚早，毕竟索罗斯仍在做空美股。从国内环境看，基本面、资金面仍有诸多考验，也没有看到明显预期好转的信号。</p>
+<p>总体看，短线虽有弱势反弹，但大的调整、震荡格局未变，在趋势明显好转之前，小心谨慎不错。</p>
+<p>银河证券策略分析师孙建波指出，近期下跌的根源在于对流动性的担忧：</p>
+<p>1、全球角度，各国央行从一致宽松转向逐步开始收缩流动性，全球资金面临重新配置，流出新兴市场，流向发达国家。</p>
+<p>2、中国与国际市场角度，人民币进入中期贬值通道，虽然近期央行通过一系列的手段稳定离岸汇率并加强对资本流出的限制，但基本面及息差方面的原因并未消除，贬值仍将继续，对国内流动性仍产生影响。</p>
+<p>3、中国自身角度，从根本上讲，供给侧管理下的去产能乃带动经济走出泥潭开启新周期的关键选择，选择了这条路货币政策再宽松的空间没有那么大。同时在大力稳定汇率的情况下，利率政策要适当权衡。</p>
+<p>综合以上三个方面的考虑，2016 年对于流动性方面风险的担忧将是贯穿全年的问题。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-a%E8%82%A1%E8%B7%8C%E7%A0%B42750%E7%82%B9-%E5%88%9B14%E4%B8%AA%E6%9C%88%E6%9D%A5%E6%96%B0%E4%BD%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a%E8%82%A1/?category=18271" rel="tag">A股</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%87%E7%8E%87/?category=18271" rel="tag">汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%AA%E6%8C%87/?category=18271" rel="tag">沪指</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%87%A4%E5%87%B0%E5%91%A8%E5%88%8A%EF%BD%9C%E7%A8%8B%E6%98%A0%E8%99%B9%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%AE%80%E6%98%8E%E8%AF%BB%E6%9C%AC%EF%BC%9A%E3%80%8A%E8%87%A3/" target="cdt-mirror">凤凰周刊｜程映虹：日本军国主义简明读本：《臣民之道》</a>
 </h2>
 <p><p>鼓吹“用日本王道对抗西方的霸道”，把世界描绘成一个英美和日本从哲学到政治二元对立的决斗场，但也没有忘了告诉臣民们吾国“此道不孤”，德意苏三国是日本“治道的榜样”。</p>
@@ -660,78 +749,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%8D%83%E6%B0%91%E9%80%81%E8%A1%8C%E5%A4%9A%E9%97%B9%E5%89%A7-%E8%B4%AA%E5%AE%98%E8%87%AA%E5%AF%BC%E4%B8%8D%E7%9F%A5%E8%80%BB/" target="cdt-mirror">太阳报｜千民送行多闹剧 贪官自导不知耻</a>
-</h2>
-<p><p>中国 很多贪官在台上是一副爱民如子、千民拥戴模样，但被调查之后，很快就露出腐败不堪的原形。更讽刺的是，有些贪官还热衷自编自导「万民送行」闹剧，结果真相曝光，沦为笑柄。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k1bb.jpg" alt="k1bb" width="550" height="314" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/k1bb-300x171.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/k1bb.jpg 574w" sizes="(max-width: 550px) 100vw, 550px"><br>
-蓝军自导「千人送蓝书记」</p>
-<p>早前被调查的吉林省松原市原市委书记蓝军，在离任时就曾自导「千人送蓝书记」，在当时的市委广场、市政路，一群身着黑色西装、白色衬衫的干部「群众」，手拉着各种横幅，如「蓝军，松原人民的好儿子」、「蓝书记，我们不愿您走」等，颇为热闹。事后有人披露，这些所谓的干部群众，不过是一批花钱雇用的群众演员而已，蓝军自编自导自演，不过是为了给自己贴金邀功，没想到弄巧成拙。</p>
-<p>「千民送官」之事，在中国史不绝书。古代官员离任时，常有老百姓「自发」聚集为其送行，有时还向官员送「万民伞」、「清官旗」、「功德碑」，以表达对父母官的感恩之情、惜别之意。现在有些官员也古为今用，想利用这个古老「桥段」为自己树碑立传，洗白贪腐形象。</p>
-<p>比如河北张北县原县委书记早前离任，当地上演万人送行盛况，宣传部门主动发布「经核实」声明，称送行是群众自发，但媒体调查证实，参与表演的秧歌队、锣鼓队事先接到街道办通知，被要求前去为书记表演送行。</p>
-<p>警车开道 鞭炮齐鸣</p>
-<p>江苏泗洪县原纪委书记离任，报道称群众「自发」为书记送行，并附有群众送伞、撑旗、赠匾的照片。很快，网友发现了其中的疑点，所有的锦旗都按同一模式定制。</p>
-<p>前几年被查处的江苏邳州市原市委书记李连玉则搞了一个万人相迎的仪式。当年他从北京开完党代会归来，在警车开道下，浩浩荡荡的车队进入邳州地界后，鞭炮齐鸣，小学生们挥舞小国旗、党旗，高喊「欢迎、欢迎，热烈欢迎！」这位「敬爱的李书记」还频频从车上下来，检阅子民。事后有人揭发，所谓的自发欢迎完全是当局组织的，如果哪个单位不出人，领导一律免职，哪个公务员不参加，一律扣一百元。</p>
-<p>人在做，天在看，这些人为炮制的民意，即使能瞒骗一时，也无法瞒骗一世，时间是最好的检验者。以李连玉为例，当时千人相迎的场面轰动一时，却难掩其专断横行的土皇帝本色，在其治理下，邳州征地过程中多次发生当局放水淹良田、流氓施暴、暴徒「勘察」等伤害百姓的惨剧。</p>
-<p>这些官员自编自导自演，通过媒体展示自己是如何得民心，为的是「挟民意以令上级」，希望能被上级「慧眼识珠」，殊不知这种反常规的做法，如同搬起石头砸自己的脚，一旦虚假的民意泡沫爆破，自己反而身败名裂，从一个「万民欢迎的好书记」变成人人喊打的过街老鼠。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%AA%E9%98%B3%E6%8A%A5%EF%BD%9C%E5%8D%83%E6%B0%91%E9%80%81%E8%A1%8C%E5%A4%9A%E9%97%B9%E5%89%A7-%E8%B4%AA%E5%AE%98%E8%87%AA%E5%AF%BC%E4%B8%8D%E7%9F%A5%E8%80%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">大陆贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E8%BF%9E%E7%8E%89/?category=18271" rel="tag">李连玉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%93%9D%E5%86%9B/?category=18271" rel="tag">蓝军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E5%AE%98%E4%BC%97%E7%94%9F%E7%9B%B8/?category=18271" rel="tag">贪官众生相</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%EF%BC%9A%E8%B4%AA%E5%AE%98%E8%B4%AA%E6%B1%A1%E6%8C%AA%E7%94%A8%E5%85%AC%E6%AC%BE63%E4%BA%BF/" target="cdt-mirror">BBC｜中国反腐：贪官贪污挪用公款“63亿”</a>
-</h2>
-<p><p>一份最新报告称，习近平上台展开反腐运动以来，落马贪官贪污挪用公款达63亿元人民币，约合10亿美元。</p>
-<p>在美国纽约的“亚洲协会”的网络刊物“中参馆”，ChinaFile，上发表的报告中提供的这个数字，是根据中国官方对贪官判决书中公布的贪污数额累计得出的。</p>
-<p>“中参馆”的报告说，它跟踪了近1500起中国公开宣布进行调查的目标。</p>
-<h2>冰山一角</h2>
-<p>报告说，习近平上台展开反腐运动中以来，通过中国的法庭正式审讯并宣判的贪官共有231名。</p>
-<p>这个数字只占接受中共调查的官员的极小一部分。</p>
-<p>中共更愿意通过党内的纪检系统进行调查和惩处。</p>
-<p>本月初，中共的中纪委宣布，去年共有336000人受到了党纪处分。</p>
-<p>批评者说，习近平的反腐运动缺乏透明度，并被用来整肃政治对手。</p>
-<p>“中参馆”的统计记录了许多贪污细节，包括一位官员挪用20万元公款买玉石。</p>
-<p>报告统计的落马中共官员中，来自习近平起家的政治基地福建和浙江籍的官员相对较少，报告说：“似乎受到的惩罚较轻”。</p>
-<p>香港科技大学教授崔大伟对法新社说，如果你是习的人马，你不会受到整肃，其他人都不保险。</p>
-<p>（编写：白墨 责编：路西）</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%EF%BC%9A%E8%B4%AA%E5%AE%98%E8%B4%AA%E6%B1%A1%E6%8C%AA%E7%94%A8%E5%85%AC%E6%AC%BE63%E4%BA%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8F%82%E9%A6%86/?category=18271" rel="tag">中参馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%9A%E6%B4%B2%E5%8D%8F%E4%BC%9A/?category=18271" rel="tag">亚洲协会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-5/" target="cdt-mirror">【一颗腮挺】邝飚：赵氏春晚</a>
-</h2>
-<p><p>作者：邝飚</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/mmexport1453532849130.jpg" rel="attachment wp-att-426397"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/mmexport1453532849130.jpg" alt="mmexport1453532849130" width="475" height=""></a></p>
-<p><strong><em>事件背景：</em></strong></p>
-<p>央视近日公布了2016年春晚吉祥物“康康”3D形象：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/401276061349430120472AF7BFAE458D.jpg" rel="attachment wp-att-426402"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/401276061349430120472AF7BFAE458D.jpg" alt="401276061349430120472AF7BFAE458D" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/401276061349430120472AF7BFAE458D-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/401276061349430120472AF7BFAE458D.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p>然而原作者韩美林的原稿是这样的：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/765E8E404A7C1BD261E098FA50807611.jpg" rel="attachment wp-att-426403"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/765E8E404A7C1BD261E098FA50807611.jpg" alt="765E8E404A7C1BD261E098FA50807611" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/765E8E404A7C1BD261E098FA50807611-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/765E8E404A7C1BD261E098FA50807611.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/d1046db2jw1f07ab4793xj214w0rsgrn.jpg" rel="attachment wp-att-426401"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d1046db2jw1f07ab4793xj214w0rsgrn.jpg" alt="d1046db2jw1f07ab4793xj214w0rsgrn" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d1046db2jw1f07ab4793xj214w0rsgrn-300x204.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d1046db2jw1f07ab4793xj214w0rsgrn-768x522.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/d1046db2jw1f07ab4793xj214w0rsgrn-1024x696.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/d1046db2jw1f07ab4793xj214w0rsgrn.jpg 1472w" sizes="(max-width: 1472px) 100vw, 1472px"></a></p>
-<p>猴年春晚吉祥物被网民戏称为“猴腮雷”，引来一波恶搞风潮（以下图片来自新浪微博）：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/7fd54a81jw1f0851xi0elj20c81i30wx-copy.jpg" rel="attachment wp-att-426399"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/7fd54a81jw1f0851xi0elj20c81i30wx-copy.jpg" alt="7fd54a81jw1f0851xi0elj20c81i30wx copy" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/7fd54a81jw1f0851xi0elj20c81i30wx-copy-207x300.jpg 207w, http://chinadigitaltimes.net/chinese/files/2016/01/7fd54a81jw1f0851xi0elj20c81i30wx-copy.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><span>作者：新浪微博 <a href="http://weibo.com/lastangel17th">@使徒子</a></span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/756f9a33jw1f07hs4ari0j208r08iabz.jpg" rel="attachment wp-att-426398"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/756f9a33jw1f07hs4ari0j208r08iabz.jpg" alt="756f9a33jw1f07hs4ari0j208r08iabz" width="315" height="306" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/756f9a33jw1f07hs4ari0j208r08iabz-300x291.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/756f9a33jw1f07hs4ari0j208r08iabz.jpg 315w" sizes="(max-width: 315px) 100vw, 315px"></a><br><span>作者：新浪微博 </span><a href="http://weibo.com/1970248243/DecEiFet1"><span>@o西歪歪o</span> </a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/0066Ifwvjw1f08lyppzy0j30b30qu752.jpg" rel="attachment wp-att-426404"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/0066Ifwvjw1f08lyppzy0j30b30qu752.jpg" alt="0066Ifwvjw1f08lyppzy0j30b30qu752" width="399" height="966" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/0066Ifwvjw1f08lyppzy0j30b30qu752-124x300.jpg 124w, http://chinadigitaltimes.net/chinese/files/2016/01/0066Ifwvjw1f08lyppzy0j30b30qu752.jpg 399w" sizes="(max-width: 399px) 100vw, 399px"></a><br><span>作者不详</span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/59fc3998gw1f07k2iwu5ij20c82kbq5r.jpg" rel="attachment wp-att-426405"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/59fc3998gw1f07k2iwu5ij20c82kbq5r.jpg" alt="59fc3998gw1f07k2iwu5ij20c82kbq5r" width="400" height=""></a><br><span><a href="http://weibo.com/lastangel17th">@使徒子</a>原作</span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/59fc3998gw1f07k2j17i2j20c81zpafr.jpg" rel="attachment wp-att-426406"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/59fc3998gw1f07k2j17i2j20c81zpafr.jpg" alt="59fc3998gw1f07k2j17i2j20c81zpafr" width="400" height="2346"></a><br><span><a href="http://weibo.com/1509702040/Dedai1K9m">@雨声敲敲</a>的后续</span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/7dced06cgw1f07hx3yxzej20sf1zq46i.jpg" rel="attachment wp-att-426407"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/7dced06cgw1f07hx3yxzej20sf1zq46i.jpg" alt="7dced06cgw1f07hx3yxzej20sf1zq46i" width="400" height=""></a><br><span>作者：新浪微博 <a href="http://weibo.com/1305558923/DecrDzq3A">@雨田三石</a></span></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/7425e80ajw1f09ggyz8dmj20c81r9q75.jpg" rel="attachment wp-att-426400"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/7425e80ajw1f09ggyz8dmj20c81r9q75.jpg" alt="7425e80ajw1f09ggyz8dmj20c81r9q75" width="400" height=""></a><br><span>知乎问答截图</span></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91-5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -743,7 +760,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -753,5 +770,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

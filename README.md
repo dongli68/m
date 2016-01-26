@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E9%95%BF%E7%8E%8B%E4%BF%9D%E5%AE%89%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%A2%AB%E6%9F%A5/" target="cdt-mirror">BBC | 中国国家统计局长王保安“涉嫌严重违纪”被查</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/16012613591.jpg" alt="中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/16012613591-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/16012613591.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。</p></div>
+<p><strong>中国官方网站公布的消息说，中国国家统计局长王保安“涉嫌严重违纪”，正在接受调查。</strong></p>
+<p>据中央纪委监察部网站发布的声明，国家统计局党组书记、局长王保安“涉嫌严重违纪，目前正接受组织调查。”</p>
+<p>中纪委的声明只有简短的一句话，没有透露任何细节。</p>
+<p>从习近平的反腐运动开始以来，“涉嫌严重违纪”通常暗示官员有腐败行为。</p>
+<p>中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。</p>
+<p>根据中国国家统计局官方网站提供的公开信息：</p>
+<p><strong>王保安简历：</strong></p>
+<p>王保安，男，汉族，1963年生，河南鲁山人，1984年3月加入中国共产党，中南财经大学研究生毕业，经济学博士。</p>
+<p>1991年至1994年分别任财政部办公厅部长秘书室副处长级秘书、处长级秘书。</p>
+<p>1994年至1996年任国家税务总局办公厅局长秘书室处长级秘书。</p>
+<p>1997年任国家税务总局办公厅副主任。</p>
+<p>1998年至2000年任财政部办公厅副主任。</p>
+<p>2000年至2007年分别任财政部政策规划司司长、综合司司长。</p>
+<p>2007年至2009年12月任财政部经济建设司司长。</p>
+<p>2009年12月任财政部部长助理、党组成员。</p>
+<p>2012年2月任财政部副部长、党组成员。</p>
+<p>2015年4月任国家统计局党组书记、局长。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E9%95%BF%E7%8E%8B%E4%BF%9D%E5%AE%89%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%A2%AB%E6%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA/?category=18271" rel="tag">严重违纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BF%9D%E5%AE%89/?category=18271" rel="tag">王保安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E5%86%B7%E5%A4%A9%E6%8F%90%E9%95%BF%E6%B4%A5%E6%B9%96%EF%BC%9F%E4%BD%A0%E5%85%94%E5%8F%88%E8%85%B9%E9%BB%91%E4%BA%86%E5%90%A7/" target="cdt-mirror">仕图｜大冷天提长津湖？你兔又腹黑了吧</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%941.jpg" rel="attachment wp-att-426627"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%941.jpg" alt="兔1" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔1-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%942.jpg" rel="attachment wp-att-426626"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%942.jpg" alt="兔2" width="360" height="121" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔2-300x101.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔2.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%944.jpg" rel="attachment wp-att-426630"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%944.jpg" alt="兔4" width="360" height="182" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔4-300x152.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔4.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a></p>
@@ -730,25 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%9C%BC%E9%87%8C%EF%BC%8C%E4%B8%8D%E4%BD%86%E6%9C%89%E5%8F%B0%E7%8B%AC%EF%BC%8C%E8%80%8C%E4%B8%94%E6%9C%89%E9%A9%AC%E7%8B%AC/" target="cdt-mirror">墙外楼｜小粉红眼里，不但有台独，而且有马独</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/20160123_a7c1f01aa1218f9c8be2LVYEHyQOf3jI-%E5%89%AF%E6%9C%AC.jpg" alt="20160123_a7c1f01aa1218f9c8be2LVYEHyQOf3jI-副本" width="540" height="960"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6ac98825jw1f09e7nrwmbj20ff0adta3-%E5%89%AF%E6%9C%AC.jpg" alt="6ac98825jw1f09e7nrwmbj20ff0adta3-副本" width="440" height="296" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6ac98825jw1f09e7nrwmbj20ff0adta3-副本-300x202.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6ac98825jw1f09e7nrwmbj20ff0adta3-副本.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><br>
-我觉得很真实，不要低估小粉红的脑残程度，前面已经有人以亲身经历来证明了。</p>
-<p>我几年前在微博上也看到类似一幕：一个韩国女子组合里面有个成员是在香港长大的韩国人，全家都住在香港，会讲一些普通话和粤语，经常被其他韩国人误认为是中国人，所以在某个韩国节目上澄清自己是韩国人不是中国人。然后就被小粉红截图发到微博上，好几千的转发都是骂她的，“被当成中国人很丢脸吗？”、“对，我们中国没有这样的丑逼”、“你当然不配当中国人”……，小粉红潜意识里都很自卑，整天觉得别人看不起中国人，一碰就炸。几年前用微博的人还没现在多，如果是现在发出来，估计会有好几万人转发骂她。其实那人应该是比较亲中的，从无任何反中的言行，在大陆呆过一段时间，有好几个中国大陆的朋友，光从她全家都搬到香港去住这点就可以看出她的家庭环境肯定不讨厌中国人，她还去孔子学院学中文深造过。只因为澄清了一下自己不是中国人，就被小粉红骂得狗血淋头。</p>
-<p>在小粉红眼里，无论台湾人还是外国人，如果被别人当成是中国人，唯一正确的反应是“哇，我被当成是中国人了，好光荣好骄傲喔”，只有这个反应是对的，其他反应都该死。</p>
-<p>中国人的<a href="http://chinadigitaltimes.net/space/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89" target="_blank">种族主义</a>其实是最严重的，只不过平时不表露出来。。。。。</p>
-<p>汉族绝对主体下，种族主义已变身为地域主义。<img src="http://chinadigitaltimes.net/chinese/files/2016/01/0981grey.gif" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%9C%BC%E9%87%8C%EF%BC%8C%E4%B8%8D%E4%BD%86%E6%9C%89%E5%8F%B0%E7%8B%AC%EF%BC%8C%E8%80%8C%E4%B8%94%E6%9C%89%E9%A9%AC%E7%8B%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">种族主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -760,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -770,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

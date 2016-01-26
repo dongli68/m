@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E7%94%9F%E6%B4%BB%E5%AF%B9%E5%87%86%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%BD%93%E5%A4%B4%E8%80%8C%E6%9D%A5/" target="cdt-mirror">墙外楼 | 生活对准小粉红当头而来</a>
+</h2>
+<p><p>生活对准小粉红当头而来</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9cfnuj20dv0h6n14.jpg" alt="d60724d4jw1f0bgx9cfnuj20dv0h6n14" width="440" height="545" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9cfnuj20dv0h6n14-242x300.jpg 242w, http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9cfnuj20dv0h6n14.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9oc4pj20g2025mxn.jpg" alt="d60724d4jw1f0bgx9oc4pj20g2025mxn" width="440" height="59" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9oc4pj20g2025mxn-300x40.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9oc4pj20g2025mxn.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9u6pxj20gd023gm8.jpg" alt="d60724d4jw1f0bgx9u6pxj20gd023gm8" width="440" height="56" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9u6pxj20gd023gm8-300x38.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9u6pxj20gd023gm8.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>Mobile Guest :看半天才看明白，对自己的生活认识不太清醒，其实只是暴露年龄而已</p>
+<p>大火烤赵王 :每当他们自己权益受到侵害时候，都特么忍气吞声，吃着食堂猪食一样的饭，没见他们斗争，校内网络霸王条款没见他们斗争，却敢于翻墙叫骂，说明本质上小粉红就是一窝蜂起哄，真到了自己面对的时候，一个个都成了铁屋子里的怂货。</p>
+<p>以下内容来自推特：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZp6Q8PUkAAQRIl.jpg-large.jpg" alt="CZp6Q8PUkAAQRIl.jpg-large" width="543" height="790" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZp6Q8PUkAAQRIl.jpg-large-206x300.jpg 206w, http://chinadigitaltimes.net/chinese/files/2016/01/CZp6Q8PUkAAQRIl.jpg-large.jpg 548w" sizes="(max-width: 543px) 100vw, 543px"></p>
+<p> </p>
+<div><a href="https://twitter.com/laoyang945" data-user-id="50969839"><strong data-aria-label-part="">老杨</strong> ‏<span data-aria-label-part="">@laoyang945</span></a><small><span data-aria-label-part="last" data-time="1453680533" data-time-ms="1453680533000" data-long-form="true">：</span></small>烟笼寒水月笼沙，旌旗百万出帝吧。粉红不知亡国恨，隔墙犹舔后庭花。</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E7%94%9F%E6%B4%BB%E5%AF%B9%E5%87%86%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%BD%93%E5%A4%B4%E8%80%8C%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E9%95%BF%E7%8E%8B%E4%BF%9D%E5%AE%89%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%A2%AB%E6%9F%A5/" target="cdt-mirror">BBC | 中国国家统计局长王保安“涉嫌严重违纪”被查</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/16012613591.jpg" alt="中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/16012613591-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/16012613591.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。</p></div>
@@ -735,29 +753,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E5%90%B4%E6%88%88%EF%BC%9A%E5%A4%AE%E8%A7%86%E6%92%AD31%E9%9B%86%E5%9B%A2%E5%86%9B%E6%BC%94%E4%B9%A0%E5%94%AC%E5%8F%B0%E7%8B%AC-%E8%A2%AB%E6%8F%AD%E9%80%A0%E5%81%87/" target="cdt-mirror">东网 | 吴戈：央视播31集团军演习唬台独 被揭造假</a>
-</h2>
-<p><p>台湾有大陆不喜欢的人可能当选领导人，就用武力威胁当地选民，这么不光彩的方式在大陆公众中还大受欢迎，至少没人敢异议，无非因为理由是该领导人要搞「台独」。就算如此吧，可是这一招效果往往适得其反，大陆朝野上下一大批人依然乐此不疲，无非又是认定「台独必须武力解决，只能武力解决，也一定能用武力解决掉」的暴戾恣睢而已。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%885.12.19.png" alt="Screen Shot 2016-01-23 at 下午5.12.19" width="550" height="278" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.12.19-300x152.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.12.19.png 761w" sizes="(max-width: 550px) 100vw, 550px"><br><span>央视关于解放军日前东南沿海演习的报道，被揭造假。 央视放的演习画面，实际上是去年解放军多项演练画面剪辑而成</span></p>
-<p>这次蔡英文当选，虽然党首安然他的海外大撒币之旅，党内正将民族、民粹和专制熔于一炉的一些跟班仍急于要为台湾人民的不听话来个下马威。 1 月 21 日，大陆各大新闻网站突现「中国在东南沿海举行实弹登陆演习」的惊人消息，彷佛看透蔡英文台独野心，要随时高悬大棒，让她在枪口下老老实实地执政。</p>
-<p>可是这条消息的来路颇为可疑。最初来源是 20 日晚央视军事频道（绝非央视一套，更非「新闻联播」）名为「新启航：先进在强军路上」的系列报道中出现了「第 31 集团军：新型作战力量融入作战体系运用」的消息。极为微妙地是，这则视频新闻中口播的内容称「日前，一场讯息化条件下的联合作战演练在第 31 集团军所属地域展开」，到了央视网 1 月 21 日发布的文字稿中，标题成了「火炮齐射，陆空协同，第 31 集团军在东南沿海举行登陆演习」，其他网站转载时题目又悄悄改成「中国在东南沿海举行实弹登陆演习」。</p>
-<p>请看，「演练」成了「演习」，「第 31 集团军」成了「中国」，「某地域」成了「东南沿海」，正文中「实弹登陆演习」前还被硬塞进「大规模」三个字。于是，一条正常的部队训练报道就成了中国政府特意针对蔡英文当选而发出的「武统」警告。</p>
-<p>其实，只要查一下《解放军报》 1 月 18 日一篇基本事实和用语大致相同的报道，不仅标题也只是「新型作战力量融入作战体系运用」，而且直接承认了该军组织实战化演练的时间是「去年」。这让大陆官媒酷爱的「日前」一语可能包含的时间误差昭然若揭。</p>
-<p>这则报道并非没有技术含量，该军也的确在特战、陆航、两栖突击营和电子对抗等「新型作战力量」的合成化上花了工夫，但总的来说仍是探索和试验性质，达到的水平──一定程度的多兵种合成陆空协同、立体超越突击，使「新型作战力量」从辅助配属到主战主用，从人才短缺到配齐配强──也只是西方国家 80 年代的水平，为此军报文章中还特意生造了「研练」一词。</p>
-<p>更为搞笑的是，集团军根本不辖登陆艇 / 舰，报道中只提到「陆空协同」，可见海军没有参加，镜头中两栖车辆行驶的水面平滑如镜，但编导们仍为它自行脑补了两栖战车「迅速驶离舰艇」的文字，否则「东南沿海」的霸气岂不真地要「侧漏」？至于武装直升机、运输直升机、浮渡中的两栖战车在现代登陆战场上的生存力等技术问题，还是让他们保密好了。</p>
-<p>22 日，《人民日报海外版》的微信公号「侠客岛」还意犹未尽。可文章中除了加几句 31 军威镇东南的历史、与党首关系亲密，以及武直 -9 、武直 -10 都是全军的先进装备外，居然连这次「演习」「罕见地选在冬季」也被用来解读出「大战在即」的气氛。这难道是在揭露此前十余年对台军事斗争准备「天冷就不愿下水」？徐国妖、郭国贼真是误国误军啊！</p>
-<p>呵呵，以这样的战力威慑台湾，还真不如火箭军的常规导弹千弹齐发，寸草不留。</p>
-<p>来源：东网 / 吴戈 国际时事军事评论员</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E5%90%B4%E6%88%88%EF%BC%9A%E5%A4%AE%E8%A7%86%E6%92%AD31%E9%9B%86%E5%9B%A2%E5%86%9B%E6%BC%94%E4%B9%A0%E5%94%AC%E5%8F%B0%E7%8B%AC-%E8%A2%AB%E6%8F%AD%E9%80%A0%E5%81%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E9%80%A0%E5%81%87/?category=18271" rel="tag">央视造假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E9%80%A0%E5%81%87/?category=18271" rel="tag">新闻造假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E7%BB%9F%E6%97%8F/?category=18271" rel="tag">武统族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -769,7 +764,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +774,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7%EF%BC%9A%E8%A2%AB%E7%85%BD%E9%A2%A0%E7%9A%84%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/" target="cdt-mirror">西域武僧：被煽颠的望云和尚</a>
@@ -50,7 +50,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BB%99%E7%A6%85%E5%AF%BA/?category=18271" rel="tag">九仙禅寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">望云和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E9%A2%A0/?category=18271" rel="tag">煽颠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7/?category=18271" rel="tag">西域武僧</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9F%A5%EF%BC%8C%E5%AE%98%E6%96%B9%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E5%8F%88/" target="cdt-mirror">纽约时报｜中国统计局局长被查，官方经济数据又添疑云</a>
 </h2>
@@ -733,7 +733,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -743,5 +743,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-2/" target="cdt-mirror">【立此存照】记一次特大型宣传事故</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1707905652/DeYo9fZUZ">@文山娃</a>：小粉红事件 update：团中央删帖了。炸裂！一次特大型宣传事故</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg" rel="attachment wp-att-426690"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg" alt="65cc9274gw1f0dcij3v4qj20hs0vkjvd" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg" rel="attachment wp-att-426691"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg" alt="65cc9274gw1f0dcikmngwj20hs0vk0wr" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<blockquote><p><a href="http://weibo.com/1974576991/DeXDowSUU">@环球时报</a>：【小咕咕鸡：不要再被“小粉红”了，这不是什么好词】“小粉红”这个被很多人现在当做刷时髦而使用的词，一开始就是个公知段子手理解力低下导致的错误。这种争先使用着这个词来抢占批判制高点的人，其行为只能说是小写的脑残，大写的尴尬。</p></blockquote>
+<p><del>环时完胜</del></p>
+<p><strong>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%8E%8B%E5%B0%8F%E8%83%BD%EF%BC%9A%E5%B0%8F%E7%B2%89%E7%BA%A2%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BA%A2/">王小能：“小粉红”，究竟是什么样的红？</a></strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AA%E4%B8%80%E6%A0%B7%E7%9A%84%E9%98%9F%E5%8F%8B/?category=18271" rel="tag">猪一样的队友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A%E7%B4%A2%E7%BD%97%E6%96%AF%EF%BC%8C%E5%86%8D%E5%81%9A%E7%A9%BA%E5%B0%B1%E6%8A%93%E4%BD%A0%E5%AB%96%E5%A8%BC/" target="cdt-mirror">【网络民议】严厉警告索罗斯，再做空就抓你嫖娼</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg" rel="attachment wp-att-383132"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg" alt="老百姓的钱包是共产党的牵挂" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/02/老百姓的钱包是共产党的牵挂-300x224.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/02/老百姓的钱包是共产党的牵挂.jpg 520w" sizes="(max-width: 520px) 100vw, 520px"></a></p>
@@ -751,25 +766,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%9D%8E%E5%92%8C%E5%B9%B3%E7%AD%89%E8%A2%AB%E6%8E%A7%E9%A2%A0%E8%A6%86%E7%BD%AA%E6%89%B9%E6%8D%95/" target="cdt-mirror">美国之音 | 中国维权律师李和平等被控颠覆罪批捕</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%886.09.57.png" alt="Screen Shot 2016-01-23 at 下午6.09.57" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.09.57-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.09.57.png 636w" sizes="(max-width: 550px) 100vw, 550px"><br><span>维权律师王宇,李和平 （资料图片）</span></p>
-<p>北京维权律师李和平、李春富和家庭教会成员勾洪国本月早些时候被批捕，三人的罪名都是“涉嫌颠覆国家政权”。李和平和李春富是兄弟。李和平是北京高文律师事务所律师，李春富是北京市蓝鹏律师事务所律师。</p>
-<p>据博讯网消息，这一最新情况已获得上述三人的家属证实。 李和平关押在天津第一看守所，李春富和勾洪国关押在天津市第二看守所。</p>
-<p>此前，另一名北京基督徒刘永平也以颠覆国家政权的罪名被正式逮捕。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%886.13.38.png" alt="Screen Shot 2016-01-23 at 下午6.13.38" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.13.38-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午6.13.38.png 637w" sizes="(max-width: 550px) 100vw, 550px"><br><span>北京律师李春富、王宇。 (资料图片）</span></p>
-<p>目前，去年7月9日以来被当局正式逮捕的律师和维权人士已经达到15人。那次抓捕行动中，中国多个地方的100多名维权律师和活动人士被失踪、监视居住、限制行动或约谈。</p>
-<p>去年晚些时候，一些被警方抓走的律师和维权人士在全国电视节目中被发表道歉或忏悔录像。官方媒体将电视播出的北京律师周世锋表示认错的话语诠释为“认罪”。当时这些被抓捕者受到颠覆罪指控。</p>
-<p>近日，被控在从事非法活动的瑞典人权工作者达林也出现在中国电视节目中示众。</p>
-<p>一些国际人权团体对抓捕律师和维权人士的做法表示抗议，美国国务院也表示关切，呼释放周世锋、王宇和李和平等律师。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%9D%8E%E5%92%8C%E5%B9%B3%E7%AD%89%E8%A2%AB%E6%8E%A7%E9%A2%A0%E8%A6%86%E7%BD%AA%E6%89%B9%E6%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92%E5%88%98%E6%B0%B8%E5%B9%B3/?category=18271" rel="tag">基督徒刘永平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">李和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%98%A5%E5%AF%8C%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">李春富律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">颠覆国家政权罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -781,7 +777,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -791,5 +787,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

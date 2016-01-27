@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%8A%8A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%8A%93%E8%B5%B7%E6%9D%A5%E5%AE%A1%E5%88%A4/" target="cdt-mirror">【习总日记】 把人民币抓起来审判</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，27）</p>
+<p>1月26日下午主持召开中央财经领导小组第十二次会议，研究供给侧结构性改革方案、长江经济带发展规划、森林生态安全工作。我发表重要讲话强调，供给侧结构性改革的根本目的是提高社会生产力水平，落实好以人民为中心的发展思想。要在适度扩大总需求的同时，去产能、去库存、去杠杆、降成本、补短板，从生产领域加强优质供给，减少无效供给，扩大有效供给，提高供给结构适应性和灵活性，提高全要素生产率，使供给体系更好适应需求结构变化。</p>
+<p>百姓听说我提到“以人民为中心”，高兴死了。</p>
+<p>自古以来，历朝历代统治阶级都提倡“以统治阶级为中心”，只有我们共产党才提倡为人民服务和以人民为中心。你让人民不支持我党很难，不热爱社会主义祖国很难，不忠于伟大领袖很难。</p>
+<p>人心都是肉长的，我们对人民好，人民加倍奉还。这是多么灵光的经济头脑啊！</p>
+<p>近来虽然我们遇到一些困难，经济上的困难。但要坚信，困难是暂时的，前途是光明的。跟着共产党，从来困难是暂时的，前途是光明的。毛主席如此说，继任者都如此说。</p>
+<p>有人发牢骚指出，说国民经济到了奔溃的边缘这种话，只有后任说前任，没有现任自己承认的。人之常情嘛！</p>
+<p>经济在调整，调整幅度有点大但在可控范围之内。人民币在下跌，幅度有点大但在可控范围之内。股市在下坠，幅度有点大但在可控范围之内。外汇在跑路，步伐有点急但在可控范围之内。</p>
+<p>二</p>
+<p>人民币该由谁来做主？平白无故被<a href="http://chinadigitaltimes.net/space/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B" target="_blank">敌对势力</a>打压，企图通过打压人民币打击我经济发展，进而达到扰乱我社会秩序的目的，我们该怎么办？</p>
+<p>国内的好办，抓起来上电视。国外的怎么办？骗他来中国然后抓起来？但终归还是要放的。外国人不好惹。</p>
+<p>我的意见是，人民币汇率不能任人摆布，要听中国的，要听党的。若人民币不听话继续下跌到一定程度，不排除把人民币抓起来审判。</p>
+<p>公诉人：人民币，你为何不听党的话下跌？</p>
+<p>人民币：是敌对势力捣鬼。他们给我吃了一种药后，我就不由自主听他们摆布了。他们说下跌我就往下跳，控制不住。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%8A%8A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%8A%93%E8%B5%B7%E6%9D%A5%E5%AE%A1%E5%88%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%B0%8F%E5%86%99%E7%9A%84%E8%84%91%E6%AE%8B%EF%BC%8C%E5%A4%A7%E5%86%99%E7%9A%84%E5%B0%B4%E5%B0%AC/" target="cdt-mirror">【立此存照】小写的脑残，大写的尴尬</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1707905652/DeYo9fZUZ">@文山娃</a>：小粉红事件 update：团中央删帖了。炸裂！一次特大型宣传事故</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg" rel="attachment wp-att-426690"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg" alt="65cc9274gw1f0dcij3v4qj20hs0vkjvd" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<p> </p>
+<p>此帖一出，连环球时报官号都看不下去了：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg" rel="attachment wp-att-426691"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg" alt="65cc9274gw1f0dcikmngwj20hs0vk0wr" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<blockquote><p><a href="http://weibo.com/1974576991/DeXDowSUU">@环球时报</a>：【小咕咕鸡：不要再被“小粉红”了，这不是什么好词】“小粉红”这个被很多人现在当做刷时髦而使用的词，一开始就是个公知段子手理解力低下导致的错误。这种争先使用着这个词来抢占批判制高点的人，其行为只能说是小写的脑残，大写的尴尬。</p></blockquote>
+<p>结果，团中央微博删帖，环球时报“完胜”。</p>
+<p><strong>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%8E%8B%E5%B0%8F%E8%83%BD%EF%BC%9A%E5%B0%8F%E7%B2%89%E7%BA%A2%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BA%A2/">王小能：“小粉红”，究竟是什么样的红？</a></strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%B0%8F%E5%86%99%E7%9A%84%E8%84%91%E6%AE%8B%EF%BC%8C%E5%A4%A7%E5%86%99%E7%9A%84%E5%B0%B4%E5%B0%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AA%E4%B8%80%E6%A0%B7%E7%9A%84%E9%98%9F%E5%8F%8B/?category=18271" rel="tag">猪一样的队友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-2/" target="cdt-mirror">【立此存照】记一次特大型宣传事故</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/1707905652/DeYo9fZUZ">@文山娃</a>：小粉红事件 update：团中央删帖了。炸裂！一次特大型宣传事故</p></blockquote>
@@ -705,67 +747,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%B8%80%E7%89%87%E6%82%B2%E8%A7%82-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E7%9D%80%E9%99%86%E4%B8%8D%E5%8F%AF/" target="cdt-mirror">世界日报｜全球经济一片悲观 中国经济硬着陆不可避免？</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/k4aaaaaaaaaaaaaaaa.jpg" alt="k4aaaaaaaaaaaaaaaa" width="491" height="268" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/k4aaaaaaaaaaaaaaaa-300x164.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/k4aaaaaaaaaaaaaaaa.jpg 500w" sizes="(max-width: 491px) 100vw, 491px"></p>
-<p>美国银行日前公布调查报告，访问全球 173 名基金经理，发现他们对中国和全球经济一片悲观。调查中有三个问题是这样的：一，全球经济未来一年有多大增长？大多数被访者说，增长会放缓，只有 8% 被访者说会有改善；二，全球经济目前处于经济周期的哪个阶段？大多数被访者说，正处于 2008 年以来的经济周期末期，亦即成长已到尽头、接近硬着陆和经济衰退边缘；三，中国经济是否出现衰退？ 45% 被访者都说，中国经济可能出现衰退，成为全球经济的最大风险。虽然这只是 173 人的意见，但他们管理全球 4490 亿美元资金，看法具有重大意义。</p>
-<p>所谓「硬着陆」，是指每个经济周期都有一个发展过程，亦即从经济成长，到成长放缓，再到衰退；当走到放缓尽头时，就代表成长从正增长走向负增长，当负增长出现时，就代表进入衰退。这么多基金经理说，中国经济正走向衰退，等于说，中国经济无可避免要硬着陆。</p>
-<p>在刚结束的瑞士达沃斯世界经济论坛，政商领袖对中国经济的讨论正好反映一片悲观的看法，虽然代替李克强总理出席会议的国家副主席李潮源说，中国政府有能力、有信心可保持中高速经济成长，但政商领袖却有截然不同意见。</p>
-<p>对中国经济的看法，以前的达沃斯与今年的达沃斯有很大分别。以前达沃斯论坛普遍认为，中国经济很正面、很牛市，认为中国即将超越美国，有强大的外汇储备，有能力面对挑战，建立一个现代化的经济体；虽然也有人持负面看法，但也只认为中国经济转型，必然引起阵痛，仍可保持持续发展。今年的达沃斯却截然不同，政商领袖不约而同表示，中国经济正处危急关头，有不少经济问题必须处理，不但讨论到具体问题，更表达一片悲观情绪。</p>
-<p>我们可从三方面看今年达沃斯对中国经济的态度。第一，中国必须尽快处理的问题。在人民币贬值问题上， BlackRock 执行长芬克 (Larry Fink) 说，自去年 8 月以来，中国对人民币汇价的立场反覆不定，造成信息混乱，引起全球经济和股市动荡，这个问题必须迅速处理，增加透明度。</p>
-<p>中国股市是另一个必须尽快处理的问题。高盛财务长柯恩 (Gary Cohn) 说，中国政府说要建立自由开放的市场，但是却干预市场运作，使中国的股市变得越来越不自由、不开放。</p>
-<p>事实上，中国政府一方面表示，会维持人民币汇价稳定，但去年 8 月将人民币贬值，之后，汇价只稳定了三个月，等到去年底，人民币成功「入篮」，成为「国际货币」之后，今年开年以来，立即又让人民币持续贬值，这是导致中国股市于开年头四个交易日两次「熔断」的导火线。</p>
-<p>第二，中国处理问题的方式。全球现在最关注，人民币未来是否继续贬值？更忧虑的是，是否出现一次过大的贬值？中国政府如不能在这个问题上作透明化的说明，不但会继续导致全球股市波动，也对中国股市发展不利。中国一方面希望维持人民币地位，但又想将它逐渐贬值，以达到改善出口的目的，贬与不贬之间，必须有所决定。</p>
-<p>在论坛上，国际货币基金 (IMF) 总裁拉嘉德说，中国政府没有在人民币问题上作出说明，有良好沟通对经济转型有利无害，中国透明度不够，使市场难以了解政府要干什么。事实上，中国政府说要改革企业债务和产能过剩，但说了很久，却一直未见公布计画。</p>
-<p>第三，中国处理问题的能力。投资家索罗斯在论坛上说，中国政府在经济转型这个重大事情上已拖得太久，使问题恶化，要挽救已太迟，中国经济无可避免要硬着陆；中国经济目前成长率只有 3.5%( 不是中国政府宣布的 6.8%) 。他认为，中国的通缩情况严重，但中国有 3 兆美元外汇储备，可以应付问题，但人民币贬值引起通缩，将输出给全球，使与中国有贸易关系的国家无法应付。</p>
-<p>与索罗斯持同样熊市态度的专家认为，中国经济正在痛苦转型，国企负债深重，全球经济又在放缓，对中国产品的需求不再像以前一样，再加上人民币贬值所引起的经济危机，已难以挽回，中国无可避免要硬着陆，全球也不知如何应付数十年来没有见过的全球性通缩。全球股市最近震荡加剧，或许正反映这种不确定的危机。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%B8%80%E7%89%87%E6%82%B2%E8%A7%82-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E7%9D%80%E9%99%86%E4%B8%8D%E5%8F%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%80%E6%94%BE%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%A6%E4%BC%A6%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%AF%B9%E5%8F%B0%E6%96%B9%E9%92%88%E7%9A%84%E6%83%A8%E8%B4%A5/" target="cdt-mirror">开放网｜王荦伦：中共对台方针的惨败</a>
-</h2>
-<p><p>2016年1月16日，台湾大选。谢票记者会原定于晚间八点召开，但七点不到，国民党朱立伦团队就决定出面向大家致歉提前认输。根据台湾中央选举委员会至夜间十一点的统计数字，民进党总统候选人蔡英文顺利地大幅度胜出，当选中华民国第十四届总统。她得票高达6,894,744张，得票率56.1234%。连在泛蓝军势力庞大的首都台北市和新北直辖市，蔡英文也破记录地遥遥领先朱立伦。朱总共只得票3,813,365张（得票率31.0409%），即使加上亲民党宋楚瑜的票（1,576,861张，得票率12.8537%），还差蔡英文约一百五十万票。这是蓝绿史无前例的重大差距：马英九2008年高票当选时，创下的得票记录也只是51.60%。</p>
-<p>与蔡英文一同当选的，还有民进党共拿下68席的立法委员，而国民党仅拿到35席，让民进党取得立法院一党过半（57席）的绝对优势。民进党的得票率版图，也从原来占有大幅优势的南台湾，一举北上囊括中台湾，并越过台湾中央山脉夺取东台湾。国民党只剩下台湾北部少数县市孤军奋战。真可谓蓝营票仓大沦陷，国民党遭遇有史以来最大的挫败，全台湾一片绿色。</p>
-<p>正如当天拨云见日的大好天气，中华民国诞生了史上首位女总统，亚洲继菲律宾、印度尼西亚、南韩等国家后，首次出现华人女总统。台湾实现自1996年总统直选以来的第三次政党轮替，这是又一波“颜色革命”。</p>
-<p>进而论之，2016台湾大选，实质是中共对台方针的惨败。中共一些人强权行事，不可一世，但往往是搬起石头砸自己的脚。台湾民众在恐怖威吓魔影之下，实在忍无可忍，以手中选票，表达心中的愤怒和反抗，对中共高声说“不”。</p>
-<p>铜锣湾书店事件：为台湾民众敲响警钟</p>
-<p>台湾大选前，香港铜锣湾书店的股东与员工五人相继“被失踪”，引发国际关注。北京《环球时报》元月六号居然为此辩护，强硬声称：“全世界的强力部门通常都有规避法律让一个被调查者进行配合的办法”。这完全是等于宣告：中国的执法机构可以“规避法律”，追缉所有被调查者，无论你在香港、东南亚，还是在任何国家。中共的执法机构，俨然成了与黑社会无异的无赖！</p>
-<p>这个事件当然是“天大的事情”，中共强力部门不是越境执法，而是“越境犯法”。即使“被失踪”的李波等人日后平安归来，是次失踪事件引起的问题已响起了“一国两制”的最后警号，说明香港已和大陆一样变得不安全，公民随时会“被消失”，连最基本的安全与自由都有问题。发展下去，全面性的恐怖就会来临，没有人有安全感。最后毁掉的，将不只是香港。</p>
-<p>当年中共决定在香港实行“一国两制”，主要当然是为了谋取自己的利益，其中一个更大的考虑是，要为将来台湾“回归”树立一个榜样。但近年来，中共这个考虑也不顾了。铜锣湾书店事件不单使香港民众极其惶恐，也为台湾民众敲响警钟。蔡英文就此事强调：言论自由是普世价值，希望北京当局厘清外界的质疑，确保香港的言论自由。连亲民党的宋楚瑜也表示，这起失踪案证明了台湾应该珍惜得来不易的民主自由。据香港支联会的说法，该书店只是因为准备出版《习近平情史》而惹祸。那不是一九八四年发生在美国旧金山的江南案——台湾旅美作家江南因为要出版《蒋经国传》而惹上杀身之祸的翻版吗？台湾民众对此记忆犹新，他们当然担心“今天的铜锣湾就是明天的台湾”。</p>
-<p>压倒骆驼的最后一根稻草：周子瑜道歉事件</p>
-<p>1月15日晚，台湾大选投票日前夜，发生一个周子瑜道歉事件，成了“压倒骆驼的最后一根稻草”。</p>
-<p>十六岁台湾少女偶像周子瑜，在韩国发展，属于韩国九人女团TWICE成员。她在一个综艺节目上拿着青天白日满地红旗，竟被在北京居住的台湾过气艺人黄安诬蔑为台独分子，向中国电视台举报。于是，周子瑜在中国大陆的演艺活动遭到全面封杀，广告代言被取消，还被中国愤青批斗围剿。在强大的压力之下，周子瑜通过视频道歉，素颜出镜，两次鞠躬，一脸委屈，看上去像要被ISIS斩首的人。</p>
-<p>中共官媒竟然洋洋得意。人民日报社旗下的《环球时报》即时在其微信号中发布评论，题目就是：《这次对阵“台独势力”，大陆网友完胜！》。该文为中国愤青撑腰打气，宣称：“大陆网友的爱国之心，绝不是什么‘暂时的情绪’，祖国才是大本命，这是在中国网友心中会跟随中国走向强势复兴一路的坚定信仰。而在这次事件后，相信大陆网友对与中国有生意往来的境外企业是否敢做出挑战中国底线的事情，只会变得更加上心。”</p>
-<p>一石激起千重浪！与大陆官媒的“爱国宣言”与“胜利宣示”截然相反，周子瑜事件引起台湾各界哗然，迅速发酵，不分蓝绿一边倒地对其表示支持与同情，并把此次投票率激发至比预期更高的水平，使得一直被大陆指为“台独”的民进党选情更加看好。</p>
-<p>据有关资料，五十万台湾年轻人票子的去向与周子喻事件有关，比起当年陈水扁当选时的“枪击”骗案，这是货真价实的“新型态的两颗子弹”。被激怒了的台湾民众用选票投给中共看，决心拒绝出现“今日周子瑜、明日台湾人民”的悲剧。</p>
-<p>武力讹诈：解放军中将对蔡英文放狠话</p>
-<p>台湾大选之际，中共再次使用武力讹诈，警告民进党人。他们再三强调“九二共识”，称其为台海局势的“定海神针”，如果否认“九二共识”，就会“地动山摇”。解放军“鹰派”代表，南京军区原副司令员王洪光中将连续发表辣评。1月12日，陆媒《搜狐军事》刊出他的最新文章《若蔡英文当选绝不姑息养奸》。他特意披露，解放军近期军队改革，构成了军委-战区-部队的指挥层级，陆、海、空、火、战略支援五军种联合作战体系初步形成。而大陆对付“台独”军事力量的就是南京战区及其所指挥的五军部队。解放军战略打击部队已形成覆盖第一岛链，打击第二岛链内重要目标的能力，超出台岛一两千公里。王中将讽刺地说，台军的情报工作据说还不错，请台军把南京战区力量与自己的力量作一对比，当然不是数字对比，而是通过计算机仿真系统，进行兵棋推演，在虚拟空间先打上一仗，看“胜算几何？能扛几日？”</p>
-<p>王洪光中将口气严厉，以战争威吓自己的骨肉同胞，完全没有人性。但就如1996年台湾大选时中共在台海上演导弹危机，推波助澜使李登辉顺利成为台湾首位民选总统，现在此举也不过是适得其反，让许多选民更加凝聚在民进党周围。</p>
-<p>正是中共把台湾国民党拖上死路</p>
-<p>许多有识之士指出，马英九及其国民党在台湾治理上有许多失误，但最下作最无耻的是，他们老是试图借用武力威胁的邪恶力量去为自己加分，说什么选择民进党就是选择战争，只有我国民党才可以赢得台海和平。基于这种逻辑，国民党对于中共独裁暴政不但不发声谴责，相反还眉来眼去。例如，北京“九三”阅兵，连战的令人失望的表现，把国民党的脸丢尽了。新加坡“习马会”，一声招呼，马英九屁颠屁颠跑去握手，又不敢提一句中华民国，很让台湾民众瞧不起，简直要恶心呕吐。共产党老说，群众的眼睛是雪亮的。正是2015年11月7日中共大肆宣传具有历史意义的“习马会”，让台湾人进一步证实：中共的“九二共识”是“各表一中”，而从不承认“一中各表”；国民党却顺从地展现出与北京合为一国的政治意愿。台湾人感觉到行将被北京并吞的强烈危机感，他们因为厌恶中共的作为不得不也厌恶国民党！</p>
-<p>大选过后，台湾国民党陷入“四大皆空”困境：丢失政权、丢失国会最大党、没有地方诸侯（只剩一都五县）、找不到人才。历史的确无情。2014年九合一选举，国民党未能记取教训；这次雪崩式惨败后，除非改弦更张，实难从废墟中重生了。正是中共错误的对台方针把国民党拖上死路。民进党取得胜利，蔡英文真应该在致辞中对中共表示由衷的感谢。</p>
-<p>台湾首先是台湾人的台湾：中共如何面对蔡英文时代？</p>
-<p>蔡英文以绝对优势当选中华民国首任女总统，中国大陆媒体当天一时全部静默观望。“共青团中央”微博别出心裁，发了张形似台湾的当归图样，配有文字：“当归是最常用的中药之一，具有补血和血，调经止痛，润燥滑肠、抗癌、抗老防老、免疫之功效。”网友神评：“可惜赵家药锅里，以太子参、党参为主。当归好像反太子参，且畏党参。”</p>
-<p>中共可能没法明白：国民党为什么输得这么惨？台湾民意在这十多年间发生了什么变化？其实，一般人都看出，最大的变化就是台湾人对台湾的定位：台湾是台湾，大陆是大陆，不要将我们和大陆硬拉到一起。这“渐行渐远”的局面就是中共错误的对台方针酿成的恶果，而中共之所以犯这个错误并无法自我纠正，又因为中共本身的专制独裁性质所决定。顺着这个形势发展下去，民进党经过几次大选当政越来越有治理经验，并获得多数民众特别年青人的拥护；而国民党这个百年老党大可能走向更深的衰微，不仅会使中共在台湾丧失“统一”的政治同盟，也让台湾割断了与中国最后一道情感羁绊。这样，中共可能会冒天下之大不违，向台湾开战。以中国当今强大的军事力量，完全可能迅速占领台湾全岛，但也会因此永远与台湾民众结仇，并因台湾治理问题激发中国大陆种种治理难题；当然，肯定还会受到世界舆论谴责。或者，中共也会因各种考量包括前述考量，不敢或者不能动用武力实现统一。那么，又会出现这种局面：中国大陆现在维持专制制度，是民主台湾拒绝被统一的理由；将来大陆实现民主化了，台湾人更坚定的台湾认同，却排除自愿被统一的选项了；而那时具有民主理念的大陆民众，也变得尊重住民自决原则，并不强求大一统的版图。</p>
-<p>如果历史真的走到这一步，中国强烈的民族主义者将会有一天因中国失去台湾而问罪于中共！</p>
-<p>（2016年1月20日）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%80%E6%94%BE%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%A6%E4%BC%A6%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%AF%B9%E5%8F%B0%E6%96%B9%E9%92%88%E7%9A%84%E6%83%A8%E8%B4%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -777,7 +758,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -787,5 +768,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

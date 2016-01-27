@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7%EF%BC%9A%E8%A2%AB%E7%85%BD%E9%A2%A0%E7%9A%84%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/" target="cdt-mirror">西域武僧：被煽颠的望云和尚</a>
+</h2>
+<p><p>和望云和尚相识，也是在2013年。当年他云游北平，京城诸友饭醉相迎。席间大家畅谈甚欢，也了解了望云和尚的一些故事，得知他正在为他所在的宁德镍合金化工项目与当地政府抗争。</p>
+<p>算来我皈依佛门也近三十年了，于佛法也算略有深入。佛门中人本应四大皆空，以道为身。为匡公义不惜身命，以八正道为本，救护众生，彰示因果，令人解脱。然今日之佛教徒，堕落深者惟求功名利养，堕落浅者只愿自了往生。且不说如是修行，往生者佛国即是地狱，往大了说长此以往，三武一毛灭佛之灾恐怕又将再现。历史上哪一次佛难不是因佛门弟子与官宦统治阶层苟合，背离正道所致？文革不远，可惜佛门之中又有几人看破？因此，十多年来我耻于谈佛。</p>
+<p>而望云和尚不同，在微博上我们神交已久，无论是维权话题还是佛教话题都沟通过很多，特别是对太虚大师“人间佛教”之学，都心向往之。</p>
+<p>望云和尚一身兼临济曹洞，禅门正脉。在福建宁德有个小小的九仙禅寺，据说山清水秀，令人心动不已。那次在京饭醉之后，他回到庙里，没几天就一个人只身前往宁德市政府，举牌抗议上马镍合金化工项目，后来得知他因此被拘留十天，令我对他更加佩服不已。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A.jpg" alt="望云和尚抗议宁德镍合金化工项目" width="550" height="550" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>望云和尚抗议宁德镍合金化工项目</p></div>
+<p>14年十月，我俩又在广州相见，办完了事儿，我受邀来到他宁德的小庙。这里真是修行的好地方，背靠群山环抱，前临霍童灵溪。山上翠竹如锦缎，山下巴蕉映霞云。山泉清澈，茶树成行，天清云淡，鸟鸣啾啾。令人一见便流连忘返，于是我就厚着脸皮赖在他的小庙不走了，一住就是半年多。期间诵读了两遍《华严经》，还学会了红茶和绿茶的炒制。每日早晚功课，青灯古佛，难得的恬静清闲。正所谓：百年三万六千日，不及僧家半日闲。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A2.jpg" alt="释性慧法师，号望云。俗名林斌" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚2-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚2.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"><p>释性慧法师，号望云。俗名林斌</p></div>
+<p>2015年过了清明，庙中茶叶做完，我也暂时辞别望云和尚，离开了九仙禅寺。然而刚过七月中，便传来望云和尚被警方抓捕的消息，继而和709事件中被捕诸君一样，不允许律师会见，拒不通知家属。一至半年，没有任何消息。昨天，望云和尚的律师龙霖律师发布消息，才得知他因“煽动颠覆政府”被批捕。在这期间，望云和尚七十多岁的老母亲，一位护持九仙禅寺十多年的老居士也被赶出了寺院，九仙禅寺就此被当地政府非法强占了。</p>
+<p>国寔唯坚，专制如磐石。哪怕一丝光亮的透入，都需仁人志士用自由、鲜血乃至生命为代价。望云和尚是佛陀教义坚定的践行者，横遭此囹圄之灾，更显以身饲虎的英勇。作为佛教徒，人生最大的意义反不在于成就了什么，而是在坚守了什么，才不辜负“荷担佛陀家业”，不枉为”住佛形象”之功德。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A3.jpg" alt="望云和尚3" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚3-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚3.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"><p>望云在九仙禅寺书房</p></div>
+<p>望云和尚好词，而我好诗。故以诗赞曰：</p>
+<p>九仙寺内九仙山，</p>
+<p>一片冰心一片天。</p>
+<p>庙小方能平沟壑，</p>
+<p>望云阁上天地宽。</p>
+<p>＝＝＝＝思念的分割线＝＝＝＝＝</p>
+<p>各位看官：原创不易，请有钱的帮个钱场——打赏，没钱的帮个人场——转发！拜托！</p>
+<p>欢迎加西域武僧微信好友交流：xyws8964</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7%EF%BC%9A%E8%A2%AB%E7%85%BD%E9%A2%A0%E7%9A%84%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BB%99%E7%A6%85%E5%AF%BA/?category=18271" rel="tag">九仙禅寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">望云和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E9%A2%A0/?category=18271" rel="tag">煽颠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7/?category=18271" rel="tag">西域武僧</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9F%A5%EF%BC%8C%E5%AE%98%E6%96%B9%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E5%8F%88/" target="cdt-mirror">纽约时报｜中国统计局局长被查，官方经济数据又添疑云</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge.jpg" rel="attachment wp-att-426730"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge.jpg" alt="27chinaecon-web1-articleLarge" width="585" height="396" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge.jpg 600w" sizes="(max-width: 585px) 100vw, 585px"></a><p>国家统计局局长王保安上周在新闻发布会上。</p></div>
@@ -694,43 +722,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA%E6%8A%98%E5%B0%84%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E6%96%87%E5%8C%96/" target="cdt-mirror">纽约时报 | “电视认罪”折射中共政治文化</a>
-</h2>
-<p><p>七年来，这名年轻的瑞典男子在北京领导一个非政府组织，为遇到麻烦的中国公民提供法律援助。现在，他陷入了中国法律体系的天罗地网。在被警方羁押期间，他被迫在<a href="https://www.youtube.com/watch?v=OYtLonUWcKU" target="_blank" rel="nofollow">一段视频中</a>陈述了他所谓的罪行。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/22Chinamemo-web1-articleLarge.jpg" alt="瑞典人彼得·达林" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/22Chinamemo-web1-articleLarge-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/22Chinamemo-web1-articleLarge.jpg 600w" sizes="(max-width: 550px) 100vw, 550px"><p>瑞典人彼得·达林，一个人权组织的创始人。图像截自中国中央电视台本周二晚播放的视频。</p></div>
-<p>“我在中国从事了违反中国法律的活动，”在官方媒体中国中央电视台<a title="Link: http://cn.nytimes.com/china/20160120/c20chinaswede/" href="http://cn.nytimes.com/china/20160120/c20chinaswede/" target="_blank" rel="nofollow">周二晚间播出的节目</a>中，35岁的彼得·达林(Peter Dahlin)说。“伤害了中国政府和中国人民，为此我要深深致歉。对发生的这一切深表歉意。”</p>
-<p>瑞典籍书商桂民海(Gui Minhai)两天前曾在狱中<a title="Link: http://cn.nytimes.com/china/20160118/c18hongkong/" href="http://cn.nytimes.com/china/20160118/c18hongkong/" target="_blank" rel="nofollow">做出过类似的供述</a>，2013年时，<a title="Link: http://sinosphere.blogs.nytimes.com/2013/10/29/a-parade-of-public-confessions-shapes-public-discourse-in-china/" href="http://sinosphere.blogs.nytimes.com/2013/10/29/a-parade-of-public-confessions-shapes-public-discourse-in-china/" target="_blank" rel="nofollow">另外两名外籍人士</a>韩飞龙(Peter Humphrey)和薛蛮子(Charles Xue)也是如此。</p>
-<p>尽管在被中国警方羁押时，外国人早就被迫做出过蹊跷的供述，但是最近在习近平的强硬统治下，电视上播出的一连串供述依然让这里的<a href="http://shanghaiist.com/2016/01/20/peter_dahlin_confession.php" target="_blank" rel="nofollow">很多人侧目</a>，因为这些视频被共产党<a href="http://cn.nytimes.com/opinion/20150324/c24murong/" target="_blank" rel="nofollow">用作宣传工具</a>，面向数亿观众播放。很多人觉得，这让人回想起毛泽东时代公开进行自我批评的做法。中国人也在电视上做过一些<a href="http://www.scmp.com/news/china-insider/article/1507195/beijing-detains-parades-journalist-gao-yu-state-tv-leaking-state" target="_blank" rel="nofollow">引人瞩目的供述</a>。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/0.png" alt="香港一家出版公司的书商桂民海。图像截自上周日的一段电视视频。" width="550" height="325" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/0-300x177.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/0-768x454.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/0-1024x605.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/0.png 1069w" sizes="(max-width: 550px) 100vw, 550px"><p>香港一家出版公司的书商桂民海。图像截自上周日的一段电视视频。</p></div>
-<p>除了延续历史惯例之外，中国还打算用这些视频实现什么企图呢？这种做法有效果吗？</p>
-<p>“这是一种展示，意在体现党国对个人的权威，就是这么简单，”香港中文大学讲师罗助华(Joshua Rosenzweig)说。“在胡锦涛执政时期，社会空间和行动者变得太独立、太具批判性了，现在领导层要施加更严格的控制，这就是他们的措施之一。”胡锦涛是上一任中国领导人。</p>
-<p>达林是在中国官方的一场行动中遭到羁押的，该行动旨在打压<a href="http://www.nytimes.com/interactive/2015/07/22/world/asia/china-missing-rights-defenders.html" target="_blank" rel="nofollow">维权律师</a>、记者和民间团体活动人士。</p>
-<p>罗助华说，时常播出这样的供述，“造成了一种‘这是非法活动’的印象”，也传达出了中共正在采取措施打击的信息。他说，这种视频最重要的特点就是显示“参与者现在已经认识到了自己的错误，持有了正确的立场”。</p>
-<p>在中国，刑事诉讼往往取决于警方取得的口供，而刑讯逼供的现象非常普遍。并不清楚达林是在什么情况下讲出这番话的。他患有阿狄森氏病(Addison’s disease)，这是一种荷尔蒙失调症，需要每天服药。他的组织称他是被迫做出供述，并对此表达了谴责。</p>
-<p>韩飞龙是英国公民，在为制药企业葛兰素史克(GlaxoSmithKline)开展商业调查期间<a href="http://cn.nytimes.com/china/20150610/c10gsk/" target="_blank" rel="nofollow">遭到了羁押</a>。在被驱逐出境之后，韩飞龙表示，警方为迫使他招供，在他生病时拒绝提供医疗救助。他曾供认称，自己非法获取中国公民的私人信息，并将其出售给客户。</p>
-<p>而薛蛮子遭到<a href="http://cn.nytimes.com/china/20130911/c11weibo/" target="_blank" rel="nofollow">羁押</a>时，中共正在打压那些在微博上拥有百万粉丝的意见领袖。</p>
-<p>香港一家出版公司的瑞典籍股东桂民海现身中国官方电视台，声称自己<a href="http://cn.nytimes.com/china/20160118/c18hongkong/" target="_blank" rel="nofollow">回国自首</a>，并供认了自己2003年酒后驾车致人死亡，并在缓刑期间潜逃的行为。去年10月，他在泰国的公寓中消失，是<a href="http://cn.nytimes.com/china/20160105/c05china/" target="_blank" rel="nofollow">五名</a>失踪香港书商之一，据推测他们是被中国安全官员关押的。</p>
-<p>国际特赦组织(Amnesty International)研究员潘嘉伟(Patrick Poon)表示，“这种电视悔罪的做法没有遵循任何正当程序”，而遵循正当程序“才能确保当事人有机会获得公正的审判”。</p>
-<p>他表示，共产党采取了<a href="http://www.nytimes.com/2015/05/30/world/asia/chinese-national-security-law-aims-to-defend-party-grip-on-power.html" target="_blank" rel="nofollow">很多措施来限制</a>境外非政府组织(NGO)及其中方合作伙伴的活动，达林的公开悔罪就是其中的一部分。</p>
-<p>他说，“指控NGO的外国工作人员犯有‘危害国家安全’的罪行，这种做法也可以恫吓那些未来希望到中国从事NGO工作的外国人。”</p>
-<p>达林事件令中国的NGO员工感到担忧，纷纷讨论和揣测共产党的红线在哪里。这种恐惧与一项迫使在华外国NGO到公安局登记并披露支出细节的<a href="http://cn.nytimes.com/china/20150618/c18xxchinango/" target="_blank" rel="nofollow">法律草案</a>相一致。</p>
-<p>中国公民也经常出现在官方电视台播出的悔罪视频中。一段在监狱拍摄的视频显示，伊力哈木·土赫提(Ilham Tohti)的<a title="Link: http://cn.nytimes.com/china/20140928/c28xinjiang/" href="http://cn.nytimes.com/china/20140928/c28xinjiang/" target="_blank" rel="nofollow">三名学生</a>讲述了他开展的所谓的分裂活动，以及他们自己的共谋行为。这名维吾尔族经济学教授因为有关中共民族政策的言论，于2014年被判处无期徒刑。同一年，70岁的记者高瑜出现在中央电视台的节目中，供认向国外泄露机密文件的行为。</p>
-<p>在央视关于达林的新闻片段中，两名遭到羁押的中国同事恶语相加，谴责达林和他所在的组织，这与文化大革命期间家人或朋友被迫互相指责的情形颇为相似。</p>
-<p>“我现在觉得，我已经很深刻地认识到，这个机构其实就是反华机构在中国设立的这种先锋站，或者叫桥头堡，这样的一个位置。它主要就是想在中国内部安插一些眼线，去了解我们国家最底层、最基层的一些社会问题，”达林的一名年轻同事在视频中说道。“其实就是想伺机制造一些事端，等到时机成熟的时候，对我们国家的政权、对我们党的领导进行颠覆。”视频中只显示这位同事姓王。</p>
-<p>这种措辞显示，之所以发布这些涉及外国人的视频，目的之一就是激发对外部人员——共产党所说的“黑手”——的怀疑，进一步推进<a href="http://cn.nytimes.com/china/20141112/c12beijing/" target="_blank" rel="nofollow">习近平一直宣扬</a>的中国与西方对抗的心态。</p>
-<p>这些视频是否有效发挥了宣传作用不甚明了。在看了视频和官方媒体的报道后，一些中国人怀疑达林所在的组织是否真的那么邪恶。</p>
-<p>其他人表达了怀疑态度。有人在微博上写道：“怎么感觉跟朝鲜的做法一样？处心积虑地让异见人士公开认罪。”很多中国自由派人士在网上提到，知名维权律师李方平为达林辩解，称他是“法律界的诺曼·白求恩(<a href="http://www.nytimes.com/movies/movie/123958/Dr-Bethune/overview" target="_blank" rel="nofollow">Norman Bethune</a>)”。白求恩是参与毛泽东的事业的一名加拿大医生。</p>
-<p>香港大学中国传媒研究计划编辑班志远(David Bandurski)<a href="https://medium.com/@cmphku/fifty-shades-of-xi-c3277e91f94c#.ac6e0ya1e" target="_blank" rel="nofollow">去年3月写的一篇文章称</a>，共产党在1940年代从苏联借鉴了自我批评的做法。50年代，官员们迫使很多知识分子写下忏悔书，迫使他们服从毛泽东思想。</p>
-<p>“在习近平新开展的公开悔罪的行动中，可以看到共产党政治史中令人不安的影子，”班志远写道。“是否有罪的问题屈从于政治权力的当务之急。”</p>
-<p>“就像过去一样，当今的忏悔风潮不是为了问责、政府清廉或建立一个基于规则的体制，”他接着写道。“而是统治与服从的问题，习近平是中国的忏悔主管。你们要听凭他摆布。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA%E6%8A%98%E5%B0%84%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E6%96%87%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E6%82%94%E7%BD%AA/?category=18271" rel="tag">公开悔罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">打压维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%B0%91%E6%B5%B7/?category=18271" rel="tag">桂民海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E9%81%93%E6%AD%89/?category=18271" rel="tag">电视道歉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E6%89%B9%E8%AF%84/?category=18271" rel="tag">自我批评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">认罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -742,7 +733,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -752,5 +743,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

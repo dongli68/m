@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/426660/" target="cdt-mirror">王小能：“小粉红”，究竟是什么样的红？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg" rel="attachment wp-att-426663"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg" alt="643c6f05gw1f0df7q49kij211y0lcgmv" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv-768x431.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px"></a></p>
+<p>这个带着想要搞个大新闻气质的微博，撰文者是@小王同志有话说，敏感的网友一下子抓住了他在文中很慎重地把左右路线的“左”字打上引号的细节，纷纷揣测这是不是一篇过审的官方稿，更为这个官方背书增加了一点可怖气氛。具体如何不得而知。因为实在是写得太过愚蠢，在我这样的反动网友加入转发之后，它非但并没有达到振臂一呼应者云集的目的，反而被当头泼了无数桶冷水，几千个转发里基本有一大半都是远交近攻地把它骂了个通体透亮。</p>
+<p>这实在也怪不得别人，因为这条微博真的是太愚蠢和邪恶了。过了几个小时，共青团中央将这条长微博删除。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7.jpg" rel="attachment wp-att-426661"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7.jpg" alt="643c6f05gw1f0dekvdevoj20c81djgs7" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7-74x300.jpg 74w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<p>如果有人还看不出来这条微博为什么愚蠢和邪恶（……），可以看看网友的评论。</p>
+<blockquote><p>老刘在德克萨斯：用劳苦大众能听懂的语言讲，小粉红就是让共青团大叔搞到手的青春期刚结束但心智还停留在青春期的女孩子。给人一种老刑法讲的嫖宿幼女的感觉。张扬下作，价值观错乱的奇葩。</p>
+<p>阿克巴笙：翻译：“不懂网络安全”，“不懂网络舆论“，”不关心政治分不清左右“——意思其实就是”蠢”。“垂涎党媒小编“”有天然正义感”——意思就是”爱国“。总评：”又蠢又爱国“——我靠这是什么好词儿？”蠢+任何大型关键词“都他妈的超可怕好吗【感谢命运</p>
+<p>大朙湖畔斯托克:翻译：所然你们女人肤浅无知，都是政治白痴科技白痴，但是你们这么可爱，还当我们的狗，我们还是会爱你们的。</p></blockquote>
+<p>在团中央发博强行收编“小粉红”之前，其实网上已经有了很多次的争执，事关如何看待与对待“小粉红”群体：一个审慎的、不想随意给人贴标签并且加以扫射的人，都会有这样的困惑吧。毕竟每一个ID的背后都是一个活生生的人，而标签化的群体里也有许多无辜受害者。</p>
+<p>在微博上大家普遍使用的“小粉红”定义，跟它的原生出处业已关联不大：很多人是从去年段子手大咕咕咕鸡鏖战“小粉红”团体并且大挂照片的事件里，才知道有这样一群人的存在——而自诩“人美三观正”的她们，一则并不都是粉红色晋江论坛的忠实用户（有一部分是），二则其凶残程度跟团中央微博里形容出来的也完全不一样——<span><b>一个合格的“小粉红”并不会仅仅使用“希望你们这些公知都炸了”这样温情脉脉的革命话语，她们在网络上横扫异见（这个异见可能是对于国族的认知，也可能是一个CP的正逆，有时候仅仅是别人说了一个其无法忍受的娱乐意见），她们熟练使用“你妈炸 了”“你妈在天上飞”诸如此类的词汇和各种挂照片、抱团轮人的手法，受害者不少，但是很多都是更弱势的亚文化圈里人</b></span>，直到大咕咕咕鸡开始以其人之道还治其人之身的并不受到网友赞许的挂照片手段反击之前，很多人的受害是没有被看见的。</p>
+<p>也因此，我们曾经讨论过很多次：<span>一个女权主义者对于女性法西斯党徒应该采用什么样的态度？大规模地批判“小粉红”，是不是一种偷懒的地图炮行为？我们这些曾经也和她们有过文化重合度的成年女性需不需要那么急切地撇清和她们的关系并且大加鞭挞？跟她们一样是粉红论坛用户的网友中有很多也是右倾的自由主义者，有很多更是岁月静好的亚文化爱好者，仅此而已，用一个标签就定义这所有的人并且加以嘲弄，是不是另一种恶？</span>真是很纠结的。直至今日，作为一个已经可以自动滚入“老粉红”行列的前晋江网友，我不得不佩服共青团中央的气派，这篇春秋笔法实黑非黑的高段位黑文简直一下子就解决了困惑我们多时的这些问题：当我们这些女权主义者还在 自我警惕，希望不要用泛化的标签手段加重我国女性在多重歧视轴上的再受害，团中央出手不凡地把“小粉红”从性别、取向、智力都给定性了，还强行送了她们一 个便宜爹，玩起了光源氏计划，同时更冷酷无情地把八零后开除出了爱国小粉红的队伍——让我们这些“老粉红”没有了投奔革命的去向！</p>
+<p>简而言之，<span><b>年轻，人傻，没有独立思考能力，容易被煽动，就是一个好用的“小粉红</b>”</span>。明明D8出征参与者很大一部分都是男性，但是团中央实力甩锅，把责任都丢给了“小粉红”：是你们这些不懂政治也不关心社会、平时只是操心点鸡毛蒜皮小事情、还会流着口水花痴男男配对意淫一下党媒卖萌小编的小呆瓜们干的哦。原本就是敝国人权歧视链里处于下方的女性，被定义为只关心美食自拍而对政治经济社会文化一无所知的女性、被暗示着卖完萌还是要回到家庭那一亩三分地领域里的女性，就是在团中央微博下欣然接受这个定性、还深深遗恨自己不是九零后不能做”小粉红”的女性们。我不知道她们是不是真的没有意识到：<span><b>你们平时最讨厌的“大写的直男癌”不正站在你们的眼前吗？在你们心里，这个国家最大的“直男癌”到底是什么样的存在呢？</b></span>事实上，“直男癌”又何尝不是一种标签呢？在满天标签大乱斗中，心理咨询师柯晗的一段话甚可玩味：“<span><b>一个有理智和基本独立思考能力的人自我反省并谨慎选择用词再来和愚昧言论讲道理的速度，根本远远赶不上有组织的愚昧不要脸的速度。</b></span>”</p>
+<p>至于“小粉红”到底是什么红，我想共青团中央是并不关心的。他们眼中的“小粉红”究竟是什么呢？网友们都说了<b>：《走向共和》这部神剧里，老佛爷对于义和团的一番讲解就足以说明一切。</b><br><em><br>
+封面图来自网络……hellokitty粉请饶我不死……</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/426660/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E7%B2%89/?category=18271" rel="tag">兔粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E7%94%9F%E6%B4%BB%E5%AF%B9%E5%87%86%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%BD%93%E5%A4%B4%E8%80%8C%E6%9D%A5/" target="cdt-mirror">墙外楼 | 生活对准小粉红当头而来</a>
 </h2>
 <p><p>生活对准小粉红当头而来</p>
@@ -729,30 +753,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%A8%81%E5%8A%9B-%E7%9F%A5%E5%90%8D%E8%87%AA%E5%B9%B2%E4%BA%94%E4%B9%9F%E6%8A%95%E9%99%8D/" target="cdt-mirror">博谈网 | “小粉红”威力 知名自干五也投降</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%885.25.44.png" alt="Screen Shot 2016-01-23 at 下午5.25.44" width="550" height="487" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.25.44-300x266.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.25.44.png 595w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><span>截屏自林岳芳的微博</span></p>
-<p>来源: 博谈网 ‌（博谈网记者苏智敏报道）连日以来，台湾总统当选人蔡英文、与一些被认为有台独倾向的人士、媒体，其脸书持续被大量突破网络封锁的中国网军入侵，他们留下许多‌‌‌‌“八荣八耻‌‌‌‌”、《歌唱祖国》歌词及各式表情包图片，并激烈的与台湾网友进行台独等相关议题的争辩，其中也不乏粗俗的漫骂。</p>
-<p>这群来自百度帝吧的网军，又被称作是‌‌‌‌“小粉红‌‌‌‌”。据了解，此称呼是来自《晋江文学城》论坛，现在主要是指90后到00后的年轻一代。</p>
-<p>‌‌‌‌“小粉红‌‌‌‌”们的行动得到共青团的支持，共青团中央22日在官方微博公开称赞他们：‌‌‌‌“可以看到中国迎来自信一代！他们自信地迈着阔步，天马行空地自由挥洒，他们充满阳光和自信的表现，让人眼前一亮。只要我们足够自信，大踏步向前，一定会将‌‌‌‌‘台独’势力踩在历史的脚下！‌‌‌‌”</p>
-<p>共青团中央官方微博同时还附上一篇来源标注为《环球时报》和占豪的文章，里面提到这些网军是去‌‌‌‌“理性地交流‌‌‌‌”，给台湾网友讲述大陆的真实一面以及台湾为何属于中国的历史，另一方面是‌‌‌‌“打击一下台独势力的嚣张气焰‌‌‌‌”。因此《三立电视台》、《苹果日报》以及《自由时报》这些‌‌‌‌“台独势力的传声筒‌‌‌‌”，就成了大陆网友们‌‌‌‌“打击台独势力、传播统一思想和大陆真实面貌的‌‌‌‌‘主战场’‌‌‌‌”。</p>
-<p>文中同时批评台湾年轻人被政治斗争洗脑了：‌‌‌‌“本质上还是被台湾偏执的政治斗争给洗脑了，以为大陆又穷又弱；而且他们的身份认同感也被分裂的台湾社会所撕碎，很多人并不知道自己到底是什么身份……‌‌‌‌”</p>
-<p>然而这些看似针对台独的争论火力，连自干五都被‌‌‌‌“烧‌‌‌‌”了一把。微博上知名的自干五林岳芳23日发出‌‌‌‌“休博公告‌‌‌‌”：‌‌‌‌“看着污言秽语的‌‌‌‌‘爱国小粉红’们，和我曾经的自干五战友们，他们的暴戾与疯狂，已经超越了正常讨论交流的范围。再次深深感觉到，热爱自己的国家，呼吁理性、呼唤和平，竟然如此不易！虽意犹未尽但心灰意冷，准备给心情放个长假。休博一个月‌‌‌‌”而点开林岳芳个人微博的留言中，可见到许多她口中的‌‌‌‌“爱国小粉红‌‌‌‌”对她的人身攻击。</p>
-<p>这些‌‌‌‌“小粉红‌‌‌‌”的出现，除了共青团的支持，中国异议漫画家‌‌‌‌“变态辣椒‌‌‌‌”认为背后有习近平政府的默许：‌‌‌‌“有些分析人士认为共青团擅自鼓励翻墙，恐怕会被中央打脸，但是现在看到，环球时报都出来发声力挺，说明习近平政府也想利用这种他们眼中的‌‌‌‌‘柔性攻势’‌‌‌‌”</p>
-<p>‌‌‌‌“变态辣椒‌‌‌‌”还认为，‌‌‌‌“小粉红‌‌‌‌”对对中共的辩证法思维应用娴熟。他指出，他们很多人知道八九六四，却说政府镇压得当，不然就没有今天的美好生活。‌‌‌‌“这些小粉红比过去的自干五更加自信和无耻，颠倒黑白的能力升级了。‌‌‌‌”</p>
-<p>目前，‌‌‌‌“小粉红‌‌‌‌”本身，在网络上已引来围观，舆论认为‌‌‌‌“小粉红‌‌‌‌”的言论可笑又无知。有人如此形容‌‌‌‌“小粉红‌‌‌‌”的思维，即是‌‌‌‌“只要出发点是爱国，那做什么都合理，你不认同就是卖国贼。‌‌‌‌”在微博上发表许多支持中共政府文章的林岳芳，也正是被‌‌‌‌“小粉红‌‌‌‌”骂为卖国贼的其中一人。</p>
-<p>关键词: 小粉红 自干五 爱国贼 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91-%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%A8%81%E5%8A%9B-%E7%9F%A5%E5%90%8D%E8%87%AA%E5%B9%B2%E4%BA%94%E4%B9%9F%E6%8A%95%E9%99%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%B2%B3%E8%8A%B3/?category=18271" rel="tag">林岳芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +764,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +774,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

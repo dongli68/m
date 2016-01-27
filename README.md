@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A%E7%B4%A2%E7%BD%97%E6%96%AF%EF%BC%8C%E5%86%8D%E5%81%9A%E7%A9%BA%E5%B0%B1%E6%8A%93%E4%BD%A0%E5%AB%96%E5%A8%BC/" target="cdt-mirror">【网络民议】严厉警告索罗斯，再做空就抓你嫖娼</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg" rel="attachment wp-att-383132"><img src="http://chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg" alt="老百姓的钱包是共产党的牵挂" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/02/老百姓的钱包是共产党的牵挂-300x224.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/02/老百姓的钱包是共产党的牵挂.jpg 520w" sizes="(max-width: 520px) 100vw, 520px"></a></p>
+<p><em>索罗斯近日在接受彭博电视<a href="http://www.nanzao.com/sc/national/15267f8fb7b5863/suo-luo-si-zhong-guo-jing-ji-hui-chu-xian-ying-zhu-lu">采访时称</a>，中国经济硬着陆已不可避免。随后中国官媒接连发布三篇评论文章对其进行笔伐口诛：</em></p>
+<p><strong><a href="http://finance.sina.com.cn/money/forex/forexroll/2016-01-24/doc-ifxnuvxc1814855.shtml">新华社严厉警告索罗斯们 做空人民币死路一条</a></strong>（1月23日）</p>
+<blockquote><p>新华社在23日凌晨发表了一篇措辞严厉的评论。在这篇名为《中国经济经济转型测试全球投资者的智慧和勇气》的英文评论中，新华社对人民币空头发出严重警告，鲁莽投机和恶意做空人民币将面临更高的交易成本，甚至担当严重的法律后果。他们势将遭受巨大损失。</p></blockquote>
+<p><strong><a href="http://paper.people.com.cn/rmrbhwb/html/2016-01/25/content_1650113.htm">人民日报海外版｜做空中国者终将败于市场</a></strong>（1月25日）</p>
+<blockquote><p>专家指出，尽管在市场经济下的做空机制有助于抑制泡沫并实现均衡价格，但仅凭转型期出现阵痛便做空中国显然并不是明智的判断。对思维观念没有与时俱进的投机者来说，轻易在中国经济新旧动力加速转换的过渡期做空，最终难免被市场所淘汰。</p></blockquote>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/2016/01/426676/">新华社｜做空者活在过去 中国却在把握当下 谋划明天 </a></strong>（1月26日）</p>
+<blockquote><p>这几天，国际资本市场阴霾密布，有人高调唱空中国经济，有人叫嚣做空亚洲市场。投机者就像嗅到了血腥的秃鹫，喧闹异常，兴奋异常。他们变得语态坚定，志得意满，不容置疑，仿佛只需布局空头，整个世界便唾手可得。</p>
+<p>作为主要利益攸关方，中国政府却显得不慌不忙，不急不躁，继续专注于结构性供给侧改革。中国何以有如此大的底气和定力？原因很简单：做空者活在过去，中国却在把握当下，谋划明天。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a title="PE投资客" href="http://weibo.com/516782857" target="_blank">@PE投资客</a> ：索罗斯： 我要做空搞死你！ A股：是么？ 索罗斯：我马上过来搞死你！ A股：不可能！ 索罗斯：没有我搞不死的股市！ A股大笑三声，拔出杀猪刀朝胸口自捅三刀，满地鲜血躺在地上。 A股：你来呀，我已经死了，哈哈哈，不是你搞死的，你输了！ 索罗斯：妈的，你够狠！不过死了我也要鞭尸！ <img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p><a href="http://weibo.com/n/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8FII__John_Bayshare?from=feed&loc=at" target="_blank">@中国模式II__John_Bayshare</a>:结果已定，这点上面比下面清楚。现在官媒开足火力，目的不是吓退索罗斯，也不是打败索罗斯，而是告诉国人，为未来几年 的困难负责的人，是索罗斯们，而不是伟大的中国人民！<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]"></p>
+<p>@演员孙海英:起夜想起两句口号：打倒索罗斯！索罗斯不投降，就要他灭亡！</p>
+<p>@国在_山河破:先得让索罗斯们入了党才能警告。</p>
+<p>@多收了三五手：再做空就抓你嫖娼</p>
+<p>@继续插：讓索羅斯上央視認罪。。。</p>
+<p>@佬酱香：你一新闻社，凭什么喝止人家，说的好像自己真的是狗似的</p>
+<p>@赔钱的大熊：树立个强大的敌人避免说自己是蠢货</p>
+<p>@牛来运转6：靠骂娘就能打赢货币战吗</p>
+<p>@超级呗塔：人家一句话，三个自信没了</p>
+<p>@浦来德庞剑锋：一个名叫索罗斯的投资者说了一下自己做空了亚洲货币。我们的人民日报、新华社连篇累牍地说他不能成功。是不是有点小题大作了？索罗斯也没说做空的是人民币啊！就算他做空的品种包含了人民币，既然人家没点破，我们何必这么吵吵嚷嚷呢？还没到4000点，也是你们吵吵嚷嚷。真弱！</p>
+<p>@C文武贝D：我看到从这些人嘴里说什么资本，发狂…我tmd就想呕吐！那些所谓的小老虎和大苍蝇…见资本没发狂？</p>
+<p>@老笨头321：自己家日子过不好，为什么总赖别人？</p>
+<p>@忍不住的忍：不要推卸责任，他叫你搞注册制？叫你熔断？叫你不停地发新股了吗？</p>
+<p>@lamoro：资本赚钱不对吗？经济下行提供了做空的条件，首先要考虑的是怎么应对而不是一味的谩骂嘲讽，恶语背后往往透露着不自信，自信的往往都很从容。</p>
+<p>@羊城网咖啡因：赖到没人可以赖，就赖索罗斯了。你们外汇管制成这个地步，还说是人家做空。中国的所谓官员，除了煽动普通老百姓转移注意力，可能就没别的擅长了。</p>
+<p>@愤怒的蜗牛o：其实觉得新华社和人民日报没完没了的纠缠于索罗斯达沃斯的讲话 既没气度也很幼稚 国际社会的游戏规则不同于国内 不是靠嗓门大 喊几嗓子就更化解危机的 需要的是用实力说话 国内那一套拿到国际上只会贻笑大方 徒留笑柄</p>
+<p>@火柴天堂06：如果。。。一个人能够把一个国家玩了，夫复何言！</p>
+<p>@wch1226：完了，一看就是真的有危险了</p>
+<p>@巧克力豆爱上甜甜圈：你这么吓，把别人没吓尿自己吓尿了怎么办</p>
+<p>@Neillori：这话听着好熟悉，对了，想起来了是:强烈谴责，严正抗议</p>
+<p>@口中有毒：喊什么口号  直接关闭股市 汇市 他做个锤子的空  反正我赵家人说了算</p>
+<p>@handlersong:官媒说的好像自己赚的钱比人家干净似得。索罗斯们赚的钱是靠着自己的本事，自己的判断。而写这篇文章的钱靠的是给别人吹嘘拍马。比人家脏多了。</p>
+<p>@雪域狗熊：一坨翔警告狗:你特么再吃我，我就臭死你，后果自负…哼</p>
+<p>@chen23547：哈哈，死路一条？我倒看看新华社怎么让索罗斯们死了，喷死？</p>
+<p>@曹阳YoungChopin：谁能让新华和日报别每天bb了，越bb说明问题越大</p>
+<p>@MissDoubleD：有被害妄想症啊，一会儿索罗斯做空，一会儿境外敌对干预，哪有。特别单纯，就是目前处于下降通道中，正常的，这个时候不能做反 了，多卖少买，少t，底仓不断下移，你t个自行车啊t。大盘看中信证券，它不起来板，你买个自行车啊，创板看顺网。上升通道时干满，下降通道时别妄想，市 场很单纯的好嘛。</p>
+<p>@r1971：索罗斯只说了一句话，我大天朝动用“散打社”反驳了好几天，这证明我们已经输了。他只是试探性的进攻了一下，我们能做的也只是动嘴了。</p>
+<p>@导火索一号：这也就骗骗大爷大妈这样的。转移视线的方法也太low了。你自己不出大问题，谁来谁敢来做空？</p>
+<p>@咕噜咕噜大泡泡oO0：老索可不要晚节不保啊，小心被嫖娼</p>
+<p>@飞翔恋舞：哦！人家随便说一下怕成这样！我已经动员全家买美元了。</p>
+<p>@九拉克：转移视线是他们的看家本领，自己经济不行，非赖别人做空。</p>
+<p>@Loghyr：某娱乐日报说：「再做空，我们死给你看，哼！」</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A%E7%B4%A2%E7%BD%97%E6%96%AF%EF%BC%8C%E5%86%8D%E5%81%9A%E7%A9%BA%E5%B0%B1%E6%8A%93%E4%BD%A0%E5%AB%96%E5%A8%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF/?category=18271" rel="tag">索罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/426660/" target="cdt-mirror">王小能：“小粉红”，究竟是什么样的红？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg" rel="attachment wp-att-426663"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg" alt="643c6f05gw1f0df7q49kij211y0lcgmv" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv-768x431.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px"></a></p>
@@ -717,42 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E9%AB%98%E5%A4%A7%E4%B8%8A%E5%81%87%E6%83%B3%E6%95%8C/" target="cdt-mirror">东网 | 赵思乐：高大上假想敌</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-%E4%B8%8B%E5%8D%885.53.29.png" alt="Screen Shot 2016-01-23 at 下午5.53.29" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.53.29-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-23-at-下午5.53.29.png 575w" sizes="(max-width: 550px) 100vw, 550px"><br><span>“小粉红”的爱国青年们翻墙“出征”，是一场“网络版黄祸”</span></p>
-<p>自从1月3日在北京机场被抓，瑞典籍人权工作者彼得·达林已经被关押超过两周，他以涉嫌“危害国家安全犯罪”被中国国家安全部门处以“指定地点监视居住”的强制措施。也就是说，彼得无需审判就被中国警方“合法地”关押在秘密地点，尽管这是联合国《人权公约》禁止的情况，尽管中国签署过《人权公约》。</p>
-<p>同时失踪的还有他的女朋友，中国籍女孩潘金玲。彼得的同事迈克尔·卡斯特事后向媒体表示，在乘飞机离开前的数日，彼得感到紧张不安，决定暂时离开中国首都。</p>
-<p>1月9日，彼得的中国同事王秋实律师也与外界失去联系，他同时是“709律师大抓捕”中被关押的王全璋的代理律师。他原本计划在前一天与王全璋的妻子及其他该案代理律师一同去天津，同办案机关交涉，但遭警察阻拦未能成行。 1月12日，王秋实的家人收到通知称，他已被北京市国家安全局执行监视居住。同时，一封王秋实留给父母的信被他的朋友释出，信的第一句是：“在你们看到这封信的时候，儿子应已失去自由。”落款是1月4日，彼得被抓后一天。</p>
-<p>1月20日，中国中央电视台播出“新闻调查”，彼得和一位“王某”在节目中胡子拉碴地出现了。彼得对着镜头说他对于自己的行为十分后悔：“我在中国从事了违反中国法律的活动，伤害了中国政府和中国人民，为此我要深深致歉。”他还承认，维权人士幸清贤意图帮助“709”被捕律师王宇的儿子包卓轩偷渡出境的行为，是受到他的资助的。王某也在镜头前“作证”称，彼得的企图就是颠覆中国国家政权。</p>
-<p>央视报道还称，彼得与锋锐律师事务所王全璋合作，在香港成立了名为Joint Development Institute Limited(简称JDI)的机构，在大陆以“中国维权紧急援助组”的名义活动，他们“通过被培训人员，插手社会热点问题和敏感案事件，蓄意激化一些原本并不严重的矛盾纠纷，煽动群众对抗政府，意图制造群体性事件。”</p>
-<p>但央视的报道迅速遭遇“打脸”。</p>
-<p>目前已回到美国的JDI工作人员迈克尔向媒体澄清说，虽然王全璋是援助组的董事，但自2014年他加入锋锐律师事务所，王全璋对援助组的参与已经很少，他在锋锐的工作也与援助组无关。 “将援助组与锋锐联系在一起的确是错的，因为两者之间真的没有关联。”他说。</p>
-<p>锋锐律师事务所是在“709”中受到主要打击的机构，其工作人员周世锋、王宇、王全璋等已被中国警方以“颠覆国家政权罪”逮捕。</p>
-<p>迈克尔认为，彼得明显是被迫认罪，“说彼得有参与其中……似乎是想加重对那些维权律师的指控。”他说，这向中国维权人士和国际社会发出了非常强烈的信号：“任何以法治和人权，挑战政府对法治和人权定义的垄断的行为，都会被盯上，并面临报复。”</p>
-<p>迈克尔还澄清，虽然援助组曾资助幸清贤在四川设立一个法律援助站，但两者之间的合作关系在2014年初就结束了，援助组没有参与包卓轩的逃离行动。</p>
-<p>两方各执一词，但谁的可信度更高有简单的判断方法：谁处于更自由的状态。</p>
-<p>自2013年的“薛蛮子嫖娼事件”之后，“上央视”几乎成了“官方打压套餐”的必选菜，从网络红人郭美美，21世纪传媒集团的沈灏，到709案、张六毛死亡事件、劳工维权案、浦志强案等等民间打压案件，都上央视走了一遭。惯例是新华社先发通稿，全国主流媒体统一口径，然后央视出马，绘声绘色地铺陈，让还没经过司法程序的当事人在电视上“向全国人民认罪”。</p>
-<p>中国当局如此使用被全球传统知识精英视为讲坛的新闻媒体，无怪乎全球影响力最大的记者联盟“记者无国界”已向欧盟要求对央视和新华社实施制裁，将它们开除出新闻媒体的行列——总不能把独裁者的布告栏视为媒体吧。</p>
-<p>但央视的报道也不是毫无意义，在向外界展示官方打压背后的意图和逻辑方面，它作出了重大贡献。</p>
-<p>通过将彼得提供的人道援助和法律培训敍述为犯罪，央视替中国当局向民众讲了这样一个故事：外国势力出钱出人，在中国培养维权律师、煽动访民，通过塑造维权领袖、制造官民冲突，要颠覆中国共产党的政权。</p>
-<p>这个故事在冷战时期叫做“和平演变”，在现在叫做“颜色革命”。</p>
-<p>在去年的香港占中大抓捕，和今年年初的追杀权利NGO，虽然每个被抓者都被反覆讯问了两种问题：跟境外有什么联系；要怎么搅乱中国社会，但这个故事都没成功讲出来。这一次，终于在维权律师大案中讲成了。</p>
-<p>通过这个故事，普通民众收到三个讯息：一、你们三天两头听说的，社会上这儿那儿发生的种种不公和矛盾，都不是真的，都不是政府和制度的错；二、凡是有人说政府不好，凡是有人跟政府发生冲突，他肯定是在故意捣乱，背后肯定有外国势力在指使；三、你要是像他们一样说政府不好，跟政府闹矛盾，你就中了外国势力的计、称了他们的心。 ——“新闻不都说了嘛！”</p>
-<p>于是，一个“高大上”的敌人形象出现了，它叫“境外反华势力”。它层层伪装、无处不在，它用心险恶、布局精密，要对付这么高大上的敌人只有一个办法：永远站在政府的一边。</p>
-<p>极权永远需要敌人，敌人越高大上越好，形势越严峻越好，这样才有理由把资源和权力永远抓在手上。为了保持高大上形象，敌人必须不断更新，从地富反坏右，到党内大炸弹大毒草，到苏联修正主义，到美国帝国主义，到日本军国主义，现在又轮到台独港独和颜色革命。</p>
-<p>在召唤凝聚力和合法性上，共产主义在使用了30年后终于失效，民族主义已经用了40年，似乎还不能说是强弩之末。</p>
-<p>近日，被戏称为“小粉红”的爱国青年们翻墙“出征”到FB骂蔡英文，其中一位在谈自己的动力时说，自己在“经历历史”：“希望推到柏林墙的那个时候，可以在墙上留下自己的手印。”这一个经典案例说明，民族主义洗脑与模糊的启蒙话语相结合，会制造怎样一种惊人的扭曲逻辑，再加上互联网，就是一场“网络版黄祸”。</p>
-<p>这仅是民族主义40年养蛊的牛刀一亮，线下版不妨各自想像。</p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E9%AB%98%E5%A4%A7%E4%B8%8A%E5%81%87%E6%83%B3%E6%95%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%85%B8/?category=18271" rel="tag">瑞典</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E5%85%B8%E4%BA%BA%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">瑞典人彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

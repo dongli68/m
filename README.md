@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B2%89%E9%BB%98%E6%8A%91%E6%88%96%E6%9A%B4%E5%8A%9B%EF%BC%9A%E6%B0%91%E4%BC%97%E6%94%BF%E6%B2%BB%E5%BF%83%E6%80%81%E7%9A%84%E6%9E%81%E7%AB%AF%E5%8C%96/" target="cdt-mirror">于建嵘的东书房｜沉默抑或暴力：民众政治心态的极端化</a>
+</h2>
+<p><p><em>微信公号 于建嵘的东书房 (ID: yujianrong1) 原文已被和谐。以下内容来自<a href="http://www.jiupaicn.com/2016/0128/28379.html">九派</a>：</em></p>
+<p>经三十多年的高速发展，今天的中国在获得巨大的物质进步的同时，也积累了相当的社会和政治问题。整个基层的政治生态不断恶化，出现一系列令人担忧的状况。就基层政治生态问题来说，之前学界主要关注的是基层政权的蜕化。但是近年来，随着一些极端社会事件的出现和仇官仇富情绪的蔓延，普通民众的政治心态的极端化开始引起学界和整个社会的普遍关注。根据多年来对中国社会问题的关注和研究，我发现，当前中国民众的政治心态可以概括为两种基本类型：</p>
+<p><strong>一、压制下的无奈：政治冷漠</strong></p>
+<p>这种政治冷漠主要表现为两种形式，一是在积极使用自己的政治权利方面，不愿主动行使政治权利和参与政治活动。当前我国基层民主选举活动都需要基层党政组织大力动员，中国的人大代表和村委选举依旧属于“动员型选举”，民众不是将投票看作维护自己利益的重要民主权利，反而视为完成基层组织交待的任务。二是在权益受到侵害或者对政治体系不满时，也不主动行使救济权。不是以明示的方式对政治系统表达自己的不满或者采用制度化渠道救济自己的权益，而是采用消极抵抗的方式。或者将不满情绪压制在心底，或者对基层政权的施政行为不予配合，甚至通过破坏公物等行为发泄对公共权威的不满等等。</p>
+<p>民众对政治不关心的现象在现今世界上很多国家都存在，但是其表现形态与形成原因各有不同。当今时代，即便是发达的民主国家诸如英美，普通民众对政治的参与程度也是有限的，民众的精力主要投入于经济活动中，如何改善个人和家庭的生活是其首要关心的问题，而对国家的大政方针等较少关心，甚至很多具有悠久民主传统的国家投票率也在不断降低。但是这种低度政治参与当前我国民众的政治冷漠完全是两个性质的现象，不能混为一谈。正如刘瑜在《民主的细节》一书中所指出的那样，如今很多发达民主国家的民众对投票等政治参与活动不感兴趣，是因为这些国家的基本政治体系和政治原则是稳定的，不管换成谁做政治领导人，整个社会的运作原则和基本政策不会有大的变化，只是在具体的社会经济政策上进行调整。在这种情况下，无论哪个执政党上台，对社会基本生活的影响不大，不会发生重大的发展方向的逆转，民众自然将主要精力都投入进个人生活领域。</p>
+<p>反观我国当前的现实，各种结构性的社会问题已广为诟病，严重的官民对立情绪也成为公认的事实，整个社会迫切希望进行体制性的改革，这与民众对政治参与的冷漠形成鲜明对比。这是因为，我国民众的政治冷漠和对基层民主选举的不感兴趣，并非是对政治体系没有参与的要求。相反，他们迫切需要政治体系能够有效地回应他们的诉求，信访系统的拥堵正是一个有力的证明。因此，这种低度的政治参与和政治冷漠主要是由于我们缺乏制度化的有效的参与渠道造成的，甚至长期以来我们的政治系统是打压公民自主的政治参与行为的。地方人大和村委会的权力虚化和长期以来的动员型选举，一方面压制了民众的自主选择权，导致基层民主选举成为走程序的形式主义。另一方面，导致基层民主选举与基层治理中的决策权监督权脱离，民众无法通过选举自己的代表向政治体系输入其政治诉求，也无法通过代表限制已经产生的政治领导人的权力。民众普遍感觉无论谁当人大代表还是村委会成员，都对自己所在地区的实际政治生活起不到多大作用，对自己的权益几乎没有什么影响，他们自然对此类政治参与毫无兴趣。</p>
+<p>因此，我国民众当前的政治冷漠其实是一种压制之下的无奈，并非没有政治参与诉求，而是缺乏真实有效的参与渠道；同时，个体自主性的政治参与又面临政治系统的打压和对政治性风险的担忧，噤若寒蝉。这种压抑的政治参与诉求和沉默反抗的情绪是非常危险的，它们并不会随着时间自然消逝，反而会逐渐累积，等累积到了一定程度或者有一个诱发点，就能将日积月累的政治压抑集中宣泄出来，引发暴力反抗。</p>
+<p><strong>二、藏怒宿怨的清算：暴力反抗</strong></p>
+<p>我国公民极端化政治心态的第二种典型就是对现有政治权威的暴力反抗，这种暴力反抗形式既有个体性的，也有群体性的。个体性的暴力反抗诸如对自我进行暴力伤害，暴力攻击国家机关及其工作人员，诸如唐福珍自焚，杀警察的杨佳，以及屡见报端的小贩杀伤城管，最近广西发生的爆炸案等，都属于这类政治心态的典型表现。个体性的暴力反抗具体原因是多种多样的，一般都是个体在其权益遭受侵害或者其主观认为自己权益遭受了侵害而无法得到制度性的救济，即“受了委屈，求告无门”的情况下引发的。虽然具体原因各有不同，但是其背后深层次的心理背景都是不信任国家机关及其工作人员，将国家机关在心理中预设为一个倾向于恃强凌弱的主体，甚至在内心深处潜藏着对整个社会的仇恨情绪，认为自己一直是社会中的弱者。在这样情绪化的认识之下，往往将许多国家机关的行为进行过度解读，一旦有具体的事件将其引入与国家机关的矛盾之中，就非常容易引发极端行为。表面上看，个体暴力反抗的极端行为是因为一次具体的矛盾冲突引发的，但是实际上，导致这种极端行为的心态是日积月累造成的，是多年来压抑的怨愤得不到有效的纾解而逐渐产生的，所谓冰冻三尺，非一日之寒，这也是制度化政治参与遭到压制所导致的必然结果。</p>
+<p>与个体的暴力反抗相比，群体性的暴力反抗心态对整个政治系统造成的冲击则更大。我之前的研究中曾经提到了一个概念叫“社会泄愤事件”，指的就是这样一种类似的政治心态下近年来的群体性事件呈现出一个新的特点，即无直接利益相关者的广泛参加。参与暴力活动的绝大多数人与事件并没有直接的关系，并不是因为自身的利益受损才引发暴力反抗行为的，他们对于事件的来龙去脉也并不了解，而是简单地认定就是强势者一方进行了欺压弱者的行为。石首事件中，不相识的民众因为和他们没有直接关系的厨师死亡事件，愤怒地走上街头，用砖石袭击武警。瓮安事件中，许多与死者并无关系的村民走上街头，围攻政府，要求“彻查真相”。这些事件背后，都有民众无名的怒火，这不是一种“具体”的气、愤、怨、怒，不是特定之人对特定之事的怒气冲天，更不同于钉子户因自身权益受损、杨佳自认人格尊严受到侵犯时的愤怒。而是不特定之人对特定之事的集体性的义愤填膺；或者是特定之人对不特定之事产生的愤怒。当然，这二者也存在重合之处，简而言之就是不特定之人因不特定之事引发的普遍和长期的愤怒，因为存在这样一个共同、本质的特征，我将其称之为“抽象愤怒”，以与一人一事的愤怒相区别。</p>
+<p>这种抽象愤怒与社会泄愤事件，可以说是当前中国普通民众中极端化政治心态的典型表现。这种极端化的政治心态日益将整个社会割裂为强者与弱者对立的两极，并心理预设强者一定是恃强凌弱为富不仁的，而弱者一定是饱受摧残求告无门的。在一个政府权力与公民权利界限不清、公权力缺乏有效监督和制约的社会，在一个民众无法有效组织共同表达、共同争取利益的社会，弱者不仅仅是我们日常所说的经济上的贫困者，也不仅仅是社会的边缘化群体，而是一个相对的概念。面对失范的公权力，每一个个体都是弱者，面对社会规则不确定的后果，心中都充满了恐惧。为了克服这种恐惧，让自己的未来更具确定性，有些人会更加追求权力和财富，力争成为制定规则、利用规则的强者，而做不到这一点的人则会用其它方法来排解自己的焦虑，无法克服恐惧的绝望者则会成为潜在的社会的破坏者。而对待恐惧的这两种方式，又会造成强者掠夺弱者、弱者用暴力反抗强者，两者形成恶性循环。这样的极端政治心态发展下去，将会把我们整个民族拖入灾难的深渊。因此，我们必须有意识地培育中间理性的政治心态，整个社会的发展和基层治理才能走上理性安定的轨道。</p>
+<p><strong>三、道路与方法</strong></p>
+<p>关于如何塑造中间理性的政治心态，学界开出了各种药方。有的强调公民教育，思想启蒙等，认为今天中国公民政治心态极端化主要是未受到理想的公民教育，公民政治素质太低；也有学者从经济收入的层面考虑，强调形成以中产阶级为主体的社会结构，认为纺锤式的社会结构自然会催生出理性政治心态和公民精神。这些看法从不同的角度出发，都有一定的道理，尤其是强调了经济基础和社会结构对于政治心态的重要性。但是这种思考方式的一个问题是混淆了经济收入与政治心态之间的因果关系。我认为并非经济收入达到一定水平的社会阶层自然就会具备理性的政治心态。而正是中产阶级占主体的社会结构有效地形成了对政府权力的制约，并形成社会有效的自治体系，社会绝大多数成员皆能接受社会的基本规则，对未来生活有稳定的预期。在这样的政治制度与社会框架之下，才能培育出理性中间的公民心态和政治态度。</p>
+<p>因此，要想改变今天中国民众政治心态的极端化问题，制度性的改革是第一位的，尤其是政治体制的改革。只有破除极端政治心态滋生的社会土壤和制度结构，才能塑造理性中间的政治心态。我不否认公民教育和思想启蒙的重要意义，但是仔细审视当前中国民众极端化政治心态的成因，我认为更重要的是约束公权力，重建一个基本平衡的社会规则体系。正常的社会也不能完全避免反社会的“杀人狂”，但不正常的社会，会逼得更多正常人走极端。</p>
+<p>具体说来，应做到以下三点：第一，是建立起制度化的利益表达渠道，核心是建立真正的代议制度，落实各级人民代表大会的权力，使民众日常的政治参与需求能够基本获得满足。第二，是建立有权威的司法体系，重建司法维护社会正义，化解社会矛盾的功能，使得民众的权益能够得到制度化地救济渠道，而不再需要采取极端化行为来换取公平正义。第三是明晰的产权，使各种社会主体，无论是公有财产还是私有财产都能得到有效地保护。才能避免一方面公权力肆意掠夺私有财产；另一方面，属于全民的公有财产又遭到侵吞瓜分，流入私人的腰包，加剧整个社会收入结构的失衡，引发各种社会矛盾。这三项都没有突破现行的宪法框架，都属于渐进式的改革方式。</p>
+<p>另外，需要放松思想和言论管制，建立独立自由的现代传媒系统。让社会中的不满情绪和本质问题，能够在报纸、文学作品、电影电视等主流媒体中得到表达和宣泄，避免整个社会怨恨情绪的积累形成威胁政治系统的定时炸弹。同时，媒体能够形成对政府权力的有效制约，也是社会批评政府的重要渠道，当社会对政权的不满能够得到正常理性的宣泄之后，极端化的政治心态也就失去了滋长蔓延的基础。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B2%89%E9%BB%98%E6%8A%91%E6%88%96%E6%9A%B4%E5%8A%9B%EF%BC%9A%E6%B0%91%E4%BC%97%E6%94%BF%E6%B2%BB%E5%BF%83%E6%80%81%E7%9A%84%E6%9E%81%E7%AB%AF%E5%8C%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%BE%AE%E8%BD%AFbing%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E7%96%91%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B1%8F%E8%94%BD/" target="cdt-mirror">月光博客｜微软Bing搜索引擎疑被中国屏蔽</a>
+</h2>
+<p><p>据网友爆料，中国多地今日无法打开微软必应搜索引擎cn.bing.com ，经过测试，直接访问无法打开必应，而使用VPN代理则可以正常访问。</p>
+<p>使用Ping命令测试，会发现微软Bing的IP地址在国内被解析为日本(202.89.233.101)和美国(204.79.197.200)两个IP，其中日本IP显示超时。</p>
+<p>根据traceroute测试（tracert cn.bing.com），微软的IP地址在中国境内被屏蔽，因此可以排除微软服务自身的故障，可以确认是在中国国内将微软Bing的IP进行屏蔽。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/4495_2.jpg" rel="attachment wp-att-426780"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4495_2.jpg" alt="4495_2" width="500" height="481" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4495_2-300x289.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/4495_2.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
+<p>Bing（必应）是微软公司于2009年推出的网络搜索引擎，作为全球领先的搜索引擎之一，必应已成为北美地区第二大搜索引擎，提供了网页、图片、视 频、词典、翻译、资讯、地图等全球信息搜索服务。自从谷歌被中国屏蔽后，微软的Bing成为中国网民较为常用的国外搜索引擎。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/4495_1.jpg" rel="attachment wp-att-426779"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4495_1.jpg" alt="4495_1" width="500" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4495_1-300x220.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/4495_1.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
+<p><strong><em>作者转载要求：</em></strong><br><em><a href="http://www.williamlong.info/">月光博客</a>文章均为原创，转载请以链接形式标明本文地址</em></p>
+<p>【编者注】部分网民在新浪微博称仍可正常访问必应，也有只能通过移动端访问的反馈。同时有疑似微软员工称该公司已着手处理，暗示为微软方的技术故障。</p>
+<blockquote><p>@蠕动混沌阿卡林：这个建议不要太早下定论，免得被某些人抓住把柄。改hosts或者换DNS服务器8.8.8.8即可正常访问，经抓包也确定原因是国内大部分DNS都会解析到202.89.233.101，而这个IP也是微软必应自家的，即使改hosts强制使用这个ip但挂上代理照样无法访问。估计是CDN挂了。</p>
+<p>@winguse：谢谢反馈，我们工程人员已经在处里, 我们会再公告细节</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%BE%AE%E8%BD%AFbing%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E7%96%91%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B1%8F%E8%94%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E8%BD%AF/?category=18271" rel="tag">微软</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8F%BC%E4%B8%80%E8%BE%88%E5%AD%90%E9%A3%9E%E7%9B%98%E4%BD%A0%E4%B9%9F%E4%B8%8D%E5%A7%93%E8%B5%B5/" target="cdt-mirror">【网络民议】叼一辈子飞盘你也不姓赵</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" rel="attachment wp-att-422784"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225"></a></p>
@@ -571,68 +617,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E7%91%9E%E5%85%B8%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8%E4%BA%BA%E5%A3%AB%E5%BD%BC%E5%BE%97%C2%B7%E8%BE%BE%E6%9E%97/" target="cdt-mirror">BBC | 中国释放瑞典人权活动人士彼得·达林</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/160122050503_china_sweden_peter_dahlin_976x549_afp.jpg" alt="彼得·达林" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/160122050503_china_sweden_peter_dahlin_976x549_afp-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/160122050503_china_sweden_peter_dahlin_976x549_afp.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>被控威胁中国国家安全的瑞典公民彼得·达林已获释，并被中国当局驱逐出境。</p></div>
-<p><strong>被控危害中国国家安全的瑞典公民彼得·达林已获释，并被中国当局驱逐出境。瑞典外交部证实达林已离开中国。</strong></p>
-<p>瑞典人权活动人士彼得·达林（Peter Dahlin）现年35岁，曾在2009年与中国维权律师王全璋在香港共同创立“人权卫士紧急救援协会”，关注中国人权，并在北京营运非政府组织“中国紧急行动工作组”（Chinese Urgent Action Working Group）。</p>
-<p>位于美国波士顿的“中国紧急行动工作组”发言人麦克尔·卡斯特（Michael Caster）在社交网站“推特”上证实，在被中国秘密拘押三周之后，达林已被中国释放并驱逐，他的中国籍女友潘金玲（Pan Jinling）也已获释，但没有离开中国。</p>
-<p>瑞典外交部长瓦尔斯特伦此前在一份声明中说：“对于彼得·达林现在能和自己在瑞典的家人团聚，我表示欢迎。这是瑞典外交部和中方紧密联络的结果。”</p>
-<p>“中国紧急行动工作组”发言人卡斯特表示，对他的同事和友人能“安全返回瑞典”，感到高兴。</p>
-<p>英国《卫报》引述卡斯特说，达林获释一事不能模糊这样一个事实，即达林旨在提供支持的很多中国人权活动人士仍被当局拘押，他们所做的事情不过是促进和保护所有中国公民的人权。</p>
-<p>卡斯特还表示，他希望国际社会继续向对待达林的个案一样，继续关注他们的境况。</p>
-<p>《卫报》说，目前尚不清楚达林令人意外获释的背景。</p>
-<p>达林据信是今年1月4日在准备登机前往泰国途中失踪，并据信在一次严打中被中国拘捕。他被拘禁时正赶上中国计划通过新法律来控制境外非政府组织的活动，此举引来海外组织的普遍关切。</p>
-<p>达林所在的组织称，他们在中国为通过司法途径向政府维权的律师提供培训和支持。</p>
-<p>中国官方新华社1月19日称，中国国家安全部门近日破获瑞典籍公民彼得·达林与北京锋瑞律师事务所从事“危害国家安全”活动一案。达林被控“伙同”已被中国当局批捕的北京锋瑞律师事务所律师王全璋“蓄意激化矛盾纠纷，煽动群众对抗政府”。</p>
-<p>新华社报道则指控达林的“中国紧急行动工作组”在中国建立法律援助站，资助和培训无照“律师”和少数访民，以此收集中国各类负面情况，向境外提供“中国人权报告”。</p>
-<p>中国官媒报道，达林与锋锐律师事务所有连结，亦有向维权人士提供资金。</p>
-<p>中国中央电视台上周播出了达林“公开忏悔”的视频，称达林“对所犯罪行供认不讳”。不过，外界有看法质疑，达林疑受压而被迫公开认错。</p>
-<p>美国国务院副发言人唐纳（Mark C. Toner）就事件回应说：“在中国，近日越来越多人看来被逼在官方媒体承认干犯罪行，而这些人包括欧洲公民，美国对此感到关注。”</p>
-<p>另一位瑞典公民、中国出生的香港书商桂民海在去年底于泰国失踪后，日前也以被警方拘押的形象出现在中国中央电视台上。</p>
-<p>桂民海承认数年前曾酒驾导致一名少女死亡。他在中国央视播出的视频中说：“我不希望任何个人和机构，包括瑞典政府，介入干预我的事情。”</p>
-<p>但瑞典外交部长瓦尔斯特伦称，她对桂民海表示“严重关切”。</p>
-<p>她说：“我们正不断努力，希望能得到一个他本人现况的清晰图景，并尽全力希望能有和他会面的可能。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E7%91%9E%E5%85%B8%E4%BA%BA%E6%9D%83%E6%B4%BB%E5%8A%A8%E4%BA%BA%E5%A3%AB%E5%BD%BC%E5%BE%97%C2%B7%E8%BE%BE%E6%9E%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%B4%A7%E6%80%A5%E8%A1%8C%E5%8A%A8%E5%B7%A5%E4%BD%9C%E7%BB%84/?category=18271" rel="tag">中国紧急行动工作组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%BC%E5%BE%97%C2%B7%E8%BE%BE%E6%9E%97/?category=18271" rel="tag">彼得·达林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%B0%91%E6%B5%B7/?category=18271" rel="tag">桂民海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%8B%E9%94%90%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">锋锐律师事务所</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%A0%E6%B4%B2%EF%BC%9A%E4%BD%A0%E6%98%AF%E5%90%A6%E8%AE%B0%E5%BE%97-08%E6%B1%B6%E5%B7%9D%E5%90%8E%E7%9A%84%E5%8F%B0%E6%B9%BE%E8%B5%88%E7%81%BE%EF%BC%9F/" target="cdt-mirror">张洲：你是否记得 08汶川后的台湾赈灾？</a>
-</h2>
-<p><p>我想起08年，台湾对川捐款数额超过其他所有地区和国家的总和（20亿）。呵，那时执政得是扁政府、民进党。</p>
-<p>台震后义演，几个从不同台的（菲哥，宪哥，蔡康永，小燕姐等）主持人站在了一起，马英九夫妇（包括朱立伦等政界，商界的著名人士）都到场亲自接听捐助热线。台湾艺人几乎悉数莅临，徐华凤带癌前来，江蕙更是哽咽到无法唱歌。</p>
-<p>那一刻，合得来的、合不来的台湾艺人们聚拢在一起，没有私斗，满满都是爱。艺人们千里万里的赶来，用他们的艺能召唤民众的善良和慷慨。4个小时的电视直播，历来没有过。台湾不跟大陆一样，没有春晚之类的东西。试想，如果那4个小时都换成广告时间，电视台一定赚翻了吧？可是，并没有。非但没有，接下来的几天，中视，台视，华视等台湾大型媒体电视台分别搞了赈灾晚会，那一刻，台湾人能给大陆多一点温暖就给大陆多一点温暖，能做多少就做多少。电视里说，有很多小朋友，把自己多年积攒并爱惜的扑满打破了，把零钱爱心汇给四川。现在，那些小朋友长大了。</p>
-<p>这次赈灾，那个“台独”徐若瑄来了，呆呆地“台独”NoNo也来了，那个万人骂的陶晶莹，哭到说不连句——她，原本是多么快乐的一个人啊！还有“台独”张惠妹，因为在外地演出无法来到现场，她挤进电话来捐了10场演唱会的所有收入。那个只舍得吃便当的马英九一下也捐了20万。</p>
-<p>艺人是要吃饭的，当有人问起他们来自哪里的时候，台湾艺人究竟怎么回答才能入爷奶们的耳朵呢？说中国人，台湾傻逼反对，说台湾人，中国傻逼反对。他们一边对大陆献着爱心，一边在夹缝里不知所措。你，于心何忍？</p>
-<p>震后，年逾六十的台湾大地工程博士欧晋德先生一天三次致电问询大陆，什么时候可以开通航道让他们来内地救灾，台湾媒体刊登了大陆方面的回复：婉拒。最后通过协商，只允22名台湾救援队入境。药品可以带，最后带了2吨。</p>
-<p>任何一个台湾人从来没有惹到过我，惹到过你，或者惹到过我们周边任何一个亲友邻居，他们只是一群快乐善良又跟我们同文同种的岛民。前年，我姐姐全家赴台岛游，每到一处感受到的都是跟这边截然不同的风貌，台湾人热情，好客，整洁，人人彬彬有礼，处处干净卫生。政府可以随便参观，公务员和蔼客气。我想知道，人家怎么惹到咱了？</p>
-<p>如今，部分所谓的“义勇军”用“寸草不生”去回报那片温暖，呵呵，畜生。</p>
-<p>我们的教育真的出了问题。我们的教科书里没有纲常，不存伦理。</p>
-<p>我们的社会变的冷漠，老人摔倒了不敢扶，自己有冤也无处申。</p>
-<p>我们的国歌，要“把我们的血肉,筑成我们新的长城，冒着敌人的炮火前进”，而我们的儿歌则须“坚决斗争，把敌人消灭干净”……这些词汇，不是温暖的。</p>
-<p>每隔一阵，总会有些视频流出，片中数人欺一，凌辱打骂，那些挨打的女生也不知抗争。只见打人得是凶神恶煞的青少年，挨打的是行尸走肉的木乃伊。如果有人认为这样是正确的，那你开心就好。</p>
-<p>习马会时，马说：可不可以撤掉那些飞弹。回道：不是针对台湾的。后来，他们握手了，他们都能握手，你们却要把台湾铲平。恩，我当真的信。</p>
-<p>几十年了，国民党和民进党任何执政方，总是企图和呼吁在国际教科医文等组织为台湾争取一席之地，哪怕是个学习的机会。可他们得到的结果总是徒劳：有中无台。政府的事，我们不懂。我国民众都知道，与我建交国，须与台湾断交。我们我们我们，他们他们他们，试问，谁曾容台湾于天下？记得陈水扁和克林顿那张耻辱的握手照片吗？我们这边齐齐地说陈是小丑，是贱货。可就是那张照片，让很多台湾人热泪盈眶：看，我们的领导人为了我们这一岛的人，居然这么悲惨，这么低格。</p>
-<p>我喜欢台湾，也喜欢台湾人，我只愿他们快乐，其余的我左右不了，也不想去左右。但我从心里不愿意台湾分离出去，之所以不愿意，不过是自私的想：“这么好的一个地方，这么好的一些人，为什么不可以是一家呢？”所以，我个人是反感台独的。</p>
-<p>但我更知道，台湾人也舍不得大陆。我们有960万平方公里的疆域，我们有数不清的美景，有吃不腻的美食，我们有几千年璀璨的文化，我们有跟台湾人一样的聪慧，我们有帅哥和美女，我们有勤劳和速度，有高山和草原，有大江和大河，有雪原和湿地，我们大陆人的本性也是很善良很温暖的啊，我们这一方水土的人也从不去招惹是非啊！为什么我们不能抱在一起呢？后来我又想了想，我若是台湾人也喜欢这960万，但如果这960万平方公里充满了张牙舞爪地红卫兵小将，那么，我的心是抑是扬呢？</p>
-<p>动辄，这边就喊出“台湾同胞”4个字。于同胞情感，人家做到了，并且做得不差。好多次大陆有难，台湾人都伸出了援手，我，曾数度感激台湾人的善良和友爱。</p>
-<p>正如这场赈灾义演中那位很严肃的老师所言：“不管你是什么颜色，我们的心都是热的，血都是红的”。在这里，我个人希望台湾人能相信并且坚信，大陆的绝大多数人是有爱并懂得感恩，我们绝大多数人都有着正确的人生观和价值观，我们期望这个世界上的每一寸土地幸福祥和，我们中有百分之九十的人是向往和平的，百分之九十，这个比例可以吗？</p>
-<p>望海峡，长亭更短亭。我们不需要黄安，不需要任何地方寸草不生。我们需要和付出的应该是：爱，把爱传出去。</p>
-<p>好久没有写这么矫情的文章了，附带一个那场义演的视频地址，也敬请大家有空时看一遍，你的心门会敞亮许多：<a href="http://t.cn/RbRf3wu">http://t.cn/RbRf3wu</a></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6f49ad51jw1f0adm0uggoj20h20c9my3.jpg" alt="6f49ad51jw1f0adm0uggoj20h20c9my3" width="550" height="395" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6f49ad51jw1f0adm0uggoj20h20c9my3-300x215.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6f49ad51jw1f0adm0uggoj20h20c9my3.jpg 614w" sizes="(max-width: 550px) 100vw, 550px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6f49ad51jw1f0adm15cswj20hq0c5juc.jpg" alt="6f49ad51jw1f0adm15cswj20hq0c5juc" width="550" height="377"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6f49ad51jw1f0adm192q4j20hc0c1js4.jpg" alt="6f49ad51jw1f0adm192q4j20hc0c1js4" width="550" height="382" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6f49ad51jw1f0adm192q4j20hc0c1js4-300x208.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6f49ad51jw1f0adm192q4j20hc0c1js4.jpg 624w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BC%A0%E6%B4%B2%EF%BC%9A%E4%BD%A0%E6%98%AF%E5%90%A6%E8%AE%B0%E5%BE%97-08%E6%B1%B6%E5%B7%9D%E5%90%8E%E7%9A%84%E5%8F%B0%E6%B9%BE%E8%B5%88%E7%81%BE%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E8%B5%88%E7%81%BE/?category=18271" rel="tag">台湾赈灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A3%E6%88%98/?category=18271" rel="tag">圣战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -644,7 +628,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -654,5 +638,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

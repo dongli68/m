@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A9%E5%B1%B1%E7%BD%91%EF%BD%9C%E6%96%B0%E7%96%86%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%BE%9D%E6%B3%95%E6%9F%A5%E5%A4%84%E4%B8%A4%E5%AE%B6%E4%BC%A0%E6%92%AD%E9%9D%9E%E6%B3%95%E5%86%85%E5%AE%B9%E7%9A%84/" target="cdt-mirror">天山网｜新疆网信办依法查处两家传播非法内容的网站</a>
+</h2>
+<p><p>天山网讯 （记者田山报道）记者从新疆网信办获悉，近日该办依法严肃查处了653130网（www.653130.com）和维吾尔音乐门户网（www.muzikam.com）。</p>
+<p>　　1月13日，新疆网信办接到网民举报，迅速对两家网站展开调查。经查，653130网和维吾尔音乐门户网传播非法内容，破坏民族团结，造成恶劣影响。</p>
+<p>　　依据《全国人民代表大会常务委员会关于维护互联网安全的决定》《互联网信息服务管理办法》等法律法规，新疆网信办对两家网站给予关闭整改处罚。</p>
+<p>　　新疆网信办有关负责人表示，网站应切实强化主体责任，履行社会责任，强化底线意识，加强内部管理和自律。今后，新疆网信办将继续加强互联网执法督查工作，坚决查处各类违法违规行为，欢迎广大网民继续对网上违法和不良信息进行监督举报。</p>
+<p>　　新疆互联网违法和不良信息举报中心网址：xjwljb.ts.cn，举报电话：0991-6788111，举报邮箱：xjwljb@xjts.cn。</p>
+<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A9%E5%B1%B1%E7%BD%91%EF%BD%9C%E6%96%B0%E7%96%86%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%BE%9D%E6%B3%95%E6%9F%A5%E5%A4%84%E4%B8%A4%E5%AE%B6%E4%BC%A0%E6%92%AD%E9%9D%9E%E6%B3%95%E5%86%85%E5%AE%B9%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E5%85%AC%E5%AE%89%E9%83%A8%EF%BC%9A%E7%8C%8E%E7%8B%902015%E6%8A%93%E8%8E%B7%E5%A4%96%E9%80%83%E4%BA%BA%E5%91%98857%E4%BA%BA/" target="cdt-mirror">BBC | 公安部：“猎狐2015”抓获外逃人员857人</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8C%8E%E7%8B%90%E8%A1%8C%E5%8A%A8.jpg" alt="中国公安部表示将在2016年进一步推动境外追捕涉贪腐人员“常态化” " width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/猎狐行动-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/猎狐行动.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>中国公安部表示将在2016年进一步推动境外追捕涉贪腐人员“常态化”</p></div>
@@ -559,27 +574,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%96%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E5%B0%86%E6%88%91%E9%80%81%E5%85%A5%E7%9B%91%E7%8B%B1/" target="cdt-mirror">奇闻录 | 他们可以随时将我送入监狱</a>
-</h2>
-<p><p>据美联社与卫报1月22日报导，因不愿充当中国国家安全部门线人而逃离中国的前南都网编辑李新在泰国“失踪”。身在中国的李新妻子称，李新于1月10日乘火车从曼谷去往泰国北部城市廊开，次日两人便失去联系，她因此怀疑丈夫已被中方人员带回国内。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da.jpg" alt="2015年11月20日，前南都编辑李新摄于印度新德里。" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/e3eac7fa27514ab2983135ad7f1d76da.jpg 1080w" sizes="(max-width: 600px) 100vw, 600px"><p>2015年11月20日，前南都编辑李新摄于印度新德里。</p></div>
-<p>曼谷邮报于24日报导，称泰国警方及外交部均表示对此并不知情。</p>
-<p>中国当局近期屡遭外界怀疑在境外拘捕敏感人士。日前在中国央视“认罪”的香港铜锣湾书店老板桂敏海，2015年10月也是在泰国“失踪”。</p>
-<blockquote><p>我非常害怕，他们可以随时将我送入监狱。我不想和他们合作，但又觉得没有选择。—-被中国国安威胁充当线人的李新</p></blockquote>
-<p>现年37岁的李新网名为“公民西西弗斯”，是一位积极参与中国公民运动的活跃人士。他毕业于中国政法大学法学专业，于2007年创办公民社会网，自2010年至2012年间在印度尼赫鲁大学修读国际关系专业。</p>
-<p>2013年，李新加入南方报业集团旗下的南都网，担任评论频道编辑，从而与中国许多维权人士及知识分子有联系。他还透露，自己曾将一些中国大陆政府关于媒体管控的信息披露给台湾政府。而大陆国安人员也因此胁迫他充当线人，监控维权人士、记者等，否则将以“间谍罪”将他送进监狱。</p>
-<p>李新曾表示出于无奈，答应了国安人员以换取自由，但一直未有提供任何有价值的“情报”。国安人员经常电话联络他，要求汇报情况，甚至一度没收其护照及港澳通行证。直到2014年，他才以迁户口的名义从国安人员手中取回证件。</p>
-<p>2015年10月，李新从中国逃往印度，尝试寻求西方国家政治庇护，而由于印度没有为其延长签证，因此他又在今年1月1日去往泰国。李新的妻子去年12月带着1岁多的孩子试图前往香港，但在深圳口岸被阻止出境。</p>
-<p>BBC 中文网去年11月曾采访李新，他表示出逃的原因是自己“承受着很大的心理压力”，觉得无法坦诚地与朋友沟通交流。为此，他一直策划离开中国，并在离开的半年前就买好了飞往印度的机票。</p>
-<p>来源：端传媒</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%96%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E5%B0%86%E6%88%91%E9%80%81%E5%85%A5%E7%9B%91%E7%8B%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%8D%97%E9%83%BD%E7%BD%91%E7%BC%96%E8%BE%91/?category=18271" rel="tag">前南都网编辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">大陆国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%96%B0/?category=18271" rel="tag">李新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BF%E4%BA%BA/?category=18271" rel="tag">线人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -591,7 +585,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%8D%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -601,5 +595,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%8D%97
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

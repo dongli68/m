@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%9D%A6%E5%85%8B%E4%BA%BA%E5%B0%86%E4%BC%9A%E5%86%8D%E6%AC%A1%E8%A2%AB%E7%A7%98%E5%AF%86%E5%A4%84%E5%86%B3/" target="cdt-mirror">德国之声 | 长平：“坦克人”将会再次被秘密处决吗？</a>
+</h2>
+<p><p><strong>一批记录“六四”镇压的照片版权代理落入中国公司。时评人长平认为，这桩交易已然限制了人类自由意志和抗争勇气的传播。</strong></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/017665123_30300.jpg" alt="坦克人" width="600" height="338" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/017665123_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/017665123_30300.jpg 700w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>（德国之声中文网）十多年前的新年假期，我在巴黎街头闲逛，看见卢森堡公园的围栏上挂满了巨幅照片。那是人类二十世纪重大事件及重要成就图片展。一幅幅照片看过去，每一幅都令人心潮澎湃。我下意识地期待着中国人的贡献，突然就看见了《坦克人》。我还记得当时的震撼。我对这张照片并不陌生，但是此前都是在中国夜半上网”翻墙”才见。这是我第一次见到它以如此巨幅，在光天化日之下骄傲地站立。我意识到，它不只是我们内心的耻辱和恐惧，而且和登月、青霉素和相对论一样，是人类二十世纪的杰出贡献。</p>
+<p>那是1989年6月5日，”六四”镇压的第二天，军队以炫耀残暴的姿态，穿梭在北京街道。一位青年从容上前，用单薄的身子拦住一长队隆隆驶来的坦克。这个被中国央视称为”螳臂挡车的歹徒”的青年，进入了现场至少五位摄影师的镜头，立即传遍全球，成为人类民主运动史上的英雄。正如将他列入”二十世纪最具影响力100人”的《时代》杂志的评论所说， “他的这一举动，为这个世界重塑了勇气的象征”。</p>
+<p>“六四”运动开启了导致苏联、东欧巨变的民主大潮，在中国至今仍被中共定性为”动乱”。作为这场运动的标志性图像，《坦克人》被中共严厉禁止。所幸在中国的大墙之外，它得以自由地传播，进入抗议队伍、博物馆、影视、文学和音乐作品中，一再地激励人们勇敢地反抗专制暴政，追求民主自由。</p>
+<p>然而，最近的一桩交易，让人们担忧它的传播自由是否还能继续。比尔·盖茨(Bill Gates)名下的科比斯图片社(Corbis)，最近将其图片及版权部门卖给了一家中国公司。这些图片中包括《坦克人》等珍贵的历史记录。</p>
+<p><b>市场资本和专制政权的合谋</b></p>
+<p>科比斯图片社表示，它是版权代理机构，只拥有一张《坦克人》照片的版权，更多有关天安门镇压照片的版权属于美联社和路透社。相关人士还对媒体说，这桩交易不会影响政治敏感照片的使用。这让人想到，中国商人马云收购香港老牌媒体《南华早报》之后，一边宣称此举是为了重塑中国的媒体形象，一边强调他会坚持媒体的客观公正原则。</p>
+<p>至少可以推论，这些照片的传播在两个方面发生了变化：其一，版权及版权代理落入中国公司，为中共控制提供了更多的便利；其二，中国公司不会主动推广被中共禁止的政治图片。</p>
+<p>如果这两点推论成立的话，那么我们可以确定地说，在这件事情上，市场资本已经和专制政权合谋，限制了自由意志和抗争勇气的传播。</p>
+<p>媒体报道中强调交易一方是比尔·盖茨名下公司，不仅仅因为他的名字如雷贯耳，而且还让人深思：即便像他这样富可敌国，而且以慈善作为后半生事业的人，也无法守住人类的良知？或许毋宁说，正是这种将良知待价而沽的资本游戏，让邪恶而狡猾的专制者如鱼得水？</p>
+<p>的确，这桩交易无法完全阻止《坦克人》的传播，最多只是在其传播自由场上竖起一小段栅栏。然而，自由从来都是一点一点丧失的。正如哲人们反复警示的那样，只要一处不自由，全世界的自由都受到威胁；只要一人出卖良知，全人类的良知都受到羞辱。</p>
+<p>二十六年前，那位勇敢的”坦克人”也许被中共秘密处决了；今天，记录这一珍贵历史时刻的照片，在已经传遍世界之后，还会被中共秘密处决吗？</p>
+<p><i>长平是中国资深媒体人、时事评论作家，现居德国。</i></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%9D%A6%E5%85%8B%E4%BA%BA%E5%B0%86%E4%BC%9A%E5%86%8D%E6%AC%A1%E8%A2%AB%E7%A7%98%E5%AF%86%E5%A4%84%E5%86%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9D%A6%E5%85%8B%E4%BA%BA/?category=18271" rel="tag">坦克人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%99%9A%E6%B8%85%E5%A4%AA%E5%AD%90%E5%85%9A%EF%BC%9A%E4%BB%8E%E6%94%B9%E9%9D%A9%E5%85%88%E9%94%8B%E5%88%B0%E5%8F%8D%E9%9D%A9%E5%91%BD/" target="cdt-mirror">东方历史评论｜“晚清太子党”：从改革先锋到反革命</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%99%9A%E6%B8%85.jpg" rel="attachment wp-att-426878"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%99%9A%E6%B8%85.jpg" alt="晚清" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/晚清-300x242.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/晚清.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
@@ -188,7 +212,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">开放社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A2%E6%99%AE%E5%B0%94/?category=18271" rel="tag">波普尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF/?category=18271" rel="tag">索罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA%EF%BC%8C/?category=18271" rel="tag">经济危机，</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A1%A8%E5%BD%B0%E5%90%8D%E5%8D%95%E9%81%97%E6%BC%8F%E4%BA%86442%E5%90%8D%E6%B2%89%E8%88%B9%E6%AD%BB%E9%9A%BE%E8%80%85/" target="cdt-mirror">旧闻评论｜宋志标：“表彰”名单遗漏了442名沉船死难者</a>
 </h2>
@@ -608,23 +632,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%B0%8F%E5%86%99%E7%9A%84%E8%84%91%E6%AE%8B%EF%BC%8C%E5%A4%A7%E5%86%99%E7%9A%84%E5%B0%B4%E5%B0%AC/" target="cdt-mirror">【立此存照】小写的脑残，大写的尴尬</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1707905652/DeYo9fZUZ">@文山娃</a>：小粉红事件 update：团中央删帖了。炸裂！一次特大型宣传事故</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg" rel="attachment wp-att-426690"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg" alt="65cc9274gw1f0dcij3v4qj20hs0vkjvd" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcij3v4qj20hs0vkjvd.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p> </p>
-<p>此帖一出，连环球时报官号都看不下去了：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg" rel="attachment wp-att-426691"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg" alt="65cc9274gw1f0dcikmngwj20hs0vk0wr" width="440" height="781" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0dcikmngwj20hs0vk0wr.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<blockquote><p><a href="http://weibo.com/1974576991/DeXDowSUU">@环球时报</a>：【小咕咕鸡：不要再被“小粉红”了，这不是什么好词】“小粉红”这个被很多人现在当做刷时髦而使用的词，一开始就是个公知段子手理解力低下导致的错误。这种争先使用着这个词来抢占批判制高点的人，其行为只能说是小写的脑残，大写的尴尬。</p></blockquote>
-<p>结果，团中央微博删帖，环球时报“完胜”。</p>
-<p><strong>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%8E%8B%E5%B0%8F%E8%83%BD%EF%BC%9A%E5%B0%8F%E7%B2%89%E7%BA%A2%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BA%A2/">王小能：“小粉红”，究竟是什么样的红？</a></strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%B0%8F%E5%86%99%E7%9A%84%E8%84%91%E6%AE%8B%EF%BC%8C%E5%A4%A7%E5%86%99%E7%9A%84%E5%B0%B4%E5%B0%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AA%E4%B8%80%E6%A0%B7%E7%9A%84%E9%98%9F%E5%8F%8B/?category=18271" rel="tag">猪一样的队友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -636,7 +643,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -646,5 +653,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

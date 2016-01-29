@@ -21,9 +21,111 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B4%8B%E8%91%B1%E6%97%A5%E6%8A%A5%E7%AB%8B%E5%A5%87%E5%8A%9F-%E5%A4%AE%E5%B9%BF%E7%8E%AF%E6%97%B6%E5%9D%87%E4%B8%AD%E6%8B%9B/" target="cdt-mirror">【立此存照】洋葱日报“雪人标准”立奇功 央广环时均中招</a>
+</h2>
+<p><p>与美国知名恶搞新闻网站“洋葱新闻”类似，新浪微博账号<a href="http://weibo.com/u/1806732505">@洋葱日报社</a>一直以来都以一本正经地发布恶搞新闻而出名。该账号的置顶微博为：<strong>“不真实是我们的底线。我们承诺，我们所有的新闻都是假新闻。 ”</strong></p>
+<p>近日，央广网 重蹈友媒人民网的覆辙，对@洋葱日报社 一则题为“<a href="http://weibo.com/1806732505/DeKBy33eC">哈尔滨欲出台雪人标准</a>”的恶搞新闻信以为真，在其网站和微博账号内进行了没有任何署名和来源说明的“<a href="http://china.cnr.cn/xwwgf/20160127/t20160127_521253002.shtml">转发</a>”。随后各大媒体纷纷跟进转载，并将@央广网 作为信息来源。在微博“中招”的媒体包括但不限于：</p>
+<blockquote><p><strong>@环球时报、@武汉晚报、@北京青年报、@深圳特区报、@潇湘晨报、@半岛晨报、@IT之家、@网易新闻客户端</strong></p></blockquote>
+<p>@洋葱日报社随后发布微博调侃道：</p>
+<blockquote><p>你们这些媒体怎么啥都信啊，你们是不是都来自哈尔滨冰雪协会？</p></blockquote>
+<p>目前，@洋葱日报社已删除调侃内容，并发布微博称“担心影响友媒形象”。“哈尔滨欲出台雪人标准”的原始微博尚存。</p>
+<p>2012年11月，人民网曾<a href="http://chinadigitaltimes.net/chinese/2012/11/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E6%B4%8B%E8%91%B1%E6%96%B0%E9%97%BB%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/">将美国洋葱新闻的报道当真</a>，刊出了金正恩被评为“2012年当世最性感男子”的专题并配以55张高清“美图”。</p>
+<p>2013年5月，环球网军事频道曾将CG艺术作品当作了“日本自卫队未来武装直升机构想”来<a href="http://chinadigitaltimes.net/chinese/2013/05/solidot-%E5%AE%98%E5%AA%92%E5%B0%86ps%E8%89%BA%E6%9C%AF%E5%9B%BE%E5%BD%93%E6%88%90%E7%9C%9F%E4%BA%8B%E6%8A%A5%E5%AF%BC/">报道</a>。</p>
+<p><strong>图片来自新浪微博：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vumsq7j30ku112tnp.jpg" rel="attachment wp-att-426857"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vumsq7j30ku112tnp.jpg" alt="005zTGm2jw1f0g1vumsq7j30ku112tnp" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vumsq7j30ku112tnp-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vumsq7j30ku112tnp.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vvpf6cj30ku112qck.jpg" rel="attachment wp-att-426856"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vvpf6cj30ku112qck.jpg" alt="005zTGm2jw1f0g1vvpf6cj30ku112qck" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vvpf6cj30ku112qck-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vvpf6cj30ku112qck.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vwzatzj30ku112qdx.jpg" rel="attachment wp-att-426855"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vwzatzj30ku112qdx.jpg" alt="005zTGm2jw1f0g1vwzatzj30ku112qdx" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vwzatzj30ku112qdx-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/005zTGm2jw1f0g1vwzatzj30ku112qdx.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga97bddyj20ku112n4d.jpg" rel="attachment wp-att-426854"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga97bddyj20ku112n4d.jpg" alt="53901592jw1f0ga97bddyj20ku112n4d" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga98gk6tj20ku1127al.jpg" rel="attachment wp-att-426852"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga98gk6tj20ku1127al.jpg" alt="53901592jw1f0ga98gk6tj20ku1127al" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9a4o7rj20ku112461.jpg" rel="attachment wp-att-426851"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9a4o7rj20ku112461.jpg" alt="53901592jw1f0ga9a4o7rj20ku112461" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9du7zej20ku112grk.jpg" rel="attachment wp-att-426847"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9du7zej20ku112grk.jpg" alt="53901592jw1f0ga9du7zej20ku112grk" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9d50y5j20ku112wki.jpg" rel="attachment wp-att-426848"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9d50y5j20ku112wki.jpg" alt="53901592jw1f0ga9d50y5j20ku112wki" width="425" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9bunagj20ku1120z4.jpg" rel="attachment wp-att-426849"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9bunagj20ku1120z4.jpg" alt="53901592jw1f0ga9bunagj20ku1120z4" width="440" height="783"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9azumzj20ku112wk7.jpg" rel="attachment wp-att-426850"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/53901592jw1f0ga9azumzj20ku112wk7.jpg" alt="53901592jw1f0ga9azumzj20ku112wk7" width="440" height="783"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8F%8B%E5%AA%92.jpg" rel="attachment wp-att-426859"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%8F%8B%E5%AA%92.jpg" alt="友媒" width="425" height="755" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/友媒-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/友媒-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/友媒-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/友媒.jpg 960w" sizes="(max-width: 425px) 100vw, 425px"></a></p>
+<blockquote><p><a href="http://weibo.com/u/5111106774?refer_flag=1001600001_" target="_blank">@看你扯X看你飞</a>：洋葱新闻再立奇功，央广被洋葱骗了，环球被央广骗了<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%B4%8B%E8%91%B1%E6%97%A5%E6%8A%A5%E7%AB%8B%E5%A5%87%E5%8A%9F-%E5%A4%AE%E5%B9%BF%E7%8E%AF%E6%97%B6%E5%9D%87%E4%B8%AD%E6%8B%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%8B%E8%91%B1%E6%96%B0%E9%97%BB/?category=18271" rel="tag">洋葱新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8B%8F%E5%B0%8F%E5%92%8C%EF%BC%9A%E6%88%96%E8%AE%B8%E5%86%8D%E8%BF%875000%E5%B9%B4%E4%B9%9F%E5%87%BA%E4%B8%8D%E6%9D%A5%E4%B8%80%E4%B8%AA%E7%B4%A2%E7%BD%97%E6%96%AF/" target="cdt-mirror">苏小和：或许再过5000年也出不来一个索罗斯</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%B4%A2%E7%BD%97%E6%96%AF.jpg" alt="索罗斯" width="450" height="562" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/索罗斯-240x300.jpg 240w, http://chinadigitaltimes.net/chinese/files/2016/01/索罗斯.jpg 669w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p>最近人民币贬值，索罗斯在中国又火起来了，人们可能是想到了1997年的亚洲金融危机，忍不住再一次把索罗斯看成了反华敌对实力。主流媒体连篇累牍发文声讨索罗斯，让人忍俊不禁，而各路不明就里的人们跟着瞎起哄，也是醉了。索罗斯在《这个时代的无知和傲慢》的序言里说，“我的影响力被严重夸大了。在英国被迫退出欧洲汇率机制时，我被称为打垮英格兰银行的人。马来西亚总理指责我一手酿成1997亚洲金融危机。亚洲金融危机前几个月，我尚未进行亚洲货币交易。”所以有人说了，某些时候，索罗斯是某些政客掩盖政府无能的借口。</p>
+<p>当然，我个人对索罗斯的评价极高。索罗斯不仅是金融大师，而且学问很好，他跟着波普尔学到了真东西，三观非常靠谱，他的反射理论被学界低估。他的开放基金，那是要进入人类文明史册的。中国文化语境下，或许再过五千年也出不来一个索罗斯式的人。</p>
+<p>我想从金融大鳄索罗斯的思考说到中国企业家的格局。因为索罗斯首先是一名企业家，明眼人看到了，中国的部分企业家们越来越热爱被管制，诸如百度这样的垃圾公司，发的就是管制财，但是索罗斯却越来越赞美开放社会。</p>
+<p>索罗斯总是反复提到波普尔的开放社会理念，这让我兴趣盎然。我的意思是说，从索罗斯的哲学里，也许我能找到解读近期热门企业事件的相对周全的方法。这些年，金融大鳄索罗斯在全世界纵横捭阖，攻城略地，他的方法论，应该是有某种启示意义的。</p>
+<p>很有趣，索罗斯喜欢卡尔·波普尔。我所熟悉的波普尔，他的名作《开放社会及其敌人》，国内有一大批铁杆跟随者。这位举世闻名的哲学家和思想家，长期以来被西方学界誉为“开放社会之父”。从科学家到文史哲界的专家，从政界要员到企业家，无不深受波普尔学说的影响。尤其是他的证伪主义方法论，甚至成为诸多商业天才的经营利器。而这一大批商业天才中，当然就包括了大名鼎鼎的索罗斯。</p>
+<p>事实上，索罗斯是波普尔的嫡传学生。20世纪50年代后期，索罗斯在伦敦经济学院读书，他提前一年完成了毕业考试，为自己赢得了一年的自由时间。如何打发这一年的自由时光，索罗斯的选择是来到卡尔·波普尔的门下，让自己成为了波普尔的关门弟子。另外一种说法是，索罗斯很快就赚到了很多钱，当时他就想，这些钱足够他和他的家人养尊处优，不再有任何金钱上的担忧了，那么除了这些生活的保障，人生一世，还能做点别的什么更有意义的事情呢。据说索罗斯为此思考了一年，之后他的决定，是去跟着卡尔波普尔念书。</p>
+<p>从索罗斯后来的言说来看，波普尔对他构成真正影响的学术体系，仍然是著名的证伪方法。所以索罗斯上来就复述导师的观点，经验的真理不可能绝对确定，即使是科学原理，也不能毫无疑义地被证实，只能通过检验来证伪。即一个失败的检验就足以证伪，而再多的确认性例证也不能完全证实。科学原理具有假设条件，其真实性要能经受证伪的检验，声称掌握绝对真理的意识形态是一种错误的宣称，所以只能强加于社会，所以这类意识形态都会导致压抑。</p>
+<p>有人说，索罗斯显然不是波普尔最喜欢的学生，这种表述不虚，事实上索罗斯日后的发展显然没有沿着学术的方向演进，他不期然成了这个世界上最有财富的金融大家之一。但索罗斯本人不这么看。他自己认为，正是波普尔的开放社会理念对他构成了毕生的影响，他才得以成功，而且，他沿着波普尔的证伪主义方法论，找到了属于自己的方法论，这就是索罗斯反复解说的所谓反射性理论。</p>
+<p>如何用最少的语句来陈述索罗斯的反射理论，并不容易，按照他不厌其烦的言说，似乎有点像物理学上的作用力与反作用力，天体学上的宇宙和反宇宙，或者是社会学中的多样性、信息学里的无遮蔽多元信息场域。但有一点是可以肯定的，索罗斯的反射性理论，必须建立在他的导师波普尔的开放社会架构上，否则，索罗斯一切的商业行为、一切的思想行为，均无从谈起。</p>
+<p>这正是我喜欢索罗斯的理由之所在。在一个开放社会里，索罗斯简直就是一个怀疑一切的人，他总是试图寻找到更加多样性的信息，逐条加以怀疑，然后组合出一套对自己有利的信息。所以索罗斯说，由于他在德国和苏联占领的匈牙利生活了很长时间，他知道一个不开放的社会如何抑制了他的才华，所以他才如此热爱美国这样一个开放的社会。</p>
+<p>不过，相对于观念的正确与否，索罗斯和他的导师一样，更加关注观念背后的方法论。即使在美国，索罗斯也一直坚守波普尔开放社会的理念，坚守他自己的反射性方法，他是波普尔证伪主义方法论的真正门徒。比如关于汹涌的次贷金融危机，索罗斯就认为，这是信贷和杠杆使用的无止境增长导致的灾难，而背后的经济学逻辑则是：金融市场可以自我调节，所以可以听之任之。由此，索罗斯批评了里根总统和撒切尔夫人的市场原教旨主义信条，认为他们忽略了绝对自由市场的另外一种反射性，即人的不确定性。而关于小布什总统的伊拉克战争，索罗斯认为，正是对美国开放性社会的某种收缩，比如传播的主导原则和单一原则，才导致美国人最终同意小布什发动战争。在这样的意义上，索罗斯认为，这才是美国开放社会的最大危机。</p>
+<p>任何一个人都很容易犯下矫枉过正的毛病，就像人的眼睛长在身体的前面，当我们朝前面看去，必然要丢失背后的风景，当我们朝左边看去，必然要丢失右边的风景。人总是一个有限的人。索罗斯显然是深深领悟到了这样的道理。如果我们去分析索罗斯这些年的金融大手笔，必然能发现，他总是试图超越金融，站在一个更加周全的地方打点自己的生意，他不是那种坐井观天的小生意人。有些时候，他像批评家；有些时候，他又像杀手；有些时候，他锱铢必较；有些时候，他却是一名彻底形而上的思想者。</p>
+<p>在这样的意义上，中国的企业家显然与索罗斯存在极大的差距。毫无疑问，中国当代企业家都是开放社会的产物，没有30多年前的改革开放，今天的企业家们一个也不会出现。但是，当这些企业家拥有了财富之后，我发现有相当一批人似乎成了开放社会的敌人。</p>
+<p>最明显的例证，是今天的中国企业家普遍迷恋官商勾结，而官商勾结，毫无疑问是开放社会的死敌。而在新经济领域，很多年轻的企业家对越来越疯狂的信息封锁不仅不抵制，反而幻想自己的竞争对手退出市场之后，自己可以分得利益，殊不知任何形式的信息遮蔽，都是对开放社会的遮蔽，而任何关于开放社会的抵制，最终必然导致企业的式微。因为，人类企业发展史明显见证了一个事实，企业家必然是开放社会的产物。</p>
+<p>一个成功的索罗斯，当然是开放社会的硕果。所以索罗斯在50岁那一年，在他的对冲基金增长到一亿美元之后，他开始思考，究竟什么事业才值得他继续发力？在漫长的思考之后，索罗斯终于决定建立一个致力于促进开放社会的基金会。他为这个基金会确定了醒目的宗旨，这就是促进封闭社会渐渐开放，弥补已经开放的社会的种种不足，倡导批判性的思维方式。</p>
+<p>一名富可敌国的金融大鳄愿意站在一个更加开放的社会中，对这个世界保持一种批评的姿态，这无论如何值得热衷拍马屁，善于官商勾结的中国企业家们学习。而关于今天的中国，索罗斯的建设性批评也让人耳目一新，他说现在的中国人还愿意让个人的自由服从于政治的稳定和经济的繁荣，但不可能永远这样。腐败是一个大问题，中国需要法治，需要公民批评政府，防止其滥用权力。中国需要成为一个更加开放的社会。</p>
+<p>关于索罗斯，还需要说一点什么？这名曾经因为2008年北京奥运会开幕式激动不已的商人，事实上比很多中国人更能看到中国的危机，这名得益于美国开放社会的金融巨人，事实上一直在促进美国的进一步开放，他对美国社会任何一点点与开放为敌的行为都保持着巨大的愤怒。相比之下，中国的企业家们是不是一直保持一种开放的姿态呢？或者我们反过来说，当企业家们都不促进开放，甚至甘愿充当开放社会的敌人，那些耀眼的财富，那些光鲜的公司，又能存活多久呢？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%8B%8F%E5%B0%8F%E5%92%8C%EF%BC%9A%E6%88%96%E8%AE%B8%E5%86%8D%E8%BF%875000%E5%B9%B4%E4%B9%9F%E5%87%BA%E4%B8%8D%E6%9D%A5%E4%B8%80%E4%B8%AA%E7%B4%A2%E7%BD%97%E6%96%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">开放社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A2%E6%99%AE%E5%B0%94/?category=18271" rel="tag">波普尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF/?category=18271" rel="tag">索罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA%EF%BC%8C/?category=18271" rel="tag">经济危机，</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A1%A8%E5%BD%B0%E5%90%8D%E5%8D%95%E9%81%97%E6%BC%8F%E4%BA%86442%E5%90%8D%E6%B2%89%E8%88%B9%E6%AD%BB%E9%9A%BE%E8%80%85/" target="cdt-mirror">旧闻评论｜宋志标：“表彰”名单遗漏了442名沉船死难者</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/640-6.jpg" rel="attachment wp-att-426835"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/640-6.jpg" alt="640" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/640-6-237x300.jpg 237w, http://chinadigitaltimes.net/chinese/files/2016/01/640-6.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br>
+【题图当代水墨，作者新浪微博：秃头倔人】</p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a title="船里逃出来的还能有14个，从你国监控下逃出来自由发声的家属，一个都没有" href="http://chinadigitaltimes.net/chinese/2015/06/%E8%88%B9%E9%87%8C%E9%80%83%E5%87%BA%E6%9D%A5%E7%9A%84%E8%BF%98%E8%83%BD%E6%9C%8914%E4%B8%AA%EF%BC%8C%E4%BB%8E%E4%BD%A0%E5%9B%BD%E7%9B%91%E6%8E%A7%E4%B8%8B%E9%80%83%E5%87%BA%E6%9D%A5%E8%87%AA%E7%94%B1/">船里逃出来的还能有14个，从你国监控下逃出来自由发声的家属，一个都没有</a></li>
+<li><a title="如何评价“如何评价“如何评价‘长江沉船事故’的舆论导向”这一问题被删？”这一问题被删？" href="http://chinadigitaltimes.net/chinese/2015/06/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%95%BF%E6%B1%9F%E6%B2%89%E8%88%B9%E4%BA%8B%E6%95%85%E7%9A%84%E8%88%86%E8%AE%BA%E5%AF%BC%E5%90%91/">如何评价“如何评价“如何评价‘长江沉船事故’的舆论导向”这一问题被删？”这一问题被删？</a></li>
+<li><a title="毒舌的毒｜沉船事件十大恶心标题" href="http://chinadigitaltimes.net/chinese/2015/06/%E6%AF%92%E8%88%8C%E7%9A%84%E6%AF%92%EF%BD%9C%E6%B2%89%E8%88%B9%E4%BA%8B%E4%BB%B6%E5%8D%81%E5%A4%A7%E6%81%B6%E5%BF%83%E6%A0%87%E9%A2%98/">毒舌的毒｜沉船事件十大恶心标题</a></li>
+<li><a title="这边船难家属情绪失控与警方冲突 那边在给潜水员庆功" href="http://chinadigitaltimes.net/chinese/2015/06/%E8%BF%99%E8%BE%B9%E8%88%B9%E9%9A%BE%E5%AE%B6%E5%B1%9E%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E4%B8%8E%E8%AD%A6%E6%96%B9%E5%86%B2%E7%AA%81-%E9%82%A3%E8%BE%B9%E5%9C%A8%E7%BB%99%E6%BD%9C%E6%B0%B4%E5%91%98/">这边船难家属情绪失控与警方冲突 那边在给潜水员庆功</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%B0%81%E6%89%8D%E6%98%AF%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E6%B2%89%E8%88%B9%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E6%8A%A5/">【图说天朝】谁才是“东方之星”沉船事故新闻报道的主角？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E7%BF%BB%E6%B2%89%E4%BA%8B%E4%BB%B6/">“东方之星”船难</a>专题</li>
+</ul></blockquote>
+<p>湖北监利一直是新闻的富矿，南方周末靠着这个地方大赚过，撑起过报纸新闻声誉的一片天。最近湖北表扬参与打捞去年6月1日监利沉船事故的集体与个人，引起了阵阵嘘声。有人说，在“赏”不责众这件事上，湖北的做法比魔鬼更甚，是另一种“挟尸要价”。</p>
+<p>先来看基本的事实。东方之星号沉没，452名乘客，死了442名，其中绝大多数生还者属于自行游上岸的（包括船长）。但这次大规模表彰事宜，诞生了99个先进单位和253名先进个人。批评主要集中在这里，相较于救援的成果，赞美显得太庞大了。</p>
+<p>对于这种批评，也有表示抗议，不能接受的。理由是，技术人员在沉船后也做了大量工作，比如“游过那片悲伤水域”的潜水员战士，有资格接受表彰，不算唐突。一说到技术流，似乎就将问题转移了焦点，在这方面可能需要说明为何不该有“技术”表彰。</p>
+<p>但以救援的技术看，许多人付出了本职工作。然而，由于整个沉船的救援技术、救援方案缺乏公正的评价，技术在救援中的使用到底是无效还是无效，都很难被看到。事实上，先进集体和个人是围绕死者展开“打捞”的，“救援”在倾覆船体上体现得很少。</p>
+<p>如果仅仅以“技术”衡量，潜水员是技术工种，那么，控制现场的巡逻队是不是“技术”？引导舆论走向的宣传手法是不是“技术”？控制现场，将记者驱赶到非常外围的江堤上是不是也是“技术”？专门为赞美搜罗一些“技术”支撑，难以服众。</p>
+<p>如果继续沿着“技术”路线走，也能发现某些关键的“技术”流失了。比如东方之星号的改造，被认为是“合乎规范”的，可是这个“技术”缺乏独立第三方评估，因为认证部门在船务中有利益关联。也就是说，关于真相的“技术”让位于表彰的“技术”。</p>
+<p>迄今为止，沉船事故的问责迟迟没有启动。东方之星号被一再地撇清干系：先是从船务运行的规范中被撇除干系，继而从航运管理的责任义务中被摘出来，再从船体质量、船员操作中撇清联系。而这些问责的主体都是依靠“技术”实现了全身而退。</p>
+<p>在这个时候，再来要求沉船的真相，或者再来提出问责的需要，已经不合时宜了。因为几乎所有的部门都上了表彰名单，老百姓所依靠的自保策略“罚不责众”，变成了政府事后张扬的“赏不责众”。在这么大规模的表彰气候下，谁还好意思提出问题呢？</p>
+<p>既然要赞美，不能遗忘其他一些人物，表彰的名单理应更长点。比如写出“一次次游过悲伤的水域”、“遇难者终于回到长江母亲怀抱”之类悼词的作者；表彰也不应该遗漏442名沉在江里的旅客，他们避开了“人祸”，在“天灾”中成全了另外253同类的勋章。</p>
+<p>打捞沉船费心费力，接受表彰也非天经地义。自从表彰一事乍起，有心人仿佛看到东方之星号又沉沦了一次，那些死者又死了一次。灾难不是新闻，救灾反而是新闻；任由真相沦丧，批评不自由，赞美风云起，表彰溢于言表，而这就是公共事件中常见的“喜丧”吧。</p>
+<p>2016/1/27</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A1%A8%E5%BD%B0%E5%90%8D%E5%8D%95%E9%81%97%E6%BC%8F%E4%BA%86442%E5%90%8D%E6%B2%89%E8%88%B9%E6%AD%BB%E9%9A%BE%E8%80%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E6%96%B9%E4%B9%8B%E6%98%9F%E7%BF%BB%E6%B2%89%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">“东方之星”船难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B%E5%96%9C%E5%8A%9E/?category=18271" rel="tag">丧事喜办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90%E8%A2%AB%E7%85%BD%E9%A2%A0%E8%8E%B7%E5%88%91%E9%AB%98%E8%BE%BE%E4%BA%94%E5%B9%B4/" target="cdt-mirror">美国之音｜“广州三君子”被“煽颠”获刑高达五年</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/E4853725-114B-4FE3-ACF1-5A539944BFC2_w640_r1_s.jpg" rel="attachment wp-att-426829"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/E4853725-114B-4FE3-ACF1-5A539944BFC2_w640_r1_s.jpg" alt="香港各界抗议要求释放广州三君子等维权人士（博讯图片）" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/E4853725-114B-4FE3-ACF1-5A539944BFC2_w640_r1_s-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/E4853725-114B-4FE3-ACF1-5A539944BFC2_w640_r1_s.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>香港各界抗议要求释放广州三君子等维权人士（博讯图片）</p></div>
+<p>香港— 广受国际社会关注的“广州三君子”维权律师唐荆陵、自由撰稿人袁新亭和大学教师王清营被指控涉嫌“煽动国家颠覆政权罪”一案，在历经三次庭审之后，1月29日上午在广州中级法院宣判，唐荆陵获刑5年、袁新亭3年半、王清营2年半。</p>
+<p>“广州三君子”案引起国际社会的广泛关注，也获得国内公民的大力声援，是中国大陆2015年审理的最具影响的人权案件。而该案星期五的宣判也引起了各界的关注。</p>
+<p>据唐荆陵的辩护律师葛永喜星期五上午在宣判后向美国之音证实，唐荆陵在法庭上表示，鉴于司法当局已经沦为掩盖罪行的遮羞布，他不会向专制政权的法庭提出上诉。</p>
+<p>葛永喜说：“关于是否上诉，唐荆陵先生已经表达了，他认为中共的司法机关已成为遮羞布，没有任何的合法性，鉴于这个判决已经成为一个掩盖罪恶的，中 共的司法机关已经成为掩盖罪恶的机关和遮羞布。所以，他不会向中共的司法机关上诉，他只会向人民和上帝上诉。袁新亭和大王清营当庭表示的是，还需要考虑一 下，并没有立即决定上不上诉。”</p>
+<p>唐荆陵的妻子汪艳芳星期五上午对美国之音表示，对唐荆陵等三人的判决是不合法的，是欲加之罪，是政治打压。</p>
+<p>她说：“对他们三个人的判决，我觉得是欲加之罪。本身来说，他们三人都没有犯罪，都没有触犯中国的法律。我觉得这个事情是政治打压，不是属于合法的判决，因为按照合法判决的话，他们本身就不会关押到目前为止，关押到快两年，而且早就应该释放了的。”</p>
+<p>“广州三君子”的唐荆陵44岁，曾以律师身份参与中国国内多起维权案件，44岁的袁新亭（袁朝阳）和33岁的王清营，近年与唐荆陵一起参与维权活 动。同为好友的三人，积极倡导公民非暴力不合作运动，宣扬民主法治的理念，并是2008年由目前身陷牢狱的诺贝尔和平奖得主、异见作家刘晓波发起的主张宪 政改革的“零八宪章”的首批签署人。</p>
+<p>“三君子”2014年5月16日被广州当局以“寻衅滋事罪”刑事拘留，6月20日被变更为“煽动颠覆国家政权”批捕。在逮捕以后的侦查阶段，三人都未能见到他们的辩护律师。</p>
+<p>“三君子”案2015年6月19日在广州市中级法院第一次开庭审理。因审判庭不接纳党员回避、证人到庭作证等要求，被三人抗议而当庭解除律师委托，第一次庭审中止。同年7月23、24日，该案进行第二次开庭审理。</p>
+<p>据网上消息，在“广州三君子”案宣判当天，广州中院外警戒严密，有一些网友围观，也有一些香港媒体前往采访。此前，人在广州的一些维权人士受到国保的警告，被要求不要前往围观声援，另一些人被要求离开广州，还有人则暂时被限制自由。</p>
+<p>在宣判后不久，总部设在纽约的国际人权组织人权观察便发表声明，认为对唐荆陵等三人的有罪判决，反映了中国政府对法院的政治操纵和对和平的持不同政 见者日益增加的敌意，并要求中国政府撤销广州中院对人权活动人士唐荆陵、袁新亭和王清营监禁的判决决定。此外，包括香港中国维权律师关注组在内的一些其他 人权团体也对“广州三君子”案的判决表示关注。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90%E8%A2%AB%E7%85%BD%E9%A2%A0%E8%8E%B7%E5%88%91%E9%AB%98%E8%BE%BE%E4%BA%94%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A9%E5%B1%B1%E7%BD%91%EF%BD%9C%E6%96%B0%E7%96%86%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%BE%9D%E6%B3%95%E6%9F%A5%E5%A4%84%E4%B8%A4%E5%AE%B6%E4%BC%A0%E6%92%AD%E9%9D%9E%E6%B3%95%E5%86%85%E5%AE%B9%E7%9A%84/" target="cdt-mirror">天山网｜新疆网信办依法查处两家传播非法内容的网站</a>
 </h2>
 <p><p>天山网讯 （记者田山报道）记者从新疆网信办获悉，近日该办依法严肃查处了653130网（www.653130.com）和维吾尔音乐门户网（www.muzikam.com）。</p>
@@ -474,106 +576,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/426660/" target="cdt-mirror">王小能：“小粉红”，究竟是什么样的红？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg" rel="attachment wp-att-426663"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg" alt="643c6f05gw1f0df7q49kij211y0lcgmv" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv-300x168.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv-768x431.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0df7q49kij211y0lcgmv.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px"></a></p>
-<p>这个带着想要搞个大新闻气质的微博，撰文者是@小王同志有话说，敏感的网友一下子抓住了他在文中很慎重地把左右路线的“左”字打上引号的细节，纷纷揣测这是不是一篇过审的官方稿，更为这个官方背书增加了一点可怖气氛。具体如何不得而知。因为实在是写得太过愚蠢，在我这样的反动网友加入转发之后，它非但并没有达到振臂一呼应者云集的目的，反而被当头泼了无数桶冷水，几千个转发里基本有一大半都是远交近攻地把它骂了个通体透亮。</p>
-<p>这实在也怪不得别人，因为这条微博真的是太愚蠢和邪恶了。过了几个小时，共青团中央将这条长微博删除。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7.jpg" rel="attachment wp-att-426661"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7.jpg" alt="643c6f05gw1f0dekvdevoj20c81djgs7" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7-74x300.jpg 74w, http://chinadigitaltimes.net/chinese/files/2016/01/643c6f05gw1f0dekvdevoj20c81djgs7.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>如果有人还看不出来这条微博为什么愚蠢和邪恶（……），可以看看网友的评论。</p>
-<blockquote><p>老刘在德克萨斯：用劳苦大众能听懂的语言讲，小粉红就是让共青团大叔搞到手的青春期刚结束但心智还停留在青春期的女孩子。给人一种老刑法讲的嫖宿幼女的感觉。张扬下作，价值观错乱的奇葩。</p>
-<p>阿克巴笙：翻译：“不懂网络安全”，“不懂网络舆论“，”不关心政治分不清左右“——意思其实就是”蠢”。“垂涎党媒小编“”有天然正义感”——意思就是”爱国“。总评：”又蠢又爱国“——我靠这是什么好词儿？”蠢+任何大型关键词“都他妈的超可怕好吗【感谢命运</p>
-<p>大朙湖畔斯托克:翻译：所然你们女人肤浅无知，都是政治白痴科技白痴，但是你们这么可爱，还当我们的狗，我们还是会爱你们的。</p></blockquote>
-<p>在团中央发博强行收编“小粉红”之前，其实网上已经有了很多次的争执，事关如何看待与对待“小粉红”群体：一个审慎的、不想随意给人贴标签并且加以扫射的人，都会有这样的困惑吧。毕竟每一个ID的背后都是一个活生生的人，而标签化的群体里也有许多无辜受害者。</p>
-<p>在微博上大家普遍使用的“小粉红”定义，跟它的原生出处业已关联不大：很多人是从去年段子手大咕咕咕鸡鏖战“小粉红”团体并且大挂照片的事件里，才知道有这样一群人的存在——而自诩“人美三观正”的她们，一则并不都是粉红色晋江论坛的忠实用户（有一部分是），二则其凶残程度跟团中央微博里形容出来的也完全不一样——<span><b>一个合格的“小粉红”并不会仅仅使用“希望你们这些公知都炸了”这样温情脉脉的革命话语，她们在网络上横扫异见（这个异见可能是对于国族的认知，也可能是一个CP的正逆，有时候仅仅是别人说了一个其无法忍受的娱乐意见），她们熟练使用“你妈炸 了”“你妈在天上飞”诸如此类的词汇和各种挂照片、抱团轮人的手法，受害者不少，但是很多都是更弱势的亚文化圈里人</b></span>，直到大咕咕咕鸡开始以其人之道还治其人之身的并不受到网友赞许的挂照片手段反击之前，很多人的受害是没有被看见的。</p>
-<p>也因此，我们曾经讨论过很多次：<span>一个女权主义者对于女性法西斯党徒应该采用什么样的态度？大规模地批判“小粉红”，是不是一种偷懒的地图炮行为？我们这些曾经也和她们有过文化重合度的成年女性需不需要那么急切地撇清和她们的关系并且大加鞭挞？跟她们一样是粉红论坛用户的网友中有很多也是右倾的自由主义者，有很多更是岁月静好的亚文化爱好者，仅此而已，用一个标签就定义这所有的人并且加以嘲弄，是不是另一种恶？</span>真是很纠结的。直至今日，作为一个已经可以自动滚入“老粉红”行列的前晋江网友，我不得不佩服共青团中央的气派，这篇春秋笔法实黑非黑的高段位黑文简直一下子就解决了困惑我们多时的这些问题：当我们这些女权主义者还在 自我警惕，希望不要用泛化的标签手段加重我国女性在多重歧视轴上的再受害，团中央出手不凡地把“小粉红”从性别、取向、智力都给定性了，还强行送了她们一 个便宜爹，玩起了光源氏计划，同时更冷酷无情地把八零后开除出了爱国小粉红的队伍——让我们这些“老粉红”没有了投奔革命的去向！</p>
-<p>简而言之，<span><b>年轻，人傻，没有独立思考能力，容易被煽动，就是一个好用的“小粉红</b>”</span>。明明D8出征参与者很大一部分都是男性，但是团中央实力甩锅，把责任都丢给了“小粉红”：是你们这些不懂政治也不关心社会、平时只是操心点鸡毛蒜皮小事情、还会流着口水花痴男男配对意淫一下党媒卖萌小编的小呆瓜们干的哦。原本就是敝国人权歧视链里处于下方的女性，被定义为只关心美食自拍而对政治经济社会文化一无所知的女性、被暗示着卖完萌还是要回到家庭那一亩三分地领域里的女性，就是在团中央微博下欣然接受这个定性、还深深遗恨自己不是九零后不能做”小粉红”的女性们。我不知道她们是不是真的没有意识到：<span><b>你们平时最讨厌的“大写的直男癌”不正站在你们的眼前吗？在你们心里，这个国家最大的“直男癌”到底是什么样的存在呢？</b></span>事实上，“直男癌”又何尝不是一种标签呢？在满天标签大乱斗中，心理咨询师柯晗的一段话甚可玩味：“<span><b>一个有理智和基本独立思考能力的人自我反省并谨慎选择用词再来和愚昧言论讲道理的速度，根本远远赶不上有组织的愚昧不要脸的速度。</b></span>”</p>
-<p>至于“小粉红”到底是什么红，我想共青团中央是并不关心的。他们眼中的“小粉红”究竟是什么呢？网友们都说了<b>：《走向共和》这部神剧里，老佛爷对于义和团的一番讲解就足以说明一切。</b><br><em><br>
-封面图来自网络……hellokitty粉请饶我不死……</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/426660/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%A7%E6%88%98/?category=18271" rel="tag">FB表情包大战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E7%B2%89/?category=18271" rel="tag">兔粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E7%94%9F%E6%B4%BB%E5%AF%B9%E5%87%86%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%BD%93%E5%A4%B4%E8%80%8C%E6%9D%A5/" target="cdt-mirror">墙外楼 | 生活对准小粉红当头而来</a>
-</h2>
-<p><p>生活对准小粉红当头而来</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9cfnuj20dv0h6n14.jpg" alt="d60724d4jw1f0bgx9cfnuj20dv0h6n14" width="440" height="545" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9cfnuj20dv0h6n14-242x300.jpg 242w, http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9cfnuj20dv0h6n14.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9oc4pj20g2025mxn.jpg" alt="d60724d4jw1f0bgx9oc4pj20g2025mxn" width="440" height="59" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9oc4pj20g2025mxn-300x40.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9oc4pj20g2025mxn.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9u6pxj20gd023gm8.jpg" alt="d60724d4jw1f0bgx9u6pxj20gd023gm8" width="440" height="56" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9u6pxj20gd023gm8-300x38.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/d60724d4jw1f0bgx9u6pxj20gd023gm8.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
-<p>Mobile Guest :看半天才看明白，对自己的生活认识不太清醒，其实只是暴露年龄而已</p>
-<p>大火烤赵王 :每当他们自己权益受到侵害时候，都特么忍气吞声，吃着食堂猪食一样的饭，没见他们斗争，校内网络霸王条款没见他们斗争，却敢于翻墙叫骂，说明本质上小粉红就是一窝蜂起哄，真到了自己面对的时候，一个个都成了铁屋子里的怂货。</p>
-<p>以下内容来自推特：</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CZp6Q8PUkAAQRIl.jpg-large.jpg" alt="CZp6Q8PUkAAQRIl.jpg-large" width="543" height="790" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CZp6Q8PUkAAQRIl.jpg-large-206x300.jpg 206w, http://chinadigitaltimes.net/chinese/files/2016/01/CZp6Q8PUkAAQRIl.jpg-large.jpg 548w" sizes="(max-width: 543px) 100vw, 543px"></p>
-<p> </p>
-<div><a href="https://twitter.com/laoyang945" data-user-id="50969839"><strong data-aria-label-part="">老杨</strong> ‏<span data-aria-label-part="">@laoyang945</span></a><small><span data-aria-label-part="last" data-time="1453680533" data-time-ms="1453680533000" data-long-form="true">：</span></small>烟笼寒水月笼沙，旌旗百万出帝吧。粉红不知亡国恨，隔墙犹舔后庭花。</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E7%94%9F%E6%B4%BB%E5%AF%B9%E5%87%86%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%BD%93%E5%A4%B4%E8%80%8C%E6%9D%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E9%95%BF%E7%8E%8B%E4%BF%9D%E5%AE%89%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%A2%AB%E6%9F%A5/" target="cdt-mirror">BBC | 中国国家统计局长王保安“涉嫌严重违纪”被查</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/16012613591.jpg" alt="中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。" width="600" height="337" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/16012613591-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/16012613591.jpg 660w" sizes="(max-width: 600px) 100vw, 600px"><p>中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。</p></div>
-<p><strong>中国官方网站公布的消息说，中国国家统计局长王保安“涉嫌严重违纪”，正在接受调查。</strong></p>
-<p>据中央纪委监察部网站发布的声明，国家统计局党组书记、局长王保安“涉嫌严重违纪，目前正接受组织调查。”</p>
-<p>中纪委的声明只有简短的一句话，没有透露任何细节。</p>
-<p>从习近平的反腐运动开始以来，“涉嫌严重违纪”通常暗示官员有腐败行为。</p>
-<p>中纪委网站发表声明前仅几个小时，王保安还出席了有关经济数字的新闻发布会。</p>
-<p>根据中国国家统计局官方网站提供的公开信息：</p>
-<p><strong>王保安简历：</strong></p>
-<p>王保安，男，汉族，1963年生，河南鲁山人，1984年3月加入中国共产党，中南财经大学研究生毕业，经济学博士。</p>
-<p>1991年至1994年分别任财政部办公厅部长秘书室副处长级秘书、处长级秘书。</p>
-<p>1994年至1996年任国家税务总局办公厅局长秘书室处长级秘书。</p>
-<p>1997年任国家税务总局办公厅副主任。</p>
-<p>1998年至2000年任财政部办公厅副主任。</p>
-<p>2000年至2007年分别任财政部政策规划司司长、综合司司长。</p>
-<p>2007年至2009年12月任财政部经济建设司司长。</p>
-<p>2009年12月任财政部部长助理、党组成员。</p>
-<p>2012年2月任财政部副部长、党组成员。</p>
-<p>2015年4月任国家统计局党组书记、局长。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80%E9%95%BF%E7%8E%8B%E4%BF%9D%E5%AE%89%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%A2%AB%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA/?category=18271" rel="tag">严重违纪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BF%9D%E5%AE%89/?category=18271" rel="tag">王保安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E5%86%B7%E5%A4%A9%E6%8F%90%E9%95%BF%E6%B4%A5%E6%B9%96%EF%BC%9F%E4%BD%A0%E5%85%94%E5%8F%88%E8%85%B9%E9%BB%91%E4%BA%86%E5%90%A7/" target="cdt-mirror">仕图｜大冷天提长津湖？你兔又腹黑了吧</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%941.jpg" rel="attachment wp-att-426627"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%941.jpg" alt="兔1" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔1-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔1.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%942.jpg" rel="attachment wp-att-426626"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%942.jpg" alt="兔2" width="360" height="121" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔2-300x101.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔2.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%944.jpg" rel="attachment wp-att-426630"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%944.jpg" alt="兔4" width="360" height="182" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔4-300x152.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔4.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a></p>
-<p>新媒体的玩法，TUAN中央已经玩得很好了。比如遇到冬至谈饺子，遇到满月谈饼子，但是遇到寒潮……</p>
-<p>居然谈论的是长津湖！</p>
-<p>真是高级黑啊。</p>
-<p>长津湖战役是第9兵团在朝鲜打的仗，那一仗是打败联军，但是损伤很大，因为出国的时候没有领到冬衣，上万人冻死冻伤。当然你可以夸赞9兵团的战士英勇，但他们穿着秋装就被送到零下40度的雪地里，除了战略上急于出手之外，还有指挥官和后勤的各种不给力。</p>
-<p>为了赶紧突进，你可能就是要开进到冰天雪地被牺牲掉的。</p>
-<p>那是极大的悲剧和事故，今天的军队要避免的就是这样无谓的牺牲。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%943.jpg" rel="attachment wp-att-426625"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%85%943.jpg" alt="兔3" width="360" height="181" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/兔3-300x151.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/兔3.jpg 360w" sizes="(max-width: 360px) 100vw, 360px"></a></p>
-<p>用典要准确，多思忖。</p>
-<p>二月河《雍正王朝》里，三爷允祉一直是个爱读书野心不算大的阿哥，但是到了中年结局不好，雍正继位后，遇到皇太后的六十冥寿，让大家点戏，允祉点了一出《目连救母》，听着是关于孝道的故事，但是细细品味剧情：</p>
-<p>目连的母亲作恶，堕入了饿鬼道，目连深入地狱，用法力救走了自己的老妈。</p>
-<p>皇上就要想了：</p>
-<p>你这是暗示什么？朕的额娘会在地狱里吗？</p>
-<p>用一个梗、一个典故之前，先把前后搞清楚，不然的话，不如土，不如笨。懒于翻书找真相的人，没法子忠君体国。撑死做个带鱼猴。</p>
-<p>“你以为跳脱衣舞不要脸就行啊。下腰劈叉，一抬腿都得能抬到脑袋上。”——《不见不散》，葛优台词。</p>
-<p><strong>附作者转载要求：</strong></p>
-<p>2015年8月开始仕图已经开放微信公众号转载<br>
-站外转载只要注明<br>
-仕图 （shi4tu2）<br>
-再挂上二维码就可以转载<br><a href="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" rel="attachment wp-att-368426"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" alt="仕图" width="258" height="258" srcset="http://chinadigitaltimes.net/chinese/files/2014/10/8-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2014/10/8-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg 258w" sizes="(max-width: 258px) 100vw, 258px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A7%E5%86%B7%E5%A4%A9%E6%8F%90%E9%95%BF%E6%B4%A5%E6%B9%96%EF%BC%9F%E4%BD%A0%E5%85%94%E5%8F%88%E8%85%B9%E9%BB%91%E4%BA%86%E5%90%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89/?category=18271" rel="tag">朝鲜战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94/?category=18271" rel="tag">那年那兔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -585,7 +587,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -595,5 +597,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

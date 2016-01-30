@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,104 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%B7%A8%E9%A2%9D%E5%85%AC%E5%8F%B8%E5%80%BA%E5%8A%A1%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98/" target="cdt-mirror">自由亚洲｜中国巨额公司债务违约风险升高</a>
+</h2>
+<p><p>海外媒体近日刊登文章指，中国巨额公司债务的违约风险升高，今年煤炭等行业将有很多企业破产，导致对债券和银行贷款的违约。</p>
+<p>英国《金融时报》中文网1月29号刊登评论说，需求低迷、价格疲弱以及高杠杆削弱中国实力最强企业的活力，令中国的巨额公司债券的违约风险升至2008年金融危机以来的最高水平。数家国际金融分析机构已将更多中国公司列入评级下调观察名单。标准普尔列入评级下调观察名单的中国企业数量已占到其评级的所有中国企业的15%，是自2008年以来最高的比例，几乎是一年前8%的两倍。惠誉(Fitch)和穆迪（Moody’s）近期也把更多的中国企业列入了评级下调观察名单。</p>
+<p>文章说，中国大陆目前发行了大约15万亿美元的公司债券，相当于其国内生产总值的145%。中国政府明白，如果出现一波违约潮就会引发金融危机。得益于中国经济充足的流动性，以及官方大力阻止企业破产，以往中国的债券违约水平按国际标准来说并不高。不过，中国官员近期多次提出，将在今后3年基本解决那些占有资源，却很少甚至没有创造价值的“僵尸企业”的问题。中国国务院国有资产监督管理委员会主任张毅表示，有必要用今天的“小震”化解未来的“大震”。这类言论提升了今年债务违约案例增长将会得到中国政府默许的可能性，尤其是在金属、采矿、房地产、交通和建筑原材料等领域。这些公司中有许多已经负债累累。中国200强企业中杠杆程度最高的30家企业的债务相当于它们年收入总额的21倍。</p>
+<p>谈到中国公司的巨额债务违约风险问题，现在美国的中国学者程晓农认为：</p>
+<p>“在中国投资很多的，或者与在中国的外企关联密切的投行机构，现在他们最怕的是中国经济出大问题，那也意味着他们跟着出大问题。《金融时报》的这个分析，体现的其实是国际金融界对自己被中国金融危机拖下水的恐惧。但我想说的是，这个恐惧其实早就存在，只是他们一直当鸵鸟，不愿意面对而已。”</p>
+<p>评论说，在中国，银行对放贷日益谨慎，债券市场让境况不佳的企业得以再融资。去年12月，中国债券发行量同比增长1,695%，达2,120亿元人民币。有迹象表明，中国金融市场特有的宽容可能变得趋于严厉。中国国内评级AA的债券的平均收益率在过去几周从一年前的4%升至约4.6%，揭示人们对风险较高发行业的兴趣下降。一些观察人士表示，中国今年别无选择，只能让那些无可救药的僵尸企业破产，对债券和银行贷款违约。这些僵尸企业主要集中于煤炭行业，不仅已无力支付固定成本，也已无力支付可变成本。</p>
+<p>程晓农指出，在中国，产能过剩的“僵尸企业”无法偿还债务，同时多年来很多地方政府假借空壳公司发行大量债券融资，开发房地产。如今房地产泡沫破裂后，这些官方空壳公司的债务也难以偿还。</p>
+<p>“支撑过去这些年房地产开发的这些债完蛋的结果就是，债券卖给银行了，银行出现巨额的坏账，或者是债券最后以理财产品的形式卖给老百姓了，然后地方政府赖帐不还了，让老百姓每户几十万的资金泡汤了。无论哪一种形式，中国政府都很难承受，但是又不得不承受。”</p>
+<p>评论说，如果中国国内债券市场出现违约潮，投资者可能会加倍努力设法将资金转移到海外，加剧资本外流规模。有分析师认为，到了决定是否让国有企业或影子金融产品破产的时候，中国当局可能会“临阵退缩”，因为担心会对就业、经济活动和家庭信心产生连锁影响，这种担心不仅支撑了现有的债务架构，还鼓励了更多的借贷，以及在地方政府的默许下过剩产能的继续存在。</p>
+<p>北京《证券日报》1月29号的报道说，中国证监会当天表示，对拟实施重大资产重组的公司申请公开发行公司债券的，发行人应当结合业已公布或明确的重大资产重组方案，在募集说明书中披露该重组事项对发行人生产经营、偿债能力的影响。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%B7%A8%E9%A2%9D%E5%85%AC%E5%8F%B8%E5%80%BA%E5%8A%A1%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%88%B8/?category=18271" rel="tag">债券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%AD%90%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">影子银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%B8%BA%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C%E6%AD%A3%E5%90%8D/" target="cdt-mirror">德国之声｜长平：为非暴力不合作正名</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300.jpg" rel="attachment wp-att-426968"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300.jpg" alt="香港示威者声援唐荆陵（资料图片）" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a><p>香港示威者声援唐荆陵（资料图片）</p></div>
+<p>位于艾哈迈达巴德的甘地纪念馆里，四处墙上都写着甘地的名言。去年习近平访问印度时前往参观，我不知道他是否细读。我相信他对甘地的精神世界一定感到陌生。中共的历史教育，一直在论述暴力革命正当而有效。”弱者永远都不会宽容，宽容是强者的特质”之类的非暴力不合作说教，有些让人摸不着头脑。</p>
+<p>上世纪九十年代，也正是这种陌生感，让中国知识分子和中产阶级在遭遇了“六四”的残酷镇压之后，重新找到了精神的灯塔。从甘地、马丁•路德•金到图图主教，都成为媒体的明星。因为主张非暴力抗争而获得诺贝尔和平奖的达赖喇嘛，当然仍然是坏人——官方给出的理由是，他说一套做一套，乃“披着羊皮的狼”。</p>
+<p>从这个论断可以看出，官方期待的是”披着羊皮的羊”，也就是真正的顺从者。如果以这个标准来检验非暴力抗争的真实性，那是对这种抗争运动的误解和误导。在很大程度上，甘地等人在中国媒体受欢迎，正是基于这样的误解和误导。他们要的是”非暴力”，而不是它修饰的中心词”不合作”。</p>
+<p>中国的很多非暴力抗争主张者，常常谴责一些行动者过于激进。讽刺的是，甘地当年做过的很多事情，搬到当下的中国，一定会被谴责为太过激进。比如，他组织人们集体焚烧居民证，带领民众到海边自制海盐以抵制官盐，号召大家不纳税，不入公立学校，不上法庭，不入公职，不买英货等等。</p>
+<p><b>“思想即是犯罪”</b></p>
+<p>2010年“茉莉花革命”之际，美国学者吉恩•夏普（Gene Sharp）的《非暴力抗争手册》在中国网络广为流传，为非暴力不合作正了一次名。夏普在书中总结了198种非暴力抗争方式，区分“抗议与说服”、“拒绝合作”、“非暴力干预”3大类。他清楚地告诉人们，非暴力不合作运动首先不是去监督和谴责暴力，而是勇敢而智慧地行动，是一场推翻专制统治、建立民主政权的革命。</p>
+<p>夏普撕下了非暴力不合作温情默默的面纱，让人直面它的真谛。今天（1月29日），广州法院判决三名人权活动家唐荆陵、袁新亭和王清营（民间称为“广州三君 子”或“民主三剑客”）犯下煽动颠覆国家政权罪，分别判刑五年、三年零六个月和两年零六个月。据报道，法官判决的主要依据，是唐荆陵等人传播吉恩•夏普的书籍，认为书中反对社会主义，反对共产党。</p>
+<p>果然是如此荒唐的指控。这个指控在去年传出时，夏普对媒体表示，希望亲自到中国法庭说明情况。然而，我相信，如果夏普先生诚实地解释清楚他的著作，那只会加重“广州三君子”的罪行。毫无疑问，包括他的著作在内，西方大部分政治、社会、哲学和历史著作，以及无数的文学和艺术，都是在反对独裁专制，主张民主和自由。阅读和传播这些书籍是犯罪，那么正如奥威尔在《1984》中描述的那样，思想本身即是犯罪。</p>
+<p><b>真正的非暴力不合作</b></p>
+<p>“广州三君子”是非暴力不合作理念的真正践行者。十多年来，唐荆陵等人积极投身东莞劳工骚乱案、太石村罢免事件、赎回选票行动、”六四”纪念日、儿童疫苗 受害案、五千天告别专制倒计时行动、签署《零八宪章》、林昭纪念日、废除户籍隔离、普惠制基本养老金行动等政治抗争行动，多次被当局拘捕和折磨。此番判决之后，唐荆陵表示这是非法审判，放弃上诉，也是对非暴力不合作理念的彻底坚持。</p>
+<p>甘地的非暴力抗争，有源远流长的宗教精神和哲学理念支持。在黑暗的时刻，他也不止一次想过放弃。他曾感叹”当下有序的混乱比真正无序的混乱更糟糕”，号令同侪既要保持克制，又要为自由殊死决战（Do or die）。今天，中国非暴力不合作者面临的政治环境更加险恶，刘晓波、许志永、刘萍、唐荆陵、袁新亭和王清营等人的牢狱之灾早已超过甘地。</p>
+<p>无论如何，非暴力不合作在中国从误导到正名，是包括”广州三君子”在内的真正抗争者的杰出贡献。它让人想到甘地的另一句名言：”他们先是无视你，再来是嘲笑你，接着他们与你战斗，最后你赢了。”</p>
+<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%B8%BA%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C%E6%AD%A3%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E7%8A%AF/?category=18271" rel="tag">思想犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E6%96%B0%E4%BA%AD/?category=18271" rel="tag">袁新亭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C/?category=18271" rel="tag">非暴力不合作</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89-vs-%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E6%83%85%E6%80%80-%E9%83%BD%E6%98%AF%E7%9B%B8%E4%BC%BC%E7%9A%84/" target="cdt-mirror">【立此存照】黄安 vs 芮成钢：明星爱国者的情怀 都是相似的</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%84%E5%AE%89ISIS2.png" rel="attachment wp-att-426949"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%84%E5%AE%89ISIS2.png" alt="黄安ISIS2" width="500" height="296" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/黄安ISIS2-768x454.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/黄安ISIS2-1024x606.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/黄安ISIS2.png 2008w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
+<blockquote><p><a href="http://weibo.com/u/1707905652">@文山娃</a>:明星爱国者的情怀，都是相似的。尤其在山雨欲来之际。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d.jpg" rel="attachment wp-att-426946"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d.jpg" alt="65cc9274gw1f0hdqygliaj20hs0vkq6d" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/%E5%B0%8F%E5%B3%B6%E5%B6%BC%E5%A4%A9%E4%BA%AE%E5%95%A6">小島嶼天亮啦</a>:黄先牲真是高級黑,你在提醒我們曾經有位叫樊京輝的先生嗎?<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
+<p><a href="http://weibo.com/2281382515" target="_blank">行万里路的天使</a>：爱国者都跟恐怖分子一个德行：不与他们一个信仰就要杀杀杀<img title="[伤心]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ea/unheart.gif" alt="[伤心]"></p>
+<p>@文山娃: 哦，“失去祖国的凄惨”……是指博主没有中华民国竹联帮的保护，不敢飞桃园机场么。</p>
+<p>@京都探花: 自宫复出了</p>
+<p>@福景晓阳:黄安还能给isis送人？</p>
+<p>哈尔滨昊锋：芮城纲要在外面能和黄安同志珠联璧合，一个卖壮阳药的，一个以身实践的，共同爱好爱国声音喊的比谁都响亮。</p>
+<p>@浔阳女高音:请问黄同志，被家乡人唾弃、回家乡还要请人保护，凄不凄惨？</p>
+<p>@发布威海乳山：这家伙开始由分裂转向恐怖了</p>
+<p>@姚广孝_wayne:上个引用这段话的名人是谁大家都还记得清清楚楚，那位现在连死没死都是薛定谔状态，您也不嫌不吉利？</p>
+<p>@K-OA：黄公子你怎么跪在地上啊，快起来</p>
+<p><strong>另：</strong></p>
+<p>黄安近日<del>竟然</del>引用 Dr. Martin Luther King, Jr. 的名言来表达最近自己因遭“小人”举报而被打入冷宫的哀怨：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/MLK.png" rel="attachment wp-att-426945"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/MLK.png" alt="MLK" width="470" height="271" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/MLK-300x173.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/MLK-768x443.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/MLK-1024x591.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/MLK.png 2020w" sizes="(max-width: 470px) 100vw, 470px"></a></p>
+<p>但众所周知，Dr. King 是坚持使用非暴力抗争为非裔争取基本权利的人权主义者，不是那种闹着要把对手送给暴力恐怖组织的人。他反对暴力、反对仇恨、反对以牙还牙。他生前一直坚持以下观点：</p>
+<blockquote><p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate, only love can do that.<br>
+黑暗不能驱逐黑暗，唯有光明可以；仇恨不能驱逐仇恨，唯有爱可以。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89-vs-%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E6%83%85%E6%80%80-%E9%83%BD%E6%98%AF%E7%9B%B8%E4%BC%BC%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%94%9F%E6%84%8F/?category=18271" rel="tag">爱国生意</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%B2%81%E8%BF%85%E5%A6%82%E6%9E%9C%E7%94%9F%E5%9C%A8%E7%8E%B0%E5%9C%A8%EF%BC%8C%E5%B0%86%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84/" target="cdt-mirror">墙外楼｜鲁迅如果生在现在，将是这样的</a>
+</h2>
+<p><p>民国时期的鲁迅，是这样的，受人尊敬，不愁吃喝，而且还能看电影，旅游写字。而且闲下来还能批判政府。</p>
+<p>可是，鲁迅如果生在现在，将是这样的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/wp-1454119257363.jpg" alt="wp-1454119257363" width="505" height="384" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/wp-1454119257363-300x228.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/wp-1454119257363.jpg 500w" sizes="(max-width: 505px) 100vw, 505px"></p>
+<p>犯罪嫌疑人周树人，化名鲁迅，寻衅滋事！【调查显示刘和珍被击毙依规合法，鲁迅涉嫌造谣】</p>
+<p>1926年3月18日，军警人员在处置一起暴力袭击党和国家最高权力机关的非法集会中，果断开枪，击毙了为首闹事的刘和珍等人。事发后，有关部门立即封存了现场监控资料，走访了大量的目击证人，现已还原了事件真相。</p>
+<p>刘和珍早年就读南昌女子师范学校，因不守校规校纪且有伤风化，曾受到记大过的处分，后被勒令退学。考入北京女子师范大学之后，不思悔改，多次聚众闹事，蛊惑煽动不明真相的师生冲击学校以及党政机关，公然侮辱他人，严重干扰了单位秩序，屡次受到训诫和警告等处理。特别值得一提的是，时任校长杨荫榆是中国历史上第一位杰出的女性大学校长，却屡屡受到刘和珍等人的围攻和诋毁，大肆污蔑，以致被含冤免职，遭日寇枪杀。</p>
+<p>当天下午1点左右，刘和珍等人鼓动数千学生冲击国务院，企图要挟党和政府满足其无理要求，在铁狮子胡同被军警阻拦。刘和珍等人情绪激动，不听劝阻，现场一度十分混乱，甚至有人公然袭警，扬言夺枪。此前刘和珍也曾狂妄叫嚣：“外抗强权，内除国贼，非有枪不可！”为了避免事态恶化，负责现场处置的军警人员根据枪支使用的相关规定，多次警告无效后果断开枪，当场击毙刘和珍等数名为首的激进分子，局面才得以控制。</p>
+<p>调查组通过大量的人证物证，并反复观看和分析了现场的收集到的资料，确认军警人员开枪依规合法。</p>
+<p>另据报道，化名鲁迅的北大教师周树人，本人并没有亲临现场，也未经调查核实，却以《纪念刘和珍君》为题发帖，对党和政府恶意中伤，造谣污蔑，导致国人误以为是政府下令开枪。国务院总理段祺瑞号称“六不总理”，即不抽不喝不赌不嫖不贪不占，廉明公正，生活简朴，一世英名却因此而毁于一旦。周树人的谣言涉嫌山巅寻性，公然侮辱他人，且导致党和政府的形象严重受损，我执法部门已经接到热心群众举报，将另案处理。<img src="http://chinadigitaltimes.net/chinese/files/2016/01/0981grey.gif" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%B2%81%E8%BF%85%E5%A6%82%E6%9E%9C%E7%94%9F%E5%9C%A8%E7%8E%B0%E5%9C%A8%EF%BC%8C%E5%B0%86%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%92%8C%E7%8F%8D/?category=18271" rel="tag">刘和珍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%A6%E5%A8%81%E5%AE%98%E5%91%98%E5%A4%A7%E5%8F%91%E6%AD%A6%E5%A8%81%EF%BC%8C%E8%AF%B7%E8%AE%B0%E4%BD%8F28%E5%B9%B4%E5%89%8D%E8%BF%99%E4%B8%89%E4%BD%8D%E8%AE%B0%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/" target="cdt-mirror">呦呦鹿鸣｜武威官员大发武威，请记住28年前这三位记者的名字</a>
 </h2>
 <p><p>先说是嫖娼<br>
@@ -548,119 +643,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8F%BC%E4%B8%80%E8%BE%88%E5%AD%90%E9%A3%9E%E7%9B%98%E4%BD%A0%E4%B9%9F%E4%B8%8D%E5%A7%93%E8%B5%B5/" target="cdt-mirror">【网络民议】叼一辈子飞盘你也不姓赵</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" rel="attachment wp-att-422784"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg" alt="赵家人的狗" width="300" height="225"></a></p>
-<p>2015年9月，中共党报《人民日报》旗下的《环球时报》总编胡锡进<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/">被曝遭内部警告处分</a>，一份《人民日报编委会关于给予胡锡进同志警告处分的决定》在网络疯传。中纪委今日正式发布《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BD%9C%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%BC%96%E5%A7%94%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%B7%A1%E8%A7%86%E6%95%B4%E6%94%B9%E6%83%85%E5%86%B5%E7%9A%84%E9%80%9A%E6%8A%A5/">人民日报编委会关于巡视整改情况的通报</a>》，指涉事者已被责令将6417.9元退回报社：</p>
-<blockquote><p>严肃查处环球时报社未经审批擅自去波兰公款旅游问题。已按照有关规定，对环球时报总编辑给予行政警告处分，责令其与环球时报副总编辑向中央纪委驻社纪检组作深刻书面检查，并分别向报社计财部退回两位同志个人应承担的有关费用6417.9元。同时，举一反三，进一步严格社属企业负责人请示报告制度，切实加强各社属企业因公出国管理。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/wjilq" target="_blank">@先生加油</a>：叼一辈子飞盘你也不信赵。<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://weibo.com/2883143800" target="_blank">@切吧日文打卤面</a><i title="微博个人认证 "></i><i></i>：胡总编鼓吹允许适度性腐败，这点事还处分个毛<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<blockquote><p><a href="http://weibo.com/chinakzong" target="_blank">@中港台全球资讯</a>：图片评论<br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6f40a0f3gw1f0f1s470cvj216u0qo775.jpg" rel="attachment wp-att-426767"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6f40a0f3gw1f0f1s470cvj216u0qo775.jpg" alt="6f40a0f3gw1f0f1s470cvj216u0qo775" width="400" height="249" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6f40a0f3gw1f0f1s470cvj216u0qo775-300x187.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6f40a0f3gw1f0f1s470cvj216u0qo775.jpg 440w" sizes="(max-width: 400px) 100vw, 400px"></a></p></blockquote>
-<p><a href="http://weibo.com/1619805940" target="_blank">@骑驴的纳斯尔丁</a>：这年头，吃饲料会叼飞盘也不是真走肖，而是走肖家的犭句。你说那些不在编的算啥？垃圾箱里予犭句？<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"><img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<blockquote><p><a href="http://weibo.com/aaaaa99999" target="_blank">@馨蕊流年</a><i></i>：终于知道胡编为什么去波兰了，人家也是为了工作需要，你们这些别有用心的人幸灾乐祸，太不理解胡编爱国之心了，为了祖国需要去锻炼本事，有错吗？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/6b8c2377gw1f0f2rfhbhuj20gi0g042u.jpg" rel="attachment wp-att-426766"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/6b8c2377gw1f0f2rfhbhuj20gi0g042u.jpg" alt="6b8c2377gw1f0f2rfhbhuj20gi0g042u" width="400" height="388" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/6b8c2377gw1f0f2rfhbhuj20gi0g042u-300x291.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/6b8c2377gw1f0f2rfhbhuj20gi0g042u.jpg 440w" sizes="(max-width: 400px) 100vw, 400px"></a></p></blockquote>
-<p><a href="http://weibo.com/tlldxg" target="_blank">@俗家人释永乖</a><i></i>：<img title="[泪流满面]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/lxhtongku_org.gif" alt="[泪流满面]"><img title="[泪流满面]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/lxhtongku_org.gif" alt="[泪流满面]"><img title="[泪流满面]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/lxhtongku_org.gif" alt="[泪流满面]">我<a href="http://weibo.com/n/%E8%83%A1%E9%94%A1%E8%BF%9B?from=feed&loc=at" target="_blank">@胡锡进</a> 花点小钱你都弄我？让我以后怎么给你舔？！</p>
-<p><a href="http://weibo.com/oceanbluesea" target="_blank">@蓝色之东海</a>：真是笑屎人，平日里为党国接了多少飞盘，结果只是污了几千块钱就被处分！好可怜<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p>@zzh330007：每天辛勤叼飞盘，几千块都不给，胡编太委屈了。。。</p>
-<p>@易水寒zero：复杂中国不好评论</p>
-<p>@南京世界之窗：哎呦，怎么还带这样的，明明我这么用心护主</p>
-<p>@HoustonCowGirl：爱犬偷吃狗粮</p>
-<p>@飞机发火自干五-绿营英雄我黄安：这里有人直播虐狗，爱狗组织表示强烈抗议</p>
-<p>@Stimmung:赵家虐狗</p>
-<p><strong>@leyecn乐也:赶紧发表社评：《当好“看门狗”，也要讲规矩守纪律》</strong></p>
-<p>@james_lun：再多花几十块，凑个6489块钱呗？</p>
-<p>@光三景页：矮油，好可怜哦。一条狗而已。想怎么玩你分分钟玩死你。</p>
-<p><strong>@疯狂的五月禁绿：反腐主要是看站队，主要是打脸，钱吗，大撒币不放眼里</strong></p>
-<p><strong>@冬瓜老先生：哎，丢了12835.8个五毛。。。。</strong></p>
-<p>@qmxqm：为赵家叼铁盘叼到牙都崩了，到头来连报销几千块都要被真赵勒令写检讨，惨</p>
-<p>@远村近郊02：胡编叼飞盘，门牙都嘣断了，这仨钱就当做组织赔偿给胡编的镶牙费嘛！</p>
-<p>@武昌军节度使守司徒兼侍中鄂国公：中国很复杂，公款旅游在众多社会问题中显得并不那么急迫，单独把胡锡进拎出来示众，似乎暴露处某些人对主流舆论不满的情绪。。。。。——艾玛我编不下去了。。</p>
-<p>@捉刀人：我为党国叼过盘！我为星辰大海立过功！放开我，我要见组席！</p>
-<p>@尼禄1225：胡编，赞歌别停，快来了，快来了……预备——唱！</p>
-<p>@诸子百家之一: 唱“左”的高调对当事人很不利，住房、收入、子女家属、活动等，都会被公众拿来跟你的言行对照审视，一旦不一致，就会被当成是伪君子。</p>
-<p>@啦五米图：@环球时报 @胡锡进 坐等花式叼盘<br><strong><br>
-附：花式叼盘实例</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%8A%A4%E4%B8%BB.png" rel="attachment wp-att-426771"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%8A%A4%E4%B8%BB.png" alt="护主" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/护主-300x49.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/护主-768x126.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/护主-1024x169.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/护主.png 2004w" sizes="(max-width: 2004px) 100vw, 2004px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8F%BC%E4%B8%80%E8%BE%88%E5%AD%90%E9%A3%9E%E7%9B%98%E4%BD%A0%E4%B9%9F%E4%B8%8D%E5%A7%93%E8%B5%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%A2%AB%E5%A4%84%E5%88%86/?category=18271" rel="tag">胡锡进被处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%8E%8B%E5%81%A5%E6%9E%97%EF%BC%9A%E9%A9%AC%E5%BE%B7%E9%87%8C%E6%94%BF%E5%BA%9C%E5%BE%85%E6%88%91%E5%83%8F%E7%8B%97/" target="cdt-mirror">环球时报 | 王健林：马德里政府待我像狗</a>
-</h2>
-<p><p>自万达集团于2014年买下马德里西班牙大厦之后就如何改建一直和马德里市政府进行商讨拉锯战，但是双方对改建的方案所持意见距离相去甚远，万达集团要推倒重建，而马德里政府回复：绝对不行。多次商量无法达成合作意向，上周西班牙媒体传出万达集团已经开始解散位于马德里的项目办公室员工，但万达不作任何说明，消息传出马德里市长马上出面辟谣称，万达不会走，大厦改建问题还在商讨中。</p>
-<p>西班牙欧浪网27日报道，王健林对于西班牙大厦的改建和马德里政府进行过多次交涉，但都是无果而终，媒体用怀疑的口吻称：马德里市长卡梅娜和她的政党正在想尽一切办法确保万达集团在马德里超过千万欧元的投资，并且将会带来几千个就业机会吗？每一个事件背后都有自己的黑暗面。</p>
-<p>在26日的谈判中，万达集团老总王健林在西班牙感受到了前所未有的耻辱。他称“一生中都没有如此糟糕的时刻!”，马德里市政府“像对待狗一样对待我”，媒体称，愚蠢的女市长和她的团队最终让万达集团完全放弃西班牙大厦的改建项目。</p>
-<p>但马德里市政府在27早晨举行的政府工作会议上，卡梅娜市长对媒体一再强调，万达和王健林不会离开西班牙，外面流传万达集团放弃西班牙大厦改建计划是“谣言”，卡梅娜表示“万达到现在还没有露面是因为我们还在谈判中”。马德里城市可持续发展部门主席也强调：“我们不会让万达走，双方还在谈判中，为了让万达能够有可行性的改造西班牙大厦的方案，我们正在全力研究，做出解决方案，为万达提供最大的保障。”</p>
-<p>记者了解到，万达集团已经完成购买马德里西班牙大厦的全部支付手续，大厦业主的名称已经改为王健林。但并不是王健林完全有权利支配大厦的生杀大权，因为大厦属于马德里政府历史保护遗产的建筑，买卖可以随意，改建则要经过政府的批准。王健林在买下大厦后恰逢马德里选举，新市长上任后对前任市长对王健林的承诺一概不予承认，导致今天王健林的进退维谷的窘境。有读者问，西班牙民众反对王健林的拆楼举措是否参杂反华情绪，记者认为，如果仅仅是因为“反华情绪”受到市政府的支持而反对王健林拆楼，理论上站不住脚，西班牙政府和中国政府近年来的友好互动非常热烈。反对拆楼主要碍于相关的法律规定，其次再是民众对标志性建筑物的怀念。西班牙大厦改建受阻和之前西班牙电视台播放“羞辱华人”节目应该没有直接联系。</p>
-<p>西班牙大厦在几十年的历史中已经多次转手，2006年西班牙大银行BBVA买下后准备斥巨资改建，但是西班牙随即遭到史无前例的经济危机，BBVA银行面临破产危险，不仅大厦的改建落空，买下的大厦还成了一个累赘。自王健林买下后，大厦即刻成为热门话题。王健林的团队认为建造大厦时使用的建筑材料过于老旧，已经不能维持大楼的支撑因此建议全拆。</p>
-<p>作者：王方</p>
-<p><strong>附：</strong></p>
-<p>万达集团关于环球网“王健林怒斥马德里市政府”的声明</p>
-<p>针对今日环球网关于：王健林怒斥马德里市政府：“像对待狗一样对待我”的报道，万达集团郑重声明：此新闻严重失实，根本没有报道中提到的万达与马德里市政府的谈判，王健林董事长更不可能发表如此言论，万达西班牙大厦项目正在重新进行全面评估。</p>
-<p>此声明</p>
-<p>大连万达集团股份有限公司</p>
-<p>2016年1月28日</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E7%8E%8B%E5%81%A5%E6%9E%97%EF%BC%9A%E9%A9%AC%E5%BE%B7%E9%87%8C%E6%94%BF%E5%BA%9C%E5%BE%85%E6%88%91%E5%83%8F%E7%8B%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">万达集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BE%B7%E9%87%8C/?category=18271" rel="tag">马德里</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E8%B5%84%E5%85%AC%E5%8F%B8%E6%94%B6%E8%B4%AD%E7%BE%8E%E5%9B%BD%E5%9B%BE%E7%89%87%E5%BA%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%BC%82%E5%B8%B8%EF%BC%9F/" target="cdt-mirror">自由亚洲｜中资公司收购美国图片库有什么异常？</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/image-1.jpg" rel="attachment wp-att-426759"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/image-1.jpg" alt="王丹和吾尔开希通过发表声明的方式表达忧虑是因为视觉中国收购的两家美国图片库拥有近5000万张原版照片版权， 其中包括大量1989年六四天安门事件的现场照片，著名的“王维林挡坦克”照片也在其中。" width="550" height="401" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/image-1-300x219.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/image-1.jpg 622w" sizes="(max-width: 550px) 100vw, 550px"></a><p>王丹和吾尔开希通过发表声明的方式表达忧虑是因为视觉中国收购的两家美国图片库拥有近5000万张原版照片版权， 其中包括大量1989年六四天安门事件的现场照片，著名的“王维林挡坦克”照片也在其中。</p></div>
-<p>在深圳主板上市的中国民营企业视觉中国宣布以不到一亿美元的价格从美国科斯比公司收购贝特曼和斯格玛美国两大版权图片库。然而，一桩看似正常的商业收购却引发前八九“六四”天安门民主运动学生领袖王丹和吾尔开希星期三发表联合声明，称本次收购可能意味着中共的审查已经扩展到全球范围。</p>
-<p>王丹和吾尔开希通过发表声明的方式表达忧虑是因为视觉中国收购的两家美国图片库拥有近5000万张原版照片版权，其中包括大量1989年六四天安门事件的现场照片，著名的“王维林挡坦克”照片也在其中；中资公司视觉中国的收购让这些记录“六四”的图片命运堪忧。</p>
-<p>当年“六四”事件中的学生领袖、目前旅居美国的王超华女士长期研究“六四’问题。星期三，她对自由亚洲电台记者表示，王丹和吾尔开希的声明说的很到位：</p>
-<p>“就是说，中国现在凭借财大气粗，试图控制世界对形象的塑造。我希望王丹和吾尔开希的声明能被西方媒体广泛报道。”</p>
-<p>王超华希望西方媒体广泛关注王丹和吾尔开希的声明是因为她认为收购之后的两家图片库将沦为中共的宣传工具，使公众从两家图片库查阅有关“六四”事件时可能不再像以往那样容易。中国媒体在报道视觉中国此次收购时，只字不提被收购的两大图片库中含有大量有关“六四”事件的图片。美国有媒体指出，现在是两家图片库版权持有人的视觉中国可以对图片作出限制，阻止其在海外发布。</p>
-<p>海外长期关注中国问题的明镜新闻出版集团创办人何频先生星期三表示，虽然任何历史事件随着时间推移都会有一定程度的淡化，但是“六四”不是一个历史事件，而是一个现实事件，只要真相一天没有大白于天下，一天没有得到公正的评价，它就还会持续相当一段时间：</p>
-<p>“中共在过去多年一直都在试图掩盖真相，但作用有限，没有根本性的作用。现在，六四事件对中国政治而言是一个随时可能引发转折的关键点，而不是我们通常所说的一个历史事件。由此，我强调六四是中国一个现实事件，而非历史事件，在未来是中国政治变化中的一个关键因素，具有标志性。这一点并不会因为两家美国图片库被一家中资企业收购而有所改变。”</p>
-<p>针对视觉中国的收购活动，有网友讽刺地说：“原来国耻是可以买回来的，日本人和德国人应该多跟中共学习”。另外也有网友调侃，“一个没有版权意识的国家，以版权法阻止丑事张扬，实在是黑色幽默。</p>
-<p>虽然成立于2000年六月的视觉中国声称自己是民营，但王超华担心视觉中国的收购就像马云耗费巨资收购香港《南华早报》和地产大亨王健林35亿美元收购美国传奇影业公司一样，背后可能都有中国政府的指使。对此，何频表示</p>
-<p>“我觉得还没有任何证据显示，这些收购案背后都有一只黑手。然而，中国商人兼并独立或自由的媒体确实令人担忧，因为这些中国企业的收购即使背后没有中国政府的操纵，他们在中国所处的生存环境让其保持一个可以监督和批评中 国政府的媒体是很难做到的，那样将会使他们中国难以生存。 然而，反过来说，如果收购之后不允许被收购的媒体进行保持独立和自由，中国企业收购也不会有什么用处。”</p>
-<p>王丹和吾尔开希在声明中要求视觉中国确保其收购所有图片的自由流通，因为图片属于历史和全人类。视觉中国收购的贝特曼和斯格玛美国两大版权图片库中的近5000万张图片记录了19世纪到20世纪的全球重大历史事件。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E8%B5%84%E5%85%AC%E5%8F%B8%E6%94%B6%E8%B4%AD%E7%BE%8E%E5%9B%BD%E5%9B%BE%E7%89%87%E5%BA%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%BC%82%E5%B8%B8%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">天安门民主运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7%EF%BC%9A%E8%A2%AB%E7%85%BD%E9%A2%A0%E7%9A%84%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/" target="cdt-mirror">西域武僧：被煽颠的望云和尚</a>
-</h2>
-<p><p>和望云和尚相识，也是在2013年。当年他云游北平，京城诸友饭醉相迎。席间大家畅谈甚欢，也了解了望云和尚的一些故事，得知他正在为他所在的宁德镍合金化工项目与当地政府抗争。</p>
-<p>算来我皈依佛门也近三十年了，于佛法也算略有深入。佛门中人本应四大皆空，以道为身。为匡公义不惜身命，以八正道为本，救护众生，彰示因果，令人解脱。然今日之佛教徒，堕落深者惟求功名利养，堕落浅者只愿自了往生。且不说如是修行，往生者佛国即是地狱，往大了说长此以往，三武一毛灭佛之灾恐怕又将再现。历史上哪一次佛难不是因佛门弟子与官宦统治阶层苟合，背离正道所致？文革不远，可惜佛门之中又有几人看破？因此，十多年来我耻于谈佛。</p>
-<p>而望云和尚不同，在微博上我们神交已久，无论是维权话题还是佛教话题都沟通过很多，特别是对太虚大师“人间佛教”之学，都心向往之。</p>
-<p>望云和尚一身兼临济曹洞，禅门正脉。在福建宁德有个小小的九仙禅寺，据说山清水秀，令人心动不已。那次在京饭醉之后，他回到庙里，没几天就一个人只身前往宁德市政府，举牌抗议上马镍合金化工项目，后来得知他因此被拘留十天，令我对他更加佩服不已。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A.jpg" alt="望云和尚抗议宁德镍合金化工项目" width="550" height="550" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>望云和尚抗议宁德镍合金化工项目</p></div>
-<p>14年十月，我俩又在广州相见，办完了事儿，我受邀来到他宁德的小庙。这里真是修行的好地方，背靠群山环抱，前临霍童灵溪。山上翠竹如锦缎，山下巴蕉映霞云。山泉清澈，茶树成行，天清云淡，鸟鸣啾啾。令人一见便流连忘返，于是我就厚着脸皮赖在他的小庙不走了，一住就是半年多。期间诵读了两遍《华严经》，还学会了红茶和绿茶的炒制。每日早晚功课，青灯古佛，难得的恬静清闲。正所谓：百年三万六千日，不及僧家半日闲。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A2.jpg" alt="释性慧法师，号望云。俗名林斌" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚2-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚2.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"><p>释性慧法师，号望云。俗名林斌</p></div>
-<p>2015年过了清明，庙中茶叶做完，我也暂时辞别望云和尚，离开了九仙禅寺。然而刚过七月中，便传来望云和尚被警方抓捕的消息，继而和709事件中被捕诸君一样，不允许律师会见，拒不通知家属。一至半年，没有任何消息。昨天，望云和尚的律师龙霖律师发布消息，才得知他因“煽动颠覆政府”被批捕。在这期间，望云和尚七十多岁的老母亲，一位护持九仙禅寺十多年的老居士也被赶出了寺院，九仙禅寺就此被当地政府非法强占了。</p>
-<p>国寔唯坚，专制如磐石。哪怕一丝光亮的透入，都需仁人志士用自由、鲜血乃至生命为代价。望云和尚是佛陀教义坚定的践行者，横遭此囹圄之灾，更显以身饲虎的英勇。作为佛教徒，人生最大的意义反不在于成就了什么，而是在坚守了什么，才不辜负“荷担佛陀家业”，不枉为”住佛形象”之功德。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A3.jpg" alt="望云和尚3" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚3-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/01/望云和尚3.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"><p>望云在九仙禅寺书房</p></div>
-<p>望云和尚好词，而我好诗。故以诗赞曰：</p>
-<p>九仙寺内九仙山，</p>
-<p>一片冰心一片天。</p>
-<p>庙小方能平沟壑，</p>
-<p>望云阁上天地宽。</p>
-<p>＝＝＝＝思念的分割线＝＝＝＝＝</p>
-<p>各位看官：原创不易，请有钱的帮个钱场——打赏，没钱的帮个人场——转发！拜托！</p>
-<p>欢迎加西域武僧微信好友交流：xyws8964</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7%EF%BC%9A%E8%A2%AB%E7%85%BD%E9%A2%A0%E7%9A%84%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BB%99%E7%A6%85%E5%AF%BA/?category=18271" rel="tag">九仙禅寺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9B%E4%BA%91%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">望云和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E9%A2%A0/?category=18271" rel="tag">煽颠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%9F%9F%E6%AD%A6%E5%83%A7/?category=18271" rel="tag">西域武僧</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -672,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BB%99
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -682,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BB%99
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

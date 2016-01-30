@@ -21,9 +21,146 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%A6%E5%A8%81%E5%AE%98%E5%91%98%E5%A4%A7%E5%8F%91%E6%AD%A6%E5%A8%81%EF%BC%8C%E8%AF%B7%E8%AE%B0%E4%BD%8F28%E5%B9%B4%E5%89%8D%E8%BF%99%E4%B8%89%E4%BD%8D%E8%AE%B0%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/" target="cdt-mirror">呦呦鹿鸣｜武威官员大发武威，请记住28年前这三位记者的名字</a>
+</h2>
+<p><p>先说是嫖娼<br>
+然后说是“敲诈政府”<br>
+甘肃武威警方抓捕了三名记者。</p>
+<p>昨天，一封信件透露<br>
+被抓记者被抓前不止一次感叹：</p>
+<blockquote><p><strong>被“武威公安盯上了”</strong><br><strong>“宣传部门恨不得把我赶出武威”</strong></p></blockquote>
+<p>没有人对这封信件公开负责<br>
+但我们可以从其他地方看到类似的表达</p>
+<p>比如<br>
+柴静在《看见》中记载说<br>
+她以央视记者身份去武威时</p>
+<blockquote><p><strong>“我们刚坐下，大门咣一响，</strong><br><strong>来了五六个当地大汉，</strong><br><strong>不说是谁，要赶我们走。”</strong></p></blockquote>
+<p>比如<br>
+《长江商报》记者熊子熙回忆说<br>
+2015年初新华社报道荣华工贸向腾格里沙漠排污后<br>
+他跟着报道线索前往武威</p>
+<p>被限制人身自由6小时<br>
+被迫删除所有手机、相机资料<br>
+宣传部长<strong>现场撕掉采访笔录</strong></p>
+<p>并勒令警察：</p>
+<blockquote><p><strong>“把这人送上高速，武威不欢迎他。”</strong></p></blockquote>
+<p>金张掖，银武威。<br>
+果然是凛凛武功！</p>
+<p>武威这块地方，对正常新闻的压制是有“传统”的<br>
+在1988年4月1日的《中国青年报》头版上<br>
+鹿鸣君找到这样一篇报道</p>
+<p><strong>《武威地市领导压制新闻批评大发武威</strong><strong>》</strong></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%811.jpg" rel="attachment wp-att-426904"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%811.jpg" alt="武威1" width="450" height="633" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威1-213x300.jpg 213w, http://chinadigitaltimes.net/chinese/files/2016/01/武威1.jpg 450w" sizes="(max-width: 450px) 100vw, 450px"></a></strong><br>
+▲在左下角</p>
+<blockquote><p><strong>武威地市领导压制新闻批评大发武威</strong></p>
+<p>《武威报》发表人民代表的心里话惹怒了地方官员<br>
+地委决定收回重印并要求人民自行销毁前期报纸</p>
+<p><strong>本报讯 （马季元、孙凯记者马应珊报道）</strong> 3月17日，甘肃省武威市爆出《武威报》记者手持地委宣传部的介绍信沿街收缴报纸的新闻。该报前一天发了篇《人民代表的心里话》，从而惹出了麻烦。</p>
+<p>《人民代表的心里话》（见本报今日一版）是武威市部分人民代表在一次座谈会上的发言纪要。代表们在发言中反映了基层的一些问题，就政府工作和干部作风提了些批评意见，结果引起部分地、市领导人的强烈不满。</p>
+<p>3月7日，武威市一届人大五次会议闭幕前一天，武威地区行署专员魏万进和副专员刘生荣召集14名基层人民代表座谈。两位专员开宗明义地说：“今天请大家来，谈谈想法，看法，谈谈大家最关心的问题，讲实际话，心里话。”“不要大家讲‘好’要多提意见，发牢骚。对省、地、市人民政府的方针政策、办法措施、干部的工作作风，都可以提，横挑鼻子竖挑眼。”于是，代表们纷纷就农业生产、水利设施、粮食定购、农用物资、物价、教育、市政建设、干部作风等问题，反映了基层的情况，提出了批评意见。</p>
+<p>《武威报》记者就此整理出一篇座谈纪要（据说为了使“读者”能够接受，还删去了一些“有棱角的话”)，经有关部门负责人阅后见报。</p>
+<p><strong>看了《人民代表的心里话》，武威市市长柳宏克大为恼火</strong>，当即打电话给地委书记杨作林，说：“我是省上、地委派来的，不是自己要来的，如果不行我可以走嘛！”杨作林书记与其他几位地委领导就这篇座谈纪要提出了六条看法和五条建议，认为“报社处理方式不对”,“内容问题很多，涉及了许多敏感问题，如粮食订购合同、价格等”,“对领导作风的指责不准确、打击面太大” 等等。地委决定：扣发尚未发出的报纸，已发出的全部收回。</p>
+<p><strong>第二天，报社奉命派出8名记者，两人一组，沿武威市东西南北四条大街挨门收报。所到之处，听到的尽是责骂之声。</strong>许多群众说：你们说清楚，这张报错在哪里？说出了，就拿走。参加收报的一位记者说：“我跑了一整天，去了几十个单位，接触了上百人，都说这篇报道说的是实话，是人民的心里话。”8名记者奔波一天，只收回了110份报纸。事后，武威市满城风雨，人们争相传阅未被收走的报纸，纷纷给报社打电话、写信表示强烈不满。</p>
+<p>3月19日，订户们收到重印的16日报纸，一条一般性的会议消息代替了原来的座谈纪要，上面还刊出一条启事，<strong>要求读者“自行销毁前一张报纸”</strong>。</p></blockquote>
+<p><strong>  </strong></p>
+<p><strong>让我们记住中国青年报这篇报道三位记者的名字</strong></p>
+<p><strong>他们是</strong></p>
+<blockquote><p><strong>——</strong></p>
+<p><strong>马季元、孙凯、马应珊</strong></p>
+<p><strong>——</strong></p></blockquote>
+<p><strong>他们为什么这么重要？</strong><br><strong>因为</strong><strong>并不是只有他们有机会做这个报道</strong></p>
+<p>据1989年8月的期刊《新闻研究资料》中《武威收报事件始末》记载，当时，甘肃日报、新华社甘肃分社也都了解这一线索。新华社甘肃分社的记者采访后，将报道发到总社，值班编辑不同意发稿，还同甘肃分社负责人争执起来，<strong>认为：</strong></p>
+<blockquote><p><strong>“地委有权收报纸”。</strong></p></blockquote>
+<p>中国青年报的报道引起时任甘肃省委书记的李子奇重视，1988年4月4日下午，甘肃省委召开书记办公会议，讨论收报事件。会上，武威地委书记杨作林汇报并检讨。省顾委、省人大、省纪委的负责人黄络斌、许飞青、王占昌、吴坚先后发言，</p>
+<blockquote><p><strong>批评了杨作林等的错误，</strong><br><strong>并分析了错误产生的根源</strong>。</p></blockquote>
+<p>李子奇严肃地批评了杨作林，他说，在改革开放和加强社会主义民主和社会主义法制的今天，在全国人大会召开期间，发生这样的事件，性质是严重的，希望武威地委很好地总结经验教训。他还要求</p>
+<blockquote><p><strong>全省各级党委以此为戒。</strong></p></blockquote>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%812.jpg" rel="attachment wp-att-426903"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%812.jpg" alt="武威2" width="550" height="207"></a></strong></p>
+<p>在强大的舆论压力下，杨作林“心悦诚服”地向《中国青年报》记者表示：</p>
+<blockquote><p><strong>感谢媒体的批评，</strong><br><strong>将在《武威报》上公开发表检讨，</strong><br><strong>请省委将他的检讨转发全省，</strong><br><strong>以使更多的干部接受教训。</strong></p></blockquote>
+<p>4月7日，《中国青年报》发表《武威地委书记感谢本报批评》。最终，这组报道获得1988年全国好新闻评选一等奖。</p>
+<p>但是，快三十年过去了<br>
+看起来<br>
+武威面对新闻媒体的工作方法不仅没有好转<br><strong>反而在愚蠢的路上越走越远</strong></p>
+<p>真不知这武威官员发的是谁家的武威？<br>
+真不知这武威城到底是谁的城，<br>
+到底谁的天下？</p>
+<p>在当时的收报事件中，据甘肃记协于清潍记载，8名记者手持地委宣传部介绍信挨家挨户回收报纸，“所到之处，听到的都是一片责骂声”，“行署审计处一位负责人说：旧社会也只听说过报上开天窗的，查封报馆的，还没有听说过收报的，何况在建设民主政治的今天，</p>
+<blockquote><p><strong>你们的总编连这点常识都不懂吗？”</strong></p></blockquote>
+<p>“市政府只交回了三份报纸，市委一份也没有交回来。有人讽刺挖苦记者说：‘武威报办了三年，就出来这么一期说实话的好报，你再收掉，还办啥哩？’”</p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%813.jpg" rel="attachment wp-att-426902"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%813.jpg" alt="武威3" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威3-300x242.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/武威3.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a> </strong></p>
+<p>最后，与诸君分享泰晤士报记者莫理循一百年前拍摄的几张凉州照片。凉州即在今天武威境内，这次抓捕记者的，即为凉州区。</p>
+<p>也许<br>
+我们要在一百年前的照片中<br>
+重新整理一下世界观、人生观</p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%814.jpg" rel="attachment wp-att-426909"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%814.jpg" alt="武威4" width="450" height="332" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威4-300x221.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/武威4.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"></a></strong><br><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%815.jpg" rel="attachment wp-att-426908"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%815.jpg" alt="武威5" width="400" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威5-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/01/武威5.jpg 560w" sizes="(max-width: 400px) 100vw, 400px"></a></strong><br><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%816.jpg" rel="attachment wp-att-426907"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%816.jpg" alt="武威6" width="400" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威6-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/01/武威6.jpg 560w" sizes="(max-width: 400px) 100vw, 400px"></a></strong></p>
+<p><strong>所以，今天的呦呦鹿鸣荐书是：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%817.jpg" rel="attachment wp-att-426906"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%817.jpg" alt="武威7" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威7-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2016/01/武威7.jpg 586w" sizes="(max-width: 586px) 100vw, 586px"></a><br>
+你眼里的中国，是怎样的？</p>
+<p><em><strong>来自微信公号： 呦呦鹿鸣</strong></em><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3.jpg" rel="attachment wp-att-426905"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3.jpg" alt="呦呦鹿鸣" width="250" height="250" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣.jpg 258w" sizes="(max-width: 250px) 100vw, 250px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%A6%E5%A8%81%E5%AE%98%E5%91%98%E5%A4%A7%E5%8F%91%E6%AD%A6%E5%A8%81%EF%BC%8C%E8%AF%B7%E8%AE%B0%E4%BD%8F28%E5%B9%B4%E5%89%8D%E8%BF%99%E4%B8%89%E4%BD%8D%E8%AE%B0%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%A8%81%E4%B8%89%E8%AE%B0%E8%80%85%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">武威三记者被捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%B3%E6%B3%89-%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E9%80%9A%E8%BF%87%E4%BA%86%EF%BC%8C%E4%BD%86%E5%81%9A%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E7%9A%84%E6%9C%BA/" target="cdt-mirror">女泉 | 反家暴法通过了，但做反家暴法律援助的机构被关了</a>
+</h2>
+<p><p>@新媒体女性 原创，转载请联系授权。</p>
+<p>资料来源 | 公益时报、NGOCN</p>
+<p>1月29日，有消息称北京众泽妇女法律咨询服务中心遭“有关部门”要求，必需在春节前关闭众泽妇女法律中心，停止工作和资金资助。下午，众泽官网发出歇业公告：北京众泽妇女法律咨询服务中心自2016年2月1日起歇业，感谢大家二十年来对中心工作的关注和支持！众泽微博@众泽妇女法律中心—-千千律师所 截止目前仍未有表示。据众泽负责人郭建梅表示，众泽虽然“歇业”，北京千千律师事务所将继续存在。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.07.50.png" alt="Screen Shot 2016-01-29 at 下午5.07.50" width="550" height="320" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.07.50-300x175.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.07.50.png 642w" sizes="(max-width: 550px) 100vw, 550px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.08.09.png" alt="Screen Shot 2016-01-29 at 下午5.08.09" width="426" height="552"></p>
+<p>新媒体女性联系了机构负责人郭建梅，她表示机构被要求不能接受采访。目前她们仍在紧急开会商量今后何去何从。此前众泽已被多次“谈话”。中国弱势群体法律援助的空间，正在急剧缩小。</p>
+<p>作为中国第一家民间妇女法律援助机构，众泽的知名度非常高。听闻这个消息，不少网友的第一反应是：以后遭遇家暴或目睹家暴时，我们该找谁？</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.10.32.png" alt="Screen Shot 2016-01-29 at 下午5.10.32" width="425" height="369" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.10.32-300x260.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.10.32.png 425w" sizes="(max-width: 425px) 100vw, 425px"></p>
+<p><strong>李彦、董珊珊背后的律师团队</strong></p>
+<p>说到众泽，可能很多人都没有听过，但说到李彦以暴制暴杀夫案、董珊珊案、山木集团总裁强奸女员工案、广东惠州38个农嫁女土地权益纠纷案，可能大家会比较熟悉。而众泽的律师们，正是这些案件当事妇女的代理律师。作为1995年北京世妇会后设立的中国第一家民间妇女法律援助机构——北京大学法学院妇女法律研究与服务中心（众泽妇女法律咨询服务中心前身），众泽成立二十年来，一直致力于法律援助，保护妇女权益，维护法律公正，提高广大妇女的法律权利意识和维护自身权益的能力，推动妇女权益保障事业和法律援助事业的发展。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.13.11.png" alt="Screen Shot 2016-01-29 at 下午5.13.11" width="572" height="429" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.13.11-300x225.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.13.11.png 572w" sizes="(max-width: 572px) 100vw, 572px"><br><span>李彦受暴部分证据展现。</span></p>
+<p>1995年，第四次世界妇女大会在北京召开，当时还在《中国律师》杂志社工作的郭建梅在会上接触到了许多进步的NGO，深受大会的感召，3个月后，辞去了铁饭碗，与北京大学的两位老师一起，创办了中国第一家民间妇女法律援助机构——北京大学法学院妇女法律研究与服务中心（众泽妇女法律咨询服务中心前身），开展民间妇女法律援助，免费为没钱、没地位、求助无门的贫弱妇女群体代理案件。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.14.41.png" alt="Screen Shot 2016-01-29 at 下午5.14.41" width="295" height="466" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.14.41-190x300.png 190w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.14.41.png 295w" sizes="(max-width: 295px) 100vw, 295px"><br><span>众泽机构负责人郭建梅。</span></p>
+<p>20年来，众泽团队向全国提供免费法律咨询10万多件，编辑出版《妇女权益公益诉讼》《农村妇女参政问题研究》《中国职场性别歧视调查》等15部专著，免费办理案件3000多件，其中重大典型案件300余件。</p>
+<p>中心取得的工作成绩及社会影响力赢得了社会、有关部门和领导以及国内外同行的广泛赞誉和肯定，先后获得了中国十大有影响力的民间组织之一、中国公益事业杰出贡献奖、模范公益组织奖、关爱女性机构奖及TrustLaw 2014 Impact Award等诸多荣誉。2007年，众泽更是在由司法部和法制日报社主办的“2006年度法制新闻人物暨十大法制新闻评选”中被提名为“年度法制新闻人物”；</p>
+<p><strong>从法律援助到改变法律</strong></p>
+<p>针对妇女进行法律援助的定位，使机构负责人郭建梅接触到的多是苦难中的女人。多数求援者都处于社会底层，上访和不幸让她们衣衫褴褛、蓬头垢面，甚至满身伤病，散发恶臭。</p>
+<p>郭建梅说，做这些贫弱群体的代理律师时也会一同遭受白眼，这种偏见不仅来自大众，也来自法官。曾经，有法官冷冷地问郭建梅，你怎么代理这样的案子，你是律师吗?甚至因为原告和被告悬殊的社会地位，有的法官根本没有履行基本的法律程序。</p>
+<p>经过多年的法律援助实践，郭建梅和她的团队看到了很多案件背后所反映的不仅仅是某个妇女的个体利益，代表的是一个群体的利益，个案解决的实质是推动某一妇女群体利益的解决，并以此影响和推动该领域相关立法和政策的变革。从2004年起，郭建梅和她的团队将机构的工作重点和战略目标由个案法律援助转向个案法律援助和公益诉讼并重，并力求通过妇女权益公益诉讼，影响和推动妇女权益相关法律和制度的变革。</p>
+<p>而通过公益诉讼的方法以及与其他NGO的共同努力，中心在妇女权益法律倡导方面做出了重要贡献：如成功推动教育部取消了在校大学生不得生育的规定，推动了《物权法》《村民委员会组织法》明确人民法院和乡镇政府对违法村规民约的撤销和责令改正义务，推动《刑法》修订取消了嫖宿幼女罪，修改了猥亵罪的犯罪构成要件，同时增加了猥亵儿童罪加重处罚情节的兜底条款，同时中心在《劳动合同法》、《就业促进法》、《婚姻法》及其司法解释、《女职工劳动保护特别规定》、《反家庭暴力法》（草案）、《民事诉讼法》等国家法律法规的完善方面亦做出了应有的贡献。</p>
+<p>新媒体女性将对此事保持关注。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%B3%E6%B3%89-%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E9%80%9A%E8%BF%87%E4%BA%86%EF%BC%8C%E4%BD%86%E5%81%9A%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E7%9A%84%E6%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18271" rel="tag">NGOCN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BC%97%E6%B3%BD%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">北京众泽妇女法律咨询服务中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AE%B6%E6%9A%B4/?category=18271" rel="tag">反家暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">女性权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">家庭暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%87%BBngo/?category=18271" rel="tag">打击NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">新媒体女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">民间机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">郭建梅</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%88%98%E7%95%A5%E6%94%AF%E6%8F%B4%E9%83%A8%E9%98%9F%E6%8E%A5%E6%94%B6%E9%BB%91%E5%AE%A2%E9%83%A8%E9%98%9F-%E6%8F%90/" target="cdt-mirror">美国之音 | 中国战略支援部队接收“黑客部队” 提高网络战能力</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%884.59.01.png" alt="Screen Shot 2016-01-29 at 下午4.59.01" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午4.59.01-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午4.59.01.png 638w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p><span>华盛顿—</span>中国军事观察人士告诫，中国军队改革中成立的新军种战略支援部队，将大大加强其网络战、太空安全和网络间谍能力。</p>
+<p>2015年12月31日宣布成立的解放军战略支援部队是中国全面军事改革的一部分，目前还不清楚这支部队的详细情况。可是美国官员和中国问题分析人士说，原属总参谋部的军事情报部队现在被纳入这个新军种，跟陆海空和导弹部队平级。</p>
+<p>这支部队纳入了原总参2部、3部和4部的情报部门。</p>
+<p>据信，总参三部是中国国家安全部最强大的网络间谍机构之一，拥有10万名网络黑客，现在已经被纳入战略支援部队旗下，这支部队由网络攻击、技术信息、密码破译和外语等方面训练有素的专业人员组成。</p>
+<p>去年公开的机密文件透露，美国航空航天局估计，总参三部的黑客从事了3万多次网络攻击，主要收集国防工业机密，其中500多次被认为是对美国国防体系的重大网络攻击。2014年，美国起诉了该部的5名军官，指控他们入侵美国的核、冶金和太阳能公司，窃取商业机密。</p>
+<p>总参四部，也就是解放军的电子情报和电子战部队，也成为战略支援部队的一部分。另外，从事传统间谍活动的总参二部也纳入了战略支援部队。</p>
+<p>分析人士指出，从战略角度来看，这样有利于解放军更好地利用卫星来收集情报、监视和侦查，并且进一步提高中国的网络攻击能力。</p>
+<p>中国的分析人士透露，这支部队还将协助为政府文职部门维护网络安全。</p>
+<p>中国海军少将尹卓对人民日报表示，很多黑客在网上从事破坏中国的非法活动，比如入侵中国政府的重要设施、军事设施和重要的平民设施。他说，因此中国采取相应的防御措施是非常重要的。</p>
+<p>担任解放军海军信息化专家委员会主任的尹卓说，太空资源和全球定位侦查活动由这支部队来负责。</p>
+<p>中国日益增长的网络实力是导致和美国关系紧张的一个原因，美国多次指责中国政府支持黑客窃取美国公司的机密。</p>
+<p>北京否认这一指责，并表示，中国自己也是网络攻击的受害者。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E6%88%98%E7%95%A5%E6%94%AF%E6%8F%B4%E9%83%A8%E9%98%9F%E6%8E%A5%E6%94%B6%E9%BB%91%E5%AE%A2%E9%83%A8%E9%98%9F-%E6%8F%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E6%8A%A5%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">情报活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB/?category=18271" rel="tag">网络攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">网络黑客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%85%A8%E9%9D%A2%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">解放军全面改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B%E6%88%98%E7%95%A5%E6%94%AF%E6%8F%B4%E9%83%A8%E9%98%9F/?category=18271" rel="tag">解放军战略支援部队</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%9D%A6%E5%85%8B%E4%BA%BA%E5%B0%86%E4%BC%9A%E5%86%8D%E6%AC%A1%E8%A2%AB%E7%A7%98%E5%AF%86%E5%A4%84%E5%86%B3/" target="cdt-mirror">德国之声 | 长平：“坦克人”将会再次被秘密处决吗？</a>
 </h2>
 <p><p><strong>一批记录“六四”镇压的照片版权代理落入中国公司。时评人长平认为，这桩交易已然限制了人类自由意志和抗争勇气的传播。</strong></p>
@@ -524,114 +661,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BB%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%9F%E8%AE%A1%E5%B1%80%E5%B1%80%E9%95%BF%E8%A2%AB%E6%9F%A5%EF%BC%8C%E5%AE%98%E6%96%B9%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E5%8F%88/" target="cdt-mirror">纽约时报｜中国统计局局长被查，官方经济数据又添疑云</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge.jpg" rel="attachment wp-att-426730"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge.jpg" alt="27chinaecon-web1-articleLarge" width="585" height="396" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/27chinaecon-web1-articleLarge.jpg 600w" sizes="(max-width: 585px) 100vw, 585px"></a><p>国家统计局局长王保安上周在新闻发布会上。</p></div>
-<p>香港——中国经济增长的放缓让世界震惊，其经济数据的真实性也越来越多地受到怀疑。一项新近的调查不太可能加强人们的信心，调查指向了负责统计的官员。</p>
-<p>周二晚间，共产党的反腐败委员会宣布，中国国家统计局负责人因政府称之为“严重违纪”的问题，正在接受调查。</p>
-<p>目前尚不清楚对统计局局长王保安的调查是针对他目前的工作，还是之前的工作，王保安于去年4月份出任<a title="Link: http://www.stats.gov.cn/" href="http://www.stats.gov.cn/" target="_blank" rel="nofollow">国家统计局</a>局长，在那以前，他曾担任财政部副部长。反腐败委员会没有透露有关调查的更多细节。</p>
-<p>对中国而言，这个调查出现在一个微妙的时刻。中国的制造业在萎缩、股市下跌，已经让全球的投资者不安。对中国经济数字的任何进一步怀疑，都会给经济健康景象增添甚至更黑暗的色彩，加剧市场中的痛苦。在宣布这项调查之前，周二，收盘的上海股市下跌了6.4％。</p>
-<p>国家统计局有各种各样的责任，即使在最好的时候也很难在这些责任之间找到平衡。</p>
-<p>统计局理应向中国领导人提供该国经济发展长处与短处的不加掩饰的评估，同时需要让公众相信经济在增长，以保持消费者的信心。统计局还理应向投资者和公司领导层发布足够详细和准确的信息，让他们对经济和金融前景能够做出正确的决定。</p>
-<p>几乎无人怀疑中国经济在过去三十年中大幅增长。但研究这些数字的经济学家、银行家和分析人士认为，统计局对数字做了平滑处理，在经济高速增长期间低估增长率，在经济衰退期间高估增长率。</p>
-<p>许多经济学家担心，中国的经济去年并没有以统计局数字所显示的近7％的增长率扩张。据某些估计，增长率只有官方数字的一半。</p>
-<p>那些对数据表示怀疑的人指出，部分原因是增长率背后的数字。</p>
-<p>比如，长期以来，电力消费<a href="http://www.nytimes.com/2012/06/23/business/global/chinese-data-said-to-be-manipulated-understating-its-slowdown.html" target="_blank" rel="nofollow">是经济健康及统计数据真实性的晴雨表</a>，而去年的电力消费几乎没有变化，未与中国国内生产总值的增长相一致。有些人把这种关联的缺失看作是一种迹象，即中国的经济统计数据可能造假。而乐观者则指出，这些数据显示的可能是，中国正在从能源密集型的制造业向别处转移。</p>
-<p>中国官方新闻媒体<a href="http://www.chinadaily.com.cn/hqgj/jryw/2015-12-10/content_14390242.html" target="_blank" rel="nofollow">上月曾报道</a>，东北地区的一些官员承认夸大了前几年的投资和其他数据。报道称，官员的这些做法有助于解释，为什么去年东北地区报上来的数字大幅下降。</p>
-<p>不过，统计局一直不断坚持其数据的可靠性，称批评者对数据或中国经济没有充分的了解。统计局局长接受调查一事对市场的影响可能有限，因为许多人已经对中国的数据表示怀疑。</p>
-<p>“中国国内生产总值数据的国际信誉已经很低，所以这对市场 可能不是一个严重的打击，“伦敦咨询公司朗伯德街研究公司(Lombard Street Research)的首席经济师兼研究项目主任戴安娜·乔伊列娃(Diana Choyleva)说。据朗伯德估计，中国的国内生产总值去年增长3.2％，而不是国家统计局宣布的6.9％。</p>
-<p>中国经济数据的可靠性是市场担忧的核心。</p>
-<p>按官方的增长率，中国去年的增长速度是25年来最低的。政府在试图控制经济放缓，不让经济痛苦引发社会动荡。</p>
-<p>这可能会让人难以辨别经济上真正出现了什么问题。这些问题包括，国内有一大批生产钢铁、玻璃和水泥等产品的历史悠久的工厂。中国产能过剩的根源是，多年来靠借债投资了不少行业，而这些行业现在没有多少能偿还债务的迹象。</p>
-<p>北京正在试图调整经济，将重点转向消费和服务。但人们对改革步伐的关切加深了他们对经济数据的担忧。</p>
-<p>以钢铁工业为例。</p>
-<p>尽管需求在下降，中国去年仍生产了8.04亿吨钢。据评级机构惠誉(Fitch Ratings)的估计，总体而言，中国去年的炼钢产能预期可达到11.7亿吨。</p>
-<p>政府正在采取措施努力解决一部分产能过剩问题。中国的国务院周日做出决定，将压减1亿至1.5亿吨的炼钢产能。这将意味关闭相当于日本全年产量的产能，日本是世界上第二大钢铁生产国。</p>
-<p>这项于周一公布的国务院决定还要求大幅度降低煤炭开采能力，但没有给出一个具体的目标。</p>
-<p>但这对中国当局来说是一个找平衡的行为。</p>
-<p>中国冶金工业规划研究院负责人李新创对官方的新华通讯社表示，计划中的钢厂关闭可能导致40万人失业。他警告说，“钢铁行业大规模裁员可能威胁社会稳定。”</p>
-<p>政策制定者管理股市和货币市场的胡乱尝试，进一步增加了人们对中国经济的怀疑。</p>
-<p>资本的外流反映了汇率走向的不确定性，也反映了更广泛的经济的不确定性。渣打银行(Standard Chartered)的经济学家在周二发布的一份研究报告中写道，不考虑外商投资，2015年的资本外流可能已上升到9000亿美元。</p>
-<p>作为央行的中国人民银行，为了应对资本外流，已经在最近几个月里以创纪录的速度减少其外汇储备。央行正在试图支撑中国货币的汇率，随着中国经济增长前景减弱，人民币面临着贬值的压力。</p>
-<p>目前的情况迫使央行将更多的资金注入市场，以帮助银行继续放贷。根据其网站上的<a href="http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/3010511/index.html" target="_blank" rel="nofollow">宣布</a>，周二，央行向市场注入资金4400亿元，相当于670亿美元。</p>
-<p>所有这一切都让股市遭殃。在周二大跌之后，中国股市已降到13个月来的最低水平。</p>
-<p>Neil Gough对本文有报道贡献。<br>
-翻译：Cindy Hao<br><a href="http://www.nytimes.com/2016/01/27/business/international/china-economy-data-statistics-inquiry.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
-</p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BC%9A%E9%99%B7%E5%85%A5%E6%97%A5%E6%9C%AC%E5%BC%8F%E8%A1%B0%E9%80%80%EF%BC%9F/" target="cdt-mirror">网易回声 | 中国经济会陷入日本式衰退？</a>
-</h2>
-<p><p><strong>许多人都在担忧，中国经济会不会走日本20多年前的老路，可惜这是夜郎自大的错觉。尚属新兴经济体的中国，根本无法与80年代末的发达日本相提并论。而中国媒体唱衰的日本，过去20多年没有民不聊生，反而又进步了不少。</strong></p>
-<p>MapleRecall 作者：黄童超</p>
-<p>最近几年，无论坊间还是媒体，都喜爱将当前的中国经济与20世纪80年代末的日本经济进行比较。“中国经济会陷入日本式衰退吗”、“中国会走日本的老路吗”、“中国是否会重蹈日本‘失去的20年’的覆辙”……类似的分析文章充斥着中文互联网，它们担心如果中国不能成功解决影子银行、房地产泡沫等问题，中国经济就将日本化。</p>
-<p>很可惜，这些不明就以的分析很快就跑偏了：它们以为当前中国经济可以与80年代末日本经济相提并论，以及认为日本过去的20多年萎靡不振甚至民不聊生。在解释这两种错觉前，我们首先要知道20世纪80末90年代初日本经济到底发生了什么。</p>
-<p>1985年9月，日本签署了著名的货币协议——广场协议(Plaza Accord)，允许日元升值。接着日元升值创下新高，给日本出口业带来很大困难，日本GDP增速也由1985年的4.4%下降到1986年的2.9%。日本政府试图抵消强劲日元带来的影响，于是在1986年1月-1987年2月放宽了货币政策，在此期间，身为日本央行的日本银行(Bank of Japan)将贴现率(discount rate)从5%降低到2.5%。在这些经济刺激下，房地产、股票等资产价格开始飞涨，创造了全球历史上最严重的金融泡沫之一。在泡沫的顶峰，日本房地产价格上涨3-4倍（部分地区6-7倍），东京市中心皇宫的土地价格甚至超过了美国整个加州的土地价格。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/201601270657147b01d.jpg" alt="201601270657147b01d" width="550" height="394" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/201601270657147b01d-300x215.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/201601270657147b01d-768x549.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/201601270657147b01d-1024x733.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/201601270657147b01d.jpg 1188w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>日本政府为了应对这场资产价格泡沫，在1989年-1990年收紧货币政策。日本银行连续5次上调利率，将1989年时的0.5%上调至1990年的6%。经过这些激烈的举措，泡沫破裂。日本股票市场的日经指数(Nikkei index)从1989年的40000点，下跌到1992年的15000点，跌幅超过60%；日本房地产市场从此一蹶不振，东京的房地产价格比起1991年的顶峰，于2002-2003年触底，下降了80%。</p>
-<blockquote><p>即使面临经济泡沫，20多年前的日本拥有当前中国都未曾拥有的、相对健康的经济基本面。</p></blockquote>
-<p>从表面来看，当前的中国经济和80年代末的日本泡沫经济确实有一些相似之处。正如摩根大通等机构的分析，它们都面临(1)金融失衡：中国的信贷规模，从2008年金融危机占GDP的100%，上升到了2015年的280%，日本则从1980年的127%上升至1990年的176%；中国的资产价格，尤其是房地产价格，在过去10多年如同80年代的日本一样不断飙升。(2)实体经济挑战：与80年代的日本类似，中国经济的高速增长也依赖于出口；中国老龄化问题愈发严重，由于30年的计划生育政策，中国劳动年龄人口已经萎缩，当前人口结构对应的是日本的80年代末结构。</p>
-<p>但相似到此为止了。当前中国经济所处的发展阶段，远远不如80年代末的日本。美国联邦储备银行的分析师肖恩•克里汉(Sean Creehan)指出，根据世界银行的世界发展指标(World Development Indicators, WDI)，经过购买力平价(PPP)后，1990年日本的人均GDP为29550美元，是1990年美国人均GDP的80%。而2014年中国的人均GDP为12609美元，仅为2014年美国人均GDP的25%；1990年的日本城市人口已达77%，2014年中国尽管有超过160座人口100万以上的城市，但城市人口仅为54%。</p>
-<p>再看经济结构，2014年中国的农业占GDP比重为9.2%，与日本20世纪60年代中期水平相当，而1990年日本农业占比仅为2.1%；中国的服务业水平仍然低于许多发达国家，其中包括1990年的日本。2014年，中国的服务业大约占GDP的48%，相比之下，1990年日本的服务业已经十分成熟，占到GDP的58%；中国的消费水平更是被甩好几条街，2013年，中国家庭最终消费支出仅占到GDP的36%，美国为68%。在1990年，日本家庭最终消费支出为53%，当时美国是64%。消费支出往往在发达国家经济中扮演一个重要角色。</p>
-<p>即使当前中国的人口结构开始接近于20世纪90年代初的日本，就业结构却仍然有巨大差异。从20世纪70年代开始，日本的非农业就业人口就已经超过90%，而2014年，中国的非农业就业人口仍然不到70%。这意味着，当中国的劳动年龄人口出现衰退，没人知道中国是否有能力将农业就业人口转化为非农业就业人口，缓解即将到来的劳动力短缺。</p>
-<blockquote><p>本房地产市场没有地方政府卖地、户口限购、70年产权等因素参与，不能将日本的房地产泡沫形成过程强行嫁接到中国身上。</p></blockquote>
-<p>根据IMF的估计，1997年，房地产大约只贡献了中国GDP的4%，到了2014年，这一数字达到了15%，而80年代末的日本即使处于房地产泡沫的鼎盛时期，日本房地产对GDP的贡献也低于当前的中国水平。《华尔街日报》另外一组数据显示，房地产（考虑上钢铁等产业）对中国经济产出的贡献高达25%，发达国家如美国，这一数据仅为5%。</p>
-<p>20世纪80年代末，日本有着全世界数一数二的经济基本面，此外，日本资产价格泡沫起因和中国也不尽相同。还是拿房地产来说，90年代中期开始，作为央行的中国人民银行设置人民币-美元的固定汇率，将人民币的价值人为压低到其真实价值以下。更廉价的人民币，使得中国产品对美国人来说变得更便宜，这提振了中国的出口。实践中，出口商卖商品被以美元支付，央行则会从出口商手中购买美元，但是由于人民币价值被人为压低，所以央行只能用更多人民币（本不需要这么多）来购买美元。央行多给了出口商人民币，相当于多印了人民币。</p>
-<p>一部分多印的人民币进入中国经济，造成一般性物价上涨，多印的人民币也进入房地产这样的行业，造成泡沫。而当一般物价通胀率超过了银行存款利率，中国的消费者便将他们的积蓄投入已经被高估的房地产，加剧了非理性的房价。而中国后来又推行户口限购制度，由于大城市户口能享受优质得多的就业、教育、医疗服务机会，一个北京户口带来的溢价可能高达60万人民币，进一步推高房价。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/201601270655538a9f7.jpg" alt="201601270655538a9f7" width="550" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/201601270655538a9f7-300x188.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/201601270655538a9f7-768x480.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/201601270655538a9f7-1024x640.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/201601270655538a9f7.jpg 1920w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>日本房地产价格的上涨刚开始十分合理，1985年蓬勃发展的行业（例如刚解除管制的金融服务业）有着旺盛需求，外国投资者也有强烈兴趣投资日本的房地产。接下来的泡沫主要因为日本企图用宽松货币政策抵消日元走强等因素导致的。日本的资产价格泡沫再怎么不堪，可没有地方政府卖地、70年产权等人为推高房价的因素在作祟。</p>
-<p>说完泡沫破裂前的日本经济，许多人也许更关心中国会不会步入“长达20年的日本式衰退”。但是这个所谓的衰退根本不是一种民不聊生的状况，实际上，这种衰退中国想要还要不到。</p>
-<blockquote><p>本经历了资产负债表衰退，但也经历了人均GDP的增长、期望寿命的延长，作为世界经济强国，仍然是中国遥不可及的追赶对象。</p></blockquote>
-<p>20世纪90年代初，资产价格泡沫破裂后，日本的确陷入了一种资产负债表衰退(Balance Sheet Recession)——大量私人部门（企业、家庭）的资产负债表都随之处于资不抵债的状况，私人部门会将收入的大部分用于还债，企业减少了投资与借贷，家庭减少了消费（尤其是信贷消费），从而大规模地遏制经济活动。</p>
-<p>日本在整个90年代衰退过程中也犯了许多财政与货币政策的错误，例如日本政府偏信于无效的凯恩斯主义，在10个不同的基础设施项目上花了纳税人1万亿美元，企图刺激经济增长。最终带来的不是GDP增长的恢复，而是公共债务的激增（债务最高达到GDP的140%，超过6万亿美元）；日本的银行由于历史惯性，迟迟不处理不良债务，不取消不良债务的抵押品赎回权，不良债务占银行总资产比例越来越高，银行没有足够的资金支持新贷款，阻碍了经济复苏；日本政府有时还对像零售商大荣这样负债累累的私人企业进行补贴，没有任其破产，也延长了这场危机的时间。</p>
-<p>即使到了21世纪，日本政府在面对类似经济问题时仍然有不少凯恩斯主义倾向。不过总体来说，日本毕竟是一个真正的自由市场国家。中国的经济体表面上和日本类似，都是银行主导的金融体系，但中国政府之手无处不在，没有人能预测监管者是否会干预银行，让银行对不良贷款坐视不管；也没人能预测，假如资产负债表衰退到来，中国是否会允许银行和企业花10年时间破产，就像是日本在20世纪90年代做的那样。</p>
-<p>日本经历了“失去的20年”，许多经济表现仍然十分抢眼。日本的人口老龄化问题人尽皆知，2014年日本的劳动力人口只比1990年多150万，几乎没有增长（曾有过增长，最近几年在衰退）。在如此艰难的条件下，美国联邦储备银行的数据显示，1990-2011年每人产出(per worker output)每年也有1%的增长，美国是1.7%；根据东京的亚洲生产力组织，在2000-2008年日本的劳动生产率(labour productivity)增长比起美国略逊一筹，但要素生产率(factor productivity)增长迅速，这一指标用来衡量一国如何使用它的资本和劳动力。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/2016012706555215825.jpg" alt="东京涉谷区繁忙的街道。/Gettyimages" width="550" height="344" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/2016012706555215825-300x188.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/2016012706555215825-768x480.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/2016012706555215825-1024x640.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/2016012706555215825.jpg 1920w" sizes="(max-width: 550px) 100vw, 550px"><p>东京涉谷区繁忙的街道。/Gettyimages</p></div>
-<p>21世纪头10年，日本实际人均GDP增速并不比美国和欧元区国家逊色；日本这20多年的失业率有所升高（从2%上升到4%左右），但是常常只有美国或者欧元区国家的一半；人们常常以为日本是一个大债务国（确实是），但却不知道它已20多年蝉联全世界最大的债权国，2014年拥有3.2万亿美元的净海外资产，大量资产都十分优质。</p>
-<p>日本人的出生平均预期寿命，从1990年的79岁增长到2013年的83岁，比美国人多4岁，比中国人多8岁。这其实也意味着，日本人在1990年就享受到了质量极高的医疗服务；根据阿卡迈公司的调查，全球互联网接入速度最快的50个城市里，日本城市占了38个；日本的高科技产业一直都不甘示弱，在衰退最严重的90年代末期，日本的手机行业和美国交替前进，有时还能保持领先。笔记本电脑可能贴着“中国制造”，日本资本密集型和技术密集型的制造商却悄然完成了最具有技术含量的工作。</p>
-<p>实在无法想象，尚属新兴经济体、有着巨大差距的中国，又怎能够“日本化”？险象环生的中国人，又怎能嘲笑日本并没那么糟糕的“失去的20年”？</p>
-<p><strong>参考资料</strong></p>
-<ul><li>Benjamin Powell. (2002) . “Explaining Japan’s Recession.” Mises Institute.</li>
-<li>Sean Creehan. (2015). “Why We Shouldn’t Invoke Japan’s “Lost Decade” as China’s Future.” FEDERAL RESERVE BANK OF SAN FRANCISCO.</li>
-<li>Willis L. Krumholz. (2015). “China’s Coming Great Depression.” The Federalist.</li>
-<li>IMF. (2015). “Understanding Residential Real Estate in China.” IMF.</li>
-<li>The Economist. (2011). “Japan’s economy:Whose lost decade?” The Economist.</li>
-<li>Eamonn Fingleton. (2012). “The Myth of Japan’s Failure.” The New York Times.</li>
-<li>题图:”People crossing Shijo-dori shopping street, Kyoto.” Gettyimages/EschCollection.</li>
-</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BC%9A%E9%99%B7%E5%85%A5%E6%97%A5%E6%9C%AC%E5%BC%8F%E8%A1%B0%E9%80%80%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A4%8D%E8%8B%8F/?category=18271" rel="tag">经济复苏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">经济泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96/?category=18271" rel="tag">货币政策</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%8A%8A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%8A%93%E8%B5%B7%E6%9D%A5%E5%AE%A1%E5%88%A4/" target="cdt-mirror">【习总日记】 把人民币抓起来审判</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，27）</p>
-<p>1月26日下午主持召开中央财经领导小组第十二次会议，研究供给侧结构性改革方案、长江经济带发展规划、森林生态安全工作。我发表重要讲话强调，供给侧结构性改革的根本目的是提高社会生产力水平，落实好以人民为中心的发展思想。要在适度扩大总需求的同时，去产能、去库存、去杠杆、降成本、补短板，从生产领域加强优质供给，减少无效供给，扩大有效供给，提高供给结构适应性和灵活性，提高全要素生产率，使供给体系更好适应需求结构变化。</p>
-<p>百姓听说我提到“以人民为中心”，高兴死了。</p>
-<p>自古以来，历朝历代统治阶级都提倡“以统治阶级为中心”，只有我们共产党才提倡为人民服务和以人民为中心。你让人民不支持我党很难，不热爱社会主义祖国很难，不忠于伟大领袖很难。</p>
-<p>人心都是肉长的，我们对人民好，人民加倍奉还。这是多么灵光的经济头脑啊！</p>
-<p>近来虽然我们遇到一些困难，经济上的困难。但要坚信，困难是暂时的，前途是光明的。跟着共产党，从来困难是暂时的，前途是光明的。毛主席如此说，继任者都如此说。</p>
-<p>有人发牢骚指出，说国民经济到了奔溃的边缘这种话，只有后任说前任，没有现任自己承认的。人之常情嘛！</p>
-<p>经济在调整，调整幅度有点大但在可控范围之内。人民币在下跌，幅度有点大但在可控范围之内。股市在下坠，幅度有点大但在可控范围之内。外汇在跑路，步伐有点急但在可控范围之内。</p>
-<p>二</p>
-<p>人民币该由谁来做主？平白无故被<a href="http://chinadigitaltimes.net/space/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B" target="_blank">敌对势力</a>打压，企图通过打压人民币打击我经济发展，进而达到扰乱我社会秩序的目的，我们该怎么办？</p>
-<p>国内的好办，抓起来上电视。国外的怎么办？骗他来中国然后抓起来？但终归还是要放的。外国人不好惹。</p>
-<p>我的意见是，人民币汇率不能任人摆布，要听中国的，要听党的。若人民币不听话继续下跌到一定程度，不排除把人民币抓起来审判。</p>
-<p>公诉人：人民币，你为何不听党的话下跌？</p>
-<p>人民币：是敌对势力捣鬼。他们给我吃了一种药后，我就不由自主听他们摆布了。他们说下跌我就往下跳，控制不住。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E6%8A%8A%E4%BA%BA%E6%B0%91%E5%B8%81%E6%8A%93%E8%B5%B7%E6%9D%A5%E5%AE%A1%E5%88%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -643,7 +672,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -653,5 +682,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

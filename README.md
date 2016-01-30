@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/426979/" target="cdt-mirror">东网 | 赵思乐：汪艳芳的1月29日</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-%E4%B8%8A%E5%8D%883.20.21.png" alt="Screen Shot 2016-01-30 at 上午3.20.21" width="576" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-上午3.20.21-300x215.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-上午3.20.21.png 576w" sizes="(max-width: 576px) 100vw, 576px"><br><span>唐荆陵的妻子汪艳芳。</span></p>
+<p>1月29日清晨，天还没有真正亮，汪艳芳就起来了。屋外下着大雨，广州十几年没有在冬季下过这样大的雨了。她拿出买了一两年都没擦过的BB霜，轻轻地挤了一点，薄薄地打了一层，再用咖啡色眉笔描出对称的眉尾。</p>
+<p>她知道自己今天能见到他，半年多没见过的丈夫唐荆陵，上次见他还是在一审第二次开庭时。唐荆陵涉嫌「煽动颠覆国家政权」被抓走已经快要两年了，她只见过他两次，一审第一次开庭、一审第二次开庭，然后就是今天，宣判。</p>
+<p>汪艳芳说临近宣判她心里没底，已经不安难受一段时间了，虽然要宣判的通知是几天前才来的，但她知道在家附近专门盯她的保安的合约2月就到期了。</p>
+<p>7:30，汪艳芳准时出门，白色短羽绒服配上浆果红毛线围巾，显得气色很好。室外气温不低却潮寒刺骨，她在大雨中不自觉地缩起脖子。汪艳芳跟3位唐荆陵的亲戚一起，坐公交车到仓边路，广州市中级法院。</p>
+<p>在车上她的背从来没有靠上椅子，不说话时就在上「电报」和关心唐荆陵的朋友们联系，好几个外媒记者也事先跟她打了招呼。她说自己的脑子现在是一片空白，但只要向她问起唐荆陵的案情，她的语速就变快了，数出审判过程中的种种荒谬：许多年前的事情起诉书都列了，但这些事当时怎么不判；唐荆陵自费印刷的吉恩·夏普阐述「非暴力不合作」的著作，在许多地区都是公开出版的；检察官说唐荆陵把书寄给「危害国家安全」的人员，但这是没有根据的······</p>
+<p>她说到这些就开始懊悔上次开庭后没有做完整的整理，「那是一种备战状态。」她说，开庭那段时间精神很紧张，开完了就觉得很累难以提起精神处理这些事。</p>
+<p>她说不好猜测唐荆陵的刑期，又说想想要是判四五年还是挺心疼的，又说这种案件总是按影响力判刑，广州这边郭飞雄影响力更大些，他判了6年······她大概已经琢磨了这些好几天，甚至已经琢磨了近两年。</p>
+<p>「煽动颠覆国家政权罪」的内容是：以造谣、诽谤或者其他方式煽动颠覆国家政权、推翻社会主义制度的，处5年以下有期徒刑、拘役、管制或者剥夺政治权利；首要分子或者罪行重大的，处5年以上有期徒刑。</p>
+<p>汪艳芳在法院门口遇到了「同案」袁新亭的女友，她们一起到附近一家面馆吃早餐，她点了一碗小面，却一口也吃不动。</p>
+<p>开始有记者不断打电话给她，一位早已熟识的香港记者找到了面馆，他坐下，什么都没有问，直直地盯进她的眼睛，说：「无论怎样，坚持下去。」两个人都沉默了，汪艳芳的表情起着微妙的变化，从紧绷的亢奋中软化了一点点，她的眼睛动了一动，却忍住了没有转向别处。</p>
+<p>「在这个时候我们只能靠上帝，」记者接着说，「上帝是最公正的。」又是一阵沉默，汪艳芳终于开口说：「哎呀，心里还是没有底······」「香港很多朋友都是支持你的，我肯定是支持你的，你们都是我的好朋友，你知道的。」记者先生说。坐在旁边的我鼻子已经酸了。</p>
+<p>又是一段短暂的沉默。 「我们需要的，等一下出来，律师，还有你，说一段话······」记者先生进入了工作状态，汪艳芳的脸上恢复了原来的紧绷，我鼻子的酸也收了回去。</p>
+<p>汪艳芳带着记者去找刚到的律师，中途遇见了一个来围观庭审的民间人士，他说，一大早警察已经带走了好几个来围观人。</p>
+<p>法院门口已被铁栏层层圈住，众多记者和民间人士在挡在铁栏之外，一辆停在路边的警用面包车开着们，一群警察围在面包车外撑开黑色长柄伞，可能是为了不让人看到刚被塞进去的人的挣扎。</p>
+<p>汪艳芳领着前一天已报定名字的六个「亲属」进入铁栏，从铁栏走进法院的路上，她们看着一位老妇人被塞进警车。老妇人在嘶喊着，至少两个男警察架着她往里塞，她的叫声和灰白的长发一起飘在湿冷的空气中。</p>
+<p>进了法院就是安检，然后人工审核姓名与身份证，普通法庭都只要在机器上刷身份证就可以旁听，而唐荆陵案所在的15号庭，旁听者的名字只要跟汪艳芳报的错了一个字，就无论如何也不能进入。</p>
+<p>我就是那个被报错了名字的人，只能坐在法庭外等候。 15号法庭有内外两道门，各守着近十个警察。据进去了的人说，二十多人的小厅坐满了，其他的是「他们」的人，法庭里也有八九个警察。</p>
+<p>宣判的时间有二十多分钟，守在门外的警察跟我一样百无聊赖。</p>
+<p>「今就广东省广州市人民检察院指定被告人唐荆陵、袁朝阳（即袁新亭）、王清营涉嫌煽动颠覆国家政权一案进行宣判······」门里的法官说。</p>
+<p>门外的警察踱到饮水机前，摸了摸放在上面到纸杯束，并没有拿出来喝。<br>
+「被告人唐荆陵又印制了民心片行动、六四静思节、林昭遇难46周年文章······」</p>
+<p>一个警察从里面走出来，另一个警察问他，「一字不漏地念啊？」他回答：「一字不漏，要是漏了一个字，就回到那个地方，再念一遍。」</p>
+<p>「本院认为，被告人唐荆陵、袁朝阳、王清营以编辑、印刷、传播非法出版物、印刷品等方式煽动颠覆国家政权、推翻社会主义制度······」</p>
+<p>门外的警察聊起刚刚有个莽撞的律师，本来就是来法院拿个判决书，想顺便听一场刑事庭审，走到这里发现阵势很大，并不知道这是什么案件就往里走，被他们拦下来还「很横地」说「不给听啊？」又打电话给法院朋友抱怨，最后发现警察人多势众争不过，只好灰溜溜地走了。</p>
+<p>「被告人唐荆陵首先提出『公民不合作运动』的理念，继而发起、组织、参加各式具有针对性的活动······」</p>
+<p>门外的年轻女警在法庭门外的椅子坐下，拿出或是执行公务用的卡片相机，对着做了水晶指甲的手，自拍起来。</p>
+<p>「辩护人的辩护意见与事实不符，本院不予采纳······」</p>
+<p>「怎么这么久啊？」我问。 「要念判决书。」警察们说。 「判决书很长吗？」「那么厚一本！」女警用水晶手指掐起的空气有约三厘米高。其他男警冷漠地看着我们的对话。</p>
+<p>「判决如下：被告人唐荆陵犯煽动颠覆国家政权罪，判处有期徒刑五年，剥夺政治权利三年······被告人袁朝阳犯煽动颠覆国家政权罪，判处有期徒刑三年六个月，剥夺政治权利两年······被告人王清营犯煽动颠覆国家政权罪，判处有期徒刑两年六个月，剥夺政治权利一年······」</p>
+<p>法官将判决书宣读完毕，询问被告人的上诉意见，唐荆陵的声音出现了：「因为司法程序已经完全沦为政治迫害的工具，这个判决对于我没有任何的法律意义，又考虑到中共政权的非法性，我们已经被剥夺了上诉的资格，所以我只向上帝和人民上诉。」</p>
+<p>终于结束了，唐荆陵的两位律师葛永喜、燕薪走出法庭时在讨论：</p>
+<p>「判决书写得『挺好的』。」</p>
+<p>「对，把唐荆陵『首先提出公民不合作运动』固定进了判决书，在中国他肯定是第一个提出的。」</p>
+<p>「这在这个时代肯定是一个荣耀，要记入历史。」······</p>
+<p>汪艳芳一边说这个结果算是「意料之中」，一边拿出寄存的手机开始给外界发消息，还一边盘算着「出来就是2019年了······」</p>
+<p>家属律师在议论时，警察出来了，说每个人只能有两名家属入内探视五分钟······汪艳芳进去了。又出来了，她好像还处于恍惚状态。</p>
+<p>「2019年······」她走进法院的电梯时还在念叨。我尝试让她说说自己的感受，她挤出了「难过」，我又尝试问她对不上诉的看法，她说：「就像唐荆陵说的，非法判决······」我不再追问，尝试缓和一下气氛，笑笑说：「你现在脑子还是蒙的吧？」她像得到赦免：「是啊！所以你问我什么也······」</p>
+<p>走出电梯，走出法院，所有记者的长枪短炮都对准了她，她茫然地直直地走过去。突然看见被铁栏四四方方地圈起来的两个外国人，她知道那可能是外国领馆人权官员，她向他们走去，被警察拦住，她又转向记者走，又被警察拦住，警察把她像木偶一样推出铁栏外。</p>
+<p>记者们轰地涌上来，瘦小的汪艳芳被淹没了。</p>
+<p>站在人群中心，她出窍的魂魄勉强地飞了回来，她开始说：中国的法院触犯了中国的法律、法院判决是政治打压、希望媒体和国内外的朋友更多地关注唐荆陵等人在狱中的状况······汪艳芳知道她必须完成这个任务，虽然这仍不是最后的任务。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/426979/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E4%B8%8D%E5%90%88%E4%BD%9C%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">公民不合作运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E/?category=18271" rel="tag">广州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%A7%81%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异见人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%A7%81%E4%BA%BA%E5%A3%AB%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">异见人士家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E8%89%B3%E8%8A%B3/?category=18271" rel="tag">汪艳芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C/?category=18271" rel="tag">非暴力不合作</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%B7%A8%E9%A2%9D%E5%85%AC%E5%8F%B8%E5%80%BA%E5%8A%A1%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98/" target="cdt-mirror">自由亚洲｜中国巨额公司债务违约风险升高</a>
 </h2>
 <p><p>海外媒体近日刊登文章指，中国巨额公司债务的违约风险升高，今年煤炭等行业将有很多企业破产，导致对债券和银行贷款的违约。</p>
@@ -623,26 +674,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%BE%AE%E8%BD%AFbing%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E7%96%91%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B1%8F%E8%94%BD/" target="cdt-mirror">月光博客｜微软Bing搜索引擎疑被中国屏蔽</a>
-</h2>
-<p><p>据网友爆料，中国多地今日无法打开微软必应搜索引擎cn.bing.com ，经过测试，直接访问无法打开必应，而使用VPN代理则可以正常访问。</p>
-<p>使用Ping命令测试，会发现微软Bing的IP地址在国内被解析为日本(202.89.233.101)和美国(204.79.197.200)两个IP，其中日本IP显示超时。</p>
-<p>根据traceroute测试（tracert cn.bing.com），微软的IP地址在中国境内被屏蔽，因此可以排除微软服务自身的故障，可以确认是在中国国内将微软Bing的IP进行屏蔽。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/4495_2.jpg" rel="attachment wp-att-426780"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4495_2.jpg" alt="4495_2" width="500" height="481" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4495_2-300x289.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/4495_2.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
-<p>Bing（必应）是微软公司于2009年推出的网络搜索引擎，作为全球领先的搜索引擎之一，必应已成为北美地区第二大搜索引擎，提供了网页、图片、视 频、词典、翻译、资讯、地图等全球信息搜索服务。自从谷歌被中国屏蔽后，微软的Bing成为中国网民较为常用的国外搜索引擎。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/4495_1.jpg" rel="attachment wp-att-426779"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/4495_1.jpg" alt="4495_1" width="500" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/4495_1-300x220.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/4495_1.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
-<p><strong><em>作者转载要求：</em></strong><br><em><a href="http://www.williamlong.info/">月光博客</a>文章均为原创，转载请以链接形式标明本文地址</em></p>
-<p>【编者注】部分网民在新浪微博称仍可正常访问必应，也有只能通过移动端访问的反馈。同时有疑似微软员工称该公司已着手处理，暗示为微软方的技术故障。</p>
-<blockquote><p>@蠕动混沌阿卡林：这个建议不要太早下定论，免得被某些人抓住把柄。改hosts或者换DNS服务器8.8.8.8即可正常访问，经抓包也确定原因是国内大部分DNS都会解析到202.89.233.101，而这个IP也是微软必应自家的，即使改hosts强制使用这个ip但挂上代理照样无法访问。估计是CDN挂了。</p>
-<p>@winguse：谢谢反馈，我们工程人员已经在处里, 我们会再公告细节</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2%EF%BD%9C%E5%BE%AE%E8%BD%AFbing%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E7%96%91%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B1%8F%E8%94%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E8%BD%AF/?category=18271" rel="tag">微软</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -654,7 +685,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -664,5 +695,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

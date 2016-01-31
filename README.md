@@ -21,9 +21,117 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E5%86%B2%EF%BC%9A%E7%BD%91%E7%BB%9C%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%BC%93%E5%8A%B1%E7%BD%91%E6%B0%91%E7%BD%91%E7%BF%BB/" target="cdt-mirror">东网｜王冲：长城万里今犹在</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2012/04/GFW827a6aa1_o.jpg" alt="GFW827a6aa1_o" width="460" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2012/04/GFW827a6aa1_o-300x201.jpg 300w, http://chinadigitaltimes.net/chinese/files/2012/04/GFW827a6aa1_o.jpg 460w" sizes="(max-width: 460px) 100vw, 460px"></p>
+<p>从帝吧出征，我想到了大禹治水，想到了康熙不修长城。</p>
+<p>4000 多年前，黄河流域水患，尧任命鲧负责治水，鲧采取“水来土挡”的策略治水，也就是“堵”，结果劳民伤财，未能成功。</p>
+<p>鲧治水失败后，他的儿子禹子承父业，采取“疏导”的方法，经多年奋战，三过家门而不入，终于平定了水患。</p>
+<p>以防火墙为基础的管理理念违背互联网精神。</p>
+<p>1691年，古北口一带的长城坍塌甚多，总兵蔡元向朝廷“请行修筑”。康熙皇帝予以拒绝，他说：“秦筑长城以来，汉、唐、宋常修理，其时岂无边患？明末我太祖统大兵长驱直入，诸路瓦解，皆莫能当。可见守国之道，惟在修德安民。民心悦则邦本得，而边境自固，所谓‘众志成城’者是也。”</p>
+<p>大禹治水成功的关键，在于抓住事物的本质规律，以疏导取代堵塞；康熙则认为“一道墙”不是阻挡住失败的来临，墙内的人心才是关键，他也是认清了事物的本质规律。<br>
+按照马克思的观点，规律就是事物运动过程中固有的本质的、必然的、稳定的联系。<br>
+规律是客观的，因为它不以人的意志为转移，它既不能被创造，也不能被消灭。</p>
+<p>花开花谢是规律，生老病死是规律，月有阴晴圆缺也是规律，在人类数千年的实践中，发现了无数事物运行的规律。据此行事者，终有大成。</p>
+<p>在社会领域，要和平不要战争，要平等不要奴役，要友爱不要屠杀，要民主不要专权，这些都是人类普遍承认的价值，是世界得以正常运行的基本守则，这是社会的基本运行规律。</p>
+<p>相比报纸、杂志和广播电视等传统媒体，新媒体也有其规律，对此仁者见仁、智者见智。在众说纷纭的新媒体特征里面，最为基本的规律，莫过于自由、平等、开放、共享。</p>
+<p>然而，以防火墙为基础的管理理念违背互联网精神。</p>
+<p>防火墙是安装在内部网和外部网之间的一种访问控制设备。它是不同网络安全域信息的唯一出入口，能根据个人及企业的不同安全需求来控制出入网络的信息流。</p>
+<p>这项技术，被中国加以运用，形成了一道“<a href="http://chinadigitaltimes.net/space/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E" target="_blank">防火长城</a>”。</p>
+<p>然而，防火长城对网络内容的审查是否限制和违反了<a href="http://chinadigitaltimes.net/space/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1" target="_blank">言论自由</a>，一直是受争议的话题。</p>
+<p>虽然官方不予明确，但“翻墙”早已成了海内外所熟知的事。从管理的角度，一国政府有权依法管理互联网，而中国复杂的国情也使得对互联网的管理不能掉以轻心。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E.jpg" alt="防火长城" width="497" height="280" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/防火长城-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/防火长城.jpg 497w" sizes="(max-width: 497px) 100vw, 497px"></p>
+<p>然而，问题在于，当“防火长城”遭遇言论自由，使得这一管理方式缺乏理论的有力支撑；当“防火长城”让中国变成一个巨大的“内部网”，不利于国家形像的构建，和近些年中国整体的开放姿态也不相适应；当“防火长城”的存在被一再否认，也突显了中国的不自信和这一措施和制度法理支撑的匮乏。 更关键的是，互联网作为以自由、平等、开放、共享为基因的产物，实际是难以阻隔的。从技术层面看，用一个小软件就可以实现“翻墙”，不需要高深的专业技术；从人的心理层面看，越是禁止，越是等于鼓励，<strong>“防火长城”的存在，其实是鼓励用户翻墙看海外的资讯</strong>。</p>
+<p>当然，防火墙的作用在于让某些信息很多普通民众看不到，但它无法挡住精英的视野，反而给攻击中国缺乏言论自由的人落下话柄，它的投入、收益、损失，都应该重新评估，如何对外解释这个特殊国情下的产物，更需要有战略思维。</p>
+<p>对此，合理的方式应该是大方的承认，并逐步放开对西方中英文主流媒体的屏蔽，然后逐步放开港台的管制，之后，通过立法方式规定哪些信息为“非法”，依法屏蔽。这样，才是依法管理互联网，才能带来互联网上的长治久安。单纯靠防守，的确不是长久之计，诗云：长城万里今犹在，不见当年秦始皇。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 桂枝药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E5%86%B2%EF%BC%9A%E7%BD%91%E7%BB%9C%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%BC%93%E5%8A%B1%E7%BD%91%E6%B0%91%E7%BD%91%E7%BF%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E7%B2%BE%E9%80%89/?category=18271" rel="tag">防火长城精选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%EF%BC%9A%E5%91%B5%E5%91%B5%EF%BC%8C%E7%B4%A2%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E6%8D%85%E5%88%B0%E4%BA%86/" target="cdt-mirror">墙外楼｜天涯社区：“呵呵”，索罗斯如何捅到人民日报G点？</a>
+</h2>
+<p><p>这个世界上总有那么多匪夷所思的相爱相杀，比如人民日报和索罗斯莫名其妙地杠上了。原因像小学生吵架一般，索罗斯说中国必定硬着陆，人民日报说“硬着陆你妹”。然而，两边吵来吵去也没看清实质问题，现在中国经济最大的难题不是索罗斯做空人民币或者港币，更不是中国经济是否硬着陆，而是索罗斯已经快九十岁，无法嫖娼了。</p>
+<p>人民日报长篇累赘地说明中国为什么不会硬着陆，还夹带“人身攻击”，威胁索罗斯。人民日报都快把索罗斯搞成阶级敌人了，但喷得再多也无法改变现在中国经济的劣势和索罗斯的优势。比如，1月26号人民日报海外版头版刊文：《索罗斯向中国货币宣战？“呵呵”》，结果真的呵呵了，A股当天暴跌150点，跌破2790点。</p>
+<p>中国经济出了问题是瞎子都看得出来的，而索罗斯向来就喜欢出了问题的国家。索罗斯该不该做空中国？当然应该！从08年中国四万亿拯救世界经济后，亚洲经济的权杖从日本转交到中国手中，中国带动整个亚洲资产飙升，GDP一路狂奔。然而，就像中国的房地产经济一样，亚洲GDP的水分太大了，都是债务堆起来的数字。在过去的七年中，亚洲开始一场有史以来最大规模的信贷扩张，仅中国企业外债余额至今已有1.5万亿美元左右。各种廉价的资金漫天飞舞，但等退潮后，世界人民发现原来是一群基佬在裸泳。</p>
+<p>作为中国人民最熟悉的两个老外，索罗斯和巴菲特是两个极端，巴菲特满世界吹泡泡，索罗斯满世界戳泡泡。巴菲特走后，索罗斯自然会来。索罗斯就是一匹狼，在全球寻找老弱病残的羔羊。而这个世界需要一匹血腥的狼，就像草原生物链中不能没有狼一样。没有狼去吃了老弱病残的羔羊，那么这些病羊会将疾病传播给整个羊群，最终让羊群彻底毁灭。狼吃了病羊，保证羊群整体的健康，也追赶健康的羊群，让羊群充满活力。然而，这次索罗斯胃口够大，他面对不是一只病羊，而是一头生病的大象。</p>
+<p>如何面对来势汹汹的索大爷？首先要翻看索大爷败仗，从中学习如何击败索大爷。索大爷戳了一辈子泡沫，其中最有名的是92年狙击英镑，97年横扫亚洲。索罗斯输过吗？当然输过，不过不是98年香港金融保卫战时输给中国政府，当年最多算平手，索大爷唯一的败仗在俄罗斯。</p>
+<p>战斗民族是如何打败神一般的索大爷？不是索大爷水平不行，而是俄罗斯耍流氓。索大爷买了俄罗斯国债，但俄罗斯就是不还钱。不过耍流氓也是有代价的，自此美国基金界再也不买俄罗斯的任何金融产品。俄罗斯赢了吗？呵呵，这个曾经被我们称为老大哥的国家，现在GDP也就比中国广东多那么一点点而已。这种“流氓神拳”估计中国不敢用，所以只能先派人民日报MAX嘴炮了。</p>
+<p>如果不能从索大爷身上找到弱点，那么只能从我们自身找问题了。古人云：打铁还需自身硬。其实这次索罗斯要做空中国也是我们自找的。08年全球经融危机，美国都装孙子，只有中国装X拯救地球。从08年开始，装孙子的美国开始调整经济结构，经过七年才完成了经济转型。这七年间中国在干什么？一边享受四万亿放水大餐，一边狂吃土地财政伟哥。</p>
+<p>七年就这样浪费了，现在索罗斯说“中国转型消费型经济增长模式已经太迟，硬着陆无法避免”，这总不能怪到索大爷头上吧？过去的一年，房价泡沫、股市泡沫、产能泡沫、货币泡沫四个连环雷一次排好，索大爷还没动手股市先炸响，汇率泡沫紧随其后，大妈们都开始抢美元，楼市去库存和淘汰过剩产能就不说了。不知道索大爷打算先吃哪道菜呢？</p>
+<p>中国心里也明白问题在自己，不在索大爷，只是索大爷逼得太紧了。中央提出的“去库存”“淘汰落后产能”等等也是做空中国，现在做空是狠狠摔一跤，不做空就是两三年后自己跳崖。其实，做空中国是必然的，只是中国希望自己来做空自己，而不是索大爷。然而，索大爷才不会有觉悟地放弃这顿一辈子才能遇到一次的盛宴。</p>
+<p>现在的问题远比98年更复杂，当时香港是一个开放市场，而大陆是一个封闭市场，所以大陆能全力在香港狙击索罗斯。但是，近二十年后，大陆早已不是那个完全封闭的市场了。现在，索大爷可以任选其一攻击港币和人民币，我们到底先保哪个呢？还是算了吧，做人呢还是简单一点好，再说谁规定九十岁就不能嫖娼，就不能上央视认罪？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%EF%BC%9A%E5%91%B5%E5%91%B5%EF%BC%8C%E7%B4%A2%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E6%8D%85%E5%88%B0%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF/?category=18271" rel="tag">索罗斯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%80%9D%E4%B9%90%E4%B9%A6-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%A5%B3%E5%BC%BA%E4%BA%BA%E9%83%BD%E6%8B%8D%E6%88%90%E4%BA%86/" target="cdt-mirror">思乐书 | 为什么国产电视剧把政治女强人都拍成了“绿茶婊”？</a>
+</h2>
+<p><p>作者：赵思乐<br>
+首刊于端传媒 theinitium.com<br>
+链接 https://theinitium.com/article/20160123-opinion-a-life-miyue-femilism-zhaosile/<br>
+转载请注明作者与链接</p>
+<p>比2015还要漫长的电视剧《芈月传》终于播完。这部信誓旦旦要拍出“中国历史上第一位女政治家”的年度“剧王”，开播前的豆瓣评分高达8分，在国产剧集中相当少见。然而开播后评价一路滑坡，结局跌到4.9分，比起代表国产烂剧一般水平的《武媚娘传奇》还低一个段位。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-%E4%B8%8B%E5%8D%886.58.56.png" alt="Screen Shot 2016-01-30 at 下午6.58.56" width="498" height="215" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午6.58.56-300x130.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午6.58.56.png 498w" sizes="(max-width: 498px) 100vw, 498px"></p>
+<p>关于《芈月传》是怎么“糊掉”的，网上有不少吐槽贴可供参考：剧情拖沓狗血，与《甄嬛传》诸多雷同；对白古今穿越，肉麻到令人犯尴尬症；道具服饰“淘宝爆款”，色彩鲜艳质感低劣；人物妆发浓艳累赘，连演技都跟着浮夸……</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-%E4%B8%8B%E5%8D%887.00.54.png" alt="Screen Shot 2016-01-30 at 下午7.00.54" width="320" height="223" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.00.54-300x209.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.00.54.png 320w" sizes="(max-width: 320px) 100vw, 320px"></p>
+<p>这些吐槽都不无道理，但这难道不是国产古装剧通病吗？常被用来跟《芈月传》对比的“良心剧”《大秦帝国之纵横》和《太子妃升职记》同样充斥“淘宝爆款”和肉麻对白。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-%E4%B8%8B%E5%8D%887.02.01.png" alt="Screen Shot 2016-01-30 at 下午7.02.01" width="490" height="351" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.02.01-300x215.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.02.01.png 490w" sizes="(max-width: 490px) 100vw, 490px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-%E4%B8%8B%E5%8D%887.02.12.png" alt="Screen Shot 2016-01-30 at 下午7.02.12" width="570" height="320" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.02.12-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.02.12.png 570w" sizes="(max-width: 570px) 100vw, 570px"></p>
+<p><strong>在观众略显情绪化的反弹背后，是剧集本身对观众期待和现实需求的双重背离：</strong></p>
+<p>首先，说好的“政治大戏”依然以“宫斗”为绝对的主旋律，受欺骗的消费者自然不答应；</p>
+<p>更重要的是，影视作品受欢迎最终源于观众能在其中找到现实的投射，关于“女人成功之路”，编剧给出的答案竟是依赖一个个权势男人总在恰当时机出现，并死心塌地庇护扶持。</p>
+<p>这种答案当然要激怒掌握着遥控器和自媒体的女性们——她们大多是在性别陈规和玻璃天花板下苦苦奋斗的职场女性，深知男人不仅不会把你送上权力巅峰，不带着有色眼镜弹压你就不错了——这也可以解释为什么这么多观众把剧中的芈月骂作“绿茶婊”：故作纯真无辜利用男性资源上位的女人。</p>
+<p>《芈月传》并非没有对她如何习得治国能力的描绘：从小聪明喜欢读书，来月事时显示出对女性命运的不满，帮秦王筛读策论，跟秦王讨论国政等等。</p>
+<p>但正是这些描绘让人发现编剧对强大女人的想象捉襟见肘到难免好笑，聪明、好学、美丽再加上一点运气，就足以让一个女人在男人的政治世界里权倾天下吗？果真如此，战国有100个国家恐怕都不够女人们分。</p>
+<p>与她的原型秦宣太后相比，电视剧中的芈月可以说“弱爆”了。真正的芈八子是能以床第之事作比与使臣谈论政务的女人，也是可以用性和情爱稳住政敌再杀之后快的女人，与其说是她依靠男人的庇护，不如说男人是她的手脚和意志的化身。</p>
+<p><strong>《芈月传》对“女政治家”的描绘无能，并不是单一现象。</strong></p>
+<p>《大秦帝国》里的芈八子也只是个驭夫有道的泼辣女子，同样靠着运气“无辜地”成功上位；《武媚娘传奇》里武则天跟芈月一样是“我很漂亮，我很聪明，男人都爱我”就成了女王；《太子妃升职记》里的张芃芃干脆本来就是男人，一不小心穿越进了女儿身……整个中国流行文化圈对强势女人的出现和存在都显得理解不能。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-%E4%B8%8B%E5%8D%887.07.11.png" alt="Screen Shot 2016-01-30 at 下午7.07.11" width="488" height="265" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.07.11-300x163.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-30-at-下午7.07.11.png 488w" sizes="(max-width: 488px) 100vw, 488px"></p>
+<p>过去三十年，中国女性的教育水平、经济实力和社会地位缓慢上升，精英女性阶级膨胀，相应的文化需求长期处于饥渴状态，流行文化圈所提供的产品却严重滞后于这一新兴强势消费群体的水平。《芈月传》的口碑失败，是供给与需求脱节的现象之一。</p>
+<p>那么强大的女人应该是怎么样的呢？不妨看看欧美影视中呈现的她们。</p>
+<p>《纸牌屋》第三季简直是女人的一季，男主角弗朗西斯最重要的对手邓巴刚正不阿，但想赢得总统就必须重新审视手段正义与结果正义的关系；杰姬权力欲野蛮旺盛，择木而栖寻求上升空间；女主角克莱尔也有表露无遗的野心，看似无所不用其极，但是非与底线分明；</p>
+<p>《丑闻》里的奥莉维亚总想要站在正义的一边，现实政治则让她陷入种种需要用智识和勇气解答的悖论；</p>
+<p>《权力的游戏》中的丹妮莉丝出身高贵、倾国倾城甚至有驾驭龙的天赋，但这些依然不够，她想推行解放，却强力、智力、性和婚姻并用还没能摆平……</p>
+<p>除了有内在的正直和过人的智谋，这些强大的女人们都认可自己的目标和丰富的欲望，无论是公共利益上的、个人权势上的抑或身体感官上的。</p>
+<p>更具现实感的是，她们的处境是复杂的，是是非非暧昧不明，需要自己甄别、抉择并付出代价：作为女人，要得到自己想要的，就必须直视女性身份带来的困境和优势，克服它、利用它、放弃它，学会在男人的游戏中利用规则脱颖而出，同时敢于打破规则不忘初心。</p>
+<p>在《纸牌屋》第二季开头就死掉的女记者佐伊，大概就是美国版的芈月，聪明、漂亮、相信权势男人的庇护能帮助自己。她的结局相当现实主义，被弗朗西斯推下轨道身亡——芈月在政治腹黑美剧里活不过15集。</p>
+<p>对女强人表现能力的鸿沟，不能简单归咎于中国文娱生产者们的想象力或智力，这过于粗暴以至于不负责任。首先审查的压制必然导致创作的低能，就像《芈月传》导演郑晓龙说的：“如果把芈月写成政治妓女，审查能过吗？”另一方面，洞察力和想象力不是凭空而来的，需要教育和文化的积淀。</p>
+<p>去年年底，英国电影《女权之声》在港台上映，大陆并未引进，这部影片讲述的是20世纪初英国的妇女参政运动者的故事。女主角Maud在被抓后对警察说：“我们打破窗户、纵火，因为只有这样男人才会听。”</p>
+<p>从这部电影，或许就能明白欧美影视里的女强人形象从何而来，她们不是脱胎于“男人争夺战”中的胜利者，或传统社会中的“好女人”，而是来自百年女权运动史一再描绘的女人应有的样子——就像片中女主角T恤上的文字“我宁反叛，不愿为奴”。</p>
+<p>如果结合欧美文化中长期的女权理念积淀，就很容易理解影片中女强人们的性格和命运逻辑。近年不少反乌托邦和政治隐喻影片中的主角都是女性，即最后的“好人”或“革命领袖”是女性，比如《饥饿游戏》、《分歧者》等，这也可以从女权文化的浸淫中找到根源。</p>
+<p>首先，女主角们在从普通女孩转变为政治强人的关键一步往往是：杀夫。这不一定是事实意义上的，也可以是象征意义上的。</p>
+<p>在《纸牌屋》中，克莱尔真正“出山”的标志是她对总统丈夫弗朗西斯说：“我要离开你了。”</p>
+<p>由此冷静地处理掉了她痛恨的依赖，完成了心理上的“杀夫”过程，令人对新一季她的逆袭无限期待；</p>
+<p>而本来就基于玄幻框架的《权力的游戏》则更露骨地展现了丹妮莉丝的这一过程，她先是让丈夫烫死了贩卖自己的哥哥——弑兄，再用枕头闷死了自己的丈夫——杀夫，再明言要打破姓氏交替统治的车轮——颠覆父权制；</p>
+<p>“杀夫”并不是女强人角色的新近现象，在经典电影中比比皆是，如《末路狂花》、《杀死比尔》等等。</p>
+<p>“杀夫”的意象可以在精神分析流派的女权理论中找到照应。作为其讨论基础的弗洛伊德理论认为，男性从童年开始形成了“阉割恐惧”和“恋母弑父情结”，成年过程中通过社会化转变为对父亲权威的认可和继承，而女性则因没有阴茎产生自卑、压抑和自恋的心理，她迷恋和崇拜以父亲为象征的男性，嫉恨女性。</p>
+<p>精神分析的女权主义则由此产生理论批判，认为这种区隔不是必然的，理应打破社会对这些生理区别的构建，为男权文化“去势”。因此，女人的强大并不体现在能够抢赢别的女人，而是在于对夫、父、兄乃至整个男权权威的消解和颠覆。</p>
+<p>另一方面，激进女权主义理论认为，各种形式的压迫都以性别压迫为范式。极权主义作为压迫性政治制度的典型，当然也与男权压迫同根同源。</p>
+<p>同时，弗洛伊德的理论又认为，由于缺少阉割恐惧，女人是难以完全社会化的，即难以完全服从于男权社会规范，他将之视为女人的“原罪”。</p>
+<p>许多女权理论家则对于同一现象有完全相反的评价，她们认为，由此，女人更贴近关怀、妥协、分享和正直，更加不容易被男权社会的霸权逻辑所侵蚀。这些特质，恰恰是民主革命应有之义，因而反乌托邦传奇越来越多以女性为主角就毫不意外了。</p>
+<p>从这个角度，中国社会文化本就欠缺女权理念的浸淫，大部分知识精英似乎也没有学习和接纳女权理论的见地，那么，拍不好《芈月传》或许只是最无关紧要的损失。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%80%9D%E4%B9%90%E4%B9%A6-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7%E6%8A%8A%E6%94%BF%E6%B2%BB%E5%A5%B3%E5%BC%BA%E4%BA%BA%E9%83%BD%E6%8B%8D%E6%88%90%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E4%B9%90%E4%B9%A6/?category=18271" rel="tag">思乐书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E8%A1%8C%E6%96%87%E5%8C%96/?category=18271" rel="tag">流行文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%88%E6%9C%88%E4%BC%A0/?category=18271" rel="tag">芈月传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%8F%B0%E6%B9%BE%E8%84%9A%E8%B6%BE%E5%A4%B4%E4%B8%8E%E5%A4%A7%E9%99%86%E8%84%9A%E8%B6%BE%E5%A4%B4%E4%B9%8B%E8%BE%A9%E8%AF%81%E5%85%B3%E7%B3%BB/" target="cdt-mirror">【习总日记】台湾脚趾头与大陆脚趾头之辩证关系</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，31）</p>
@@ -612,66 +720,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A9%E5%B1%B1%E7%BD%91%EF%BD%9C%E6%96%B0%E7%96%86%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%BE%9D%E6%B3%95%E6%9F%A5%E5%A4%84%E4%B8%A4%E5%AE%B6%E4%BC%A0%E6%92%AD%E9%9D%9E%E6%B3%95%E5%86%85%E5%AE%B9%E7%9A%84/" target="cdt-mirror">天山网｜新疆网信办依法查处两家传播非法内容的网站</a>
-</h2>
-<p><p>天山网讯 （记者田山报道）记者从新疆网信办获悉，近日该办依法严肃查处了653130网（www.653130.com）和维吾尔音乐门户网（www.muzikam.com）。</p>
-<p>　　1月13日，新疆网信办接到网民举报，迅速对两家网站展开调查。经查，653130网和维吾尔音乐门户网传播非法内容，破坏民族团结，造成恶劣影响。</p>
-<p>　　依据《全国人民代表大会常务委员会关于维护互联网安全的决定》《互联网信息服务管理办法》等法律法规，新疆网信办对两家网站给予关闭整改处罚。</p>
-<p>　　新疆网信办有关负责人表示，网站应切实强化主体责任，履行社会责任，强化底线意识，加强内部管理和自律。今后，新疆网信办将继续加强互联网执法督查工作，坚决查处各类违法违规行为，欢迎广大网民继续对网上违法和不良信息进行监督举报。</p>
-<p>　　新疆互联网违法和不良信息举报中心网址：xjwljb.ts.cn，举报电话：0991-6788111，举报邮箱：xjwljb@xjts.cn。</p>
-<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A4%A9%E5%B1%B1%E7%BD%91%EF%BD%9C%E6%96%B0%E7%96%86%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%BE%9D%E6%B3%95%E6%9F%A5%E5%A4%84%E4%B8%A4%E5%AE%B6%E4%BC%A0%E6%92%AD%E9%9D%9E%E6%B3%95%E5%86%85%E5%AE%B9%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E5%85%AC%E5%AE%89%E9%83%A8%EF%BC%9A%E7%8C%8E%E7%8B%902015%E6%8A%93%E8%8E%B7%E5%A4%96%E9%80%83%E4%BA%BA%E5%91%98857%E4%BA%BA/" target="cdt-mirror">BBC | 公安部：“猎狐2015”抓获外逃人员857人</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%8C%8E%E7%8B%90%E8%A1%8C%E5%8A%A8.jpg" alt="中国公安部表示将在2016年进一步推动境外追捕涉贪腐人员“常态化” " width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/猎狐行动-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/猎狐行动.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>中国公安部表示将在2016年进一步推动境外追捕涉贪腐人员“常态化”</p></div>
-<p><strong>过去一年，中国在境外追捕涉贪腐人员的“猎狐”行动中成功抓获超过850人，其中大部分外逃超过5年。</strong></p>
-<p>中国公安部还同时宣布正式成立“境外缉捕工作局”（Department of Overseas Fugitives Affairs），进一步在2016年加强境外“追逃追赃”。</p>
-<p>在周三（1月27日）发布的公告中，公安部指，中国在2015年与境外执法机构和驻外使领馆的协助下，“从66个国家和地区成功抓获各类外逃人员857名”，其中有477人是被缉捕归案，366人投案自首，另外14人异地追诉。</p>
-<p>公告还指，去年在境外抓获的人员中涉案金额超过亿元人民币的有58人，外逃5年以上的有667人，外逃时间最长的达21年。</p>
-<p>作为国家主席习近平上任以来大规模反腐行动的一部分，中国政府追捕外逃腐败人员的“猎狐”行动在成功追捕多人回国面对指控的同时，也在美国等地存在争议。</p>
-<p>中美之间没有签署正式的引渡条约，但去年成功追捕的人员中有两人是从美国被遣返，而中国也一直在敦促美国加强合作，协助追捕在逃的涉腐败人员。</p>
-<p>其中最受关注是中共前统战部部长令计划之弟令完成，消息指他目前身在美国并可能掌握大量情报，中纪委官员也在近日表示正在与美国进行沟通。</p>
-<p>美国国务院网站则引述中国外交部长王毅周三（1月27日）与美国国务卿约翰·克里（John Kerry）会面时再次敦促美国加强与中国在反恐、境外缉捕等方面的合作，追回潜逃境外的中国腐败人员的“非法利益“。</p>
-<p>英国《金融时报》指，美国在跨境引渡人员问题上仍顾虑中国的人权状况和司法系统。</p>
-<p>在公告中，中国公安部还同时宣布正式成立“境外缉捕工作局”，并引述负责人表示，将继续开展“猎狐2016”专项行动，“进一步推动境外追逃追赃工作常态化、专业化和精细化，不断扩大境外缉捕战果。”</p>
-<p>除了从美国遣返的两人外，2015年从境外缉捕的涉贪腐人员中还有6人从欧洲多国引渡回中国，而缉捕人数最多的是在东南亚国家，达到283人。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E5%85%AC%E5%AE%89%E9%83%A8%EF%BC%9A%E7%8C%8E%E7%8B%902015%E6%8A%93%E8%8E%B7%E5%A4%96%E9%80%83%E4%BA%BA%E5%91%98857%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BC%89%E6%8D%95%E5%B7%A5%E4%BD%9C%E5%B1%80/?category=18271" rel="tag">境外缉捕工作局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E9%80%83%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">外逃贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%8E%E7%8B%90%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">猎狐行动</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%91%98%E8%BF%91%E6%9C%88%E5%B1%A1%E6%8F%90%E4%B9%A0%E6%A0%B8%E5%BF%83-%E6%9C%89%E4%BD%95%E6%94%BF%E6%B2%BB/" target="cdt-mirror">南华早报｜多地官员近月屡提“习核心” 有何政治信号？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E4%BB%A3%E6%A0%B8%E5%BF%83.jpg" rel="attachment wp-att-426806"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E4%B8%89%E4%BB%A3%E6%A0%B8%E5%BF%83.jpg" alt="三代核心" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/三代核心-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/三代核心.jpg 763w" sizes="(max-width: 550px) 100vw, 550px"></a><br><em>（网络图片）<br></em></p>
-<p>习近平的核心幕僚栗战书周三（1月27日）表示，要“增强核心意识”，坚持把“对党绝对忠诚”作为根本政治要求。有分析指，这是要求党员干部对总书记习近平效忠。</p>
-<p>最近数个省市的党委书记先后开始用“核心”来形容习近平，而这个表述此前只曾被用在邓小平和江泽民的身上。</p>
-<p>现年65岁的栗战书是中共中央政治局委员、中央书记处书记，他是在中央直属机关党的工作会议上发表上述言论的。</p>
-<p>中央直属机关由大约20几个，级别从副国级到副部级不等，其中包括中宣部、中组部、中纪委和《人民日报》。栗战书在会议上说，要“始终在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致。”</p>
-<p>这是又一例中央级别干部呼吁要对党保持“绝对忠诚”的例子。新华社报道，去年11月，中央政治局召开会议，指出“对党绝对忠诚是最重要的政治纪律”。</p>
-<p>分析人士指，栗战书的言论意味着对习近平的个人忠诚。北京的政治评论家章立凡说，强调对党中央的忠诚，其实是要求对领导人的忠诚。一个高度集权的政权已经形成，但危险的地方在于，如果做出了错误的决定，将会有很棘手的后果。</p>
-<p>他说，有关言论可能反映了一系列失败的经济政策后的对党内决策者的信心危机。</p>
-<p>将习近平奉为党领导“核心”的说辞，近来被多名省市的党委书记提起，而这个“核心”在过去10年很少被用来指代中共的领导层。根据报道，湖北、四 川、天津、安徽、广西、西安和中国银行的党委书记在1月以来的会议上都说过，要求从属党员“自觉维护习近平总书记这个（领导）核心”。</p>
-<p>“核心”在以往常被用在邓小平和江泽民身上。那时的官方报道是这样写的：“以邓小平为核心的党中央”，“以江泽民为核心的党中央”。</p>
-<p>但到胡锦涛上台后，官方措辞就变成了“以胡锦涛作为总书记的党中央”。而习近平在2012年上台之后，这个格式的措辞在官方报道中被保留了下来。</p>
-<p>上海政法大学的Chen Daoyin指，措辞上微妙的转变可以有很强烈的含义。 “邓小平和江泽民被称为核心，是因为他们都有最终通过或否决权。胡锦涛更多时候是领导层中的协调人。”</p>
-<p>他说，这意味着习近平在巩固权力方面做得非常成功，而地方官员也在向他表达忠心，以在2017年的换届中有更好的晋升机会。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%91%98%E8%BF%91%E6%9C%88%E5%B1%A1%E6%8F%90%E4%B9%A0%E6%A0%B8%E5%BF%83-%E6%9C%89%E4%BD%95%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +731,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +741,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

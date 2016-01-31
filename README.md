@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%8F%B0%E6%B9%BE%E8%84%9A%E8%B6%BE%E5%A4%B4%E4%B8%8E%E5%A4%A7%E9%99%86%E8%84%9A%E8%B6%BE%E5%A4%B4%E4%B9%8B%E8%BE%A9%E8%AF%81%E5%85%B3%E7%B3%BB/" target="cdt-mirror">【习总日记】台湾脚趾头与大陆脚趾头之辩证关系</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（2016，1，31）</p>
+<p>我是爱人民的，真的。诚心诚意地、顽强不屈地、掏心掏肺地爱着人民。</p>
+<p>中共中央政治局1月29日下午就“十三五”时期我国经济社会发展的战略重点进行第三十次集体学习。我在主持学习时强调，发展战略重点，是“十三五”时期我国发展的“衣领子”、“牛鼻子”。抓准、抓住、抓好战略重点，是保证“十三五”发展开好头、起好步的关键，是保证全面建成小康社会决胜阶段获得全胜的关键。要准确把握“十三五”时期我国发展的战略重点，做到胸中有数、落实有策、行动有策，以奋发有为的精神状态、攻坚克难的拼搏意志、只争朝夕的紧迫劲头，通过抓好发展战略重点带动发展全局，把“十三五”发展宏伟蓝图一步一步变为现实。</p>
+<p>我饱含热泪说：“脱贫开发工作是我们的一个突出短板，要举全国之力抓好，确保到2020年农村贫困人口全部脱贫。”</p>
+<p>刘云山举手要求发言：“城市贫困人口就不用脱贫了么？”</p>
+<p>王岐山拍马赶来反驳：“城市哪会有贫困人口。都富得流油。‘人傻钱多’是嘛意思你知道么？是这我们这儿富裕的夸张说法。要是在毛主席那会儿，我们就压根儿不会承认有农村贫困人口。习总书记实事求是，承认有贫困人口已经很客气了。哪还有什么城市贫困人口？”</p>
+<p>我认真地对刘云山说：“云山同志，饭可以乱吃话可不能乱说。你若能告诉我，哪个省哪个市还有一个贫困人口，我马上把那个城市的领导班子从市委书记到妇联主任全部双规，一撸到底。”</p>
+<p>我转向大家严肃地：“同志们，建国六十六年了，若还不能让城市人口脱离贫困，我们还有什么脸面继续统治中国？当年共产党顶着雷推翻国民党政权，还不是为了取得全心全意为人民的权利。若…”</p>
+<p>俞正声没礼貌打断我插问：“请问习总，‘顶着雷’是啥意思？”</p>
+<p>我不屑：“连这都不懂还当啥政治局常委？”</p>
+<p>俞正声不服气问王岐山：“岐山同志，麻烦你来替习总解释给大家听。”</p>
+<p>王岐山一连茫然：“真不好意思，我也是第一次听到这词。还是请习总亲自解释吧。”</p>
+<p>我语重心长地：“按照我们现在的是非标准，从建党起，我党犯了勾结外国敌对势力推翻国家政权罪。还好我们革命成功，罪行一笔勾销。因为检察院法院我们开，军队也是我们的。这就是一个雷。这个雷我们一直顶着，不垮台雷便不会爆。”</p>
+<p>李克强笑了：“原来是这个雷。”</p>
+<p>我冷眼道：“你以为呢？”</p>
+<p>李克强不敢作声。</p>
+<p>我告诉大家：“我是爱人民的，党也是爱人民的。当年共产党推翻国民党自己来做统治者，就是认为共产党将会比国民党做得好。否则推翻他干什么？如果知道国民党做得比我们好，就让国民党继续执政好了。是吧。以前以为台湾人民生活在水深火热之中，后来看看生活得不错，所以就放弃解放台湾的念头。现在民进党上台，我们要听其言观其行。若他们能促进台湾经济发展，能让台湾人民生活幸福，海峡两岸暂时分裂也没关系。”</p>
+<p>俞正声提醒道：“习总你这是台独言论。什么只要台湾人民幸福，暂时分裂也没关系。这是地地道道的台独言论。”</p>
+<p>我不以为然：“为人民服务是我党宗旨。台湾由国民党民进党管理有啥不可以？只要台湾人民没意见，我们就没意见。哪一天若台湾人民向我党情愿说，请中央政府来接管台湾，我们大军马上出发，兑现为台湾人民服务的承诺。”</p>
+<p>张高丽插嘴：“对，为人民服务是最高原则。统一不统一在其次。”</p>
+<p>俞正声不买账：“那么台湾人民请求独立，我们怎么办？”</p>
+<p>我马上回答：“那可不行。全体中国人民不会答应。”</p>
+<p>俞正声说：“习总多次说了，鞋子合适不合适只有脚指头知道。台湾人民幸福不幸福只有台湾人民自己知道，管全体中国人民屁事！”</p>
+<p>王岐山说：“台湾若独立，全体中国人民的脚趾头不舒服。这是问题所在。”</p>
+<p>我问韩正：“请你说说，为何中国人民的脚趾头会不舒服？”</p>
+<p>韩正嘿嘿一笑：“羡慕嫉妒恨。”</p>
+<p>俞正声也曾主政上海。他补充说：“上海人民的脚趾头也想独立。”</p>
+<p>我恨恨地：“想得美。”</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E5%8F%B0%E6%B9%BE%E8%84%9A%E8%B6%BE%E5%A4%B4%E4%B8%8E%E5%A4%A7%E9%99%86%E8%84%9A%E8%B6%BE%E5%A4%B4%E4%B9%8B%E8%BE%A9%E8%AF%81%E5%85%B3%E7%B3%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E8%8D%86%E9%99%B5%EF%BC%9A%E4%B8%8D%E7%A0%B4%E6%A5%BC%E5%85%B0%E7%BB%88%E4%B8%8D%E8%BF%98/" target="cdt-mirror">唐荆陵：不破楼兰终不还–我只向人民和上帝上诉</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/201505300935china1.jpg" alt="201505300935china1" width="264" height="364">今天我以全然的轻蔑，平静地迎接独裁者的攻击—-就是这假法律名义所作出的判决。在法院堂皇的大楼里，我们可以看到庄严华丽的陈设和装饰，看到衣冠俨然的政府雇员，唯独看不到法律，更看不到正义。</p>
@@ -633,45 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%88%AB%E4%BA%86%EF%BC%8C%E5%85%AD%E5%8D%81%E4%BA%94%E4%B8%87%E5%A4%84%E4%B8%8D%E5%8F%AF%E7%A7%BB%E5%8A%A8%E6%96%87%E7%89%A9/" target="cdt-mirror">NGOCN｜别了，六十五万处不可移动文物</a>
-</h2>
-<p><p><em>关注NGOCN，公益视野大不同<br>
-作者：韩青</em></p>
-<p><strong>《文物保护法》要修订了，修订成《文物不保护法》。</strong></p>
-<p>1月28日，文化部提交国务院审议的《文化保护法修正草案（送审稿）》征求社会意见将会截止。送审稿中，原文保法二十条<strong>“建设工程选址，应当尽可能避开</strong><strong>不可移动文物</strong><strong>”</strong>，变成了<strong>“建设工程选址，应当避开</strong><strong>文物保护单位</strong><strong>”</strong>。也就是说，非文保单位的不可移动文物，已彻底失去了文保法的庇佑，连象征性的保护红线都没有了。这意味着什么？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A91.jpg" rel="attachment wp-att-426795"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A91.jpg" alt="文物1" width="525" height="390" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/文物1-300x223.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/文物1.jpg 640w" sizes="(max-width: 525px) 100vw, 525px"></a><br><span>被列为不可移动文物的郑州孙庄孙翰林纪念园，上个月已被推平</span></p>
-<p>据截止2011年底的第三次文物普查，<strong>全国共登记不可移动文物766722处（不包括港澳台地区），其中约有85%非文物保护单位</strong>，是之前所谓的“未定级不可移动文物”，在送审稿中改成了“一般不可移动文物”。这散落全国各地的六十五万处“一般不可移动文物”，很可能将直面挖掘机、推土机的蹂躏。</p>
-<p>听上去有些杞人忧天，但看看之前的事实，<strong>文物三普数据显示，近30年来共消失了4万多处不可移动文物</strong>，其中半数以上是毁于各种各样的建设，其中还有不少是文保单位。而在第三次文物普查中，新发现登记不可移动文物达到536001处，占到目前不可移动文物总量的近七成。那些没有来得及登记就消失的文物有多少呢？按照同等比例，保守估计也会达到九万处。</p>
-<p>而且，即便是“未定级不可移动文物”，或是“一般不可移动文物”，也并不代表它们的价值就低，因为可能是还没有被人们挖掘出来。像<strong>2013年公布的第七批全国重点文物保护单位，就有不少是从“一般不可移动文物”直接升级来。</strong>如果只因为它们级别低就另眼看待，那等到发现其真正价值，这些文物可能已经成为一片废墟了。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A92.jpg" rel="attachment wp-att-426794"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A92.jpg" alt="文物2" width="400" height="266" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/文物2-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/文物2.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></a><br><span>不可移动文物郑州上街区马固村王氏家庙门前，修路的挖掘机正在作业。</span></p>
-<p>都说文物是民族记忆的载体，是传统文化的密码，是老祖宗留给后人的传家宝，但这十几万处传家宝，却在和平时期被我们这代人给糟蹋了。而且不只是糟蹋，还要玩着花样糟蹋。<strong>北京梁思成、林徽因故居被拆除时说是“维修性拆除”，重庆原国民政府军事委员会重庆行营被拆时又说是“保护性拆除”，郑州上街区马固村七处文物仅剩两处，当地还说在进行“针对性保护”。</strong></p>
-<p>即便这些事件被媒体广泛报道，即便文物损毁的事情已经板上钉钉，即便郑州上街区上千处不可移动文物被拆的可能只剩下两成，但却没有见到一个拆迁人员被追究刑责，没有见到一个主管官员被问责处理，就连象征性的几万块钱的罚款都很少见。<strong>文物保护法，也被人们痛心地称为是没有牙齿的文保法，吓不住任何人，更挡不住地方政府的土地利益冲动。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A93.jpg" rel="attachment wp-att-426793"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A93.jpg" alt="文物3" width="525" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/文物3-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/文物3.jpg 640w" sizes="(max-width: 525px) 100vw, 525px"></a><br><span>蒋介石重庆行营被“保护性拆除”,珍贵抗战遗址只剩砖木残体</span></p>
-<p>很 多文保志愿者对这次文保法修订寄予厚望，希望新文保法能够划定一条开发商和地方政府都不敢轻易触碰的红线，能够让文物行政主管部门及时地给文物挂牌公示、 不敢消极怠工、不敢对文物损坏状况不管不问，能够对不同级别不可移动文物都给予有效的保护，能够让民间通过公益诉讼等途径介入到文物保护中来，但如今的文 保法送审稿却在大冷天给大家浇了一盆冷水。</p>
-<p>从文保法送审稿来看，或许有些人觉得糟蹋得还不过瘾，糟蹋起来还有些碍手碍脚碍面子，文保部门也觉得这六十五万处未定级不可移动文物像个累赘，于是开始分两步对拆除大开绿灯。</p>
-<p><strong>一是切割。</strong>原文保法二十条“建设工程选址，应当尽可能避开不可移动文物；因特殊情况不能避开的，对文物保护单位应当尽可能实施原址保护。实施原址保护的……无法实施原址保护，必须迁移异地保护或者拆除的……”，第二句的主体是“所有不可移动文物”还是“文物保护单位”存在模糊空间，送审稿此次将其明确为“文物保护单位”。</p>
-<p><strong>二是正名</strong>。送审稿第二十一条<strong>“一般不可移动文物，不得擅自迁移、拆除；因建设工程需要必须迁移、拆除的，应当由县级人民政府批准……”</strong>这不是羊入虎口吗？要知道，因为土地财政的冲动，<strong>现在文物损毁、拆除的主力，就在县级政府</strong>，如果文物可以为建设让路，不管是商业开发还是所谓的公益建设，县级政府都可以决定是不是“必须迁移、拆除”，那肯定一路狂飙了。</p>
-<p>以前有文保法做紧箍咒，各地拆起文物来还遮遮掩掩，所以才会有<strong>“维修性拆除”、“保护性拆除”、“针对性保护”</strong>这样的发明，才会有郑州峡窝镇官员“不知拆的是文物”的辩解，才会有上街区文广新局副局长面对记者区内文物还剩几成文物的提问，只能以“这个我们真不知道”来搪塞。至少，那时他们还有最起码的是非感和羞耻感。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A94.jpg" rel="attachment wp-att-426792"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A94.jpg" alt="文物4" width="410" height="281" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/文物4-300x206.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/文物4.jpg 410w" sizes="(max-width: 410px) 100vw, 410px"></a><br><span>2012年，北京梁思成、林徽因故居被房地产商“维修性拆除”</span></p>
-<p>可如果文保法都对不可移动文物拆除开了口子，连一个一扯就掉的底裤都懒得穿，将文物的生杀大权下放到县级政府，那以后各地拆起文物来腰杆就硬了，大可以腆着脸说这是“必须性拆除”，像郑州管城区那样文物局长加入拆迁小组也就更加名正言顺了。</p>
-<p>也许，不能只责怪文保法送审稿对现实的妥协，县级政府就不该负起文物保护的责任吗？毕竟，县级和政府中间，也有着人民字眼。<strong>但人民，只是在两个词的夹缝中生存。</strong></p>
-<p>郑州中原区孙庄被列为不可移动文物、由曾国藩题写墓志铭的清官墓地连夜被毁，毁墓者毫毛未损，五名村民反倒因为参与守护祖坟被刑拘；郑州上街区柏庙村46处文物仅存4处，<strong>柏庙孙氏文化研究会的秘书长孙洪恩气愤地说，“现在毁文物，比文革的时候厉害！现在毁，那是全都毁了，啥都没有了！”</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A95.jpg" rel="attachment wp-att-426791"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%96%87%E7%89%A95.jpg" alt="文物5" width="525" height="349" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/文物5-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/文物5.jpg 640w" sizes="(max-width: 525px) 100vw, 525px"></a><br><span>郑州上街区的柏庙村孙氏庄园，是46处文物仅存的4处之一</span></p>
-<p>高高在上的文保法送审稿，你对不可移动文物拆迁大开绿灯，对得起那些为保护文物奋不顾身的基层民众吗？对得起那些历经风雨沧桑幸存至今的六十五万处不可移动文物吗？</p>
-<p>也许，你会假装听不到这样的诘问。所以，我只能跟那些文物作别：别了，不可移动文物。你们到了天上或地下，请不要忘了他们。</p>
-<p><strong>提意见！最后一天</strong></p>
-<p>2016年1月28日前</p>
-<p>(一)登陆中国政府法制信息网(网址：http://www.chinalaw.gov.cn，阅读原文直达)，通过网站首页左侧的《法规规章草案意见征集系统》，对送审稿提出意见。<br>
-(二)通过电子邮件方式将意见发送至：wwbhf@chinalaw.gov.cn</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/NGOCN.jpg" rel="attachment wp-att-426790"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/NGOCN.jpg" alt="NGOCN" width="250" height="299" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/NGOCN-251x300.jpg 251w, http://chinadigitaltimes.net/chinese/files/2016/01/NGOCN.jpg 640w" sizes="(max-width: 250px) 100vw, 250px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%88%AB%E4%BA%86%EF%BC%8C%E5%85%AD%E5%8D%81%E4%BA%94%E4%B8%87%E5%A4%84%E4%B8%8D%E5%8F%AF%E7%A7%BB%E5%8A%A8%E6%96%87%E7%89%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%86%E5%93%AA/?category=18271" rel="tag">拆哪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">文物保护</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +683,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

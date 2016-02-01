@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,116 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E9%99%A2%E9%95%BF-%E5%85%B6%E5%AE%9E%E8%8B%B9%E6%9E%9C%E5%8F%AF%E4%BB%A5%E9%87%8D%E5%90%AF/" target="cdt-mirror">【立存此照】院长 其实苹果可以重启……</a>
+</h2>
+<p><p>@Fenng：这位清华的院长让我笑半天了。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CaBI0PHUYAAEsp8.jpg" alt="CaBI0PHUYAAEsp8" width="500" height="889" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CaBI0PHUYAAEsp8-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/CaBI0PHUYAAEsp8.jpg 600w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CaBIzl5UcAE6H5j.jpg" alt="CaBIzl5UcAE6H5j" width="500" height="889" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CaBIzl5UcAE6H5j-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/CaBIzl5UcAE6H5j.jpg 600w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>@Fenng：研究所谓国际关系这事儿，把自己包装成个「鹰派」，然后就有一群脑残跟着你走。百试不爽。</p>
+<p>@央_央_央：死机的时候锁屏和home同时长按过一会儿再开就好了啊。就算你买个遥控器螺丝那里还有个合格证贴着防止自行拆卸呢，没觉得苹果有问题。</p>
+<p>@恒_迹：院长想要批判的是霸权主义和霸王条款，只不过切入点找错了。变成了一个反例去证明信息开放的重要性。</p>
+<p>@朱鑫权Sean：真是一帮砖家。</p>
+<p>@曹益峰：他适合老人机吧，他还很疑惑和愤青呢，话说这样的教授能带给清华和中国什么？他还哭诉研究经费控制得太严，不能花得尽性。</p>
+<p>@SofayW：这位先生不但对现代社会略有脱节，而且有些冒失和上纲上线……不了解没去调查询问，就直接下判断，帽子还盖的这么大！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E9%99%A2%E9%95%BF-%E5%85%B6%E5%AE%9E%E8%8B%B9%E6%9E%9C%E5%8F%AF%E4%BB%A5%E9%87%8D%E5%90%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">国际关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E/?category=18271" rel="tag">清华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%8E%E5%AD%A6%E9%80%9A/?category=18271" rel="tag">阎学通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%B8%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">霸权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B9%B0%E6%B4%BE/?category=18271" rel="tag">鹰派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%BD%A0%E5%A5%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%A0%B8%E5%BF%83/" target="cdt-mirror">精读党报 | 你好 习近平核心</a>
+</h2>
+<p><p>编辑注：此文已在微信上被删除</p>
+<p>中国兰州网1月31日消息 1月11日上午，四川省委书记王东明主持四川省委常委会议，专题传达学习习近平总书记在中央政治局“三严三实”专题民主生活会上的重要讲话和中央关于政治局专题民主生活会情况的《通报》。会议强调“<strong>坚决维护习近平总书记这个核心</strong>”。(1月12日《四川日报》)</p>
+<p>同日下午，天津市委代理书记黄兴国<strong>再次</strong>主持召开市委常委会议(<strong>注意，是再次。1月8日上午，天津市委常委已开会学习传达上述习近平讲话和《通报》</strong>)，<strong>进一步深入学习</strong>习近平总书记重要讲话，进行认真讨论，与会同志逐一作了发言。</p>
+<p>这次会议强调：</p>
+<p>要切实增强政治意识、核心意识、看齐意识。要自觉维护党中央权威和党的集中统一，<strong>坚决维护习近平总书记这个核心</strong>，经常、主动向党中央看齐、向习总书记看齐，向党的理论和路线方针政策看齐，向党的十八大和十八届三中、四中、五中全会精神看齐，向党中央的各项决策部署看齐。(1月12日《天津日报》)</p>
+<p>1月13日，安徽省委书记王学军主持安徽省委常委扩大会议，王学军指出：</p>
+<p>坚定不移向党中央看齐是根本方向，争当“四个自觉”模范(“四个自觉”首见于2015年1月30日人民日报，是习近平对政治局成员当好“三严三实”表率提出的4点要求。后文将谈到。)是实现路径，只有当好“四个自觉”模范，才能确保向党中央看齐，向习近平总书记看齐，才能自觉维护中央权威，<strong>坚决维护习近平总书记这个核心</strong>。(1月14日《安徽日报》)</p>
+<p>27日至28日，王学军在黄山市调研时再次强调，“<strong>自觉维护中央权威，坚决维护习近平总书记这个核心。</strong>”(1月29日《安徽日报》)</p>
+<p>1月13日，广西党委书记彭清华主持广西自治区党委常委扩大会议，强调：</p>
+<p>从思想上政治上行动上与以习近平同志为总书记的党中央保持高度一致，是对各级党组织和领导干部的根本要求。必须切实增强政治意识、大局意识、核心意识、看齐意识，<strong>坚决维护习近平总书记这个核心</strong>。</p>
+<p>广西自治区党委常委一致认为：</p>
+<p>有以习近平同志为总书记的党中央的坚强领导，有一个好的中央政治局、好的中央政治局常委会、好的总书记，是党和国家之幸、中国特色社会主义之幸，也是全体中国人民之幸。(1月14日《广西日报》)</p>
+<p>1月14日，西安市委书记魏民洲主持召开市委常委扩大会议，强调：</p>
+<p>要强化看齐意识，经常主动坚决全面向党中央看齐、向习近平总书记看齐。要强化核心意识，始终把维护党中央权威、坚持党的集中统一作为基本的政治纪律和政治规矩，<strong>坚决维护习近平总书记这个核心</strong>，不折不扣贯彻执行中央各项决策部署，始终在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致。(1月15日《西安日报》)</p>
+<p>1月15日，湖北省委书记李鸿忠主持湖北省委常委会议，明确指出：</p>
+<p><strong>中国共产党是中国特色社会主义事业的领导核心，中共中央政治局及其常委会是党的领导核心，习近平总书记是党中央的领导核心</strong><strong>。</strong><strong>自觉维护党中央权威，就要自觉维护习近平总书记这个领导核心。</strong>(1月17日《湖北日报》)</p>
+<p>据1月23日的《金融时报》(不是英国的FT，中国人民银行主管的一份报纸)报道，中国银行党委书记、董事长田国立近日在中行党委中心组学习会议上强调：</p>
+<p>党的十八大以来，面对深刻调整的世界格局和深刻变革的国内形势，<strong>以习近平总书记为核心的党中央</strong>，审时度势，成竹在胸，我国经济持续发展，国际地位稳步提升，开创了治国理政的崭新局面，取得了举世瞩目的辉煌成就，充分展示出卓越的执政能力，展现出伟大的情怀和博大的格局。</p>
+<p>作为中央金融企业的领导干部，要坚定正确的政治方向，牢固树立看齐意识，自觉在思想上、政治上、行动上同以习近平同志为总书记的党中央保持高度一致，<strong>自觉维护习近平总书记这个核心</strong>。(1月23日《金融时报》)</p>
+<p>北京市委书记郭金龙说：</p>
+<p>当前，我们正处于世界格局深刻调整、国内正在进行深刻变革的重要时刻，尤其是决胜全面建成小康社会正处于关键阶段、我国跨越“中等收入陷阱”正处于紧要时期，<strong>比任何时候都更需要一个坚强的领导核心。</strong>我们有这么大的一个党、一个国家，没有集中统一，没有强有力的中央权威，是不行的、不可想象的。国内外历史和现实，特别是我们党的历史和现实一再证明了这一点。(1月15日《北京日报》)</p>
+<p>继毛泽东、邓小平、江泽民后，中共党报上再次密集出现“核心”这一概念，这一次，<strong>核心是习近平</strong>。</p>
+<p>1989年6月16日，在江泽民成为中共中央总书记后，邓小平同几位中央负责同志谈话时表示：</p>
+<p>任何一个领导集体都要有一个核心，没有核心的领导是靠不住的。第一代领导集体的核心是毛主席。因为有毛主席作领导核心，“文化大革命”就没有把共产党打倒。第二代实际上我是核心。因为有这个核心，即使发生了两个领导人的变动，都没有影响我们党的领导，党的领导始终是稳定的。进入第三代的领导集体也必须有一个核心，这一点所有在座的同志都要以高度的自觉性来理解和处理。要有意识地维护一个核心，也就是现在大家同意的江泽民同志。开宗明义，就是新的常委会从开始工作的第一天起，就要注意树立和维护这个集体和这个集体中的核心。</p>
+<p>此后，在官方表述里，都是“以江泽民同志为核心的党中央”；但十六大后，则是“以胡锦涛同志为总书记的党中央”；十八大后，沿用之前的表述，为“以习近平为总书记的党中央”。2016年1月，“习近平核心”这个提法开始密集见诸于地方党报。</p>
+<p>读报君注意到，这个提法，是在地方党委学习传达“习近平在中央政治局‘三严三实’专题民主生活会上的重要讲话”的会议上，作出的表态，同时出现的还有<strong>政治意识、大局意识、核心意识、看齐意识。</strong></p>
+<p>2015年12月28日至29日，中共中央政治局召开专题民主生活会，习近平就中央政治局当好“三严三实”表率提出4点要求，其中第二点要求是——</p>
+<p>自觉把“三严三实”要求体现到落实党中央重大决策部署上。中央政治局的同志必须有很强的<strong>看齐意识</strong>，经常、主动向党中央看齐，向党的理论和路线方针政策看齐。</p>
+<p>12月30日，《人民日报》在头版发表评论员文章《全党要向中央看齐》，提出向中央看齐，就要做政治上的明白人，就要做落实的带头人。</p>
+<p>1月7日，中共中央政治局常务委员会全天召开会议，听取全国人大常委会、国务院、全国政协、最高人民法院、最高人民检察院党组工作汇报，听取中央书记处工作报告。这个会上提出：</p>
+<p><strong>党政军民学，东西南北中，党是领导一切的。</strong>要通过深入学习贯彻党章和《中国共产党党组工作条例(试行)》，增强<strong>政治意识、大局意识、责任意识</strong>，不断加强和改善党的领导，更好发挥党总揽全局、协调各方的领导核心作用，确保党始终成为中国特色社会主义事业的坚强领导核心。</p>
+<p>此次会议上提出了“政治意识、大局意识、责任意识”。</p>
+<p>1月29日，中共中央政治局召开会议，审议《中央政治局常委会听取和研究全国人大常委会、国务院、全国政协、最高人民法院、最高人民检察院党组工作汇报和中央书记处工作报告的综合情况报告》。</p>
+<p>这次会议，重提了“看齐意识”、“政治意识、大局意识”，同时新提出了“核心意识”：</p>
+<p>中国共产党领导是中国特色社会主义制度的最大优势，加强党的领导关键是坚持党中央集中统一领导。只有增强<strong>政治意识、大局意识、核心意识、看齐意识</strong>，自觉在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致，才能使我们党更加团结统一、坚强有力，始终成为中国特色社会主义事业的坚强领导核心。</p>
+<p>这是政治局会议，首次提出“政治意识、大局意识、核心意识、看齐意识”，对四大意识的具体内涵，1月11日上午的四川省委常委会有清晰的解读：</p>
+<p>增强政治意识，就是要始终严守党的政治纪律和政治规矩，始终在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致，任何情况下都绝对忠诚于党、绝对忠诚于人民、绝对忠诚于党和人民的事业。</p>
+<p>增强大局意识，就是要服从服务全党全国工作大局，始终把四川的工作同中央的决策部署衔接起来、统一起来，自觉从大局出发，坚决落实“四个全面”战略布局、认真贯彻“五大发展理念”，扎实做好决胜全面小康、建设经济强省各项工作，奋力谱写中国梦四川篇章。</p>
+<p><strong>增强核心意识，就是要把维护党中央权威、坚持党的集中统一作为基本的政治纪律和政治规矩，坚决维护习近平总书记这个核心。</strong></p>
+<p>增强看齐意识，就是要在政治定力、担当精神、工作方法、敬业精神、清正廉洁上向党中央看齐、向习近平总书记看齐，做到集干净与干事于一身、勤政与廉政为一体，始终保持共产党人的浩然正气。</p>
+<p>注意，增强核心意识，就是要……坚决维护习近平总书记这个核心。而“看齐意识”如何看齐？广西自治区常委扩大会议1月13日从四个方面提出要求：</p>
+<p><strong>在政治上强化看齐意识</strong>，认真汲取周永康、薄熙来、徐才厚、郭伯雄、令计划等人的深刻教训，做政治上的明白人；</p>
+<p><strong>在工作落实上强化看齐意识</strong>，迎难而上、知难而进，用钉钉子的精神去解决问题，做想干事会干事干成事的实干家；</p>
+<p><strong>在履行主体责任和“一岗双责”上强化看齐意识</strong>，带头从全局出发想问题、作决策、办事情，把全面从严治党的要求落实到党的工作的各领域和全过程；</p>
+<p><strong>在严格自我要求上强化看齐意识</strong>，坚决克服特权思想，加强自我约束，管好亲属子女和身边工作人员，做忠诚、干净、担当的好干部。</p>
+<p>事实上，在政治局明确提出四大意识之前，2016年1月份，从中央到地方，多名重要官员都在不同场合提到这四大意识。</p>
+<p>1月8日，辽宁省委书记李希主持召开常委(扩大)会议，强调：</p>
+<p>学习贯彻习近平总书记重要讲话精神，一是要坚决在思想上政治上行动上与以习近平同志为总书记的党中央保持高度一致。严守政治纪律和政治规矩，<strong>切实增强政治意识、大局意识、核心意识、看齐意识。</strong></p>
+<p>1月13日，湖南省委书记徐守盛在《中国纪检监察报》上发表署名文章《全面从严治党向中央看齐》，说：</p>
+<p>作为一级党的组织和一名领导干部，<strong>关键是要增强政治意识、看齐意识、核心意识</strong>，向党中央看齐，向习近平总书记看齐，向党的路线方针政策看齐。</p>
+<p>1月14日，北京市委书记郭金龙要求北京市委常委会：</p>
+<p><strong>切实增强政治意识、大局意识、核心意识、看齐意识、首善意识</strong>，严守政治纪律和政治规矩，坚决落实党中央大政方针和决策部署，高水平做好北京工作，使首都功能得到充分发挥。</p>
+<p>同日，重庆市委书记孙政才表示：</p>
+<p><strong>全市各级党委和广大党员领导干部要切实增强政治意识、核心意识</strong>，做政治上的明白人，严守政治纪律和政治规矩，坚定正确政治方向，自觉在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致，坚决服从党中央集中统一领导，坚决维护中央权威，学习中央精神更深入，贯彻中央要求更全面，执行中央决定更坚决，确保中央政令畅通。中央要求的全力去做，中央禁止的坚决不做，决不允许出现与中央要求不一致的言行，决不允许有令不行、有禁不止，决不允许上有政策、下有对策。</p>
+<p>1月15日，西藏自治区党委书记陈全国主持常委(扩大)会议，会议强调：</p>
+<p><strong>增强政治意识、大局意识、核心意识、看齐意识</strong>，做到西藏距离首都北京虽远，但自治区党委、全区各级党组织、广大党员干部和各族群众的心始终与以习近平同志为总书记的党中央紧紧地贴在一起、紧紧地连在一起，在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致，对以习近平同志为总书记的党中央绝对忠诚。坚持强化“四个服从”(读报君注：“四个服从”指的是“个人服从组织，下级服从上级，少数服从多数，全党服从中央”)，坚决服从以习近平同志为总书记的党中央的集中统一领导，坚决维护以习近平同志为总书记的党中央的绝对权威。</p>
+<p>1月25日，河北省委书记赵克志指出：</p>
+<p>1月27日，中央办公厅主任栗战书在中直机关党的工作会议上强调：</p>
+<p><strong>各党组织和广大党员要增强核心意识、看齐意识</strong>，坚持把对党绝对忠诚作为根本政治要求和最重要的政治纪律，始终在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致，向党的理论和路线方针政策看齐，向党的十八大和十八届三中、四中、五中全会精神看齐，向党中央改革发展稳定、内政外交国防、治党治国治军各项决策部署看齐。</p>
+<p>1月30日，山东省委书记姜异康说：</p>
+<p>全省各级必须始终坚持坚定正确的政治方向，<strong>牢固树立政治意识、大局意识、核心意识、看齐意识</strong>，始终在思想上政治上行动上与以习近平同志为总书记的党中央保持高度一致。</p>
+<p>“看齐”一词是有历史渊源的。</p>
+<p>1945年，毛泽东在中共七大预备会议上说：“要知道，一个队伍经常是不大整齐的，所以就要常常喊看齐，向左看齐，向右看齐，向中间看齐，我们要向中央基准看齐，向大会基准看齐。看齐是原则，有偏差是实际生活，<strong>有了偏差，就喊看齐。</strong>”</p>
+<p>2015年12月11日，习近平在全国党校工作会议上说，党校是教育培训干部的地方，不断把领导干部集中到党校来学习培训，一个重要目的就是<strong>帮助大家向党中央看齐</strong>。</p>
+<p>12月17日，中央党校主办的《学习时报》在头版引用了毛泽东上述言论，对“看齐”作出了权威解读：</p>
+<p>毛主席说，看齐是原则，有偏差是实际生活。这是很深刻的道理。就像军队一样，再训练有素的部队也经常要喊看齐，而且要天天喊、时时喊。当然，整队型看齐比较容易，因为那是形体上的，<strong>思想上政治上行动上看齐就不那么容易了。</strong>经常喊看齐是我们党加强自身建设的规律和经验。只有经常喊看齐，只有各级党组织都经常喊看齐，才能时刻警醒、及时纠偏，使全党始终保持整齐昂扬的奋进状态。</p>
+<p>文章说，“不断把领导干部集中到党校来学习培训，一个重要目的就是帮助大家向党中央看齐。”(1月18日上午，省部级主要领导干部学习贯彻十八届五中全会精神专题研讨班就在中央党校开班了，各省区市和新疆生产建设兵团、中央和国家机关有关部门主要负责人，解放军及武警部队有关负责人参加。)</p>
+<p>既然要帮助看齐，说明实际生活有偏差，有什么样的偏差呢？《中国纪检监察报》最近的系列文章提到：</p>
+<p>从中央巡视组发现的普遍问题看，党组织从思想认识到实际行动，与党中央的要求、总书记讲话精神差距甚大。(1月25日《中国纪检监察报》)</p>
+<p>具体表现为：</p>
+<p>当前，依然有一些地方、部门和央企、金融机构党组织，只是把落实党的十八大和十八届历次中央全会精神写在纸上，把贯彻习近平总书记系列重要讲话精神挂在嘴上，没有真正把自己摆进去，结合本单位实际，认真贯彻落实，切实负起责任。(1月10日《中国纪检监察报》)</p>
+<p>有的党组织没有认真学习领会党的十八大和十八届三中、四中、五中全会精神，习近平总书记系列重要讲话精神。(1月17日《中国纪检监察报》)</p>
+<p>不少中管党组织的负责人还是中央委员、中央候补委员。中央的所有重要会议他们都要出席或列席，经常在现场聆听总书记的讲话。但是回去传达贯彻的时候，往往是念一遍、表个态就完事了，没能真正见诸行动。(1月25日《中国纪检监察报》)</p>
+<p>对于上述情况：</p>
+<p>中央巡视组要善于把握细节，每到一个地方，都要查阅党委党组会议记录、党的群众路线教育实践活动整改总结、“三严三实”专题教育情况报告，看看对总书记系列重要讲话是怎么传达贯彻的，整改的要求是不是每一条都做到了还是说一套做一套。</p>
+<p><strong>要紧盯党委书记这个“关键少数”</strong>，看看他们党组织的领导核心和战斗堡垒作用发挥没发挥，是不是坚决贯彻总书记讲话精神。</p>
+<p>1月17日《聚焦坚持党的领导》文章说：</p>
+<p>实现“五位一体”总体布局、协调推进“四个全面”战略布局，依法治国、依规治党、从严治党，都是十八届中央的决策部署，<strong>哪个党组织、哪个党委党组书记都不能置之不问、当成耳旁风。</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%BD%A0%E5%A5%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%A0%B8%E5%BF%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C/?category=18271" rel="tag">，</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">中共核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">总书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">领导核心</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E4%BA%AC%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%91%BC%E6%A0%BC%E6%A1%88%E5%A4%84%E5%88%8627%E4%BA%BA%E5%A4%9A%E4%B8%BA%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/" target="cdt-mirror">北京青年报 | 呼格案处分27人多为党内警告</a>
 </h2>
 <p><div>
@@ -50,7 +157,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内警告处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E5%81%87%E9%94%99%E6%A1%88/?category=18271" rel="tag">冤假错案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE/?category=18271" rel="tag">呼格吉勒图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%88%91/?category=18271" rel="tag">死刑</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%9B%B6%E5%A4%A9%E7%9F%A5%E9%81%93-%E8%B4%BA%E5%8D%AB%E6%96%B9%EF%BC%9A%E6%88%91%E6%B7%B1%E5%9C%B3%E7%9A%84%E4%B8%80%E4%BD%8D%E5%BE%8B%E5%B8%88%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%AE%B6%E4%BA%86/" target="cdt-mirror">零天知道 | 贺卫方：我深圳的一位律师朋友出家了</a>
 </h2>
@@ -87,7 +194,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">良心律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%83%A0%E5%BF%A0%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">陈惠忠律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%8F%B0%E5%8C%97%E5%8D%81%E8%AE%B0/" target="cdt-mirror">微思客 | 台北十记</a>
 </h2>
@@ -715,111 +822,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%B2%81%E8%BF%85%E5%A6%82%E6%9E%9C%E7%94%9F%E5%9C%A8%E7%8E%B0%E5%9C%A8%EF%BC%8C%E5%B0%86%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84/" target="cdt-mirror">墙外楼｜鲁迅如果生在现在，将是这样的</a>
-</h2>
-<p><p>民国时期的鲁迅，是这样的，受人尊敬，不愁吃喝，而且还能看电影，旅游写字。而且闲下来还能批判政府。</p>
-<p>可是，鲁迅如果生在现在，将是这样的。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/wp-1454119257363.jpg" alt="wp-1454119257363" width="505" height="384" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/wp-1454119257363-300x228.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/wp-1454119257363.jpg 500w" sizes="(max-width: 505px) 100vw, 505px"></p>
-<p>犯罪嫌疑人周树人，化名鲁迅，寻衅滋事！【调查显示刘和珍被击毙依规合法，鲁迅涉嫌造谣】</p>
-<p>1926年3月18日，军警人员在处置一起暴力袭击党和国家最高权力机关的非法集会中，果断开枪，击毙了为首闹事的刘和珍等人。事发后，有关部门立即封存了现场监控资料，走访了大量的目击证人，现已还原了事件真相。</p>
-<p>刘和珍早年就读南昌女子师范学校，因不守校规校纪且有伤风化，曾受到记大过的处分，后被勒令退学。考入北京女子师范大学之后，不思悔改，多次聚众闹事，蛊惑煽动不明真相的师生冲击学校以及党政机关，公然侮辱他人，严重干扰了单位秩序，屡次受到训诫和警告等处理。特别值得一提的是，时任校长杨荫榆是中国历史上第一位杰出的女性大学校长，却屡屡受到刘和珍等人的围攻和诋毁，大肆污蔑，以致被含冤免职，遭日寇枪杀。</p>
-<p>当天下午1点左右，刘和珍等人鼓动数千学生冲击国务院，企图要挟党和政府满足其无理要求，在铁狮子胡同被军警阻拦。刘和珍等人情绪激动，不听劝阻，现场一度十分混乱，甚至有人公然袭警，扬言夺枪。此前刘和珍也曾狂妄叫嚣：“外抗强权，内除国贼，非有枪不可！”为了避免事态恶化，负责现场处置的军警人员根据枪支使用的相关规定，多次警告无效后果断开枪，当场击毙刘和珍等数名为首的激进分子，局面才得以控制。</p>
-<p>调查组通过大量的人证物证，并反复观看和分析了现场的收集到的资料，确认军警人员开枪依规合法。</p>
-<p>另据报道，化名鲁迅的北大教师周树人，本人并没有亲临现场，也未经调查核实，却以《纪念刘和珍君》为题发帖，对党和政府恶意中伤，造谣污蔑，导致国人误以为是政府下令开枪。国务院总理段祺瑞号称“六不总理”，即不抽不喝不赌不嫖不贪不占，廉明公正，生活简朴，一世英名却因此而毁于一旦。周树人的谣言涉嫌山巅寻性，公然侮辱他人，且导致党和政府的形象严重受损，我执法部门已经接到热心群众举报，将另案处理。<img src="http://chinadigitaltimes.net/chinese/files/2016/01/0981grey.gif" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E9%B2%81%E8%BF%85%E5%A6%82%E6%9E%9C%E7%94%9F%E5%9C%A8%E7%8E%B0%E5%9C%A8%EF%BC%8C%E5%B0%86%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%92%8C%E7%8F%8D/?category=18271" rel="tag">刘和珍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%A6%E5%A8%81%E5%AE%98%E5%91%98%E5%A4%A7%E5%8F%91%E6%AD%A6%E5%A8%81%EF%BC%8C%E8%AF%B7%E8%AE%B0%E4%BD%8F28%E5%B9%B4%E5%89%8D%E8%BF%99%E4%B8%89%E4%BD%8D%E8%AE%B0%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/" target="cdt-mirror">呦呦鹿鸣｜武威官员大发武威，请记住28年前这三位记者的名字</a>
-</h2>
-<p><p>先说是嫖娼<br>
-然后说是“敲诈政府”<br>
-甘肃武威警方抓捕了三名记者。</p>
-<p>昨天，一封信件透露<br>
-被抓记者被抓前不止一次感叹：</p>
-<blockquote><p><strong>被“武威公安盯上了”</strong><br><strong>“宣传部门恨不得把我赶出武威”</strong></p></blockquote>
-<p>没有人对这封信件公开负责<br>
-但我们可以从其他地方看到类似的表达</p>
-<p>比如<br>
-柴静在《看见》中记载说<br>
-她以央视记者身份去武威时</p>
-<blockquote><p><strong>“我们刚坐下，大门咣一响，</strong><br><strong>来了五六个当地大汉，</strong><br><strong>不说是谁，要赶我们走。”</strong></p></blockquote>
-<p>比如<br>
-《长江商报》记者熊子熙回忆说<br>
-2015年初新华社报道荣华工贸向腾格里沙漠排污后<br>
-他跟着报道线索前往武威</p>
-<p>被限制人身自由6小时<br>
-被迫删除所有手机、相机资料<br>
-宣传部长<strong>现场撕掉采访笔录</strong></p>
-<p>并勒令警察：</p>
-<blockquote><p><strong>“把这人送上高速，武威不欢迎他。”</strong></p></blockquote>
-<p>金张掖，银武威。<br>
-果然是凛凛武功！</p>
-<p>武威这块地方，对正常新闻的压制是有“传统”的<br>
-在1988年4月1日的《中国青年报》头版上<br>
-鹿鸣君找到这样一篇报道</p>
-<p><strong>《武威地市领导压制新闻批评大发武威</strong><strong>》</strong></p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%811.jpg" rel="attachment wp-att-426904"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%811.jpg" alt="武威1" width="450" height="633" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威1-213x300.jpg 213w, http://chinadigitaltimes.net/chinese/files/2016/01/武威1.jpg 450w" sizes="(max-width: 450px) 100vw, 450px"></a></strong><br>
-▲在左下角</p>
-<blockquote><p><strong>武威地市领导压制新闻批评大发武威</strong></p>
-<p>《武威报》发表人民代表的心里话惹怒了地方官员<br>
-地委决定收回重印并要求人民自行销毁前期报纸</p>
-<p><strong>本报讯 （马季元、孙凯记者马应珊报道）</strong> 3月17日，甘肃省武威市爆出《武威报》记者手持地委宣传部的介绍信沿街收缴报纸的新闻。该报前一天发了篇《人民代表的心里话》，从而惹出了麻烦。</p>
-<p>《人民代表的心里话》（见本报今日一版）是武威市部分人民代表在一次座谈会上的发言纪要。代表们在发言中反映了基层的一些问题，就政府工作和干部作风提了些批评意见，结果引起部分地、市领导人的强烈不满。</p>
-<p>3月7日，武威市一届人大五次会议闭幕前一天，武威地区行署专员魏万进和副专员刘生荣召集14名基层人民代表座谈。两位专员开宗明义地说：“今天请大家来，谈谈想法，看法，谈谈大家最关心的问题，讲实际话，心里话。”“不要大家讲‘好’要多提意见，发牢骚。对省、地、市人民政府的方针政策、办法措施、干部的工作作风，都可以提，横挑鼻子竖挑眼。”于是，代表们纷纷就农业生产、水利设施、粮食定购、农用物资、物价、教育、市政建设、干部作风等问题，反映了基层的情况，提出了批评意见。</p>
-<p>《武威报》记者就此整理出一篇座谈纪要（据说为了使“读者”能够接受，还删去了一些“有棱角的话”)，经有关部门负责人阅后见报。</p>
-<p><strong>看了《人民代表的心里话》，武威市市长柳宏克大为恼火</strong>，当即打电话给地委书记杨作林，说：“我是省上、地委派来的，不是自己要来的，如果不行我可以走嘛！”杨作林书记与其他几位地委领导就这篇座谈纪要提出了六条看法和五条建议，认为“报社处理方式不对”,“内容问题很多，涉及了许多敏感问题，如粮食订购合同、价格等”,“对领导作风的指责不准确、打击面太大” 等等。地委决定：扣发尚未发出的报纸，已发出的全部收回。</p>
-<p><strong>第二天，报社奉命派出8名记者，两人一组，沿武威市东西南北四条大街挨门收报。所到之处，听到的尽是责骂之声。</strong>许多群众说：你们说清楚，这张报错在哪里？说出了，就拿走。参加收报的一位记者说：“我跑了一整天，去了几十个单位，接触了上百人，都说这篇报道说的是实话，是人民的心里话。”8名记者奔波一天，只收回了110份报纸。事后，武威市满城风雨，人们争相传阅未被收走的报纸，纷纷给报社打电话、写信表示强烈不满。</p>
-<p>3月19日，订户们收到重印的16日报纸，一条一般性的会议消息代替了原来的座谈纪要，上面还刊出一条启事，<strong>要求读者“自行销毁前一张报纸”</strong>。</p></blockquote>
-<p><strong>  </strong></p>
-<p><strong>让我们记住中国青年报这篇报道三位记者的名字</strong></p>
-<p><strong>他们是</strong></p>
-<blockquote><p><strong>——</strong></p>
-<p><strong>马季元、孙凯、马应珊</strong></p>
-<p><strong>——</strong></p></blockquote>
-<p><strong>他们为什么这么重要？</strong><br><strong>因为</strong><strong>并不是只有他们有机会做这个报道</strong></p>
-<p>据1989年8月的期刊《新闻研究资料》中《武威收报事件始末》记载，当时，甘肃日报、新华社甘肃分社也都了解这一线索。新华社甘肃分社的记者采访后，将报道发到总社，值班编辑不同意发稿，还同甘肃分社负责人争执起来，<strong>认为：</strong></p>
-<blockquote><p><strong>“地委有权收报纸”。</strong></p></blockquote>
-<p>中国青年报的报道引起时任甘肃省委书记的李子奇重视，1988年4月4日下午，甘肃省委召开书记办公会议，讨论收报事件。会上，武威地委书记杨作林汇报并检讨。省顾委、省人大、省纪委的负责人黄络斌、许飞青、王占昌、吴坚先后发言，</p>
-<blockquote><p><strong>批评了杨作林等的错误，</strong><br><strong>并分析了错误产生的根源</strong>。</p></blockquote>
-<p>李子奇严肃地批评了杨作林，他说，在改革开放和加强社会主义民主和社会主义法制的今天，在全国人大会召开期间，发生这样的事件，性质是严重的，希望武威地委很好地总结经验教训。他还要求</p>
-<blockquote><p><strong>全省各级党委以此为戒。</strong></p></blockquote>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%812.jpg" rel="attachment wp-att-426903"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%812.jpg" alt="武威2" width="550" height="207"></a></strong></p>
-<p>在强大的舆论压力下，杨作林“心悦诚服”地向《中国青年报》记者表示：</p>
-<blockquote><p><strong>感谢媒体的批评，</strong><br><strong>将在《武威报》上公开发表检讨，</strong><br><strong>请省委将他的检讨转发全省，</strong><br><strong>以使更多的干部接受教训。</strong></p></blockquote>
-<p>4月7日，《中国青年报》发表《武威地委书记感谢本报批评》。最终，这组报道获得1988年全国好新闻评选一等奖。</p>
-<p>但是，快三十年过去了<br>
-看起来<br>
-武威面对新闻媒体的工作方法不仅没有好转<br><strong>反而在愚蠢的路上越走越远</strong></p>
-<p>真不知这武威官员发的是谁家的武威？<br>
-真不知这武威城到底是谁的城，<br>
-到底谁的天下？</p>
-<p>在当时的收报事件中，据甘肃记协于清潍记载，8名记者手持地委宣传部介绍信挨家挨户回收报纸，“所到之处，听到的都是一片责骂声”，“行署审计处一位负责人说：旧社会也只听说过报上开天窗的，查封报馆的，还没有听说过收报的，何况在建设民主政治的今天，</p>
-<blockquote><p><strong>你们的总编连这点常识都不懂吗？”</strong></p></blockquote>
-<p>“市政府只交回了三份报纸，市委一份也没有交回来。有人讽刺挖苦记者说：‘武威报办了三年，就出来这么一期说实话的好报，你再收掉，还办啥哩？’”</p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%813.jpg" rel="attachment wp-att-426902"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%813.jpg" alt="武威3" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威3-300x242.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/武威3.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a> </strong></p>
-<p>最后，与诸君分享泰晤士报记者莫理循一百年前拍摄的几张凉州照片。凉州即在今天武威境内，这次抓捕记者的，即为凉州区。</p>
-<p>也许<br>
-我们要在一百年前的照片中<br>
-重新整理一下世界观、人生观</p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%814.jpg" rel="attachment wp-att-426909"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%814.jpg" alt="武威4" width="450" height="332" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威4-300x221.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/武威4.jpg 640w" sizes="(max-width: 450px) 100vw, 450px"></a></strong><br><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%815.jpg" rel="attachment wp-att-426908"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%815.jpg" alt="武威5" width="400" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威5-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/01/武威5.jpg 560w" sizes="(max-width: 400px) 100vw, 400px"></a></strong><br><strong><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%816.jpg" rel="attachment wp-att-426907"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%816.jpg" alt="武威6" width="400" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威6-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/01/武威6.jpg 560w" sizes="(max-width: 400px) 100vw, 400px"></a></strong></p>
-<p><strong>所以，今天的呦呦鹿鸣荐书是：</strong><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%817.jpg" rel="attachment wp-att-426906"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E6%AD%A6%E5%A8%817.jpg" alt="武威7" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/武威7-220x300.jpg 220w, http://chinadigitaltimes.net/chinese/files/2016/01/武威7.jpg 586w" sizes="(max-width: 586px) 100vw, 586px"></a><br>
-你眼里的中国，是怎样的？</p>
-<p><em><strong>来自微信公号： 呦呦鹿鸣</strong></em><br><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3.jpg" rel="attachment wp-att-426905"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E5%91%A6%E5%91%A6%E9%B9%BF%E9%B8%A3.jpg" alt="呦呦鹿鸣" width="250" height="250" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/01/呦呦鹿鸣.jpg 258w" sizes="(max-width: 250px) 100vw, 250px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%A6%E5%A8%81%E5%AE%98%E5%91%98%E5%A4%A7%E5%8F%91%E6%AD%A6%E5%A8%81%EF%BC%8C%E8%AF%B7%E8%AE%B0%E4%BD%8F28%E5%B9%B4%E5%89%8D%E8%BF%99%E4%B8%89%E4%BD%8D%E8%AE%B0%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%A8%81%E4%B8%89%E8%AE%B0%E8%80%85%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">武威三记者被捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -831,7 +833,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -841,5 +843,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

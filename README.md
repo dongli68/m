@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,154 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE%E5%86%A4%E6%A1%88%EF%BC%9A%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%84%E5%88%8627%E4%BA%BA%E3%80%80%E7%88%B6%E6%AF%8D%E5%A4%B1%E6%9C%9B/" target="cdt-mirror">BBC | 呼格吉勒图冤案：内蒙古处分27人　父母失望</a>
+</h2>
+<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/150209091644_cn_huugjilt_grave_976x549_xinhua.jpg" alt="中国媒体称呼格吉勒图案是“全国首例公开宣告纠正已执行死刑的错案”。" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/150209091644_cn_huugjilt_grave_976x549_xinhua-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/150209091644_cn_huugjilt_grave_976x549_xinhua.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>中国媒体称呼格吉勒图案是“全国首例公开宣告纠正已执行死刑的错案”。</p></div>
+<p><strong>中国内蒙古自治区当局公布对呼格吉勒图冤案办案人员的处理结果，27名办案人员绝大多数被中共党内警告、严重警告与行政记过、记大过处分。</strong></p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E4%BA%AC%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%91%BC%E6%A0%BC%E6%A1%88%E5%A4%84%E5%88%8627%E4%BA%BA%E5%A4%9A%E4%B8%BA%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/" target="_blank">北京青年报 | 呼格案处分27人多为党内警告</a></p>
+<p>官方新华社报道，被处分的包括时任呼和浩特市公安局局王智等11名警方人员，呼和浩特市检察院检察长文达等七名检察人员，以及内蒙古自治区高级法院刑一庭庭长梁国裕和呼和浩特市中级法院院长张凤仪等八名法院人员。</p>
+<p>另外，时任呼和浩特市新城区公安分局副局长冯志明因涉嫌职务犯罪，被另案处理。消息人士去年4月对BBC中文网表示冯志明已被“双开”，但中共呼和浩特市纪委其后透过新华社否认。</p>
+<p>呼格吉勒图父母李三仁、尚爱云星期一（2月1日）在社交媒体上表示，这个处理结果让他们“彻底失望”。</p>
+<p>家属们透过新浪微博认证账户“呼格吉勒图父母”发帖说：“今天，对造成呼格冤案的27人追责进行了公布。我们真沒想到会是这样一个追责结果。这就是对社会一个交待吗？在依法治国的今天。人命关天就一个处分而已。根本没有起到任何警示作用。处分太轻，责任不明，轻描淡写。这就是追责到底？”</p>
+<p>尚爱云其后对《北京青年报》说，得知消息时，自己气得浑身发抖，接受不了。</p>
+<p>尚爱云说：“我们从始至终并非想要追责所有的办案人员，只是希望起码能对那些主办人员比如那些对呼格严刑逼供的人、造假的人，有个明确的法律责任认定。”</p>
+<p>“我真的担心，这种浮皮潦草的追责，能让当年那些办案人员认识到错误吗？连责任都没追究到位，以后他们能尽力去办好案吗？”</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/141231061234_cn_hohhot_huugjilt_parents_976x549_xinhua.jpg" alt="呼格吉勒图案平反后，父母李三仁、尚爱云获内蒙古高院支付国家赔偿200余万元人民币。" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/141231061234_cn_hohhot_huugjilt_parents_976x549_xinhua-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/141231061234_cn_hohhot_huugjilt_parents_976x549_xinhua.jpg 624w" sizes="(max-width: 550px) 100vw, 550px"><p>呼格吉勒图案平反后，父母李三仁、尚爱云获内蒙古高院支付国家赔偿200余万元人民币。</p></div>
+<p><strong>各方讶异</strong></p>
+<p>呼格案处理结果公布后，社交媒体上几乎一面倒的质疑当局的决定。</p>
+<p>美国民间组织人权观察的中国部研究员王松莲在Twitter上形容这是“中国特色的追责”。她说：“对一个18岁的青年施以酷刑后枉法冤判后处死，只换来个内部处分！”</p>
+<p>北京知名律师陈有西也在新浪微博上说：“冤案反座，真不如封建法。这种轻打轻拍，不如不追究。刑讯逼供和玩忽职守今后会更烈、更肆无忌惮。”</p>
+<p>江苏苏州大学法学院教授周永坤质问：“有没有刑讯逼供？如果有，如此严重的犯罪行为怎么没有一人坐牢？这就是在冤主多年追责下才有的结果！”</p>
+<p>其他网民也表达了对处理结果的不满和对呼格吉勒图家属的同情。辽宁网民“永远的阳光小屋”说：“一起感受下，当年呼格吉勒图被押复刑场执行枪决时的心理感受，他对这个世界能想说些啥？又能说些啥？”</p>
+<p>吉林长春网民“蒲公英”问：“说好的‘玩忽职守’罪呢？一伙公职人员合谋害死无辜的平民百姓，最后开个茶话会，互相党内警告就过关了？公家的凳子还照坐不误？说什么好呢？说‘呵呵’吧。”</p>
+<p>事发于1996年，呼和浩特18岁纺织工人呼格吉勒图被认定为一起奸杀案凶手，法院在案发后61天内完成一审和终审，并对呼格吉勒图执行死刑。</p>
+<p>2005年，赵志红因多起强奸杀人案落网，其后并坚称自己是“呼格案”真凶。呼和浩特中院于2006年11月对赵志红系列案件开庭一审，但赵志雄招认了10起案件，公诉机关却只起诉九起，唯独漏掉了“4·9”女尸案，此举遭到了被告人本人质疑。</p>
+<p>自此，赵志红案一直休庭，期间媒体争议不断。而呼格吉勒图父母李三仁夫妇则多次上访，要求为儿子翻案重审。</p>
+<p>最终，内蒙古高级法院2014年11月宣布重审，12月中裁定呼格吉勒图无罪，并向赵志红追加起诉“4·9”女尸案的故意杀人罪和强奸罪。</p>
+<p>呼和浩特中院去年2月9日裁定赵志红故意杀人、强奸、抢劫、盗窃罪成立。赵志红不服上诉，内蒙古高级法院于4月30日驳回上诉，维持死刑判决。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE%E5%86%A4%E6%A1%88%EF%BC%9A%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%84%E5%88%8627%E4%BA%BA%E3%80%80%E7%88%B6%E6%AF%8D%E5%A4%B1%E6%9C%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内警告处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E5%81%87%E9%94%99%E6%A1%88/?category=18271" rel="tag">冤假错案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE/?category=18271" rel="tag">呼格吉勒图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%88%91/?category=18271" rel="tag">死刑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9A%E9%98%BF%E7%8E%9B%E5%B0%BC%E5%B0%91%E5%B9%B4/" target="cdt-mirror">墙外楼 | 共产主义接班人：阿玛尼少年</a>
+</h2>
+<p><p>@remonwangxt：一位身著阿瑪尼的十三歲少年列席深圳兩會，接受採訪時他說“不要讓一張考卷決定我們的未來”，當然，在趙國，大多數少年先鋒隊隊員的未來是從受精卵那一刻就已經決定了的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUMAEIUpN.jpg" alt="CaBC9GxUMAEIUpN" width="500" height="889"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUAAEzjTz.jpg" alt="CaBC9GxUAAEzjTz" width="600" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUAAEzjTz-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUAAEzjTz.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GzUUAAa_vo.jpg" alt="CaBC9GzUUAAa_vo" width="600" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GzUUAAa_vo-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GzUUAAa_vo.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9IyUEAARbs5.jpg" alt="CaBC9IyUEAARbs5" width="500" height="445" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9IyUEAARbs5-300x267.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9IyUEAARbs5.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>【列席政协会议13岁初中生母亲回应名牌西服】西装是参加音乐会时，主办方送的演出服装。在路上才发现，这件衣服是某品牌的，本想到会场里再想办法解决。没想到，我们刚到会场门口，媒体就开始对着柳博拍照。然而，網友發現了更多阿瑪尼……</p>
+<p>哈哈，為阿瑪尼代言的少年，他只穿這個牌子，肯定是贊助商幹的。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUEAEFAIk.jpg" alt="CaDjy4dUEAEFAIk" width="600" height="901" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUEAEFAIk-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUEAEFAIk.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUkAEb7Li.jpg" alt="CaDjy4dUkAEb7Li" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUkAEb7Li-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUkAEb7Li.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4jUAAA59z5.jpg" alt="CaDjy4jUAAA59z5" width="600" height="472" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4jUAAA59z5-300x236.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4jUAAA59z5.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy6XUMAA6gd7.jpg" alt="CaDjy6XUMAA6gd7" width="600" height="800" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy6XUMAA6gd7-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy6XUMAA6gd7.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaERE0RUUAAG09a.jpg" alt="CaERE0RUUAAG09a" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaERE0RUUAAG09a-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaERE0RUUAAG09a.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREkbUMAAazt0.jpg" alt="CaEREkbUMAAazt0" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREkbUMAAazt0-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREkbUMAAazt0.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO.jpg" alt="CaEREqNUAAI89YO" width="600" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaERESoUMAAmRMi.jpg" alt="CaERESoUMAAmRMi" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaERESoUMAAmRMi-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaERESoUMAAmRMi.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p>有人问参与深圳“两会”的孩子如果不是穿阿玛尼，而是穷人的孩子，是否会被诟病？我想如果是穷人的孩子上“两会”或许不被攻击，但也不合适，第一他们是否有能力参与政治讨论？第二是程序问题，谁可以参与，参与者如何产生？如果这些不透明，一样是有大问题的。</p>
+<p>少年穿了阿玛尼，没有人讨论他的提案。有怎么样的生活水平就过怎么样的生活，阿玛尼，谁穿不起了。可是少年啊，考卷应该已经是很公平的了，不用考卷，你让农村的孩子学艺术还是上补习班参加竞赛和城里人拼吗？</p>
+<p>小小年纪就敢收这么贵的礼（他妈说西服是主办方送的），等你真当了接班人胃口得多大啊十个康师傅都不够啊。另外，叫博的都很出众，前有五道杠黄艺博，后有阿玛尼。</p>
+<p>看了深圳阿玛尼少年风波及其母对媒体采访的答复，再次感到，有些高收入者还是不要太热衷政治，免得害自己。清楚自己的长处，发挥自己的长处，避开短处，比什么都好。巴列维时期伊朗城市中产阶层想要更多，最后得到了什么？</p>
+<p>在社会矛盾很激烈的当下，有钱人家的孩子偷着乐就行了，冒充共产主义接班人抛头露面就是自找民愤了。深圳阿妈妮少年的父母很是不智。</p>
+<p>未来的养鹅人，十三岁就穿阿玛尼西服的小公仆好顶赞。</p>
+<p>这算七道杠？</p>
+<blockquote><p>14岁少年列席政协会议 身穿阿玛尼惹争议</p>
+<p>对话</p>
+<p>柳博妈妈：阿玛尼是别人送的演出服</p>
+<p>北青报：柳博什么时候接到列席政协会议的通知？</p>
+<p>毕女士：今年1月18日左右接到的通知。当时我看到邮箱里有一份列席两会的青年代表信息表，还不知道是怎么回事，然后就打电话给表格上的联系人，对方说是让柳博列席今年的深圳市两会。我当时还挺惊讶的，因为在印象里，没有听说过让小孩能列席两会的，后来深圳团市委的人说，柳博是这10个青少年代表中，唯一一个学生代表。</p>
+<p>北青报：“不要让考卷决定未来”的建议柳博是如何提出的？</p>
+<p>毕女士：这个建议是1月27日，柳博在深圳市两会召开前的一个座谈会上提出的。他现在快上初三了，平时考试压力很大，虽然成绩不错，但也会经常跟我说，感觉一次考不好，自己的形象就会受到影响。他认为这种情况要改变，不能让考试来决定一个人的好坏。</p>
+<p>柳博从小参与了很多活动，比如演出、主持、做义工等等。他跟我说，在这些活动中能学到很多，但是现在学习任务紧，学校对成绩特别在意。柳博觉得一个人的综合能力也很重要，不能说考试考得好就是最好的，所以就提出了这个建议。</p>
+<p>北青报：年龄小，能听得懂会议内容吗？</p>
+<p>毕女士：他完全听得懂。柳博在列席这次政协会议以前，参加过中国少年先锋队第七次代表大会，也在其他的一些会议中担任学生代表，他经常接触这些会议，而且平时也跟大人谈社会问题，有自己的思想。在这次政协会议上，有记者在一边给他拍照的时候他都低着头，我就问他为什么，他说他在看会议发的材料，没时间管别的。</p>
+<p>北青报：柳博有说列席这次政协会议的收获吗？</p>
+<p>毕女士：他回来说，这次列席政协会议跟以往参加的会议区别很大。他说以前的会议都是跟青少年儿童有关的，但这个会议讲的是社会现象和社会建设方面的问题，像一些关于污染、汽车尾气、城市建设的议题。他说妈妈，我平时去玩也没看到有这么多问题啊，现在委员一说，我一想还真对，不去治理，深圳以后不会这么好了。</p>
+<p>北青报：柳博参加会议时穿的是知名品牌的西装，这是特地准备的吗？</p>
+<p>毕女士：这是一个疏忽。柳博身上穿的这套西装是去年在北京参加一个音乐会时，主办方送给他的一套演出服。会议开始前，柳博刚从一个训练营赶回来，校服和平时穿的衣服都不在家里，然后刚好找到了这套西装，一穿还挺合适的，所以就这样出门去参加会议了。</p>
+<p>在路上我才发现，这件衣服是阿玛尼的，在胸前还有标志，可是怎么抠都抠不下来，想着到会场里再想办法解决。没想到，我们刚到会场门口，媒体就开始对着柳博拍照。我注意到有网友在说这个了，这个事确实是个失误。</p>
+<p>北青报：作为家长，你怎么看待孩子这么早就接触大型会议？</p>
+<p>毕女士：首先能让参加会议，是一个很好的改革举措。作为一个初中生，他已经有自己的想法了，他知道社会上属于自己的责任和担当，知道未来会面对什么。</p></blockquote>
+<p><strong>网友评论：</strong></p>
+<ul><li>太爷在中央， 老爷在省委， 少爷在市委， 三代同朝吊炸天。</li>
+<li>这位小爷可是童星来的，我很喜欢他的贺年歌曲mv，说错，是我儿子喜欢。</li>
+<li>真无法理解吊打一个13岁小孩子的行为，他的言论和他的装扮相比，拍着良心说哪个更让网民嫌恶？13岁小孩子讨厌考卷，也许真的就是因为学习枯燥乏味，我小时候也这样认为啊。“素质教育”的推动者们当然是存着阶级固化的坏心，但并不意味着轮一个穿了也并没贵上天际的阿玛尼童装有什么正义可言。</li>
+<li>穿阿玛尼列席深圳“两会”的13岁少年说“不要让一张考卷决定未来、决定一生。现在最迫切的难道不应该是教育资源的分配相对公平问题吗？对师资力量都充裕的大城市，所谓的素质教育确实在一步步加大力度，但是二三线城市，农村呢？</li>
+<li>
+<li>官方已经定性少年穿阿玛尼是不小心没注意穿上的。</li>
+<li>好阔气的主办方，演出服送阿玛尼。。呵呵厚</li>
+<li>“去年在北京参加一个音乐会时，主办方送给他的一套演出服” 故事会不会太曲折？</li>
+<li>呵呵，越描越黑。</li>
+<li>你们都理解错了，她是在为自己家正名。网上最近流传几种说法，有说这套阿玛尼不贵的，有说参加这么大会议穷人咬咬牙也能买的，有说标志山寨的。都错了！简直是侮辱！毕女士说这是演出主办方送的，你们想想演出送演出服，还送的是阿玛尼，主办方需要什么样的底气，被送的这位小伙子又该是何等尊贵的身份，毕女士实际上是隐晦的暗示你们讨论火热的高档衣服其实只是我们随便参加演出别人送的一件而已。</li>
+<li>我记得蜗居里面就有这一段：我这里刚好有个房子，没人住，来钥匙给你了。</li>
+<li>我还以为在天安门旁边的厕所里捡的。</li>
+<li>这其实是说“实在抱歉穿了免费赠送的衣服出席这种正式场合，衣服上还带那么明显的logo实在是没品”的吧？</li>
+<li>微博上周末加班洗地的五毛又被赵家的扇了一巴掌。</li>
+<li>这小屁孩家里应该很有钱，或者很有权，能被人赞助160万开演唱会。</li>
+<li>从小拥有强烈的阶级意识，更能证明家庭是相当优越的。</li>
+<li>小朋友家里有钱或者有权，自然不用读书，小朋友这次最大的问题是做了份报告，要求不能以成绩来决定孩子的未来，这要是成真了，得断送多少普通家庭的孩子和贫困地区的孩子。</li>
+<li>考试制度越刻板，越公平；越灵活，越腐败。高考不管问题有多少，目前来看是这个社会不多的公平事儿。</li>
+<li>随便穿的别人送的衣服都很合身，可见送的人花了多大心思，更显尊贵。</li>
+<li>而且这件可能真是孩子衣橱里最便宜的了。</li>
+<li>别的不说，红领巾系成这个吊样子，老师都不敢放个屁的，那一定是牛后。</li>
+<li>放百度，直搜其名，亮瞎狗眼，人家是新浪大V,影视演员歌手主持人，有自己贴吧，科科学习标兵三好学生老师称宝贝海外表演人民大会堂献礼。</li>
+<li>广东省都为其定做衣服，阿玛尼算个屁，真的。</li>
+<li>另外，自孩子是老家佳木斯，从小就出名了，也不是这几天开始的，只能说父母培养得好啊。跟林妙可一个级别的，也许单纯只是童星而已。父母培养的好呗。毕竟代表全广东的佳木斯少年。母亲毕红霞。</li>
+<li>应该真的只是随手拿了一件，只是根本没便宜货，为了参加会议特别去买一件便宜的，太做作了不是么。</li>
+<li>而且以这个孩子的成长轨迹，就算买件阿玛尼送件阿玛尼，这都不奇怪，人家是混娱乐圈的，有全球粉丝超一万名。</li>
+<li>我倒觉得可能还真的是演出送的。</li>
+<li>另外，能参加这个会议也的确说明了家里条件比较好这也很正常。</li>
+<li>自身没有一定背景的能被选上去吗？想想都知道啦！</li>
+<li>就好像记者路上采访的路人其实是某领导之类的！</li>
+<li>私有財產神聖不可侵犯，但你匪不承認。而且你匪標榜無產階級，以窮為美，以土為美，少年兒童要艱苦樸素，這個趙四代哪點都不符合。對你匪不滿但無法直接攻擊的階層自然咬住不放，發洩渾身的怒火，指桑罵槐。</li>
+<li>我来洗地了，你们只是嫉妒人家有钱！穷人就喜欢仇富。</li>
+<li>这是一个体贴的主办方，一年四季都齐了。</li>
+<li>不过我觉得真越描越黑，直接说家里有钱自己买的不就好了。</li>
+<li>越描越黑，其实直接说家里有钱不就好了。有钱人这么多，穿这个衣服有什么奇怪的。</li>
+<li>是阿玛尼的代言人吗？5000一件的衬衫和1W5一件的西服当便服穿，而且品牌忠诚度很高啊，有没有他穿其他奢侈品品牌的照片？</li>
+<li>话说这小孩到底是谁？和吴应熊一个级别吗？ 我朝常委没有姓柳的吧。</li>
+<li>TG一向宣传要艰苦朴素，还选穿阿玛尼的人去参政议政。</li>
+<li>政协，还有明星商人，小孩子家里有钱，除非他家里是官员敛财，否则有什么好喷？</li>
+</ul><p> </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9A%E9%98%BF%E7%8E%9B%E5%B0%BC%E5%B0%91%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">人大代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98/?category=18271" rel="tag">官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%8D%9A/?category=18271" rel="tag">柳博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">深圳两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%8D/?category=18271" rel="tag">西服</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E7%8E%9B%E5%B0%BC/?category=18271" rel="tag">阿玛尼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%90%E6%98%95%EF%BC%9A%E5%8D%A0%E9%A2%86%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9-%E5%BE%8B%E5%B8%88%E6%96%87%E6%91%98%E5%B9%B4%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D/" target="cdt-mirror">徐昕：占领网络制低点 律师文摘年会上的讲话</a>
+</h2>
+<p><p>今年冬天有点冷，我的发言也很冷。连贺卫方教授都觉得我太悲观了，卖酒了卖酒了……</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9.jpg" alt="网络制低点" width="550" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/网络制低点-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/网络制低点.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p><strong>占领网络制低点</strong></p>
+<p><strong>徐昕</strong></p>
+<p>2016年1月23日《律师文摘》年会上的讲话</p>
+<p>通过网络实现公益法律行动的联合，是《律师文摘》国栋主编给我安排的题目。过去，我的确曾经如此倡导如此呼吁如此行动，但如今，我只能通过网络告诉大家，我还活着，我在网络还活着，我们还活着。</p>
+<p>过去，有人说互联网是上帝送给中国人最好的礼物，微博是送给法律人的最好的礼物，但如今，网络上的朋友，微博上的朋友，一个个都不见了，最开始笑蜀不见了，慕容雪村不见了，后来是李承鹏不见了，斯伟江不见了，P律师不见了，前不久袁裕来也不见了。于是，徐昕开始卖米卖油卖酒了，但没有用，最近我还是被禁言，转发键被没收了。不过，我仍然要感谢党感谢政府，因为还算幸运，网络发言平台毕竟没有被彻底消灭，在网上，我还活着。</p>
+<p>过去，我曾经有一个梦想，利用具有一定影响力的大案公益平台做更多的公益。大案咨询微信mycase已免费解答法律咨询过万，大案法律援助通过直接援助或推荐律师等方式为不少弱势人群提供法律帮助，后来大案又发起了信息公开联盟、旁听庭审促进计划、无辜者计划、法卫童年、大爱清尘法务等，在各自的领域发挥了一些作用，还尝试开展地域性联合，大案广东，大案重庆。当时我雄心勃勃，试图透过大案+模式，凝聚公益法律人群体，人人可做公益。</p>
+<p>后来，有人说联盟类似于组党，信息公开联盟不敢做了。有个机构说愿意提供经费支持，我说好啊，可没过几天，有关部门的人来找，听说某某基金会要给你100万，我只能说不敢要了，幸亏没要。旁听庭审促进计划旨在推动民众旁听庭审，使司法公开落到实处，但由于涉及现场行动，很容易被说成组织、煽动影响秩序，很快不能做了。无辜者计划推动一些冤案的申诉，效果明显，但去年年初关注上海两梅案并组建律师团后，上海有关方面透过北京有关部门发出有关指令，虽然一直坚持，但也只能低调运行了。</p>
+<p>如今，流行所谓的互联网+，而我却在做互联网-，大案子项目一个个消失了，已经减得差不多了，现在只剩下大案咨询和大案公众号（mycase）。而且，我基本没有参与，大案公众号交由中国案例法研究会主办，李轩担任主编，目前看来比较安全。</p>
+<p>刚刚茅于轼、江平先生都强调，言论自由是最重要的自由。但如今，我们不能说，不敢说，慢慢地都不会说了；而且又发展到不让别人说，家人、朋友会劝你少说、别说；进而，你原来的朋友可能会远离话多的你。前不久我邀请一个朋友开会，微信发不过去，才知道人家把我给删了。不是因为敏感，否则今天的会议我就来不了，而是因为想像的敏感；不是因为感情不深，而是恐惧实在过大。</p>
+<p>于是，人们开始赞美，大大，麻麻，诸如此类。然而，若批评有恐惧，则赞美无自由。不是你可以随便赞美的。比如，我们想为最高检就陈满案提起无罪抗诉点赞，此案是1979年以来刑诉法实施以来，最高检提起的首个无罪抗诉，在保障人权方面可圈可点，非常了不起，但南周评中国十大影响性诉讼时，有人不让赞美。也不是所有人都可以赞美，有的人在赞美，可他们觉得是在讽刺，于是出现了一个有趣的概念——“恶意转发”，明明是转发主流新闻，但他们认为你是恶意。他们需要某种指定的方式来赞美，典型如带鱼式赞美，千芳式歌颂，而且向各个领域扩散，各个角落的带鱼游出来了，争相献媚，法律界也出现了带鱼若干条。</p>
+<p>所以，今天国栋给我定的演讲题目要改，不是通过网络实现公益法律行动的联合，不能联合了，不敢联合了。我只能通过网络告诉大家，律师文摘聚会了，P律师出来了，P律师开始说话了，朱孝顶还没有进去，徐昕的微博转发键上午突然出现然后又突然消失了，徐昕卖酒了，过年了，酒打折了，我们都还活着。</p>
+<p>对于言论管制，法律在进行密切的配合:从最高法院前年迅速通过500转刑拘的司法解释，到刑法修正案九正式将寻衅滋事罪从现实扩展到网络空间，到不顾律师和社会反对规定律师扰庭罪，到保障律师权利的规定限制律师在申诉案件中阅卷。既打压言论，更针对行动，律师动打律师，访民闹抓访民，然后由央视最高法院在适当的时候出来定调。</p>
+<p>过去，我特别强调建设性；如今，不得不转向，建设不建设无所谓了，你想建设，赵家人不乐意，认为你是捣乱。还有一批人认为，就让它变糟，中国往往要走到极致才能回头。我当然不希望这样，出了问题，吃苦受罪的还是普通民众，赵家人早跑了。我们撰写《中国司法改革年度报告》进入第七年了，极为强调建设性，每年召开研讨会，可去年不让开会了，今年就不打算开了，明年及未来若干年或许还开不了。和《律师文摘》不同，国栋坚持想开，我是爱开不开，无所谓。</p>
+<p>过去几年，我年初都要提出十大法治心愿；如今，我没有提出所谓的期待，连网络发言平台随时都可能消失，还期待什么？以前的心愿中，我期待宪法第35条公民基本权利、第5条违宪必究条款十年之内实现60%，但如今，未来何时能实现，不敢预期，不想预期。美国大法官克拉克曾经说过：摧毁一个政府最好的办法就是让它不遵守自己制定的法律，特别是它自己制定的宪法。我们的宪法面临如此命运，国之不幸，民之不幸。</p>
+<p>好吧，让我们通过网络告诉大家，我们还活着；通过网络告诉大家，有人在裸奔，我们知道他们在裸奔，他们知道我们知道他们在裸奔；通过网络告诉大家，我们知道有一部宪法，人人生而平等，我们要说话、要吃饭、要安全、要免于恐惧的自由。</p>
+<p>刚刚王才亮律师说，要占领网络的制高点，而我只想说，让我们默默地占领网络制低点。制高点被他们抢走了，他们拿到制高点去翻墙到Facebook里面去炸表情包了；而制低点无可再低，无法抢走，制低点是常识是底线是良知，因而也无法删除。</p>
+<p>就让我们占领制低点吧。身处制低点，能够更好地仰望星空，人们对蔚蓝星空的热爱亘古不变，也是无法剥夺的。占领制低点，就是占领常识，坚守底线，做好自己，守望未来。谢谢大家。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%90%E6%98%95%EF%BC%9A%E5%8D%A0%E9%A2%86%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9-%E5%BE%8B%E5%B8%88%E6%96%87%E6%91%98%E5%B9%B4%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C%E6%B3%95%E5%88%B6/?category=18271" rel="tag">，法制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9%EF%BC%8C-%E5%BE%90%E6%98%95%EF%BC%8C%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">网络制低点， 徐昕，律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E9%99%A2%E9%95%BF-%E5%85%B6%E5%AE%9E%E8%8B%B9%E6%9E%9C%E5%8F%AF%E4%BB%A5%E9%87%8D%E5%90%AF/" target="cdt-mirror">【立存此照】院长 其实苹果可以重启……</a>
 </h2>
 <p><p>@Fenng：这位清华的院长让我笑半天了。</p>
@@ -748,80 +893,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%B7%A8%E9%A2%9D%E5%85%AC%E5%8F%B8%E5%80%BA%E5%8A%A1%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98/" target="cdt-mirror">自由亚洲｜中国巨额公司债务违约风险升高</a>
-</h2>
-<p><p>海外媒体近日刊登文章指，中国巨额公司债务的违约风险升高，今年煤炭等行业将有很多企业破产，导致对债券和银行贷款的违约。</p>
-<p>英国《金融时报》中文网1月29号刊登评论说，需求低迷、价格疲弱以及高杠杆削弱中国实力最强企业的活力，令中国的巨额公司债券的违约风险升至2008年金融危机以来的最高水平。数家国际金融分析机构已将更多中国公司列入评级下调观察名单。标准普尔列入评级下调观察名单的中国企业数量已占到其评级的所有中国企业的15%，是自2008年以来最高的比例，几乎是一年前8%的两倍。惠誉(Fitch)和穆迪（Moody’s）近期也把更多的中国企业列入了评级下调观察名单。</p>
-<p>文章说，中国大陆目前发行了大约15万亿美元的公司债券，相当于其国内生产总值的145%。中国政府明白，如果出现一波违约潮就会引发金融危机。得益于中国经济充足的流动性，以及官方大力阻止企业破产，以往中国的债券违约水平按国际标准来说并不高。不过，中国官员近期多次提出，将在今后3年基本解决那些占有资源，却很少甚至没有创造价值的“僵尸企业”的问题。中国国务院国有资产监督管理委员会主任张毅表示，有必要用今天的“小震”化解未来的“大震”。这类言论提升了今年债务违约案例增长将会得到中国政府默许的可能性，尤其是在金属、采矿、房地产、交通和建筑原材料等领域。这些公司中有许多已经负债累累。中国200强企业中杠杆程度最高的30家企业的债务相当于它们年收入总额的21倍。</p>
-<p>谈到中国公司的巨额债务违约风险问题，现在美国的中国学者程晓农认为：</p>
-<p>“在中国投资很多的，或者与在中国的外企关联密切的投行机构，现在他们最怕的是中国经济出大问题，那也意味着他们跟着出大问题。《金融时报》的这个分析，体现的其实是国际金融界对自己被中国金融危机拖下水的恐惧。但我想说的是，这个恐惧其实早就存在，只是他们一直当鸵鸟，不愿意面对而已。”</p>
-<p>评论说，在中国，银行对放贷日益谨慎，债券市场让境况不佳的企业得以再融资。去年12月，中国债券发行量同比增长1,695%，达2,120亿元人民币。有迹象表明，中国金融市场特有的宽容可能变得趋于严厉。中国国内评级AA的债券的平均收益率在过去几周从一年前的4%升至约4.6%，揭示人们对风险较高发行业的兴趣下降。一些观察人士表示，中国今年别无选择，只能让那些无可救药的僵尸企业破产，对债券和银行贷款违约。这些僵尸企业主要集中于煤炭行业，不仅已无力支付固定成本，也已无力支付可变成本。</p>
-<p>程晓农指出，在中国，产能过剩的“僵尸企业”无法偿还债务，同时多年来很多地方政府假借空壳公司发行大量债券融资，开发房地产。如今房地产泡沫破裂后，这些官方空壳公司的债务也难以偿还。</p>
-<p>“支撑过去这些年房地产开发的这些债完蛋的结果就是，债券卖给银行了，银行出现巨额的坏账，或者是债券最后以理财产品的形式卖给老百姓了，然后地方政府赖帐不还了，让老百姓每户几十万的资金泡汤了。无论哪一种形式，中国政府都很难承受，但是又不得不承受。”</p>
-<p>评论说，如果中国国内债券市场出现违约潮，投资者可能会加倍努力设法将资金转移到海外，加剧资本外流规模。有分析师认为，到了决定是否让国有企业或影子金融产品破产的时候，中国当局可能会“临阵退缩”，因为担心会对就业、经济活动和家庭信心产生连锁影响，这种担心不仅支撑了现有的债务架构，还鼓励了更多的借贷，以及在地方政府的默许下过剩产能的继续存在。</p>
-<p>北京《证券日报》1月29号的报道说，中国证监会当天表示，对拟实施重大资产重组的公司申请公开发行公司债券的，发行人应当结合业已公布或明确的重大资产重组方案，在募集说明书中披露该重组事项对发行人生产经营、偿债能力的影响。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%B7%A8%E9%A2%9D%E5%85%AC%E5%8F%B8%E5%80%BA%E5%8A%A1%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%88%B8/?category=18271" rel="tag">债券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%AD%90%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">影子银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%B8%BA%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C%E6%AD%A3%E5%90%8D/" target="cdt-mirror">德国之声｜长平：为非暴力不合作正名</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300.jpg" rel="attachment wp-att-426968"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300.jpg" alt="香港示威者声援唐荆陵（资料图片）" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/019012174_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a><p>香港示威者声援唐荆陵（资料图片）</p></div>
-<p>位于艾哈迈达巴德的甘地纪念馆里，四处墙上都写着甘地的名言。去年习近平访问印度时前往参观，我不知道他是否细读。我相信他对甘地的精神世界一定感到陌生。中共的历史教育，一直在论述暴力革命正当而有效。”弱者永远都不会宽容，宽容是强者的特质”之类的非暴力不合作说教，有些让人摸不着头脑。</p>
-<p>上世纪九十年代，也正是这种陌生感，让中国知识分子和中产阶级在遭遇了“六四”的残酷镇压之后，重新找到了精神的灯塔。从甘地、马丁•路德•金到图图主教，都成为媒体的明星。因为主张非暴力抗争而获得诺贝尔和平奖的达赖喇嘛，当然仍然是坏人——官方给出的理由是，他说一套做一套，乃“披着羊皮的狼”。</p>
-<p>从这个论断可以看出，官方期待的是”披着羊皮的羊”，也就是真正的顺从者。如果以这个标准来检验非暴力抗争的真实性，那是对这种抗争运动的误解和误导。在很大程度上，甘地等人在中国媒体受欢迎，正是基于这样的误解和误导。他们要的是”非暴力”，而不是它修饰的中心词”不合作”。</p>
-<p>中国的很多非暴力抗争主张者，常常谴责一些行动者过于激进。讽刺的是，甘地当年做过的很多事情，搬到当下的中国，一定会被谴责为太过激进。比如，他组织人们集体焚烧居民证，带领民众到海边自制海盐以抵制官盐，号召大家不纳税，不入公立学校，不上法庭，不入公职，不买英货等等。</p>
-<p><b>“思想即是犯罪”</b></p>
-<p>2010年“茉莉花革命”之际，美国学者吉恩•夏普（Gene Sharp）的《非暴力抗争手册》在中国网络广为流传，为非暴力不合作正了一次名。夏普在书中总结了198种非暴力抗争方式，区分“抗议与说服”、“拒绝合作”、“非暴力干预”3大类。他清楚地告诉人们，非暴力不合作运动首先不是去监督和谴责暴力，而是勇敢而智慧地行动，是一场推翻专制统治、建立民主政权的革命。</p>
-<p>夏普撕下了非暴力不合作温情默默的面纱，让人直面它的真谛。今天（1月29日），广州法院判决三名人权活动家唐荆陵、袁新亭和王清营（民间称为“广州三君 子”或“民主三剑客”）犯下煽动颠覆国家政权罪，分别判刑五年、三年零六个月和两年零六个月。据报道，法官判决的主要依据，是唐荆陵等人传播吉恩•夏普的书籍，认为书中反对社会主义，反对共产党。</p>
-<p>果然是如此荒唐的指控。这个指控在去年传出时，夏普对媒体表示，希望亲自到中国法庭说明情况。然而，我相信，如果夏普先生诚实地解释清楚他的著作，那只会加重“广州三君子”的罪行。毫无疑问，包括他的著作在内，西方大部分政治、社会、哲学和历史著作，以及无数的文学和艺术，都是在反对独裁专制，主张民主和自由。阅读和传播这些书籍是犯罪，那么正如奥威尔在《1984》中描述的那样，思想本身即是犯罪。</p>
-<p><b>真正的非暴力不合作</b></p>
-<p>“广州三君子”是非暴力不合作理念的真正践行者。十多年来，唐荆陵等人积极投身东莞劳工骚乱案、太石村罢免事件、赎回选票行动、”六四”纪念日、儿童疫苗 受害案、五千天告别专制倒计时行动、签署《零八宪章》、林昭纪念日、废除户籍隔离、普惠制基本养老金行动等政治抗争行动，多次被当局拘捕和折磨。此番判决之后，唐荆陵表示这是非法审判，放弃上诉，也是对非暴力不合作理念的彻底坚持。</p>
-<p>甘地的非暴力抗争，有源远流长的宗教精神和哲学理念支持。在黑暗的时刻，他也不止一次想过放弃。他曾感叹”当下有序的混乱比真正无序的混乱更糟糕”，号令同侪既要保持克制，又要为自由殊死决战（Do or die）。今天，中国非暴力不合作者面临的政治环境更加险恶，刘晓波、许志永、刘萍、唐荆陵、袁新亭和王清营等人的牢狱之灾早已超过甘地。</p>
-<p>无论如何，非暴力不合作在中国从误导到正名，是包括”广州三君子”在内的真正抗争者的杰出贡献。它让人想到甘地的另一句名言：”他们先是无视你，再来是嘲笑你，接着他们与你战斗，最后你赢了。”</p>
-<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%B8%BA%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C%E6%AD%A3%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E7%8A%AF/?category=18271" rel="tag">思想犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E6%96%B0%E4%BA%AD/?category=18271" rel="tag">袁新亭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%B8%8D%E5%90%88%E4%BD%9C/?category=18271" rel="tag">非暴力不合作</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89-vs-%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E6%83%85%E6%80%80-%E9%83%BD%E6%98%AF%E7%9B%B8%E4%BC%BC%E7%9A%84/" target="cdt-mirror">【立此存照】黄安 vs 芮成钢：明星爱国者的情怀 都是相似的</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%84%E5%AE%89ISIS2.png" rel="attachment wp-att-426949"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E9%BB%84%E5%AE%89ISIS2.png" alt="黄安ISIS2" width="500" height="296" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/黄安ISIS2-768x454.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/黄安ISIS2-1024x606.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/黄安ISIS2.png 2008w" sizes="(max-width: 500px) 100vw, 500px"></a></p>
-<blockquote><p><a href="http://weibo.com/u/1707905652">@文山娃</a>:明星爱国者的情怀，都是相似的。尤其在山雨欲来之际。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d.jpg" rel="attachment wp-att-426946"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d.jpg" alt="65cc9274gw1f0hdqygliaj20hs0vkq6d" width="450" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2016/01/65cc9274gw1f0hdqygliaj20hs0vkq6d.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E5%B0%8F%E5%B3%B6%E5%B6%BC%E5%A4%A9%E4%BA%AE%E5%95%A6">小島嶼天亮啦</a>:黄先牲真是高級黑,你在提醒我們曾經有位叫樊京輝的先生嗎?<img title="[挖鼻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]"></p>
-<p><a href="http://weibo.com/2281382515" target="_blank">行万里路的天使</a>：爱国者都跟恐怖分子一个德行：不与他们一个信仰就要杀杀杀<img title="[伤心]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ea/unheart.gif" alt="[伤心]"></p>
-<p>@文山娃: 哦，“失去祖国的凄惨”……是指博主没有中华民国竹联帮的保护，不敢飞桃园机场么。</p>
-<p>@京都探花: 自宫复出了</p>
-<p>@福景晓阳:黄安还能给isis送人？</p>
-<p>哈尔滨昊锋：芮城纲要在外面能和黄安同志珠联璧合，一个卖壮阳药的，一个以身实践的，共同爱好爱国声音喊的比谁都响亮。</p>
-<p>@浔阳女高音:请问黄同志，被家乡人唾弃、回家乡还要请人保护，凄不凄惨？</p>
-<p>@发布威海乳山：这家伙开始由分裂转向恐怖了</p>
-<p>@姚广孝_wayne:上个引用这段话的名人是谁大家都还记得清清楚楚，那位现在连死没死都是薛定谔状态，您也不嫌不吉利？</p>
-<p>@K-OA：黄公子你怎么跪在地上啊，快起来</p>
-<p><strong>另：</strong></p>
-<p>黄安近日<del>竟然</del>引用 Dr. Martin Luther King, Jr. 的名言来表达最近自己因遭“小人”举报而被打入冷宫的哀怨：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/01/MLK.png" rel="attachment wp-att-426945"><img src="http://chinadigitaltimes.net/chinese/files/2016/01/MLK.png" alt="MLK" width="470" height="271" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/MLK-300x173.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/MLK-768x443.png 768w, http://chinadigitaltimes.net/chinese/files/2016/01/MLK-1024x591.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/01/MLK.png 2020w" sizes="(max-width: 470px) 100vw, 470px"></a></p>
-<p>但众所周知，Dr. King 是坚持使用非暴力抗争为非裔争取基本权利的人权主义者，不是那种闹着要把对手送给暴力恐怖组织的人。他反对暴力、反对仇恨、反对以牙还牙。他生前一直坚持以下观点：</p>
-<blockquote><p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate, only love can do that.<br>
-黑暗不能驱逐黑暗，唯有光明可以；仇恨不能驱逐仇恨，唯有爱可以。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%BB%84%E5%AE%89-vs-%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A%E6%98%8E%E6%98%9F%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E6%83%85%E6%80%80-%E9%83%BD%E6%98%AF%E7%9B%B8%E4%BC%BC%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%94%9F%E6%84%8F/?category=18271" rel="tag">爱国生意</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E5%AE%89/?category=18271" rel="tag">黄安</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -833,7 +904,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -843,5 +914,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

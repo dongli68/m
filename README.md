@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E4%BA%AC%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%91%BC%E6%A0%BC%E6%A1%88%E5%A4%84%E5%88%8627%E4%BA%BA%E5%A4%9A%E4%B8%BA%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/" target="cdt-mirror">北京青年报 | 呼格案处分27人多为党内警告</a>
+</h2>
+<p><div>
+<p>昨天内蒙古自治区有关部门发布消息称，呼格吉勒图案经内蒙古自治区高级人民法院改判无罪后，有关机关和部门迅速启动追责程序，依法依规对呼格吉勒图错案负有责任的27人进行了追责。</p>
+<p><strong>公检法系统共27人被处分</strong></p>
+<p>北京青年报记者注意到，在<b>官方公布的27人追责名单中，公安系统涉及12人，除了时任呼和浩特市公安局新城区公安分局副局长冯志明因涉嫌职务犯罪，依法另案处理外，其余11人的处理结果多为党内严重警告、党内警告以及行政记大过，其中包括时任浩特市公安局局长王智。检察院系统共有7人被处分，其中包括时任呼和浩特市人民检察院检察长文达、副检察长郭利平，而法院系统则有8人被处分。</b></p>
+<p><b>2014年12月15日，内蒙古自治区高级人民法院再审宣布，呼格吉勒图无罪。此时距当事人被执行死刑已有18年。内蒙古公检法三部门随即各自成立调查组，对当年所有参加办案人员进行调查。在等待一年多之后，官方最终公布了追责结果。</b></p>
+<p><b>呼格父母一直在“追”责</b></p>
+<p>北青报记者了解到，去年1月下旬，呼格父母也向内蒙古自治区检察院递交了控告材料，控告错案背后的所有办案人员，包括专案组侦查阶段的专案组警员、出庭支持公诉的呼市检察院检察官和呼格案一审、二审的所有合议庭法官、书记员。</p>
+<p>呼格的母亲尚爱云此前接受北青报记者采访时表示，她跟老伴儿几乎每月都会去呼和浩特市中院、内蒙古自治区高院、内蒙古自治区检察院询问调查进展。去年8月份时，他们就被告知，自治区公检法三家的调查均已完成，报告已经提交到上一级主管部门等待批示。</p>
+<p>“该谁承担的责任，谁就一定要去承担。这也是为了让以后的办案人员不再犯错。”尚爱云说，对于当年的办案人员，他们的态度很明确：追责到底。</p>
+<p><b>呼格骨灰已于去年“迁坟”</b></p>
+<p>去年11月12日，呼格骨灰被迁入距市区30公里的一处陵园内安葬。尚爱云念叨着，原来孩子被草草葬在荒郊，孤零零的。现在好了，迁入的新墓地很大，对他们也算是一个心理安慰。</p>
+<p>著名法学家江平亲自为呼格撰写墓志铭：“呼格吉勒图18岁时，蒙冤而死。呼格其生也短，其命也悲。然以生命警示手持司法权柄者，应重证据，不臆断。重人权，不擅权，不为一时政治之权益而弃法治与公正。”</p>
+</div>
+<div>
+<p>自呼格骨灰迁坟后，等一个追责结果成为两位老人对儿子最后的念想。据媒体此前报道，内蒙古自治区有关负责人曾表示，对于呼格冤案，“公检法三家的责任人都跑不了”。文/本报记者 孙静</p>
+<p><a href="http://3g.163.com/touch/article.html?docid=BENAAFIR0004662L">呼格大哥：对追责结果很失望 将依法讨说法</a></p>
+<p>针对追责结果相关问题，网易《路标》2月1日凌晨2时许联系到了呼格吉勒图的大哥昭力格图。昭力格图表示，<b>对于追责结果彻底失望，本想着如此轰动的案件一定会严格在法律框架内追责，但结果并非如此。昭力格图表示，死去的呼格没有被公平对待，后续一定会采取法律途径讨说法，部分办案人员必须承担刑事责任。</b></p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E4%BA%AC%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%91%BC%E6%A0%BC%E6%A1%88%E5%A4%84%E5%88%8627%E4%BA%BA%E5%A4%9A%E4%B8%BA%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内警告处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E5%81%87%E9%94%99%E6%A1%88/?category=18271" rel="tag">冤假错案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE/?category=18271" rel="tag">呼格吉勒图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%88%91/?category=18271" rel="tag">死刑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E9%9B%B6%E5%A4%A9%E7%9F%A5%E9%81%93-%E8%B4%BA%E5%8D%AB%E6%96%B9%EF%BC%9A%E6%88%91%E6%B7%B1%E5%9C%B3%E7%9A%84%E4%B8%80%E4%BD%8D%E5%BE%8B%E5%B8%88%E6%9C%8B%E5%8F%8B%E5%87%BA%E5%AE%B6%E4%BA%86/" target="cdt-mirror">零天知道 | 贺卫方：我深圳的一位律师朋友出家了</a>
 </h2>
 <p><p>编者按：本文由著名法学家贺卫方先生在2016年1月23日《律师文摘》年会上发表的演讲整理而成，现转载于此，以飨诸君。</p>
@@ -792,36 +820,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%B3%E6%B3%89-%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E9%80%9A%E8%BF%87%E4%BA%86%EF%BC%8C%E4%BD%86%E5%81%9A%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E7%9A%84%E6%9C%BA/" target="cdt-mirror">女泉 | 反家暴法通过了，但做反家暴法律援助的机构被关了</a>
-</h2>
-<p><p>@新媒体女性 原创，转载请联系授权。</p>
-<p>资料来源 | 公益时报、NGOCN</p>
-<p>1月29日，有消息称北京众泽妇女法律咨询服务中心遭“有关部门”要求，必需在春节前关闭众泽妇女法律中心，停止工作和资金资助。下午，众泽官网发出歇业公告：北京众泽妇女法律咨询服务中心自2016年2月1日起歇业，感谢大家二十年来对中心工作的关注和支持！众泽微博@众泽妇女法律中心—-千千律师所 截止目前仍未有表示。据众泽负责人郭建梅表示，众泽虽然“歇业”，北京千千律师事务所将继续存在。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.07.50.png" alt="Screen Shot 2016-01-29 at 下午5.07.50" width="550" height="320" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.07.50-300x175.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.07.50.png 642w" sizes="(max-width: 550px) 100vw, 550px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.08.09.png" alt="Screen Shot 2016-01-29 at 下午5.08.09" width="426" height="552"></p>
-<p>新媒体女性联系了机构负责人郭建梅，她表示机构被要求不能接受采访。目前她们仍在紧急开会商量今后何去何从。此前众泽已被多次“谈话”。中国弱势群体法律援助的空间，正在急剧缩小。</p>
-<p>作为中国第一家民间妇女法律援助机构，众泽的知名度非常高。听闻这个消息，不少网友的第一反应是：以后遭遇家暴或目睹家暴时，我们该找谁？</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.10.32.png" alt="Screen Shot 2016-01-29 at 下午5.10.32" width="425" height="369" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.10.32-300x260.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.10.32.png 425w" sizes="(max-width: 425px) 100vw, 425px"></p>
-<p><strong>李彦、董珊珊背后的律师团队</strong></p>
-<p>说到众泽，可能很多人都没有听过，但说到李彦以暴制暴杀夫案、董珊珊案、山木集团总裁强奸女员工案、广东惠州38个农嫁女土地权益纠纷案，可能大家会比较熟悉。而众泽的律师们，正是这些案件当事妇女的代理律师。作为1995年北京世妇会后设立的中国第一家民间妇女法律援助机构——北京大学法学院妇女法律研究与服务中心（众泽妇女法律咨询服务中心前身），众泽成立二十年来，一直致力于法律援助，保护妇女权益，维护法律公正，提高广大妇女的法律权利意识和维护自身权益的能力，推动妇女权益保障事业和法律援助事业的发展。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.13.11.png" alt="Screen Shot 2016-01-29 at 下午5.13.11" width="572" height="429" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.13.11-300x225.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.13.11.png 572w" sizes="(max-width: 572px) 100vw, 572px"><br><span>李彦受暴部分证据展现。</span></p>
-<p>1995年，第四次世界妇女大会在北京召开，当时还在《中国律师》杂志社工作的郭建梅在会上接触到了许多进步的NGO，深受大会的感召，3个月后，辞去了铁饭碗，与北京大学的两位老师一起，创办了中国第一家民间妇女法律援助机构——北京大学法学院妇女法律研究与服务中心（众泽妇女法律咨询服务中心前身），开展民间妇女法律援助，免费为没钱、没地位、求助无门的贫弱妇女群体代理案件。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-%E4%B8%8B%E5%8D%885.14.41.png" alt="Screen Shot 2016-01-29 at 下午5.14.41" width="295" height="466" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.14.41-190x300.png 190w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-29-at-下午5.14.41.png 295w" sizes="(max-width: 295px) 100vw, 295px"><br><span>众泽机构负责人郭建梅。</span></p>
-<p>20年来，众泽团队向全国提供免费法律咨询10万多件，编辑出版《妇女权益公益诉讼》《农村妇女参政问题研究》《中国职场性别歧视调查》等15部专著，免费办理案件3000多件，其中重大典型案件300余件。</p>
-<p>中心取得的工作成绩及社会影响力赢得了社会、有关部门和领导以及国内外同行的广泛赞誉和肯定，先后获得了中国十大有影响力的民间组织之一、中国公益事业杰出贡献奖、模范公益组织奖、关爱女性机构奖及TrustLaw 2014 Impact Award等诸多荣誉。2007年，众泽更是在由司法部和法制日报社主办的“2006年度法制新闻人物暨十大法制新闻评选”中被提名为“年度法制新闻人物”；</p>
-<p><strong>从法律援助到改变法律</strong></p>
-<p>针对妇女进行法律援助的定位，使机构负责人郭建梅接触到的多是苦难中的女人。多数求援者都处于社会底层，上访和不幸让她们衣衫褴褛、蓬头垢面，甚至满身伤病，散发恶臭。</p>
-<p>郭建梅说，做这些贫弱群体的代理律师时也会一同遭受白眼，这种偏见不仅来自大众，也来自法官。曾经，有法官冷冷地问郭建梅，你怎么代理这样的案子，你是律师吗?甚至因为原告和被告悬殊的社会地位，有的法官根本没有履行基本的法律程序。</p>
-<p>经过多年的法律援助实践，郭建梅和她的团队看到了很多案件背后所反映的不仅仅是某个妇女的个体利益，代表的是一个群体的利益，个案解决的实质是推动某一妇女群体利益的解决，并以此影响和推动该领域相关立法和政策的变革。从2004年起，郭建梅和她的团队将机构的工作重点和战略目标由个案法律援助转向个案法律援助和公益诉讼并重，并力求通过妇女权益公益诉讼，影响和推动妇女权益相关法律和制度的变革。</p>
-<p>而通过公益诉讼的方法以及与其他NGO的共同努力，中心在妇女权益法律倡导方面做出了重要贡献：如成功推动教育部取消了在校大学生不得生育的规定，推动了《物权法》《村民委员会组织法》明确人民法院和乡镇政府对违法村规民约的撤销和责令改正义务，推动《刑法》修订取消了嫖宿幼女罪，修改了猥亵罪的犯罪构成要件，同时增加了猥亵儿童罪加重处罚情节的兜底条款，同时中心在《劳动合同法》、《就业促进法》、《婚姻法》及其司法解释、《女职工劳动保护特别规定》、《反家庭暴力法》（草案）、《民事诉讼法》等国家法律法规的完善方面亦做出了应有的贡献。</p>
-<p>新媒体女性将对此事保持关注。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A5%B3%E6%B3%89-%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E9%80%9A%E8%BF%87%E4%BA%86%EF%BC%8C%E4%BD%86%E5%81%9A%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E7%9A%84%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18271" rel="tag">NGOCN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BC%97%E6%B3%BD%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">北京众泽妇女法律咨询服务中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AE%B6%E6%9A%B4/?category=18271" rel="tag">反家暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">女性权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">家庭暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%87%BBngo/?category=18271" rel="tag">打击NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">新媒体女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">民间机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">郭建梅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -833,7 +831,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -843,5 +841,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

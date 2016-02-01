@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BD%93%E4%BB%A3%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E7%BD%91-%E9%BB%84%E7%81%AF%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%86%9C%E6%9D%91%E5%84%BF%E5%AA%B3%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B9%A1%E6%9D%91/" target="cdt-mirror">当代文化研究网 | 黄灯：一个农村儿媳眼中的乡村图景</a>
@@ -67,7 +67,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">三农问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E8%80%81%E4%BA%BA/?category=18271" rel="tag">农村老人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91/?category=18271" rel="tag">农民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E4%BA%8C%E5%85%83%E7%BB%93%E6%9E%84/?category=18271" rel="tag">城乡二元结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E5%9C%B0%E5%86%9C%E6%B0%91/?category=18271" rel="tag">失地农民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">贫富差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%81%AF/?category=18271" rel="tag">黄灯</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%8E%8B%E5%90%9B%E6%9F%8F%EF%BC%9A%E5%A4%A7%E9%99%86%E5%86%9C%E6%9D%91%E7%8E%B0%E7%8A%B6-%E4%B8%8D%E4%BB%85%E6%80%A7%E5%85%B3%E7%B3%BB%E6%B7%B7%E4%B9%B1/" target="cdt-mirror">王君柏：大陆农村现状 不仅性关系混乱</a>
 </h2>
@@ -786,7 +786,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -796,5 +796,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

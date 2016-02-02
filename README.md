@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%A5%BF%E5%AA%92%E7%82%92%E4%BD%9C%E4%BC%97%E6%B3%BD%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%BA/" target="cdt-mirror">【异闻观止】环球时报 | 西媒炒作众泽关闭是为看热闹</a>
+</h2>
+<p><p>相关阅读：<a title="纽约时报 | 北京著名妇女法律援助中心被迫关闭" href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%8C%97%E4%BA%AC%E8%91%97%E5%90%8D%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E4%B8%AD%E5%BF%83%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%AD/">纽约时报 | 北京著名妇女法律援助中心被迫关闭</a></p>
+<p>单仁平</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/30chinawomen-web1-articleLarge.jpg" alt="郭建梅是北京众泽妇女法律咨询服务中心的创办人。她说政府下令该中心停止运营。" width="600" height="421" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/30chinawomen-web1-articleLarge-300x211.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/30chinawomen-web1-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>郭建梅是北京众泽妇女法律咨询服务中心的创办人。她说政府下令该中心停止运营。</p></div>
+<p>西方媒体近日集中报道了北京众泽妇女法律咨询服务中心2月1日关闭的消息，并指责中国政府“打压民间团体”。美国总统参选人希拉里1月31日在推特上声援该中心创办人郭建梅，有分析认为希拉里欲用女权议题为她的民主党候选人初选造势。</p>
+<p>北京众泽妇女法律咨询服务中心的前身是北大法学院妇女法律研究与服务中心，1996年成立，后脱离北大改为现名。在关闭前该中心是郭建梅所在律师事务所下面的一个机构，接受捐助并打“公益官司”。该中心的关闭据了解没有影响律所的运营，有西方媒体就中心关闭采访郭，她的回应比较低调。</p>
+<p>为权益遭到侵害的妇女提供公益性法律援助，这是值得鼓励的。当下仍有一些律师免费或以较低收费在这样做。从外媒的报道看，众泽从成立之初就接受美国一家基金会的捐款，数额逐年扩大，不知道这是否就是问题的症结。</p>
+<p>美国政府资助的自由亚洲电台提到，众泽介入了一些“敏感案件”，但没有说明具体是哪些案件。</p>
+<p>“敏感案件”加上境外资金，构成了看待这件事的一个角度。当然，众泽关闭未必就是这个角度的绝对化，这当中也许还有更多因素。比如有消息说众泽被要求拒绝某些境外资金，假如出现资金断源的情况，中心如何坚持会是个问题。</p>
+<p>通常来说，境外资金进入中国的社会公共领域，会产生复杂的影响。它们既可能带来社会建设的正面推动，也会因这些资金的政治倾向性造成它们使用上的选择性，从而积累社会不协调的张力。因而不能给那些境外资金下断然的定义，而应遵循一事一议的原则。</p>
+<p>外界并不清楚众泽关闭的具体原因，从它关闭的过程看，迄今为止比较温和。没有传出中心有人受到其他处理的消息，众泽也没采取对抗姿态。</p>
+<p>希望这件事并不像西方舆论炒作的那样严重。管理原则的改变并无削弱开展公益法律援助的初衷，依法治国是中国党和政府的真诚目标，调整的目的只能是管理的规范化，让法治的基础更加严整。</p>
+<p>不能不说，法律援助领域前一段时间出了一些问题，极少数激进维权律师走向法律的对立面，造成了很坏的影响。北京锋锐律师事务所正就其破坏正常的社会治理接受警方调查。</p>
+<p>中国也有许多法律援助机构依法开展业务，不仅维护了社会弱势群体的利益，也避免了可能出现的误解和群体维权事件。在那些机构里做事的律师不图名利，是真正的奉献者和建设者，令人钦佩。</p>
+<p>管理机关与法律及文化领域的NGO都应就敏感事宜保持克制和理性。前者应保持开放胸襟，不把一般性违规和管理中的摩擦朝敏感方向联想。后者则应正确看待管理措施的加强，不把相关变化上纲上线，视其为“政治打压”。</p>
+<p>当下定义的NGO总体看尚需与中国社会进一步磨合，全社会对此应保持耐心，最好能够促进他们对现实环境的适应，以及后者对它们的接纳。西方舆论并不关心中国社会在这当中的真正痛痒，它们实际是看热闹者，顺势见火就泼一瓢油。中国人自己得有主心骨。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%A5%BF%E5%AA%92%E7%82%92%E4%BD%9C%E4%BC%97%E6%B3%BD%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E5%88%A9/?category=18271" rel="tag">女性权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">妇女法律援助中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">权利运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E5%9B%A2%E4%BD%93/?category=18271" rel="tag">民间团体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">郭建梅</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E9%99%95%E8%A5%BF%E4%B8%80%E5%85%AC%E5%AE%89%E5%B1%80%E7%8E%B0%E4%B8%A5%E6%89%93%E6%96%B0%E9%97%BB%E5%AA%92%E4%BD%93%E6%A8%AA%E5%B9%85/" target="cdt-mirror">澎湃新闻 | 陕西一公安局现”严打新闻媒体”横幅</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/742DBC29DC1A002B7ED556D7E0315395.jpg" alt="横山县公安局会议室正中央挂了一条红色横幅，上面写着“横山县公安局‘秦风冬季亮剑’严打新闻媒体座谈会”。图片来自网络" width="550" height="310" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/742DBC29DC1A002B7ED556D7E0315395-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/742DBC29DC1A002B7ED556D7E0315395.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"><p>横山县公安局会议室正中央挂了一条红色横幅，上面写着“横山县公安局‘秦风冬季亮剑’严打新闻媒体座谈会”。图片来自网络</p></div>
@@ -184,7 +209,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E4%B8%80%E4%BD%8D%E5%A4%A7%E9%99%86%E9%9D%92%E5%B9%B4%E7%9A%84%E5%8F%B0%E6%B9%BE%E8%AE%B0%E5%BF%86/" target="cdt-mirror">墙外楼｜《金融时报》一位大陆青年的“台湾记忆”</a>
 </h2>
@@ -230,7 +255,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%9B%BD%E4%BC%81%E8%BF%98%E6%98%AF%E8%B5%B5%E4%BC%81/" target="cdt-mirror">乔木：国企还是赵企</a>
 </h2>
@@ -898,50 +923,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B9%A0%E6%A0%B8%E5%BF%83%E7%9A%84%E6%94%BF%E6%B2%BB%E6%8F%90%E6%B3%95%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F/" target="cdt-mirror">端传媒 | “习核心”的政治提法将成为主流吗？</a>
-</h2>
-<p><p>作者：周炜乐</p>
-<blockquote><p>上任近三年来，习近平一系列集权举措使其获得了其前任从未有过的权力，在中共领导体系的提法上具备了从“总书记”到“核心”转变的基础。</p></blockquote>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-%E4%B8%8B%E5%8D%885.08.14.png" alt="Screen Shot 2016-01-31 at 下午5.08.14" width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-下午5.08.14-300x199.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-下午5.08.14.png 617w" sizes="(max-width: 550px) 100vw, 550px"><br><span>中国北京一个购物区，有店铺出售毛泽东主席和现任国家主席习近平的纪念品。摄：Kevin Frayer/Getty</span></p>
-<p>1月15日，湖北省省委书记李鸿忠在学习“三严三实”（2015年3月9日，习近平在十二届人大第二次会议安徽代表团参加审议时提出“三严三实”，用以代指“既要严以修身、严以用权、严以律己，又要谋事要实、创业要实、做人要实”的党员作风建设要求）的省委常委会会议上称“习近平总书记是党中央的领导核心”，“自觉维护党中央权威，就要自觉维护习近平总书记这个领导核心”，成为首个在公开讲话中直接提出“习近平是核心”的政府官员。</p>
-<p>27日，中央书记处书记栗战书在中央直属机关党的工作会议上，强调要“增强核心意识”，“在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致”。两天后，此提法出现在由习近平主持的中央政治局会议上。一时间“习核心”成为中国政治观察热词。</p>
-<p>以上言论引起境外媒体热议，不少媒体认为“习核心”的提法在预料之中，是大势所趋。《星岛日报》在1月26日发表题为《重现核心 十九大分晓》的文章，称习近平“权势跨越江胡，直逼毛邓，已被视为‘不是核心的核心’”，只差正名而已”，而李鸿忠“只是点破这个现实，也含有造势、劝进之意。会否重现‘以习近平为核心的党中央’，十九大便见分晓”。</p>
-<p>《南华早报》援引上海政法大学陈道银的言论称“这意味着习近平在巩固权力方面做得非常成功，而地方官员也在向他表达忠心，以在2017年的换届中有更好地晋升机会。”</p>
-<p>多维新闻网援引“学习小组”的文章《习近平成为最高领导人绝非偶然》，称该文章： 为何中共领导人为“核心”与否的提法如此重要？原因在于 “核心”在中共语境中，意味着高度集中统一的个人权力受到确认。</p>
-<p><strong>毛泽东时代以来的中共最高领导人提法</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/58f76f93d3e74083a89d643446fc64b8.jpg" alt="58f76f93d3e74083a89d643446fc64b8" width="550" height="611" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/58f76f93d3e74083a89d643446fc64b8-270x300.jpg 270w, http://chinadigitaltimes.net/chinese/files/2016/01/58f76f93d3e74083a89d643446fc64b8-768x853.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/01/58f76f93d3e74083a89d643446fc64b8-922x1024.jpg 922w, http://chinadigitaltimes.net/chinese/files/2016/01/58f76f93d3e74083a89d643446fc64b8.jpg 1080w" sizes="(max-width: 550px) 100vw, 550px"><br><span>大陆媒体提及胡锦涛“核心”报导端传媒设计部 Sarene Chan</span></p>
-<p>自毛泽东以来，中共领导核心的提法经过了“为xxx为首的党中央”、“以xxx为核心的党中央”和“以xxx为总书记的党中央”的演变。在毛泽东时代，中共官方文件和新闻报道的提法为“以毛主席为首的党中央”。文革开始，林彪跃升为第二号人物后，便使用“以毛主席为首、以林副主席为副的党中央”。毛泽东去世后，“为首”的提法延续到了毛的接班人华国锋身上，提法为：“以华主席为首的党中央”。</p>
-<p>在邓小平时期，邓小平、胡耀邦和赵紫阳三人均未冠名“为首”、“核心”等称号。直至1989年春夏之交，“核心”才成为新领导中心的提法。时任中央顾问委员会主任的陈云，在任内主持的唯一一次会议上表示，要坚决维护以邓小平为“头子”的党中央。在《人民日报》公开报道时，根据秘书许永跃的建议，“头子”改成了“核心”。同时，对于第一代领导集体的提法，也因而变为“以毛泽东为核心的党的第一代领导集体”。</p>
-<p>在89年春夏之交后上台的江泽民延续了“核心”的提法。1989年5、6月间，邓小平正式提出了“三代领导集体”和“核心”概念，和新一届领导班子谈话时称“第一代领导集体的核心是毛主席。第二代实际上我是核心。第三代的领导集体也必须有一个核心，就是现在大家同意的江泽民同志”。十三届四中全会上江泽民被选为总书记，完成换届。邓此后辞去军委主席，淡出领导职位，江顺利统揽中共中央总书记、国家主席和军委主席党政军三项最高职务，具备“核心”权力。</p>
-<p>中共十六大后，“以胡锦涛为总书记的党中央”成了标准提法，党媒则在胡执政期间沿用了“以江泽民同志为核心”的表达。在2002年至2012年期间，《人民日报》上共有904篇文章（含重复）提及“以江泽民同志为核心”（最晚一篇发布于2012年12月11日）。许多学者认为，胡锦涛执政十年，胡本人未能大权独揽，9名常委“九龙治水”，各管一方。</p>
-<p>胡锦涛的继任者习近平也就继承了“为xxx总书记”的说法。目前，官方文件和新闻报道将“核心”仅用于评价毛泽东、邓小平和江泽民这三代领导集体。</p>
-<p><strong>胡锦涛时代，也有核心的“试探性”提法</strong></p>
-<p>李鸿忠的提法究竟意在何处？若将其和地方官员对胡锦涛的“核心”提法对比，则不难发现其用意。</p>
-<p>在胡锦涛时期，媒体上不是没有出现过“以胡锦涛同志为核心”的提法。笔者检索2003年至2012年期间的中国大陆媒体报道，发现共有34篇文章提及“以胡锦涛同志为核心”。从时间来看，胡的首个任期内出现20篇，第二任期内则为14篇，高峰分别出现在2004年9月江泽民辞任军委主席职务后一年（8篇）和2010年10月中共十七大召开之后一年（7篇，占到第二任期的出现总数的一半），同样引起了境外媒体的广泛猜测。</p>
-<p>文章大致可分为三种语境。一种为地方官员的表态，共3篇。</p>
-<p>据广东省委机关报《南方日报》2008年1月3日的报道，广东省省委副书记兼深圳市委书记刘玉浦在就职讲话中称“以胡锦涛同志、江泽民同志为核心的两届中央领导集体情系特区，亲临视察领导，对深圳的进一步发展倾注了大量心血”，而且在上任前给自己提出的五点要求之一就是“清正廉洁，不贪图名利。要始终坚定共产主义理想和中国特色社会主义信念，加强党的执政能力建设和先进性建设，在思想上、政治上、行动上与以胡锦涛同志为核心的党中央保持高度的一致。”</p>
-<p>同样的提法也出现在了2012年8月14日广州市纪委书记王晓玲对于新提任市管干部的集体廉政谈话中。她强调各级领导廉洁从政、坚定理想信念，“在思想上、政治上、行动上与以胡锦涛同志为核心的党中央保持高度的一致”。</p>
-<p>刘玉浦调任后，继任者王荣再次提及“核心”。在胡锦涛2010年9月视察深圳，并出席深圳经济特区建立30周年庆祝大会后，王荣召开了深圳市委常委会议学习讲话精神，称“胡锦涛总书记在庆祝大会上提出，经济特区不仅应该办下去，而且应该办得更好，中央将一如既往支持经济特区大胆探索、先行先试、发挥作用，这充分体现了以胡锦涛同志为核心的党中央对经济特区的高度关心、亲切关怀和大力支持，每一位特区干部群众对此都要铭刻在心。”</p>
-<p>另一种则为学者、企业家等的阿谀奉迎之语，表示拥护胡锦涛领导，共在16篇出现。例如，中共河南省委党校经济学教研部副主任、教授廖富洲在2007年11月13日的《河南日报》上撰写了《全面理解十七大的深刻意义》一文，提出中共十七大的重大意义之一，便是修订了共产党章程、“产生一个领导核心——以胡锦涛同志为核心的党中央领导集体”，并称“这为我们党继往开来、与时俱进，顺利实现十七大确定的奋斗目标和战略任务，提供了组织保证。”</p>
-<p>2008年6月，全国政协委员、全国工商联常委、黑龙江省工商联副主席、中发集团董事局主席兼总裁、合众人寿董事长戴皓接受《中华工商时报》采访时，将企业的成功归结于胡锦涛政府的政策：“企业靠改革开放获得了成功，要感恩，就是要回报党的三代领导集体和以胡锦涛同志为核心的新的党中央，就是要以科学发展观指导企业的实践。”</p>
-<p>在深圳经济特区建立30周年庆祝大会召开后，省委宣传部、省社科联、南方日报社在广州联合召开“学习总书记重要讲话精神，探索广东科学发展新路”理论座谈会，其间深圳市社会科学院副院长、研究员黄发玉呼应王荣的讲话，提出“以胡锦涛同志为核心的党中央要求深圳加快发展、率先发展、协调发展”，因此深圳应该“牢记历史重托，续写特区辉煌，在科学发展实践中再立新功”。</p>
-<p>剩余15篇则是媒体的编辑错误，纯属“写作事故”，或对国外人士不合规范说法的直接引用，如《人民日报》就曾在2004年10月2日的国际版刊登的消息《朝鲜高度赞扬朝中友谊和中国建设成就》，提到朝鲜对外文化联络委员会代理委员长文在哲称“两国老一代领导人亲手缔造和培育的朝中友谊在金正日同志和以胡锦涛同志为核心的中国新一届领导集体的深切关心下，正在继续得到良好发展”。</p>
-<p>后两种语境不难理解，官员的表态则令人深思，是隐含上层授意，还是试探中央态度？前者的可能性较低，中共中央公开发表的文件和报道一贯保持“为总书记”的提法。近几年《人民日报》提及“以习近平同志为总书记”的文章数量分别为：2013年290篇，2014年450篇，2015年602篇，保持稳定且逐年递增。在去年11月7日举行的“习马会”上，国台办主任张志军在新闻发布会上用的即是“习总书记”的提法，称“全党全国人民正在以习近平为总书记的党中央带领下，为全面建成小康社会而齐心奋斗”。</p>
-<p>值得注意的是，深圳市委书记刘玉浦、王荣敢为天下先地提及“胡核心”，时间均在胡锦涛第二任期内，正是外界认为胡将会统领大局、集中更多领导权力的形势下，意在顺势试探中央意图。王荣提出“胡核心”前一个月接受采访时称“我们希望在新型社会中，更早建立起公民社会”，但显然两次试探均未奏效。两次表态均刊登在广东省委机关报《南方日报》上，可以看出当时广东省委的默许态度。</p>
-<p><strong>“习核心”，已经成熟的时机</strong></p>
-<p>此次李鸿忠们所处的时机则更为成熟。上任近三年来，习近平一系列集权举措，使其获得了其前任从未有过的权力，在中共领导体系的提法上具备了从“总书记”到“核心”转变的基础。习近平任内也出现了不少突破性的提法，引人猜测。正如他在《解放军报》创刊纪念60周年讲话中，没有单独提及邓小平理论、三个代表、科学发展观，而是将以上理论揉进了由中共十七大提出、十八大修正的“中国特色社会主义理论体系”一词中。</p>
-<p>“习核心”的提法或有多个版本。此次李鸿忠在讲话中同时提及“以习近平同志为总书记的党中央”和意指“习核心”的“习近平总书记是党中央的领导核心”，属于“总书记”和“核心并用”。</p>
-<p>除李鸿忠外，从今年1月开始，不少中央和地方官员在讲话中使用“习核心”的变体。在栗战书提出“核心意识”之前，； 重庆市委书记孙政才、甘肃省委宣传部部长连辑、江西省委书记强卫等省市级党委一把手已持有相似表达，意指向党中央看齐，向习近平总书记看齐，也即“习核心”。中国银行党委书记、董事长田国立、广西壮族自治区党委、天津市委常委则表示坚决维护“习近平总书记这个核心”。以上表达均是在各地召开的“三严三实”专题民主生活会上被提出。</p>
-<p>此后党媒是否会直接提“习核心”，或是像李鸿忠一样和“总书记”的提法并用，还是使用等同于“党的领导核心”含义的变体（即表面上没有用“习核心”，实际上已经用了）有待观察，但可以肯定的是，“习核心”要想成为主流提法，仍需获得中共的官方认可。</p>
-<p>（周炜乐，香港大学新闻与传媒研究中心研究助理）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B9%A0%E6%A0%B8%E5%BF%83%E7%9A%84%E6%94%BF%E6%B2%BB%E6%8F%90%E6%B3%95%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E7%82%9C%E4%B9%90/?category=18271" rel="tag">周炜乐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E6%84%8F%E8%AF%86/?category=18271" rel="tag">核心意识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -953,7 +934,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -963,5 +944,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

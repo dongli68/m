@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9A%84%E5%99%A9%E6%A2%A6-%E8%90%A8%E6%8B%89%E8%8F%B2%E6%B4%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B4%E8%B5%B7/" target="cdt-mirror">万维读者网｜北京的噩梦——萨拉菲派在中国兴起</a>
+</h2>
+<p><p><strong>万维读者网（Creaders.net）记者江夏编译报道：</strong>美国《洛杉矶时报》日前发表驻北京记者凯曼（Jonathan Kaiman）的文章说，甘肃临夏250,000人口中，约六成是穆斯林。但其中除了主流穆斯林外，还有萨拉菲派信徒。</p>
+<p>萨拉菲派是逊尼派穆斯林中极端保守的原教旨教派，要求遵从公元6世纪先知穆罕默德在世时的生活和祈祷方式。恐怖组织伊斯兰国的激进武装分子，以及许多沙特阿拉伯人都是萨拉菲派。临夏的许多中国穆斯林也是萨拉菲派，他们戴着沙特式的头巾，在自己的清真寺祈祷。萨拉菲运动在当地的发展，使无神论的共产党政府官员慌乱。</p>
+<p>中国公众越来越把伊斯兰教和恐怖主义联系在一起。许多中国穆斯林也把萨拉菲派视为无法融入主流社会的盲目狂热分子。近几年来，当局一直监视萨拉菲派，关闭了几所萨拉菲派宗教学校，拘捕了一位著名的萨拉菲派教士。临夏当地人说，萨拉菲派和其他穆斯林在城内相处不错，但在传统根深蒂固的农村，信仰上的分歧造成严重的社会分化。</p>
+<table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td></td>
+</tr></tbody></table><p>虽然许多中国萨拉菲派信徒公开反对暴力，对政治也没有兴趣，但他们和国家的关系趋于紧张。许多当地人要求匿名谈论这个敏感的话题，因为他们“没有平等权利”。中国萨拉菲派的人数难以估计，大约从数千人至数万人不等。专家们和临夏穆斯林都同意，萨拉菲运动正在中国和世界范围内发展。影响所及，最近四五年开始有汉族青年皈依激进、保守的伊斯兰意识形态。他们政治上并不激进，但极端保守、正统。</p>
+<p>中国穆斯林包括维吾尔族和回族两大族群，前者聚居新疆，后者分布全国各地。专家们说，萨拉菲派在两大族群中都有传播。如云南省边陲的沙甸镇，就是萨拉菲派的大本营。去年9月，云南省发出14号文件，誓言对省内的阿拉伯语和伊斯兰学校“加强管理”。北京的阿拉伯语学者说，当局已经关闭了沙甸的许多萨拉菲派宗教学校。政府认为，这一教派打破中国穆斯林社区不同集团之间的平衡，因而极端危险。</p>
+<p>2015年底，海外中文媒体报道说，新疆当局曾经在兰州拘留了一位有影响的萨拉菲派阿訇，及他的一名维吾尔族学生。27天后阿訇被释放。这次事件显示问题严重，新疆的麻烦正在向甘肃和青海蔓延。萨拉菲派教义约在一个世纪前传到中国。1960至1970年代，毛泽东的反宗教运动迫使萨拉菲派转入地下。毛死文革结束，1980至1990年代萨拉菲派死灰复燃。</p>
+<p>1984年，北京允许穆斯林个人赴麦加朝圣。1990年代，每年约有10,000名回族穆斯林前往麦加，其中一些人在沙特学习了萨拉菲派教义，对其“纯洁”的伊斯兰精神着迷，回到中国后便在家中传授萨拉菲派思想。与此同时，沙特阿拉伯传道人和组织开始抵达中国。他们培训教士，出资兴建新的伊斯兰学校和清真寺。受到沙特影响的新一代，开始和老一代发生争论。中国穆斯林社区相互指责对方不是真正的穆斯林。</p>
+<p>北京把外国宗教看作威胁。中国的萨拉菲派信徒受到沙特帮助，令官员们和其他中国穆斯林团体担忧。沙特是世界第二大产油国，中国与沙特的关系从未有任何明显的挫折。香港中文大学的伊斯兰教专家弗兰克尔（James Frankel）说，北京过去在某种程度上对沙特资助萨拉菲派故意视而不见，但现在情况可能改变，因为北京害怕极端主义。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9A%84%E5%99%A9%E6%A2%A6-%E8%90%A8%E6%8B%89%E8%8F%B2%E6%B4%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B4%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0/?category=18271" rel="tag">伊斯兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99/?category=18271" rel="tag">伊斯兰教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%A8%E6%8B%89%E8%8F%B2%E6%B4%BE/?category=18271" rel="tag">萨拉菲派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%A6%81%E6%93%8D%E5%8A%9E%E5%85%AC%E5%AE%A4/" target="cdt-mirror">【图说天朝】“禁操”办公室</a>
+</h2>
+<p><p>@紫色百合5：继“中国梦”办公室之后，居然还有“禁操”介么一个办公室 ！</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/495531fbjw1f0m7bc693yj20hs0nqq5x.jpg" alt="495531fbjw1f0m7bc693yj20hs0nqq5x" width="440" height="587" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/495531fbjw1f0m7bc693yj20hs0nqq5x-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/495531fbjw1f0m7bc693yj20hs0nqq5x.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>@bigman945：哈哈哈哈……</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/59_700_600.jpg" alt="59_700_600" width="600" height="514" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/59_700_600-300x257.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/59_700_600.jpg 700w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/60_700_600.jpg" alt="60_700_600" width="600" height="514" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/60_700_600-300x257.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/60_700_600.jpg 700w" sizes="(max-width: 600px) 100vw, 600px"></p>
+<p><strong>以下内容摘自百度百科：</strong></p>
+<p>2008年11月，重庆秀山县成立“禁操办”(禁止红白喜事大操大办办公室)，对政府官员办酒席敛财进行干预。目前已有副镇长、科长、卫生院长等5名办酒官员被摘帽。据说，现在官员办酒席的名头花样百出，有“子女高考落榜安慰酒”、“老人去世周年祭酒”、“三十而立酒”等等。点评：有一种语文叫“行政语文”，它的行文要求是按汉语的最低水准：简单明确。而现实中行政语文时常暧昧不明，空话连篇，不知所云，简直是汉语界的一朵奇葩。像“禁操办”这种，照时评者赵牧说法，此简称简直等同涉嫌故意诱人“思有邪”。赵就此联想到多年前的“社精办”（社会主义精神文明办公室）。</p>
+<p><strong>以下内容为秀山县<a href="http://www.xn--3ds443gqman95a.com/Item/Show.asp?m=1&d=3325" target="_blank">本地媒体报道</a>：</strong></p>
+<p>为深入贯彻落实中央八项规定精神，坚决反对“四风”，刹住各种不正之风和奢侈浪费行为，切实减轻广大群众的经济负担，推进乡风文明和节约型社会建设，营造良好的社会风气，秀山自治县中和街道办事处特成立了以党工委书记向照勇为组长，党工委副书记、办事处主任杨晓蓉为副组长;党工委、办事处其他领导为成员的专项工作领导小组。领导小组下设12个巡查工作组，负责各社区红白喜事大操大办的巡查治理工作。</p>
+<p>……<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/2016169966379813.jpg" alt="2016169966379813" width="500" height="330" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/2016169966379813-300x198.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/2016169966379813.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p>整治活动开展以来，截止去年12月31日，秀山自治县中和街道在12个社区和23家酒楼累计排查信息345件。其中：社区219件，违规182件，劝导182件，制止164件。专项巡查126件，制止违规102件(其他乡镇81件)。酒店业主共主动辞退预定酒席171家。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/2016161337038745.jpg" alt="2016161337038745" width="653" height="236" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/2016161337038745-300x108.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/2016161337038745.jpg 653w" sizes="(max-width: 653px) 100vw, 653px"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%A6%81%E6%93%8D%E5%8A%9E%E5%85%AC%E5%AE%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A/?category=18271" rel="tag">八项规定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98/?category=18271" rel="tag">官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E8%AF%9D/?category=18271" rel="tag">官话</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%93%8D%E5%8A%9E/?category=18271" rel="tag">禁操办</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%9C%A8%E5%9B%9B%E5%B7%9D%E7%82%89%E9%9C%8D%E5%8E%BF%E5%BC%BA%E5%88%B6%E6%B2%A1%E6%94%B6%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E6%B3%95%E5%83%8F/" target="cdt-mirror">美国之音｜中国当局在四川炉霍县强制没收达赖喇嘛法像</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%BB%E4%BD%9B%E8%BD%AC%E4%B8%96%E6%9C%80%E9%AB%98%E5%86%B3%E5%AE%9A%E6%9D%83%E5%9C%A8%E4%B8%AD%E5%A4%AE2.png" rel="attachment wp-att-427535"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%BB%E4%BD%9B%E8%BD%AC%E4%B8%96%E6%9C%80%E9%AB%98%E5%86%B3%E5%AE%9A%E6%9D%83%E5%9C%A8%E4%B8%AD%E5%A4%AE2.png" alt="活佛转世最高决定权在中央2" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2-300x214.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2-768x548.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2-1024x730.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2.png 1608w" sizes="(max-width: 1608px) 100vw, 1608px"></a><p>央视新闻截图</p></div>
@@ -772,54 +813,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%90%E6%98%95%EF%BC%9A%E5%8D%A0%E9%A2%86%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9-%E5%BE%8B%E5%B8%88%E6%96%87%E6%91%98%E5%B9%B4%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D/" target="cdt-mirror">徐昕：占领网络制低点 律师文摘年会上的讲话</a>
-</h2>
-<p><p>今年冬天有点冷，我的发言也很冷。连贺卫方教授都觉得我太悲观了，卖酒了卖酒了……</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9.jpg" alt="网络制低点" width="550" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/网络制低点-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/网络制低点.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><strong>占领网络制低点</strong></p>
-<p><strong>徐昕</strong></p>
-<p>2016年1月23日《律师文摘》年会上的讲话</p>
-<p>通过网络实现公益法律行动的联合，是《律师文摘》国栋主编给我安排的题目。过去，我的确曾经如此倡导如此呼吁如此行动，但如今，我只能通过网络告诉大家，我还活着，我在网络还活着，我们还活着。</p>
-<p>过去，有人说互联网是上帝送给中国人最好的礼物，微博是送给法律人的最好的礼物，但如今，网络上的朋友，微博上的朋友，一个个都不见了，最开始笑蜀不见了，慕容雪村不见了，后来是李承鹏不见了，斯伟江不见了，P律师不见了，前不久袁裕来也不见了。于是，徐昕开始卖米卖油卖酒了，但没有用，最近我还是被禁言，转发键被没收了。不过，我仍然要感谢党感谢政府，因为还算幸运，网络发言平台毕竟没有被彻底消灭，在网上，我还活着。</p>
-<p>过去，我曾经有一个梦想，利用具有一定影响力的大案公益平台做更多的公益。大案咨询微信mycase已免费解答法律咨询过万，大案法律援助通过直接援助或推荐律师等方式为不少弱势人群提供法律帮助，后来大案又发起了信息公开联盟、旁听庭审促进计划、无辜者计划、法卫童年、大爱清尘法务等，在各自的领域发挥了一些作用，还尝试开展地域性联合，大案广东，大案重庆。当时我雄心勃勃，试图透过大案+模式，凝聚公益法律人群体，人人可做公益。</p>
-<p>后来，有人说联盟类似于组党，信息公开联盟不敢做了。有个机构说愿意提供经费支持，我说好啊，可没过几天，有关部门的人来找，听说某某基金会要给你100万，我只能说不敢要了，幸亏没要。旁听庭审促进计划旨在推动民众旁听庭审，使司法公开落到实处，但由于涉及现场行动，很容易被说成组织、煽动影响秩序，很快不能做了。无辜者计划推动一些冤案的申诉，效果明显，但去年年初关注上海两梅案并组建律师团后，上海有关方面透过北京有关部门发出有关指令，虽然一直坚持，但也只能低调运行了。</p>
-<p>如今，流行所谓的互联网+，而我却在做互联网-，大案子项目一个个消失了，已经减得差不多了，现在只剩下大案咨询和大案公众号（mycase）。而且，我基本没有参与，大案公众号交由中国案例法研究会主办，李轩担任主编，目前看来比较安全。</p>
-<p>刚刚茅于轼、江平先生都强调，言论自由是最重要的自由。但如今，我们不能说，不敢说，慢慢地都不会说了；而且又发展到不让别人说，家人、朋友会劝你少说、别说；进而，你原来的朋友可能会远离话多的你。前不久我邀请一个朋友开会，微信发不过去，才知道人家把我给删了。不是因为敏感，否则今天的会议我就来不了，而是因为想像的敏感；不是因为感情不深，而是恐惧实在过大。</p>
-<p>于是，人们开始赞美，大大，麻麻，诸如此类。然而，若批评有恐惧，则赞美无自由。不是你可以随便赞美的。比如，我们想为最高检就陈满案提起无罪抗诉点赞，此案是1979年以来刑诉法实施以来，最高检提起的首个无罪抗诉，在保障人权方面可圈可点，非常了不起，但南周评中国十大影响性诉讼时，有人不让赞美。也不是所有人都可以赞美，有的人在赞美，可他们觉得是在讽刺，于是出现了一个有趣的概念——“恶意转发”，明明是转发主流新闻，但他们认为你是恶意。他们需要某种指定的方式来赞美，典型如带鱼式赞美，千芳式歌颂，而且向各个领域扩散，各个角落的带鱼游出来了，争相献媚，法律界也出现了带鱼若干条。</p>
-<p>所以，今天国栋给我定的演讲题目要改，不是通过网络实现公益法律行动的联合，不能联合了，不敢联合了。我只能通过网络告诉大家，律师文摘聚会了，P律师出来了，P律师开始说话了，朱孝顶还没有进去，徐昕的微博转发键上午突然出现然后又突然消失了，徐昕卖酒了，过年了，酒打折了，我们都还活着。</p>
-<p>对于言论管制，法律在进行密切的配合:从最高法院前年迅速通过500转刑拘的司法解释，到刑法修正案九正式将寻衅滋事罪从现实扩展到网络空间，到不顾律师和社会反对规定律师扰庭罪，到保障律师权利的规定限制律师在申诉案件中阅卷。既打压言论，更针对行动，律师动打律师，访民闹抓访民，然后由央视最高法院在适当的时候出来定调。</p>
-<p>过去，我特别强调建设性；如今，不得不转向，建设不建设无所谓了，你想建设，赵家人不乐意，认为你是捣乱。还有一批人认为，就让它变糟，中国往往要走到极致才能回头。我当然不希望这样，出了问题，吃苦受罪的还是普通民众，赵家人早跑了。我们撰写《中国司法改革年度报告》进入第七年了，极为强调建设性，每年召开研讨会，可去年不让开会了，今年就不打算开了，明年及未来若干年或许还开不了。和《律师文摘》不同，国栋坚持想开，我是爱开不开，无所谓。</p>
-<p>过去几年，我年初都要提出十大法治心愿；如今，我没有提出所谓的期待，连网络发言平台随时都可能消失，还期待什么？以前的心愿中，我期待宪法第35条公民基本权利、第5条违宪必究条款十年之内实现60%，但如今，未来何时能实现，不敢预期，不想预期。美国大法官克拉克曾经说过：摧毁一个政府最好的办法就是让它不遵守自己制定的法律，特别是它自己制定的宪法。我们的宪法面临如此命运，国之不幸，民之不幸。</p>
-<p>好吧，让我们通过网络告诉大家，我们还活着；通过网络告诉大家，有人在裸奔，我们知道他们在裸奔，他们知道我们知道他们在裸奔；通过网络告诉大家，我们知道有一部宪法，人人生而平等，我们要说话、要吃饭、要安全、要免于恐惧的自由。</p>
-<p>刚刚王才亮律师说，要占领网络的制高点，而我只想说，让我们默默地占领网络制低点。制高点被他们抢走了，他们拿到制高点去翻墙到Facebook里面去炸表情包了；而制低点无可再低，无法抢走，制低点是常识是底线是良知，因而也无法删除。</p>
-<p>就让我们占领制低点吧。身处制低点，能够更好地仰望星空，人们对蔚蓝星空的热爱亘古不变，也是无法剥夺的。占领制低点，就是占领常识，坚守底线，做好自己，守望未来。谢谢大家。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%BE%90%E6%98%95%EF%BC%9A%E5%8D%A0%E9%A2%86%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9-%E5%BE%8B%E5%B8%88%E6%96%87%E6%91%98%E5%B9%B4%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C%E6%B3%95%E5%88%B6/?category=18271" rel="tag">，法制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%88%B6%E4%BD%8E%E7%82%B9%EF%BC%8C-%E5%BE%90%E6%98%95%EF%BC%8C%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">网络制低点， 徐昕，律师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E9%99%A2%E9%95%BF-%E5%85%B6%E5%AE%9E%E8%8B%B9%E6%9E%9C%E5%8F%AF%E4%BB%A5%E9%87%8D%E5%90%AF/" target="cdt-mirror">【立存此照】院长 其实苹果可以重启……</a>
-</h2>
-<p><p>@Fenng：这位清华的院长让我笑半天了。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CaBI0PHUYAAEsp8.jpg" alt="CaBI0PHUYAAEsp8" width="500" height="889" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CaBI0PHUYAAEsp8-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/CaBI0PHUYAAEsp8.jpg 600w" sizes="(max-width: 500px) 100vw, 500px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/CaBIzl5UcAE6H5j.jpg" alt="CaBIzl5UcAE6H5j" width="500" height="889" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/CaBIzl5UcAE6H5j-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/01/CaBIzl5UcAE6H5j.jpg 600w" sizes="(max-width: 500px) 100vw, 500px"></p>
-<p>@Fenng：研究所谓国际关系这事儿，把自己包装成个「鹰派」，然后就有一群脑残跟着你走。百试不爽。</p>
-<p>@央_央_央：死机的时候锁屏和home同时长按过一会儿再开就好了啊。就算你买个遥控器螺丝那里还有个合格证贴着防止自行拆卸呢，没觉得苹果有问题。</p>
-<p>@恒_迹：院长想要批判的是霸权主义和霸王条款，只不过切入点找错了。变成了一个反例去证明信息开放的重要性。</p>
-<p>@朱鑫权Sean：真是一帮砖家。</p>
-<p>@曹益峰：他适合老人机吧，他还很疑惑和愤青呢，话说这样的教授能带给清华和中国什么？他还哭诉研究经费控制得太严，不能花得尽性。</p>
-<p>@SofayW：这位先生不但对现代社会略有脱节，而且有些冒失和上纲上线……不了解没去调查询问，就直接下判断，帽子还盖的这么大！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E9%99%A2%E9%95%BF-%E5%85%B6%E5%AE%9E%E8%8B%B9%E6%9E%9C%E5%8F%AF%E4%BB%A5%E9%87%8D%E5%90%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">国际关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E5%8D%8E/?category=18271" rel="tag">清华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%8E%E5%AD%A6%E9%80%9A/?category=18271" rel="tag">阎学通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%B8%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">霸权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B9%B0%E6%B4%BE/?category=18271" rel="tag">鹰派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -831,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -841,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

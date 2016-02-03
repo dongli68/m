@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%AF%9B%E7%97%85%E6%9C%AA%E6%94%B9%EF%BC%8C%E7%A7%AF%E6%81%B6%E6%88%90%E4%B9%A0/" target="cdt-mirror">【河蟹档案】毛病未改，积恶成习</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%AB%A0%E8%AF%92%E5%92%8C">章诒和</a>：今天去花市买一盆水仙，门口贴上好友针对我写的春联：毛病未改（上联） 积恶成习（下联）横批：没治 报告网友：章诒和迎春活动准备完毕！<br><a href="https://freeweibo.com/weibo/3938354636689277" target="/weibo/393">2016年02月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">任志强</a>：教育的可怕在于从来不是开启人的独立思考能力，而是只告诉你死死记住敎课书上告诉你的答案。不需要你去探索，为什么是这个答案的结果？不需要知道原因和有其它答案的可能，并且用考分限制你只能死记这个标准答案。于是就可以用欺骗掩盖事实的真相，甚至任意编写历史，颠倒黑白。让人民生活在谎言之中。<br><a href="https://freeweibo.com/weibo/3937416089781815" target="/weibo/393">2016年01月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E9%B8%A3">张鸣</a>：当年赵高怎样实现指鹿为马的？利用信息屏蔽，让所有人都说鹿就是马，谁敢说不，就杀了谁，最后，皇帝就真的以为是自己错了，鹿才是马。这个绝技，一直到今天还有人在用。<br><a href="https://freeweibo.com/weibo/3936177423476275" target="/weibo/393">2016年01月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E6%98%8C%E5%B9%B3">罗昌平</a>：正在认真学习一位省委书记对政法要员的训话<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-1.jpg" alt="罗昌平" width="564" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-1-300x195.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-1.jpg 722w" sizes="(max-width: 564px) 100vw, 564px"><br><a href="https://freeweibo.com/weibo/3937364420521398" target="/weibo/393">2016年01月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8D%97%E6%96%B9%E6%9F%B1%E5%AD%90%E6%95%B0">南方柱子数</a>：广州三君子案今天开庭宣判：唐荆陵5年、袁新亭3年半、王清营2年半。他们三个人，一个是律师，一个是编辑，一个是老师。都是温和善良，充满正义感的谦谦君子，如今被判，唐荆陵说他不上诉，他只向上帝和人民上诉。<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E8%8D%86%E9%99%B5%EF%BC%9A%E4%B8%8D%E7%A0%B4%E6%A5%BC%E5%85%B0%E7%BB%88%E4%B8%8D%E8%BF%98/">唐荆陵：不破楼兰终不还–我只向人民和上帝上诉</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-3.jpg" alt="333" width="471" height="471" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-3-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-768x768.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3.jpg 800w" sizes="(max-width: 471px) 100vw, 471px"><br><a href="https://freeweibo.com/weibo/3936615015641811" target="/weibo/393">2016年01月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E4%B8%89%E7%95%8F">何三畏</a>：你们都弄错了，赵家是这么来的<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-7.jpg" alt="赵家人" width="483" height="596" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-7-243x300.jpg 243w, http://chinadigitaltimes.net/chinese/files/2016/02/333-7.jpg 648w" sizes="(max-width: 483px) 100vw, 483px"><br><a href="https://freeweibo.com/weibo/3938396869028942" target="/weibo/393">2016年02月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%83%A1%E6%88%88">胡戈</a>：一条神秘消失的微博  <em>相关阅读｜《<a href="http://www.dw.com/zh/%E7%91%9E%E5%85%B8%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%BE%BE%E6%9E%97%E8%BF%94%E5%9B%9E%E5%AE%B6%E4%B9%A1/a-19006123">德国之声<em>｜</em>瑞典维权人士达林返回家乡</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-6.jpg" alt="彼得" width="423" height="752" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-6-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-6-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/333-6.jpg 960w" sizes="(max-width: 423px) 100vw, 423px"><br><a href="https://freeweibo.com/weibo/3935574505518207" target="/weibo/393">2016年01月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E5%B1%B1%E5%A8%83">文山娃</a>：小粉红事件 update：团中央删帖了。炸裂！一次特大型宣传事故<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-4.jpg" alt="小粉红" width="393" height="697" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-4-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/02/333-4-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2016/02/333-4.jpg 640w" sizes="(max-width: 393px) 100vw, 393px"><br><a href="https://freeweibo.com/weibo/3935687293812937" target="/weibo/393">2016年01月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%A2%81%E7%AB%8B">袁立</a>：有一群狗在我昨天写的抗战老兵的微博下狅犬。质疑老人年龄，与是否上过黄埔军校。你们也配，人家上战场时，你连颗精子都不是！一边呆着去。另外说政府对他们好了，发了5000慰问金。我想应该有吧，政策在变。但是很多老兵确实坐了几十年牢，确实孤独终老。我们晚辈，应该常去看看他们[微笑]少没大没小的  <em><em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%A2%81%E7%AB%8B">维基百科<em><em>｜袁立</em></em></a>》；《<a href="http://ent.163.com/16/0203/09/BET0EUH700031H2L.html">网易<em><em>｜</em></em>袁立遭恶评网友称想枪毙她 回应：我的心很凉</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-2.jpg" alt="赵家人" width="436" height="260" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-2-300x179.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-2.jpg 336w" sizes="(max-width: 436px) 100vw, 436px"><br><a href="https://freeweibo.com/weibo/3937278906630617" target="/weibo/393">2016年01月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%401%E5%8E%861%E9%98%B3%E5%85%89">1历1阳光</a>：<em><em>相关阅读｜《</em><a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%BD%A0%E5%A5%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%A0%B8%E5%BF%83/">精读党报<em><em>｜</em></em>你好 习近平核心</a><em>》；《</em><a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B9%A0%E6%A0%B8%E5%BF%83%E7%9A%84%E6%94%BF%E6%B2%BB%E6%8F%90%E6%B3%95%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F/">端传媒<em><em>｜</em></em>“习核心”的政治提法将成为主流吗？</a><em>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333.jpg" alt="习近平" width="435" height="346" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-300x239.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-768x611.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-1024x814.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/333.jpg 1207w" sizes="(max-width: 435px) 100vw, 435px"><br><a href="https://freeweibo.com/weibo/3937458473471944" target="/weibo/393">2016年01月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%8D%A3%E5%89%912001">荣剑2001</a>：这个讨厌的索罗斯来了，金融战是不是已经打响？今天股市又是暴跌，如果熔断机制不终止，今天铁定熔断！国家统计局局长王保安刚批完索罗斯，自己就被立案审查！做空中国的敌对势力究竟是来自境外还是来自队伍内部？去年党报言之凿凿，说四千点是牛市的起点，现在看来要直奔两千点了。究竟谁在做空中国？<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-5.jpg" alt="股市" width="402" height="536" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-5-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/333-5-768x1024.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-5.jpg 960w" sizes="(max-width: 402px) 100vw, 402px"><br><a href="https://freeweibo.com/weibo/3935677416912867" target="/weibo/393">2016年01月26日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%AF%9B%E7%97%85%E6%9C%AA%E6%94%B9%EF%BC%8C%E7%A7%AF%E6%81%B6%E6%88%90%E4%B9%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%BB%E6%AF%9B/?category=18271" rel="tag">去毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">央视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%B8%A3/?category=18271" rel="tag">张鸣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%98%E9%87%91%E7%8E%B2/?category=18271" rel="tag">潘金玲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/?category=18271" rel="tag">独立思考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E8%AF%92%E5%92%8C/?category=18271" rel="tag">章诒和</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">罗昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E6%96%B0%E4%BA%AD/?category=18271" rel="tag">袁新亭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E7%AB%8B/?category=18271" rel="tag">袁立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9A%84%E5%99%A9%E6%A2%A6-%E8%90%A8%E6%8B%89%E8%8F%B2%E6%B4%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B4%E8%B5%B7/" target="cdt-mirror">万维读者网｜北京的噩梦——萨拉菲派在中国兴起</a>
 </h2>
 <p><p><strong>万维读者网（Creaders.net）记者江夏编译报道：</strong>美国《洛杉矶时报》日前发表驻北京记者凯曼（Jonathan Kaiman）的文章说，甘肃临夏250,000人口中，约六成是穆斯林。但其中除了主流穆斯林外，还有萨拉菲派信徒。</p>
@@ -730,89 +752,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9A%E9%98%BF%E7%8E%9B%E5%B0%BC%E5%B0%91%E5%B9%B4/" target="cdt-mirror">墙外楼 | 共产主义接班人：阿玛尼少年</a>
-</h2>
-<p><p>@remonwangxt：一位身著阿瑪尼的十三歲少年列席深圳兩會，接受採訪時他說“不要讓一張考卷決定我們的未來”，當然，在趙國，大多數少年先鋒隊隊員的未來是從受精卵那一刻就已經決定了的。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUMAEIUpN.jpg" alt="CaBC9GxUMAEIUpN" width="500" height="889"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUAAEzjTz.jpg" alt="CaBC9GxUAAEzjTz" width="600" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUAAEzjTz-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GxUAAEzjTz.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GzUUAAa_vo.jpg" alt="CaBC9GzUUAAa_vo" width="600" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GzUUAAa_vo-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9GzUUAAa_vo.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9IyUEAARbs5.jpg" alt="CaBC9IyUEAARbs5" width="500" height="445" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9IyUEAARbs5-300x267.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaBC9IyUEAARbs5.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></p>
-<p>【列席政协会议13岁初中生母亲回应名牌西服】西装是参加音乐会时，主办方送的演出服装。在路上才发现，这件衣服是某品牌的，本想到会场里再想办法解决。没想到，我们刚到会场门口，媒体就开始对着柳博拍照。然而，網友發現了更多阿瑪尼……</p>
-<p>哈哈，為阿瑪尼代言的少年，他只穿這個牌子，肯定是贊助商幹的。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUEAEFAIk.jpg" alt="CaDjy4dUEAEFAIk" width="600" height="901" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUEAEFAIk-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUEAEFAIk.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUkAEb7Li.jpg" alt="CaDjy4dUkAEb7Li" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUkAEb7Li-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4dUkAEb7Li.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4jUAAA59z5.jpg" alt="CaDjy4jUAAA59z5" width="600" height="472" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4jUAAA59z5-300x236.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy4jUAAA59z5.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy6XUMAA6gd7.jpg" alt="CaDjy6XUMAA6gd7" width="600" height="800" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy6XUMAA6gd7-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/CaDjy6XUMAA6gd7.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaERE0RUUAAG09a.jpg" alt="CaERE0RUUAAG09a" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaERE0RUUAAG09a-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaERE0RUUAAG09a.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREkbUMAAazt0.jpg" alt="CaEREkbUMAAazt0" width="600" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREkbUMAAazt0-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREkbUMAAazt0.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO.jpg" alt="CaEREqNUAAI89YO" width="600" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/CaEREqNUAAI89YO.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaERESoUMAAmRMi.jpg" alt="CaERESoUMAAmRMi" width="600" height="450" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaERESoUMAAmRMi-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaERESoUMAAmRMi.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p>有人问参与深圳“两会”的孩子如果不是穿阿玛尼，而是穷人的孩子，是否会被诟病？我想如果是穷人的孩子上“两会”或许不被攻击，但也不合适，第一他们是否有能力参与政治讨论？第二是程序问题，谁可以参与，参与者如何产生？如果这些不透明，一样是有大问题的。</p>
-<p>少年穿了阿玛尼，没有人讨论他的提案。有怎么样的生活水平就过怎么样的生活，阿玛尼，谁穿不起了。可是少年啊，考卷应该已经是很公平的了，不用考卷，你让农村的孩子学艺术还是上补习班参加竞赛和城里人拼吗？</p>
-<p>小小年纪就敢收这么贵的礼（他妈说西服是主办方送的），等你真当了接班人胃口得多大啊十个康师傅都不够啊。另外，叫博的都很出众，前有五道杠黄艺博，后有阿玛尼。</p>
-<p>看了深圳阿玛尼少年风波及其母对媒体采访的答复，再次感到，有些高收入者还是不要太热衷政治，免得害自己。清楚自己的长处，发挥自己的长处，避开短处，比什么都好。巴列维时期伊朗城市中产阶层想要更多，最后得到了什么？</p>
-<p>在社会矛盾很激烈的当下，有钱人家的孩子偷着乐就行了，冒充共产主义接班人抛头露面就是自找民愤了。深圳阿妈妮少年的父母很是不智。</p>
-<p>未来的养鹅人，十三岁就穿阿玛尼西服的小公仆好顶赞。</p>
-<p>这算七道杠？</p>
-<blockquote><p>14岁少年列席政协会议 身穿阿玛尼惹争议</p>
-<p>对话</p>
-<p>柳博妈妈：阿玛尼是别人送的演出服</p>
-<p>北青报：柳博什么时候接到列席政协会议的通知？</p>
-<p>毕女士：今年1月18日左右接到的通知。当时我看到邮箱里有一份列席两会的青年代表信息表，还不知道是怎么回事，然后就打电话给表格上的联系人，对方说是让柳博列席今年的深圳市两会。我当时还挺惊讶的，因为在印象里，没有听说过让小孩能列席两会的，后来深圳团市委的人说，柳博是这10个青少年代表中，唯一一个学生代表。</p>
-<p>北青报：“不要让考卷决定未来”的建议柳博是如何提出的？</p>
-<p>毕女士：这个建议是1月27日，柳博在深圳市两会召开前的一个座谈会上提出的。他现在快上初三了，平时考试压力很大，虽然成绩不错，但也会经常跟我说，感觉一次考不好，自己的形象就会受到影响。他认为这种情况要改变，不能让考试来决定一个人的好坏。</p>
-<p>柳博从小参与了很多活动，比如演出、主持、做义工等等。他跟我说，在这些活动中能学到很多，但是现在学习任务紧，学校对成绩特别在意。柳博觉得一个人的综合能力也很重要，不能说考试考得好就是最好的，所以就提出了这个建议。</p>
-<p>北青报：年龄小，能听得懂会议内容吗？</p>
-<p>毕女士：他完全听得懂。柳博在列席这次政协会议以前，参加过中国少年先锋队第七次代表大会，也在其他的一些会议中担任学生代表，他经常接触这些会议，而且平时也跟大人谈社会问题，有自己的思想。在这次政协会议上，有记者在一边给他拍照的时候他都低着头，我就问他为什么，他说他在看会议发的材料，没时间管别的。</p>
-<p>北青报：柳博有说列席这次政协会议的收获吗？</p>
-<p>毕女士：他回来说，这次列席政协会议跟以往参加的会议区别很大。他说以前的会议都是跟青少年儿童有关的，但这个会议讲的是社会现象和社会建设方面的问题，像一些关于污染、汽车尾气、城市建设的议题。他说妈妈，我平时去玩也没看到有这么多问题啊，现在委员一说，我一想还真对，不去治理，深圳以后不会这么好了。</p>
-<p>北青报：柳博参加会议时穿的是知名品牌的西装，这是特地准备的吗？</p>
-<p>毕女士：这是一个疏忽。柳博身上穿的这套西装是去年在北京参加一个音乐会时，主办方送给他的一套演出服。会议开始前，柳博刚从一个训练营赶回来，校服和平时穿的衣服都不在家里，然后刚好找到了这套西装，一穿还挺合适的，所以就这样出门去参加会议了。</p>
-<p>在路上我才发现，这件衣服是阿玛尼的，在胸前还有标志，可是怎么抠都抠不下来，想着到会场里再想办法解决。没想到，我们刚到会场门口，媒体就开始对着柳博拍照。我注意到有网友在说这个了，这个事确实是个失误。</p>
-<p>北青报：作为家长，你怎么看待孩子这么早就接触大型会议？</p>
-<p>毕女士：首先能让参加会议，是一个很好的改革举措。作为一个初中生，他已经有自己的想法了，他知道社会上属于自己的责任和担当，知道未来会面对什么。</p></blockquote>
-<p><strong>网友评论：</strong></p>
-<ul><li>太爷在中央， 老爷在省委， 少爷在市委， 三代同朝吊炸天。</li>
-<li>这位小爷可是童星来的，我很喜欢他的贺年歌曲mv，说错，是我儿子喜欢。</li>
-<li>真无法理解吊打一个13岁小孩子的行为，他的言论和他的装扮相比，拍着良心说哪个更让网民嫌恶？13岁小孩子讨厌考卷，也许真的就是因为学习枯燥乏味，我小时候也这样认为啊。“素质教育”的推动者们当然是存着阶级固化的坏心，但并不意味着轮一个穿了也并没贵上天际的阿玛尼童装有什么正义可言。</li>
-<li>穿阿玛尼列席深圳“两会”的13岁少年说“不要让一张考卷决定未来、决定一生。现在最迫切的难道不应该是教育资源的分配相对公平问题吗？对师资力量都充裕的大城市，所谓的素质教育确实在一步步加大力度，但是二三线城市，农村呢？</li>
-<li>
-<li>官方已经定性少年穿阿玛尼是不小心没注意穿上的。</li>
-<li>好阔气的主办方，演出服送阿玛尼。。呵呵厚</li>
-<li>“去年在北京参加一个音乐会时，主办方送给他的一套演出服” 故事会不会太曲折？</li>
-<li>呵呵，越描越黑。</li>
-<li>你们都理解错了，她是在为自己家正名。网上最近流传几种说法，有说这套阿玛尼不贵的，有说参加这么大会议穷人咬咬牙也能买的，有说标志山寨的。都错了！简直是侮辱！毕女士说这是演出主办方送的，你们想想演出送演出服，还送的是阿玛尼，主办方需要什么样的底气，被送的这位小伙子又该是何等尊贵的身份，毕女士实际上是隐晦的暗示你们讨论火热的高档衣服其实只是我们随便参加演出别人送的一件而已。</li>
-<li>我记得蜗居里面就有这一段：我这里刚好有个房子，没人住，来钥匙给你了。</li>
-<li>我还以为在天安门旁边的厕所里捡的。</li>
-<li>这其实是说“实在抱歉穿了免费赠送的衣服出席这种正式场合，衣服上还带那么明显的logo实在是没品”的吧？</li>
-<li>微博上周末加班洗地的五毛又被赵家的扇了一巴掌。</li>
-<li>这小屁孩家里应该很有钱，或者很有权，能被人赞助160万开演唱会。</li>
-<li>从小拥有强烈的阶级意识，更能证明家庭是相当优越的。</li>
-<li>小朋友家里有钱或者有权，自然不用读书，小朋友这次最大的问题是做了份报告，要求不能以成绩来决定孩子的未来，这要是成真了，得断送多少普通家庭的孩子和贫困地区的孩子。</li>
-<li>考试制度越刻板，越公平；越灵活，越腐败。高考不管问题有多少，目前来看是这个社会不多的公平事儿。</li>
-<li>随便穿的别人送的衣服都很合身，可见送的人花了多大心思，更显尊贵。</li>
-<li>而且这件可能真是孩子衣橱里最便宜的了。</li>
-<li>别的不说，红领巾系成这个吊样子，老师都不敢放个屁的，那一定是牛后。</li>
-<li>放百度，直搜其名，亮瞎狗眼，人家是新浪大V,影视演员歌手主持人，有自己贴吧，科科学习标兵三好学生老师称宝贝海外表演人民大会堂献礼。</li>
-<li>广东省都为其定做衣服，阿玛尼算个屁，真的。</li>
-<li>另外，自孩子是老家佳木斯，从小就出名了，也不是这几天开始的，只能说父母培养得好啊。跟林妙可一个级别的，也许单纯只是童星而已。父母培养的好呗。毕竟代表全广东的佳木斯少年。母亲毕红霞。</li>
-<li>应该真的只是随手拿了一件，只是根本没便宜货，为了参加会议特别去买一件便宜的，太做作了不是么。</li>
-<li>而且以这个孩子的成长轨迹，就算买件阿玛尼送件阿玛尼，这都不奇怪，人家是混娱乐圈的，有全球粉丝超一万名。</li>
-<li>我倒觉得可能还真的是演出送的。</li>
-<li>另外，能参加这个会议也的确说明了家里条件比较好这也很正常。</li>
-<li>自身没有一定背景的能被选上去吗？想想都知道啦！</li>
-<li>就好像记者路上采访的路人其实是某领导之类的！</li>
-<li>私有財產神聖不可侵犯，但你匪不承認。而且你匪標榜無產階級，以窮為美，以土為美，少年兒童要艱苦樸素，這個趙四代哪點都不符合。對你匪不滿但無法直接攻擊的階層自然咬住不放，發洩渾身的怒火，指桑罵槐。</li>
-<li>我来洗地了，你们只是嫉妒人家有钱！穷人就喜欢仇富。</li>
-<li>这是一个体贴的主办方，一年四季都齐了。</li>
-<li>不过我觉得真越描越黑，直接说家里有钱自己买的不就好了。</li>
-<li>越描越黑，其实直接说家里有钱不就好了。有钱人这么多，穿这个衣服有什么奇怪的。</li>
-<li>是阿玛尼的代言人吗？5000一件的衬衫和1W5一件的西服当便服穿，而且品牌忠诚度很高啊，有没有他穿其他奢侈品品牌的照片？</li>
-<li>话说这小孩到底是谁？和吴应熊一个级别吗？ 我朝常委没有姓柳的吧。</li>
-<li>TG一向宣传要艰苦朴素，还选穿阿玛尼的人去参政议政。</li>
-<li>政协，还有明星商人，小孩子家里有钱，除非他家里是官员敛财，否则有什么好喷？</li>
-</ul><p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9A%E9%98%BF%E7%8E%9B%E5%B0%BC%E5%B0%91%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">人大代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98/?category=18271" rel="tag">官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%8D%9A/?category=18271" rel="tag">柳博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">深圳两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%8D/?category=18271" rel="tag">西服</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E7%8E%9B%E5%B0%BC/?category=18271" rel="tag">阿玛尼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -824,7 +763,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +773,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

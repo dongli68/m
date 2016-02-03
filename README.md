@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,81 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/427470/" target="cdt-mirror">“回到台湾像回到原始社会”的作者到底是什么人？</a>
+</h2>
+<p><p>共青团中央近日转发一则据称是台湾人比较两岸网络状的文章，作者在文中声称自己<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%8F%B0%E6%B9%BE%E4%BA%BA%EF%BC%9A%E4%BB%8E%E5%A4%A7%E9%99%86%E5%9B%9E%E5%88%B0%E5%8F%B0%E6%B9%BE%E5%83%8F%E5%9B%9E%E5%88%B0%E5%8E%9F%E5%A7%8B%E7%A4%BE%E4%BC%9A/">从大陆回到台湾像回到原始社会</a>。 截止至发稿时，<a href="http://weibo.com/3937348351/Dg0jlbDKn">该微博</a>已收到5000多条转发、近5000条评论和2000+的赞。原文作者在微博表示，该文在微信和微博的点击率加起来已经超9000万。</p>
+<p>据<a href="http://www.guancha.cn/local/2016_01_31_349870.shtml">观察者网称</a>：</p>
+<blockquote><p>一位自称是生活在大陆的台湾人的天涯网友@中华阿靓，根据自身经历，从订餐、看电影、购物等多个方面向大家展示两岸网络的差异，在他眼里，离开大陆的网络世界回到台湾，有种回到了原始社会的感觉。</p></blockquote>
+<p>但也有读者质疑，认为该文使用的完全是大陆的用语习惯，比如通篇使用“网络”而非“网路”等，与台湾国语的使用习惯相差甚远。所以，@中華阿靚 真的是台湾人吗？</p>
+<p>中国数字时代编辑在仔细阅读了@中華阿靚 的微博后，得出以下结论：</p>
+<blockquote><p><strong>老家山东潍坊，微博曾用名“松以静延年”，曾／或现仍住烟台，曾／或仍就职与通用汽车烟台工厂，本科就读于中国人民解放军理工大学。</strong></p></blockquote>
+<h3><span><strong>以下图片均为@中華阿靚 微博截图</strong></span></h3>
+<p> <br><strong>台湾人也会有知青情怀吗？</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A2.png" rel="attachment wp-att-427474"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A2.png" alt="中華阿靚2" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚2-300x294.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚2.png 602w" sizes="(max-width: 602px) 100vw, 602px"></a></p>
+<p>图中@中華阿靚 曾呆过4年点教学楼位于<strong>中国人民解放军理工大学</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%AF%8D%E6%A0%A1.png" rel="attachment wp-att-427484"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%AF%8D%E6%A0%A1.png" alt="母校" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/母校-300x274.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/母校-768x701.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/母校.png 804w" sizes="(max-width: 804px) 100vw, 804px"></a></p>
+<p>同款教学楼，网络图片：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027.jpg" rel="attachment wp-att-427473"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027.jpg" alt="13257302902027" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027-300x208.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027.jpg 602w" sizes="(max-width: 602px) 100vw, 602px"></a></p>
+<p>这样就不难理解@中華阿靚 所谓的“青春，回忆，血汗”，原来是来自解放军理工大学：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%84%9F%E6%83%85%E5%9C%A8%E8%BF%99%E9%87%8C%E3%80%82%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9B%9E%E5%BF%86%EF%BC%8C%E8%A1%80%E6%B1%97%E3%80%82-%E6%9D%A5%E8%87%AA%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A-%E5%BE%AE%E5%8D%9A-2016-02-02-17-22-08.png" rel="attachment wp-att-427475"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%84%9F%E6%83%85%E5%9C%A8%E8%BF%99%E9%87%8C%E3%80%82%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9B%9E%E5%BF%86%EF%BC%8C%E8%A1%80%E6%B1%97%E3%80%82-%E6%9D%A5%E8%87%AA%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A-%E5%BE%AE%E5%8D%9A-2016-02-02-17-22-08.png" alt="感情在这里。青春，回忆，血汗。 来自中華阿靚 - 微博 2016-02-02 17-22-08" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/感情在这里。青春，回忆，血汗。-来自中華阿靚-微博-2016-02-02-17-22-08-300x293.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/感情在这里。青春，回忆，血汗。-来自中華阿靚-微博-2016-02-02-17-22-08.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
+<p><strong>老家山东潍坊：</strong></p>
+<p>《致工学博士潍坊市长徐立全先生有关拆迁问题的公开信》<strong>是一名清华博士在老家被强拆后所写</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E4%B9%A1.png" rel="attachment wp-att-427478"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E4%B9%A1.png" alt="老乡" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/老乡-300x132.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/老乡.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
+<p><strong>从@中華阿靚 以往的微博内容可以看出，他至少直到2013年仍居住在烟台：</strong></p>
+<p>个性域名是“yantai001”：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/yantai001.png" rel="attachment wp-att-427498"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/yantai001.png" alt="yantai001" width="375" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/yantai001-300x192.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/yantai001.png 402w" sizes="(max-width: 402px) 100vw, 402px"></a></p>
+<p>在2016年1月前，<a href="http://www.shm.com.cn/ytrb/html/2016-01/26/content_3153966.htm">烟台市民休闲护照</a>只提供给“烟台市民、在烟大中专院校学生和驻烟军人”：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%82%E6%B0%91%E4%BC%91%E9%97%B2%E6%8A%A4%E7%85%A7.png" rel="attachment wp-att-427492"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%82%E6%B0%91%E4%BC%91%E9%97%B2%E6%8A%A4%E7%85%A7.png" alt="市民休闲护照" width="400" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E7%83%9F%E5%8F%B0%E9%93%B6%E8%A1%8C%E6%A1%88%E4%B8%AD%E6%A1%88-1.png" rel="attachment wp-att-427493"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E7%83%9F%E5%8F%B0%E9%93%B6%E8%A1%8C%E6%A1%88%E4%B8%AD%E6%A1%88-1.png" alt="烟台银行案中案" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/烟台银行案中案-1-300x119.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/烟台银行案中案-1.png 603w" sizes="(max-width: 603px) 100vw, 603px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%9C%89%E7%83%9F%E5%8F%B0%E7%9A%84%E5%90%97.png" rel="attachment wp-att-427483"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%9C%89%E7%83%9F%E5%8F%B0%E7%9A%84%E5%90%97.png" alt="有烟台的吗" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/有烟台的吗-300x241.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/有烟台的吗.png 601w" sizes="(max-width: 601px) 100vw, 601px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%A0%B5%E8%BD%A6.png" rel="attachment wp-att-427476"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%A0%B5%E8%BD%A6.png" alt="堵车" width="475" height="255"></a></p>
+<p><strong>种种迹象表明@中華阿靚 曾／任就职于通用汽车：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A1.png" rel="attachment wp-att-427477"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A1.png" alt="中華阿靚1" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚1-300x226.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚1.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6-1.png" rel="attachment wp-att-427487"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6-1.png" alt="通用汽车" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/通用汽车-1-300x176.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/通用汽车-1-768x452.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/通用汽车-1.png 806w" sizes="(max-width: 806px) 100vw, 806px"></a></p>
+<p>（<a href="https://en.wikipedia.org/wiki/Daniel_Akerson">Daniel Akerson</a> 是前通用汽车 CEO）<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/danakerson.png" rel="attachment wp-att-427489"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/danakerson.png" alt="danakerson" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/danakerson-300x204.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/danakerson-768x522.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/danakerson.png 803w" sizes="(max-width: 803px) 100vw, 803px"></a></p>
+<p>上海通用总部，当然是在上海：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E5%82%BB%E9%92%B1%E5%A4%9A.png" rel="attachment wp-att-427488"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E5%82%BB%E9%92%B1%E5%A4%9A.png" alt="人傻钱多" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/人傻钱多-300x229.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/人傻钱多-768x586.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/人傻钱多.png 804w" sizes="(max-width: 804px) 100vw, 804px"></a></p>
+<p>值得一提的是，@中華阿靚 还转发过前“人生赢家”芮成钢的鸡汤：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%AE%E6%88%90%E9%92%A2.png" rel="attachment wp-att-427485"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%AE%E6%88%90%E9%92%A2.png" alt="芮成钢" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/芮成钢-300x219.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/芮成钢.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
+<p>曾将“既得利益者”批判了一番：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85.png" rel="attachment wp-att-427486"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85.png" alt="既得利益者" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/既得利益者-300x240.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/既得利益者-768x615.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/既得利益者.png 805w" sizes="(max-width: 805px) 100vw, 805px"></a></p>
+<p><strong>至少，黄安是真正存在的台湾人。</strong></p>
+<p><em>附<a href="http://weibo.com/yantai001">@中華阿靚</a> 的成名感言：</em></p>
+<blockquote><p>中華阿靚：剛才看到國觀有人在談論我，雜談有人在跟貼中議論我，我的文章被猪油時報，旺報，中時報，臺灣網站，鐵血網，凱迪社區，猫撲網，西祠胡同，轉載的很多很多，由我的貼子而引發的傳統媒體新聞爭議事件，起碼有五六次了吧。想了想，自己確實寫了很多震耳欲聾、膾炙人心的經典好貼。人一出名，壓力自然來。</p>
+<p>中華阿靚：阿靓的一篇ＰＯ文，被国内外媒体争相转载，更引发了国外商业巨头的注意，他们仿佛在一夜之间才意识到中国互联网商业已进化到最高端——手机互联网商业化。外国人一直不愿承认中国在互联网上已走在他们前列，装睡的人是叫不醒的，只能打醒。这下好了，被阿靓的ＰＯ文打醒了。</p>
+<p>中華阿靚：微信和微博的点击率加起来已经超过9000万了！ 美国，德国，法国，西班牙，日本，韩国，印度都在讨论我的帖子，全部是赞同和羡慕的，有很多来过中国的外国人现身说法！ 差点得诺贝尔经济奖的张五常老师转载并深表赞同！ 国台办，共青团中央，观察者网，头条网都转发了！ 中華阿靚</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/427470/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%B9%B8%E7%A6%8F%E5%90%97/?category=18271" rel="tag">你幸福吗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">编造“中国梦”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BC%AF%E9%80%9A%E6%9D%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E6%95%AC%E4%B8%9A%EF%BC%9F/" target="cdt-mirror">伯通李：中国人凭什么要敬业？</a>
+</h2>
+<p><p>最近很多人在吐槽支付宝红包收集五福的活动，但我对于这个产品隐含的时代切入感却十分欣赏（即便这种传销类活动本身也让我厌烦）。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/af59ad0cjw1f0jvvzk1hpj20go0sg76d.jpg" alt="af59ad0cjw1f0jvvzk1hpj20go0sg76d" width="440" height="751"></p>
+<p>你看，这五福分别是富强、和谐、友善、爱国、敬业。这些词汇都来自十八大提出的“社会主义核心价值观”，却又恰好遗漏了“自由、公正、民主”这几个价值观。有人说，支付宝这是暗讽中国没有自由民主，我认为这种言论还是太幼稚。</p>
+<p>试想，如果加上这些价值观，那大家集福时会怎么说？“我没有自由，想要公正！”“就差一个法治了！”“我想要民主，能给我吗？”……作为一家实际上随时可以姓赵的公司，怎么会犯这种低级错误呢？</p>
+<p>同样，把“敬业”作为一次卡牌游戏中掉落几率最低的卡片，也是颇具时代感的设计。</p>
+<p>2013年时，盖洛普调查公司曾经公布了一份“全球员工敬业度调查”——中国人的敬业程度排在全球倒数第7，26%的中国员工处于最糟糕的怠工状态，这部分人不仅讨厌自己的工作，而且还会暗中破坏同事们的工作成果，以发泄心中不快，有68%的中国员工没什么工作积极性，基本上每天梦游度日，对工作漠不关心。而仅有6%的中国员工对自己的工作充满热情，并把工作时间用于推动创新和促进受雇组织的进步。</p>
+<p>进一步的数据显示，无论工作者是什么教育背景或者从业领域，中国员工的敬业程度都没有太大差别，都属于全世界最不敬业的员工。</p>
+<p>所以说，中国人根本不配拿到这张“敬业福”，这个逻辑是完全说得通的。</p>
+<p>但这就引发了更深的一层思考：中国人为什么不敬业？</p>
+<p>在传统种群印象中，华人一向是辛勤劳碌的形象，数据也佐证了这种印象——按经合组织(OECD)2011年的数据，在三十个经合组织成员国和重要观察国中，中国人的日均工作时长高居第四，仅次于日本、韩国和墨西哥，比经合组织平均水准长了22.7%，比德国、丹麦等欧洲国家长了50%以上。除此之外，中国的法定假期和带薪假期在世界上也是公认地短。</p>
+<p>如果个体在经济活动中不积极，最容易找出来的就是经济原因。“劳动报酬占GDP比重”和“人均可支配收入增速与GDP增速比”是两个互为因果的难兄难弟：从1979-2011年，劳动报酬占GDP比值几乎连续30年下降，直到2014年时才罕见的扳回一城。</p>
+<p>这和中国过去几年间的时局何其相似！2011年，正是创业风潮开始抬头的时节，随着收入增速跑赢GDP，2014年又成为舆论纷纷反思创业的一年。人们在趋利避害的选择间，不经意透露出“天下苦工资低久矣”的事实。</p>
+<p>工资低就算了，还爱加班。一项针对8个国家8000名员工的调查显示，中国员工公认最勤劳，每周平均工作44.6小时。</p>
+<p>很多年轻人都会被各互联网公司广告公司在招聘启事中黑体加粗标明的“水果零食食堂三餐健身房母婴室节日礼品餐补车补通讯补各类团建高大上逼格闪闪亮”欺骗，要知道那不过都是拿天天加班换来的些微抚恤而已。</p>
+<p>正如盖洛普调查透露出来的信息一样——从工作领域来看，最不敬业的不是专业化程度最低的体力劳动者，而是办公室里的上班族——不仅敬业者比例最少，而且怠工者比例也最高。</p>
+<p>这个国家的互联网公司市值全球第二（正如支付宝中的“富强”是最容易收集到的），却依然没有改变较差的福利和健康环境。这并不是中国员工不敬业的全部理由，但足以成为重要因素。</p>
+<p>怎么解决呢？什么时候其余那几项“社会主义核心价值观”都集齐了，可能就可以兑换“敬业”了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BC%AF%E9%80%9A%E6%9D%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E6%95%AC%E4%B8%9A%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%AF%E4%BB%98%E5%AE%9D/?category=18271" rel="tag">支付宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%AC%E4%B8%9A%E7%A6%8F/?category=18271" rel="tag">敬业福</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BA%94%E7%A6%8F/?category=18271" rel="tag">集五福</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-2/" target="cdt-mirror">变态辣椒：To 共青团</a>
 </h2>
 <p><p>变态辣椒 <a href="https://twitter.com/remonwangxt/status/694340656156676096">@remonwangxt</a>：共青團的微博發了這樣的漫畫，請轉達我對他們的回敬</p>
@@ -851,66 +923,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/fb%E8%A1%A8%E6%83%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BC%97%E8%A8%80%E7%A1%AC%E7%9D%80%E9%99%86%EF%BC%8C%E4%B8%BA%E4%BD%95%E7%B4%A2%E7%BD%97%E6%96%AF%E7%8B%AC%E6%8B%9B/" target="cdt-mirror">美国之音 | 何清涟：众言硬着陆，为何索罗斯独招中国恨</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-%E4%B8%8B%E5%8D%885.40.28.png" alt="Screen Shot 2016-01-31 at 下午5.40.28" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-下午5.40.28-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-下午5.40.28.png 637w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><strong>编者按：这是何清涟为美国之音撰写的评论文章。这篇特约评论不代表美国之音的观点。转载者请注明来自美国之音或者</strong><strong>VOA</strong><strong>。</strong></p>
-<p>最近索罗斯在中国再度红得冒火，引起一干官媒口诛笔伐，切齿之声境外可闻。说起来，谈中国经济“硬着陆”者不止索罗斯一人，中国为何单挑索罗斯做为“中国人民的敌人”，这里面究竟有什么讲究？</p>
-<p><strong>索罗斯到底刺痛了北京哪根神经？</strong></p>
-<p>因为索罗斯最近在达沃斯论坛上说的那番话，新华社中英文评论文章一齐出动，或指“索罗斯的这种观察视角显然属于选择性失明”，或者威胁说“那些急切砸盘套利的投机者和恶意做空者，面临更高交易成本乃至严重的法律后果”，再或讽刺挖苦，比如1月26日《人民日报》海外版头版发表《向中国货币宣战？呵呵》评论文章，称“索罗斯对人民币和港元的挑战不可能成功”。看这些文章，索罗斯“做空中国”的阴谋似乎正在实施。</p>
-<p>所有文章集中批的是索罗斯的发言，并未指出索罗斯为实施“做空中国”阴谋在中国资本市场上翻江倒海。那么，索罗斯在达沃斯世界经济论坛上究竟说了些什么话，让中国当局如此痛恨莫名？其实，索罗斯主要表达了三点：</p>
-<p>第一，“世界经济正在重蹈2008年金融危机前夕的覆辙，但两次危机并无可比性，因为这次危机的根源是中国”。</p>
-<p>第二，“中国目前主要问题是通缩与高负债率，经济硬着陆很难避免。但肯定可以继续发展两三年时间”。</p>
-<p>第三，“中国能管理（硬着陆）问题，因为中国在资源和政策选择上空间更为广阔，这是由于背后3万亿的外汇储备等原因。”</p>
-<p>接下来，我想分析索罗斯的观点究竟有什么“错误”。</p>
-<p>关于第一点。这句话其实半点都没错，中国政府很不爽的是索罗斯认为中国抗击金融危机的能力弱于美国。但这确是事实。2008年金融危机发生之时，美国只是虚拟经济出了严重问题，实体经济基本完好。科技仍然领先世界，教育仍然是美国一大产业，制度环境也没有问题。因此，过了两三年，在华的美国制造业深感本国各方面条件优于中国，大量回流。这与中国目前实体经济面临多重困难完全不同。这些困难，比如中国经济结构不良；制造业几十个行业严重产能过剩、企业破产潮一波接一波；技术创新能力不足等等，这些都是国内经济界公认的问题，政府也早就承认。基于此，索罗斯认为危机没有可比性，当真千真万确。</p>
-<p>关于第二点。关于中国的高负债率，这是国际投行界的共识，中国官方研究智库也持同样看法，区别只是负债率的百分比有些差别。根据彭博2015年7月发布的统计数据，截至2015年6月底，中国企业和家庭的未偿还贷款占GDP的比例为207%，远远超过2008年的125%。国际货币基金组织（IMF）2015年8月发布的中国经济评估报告显示，中国实际债务总额（包含地方政府融资平台的债务与企业债务）占GDP的比重将在2020年升至250%。</p>
-<p>2015年7月，中国社会科学院发布《中国国家资产负债表2015》，报告称，2014年末，中国经济整体（含金融机构）的债务总额为150.03万亿元，其占GDP 的比重，从2008 年的170%上升到235.7%，6年上升了65.7个百分点。</p>
-<p>至于中国经济衰退会引起全球通缩还是通胀，属于技术层面的预测，比如前些年中国自家的经济学家预测通缩，结果是通胀。索罗斯说了一句“通缩”，就往“做空中国”这个大题目上扯，实在有点“欲加之罪”的味道。</p>
-<p>关于第三点。 “硬着陆”三个字不合中国政府宣传口径，其余几乎全是对中国政府管理能力的正面表达。近三年以来，国际金融商业界渐渐统一了认识，中国经济衰退不可避免，区别在于“软着陆”还是“硬着陆”。</p>
-<p>中国政府当然喜欢听“软着陆”，这点心思也好理解。好比一架飞机遇上危险不得不迫降时，机师技术高，运气好，就能够软着陆，有惊无险，虽然不免擦出火花，飞机受损，有些轻微伤亡，但总体上人机平安；如果机师技术差点火候，加上运气不好，飞机着陆时起火、撞毁，最严重的结果是机毁人亡。</p>
-<p>设身处地，有谁想听“硬着陆”这种不祥预言呢？更何况中共政府从毛泽东开始，就没有树立倾听不同意见的优良传统，都以“射杀带坏消息来的人”为能事，区别只是程度不同。</p>
-<p><strong>索罗斯为何被选为“做空中国”的替罪羊？</strong></p>
-<p>中国挑索罗斯做“替罪羊”，只因他是“天时、地利、人和”集于一身的不二人选。</p>
-<p>先说“天时”。中国经济目前正在释放各种利坏消息，以至于国际投行业那群中国经济的“铁粉”最近也转向，按中国的说法就是开始“唱衰中国”了。比如总部位于纽约的“中国褐皮书国际”（CBB International）发布的《中国褐皮书》，在2015第三季度还认为对中国经济的悲观看法“完全脱离事实”，到第四季度基调转向：认为“四季度经济不安，状况全面恶化”，全然忘记了第三季度的报告怎么说了。目前，中国股市提振无望；汇市险情迭出；尽管政府方法出尽，资本仍然加速外流。2015年股市救市不成功，都以“做空中国”为名抓了几十位证券界干才，给索罗斯套上一顶“做空中国”的帽子罩在他头上，比抓本国证券界干才更容易。</p>
-<p>再说“地利”。索罗斯如果是英国人、法国人，这次中国政府不会找他的晦气，毕竟英、法两国不是中国政府经常指称的“境外势力”的代表，偏偏索罗斯是美国投资界顶尖人物，完全符合北京挑选“境外势力”的国别标准。</p>
-<p>最后就是“人和”了。在中国政府一以贯之的宣传里，索罗斯是个有“做空他国”前科的国际金融大鳄，成天在找吞食对象。索罗斯曾于1992年对英国央行发起狙击，让英国几乎陷入金融危机；1997年索罗斯在泰国开放外汇市场的当天做空泰铢，引发了让东南亚遭受重创的亚洲金融危机。紧接着索罗斯在1998年又做空港股，逼得香港向北京求救，幸亏总理朱镕基多谋善断，毅然决定从当时1200亿外汇储备中借给香港金管局数百亿（北京坊间传说是280亿），让香港政府得以用“挟息”手段迫退了索罗斯的进击。凤凰网不久前还在《人民币反击战：与1998年香港打击索罗斯手法如出一辙》一文中，回顾了这段光荣岁月。</p>
-<p>索罗斯与中国的旧怨不止上述几件。20世纪80年代，索罗斯曾希望帮助中国改革开放，为此在北京设立了开放基金会中国办公室，中国安排了国家安全部副部长凌云担任基金会的中方负责人。六四之后，当局为了打击赵紫阳，公安部捏造了一个说法，声称赵紫阳通过索罗斯充当美国间谍，《华盛顿邮报》刊登这一来自中国的消息后，索罗斯写信给邓小平驳斥此诬陷，中国政府于是不再提这一诬陷之说。</p>
-<p>中国政府挑选索罗斯，当然也因为索罗斯这种投资奇才乃世不二出之人物。无论是国家还是个人，败在弱者手里是耻辱，但败在强者手里则会大大降低耻辱感。中国政府现在也知道，“硬着陆”难以避免，万一不幸起火冒烟，酿至严重后果，有了索罗斯这只“替罪羊”，至少也可以向世界表明：并非本党管理经济不力，实在是索罗斯这位敌手太过强大。那么多政府都吃过他的亏，本政府吃点亏也不算栽了面子。更何况，咱国1998年还赢过索罗斯一个回合。</p>
-<p>有了这些“天时、地利与人和”，索罗斯这次被北京挑中，成为“做空中国”的替罪羊，实在是“命中注定”。</p>
-<p>事情说穿了就这么简单。我相信，所谓索罗斯“做空中国”说，在中国至少有七成官媒受众相信。戈培尔早就说过，谎话重复一千次就成为真理。更何况，中国有大批毛左，还有无数“小粉红”，《人民日报》与新华社等媒体的口水决不会白溅。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BC%97%E8%A8%80%E7%A1%AC%E7%9D%80%E9%99%86%EF%BC%8C%E4%B8%BA%E4%BD%95%E7%B4%A2%E7%BD%97%E6%96%AF%E7%8B%AC%E6%8B%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85%E6%B6%9F/?category=18271" rel="tag">何清涟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A1%AC%E7%9D%80%E9%99%86/?category=18271" rel="tag">硬着陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF/?category=18271" rel="tag">索罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF%E8%B0%88%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E7%9D%80%E9%99%86/?category=18271" rel="tag">索罗斯谈中国经济硬着陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E6%B2%83%E6%96%AF%E8%AE%BA%E5%9D%9B/?category=18271" rel="tag">达沃斯论坛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91-%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E8%A2%AB%E5%A4%B1%E8%B8%AA%E5%BC%95%E7%88%86%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%8D%B1/" target="cdt-mirror">博谈网 | 香港书商“被失踪”引爆“一国两制”危机</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-%E4%B8%8B%E5%8D%885.34.43.png" alt="Screen Shot 2016-01-31 at 下午5.34.43" width="546" height="307" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-下午5.34.43-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-31-at-下午5.34.43.png 546w" sizes="(max-width: 546px) 100vw, 546px"></p>
-<p>系列化、政治化的“被失踪”事件中国内地年年有、月月有，异议、维权、NGO（非政府机构）是高发人群；而此事发生在港人港地，尚属新鲜。从去年十月中旬至十二月底，以经营政治“禁书”为主要业务的香港铜锣湾书店五位书商接二连三在泰国、中国内地（深圳和东莞）和香港本地离奇“失踪”。中共官方喉舌《环球时报》暗示“规避法律”掳人的是所谓“强力部门”。</p>
-<p>以“被失踪”手法偷袭香港，在地域上、性质上，均已明显越位。是上峰旨意，还是下属胡来？此次涉港“被失踪”事件令港人对“一国两制”陷入信心危机。此类事件今后或将不断发生。这是陆港两地有识之士不可掉以轻心、必须鸣鼓而攻的原因所在。堵不住这股祸水，香港法治与港人自由则岌岌可危。</p>
-<p>李波数次“报平安”的“家信”，读起来就怪怪的；桂民海在CCTV镜头前的当众“忏悔”，听起来也怪怪的；广东警方对香港警方爱搭不理的态度，看起来更是怪怪的。李、桂二人反复以“此地无银三百両”的方式声明其偷渡内地、自投罗网的行为纯属“自愿”、“主动”的“个人选择”，“与其他任何人无关”，更斥责媒体“炒作”、社会关怀和国际关注，木偶戏演到这个份上，基本上也就演砸了。人们都已经明白书商们身上发生了什么，唯有中共当局及其“强力部门”仍然顽强而愚蠢地继续揣着明白装糊涂。</p>
-<p>不明不白把人抓了，“收拾”一顿，吓唬一番，让你亲身见识一下“我党我国”的厉害；若不“炒”也不闹，顺从配合，交代揭发，写下保证书“永不再犯”，也许就不明不白再把人放了；若不肯配合，找个罪名把人判了，那也不费事。这本是某“强力部门”“依法治国”的一贯套路。李波、桂民海们既然落在他们手里，不乖乖配合，也真的很难。</p>
-<p>尚在侦办阶段，未经司法定谳，连律师会见权都难以实现的犯罪嫌疑人居然可以在央视镜头下侃侃而谈，自证其罪，这大概称得上是“依法治国”与“保障人权”的中国奇迹。可是，桂民海所认之罪，却是一桩十二年前已经审结的交通肇事罪，即便有缓刑期间出境逃逸的情节，人们也不相信，“强力部门”千辛万苦、冒险犯难地跨国“执法”，只是要为一位十二年前意外死亡的女大学生讨还公道。</p>
-<p>那么，桂民海、李波、铜锣湾书店究因何事触怒中共“强力部门”？目前并没有令人信服的说法。有关当局是否最终会给出一个坦率的说法，也还不一定。但此事与中共政治有关、由港版“禁书”引起，则几乎是肯定的：也许是为了阻止某一本“恶毒诽谤”最高领袖的书籍出版？也许是对某些已出版的“禁书”秋后算账，以儆效尤？也许只是为了惩办某位在中共派系斗争中收了钱却不出力的“叛徒”？</p>
-<p>这件事情，“细思恐极”（内地网络用语，意思是：仔细一思量，真是恐怖之极）。持瑞典护照的桂民海在泰国“失踪”，有香港身份证兼英国护照的李波在香港本地“失踪”，二人并没有泰国、香港的出境记录，却神不知、鬼不觉返回了中国内地。此案最引人注目的事实便是：陆港“两制”之间的执法权界限，中国与泰国，中国与瑞典、英国的主权管辖界限，在中共某“强力部门”那里，已经形同虚设。正如《环球时报》所暗示的那样，不管你是不是香港居民，不管你有没有瑞典国籍、英国护照，若惹恼了中央政府，“强力部门”有的是办法让你“以自己的方式返回内地”、“自愿配合调查”，有的是办法让你陷入“负罪与愧疚”、“自愿回国自首”、且上CCTV“认罪”。对于久已习惯自由社会之生活方式的香港人来说，这岂非恐怖之极？“一国两制”既然保护不了几位香港书商免于被跨境迫害，它最终也就保护不了任何一位香港居民的权利与自由。</p>
-<p>托CCTV、新华社的福，正是这两大中央媒体的强势介入，让人们明白了香港书商“被失踪”并非“强力部门”擅自胡为，而是代表中共高层意志、由中央政府背后撑腰的行为。本来，中共高层有两个选项：一是爽快承认越境“执法”不符合“一国两制”，应予严惩，同时启动内部调查与追责程序，最后，或问责某个“强力部门”首脑，或抛出几个“临时工”以撇清责任；二是继续回避已经无法回避的越境绑架真相，且继续用“家书”、“忏悔”等低级噱头转移舆论视线，模糊事件焦点，最后，把本该由“强力部门”承担的骂名通通揽到中央政府身上。第一个办法固然是笨办法，但于“一国两制”的前景，尚有一丝挽回的可能；第二个办法看似“聪明”，但于“一国两制”与陆港关系，必将造成永久性、不可逆转的伤害。中共选择了第二个办法，说明它并不在乎“一国两制”的信誉。</p>
-<p>特殊部门越境“执法”非中共首创。以色列摩萨德跨国猎捕前纳粹战犯，美军特种部队跨国击杀恐怖首恶本拉登，美军也曾直接绑走身为巴拿马总统的国际大毒枭诺列加，这些事情都曾传为美谈。金正日为吃到正宗的日本料理，派特工绑架日本厨师；伊朗政府为发泄宗教仇恨，全球缉拿言语不恭的诗人，这些事情则是令人齿冷的国际丑闻。有人以美国、以色列的跨国“执法”行动为中共辩护，但此事实在没有什么可比性：桂民海、李波、铜锣湾书店或有滥用出版自由的过错，却并未犯下恐怖袭击、发动战争、种族灭绝等重罪，而出版自由正是香港之制区别于中国之制的最显著特点之一。《基本法》既然承诺了“一国两制”，铜锣湾的“禁书”再怎么让中共不爽，也只能循香港法治渠道去解决。</p>
-<p>该与中共相提并论的，只有朝鲜、伊朗。蒋经国统治后期的“江南命案”，与此次港人“被失踪”亦可有一比。一九八四年十月，中华民国国防部情报局雇用黑社会组织在美国枪杀了笔名江南的华裔美籍作家刘宜良。起因是刘宜良拿了台湾情报局的钱（刘宜良与台湾情报机构颇有渊源，且联系不断，也有人说刘是台、美、中“三面间谍”），却没有按要求改写其所著“禁书”《蒋经国传》，而且还打算再写吴国桢、孙立人的传记，这几本“禁书”大揭蒋家隐私，将蒋经国描绘为一个残忍暴虐、胡作非为的恶棍，故此刘宜良被情报局长汪希苓视为应予诛灭的“叛徒”。</p>
-<p>台湾政府雇用黑社会狙杀美国公民，这是不折不扣的恶棍行径，令美国政府震怒，美台关系跌入冰点。在美方穷追不舍调查之下，台湾方面不敢再掩饰，不得不承认情报部门涉案，并低声下气请求原谅。蒋经国下令逮捕法办情报局长汪希苓、副局长胡仪敏、副处长陈虎门，且被迫同意美方参与侦办谈话和测谎。没有证据显示蒋经国本人事先知情，但蒋的儿子、与情报机构关系很深、且唯一可能成为其家族统治接班人的蒋孝武则被风传为幕后主使，事发后蒋孝武被“谪放外地”，从此远离中枢。因此，江南命案成为蒋经国放弃世袭统治，走向民主转型的契机。蒋经国全盘改组了骄横恣肆的国安与情报机构，结束其“执法”使命，禁止其在美国从事秘密活动；他明确反对把优秀学生吸收进情报队伍，认为那是“负数”；他也不再允许情治机构参与“扫除文化污染”、查封刊物、抓捕反对派人士，他很清楚那是一条不归路。柏杨评价说，江南命案是“压死暴政的最后一根稻草”。</p>
-<p>江南命案让蒋经国知错而改，那是因为有美国政府和国际舆论的强大压力，中华民国借力发力，走上了民主转型之路。香港书商“被失踪”案件对中共政制的前途、“一国两制”的命运有何种影响？目前看来，中共只有掩饰之举，并无警醒与悔过姿态。但香港各界与国际社会的批评越多，直接间接施予中共的压力越大，则此事产生正面效应的可能性也就越大。</p>
-<p>《争鸣》2016年2月号</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8D%9A%E8%B0%88%E7%BD%91-%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E8%A2%AB%E5%A4%B1%E8%B8%AA%E5%BC%95%E7%88%86%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%8D%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%89%E9%B8%A3/?category=18271" rel="tag">争鸣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%B0%91%E6%B5%B7/?category=18271" rel="tag">桂民海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%A8%E5%A2%83%E6%89%A7%E6%B3%95/?category=18271" rel="tag">跨境执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%A8%E5%A2%83%E6%8A%93%E6%8D%95/?category=18271" rel="tag">跨境抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -922,7 +934,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -932,5 +944,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

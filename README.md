@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%A7%8D%E8%8A%B1%E5%AE%B6%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%8C%E8%83%BD%E5%8F%AB%E6%8A%84%E4%B9%88/" target="cdt-mirror">【立此存照】种花家的正能量，能叫抄么？</a>
+</h2>
+<p><blockquote><p><a href="http://www.weibo.com/1560906700/DfSORoAqv" target="_blank">@阑夕</a>：请简述图一、图二和图三的血缘关系。（扒自 <a href="http://weibo.com/zhanzhengshiyanjiu" target="_blank">@战争史研究WH</a> ）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk.jpg" rel="attachment wp-att-427667"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk.jpg" alt="5d098bccgw1f0k9n9lqnxj20dw0dodhk" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk-300x295.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7.jpg" rel="attachment wp-att-427666"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7.jpg" alt="5d098bccgw1f0k9nb97cwj20hs0qoth7" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd.jpg" rel="attachment wp-att-427665"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd.jpg" alt="5d098bccgw1f0k9nls8vxj20c80wm0vd" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd-384x1024.jpg 384w, http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<blockquote><p><a href="http://weibo.com/3937348351/DfRMJ0Tgz">@共青团中央</a>：其实真相是，最可爱的人在看不到地方守护我们。<img title="[心]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" alt="[心]">（小兔子H4）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE.png" rel="attachment wp-att-427671"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE.png" alt="共青团中央" width="350" height="832" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/共青团中央-431x1024.png 431w, http://chinadigitaltimes.net/chinese/files/2016/02/共青团中央.png 605w" sizes="(max-width: 350px) 100vw, 350px"></a></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%85%94%E6%9D%82%E7%9A%84%E6%84%8F%E6%B7%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E/" target="_blank">F-223244：兔粉的意淫与现实</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-2/">变态辣椒：To 共青团</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/guqiewangtan" target="_blank">@姑且妄谈</a>：爱国的抄袭那不能算抄袭<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@_南Pile三森:共青团中央便涨红了脸，额上的青筋条条绽出：“借鉴不能算抄……借鉴！这爱国者的事……能算抄么？”</p>
+<p>@坂本同學提不起勁: 接着便是难懂的话，什么“我兔腹黑”，什么“星辰大海”之类的，引得众人都哄笑起来，微博上充满了欢乐的气氛</p>
+<p>@战争史研究WHS: 图三下面那半截是画蛇添足的败笔。想营造图2的视觉冲击效果，但光线、姿势等等全都是硬伤。第一眼看成了上面党旗保护罩后面的兔子在抵抗下面的食尸鬼或者僵尸</p>
+<p>@PatrickWong-：将众多个体做出的贡献归于自己麾下，使自己统治地位显得伟大光荣，且不许任何的质疑出现。</p>
+<p>@高Way：图二，下面换成大陆屁民，上面是赵家人。</p>
+<p>@Crazybee_：事实上，砸到头的石头是盾牌后的某些兔子丢的。。</p>
+<p>@水兽登革热：@共青团中央 抄袭国外的图片忽悠小朋友敌视国外是吧！</p>
+<p><strong>【编者注】</strong>这组耶稣漫画多年来在网络上流传甚广，许多基督教主题的网站／博客内都能检索到类似的内容，并有多个语言版本。比如以下这个韩文版（<a href="http://monic79.blogspot.com/2011/01/i-look-up-to-mountains-does-my-help.html" target="_blank">来源</a>）：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1.jpg" rel="attachment wp-att-427669"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1.jpg" alt="LordProtectMe-Part1" width="550" height="352" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1-300x192.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1-768x492.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1.jpg 866w" sizes="(max-width: 550px) 100vw, 550px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2.jpg" rel="attachment wp-att-427668"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2.jpg" alt="LordProtectMe-Part2" width="260" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2-195x300.jpg 195w, http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2.jpg 260w" sizes="(max-width: 260px) 100vw, 260px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%A7%8D%E8%8A%B1%E5%AE%B6%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%8C%E8%83%BD%E5%8F%AB%E6%8A%84%E4%B9%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E7%B2%89/?category=18271" rel="tag">兔粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94/?category=18271" rel="tag">那年那兔</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E7%AA%832700%E6%96%87%E4%BB%B6%E4%BA%A4%E4%BB%A4%E5%AE%8C%E6%88%90-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%90%91/" target="cdt-mirror">南华早报 | 令计划窃大量文件交令完成 令完成向美披露机密</a>
 </h2>
 <p><p>原标题：美媒：令计划窃2700文件交令完成 令完成向美披露核武等机密</p>
@@ -54,6 +83,38 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%9C%8B%E7%9C%8B%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B2%BB%E7%BD%AA%E7%9A%84/" target="cdt-mirror">奇闻录 | 看看国家是怎样治罪的</a>
+</h2>
+<p><p>1月18日，据外媒报道，原籍河南的新疆维权人士张海涛近期被法院以“煽动颠覆国家罪”和“为境外提供情报罪”重判19年徒刑，并没收个人财产12万元人民币。现今判决书部分内容流传于网络，可以从中看出张海涛遭遇重判的部分“官方依据”。</p>
+<p>新疆维权人士张海涛的家人1月18日收到判决书，张海涛被以“煽动颠覆国家罪”判处有期徒刑15年、“为境外提供情报罪”判处有期徒刑5年，合并执行19年，并没收个人财产12万元人民币。该案代理律师表示，判决之重出乎意料，相信与当局加强新疆维稳有关。张海涛的妻子表示，官方要没收他们唯一的房产，没有工作的她和刚满月的孩子即将流离失所。据悉，目前张海涛已经提出上诉。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/9baf993b-d375-47b6-9919-e732f7af316c.jpeg" alt="9baf993b-d375-47b6-9919-e732f7af316c" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/9baf993b-d375-47b6-9919-e732f7af316c-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/9baf993b-d375-47b6-9919-e732f7af316c.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></p>
+<p>刚诞下孩子才一个月的张海涛妻子李爱杰接受采访时，指案件于1月11日作一审开庭，法院当时未有告知宣判日子。而周一她亲手打开文件看得结果，对她而言简直是晴天霹雳。李爱杰指，当局指控其丈夫，在网上发布打击社会主义的文章，以及曾协助境外媒体工作，提供情报，制造社会不稳的谣言。</p>
+<p>李爱杰：我之前预计最多两、三年，浦志强、郭飞雄他们最多都是六年，我丈夫现在被判十九年，这个国家都不讲理了，就是因为在新疆?因为在新疆同样的事就要判更重的吗？</p>
+<p>45岁的张海涛，原籍河南，从国企失业下岗后于1995年到新疆发展，09年回南阳度假时，被新疆警方以诈骗罪抓回新疆，关押2个月后释放。此后他开始接触司法维护个人权益，并经常在网上发布对政府和时局的看法或意见。而他曾是维权网站“权利运动”的义工。去年6月26日，被乌鲁木齐市国保以“煽动民族仇恨罪”抄家刑拘。之后以“寻衅滋事罪”遭正式逮捕，被关押近五个月后罪名从“寻衅滋事罪”变更为“煽动颠覆国家政权罪”。 via 自由亚洲</p>
+<p><strong>以下为网友曝光的一审判决书内容：</strong></p>
+<p>@1957spirit：张海涛煽颠罪获刑15年的证据就是微信言论69条和推特帐号@xjvisa（这个帐号现在还没有删，敬请围观）所发205条，算下来平均一条言论获刑二十天。以推特言论为主被定煽颠罪的中国政治犯，张海涛如若不是第一个，也肯定是判刑最重的一个。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblBW0AEDpT3.jpg" alt="CaHKblBW0AEDpT3" width="550" height="905"></p>
+<p>从描述内容看，张本人的翻墙行为以及各种电子邮件内容，已经被完整监控或后期掌控，并且作为了定罪依据。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblFWYAAa8OI.jpg" alt="CaHKblFWYAAa8OI" width="550" height="824" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblFWYAAa8OI-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblFWYAAa8OI.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>新疆网安部门复函将“涉案网站”均定性为境外敌对、民运网站。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHNWQAAd4d-.jpg" alt="CaHPuHNWQAAd4d-" width="550" height="891" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHNWQAAd4d--185x300.jpg 185w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHNWQAAd4d-.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>后半部分提到的张的工作经历与向南夫有类似处</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHqW0AAFS6O.jpg" alt="CaHPuHqW0AAFS6O" width="550" height="825" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHqW0AAFS6O-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHqW0AAFS6O.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>推特言论作为了定罪依据</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHsW0AEqpqA.jpg" alt="CaHPuHsW0AEqpqA" width="550" height="873" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHsW0AEqpqA-189x300.jpg 189w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHsW0AEqpqA.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p>微信注册内容及言论内容被网安部门完整调取</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuIDW0AAFRlU.jpg" alt="CaHPuIDW0AAFRlU" width="550" height="862"></p>
+<p>被抄家后所有存于本地的反动内容均被纳入电子物证</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%9C%8B%E7%9C%8B%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B2%BB%E7%BD%AA%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E6%B2%BB%E7%BD%AA/?category=18271" rel="tag">因言治罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B5%B7%E6%B6%9B/?category=18271" rel="tag">张海涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9D%8E%E6%96%B0%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%87%AA%E6%84%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%E7%94%B5%E8%AF%9D%E5%98%B1%E5%92%90%E5%A6%BB%E5%AD%90%E4%BF%9D%E9%87%8D/" target="cdt-mirror">自由亚洲｜李新被警方“自愿接受调查”电话嘱咐妻子保重</a>
 </h2>
@@ -589,152 +650,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E6%89%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%8E%A8%E7%A5%9E%E6%9B%B2%E3%80%8A%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2%E3%80%8B%EF%BC%9A%E7%BB%99%E8%BF%99%E6%A0%B7%E7%9A%84/" target="cdt-mirror">南华早报 | 新华社推神曲《四个全面》：给这样的领路人叫好</a>
-</h2>
-<p><p><strong>歌词中唱到，“党是核心领导，领着咱们奔跑。这样式儿的领路人，咱都给他叫好”——近日“习核心”提法的出现正引起舆论和政情观察人士的注意。</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/a7499086-3cfc-4c96-bf40-edd38deaf79f.png" alt="a7499086-3cfc-4c96-bf40-edd38deaf79f" width="550" height="384" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/a7499086-3cfc-4c96-bf40-edd38deaf79f-300x210.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/a7499086-3cfc-4c96-bf40-edd38deaf79f-768x537.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/a7499086-3cfc-4c96-bf40-edd38deaf79f.png 800w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>（南早中文网讯）继续《深改组两岁了》之后，内地官媒再推饶舌说唱（rap）形式的政治口号“神曲”《四个全面》。歌词中唱到，“党是核心领导，领着咱们奔跑。这样式儿的领路人，咱都给他叫好”——近日“习核心”提法的出现正引起舆论和政情观察人士的注意。</p>
-<p>新华社客户端2月2日上午9时许发布“新华社推出’神曲'<四个全面>”，包括3个视频，但没有文字描述。歌曲动画MV全长3分10秒，最后一部分还用了贝多芬《欢乐颂》的旋律，连唱了四次“有了有了四个全面，中国梦啊就不远”。</p>
-<p>在其中两个视频中，还出现了网络流行的“弹幕”，写着“新华社火爆rap全面出击”“一起摇摆”“新华社啊！！”“无限单曲循环中”“wuli新华社也是蛮拼的”等语句。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/6962d033-8d39-4501-9f1c-de0219989f58.gif" alt="6962d033-8d39-4501-9f1c-de0219989f58" width="422" height="237"></p>
-<p>此前的《深改组两岁了》在12月28日、中央深改组成立两周年前夕，由央视推出，歌曲中融入了习近平的8句讲话录音。在歌曲MV的片头显示，作词人为周爱华，作曲和演唱人为武文多。制作包括史春、马强国、曲柳燕三人。</p>
-<p>这次的《四个全面》则由新华社推出，但目前未见制作人的信息。</p>
-<p>“四个全面”战略思想包括“全面建成小康社会、全面深化改革、全面依法治国、全面从严治党”，从2012年十八大到2014年10月的群众路线教育实践活动总结大会之间陆续提出。</p>
-<p>2012年，十八大将“全面建设小康社会”改成“全面建成小康社会”，进一步提出了到2020年“全面建成小康社会”的任务。</p>
-<p>2013年，十八届三中全会就全面深化改革的若干问题作出重要决定，提出了全面深化改革的指导思想、目标任务、重大原则。</p>
-<p>2014年10月，十八届四中全会，在中共的历史上第一次把法治建设作为中央全会的专门议题，对全面推进依法治国作出了全面的战略部署。</p>
-<p>2014年10月，习近平在群众路线教育实践活动总结大会上，进一步提出全面推进从严治党的要求，并对全面推进从严治党进行了部署。</p>
-<p>2015年1月13日，十八届中纪委第五次全会上，习近平在讲话中提出了“政治规矩”。而在“政治规矩”中，受到外界特别关注和讨论的，当数“妄议中央”。</p>
-<p>2016年1月7日，中共中央政治局举行今年首次会议，全天召开，强调坚持党中央集中统一领导，党政军民学，东西南北中，党是领导一切，要确保党始终成为中国特色社会主义事业的坚强领导核心。</p>
-<p>那之后，1月11日开始，内地多个省份的省委书记，在传达学习习近平在中央政治局“三严三实”专题民主生活会上的重要讲话，和中央关于政治局专题民主生活会情况的《通报》中，提出“坚决维护习近平总书记这个核心”。 1月27日，中央政治局委员、中央书记处书记栗战书，也在中央直属机关党的工作会议上提出要“增强核心意识”。</p>
-<p>这是继毛泽东、邓小平、江泽民之后，中共党报上再次密集出现“核心”这个提法。</p>
-<p>上海政法学院的陈道银曾就“习核心”的提法向本报表示，措辞上微妙的转变可以有很强烈的含义。 “邓小平和江泽民被称为核心，是因为他们都有最终通过或否决权。胡锦涛更多时候是领导层中的协调人。”</p>
-<p><strong>《四个全面》歌词：</strong></p>
-<p>一个那是点，两个那是线，三个那是面，四个是全面。</p>
-<p>唱啥呢？听说过四个全面吗？</p>
-<p>嗯……是中国梦啥的？哈哈，还是听我说吧。</p>
-<p>跟我说四个全面，四个全面，小康是目标。</p>
-<p>跟我说四个全面，四个全面，改革是动力。</p>
-<p>跟我说四个全面，四个全面，法治是保障。</p>
-<p>跟我说四个全面，四个全面，党建是关键。</p>
-<p>全面建成小康，是每个人的梦想。</p>
-<p>吃喝不愁手里有钱，咱心里就不慌。</p>
-<p>有了金山银山，还要绿水青山。</p>
-<p>生态环境健康发展，雾霾退散。</p>
-<p>全面深化改革，不是随便说说。</p>
-<p>升学就业养老看病，全都得有着落。</p>
-<p>人人都当创客，城乡一起嗨。</p>
-<p>束缚需要打破，体制必须活络。</p>
-<p>一个那是点，两个那是线，三个那是面，四个是全面。</p>
-<p>小康是目标。改革是动力。法治是保障。党建是关键。</p>
-<p>特别重要的话，咱得说四遍。</p>
-<p>四个四个四个四个全面。</p>
-<p>特别重要的话，咱得说四遍。</p>
-<p>四个四个四个四个全面。</p>
-<p>跟我说四个全面，四个全面，小康是目标。</p>
-<p>跟我说四个全面，四个全面，改革是动力。</p>
-<p>跟我说四个全面，四个全面，法治是保障。</p>
-<p>跟我说四个全面，四个全面，党建是关键。</p>
-<p>全面依法治国，不讲规矩不行。</p>
-<p>遵法守法用法，有权不能任性。</p>
-<p>潜规则没用，犯事儿甭耍赖皮。</p>
-<p>法律面前都平等，拼爹你也没戏。</p>
-<p>全面从严治党，风清才能气爽。</p>
-<p>老虎关进笼里，苍蝇也得落网。</p>
-<p>党是核心领导，领着咱们奔跑。</p>
-<p>这样式儿的领路人，咱都给他叫好。</p>
-<p>一个那是点，两个那是线，三个那是面，四个是全面。</p>
-<p>小康是目标。改革是动力。法治是保障。党建是关键。</p>
-<p>特别重要的话，咱得说四遍。</p>
-<p>四个四个四个四个全面。</p>
-<p>特别重要的话，咱得说四遍。</p>
-<p>四个四个四个四个全面。</p>
-<p>跟我说四个全面，四个全面，小康是目标。</p>
-<p>跟我说四个全面，四个全面，改革是动力。</p>
-<p>跟我说四个全面，四个全面，法治是保障。</p>
-<p>跟我说四个全面，四个全面，党建是关键。</p>
-<p>咦，唱完了怎么进度条儿还有呀？</p>
-<p>咳咳，走着。</p>
-<p>有了有了四个全面</p>
-<p>中国梦啊就不远</p>
-<p>……（共反覆四次）</p>
-<p>“四海升平，四季如歌，恭祝各位网友猴年事事（四四）如意！”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%8E%A8%E7%A5%9E%E6%9B%B2%E3%80%8A%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2%E3%80%8B%EF%BC%9A%E7%BB%99%E8%BF%99%E6%A0%B7%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2/?category=18271" rel="tag">四个全面</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">领导核心</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A2016-%E4%B8%AD%E5%85%B1%E4%B9%A0%E6%A0%B8%E5%BF%83%E5%85%83%E5%B9%B4%EF%BC%9F/" target="cdt-mirror">BBC ｜吴祚来：2016——中共“习核心”元年？</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2013/09/%E9%B3%A9%E9%B5%AA%E4%BA%9E%E9%BB%83%EF%BC%9A%E4%B9%A0%E6%80%BB%E6%9C%80%E9%9C%87%E6%92%BC%E6%9C%89%E5%8A%9B%E7%9A%84%E6%BC%94%E8%AF%B4-e1424929460667.jpg" alt="鳩鵪亞黃：习总最震撼有力的演说" width="555" height="417"><p>鳩鵪亞黃：习总最震撼有力的演说</p></div>
-<p>2016年中共第一件大事，是喊出了“习核心”这个政治话语，这意味着，江泽民核心已告结束，或已不被承认。</p>
-<p>习近平要求中央政治局向中央看齐，习近平核心团队进一步要求中央与地方以习近平为核心，向习近平看齐。</p>
-<p>当习近平真正被“拥戴”为新核心之时，他就成为中共真正的决断者，这是否意味着，习中央的政令可以出中南海了，还是意味着习的讲话可以通行全国，上行即可下效？</p>
-<p>而这对于党国、对于中国社会是福是祸，却无从知道。</p>
-<p>“习核心”呼之即出</p>
-<p>近日，署名“学习大国”的一篇《习近平密集强调“向党中央看齐”各省如何落实》文章出现在腾讯网首页，这篇文章说：最近这段时间，“向党中央看齐”成为时政新闻中的高频词。一个多月来，习近平先后四次讲话，要求“向党中央看齐”。</p>
-<p>看齐二字，还被习近平加上了“意识”，看齐意识就是一种政治态度，不仅口头上要与党中央保持一致，还要落实在行动上。</p>
-<p>学习大国在文章里还找出了看齐意识的来源：1945年，毛泽东同志在党的七大预备会议上说：“要知道，一个队伍经常是不大整齐的，所以就要常常喊看齐，向左看齐，向右看齐，向中间看齐，我们要向中央基准看齐，向大会基准看齐。看齐是原则，有偏差是实际生活，有了偏差，就喊看齐。”</p>
-<p>显然，现在许多领域许多人在习近平看来，出了偏差，但出了怎样的偏差？习近平没有具体指出来，只是宏观在用看齐意识来强调，表达自己的不满意。</p>
-<p>可惜，人们并没有看到习本人或他的团队具体指出哪些问题属于没看齐，哪些地方政府已经看齐了中央。如果既不能量化，又不能有案例说明，只能让人一头雾水，不知其所指。</p>
-<p>具体看不看齐，对各地要员来说似乎不是问题，学习大国在文章里重点开列各级大员、要员纷纷向习中央效忠，并承认习近平的核心地位。</p>
-<p>学习大国的文章里，“一口气列举了10个省区市，他们都表态坚决向党中央看齐，”各省市领导纷纷表示自己要做政治明白人，“经常、主动向党中央看齐，向党的理论和路线方针政策看齐，特别要突出思想看齐，切实做到表里如一、言行一致、敬终如始。”</p>
-<p>这十个省市是：北京、天津、内蒙、辽宁、安徽、四川、湖北、山东、云南、陕西。</p>
-<p>腾讯首页的这篇文章大谈各地要员“向习看齐”，忽略了最核心的政治关键词：“习核心”。我们只有进一步去翻看各省市第一领导人的讲话，才可以见其端倪。</p>
-<p>湖北省委书记李鸿忠在其讲话中，列举了一系列的“核心”概念：“中国共产党是中国特色社会主义事业的领导核心，中共中央政治局及其常委会是党的领导核心，习近平总书记是党中央的领导核心。自觉维护党中央权威，就要自觉维护习近平总书记这个领导核心。”</p>
-<p>这一段描述，看起来是强调党的核心有不同层次，但实质是在强调党以习中央为核心，习中央以习为核心，向习看齐，就是忠于党。中共的党内规则与逻辑关系，一目了然于李书记的讲话中。</p>
-<p>“增加核心意识”</p>
-<p>近日中共中央办公厅主任栗战书也强调了增加核心意识。什么是增加核心意识，就是要强调“习核心”，不允许任何人顾左右而言它，老核心时代已告结束，新核心时代已然来临，要求各一级党政大员认清形势，紧跟习中央走。</p>
-<p>栗战书是习的大内总管，最清楚习的焦虑，或者了解整个中央级大员的境况，在此时高规格强调看齐意识与核心意识，显然是习的政治焦虑造成。</p>
-<p>反腐造成的重压，经济形势如此严峻，社会问题集中爆发，都需要各级要员拿出办法来解决，但整个形势处于无解状态，大员要员更多的观望，习想推行的政策，也无法落实、推进。习团队此时能给予习的安慰，可能就是一顶极品的“核心”桂冠了。</p>
-<p>习已贵为中共总书记、国家主席、中共与国家军委主席，并身兼多个中央级小组组长，仍然感到政令不畅，感到权力难以成功运行，怎么办？</p>
-<p>现在中共内部只有顶端的桂冠，就是“核心”，现在栗战书在新年开局，就是要迫使各地大员效忠，拥戴新核心，以强化习的威权与集权，要在各地掀起学习“习理论”的热潮，要用习的理论，武装头脑，推进具体工作。</p>
-<p>政治效忠是一种精神安慰，并无实质意义，只是让部下口服、臣服，也只有极权治下的最高统治者会要求下属效忠。</p>
-<p>而在宪政民主制度之下，每一个政治角色完成自己的职业任务，完全不需要下级对上级的效忠，要忠诚的，只有宪法。国家最高权力在总统手中，但受到国会制约，国家的核心价值是人权或保障人权，所谓民主、自由、公平、正义等等，都是为人权而存在的价值。</p>
-<p>“核心”的政治意义</p>
-<p>1989年6月16日——“六四”事件发生后的第12天——中共第二代领导核心邓小平，在会见杨尚昆、万里、江泽民、李鹏、乔石、姚依林、宋平、李瑞环等中共新领导时说：“任何一个领导集体都要有一个核心，没有核心的领导是靠不住的。”（《邓小平文选》第三卷）这次会议邓小平完成了核心的交接，“钦定”了江泽民为第三代领导核心。</p>
-<p>说得通俗一点，核心就是谁说了算，邓小平在世时，邓小平说了算；邓小平授予江泽民以核心地位，他自己就是太上皇。</p>
-<p>这种核心极权制度，早在古希腊之时就有过，和平之时，以民主的方式决策，但战争状态中，一切权力均交由军事元首最后决策，因为，如果不能通过集权方式形成快速决定，就会贻误战机。</p>
-<p>邓小平在六四之时，看到中共面对学生运动与大规模民主运动时，没有“战斗力”，所以要扶持一个核心政治人物出来，由核心来最终决定对整个党国的生杀予夺。</p>
-<p>核心是靠他对党国的贡献，或人格魅力？或党内民主推崇？都不是。邓小平的核心地位，完全靠枪杆子，江泽民之所以能凌驾于胡锦涛十年总书记之上，还是靠他对军队的成功控制。</p>
-<p>现在习团队之所以敢于在“江核心”还在世之时号召各地大员向“习中央”效忠，向习近平看齐，并以核心称之，证明习近平已完全掌控了“枪”，枪杆子出政权，枪杆子出核心。</p>
-<p>与江泽民不同的是，习近平这次核心的确立，是以各地大员拥戴的方式，而不是由江泽民在某一特定场合“钦定”。其中政治意味，不言自明。</p>
-<p>“核心”的历史回顾</p>
-<p>我们稍加回顾这种“核心”现象，会发现背后问题严重。也即，无论有无政治核心，都会引发严重的社会问题。</p>
-<p>毛泽东没有被称为核心，但其实他是真正的核心——“伟大的领袖”、“伟大的统帅”、“伟大的舵手”——他利用自己的核心地位，利用共产党的力量，挤压、打垮了民主党派，然后又利用自己在国家近乎神圣的地位踢开党委，闹文化大革命，实现了一个人至高无上的精神领袖地位。</p>
-<p>他一个人加上中央之外的革命委员会，就发动了史无前例的文革，造成了国家动乱与罕见的人权灾难，当然他的同志与战友包括习家，也多被迫害与摧残。</p>
-<p>邓小平的核心地位，使邓小平可以随心所欲地打击党内外任何政敌，邓的个人威望是一方面，而他担任中央军委主席，使枪指挥党成为可能，“邓核心”制造的六四灾难至今无法平反或纠错。当然，“毛伟人”的文革灾难也没有从根子上清理，文革的政治迫害方式仍然在继续作祟。</p>
-<p>江泽民的核心时代，右手制造“三个代表”，让资本家入党，使中国进入权贵经济模式，左手严打民间信仰者，制造大规模的信仰迫害。</p>
-<p>胡锦涛一直没有被核心化，所以“胡时代”没有大规模的动用国家机器制造人权灾难，但相比于毛、邓、江三个核心时代的大规模焦点式作恶，“胡温时代”是散点式的侵犯人权。</p>
-<p>权贵经济一旦形成，必广泛地侵犯百姓人权，每年数以十万计百万计的上访、维权案件说明，各级政权普遍地侵犯百姓的经济利益，由于司法控制在各级政府手中，任何不义不公，都无法在当地得到纠正，而当人们借助上访制度与方式之时，又使中共高层面临北京稳定的焦虑，这样各级的截访或将访民进行拘捕、劳改、关进精神病院，维稳经费每年数以千亿，高过军费。</p>
-<p>胡锦涛没有成为核心，所以他无法控制整个国家局面。他的上面有精神领袖“江核心”，下面有无数权贵，边上有听“江核心”指挥的枪杆子，所以，不是核心的中共领导人处于被挟持的状态，无所作为。</p>
-<p>正是因为无所作为，才有腐败蔓延，才有极端的侵犯公民人权与财产权的事件海量发生。</p>
-<p>“习核心”的三条路</p>
-<p>毛泽东1945年提出看齐意识，那时是战时状态，邓小平1989年提出政治核心或核心意识，也是基于一种“动乱应急”，它造成的后果，都是军人政治或政治极权。</p>
-<p>如果一个政客，前天向“邓核心”表态忠诚，昨天向“江核心”表态忠诚，今天立即向“习核心”表态忠诚，你信吗？这样的忠诚有什么意义？</p>
-<p>忠诚只有在局势变局过程中，在自由的选择中才有价值，当习近平已成为中共最高领导人之时，这种表态忠诚是毫无意义的，因为别人寄附你权势之篱下，只能摧眉折腰，以求平安与利禄。</p>
-<p>所以，核心桂冠之于习近平，也许可以为其极权造势，让中共各级大员保持与习的政治一致性，使习的威权达至极权之境。</p>
-<p>但我们看到，无论是个人极权，还是多寡头制的分权，对中国社会的危害都是一样的。这是中共政制使然。</p>
-<p>当然，极权或确立政治核心，可以让最高统治者更随心所欲，统治者更顺风顺心，但这种顺风顺心是建立在所有官员对核心唯唯喏喏、只有执行不敢反对的不正常的政治状态下。最高核心任何错误，都会被执行、被放大，都可以造成无可挽回的损失与国家人权灾难。</p>
-<p>当习近平成为中共最高精神核心之时，习近平或其核心团队应该意识到，谁是“习核心”的监督者与制约者？</p>
-<p>摆在“习核心”面前是三条道路：</p>
-<p>第一条是还权于民之道（西方模式），让全国人大具有法定的监督中共中央的权利，设立宪法法院，对中共中央违宪具有独立的调查权、监督权与否决权（弹劾权），逐步让中国过渡到宪政民主制度；</p>
-<p>第二条道路，新加坡方式，有限开放媒体与党禁，实行强人强权之治，让中共政权长期控制在自己或自己人手中，保证自己的政策长期执行；</p>
-<p>第三种方式，就是毛泽东的文革方式（朝鲜模式），进一步封邦锁国，不允许公民社会有任何自由度，党国一体，打压知识分子与民间信仰者、打击或拘捕维权者与申张正义的律师，一切都在党的管治之下、国家警察的监控之下，实行完全的法西斯之治。</p>
-<p>习核心面临艰难的选择。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A2016-%E4%B8%AD%E5%85%B1%E4%B9%A0%E6%A0%B8%E5%BF%83%E5%85%83%E5%B9%B4%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -746,7 +661,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -756,5 +671,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

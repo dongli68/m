@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,84 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%89%8D%E4%B8%9C%E5%AE%B6%E4%BB%8A%E6%97%A5%E6%AD%87%E4%B8%9A%EF%BC%8C%E7%94%9F%E5%91%BD%E6%9A%82%E5%81%9C%E5%9C%A820%E5%B2%81%EF%BC%8C%E6%88%91%E6%98%AF%E6%9D%A5%E5%AE%89%E5%88%A9%E7%9A%84/" target="cdt-mirror">花香-弥漫：前东家今日歇业，生命暂停在20岁，我是来安利的</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg" rel="attachment wp-att-427583"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg" alt="682d01cagw1f0jtkcpy14j20qo0r3grc" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc-295x300.jpg 295w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc-768x780.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg 960w" sizes="(max-width: 960px) 100vw, 960px"></a></p>
+<p>这几天通过微博得知前东家歇业了，还被某些评论黑出了翔。有骂众泽是美帝走狗的；有说众泽是境外反动势力用来颠覆我国的；有黑众泽没有注册、没有备案、律师也没资格、反正就是各种不合法的；有说众泽啥事也没干，纯在浪费糟蹋国家钱的；有说众泽在北京，管的到农村妇女吗，就是个打着公益旗号的间谍机构……有些评论言辞之恶心，让我这个只呆了半年已离职几年的人都忍不住委屈落泪。希望通过这篇文章，能让不明因果的网友了解这家机构一些。</p>
+<p>我第一次知道这个机构是在大学的课堂，在老师的讲解里或者放的电视报道里一闪而过。大概就是“据北京大学法学院妇女法律研究与服务中心的调查数据显示XX”或“我们就此事咨询了北京大学法学院妇女法律研究与服务中心，中心律师称……”说实话，当时注意力都在北京大学，并不是中心，感觉一个法学院的机构都这么有名，北大果然牛逼。</p>
+<p>第一次跟北京众泽妇女法律咨询与服务中心（原北大法学院妇女法律研究与服务中心）有接触，是因为手头一个大学生创业创新的国家级项目。项目需要企业配合匿名问卷调查跟访谈，我们回馈小礼品。我本以为很简单的，没想到前后项目组里的小伙伴忙活了一个月，一家企业都没谈下来不。我当时非常焦虑，多亏了导师给了众泽的联系方式给我，说这个NGO很不错，她们几年前已经做过类似的调研，你去联系她们。后来，项目组里的小伙伴很顺利从众泽拿到了她们之前试点过的企业的联系方式，我这边的调研得以顺利展开。对了，众泽的那个项目是联合国妇女发展基金和国际劳工组织出资的（黑子们，这下众泽是不是要从美帝走狗变成联合国走狗了？）。</p>
+<p>后来加入众泽是缘分，恰好招人，我之前又被众泽的专业性和前瞻性惊艳到过，加之我法学出生，大学恰好受过社会性别方面的教育，有点基本的社会性别意识，也想做点对社会有点益处的事情。面试时聊得非常愉快，小boss也说得很直接，坏处就是，工资低，没福利，也很难有改变。如果在帝都无依无靠，靠这里的工资很难生存。好处就是，所有人都在踏踏实实干活，同事之间氛围很好，你完全不用担心复杂的办公室政治，还能从你的工作中收获到非常大的满足感。这些，在我日后工作的半年里，均切身体会到了。</p>
+<p>中心主任是大名鼎鼎的郭建梅女士，荣获过“国际妇女勇气奖”，多次被希拉里接见，在国内外知名度甚高,说享誉海内外不为过。不了解的可随便搜索一下。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4pr0g4cj208c060q3b.jpg" rel="attachment wp-att-427568"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4pr0g4cj208c060q3b.jpg" alt="682d01cagw1f0j4pr0g4cj208c060q3b" width="300" height="216"></a></p>
+<p>简单说来，大boss83年从北京大学法律系毕业，工作顺风顺水，还参与过《妇女权益保障法》的起草。95年第四届世界妇女大会在北京召开，大boss听了一场希拉里的演讲很有感触，回来就辞职跟人一起办了北京大学法学院妇女法律研究与服务中心，为权益受到侵害的妇女免费提供法律援助，因硕果累累，多年获得海内外表彰无数。只是2010年被迫把机构迁出北大，成为NGO，也就是后来的众泽。众泽是一家完全免费的公益机构，多年致力于家庭暴力、农村妇女土地权益、性骚扰、性侵害、就业性别歧视等社会性别现象的研究，为弱势妇女提供免费的法律援助，努力推进国内妇女权益保护的进步。众泽有很多惊艳到我的地方。</p>
+<p><strong>1，有自己的律师事务所</strong></p>
+<p>作为一家NGO，有自己的律师事务所，北京市千千律师事务所，为需要帮助的妇女免费提供法律服务。是的，完全免费，不收律师费，不收差旅费。这有多难得外行可能不了解，成为一个律师本就不易，能在北京执业的更加少(北京的限制非常多，研究生以上学历或北京户口方可执业)，能在帝都执业的律师愿意做纯公益律师的真的是凤毛麟角。不要以为都是法学院的loser才过来，我在的时候，中心专职律师里，北大毕业的就有两个，人大一个，有几个律师英语相当不错，派出国去开会毫无压力。这群人呆在这，真是为了理想，想切身为这个国家干点实事。他们转行做商业律师，年薪可以轻而易举的翻十倍，甚至百倍。可是他们并没有！！！因为愿意做公益律师的全国都只有那么几个，他们能多坚持一天就能多帮助一些需要帮助的人。拿大boss来说，接手李彦案的时候，就有人拿标的上亿的商业案子找她代理，她一如既往没有去。在她看来，前者她不接，就很难再有人帮忙了，李彦很可能马上就被执行死刑了。而后者，这种送大钱过来的商业案子 她不做对方也很容易找到人接手的。大boss的这些想法，也是中心律师的一贯想法。插播一下李彦案：李彦案是典型的受暴妇女杀夫案，多年来遭受丈夫非人的暴力虐待，严重的时候直接砍掉了她一根手指。李彦忍无可忍，终于找准机会杀夫成功，分尸，烹之。一审二审均被判死刑，死刑复核阶段，李彦家属走投无路找到中心，中心接受委托后，火速派律师前去四川了解案情，搜集到重要证据，递交给最高法。在此期间，多方机构共同努力，最后成功刀下留人。讲真，看到这，如果您认为李彦该死，劳驾您去搜搜什么叫受暴妇女综合症，再去搜柴静早年对某地女子监狱的报道，里面半数都是因为家暴杀夫进来的，李彦遭受过的家暴，丧心病狂都形容不了，比起视频里那些女犯人遭受过的家暴，有过之无不及。</p>
+<p>至于协助这种案件，有多难，难在哪？除了证据外，还需要多少机构，人士共同努力才可以做到？推荐大家去搜南方周末去年的一则报道《家暴阴影下的妇女权益保护 未能完全翻转的李彦案》。</p>
+<p><strong>2，提供一条龙服务</strong></p>
+<p>如果你觉得众泽就是打官司厉害，那你就太小瞧她了。我一直觉得，众泽像一个经验丰富的医生，有一整套处方，还免费发药，努力想让这个国家的妇女权益更好一点。比如，针对农村妇女土地权益频受侵害的现状，众泽除了帮农妇打官司，还会跟基层妇联合作，协助对方组织有关培训，众泽出资邀请专家去讲座，再把在当地调研的问卷，交给专门的数据分析机构，把数据再交给高校关注此类问题的专家，邀请专家撰写调研报告，再向社会发布，向基层妇联反馈，推进地方有关村规民约的修改；</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45.jpg" rel="attachment wp-att-427579"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45.jpg" alt="682d01cagw1f0j84zqy3bj20h005qq45" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45-300x101.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45.jpg 612w" sizes="(max-width: 612px) 100vw, 612px"></a><br>
+（截图自检察日报报道，《频损“农嫁女”土地权 村规民约成法外之地》）<br>
+（原文链接，http://newspaper.jcrb.com/html/2013-12/23/content_148570.htm）</p>
+<p>前几年校园性侵幼女案件频频爆出，键盘侠们，骂骂也就过去了。众泽除了在网络发声，还组织了跟“嫖宿幼女罪”有关的专家研讨会，把结果撰文发布，在两会时改成提案，请有提案资格的人士提交。最终，刑法修正案九废除了“嫖宿幼女罪”，当有众泽的一份功劳；</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze.jpg" rel="attachment wp-att-427580"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze.jpg" alt="682d01cagw1f0j89w9wtyj20gr04f3ze" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze-300x79.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze.jpg 603w" sizes="(max-width: 603px) 100vw, 603px"></a><br>
+（截图自北京青年报，电子版，2013年12月17日《嫖宿幼女罪不废，我就没玩》）<br>
+（原文链接http://news.xinhuanet.com/legal/2013-07/14/c_116525731.htm）</p>
+<p>从董珊珊案到李彦案，网友在感概法律不公，众泽在尽全力提供法律援助，并努力推进反家暴法的通过。针对职场性骚扰和性侵害，众泽不仅仅只是帮助受害者让宋山木们受到法律制裁这么简单，一方面，众泽会在企业进行调研，试点，请专家去培训，对公司章程，劳动合同提出修改方案，赠送专门的小册子，努力推进职场性骚扰预防机制的建立。另一方面，众泽召开研讨会，与专家企业分享调研和代理案件得出的数据，同与会人员一起探讨性骚扰防治措施，并对我国性骚扰领域的立法提出专业建议（国外有很多相关立法，我国还处于空白阶段），并把这些建议提交给有关机构。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs.jpg" rel="attachment wp-att-427576"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs.jpg" alt="682d01cagw1f0j8njx634j20if05mwfs" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs-300x91.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs.jpg 663w" sizes="(max-width: 663px) 100vw, 663px"></a><br>
+（截图自新华网，《职场性骚扰诉讼认定难赔偿难 受害者多”隐忍不发”》）<br>
+（链接http://news.xinhuanet.com/legal/2013-07/14/c_116525731.htm）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo.jpg" rel="attachment wp-att-427577"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo.jpg" alt="682d01cagw1f0j9cfj9ftj20hq06g3zo" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo-300x109.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo.jpg 638w" sizes="(max-width: 638px) 100vw, 638px"></a></p>
+<p>此外，律师会在百忙之中，看网上热点事件中，是否有众泽能做点什么的。比如爆出地铁性骚扰了，会给北京地铁运营方去信请求公开是否有地铁性骚扰防治措施。爆出幼女被性侵害家长网络维权了，会去留言努力寻找家长，希望能提供法律援助。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm.jpg" rel="attachment wp-att-427570"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm.jpg" alt="682d01cagw1f0j4tpq53aj20yi1daqfm" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm-210x300.jpg 210w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm-768x1097.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm-717x1024.jpg 717w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm.jpg 1242w" sizes="(max-width: 1242px) 100vw, 1242px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp.jpg" rel="attachment wp-att-427571"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp.jpg" alt="682d01cagw1f0j4v8qkcsj20yi16uwnp" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp-242x300.jpg 242w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp-768x954.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp-825x1024.jpg 825w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp.jpg 1242w" sizes="(max-width: 1242px) 100vw, 1242px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467.jpg" rel="attachment wp-att-427573"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467.jpg" alt="682d01cagw1f0j4znf0j7j20y8173467" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467-238x300.jpg 238w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467-768x967.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467-813x1024.jpg 813w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467.jpg 1232w" sizes="(max-width: 1232px) 100vw, 1232px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh.jpg" rel="attachment wp-att-427572"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh.jpg" alt="682d01cagw1f0j4yh5kfmj20c80hhgoh" width="440" height="629" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh-210x300.jpg 210w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
+<p>多年来众泽做的事情数不胜数！您不了解是因为您涉猎少，别怪众泽没干活！！！上面是我随意在微博跟网络搜到的，更多的官方网站有详细的记录。我把众泽官网附在本文最后面，第二个网站是其下属项目妇女观察·中国的官网，是双语的。每个月都发布免费电子刊物，每年还发年报，都是双语！！！官网可以下载，也有稳定的读者订阅群。一个NGO的年报能做成这样，你还要闹哪样？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73.jpg" rel="attachment wp-att-427569"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73.jpg" alt="682d01cagw1f0j4rwwhxyj20nm0dgq73" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73-300x171.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73-768x437.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73.jpg 850w" sizes="(max-width: 850px) 100vw, 850px"></a><br>
+（妇女观察·中国，2010年年报，英文版）</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc.jpg" rel="attachment wp-att-427574"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc.jpg" alt="682d01cagw1f0j5s9dretj20y90nvjvc" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc-300x209.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc-768x535.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc-1024x713.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc.jpg 1233w" sizes="(max-width: 1233px) 100vw, 1233px"></a><br>
+（妇女观察·中国，官网，机构动态栏截图）</p>
+<p>这群人在尽全力让这个国家，尽可能的少一些伤害。让已经被伤害的人，能通过自己的努力，多一点活的希望。</p>
+<p><strong>3，用最少的钱，干了最多的事情</strong></p>
+<p>公益对接受帮助的人来说，是免费的蛋糕。但是，做公益并不是低成本的开支，其实非常费钱。大boss自己前后投入过几百万……尽管中心员工没有任何公款活动，比如聚餐，K歌，不曾浪费一丝捐款，但办公室可以简朴，房租得要钱吧？那么多案子，律师一年到头要跑很多个城市，交通费免不了吧？开研讨会、培训的 花销就更不用说了吧，场地钱，专家过来的费用都是成本吧？中心刊物是免费发行，印书得要钱吧？员工的工资，五险，官方网站的建设，服务器的购买也是钱吧？众泽在尽全力节省可以节省的开支。比如，法律这块最费钱的是律师费，因为员工的无私，已经省了太多。13年一个律师每月才4000块，报销少量电话费，五险无一金，所有福利就是中午若在单位包顿午饭，过年多发500块。这几年我想应该涨了点，毕竟帝都公共交通涨价了很多。不相信的看截图</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm.jpg" rel="attachment wp-att-427581"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm.jpg" alt="682d01cagw1f0j783q4daj20js03kdgm" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm-300x54.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm.jpg 712w" sizes="(max-width: 712px) 100vw, 712px"></a><br>
+（节选自南方周末09年的报道《郭建梅，你怎么还在做公益律师呀？》）</p>
+<p>要是你们觉得这个价格还高，您去商业律所看看，别拿律师助理来比，看看有多少从业多年的律师只有这样低的收入的。</p>
+<p>资料这块，翻译费贵，好在中心有过非常多的志愿者，大多毕业于北京知名高校，在海外求学。还有部分本就是外国人，留学在北京，对公益感兴趣，过来帮忙。这些无私的志愿者，承担了众泽绝大部分基础的翻译工作，流动性也很大。比较重要的文件，比如某些约的专家稿，众泽会付费给专业的翻译人士。</p>
+<p>这么多地方要花钱，钱从哪来？我也心寒过为什么没有国内的基金长期资助。黑子们，你们可曾慷慨解囊？</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g.jpg" rel="attachment wp-att-427575"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g.jpg" alt="682d01cagw1f0j6pdxhynj206z08vq3g" width="251" height="319" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g-236x300.jpg 236w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g.jpg 251w" sizes="(max-width: 251px) 100vw, 251px"></a><br>
+（截图来自众泽官网首页）</p>
+<p>事实上，除了少量的爱心人士和团体的捐款外，众泽会尽可能的多的申请对口的项目资金。比如联合国的，欧盟的，大使馆的，有名的海外基金会的，等等。国外资金的申请是相当严格的，程序也很繁琐，正是因为众泽的专业，相对低成本，和高产出，才能从众多的申请者中脱颖而出，成功申请到某些的项目资金。境外资助方对资金的监管是非常认真的，每一笔钱花到哪了都是需要非常详细的反馈。众泽每一笔账目，都会有各种存档，也都经得起查！打个比方，我当时非常头疼那些博大精深的菜名和餐馆名称如何翻译成英语，是的，除了基础的发票收据，出差每一顿饭吃了什么，什么价格，都要翻译过去，写错的地方对方会打国际长途过来跟我方会计核对的。如果不是众泽扎扎实实的干了那么多事情，不可能申请下来，申请下来了，也不可能持续这么长时间。那些阴谋论者，拜托你们自己去申请一个试试，看看是不是你以为的那么回事。众泽里面的人，忙案子忙调研忙讲座忙支持其他NGO工作都忙不过来，真没空去做间·谍，微博是律师兼职的，官网是行政人员兼职打理的，劳驾您去看两眼，会黑客的去入侵一下，看看有多少国家·机密从这泄漏出去了。说众泽为钱卖国沦为走狗的，挂着公益的羊头卖XX的，讲真，我也觉得这不是公益。放着送大钱来的案子不接，只接自己花钱去助人的案子，前大boss是带着一群人在做慈善！纯公益律师全国你看看能找出几个来？还说众泽在卖国的，您去搜搜boss一家都是什么人？全家都是公众人务，多少双眼睛盯着的，你当媒体都傻吗？</p>
+<p>不要问我为什么被歇业，明眼人都明白，您看不懂还要抹黑的事情，我说啥您也不会信。说不定您还觉得ayawawa的理论倍儿棒！她才真正为妇女谋福祉的人。前一阵有环保方面的NGO员工在某地被官方以嫖娼名义抓了，您看上去也肯定觉得这群NGO真坏，拿钱不干人事还嫖娼。现在众泽歇业了，我心寒又开心，心寒就不说了，开心她们这群人终于可以休息会了！大boss是个极其善良的人，因为做公益，后来患了抑郁症，反反复复多年，13年时还在做各种治疗，也不 清楚现在好些没。当年，我只是一个虾兵蟹将，参与李彦案讨论，看了她们拿回来的证据，就做了一个星期的噩梦，一边洗脑在热恋中的自己这辈子一个人过也挺好，一边恨不得能变成孙悟空，飞到牢里去把李彦换出来。我一个行政人员尚且如此，她们这些冲在最前线的人，要在案子里看那么多世态炎凉，案子外还有那么多方面要周旋，压力是可想而知的。</p>
+<p>众泽里面的员工，是对这篇土地爱得深沉的公民。我很幸运，20岁时，感受到了什么叫朗月清风，曾经瞻仰过这样一群人的风采。更愧疚，没有和他们并肩站到最后。你不曾了解，至少可以不抹黑!!!</p>
+<p>从不骂脏话，在心里面已经骂了某些黑子一万次。</p>
+<p>最后，如果身边有需要法律援助的案子，可以找北京市千千律所。会不会告别不收费的历史我不了解，但是这不是一个三无机构！！！！</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl.jpg" rel="attachment wp-att-427578"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl.jpg" alt="682d01cagw1f0j56ob22aj20yb093jtl" width="585" height="155" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl-300x79.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl-768x203.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl-1024x271.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl.jpg 1235w" sizes="(max-width: 585px) 100vw, 585px"></a><br>
+这群人，是这个社会的良心啊！！！</p>
+<p><strong><em>友情链接</em></strong></p>
+<p>北京众泽妇女法律与咨询服务中心 官网<br>
+http://www.woman-legalaid.org.cn/</p>
+<p>下属项目，妇女观察·中国 官网<br>
+http://www.womenwatch-china.org/</p>
+<p>南方周末报道《郭建梅，你怎么还在做公益律师呀》<br>
+http://www.infzm.com/content/27285/0</p>
+<p>保定晚报报道《律师郭建梅与作家丈夫刘震云》<br>
+http://news.bdall.com/epaper/bdwb/html/2009-06/27/content_85112.htm</p>
+<p>更多的信息，大家随便搜索，遍地是。</p>
+<p>放一则16日的言论，共勉</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2.jpg" rel="attachment wp-att-427567"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2.jpg" alt="682d01cagw1f0j4lvz57yj20yi16fdp2" width="525" height="645" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2-244x300.jpg 244w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2-768x944.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2-833x1024.jpg 833w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2.jpg 1242w" sizes="(max-width: 525px) 100vw, 525px"></a></p>
+<p>申明，我离职好几年了，跟前东家并无联络。本文所有截图来自网络，如有侵权，麻烦告知。侵删。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%89%8D%E4%B8%9C%E5%AE%B6%E4%BB%8A%E6%97%A5%E6%AD%87%E4%B8%9A%EF%BC%8C%E7%94%9F%E5%91%BD%E6%9A%82%E5%81%9C%E5%9C%A820%E5%B2%81%EF%BC%8C%E6%88%91%E6%98%AF%E6%9D%A5%E5%AE%89%E5%88%A9%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">公益组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E5%A6%87%E5%A5%B3/?category=18271" rel="tag">农村妇女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BC%97%E6%B3%BD%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">北京众泽妇女法律咨询服务中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AE%B6%E6%9A%B4/?category=18271" rel="tag">反家暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">妇女法律援助中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%AE%BF%E5%B9%BC%E5%A5%B3%E7%BD%AA/?category=18271" rel="tag">嫖宿幼女罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">家庭暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">郭建梅</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%AF%9B%E7%97%85%E6%9C%AA%E6%94%B9%EF%BC%8C%E7%A7%AF%E6%81%B6%E6%88%90%E4%B9%A0/" target="cdt-mirror">【河蟹档案】毛病未改，积恶成习</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -719,39 +794,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE%E5%86%A4%E6%A1%88%EF%BC%9A%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%84%E5%88%8627%E4%BA%BA%E3%80%80%E7%88%B6%E6%AF%8D%E5%A4%B1%E6%9C%9B/" target="cdt-mirror">BBC | 呼格吉勒图冤案：内蒙古处分27人　父母失望</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/150209091644_cn_huugjilt_grave_976x549_xinhua.jpg" alt="中国媒体称呼格吉勒图案是“全国首例公开宣告纠正已执行死刑的错案”。" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/150209091644_cn_huugjilt_grave_976x549_xinhua-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/150209091644_cn_huugjilt_grave_976x549_xinhua.jpg 660w" sizes="(max-width: 550px) 100vw, 550px"><p>中国媒体称呼格吉勒图案是“全国首例公开宣告纠正已执行死刑的错案”。</p></div>
-<p><strong>中国内蒙古自治区当局公布对呼格吉勒图冤案办案人员的处理结果，27名办案人员绝大多数被中共党内警告、严重警告与行政记过、记大过处分。</strong></p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/01/%E5%8C%97%E4%BA%AC%E9%9D%92%E5%B9%B4%E6%8A%A5-%E5%91%BC%E6%A0%BC%E6%A1%88%E5%A4%84%E5%88%8627%E4%BA%BA%E5%A4%9A%E4%B8%BA%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/" target="_blank">北京青年报 | 呼格案处分27人多为党内警告</a></p>
-<p>官方新华社报道，被处分的包括时任呼和浩特市公安局局王智等11名警方人员，呼和浩特市检察院检察长文达等七名检察人员，以及内蒙古自治区高级法院刑一庭庭长梁国裕和呼和浩特市中级法院院长张凤仪等八名法院人员。</p>
-<p>另外，时任呼和浩特市新城区公安分局副局长冯志明因涉嫌职务犯罪，被另案处理。消息人士去年4月对BBC中文网表示冯志明已被“双开”，但中共呼和浩特市纪委其后透过新华社否认。</p>
-<p>呼格吉勒图父母李三仁、尚爱云星期一（2月1日）在社交媒体上表示，这个处理结果让他们“彻底失望”。</p>
-<p>家属们透过新浪微博认证账户“呼格吉勒图父母”发帖说：“今天，对造成呼格冤案的27人追责进行了公布。我们真沒想到会是这样一个追责结果。这就是对社会一个交待吗？在依法治国的今天。人命关天就一个处分而已。根本没有起到任何警示作用。处分太轻，责任不明，轻描淡写。这就是追责到底？”</p>
-<p>尚爱云其后对《北京青年报》说，得知消息时，自己气得浑身发抖，接受不了。</p>
-<p>尚爱云说：“我们从始至终并非想要追责所有的办案人员，只是希望起码能对那些主办人员比如那些对呼格严刑逼供的人、造假的人，有个明确的法律责任认定。”</p>
-<p>“我真的担心，这种浮皮潦草的追责，能让当年那些办案人员认识到错误吗？连责任都没追究到位，以后他们能尽力去办好案吗？”</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/01/141231061234_cn_hohhot_huugjilt_parents_976x549_xinhua.jpg" alt="呼格吉勒图案平反后，父母李三仁、尚爱云获内蒙古高院支付国家赔偿200余万元人民币。" width="550" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/01/141231061234_cn_hohhot_huugjilt_parents_976x549_xinhua-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/01/141231061234_cn_hohhot_huugjilt_parents_976x549_xinhua.jpg 624w" sizes="(max-width: 550px) 100vw, 550px"><p>呼格吉勒图案平反后，父母李三仁、尚爱云获内蒙古高院支付国家赔偿200余万元人民币。</p></div>
-<p><strong>各方讶异</strong></p>
-<p>呼格案处理结果公布后，社交媒体上几乎一面倒的质疑当局的决定。</p>
-<p>美国民间组织人权观察的中国部研究员王松莲在Twitter上形容这是“中国特色的追责”。她说：“对一个18岁的青年施以酷刑后枉法冤判后处死，只换来个内部处分！”</p>
-<p>北京知名律师陈有西也在新浪微博上说：“冤案反座，真不如封建法。这种轻打轻拍，不如不追究。刑讯逼供和玩忽职守今后会更烈、更肆无忌惮。”</p>
-<p>江苏苏州大学法学院教授周永坤质问：“有没有刑讯逼供？如果有，如此严重的犯罪行为怎么没有一人坐牢？这就是在冤主多年追责下才有的结果！”</p>
-<p>其他网民也表达了对处理结果的不满和对呼格吉勒图家属的同情。辽宁网民“永远的阳光小屋”说：“一起感受下，当年呼格吉勒图被押复刑场执行枪决时的心理感受，他对这个世界能想说些啥？又能说些啥？”</p>
-<p>吉林长春网民“蒲公英”问：“说好的‘玩忽职守’罪呢？一伙公职人员合谋害死无辜的平民百姓，最后开个茶话会，互相党内警告就过关了？公家的凳子还照坐不误？说什么好呢？说‘呵呵’吧。”</p>
-<p>事发于1996年，呼和浩特18岁纺织工人呼格吉勒图被认定为一起奸杀案凶手，法院在案发后61天内完成一审和终审，并对呼格吉勒图执行死刑。</p>
-<p>2005年，赵志红因多起强奸杀人案落网，其后并坚称自己是“呼格案”真凶。呼和浩特中院于2006年11月对赵志红系列案件开庭一审，但赵志雄招认了10起案件，公诉机关却只起诉九起，唯独漏掉了“4·9”女尸案，此举遭到了被告人本人质疑。</p>
-<p>自此，赵志红案一直休庭，期间媒体争议不断。而呼格吉勒图父母李三仁夫妇则多次上访，要求为儿子翻案重审。</p>
-<p>最终，内蒙古高级法院2014年11月宣布重审，12月中裁定呼格吉勒图无罪，并向赵志红追加起诉“4·9”女尸案的故意杀人罪和强奸罪。</p>
-<p>呼和浩特中院去年2月9日裁定赵志红故意杀人、强奸、抢劫、盗窃罪成立。赵志红不服上诉，内蒙古高级法院于4月30日驳回上诉，维持死刑判决。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/01/bbc-%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE%E5%86%A4%E6%A1%88%EF%BC%9A%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%84%E5%88%8627%E4%BA%BA%E3%80%80%E7%88%B6%E6%AF%8D%E5%A4%B1%E6%9C%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内警告处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%A3%80%E6%B3%95/?category=18271" rel="tag">公检法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E5%81%87%E9%94%99%E6%A1%88/?category=18271" rel="tag">冤假错案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE/?category=18271" rel="tag">呼格吉勒图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E5%88%91/?category=18271" rel="tag">死刑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -763,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -773,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

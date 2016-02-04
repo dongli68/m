@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,111 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9D%8E%E6%96%B0%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%87%AA%E6%84%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%E7%94%B5%E8%AF%9D%E5%98%B1%E5%92%90%E5%A6%BB%E5%AD%90%E4%BF%9D%E9%87%8D/" target="cdt-mirror">自由亚洲｜李新被警方“自愿接受调查”电话嘱咐妻子保重</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg" rel="attachment wp-att-427624"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg" alt="南都网前编辑李新。（李妻提供/记者乔龙）" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>南都网前编辑李新。（李妻提供/记者乔龙）</p></div>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%96%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E5%B0%86%E6%88%91%E9%80%81%E5%85%A5%E7%9B%91%E7%8B%B1/">奇闻录 | 他们可以随时将我送入监狱</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E9%83%BD%E7%BD%91%E5%89%8D%E7%BC%96%E8%BE%91%E6%9D%8E%E6%96%B0%E6%B5%B7%E5%A4%96%E7%88%86%E6%96%99%E9%81%AD%E6%8A%A5%E5%A4%8D-%E5%A6%BB%E5%AD%90/">自由亚洲｜南都网前编辑李新海外爆料遭报复 妻子出境被拒</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%9B%BD%E5%AE%89%E5%B1%80%E7%BA%BF%E4%BA%BA%E7%BB%86%E6%95%B0%E5%B9%95%E5%90%8E%E7%9B%91%E6%8E%A7-%E9%99%90%E5%88%B6%E5%AD%A6%E8%80%85%E5%AA%92%E4%BD%93/">自由亚洲｜国安局线人细数幕后监控 限制学者媒体刊载文章有“黑名单”</a></li>
+</ul></blockquote>
+<p>上个月在泰国边境离奇失踪的南都网前编辑李新，终于在中国境内现身。2月3日，李新家乡河南新乡市公安通知李新的妻子何方先到当地派出所与李新通电话。何方先告诉本台，李新说他自己自愿回国接受调查，很快就会有结果，但没有透露他现在何处接受调查。</p>
+<p>1月11日，南都网前编辑李新在泰国北部边境失踪，引起国际社会关注，要求中方提供李新的下落。事发近一个月，李新的妻子何方先网名“十三妹”终于 得知丈夫已被带到国内，由警方控制。2月2日下午，十三妹致电李新家乡派出所一名警察的电话，她说：“我今天打电话给公安，我说今天第三天了，怎么还没有消息？她说要汇报一下，我说还汇报啊，早就说要汇报一下，她说向上级汇报了，我要问一下领导。几个国保打电话来，我说李新有消息吗，他说有点眉目了，我们需要面谈”。</p>
+<p>2月3日上午，当地派出所致电十三妹，要求她到派出所接李新的电话。其后十三妹告诉记者，李新在电话中告诉她，正被警方控制“接受调查”：“李新跟我通话时，不告诉我人在哪里，不让我知道，就说已经在国内接受调查。叫我好好的过日子，过一个年。我问他什么时候有结果，他说叫我安安静静的，他说这对他，对我都有利，争取很快就会有结果”。</p>
+<p>被问及李新被警方控制的原因，十三妹说：“什么原因没有说，他只说我之前做的那些事，你也知道的，所以我愿意接受调查。但是李新说，叫我不要跟外界联系，叫我好好过日子。他说要不然对我，对他更加不利。我真的不知道怎么办”。</p>
+<p>曾自曝不甘给中国河南国安充当线人的南都网编辑李新，去年10月3日经香港抵达印度新德里后，曾对外披露中国当局设置网络黑名单，搜集广东南方都市报记者的个人资料，干扰新闻自由及搜集香港及河南新乡NGO组织的情况。他当时称，他不堪长期过着人格分裂的生活，最后逃离大陆。</p>
+<p>今年1月1日，李新辗转到泰国，10日晚登上由曼谷前往边境廊开的列车，但于11日早上突然与“十三妹”失去联系。其后，“十三妹”向联合国及国际人权机构发出求助，希望协助寻找李新的下落。</p>
+<p>本台记者3号致电李新家乡的派出所一位女警官，查询李新的下落。对方表示，只负责安排李新与妻子通话，案件由多个部门负责，与派出所无关。该警察说：“他的事我们不知道，我们只是向上级反映人家传过来的话，他在哪里，我们不知道。是他的老婆要求安排这件事（查询），我们向有关部门查询，人家反馈过来的信息”。</p>
+<p>记者：是从哪里反馈过来的信息？</p>
+<p>公安：是上面，好几个部门，具体是哪里，我也弄不清楚。不是辉县（现升格为市）的，辉县公安局不管这事。她（十三妹）不是报案说李新失踪了，我们帮她了解。我们这里不办这个案子。</p>
+<p>记者：今天李新和他的妻子通话的时候，李新在哪里？</p>
+<p>公安：我们没有和李新通电话，是他的老婆和李新通电话。</p>
+<p>目前怀有身孕，并带着一位两岁孩子的十三妹说，她的丈夫应该就在新乡市：“我估计在新乡，因为那两个国安（国保）是新乡的。他们也说我们是派出所，是上级在处理这件事，说这件事也不小，要接受调查。我律师都找好了，还在商量中，关键是他们不告诉我人在哪里”。</p>
+<p>1月28日，“国际特赦”组织就李新在泰国失踪事件发出紧急呼吁书。呼吁各界致信中、泰外交部和中国驻泰使馆，敦促两国政府尽快查明李新的下落并予以公开。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9D%8E%E6%96%B0%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%87%AA%E6%84%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%E7%94%B5%E8%AF%9D%E5%98%B1%E5%92%90%E5%A6%BB%E5%AD%90%E4%BF%9D%E9%87%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%8D%97%E9%83%BD%E7%BD%91%E7%BC%96%E8%BE%91/?category=18271" rel="tag">前南都网编辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%96%B0/?category=18271" rel="tag">李新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B1%B1%E4%B8%9C%E7%9F%BF%E9%9A%BE13%E4%BA%BA%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C%E5%BD%93%E5%9C%B0%E6%8E%A8%E5%87%BA%E6%95%91%E6%8F%B4%E5%A5%87%E8%BF%B9%E7%BA%AA%E5%BF%B5%E6%88%B3/" target="cdt-mirror">【异闻观止】山东矿难13人生死未卜 当地推出救援奇迹纪念戳</a>
+</h2>
+<p><blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324.jpeg" rel="attachment wp-att-427616"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324.jpeg" alt="oyBR-fxnzanh0675324" width="440" height="347" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324-300x237.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324.jpeg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592.jpeg" rel="attachment wp-att-427615"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592.jpeg" alt="na5J-fxnzpkx5893592" width="400" height="298" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592-300x224.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592.jpeg 400w" sizes="(max-width: 400px) 100vw, 400px"></a><br>
+来源：齐鲁网</p>
+<p>为记载发生在山东平邑石膏矿难，经过36天的艰苦奋斗，被困井下的4名矿工终获救的世界奇迹，纪念邮戳分别在省城济南和山东平邑邮政分公司启用，为社会用邮和义务加盖收藏服务。据悉，“矿山救援 平邑奇迹”戳记，是山东首套矿难救援纪念邮戳。</p>
+<p>新京报早先报道：</p>
+<p><strong>山东平邑矿难被困者熬不住曾留遗言 13人仍失联</strong></p>
+<p>对话人物</p>
+<p>杜兵建：国家矿山应急救援中心基地专家，平邑石膏矿坍塌事故救援现场技术专家组组长</p>
+<p>张希诚：山东能源临沂矿业集团董事长，平邑石膏矿坍塌事故救援现场技术专家组副组长，井下救援副总指挥。</p>
+<p>2015年12月25日，山东平邑发生石膏矿垮塌事故。和以往传递给公众的一串冰冷的遇难者数字不同，矿难的36天之后，4名被困矿工获救。</p>
+<p>加上先期被救出的7名矿工，“井下救援+井上钻孔”的营救方案，挽救了11人的生命。</p>
+<p>36天，创造了中国矿难史上从人员被困到成功获救时间最长的纪录。</p>
+<p>首例大口径钻孔救援成功，也为我国矿难救援提供了可鉴样本。<br>
+[…]<br><strong>13人仍失联 救援尚未结束</strong></p>
+<p>新京报：矿工马上升井时，你的焦虑消失了？</p>
+<p>杜兵建：当时现场有四五百人，大家都很高兴，觉得人马上就要上来了。可我的心一直悬着，地层变化没停止，提升过程还有可能发生不测，比如钻钢折 断、钻孔变形，最后功亏一篑。1月29日晚上9点21分，第一名矿工顺利升井。从钻孔中提升到地面，216米，每个人都需要半小时，四个人是2个小时，这 2个小时，就像钻孔的这32天一样漫长。</p>
+<p>新京报：这次救援，我们收获了什么？</p>
+<p>杜兵建：我国之前没有这种钻孔救援的先例，这在全世界也是第三例。放在以往，这四个人是没有生还希望的。最大的收获是，我们用这种最先进的救援技术，挽救了四个生命，将被困地下200多米深处的人员救出来。</p>
+<p>还有，这次在仍然变化运动的地层上钻孔，在原理上，本是行不通的，但我们救援团队克服种种困难，做到了，这对我们是很大的鼓励。</p>
+<p>新京报：目前井下仍有13人失联，他们生还的可能性有多大？</p>
+<p>张希诚：按照常规，失联40天，被困人员几乎没有生还的可能了。救援现在还没结束，但是目前实施救援的可能性和难度有多大，还需要专家讨论给出意见。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@呆呆雷雷：我们希望这奇迹 永远不要发生</p>
+<p>@染惟嫣：别膈应我了，我都以为他们会在里面过年了，现在还推什么纪念戳</p>
+<p>@杜宇80后：还有13人下落不明！！！还有13人下落不明！！！还有13人下落不明！！！</p>
+<blockquote><p>@人民议员：Comment with pics<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk.jpg" rel="attachment wp-att-427611"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk.jpg" alt="006ad646jw1f0n3gr6ow9j30k00cfwfk" width="440" height="273" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk-300x186.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
+<p>@5大脑袋：这逻辑我理解不了</p>
+<p>@工作中的大松子儿：天津邮政是不是也得出了大爆炸邮戳？</p>
+<p><a href="http://weibo.com/1680259235" target="_blank">@半仙儿说你看那个人好像条狗诶</a>：<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">有没有追责戳</p>
+<p>@葛峰V：靠，算你们狠！</p>
+<p>@四处乱逛的猪：不办成喜事不罢休。</p>
+<p>@山山贝贝：真她妈的不要脸</p>
+<p>@我是你翁蜀黍：不以为耻反以为荣</p>
+<p>@怒罗江门啃泥：为了显摆政绩拿这当跳板好往上爬不顾人性毫无下限以后这些人还会当我们的领导而且我们一点办法都没有，GOOD。</p>
+<p>@兔撕兔耶夫斯基：又是纵做鬼也幸福的节奏呗？</p>
+<p>@MATTHAKO：天啊！真是服了！欲加之功，何患无辞</p>
+<p>@叶庸人：不急于去调查公布事故发生的原因 ，给老百姓一个交代。反而在这歌功颂德营救多出色厉害，这是什么病态思维？ 人无耻无以立，可怜可悲的政绩观 竭尽全力地去掩饰躲避事故的责任！！</p>
+<p>@别人不懂咖啡的心酸：通过这几次重大责任事故，我已经深刻感受到政府的强大和对新闻媒体干预是不可想象的。天津港事件，深圳滑坡事件，东方之星事件，都是那么大得责任事件，调查都没有调查清楚，各大媒体都是报告两天都销声匿迹了，而且在报告时候大都赞扬救援人员如何辛苦～你说这样的国家未来会很光明吗？每想到这很气愤</p>
+<p>@你是叫小鑫鑫吗：本来不应该发生的矿难，却被他们当成了政绩，很自豪吗？</p>
+<p>@zeropiao：永远是这样，臭不要脸。矿下还有13个人呢，救出4个人就歌功颂德。想过那13个人的家属吗？</p>
+<p>@倾诉者无语：又一批先进单位和个人，应运而生。</p>
+<p><a href="http://weibo.com/1155579755" target="_blank">@霄_xiao</a>：矿工们出井，领导热情握手表示祝贺，贡献破世界记录争取再接厉下次再出好成绩。<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@魅魑魉魍：报告书记，庆功大会已准备就绪！</p>
+<p><a href="http://weibo.com/malin111" target="_blank">@月歌清风</a><i></i>：这个邮戳应该买，流传给后人让他们更深地认识一下我们的时代是什么样子的，这就和当年亩产万斤的人民日报一样具有珍贵的历史价值<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706.jpg" rel="attachment wp-att-427617"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706.jpg" alt="20151128110731706" width="400" height="284" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B1%B1%E4%B8%9C%E7%9F%BF%E9%9A%BE13%E4%BA%BA%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C%E5%BD%93%E5%9C%B0%E6%8E%A8%E5%87%BA%E6%95%91%E6%8F%B4%E5%A5%87%E8%BF%B9%E7%BA%AA%E5%BF%B5%E6%88%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B%E5%96%9C%E5%8A%9E/?category=18271" rel="tag">丧事喜办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E9%82%91%E7%9F%BF%E9%9A%BE/?category=18271" rel="tag">平邑矿难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9/?category=18271" rel="tag">这是一个奇迹</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A7%E6%92%92%E5%B8%81%E3%80%81%E4%B9%A0%E6%8C%96%E5%9D%91%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-02/" target="cdt-mirror">【敏感词库】“大撒币”、“习挖坑”等热点 2016-2-2</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2014/11/15680493230_39c442c196_z.jpg" alt="Xi Jinping, Painted Portrait" width="550" height=""><br><em>图片来源：<a href="https://www.flickr.com/photos/home_of_chaos/15680493230">Thierry Ehrmann</a></em></p>
+<p>［新浪微博搜索禁词测试时间：2016年2月02日］</p>
+<p><strong>大撒币</strong>（<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/">相关专题</a>）</p>
+<p><strong>习 + 挖坑</strong><br><strong>刁core</strong><br><strong>习core</strong>（复测）<br><strong>梦雪</strong>（曾有传言称梦雪为习近平情人）</p>
+<p><strong>宋祖英＋江</strong></p>
+<p><strong>我冷＋央视记者</strong>（2月3日已解禁）</p>
+<p><strong>撸色</strong></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%A4%A7%E6%92%92%E5%B8%81.png" alt="大撒币" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/大撒币-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/大撒币-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/大撒币.png 771w" sizes="(max-width: 771px) 100vw, 771px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E6%8C%96%E5%9D%91.png" alt="习 + 挖坑" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/习-挖坑-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/习-挖坑-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/习-挖坑.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%88%81core.png" rel="attachment wp-att-427607"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%88%81core.png" alt="刁core" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/刁core-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/刁core-768x330.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/刁core.png 843w" sizes="(max-width: 843px) 100vw, 843px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0core.png" rel="attachment wp-att-427606"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0core.png" alt="习core" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/习core-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/习core-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/习core.png 840w" sizes="(max-width: 840px) 100vw, 840px"></a><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%A2%A6%E9%9B%AA.png" alt="梦雪" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/梦雪-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/梦雪-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/梦雪.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%AE%8B%E7%A5%96%E8%8B%B1%EF%BC%8B%E6%B1%9F.png" alt="宋祖英＋江" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/宋祖英＋江-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/宋祖英＋江-768x301.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/宋祖英＋江.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%88%91%E5%86%B7%EF%BC%8B%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85.png" alt="我冷＋央视记者" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/我冷＋央视记者-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/我冷＋央视记者-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/我冷＋央视记者.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%92%B8%E8%89%B2.png" alt="撸色" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/撸色-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/撸色-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/撸色.png 772w" sizes="(max-width: 772px) 100vw, 772px"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A7%E6%92%92%E5%B8%81%E3%80%81%E4%B9%A0%E6%8C%96%E5%9D%91%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-02/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85/?category=18271" rel="tag">央视记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E7%A5%96%E8%8B%B1/?category=18271" rel="tag">宋祖英</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%94%E6%9D%82%E7%9A%84%E6%84%8F%E6%B7%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E/" target="cdt-mirror">【麻辣总局】F-223244：兔粉的意淫与现实</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/5675242429/Dg1Ws1J8V">@F-223244</a>：分享图片</p></blockquote>
@@ -648,137 +750,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%9B%BD%E4%BC%81%E8%BF%98%E6%98%AF%E8%B5%B5%E4%BC%81/" target="cdt-mirror">乔木：国企还是赵企</a>
-</h2>
-<p><p>如果你作为股东，投资一个企业，企业赚了钱，去掉各种成本费用、员工薪酬，除了给政府交税，是不还得给股东交利润，否则你办企业为了啥？中国的国企，不管是中央直管的央企，还是地方政府的国企，都叫全民所有制企业，也就是说每个国民都是股东。可是除了给政府交税，作为股东，你分到过红利吗？</p>
-<p>根据统计，中国的各种国企，除了给政府交税，长期不给国民股东（或代管的政府）交利润。近几年开始交利润，但比例相当的低，分为15%、10%、5%和不交四档。2008年前只交税不交利，以后开始逐渐交利，最高的年份，也很低。比如2014年，整个国企的利润是25000亿元，只上交了2000亿元，约占8%。</p>
-<p>那么这么多利润，都去哪了？</p>
-<p>一是员工、特别是高管工资之外的各种福利、奖金，最有名的例子是前几年爆出来的新闻，平安保险公司的老总马明哲，本来就有近千万的年薪，还要再拿七千万元的绩效奖励。</p>
-<p>垄断性国企员工的高收入有目共睹，问题在于国民的私人资本和外国资本不准进入这些行业，由政府赋予他们行政性垄断，进行烟草、电讯、能源和金融等的专营，获得的收益应该补偿、回馈全民，怎么能任由他们私分独占？</p>
-<p>二是挥霍浪费。国企员工特别是领导层，在高额的工资、福利、奖金之外，挥霍浪费也是惊人的，反正这种事也不会治罪。以报道的中石化前董事长陈同海为例，称“每月交际费一二百万算什么”。中石化大楼里的一个吊灯不管是网民爆料的采购价1200万元，还是企业宣称的156万元，其奢侈都令人咋舌。</p>
-<p>一个拥有10万员工的国企矿业集团领导告诉我，“10万员工10万贼”，效益好的时候无所谓，反正有的是钱。效益不好的时候，更是偷拿贪占，能捞就捞，只要留下厂房、套住银行就成。</p>
-<p>三是扩张滥用、贪污受贿。前几年煤炭价高的时候，国有煤矿国内外疯狂扩张并购，我问该领导万一产能过剩、能源升级、价格走低，花出去的钱收不回来怎么吧？他说有钱就花，政府扶持、银行贷款，不花会断了很多人的财路，也显示不出政绩。有权不用，过期作废，至于以后，谁管那么多。变换的是领导，不倒的是国企。</p>
-<p>国企为什么砸钱扩张，除了自上而下的政府官员好大喜功外，最主要的是各个交易环节的回扣、好处和贿赂。倒台的华润老总宋林被指在并购山西的煤矿时，做高价格，中饱私囊。山西焦煤集团老总白培忠家中被劫几千万元财物，报案却只称几百万。为什么？国企领导钱多不干净，后来果然被查。</p>
-<p>经常看别的国家地区企业盈利，给全体国民股东分利润、发红包。比如蒙古的国有能源企业收益，除以二百万人口，每个国民都有份。澳门的博彩业普通人不能经营，特许某些企业专营，获得的利润全体居民每年发红包。中国的国企这么有钱，为什么很少交利润，不给国民发红包呢？</p>
-<p>打着国企或全民所有制的名号，实际是赵家办的企业，外姓人只有支持、忍耐的份，分红获利无关。别的不说，最关键的是国企的所有权属于人民，但董事长、总经理的任命都有赵家说了算，看看有多少能源、通讯、金融国企的负责人都是红二代、官二代的权贵子弟，而且政商角色任由赵家人转换。</p>
-<p>比如倒台的陈同海，原来是宁波市委书记、发改委副主任，摇身一变，成为最赚钱的中石化董事长，其父陈伟达中共元老、中央政法委书记。现任山西省长李小鹏，原来是华能集团的董事长，其父其妹是谁，众所周知。赵老爷打江山、坐江山，如果不能让赵少爷、赵小姐享用获利，福荫子孙，那不真成了无产阶级革命家了？</p>
-<p>目前中共也在对国企降薪，逐步提高上交利润的比例。但最关键的是，这么有钱的国企，全世界最有钱的政府，何时给国民股东发红包、增福利？没有经济权利的根本原因是没有政治权力，权力不民选，权非民所授，利为民所谋？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%9B%BD%E4%BC%81%E8%BF%98%E6%98%AF%E8%B5%B5%E4%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-e%E7%A7%9F%E5%AE%9D%E6%9B%9D500%E4%BA%BF%E5%85%83%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80-%E8%B6%8595%E9%A1%B9%E7%9B%AE%E8%99%9A%E5%81%87/" target="cdt-mirror">纽约时报 | e租宝曝500亿元庞氏骗局 超95%项目虚假</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/e%E7%A7%9F%E5%AE%9D.jpg" alt="2015年12月，“e租宝”在杭州的办公地点大门紧锁。" width="550" height="360"><p>2015年12月，“e租宝”在杭州的办公地点大门紧锁。</p></div>
-<p>中国一家网络金融公司诈骗投资者资金500多亿人民币（约合76亿美元），把巨额金钱花在赠送他人和支付高工资上，还埋藏证据，正在调查这个当局称之为巨大庞氏骗局的当地警方说。</p>
-<p>这些指控让中国的网络金融行业蒙上阴影，尽管这一利润丰厚的行业已产生了全球领导者，但当局表示，行业中也出现了越来越多的欺诈案和昙花一现的公司。</p>
-<p>据中国官方的新华通讯社报道，中国官员说，昔日的行业主力e租宝，向其近100万的投资者提供的投资产品大多数是假的。报道称，当局已在中国东部省份安徽逮捕了21人，关闭了e租宝融资平台的一些操作，安徽是e租宝总部所在地。</p>
-<p>“‘e租宝’就是一个庞氏骗局，”新华社援引公司前总裁张敏的话说。无法联系到公司管理层对此发表评论。</p>
-<p>近年来出现了一大批愿意为客户提供国有银行不提供的东西的中国公司。中国老百姓在广泛使用自己的智能手机购买日用品、或进行资金转帐，新型的金融公司在向小企业、学生以及其他被国有银行习惯性忽视的群体提供贷款。</p>
-<p>e租宝告诉投资者，它是一家从事个人对个人借贷的公司，利用互联网为潜在的借款方与投资者搭桥。中国的个人对个人（简称P2P）借贷的增长势头一直很强劲，据摩根士丹利估计，去年的总借贷额已超过美国，达到332亿美元。摩根士丹利估计，中国的P2P借贷市场高度分散，有1500多个从事这类借贷的平台。</p>
-<p>但是，据地方政府说，与个人对个人借贷有关的非法集资案件也在过去两年中迅速增长，官员曾在去年12月承诺要加强对这个行业的监管。由于涉及的资金数额以及投资者人数巨大，一家主要的在线融资平台的崩溃，可能会引发人们对这类投资产品安全性信赖问题的担忧。</p>
-<p>当局着手办理e租宝的案子已经好几周了。新华社说，去年12月，有关部门对公司的非法商业活动展开调查。</p>
-<p>新华社周日的报道说，地方当局的调查发现，公司大部分的投资产品都是假的。有些投资产品向投资者提供高达15％的年利率。</p>
-<p>与投资相反，这个由安徽钰诚集团在2014年7月建立的平台，被公司的高层管理人员用来填饱私囊，新华社说。</p>
-<p>据新华社报道，钰诚集团董事会执行局主席丁宁被指控花在赠送包括房地产、汽车和奢侈品等礼品上的钱就达十多亿人民币。</p>
-<p>报道还说，公司发给丁宁的弟弟丁甸的工资，从每月1.8万元涨到每月100万元，公司去年11月花在工资上的开支高达8亿元。</p>
-<p>据新华社报道，在钰诚集团下属的一家公司负责风险控制的一位高管表示，公司在平台上兜售的投资产品中95％以上是假的。</p>
-<p>指控称，这些欺诈者们看来在隐瞒自己的诡计上费尽心机，为躲避调查试图埋葬证据，这不仅仅是个比方。</p>
-<p>新华社的报道说，受警方怀疑的人将1200多册证据材料装进80多个袋子，并把袋子埋在安徽省省会城市合肥郊外某处6米深的地下。</p>
-<p>报道说，警方动用了两台挖掘机，花了20多个小时，才把这些袋子挖出来。新华社称，警方对这个案子的描述是“难度极大”。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-e%E7%A7%9F%E5%AE%9D%E6%9B%9D500%E4%BA%BF%E5%85%83%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80-%E8%B6%8595%E9%A1%B9%E7%9B%AE%E8%99%9A%E5%81%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/e%E7%A7%9F%E5%AE%9D/?category=18271" rel="tag">e租宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%80%9F%E8%B4%B7/?category=18271" rel="tag">个人借贷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/?category=18271" rel="tag">庞氏骗局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E8%AF%88%E9%AA%97/?category=18271" rel="tag">金融诈骗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84/?category=18271" rel="tag">非法集资</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%8A%82%E6%97%A5%E8%B4%9F%E6%8B%85%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%EF%BC%9F/" target="cdt-mirror">大象公会 | 中国人的节日负担为什么这么重？</a>
-</h2>
-<p><p>作者：鲍君恩</p>
-<p><strong>为什么中国人特别好送人情？为什么中国人送礼轻仪式重价值？为什么越是社会底层人情负担越重？</strong></p>
-<p>你会觉得春节轻松快乐吗？</p>
-<p>对多数中国人来说，春节恐怕不是轻松愉快的假期。未婚青年的痛苦，是又要面对亲戚朋友的“什么时候解决个人问题”的关切，已成家立业者的痛苦则更甚，你必须提着礼物把所有重要关系拜访一遍，仅送礼的人情支出就是笔沉重负担。</p>
-<p>据西南财经大学 2012 年《中国家庭金融调查报告》，中国家庭的人情支出占总收入的 22.1%，尤其是收入水平最低的城市家庭——他们占到了总数的四分之一——人情支出竟占了总收入将近一半。对多数工薪阶层来说，年终各项奖金远不抵送礼支出。</p>
-<p>中国的人情支出为什么这么多？可能有人将之归结为文化传统——中国人是世界公认最爱面子的民族。但同属汉文化圈，儒家传统痕迹甚至更重的韩国，虽也有多达 96%的国民抱怨“红包炸弹”，但 2014 年韩国工薪阶层平均人情支出约 33 万韩元，只占总收入的 1%，与中国人相比，韩国人叫苦不迭的人情压力实在不值一提。</p>
-<p>最爱送礼的民族</p>
-<p>韩国的送礼压力虽与中国完全不在一个量级，但已是全世界最像中国的国家。</p>
-<p>现代西方社会，人与人之间礼物交换的象征意义往往远大于实际价值。比如德国人最喜欢送的礼物是书，廉价酒、巧克力也是常见的伴手礼，如果礼物超值，德国人会觉得很尴尬——在大量中国留德学生的回忆中，往往会出现礼物太贵导致对方拒收。而且，德国人还有当面拆礼并表示感谢的习惯，这在多数中国人看来都是粗鲁无礼的举动。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E7%A4%BC%E7%89%A9%E7%AF%AE%E5%AD%90.jpg" alt="礼物篮子" width="550" height="375" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/礼物篮子-300x204.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/礼物篮子.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>常见于西方的礼物篮子（Gift Basket），一般多由食物组成，更注重礼物本身的实用性。</p></div>
-<p>欧美婚礼也极少见到塞满钞票的红包，多数情况下，新郎新娘会列出所需物品的清单，客人照此选择礼物，即便空手而来也不会有人太介意。最大的差异恐怕是鲜花，在中国，这种徒有其表、毫无实用价值的礼物一般只会出现在受西方影响的情人节，但西方人送鲜花已有悠久传统，并发展出适用于不同场合的花语系统。</p>
-<p>欧美非常注重礼物的包装，这恰恰是中国人不太重视的。比西方更讲究的是日本，虽然送出的礼物大多也只是啤酒、糕点等快消品或瓷器、纸扇等廉价工艺品，甚至可能是指甲刀、挖耳勺，但日本发展出了一套复杂的“赠答文化”，不同节日、不同场合，包装纸的选择，礼品绳的颜色、数量、系法都不一样，如不慎包装错误，则是非常失礼的事。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%97%A5%E6%9C%AC%E7%B3%95%E7%82%B9.jpg" alt="一些日本糕点会被当做特定场合的赠物" width="550" height="339" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/日本糕点-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/日本糕点.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>一些日本糕点会被当做特定场合的赠物</p></div>
-<p>日本人婚宴、葬礼上也会送出礼金，但红白喜事规模比中国小得多，如婚宴一般在百人以下，受邀者只是平时关系密切的亲朋友好友，按中国酒席布置不到十桌人。这种规模按中国标准可算寒碜，通常会被认为混得不好，缺少人缘。婚宴动辄五六十桌甚至上百桌才被认为是有头有脸。</p>
-<p>从收入水平与礼金数额看，日本人的礼金也远不及中国人出手大方。日本同样有过年给压岁钱的习惯，但大都只是象征性的几千日元，考虑到日本人的平均收入，实在是抠门得谈不上人情压力。</p>
-<p>不过，日本人送礼金时有很强的仪式感——不同场合礼金袋颜色样式不同，还要套上水引绳完成包装。礼金袋外层封套写法和折法，出席人数、关系还会影响具体写法及顺序；不同场合礼金袋的折叠方法也不一样，婚礼必须用崭新纸钞，丧礼则用旧币。而中国人的红包一般只写封包者的名字和几句吉祥话，仪式感不重要，重要的是包多少钱。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%97%A5%E6%9C%AC%E7%BA%A2%E5%8C%85.jpg" alt="用于祝贺的日本“红包”袋" width="500" height="457" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/日本红包-300x274.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/日本红包.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"><p>用于祝贺的日本“红包”袋</p></div>
-<p>即便是同样为红包困扰的韩国，一般送的也多是廉价的日用品或食品，如韩国人搬家后经常会收到手纸、洗衣粉等礼物，中国人恐怕难以理解。</p>
-<p>中国人的送礼文化在两方面与众不同：一是礼物价值，在经济能力范围内越贵越好，或干脆送现金，且送礼场合远不限于节日和红白喜事，几乎逢事必送，在计划生育初期的中国农村，甚至妇女做结扎手术也会有很多人送礼；二是缺乏仪式感，往往是钱到心意到，一般不太在意礼物的包装，各种颜色的塑料袋是常见选择。</p>
-<p>中国式送礼被认为是儒家重礼文化的延续，其实是个天大的误会，当代中国人对送礼的描述通常为“送人情”，这一模糊暧昧的表述更与礼乐制度规范身份等级的本义相去甚远，它与儒家传统的关系，甚至连外表都谈不上有多像。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E5%9B%BD%E5%A9%9A%E7%A4%BC%E7%A4%BC%E9%87%91%E6%9D%A1.jpg" alt="极具中国特色的婚礼礼金条 " width="420" height="480"><p>极具中国特色的婚礼礼金条</p></div>
-<p>——“礼尚往来”、“来而不往非礼也”的传统观念，注重的是礼节、礼数，而非礼物的价值本身，直至晚清和民国，中国民间送礼也更重视礼品的象征性而非工具性，送礼过程有相当繁琐的仪式和讲究，与今天的日本类似。</p>
-<p>其实，与中国人情文化最相似的国家，并不在东亚文化圈。</p>
-<p>人情与庇护系统</p>
-<p>“人情”并非中国的特殊国情，更非国民性的体现，实际上，它在前苏东国家普遍存在——前苏联和现在的俄罗斯叫布拉特（blat），波兰叫“dojscie”，匈牙利叫“protekcio”。</p>
-<p>布拉特和人情一样，都是无法用外语准确翻译的概念，它不是传统社会普遍存在的礼物交换，亦不同于类似市场交易的等价交换，也不是简单的行贿，而是介于两者之间，其目的是为了在计划体制下突破资源配置的限制，靠长期的人情支出维护发展出的庇护关系。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%AE%BD%E5%88%BA%E4%BA%BA%E6%83%85%E6%BC%AB%E7%94%BB.jpg" alt="讽刺人情漫画" width="550" height="413" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/讽刺人情漫画-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/讽刺人情漫画.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>讽刺“人情”的漫画：平日常人难以接近的领导在“生日”那天开门迎客</p></div>
-<p>苏东地区之所以普遍存在“人情”，是因为这些国家老百姓生活所需的一切资源都控制在国家干部手中，大到分房子、看病，小到为子女办准生证，甚至分配柴米油盐等日用品都在计划之内。</p>
-<p>计划制定者即使全心全意为人民服务，也不可能把每个国民的需求都纳入国家计划，所以计划的美意往往会成为国民痛苦的来源——从国家角度而言，能准确统计每年人均多少花布、多少双皮鞋、多少块肥皂、多少个避孕套，平均分配下去，它就是好计划，即使只给全体国民提供同一花色的花布、同一款式的皮鞋、同一功能的肥皂，同一规格的避孕套。</p>
-<p>所以，计划体制在事实上是不可能被严格执行的，无论是普通国民，还是基层具体组织、单位，无法被纳入统一计划的需求差异，都会成为计划体制的腐蚀剂，使之具有足够的弹性，而决定其弹性的，不是抽象的国家机器，而是具体决定分配权的各级干部——干部也是人，多数干部是有人情的。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%95%91%E5%8A%A9%E6%A3%89%E7%A5%A8.jpg" alt="“可以赠送，禁止买卖”" width="550" height="275" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/救助棉票-300x150.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/救助棉票.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>“可以赠送，禁止买卖”</p></div>
-<p>在计划体制内，国民除了努力假装为国奉献，还要兼顾个人幸福，而个人幸福很大程度上与额外获得的资源多寡成正比，而额外资源的多寡取决于认识多少能决定资源分配的干部。</p>
-<p>所以，在计划体制内，尽可能认识更多的人，尽量维持住已认识的熟人便成个人生存的最优策略——根据六度分割理论，要想结识世界上任何一个人一般都只需通过 6 个人，因此，一个熟人也许现在看不出有什么用，但当你需要获得某种特殊资源时，他也许正好可以找到能帮忙的人。</p>
-<p>计划体制下的熟人社会与费孝通定义的传统熟人社会有本质差别。</p>
-<p>传统熟人基于亲缘和地缘纽带，相互之间来往频繁，有大量的劳务和经济互助，因此送礼无需太贵，一般也不会出现货币——货币体现的是直接的买卖关系，而人情的维系需要相对暧昧，尽量避免物化痕迹。传统熟人之间复杂微妙的身份和契约关系，往往也很难用货币精确衡量。</p>
-<p>1949 年以前，在农村和城市底层居民中，婚宴随礼大多是喜烛、小家具等廉价日用品，礼金并不多见或数额极少，正是传统熟人社会的典型特征。</p>
-<p>最典型的是压岁钱，中国人给孩子压岁钱原意是驱邪降福，最初送的都是具有象征意义的礼币，本质是护身符，不在市面上流通。直到明清，压岁钱也多是用红绳串起的铜钱，挂在孩子脖子上，象征大于实用。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%93%9C%E9%92%B1%E5%8E%8B%E5%B2%81%E9%92%B1.jpg" alt="多种样式的铜钱款“压岁钱”" width="408" height="243" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/铜钱压岁钱-300x179.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/铜钱压岁钱.jpg 408w" sizes="(max-width: 408px) 100vw, 408px"><p>多种样式的铜钱款“压岁钱”</p></div>
-<p>压岁钱的成倍增加，其实是相当晚近的事，在宗族文化发达、熟人社会痕迹保留较多的广东大部分地区，虽然经济比内地发达，压岁钱往往只有 5 块、20 块，一般最多不会超过 100 块。</p>
-<p>1949 年后，中国传统熟人社会终结，无论在农村还是城市，国民都被纳入与国家计划体制匹配的组织当中，传统熟人社会的关系规则和纽带依然有效，但重要性被大幅降低，交往规则也变了。</p>
-<p>传统熟人社会，决定关系重要性的主要是血缘、地缘这种天然纽带，关系的维护成本很低，注重仪式感和程序性，低价值的礼物往来就能巩固稳定的关系。</p>
-<p>在计划体制下，能帮你解决困难的人或能给你制造困难的才是你最重要的社会资源。缺少天然的情感纽带，只能靠高频次、高价值的送礼才能建立并巩固可靠的关系，仪式感并不重要。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%AE%9E%E7%89%A9%E7%A4%BC%E5%93%81.jpg" alt="实物礼品" width="550" height="291" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/实物礼品-300x159.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/实物礼品.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><br>
-由于前三十年普遍存在的物资短缺，熟人送礼多以实物为主。1978 年后，市场化改革丰富了商品经济，货币能购买的物品大幅增加，商品流通也逐渐抹平了地域差别，需要的东西一般都能买到，所以与其花费心思挑选礼物，不如直接送钱来得实在。</p>
-<p>人情支出的不仅是金钱，实际上，在给重要关系送礼时，大部分人更烦恼的是在不方便送现金时，选择什么样的礼物能让对方满意，以及送礼时怎么不让别人看见——你不但要避免送礼时被其他熟人撞到，也要避免撞见熟人送礼的尴尬场面，为此，有些人送礼前还要特意踩点。</p>
-<p>这大概是中国人逢年过节最耗费时间精力的事，好在今天商业和物流的发达，深谙国情的京东顺势推出年货专场，高品质、多品类的商品不仅减少了挑选礼品的难度，15 个城市当天送达、73 个城市次日送达的春节不打烊配送，免去了亲自上门送礼耗费的时间与精力，降低过年痛苦指数。</p>
-<p>最大的变化在于，今天留在体制内的中国人已变成了少数，体制外的人无需考虑为老板送礼，尤其对离开家乡在陌生城市工作的年轻一代来说，苦心维系社会关系的必要性被大幅降低。以婚宴为例，他们若在自己生活工作所在地举办婚礼，其人数规模已大幅降低。</p>
-<p>朴睿咨询的《2015 年末中国送礼市场研究报告》颇能显示出这种剧变：</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E7%94%B5%E5%95%86%E8%B0%83%E6%9F%A5.jpg" alt="电商调查" width="550" height="217" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/电商调查-300x118.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/电商调查.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>绝大部分受调查者（30 岁以下）年货是在电商购买，过年期间自我奖励、父母、伴侣的平均花费要高于公司领导或商业伙伴。考虑到不同地域和人群对电商的接受差异，受调查对象绝大部分应当是体制外的白领。</p>
-<p>人情冷热与社会救济</p>
-<p>虽然脱离体制使得在熟人社会构建庇护系统的重要性大幅降低，但是，需要人情来解决的问题并未减少，因为又有了伴随扩大的自由出现的新困难：个人福利、工作变动、分房都已市场化解决，但是，脱离体制后，生孩子会遇到准生证、户口、入托、择校等系列问题，而医疗卫生、司法、企业经营机会等，往往都会因为是否有熟人而有完全不同的结果。</p>
-<p>——所有与垄断性机构组织或行业交道的机会，通过人情建立起来的庇护系统都能显著地发挥效用。所以，中国人的庇护系统，只是从单位、组织的熟人社会扩展到了陌生人的外部社会，对多数人而言，依然需要通过人情建立起一个庇护系统。</p>
-<p>今天，人情对中国人的重要性并不只是一个庇护系统，它还是一个自我救济系统。有限的市场化改革虽然提升了中国人的平均生活水平，但生活保障和社会救助体系并无根本改善。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E6%83%85%E5%AD%A6.jpg" alt="在中国，人情似乎已经可以列入学科范畴。" width="254" height="360"><p>在中国，人情似乎已经可以列入学科范畴。</p></div>
-<p>在传统社会，社会救济系统建立在相对狭小的熟人社会之上，在东亚儒家文化圈，这个救济系统主要依靠血缘关系建立，在基督教、伊斯兰教这种独一神教社会，宗教组织承担了更大的救济功能。</p>
-<p>今天中国底层社会的困境在于，人口从农村向城市，从落后地区向发达地区流动，导致人口流出地区的救济系统濒于瓦解。这正是低收入阶层人情支出反倒相对更多的原因——生活没有保障的前提下，在熟人身上的感情投资，正是为了防止自己失去生存能力后能获得救助——农村的空巢老人如果有熟人照顾，也不至于去找“药儿子”和“绳儿子”。</p>
-<p>西方国家则是另外一种情形。</p>
-<p>工业革命后，乡村居民大量向城市流动，人与人之间的亲缘、地缘关系弱化，早早终结了传统熟人社会，形成了一个开放的契约社会，资源的分配、矛盾的解决全靠契约维持，制度给个人生活带来的不确定性比中国和前苏联小得多。</p>
-<p>从传统悠久的宗教救助组织到二战后西欧普遍的福利国家制度，国民的基本生活都有足够保障。即使是福利相对较弱的美国，发达的社会救助体系也能让失业者、破产者维持一定的生活水准。这导致个人在生活遇到困难时，更倾向于求助政府和社会组织，无需依赖亲友相助，人与人之间的关系因此更加简单纯粹。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E7%BE%8E%E5%9B%BD%E6%8E%92%E9%98%9F%E6%B0%91%E4%BC%97.jpg" alt="美国，排队领取失业救济金的市民。" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/美国排队民众-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/美国排队民众.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"><p>美国，排队领取失业救济金的市民。</p></div>
-<p>因此，礼物文化在西方和日本、韩国等国更符合其原始意义，礼物仅仅是模拟和巩固亲友关系的一个象征媒介，表达性远大于工具性。</p>
-<p>西方社会的不讲人情，让很多在海外的中国人难以适应——人与人之间保持着一种“彬彬有礼的冷漠”，对谁都客客气气，但除非兴趣相投，很难发展出真正亲密的、类似中国人之间的友谊。</p>
-<p>除了西方社会的契约观念能够清晰划分出群己权界，更注重保护个人的私有空间，也因为彼此之间确实不需要互相帮忙。日本社会与之类似，日本人经常会把那些外表冷漠、对别人漠不关心的青年称为好青年，这在大多数中国人看来实在难以接受。</p>
-<p>而中国人情社会的显著特征就是关系边界的模糊，凡事喜欢讲感情、讲义气，把亲近的朋友称为“自己人”，朋友有困难也更愿意倾力帮忙。不过，中国人的热情明显亲疏有别，在美国街头常见的陌生人之间互相打招呼的情况，如发生在中国多半会被认为是有所图谋。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%99%8C%E7%94%9F%E4%BA%BA%E6%89%B6%E4%B8%8D%E6%89%B6.jpg" alt="陌生人扶不扶" width="550" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/陌生人扶不扶-300x191.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/陌生人扶不扶.jpg 624w" sizes="(max-width: 550px) 100vw, 550px"><p>陌生人躺在地上痛苦不堪，扶或不扶在中国都是一个终极命题。</p></div>
-<p>中国人和西方人的表情对比是更有趣的写照——前者在人群中大多表情严肃戒备，因为热情友善的表情暗含向他人尽可能提供帮助或付出的义务，而西方人尤其美国人脸上则远没有这种压力，因为再轻松的表情也不代表自己有义务做什么。</p>
-<p>有比中国人更讲人情的民族吗？</p>
-<p>历史上，草原游牧民族比中国人更好客、更讲人情，客人来后无论认不认识都会倾其所有地招待吃喝，有的甚至还会让自家女眷陪客。这恐怕并非是因为他们天性豪爽，生存条件的极端恶劣，和人口密度极小导致群己边界完全模糊，每个人都有帮助另一个人的义务，于是才有了草原汉子蓝天般广阔的胸怀。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%8A%82%E6%97%A5%E8%B4%9F%E6%8B%85%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%83%85/?category=18271" rel="tag">人情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%83%85%E6%94%AF%E5%87%BA/?category=18271" rel="tag">人情支出</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%83%85%E8%B4%9F%E6%8B%85/?category=18271" rel="tag">人情负担</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%87%E6%8A%A4%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">庇护系统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%95%91%E6%B5%8E/?category=18271" rel="tag">社会救济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E4%BA%BA%E6%83%85/?category=18271" rel="tag">讲人情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%81%E7%A4%BC/?category=18271" rel="tag">送礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%81%E7%A4%BC%E4%BB%AA%E5%BC%8F/?category=18271" rel="tag">送礼仪式</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -800,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%83%85
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

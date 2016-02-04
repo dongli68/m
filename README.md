@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E7%AA%832700%E6%96%87%E4%BB%B6%E4%BA%A4%E4%BB%A4%E5%AE%8C%E6%88%90-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%90%91/" target="cdt-mirror">南华早报 | 令计划窃大量文件交令完成 令完成向美披露机密</a>
+</h2>
+<p><p>原标题：美媒：令计划窃2700文件交令完成 令完成向美披露核武等机密</p>
+<p><strong>美方官员称，令完成保管这些文件，并获得指令，如果令计划被捕，他就要将这些文件交给美国当局。</strong></p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/82b66739-49c1-431f-ae9f-e1ff89da7607.jpg" alt="" width="550" height="396" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/82b66739-49c1-431f-ae9f-e1ff89da7607-300x216.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/82b66739-49c1-431f-ae9f-e1ff89da7607.jpg 580w" sizes="(max-width: 550px) 100vw, 550px"><p>令完成（左）</p></div>
+<p>（南早中文网讯）美国《华盛顿自由灯塔报》（Washington Free Beacon）当地时间2月3日发表报道，引述美国情报官员称，逃到美国的令完成带有令计划从中办获得的超过2700份内部文件，令完成自去年秋天开始向美方披露一些中国核心机密，包括核武管控系统和中南海内部的细节。</p>
+<p>令完成是已落马的中国全国政协原副主席令计划的弟弟。令计划在去年7月被开除党籍和公职并移送司法。</p>
+<p>北京时间2015年8月3日深夜，《纽约时报》发表独家报道，引述多名知情人士称，令完成已逃到美国，如他寻求政治庇护，或将成为65年来，对中国最具破坏力的叛逃者，报道指令完成可能掌握有关中共领导层及其亲信的信息，而这些信息“令人不安”。</p>
+<p>2015年9月，中国国家主席习近平国事访美前，中央政法委书记孟建柱“打前哨”，赴美与美国国务卿克里等人会面。消息人士向《南华早报》透露，其中一项重要议题是要求美方遣返令完成，以及神秘富商郭文贵。但美方对此不置可否。</p>
+<p>今年1月15日，十八届中纪委第六次全会精神发布会上，中纪委国际合作局局长刘建超就路透社有关令完成调查的提问表示：“关于令完成这件事情，中方正在处理，也在和美国进行沟通”。</p>
+<p>上周，美国国务卿克里访华，与中国国务委员杨洁篪会谈，讨论了有关执法、追逃、追赃等问题。美国国务院的一名官员表示，会面中未谈及令完成案。</p>
+<p>《华盛顿自由灯塔报》当地时间2月3日清晨发表的报道指，从去年秋季开始，令完成一直在美国某个秘密地点，与美国联邦调查局（FBI）和中央情报局（CIA），以及其他情报官员进行报告。有传令完成是中国卧底特工追捕乃至追杀的对象。</p>
+<p>报道指，令完成披露的信息，包括中国领导人启动核武的程序细节，比如为攻击行动而准备核武所需采取的步骤，以及发动核武所用的代码。</p>
+<p>其他机密则包括中国领导层，以及他们所用的设施，如中南海等的细节。有关信息据报对美国的间谍有利，尤其是对以神秘的中国最高领导层为目标的网络情报行动人员而言。</p>
+<p>《华盛顿自由灯塔报》称，白宫、FBI、CIA和国土安全部的发言人都拒绝就案件置评。</p>
+<p>多名美国官员向《华盛顿自由灯塔报》表示，美国情报部门发现中国秘密特工在美国追踪中国政府追缉的逃犯之后，就将令完成至于严格的安保之下。</p>
+<p>报道指，曾担任中办主任的令计划，于2012年7月被撤换之后的一个月内，从中办秘密获得了超过2700份内部文件，令计划将这些文件给了令完成，这些文件是让中国当局不要动令计划的“保险”。</p>
+<p>美方官员称，令完成保管这些文件，并获得指令，如果令计划被捕，他就要将这些文件交给美国当局。</p>
+<p>去年7月20日深夜，新华社发布消息，令计划被开除党籍和公职，其涉嫌犯罪问题被移送司法。最高检旋即宣布，依法对令计划以涉嫌受贿罪立案侦查，并予以逮捕。</p>
+<p>在对令计划住所的调查中，中国当局发现，2700份秘密文件都被复印了，大部分都是2012年9月之后复印的，当时令计划被调任为中央统战部部长。</p>
+<p>《华盛顿自由灯塔报》报道指，文件中的机密包括中南海内所用的安全秘密和通讯代码、中共领导层、国务院和中央军委所用的蓝图、指令和管控信息等。中共领导和解放军领导启动核武的程序也被泄露。</p>
+<p>报道引述其他官员称，令完成是在2015年夏季逃到美国的，如果在未来几个月的报告中，令完成被确认叛逃身份，他能向美国提供的信息，或是超过30年来，美国从中国叛逃者中得到的最有价值的。</p>
+<p>一名高级官员向该报表示：“这是一笔情报上的意外之财。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E7%AA%832700%E6%96%87%E4%BB%B6%E4%BA%A4%E4%BB%A4%E5%AE%8C%E6%88%90-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%90%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E5%9B%BD/?category=18271" rel="tag">卖国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%9B%E9%80%83/?category=18271" rel="tag">叛逃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%81%BF%E9%9A%BE/?category=18271" rel="tag">政治避难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E6%96%87%E4%BB%B6/?category=18271" rel="tag">秘密文件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9D%8E%E6%96%B0%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%87%AA%E6%84%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%E7%94%B5%E8%AF%9D%E5%98%B1%E5%92%90%E5%A6%BB%E5%AD%90%E4%BF%9D%E9%87%8D/" target="cdt-mirror">自由亚洲｜李新被警方“自愿接受调查”电话嘱咐妻子保重</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg" rel="attachment wp-att-427624"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg" alt="南都网前编辑李新。（李妻提供/记者乔龙）" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>南都网前编辑李新。（李妻提供/记者乔龙）</p></div>
@@ -704,52 +735,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E4%B8%80%E4%BD%8D%E5%A4%A7%E9%99%86%E9%9D%92%E5%B9%B4%E7%9A%84%E5%8F%B0%E6%B9%BE%E8%AE%B0%E5%BF%86/" target="cdt-mirror">墙外楼｜《金融时报》一位大陆青年的“台湾记忆”</a>
-</h2>
-<p><p>陈振铎</p>
-<p>2016年1月15日，我开始在Facebook、微博和微信三个平台观看台湾大选。自2000年以来，这便是我的保留节目，四年一次，无论处于何地从未间歇，跟元旦期间只要有山就去登山、有电视就看维也纳新年音乐会一样，成为仪式般的惯常。</p>
-<p>这次感受到一个完全陌生的台湾。Facebook上的台湾“小霸王”们颠覆三观。我称那些“天然独”的小孩为“小霸王”，是因为他们机械地不断爆发独立情绪，像一台台“复独机”。其中一个“小霸王”，措辞和行为都“屌炸天”，在护照上贴了个“台湾国”贴纸出境，被警察拦下却义正言辞，最后顺利出关。无数人为此点赞，各种对大陆的恶言也引来一片赞。点赞的人中，有我认识和尊敬的台湾朋友。这让我沉重。</p>
-<p>这种沉重不涉及正义、所谓的民主与黑暗等符号，纯粹是从乡土出发、以各种碎片事件连接起来的台湾感情的跌宕。我虽未去过台湾，在这次选举之前，这种感情却一直相伴相随，从来没有疏离。它从哪里来、向何方去？借着千禧年开始的对于台湾的碎片记忆，我开始思考这些问题。</p>
-<p>一</p>
-<p>2000年之前其实就有些台湾印象了。九十年代初的浙西南边陲山区村落，信息封闭，对台湾的认识始于小学人教版课本《宝岛台湾》一文：台湾是“稻米、甘蔗、水果之乡”。玉山“是我国东部最高的山峰。山顶上冬天积雪，晶莹耀眼，远看如玉，所以叫玉山”（8月的玉山北峰，见文首图）。这些手绘的景色和文字就是我对“宝岛台湾”的第一印象。</p>
-<p>广播和卡带里多是港台流行音乐，好听的歌还会手抄传阅，小孩贴上喜爱的明星头像贴纸，看译自台湾的日本动画片，长辈们则看台湾古装和民国题材电视剧。晚辈偶尔也会听家中和村里老人们聊起国民党抓壮丁的往事，知晓这家那家的亲戚现在还在台湾。</p>
-<p>比较热闹的是1995-1996年台海危机，家中西湖牌黑白电视里的新闻每天都剑拔弩张，说要打仗。这对于小孩来说倒是兴奋，因为那时流行的游戏就是跟电影里一样，扮演国民党和共产党在山里玩打战游戏。危机中两岸普通人的感受，看不到，那时也不理解。</p>
-<p>1999年，外婆家装了村里第一个小卫星锅，可以看到境外电视。那时除了凤凰卫视，我们还爱看东森台。我第一次看直播就是2000年的大选，当时感到非常新鲜，因为一大群镜头实时对着陈水扁和宋楚瑜，还跟着他们到各自家里拍摄，连厕所都不放过。这可是总统候选人啊！陈水扁胜选后在庆祝晚会激情澎湃。“阿扁！阿扁！”——用第四声带着台湾方言发出的“扁”，和“变”同音。我第一次对台湾的政治留下了深刻的印象。</p>
-<p>大学时也照旧关注选举，但2000年的那股热情再也没看到过。与台湾的交汇是生活里的文化。2002年左右网络还不发达，除晚上在寝室里集体听杭州本地的汪峰和“艾米与可乐”等节目，我还爱躲在上铺听“敌台”。每天传来“这里是中央广播电台台北国际之声”时，心里是毕恭毕敬的，主持人甜美的声调带着台湾腔没有嗲气，新闻全面不花哨，而且有人情味。还有刘若英和范玮琪那些脍炙人口的歌曲，几乎跟着CD机和MP3机走遍了杭州的每个角落，现在旧地重游时，脑子偶尔就会自然响起他们的某一首歌。</p>
-<p>二</p>
-<p>这种从台湾输入、伴随生活的文化，让台湾在我心里从来没有距离，它在当时的生活中形成的亲密感，甚至比上海对我们的距离还要近。来法国后，对台湾的印象变得既抽象又具体。在斯特拉斯堡求学时，政治经济学课补考，我拿出富士康员工与法国电信员工自杀的例子来对比讨论。那时在大陆的台商企业不断爆出负面新闻，让人觉得这些商人来大陆不是为义而是逐利的，我第一次认识到两岸关系的现实问题。</p>
-<p>2009年冬天我初到巴黎，在巴士底广场新巴黎歌剧院排队买票，后面排着华人面孔的游客，随即攀谈了起来。他们仨是从美国来巴黎游玩的台湾华裔，母亲自七十年代赴美国读书后定居加州，一子一女是美国公民。家人怕他们像一般的ABC那样失去对自己文化的认同，送他们回台湾读小学和初中，然后高中返回美国就读。</p>
-<p>在和他们的交流中，我发现两代人是有沟壑的，母亲仍认同着中华民国，看到大陆人亲切友好，能聊她在大陆旅游看到的各种现象以及同大陆亲戚的联系，对两岸的隔阂抱有遗憾之心。儿子安静寡言，读法律的女儿爱争论，开口就是：“1996年导弹对准我们，你们把我们当一家人了嘛？”细聊下去仍能站在理性立场就事论事，她爱的还是她的中华民国。</p>
-<p>2013年秋天，在韩国水原市开会，遇到了S先生和他的夫人。S先生是老国民党，毕业于辅仁大学法语系，后来在巴黎政治学院和法国社会科学高研院攻读硕博，曾任台湾驻非洲某国大使和驻法国副代办，退休后在台湾政治大学和淡江大学做兼职教授。他们夫妻俩符合我对国民党精英的预期，一口标准国语，形象高大帅气优雅，谈吐之间不矫揉造作，对历史和当下的问题都不回避，持开放立场理性讨论。</p>
-<p>S先生的太太说：“台湾现在的视野变得狭隘了，是被‘岛’的地理束缚着。台湾离不开大陆，抛开政治和经济不说，光文化他们怎么可能离得开中国呢？”接着是一口叹气，然后沉默了片刻。当她讲“中国”的时候，能感受到一家人似的语气，没有距离和隔阂，也感受到他们从国民党撤台后最黄金的年代到现在被边缘化的大起大落，那种不甘和无奈竟然有些凄凉感。</p>
-<p>很显然，他们不再会是主流。</p>
-<p>三</p>
-<p>第一次对台湾感到陌生，源于一部文艺作品。“歌真好听！”这是和几位朋友的一致感受，这些都能激发对台湾的热爱，但两种热爱的基础是不一样的。当《海角七号》电影从范逸臣以“操你妈的台北！”开始绝尘而去回到乡下，最后在海滩上和日本姑娘结为连理时，我怎么也不认识这个台湾了——即使我带着喜爱看过两遍，在课堂上和同学多次观看并讨论这部电影。</p>
-<p>很快这种陌生在另一次项目考察时重现。那是接到江山市廿八都的改造意向后的一次考察，虽然该市在家乡隔壁，我却从未去过。廿八都是古时浙闽边关军事重镇，和台湾的关联，远从郑成功说起，近来更鲜活体现在从地方志和那些高官后人或乡亲里蹦出的一个个国民党官员。无论是两岸共知的高官还是一些小公务员，他们和普通的中国人以及现在的公务员无异，靠学习离村离乡进县城、考省城、留南京，靠才识和抱负留在当时的民国政治系统中。富商遵循类似轨迹，由富而绅。</p>
-<p>听完这些故事，我在古镇上抛开队友，拿着手机在他们留下的老宅中逛，试图把这些民国高官和台湾联系起来。串起的不是台湾，是民国高官和各种台湾电视剧串起的高官富商的家长里短。在当时作为戴笠情报局临时机关的房子中，空荡荡的老宅展览着当年的档案资料影像。官方想体现意识形态，而档案中的书信给人看到的是那些逃往台湾的高官们当年的人情、理想和抱负。</p>
-<p>无论偏远山区的江山系国民党高官的历史让人多么亲切，现实却令人如履薄冰。这种沟壑扩至学术和政治，甚至是私人生活。</p>
-<p>高雄一位地方女教授，连续几年都来杭州开会，每次都热情欢迎大家去高雄，还发放带来的小礼物——高雄人权博物馆的小布袋。我也热情友好回应，结果同事事后严肃地把我拉到一边说：“你要注意你的言论啊，她是‘台独’，要保持距离！” 另一次她借高雄港区整治的案例，讲到当下如何重构日据时代的认同时，引起了在场一些教授的不快。大家对她论述日据治理的暧昧产生了争议。</p>
-<p>国民党某高官公子拜访杭州某位退休官员，向他请教如何治理城市的经验，官员侃侃而谈。看到那位高官公子似乎听得很认真，官员当时心想他会不会真的拿这套纲领前去竞选。后来台湾竞选时，这些担心一一成为现实。结果众所周知，素人上台。</p>
-<p>回巴黎看贾樟柯《天注定》时，同学介绍认识一位台北姑娘。姑娘的父亲是警察，退休前只升到派出所所长，郁郁不得志，对国民党官僚体系厌倦排斥。她自己对中国天然感到生疏，只因做过音乐电台编辑和研究所助理，阅历使她能够温和理性。如此理性的人对“中国”甚至是“中华民国”都变得陌生，这稍稍让人不安。</p>
-<p>真正形成“两岸形同陌路”的感受，来自于朋友当时来自高雄的女友。大家每次聚餐偶尔聊起两岸话题时，这位女士总低头不语、简单吃几口，又回到房屋捧着她的IPAD看娱乐节目。用两个字形容她对大陆的观感——“不屑”。</p>
-<p>四</p>
-<p>“台湾还回得来吗？”</p>
-<p>近年和台湾朋友交流这个问题时，“中国”从原来的两岸一家亲变得陌生、讽刺甚至带着一丝莫名的仇恨。以前嘻嘻哈哈调侃着靠马云和蔡崇信在淘宝标注“江浙沪和台湾省包邮”估计就能“解放台湾人民”了。但自己从2000年到这次大选变化的台湾观感直觉来看，情势却不容乐观。</p>
-<p>当双方因情绪变得极为敏感，肮脏的势力趁虚而入。不管围绕这次大选的若干事件有无民进党幕后操纵，“中国”议题在台湾民间已变成一厢情愿。即使民进党不挑战底线，时间拖得越长，其实越符合台湾社会自身的期待，这对于坚持现有宪制疆域的人不是好事。</p>
-<p>从自身经验受跳出，我在幻想是否存在一种超国家的模式——以经济一体化为基础，互相磨合和成长，找到政治互信后建立联合体。在大陆本身从自身经验形成了自我循环且不同于任何以往从西方移植来的治理模式时，这似乎成为维持现状以外唯一可选的合理项。欧洲内部经历两次世界大战后所进行的欧洲联盟这种政治和社会实验，其实依托于超国家的乌托邦之上。虽然欧盟目前荆棘满路，但这种探索对于我们可能吗？</p>
-<p>系统回忆意味着切割、封存、告别和再出发，因为台湾于我而言保留了心理的、文化的故土与源泉，那个台湾延续着中华的族统和国统，是未亡的种子和星星之火。现在看到的台湾是陌生的，人民的认同与对未来的愿景渐行渐远，需要做出一个切割，剪得断，理才不乱。</p>
-<p>1月20日，法国《解放报》头版排了一幅占了半版的照片，一位男人站在乡间的小路昂首挺胸向前走，路尽头是一颗大树，照片上寥寥数语：“Michel Tournier, mort un lundi”（米歇尔·图尼埃，周一去世）。这位作家的成名作《礼拜五或太平洋上的灵薄狱》，恰好像个时空符号，印证了台湾在我心中的变化，它成了图尼埃的鲁滨逊：“爱和死，是个体解体的两面；爱与死一起冲动，一起投身于大地。他们都饱含着对土地的热爱。 ”</p>
-<p>再见，宝岛台湾。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E4%B8%80%E4%BD%8D%E5%A4%A7%E9%99%86%E9%9D%92%E5%B9%B4%E7%9A%84%E5%8F%B0%E6%B9%BE%E8%AE%B0%E5%BF%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -771,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

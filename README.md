@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%94%E6%9D%82%E7%9A%84%E6%84%8F%E6%B7%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E/" target="cdt-mirror">【麻辣总局】F-223244：兔粉的意淫与现实</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/5675242429/Dg1Ws1J8V">@F-223244</a>：分享图片</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh.jpg" rel="attachment wp-att-427588"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh.jpg" alt="006c4JOdgw1f0ldyevz0wj316y0qoakh" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh-300x186.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh-768x477.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-2/">变态辣椒：To 共青团</a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/c188" target="_blank">@Google白板报</a><i></i>：想起【你看不到黑暗是因为有人把黑暗挡在了身后】这个超级病句，请问影子怎么挡住？它又不是光<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@也许是井越:“你看不到黑暗是因为你他麻痹瞎啊”</p>
+<p><a href="http://weibo.com/1635187765" target="_blank">@克萝伊__Chloe</a>：兔杂的意淫与现实<img title="[偷乐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif" alt="[偷乐]"><img title="[偷乐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif" alt="[偷乐]"></p>
+<p><a href="http://weibo.com/3010177602" target="_blank">@住在武藏上的葵托利</a>：╱( ◕‿‿◕ )╲ 今天·赵老太爷·继续完成打小粉红兔杂10个耳光·日常任务·啪·你们他妈·也敢姓赵 233 <img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"><img title="[兔子]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif" alt="[兔子]"><img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
+<p>@XUzhizeng：大兔子应该有GT纹身，以示干部身份。</p>
+<p>@王东子：蛇盘兔，年年富。</p>
+<p>@柯希莫的枷锁：啊好怕po主也像辣椒一样。。注意安全。。</p>
+<p>@嗜睡毛球：博主先赶紧吃点好的</p>
+<p>@淡泊英招：良心啊！居然还吐骨头？！</p>
+<blockquote><p>@汝恒常在_____：助攻…！！<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw.jpg" rel="attachment wp-att-427589"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw.jpg" alt="759fdc83gw1f0ljn1pfyoj208c08c0sw" width="300" height="300" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw.jpg 300w" sizes="(max-width: 300px) 100vw, 300px"></a></p></blockquote>
+<p>@AIRTOPcompany：祖国崛起，牺牲一些兔杂是必要的嘛</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%94%E6%9D%82%E7%9A%84%E6%84%8F%E6%B7%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E7%B2%89/?category=18271" rel="tag">兔粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94/?category=18271" rel="tag">那年那兔</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%89%8D%E4%B8%9C%E5%AE%B6%E4%BB%8A%E6%97%A5%E6%AD%87%E4%B8%9A%EF%BC%8C%E7%94%9F%E5%91%BD%E6%9A%82%E5%81%9C%E5%9C%A820%E5%B2%81%EF%BC%8C%E6%88%91%E6%98%AF%E6%9D%A5%E5%AE%89%E5%88%A9%E7%9A%84/" target="cdt-mirror">花香-弥漫：前东家今日歇业，生命暂停在20岁，我是来安利的</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg" rel="attachment wp-att-427583"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg" alt="682d01cagw1f0jtkcpy14j20qo0r3grc" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc-295x300.jpg 295w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc-768x780.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg 960w" sizes="(max-width: 960px) 100vw, 960px"></a></p>
@@ -754,46 +779,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%83%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-2-1-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 2-1</a>
-</h2>
-<p><p>@CCAV：晚饭后，我舒舒服服的坐在沙 发上看着新闻，我一哥们不停的在我旁边瞎吹牛。“我昨天赚了几百万”、“我和好多明星睡过”…几分钟后，我实在是听不下去这些让人恼火的胡编乱造的谎言，于是我愤怒的走上前去，关掉了《新闻联播》，专心听哥们吹牛。<span></span></p>
-<p>@作家崔成浩：新闻说，呼格冤案，27人被追责。可翻开处分结果一看，却几乎都是警告和记过。我仿佛看见一大腹便便者举杯说，“来来来，罚酒三杯！” 一团和气无关痛痒的追责，不但丝毫起不到惊醒作用，反而会助长漠视法律滥用权力的歪风。如果有人重写《20年目睹之怪现状》，此事真可大书一笔。</p>
-<p>@hnjhj：农民工兄弟们，回家过年前如果工资还没有拿到，就搬点厂里的东西回去吧。根据以往经验，过完年回来厂应该都搬越南去了。</p>
-<p>@gongminyaoyao：近期来看见很多消息，甚至不想说话。之前猜想的悲观局势，在逐渐验证变为现实。不仅个人无力去抗拒这种悲观，甚至于很大可能将成为其中的牺牲品。即便曾经无数遍预演过最坏可能的出现，如今真正看见即将变成现实的时候，还是忍不住的黯然。</p>
-<p>@PhilipsShiu：有線電視的說法是六小齡童令人想到《西遊記》大鬧天宮，不利政局穩定。</p>
-<p>@laoyang945：#转 现在中国经济最大的难题不是索罗斯做空人民币或者港币，更不是中国经济是否硬着陆，而是索罗斯已经快九十岁，无法嫖娼了。</p>
-<p>@ranxiangmm：如今的散户心理大抵如同清朝末年穷苦人家的孩子。每天都在问自己割不割，从5岁问到15岁。眼瞅着隔壁家的二顺子入宫两年都过上好日子了，时不时还领着个小宫女四处溜达，甚是羡慕。终于没能耐住诱惑，咬紧牙关一刀下去，猛地就听到旁边有人喊：中华民国成立啦。</p>
-<p>@Chillylin：認識朋友、同學之類一見面就談政治挺好的，特別是對華人——可以盡快把智商不夠和沒有道德的篩選掉。 #腦洞社</p>
-<p>@lijiansion：当年齐奥塞斯库时代的罗马尼亚政府对舆论的操纵： 一方面允许一些非常“敢讲话”的高层官员或御用文人批评对于大多说人来说纯属禁忌话题的负面现象，同时却有策略地攻击一些诚实正直的知识分子和艺术家，设法孤立他们，使他们成为边缘人……历史真的可以重复。</p>
-<p>@usabignews：波士顿破获索尼大法人员聚众传播邪教案。派出所接到群众报案称，钻石城一住户家中有多名不明身份人员出入，怀疑他们从事非法活动。民警依法调查发现，现场已聚集了多人，纷纷举着印有“索尼大法好”的旗帜，集体在推特上发表索尼大法好的刷屏推文。民警当场逮捕了一名自称“姨父微笑守护者”的男子。</p>
-<p>@wuyagege：我高中的时候还是小粉红，后来大学的时候没那么傻X了，原因无非是因为接触互联网和外语水平变高了。啃几本外语的社科/历史教科书，闲着没事儿多看看外文的新闻网站，慢慢就发现事实和阐述和简体中文世界的完全不同版本，而哪个版本更接近人的本真和世界的本真，越比越清楚。</p>
-<p>@szstupidcool：这就是你国的原生态。他们从不会去关心自己身边的公义，他们从提不起自己起码的良知，他们也从不会知道明白自己做人应有的起码权利。但是一提钓鱼岛、台独什么的，这群傻逼就会扑出来，向你吠。一群被洗脑奴役惯了总还是这般得意自得，恰似当年宫中的那些太监奴才。</p>
-<p>@letscorp：阿玛尼少年事件刺激民众的是什么呢？当然是“共产主义”、“共同富裕”等理想的破灭感。少先队歌唱的是：我们是共产主义接班人。你是接班人，我也是接班人，怎么你穿着阿玛尼接班了，我还穿着脏兮兮的厂服干着重复的工作（维权还要被打压）？这歌到底还有啥意义？</p>
-<p>@hnjhj：当深圳政协少年称“不要让考卷决定未来”时，你应该庆幸还有考卷这种东西，不然你将来可能只配擦他的阿玛尼皮鞋。</p>
-<p>@高嵩：魏晋时期的官吏选拔实行察举制，结果就是所有官吏皆为世家子弟。隋文帝首创科举制，等于是给寒门子弟开了一扇门，由一张考卷决定命运，意思就是考卷有可能改变命运。反对科举制的，毫无疑问是世族势力。深圳这孩子能跻身会场，就是世族势力在推动，总之不是老百姓投票选他在会场代表人民的利益。</p>
-<p>@YE5MQ5Vtp2jlWX7：对中国大学生的涨学费，对外国留学生涨补贴。如果你现在扔掉中国户口本，随便加入索马里、阿富汗什么的国籍，然后跑到北京上大学，就可一路绿灯，每年获得5万到9万元补贴。</p>
-<p>@mozhixu：2006年前后，跟当时的网友后来的公知们辩论，我认为央视和新华社不是媒体是喉舌，理由很简单，其主要职能是宣传，如新闻联播，如春晚，都是宣传，其绝大多数新闻节目和内容，也至少七成宣传，三成新闻，可几乎没有人赞同我，不是我说得不对，无非是他们不愿意承认自己是宣传体制的一部分。</p>
-<p>@应天澜：人民日报发微博称，由于老年患者普遍存在“有病乱投医”的情况，浪费了大量的医疗资源。在一个没有免费医疗的社会，竟然说老年人“有病乱投医”浪费了大量的医疗资源，无耻地把责任推给普通百姓，而对那些真正浪费了大量医疗资源的退休高干们只字未提。人日，你永远是一种赵家人的思维逻辑。</p>
-<p>@Zannmuling：最后我只想说，国内的企业就像养猪，例如本色集团吴英案，快播王欣案，东星案，都是如此，等你长大了养肥了，会有一千种让你非法违规的政策，死刑或者没收财产。可能也许中国的企业家是世界风险最高的职业吧，因为在现在情况下，企业的偷税漏税，合理避税，融资众筹，都可以分分钟让你背上罪名。</p>
-<p>@汉卓律师韩冰：在安徽省高院法庭上，我第一次提出异议时麦克风声音正常，再发言时没声音了。技术人员进来，调了几个地方都不行，最后到审判长位置的桌面上按了一下，麦克风就恢复工作了。中午休庭后我带着疑问到审判长桌面一看，原来有个控制按钮器！为了限制律师发言真是费尽心机啊！</p>
-<p>@kujou_rin：被親戚拉進一個微信群，然後前天小姨發了「XX市發生大火，損失慘重」的假新聞，今天又發了一個「千萬別打開網上傳播的毛澤東復活的視頻，是病毒！」好想拉黑她……</p>
-<p>@@勿怪幸 ：米国小学5年级孩子的教材。作业题另一个“为何历史学家对始皇帝的统治的看法不同？儒家思想如何影响人们在家庭、政府、社会中的角色？”另一个“汉朝时谁属于第一第二阶级？汉武帝时期考察系统的目的是什么？什么发明显示中国人研究自然？”还真的是很难。</p>
-<p>@maylogcom：#转：过年了，想跳槽的朋友往这边看。西藏朋友的公司招人，每天工作4小时，活儿简单，就是粘虫草，把金针菇和小虫粘到一起，晒干就行。风清月白，涤荡心灵，月薪12K。</p>
-<p>@williamlong：【转】有人吸毒，家产几乎耗尽，他妈把他关戒毒所强制隔离两年。出来后，他痛改前非，开始学习炒股票，这几天，他妈跟他说，要不，你还是吸毒吧……</p>
-<p>@luogl： 祖国有感，不分析公司报表商业模式，拿着自己好几年辛苦的家底去买中国股票，还特么买的是习总的中国梦一带一路，又没有经济数据支撑，散户大妈大爷还去“金融公司免费借钱”玩杠杆作死，活该亏的饭钱都没有啊。</p>
-<p>@yaoboshi：昨天儿子为了能够趁我们不在的时候打游戏，从网上自学了破解BIOS密码的操作，然后就开机箱把主板电池拔掉（但应该没放电），不过也没有消掉开机密码。我回家后，知道了这种情况，没有批评他，毕竟敢动手操作是好事。现在的小孩子只会用电子产品，不知道原理，也不敢操作硬件，我觉得这样不好。</p>
-<p>@阑兰：你年薪千万财务自由，你用一万字阐述哈耶克和凯恩斯的区别，你输入“XY”之后第一个词组选项就是“谢邀”你看不起朋友圈那些无知而可悲的众生，你认为即使是在知乎上像自己这样的智者也为数太少，你把格调视作人生第一准则。你只在乎心地善良的女神，给她打钱，因为只有她的学识和文化配得上你。</p>
-<p>@VinkySimon：我邻居的亲戚，一个贫困地区的小朋友，15年考上了大学，家里人不知道哪儿听来的程序员挣钱多，非让小朋友选了计算机专业。这孩子上大学之前没见过电脑，有一台非智能手机。到了大学，别人学数据结构 C 语言，他学 windows 的基本操作。现在厌学，闹着要休学打工去。</p>
-<p>@KevinZL：昨天正在上课，突然老爸就打电话给我说让“闺女赶紧回家，你弟弟出事了”。我一听就心慌了。请了个假就奔回家。到了家就看到妈妈眼睛红了一圈坐在沙发上，我问爸爸“爸，怎么了？” 老爸说“你弟把你妈的开心消消乐删除了，你妈都玩到五百多关了！”</p>
-<p>@szstupidcool：今天跟一个投资大鳄聊天，他神秘兮兮地跟我说，他经过多年研究设计出了一款保本保收益又有机会冲击高额回报的理财产品，我一听赶快请他吃饭虚心求教，他说他存了三万到余额宝里，每天拿两块钱利息买双色球。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-2-1-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -805,7 +790,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -815,5 +800,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

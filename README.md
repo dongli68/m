@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%AC%E5%B8%83%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5/" target="cdt-mirror">自由亚洲｜中国国务院公布天津港爆炸事故调查报告</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg" rel="attachment wp-att-427787"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg" alt="图片：2015年8月16日，一名失踪消防员的家属手举亲人照片出现在天津爆炸事故新闻发布会场外。（AFP PHOTO）" width="585" height="390" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438-300x200.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg 622w" sizes="(max-width: 585px) 100vw, 585px"></a><p>图片：2015年8月16日，一名失踪消防员的家属手举亲人照片出现在天津爆炸事故新闻发布会场外。（AFP PHOTO）</p></div>
+<blockquote><p><strong>相关专题</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸</a></p></blockquote>
+<p>中国国务院2月5日公布天津港8•12火灾爆炸事故调查报告认定，事件为特别重大生产安全责任事故。报告认定瑞海公司为事故主要负责方以外，还指控地方政府和部门存在严重的有法不依、执法不严、监管不力等问题。</p>
+<p>中国官方新华社2月5日报道，中国国务院就去年天津港 “8.12” 火灾爆炸事故设立的调查组查明，事故直接原因是瑞海公司危险品仓库运抵区集装箱内硝化棉因湿润剂积热自燃，引起相邻集装箱内的硝化棉和其他危险化学品长时间大面积燃烧，导致堆放于运抵区的硝酸铵等危险化学品发生爆炸。报告得出的结论是，瑞海公司严重违法违规经营，是事故主体责任单位。</p>
+<p>报告说，瑞海公司严重违反天津市城市总体规划和滨海新区控制性详细规划，无视安全生产主体责任，非法建设危险货物堆场，在现代物流和普通仓储区域违法违规从2012年11月到2015年6月多次变更资质经营和储存危险货物，安全管理极 其混乱，致使大量安全隐患长期存在。</p>
+<p>旅居德国的腐败问题专家廖然指出，“8.12”天津港爆炸事故再次显示，中国的官员腐败和政府监管机构渎职问题是多么严重，而这又对老百姓生命和财产的损失有是多么惨重：</p>
+<p>“这个事故当然与腐败有关系。调查结果显示，瑞海公司当初隐蔽该公司的受益人是哪些人等信息。公司负责人是通过跟中央高层一些人的关系获得营业执照。虽然当时他们口口声声说仓库绝不存放危险品，但他们2012年却又通过高层关系获得存放化学品的许可……这一切都说明，在中国只要你有高层关系，什么许可都能获取。我们还获知，运营存放危险品仓库要比运营一般仓库的利润要多90倍！！！”</p>
+<p>新华社的报道说，公安、检察机关对爆炸案的49名企业和行政人员采取了刑事强制措施，包括24名企业人员和25名交通运输、海关等部门官员；还对123名责任人提出处理意见，建议对74人给予党纪政纪处分，包括省部级5人，厅局级22人等；建议吊销瑞海公司有关证照并处罚款，企业相关主要负责人终身不得担任本行业生产经营单位负责人等。</p>
+<p>此外，中国国务院的调查报告还认定，事故还暴露出有关地方政府和部门存在有法不依、执法不严、监管不力等问题。例如，天津市交通、港口、海关、安监、规划和国土、市场和 质检、海事、公安等部门以及滨海新区环保、行政审批等单位，未认真贯彻落实有关法律法规，未认真履行职责，违法违规进行行政许可和项目审查，日常监管严重缺失；有些负责人和工作人员贪赃枉法、滥用职权。天津市委、市政府和滨海新区区委、区政府，以及交通运输部、海关总署等单位都被认定渎职，因此对事故的发生有责任。</p>
+<p>在德国的反腐专家廖然强调指出，中国大陆政府运作不透明，政府有关部门监管不力，必然造成重大伤亡事故：</p>
+<p>“8.12惨案显示，中国政府如果不把制度性反腐健全起来，只靠这种发生一件惨案就抓几十个人或上百人的做法，是不能从根源上杜绝这种事故不断发生的。中国政府反腐必须要制定官员财产公开法和实行政府运作透明，否则政府官员腐败问题没法根治。”</p>
+<p>国务院的调查报告说，2015年8月12号天津爆炸事故共造成165人死亡，其中公安消防110人，其他人员55人；失踪8人；798人负伤，其中重伤58人。</p>
+<p>以上是自由亚洲电台记者希望的采访报道。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%AC%E5%B8%83%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5/?category=18271" rel="tag">天津</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85/?category=18271" rel="tag">瑞海国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/" target="cdt-mirror">【图说天朝】为了国家 盗版有理</a>
 </h2>
 <p><p>近日，中国3DM游戏网因发布日本光荣公司的《三国志13》游戏的免费破解版而收到对方的律师函，要求3DM删除相关下载内容并公开道歉。3DM按照要求删除游戏下载的同时还发表了<a href="http://games.qq.com/a/20160203/024981.htm">如下</a>言论：</p>
@@ -643,28 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%A6%81%E6%93%8D%E5%8A%9E%E5%85%AC%E5%AE%A4/" target="cdt-mirror">【图说天朝】“禁操”办公室</a>
-</h2>
-<p><p>@紫色百合5：继“中国梦”办公室之后，居然还有“禁操”介么一个办公室 ！</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/495531fbjw1f0m7bc693yj20hs0nqq5x.jpg" alt="495531fbjw1f0m7bc693yj20hs0nqq5x" width="440" height="587" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/495531fbjw1f0m7bc693yj20hs0nqq5x-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/495531fbjw1f0m7bc693yj20hs0nqq5x.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></p>
-<p>@bigman945：哈哈哈哈……</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/59_700_600.jpg" alt="59_700_600" width="600" height="514" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/59_700_600-300x257.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/59_700_600.jpg 700w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/60_700_600.jpg" alt="60_700_600" width="600" height="514" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/60_700_600-300x257.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/60_700_600.jpg 700w" sizes="(max-width: 600px) 100vw, 600px"></p>
-<p><strong>以下内容摘自百度百科：</strong></p>
-<p>2008年11月，重庆秀山县成立“禁操办”(禁止红白喜事大操大办办公室)，对政府官员办酒席敛财进行干预。目前已有副镇长、科长、卫生院长等5名办酒官员被摘帽。据说，现在官员办酒席的名头花样百出，有“子女高考落榜安慰酒”、“老人去世周年祭酒”、“三十而立酒”等等。点评：有一种语文叫“行政语文”，它的行文要求是按汉语的最低水准：简单明确。而现实中行政语文时常暧昧不明，空话连篇，不知所云，简直是汉语界的一朵奇葩。像“禁操办”这种，照时评者赵牧说法，此简称简直等同涉嫌故意诱人“思有邪”。赵就此联想到多年前的“社精办”（社会主义精神文明办公室）。</p>
-<p><strong>以下内容为秀山县<a href="http://www.xn--3ds443gqman95a.com/Item/Show.asp?m=1&d=3325" target="_blank">本地媒体报道</a>：</strong></p>
-<p>为深入贯彻落实中央八项规定精神，坚决反对“四风”，刹住各种不正之风和奢侈浪费行为，切实减轻广大群众的经济负担，推进乡风文明和节约型社会建设，营造良好的社会风气，秀山自治县中和街道办事处特成立了以党工委书记向照勇为组长，党工委副书记、办事处主任杨晓蓉为副组长;党工委、办事处其他领导为成员的专项工作领导小组。领导小组下设12个巡查工作组，负责各社区红白喜事大操大办的巡查治理工作。</p>
-<p>……<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/2016169966379813.jpg" alt="2016169966379813" width="500" height="330" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/2016169966379813-300x198.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/2016169966379813.jpg 500w" sizes="(max-width: 500px) 100vw, 500px"></p>
-<p>整治活动开展以来，截止去年12月31日，秀山自治县中和街道在12个社区和23家酒楼累计排查信息345件。其中：社区219件，违规182件，劝导182件，制止164件。专项巡查126件，制止违规102件(其他乡镇81件)。酒店业主共主动辞退预定酒席171家。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/2016161337038745.jpg" alt="2016161337038745" width="653" height="236" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/2016161337038745-300x108.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/2016161337038745.jpg 653w" sizes="(max-width: 653px) 100vw, 653px"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%A6%81%E6%93%8D%E5%8A%9E%E5%85%AC%E5%AE%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A/?category=18271" rel="tag">八项规定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98/?category=18271" rel="tag">官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E8%AF%9D/?category=18271" rel="tag">官话</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%93%8D%E5%8A%9E/?category=18271" rel="tag">禁操办</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -676,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -686,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9B%BD%E9%99%85%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%8C%E6%9F%90%E4%BA%9B%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98/" target="cdt-mirror">知乎专栏｜洛胭：国际人口贩卖的受害者，某些中国姑娘</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise.png" rel="attachment wp-att-427708"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise.png" alt="walking merchandise" width="550" height="284" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise-300x155.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise-768x396.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise.png 1023w" sizes="(max-width: 550px) 100vw, 550px"></a><br>
+（作者提及的纪录片 <em>Walking Merchandise</em> 截图）</p>
+<p>这篇文字，其实只是在某个有地图炮嫌疑的答案下的随手一答，并没有打算放进专栏。但由于被某些哔——（消音）举报，答案被暂时封禁。所以暂且搬来此处。</p>
+<p>在我出国之前，东南沿海某些省市重男轻女得厉害这件事，我只是略有耳闻。<br>
+出国之后，由于学法律的缘故，第一年暑假去了一家做移民的法律中心当志愿者兼实习，这才知道，福建人重男轻女这件事情已经出名到美国去了。<br>
+这么说吧，在加州这边，做移民相关法律援助的律师，基本都遇到过被卖来的福建姑娘。</p>
+<p>她们被称为“walking merchandise”, 会走路的货物。</p>
+<p>曾做过一个法律援助案子，受害者是个十几岁的福建姑娘。</p>
+<p>她的故事很有代表性：她是一个农户人家的长女，还有个弟弟。<br>
+在姑娘十几岁的时候，就有蛇头找到她爸妈，努力游说：你看你们家养个姑娘也没啥用，干嘛不交给我们带去美国打工赚钱呢？去美国打工可赚了呢，回头寄钱给你们家儿子娶媳妇呀。<br>
+爸妈迟疑：送到美国得要多少钱？<br>
+蛇头表示：不用担心啊，我们要手续费是要十万美金，但是不用你们出的，我们把姑娘带走打工去，姑娘打了工先给我们还钱，还完了，就给你们家里寄钱啦。美国打工可赚了呢，一年就好几万美金，三四年就还清啦，然后就一年几万美金地给你们寄钱！<br>
+于是爸妈算了算这笔账，划算！<br>
+就把姑娘交给了蛇头。</p>
+<p>然而这些当爸妈的不知道的是，他们的女儿，由于语言不通，会以半囚禁的方式，关在饭店后厨里、关在提供体力劳动的场所、或者被迫入了地下色情业。<br>
+那笔十万美金的债务，由于年年加利息，很可能十年也还不完。<br>
+那些女孩子，被带来美国，没有身份记录，偷偷摸摸如地下老鼠，过着奴隶一般的生活。</p>
+<p>有一些女孩是幸运的。她们因为各种原因被警方发现，然后就会有一些公益律师免费为她们提供服务。她们很有可能被遣送回国，但如果律师够努力，其实她们能得到合法身份——T Visa 或 U visa 。 T visa 是给人口贩卖的受害者提供的；U visa 是给其他的某些犯罪的受害者提供的。只要她们能够证明自己是受害者并且证明自己如果回国会有危险，那么拿到这个签证，就可以合法地留在美国，可以工作，甚至能够申请绿卡。</p>
+<p>我们帮到的那些姑娘，都是幸运的。<br>
+但是还有太多，是我们帮不到的。<br>
+我的指导律师曾经说过，有太多福建姑娘，被蛇头带入境内之后，就“消失”了。<br>
+没有人知道，她们在地下工厂里面，过着怎样的生活。<br>
+她们与外界没有接触，就那样消失了。</p>
+<p>而福建的蛇头，仍然在有组织、有计划地，把一批一批的姑娘往美国输送。<br>
+福建人是不是重男轻女？哼哼，为什么他们不把儿子交给蛇头去美国打工？</p>
+<p>看有人质疑事件的真实性，有人拍了一部纪录片，名字就叫walking merchandise.<br>
+在youtube能搜到。<br>
+这个网址也有：<a href="http://link.zhihu.com/?target=http%3A//www.walkingmerchandise.com">http://www.walkingmerchandise.com</a><br>
+讲的就是被父母卖给蛇头的福建女孩子的经历。<br>
+（没有中文字幕。）</p>
+<p>片子里也提到了男性，但是以我看到的实际情况，还是以女孩子为主。女孩真的远比男孩多。<br>
+如果一对父母爱一个孩子，那么，想来这对父母不会轻易把孩子交到陌生人手上，带到异国他乡去吧。</p>
+<p>这其实和偷渡是两回事。因为，偷渡更多的是自身意愿。而这些女孩，是被贩卖的。她们自己并没有选择权。<br>
+我是北方人，闽南闽中闽北我分不清楚，美国人也分不清楚。但是总之，福建很出名。</p>
+<p>评论里有人问是哪个年代的事，就是现在的事。我去年，2015年夏天去那家援助机构做的实习。那个纪录片好像是2013年的事。</p>
+<p>==============================================================<br>
+评论里面有两位同行也说到了相似的问题，补充进正文吧。</p>
+<p><a href="http://www.zhihu.com/people/kaire-liu">Sixcrabs</a><br>
+特别有同感，搞法律的知道你是中国人，好多人就问，你知道福建省吗？我开始的时候还想福建怎么这么出名，看了一份份卷宗才知道……</p>
+<p><a href="http://www.zhihu.com/people/xuanie">毓萱</a><br>
+在类似的法援组织工作过，表示主要是闽北（福州附近的农村）那里的。而且据上级律师说，这几年给卖出来的姑娘还有低龄化的趋势，过去都是17-19岁的姑娘，这几年经常遇到13-15岁的姑娘。从福州到北京到俄罗斯到中美洲（瓜地马拉，洪都拉斯的最多）然后大巴进墨西哥，步行从德州边境入境，这一路上一两个月的时间有的被蛇头反复强奸，有的到收容所之后发现怀了孩子还想着赶快出去嫁给蛇头。。。经手一个案子，姑娘的父母在城里打工，生了二胎是个男孩，为了交罚款把女儿卖给蛇头，告诉女儿“要不是因为你，我们生儿子就不会要罚款的了”你去美国好好打工，先把蛇头的钱还了，等你有身份了再把弟弟办出去。</p>
+<p><a href="http://www.zhihu.com/people/xuanie">毓萱</a><br>
+另外针对“我们这里只有偷渡的，没有卖女儿的”说法，想再解释一下。中国法律里的拐卖人口强调的是一手交钱一手交人的买卖行为，但是美国法律（以及国际法）中的trafficking的实际翻译是“人口贩运”，不需要实质上的买卖行为。蛇头的行为是18世纪常见的契约奴役（indentured servitude）——奴隶和蛇头签署合同，由蛇头负责把人带到新大陆，然后奴隶通过苦役来偿还进入新大陆的费用。偷渡的人里男女都有，但是在未成年人偷渡的人群里，我见过的大部分都是女孩。和她们聊天得到的信息也是，女孩子被送出来的原因要么是有年幼的弟弟被父母寄予还债养家供弟弟的厚望，要么是家里没有儿子被村里人戳脊梁干脆把女儿送出来赚点钱好堵住相邻的闲话。</p>
+<p>===============================================================<br>
+评论里很多福建人表示“从来没听说过这种事”。我也希望这些事情是假的。然而，叹息。<br>
+———/////再割一下</p>
+<p>评论里闽东闽南闽西闽北乱撕一通的（消音）们你们够了！</p>
+<p>照你们这么说，我和指导律师们谈起这个事的时候，他们说起“有些中国女孩是人口贩运受害者”的时候，我是不是该一脸正义地告诉他们“不不不这是福建的事，这个锅我们中国不背”？</p>
+<p>搞笑呢？</p>
+<p>中国那么大，承认中国有些地方重男轻女严重有什么不行的？</p>
+<p>福建那么大，承认福建有些地方重男轻女严重有什么不行的？</p>
+<p>做那些案子的时候，我自己作为一个中国女孩，深切地同情那些同为中国人的姑娘。我们尽力地帮助她们，摆脱蛇头控制，申请人身保护令，为她们申请合法身份。<br>
+评论区里的某些人呢？你们能为这些姑娘做什么？能为这个现状做什么？看着福建俩字就不乐意了？东南西北撕撕撕，一帮（消音）。这回够友善了没有？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9B%BD%E9%99%85%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%8C%E6%9F%90%E4%BA%9B%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E6%B8%A1/?category=18271" rel="tag">偷渡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A9%E5%8D%96%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">贩卖人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A9%E5%8D%96%E5%84%BF%E7%AB%A5/?category=18271" rel="tag">贩卖儿童</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E7%94%B7%E8%BD%BB%E5%A5%B3/?category=18271" rel="tag">重男轻女</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%A7%8D%E8%8A%B1%E5%AE%B6%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%8C%E8%83%BD%E5%8F%AB%E6%8A%84%E4%B9%88/" target="cdt-mirror">【立此存照】种花家的正能量，能叫抄么？</a>
 </h2>
 <p><blockquote><p><a href="http://www.weibo.com/1560906700/DfSORoAqv" target="_blank">@阑夕</a>：请简述图一、图二和图三的血缘关系。（扒自 <a href="http://weibo.com/zhanzhengshiyanjiu" target="_blank">@战争史研究WH</a> ）</p></blockquote>
@@ -634,22 +697,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E9%99%95%E8%A5%BF%E4%B8%80%E5%85%AC%E5%AE%89%E5%B1%80%E7%8E%B0%E4%B8%A5%E6%89%93%E6%96%B0%E9%97%BB%E5%AA%92%E4%BD%93%E6%A8%AA%E5%B9%85/" target="cdt-mirror">澎湃新闻 | 陕西一公安局现”严打新闻媒体”横幅</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/742DBC29DC1A002B7ED556D7E0315395.jpg" alt="横山县公安局会议室正中央挂了一条红色横幅，上面写着“横山县公安局‘秦风冬季亮剑’严打新闻媒体座谈会”。图片来自网络" width="550" height="310" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/742DBC29DC1A002B7ED556D7E0315395-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/742DBC29DC1A002B7ED556D7E0315395.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"><p>横山县公安局会议室正中央挂了一条红色横幅，上面写着“横山县公安局‘秦风冬季亮剑’严打新闻媒体座谈会”。图片来自网络</p></div>
-<p>甘肃3名记者因涉嫌敲诈勒索被批捕事件仍在发酵之余，2月1日，陕西榆林市横山县一媒体座谈会疑闹出“严打媒体”的乌龙标语，让参会的不少记者打了个冷战。2月2日，横山县公安局通过官方微博发出通报，称系工作人员疏忽，并向各级新闻媒体朋友真诚致歉。</p>
-<p>2月1日下午，横山县公安局召开一场“冬季亮剑”行动座谈会并邀请众多媒体参加。会议室正中央挂了一条红色横幅，上面写着“横山县公安局‘秦风冬季亮剑’严打新闻媒体座谈会”。</p>
-<p>一名参会的榆林市地方媒体记者告诉澎湃新闻，当时看到标语后以为是“断句”的问题，也没感觉有何不妥，但开会过程中听到有其他同行在窃窃私语。</p>
-<p>标语被拍照保存后，很快流传到全国多个微信记者群以及微博，引发众多媒体人对标语是否系“笔误”还是“有所指”的猜测。</p>
-<p>横山县公安局在上述通报中向“各级新闻媒体的朋友们”致歉称：横山县公安局于2月1日下午在本局四楼会议室召开了“横山县公安局‘秦风、冬季亮剑’严打与新闻媒体座谈会”。由于工作人员疏忽，在会标上丢掉一个“与”字，在新闻界造成不良影响。在此，向各级新闻媒体朋友表示真诚的致歉。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E9%99%95%E8%A5%BF%E4%B8%80%E5%85%AC%E5%AE%89%E5%B1%80%E7%8E%B0%E4%B8%A5%E6%89%93%E6%96%B0%E9%97%BB%E5%AA%92%E4%BD%93%E6%A8%AA%E5%B9%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E6%89%93/?category=18271" rel="tag">严打</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E6%89%93%E6%96%B0%E9%97%BB%E5%AA%92%E4%BD%93/?category=18271" rel="tag">严打新闻媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93/?category=18271" rel="tag">媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -661,7 +708,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E6%89%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -671,5 +718,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E6%89%93
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

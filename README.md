@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/" target="cdt-mirror">【图说天朝】为了国家 盗版有理</a>
+</h2>
+<p><p>近日，中国3DM游戏网因发布日本光荣公司的《三国志13》游戏的免费破解版而收到对方的律师函，要求3DM删除相关下载内容并公开道歉。3DM按照要求删除游戏下载的同时还发表了<a href="http://games.qq.com/a/20160203/024981.htm">如下</a>言论：</p>
+<blockquote><p>对此，3DM方面回应称，对光荣的做法表示理解，但是有以下两个疑惑：第一，众多知名游戏厂商，在定人民币价格的时候，都比较低廉，比如同步上市的《古墓丽影：崛起》仅145元人民币，为什么《三国志13》定价近400元人民币，完全高于了国内玩家的支付能力，<strong>这样并不符合市场发展</strong>，我曾经说过，2年后中国玩家将没有免费的PC游戏了，但是希望厂商能够按中国消费水平合理定价，不能跟某6一样，拿着情怀坑我们中国玩家。第二，<strong>为什么陈寿所著《三国志》衍生的游戏著作权在一家日本公司手里，而不是中国公司手里……我还是觉得我们中国的游戏公司应该想办法拿回来</strong>。</p></blockquote>
+<p>然后发生了<strong>盗版玩家集体举报<a href="http://store.steampowered.com/about/?l=schinese">游戏平台Steam</a>中国区进行报复</strong>，<strong><span>以爱国的名义</span>誓让所有人都用不上正版的奇观</strong>：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/0066vV8mgw1f0o6exo5u8j30hs0vlgpk.jpg" rel="attachment wp-att-427773"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/0066vV8mgw1f0o6exo5u8j30hs0vlgpk.jpg" alt="0066vV8mgw1f0o6exo5u8j30hs0vlgpk" width="400" height="711"></a></p>
+<p><strong>这里需要指出的是，Steam为了鼓励中国用户购买正版游戏，已经主动降低了不少游戏的<a href="https://www.zhihu.com/question/27634928">中国区定价</a>，</strong>比如热门游戏Grand Theft Auto 5在中国区是30美金，只有美国原价的一半。</p>
+<p><em>以下图片来自新浪微博 <a href="http://weibo.com/1620767105/DgpD4q3ZW">@疾风之翼-Moehayate</a>：</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45.jpg" rel="attachment wp-att-427769"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45.jpg" alt="609af181jw1f0oaibzj3ij211d0g3n45" width="585" height="252" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45-300x129.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45-768x331.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45.jpg 1024w" sizes="(max-width: 585px) 100vw, 585px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok.jpg" rel="attachment wp-att-427768"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok.jpg" alt="609af181jw1f0oaiclhdbj20in0glgok" width="550" height="489" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok-300x267.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok.jpg 671w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b.jpg" rel="attachment wp-att-427767"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b.jpg" alt="609af181jw1f0oaidbc7sj20pp0dvq4b" width="550" height="297" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b-300x162.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b-768x414.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b.jpg 925w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i.jpg" rel="attachment wp-att-427766"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i.jpg" alt="609af181jw1f0oaidx5t1j20m80j740i" width="550" height="475" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i-300x259.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i-768x663.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i.jpg 800w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63.jpg" rel="attachment wp-att-427765"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63.jpg" alt="609af181jw1f0oaieh1bjj20hx0g5q63" width="550" height="495" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63-300x270.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63.jpg 645w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2132762297" target="_blank">@墟灯</a>：爱国主义已经是流氓最后的遮羞布了<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
+<p><a href="http://weibo.com/xiongmaodemeili" target="_blank">@iG_Sven_FCB</a>：<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]">我拒绝承认跟这种生物是一国人！昨晚还跟丹总聊这事儿，麻痹我掏钱买正版养着你们这帮盗版逼，你们反过来骂我人傻钱多，还举报我们正版，三观真是扭曲！</p>
+<p>@冰封的羲和-黑色标记: 大写的“你国人”</p>
+<p>@论能量守恒的哲学意义：果然爱国主义是谁的避难所来着……</p>
+<p>@刘春遥Alfred:我穷我有理系列，买不起正版就谁TMD也别想玩正版系列。</p>
+<p>@我又不是胖子咯：Steam蛮好的啊，逢年过节给打折，能支持就支持咯，盗版毕竟不对啊。</p>
+<p>@绿君-DR预热中：我自从开始有收入之后一直在买正版游戏，为了弥补小时候玩盗版的亏欠，但凡我小时候玩的盗版游戏出了续作的，一律买两份，比如武林群侠传什么。玩盗版绝对不是什么理所当然的事情，即便是小学生，都明白不给厂商钱，就没有新的好游戏玩的道理。</p>
+<p>@伟哥取名技能没加点啊：承认小时候游戏会买盗版碟现在也是有人会说「你玩正版玩出什么优越感了」但还是觉得不管专辑or游戏这种一次付清也不太贵的尊重一下爱豆露的艰辛设计者的脑力程序员的汗水不行嘛 说我装比也行但我觉得关起门玩盗版就算了玩盗版玩出优越感还要举报正版我真服了[微笑]【情侣被强奸犯告非法同居】合理？</p>
+<p>@八木沼悟志正面上我啊：哈哈哈…让我想起来小区门口…因为停车位的问题…你不让我停..你也别停..占便宜没够吃亏难受.已经深入国人基因里了</p>
+<p>@折君OrekiRin：盗版怎么都没理，毕竟人家是有知识产权的，没被版权你玩了算你运气好被版权后也只能认咯，哪有这样没理还耍泼皮无赖的→_→</p>
+<blockquote><p>@ollin:我开始方了<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2.jpg" rel="attachment wp-att-427774"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2.jpg" alt="62062385gw1f0obqbjl1mj20mf08rmy2" width="550" height="215" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2-300x117.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2-768x300.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2.jpg 807w" sizes="(max-width: 550px) 100vw, 550px"></a></p></blockquote>
+<p>@战场原戍野：想起来当初的MHP3…一群人也是逼着人家破解，结果愣是把人逼走了…本来玩破解就不要这么高调，你居然还恬不知耻的威胁人家这就是犯贱了</p>
+<p>@小坂摸逢考必过：买不起Dior，背了淘宝上的假包，冲进专柜打砸抢烧。</p>
+<p>@小辫子蜀黍：用盗版用出了一种天下唯我独尊的感觉，也没谁了</p>
+<p>@ikillKenny：所以说嘛 … 大概任何事都能加上“爱国主义”这个华丽的包装盒</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/steam/?category=18271" rel="tag">Steam</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%9B%97%E7%89%88/?category=18271" rel="tag">反盗版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">境外游戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81%EF%BD%9C%E6%94%BF%E6%B2%BB%E8%AF%BE%E6%88%90%E7%BB%A9%E8%B6%8A%E5%A5%BD%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%8C%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E4%B8%BA%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">政见｜政治课成绩越好的学生，越不愿意“为国家添麻烦”</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg" rel="attachment wp-att-427753"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg" alt="1609585311" width="455" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
@@ -628,21 +665,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%9C%A8%E5%9B%9B%E5%B7%9D%E7%82%89%E9%9C%8D%E5%8E%BF%E5%BC%BA%E5%88%B6%E6%B2%A1%E6%94%B6%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E6%B3%95%E5%83%8F/" target="cdt-mirror">美国之音｜中国当局在四川炉霍县强制没收达赖喇嘛法像</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%BB%E4%BD%9B%E8%BD%AC%E4%B8%96%E6%9C%80%E9%AB%98%E5%86%B3%E5%AE%9A%E6%9D%83%E5%9C%A8%E4%B8%AD%E5%A4%AE2.png" rel="attachment wp-att-427535"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%BB%E4%BD%9B%E8%BD%AC%E4%B8%96%E6%9C%80%E9%AB%98%E5%86%B3%E5%AE%9A%E6%9D%83%E5%9C%A8%E4%B8%AD%E5%A4%AE2.png" alt="活佛转世最高决定权在中央2" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2-300x214.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2-768x548.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2-1024x730.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/活佛转世最高决定权在中央2.png 1608w" sizes="(max-width: 1608px) 100vw, 1608px"></a><p>央视新闻截图</p></div>
-<p>星期二，四川炉霍县没收“达赖法像”命令到达最后期限。1月4日，该县政府下达命令，全面没收县内所有商店内供奉的达赖喇嘛尊者法像，各商家必须在2月2日之前将违禁达赖画像上交。</p>
-<p>四川炉霍县中共当局于上月4日，下发了一份名为《炉霍县文化综合执行大队关于在全县收缴违禁达赖画像》的通知，指出达赖喇嘛尊者的法像属“违禁反宣制品”，禁止悬挂、摆放在公共场合，而且当局将全面没收相关画像。通知称：“炉霍县超过40%的商店内均悬挂、摆放达赖违禁画像。凡持有达赖画像的各大小商家于2月2日前，必须将违禁达赖画像自动交送县文化执行大队。”，且 “对于逾期未交者，将采取强硬措施，强制收缴，并对当事人进行严肃从重查处。”</p>
-<p>西藏之声电台援引印北达兰萨拉的西藏人权与民主促进中心研究员才让嘉的话指出，供奉达赖喇嘛尊者的法像，原本是藏人的基本信仰自由。中国当局的举措清楚证明了境内藏人的宗教信仰等人权自由遭践踏的情况。而这些手段只会加剧藏人的不满情绪，恐怕引发更多的藏人抗议活动。</p>
-<p>藏人反抗中共统治西藏的暴动失败之后，达赖喇嘛1959年逃亡印度。从那时起，他一直推动与中国政府对话，为西藏争取更大的自治权，而中国政府把达赖喇嘛视为危险的分离主义分子，在西藏境内禁止流通和出售达赖画像的命令时有下达。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%9C%A8%E5%9B%9B%E5%B7%9D%E7%82%89%E9%9C%8D%E5%8E%BF%E5%BC%BA%E5%88%B6%E6%B2%A1%E6%94%B6%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E6%B3%95%E5%83%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E8%87%AA%E6%B2%BB/?category=18271" rel="tag">民族自治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%B0%91/?category=18271" rel="tag">藏民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -654,7 +676,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -664,5 +686,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

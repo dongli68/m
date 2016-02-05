@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/vicsforum%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9C%8B%E6%88%92%E4%B8%8D%E4%BA%86%E9%A6%AC%E5%AE%B6%E8%BB%8D%E5%BC%8F%E8%88%88%E5%A5%AE%E5%8A%91/" target="cdt-mirror">Vicsforum｜李平：中國戒不了馬家軍式興奮劑</a>
+</h2>
+<p><p>香港蘋果日報 2016年2月4日</p>
+<p>1993年曾在世界田徑錦標賽掀起黃色狂飆的馬家軍，被揭使用興奮劑不是新聞；1998年中國作家趙瑜憑一部《馬家軍調查》潔本震動中國體壇也不是新聞。如今，《馬家軍調查》全本面世還能引起巨大迴響，不只是馬家軍使用興奮劑的細節聳人聽聞，更因為馬家軍式的興奮劑仍在中國盛行，是中共戒不了也不想戒的。</p>
+<p>馬家軍是指遼寧省田徑教練馬俊仁在1990年代訓練出來的一批女子中長跑運動員，包括1993年在世錦賽分別奪得1,500米、3,000米和10,000米冠軍的劉東、曲雲霞、王軍霞等。這股黃色狂飆隨即受到使用興奮劑的質疑，但中國官方力撐馬家軍，並把外界質疑歸咎於敵對勢力、反華勢力。</p>
+<p>1994年央視春節晚會的小品《打撲克》的一段台詞，最能說明中國的鬥爭思維和政治需要。這段由黃宏、侯耀文演出的小品，對外國記者在查馬家軍的興奮劑問題作出反擊：「外國人得了冠軍啥說的沒有，中國人得了冠軍就興奮劑啊？告訴他們，不是馬家軍打了興奮劑，是馬家軍給十二億中國人乃至全世界華人打了一針興奮劑。我們中國，總有一天要像馬家軍一樣，跑在世界最前方！」</p>
+<p>《打撲克》是春晚小品的經典之作，黃宏後來更獲封國家一級演員，擁有解放軍少將軍銜。而「馬家軍給十二億中國人乃至全世界華人打了一針興奮劑」的表述，更是迄今擲地有聲的經典之論。馬家軍的興奮劑問題之所以被長年掩蓋，薄熙來、谷開來夫婦之所以力撐馬家軍，《馬家軍調查》之所以塵封17年，就因為中共需要馬家軍這樣可以振奮民心、鼓動愛國的興奮劑。</p>
+<p>儘管王軍霞1996年還在亞特蘭大奧運奪得5,000米金牌，但馬家軍很快就因興奮劑問題而沒落。前國家體育總局局長袁偉民2009年在其回憶錄《袁偉民與體壇風雲》中，首次透露馬家軍無緣2000年悉尼奧運，是因為七個運動員的興奮劑檢測樣本中，有兩人尿檢超標、四人血檢超標。</p>
+<p>當權者的愚民工具</p>
+<p>由於世界反興奮劑組織、制度、技術的完善，中國體壇未能再複製馬家軍集體使用興奮劑揚威國際的故事，只能偶而從劉翔等世界冠軍中挖掘愛國愛黨題材，而一旦冠軍們不公開感謝黨感謝國家，就會面對官員和官媒的炮轟。無論是溫哥華冬奧冠軍周洋，還是法網冠軍李娜，她們對父母的感恩、對合作夥伴的感恩，都未能得到官方輿論的肯定，可見當權者想給民眾服用的興奮劑是何等低劣。</p>
+<p>一個拒絕民主、法治的國家，一個最高領導層的貪腐已擊穿人類道德底線的國家，當權者要維護自己的權利、要繼續推行愚民政策，當然要想方設法讓民眾處於亢奮狀態而失去自己的思想。在馬家軍式的體壇冠軍漸漸失去政治興奮劑功用後，當權者自然會製造新的興奮劑，無論是政治的、經濟的、文化的，還是以愛國的名義、以民族復興的名義、以國際主義的名義。</p>
+<p>「當我們氣餒時，中國夢是我們的強心劑。當我們失落時，中國夢是我們的興奮劑。」中學生作文中的華麗辭句，與小學生說當貪官是其理想，恰恰反映了中國官場的兩面性：以愛國的興奮掩蓋貪腐的真實。政治興奮劑的迷幻劑特徵再明顯不過了。</p>
+<p>至於「四千點是中國牛市的起點」這樣的股市興奮劑，藥效很快就過時，其後遺症又是黨國所難承受之痛，於是，救市又如吃了另一種興奮劑，充滿暴力意味。當強力部門把共產黨專政的鐵拳砸向股市、匯市的「敵對勢力」時，當權者眼中那抹服用興奮劑的血紅已不加掩飾。相比於權力興奮劑，馬家軍的興奮劑實在是小巫見大巫。（https://www.facebook.com/appledaily.liping ）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/vicsforum%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9C%8B%E6%88%92%E4%B8%8D%E4%BA%86%E9%A6%AC%E5%AE%B6%E8%BB%8D%E5%BC%8F%E8%88%88%E5%A5%AE%E5%8A%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD%E4%BD%93%E5%88%B6/?category=18271" rel="tag">举国体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E8%82%B2%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">体育强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%AE%B6%E5%86%9B/?category=18271" rel="tag">马家军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9B%BD%E9%99%85%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%8C%E6%9F%90%E4%BA%9B%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98/" target="cdt-mirror">知乎专栏｜洛胭：国际人口贩卖的受害者，某些中国姑娘</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise.png" rel="attachment wp-att-427708"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise.png" alt="walking merchandise" width="550" height="284" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise-300x155.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise-768x396.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/walking-merchandise.png 1023w" sizes="(max-width: 550px) 100vw, 550px"></a><br>
@@ -672,31 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%A5%BF%E5%AA%92%E7%82%92%E4%BD%9C%E4%BC%97%E6%B3%BD%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%BA/" target="cdt-mirror">【异闻观止】环球时报 | 西媒炒作众泽关闭是为看热闹</a>
-</h2>
-<p><p>相关阅读：<a title="纽约时报 | 北京著名妇女法律援助中心被迫关闭" href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%8C%97%E4%BA%AC%E8%91%97%E5%90%8D%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E4%B8%AD%E5%BF%83%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%AD/">纽约时报 | 北京著名妇女法律援助中心被迫关闭</a></p>
-<p>单仁平</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/30chinawomen-web1-articleLarge.jpg" alt="郭建梅是北京众泽妇女法律咨询服务中心的创办人。她说政府下令该中心停止运营。" width="600" height="421" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/30chinawomen-web1-articleLarge-300x211.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/30chinawomen-web1-articleLarge.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"><p>郭建梅是北京众泽妇女法律咨询服务中心的创办人。她说政府下令该中心停止运营。</p></div>
-<p>西方媒体近日集中报道了北京众泽妇女法律咨询服务中心2月1日关闭的消息，并指责中国政府“打压民间团体”。美国总统参选人希拉里1月31日在推特上声援该中心创办人郭建梅，有分析认为希拉里欲用女权议题为她的民主党候选人初选造势。</p>
-<p>北京众泽妇女法律咨询服务中心的前身是北大法学院妇女法律研究与服务中心，1996年成立，后脱离北大改为现名。在关闭前该中心是郭建梅所在律师事务所下面的一个机构，接受捐助并打“公益官司”。该中心的关闭据了解没有影响律所的运营，有西方媒体就中心关闭采访郭，她的回应比较低调。</p>
-<p>为权益遭到侵害的妇女提供公益性法律援助，这是值得鼓励的。当下仍有一些律师免费或以较低收费在这样做。从外媒的报道看，众泽从成立之初就接受美国一家基金会的捐款，数额逐年扩大，不知道这是否就是问题的症结。</p>
-<p>美国政府资助的自由亚洲电台提到，众泽介入了一些“敏感案件”，但没有说明具体是哪些案件。</p>
-<p>“敏感案件”加上境外资金，构成了看待这件事的一个角度。当然，众泽关闭未必就是这个角度的绝对化，这当中也许还有更多因素。比如有消息说众泽被要求拒绝某些境外资金，假如出现资金断源的情况，中心如何坚持会是个问题。</p>
-<p>通常来说，境外资金进入中国的社会公共领域，会产生复杂的影响。它们既可能带来社会建设的正面推动，也会因这些资金的政治倾向性造成它们使用上的选择性，从而积累社会不协调的张力。因而不能给那些境外资金下断然的定义，而应遵循一事一议的原则。</p>
-<p>外界并不清楚众泽关闭的具体原因，从它关闭的过程看，迄今为止比较温和。没有传出中心有人受到其他处理的消息，众泽也没采取对抗姿态。</p>
-<p>希望这件事并不像西方舆论炒作的那样严重。管理原则的改变并无削弱开展公益法律援助的初衷，依法治国是中国党和政府的真诚目标，调整的目的只能是管理的规范化，让法治的基础更加严整。</p>
-<p>不能不说，法律援助领域前一段时间出了一些问题，极少数激进维权律师走向法律的对立面，造成了很坏的影响。北京锋锐律师事务所正就其破坏正常的社会治理接受警方调查。</p>
-<p>中国也有许多法律援助机构依法开展业务，不仅维护了社会弱势群体的利益，也避免了可能出现的误解和群体维权事件。在那些机构里做事的律师不图名利，是真正的奉献者和建设者，令人钦佩。</p>
-<p>管理机关与法律及文化领域的NGO都应就敏感事宜保持克制和理性。前者应保持开放胸襟，不把一般性违规和管理中的摩擦朝敏感方向联想。后者则应正确看待管理措施的加强，不把相关变化上纲上线，视其为“政治打压”。</p>
-<p>当下定义的NGO总体看尚需与中国社会进一步磨合，全社会对此应保持耐心，最好能够促进他们对现实环境的适应，以及后者对它们的接纳。西方舆论并不关心中国社会在这当中的真正痛痒，它们实际是看热闹者，顺势见火就泼一瓢油。中国人自己得有主心骨。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%A5%BF%E5%AA%92%E7%82%92%E4%BD%9C%E4%BC%97%E6%B3%BD%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E5%88%A9/?category=18271" rel="tag">女性权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">妇女法律援助中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">权利运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E5%9B%A2%E4%BD%93/?category=18271" rel="tag">民间团体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">郭建梅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -708,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -718,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

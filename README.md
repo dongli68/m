@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,71 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%A6%99%E6%B8%AF%E5%87%BA%E7%89%88%E4%B8%9A%E5%AF%92%E5%86%AC-%E5%8F%88%E4%B8%80%E7%A6%81%E4%B9%A6%E5%BA%971908%E4%B9%A6%E7%A4%BE%E7%BB%93%E4%B8%9A/" target="cdt-mirror">自由亚洲｜香港出版业寒冬 又一禁书店”1908书社”结业</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b.jpeg" rel="attachment wp-att-427733"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b.jpeg" alt="4a26a441-31d2-45f7-9d76-062513c0f00b" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b-225x300.jpeg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b.jpeg 622w" sizes="(max-width: 450px) 100vw, 450px"></a><p>受铜锣湾书店事件影响，香港出版业进入寒冬(忻霖拍摄)</p></div>
+<p>受铜锣湾书店事件影响，香港禁书市场接连受压急速萎缩。近日，香港另一家面向中国自由行游客、主营中文政治类书籍的书店“1908书社”悄然结业。有评论人士分析，香港出版业的寒冬已经来临，面临的政治压力远高于经济压力。</p>
+<p>香港禁书市场近年来从作者、出版到发行环环受压，铜锣湾书店人员连环失踪事件更令业界雪上加霜。近日，坐落于尖沙咀闹市区的大陆禁书店“1908书社”突然结业。</p>
+<p>与1908书社有密切联系的一名匿名知情人向本台透露，书店未正式发出停业通告，但已经于2月1日停业。由于近年来大陆游客被导游告知不允许携带禁书或杂志，专营禁书的1908书社经历了业务上的显著下滑，上月发生的铜锣湾书店事件也成为了压在骆驼身上的最后一根稻草。</p>
+<p>知情人：“书店老板还没有正式对外发表公告，不过确实在2月1日开始已经关门了，客流量太少、营业额太少，几年来都是亏本经营。很多人都关心说是不是和李波、阿海事件有关，铜锣湾书店风波以后，大陆人来买书的少了，是有点影响。”</p>
+<p>记者：“1908书社卖的书和铜锣湾书店买的书相比有什么不同吗？”</p>
+<p>知情人：“很大的不同，这个书店基本没有进巨流出版社的这些书，最敏感的就是《墓碑》、高华那些书，由新世纪、田园、或者五七出版社、夏菲尔出版社出版的，名气没有铜锣湾书店那么大。”</p>
+<p>据了解，1908书社社长李丹是中国一家关注人权问题的NGO负责人，据他2012年在书店开业时向媒体表示，开书店最直接的目的是通过盈利支援他所在机构的行政运转。书店取名“1908书社”，意在向1908年中国第一部宪法致敬，希望将法治等精神透过书本传回内地。开业的3年里，1908书社逐渐成为一个连接社会组织、媒体和社会运动群体等方方面面的中转站。而各地人权团体的干事们，记者、教师、中国维权律师也频频出现在书店的讲座中。</p>
+<p>但知情人告诉本台，1908书社并没有像其所期望的那样，成为呼唤宪政和推进社会运动的中心，书店举办的活动屡次受到干扰，特别是在去年该书店举行的两场西藏电影节放映会上，连日遭到不明人士骚扰和放火。</p>
+<p>知情人：“有一次西藏电影节的时候，有几个人进来喊口号，当时我跟他们讲，如果你们有什么意见的话，可以到外面去自己搞活动，人家来搞活动你来冲击，这是非常不礼貌的，而且你这种方式没有办法让人家接受。他们当时听了我的话之后都离开了，第二天有人在垃圾箱里面放火，但是不是跟这个事件有关我就不知道了。搞西藏电影节是另外一个机构借这个地方做的，跟1908书店没有什么关系。为了普及宪政我们也做了一些这方面的研讨会，但是旺丁不旺财，来的人很多，但是买书的人很少，没有达到普及宪政的目的。”</p>
+<p>香港支联会副主席蔡耀昌告诉本台，对于书店停业，他感到可惜，认为出版业面临的政治压力远高于经济压力。</p>
+<p>蔡耀昌：“1908书店关门当然是很可惜的。我们也看到过去一段时间，香港有一些书店，他们出版的无论是探讨中国的问题或者有一些可能存在的一些秘闻，有 多尤其是内地的人士来香港很有兴趣买这些书，这些表现了香港出版资讯的自由。铜锣湾书店这个事情当然令人非常担心，引发包括其他出版社和书店考虑到风险，也影响了他们的生意，所以就出现了像1908这样的情况。”</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%A6%99%E6%B8%AF%E5%87%BA%E7%89%88%E4%B8%9A%E5%AF%92%E5%86%AC-%E5%8F%88%E4%B8%80%E7%A6%81%E4%B9%A6%E5%BA%971908%E4%B9%A6%E7%A4%BE%E7%BB%93%E4%B8%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E7%BB%84%E9%83%A8%EF%BC%9A%E7%A6%BB%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E5%85%9A%E5%91%98%E4%B8%8D%E8%83%BD%E4%BF%A1%E6%95%99/" target="cdt-mirror">【异闻观止】中组部：离退休干部党员不能信教</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20150928034912254.jpg" rel="attachment wp-att-427728"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20150928034912254.jpg" alt="网络图片" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20150928034912254-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/20150928034912254.jpg 690w" sizes="(max-width: 690px) 100vw, 690px"></a><p>网络图片</p></div>
+<p>原标题：中共中央办公厅、国务院办公厅印发《关于进一步加强和改进离退休干部工作的意见》</p>
+<p>新华社北京2月4日电 近日，中共中央办公厅、国务院办公厅印发了《关于进一步加强和改进离退休干部工作的意见》（以下简称《意见》），并发出通知，要求各地区各部门结合实际认真贯彻执行。</p>
+<p>《意见》认真贯彻党的十八大和十八届三中、四中、五中全会精神，认真贯彻习近平总书记系列重要讲话精神，主动适应协调推进“四个全面”战略布局和人口老龄化的新形势新要求，积极应对离退休干部队伍在人员结构、思想观念、活动方式、服务管理等方面的新情况新问题，对做好新形势下离退休干部工作提出了要求，作出了部署。</p>
+<p>《意见》指出，离退休干部工作是党的组织工作和人事工作的重要组成部分，承载着党中央关心爱护广大离退休干部的重要任务，具有特殊重要的地位。要按照党中央关于全面做好离退休干部工作的要求，<strong>牢牢把握为党和人民的事业增添正能量的价值取向</strong>，以充分体现离退休干部特点和优势、更好服务党和国家工作大局为方向，积极稳妥推进离退休干部工作转型发展，激励广大离退休干部为全面建成小康社会，实现“两个一百年”奋斗目标和中华民族伟大复兴的中国梦贡献智慧和力量。</p>
+<p>《意见》要求，要更加注重加强教育引导工作，落实全面从严治党要求，教育引导广大离退休干部和党员始终保持公仆本色，始终牢记党员身份，始终坚定理想信念，<strong>始终保持对党忠诚的政治品格，自觉在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致</strong>。更加注重发挥离退休干部的独特优势，坚持不懈开展以 “展示阳光心态、体验美好生活、畅谈发展变化”为主要内容的为党和人民的事业增添正能量活动。更加注重做好服务保障工作，坚持思想上关心、生活上照顾、精神上关怀，保持敬重之心、倾注关爱之情、多做务实之事。更加注重加强对离退休干部工作的领导，健全完善党委和政府统一领导，组织人事部门牵头抓总，离退休干部工作部门组织实施，有关职能部门各负其责，社会各方积极参与的工作机制。</p>
+<p>《意见》提出，<strong>要加强离退休干部思想政治工作</strong>，引导离退休干部牢固树立纪律和规矩意识，始终严守政治纪律和政治规矩，严格用党章党规党纪规范自己的言行，<strong>在大是大非面前旗帜鲜明、立场坚定</strong>。要认真做好离休干部服务管理工作，进一步完善退休干部服务管理办法，加强离退休干部活动阵地、学习阵地建设，完善离退休干部困难帮扶机制，注意发挥家庭在养老中的基础性作用，教育引导家庭成员切实履行应尽义务。</p>
+<p>《意见》强调，各地区各部门要把离退休干部工作摆到重要位置，加强领导，健全制度，完善职责，强化保障。党政主要负责同志要重视离退休干部工作，带头联系、经常走访离退休干部。离退休干部工作领导小组要充分发挥统筹协调、指导监督作用，研究解决工作中的重大问题。</p>
+<p>全面做好离退休干部工作——中组部负责人就《关于进一步加强和改进离退休干部工作的意见》答记者问</p>
+<p>近日，中央办公厅、国务院办公厅印发了《关于进一步加强和改进离退休干部工作的意见》（以下简称《意见》）。日前，中央组织部负责人接受本报记者采访，就《意见》印发和贯彻落实等问题，回答了记者的提问。</p>
+<p>问：为什么要制定这个《意见》？</p>
+<p>答：2014 年11月，中央组织部召开了全国离退休干部“双先”表彰大会，习近平总书记亲切接见与会的“双先”代表和老干部工作部门负责同志，并发表饱含深情的重要讲话，指出老干部工作是非常重要的工作，在我们党的工作中具有特殊重要的地位，承载着党中央关心爱护广大老同志的重要任务，是中国共产党党的建设的特色，一 定要坚持做好老干部工作。刘云山同志在会上强调，老干部工作是党的组织工作和中国特色干部人事工作的重要组成部分。<strong>新形势下，老干部工作只能加强、不能削弱，只会加强、不会削弱</strong>。进一步加强和改进离退休干部工作，具有非常重要的意义。第一，这是积极应对离退休干部工作自身变化的内在要求。随着经济社会快速发展和我国人口老龄化程度日益加深，离休干部占比很小并呈现加速减少的趋势，退休干部数量每年大幅增长，离退休干部队伍在思想观念、活动方式、服务管理等方面也出现了很多新情况新问题，离退休干部工作中许多问题还需回答与规范。第二，这是准确把握离退休干部工作面临的大局大势的迫切需要。大局清，方向明。做好老干部工作，必须充分认清全面建成小康社会赋予老干部工作的新使命，充分认清全面从严治党对老干部工作提出的新要求，准确把握老干部工作面临的“时”和“势”。《意见》主动适应协调推进“四个全面”战略布局和人口老龄化的新形势新要求，放眼党和国家事业发展，坚持在大的形势背景下谋划和推进工作，自觉把离退休干部工作融入实现党的历史使命和奋斗目标之中。第三，这是贯彻“双先”表彰大会精神的现实需要。习近平总书记等中央领导同志在全国离退休干部“双先”表彰大会上的重要讲话，提出了一系列新思想新观点新要求，为做好新形势下离退休干部工作进一步指明了方向，提供了重要遵循。《意见》以中央精神特别是习近平总书记一系列重要指示为指引，充分体现全国离退休干部“双先”表彰大会精神，对离退休干部工作作出了全面部署。为进一步加强和改进离退休干部工作，根据会议精神，中央组织部研究制定了这个《意见》，对新形势下离退休干部工作作出了明确和规范。《意见》是自1982年老干部退休制度建立以来，第一个以中办、国办名义印发的老干部工作综合性文件，对于做好新时期老干部工作，具有重要的指导意义。</p>
+<p>问：加强和改进离退休干部工作总体上应把握哪些要求？</p>
+<p>答： 《意见》提出要高举中国特色社会主义伟大旗帜，全面贯彻党的十八大和十八届三中、四中、五中全会精神，以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观为指导，深入学习贯彻习近平总书记系列重要讲话精神，按照中央关于全面做好离退休干部工作的要求，牢牢把握为党和人民的事业增添正能量的价值取向，以充分体现离退休干部特点和优势、更好服务党和国家工作大局为方向，积极稳妥推进离退休干部工作转型发展，激励广大离退休干部为全面建成小康社会，实现“两个一百年”奋斗目标和中华民族伟大复兴的中国梦贡献智慧和力量。《意见》强调，新形势下做好老干部工作要遵循“四个更加注重”的原则：更加注重加强教育引导工作，更加注重发挥离退休干部的独特优势，更加注重做好服务保障工作，更加注重加强对离退休干部工作的领导。</p>
+<p>问：《意见》的最大特色是什么？</p>
+<p>答： <strong>把为党和人民的事业增添正能量作为价值取向，对坚持不懈在老同志中开展以“展示阳光心态、体验美好生活、畅谈发展变化”为主要内容的为党和人民的事业增添正能量活动作出明确要求和规定，这是《意见》的最大特色</strong>。《意见》强调，要发挥离退休干部的政治优势、经验优势、威望优势，充分凝聚和释放正能量。要求组织引导离退休干部践行社会主义核心价值观，弘扬中华民族传统美德，传递向上向善的精神力量，影响和带动周围群众坚定不移跟党走，共同释放正能量。按照自觉自愿、量力而行的原则，组织引导广大离退休干部在推进全面建成小康社会、全面深化改革、全面依法治国、全面从严治党中作出新贡献。<strong>一是组织引导老同志以积极的心态、历史的眼光、辩证的思维，正确看待国家的发展变化，客观分析党风政风和社会风气，正确理解周围的人和事，做心态阳光的模范长辈</strong>；通过传承党的优良作风、弘扬优秀传统文化、培育和传承优良家风、关心教育青少年、开展法治宣传、化解矛盾纠纷、参与社区建设等方式传播正能量。二是坚持定期听取离退休干部的意见建议，围绕党的中心工作，及时把他们对中央重大决策部署、重要改革举措的看法和建议反映出来，为各级党委和政府决策提供参考。<strong>三是组织离退休干部在各类媒体上传播正能量。</strong>鼓励引导政治立场坚定、社会责任感强、心态阳光积极、具备一定政策理论水平的离退休干部，在传统媒体和新媒体上讲好中国故事，弘扬中国精神，传播中国好声音，为各地区各部门经得起历史检验、深受群众欢迎的政策举措和发展成就点赞喝彩，<strong>用积极声音影响社会舆论，维护党和政府形象</strong>。</p>
+<p>问：《意见》对加强和创新离退休干部党组织建设作出了哪些明确规定？</p>
+<p>答：加强离退休干部党组织建设，始终是做好离退休干部工作的关键所在。《意见》对此作出了明确规定：一是在落实党建工作责任方面，要求各级党委（党组）要把离退休干部党组织建设纳入本地区本部门党的建设总体布局，加强谋划，精心部署，扎实推进。强调进一步落实组织部门、离退休干部工作部门党建工作责任。二是在离退休干部党组织设置方面，强调按照有利于教育管理、有利于发挥作用、有利于参加活动的原则，灵活设置党组织。积极探索在离退休干部集中居住地、活动学习场所、兴趣爱好团体、社团组织中建立基层党组织或者临时党组织。选配党性强、威信高、身体好、经验丰富、乐于奉献的离退休干部党员任党组织书记。三是在建立健全党组织工作经费保障机制方面，明确规定机关、事业单位列入年度预算，国有企业列入企业预算。加大党费对离退休干部党组织活动的支持力度，适当提高离退休干部党组织收缴党费的下拨比例，给予离退休干部党组织书记适当工作补贴等。同时规定，离退休干部党委（工委）书记一般由同级离退休干部工作部门主要负责同志兼任，党员人数较多的可按同级离退休干部工作部门副职配备专职副书记，在现有编制内配齐配强专职党务工作者。</p>
+<p>问：《意见》在加强离退休干部党员教育管理方面有什么要求？</p>
+<p>答： 《意见》充分体现党中央全面从严治党要求，提出要深入细致做好思想政治工作，教育引导广大离退休干部和党员始终保持公仆本色，始终牢记党员身份，始终坚定理想信念，<strong>始终保持对党忠诚的政治品格，自觉在思想上政治上行动上同以习近平同志为总书记的党中央保持高度一致</strong>。《意见》对加强离退休干部党员教育管理提出6点明确要求。一是牢固树立纪律和规矩意识，<strong>始终严守政治纪律和政治规矩</strong>，严格用党章党规党纪规范自己的言行，<strong>在大是大非面前旗帜鲜明、立场坚定；坚决拥护党中央的重大决策部署和方针政策，理解和支持全面深化改革，正确对待利益调整；</strong>自觉尊法学法守法用法，做社会主义法治的忠实崇尚者、自觉遵守者、坚定捍卫者；<strong>严格遵守中央关于讲座、论坛、刊登、出版、在企业和社会团体兼职（任职）、继续从业、出国（境）审批、重要情况报告等方面的纪律规定</strong>。二是明确要求教育离退休干部党员始终保持共产党员的情怀，坚定共产党人的信仰信念。坚持理论学习、组织生活等制度，用好用活红色资源开展党性教育。身体条件允许的离退休干部党员，应自觉参加集体学习、组织生活。三是要求离退休干部党员按规定交纳党费，有特殊情况的，经党支部同意，可采取灵活的方式交纳。四是明确要求加强离退休干部流动党员教育管理，流出地党组织要主动了解掌握情况，协助流入地党组织共同做好工作，方便离退休干部党员参加组织活动。五是提倡和鼓励离退休干部党员在党组织内部开展互助关爱、传递温暖活动。<strong>六是明确规定离退休干部党员不能信仰宗教、不能参加宗教活动</strong>，坚决与邪教组织作斗争，并注意把党员参加某些民族风俗活动同信教区别开来。</p>
+<p>问：《意见》在完善和创新离退休干部服务管理工作方面提出了哪些措施？</p>
+<p>答：让老同志安享幸福晚年，始终是我们义不容辞的政治责任。《意见》高度重视做好离休干部服务管理工作。一是切实落实“三个机制”，即离休干部离休费保障机制、医药费保障机制、财政支持机制。《意见》明确要求健全中央企业资金保障帮扶机制，下级企业对离休干部离休费、医药费及生活补贴无法完全保障的，由上级企业给予帮助。地方国有企业和事业单位离休干部的离休费、医药费及生活补贴，现渠道无法完全保障的，由上级企业或者单位主管部门给予帮助，上述渠道无法解决的，由同级财政负责保障，同级财政有困难的由上级财政帮助解决。二是明确地方国有改制和破产企业离休干部没有明确服务管理机构的，由企业主管部门或者所在地党委和政府指定的机构负责，所需经费由同级财政保障。三是明确提出要逐步提高离休干部离休费和公用经费、特需经费标准。四是对易地安置离休干部服务管理工作提出明确要求，对原单位和原单位所在地有关部门、接受安置地党委和政府及有关部门的职责进行了明确。</p>
+<p>在加强退休干部服务管理工作方面，《意见》强调要坚持统一领导、分工协作、分级负责、分类管理的原则，进一步完善退休干部服务管理办法。建立健全基本养老金正常调整机制，缩短医药费报销周期， 推进医药费异地直接结算。逐步提高行政事业单位退休干部公用经费标准，通过列入同级财政或者单位预算等方式予以保障。注意发挥家庭在养老中的基础性作用，教育引导家庭成员切实履行应尽义务。顺应老龄事业发展趋势，坚持社会化管理服务方向，积极稳妥、协调推进相关工作。综合利用政府公共服务、政府购买服务、社会优待服务、志愿服务和市场化服务，健全就近学习、就近活动、就近得到关心照顾、就近发挥作用的社区平台，更好满足退休干部养老服务需求。鼓励退休专业技术人才依托高等学校、科研院所、干部院校、各类智库、科技园区、专家服务基地、农民合作组织等开展人才培养、科研创新、技术推广和志愿服务。</p>
+<p>此外，《意见》还提出要完善离退休干部困难帮扶机制，加大特殊困难离退休干部帮扶力度，通过开展党内关怀、推进志愿服务、纳入社会救助、拓宽帮扶资金渠道等办法，对身患重病、失能、高龄等有特殊困难且符合条件的离退休干部，给予更多关心照顾。</p>
+<p>问：《意见》对加强离退休干部活动阵地、学习阵地建设提出了哪些要求？</p>
+<p>答： 《意见》强调老干部（老年）活动中心、老干部（老年）大学建设要纳入公益类文化事业发展总体规划。按照布局合理、规模适当的原则，加强基础设施建设，单位性质尚未明确的，结合实际情况划入公益类事业单位。推进老年教育文化资源共建共享，加强社区教育机构和老年文化活动场所建设，各类公共文化设施和活动场所要为离退休干部活动、学习创造条件，离退休干部活动、学习场所要探索服务社会的途径和方法。在活动、学习的内容与形式方面，要求根据离退休干部年龄、身体 状况、志趣爱好等，在安全节俭前提下合理确定，并加强网络学习交流平台建设，用好党员干部现代远程教育和国家老年教育等资源。</p>
+<p>问：做好离退休干部工作涉及到方方面面，如何保证责任落到实处？</p>
+<p>答： 领导重视是做好老干部工作的重要保证。《意见》对加强组织领导工作，完善离退休干部工作制度机制作出了明确规定。一是加强组织领导。各地区各部门要把离退休干部工作摆到重要位置，加强领导，健全制度，完善职责，强化保障。党政主要负责同志要高度重视老干部工作，带头联系、经常走访离退休干部。离退休干部工作领导小组每年至少召开一次会议，研究解决工作中的重大问题。二是明确相关部门职责。组织人事部门要加强对相关工作的统筹谋划、科学指导，把离退休干部工作作为领导班子和主要领导干部考核的重要内容。离退休干部工作部门要加强与相关部门的沟通协调，认真履行宏观指导和微观服务职责。人力资源社会保障部门要加强宏观管理，切实做好相关人员的基本养老保险、基本医疗保险等工作。进一步重视和加强移交政府安置的军队离退休干部工作。三是搞好服务保障。《意见》强调，在推进各项改革中，要确保离退休干部工作的机构编制稳定，工作经费、服务用车等与承担的任务相适应。同时，要求全面实行地方各级党委老干部局局长兼任 同级党委组织部副部长，要高度重视离退休干部工作队伍建设。</p>
+<p>问：最后，请您谈谈对贯彻落实《意见》有什么具体部署？</p>
+<p>答： 《意见》是做好新形势下老干部工作的重要遵循。学习宣传、贯彻落实好《意见》，是各级党委、政府特别是各级组织部门、老干部工作部门的一项重要任务。前不久召开的全国老干部局长会议，对贯彻落实《意见》作出了安排部署、提出了明确要求。下一步，我们还将重点抓好三个方面的工作：一是原原本本抓好学习。采取中心组学习、务虚研讨、专题培训等方式，全面领会和准确把握文件精神，统一思想，深化认识，切实增强贯彻执行的自觉性。二是结合实际抓好落实。坚持分类指导、分类管理，区分情况、区别对待，抓紧研究制定实施细则和配套措施。对一些方向性、原则性的要求，鼓励各地各部门结合实际先行试点、探索实践、稳步推进。同时，通过专项督查、调研督查、随机抽查等方式，推动文件精神的落实。三是注意研究贯彻执行中的新情况新问题，开拓新思路、探索新方法、积累新经验，更好地推动老干部工作转型发展。中央组织部将跟踪了解各地各部门贯彻落实《意见》进展情况，进行调研督查，并适时进行专项检查。（完）</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E7%BB%84%E9%83%A8%EF%BC%9A%E7%A6%BB%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E5%85%9A%E5%91%98%E4%B8%8D%E8%83%BD%E4%BF%A1%E6%95%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BB%84%E9%83%A8/?category=18271" rel="tag">中组部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80%E6%80%9D%E6%83%B3/?category=18271" rel="tag">统一思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/vicsforum%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B8%AD%E5%9C%8B%E6%88%92%E4%B8%8D%E4%BA%86%E9%A6%AC%E5%AE%B6%E8%BB%8D%E5%BC%8F%E8%88%88%E5%A5%AE%E5%8A%91/" target="cdt-mirror">Vicsforum｜李平：中國戒不了馬家軍式興奮劑</a>
 </h2>
 <p><p>香港蘋果日報 2016年2月4日</p>
@@ -652,49 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BC%AF%E9%80%9A%E6%9D%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E6%95%AC%E4%B8%9A%EF%BC%9F/" target="cdt-mirror">伯通李：中国人凭什么要敬业？</a>
-</h2>
-<p><p>最近很多人在吐槽支付宝红包收集五福的活动，但我对于这个产品隐含的时代切入感却十分欣赏（即便这种传销类活动本身也让我厌烦）。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/af59ad0cjw1f0jvvzk1hpj20go0sg76d.jpg" alt="af59ad0cjw1f0jvvzk1hpj20go0sg76d" width="440" height="751"></p>
-<p>你看，这五福分别是富强、和谐、友善、爱国、敬业。这些词汇都来自十八大提出的“社会主义核心价值观”，却又恰好遗漏了“自由、公正、民主”这几个价值观。有人说，支付宝这是暗讽中国没有自由民主，我认为这种言论还是太幼稚。</p>
-<p>试想，如果加上这些价值观，那大家集福时会怎么说？“我没有自由，想要公正！”“就差一个法治了！”“我想要民主，能给我吗？”……作为一家实际上随时可以姓赵的公司，怎么会犯这种低级错误呢？</p>
-<p>同样，把“敬业”作为一次卡牌游戏中掉落几率最低的卡片，也是颇具时代感的设计。</p>
-<p>2013年时，盖洛普调查公司曾经公布了一份“全球员工敬业度调查”——中国人的敬业程度排在全球倒数第7，26%的中国员工处于最糟糕的怠工状态，这部分人不仅讨厌自己的工作，而且还会暗中破坏同事们的工作成果，以发泄心中不快，有68%的中国员工没什么工作积极性，基本上每天梦游度日，对工作漠不关心。而仅有6%的中国员工对自己的工作充满热情，并把工作时间用于推动创新和促进受雇组织的进步。</p>
-<p>进一步的数据显示，无论工作者是什么教育背景或者从业领域，中国员工的敬业程度都没有太大差别，都属于全世界最不敬业的员工。</p>
-<p>所以说，中国人根本不配拿到这张“敬业福”，这个逻辑是完全说得通的。</p>
-<p>但这就引发了更深的一层思考：中国人为什么不敬业？</p>
-<p>在传统种群印象中，华人一向是辛勤劳碌的形象，数据也佐证了这种印象——按经合组织(OECD)2011年的数据，在三十个经合组织成员国和重要观察国中，中国人的日均工作时长高居第四，仅次于日本、韩国和墨西哥，比经合组织平均水准长了22.7%，比德国、丹麦等欧洲国家长了50%以上。除此之外，中国的法定假期和带薪假期在世界上也是公认地短。</p>
-<p>如果个体在经济活动中不积极，最容易找出来的就是经济原因。“劳动报酬占GDP比重”和“人均可支配收入增速与GDP增速比”是两个互为因果的难兄难弟：从1979-2011年，劳动报酬占GDP比值几乎连续30年下降，直到2014年时才罕见的扳回一城。</p>
-<p>这和中国过去几年间的时局何其相似！2011年，正是创业风潮开始抬头的时节，随着收入增速跑赢GDP，2014年又成为舆论纷纷反思创业的一年。人们在趋利避害的选择间，不经意透露出“天下苦工资低久矣”的事实。</p>
-<p>工资低就算了，还爱加班。一项针对8个国家8000名员工的调查显示，中国员工公认最勤劳，每周平均工作44.6小时。</p>
-<p>很多年轻人都会被各互联网公司广告公司在招聘启事中黑体加粗标明的“水果零食食堂三餐健身房母婴室节日礼品餐补车补通讯补各类团建高大上逼格闪闪亮”欺骗，要知道那不过都是拿天天加班换来的些微抚恤而已。</p>
-<p>正如盖洛普调查透露出来的信息一样——从工作领域来看，最不敬业的不是专业化程度最低的体力劳动者，而是办公室里的上班族——不仅敬业者比例最少，而且怠工者比例也最高。</p>
-<p>这个国家的互联网公司市值全球第二（正如支付宝中的“富强”是最容易收集到的），却依然没有改变较差的福利和健康环境。这并不是中国员工不敬业的全部理由，但足以成为重要因素。</p>
-<p>怎么解决呢？什么时候其余那几项“社会主义核心价值观”都集齐了，可能就可以兑换“敬业”了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BC%AF%E9%80%9A%E6%9D%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%87%AD%E4%BB%80%E4%B9%88%E8%A6%81%E6%95%AC%E4%B8%9A%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%AF%E4%BB%98%E5%AE%9D/?category=18271" rel="tag">支付宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%AC%E4%B8%9A%E7%A6%8F/?category=18271" rel="tag">敬业福</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BA%94%E7%A6%8F/?category=18271" rel="tag">集五福</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-2/" target="cdt-mirror">变态辣椒：To 共青团</a>
-</h2>
-<p><p>变态辣椒 <a href="https://twitter.com/remonwangxt/status/694340656156676096">@remonwangxt</a>：共青團的微博發了這樣的漫畫，請轉達我對他們的回敬</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_VUAAAcdFW.jpg" rel="attachment wp-att-427387"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_VUAAAcdFW.jpg" alt="CaLLI_VUAAAcdFW" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_VUAAAcdFW-300x209.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_VUAAAcdFW.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_bUkAE5V-B.jpg" rel="attachment wp-att-427386"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_bUkAE5V-B.jpg" alt="CaLLI_bUkAE5V-B" width="384" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_ZUAAAXHCP.jpg" rel="attachment wp-att-427388"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaLLI_ZUAAAXHCP.jpg" alt="CaLLI_ZUAAAXHCP" width="384" height="1024"></a></p>
-<p>一名推友对共青团原图的回应：</p>
-<blockquote><p>Minotauro ‏@island___boy：@remonwangxt 微博发不了，多么讽刺</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/CaNVhK1UEAEASq7.jpg" rel="attachment wp-att-427429"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaNVhK1UEAEASq7.jpg" alt="CaNVhK1UEAEASq7" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaNVhK1UEAEASq7-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CaNVhK1UEAEASq7.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E7%B2%89/?category=18271" rel="tag">兔粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

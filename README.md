@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,109 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81%EF%BD%9C%E6%94%BF%E6%B2%BB%E8%AF%BE%E6%88%90%E7%BB%A9%E8%B6%8A%E5%A5%BD%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%8C%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E4%B8%BA%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">政见｜政治课成绩越好的学生，越不愿意“为国家添麻烦”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg" rel="attachment wp-att-427753"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg" alt="1609585311" width="455" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
+<p><em>作者：邵立</em></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-10/">【异闻观止】浙江26名厅官将为大学生上思想政治教育课</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/">要在高校“打响意识形态反击战”的李吉明是谁？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E9%AB%98%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E6%8E%A2%E7%A9%B6/">大数据时代高校思想政治教育模式创新探究</a></li>
+</ul></blockquote>
+<p>在中国，以马列主义、毛邓三和中国近现代史为代表的政治课是所有大学本科生的必修课以及研究生考试的必考科目。它们到底有什么用呢？是为了刷新大学生的三观吗？还是承担着特殊的政治功能？</p>
+<p>来自加州大学默西分校的黄海峰教授认为，政治课的内容并不一定能刷新三观。但蓬勃开展的政治课教育本身就向学生传递一个信号：国家之所以有能力进行政治课教育，是因为有强大的实力。学生政治课学得越好，对这种实力的体会就越深刻，也就越不愿意表达出违背国家意志的态度。</p>
+<p>研究者在中国选了一所大学的一千多名大二学生进行调查。由于政治课的内容和形式在各所大学差异很大，所以他只选了一所学校，用以控制政治课授课内容 一致。问卷首先问了大学生对中央和地方政府、政治制度、治理能力等方面的评价，然后问他们对政府维稳能力的估计，参加游行集会以及学生罢课的意愿。最后， 问卷根据 “马克思主义原理” 和 “中国近现代史” 制作了十五道单项选择题作为 “考试题”，用以测量学生对政治课材料的熟悉程度。</p>
+<p>在调查完成后，作者利用一种叫做 ordered-logit model 的方法对调查结果进行统计分析。他首先发现，排除了性别、家庭收入、平时学习成绩和党员身份等因素的影响后，政治课成绩越好的学生，并没有对中国政府的评价越高。</p>
+<p>不过，另一方面，研究者发现，政治课成绩越好的学生越认为政府有强大的维稳能力，并且罢课的意愿越小。此外，政治课成绩好的学生游行集会意愿也较低，但这一结果在统计上并不显著。</p>
+<p>研究者据此认为，调查结果印证了他的观点：政治课学得好没有改变学生对国家的评价。这说明政治课教育改变学生观念和态度的效果是非常有限的。但是， 政治课能有效向学生传达 “国家机器非常强大” 的信号，让他们更少选择违背国家意志，更不愿意 “为国家添麻烦”。研究者认为，这个结果也能解释国家对其他宣传机器的运用：即使说服不了受众，也能传达出一定的信号。</p>
+<h5><span>参考文献</span></h5>
+<ul><li>
+<h5><span>Huang, H.F. 2015. “Propaganda as Signaling.” <em>Comparative Politics, 47</em>(4): 419–44.</span></h5>
+</li>
+</ul><hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81%EF%BD%9C%E6%94%BF%E6%B2%BB%E8%AF%BE%E6%88%90%E7%BB%A9%E8%B6%8A%E5%A5%BD%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%8C%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E4%B8%BA%E5%9B%BD%E5%AE%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/?category=18271" rel="tag">独立思考</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%BA%95%E5%86%88%E5%B1%B1%E6%9C%9D%E5%9C%A3/" target="cdt-mirror">【习总日记】井冈山朝圣</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（ 2016 ， 2 ， 4 ）</p>
+<p>江湖武林师傅徒弟论资排辈衣钵传承转世活佛。就党而言，也讲究正宗正统。所谓根红苗正，革命事业接班人。</p>
+<p>共产党如果是地球上的江湖门派，那么开山祖师爷是德国犹太马克思同志。共产党传入俄国，苏维埃太祖列宁二祖斯大林。共产党传入中国中共太祖毛泽东。</p>
+<p>毛太祖驾崩时并未昭告天下传位于谁谁谁，不过太后江青七珠亲王毛远新势大，那是明摆着的。不料首辅大臣华国锋总理发动宫廷政变成功，自封二代。不曾想黄雀在后邓小平依靠叶剑英李先念等人，推翻华国锋自封第二代。</p>
+<p>1990 年邓二代册封江泽民为中共衣钵传人第三代核心。</p>
+<p>我习近平当了三年总书记，迟迟未受到三代核心泽民册封，心急如焚，整日里唉声叹气。于是上井冈山朝圣，向太祖毛主席哭诉。</p>
+<p>伟大领袖毛主席啊，胡锦涛十年小媳妇未受册封四代核心。如今江泽民欺负于我，三年了不见动静响声，估摸着获得第四代核心称号有点悬。今天重上井冈山，求您老人家开恩显灵，让我如愿以偿成为四代核心。</p>
+<p>这时，江泽民的话儿传到江西：“想当第四代核心？不是不可以，但要懂规矩循常理。平时不把咱老家伙放在眼里。如今却。。。呵呵。”</p>
+<p>我独自寻思：“胡锦涛老老实实做了十年小媳妇。然并卵。”</p>
+<p>当晚毛主席入梦来：“邓小平害死了我婆姨，囚禁我侄儿。你为我报仇，别说是第四代核心，就是‘以习近平为首的党中央’也不在话下。”</p>
+<p>我战战兢兢，既高兴又害怕：“毛主席，侄儿实力不济，江泽民他人多势众。”</p>
+<p>毛主席一摆手：“一报还一报。邓小平可以指责我文革错误，你也可以指责他六四错误。平反六四易如反掌人民拥护。六四平反，江泽民便毫无合法性。”</p>
+<p>我鼓足勇气：“是，俺听毛主席的话。”</p>
+<p>在南昌亲切接见驻赣部队师以上领导干部和建制团单位主官，同大家合影留念，并发表重要讲话。</p>
+<p>我代表党中央和中央军委，向驻赣部队全体官兵致以诚挚问候。我强调，要以党在新形势下的强军目标为引领，深入推进政治建军、改革强军、依法治军，坚持用井冈山精神等革命传统铸魂育人，教育引导广大官兵坚决听党的话、跟党走，坚决听从党中央、中央军委指挥。要积极支持老区脱贫攻坚，推动军民融合深度发展，为全面建成小康社会、推进强军兴军伟大事业作出新的更大贡献。</p>
+<p>平反六四最佳时机，是江泽民寿终正寝的时候。江泽民健在，我思前想后，还是不敢贸然动手。不过话说回来，等到江泽民去见马克思，我自然而然宣布自己为第四代核心，也没必要一定要去触碰六四这个雷。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/020416.jpg" alt="020416" width="550" height="403" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/020416-300x220.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/020416.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%BA%95%E5%86%88%E5%B1%B1%E6%9C%9D%E5%9C%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%89%8D%E5%86%85%E8%92%99%E5%8F%A4%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%B0%8B%E6%9D%80%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89/" target="cdt-mirror">德国之声｜前内蒙古公安厅长被控谋杀提起公诉</a>
+</h2>
+<p><p>中国最高人民检察院周三透露，内蒙古原公安厅长、原政协副主席赵黎平因涉嫌故意杀人等罪被正式提起公诉。有媒体消息称，赵黎平与被害人疑为情人关系。</p>
+<p>现年64岁的赵黎平，曾经在内蒙古自治区公安副厅长、厅长职务上任职18年，2012年年满60岁退休。去年，他在赤峰市因涉嫌故意杀害一名28岁女子被捕。</p>
+<p>中国媒体引述目击者报告称，“2015年3月20日21时30分左右，一辆白色轿车驶入赤峰市百合新城小区，停在17号楼西侧；紧随其后的一辆黑色奥迪轿车也停了下来，一男子从车上下来，举枪朝刚从白色轿车下来的一名女子开了一枪。女子被击中头部，后被该男子装进了奥迪车的后备厢。”而在两天后，即有消息称赵黎平因涉嫌杀人被警方羁押。</p>
+<p>《新京报》则援引一名赤峰市警方人士称，赵黎平先在桥北街道开枪，但受害人没死；后者随即向百合新城小区逃跑，赵黎平驾驶着黑色奥迪车追赶。在路上，李某某拨通了110，她告诉接线民警：原公安厅长赵黎平要杀她。这也成了赵黎平在案发后快速被警方抓获的重要原因之一。</p>
+<p>还有多家媒体曾报道称，赵黎平与受害女子相识多年，疑为情人关系，后者曾想向相关部门揭发赵黎平。但这一消息未获官方证实。中国许多贪腐高官落马后，都被发觉有不正当情人关系；而前情人揭发，也是贪官落马的一个重要因素。</p>
+<p>任职副厅长期间发生呼格吉勒图冤案</p>
+<p>赵黎平也是2012年习近平出任中共总书记以来，落马的第100只“老虎”(省部级高官)。赵黎平在任职内蒙古公安厅期间，曾经对外主推富有争议的“速决战”概念。他在接受《人民日报》等官媒采访时一度表示，维护国家安全、打击犯罪时，“如果打持久战、打消耗战的话必败无疑”，“最后我们公安机关没有威慑力，法律失去了起码的威慑力，社会必然要大乱。”他还说，国际上，相当多的命案都破不了，破案率不到60%，而内蒙古的命案破案率达95%，“有重大社会影响的案件100%必破，一个都不能留下，而且我要求在短时间内破。”</p>
+<p>正是在他任职内蒙古公安厅副厅长期间，内蒙古发生了呼格吉勒图冤案，呼格吉勒图被“从重从快”判处、执行死刑。而在多年之后，内蒙司法机关证实此系冤案，并在2014年宣布撤消原判、呼格吉勒图无罪。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%89%8D%E5%86%85%E8%92%99%E5%8F%A4%E5%85%AC%E5%AE%89%E5%8E%85%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%B0%8B%E6%9D%80%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BC%E6%A0%BC%E5%90%89%E5%8B%92%E5%9B%BE/?category=18271" rel="tag">呼格吉勒图</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E9%BB%8E%E5%B9%B3/?category=18271" rel="tag">赵黎平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%8D%E8%85%90%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E5%8F%8D%E6%94%BF%E5%8F%98-%E4%B8%93%E8%AE%BF%E7%BD%97%E7%91%9E/" target="cdt-mirror">自由亚洲｜习近平反腐的目的是反政变—专访罗瑞卿之子罗宇</a>
+</h2>
+<p><p><em>原标题：习近平反腐的目的是反政变————专访罗瑞卿之子罗宇（之二）</em></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/image-1.jpg" rel="attachment wp-att-427762"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/image-1.jpg" alt="罗瑞卿之子罗宇（左图）。（Public Domain）" width="525" height="296" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/image-1-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/image-1.jpg 622w" sizes="(max-width: 525px) 100vw, 525px"></a><p>罗瑞卿之子罗宇（左图）。（Public Domain）</p></div>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E9%82%93%E5%B0%8F%E5%B9%B3%E6%8A%8A%E5%9D%A6%E5%85%8B%E5%BC%80%E4%B8%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%EF%BC%8C%E8%BF%99%E8%BA%AB%E5%86%9B%E8%A3%85%E5%B0%B1%E6%B2%A1%E6%B3%95%E7%A9%BF/">自由亚洲｜邓小平把坦克开上天安门广场，这身军装就没法穿下去了——专访罗瑞卿之子罗宇（之一）</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/425527/">【立此存照】消除党重大政治隐患 vs 反腐没有纸牌屋</a></li>
+</ul></blockquote>
+<p>罗宇是中共开国大将、前解放军总参谋长、军委秘书长罗瑞卿之子，1989年为解放军总参谋部大校军官。六四屠杀后，罗宇宣布与中共决裂，当时他正在欧洲访问，从此成为一位政治流亡者，26年不能回国。目前旅居美国的罗宇近来因为连续致信习近平，呼吁中共放弃一党专政，实行政治改革，为人们所关注。日前，罗宇接受本台专访，谈了他流亡海外的心路历程，以及对习近平反腐和习近平是否能领导中共实现政治改革的看法。</p>
+<p>本台分四次播出对罗宇的专访。今天播出第二集。在上一集中，罗宇谈到他为什么舍弃在中国所得到的一切，选择流亡。这一集，罗宇谈对习近平反腐的看法。他认为：习近平反腐，其实是反政变，他把要搞政变的人拿掉，才能保住自己。如果习近平真心反腐，就必须逐步有序的实现民主化。下面是特约记者CK从旧金山发来的专访罗宇第二集。</p>
+<p>习近平上台以来，铁腕反腐，是真反还是假反，一直受到人们的质疑。罗宇表示，习近平反腐动真格的，这一点大家看得很清楚。但习近平反腐的目的是什么呢？罗宇说：“他实际的目的是反政变。你也可以说他反贪腐是个名义，就是把要搞政变的人，和为搞政变服务的人先拿掉。他现在拿掉了一百多个省部级，拿掉四五十个将军。他面临着威胁，他必须赶紧把这些人拿掉，他才能够保住自己，他才能够执政。”</p>
+<p>习近平上台之初，人们对他寄予莫大期望，但三年多来，习近平的许多所作所为，跟人们的期望相反，因此人们的期望就变成失望。对此罗宇怎样看呢？罗宇说：“我对他也有些期望，我倒不认为他完全相反的。他有困难，他阻力很大，政治局常委、政治局、中央委员会里面，真心跟着他的、拥护他的没几个，他干什么事都四面掣肘，所以必须得有步骤，必须得有计划。就是说他还是要反贪腐的，他还要惩治江泽民、曾庆红这些贪腐的人的，他还是要往前走的。他现在最大的问题是没人，你看他左右也就是两三个人，两三个人弄这件事，是弄不了的。”</p>
+<p>至于习近平反腐的前景如何，罗宇认为，如果不实现政治改革，就没有成功的可能。他说：“因为全党都贪，全党都腐，那么你反贪腐，谁跟着你一起反？真心反贪腐的是老百姓，但是我看他现在自己也信心不足，他还不敢让老百姓反贪腐。所以我给他的建议是：逐步的有序的民主化，解除报禁、党禁、司法独立、选举、军队国家化。现在整个党的状况是一个贪腐的党，他真心想把共产党变成一个廉洁的党，他唯一的办法就是逐步的有序的民主化，否则是搞不来的。”</p>
+<p>在访谈中，罗宇还谈到习近平上台以来，中国人权状况的恶化。罗宇的见解是：“目前的人权状况很糟，人家加拿大的小姑娘去选美，也不让进去。这些事让习近平在世界上丢脸。维权律师这件事，开始我也觉得他不知道，但是判刑了，他就不可能不知道。越境捉人，公开的破坏‘一国两制’，是底下给他捣乱的人打他的嘴巴：你说‘一国两制不能走样’，我就去越境捉人。这是江泽民、曾庆红的马仔发难，给他捣乱。另外他有些事也是办错了，有些事他可以纠正却没有纠正。为什么？我也不知道。但并没有让我对他完全失望，他是想把事情办好却没办好。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%8D%E8%85%90%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E5%8F%8D%E6%94%BF%E5%8F%98-%E4%B8%93%E8%AE%BF%E7%BD%97%E7%91%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E5%AE%87/?category=18271" rel="tag">罗宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E7%91%9E%E5%8D%BF/?category=18271" rel="tag">罗瑞卿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%A6%99%E6%B8%AF%E5%87%BA%E7%89%88%E4%B8%9A%E5%AF%92%E5%86%AC-%E5%8F%88%E4%B8%80%E7%A6%81%E4%B9%A6%E5%BA%971908%E4%B9%A6%E7%A4%BE%E7%BB%93%E4%B8%9A/" target="cdt-mirror">自由亚洲｜香港出版业寒冬 又一禁书店”1908书社”结业</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b.jpeg" rel="attachment wp-att-427733"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b.jpeg" alt="4a26a441-31d2-45f7-9d76-062513c0f00b" width="450" height="600" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b-225x300.jpeg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/4a26a441-31d2-45f7-9d76-062513c0f00b.jpeg 622w" sizes="(max-width: 450px) 100vw, 450px"></a><p>受铜锣湾书店事件影响，香港出版业进入寒冬(忻霖拍摄)</p></div>
@@ -543,177 +643,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%88%91%E7%BF%BB%E7%89%86%EF%BC%8C%E5%9B%A0%E7%82%BA%E6%88%91%E6%84%9B%E5%9C%8B%E2%94%80%E2%94%80%E3%80%8C%E5%B0%8F%E7%B2%89%E7%B4%85%E3%80%8D%E8%87%AA%E8%BF%B0%E3%80%8C%E9%81%A0%E5%BE%81%E3%80%8Dfa/" target="cdt-mirror">端傳媒｜我翻牆 因為我愛國──「小粉紅」自述遠征FB行動</a>
-</h2>
-<p><p><em>原标题：我翻牆，因為我愛國──「小粉紅」自述「遠征」Facebook行動</em></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/78be952133d548989d2dba87d2e6b86d.jpg" rel="attachment wp-att-427519"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/78be952133d548989d2dba87d2e6b86d.jpg" alt="圖：Sarene Chan / 端傳媒" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/78be952133d548989d2dba87d2e6b86d-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/78be952133d548989d2dba87d2e6b86d-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/78be952133d548989d2dba87d2e6b86d-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/78be952133d548989d2dba87d2e6b86d.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><p>圖：Sarene Chan / 端傳媒</p></div>
-<p>2016年1月20日晚，數千名內地網友集體突破防火牆的封鎖，到三立新聞、《蘋果日報》和蔡英文的Facebook主頁上瘋狂洗版（指短時間內在 論壇或社交平台大量重複發布同類信息，導致原有信息難以閲讀）。當這場聲勢浩大的「遠征」結束時，參與行動的女性被貼上了一個標籤──「小粉紅」，批判 「小粉紅 」的聲浪在各大社交平台一波未平一波又起。</p>
-<p>據內地問答網站「知乎」用戶丸丸解釋，「小粉紅」指微博上一些常識比較欠缺、行為又非常暴戾的愛國兼追星ACG（即Animation動畫、 Comic漫畫、Game電子遊戲）少女。她們的典型表現包括：像追星般地欣賞中國及其領導人；見到任何人說中國的壞話，必群起而攻之；為當局設置防火牆、限制言論自由等行為辯護，認為當下擁有的是最好的，西方的民主不適合中國。</p>
-<p>而「洗版」這一具有中國互聯網運動特色的網民集體行為，正是由深諳此道的「帝吧」發起。創建於2004年的帝吧原名「李毅吧」，是球迷調侃中國足球運動員李毅的一個社區，後來演變成一個集合娛樂、惡搞、嘲諷和網友原創的亞文化社區。因李毅被嘲諷為「李毅大帝」，故又名「帝吧」。</p>
-<p>帝吧曾聚集大量高學歷、具有原創精神的網友，他們生產出一批諷刺社會現象、制度，又極具娛樂精神的內容，被帝吧用戶稱為「內涵帖」。發展十餘年，帝吧會員人數達到兩千多萬，吧主幾經更換，帖子質量直線下降。不少網友認為，帝吧已變成大批水軍的根據地。如今，曾以「內涵帖」聞名的帝吧舉起愛國主義大旗、號召網友到對岸去洗版，亦令不少曾經的帝吧網友感到難過。</p>
-<p>「小粉紅」集結在「帝吧」的大旗下，釋放出怎樣的信號？有聲音認為，這是一整代年輕人以「愛國主義」和「集體主義」再次完成了共識，進行了世代宣言，實現了「認同」。</p>
-<p>端傳媒採訪了三位參與這次洗版的「小粉紅」，她們擁有不同的成長背景和價值體系，甚至對牆、政府和兩岸問題有着完全對立的看法。她們樂於用微信溝通而不是面對面交流，其中兩位拒絕了記者的見面請求和通話請求；她們樂於談論觀點和線上活動，對線下的生活卻不願多談；儘管初衷不一，她們一致認同這次「遠 征」，但對網上的爭議抱持較為開放的態度。</p>
-<p>端傳媒希望通過她們三個的自述，展示「小粉紅」群體的一個切片。她們為何會參與「遠征」，又如何看待自己的「愛國情懷」？藉此試圖回答一個問題：小粉紅是如何成為小粉紅的？</p>
-<h2>郝敏：台灣的民主不是真正的民主</h2>
-<p><small>記者手記：郝敏，32歲，軟件設計師，湖北武漢人，現居北京。她對記者提出的每一個問題，都會認真地用很長很長的語音訊息做出回覆。她有不少台灣朋友，非常喜歡描述自己觀察到的台灣人，但言談間仍流露出對台灣的不理解。</small></p>
-<p><small>媒體人宋志標說，這種成見的來源是一種行辟而堅的歷史觀，並且在數十年如一日的現實中滲透特定的觀念，像用水泥抹牆。大陸人受之愈深，愈加熟練地排除台灣所具備的的、迥異於大陸的成分。在郝敏身上，這種歷史觀尤為明顯。</small></p>
-<p>帝吧洗版那天，我在三立新聞（Facebook主頁）下寫：洗版沒有用，我們應該全力抵制三立新聞在大陸出售的偶像劇，斷了三立新聞在大陸的資金鏈。我也複製了八榮八恥，並不是跟風，是我覺得台灣人確實需要八榮八恥，我發現台灣人缺乏社會核心價值觀，他們有很多錯誤的價值觀。</p>
-<p>我會參與是因為我全程了解<a href="https://theinitium.com/article/20160116-taiwan-huangan-tzuyu/">周子瑜事件</a>，當我看到台灣媒體集體造謠，沒有一個媒體告訴台灣人真相，台灣的朋友都誤解大陸人，那一刻我覺得無法承受。我們大陸人沒有欺負一個16歲的小女孩。</p>
-<p>很難說認不認同帝吧洗版的方式，只能說認同一半吧，是年輕人表達的方式。我們小老百姓很無奈的，每一條都原創不可能一下子造成那麼大的影響，沒有那種刷版震撼的效果。這個只是大陸人告訴台灣媒體我們是有意見的，不想一天到晚被抹黑的，也是表達我們反對台獨的態度。</p>
-<p>台灣是中國的一部分這個思想，從小中國地圖裏就有台灣島，也沒有多想。後來學歷史，了解到清朝明朝有很多人移民到台灣；台灣被荷蘭人攻佔，後來鄭成功驅逐了荷蘭人；甲午海戰，割讓台灣給日本……高中歷史課本學到的，有個積累。</p>
-<p>高中時我開始真正關注台灣，那時集中講台灣問題的是《環球時報》，說的多半是政治人物，我覺得他們（主張台灣獨立的政治人物）是分裂國家的壞蛋。我想知道普通老百姓是什麼想法。</p>
-<p>我在高三時才買了第一台電腦。當時純粹出於好奇想要認識台灣人，就在QQ上搜索，通過地區篩選，竟然真的有台灣人在用，我認識了一個成功大學的學生，他非常關注大陸，我們在長達三、四年的時間都在聊台灣問題、兩岸問題。</p>
-<blockquote><p><span><strong>我不認為台灣現在的民主是一種真正的民主，我們大陸的民主是需要探索、逐漸改進的。西方所表達的民主在地球上還沒有實現，實際上是非常理想化的。</strong></span></p></blockquote>
-<p>近代100年，台灣和大陸連在一起的時間非常非常短，我可以了解台灣人對大陸誤解、不信任，我抱着寬容的態度去看，我們可以慢慢來，在很長一段時間裏向着統一的方向努力，我是個不太着急的統派。</p>
-<p>我也說不清為什麼愛國。中國以前是世界第一大國，是世界上最富裕、科技文化最發達的國家，作為中國人非常自豪。也有民族融合、民族統一的情結，我們古代分分合合的，現在好不容易大家安定了，可以過上平穩的日子，不會再輕易發生戰爭和改朝換代的事情，我就希望我們有一個完整的國家。</p>
-<p>我在學習歷史的時候也了解到，如果我們的國家沒有實力，外國不會給你講道理，這個世界不存在公平道義，誰有實力，誰就有話語權。當你很弱小時，你就沒有發言權，只能落後捱打。</p>
-<p>在此之前，蔡英文的Facebook也被洗版過一次（指2015年11月10日深夜，大批內地網友湧入蔡英文Facebook主頁留言，彼時蔡英文還是民進黨總統參選人），我在她的主頁下問：「請問綠營的朋友們，你們是不是都支持台獨呢？希望得到理性的回覆。」只有一個人回答我了，說如果大陸改成一人一票那種投票選舉的民主制度，他就願意統一。</p>
-<p>我不認為台灣現在的民主是一種真正的民主，我們大陸的民主是需要探索、逐漸改進的。西方所表達的民主在地球上還沒有實現，實際上是非常理想化的。</p>
-<p>台灣人關心我有沒有選舉權、我能不能罵總統、遊行是不是可以隨便遊啊，他們很在乎這些所謂的權益；但是今年GDP有沒有增長、這個領導人有沒有帶來貨真價實的收益、台灣某一個產業整體有沒有得到提升啊，沒有人關心。</p>
-<p>對我們這次洗版，新浪微博很多批評的聲音，我選擇忽略，這些聲音往往是看到一個人、一件事、一句話就發表聲音，他了解的東西太少了。</p>
-<p>當然，我們這些參與活動的人確實也有一部分素質比較低，非常堅決地說要島不要人，台灣就是中國一部分，這些話很硬，不去傾聽別人，也不了解人家的情況，這樣很容易被人家討厭。</p>
-<p>對於小粉紅這個標籤，我覺得一個人是在不斷成長的，我不喜歡給人貼標籤。</p>
-<p>我是最近這兩三年才開始翻牆的，主要是為了聯絡之前在新西蘭當交換生時認識的朋友。我以前不了解國家為什麼要封閉網絡，但也不反感，因為我沒有翻牆需求，國內的網站豐富性足夠了。後來翻牆多了，反而更理解國家為什麼設置牆。國外媒體太過於自由了，中國人講無規矩不成方圓，國外媒體胡說八道，媒體不能像小孩子似的撒潑打滾，隨便造謠。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/97f5530daf69478c87af1b5ef43f9b5b.jpg" rel="attachment wp-att-427518"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/97f5530daf69478c87af1b5ef43f9b5b.jpg" alt="圖：Sarene Chan / 端傳媒" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/97f5530daf69478c87af1b5ef43f9b5b-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/97f5530daf69478c87af1b5ef43f9b5b-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/97f5530daf69478c87af1b5ef43f9b5b-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/97f5530daf69478c87af1b5ef43f9b5b.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><p>圖：Sarene Chan / 端傳媒</p></div>
-<h2>丁丁：在這個國家不愛國會很累吧</h2>
-<p><small>記者手記：丁丁，22歲，在校大學生，現居廣東。她聲音輕柔，面對記者的每一個問題，都要想一想才回答。但她的所有回答，都表現出超脫年齡的成熟和理性。</small></p>
-<p><small>丁丁喜歡在網上寫言情小說，有次採訪中斷，就是因為讀者催促她更新小說。她的朋友圈裏有惡搞金正恩的圖片、泰國雷劇的表情包，還有一張圖標註出被中國封鎖的全部外文網站。</small></p>
-<p><small>採訪中，她只說了一次題外話：「我其實幾乎沒有跟別人討論過這些政治話題，有人肯聽真的很爽。」</small></p>
-<p>我1曰19日在微博上看到一個帖，說帝吧要出征了，招募志願者。把QQ群號寫了出來，我就加了進去。</p>
-<p>我參加的原因是大家都聽說過關於帝吧的傳說（指帝吧此前在國內就對其他貼吧進行過類似的洗版），但是能親身參加進去是比較難的，所以想體驗一下；還有就是Facebook、翻牆我應該還是可以幫上忙的。</p>
-<p>群裏大概有四五千人。我們想的還是交流，讓牆外的人看到我們並沒有你們想象得那麼愚昧，那麼被洗腦。我自己的一個想法，這四千多人裏可能有一半是第一次翻牆，他們會看到牆外面有一些他們並不知道的事情，能思考一下，大家有更多翻到牆外的願望，希望防火牆能夠慢慢地形同虛設。</p>
-<p>我從高中時就開始翻牆，那時我會覺得牆外才是真實的世界，後來覺得也不是完全的真實，兩邊觀唸完全相反，你反而會自己思考，而不是完全接受其中一方。</p>
-<p>即使沒有牆，很多人的看法都不會變的。每個人吸收信息時會去看自己樂意看到的，就好像台灣沒有牆，他們也不願意去了解大陸真正的生活。</p>
-<p>我們這代人覺得自己能做出和別人不一樣的、有效果的、能夠讓自己覺得有意思的東西出來。我們應該屬於情緒容易被感染的一群人，我自己的話，願意做點有意思沒有意義的東西。</p>
-<p>我不覺得我們這次活動會對兩岸關係有什麼推動作用，我們兩邊的網民都有一個說法，叫不醒裝睡的人，大家都覺得對方是裝睡的人。</p>
-<p>上百度搜PTT大陸或PTT中國，就會看到他們對中國的看法是怎麼樣的。台灣人背地裏是怎麼看大陸都好，如果和你不熟，他不會特別表現出來。但我有時候去香港，就會看到他們對大陸人的態度不像有些不了解的人想得那麼友善。</p>
-<p>我並不認為台灣統一是理所當然，我是站在支持統一的立場而已。</p>
-<blockquote><p><span><strong>不愛國的話活在這個國家應該會很累吧，我選擇輕鬆一點咯。這個國家到處都是愛國愛黨的宣傳，你不認同的話心裏肯定不舒服；另外，在中國討論政治話題首先基礎就是愛國，如果你不愛國，就被直接推到對立面去了，沒有討論的基礎。</strong></span></p></blockquote>
-<p>年輕人沒有不關心政治的，只不過沒有渠道去了解關於佔中、太陽花的真相。國內的年輕人沒有能力去關心國內政治，反而會關注國外的。在國內就知道沒有作用或說了也沒有意義。</p>
-<p>我很久以前就看過天安門紀錄片，對我很大觸動，我的態度當然是希望有一天政府會為他們做過的事情出來道歉，為那些出來抗爭的人正名。</p>
-<p>前幾年《南方週末》的事情（指2013年《南方週末》新年獻詞在出刊前遭強行修改，將原本呼籲憲政的內容漂染成對執政者的歌頌），我當時在廣州，去了報社聲援，發現有很多年輕人聲援、支持《南方週末》。因為它當時代表一個被上層欺壓、言論自由被壓制的群體，我支持言論自由。</p>
-<p>佔中和太陽花運動是有效的吧，影響了當地的政治生態。我當時發了一個微博，說佔中起碼是爭取真普選，但我們大陸卻對這些權利毫不在意。朋友圈裏也有同學支持。</p>
-<p>民主要爭取，起碼得試一下才知道好不好嘛。看到群裏有人說，中國不需要民主，我們愛習大大的時候，我也挺不好意思的。很多人在自欺欺人，如果給我選票，我是肯定要的。就是因為現在沒有，他們才說我們不需要民主、普選。</p>
-<p>不過我不覺得中國的民主問題是台灣不回歸的原因，等我們有民主了，他們就會說等你們人均GDP超過台灣再說。對改變現狀的抗拒，對統一以後文化融合的憂慮，他們會感覺台灣的地位降了一等。統一的話好像命運掌握在別人手上。</p>
-<p>愛國應該算是一種選擇吧。除了愛國，另外一個選擇就是不愛國。僅僅因為這個國家不夠好所以就不愛國有點幼稚，我對這個國家的文化、很多觀念是認同的，我認為自己是中國人，既然我對這個國家有歸屬感、有認同感，那我自然就是愛國的呀。</p>
-<p>不愛國的話活在這個國家應該會很累吧，我選擇輕鬆一點咯。這個國家到處都是愛國愛黨的宣傳，你不認同的話心裏肯定不舒服；另外，在中國討論政治話題首先基礎就是愛國，如果你不愛國，就被直接推到對立面去了，沒有討論的基礎。</p>
-<p>（是否對網絡上的負面評價感到生氣？）沒有，反而覺得正面評價太多，有點驚訝。唯一不高興，就是有人說我們翻牆咬人，把狗鏈露了出來，這個有點過分。他們覺得牆是狗鏈，我們就是亂咬人的狗。我不太喜歡有什麼事情先講陰謀論的人，然後一副「愚蠢的眾生」的鄙視臉，躲在牆內罵翻牆的人。</p>
-<p>參加的人本身就有不同觀念取向，無論什麼標籤都不準確。不會因為被稱作「小粉紅」生氣，愛怎麼貼怎麼貼。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/6007ae86381e4445bfcded7889cc2c7a.jpg" rel="attachment wp-att-427517"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/6007ae86381e4445bfcded7889cc2c7a.jpg" alt="圖：Sarene Chan / 端傳媒" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/6007ae86381e4445bfcded7889cc2c7a-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/6007ae86381e4445bfcded7889cc2c7a-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/6007ae86381e4445bfcded7889cc2c7a-1024x683.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/6007ae86381e4445bfcded7889cc2c7a.jpg 1080w" sizes="(max-width: 1080px) 100vw, 1080px"></a><p>圖：Sarene Chan / 端傳媒</p></div>
-<h2>張呦呦：資本主義給的自由不是我想要的</h2>
-<p><small>記者手記：張呦呦，25歲，大學讀新聞系，來香港轉攻社會學，畢業後做過一段時間兩岸新聞，現在在出版社做圖書編輯。她曾用「心灰意 冷」來形容之前做兩岸新聞的感受，卻不願多談那段經歷。張呦呦是三個採訪對象中唯一一個生活在大陸之外的人，但她的社交賬號卻表現出和內地共振的頻率，從 《環球時報》的報導到內地的熱點事件，她都十分關注。</small></p>
-<p><small>張呦呦身上還有很多有趣的結合，她最喜歡對岸的布袋戲，卻對布袋戲之外的社會不太感興趣；她曾是一名記者，卻十分抗拒同記者見面，說自己只喜歡二次元世界。在解釋自己的行為時，她常常用到「好玩兒」這個字眼。</small></p>
-<p>我是守在Facebook 上直接行動的。帝吧自己就有直播，滾屏的咧。我這種大概知道了方向和規則，就能心領神會地去做啊。我看到好玩的回覆就複製粘貼形成洗版，看到明顯挑釁或者侮辱華人的，就反駁，回覆累了，就開始點讚。</p>
-<p>參與洗版的原因是看見帝吧了，想找找當年的感覺，也想看看現在帝吧的水準。我09年加入帝吧，當時看了一個帖子，講官場文化，以一個搬磚工的角度闡述。</p>
-<blockquote><p><span><strong>Facebook上又沒朋友，上來幹嘛？社交平台難道不是拿來社交的嗎？重要的是朋友啊不是平台，何況FB用戶體驗爛透了。資本主義社會給妳自由使用的東西並不是我想要的，我想要的又給不了我。</strong></span></p></blockquote>
-<p>以前帝吧玩內涵，諷刺時政手段一流。還會卧底腦殘粉傳銷之類的貼吧，把話題往溝裏帶，逐步揭露騙子真面目。（帝吧）以前就喜歡調戲自己心目中的腦殘，所以調戲台獨不算甚麼。</p>
-<p>對於台灣其實早就看慣了。只是只准他們亂罵不准我們反駁，那種感覺很不好。台灣那邊從媒體到愛發言的人，對大陸都是各種罵啊。我算是陸獨份子吧，並不在乎台灣回歸與否，只希望大陸能越來越好。</p>
-<p>我以前也參加過其他爆吧（類似「洗版」），最喜歡就是插兩腳，等爆吧完畢之後留帖嘲笑一下，來兩句就跑，自己不是大神（指深諳諷刺、能製造很多流行語的網友），會被罵得無還手之力。</p>
-<p>我很少有三次元（即現實世界）的社交噠，來來去去就那幾個朋友，習慣了活在二次元（即二維的平面空間，泛指漫畫、動畫、遊戲等）裏。</p>
-<p>小學五年級有同學給了我盜版光碟，是布袋戲的電影版，《聖石傳說》（出自台灣霹靂國際多媒體股份有限公司，該公司從1980年代起推出一系列電視布袋戲，被稱為「霹靂布袋戲」。《聖石傳說》耗資三億台幣、歷時三年拍攝完成，2001年上映首週票房力壓同期熱門動畫《玩具總動員》），然後就迷上啦。所有的娛樂時間都在看布袋戲。我並不會因此對台灣有好感或興趣，只對台灣道友有好感，平時很少聊兩岸政治。台灣看布袋戲要錢買DVD，大陸都是上優酷愛奇藝看，因為他倆幫我們買了。</p>
-<p>香港生活不自由，平等，但不自由。看優酷還要翻牆咧、聽歌還要翻牆咧、上學還要交保證金咧、做扶手梯站左邊了忘了動，如果後面的人知道你是大陸人的話會惡意翻白眼咧，過年回家拖個大箱子會被屌咧。</p>
-<p>Facebook上又沒朋友，上來幹嘛？社交平台難道不是拿來社交的嗎？重要的是朋友啊不是平台，何況FB用戶體驗爛透了。資本主義社會給妳自由使用的東西並不是我想要的，我想要的又給不了我。</p>
-<p><strong>（應採訪者要求，郝敏、張呦呦和丁丁為化名）</strong><br><strong>（實習生李丹婧、雷菲菲對本文亦有貢獻。）</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%88%91%E7%BF%BB%E7%89%86%EF%BC%8C%E5%9B%A0%E7%82%BA%E6%88%91%E6%84%9B%E5%9C%8B%E2%94%80%E2%94%80%E3%80%8C%E5%B0%8F%E7%B2%89%E7%B4%85%E3%80%8D%E8%87%AA%E8%BF%B0%E3%80%8C%E9%81%A0%E5%BE%81%E3%80%8Dfa/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C%E9%81%93%E6%AD%89%E9%A3%8E%E6%B3%A2/?category=18271" rel="tag">周子瑜道歉风波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%83%AD%E6%B4%AA%E4%BC%9F%E8%A2%AB%E9%87%8D%E5%88%A413%E5%B9%B4%E5%AE%B6%E5%B1%9E%E6%84%A4%E6%80%92/" target="cdt-mirror">自由亚洲｜郭洪伟被重判13年家属愤怒</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/image.jpg" rel="attachment wp-att-427511"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/image.jpg" alt="2015年7月，伤残的郭洪伟（左）生活无法自理，家属担心他被判监后情况将进一步恶化。2015年11月，79岁的肖蕴苓（右）坐在特制的椅子上，与代理律师进行会见。（家属提供）" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/image-300x225.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/image.jpg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>2015年7月，伤残的郭洪伟（左）生活无法自理，家属担心他被判监后情况将进一步恶化。2015年11月，79岁的肖蕴苓（右）坐在特制的椅子上，与代理律师进行会见。（家属提供）</p></div>
-<p>吉林访民郭洪伟母子因“敲诈勒索罪”及“寻衅滋事罪”，分别被判处有期徒刑6年及13年。家属对这一结果表示愤怒。有访民认为，郭洪伟母子为了解决问题才不断上访，他们没有罪，这样的判决十分荒谬。</p>
-<p>吉林访民郭洪伟及其母亲肖蕴苓涉嫌“敲诈勒索罪”及“寻衅滋事罪”一案2月1日在四平市铁东区法院一审宣判。郭洪伟“敲诈勒索”罪成，被判处有期徒刑11年，“寻衅滋事”罪成被判处有期徒刑5年，两罪并罚执行有期徒刑13年。肖蕴玲被以“敲诈勒索罪”判刑5年，“寻衅滋事罪”判刑2年零10个月，两罪并罚执行有期徒刑6年。</p>
-<p>郭洪伟的妹妹郭洪英2月2日接受本台采访时对这一判决结果表达了愤怒之情。郭洪英告诉记者，此次宣判只有5名家属被允许进入法庭旁听，她的父亲及弟弟均被拒之门外。而法院在宣判后立即就将哥哥和母亲带离法庭，没有给他们发表陈述的机会，也没有询问他们是否要上诉。</p>
-<p>“开庭的时候我爸和我弟都没让进。之前在审理的时候，我哥在陈述事实的时候，审判长多次打断，不让我哥说，我爸在后面说了一句，怎么就不让人说话了呢？审判长就命令法警把我爸强行架出去了；还有一次舒向新律师发现审判员玩电脑，审判长就包庇审判员，我弟弟就哼了一下，审判长就命令法警把我弟弟架出去了，从此我爸爸和我弟弟就再也不让进法庭了。判决书宣读完之后，话音刚一落，立刻就把我哥和我妈带进去了，我哥回头问了一句‘我写的东西有没有回复？’写的啥我也没听清，也没搭理他。反正没问他你上诉还是不上诉，根本就没说。”</p>
-<p>郭洪英说，母亲和哥哥入狱后，家属曾多次为他们申请取保候审，但始终被以“不符合条件”为由拒绝。</p>
-<p>郭洪伟原是吉林省四平市原松电河发电厂工人，因举报吉林省龙潭区检察院控申科长许文贵与其亲友陈国贵开虚假住院票据，侵占国家财产，被举报人打击报复入狱五年，之后对此上访十年不果。2014年3月，郭洪伟被以“招摇撞骗罪”刑事拘留，其后他和母亲又被以“敲诈勒索罪”及“寻衅滋事罪”逮捕。</p>
-<p>此前，郭洪伟的代理律师舒向新被济南市历城区法院以诽谤罪判处有期徒刑6个月。在郭案开庭前夕，舒律师的家属还收到了法院寄达的出庭通知书，家属以舒向新本人被囚禁，无法获取此通知，无法出庭为由，退回通知。</p>
-<p>关注该案的湖北访民伍立娟2月2日向本台表示，郭洪伟患有严重的高血压，他的母亲也已85岁高龄，得知这一判决结果，忍不住为他们落泪。</p>
-<p>“习近平总书记说要依法治国，现在下面是‘依法治人’啊。到底是治党还是治人民，这是他们相互矛盾的问题。老百姓手无寸铁，上访维权讨回自己的公道，不是受打压，就是受到无辜的开庭，这让我们简直看不到希望。我一直在关注他们母子两个的情况，当我一看到他们这个（判决）我都哭了，我就伤心。”</p>
-<p>伍立娟表示，之后会协助家属寻找律师进行上诉，同时也希望外界关注中国当局严厉打压访民的荒谬现状。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%83%AD%E6%B4%AA%E4%BC%9F%E8%A2%AB%E9%87%8D%E5%88%A413%E5%B9%B4%E5%AE%B6%E5%B1%9E%E6%84%A4%E6%80%92/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF%E6%88%AA%E8%AE%BF/?category=18271" rel="tag">上访截访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA%EF%BC%9A%E8%80%81%E4%B9%A1%E5%88%AB%E8%B7%91-%E6%8E%A5%E5%AE%8C%E5%A4%A7%E7%9B%98-%E8%AF%B7%E6%8E%A5%E6%A5%BC%E7%9B%98/" target="cdt-mirror">海涛评论：老乡别跑 接完大盘 请接楼盘</a>
-</h2>
-<p><p>重要的政策，总是喜欢在节前人们“意兴阑珊”的时候发布。</p>
-<p>2016年2月2日，央行发布新的购房政策，非限购城市，购房的首付款比例下调。这么多年来楼市政策出台了多少，已经没人能记得住了，时而抑制交易，时而刺激交易，左右逢源出了一个“地产盛世”。</p>
-<p>这次具体政策是这样的——</p>
-<p>居民家庭首次购买普通住房的商业性个人住房贷款，原则上最低首付款比例为25%，各地可向下浮动5个百分点；对拥有1套住房且相应购房贷款未结清的居民家庭，为改善居住条件再次申请商业性个人住房贷款购买普通住房，最低首付款比例调整为不低于30%。央行指导各省级市场利率定价自律机制结合当地不同城市实际情况自主确定辖区内商业性个人住房贷款的最低首付款比例。</p>
-<p>这显然是一个刺激楼市的政策。一套价值500万的房子，原来首付必须是30%，你必须有150万才能够得着。如果降低到25%，你只需要125万就有资格买了。所以这个政策对于确实想买房子但钱不够的人，是个好消息。</p>
-<p>好消息是有背景的。联系到去年12月的中央经济工作会议提出2016年经济工作的5大任务，是“去产能、去库存、去杠杆、降成本、补短板”，那么，此番出台刺激楼市的政策也在情理之中。不刺激，如何去库存呢？</p>
-<p>所谓降低首付比例，就是降低卖房的门槛，可以让更多的交得起首付款，意味着刺激需求。当然，在任志强看来，这不是刺激需求，这是松绑被抑制的需求，而且松得还不够。不管怎么解读吧，理论上说，这个政策以让更多的人有资格去售楼处了。那么，库存就化解有望了。</p>
-<p>一种商品库存太多，有两种办法可以消化。一是降价销售，一是给买不起的人贷更多的款。国家没有资格要求开发商降价，但有资格给大家放更多贷款。所以，国家就采取了第二种办法，等于用政策鼓励大家买房。你如果对国家的政策置若罔闻，而别人响应国家的政策去贷款买了，然后房价就会因为别人的响应而坚挺，换个角度说，你如果没有房子而且也不响应国家政策买房，那你就会吃亏。</p>
-<p>从这个角度来说，国家让你买房而且你也需要买房子的话，那就要去买房子。但很多人不买国家的账，认为既然房子库存多，开发商卖不出去，自然会降价的。降价了，能够买得起房子的人就多了，库存也就消化了。</p>
-<p>这种推理符合逻辑，但却显得幼稚。因为开发商的成本太高，如果没有足够的利润，就会资金链断裂，借的钱就无力偿还，甚至有开发商会跳楼——前一段据说浙江金华已经有开发商烧炭自杀——开发商的生死本来国家不会操心，但是开发商死了就会形成银行坏账。银行坏账太多，就会酿成金融风险。而且吧，降低首付款比例，就意味着贷款的比例增加，贷款比例增加，就意味着银行的房贷利润会增加。一石三鸟，何乐而不为。</p>
-<p>你看，刺激楼市，购房人那里觉得门槛降低了，开发商那里觉得房价有支撑了，银行那里觉得利润有保障了。相反，如果国家不刺激，等着开发商迫不得已降价甩卖，反而会引发更加强烈的观望气愤，买涨不买跌嘛。到那时，已经买房子的人会去砸售楼处，房产商那里会房子会急呀更多，银行那里坏账会增加。</p>
-<p>所以，那些盼着开放商降价的人们，你们知道为啥盼了这么多年一直难以盼到降价了吧。因为降价既不利于开发商也不利于银行也不利于国家，因为银行那里捆绑着金融安全。所以，为了去库存，为了国家的金融安全，唯有一条路，就是刺激需求让房价保持坚挺。</p>
-<p>如此说来，2016年的新春佳节，如果响应新政策去买房，就是国家的金融安全做贡献，就是为国家的房地产行业去库存做贡献。所以，买房子，挺伟大的，有一种为国分忧，为国接盘——楼盘——的感觉。</p>
-<p>为国接盘，曾是2015年股市上的一个流行语。有那么一段时间，买股票就是爱国行为，如你所知，最后，大盘还是没能被“接住”，咔咔地往下掉。据说外有敌对势力，内有内鬼，国家队被暗算，小散们陷入了包围圈。股市接盘，还有国家队冲锋陷阵。楼市接盘，只能靠人民群众了，国家不可能收购开发商的房子。子曰，人民，唯有人民是历史的创造者。</p>
-<p>废话少说，去存必须消化，国家让你买房，你们到底买不买吧！我看到有人在微博上说“就是不买！”——这口气，颇像无产阶级。你若是无产阶级，零首付你也买不起，国家是拿你没办法的，其实也不是拿你没办法，可能只是暂时懒得理你，国家太忙了，忙着先想办法让够得着房价门槛的人买房子。</p>
-<p>既然以降低首付的形式刺激楼市，对买的人好，对开发商好，对银行好，对国家好，那么，房价就一直能继续坚挺下去吗？这个问题，除了伪专家乐意给出答案以外，没人回答得了。如果你问我，我只能说，在一个供求关系难以被真实反映的畸形的市场里，给股市接盘是赌，给楼市接盘也是赌，关于未来，我们都在赌，买房的人在赌，开发商在赌，国家也在赌。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA%EF%BC%9A%E8%80%81%E4%B9%A1%E5%88%AB%E8%B7%91-%E6%8E%A5%E5%AE%8C%E5%A4%A7%E7%9B%98-%E8%AF%B7%E6%8E%A5%E6%A5%BC%E7%9B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BA%E6%BF%80%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">刺激楼市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82%E5%88%BA%E6%BF%80/?category=18271" rel="tag">楼市刺激</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AD%E6%88%BF%E6%94%BF%E7%AD%96/?category=18271" rel="tag">购房政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%96%E4%BB%98/?category=18271" rel="tag">首付</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/427470/" target="cdt-mirror">“回到台湾像回到原始社会”的作者到底是什么人？</a>
-</h2>
-<p><p>共青团中央近日转发一则据称是台湾人比较两岸网络状的文章，作者在文中声称自己<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%8F%B0%E6%B9%BE%E4%BA%BA%EF%BC%9A%E4%BB%8E%E5%A4%A7%E9%99%86%E5%9B%9E%E5%88%B0%E5%8F%B0%E6%B9%BE%E5%83%8F%E5%9B%9E%E5%88%B0%E5%8E%9F%E5%A7%8B%E7%A4%BE%E4%BC%9A/">从大陆回到台湾像回到原始社会</a>。 截止至发稿时，<a href="http://weibo.com/3937348351/Dg0jlbDKn">该微博</a>已收到5000多条转发、近5000条评论和2000+的赞。原文作者在微博表示，该文在微信和微博的点击率加起来已经超9000万。</p>
-<p>据<a href="http://www.guancha.cn/local/2016_01_31_349870.shtml">观察者网称</a>：</p>
-<blockquote><p>一位自称是生活在大陆的台湾人的天涯网友@中华阿靓，根据自身经历，从订餐、看电影、购物等多个方面向大家展示两岸网络的差异，在他眼里，离开大陆的网络世界回到台湾，有种回到了原始社会的感觉。</p></blockquote>
-<p>但也有读者质疑，认为该文使用的完全是大陆的用语习惯，比如通篇使用“网络”而非“网路”等，与台湾国语的使用习惯相差甚远。所以，@中華阿靚 真的是台湾人吗？</p>
-<p>中国数字时代编辑在仔细阅读了@中華阿靚 的微博后，得出以下结论：</p>
-<blockquote><p><strong>老家山东潍坊，微博曾用名“松以静延年”，曾／或现仍住烟台，曾／或仍就职与通用汽车烟台工厂，本科就读于中国人民解放军理工大学。</strong></p></blockquote>
-<h3><span><strong>以下图片均为@中華阿靚 微博截图</strong></span></h3>
-<p> <br><strong>台湾人也会有知青情怀吗？</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A2.png" rel="attachment wp-att-427474"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A2.png" alt="中華阿靚2" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚2-300x294.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚2.png 602w" sizes="(max-width: 602px) 100vw, 602px"></a></p>
-<p>图中@中華阿靚 曾呆过4年点教学楼位于<strong>中国人民解放军理工大学</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%AF%8D%E6%A0%A1.png" rel="attachment wp-att-427484"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%AF%8D%E6%A0%A1.png" alt="母校" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/母校-300x274.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/母校-768x701.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/母校.png 804w" sizes="(max-width: 804px) 100vw, 804px"></a></p>
-<p>同款教学楼，网络图片：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027.jpg" rel="attachment wp-att-427473"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027.jpg" alt="13257302902027" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027-300x208.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/13257302902027.jpg 602w" sizes="(max-width: 602px) 100vw, 602px"></a></p>
-<p>这样就不难理解@中華阿靚 所谓的“青春，回忆，血汗”，原来是来自解放军理工大学：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%84%9F%E6%83%85%E5%9C%A8%E8%BF%99%E9%87%8C%E3%80%82%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9B%9E%E5%BF%86%EF%BC%8C%E8%A1%80%E6%B1%97%E3%80%82-%E6%9D%A5%E8%87%AA%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A-%E5%BE%AE%E5%8D%9A-2016-02-02-17-22-08.png" rel="attachment wp-att-427475"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%84%9F%E6%83%85%E5%9C%A8%E8%BF%99%E9%87%8C%E3%80%82%E9%9D%92%E6%98%A5%EF%BC%8C%E5%9B%9E%E5%BF%86%EF%BC%8C%E8%A1%80%E6%B1%97%E3%80%82-%E6%9D%A5%E8%87%AA%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A-%E5%BE%AE%E5%8D%9A-2016-02-02-17-22-08.png" alt="感情在这里。青春，回忆，血汗。 来自中華阿靚 - 微博 2016-02-02 17-22-08" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/感情在这里。青春，回忆，血汗。-来自中華阿靚-微博-2016-02-02-17-22-08-300x293.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/感情在这里。青春，回忆，血汗。-来自中華阿靚-微博-2016-02-02-17-22-08.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
-<p><strong>老家山东潍坊：</strong></p>
-<p>《致工学博士潍坊市长徐立全先生有关拆迁问题的公开信》<strong>是一名清华博士在老家被强拆后所写</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E4%B9%A1.png" rel="attachment wp-att-427478"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E4%B9%A1.png" alt="老乡" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/老乡-300x132.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/老乡.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
-<p><strong>从@中華阿靚 以往的微博内容可以看出，他至少直到2013年仍居住在烟台：</strong></p>
-<p>个性域名是“yantai001”：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/yantai001.png" rel="attachment wp-att-427498"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/yantai001.png" alt="yantai001" width="375" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/yantai001-300x192.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/yantai001.png 402w" sizes="(max-width: 402px) 100vw, 402px"></a></p>
-<p>在2016年1月前，<a href="http://www.shm.com.cn/ytrb/html/2016-01/26/content_3153966.htm">烟台市民休闲护照</a>只提供给“烟台市民、在烟大中专院校学生和驻烟军人”：<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%82%E6%B0%91%E4%BC%91%E9%97%B2%E6%8A%A4%E7%85%A7.png" rel="attachment wp-att-427492"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%82%E6%B0%91%E4%BC%91%E9%97%B2%E6%8A%A4%E7%85%A7.png" alt="市民休闲护照" width="400" height=""></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E7%83%9F%E5%8F%B0%E9%93%B6%E8%A1%8C%E6%A1%88%E4%B8%AD%E6%A1%88-1.png" rel="attachment wp-att-427493"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E7%83%9F%E5%8F%B0%E9%93%B6%E8%A1%8C%E6%A1%88%E4%B8%AD%E6%A1%88-1.png" alt="烟台银行案中案" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/烟台银行案中案-1-300x119.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/烟台银行案中案-1.png 603w" sizes="(max-width: 603px) 100vw, 603px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%9C%89%E7%83%9F%E5%8F%B0%E7%9A%84%E5%90%97.png" rel="attachment wp-att-427483"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%9C%89%E7%83%9F%E5%8F%B0%E7%9A%84%E5%90%97.png" alt="有烟台的吗" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/有烟台的吗-300x241.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/有烟台的吗.png 601w" sizes="(max-width: 601px) 100vw, 601px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%A0%B5%E8%BD%A6.png" rel="attachment wp-att-427476"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%A0%B5%E8%BD%A6.png" alt="堵车" width="475" height="255"></a></p>
-<p><strong>种种迹象表明@中華阿靚 曾／任就职于通用汽车：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A1.png" rel="attachment wp-att-427477"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%AD%E8%8F%AF%E9%98%BF%E9%9D%9A1.png" alt="中華阿靚1" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚1-300x226.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/中華阿靚1.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6-1.png" rel="attachment wp-att-427487"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6-1.png" alt="通用汽车" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/通用汽车-1-300x176.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/通用汽车-1-768x452.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/通用汽车-1.png 806w" sizes="(max-width: 806px) 100vw, 806px"></a></p>
-<p>（<a href="https://en.wikipedia.org/wiki/Daniel_Akerson">Daniel Akerson</a> 是前通用汽车 CEO）<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/danakerson.png" rel="attachment wp-att-427489"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/danakerson.png" alt="danakerson" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/danakerson-300x204.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/danakerson-768x522.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/danakerson.png 803w" sizes="(max-width: 803px) 100vw, 803px"></a></p>
-<p>上海通用总部，当然是在上海：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E5%82%BB%E9%92%B1%E5%A4%9A.png" rel="attachment wp-att-427488"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E5%82%BB%E9%92%B1%E5%A4%9A.png" alt="人傻钱多" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/人傻钱多-300x229.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/人傻钱多-768x586.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/人傻钱多.png 804w" sizes="(max-width: 804px) 100vw, 804px"></a></p>
-<p>值得一提的是，@中華阿靚 还转发过前“人生赢家”芮成钢的鸡汤：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%AE%E6%88%90%E9%92%A2.png" rel="attachment wp-att-427485"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%AE%E6%88%90%E9%92%A2.png" alt="芮成钢" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/芮成钢-300x219.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/芮成钢.png 604w" sizes="(max-width: 604px) 100vw, 604px"></a></p>
-<p>曾将“既得利益者”批判了一番：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85.png" rel="attachment wp-att-427486"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85.png" alt="既得利益者" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/既得利益者-300x240.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/既得利益者-768x615.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/既得利益者.png 805w" sizes="(max-width: 805px) 100vw, 805px"></a></p>
-<p><strong>至少，黄安是真正存在的台湾人。</strong></p>
-<p><em>附<a href="http://weibo.com/yantai001">@中華阿靚</a> 的成名感言：</em></p>
-<blockquote><p>中華阿靚：剛才看到國觀有人在談論我，雜談有人在跟貼中議論我，我的文章被猪油時報，旺報，中時報，臺灣網站，鐵血網，凱迪社區，猫撲網，西祠胡同，轉載的很多很多，由我的貼子而引發的傳統媒體新聞爭議事件，起碼有五六次了吧。想了想，自己確實寫了很多震耳欲聾、膾炙人心的經典好貼。人一出名，壓力自然來。</p>
-<p>中華阿靚：阿靓的一篇ＰＯ文，被国内外媒体争相转载，更引发了国外商业巨头的注意，他们仿佛在一夜之间才意识到中国互联网商业已进化到最高端——手机互联网商业化。外国人一直不愿承认中国在互联网上已走在他们前列，装睡的人是叫不醒的，只能打醒。这下好了，被阿靓的ＰＯ文打醒了。</p>
-<p>中華阿靚：微信和微博的点击率加起来已经超过9000万了！ 美国，德国，法国，西班牙，日本，韩国，印度都在讨论我的帖子，全部是赞同和羡慕的，有很多来过中国的外国人现身说法！ 差点得诺贝尔经济奖的张五常老师转载并深表赞同！ 国台办，共青团中央，观察者网，头条网都转发了！ 中華阿靚</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/427470/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%B9%B8%E7%A6%8F%E5%90%97/?category=18271" rel="tag">你幸福吗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">编造“中国梦”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

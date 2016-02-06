@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%8B%E5%A0%B4%E6%96%B0%E8%81%9E%EF%BD%9C%E8%A2%AB%E6%8C%87%E6%B6%89%E6%A1%82%E6%B0%91%E6%B5%B7%E6%A1%88%E9%81%AD%E5%85%AC%E5%AE%89%E6%89%A3%E6%9F%A5%E3%80%80%E6%9E%97%E6%A6%AE%E5%9F%BA%E3%80%81/" target="cdt-mirror">立場新聞｜被指涉桂民海案 林榮基、呂波、張志平是誰？</a>
@@ -221,7 +221,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5/?category=18271" rel="tag">天津</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85/?category=18271" rel="tag">瑞海国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/" target="cdt-mirror">【图说天朝】为了国家 盗版有理</a>
 </h2>
@@ -693,7 +693,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -703,5 +703,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

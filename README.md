@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,132 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%8B%E5%A0%B4%E6%96%B0%E8%81%9E%EF%BD%9C%E8%A2%AB%E6%8C%87%E6%B6%89%E6%A1%82%E6%B0%91%E6%B5%B7%E6%A1%88%E9%81%AD%E5%85%AC%E5%AE%89%E6%89%A3%E6%9F%A5%E3%80%80%E6%9E%97%E6%A6%AE%E5%9F%BA%E3%80%81/" target="cdt-mirror">立場新聞｜被指涉桂民海案 林榮基、呂波、張志平是誰？</a>
+</h2>
+<p><p><em>原標題：被指涉桂民海案遭公安扣查　林榮基、呂波、張志平是誰？</em></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0.png" rel="attachment wp-att-427826"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0.png" alt="20160205-cwb-01_2TiwC_1200x0" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0.png 750w" sizes="(max-width: 750px) 100vw, 750px"></a></p>
+<p>銅鑼灣書店東主桂民海，去年10月在泰國失蹤後，書店及母公司巨流傳媒的三名員工亦在深圳失蹤，下落不明逾三個月；廣東省公安廳昨日終回覆港警，證實該三名員工林榮基、呂波及張志平，因「涉嫌一名姓桂人士的案件」，在內地從事違法犯罪活動，被內地有關部門依法採取刑事強制措施，現正接受審查。</p>
+<p>外界普遍較關注在香港境內失蹤的李波，對於呂、張、林三人所知甚少。</p>
+<p>巨流傳媒公司總經理呂波（46歲）、巨流業務經理張志平（32歲）及銅鑼灣書店創辦人、現任店長林榮基（60歲），均為香港永久居民。據報道，三人均在深圳被帶走。呂波及張志平的妻子均為內地人，經常到深圳探妻；林榮基則居於香港，經常夜宿書店。</p>
+<p>去年11月初，據當時仍未「被失蹤」的李波向傳媒轉述，呂、張、林三人，約於10月20日起突然失聯。呂波及張志平曾經回覆短訊，分別聲稱自己到妻子家鄉醫病及到深圳探妻。</p>
+<p><strong>林榮基子：在港報警後數小時即接父親「報平安」</strong></p>
+<p>林榮基家人曾就林榮基失蹤一事報警，並聯絡入境處。據林榮基兒子Phoenix向傳媒透露，曾與李波一同到警署報案，離奇的是，報案後數小時，就收到父親來電「報平安」，僅稱自己無事，但拒絕透露身在何方。之後，家人又收到警方來電，詢問林榮基是否曾致電回家。</p>
+<p>張志平及呂波的家人少有接受傳媒訪問，外界對兩人所知不詳。而書店店長林榮基，實際上是銅鑼灣書店創辦人，2014年經營困難，書店才轉手巨流傳媒。</p>
+<p>傳媒報道，銅鑼灣書店於1994年在駱克道開業，早期專售小說及文史哲書籍，行業日益萎縮後，書店引入大批「內地禁書」，吸引自由旅客。銅鑼灣舖位近年加租不斷，書店一度月蝕逾萬；至2014年，租金升至林榮基無法負擔的地步，林榮基原擬退休結束書店，但最終轉售予巨流傳媒，林榮基由老闆變成書店員工。</p>
+<p>林榮基兒子Phoenix曾指，父親賣盤後只是為巨流打工，不參與公司的決策，亦從未參與禁書的出版，從未在內地做違法犯罪活動。他促請港府全力跟進事件，令父親早日歸家。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%8B%E5%A0%B4%E6%96%B0%E8%81%9E%EF%BD%9C%E8%A2%AB%E6%8C%87%E6%B6%89%E6%A1%82%E6%B0%91%E6%B5%B7%E6%A1%88%E9%81%AD%E5%85%AC%E5%AE%89%E6%89%A3%E6%9F%A5%E3%80%80%E6%9E%97%E6%A6%AE%E5%9F%BA%E3%80%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%95%8F%E6%B5%B7/?category=18271" rel="tag">桂敏海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%B0%91%E6%B5%B7/?category=18271" rel="tag">桂民海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%A5%BF%E8%AF%BA%EF%BC%9A%E6%88%91%E6%98%AF%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E4%BB%96%E7%9A%84%E6%83%85%E4%BA%BA%E4%BB%AC%E3%80%8B%E7%9A%84/" target="cdt-mirror">美国之音 | 西诺：我是《习近平与他的情人们》的作者</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-05-at-%E4%B8%8B%E5%8D%885.47.04.png" alt="Screen Shot 2016-02-05 at 下午5.47.04" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-05-at-下午5.47.04-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-05-at-下午5.47.04.png 634w" sizes="(max-width: 550px) 100vw, 550px"><br><span>《博讯网》记者西诺接受美国之音专访（美国之音拍摄）</span></p>
+<p>纽约—西诺是活跃在纽约的新闻网站《博讯网》的记者，最近出版了《习近平与他的情人们》一书。据传这本书是引起香港铜锣湾书店五人被失踪的原因之一。他表示，他是该书的作者之一。</p>
+<p>星期五，他在接受美国之音专访时说，一年前这本书写成后，原先承诺出版的铜锣湾书店老板桂民海可能因受来自大陆的压力而取消了出版计划。</p>
+<p>去年11月以来，桂民海等五人相继被失踪后，西诺决定将手中书稿出版。由于他的共同作者朋友反对，西诺在与其达成协议后以个人名义出版了该书。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s.png" alt="3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s" width="550" height="715" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s-231x300.png 231w, http://chinadigitaltimes.net/chinese/files/2016/02/3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s.png 640w" sizes="(max-width: 550px) 100vw, 550px"><br><span>《习近平与他的情人们》封面（谷歌书店截图）</span></p>
+<p>他表示，该书的纸质版即将上市，电子版一度在谷歌网络书店上架，因其朋友反对而下架；现在他以个人名义再度上架。</p>
+<p>西诺说，这样做的目的“只是想告诉习近平，这本书的作者在北美，你可以到北美法院来告我，我可以接受审判，但不要连累这些书商。”</p>
+<p>西诺说，书中许多故事并非编造，而是源于聚居纽约法拉盛的福建和浙江两地新移民，他们有很多有关习近平在那里任职时的传闻。</p>
+<p>西诺表示，中共在海外执法的事实和传闻已经在海外华人当中引起很大恐惧，他说，在出版该书寻找印刷厂的过程中，至少三家华人业主一听书名便表示拒绝。</p>
+<p>他表示，习近平上台后，大陆人到香港购买政治娱乐书的市场极大萎缩，铜锣湾书店于是改变策略，转到深圳设点，把书运到那里再邮寄大陆各地。</p>
+<p>他说，五名被失踪者之一的前书店老板林荣基手中握有大陆3400个分销者名单，现全部被大陆公安获取。西诺认为，这可能成为日后五人被定罪的最重要依据。</p>
+<p>以下是采访的实录：</p>
+<p>问：最近关于《习近平与他的情人们》引起很大反响。先介绍一下这本书。</p>
+<p>这本书的作者不是我一个人，还有一位我的朋友，他不愿公开露面。这本书是一年半前由他牵头来写的。主要是提供香港铜锣湾书店的桂民海出版。这本书中的人物比较开放，有一个提纲，然后按照这个提纲我们来写作。</p>
+<p>故事来自福建浙江新移民</p>
+<p>有的读者会问，这么多人物这么多故事是不是编造的呢？其实不是。因为我住在法拉盛，是新移民聚居的地方，大部分来自中国两个地区，一个是福建，一个是浙江。他们对习近平曾经在那里工作过的趣闻、私生活有很多很多传闻。包括他私生子的版本就有十几个。我们会了解到很多故事。至于这些传闻是真是假，对我们作家来说是很困难的。有时有人有兴趣给我们提供素材我们就听一听，是这样一个写作过程。</p>
+<p>这本书写完后就交给桂民海去出版。一年半前写的，写作花了几个月时间，但是完成后两三个月就没有消息。桂民海传来的消息说这本书不太方便，比较危险，不好出版，所以这本书不想出版了。</p>
+<p>桂民海传遭大陆施压后放弃出书</p>
+<p>然后我在这边听我的朋友讲，中国大陆派人去找过桂民海，他们去的目的是了解这本书是谁写的，先没有打听是不是能出版。他们指出了两个作者的名字，他们似乎都知道，清清楚楚。桂民海否认，说这本书跟他和他们都没关系，而且他也不出版了。我们以为不出版就不出版，以为没事了。这已经有一年多了。</p>
+<p>可是到了去年11月份桂民海突然失踪，到后来被证实被绑架，那个时候，我和我朋友就非常紧张，担心是不是这本书惹祸。我问我朋友，有没有问题，我朋友开始说，“没有没有，阿海很快会放的。可能是要解决2003年车祸的法律赔偿问题。”到后来就不是这样了，时间越脱越长，到最后李波都抓进去的时候，我们觉得这个事情很大了。</p>
+<p>特别是桂民海电脑里那本即将出版的《习近平的情史》，里面很多章节跟我写的书有类似的地方，感到很痛心，让五位朋友受难。在香港有言论自由，可是为了一本书就要抓他们吗？我觉得很不应该的。这就是整个写书、出版的经过。</p>
+<p>问：你讲书中很多是从移民那里听来的故事。可是据媒体报道，你书中有习近平1985年来美访问时被美国中央情报局吸收为特务的情节，这不是很八卦吗？</p>
+<p>答：这其实不是我们编的，有一种说法，他在1985年访美时被人陷害，当地有很多台湾特务组织，他们希望拉拢一些中共官员，尤其是父母受过共产党很多迫害的人，希望把他们拉拢过来，成为国民党特务的线人，其中习近平是他们看中的一位。至于有没有成功我们不清楚，我们作为作家也就是根据素材进行加工。</p>
+<p>不给出版自由我就恶心你</p>
+<p>问：有人认为，这样的书太八卦、太没有底线，你的反应？</p>
+<p>答：有些传闻比这更离谱。中共内部什么事情没有，毫无底线的事都有。其实这本书里很多并没有丑化他，而是从正常人的角度来反映。比如，他出国晒书单，当然他没有看过那么多书，但是他居然能背出其中的片段，他的能力不是假的，书中讲到了他有超强的记忆力。</p>
+<p>另外，从某种意义上讲，你不给我言论出版自由，我就有一种想恶心你的动机，因为你太霸道、太不讲理了。而且这些东西确实在民间流传，并不是我编造的。</p>
+<p>我知道，法国大革命前有些作家专门写政治诽谤书，写皇室的荒淫、乱伦、偷窃、违反宗教道德，将近有一千本这样的书。这有用吗？有用。在一个皇权神圣不可侵犯的社会里，当皇权被充分揭露时，人民心目中对皇权的尊重和崇拜就降到最低点，于是乎革命到来时人们就会义无反顾地投入反对皇权的大革命中。</p>
+<p>问：你为什么要出版这本书？</p>
+<p>答：李波被抓后我觉得共产党的手伸得太长了，我只是想告诉习近平，这本书的作者在北美，如果有什么看法，侵权也好，对你造成什么损失也好，你可以到北美法院来告我，我可以接受这样的审判，都无所谓。你不要连累这些人。他们是书商，好比超市里卖东西，你说他卖一把刀，刀是工厂制造的，你怎么能追究人家卖的人呢？我希望这本书出版后，就是告诉习近平，冤有头债有主，你就来找我，尽快释放那些人，在春节前让他们跟亲人团聚。</p>
+<p>在自由世界也难免于恐惧</p>
+<p>但是我的朋友反对，他觉得这件事对他会有很大影响。这说明我们尽管生活在自由世界里，但也受到了不同程度的逼迫，主要有三种：第一种，作家的亲人或本人在华人企业工作，这些企业知道我们在写作，或多或少会被商会、使馆、领事馆控制，他们会逼迫这些企业把这些工人和作家辞退，有这样的例子，但我不想在这里展开。</p>
+<p>第二种，如果你写了这种书，你出去旅行时的危险程度就增加了，而且回大陆根本就不可能了。第三种逼迫来自中国大陆，他们有可能会派情报人员，在美国干扰、威胁，甚至做一些违法的事情。特别最近听到中共要成立海外缉侦局，想把执法的手伸到海外来，更引起华人的恐惧。我在出版这本书的时候找过三家华人印刷厂，但他们都拒绝了，说不方便，显得很惊恐。他们知道这本书是桂民海的，一看题目就不敢做了。在自由世界我们受到共产政权的逼迫是显而易见的。</p>
+<p>所以我的朋友的恐惧大家也可以理解。1月初，我把书在谷歌书店上上架了两天，他就不同意，于是就把它下架了。他认为，他有亲人，要回国，要考虑他的安全。所以再上架就完全用我的名字，告诉全世界就我一个写的，这个责任我一个人负。这样他就安心了。通过这件事说明，即便在自由世界还是会受到专制政权的恐惧。罗斯福说的免于恐惧，我们现在还做不到。</p>
+<p>桂民海能把握大陆政治脉搏</p>
+<p>问：介绍一个你和你的朋友跟桂民海的关系，有什么合作？合作多久了？</p>
+<p>答：我跟桂民海没有什么关系。我的朋友跟他合作很久，有很长的关系，他的大部分作品都是通过桂民海出版的。桂民海是个成功的商人，能把握中国的政治脉搏，特别是政治新闻，一个新闻刚出来几天，最短时可能只要10天，他就能出一本书。比如，薄熙来案，在薄熙来受审查时他们就料到总有一天他会被审判。这时，桂民海马上就会构思一本书，怎么审判薄熙来，当薄熙来审判，法庭供词出来时，他们只要修改书中一小部分。所以，审判一结束，一个星期，这本书就上市。他有非常成功的操作方法。</p>
+<p>另外，桂民海得到的素材比我们想象的多得多。因为可能会从不同的政治对手得到他们的料，然后他再把这些料做些加工，让我们这些作家再写。桂民海与我朋友的合作时间很长。</p>
+<p>3400个分销者名单已被大陆掌握</p>
+<p>问：市场主要在哪里？</p>
+<p>这样的市场在香港已经有多年了。其实这一市场的最大部分是来香港的访客，这是个特殊市场，也就是到香港来观光旅游，回去时顺便在机场买几本书回去，海关也是查得很松的。后来习近平上台后就越来越难了，实际上，铜锣湾书店就改变了经营方式，把坐店等客变成到深圳设点，把书放到那边去邮寄或销售。这个事情未来会成为5位被失踪书商受审定罪的最主要问题。所以我要说，他们有可能回不来，再也不能回香港了。</p>
+<p>因为我知道，林荣基（铜锣湾书店五位被失踪者之一）2014年把书店卖给了桂民海和李波。但整个客户信息掌握在林荣基一个人手里。据我所知有份3400个分销者的名单，现在全部被大陆方面获取了。如果中共司法人员找这些人来作证是轻而易举的。从这名单里他们卖了那么多书，你想他们怎么出得来？</p>
+<p>香港的政治娱乐书有两种卖法</p>
+<p>问：一般说一本书能卖多少本？</p>
+<p>答：这些书是小众市场，是政治娱乐，没有很强的事实和理论基础，很多是推演的，甚至是虚构的，是娱乐性的。我知道，卖得好一点，也就是三、四千册，就不错了；卖得不好，就五、六百本。作者很辛苦，报酬就这么一点点。</p>
+<p>但这里面有个另类盈利方式，有时候某本书会有大陆利益相关人员——并不一定是最高层——也许这本书，好比，涉及四川省的某个丑闻，可能四川省的某些利益相关人员来香港，购买这本书的版权。</p>
+<p>最近我就听说，有一本书，桂民海说他赚了差不多40多万，我的那位朋友说，他也赚了5万，这里面一定涉及到版权购买问题。因为一本书你说卖到三千本，能赚几个钱？！这里涉及幕后交易，十分复杂。我在外面看，不十分了解里面的情况，无法剖析整个产业链。</p>
+<p>抓李波因为他不识相？</p>
+<p>问：这次铜锣湾书店人员被失踪和绑架，桂民海案已经引起外界很大反响，为什么当局接着还要到香港去抓李波？</p>
+<p>答：据我所知，李波不参与书的创作过程，他是发行者，合作伙伴。他不认为自己会有什么事。听说他太太警告过他，李波说，“我有什么事情，都是桂民海在做，我不过卖卖书而已。”为什么要抓他呢？我分析，在桂民海出事后李波还出版了三本书，这个从中共来说，会认为是不识相，对不识相的人中共要惩罚，这是惩罚性措施。他跟桂民海不一样，桂民海按中共来说是集团首犯，惩罚更严厉；李波不是首犯，但他是顶风作案人，所以对他也加以惩处。</p>
+<p>问：你觉得李波获释的可能比桂民海高吗？</p>
+<p>答：我认为他们基本上是回不来了。这里涉及一个重要问题，一边一国两制，一边是桂民海和李波，两者谁轻谁重，中共一定知道。如果要保全一国两制，毁掉一两个人算什么？我就把这两人以非法经营罪判10年、20年，没问题啊，判了以后你们就在狱中慢慢熬吧，到一定时候就像徐明一样让你们死掉。只要他们不回到自由世界就没事。</p>
+<p>让他们慢慢消失可能是当局最好选择</p>
+<p>但他们要是回来，他们一定会说出是怎么去大陆的。两个人都没有出境记录。李波的护照和回乡证还在家里，他怎么去的大陆，如果他说是被绑架去的，那么一国两制就荡然无存了，因为你越境执法，而且还不承认；第二，桂民海在泰国有入境记录，没有出境记录，我的朋友去查过。没有出境记录，人又在大陆，这个人怎么去的呢？你怎么解释。所以，它犯下两个不可饶恕的错误，第一是破坏一国两制，在香港绑架英国公民到大陆；第二个错你违反了国际法，把一个瑞典公民抓到大陆，你怎么承担？所以，把他们放在我的监狱里慢慢地折磨他们，甚至让他们消失，可能是当局的最好选择。</p>
+<p>问：大陆当局说，桂民海是回大陆协助调查2003年致人死命车祸案。</p>
+<p>答：昨天香港接到广东公安厅的明码传真，说有吕波、张志平和林荣基三位现在内地配合调查桂民海案调查。我要说，桂民海是2003年出的车祸，2004年就返回瑞典。这几位先生那时候根本就不认识桂民海。他们是回去配合调查桂民海的车祸吗？显然不是。一定是配合调查其它事情，很有可能是调查他们在深圳售书的事情。从姚文田案来看，他们被定非法经营罪，判10年是轻而易举的，至少是10年。</p>
+<p>占中后习近平对一国两制已没信心？</p>
+<p>问：现在有一种说法，认为这种绑架、下三滥的事情都是下面的人想拍马屁，跟最高层、习近平并没有直接关系。你的看法呢？</p>
+<p>答：我不这么认为。当然，我听说有个“第一夫人办公室”，简称“彭办”，成立后要做点事情，发现香港有这么个家伙，污蔑我们的习大大和彭妈妈，因为彭也是这本书中一个人物。所以他们就要搬掉这个老窝，向彭办献礼。</p>
+<p>这种说法我认为站不住脚。因为如果他们敢冒天下之大不韪破坏一国两制，抓这些书商，习近平很快就会知道。他大权统揽，是各小组组长，这个大事他一定知道。他完全可以采取纠正的方法，比如，如果这个事是彭丽媛做的，可以让她不再干涉，谁做的可以惩罚谁，小小的惩罚，来挽回脸面和一国两制的局面。但他做了吗？没有。而且越来越强硬，甚至在《环球时报》登出文章，说任何一个国家的强力机构都有这样的做法，可以绕过法律执行任务，这样做是合理的，用不着大惊小怪。这叫什么逻辑？</p>
+<p>其实，香港发生占中事件后习近平当局已经对香港一国两制没有信心，认为香港正在滑向一个更背离中央的态势，香港在一国两制的框架下有可能导向港独。心底里已经厌烦了。想通过小小的铜锣湾书店的案子例敲打敲打香港人，告诉你们，我不是吃素的。这样的解读值得深思。也许明天就不是书店老板，可能是你的上市公司的总经理，或者是个航运公司的总经理，一个媒体的总经理。</p>
+<p>问：介绍一下你自己。</p>
+<p>答：我是《博讯》的记者。主要工作是采访报道。中国大陆有那么多的维权人士、异议人士受到逼迫，需要我们《博讯》来替他们发声。我还有一份网络设计的业余工作。</p>
+<p>我写这本书就是要表达我们在北美享有言论、出版自由，不愿意在香港发生的事情再发生在北美。要对所有自由世界的作者讲：我们不要惧怕。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%A5%BF%E8%AF%BA%EF%BC%9A%E6%88%91%E6%98%AF%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E4%BB%96%E7%9A%84%E6%83%85%E4%BA%BA%E4%BB%AC%E3%80%8B%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%BB%96%E7%9A%84%E6%83%85%E4%BA%BA%E4%BB%AC%E3%80%8B/?category=18271" rel="tag">《习近平和他的情人们》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%95%8F%E6%B5%B7/?category=18271" rel="tag">桂敏海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%AF%BA/?category=18271" rel="tag">西诺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/427814/" target="cdt-mirror">BBC｜台湾南部6.4级地震 全岛有强烈震感</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit.jpg" rel="attachment wp-att-427817"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit.jpg" alt="台南市永康区永大路二段楼高16层的维冠大楼倒塌，内有逾150户住户，消防人员在现场全力抢救，已有人被救出送医。" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit.jpg 660w" sizes="(max-width: 660px) 100vw, 660px"></a><p>台南市永康区永大路二段楼高16层的维冠大楼倒塌，内有逾150户住户，消防人员在现场全力抢救，已有人被救出送医。</p></div>
+<p>美国地质勘探局报道，台湾南部当地时间周六（6日）凌晨3点57分发生里氏6.4级地震。包括屏东、台南、新竹、台北都出现剧烈摇晃。地震深度为10公里。</p>
+<p>BBC中文网驻台北特约记者郑仲岚报道，全台湾都感到震动。</p>
+<p>震中位于台南市东南面，该市人口接近200万。</p>
+<p>台南市多处楼房在地震过后倾斜、甚至倒塌，部分地点传出人员受困，消防人员前往救出多人。</p>
+<p>台南市政府在清晨一级开设防灾应变中心，至清晨5时20分左右统计，永康区一栋大楼倒塌、新化区一栋大楼倾斜、山上区一处房屋倾斜、东区一栋大楼倾斜。</p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit.jpg" rel="attachment wp-att-427816"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit.jpg" alt="160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit" width="304" height="405" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit.jpg 304w" sizes="(max-width: 304px) 100vw, 304px"></a><p>高雄市美浓区6日清晨3时57分发生规模6.4地震，嘉义 市友孝路一户民宅天花板坍塌。</p></div>
+<figure></figure><p>在永康区倒塌的大楼现场最为严重，16层高的大楼倒在路面，消防人员陆续救出多人送医。</p>
+<p>山区房屋倾斜现场也一度传出7至8人受困，随后陆续平安脱困。</p>
+<p>新化区京城银行商办大楼则向右严重倾斜，还波及一旁民宅，幸好没有传出人员伤亡。</p>
+<p>防灾应变中心还接获多起电梯受困事件，陆续由消防人员协助脱困。</p>
+<p>台南发生强烈有感地震，市府已开设一级防灾救治中心，市长赖清德已进驻指挥。</p>
+<p>市府表示，已动员特搜队出勤，并紧急应变，各地状况通报汇整中。</p>
+<p>台湾平均每年有3次规模6级以上地震，今天这起是今年首例。</p>
+<p>气象局地震测报中心主任郭铠纹说，去年台湾有4次规模6级以上地震，但总释放能量仍不太够，这次地震研判属于旗山断层错动引起，释放能量相当两颗原子弹。</p>
+<p>根据台湾中央气象局网站，高雄市凌晨3时57分发生规模6.4地震，震中在美浓区，云林县草岭最大震度达6级，高雄、屏东、台南、嘉义皆有地区最大震度达5级。</p>
+<p>太平洋海啸预警中心说，预期不会发生太平洋范围的破坏性海啸。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit.jpg" rel="attachment wp-att-427818"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit.jpg" alt="160205221017_taiwan_quake_map_woman_624x624_epa_nocredit" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit.jpg 624w" sizes="(max-width: 624px) 100vw, 624px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit.jpg" rel="attachment wp-att-427815"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit.jpg" alt="160205213910_taiwan_quake_cna_640x360_cna_nocredit" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit.jpg 624w" sizes="(max-width: 624px) 100vw, 624px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/427814/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%94%E6%80%A5%E9%A2%84%E6%A1%88/?category=18271" rel="tag">应急预案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/427795/" target="cdt-mirror">【立此存照】天津爆炸调查结果：只许看不许评</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/1984174925/DguRc1opV" target="_blank">@h0uz1</a>：<a href="http://huati.weibo.com/k/%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83?from=501" target="_blank">#天津港爆炸事故调查报告公布#</a>千呼万唤始出来的调查报告，媒体与之相关的微博基本都是不能评论的状态（新华社除外）</p></blockquote>
@@ -41,7 +164,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/2016%E5%B9%B4%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0bobs%E6%96%B0%E5%AA%92%E4%BD%93%E5%A4%A7%E8%B5%9B%E5%90%AF%E5%8A%A8/" target="cdt-mirror">2016年德国之声Bobs新媒体大赛启动</a>
 </h2>
@@ -75,7 +198,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E5%8D%9A%E5%AE%A2/?category=18271" rel="tag">公民博客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%AC%E5%B8%83%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5/" target="cdt-mirror">自由亚洲｜中国国务院公布天津港爆炸事故调查报告</a>
 </h2>
@@ -559,125 +682,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A7%E6%92%92%E5%B8%81%E3%80%81%E4%B9%A0%E6%8C%96%E5%9D%91%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-02/" target="cdt-mirror">【敏感词库】“大撒币”、“习挖坑”等热点 2016-2-2</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2014/11/15680493230_39c442c196_z.jpg" alt="Xi Jinping, Painted Portrait" width="550" height=""><br><em>图片来源：<a href="https://www.flickr.com/photos/home_of_chaos/15680493230">Thierry Ehrmann</a></em></p>
-<p>［新浪微博搜索禁词测试时间：2016年2月02日］</p>
-<p><strong>大撒币</strong>（<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/">相关专题</a>）</p>
-<p><strong>习 + 挖坑</strong><br><strong>刁core</strong><br><strong>习core</strong>（复测）<br><strong>梦雪</strong>（曾有传言称梦雪为习近平情人）</p>
-<p><strong>宋祖英＋江</strong></p>
-<p><strong>我冷＋央视记者</strong>（2月3日已解禁）</p>
-<p><strong>撸色</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%A4%A7%E6%92%92%E5%B8%81.png" alt="大撒币" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/大撒币-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/大撒币-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/大撒币.png 771w" sizes="(max-width: 771px) 100vw, 771px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E6%8C%96%E5%9D%91.png" alt="习 + 挖坑" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/习-挖坑-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/习-挖坑-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/习-挖坑.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%88%81core.png" rel="attachment wp-att-427607"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%88%81core.png" alt="刁core" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/刁core-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/刁core-768x330.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/刁core.png 843w" sizes="(max-width: 843px) 100vw, 843px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0core.png" rel="attachment wp-att-427606"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0core.png" alt="习core" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/习core-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/习core-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/习core.png 840w" sizes="(max-width: 840px) 100vw, 840px"></a><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%A2%A6%E9%9B%AA.png" alt="梦雪" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/梦雪-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/梦雪-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/梦雪.png 775w" sizes="(max-width: 775px) 100vw, 775px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%AE%8B%E7%A5%96%E8%8B%B1%EF%BC%8B%E6%B1%9F.png" alt="宋祖英＋江" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/宋祖英＋江-300x118.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/宋祖英＋江-768x301.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/宋祖英＋江.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%88%91%E5%86%B7%EF%BC%8B%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85.png" alt="我冷＋央视记者" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/我冷＋央视记者-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/我冷＋央视记者-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/我冷＋央视记者.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%92%B8%E8%89%B2.png" alt="撸色" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/撸色-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/撸色-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/撸色.png 772w" sizes="(max-width: 772px) 100vw, 772px"></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="http://goo.gl/utx7aD">点此</a>。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A4%A7%E6%92%92%E5%B8%81%E3%80%81%E4%B9%A0%E6%8C%96%E5%9D%91%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-02/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85/?category=18271" rel="tag">央视记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E7%A5%96%E8%8B%B1/?category=18271" rel="tag">宋祖英</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%94%E6%9D%82%E7%9A%84%E6%84%8F%E6%B7%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E/" target="cdt-mirror">【麻辣总局】F-223244：兔粉的意淫与现实</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/5675242429/Dg1Ws1J8V">@F-223244</a>：分享图片</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh.jpg" rel="attachment wp-att-427588"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh.jpg" alt="006c4JOdgw1f0ldyevz0wj316y0qoakh" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh-300x186.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh-768x477.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/006c4JOdgw1f0ldyevz0wj316y0qoakh.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-2/">变态辣椒：To 共青团</a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/c188" target="_blank">@Google白板报</a><i></i>：想起【你看不到黑暗是因为有人把黑暗挡在了身后】这个超级病句，请问影子怎么挡住？它又不是光<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p>@也许是井越:“你看不到黑暗是因为你他麻痹瞎啊”</p>
-<p><a href="http://weibo.com/1635187765" target="_blank">@克萝伊__Chloe</a>：兔杂的意淫与现实<img title="[偷乐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif" alt="[偷乐]"><img title="[偷乐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/fa/lxhtouxiao_org.gif" alt="[偷乐]"></p>
-<p><a href="http://weibo.com/3010177602" target="_blank">@住在武藏上的葵托利</a>：╱( ◕‿‿◕ )╲ 今天·赵老太爷·继续完成打小粉红兔杂10个耳光·日常任务·啪·你们他妈·也敢姓赵 233 <img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"><img title="[兔子]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif" alt="[兔子]"><img title="[蜡烛]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]"></p>
-<p>@XUzhizeng：大兔子应该有GT纹身，以示干部身份。</p>
-<p>@王东子：蛇盘兔，年年富。</p>
-<p>@柯希莫的枷锁：啊好怕po主也像辣椒一样。。注意安全。。</p>
-<p>@嗜睡毛球：博主先赶紧吃点好的</p>
-<p>@淡泊英招：良心啊！居然还吐骨头？！</p>
-<blockquote><p>@汝恒常在_____：助攻…！！<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw.jpg" rel="attachment wp-att-427589"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw.jpg" alt="759fdc83gw1f0ljn1pfyoj208c08c0sw" width="300" height="300" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/759fdc83gw1f0ljn1pfyoj208c08c0sw.jpg 300w" sizes="(max-width: 300px) 100vw, 300px"></a></p></blockquote>
-<p>@AIRTOPcompany：祖国崛起，牺牲一些兔杂是必要的嘛</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%94%E6%9D%82%E7%9A%84%E6%84%8F%E6%B7%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E7%B2%89/?category=18271" rel="tag">兔粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94/?category=18271" rel="tag">那年那兔</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%89%8D%E4%B8%9C%E5%AE%B6%E4%BB%8A%E6%97%A5%E6%AD%87%E4%B8%9A%EF%BC%8C%E7%94%9F%E5%91%BD%E6%9A%82%E5%81%9C%E5%9C%A820%E5%B2%81%EF%BC%8C%E6%88%91%E6%98%AF%E6%9D%A5%E5%AE%89%E5%88%A9%E7%9A%84/" target="cdt-mirror">花香-弥漫：前东家今日歇业，生命暂停在20岁，我是来安利的</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg" rel="attachment wp-att-427583"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg" alt="682d01cagw1f0jtkcpy14j20qo0r3grc" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc-295x300.jpg 295w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc-768x780.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0jtkcpy14j20qo0r3grc.jpg 960w" sizes="(max-width: 960px) 100vw, 960px"></a></p>
-<p>这几天通过微博得知前东家歇业了，还被某些评论黑出了翔。有骂众泽是美帝走狗的；有说众泽是境外反动势力用来颠覆我国的；有黑众泽没有注册、没有备案、律师也没资格、反正就是各种不合法的；有说众泽啥事也没干，纯在浪费糟蹋国家钱的；有说众泽在北京，管的到农村妇女吗，就是个打着公益旗号的间谍机构……有些评论言辞之恶心，让我这个只呆了半年已离职几年的人都忍不住委屈落泪。希望通过这篇文章，能让不明因果的网友了解这家机构一些。</p>
-<p>我第一次知道这个机构是在大学的课堂，在老师的讲解里或者放的电视报道里一闪而过。大概就是“据北京大学法学院妇女法律研究与服务中心的调查数据显示XX”或“我们就此事咨询了北京大学法学院妇女法律研究与服务中心，中心律师称……”说实话，当时注意力都在北京大学，并不是中心，感觉一个法学院的机构都这么有名，北大果然牛逼。</p>
-<p>第一次跟北京众泽妇女法律咨询与服务中心（原北大法学院妇女法律研究与服务中心）有接触，是因为手头一个大学生创业创新的国家级项目。项目需要企业配合匿名问卷调查跟访谈，我们回馈小礼品。我本以为很简单的，没想到前后项目组里的小伙伴忙活了一个月，一家企业都没谈下来不。我当时非常焦虑，多亏了导师给了众泽的联系方式给我，说这个NGO很不错，她们几年前已经做过类似的调研，你去联系她们。后来，项目组里的小伙伴很顺利从众泽拿到了她们之前试点过的企业的联系方式，我这边的调研得以顺利展开。对了，众泽的那个项目是联合国妇女发展基金和国际劳工组织出资的（黑子们，这下众泽是不是要从美帝走狗变成联合国走狗了？）。</p>
-<p>后来加入众泽是缘分，恰好招人，我之前又被众泽的专业性和前瞻性惊艳到过，加之我法学出生，大学恰好受过社会性别方面的教育，有点基本的社会性别意识，也想做点对社会有点益处的事情。面试时聊得非常愉快，小boss也说得很直接，坏处就是，工资低，没福利，也很难有改变。如果在帝都无依无靠，靠这里的工资很难生存。好处就是，所有人都在踏踏实实干活，同事之间氛围很好，你完全不用担心复杂的办公室政治，还能从你的工作中收获到非常大的满足感。这些，在我日后工作的半年里，均切身体会到了。</p>
-<p>中心主任是大名鼎鼎的郭建梅女士，荣获过“国际妇女勇气奖”，多次被希拉里接见，在国内外知名度甚高,说享誉海内外不为过。不了解的可随便搜索一下。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4pr0g4cj208c060q3b.jpg" rel="attachment wp-att-427568"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4pr0g4cj208c060q3b.jpg" alt="682d01cagw1f0j4pr0g4cj208c060q3b" width="300" height="216"></a></p>
-<p>简单说来，大boss83年从北京大学法律系毕业，工作顺风顺水，还参与过《妇女权益保障法》的起草。95年第四届世界妇女大会在北京召开，大boss听了一场希拉里的演讲很有感触，回来就辞职跟人一起办了北京大学法学院妇女法律研究与服务中心，为权益受到侵害的妇女免费提供法律援助，因硕果累累，多年获得海内外表彰无数。只是2010年被迫把机构迁出北大，成为NGO，也就是后来的众泽。众泽是一家完全免费的公益机构，多年致力于家庭暴力、农村妇女土地权益、性骚扰、性侵害、就业性别歧视等社会性别现象的研究，为弱势妇女提供免费的法律援助，努力推进国内妇女权益保护的进步。众泽有很多惊艳到我的地方。</p>
-<p><strong>1，有自己的律师事务所</strong></p>
-<p>作为一家NGO，有自己的律师事务所，北京市千千律师事务所，为需要帮助的妇女免费提供法律服务。是的，完全免费，不收律师费，不收差旅费。这有多难得外行可能不了解，成为一个律师本就不易，能在北京执业的更加少(北京的限制非常多，研究生以上学历或北京户口方可执业)，能在帝都执业的律师愿意做纯公益律师的真的是凤毛麟角。不要以为都是法学院的loser才过来，我在的时候，中心专职律师里，北大毕业的就有两个，人大一个，有几个律师英语相当不错，派出国去开会毫无压力。这群人呆在这，真是为了理想，想切身为这个国家干点实事。他们转行做商业律师，年薪可以轻而易举的翻十倍，甚至百倍。可是他们并没有！！！因为愿意做公益律师的全国都只有那么几个，他们能多坚持一天就能多帮助一些需要帮助的人。拿大boss来说，接手李彦案的时候，就有人拿标的上亿的商业案子找她代理，她一如既往没有去。在她看来，前者她不接，就很难再有人帮忙了，李彦很可能马上就被执行死刑了。而后者，这种送大钱过来的商业案子 她不做对方也很容易找到人接手的。大boss的这些想法，也是中心律师的一贯想法。插播一下李彦案：李彦案是典型的受暴妇女杀夫案，多年来遭受丈夫非人的暴力虐待，严重的时候直接砍掉了她一根手指。李彦忍无可忍，终于找准机会杀夫成功，分尸，烹之。一审二审均被判死刑，死刑复核阶段，李彦家属走投无路找到中心，中心接受委托后，火速派律师前去四川了解案情，搜集到重要证据，递交给最高法。在此期间，多方机构共同努力，最后成功刀下留人。讲真，看到这，如果您认为李彦该死，劳驾您去搜搜什么叫受暴妇女综合症，再去搜柴静早年对某地女子监狱的报道，里面半数都是因为家暴杀夫进来的，李彦遭受过的家暴，丧心病狂都形容不了，比起视频里那些女犯人遭受过的家暴，有过之无不及。</p>
-<p>至于协助这种案件，有多难，难在哪？除了证据外，还需要多少机构，人士共同努力才可以做到？推荐大家去搜南方周末去年的一则报道《家暴阴影下的妇女权益保护 未能完全翻转的李彦案》。</p>
-<p><strong>2，提供一条龙服务</strong></p>
-<p>如果你觉得众泽就是打官司厉害，那你就太小瞧她了。我一直觉得，众泽像一个经验丰富的医生，有一整套处方，还免费发药，努力想让这个国家的妇女权益更好一点。比如，针对农村妇女土地权益频受侵害的现状，众泽除了帮农妇打官司，还会跟基层妇联合作，协助对方组织有关培训，众泽出资邀请专家去讲座，再把在当地调研的问卷，交给专门的数据分析机构，把数据再交给高校关注此类问题的专家，邀请专家撰写调研报告，再向社会发布，向基层妇联反馈，推进地方有关村规民约的修改；</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45.jpg" rel="attachment wp-att-427579"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45.jpg" alt="682d01cagw1f0j84zqy3bj20h005qq45" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45-300x101.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j84zqy3bj20h005qq45.jpg 612w" sizes="(max-width: 612px) 100vw, 612px"></a><br>
-（截图自检察日报报道，《频损“农嫁女”土地权 村规民约成法外之地》）<br>
-（原文链接，http://newspaper.jcrb.com/html/2013-12/23/content_148570.htm）</p>
-<p>前几年校园性侵幼女案件频频爆出，键盘侠们，骂骂也就过去了。众泽除了在网络发声，还组织了跟“嫖宿幼女罪”有关的专家研讨会，把结果撰文发布，在两会时改成提案，请有提案资格的人士提交。最终，刑法修正案九废除了“嫖宿幼女罪”，当有众泽的一份功劳；</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze.jpg" rel="attachment wp-att-427580"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze.jpg" alt="682d01cagw1f0j89w9wtyj20gr04f3ze" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze-300x79.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j89w9wtyj20gr04f3ze.jpg 603w" sizes="(max-width: 603px) 100vw, 603px"></a><br>
-（截图自北京青年报，电子版，2013年12月17日《嫖宿幼女罪不废，我就没玩》）<br>
-（原文链接http://news.xinhuanet.com/legal/2013-07/14/c_116525731.htm）</p>
-<p>从董珊珊案到李彦案，网友在感概法律不公，众泽在尽全力提供法律援助，并努力推进反家暴法的通过。针对职场性骚扰和性侵害，众泽不仅仅只是帮助受害者让宋山木们受到法律制裁这么简单，一方面，众泽会在企业进行调研，试点，请专家去培训，对公司章程，劳动合同提出修改方案，赠送专门的小册子，努力推进职场性骚扰预防机制的建立。另一方面，众泽召开研讨会，与专家企业分享调研和代理案件得出的数据，同与会人员一起探讨性骚扰防治措施，并对我国性骚扰领域的立法提出专业建议（国外有很多相关立法，我国还处于空白阶段），并把这些建议提交给有关机构。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs.jpg" rel="attachment wp-att-427576"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs.jpg" alt="682d01cagw1f0j8njx634j20if05mwfs" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs-300x91.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j8njx634j20if05mwfs.jpg 663w" sizes="(max-width: 663px) 100vw, 663px"></a><br>
-（截图自新华网，《职场性骚扰诉讼认定难赔偿难 受害者多”隐忍不发”》）<br>
-（链接http://news.xinhuanet.com/legal/2013-07/14/c_116525731.htm）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo.jpg" rel="attachment wp-att-427577"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo.jpg" alt="682d01cagw1f0j9cfj9ftj20hq06g3zo" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo-300x109.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j9cfj9ftj20hq06g3zo.jpg 638w" sizes="(max-width: 638px) 100vw, 638px"></a></p>
-<p>此外，律师会在百忙之中，看网上热点事件中，是否有众泽能做点什么的。比如爆出地铁性骚扰了，会给北京地铁运营方去信请求公开是否有地铁性骚扰防治措施。爆出幼女被性侵害家长网络维权了，会去留言努力寻找家长，希望能提供法律援助。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm.jpg" rel="attachment wp-att-427570"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm.jpg" alt="682d01cagw1f0j4tpq53aj20yi1daqfm" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm-210x300.jpg 210w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm-768x1097.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm-717x1024.jpg 717w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4tpq53aj20yi1daqfm.jpg 1242w" sizes="(max-width: 1242px) 100vw, 1242px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp.jpg" rel="attachment wp-att-427571"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp.jpg" alt="682d01cagw1f0j4v8qkcsj20yi16uwnp" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp-242x300.jpg 242w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp-768x954.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp-825x1024.jpg 825w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4v8qkcsj20yi16uwnp.jpg 1242w" sizes="(max-width: 1242px) 100vw, 1242px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467.jpg" rel="attachment wp-att-427573"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467.jpg" alt="682d01cagw1f0j4znf0j7j20y8173467" width="440" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467-238x300.jpg 238w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467-768x967.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467-813x1024.jpg 813w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4znf0j7j20y8173467.jpg 1232w" sizes="(max-width: 1232px) 100vw, 1232px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh.jpg" rel="attachment wp-att-427572"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh.jpg" alt="682d01cagw1f0j4yh5kfmj20c80hhgoh" width="440" height="629" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh-210x300.jpg 210w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4yh5kfmj20c80hhgoh.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<p>多年来众泽做的事情数不胜数！您不了解是因为您涉猎少，别怪众泽没干活！！！上面是我随意在微博跟网络搜到的，更多的官方网站有详细的记录。我把众泽官网附在本文最后面，第二个网站是其下属项目妇女观察·中国的官网，是双语的。每个月都发布免费电子刊物，每年还发年报，都是双语！！！官网可以下载，也有稳定的读者订阅群。一个NGO的年报能做成这样，你还要闹哪样？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73.jpg" rel="attachment wp-att-427569"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73.jpg" alt="682d01cagw1f0j4rwwhxyj20nm0dgq73" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73-300x171.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73-768x437.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4rwwhxyj20nm0dgq73.jpg 850w" sizes="(max-width: 850px) 100vw, 850px"></a><br>
-（妇女观察·中国，2010年年报，英文版）</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc.jpg" rel="attachment wp-att-427574"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc.jpg" alt="682d01cagw1f0j5s9dretj20y90nvjvc" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc-300x209.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc-768x535.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc-1024x713.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j5s9dretj20y90nvjvc.jpg 1233w" sizes="(max-width: 1233px) 100vw, 1233px"></a><br>
-（妇女观察·中国，官网，机构动态栏截图）</p>
-<p>这群人在尽全力让这个国家，尽可能的少一些伤害。让已经被伤害的人，能通过自己的努力，多一点活的希望。</p>
-<p><strong>3，用最少的钱，干了最多的事情</strong></p>
-<p>公益对接受帮助的人来说，是免费的蛋糕。但是，做公益并不是低成本的开支，其实非常费钱。大boss自己前后投入过几百万……尽管中心员工没有任何公款活动，比如聚餐，K歌，不曾浪费一丝捐款，但办公室可以简朴，房租得要钱吧？那么多案子，律师一年到头要跑很多个城市，交通费免不了吧？开研讨会、培训的 花销就更不用说了吧，场地钱，专家过来的费用都是成本吧？中心刊物是免费发行，印书得要钱吧？员工的工资，五险，官方网站的建设，服务器的购买也是钱吧？众泽在尽全力节省可以节省的开支。比如，法律这块最费钱的是律师费，因为员工的无私，已经省了太多。13年一个律师每月才4000块，报销少量电话费，五险无一金，所有福利就是中午若在单位包顿午饭，过年多发500块。这几年我想应该涨了点，毕竟帝都公共交通涨价了很多。不相信的看截图</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm.jpg" rel="attachment wp-att-427581"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm.jpg" alt="682d01cagw1f0j783q4daj20js03kdgm" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm-300x54.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j783q4daj20js03kdgm.jpg 712w" sizes="(max-width: 712px) 100vw, 712px"></a><br>
-（节选自南方周末09年的报道《郭建梅，你怎么还在做公益律师呀？》）</p>
-<p>要是你们觉得这个价格还高，您去商业律所看看，别拿律师助理来比，看看有多少从业多年的律师只有这样低的收入的。</p>
-<p>资料这块，翻译费贵，好在中心有过非常多的志愿者，大多毕业于北京知名高校，在海外求学。还有部分本就是外国人，留学在北京，对公益感兴趣，过来帮忙。这些无私的志愿者，承担了众泽绝大部分基础的翻译工作，流动性也很大。比较重要的文件，比如某些约的专家稿，众泽会付费给专业的翻译人士。</p>
-<p>这么多地方要花钱，钱从哪来？我也心寒过为什么没有国内的基金长期资助。黑子们，你们可曾慷慨解囊？</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g.jpg" rel="attachment wp-att-427575"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g.jpg" alt="682d01cagw1f0j6pdxhynj206z08vq3g" width="251" height="319" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g-236x300.jpg 236w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j6pdxhynj206z08vq3g.jpg 251w" sizes="(max-width: 251px) 100vw, 251px"></a><br>
-（截图来自众泽官网首页）</p>
-<p>事实上，除了少量的爱心人士和团体的捐款外，众泽会尽可能的多的申请对口的项目资金。比如联合国的，欧盟的，大使馆的，有名的海外基金会的，等等。国外资金的申请是相当严格的，程序也很繁琐，正是因为众泽的专业，相对低成本，和高产出，才能从众多的申请者中脱颖而出，成功申请到某些的项目资金。境外资助方对资金的监管是非常认真的，每一笔钱花到哪了都是需要非常详细的反馈。众泽每一笔账目，都会有各种存档，也都经得起查！打个比方，我当时非常头疼那些博大精深的菜名和餐馆名称如何翻译成英语，是的，除了基础的发票收据，出差每一顿饭吃了什么，什么价格，都要翻译过去，写错的地方对方会打国际长途过来跟我方会计核对的。如果不是众泽扎扎实实的干了那么多事情，不可能申请下来，申请下来了，也不可能持续这么长时间。那些阴谋论者，拜托你们自己去申请一个试试，看看是不是你以为的那么回事。众泽里面的人，忙案子忙调研忙讲座忙支持其他NGO工作都忙不过来，真没空去做间·谍，微博是律师兼职的，官网是行政人员兼职打理的，劳驾您去看两眼，会黑客的去入侵一下，看看有多少国家·机密从这泄漏出去了。说众泽为钱卖国沦为走狗的，挂着公益的羊头卖XX的，讲真，我也觉得这不是公益。放着送大钱来的案子不接，只接自己花钱去助人的案子，前大boss是带着一群人在做慈善！纯公益律师全国你看看能找出几个来？还说众泽在卖国的，您去搜搜boss一家都是什么人？全家都是公众人务，多少双眼睛盯着的，你当媒体都傻吗？</p>
-<p>不要问我为什么被歇业，明眼人都明白，您看不懂还要抹黑的事情，我说啥您也不会信。说不定您还觉得ayawawa的理论倍儿棒！她才真正为妇女谋福祉的人。前一阵有环保方面的NGO员工在某地被官方以嫖娼名义抓了，您看上去也肯定觉得这群NGO真坏，拿钱不干人事还嫖娼。现在众泽歇业了，我心寒又开心，心寒就不说了，开心她们这群人终于可以休息会了！大boss是个极其善良的人，因为做公益，后来患了抑郁症，反反复复多年，13年时还在做各种治疗，也不 清楚现在好些没。当年，我只是一个虾兵蟹将，参与李彦案讨论，看了她们拿回来的证据，就做了一个星期的噩梦，一边洗脑在热恋中的自己这辈子一个人过也挺好，一边恨不得能变成孙悟空，飞到牢里去把李彦换出来。我一个行政人员尚且如此，她们这些冲在最前线的人，要在案子里看那么多世态炎凉，案子外还有那么多方面要周旋，压力是可想而知的。</p>
-<p>众泽里面的员工，是对这篇土地爱得深沉的公民。我很幸运，20岁时，感受到了什么叫朗月清风，曾经瞻仰过这样一群人的风采。更愧疚，没有和他们并肩站到最后。你不曾了解，至少可以不抹黑!!!</p>
-<p>从不骂脏话，在心里面已经骂了某些黑子一万次。</p>
-<p>最后，如果身边有需要法律援助的案子，可以找北京市千千律所。会不会告别不收费的历史我不了解，但是这不是一个三无机构！！！！</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl.jpg" rel="attachment wp-att-427578"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl.jpg" alt="682d01cagw1f0j56ob22aj20yb093jtl" width="585" height="155" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl-300x79.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl-768x203.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl-1024x271.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j56ob22aj20yb093jtl.jpg 1235w" sizes="(max-width: 585px) 100vw, 585px"></a><br>
-这群人，是这个社会的良心啊！！！</p>
-<p><strong><em>友情链接</em></strong></p>
-<p>北京众泽妇女法律与咨询服务中心 官网<br>
-http://www.woman-legalaid.org.cn/</p>
-<p>下属项目，妇女观察·中国 官网<br>
-http://www.womenwatch-china.org/</p>
-<p>南方周末报道《郭建梅，你怎么还在做公益律师呀》<br>
-http://www.infzm.com/content/27285/0</p>
-<p>保定晚报报道《律师郭建梅与作家丈夫刘震云》<br>
-http://news.bdall.com/epaper/bdwb/html/2009-06/27/content_85112.htm</p>
-<p>更多的信息，大家随便搜索，遍地是。</p>
-<p>放一则16日的言论，共勉</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2.jpg" rel="attachment wp-att-427567"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2.jpg" alt="682d01cagw1f0j4lvz57yj20yi16fdp2" width="525" height="645" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2-244x300.jpg 244w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2-768x944.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2-833x1024.jpg 833w, http://chinadigitaltimes.net/chinese/files/2016/02/682d01cagw1f0j4lvz57yj20yi16fdp2.jpg 1242w" sizes="(max-width: 525px) 100vw, 525px"></a></p>
-<p>申明，我离职好几年了，跟前东家并无联络。本文所有截图来自网络，如有侵权，麻烦告知。侵删。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%89%8D%E4%B8%9C%E5%AE%B6%E4%BB%8A%E6%97%A5%E6%AD%87%E4%B8%9A%EF%BC%8C%E7%94%9F%E5%91%BD%E6%9A%82%E5%81%9C%E5%9C%A820%E5%B2%81%EF%BC%8C%E6%88%91%E6%98%AF%E6%9D%A5%E5%AE%89%E5%88%A9%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">公益组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E5%A6%87%E5%A5%B3/?category=18271" rel="tag">农村妇女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BC%97%E6%B3%BD%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">北京众泽妇女法律咨询服务中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AE%B6%E6%9A%B4/?category=18271" rel="tag">反家暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">妇女法律援助中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%AE%BF%E5%B9%BC%E5%A5%B3%E7%BD%AA/?category=18271" rel="tag">嫖宿幼女罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">家庭暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">郭建梅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -689,7 +693,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +703,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

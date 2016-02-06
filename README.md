@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/427795/" target="cdt-mirror">【立此存照】天津爆炸调查结果：只许看不许评</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1984174925/DguRc1opV" target="_blank">@h0uz1</a>：<a href="http://huati.weibo.com/k/%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83?from=501" target="_blank">#天津港爆炸事故调查报告公布#</a>千呼万唤始出来的调查报告，媒体与之相关的微博基本都是不能评论的状态（新华社除外）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw.jpg" rel="attachment wp-att-427796"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw.jpg" alt="76441b4djw1f0oxcw2yfvj20u09fhhdw" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw-768x8690.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva.jpg" rel="attachment wp-att-427797"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva.jpg" alt="76441b4djw1f0oxfbtpv1j20u09fyqva" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva-768x8702.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph.jpg" rel="attachment wp-att-427798"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph.jpg" alt="76441b4djw1f0oxlc0dr6j20u09fpnph" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph-768x8696.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf.jpg" rel="attachment wp-att-427799"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf.jpg" alt="76441b4djw1f0oxll14s3j20u09fpnpf" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf-768x8696.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt.jpg" rel="attachment wp-att-427800"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt.jpg" alt="76441b4djw1f0oxlxxhuej20u09fh4qt" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt-768x8690.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<h3><span><strong>然而即使@新华视点 有那一百多条评论，编者发稿时却是一个字都看不到：</strong></span></h3>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9.png" rel="attachment wp-att-427802"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9.png" alt="新华视点" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/新华视点-264x300.png 264w, http://chinadigitaltimes.net/chinese/files/2016/02/新华视点.png 602w" sizes="(max-width: 602px) 100vw, 602px"></a></p>
+<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/427795/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/2016%E5%B9%B4%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0bobs%E6%96%B0%E5%AA%92%E4%BD%93%E5%A4%A7%E8%B5%9B%E5%90%AF%E5%8A%A8/" target="cdt-mirror">2016年德国之声Bobs新媒体大赛启动</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0BOB2.jpg" rel="attachment wp-att-427791"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0BOB2.jpg" alt="德国之声BOB2" width="590" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/德国之声BOB2-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/德国之声BOB2-768x432.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/德国之声BOB2.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>德国之声第12次面向全世界的互联网作品颁发“Bobs新媒体奖”。专门奖励那些为维护言论自由、加强网络公民社会建设而努力的个人或组织。作为特别大奖，德国之声还会颁发“言论自由奖”。</p>
+<p>从2016年2月4日开始截止到3月3日，网友们可以登录Bobs的官方主页（<a href="https://thebobs.com/chinese/" target="_blank">https://thebobs.com/chinese/</a>），通过主页上的投票功能为2016年Bobs新媒体大赛的四个跨语种大奖和14个参赛语言的公众奖推荐获奖候选作品。Bobs是全球知名且备受推崇的“网络行动派”（Online Activism）大奖，它的独到之处在于参赛语言的多样性。</p>
+<p><b>“社会变革奖” (Social Change)</b></p>
+<p>奖励一个利用数字化手段推动社会变革的项目，比如说教育、推动平等、健康或环境领域的项目。</p>
+<p><b>“科技为善奖” (Tech for Good)</b></p>
+<p>网络文化的相关话题包括数据隐私保护和信息自由，以及积极推广自由创作的内容。所以，这一奖项所关注的重点为保护网络上的个人隐私、数据保护和安全</p>
+<p><b>“艺术文化奖” (Arts and Culture)</b></p>
+<p>奖励的是一个来自艺术和文化界的项目。该项目能够出色利用数字化的通讯方式，用艺术的手段诠释社会话题。</p>
+<p><b>“公民新闻奖” (Citizen Journalism)</b></p>
+<p>该奖用于奖励那些勇敢，创新的新闻项目。尤其是那些充分利用互联网的力量促进公民参与的网站。</p>
+<p>除此以外，今年德国之声领导层还将第二次颁发<b>“新闻自由奖”</b>。2015年，身陷囹圄的沙特博主巴达维（ Raif Badawi）是该奖的首位获奖者。</p>
+<p>德国之声主编 Gerda Meuer 女士表示：“跨越语言和文化的障碍，我们奖励那些有创新精神的人们。他们用勇敢的行动捍卫言语的自由和社会的公开。这种努力值得登上世界级的公众舆论舞台。”</p>
+<p><b>来自14个国家的14名国际评委挑选推荐作品</b></p>
+<p>推荐阶段结束后，一个来自14个国家的独立评委团将逐个评估网友推荐的作品，并从这些海量作品中（去年超过了4800项）挑选提名作品。德国之声将于3月31日公布提名作品名单，并于5月2日，也就是世界新闻自由日前一天在柏林宣布本次大赛的最终获奖者。</p>
+<p><b>全球网友决定公众奖花落谁家</b></p>
+<p>除了评委会评出的获奖者外，我们欢迎全世界的网友在3月31日到5月2日期间登陆<a href="http://thebobs.com/chinese/" target="_blank">thebobs.com/chinese/</a> 选出你们自己心目中的获奖者。在过去的时间里，我们一年之内最多收到了12万名网友的投票。</p>
+<p>2016年度Bobs新媒体大赛的颁奖仪式将于6月14日在波恩的德国之声全球媒体论坛（ Deutsche Welle Global Media Forum）上举行。</p>
+<p>在过去的几年中，Bobs新媒体大赛的获奖者包括Yoani Sánchez (古巴)、 Lina Ben Mhenni (突尼斯)、Ushahidi (肯尼亚)、 Sunlight Foundation (美国)、李承鹏 (中国)、 以及来自埃及的 Alaa Abd El-Fattah。</p>
+<p>本届Bobs新媒体大赛的媒体合作伙伴有：中国数字时代（China Digital Times）、Somewhere in、<a href="http://bdnews24.com/" target="_blank">bdnews24.com</a>、Banglatribune、Ifex、Global Voices、Waza、Satyagrah、Webdunia、Gooya、Hromadske TV、Novoye Vremya 和 Medyatava。</p>
+<p>官网：<a href="http://thebobs.com/" target="_blank">thebobs.com</a><br>
+脸书：<a href="http://facebook.com/dw.thebobs" target="_blank">facebook.com/dw.thebobs</a><br>
+推特：<a href="http://twitter.com/dw_thebobs" target="_blank">twitter.com/dw_thebobs</a> – #thebobs16</p>
+<p>全球媒体论坛官网：<a href="http://dw.com/gmf" target="_blank">dw.com/gmf</a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/2016%E5%B9%B4%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0bobs%E6%96%B0%E5%AA%92%E4%BD%93%E5%A4%A7%E8%B5%9B%E5%90%AF%E5%8A%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E5%8D%9A%E5%AE%A2/?category=18271" rel="tag">公民博客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%AC%E5%B8%83%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5/" target="cdt-mirror">自由亚洲｜中国国务院公布天津港爆炸事故调查报告</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg" rel="attachment wp-att-427787"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg" alt="图片：2015年8月16日，一名失踪消防员的家属手举亲人照片出现在天津爆炸事故新闻发布会场外。（AFP PHOTO）" width="585" height="390" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438-300x200.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg 622w" sizes="(max-width: 585px) 100vw, 585px"></a><p>图片：2015年8月16日，一名失踪消防员的家属手举亲人照片出现在天津爆炸事故新闻发布会场外。（AFP PHOTO）</p></div>
@@ -45,7 +98,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5/?category=18271" rel="tag">天津</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85/?category=18271" rel="tag">瑞海国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/" target="cdt-mirror">【图说天朝】为了国家 盗版有理</a>
 </h2>
@@ -625,47 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%AF%9B%E7%97%85%E6%9C%AA%E6%94%B9%EF%BC%8C%E7%A7%AF%E6%81%B6%E6%88%90%E4%B9%A0/" target="cdt-mirror">【河蟹档案】毛病未改，积恶成习</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%AB%A0%E8%AF%92%E5%92%8C">章诒和</a>：今天去花市买一盆水仙，门口贴上好友针对我写的春联：毛病未改（上联） 积恶成习（下联）横批：没治 报告网友：章诒和迎春活动准备完毕！<br><a href="https://freeweibo.com/weibo/3938354636689277" target="/weibo/393">2016年02月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">任志强</a>：教育的可怕在于从来不是开启人的独立思考能力，而是只告诉你死死记住敎课书上告诉你的答案。不需要你去探索，为什么是这个答案的结果？不需要知道原因和有其它答案的可能，并且用考分限制你只能死记这个标准答案。于是就可以用欺骗掩盖事实的真相，甚至任意编写历史，颠倒黑白。让人民生活在谎言之中。<br><a href="https://freeweibo.com/weibo/3937416089781815" target="/weibo/393">2016年01月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E9%B8%A3">张鸣</a>：当年赵高怎样实现指鹿为马的？利用信息屏蔽，让所有人都说鹿就是马，谁敢说不，就杀了谁，最后，皇帝就真的以为是自己错了，鹿才是马。这个绝技，一直到今天还有人在用。<br><a href="https://freeweibo.com/weibo/3936177423476275" target="/weibo/393">2016年01月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%97%E6%98%8C%E5%B9%B3">罗昌平</a>：正在认真学习一位省委书记对政法要员的训话<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-1.jpg" alt="罗昌平" width="564" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-1-300x195.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-1.jpg 722w" sizes="(max-width: 564px) 100vw, 564px"><br><a href="https://freeweibo.com/weibo/3937364420521398" target="/weibo/393">2016年01月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8D%97%E6%96%B9%E6%9F%B1%E5%AD%90%E6%95%B0">南方柱子数</a>：广州三君子案今天开庭宣判：唐荆陵5年、袁新亭3年半、王清营2年半。他们三个人，一个是律师，一个是编辑，一个是老师。都是温和善良，充满正义感的谦谦君子，如今被判，唐荆陵说他不上诉，他只向上帝和人民上诉。<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%94%90%E8%8D%86%E9%99%B5%EF%BC%9A%E4%B8%8D%E7%A0%B4%E6%A5%BC%E5%85%B0%E7%BB%88%E4%B8%8D%E8%BF%98/">唐荆陵：不破楼兰终不还–我只向人民和上帝上诉</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-3.jpg" alt="333" width="471" height="471" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-3-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-768x768.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/333-3.jpg 800w" sizes="(max-width: 471px) 100vw, 471px"><br><a href="https://freeweibo.com/weibo/3936615015641811" target="/weibo/393">2016年01月29日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E4%B8%89%E7%95%8F">何三畏</a>：你们都弄错了，赵家是这么来的<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-7.jpg" alt="赵家人" width="483" height="596" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-7-243x300.jpg 243w, http://chinadigitaltimes.net/chinese/files/2016/02/333-7.jpg 648w" sizes="(max-width: 483px) 100vw, 483px"><br><a href="https://freeweibo.com/weibo/3938396869028942" target="/weibo/393">2016年02月03日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%83%A1%E6%88%88">胡戈</a>：一条神秘消失的微博  <em>相关阅读｜《<a href="http://www.dw.com/zh/%E7%91%9E%E5%85%B8%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%BE%BE%E6%9E%97%E8%BF%94%E5%9B%9E%E5%AE%B6%E4%B9%A1/a-19006123">德国之声<em>｜</em>瑞典维权人士达林返回家乡</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-6.jpg" alt="彼得" width="423" height="752" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-6-768x1365.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-6-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/333-6.jpg 960w" sizes="(max-width: 423px) 100vw, 423px"><br><a href="https://freeweibo.com/weibo/3935574505518207" target="/weibo/393">2016年01月26日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E5%B1%B1%E5%A8%83">文山娃</a>：小粉红事件 update：团中央删帖了。炸裂！一次特大型宣传事故<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-4.jpg" alt="小粉红" width="393" height="697" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-4-169x300.jpg 169w, http://chinadigitaltimes.net/chinese/files/2016/02/333-4-577x1024.jpg 577w, http://chinadigitaltimes.net/chinese/files/2016/02/333-4.jpg 640w" sizes="(max-width: 393px) 100vw, 393px"><br><a href="https://freeweibo.com/weibo/3935687293812937" target="/weibo/393">2016年01月27日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%A2%81%E7%AB%8B">袁立</a>：有一群狗在我昨天写的抗战老兵的微博下狅犬。质疑老人年龄，与是否上过黄埔军校。你们也配，人家上战场时，你连颗精子都不是！一边呆着去。另外说政府对他们好了，发了5000慰问金。我想应该有吧，政策在变。但是很多老兵确实坐了几十年牢，确实孤独终老。我们晚辈，应该常去看看他们[微笑]少没大没小的  <em><em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E8%A2%81%E7%AB%8B">维基百科<em><em>｜袁立</em></em></a>》；《<a href="http://ent.163.com/16/0203/09/BET0EUH700031H2L.html">网易<em><em>｜</em></em>袁立遭恶评网友称想枪毙她 回应：我的心很凉</a>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-2.jpg" alt="赵家人" width="436" height="260" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-2-300x179.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-2.jpg 336w" sizes="(max-width: 436px) 100vw, 436px"><br><a href="https://freeweibo.com/weibo/3937278906630617" target="/weibo/393">2016年01月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%401%E5%8E%861%E9%98%B3%E5%85%89">1历1阳光</a>：<em><em>相关阅读｜《</em><a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%BD%A0%E5%A5%BD-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%A0%B8%E5%BF%83/">精读党报<em><em>｜</em></em>你好 习近平核心</a><em>》；《</em><a href="http://chinadigitaltimes.net/chinese/2016/01/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B9%A0%E6%A0%B8%E5%BF%83%E7%9A%84%E6%94%BF%E6%B2%BB%E6%8F%90%E6%B3%95%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F/">端传媒<em><em>｜</em></em>“习核心”的政治提法将成为主流吗？</a><em>》</em></em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333.jpg" alt="习近平" width="435" height="346" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-300x239.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-768x611.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-1024x814.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/333.jpg 1207w" sizes="(max-width: 435px) 100vw, 435px"><br><a href="https://freeweibo.com/weibo/3937458473471944" target="/weibo/393">2016年01月31日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8D%A3%E5%89%912001">荣剑2001</a>：这个讨厌的索罗斯来了，金融战是不是已经打响？今天股市又是暴跌，如果熔断机制不终止，今天铁定熔断！国家统计局局长王保安刚批完索罗斯，自己就被立案审查！做空中国的敌对势力究竟是来自境外还是来自队伍内部？去年党报言之凿凿，说四千点是牛市的起点，现在看来要直奔两千点了。究竟谁在做空中国？<br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-5.jpg" alt="股市" width="402" height="536" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-5-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/333-5-768x1024.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-5.jpg 960w" sizes="(max-width: 402px) 100vw, 402px"><br><a href="https://freeweibo.com/weibo/3935677416912867" target="/weibo/393">2016年01月26日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%AF%9B%E7%97%85%E6%9C%AA%E6%94%B9%EF%BC%8C%E7%A7%AF%E6%81%B6%E6%88%90%E4%B9%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%BB%E6%AF%9B/?category=18271" rel="tag">去毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">央视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E4%B8%89%E5%90%9B%E5%AD%90/?category=18271" rel="tag">广州三君子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%B8%A3/?category=18271" rel="tag">张鸣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%BC%E5%BE%97/?category=18271" rel="tag">彼得</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%98%E9%87%91%E7%8E%B2/?category=18271" rel="tag">潘金玲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/?category=18271" rel="tag">独立思考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%B8%85%E8%90%A5/?category=18271" rel="tag">王清营</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E8%AF%92%E5%92%8C/?category=18271" rel="tag">章诒和</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">罗昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E6%96%B0%E4%BA%AD/?category=18271" rel="tag">袁新亭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E7%AB%8B/?category=18271" rel="tag">袁立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9A%84%E5%99%A9%E6%A2%A6-%E8%90%A8%E6%8B%89%E8%8F%B2%E6%B4%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B4%E8%B5%B7/" target="cdt-mirror">万维读者网｜北京的噩梦——萨拉菲派在中国兴起</a>
-</h2>
-<p><p><strong>万维读者网（Creaders.net）记者江夏编译报道：</strong>美国《洛杉矶时报》日前发表驻北京记者凯曼（Jonathan Kaiman）的文章说，甘肃临夏250,000人口中，约六成是穆斯林。但其中除了主流穆斯林外，还有萨拉菲派信徒。</p>
-<p>萨拉菲派是逊尼派穆斯林中极端保守的原教旨教派，要求遵从公元6世纪先知穆罕默德在世时的生活和祈祷方式。恐怖组织伊斯兰国的激进武装分子，以及许多沙特阿拉伯人都是萨拉菲派。临夏的许多中国穆斯林也是萨拉菲派，他们戴着沙特式的头巾，在自己的清真寺祈祷。萨拉菲运动在当地的发展，使无神论的共产党政府官员慌乱。</p>
-<p>中国公众越来越把伊斯兰教和恐怖主义联系在一起。许多中国穆斯林也把萨拉菲派视为无法融入主流社会的盲目狂热分子。近几年来，当局一直监视萨拉菲派，关闭了几所萨拉菲派宗教学校，拘捕了一位著名的萨拉菲派教士。临夏当地人说，萨拉菲派和其他穆斯林在城内相处不错，但在传统根深蒂固的农村，信仰上的分歧造成严重的社会分化。</p>
-<table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td></td>
-</tr></tbody></table><p>虽然许多中国萨拉菲派信徒公开反对暴力，对政治也没有兴趣，但他们和国家的关系趋于紧张。许多当地人要求匿名谈论这个敏感的话题，因为他们“没有平等权利”。中国萨拉菲派的人数难以估计，大约从数千人至数万人不等。专家们和临夏穆斯林都同意，萨拉菲运动正在中国和世界范围内发展。影响所及，最近四五年开始有汉族青年皈依激进、保守的伊斯兰意识形态。他们政治上并不激进，但极端保守、正统。</p>
-<p>中国穆斯林包括维吾尔族和回族两大族群，前者聚居新疆，后者分布全国各地。专家们说，萨拉菲派在两大族群中都有传播。如云南省边陲的沙甸镇，就是萨拉菲派的大本营。去年9月，云南省发出14号文件，誓言对省内的阿拉伯语和伊斯兰学校“加强管理”。北京的阿拉伯语学者说，当局已经关闭了沙甸的许多萨拉菲派宗教学校。政府认为，这一教派打破中国穆斯林社区不同集团之间的平衡，因而极端危险。</p>
-<p>2015年底，海外中文媒体报道说，新疆当局曾经在兰州拘留了一位有影响的萨拉菲派阿訇，及他的一名维吾尔族学生。27天后阿訇被释放。这次事件显示问题严重，新疆的麻烦正在向甘肃和青海蔓延。萨拉菲派教义约在一个世纪前传到中国。1960至1970年代，毛泽东的反宗教运动迫使萨拉菲派转入地下。毛死文革结束，1980至1990年代萨拉菲派死灰复燃。</p>
-<p>1984年，北京允许穆斯林个人赴麦加朝圣。1990年代，每年约有10,000名回族穆斯林前往麦加，其中一些人在沙特学习了萨拉菲派教义，对其“纯洁”的伊斯兰精神着迷，回到中国后便在家中传授萨拉菲派思想。与此同时，沙特阿拉伯传道人和组织开始抵达中国。他们培训教士，出资兴建新的伊斯兰学校和清真寺。受到沙特影响的新一代，开始和老一代发生争论。中国穆斯林社区相互指责对方不是真正的穆斯林。</p>
-<p>北京把外国宗教看作威胁。中国的萨拉菲派信徒受到沙特帮助，令官员们和其他中国穆斯林团体担忧。沙特是世界第二大产油国，中国与沙特的关系从未有任何明显的挫折。香港中文大学的伊斯兰教专家弗兰克尔（James Frankel）说，北京过去在某种程度上对沙特资助萨拉菲派故意视而不见，但现在情况可能改变，因为北京害怕极端主义。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%9A%84%E5%99%A9%E6%A2%A6-%E8%90%A8%E6%8B%89%E8%8F%B2%E6%B4%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B4%E8%B5%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0/?category=18271" rel="tag">伊斯兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99/?category=18271" rel="tag">伊斯兰教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%A8%E6%8B%89%E8%8F%B2%E6%B4%BE/?category=18271" rel="tag">萨拉菲派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -677,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -687,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%E8%AE%A9%E4%BA%BA%E6%88%98%E6%A0%97/" target="cdt-mirror">世界日报｜令完成的杀伤力让人战栗</a>
+</h2>
+<p><p>经常披露美国情报界权威消息的「华盛顿自由灯塔」 (Washington Free Beacon) 网站 3 日爆料，指落马的前中国全国政协副主席令计划之弟令完成，带有令计划获取的 2700 份内部文件，包括中国核武管控系统和中南海内部细节等情报，去年秋天开始披露给美方。消息如属实，令完成将成「纽约时报」所言，成为 65 年来「对中国最具破坏力的叛逃者」，称他为「中国版史诺登」毫不为过。由于北京一直通过或明或暗手段，欲把令完成弄回国处置，未来数月美方查证令完成提供情报的真实性后，可能决定他是否受美国保护终老美国，或被引渡回中国。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/k6a.jpg" alt="k6a" width="549" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/k6a-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/k6a.jpg 640w" sizes="(max-width: 549px) 100vw, 549px"><br>
+令计划是中共十八大以来被调查的第二位在职副国级领导人</p>
+<p>去年 7 月令计划被中共正式宣布落马查办前，令完成就逃到美国，他是否携带中共机密、机密属什么层级、是否向美国情报机构提供、影响中美竞争多大等，一直被外界关注。而中共给曾担任中共中央办公厅主任的令计划所列罪名之一，是「违纪违法获取党和国家大量核心机密」，更加深外界对令计划为求自保，把机密情报交给令完成带到美国的可信度。</p>
+<p>令计划保留情报自保，自然得有一定重要性和杀伤力，才能达到挟制和威胁效果。而外界对令完成握有什么机密，有各种说法：</p>
+<p>一为「八卦说」：指他握有令计划透过原国安部部副部长马建秘密录制的中共高层淫乱视频，若泄漏将严重打击中共领导人形象。</p>
+<p>二为「秘辛说」：指他的情报可望揭开高层权斗黑幕，尤其中共 18 大前权力交接出现腥风血雨斗争，包括周永康、薄熙来、徐才厚、郭伯雄落马内幕等；也有人说，情报涉及中国领导人在海外不法财产等资料。</p>
+<p>三为「战略说」：可让外界管窥中共数十年来对外经济和军事扩张的战略图谋。这些猜测都有一定合理性，美方或都感兴趣。</p>
+<p>如今新爆出「核武密码说」和「中南海蓝图说」，指情报包括中国核武机密，如准备核武所采取的步骤、发动核武攻击所用代码；其他还包含中国领导阶层、国务院和中央军委所用蓝图、指令、管控讯息，以及中南海安全秘密和通讯代码等。这些信息如被美方掌握，或有助美国对中共领导人进行网路电子情报活动。但其真实性如何，却令人质疑。</p>
+<p>着有《捕杀令完成》一书的作家金安国就认为，令完成手中的撒手 _ ，更多的应是中共高层的关系与隐私，说他掌握中国核武机密不可信，因为令计划和令完成过去几十年间，并未介入中国军队封闭体系的事务，即使当时军委主席胡锦涛，头衔也只是名义上，并未真正掌握军权；令计划更被排斥在军队事务之外，何从掌握绝密情报。</p>
+<p>再者，我们从常识判断，所谓核武密码、指令等虽属绝密，但都可修改。如有泄漏之虞，早就修改应变补救，情报价值并非永久性，甚至毫无价值。</p>
+<p>过去一年多，北京当局把抓捕令完成当作反贪和国家安全头号任务，派出大量间谍来美，使用恐吓、威胁手段试图让令完成就范，以致美方透过主流媒体公开警告北京节制，要求中共特工立即离境。中共还派出政法委书记、国安会秘书长孟建柱和公安部长郭声琨到美国要人，甚至答应愿接受被美国准备递解的 2 万多名中国经济难民作为交换条件。</p>
+<p>中美之间无引渡条约，中国欲引渡令完成并不容易。北京努力提供令完成的刑事犯罪证据，要求美国遣返他。去年迄今，多家媒体报导中国证监会投资者保护局前局长李量落马，以及他与令完成控制的私募基金汇金立方的不法关系；至少还有三名落马者与令完成有关联。这些铺陈都在定性令完成涉及贪腐罪，违反中国刑法，是刑事罪犯，以利美国遣返他。中国官员上月首次公开承认，正就令完成案与美国「沟通」。现在看来，努力似已失败。</p>
+<p>美中的认知南辕北辙，美方必然考量令完成情报的价值和可信度，加以运用。如令完成能提供可信情报，美国找理由千方百计保护他，应不难想像。何况令完成在令计划案发前就已入境美国、定居、置业。「纽约时报」去年披露，令完成已向美方申请政治庇护。依程序，他只需一至三年就可获得永久居留权，合法留在美国。</p>
+<p>这场中美之间意外的情报战，有如史诺登案的另一版本，这是「一报还一报」。而以当前两个强权间各方面激烈较劲，益增事件复杂度。至于令完成的情报对中国杀伤力有多大，真相恐须若干年解密后，外界才能得知。惟此例一开，今后中共高层存异心者都可仿效此模式自保，这是北京的棘手头疼难题。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%E8%AE%A9%E4%BA%BA%E6%88%98%E6%A0%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8D%E5%A4%A7%E6%88%98%E6%97%A5%E8%B6%8B/" target="cdt-mirror">苹果日报｜李平：习近平江泽民「核心」大战日趋激烈</a>
+</h2>
+<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/k6b.jpg" alt="k6b" width="298" height="354"><br>
+猴年到来之际，中国政坛突然爆发「核心」风暴。内地 31 个省分中，至昨日已有 21 个宣示「坚决维护习近平总书记这个核心」或强调「要切实增强核心意识、看齐意识」，隐隐告别了上一个领导核心江泽民。然而，江派不可能坐以待毙，其在金融系统、政法系统、宣传系统的潜在势力必定会反击，「核心」战的冲击将继续浮现，香港难免受拖累，从风月小说《习近平与他的情人们》引发的风暴可窥一斑。</p>
+<p>习近平江泽民生死斗，一场终极大战在所难免</p>
+<p>中共最高领导人与党中央的关系，早年的表述是「为首」，包括「以毛（泽东）主席为首的党中央」、「以华（国锋）主席为首的党中央」。但 1989 年六四事件后，邓小平宣称任何一个领导集体都要有一个核心，并追封毛泽东为第一代核心、自封为第二代核心、御赐江泽民为第三代核心。从「为首」变「核心」，主要是因为邓小平未曾担任中共中央总书记这一党内最高职务，礼宾名单先后以总书记胡耀邦、赵紫阳为首，而垂帘听政的邓小平只能排在总书记之后。</p>
+<p>胡锦涛虽是邓小平钦点的第四代领导人，但主政十年都未能获封核心，不只因为受到江泽民的压制，天无二日、国无二主，江派不容许有两个核心同时存在，也因为胡锦涛的确未能实际掌控党政军大权，「政令不出中南海」问题日益严重，军权更被中央军委两个副主席郭伯雄、徐才厚架空。由此可见，习近平如果能正名「核心」，不只是党内历史地位将超越胡锦涛，更是江派势力受到全面压制的标志。</p>
+<p>核心之争攸关派系权利</p>
+<p>外界关注到，在这波核心战中，海南、江苏、湖北等江派诸侯，也不能不喊出「坚决维护习近平总书记这个核心」的口号。他们是否真心转 _ 、改为效忠习近平并不重要，重要的是习近平晋位核心的大势已成，江派不会放弃抵抗，但只能做「地下工作」。</p>
+<p>当然，习近平届时是否称为中共第五代领导核心不无疑问，因为习近平、张德江等公开讲话从未把胡锦涛、温家宝称为第四代领导，中共党内也有人质疑领导层的断代以主政十年为一代未免太短。胡锦涛或许会与华国锋一样成为过渡性人物，而非自成一代。</p>
+<p>尤应指出的是，核心之争并非只是历史名分之争，更与派系、家族的现实权力、利益攸关。习近平主政后一直以反贪名义整肃政治对手，但上月出版的《习近平关于严明党的纪律和规矩论述摘编》披露，习近平曾在中纪委会议上，炮轰有些人「为了一己私利或者小团体的利益，背着党组织搞政治阴谋活动，搞破坏分裂党的政治勾当」。此举显示，习近平主政三年终宣称形成「反腐败斗争压倒性态势」，不再掩饰中共高层面临分裂、政变的危机。<br>
+风月小说更让港府难堪</p>
+<p>但是，江泽民主政十三年，加上垂帘听政多年，在政法、金融、宣传系统的势力树大根深，这些部门迄今乱象不止，跨境绑架、股灾、小粉红翻墙斗台独等闹剧频频演出，官方传媒还不时火上加油，让习近平形象、权威受损，很难不被归纳为江派的反扑，香港所受的拖累也日益严重。</p>
+<p>2012 年香港特首选举出现泥浆战，是中共高层权斗的延伸。如果习近平、江泽民的核心战能在今年秋天的中共十八届六中全会斗出结果，让习近平晋位核心，中国的政经乱象或能稍为平息。如果核心战持续到 2017 年举行的中共十九大，那么，明年香港特首选战难免再出现亲共人士的混战。参选的政客为了讨好中共主子，自然不会理会港人所思所想，梁振英的一带一路施政报告就是一种示范。</p>
+<p>至于《习近平与他的情人们》与其说是传记，不如说是风月小说，但竟演出铜锣湾书店五人被绑架大戏，可能是习近平太无气量，也可能是有人要让习近平难堪，但更难堪、更不堪的是梁振英政府一众官员，面对港人免于恐惧的自由被剥夺时，他们维护的只是习核心或江核心的权威，放弃的是香港的人权和法治。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/fffak6b-150x150.jpg" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8D%E5%A4%A7%E6%88%98%E6%97%A5%E8%B6%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9C%B0%E9%9C%87%E9%87%8D%E5%88%9B%E5%8F%B0%E6%B9%BE-%E5%B7%B27%E6%AD%BB300%E5%A4%9A%E4%BC%A4/" target="cdt-mirror">德国之声｜地震重创台湾 已7死300多伤</a>
 </h2>
 <p><p><strong>台湾南部周六凌晨发生里氏6.4级地震，引发多地大楼倾斜或倒塌。截至目前已造成至少7人死亡，超过300人受伤。强震造成的停水、停电导致全台数十万万用户生活受困。</strong></p>
@@ -656,66 +709,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%B7%E6%B8%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%A7%8D%E8%8A%B1%E5%AE%B6%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%8C%E8%83%BD%E5%8F%AB%E6%8A%84%E4%B9%88/" target="cdt-mirror">【立此存照】种花家的正能量，能叫抄么？</a>
-</h2>
-<p><blockquote><p><a href="http://www.weibo.com/1560906700/DfSORoAqv" target="_blank">@阑夕</a>：请简述图一、图二和图三的血缘关系。（扒自 <a href="http://weibo.com/zhanzhengshiyanjiu" target="_blank">@战争史研究WH</a> ）</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk.jpg" rel="attachment wp-att-427667"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk.jpg" alt="5d098bccgw1f0k9n9lqnxj20dw0dodhk" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk-300x295.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9n9lqnxj20dw0dodhk.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7.jpg" rel="attachment wp-att-427666"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7.jpg" alt="5d098bccgw1f0k9nb97cwj20hs0qoth7" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nb97cwj20hs0qoth7.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd.jpg" rel="attachment wp-att-427665"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd.jpg" alt="5d098bccgw1f0k9nls8vxj20c80wm0vd" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd-384x1024.jpg 384w, http://chinadigitaltimes.net/chinese/files/2016/02/5d098bccgw1f0k9nls8vxj20c80wm0vd.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p>
-<blockquote><p><a href="http://weibo.com/3937348351/DfRMJ0Tgz">@共青团中央</a>：其实真相是，最可爱的人在看不到地方守护我们。<img title="[心]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" alt="[心]">（小兔子H4）</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE.png" rel="attachment wp-att-427671"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE.png" alt="共青团中央" width="350" height="832" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/共青团中央-431x1024.png 431w, http://chinadigitaltimes.net/chinese/files/2016/02/共青团中央.png 605w" sizes="(max-width: 350px) 100vw, 350px"></a></p>
-<blockquote><p>相关阅读：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%85%94%E6%9D%82%E7%9A%84%E6%84%8F%E6%B7%AB%E4%B8%8E%E7%8E%B0%E5%AE%9E/" target="_blank">F-223244：兔粉的意淫与现实</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92-2/">变态辣椒：To 共青团</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/guqiewangtan" target="_blank">@姑且妄谈</a>：爱国的抄袭那不能算抄袭<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p>@_南Pile三森:共青团中央便涨红了脸，额上的青筋条条绽出：“借鉴不能算抄……借鉴！这爱国者的事……能算抄么？”</p>
-<p>@坂本同學提不起勁: 接着便是难懂的话，什么“我兔腹黑”，什么“星辰大海”之类的，引得众人都哄笑起来，微博上充满了欢乐的气氛</p>
-<p>@战争史研究WHS: 图三下面那半截是画蛇添足的败笔。想营造图2的视觉冲击效果，但光线、姿势等等全都是硬伤。第一眼看成了上面党旗保护罩后面的兔子在抵抗下面的食尸鬼或者僵尸</p>
-<p>@PatrickWong-：将众多个体做出的贡献归于自己麾下，使自己统治地位显得伟大光荣，且不许任何的质疑出现。</p>
-<p>@高Way：图二，下面换成大陆屁民，上面是赵家人。</p>
-<p>@Crazybee_：事实上，砸到头的石头是盾牌后的某些兔子丢的。。</p>
-<p>@水兽登革热：@共青团中央 抄袭国外的图片忽悠小朋友敌视国外是吧！</p>
-<p><strong>【编者注】</strong>这组耶稣漫画多年来在网络上流传甚广，许多基督教主题的网站／博客内都能检索到类似的内容，并有多个语言版本。比如以下这个韩文版（<a href="http://monic79.blogspot.com/2011/01/i-look-up-to-mountains-does-my-help.html" target="_blank">来源</a>）：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1.jpg" rel="attachment wp-att-427669"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1.jpg" alt="LordProtectMe-Part1" width="550" height="352" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1-300x192.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1-768x492.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part1.jpg 866w" sizes="(max-width: 550px) 100vw, 550px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2.jpg" rel="attachment wp-att-427668"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2.jpg" alt="LordProtectMe-Part2" width="260" height="400" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2-195x300.jpg 195w, http://chinadigitaltimes.net/chinese/files/2016/02/LordProtectMe-Part2.jpg 260w" sizes="(max-width: 260px) 100vw, 260px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%A7%8D%E8%8A%B1%E5%AE%B6%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%8C%E8%83%BD%E5%8F%AB%E6%8A%84%E4%B9%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%94%E7%B2%89/?category=18271" rel="tag">兔粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A3%E5%B9%B4%E9%82%A3%E5%85%94/?category=18271" rel="tag">那年那兔</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E7%AA%832700%E6%96%87%E4%BB%B6%E4%BA%A4%E4%BB%A4%E5%AE%8C%E6%88%90-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%90%91/" target="cdt-mirror">南华早报 | 令计划窃大量文件交令完成 令完成向美披露机密</a>
-</h2>
-<p><p>原标题：美媒：令计划窃2700文件交令完成 令完成向美披露核武等机密</p>
-<p><strong>美方官员称，令完成保管这些文件，并获得指令，如果令计划被捕，他就要将这些文件交给美国当局。</strong></p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/82b66739-49c1-431f-ae9f-e1ff89da7607.jpg" alt="" width="550" height="396" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/82b66739-49c1-431f-ae9f-e1ff89da7607-300x216.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/82b66739-49c1-431f-ae9f-e1ff89da7607.jpg 580w" sizes="(max-width: 550px) 100vw, 550px"><p>令完成（左）</p></div>
-<p>（南早中文网讯）美国《华盛顿自由灯塔报》（Washington Free Beacon）当地时间2月3日发表报道，引述美国情报官员称，逃到美国的令完成带有令计划从中办获得的超过2700份内部文件，令完成自去年秋天开始向美方披露一些中国核心机密，包括核武管控系统和中南海内部的细节。</p>
-<p>令完成是已落马的中国全国政协原副主席令计划的弟弟。令计划在去年7月被开除党籍和公职并移送司法。</p>
-<p>北京时间2015年8月3日深夜，《纽约时报》发表独家报道，引述多名知情人士称，令完成已逃到美国，如他寻求政治庇护，或将成为65年来，对中国最具破坏力的叛逃者，报道指令完成可能掌握有关中共领导层及其亲信的信息，而这些信息“令人不安”。</p>
-<p>2015年9月，中国国家主席习近平国事访美前，中央政法委书记孟建柱“打前哨”，赴美与美国国务卿克里等人会面。消息人士向《南华早报》透露，其中一项重要议题是要求美方遣返令完成，以及神秘富商郭文贵。但美方对此不置可否。</p>
-<p>今年1月15日，十八届中纪委第六次全会精神发布会上，中纪委国际合作局局长刘建超就路透社有关令完成调查的提问表示：“关于令完成这件事情，中方正在处理，也在和美国进行沟通”。</p>
-<p>上周，美国国务卿克里访华，与中国国务委员杨洁篪会谈，讨论了有关执法、追逃、追赃等问题。美国国务院的一名官员表示，会面中未谈及令完成案。</p>
-<p>《华盛顿自由灯塔报》当地时间2月3日清晨发表的报道指，从去年秋季开始，令完成一直在美国某个秘密地点，与美国联邦调查局（FBI）和中央情报局（CIA），以及其他情报官员进行报告。有传令完成是中国卧底特工追捕乃至追杀的对象。</p>
-<p>报道指，令完成披露的信息，包括中国领导人启动核武的程序细节，比如为攻击行动而准备核武所需采取的步骤，以及发动核武所用的代码。</p>
-<p>其他机密则包括中国领导层，以及他们所用的设施，如中南海等的细节。有关信息据报对美国的间谍有利，尤其是对以神秘的中国最高领导层为目标的网络情报行动人员而言。</p>
-<p>《华盛顿自由灯塔报》称，白宫、FBI、CIA和国土安全部的发言人都拒绝就案件置评。</p>
-<p>多名美国官员向《华盛顿自由灯塔报》表示，美国情报部门发现中国秘密特工在美国追踪中国政府追缉的逃犯之后，就将令完成至于严格的安保之下。</p>
-<p>报道指，曾担任中办主任的令计划，于2012年7月被撤换之后的一个月内，从中办秘密获得了超过2700份内部文件，令计划将这些文件给了令完成，这些文件是让中国当局不要动令计划的“保险”。</p>
-<p>美方官员称，令完成保管这些文件，并获得指令，如果令计划被捕，他就要将这些文件交给美国当局。</p>
-<p>去年7月20日深夜，新华社发布消息，令计划被开除党籍和公职，其涉嫌犯罪问题被移送司法。最高检旋即宣布，依法对令计划以涉嫌受贿罪立案侦查，并予以逮捕。</p>
-<p>在对令计划住所的调查中，中国当局发现，2700份秘密文件都被复印了，大部分都是2012年9月之后复印的，当时令计划被调任为中央统战部部长。</p>
-<p>《华盛顿自由灯塔报》报道指，文件中的机密包括中南海内所用的安全秘密和通讯代码、中共领导层、国务院和中央军委所用的蓝图、指令和管控信息等。中共领导和解放军领导启动核武的程序也被泄露。</p>
-<p>报道引述其他官员称，令完成是在2015年夏季逃到美国的，如果在未来几个月的报告中，令完成被确认叛逃身份，他能向美国提供的信息，或是超过30年来，美国从中国叛逃者中得到的最有价值的。</p>
-<p>一名高级官员向该报表示：“这是一笔情报上的意外之财。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5-%E7%BE%8E%E5%AA%92%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E7%AA%832700%E6%96%87%E4%BB%B6%E4%BA%A4%E4%BB%A4%E5%AE%8C%E6%88%90-%E4%BB%A4%E5%AE%8C%E6%88%90%E5%90%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E5%9B%BD/?category=18271" rel="tag">卖国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%9B%E9%80%83/?category=18271" rel="tag">叛逃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%81%BF%E9%9A%BE/?category=18271" rel="tag">政治避难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E6%96%87%E4%BB%B6/?category=18271" rel="tag">秘密文件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -727,7 +720,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -737,5 +730,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

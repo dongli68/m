@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,158 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9C%B0%E9%9C%87%E9%87%8D%E5%88%9B%E5%8F%B0%E6%B9%BE-%E5%B7%B27%E6%AD%BB300%E5%A4%9A%E4%BC%A4/" target="cdt-mirror">德国之声｜地震重创台湾 已7死300多伤</a>
+</h2>
+<p><p><strong>台湾南部周六凌晨发生里氏6.4级地震，引发多地大楼倾斜或倒塌。截至目前已造成至少7人死亡，超过300人受伤。强震造成的停水、停电导致全台数十万万用户生活受困。</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300.jpg" rel="attachment wp-att-427853"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300.jpg" alt="0,,19030308_303,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
+<p>（德国之声中文网）2月6日凌晨3点57分，地震将熟睡中的台湾人唤醒。据台湾中央气象局报告，此次6.4级地震的震中发生在高雄市美浓区，震源深度16.7公里。包括屏东、台南、新竹、台北都出现剧烈摇晃。</p>
+<p>受灾最严重的台南市多地大楼发生大楼倾斜，甚至倒塌，其中包括永康区一栋17层大楼。</p>
+<p>据当地消防局报告，地震发生后已派出大批救援人员参与救助。截至发稿前，大楼内仍有用户受困。</p>
+<p>中央社公布的数据显示，截至当地时间6日中午，地震造成至少7人死亡，358人受伤，8栋房屋全部倒塌。</p>
+<p>地震造成受灾地区部分管线设备受损。据台南当局初步估计，受影响用户达40万，全台累计停电户增加至17万用户，目前仍有6000户停电。</p>
+<p>台湾中央气象局地震测报中心主任郭铠纹周六表示，高雄市美浓区发生里氏规模6.4级地震，属于旗山断层错动引起，释放的能量相当于2颗原子弹。台南新化摇晃时间长达8秒。</p>
+<p>据台南市政府消防局信息显示，目前已经救出224人，派出300多名消防及救援人员。</p>
+<p>就在这起地震前的2月2日晚，台湾东北部海域就曾发生里氏6.8级地震，据台湾中央气象局报告，震中在基隆东方185公里处，地震深度213公里。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100.jpg" rel="attachment wp-att-427854"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100.jpg" alt="0,,19030285_401,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
+<p>另据中国媒体报道，台湾的这次地震令居住在厦门、福州、泉州、莆田以及广东一带的居民均有震感。其中多地网友表示震感强烈。</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9C%B0%E9%9C%87%E9%87%8D%E5%88%9B%E5%8F%B0%E6%B9%BE-%E5%B7%B27%E6%AD%BB300%E5%A4%9A%E4%BC%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">台湾地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">自然灾害</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%93%81%E7%8E%A9-%E6%89%93%E5%87%BB%E7%9B%97%E7%89%88%E6%88%91%E4%BB%AC%E9%83%BD%E8%A7%81%E8%BF%87-%E9%82%A3%E4%B9%88%E6%89%93%E5%87%BB%E6%AD%A3%E7%89%88%E7%9A%84%E4%BA%BA/" target="cdt-mirror">品玩 | 打击盗版我们都见过 那么“打击正版”的人呢</a>
+</h2>
+<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/">【图说天朝】为了国家 盗版有理</a></p></blockquote>
+<p>一直以来，在中国讨论数字内容盗版问题都是件很头疼的事。</p>
+<p>一方面因为中国数字消费内容产业本身的发展就不标准化，很多进口优秀内容没有正版渠道进入中国，想消费正版也消费不到；另一方面则是因为部分领域消费盗版依旧太过容易，盗版内容本身的价格低廉，消费和传播盗版（可能）受到的财产处罚几乎为零。</p>
+<p>很多人倡导正版，为正版的软件、游戏和电影电视剧按件、按点播或按订阅付费，还向身边的人推广这种做法，并为此深深地感到自豪——这是一件很好的，喜闻乐见的事，在我看来怎么自豪都不为过。</p>
+<p>也肯定有不少人，由于他们的认知、经济能力等主客观因素，仍然在使用盗版软件。哪怕你用盗版来谋取商业利益（之前就有传出过国内知名科技公司使用盗版的 iOS 开发套件开发软件的）。在中国数字内容正版化的法律、行政和市场现状下，只要不公开大喊什么“就当帮你传播了”、“一首破歌听你是给你脸了”这种“传播即正义”的鬼话，恐怕也没什么人会找你麻烦。</p>
+<hr><p>近日，日本游戏开发商光荣公司向在中国游戏圈颇具影响力的游戏破解论坛 3DMGAME 发律师函，要求后者在其在网站上下架由后者开发的《三国志 13》破解补丁。3DMGAME 创始人宿菲菲（以下分别简称 3DM、鸟姐）随后<a href="http://weibo.com/1957183442/DghZWBIMb?from=page_1005051957183442_profile&wvr=6&mod=weibotime" target="_blank">宣布</a>，从新年开始 3DM 内部将不再进行单机游戏的破解工作；对非 3DM 破解的游戏补丁还会积极在自家论坛上发布；3DM 的汉化工作仍会进行。之后她又做出<a href="http://weibo.com/1957183442/DgpoLCkCu?from=page_1005051957183442_profile&wvr=6&mod=weibotime" target="_blank">最终解释</a>，称 3DM 将停止对 Denuvo 加密破解的研究，并且将内部开发针对正版游戏激活码的交易平台。</p>
+<p>根据鸟姐在微博上的描述，她做出这个决定的原因，在于想要看一下这样做会不会在一年后导致正版销量增长，为市场正版化做出贡献。</p>
+<p>考虑到 3DM 是国内乃至全球破解游戏发布量最大的破解机构之一，3DM 的这个举措意味着盗版玩家在 2016 年能够玩到的破解游戏将数量上大幅缩减。这些玩家愤怒了。紧接着，<a href="http://weibo.com/1620767105/DgpD4q3ZW" target="_blank">这样的事情</a>就发生了：</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-1.jpg" alt="3dm-game-1" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-1-300x129.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-1.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></p>
+<p>在这张图中，这位 3DM 网名为 deavee 的用户先是对正版玩家表达了势不两立的态度，接着开始号召其他用户对正版游戏发起报复措施：向中国官方机构举报另一个正版游戏下载/对战平台 STEAM 的中国区。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-5.jpg" alt="3dm-game-5" width="450" height="405" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-5-300x270.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-5.jpg 645w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-4.jpg" alt="3dm-game-4" width="450" height="389" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-4-300x259.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-4.jpg 750w" sizes="(max-width: 450px) 100vw, 450px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-3.jpg" alt="3dm-game-3" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-3-300x162.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-3.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></p>
+<p>在接下来的几张图中，这位网民详细介绍了怎样在相关的举报网站填写表格。所提到的网站包括公安部网络安全保卫局管理的<a href="http://www.cyberpolice.cn/wfjb/" target="_blank">网络违法犯罪举报网站</a>，以及中华人民共和国文化部所管理的 12318 全国文化市场举报平台。</p>
+<p>上述举报的截图显示，deavee 在 2 月 5 日上午 11 时左右提交了这些举报。由于截图中隐去了举报的查询码，尚无法确认这些举报的处理情况如何。是否有其他用户按照他的指导提交了类似的举报，目前也无法确认。</p>
+<p>玩不了盗版，就向正版游戏玩家施展报复，还美其名曰以“爱我中华”举报了所谓的“违法”网站和游戏服务——暂且不论这种魔幻现实主义外加犬儒主义的行为有多么可耻和可笑。从这种缺乏基本智识的行为中，我们又能看出点什么？</p>
+<p>在中国，正版用户嘲笑盗版用户的贫穷、无耻和招摇，因为他们认为这是花钱购买正版所赋予他们的尊严和权利，盗版用户不付出就没权利享用这些内容；而反之亦然，盗版用户同样嘲笑正版用户，因为他们不认为谁多花了几块钱或几十块钱，就能拥有立牌坊的权利——“谁过去没看过盗版，装什么清纯啊？”</p>
+<p>最可怕的是，中国正版化的混沌法则，既不对这两群人中的任何一群鼓励，也不反对。</p>
+<p>而在上面截图中我们所看到的，正是在这个既不保护正版亦不支持盗版的混沌状态中，一位盗版用户苟活着的真实写照。这是因为，他们的游戏娱乐和内容消费高度依赖在这个混沌状态下的盗版经济链条，而这个链条在完全正版化和完全盗版化两个终极状态下，都将不复存在。</p>
+<p>我们假定未来的某一天，市场因为版权保护立法和行政监管而走向了完全的正版化，盗版行为本身和消费盗版内容的行为都受到法律严苛的制裁。这些过去的盗版用户，买正版游戏要花一大笔让他们感觉不舒服的钱，而市面上也已经没有多少盗版内容可供他们消费，更别提下盗版、看盗版和玩盗版还会招致执法机构踢门查水表。这种完全正版化的市场环境，使得他们的盗版成本显著提高——显然他们不希望这样的时代到来。</p>
+<p>我们再假定未来的某一天，市场因为版权保护立法和强力行政监管的严重缺位，向盗版化的方向恶性发展，最终失衡失治。表面上看，制作、上传、下载和消费盗版内容的行为不会受到任何惩罚，盗版成本显著降低，这样的状态却并不是盗版玩家的天堂。倘若一国的市场走向盗版化，这意味着这个国家之内将很难再有正经的开发者去开发游戏，国外的游戏开发者和影视内容制作者也将对这个国家避而远之，届时他们将使用的屏蔽技术恐怕远比现在的加密手段更复杂，对盗版行为的法律制裁将远比一封律师函更严重。这样下去总有一天，盗版玩家也将无游戏可玩——显然，盗版玩家同样不期待被这样对待。</p>
+<p>整个数字内容市场的正版化和盗版化，对于盗版玩家来说都毫无益处。他们既依赖正版内容的开发者和制作者，又不希望为他们生产的内容付出应付的代价。</p>
+<p>这种拎不清的混沌状态，既是最坏的时代；对于盗版玩家来说，反而是最好的时代。他们希望这种混沌状态永远延续下去。</p>
+<p>这也是为什么，我们会看到本文所述的，这种因为玩不到盗版而对正版游戏内容进行举报，试图从一个不公的文化管理体制里借力，去惩治正版用户的卑劣行为。</p>
+<p>你难道看不出，这些盗版玩家，在试图维持一个他们所认为的均衡么？</p>
+<blockquote><p>最后，谈谈我对这个事件的看法。</p>
+<p>我们的确处在这样一个混沌的时代。但至少过去两年我们都能看到，无论是 STEAM，还是索尼的 PS、微软的 XBOX（包括游戏主机、游戏和其游戏网络系统），都通过商业运作的方式，最终以正版的身份来到了中国大陆，或者正在中国大陆走在正版化运营的道路上。与此同时，中国大陆的正版化立法和监管都在逐步落实，而这个市场和管理市场的制度，其所能够包容的文化，也正愈发多元化。</p>
+<p>因此我个人相信，现在的时代更像是黎明前的黑暗。最终，中国大陆的数字消费内容市场会走向一个合法的、健全的、利于正版内容消费者和正版内容提供商的均衡状态。至于盗版玩家？就让他们去死吧。</p></blockquote>
+<p>另附：</p>
+<p><strong>知乎日报 | 国内单机游戏的盗版困境 是从业者的问题 也是玩家们的问题</strong></p>
+<p>楚云帆：最近某网站因为《三国志 13》盗版引发的事情闹得沸沸扬扬，想起来 12 年的时候写过一篇小文，发现过了 3、4 年该网站的站长和那批用户也没什么变化，就重发一下该文。</p>
+<p><strong>山贼与山村</strong></p>
+<p>几年前看过一部叫做《缺月梧桐》的网络武侠小说，与传统武侠很多不食人间烟火的作品相比是很社会派的一部作品，里面有这样一个发人深省的小故事。</p>
+<p>小说的主角王天逸在路过一个山村的时候遇到山贼强抢一名铁匠未过门的妻子，于是仗义出手杀掉一名山贼，但是本以为会受到村民感激然后深藏功与名的时候，却被面对山贼欺压忍气吞声的村民团团围住——不是感激他们，而是要绑住他们以给肯定会前来复仇的山贼们一个交代。</p>
+<p>原来这是一个被附近莲花山上的山贼欺凌已久的村庄，这些山贼们不仅劫掠过路客商，平时还鱼肉乡里欺压百姓，而官府驻军又无意剿匪，因此家中有女儿多数远走，仅留下一些老弱，每年上供些粮食银钱，也能落个太平，因此主角的仗义出手给村庄带来的不是恩惠，而是可能的灭顶之灾。</p>
+<p>这横生的枝节让村民们愤怒了，而面对此情此景的主角则困惑了：自己究竟是做对了，还是做错了？</p>
+<p><strong>国内单机游戏今昔</strong></p>
+<p>自诞生以来，国内的正版单机游戏市场已经有近二十年，但是随着网络游戏市场的扩大，原本的很多单机游戏开发商普遍转向了网络游戏的开发，而发行商则普遍倒闭或惨淡经营，新加入单机游戏开发与发行的厂商寥寥无几，近年来国内市场的上市作品数量与发行商的数量都在逐年减少，很多人都会问这样一个问题：在网络游戏、网页游戏、手机游戏这些新兴的产业形态不断蓬勃的发展的时候，单机游戏市场何以沦落至此？</p>
+<p>暗黑破坏神 3 上市前几天，我临时起意找到当年代理暴雪游戏起家的奥美公司的两名高层张曙波与陈望治做了个采访，写过了一篇《奥美之殇》。在回顾奥美这家国内单机游戏发行领域中的龙头老大从如日中天到消亡的过程的时候，二人在多年之后提到盗版对正版游戏发行造成的损害仍然痛心疾首。虽然奥美不是亡于盗版，但是如果一个行业中的龙头老大都有这么大的困扰的话，那么其他公司的境遇我们更是可想而知了。</p>
+<p>在采访过程中，张曙波与陈望治提供了一些销量数据，多少可以看出盗版对单机游戏市场的冲击。在奥美电子国内 8 年的经营历史中，这家公司共引进了 108 款游戏（包括其全资子公司怡采科技所代理的游戏），除星际、魔兽、暗黑、CS 这四款王牌游戏外，还包括《地球时代》系列、《家园 2》等作品。但是除了四款王牌游戏之外，奥美所代理的其他游戏销量都十分普通，表现最好的《地球帝国》系列销量只有 5 万，国内玩家中口碑极佳的《家园 2》也只有 2、3 万的销量，其他多数游戏都只有 1 万左右的销量，利润极其微薄，如果有库存积压现象甚至会亏损。</p>
+<p>在盗版的冲击下，昔日给国内单机游戏爱好者带来很多美好回忆的游戏发行商都在渐渐远去，奥美之外的第三波、天人互动、星空娱动、新天地也都先后倒下，寰宇之星、娱乐通、中电博亚这些公司虽然仍在苦苦坚持，但是处境也显得越发艰难，有些如网元圣唐也早已涉足网游业务以维持公司的发展。而近些年除了老牌游戏发行商之外，虽然有些在网络游戏上有些起色的网游厂商也开始尝试开拓单机游戏发行市场，但是更多的是挫折，比如代理了《英雄无敌 6》和《风卷残云》国内发行的百游。归结其中，除了这些公司自身的一些问题外，盗版都是很重要的一个因素，分流了游戏发行所带来的收入，给发行商带来了直接的损失。</p>
+<p>造成这种盗版泛滥的主要原因还是国内文化监管和法律保护的不利。在开头讲的《缺月梧桐》的故事中，了解到山贼肆虐的情况后，王天逸一行不禁问道：“官府难道不管吗？”</p>
+<p>村长的回答是这样的：“管。我们报官报了无数次，离这一百里远就有一支几百人的驻军，他们年年剿匪，他们一来，莲花山上的好汉就躲了起来。官兵大摇大摆的骑着马打着旗在周围转 了一圈就走了，每次都告诉我们他们打了大胜仗，没杀一千也剿掉了八百山贼，但是他们一走山贼就又回来了，连根毛都没掉，而且兵爷爷一来，要让村里提供酒、 肉、银钱，还调戏村妇。和山贼劫掠的损失也差不到哪里去！唉，我们剿不起匪啊。我们认了，只要莲花山的好汉不要我们的命就行了。”</p>
+<p><strong>盗版的困境</strong></p>
+<p>今天仍然在做单机游戏发行业务的公司和《缺月梧桐》中的那座山村十分相似。</p>
+<p>原本的山贼是盗版光盘的流通渠道，但是随着网络的普及，越来越多的玩家通过网络下载游戏的破解版、硬盘版，盗版光盘的市场也越来越下，而原本提供破解、汉化的论坛与网站逐渐壮大，成为了侵犯正版游戏发行商利益的新的山贼。</p>
+<p>但是在这种新的网络盗版模式下，山贼们多数情况下实际无利可图，只是单纯地让正版游戏发行商的利益受到损失——渐渐地，一些聪明的村民与山贼之间形成了一个默契：如果发行商愿意与提供破解的网站合作，那么实际上双方是可以找到利益共同点的——网站不提供正版游戏的破解与下载，改为作为正版游戏数字版的分销商获取一些发行收入，而发行商则免去了盗版的困扰，不提供数字发行的游戏则是以广告投放的形式获取破解网站的合作。</p>
+<p>这在本质上这是一种胁迫，但是在国内的知识版权保护力度和市场环境下，对于发行商来讲也只能是一个打落门牙和血吞的“最优策略”。回到开始那则故事里的山村困境，在官军剿匪不力的情况下，村民们怎样避免被山贼欺凌呢？如果不能将山贼连根铲除，那么即便一两次被仗义相助，但是最后的命运多半是全村被屠戮，因此只能选择妥协，这也是一种乱世求生之道。</p>
+<p>村民们做出这种选择是无奈，但是你见过把村民起来反抗称做不识时务，以及山贼头目标榜大义声称自己实际上济世救人的吗？近日新浪微博上就发生了这样一件事。</p>
+<p><strong>义与利</strong></p>
+<p>《刺客信条 3》是今年的大作之一，10 月的时候育碧也宣布将会推出简体中文版，由代理公司碧汉网络发行，但是由于审批的原因没有实现全球同步。11 月 27 日，PC 版国外上市的时候，著名破解组织 3DM 随即很快在论坛上发布了破解与汉化，碧汉网络总经理周宁随即在微博对此行为进行抨击，引发了一次小规模的网络论战。</p>
+<p>在论战之中，3DM 站长，绰号“不死鸟”的宿菲菲也在微博上进行了回应：“可能那些网站的负责人确实很无耻，但是也正是这些人的努力，才维系住中国仅有的单机用户群体，不至于被网络游戏和网页游戏全部洗劫干净。正版单机进不来，其他的获取渠道又要封堵，你让中国的玩家怎么选择呢？”而在随后的多条微博中，宿菲菲提到了“体制和消费习惯”、“审批”等问题造成的国内单机游戏市场畸形，称“3DM 是这种体制下，随波逐流必然的衍生的一个平台，目的就是用自己的方法让中国玩家能玩上好的游戏，能玩懂好的游戏，这种平台的出发点不可能有什么牟利的目的。”（注：成文于 2012 年，如果经历过这件事你会发现和《三国志 13》引发的事情没什么区别）</p>
+<p>作为国内最注重的破解与汉化组织，3DM 在国内单机游戏玩家中有很大的影响力，宿菲菲一直作为站长和站务管理人员为玩家所熟知。她在微博上所提到的一些问题确实也客观存在，比如审批，一些优秀的游戏因为审批造成国内上市的严重滞后，某种程度上 3DM 所提供的破解与汉化让想玩这些游戏的玩家能够与世界其他玩家同步，因此在论战中反而受到了一些玩家的支持。</p>
+<p>客观地讲，从光盘时代的盗版到网络时代的破解下载，国内单机游戏市场一直处于一种畸形发展的状态，这些确实与法律的不完善、审批造成的滞后以及社会普遍大众的软件消费习惯有关，但是都不足以成为让盗版行为正当化的理由，更不用说给这种行为标榜上大义的名分——实际上在破解背后，也不是毫无利益可言，一些网站与论坛流量带来的广告收入、作为数字发行的分成收入实际上已经十分可观——2010 年，178 以 500 万收购了 3DM，看中的也正是这一点。</p>
+<p><strong>路在何方？</strong></p>
+<p>在黑泽明的《七武士》里，也有一座被山贼掠劫的破败村庄。为了保护庄稼，村中长老请来了七名武士守护村庄。</p>
+<p>七名武士到达村庄后，发现这里的村民并不那么淳朴善良，尽是一些吝啬、虚伪的自私鬼，但还是帮助他们打退了山贼的进攻，献出了自己的生命保住了村庄的安全。在电影的最后，勘兵卫对着同伴的坟墓说：“我们又失败了，那些农民才是胜利者。武士就像风，从大地上漫卷而过，那些农民始终和大地在一起，永远地活下去。”</p>
+<p>相较于如今还能追求理想投身单机游戏开发的开发团队和苦苦支撑的发行商来讲，使用盗版的玩家才是永远的胜利者——他们可以找到各种各样的托词为使用盗版做辩护，但是那些死掉的开发团队和发行商则没有这样的机会。</p>
+<p>在过去，很多人以经济条件作为使用盗版的借口，但是近些年来手机游戏兴起之后，一些付费手机游戏的制造商也不禁产生了些疑问：为什么有些人可以花很多钱去吃饭泡吧唱 K，买得起游戏中一件几百元的武器，买得起一个几千元的手机，却不愿意花钱购买一个 6 元的手机应用，一本十几元的书呢？</p>
+<p>没有人能够给出一个让人满意的答案，但这就是中国的软件与文化消费市场的现状，所有从事或者想要进入包括游戏在内的商业软件开发的公司都应该好好地了解这片神奇的市场——想要改变它？单靠行业自身的力量是不可能的，最终只能靠法律的强制力以及社会习惯的改变，非一朝一夕之功。在此之前，单机游戏市场如何求存呢？</p>
+<p>这是留给仍然想要做国产单机游戏的团队的问题，实际上也关系到每个喜欢单机游戏的玩家。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%93%81%E7%8E%A9-%E6%89%93%E5%87%BB%E7%9B%97%E7%89%88%E6%88%91%E4%BB%AC%E9%83%BD%E8%A7%81%E8%BF%87-%E9%82%A3%E4%B9%88%E6%89%93%E5%87%BB%E6%AD%A3%E7%89%88%E7%9A%84%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/3dm/?category=18271" rel="tag">3DM</a>, <a href="https://chinadigitaltimes.net/chinese/tag/steam%EF%BC%8C%E6%95%B0%E5%AD%97%E5%86%85%E5%AE%B9%E7%9B%97%E7%89%88/?category=18271" rel="tag">steam，数字内容盗版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%BF%E8%8F%B2%E8%8F%B2/?category=18271" rel="tag">宿菲菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E7%89%88/?category=18271" rel="tag">正版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B7%E6%B2%8C/?category=18271" rel="tag">混沌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E7%89%88/?category=18271" rel="tag">盗版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%B4%E8%A7%A3%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">破解游戏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9B%A0%E4%B8%BA%E5%AB%96%E5%A8%BC%E8%AF%81%E6%8D%AE%E4%B8%8D%E8%B6%B3%E6%89%80%E4%BB%A5%E6%95%B2%E8%AF%88%E8%AF%81%E6%8D%AE%E5%BE%88%E8%B6%B3/" target="cdt-mirror">【网络民议】因为嫖娼证据不足，所以敲诈证据很足？</a>
+</h2>
+<p><h3><span><strong>武威记者张永生事件的诡异时间线：</strong></span></h3>
+<ul><li><strong>1月4日 </strong>武威市凉州区公安局接<strong>武威公安局批转举报信</strong>，<strong>张永生系被举报人</strong></li>
+<li><strong>1月7日 </strong>凉州公安以<strong>涉嫌嫖娼</strong>为由逮捕张</li>
+<li><strong>1月8日 </strong>凉州公安以<strong>涉嫌敲诈勒索</strong>对张立案侦查</li>
+<li><strong>1月9日 </strong>凉州公安以<strong>嫖娼</strong>为由对张永生<strong>行政拘留</strong>5天</li>
+<li><strong>1月14日 </strong>（正好5天后）张<strong>涉嫌敲诈勒索</strong>，被<strong>刑事拘留</strong></li>
+<li><strong>1月18日 </strong>凉州公安提请<strong>以涉嫌敲诈勒索批准逮捕张</strong></li>
+<li><strong>1月25日 </strong>武威市凉州区检察院<strong>批准逮捕</strong>张</li>
+<li><strong>1月30日</strong> 甘肃省人民检察院组成张永生案核查工作组</li>
+<li><strong>2月6日</strong>  省检察院称张<strong>嫖娼证据不足</strong>，但<strong>敲诈勒索涉案金额5000元</strong></li>
+</ul><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489.jpg" rel="attachment wp-att-427839"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489.jpg" alt="20160129083732489" width="385" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525.jpg" rel="attachment wp-att-427838"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525.jpg" alt="20160129083732525" width="385" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/12.jpg" rel="attachment wp-att-427837"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/12.jpg" alt="12" width="385" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/12-211x300.jpg 211w, http://chinadigitaltimes.net/chinese/files/2016/02/12.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p><strong>附：<a href="http://politics.caijing.com.cn/20160206/4067291.shtml">甘肃检察院｜关于对“张永生涉嫌敲诈勒索案”核查情况的通报</a></strong></p>
+<blockquote><p>2016年1月30日至2月5日，甘肃省人民检察院抽调本院和兰州市检察院35名业务骨干组成核查工作组，通过调阅卷宗，调取涉案书证和视频资料，提审犯罪嫌疑人，询问证人和办案人员，召开论证会等形式，对张永生敲诈勒索及嫖娼问题进行了全面、细致的核查。还邀请具有律师身份的特约检察员、记者身份的人民监督员，以及教育界、企业界的全国人大代表等4人对核查工作进行了全程监督。</p>
+<p>关于张永生涉嫌敲诈勒索问题。2016年1月7日，凉州区公安局民警在对张永生涉嫌嫖娼留置盘问过程中，发现张永生系2016年1月4日武威市公安局批转的举报信中的被举报人，遂就举报信反映的敲诈勒索问题同步进行盘问。1月8日，凉州区公安局以涉嫌敲诈勒索罪对张永生立案侦查，并于1月18日提请批准逮捕。1月25日，凉州区检察院决定对张永生批准逮捕。经核查证实，2009年3月以来，张永生利用其《兰州晨报》记者身份，以报道负面新闻对多个单位和个人进行要挟，其中敲诈勒索人民币5000元的犯罪事实清楚，证据充分，张永生供认不讳，并有证人证言及同步录音录像资料相互印证。</p>
+<p>关于张永生涉嫌嫖娼问题。经核查证实，1月7日16时许，张永生独自进入西津洗浴广场，在307包房内接受了异性李某某提供的服务。核查工作组认为，凉州区公安局以张永生有嫖娼违法行为进行行政处罚，事实不清，证据不足。已建议甘肃省公安厅调查处理。</p>
+<p>根据目前查证的事实，省检察院核查工作组认为，张永生虽然涉嫌敲诈勒索犯罪，但鉴于涉案金额不大、本人认罪悔罪态度较好，已建议公安机关变更强制措施，对张永生取保候审。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@刘虎说: 请顺便公布一下三名记者敲诈了谁。如果敲诈的对象是政府，不符合敲诈勒索罪的构成要件。</p>
+<p><a href="http://weibo.com/autozy" target="_blank">@智勇在线</a>：没有证据证明嫖娼，公安竟然就盖个嫖娼罪名抓人;6年多敲诈勒索多个单位和个人5000元？<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]">这不仅仅是你们所说涉案金额低的问题，公安检察在调查盗窃抢夺案件时5000元都不稀罕理的情况下，却为此事大动干戈。这敲诈勒索多人是不是栽赃嫁祸的也要打个问号。</p>
+<p>@wzxdeb：用时7年，敲诈了多家单位和个人。总金额5000元？平均一年1000块不到，还有录音，录像证据。我次奥，是记者没见过钱还是被敲诈者没见过钱？</p>
+<p>@方方：这样做就意味着要当一个批评者，你个人必须是道德完人。否则一定让你名声扫地，在亲朋中成为笑料。而你批评的事可能跟你犯的错沒什么关系。这是一个可怕的手段，它的大肆运用几乎可以让所有人闭嘴。但却可以让政客的卑劣成为正大光明。年轻的人们会以为这就是正道。唉！</p>
+<p><a href="http://weibo.com/2217020483" target="_blank">@亨曼山</a>：呵呵，嫖娼证据不足，敲诈的证据就可信了？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@ZG观察：因为嫖娼证据不足，所以敲诈证据很足？是这逻辑吗？</p>
+<p>@在特丽莎嬷嬷的葬礼上：按证据学的原理，既然嫖娼的证据不足信，且有明显的诬陷性质，那么，所谓的涉嫌敲诈的证据和指控也就一并污染不可采信了。敲诈勒索5000块？甘肃的消费水平还真是世外桃源呢。</p>
+<p><a href="http://weibo.com/ishikoui" target="_blank">@公民石皓伟</a>：嫖不了娼就是经济问题，有法治你。<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
+<p><a href="http://weibo.com/5301630155" target="_blank">@微匪</a>：嫖娼罚款都5000，敲诈勒索5000，信谁是爹<img title="[震惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/lxhchijing_org.gif" alt="[震惊]"><img title="[震惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/lxhchijing_org.gif" alt="[震惊]"><img title="[震惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/lxhchijing_org.gif" alt="[震惊]"></p>
+<p>@深山野民：盯了这么久，如果只搜到了敲诈了5000元的证据。我只能说，张永生这个记者真的还清廉（那些真正敲诈的记者，哪个不一张口两万？）。第二，我怀疑这5000元是另有说法，比如主动送给记者的车马费，或者钓鱼执法。</p>
+<p><a href="http://weibo.com/2217020483" target="_blank">@亨曼山</a>：呵呵，呼格吉勒图当年也是供认不讳吧<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
+<p>@过客归人2013：记者敲诈可能是真，敲诈也是违法，但是目前谈的是程序问题，你国人先抓进去，再使劲挖材料，有几个能走出来的，你从小有没有偷看过大姑娘洗澡，有没有闯过红灯？我不信整不出来</p>
+<p>@有机食品商城网：几十个人花了几天时间还没调查清楚，到底那个嫖娼真相如何。既然有名有姓，有时间有地点，那么就应该抓了现行，为啥还是证据不清？是证据不清还是栽赃陷害？真相只有一个，老百姓想知道的是，会不会有顺我者昌逆我者嫖娼。</p>
+<p>@南周梦：共产党，老子不信</p>
+<p>@前屿山1978：公检法司安 开了几个礼拜协调会终于得出了结论：叫你不听话，给你点厉害瞧瞧，网民算个屁！</p>
+<p><a href="http://weibo.com/landsnail" target="_blank">@蜗牛背石头</a>：七年了，敲诈多个单位和个人，才五千元？你当记者是讨饭的？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">还不如我儿子的压岁钱</p>
+<p>@撒旦1112：说你嫖你就嫖，没嫖也嫖！说你诈你就诈，没诈就诈！武威威武！</p>
+<p>@依修塔塔：嫖娼跟检察院有什么关系，又不归检察院管</p>
+<p>@帆帆小宝贝：他好像报道了警察什么的？懂了</p>
+<p>@哥的怒愤：可以随便扣个嫖娼的罪名，真是顺我者昌，逆我者嫖娼啊！还有敲诈5000块，呵呵哒！现在TM5000算个钱？也是扣的帽子吧。数额大了肯定会判刑，但其实人家根本没这事儿。到时候反响更恶劣。5000块又够不上什么，正好可以把人给放了，又教训了记者，又给了个台阶下。好手法！</p>
+<p>@与三毛无关：请问当初是谁说的涉嫌嫖娼这句话？堂堂一个检察院把法律当儿戏？？？</p>
+<p>@张胖墩墩儿：回复@廖胜于无:朋友，先用嫖娼罪抓人，抓进来再网罗接口，如果是七年前敲诈5000块，为什现在才抓他们？那之前抓人是不是非法？仔细想想吧…</p>
+<p>@小狼犬WOLF：所谓依法治国，我竟然发现越来越像封建帝制了</p>
+<p>@窗外的迷惑：七年敲诈多个单位和个人5000？要脸不？这就是你们抽调30多人查处的结果？这些单位和个人都报案了？一起报的？每个敲诈几百呢？这叫你妈敲诈？</p>
+<p>@军号：呵呵，脏水没泼好。</p>
+<p>@鱼随大雁飞：抓律师打击记者，这是一个什么样的政府？</p>
+<p>@发财乌鸦：强烈要求上我CCAV受审，认错！！！不上不足以平民愤，甘检大胆，竟然未经央视审判就敢拍板定性？！还能“娱乐”不了？！</p>
+<p>@逍遥浪子袁总：他们说的我怎么连标点、符号都不信，这是怎么回事儿？</p>
+<p><a href="http://weibo.com/2661740551" target="_blank">@阿珍你来真的阿</a><i title="微博达人"></i><i></i>：这盛事如五毛<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8192.png" alt="" width="20px" height="20px">之所愿</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9B%A0%E4%B8%BA%E5%AB%96%E5%A8%BC%E8%AF%81%E6%8D%AE%E4%B8%8D%E8%B6%B3%E6%89%80%E4%BB%A5%E6%95%B2%E8%AF%88%E8%AF%81%E6%8D%AE%E5%BE%88%E8%B6%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E5%B7%9E%E6%99%A8%E6%8A%A5/?category=18271" rel="tag">兰州晨报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B0%B8%E7%94%9F/?category=18271" rel="tag">张永生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%A8%81%E4%B8%89%E8%AE%B0%E8%80%85%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">武威三记者被捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%8B%E5%A0%B4%E6%96%B0%E8%81%9E%EF%BD%9C%E8%A2%AB%E6%8C%87%E6%B6%89%E6%A1%82%E6%B0%91%E6%B5%B7%E6%A1%88%E9%81%AD%E5%85%AC%E5%AE%89%E6%89%A3%E6%9F%A5%E3%80%80%E6%9E%97%E6%A6%AE%E5%9F%BA%E3%80%81/" target="cdt-mirror">立場新聞｜被指涉桂民海案 林榮基、呂波、張志平是誰？</a>
 </h2>
 <p><p><em>原標題：被指涉桂民海案遭公安扣查　林榮基、呂波、張志平是誰？</em></p>
@@ -117,7 +266,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%BB%96%E7%9A%84%E6%83%85%E4%BA%BA%E4%BB%AC%E3%80%8B/?category=18271" rel="tag">《习近平和他的情人们》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%95%8F%E6%B5%B7/?category=18271" rel="tag">桂敏海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%AF%BA/?category=18271" rel="tag">西诺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/427814/" target="cdt-mirror">BBC｜台湾南部6.4级地震 全岛有强烈震感</a>
 </h2>
@@ -567,121 +716,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%9C%8B%E7%9C%8B%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B2%BB%E7%BD%AA%E7%9A%84/" target="cdt-mirror">奇闻录 | 看看国家是怎样治罪的</a>
-</h2>
-<p><p>1月18日，据外媒报道，原籍河南的新疆维权人士张海涛近期被法院以“煽动颠覆国家罪”和“为境外提供情报罪”重判19年徒刑，并没收个人财产12万元人民币。现今判决书部分内容流传于网络，可以从中看出张海涛遭遇重判的部分“官方依据”。</p>
-<p>新疆维权人士张海涛的家人1月18日收到判决书，张海涛被以“煽动颠覆国家罪”判处有期徒刑15年、“为境外提供情报罪”判处有期徒刑5年，合并执行19年，并没收个人财产12万元人民币。该案代理律师表示，判决之重出乎意料，相信与当局加强新疆维稳有关。张海涛的妻子表示，官方要没收他们唯一的房产，没有工作的她和刚满月的孩子即将流离失所。据悉，目前张海涛已经提出上诉。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/9baf993b-d375-47b6-9919-e732f7af316c.jpeg" alt="9baf993b-d375-47b6-9919-e732f7af316c" height="350" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/9baf993b-d375-47b6-9919-e732f7af316c-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/9baf993b-d375-47b6-9919-e732f7af316c.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></p>
-<p>刚诞下孩子才一个月的张海涛妻子李爱杰接受采访时，指案件于1月11日作一审开庭，法院当时未有告知宣判日子。而周一她亲手打开文件看得结果，对她而言简直是晴天霹雳。李爱杰指，当局指控其丈夫，在网上发布打击社会主义的文章，以及曾协助境外媒体工作，提供情报，制造社会不稳的谣言。</p>
-<p>李爱杰：我之前预计最多两、三年，浦志强、郭飞雄他们最多都是六年，我丈夫现在被判十九年，这个国家都不讲理了，就是因为在新疆?因为在新疆同样的事就要判更重的吗？</p>
-<p>45岁的张海涛，原籍河南，从国企失业下岗后于1995年到新疆发展，09年回南阳度假时，被新疆警方以诈骗罪抓回新疆，关押2个月后释放。此后他开始接触司法维护个人权益，并经常在网上发布对政府和时局的看法或意见。而他曾是维权网站“权利运动”的义工。去年6月26日，被乌鲁木齐市国保以“煽动民族仇恨罪”抄家刑拘。之后以“寻衅滋事罪”遭正式逮捕，被关押近五个月后罪名从“寻衅滋事罪”变更为“煽动颠覆国家政权罪”。 via 自由亚洲</p>
-<p><strong>以下为网友曝光的一审判决书内容：</strong></p>
-<p>@1957spirit：张海涛煽颠罪获刑15年的证据就是微信言论69条和推特帐号@xjvisa（这个帐号现在还没有删，敬请围观）所发205条，算下来平均一条言论获刑二十天。以推特言论为主被定煽颠罪的中国政治犯，张海涛如若不是第一个，也肯定是判刑最重的一个。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblBW0AEDpT3.jpg" alt="CaHKblBW0AEDpT3" width="550" height="905"></p>
-<p>从描述内容看，张本人的翻墙行为以及各种电子邮件内容，已经被完整监控或后期掌控，并且作为了定罪依据。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblFWYAAa8OI.jpg" alt="CaHKblFWYAAa8OI" width="550" height="824" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblFWYAAa8OI-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHKblFWYAAa8OI.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>新疆网安部门复函将“涉案网站”均定性为境外敌对、民运网站。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHNWQAAd4d-.jpg" alt="CaHPuHNWQAAd4d-" width="550" height="891" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHNWQAAd4d--185x300.jpg 185w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHNWQAAd4d-.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>后半部分提到的张的工作经历与向南夫有类似处</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHqW0AAFS6O.jpg" alt="CaHPuHqW0AAFS6O" width="550" height="825" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHqW0AAFS6O-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHqW0AAFS6O.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>推特言论作为了定罪依据</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHsW0AEqpqA.jpg" alt="CaHPuHsW0AEqpqA" width="550" height="873" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHsW0AEqpqA-189x300.jpg 189w, http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuHsW0AEqpqA.jpg 550w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p>微信注册内容及言论内容被网安部门完整调取</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CaHPuIDW0AAFRlU.jpg" alt="CaHPuIDW0AAFRlU" width="550" height="862"></p>
-<p>被抄家后所有存于本地的反动内容均被纳入电子物证</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%9C%8B%E7%9C%8B%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B2%BB%E7%BD%AA%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E6%B2%BB%E7%BD%AA/?category=18271" rel="tag">因言治罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B5%B7%E6%B6%9B/?category=18271" rel="tag">张海涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9D%8E%E6%96%B0%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%87%AA%E6%84%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%E7%94%B5%E8%AF%9D%E5%98%B1%E5%92%90%E5%A6%BB%E5%AD%90%E4%BF%9D%E9%87%8D/" target="cdt-mirror">自由亚洲｜李新被警方“自愿接受调查”电话嘱咐妻子保重</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg" rel="attachment wp-att-427624"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg" alt="南都网前编辑李新。（李妻提供/记者乔龙）" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee-300x225.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/83fa7964-bf23-47ac-81ab-0f30bc6f3dee.jpeg 622w" sizes="(max-width: 622px) 100vw, 622px"></a><p>南都网前编辑李新。（李妻提供/记者乔龙）</p></div>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%96%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E5%B0%86%E6%88%91%E9%80%81%E5%85%A5%E7%9B%91%E7%8B%B1/">奇闻录 | 他们可以随时将我送入监狱</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8D%97%E9%83%BD%E7%BD%91%E5%89%8D%E7%BC%96%E8%BE%91%E6%9D%8E%E6%96%B0%E6%B5%B7%E5%A4%96%E7%88%86%E6%96%99%E9%81%AD%E6%8A%A5%E5%A4%8D-%E5%A6%BB%E5%AD%90/">自由亚洲｜南都网前编辑李新海外爆料遭报复 妻子出境被拒</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%9B%BD%E5%AE%89%E5%B1%80%E7%BA%BF%E4%BA%BA%E7%BB%86%E6%95%B0%E5%B9%95%E5%90%8E%E7%9B%91%E6%8E%A7-%E9%99%90%E5%88%B6%E5%AD%A6%E8%80%85%E5%AA%92%E4%BD%93/">自由亚洲｜国安局线人细数幕后监控 限制学者媒体刊载文章有“黑名单”</a></li>
-</ul></blockquote>
-<p>上个月在泰国边境离奇失踪的南都网前编辑李新，终于在中国境内现身。2月3日，李新家乡河南新乡市公安通知李新的妻子何方先到当地派出所与李新通电话。何方先告诉本台，李新说他自己自愿回国接受调查，很快就会有结果，但没有透露他现在何处接受调查。</p>
-<p>1月11日，南都网前编辑李新在泰国北部边境失踪，引起国际社会关注，要求中方提供李新的下落。事发近一个月，李新的妻子何方先网名“十三妹”终于 得知丈夫已被带到国内，由警方控制。2月2日下午，十三妹致电李新家乡派出所一名警察的电话，她说：“我今天打电话给公安，我说今天第三天了，怎么还没有消息？她说要汇报一下，我说还汇报啊，早就说要汇报一下，她说向上级汇报了，我要问一下领导。几个国保打电话来，我说李新有消息吗，他说有点眉目了，我们需要面谈”。</p>
-<p>2月3日上午，当地派出所致电十三妹，要求她到派出所接李新的电话。其后十三妹告诉记者，李新在电话中告诉她，正被警方控制“接受调查”：“李新跟我通话时，不告诉我人在哪里，不让我知道，就说已经在国内接受调查。叫我好好的过日子，过一个年。我问他什么时候有结果，他说叫我安安静静的，他说这对他，对我都有利，争取很快就会有结果”。</p>
-<p>被问及李新被警方控制的原因，十三妹说：“什么原因没有说，他只说我之前做的那些事，你也知道的，所以我愿意接受调查。但是李新说，叫我不要跟外界联系，叫我好好过日子。他说要不然对我，对他更加不利。我真的不知道怎么办”。</p>
-<p>曾自曝不甘给中国河南国安充当线人的南都网编辑李新，去年10月3日经香港抵达印度新德里后，曾对外披露中国当局设置网络黑名单，搜集广东南方都市报记者的个人资料，干扰新闻自由及搜集香港及河南新乡NGO组织的情况。他当时称，他不堪长期过着人格分裂的生活，最后逃离大陆。</p>
-<p>今年1月1日，李新辗转到泰国，10日晚登上由曼谷前往边境廊开的列车，但于11日早上突然与“十三妹”失去联系。其后，“十三妹”向联合国及国际人权机构发出求助，希望协助寻找李新的下落。</p>
-<p>本台记者3号致电李新家乡的派出所一位女警官，查询李新的下落。对方表示，只负责安排李新与妻子通话，案件由多个部门负责，与派出所无关。该警察说：“他的事我们不知道，我们只是向上级反映人家传过来的话，他在哪里，我们不知道。是他的老婆要求安排这件事（查询），我们向有关部门查询，人家反馈过来的信息”。</p>
-<p>记者：是从哪里反馈过来的信息？</p>
-<p>公安：是上面，好几个部门，具体是哪里，我也弄不清楚。不是辉县（现升格为市）的，辉县公安局不管这事。她（十三妹）不是报案说李新失踪了，我们帮她了解。我们这里不办这个案子。</p>
-<p>记者：今天李新和他的妻子通话的时候，李新在哪里？</p>
-<p>公安：我们没有和李新通电话，是他的老婆和李新通电话。</p>
-<p>目前怀有身孕，并带着一位两岁孩子的十三妹说，她的丈夫应该就在新乡市：“我估计在新乡，因为那两个国安（国保）是新乡的。他们也说我们是派出所，是上级在处理这件事，说这件事也不小，要接受调查。我律师都找好了，还在商量中，关键是他们不告诉我人在哪里”。</p>
-<p>1月28日，“国际特赦”组织就李新在泰国失踪事件发出紧急呼吁书。呼吁各界致信中、泰外交部和中国驻泰使馆，敦促两国政府尽快查明李新的下落并予以公开。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9D%8E%E6%96%B0%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%87%AA%E6%84%BF%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%E7%94%B5%E8%AF%9D%E5%98%B1%E5%92%90%E5%A6%BB%E5%AD%90%E4%BF%9D%E9%87%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%8D%97%E9%83%BD%E7%BD%91%E7%BC%96%E8%BE%91/?category=18271" rel="tag">前南都网编辑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%96%B0/?category=18271" rel="tag">李新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B1%B1%E4%B8%9C%E7%9F%BF%E9%9A%BE13%E4%BA%BA%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C%E5%BD%93%E5%9C%B0%E6%8E%A8%E5%87%BA%E6%95%91%E6%8F%B4%E5%A5%87%E8%BF%B9%E7%BA%AA%E5%BF%B5%E6%88%B3/" target="cdt-mirror">【异闻观止】山东矿难13人生死未卜 当地推出救援奇迹纪念戳</a>
-</h2>
-<p><blockquote><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324.jpeg" rel="attachment wp-att-427616"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324.jpeg" alt="oyBR-fxnzanh0675324" width="440" height="347" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324-300x237.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/oyBR-fxnzanh0675324.jpeg 440w" sizes="(max-width: 440px) 100vw, 440px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592.jpeg" rel="attachment wp-att-427615"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592.jpeg" alt="na5J-fxnzpkx5893592" width="400" height="298" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592-300x224.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/na5J-fxnzpkx5893592.jpeg 400w" sizes="(max-width: 400px) 100vw, 400px"></a><br>
-来源：齐鲁网</p>
-<p>为记载发生在山东平邑石膏矿难，经过36天的艰苦奋斗，被困井下的4名矿工终获救的世界奇迹，纪念邮戳分别在省城济南和山东平邑邮政分公司启用，为社会用邮和义务加盖收藏服务。据悉，“矿山救援 平邑奇迹”戳记，是山东首套矿难救援纪念邮戳。</p>
-<p>新京报早先报道：</p>
-<p><strong>山东平邑矿难被困者熬不住曾留遗言 13人仍失联</strong></p>
-<p>对话人物</p>
-<p>杜兵建：国家矿山应急救援中心基地专家，平邑石膏矿坍塌事故救援现场技术专家组组长</p>
-<p>张希诚：山东能源临沂矿业集团董事长，平邑石膏矿坍塌事故救援现场技术专家组副组长，井下救援副总指挥。</p>
-<p>2015年12月25日，山东平邑发生石膏矿垮塌事故。和以往传递给公众的一串冰冷的遇难者数字不同，矿难的36天之后，4名被困矿工获救。</p>
-<p>加上先期被救出的7名矿工，“井下救援+井上钻孔”的营救方案，挽救了11人的生命。</p>
-<p>36天，创造了中国矿难史上从人员被困到成功获救时间最长的纪录。</p>
-<p>首例大口径钻孔救援成功，也为我国矿难救援提供了可鉴样本。<br>
-[…]<br><strong>13人仍失联 救援尚未结束</strong></p>
-<p>新京报：矿工马上升井时，你的焦虑消失了？</p>
-<p>杜兵建：当时现场有四五百人，大家都很高兴，觉得人马上就要上来了。可我的心一直悬着，地层变化没停止，提升过程还有可能发生不测，比如钻钢折 断、钻孔变形，最后功亏一篑。1月29日晚上9点21分，第一名矿工顺利升井。从钻孔中提升到地面，216米，每个人都需要半小时，四个人是2个小时，这 2个小时，就像钻孔的这32天一样漫长。</p>
-<p>新京报：这次救援，我们收获了什么？</p>
-<p>杜兵建：我国之前没有这种钻孔救援的先例，这在全世界也是第三例。放在以往，这四个人是没有生还希望的。最大的收获是，我们用这种最先进的救援技术，挽救了四个生命，将被困地下200多米深处的人员救出来。</p>
-<p>还有，这次在仍然变化运动的地层上钻孔，在原理上，本是行不通的，但我们救援团队克服种种困难，做到了，这对我们是很大的鼓励。</p>
-<p>新京报：目前井下仍有13人失联，他们生还的可能性有多大？</p>
-<p>张希诚：按照常规，失联40天，被困人员几乎没有生还的可能了。救援现在还没结束，但是目前实施救援的可能性和难度有多大，还需要专家讨论给出意见。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@呆呆雷雷：我们希望这奇迹 永远不要发生</p>
-<p>@染惟嫣：别膈应我了，我都以为他们会在里面过年了，现在还推什么纪念戳</p>
-<p>@杜宇80后：还有13人下落不明！！！还有13人下落不明！！！还有13人下落不明！！！</p>
-<blockquote><p>@人民议员：Comment with pics<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk.jpg" rel="attachment wp-att-427611"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk.jpg" alt="006ad646jw1f0n3gr6ow9j30k00cfwfk" width="440" height="273" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk-300x186.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/006ad646jw1f0n3gr6ow9j30k00cfwfk.jpg 440w" sizes="(max-width: 440px) 100vw, 440px"></a></p></blockquote>
-<p>@5大脑袋：这逻辑我理解不了</p>
-<p>@工作中的大松子儿：天津邮政是不是也得出了大爆炸邮戳？</p>
-<p><a href="http://weibo.com/1680259235" target="_blank">@半仙儿说你看那个人好像条狗诶</a>：<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">有没有追责戳</p>
-<p>@葛峰V：靠，算你们狠！</p>
-<p>@四处乱逛的猪：不办成喜事不罢休。</p>
-<p>@山山贝贝：真她妈的不要脸</p>
-<p>@我是你翁蜀黍：不以为耻反以为荣</p>
-<p>@怒罗江门啃泥：为了显摆政绩拿这当跳板好往上爬不顾人性毫无下限以后这些人还会当我们的领导而且我们一点办法都没有，GOOD。</p>
-<p>@兔撕兔耶夫斯基：又是纵做鬼也幸福的节奏呗？</p>
-<p>@MATTHAKO：天啊！真是服了！欲加之功，何患无辞</p>
-<p>@叶庸人：不急于去调查公布事故发生的原因 ，给老百姓一个交代。反而在这歌功颂德营救多出色厉害，这是什么病态思维？ 人无耻无以立，可怜可悲的政绩观 竭尽全力地去掩饰躲避事故的责任！！</p>
-<p>@别人不懂咖啡的心酸：通过这几次重大责任事故，我已经深刻感受到政府的强大和对新闻媒体干预是不可想象的。天津港事件，深圳滑坡事件，东方之星事件，都是那么大得责任事件，调查都没有调查清楚，各大媒体都是报告两天都销声匿迹了，而且在报告时候大都赞扬救援人员如何辛苦～你说这样的国家未来会很光明吗？每想到这很气愤</p>
-<p>@你是叫小鑫鑫吗：本来不应该发生的矿难，却被他们当成了政绩，很自豪吗？</p>
-<p>@zeropiao：永远是这样，臭不要脸。矿下还有13个人呢，救出4个人就歌功颂德。想过那13个人的家属吗？</p>
-<p>@倾诉者无语：又一批先进单位和个人，应运而生。</p>
-<p><a href="http://weibo.com/1155579755" target="_blank">@霄_xiao</a>：矿工们出井，领导热情握手表示祝贺，贡献破世界记录争取再接厉下次再出好成绩。<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p>@魅魑魉魍：报告书记，庆功大会已准备就绪！</p>
-<p><a href="http://weibo.com/malin111" target="_blank">@月歌清风</a><i></i>：这个邮戳应该买，流传给后人让他们更深地认识一下我们的时代是什么样子的，这就和当年亩产万斤的人民日报一样具有珍贵的历史价值<img title="[doge]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]"></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706.jpg" rel="attachment wp-att-427617"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706.jpg" alt="20151128110731706" width="400" height="284" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/20151128110731706.jpg 400w" sizes="(max-width: 400px) 100vw, 400px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B1%B1%E4%B8%9C%E7%9F%BF%E9%9A%BE13%E4%BA%BA%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C%E5%BD%93%E5%9C%B0%E6%8E%A8%E5%87%BA%E6%95%91%E6%8F%B4%E5%A5%87%E8%BF%B9%E7%BA%AA%E5%BF%B5%E6%88%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B%E5%96%9C%E5%8A%9E/?category=18271" rel="tag">丧事喜办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E9%82%91%E7%9F%BF%E9%9A%BE/?category=18271" rel="tag">平邑矿难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9/?category=18271" rel="tag">这是一个奇迹</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -693,7 +727,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -703,5 +737,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

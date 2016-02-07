@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E6%80%8E%E6%A0%B7%E5%88%B6%E9%80%A0%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8/" target="cdt-mirror">大象公会 | 怎样制造民族仇恨</a>
+</h2>
+<p><p>作者：赵联人</p>
+<blockquote><p><strong>煽动民族仇恨是否需要事实基础？怎样编一个民族仇恨的“好故事”？会有人编故事让别人来仇恨自己吗？煽动本身能不能把仇恨搞成大规模仇杀？</strong></p></blockquote>
+<p>“元朝末年，蒙古统治者对待汉人极为残酷，每十户汉人只能合用一把菜刀，还要供养一个监视他们的蒙古兵。谁家姑娘出嫁，第一夜必须送给蒙古人……”</p>
+<p>“洋教会妖术，割取妇女的乳头胎儿还有小孩的肾，拿去配照相用的药水，链成铜铅……”</p>
+<p>“历史正一步步按照当年犹太锡安长老策划的路线沉沦下去。等到各国政府无法偿还巨额债务时，就不得不听命于一个犹太超级政权……”</p>
+<p>人类历史上不乏上述这类故事。在它们的煽动下，群众的怒火指向了恶毒的“异族”，只待时机适当，便可发生剧变。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.09.33.png" alt="Screen Shot 2016-02-06 at 下午5.09.33" width="476" height="386" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.09.33-300x243.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.09.33.png 476w" sizes="(max-width: 476px) 100vw, 476px"><br><span>19 世纪末反天主教斗士周汉所绘的《谨遵圣谕辟邪全图》</span></p>
+<p>为什么这样的故事最能引发仇恨？秘诀在哪里？又是什么人编造了这些仇恨故事？</p>
+<p><strong>仇恨与事实无关</strong></p>
+<p>一个煽动性强的仇恨故事，是否需要有事实基础？或者说，真实的历史是否会引发民族仇恨？</p>
+<p>答案是：绝对不需要。</p>
+<p>确实有历史学者曾经担忧，自己的研究成果会不会助长民族仇恨。如犹太史学者安娜·阿布拉菲亚，在完成“中世纪犹太人谩骂基督教”的论文后，曾一度担心，自己的研究会助长反犹主义。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.10.57.png" alt="Screen Shot 2016-02-06 at 下午5.10.57" width="450" height="642" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.10.57-210x300.png 210w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.10.57.png 450w" sizes="(max-width: 450px) 100vw, 450px"><br><span>欧洲人反犹的初始理由来自宗教，但哪怕是宗教主题反犹故事也少不了残害孩子勾搭女人等要素</span></p>
+<p>而在研究过中世纪反犹谣言的叙事模式后，阿布拉菲亚发现，能煽动民族的谣言都是“好故事”，目标听众明确，传播性强。至于学者考据的历史事实，在大众传播中会显得“不说人话”，完全无法传播，更不用提煽动了。要以其为基础进行煽动的话，必须要经过大刀阔斧的改造，“历史事实”自然不复存在。</p>
+<p>仇恨故事的传播效果和煽动性，也不会因为缺乏证据而打折扣。证据不存在，正可说明敌方销毁证据的强大实力，更能突出他们对己方的威胁。</p>
+<p>而且，仇恨故事中如果出现实物“证据”，还容易被发现破绽，影响煽动效果。如在 1870 年的天津教案中，中国乡民冲击基督教堂，竟搜出一坛“小孩眼珠”，证明外国人用中国儿童的器官做药引。结果经清朝官员鉴定，坛中的球形物体是腌制的圆头蒜，乡民沦为笑柄。</p>
+<p>和“小孩眼珠入药”一并产生于晚清的拍肩迷药故事，则因为无法证伪，继续流行百余年之久，至今仍在地铁和阴暗小巷漂浮“作案”。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.12.04.png" alt="Screen Shot 2016-02-06 at 下午5.12.04" width="550" height="142" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.12.04-300x77.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.12.04.png 636w" sizes="(max-width: 550px) 100vw, 550px"><br><span>推己及人的“受害方”</span></p>
+<p><strong>仇恨故事需要什么</strong></p>
+<p>仇恨故事要具备传播性和煽动力，需要具备两大特点：一是耸人听闻，二是能联系当下。满足了这两点，仇恨故事才能迎合人们的危机感，调动起他们的情绪和传播欲望。</p>
+<p>在现实危机严重、人们本已有强烈危机感的时代，这样的故事当然可以靠山吃山。如 14 世纪欧洲黑死病爆发时，便出现了“犹太人在水井里下毒”的故事，既有惊人的情节，又贴合了人们本就强烈的危机感，因此能够成功激发人们对犹太人的仇恨，使后者遭到迫害。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.13.23.png" alt="Screen Shot 2016-02-06 at 下午5.13.23" width="574" height="391" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.13.23-300x204.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.13.23.png 574w" sizes="(max-width: 574px) 100vw, 574px"><br><span>1892 年刊登在美国Judge Magazine上的反犹漫画</span></p>
+<p>1917 年的俄国“十月革命”在西方引发恐慌后，也有“全球犹太无神论集团”这样的阴谋论来迎合人们的情绪，甚至为纳粹的兴起提供理论注解。“大萧条”期间，类似的犹太金融家暗黑故事更是层出不穷。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.14.47.png" alt="Screen Shot 2016-02-06 at 下午5.14.47" width="539" height="352" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.14.47-300x196.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.14.47-230x150.png 230w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.14.47.png 539w" sizes="(max-width: 539px) 100vw, 539px"><br><span>20世纪初的犹太阴谋论书籍《锡安长老会纪要》，俄国革命后成为爆款</span></p>
+<p>在当代，更多的人们不再相信水井下毒之类的谣言，但这种故事模式并未彻底消除，因为它极能顺应人们的心理：相比肉眼看不到的细菌、病毒、政治内幕以及经济规律，具体的“坏人”和“敌对民族”更能满足人们对“罪魁祸首”的期望，也更容易消灭。</p>
+<p>中国 QQ 群里转贴十多年的“艾滋针”传说，就是在艾滋病毒感染率快速上升的背景下流行开来。</p>
+<p>当然，瘟疫、政治剧变和经济崩溃“可遇而不可求”，不能一直充当仇恨故事的土壤。要常年给人们以危机感，最好的办法莫过于威胁他们的子女，因此直到当代，以儿童为受害者的故事一直层出不穷。</p>
+<p>现代以前，儿童型仇恨故事大多血腥暴虐，如中世纪的反犹传说称，犹太人过逾越节时会杀害欧洲人的孩子作为食材。作为本族最柔弱的同胞，儿童要受到外族最残忍的虐杀，才能激起同族人民最强烈的仇恨。此外，尸体被犹太人吃掉，便能解释找不到孩子尸体的漏洞，避免了在洋教堂查获圆头蒜的尴尬。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.15.23.png" alt="Screen Shot 2016-02-06 at 下午5.15.23" width="344" height="508" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.15.23-203x300.png 203w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.15.23.png 344w" sizes="(max-width: 344px) 100vw, 344px"><br><span>英国教堂圣坛壁上的图像，描绘了一位名为威廉的诺维奇男孩被犹太人杀害的情形。当时（12 世纪）传言犹太人每年都会杀害一名基督教男孩用于献祭</span></p>
+<p>不过，血腥的虐童故事在现代并不流行。如今的儿童类仇恨故事，往往是痛斥异族太能生育，将来会利用人口优势变成“我国主流”。</p>
+<p>有些故事甚至宣称，本族人较低的生育率是异族造成的，如联合国人权理事会的报告中就曾记录过一个某国盛传的谣言，指该国某少数族群成员经营的内衣工厂在女性内衣中添加化学物质，令其他族群的女性无法生育。</p>
+<p>此外，还可以声称异族带来了不良文化，会教坏本族青少年。21 世纪初，阿拉伯国家就曾盛传掌机游戏“口袋妖怪”暗藏以色列阴谋，说它的日语发音就是“神不存在”的意思，企图让阿拉伯儿童背弃伊斯兰教，逼得开发商任天堂不得不公开辟谣。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.16.09.png" alt="Screen Shot 2016-02-06 at 下午5.16.09" width="574" height="324" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.16.09-300x169.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.16.09.png 574w" sizes="(max-width: 574px) 100vw, 574px"></p>
+<p>除了人气每况愈下的虐童题材之外，女性题材也长期流行于仇恨故事中。在谣言中，她们的形象几乎不随时代变化，或者是本族贞洁的象征，遭到外族的强奸犯侵犯，幸而被本族勇士拯救；要么意志薄弱，不能抵抗外族的花言巧语或物质诱惑，从而走上背叛民族的错误道路。</p>
+<p>在欧洲人的反犹故事中，这两种题材还曾经合体。在“犹太人亵渎圣体”故事的一些变体中，犹太男人不但自己亵渎圣体，还以物质勾引女基督徒，合伙亵渎圣体；此外，犹太男人还会向转信基督教的妻女施暴，甚至因为后者敢于反抗而欲下杀手。在故事的最后，正义的欧洲男人及时赶到，救下走正道的犹太好人，惩处万恶的犹太男人和本族内奸。</p>
+<p>最后，故事的姿态也很重要。现代以来，赤裸裸的种族主义越来越不受人们欢迎，仇恨故事也需要理性客观中立的外衣。如果戾气太重、非黑即白，则很难激发人们的共鸣，煽动效果不会太好。好的现代仇恨故事应该假装自己憎恶的不是某个民族或种族，而是里面的一小撮坏分子。</p>
+<p>这样的坏分子甚至可以来自本民族——在 1915 年的种族主义电影《一个国家的诞生》中，带领黑人民兵烧杀抢掠的军官，就不是黑人，而是所谓“白种无赖”；头号反派、副州长塞拉斯·林奇也不是纯种黑人，而是黑白混血；如果没有他们，天性朴实的黑人就会勤劳种田，并在白人种植园主前来视察时载歌载舞。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.17.00.png" alt="Screen Shot 2016-02-06 at 下午5.17.00" width="569" height="384" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.17.00-300x202.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.17.00.png 569w" sizes="(max-width: 569px) 100vw, 569px"><br><span>影片另一幕：反派林奇副州长要求黑人劳动人民放下工具去享乐，却被劳动人民坚定拒绝</span></p>
+<p><strong>谁编的这种故事</strong></p>
+<p>仇恨故事的来源多种多样，除了阴谋分子之外，各种各样的编故事爱好者都可能加入到故事改编的大潮中去。</p>
+<p>比如文初提到的针对蒙古统治者的谣言，后面还提到了汉人在中秋月饼中暗藏纸条、相约“八月十五杀鞑子”的故事。在最初的清末版本中，这个故事还很简单，仅仅是“汉族先辈如何推翻北方异族统治者”的反满影射故事，作者多半是清末秘密会党的成员。</p>
+<p>在这个版本中，重点在于“月饼传书”、“中秋起事”的汉人反抗故事，并不特别强调蒙古人的暴政，只有“十家养一鞑”这一种提法。</p>
+<p>到了 20 世纪 80 年代，在民俗学者收录的民间故事中，蒙古人的暴政已经有了清晰面目，各种元素一应俱全。汉族百姓持有菜刀和聚众发表言论的自由惨遭剥夺，“十家养一鞑”的蒙古兵负担起了监视百姓的任务。此外，蒙古人的生活也变得奢侈起来，一改草原作风，对锦衣玉食产生了强烈的爱好。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.17.54.png" alt="Screen Shot 2016-02-06 at 下午5.17.54" width="450" height="408" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.17.54-300x272.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.17.54.png 450w" sizes="(max-width: 450px) 100vw, 450px"><br><span>“……南人五家只准共用一把菜刀……”（来源：1985 年版《历代农民起义史话》）</span></p>
+<p>不过，“鞑子”的蔑称遭到了隐匿，改称“蒙古奴隶主”、“元朝统治者”。这些显然出自官方对农民起义的革命式叙事。</p>
+<p>最为刺激的“初夜权”，也在这一时期被收录了进来。奇妙的是，这个煽动元素并不是汉人煽动家编造的，而是出自被仇恨的蒙古人之手。</p>
+<p>蒙古人编出他们对汉人的初夜权，可能比清末会党发明元末起义的时间更早。在他们的叙述中，蹂躏汉人女孩的不是普通蒙古人，而是喇嘛。除了取走初夜，喇嘛们更会剁掉汉族男婴的右手拇指，使他们不能挽弓作战，唯有朱元璋这一代人才通过贿赂保住手指。</p>
+<p>这种情况和汉人编造的那些蒙古暴政一样，没有任何历史根据，只是根据风传硬做的附会。宋、元、明时期，在西夏、西藏、印度、真腊和暹罗诸国的一些民族间，曾流行过请法师破损处女膜的做法，以流血象征驱邪的成女仪式。而在当时，就已经有传言，称有不轨僧侣会借机用嘴占便宜，或直接进行交媾。</p>
+<p>蒙古人没有这项习俗，却认为元朝的迅速没落，乃是因为皇帝宠信西藏番僧。宣传喇嘛淫乱，符合他们对“破坏蒙古基业的奸贼”的仇恨心理。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.18.37.png" alt="Screen Shot 2016-02-06 at 下午5.18.37" width="341" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.18.37-256x300.png 256w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.18.37.png 341w" sizes="(max-width: 341px) 100vw, 341px"><br><span>西藏佛教萨迦派第五代法王八思巴‎，被认为是达赖喇嘛的前世之一，元朝首任总制院院使</span></p>
+<p>蒙古人的自 HIGH 还不止于此。从 17 世纪开始，他们甚至还改写明朝皇室的血统，把明成祖朱棣说成是元顺帝妥懽贴睦尔的遗腹子，借明朝来为蒙古统治续命。传播初夜权的传说，大概也有类似心理，近于“我和你母亲发生过性行为”的骂人法的集体版本。</p>
+<p><strong>仅有好故事是不够的</strong></p>
+<p>当然，一个好的煽动者，既要靠自身奋斗，也要考虑到历史的行程。一个好故事足以挑起民族仇恨，让它的读者气得咬牙切齿或莫名担惊受怕，却不能唤起他们的暴力。</p>
+<p>要把民族仇恨变成真正的种族灭绝，主要还得看运气。因为仇杀要么是一国政府有意的作为，要么是秩序崩坏的动乱状态，不受仇恨家的控制。</p>
+<p>很多族群仇杀都是政府有意煽起，原本的仇恨程度反而没那么重要。纳粹德国制造了人类历史上最为骇人的种族灭绝，但此前的德国却是犹太人在欧洲融合最好的一个国家，一战中德军使用的化学武器就是犹太科学家弗里茨·哈伯开发部署的。</p>
+<p>相反，反犹思想在出版自由的英国传播无忌，包括丘吉尔在内的大多数英国政客都接受过犹太阴谋论，1917 年在利兹和伦敦东区还出现过反犹暴乱。但英国政府始终扮演调停角色，防止极端事件发生。“水晶之夜”后，英国还接收了从德国逃出的部分犹太难民。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.19.32.png" alt="Screen Shot 2016-02-06 at 下午5.19.32" width="572" height="399" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.19.32-300x209.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.19.32.png 572w" sizes="(max-width: 572px) 100vw, 572px"><br><span>1939 年 2 月，犹太难民儿童抵达伦敦港</span></p>
+<p>二战后，信息传播手段高度发展，但几次著名的种族屠杀，仍然与事发国政府难脱干系。</p>
+<p>1993 年的卢旺达大屠杀期间，政府要员控制的电台 RTLM 就在广泛散播“除掉图西蟑螂”的意识，政府军队更直接煽动仇恨，乃至强迫平民参与屠杀。有学者研究发现，越是道路泥泞偏远，政府鞭长莫及的偏远山村，平民参与杀戮的比率就越低。</p>
+<p>1998 年的印尼排华暴乱中，苏哈托政府也有明确介入。官方组织的“联合实情调查团”便发现，有政府军人直接参与暴乱。苏哈托的女婿、前陆军特种部队司令普拉博沃中将被认为是关键人物——当时正在发生反对苏哈托统治的学生运动，此人企图将运动扭转为打砸抢烧的暴乱，进而宣布军管戒严。但苏哈托不久便宣布辞职，他的计划没能实现。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.20.20.png" alt="Screen Shot 2016-02-06 at 下午5.20.20" width="578" height="206" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.20.20-300x107.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.20.20.png 578w" sizes="(max-width: 578px) 100vw, 578px"><br><span>印尼排华暴乱在中文网络成了民族仇恨传播的经典案例——耸人听闻至上，事实逐渐走样。热传的“印尼屠华照片”几乎都不是真货，斩首和吃人肉来自达雅族与马都拉族的种族仇杀，拖行侮辱尸体来自外南梦猎巫暴行，被奸杀女尸是受印尼士兵侵害的东帝汶人，而现场的轮奸照片，出自一家叫做“性感亚洲女学生”的色情网站。事实上约 1000 人死亡的五月排华暴乱，死者大多数都不是华人，而是印尼暴徒自己，他们在抢劫一家华人超市时引发火灾，烧死了正在里边打劫的数百人。</span></p>
+<p>政府能煽起仇杀，当然也能熄灭仇恨。暴乱还未过去两年，印尼的首届民选政府就开始检讨持续 30 多年的歧视华人政策，六份华文报纸先后试刊，华人终于获准公开庆祝春节。在这种时代，仇恨故事编得再好，也很难起什么作用了。</p>
+<p>不过，真正能让仇恨不受约束、大行其道的时代，还得数秩序崩坏的乱世。</p>
+<p>心理学家研究发现，人们对于负面情绪更容易发生共情，对同一群体的情绪也更容易发生共情。因此，仇恨在族群间残酷斗争的极端环境下，会变成有效的动员机制及生存策略。换句话说，民族仇恨已经天然掌握优势，斗争会让人们自动投身其中，还会让资源集中到煽动者的旗帜下——只要他保持足够极端。</p>
+<p>2011 年开始的叙利亚内战就已经造成了这种状态。2013 年，BBC4 频道走访两个曾经关系和睦的相邻村庄，分别信仰什叶派和逊尼派。随着战争中愈来愈多的人道危机，教派仇恨迅速发展壮大。某次政府军炮轰后，一名失去孩子的逊尼派父亲不顾西方记者正在拍摄，对着摄像头就吼道：“我要杀死什叶派的女人和孩子，让他们血债血偿。”</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-%E4%B8%8B%E5%8D%885.21.03.png" alt="Screen Shot 2016-02-06 at 下午5.21.03" width="572" height="376" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.21.03-300x197.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-06-at-下午5.21.03.png 572w" sizes="(max-width: 572px) 100vw, 572px"></p>
+<p>对于西方观众，这番话意味着战争中人性的丧失；但在伊斯兰世界，这番话却可能是向广大逊尼派征集援助的动员宣言。仇恨者的队伍越杀越大，同族捐助的资金、武器和人力都会流到他的旗下；温和的队伍则越杀越小，只能得到西方世俗世界名义上的同情。正是在那个村庄，原本隶属自由军，连古兰经都没读过的年轻人，也因为战争物资的匮乏而转投了基地分支胜利阵线。</p>
+<p>在社会崩溃的大洪水时代，制造仇恨的技术才会找到真正的用武之地。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E6%80%8E%E6%A0%B7%E5%88%B6%E9%80%A0%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99/?category=18271" rel="tag">伊斯兰教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%83%E6%9C%9D/?category=18271" rel="tag">元朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%B0%BC%E6%8E%92%E5%8D%8E/?category=18271" rel="tag">印尼排华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%8A%B9%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">反犹主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A/?category=18271" rel="tag">大象公会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">宗教矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F/?category=18271" rel="tag">少数民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">民族关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">民族矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%B9%E5%A4%AA%E4%BA%BA/?category=18271" rel="tag">犹太人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4%E4%BA%BA/?category=18271" rel="tag">蒙古人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B9%A0%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D-%E5%AF%BB%E6%B1%82%E5%85%B1%E8%AF%86%E5%88%B6%E8%A3%81%E6%9C%9D%E9%B2%9C/" target="cdt-mirror">德国之声｜习奥通电话 寻求共识制裁朝鲜</a>
 </h2>
 <p><p>美国总统奥巴马与中国国家主席习近平在周五晚间就朝鲜问题通了电话，双方一致认为应当推动一份“有效的”安理会决议来应对平壤方面的挑衅。</p>
@@ -260,7 +338,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8D%E5%A4%A7%E6%88%98%E6%97%A5%E8%B6%8B/" target="cdt-mirror">苹果日报｜李平：习近平江泽民「核心」大战日趋激烈</a>
 </h2>
@@ -699,35 +777,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%BA%95%E5%86%88%E5%B1%B1%E6%9C%9D%E5%9C%A3/" target="cdt-mirror">【习总日记】井冈山朝圣</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg" alt="习总日记" width="232" height="174">（ 2016 ， 2 ， 4 ）</p>
-<p>江湖武林师傅徒弟论资排辈衣钵传承转世活佛。就党而言，也讲究正宗正统。所谓根红苗正，革命事业接班人。</p>
-<p>共产党如果是地球上的江湖门派，那么开山祖师爷是德国犹太马克思同志。共产党传入俄国，苏维埃太祖列宁二祖斯大林。共产党传入中国中共太祖毛泽东。</p>
-<p>毛太祖驾崩时并未昭告天下传位于谁谁谁，不过太后江青七珠亲王毛远新势大，那是明摆着的。不料首辅大臣华国锋总理发动宫廷政变成功，自封二代。不曾想黄雀在后邓小平依靠叶剑英李先念等人，推翻华国锋自封第二代。</p>
-<p>1990 年邓二代册封江泽民为中共衣钵传人第三代核心。</p>
-<p>我习近平当了三年总书记，迟迟未受到三代核心泽民册封，心急如焚，整日里唉声叹气。于是上井冈山朝圣，向太祖毛主席哭诉。</p>
-<p>伟大领袖毛主席啊，胡锦涛十年小媳妇未受册封四代核心。如今江泽民欺负于我，三年了不见动静响声，估摸着获得第四代核心称号有点悬。今天重上井冈山，求您老人家开恩显灵，让我如愿以偿成为四代核心。</p>
-<p>这时，江泽民的话儿传到江西：“想当第四代核心？不是不可以，但要懂规矩循常理。平时不把咱老家伙放在眼里。如今却。。。呵呵。”</p>
-<p>我独自寻思：“胡锦涛老老实实做了十年小媳妇。然并卵。”</p>
-<p>当晚毛主席入梦来：“邓小平害死了我婆姨，囚禁我侄儿。你为我报仇，别说是第四代核心，就是‘以习近平为首的党中央’也不在话下。”</p>
-<p>我战战兢兢，既高兴又害怕：“毛主席，侄儿实力不济，江泽民他人多势众。”</p>
-<p>毛主席一摆手：“一报还一报。邓小平可以指责我文革错误，你也可以指责他六四错误。平反六四易如反掌人民拥护。六四平反，江泽民便毫无合法性。”</p>
-<p>我鼓足勇气：“是，俺听毛主席的话。”</p>
-<p>在南昌亲切接见驻赣部队师以上领导干部和建制团单位主官，同大家合影留念，并发表重要讲话。</p>
-<p>我代表党中央和中央军委，向驻赣部队全体官兵致以诚挚问候。我强调，要以党在新形势下的强军目标为引领，深入推进政治建军、改革强军、依法治军，坚持用井冈山精神等革命传统铸魂育人，教育引导广大官兵坚决听党的话、跟党走，坚决听从党中央、中央军委指挥。要积极支持老区脱贫攻坚，推动军民融合深度发展，为全面建成小康社会、推进强军兴军伟大事业作出新的更大贡献。</p>
-<p>平反六四最佳时机，是江泽民寿终正寝的时候。江泽民健在，我思前想后，还是不敢贸然动手。不过话说回来，等到江泽民去见马克思，我自然而然宣布自己为第四代核心，也没必要一定要去触碰六四这个雷。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/020416.jpg" alt="020416" width="550" height="403" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/020416-300x220.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/020416.jpg 640w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%BA%95%E5%86%88%E5%B1%B1%E6%9C%9D%E5%9C%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -739,7 +788,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -749,5 +798,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

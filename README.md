@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%98%A5%E8%8A%82%E5%AF%B9%E5%94%90%E5%BF%97%E9%A1%BA%E5%B9%B8%E6%B8%85%E8%B4%A4%E7%9A%84%E5%A6%BB%E5%AD%90%E4%B8%8D%E6%98%AF%E6%AC%A2%E4%B9%90/" target="cdt-mirror">自由亚洲｜春节对唐志顺幸清贤的妻子不是欢乐</a>
+</h2>
+<p><p>去年10月6日，两位仗义和热心人士唐志顺、幸清贤，因帮助被捕的维权律师包龙军、王宇夫妇16岁的儿子包蒙蒙出国读书，在到达缅甸时被越境而来的中国公安绑架回国，到2月6日，整整四个月，至今下落不明。春节到了，这个春节，对于唐志顺和幸清贤的妻子来讲，不是欢乐，而是对丈夫的思念和担忧，她们要求中国警方告诉她们：自己的丈夫在那里。</p>
+<p>唐志顺一家三口本来在去年10月初的黄金周假期来美国旅游，唐志顺让妻子高沈带着女儿先走，他说去办一件事，然后来美国和妻女会合。结果高沈到达旧金山，才知道唐志顺去救包蒙蒙，在缅甸被中国公安绑架。</p>
+<p>这是高沈和唐志顺结婚以来，第一次独自带着孩子过春节，而且是在异国他乡。这几天，当地华人朋友都邀请这母女倆来家过年，使高沈感到温暖。但高沈已经没有往年春节的欢乐，春节加重了他对丈夫的挂念。高沈说：“他现在已经被关押整整四个月了，我和我的女儿非常挂念他，特别想知道他的信息，每天都在担心他在里面被虐待。这个春节是我跟她结婚以来分开的第一个春节，心里无比的惆怅。但是中国警方就是不给我们任何消息，让我们每一天在焦虑中度过。”</p>
+<p>高沈表示：唐志顺做错了什么吗？他和幸清贤只是要帮助包蒙蒙出国读书。高沈说：“包蒙蒙很可怜，爸爸妈妈已经在监狱里了，这样的孩子，应该得到所有热心人士、正义人士的帮助，我先生没有错。我希望有更多的人能够帮助包蒙蒙，帮助他的求学之路能够顺畅的走下来。也希望中国警方能够善待正义人士的孩子，善待那些维权律师的孩子们。”</p>
+<p>幸清贤被绑架后，他的妻子何娟只身逃来美国。和高沈一样，何娟虽然感受到当地华人的温暖，但春节对于何娟，也不是欢乐，而是牵挂和担忧。何娟说：“开头一阵子我还很坚强，但是后面有一段时间我很脆弱，我莫名其妙的总是爱哭。我总觉得他那么单薄的身体根本扛不住里面的酷刑的折磨。至于有什么样的酷刑，这绝对是超出我们的想象。”</p>
+<p>那么此时，何娟要对不知被关押在何处的丈夫说些什么呢？“我真想对他说：不管人家让你签什么字，画什么押，不管人家怎么样让你上中央电视台去认罪，统统给他认。只要你能够在电视上现身，对我也是一种安慰，我可以知道你还是活着。我希望他能够配合他们演戏，反正人们都知道那是假的。你面对的是强大的、个人根本无法抵抗的强权。你看瑞典的老外也屈服，桂民海等境外绑架的人都屈服，没有什么可耻，没有什么不好意思的。”</p>
+<p>何娟也表示；幸清贤和唐志顺只是想帮助一个父母被迫害的包蒙蒙出国读书，自己的丈夫没有做错什么。她说：“如果是我，我也会这么做。我们的祖国、我们的政府，他们的底线不断的下降，我们永远也看不到它的底线。就算是偷渡，按照中国的法律也就拘留几十天而已，哪有被失踪到这个样子。”</p>
+<p>（特约记者：CK; 责编:陈平）</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/892dicon-listen.png" alt=""></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%98%A5%E8%8A%82%E5%AF%B9%E5%94%90%E5%BF%97%E9%A1%BA%E5%B9%B8%E6%B8%85%E8%B4%A4%E7%9A%84%E5%A6%BB%E5%AD%90%E4%B8%8D%E6%98%AF%E6%AC%A2%E4%B9%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%9D%A8%E4%B9%83%E6%AD%A6%E5%B0%8F%E7%99%BD%E8%8F%9C%E6%A1%88%E4%B8%AD-%E8%80%81%E4%BD%9B%E7%88%B7%E5%88%B0%E5%BA%95%E8%8B%B1%E6%98%8E/" target="cdt-mirror">东网｜王药师：杨乃武小白菜案中 老佛爷到底英明在哪</a>
+</h2>
+<p><p>翻了下枱历、算了下日期，读者诸君看到这篇文章的时候，将恰好是农历大年初一，丙申猴年的第一天。在此，我特向各位道声新春快乐。不过，对于许多官员来说，这个春节注定不会过得太平。</p>
+<p>继内蒙古27名公职人员因对呼格吉勒图错案负有责任遭到追责后，天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告近日也获国务院批覆，123名责任人员将受到处理，其中包括天津市委常委、滨海新区区委书记宗国英、天津市副市长孙文魁、何树山、交通部副部长何建中以及海关总署党组副书记、副署长鲁培军等5名省部级官员。</p>
+<p>官员不太平，民众同样不痛快。呼格吉勒图枉死20年，家属等来的却是“罚酒三杯”式的追责处理。除了时任呼市公安局新城分局副局长的冯志明因为涉嫌职务犯罪，被另案处理外，其余人员竟无一个被革职判刑。</p>
+<p>至于说天津港爆炸事故，死了165个人，已核定的直接经济损失就高达68.66亿元。可结果呢？24名相关企业人员倒是都被采取刑事强制措施了，但对123名责任官员，给予的却多是党纪政纪处分，或者诫勉谈话、批评教育，只有25名行政监察对像被立案侦查，且多是些小喽啰。如此处理结果，别说家属和舆论“难以接受”，你让当年因“葛毕氏谋害亲夫”案被革职的一百多名朝廷大员都情何以堪？</p>
+<p>所谓“葛毕氏谋害亲夫”案，就是民间俗称的“杨乃武与小白菜案”。该案由于影响巨大，妇孺皆知，所以最近这段时间，反复被舆论拿来作为参照物，与前述两案进行比较。特别是当时的朝廷对于涉案官员的处罚之严厉、牵涉面之广——不仅作为直接判案官员的余杭知县刘锡彤被发配黑龙江，包括浙江巡抚杨昌浚、浙江学政胡瑞澜、杭州知府陈鲁在内的上百位“负有领导和监管责任”的各级官员，均被革除顶戴花翎，永不续用——更是引来舆论一片“今不如昔”的感叹，甚至有人高呼“还是我大清圣母皇太后英明”。</p>
+<p>感叹也好，呼喊也罢，本质上不过是戏谑式的借古讽今、指桑骂槐。因为谁都知道，杨乃武与小白菜案并不像外界想象的那样皆大欢喜、功德圆满。且不说过程当中杨乃武、小白菜所遭受的种种酷刑折磨，即便是那被后人津津乐道，最终感动会审官员，令冤案得以平反的杨淑英的“滚钉板”之举，距离现代司法文明又何止以道里计——要不，王晶的《满清十大酷刑》怎么会以该案为原型呢？</p>
+<p>事实上，“杨乃武与小白菜案”最终之所以会有这样一个处罚结果，与其说是司法的胜利，不如说是当时官场江浙派与两湖派政争的产物。而且从结局看，正义也远没有得到伸张，不仅杨乃武的举人功名并没有恢复，反倒是那些“永不续用”的官员，如杨昌浚等，蛰伏一段时间后却纷纷复出，甚至有的后来官至兵部尚书、太子太保的高位。</p>
+<p>但即便如此，我大清圣母皇太后还是英明的。至少，无论是在案中还是案后，老佛爷都没有试图遮掩案件的相关信息，甚至还接连发布懿旨，将调查报告和处理意见昭告天下。这才使今天的人们得以完整详尽地了解此案的来龙去脉、是非曲直。</p>
+<p>可不要小瞧这一点，不信的话，谁到给我说说呼格吉勒图被冤杀的详细经过，或者天津爆炸事故被遮掩的官场黑幕？不行了吧！其实，别说复述完整的故事链了，看完那份据说是调阅了600多万字文字资料、10万小时监控视频，进行了8次模拟实验，开了56场专家论证会，对600余名相关人员逐一调查取证才出炉的官方调查全文，我甚至都没弄明白瑞海公司当初是怎么层层过关，把危化仓库建到居民区的？那被处理的123名责任人员又各自扮演了什么角色，谁是“刘锡彤”，谁又是“杨昌浚”？</p>
+<p>至于说像前人排演“杨乃武与小白菜案”那样，把呼格吉勒图错杀案、天津爆炸案搬上戏台和银幕，通过艺术的形式演绎出来，流传下去，以此警戒后人，那就更是痴人说梦、痴心妄想、痴迷不悟了。什么宣传部、广电总局、网信办，一个个都会找上门来；报批、审查、发行、放映，哪一个环节都能够把你的“中国梦”扼杀在摇篮里，拍死在沙滩上。仅就此一点，老佛爷比今天的有些“核心”就不知高到哪里去了。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%9D%A8%E4%B9%83%E6%AD%A6%E5%B0%8F%E7%99%BD%E8%8F%9C%E6%A1%88%E4%B8%AD-%E8%80%81%E4%BD%9B%E7%88%B7%E5%88%B0%E5%BA%95%E8%8B%B1%E6%98%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津大爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%99%BD%E8%8F%9C/?category=18271" rel="tag">小白菜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E4%B9%83%E6%AD%A6/?category=18271" rel="tag">杨乃武</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E4%BD%9B%E7%88%B7/?category=18271" rel="tag">老佛爷</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E6%80%8E%E6%A0%B7%E5%88%B6%E9%80%A0%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8/" target="cdt-mirror">大象公会 | 怎样制造民族仇恨</a>
 </h2>
 <p><p>作者：赵联人</p>
@@ -713,70 +756,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/" target="cdt-mirror">【图说天朝】为了国家 盗版有理</a>
-</h2>
-<p><p>近日，中国3DM游戏网因发布日本光荣公司的《三国志13》游戏的免费破解版而收到对方的律师函，要求3DM删除相关下载内容并公开道歉。3DM按照要求删除游戏下载的同时还发表了<a href="http://games.qq.com/a/20160203/024981.htm">如下</a>言论：</p>
-<blockquote><p>对此，3DM方面回应称，对光荣的做法表示理解，但是有以下两个疑惑：第一，众多知名游戏厂商，在定人民币价格的时候，都比较低廉，比如同步上市的《古墓丽影：崛起》仅145元人民币，为什么《三国志13》定价近400元人民币，完全高于了国内玩家的支付能力，<strong>这样并不符合市场发展</strong>，我曾经说过，2年后中国玩家将没有免费的PC游戏了，但是希望厂商能够按中国消费水平合理定价，不能跟某6一样，拿着情怀坑我们中国玩家。第二，<strong>为什么陈寿所著《三国志》衍生的游戏著作权在一家日本公司手里，而不是中国公司手里……我还是觉得我们中国的游戏公司应该想办法拿回来</strong>。</p></blockquote>
-<p>然后发生了<strong>盗版玩家集体举报<a href="http://store.steampowered.com/about/?l=schinese">游戏平台Steam</a>中国区进行报复</strong>，<strong><span>以爱国的名义</span>誓让所有人都用不上正版的奇观</strong>：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/0066vV8mgw1f0o6exo5u8j30hs0vlgpk.jpg" rel="attachment wp-att-427773"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/0066vV8mgw1f0o6exo5u8j30hs0vlgpk.jpg" alt="0066vV8mgw1f0o6exo5u8j30hs0vlgpk" width="400" height="711"></a></p>
-<p><strong>这里需要指出的是，Steam为了鼓励中国用户购买正版游戏，已经主动降低了不少游戏的<a href="https://www.zhihu.com/question/27634928">中国区定价</a>，</strong>比如热门游戏Grand Theft Auto 5在中国区是30美金，只有美国原价的一半。</p>
-<p><em>以下图片来自新浪微博 <a href="http://weibo.com/1620767105/DgpD4q3ZW">@疾风之翼-Moehayate</a>：</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45.jpg" rel="attachment wp-att-427769"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45.jpg" alt="609af181jw1f0oaibzj3ij211d0g3n45" width="585" height="252" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45-300x129.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45-768x331.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaibzj3ij211d0g3n45.jpg 1024w" sizes="(max-width: 585px) 100vw, 585px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok.jpg" rel="attachment wp-att-427768"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok.jpg" alt="609af181jw1f0oaiclhdbj20in0glgok" width="550" height="489" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok-300x267.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaiclhdbj20in0glgok.jpg 671w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b.jpg" rel="attachment wp-att-427767"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b.jpg" alt="609af181jw1f0oaidbc7sj20pp0dvq4b" width="550" height="297" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b-300x162.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b-768x414.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidbc7sj20pp0dvq4b.jpg 925w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i.jpg" rel="attachment wp-att-427766"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i.jpg" alt="609af181jw1f0oaidx5t1j20m80j740i" width="550" height="475" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i-300x259.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i-768x663.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaidx5t1j20m80j740i.jpg 800w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63.jpg" rel="attachment wp-att-427765"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63.jpg" alt="609af181jw1f0oaieh1bjj20hx0g5q63" width="550" height="495" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63-300x270.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/609af181jw1f0oaieh1bjj20hx0g5q63.jpg 645w" sizes="(max-width: 550px) 100vw, 550px"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2132762297" target="_blank">@墟灯</a>：爱国主义已经是流氓最后的遮羞布了<img title="[吐]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]"></p>
-<p><a href="http://weibo.com/xiongmaodemeili" target="_blank">@iG_Sven_FCB</a>：<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]">我拒绝承认跟这种生物是一国人！昨晚还跟丹总聊这事儿，麻痹我掏钱买正版养着你们这帮盗版逼，你们反过来骂我人傻钱多，还举报我们正版，三观真是扭曲！</p>
-<p>@冰封的羲和-黑色标记: 大写的“你国人”</p>
-<p>@论能量守恒的哲学意义：果然爱国主义是谁的避难所来着……</p>
-<p>@刘春遥Alfred:我穷我有理系列，买不起正版就谁TMD也别想玩正版系列。</p>
-<p>@我又不是胖子咯：Steam蛮好的啊，逢年过节给打折，能支持就支持咯，盗版毕竟不对啊。</p>
-<p>@绿君-DR预热中：我自从开始有收入之后一直在买正版游戏，为了弥补小时候玩盗版的亏欠，但凡我小时候玩的盗版游戏出了续作的，一律买两份，比如武林群侠传什么。玩盗版绝对不是什么理所当然的事情，即便是小学生，都明白不给厂商钱，就没有新的好游戏玩的道理。</p>
-<p>@伟哥取名技能没加点啊：承认小时候游戏会买盗版碟现在也是有人会说「你玩正版玩出什么优越感了」但还是觉得不管专辑or游戏这种一次付清也不太贵的尊重一下爱豆露的艰辛设计者的脑力程序员的汗水不行嘛 说我装比也行但我觉得关起门玩盗版就算了玩盗版玩出优越感还要举报正版我真服了[微笑]【情侣被强奸犯告非法同居】合理？</p>
-<p>@八木沼悟志正面上我啊：哈哈哈…让我想起来小区门口…因为停车位的问题…你不让我停..你也别停..占便宜没够吃亏难受.已经深入国人基因里了</p>
-<p>@折君OrekiRin：盗版怎么都没理，毕竟人家是有知识产权的，没被版权你玩了算你运气好被版权后也只能认咯，哪有这样没理还耍泼皮无赖的→_→</p>
-<blockquote><p>@ollin:我开始方了<br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2.jpg" rel="attachment wp-att-427774"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2.jpg" alt="62062385gw1f0obqbjl1mj20mf08rmy2" width="550" height="215" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2-300x117.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2-768x300.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/62062385gw1f0obqbjl1mj20mf08rmy2.jpg 807w" sizes="(max-width: 550px) 100vw, 550px"></a></p></blockquote>
-<p>@战场原戍野：想起来当初的MHP3…一群人也是逼着人家破解，结果愣是把人逼走了…本来玩破解就不要这么高调，你居然还恬不知耻的威胁人家这就是犯贱了</p>
-<p>@小坂摸逢考必过：买不起Dior，背了淘宝上的假包，冲进专柜打砸抢烧。</p>
-<p>@小辫子蜀黍：用盗版用出了一种天下唯我独尊的感觉，也没谁了</p>
-<p>@ikillKenny：所以说嘛 … 大概任何事都能加上“爱国主义”这个华丽的包装盒</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/steam/?category=18271" rel="tag">Steam</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%9B%97%E7%89%88/?category=18271" rel="tag">反盗版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">境外游戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81%EF%BD%9C%E6%94%BF%E6%B2%BB%E8%AF%BE%E6%88%90%E7%BB%A9%E8%B6%8A%E5%A5%BD%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%8C%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E4%B8%BA%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">政见｜政治课成绩越好的学生，越不愿意“为国家添麻烦”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg" rel="attachment wp-att-427753"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg" alt="1609585311" width="455" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/1609585311-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/1609585311.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
-<p><em>作者：邵立</em></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-10/">【异闻观止】浙江26名厅官将为大学生上思想政治教育课</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E8%A6%81%E5%9C%A8%E9%AB%98%E6%A0%A1%E6%89%93%E5%93%8D%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E5%8F%8D%E5%87%BB%E6%88%98%E7%9A%84%E6%9D%8E%E5%90%89%E6%98%8E%E6%98%AF%E8%B0%81%EF%BC%9F/">要在高校“打响意识形态反击战”的李吉明是谁？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E9%AB%98%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E6%8E%A2%E7%A9%B6/">大数据时代高校思想政治教育模式创新探究</a></li>
-</ul></blockquote>
-<p>在中国，以马列主义、毛邓三和中国近现代史为代表的政治课是所有大学本科生的必修课以及研究生考试的必考科目。它们到底有什么用呢？是为了刷新大学生的三观吗？还是承担着特殊的政治功能？</p>
-<p>来自加州大学默西分校的黄海峰教授认为，政治课的内容并不一定能刷新三观。但蓬勃开展的政治课教育本身就向学生传递一个信号：国家之所以有能力进行政治课教育，是因为有强大的实力。学生政治课学得越好，对这种实力的体会就越深刻，也就越不愿意表达出违背国家意志的态度。</p>
-<p>研究者在中国选了一所大学的一千多名大二学生进行调查。由于政治课的内容和形式在各所大学差异很大，所以他只选了一所学校，用以控制政治课授课内容 一致。问卷首先问了大学生对中央和地方政府、政治制度、治理能力等方面的评价，然后问他们对政府维稳能力的估计，参加游行集会以及学生罢课的意愿。最后， 问卷根据 “马克思主义原理” 和 “中国近现代史” 制作了十五道单项选择题作为 “考试题”，用以测量学生对政治课材料的熟悉程度。</p>
-<p>在调查完成后，作者利用一种叫做 ordered-logit model 的方法对调查结果进行统计分析。他首先发现，排除了性别、家庭收入、平时学习成绩和党员身份等因素的影响后，政治课成绩越好的学生，并没有对中国政府的评价越高。</p>
-<p>不过，另一方面，研究者发现，政治课成绩越好的学生越认为政府有强大的维稳能力，并且罢课的意愿越小。此外，政治课成绩好的学生游行集会意愿也较低，但这一结果在统计上并不显著。</p>
-<p>研究者据此认为，调查结果印证了他的观点：政治课学得好没有改变学生对国家的评价。这说明政治课教育改变学生观念和态度的效果是非常有限的。但是， 政治课能有效向学生传达 “国家机器非常强大” 的信号，让他们更少选择违背国家意志，更不愿意 “为国家添麻烦”。研究者认为，这个结果也能解释国家对其他宣传机器的运用：即使说服不了受众，也能传达出一定的信号。</p>
-<h5><span>参考文献</span></h5>
-<ul><li>
-<h5><span>Huang, H.F. 2015. “Propaganda as Signaling.” <em>Comparative Politics, 47</em>(4): 419–44.</span></h5>
-</li>
-</ul><hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81%EF%BD%9C%E6%94%BF%E6%B2%BB%E8%AF%BE%E6%88%90%E7%BB%A9%E8%B6%8A%E5%A5%BD%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%8C%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E4%B8%BA%E5%9B%BD%E5%AE%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">思想政治工作</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/?category=18271" rel="tag">独立思考</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -788,7 +767,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -798,5 +777,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

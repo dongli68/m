@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,104 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%A6%81%E4%B9%A6%EF%BC%9A%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E7%9A%84%E6%91%87%E9%92%B1%E6%A0%91%E4%B8%8E%E6%83%B9%E7%A5%B8%E6%A0%B9/" target="cdt-mirror">纽约时报｜中共禁书：香港书商的摇钱树与惹祸根</a>
+</h2>
+<p><figure><img src="http://chinadigitaltimes.net/chinese/files/2016/02/04hkbooks-web1-articleLarge.jpg" alt="04hkbooks-web1-articleLarge" width="550" height="367"></figure><figure><figcaption><span>巨流传媒坐落在仓库里的一间办公室。</span> <small>Lam Yik Fei for The New York Times</small> </figcaption></figure><div>
+<div>
+<address>傅才德,杰安迪</address>
+<p><time datetime="2016-02-05 10:50:42"> 2016年2月5日 </time></p></div>
+<div></div>
+</div>
+<div>香港——在香港一间灯光昏暗的工业建筑内，千百本用牛皮纸包裹的书一摞摞堆放在货板上，足有一米多高。这些书里是一些有关性、腐败和谋杀的故事，就算是低级情色小说的资深读者看过，也会脸红。</div>
+<div>
+<div>
+<p>不过，这些融合了谣言、猜想和纯粹虚构内容的作品，编造的是有关中国精英阶层的故事。其中一本《总书记的八段情缘》称，中国国家主席习近平有不少风流韵事，包括他与一名电视主持人的私情。<a href="http://cwbbooks.com/products.php?product=%E3%80%8A%E5%BD%AD%E9%BA%97%E5%AA%9B%E5%B9%B2%E6%94%BF%E3%80%8B" target="_blank" rel="nofollow">另一本</a>则称习近平的妻子被这些情事激怒，夺取了丈夫手中的权力。</p>
+<p>在美国，这样的书会和超市里的八卦报刊摆在一起，消费者大多也只是将其当做娱乐。而在香港、澳门和台湾，它们是禁果，会受到大陆来的游客兴奋地抢购，这些人渴望了解哪怕一丁点有关自己国家领导人私生活的八卦消息。</p>
+<figure><div><img src="http://static01.nyt.com/images/2016/02/04/business/04hkbooks-web3/04hkbooks-web3-articleInline.jpg" alt="一家出版公司在香港的仓库里堆满了有关谋杀与色情元素的书籍。"></div>
+<figcaption><p>一家出版公司在香港的仓库里堆满了有关谋杀与色情元素的书籍。</p>
+<p><small>Lam Yik Fei for The New York Times</small> </p></figcaption></figure><p>这些书奇怪地证明了中国共产党压制言论的行动有多么成功。在大陆，这些书是被禁止发行的，在那里，有关政治和政治人物的信息都受到严格控制。哪怕只是被发现持有这些书，一个人也可能被警察带走审问。</p>
+<p>然而，在司法系统独立于大陆之外的香港，书商把这类违禁书变成了利润丰厚的生意。因为大陆存在信息空白，这类书反倒有了某种可信性。</p>
+<p>比如，中共的宣传机构一直将习近平及其妻子塑造成一对恩爱的第一夫妻。可是，官方媒体越是大肆宣传习近平和妻子 的爱情故事，“有些人可能就越是想买那些标榜自己讲述了背后真实情况的书来读，”加州大学欧文分校(University of California, Irvine)研究中国历史的教授杰弗里·瓦瑟施特伦(Jeffrey Wasserstrom)说。</p>
+<p>现在，这些书商陷入了真人惊悚剧之中。</p>
+<p>自去年10月起，巨流传媒公司(Mighty Current Media)的五名成员相继失踪，上述两本有关习近平家庭的书籍就是由该公司出版。其中有一名是英国公民，他于12月30日最后一次在香港被人看见，几周后，中国警方确认他人在大陆。</p>
+<p>巨流传媒大股东兼出版人、瑞典公民桂民海(Gui Minhai)也失踪了。三个月后，他在中国官方电视上<a href="http://cn.nytimes.com/china/20160118/c18hongkong/" target="_blank" rel="nofollow">现身</a>，称自己是自愿放弃他在泰国一个度假公寓内的生活，返回内地，目的是为2003年的一起酒后驾车致人死亡案件接受惩罚。</p>
+<p>另外三名书商最后一次被人看到是在中国南部，香港政府周四表示，他们目前在大陆被拘押，罪名是参与了“非法活动”。据称他们的案件与“一名桂姓人士”的案件有关。</p>
+<p>这些人的失踪让整个香港都紧张起来。当局仔细查看了画面模糊的监控影像，研究这些人失踪之前的只言片语，寻找线 索。成千上万的抗议者走上了街头。香港领导人一边试图安抚受到惊吓并要求给出解释的香港居民的情绪，一边又努力让自己在北京的“大老板”满意。连奥巴马政 府也在本周介入进来，呼吁中国政府给出解释。</p>
+<p>整个过程中，北京基本上一直保持缄默，让此事变得更加诡异。</p>
+<figure><div><img src="http://static01.nyt.com/images/2016/02/04/business/04hkbooks-web6/04hkbooks-web6-articleInline.jpg" alt="巨流传媒的出版人、股东桂民海为瑞典公民。他先是失踪，后又在中国的官方电视台上露面，宣称是自愿返回内地接受当初犯下醉驾致人死亡案件应受的惩罚。"></div>
+<figcaption><p>巨流传媒的出版人、股东桂民海为瑞典公民。他先是失踪，后又在中国的官方电视台上露面，宣称是自愿返回内地接受当初犯下醉驾致人死亡案件应受的惩罚。</p>
+<p><small>Cctv/Agence France-Presse — Getty Images</small> </p></figcaption></figure><p>这些人失踪的确切原因目前还不清楚。几名业内知名人士和一位经常与大陆官员打交道的政治圈内人士表示，这些出版人最有可能是被一心维护习近平名声的积极的安全官员偷偷带走，尽管习近平本人可能并不知情。</p>
+<p>“打着维护习近平形象的招牌，他们会不择手段，”明镜集团创始人何频说，该公司总部位于纽约，也出版在香港销售的中文八卦书籍。“把巨流公司的人偷偷抓起来的就是这类人。”</p>
+<p>香港面临的问题不只是一些八卦机场读物的销售那么简单。很多人担心，大陆对香港的影响正日渐加深，而在这个城市里，公民的自由，包括言论自由和集会自由，本是受到宪法保护的。这五位失踪的书商里，有四名是香港居民。</p>
+<p>“它可能已经在香港民众中引发了寒蝉效应，尤其是在出版领域，”香港大律师工会理事会成员、基本法专家罗沛然(P. Y. Lo)说。“这绝对不是个好兆头。”</p>
+<p>失踪事件也使中国人权活动人士陷入了不得不为这些书商辩护的艰难处境，而在他们看来，这些书也就是一些不堪入耳 的谣言。这与上世纪80年代，《好色客》(Hustler)出版人拉瑞·弗莱恩特(Larry Flynt)与牧师杰里·福尔韦尔(Jerry Falwell)在最高法院打官司时，美国自由言论倡导者一边嫌弃前者，一边为他辩护的情形一样。</p>
+<p>“不幸的是，中国大陆没有这种言论自由，”独立中文笔会前任会长廖天琪说，该组织对书商失踪事件表达了强烈的担忧。“但如果到了中国以外的地方，有些人就会滥用这种自由，桂民海就是其中之一。”</p>
+<p>巨流、明镜和<a href="http://frontline.sandhk.com/?page_id=113" target="_blank" rel="nofollow">夏菲尔</a>之类的小众出版机构的商业模式非常简单。</p>
+<p>他们用廉价纸张印制平装书，每本售价可以高达20美元。香港、新加坡和台北的小书摊上，以及迎合大陆游客的书店里都摆满了这类书，它们在这些城市的机场里尤其泛滥。</p>
+<p>书的封面往往非常吸引眼球。比如巨流出版的有关习近平妻子彭丽媛的那本书，使用了一张慈禧太后像，脸替换成彭丽媛。慈禧是中国最后一个王朝清朝末期的令人生畏的统治者。另一本有关令计划的书，<a title="Link: https://3ttttt.wordpress.com/2015/10/19/%E3%80%8A%E4%BB%A4%E8%AE%A1%E5%88%92%E7%81%AD%E9%97%A8%E6%A1%88%E3%80%8B/" href="https://3ttttt.wordpress.com/2015/10/19/%E3%80%8A%E4%BB%A4%E8%AE%A1%E5%88%92%E7%81%AD%E9%97%A8%E6%A1%88%E3%80%8B/" target="_blank" rel="nofollow">封面</a>上方印着向下流动的鲜血。这本书称，之前在北京担任相当于白宫幕僚长职位的令计划，曾在美国卷入一起谋杀案。</p>
+<figure><div><img src="http://static01.nyt.com/images/2016/02/04/business/04hkbooks-web4alt/04hkbooks-web4alt-articleInline.jpg" alt="与出版令中国政府不悦的书籍有关的五名人员失踪后，抗议者走上了香港的街头。"></div>
+<figcaption><p>与出版令中国政府不悦的书籍有关的五名人员失踪后，抗议者走上了香港的街头。</p>
+<p><small>Anthony Wallace/Agence France-Presse — Getty Images</small> </p></figcaption></figure><p>这些出版商雇佣作者大量炮制此类书籍，通常一个月就能出一本，有时甚至一周就行。流亡国外的前人权律师刘路 （音）曾写过大约30本这种书，包括前面提到的有关令计划那本。他解释说，桂民海会给他打电话布置任务，通常只给他几周时间去写一本书。他曾遇到的最短期 限是15天，他说那时候他几乎不眠不休，全身上下都感到酸痛。</p>
+<p>他说，每本获得市场成功的书可以为他赢得3至5万美元的稿酬，版税标准大概是销售收入的10%。曾经有一名律师朋友找到他，提出如果他不写某一本有关中国国家主席的书，就给他30万美元。他说他拒绝了这项交易，尽管他当时并没有在写那么一本书。</p>
+<p>刘路表示，他写的书是有事实依据的。他会在网上搜寻相关文章、文件和其他公开发表的资料。不过刘路承认，他没有进行过采访，也没有什么信源。</p>
+<p>他现在有点担心，不敢去香港。“目前在美国应该是安全的，他们不可能跑到美国来逮捕或绑架一个人，”刘路说。“他们最多也就是让我认识的人传个口信，让我不要做这个，不要做那个。”</p>
+<p>桂民海的公司巨流传媒无疑是出版此类政治影射和政治阴谋书籍最多的公司，按照大多数人的估算，其数量可能超过所有此类图书的一半。</p>
+<p>尽管巨流几乎所有高层员工都已失踪，但该公司依然在供应图书。最近的一个下午，一名年轻人用一辆液压车从巨流的 仓库里运出大约500本书，要送往香港机场和澳门的一个书店。这些书的零售价格总计约9000美元。还有数万本这样的书堆满了整个仓储场所，每摞将近到人 的胸部那么高，还挡住了房间两个出口中的一个。</p>
+<p>上世纪80年代中期在北京大学读书时，桂民海——朋友们都叫他阿海——是一名颇有志向的诗人。据大学时就认识他的朋友贝岭为其撰写的回忆性文字描述，随着西方文学和政治理论大批涌入中国校园，桂民海也像他那一代的许多人一样，沉浸在后毛泽东时代的兴奋中。</p>
+<p>“文学青年的结识是以诗当名片，以诗自荐，”贝岭在为独立中文笔会撰写的讲述桂民海失踪事件的文章中写道。</p>
+<p>从北大历史系毕业后，桂民海去了一家国营出版社工作。大概在1989年天安门广场学生运动遭到镇压前后，他离开 了中国，并于90年代取得瑞典国籍。他还在瑞典的哥德堡大学(University of Gothenburg)取得了博士学位，在那里他继续专注于文学，同时也进行中西方比较史学研究。</p>
+<figure><div><img src="http://static01.nyt.com/images/2016/02/04/business/04hkbooks-web2/04hkbooks-web2-articleInline.jpg" alt="在铜锣湾书店前跪拜的人。这是香港排名前列的一家主营中国政治书籍的零售商店，被出版公司巨流传媒购入旗下。李波失踪后，书店一直大门紧闭。"></div>
+<figcaption><p>在铜锣湾书店前跪拜的人。这是香港排名前列的一家主营中国政治书籍的零售商店，被出版公司巨流传媒购入旗下。李波失踪后，书店一直大门紧闭。</p>
+<p><small>Lam Yik Fei for The New York Times</small> </p></figcaption></figure><p>到了2006年，桂民海已转向出版有关中国政治的耸动图书。贝岭写道，他产量很高，一个月就能炮制一本出来，在香港的餐厅里一边吃着点心一边使劲地从来访的内地信源那里挖消息。</p>
+<p>2012年，桂民海协助创办了巨流传媒。两年后，这家出版公司收购了香港排名前列的一家主营中国政治书籍的零售商店——铜锣湾书店。巨流的一名英国籍编辑失踪后的五周里，这家书店一直大门紧闭。</p>
+<p>这一行业遭遇麻烦的警示信号几年前就已浮现。</p>
+<p>习近平准备于2012年执掌共产党大权的时候，中国政府启动了遏制这类政治书籍在内地传播的行动。从北方的内蒙古到南方的广东，各地均发布<a title="Link: http://www.zgbfly.gov.cn/zw/shownews.asp?newsid=1510" href="http://www.zgbfly.gov.cn/zw/shownews.asp?newsid=1510" target="_blank" rel="nofollow">通告</a>，讲述如何防控香港出版物的散播。</p>
+<p>到了2013年底，中国当局拘捕了来到内地的出版商姚文田。当局称其走私非法化学品，并在2014年判处他入狱10年。他的儿子那时表示，他<a href="http://cn.nytimes.com/china/20140508/c08publisher/" target="_blank" rel="nofollow">正筹划出版</a>一本批评习近平的书。</p>
+<p>去年10月，也就是巨流的四名员工消失的那一个月，针对桂民海等作家的书《婆娑谍影》在香港问世。书里指责其中多名作家充当外国政府的间谍。</p>
+<p>文中写到，作为编写中国政治八卦书籍的“牟取暴利者”，桂民海“堪称首屈一指”。书中还宣称，桂民海发假誓称曾参加天安门民运，因而获得瑞典政治庇护。</p>
+<p>去年12月，一群书中人物撰写<a href="http://www.mingjingnews.com/MIB/blog/blog_contents.aspx?ID=0000690000000779" target="_blank" rel="nofollow">公开信</a>呼吁将《婆娑谍影》下架。本报无法联络到推出这本书的东方时代出版社置评。书中刊出的东方时代的地址是一个邮政信箱，还带有电话号码，但相关地址并不存在。</p>
+<p>去年底，巨流的出版人开始失踪。三名员工最后一次被人看到是10月份在华南地区，不久前证实他们被羁押在内地。同样在10月，桂民海从泰国芭提雅的自家共管公寓消失。</p>
+<figure><div><img src="http://static01.nyt.com/images/2016/02/04/business/04hkbooks-web5/04hkbooks-web5-articleInline.jpg" alt="流亡海外的前人权律师刘路（音）曾写过大约30本这样的书，其中一本揭露了一起谋杀事件。正是桂民海给他分配了撰写这些书的任务。"></div>
+<figcaption><p>流亡海外的前人权律师刘路（音）曾写过大约30本这样的书，其中一本揭露了一起谋杀事件。正是桂民海给他分配了撰写这些书的任务。</p>
+<p><small>Bryan Thomas for The New York Times</small> </p></figcaption></figure><p>到了12月底，巨流的编辑、英国公民李波在香港街头失踪。同样蹊跷的是，几天之后他出现在了陆港边境线的另一边。亲朋与同仁表示，他很可能是遭到了绑架。</p>
+<p>李波的妻子蔡嘉苹(Choi Ka-ping)是巨流的股东之一。她收到了一封信，并称里面是丈夫的笔迹。信中表示，他正在协助中国警方。之后，她撤销了在香港提出的李波失踪调查申请。</p>
+<p>对李波失踪的这番解释令香港许多人难以置信，包括多名亲民主阵营的立法委员。李波的旅行证件留在家中。而且，他<a href="http://www.mingjingnews.com/MIB/blog/blog_contents.aspx?ID=0000690000000779" target="_blank" rel="nofollow">近期告诉</a>香港的《南华早报》，因为避免去内地，他觉得自己不会遭受与同事一样的命运。</p>
+<p>这些书商的遭遇让香港民众团结到了一起。1月10日，数千人聚集在中央政府驻香港联络办公室门外，抗议这些失踪事件。其中一人用红色尼龙绳将自己绑了起来，末端是个套索。他的嘴巴封了起来，象征着香港的自由受到了侵蚀。</p>
+<p>2014年香港亲民主抗议活动的学生领袖之一周庭(Agnes Chow)发布了一则有关失踪事件的视频。“过去，我们是安全的，因为我们住在香港，不是中国大陆，”她在视频中表示。“我们觉得，香港再也不是香港了。”</p>
+<p>客人还是会光顾主推这类书籍的小书摊和商店。在位于九龙的天星小轮渡口，书商陈先生表示，他每周能卖出大约15本。</p>
+<p>不过，人们可以察觉到这一行日渐凋零的迹象，就算并不那么明显。巨流的新书已经供应不上。天星小轮渡口附近的书摊短短几个月前还有这些书卖，如今却没有了它们的踪迹。书商陈先生说，“可能是卖完了。”</p>
+<p>人民公社书店是香港出售禁书的最知名的商店之一。一名店员表示，巨流的人失踪之后，这里的生意并未变差。不过这名姓毕的女店员称，近期有不少访客似乎是中国的国安人员。他们很容易辨认，她说：“他们个子高高的，从来不买东西。”</p>
+<p>新世纪出版社发行人鲍朴表示，鉴于各方面的压力，他可能会调整生意。新世纪出版社推出的是更具权威性的政治书籍，但它们同样遭禁。撇开失踪事件不谈，<a href="http://cn.nytimes.com/china/20151021/c21sino-hkbookstore/" target="_blank" rel="nofollow">中国政府还拥有</a>香港最大的一些书店企业，而它们即使存有禁书，也少得可怜。</p>
+<p>“我想我们基本是完了吧，”鲍朴说。</p>
+<div>
+<p>傅才德(Michael Forsythe)是《纽约时报》记者。</p>
+<p>杰安迪(Andrew Jacobs)是《纽约时报》记者。</p>
+<p>Michael Forsythe自香港、Andrew Jacobs自纽约报道。Alan Wong自香港、Chris Buckley自北京对本文有报道贡献。</p>
+<div>翻译：纽约时报中文网</div>
+</div>
+</div>
+</div>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%A6%81%E4%B9%A6%EF%BC%9A%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E7%9A%84%E6%91%87%E9%92%B1%E6%A0%91%E4%B8%8E%E6%83%B9%E7%A5%B8%E6%A0%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%98%A5%E6%99%9A%EF%BC%9A%E5%B0%B1%E6%98%AF%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9C%8B%E4%B8%8D%E6%83%AF%E6%88%91%EF%BC%8C%E5%8D%B4%E4%B8%8D%E5%BE%97/" target="cdt-mirror">【河蟹档案】春晚：就是喜欢你看不惯我，却不得不的样子</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="https://freeweibo.com/img/freeweibo.png?2" alt="自由微博" width="160"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%9D%E5%AE%97%E9%94%A6">仝宗锦</a>：我们家有三个人属猴，本来以为春晚是围绕猴子的，看了半天发现是围绕包子的。<br><a href="https://freeweibo.com/weibo/3940034333157362" target="/weibo/394">2016年02月08日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%90%89%E7%99%BDevenstar">琉白evenstar</a>：这台春晚每一个节目都在努力传达这样的讯息：“我就是喜欢你看不惯我，却不得不和我一同建设中国特色社会主义的样子。”<br><a href="https://freeweibo.com/weibo/3939982983021468" target="/weibo/393">2016年02月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%A5%9E%E5%90%90%E6%A7%BD">神吐槽</a>：<a href="https://freeweibo.com/weibo/%E6%98%A5%E6%99%9A">#春晚#</a>今晚新闻联播4个半小时//*<a href="https://freeweibo.com/weibo/%40%E6%88%91%E6%98%AFxiaoxiaoxiaojing">我是xiaoxiaoxiaojing</a>：感觉自己在朝鲜。。。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%98%A5%E6%99%9A%E7%9A%84%E6%94%BF%E6%B2%BB/">东网｜乔木：春晚的政治</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-10.jpg" alt="春晚" width="534" height="325" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-10-300x182.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-10-768x467.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-10-1024x623.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/333-10.jpg 1588w" sizes="(max-width: 534px) 100vw, 534px"><br><a href="https://freeweibo.com/weibo/3940017804466402" target="/weibo/394">2016年02月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E5%B1%B1%E5%A8%83">文山娃</a>：有网友把我劝进的英文春联装裱出来了。<img src="https://s.w.org/images/core/emoji/72x72/1f64f.png" alt="</p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%B5%B5%E5%91%98%E5%A4%96%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E8%B5%B5%E7%AC%91%E8%AF%9D%E4%BA%86/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗赵员外越来越像赵笑话了</a>
 </h2>
 <p><p>1.【台湾地震，消息透明得令人震惊】</p>
@@ -149,7 +244,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E7%BA%A2%E4%BA%8C%E4%BB%A3%E7%88%B6%E8%BE%88%E4%BB%AC%E6%89%80%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BB%8A%E5%A4%A9%E8%BF%99/" target="cdt-mirror">自由亚洲｜罗宇：红二代父辈们所要的不是今天这样的中国</a>
 </h2>
@@ -189,7 +284,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%9D%A8%E4%B9%83%E6%AD%A6%E5%B0%8F%E7%99%BD%E8%8F%9C%E6%A1%88%E4%B8%AD-%E8%80%81%E4%BD%9B%E7%88%B7%E5%88%B0%E5%BA%95%E8%8B%B1%E6%98%8E/" target="cdt-mirror">东网｜王药师：杨乃武小白菜案中 老佛爷到底英明在哪</a>
 </h2>
@@ -647,83 +742,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/3dm/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9B%A0%E4%B8%BA%E5%AB%96%E5%A8%BC%E8%AF%81%E6%8D%AE%E4%B8%8D%E8%B6%B3%E6%89%80%E4%BB%A5%E6%95%B2%E8%AF%88%E8%AF%81%E6%8D%AE%E5%BE%88%E8%B6%B3/" target="cdt-mirror">【网络民议】因为嫖娼证据不足，所以敲诈证据很足？</a>
-</h2>
-<p><h3><span><strong>武威记者张永生事件的诡异时间线：</strong></span></h3>
-<ul><li><strong>1月4日 </strong>武威市凉州区公安局接<strong>武威公安局批转举报信</strong>，<strong>张永生系被举报人</strong></li>
-<li><strong>1月7日 </strong>凉州公安以<strong>涉嫌嫖娼</strong>为由逮捕张</li>
-<li><strong>1月8日 </strong>凉州公安以<strong>涉嫌敲诈勒索</strong>对张立案侦查</li>
-<li><strong>1月9日 </strong>凉州公安以<strong>嫖娼</strong>为由对张永生<strong>行政拘留</strong>5天</li>
-<li><strong>1月14日 </strong>（正好5天后）张<strong>涉嫌敲诈勒索</strong>，被<strong>刑事拘留</strong></li>
-<li><strong>1月18日 </strong>凉州公安提请<strong>以涉嫌敲诈勒索批准逮捕张</strong></li>
-<li><strong>1月25日 </strong>武威市凉州区检察院<strong>批准逮捕</strong>张</li>
-<li><strong>1月30日</strong> 甘肃省人民检察院组成张永生案核查工作组</li>
-<li><strong>2月6日</strong>  省检察院称张<strong>嫖娼证据不足</strong>，但<strong>敲诈勒索涉案金额5000元</strong></li>
-</ul><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489.jpg" rel="attachment wp-att-427839"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489.jpg" alt="20160129083732489" width="385" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732489.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525.jpg" rel="attachment wp-att-427838"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525.jpg" alt="20160129083732525" width="385" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/20160129083732525.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/12.jpg" rel="attachment wp-att-427837"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/12.jpg" alt="12" width="385" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/12-211x300.jpg 211w, http://chinadigitaltimes.net/chinese/files/2016/02/12.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<p><strong>附：<a href="http://politics.caijing.com.cn/20160206/4067291.shtml">甘肃检察院｜关于对“张永生涉嫌敲诈勒索案”核查情况的通报</a></strong></p>
-<blockquote><p>2016年1月30日至2月5日，甘肃省人民检察院抽调本院和兰州市检察院35名业务骨干组成核查工作组，通过调阅卷宗，调取涉案书证和视频资料，提审犯罪嫌疑人，询问证人和办案人员，召开论证会等形式，对张永生敲诈勒索及嫖娼问题进行了全面、细致的核查。还邀请具有律师身份的特约检察员、记者身份的人民监督员，以及教育界、企业界的全国人大代表等4人对核查工作进行了全程监督。</p>
-<p>关于张永生涉嫌敲诈勒索问题。2016年1月7日，凉州区公安局民警在对张永生涉嫌嫖娼留置盘问过程中，发现张永生系2016年1月4日武威市公安局批转的举报信中的被举报人，遂就举报信反映的敲诈勒索问题同步进行盘问。1月8日，凉州区公安局以涉嫌敲诈勒索罪对张永生立案侦查，并于1月18日提请批准逮捕。1月25日，凉州区检察院决定对张永生批准逮捕。经核查证实，2009年3月以来，张永生利用其《兰州晨报》记者身份，以报道负面新闻对多个单位和个人进行要挟，其中敲诈勒索人民币5000元的犯罪事实清楚，证据充分，张永生供认不讳，并有证人证言及同步录音录像资料相互印证。</p>
-<p>关于张永生涉嫌嫖娼问题。经核查证实，1月7日16时许，张永生独自进入西津洗浴广场，在307包房内接受了异性李某某提供的服务。核查工作组认为，凉州区公安局以张永生有嫖娼违法行为进行行政处罚，事实不清，证据不足。已建议甘肃省公安厅调查处理。</p>
-<p>根据目前查证的事实，省检察院核查工作组认为，张永生虽然涉嫌敲诈勒索犯罪，但鉴于涉案金额不大、本人认罪悔罪态度较好，已建议公安机关变更强制措施，对张永生取保候审。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@刘虎说: 请顺便公布一下三名记者敲诈了谁。如果敲诈的对象是政府，不符合敲诈勒索罪的构成要件。</p>
-<p><a href="http://weibo.com/autozy" target="_blank">@智勇在线</a>：没有证据证明嫖娼，公安竟然就盖个嫖娼罪名抓人;6年多敲诈勒索多个单位和个人5000元？<img title="[嘻嘻]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]">这不仅仅是你们所说涉案金额低的问题，公安检察在调查盗窃抢夺案件时5000元都不稀罕理的情况下，却为此事大动干戈。这敲诈勒索多人是不是栽赃嫁祸的也要打个问号。</p>
-<p>@wzxdeb：用时7年，敲诈了多家单位和个人。总金额5000元？平均一年1000块不到，还有录音，录像证据。我次奥，是记者没见过钱还是被敲诈者没见过钱？</p>
-<p>@方方：这样做就意味着要当一个批评者，你个人必须是道德完人。否则一定让你名声扫地，在亲朋中成为笑料。而你批评的事可能跟你犯的错沒什么关系。这是一个可怕的手段，它的大肆运用几乎可以让所有人闭嘴。但却可以让政客的卑劣成为正大光明。年轻的人们会以为这就是正道。唉！</p>
-<p><a href="http://weibo.com/2217020483" target="_blank">@亨曼山</a>：呵呵，嫖娼证据不足，敲诈的证据就可信了？<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p>@ZG观察：因为嫖娼证据不足，所以敲诈证据很足？是这逻辑吗？</p>
-<p>@在特丽莎嬷嬷的葬礼上：按证据学的原理，既然嫖娼的证据不足信，且有明显的诬陷性质，那么，所谓的涉嫌敲诈的证据和指控也就一并污染不可采信了。敲诈勒索5000块？甘肃的消费水平还真是世外桃源呢。</p>
-<p><a href="http://weibo.com/ishikoui" target="_blank">@公民石皓伟</a>：嫖不了娼就是经济问题，有法治你。<img title="[怒]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]"></p>
-<p><a href="http://weibo.com/5301630155" target="_blank">@微匪</a>：嫖娼罚款都5000，敲诈勒索5000，信谁是爹<img title="[震惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/lxhchijing_org.gif" alt="[震惊]"><img title="[震惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/lxhchijing_org.gif" alt="[震惊]"><img title="[震惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e7/lxhchijing_org.gif" alt="[震惊]"></p>
-<p>@深山野民：盯了这么久，如果只搜到了敲诈了5000元的证据。我只能说，张永生这个记者真的还清廉（那些真正敲诈的记者，哪个不一张口两万？）。第二，我怀疑这5000元是另有说法，比如主动送给记者的车马费，或者钓鱼执法。</p>
-<p><a href="http://weibo.com/2217020483" target="_blank">@亨曼山</a>：呵呵，呼格吉勒图当年也是供认不讳吧<img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"><img title="[笑cry]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]"></p>
-<p>@过客归人2013：记者敲诈可能是真，敲诈也是违法，但是目前谈的是程序问题，你国人先抓进去，再使劲挖材料，有几个能走出来的，你从小有没有偷看过大姑娘洗澡，有没有闯过红灯？我不信整不出来</p>
-<p>@有机食品商城网：几十个人花了几天时间还没调查清楚，到底那个嫖娼真相如何。既然有名有姓，有时间有地点，那么就应该抓了现行，为啥还是证据不清？是证据不清还是栽赃陷害？真相只有一个，老百姓想知道的是，会不会有顺我者昌逆我者嫖娼。</p>
-<p>@南周梦：共产党，老子不信</p>
-<p>@前屿山1978：公检法司安 开了几个礼拜协调会终于得出了结论：叫你不听话，给你点厉害瞧瞧，网民算个屁！</p>
-<p><a href="http://weibo.com/landsnail" target="_blank">@蜗牛背石头</a>：七年了，敲诈多个单位和个人，才五千元？你当记者是讨饭的？<img title="[哈哈]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]">还不如我儿子的压岁钱</p>
-<p>@撒旦1112：说你嫖你就嫖，没嫖也嫖！说你诈你就诈，没诈就诈！武威威武！</p>
-<p>@依修塔塔：嫖娼跟检察院有什么关系，又不归检察院管</p>
-<p>@帆帆小宝贝：他好像报道了警察什么的？懂了</p>
-<p>@哥的怒愤：可以随便扣个嫖娼的罪名，真是顺我者昌，逆我者嫖娼啊！还有敲诈5000块，呵呵哒！现在TM5000算个钱？也是扣的帽子吧。数额大了肯定会判刑，但其实人家根本没这事儿。到时候反响更恶劣。5000块又够不上什么，正好可以把人给放了，又教训了记者，又给了个台阶下。好手法！</p>
-<p>@与三毛无关：请问当初是谁说的涉嫌嫖娼这句话？堂堂一个检察院把法律当儿戏？？？</p>
-<p>@张胖墩墩儿：回复@廖胜于无:朋友，先用嫖娼罪抓人，抓进来再网罗接口，如果是七年前敲诈5000块，为什现在才抓他们？那之前抓人是不是非法？仔细想想吧…</p>
-<p>@小狼犬WOLF：所谓依法治国，我竟然发现越来越像封建帝制了</p>
-<p>@窗外的迷惑：七年敲诈多个单位和个人5000？要脸不？这就是你们抽调30多人查处的结果？这些单位和个人都报案了？一起报的？每个敲诈几百呢？这叫你妈敲诈？</p>
-<p>@军号：呵呵，脏水没泼好。</p>
-<p>@鱼随大雁飞：抓律师打击记者，这是一个什么样的政府？</p>
-<p>@发财乌鸦：强烈要求上我CCAV受审，认错！！！不上不足以平民愤，甘检大胆，竟然未经央视审判就敢拍板定性？！还能“娱乐”不了？！</p>
-<p>@逍遥浪子袁总：他们说的我怎么连标点、符号都不信，这是怎么回事儿？</p>
-<p><a href="http://weibo.com/2661740551" target="_blank">@阿珍你来真的阿</a><i title="微博达人"></i><i></i>：这盛事如五毛<img src="http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8192.png" alt="" width="20px" height="20px">之所愿</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9B%A0%E4%B8%BA%E5%AB%96%E5%A8%BC%E8%AF%81%E6%8D%AE%E4%B8%8D%E8%B6%B3%E6%89%80%E4%BB%A5%E6%95%B2%E8%AF%88%E8%AF%81%E6%8D%AE%E5%BE%88%E8%B6%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E5%B7%9E%E6%99%A8%E6%8A%A5/?category=18271" rel="tag">兰州晨报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B0%B8%E7%94%9F/?category=18271" rel="tag">张永生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%A8%81%E4%B8%89%E8%AE%B0%E8%80%85%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">武威三记者被捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%8B%E5%A0%B4%E6%96%B0%E8%81%9E%EF%BD%9C%E8%A2%AB%E6%8C%87%E6%B6%89%E6%A1%82%E6%B0%91%E6%B5%B7%E6%A1%88%E9%81%AD%E5%85%AC%E5%AE%89%E6%89%A3%E6%9F%A5%E3%80%80%E6%9E%97%E6%A6%AE%E5%9F%BA%E3%80%81/" target="cdt-mirror">立場新聞｜被指涉桂民海案 林榮基、呂波、張志平是誰？</a>
-</h2>
-<p><p><em>原標題：被指涉桂民海案遭公安扣查　林榮基、呂波、張志平是誰？</em></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0.png" rel="attachment wp-att-427826"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0.png" alt="20160205-cwb-01_2TiwC_1200x0" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/20160205-cwb-01_2TiwC_1200x0.png 750w" sizes="(max-width: 750px) 100vw, 750px"></a></p>
-<p>銅鑼灣書店東主桂民海，去年10月在泰國失蹤後，書店及母公司巨流傳媒的三名員工亦在深圳失蹤，下落不明逾三個月；廣東省公安廳昨日終回覆港警，證實該三名員工林榮基、呂波及張志平，因「涉嫌一名姓桂人士的案件」，在內地從事違法犯罪活動，被內地有關部門依法採取刑事強制措施，現正接受審查。</p>
-<p>外界普遍較關注在香港境內失蹤的李波，對於呂、張、林三人所知甚少。</p>
-<p>巨流傳媒公司總經理呂波（46歲）、巨流業務經理張志平（32歲）及銅鑼灣書店創辦人、現任店長林榮基（60歲），均為香港永久居民。據報道，三人均在深圳被帶走。呂波及張志平的妻子均為內地人，經常到深圳探妻；林榮基則居於香港，經常夜宿書店。</p>
-<p>去年11月初，據當時仍未「被失蹤」的李波向傳媒轉述，呂、張、林三人，約於10月20日起突然失聯。呂波及張志平曾經回覆短訊，分別聲稱自己到妻子家鄉醫病及到深圳探妻。</p>
-<p><strong>林榮基子：在港報警後數小時即接父親「報平安」</strong></p>
-<p>林榮基家人曾就林榮基失蹤一事報警，並聯絡入境處。據林榮基兒子Phoenix向傳媒透露，曾與李波一同到警署報案，離奇的是，報案後數小時，就收到父親來電「報平安」，僅稱自己無事，但拒絕透露身在何方。之後，家人又收到警方來電，詢問林榮基是否曾致電回家。</p>
-<p>張志平及呂波的家人少有接受傳媒訪問，外界對兩人所知不詳。而書店店長林榮基，實際上是銅鑼灣書店創辦人，2014年經營困難，書店才轉手巨流傳媒。</p>
-<p>傳媒報道，銅鑼灣書店於1994年在駱克道開業，早期專售小說及文史哲書籍，行業日益萎縮後，書店引入大批「內地禁書」，吸引自由旅客。銅鑼灣舖位近年加租不斷，書店一度月蝕逾萬；至2014年，租金升至林榮基無法負擔的地步，林榮基原擬退休結束書店，但最終轉售予巨流傳媒，林榮基由老闆變成書店員工。</p>
-<p>林榮基兒子Phoenix曾指，父親賣盤後只是為巨流打工，不參與公司的決策，亦從未參與禁書的出版，從未在內地做違法犯罪活動。他促請港府全力跟進事件，令父親早日歸家。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%8B%E5%A0%B4%E6%96%B0%E8%81%9E%EF%BD%9C%E8%A2%AB%E6%8C%87%E6%B6%89%E6%A1%82%E6%B0%91%E6%B5%B7%E6%A1%88%E9%81%AD%E5%85%AC%E5%AE%89%E6%89%A3%E6%9F%A5%E3%80%80%E6%9E%97%E6%A6%AE%E5%9F%BA%E3%80%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%95%8F%E6%B5%B7/?category=18271" rel="tag">桂敏海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%B0%91%E6%B5%B7/?category=18271" rel="tag">桂民海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -735,7 +753,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -745,5 +763,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,74 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E8%B7%9F%E7%9D%80%E6%88%91%E5%B7%A6%E6%89%8B%E5%8F%B3%E6%89%8B%E4%B8%80%E4%B8%AA%E6%85%A2%E5%8A%A8%E4%BD%9C%EF%BC%8C%E5%AF%B9%E7%9D%80%E6%98%A5%E6%99%9A%E7%9A%84/" target="cdt-mirror">王五四｜跟着我左手右手一个慢动作，对着春晚的脸：啪啪</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B.jpg" rel="attachment wp-att-422129"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B.jpg" alt="王五四" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/王五四-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
+<p>大家过年好！</p>
+<p>微信老有人问什么时候写写今年的春晚，真是不好意思写，写了很多朋友会说，你居然看春晚，而且还评价了，那意思就像你不但吃屎了还写食评，真的很丢脸。我的确看了春晚，但真没时间写，因为当时我在忙着写入党申请书，2016年的春晚或者说是2016年中央电视台曲艺版新闻联播，激发了我内心深处潜在的党性。党性不强的人欣赏不了这届春晚，因为看上去这届春晚最大的赞助商是马云，其实是马克思，多少年轻人看着看着就找来了纸笔开始写入党申请书。</p>
+<p>这届春晚无疑是段子史上最黑暗的时刻，往年段子手们卯足劲尽情嘲笑文化课代表，没想到今晚是政治老师监考，大家槽点满满，但在如此宏大和一本正经的政治气氛下，无言以对，春晚不再是任人打扮的小姑娘，不再是当年那个犹抱琵琶半遮面的意识形态宣传工具，今晚它就像朝鲜刚发射的那枚火力十足的火箭，来势汹汹，但却显得可笑。据不完全统计，今天有超过1亿人盼着李谷一老师早点出来唱《难忘今宵》。</p>
+<p>没有哪一年春晚像这届一样，主题生肖被如此淡化，猴年春晚，猴子戏份并不重，反而多了些妖魔鬼怪，后来一想我才明白，这届猴年春晚不是演猴戏给你看，而是把你当猴耍。不仅生肖主题的淡化属首次，就连讽刺节目也在春晚彻底消失，有人说这只是春晚堕落的第一步，言重了，从来就没高尚过哪来的堕落。以往有几届春晚不管是否批判，但总能反映些当年的现实，今年的春晚则彻底反映了这个国家从上到下完全处在一种不知所云、狂妄自大的虚无之中，它不是向外界展示自身的强大，更多的是向国内炫耀武力和继续蒙蔽，它不是像朝鲜那样向外界发射了一枚火箭，而是在国内放了一百万枚钻天猴。</p>
+<p>对于此次春晚大家不需过多惊讶，更不必由此引发对比称赞往届，一样的臭味只是今年更浓郁。早在去年九月份，央视台长就对春晚工作提出了明确要求，“春晚是党和国家交给中央电视台的一项重大政治任务，要以强烈的责任感和使命感，抓紧推进2016年春晚各项筹备工作。”，所以说，春晚从来不是农村庙会的大舞台，它是一项极其严肃的政治工作，对于观众而言它是一枚药丸，让你笑只是药丸表面的糖衣，你们不仅没资格有任何抱怨，反而要感谢他们在如此宏大而严肃的场合，给你穿插了相声和小品节目，让你更为顺畅的服药。</p>
+<p>对于普通人而言，春节总是承载了太多的个人情感意义，而春晚作为春节的重头戏，编排者总要强加赋予你更多的集体概念和政治要素，春节对于个人而言是家，但他们希望你想到的是国，各种怀旧与抒情、各种歌颂与赞扬、各种看上去的朴实与乡土，都是合成主旋律必备的各种元素的杂糅，再加上那些为了登上春晚舞台而产生的三四级利益勾兑，使得整台晚会既不真诚又令人生厌，春晚开场演出的刘雨欣，她那张整容脸，就是对整台春晚最好的概述。</p>
+<p>每个人都需要温情和真诚，尤其是从远方千里迢迢回乡过年的游子，对于春晚，个人当然可以寄望，但这样的环境里，要清楚没有什么是单纯的，或者说任何一样由官方推动的事件都不可能是单纯的，你可以小粉红，但不要强逼别人相信，小粉红们最爱说的就是，你们知道准备一场春晚多不容易吗？要提前几个月准备，很多人为了表演不能跟家人团聚，带病坚持彩排，放弃了休假，你们却在这说三道四，你们就不能安安静静的看一场春晚吗？这些小粉红们的意思大概就是，你知道食物变成屎要经历多么复杂的工序吗？你们别抱怨了好好吃吧，实在不行吃的时候可以不学我们吧唧嘴。大过年的，抱歉这么比喻……。</p>
+<p>春晚总导演吕逸涛说自己对这次春晚很满意，他会打一百分，我的评价其实也差不多，对于这次春晚，导演我会打一百分钟。以前的春晚是媚俗，现在则是媚上，以前尚有审美争议，现在则直接跌入审丑比拼，从网上大面积的吐槽和一边倒的差评来看，这届春晚终于成功地让南北方观众统一了认识，或许这届春晚将是一个分水岭，早已勃起的意识形态通过春晚的舞台正式向全国人民拜年：我们不再含情脉脉。接下来我们将避之不及，嬉皮笑脸将不被允许，春晚的节目将不再好笑，春晚本身会更可笑，但我们或许不再敢笑。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E8%B7%9F%E7%9D%80%E6%88%91%E5%B7%A6%E6%89%8B%E5%8F%B3%E6%89%8B%E4%B8%80%E4%B8%AA%E6%85%A2%E5%8A%A8%E4%BD%9C%EF%BC%8C%E5%AF%B9%E7%9D%80%E6%98%A5%E6%99%9A%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">讲政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E5%9F%82%E4%B8%8A%E6%8F%92%E7%A7%A7%EF%BC%9A%E6%98%A5%E6%99%9A%EF%BC%8C%E5%85%9A%E7%9A%84%E5%B9%B4%E4%BC%9A%EF%BC%9F/" target="cdt-mirror">微信｜埂上插秧：春晚，党的年会？</a>
+</h2>
+<p><p>春晚的宣教和歌功已经从以往的娱乐搭台的羞羞答答，正式撕去假联欢的伪装，变成彻头彻尾的加长版新闻联播和党的年会。这一变化趋势在2016年春晚无疑得到了确认。</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/CanhOGhVIAE7fiE-1024x683.jpg" alt="CanhOGhVIAE7fiE" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/CanhOGhVIAE7fiE-300x200.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/CanhOGhVIAE7fiE-768x512.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/CanhOGhVIAE7fiE.jpg 1024w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p><em>本文发表于微信公众号 「<a href="http://weixin.sogou.com/gzh?openid=oIWsFt-N75raTzHZGMABnFOkgE-c&ext=bC4jy94pB0SxHs9KbP8WdbBb1LMqz4IPs1Cf7A4ywLTWeNSGoIsM1wgDFVjSOnqz">埂上插秧</a>」 ， <a href="http://mp.weixin.qq.com/s?biz=MzAxODU0NTY1MA==&mid=401579177&idx=1&sn=0aa75a36f45c77538180412994c392e5&3rd=MzA3MDU4NTYzMw==&scene=6#rd">原文链接</a> ，题图作者是 <a href="https://twitter.com/remonwangxt">变态辣椒</a></em></p>
+<p>今年的春晚真是前所未有的难看！！</p>
+<p>一直以来，春晚毕竟是主打文艺晚会，不管如何水平层次在文艺界至少了站得住脚的，不少经典的歌曲或语言类节目都源自于春晚这个舞台。远的像《好大一棵树》《我的中国心》，近一点的像《青花瓷》、《卖拐》三部曲、《策划》中的下蛋公鸡、如今消失在舞台上的“毕姥爷”，再近一点的也有王菲的《传奇》，《时间都去哪儿了》。</p>
+<p>但昨晚的猴年春晚，究竟是什么鬼？实在是“活久见”。主持人嘴里通篇都是“十八大后”“中国梦”“十三五“”一带一路”，歌曲是“没有共产党就没有新中国”，连一个网购主题的小品在主持人口中都是有丰富的“互联网+”含义。整台晚会，除了偶尔夹杂的谭维维、掏粪BOY等几个明星外，还能找出几个没被“污染”的节目？网友问，这究竟是春晚，还是文艺版《新闻联播》？</p>
+<p>其实，这更像是一场党的年会。重点是总结党在2015的业绩，宣布2016年目标，顺便请点明星热热场。而且，还安排了旗下的鹅厂和猫厂进行“摇一摇”和“咻一咻”抽奖。</p>
+<p><strong>今年春晚有多红？</strong></p>
+<p>许多人感觉今年春晚似乎“不好看”，其实若不是时光在“全民抢红包”中迅速流逝，你本会发现，今年的春晚远远不止“不好看”，而是难看的令人发指。对于现场观众来说，就像本来应该是进了剧院，看着看着却发现这里原来是文工团在开党组会议；说好的是年中国文艺晚会，结果却是主办方的社团年会。</p>
+<p>先来统计下，这场晚会究竟有多红？不，是来看下这次党组会议的主要内容。</p>
+<p>首先，开场歌舞《春到福来》，前几分钟都还正常，迎春贺新年，突然画风一转，一段顺口溜RAP来袭，“三个必胜，四个全面，五大理念，九三阅兵”，这算是“内容提要”。</p>
+<p>紧接是详细内容，首先是阐述2015年业绩说明，“美丽中国”“走在小康路上”“山水中国美”。“九三阅兵”是重点，用两个节目分别是《将军与士兵》《铁血忠诚》进行阐述，《丝绸之路》来说明“一带一路”。《盛世鼓舞》《在你伟大的怀抱里》《光荣》算是几个分段总结。赵薇《六尺巷》、郭冬临的《是谁呢》算是对“老虎苍蝇”的继续警告。《没有共产党就没有新中国》《过雪山草地》《我的祖国》等则是年会的全体大合唱。</p>
+<p>如果是这样，其实还好，“红色炸弹”比重估计也就六成，至少表面上看还是个文艺晚会。但如果把主持人全部变成新闻联播播音员呢？周涛、朱军、撒贝宁、董卿，念起政策来合不拢嘴，整个晚上罗京、王宁、邢质斌、李瑞英附体。就算你像入戏把这当做一台文艺晚会来看，罗京、王宁、邢质斌、李瑞英也会分分钟告诉你真相：这TM是我党年会。</p>
+<p>这样一来，红色比例已经去到七成了。还有一些“伪文艺节目”，如语言类节目《快乐老爸》《放心吧》《我知道》充斥着虚无的自欺欺人和令人厌倦的“核心价值观”说教。这样一来，至少八成是红色了。</p>
+<p>说他新闻联播，不冤。看节目？还是好好摇你的手机，咻你的敬业福吧。</p>
+<p><strong>年终茶话会到政治宣讲会</strong></p>
+<p>春晚的政治性一直都存在，为什么今年的春晚特别难看？</p>
+<p>在中国，似乎春晚的政治属性一直都是存在的，而且是无法避免的。其实最初的春晚却只是纯粹的年终茶会话。 1980年代初生的春晚，如同当时进行不久的改革开放，没有过多包袱与经验的束缚，春晚显得活泼而新鲜。在舞台和观众席形式上，最开始是茶话会的布局，台下观众围坐在圆桌上。中间1985年一度搬到工人体育场里举办，但因实验效果不佳，后来回归演播大厅。具体到节目上，80年代的春晚歌舞、相声小品和戏曲几乎瓜分了所有的表演形式。这个时期的语言类节目主要以小人物的身边事为主，如陈佩斯朱时茂的《吃面条》《主角和配角》等。整体而言，这一时期的春晚政治化不明显，综艺晚会的性质更强，相声小品较少说教功能，歌曲开始“接地气”，主持人更多是报幕员的角色，可以说春晚引领了一种开放的风气。</p>
+<p>进入90年代，春晚也开始了自己的政治化进程。这一进程与时任党和国家领导人蛤蛤密切相关。1990年的春晚，虽然抓住了80年代春晚的尾巴，且采用了锦标赛的新颖形式，但临近零点蛤蛤和月月鸟居然来到了直播现场，并发表新年贺词。国家领导人来到春晚现场，只此一例。也正是从这里开始，春晚开始了自身的转型，而政治色彩也渐浓。90年代的中国，整个社会又进入一个急剧转型的新时期：市场经济全面展开，政治与社会逐渐稳定，综合国力的发展使得中国作为一个整体的国家形象逐渐清晰，因此，国家层面的宏大叙事也随之铺展开来。投射在春晚上，这台年末的狂欢盛宴势必要集中来展现这种时代大转型下的大事件与小事情。相声小品的政治与教化功能也逐渐显现出来。而且这个时期相声和小品在形式和内容上开始变得不再泾渭分明。而随着国家和现实叙事要求的强化，小品的戏剧形式因更能形象表达，在势头上也开始压过相声。就连陈佩斯朱时茂这种一开始“反体制者”也未能幸免，在1997年的《宇宙体操选拔赛》中，朱时茂一出场就表示，自己是国际体联的代表，是来为2000年奥运会来选拔优秀体操运动员的。</p>
+<p>步入千禧年后，新世纪以来的春晚，消费与娱乐逐渐成为民间的主流生活方式，但与此同时，春晚的政治宣讲功能并没有消失。宏大叙事也好，消费娱乐也好，在春晚这同一个时空里就如此无违和感地捏合在一起了：一边是庄重的国家形象现身，下一个又是某一个流行巨星在舞台上尽情耍动，再下一个小品里可能又充满了市场商业的味道。政治化方面，一方面，彭丽媛、董文华、宋祖英、谭晶等政治歌曲专业户陆续登场，以赵本山、黄宏、冯巩等为代表的政治化小品成为语言类节目主流。</p>
+<p>尽管春晚政治化，但纯政治内容的比重一直来说控制的还算得体，一般是彭丽媛、董文华、宋祖英、谭晶等专业户唱一唱“红歌”，背后的大屏幕配一些领导人和政治局常委的画面；部分语言类节目有浅层的涉及；再就是当年有特殊事件时辟专门时段，如杨利伟“飞天”。主持人呢，则是宣讲表演插科打诨一个都不能少，宣讲多半是蜻蜓点水式地喊几句“实现中华民族的伟大复兴”，多半是后还是在表演插科打诨。</p>
+<p><strong>庆丰时代：纯政治化春晚？</strong></p>
+<p>今年春晚中，董卿口中多次强调了一个时间节点——“十八大后”。这正是今年春晚形态的起源。</p>
+<p>十八大后，这一时期的春晚政治化因素开始加强，在前两年的过渡期给人的印象则是，春晚表演特别吃力，演的人吃力，看的人也吃力。</p>
+<p>就节目而言，一大变化的则是，以往的政治节目通常一种是赵本山《昨天今天明天》里那种，老农黑土拿着小红本念打油诗：</p>
+<p>九八九八不得了！粮食大丰收，洪水被赶跑；百姓安居乐业，齐夸党的领导；尤其人民军队，更是天下难找；国外比较乱套，成天勾心斗角；今天内阁下台，明天首相被炒；闹完金融危机，又要弹劾领导；纵观世界风云，风景这边更好！</p>
+<p>另一种则是讲述小人物故事，只是在最后“升华”到国家情怀。如今的节目则变得“直接”，不再需要小人物的故事做“宏大叙事”的铺垫，可以直接亮明底牌，如反腐节目。</p>
+<p>在经历了简单的摸索，甚至在2014年大胆启用冯小刚试图探索春晚新文宣后。2015年春晚正式有了“纯政治化春晚”的雏形，虽然大抵还保留了一些商业元素，但2015年春晚依旧被民间批评为“政治味太重”。</p>
+<p>如果对比2016年春晚，批评2015年春晚“政治味重”还真是有点小巫见大巫了。2015年春晚无非是比从前，抛弃了过去的嫂子抱着孩子你远远看一眼，改为了《强军战歌》的“听党指挥”“决胜疆场”等军队部分。另外“敏感话题”反腐正式脱敏登堂入室。但不管怎样，至少2015春晚主持人看起来还是“正常的”。</p>
+<p><strong>党的年会将是未来春晚主形态？</strong></p>
+<p>春晚的宣教和歌功已经从以往的娱乐搭台的羞羞答答，正式撕去假联欢的伪装，变成彻头彻尾的加长版新闻联播和党的年会。这一变化趋势在2016年春晚无疑得到了确认。</p>
+<p>今后的春晚形态目前会很难说，虽然加强宣教的方向是确定的，但如何宣教，是不是目前的形式？无疑今年的春晚会遭受兴许是史无前例的差评。这样的差评是否能挽回一点春晚的商业娱乐性？毕竟那才是吃年夜饭看春晚的小老百姓所喜闻乐见的，将宣教藏在娱乐之中，和全程赤裸裸地歌颂。毕竟前者效果会好些，至少观众还在。</p>
+<p>但，加长版新闻联播效果如何，兴许他们根本不在乎呢。也许他们并不指望这些宣教能发挥作用，但只要你假装认可并大声重复即可，上演一番哈维尔所说的“假面社会”。在春晚这场假面舞会上，大家都在卖力地表演而已。</p>
+<p>幸好没有周带鱼之类上来朗诵，请你不要辜负这个时代。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E5%9F%82%E4%B8%8A%E6%8F%92%E7%A7%A7%EF%BC%9A%E6%98%A5%E6%99%9A%EF%BC%8C%E5%85%9A%E7%9A%84%E5%B9%B4%E4%BC%9A%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%A6%81%E4%B9%A6%EF%BC%9A%E9%A6%99%E6%B8%AF%E4%B9%A6%E5%95%86%E7%9A%84%E6%91%87%E9%92%B1%E6%A0%91%E4%B8%8E%E6%83%B9%E7%A5%B8%E6%A0%B9/" target="cdt-mirror">纽约时报｜中共禁书：香港书商的摇钱树与惹祸根</a>
 </h2>
 <p><figure><img src="http://chinadigitaltimes.net/chinese/files/2016/02/04hkbooks-web1-articleLarge.jpg" alt="04hkbooks-web1-articleLarge" width="550" height="367"></figure><figure><figcaption><span>巨流传媒坐落在仓库里的一间办公室。</span> <small>Lam Yik Fei for The New York Times</small> </figcaption></figure><div>
@@ -117,7 +182,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6
 <p>*<a href="https://freeweibo.com/weibo/%40%E7%A5%9E%E5%90%90%E6%A7%BD">神吐槽</a>：<a href="https://freeweibo.com/weibo/%E6%98%A5%E6%99%9A">#春晚#</a>今晚新闻联播4个半小时//*<a href="https://freeweibo.com/weibo/%40%E6%88%91%E6%98%AFxiaoxiaoxiaojing">我是xiaoxiaoxiaojing</a>：感觉自己在朝鲜。。。<em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%98%A5%E6%99%9A%E7%9A%84%E6%94%BF%E6%B2%BB/">东网｜乔木：春晚的政治</a>》</em><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/333-10.jpg" alt="春晚" width="534" height="325" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/333-10-300x182.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/333-10-768x467.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/333-10-1024x623.jpg 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/333-10.jpg 1588w" sizes="(max-width: 534px) 100vw, 534px"><br><a href="https://freeweibo.com/weibo/3940017804466402" target="/weibo/394">2016年02月07日</a></p>
 <p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E5%B1%B1%E5%A8%83">文山娃</a>：有网友把我劝进的英文春联装裱出来了。<img src="https://s.w.org/images/core/emoji/72x72/1f64f.png" alt="</p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%B5%B5%E5%91%98%E5%A4%96%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E8%B5%B5%E7%AC%91%E8%AF%9D%E4%BA%86/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗赵员外越来越像赵笑话了</a>
 </h2>
@@ -244,7 +309,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E7%BA%A2%E4%BA%8C%E4%BB%A3%E7%88%B6%E8%BE%88%E4%BB%AC%E6%89%80%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BB%8A%E5%A4%A9%E8%BF%99/" target="cdt-mirror">自由亚洲｜罗宇：红二代父辈们所要的不是今天这样的中国</a>
 </h2>
@@ -284,7 +349,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%9D%A8%E4%B9%83%E6%AD%A6%E5%B0%8F%E7%99%BD%E8%8F%9C%E6%A1%88%E4%B8%AD-%E8%80%81%E4%BD%9B%E7%88%B7%E5%88%B0%E5%BA%95%E8%8B%B1%E6%98%8E/" target="cdt-mirror">东网｜王药师：杨乃武小白菜案中 老佛爷到底英明在哪</a>
 </h2>
@@ -649,99 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9C%B0%E9%9C%87%E9%87%8D%E5%88%9B%E5%8F%B0%E6%B9%BE-%E5%B7%B27%E6%AD%BB300%E5%A4%9A%E4%BC%A4/" target="cdt-mirror">德国之声｜地震重创台湾 已7死300多伤</a>
-</h2>
-<p><p><strong>台湾南部周六凌晨发生里氏6.4级地震，引发多地大楼倾斜或倒塌。截至目前已造成至少7人死亡，超过300人受伤。强震造成的停水、停电导致全台数十万万用户生活受困。</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300.jpg" rel="attachment wp-att-427853"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300.jpg" alt="0,,19030308_303,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/019030308_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
-<p>（德国之声中文网）2月6日凌晨3点57分，地震将熟睡中的台湾人唤醒。据台湾中央气象局报告，此次6.4级地震的震中发生在高雄市美浓区，震源深度16.7公里。包括屏东、台南、新竹、台北都出现剧烈摇晃。</p>
-<p>受灾最严重的台南市多地大楼发生大楼倾斜，甚至倒塌，其中包括永康区一栋17层大楼。</p>
-<p>据当地消防局报告，地震发生后已派出大批救援人员参与救助。截至发稿前，大楼内仍有用户受困。</p>
-<p>中央社公布的数据显示，截至当地时间6日中午，地震造成至少7人死亡，358人受伤，8栋房屋全部倒塌。</p>
-<p>地震造成受灾地区部分管线设备受损。据台南当局初步估计，受影响用户达40万，全台累计停电户增加至17万用户，目前仍有6000户停电。</p>
-<p>台湾中央气象局地震测报中心主任郭铠纹周六表示，高雄市美浓区发生里氏规模6.4级地震，属于旗山断层错动引起，释放的能量相当于2颗原子弹。台南新化摇晃时间长达8秒。</p>
-<p>据台南市政府消防局信息显示，目前已经救出224人，派出300多名消防及救援人员。</p>
-<p>就在这起地震前的2月2日晚，台湾东北部海域就曾发生里氏6.8级地震，据台湾中央气象局报告，震中在基隆东方185公里处，地震深度213公里。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100.jpg" rel="attachment wp-att-427854"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100.jpg" alt="0,,19030285_401,00" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/019030285_40100.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
-<p>另据中国媒体报道，台湾的这次地震令居住在厦门、福州、泉州、莆田以及广东一带的居民均有震感。其中多地网友表示震感强烈。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%9C%B0%E9%9C%87%E9%87%8D%E5%88%9B%E5%8F%B0%E6%B9%BE-%E5%B7%B27%E6%AD%BB300%E5%A4%9A%E4%BC%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">台湾地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">自然灾害</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%93%81%E7%8E%A9-%E6%89%93%E5%87%BB%E7%9B%97%E7%89%88%E6%88%91%E4%BB%AC%E9%83%BD%E8%A7%81%E8%BF%87-%E9%82%A3%E4%B9%88%E6%89%93%E5%87%BB%E6%AD%A3%E7%89%88%E7%9A%84%E4%BA%BA/" target="cdt-mirror">品玩 | 打击盗版我们都见过 那么“打击正版”的人呢</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E4%B8%BA%E4%BA%86%E5%9B%BD%E5%AE%B6-%E7%9B%97%E7%89%88%E6%9C%89%E7%90%86/">【图说天朝】为了国家 盗版有理</a></p></blockquote>
-<p>一直以来，在中国讨论数字内容盗版问题都是件很头疼的事。</p>
-<p>一方面因为中国数字消费内容产业本身的发展就不标准化，很多进口优秀内容没有正版渠道进入中国，想消费正版也消费不到；另一方面则是因为部分领域消费盗版依旧太过容易，盗版内容本身的价格低廉，消费和传播盗版（可能）受到的财产处罚几乎为零。</p>
-<p>很多人倡导正版，为正版的软件、游戏和电影电视剧按件、按点播或按订阅付费，还向身边的人推广这种做法，并为此深深地感到自豪——这是一件很好的，喜闻乐见的事，在我看来怎么自豪都不为过。</p>
-<p>也肯定有不少人，由于他们的认知、经济能力等主客观因素，仍然在使用盗版软件。哪怕你用盗版来谋取商业利益（之前就有传出过国内知名科技公司使用盗版的 iOS 开发套件开发软件的）。在中国数字内容正版化的法律、行政和市场现状下，只要不公开大喊什么“就当帮你传播了”、“一首破歌听你是给你脸了”这种“传播即正义”的鬼话，恐怕也没什么人会找你麻烦。</p>
-<hr><p>近日，日本游戏开发商光荣公司向在中国游戏圈颇具影响力的游戏破解论坛 3DMGAME 发律师函，要求后者在其在网站上下架由后者开发的《三国志 13》破解补丁。3DMGAME 创始人宿菲菲（以下分别简称 3DM、鸟姐）随后<a href="http://weibo.com/1957183442/DghZWBIMb?from=page_1005051957183442_profile&wvr=6&mod=weibotime" target="_blank">宣布</a>，从新年开始 3DM 内部将不再进行单机游戏的破解工作；对非 3DM 破解的游戏补丁还会积极在自家论坛上发布；3DM 的汉化工作仍会进行。之后她又做出<a href="http://weibo.com/1957183442/DgpoLCkCu?from=page_1005051957183442_profile&wvr=6&mod=weibotime" target="_blank">最终解释</a>，称 3DM 将停止对 Denuvo 加密破解的研究，并且将内部开发针对正版游戏激活码的交易平台。</p>
-<p>根据鸟姐在微博上的描述，她做出这个决定的原因，在于想要看一下这样做会不会在一年后导致正版销量增长，为市场正版化做出贡献。</p>
-<p>考虑到 3DM 是国内乃至全球破解游戏发布量最大的破解机构之一，3DM 的这个举措意味着盗版玩家在 2016 年能够玩到的破解游戏将数量上大幅缩减。这些玩家愤怒了。紧接着，<a href="http://weibo.com/1620767105/DgpD4q3ZW" target="_blank">这样的事情</a>就发生了：</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-1.jpg" alt="3dm-game-1" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-1-300x129.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-1.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></p>
-<p>在这张图中，这位 3DM 网名为 deavee 的用户先是对正版玩家表达了势不两立的态度，接着开始号召其他用户对正版游戏发起报复措施：向中国官方机构举报另一个正版游戏下载/对战平台 STEAM 的中国区。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-5.jpg" alt="3dm-game-5" width="450" height="405" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-5-300x270.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-5.jpg 645w" sizes="(max-width: 450px) 100vw, 450px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-4.jpg" alt="3dm-game-4" width="450" height="389" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-4-300x259.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-4.jpg 750w" sizes="(max-width: 450px) 100vw, 450px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-3.jpg" alt="3dm-game-3" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-3-300x162.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/3dm-game-3.jpg 750w" sizes="(max-width: 750px) 100vw, 750px"></p>
-<p>在接下来的几张图中，这位网民详细介绍了怎样在相关的举报网站填写表格。所提到的网站包括公安部网络安全保卫局管理的<a href="http://www.cyberpolice.cn/wfjb/" target="_blank">网络违法犯罪举报网站</a>，以及中华人民共和国文化部所管理的 12318 全国文化市场举报平台。</p>
-<p>上述举报的截图显示，deavee 在 2 月 5 日上午 11 时左右提交了这些举报。由于截图中隐去了举报的查询码，尚无法确认这些举报的处理情况如何。是否有其他用户按照他的指导提交了类似的举报，目前也无法确认。</p>
-<p>玩不了盗版，就向正版游戏玩家施展报复，还美其名曰以“爱我中华”举报了所谓的“违法”网站和游戏服务——暂且不论这种魔幻现实主义外加犬儒主义的行为有多么可耻和可笑。从这种缺乏基本智识的行为中，我们又能看出点什么？</p>
-<p>在中国，正版用户嘲笑盗版用户的贫穷、无耻和招摇，因为他们认为这是花钱购买正版所赋予他们的尊严和权利，盗版用户不付出就没权利享用这些内容；而反之亦然，盗版用户同样嘲笑正版用户，因为他们不认为谁多花了几块钱或几十块钱，就能拥有立牌坊的权利——“谁过去没看过盗版，装什么清纯啊？”</p>
-<p>最可怕的是，中国正版化的混沌法则，既不对这两群人中的任何一群鼓励，也不反对。</p>
-<p>而在上面截图中我们所看到的，正是在这个既不保护正版亦不支持盗版的混沌状态中，一位盗版用户苟活着的真实写照。这是因为，他们的游戏娱乐和内容消费高度依赖在这个混沌状态下的盗版经济链条，而这个链条在完全正版化和完全盗版化两个终极状态下，都将不复存在。</p>
-<p>我们假定未来的某一天，市场因为版权保护立法和行政监管而走向了完全的正版化，盗版行为本身和消费盗版内容的行为都受到法律严苛的制裁。这些过去的盗版用户，买正版游戏要花一大笔让他们感觉不舒服的钱，而市面上也已经没有多少盗版内容可供他们消费，更别提下盗版、看盗版和玩盗版还会招致执法机构踢门查水表。这种完全正版化的市场环境，使得他们的盗版成本显著提高——显然他们不希望这样的时代到来。</p>
-<p>我们再假定未来的某一天，市场因为版权保护立法和强力行政监管的严重缺位，向盗版化的方向恶性发展，最终失衡失治。表面上看，制作、上传、下载和消费盗版内容的行为不会受到任何惩罚，盗版成本显著降低，这样的状态却并不是盗版玩家的天堂。倘若一国的市场走向盗版化，这意味着这个国家之内将很难再有正经的开发者去开发游戏，国外的游戏开发者和影视内容制作者也将对这个国家避而远之，届时他们将使用的屏蔽技术恐怕远比现在的加密手段更复杂，对盗版行为的法律制裁将远比一封律师函更严重。这样下去总有一天，盗版玩家也将无游戏可玩——显然，盗版玩家同样不期待被这样对待。</p>
-<p>整个数字内容市场的正版化和盗版化，对于盗版玩家来说都毫无益处。他们既依赖正版内容的开发者和制作者，又不希望为他们生产的内容付出应付的代价。</p>
-<p>这种拎不清的混沌状态，既是最坏的时代；对于盗版玩家来说，反而是最好的时代。他们希望这种混沌状态永远延续下去。</p>
-<p>这也是为什么，我们会看到本文所述的，这种因为玩不到盗版而对正版游戏内容进行举报，试图从一个不公的文化管理体制里借力，去惩治正版用户的卑劣行为。</p>
-<p>你难道看不出，这些盗版玩家，在试图维持一个他们所认为的均衡么？</p>
-<blockquote><p>最后，谈谈我对这个事件的看法。</p>
-<p>我们的确处在这样一个混沌的时代。但至少过去两年我们都能看到，无论是 STEAM，还是索尼的 PS、微软的 XBOX（包括游戏主机、游戏和其游戏网络系统），都通过商业运作的方式，最终以正版的身份来到了中国大陆，或者正在中国大陆走在正版化运营的道路上。与此同时，中国大陆的正版化立法和监管都在逐步落实，而这个市场和管理市场的制度，其所能够包容的文化，也正愈发多元化。</p>
-<p>因此我个人相信，现在的时代更像是黎明前的黑暗。最终，中国大陆的数字消费内容市场会走向一个合法的、健全的、利于正版内容消费者和正版内容提供商的均衡状态。至于盗版玩家？就让他们去死吧。</p></blockquote>
-<p>另附：</p>
-<p><strong>知乎日报 | 国内单机游戏的盗版困境 是从业者的问题 也是玩家们的问题</strong></p>
-<p>楚云帆：最近某网站因为《三国志 13》盗版引发的事情闹得沸沸扬扬，想起来 12 年的时候写过一篇小文，发现过了 3、4 年该网站的站长和那批用户也没什么变化，就重发一下该文。</p>
-<p><strong>山贼与山村</strong></p>
-<p>几年前看过一部叫做《缺月梧桐》的网络武侠小说，与传统武侠很多不食人间烟火的作品相比是很社会派的一部作品，里面有这样一个发人深省的小故事。</p>
-<p>小说的主角王天逸在路过一个山村的时候遇到山贼强抢一名铁匠未过门的妻子，于是仗义出手杀掉一名山贼，但是本以为会受到村民感激然后深藏功与名的时候，却被面对山贼欺压忍气吞声的村民团团围住——不是感激他们，而是要绑住他们以给肯定会前来复仇的山贼们一个交代。</p>
-<p>原来这是一个被附近莲花山上的山贼欺凌已久的村庄，这些山贼们不仅劫掠过路客商，平时还鱼肉乡里欺压百姓，而官府驻军又无意剿匪，因此家中有女儿多数远走，仅留下一些老弱，每年上供些粮食银钱，也能落个太平，因此主角的仗义出手给村庄带来的不是恩惠，而是可能的灭顶之灾。</p>
-<p>这横生的枝节让村民们愤怒了，而面对此情此景的主角则困惑了：自己究竟是做对了，还是做错了？</p>
-<p><strong>国内单机游戏今昔</strong></p>
-<p>自诞生以来，国内的正版单机游戏市场已经有近二十年，但是随着网络游戏市场的扩大，原本的很多单机游戏开发商普遍转向了网络游戏的开发，而发行商则普遍倒闭或惨淡经营，新加入单机游戏开发与发行的厂商寥寥无几，近年来国内市场的上市作品数量与发行商的数量都在逐年减少，很多人都会问这样一个问题：在网络游戏、网页游戏、手机游戏这些新兴的产业形态不断蓬勃的发展的时候，单机游戏市场何以沦落至此？</p>
-<p>暗黑破坏神 3 上市前几天，我临时起意找到当年代理暴雪游戏起家的奥美公司的两名高层张曙波与陈望治做了个采访，写过了一篇《奥美之殇》。在回顾奥美这家国内单机游戏发行领域中的龙头老大从如日中天到消亡的过程的时候，二人在多年之后提到盗版对正版游戏发行造成的损害仍然痛心疾首。虽然奥美不是亡于盗版，但是如果一个行业中的龙头老大都有这么大的困扰的话，那么其他公司的境遇我们更是可想而知了。</p>
-<p>在采访过程中，张曙波与陈望治提供了一些销量数据，多少可以看出盗版对单机游戏市场的冲击。在奥美电子国内 8 年的经营历史中，这家公司共引进了 108 款游戏（包括其全资子公司怡采科技所代理的游戏），除星际、魔兽、暗黑、CS 这四款王牌游戏外，还包括《地球时代》系列、《家园 2》等作品。但是除了四款王牌游戏之外，奥美所代理的其他游戏销量都十分普通，表现最好的《地球帝国》系列销量只有 5 万，国内玩家中口碑极佳的《家园 2》也只有 2、3 万的销量，其他多数游戏都只有 1 万左右的销量，利润极其微薄，如果有库存积压现象甚至会亏损。</p>
-<p>在盗版的冲击下，昔日给国内单机游戏爱好者带来很多美好回忆的游戏发行商都在渐渐远去，奥美之外的第三波、天人互动、星空娱动、新天地也都先后倒下，寰宇之星、娱乐通、中电博亚这些公司虽然仍在苦苦坚持，但是处境也显得越发艰难，有些如网元圣唐也早已涉足网游业务以维持公司的发展。而近些年除了老牌游戏发行商之外，虽然有些在网络游戏上有些起色的网游厂商也开始尝试开拓单机游戏发行市场，但是更多的是挫折，比如代理了《英雄无敌 6》和《风卷残云》国内发行的百游。归结其中，除了这些公司自身的一些问题外，盗版都是很重要的一个因素，分流了游戏发行所带来的收入，给发行商带来了直接的损失。</p>
-<p>造成这种盗版泛滥的主要原因还是国内文化监管和法律保护的不利。在开头讲的《缺月梧桐》的故事中，了解到山贼肆虐的情况后，王天逸一行不禁问道：“官府难道不管吗？”</p>
-<p>村长的回答是这样的：“管。我们报官报了无数次，离这一百里远就有一支几百人的驻军，他们年年剿匪，他们一来，莲花山上的好汉就躲了起来。官兵大摇大摆的骑着马打着旗在周围转 了一圈就走了，每次都告诉我们他们打了大胜仗，没杀一千也剿掉了八百山贼，但是他们一走山贼就又回来了，连根毛都没掉，而且兵爷爷一来，要让村里提供酒、 肉、银钱，还调戏村妇。和山贼劫掠的损失也差不到哪里去！唉，我们剿不起匪啊。我们认了，只要莲花山的好汉不要我们的命就行了。”</p>
-<p><strong>盗版的困境</strong></p>
-<p>今天仍然在做单机游戏发行业务的公司和《缺月梧桐》中的那座山村十分相似。</p>
-<p>原本的山贼是盗版光盘的流通渠道，但是随着网络的普及，越来越多的玩家通过网络下载游戏的破解版、硬盘版，盗版光盘的市场也越来越下，而原本提供破解、汉化的论坛与网站逐渐壮大，成为了侵犯正版游戏发行商利益的新的山贼。</p>
-<p>但是在这种新的网络盗版模式下，山贼们多数情况下实际无利可图，只是单纯地让正版游戏发行商的利益受到损失——渐渐地，一些聪明的村民与山贼之间形成了一个默契：如果发行商愿意与提供破解的网站合作，那么实际上双方是可以找到利益共同点的——网站不提供正版游戏的破解与下载，改为作为正版游戏数字版的分销商获取一些发行收入，而发行商则免去了盗版的困扰，不提供数字发行的游戏则是以广告投放的形式获取破解网站的合作。</p>
-<p>这在本质上这是一种胁迫，但是在国内的知识版权保护力度和市场环境下，对于发行商来讲也只能是一个打落门牙和血吞的“最优策略”。回到开始那则故事里的山村困境，在官军剿匪不力的情况下，村民们怎样避免被山贼欺凌呢？如果不能将山贼连根铲除，那么即便一两次被仗义相助，但是最后的命运多半是全村被屠戮，因此只能选择妥协，这也是一种乱世求生之道。</p>
-<p>村民们做出这种选择是无奈，但是你见过把村民起来反抗称做不识时务，以及山贼头目标榜大义声称自己实际上济世救人的吗？近日新浪微博上就发生了这样一件事。</p>
-<p><strong>义与利</strong></p>
-<p>《刺客信条 3》是今年的大作之一，10 月的时候育碧也宣布将会推出简体中文版，由代理公司碧汉网络发行，但是由于审批的原因没有实现全球同步。11 月 27 日，PC 版国外上市的时候，著名破解组织 3DM 随即很快在论坛上发布了破解与汉化，碧汉网络总经理周宁随即在微博对此行为进行抨击，引发了一次小规模的网络论战。</p>
-<p>在论战之中，3DM 站长，绰号“不死鸟”的宿菲菲也在微博上进行了回应：“可能那些网站的负责人确实很无耻，但是也正是这些人的努力，才维系住中国仅有的单机用户群体，不至于被网络游戏和网页游戏全部洗劫干净。正版单机进不来，其他的获取渠道又要封堵，你让中国的玩家怎么选择呢？”而在随后的多条微博中，宿菲菲提到了“体制和消费习惯”、“审批”等问题造成的国内单机游戏市场畸形，称“3DM 是这种体制下，随波逐流必然的衍生的一个平台，目的就是用自己的方法让中国玩家能玩上好的游戏，能玩懂好的游戏，这种平台的出发点不可能有什么牟利的目的。”（注：成文于 2012 年，如果经历过这件事你会发现和《三国志 13》引发的事情没什么区别）</p>
-<p>作为国内最注重的破解与汉化组织，3DM 在国内单机游戏玩家中有很大的影响力，宿菲菲一直作为站长和站务管理人员为玩家所熟知。她在微博上所提到的一些问题确实也客观存在，比如审批，一些优秀的游戏因为审批造成国内上市的严重滞后，某种程度上 3DM 所提供的破解与汉化让想玩这些游戏的玩家能够与世界其他玩家同步，因此在论战中反而受到了一些玩家的支持。</p>
-<p>客观地讲，从光盘时代的盗版到网络时代的破解下载，国内单机游戏市场一直处于一种畸形发展的状态，这些确实与法律的不完善、审批造成的滞后以及社会普遍大众的软件消费习惯有关，但是都不足以成为让盗版行为正当化的理由，更不用说给这种行为标榜上大义的名分——实际上在破解背后，也不是毫无利益可言，一些网站与论坛流量带来的广告收入、作为数字发行的分成收入实际上已经十分可观——2010 年，178 以 500 万收购了 3DM，看中的也正是这一点。</p>
-<p><strong>路在何方？</strong></p>
-<p>在黑泽明的《七武士》里，也有一座被山贼掠劫的破败村庄。为了保护庄稼，村中长老请来了七名武士守护村庄。</p>
-<p>七名武士到达村庄后，发现这里的村民并不那么淳朴善良，尽是一些吝啬、虚伪的自私鬼，但还是帮助他们打退了山贼的进攻，献出了自己的生命保住了村庄的安全。在电影的最后，勘兵卫对着同伴的坟墓说：“我们又失败了，那些农民才是胜利者。武士就像风，从大地上漫卷而过，那些农民始终和大地在一起，永远地活下去。”</p>
-<p>相较于如今还能追求理想投身单机游戏开发的开发团队和苦苦支撑的发行商来讲，使用盗版的玩家才是永远的胜利者——他们可以找到各种各样的托词为使用盗版做辩护，但是那些死掉的开发团队和发行商则没有这样的机会。</p>
-<p>在过去，很多人以经济条件作为使用盗版的借口，但是近些年来手机游戏兴起之后，一些付费手机游戏的制造商也不禁产生了些疑问：为什么有些人可以花很多钱去吃饭泡吧唱 K，买得起游戏中一件几百元的武器，买得起一个几千元的手机，却不愿意花钱购买一个 6 元的手机应用，一本十几元的书呢？</p>
-<p>没有人能够给出一个让人满意的答案，但这就是中国的软件与文化消费市场的现状，所有从事或者想要进入包括游戏在内的商业软件开发的公司都应该好好地了解这片神奇的市场——想要改变它？单靠行业自身的力量是不可能的，最终只能靠法律的强制力以及社会习惯的改变，非一朝一夕之功。在此之前，单机游戏市场如何求存呢？</p>
-<p>这是留给仍然想要做国产单机游戏的团队的问题，实际上也关系到每个喜欢单机游戏的玩家。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%93%81%E7%8E%A9-%E6%89%93%E5%87%BB%E7%9B%97%E7%89%88%E6%88%91%E4%BB%AC%E9%83%BD%E8%A7%81%E8%BF%87-%E9%82%A3%E4%B9%88%E6%89%93%E5%87%BB%E6%AD%A3%E7%89%88%E7%9A%84%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/3dm/?category=18271" rel="tag">3DM</a>, <a href="https://chinadigitaltimes.net/chinese/tag/steam%EF%BC%8C%E6%95%B0%E5%AD%97%E5%86%85%E5%AE%B9%E7%9B%97%E7%89%88/?category=18271" rel="tag">steam，数字内容盗版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%BF%E8%8F%B2%E8%8F%B2/?category=18271" rel="tag">宿菲菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E7%89%88/?category=18271" rel="tag">正版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B7%E6%B2%8C/?category=18271" rel="tag">混沌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E7%89%88/?category=18271" rel="tag">盗版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%B4%E8%A7%A3%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">破解游戏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -763,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/3dm/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

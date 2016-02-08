@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,155 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%B5%B5%E5%91%98%E5%A4%96%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E8%B5%B5%E7%AC%91%E8%AF%9D%E4%BA%86/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗赵员外越来越像赵笑话了</a>
+</h2>
+<p><p>1.【台湾地震，消息透明得令人震惊】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/4c79ccf8gw1f0phihvzmcj20ik0qqjzm.jpg" alt="4c79ccf8gw1f0phihvzmcj20ik0qqjzm" width="551" height="794" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/4c79ccf8gw1f0phihvzmcj20ik0qqjzm-208x300.jpg 208w, http://chinadigitaltimes.net/chinese/files/2016/02/4c79ccf8gw1f0phihvzmcj20ik0qqjzm.jpg 668w" sizes="(max-width: 551px) 100vw, 551px"></p>
+<p>图片显示：2016年2月6日03:57，台湾官方获地震报警，至06:30，在短短的2小时33分钟里，发生了这么多令人震惊的应急救灾行动，并于07:40就向国民发布清晰明白的救灾行动公告。从抗震救灾，看国民党与民进党、这党那党的差异。——//@陆伟民律师：注意一个细节，今晨台湾地震，台南一幢高楼倒塌，马英九第一时间赶到救灾中心了解灾情并到医院看望伤员，但他没有到现场指挥抢险，马英九很清楚，自己不是救险专业人员，不应也不允许他在现场指挥，不像在大陆，领导是万能的，地震、爆炸、火灾，处处有可爱的领导们亲临现场指挥。如果此事发生在兲朝，兲朝的媒体们应该是这样报道地震流程的：地震发生后马英九总统立即赶赴现场，做出“三个确保一个必须”的重要指示，高雄市委连夜组织学习并深入探讨马英九指示精神，并亲自指挥救灾工作，目前高雄受灾群众情绪稳定；一个月之后政府会评出不少英模，然后再开表彰大会。。</p>
+<p>2.【老给人擦屁股，外交部郁闷死了】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcx39udj20k00zk76x-576x1024.jpg" alt="d3e9af42gw1f0prcx39udj20k00zk76x" width="550" height="978" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcx39udj20k00zk76x-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcx39udj20k00zk76x.jpg 690w" sizes="(max-width: 550px) 100vw, 550px"></p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcxoxsyj20qo1bfq9e-576x1024.jpg" alt="d3e9af42gw1f0prcxoxsyj20qo1bfq9e" width="548" height="974" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcxoxsyj20qo1bfq9e-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcxoxsyj20qo1bfq9e.jpg 690w" sizes="(max-width: 548px) 100vw, 548px"></p>
+<p>外界猜测政府支持网友攻击蔡英文，外交部发言人表示：这些说法，我不知道有没有什么证据。事实上，在网络安全领域，各种各样说法满天飞，如果我们把精力花在对每一个毫无根据或者说道听途的言论作评论，确实没那么多时间。——外交部这屁股擦的老郁闷了！虽然团中央老是绝得自己是党的一条大腿，不过团中央还真不是政府部门。。——这得多么脑残才能对别人的灾难表现的幸灾乐祸啊？！可惜爱国青年又当了一回夜壶，被你党用完就扔。记住：团永远不能代表党。//@王亚军上海：日本海啸地震，一群人高呼解恨。美国911袭击，这群人庆祝胜利。福岛核事故，还是这群人兴奋不已。法国暴恐袭击，依旧是这群人高兴的大谈报应。台湾地震了，这群人竟然打出“天灭蔡英文”的横幅开心快乐。你们是什么人？你们究竟想要什么样的世界？</p>
+<p>3.【郭台铭宣布捐赠2亿新台币】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/65e1a554jw1f0q0opgidqj20rs0lcdnb.jpg" alt="65e1a554jw1f0q0opgidqj20rs0lcdnb" width="551" height="423" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/65e1a554jw1f0q0opgidqj20rs0lcdnb-300x230.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/65e1a554jw1f0q0opgidqj20rs0lcdnb.jpg 690w" sizes="(max-width: 551px) 100vw, 551px"></p>
+<p>台湾鸿海集团6日晚间表示，董事长郭台铭宣布捐赠1亿元、永龄基金会捐赠1亿元，共2亿元新台币给台当局，协助灾区受难及弱势家庭安置、伤亡抚恤、伤残者辅具补助、灾区儿童教养、及灾民心理复健治疗；他希望抛砖引玉，共助台湾同胞度过难关，天佑台湾。</p>
+<p>4.【说令计划的权力是人民赋予的，有委托书吗？】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/bad67405gw1f0ou5wm351j20ty15bqas.jpg" alt="bad67405gw1f0ou5wm351j20ty15bqas" width="550" height="759"></p>
+<p>@涛声依然3：环球社评称：令计划显然把权力当成了个人财富，当成了他个人奋斗的应有回报。他像是完全忘了权力是党和人民赋予的。PS：令计划的权力是党自己赋予的，跟人民半毛钱关系都没有，别出了事就赖到人民头上，人民什么时候赋予他权力？有他妈的委托书吗？</p>
+<p>5.【为啥不带我们玩了，差哪呢？】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pxio29bwj20cs0kmjsl.jpg" alt="63e10c60gw1f0pxio29bwj20cs0kmjsl" width="461" height="744" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pxio29bwj20cs0kmjsl-186x300.jpg 186w, http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pxio29bwj20cs0kmjsl.jpg 460w" sizes="(max-width: 461px) 100vw, 461px"></p>
+<p>你们一帮国家的穷鬼领导人哪有什么财产可公布的？比如美国副总统穷的都要卖房子…看看俺们兲朝的领导人，随便哪个不是上亿的资产？才不跟你们一起踢屁屁呢。。</p>
+<p>6.【为中共站台死的快】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/005UabKjjw1f0q1qsfkfzj30dj0hq76x.jpg" alt="005UabKjjw1f0q1qsfkfzj30dj0hq76x" width="487" height="638" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/005UabKjjw1f0q1qsfkfzj30dj0hq76x-229x300.jpg 229w, http://chinadigitaltimes.net/chinese/files/2016/02/005UabKjjw1f0q1qsfkfzj30dj0hq76x.jpg 487w" sizes="(max-width: 487px) 100vw, 487px"></p>
+<p>亚视终结，真的终结了！红色资金的注入，犹如帮人注入慢性毒药，不死都好难……没事了就想向中共靠拢，看你能挣扎多久才死而已。</p>
+<p>7.【六年多对多个单位和个人才敲诈了5000元？】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%8D%95%E8%8E%B71191.png" alt="捕获1(191)" width="549" height="361" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/捕获1191-300x197.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/捕获1191.png 630w" sizes="(max-width: 549px) 100vw, 549px"></p>
+<p>甘肃检察院：《兰州晨报》记者张永生以报道负面新闻要挟多个单位和个人，其中敲诈人民币5000元犯罪事实清楚，证据充分。涉嫌嫖娼问题事实不清，证据不足。鉴于涉案金额不大、本人认罪态度较好，已建议对张永生取保候审。后来，@武威公安发博：根据省公安厅决定，武威市公安局已撤销凉州区公安局作出的对张永生行政拘留五日的处罚决定（凉公（刑）行罚决字20169号），并启动国家行政赔偿程序，对执法过错责任人员停止执行职务，依法依规追究执法过错责任。——//@LifeTime:从一开始就断定是非法打压记者，从一开始就断定是警察背黑锅。那些指示警察违法拘押记者的当地书记们一定要等到过完年再辞职吗？赞甘肃警方智慧：1）迅速纠偏警察错误。2）承担警察该承担的责任。剩下的你们找当地书记吧。就应该这样，不能为那些昏官掩盖一切。</p>
+<p>8.【马家军的金牌可能要被追讨了】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006kX7dmgw1f0ox9ex8coj30960dr401.jpg" alt="006kX7dmgw1f0ox9ex8coj30960dr401" width="330" height="495" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/006kX7dmgw1f0ox9ex8coj30960dr401-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/006kX7dmgw1f0ox9ex8coj30960dr401.jpg 330w" sizes="(max-width: 330px) 100vw, 330px"></p>
+<p>红极一时，数十次破纪录骄人成绩杨威世界的“马家军”被曝高层默许集体服药，以爱国的名义打着国家荣誉的旗号制造出惊世骗局，马家军式的兴奋剂，也给这个国家所谓的“精神”更注入了变态的成分……正如当初的国家游泳队的辉煌丑闻一般，国际田联开始调查“马家军”服药事件，曾经傲娇的记录与奖牌或被取消……</p>
+<p>9.【这么轻的惩罚如同隔靴搔痒】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/61e04755jw1f0phuzqu0yj20fd09hq4a.jpg" alt="61e04755jw1f0phuzqu0yj20fd09hq4a" width="548" height="338" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/61e04755jw1f0phuzqu0yj20fd09hq4a-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/61e04755jw1f0phuzqu0yj20fd09hq4a.jpg 553w" sizes="(max-width: 548px) 100vw, 548px"></p>
+<p>财经网消息：黄兴国表示，天津港爆炸调查结论实事求是，处理意见依法依规，充分体现了对人民群众生命财产安全高度负责的精神。坚决拥护国务院的调查和处理决定，诚恳接受通报批评，并向党中央、国务院作出深刻检查。——出了这么大的事情，你这轻描淡写的检查有个屁用？应该辞职才对吧？那些因此爆炸事件死掉的人和损失掉的财产就这么灰飞烟灭了？</p>
+<p>10.【高瑜想出国治病？没门儿 …… 】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006fW5JIgw1f0pi620p6wj30hs28z1e9-225x1024.jpg" alt="006fW5JIgw1f0pi620p6wj30hs28z1e9" width="225" height="1024"></p>
+<p>几个月前获释时，当局曾经承诺将负担她的退休以及医疗等费用，但是承诺至今并未兑现。因此高瑜还是出不去。。估计兲朝政府是不敢放她出去的，因为她的思想和嘴巴都太厉害。。</p>
+<p>11.【若属实，医生们赶紧逃命去吧】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/a5b7f87cgw1f0q08dipl6j20hs0nqgn1.jpg" alt="a5b7f87cgw1f0q08dipl6j20hs0nqgn1" width="549" height="733" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/a5b7f87cgw1f0q08dipl6j20hs0nqgn1-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/a5b7f87cgw1f0q08dipl6j20hs0nqgn1.jpg 640w" sizes="(max-width: 549px) 100vw, 549px"></p>
+<p>这告示最后一句霸气侧漏。什么时候部队搞起医疗鉴定了？这支部队的领导真是为兵着想，佩服！佩服！中国医生苦啊，卫计委太怂，看看人家《我部不排除武力解决医疗纠纷的可能……》， 把对付钓鱼岛的劲用到医院啦。。俺们想知道军队怎么介入？包围？占领？消灭？“必要时介入”是说要军舰炮口瞄准医院吗？ 目测医院将被迫签署一系列“丧权辱院”的不平等条约…</p>
+<p>12.【赵员外越来越像赵笑话了】</p>
+<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pys2fcf4j20yi1pck1b-1-576x1024.jpg" alt="63e10c60gw1f0pys2fcf4j20yi1pck1b" width="469" height="834" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pys2fcf4j20yi1pck1b-1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pys2fcf4j20yi1pck1b-1.jpg 690w" sizes="(max-width: 469px) 100vw, 469px"></p>
+<p>过年了，朝鲜的金三胖要给兲朝送个大礼。据报道，朝鲜半岛事务特使武大伟目前已经结束对朝鲜的访问返回，他表示“该说的都说了”，但是结果尚不很明确。——无可奈何的赵家？没能耐的窝囊废吧。呵呵。。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%B5%B5%E5%91%98%E5%A4%96%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E8%B5%B5%E7%AC%91%E8%AF%9D%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98-%E8%B5%B5%E5%91%98%E5%A4%96/?category=18271" rel="tag">兲朝浮世绘 赵员外</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84/?category=18271" rel="tag">卫星发射</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B9%B4%E7%A4%BC%E7%89%A9/?category=18271" rel="tag">新年礼物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%A4%A7%E4%BC%9F/?category=18271" rel="tag">武大伟 </a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%98%A5%E6%99%9A%E7%9A%84%E6%94%BF%E6%B2%BB/" target="cdt-mirror">东网｜乔木：春晚的政治</a>
+</h2>
+<p><p>猴年央视的春节文艺晚会，照例有人关注期盼，当然也有越来越多的人不再理睬。晚会筹备期间，网上有很多舆论，要求有以演猴戏和西游记出名的六小龄童的节目。尽管呼声很大，有呼吁主张的、有调侃讽刺央视的、甚至传言说还有商业炒作，但最终还是没上。</p>
+<p>当然有人喜欢六小龄童，肯定也有人不喜欢，或没有感觉，都很正常，只不过现在是喜欢的发声而已。央视的官媒嘴脸和政治说教，向来招人反感，不过此事做的倒能理解。猴年说猴，鸡年说鸡，12年一循环，了无新意。何况六小龄童在全盛的时期早已上过春晚，现在再上，看扮相没意思，看翻筋斗、耍金箍棒，以现在的年龄有点难为他。孙悟空西游记是以故事和想象展开的，需要外景、特技和集体的配合，不太适合说唱歌舞的晚会。春晚安排了戏曲名角小香玉等的《戏游花果山》，可能更适合。</p>
+<p>许多人之所以反感春晚，是因为一个娱乐节目太讲政治。六小龄童事件上倒看不出政治，但其他节目和整体的安排，政治目的十分明显。每年春晚的结束词，都是朱军或其他主持人，饱含激情的动员：“全党、全军、全国各族人民紧密团结在以某某某为总书记的党中央周围”。顺着这个目的往回看，政治充满春晚的节目。</p>
+<p>过去春晚有“党的政策亚克西”、“大步流星奔小康”的歌舞表演，前两年有歌颂中国梦、一带一路的节目，今年政治说教、革命传统更是大幅增多。红色歌曲“没有共产党就没有新中国”、“过雪山草地”、“山丹丹花开红艳艳”（讲延安的）、“我的祖国”，响彻舞台。还有必不可少的歌颂军队的小品“将军与士兵”、歌曲“铁血忠诚”，歌颂党的领导民族团结的歌舞“在你伟大的怀抱里”。</p>
+<p>春节晚会本来是个娱乐开心的时刻，突出的应该是传统文化、阖家团圆、其乐融融，可是由党的喉舌媒体操办，总是被搞成爱党爱国爱军的政治鸡汤；个人欢乐、家庭祥和的内心感受，总是变成党的领导、军队伟大、国家富强、民族团结的宏大叙事，把建党节、建军节、国庆节的政治说教，熬成一锅红呼呼的杂烩迷魂汤，歌舞送服。</p>
+<p>要说政治，老百姓最感兴趣的政治讽刺、对官员的监督批评，春晚不敢呈现，最大也不过是对县乡领导吃喝、处级干部打乒乓的隔靴搔痒。但是对普通民众、弱势群体的讽刺挖苦，却任性大胆。这么多年来，农民工、残疾人、外地人、外国人、少数民族、老人、妇女、胖子、寡妇、剩女，无数个普通人是春晚取笑讽刺的对象，却从来不触及权力的滥用、官员的丑闻、民众对政治的不满。</p>
+<p>不仅内容，形式上也充满偏见和刻板印象。本来是全国人民的晚会，除了普通话，对方言不该厚此薄彼，可是东北话大行其道，角色安排，上海话小里小气，广东话财大气粗，西北口音憨厚愚笨。总是外交官发来贺电，边防战士坚守哨所，全球华人祝福祖国。老面孔的主持人轮番忽悠，骗你发短信有奖竞猜，评选喜欢的节目，好让他们邀功请赏。各种硬广告、软广告、花钱企业的拜年，从始至终，政治和经济两手抓。</p>
+<p>不管世界和观众怎么变化，春晚的政治和模式顽固不化。而且这几年，大肆推广正能量，重提共产主义理想，强调红色基因，媒体和文艺中的政治更多。政治是为了权力，权力是为了利益。央视春晚的歌舞升平，不过是为了掩盖喉舌操控者的声色犬马、巧取豪夺。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 桂枝药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%98%A5%E6%99%9A%E7%9A%84%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%AF%95%E5%B0%84%E7%96%91%E4%BC%BC%E8%BF%9C%E7%A8%8B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E5%8F%8D%E5%BA%94/" target="cdt-mirror">美国之音｜日本对朝鲜试射疑似远程弹道导弹反应迅速</a>
+</h2>
+<p><p>朝鲜刚把预定发射自称人造卫星“光明星4号”的时间提前一天，日本政府周日（2月7日）早上就报告，朝鲜当天早上日本时间9点31分，在中朝边境的东仓里发射场向太平洋方向试射了一个相信事实上是远程弹道导弹的物体。</p>
+<p>报告说，发射后飞行物分解为5部分，第一部分早上9点37分掉落在朝鲜半岛以西150公里的黄海；两分钟后有两部分掉落在朝鲜半岛西南250公里的东中国海；9点41分左右第四部分飞跃日本冲绳上空，4分钟后掉落在日本以南约2000公里的太平洋；而第五部分在9点39分飞跃冲绳上空后继续向南飞行，其中第四部分掉落在朝鲜预告的区域范围外。</p>
+<p>日本防卫大臣中谷元说，朝鲜周日试射的弹道导弹类似2012年12月朝鲜试射的“大浦洞2号”改良型洲际弹道导弹，并宣布因朝鲜试射物体没有落下日本的迹象，所以日本周六已部署在东京和东京周边，以及冲绳和东中国海、日本海等地区的导弹防御系统都没有启动迎击。</p>
+<p>日本全国警察厅也宣称，没接获有关朝鲜试射引起的损害报告，但警察厅说他们已提升警戒，防备日本右翼组织受朝鲜行动刺激，发起偏激行动。</p>
+<p>炫耀与造势</p>
+<p>日本国际问题研究所客席研究员、前海上自卫队将领金田秀昭对朝鲜周日发射的物体说：“虽然很难说朝鲜发射的物体尖端是包括间谍卫星在内的卫星还是弹头，但明显是过去几年朝鲜很可能也是试射弹道导弹的物体以来，试射更大型物体，技术也已更进一步”。</p>
+<p>共同社分析说，“朝鲜发射远程导弹的目标是开发能抵达美国的洲际弹道导弹，并看来通过这次发射向美国炫耀已达到一定技术阶段”。共同社也说，发射火箭的尖端是搭载卫星还是导弹，推进技术都基本一致。</p>
+<p>日本2013年《防卫白皮书》曾对朝鲜2012年试射弹道导弹说，“朝鲜从东仓里发射火箭”银河3号“运送的远程弹道导弹是”大浦洞2号“改良型，其射程已超过1万公里，可抵美国中部和西部”。共同社比较这次试射指出，“这次试射与2012年轨道基本一致，并可能在技术上更进一步，从朝鲜扩大东仓里发射台的迹象来看，今后继续发射的可能性很大”。</p>
+<p>共同社还分析说，朝鲜继1月实施第四次核试验后，再强行试射弹道导弹，“是基于断定与其和国际社会协调，不如制造朝鲜与国际社会的紧张尖锐，促使内部团结，对巩固金正恩体制基础更为有利，预计到今年5月朝鲜劳动党大会前，朝鲜还将突出强硬路线。”</p>
+<p>关注中国动向</p>
+<p>首相安倍晋三的内阁在朝鲜发射后约一小时回到首相官邸召开紧急会议，安倍下达了全力收集和分析情报以便迅速向国民提供；彻底确认航机和船舶安全；防备不测事态、采取万无一失态势的指令。内阁官房长官菅义伟周日上午则先后召开两次记者会，第一次宣布日本已通过驻北京大使馆向朝鲜提出强烈抗议和严厉谴责，第二次宣布获得安倍指示“研究对朝鲜实施坚决地应对措施”。</p>
+<p>与此同时中谷元向防卫省和自卫队官员发令“继续持有紧张感实施警戒和监视行动”，外相岸田文雄则与有关各国举行电话会谈，谋求国际社会紧密合作行动。日本外务省透露，日本政府分析朝鲜这次试射弹道导弹的目的和今后动向，认为“不能否定朝鲜还会实施包括第五次核试验在内的挑衅行为，日本必须加强警戒”。</p>
+<p>日本政府与美国、韩国在上个月朝鲜实施第四次核试验后，已取得针对朝鲜一致步调的共识，也对中国反对下，联合国安理会至今没通过加强谴责和制裁朝鲜的决议深感不满。同时日本也留意到中国负责朝鲜事务特别代表武大伟日前访朝遭遇冷落与无奈，说明的中朝现实关系。</p>
+<p>周日朝鲜试射后，日本各大传媒都十分关注和议论中国今后是继续姑息朝鲜，还是向日美韩主张制裁朝鲜的立场靠拢，同时一些日媒也开始关心如果中国继续姑息，日美韩将可能采取什么行动，时事通信社指出“预计美国国会可能近期内会通过制裁中国等国与朝鲜交易的个人和团体的相关法案”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%AF%95%E5%B0%84%E7%96%91%E4%BC%BC%E8%BF%9C%E7%A8%8B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E5%8F%8D%E5%BA%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%9D%8E%E6%96%87%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%A9%B6%E7%AB%9F%E5%8F%91%E5%B0%84%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">BBC｜李文：朝鲜究竟发射的是什么？</a>
+</h2>
+<p><p>朝鲜官方通讯社朝中社报道，朝鲜在2月7日成功发射“光明星4号”地球观测卫星。但韩国则认为，朝鲜发射的是一枚“远程火箭”。</p>
+<p>庆祝金正日诞辰日</p>
+<p>朝中社说，朝鲜最高领导人金正恩在6日签署发射“光明星4号”卫星的亲笔命令，而朝鲜在2月7日将新研发的“光明星4号”卫星成功送入轨道。</p>
+<p>朝鲜国家宇宙开发局也在7号发表公告说，在民族最大节日2月16日“光明星节”（朝鲜已故最高领导人金正日诞辰日）到来前夕成功发射卫星，是朝鲜宇宙科技工作者为金正恩同志、朝鲜劳动党、朝鲜国家和人民献上的最忠诚的礼物。</p>
+<p>公告还表示，朝鲜国家宇宙开发局今后将发射更多卫星。</p>
+<p>韩国认为朝发射“导弹”</p>
+<p>而在韩联社引述韩国国防部相关人士表示，朝鲜发射了一枚“远程导弹”。</p>
+<p>有关报道说，导弹一级火箭推进器于9时32分分离，炸成270多块碎片坠入朝鲜半岛西部海域，9时36分从韩方雷达上消失。</p>
+<p>韩国军方表示，为了探测和追踪火箭，韩方启动了宙斯盾舰、“绿松”雷达以及空中预警机等。此外，为了预防火箭脱离预定轨道侵犯韩国领空，爱国者PAC－2型导弹也处于拦截态势。</p>
+<p>曾4次发射卫星</p>
+<p>这次也是朝鲜第五次发射卫星，此前朝鲜曾先后4次发射卫星。</p>
+<p>1998年8月31日，朝鲜首次发射远程导弹，当时朝鲜并没有向国际机构事前通报，而导弹发射后的第4天，朝鲜由宣布其发射的是首颗人造地球卫星“光明星1号”。朝鲜还宣布“光明星1号”发射成功。但美国认为卫星没有进入轨道。</p>
+<p>2006年7月，朝鲜发射“大浦洞2号时”，朝鲜宣布将发射人工卫星，并首次事先通报了国际组织，但是发射后，朝鲜又宣称，成功发射了导弹。</p>
+<p>2009年4月，首次开始向国际组织通报卫星发射计划，朝鲜宣布将发射人工卫星“银河2号”。2009年3月，朝鲜向IMO等国际组织通报称：4月4日到8日将发射人工卫星，结果4月5日朝鲜发射了“银河2号”远程导弹。不过，韩国国防部当时表示说，发射物没有进入预定轨道。美国军方认为，朝鲜当天发射的“导弹”已坠入海中。</p>
+<p>2012年4月13日，朝鲜从平安北道铁山郡的西海卫星发射场发射了首颗应用卫星“光明星3号”，但这颗地球观测卫星没有进入预定轨道。韩国国防部认为，朝鲜的火箭在发射数分钟后即碎成数片并坠毁。朝鲜后来也承认，“光明星3号”未成功进入轨道。</p>
+<p>2012年12月12日，朝鲜从平安北道铁山郡的西海卫星发射场用“银河3号”运载火箭，将第二颗“光明星3号”卫星送入轨道。据朝中社报道，朝鲜最高领导人金正恩当天到卫星控制综合指挥所下达发射“光明星3号”卫星的命令，并观看了卫星发射全过程。</p>
+<p>此前通报均是发射导弹</p>
+<p>虽然朝鲜多次强调，发射卫星均出于国防和科研等和平目的，但美国、日本和韩国对此表示质疑，并认为朝鲜实际是以发射卫星为掩护试射弹道导弹。</p>
+<p>而从朝鲜此前向国际组织通报称将发射卫星的3次先例来看，每次都是发射的是远程导弹，而且发射的时间也在预先通报的时间范围内。因此，由于朝鲜此次也在事先向位于英国伦敦的国际海事机构（IMO）通报了将发射卫星的计划，因此普遍认为，这次朝鲜极有可能又是在发射远程导弹。</p>
+<p>事实上，从技术上来看，从发射卫星的运载火箭到远程导弹只有一步之遥。根据运载火箭的搭载物不同，可以是人造卫星，也可以是有核弹头的导弹。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%9D%8E%E6%96%87%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%A9%B6%E7%AB%9F%E5%8F%91%E5%B0%84%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E7%BA%A2%E4%BA%8C%E4%BB%A3%E7%88%B6%E8%BE%88%E4%BB%AC%E6%89%80%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BB%8A%E5%A4%A9%E8%BF%99/" target="cdt-mirror">自由亚洲｜罗宇：红二代父辈们所要的不是今天这样的中国</a>
+</h2>
+<p><p>——专访罗瑞卿之子罗宇（之四）</p>
+<p>罗宇是中共开国大将、前解放军总参谋长、军委秘书长罗瑞卿之子，1989年为解放军总参谋部大校军官。六四屠杀后，罗宇宣布与中共决裂，当时他正在欧洲访问，从此成为一位政治流亡者，26年不能回国。旅居美国的罗宇近来因为连续致信习近平，呼吁中共放弃一党专政，实行政治改革，为人们所关注。日前，罗宇接受本台专访，谈了他流亡海外的心路历程，以及对习近平反腐和习近平是否能领导中共实现政治改革的看法。</p>
+<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/8960ebd6-2b2b-49cc-94a9-aa1ee05af734.jpeg" alt="罗宇近照（罗宇提供）" width="399" height="406" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/8960ebd6-2b2b-49cc-94a9-aa1ee05af734-295x300.jpeg 295w, http://chinadigitaltimes.net/chinese/files/2016/02/8960ebd6-2b2b-49cc-94a9-aa1ee05af734.jpeg 622w" sizes="(max-width: 399px) 100vw, 399px"><p>罗宇近照（罗宇提供）</p></div>
+<p>本台分四集播出对罗宇的专访。今天播出第四集，也就是最后一集。在前三集中，罗宇谈到他为什么舍弃在中国所得到的一切选择流亡，以及他对习近平反腐的看法。他指出：如果习近平真心反腐，就必须逐步有序的实现民主化。他主张习近平向蒋经国学习，用专制的手段结束专制。在这一集里，罗宇要以“红二代”的身份，谈谈在当代中国政治中扮演重要角色的“红二代”。他表示，红二代中少数人成为既得利益集团成员，多数人认为，他们的父辈奋斗所要的中国，不知今天这样的中国，因此他们都支持在中国实现民主化。下面是特约记者CK从旧金山发来的专访罗宇第四集。</p>
+<p>“红二代”又被人们称为“太子党”。罗宇表示：只有毛泽东的儿女可以称为“太子”。他不喜欢被人称作“太子党”，但能够接受“红二代”这个称呼。“红二代”指的是当今中国一个特定群体，红二代里有坏人，也有好人。罗宇说：“红二代里面的极少数是既得利益集团成员，这些人不得人心。红二代里面的大多数都认为，他们的父辈所为之奋斗的中国，不是今天邓小平、江泽民他们弄出来的这个中国。讲红二代在未来中国的走向起什么作用的话，我倒觉得，红二代整体上会起好的作用，就是朝民主方向发展的作用。但是红二代里面也有很多糊涂思想，各种不符合民主思维的思潮也有很多，不可能用一种标准要求所有人。有些人还想回到毛泽东的独裁体制上去，这是行不通的。既得利益集团是赞成邓小平的，这也是行不通的。大多数人应该想清楚了，中国的唯一出路，是逐步的有序的民主化。”</p>
+<p>红二代是依附于中国共产党而存在的，因此红二代对于党的生死存亡，是不是比对国家的前途命运更关心呢？罗宇回答记者这个问题时说：“党的存亡和国家的存亡是两码事，党如果变成一个廉洁的党、民主的党，它可以领导人民、领导国家走向兴旺发达。中国共产党在战争年代是以人民利益为准办事，所以得到了人民的拥护。但是1949年之后，就越来越偏离了民主建国的理念，事情就越办越糟。到了邓小平，那就是与人民为敌了。坦克都能开上天安门广场镇压学生，中国共产党在六四时就已经完蛋了。红二代里有人想把共产党从一个腐败的党变成一个廉洁的党，有没有可能呢？这在很大程度上决定于习近平当局，是不是真的想明白了，中国唯一的出路就是逐步的、有序的民主化。”</p>
+<p>记者对罗宇的电话采访，是在春节即将到来之际进行的。从89六四后的第一个春节算起，罗宇有26个春节不能与家人一起度过了。26年的漫长岁月，罗宇从中年人成为了老年人。在罗宇谈完他对红二代的评价后，记者问罗宇最后一个问题：春节到了，他是否想念他的家人？是否想念和他一起长大的发小？是否想念他的国家？但是，罗宇一句话也没有回答——电话那一头，他泣不成声……我似乎不该问这个问题，采访无法继续下去了。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E7%BA%A2%E4%BA%8C%E4%BB%A3%E7%88%B6%E8%BE%88%E4%BB%AC%E6%89%80%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BB%8A%E5%A4%A9%E8%BF%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E5%AE%87/?category=18271" rel="tag">罗宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E7%91%9E%E5%8D%BF/?category=18271" rel="tag">罗瑞卿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%98%A5%E8%8A%82%E5%AF%B9%E5%94%90%E5%BF%97%E9%A1%BA%E5%B9%B8%E6%B8%85%E8%B4%A4%E7%9A%84%E5%A6%BB%E5%AD%90%E4%B8%8D%E6%98%AF%E6%AC%A2%E4%B9%90/" target="cdt-mirror">自由亚洲｜春节对唐志顺幸清贤的妻子不是欢乐</a>
 </h2>
 <p><p>去年10月6日，两位仗义和热心人士唐志顺、幸清贤，因帮助被捕的维权律师包龙军、王宇夫妇16岁的儿子包蒙蒙出国读书，在到达缅甸时被越境而来的中国公安绑架回国，到2月6日，整整四个月，至今下落不明。春节到了，这个春节，对于唐志顺和幸清贤的妻子来讲，不是欢乐，而是对丈夫的思念和担忧，她们要求中国警方告诉她们：自己的丈夫在那里。</p>
@@ -43,7 +189,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%9D%A8%E4%B9%83%E6%AD%A6%E5%B0%8F%E7%99%BD%E8%8F%9C%E6%A1%88%E4%B8%AD-%E8%80%81%E4%BD%9B%E7%88%B7%E5%88%B0%E5%BA%95%E8%8B%B1%E6%98%8E/" target="cdt-mirror">东网｜王药师：杨乃武小白菜案中 老佛爷到底英明在哪</a>
 </h2>
@@ -578,184 +724,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%A5%BF%E8%AF%BA%EF%BC%9A%E6%88%91%E6%98%AF%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E4%BB%96%E7%9A%84%E6%83%85%E4%BA%BA%E4%BB%AC%E3%80%8B%E7%9A%84/" target="cdt-mirror">美国之音 | 西诺：我是《习近平与他的情人们》的作者</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-05-at-%E4%B8%8B%E5%8D%885.47.04.png" alt="Screen Shot 2016-02-05 at 下午5.47.04" width="550" height="308" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-05-at-下午5.47.04-300x168.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-05-at-下午5.47.04.png 634w" sizes="(max-width: 550px) 100vw, 550px"><br><span>《博讯网》记者西诺接受美国之音专访（美国之音拍摄）</span></p>
-<p>纽约—西诺是活跃在纽约的新闻网站《博讯网》的记者，最近出版了《习近平与他的情人们》一书。据传这本书是引起香港铜锣湾书店五人被失踪的原因之一。他表示，他是该书的作者之一。</p>
-<p>星期五，他在接受美国之音专访时说，一年前这本书写成后，原先承诺出版的铜锣湾书店老板桂民海可能因受来自大陆的压力而取消了出版计划。</p>
-<p>去年11月以来，桂民海等五人相继被失踪后，西诺决定将手中书稿出版。由于他的共同作者朋友反对，西诺在与其达成协议后以个人名义出版了该书。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s.png" alt="3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s" width="550" height="715" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s-231x300.png 231w, http://chinadigitaltimes.net/chinese/files/2016/02/3D57CB85-5C37-46AC-9FBD-DB7B784AAB8E_w640_s.png 640w" sizes="(max-width: 550px) 100vw, 550px"><br><span>《习近平与他的情人们》封面（谷歌书店截图）</span></p>
-<p>他表示，该书的纸质版即将上市，电子版一度在谷歌网络书店上架，因其朋友反对而下架；现在他以个人名义再度上架。</p>
-<p>西诺说，这样做的目的“只是想告诉习近平，这本书的作者在北美，你可以到北美法院来告我，我可以接受审判，但不要连累这些书商。”</p>
-<p>西诺说，书中许多故事并非编造，而是源于聚居纽约法拉盛的福建和浙江两地新移民，他们有很多有关习近平在那里任职时的传闻。</p>
-<p>西诺表示，中共在海外执法的事实和传闻已经在海外华人当中引起很大恐惧，他说，在出版该书寻找印刷厂的过程中，至少三家华人业主一听书名便表示拒绝。</p>
-<p>他表示，习近平上台后，大陆人到香港购买政治娱乐书的市场极大萎缩，铜锣湾书店于是改变策略，转到深圳设点，把书运到那里再邮寄大陆各地。</p>
-<p>他说，五名被失踪者之一的前书店老板林荣基手中握有大陆3400个分销者名单，现全部被大陆公安获取。西诺认为，这可能成为日后五人被定罪的最重要依据。</p>
-<p>以下是采访的实录：</p>
-<p>问：最近关于《习近平与他的情人们》引起很大反响。先介绍一下这本书。</p>
-<p>这本书的作者不是我一个人，还有一位我的朋友，他不愿公开露面。这本书是一年半前由他牵头来写的。主要是提供香港铜锣湾书店的桂民海出版。这本书中的人物比较开放，有一个提纲，然后按照这个提纲我们来写作。</p>
-<p>故事来自福建浙江新移民</p>
-<p>有的读者会问，这么多人物这么多故事是不是编造的呢？其实不是。因为我住在法拉盛，是新移民聚居的地方，大部分来自中国两个地区，一个是福建，一个是浙江。他们对习近平曾经在那里工作过的趣闻、私生活有很多很多传闻。包括他私生子的版本就有十几个。我们会了解到很多故事。至于这些传闻是真是假，对我们作家来说是很困难的。有时有人有兴趣给我们提供素材我们就听一听，是这样一个写作过程。</p>
-<p>这本书写完后就交给桂民海去出版。一年半前写的，写作花了几个月时间，但是完成后两三个月就没有消息。桂民海传来的消息说这本书不太方便，比较危险，不好出版，所以这本书不想出版了。</p>
-<p>桂民海传遭大陆施压后放弃出书</p>
-<p>然后我在这边听我的朋友讲，中国大陆派人去找过桂民海，他们去的目的是了解这本书是谁写的，先没有打听是不是能出版。他们指出了两个作者的名字，他们似乎都知道，清清楚楚。桂民海否认，说这本书跟他和他们都没关系，而且他也不出版了。我们以为不出版就不出版，以为没事了。这已经有一年多了。</p>
-<p>可是到了去年11月份桂民海突然失踪，到后来被证实被绑架，那个时候，我和我朋友就非常紧张，担心是不是这本书惹祸。我问我朋友，有没有问题，我朋友开始说，“没有没有，阿海很快会放的。可能是要解决2003年车祸的法律赔偿问题。”到后来就不是这样了，时间越脱越长，到最后李波都抓进去的时候，我们觉得这个事情很大了。</p>
-<p>特别是桂民海电脑里那本即将出版的《习近平的情史》，里面很多章节跟我写的书有类似的地方，感到很痛心，让五位朋友受难。在香港有言论自由，可是为了一本书就要抓他们吗？我觉得很不应该的。这就是整个写书、出版的经过。</p>
-<p>问：你讲书中很多是从移民那里听来的故事。可是据媒体报道，你书中有习近平1985年来美访问时被美国中央情报局吸收为特务的情节，这不是很八卦吗？</p>
-<p>答：这其实不是我们编的，有一种说法，他在1985年访美时被人陷害，当地有很多台湾特务组织，他们希望拉拢一些中共官员，尤其是父母受过共产党很多迫害的人，希望把他们拉拢过来，成为国民党特务的线人，其中习近平是他们看中的一位。至于有没有成功我们不清楚，我们作为作家也就是根据素材进行加工。</p>
-<p>不给出版自由我就恶心你</p>
-<p>问：有人认为，这样的书太八卦、太没有底线，你的反应？</p>
-<p>答：有些传闻比这更离谱。中共内部什么事情没有，毫无底线的事都有。其实这本书里很多并没有丑化他，而是从正常人的角度来反映。比如，他出国晒书单，当然他没有看过那么多书，但是他居然能背出其中的片段，他的能力不是假的，书中讲到了他有超强的记忆力。</p>
-<p>另外，从某种意义上讲，你不给我言论出版自由，我就有一种想恶心你的动机，因为你太霸道、太不讲理了。而且这些东西确实在民间流传，并不是我编造的。</p>
-<p>我知道，法国大革命前有些作家专门写政治诽谤书，写皇室的荒淫、乱伦、偷窃、违反宗教道德，将近有一千本这样的书。这有用吗？有用。在一个皇权神圣不可侵犯的社会里，当皇权被充分揭露时，人民心目中对皇权的尊重和崇拜就降到最低点，于是乎革命到来时人们就会义无反顾地投入反对皇权的大革命中。</p>
-<p>问：你为什么要出版这本书？</p>
-<p>答：李波被抓后我觉得共产党的手伸得太长了，我只是想告诉习近平，这本书的作者在北美，如果有什么看法，侵权也好，对你造成什么损失也好，你可以到北美法院来告我，我可以接受这样的审判，都无所谓。你不要连累这些人。他们是书商，好比超市里卖东西，你说他卖一把刀，刀是工厂制造的，你怎么能追究人家卖的人呢？我希望这本书出版后，就是告诉习近平，冤有头债有主，你就来找我，尽快释放那些人，在春节前让他们跟亲人团聚。</p>
-<p>在自由世界也难免于恐惧</p>
-<p>但是我的朋友反对，他觉得这件事对他会有很大影响。这说明我们尽管生活在自由世界里，但也受到了不同程度的逼迫，主要有三种：第一种，作家的亲人或本人在华人企业工作，这些企业知道我们在写作，或多或少会被商会、使馆、领事馆控制，他们会逼迫这些企业把这些工人和作家辞退，有这样的例子，但我不想在这里展开。</p>
-<p>第二种，如果你写了这种书，你出去旅行时的危险程度就增加了，而且回大陆根本就不可能了。第三种逼迫来自中国大陆，他们有可能会派情报人员，在美国干扰、威胁，甚至做一些违法的事情。特别最近听到中共要成立海外缉侦局，想把执法的手伸到海外来，更引起华人的恐惧。我在出版这本书的时候找过三家华人印刷厂，但他们都拒绝了，说不方便，显得很惊恐。他们知道这本书是桂民海的，一看题目就不敢做了。在自由世界我们受到共产政权的逼迫是显而易见的。</p>
-<p>所以我的朋友的恐惧大家也可以理解。1月初，我把书在谷歌书店上上架了两天，他就不同意，于是就把它下架了。他认为，他有亲人，要回国，要考虑他的安全。所以再上架就完全用我的名字，告诉全世界就我一个写的，这个责任我一个人负。这样他就安心了。通过这件事说明，即便在自由世界还是会受到专制政权的恐惧。罗斯福说的免于恐惧，我们现在还做不到。</p>
-<p>桂民海能把握大陆政治脉搏</p>
-<p>问：介绍一个你和你的朋友跟桂民海的关系，有什么合作？合作多久了？</p>
-<p>答：我跟桂民海没有什么关系。我的朋友跟他合作很久，有很长的关系，他的大部分作品都是通过桂民海出版的。桂民海是个成功的商人，能把握中国的政治脉搏，特别是政治新闻，一个新闻刚出来几天，最短时可能只要10天，他就能出一本书。比如，薄熙来案，在薄熙来受审查时他们就料到总有一天他会被审判。这时，桂民海马上就会构思一本书，怎么审判薄熙来，当薄熙来审判，法庭供词出来时，他们只要修改书中一小部分。所以，审判一结束，一个星期，这本书就上市。他有非常成功的操作方法。</p>
-<p>另外，桂民海得到的素材比我们想象的多得多。因为可能会从不同的政治对手得到他们的料，然后他再把这些料做些加工，让我们这些作家再写。桂民海与我朋友的合作时间很长。</p>
-<p>3400个分销者名单已被大陆掌握</p>
-<p>问：市场主要在哪里？</p>
-<p>这样的市场在香港已经有多年了。其实这一市场的最大部分是来香港的访客，这是个特殊市场，也就是到香港来观光旅游，回去时顺便在机场买几本书回去，海关也是查得很松的。后来习近平上台后就越来越难了，实际上，铜锣湾书店就改变了经营方式，把坐店等客变成到深圳设点，把书放到那边去邮寄或销售。这个事情未来会成为5位被失踪书商受审定罪的最主要问题。所以我要说，他们有可能回不来，再也不能回香港了。</p>
-<p>因为我知道，林荣基（铜锣湾书店五位被失踪者之一）2014年把书店卖给了桂民海和李波。但整个客户信息掌握在林荣基一个人手里。据我所知有份3400个分销者的名单，现在全部被大陆方面获取了。如果中共司法人员找这些人来作证是轻而易举的。从这名单里他们卖了那么多书，你想他们怎么出得来？</p>
-<p>香港的政治娱乐书有两种卖法</p>
-<p>问：一般说一本书能卖多少本？</p>
-<p>答：这些书是小众市场，是政治娱乐，没有很强的事实和理论基础，很多是推演的，甚至是虚构的，是娱乐性的。我知道，卖得好一点，也就是三、四千册，就不错了；卖得不好，就五、六百本。作者很辛苦，报酬就这么一点点。</p>
-<p>但这里面有个另类盈利方式，有时候某本书会有大陆利益相关人员——并不一定是最高层——也许这本书，好比，涉及四川省的某个丑闻，可能四川省的某些利益相关人员来香港，购买这本书的版权。</p>
-<p>最近我就听说，有一本书，桂民海说他赚了差不多40多万，我的那位朋友说，他也赚了5万，这里面一定涉及到版权购买问题。因为一本书你说卖到三千本，能赚几个钱？！这里涉及幕后交易，十分复杂。我在外面看，不十分了解里面的情况，无法剖析整个产业链。</p>
-<p>抓李波因为他不识相？</p>
-<p>问：这次铜锣湾书店人员被失踪和绑架，桂民海案已经引起外界很大反响，为什么当局接着还要到香港去抓李波？</p>
-<p>答：据我所知，李波不参与书的创作过程，他是发行者，合作伙伴。他不认为自己会有什么事。听说他太太警告过他，李波说，“我有什么事情，都是桂民海在做，我不过卖卖书而已。”为什么要抓他呢？我分析，在桂民海出事后李波还出版了三本书，这个从中共来说，会认为是不识相，对不识相的人中共要惩罚，这是惩罚性措施。他跟桂民海不一样，桂民海按中共来说是集团首犯，惩罚更严厉；李波不是首犯，但他是顶风作案人，所以对他也加以惩处。</p>
-<p>问：你觉得李波获释的可能比桂民海高吗？</p>
-<p>答：我认为他们基本上是回不来了。这里涉及一个重要问题，一边一国两制，一边是桂民海和李波，两者谁轻谁重，中共一定知道。如果要保全一国两制，毁掉一两个人算什么？我就把这两人以非法经营罪判10年、20年，没问题啊，判了以后你们就在狱中慢慢熬吧，到一定时候就像徐明一样让你们死掉。只要他们不回到自由世界就没事。</p>
-<p>让他们慢慢消失可能是当局最好选择</p>
-<p>但他们要是回来，他们一定会说出是怎么去大陆的。两个人都没有出境记录。李波的护照和回乡证还在家里，他怎么去的大陆，如果他说是被绑架去的，那么一国两制就荡然无存了，因为你越境执法，而且还不承认；第二，桂民海在泰国有入境记录，没有出境记录，我的朋友去查过。没有出境记录，人又在大陆，这个人怎么去的呢？你怎么解释。所以，它犯下两个不可饶恕的错误，第一是破坏一国两制，在香港绑架英国公民到大陆；第二个错你违反了国际法，把一个瑞典公民抓到大陆，你怎么承担？所以，把他们放在我的监狱里慢慢地折磨他们，甚至让他们消失，可能是当局的最好选择。</p>
-<p>问：大陆当局说，桂民海是回大陆协助调查2003年致人死命车祸案。</p>
-<p>答：昨天香港接到广东公安厅的明码传真，说有吕波、张志平和林荣基三位现在内地配合调查桂民海案调查。我要说，桂民海是2003年出的车祸，2004年就返回瑞典。这几位先生那时候根本就不认识桂民海。他们是回去配合调查桂民海的车祸吗？显然不是。一定是配合调查其它事情，很有可能是调查他们在深圳售书的事情。从姚文田案来看，他们被定非法经营罪，判10年是轻而易举的，至少是10年。</p>
-<p>占中后习近平对一国两制已没信心？</p>
-<p>问：现在有一种说法，认为这种绑架、下三滥的事情都是下面的人想拍马屁，跟最高层、习近平并没有直接关系。你的看法呢？</p>
-<p>答：我不这么认为。当然，我听说有个“第一夫人办公室”，简称“彭办”，成立后要做点事情，发现香港有这么个家伙，污蔑我们的习大大和彭妈妈，因为彭也是这本书中一个人物。所以他们就要搬掉这个老窝，向彭办献礼。</p>
-<p>这种说法我认为站不住脚。因为如果他们敢冒天下之大不韪破坏一国两制，抓这些书商，习近平很快就会知道。他大权统揽，是各小组组长，这个大事他一定知道。他完全可以采取纠正的方法，比如，如果这个事是彭丽媛做的，可以让她不再干涉，谁做的可以惩罚谁，小小的惩罚，来挽回脸面和一国两制的局面。但他做了吗？没有。而且越来越强硬，甚至在《环球时报》登出文章，说任何一个国家的强力机构都有这样的做法，可以绕过法律执行任务，这样做是合理的，用不着大惊小怪。这叫什么逻辑？</p>
-<p>其实，香港发生占中事件后习近平当局已经对香港一国两制没有信心，认为香港正在滑向一个更背离中央的态势，香港在一国两制的框架下有可能导向港独。心底里已经厌烦了。想通过小小的铜锣湾书店的案子例敲打敲打香港人，告诉你们，我不是吃素的。这样的解读值得深思。也许明天就不是书店老板，可能是你的上市公司的总经理，或者是个航运公司的总经理，一个媒体的总经理。</p>
-<p>问：介绍一下你自己。</p>
-<p>答：我是《博讯》的记者。主要工作是采访报道。中国大陆有那么多的维权人士、异议人士受到逼迫，需要我们《博讯》来替他们发声。我还有一份网络设计的业余工作。</p>
-<p>我写这本书就是要表达我们在北美享有言论、出版自由，不愿意在香港发生的事情再发生在北美。要对所有自由世界的作者讲：我们不要惧怕。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%A5%BF%E8%AF%BA%EF%BC%9A%E6%88%91%E6%98%AF%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E4%BB%96%E7%9A%84%E6%83%85%E4%BA%BA%E4%BB%AC%E3%80%8B%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%BB%96%E7%9A%84%E6%83%85%E4%BA%BA%E4%BB%AC%E3%80%8B/?category=18271" rel="tag">《习近平和他的情人们》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E6%95%8F%E6%B5%B7/?category=18271" rel="tag">桂敏海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%AF%BA/?category=18271" rel="tag">西诺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/427814/" target="cdt-mirror">BBC｜台湾南部6.4级地震 全岛有强烈震感</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit.jpg" rel="attachment wp-att-427817"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit.jpg" alt="台南市永康区永大路二段楼高16层的维冠大楼倒塌，内有逾150户住户，消防人员在现场全力抢救，已有人被救出送医。" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/160205220213_taiwan_quake_512x288_cna_nocredit.jpg 660w" sizes="(max-width: 660px) 100vw, 660px"></a><p>台南市永康区永大路二段楼高16层的维冠大楼倒塌，内有逾150户住户，消防人员在现场全力抢救，已有人被救出送医。</p></div>
-<p>美国地质勘探局报道，台湾南部当地时间周六（6日）凌晨3点57分发生里氏6.4级地震。包括屏东、台南、新竹、台北都出现剧烈摇晃。地震深度为10公里。</p>
-<p>BBC中文网驻台北特约记者郑仲岚报道，全台湾都感到震动。</p>
-<p>震中位于台南市东南面，该市人口接近200万。</p>
-<p>台南市多处楼房在地震过后倾斜、甚至倒塌，部分地点传出人员受困，消防人员前往救出多人。</p>
-<p>台南市政府在清晨一级开设防灾应变中心，至清晨5时20分左右统计，永康区一栋大楼倒塌、新化区一栋大楼倾斜、山上区一处房屋倾斜、东区一栋大楼倾斜。</p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit.jpg" rel="attachment wp-att-427816"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit.jpg" alt="160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit" width="304" height="405" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/160205214256_taiwan_quake_cna_1_412x549_bbc_nocredit.jpg 304w" sizes="(max-width: 304px) 100vw, 304px"></a><p>高雄市美浓区6日清晨3时57分发生规模6.4地震，嘉义 市友孝路一户民宅天花板坍塌。</p></div>
-<figure></figure><p>在永康区倒塌的大楼现场最为严重，16层高的大楼倒在路面，消防人员陆续救出多人送医。</p>
-<p>山区房屋倾斜现场也一度传出7至8人受困，随后陆续平安脱困。</p>
-<p>新化区京城银行商办大楼则向右严重倾斜，还波及一旁民宅，幸好没有传出人员伤亡。</p>
-<p>防灾应变中心还接获多起电梯受困事件，陆续由消防人员协助脱困。</p>
-<p>台南发生强烈有感地震，市府已开设一级防灾救治中心，市长赖清德已进驻指挥。</p>
-<p>市府表示，已动员特搜队出勤，并紧急应变，各地状况通报汇整中。</p>
-<p>台湾平均每年有3次规模6级以上地震，今天这起是今年首例。</p>
-<p>气象局地震测报中心主任郭铠纹说，去年台湾有4次规模6级以上地震，但总释放能量仍不太够，这次地震研判属于旗山断层错动引起，释放能量相当两颗原子弹。</p>
-<p>根据台湾中央气象局网站，高雄市凌晨3时57分发生规模6.4地震，震中在美浓区，云林县草岭最大震度达6级，高雄、屏东、台南、嘉义皆有地区最大震度达5级。</p>
-<p>太平洋海啸预警中心说，预期不会发生太平洋范围的破坏性海啸。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit.jpg" rel="attachment wp-att-427818"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit.jpg" alt="160205221017_taiwan_quake_map_woman_624x624_epa_nocredit" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2016/02/160205221017_taiwan_quake_map_woman_624x624_epa_nocredit.jpg 624w" sizes="(max-width: 624px) 100vw, 624px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit.jpg" rel="attachment wp-att-427815"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit.jpg" alt="160205213910_taiwan_quake_cna_640x360_cna_nocredit" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/160205213910_taiwan_quake_cna_640x360_cna_nocredit.jpg 624w" sizes="(max-width: 624px) 100vw, 624px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/427814/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%94%E6%80%A5%E9%A2%84%E6%A1%88/?category=18271" rel="tag">应急预案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/427795/" target="cdt-mirror">【立此存照】天津爆炸调查结果：只许看不许评</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1984174925/DguRc1opV" target="_blank">@h0uz1</a>：<a href="http://huati.weibo.com/k/%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83?from=501" target="_blank">#天津港爆炸事故调查报告公布#</a>千呼万唤始出来的调查报告，媒体与之相关的微博基本都是不能评论的状态（新华社除外）</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw.jpg" rel="attachment wp-att-427796"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw.jpg" alt="76441b4djw1f0oxcw2yfvj20u09fhhdw" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw-768x8690.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxcw2yfvj20u09fhhdw.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva.jpg" rel="attachment wp-att-427797"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva.jpg" alt="76441b4djw1f0oxfbtpv1j20u09fyqva" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva-768x8702.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxfbtpv1j20u09fyqva.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph.jpg" rel="attachment wp-att-427798"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph.jpg" alt="76441b4djw1f0oxlc0dr6j20u09fpnph" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph-768x8696.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlc0dr6j20u09fpnph.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf.jpg" rel="attachment wp-att-427799"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf.jpg" alt="76441b4djw1f0oxll14s3j20u09fpnpf" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf-768x8696.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxll14s3j20u09fpnpf.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt.jpg" rel="attachment wp-att-427800"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt.jpg" alt="76441b4djw1f0oxlxxhuej20u09fh4qt" width="400" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt-768x8690.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/76441b4djw1f0oxlxxhuej20u09fh4qt.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<h3><span><strong>然而即使@新华视点 有那一百多条评论，编者发稿时却是一个字都看不到：</strong></span></h3>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9.png" rel="attachment wp-att-427802"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9.png" alt="新华视点" width="525" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/新华视点-264x300.png 264w, http://chinadigitaltimes.net/chinese/files/2016/02/新华视点.png 602w" sizes="(max-width: 602px) 100vw, 602px"></a></p>
-<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸事故</a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/427795/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/2016%E5%B9%B4%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0bobs%E6%96%B0%E5%AA%92%E4%BD%93%E5%A4%A7%E8%B5%9B%E5%90%AF%E5%8A%A8/" target="cdt-mirror">2016年德国之声Bobs新媒体大赛启动</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0BOB2.jpg" rel="attachment wp-att-427791"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0BOB2.jpg" alt="德国之声BOB2" width="590" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/德国之声BOB2-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/德国之声BOB2-768x432.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/德国之声BOB2.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
-<p>德国之声第12次面向全世界的互联网作品颁发“Bobs新媒体奖”。专门奖励那些为维护言论自由、加强网络公民社会建设而努力的个人或组织。作为特别大奖，德国之声还会颁发“言论自由奖”。</p>
-<p>从2016年2月4日开始截止到3月3日，网友们可以登录Bobs的官方主页（<a href="https://thebobs.com/chinese/" target="_blank">https://thebobs.com/chinese/</a>），通过主页上的投票功能为2016年Bobs新媒体大赛的四个跨语种大奖和14个参赛语言的公众奖推荐获奖候选作品。Bobs是全球知名且备受推崇的“网络行动派”（Online Activism）大奖，它的独到之处在于参赛语言的多样性。</p>
-<p><b>“社会变革奖” (Social Change)</b></p>
-<p>奖励一个利用数字化手段推动社会变革的项目，比如说教育、推动平等、健康或环境领域的项目。</p>
-<p><b>“科技为善奖” (Tech for Good)</b></p>
-<p>网络文化的相关话题包括数据隐私保护和信息自由，以及积极推广自由创作的内容。所以，这一奖项所关注的重点为保护网络上的个人隐私、数据保护和安全</p>
-<p><b>“艺术文化奖” (Arts and Culture)</b></p>
-<p>奖励的是一个来自艺术和文化界的项目。该项目能够出色利用数字化的通讯方式，用艺术的手段诠释社会话题。</p>
-<p><b>“公民新闻奖” (Citizen Journalism)</b></p>
-<p>该奖用于奖励那些勇敢，创新的新闻项目。尤其是那些充分利用互联网的力量促进公民参与的网站。</p>
-<p>除此以外，今年德国之声领导层还将第二次颁发<b>“新闻自由奖”</b>。2015年，身陷囹圄的沙特博主巴达维（ Raif Badawi）是该奖的首位获奖者。</p>
-<p>德国之声主编 Gerda Meuer 女士表示：“跨越语言和文化的障碍，我们奖励那些有创新精神的人们。他们用勇敢的行动捍卫言语的自由和社会的公开。这种努力值得登上世界级的公众舆论舞台。”</p>
-<p><b>来自14个国家的14名国际评委挑选推荐作品</b></p>
-<p>推荐阶段结束后，一个来自14个国家的独立评委团将逐个评估网友推荐的作品，并从这些海量作品中（去年超过了4800项）挑选提名作品。德国之声将于3月31日公布提名作品名单，并于5月2日，也就是世界新闻自由日前一天在柏林宣布本次大赛的最终获奖者。</p>
-<p><b>全球网友决定公众奖花落谁家</b></p>
-<p>除了评委会评出的获奖者外，我们欢迎全世界的网友在3月31日到5月2日期间登陆<a href="http://thebobs.com/chinese/" target="_blank">thebobs.com/chinese/</a> 选出你们自己心目中的获奖者。在过去的时间里，我们一年之内最多收到了12万名网友的投票。</p>
-<p>2016年度Bobs新媒体大赛的颁奖仪式将于6月14日在波恩的德国之声全球媒体论坛（ Deutsche Welle Global Media Forum）上举行。</p>
-<p>在过去的几年中，Bobs新媒体大赛的获奖者包括Yoani Sánchez (古巴)、 Lina Ben Mhenni (突尼斯)、Ushahidi (肯尼亚)、 Sunlight Foundation (美国)、李承鹏 (中国)、 以及来自埃及的 Alaa Abd El-Fattah。</p>
-<p>本届Bobs新媒体大赛的媒体合作伙伴有：中国数字时代（China Digital Times）、Somewhere in、<a href="http://bdnews24.com/" target="_blank">bdnews24.com</a>、Banglatribune、Ifex、Global Voices、Waza、Satyagrah、Webdunia、Gooya、Hromadske TV、Novoye Vremya 和 Medyatava。</p>
-<p>官网：<a href="http://thebobs.com/" target="_blank">thebobs.com</a><br>
-脸书：<a href="http://facebook.com/dw.thebobs" target="_blank">facebook.com/dw.thebobs</a><br>
-推特：<a href="http://twitter.com/dw_thebobs" target="_blank">twitter.com/dw_thebobs</a> – #thebobs16</p>
-<p>全球媒体论坛官网：<a href="http://dw.com/gmf" target="_blank">dw.com/gmf</a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/2016%E5%B9%B4%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0bobs%E6%96%B0%E5%AA%92%E4%BD%93%E5%A4%A7%E8%B5%9B%E5%90%AF%E5%8A%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E5%8D%9A%E5%AE%A2/?category=18271" rel="tag">公民博客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%AC%E5%B8%83%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5/" target="cdt-mirror">自由亚洲｜中国国务院公布天津港爆炸事故调查报告</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg" rel="attachment wp-att-427787"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg" alt="图片：2015年8月16日，一名失踪消防员的家属手举亲人照片出现在天津爆炸事故新闻发布会场外。（AFP PHOTO）" width="585" height="390" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438-300x200.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/918cb911-457b-4b7b-8d22-0d6a51686438.jpeg 622w" sizes="(max-width: 585px) 100vw, 585px"></a><p>图片：2015年8月16日，一名失踪消防员的家属手举亲人照片出现在天津爆炸事故新闻发布会场外。（AFP PHOTO）</p></div>
-<blockquote><p><strong>相关专题</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/">天津爆炸</a></p></blockquote>
-<p>中国国务院2月5日公布天津港8•12火灾爆炸事故调查报告认定，事件为特别重大生产安全责任事故。报告认定瑞海公司为事故主要负责方以外，还指控地方政府和部门存在严重的有法不依、执法不严、监管不力等问题。</p>
-<p>中国官方新华社2月5日报道，中国国务院就去年天津港 “8.12” 火灾爆炸事故设立的调查组查明，事故直接原因是瑞海公司危险品仓库运抵区集装箱内硝化棉因湿润剂积热自燃，引起相邻集装箱内的硝化棉和其他危险化学品长时间大面积燃烧，导致堆放于运抵区的硝酸铵等危险化学品发生爆炸。报告得出的结论是，瑞海公司严重违法违规经营，是事故主体责任单位。</p>
-<p>报告说，瑞海公司严重违反天津市城市总体规划和滨海新区控制性详细规划，无视安全生产主体责任，非法建设危险货物堆场，在现代物流和普通仓储区域违法违规从2012年11月到2015年6月多次变更资质经营和储存危险货物，安全管理极 其混乱，致使大量安全隐患长期存在。</p>
-<p>旅居德国的腐败问题专家廖然指出，“8.12”天津港爆炸事故再次显示，中国的官员腐败和政府监管机构渎职问题是多么严重，而这又对老百姓生命和财产的损失有是多么惨重：</p>
-<p>“这个事故当然与腐败有关系。调查结果显示，瑞海公司当初隐蔽该公司的受益人是哪些人等信息。公司负责人是通过跟中央高层一些人的关系获得营业执照。虽然当时他们口口声声说仓库绝不存放危险品，但他们2012年却又通过高层关系获得存放化学品的许可……这一切都说明，在中国只要你有高层关系，什么许可都能获取。我们还获知，运营存放危险品仓库要比运营一般仓库的利润要多90倍！！！”</p>
-<p>新华社的报道说，公安、检察机关对爆炸案的49名企业和行政人员采取了刑事强制措施，包括24名企业人员和25名交通运输、海关等部门官员；还对123名责任人提出处理意见，建议对74人给予党纪政纪处分，包括省部级5人，厅局级22人等；建议吊销瑞海公司有关证照并处罚款，企业相关主要负责人终身不得担任本行业生产经营单位负责人等。</p>
-<p>此外，中国国务院的调查报告还认定，事故还暴露出有关地方政府和部门存在有法不依、执法不严、监管不力等问题。例如，天津市交通、港口、海关、安监、规划和国土、市场和 质检、海事、公安等部门以及滨海新区环保、行政审批等单位，未认真贯彻落实有关法律法规，未认真履行职责，违法违规进行行政许可和项目审查，日常监管严重缺失；有些负责人和工作人员贪赃枉法、滥用职权。天津市委、市政府和滨海新区区委、区政府，以及交通运输部、海关总署等单位都被认定渎职，因此对事故的发生有责任。</p>
-<p>在德国的反腐专家廖然强调指出，中国大陆政府运作不透明，政府有关部门监管不力，必然造成重大伤亡事故：</p>
-<p>“8.12惨案显示，中国政府如果不把制度性反腐健全起来，只靠这种发生一件惨案就抓几十个人或上百人的做法，是不能从根源上杜绝这种事故不断发生的。中国政府反腐必须要制定官员财产公开法和实行政府运作透明，否则政府官员腐败问题没法根治。”</p>
-<p>国务院的调查报告说，2015年8月12号天津爆炸事故共造成165人死亡，其中公安消防110人，其他人员55人；失踪8人；798人负伤，其中重伤58人。</p>
-<p>以上是自由亚洲电台记者希望的采访报道。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%AC%E5%B8%83%E5%A4%A9%E6%B4%A5%E6%B8%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5/?category=18271" rel="tag">天津</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E7%9B%91%E5%B1%80/?category=18271" rel="tag">安监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%91%9E%E6%B5%B7%E5%9B%BD%E9%99%85/?category=18271" rel="tag">瑞海国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E5%AE%89%E5%85%A8/?category=18271" rel="tag">生产安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -767,7 +735,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -777,5 +745,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

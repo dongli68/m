@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%97%BA%E8%A7%92%E7%A4%BA%E5%A8%81%E8%80%85%E6%8A%95%E6%8E%B7%E7%A0%96%E5%A4%B4%E6%94%BB%E5%87%BB%E8%AD%A6%E5%AF%9F/" target="cdt-mirror">蘋果即時｜旺角騷亂</a>
+</h2>
+<p><p>另據<a href="http://hk.on.cc/hk/bkn/cnt/news/20160209/bkn-20160209085457191-0209_00822_001.html?eventid=402882b1528631480152c2a404444e2a&eventsection=hk_news">東網報導</a>：</p>
+<blockquote><p>旺角騷亂擾攘一整晚後，警方今早採取行動清場，警員在街道上仔細搜查可疑人士，行動中拘捕多名男女，至少10人鎖上手銬被捕，警員將部分人士按在鐵閘上，鎖上手銬，當中曾有人反抗受傷，需由救護車送院。<br>
+至8時許，街道上的暴徒已陸續散去，警員亦開始收拾裝備，街道在騷亂過後顯得凋零，有警員在場評估情況，準備稍後將封鎖的街道重開，受事件影響港鐵旺角站仍然關閉，花園街及西洋菜南街等多條被封鎖道路，亦已恢復通車。</p></blockquote>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b.jpg" rel="attachment wp-att-428108"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b.jpg" alt="bkn-20160209043925492-0209_00822_001_01b" width="550" height="393" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b-300x214.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b.jpg 750w" sizes="(max-width: 550px) 100vw, 550px"></a><p>東網：示威者將垃圾筒等雜物點燃，現場火光熊熊。</p></div>
+<p><strong>蘋果即時：<a href="http://hk.apple.nextmedia.com/realtime/breaking/20160208/54740407">【旺角騷亂】更新開槍片段: 警員開兩槍全程直擊</a></strong></p>
+<p>【早上8時10分 速龍小隊將人群推到快富街與洗衣街交界，現時結集的人眾不多。而山東街與亞皆老街一段洗衣街封閉。】</p>
+<p>【早上8時 兩批示威者分別集結在洗衣街與山東街，與及洗衣街與亞皆老街，與警員對峙。】</p>
+<p>【早上7時55分 大批示威者與警察對峙。】</p>
+<p>【早上7時40分 示威者一度在現場追逐，有人更焚燬垃圾桶，街頭仍有火頭。】</p>
+<p>【早上7時15分 警方衝出拘捕多名示威者。】</p>
+<p>【早上7時10分 警方在鼓油街作出警告，準傋清場。】</p>
+<p>【早上7時 示威者仍未散去，豉油街仍有火頭，燶煙沖天。】</p>
+<p>【早上6時30分，速龍小隊推進至山東街與豉油街交界，沿途遭到示威者投擲磚塊，附近街頭出現多處火頭。警方在豉油街與通菜街與示威者對峙，一名有線電視記者頭部受傷】</p>
+<p>【早上6時25分，旺角廣華街一帶，示威者焚燒雜物，令整條街濃煙密佈，現場有多處火頭。】</p>
+<p>【早上6時 速龍小隊進入西洋菜南街進行清場，示威者與警方衝突，一度企圖燒的士。】</p>
+<p>【早上6時 約50速龍小隊到彌敦道部署，警方在凌晨5時45分發出通告如下，就現時在旺角彌敦道一帶發生混亂及衝突的情況，並有群眾不斷挑釁警方，警方呼籲公眾人士保持克制，聽從警方指示，盡快離開現場。<br>
+警方重申，香港社會認同要以理性、和平的方式表達訴求，警方絕不容許破壞公共秩序和公共安全的行為。如有違法行為，警方定會果斷執法。】</p>
+<p>【凌晨5時50分 消防在彌敦道及鼓油街界開喉救火，示威者掟磚頭還擊。】</p>
+<p>【凌晨5時25分 彌敦道再起街突，西洋菜南街一帶，出現最少5處火頭，示威者在路中焚燒雜物，阻止警員向前推進，警員則在山東街附近進行部署。】</p>
+<p>【凌晨5時15分 旺角地鐵站封閉】</p>
+<p>【凌晨5時，彌敦道近豉油街，一部警車遭示威者投擲硬物毀壞，警員輕微損毀，車上警員隨即落車喝止，示烕者即四散逃去。】</p>
+<p>【凌晨4時15分，多處地方發生警民衝突，有警員遭示烕者包圍攻擊，現場有幾十人包圍多名警員，並拋擲雜物及持木棍擊襲警員，有身穿便裝男子倒地後再遭人圍毆，而一邊則有警員採取行動，將多名示烕者制服拘捕，同時，在西洋菜南街與山東街交界，示威者將大批雜物堆在馬路焚燒冒煙，火舌高達3米。</p>
+<p>【凌晨4時，在旺角山東街近彌敦道發生激烈衝突，警員準備將示威者，由山東街推向西洋菜街南街時，示威者反抗撿起磚塊擲向警員，混亂中，有警員中磚倒地，警員被迫退回彌敦道。</p>
+<p>【凌晨3時30分，一隊警員在彌敦道銀行中心對開，在馬路中央一字開驅散人群，準備向亞皆老街方向推進，示威者將雜物擲向警員，一批雜物被推出馬路，現場傳出不明氣味令人感到刺鼻。</p>
+<p>【凌晨3時，亞皆老街與彌敦道交界一帶交通停頓，大批示威者與警員發生衝突。】</p>
+<p>【凌晨2時30分，警員開槍事件發生後，大批增援警員趕到現場，將示威者驅散，人群情激開始失控，有人在馬路中堆放雜物放火，冒出濃煙，在快富街與砵蘭街交界及彌敦道與奶路臣街交界，均出現焚燒雜物事件，分別由消防員及警員救熄。】</p>
+<p>現場直播 即時follow【現場－蘋果突發】fb！http://fb.com/applecitycrime<br>
+【凌晨2時，有人將垃圾及筒及雜物拖出亞皆老街，場面混亂，一批示威者與一隊警員發生衝突，示威人士向警員投擲雜物，包括玻璃樽，磗塊及雜物，其間有人持木板襲擊警員，有警員拔出佩槍指向天空，稍後聽到一響槍聲，示威人士指罵開槍警員，有多名激動人士持木板衝向開槍警員，混亂中，再聽到一聽槍響，警員槍嘴發出火花，相信警員向天開槍，大批市民指罵開槍警，開槍警員將手槍插回槍袋，由同袍護送離開現場。】</p>
+<p>【凌晨1時45分，有人群衝向防暴警員，雙方發生衝突，有人向警員投擲雜物，警員動用武力將人群驅散，雙方現時仍然對峙，警方將防線由山東街向亞皆老街推進，前進至約100米，至朗豪坊對開，警員在路中築起盾牌。】</p>
+<p>【23:59更新：旺角小販檔現場再爆衝突，據知，事發時有本土派人士在場聲援小販擺檔，惟警方要求有關人士離開，雙方爆發衝突，警方一度舉紅旗，更多次噴出胡椒噴霧，現場相當混亂。】</p>
+<p>【23:15更新：旺角小販抗爭暫告一段落，現場回復平靜。如有進一步情況，記者會再次為大家更新報道。】</p>
+<p>晚上10時許，旺角朗豪坊外爆發小販衝突！受事件影響，車輛無法由彌敦道轉入山東街，場面一度混亂。</p>
+<p>據知事源在衝突期間，一部紅的駛入現場，惟不慎撞到一名路經的老伯腳部，引發在場人士起哄，阻止肇事的士離開；警方恐有人對該的士作出破壞，於是築成人牆將的士圍起，阻擋在場人士靠近。當時氣氛一度緊張，現場消息指，警方一度高舉黃旗，警告在場人士勿超越封鎖線。</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%97%BA%E8%A7%92%E7%A4%BA%E5%A8%81%E8%80%85%E6%8A%95%E6%8E%B7%E7%A0%96%E5%A4%B4%E6%94%BB%E5%87%BB%E8%AD%A6%E5%AF%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">示威游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">警民冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%9C%AC%E5%9C%9F%E6%B4%BE/?category=18271" rel="tag">香港本土派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%AF%92%E8%88%8C%E7%9A%84%E8%88%8C%EF%BD%9C%E6%88%91%E4%BB%AC%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9F%A5%E9%81%93%E7%9A%87%E5%B8%9D%E5%85%89%E7%9D%80%E5%B1%81%E8%82%A1/" target="cdt-mirror">毒舌的舌｜我们知道别人知道皇帝光着屁股</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%9A%E5%85%8B%E8%A5%BF.png" rel="attachment wp-att-428101"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%9A%E5%85%8B%E8%A5%BF.png" alt="党的政策亚克西" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/亚克西-300x209.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/亚克西.png 635w" sizes="(max-width: 635px) 100vw, 635px"></a><br><em>（网络图片）</em></p>
+<p><strong>文/西坡</strong></p>
+<p>猴年供给侧春节联欢晚间红领巾政治学习大会之后，出现了一副诡异的场景。</p>
+<p>一边是骂声如潮、吐槽如海、段子成灾，一边是“我给自己打一百分”、“好评如潮，获无数点赞”。</p>
+<p>是他们瞎了，还是我们瞎了？指鹿为马的传统美德就这么容易发扬光大？许多人不禁陷入深深的思考。</p>
+<p>其实这是一个进阶版“皇帝的新衣”故事。</p>
+<p>传统版“皇帝的新衣”说的是，一个天真的小孩，戳穿了一位光屁股的皇帝。故事到此结束。</p>
+<p>现实比童话复杂得多。</p>
+<p>在现实中，皇帝从来不穿衣服。我们也知道皇帝光着屁股。皇帝也知道我们知道皇帝光着屁股。</p>
+<p>为什么皇帝还是敢于光着屁股走街串巷？因为皇帝知道我们虽然知道他光着屁股，但皇帝更知道，我们不知道有多少人知道他光着屁股。</p>
+<p>皇帝还知道，我们即使知道别人知道皇帝光着屁股，我们也不知道别人知不知道我们知道皇帝光着屁股。</p>
+<p>互联网就像一道光，照穿了原本遮盖严密的墙。</p>
+<p>现在我们知道别人知道皇帝光着屁股，也知道别人知道我们知道皇帝光着屁股。</p>
+<p>可是给皇帝通风报信的人，还要假装我们不知道皇帝光着屁股，更要假装我们不知道所有人都已经知道皇帝光着屁股。所以有了“一百分”和“好评如潮”。</p>
+<p>现在的问题是，有人想要我们相信别人不知道皇帝光着屁股。如果相信别人不知道皇帝光着屁股的人足够多，那么皇帝是不是光着屁股就不重要了。</p>
+<p>有人说，红领巾大会太烂，骂它就是浪费时间。不，我们的目的是让越来越多的人知道，大家都已经知道皇帝光着屁股。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%AF%92%E8%88%8C%E7%9A%84%E8%88%8C%EF%BD%9C%E6%88%91%E4%BB%AC%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9F%A5%E9%81%93%E7%9A%87%E5%B8%9D%E5%85%89%E7%9D%80%E5%B1%81%E8%82%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/?category=18271" rel="tag">指鹿为马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9A%87%E5%B8%9D%E7%9A%84%E6%96%B0%E8%A3%85/?category=18271" rel="tag">皇帝的新装</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E8%B4%BE%E8%91%AD%EF%BC%9A%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E7%9B%B4%E5%90%83%E5%8C%85%E5%AD%90%EF%BC%9F/" target="cdt-mirror">自由港｜贾葭：功夫熊猫为什么一直吃包子？</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%B5%B5.jpg" rel="attachment wp-att-428089"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%B5%B5.jpg" alt="赵" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/赵-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/赵.jpg 599w" sizes="(max-width: 599px) 100vw, 599px"></a></p>
@@ -676,52 +745,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E6%9C%B4%E6%A7%BF%E6%83%A0%E9%80%9A%E7%94%B5%E8%AF%9D%EF%BC%9A%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B%E4%B8%8D%E8%83%BD%E6%9C%89%E6%A0%B8/" target="cdt-mirror">法广｜习近平与朴槿惠通电话：朝鲜半岛不能有核不能有战乱</a>
-</h2>
-<p><p>朝鲜正式预告将要发射洲际导弹消息之后，美国与韩国进一步敦促中国向朝鲜施加压力，并合作推进联合国制裁朝鲜。中国国家主席习近平先后与美国总统奥巴马以及韩国总统朴槿惠举行电话讨论。习近平同意谴责朝鲜，并坚持朝鲜半岛不能有核，朝鲜半岛不能有战争。</p>
-<p>据韩国官方通讯社韩联社报导，韩国总统朴槿惠2月5日晚9时应邀同中国国家主席习近平通电话，就朝鲜第四次核试验、朝鲜“射弹”计划应对方案、朝鲜半岛局势、韩中关系发展方案等交换了意见。在时长45分钟的通话过程中，朴槿惠呼吁中方对联合国安理会制定并通过强有力的对朝制裁决议给予支持。</p>
-<p>根据韩中双方商定的内容，青瓦台没有透露习近平电话中的发言内容。青瓦台有关负责人对此表示，韩中双方在相互谅解的情况下，就以本国领导人的发言内容为主公开通话情况达成了一致。</p>
-<p>韩国官方报告的消息说，朴槿惠在电话中强调，朝鲜发起的挑衅对韩半岛、东北亚乃至全球和平构成威胁，这次国际社会应该及时采取行动向朝鲜释放强烈信号促使其改变态度，如联合国安理会制定并通过强而有力、切实有效的制裁决议。朴槿惠说，中国是安理会常任理事国之一，并且拥有应对朝鲜问题的多种方法，希望中方积极协助国际社会强力制裁朝鲜。</p>
-<p>两位领导人自朝鲜1月6日进行第四次核试验后时隔1个月通电话就有关问题进行交流，这是习近平第一次与海外领导人就朝鲜核试与射弹等问题交换意见，也是韩中领导人在朝鲜历次进行核试验后第一次通电话。朝鲜曾在2006年10月、2009年5月、2013年2月进行核试验，这三次核试后韩中领导人并没有通电话商讨相关问题。</p>
-<p>据中国外交部5日晚在官网上发布的消息说，中国国家主席习近平当天同韩国总统朴槿惠通电话。习近平在通话中表示，半岛不能有核，也不能生战生乱。</p>
-<p>习近平强调，中方在任何情况下都坚定致力于实现半岛无核化，坚定致力于维护半岛和平稳定，坚持通过对话协商解决问题。这符合包括中韩在内东北亚各国的共同利益。半岛不能有核，也不能生战生乱。我们希望有关各方从维护半岛和平稳定大局出发，冷静应对当前形势，始终坚持对话协商的正确方向。中方愿就半岛问题继续同韩方保持沟通和协调。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E6%9C%B4%E6%A7%BF%E6%83%A0%E9%80%9A%E7%94%B5%E8%AF%9D%EF%BC%9A%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B%E4%B8%8D%E8%83%BD%E6%9C%89%E6%A0%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B4%E6%A7%BF%E6%83%A0/?category=18271" rel="tag">朴槿惠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E8%AF%95%E9%AA%8C/?category=18271" rel="tag">核试验</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%E8%AE%A9%E4%BA%BA%E6%88%98%E6%A0%97/" target="cdt-mirror">世界日报｜令完成的杀伤力让人战栗</a>
-</h2>
-<p><p>经常披露美国情报界权威消息的「华盛顿自由灯塔」 (Washington Free Beacon) 网站 3 日爆料，指落马的前中国全国政协副主席令计划之弟令完成，带有令计划获取的 2700 份内部文件，包括中国核武管控系统和中南海内部细节等情报，去年秋天开始披露给美方。消息如属实，令完成将成「纽约时报」所言，成为 65 年来「对中国最具破坏力的叛逃者」，称他为「中国版史诺登」毫不为过。由于北京一直通过或明或暗手段，欲把令完成弄回国处置，未来数月美方查证令完成提供情报的真实性后，可能决定他是否受美国保护终老美国，或被引渡回中国。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/k6a.jpg" alt="k6a" width="549" height="309" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/k6a-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/k6a.jpg 640w" sizes="(max-width: 549px) 100vw, 549px"><br>
-令计划是中共十八大以来被调查的第二位在职副国级领导人</p>
-<p>去年 7 月令计划被中共正式宣布落马查办前，令完成就逃到美国，他是否携带中共机密、机密属什么层级、是否向美国情报机构提供、影响中美竞争多大等，一直被外界关注。而中共给曾担任中共中央办公厅主任的令计划所列罪名之一，是「违纪违法获取党和国家大量核心机密」，更加深外界对令计划为求自保，把机密情报交给令完成带到美国的可信度。</p>
-<p>令计划保留情报自保，自然得有一定重要性和杀伤力，才能达到挟制和威胁效果。而外界对令完成握有什么机密，有各种说法：</p>
-<p>一为「八卦说」：指他握有令计划透过原国安部部副部长马建秘密录制的中共高层淫乱视频，若泄漏将严重打击中共领导人形象。</p>
-<p>二为「秘辛说」：指他的情报可望揭开高层权斗黑幕，尤其中共 18 大前权力交接出现腥风血雨斗争，包括周永康、薄熙来、徐才厚、郭伯雄落马内幕等；也有人说，情报涉及中国领导人在海外不法财产等资料。</p>
-<p>三为「战略说」：可让外界管窥中共数十年来对外经济和军事扩张的战略图谋。这些猜测都有一定合理性，美方或都感兴趣。</p>
-<p>如今新爆出「核武密码说」和「中南海蓝图说」，指情报包括中国核武机密，如准备核武所采取的步骤、发动核武攻击所用代码；其他还包含中国领导阶层、国务院和中央军委所用蓝图、指令、管控讯息，以及中南海安全秘密和通讯代码等。这些信息如被美方掌握，或有助美国对中共领导人进行网路电子情报活动。但其真实性如何，却令人质疑。</p>
-<p>着有《捕杀令完成》一书的作家金安国就认为，令完成手中的撒手 _ ，更多的应是中共高层的关系与隐私，说他掌握中国核武机密不可信，因为令计划和令完成过去几十年间，并未介入中国军队封闭体系的事务，即使当时军委主席胡锦涛，头衔也只是名义上，并未真正掌握军权；令计划更被排斥在军队事务之外，何从掌握绝密情报。</p>
-<p>再者，我们从常识判断，所谓核武密码、指令等虽属绝密，但都可修改。如有泄漏之虞，早就修改应变补救，情报价值并非永久性，甚至毫无价值。</p>
-<p>过去一年多，北京当局把抓捕令完成当作反贪和国家安全头号任务，派出大量间谍来美，使用恐吓、威胁手段试图让令完成就范，以致美方透过主流媒体公开警告北京节制，要求中共特工立即离境。中共还派出政法委书记、国安会秘书长孟建柱和公安部长郭声琨到美国要人，甚至答应愿接受被美国准备递解的 2 万多名中国经济难民作为交换条件。</p>
-<p>中美之间无引渡条约，中国欲引渡令完成并不容易。北京努力提供令完成的刑事犯罪证据，要求美国遣返他。去年迄今，多家媒体报导中国证监会投资者保护局前局长李量落马，以及他与令完成控制的私募基金汇金立方的不法关系；至少还有三名落马者与令完成有关联。这些铺陈都在定性令完成涉及贪腐罪，违反中国刑法，是刑事罪犯，以利美国遣返他。中国官员上月首次公开承认，正就令完成案与美国「沟通」。现在看来，努力似已失败。</p>
-<p>美中的认知南辕北辙，美方必然考量令完成情报的价值和可信度，加以运用。如令完成能提供可信情报，美国找理由千方百计保护他，应不难想像。何况令完成在令计划案发前就已入境美国、定居、置业。「纽约时报」去年披露，令完成已向美方申请政治庇护。依程序，他只需一至三年就可获得永久居留权，合法留在美国。</p>
-<p>这场中美之间意外的情报战，有如史诺登案的另一版本，这是「一报还一报」。而以当前两个强权间各方面激烈较劲，益增事件复杂度。至于令完成的情报对中国杀伤力有多大，真相恐须若干年解密后，外界才能得知。惟此例一开，今后中共高层存异心者都可仿效此模式自保，这是北京的棘手头疼难题。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BB%A4%E5%AE%8C%E6%88%90%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%E8%AE%A9%E4%BA%BA%E6%88%98%E6%A0%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -733,7 +756,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -743,5 +766,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

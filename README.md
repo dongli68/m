@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E8%B4%BE%E8%91%AD%EF%BC%9A%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E7%9B%B4%E5%90%83%E5%8C%85%E5%AD%90%EF%BC%9F/" target="cdt-mirror">自由港｜贾葭：功夫熊猫为什么一直吃包子？</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%B5%B5.jpg" rel="attachment wp-att-428089"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%B5%B5.jpg" alt="赵" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/赵-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/赵.jpg 599w" sizes="(max-width: 599px) 100vw, 599px"></a></p>
+<p>如果要评价2016年央视春节联欢晚会的话，的确需要一些勇气。当然，朋友圈和微博上的那些吐槽及段子也很欢乐，有些也真正触及了本届春晚的关键问题，但那些话并不适宜公开说出来，看看就罢了。要从技术层面分析，还真是一件费力的事情，不像发一条朋友圈那么简单。</p>
+<p>总体而言，本届春晚，是把“中国梦”这个词阐释得最为到位的一次。以前总有外国友人问我“中国梦”到底是什么？我说不来，也说不好。本届春晚，用中国人民群众曾经喜闻乐见的形式，真正展示了“中国梦”的内涵。我相信，这是第一次人民群众都全身心地沐浴在党的光辉照耀之下的夜晚。</p>
+<p>春晚39个节目单曝光之后，如果说有出乎意料的情况，那应该是歌舞类的占比是最高的一届。本届春晚有23个歌舞戏曲节目，接近全部节目的七成。故而 总体基调就是“载歌载舞”，说是“春节歌舞晚会”并不为过。从过去春晚的经验来说，歌舞类节目的认受度要低于语言类节目，但歌舞类节目更容易过审，尤其是 红色经典歌舞，既可以横扫五零后大妈市场，又十分保险。</p>
+<p>从歌舞节目的内容看，除了赵薇那首《六尺巷》是歌颂中华传统美德的，其他多数是歌颂祖国大好河山、人民群众欢天喜地、共产党带领人民奔小康、实现伟大复兴这样的。红色经典歌曲就更不必说，一下子把观众带入了战火纷飞歌声嘹亮的红色年代，一部分五零后人群非常喜欢。这样的安排既省力也讨好。</p>
+<p>其他的就是7个语言类节目，1个杂技，1个魔术，5个公益广告及1个拜年贺电榜。比较受春晚观众期待的语言类节目，在本届春晚也多数是“正能量”，故而出彩程度有限，笑料空间不大。比如郭冬临的小品，以反腐倡廉为主题，但他不过是个科级干部，五万块着实也不多，对观众而言肯定不过瘾。潘长江那个小品太像某宝的植入，加上广场舞，实在很难给好评。</p>
+<p>回想起来，像春晚观众耳熟能详的赵本山、马季、姜昆那些略带讽刺性的相声小品，放在本届春晚肯定要毙掉，这与本届春晚的使命相关——本届春晚就是要演绎“中国梦”的，像赵本山的作品如《三鞭子》这样的，很显然不服从于这个大局。什么是大局？大局就是春晚承载的政治、思想、艺术、娱乐四大功能，政治第一。</p>
+<p>现在想想网友们强烈要求六小龄童上春晚，真是图样图森破了，这么一个角色，放在今年春晚里，哪个环节都安插不上。带着八十年代理想气息的孙悟空，放在这个猴年那就是一个可怜的孤儿。别说六小龄童，就是刘德华的《忘情水》或者杨钰莹的《轻轻告诉你》，也显得太过靡靡之音了一些。</p>
+<p>本届春晚的会场安排，足见主办方是很花了一番心思。四个分会场均有其象征性的内涵。西安是路上丝绸之路的起点，泉州是海上丝绸之路的起点，呼伦贝尔草原与广州则是草原丝绸之路与海上丝绸之路的重要节点。这无疑是呼应了“一带一路”的战略规划。放在中国地图上看，这四个地方分别位于东西南北四个方向，也位于新划定的东西南北四大战区之中。</p>
+<p>此外，龙兴之地福建和陕西如今相比别的省区而言，也有着非比寻常的意义。象征悠久历史的西安把会场放在永宁门，象征创新活力的广州把会场放在广州塔，兵马俑和无人机，寓意着历史与未来的衔接。而泉州作为侨乡，与台湾隔海相望，呼伦贝尔草原是北方少数民族的重要发源地，无疑也具备了对台及民族统战的意味。广州机器人以粤语开口，则是向港澳观众问好。</p>
+<p>至于新疆的维族和西藏的藏族等民族舞蹈，承袭过去的“五十六个民族团结如一家”的春晚歌舞传统，均在意料之中。整个舞台像两会时的少数民族代表合影。节目的年龄段和覆盖面，也是要将老中青、工青妇少、工农兵学商一网打尽，可谓巨细靡遗、面面俱到，体现了爱国统一战线的广泛性。导演和主创团队，是真正下了功夫的。</p>
+<p>说到这里，我想为这位七零后导演吕逸涛喝彩。经过2012-2014三年春晚执行总导演的历练，到了本届春晚，他终于将春节联欢晚会的真谛演绎出来，从政治的大局意识上去衡量，不论哪个方面都堪称完美，是一届真正的春节联欢晚会，回归了这个节目的本质，直接抵达了亿万群众的心。春晚就应该是这个样子的，就应该时时刻刻不忘社会主义核心价值观和伟大复兴中国梦。春晚就应该是供给侧的春晚，不应该、也不必考虑需求侧。</p>
+<p>过去有论者认为，七零后、八零后文艺工作者的全面接力，可以改变当前文艺工作中的一些党性不足的问题。我认为这是杞人忧天了，事实雄辩地证明，七零后、八零后的文艺工作者，学习政策与落实政策的能力，远胜他们的前辈。在文艺工作座谈会上的讲话后的两年中，七零后、八零后文艺工作者深刻领会，努力学习，并严格遵照执行。那些寄望于这批人改变文艺工作现状的论调，是站不脚的。</p>
+<p>本届春晚对红色经典的深度重现，也真正在通俗层面打通了前三十年和后三十年，两个互相不否定。在逻辑上，建设年代就是革命年代的延续，甚至建设年代应该包含在广义的革命年代之中。井冈山、瑞金、遵义、陕北窑洞、西柏坡到中南海是一脉相承的。“中国梦”也不是现在就有的，历史地看，“中国梦”是红色中国成立之后就一直存在的。过去那些认为新中国走了一些弯路的说法，也被这台春晚严正驳斥了。</p>
+<p>至于本届春晚当中夹杂的支付宝牌核心价值观红包，在如此高度重视政治大局的春晚策略中，不过是央视自己的小算盘罢了，不值得评论。总之，猴年的春晚，让亿万观众眼前一亮，深刻体会了什么叫“中国梦”。很多年以后，当我们再次想起这个猴年春晚之时，一定会觉得，这是一段大历史的分水岭。</p>
+<p>至于功夫熊猫为什么要一直吃包子，因为熊猫村就是一场包子的盛宴。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518.jpeg" rel="attachment wp-att-428091"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518.jpeg" alt="WeChat_1454917518" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518-300x197.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518.jpeg 588w" sizes="(max-width: 588px) 100vw, 588px"></a></p>
+<h4><strong>自由港编者按——</strong></h4>
+<p>文中提到的《六尺巷》节目取材于桐城六尺巷的典故，大陆官媒介绍说「六尺巷的故事彰显了儒家修身、齐家、仁者爱人的博大内涵，更在为官修德方面，留下了最好的文化传承遗产」，据悉，此曲曾入选中宣部、文化部、国家新闻出版广电总局公布的中国梦主题第三批新创作歌曲。官媒报道还说：「中国梦主题新创作歌曲是中宣部、文化部、国家新闻出版广电总局从2013年开始，为了讴歌中国梦、唱响中国梦，凝聚各方面智慧和力量，激励人们积极投身实现中华民族伟大复兴的中国梦而开展的主题歌曲创作推广活动」。</p>
+<p>儒家思想被认为是“中华传统文化”、也是习近平重视的所谓“文化软实力”的一部分。做为运动式净网起源的8·19讲话中，习近平讲话的主题是“意识形态工作是党的一项极端重要的工作”、“巩固马克思主义的指导地位”、“宣传思想部门必须守土有责”等，此会议上刘云山表示：“有一小撮反动知识分子，利用互联网，对党的领导、社会主义制度、国家政权造谣、攻击、污蔑，一定要严肃打击。”自此，当局开始在全面加强打压力度的同时高度树立中共主导的意识形态，儒家思想是其中一部分。</p>
+<p>传统儒家比基督教、佛教等宗教伦理更政治化，把政治权威视为社会秩序的基本条件。传统儒家是反对专制与残暴的，主张仁政，推己及人，理论上是限制君权的，而不是助纣为虐，但民本与现代民主思想不同，仅有“民有”与“民享”，而不及于“民治”。很多学者认为强调尊卑伦理而非普遍权利观念的儒家文化是统治者奴化人民的极佳工具、阻碍民主进程的关键。</p>
+<p>习近平的红色儒家思想还并非真正的传统儒家，它片面借用儒学的重权威与控制、主从关系，以三纲稳定社会，维持政治秩序，讲究大一统、家天下，此处与极权体制的执政路径不谋而合。红色儒家就是权威执掌、等级森严、要求民众顺服抵制抗争精神。</p>
+<p>在一个极不正常的文化审查和思想禁锢的文宣体制下，央视的春晚早已沦为纯意识形态宣传的工具。此外还包括影视和体育的大跃进式追求，意识形态娱乐化路径是习近平主政以来尤为凸显的风格之一。<strong>（by :Don）</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%97%E8%84%91.jpg" rel="attachment wp-att-428090"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%97%E8%84%91.jpg" alt="洗脑" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/洗脑-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/洗脑.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E8%B4%BE%E8%91%AD%EF%BC%9A%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E7%9B%B4%E5%90%83%E5%8C%85%E5%AD%90%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E6%94%BF%E7%AD%96%E4%BA%9A%E5%85%8B%E8%A5%BF/?category=18271" rel="tag">党的政策亚克西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E8%B7%9F%E7%9D%80%E6%88%91%E5%B7%A6%E6%89%8B%E5%8F%B3%E6%89%8B%E4%B8%80%E4%B8%AA%E6%85%A2%E5%8A%A8%E4%BD%9C%EF%BC%8C%E5%AF%B9%E7%9D%80%E6%98%A5%E6%99%9A%E7%9A%84/" target="cdt-mirror">王五四｜跟着我左手右手一个慢动作，对着春晚的脸：啪啪</a>
 </h2>
 <p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B.jpg" rel="attachment wp-att-422129"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B.jpg" alt="王五四" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/王五四-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
@@ -688,32 +722,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8D%E5%A4%A7%E6%88%98%E6%97%A5%E8%B6%8B/" target="cdt-mirror">苹果日报｜李平：习近平江泽民「核心」大战日趋激烈</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/k6b.jpg" alt="k6b" width="298" height="354"><br>
-猴年到来之际，中国政坛突然爆发「核心」风暴。内地 31 个省分中，至昨日已有 21 个宣示「坚决维护习近平总书记这个核心」或强调「要切实增强核心意识、看齐意识」，隐隐告别了上一个领导核心江泽民。然而，江派不可能坐以待毙，其在金融系统、政法系统、宣传系统的潜在势力必定会反击，「核心」战的冲击将继续浮现，香港难免受拖累，从风月小说《习近平与他的情人们》引发的风暴可窥一斑。</p>
-<p>习近平江泽民生死斗，一场终极大战在所难免</p>
-<p>中共最高领导人与党中央的关系，早年的表述是「为首」，包括「以毛（泽东）主席为首的党中央」、「以华（国锋）主席为首的党中央」。但 1989 年六四事件后，邓小平宣称任何一个领导集体都要有一个核心，并追封毛泽东为第一代核心、自封为第二代核心、御赐江泽民为第三代核心。从「为首」变「核心」，主要是因为邓小平未曾担任中共中央总书记这一党内最高职务，礼宾名单先后以总书记胡耀邦、赵紫阳为首，而垂帘听政的邓小平只能排在总书记之后。</p>
-<p>胡锦涛虽是邓小平钦点的第四代领导人，但主政十年都未能获封核心，不只因为受到江泽民的压制，天无二日、国无二主，江派不容许有两个核心同时存在，也因为胡锦涛的确未能实际掌控党政军大权，「政令不出中南海」问题日益严重，军权更被中央军委两个副主席郭伯雄、徐才厚架空。由此可见，习近平如果能正名「核心」，不只是党内历史地位将超越胡锦涛，更是江派势力受到全面压制的标志。</p>
-<p>核心之争攸关派系权利</p>
-<p>外界关注到，在这波核心战中，海南、江苏、湖北等江派诸侯，也不能不喊出「坚决维护习近平总书记这个核心」的口号。他们是否真心转 _ 、改为效忠习近平并不重要，重要的是习近平晋位核心的大势已成，江派不会放弃抵抗，但只能做「地下工作」。</p>
-<p>当然，习近平届时是否称为中共第五代领导核心不无疑问，因为习近平、张德江等公开讲话从未把胡锦涛、温家宝称为第四代领导，中共党内也有人质疑领导层的断代以主政十年为一代未免太短。胡锦涛或许会与华国锋一样成为过渡性人物，而非自成一代。</p>
-<p>尤应指出的是，核心之争并非只是历史名分之争，更与派系、家族的现实权力、利益攸关。习近平主政后一直以反贪名义整肃政治对手，但上月出版的《习近平关于严明党的纪律和规矩论述摘编》披露，习近平曾在中纪委会议上，炮轰有些人「为了一己私利或者小团体的利益，背着党组织搞政治阴谋活动，搞破坏分裂党的政治勾当」。此举显示，习近平主政三年终宣称形成「反腐败斗争压倒性态势」，不再掩饰中共高层面临分裂、政变的危机。<br>
-风月小说更让港府难堪</p>
-<p>但是，江泽民主政十三年，加上垂帘听政多年，在政法、金融、宣传系统的势力树大根深，这些部门迄今乱象不止，跨境绑架、股灾、小粉红翻墙斗台独等闹剧频频演出，官方传媒还不时火上加油，让习近平形象、权威受损，很难不被归纳为江派的反扑，香港所受的拖累也日益严重。</p>
-<p>2012 年香港特首选举出现泥浆战，是中共高层权斗的延伸。如果习近平、江泽民的核心战能在今年秋天的中共十八届六中全会斗出结果，让习近平晋位核心，中国的政经乱象或能稍为平息。如果核心战持续到 2017 年举行的中共十九大，那么，明年香港特首选战难免再出现亲共人士的混战。参选的政客为了讨好中共主子，自然不会理会港人所思所想，梁振英的一带一路施政报告就是一种示范。</p>
-<p>至于《习近平与他的情人们》与其说是传记，不如说是风月小说，但竟演出铜锣湾书店五人被绑架大戏，可能是习近平太无气量，也可能是有人要让习近平难堪，但更难堪、更不堪的是梁振英政府一众官员，面对港人免于恐惧的自由被剥夺时，他们维护的只是习核心或江核心的权威，放弃的是香港的人权和法治。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/fffak6b-150x150.jpg" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8C%E6%A0%B8%E5%BF%83%E3%80%8D%E5%A4%A7%E6%88%98%E6%97%A5%E8%B6%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +733,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +743,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%AC%E5%80%BC%E5%92%8C%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">美国之音｜张欣：人民币贬值和危机</a>
+</h2>
+<p><p><em>原标题：张欣: 人民币贬值和危机————索罗斯还是红卫兵魅影作祟？</em></p>
+<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s.jpg" rel="attachment wp-att-428222"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s.jpg" alt="在北京，一位保安人员往外张望，他旁边有关于人民币百元新钞的介绍(2016年1月7日)" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>在北京，一位保安人员往外张望，他旁边有关于人民币百元新钞的介绍(2016年1月7日)</p></div>
+<p>2016年新年伊始第一个交易日，人民币兑美元汇率暴跌600点。半年来累计人民币已贬值了6%，其前景更不容乐观。远期交割的ndf市场预期两年内人民币将贬为7.2元兑1美元。如此持续贬值将对中国经济和国民生计，从物价、出国留学、到国际支付等造成巨大负面冲击。</p>
+<p>记得2014年前人民币汇率不断走强升值，成为国际货币中的强势货币。而2014年后形势却被迅速逆转，它不断贬值并被国内外普遍看空。究竟什么原因造成这个人民币汇率恶化？</p>
+<p>中国官方媒体将此归咎于索罗斯的“魅影浮动”。如很多国内外学者已经指出，这种指责没有依据，是官方为自己问题寻找替罪羊的手法。这是因为，一，中国在国际金融交易上有严格限制，投机者很难炒作；二，索罗斯也没有这么大资金能和中国对博。真正的问题还是出在中国本身。这两年来，从李嘉诚到中国普通百姓，（注意这些人和索罗斯没有关系，其中不乏有讨厌索罗斯的），都在加快将资金朝海外转移。结果大量资本外流，中国国际收支恶化，迫使人民币贬值。</p>
+<p>从长期均衡值来看，人民币本来不需要贬值。货币汇率的长期均衡价值由购买力平价决定。据英国《经济学人》最近计算，按照购买力平价，人民币现行汇率6.56元兑1美元还是低估的，应该升值到6元兑1美元。</p>
+<p>不过在中短期，汇率由外汇市场上的人民币和美元的供求决定。如果供求严重失衡，就会导致货币危机。这个外汇供求反应在中国国际收支上。其逆差会压迫货币贬值，顺差使货币升值。国际收支包括经常项目和资本项目。经常项目包括外贸、旅游、服务等方面的收入。中国经常项目下2014年顺差2100亿美元，2015年顺差2900亿美元，带来大量外汇收入。因此，迫使人民币贬值的问题一定是中国资本项目（包括金融和遗漏）下的巨额逆差，也即资本外流。</p>
+<p>资本和遗漏项目包括：归还外企本金与返利，付外债，境外投资，以及灰色或地下转移等。2015年尽管有经常项目赚入的2900亿美元外汇，中国外汇储备还是减少了5100亿美元。可以推算，在资本项目和遗漏项目下的外流已达8000亿美元。加上假报进口等其它方面，2015年全年资本外流，据彭博社估计有1万亿美元。更令人担心的是，这个资本外流还在加速。2015年12月单月资金外流达1587亿美元（彭博），外汇储备创纪录地减少了1070亿美元。如此下去，中国的三万亿美元外汇储备也会很快枯竭。中国外汇面临的形势非常严峻，处理不好将形成货币危机。</p>
+<p>注意中国和其它发达国家不同，人民币在资本项目下还不能自由兑换。中国全口径外债也数量有限可控。这意味着，这1万亿美元的资本外流，大部分是人们假借投资、还债等各种名义，或者干脆走灰色和地下渠道，卖出人民币换成了美元外汇。</p>
+<p>为什么这两年大量资本加速外流，人们如此恐慌？资本追求的无非是高回报和低风险。就回报而言，人民币银行利率比美元高2个百分点，回报还高。剩下的解释就是在中国的投资风险系数增加，政治大环境发生不利于商业经济的恶化。举两个最近发生在我周围的典型例子。一个国内商人在我们那里花了6百万美元，“投资”了一块地和一个商业，然后撂在那里即不开发也不营业，每年还要白给美国政府缴税。你说他的投资有什么回报？明明是负回报，他也要把资金外流到美国。另外一个例子是河北一城市出来的普通夫妇。他们刚卖了国内房子，倾家荡产将全部钱转出来。太太原来在国内是小学教师，丈夫做小生意。现在在这里打工，想方设法转签证搞移民。我问他们何苦。他们回答说，现在国内“许多做法很左，象回到文革那样，大家怕”。</p>
+<p>从上述例子到海内外媒体网络的普遍报道，可以看见资金外流的原因是目前中国政治环境恶化，仇富仇外气氛弥漫，红卫兵魅影浮动。在“加强党的领导”和“做大国企”的口号下，民企公营化，国企党营化，经济问题政治化，外资和私有经济被歧视挤压。在爱国强国的口号下，国际关系紧张，法治倒退到连律师都能被成批抓捕，使外商、华商、企业家，百姓恐惧。这些做法显然比邓江胡时代倒退。大气氛恶化了，结果资本用脚投票，大量出逃。</p>
+<p>温家宝说过，“要警惕文革悲剧重演。没有政治改革，那么后三十年经济改革的成果也会得而复失。”资本从过去的大量流入变成大量出逃，人民币从升值变为贬值，印证了温家宝的红卫兵魅影政治将惩罚经济的警告。中国执政当局需要改变目前的政治左倾做法，去除党治人治，尊重市场和法治，承认普世价值，使百姓免于恐惧。这样才能稳住国际资本，稳定人民币汇率，避免可能的更严重经济危机。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%AC%E5%80%BC%E5%92%8C%E5%8D%B1%E6%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">国企改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">国有企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E8%BD%AC/?category=18271" rel="tag">左转</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF/?category=18271" rel="tag">索罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E7%BC%B6%EF%BC%9A%E9%A9%AC%E5%AE%B6%E5%86%9B%E4%B8%91%E9%97%BB%E7%9A%84%E9%9D%A0%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%B8%BE%E5%9B%BD%E4%BD%93%E5%88%B6/" target="cdt-mirror">东网｜赵缶：马家军丑闻的靠山就是举国体制</a>
 </h2>
 <p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/k8cccccc.jpg" alt="k8cccccc" width="551" height="394" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/k8cccccc-300x215.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/k8cccccc.jpg 640w" sizes="(max-width: 551px) 100vw, 551px"><br>
@@ -698,23 +722,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B9%A0%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D-%E5%AF%BB%E6%B1%82%E5%85%B1%E8%AF%86%E5%88%B6%E8%A3%81%E6%9C%9D%E9%B2%9C/" target="cdt-mirror">德国之声｜习奥通电话 寻求共识制裁朝鲜</a>
-</h2>
-<p><p>美国总统奥巴马与中国国家主席习近平在周五晚间就朝鲜问题通了电话，双方一致认为应当推动一份“有效的”安理会决议来应对平壤方面的挑衅。</p>
-<p>美国白宫发布消息称，美中两国领导人在电话中均表达了对朝鲜可能进行弹道导弹试验的忧虑。奥巴马与习近平都认为，朝鲜如果进行导弹试验，将是一种挑衅、破坏稳定的行径。双方还达成一致，指出国际社会应当就朝鲜的挑衅给出“坚定的答案”，这其中包括推动形成一份切实有效的联合国安理会决议。奥巴马与习近平都表示，将致力于半岛无核化，不会接受朝鲜成为核国家。奥巴马强调，美国愿意就此加强与中方的合作。</p>
-<p>中国官方的新华社也发布消息，习近平在电话中表示中方赞成维护联合国安理会有关决议以及国际核不扩散体系，并主张致力于通过对话协商解决问题。习近平还强调，中国愿同包括美国在内的有关各方就朝鲜问题保持沟通和协调。</p>
-<p>就在同一天，习近平还与韩国总统朴瑾惠通了电话。两人除互致农历新年问候，也谈及了半岛局势问题。中国外交部网站报道，朴瑾惠对朝鲜不久前刚进行的第四次核试验以及宣布将再次进行发射活动表示严重关切，并表示韩国希望国际社会密切协调、希望安理会快速作出反应。习近平则回应道：中方在任何情况下都致力于半岛无核化、维护半岛稳定，并指出通过对话协商解决问题符合东北亚各国的共同利益。</p>
-<p>朝鲜此前已经向联合国相关机构通报，称计划于2月8日~2月25日期间发射一枚地球观测卫星。韩国、日本等国家认为，朝鲜的真实目的是进行弹道导弹试验。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B9%A0%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D-%E5%AF%BB%E6%B1%82%E5%85%B1%E8%AF%86%E5%88%B6%E8%A3%81%E6%9C%9D%E9%B2%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -726,7 +733,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -736,5 +743,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

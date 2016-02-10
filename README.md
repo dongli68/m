@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,100 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/428282/" target="cdt-mirror">大家｜高昱：论评论的倒掉与“新话”的全面占领</a>
+</h2>
+<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg" rel="attachment wp-att-427451"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg" alt="harmonius" width="400" height="502" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius-239x300.jpg 239w, http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg 598w" sizes="(max-width: 400px) 100vw, 400px"></a><p>《敏感词》概念作品／作者：困兽(Twitter @kunshou)</p></div>
+<p>从主流媒体上看，这两日关于一台晚会的观后感是好评如潮。但在我的移动社交圈里，流传最广的一篇评论毫不意外的遭到举报无法再查看。</p>
+<p>很多朋友感到愤怒，我不这样看。因为我知道，新闻评论在我们这个社会已经死了，某些文章的遭遇，不过是死亡从时事评论蔓延到文艺评论而已。这是自然而然的蔓延，任何了解中国七十年文艺史的人都清楚，文艺从来都是为政治服务的。</p>
+<p>从2002年我接手办《商务周刊》，到2011年杂志停刊，我写了200多篇社评，之后转到后来的单位，也写了几十篇新闻评论文章。但是当我喜欢的李承鹏封笔之后，我也自觉地停下不写了。当匕首与投枪不再被容忍，你只有帮闲着说粉饰话这一途的时候，拒绝被改变的沉默终究还是我的自由。</p>
+<p>更何况，我也逐渐发现，没有一只耳朵是可以被嘴巴说服的。最近常听到人说：你永远无法唤醒一个装睡的人。这更何况，我也逐渐发现，没有一只耳朵是可以被嘴巴说服的。最近常听到人说：你永远无法唤醒一个装睡的人。这句话很解气，但它针对的只是那些因为既得利益而选择掩耳盗铃的人——在我们这个早就把市场经济估计曲解为万物皆可买卖的商品社会里，“如果说谎对一个人有好处，为什么他还应该说真话？”但是需要承认，还是有一些民众，有老也有少，是真心诚意地相信谎言和谎言的逻辑，有些人甚至曾经是被谎言损害和侮辱的。这是多少年来我们的单向度教育制造的悲哀。我们的教育多少年来希望塑造的都是肯定性的文化和驯服型的社会人；乌托邦被现实粉碎后，则又可能像钟摆一样滑上相反的方向——彻底否定性的文化，以及民粹主义的暴躁与戾气。表面看上去这是一对矛盾，但事实上他们有如此容易和谐一致。因为是单向度的思维方式，所以无论是肯定性的驯服工具，还是否定性的民粹主义，都能在指挥棒下取得共鸣。我已经放弃用观点去改变他们的观点的企图，当你说A的时候，他们会说B，当你说B的时候，他们又会说C，实在躲不过去，他们会用最干净利落的阴谋论，你永远不可能比他们更自信。</p>
+<p>自从仓颉造字，文字就经常被比喻成可以随意打扮的小姑娘。但或许老祖先们从未想到过，语言文字可以乏味到今天这种地步。张维迎曾经提醒过我们注意语言的腐败，即以丑为美、越假越美。我们看那些赞歌读后感，每个字都认识，但你浑然不知道它在表达怎样的意思，文字就像稻草人的眼神一样空洞无物，连最低劣的粉饰作用都已经无法达成。</p>
+<p>乔治·奥威尔在小说《1984》中天才地使用了“新话”一词。旧话被禁止使用，从公共生活中消失，那些不被喜欢的词语以及所代表的思想，也就由此从人们脑海中消失。</p>
+<p>事实证明，这并非童话。因为真的有很多人被训练得不再会说人话——台上说着假话空话，台下流行的则是空前粗鄙的所谓“网络用语”。在语言文字已经被操弄得让人无法卒读的时代，什么才有真正的说服力，足以改变陷入新话的汪洋大海而难以自拔的民众？我觉得唯有赤裸裸的事实。这也是我近几年放弃评论这个无能的力量，转而专注于调查报道的主要原因。</p>
+<p>一个高官子弟向父亲的手下要油田区块，然后转手几十倍高价卖给民营老板的故事，一个交管局长给商人批京A的牌照，然后介绍他去买名人字画，自己再跟画商二一添作五均分利润的故事，一个公权力把城市黄金地段以科研用地名义征收，一半卖给地产商开发高档楼盘，另一半给官员盖别墅的故事，每每直截了当地将在外部监督缺失的环境中泛滥的权钱交易展现得淋漓尽致，它们不需要排山倒海的排比，只用扎实专业的事实调查、隐忍客观的叙述，挑破阴影，将真相暴露于朗朗阳光之下，无可辩驳。</p>
+<p>从这个意义上讲，喜闻乐见的外衣被剥下，说理的大门被关闭，我为此而感到些许遗憾，但最终还是如释重负的高兴。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/428282/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%97%BA%E8%A7%92%E6%9E%AA%E5%A3%B0%E4%B8%8D%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%9E%AA/" target="cdt-mirror">德国之声｜长平：旺角枪声不是“最后一枪”</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300.jpg" rel="attachment wp-att-428276"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300.jpg" alt="0,,19034585_303,00" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
+<p>（德国之声中文网）我还清楚地记得，香港维园”六四”纪念晚会结束时，人们细致地拣走身边垃圾。有些作为坐垫的报纸已经嵌入泥土，还是被人耐心地一点一点扣出来带走。我也看到，十数万人自由而又有序地离场，服务周到的警察让人觉得温暖而又安全。</p>
+<p>香港社会的秩序，一直是中国内地人的教材。亲官方媒体强调市民的”素质”，亲自由媒体则强调警方的亲善。同时，香港人也以此自豪，对内地访客不排队、乱扔垃圾等习惯深恶痛绝，甚至斥之为”蝗虫”。</p>
+<p>变坏似乎只在一夜之间。今晨（2月9日2时许）旺角抗议事件中响起警察的枪声（对空鸣枪），尽管当时抗议者与警察的冲突已经相当激烈，但是据多名亲历者讲述，人们感到震惊，甚至不敢相信自己的耳朵。</p>
+<p>在抗议者及其同情者看来，2月9日的枪声结束了一个时代。长期以来维系在警方与民众之间的温情脉脉的面纱，尽管在近两年的抗议活动中早已经支离破碎，但是它仍然在风中楚楚可怜地飘摇。以往，”高素质”的香港抗议者，面对警方的驱散，大多和平克制地退散，或者敢作敢当地束手就擒。然而，在这个凌晨，他们突然学会了用砖头和杂物砸向警察。</p>
+<p>出于同样的逻辑，梁振英代表特区政府将旺角事件定义为”暴乱”。它让人想到年久日深的1967年”五月风暴”。也是出于同样的逻辑，一些媒体将其称为”鱼蛋革命”（Fishball Revolution）或者”鱼蛋暴动”（Fishball Riot）。</p>
+<p>尽管抗议事件从未间断，但是不久前的香港，可以说是世界上最温和的城市之一。”占领中环”那样大规模长时间的抗议事件，也没有引发“鸣枪示警”。然而，无论人们是否接受，今天的香港，正在演变为世界上最危险的城市之一。</p>
+<p>即便是”六四”晚会，我也从每一年警方与组织者在人数估计的巨大反差中，感觉到在政治操控之下，香港社会秩序并不像人们想象中的那样美好。在科隆、巴黎等欧洲城市，我也看见每一次的狂欢节或抗议活动之后，垃圾遍地，环卫工人不得不大干一场，似乎也没有想象中那样糟糕。社会秩序的关键，然而，并非如媒体所教导的那样，是靠民众”素质”维持的，而是民主政治保障的法治与自由。</p>
+<p>香港正在失去已有的法治与自由。特区警察变成了内地城管，甚至比内地城管还没有人情味儿（在大年初二”严厉执法”驱赶摊贩）。冰冻三尺非一日之寒，民众对政府长期不满，而政府管制日益趋紧，是骚乱的根本原因。</p>
+<p>特区政府无意反省这一原因–重要的是，只要北京政府尚在，特别政府也无从反省–简单粗暴的”决不姑息”将无济于事。枪声唤起了民众更多的反抗意志，冲突可能在未来升级。香港比中国内地城市更加危险，也正在于他们还有反抗意志。内地民众普遍已被六十多年的高压驯服，例如，他们抱怨的不是春晚有毒，而是这副毒药里没有加上足够多的糖。</p>
+<p>“六四”之后，歌手崔健高唱”如果这是最后一枪，我愿接受这莫大的荣光”。可是它不是。在同一个党的领导之下，旺角枪声也不是香港的”最后一枪”。</p>
+<p><i>长平是中国资深媒体人、时事评论作家，现居德国。</i></p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%97%BA%E8%A7%92%E6%9E%AA%E5%A3%B0%E4%B8%8D%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%9E%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">香港旺角警民冲突</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%8A%8A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%9E%8D%E5%85%A5%E5%90%84%E7%BA%A7%E6%95%99%E8%82%B2%E5%90%84%E7%8E%AF%E8%8A%82/" target="cdt-mirror">【网络民议】中国教育部可以和宣传部合并了</a>
+</h2>
+<p><p><strong><a href="http://news.sina.com.cn/c/nd/2016-02-09/doc-ifxpfhzq2677423.shtml">新华网｜教育部：把爱国主义融入各级教育各环节</a></strong></p>
+<blockquote><p>教育部近日下发文件（<a href="http://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%85%B1%E6%95%99%E8%82%B2%E9%83%A8%E5%85%9A%E7%BB%84%E5%85%B3%E4%BA%8E%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E6%B7%B1%E5%85%A5%E5%BC%80%E5%B1%95%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99/">全文</a>），要求各级各类学校深入开展爱国主义教育，<strong>着力运用微博、微信等网络新媒体，创新爱国主义教育方式和途径，生动传播爱国主义精神</strong>。</p>
+<p>教育部表示，各级各类学校应创新爱国主义教育方式和途径，有效拓展课堂内外、网上网下、平台载体的爱国主义教育引导，创造浓郁的校园文化氛围，使学生<strong>处处受到爱国主义精神的感染</strong>。着力运用微博、微信等网络新媒体，<strong>充分利用文化馆、纪念馆、博物馆、旅游景点、部队营地等资源和举办运动会、体育比赛等活动</strong>，开展爱国主义教育，生动传播爱国主义精神。</p>
+<p>同时，应将爱国主义精神有机融入大中小学德育、语文、历史、地理、体育、艺术等各学科<strong>课程标准</strong>、<strong>教材编写</strong>、<strong>考试评价</strong>之中，纳入教育教学实践环节。</p>
+<p>此外，各高校要完善相关本科专业类教学质量国家标准，把爱国主义教育与专业教育紧密结合，全方位、多渠道融入人才培养体系。在全国高校学生中，深入开展“我爱我的祖国”“<strong>永远跟党走</strong>”等主题社会实践活动。同时，推动各地将爱国主义教育相关内容<strong>纳入体育教学计划</strong>，<strong>探索建立学生军事营地育人长效机制</strong>。</p></blockquote>
+<p><strong>该文件内容还包括了外宣</strong>：</p>
+<blockquote><p>14.加强“中国梦”海外宣传。聚集广大海外留学人员爱国能量，确立以人为媒介、以心口相传为手段的海外宣传模式，形成人人发挥辐射作用、个个争做民间大使、<strong>句句易于入脑入心</strong>的宣传效应。<strong>构建“祖国-使领馆-留学团体-广大留学人员”的海内外立体联系网络</strong>，使广大留学人员充分感受祖国关爱、主动宣传祖国发展。<span><strong>挖掘</strong></span>在国际教育领域有影响力的专家学者、外籍教师、来华留学人员、非政府组织及国际智库的积极作用。</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BC%81%E9%B9%85%E5%85%A5%E5%85%9A.jpg" rel="attachment wp-att-428267"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BC%81%E9%B9%85%E5%85%A5%E5%85%9A.jpg" alt="企鹅入党" width="385" height="513" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/企鹅入党-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/企鹅入党-768x1024.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/企鹅入党.jpg 960w" sizes="(max-width: 385px) 100vw, 385px"></a><br><span>图片来源：新浪微博@文山娃</span></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/423370/">【网络民议】捆绑销售：爱国爱党爱社会主义</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E6%84%8F%E3%80%91%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%8C%E4%BB%80%E4%B9%88%E7%89%8C%E5%AD%90%E6%9C%89%E5%8F%88%E5%AE%BD%E5%8F%88%E6%89%81%E7%9A%84%E5%86%B0/">【网络民议】祖国万岁 什么牌子有又宽又扁的冰箱</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%98%AF%E8%A2%AB%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%80%9D%E6%83%B3%E9%81%93/">【图说天朝】中国未成年人是如何被进行“思想道德建设”的</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/">中小学生守则修订版：一年后还是得爱党</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1826547193" target="_blank">@LEEKERY栗甲魚</a>：洗脑要从娃娃抓起是吧<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我仿佛活在朝鲜</p>
+<p><a href="http://weibo.com/akira1124" target="_blank">@菠菜糕</a>：拒绝洗脑，不要绑架国家<img title="[打脸]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]">国不等于党</p>
+<p><a href="http://weibo.com/samsungzuidataotian" target="_blank">@想改ID却想不到改什么</a>：教育也越来越恶心了。。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我还记得我高三连考试的东西都没背完，全校每天早读要抽背社会主义核心价值观的事情。。就因为我们区有个学生不知道这是啥。。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">广州。。某区<img title="[生病]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]"><img title="[生病]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]"></p>
+<p><a href="http://weibo.com/5645085423" target="_blank">@法骑永不狗带</a>：永远跟dang走，感到可怕<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"></p>
+<p>@我是田闹闹：春晚都不能满足了是吗</p>
+<p>@五丁开山：去你妈的 搞个新闻联播剧场版还不够 现在又毒害小孩子去了 持枣药丸</p>
+<p>@失眠的宿命：妈的完蛋，我赶紧去考雅思了</p>
+<p>@图形派炒股掌门银：请朝鲜劳动党当老师吧。。人家现在做的比你们好</p>
+<p>@凯文是Hulk：赵官人？金官人？我傻，分不清楚。</p>
+<p>@小丑骑士11：从上到下全方面洗脑啊</p>
+<p>@大丧尸_72399：跟口走=爱国？</p>
+<p><strong>@老土锅：可以和宣传部合并了</strong></p>
+<p>@悬空寺中小沙弥：我爱我的国家，但是我不希望有人天天来告诉我要爱国。</p>
+<p>@啵啵媛：看到没，明年春晚的主题素材</p>
+<p>@几乎介乎于：我们不骂春晚了 求党放了我们的孩子</p>
+<p>@锍骐_Mn7：天下何人不通共，奈何教育部是五纵。</p>
+<p>@医生我觉得我还可以再抢救一下：你就算天天逼我吃屎我也不会吃啊</p>
+<p>@海上國民：我已通知我家小辈，谁入团就别来问我要压岁钱了</p>
+<p>@小女子一切刚刚好：跟党走可以，说清楚跟哪个党，对岸的GMD也是党，哈哈哈~</p>
+<p>@jxj梦的荒原：回复@JimHansonJ:某党现在做的宣传，实在像极了江湖庸医，自己做好了自夸的锦旗，然后再雇人敲锣打鼓送到小门诊部。</p>
+<p>@黑鸦UDA：你做的好了自然会爱你，整天被各种安利我已经够了</p>
+<p>@没什么要补充的：财经网的评论已经被关闭，删光了。。财经网已死，有事请烧纸。</p>
+<p>@股炒新手：这说明大部分人都不爱这个国家了。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%8A%8A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%9E%8D%E5%85%A5%E5%90%84%E7%BA%A7%E6%95%99%E8%82%B2%E5%90%84%E7%8E%AF%E8%8A%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E6%98%A5%E6%99%9A%E5%8C%85%E5%AD%90%E3%80%81%E4%B9%A0%E9%9A%BE%E5%A0%AA%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-9/" target="cdt-mirror">【敏感词库】2016春晚专题、“习难堪”等热点 2016-2-9</a>
 </h2>
 <p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr.png" alt="New Year's Revolution" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr-768x512.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr-1024x683.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr.png 2250w" sizes="(max-width: 2250px) 100vw, 2250px"><p><br><em>图片作者：巴丢草</em></p></div>
@@ -42,7 +133,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD/?category=18271" rel="tag">新闻联播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA/?category=18271" rel="tag">藏人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">藏人示威</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%AC%E5%80%BC%E5%92%8C%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">美国之音｜张欣：人民币贬值和危机</a>
 </h2>
@@ -602,68 +693,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E7%BA%A2%E4%BA%8C%E4%BB%A3%E7%88%B6%E8%BE%88%E4%BB%AC%E6%89%80%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BB%8A%E5%A4%A9%E8%BF%99/" target="cdt-mirror">自由亚洲｜罗宇：红二代父辈们所要的不是今天这样的中国</a>
-</h2>
-<p><p>——专访罗瑞卿之子罗宇（之四）</p>
-<p>罗宇是中共开国大将、前解放军总参谋长、军委秘书长罗瑞卿之子，1989年为解放军总参谋部大校军官。六四屠杀后，罗宇宣布与中共决裂，当时他正在欧洲访问，从此成为一位政治流亡者，26年不能回国。旅居美国的罗宇近来因为连续致信习近平，呼吁中共放弃一党专政，实行政治改革，为人们所关注。日前，罗宇接受本台专访，谈了他流亡海外的心路历程，以及对习近平反腐和习近平是否能领导中共实现政治改革的看法。</p>
-<div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/8960ebd6-2b2b-49cc-94a9-aa1ee05af734.jpeg" alt="罗宇近照（罗宇提供）" width="399" height="406" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/8960ebd6-2b2b-49cc-94a9-aa1ee05af734-295x300.jpeg 295w, http://chinadigitaltimes.net/chinese/files/2016/02/8960ebd6-2b2b-49cc-94a9-aa1ee05af734.jpeg 622w" sizes="(max-width: 399px) 100vw, 399px"><p>罗宇近照（罗宇提供）</p></div>
-<p>本台分四集播出对罗宇的专访。今天播出第四集，也就是最后一集。在前三集中，罗宇谈到他为什么舍弃在中国所得到的一切选择流亡，以及他对习近平反腐的看法。他指出：如果习近平真心反腐，就必须逐步有序的实现民主化。他主张习近平向蒋经国学习，用专制的手段结束专制。在这一集里，罗宇要以“红二代”的身份，谈谈在当代中国政治中扮演重要角色的“红二代”。他表示，红二代中少数人成为既得利益集团成员，多数人认为，他们的父辈奋斗所要的中国，不知今天这样的中国，因此他们都支持在中国实现民主化。下面是特约记者CK从旧金山发来的专访罗宇第四集。</p>
-<p>“红二代”又被人们称为“太子党”。罗宇表示：只有毛泽东的儿女可以称为“太子”。他不喜欢被人称作“太子党”，但能够接受“红二代”这个称呼。“红二代”指的是当今中国一个特定群体，红二代里有坏人，也有好人。罗宇说：“红二代里面的极少数是既得利益集团成员，这些人不得人心。红二代里面的大多数都认为，他们的父辈所为之奋斗的中国，不是今天邓小平、江泽民他们弄出来的这个中国。讲红二代在未来中国的走向起什么作用的话，我倒觉得，红二代整体上会起好的作用，就是朝民主方向发展的作用。但是红二代里面也有很多糊涂思想，各种不符合民主思维的思潮也有很多，不可能用一种标准要求所有人。有些人还想回到毛泽东的独裁体制上去，这是行不通的。既得利益集团是赞成邓小平的，这也是行不通的。大多数人应该想清楚了，中国的唯一出路，是逐步的有序的民主化。”</p>
-<p>红二代是依附于中国共产党而存在的，因此红二代对于党的生死存亡，是不是比对国家的前途命运更关心呢？罗宇回答记者这个问题时说：“党的存亡和国家的存亡是两码事，党如果变成一个廉洁的党、民主的党，它可以领导人民、领导国家走向兴旺发达。中国共产党在战争年代是以人民利益为准办事，所以得到了人民的拥护。但是1949年之后，就越来越偏离了民主建国的理念，事情就越办越糟。到了邓小平，那就是与人民为敌了。坦克都能开上天安门广场镇压学生，中国共产党在六四时就已经完蛋了。红二代里有人想把共产党从一个腐败的党变成一个廉洁的党，有没有可能呢？这在很大程度上决定于习近平当局，是不是真的想明白了，中国唯一的出路就是逐步的、有序的民主化。”</p>
-<p>记者对罗宇的电话采访，是在春节即将到来之际进行的。从89六四后的第一个春节算起，罗宇有26个春节不能与家人一起度过了。26年的漫长岁月，罗宇从中年人成为了老年人。在罗宇谈完他对红二代的评价后，记者问罗宇最后一个问题：春节到了，他是否想念他的家人？是否想念和他一起长大的发小？是否想念他的国家？但是，罗宇一句话也没有回答——电话那一头，他泣不成声……我似乎不该问这个问题，采访无法继续下去了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BD%97%E5%AE%87%EF%BC%9A%E7%BA%A2%E4%BA%8C%E4%BB%A3%E7%88%B6%E8%BE%88%E4%BB%AC%E6%89%80%E8%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BB%8A%E5%A4%A9%E8%BF%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E5%AE%87/?category=18271" rel="tag">罗宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%97%E7%91%9E%E5%8D%BF/?category=18271" rel="tag">罗瑞卿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%98%A5%E8%8A%82%E5%AF%B9%E5%94%90%E5%BF%97%E9%A1%BA%E5%B9%B8%E6%B8%85%E8%B4%A4%E7%9A%84%E5%A6%BB%E5%AD%90%E4%B8%8D%E6%98%AF%E6%AC%A2%E4%B9%90/" target="cdt-mirror">自由亚洲｜春节对唐志顺幸清贤的妻子不是欢乐</a>
-</h2>
-<p><p>去年10月6日，两位仗义和热心人士唐志顺、幸清贤，因帮助被捕的维权律师包龙军、王宇夫妇16岁的儿子包蒙蒙出国读书，在到达缅甸时被越境而来的中国公安绑架回国，到2月6日，整整四个月，至今下落不明。春节到了，这个春节，对于唐志顺和幸清贤的妻子来讲，不是欢乐，而是对丈夫的思念和担忧，她们要求中国警方告诉她们：自己的丈夫在那里。</p>
-<p>唐志顺一家三口本来在去年10月初的黄金周假期来美国旅游，唐志顺让妻子高沈带着女儿先走，他说去办一件事，然后来美国和妻女会合。结果高沈到达旧金山，才知道唐志顺去救包蒙蒙，在缅甸被中国公安绑架。</p>
-<p>这是高沈和唐志顺结婚以来，第一次独自带着孩子过春节，而且是在异国他乡。这几天，当地华人朋友都邀请这母女倆来家过年，使高沈感到温暖。但高沈已经没有往年春节的欢乐，春节加重了他对丈夫的挂念。高沈说：“他现在已经被关押整整四个月了，我和我的女儿非常挂念他，特别想知道他的信息，每天都在担心他在里面被虐待。这个春节是我跟她结婚以来分开的第一个春节，心里无比的惆怅。但是中国警方就是不给我们任何消息，让我们每一天在焦虑中度过。”</p>
-<p>高沈表示：唐志顺做错了什么吗？他和幸清贤只是要帮助包蒙蒙出国读书。高沈说：“包蒙蒙很可怜，爸爸妈妈已经在监狱里了，这样的孩子，应该得到所有热心人士、正义人士的帮助，我先生没有错。我希望有更多的人能够帮助包蒙蒙，帮助他的求学之路能够顺畅的走下来。也希望中国警方能够善待正义人士的孩子，善待那些维权律师的孩子们。”</p>
-<p>幸清贤被绑架后，他的妻子何娟只身逃来美国。和高沈一样，何娟虽然感受到当地华人的温暖，但春节对于何娟，也不是欢乐，而是牵挂和担忧。何娟说：“开头一阵子我还很坚强，但是后面有一段时间我很脆弱，我莫名其妙的总是爱哭。我总觉得他那么单薄的身体根本扛不住里面的酷刑的折磨。至于有什么样的酷刑，这绝对是超出我们的想象。”</p>
-<p>那么此时，何娟要对不知被关押在何处的丈夫说些什么呢？“我真想对他说：不管人家让你签什么字，画什么押，不管人家怎么样让你上中央电视台去认罪，统统给他认。只要你能够在电视上现身，对我也是一种安慰，我可以知道你还是活着。我希望他能够配合他们演戏，反正人们都知道那是假的。你面对的是强大的、个人根本无法抵抗的强权。你看瑞典的老外也屈服，桂民海等境外绑架的人都屈服，没有什么可耻，没有什么不好意思的。”</p>
-<p>何娟也表示；幸清贤和唐志顺只是想帮助一个父母被迫害的包蒙蒙出国读书，自己的丈夫没有做错什么。她说：“如果是我，我也会这么做。我们的祖国、我们的政府，他们的底线不断的下降，我们永远也看不到它的底线。就算是偷渡，按照中国的法律也就拘留几十天而已，哪有被失踪到这个样子。”</p>
-<p>（特约记者：CK; 责编:陈平）</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/892dicon-listen.png" alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%98%A5%E8%8A%82%E5%AF%B9%E5%94%90%E5%BF%97%E9%A1%BA%E5%B9%B8%E6%B8%85%E8%B4%A4%E7%9A%84%E5%A6%BB%E5%AD%90%E4%B8%8D%E6%98%AF%E6%AC%A2%E4%B9%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%9D%A8%E4%B9%83%E6%AD%A6%E5%B0%8F%E7%99%BD%E8%8F%9C%E6%A1%88%E4%B8%AD-%E8%80%81%E4%BD%9B%E7%88%B7%E5%88%B0%E5%BA%95%E8%8B%B1%E6%98%8E/" target="cdt-mirror">东网｜王药师：杨乃武小白菜案中 老佛爷到底英明在哪</a>
-</h2>
-<p><p>翻了下枱历、算了下日期，读者诸君看到这篇文章的时候，将恰好是农历大年初一，丙申猴年的第一天。在此，我特向各位道声新春快乐。不过，对于许多官员来说，这个春节注定不会过得太平。</p>
-<p>继内蒙古27名公职人员因对呼格吉勒图错案负有责任遭到追责后，天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告近日也获国务院批覆，123名责任人员将受到处理，其中包括天津市委常委、滨海新区区委书记宗国英、天津市副市长孙文魁、何树山、交通部副部长何建中以及海关总署党组副书记、副署长鲁培军等5名省部级官员。</p>
-<p>官员不太平，民众同样不痛快。呼格吉勒图枉死20年，家属等来的却是“罚酒三杯”式的追责处理。除了时任呼市公安局新城分局副局长的冯志明因为涉嫌职务犯罪，被另案处理外，其余人员竟无一个被革职判刑。</p>
-<p>至于说天津港爆炸事故，死了165个人，已核定的直接经济损失就高达68.66亿元。可结果呢？24名相关企业人员倒是都被采取刑事强制措施了，但对123名责任官员，给予的却多是党纪政纪处分，或者诫勉谈话、批评教育，只有25名行政监察对像被立案侦查，且多是些小喽啰。如此处理结果，别说家属和舆论“难以接受”，你让当年因“葛毕氏谋害亲夫”案被革职的一百多名朝廷大员都情何以堪？</p>
-<p>所谓“葛毕氏谋害亲夫”案，就是民间俗称的“杨乃武与小白菜案”。该案由于影响巨大，妇孺皆知，所以最近这段时间，反复被舆论拿来作为参照物，与前述两案进行比较。特别是当时的朝廷对于涉案官员的处罚之严厉、牵涉面之广——不仅作为直接判案官员的余杭知县刘锡彤被发配黑龙江，包括浙江巡抚杨昌浚、浙江学政胡瑞澜、杭州知府陈鲁在内的上百位“负有领导和监管责任”的各级官员，均被革除顶戴花翎，永不续用——更是引来舆论一片“今不如昔”的感叹，甚至有人高呼“还是我大清圣母皇太后英明”。</p>
-<p>感叹也好，呼喊也罢，本质上不过是戏谑式的借古讽今、指桑骂槐。因为谁都知道，杨乃武与小白菜案并不像外界想象的那样皆大欢喜、功德圆满。且不说过程当中杨乃武、小白菜所遭受的种种酷刑折磨，即便是那被后人津津乐道，最终感动会审官员，令冤案得以平反的杨淑英的“滚钉板”之举，距离现代司法文明又何止以道里计——要不，王晶的《满清十大酷刑》怎么会以该案为原型呢？</p>
-<p>事实上，“杨乃武与小白菜案”最终之所以会有这样一个处罚结果，与其说是司法的胜利，不如说是当时官场江浙派与两湖派政争的产物。而且从结局看，正义也远没有得到伸张，不仅杨乃武的举人功名并没有恢复，反倒是那些“永不续用”的官员，如杨昌浚等，蛰伏一段时间后却纷纷复出，甚至有的后来官至兵部尚书、太子太保的高位。</p>
-<p>但即便如此，我大清圣母皇太后还是英明的。至少，无论是在案中还是案后，老佛爷都没有试图遮掩案件的相关信息，甚至还接连发布懿旨，将调查报告和处理意见昭告天下。这才使今天的人们得以完整详尽地了解此案的来龙去脉、是非曲直。</p>
-<p>可不要小瞧这一点，不信的话，谁到给我说说呼格吉勒图被冤杀的详细经过，或者天津爆炸事故被遮掩的官场黑幕？不行了吧！其实，别说复述完整的故事链了，看完那份据说是调阅了600多万字文字资料、10万小时监控视频，进行了8次模拟实验，开了56场专家论证会，对600余名相关人员逐一调查取证才出炉的官方调查全文，我甚至都没弄明白瑞海公司当初是怎么层层过关，把危化仓库建到居民区的？那被处理的123名责任人员又各自扮演了什么角色，谁是“刘锡彤”，谁又是“杨昌浚”？</p>
-<p>至于说像前人排演“杨乃武与小白菜案”那样，把呼格吉勒图错杀案、天津爆炸案搬上戏台和银幕，通过艺术的形式演绎出来，流传下去，以此警戒后人，那就更是痴人说梦、痴心妄想、痴迷不悟了。什么宣传部、广电总局、网信办，一个个都会找上门来；报批、审查、发行、放映，哪一个环节都能够把你的“中国梦”扼杀在摇篮里，拍死在沙滩上。仅就此一点，老佛爷比今天的有些“核心”就不知高到哪里去了。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E6%9D%A8%E4%B9%83%E6%AD%A6%E5%B0%8F%E7%99%BD%E8%8F%9C%E6%A1%88%E4%B8%AD-%E8%80%81%E4%BD%9B%E7%88%B7%E5%88%B0%E5%BA%95%E8%8B%B1%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津大爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%99%BD%E8%8F%9C/?category=18271" rel="tag">小白菜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E4%B9%83%E6%AD%A6/?category=18271" rel="tag">杨乃武</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E4%BD%9B%E7%88%B7/?category=18271" rel="tag">老佛爷</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -675,7 +704,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -685,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

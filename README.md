@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B0%B8%E9%81%A0%E7%AB%99%E5%9C%A8%E5%8F%8D%E6%8A%97%E8%80%85%E4%B8%80%E6%96%B9-%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%9C%83%E5%B0%B1%E4%BA%8C%E6%9C%88%E5%85%AB%E6%97%A5%E6%97%BA/" target="cdt-mirror">永遠站在反抗者一方——港大學生會就二月八日旺角之役聲明</a>
+</h2>
+<p><p>時值新正頭，小販路邊擺賣，銷售魚蛋雞髀，市民樂也融融，本無大礙。然而，食環署連日巡查，趕盡小販自力更新，殺絕黎民度歲雅興。警方又配備盾牌、伸縮棍、胡椒噴霧、紅黃旗幡等到場，刻意挑起民憤。連番衝突過後，警員 PC5619 不顧流彈誤中途人之險，於群眾中鳴槍兩發，終引燃熊熊抗爭烈火，蔓延旺角街頭。</p>
+<p>若諸君設身處地，耳聽槍響劃破長空，眼見槍管直指頭顱，豈不膽裂心顫？數百市民見狀，克服怵惕恐懼，群起反抗還擊，實為大義之舉。如果 PC5619 因恐懼而開槍，敢問市民慘遭黑警棍揮腳踢，又當如何？且未論被捕之士，久困漆黑囚車，飽受亂拳無數，抵達警局又遭一番折磨。倘若泯滅良知，反謂其自找苦吃，豈非有欠惻隱同理之心？你我人身肉造，被癢會笑，被打會痛，而人民被壓迫，理所當然會反抗。</p>
+<p>冰封三尺，絕非一日之寒：磚頭火舌僅其物象表徵，專制政權壓迫實為原兇。過往港府尚有些須節制，會因和平示威而讓步。近數年來，港共政權愈加無恥，面對逾百萬人爭取真普選的民意，依然不聞不理。港人忍無可忍，遂於雨傘革命奮起抗爭，設障開傘，持盾擋棍。今日旺角之役與雨傘革命一脈相承，分別在催淚白煙與懾人槍聲之下，不再畏懼，勇往直前，掀起新式抗爭之序幕。</p>
+<p>一如臺灣候任總統蔡英文所說：「天色漸漸光，這裡有一群人，為了守護我們的夢，變成更加勇敢的人。」是役不少戰友均自發參與，甘冒性命之虞和刑責風險，赤身對抗警察血腥暴行，好些身受重傷，生死未卜。亦有三位港大同窗被捕、受傷，當中包括候任學苑總編輯，在採訪期間被無理拘捕。對此本會承諾向有關同學提供一切可行協助，絕不冷血割蓆，絕不令行動者孤立無援。</p>
+<p>我們永遠站在反抗者一方。</p>
+<p>香港大學學生會<br>
+二零一六年二月十日</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B0%B8%E9%81%A0%E7%AB%99%E5%9C%A8%E5%8F%8D%E6%8A%97%E8%80%85%E4%B8%80%E6%96%B9-%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%9C%83%E5%B0%B1%E4%BA%8C%E6%9C%88%E5%85%AB%E6%97%A5%E6%97%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92/?category=18271" rel="tag">旺角</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">香港旺角警民冲突</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF%EF%BD%9C-%E5%90%B4%E7%A8%BC%E7%A5%A5%E8%AF%84%E6%98%A5%E6%99%9A%E4%BD%AF%E9%A2%82%E9%98%B4%E6%8D%9F%E8%AE%A9%E8%A2%AB%E9%A2%82%E8%80%85%E5%BE%80%E9%87%8C/" target="cdt-mirror">法广｜ 吴稼祥评春晚“佯颂阴损”让“被颂者往里跳”</a>
+</h2>
+<p><p>曾经任职中共中央书记处及中共中央办公厅、现为体制外政治评论人的吴稼祥，2月8日在其晨评天下的网络文章中，形容央视播出猴年春晚，是一场“最噁心文灾”，反映了中共两种意识形态的博弈，是一个“佯颂阴损”的圈套，让“被颂者往里跳”。</p>
+<p>现已被网上删除的文章指出，猴年春晚，是一场“文灾”，堪比去年6月以来的3场股灾。二者的相似之处是：第一，都疑似恐怖袭击，第二，受害人都极为众多，股灾的受害人是股民，文灾的受害人是观众，第三，二者都是有其历史以来创纪录的，股灾创了最短时间最深跌幅纪录，文灾创了最噁心纪录。</p>
+<p>吴稼祥说，二者还有个共同之处：都是最高权力交接战争的不同战役。中国与民主选举国家权力交接的方式不同，它们的权力交接就是最高权力交接，他们多个政党奉行的都是同样的意识形态：民主政治与市场经济；我们这儿，一个党反而有两种意识形态：现代性与反现代性。因此，隔代权力交接意味着一场全面战争：1枪杆子（军队）、2手铐子（反腐）、3钱袋子（财经）、4笔杆子（传媒思想文化）、5脑瓜子（意识形态与智囊）。</p>
+<p>吴稼祥的文章最后说，18大以来，1、2两场博弈基本结束，3还在激战，4、5是对方在围魏救赵。这场文灾的典型特征是“佯颂阴损”，用极其拙劣的文革式颂词挖坑，让被颂者往里跳，然后动员全网暴雪式唾沫进行掩埋。这也只有在网络民间传媒与官方垄断传媒严重分裂条件下才能做到。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF%EF%BD%9C-%E5%90%B4%E7%A8%BC%E7%A5%A5%E8%AF%84%E6%98%A5%E6%99%9A%E4%BD%AF%E9%A2%82%E9%98%B4%E6%8D%9F%E8%AE%A9%E8%A2%AB%E9%A2%82%E8%80%85%E5%BE%80%E9%87%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA/" target="cdt-mirror">仕图｜拖尼熊：长者时代的春晚为什么能经典频出</a>
+</h2>
+<p><p>这是胡赵时代的春晚，那时的春晚有自娱自乐的气质。粗糙但是好看，从技术上看，还是比较落后的。现在看起来那个时候尺度比较宽，下面的图里，有和尚，有反派穿少数民族的衣服，你现在试试。</p>
+<p>我把这个时代算作春晚的精英时代，只有圈内的行家才能露脸的时代。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-22-19.png" rel="attachment wp-att-428301"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-22-19.png" alt="长者时代的春晚为什么能经典频出" width="362" height="2462"></a><br><em>这是长者时代的春晚节目</em></p>
+<p>第一张是1990年的《小背篓》，第二张是1990年长者突然出现在春晚舞台上。长者时代的春晚是春晚的黄金时代，技术进步了，更多的手段可以玩，一些懂戏剧懂相声的人在自己最好的时候，导演可以大胆一用。</p>
+<p>这是春晚的市民时代，演员来源复杂了，口味上也确实是瞄准着那个时候三十多岁的人的。</p>
+<p>当然，还有1990年的那次直奔台上的加持。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-23-29.png" rel="attachment wp-att-428302"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-23-29.png" alt="长者时代的春晚为什么能经典频出2" width="365" height="2973"></a><br><em>什锦八宝时代的春晚节目</em></p>
+<p>第一张图是2003年，已经换届中。算在后一个时代，陈寒柏那个架势跟诈尸似的。有一年德云社的《我要下春晚》里，谢天顺恶搞了这段“我们村人人都买了等离子大彩电！”</p>
+<p>赵本山仍然穿了马甲，但是自嘲“我是赝品啊”。他说的不是虚心，而是心虚，马甲是在跟自己致敬，他这几年已经非常吃力了。</p>
+<p>过去的时代也有主旋律作品，但是主要还是基于好好做人这点，换句话说，就是小时代、小情怀、小好人。</p>
+<p>但是之后，变成了大盛世、大强国、大圣人的三大戏。</p>
+<p>不是说三大戏不好，过去七成人话，三分圣贤话，这就皮薄馅儿大，这个时代娱乐层面的事没有解决好，颂圣的话就显得特别扎眼。咬一口是面，咬一口还是面，那您就干脆承认自己是肉龙好了。</p>
+<p>赵本山的全面下滑也是问题，不差钱是他的最后一努，确实不错。不过老毕和他的节目功不可没，老毕是人才。</p>
+<p>顺便说一句，雾霾在这两年开始来袭，2010年的时候凤凰传奇唱了《天蓝蓝》，2011年宋祖英又唱了另一首歌，也叫《天蓝蓝》，也是那一年，潘石屹发布了最重要的一条微博“有毒害！”2012年也成了雾霾元年。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-24-14.png" rel="attachment wp-att-428303"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-24-14.png" alt="长者时代的春晚为什么能经典频出3" width="368" height="2682"></a><br><em>2013年之后的春晚</em></p>
+<p>此后春晚特别吃力，演的人吃力，看的人也吃力。请来郭德纲，没用，他不是主创，只是个演员，无非是多给了几分钟时间而已。</p>
+<p>2014年的春晚我没看完，因为有个姑娘老转，我觉得晕，觉得自己可能喝多了，就去睡觉了。</p>
+<p>2015年的春晚里很有意味，注意《强军战歌》，这是2013年的新歌曲，2015年大家学得差不多，就拉上了春晚，《军营绿花》是小情怀，《小白杨》是少年英雄气 ，《说句心里话》也是小人物，但是《强军战歌》不是，没听过的，你们记得里面的两句词：</p>
+<p>“听党指挥”和“决胜疆场”</p>
+<p>过去的三大戏里，还有，哥，嫂子抱着孩子你远远看一眼，现在没有了。</p>
+<p>现在是秩序美铁血美的天下。这是星辰大海的时代。</p>
+<p>当然了，谁的产业谁说了算，中央电视台，宣传当然比收视率重要。</p>
+<p>但是谁期待说渴望昔日的文艺气质回来，那是不会有了。</p>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-24-46.png" rel="attachment wp-att-428304"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA-2016-02-09-21-24-46.png" alt="长者时代的春晚为什么能经典频出3" width="365" height="743"></a></p>
+<p>好在2015年以来出现了新鲜玩意，抢红包。</p>
+<p>全民狂欢而且勤劳致富，在大家摇摇或者咻咻的时候，台上演着节目，所以大家说都懒得吐槽春晚，忙着呢，当然不吐槽了。认真看的都是不用智能机的爷爷奶奶，那也不上网。</p>
+<p>红包救了春晚啊。你去澳门或者拉斯维加斯，手上筹码好像有几个亿，你还在乎墙上的挂画有没有败笔？</p>
+<p>对了，扫了一眼电视，有个小品里有个大胡子演员，我还以为是宋山木出来了，又从台下走到了台上。再看了看，台下还有陈光标。</p>
+<p>不要辜负了这个时代。</p>
+<p><strong>附作者转载要求：</strong></p>
+<p>2015年8月开始仕图已经开放微信公众号转载<br>
+站外转载只要注明<br>
+仕图 （shi4tu2）<br>
+再挂上二维码就可以转载<br><a href="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" rel="attachment wp-att-368426"><img src="http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg" alt="仕图" width="235" height="" srcset="http://chinadigitaltimes.net/chinese/files/2014/10/8-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2014/10/8-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2014/10/8.jpg 258w" sizes="(max-width: 258px) 100vw, 258px"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%95%BF%E8%80%85%E6%97%B6%E4%BB%A3%E7%9A%84%E6%98%A5%E6%99%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%BB%8F%E5%85%B8%E9%A2%91%E5%87%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%9C%AC%E5%B1%B1/?category=18271" rel="tag">赵本山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/428282/" target="cdt-mirror">大家｜高昱：论评论的倒掉与“新话”的全面占领</a>
 </h2>
 <p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg" rel="attachment wp-att-427451"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg" alt="harmonius" width="400" height="502" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius-239x300.jpg 239w, http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg 598w" sizes="(max-width: 400px) 100vw, 400px"></a><p>《敏感词》概念作品／作者：困兽(Twitter @kunshou)</p></div>
@@ -615,84 +692,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%98%A5%E6%99%9A%E7%9A%84%E6%94%BF%E6%B2%BB/" target="cdt-mirror">东网｜乔木：春晚的政治</a>
-</h2>
-<p><p>猴年央视的春节文艺晚会，照例有人关注期盼，当然也有越来越多的人不再理睬。晚会筹备期间，网上有很多舆论，要求有以演猴戏和西游记出名的六小龄童的节目。尽管呼声很大，有呼吁主张的、有调侃讽刺央视的、甚至传言说还有商业炒作，但最终还是没上。</p>
-<p>当然有人喜欢六小龄童，肯定也有人不喜欢，或没有感觉，都很正常，只不过现在是喜欢的发声而已。央视的官媒嘴脸和政治说教，向来招人反感，不过此事做的倒能理解。猴年说猴，鸡年说鸡，12年一循环，了无新意。何况六小龄童在全盛的时期早已上过春晚，现在再上，看扮相没意思，看翻筋斗、耍金箍棒，以现在的年龄有点难为他。孙悟空西游记是以故事和想象展开的，需要外景、特技和集体的配合，不太适合说唱歌舞的晚会。春晚安排了戏曲名角小香玉等的《戏游花果山》，可能更适合。</p>
-<p>许多人之所以反感春晚，是因为一个娱乐节目太讲政治。六小龄童事件上倒看不出政治，但其他节目和整体的安排，政治目的十分明显。每年春晚的结束词，都是朱军或其他主持人，饱含激情的动员：“全党、全军、全国各族人民紧密团结在以某某某为总书记的党中央周围”。顺着这个目的往回看，政治充满春晚的节目。</p>
-<p>过去春晚有“党的政策亚克西”、“大步流星奔小康”的歌舞表演，前两年有歌颂中国梦、一带一路的节目，今年政治说教、革命传统更是大幅增多。红色歌曲“没有共产党就没有新中国”、“过雪山草地”、“山丹丹花开红艳艳”（讲延安的）、“我的祖国”，响彻舞台。还有必不可少的歌颂军队的小品“将军与士兵”、歌曲“铁血忠诚”，歌颂党的领导民族团结的歌舞“在你伟大的怀抱里”。</p>
-<p>春节晚会本来是个娱乐开心的时刻，突出的应该是传统文化、阖家团圆、其乐融融，可是由党的喉舌媒体操办，总是被搞成爱党爱国爱军的政治鸡汤；个人欢乐、家庭祥和的内心感受，总是变成党的领导、军队伟大、国家富强、民族团结的宏大叙事，把建党节、建军节、国庆节的政治说教，熬成一锅红呼呼的杂烩迷魂汤，歌舞送服。</p>
-<p>要说政治，老百姓最感兴趣的政治讽刺、对官员的监督批评，春晚不敢呈现，最大也不过是对县乡领导吃喝、处级干部打乒乓的隔靴搔痒。但是对普通民众、弱势群体的讽刺挖苦，却任性大胆。这么多年来，农民工、残疾人、外地人、外国人、少数民族、老人、妇女、胖子、寡妇、剩女，无数个普通人是春晚取笑讽刺的对象，却从来不触及权力的滥用、官员的丑闻、民众对政治的不满。</p>
-<p>不仅内容，形式上也充满偏见和刻板印象。本来是全国人民的晚会，除了普通话，对方言不该厚此薄彼，可是东北话大行其道，角色安排，上海话小里小气，广东话财大气粗，西北口音憨厚愚笨。总是外交官发来贺电，边防战士坚守哨所，全球华人祝福祖国。老面孔的主持人轮番忽悠，骗你发短信有奖竞猜，评选喜欢的节目，好让他们邀功请赏。各种硬广告、软广告、花钱企业的拜年，从始至终，政治和经济两手抓。</p>
-<p>不管世界和观众怎么变化，春晚的政治和模式顽固不化。而且这几年，大肆推广正能量，重提共产主义理想，强调红色基因，媒体和文艺中的政治更多。政治是为了权力，权力是为了利益。央视春晚的歌舞升平，不过是为了掩盖喉舌操控者的声色犬马、巧取豪夺。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 桂枝药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%98%A5%E6%99%9A%E7%9A%84%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%AF%95%E5%B0%84%E7%96%91%E4%BC%BC%E8%BF%9C%E7%A8%8B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E5%8F%8D%E5%BA%94/" target="cdt-mirror">美国之音｜日本对朝鲜试射疑似远程弹道导弹反应迅速</a>
-</h2>
-<p><p>朝鲜刚把预定发射自称人造卫星“光明星4号”的时间提前一天，日本政府周日（2月7日）早上就报告，朝鲜当天早上日本时间9点31分，在中朝边境的东仓里发射场向太平洋方向试射了一个相信事实上是远程弹道导弹的物体。</p>
-<p>报告说，发射后飞行物分解为5部分，第一部分早上9点37分掉落在朝鲜半岛以西150公里的黄海；两分钟后有两部分掉落在朝鲜半岛西南250公里的东中国海；9点41分左右第四部分飞跃日本冲绳上空，4分钟后掉落在日本以南约2000公里的太平洋；而第五部分在9点39分飞跃冲绳上空后继续向南飞行，其中第四部分掉落在朝鲜预告的区域范围外。</p>
-<p>日本防卫大臣中谷元说，朝鲜周日试射的弹道导弹类似2012年12月朝鲜试射的“大浦洞2号”改良型洲际弹道导弹，并宣布因朝鲜试射物体没有落下日本的迹象，所以日本周六已部署在东京和东京周边，以及冲绳和东中国海、日本海等地区的导弹防御系统都没有启动迎击。</p>
-<p>日本全国警察厅也宣称，没接获有关朝鲜试射引起的损害报告，但警察厅说他们已提升警戒，防备日本右翼组织受朝鲜行动刺激，发起偏激行动。</p>
-<p>炫耀与造势</p>
-<p>日本国际问题研究所客席研究员、前海上自卫队将领金田秀昭对朝鲜周日发射的物体说：“虽然很难说朝鲜发射的物体尖端是包括间谍卫星在内的卫星还是弹头，但明显是过去几年朝鲜很可能也是试射弹道导弹的物体以来，试射更大型物体，技术也已更进一步”。</p>
-<p>共同社分析说，“朝鲜发射远程导弹的目标是开发能抵达美国的洲际弹道导弹，并看来通过这次发射向美国炫耀已达到一定技术阶段”。共同社也说，发射火箭的尖端是搭载卫星还是导弹，推进技术都基本一致。</p>
-<p>日本2013年《防卫白皮书》曾对朝鲜2012年试射弹道导弹说，“朝鲜从东仓里发射火箭”银河3号“运送的远程弹道导弹是”大浦洞2号“改良型，其射程已超过1万公里，可抵美国中部和西部”。共同社比较这次试射指出，“这次试射与2012年轨道基本一致，并可能在技术上更进一步，从朝鲜扩大东仓里发射台的迹象来看，今后继续发射的可能性很大”。</p>
-<p>共同社还分析说，朝鲜继1月实施第四次核试验后，再强行试射弹道导弹，“是基于断定与其和国际社会协调，不如制造朝鲜与国际社会的紧张尖锐，促使内部团结，对巩固金正恩体制基础更为有利，预计到今年5月朝鲜劳动党大会前，朝鲜还将突出强硬路线。”</p>
-<p>关注中国动向</p>
-<p>首相安倍晋三的内阁在朝鲜发射后约一小时回到首相官邸召开紧急会议，安倍下达了全力收集和分析情报以便迅速向国民提供；彻底确认航机和船舶安全；防备不测事态、采取万无一失态势的指令。内阁官房长官菅义伟周日上午则先后召开两次记者会，第一次宣布日本已通过驻北京大使馆向朝鲜提出强烈抗议和严厉谴责，第二次宣布获得安倍指示“研究对朝鲜实施坚决地应对措施”。</p>
-<p>与此同时中谷元向防卫省和自卫队官员发令“继续持有紧张感实施警戒和监视行动”，外相岸田文雄则与有关各国举行电话会谈，谋求国际社会紧密合作行动。日本外务省透露，日本政府分析朝鲜这次试射弹道导弹的目的和今后动向，认为“不能否定朝鲜还会实施包括第五次核试验在内的挑衅行为，日本必须加强警戒”。</p>
-<p>日本政府与美国、韩国在上个月朝鲜实施第四次核试验后，已取得针对朝鲜一致步调的共识，也对中国反对下，联合国安理会至今没通过加强谴责和制裁朝鲜的决议深感不满。同时日本也留意到中国负责朝鲜事务特别代表武大伟日前访朝遭遇冷落与无奈，说明的中朝现实关系。</p>
-<p>周日朝鲜试射后，日本各大传媒都十分关注和议论中国今后是继续姑息朝鲜，还是向日美韩主张制裁朝鲜的立场靠拢，同时一些日媒也开始关心如果中国继续姑息，日美韩将可能采取什么行动，时事通信社指出“预计美国国会可能近期内会通过制裁中国等国与朝鲜交易的个人和团体的相关法案”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%9C%9D%E9%B2%9C%E8%AF%95%E5%B0%84%E7%96%91%E4%BC%BC%E8%BF%9C%E7%A8%8B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E5%8F%8D%E5%BA%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%9D%8E%E6%96%87%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%A9%B6%E7%AB%9F%E5%8F%91%E5%B0%84%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">BBC｜李文：朝鲜究竟发射的是什么？</a>
-</h2>
-<p><p>朝鲜官方通讯社朝中社报道，朝鲜在2月7日成功发射“光明星4号”地球观测卫星。但韩国则认为，朝鲜发射的是一枚“远程火箭”。</p>
-<p>庆祝金正日诞辰日</p>
-<p>朝中社说，朝鲜最高领导人金正恩在6日签署发射“光明星4号”卫星的亲笔命令，而朝鲜在2月7日将新研发的“光明星4号”卫星成功送入轨道。</p>
-<p>朝鲜国家宇宙开发局也在7号发表公告说，在民族最大节日2月16日“光明星节”（朝鲜已故最高领导人金正日诞辰日）到来前夕成功发射卫星，是朝鲜宇宙科技工作者为金正恩同志、朝鲜劳动党、朝鲜国家和人民献上的最忠诚的礼物。</p>
-<p>公告还表示，朝鲜国家宇宙开发局今后将发射更多卫星。</p>
-<p>韩国认为朝发射“导弹”</p>
-<p>而在韩联社引述韩国国防部相关人士表示，朝鲜发射了一枚“远程导弹”。</p>
-<p>有关报道说，导弹一级火箭推进器于9时32分分离，炸成270多块碎片坠入朝鲜半岛西部海域，9时36分从韩方雷达上消失。</p>
-<p>韩国军方表示，为了探测和追踪火箭，韩方启动了宙斯盾舰、“绿松”雷达以及空中预警机等。此外，为了预防火箭脱离预定轨道侵犯韩国领空，爱国者PAC－2型导弹也处于拦截态势。</p>
-<p>曾4次发射卫星</p>
-<p>这次也是朝鲜第五次发射卫星，此前朝鲜曾先后4次发射卫星。</p>
-<p>1998年8月31日，朝鲜首次发射远程导弹，当时朝鲜并没有向国际机构事前通报，而导弹发射后的第4天，朝鲜由宣布其发射的是首颗人造地球卫星“光明星1号”。朝鲜还宣布“光明星1号”发射成功。但美国认为卫星没有进入轨道。</p>
-<p>2006年7月，朝鲜发射“大浦洞2号时”，朝鲜宣布将发射人工卫星，并首次事先通报了国际组织，但是发射后，朝鲜又宣称，成功发射了导弹。</p>
-<p>2009年4月，首次开始向国际组织通报卫星发射计划，朝鲜宣布将发射人工卫星“银河2号”。2009年3月，朝鲜向IMO等国际组织通报称：4月4日到8日将发射人工卫星，结果4月5日朝鲜发射了“银河2号”远程导弹。不过，韩国国防部当时表示说，发射物没有进入预定轨道。美国军方认为，朝鲜当天发射的“导弹”已坠入海中。</p>
-<p>2012年4月13日，朝鲜从平安北道铁山郡的西海卫星发射场发射了首颗应用卫星“光明星3号”，但这颗地球观测卫星没有进入预定轨道。韩国国防部认为，朝鲜的火箭在发射数分钟后即碎成数片并坠毁。朝鲜后来也承认，“光明星3号”未成功进入轨道。</p>
-<p>2012年12月12日，朝鲜从平安北道铁山郡的西海卫星发射场用“银河3号”运载火箭，将第二颗“光明星3号”卫星送入轨道。据朝中社报道，朝鲜最高领导人金正恩当天到卫星控制综合指挥所下达发射“光明星3号”卫星的命令，并观看了卫星发射全过程。</p>
-<p>此前通报均是发射导弹</p>
-<p>虽然朝鲜多次强调，发射卫星均出于国防和科研等和平目的，但美国、日本和韩国对此表示质疑，并认为朝鲜实际是以发射卫星为掩护试射弹道导弹。</p>
-<p>而从朝鲜此前向国际组织通报称将发射卫星的3次先例来看，每次都是发射的是远程导弹，而且发射的时间也在预先通报的时间范围内。因此，由于朝鲜此次也在事先向位于英国伦敦的国际海事机构（IMO）通报了将发射卫星的计划，因此普遍认为，这次朝鲜极有可能又是在发射远程导弹。</p>
-<p>事实上，从技术上来看，从发射卫星的运载火箭到远程导弹只有一步之遥。根据运载火箭的搭载物不同，可以是人造卫星，也可以是有核弹头的导弹。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%9D%8E%E6%96%87%EF%BC%9A%E6%9C%9D%E9%B2%9C%E7%A9%B6%E7%AB%9F%E5%8F%91%E5%B0%84%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -704,7 +703,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -714,5 +713,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

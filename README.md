@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%87%E8%89%BA%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%89%A7%E6%94%BF%E5%85%9A%E6%9C%8D%E5%8A%A1-%E8%BF%99%E4%B8%AA%E9%94%85%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%8D%E8%83%8C/" target="cdt-mirror">文艺为西方执政党服务？ 这个锅奥巴马不背</a>
+</h2>
+<p><p><strong><a href="http://news.xinhuanet.com/comments/2016-02/09/c_1118016819.htm">中青网｜为春晚大力弘扬正能量点赞</a></strong></p>
+<blockquote><p>[…]<br>
+有人总是对春晚发出“一年到头，还能让人娱乐一下吗？”的责难，排斥节目的教育性，单纯强调“笑果”，殊不知这样的责难偏离了文艺的检验标准，如果单纯为了笑个够，大年三十晚关上电视机，让家人挠腋窝就能奏效。</p>
+<p>如果单纯强调娱乐性，几年前个别混进春晚的低俗节目，迎合一些人的阴暗心理，确实也有一定的“笑果”，但社会价值呢？结果是小孩模仿跛足，大人钻研骗术，青年男女学嗲，老人晚节不保学坏。无论走到哪里，无论到哪一天，文艺的社会价值都不容否定。我们需要的是娱乐性和社会性的完美结合，二者不可偏废。</p>
+<p>而用文艺的形式表现一个执政党的大政方针更是天经地义、不可抗拒的事。很多时候，执政党需要文艺为其鼓与呼，<strong><span>就连</span>西方执政党也是如此</strong>。</p>
+<p>举一个例子，去年4月25日，一年一度的白宫记者协会晚宴在美召开。奥巴马在演讲时，特地请来笑星基根·迈克尔·基（Keegan－Michael·Key）担任“愤怒翻译员”为其“助演”，让奥巴马能把一些说不出口的话用别人的嘴说出口。“愤怒翻译员”夸张的肢体语言确实为奥巴马的政策宣讲增色添辉，他的同期翻译表现的更抢镜。<strong>但是，当他的翻译有违奥巴马的初衷时，最终还是被赶下讲台。奥巴马也需要艺术捧场，但最终还是政治第一。</strong></p></blockquote>
+<p>————————-</p>
+<p><strong>中青网真的看不懂白宫记者协会晚宴</strong>（White House Correspondents’ Dinner; WHCD）<strong>的段子？“愤怒翻译员”是被赶下台的？</strong></p>
+<p>2015年的 WHCD，Keegan-Michael Key 和奥巴马<strong>合作表演</strong>了一个娱乐大众的段子。中青网上文提到的“翻译有违奥巴马初衷”被“赶下台”的内容，是段子后半部分奥巴马假装开始无法控制情绪地大吼，“愤怒翻译员”于是假装表示受惊，边说出这句话边走下舞台：</p>
+<blockquote><p>With all due respect sir, you don’t need any translator；you need counseling. So now I’m out of here. May I?<br>
+（先生恕我直言，你不需要什么翻译员，你需要的是心理辅导。那我先撤了，好吗？）</p></blockquote>
+<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/2015WHCD.png" rel="attachment wp-att-428360"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/2015WHCD.png" alt="2015WHCD" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/2015WHCD-300x159.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/2015WHCD-768x406.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/2015WHCD-1024x541.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/2015WHCD.png 3340w" sizes="(max-width: 3340px) 100vw, 3340px"></a><br><em>2015年白宫记者协会晚宴视频截图（<a href="https://youtu.be/G6NfRMv-4OY" target="_blank">Youtube地址</a>）：Keegan-Michael Key 正一脸“惊恐”地制止正在“发脾气”的奥巴马</em></p>
+<p>一年一度现场直播的白宫记者协会晚宴有邀请喜剧演员表演的传统，而那些受邀的演员们也都不负众望，每次都会把在场的和不在场的各种政客损一遍。比如2006年晚宴期间，知名脱口秀主持人<a href="http://baike.baidu.com/view/1771904.htm">Stephen Colbert</a>在台上把时任总统小布什狠狠地讽刺了一番（<a href="https://youtu.be/2X93u3anTco" target="_blank">Youtube视频</a>），坐在一旁的小布什还全程面带笑容，（至少显得）非常愉快。然而众所周知，Colbert 节目的主要形式就是以反讽的方式讥讽共和党及右翼人士，而小布什及其代表的政党长期以来都是 Colbert 的打脸对象。</p>
+<p>截至发稿时，该名“翻译愤怒员”和 Stephen Colbert 都还自由地活着。</p>
+<p></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%87%E8%89%BA%E4%B8%BA%E8%A5%BF%E6%96%B9%E6%89%A7%E6%94%BF%E5%85%9A%E6%9C%8D%E5%8A%A1-%E8%BF%99%E4%B8%AA%E9%94%85%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%8D%E8%83%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E8%B0%A3/?category=18271" rel="tag">官谣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B0%B8%E9%81%A0%E7%AB%99%E5%9C%A8%E5%8F%8D%E6%8A%97%E8%80%85%E4%B8%80%E6%96%B9-%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%9C%83%E5%B0%B1%E4%BA%8C%E6%9C%88%E5%85%AB%E6%97%A5%E6%97%BA/" target="cdt-mirror">永遠站在反抗者一方——港大學生會就二月八日旺角之役聲明</a>
 </h2>
 <p><p>時值新正頭，小販路邊擺賣，銷售魚蛋雞髀，市民樂也融融，本無大礙。然而，食環署連日巡查，趕盡小販自力更新，殺絕黎民度歲雅興。警方又配備盾牌、伸縮棍、胡椒噴霧、紅黃旗幡等到場，刻意挑起民憤。連番衝突過後，警員 PC5619 不顧流彈誤中途人之險，於群眾中鳴槍兩發，終引燃熊熊抗爭烈火，蔓延旺角街頭。</p>
@@ -643,55 +668,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6
 <p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E5%B1%B1%E5%A8%83">文山娃</a>：有网友把我劝进的英文春联装裱出来了。<img src="https://s.w.org/images/core/emoji/72x72/1f64f.png" alt="</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%B5%B5%E5%91%98%E5%A4%96%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E8%B5%B5%E7%AC%91%E8%AF%9D%E4%BA%86/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗赵员外越来越像赵笑话了</a>
-</h2>
-<p><p>1.【台湾地震，消息透明得令人震惊】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/4c79ccf8gw1f0phihvzmcj20ik0qqjzm.jpg" alt="4c79ccf8gw1f0phihvzmcj20ik0qqjzm" width="551" height="794" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/4c79ccf8gw1f0phihvzmcj20ik0qqjzm-208x300.jpg 208w, http://chinadigitaltimes.net/chinese/files/2016/02/4c79ccf8gw1f0phihvzmcj20ik0qqjzm.jpg 668w" sizes="(max-width: 551px) 100vw, 551px"></p>
-<p>图片显示：2016年2月6日03:57，台湾官方获地震报警，至06:30，在短短的2小时33分钟里，发生了这么多令人震惊的应急救灾行动，并于07:40就向国民发布清晰明白的救灾行动公告。从抗震救灾，看国民党与民进党、这党那党的差异。——//@陆伟民律师：注意一个细节，今晨台湾地震，台南一幢高楼倒塌，马英九第一时间赶到救灾中心了解灾情并到医院看望伤员，但他没有到现场指挥抢险，马英九很清楚，自己不是救险专业人员，不应也不允许他在现场指挥，不像在大陆，领导是万能的，地震、爆炸、火灾，处处有可爱的领导们亲临现场指挥。如果此事发生在兲朝，兲朝的媒体们应该是这样报道地震流程的：地震发生后马英九总统立即赶赴现场，做出“三个确保一个必须”的重要指示，高雄市委连夜组织学习并深入探讨马英九指示精神，并亲自指挥救灾工作，目前高雄受灾群众情绪稳定；一个月之后政府会评出不少英模，然后再开表彰大会。。</p>
-<p>2.【老给人擦屁股，外交部郁闷死了】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcx39udj20k00zk76x-576x1024.jpg" alt="d3e9af42gw1f0prcx39udj20k00zk76x" width="550" height="978" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcx39udj20k00zk76x-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcx39udj20k00zk76x.jpg 690w" sizes="(max-width: 550px) 100vw, 550px"></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcxoxsyj20qo1bfq9e-576x1024.jpg" alt="d3e9af42gw1f0prcxoxsyj20qo1bfq9e" width="548" height="974" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcxoxsyj20qo1bfq9e-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/d3e9af42gw1f0prcxoxsyj20qo1bfq9e.jpg 690w" sizes="(max-width: 548px) 100vw, 548px"></p>
-<p>外界猜测政府支持网友攻击蔡英文，外交部发言人表示：这些说法，我不知道有没有什么证据。事实上，在网络安全领域，各种各样说法满天飞，如果我们把精力花在对每一个毫无根据或者说道听途的言论作评论，确实没那么多时间。——外交部这屁股擦的老郁闷了！虽然团中央老是绝得自己是党的一条大腿，不过团中央还真不是政府部门。。——这得多么脑残才能对别人的灾难表现的幸灾乐祸啊？！可惜爱国青年又当了一回夜壶，被你党用完就扔。记住：团永远不能代表党。//@王亚军上海：日本海啸地震，一群人高呼解恨。美国911袭击，这群人庆祝胜利。福岛核事故，还是这群人兴奋不已。法国暴恐袭击，依旧是这群人高兴的大谈报应。台湾地震了，这群人竟然打出“天灭蔡英文”的横幅开心快乐。你们是什么人？你们究竟想要什么样的世界？</p>
-<p>3.【郭台铭宣布捐赠2亿新台币】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/65e1a554jw1f0q0opgidqj20rs0lcdnb.jpg" alt="65e1a554jw1f0q0opgidqj20rs0lcdnb" width="551" height="423" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/65e1a554jw1f0q0opgidqj20rs0lcdnb-300x230.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/65e1a554jw1f0q0opgidqj20rs0lcdnb.jpg 690w" sizes="(max-width: 551px) 100vw, 551px"></p>
-<p>台湾鸿海集团6日晚间表示，董事长郭台铭宣布捐赠1亿元、永龄基金会捐赠1亿元，共2亿元新台币给台当局，协助灾区受难及弱势家庭安置、伤亡抚恤、伤残者辅具补助、灾区儿童教养、及灾民心理复健治疗；他希望抛砖引玉，共助台湾同胞度过难关，天佑台湾。</p>
-<p>4.【说令计划的权力是人民赋予的，有委托书吗？】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/bad67405gw1f0ou5wm351j20ty15bqas.jpg" alt="bad67405gw1f0ou5wm351j20ty15bqas" width="550" height="759"></p>
-<p>@涛声依然3：环球社评称：令计划显然把权力当成了个人财富，当成了他个人奋斗的应有回报。他像是完全忘了权力是党和人民赋予的。PS：令计划的权力是党自己赋予的，跟人民半毛钱关系都没有，别出了事就赖到人民头上，人民什么时候赋予他权力？有他妈的委托书吗？</p>
-<p>5.【为啥不带我们玩了，差哪呢？】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pxio29bwj20cs0kmjsl.jpg" alt="63e10c60gw1f0pxio29bwj20cs0kmjsl" width="461" height="744" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pxio29bwj20cs0kmjsl-186x300.jpg 186w, http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pxio29bwj20cs0kmjsl.jpg 460w" sizes="(max-width: 461px) 100vw, 461px"></p>
-<p>你们一帮国家的穷鬼领导人哪有什么财产可公布的？比如美国副总统穷的都要卖房子…看看俺们兲朝的领导人，随便哪个不是上亿的资产？才不跟你们一起踢屁屁呢。。</p>
-<p>6.【为中共站台死的快】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/005UabKjjw1f0q1qsfkfzj30dj0hq76x.jpg" alt="005UabKjjw1f0q1qsfkfzj30dj0hq76x" width="487" height="638" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/005UabKjjw1f0q1qsfkfzj30dj0hq76x-229x300.jpg 229w, http://chinadigitaltimes.net/chinese/files/2016/02/005UabKjjw1f0q1qsfkfzj30dj0hq76x.jpg 487w" sizes="(max-width: 487px) 100vw, 487px"></p>
-<p>亚视终结，真的终结了！红色资金的注入，犹如帮人注入慢性毒药，不死都好难……没事了就想向中共靠拢，看你能挣扎多久才死而已。</p>
-<p>7.【六年多对多个单位和个人才敲诈了5000元？】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%8D%95%E8%8E%B71191.png" alt="捕获1(191)" width="549" height="361" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/捕获1191-300x197.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/捕获1191.png 630w" sizes="(max-width: 549px) 100vw, 549px"></p>
-<p>甘肃检察院：《兰州晨报》记者张永生以报道负面新闻要挟多个单位和个人，其中敲诈人民币5000元犯罪事实清楚，证据充分。涉嫌嫖娼问题事实不清，证据不足。鉴于涉案金额不大、本人认罪态度较好，已建议对张永生取保候审。后来，@武威公安发博：根据省公安厅决定，武威市公安局已撤销凉州区公安局作出的对张永生行政拘留五日的处罚决定（凉公（刑）行罚决字20169号），并启动国家行政赔偿程序，对执法过错责任人员停止执行职务，依法依规追究执法过错责任。——//@LifeTime:从一开始就断定是非法打压记者，从一开始就断定是警察背黑锅。那些指示警察违法拘押记者的当地书记们一定要等到过完年再辞职吗？赞甘肃警方智慧：1）迅速纠偏警察错误。2）承担警察该承担的责任。剩下的你们找当地书记吧。就应该这样，不能为那些昏官掩盖一切。</p>
-<p>8.【马家军的金牌可能要被追讨了】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006kX7dmgw1f0ox9ex8coj30960dr401.jpg" alt="006kX7dmgw1f0ox9ex8coj30960dr401" width="330" height="495" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/006kX7dmgw1f0ox9ex8coj30960dr401-200x300.jpg 200w, http://chinadigitaltimes.net/chinese/files/2016/02/006kX7dmgw1f0ox9ex8coj30960dr401.jpg 330w" sizes="(max-width: 330px) 100vw, 330px"></p>
-<p>红极一时，数十次破纪录骄人成绩杨威世界的“马家军”被曝高层默许集体服药，以爱国的名义打着国家荣誉的旗号制造出惊世骗局，马家军式的兴奋剂，也给这个国家所谓的“精神”更注入了变态的成分……正如当初的国家游泳队的辉煌丑闻一般，国际田联开始调查“马家军”服药事件，曾经傲娇的记录与奖牌或被取消……</p>
-<p>9.【这么轻的惩罚如同隔靴搔痒】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/61e04755jw1f0phuzqu0yj20fd09hq4a.jpg" alt="61e04755jw1f0phuzqu0yj20fd09hq4a" width="548" height="338" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/61e04755jw1f0phuzqu0yj20fd09hq4a-300x185.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/61e04755jw1f0phuzqu0yj20fd09hq4a.jpg 553w" sizes="(max-width: 548px) 100vw, 548px"></p>
-<p>财经网消息：黄兴国表示，天津港爆炸调查结论实事求是，处理意见依法依规，充分体现了对人民群众生命财产安全高度负责的精神。坚决拥护国务院的调查和处理决定，诚恳接受通报批评，并向党中央、国务院作出深刻检查。——出了这么大的事情，你这轻描淡写的检查有个屁用？应该辞职才对吧？那些因此爆炸事件死掉的人和损失掉的财产就这么灰飞烟灭了？</p>
-<p>10.【高瑜想出国治病？没门儿 …… 】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/006fW5JIgw1f0pi620p6wj30hs28z1e9-225x1024.jpg" alt="006fW5JIgw1f0pi620p6wj30hs28z1e9" width="225" height="1024"></p>
-<p>几个月前获释时，当局曾经承诺将负担她的退休以及医疗等费用，但是承诺至今并未兑现。因此高瑜还是出不去。。估计兲朝政府是不敢放她出去的，因为她的思想和嘴巴都太厉害。。</p>
-<p>11.【若属实，医生们赶紧逃命去吧】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/a5b7f87cgw1f0q08dipl6j20hs0nqgn1.jpg" alt="a5b7f87cgw1f0q08dipl6j20hs0nqgn1" width="549" height="733" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/a5b7f87cgw1f0q08dipl6j20hs0nqgn1-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/a5b7f87cgw1f0q08dipl6j20hs0nqgn1.jpg 640w" sizes="(max-width: 549px) 100vw, 549px"></p>
-<p>这告示最后一句霸气侧漏。什么时候部队搞起医疗鉴定了？这支部队的领导真是为兵着想，佩服！佩服！中国医生苦啊，卫计委太怂，看看人家《我部不排除武力解决医疗纠纷的可能……》， 把对付钓鱼岛的劲用到医院啦。。俺们想知道军队怎么介入？包围？占领？消灭？“必要时介入”是说要军舰炮口瞄准医院吗？ 目测医院将被迫签署一系列“丧权辱院”的不平等条约…</p>
-<p>12.【赵员外越来越像赵笑话了】</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pys2fcf4j20yi1pck1b-1-576x1024.jpg" alt="63e10c60gw1f0pys2fcf4j20yi1pck1b" width="469" height="834" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pys2fcf4j20yi1pck1b-1-576x1024.jpg 576w, http://chinadigitaltimes.net/chinese/files/2016/02/63e10c60gw1f0pys2fcf4j20yi1pck1b-1.jpg 690w" sizes="(max-width: 469px) 100vw, 469px"></p>
-<p>过年了，朝鲜的金三胖要给兲朝送个大礼。据报道，朝鲜半岛事务特使武大伟目前已经结束对朝鲜的访问返回，他表示“该说的都说了”，但是结果尚不很明确。——无可奈何的赵家？没能耐的窝囊废吧。呵呵。。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%B5%B5%E5%91%98%E5%A4%96%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E8%B5%B5%E7%AC%91%E8%AF%9D%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98-%E8%B5%B5%E5%91%98%E5%A4%96/?category=18271" rel="tag">兲朝浮世绘 赵员外</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84/?category=18271" rel="tag">卫星发射</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B9%B4%E7%A4%BC%E7%89%A9/?category=18271" rel="tag">新年礼物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E5%A4%A7%E4%BC%9F/?category=18271" rel="tag">武大伟 </a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -703,7 +679,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -713,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

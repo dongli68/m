@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">【图说天朝】孝顺走肖家</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmxlu05j20j70csq4k.jpg" rel="attachment wp-att-428473"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmxlu05j20j70csq4k.jpg?resize=485%2C323" alt="90b3b535gw1f0vcmxlu05j20j70csq4k" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmxlu05j20j70csq4k.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmxlu05j20j70csq4k.jpg?w=691 691w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmyymsnj20j20cqabj.jpg" rel="attachment wp-att-428472"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmyymsnj20j20cqabj.jpg?resize=485%2C324" alt="90b3b535gw1f0vcmyymsnj20j20cqabj" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmyymsnj20j20cqabj.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmyymsnj20j20cqabj.jpg?w=686 686w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmytpm5j20j30crjsz.jpg" rel="attachment wp-att-428471"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmytpm5j20j30crjsz.jpg?resize=485%2C324" alt="90b3b535gw1f0vcmytpm5j20j30crjsz" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmytpm5j20j30crjsz.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmytpm5j20j30crjsz.jpg?w=687 687w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk.jpg" rel="attachment wp-att-428470"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk.jpg?resize=485%2C324" alt="90b3b535gw1f0vcmzhbygj20ja0cvdhk" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk.jpg?w=694 694w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhdmmj20ja0csgn7.jpg" rel="attachment wp-att-428469"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhdmmj20ja0csgn7.jpg?resize=485%2C321" alt="90b3b535gw1f0vcmzhdmmj20ja0csgn7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhdmmj20ja0csgn7.jpg?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhdmmj20ja0csgn7.jpg?w=694 694w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcn09l7jj20jb0csmyv.jpg" rel="attachment wp-att-428468"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcn09l7jj20jb0csmyv.jpg?resize=485%2C321" alt="90b3b535gw1f0vcn09l7jj20jb0csmyv" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcn09l7jj20jb0csmyv.jpg?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcn09l7jj20jb0csmyv.jpg?w=695 695w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/2535191304/DhlBor2TR">@LeMcDull</a>：央视新闻都开始弄这种，右上角的“走”字真讽刺，不愧是走国，时刻教育全民要孝顺走家人</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcn09l7jj20jb0csmyv-copy.jpg" rel="attachment wp-att-428476"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcn09l7jj20jb0csmyv-copy.jpg?resize=169%2C83" alt="90b3b535gw1f0vcn09l7jj20jb0csmyv copy" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/107111_1291_1316696397488.jpg" rel="attachment wp-att-428481"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/107111_1291_1316696397488.jpg?resize=291%2C219" alt="107111_1291_1316696397488" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="https://twitter.com/badiucao/status/684984449541357568">@badiucao</a>: #巴丢草 漫画 【#你也配姓赵？】分分的钟敏感词，让 #赵 字从此消失。</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CYGNuf5VAAA1NT_.png" rel="attachment wp-att-428477"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CYGNuf5VAAA1NT_.png?resize=400%2C400" alt="赵家人" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CYGNuf5VAAA1NT_.png?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CYGNuf5VAAA1NT_.png?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CYGNuf5VAAA1NT_.png?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CYGNuf5VAAA1NT_.png?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CYGNuf5VAAA1NT_.png?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p><strong>原来CCTV一直都在以自己的方式来提醒观众。</strong></p>
+<p>（编者注：赵国＝走国＝走肖国＝走x国）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%B9%B8%E7%A6%8F%E5%90%97/?category=18271" rel="tag">你幸福吗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%B9%B8%E7%A6%8F/?category=18271" rel="tag">被幸福</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%BD%91%E7%BA%A2-%E6%9D%91%E9%87%8C%E9%9C%80%E8%A6%81%E4%BD%A0/" target="cdt-mirror">【麻辣总局】网红 村里需要你</a>
+</h2>
+<p><p>过年了。琳达、薇薇安、Julia又变回了翠花、小红、丫蛋，这根本不是个段子啊，这是现实，据说，回家的网友们纷纷晒出了自己在村里的照片，让同事们惊掉了眼镜！</p>
+<p>为什么一到过年网红就销声匿迹了……</p>
+<p>下面的图就是原因！</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B61.jpg?resize=497%2C497" alt="网红回家1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家1.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家1.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家1.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家1.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家1.jpg?w=497 497w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B62.jpg?resize=497%2C497" alt="网红回家2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家2.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家2.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家2.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家2.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家2.jpg?w=497 497w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B63.jpg?resize=497%2C497" alt="网红回家3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家3.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家3.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家3.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家3.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家3.jpg?w=497 497w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B64.jpg?resize=440%2C440" alt="网红回家4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家4.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家4.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家4.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家4.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家4.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B65.jpg?resize=497%2C497" alt="网红回家5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家5.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家5.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家5.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家5.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家5.jpg?w=497 497w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B66.jpg?resize=440%2C783" alt="网红回家6" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B67.jpg?resize=440%2C783" alt="网红回家7" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B68.jpg?resize=497%2C497" alt="网红回家8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家8.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家8.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家8.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家8.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家8.jpg?w=497 497w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B69.jpg?resize=440%2C586" alt="网红回家9" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家9.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家9.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B610.jpg?resize=440%2C618" alt="网红回家10" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B611.jpg?resize=366%2C633" alt="网红回家11" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B612.jpg?resize=440%2C387" alt="网红回家12" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家12.jpg?resize=300%2C264 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家12.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B613.jpg?resize=440%2C317" alt="网红回家13" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家13.jpg?resize=300%2C216 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家13.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B614.jpg?resize=440%2C606" alt="网红回家14" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家14.jpg?resize=218%2C300 218w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家14.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B615.jpg?resize=356%2C633" alt="网红回家15" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B616.jpg?resize=440%2C587" alt="网红回家16" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家16.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家16.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B617.jpg?resize=640%2C853" alt="网红回家17" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家17.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家17.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B618.jpg?resize=440%2C440" alt="网红回家18" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家18.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家18.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家18.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家18.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网红回家18.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>一家三口，回家前回家后……<img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B619.jpg?resize=364%2C945" alt="网红回家19" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B620.jpg?resize=364%2C945" alt="网红回家20" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E7%BA%A2%E5%9B%9E%E5%AE%B621.jpg?resize=364%2C945" alt="网红回家21" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%BD%91%E7%BA%A2-%E6%9D%91%E9%87%8C%E9%9C%80%E8%A6%81%E4%BD%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E5%AE%B6/?category=18271" rel="tag">回家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%8A%82/?category=18271" rel="tag">春节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%B4%E5%B9%B4%E6%98%A5%E8%8A%82/?category=18271" rel="tag">猴年春节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%87%E5%B9%B4/?category=18271" rel="tag">过年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BB%8F%E4%BA%BA%E9%81%93%E4%B8%AD%E5%9B%BD%E6%95%91%E5%8A%A9-%E9%99%88%E6%AC%A3%E6%9C%88%E6%9D%A5%E5%88%B0%E7%BE%8E%E5%9B%BD/" target="cdt-mirror">自由亚洲｜经“人道中国”救助 陈欣月来到美国</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/a3ba755f-726f-4214-9622-f40efcd3327c.jpeg" rel="attachment wp-att-428458"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/a3ba755f-726f-4214-9622-f40efcd3327c.jpeg?w=575" alt="陈欣月（中）与张前进夫妇（张前进提供）" height="" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/a3ba755f-726f-4214-9622-f40efcd3327c.jpeg?resize=300%2C237 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/a3ba755f-726f-4214-9622-f40efcd3327c.jpeg?w=622 622w" sizes="(max-width: 622px) 100vw, 622px" data-recalc-dims="1"></a><p>陈欣月（中）与张前进夫妇（张前进提供）</p></div>
+<p>经美国华人“人道中国”组织救助，去年 4 月 30 日被中共以“煽动颠覆国家政权罪”和“寻衅滋事罪”逮捕入狱的四川著名民运人士陈云飞 19 岁的女儿陈欣月，成功来到美国。“人道中国”为她办好了入学手续并筹得头一年的学费和生活费，近日，陈欣月进入维吉尼亚州的一间大学，开始了她在美国的学习生活。</p>
+<p>陈云飞原为北京农业大学的学生，曾参加 89 民运。六四屠杀至今 26 年来，他坚持 89 民运的理念矢志不渝。 2007 年的六四 18 周年纪念日，陈云飞曾因在《成都晚报》上刊登“向坚强的 64 遇难者母亲致敬”的广告被当局关押，而后又因纪念赵紫阳和茉莉花革命被软禁。 2015 年 3 月 25 日，陈云飞与其他 20 多人为在 89 六四屠杀中死难的四川学生扫墓，被警察拦截带走，以“煽动颠覆国家政权”和“寻衅滋事”的罪名将其拘捕。</p>
+<p>长期被当局监控和关押的陈云飞，无法照顾自己的家庭，女儿陈欣月自小就生活在恐怖的环境中，她有极度的不安全感，甚至不敢直视陌生人的眼睛。陈欣月的处境引起“人道中国”的关注。负责救助陈欣月离开中国的“人道中国”理事张前进对记者说：“陈云飞这么多年还在坚持理念，为了把中国建成一个自由民主的国家付出了很多代价，颠沛流离，身无分文。这次在大规模抓捕中又被抓进去了，让我们对他有更多的关注。我们想到他的女儿在这种环境下肯定不会有一个好的发展，所以 就想到帮助他出来受教育，让他脱离那个专制体制。”</p>
+<p>“人道中国”在今年元旦前，为陈欣月申请学校。在 1 月下旬接到入学通知的第二天，陈欣月便飞来美国。警方发现后试图阻挠，已经来不及了。</p>
+<p>张前进表示：陈欣月到达美国时，不是新生入学的时间，学校破例接收了这位来自中国的苦难的孩子。张前进说：“那是一间很好的基督教学校，校园环境很美，是个读书的地方。那里就是一个大学城，很大，几万学生在一起，基督教的氛围很浓。我们想让她进入一个友爱的环境，对她的心灵也是一个疗伤的过程。”</p>
+<p>记者无法采访到陈欣月本人，但收到了《人道中国》主席葛洵传来的陈欣月来美国后写的一篇短文，讲述她的爸爸、妈妈和自己在中国经受的苦难。陈欣月的文章最后写道：“爸爸知道他有一天会彻底失去自由，爸爸是一个很公义好怜悯的人，但是这样的人却成为维稳监控的对象，所以我想走出去看看不同的世界，这也是到美国来学习的原因之一；之二我希望自己可以见识渊博，希望自己独立自主，有一个更好的前途，在未来的日子里让妈妈可以过上更好的生活来弥补爸爸对妈妈的亏欠。”</p>
+<p>（特约记者： CK 责编:何平）<br><strong><br>
+附陈欣月的短文：</strong></p>
+<p>从我很小的时候爸爸就开始了维权，后来经常被关押，全国各地 38 个警察局都有关押和审讯他，全国估计就他一个这么牛的了。自从他开始维权之后我们一家人时常担心害怕，他因为维权的事没有尽到一个父亲该有的责任，我一直是妈妈一个人带大的，他也没有给过抚养费之类的。</p>
+<p>在上初中时，妈妈告诉我有警察常常到我们家里来询问爸爸的情况，因为这件事周围的人都会议论纷纷，对我们家里人造成了很大的影响。</p>
+<p>有一次我在学校读书，有两个警察来接我回家，说是爸爸的朋友。朋友们都询问我关于我被带走这件事，当时还小不知道怎么回事，后来知道真相后感觉自己和普通孩子有些不一样，上课时也常常为这件事走神。再后来爸爸来我家我也看见了他脸上有被打了的淤青。</p>
+<p>爸爸常年在外维权，很少回家，他对那个国家的大爱多于我们这个小家。他没有收入，却常年为冤屈者呐喊，这些全是他自己掏钱，以至于对家庭几乎没有供给，但我知道他是爱我的，他让我到冉云飞叔叔家学古文，增长知识。</p>
+<p>爸爸知道他有一天会彻底失去自由，爸爸是一个很公义好怜悯的人，但是这样的人却成为维稳监控的对象，所以我想走出去看看不同的世界，这也是到美国来学习的原 因之一；之二我希望自己可以见识渊博，希望自己独立自主，有一个更好的前途，在未来的日子里让妈妈可以过上更好的生活来弥补爸爸对妈妈的亏欠。</p>
+<p>（“人道中国”提供）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%BB%8F%E4%BA%BA%E9%81%93%E4%B8%AD%E5%9B%BD%E6%95%91%E5%8A%A9-%E9%99%88%E6%AC%A3%E6%9C%88%E6%9D%A5%E5%88%B0%E7%BE%8E%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E9%81%93%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">人道中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">陈云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%AC%A3%E6%9C%88/?category=18271" rel="tag">陈欣月</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E5%A4%A7%E6%97%BA%E5%8D%B4%E8%90%BD%E7%94%BB-%E7%96%91%E9%99%A2%E5%95%86%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">自由亚洲｜《十年》大旺却落画 疑院商自我审查</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg" rel="attachment wp-att-428418"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg?w=575" alt="香港独立电影《十年》为香港探讨未来出路，由5名新晋导演合作拍摄，院商疑自我审查，票房急升仍在新春落画。（照片来自欧文杰，拍摄日期不详）" height="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg?w=622 622w" sizes="(max-width: 622px) 100vw, 622px" data-recalc-dims="1"></a><p>香港独立电影《十年》为香港探讨未来出路，由5名新晋导演合作拍摄，院商疑自我审查，票房急升仍在新春落画。（照片来自欧文杰，拍摄日期不详）</p></div>
+<p>香港独立电影《十年》以低成本拍出香港人心声，获得网民回响，上映近8星期，票房累计突破500万，并且获提名香港电影金像奖。惟在票房佳绩情况下，院商突然宣布在农历新年落画，导演坦言感到失望，不排除是院商自我审查。（海蓝报道）</p>
+<p>电影《十年》由于题材敏感，涉及港独、自焚及中港矛盾，去年12月中仅获百老汇电影中心上映，观众口碑不错，票房甚佳，其他院线陆续加入，但在1月中旬，百老汇院线在票房不错的情况下落画﹔<strong>官媒环球时报更发表评论抨击电影提倡港独后，票房大卖，连续4星期位列香港十大票房榜</strong>。临近农历新年前数天，《十年》正在票房急升，其他院线郤宣布新年落画。</p>
+<p>《十年》导演之一欧文杰表示，他听到这个消息后，感到愤怒失望，他也有涉猎商业电影，电影落画主要因为入座率低，但《十年》入座率九成，郤要落画，这个有违他的认知及逻辑思维。观众可以问，该电影几乎场场爆满，其中星影汇过年前放映，大院400多个座位，场场爆满，令《十年》票房位列第4、5位，不明院商为何落画，到底巿场运作是否有压力，抑或院商自我审查，如果自我审查，实属可悲也很心痛。</p>
+<p>欧文杰说：但会否是自己(院商)害怕，我见其他戏院都不放映，我也不继续播。或又害怕引起中央不高兴而封杀，那我觉得很可悲。原来今时今日，所谓言论自由，我们制作了一部电影，这个自由到底是什么。</p>
+<p>现年34岁的欧文杰，香港演艺学院导演系毕业，所执导的短片“方言”探讨10年后，当广东话变成方言后的港人处境。他表示，在构思10年后的香港题材时，他很快想到语言，整个地方的语境心态不同，他想探讨10年后广东话在香港的地位如何改变，以及政府政策对本土人士是否有足够关注。这部短片不是排斥普通话，而是广东话改变地位后，影响香港巿民日常生活，当局是否照顾到香港巿民。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg" rel="attachment wp-att-428417"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?w=575" alt="电影《十年》是以2025年的香港为题材，预测这个城巿未来情况。（照片来自欧文杰，拍摄日期不详）" height="" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?resize=1024%2C682 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?w=1600 1600w" sizes="(max-width: 1600px) 100vw, 1600px" data-recalc-dims="1"></a><p>电影《十年》是以2025年的香港为题材，预测这个城巿未来情况。（照片来自欧文杰，拍摄日期不详）</p></div>
+<p>电影其中一单元”自焚者”被外界认为具有感染力，因为题材涉及港独人士自焚抗议。现年36岁的导演周冠威，同样于香港演艺学院导演系毕业。他指出，自焚者的题材在2009年已经萌芽，香港人当时争取2012年双普选，高官及中央的说话令他觉得无可能，没法兑现普选承诺，他感到愤慨失落，他在思考香港究竟有何出路。他在2009年写下一个短故事，谈及香港独立、通识教育，借港独这个敏感话题，其实在谈独立思考。中国给香港一些扭曲及不符现实的概念，甚至在这一刻，“港独”这两个字彷如邪教，他对此感到奇怪，香港有言论自由，这只是其中一个政制，为何不准思考，甚至不准说，这怎能令社会进步，于是写下这个故事。</p>
+<p>直至2014年，《十年》的策划人伍嘉良邀 请他合作拍摄，一部为香港将来探讨出路的电影，周冠威于是把2009年的故事改编，借港独题材探讨思想自由、人追求的价值，变成“自焚者”的故事。他表示，开拍时资源极度短缺，每个故事约有10万元制作费，整部电影花费50万元。当时没想过在戏院放映，以为在社区放映，然后做分享会。</p>
+<p>周冠威指，“自焚者”没有残忍的镜头，他是探讨自焚者的牺牲精神，所以电检处没有删剪，电影被列为2级半而矣。被问到若“自焚者”在中国放映，能否通过其审查制度，他相信没法通过审查，甚至有人说他拍过这类政治敏感题材，或会影响他在中国发展。周冠威表示，没想过这些，他认为电影是艺术，有其社会功能，电影要说真话，这些价值高于是否赚钱。</p>
+<p>周冠威说：所以我们看的不是巿场，而是看电影是否有政治影响，是否在说真话，甚至夸张一点说，是否合符道德。我想引述一句电影内的对白，“政治的根本其实是道德”。</p>
+<p>《十年》是以2025年的香港为题材，预测这个城巿未来的情况。电影由5个故事构成，分别是《浮瓜》、《冬蝉》、《方言》、《自焚者》及《本地蛋》。电影引起国际关注，并登上美国广播公司CNN的头条，但中国官媒环球时报则批评该电影宣扬絶望、完全荒诞等，并形容为“思想病毒”。</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E5%A4%A7%E6%97%BA%E5%8D%B4%E8%90%BD%E7%94%BB-%E7%96%91%E9%99%A2%E5%95%86%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%92%8B%E5%BE%B7%E6%B5%B7%EF%BC%9A%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%BA%E6%B3%95%E8%A5%BF%E6%96%AF%E6%89%80%E5%88%A9%E7%94%A8%E7%9A%84%EF%BC%9F/" target="cdt-mirror">炎黄春秋｜蒋德海：共同富裕是怎么为法西斯所利用的？</a>
 </h2>
 <p><p>共同富裕是社会主义的理念。<strong>但在上世纪30年代，这个美好的理念，成为纳粹欺骗和蛊惑人心的口号，并以此为基础，瓦解和粉碎了德国从康德、洪堡等思想家逐步建立起来的法治国家理念，最终将德国人民绑架到了法西斯的战车之上，给世界带来了巨大的灾难。</strong></p>
@@ -568,128 +649,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%97%BA%E8%A7%92%E7%A4%BA%E5%A8%81%E8%80%85%E6%8A%95%E6%8E%B7%E7%A0%96%E5%A4%B4%E6%94%BB%E5%87%BB%E8%AD%A6%E5%AF%9F/" target="cdt-mirror">蘋果即時｜旺角騷亂</a>
-</h2>
-<p><p>另據<a href="http://hk.on.cc/hk/bkn/cnt/news/20160209/bkn-20160209085457191-0209_00822_001.html?eventid=402882b1528631480152c2a404444e2a&eventsection=hk_news">東網報導</a>：</p>
-<blockquote><p>旺角騷亂擾攘一整晚後，警方今早採取行動清場，警員在街道上仔細搜查可疑人士，行動中拘捕多名男女，至少10人鎖上手銬被捕，警員將部分人士按在鐵閘上，鎖上手銬，當中曾有人反抗受傷，需由救護車送院。<br>
-至8時許，街道上的暴徒已陸續散去，警員亦開始收拾裝備，街道在騷亂過後顯得凋零，有警員在場評估情況，準備稍後將封鎖的街道重開，受事件影響港鐵旺角站仍然關閉，花園街及西洋菜南街等多條被封鎖道路，亦已恢復通車。</p></blockquote>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b.jpg" rel="attachment wp-att-428108"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b.jpg" alt="bkn-20160209043925492-0209_00822_001_01b" width="550" height="393" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b-300x214.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/bkn-20160209043925492-0209_00822_001_01b.jpg 750w" sizes="(max-width: 550px) 100vw, 550px"></a><p>東網：示威者將垃圾筒等雜物點燃，現場火光熊熊。</p></div>
-<p><strong>蘋果即時：<a href="http://hk.apple.nextmedia.com/realtime/breaking/20160208/54740407">【旺角騷亂】更新開槍片段: 警員開兩槍全程直擊</a></strong></p>
-<p>【早上8時10分 速龍小隊將人群推到快富街與洗衣街交界，現時結集的人眾不多。而山東街與亞皆老街一段洗衣街封閉。】</p>
-<p>【早上8時 兩批示威者分別集結在洗衣街與山東街，與及洗衣街與亞皆老街，與警員對峙。】</p>
-<p>【早上7時55分 大批示威者與警察對峙。】</p>
-<p>【早上7時40分 示威者一度在現場追逐，有人更焚燬垃圾桶，街頭仍有火頭。】</p>
-<p>【早上7時15分 警方衝出拘捕多名示威者。】</p>
-<p>【早上7時10分 警方在鼓油街作出警告，準傋清場。】</p>
-<p>【早上7時 示威者仍未散去，豉油街仍有火頭，燶煙沖天。】</p>
-<p>【早上6時30分，速龍小隊推進至山東街與豉油街交界，沿途遭到示威者投擲磚塊，附近街頭出現多處火頭。警方在豉油街與通菜街與示威者對峙，一名有線電視記者頭部受傷】</p>
-<p>【早上6時25分，旺角廣華街一帶，示威者焚燒雜物，令整條街濃煙密佈，現場有多處火頭。】</p>
-<p>【早上6時 速龍小隊進入西洋菜南街進行清場，示威者與警方衝突，一度企圖燒的士。】</p>
-<p>【早上6時 約50速龍小隊到彌敦道部署，警方在凌晨5時45分發出通告如下，就現時在旺角彌敦道一帶發生混亂及衝突的情況，並有群眾不斷挑釁警方，警方呼籲公眾人士保持克制，聽從警方指示，盡快離開現場。<br>
-警方重申，香港社會認同要以理性、和平的方式表達訴求，警方絕不容許破壞公共秩序和公共安全的行為。如有違法行為，警方定會果斷執法。】</p>
-<p>【凌晨5時50分 消防在彌敦道及鼓油街界開喉救火，示威者掟磚頭還擊。】</p>
-<p>【凌晨5時25分 彌敦道再起街突，西洋菜南街一帶，出現最少5處火頭，示威者在路中焚燒雜物，阻止警員向前推進，警員則在山東街附近進行部署。】</p>
-<p>【凌晨5時15分 旺角地鐵站封閉】</p>
-<p>【凌晨5時，彌敦道近豉油街，一部警車遭示威者投擲硬物毀壞，警員輕微損毀，車上警員隨即落車喝止，示烕者即四散逃去。】</p>
-<p>【凌晨4時15分，多處地方發生警民衝突，有警員遭示烕者包圍攻擊，現場有幾十人包圍多名警員，並拋擲雜物及持木棍擊襲警員，有身穿便裝男子倒地後再遭人圍毆，而一邊則有警員採取行動，將多名示烕者制服拘捕，同時，在西洋菜南街與山東街交界，示威者將大批雜物堆在馬路焚燒冒煙，火舌高達3米。</p>
-<p>【凌晨4時，在旺角山東街近彌敦道發生激烈衝突，警員準備將示威者，由山東街推向西洋菜街南街時，示威者反抗撿起磚塊擲向警員，混亂中，有警員中磚倒地，警員被迫退回彌敦道。</p>
-<p>【凌晨3時30分，一隊警員在彌敦道銀行中心對開，在馬路中央一字開驅散人群，準備向亞皆老街方向推進，示威者將雜物擲向警員，一批雜物被推出馬路，現場傳出不明氣味令人感到刺鼻。</p>
-<p>【凌晨3時，亞皆老街與彌敦道交界一帶交通停頓，大批示威者與警員發生衝突。】</p>
-<p>【凌晨2時30分，警員開槍事件發生後，大批增援警員趕到現場，將示威者驅散，人群情激開始失控，有人在馬路中堆放雜物放火，冒出濃煙，在快富街與砵蘭街交界及彌敦道與奶路臣街交界，均出現焚燒雜物事件，分別由消防員及警員救熄。】</p>
-<p>現場直播 即時follow【現場－蘋果突發】fb！http://fb.com/applecitycrime<br>
-【凌晨2時，有人將垃圾及筒及雜物拖出亞皆老街，場面混亂，一批示威者與一隊警員發生衝突，示威人士向警員投擲雜物，包括玻璃樽，磗塊及雜物，其間有人持木板襲擊警員，有警員拔出佩槍指向天空，稍後聽到一響槍聲，示威人士指罵開槍警員，有多名激動人士持木板衝向開槍警員，混亂中，再聽到一聽槍響，警員槍嘴發出火花，相信警員向天開槍，大批市民指罵開槍警，開槍警員將手槍插回槍袋，由同袍護送離開現場。】</p>
-<p>【凌晨1時45分，有人群衝向防暴警員，雙方發生衝突，有人向警員投擲雜物，警員動用武力將人群驅散，雙方現時仍然對峙，警方將防線由山東街向亞皆老街推進，前進至約100米，至朗豪坊對開，警員在路中築起盾牌。】</p>
-<p>【23:59更新：旺角小販檔現場再爆衝突，據知，事發時有本土派人士在場聲援小販擺檔，惟警方要求有關人士離開，雙方爆發衝突，警方一度舉紅旗，更多次噴出胡椒噴霧，現場相當混亂。】</p>
-<p>【23:15更新：旺角小販抗爭暫告一段落，現場回復平靜。如有進一步情況，記者會再次為大家更新報道。】</p>
-<p>晚上10時許，旺角朗豪坊外爆發小販衝突！受事件影響，車輛無法由彌敦道轉入山東街，場面一度混亂。</p>
-<p>據知事源在衝突期間，一部紅的駛入現場，惟不慎撞到一名路經的老伯腳部，引發在場人士起哄，阻止肇事的士離開；警方恐有人對該的士作出破壞，於是築成人牆將的士圍起，阻擋在場人士靠近。當時氣氛一度緊張，現場消息指，警方一度高舉黃旗，警告在場人士勿超越封鎖線。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%97%BA%E8%A7%92%E7%A4%BA%E5%A8%81%E8%80%85%E6%8A%95%E6%8E%B7%E7%A0%96%E5%A4%B4%E6%94%BB%E5%87%BB%E8%AD%A6%E5%AF%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">示威游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">警民冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%9C%AC%E5%9C%9F%E6%B4%BE/?category=18271" rel="tag">香港本土派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%AF%92%E8%88%8C%E7%9A%84%E8%88%8C%EF%BD%9C%E6%88%91%E4%BB%AC%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9F%A5%E9%81%93%E7%9A%87%E5%B8%9D%E5%85%89%E7%9D%80%E5%B1%81%E8%82%A1/" target="cdt-mirror">毒舌的舌｜我们知道别人知道皇帝光着屁股</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%9A%E5%85%8B%E8%A5%BF.png" rel="attachment wp-att-428101"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%9A%E5%85%8B%E8%A5%BF.png" alt="党的政策亚克西" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/亚克西-300x209.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/亚克西.png 635w" sizes="(max-width: 635px) 100vw, 635px"></a><br><em>（网络图片）</em></p>
-<p><strong>文/西坡</strong></p>
-<p>猴年供给侧春节联欢晚间红领巾政治学习大会之后，出现了一副诡异的场景。</p>
-<p>一边是骂声如潮、吐槽如海、段子成灾，一边是“我给自己打一百分”、“好评如潮，获无数点赞”。</p>
-<p>是他们瞎了，还是我们瞎了？指鹿为马的传统美德就这么容易发扬光大？许多人不禁陷入深深的思考。</p>
-<p>其实这是一个进阶版“皇帝的新衣”故事。</p>
-<p>传统版“皇帝的新衣”说的是，一个天真的小孩，戳穿了一位光屁股的皇帝。故事到此结束。</p>
-<p>现实比童话复杂得多。</p>
-<p>在现实中，皇帝从来不穿衣服。我们也知道皇帝光着屁股。皇帝也知道我们知道皇帝光着屁股。</p>
-<p>为什么皇帝还是敢于光着屁股走街串巷？因为皇帝知道我们虽然知道他光着屁股，但皇帝更知道，我们不知道有多少人知道他光着屁股。</p>
-<p>皇帝还知道，我们即使知道别人知道皇帝光着屁股，我们也不知道别人知不知道我们知道皇帝光着屁股。</p>
-<p>互联网就像一道光，照穿了原本遮盖严密的墙。</p>
-<p>现在我们知道别人知道皇帝光着屁股，也知道别人知道我们知道皇帝光着屁股。</p>
-<p>可是给皇帝通风报信的人，还要假装我们不知道皇帝光着屁股，更要假装我们不知道所有人都已经知道皇帝光着屁股。所以有了“一百分”和“好评如潮”。</p>
-<p>现在的问题是，有人想要我们相信别人不知道皇帝光着屁股。如果相信别人不知道皇帝光着屁股的人足够多，那么皇帝是不是光着屁股就不重要了。</p>
-<p>有人说，红领巾大会太烂，骂它就是浪费时间。不，我们的目的是让越来越多的人知道，大家都已经知道皇帝光着屁股。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%AF%92%E8%88%8C%E7%9A%84%E8%88%8C%EF%BD%9C%E6%88%91%E4%BB%AC%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9F%A5%E9%81%93%E7%9A%87%E5%B8%9D%E5%85%89%E7%9D%80%E5%B1%81%E8%82%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/?category=18271" rel="tag">指鹿为马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9A%87%E5%B8%9D%E7%9A%84%E6%96%B0%E8%A3%85/?category=18271" rel="tag">皇帝的新装</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E8%B4%BE%E8%91%AD%EF%BC%9A%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E7%9B%B4%E5%90%83%E5%8C%85%E5%AD%90%EF%BC%9F/" target="cdt-mirror">自由港｜贾葭：功夫熊猫为什么一直吃包子？</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%B5%B5.jpg" rel="attachment wp-att-428089"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%B5%B5.jpg" alt="赵" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/赵-300x203.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/赵.jpg 599w" sizes="(max-width: 599px) 100vw, 599px"></a></p>
-<p>如果要评价2016年央视春节联欢晚会的话，的确需要一些勇气。当然，朋友圈和微博上的那些吐槽及段子也很欢乐，有些也真正触及了本届春晚的关键问题，但那些话并不适宜公开说出来，看看就罢了。要从技术层面分析，还真是一件费力的事情，不像发一条朋友圈那么简单。</p>
-<p>总体而言，本届春晚，是把“中国梦”这个词阐释得最为到位的一次。以前总有外国友人问我“中国梦”到底是什么？我说不来，也说不好。本届春晚，用中国人民群众曾经喜闻乐见的形式，真正展示了“中国梦”的内涵。我相信，这是第一次人民群众都全身心地沐浴在党的光辉照耀之下的夜晚。</p>
-<p>春晚39个节目单曝光之后，如果说有出乎意料的情况，那应该是歌舞类的占比是最高的一届。本届春晚有23个歌舞戏曲节目，接近全部节目的七成。故而 总体基调就是“载歌载舞”，说是“春节歌舞晚会”并不为过。从过去春晚的经验来说，歌舞类节目的认受度要低于语言类节目，但歌舞类节目更容易过审，尤其是 红色经典歌舞，既可以横扫五零后大妈市场，又十分保险。</p>
-<p>从歌舞节目的内容看，除了赵薇那首《六尺巷》是歌颂中华传统美德的，其他多数是歌颂祖国大好河山、人民群众欢天喜地、共产党带领人民奔小康、实现伟大复兴这样的。红色经典歌曲就更不必说，一下子把观众带入了战火纷飞歌声嘹亮的红色年代，一部分五零后人群非常喜欢。这样的安排既省力也讨好。</p>
-<p>其他的就是7个语言类节目，1个杂技，1个魔术，5个公益广告及1个拜年贺电榜。比较受春晚观众期待的语言类节目，在本届春晚也多数是“正能量”，故而出彩程度有限，笑料空间不大。比如郭冬临的小品，以反腐倡廉为主题，但他不过是个科级干部，五万块着实也不多，对观众而言肯定不过瘾。潘长江那个小品太像某宝的植入，加上广场舞，实在很难给好评。</p>
-<p>回想起来，像春晚观众耳熟能详的赵本山、马季、姜昆那些略带讽刺性的相声小品，放在本届春晚肯定要毙掉，这与本届春晚的使命相关——本届春晚就是要演绎“中国梦”的，像赵本山的作品如《三鞭子》这样的，很显然不服从于这个大局。什么是大局？大局就是春晚承载的政治、思想、艺术、娱乐四大功能，政治第一。</p>
-<p>现在想想网友们强烈要求六小龄童上春晚，真是图样图森破了，这么一个角色，放在今年春晚里，哪个环节都安插不上。带着八十年代理想气息的孙悟空，放在这个猴年那就是一个可怜的孤儿。别说六小龄童，就是刘德华的《忘情水》或者杨钰莹的《轻轻告诉你》，也显得太过靡靡之音了一些。</p>
-<p>本届春晚的会场安排，足见主办方是很花了一番心思。四个分会场均有其象征性的内涵。西安是路上丝绸之路的起点，泉州是海上丝绸之路的起点，呼伦贝尔草原与广州则是草原丝绸之路与海上丝绸之路的重要节点。这无疑是呼应了“一带一路”的战略规划。放在中国地图上看，这四个地方分别位于东西南北四个方向，也位于新划定的东西南北四大战区之中。</p>
-<p>此外，龙兴之地福建和陕西如今相比别的省区而言，也有着非比寻常的意义。象征悠久历史的西安把会场放在永宁门，象征创新活力的广州把会场放在广州塔，兵马俑和无人机，寓意着历史与未来的衔接。而泉州作为侨乡，与台湾隔海相望，呼伦贝尔草原是北方少数民族的重要发源地，无疑也具备了对台及民族统战的意味。广州机器人以粤语开口，则是向港澳观众问好。</p>
-<p>至于新疆的维族和西藏的藏族等民族舞蹈，承袭过去的“五十六个民族团结如一家”的春晚歌舞传统，均在意料之中。整个舞台像两会时的少数民族代表合影。节目的年龄段和覆盖面，也是要将老中青、工青妇少、工农兵学商一网打尽，可谓巨细靡遗、面面俱到，体现了爱国统一战线的广泛性。导演和主创团队，是真正下了功夫的。</p>
-<p>说到这里，我想为这位七零后导演吕逸涛喝彩。经过2012-2014三年春晚执行总导演的历练，到了本届春晚，他终于将春节联欢晚会的真谛演绎出来，从政治的大局意识上去衡量，不论哪个方面都堪称完美，是一届真正的春节联欢晚会，回归了这个节目的本质，直接抵达了亿万群众的心。春晚就应该是这个样子的，就应该时时刻刻不忘社会主义核心价值观和伟大复兴中国梦。春晚就应该是供给侧的春晚，不应该、也不必考虑需求侧。</p>
-<p>过去有论者认为，七零后、八零后文艺工作者的全面接力，可以改变当前文艺工作中的一些党性不足的问题。我认为这是杞人忧天了，事实雄辩地证明，七零后、八零后的文艺工作者，学习政策与落实政策的能力，远胜他们的前辈。在文艺工作座谈会上的讲话后的两年中，七零后、八零后文艺工作者深刻领会，努力学习，并严格遵照执行。那些寄望于这批人改变文艺工作现状的论调，是站不脚的。</p>
-<p>本届春晚对红色经典的深度重现，也真正在通俗层面打通了前三十年和后三十年，两个互相不否定。在逻辑上，建设年代就是革命年代的延续，甚至建设年代应该包含在广义的革命年代之中。井冈山、瑞金、遵义、陕北窑洞、西柏坡到中南海是一脉相承的。“中国梦”也不是现在就有的，历史地看，“中国梦”是红色中国成立之后就一直存在的。过去那些认为新中国走了一些弯路的说法，也被这台春晚严正驳斥了。</p>
-<p>至于本届春晚当中夹杂的支付宝牌核心价值观红包，在如此高度重视政治大局的春晚策略中，不过是央视自己的小算盘罢了，不值得评论。总之，猴年的春晚，让亿万观众眼前一亮，深刻体会了什么叫“中国梦”。很多年以后，当我们再次想起这个猴年春晚之时，一定会觉得，这是一段大历史的分水岭。</p>
-<p>至于功夫熊猫为什么要一直吃包子，因为熊猫村就是一场包子的盛宴。</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518.jpeg" rel="attachment wp-att-428091"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518.jpeg" alt="WeChat_1454917518" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518-300x197.jpeg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/WeChat_1454917518.jpeg 588w" sizes="(max-width: 588px) 100vw, 588px"></a></p>
-<h4><strong>自由港编者按——</strong></h4>
-<p>文中提到的《六尺巷》节目取材于桐城六尺巷的典故，大陆官媒介绍说「六尺巷的故事彰显了儒家修身、齐家、仁者爱人的博大内涵，更在为官修德方面，留下了最好的文化传承遗产」，据悉，此曲曾入选中宣部、文化部、国家新闻出版广电总局公布的中国梦主题第三批新创作歌曲。官媒报道还说：「中国梦主题新创作歌曲是中宣部、文化部、国家新闻出版广电总局从2013年开始，为了讴歌中国梦、唱响中国梦，凝聚各方面智慧和力量，激励人们积极投身实现中华民族伟大复兴的中国梦而开展的主题歌曲创作推广活动」。</p>
-<p>儒家思想被认为是“中华传统文化”、也是习近平重视的所谓“文化软实力”的一部分。做为运动式净网起源的8·19讲话中，习近平讲话的主题是“意识形态工作是党的一项极端重要的工作”、“巩固马克思主义的指导地位”、“宣传思想部门必须守土有责”等，此会议上刘云山表示：“有一小撮反动知识分子，利用互联网，对党的领导、社会主义制度、国家政权造谣、攻击、污蔑，一定要严肃打击。”自此，当局开始在全面加强打压力度的同时高度树立中共主导的意识形态，儒家思想是其中一部分。</p>
-<p>传统儒家比基督教、佛教等宗教伦理更政治化，把政治权威视为社会秩序的基本条件。传统儒家是反对专制与残暴的，主张仁政，推己及人，理论上是限制君权的，而不是助纣为虐，但民本与现代民主思想不同，仅有“民有”与“民享”，而不及于“民治”。很多学者认为强调尊卑伦理而非普遍权利观念的儒家文化是统治者奴化人民的极佳工具、阻碍民主进程的关键。</p>
-<p>习近平的红色儒家思想还并非真正的传统儒家，它片面借用儒学的重权威与控制、主从关系，以三纲稳定社会，维持政治秩序，讲究大一统、家天下，此处与极权体制的执政路径不谋而合。红色儒家就是权威执掌、等级森严、要求民众顺服抵制抗争精神。</p>
-<p>在一个极不正常的文化审查和思想禁锢的文宣体制下，央视的春晚早已沦为纯意识形态宣传的工具。此外还包括影视和体育的大跃进式追求，意识形态娱乐化路径是习近平主政以来尤为凸显的风格之一。<strong>（by :Don）</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%97%E8%84%91.jpg" rel="attachment wp-att-428090"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%B4%97%E8%84%91.jpg" alt="洗脑" width="500" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/洗脑-300x213.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/洗脑.jpg 600w" sizes="(max-width: 600px) 100vw, 600px"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E6%B8%AF%EF%BD%9C%E8%B4%BE%E8%91%AD%EF%BC%9A%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E7%9B%B4%E5%90%83%E5%8C%85%E5%AD%90%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E6%94%BF%E7%AD%96%E4%BA%9A%E5%85%8B%E8%A5%BF/?category=18271" rel="tag">党的政策亚克西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E8%B7%9F%E7%9D%80%E6%88%91%E5%B7%A6%E6%89%8B%E5%8F%B3%E6%89%8B%E4%B8%80%E4%B8%AA%E6%85%A2%E5%8A%A8%E4%BD%9C%EF%BC%8C%E5%AF%B9%E7%9D%80%E6%98%A5%E6%99%9A%E7%9A%84/" target="cdt-mirror">王五四｜跟着我左手右手一个慢动作，对着春晚的脸：啪啪</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B.jpg" rel="attachment wp-att-422129"><img src="http://chinadigitaltimes.net/chinese/files/2015/12/%E7%8E%8B%E4%BA%94%E5%9B%9B.jpg" alt="王五四" width="425" height="" srcset="http://chinadigitaltimes.net/chinese/files/2015/12/王五四-150x150.jpg 150w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-300x300.jpg 300w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-70x70.jpg 70w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四-50x50.jpg 50w, http://chinadigitaltimes.net/chinese/files/2015/12/王五四.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a></p>
-<p>大家过年好！</p>
-<p>微信老有人问什么时候写写今年的春晚，真是不好意思写，写了很多朋友会说，你居然看春晚，而且还评价了，那意思就像你不但吃屎了还写食评，真的很丢脸。我的确看了春晚，但真没时间写，因为当时我在忙着写入党申请书，2016年的春晚或者说是2016年中央电视台曲艺版新闻联播，激发了我内心深处潜在的党性。党性不强的人欣赏不了这届春晚，因为看上去这届春晚最大的赞助商是马云，其实是马克思，多少年轻人看着看着就找来了纸笔开始写入党申请书。</p>
-<p>这届春晚无疑是段子史上最黑暗的时刻，往年段子手们卯足劲尽情嘲笑文化课代表，没想到今晚是政治老师监考，大家槽点满满，但在如此宏大和一本正经的政治气氛下，无言以对，春晚不再是任人打扮的小姑娘，不再是当年那个犹抱琵琶半遮面的意识形态宣传工具，今晚它就像朝鲜刚发射的那枚火力十足的火箭，来势汹汹，但却显得可笑。据不完全统计，今天有超过1亿人盼着李谷一老师早点出来唱《难忘今宵》。</p>
-<p>没有哪一年春晚像这届一样，主题生肖被如此淡化，猴年春晚，猴子戏份并不重，反而多了些妖魔鬼怪，后来一想我才明白，这届猴年春晚不是演猴戏给你看，而是把你当猴耍。不仅生肖主题的淡化属首次，就连讽刺节目也在春晚彻底消失，有人说这只是春晚堕落的第一步，言重了，从来就没高尚过哪来的堕落。以往有几届春晚不管是否批判，但总能反映些当年的现实，今年的春晚则彻底反映了这个国家从上到下完全处在一种不知所云、狂妄自大的虚无之中，它不是向外界展示自身的强大，更多的是向国内炫耀武力和继续蒙蔽，它不是像朝鲜那样向外界发射了一枚火箭，而是在国内放了一百万枚钻天猴。</p>
-<p>对于此次春晚大家不需过多惊讶，更不必由此引发对比称赞往届，一样的臭味只是今年更浓郁。早在去年九月份，央视台长就对春晚工作提出了明确要求，“春晚是党和国家交给中央电视台的一项重大政治任务，要以强烈的责任感和使命感，抓紧推进2016年春晚各项筹备工作。”，所以说，春晚从来不是农村庙会的大舞台，它是一项极其严肃的政治工作，对于观众而言它是一枚药丸，让你笑只是药丸表面的糖衣，你们不仅没资格有任何抱怨，反而要感谢他们在如此宏大而严肃的场合，给你穿插了相声和小品节目，让你更为顺畅的服药。</p>
-<p>对于普通人而言，春节总是承载了太多的个人情感意义，而春晚作为春节的重头戏，编排者总要强加赋予你更多的集体概念和政治要素，春节对于个人而言是家，但他们希望你想到的是国，各种怀旧与抒情、各种歌颂与赞扬、各种看上去的朴实与乡土，都是合成主旋律必备的各种元素的杂糅，再加上那些为了登上春晚舞台而产生的三四级利益勾兑，使得整台晚会既不真诚又令人生厌，春晚开场演出的刘雨欣，她那张整容脸，就是对整台春晚最好的概述。</p>
-<p>每个人都需要温情和真诚，尤其是从远方千里迢迢回乡过年的游子，对于春晚，个人当然可以寄望，但这样的环境里，要清楚没有什么是单纯的，或者说任何一样由官方推动的事件都不可能是单纯的，你可以小粉红，但不要强逼别人相信，小粉红们最爱说的就是，你们知道准备一场春晚多不容易吗？要提前几个月准备，很多人为了表演不能跟家人团聚，带病坚持彩排，放弃了休假，你们却在这说三道四，你们就不能安安静静的看一场春晚吗？这些小粉红们的意思大概就是，你知道食物变成屎要经历多么复杂的工序吗？你们别抱怨了好好吃吧，实在不行吃的时候可以不学我们吧唧嘴。大过年的，抱歉这么比喻……。</p>
-<p>春晚总导演吕逸涛说自己对这次春晚很满意，他会打一百分，我的评价其实也差不多，对于这次春晚，导演我会打一百分钟。以前的春晚是媚俗，现在则是媚上，以前尚有审美争议，现在则直接跌入审丑比拼，从网上大面积的吐槽和一边倒的差评来看，这届春晚终于成功地让南北方观众统一了认识，或许这届春晚将是一个分水岭，早已勃起的意识形态通过春晚的舞台正式向全国人民拜年：我们不再含情脉脉。接下来我们将避之不及，嬉皮笑脸将不被允许，春晚的节目将不再好笑，春晚本身会更可笑，但我们或许不再敢笑。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E8%B7%9F%E7%9D%80%E6%88%91%E5%B7%A6%E6%89%8B%E5%8F%B3%E6%89%8B%E4%B8%80%E4%B8%AA%E6%85%A2%E5%8A%A8%E4%BD%9C%EF%BC%8C%E5%AF%B9%E7%9D%80%E6%98%A5%E6%99%9A%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">讲政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +660,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +670,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,92 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%A4%E5%AE%8C%E6%88%90%E8%B5%B4%E7%BE%8E%EF%BC%9A%E6%84%8F%E5%9C%A8%E9%AB%98%E5%B0%94%E5%A4%AB%E3%80%81%E5%B9%B6%E6%9C%AA%E6%B4%A9%E5%AF%86%E6%9C%BA/" target="cdt-mirror">德国之声 | 令完成赴美：意在高尔夫、并未洩密机密？</a>
+</h2>
+<p><p><strong>沉寂许久的令完成如今通过律师发声，表示自己没有向美国交出包括核机密在内的中国国家机密。他的律师接受路透社采访时表示，令完成来美国”是分享打高尔夫的秘诀，并非是国家机密。”</strong></p>
+<p>（德国之声中文网）美国律师史密斯（Gregory S. Smith）在华盛顿的办公室接受了路透社的电话采访，他表示，自己已接受令完成的聘请，做他的律师。史密斯曾在比尔·克林顿担任美国总统期间任职白宫助理顾问。他虽然表示令完成人在美国，但是并没有透露令是否已经申请庇护以及他是否正在与美国当局对话。</p>
+<p>在这之前，令完成从未公开承认或否认自己的行踪，也没有表示过是否已聘请代理律师。</p>
+<p>史密斯表示，令完成对最近的指控感到烦躁不安。《华盛顿自由灯塔》（Washington Free Beacon）和《金融时报》的报道先后出现了这些指控。史密斯获得令完成授权发出以下声明：”媒体报道的荒谬传言称，他掌握大量包括核武发射密码等机密，并有传言说，他已把国家机密交给美国政府，这些都是毫无根据的谎言和诽谤，令完成保留通过我采取适当追究行动的权利。”</p>
+<p>他还补充说，十分爱打高尔夫球的令完成”来到美国是分享打高尔夫的秘诀，并非是国家机密。”</p>
+<p>令完成的哥哥，有”胡锦涛大内总管”之称的令计划已被双开。路透社之前有报道指出，对北京而言，令计划的案件非常棘手，因为他是前国家主席、中共中央总书记胡锦涛的亲信。之前有美国媒体报道，令完成可能是中国史上”最具破坏力的叛逃者”。前美国中情局负责中国事务的分析师约翰逊(Christopher K. Johnson)表示：”有猜测认为，令完成是一笔宝贵的财富。因为职位的关系，他的哥哥一定会接触到敏感信息。他告诉弟弟多少信息，告诉到什么程度。这是个关键问题。”</p>
+<p>美国国务院的一名官员拒绝对此做出评论。他表示，美国国务院会与中方就执法事务进行例行沟通，中国也提出了一些令人关注的案件。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%A4%E5%AE%8C%E6%88%90%E8%B5%B4%E7%BE%8E%EF%BC%9A%E6%84%8F%E5%9C%A8%E9%AB%98%E5%B0%94%E5%A4%AB%E3%80%81%E5%B9%B6%E6%9C%AA%E6%B4%A9%E5%AF%86%E6%9C%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/?category=18271" rel="tag">政治庇护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E5%AF%86/?category=18271" rel="tag">泄密</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/428996/" target="cdt-mirror">摇滚客｜失去颜色的谭维维和喊不出来的华阴老腔</a>
+</h2>
+<p><p><strong>微信公号：摇滚客（ID: rockerfm）</strong><br><strong> 作者：十三妹</strong></p>
+<p><em>原标题：失去颜色的谭维维和喊不出来的华阴老腔，都牺牲于春晚看似包容的假象<br></em><br>
+在做关于春晚彩排的报道时提前看了一遍节目单，除了谭维维的《华阴老腔一声喊》，真的再挑不出来第二个值得自己期待的节目。</p>
+<p>于是除夕那天坐在电视前面专心地玩着手机，就是为了等着谭维维的出现。可是谭维维出现了，我却彻底地失望了。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%94.jpg" rel="attachment wp-att-429005"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%94.jpg?resize=525%2C328" alt="华阴老腔" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>抛开原版歌词其中八句的版权问题与春晚的假唱问题暂且不谈，只从艺术的角度分析，谭维维在春晚上一开口，气势就已经比在《中国之星》的舞台上弱了一大半了。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%941.png" rel="attachment wp-att-429003"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%941.png?resize=411%2C206" alt="华阴老腔1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔1.png?resize=300%2C150 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔1.png?w=411 411w" sizes="(max-width: 411px) 100vw, 411px" data-recalc-dims="1"></a></p>
+<p>与《给你一点颜色》相比，《华阴老腔一声喊》在最开始的段落增添了老腔唱法的部分，虽然歌词内容在整体的和谐性上弱于原版，但考虑到版权的纠纷与段落增添后的改编，暂且可以理解。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%942.jpg" rel="attachment wp-att-429004"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%942.jpg?resize=449%2C337" alt="华阴老腔2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔2.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔2.jpg?w=449 449w" sizes="(max-width: 449px) 100vw, 449px" data-recalc-dims="1"></a></p>
+<p>可是接下来的段落便真的可以说是忍无可忍。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%943.png" rel="attachment wp-att-429002"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%943.png?resize=481%2C216" alt="华阴老腔3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔3.png?resize=300%2C135 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔3.png?w=481 481w" sizes="(max-width: 481px) 100vw, 481px" data-recalc-dims="1"></a></p>
+<p>谭维维原本连续八句步步紧逼的质问，被改成了四问四答，而原版中对环境遭到破坏的质疑，更是被改编成了歌颂大好河山和人们的和谐生活。“为什么天空变成灰色”和“民心里装着是蓝莹莹的天”两句放在一起看，简直是讽刺。试问《华阴老腔一声喊》的词作者在这样写的时候是何从下笔的，他抬头所望见的天，真的是蓝色的么?</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%944.jpg" rel="attachment wp-att-429001"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%944.jpg?resize=525%2C346" alt="华阴老腔4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔4.jpg?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔4.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>这两段结束后，再出现怎样的歌词我都不觉得奇怪了。随后的两段歌词，又把对保护环境的呼唤，改成了对“美好生活”的赞美，基本也是在意料之内。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%945.png" rel="attachment wp-att-429000"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%945.png?resize=575%2C344" alt="华阴老腔5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔5.png?resize=300%2C180 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔5.png?resize=80%2C48 80w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔5.png?w=603 603w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>看着台上一片喜气洋洋，我的心里却是一片悲凉。</p>
+<p>当时我想的是，春晚其实要的只是华阴老腔，而谭维维在台上就好像是一个任人摆布的道具，歌声里也没了自己的那份灵魂。但随后的一个念头让我自己感到一阵恶寒：或许春晚谁都不需要，他们需要的只是一副各种艺术相互包容，共同歌唱美好祖国的虚假景象。谭维维是，华阴老腔是，包括那些舞蹈、杂技，在这届春晚中，无一例外。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%946.jpg" rel="attachment wp-att-428999"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%946.jpg?resize=525%2C292" alt="华阴老腔6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔6.jpg?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔6.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>《给你一点颜色》在《中国之星》的舞台上之所以受到人们的追捧，最大的原因在于谭维维的真诚。真诚地想去推广一个不被人熟知的传统艺术，真诚地表达自己对当下环境问题的担忧与希望。而经过改编的《华阴老腔一声喊》，却将原版作品中的全部真诚剥得一干二净，只剩下一个老腔和现代音乐结合的架子，填满了假大空的形式。</p>
+<p>被绑架的真诚与强行填入的虚伪碰撞在一起，满满的都是讽刺。</p>
+<p>而不论是谭维维还是老腔艺人，他们在台上配合着假唱，心里却知道人们听不见自己在场的真实声音，听不见自己心底的真实声音，于是谭维维失去了颜色，老腔也再发不出呐喊，就这样，他们都成为了虚伪的牺牲品。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%947.jpg" rel="attachment wp-att-428998"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%947.jpg?resize=525%2C350" alt="华阴老腔7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔7.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔7.jpg?w=530 530w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>“为什么沙漠没有绿洲？为什么星星不再闪烁？为什么花儿不再开了？为什么世界没有了颜色？”只因为，有的人只想让你看见一种颜色。当我们企图发出真实的声音时，总会有人扼住你的喉咙。你是选择说假话，还是不再发声？</p>
+<p>不知道还有多少人愿意坚持着，宁肯真诚无人看见，也不去歌颂虚伪；不知道多少人还愿意继续抗争，为了天空不再是灰色，为了每个人眼里的世界可以变得缤纷，而不仅仅被一块布遮挡住。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%948.jpg" rel="attachment wp-att-428997"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%948.jpg?resize=375%2C323" alt="华阴老腔8" data-recalc-dims="1"></a></p>
+<p>当谭维维和华阴老腔成为了主旋律舞台的一个工具，再优秀的艺术作品也失去了原本的光彩。可是从另一个角度想，如果是被改编成这样还受到听众的一篇褒奖，那才是真真的可怕。</p>
+<p>不论是于谭维维，还是于我自己，不论是音乐，还是文字，乃至每一个用心去聆听去阅读的你们，只希望我们都能保持真诚，共勉。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/428996/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%9E%E6%94%B6%E5%80%89%E7%95%B6%E6%AD%A6%E5%99%A8%E5%BA%AB%E3%80%91%E7%92%B0%E4%BF%9D%E4%BA%BA%E5%A3%AB%E8%AD%A6%E7%BD%B2%E5%A4%96%E7%A4%BA%E7%AF%84%E4%BD%BF%E7%94%A8%E3%80%8C%E6%AD%A6/" target="cdt-mirror">立場新聞｜回收倉當武器庫 環保人士警署外示範使用「武器」</a>
+</h2>
+<p><p><em>原标题：【回收倉當武器庫】環保人士警署外示範使用「武器」　批評警引導公眾聯想騷亂<br></em><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png" rel="attachment wp-att-428984"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?resize=550%2C367" alt="12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>警方昨公佈在葵涌破獲一「武器庫」，並拘捕一男二女，稱「不排除」與年初二旺角騷亂有關；但多個環保組織均指該倉庫為環保人士免費易物的暫存倉，批評警方濫捕無辜市民。環保組織「結束一桶專棄」及一批市民現在警署外聲援，環保人士帶同製作酵素、手工皂用的材料及化學品，望向外界解釋用法，力證被捕人士無辜。「結束一桶專棄」成員劉丹尼指，批評警方著公眾「自行聯想」檢獲物件用途，又將事件與初一旺角騷亂拉上關係，是錯誤引導公眾。</p>
+<p>她又指警察對回收物資有誤解，相信是誤會一場，被捕三人過往有參與過遊行集會，但不曾參與前線行動，初一、初二亦無前往旺角，認識多年，清楚他們沒有參與激進組織，只是「環保路上的朋友」，要求警方盡快釋放。</p>
+<p>「結束一桶專棄」由一批環保人士組成，組織理念是「即棄文化可恥　全民分類回收」，認為大眾習慣將不要的物品棄置入垃圾筒，造成浪費，經常主動前往公眾活動（包括遊行集會、音樂節、美食節等）現場收集可用剩物，再覓他途。</p>
+<p><strong>警向傳媒展示「檢獲」政黨雜誌<br>
+日青：倉內大批雜誌　警只揀一本</strong></p>
+<p>另外，環保人士日青今早接受商台訪問，被問到倉內為何會有《熱血少年》雜誌，日青解釋， 倉庫現場有很多雜誌，但警方只是「淨係揀咗一本雜誌」供傳媒拍攝。至於貼有示威口號的大聲公，日青則指，組織過往多年六四、七一均會到現場，收集被丟入垃 圾筒的物資，包括帳蓬、鋁梯，相信大聲公亦是在類似場合檢獲。</p>
+<p>日青進一步解釋，由2012年開始，回收市民搬屋時棄置的傢俬、玩具、衣物、廚具（包括一些刀具）等等，收集得來後，有一批較不吸引的物資「冇人要」，由今次其中一個被捕人士何先生借出倉庫，暫時存放。他們本來在同一大廈另一單位，開放市民前來免費選用剩物，但2014年起因成效不彰，決定只在網上運作，將剩下的物資搬到今次出事的單位繼續存放，遇到朋友需要再轉贈。</p>
+<p>日青又透露，倉房是倉主的私人地方，不是合租，但會借出給相熟朋友使用；警察昨日五、六點離開後，仍有朋友可以進入該單位。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png" rel="attachment wp-att-428983"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?resize=550%2C367" alt="12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png" rel="attachment wp-att-428982"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?resize=550%2C367" alt="12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png" rel="attachment wp-att-428981"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?resize=550%2C367" alt="12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png" rel="attachment wp-att-428980"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?resize=550%2C367" alt="12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><strong>附：事件背景</strong></p>
+<p>涉事志愿环保组织<a href="https://zh-tw.facebook.com/grebbish">結束一桶專棄</a> Facebook 页面简介：</p>
+<p>為拾荒而團結, 不為團結而拾荒!<br>
+(我們是一班散落在各區的自由拾荒者,沒有申請社團註冊沒有政府Funding,次次自資出動,沒有保險….etc. 所以不要稱呼我們是環團,唔該哂!)</p>
+<ul><li>2013年，TVB《东张西望》节目对该环保组织进行过报道（<a href="https://youtu.be/-WcJyF_DPyM">视频地址</a>）</li>
+<li>2014年，《明报》<a href="http://m.mingpao.com/ins/instantnews/web_tc/article/20160108/s00001/1452221566861">报道</a>了由于音乐节不设垃圾桶，该组织自发回收逾100公斤垃圾</li>
+<li>2016年2月11日，该组织在葵涌的回收仓被当做“武器库”，警方了拘捕三名组员</li>
+<li>2016年2月12日，“疑涉旺角骚乱”的“武器库”<a href="https://www.thestandnews.com/politics/%E7%92%B0%E4%BF%9D%E5%9C%98%E9%AB%94-%E6%AD%A6%E5%99%A8%E5%BA%AB-%E6%88%90%E9%A0%AD%E6%A2%9D-%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF%E6%8C%87%E6%88%96%E6%B6%89%E6%9A%B4%E4%BA%82/">成为头条新闻</a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/news_RZOJ7_1200x0.png" rel="attachment wp-att-428986"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/news_RZOJ7_1200x0.png?w=500" alt="news_RZOJ7_1200x0" height="" data-recalc-dims="1"></a></li>
+</ul><p> </p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%9E%E6%94%B6%E5%80%89%E7%95%B6%E6%AD%A6%E5%99%A8%E5%BA%AB%E3%80%91%E7%92%B0%E4%BF%9D%E4%BA%BA%E5%A3%AB%E8%AD%A6%E7%BD%B2%E5%A4%96%E7%A4%BA%E7%AF%84%E4%BD%BF%E7%94%A8%E3%80%8C%E6%AD%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB/?category=18271" rel="tag">垃圾分类</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E7%BB%84%E7%BB%87/?category=18271" rel="tag">环保组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">香港警察</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BA%AD%E5%AE%A1%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1%E5%8F%82%E4%B8%8E%E8%80%85%E9%9B%86%E4%BD%93%E8%A2%AB%E6%8E%A7%E6%9A%B4/" target="cdt-mirror">端传媒 | 庭审现场：旺角骚乱参与者集体被控“暴动罪”</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-%E4%B8%8B%E5%8D%889.24.32.png?resize=553%2C369" alt="Screen Shot 2016-02-11 at 下午9.24.32" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.24.32.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.24.32.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>2016年2月9日，旺角，手持盾牌和警棍的防暴警察追截示威者，期间一名示威者被警方按压地上制服。摄：Anthony Kwan/端传媒</span></p>
@@ -601,97 +684,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%97%BA%E8%A7%92%E6%9E%AA%E5%A3%B0%E4%B8%8D%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%9E%AA/" target="cdt-mirror">德国之声｜长平：旺角枪声不是“最后一枪”</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300.jpg" rel="attachment wp-att-428276"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300.jpg" alt="0,,19034585_303,00" width="585" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/019034585_30300.jpg 700w" sizes="(max-width: 700px) 100vw, 700px"></a></p>
-<p>（德国之声中文网）我还清楚地记得，香港维园”六四”纪念晚会结束时，人们细致地拣走身边垃圾。有些作为坐垫的报纸已经嵌入泥土，还是被人耐心地一点一点扣出来带走。我也看到，十数万人自由而又有序地离场，服务周到的警察让人觉得温暖而又安全。</p>
-<p>香港社会的秩序，一直是中国内地人的教材。亲官方媒体强调市民的”素质”，亲自由媒体则强调警方的亲善。同时，香港人也以此自豪，对内地访客不排队、乱扔垃圾等习惯深恶痛绝，甚至斥之为”蝗虫”。</p>
-<p>变坏似乎只在一夜之间。今晨（2月9日2时许）旺角抗议事件中响起警察的枪声（对空鸣枪），尽管当时抗议者与警察的冲突已经相当激烈，但是据多名亲历者讲述，人们感到震惊，甚至不敢相信自己的耳朵。</p>
-<p>在抗议者及其同情者看来，2月9日的枪声结束了一个时代。长期以来维系在警方与民众之间的温情脉脉的面纱，尽管在近两年的抗议活动中早已经支离破碎，但是它仍然在风中楚楚可怜地飘摇。以往，”高素质”的香港抗议者，面对警方的驱散，大多和平克制地退散，或者敢作敢当地束手就擒。然而，在这个凌晨，他们突然学会了用砖头和杂物砸向警察。</p>
-<p>出于同样的逻辑，梁振英代表特区政府将旺角事件定义为”暴乱”。它让人想到年久日深的1967年”五月风暴”。也是出于同样的逻辑，一些媒体将其称为”鱼蛋革命”（Fishball Revolution）或者”鱼蛋暴动”（Fishball Riot）。</p>
-<p>尽管抗议事件从未间断，但是不久前的香港，可以说是世界上最温和的城市之一。”占领中环”那样大规模长时间的抗议事件，也没有引发“鸣枪示警”。然而，无论人们是否接受，今天的香港，正在演变为世界上最危险的城市之一。</p>
-<p>即便是”六四”晚会，我也从每一年警方与组织者在人数估计的巨大反差中，感觉到在政治操控之下，香港社会秩序并不像人们想象中的那样美好。在科隆、巴黎等欧洲城市，我也看见每一次的狂欢节或抗议活动之后，垃圾遍地，环卫工人不得不大干一场，似乎也没有想象中那样糟糕。社会秩序的关键，然而，并非如媒体所教导的那样，是靠民众”素质”维持的，而是民主政治保障的法治与自由。</p>
-<p>香港正在失去已有的法治与自由。特区警察变成了内地城管，甚至比内地城管还没有人情味儿（在大年初二”严厉执法”驱赶摊贩）。冰冻三尺非一日之寒，民众对政府长期不满，而政府管制日益趋紧，是骚乱的根本原因。</p>
-<p>特区政府无意反省这一原因–重要的是，只要北京政府尚在，特别政府也无从反省–简单粗暴的”决不姑息”将无济于事。枪声唤起了民众更多的反抗意志，冲突可能在未来升级。香港比中国内地城市更加危险，也正在于他们还有反抗意志。内地民众普遍已被六十多年的高压驯服，例如，他们抱怨的不是春晚有毒，而是这副毒药里没有加上足够多的糖。</p>
-<p>“六四”之后，歌手崔健高唱”如果这是最后一枪，我愿接受这莫大的荣光”。可是它不是。在同一个党的领导之下，旺角枪声也不是香港的”最后一枪”。</p>
-<p><i>长平是中国资深媒体人、时事评论作家，现居德国。</i></p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E6%97%BA%E8%A7%92%E6%9E%AA%E5%A3%B0%E4%B8%8D%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%9E%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">香港旺角警民冲突</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%8A%8A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%9E%8D%E5%85%A5%E5%90%84%E7%BA%A7%E6%95%99%E8%82%B2%E5%90%84%E7%8E%AF%E8%8A%82/" target="cdt-mirror">【网络民议】中国教育部可以和宣传部合并了</a>
-</h2>
-<p><p><strong><a href="http://news.sina.com.cn/c/nd/2016-02-09/doc-ifxpfhzq2677423.shtml">新华网｜教育部：把爱国主义融入各级教育各环节</a></strong></p>
-<blockquote><p>教育部近日下发文件（<a href="http://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%85%B1%E6%95%99%E8%82%B2%E9%83%A8%E5%85%9A%E7%BB%84%E5%85%B3%E4%BA%8E%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E6%B7%B1%E5%85%A5%E5%BC%80%E5%B1%95%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99/">全文</a>），要求各级各类学校深入开展爱国主义教育，<strong>着力运用微博、微信等网络新媒体，创新爱国主义教育方式和途径，生动传播爱国主义精神</strong>。</p>
-<p>教育部表示，各级各类学校应创新爱国主义教育方式和途径，有效拓展课堂内外、网上网下、平台载体的爱国主义教育引导，创造浓郁的校园文化氛围，使学生<strong>处处受到爱国主义精神的感染</strong>。着力运用微博、微信等网络新媒体，<strong>充分利用文化馆、纪念馆、博物馆、旅游景点、部队营地等资源和举办运动会、体育比赛等活动</strong>，开展爱国主义教育，生动传播爱国主义精神。</p>
-<p>同时，应将爱国主义精神有机融入大中小学德育、语文、历史、地理、体育、艺术等各学科<strong>课程标准</strong>、<strong>教材编写</strong>、<strong>考试评价</strong>之中，纳入教育教学实践环节。</p>
-<p>此外，各高校要完善相关本科专业类教学质量国家标准，把爱国主义教育与专业教育紧密结合，全方位、多渠道融入人才培养体系。在全国高校学生中，深入开展“我爱我的祖国”“<strong>永远跟党走</strong>”等主题社会实践活动。同时，推动各地将爱国主义教育相关内容<strong>纳入体育教学计划</strong>，<strong>探索建立学生军事营地育人长效机制</strong>。</p></blockquote>
-<p><strong>该文件内容还包括了外宣</strong>：</p>
-<blockquote><p>14.加强“中国梦”海外宣传。聚集广大海外留学人员爱国能量，确立以人为媒介、以心口相传为手段的海外宣传模式，形成人人发挥辐射作用、个个争做民间大使、<strong>句句易于入脑入心</strong>的宣传效应。<strong>构建“祖国-使领馆-留学团体-广大留学人员”的海内外立体联系网络</strong>，使广大留学人员充分感受祖国关爱、主动宣传祖国发展。<span><strong>挖掘</strong></span>在国际教育领域有影响力的专家学者、外籍教师、来华留学人员、非政府组织及国际智库的积极作用。</p></blockquote>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BC%81%E9%B9%85%E5%85%A5%E5%85%9A.jpg" rel="attachment wp-att-428267"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%BC%81%E9%B9%85%E5%85%A5%E5%85%9A.jpg" alt="企鹅入党" width="385" height="513" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/企鹅入党-225x300.jpg 225w, http://chinadigitaltimes.net/chinese/files/2016/02/企鹅入党-768x1024.jpg 768w, http://chinadigitaltimes.net/chinese/files/2016/02/企鹅入党.jpg 960w" sizes="(max-width: 385px) 100vw, 385px"></a><br><span>图片来源：新浪微博@文山娃</span></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/423370/">【网络民议】捆绑销售：爱国爱党爱社会主义</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E6%84%8F%E3%80%91%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%EF%BC%8C%E4%BB%80%E4%B9%88%E7%89%8C%E5%AD%90%E6%9C%89%E5%8F%88%E5%AE%BD%E5%8F%88%E6%89%81%E7%9A%84%E5%86%B0/">【网络民议】祖国万岁 什么牌子有又宽又扁的冰箱</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E6%95%99%E8%82%B2%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC/">【图说天朝】抗战胜利70周年“教育活动”对象包括幼儿</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%98%AF%E8%A2%AB%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%80%9D%E6%83%B3%E9%81%93/">【图说天朝】中国未成年人是如何被进行“思想道德建设”的</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/08/%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%9A%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%98%E6%98%AF%E5%BE%97%E7%88%B1%E5%85%9A/">中小学生守则修订版：一年后还是得爱党</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1826547193" target="_blank">@LEEKERY栗甲魚</a>：洗脑要从娃娃抓起是吧<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]"><img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我仿佛活在朝鲜</p>
-<p><a href="http://weibo.com/akira1124" target="_blank">@菠菜糕</a>：拒绝洗脑，不要绑架国家<img title="[打脸]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]">国不等于党</p>
-<p><a href="http://weibo.com/samsungzuidataotian" target="_blank">@想改ID却想不到改什么</a>：教育也越来越恶心了。。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">我还记得我高三连考试的东西都没背完，全校每天早读要抽背社会主义核心价值观的事情。。就因为我们区有个学生不知道这是啥。。<img title="[微笑]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]">广州。。某区<img title="[生病]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]"><img title="[生病]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]"></p>
-<p><a href="http://weibo.com/5645085423" target="_blank">@法骑永不狗带</a>：永远跟dang走，感到可怕<img title="[吃惊]" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]"></p>
-<p>@我是田闹闹：春晚都不能满足了是吗</p>
-<p>@五丁开山：去你妈的 搞个新闻联播剧场版还不够 现在又毒害小孩子去了 持枣药丸</p>
-<p>@失眠的宿命：妈的完蛋，我赶紧去考雅思了</p>
-<p>@图形派炒股掌门银：请朝鲜劳动党当老师吧。。人家现在做的比你们好</p>
-<p>@凯文是Hulk：赵官人？金官人？我傻，分不清楚。</p>
-<p>@小丑骑士11：从上到下全方面洗脑啊</p>
-<p>@大丧尸_72399：跟口走=爱国？</p>
-<p><strong>@老土锅：可以和宣传部合并了</strong></p>
-<p>@悬空寺中小沙弥：我爱我的国家，但是我不希望有人天天来告诉我要爱国。</p>
-<p>@啵啵媛：看到没，明年春晚的主题素材</p>
-<p>@几乎介乎于：我们不骂春晚了 求党放了我们的孩子</p>
-<p>@锍骐_Mn7：天下何人不通共，奈何教育部是五纵。</p>
-<p>@医生我觉得我还可以再抢救一下：你就算天天逼我吃屎我也不会吃啊</p>
-<p>@海上國民：我已通知我家小辈，谁入团就别来问我要压岁钱了</p>
-<p>@小女子一切刚刚好：跟党走可以，说清楚跟哪个党，对岸的GMD也是党，哈哈哈~</p>
-<p>@jxj梦的荒原：回复@JimHansonJ:某党现在做的宣传，实在像极了江湖庸医，自己做好了自夸的锦旗，然后再雇人敲锣打鼓送到小门诊部。</p>
-<p>@黑鸦UDA：你做的好了自然会爱你，整天被各种安利我已经够了</p>
-<p>@没什么要补充的：财经网的评论已经被关闭，删光了。。财经网已死，有事请烧纸。</p>
-<p>@股炒新手：这说明大部分人都不爱这个国家了。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%8A%8A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%9E%8D%E5%85%A5%E5%90%84%E7%BA%A7%E6%95%99%E8%82%B2%E5%90%84%E7%8E%AF%E8%8A%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E6%98%A5%E6%99%9A%E5%8C%85%E5%AD%90%E3%80%81%E4%B9%A0%E9%9A%BE%E5%A0%AA%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-9/" target="cdt-mirror">【敏感词库】2016春晚专题、“习难堪”等热点 2016-2-9</a>
-</h2>
-<p><div><img src="http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr.png" alt="New Year's Revolution" width="550" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr-768x512.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr-1024x683.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/bdcnyr.png 2250w" sizes="(max-width: 2250px) 100vw, 2250px"><p><br><em>图片作者：巴丢草</em></p></div>
-<blockquote><p><strong>数字时代相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/">2016春晚</a></strong></p></blockquote>
-<p>［新浪微博搜索禁词测试时间：2016年2月09日］</p>
-<p><strong>春晚 + 包子</strong><br><strong>春晚＋政治</strong><br><strong> 春晚＋洗脑</strong><br><strong>春晚＋献媚</strong><br><strong> 春晚＋一百分</strong><br><strong> 春晚 + 新闻联播</strong><br><strong> 春晚 + 六小龄童</strong></p>
-<p><strong>习难堪</strong><br><strong> 习＋情人</strong></p>
-<p><strong>冤情＋中共</strong></p>
-<p><strong>拍肩迷药</strong></p>
-<p><strong>藏人抗议</strong></p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E5%8C%85%E5%AD%90.png" alt="春晚 + 包子" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/春晚-包子-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-包子-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-包子.png 774w" sizes="(max-width: 774px) 100vw, 774px"><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E6%94%BF%E6%B2%BB.png" rel="attachment wp-att-428249"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E6%94%BF%E6%B2%BB.png" alt="春晚 政治" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/春晚-政治-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-政治-768x330.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-政治-1024x440.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-政治.png 2094w" sizes="(max-width: 2094px) 100vw, 2094px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E6%B4%97%E8%84%91.png" rel="attachment wp-att-428251"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E6%B4%97%E8%84%91.png" alt="春晚 洗脑" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/春晚-洗脑-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-洗脑-768x329.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-洗脑-1024x439.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-洗脑.png 2094w" sizes="(max-width: 2094px) 100vw, 2094px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E7%8C%AE%E5%AA%9A.png" rel="attachment wp-att-428252"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E7%8C%AE%E5%AA%9A.png" alt="春晚 献媚" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/春晚-献媚-300x125.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-献媚-768x321.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-献媚-1024x428.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-献媚.png 2104w" sizes="(max-width: 2104px) 100vw, 2104px"></a><br><a href="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E4%B8%80%E7%99%BE%E5%88%86.png" rel="attachment wp-att-428250"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E4%B8%80%E7%99%BE%E5%88%86.png" alt="春晚 一百分" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/春晚-一百分-300x129.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-一百分-768x331.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-一百分-1024x441.png 1024w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-一百分.png 2090w" sizes="(max-width: 2090px) 100vw, 2090px"></a><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD.png" alt="春晚 + 新闻联播" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/春晚-新闻联播-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-新闻联播-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-新闻联播.png 773w" sizes="(max-width: 773px) 100vw, 773px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5.png" alt="春晚 + 六小龄童" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/春晚-六小龄童-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-六小龄童-768x296.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/春晚-六小龄童.png 773w" sizes="(max-width: 773px) 100vw, 773px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0%E9%9A%BE%E5%A0%AA.png" alt="习难堪" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/习难堪-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/习难堪-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/习难堪.png 771w" sizes="(max-width: 771px) 100vw, 771px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0%EF%BC%8B%E6%83%85%E4%BA%BA.png" alt="习＋情人" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/习＋情人-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/习＋情人-768x299.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/习＋情人.png 772w" sizes="(max-width: 772px) 100vw, 772px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E5%86%A4%E6%83%85%EF%BC%8B%E4%B8%AD%E5%85%B1.png" alt="冤情＋中共" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/冤情＋中共-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/冤情＋中共-768x298.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/冤情＋中共.png 771w" sizes="(max-width: 771px) 100vw, 771px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E6%8B%8D%E8%82%A9%E8%BF%B7%E8%8D%AF.png" alt="拍肩迷药" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/拍肩迷药-300x117.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/拍肩迷药-768x300.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/拍肩迷药.png 770w" sizes="(max-width: 770px) 100vw, 770px"><br><img src="http://chinadigitaltimes.net/chinese/files/2016/02/%E8%97%8F%E4%BA%BA%E6%8A%97%E8%AE%AE.png" alt="藏人抗议" width="475" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/藏人抗议-300x116.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/藏人抗议-768x297.png 768w, http://chinadigitaltimes.net/chinese/files/2016/02/藏人抗议.png 771w" sizes="(max-width: 771px) 100vw, 771px"></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E6%98%A5%E6%99%9A%E5%8C%85%E5%AD%90%E3%80%81%E4%B9%A0%E9%9A%BE%E5%A0%AA%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD/?category=18271" rel="tag">新闻联播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA/?category=18271" rel="tag">藏人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">藏人示威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -703,7 +695,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -713,5 +705,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

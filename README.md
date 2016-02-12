@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,192 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BA%AD%E5%AE%A1%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1%E5%8F%82%E4%B8%8E%E8%80%85%E9%9B%86%E4%BD%93%E8%A2%AB%E6%8E%A7%E6%9A%B4/" target="cdt-mirror">端传媒 | 庭审现场：旺角骚乱参与者集体被控“暴动罪”</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-%E4%B8%8B%E5%8D%889.24.32.png?resize=553%2C369" alt="Screen Shot 2016-02-11 at 下午9.24.32" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.24.32.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.24.32.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>2016年2月9日，旺角，手持盾牌和警棍的防暴警察追截示威者，期间一名示威者被警方按压地上制服。摄：Anthony Kwan/端传媒</span></p>
+<p>端传媒记者 赵燕婷、黄铭浩</p>
+<blockquote><p>旺角骚乱是九七回归以来，本港首次定性公众集会为“暴乱”，36名示威者罕见地集体被控“暴动罪”，其中多人投诉在拘捕或警署内被警方殴打。</p></blockquote>
+<p>2月8日，农历大年初一于香港旺角发生的通宵骚乱，被官方定性为“暴乱”，警方表示，至今拘捕共65人，其中37名被捕人士，于2月11日早上在九龙城裁判法院提堂，当中36人被控“暴动罪”。</p>
+<p>这是香港自九七回归以来，本港首次将公众集会定性为“暴乱”。至于以暴动治罪，上一次为2000年在喜灵洲戒毒所的囚犯骚乱事件。当时有囚犯放火及掷石，6人被判暴动罪成，判监4至6年。</p>
+<p>此次旺角骚乱中，首批提堂的37名被告，包括34男3女，年龄由17至70岁，当中有7名学生，13人无业。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-%E4%B8%8B%E5%8D%889.26.12.png?resize=558%2C371" alt="Screen Shot 2016-02-11 at 下午9.26.12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.26.12.png?resize=300%2C199 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.26.12.png?w=558 558w" sizes="(max-width: 558px) 100vw, 558px" data-recalc-dims="1"><br><span>首批被告職業分布。图：端传媒设计部</span></p>
+<p><span><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-%E4%B8%8B%E5%8D%889.27.13.png?resize=560%2C370" alt="Screen Shot 2016-02-11 at 下午9.27.13" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.27.13.png?resize=300%2C198 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.27.13.png?w=560 560w" sizes="(max-width: 560px) 100vw, 560px" data-recalc-dims="1"></span><br><span> 首批被告年齡分布。首批被告年龄分布。图：端传媒设计部</span></p>
+<p><strong>家属奔波，见面受阻</strong></p>
+<p>31岁的薛冠辉便是被控以暴动罪的被告之一。据法庭资料，他被列为“无业”，家住深水埗。端传媒前往薛冠辉的寓所，应门的是一脸疲倦的薛妈妈。</p>
+<p>薛妈妈解释，她儿子并非“无业青年”:“他有正当职业，在保险公司当文员，只不过因为是一年合约工作，新年前才刚刚失业。”</p>
+<p>她忆述，2月9日凌晨，儿子本来一直在家中打游戏机，至3时多她看见儿子还未睡，还赶紧劝儿子快点睡觉，不过不久他却出门了。那时候，薛妈妈根本不知道儿子要往哪里。</p>
+<p>一觉醒来，薛妈妈看新闻，才知道旺角发生通宵骚乱。薛妈妈致电儿子一直没人接听，她心里一沉，担心薛冠辉也许到旺角去了，于是急不及待致电旺角警署。“旺角警员说不能透露资料。”薛妈妈说，于是她又再致电秀茂坪警署，“他们最初说稍后回覆，但过一会儿却说担心我是记者，不会回覆。”</p>
+<p>“从新闻看到有示威者受伤，我很担心他也受伤，甚至担心他会死，当妈妈的一定最担心儿子，所以我自己去找。”薛妈妈随即出门，早上约11时多到旺角警署，多次追问，才获告知儿子已经被拘捕，人在秀茂坪警署。</p>
+<p>薛妈妈又赶到秀茂坪去，警员却不让她去看儿子：“下午一时到秀茂坪警署，他们用栏杆栏着我，又关上了门，两名警员守在外面，根本不能进去，他们说我儿子也不可以出来。”</p>
+<p>薛妈妈说，她不懂法律，也不知可以找谁帮助，只在警署门外干着急，幸而之前在旺角警署门外，遇上义务律师，主动说可以提供协助。在他们打听下，才得知薛冠辉被警方殴打，要求律师投诉。获悉儿子被殴打，薛妈妈更是心急万分，回家一直等消息，直至次日（2月10日）晚上11时，接到儿子的电话，才终于安心一点：“很晚才有人让他致电回家，原来警察一直不批准他打电话，直至要准备第二天提堂，才让他接触我们。”</p>
+<p>薛冠辉等36人均被控以暴动罪，指他们于2016年2月8日晚上至9日凌晨时分，在旺角一带与其他人士集结暴动。</p>
+<p>根据香港《公安条例》第19条，如任何参与非法集结的人破坏社会安宁，该集结即属暴动，而集结的人即属集结暴动。一经定罪，最高可被判监禁10年。</p>
+<p>另外一名被告，27岁报称无业的谭晓彤，则被改控非法集结罪。控方在庭外解释，暴动控罪需要证明被告确实破坏社会安宁，检视有关谭晓彤的证据后，认为没有破坏社会安宁的元素，故改控非法集结罪。</p>
+<p>香港《公安条例》第18条列明，凡有3人或以上集结，作出扰乱秩序的行为或作出带有威吓性、侮辱性或挑拨性的行为，意图导致或相当可能导致任何人合理地害怕如此集结的人会破坏社会安宁，或害怕他们会借以上的行为激使其他人破坏社会安宁，他们即属非法集结。一经定罪，最高可处监禁5年。</p>
+<p>各被告庭上暂时毋须答辩，案件押后至4月7日，全部人获准以500-20000港元保释外出，期间禁止踏足旺角。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-%E4%B8%8B%E5%8D%889.29.57.png?resize=552%2C370" alt="Screen Shot 2016-02-11 at 下午9.29.57" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.29.57.png?resize=300%2C201 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.29.57.png?w=552 552w" sizes="(max-width: 552px) 100vw, 552px" data-recalc-dims="1"><br><span>疑涉旺角暴动案的被告卓羚釬在“四眼哥哥”郑锦满及其他友人陪同下离开九龙城裁判法院，期间被大批记者包围采访，在人群中的被告一直以外套遮掩，以防被拍到容貌。摄：卢翊铭/端传媒</span></p>
+<p><strong>集体被控暴动罪</strong></p>
+<p>此次30多人被控以“暴动罪”非常罕见，即使是2014年的雨伞运动，多人都被控非法集结罪，未有人被控以暴动罪。</p>
+<p>香港大学法律学院首席讲师张达明，于2月10日接受《明报》访问时解释，非法集结与暴动的主要分别，是前者指向有可能造成破坏社会安宁的举动，而暴动则是指已经作出破坏社会安宁的行为。张达明表示，旺角骚乱期间，有人殴打警员、向警员抛砖头及破坏公物，他认为部分示威者可能已触犯暴动罪。</p>
+<p>不过，2月11日被正式落案控以暴动罪的林淳轩，其控罪却惹起争议。林淳轩是香港中文大学神学一年级生、学民思潮成员之一，学民思潮是香港一个学生政治社会运动组织，主张透过社会运动改变政治体制，曾发起反国民教育示威，并积极参与雨伞运动。</p>
+<p>早前一日（2月10日），学民思潮发表声明，指22岁的林淳轩，早上在香港机场准备离境与家人外游时突然被捕，之后被押往西营盘寓所搜查。然而，其代表律师到场了解后，警方取消入屋搜查，晚上才持搜查令前往搜屋。学民思潮召集人黄之锋质疑，警方违反程序，未有申请搜查令入屋；但警方其后回应指，当时已取得林淳轩签名同意。</p>
+<p>黄之锋又说，林淳轩当晚只是到砵兰街夜市光顾夜市小贩，2月9日凌晨2时许，已与黄之锋本人一同离开现场，并无做出投掷杂物、纵火或任何挑衅警方等行为，“最多只是举高手劝人冷静”。林淳轩就读的中文大学崇基学院神学院亦发声明，院长邢福增说，从网上及新闻片段看，林淳轩并没有参与暴力行为，怀疑警方因他过去曾积极参与社会学运便拘捕他。</p>
+<p>香港大学法律系副教授戴耀廷，在其社交网站撰文，指要构成暴动罪，必须先确立有关人士，有参与按《公安条例》第18条被定为非法集结的集会。</p>
+<p>他在网页注解说:“因此，若在暴动现场，有关人士只是静静地站在一旁观看、走避冲突、或只是以摄录器拍下当时的情况，甚至阻止其他人使用武力，他的行为很难算是扰乱秩序的行为或作出带有威吓性、侮辱性或挑拨性的行为；更难以证明他是意图导致任何人合理地害怕如此集结的人会破坏社会安宁，或害怕他们会借以上的行为激使其他人破坏社会安宁。”</p>
+<p>“若一个人没有作出上述行为，他并没有参与非法集结。没有参与非法集结的人，自然没有参与暴动，就不可能触犯了暴动罪。”戴耀廷解释。</p>
+<p><strong>多名被拘捕人士投诉被警方殴打</strong></p>
+<p>除了薛冠辉，多名被告也由代表律师作出投诉，指称被捕时或在警署内被警方殴打。其中32岁被告薛达荣，上庭时不时按着后脑，头部有处理过的伤口。其代表律师向法庭投诉，被告被捕时被警方以警棍打伤后脑，需缝七针。</p>
+<p>20岁的陈宇基，则指被捕时被数名警员压在地上殴打，并以警棍打头，导致他血流披面。陈宇基上庭时，额头贴有长方形纱布。17岁被告陈浩文，代表律师指他被捕后，有警员在警车上向他说“唔招认就打你（不招认就打你）”，到达警署后更被便衣警员殴打心口三次。25岁的连润发，投诉被捕后连续40小时不能入睡，因为羁留期间每当有睡意时，便立即被警员大声呼喝，被告在法庭上双眼红肿。</p>
+<p>另一名被告，香港大学学生、本土民主前线发言人梁天琦，保释后离开法庭时也表示：“警方在拘捕我时使用过份武力，已经作出投诉。”梁天琦也是立法会新界东补选的候选人，他被记者追问会否退选时说，他回应:“选举并非这刻最重要的事，会先集中协助被捕人士及其家人。”</p>
+<p>梁天琦所属的本土民主前线，被外界认为是本土激进派。2月8日下午，他们在社交网站号召到旺角声援小贩摆卖，行动最终演变为通宵骚乱。本土民主前线在社交网站公布，组织约20名成员及义工被捕，而另一名发言人黄台仰，2月11日也被拘捕。</p>
+<p><strong>外交部斥“分离组织”，赞警队依法办事</strong></p>
+<p>同日，中国外交部在网站特别发稿，首次开腔评论旺角的骚乱事件。发言人洪磊表示，旺角发生了由个别“本土激进分离组织”为主策动的暴乱事件，是中国官方首次以“分离组织”形容香港本土派团体。过去多次在中国发动暴力袭击、争取疆独的组织“东伊运”，也被官方定性为“分离组织”，意味香港情况或已提升至新疆、西藏等地的分离主义层次。</p>
+<p>洪磊又赞扬香港警方专业、克制，依法采取有效措施，迅速平息事件。不过根据苹果日报2月11日的报道，有警员不满高层部署，认为当日装备及部署不足，致使89名前线警员受伤，部分人仍然留医。其中伤势最严重的旺角警区警民关系组警长黄乐安，因被砖头掷中，左脸骨裂，前日完成手术取出碎骨，脸上缝了30针。</p>
+<p>警方在事发旺角现场即时拘捕61人后，次日开始作大规模拘捕行动，2月10日再拘捕了3人，11日拘捕了1人。同日（2月11日），警方又在葵涌一个工厦单位捣破一个“武器库”，当场拘捕3名男女，其后再拘捕多一名男子。行动中检获一批利刀武器、辣椒水及化学物品，警方称不排除与旺角暴乱有关会。</p>
+<p>不过，环保回收团体“结束一桶专弃”多名成员，即晚赶到葵涌警署，指在单位内被捕的3人，其实是环保组织成员，冲突当晚并未到过旺角，要求警方尽快把他们释放。 发言人日青表示，涉事工厦单位是用作摆放回收物品，包括家庭搬屋丢弃的菜刀、家具和铁笔等。日青向端传媒表示，成员会在街上回收各种物品：“街上被丢弃的辣椒多得你不能相信，不论拾到甚么，我们都会想想那可以用来做甚么，而辣椒水其实用作农田用的驱虫剂。”她希望到警署澄清后，警方会尽快释放相关被捕人士。</p>
+<p>事件引起社会讨论，有网民扬言要投诉警方。前监警会委员郑承隆对端传媒指出，如果有人认为警员有不当行为，可以有两个做法：第一是报案，警方会循刑事案件方向作出调查；第二是向投诉警察课作出投诉。投诉警察课是香港警队内部部门，接到投诉后，会调查投诉是否成立、有关警员有否违反警例，报告则交予由独立人士组成的监警会，审核有关报告内容。</p>
+<p>2014年雨伞运动后，监警会在2015年10月期刊，引述投诉警察课数据，指收到528宗与雨伞运动有关的投诉，截至2015年10月9日，只有21宗完成全面调查，105宗无法追查。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-%E4%B8%8B%E5%8D%889.33.54.png?resize=555%2C368" alt="Screen Shot 2016-02-11 at 下午9.33.54" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.33.54.png?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-11-at-下午9.33.54.png?w=555 555w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><br><span>图：端传媒设计部</span></p>
+<p>郑承隆又说，投诉警察课在调查投诉时，如发现案件有刑事成分，有关调查会随即终止，而警方则会展开正式刑事调查，直至刑事案件完成调查，甚至在法院完成审讯后，投诉警察课的调查才会重启。</p>
+<p>至于是次旺角骚乱事件的被告，在自己涉嫌的案件审理期间投诉警方，他说一般要等到案件审结后才会处理：“很多律师都会在开审前，为被告提出这类投诉，但为了避免影响案件公正审讯，这些投诉会在原本的案件审结，甚至上诉完成后才处理，所以即使投诉属实，一般也不会令被告脱罪。”</p>
+<p>被控以暴动罪的薛冠辉，保释后回到家中，他戴着口罩，经过40多小时在警署落口供及扣留，显得非常疲累。薛妈妈说，薛冠辉曾向警方投诉被殴打，但未获受理。“他回家后身体仍然觉得很痛，但脱下衣服看不到明显伤痕，唯有不再追究。”薜妈妈心痛地看着儿子说：“长那么大了，我就没有理会他做甚么，他自己平平安安就可以了。”</p>
+<p>（实习记者许创彦对此文也有帮助）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BA%AD%E5%AE%A1%E7%8E%B0%E5%9C%BA%EF%BC%9A%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1%E5%8F%82%E4%B8%8E%E8%80%85%E9%9B%86%E4%BD%93%E8%A2%AB%E6%8E%A7%E6%9A%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92/?category=18271" rel="tag">旺角</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">香港旺角警民冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%9C%AC%E5%9C%9F%E6%B4%BE/?category=18271" rel="tag">香港本土派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9%E9%80%83%E7%A6%BB%E4%BA%86%E6%96%B0%E5%86%9C%E6%9D%91%EF%BC%8C%E5%86%9C%E6%9D%91%E4%BA%BA%E8%87%AA%E5%B7%B1%E4%B9%9F%E9%80%83%E7%A6%BB%E4%BA%86/" target="cdt-mirror">霍真布鲁兹老爷：上海女孩逃离了新农村，农村人自己也逃离了</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0.jpg" rel="attachment wp-att-428966"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0.jpg?w=575" alt="0" height="" data-recalc-dims="1"></a></p>
+<p>这几天看了《女孩跟男友回农村过年，见第一顿饭后就分手》这个新闻，一顿饭何止引发了一次分手，更引发了持续几天的讨论。</p>
+<p>而这餐饭不过是一顿寻常的农家饭菜，甚至有人驱车跑到几百公里外，去吃一顿这样的农家乐，如果是一个驴友把这样的一餐晒到朋友圈里，也许会博得不少赞同，或许还会加上“原生态”这样的评语，但是这样一餐饭，却把一个上海姑娘吓跑了。</p>
+<p>很多人提到了教养，礼貌，事实上没有人可以指责这个姑娘没有教养，没有礼貌，因为别人都不需要直面姑娘可能遇到的风险，而这姑娘真有“一头牛”，她的所作所为，不过是面对可能存在风险的本能反应，用文雅一点的话说，这姑娘陷入了文化休克的状态，用通俗的话说，这孩子懵逼了而已。</p>
+<p>乡村意味着什么？这姑娘来男朋友家乡以前，一定无数次憧憬过这次会面。也许在这个姑娘的认知里根本没有乡村的概念，哦，也许有，乡村是诗与远方，是白云深处的一缕炊烟，是牧童骑牛沿着河边吹着笛子，是大片大片金黄的油菜地，是秋风吹过起伏的麦浪，或许这些都没有，但也至少应该是社会主义新农村宣传片里那样，一个大娘在水泥地的场院里搓着玉米，新盖的砖瓦房前挂着两串红红的辣椒，屋里壮实的儿媳妇炖好了五花肉，炕桌上摆放着鸡鸭鱼，咧着豁牙的老太太冲着记者乐：我活了九十多了，现在的日子是最好的，感谢党感谢政府。最不济也应该是咱们那个屯那样，有奇葩的亚洲舞王赵四和同样奇葩的村民，但个个家有特色产业，每天除了撕逼逗闷子没有任何烦恼。</p>
+<p>但实际上，真实的农村是什么样的？我觉得年前看到黄灯老师的《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%BD%93%E4%BB%A3%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E7%BD%91-%E9%BB%84%E7%81%AF%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%86%9C%E6%9D%91%E5%84%BF%E5%AA%B3%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B9%A1%E6%9D%91/">一个农村儿媳眼中的乡村图景</a>》大概更接近这个姑娘实际看到的农村，农村意味着落后，贫穷，陋习，意味着掉漆的碗筷，缺口的杯盘，粗陋的饭菜，昏暗的灯光，油腻的床铺，可能有螨虫或跳蚤的被子，哦对了，还有厕所，那无处落脚的厕所。</p>
+<p>有人说，这些饭菜只需要ps一下，把光调亮一下就可以了。可是饭菜能够ps，难道贫穷还能ps吗？吓坏姑娘的不是饭菜，还有这饭菜折射出的贫穷。</p>
+<p>从田园诗一下子落到了现实主义小说，这姑娘从生理上产生厌恶是正常的。我敬佩黄灯老师的慧眼如炬和悲天悯人的情怀，我也同样尊重这个姑娘的选择。</p>
+<p>乡村不应该是这样的！是的，乡村不是这样，但农村很多就是这样。我在这里分别用了乡村和农村，因为我们惯于把农村美化，给它蒙上一层玫瑰色的面纱，把它美化成故乡和乡村。不要说这个从来没见过农村的上海姑娘，就是我这个从农村出来的人，也无法相信农村的现状。</p>
+<p>春节期间，因为祖坟的一些事情，我和父兄去了两天老家，一路上我见到因为政府项目搁置，已经拆成残垣断壁的农村，在一片废墟之上，有寥寥几户人家贴着对联，我见到因为工业严重污染，堆放着矿渣和污水横流的农村，我也听我的老乡们谈起，哪个村的村长是B社会，哦不，是有活力的社会组织。</p>
+<p>那姑娘吃的饭菜与我这两天吃到的饭菜相比还算不错的，那至少有鱼有肉，而且还分盘装菜，而我的老乡们，很多现在还习惯把猪肉和各式青菜炖在一起熬煮，悲哀的是，这个村的还是中等偏上。我能做的也就是尽可能多吃几碗这样的菜，夸几句还是家里菜香，然而这样除了慰藉老家亲戚的内心，满足他们的虚荣心之外，没有任何卵用。</p>
+<p>我并不觉得我比那个上海姑娘更有教养抑或礼貌，礼貌和教养对于我的老乡所处的困境而言，没有任何卵用。</p>
+<p>我注意过，我经过的所有农村都面临着生活垃圾的问题，几乎所有的村里都随处可见垃圾。</p>
+<p>这样的农村，基层秩序崩坏，公共设施和公共服务几乎为零，而环境污染和破坏得不到任何重视。这样的农村，连我们自己都恨不得逃离，为什么我们要责怪一个从来不识贫穷为何物的姑娘有那些并没有什么卵用的教养呢？她可以以贤良淑德的准儿媳形象和江西男孩儿的父母笑语嫣然，体现一个大城市人民的教养，然而教养之后呢？潜台词无非还是让这姑娘分手呗。</p>
+<p>有教养也无非是表演之后回上海分手，而她甚至不是选择了没教养，而只是懵逼而已。</p>
+<p>她应该懵逼，她有懵逼的权利。一个国家造成的乡村的制度性贫穷不应该由一个个体来承担，即使她善心大发，嫁给了这个男孩儿，也不过是看客们拍个巴掌，社会主义新农村不会因为记者采访而建成，同样也不会因为王子和公主的童话而建成。</p>
+<p>城乡二元体制正把中国撕裂成两个截然不同的部分，农村和城市，从经济到文化都是两个彼此完全没有交集的单元，但不幸的是，春节这个不合时宜的传统节日，和高铁这种太过超前的交通工具，一下子把两个单元就这么尴尬的碰到了一起，这个事件无论是不是写手刻意营造的，城乡之间的巨大差距都是随后引起网络对立根本原因。</p>
+<p>在两个单元不接触以前，在文宣和想象里，我们可以给城市以富裕，给农村以道德和诗意，在这猝不及防的触摸之后，这样的幻象就被打碎了，农村就是被抛弃的群体，甚至一些地区的城市化工业化就是以农村地区的贫困为代价的。</p>
+<p>有人说，我的老家也是农村根本不是这样的，确实如此，社会主义新农村并不是完全是一句空话，在东部，甚至一些农村的富裕程度傲视大中型城市。所以，这些网友可以吐槽为什么不换一个灯泡，不买几件宜家的家具，从淘宝上买几个碗筷。</p>
+<p>但这对很多中西部农村来言看起来很容易的事就是不可能，至少对这个家庭而言不可能。贫穷的意思是什么？古人的解释里，无财曰贫，无路曰穷，贫穷本来就包含无路可走之意，对现代的农村人而言，贫穷还意味着获取信息渠道的狭窄，因为贫困只能看到眼前利益不敢做长期谋划。</p>
+<p>我在一个农村亲戚家，因为屋里黑，顺手拉亮了灯，可一转身马上就让主人偷偷拉灭了。我不认为一个电灯能耗费多少电，但对于他们来说，大白天亮灯简直是大逆不道，他们能看到钱在燃烧，而这个钱他们可能用来买种子化肥或者做打工的路费。而对于他们而言，好好的桌子碗筷还没坏就要换新的简直造孽。</p>
+<p>我们也无须指责这个男孩没有给这个家庭带来翻天覆地的变化，因为背负这些苦难的家庭，是无法改变的，如果可以改变，就不用逃离到北上广了。</p>
+<p>他们是现代化进程中被抛弃的一群，默默承受现代化让他们付出的代价，我也看不到这样的农村家庭有任何改变命运追赶现代化的可能。面对这样的农村，上海女孩逃离了，农村男孩也逃离了，我们不能说上海女孩没教养，反过来说农村男孩励志，这样的逻辑不通，逃离这样的社会主义新农村本来就是应有的态度。</p>
+<p>也许真的只能等待老一代的老去，等着下一代的逃离，然而我也看到很多失学的留守儿童，或许他们无路可走，也无路可逃。</p>
+<p><strong>微信公号：霍老爷的小木屋（ID: ddz_233）<br></strong><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/11/%E9%9C%8D%E8%80%81%E7%88%B7%E7%9A%84%E5%B0%8F%E6%9C%A8%E5%B1%8B.jpg" rel="attachment wp-att-419220"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/11/%E9%9C%8D%E8%80%81%E7%88%B7%E7%9A%84%E5%B0%8F%E6%9C%A8%E5%B1%8B.jpg?w=375" alt="霍老爷的小木屋" height="" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9%E9%80%83%E7%A6%BB%E4%BA%86%E6%96%B0%E5%86%9C%E6%9D%91%EF%BC%8C%E5%86%9C%E6%9D%91%E4%BA%BA%E8%87%AA%E5%B7%B1%E4%B9%9F%E9%80%83%E7%A6%BB%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/vicsforum%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E7%AE%A1%E5%BE%97%E4%BD%8F%E7%A6%81%E6%9B%B8%E5%B0%B1%E6%98%AF%E7%A1%AC%E9%81%93%E7%90%86/" target="cdt-mirror">Vicsforum｜孔捷生：管得住禁書就是硬道理</a>
+</h2>
+<p><p>香港蘋果日報 2016年2月11日</p>
+<p>春節前夕友人發來《習近平與他的情人們》掃描版，此書是銅鑼灣書店五子人間蒸發的肇源。我沒空看也無興趣轉發，這與李志綏《毛澤東私人醫生回憶錄》和羅宇的《告別總參謀部》的珍貴信史完全不同。然而北京出動強力部門實施國家綁架，越過不止一國之境拿下桂民海，還再派「四大名捕」去泰國搜查他的公寓。看來鬧出風波後這部八卦書籍反會不脛而走。</p>
+<p>如果說靠三分傳聞七分吹水的拼盤有吸睛率，那也是專制主義奇特的共生物。我和阿海有一面之緣，他當時有意拉我「下海」去寫急火快炒的政治禁書，被拒之後再無聯絡。和儒雅的李波不同，阿海本質就是低品書商，他被國家綁架之後聲淚俱下自認醉駕害命，十餘年後千里走單騎回國「自首」，這既符合他的為人，更符合這台暴力機器的性質。</p>
+<p>在極權政體下，真話真相就是危險的破壞力量；同時假話和傳謠又是共存共榮的常態。銅鑼灣五子事件其實是習近平「管得住就是硬道理」的延續，當局於2013年秋開始清網抓大V，習近平將之上升到亡黨亡國的高度。彼時廣東省公安廳某副處長在官網寫微博，大意是網絡要整頓，具體執行時要依法辦事，結果馬上被刪除，該名副處長也被停職。原因是他吃不透中央精神，黨已下決心奪取網絡的絕對統治權，此時講依法辦事實屬多此一舉。管得住就是硬道理，其他都是小道理，像國際形象、民間反應、法律依據等，都是芝麻綠豆。正如強力部門可以「規避法律」越境政治綁架一般。</p>
+<p>偏偏極權的信息封鎖足以讓傳謠褪去罪惡感，因為國家造謠更邪惡和更令人瞠目結舌。《毛澤東私人醫生回憶錄》出版後，北京組織逾百在毛身邊工作過的人指證李志綏造謠，其中不乏名人，諸如汪東興、戚本禹、毛的秘書林克、毛的護士長吳君旭，以及一堆宮廷衞士、理髮員之類。倒是書中惟一被李醫生「實名制」的張玉鳳沒有公開說話，在她產假期間請來代為「照顧」毛的妹妹張玉梅也沒有說話。</p>
+<p>不能永遠瞞騙所有人</p>
+<p>今有羅宇的《告別總參謀部》已證實李志綏所言非虛，羅瑞卿經手處理的主席「女友」就不少。羅宇還披露出李醫生所不知的軼事，李志綏認為江青的私生活安分守己，羅宇卻道出江青到處勾引衞士，「至少和一個衞士發生了兩性關係」，此事毛也知道，後由汪東興報告羅瑞卿，把衞士發配新疆。猛男侍衞和老太太上床很難說是自願，這令人想起了另一部禁書《為人民服務》（閻連科著）。</p>
+<p>毫無疑問，羅宇此書也將被國家謊言所圍剿。只不過羅宇身份特殊，要否認書中事實頗難，還不如直接對羅宇本人發動攻擊，比如他的政治取向，又或人身攻擊他的亡妻狄娜。當動員一國之力去對付異己聲音，你會發現真話往往敵不過謊言。然而正如林肯名言：高明的騙子可能在某個時刻欺騙所有人，也可能在所有時刻欺騙某些人，但不可能在所有時刻欺騙所有的人。</p>
+<p>孔捷生<br>
+專欄作家</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/vicsforum%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E7%AE%A1%E5%BE%97%E4%BD%8F%E7%A6%81%E6%9B%B8%E5%B0%B1%E6%98%AF%E7%A1%AC%E9%81%93%E7%90%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/428930/" target="cdt-mirror">【立此存照】网民们终于又找到了骂春晚的渠道</a>
+</h2>
+<p><p><a href="http://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/">2016年春晚</a>成为舆论灾难后，来自各界如潮的恶评似乎让当局有些紧张。宣传部门一边在自己的平台上自我表扬“一百分”“好评如潮”，一边却对微信、微博上对春晚的负面评价、吐槽内容进行大量删除。新浪微博在其搜索功能内设置了一系列<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E6%98%A5%E6%99%9A%E5%8C%85%E5%AD%90%E3%80%81%E4%B9%A0%E9%9A%BE%E5%A0%AA%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-9/">与今年春晚相关的搜索禁词</a>，<a href="http://weibo.com/cctvxinwen">@央视新闻</a> 官方微博甚至由于前去吐槽的网民过多而一度关闭了评论功能。</p>
+<p>不过，许多网民突然发现@央视新闻今天又悄悄开放了评论，于是大量抱怨无门的网民再次蜂拥而至，在该账号近日发布的几乎所有（与春晚无关的）微博下刷屏抱怨春晚。</p>
+<p>以下为部分热门评论截图，从环卫工到村支书到美国大选，没有什么能够阻止人们对2016春晚的恨意。<br>
+请随意感受：<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%AE%E4%BD%A0%E7%9C%8B%E6%87%82%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD.png" rel="attachment wp-att-428941"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%AE%E4%BD%A0%E7%9C%8B%E6%87%82%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD.png?w=450" alt="帮你看懂新闻联播" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%80%E8%B5%B7%E8%BF%87%E5%A4%A7%E5%B9%B4.png" rel="attachment wp-att-428942"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%80%E8%B5%B7%E8%BF%87%E5%A4%A7%E5%B9%B4.png?w=450" alt="一起过大年" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%A1%91%E5%BE%B7%E6%96%AF%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE.png" rel="attachment wp-att-428943"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%A1%91%E5%BE%B7%E6%96%AF%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE.png?w=450" alt="桑德斯与特朗普" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%9B%9B%E5%95%A6%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BB%BB%E5%8A%A1.png" rel="attachment wp-att-428944"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%9B%9B%E5%95%A6%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BB%BB%E5%8A%A1.png?w=450" alt="大年初四啦今天的任务" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E9%97%BB%E6%9D%A5%E4%BA%86.png" rel="attachment wp-att-428946"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E9%97%BB%E6%9D%A5%E4%BA%86.png?w=450" alt="新闻来了" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E9%97%BB%E6%9D%A5%E4%BA%862png.png" rel="attachment wp-att-428945"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%96%B0%E9%97%BB%E6%9D%A5%E4%BA%862png.png?w=450" alt="新闻来了2png" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E5%8F%91%E5%B8%83%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6.png" rel="attachment wp-att-428947"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E5%8F%91%E5%B8%83%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6.png?w=450" alt="浦东机场发布航班延误橙色预警" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%9D%91%E6%94%AF%E4%B9%A6%E6%9D%8E%E5%90%9B.png" rel="attachment wp-att-428948"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%9D%91%E6%94%AF%E4%B9%A6%E6%9D%8E%E5%90%9B.png?w=450" alt="村支书李君" height="" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8C%97%E4%BA%AC%E7%8E%AF%E5%8D%AB%E5%B7%A5.png" rel="attachment wp-att-428936"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8C%97%E4%BA%AC%E7%8E%AF%E5%8D%AB%E5%B7%A5.png?w=450" alt="北京环卫工" height="" data-recalc-dims="1"></a></p>
+<p><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1822601473" target="_blank">@少年自疼自爱</a>：不错不错，可是春晚真的很烂，<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png?resize=20%2C20" alt="" px data-recalc-dims="1">关评论真的很大胆，今天关评论，指不定哪天来个文字狱，杀人灭口了<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2833576783" target="_blank">@追梦人走丢了</a><i></i>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">开评论了啊，我又能夸你了，真够不要脸的95%啊</p>
+<p><a href="http://weibo.com/2360523763" target="_blank">@关先生的旅程</a><i></i>：有人说怎么还骂春晚啊，可你看看，都初四了还在滚动播出，没完没了爆料幕后，意思就是“你们知道他有多努力吗<img title="[泪]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]" data-recalc-dims="1">”。不论什么新闻，第一条都是“让我们首先来关注春晚~” 年夜饭都吐出来了</p>
+<p><a href="http://weibo.com/5711082649" target="_blank">@幻覺21552</a>：你包的饺子我不吃<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">一股新闻联播味道</p>
+<p><a href="http://weibo.com/5297359744" target="_blank">@小光WBMW</a><i></i>：今年春晚不算差，不信看明年<img title="[打脸]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]" data-recalc-dims="1"><img title="[打脸]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2585095677" target="_blank">@安娜的梦想要记得</a><i title="微博达人"></i><i></i>：就是来打卡 大家不要忘了央博关评论拍马屁<img title="[害羞]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/shamea_org.gif" alt="[害羞]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2649872173" target="_blank">@一本名叫半岛鉄盒</a>：啊咧，终于可以评论啦？你们这是掩耳盗铃造吗<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1775756433" target="_blank">@咸鱼唱着小情歌</a>：春晚办得真好。<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">妈妈再也不用担心我熬夜看电视了。</p>
+<p><a href="http://weibo.com/1798326440" target="_blank">@Tonyya</a>：热烈庆祝央视放开评论!<img title="[可爱]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif" alt="[可爱]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2992328377" target="_blank">@顾红运</a>：并没有看到有人骂你<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">看来大家是对你们失去关心了，信心了！</p>
+<p><a href="http://weibo.com/5192829987" target="_blank">@zhbfighting</a>：他们再牛逼也办不了我天朝春晚。不用担心<img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1863956952" target="_blank">@_Ceeport_</a><i></i>：春晚和天津大爆炸调查结果禁止评论，还删微博，真是不要脸<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"><img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/mimang1993" target="_blank">@张张张张光</a><i></i>：你敢开评论可！？你以为春晚热度过了我们就不骂你？<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"><img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"><img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3991947640" target="_blank">@我要保护爱附体</a>：到现在都不敢承认错误给个说法，还把自己夸得要上天。你咋那么厚颜无耻呢<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3316190720" target="_blank">@变成小土豆</a><i></i>：辣鸡春晚关上评论就是好评一片，如此不知道诚信虚假报道的媒体，谁还相信呢，谁知道你播的新闻是不是和现实截然相反<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/happymyhehe789654852" target="_blank">@Npq_</a><i></i>：春晚不烂呀 全程让观众不笑看出来花了很大的心思 不要再说烂啦 <img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5033104722" target="_blank">@伊癫园Light</a><i></i>：【春晚最大笑话就是吓得央视不敢开评论】我想知道这帮人对“人民”和“民意”的定义，这不是网友在捣乱，而是这帮自欺欺人的家伙关评论、删差评强行代表民意表示“满意”这样的厚颜无耻行为引起了民愤<img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"><img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"><img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1">  我们这些没有背景奋斗在社会底层的普通老百姓悲哀到连人民都不算了各位<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<blockquote><p>@逗比你才是逗比呢：图片评论<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005RtJUQgw1f0veu7ejbhj30e70m8ta3.jpg" rel="attachment wp-att-428955"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005RtJUQgw1f0veu7ejbhj30e70m8ta3.jpg?w=400" alt="005RtJUQgw1f0veu7ejbhj30e70m8ta3" height="" data-recalc-dims="1"></a></p></blockquote>
+<p>@钱串子GO：为了避风头，所以关闭评论，以为风头过了，就打开评论，没想到此时（或者一直到来年春晚），大家会一直吐槽的</p>
+<p>@放开那只逢坂大河罒-罒：你以为到了现在没人吐槽春晚了？</p>
+<p>@6灵感来源9：你全程假唱，却告诉我们要诚信； 你漠视观众，却告诉我们要敬业； 你删我的言论，却告诉我们要自由； 你无限取悦上级，却告诉我们不能腐败</p>
+<p>@铠叔：孝顺就是全家人一起在电视机前看看电视，聊聊天。结果，你就给我看那种垃圾晚会……</p>
+<p>@sugar姐姐啊：我就是过来观光的。坐等春晚……</p>
+<p>@回顾JJJJ：我想去带个红领巾再来评论！</p>
+<p>@lynn_630：真搞不懂怎么就把评论关了，关的了评论，关不了我们的心声。竟然做不好，接受批评不是虚心的表现吗。</p>
+<p>@鲸圃：我翻了最近在央视新闻开放评论之后的网友的话，唏嘘之余我看到的是网友对言论自由的争取，不管你央视在没在听，我们仍然是有自己的权利，无论是什么时代，在一个大国里，对人民语言的倾听都无比重要，作为发声的大众传媒的央视新闻，你的作用不是掩耳盗铃……赞我朋友们，让他看到</p>
+<p>@紫川u2b：中国的选举制度就是好。（测试一下可不可以评论）</p>
+<p>@名字并不存在：能評論嗎？今年春晚是粉飾太平的樣板春晚</p>
+<p>@张力群先生：我在寻思。春晚难看大家都知道，你们又何必封了不让评论呢？粉饰太平也不是你一家可以做到的，民智已开，你让大家点评点评怎么了？适得其反不懂么？按理说中央不都是精英么，这点都不懂。</p>
+<p>@大雯雯有颗大心脏：在这里，给历届春晚导演道个歉</p>
+<p>@刘帅5201314：央视你好意思开评论了，你以为春晚完了就不会骂你了，是阅读量少了你才开的吧，我呸你那个破春晚我呸你这个缩头乌龟</p>
+<p>@skip-to-lou：我就说春晚辣鸡 看你删不删我的评论</p>
+<p>@小资小调的生活：央视别以为转移话题就能躲过人们的心声，那是不可能滴，今年春晚话题天天见，2016年天天聊猴年春晚，今年就和春晚过不去了！</p>
+<p>@惜抱轩006_pza：骂你的评论这么多，我实在赞不过来了</p>
+<p>@篮球动图大全：央视以为度过危险期了吗？我已经憋了好多天想骂你了！同感的点赞！</p>
+<p>@一咧一：哟，居然开评论了，我以为你要关一个猴年呢</p>
+<p>@捏你哒小脸蛋：我等屁民终于可以进屋说话啦？谢主隆恩！吾皇万岁万岁万万岁！</p>
+<p>@大月半子：虽然开了评论，但是某些评论瞬间失踪了，呵呵</p>
+<p>@心雨心愿21209：之前我不明白央视春晚为什么收视率那么高，今天我总算是弄明白了，因为打开电视除了CCTV1还是CCTV1根本就没有其他节目可看，也只能委屈的看一下了，这也体现了什么叫“霸权主义”如果允许地方节目在大年三十播出《春晚》，我就不信你的收视率还那么高。你已经“霸权”三十多年了该解放了……</p>
+<p>@关先生的旅程：哦，又让评论了啊？ 4个小时的政府工作报告你告我100分；开场第一个歌曲那明明是数来宝你硬说以年轻人喜闻乐见的说唱形式；那舞台布景上来直接给我晃瞎了，剩下4个小时闭着眼睛听下来的。我的导演侄儿，您嘛呐？</p>
+<p>@TracyJDawson：结论从哪里得来的 该不会是胳肢窝理论创造者说的吧 你们嘴里出来的。。不停的刷春晚的评论不是为了获得赞或者无聊 而是对于一台晚会的不同意见都不能接受 要动用到删微博 关评论 以后什么事会听意见 大家只是害怕一言堂 之所以在不相关的微博下评论是因为关于春晚的微博不给评论</p>
+<p>@铠叔：为好人点赞！可是说实话，春晚够烂</p>
+<p>@想去安联看场球XDD：呵呵你特么有脸说对得起良心？呵呵呵，好多人对春晚满意度被代表的时候你怎么不问问你们的良心？那么多网友喷春晚到你们这变成广泛好评的时候你怎么不问问你们的良心？</p>
+<p>@豆是吴彦祖：书读得少看不懂。我只看得懂chun弯。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/428930/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E9%83%91%E5%B0%8F%E7%90%BC%EF%BC%9A%E9%9B%BE%E9%9C%BE%E5%BC%8F%E7%9A%84%E4%B9%A1%E6%84%81/" target="cdt-mirror">博谈网｜郑小琼：雾霾式的乡愁</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0_105.jpg?w=545" alt="雾霾式的乡愁" height="" data-recalc-dims="1"></p>
@@ -509,105 +692,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%AC%E5%80%BC%E5%92%8C%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">美国之音｜张欣：人民币贬值和危机</a>
-</h2>
-<p><p><em>原标题：张欣: 人民币贬值和危机————索罗斯还是红卫兵魅影作祟？</em></p>
-<div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s.jpg" rel="attachment wp-att-428222"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s.jpg" alt="在北京，一位保安人员往外张望，他旁边有关于人民币百元新钞的介绍(2016年1月7日)" width="575" height="" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s-300x169.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/F7A450FB-E4E9-4C2E-BAFC-BEC744B1FC3A_w640_r1_s.jpg 640w" sizes="(max-width: 640px) 100vw, 640px"></a><p>在北京，一位保安人员往外张望，他旁边有关于人民币百元新钞的介绍(2016年1月7日)</p></div>
-<p>2016年新年伊始第一个交易日，人民币兑美元汇率暴跌600点。半年来累计人民币已贬值了6%，其前景更不容乐观。远期交割的ndf市场预期两年内人民币将贬为7.2元兑1美元。如此持续贬值将对中国经济和国民生计，从物价、出国留学、到国际支付等造成巨大负面冲击。</p>
-<p>记得2014年前人民币汇率不断走强升值，成为国际货币中的强势货币。而2014年后形势却被迅速逆转，它不断贬值并被国内外普遍看空。究竟什么原因造成这个人民币汇率恶化？</p>
-<p>中国官方媒体将此归咎于索罗斯的“魅影浮动”。如很多国内外学者已经指出，这种指责没有依据，是官方为自己问题寻找替罪羊的手法。这是因为，一，中国在国际金融交易上有严格限制，投机者很难炒作；二，索罗斯也没有这么大资金能和中国对博。真正的问题还是出在中国本身。这两年来，从李嘉诚到中国普通百姓，（注意这些人和索罗斯没有关系，其中不乏有讨厌索罗斯的），都在加快将资金朝海外转移。结果大量资本外流，中国国际收支恶化，迫使人民币贬值。</p>
-<p>从长期均衡值来看，人民币本来不需要贬值。货币汇率的长期均衡价值由购买力平价决定。据英国《经济学人》最近计算，按照购买力平价，人民币现行汇率6.56元兑1美元还是低估的，应该升值到6元兑1美元。</p>
-<p>不过在中短期，汇率由外汇市场上的人民币和美元的供求决定。如果供求严重失衡，就会导致货币危机。这个外汇供求反应在中国国际收支上。其逆差会压迫货币贬值，顺差使货币升值。国际收支包括经常项目和资本项目。经常项目包括外贸、旅游、服务等方面的收入。中国经常项目下2014年顺差2100亿美元，2015年顺差2900亿美元，带来大量外汇收入。因此，迫使人民币贬值的问题一定是中国资本项目（包括金融和遗漏）下的巨额逆差，也即资本外流。</p>
-<p>资本和遗漏项目包括：归还外企本金与返利，付外债，境外投资，以及灰色或地下转移等。2015年尽管有经常项目赚入的2900亿美元外汇，中国外汇储备还是减少了5100亿美元。可以推算，在资本项目和遗漏项目下的外流已达8000亿美元。加上假报进口等其它方面，2015年全年资本外流，据彭博社估计有1万亿美元。更令人担心的是，这个资本外流还在加速。2015年12月单月资金外流达1587亿美元（彭博），外汇储备创纪录地减少了1070亿美元。如此下去，中国的三万亿美元外汇储备也会很快枯竭。中国外汇面临的形势非常严峻，处理不好将形成货币危机。</p>
-<p>注意中国和其它发达国家不同，人民币在资本项目下还不能自由兑换。中国全口径外债也数量有限可控。这意味着，这1万亿美元的资本外流，大部分是人们假借投资、还债等各种名义，或者干脆走灰色和地下渠道，卖出人民币换成了美元外汇。</p>
-<p>为什么这两年大量资本加速外流，人们如此恐慌？资本追求的无非是高回报和低风险。就回报而言，人民币银行利率比美元高2个百分点，回报还高。剩下的解释就是在中国的投资风险系数增加，政治大环境发生不利于商业经济的恶化。举两个最近发生在我周围的典型例子。一个国内商人在我们那里花了6百万美元，“投资”了一块地和一个商业，然后撂在那里即不开发也不营业，每年还要白给美国政府缴税。你说他的投资有什么回报？明明是负回报，他也要把资金外流到美国。另外一个例子是河北一城市出来的普通夫妇。他们刚卖了国内房子，倾家荡产将全部钱转出来。太太原来在国内是小学教师，丈夫做小生意。现在在这里打工，想方设法转签证搞移民。我问他们何苦。他们回答说，现在国内“许多做法很左，象回到文革那样，大家怕”。</p>
-<p>从上述例子到海内外媒体网络的普遍报道，可以看见资金外流的原因是目前中国政治环境恶化，仇富仇外气氛弥漫，红卫兵魅影浮动。在“加强党的领导”和“做大国企”的口号下，民企公营化，国企党营化，经济问题政治化，外资和私有经济被歧视挤压。在爱国强国的口号下，国际关系紧张，法治倒退到连律师都能被成批抓捕，使外商、华商、企业家，百姓恐惧。这些做法显然比邓江胡时代倒退。大气氛恶化了，结果资本用脚投票，大量出逃。</p>
-<p>温家宝说过，“要警惕文革悲剧重演。没有政治改革，那么后三十年经济改革的成果也会得而复失。”资本从过去的大量流入变成大量出逃，人民币从升值变为贬值，印证了温家宝的红卫兵魅影政治将惩罚经济的警告。中国执政当局需要改变目前的政治左倾做法，去除党治人治，尊重市场和法治，承认普世价值，使百姓免于恐惧。这样才能稳住国际资本，稳定人民币汇率，避免可能的更严重经济危机。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%BC%A0%E6%AC%A3%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%AC%E5%80%BC%E5%92%8C%E5%8D%B1%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">国企改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">国有企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A6%E8%BD%AC/?category=18271" rel="tag">左转</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E7%BD%97%E6%96%AF/?category=18271" rel="tag">索罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E7%BC%B6%EF%BC%9A%E9%A9%AC%E5%AE%B6%E5%86%9B%E4%B8%91%E9%97%BB%E7%9A%84%E9%9D%A0%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%B8%BE%E5%9B%BD%E4%BD%93%E5%88%B6/" target="cdt-mirror">东网｜赵缶：马家军丑闻的靠山就是举国体制</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/k8cccccc.jpg" alt="k8cccccc" width="551" height="394" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/k8cccccc-300x215.jpg 300w, http://chinadigitaltimes.net/chinese/files/2016/02/k8cccccc.jpg 640w" sizes="(max-width: 551px) 100vw, 551px"><br>
-马家军兴奋剂丑闻掩盖了二十年，如今终于大白于天下。 「马家军」这个曾代表着体育界无上荣光的词要被重塑了。</p>
-<p>马家军兴奋剂丑闻掩盖了二十年，如今终于大白于天下</p>
-<p>我们知道，作家赵瑜通过采访调查所写出的《马家军调查》其实早已出版，只是其中删除了有关兴奋剂的部分。为何删除不言而喻，谁要求删除的也不难猜想。或许有关方面也早想到，一旦披露了事实，将会引发怎样的震惊。</p>
-<p>马家军曾经的辉煌如今看来更像一个泡沫。马俊仁当年几乎是国家英雄一般的存在，但是如今披露出来的却是，他在以王军霞为代表的一众队员心目中简直就是魔鬼，他亲自给队员们注射兴奋剂，他用残酷的方式训练孩子们，用严苛的管理控制着每一个队员，让他们的身心受到极大的折磨。而在王军霞们无法忍受脱离马家军后，她们依然得不到公正的对待，不但要承受「背负师恩」的控诉，更在中国体育界再难有一席之地。马俊仁要让这些「背叛者」们知道，她们「离开马家军什么都不是」。</p>
-<p>这仅仅只是马俊仁一人的恶行吗？那为何《马家军调查》即使删节出版后仍然惹来麻烦？辽宁方面调动政府与媒体资源全面声讨作者赵瑜；薄熙来的夫人甚至写了一本书叫《我为马俊仁打官司》；央视春晚上黄宏的小品更是为马家军叫好。而与马俊仁病床上声泪骤下地控诉赵瑜相对应的是，王军霞被迫远走他国，马宁宁彻底告别体育，大多数队员患上肝病 。</p>
-<p>从《药魔重创马家军》的章节中不难发现，兴奋剂给运动员们造成巨大的身体和精神伤害，但马俊仁也不过是举国体制下的一个执行者而已。当运动员们被捆绑上了「马家军」的标签，她们已经不再属于自己，而是属于祖国的荣誉。为了奖牌，为了荣誉，马俊仁选择了使用兴奋剂，而这一切，国家都是心知肚明的，否则在 1994 年亚运会前夕，国际药检员使用飞行药检突击的情况下，马俊仁率领的「马家军」不可能顺利逃脱，正如书中所写：「从沈阳站到北京铁道部再到郑州站，从地方到军队，经过一连串的动作，总算为老马争取了时间」。整个兴奋剂环节中，不但有高级别的官员在掩护，还包括了解内情的各系统各部门人员，体育界只是其中的一环而已。</p>
-<p>为了祖国的荣誉，所以成就了马家军的荣耀，也正因为这是祖国的荣誉，所以其中的污点必须被掩盖。而公众只负责「你快乐所以我快乐」，但不负责了解真相。直到真相都快被揭露出来了，还在想尽方法封杀真相，让了解真相的人要么沉默，要么远离。这就是举国体制带给人民兴奋背后的残酷事实。</p>
-<p>可这真的值得吗？或许马俊仁认为值得，或许官员们认为值得，但那些被牺牲的运动员们不会认为值得，那些认为体育精神更重要的人不会认为值得，所以反对的声音迟早总会发出来，而荣耀的泡沫也终会破灭。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E7%BC%B6%EF%BC%9A%E9%A9%AC%E5%AE%B6%E5%86%9B%E4%B8%91%E9%97%BB%E7%9A%84%E9%9D%A0%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%B8%BE%E5%9B%BD%E4%BD%93%E5%88%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E5%9B%BD%E4%BD%93%E5%88%B6/?category=18271" rel="tag">举国体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%86%9B%E9%9C%9E/?category=18271" rel="tag">王军霞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%91%9C/?category=18271" rel="tag">赵瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BF%8A%E4%BB%81/?category=18271" rel="tag">马俊仁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E8%AF%A5%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3ccav%E6%98%A5%E6%99%9A%E8%A2%AB%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE%EF%BC%9F/" target="cdt-mirror">唐映红：该如何理解CCAV春晚被“好评如潮”？</a>
-</h2>
-<p><p>问：该如何理解CCAV春晚被“好评如潮”？</p>
-<p>答：昨天除夕夜，一年一度的CCAV春晚也如期过场。尽管20多年来，我就几乎没有看过春晚，但在今天从朋友圈和媒体报道中也大概知道春晚到底好不好。根据春晚总导演自己的评价，一百分：“我觉得交了一份满意的答卷。”根据CCAV自己的新闻联播报道，“央视春晚好评如潮”。</p>
-<p>如果对于一个肤浅的社会观察者来说，应该不难得出今年春晚口碑不错的印象。无论是总导演自己的评价，还是该国最大的电视机构的新闻联播报道，都支持春晚“好评如潮”的口碑。不过，从另一个方面，我的朋友王五四、宋石男和贾葭也在春晚结束数小时之内发表了对今年春晚的评论，不过他们的评论文章都在第一时间被屏蔽、删除；与他们类似的还包括绝大多数对春晚没有“好评如潮”的评论。</p>
-<p>从现象上来看，当权力集团能够将所有负面和批评的声音都屏蔽和消灭掉，那么剩下的就必然是“好评如潮”。但是，从心理学角度，禁止批评的“好评如潮”没有任何意义，也不能作为任何有价值的社会舆论样本予以分析讨论。在一个没有压力的情境下，人们无论表达批评和赞美都不会感受到任何威胁，那么他们无论是表达批评还是赞美都可以作为他们对于特异性对象的态度数据，可以进行有效的统计和分析。但是，如果人们感受到社会压力时，哪怕是微弱，而且不会有任何威胁和风险的从众压力，人们都可能会扭曲自己的真实态度，而迎合调查者或大众的权威或主流态度倾向。更别说受到实际的压迫和威胁，人们所表达的态度已经失去真实的参考价值；特别是在成规模、系统地屏蔽和删除不受欢迎的态度表达。</p>
-<p>因此，从社会或社会心理研究的角度，直接引用春晚导演和官媒报道的数据没有任何价值。春晚导演所言及的“一百分”“交了一份满意的答卷”显然不是为观众或民意而表达的，而是为受命的权力集团所表达的。该国最大电视机构以及官媒所报道的公众舆论数据也显然是在屏蔽和删除不受欢迎的态度表达之后选择性报道的结果，其迎合对象也显然是神秘的权力集团。这就好比，10个人吃了权力者的屎，有8个人觉得难吃，但剩下1个傻子和1个谄媚者说味道不错，然后“抽样”调查就抽这个傻子和谄媚者，然后得出“好评如潮”的结论并广泛传播。</p>
-<p>不仅如此，屏蔽和删除不受欢迎的态度表达，以及选择性地拣选符合宣传口径的态度表达予以广泛报道传播，所造成的后果还不仅仅在无法得到有效的社会舆情数据，更严重的后果在于无论权力集团还是民间都将陷入面对失控的民意舆情的泥潭。特别地，对于一个复杂的、民意严重撕裂的社会来说，当权力集团和第三方观察者都无法有效地得到靠谱的民意数据时，社会失序和崩溃的风险就会失控。这种失控不仅对于社会个体而言会掩饰真实的态度表达；对群体而言则从行为层面反映出虚假的民意态度诉求；对权力集团则会高估民心的向背并极易做出误判，以至于蹈入做什么都错的“塔西佗陷阱”（Tacitus Trap）。</p>
-<p>概而言之，CCAV的春晚被官媒“好评如潮”从微观的角度将进一步地使官媒的报道失去公信力和任何参考价值；从宏观的角度，却不过是社会民意和民心向背的进一步失控和失序，往日渐怠惰力竭的骆驼身上再扔一根稻草，再扔一根稻草，再扔一根稻草。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E8%AF%A5%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3ccav%E6%98%A5%E6%99%9A%E8%A2%AB%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav%E7%B2%BE%E9%80%89/?category=18271" rel="tag">ccav精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%92%91%E5%B0%8F%E8%B4%A9%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98%E6%88%90%E9%80%9A%E5%AE%B5%E9%AA%9A%E4%B9%B1%EF%BC%9F/" target="cdt-mirror">端传媒 | 撑小贩如何演变成通宵骚乱？</a>
-</h2>
-<p><p>作者：赵燕婷</p>
-<blockquote><p>本因声援鱼蛋小贩而起，经过整夜的血与火，却演变为香港近年最严重的警民冲突。警方称事件有预谋。围观市民中一名中年女士哭起来：“香港人为什么要打香港人？”</p></blockquote>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-%E4%B8%8B%E5%8D%888.46.56.png" alt="Screen Shot 2016-02-08 at 下午8.46.56" width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.46.56-300x199.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.46.56.png 617w" sizes="(max-width: 550px) 100vw, 550px"><br><span>清晨5时，示威者在旺角通菜街手持砖块。示威者背后为焚烧着的杂物。 摄: 林亦非/端传媒</span></p>
-<p>凌晨2点03分，就在距离我不足十米之外，一名警察向天开了一枪。不到数秒后，他再次向天开了一枪。连续两声枪声下，示威者还未即时反应，直至警员停下脚步，用那还冒着烟的枪指向人群，示威者才慌忙地向后方逃去。</p>
-<p>大年初二（2月9日）凌晨，我在香港旺角砵兰街附近目睹这一幕。当晚，香港本土民主前线及其他组织成员，称声援在旺角砵兰街摆卖熟食的小贩事起，与警方爆发严重的暴力冲突，最终演变为旺角通宵骚乱。</p>
-<p>凌晨约1时，我到达旺角砵兰街与亚皆老街，街道上十多档夜市小贩正在摆卖，有卖臭豆腐的、有烧串烧的、有煮鱼肉汤的，市民在街上吃著夜宵，一片新年气氛。然而，沿着砵兰街向南走到近山东街，却看到大批手持盾牌的警员与示威者对峙。我站在示威者后排，见到有人向警员抛掷玻璃樽等物件，而警员则不时向示威者施放胡椒喷雾还击，冲突逐渐升级，互不相让。</p>
-<p>按香港特区法例规定，流动小贩与固定摊位小贩都需要领有牌照，否则禁止摆卖，但过往在农历新年期间，香港食物环境卫生署（简称食环署）执法都会较宽松，不少小贩会在这几天农历假期趁机开档，吸引不少人潮，成为了香港农历年具有本土特色、也受市民欢迎的“新年夜市”。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-%E4%B8%8B%E5%8D%888.48.39.png" alt="Screen Shot 2016-02-08 at 下午8.48.39" width="550" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.48.39-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.48.39.png 617w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2016年2月9日，凌晨五时，防暴警察向示威者施放胡椒喷雾。摄：卢翊铭/端传媒</span></p>
-<p>但近年，食环署加强清理，其中位于九龙深水埗桂林街、最为人熟悉的“桂林夜市”，自2013年起已多次被突击检查和扫荡。前日（2月7日），香港专上学院讲师刘小丽因不满食环署严厉执法，导致小贩不敢开档，选择“公民抗命”，在桂林街替“肠粉大王”开炉叫卖被捕，被控无牌摆卖、阻街和因销售食物用途加热3项罪名被捕，引发近百人到警署声援。事件引起舆论关注。后因“桂林夜市”的档主将在初一移师至旺角朗豪坊附近摆卖，包括刘小丽在内的不少不满食环署执法的市民便呼吁“一齐到旺角笃鱼蛋，一齐捍卫小贩”，数百名支持者这晚到了现场。</p>
-<p>示威行动的参与组织之一本土民主前线成员，在停泊在示威者后方的一辆客货车上，用扩音器呼吁在小贩档附近聚集的人士，支援前方的示威者。大批聚集人士及市民随即走到前线支援，部分人士更拾起杂物，及用胶袋装起地上硬物，作为抵抗工具或武器。</p>
-<p>现场对峙情况剑拔弩张起来，越聚越多的示威者向警方叫骂及冲击，也有示威者中胡椒喷雾受伤倒地。然而，在示威前线旁边行人路的小贩，却继续以火水炉（煤油炉）煮食，档口不时火光熊熊。</p>
-<p>约1时40分，警方突然大规模施放胡椒喷雾，大批示威者向后退。一阵混乱过后，前方传来警方警告：“你们不要再洒火水（煤油），不要‘玩咁大’（行为过火），这是刑事的。”警方警示之后，继续向人群推进，大部分人向亚皆老街退去，我和另外一批示威者，则被驱赶到朗豪坊戏院门外。</p>
-<p>这时，此前双方对峙的位置已经清空，地上只留下数个油罐以及水渍，约十分钟后，警方要求在戏院门外的我们，沿一条小巷进入山东街，并要求示威者离开。</p>
-<p>我离开山东街后，转入上海街向亚皆老街走去。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-%E4%B8%8B%E5%8D%888.50.03.png" alt="Screen Shot 2016-02-08 at 下午8.50.03" width="550" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.50.03-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.50.03.png 616w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2016年2月9日凌晨，旺角，一名警察在亚皆老街倒地。摄：Billy H.C. Kwok/端传媒</span></p>
-<p>凌晨2时的亚皆老街，已经被另一批示威者“占领”，街上零散地放了木卡板和垃圾桶，是示威者推在路上的“路障”。</p>
-<p>刚过2时，我见到数十名示威者一边追赶警员，一边拾起地上的木卡板等，向警员掷去。警员则一边以警棍、胡椒喷雾等向示威者还击，一边向后跑。其中一名警员，混乱间被地上的木卡板绊倒在地。正当示威者准备向前冲，另一名警员在后方向天鸣发两枪，之后冒著轻烟的枪指向人群。</p>
-<p>我在十米外目睹这几秒的开枪画面，深感震惊，周围示威者和聚集市民，似乎也一样吓呆了。他们定过神后，不断向当场警员叫喊，质疑他们“为什么要开枪？”、“示威者做了什么？”、“他们手无寸铁？”，叫骂声夹杂“黑警”及各种粗言。</p>
-<p>鸣枪之后，手持大型盾牌的警员，随即封锁了介乎上海街和弥敦道之间的一段亚皆老街，并清理地上的大型杂物，但仍可以看到满地磗头和玻璃碎片。约15分钟后，一辆救护车驶进封锁范围，将一名受伤警员送走。</p>
-<p>2时30分，我沿上海街走到快富街，再转出弥敦道。甫走到大街上，就看到警方包围起一群聚集人士，而在他们前方，一名示威人士倒在地上，头破血流，一地鲜血。有警员正以纸巾掩着伤者头部的伤口。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-%E4%B8%8B%E5%8D%888.51.20.png" alt="Screen Shot 2016-02-08 at 下午8.51.20" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.51.20-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-08-at-下午8.51.20.png 613w" sizes="(max-width: 550px) 100vw, 550px"><br><span>清晨7时，警方在旺角清场期间，一名示威者在山东街近洗衣街被警察使用警棍打至头部流血，倒卧地上，其口罩跌在身旁。摄：卢翊铭/端传媒</span></p>
-<p>冲突持续至天亮仍未平息，而且越见激烈。有示威者以砖头掷向警员、有人在街上焚烧杂物、有人以打碎的玻璃樽袭击记者。<br>
-大约7时30分，署理旺角警区指挥官丘绍箕对传媒说，骚乱仍未完全结束，警方至今拘捕23男1女，年龄介乎17至70岁，涉嫌袭警、拒捕、公众地方行为不检等。骚乱期间，有最少44名警员及有记者受伤，有警员昏迷。他并称，“不排除是有组织及预谋的事件”。特区政府亦发表声明称严厉谴责暴力行为，会“全力缉拿肇事暴徒归案，绳之于法”。</p>
-<p>参与行动的本土民主前线在Facebook表示，其发言人梁天琦被捕，梁本身亦是2月28日新界东立法会补选的候选人之一。</p>
-<p>原本因声援鱼蛋小贩、“光复夜市”而起，经过整夜的血与火，却演变为香港近年最严重的警民冲突。在被警方拦阻的围观市民中，一名中年女士大骂警员，说着说着，她却不禁哭起来：“香港人为什么要打香港人？”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%92%91%E5%B0%8F%E8%B4%A9%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98%E6%88%90%E9%80%9A%E5%AE%B5%E9%AA%9A%E4%B9%B1%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92/?category=18271" rel="tag">旺角</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">香港旺角警民冲突</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -619,7 +703,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -629,5 +713,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

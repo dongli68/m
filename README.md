@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B1%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9D%8E%E6%B3%A2%E5%A4%B1%E8%B8%AA%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E4%B8%AD%E8%8B%B1%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/" target="cdt-mirror">BBC｜英外交部：李波失踪“严重违反”中英联合声明</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg" rel="attachment wp-att-429025"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg?resize=575%2C323" alt="160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg?w=624 624w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><strong>英国外交部周五发表最新一份的香港报告，指铜锣湾书店李波事件严重违反中英联合声明、及破坏“一国两制”原则。</strong></p>
+<p>英国外交部发言人对BBC确认，这是首次指出“严重违反”中英联合声明。不过，发言人指出，假如中英联合声明被破坏，未有法律条文规定如何处理。</p>
+<p>外交及联邦事务部大臣菲利普·哈蒙德报告中说，虽然李波失踪全部事实尚未厘清，但现有资料指李波在非自愿情况下被带到中国大陆，并未经过香港法律程序。</p>
+<p>英国方面向中国政府要求，即时让李波回到香港。另外，英国亦呼吁中国及香港政府向港人保证，香港境内只由香港人员执法，及香港人享有的权利及自由将受到保护。</p>
+<p><strong>“只是猜测”和“说三道四”</strong></p>
+<p>不过，香港政府周五对这份报告回应说：“（目前）任何对于李波‘在非自愿情况下被带到中国大陆’的指称只是猜测。”</p>
+<p>中国外交部则在当天晚间回应英国政府的《香港问题半年报告》，称报告中的一些内容对中方“无理指责”。</p>
+<p>“英国政府通过发表所谓香港问题半年报告对香港事务说三道四，指手画脚，报告中的一些内容对中方无理指责。我们对此表示强烈不满和坚决反对，”外交部发言人洪磊说。</p>
+<p>洪磊还说，香港事务属于中国内政，任何外国无权干涉，“英方对香港的所谓‘责任’并不存在。我们要求英方谨言慎行，停止干预香港事务。”</p>
+<p>李波是铜锣湾书店的股东之一，去年12月30日失踪。李波是英国公民。</p>
+<p>不过，报告亦指，“一国两制”在大部分范围内运作良好，不过有关于权利及自由的地方惹人关注。</p>
+<p>英国外交部每半年会撰写香港报告，向国会描述中英联合声明实现的情况。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B1%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9D%8E%E6%B3%A2%E5%A4%B1%E8%B8%AA%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E4%B8%AD%E8%8B%B1%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E6%B6%89%E5%86%85%E6%94%BF/?category=18271" rel="tag">干涉内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%A4%E5%AE%8C%E6%88%90%E8%B5%B4%E7%BE%8E%EF%BC%9A%E6%84%8F%E5%9C%A8%E9%AB%98%E5%B0%94%E5%A4%AB%E3%80%81%E5%B9%B6%E6%9C%AA%E6%B4%A9%E5%AF%86%E6%9C%BA/" target="cdt-mirror">德国之声 | 令完成赴美：意在高尔夫、并未洩密机密？</a>
 </h2>
 <p><p><strong>沉寂许久的令完成如今通过律师发声，表示自己没有向美国交出包括核机密在内的中国国家机密。他的律师接受路透社采访时表示，令完成来美国”是分享打高尔夫的秘诀，并非是国家机密。”</strong></p>
@@ -664,26 +687,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/428282/" target="cdt-mirror">大家｜高昱：论评论的倒掉与“新话”的全面占领</a>
-</h2>
-<p><div><a href="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg" rel="attachment wp-att-427451"><img src="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg" alt="harmonius" width="400" height="502" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/harmonius-239x300.jpg 239w, http://chinadigitaltimes.net/chinese/files/2016/02/harmonius.jpg 598w" sizes="(max-width: 400px) 100vw, 400px"></a><p>《敏感词》概念作品／作者：困兽(Twitter @kunshou)</p></div>
-<p>从主流媒体上看，这两日关于一台晚会的观后感是好评如潮。但在我的移动社交圈里，流传最广的一篇评论毫不意外的遭到举报无法再查看。</p>
-<p>很多朋友感到愤怒，我不这样看。因为我知道，新闻评论在我们这个社会已经死了，某些文章的遭遇，不过是死亡从时事评论蔓延到文艺评论而已。这是自然而然的蔓延，任何了解中国七十年文艺史的人都清楚，文艺从来都是为政治服务的。</p>
-<p>从2002年我接手办《商务周刊》，到2011年杂志停刊，我写了200多篇社评，之后转到后来的单位，也写了几十篇新闻评论文章。但是当我喜欢的李承鹏封笔之后，我也自觉地停下不写了。当匕首与投枪不再被容忍，你只有帮闲着说粉饰话这一途的时候，拒绝被改变的沉默终究还是我的自由。</p>
-<p>更何况，我也逐渐发现，没有一只耳朵是可以被嘴巴说服的。最近常听到人说：你永远无法唤醒一个装睡的人。这更何况，我也逐渐发现，没有一只耳朵是可以被嘴巴说服的。最近常听到人说：你永远无法唤醒一个装睡的人。这句话很解气，但它针对的只是那些因为既得利益而选择掩耳盗铃的人——在我们这个早就把市场经济估计曲解为万物皆可买卖的商品社会里，“如果说谎对一个人有好处，为什么他还应该说真话？”但是需要承认，还是有一些民众，有老也有少，是真心诚意地相信谎言和谎言的逻辑，有些人甚至曾经是被谎言损害和侮辱的。这是多少年来我们的单向度教育制造的悲哀。我们的教育多少年来希望塑造的都是肯定性的文化和驯服型的社会人；乌托邦被现实粉碎后，则又可能像钟摆一样滑上相反的方向——彻底否定性的文化，以及民粹主义的暴躁与戾气。表面看上去这是一对矛盾，但事实上他们有如此容易和谐一致。因为是单向度的思维方式，所以无论是肯定性的驯服工具，还是否定性的民粹主义，都能在指挥棒下取得共鸣。我已经放弃用观点去改变他们的观点的企图，当你说A的时候，他们会说B，当你说B的时候，他们又会说C，实在躲不过去，他们会用最干净利落的阴谋论，你永远不可能比他们更自信。</p>
-<p>自从仓颉造字，文字就经常被比喻成可以随意打扮的小姑娘。但或许老祖先们从未想到过，语言文字可以乏味到今天这种地步。张维迎曾经提醒过我们注意语言的腐败，即以丑为美、越假越美。我们看那些赞歌读后感，每个字都认识，但你浑然不知道它在表达怎样的意思，文字就像稻草人的眼神一样空洞无物，连最低劣的粉饰作用都已经无法达成。</p>
-<p>乔治·奥威尔在小说《1984》中天才地使用了“新话”一词。旧话被禁止使用，从公共生活中消失，那些不被喜欢的词语以及所代表的思想，也就由此从人们脑海中消失。</p>
-<p>事实证明，这并非童话。因为真的有很多人被训练得不再会说人话——台上说着假话空话，台下流行的则是空前粗鄙的所谓“网络用语”。在语言文字已经被操弄得让人无法卒读的时代，什么才有真正的说服力，足以改变陷入新话的汪洋大海而难以自拔的民众？我觉得唯有赤裸裸的事实。这也是我近几年放弃评论这个无能的力量，转而专注于调查报道的主要原因。</p>
-<p>一个高官子弟向父亲的手下要油田区块，然后转手几十倍高价卖给民营老板的故事，一个交管局长给商人批京A的牌照，然后介绍他去买名人字画，自己再跟画商二一添作五均分利润的故事，一个公权力把城市黄金地段以科研用地名义征收，一半卖给地产商开发高档楼盘，另一半给官员盖别墅的故事，每每直截了当地将在外部监督缺失的环境中泛滥的权钱交易展现得淋漓尽致，它们不需要排山倒海的排比，只用扎实专业的事实调查、隐忍客观的叙述，挑破阴影，将真相暴露于朗朗阳光之下，无可辩驳。</p>
-<p>从这个意义上讲，喜闻乐见的外衣被剥下，说理的大门被关闭，我为此而感到些许遗憾，但最终还是如释重负的高兴。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/428282/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -695,7 +698,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -705,5 +708,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

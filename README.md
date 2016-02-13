@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%97%E5%9C%B0%E9%9C%87%E7%AC%AC8%E5%A4%A9-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85%E8%BF%87%E7%99%BE%E4%BA%BA/" target="cdt-mirror">BBC｜台湾台南地震第8天 死亡人数超过百人</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg" rel="attachment wp-att-429082"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg?resize=575%2C323" alt="160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg?w=660 660w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>一名救援人员站在倒塌的维冠金龙大楼废墟上。维冠金龙大楼的倒塌导致重大伤亡，开发商已接受司法调查。</p></div>
+<p>台湾台南地震8天后，台南市政府统计称，截至周六（2月13日）早上八点，永康区维冠金龙大楼已经106死，待救9人。加上归仁区2名罹难者，地震死亡人数累计108人。</p>
+<p>台湾中央社稍后引用台南市政府统计称，截至今天上午11時，地震共造成台南市112死，其中永康维冠大楼死亡110死，待救5人。 周五晚间的官方统计称地震造成97人死27人失踪。随着时间推移，最近两天在现场发现的死亡人数迅速增加。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg" rel="attachment wp-att-429081"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg?resize=575%2C323" alt="12日，台南地震家属在追思灵堂。 " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg?w=624 624w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>12日，台南地震家属在追思灵堂。</p></div>
+<p>台湾中央社报道称，维冠大楼已有106死，待救人数是8大人、1小孩，分别是A栋1大人，B栋1大人，G栋6大人、1小孩。台南市长赖清德当天指示，必须挖到地底下2至3公尺，直到没有建筑本体为主，才能确信全部找遍。</p>
+<p>此前一天，台南地检署已提讯在押的维冠建商林明辉，并由检察事务官带同林明辉到位于永大五路的住处搜索，同时传唤相关证人到庭厘清案情。</p>
+<p>台南地震造成维冠大楼倒塌，造成严重伤亡，迄今为止绝大多数死亡人员来自维冠大楼。</p>
+<p>台湾总统马英九已表示，这起倒塌事故不是天灾而是“人祸”。当初的房屋如果能盖牢固，就能避免遗憾。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%97%E5%9C%B0%E9%9C%87%E7%AC%AC8%E5%A4%A9-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85%E8%BF%87%E7%99%BE%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">台湾地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E7%AD%91%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">建筑质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%86%A0%E5%A4%A7%E6%A5%BC/?category=18271" rel="tag">维冠大楼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E8%85%90%E6%B8%A3%E5%B7%A5%E7%A8%8B/?category=18271" rel="tag">豆腐渣工程</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BC%96%E5%89%A7%E5%B8%AE%EF%BD%9C2016%E5%B9%B4%E7%9A%84%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%B0%8F%E5%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%A5%BD%E7%AC%91%EF%BC%9F/" target="cdt-mirror">编剧帮｜刘开建：2016年的央视春晚小品为什么不好笑？</a>
 </h2>
 <p><p><strong>微信公号：编剧帮（ID: gangqinshi01）</strong></p>
@@ -740,77 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%AF%E4%BC%A0%E5%AA%92-97%E5%90%8E%E9%A6%96%E6%AC%A1%E5%AE%9A%E6%80%A7%E6%9A%B4%E4%B9%B1%EF%BC%9A%E8%BF%98%E5%8E%9F%E6%97%BA%E8%A7%92%E5%86%B2%E7%AA%81/" target="cdt-mirror">端传媒 | 97后首次定性“暴乱”：还原旺角冲突</a>
-</h2>
-<p><p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-%E4%B8%8B%E5%8D%886.45.32.png" alt="Screen Shot 2016-02-10 at 下午6.45.32" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午6.45.32-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午6.45.32.png 615w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2016年2月9日，凌晨约一时半，多名示威者带同盾牌及口罩在旺角朗豪坊外与警方对峙。摄：卢翊铭/端传媒</span></p>
-<p>端传媒记者 陈嘉茵、黄铭浩、赵燕婷</p>
-<blockquote>
-<p>大年初一的旺角骚乱由支持小贩文化而起，被官方定性为“暴乱”。究竟事情是如何演化导致当晚的冲突？</p>
-</blockquote>
-<div>
-<p><strong>“这是一场‘暴乱’。”</strong></p>
-<p>2月9日（大年初二）早上10时20分，香港特首梁振英斩钉截铁地把年初一2月8日晚上至翌日2月9日清晨，在旺角发生的通宵骚乱定性为“暴乱”。根据香港《公安条例》第19条，任何参与被定为非法集结的人破坏社会安宁，该集结即属暴动。由九七回归至今，该罪名未被引用过。这次是1997年香港主权移交中国以来，特区政府首次定性活动为“暴乱”。</p>
-<p>2月9日下午3时，香港警务处处长卢伟聪在记者会上，亦以“暴乱”形容当晚的警民冲突。他斥责当晚示威者是“暴徒”，“他们放火想烧警车，用砖头扔人…大家可想像得到砖头扔中头部，是可以杀人的。”</p>
-<p>紧接事件的整天，不同政治光谱的政党，包括建制派民建联、新民党、工联会，到泛民的民主党及公民党都发表声明，谴责旺角骚乱中的暴力行为。而整个香港，亦被一夜通宵的流血开枪乱局吓呆了，尽管年初二夜晚，维多利亚海港上空按每年农历新年惯例发放烟花，亦难掩整座城市的惊恐。</p>
-<p>这场被官方定性的“暴乱”，是由一班本土青年支持小贩、复兴夜市文化而起，最后在一夜之间演变成街头骚乱，究竟事情是如何演化的？各人各单位在现场究竟做了什么，导致当晚流血、冲突、及警察开枪？端传媒找来在旺角亲历的涉事者，由他们亲口还原事情的始末。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-%E4%B8%8B%E5%8D%886.51.34.png" alt="Screen Shot 2016-02-10 at 下午6.51.34" width="550" height="367" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午6.51.34-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午6.51.34.png 614w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2016年2月9日，凌晨约5时，示威者在旺角用竹枝抵挡防暴警察。摄：Billy H.C. Kwok/端传媒</span></p>
-<p><strong>撑小贩︰和平理性非暴力</strong></p>
-<p>事件要推回2月7日（年廿九），当晚9时许，自去年农历年开始关注深水埗桂林街熟食小贩的香港专上学院讲师刘小丽，因不满食环署对熟食小贩的严厉执法，导致不少小贩档主不敢开档，决定展开行动。</p>
-<p>今年30多岁的刘小丽，于雨伞运动后成立的民间公民教育平台“小丽民主教室”，她接受端传媒访问时说:“一直以来，我也是支持和平、理性、非暴力主义的，当我决定要为小贩争取摆档生活的权利时，在我帮手推车那一刻我便决意承担风险，公民抗命。”</p>
-<p>刘小丽代表当区被称为“肠粉大王”的小贩档主曾启新，推着木头车，到桂林街开炉卖炒鱿鱼。做了几宗生意后，警察与食环署人员一同上前，期间双方发生冲突，最后木头车被没收，刘小丽被捕，并被控无牌摆卖、阻街和因销售食物用途加热3项罪名。刘小丽告诉端传媒︰“当时我已有被捕的准备，我希望以此引起公众关注小贩。”</p>
-<p>2月8日（大年初一）凌晨1时，刘小丽获准保释，同日下午，她又回到深水埗，问一众小贩档主是否希望继续开档，“我不想被捕那晚只是一次性的gimmick（噱头），我真的想恢复夜市。”刘小丽指档主们都表示想再开档，但他们认为在深水埗“势孤力弱”，容易被驱赶，于是决定转到较多小贩聚集的旺角区摆档。刘小丽于是在下午4时58分在Facebook专页上发帖︰“肠粉大王、众档主及刘小丽现呼吁大家今晚集中火力，一齐到旺角笃鱼蛋，一齐捍卫小贩。”该帖获逾千个like，逾500次分享。</p>
-<p><strong>一街之隔︰勇武，冲突，胡椒喷雾开始</strong></p>
-<p>就在刘小丽发帖前5小时，2月8日下午12时30分，另一组织香港本土民主前线早在其Facebook专页上以“本土特色，勇武悍卫”为题发帖，呼吁市民晚上9时，到旺角朗豪坊外砵兰街支持小贩。</p>
-<p>本土民主前线是香港本土派组织，于2015年1月，由一群于雨伞运动中，反对香港泛民主派及学联等传统组织、反对非暴力抗争路线的参与者组成。</p>
-<p>当晚9时许，深水涉街坊陈文提早到达旺角现场视察夜市环境。陈文忆述︰“当晚9时左右，我在（旺角）砵兰街近山东街，远处看到朗豪坊门口有10多名食环署人员出现，他们被约40至50名市民围着，现场不停叫嚣，食环署职员好快被赶走了。”他目睹食环署人员在当时被赶走，现场又已有约10档熟食小贩聚集，故一心欢喜向曾启新等小贩档主确认旺角适合开档。</p>
-<p>根据食物及卫生局局长高永文在2月9日傍晚发言，2月8日晚上约9时，在旺角砵兰街一带，正出现陈文描述的一幕。高永文说:“当时（食环署人员）未有采取任何拘控的执法行动，但已被超过50名人士包围、叫嚣、指骂、侮辱，期间亦有推撞，导致有食环署同事受伤。及后，更有人将两辆小贩木头车，推向食环署的执法人员，而车上可能有明火煮食的炉具及滚油。”高永文指考虑到执法人员及市民的安全行为，于约9时45分寻求警方协助。</p>
-<p>据香港《苹果日报》报导，当晚10时多，警察接报到达旺角朗豪坊外。现场约50多名人群聚集，其间，有人过马路时被的士撞跌，人群涌出马路，马路一度被“占领”。人群中包括今年23岁的本土民主前线召集人黄台仰，他此时跳到私家车车顶上，拿起扩音器高声呼召市民支持，并要求现场警察后退。</p>
-<p>警方与本土民主前线成员在内的集结人群开始对峙，11时许，警方推出白色高台，企图驱散在马路上的人群，双方爆发推撞，警方开始施放胡椒喷雾。</p>
-<p>刘小丽与曾启新及另外3名熟食小贩，就在警方施放胡椒喷雾同时，约晚上11时许抵达砵兰街近山东街一带。刘小丽忆述，“当时听途人说警方施放了胡椒喷雾，我听到后也不以为意，以为是零星冲突，平息了便没事。”曾启新亦表示：“我去到便开档，一直忙着做肠粉赚钱，招呼眼前的客人，根本没空去看对面街的骚乱。”曾启新带点怒气地说︰“我觉得有人以支持我们小贩之名，借题发挥去搞事。”</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-%E4%B8%8B%E5%8D%886.56.14.png" alt="Screen Shot 2016-02-10 at 下午6.56.14" width="550" height="365" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午6.56.14-300x199.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午6.56.14.png 615w" sizes="(max-width: 550px) 100vw, 550px"><br><span>旺角朗豪坊外有出售小食的小贩摆卖。摄：叶家豪/端传媒</span></p>
-<p><strong>大小世界，两个抗争组织旺角相逢</strong></p>
-<p>刘小丽形容，她与小贩档主们，当晚像处于一个小世界，“市民从小贩手上接过鱼蛋、臭豆腐、串烧等小吃，好不热闹。”但小世界之外，在一街之隔的亚皆老街、弥敦道，以至西洋菜南街，即爆发延续至天亮的“大世界”混乱。爆发混乱的“大世界”内，其中一个参与组织本土民主前线，与“小世界”中刘小丽的“小丽民主教室”，同样是在雨伞运动后的抗争组织，在这个年初一的旺角黑夜中，他们狭路相逢。</p>
-<p>午夜近12时，砵兰街朗豪坊外，约30名警察到场驱赶在场聚集的市民，示威者向警员投掷物品，警方施放胡椒喷雾，期后有约100名警察到场增援，双方一度对峙。一直支持“勇武抗争”的北区水货客关注组召集人梁金成正是对峙者之一。</p>
-<p>梁金成接受端传媒访问时表示，当晚他约10时45分抵达砵兰街朗豪坊对开，帮衬（光顾）在场的小贩档小吃，之后一直留守。到近午夜12时，他看到警察进入砵兰街及山东街，“当时见到高台，仍觉得警方只是摆姿态，吓吓大家。今天是大年初一，（警察）无理由开拖（开打）呀？”午夜12时8分，梁金成在他Facebook转载一则题为“市民爆粗围食环 警举黄旗 旺角小贩乱中开档”的即时新闻，并留言︰“旺角要人，紧急吹鸡（号召）”。</p>
-<p>到凌晨约1时半，梁金成与近百名支持者，走到亚皆老街，发现该处只有少于10名交通警察在场，“当时交通警喝斥叫人返回行人路，我见到警察显得好慌张，其中一名警察不停挥舞警棍。”</p>
-<p>突然听到“嘭”一声，“当时我没想过是开枪，以为只是市民向警察扔木卡板时爆裂的声音，但我同时闻到烟硝味，那一刻我心想︰不可能会开枪的。”岂料话音未落，他已听到第二下枪声，“真的开枪了，当时我很震惊。”梁金成形容︰“差佬（警方）激起了在场群众的愤怒。即时有好多人叫嚣，问︰‘为什么开枪？’、‘现在什么事？’”</p>
-<p>不愿具名的警方高层刘警员，向端传媒分析交通警员突然开枪的原因，“当日中午，示威者已经在网上号召支持者到场，警方显然没有作出针对性安排。示威者在星罗棋布的旺角街道上“打游击”，堵塞了很多交通路线，令场面更加混乱。”刘他续说。“亚皆老街及上海街交界是次要的位置，所以安排装备较小的交通警员维持秩序，最终导致该名交通警员连开两枪示警。”</p>
-<p>不过这两鸣枪却令在场人士有另一番解读，梁金成说︰“枪都开了，不做一些事不行。”</p>
-<p>梁金成于是与群众开始冲出弥敦道大马路，占领南北行全线约半小时，马路两旁都有防暴警察驻守，群众向警方掷水樽及垃圾桶内的杂物。到凌晨3时，梁金成甚至见到有人铲起地上的砖块，向警方掷过去。</p>
-<p>梁金成说︰“本土派一直好被动，现在终于反抗，警方一直用过份的手段对付示威者。”冲突期间，多名警员及市民被砖头伤至头破血流，梁金成认为︰“警察打示威者也会受伤啦，我们用砖扔他（警察），又有什么问题呢？”</p>
-<p>直至清晨5时许，示威者在旺角多处纵火，梁金成说︰“我不认同在西洋菜南街烧东西，因为道路较窄、较危险，在弥敦道烧会较好，真正做到阻街的效果。”</p>
-<p>记者问梁金成是否需要化名，他笑说：我哪需化名，我没有所谓的。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-%E4%B8%8B%E5%8D%887.00.25.png" alt="Screen Shot 2016-02-10 at 下午7.00.25" width="550" height="368" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午7.00.25-300x201.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午7.00.25.png 612w" sizes="(max-width: 550px) 100vw, 550px"><br><span>2016年2月9日，凌晨约6时，示威者在旺角豉油街与警察发生冲突。摄：卢翊铭/端传媒</span></p>
-<p><strong>掷砖者︰警察开枪令我上街</strong></p>
-<p>32岁的地盘工人黄贤伟，是因为警察开枪，决定走上街头。</p>
-<p>“凌晨2时，我从新闻上得知警员向天开枪，位置就在我家楼下，我再也忍不住了，马上跑到街上。”戴上头盔的黄贤伟，很快便加入示威者之列，与警察对峙，“突然间，我整个脸、眼睛、手臂都有火灼的感觉，我中了胡椒喷雾。我慌忙向后逃，这时警员向前推进，警棍一下一下地打在我的背部，我现在还是隐隐作痛。”</p>
-<p>被喷胡椒喷雾后，黄贤伟身边的示威者替他洗眼，逐渐回复视力后，他再度走上最前线。“当时我很愤怒，整个身体都在震，一方面是身体不适，另一方面是在害怕。当时是凌晨3时，在朗豪坊HM门外，大约有100个持盾警察、太兴烧味店外则有30个。”</p>
-<p>黄贤伟看到身边的人开始掘地上的石砖，向对面的警员投掷。“我从来没有想过事情会发展成这样，也没有想过会有人当面攻击警察，袭警要坐牢的！但我一直很讨厌香港政府。我在香港大学毕业，一直任低薪工作，买不起楼，只能在旺角租住㓥房。去年，我开始转职地盘工人，工作辛苦危险，但每个月可以赚到3万，这是我比我之前的薪金多一半。但要买房子，我仍然付不起100万首期，我32岁了，人生已经没有希望。”此刻的黄贤伟，回想心头积压已久的郁闷，眼前则是示威者向警察投掷砖头的画面，他说他脑海响起英文歌曲“You are not alone”（你永不会独行）。</p>
-<p>于是他下了一个决定，“我知道不用怕，只要有一两个人反击，就可以带动整个反击力量。” 黄贤伟拾起地上的砖头向警察扔︰“如果遇到的是没有盾牌的“速龙小队”（警察特别战术小队）冲过来时，我更加可以朝著脑袋砸下去！太刺激了。”</p>
-<p>之后他沿途捡拾垃圾桶内的啤酒樽、维他奶樽，朝著警察抛过去，“我把几个盾牌都扔破了”，也发现拿着相机的记者一直对准着他，他开始担心地回想︰“我的样子都被记者拍下来了，不知道会不会被警员秋后算账呢？”</p>
-<p>他说:“We need to fight back（我们需要还击）！我们要明确表示We can fight back and we will fight back（我们可以还击，而且我们会还击），而不是像傻瓜一样的等被拘捕的‘和平占中’。”</p>
-<p>“和平占中”意旨2013年由香港大学法律系副教授戴耀廷、香港中文大学社会学系副教授陈健民及基督教牧师朱耀明提出，以非暴力的公民抗命为手段，采取占领香港金融区中环的交通要道的方式，来争取真普选的政治活动。</p>
-<p><img src="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-%E4%B8%8B%E5%8D%887.05.02.png" alt="Screen Shot 2016-02-10 at 下午7.05.02" width="550" height="366" srcset="http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午7.05.02-300x200.png 300w, http://chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-10-at-下午7.05.02.png 614w" sizes="(max-width: 550px) 100vw, 550px"><br>
-2016年2月9日凌晨，旺角，一名警察在亚皆老街倒地。摄：Billy H.C. Kwok/端传媒</p>
-<p><strong>警队人士认为，开枪时已认定“暴乱”</strong></p>
-<p>面对旺角一夜群众不断的进击，香港警方亦不断增援警力及把行动升级。高级警司刘警员便向对端传媒透露，自2014年占领运动之后，警方处理大型示威和冲击，已经有一套固定处理方式。“首先，会由现场指挥的‘警察机动部队’（俗称PTU）的指挥官判断现场情况，界定是否属于暴乱，之后警方行动就会全面升级。”</p>
-<p>他说，判断现场暴乱情形后，警方会加派大量PTU出动，PTU车上会配备催泪弹等装备，尽快控制场面。警员的装备亦会全面提升，“所有警员手持武器会全部上弹；警员会戴上头盔、避弹衣。武器也会全面升级，宣布‘暴乱’前，警员大多只配备左轮手枪；‘暴乱’后则会有手持雷鸣登枪、散弹枪或装有瞄准器步枪的警员荷枪实弹戒备。”</p>
-<p>现场部署方面，指挥由PTU校长或副校长负责，职衔起码是高级警司甚至总警司。警方亦会派出精锐部队，俗称“速龙小组”的“特别战术小队”负责控制现场及移走示威者。“特别战术小队”为应付2014年占领中环而成立，由反恐特勤队、机场特警、机动部队教官成员抽调而成，特征是穿著全套蓝色制服，分两更，每更约200人执勤。主要工作是以快速手法制止“暴乱”，防止乱局扩散。昨日凌晨4时半，警方便派出“特别战术小队”到场驱散“暴乱”。</p>
-<p>对于警方何时将示威定性为“暴乱”，监警会前委员郑承隆有以下见解，“我认为凌晨2时警员向天开枪的一刻，是将示威定性为暴乱的开始。因为《警察通例》第29段第3节列明，警员在‘平息骚动或暴乱’时，可以使用枪械。”郑承隆认为警员开枪时，情况已经失控，示威者持续攻击警员，又有高级警员倒地，警员在无法控制群众下开枪示警。</p>
-<p>骚乱一直由夜晚延续至清晨，示威者在翌日早上8时才陆续散去。梁金成对此并无感到不妥︰“本土派行动一向都是被人骂的，没所谓。”</p>
-<p>他说香港市民只是暂时未接受这种抗争手法，但相信将来会被接受，“这次是第一次，但不会是最后一次。”</p>
-<p>截至昨晚10时，香港警方共拘捕61人，被拘捕者中包括52名男子及9名女子，年龄介乎15至70岁，分别涉嫌非法集结、袭警、拒捕、阻差办公、藏有攻击性武器、在公众地方行为不检等。</p>
-<p>（尊重受访者意愿，文中黄贤伟、陈文为化名。）</p>
-<p>（实习生林颖娴对本文亦有贡献）</p>
-</div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%AB%AF%E4%BC%A0%E5%AA%92-97%E5%90%8E%E9%A6%96%E6%AC%A1%E5%AE%9A%E6%80%A7%E6%9A%B4%E4%B9%B1%EF%BC%9A%E8%BF%98%E5%8E%9F%E6%97%BA%E8%A7%92%E5%86%B2%E7%AA%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92/?category=18271" rel="tag">旺角</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">香港旺角警民冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%9C%AC%E5%9C%9F%E6%B4%BE/?category=18271" rel="tag">香港本土派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -822,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -832,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

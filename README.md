@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BE%8E%E5%9B%BD%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A2%9E%E5%8A%A0%E9%83%A8%E7%BD%B2%E7%88%B1%E5%9B%BD%E8%80%85%E5%AF%BC%E5%BC%B9/" target="cdt-mirror">德国之声｜美国在韩国增加部署爱国者导弹</a>
+</h2>
+<p><p>在朝鲜进行核试验并发射远程火箭后，美国众议会通过新制裁朝鲜法案，五角大楼则决定增加在韩国的“爱国者”导弹部署。美韩还计划就部署“萨德”反导系统事宜展开讨论。中国外长王毅批评美国此举是“司马昭之心，路人皆知”。</p>
+<p>作为对朝鲜核试验以及发射场成火箭的回应，美国决定临时在韩国增加部署“爱国者”导弹系统。而美韩下周将就在韩国部署战区高空防御导弹系统事宜展开讨论，此举引发了中国和俄罗斯的担忧。</p>
+<p>韩国此前宣布无限期中断与朝鲜的合作项目开城工业园区的运营。首尔认为，朝鲜利用该园区资助其导弹及和项目。朝鲜随即作出强硬回应，驱逐园内所有韩方工作人员，冻结驻开诚工业园区韩国公司的资产，并将园区化为军事管制区。</p>
+<p>韩国周五切断了对该园区的水电供应，并宣布计划最早自下周起与美国就部署“萨德”导弹防御系统（THAAD）进行讨论。“萨德”系统是全球最先进的高空防御导弹系统之一。知情官员表示，美韩尚未订立展开磋商的日期。</p>
+<p>与此同时，驻韩美军第八集团军司令范达尔（Thomas Vandal）周六表示，一支由德州布利斯堡调派的防空作战连队在靠近首尔的乌山空军基地使用“爱国者”系统进行弹道导弹演练。范达尔称，此类演练能“确保我们随时为防御来自朝鲜的攻击做好准备”。</p>
+<p>在朝鲜2月7日宣布发射一枚远程火箭的数小时后，韩国和美国宣布有意就部署“萨德”系统展开讨论。美国五角大楼强调，美方希望能“尽快”将该系统部署在韩国。</p>
+<p>王毅：美国“司马昭之心”</p>
+<p>北京和莫斯科对美方将“萨德”系统部署在韩国的计划感到不满。批评者认为，该系统将使美国的雷达能侦测到其它国家的导弹位置。</p>
+<p>正在慕尼黑参加安全会议的中国外长王毅周五接受路透社专访时谈到，中国对美国有可能在韩国部署萨德反导系统的动向表示严重关切。“萨德反导系统覆盖范围，特别是其X波段雷达监测范围远远超出半岛防卫需求，深入亚洲大陆腹地，不仅将直接损害中国的战略安全利益，也将损害本地区其他国家的安全利益。中国有两句古话：一句是项庄舞剑，意在沛公；还有一句是，司马昭之心，路人皆知。我们坚决反对任何国家借用半岛核问题侵害中国的正当权益。”</p>
+<p>通讯社报道称，美国国务卿克里在慕尼黑安全会议期间曾与王毅以及韩国外长会晤，他透露谈话内容与如何回应朝鲜行为有关，也谈及导弹系统。</p>
+<p>一名不愿具名的韩国官员表示，“萨德”系统的部署是为了保护韩国不受朝鲜威胁，并非针对中国或任何一方。</p>
+<p>中国是韩国最重要的贸易伙伴国。鉴于中国对此事的敏感态度，韩国此前拒绝与美方就部署“萨德”系统正式展开对话。但朝鲜近日的行为以及对北京不愿支持更严厉制裁朝鲜的不满，促使韩方改变了态度。</p>
+<p>美国通过收紧对朝鲜制裁</p>
+<p>美国众议院周五通过更严厉制裁朝鲜的议案。该议案已经呈交给美国总统奥巴马等待签署。在朝鲜发射运载火箭不到一周后，美国众议院的共和党及民主党议员周五以408票赞成、2票反对的压倒性票数通过制裁朝鲜法案。奥巴马政府表示不会驳回该法案，但美方官员拒绝透露奥巴马何时或是否会签署文件。</p>
+<p>美国的新制裁措施旨在防止朝鲜取得资金，研制小型核弹头以及发展可携带核弹头的长程导弹。</p>
+<p>该法案还批准了在下五年内拨款5000万美元，用以向朝鲜播送收音机广播，购买通讯器材，以及支持人道主义援助项目。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BE%8E%E5%9B%BD%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%A2%9E%E5%8A%A0%E9%83%A8%E7%BD%B2%E7%88%B1%E5%9B%BD%E8%80%85%E5%AF%BC%E5%BC%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD/?category=18271" rel="tag">美国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD/?category=18271" rel="tag">韩国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 18分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B9%B4%E5%BA%A6%E5%8E%86%E5%8F%B2%E5%9B%BE%E4%B9%A6%E9%80%89%E6%91%98%EF%BD%9C%E5%A4%A9%E9%B9%85%E7%BB%92%E7%9B%91%E7%8B%B1/" target="cdt-mirror">东方历史评论｜年度历史图书选摘：天鹅绒监狱</a>
 </h2>
 <p><p><strong>撰文：米克洛什·哈拉兹蒂</strong><br><b>翻译：戴潍娜</b></p>
@@ -727,28 +755,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E9%81%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E5%A4%A7%E6%97%BA%E5%8D%B4%E8%90%BD%E7%94%BB-%E7%96%91%E9%99%A2%E5%95%86%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">自由亚洲｜《十年》大旺却落画 疑院商自我审查</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg" rel="attachment wp-att-428418"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg?w=575" alt="香港独立电影《十年》为香港探讨未来出路，由5名新晋导演合作拍摄，院商疑自我审查，票房急升仍在新春落画。（照片来自欧文杰，拍摄日期不详）" height="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/348a671d-ba95-49bc-a509-6492783bbb5f.jpeg?w=622 622w" sizes="(max-width: 622px) 100vw, 622px" data-recalc-dims="1"></a><p>香港独立电影《十年》为香港探讨未来出路，由5名新晋导演合作拍摄，院商疑自我审查，票房急升仍在新春落画。（照片来自欧文杰，拍摄日期不详）</p></div>
-<p>香港独立电影《十年》以低成本拍出香港人心声，获得网民回响，上映近8星期，票房累计突破500万，并且获提名香港电影金像奖。惟在票房佳绩情况下，院商突然宣布在农历新年落画，导演坦言感到失望，不排除是院商自我审查。（海蓝报道）</p>
-<p>电影《十年》由于题材敏感，涉及港独、自焚及中港矛盾，去年12月中仅获百老汇电影中心上映，观众口碑不错，票房甚佳，其他院线陆续加入，但在1月中旬，百老汇院线在票房不错的情况下落画﹔<strong>官媒环球时报更发表评论抨击电影提倡港独后，票房大卖，连续4星期位列香港十大票房榜</strong>。临近农历新年前数天，《十年》正在票房急升，其他院线郤宣布新年落画。</p>
-<p>《十年》导演之一欧文杰表示，他听到这个消息后，感到愤怒失望，他也有涉猎商业电影，电影落画主要因为入座率低，但《十年》入座率九成，郤要落画，这个有违他的认知及逻辑思维。观众可以问，该电影几乎场场爆满，其中星影汇过年前放映，大院400多个座位，场场爆满，令《十年》票房位列第4、5位，不明院商为何落画，到底巿场运作是否有压力，抑或院商自我审查，如果自我审查，实属可悲也很心痛。</p>
-<p>欧文杰说：但会否是自己(院商)害怕，我见其他戏院都不放映，我也不继续播。或又害怕引起中央不高兴而封杀，那我觉得很可悲。原来今时今日，所谓言论自由，我们制作了一部电影，这个自由到底是什么。</p>
-<p>现年34岁的欧文杰，香港演艺学院导演系毕业，所执导的短片“方言”探讨10年后，当广东话变成方言后的港人处境。他表示，在构思10年后的香港题材时，他很快想到语言，整个地方的语境心态不同，他想探讨10年后广东话在香港的地位如何改变，以及政府政策对本土人士是否有足够关注。这部短片不是排斥普通话，而是广东话改变地位后，影响香港巿民日常生活，当局是否照顾到香港巿民。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg" rel="attachment wp-att-428417"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?w=575" alt="电影《十年》是以2025年的香港为题材，预测这个城巿未来情况。（照片来自欧文杰，拍摄日期不详）" height="" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?resize=1024%2C682 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/0210-hk-movie3.jpg?w=1600 1600w" sizes="(max-width: 1600px) 100vw, 1600px" data-recalc-dims="1"></a><p>电影《十年》是以2025年的香港为题材，预测这个城巿未来情况。（照片来自欧文杰，拍摄日期不详）</p></div>
-<p>电影其中一单元”自焚者”被外界认为具有感染力，因为题材涉及港独人士自焚抗议。现年36岁的导演周冠威，同样于香港演艺学院导演系毕业。他指出，自焚者的题材在2009年已经萌芽，香港人当时争取2012年双普选，高官及中央的说话令他觉得无可能，没法兑现普选承诺，他感到愤慨失落，他在思考香港究竟有何出路。他在2009年写下一个短故事，谈及香港独立、通识教育，借港独这个敏感话题，其实在谈独立思考。中国给香港一些扭曲及不符现实的概念，甚至在这一刻，“港独”这两个字彷如邪教，他对此感到奇怪，香港有言论自由，这只是其中一个政制，为何不准思考，甚至不准说，这怎能令社会进步，于是写下这个故事。</p>
-<p>直至2014年，《十年》的策划人伍嘉良邀 请他合作拍摄，一部为香港将来探讨出路的电影，周冠威于是把2009年的故事改编，借港独题材探讨思想自由、人追求的价值，变成“自焚者”的故事。他表示，开拍时资源极度短缺，每个故事约有10万元制作费，整部电影花费50万元。当时没想过在戏院放映，以为在社区放映，然后做分享会。</p>
-<p>周冠威指，“自焚者”没有残忍的镜头，他是探讨自焚者的牺牲精神，所以电检处没有删剪，电影被列为2级半而矣。被问到若“自焚者”在中国放映，能否通过其审查制度，他相信没法通过审查，甚至有人说他拍过这类政治敏感题材，或会影响他在中国发展。周冠威表示，没想过这些，他认为电影是艺术，有其社会功能，电影要说真话，这些价值高于是否赚钱。</p>
-<p>周冠威说：所以我们看的不是巿场，而是看电影是否有政治影响，是否在说真话，甚至夸张一点说，是否合符道德。我想引述一句电影内的对白，“政治的根本其实是道德”。</p>
-<p>《十年》是以2025年的香港为题材，预测这个城巿未来的情况。电影由5个故事构成，分别是《浮瓜》、《冬蝉》、《方言》、《自焚者》及《本地蛋》。电影引起国际关注，并登上美国广播公司CNN的头条，但中国官媒环球时报则批评该电影宣扬絶望、完全荒诞等，并形容为“思想病毒”。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E5%A4%A7%E6%97%BA%E5%8D%B4%E8%90%BD%E7%94%BB-%E7%96%91%E9%99%A2%E5%95%86%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -760,7 +766,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -770,5 +776,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,257 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%BA%94%E5%A4%9A%E6%94%BE%E5%BC%80%E8%A8%80%E8%B7%AF/" target="cdt-mirror">【立存此照】胡锡进都看不下去了</a>
+</h2>
+<p><p>@胡锡进：中国还是应多放开言路，鼓励、宽容建设性批评，对非建设性批评也应有一定承受力。言路宽松会导致一些问题，但它带来的好处更多些。新中国的历史证明，言路宽松与社会活力的关系密不可分，而对于它导致的问题，国家的应对能力是宽裕的。希望政府各部门、各级和各地官员都能为实现言路更宽做出自己贡献。2月14日 19:47 来自 iPhone 6 Plus</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/huxijin.jpg?resize=587%2C197" alt="huxijin" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/huxijin.jpg?resize=300%2C101 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/huxijin.jpg?w=587 587w" sizes="(max-width: 587px) 100vw, 587px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>冬雪小夜：本来应得的权利说得好像是受赏赐一样。</p>
+<p>王堃埜：左右逢源的下场就是左右吃屎。</p>
+<p>abcjeff1：政府有什么资格不允许批评？</p>
+<p>遥远青春2013：胡编这是要开启钓鱼模式了。</p>
+<p>宫保慰亭V：真是不容易，想说又怕说错，左圆右圆，心疼胡编，不过胡编还是得站好队，别想左右逢源，还记得荆州的刘表吗？</p>
+<p>bopifangshimin：胡锡进捣得一手好糨糊：谁来界定“建设性批评”？</p>
+<p>琴岛牧风：伺候那么个二逼党局，没有胡总这左右逢源的两下子，还真特么的不行。</p>
+<p>老Money：胡编都不忍心看了，可见管制多严重。</p>
+<p>天佑-A：胡锡进提出的“多放开言路，鼓励、宽容建设性批评”，主动权还是在掌权者手上，我愿意放多少就放多少，愿意宽容才宽容，我不愿放还可以不放，不愿宽容还可以不宽容，这与言论自由相去甚远。言论自由是要建立一种制度，人民有讲话的权利，有批评的权利，掌权者愿意也好不愿意也好，都不能剥夺这种权利。</p>
+<p>铁铁谢：老胡也看不下去了。</p>
+<p>中国上的舌尖：真的就不怕被妄议吗？</p>
+<p>我心疼-你：你平常跟领导见面也这样说吗？</p>
+<p>故人故国新火新茶：哼，当年骂老毕时不是说“吃党的饭，放下筷子骂娘吗？”没想到胡总也是这种人，党养你就是让你背地议论党的？</p>
+<p>说实话的小屁民：五毛们，快来骂胡公知。</p>
+<p>街巷一坊一人徘：皇帝的新装穿久了也不好，会感冒着凉的！</p>
+<p>丢失的xxmz：吃着饭，还砸锅，还想不想干了？</p>
+<p>批注世说新语：胡编今天画风有点不对嘛？是因为前几天公款旅游被处分了怀恨在心吗？</p>
+<p>王晔Ken：广开言路是白名单制，我准许你说的你才能说；言论自由是黑名单制，除法定禁止的言论外都可以说。言论自由是宪法权利，既称法治社会还乞求广开言路，岂不自打耳光？</p>
+<p>愤怒的胶水大爷：连个春晚都不能评论，还痴人说梦？</p>
+<p>蜗牛背石头：别听胡编胡扯，活的不耐烦了？前年微博批评@平安中原 河南公安厅长秦玉海及郑州市公安局长，在天上人间案件中失职。结果市局找到单位宣传部，威胁我删帖。现在秦玉海早进去了，局长也突然莫名去职，敢让@平安郑州 给我道歉？</p>
+<p>Kerry-4：御用文人鼓吹人民应多批评政府，人民信以为真，最后讲真话有良心的人民都被政府一个个收拾到牢房，自此大家都学会了自我审查……</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%BA%94%E5%A4%9A%E6%94%BE%E5%BC%80%E8%A8%80%E8%B7%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%89%B9%E8%AF%84/?category=18271" rel="tag">建设性批评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E8%9B%87%E5%87%BA%E6%B4%9E/?category=18271" rel="tag">引蛇出洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%90%9B%E5%AD%90%E9%AC%BC%EF%BC%9A%E2%80%8B%E4%B9%A1%E6%9D%91%E5%87%8B%E9%9B%B6%E4%BB%8E%E4%BD%95%E6%97%B6%E5%BC%80%E5%A7%8B%EF%BC%9F/" target="cdt-mirror">君子鬼：​乡村凋零从何时开始？</a>
+</h2>
+<p><div>我这人天生脑洞大。比如说，最近看到一则新闻，某上海姑娘随男友回农村老家过年，结果看到第一顿饭后马上决定分手回上海，我首先想到的却是七十年前另一个令人悲伤的故事。</div>
+<div></div>
+<div>王鼎钧先生在《关山夺路》一书谈到1946年他对“苏北难民”的采访经历。“苏北难民”即镰刀锤子帮在所谓“解放区”搞暴力土改时逃亡到南京上海等地的苏北人群体，他们是土改的受难者，也是见证者。绝望之处在于，他们发现，国民政府、知识分子、媒体乃至城里的老百姓都不待见他们，压根不相信他们关于土改暴政的诉苦。“江南人并不相信他们的故事，一个南京人说，‘共产党为什么要这样做，没必要嘛，再说，他们也做不到’。”（《关山夺路》P115）</div>
+<div></div>
+<div> 为什么我会联想到这桩旧闻呢？因为那位上海姑娘对乡村世界的无知，与七十年前上海人南京人对“解放区”农村的无知极为相似。上海姑娘大乱方寸，正是源于她尽管已有充分的心理准备，那些农村生活细节（绝不仅仅是一顿晚饭）仍然超出她想象力所能达到的极限，冲击之大，使她接下来的表现遭到“缺乏教养”的批评。</div>
+<div></div>
+<div>其实我愿意相信，她在生活中是一位善良且有良好教养的女孩，事实上其帖子的字里行间并没有流露出丝毫傲慢。正如，当年的上海人南京人，肯定也绝非由于秉性冷酷，才会选择漠视苏北难民的不幸。只是，骤然面对完全超出经验范围之事，人们短期内确实无法接受。四十年代上海南京的市民们，仅凭在日军与国府统治之下的生活体验，哪能想象出“解放区”土改中的红色恐怖有多凌厉？说实话，这则新闻的悲剧性不在于一对青年男女因门不当户不对而分手，而在于，这片国土上，竟有一部分人的苦难，完全超出大都市中产阶级可想象的范围。</div>
+<div></div>
+<div>这件事很快引起了一阵讨论城乡阶层分化严峻形势、农村社会急速凋零的热潮。但我个人并不喜欢那些关于乡村破败的叙事与抒情。因为就我粗略浏览所及，它们的内容很容易给大众造成某种错误印象，仿佛以前的乡村就很浪漫很美好。</div>
+<div></div>
+<div>非常遗憾，如果“破败”是指，与城市相比，传统乡村秩序的崩溃与精神生活的荒漠化，那么，根据传教士与地方士绅有关中国农村的文字记录，中国乡村社会至少从清末开始便有破败之势。原因自然不止一个，包括战乱、灾荒、经济转型等等，但民国初期尚有传教士、民间社团（如乡村建设派）、宗族士绅在乡间勉力建设，农村社会破败速度远不及后来共产党下乡时。</div>
+<div></div>
+<div>最不幸的是，共产主义政权将整个农民阶层作为革命与建设的炮灰，导致乡村社会的破败不可避免地急剧加速。镰刀锤子帮的种种制度与政策，对乡村社会凋零负有最主要的责任，与此相比，其他因素都可以忽略不计。</div>
+<div></div>
+<div>莫非三十年代苏区的农村不破败吗？一轮又一轮的扩红、查田运动、血腥肃反，谁会相信苏区农村欣欣向荣？内战时期老区与五十年代新区的土改，则是真正的焦土政策，日军做不到的，镰刀锤子帮全做到了。杀人杀得全村人都道路以目，天天只能听讲阶级仇恨思想教育课，如此恐怖统治之下，传统精英主导的乡村礼俗秩序能不崩溃吗？如果有人还认为土改时镰刀锤子帮领导下的广大农村温馨和谐，民众欢欣鼓舞，那我无话可说。</div>
+<div></div>
+<div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/d18840fbgw1f0yqmby5iyj20fe08fjto.jpg?resize=554%2C303" alt="d18840fbgw1f0yqmby5iyj20fe08fjto" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/d18840fbgw1f0yqmby5iyj20fe08fjto.jpg?resize=300%2C164 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/d18840fbgw1f0yqmby5iyj20fe08fjto.jpg?w=554 554w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><p>选自复旦大学王友明先生的博士论文《莒南县土地改革研究（1941-1951）》</p></div>
+<div>至于一些具体政策的实施，或许短期内恶果并不引人注目，但随着时间推移，对农村社会的巨大破坏性也渐渐展露出来。比如，打击宗族认同，收缴乡民枪支，无异于摧毁乡村社会的自卫能力。持枪权与结社权的永久剥夺，在基层司法体系无能腐败的背景下，今日部分地区黑社会能够横行乡里，其实毫不令人意外。再如，赶走传教士，等于切断了农村在卫生、教育等公共事业上知识、技术、资金层面的外援。</div>
+<div></div>
+<div>强制集体化引发大饥荒，文革更是将一切传统伦理体系摧毁殆尽，难道五十年代至七十年代的乡村不破败？</div>
+<div></div>
+<div>区别仅仅在于，以前城乡隔离更加严重，几无流动性可言，作为不同等级的奴隶兼炮灰，农民市民之间来往极少（知青群体可能是例外），彼此缺乏经济、文化交流（镰刀锤子帮指挥下的单方面输血可不能算交流），加上媒体完全受控，市民当然对农村状况缺乏深入了解。老实说，要不是近些年互联网打开了一个资讯传播的缺口，农村凋敝如斯的话题哪里会受到关注呢？</div>
+<div></div>
+<div>哦，差点忘了，还有计划生育。我就不具体描述计划生育政策在农村执行得有多野蛮残暴了，也希望读者不要假惺惺地跟我讲限制人口对于经济增长的伟大意义。我看到有文章抨击南方农村的杀女婴现象，认为农村光棍多娶不到老婆纯属自作自受。可是，计生恶政难道不是农民杀女婴的主因吗？我无法硬起心肠指责他们冷血，同样也不忍心批评那位上海姑娘无知或无教养。</div>
+<div></div>
+<div>请允许我再啰嗦一则旧闻。党校教授王海光先生曾有一文探讨1950年西南地区所谓“匪乱”，提及中共初至西南各省，接管其实很顺利，反抗者寥寥。但为了帮助上海度过经济难关，西南战事硝烟未散，中财委就已要求西南紧急调运4亿斤粮食支援上海。关于征粮任务与匪乱的因果关系，邓在报告中相当坦诚：当前西南各地武装叛乱者“主要是抗缴公粮，提出‘饿死不如战死’的口号”，“提出‘专打北方人(或外乡人)不打本地人’，‘打穿军衣戴帽花的，不打穿便衣和不戴帽花(指起义投诚的国民党军)的’。他们的行动着重于破坏工厂，抢劫公粮公盐，并提出‘开仓济贫’的口号。这些口号，也确动员了部分贫民参加”。“各地土匪起来之快，因由于国民党在西南作了较其他各地更为周密的部署，同时亦由于我们征粮的直接影响。过去国民党在四川的最高征粮数为一千二百万担，我们这次征收数为两千万担(三十亿斤)。”</div>
+<div></div>
+<div>后来，上海度过粮荒危机后，“匪乱”很快也被镰刀锤子帮解决了。（参见王海光教授的《民变与“匪乱”：以中共接管贵州暨西南时的征粮为例》）我要指出，正是西南农村的尸山血海，供养起了黄浦江边的岁月静好，“量西南之物力，结上海之欢心”。某篇文章里那句“北上广有多繁华，农村就有多破败”，点破其间因果关系，很有几分道理。可是，这个现象绝非始于九十年代的市场化，而是从镰刀锤子帮掌权后就开始了，只是人们无法进行直观比较，更没有机会公开讨论罢了。而市场化启动后，农村青壮年进城打工，乡村社会的凋零猛然加速，城乡互动频率大幅增加，加上互联网的普及，大都市的中产阶级终于有机会直面盛世中国梦背后的破败农村了。</div>
+<div></div>
+<div>上海与上海人是幸运的，因为1949以来他们永远属于被照顾、被呵护的对象。但由此产生的悲剧不应当由上海或上海人来承担责任，评判民德更是避重就轻。极权之下，责任主体有且仅有一个——伟大光荣正确的镰刀锤子帮。吠舍与首陀罗同属奴隶，只是等级不同，岂可让他们替红色婆罗门背黑锅？</div>
+<div></div>
+<div>现在我们来做个假设，红朝的一个首陀罗，遭到婆罗门刹帝利凌辱，可能是强拆，也可能是司法不公，他长年求告无门，还被吠舍视为刁民。绝望之下，他怀揣炸弹，炸死一车沉浸于岁月静好的吠舍。请问，此时此刻，我们可以跟着广大吠舍们高声谴责暴民破坏法治吗？恕我直言,您的答案，将直接展现您对镰刀锤子帮的认知水平。</div>
+<div></div>
+<div>最后，我必须做个忏悔。年少无知时，我曾经把以户籍为基础的城乡隔离制度与印度种姓制度做比较，显然我大错特错，因为这很轻佻，而且也是对印度人民的侮辱。请原谅我后知后觉。阅世渐深，每次做具体制度或政策的比较分析，最后总不免发现镰刀锤子帮在作恶的花样与能力上天下无敌。</div>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%90%9B%E5%AD%90%E9%AC%BC%EF%BC%9A%E2%80%8B%E4%B9%A1%E6%9D%91%E5%87%8B%E9%9B%B6%E4%BB%8E%E4%BD%95%E6%97%B6%E5%BC%80%E5%A7%8B%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91%E5%87%8B%E6%95%9D/?category=18271" rel="tag">乡村凋敝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E9%98%B6%E5%B1%82/?category=18271" rel="tag">农民阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%EF%BD%9C%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%93%B6%E6%A0%B9%E6%94%B6%E7%B4%A7%E7%88%86%E4%B9%B0%E5%8F%98%E5%BC%82/" target="cdt-mirror">BBC ｜访日中国游客银根收紧“爆买”变异</a>
+</h2>
+<p><p>中国猴年春节长假周日（2月14日）落幕，访日中国游客正纷纷上路回国。为了在这个春节长假迎接中国游客“爆买”，不少设置了专卖柜、增添了汉语服务等的日本百货店、免税店等。零售商望着中国游客的背影，纷纷叹息爆买已成“昨日黄花”。</p>
+<p>中国游客爆买是近年日本传媒和社会的热门话题，从初期爆买指甲钳、电饭锅，到后来爆买化妆品、马桶座板，日本市场饱和或接近饱和的囤积商品忽然柳暗花明，不仅挽救了许多中小夕阳企业，而且也成大企业新市场曙光。</p>
+<p>在中日政治关系冷淡、中日民间印象不良的主流中，访日中国游客爆买的现象，令日本传媒、舆论津津乐道，日本政府也不断放宽中国人访日签证条件。去年访日中国游客比前年增长107%，达到499万人次，是所有外国和地区访日游客中的最大增幅。</p>
+<p>今年1月，日本驻中国使馆、领馆发放签证数比去年同期增加近5成，约40万件，各大日本传媒都相信今年也能期待春节假期迎来中国游客爆买高潮。</p>
+<p>股跌币跌双重灾</p>
+<p>BBC中文网记者在春节长假期间的2月11日走访了位于东京新宿的免税店“日本堂”，希望目睹今年中国游客“爆买潮”，不料日本堂股东原田优美说：“我自己从去年8月开始、周围有人说从去年7月开始中国游客购买力不行了，比2013、2014年爆买高潮期差得好远。”</p>
+<p>原田是加入了日本国籍的华人，21年前来日本，经营免税店生意20年。她认为急剧滑坡的中国游客购买力主要是中国股市下跌、人民币贬值，“中国股市好、人民币兑换高的时候，再贵的东西都有人买，前两年免税店忽然多了好多，但去年下半年就不行了，现在最新的购物动向是买医药品这些廉价和实惠的日本货。其中大概3、40岁的游客最具购买力，年纪大的游客很多人来了也可能一分钱不花就走，但整体来看大家都在省钱”。</p>
+<p>对记者不解日本传媒为什么在过去半年广泛报称中国游客爆买现象，原田说：“他们是起哄、是托这个市，我这里经常有日本传媒打电话来说要来采访，我说了实情，他们就不来了”。</p>
+<p>“识途马”购物变化</p>
+<p>不过原田也承认，作为面向团体旅客经营的免税店，生意清淡的另一个主要原因是访日中国游客现在自由行多、团体客少。“不错，游客人数是在增加，但消费额减少，而且很多是第二次、第三次来，来过日本一次的中国游客一般就不会再参加旅行团。第二次、第三次来，想买的东西也会不一样，可能家里电饭锅、马桶座板都已经有了”，她说。</p>
+<p>原田还说“中国人反日感情还是很普遍，所以很多没来过日本的中国人不想来，倒是来过、亲眼看过了，就有不少人会想再来。因为日本安全、汉字通用，所以很多人再来就会选择自由行”。</p>
+<p>访日中国游客自由行通常三、五人结伴而来，目前日本一些旅行社也开始瞄准自由行中国游客，推出六人包车服务等。日本堂也在争取做散客生意，为了迎合游客购物，店里每天实施顾客调查。记者在店里转了一圈，看到陈列的商品以日本生产的药品、化妆品居多，但也有一个贩卖高价“南部铁瓶”和古董“浮世绘”的角落。店员对记者说“还是有人会买这种高价品”。</p>
+<p>说起日本货，原田感概地对记者说：“这个行业里，做真的生意非常难，20年前我看到有人把在韩国、台湾生产的东西换个日本包装，就算‘日本制造’，当时我想‘你们做这种假生意，一定迟早被揭穿，做不久’，可是他们现在不但在，而且生意还越做越大”。</p>
+<p>“变化也是契机”</p>
+<p>日本官方电视台NHK上周五（2月12日）报道了中国游客爆买向廉价商品转化的新闻，报道还引述银座高级百货店称“今年的印象是中国游客没去年那么爆买”。同样针对自由行散客的百货店也感到中国游客购物动向受到了影响。</p>
+<p>但NHK在一个专门分析日本零售业围绕中国游客的“春节商战”是否会继续的节目中说，中国游客爆买力降低可能也与中国政府抑制携带外汇出国有关。理由是“中国政府最近加强机场严格检查出国携带的外汇，可能是中国经济严峻中，政府促进国内库存商品流通的手段”。</p>
+<p>分析也说，从东京美容院、香川县乡村餐馆增加了中国游客的动向来看，中国游客访日消费“从‘购物消费’转向‘行动消费’”，并指出“现在断言中国游客爆买已过时还太早，但变化也是契机，不但零售商店需要尽快应对，也可能正是各地吸引中国游客的契机，期待包括中国游客在内的访日外国游客制造的经济效果在日本各地扩大”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%EF%BD%9C%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%93%B6%E6%A0%B9%E6%94%B6%E7%B4%A7%E7%88%86%E4%B9%B0%E5%8F%98%E5%BC%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E5%85%A5%E6%88%8F%E5%A4%AA%E6%B7%B1%E4%B8%8D%E8%83%BD%E8%87%AA%E6%8B%94%E4%BA%86/" target="cdt-mirror">博谈网｜〖微博谈〗入戏太深不能自拔了</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-1.jpg?resize=551%2C321" alt="20160215-bt (1)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-1.jpg?resize=300%2C175 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-1.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-2.jpg?resize=550%2C396" alt="20160215-bt (2)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-2.jpg?resize=300%2C216 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-2.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-3.jpg?resize=549%2C484" alt="20160215-bt (3)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-3.jpg?resize=300%2C264 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-3.jpg?w=606 606w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-4.jpg?resize=550%2C554" alt="SAN FRANCISCO - APRIL 09:  China supporters chant as China protesters and supporters face off while waiting for the Olympic torch to pass on April 9, 2008 in San Francisco, California. The protests, primarily over Chinese rule of Tibet, disrupted the torch route and ceremonies.  (Photo by David McNew/Getty Images)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-4.jpg?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-4.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>SAN FRANCISCO – APRIL 09: China supporters chant as China protesters and supporters face off while waiting for the Olympic torch to pass on April 9, 2008 in San Francisco, California. The protests, primarily over Chinese rule of Tibet, disrupted the torch route and ceremonies. (Photo by David McNew/Getty Images)</p></div>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-5.jpg?resize=551%2C428" alt="20160215-bt (5)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-5.jpg?resize=300%2C233 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-5.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-6.jpg?resize=550%2C484" alt="20160215-bt (6)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-6.jpg?resize=300%2C264 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-6.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-7.jpg?resize=550%2C574" alt="20160215-bt (7)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-7.jpg?resize=288%2C300 288w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-7.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-8.jpg?resize=550%2C527" alt="20160215-bt (8)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-8.jpg?resize=300%2C288 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-8.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-9.jpg?resize=550%2C532" alt="20160215-bt (9)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-9.jpg?resize=300%2C290 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-9.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-10.jpg?resize=551%2C504" alt="20160215-bt (10)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-10.jpg?resize=300%2C274 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-10.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p>（所有图片均来自网络）</p>
+<p>1. @上海老顽童吴德余：这几年微博上常读到@于建嵘先生的高论，然依拙见，担得起真知灼见四个字的首推这句了。</p>
+<p>2. @性感玉米：以搜索引擎为信息入口的时代，百度帮助中共完成了信息过滤和审查，这是百度赖以生存的最大价值。（李彦宏：百度的成功和谷歌退出没有必然联系）</p>
+<p>3. @beidaijin：【中国爱国主义教育瞄准海外留学生】在中国学生的课程和教材中，对共产党的民族主义式忠诚已经被作为一种基本价值来宣扬，而现在，从教育官员接到的一项新指示来看，中国学生必须被培养得更加忠党爱国，哪怕他们是在国外大学就读。</p>
+<p>4. @买买提X：我父母那一代坚信老美帝国主义亡我只心不死。为啥我们这一代人还是有这么想的，真心没搞懂。毛时代需要营造这种氛围，然后让子弟兵去朝鲜为金家献身。现在还这么想那就是入戏太深不能自拔了。政权根本的道理是老百姓过的好，和谁当权，什么意识形态无关，金庸老大书里韦小宝老早就说过了，这才是基本的正确价值观。老邓骨子里就未必相信什么英特纳雄耐尔一定会实现。</p>
+<p>5. @布小什大师：看过大和尚在美国和中国学生对话，有个观点很有意思，他说苏联和中国都是内战获得政权的，因此战争时期的心理和心态都是猜疑、不信任、控制和审查，后来这些东西就成了整个体制的思考方式。</p>
+<p>6. @展江：金日成政权从1950年侵略韩国挑起朝鲜战争，害得半岛人民和派兵的中国很惨，战后建立挂着社会主义招牌的金家王朝迄今三代，这一家肥头大耳，国人则面黄肌瘦甚至成饿殍，却穷兵黩武发展致命的原子弹和氢弹，国际社会再也不能坐视和绥靖了。</p>
+<p>7. @HeQinglian：民字号的早就不挺了，国字号的是地方政府拿钱在挺。有调查报告说，企业采取轮流休假（实际上是轮流发工资）在稳定职工情绪。今年出清僵尸企业，主要就是这些用银行贷款撑着的亏损企业。职工们不了解宏观经济形势及市场变化，一味埋怨领导层无能。</p>
+<p>8. @假行僧老巩：只活在联播里，无疑14亿都是幸福的。而事实上，多少农村学子唯一目标仍是逃离那个无法改变的贫困世界，或上学或打工，每天都在上演着逃离的剧目。春节听从东北回来的朋友说，东北有些村子成了空的，能走的都走了。金钱某种程度上能带来安全感，这个国家的人们又那么缺乏这东西，女孩嫌贫爱富实属正常。</p>
+<p>9. @苏州常熟徐文石：【“爱国”就是不投反对票】日前，倪萍在加拿大温哥华举办画展。她表示，等儿子在美国完成学业，将落户温哥华。2011年，倪萍获得“共和国脊梁十大卓越人物”的称号。倪萍最让网友熟知的是2010年初，作为全国政协委员向媒体说：“大的会议，我从不投反对票或弃权票。”因为“我深深地爱着这个国家”引起舆论哗然。</p>
+<p>10. 【至少数千名中国留学生在美读书期间皈依基督教】据美国《侨报网》2月12日编译报道，数千名中国留学生在美国读书期间皈依基督教。中国留学生日趋增多，许多大学基督教团体觉察到了这个机遇，主动提供针对中国新生的机场接送和临时住宿，甚至还有购物和搬家服务。</p>
+<p>关键词: 微博谈 栏目: 新颖视角 首页重点发表: 新鲜看点</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E5%85%A5%E6%88%8F%E5%A4%AA%E6%B7%B1%E4%B8%8D%E8%83%BD%E8%87%AA%E6%8B%94%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E8%B0%88/?category=18271" rel="tag">微博谈</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%A4%96%E6%B5%81%E6%84%88%E6%BC%94%E6%84%88%E7%83%88-%E4%BA%BA%E6%B0%91%E5%B8%81%E5%86%8D%E9%81%87%E8%80%83%E9%AA%8C/" target="cdt-mirror">自由亚洲｜中国资本外流愈演愈烈 人民币再遇考验</a>
+</h2>
+<p><p>随着中国经济走势低迷，富裕家庭担心人民币贬值、存款价值缩水，越来越多的人试图将巨款转移出境。过去一年，公司和个人已从中国转移境外近一万亿美元。</p>
+<p>据纽约时报中文网星期天报道，为了不违反国家的现金管制规定，一些中国人让朋友或家庭成员携带或汇款5万美元出境，这是中国规定的年度上限。上海一名富有女子近期通过140名亲友、甚至朋友的亲属帮助兑换了700万美元。这种蚂蚁搬家的方法仅是资本外流的形式之一，此外还有人前往香港购买价值数万美元的人寿保险单，以此途径将资金转移出国，因为保单是用人民币购买，可以变现为美元。报道说，还有一些合法的资金外流方式，如在海外投资房地产或购买企业，或偿付美元债务等。但有些方法则完全非法。中国海关去年抓获了一名试图出国的女子，她把25万美元的钞票捆绑在身上及藏在鞋子里。此外，公司和经验丰富的投资商拥有更多手段，可以通过大额购买和投资合法地转移资金。</p>
+<p>报道说，资本外逃给人民币带来显著压力。为了防止人民币跳水，政府在市场上采取了行动，动用巨大的现金储备来支撑人民币，同时收紧了防止资本外逃的各项政策。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%A4%96%E6%B5%81%E6%84%88%E6%BC%94%E6%84%88%E7%83%88-%E4%BA%BA%E6%B0%91%E5%B8%81%E5%86%8D%E9%81%87%E8%80%83%E9%AA%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%83%B9%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%80%81%E5%90%8C%E5%BF%97/" target="cdt-mirror">东网｜乔木：惹不起的中国老同志</a>
+</h2>
+<p><p>如果看到这样一条新闻：“圣诞节前夕，美国总统、武装部队总司令奥巴马等民主党和国家领导人，分别看望或委托有关方面负责同志看望了布什、克林顿、老布什、卡特、切尼、戈尔、奎尔、蒙代尔、希拉里、鲍威尔、奥尔布赖特、基辛格等老同志”，一定会哑然失笑。可是这样的新闻，每年都会在中国出现至少一次，而且有一套固定的看望名单、表态模式。</p>
+<p>今年新华社的通稿是：“春节前夕，中共中央总书记、国家主席、中央军委主席习近平等党和国家领导人分别看望或委托有关方面负责同志看望了江泽民、胡锦涛、李鹏（后边略去近百人的名单）等老同志”，致以节日问候，祝愿老同志们健康长寿。然后是老同志们对此表示感谢，充分肯定习近平领导的党中央的成就，希望全国人民更加紧密地团结在他周围，高举旗帜、贯彻精神、落实政策，最后再加点最新的政治口号，如今年的推进“四个全面”战略布局，夺取全面建成小康社会决胜阶段的伟大胜利。</p>
+<p>看望老同志，就像慰问困难群众一样，照例要送钱送物的，估计还不能太少。当然这点钱物，比起老同志们日常享受的住房、医疗、交通、疗养等各种待遇，也不算什么。比起老同志们对现任领导的认可，就更不算什么了。老同志们虽然不在职位，但影响犹在，关系庞杂，耳目众多。能把谁扶上去，如有不满，也能像当年对华国锋、胡耀邦、赵紫阳一样，把他弄下来。</p>
+<p>特别是每一代老同志中的“带头大哥”，影响更是举足轻重。比如去年的大阅兵，本来现任领导是主角，但被称为“长者”的老同志一亮相，举世瞩目，一个表情、一个手势，都要让大家猜半天。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/14553507367214236.jpg?resize=550%2C344" alt="14553507367214236" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/14553507367214236.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/14553507367214236.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>这位老同志，彻底退休后没有任何职务，但是依照惯例和现在讲的政治规矩，每次排名时，都要在总书记之后的第二位，高于其他常委和现任领导。中共十八大后，他专门请求，今后在党和国家领导人的排名顺序中，将自己同其他老同志排在一起。官媒发新闻，对此予以高度评价，称“这体现了一名共产党人的高风亮节和宽广胸怀”。</p>
+<p>民主政体的各级行政长官都是民选，高级政务官的提名也要由代表民众的各级议会批准。政党大佬只在党内有影响，不可能凌驾于政府和民众之上。军人忠于国家，不得干政，不能为一党一派谋私。民选官员的权威和合法性来自于选举，和元老的推荐、军队的拥戴无关。</p>
+<p>民选的现任领导为了显示有主见和决断，还必须要和“老同志们”保持距离。而老同志们一旦卸任，不管年龄大小，待遇都走社保或按明规则办。有些颐养天年，销声匿迹。有些再次创业，著书演讲，搞慈善做咨询，都要靠付出获得回报，不可能一日为官，终身享福。</p>
+<p>中国的官员，实质上都是老同志指定，甚至隔代指定。在位时一方面要报答老同志的知遇之恩，另一方面也要用民脂民膏讨好老同志，免生事端。所以民众是否满意、过节时是否发红包和官位没有直接的关系，但老同志可万万不能得罪。当年早已退职卸任的老同志们，参加个政治局扩大会议，不经过全国党代表大会和中央委员会，就可以连续撤换胡、赵两位总书记，足见他们的影响。</p>
+<p>另外逢年过节看望老同志，既符合尊老的传统，也是为自己留好后路。现在不像毛时代权力终身，都有年龄和任期的限制。对老同志好，也是不断确认“政治规矩”，以后也得对我好。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E6%83%B9%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%80%81%E5%90%8C%E5%BF%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%9C%BA/?category=18271" rel="tag">中国官场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%94%E6%9C%A8/?category=18271" rel="tag">乔木</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%B4%A2%E7%BB%8F%E6%9D%82%E5%BF%97-%E4%B8%80%E4%B8%AA%E7%97%85%E6%83%85%E5%8A%A0%E9%87%8D%E7%9A%84%E4%B8%9C%E5%8C%97%E6%9D%91%E5%BA%84/" target="cdt-mirror">财经杂志 | 一个病情加重的东北村庄</a>
+</h2>
+<p><p>《财经》记者 高胜科/文</p>
+<p>春节期间有各类温馨和怀旧故事，我要写的故乡杂记却显得些许残酷和悲戚，可惜这并非杜撰虚构，而是真实的写照。田园故乡不止是在生病，而是有关于忠孝道义的一切伦理气息彻底死去了。</p>
+<p>连我自己也费解，在讯息如此发达、科技如此创新的现代社会里，为何这群人的生活竟会如此？可惜，这便是赤裸裸的人性，无论你愿不愿意，它都摆在那里，真实地发生，并伴随着时钟的摆动继续而又变本加厉。</p>
+<p>如果说，每个人的故乡都在沦陷，家家都有一本难念经，那么，我的故乡如此沦陷的方式，以及这首难唱曲的哀婉程度，都显得荒诞不经。</p>
+<p>这是装满了我童年记忆的东北故乡，尽管家人早已搬迁，但我还是每年都回到这里，光顾老宅，在年节中拜访族中长辈老人，并对死去的亡灵焚纸烧香尽一点绵薄的传统孝心。也可以说，多年来，故乡从未离开过我的视野，并因为爱它，才为它的人情嬗变而心疼，为生活在这里的村人遗憾而痛心。</p>
+<p>这一切的爱与痛之中，自己无能为力，仅能摘录其中的片段，并筹划着有朝一日立此存照，记录民风遽变、家族由盛转衰，以及一个村庄的死亡全程。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/M1FGO.jpg?resize=500%2C375" alt="M1FGO" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/M1FGO.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/M1FGO.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><strong>新时代老人的“旧社会年关”</strong></p>
+<p>故乡还在，但村子的魂魄早已死去，宗族家训的血脉早被抽空，只剩下碧水青山难得好景致的一张皮囊。</p>
+<p>春节期间，村里一些高龄老人正在东北的火炕上忐忑地活着——他们因活得高寿而倍感内疚。自杀之心早已有之，有着同龄老人的彼此宽慰、相劝，死心虽然没了，但活罪难逃。</p>
+<p>准备年夜饭时，村里一位年过8旬的阿婆刚刚被骂，幺儿的媳妇掐着细腰、抱着孩子，把她“祖宗八代”骂了个遍。</p>
+<p>几天前，老人被家人推倒，摔在院子里的台阶石下。带着淤青的伤，拄着柴火拐棍，老人弯腰生起了灶火、烧热了火炕，因为做的一顿饭菜不合口味，七碟八碗的饭桌子被儿媳妇猛力掀翻，椅子上的一盆酸菜被扣翻落地，冒着热气，滚着汤水。收拾碟碗碎片的过程，老人不敢言语一句，头垂得很低。</p>
+<p>此时，老人的小儿子正在村里小卖部的麻将桌上酣战了两个昼夜。当然，即便在家里，儿子也不敢发声，至多是默默帮助母亲收拾散落了一地的碗筷残局。</p>
+<p>在东北，春节是一年中最重要、也最喜庆的节日。因为节气使然，每年农耕一茬玉米，按春种秋收的时令，瑞雪隆冬正是村民农闲之季，也本该是众亲友朋团圆、几代人同享天伦之乐的时刻。可在村里，春节越近，老人们的生活越发孤单和悲催了，挨骂被打的间隔也更短了。频率最高的一句诅咒是——“老不死的东西，你怎么不早点走（意指去世）了”。</p>
+<p>受此待遇，正是因为老人活得太高寿了，“老了就不中用了，也是小辈们的生活累赘”，老人这样告诉我。偏偏这又是东北地区一个闻名全国的“长寿之乡”，90岁以上甚至过百寿命的健在老人还有很多。根据县志记载，清乾隆年间，这里出过一位寿享164岁春秋、经历了“两朝七帝五总统”的老人。这名老人被家乡的政府部门作为光鲜的外宣名片，而长寿老人的现实生活却鲜为人知。</p>
+<p>在我的故乡，类似邻家阿婆的故事不是个案，而是一群老人的镜像。几年里，我曾利用回乡之时，去拜访过村里年逾75岁的一些老人。他们的生活境遇不堪，更远未享到晚年之乐。他们并非膝下无子女儿孙，并非老无所倚，讽刺的是，子孙满堂都在村内，却老无所养。</p>
+<p>田婆（化名）已经89岁高龄，在大年初一的清早，她盼着能有儿孙们来探望她。直到炊烟日暮，她终究还是失望了。儿孙算起来超过30人，没有一个人选择在这一天陪她安静地聊聊天。几年前，老伴因病去世，让她更为孤单。田婆患有多种疾病，以往因为治病的事，闹出了不可思议的笑话——在治与不治的争议中发生了打闹，儿子之间拳脚相加，妯娌之间早已素不往来。</p>
+<p>新年的第一天，最先来看她的，是村里一位比她小五岁、比她更孤独的老人。两个老人曾在几十年前因为一桩旧事生怨，曾发誓老死不相往来，可最终还是没能战胜孤单。那个老人拄着拐杖，拖着老寒腿，尽管只有几百米的路程，却也要走走停停，经常来说话、打发彼此的孤单。</p>
+<p>直到大年初二，每个儿子分别送来了200块钱。这是老伴活着时定下的规矩——每一年，每个儿子给200元算是“养老费”。这个数额也是经过了多年的“拉锯”协商敲定的。因此，在一年的365天中，除了送200块钱以外，儿孙再很少出现。</p>
+<p>大年初三，田婆突发痢疾病倒了。前一天，他的一个儿子和儿媳除了送来200块钱，还带来了一箱牛奶。老人喝下后，频繁地去厕所——这箱牛奶过期了半年之久。这不是第一次，以前，田婆每逢生日时，有儿媳妇把家里吃不完、或者即将坏掉甚至已经腐烂的水果送来。</p>
+<p>村里还发生过这样一件事。一位年过百岁的老翁，儿子倒还孝顺，却意外地死在了不孝的儿媳手中。老人生前已查出患病，医生叮嘱过家属，发病时可及时送医就诊。然而，在老人最后一次发病时，最先发现的儿媳却故意紧闭屋门，未能及时告知当时就在院子中的丈夫，让老人错过了送诊抢救的黄金时间。</p>
+<p>出殡之时，儿媳比儿子哭的更为厉害，也是把一场孝顺戏演到最逼真的明星。她一会儿长跪在黑土上不起，一会儿又扑在坟头嚎哭，几个男人都拽拉不起身。在场的很多村民夸她孝顺，当然，也有人发现她一边假哭，一边用手从嘴里蘸着口水，不断地向眼睛上涂抹。事后，很多女人学会了这个招数。</p>
+<p>为了让老人死的迅速而又悄无声息，一些狠心的儿媳还会在食物上动动脑筋。通过在一日三餐上节食减量，让老人在长年累月的自然饥饿中走向死亡。明知如此，老人却不敢声张，否则家庭内战将会迅速引爆全村人的围观。</p>
+<p>婆媳之间的先天积怨生恨，在中国一些落后贫穷地区并不罕见，但是，毕竟是一家人，缘何如此视为仇敌、针芒相对？这个问题，我经常在思考。孝道礼教的殆尽，宗族传承的断裂，也许正随着这个村的民风凋敝而来。而且这恰如一场瘟疫，很快蔓延滋长起来。一些外嫁到村里的女人，从开始的不解，到入乡随俗的接受，再到变本加厉的效仿，最终很可能成为心藏蛇蝎的最恶毒之人。</p>
+<p>每次回到故乡，附近的阿婆阿公总愿意找我聊天，也许是因为孤独太久，又没有一个适合倾诉的对象。约在十年前，我刚大学毕业做记者时，邻家的阿婆对我说，“你这个写字的，应该写写咱们村不顾忙闲、不务农事的麻将风气。”</p>
+<p>而最近几年，每次春节归乡，阿婆的说法又变了，“你是做记者的，你应该曝光一下村里的不孝风气，这群媳妇们作（意指“折腾”）翻天了”。</p>
+<p>群山遮住了村人的眼界，而素质与修养的缺乏，又让他们并未学会正确使用工具。城市中的刀具，传入村内，但村民并未用它切菜，而是无师自通地发明了用它来扼杀生活。包括有限的娱乐方式，也在被歪曲利用着，成了村里老人眼中的糟粕，流传甚远。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/zspNU.jpg?resize=500%2C375" alt="zspNU" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/zspNU.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/zspNU.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><strong>在攀比和竞赛中的春节</strong></p>
+<p>离春节还有十多天时，村里最穷的一个农户再传噩耗，男主人因病去世；大约两三年前，他的小儿子也因病过世了。</p>
+<p>男主人去世的几天前，他的大儿子在一群农民的陪同下，乘着当天的早班车去了乡镇上。当天上午，这个低保家庭一次性取出了全年3000多元钱的低保费。这群人刚出政府大门，就转身走进了乡镇上最好的一家饭店，点上最贵的酒水和饭菜，将全年的低保费花费的所剩无几。</p>
+<p>这户村民很穷，也始终被村人视作“傻子”对待。大儿子知道，即便是只有一天可以行乐痛快，撑足了面子，哪怕剩余的364天都在听天由命地喝着西北风，也很值得。</p>
+<p>“面子”是村里最为讲究的声誉，攀比是村人生活中的必需品。杀年猪在攀比，如果谁家的年猪杀的最早、体重最大，家人走路也跟着趾高气昂；而谁家的年猪很小，在村民的打探中连走路都不肯抬头。</p>
+<p>按东北规矩，每年刚过元旦，村人陆续杀年猪，族人和邻居会前来帮忙，然后在土炕上堆满菜盆，摆上几桌。村人之间在比拼着，谁家的年猪膘肥体壮，谁家的待客方式比较周到，谁家因为吝啬而在菜盘光了之后不再添菜。可能刚从你家放下碗筷，很快，你家待客的不热情和吝啬便会不胫而走，传遍了整个堡子。</p>
+<p>可是，在我听到的众多故事中，没有哪一家村民是真正大方的。即便童年记忆中比较忠厚老实的人，如今也被认为是不喜欢添菜、故意将肉做不熟的“滑头”了。</p>
+<p>放鞭炮也在攀比。在农村，每年春节都要燃放爆竹，以前放鞭炮，近些年来流行城市中常见的烟花。在我的童年记忆中，春节期间不时会有火灾发生。在东北的森林山区，一年四季要靠烧土炕取暖和做饭，燃料就是漫山遍野的枯枝败叶，每家农户都在院内外堆起来足够燃烧一年的巨大柴火垛。以往的年俗中，谁家的柴火垛堆得高，摆放整齐，被认为是“过日子的一把好手”，这也是农村年轻男女相亲必看的一个物件。</p>
+<p>但春节期间，总会有一些不受控制、火花四射的烟花爆竹，钻进柴火垛中，从一个微弱的小火苗燃烧成一团扑不灭的火球。当然，村里也有一些火灾是人为纵火导致的，如果邻里闹了矛盾，彼此最常见的报复手段便是趁着月黑风高，把一根点燃的火柴丢进柴火垛中，并快速地隐匿跑开。</p>
+<p>临近春节，每户农民无论穷富，都要购买烟花，每户花销少则三五百元，多则超过千元。这笔开支相当于户均年收入的1/10。</p>
+<p>村里罕有外出打工者，即便打工的，也都是男人离家，留下妻子照顾老人和孩子。因为进城能做的活计不多，而且常年讨要不到工钱，是否外出打工也让不少村人在2016年的春节犹豫不决。春节前夕，村里有年轻人在工地上索要工钱没能返乡。当天，他的家里杀年猪，村人为此摆宴庆祝，酒桌上没人关心这个年轻人最后是否讨到了工钱。</p>
+<p>通常，选择进城打工的家庭年收入在3万元左右，而更多的人留在村里，进行了两极分化：一部分人，需要赔笑送礼，给在村里滥砍盗伐的老板们做工，砍伐森林按日计价，如果每家有两个劳动力，年收入约2万元；另一部分人只能把浑身憨力用在几亩农田上，年收入只有几千元。</p>
+<p>但无论收入高低，春节燃放烟花是必须完成的一项使命。按传统，爆竹声中辞旧岁，这不仅是新春吉利的表征，更关乎着未来一年的财运时运。于是，村民们也攀比着：谁家燃放的烟花多、买的烟花贵，这是可供炫耀的谈资，胜者脸面有光，意指全村一年的好运都聚集在他一家。</p>
+<p>除夕夜里23时，是各户烟花整齐绽放之时。这时的竞赛，变成了谁家的烟花漂亮，喷射的高，绽放的美丽。全家人一边院内欣赏，一边与别人家墙内外绽放的烟花进行比较。落败者，会心有不爽地暗下发狠，明年我一定在烟花上超过你——只有这样，我的日子才会超过你。</p>
+<p><strong>礼崩乐坏的村风</strong></p>
+<p>村内对子女的教育观，始终处在一种盲从和摇摆状态。十多年前，我是村里走出的第一个大学生，当时正是“读书无用论”在村内盛行之时。一个成绩很好的儿时玩伴，在家长劝说下初中辍学。当我大学毕业后靠一己之力打拼，在北京工作、安家，又一度被视为村内标杆，很多家庭心甘情愿砸锅卖铁供孩子读书。近几年情况生变，不少大学生毕业后，难以找到村民心目中“赚钱多”的好工作，一些不够自立的子辈，工作后还要时常依赖父母的继续补贴。因此，村子里的教育价值观再次紊乱了，在“孩子是否读大学”的问题上显得左右为难。</p>
+<p>不久前，一名在读大学生，被父母劝导准备中断学业，要么回家，或者选择留城务工。劝说的理由是一笔简单的农民账：“家庭条件不好，而且大学毕业后也不是分配，要自己去人才市场等着人要，这和打工没有太大区别。工作难找、赚钱又少，而读书又太费钱了，家里供不起。”</p>
+<p>大山隔绝了村人的视野，他们不知道、更不关心外界发生了什么，日久变得难以明辨是非、通达事理。在村人眼中，好与坏、是与非的衡量标尺和参照系，是比他们相对富裕的几个村民。这群一夜暴富的聪明人，是靠胆量起家，不择手段、不计后果，敢于挑战道义和法律底线。</p>
+<p>在村人的思维中，宗族传统权威早该被打破，唯有自身钱包很鼓的人，说出的话才具有分量，才能服众，才理应被推崇为德高望重。而不用关心所讲内容是对或错，更无须计较发言者的年龄大小和辈分高低。这种逻辑极为简单：有钱人，就是成功的，也一定是最正确的。</p>
+<p>这也是一个局限的天地。全村不足百户，拥有20万元以上家产的农户寥寥无几。四面深山环绕，只有一条土路通向乡镇，每天有早晚两班客车通行。很多村民，一生未出远门，还有更多的老人，没读过一天书，一辈子没走出大山、进过县城。</p>
+<p>没见过世面的老人，却是大山中最后一批宽厚仁慈之人。可惜，这些老人越来越稀缺了，我认识的老人也渐次过世了。此后，一个儿孙满堂的家族根基开始坍塌，家风越加败落，族人之间不再友善和睦，一个尚未成家的小辈不仅可以辱骂父母，甚至还敢随手抓起一把农具冲向他的父母。犹如一棵大树，尽管枝叶繁茂，高耸参天，掏空树根后，树干和枝桠也开始枯落和腐烂。</p>
+<p>田婆家的阿公在世时，曾有一个遗愿，子辈能将族谱在春节这天请回来，然后全年烧香祭品供奉。这个提议一再拖延，七八个子女互相推诿。</p>
+<p>按农村的祖上规矩，幺儿要和老人生活在一起，长子要替父母分忧解难、操持家族责任。一番争吵过后，长子被迫接下了这个任务。</p>
+<p>好景不长，不到一年，因为本身的不情愿和后续生出的怨气，长子将族谱砸个粉碎。让他怨气的是，在请回族谱、准备祭品的仪式前后，族人中没有一人前来帮忙，而大年初一之后，族人们拖家带口蜂拥而来，叩头祈福，求祖宗们能佑护他们大发财源、家丁兴旺，而在离开时只会丢下一两块钱的零钱，而在外被传言“发展很好、赚钱不少”的子孙后代在下跪叩头后，丢下的也不超过十块钱。</p>
+<p>当然，不再供祖祭祀，还有一个更大的理由——长子一家在为祭祀忙碌的一年中，他发现，祖宗们并没有赐予给他这个最孝顺的人任何的好运。他似有所悟，原来祖宗不灵了。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/k1kE3.jpg?resize=500%2C375" alt="k1kE3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/k1kE3.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/k1kE3.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><strong>后记：</strong></p>
+<p>无论莫言笔下的高密东北乡，还是陈忠实笔下的白鹿原，自古以来，乡土文学不乏经典，但这些都只是故事。而我家乡正遭遇的，不是故事，而是一场升级版的事故。</p>
+<p>故事是正常人之间的家长里短、生活百科，而事故的主角则是一批非正常人，但他们神智健全，没有任何的精神疾患。这场事故的本质，是赤裸裸的人性与一个物质极大丰富、人情味却无比缺失的时代产生的激烈对撞。</p>
+<p>小智小慧的农民式思维，自私趋利和数典忘祖的人性丑陋，在这个村中被放大到无以复加的程度，勤善礼孝的祖训宗规已然荡然无存。四面的盘山峻岭遮蔽了他们的眼界，信息的闭塞、交通的不便，也切断了他们和外界的通联和交融，又加剧了这场无知的荒诞悲剧以野蛮的方式继续上演。</p>
+<p>事故发生在东北的一个极为偏僻的县城，县城中最为偏僻的村庄。在这里，原生态的自然环境，现代社会中稀缺的碧水青山，与礼崩乐坏的人文环境，极为不符。</p>
+<p>追溯村史，祖上一位丧夫的老奶奶用篮子挑着几个幼儿，从山东出发的闯关东中途，路过这一片肥沃黑土，犁地开荒，停留生活。孩子长大后，逐渐形成了村落。</p>
+<p>在村内，从一个个至亲，又衍生为多个家族，从祖上追溯都是亲属友朋。祖上起于一枝，本应相亲相爱，而结果却相害相残，在言传身教之下，子辈们也加入其中，斗争更甚。根据村里年长者的回忆，从建村起，到民风蜕变前，一直是民风淳朴、宗族礼教井然，族人也始终被认为是周边乡镇中最传统、憨厚善良的一批农民。在我的童年记忆中，为村里自愿修路搭桥这样的乐善好施行为不胜枚举。</p>
+<p>然而，近十多年来，风气每况愈下，几代祖先努力营建的乡村秩序毁于一旦，利益崇拜，砍树刨根，贪利图逸，不思进取，宗族约束力完全凋零，传统礼教全线崩裂。</p>
+<p>我经常在想，中国的多数乡村已被城市化的步伐碾压的“空心化”，很多人在为消逝的乡土文明而呼吁反思，这是因为它走的太快、把文明丢的速度过快。而我的故乡，它却在飞速发展的时代中，因为笨重的身躯和闭塞落后，走的太慢了，本该为此庆幸。但不幸的是，它却走向了另一种根脉断裂的的病态极端。</p>
+<p>几年来，我始终思考着“缘何至此”这个问题，可惜，至今不能得出那个最准确的答案，况且问题的原因也极为多元和复杂。现在，唯一能做的，以“零度情感”略记一二。</p>
+<p>来源：《财经》杂志</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%B4%A2%E7%BB%8F%E6%9D%82%E5%BF%97-%E4%B8%80%E4%B8%AA%E7%97%85%E6%83%85%E5%8A%A0%E9%87%8D%E7%9A%84%E4%B8%9C%E5%8C%97%E6%9D%91%E5%BA%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91%E5%87%8B%E6%95%9D/?category=18271" rel="tag">乡村凋敝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91/?category=18271" rel="tag">农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%8A%82/?category=18271" rel="tag">春节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9%E8%B4%AB%E5%9B%B0/?category=18271" rel="tag">权利贫困</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BC%E5%B4%A9%E4%B9%90%E5%9D%8F/?category=18271" rel="tag">礼崩乐坏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%94%E4%B9%A1%E6%89%8B%E8%AE%B0/?category=18271" rel="tag">返乡手记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%AD%99%E6%97%AD%E9%98%B3%EF%BC%9A%E6%88%91%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E7%AF%87%E8%BF%94%E4%B9%A1%E6%89%8B%E8%AE%B0/" target="cdt-mirror">孙旭阳：我的最后一篇返乡手记</a>
 </h2>
 <p><p>1</p>
@@ -413,291 +661,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/428386/" target="cdt-mirror">【河蟹档案】质疑春晚？吕涛逸：信不信马上调查你</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="https://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" data-recalc-dims="1"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8A%AE%E5%BF%85%E5%B3%B0">芮必峰</a>：联播节目又花了十多分钟的时间赞春晚，接着的“焦点访谈”是同样的话题，新华社和多家中央媒体都发了文章。开动整个宣传机器赞美一台春晚，这已经超出了对春晚本身的评价。很显然，对春晚的评价似乎被上升到了意识形态斗争的高度。<br><a href="https://freeweibo.com/weibo/3940698359719188" target="/weibo/394">2016年02月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BB%BB%E5%BF%97%E5%BC%BA">任志强</a>：连春晚都不能评论是一种自信吗？<br><a href="https://freeweibo.com/weibo/3941142472768330" target="/weibo/394">2016年02月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9B%BE%E5%B0%8F%E9%83%8E%E8%AF%B4%E4%BA%8B">曾小郎说事</a>：央视春晚总导演吕涛逸对一个微博用户的质疑回复到【 信不信马上调查你，我有的是能力 】！———这是真牛逼，你们誰敢不服？！<em><em>相关阅读｜《<a href="http://www.wenxuecity.com/news/2016/02/07/4949945.html">春晚导演自评一百分:不好的建议我们置之不理</a>》</em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-19.jpg?resize=440%2C569" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-19.jpg?resize=232%2C300 232w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-19.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1">：<br><a href="https://freeweibo.com/weibo/3940208380770586" target="/weibo/394">2016年02月08日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E7%AE%A1%E8%AE%B2%E4%BF%9D%E9%99%A9">老管讲保险</a>：神秘的猴年春晚制片人 <em><em>相关阅读｜《<a href="http://www.wenxuecity.com/news/2016/02/10/4957270.html">难怪打100分 春晚制片人竟是彭丽媛妹妹</a>》</em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-17.jpg?resize=566%2C332" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-17.jpg?resize=300%2C176 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-17.jpg?w=735 735w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-20.jpg?resize=423%2C751" alt="彭丽娟" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-20.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-20.jpg?w=640 640w" sizes="(max-width: 423px) 100vw, 423px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3940755732649687" target="/weibo/394">2016年02月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40epieikeia">epieikeia</a>：首先是先孝顺走乂家，有走乂才有家。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-15.jpg?resize=554%2C369" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-15.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-15.jpg?w=691 691w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3941330483019711" target="/weibo/394">2016年02月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%BF%9F%E5%A4%99%E7%94%9F%E5%BE%8B%E5%B8%88">迟夙生律师</a>：小赵孩子去考试，100道题答对3道，考卷得了3分，孩子自我评价得的是100分，学生和老师们想说出真相，小赵大喊：我家孩子就是100分。[笑cry]//*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E5%85%89%E6%AD%A6%E5%BE%8B%E5%B8%88">陈光武律师</a>：由<a href="https://freeweibo.com/weibo/%40%E6%96%B0%E6%B5%AA%E6%B5%99%E6%B1%9F%E5%8F%91%E8%B5%B7%E7%9A%84%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E6%8A%95%E7%A5%A8%E6%98%BE%E7%A4%BA">@新浪浙江发起的网络社会调查投票显示</a>：15多万人参加投票。投1、2、3、4、5分的占98.5%。投8、9、10分的共计2.1%<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-18.jpg?resize=435%2C418" alt="春晚" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-18.jpg?resize=300%2C288 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/333-18.jpg?w=549 549w" sizes="(max-width: 435px) 100vw, 435px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3940872774904562" target="/weibo/394">2016年02月10日 </a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/428386/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%95%E6%B6%9B%E9%80%B8/?category=18271" rel="tag">吕涛逸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%A8%9F/?category=18271" rel="tag">彭丽娟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E4%B8%BD%E5%AA%9B/?category=18271" rel="tag">彭丽媛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E6%99%9A/?category=18271" rel="tag">春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E8%B5%B5%E6%89%8D%E6%9C%89%E5%AE%B6/?category=18271" rel="tag">有赵才有家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%B4%E5%B9%B4%E6%98%A5%E6%99%9A/?category=18271" rel="tag">猴年春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97%EF%BC%8C%E9%9A%BE%E9%81%93%E7%9C%9F%E7%9A%84%E4%B8%8A%E9%9D%A2%E6%9C%89%E4%BA%BA%EF%BC%9F/" target="cdt-mirror">微思客 | 朝阳群众，难道真的“上面有人”？</a>
-</h2>
-<p><p>“朝阳群众”最近受到的关注越来越多。</p>
-<p>这些通常戴着红袖章的社区大妈们，在北京资本气息最浓厚的朝阳区里，已经成为了一个看似格格不入却又无处不在的群体。他们和很多外表光鲜华丽的白领们住在同一小区，和许多“上班族”抬头不见低头见，但思维方式却似乎完全不同。许多人对“朝阳群众”如此熟悉，因为他们时时刻刻都在日常生活中；但大家又对他们如此陌生，直到近年之前，很少有真正关注这一群体的研究存在于学术界中。而随着资本社会的发展日益深化，朝阳群众似乎“陈旧”的思考和行为方式和现代化建设所谓的“先进”矛盾越来越突出，这也引发嗅觉灵敏的新闻工作者的关注。</p>
-<p>新闻媒体对“朝阳群众”的关注，显然证明了这一话题的社会影响力。然而，不少新闻调查总试图将这一群体“猎奇化”、“他者化”，深度和局限性都因此大打折扣。纵观各种相关新闻，不同媒体对“朝阳群众”群体的报道，通常仅仅局限于对现象的局部描述及思考的断章取义。比如，许多报道喜欢将朝阳群众“上面有人”的论述解读为一种过时的“拼关系”观念，却几乎不会去思考，这种“拼关系”，到底是一种人情社会的表述，还是朝阳群众的“自我麻醉”？抑或者说，这种表达，背后到底蕴含一种什么样的基层治理机制？</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-%E4%B8%8B%E5%8D%886.54.37.png?resize=423%2C384" alt="Screen Shot 2016-02-12 at 下午6.54.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-下午6.54.37.png?resize=300%2C272 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-下午6.54.37.png?w=423 423w" sizes="(max-width: 423px) 100vw, 423px" data-recalc-dims="1"><br><span>新闻媒体热衷于将朝阳群众“神秘化”，实际上极大阻碍了大众对于该群体真正的认识与现象的深入思考</span></p>
-<p>这方面，海外学者的研究成果或许能带来一些有意思的思考。海外汉学自“后现代叙事”转向，一直强调对微观层面治理机制的关注。这种“微观”研究不是仅仅停留在强调基层叙述，更多的是基层和上层的结合，两者均有能动性展现，“由上到下”和“由下到上”结合分析，实现全面叙述。如下文作者所言，基层日常政治的研究路径，确实已经是海外学者达成共识的学术范式。</p>
-<p>回到“朝阳群众”的话题，当我们去反思“朝阳群众”时，除了带有充满“他者性”的肤浅新闻叙述外，我们也许更应该问这样的问题：</p>
-<p>1、为什么朝阳群众能如此自愿参与日常基层秩序的维护？他和基层政府间到底存在哪种机制性的互动？<br>
-2、为什么在这个日渐强调个人私利的社会，他们坚持的所谓“社会公义”是一种落后，是对“个人私利”的另一种表达，还是达成某种妥协或共识？<br>
-3、这种现象，背后是否蕴含某种国家基层管理的新思路？这些被众多公知嘲讽的“文革式管理”，难道真的反映了国家治理理念的落后？<br>
-4、他们居住的社区，在阶级、户籍、性别上的差别是否影响着“朝阳群众”的产生？这些群众生活的小区在阶层上是否存在共性？</p>
-<p>带着这些问题，我们可以认真阅读2016年“列文森”奖获得者，澳大利亚国立大学邓利杰教授(Luigi Tomba)的作品：The Government Next Door: Neighborhood Politics in Urban China（隔壁治理：中国城市的邻居政治）。这本书很好解读了中国基层日常政治，尤其是社区治理的一系列机制性问题，并由这些问题引申，去思考形成这种机制，也就是该书核心概念“社区共识”的五种治理技术，这五种技术从社会分组出发，将不同阶层群体以社区形式隔离，并针对不同群体性质实施不同的治理技术。当然，这些治理技术并不完全“由上及下”，很大程度上，基层群体在追求自主利益时和上层的趋同才是关键。</p>
-<p>另外，该书关注群体和“朝阳群众”群体并不是完全对应，朝阳群众相对而言更需要被发动，而书中描述的基层社区群体则更加强调“自己的利益”，并需要与其他基层行动者的互动中表达出来，但作者研究的思路，对于解答“朝阳群众”现象同样重要。这里特意指出。</p>
-<p>下面的文章，作者是很有才华的禹昂同学。他的书评简要而精确地概括了整本作品的大致框架和主体思想，同时根据学术现状，进行了自己的思考。相信对于中国社区基层治理、邻居政治、包括基层群众自治群体感兴趣的读者，都能从这篇书评中获得很好的收获。</p>
-<p>另外，该书在今年2月10号，获得了海外汉学界最为顶尖的“列文森”奖。该奖每年由美国亚洲研究协会评出，颁发给上一年度为理解中国做出最重要贡献的两本英文著作，被视为海外中国研究的最高奖项之一。微思客第一时间独家带来该书在中国大陆的首篇书评，以飨读者。（文／杨松林）</p>
-<p><strong>The Government Next Door:</strong><br><strong> Neighborhood Politics in Urban China 书评</strong></p>
-<p>（文／禹昂）<br>
-随着单位制衰落、社区建设运动兴起，以及中国城市的空间转型和住房制度改革，针对城市中国崭新的社会和政治状况，近年来海外中国研究学界也产出了大量研究成果。尤其是在城市治理研究领域，芮杰明(Benjamin Read)、薄大伟(David Bray)、Thomas Heberer 、James Derleth等海外学者在近十年内发表的研究中逐渐开辟了以社区或小区为单位和对象，<strong>关注基层日常政治的研究路径。</strong>今年的列文森奖颁授给了澳大利亚国立大学的邓利杰(Luigi Tomba)2014年出版的专著The Government Next Door: Neighborhood Politics in Urban China，也可以视为学界对这一研究路径的认可。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-%E4%B8%8B%E5%8D%886.57.12.png?resize=317%2C477" alt="Screen Shot 2016-02-12 at 下午6.57.12" data-recalc-dims="1"><br><span>2016年“列文森”奖获奖作品：The Government Next Door: Neighborhood Politics in Urban China，作者：邓利杰(Luigi Tomba)，目前无中译版</span></p>
-<p>邓利杰在此书中提出的核心概念是“社区共识”（community consensus），反映了中国城市社区中来自国家和社会双方的行动者所追求的利益和运用的话语往往趋于一致，使得双方在日常互动和冲突场景都可以达成一种既定框架下的“共识”。由于社区共识的存在，城市居民所表达的诉求虽然以自利为目的，但总是以国家推广和认可的话语为表达方式，从而在实践中不断地再生产官方话语，间接地赋予了国家施行的政策以合法性。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-%E4%B8%8B%E5%8D%886.58.03.png?resize=572%2C339" alt="Screen Shot 2016-02-12 at 下午6.58.03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-下午6.58.03.png?resize=300%2C178 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-下午6.58.03.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><br><span>按照本书说法，“朝阳群众”现象，本质上是“社区共识”，即“朝阳群众”群体自利行为寻求国家官方化表达的方式</span></p>
-<p>社区共识并非自然生发的社会现实，而是一系列复杂的治理技术的产物。在这本书的主体部分，作者分章论述了五种“制造”社区共识的治理技术。</p>
-<p>首先，<strong>社会分组（social clustering）的治理实践</strong>通过在城市建设上推动门禁社区和居住区隔（residential segregation）的发展，将城市社区空间划分为中产阶级居住的门禁小区和经济弱势的工人阶级居住的社区。于是，两种社区中的居民不仅有着不同的经济生活，也面对着截然不同的治理实践和官方话语。在中产小区中，自主、自治、文明、素质的话语为国家的部分撤离和社会主体的自我治理提供了合法性；而在经历了下岗潮的工人社区中，与国家责任、社会主义团结相关的“拯救工人”话语以及家长式干预的治理实践则占据了主导地位。</p>
-<p>在第二章中，作者进一步分析了沈阳铁西区的社区建设运动。社区建设的实践被作者概括为微观治理（micro-governing），其核心是对上世纪90年代国企改革后涌现的<strong>下岗工人提供家长式（paternalistic and pastoral）的福利保障</strong>。在铁西区的这些社区中，工人的福利诉求与国家对社会秩序的重视使得双方的利益和话语趋于一致，而这种一致性的一种表现就是社区干部的双重身份：他们往往既是国家救济的对象又是代表国家救济同侪的行动者。</p>
-<p>基于作者在北京的一个高档商品房小区的田野调查，第三章转而关注中产社区中社区共识的产生路径。90年代的住房市场化改革事实上构成了<strong>国家制造中产阶级的一种“社会工程”</strong>（social engineering），通过购房补贴、住房贷款和公积金等一系列政策安排，体制内的雇员得以在商品房市场上成为首批拥有自己住房的中产阶级。由于这批体制内业主与国家有着紧密的经济和社会联系，他们对国家推崇的社区自治、“高素质”等话语更易产生认同，同时也更难以逾越社区共识的边界。通过这两章的论述，作者指出不论在哪种社区里，对国家话语的认同都深植于居民的社会化经验和经济社会背景中，而非仅仅是工具性地利用这些话语。</p>
-<p>第四章论及的治理技术是<strong>“有限抗争”</strong>（contained contention），讨论了中产小区业主维权的性质。基于共同的产权利益，商品房小区和业主委员会已经成为了集体行动的重要节点，但针对开发商和物业公司的业主抗争却被国家或隐忽现地设下了界限。这种受国家默许的界限既是地理上的（不可逾越门禁小区的范围），也是话语上的（业主们使用的抗争话语，如消费者权益保护总是国家认同的话语）。虽然社区共识为社会抗争设下了种种局限，但作者还是认为社区共识为国家和社会的不断协商、博弈提供了空间，国家的基层实践在这一过程中也必须不断应对来自社会的要求。</p>
-<p>最后一章是关于<strong>中产阶级“典范（典型）主义”（exemplarism）和素质／文明话语的经济和治理意涵</strong>。中产阶级在官方话语中被塑造为全社会的素质标杆， “文明”的中产阶级可以让他们居住的空间的道德和经济价值升高。于是，为文明和素质让路的话语为大拆大建、城市空间的中产阶级化（gentrification）和驱离工人阶级原住民提供了合法性，道德国家（moral state）、精神文明建设的话语恰恰为物质空间翻新、地方政府逐利的实践充当了帮手。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-%E4%B8%8B%E5%8D%887.00.34.png?resize=490%2C327" alt="Screen Shot 2016-02-12 at 下午7.00.34" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-下午7.00.34.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-12-at-下午7.00.34.png?w=490 490w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"><br><span>本书作者，澳大利亚国立大学助理教授Luigi Tomba（邓利杰）</span></p>
-<p>与近年来这一领域内的其它研究相比，邓利杰的这本新书有这样一些优势：</p>
-<p>其一，此书不局限于某一种中国城市社区的治理实践，而是充分讨论当代中国”社会分组“的治理技术之下社区治理的话语和实践的<strong>多元性</strong>。如果缺乏对这种多元性的充分讨论，就不免得出或偏倚向家长式的威权主义，或偏倚向新自由主义、社群主义的结论。更可贵的是，此书中门禁小区和工人社区不是彼此独立的两种治理对象，而是<strong>并存于国家话语所认可的素质阶梯（hierarchy of suzhi）上，为彼此所对应的不同治理方式提供着合法性</strong>。</p>
-<p>其二，这本书为中国基层社会抗争政治的研究提供了新的突破。当代中国抗争政治的一个基本特征就是<strong>局限于某一特定地方或团体，且极少对政党国家构成直接的意识形态挑战。</strong>这一特点在城市社区中以“社区共识”的方式具体体现出来，也通过五种微妙的治理技术得以构建，直接回答了抗争政治之局限性“何以可能”的问题。同时，“社区共识”与乡村中国研究中“依法抗争”、“以法抗争”等概念形成对话的潜力亦不可小觑。</p>
-<p>第三，此书鲜明地反映了中国城市社区治理的高度综合性，将若干治理、基层政治研究传统上的关注点之外的社会事实纳入分析框架中。在这一框架中，<strong>城市空间转型（门禁社区的兴起、城区的中产阶级化）；住房制度改革；精神文明建设、和谐社会的话语都间接而令人信服地导向了社区治理的顺利进行、社会秩序的维护和国家政策的合法性。</strong></p>
-<p>作者：<br>
-禹昂，山东大学社会学系本科在读，“然登”沙龙创始人</p>
-<p>编辑：<br>
-杨松林，多伦多大学东亚系硕士在读</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97%EF%BC%8C%E9%9A%BE%E9%81%93%E7%9C%9F%E7%9A%84%E4%B8%8A%E9%9D%A2%E6%9C%89%E4%BA%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92/?category=18271" rel="tag">城市规划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82/?category=18271" rel="tag">基层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%85%E5%A7%94%E4%BC%9A/?category=18271" rel="tag">居委会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%85%E6%B0%91%E8%87%AA%E6%B2%BB/?category=18271" rel="tag">居民自治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%B2%BB/?category=18271" rel="tag">自治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E6%B0%91%E7%BD%91%E9%95%BF%E5%BE%AE%E5%8D%9A%E5%A5%BD%E5%A5%BD%E8%BF%87%E6%97%A5%E5%AD%90%E6%94%B6%E8%B5%B7%E5%B0%91%E5%A5%B3%E5%BF%83/" target="cdt-mirror">知乎｜如何看待人民网长微博《好好过日子，收起少女心》？</a>
-</h2>
-<p><p><strong>问题：如何看待人民网微博发布的长微博《好好过日子，收起少女心》？</strong></p>
-<p>这篇文章评论已经被骂声淹没。<br>
-这是长微博原地址<br><a href="http://card.weibo.com/article/h5/s#cid=1001603938086223537738"><span>http://card.weibo.com/article/h5/s#cid=1001603938086223537738</span></a><br>
-人民网究竟想要宣传一种怎样的思想，是否属于一种洗脑？</p>
-<blockquote><p>（编者注：原作者微博也已经被骂声淹没）<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B2%81%E6%B9%96%E5%A7%91%E5%A8%98.png" rel="attachment wp-att-429048"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B2%81%E6%B9%96%E5%A7%91%E5%A8%98.png?w=450" alt="沁湖姑娘" height="" data-recalc-dims="1"></a></p></blockquote>
-<p><strong>答主：<a href="https://www.zhihu.com/people/fu-wen-chuan">吃咖啡喝方糖</a></strong></p>
-<p>大脑和脸一并扔了，头部只剩下喉舌。</p>
-<p><strong>答主：<a href="http://zhihu.com/question/40319568/answer/85976722">夏花</a></strong>，知乎首屈一指的真纲丝，SNP。</p>
-<p>也想送人民网一句：<br>
-好好当喉舌，少犯更年期。</p>
-<p><strong>答主：<a href="https://www.zhihu.com/people/huang-lei-si">黄蕾丝</a></strong>，微信公众号：coconut_liz</p>
-<p>这几天，看关于上海姑娘吃饭的热点发酵，我还一直在琢磨，这个究竟是什么样的舆论导向了，道德绑架虽然想来喜欢玩举国同欢，但大过年的这样玩真是够带感。<br><strong> 这不，立刻就看到人民网的女奴文，呵呵呵呵呵呵，配合服用，果然风味更佳。</strong></p>
-<p>离婚率，初婚年龄，经济增长放缓，生育率不给力……果然已经到了要牺牲女性权益的时候了。有点心疼，70年前我们致力于解放女性，才有了今天女性地位的提升（在这里也顺带感谢一胎政策的歪打正着），结果到今天，我们要往回走？</p>
-<p>说好的男女平等呢？说好的女性地位提升呢？</p>
-<p>此刻我的内心日了一万条狗。</p>
-<p>以下是对文章内容的就事论事：</p>
-<p>【遇到这种逗逼闺蜜，请远离】</p>
-<p>要求生活里有点情趣完全不是错，我们吃饱穿暖了，开始有能力要求生活质量。什么希望生气送个花，家务有对方分担一下，是合理的要求。假如你闺蜜因为你已婚而打压你的不满，请远离她。</p>
-<p>因为你们不在一个时代。</p>
-<p>她还活在男尊女卑的古代里。</p>
-<p>而且，对于别人的婚姻问题，你有什么资格发挥她丈夫审判她的需求？</p>
-<p>【那个闺蜜的老公，瘫痪了？】</p>
-<p>最近我在做母婴方向的营销推广活儿，会敏感地发现一个趋势：旧式的妈妈已经没法让消费者认同了，新时代的家庭，对父亲/丈夫角色的回归呼声越来越大。而学界也反复强调，夫妻关系对孩子的影响，父亲对孩子的影响不容忽视。</p>
-<p>所以，假如你老公是个生活无法自理，双商欠缺的半残疾，对不起，你的孩子已经输在起跑线了呵呵呵呵。当然你是不是命苦到哭晕在厕所，这个事实太明显，我们就不评论了。</p>
-<p>文中的曼曼老公就是个缺失的典型，在生活中几乎不存在，不料理孩子，不做家务，不关爱妻子。跟这种人一起，就是彻头彻尾的人生失误——离开他不是失败，守着他才是失败。</p>
-<p>【已婚的身份，不是地狱的通行证】</p>
-<p>这篇文章让我不舒服的一个很大原因，并不是女性的付出。本来这种你情我愿的事，也没什么好说的，你天天给老公舔脚趾我也只能理解成sm爱好者对吧？</p>
-<p>但她做了件很坏的事——</p>
-<p>把”已婚”的身份，和所有的美好生活对立起来了。</p>
-<p>文中的榜样，生活几乎没有让人觉得舒服的事，赚钱养家，老公瘫痪，生活无趣。而作者说，这些都是因为“结婚了”，需要“接地气”。</p>
-<p>相反，所有美好的事物，都是要自给自足的，因为“尘埃落定”了。</p>
-<p>对于这么悲惨的人生，作者试图用“虽然你已经没有性吸引力（不再明艳）但是是具有牺牲精神的英雄母亲”来试图拉女性进去拜屌教。</p>
-<p>此处我想说，谁赋予你因为我嫁人了就欺负我的权利了？这个锦旗我们不要～</p>
-<p>婚 姻在现阶段的中国，对于女性的吸引力已经大打折扣，实在费解为什么郭嘉还要宣扬这一套，也许是觉得除了一线城市的高收入独立女性（不对，看人设他想洗脑的 是这部分人）以外，其他女性都是轻而易举掉坑的。但目测，在我国现阶段女性的独立意识成长，以及婚姻关系的变革，已经是条不归路了。</p>
-<p>嗯，今天友善度送给人民网了。</p>
-<p><strong>答主：<a href="http://zhihu.com/question/40319568/answer/85974791">黑色光驱</a></strong>，观察者</p>
-<p>捏着鼻子看完了，就一个疑问。<br>
-你看哦，这姑娘嫁人了之后，碗筷可以自己洗，旅游可以自己去，结婚纪念日可以自己过，孩子可以自己带，自己工作资料查到半夜都不耽误哄孩子，然后，风情都可以自己解。</p>
-<p>那人家为啥要结婚？男人这话儿，是比黄瓜长啊还是比茄子粗？</p>
-<p>认真讲，本朝颇有几分母仪天下的冲动，一会秀秀品位，一会秀秀恩爱，想给年轻姑娘们做个楷模，可无奈总归是逆潮流而动，又加人才凋蔽，总脱不了猥猥琐琐的气质。使人看了颇感不爽，可骂又懒得张嘴，全身都是漏洞，骂出花来也显不出本事。不理，心里又搁得慌，怕它们哪天犯浑整点幺蛾子政策出来。</p>
-<p>唉，好端端一个社会主义政党，前有小二黑结婚，三几年就在根据地帮着农妇打离婚，后有大寨铁姑娘郭凤莲，有飒爽英姿五尺枪。到如今竟然羞羞答答的鼓吹回归家庭做个小媳妇。如此光景，连我都不禁发出今不如昔的感慨：<br>
-以前啊，</p>
-<p>是左派，先不论对错，就光明磊落的站在左边，三从四德？家庭都是他喵的枷锁，等老子实现了那啥，管教你们连婚都不用结。</p>
-<p>是遗老，就大大方方承认自己喜欢小脚，爱逛窑子，女人就该回家相夫教子，你问他理，引经据典一通胡说，但也断不至于去穷酸儒生托写的什么女德女训中找那么几片韭菜叶粘牙上。</p>
-<p><strong>答主：匿名用户</strong></p>
-<p>我怎么感觉文章里写的丈夫像死了一样呢？</p>
-<p><strong>答主：<a href="http://zhihu.com/question/40319568/answer/85961187">陈茂蓬</a></strong>，轻松自如，如鱼得水。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b2036012d43377d59e8ece6294061bd8_b.jpg" rel="attachment wp-att-429036"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b2036012d43377d59e8ece6294061bd8_b.jpg?w=375" alt="b2036012d43377d59e8ece6294061bd8_b" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/03f5c3bd02adb9f3b00cf45c61c27e37_r.png" rel="attachment wp-att-429035"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/03f5c3bd02adb9f3b00cf45c61c27e37_r.png?w=375" alt="03f5c3bd02adb9f3b00cf45c61c27e37_r" height="" data-recalc-dims="1"></a></p>
-<p>那么我大青果把忠孝请回来了，女德也请回来了，什么时候改改教科书，把农民起义也好好改一下啊？要不要把自己变成“中国孔教共产党”啊？</p>
-<p>我想起来以前当做戏谑的一句话：“我爱这大青果，我怕他完咯！”可是这戏谑终究要慢慢变成现实了……</p>
-<p>我的知乎回答：如何评价<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/">央视采访的群众对孝顺的定义</a>？ 更新，一开始的时候，我觉得我这只只是个抖机灵的答案，只是想搞个大新闻，把犬犬批判一番。看到现在的高票答案后，我觉得他… <a href="http://www.zhihu.com/question/40217362/answer/85372467"><span>http://www.</span><span>zhihu.com/question/4021</span><span>7362/answer/85372467</span></a></p>
-<p>我在一条微博下的评论</p>
-<p>一黛棕狮的微博：<br>
-“相夫教子是女人的天职，女人就该有女人的样子；<br>
-大清亡国一个世纪了，死人就该有死人的样子！”</p>
-<p>我的评论：<br>
-“就算大青果药丸，也该有药丸的样子！”遗老遗少们仿佛被揪到了那早已不存在的辫子，瞪大着眼红着脸，颤抖着吼出了这句话。 “啊，真真是震耳发聩啊！”看着面前目瞪口呆的“革命党”们，心里自得意，便又想起新纳的妾来……“走，回去赏那三寸金莲去呐！” 又拢起袖子，沿着那原路，鸭子般晃了回去。</p>
-<p>现在看来，这大青果，是未完待药丸啊！<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/74e853f717bce3c81442dd293b95ad73_r.png" rel="attachment wp-att-429037"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/74e853f717bce3c81442dd293b95ad73_r.png?w=375" alt="74e853f717bce3c81442dd293b95ad73_r" height="" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/ffc681274d14bac132823fdb919d4ebc_b.jpg" rel="attachment wp-att-429038"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/ffc681274d14bac132823fdb919d4ebc_b.jpg?w=375" alt="ffc681274d14bac132823fdb919d4ebc_b" height="" data-recalc-dims="1"></a></p>
-<p><strong>答主：<a href="https://www.zhihu.com/people/chang-jing-gu" data-tip="p$b$chang-jing-gu">巫冬</a></strong><span title="爱笑的姑娘食量不会太差。">，爱笑的姑娘食量不会太差。</span></p>
-<p>来，让我们平心静气地，一段一段地看下来。<br>
-不要爆粗，要冷静。</p>
-<p>一：曼曼对小美抱怨的回应。<br>
-希望丈夫「吃完饭能洗个碗」、「履行以前对家人做出的旅游的承诺」就是少女心了？就不接地气了？</p>
-<p>这难道不是正常过日子的样子吗…请问曼曼过的日子到底是什么日子？</p>
-<p>万万没想到，这个疑问刚冒出来，下文就真的给了答案…</p>
-<p>二：曼曼的女超人生活。<br>
-「每天清晨给宝宝洗漱喂早饭后匆匆上班；中午回家让婆婆睡个午觉，自己陪宝宝玩儿；下午下班后去市场买菜，然后赶着回家做饭；吃完饭给宝宝洗澡，陪他玩；直到哄他入睡后，自己再去洗个澡，晚上还要经常起来给宝宝盖被子……这样的生活，她从未说过一个“累”字。<br>
-估计连她先生都不知道，她经常在深夜一边看资料一边哄宝宝——身为法院里最年轻优秀的女法官，她的付出远比其他人更多。」</p>
-<p>好啊！很正能量啊！曼曼很努力，一切事务处理得井井有条，自己的工作也没有放弃，还深夜看资料，超努力的耶，简直是我等学习的楷模人民尊敬的榜样。<br>
-但是，你们有没有发现什么地方不对劲？丈夫哪去了呢？合着这过日子是曼曼一个人在过啊。</p>
-<p>我很佩服曼曼这样的人，但我也很好奇作者能不能做到特别享受地去过这种生活，一个字都不抱怨，并高唱奉献是美好的奉献是能带给人最高尚层次的幸福的。<br>
-反正我是做不到被强奸了还用心去感受快感的。</p>
-<p>就一个疑问：两个人的孩子，两个人的家，两个人都会挣钱，为什么只有女方一个人在照顾孩子？<br>
-如果你硬要扯婆婆是男方那边的人也有帮忙照顾孩子，我还想说女方也跟着负了赡养的义务呢。</p>
-<p>三：对婚姻生活的定义。<br>
-「亲爱的姑娘，我并无意妖魔化婚后的生活，只是咱老祖宗发明了一个很高明的词儿：尘埃落定。人们往往将它用在新嫁娘身上，仿佛在人世间漂泊的心终于找到了栖息之地，意味着安定与平静。」</p>
-<p>我怎么感觉，用在这篇文里面，仿佛姑娘在人世间漂泊的心终于找到了一片沼泽，意味着陷进去就被紧紧地吸住别想翻身了呢。</p>
-<p>四：与丈夫的相处之道<br>
-「好吧，既然他不愿意洗碗，你不妨挽起袖子把几副碗筷洗了，何必跟他置气，不值得；他工作太忙无法跟你出游，咱“XX在手，说走就走”，一个人在乌镇的小 店沏一壶茶，赏江南水乡的美景，静静地聆听心底浮现的声音，惬意自在的心情不会比二人同游差多少。至于那些经常被他遗忘的纪念日，咱同样能够过得有声有 色。精心做一桌好菜，开瓶年份正好的红酒，盛装打扮待他归来。他不记得没关系，咱可以给他惊喜呀。<br>
-如此，并不是对他的妥协与骄纵。只是因为我比谁都明白，我的内心足以强大到无需对方的给予。」</p>
-<p>谁跟你「咱」了！我跟你很熟吗！<br>
-他不愿意洗碗你就不值得置气自己洗，他不想赚钱了你怎么不天天养着他啊？</p>
-<p>你的内心如此强大，无需对方的给予，甚至事事照顾对方，那你跟男人结婚是单纯为了让受精卵不寂寞？还是为了养一个小宝宝的同时再顺带着养一个大宝宝？<br>
-女性独立很重要，但这个词也不是这么用的。<br>
-两个合适又独立的人结合，是一个人也能好好过，但是和对方在一起过最完美。而不是明明两个人在一起，还硬要把日子过得像只有一个人一样。</p>
-<p>五：「我深爱你，毋庸置疑。你待我情深意重，你心思细腻有情趣，我欣然接受；但如果你不解风情神经大条，简直呆头鹅一只，我也不会撒泼发脾气。」</p>
-<p>不好意思请不要偷换概念。不解风情神经大条，跟不负责任没有担当是有区别的。这段话没错，但是与此文论点相差了十万八千里。</p>
-<p>六：「早过了“小吵怡情”的年纪，心平气和地过日子才是人生要义。有那份吵架的时间和精力，不如阅读，不如静心，不如听曲，不如品茗，不如抄一页《心经》。你我皆是寻常女子，不比过偶像剧里的生活，也没有摇摇欲坠的玻璃心。」</p>
-<p>好感动呢，平静而宽容的生活，不要小孩子气，要平常心，要宽容，什么都别吵。<br>
-老公所有家务都不做？没什么！泡杯清茶端到他桌前，用你的爱感化他。<br>
-老公出轨了？别伤心！看看《女德》，好好反思是不是自己灶台擦得不够干净。<br>
-家庭暴力了？别低头！皇冠会掉。他打你的时候你就抬起来微笑，即使血流满面，亦然保持优雅姿态。</p>
-<p>七：「日子一天天地过下去，柴米油盐，婆媳妯娌，丈夫孩子，职场家庭，来不及细细品味，呼啦一下，某天无意间抬头看看镜中的自己，眼角竟浮现淡淡的鱼尾纹。给自己一个笑脸，这个笑容恬淡、心平静气的女子，真的特别美。为这样的我们祝福、喝彩。」</p>
-<p>什么也别说了，给这个笑容恬淡心平静气，手戴银镯散发香气的女子鼓……哎呀，痰盂接好！</p>
-<p>我看到最后，发现作者是潮汕人，终于理解这文章怎么写出来的了。<br>
-潮汕女孩子给人的印象一直很好，甚至流传着娶妻当娶潮汕女这样的话（还真的用云输入直接打出来了）。标签无非就是「贤惠」、「勤劳」、「刻苦」这些近义词。<br>
-我本人就是潮汕人，从小在这样的环境长大，我告诉你们，是真的，但到我们这一代已经不大有了。</p>
-<p>经济基础决定上层建筑。<br>
-在旧社会，女人是没有工作的。男人在外挣钱养家，女人在家打点家务，很合理对不对？<br>
-家庭经济来源是男方，所以男的在家地位更高，说话也更有份量，所以，女方就是「你什么都不会，除了做家务还能干嘛」。于是，男人赚钱的能力，和女人做家务的能力，就成为了双方择偶的最主要标准。</p>
-<p>从小我就习惯了帮忙在厨房打下手、洗碗、扫地等，而这些家务，我弟不肯做是不能强求的。我从小就不服这种设定，越长大越叛逆。<br>
-我妈是这样说的：你现在不学会，不把手脚练利落勤快点，将来嫁了到婆家是要被嫌弃的。<br>
-真是…父母之爱子，则为之计深远啊…<br>
-我不以为意，甚至给我妈敲警钟，提醒她担心担心儿子。因为现在中国男女比例不均衡，我们这一代，可能女挑男更多了。</p>
-<p>现在已经不是以前那种男主外女主内的家庭模式了，家庭经济来源也不只有男方一人了，我们为什么还要维持以前男方地位高的观念，并把那种生活方式传承下来？</p>
-<p>你又会赚钱，又会做家务，也能为自己来一场美满的一个人的旅行，你什么都会，你丈夫就只会赚钱不会别的了，那你结婚干嘛？<br>
-还不如<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20a701da0c86177f1787a684250c1019_b.jpg" rel="attachment wp-att-429034"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20a701da0c86177f1787a684250c1019_b.jpg?resize=410%2C300" alt="20a701da0c86177f1787a684250c1019_b" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E6%B0%91%E7%BD%91%E9%95%BF%E5%BE%AE%E5%8D%9A%E5%A5%BD%E5%A5%BD%E8%BF%87%E6%97%A5%E5%AD%90%E6%94%B6%E8%B5%B7%E5%B0%91%E5%A5%B3%E5%BF%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%B0%8A%E5%A5%B3%E5%8D%91/?category=18271" rel="tag">男尊女卑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B4%E7%94%B7%E7%99%8C/?category=18271" rel="tag">直男癌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B1%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9D%8E%E6%B3%A2%E5%A4%B1%E8%B8%AA%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E4%B8%AD%E8%8B%B1%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/" target="cdt-mirror">BBC｜英外交部：李波失踪“严重违反”中英联合声明</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg" rel="attachment wp-att-429025"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg?resize=575%2C323" alt="160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160212084243_hongkong_demonstration_lee_bo_976x549_reuters_nocredit.jpg?w=624 624w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p><strong>英国外交部周五发表最新一份的香港报告，指铜锣湾书店李波事件严重违反中英联合声明、及破坏“一国两制”原则。</strong></p>
-<p>英国外交部发言人对BBC确认，这是首次指出“严重违反”中英联合声明。不过，发言人指出，假如中英联合声明被破坏，未有法律条文规定如何处理。</p>
-<p>外交及联邦事务部大臣菲利普·哈蒙德报告中说，虽然李波失踪全部事实尚未厘清，但现有资料指李波在非自愿情况下被带到中国大陆，并未经过香港法律程序。</p>
-<p>英国方面向中国政府要求，即时让李波回到香港。另外，英国亦呼吁中国及香港政府向港人保证，香港境内只由香港人员执法，及香港人享有的权利及自由将受到保护。</p>
-<p><strong>“只是猜测”和“说三道四”</strong></p>
-<p>不过，香港政府周五对这份报告回应说：“（目前）任何对于李波‘在非自愿情况下被带到中国大陆’的指称只是猜测。”</p>
-<p>中国外交部则在当天晚间回应英国政府的《香港问题半年报告》，称报告中的一些内容对中方“无理指责”。</p>
-<p>“英国政府通过发表所谓香港问题半年报告对香港事务说三道四，指手画脚，报告中的一些内容对中方无理指责。我们对此表示强烈不满和坚决反对，”外交部发言人洪磊说。</p>
-<p>洪磊还说，香港事务属于中国内政，任何外国无权干涉，“英方对香港的所谓‘责任’并不存在。我们要求英方谨言慎行，停止干预香港事务。”</p>
-<p>李波是铜锣湾书店的股东之一，去年12月30日失踪。李波是英国公民。</p>
-<p>不过，报告亦指，“一国两制”在大部分范围内运作良好，不过有关于权利及自由的地方惹人关注。</p>
-<p>英国外交部每半年会撰写香港报告，向国会描述中英联合声明实现的情况。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%8B%B1%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9D%8E%E6%B3%A2%E5%A4%B1%E8%B8%AA%E4%B8%A5%E9%87%8D%E8%BF%9D%E5%8F%8D%E4%B8%AD%E8%8B%B1%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E6%B6%89%E5%86%85%E6%94%BF/?category=18271" rel="tag">干涉内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%A4%E5%AE%8C%E6%88%90%E8%B5%B4%E7%BE%8E%EF%BC%9A%E6%84%8F%E5%9C%A8%E9%AB%98%E5%B0%94%E5%A4%AB%E3%80%81%E5%B9%B6%E6%9C%AA%E6%B4%A9%E5%AF%86%E6%9C%BA/" target="cdt-mirror">德国之声 | 令完成赴美：意在高尔夫、并未洩密机密？</a>
-</h2>
-<p><p><strong>沉寂许久的令完成如今通过律师发声，表示自己没有向美国交出包括核机密在内的中国国家机密。他的律师接受路透社采访时表示，令完成来美国”是分享打高尔夫的秘诀，并非是国家机密。”</strong></p>
-<p>（德国之声中文网）美国律师史密斯（Gregory S. Smith）在华盛顿的办公室接受了路透社的电话采访，他表示，自己已接受令完成的聘请，做他的律师。史密斯曾在比尔·克林顿担任美国总统期间任职白宫助理顾问。他虽然表示令完成人在美国，但是并没有透露令是否已经申请庇护以及他是否正在与美国当局对话。</p>
-<p>在这之前，令完成从未公开承认或否认自己的行踪，也没有表示过是否已聘请代理律师。</p>
-<p>史密斯表示，令完成对最近的指控感到烦躁不安。《华盛顿自由灯塔》（Washington Free Beacon）和《金融时报》的报道先后出现了这些指控。史密斯获得令完成授权发出以下声明：”媒体报道的荒谬传言称，他掌握大量包括核武发射密码等机密，并有传言说，他已把国家机密交给美国政府，这些都是毫无根据的谎言和诽谤，令完成保留通过我采取适当追究行动的权利。”</p>
-<p>他还补充说，十分爱打高尔夫球的令完成”来到美国是分享打高尔夫的秘诀，并非是国家机密。”</p>
-<p>令完成的哥哥，有”胡锦涛大内总管”之称的令计划已被双开。路透社之前有报道指出，对北京而言，令计划的案件非常棘手，因为他是前国家主席、中共中央总书记胡锦涛的亲信。之前有美国媒体报道，令完成可能是中国史上”最具破坏力的叛逃者”。前美国中情局负责中国事务的分析师约翰逊(Christopher K. Johnson)表示：”有猜测认为，令完成是一笔宝贵的财富。因为职位的关系，他的哥哥一定会接触到敏感信息。他告诉弟弟多少信息，告诉到什么程度。这是个关键问题。”</p>
-<p>美国国务院的一名官员拒绝对此做出评论。他表示，美国国务院会与中方就执法事务进行例行沟通，中国也提出了一些令人关注的案件。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%BB%A4%E5%AE%8C%E6%88%90%E8%B5%B4%E7%BE%8E%EF%BC%9A%E6%84%8F%E5%9C%A8%E9%AB%98%E5%B0%94%E5%A4%AB%E3%80%81%E5%B9%B6%E6%9C%AA%E6%B4%A9%E5%AF%86%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4/?category=18271" rel="tag">政治庇护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E5%AF%86/?category=18271" rel="tag">泄密</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/428996/" target="cdt-mirror">摇滚客｜失去颜色的谭维维和喊不出来的华阴老腔</a>
-</h2>
-<p><p><strong>微信公号：摇滚客（ID: rockerfm）</strong><br><strong> 作者：十三妹</strong></p>
-<p><em>原标题：失去颜色的谭维维和喊不出来的华阴老腔，都牺牲于春晚看似包容的假象<br></em><br>
-在做关于春晚彩排的报道时提前看了一遍节目单，除了谭维维的《华阴老腔一声喊》，真的再挑不出来第二个值得自己期待的节目。</p>
-<p>于是除夕那天坐在电视前面专心地玩着手机，就是为了等着谭维维的出现。可是谭维维出现了，我却彻底地失望了。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%94.jpg" rel="attachment wp-att-429005"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%94.jpg?resize=525%2C328" alt="华阴老腔" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>抛开原版歌词其中八句的版权问题与春晚的假唱问题暂且不谈，只从艺术的角度分析，谭维维在春晚上一开口，气势就已经比在《中国之星》的舞台上弱了一大半了。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%941.png" rel="attachment wp-att-429003"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%941.png?resize=411%2C206" alt="华阴老腔1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔1.png?resize=300%2C150 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔1.png?w=411 411w" sizes="(max-width: 411px) 100vw, 411px" data-recalc-dims="1"></a></p>
-<p>与《给你一点颜色》相比，《华阴老腔一声喊》在最开始的段落增添了老腔唱法的部分，虽然歌词内容在整体的和谐性上弱于原版，但考虑到版权的纠纷与段落增添后的改编，暂且可以理解。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%942.jpg" rel="attachment wp-att-429004"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%942.jpg?resize=449%2C337" alt="华阴老腔2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔2.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔2.jpg?w=449 449w" sizes="(max-width: 449px) 100vw, 449px" data-recalc-dims="1"></a></p>
-<p>可是接下来的段落便真的可以说是忍无可忍。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%943.png" rel="attachment wp-att-429002"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%943.png?resize=481%2C216" alt="华阴老腔3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔3.png?resize=300%2C135 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔3.png?w=481 481w" sizes="(max-width: 481px) 100vw, 481px" data-recalc-dims="1"></a></p>
-<p>谭维维原本连续八句步步紧逼的质问，被改成了四问四答，而原版中对环境遭到破坏的质疑，更是被改编成了歌颂大好河山和人们的和谐生活。“为什么天空变成灰色”和“民心里装着是蓝莹莹的天”两句放在一起看，简直是讽刺。试问《华阴老腔一声喊》的词作者在这样写的时候是何从下笔的，他抬头所望见的天，真的是蓝色的么?</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%944.jpg" rel="attachment wp-att-429001"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%944.jpg?resize=525%2C346" alt="华阴老腔4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔4.jpg?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔4.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>这两段结束后，再出现怎样的歌词我都不觉得奇怪了。随后的两段歌词，又把对保护环境的呼唤，改成了对“美好生活”的赞美，基本也是在意料之内。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%945.png" rel="attachment wp-att-429000"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%945.png?resize=575%2C344" alt="华阴老腔5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔5.png?resize=300%2C180 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔5.png?resize=80%2C48 80w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔5.png?w=603 603w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>看着台上一片喜气洋洋，我的心里却是一片悲凉。</p>
-<p>当时我想的是，春晚其实要的只是华阴老腔，而谭维维在台上就好像是一个任人摆布的道具，歌声里也没了自己的那份灵魂。但随后的一个念头让我自己感到一阵恶寒：或许春晚谁都不需要，他们需要的只是一副各种艺术相互包容，共同歌唱美好祖国的虚假景象。谭维维是，华阴老腔是，包括那些舞蹈、杂技，在这届春晚中，无一例外。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%946.jpg" rel="attachment wp-att-428999"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%946.jpg?resize=525%2C292" alt="华阴老腔6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔6.jpg?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔6.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>《给你一点颜色》在《中国之星》的舞台上之所以受到人们的追捧，最大的原因在于谭维维的真诚。真诚地想去推广一个不被人熟知的传统艺术，真诚地表达自己对当下环境问题的担忧与希望。而经过改编的《华阴老腔一声喊》，却将原版作品中的全部真诚剥得一干二净，只剩下一个老腔和现代音乐结合的架子，填满了假大空的形式。</p>
-<p>被绑架的真诚与强行填入的虚伪碰撞在一起，满满的都是讽刺。</p>
-<p>而不论是谭维维还是老腔艺人，他们在台上配合着假唱，心里却知道人们听不见自己在场的真实声音，听不见自己心底的真实声音，于是谭维维失去了颜色，老腔也再发不出呐喊，就这样，他们都成为了虚伪的牺牲品。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%947.jpg" rel="attachment wp-att-428998"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%947.jpg?resize=525%2C350" alt="华阴老腔7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔7.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/华阴老腔7.jpg?w=530 530w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>“为什么沙漠没有绿洲？为什么星星不再闪烁？为什么花儿不再开了？为什么世界没有了颜色？”只因为，有的人只想让你看见一种颜色。当我们企图发出真实的声音时，总会有人扼住你的喉咙。你是选择说假话，还是不再发声？</p>
-<p>不知道还有多少人愿意坚持着，宁肯真诚无人看见，也不去歌颂虚伪；不知道多少人还愿意继续抗争，为了天空不再是灰色，为了每个人眼里的世界可以变得缤纷，而不仅仅被一块布遮挡住。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%948.jpg" rel="attachment wp-att-428997"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8D%8E%E9%98%B4%E8%80%81%E8%85%948.jpg?resize=375%2C323" alt="华阴老腔8" data-recalc-dims="1"></a></p>
-<p>当谭维维和华阴老腔成为了主旋律舞台的一个工具，再优秀的艺术作品也失去了原本的光彩。可是从另一个角度想，如果是被改编成这样还受到听众的一篇褒奖，那才是真真的可怕。</p>
-<p>不论是于谭维维，还是于我自己，不论是音乐，还是文字，乃至每一个用心去聆听去阅读的你们，只希望我们都能保持真诚，共勉。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/428996/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%9E%E6%94%B6%E5%80%89%E7%95%B6%E6%AD%A6%E5%99%A8%E5%BA%AB%E3%80%91%E7%92%B0%E4%BF%9D%E4%BA%BA%E5%A3%AB%E8%AD%A6%E7%BD%B2%E5%A4%96%E7%A4%BA%E7%AF%84%E4%BD%BF%E7%94%A8%E3%80%8C%E6%AD%A6/" target="cdt-mirror">立場新聞｜回收倉當武器庫 環保人士警署外示範使用「武器」</a>
-</h2>
-<p><p><em>原标题：【回收倉當武器庫】環保人士警署外示範使用「武器」　批評警引導公眾聯想騷亂<br></em><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png" rel="attachment wp-att-428984"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?resize=550%2C367" alt="12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12671602_10153823629291422_8610672556626522836_o_yN4SH_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>警方昨公佈在葵涌破獲一「武器庫」，並拘捕一男二女，稱「不排除」與年初二旺角騷亂有關；但多個環保組織均指該倉庫為環保人士免費易物的暫存倉，批評警方濫捕無辜市民。環保組織「結束一桶專棄」及一批市民現在警署外聲援，環保人士帶同製作酵素、手工皂用的材料及化學品，望向外界解釋用法，力證被捕人士無辜。「結束一桶專棄」成員劉丹尼指，批評警方著公眾「自行聯想」檢獲物件用途，又將事件與初一旺角騷亂拉上關係，是錯誤引導公眾。</p>
-<p>她又指警察對回收物資有誤解，相信是誤會一場，被捕三人過往有參與過遊行集會，但不曾參與前線行動，初一、初二亦無前往旺角，認識多年，清楚他們沒有參與激進組織，只是「環保路上的朋友」，要求警方盡快釋放。</p>
-<p>「結束一桶專棄」由一批環保人士組成，組織理念是「即棄文化可恥　全民分類回收」，認為大眾習慣將不要的物品棄置入垃圾筒，造成浪費，經常主動前往公眾活動（包括遊行集會、音樂節、美食節等）現場收集可用剩物，再覓他途。</p>
-<p><strong>警向傳媒展示「檢獲」政黨雜誌<br>
-日青：倉內大批雜誌　警只揀一本</strong></p>
-<p>另外，環保人士日青今早接受商台訪問，被問到倉內為何會有《熱血少年》雜誌，日青解釋， 倉庫現場有很多雜誌，但警方只是「淨係揀咗一本雜誌」供傳媒拍攝。至於貼有示威口號的大聲公，日青則指，組織過往多年六四、七一均會到現場，收集被丟入垃 圾筒的物資，包括帳蓬、鋁梯，相信大聲公亦是在類似場合檢獲。</p>
-<p>日青進一步解釋，由2012年開始，回收市民搬屋時棄置的傢俬、玩具、衣物、廚具（包括一些刀具）等等，收集得來後，有一批較不吸引的物資「冇人要」，由今次其中一個被捕人士何先生借出倉庫，暫時存放。他們本來在同一大廈另一單位，開放市民前來免費選用剩物，但2014年起因成效不彰，決定只在網上運作，將剩下的物資搬到今次出事的單位繼續存放，遇到朋友需要再轉贈。</p>
-<p>日青又透露，倉房是倉主的私人地方，不是合租，但會借出給相熟朋友使用；警察昨日五、六點離開後，仍有朋友可以進入該單位。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png" rel="attachment wp-att-428983"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?resize=550%2C367" alt="12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12698263_10153823610651422_2648198499586481897_o_KflsC_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png" rel="attachment wp-att-428982"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?resize=550%2C367" alt="12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12719528_10153823633191422_5822491202810711406_o_3J1ob_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png" rel="attachment wp-att-428981"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?resize=550%2C367" alt="12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12697327_10153823621331422_7633083120147095555_o_PxSOk_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png" rel="attachment wp-att-428980"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?resize=550%2C367" alt="12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/12747246_10153823588871422_404283679163997386_o-1_RofNT_1200x0.png?w=900 900w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><strong>附：事件背景</strong></p>
-<p>涉事志愿环保组织<a href="https://zh-tw.facebook.com/grebbish">結束一桶專棄</a> Facebook 页面简介：</p>
-<p>為拾荒而團結, 不為團結而拾荒!<br>
-(我們是一班散落在各區的自由拾荒者,沒有申請社團註冊沒有政府Funding,次次自資出動,沒有保險….etc. 所以不要稱呼我們是環團,唔該哂!)</p>
-<ul><li>2013年，TVB《东张西望》节目对该环保组织进行过报道（<a href="https://youtu.be/-WcJyF_DPyM">视频地址</a>）</li>
-<li>2014年，《明报》<a href="http://m.mingpao.com/ins/instantnews/web_tc/article/20160108/s00001/1452221566861">报道</a>了由于音乐节不设垃圾桶，该组织自发回收逾100公斤垃圾</li>
-<li>2016年2月11日，该组织在葵涌的回收仓被当做“武器库”，警方了拘捕三名组员</li>
-<li>2016年2月12日，“疑涉旺角骚乱”的“武器库”<a href="https://www.thestandnews.com/politics/%E7%92%B0%E4%BF%9D%E5%9C%98%E9%AB%94-%E6%AD%A6%E5%99%A8%E5%BA%AB-%E6%88%90%E9%A0%AD%E6%A2%9D-%E5%A4%A7%E5%85%AC%E6%96%87%E5%8C%AF%E6%8C%87%E6%88%96%E6%B6%89%E6%9A%B4%E4%BA%82/">成为头条新闻</a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/news_RZOJ7_1200x0.png" rel="attachment wp-att-428986"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/news_RZOJ7_1200x0.png?w=500" alt="news_RZOJ7_1200x0" height="" data-recalc-dims="1"></a></li>
-</ul><p> </p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%9E%E6%94%B6%E5%80%89%E7%95%B6%E6%AD%A6%E5%99%A8%E5%BA%AB%E3%80%91%E7%92%B0%E4%BF%9D%E4%BA%BA%E5%A3%AB%E8%AD%A6%E7%BD%B2%E5%A4%96%E7%A4%BA%E7%AF%84%E4%BD%BF%E7%94%A8%E3%80%8C%E6%AD%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB/?category=18271" rel="tag">垃圾分类</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D%E7%BB%84%E7%BB%87/?category=18271" rel="tag">环保组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">香港警察</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -709,7 +672,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -719,5 +682,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

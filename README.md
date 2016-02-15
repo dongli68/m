@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%91%97%E5%90%8D%E8%AE%B0%E8%80%85%E6%9D%A8%E7%BB%A7%E7%BB%B3%E8%A2%AB%E7%A6%81%E5%87%BA%E5%9B%BD%E9%A2%86%E5%A5%96/" target="cdt-mirror">美国之音｜著名记者杨继绳被禁出国领奖</a>
+</h2>
+<p><p>中国著名记者、享誉世界的《墓碑》一书的作者杨继绳被禁止出国前往美国哈佛大学领取路易斯·里昂奖。</p>
+<p>英国《卫报》星期一报道说，杨继绳原先计划下个月前来美国领奖，但据信他先前所属单位、官方的新华社已经禁止他出国领奖；杨继绳本人对此拒绝发表评论，而新华社在《卫报》截稿的时候也没有回应该报的评论请求。</p>
+<p>2008年出版的《墓碑》一书是杨继绳花了15年的功夫走访中国许多地方进行实地采访写成的有关1958年至62年间造成几千万中国人饿死的大饥荒的调查性报道。</p>
+<p>中国执政党共产党当局先前坚持说，那场人类历史上空前的大饥荒是“自然灾害”和“苏共修正主义政权逼债”造成的。但气象学者没有发现当时中国发生普遍性的灾害天气，而中共当局至今也没有出示先前的苏共当局逼迫中共政府还债导致中国发生严重经济困难的任何证据。</p>
+<p>与此同时，中共当局几十年来竭力掩盖当时的一些基本历史事实，其中包括当时的中共领袖毛泽东不懂装懂瞎指挥，为了坚持不承认错误而在出现饿死人的报告之后坚持其任性胡为的经济政策，最终导致数以千万计的人饿死。外界估计的饿死人的数目在两千万至四千万之间。</p>
+<p>在中国各地发生的人造大饥荒时，中共安排美国著名记者埃德加·斯诺访问中国南北许多地方。由于中共政权的细致周到的安排，使斯诺在中国几个月的穿梭旅行期间没有看到任何海外当时已经在纷纷议论的大饥荒的景色。斯诺随后发出的报道说，他在中国广泛旅行期间没有看到一个饿死的人。</p>
+<p>如今，中共当局虽然不再那么强烈地坚持“自然灾害”的说法，并悄悄地放弃了“苏修逼债”的说法，但依然对中共制造的大饥荒竭力掩盖。中共所奉行的这种历史虚无主义政策导致中国许多年轻人强烈质疑中国在中共统治下曾经发生过比日本侵略中国遭成的死亡人数可能更多的人造大饥荒。一些中国青年人甚至满怀义愤，声称所谓的“大饥荒”是国内外敌对势力诋毁伟大、光荣、正确的中国共产党的无耻谰言。</p>
+<p>中国著名记者、《墓碑》一书的作者杨继绳在2012年接受美国之音专访，谈中国大饥荒</p>
+<p>哈佛大学尼曼基金会决定将2016年的路易斯·里昂奖授予杨继绳，以表彰他“眼光宏大和无所畏惧的报道”（ambitious and fearless reporting）。以“提倡和提升新闻报道标准”为其宗旨的尼曼基金会在其授予杨继绳里昂奖的公告中说：</p>
+<p>“杨继绳具有开创性的书《墓碑-中国六十年代大饥荒纪实》以法医般的细节记录了20世纪人类最大的灾难之一的真正规模。它讲述了毛泽东所推行的令人毛骨悚然的大跃进政策导致大约三千六百万中国人死亡，其中大部分人是被饿死，也有人死于酷刑和谋杀。在中国被禁的《墓碑》已经获得许多嘉奖。”</p>
+<p>2015年10月，《墓碑》瑞典被授予史迪格‧拉森奖，以表彰作者杨继绳“作为记者以强力的坚韧和勇气敢于挖掘历史，讲出真相”。</p>
+<p>在半个多世纪里，中共当局一直宣传说，是中共养活了中国人民，“没有共产党，就没有新中国”，中共对中国和中国人民的最重要的贡献就是保障了人民的基本生存权。但批评者表示，中共独裁政权其实是对中国人民基本生存权的最大威胁。</p>
+<p>批评者用以支持其观点的论据就是中共政权在风调雨顺的1958年至1962年制造“自然”灾害导致数千万人饿死。</p>
+<p>印度裔的经济学家、诺贝尔经济学奖得主阿马蒂亚·森则发现，在当今世界，大饥荒从来就不是一种自然现象，而是一种政治现象；在人民可以选择政府的国家，在媒体可以自由地监督和抨击执政党的国家，从来没有发生过饿死人的大饥荒。</p>
+<p>杨继绳也认为，中国的惨绝人寰的人造大饥荒之所以能够发生，主要是因为毛泽东的独断专行。而毛泽东一度的接班人、1960年代的中国国家主席刘少奇也公开承认，中国饿死人无数的大饥荒是“三分天灾，七分人祸”。</p>
+<p>1962年，面对中国经济崩溃以及由此而来的中共内部各方的强烈批评，毛泽东不得不在中共七千人大会上鞠躬认错。但刘少奇也因为不小心说了实话而在毛泽东几年之后发动的“无产阶级文化大革命”中被毛泽东所策动的“红卫兵”整死。</p>
+<p>英国《卫报》在报道杨继绳被禁止出国领奖的时候说，自从（中共新领袖）习近平2012年上台以来，学术界人士、记者、作家、律师和人权活动家普遍抱怨中共当局加强了对他们的压力。</p>
+<p>尽管毛泽东给中国人、包括给习近平家人带来巨大灾祸，但是习近平上台以来反复表示，他钦佩毛泽东。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%91%97%E5%90%8D%E8%AE%B0%E8%80%85%E6%9D%A8%E7%BB%A7%E7%BB%B3%E8%A2%AB%E7%A6%81%E5%87%BA%E5%9B%BD%E9%A2%86%E5%A5%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%93%E7%A2%91/?category=18271" rel="tag">墓碑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%BA%94%E5%A4%9A%E6%94%BE%E5%BC%80%E8%A8%80%E8%B7%AF/" target="cdt-mirror">【立存此照】胡锡进都看不下去了</a>
 </h2>
 <p><p>@胡锡进：中国还是应多放开言路，鼓励、宽容建设性批评，对非建设性批评也应有一定承受力。言路宽松会导致一些问题，但它带来的好处更多些。新中国的历史证明，言路宽松与社会活力的关系密不可分，而对于它导致的问题，国家的应对能力是宽裕的。希望政府各部门、各级和各地官员都能为实现言路更宽做出自己贡献。2月14日 19:47 来自 iPhone 6 Plus</p>
@@ -614,53 +644,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BC%96%E5%89%A7%E5%B8%AE%EF%BD%9C2016%E5%B9%B4%E7%9A%84%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%B0%8F%E5%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%A5%BD%E7%AC%91%EF%BC%9F/" target="cdt-mirror">编剧帮｜刘开建：2016年的央视春晚小品为什么不好笑？</a>
-</h2>
-<p><p><strong>微信公号：编剧帮（ID: gangqinshi01）</strong></p>
-<p>2016年的央视春晚仍然坚持了它一贯的原则，正在变得越来越难看。作为中国最大的电视台，拥有最优势的资源，央视好像不屑于把这样一个全国性的晚会办成一个老百姓喜闻乐见的节目，它好像更有勇气去探索怎样利用最优势的资源去办出一台最难看的晚会。在媒体的人格化方面，央视给全国的媒体做出了一个表率，央视变得比以往更有温度，更有人格形象，这个人格形象就是——和珅，一个在溜须拍马方面表现非常优秀的人物。</p>
-<p>我们知道，创作的动机对于创作出的作品影响很大。在创作喜剧的时候，如果我们的创作动机完全都在搞笑上，那么我们就会太过于精心设计笑点，而把作品变成简单的笑点的堆积，会使作品变得没有故事的逻辑。而如果，我们创作的动机是“拍马屁”呢？今年的春晚给出了我们答案。</p>
-<p>本来创作一个好笑的小品就比较难，再加上喜剧演员的稀缺，好的小品看似简单，但要做好并非易事。而如果小品的创作都是由“拍马屁”来引领，那么小品很容易就变成赤裸裸的讲和谐、唱赞歌。</p>
-<p><strong>一、小品《快乐老爸》</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%BF%AB%E4%B9%90%E8%80%81%E7%88%B8.jpg" rel="attachment wp-att-429069"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%BF%AB%E4%B9%90%E8%80%81%E7%88%B8.jpg?resize=550%2C313" alt="快乐老爸" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/快乐老爸.jpg?resize=300%2C171 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/快乐老爸.jpg?w=580 580w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>该小品故事的核心事件就是“找狗”，徐帆去冯巩家找狗，结果发生了误会，该故事通过揭露真相来完成转折和结尾。小品最后的底是，儿童的妈妈患病缺钱，冯巩是好心帮儿童，儿童是懂事来还钱。中规中矩的故事，却有一个烂大街的故事主题。这样的故事如果放在小学生作文中会得一个高分，作文的题目是《一件小事》。相信这样的作文大家在小学时应该都写过。</p>
-<p>烂大街的主题其实也可以把过程设计得比较好笑，遗憾的是这个小品是由冯巩来演。之前的文章《这样的喜剧设计为什么容易过时》中我们探讨了为什么有些喜剧容易过时，而该小品刚好就给我们做出了反面典型。过时的网络段子，不再热的热门网络词语，刻意的引用和连接，煞有介事的说出自以为很搞笑却并不搞笑的台词，满眼期待着本来以为有但却并没有的热烈的观众的反应。</p>
-<p>冯巩老师依然延续着一个优秀的相声演员转型表演小品后的统一风格。我们很难想象，这个人和当年那个与牛群搭档说出很多经典相声的冯巩是同一个人。聪明反被聪明误，长处有时候恰恰是短处，冯巩老师用相声的方式演小品恰恰演坏了小品。不断的堆积语言梗，用语言梗来撑起一个小品，是错误的做法，何况您用的还是过时的梗。</p>
-<p>这样的小品要怎样修改？修改的前提是小品的立意是过关的，很遗憾这个小品最后的底是一个太容易煽情，太过烂大街的设置，这是一个标准的陈词滥调的作品。没法修改。需要重新找到一个更好的更新鲜的立意，如果冯巩老师最后拿到一个好的创意，希望冯巩老师增加和搭档的互动，避免自己说大段过时的段子，因为您说的越长小品越难看。</p>
-<p><strong>二、小品《网购奇遇》</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E8%B4%AD%E5%A5%87%E9%81%87.jpg" rel="attachment wp-att-429068"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E8%B4%AD%E5%A5%87%E9%81%87.jpg?resize=550%2C413" alt="网购奇遇" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网购奇遇.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网购奇遇.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>小品《快乐老爸》中靠很多过时的网络段子来支撑，《网购奇遇》比它高明的地方在于它用了很多原创的语言梗，只是可惜的是小品仍然是靠语言梗来支撑，而这些语言梗虽却并不怎么好笑。蔡明和潘长江仍然停留在耍嘴逗贫上，看得出他们很卖力，当这种语言梗处于低频段的时候，他们的逗贫就会显得刻意和生硬。</p>
-<p>蔡明和潘长江近几年的小品风格也比较统一，存在的也是同一个问题。小品的本意是打算反映老百姓的现实生活，可惜的是把焦点放在了堆积语言梗上，于是整个小品就变成了群口相声，蔡明和潘长江都变成了巧嘴八哥，而语言梗又处在低频段的笑点上。把小品的焦点放在堆积语言梗上，这样一来小品中的事件就是为事件而事件，当为事件而事件的时候，这样的事件就会显得既没意义也没意思，人物就会非常飘，小品里的人物一点都不落地，不真实，更谈不上可爱和有趣。这就是典型的由外而内的创作方式。</p>
-<p>如果想反映老百姓的生活，最初的切入点不是寻找事件，如果一开始只停留在寻找事件上，那么最后就会变成了既没意义也没意思的故事。《网购奇遇》中，网购只是一个常见事件，基于现实的冲突点在哪里？所谓的奇遇只是两个人偶然的相遇，奇遇奇在哪里？</p>
-<p>最开始的创作应该是寻找老百姓现实中的冲突，找到冲突之后再基于这个冲突确定立意<strong>。</strong>比如，过年了，又到了同学聚会走亲戚的时候了，而这个时候就出现了冲突，同学聚会出现了攀比现象，攀比之后可能出现：羡慕，嫉妒，恨，过度热情或者冷嘲热讽，自卑或者骄傲。而这背后都是人性之弱点。抓住了人性之弱点就找到了小品的根，小品就具备化学性，观众内心会产生化学反应，观众会有代入感，有共鸣感。比如赵本山、范伟曾经表演的小品《同学会》。</p>
-<p><strong>三、小品《是谁呢》</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%AF%E8%B0%81%E5%91%A2.jpg" rel="attachment wp-att-429067"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%AF%E8%B0%81%E5%91%A2.jpg?resize=443%2C298" alt="是谁呢" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/是谁呢.jpg?resize=300%2C202 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/是谁呢.jpg?w=443 443w" sizes="(max-width: 443px) 100vw, 443px" data-recalc-dims="1"></a></p>
-<p>小品《是谁呢》发现了现实中的冲突，那就是：正经上班赚不到钱，贪污却犯法。找到这个冲突点后，小品也在努力构建结构，5万块钱到底谁给打的？只是很可惜，结构建立的太过简单，第一个人来了，说不是他打的，第二个人来了也说不是她打的，第三人来了说是他打的，于是矛盾解决了。我们知道喜剧最关键的就是制造“错位”，而这个结构里就根本没有错位。直来直接去的开始，直来直去的结束。结尾结的太轻松，结尾结的太没力度。我们说“没意外，戏失败”，而该小品就是没有一点意外。</p>
-<p>“反腐”其实是一个很好的切入点，因为反腐这个点上有很多负面的元素，这个点比较容易建立起戏剧性。该小品把故事线放在“找人”上，这其实就跑偏了，这样的角度来表现反腐，会感觉明显使不上劲，何况“找人”这个核心事件并没有建立喜剧结构，第一个不是，第二个不是，第三个是，直接平铺直叙。</p>
-<p>如果想写反腐，就直接写贪污的那些事那些人。比如，我们设置一个外形很好，对媒体讲话也很好的官员，讲话中他对于贪污恨之入骨，关心老百姓疾苦。但是私底下他贪污起来却丝毫不手软，数目大，手段多。我们可以制造他在媒体上的正义形象与现实中无钱不贪的真面目之间的强烈反差，以此作为笑点。这样批评得深刻，讽刺得辛辣，观众看得也过瘾；还可以把贪污的事件置入到一个经典故事中，借助经典故事里的人物来讲现代的故事。</p>
-<p>比如，我们可以用《西游记》来置入。唐僧是一个好和尚，但在取经的路上接受各个妖精的贿赂，最后搞得八戒和沙僧也受贿，只有孙悟空不受贿却被唐僧几人排挤，最后把孙悟空害死，后来菩萨知道了，又把他们打到凡间重新投胎。在这个过程中把现实中的贪污事件都移植过来。那么，现实的事件和这个经典故事背景之间就具备了强烈的不协调性，这样就容易做出喜剧性。如果细节打磨得足够好，也会很好看。</p>
-<p><strong>四、小品《放心吧》</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%94%BE%E5%BF%83%E5%90%A7.jpg" rel="attachment wp-att-429066"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%94%BE%E5%BF%83%E5%90%A7.jpg?resize=550%2C325" alt="放心吧" data-recalc-dims="1"></a></p>
-<p>“人与人之间的信任”其实是一个很好的切入点，尤其是在诈骗横行的现在。小品基于这个点也建立了喜剧结构，这个小品眼看着就要成为一个很好的小品。尤其是当孙涛围着红围脖开始跳舞，《桃花朵朵开》的音乐开始响起时，我们几乎要判定这可能是一个很好的小品。</p>
-<p>当另一个穿着红鞋围着围脖的男人和孙涛相遇时，这个喜剧性已经建立起来了，我们高兴的等着好戏上演，好戏也上演了，只是这一段太短，很快就结束了。另一个穿红鞋的男人和孙涛相遇，这已经建立了误会。建立误会之后，几个人就会因为这个误会弄成一团乱麻，谁也分不清谁。</p>
-<p>这一段是小品的重点，是小品最能让人发笑的地方。只是可惜这一段太短，误会解除的太快也太轻易<strong>。</strong>如果丰满这一段，误会之上再增加误会，这会是一个很好看的小品。类似的例子，可以参考以前的春晚小品《问路》。</p>
-<p><strong>五、小品《快递小乔》</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%BF%AB%E9%80%92%E5%B0%8F%E4%B9%94.jpg" rel="attachment wp-att-429065"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%BF%AB%E9%80%92%E5%B0%8F%E4%B9%94.jpg?resize=550%2C366" alt="快递小乔" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/快递小乔.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/快递小乔.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>反映普通人的生活，写普通人，写普通人的事，《快递小乔》做到了。同样的类型，《网购奇遇》把重心放在堆积低频的语言梗上，喜剧结构也不好，人物飘。而《快递小乔》刚好与之相反，故事是普通人的故事，故事落地，人物是普通人，人物落地。台词是基于故事和人物而发出的，台词的笑点设置得自然。这一点上，《快乐老爸》和《网购奇遇》都弱了太多。</p>
-<p>《快递小乔》是一个完整的作品，故事有头有尾，开始的自然，结束的也自然，人物个性化做得很好，演员没有像其他小品里的演员一样抖机灵，背段子。也许这个小品的好笑程度没有赵本山、陈佩斯的小品那么强，但无论是小品的故事还是几位初次登上春晚小品舞台的演员的表演，都可圈可点。乔杉、修睿这两个年轻演员，在这个小品中的表演，度把握得很好，没有过于用力也没有用力不足，恰到火候。这一点上，冯巩、蔡明、潘长江几位喜剧表演上的前辈却远不如这两位后生。</p>
-<p>小品自始至终以“身份误认”作为故事的核心笑点，快递员小乔善良热心，乔杉很好的塑造了这样一个鲜活的人物，人物台词和人物动作都具备明显的个人标签，这种个性化特质的设计自然可爱不做作。</p>
-<p>小品的最后终于解除了误会，换做其他小品很可能故事到此就结束了，如果到这里就结束会显得力度不足。而该小品很好的一点就是又往前走了一步，修睿夫妻两个要把修睿的丑妹妹介绍给乔杉，乔杉则被吓跑。这一小段虽然短，但加上之后喜剧效果更强，小品的故事更加完整。对比前面几个小品，这个小品中人物的设置，细节的打磨，结尾的处理，实在是难得了。</p>
-<p>我们讨论的是喜剧的小品，但是像《将军与士兵》这样的小品明显就是一个模板式的唱赞歌的小品，它本身就不是奔着搞笑去的，所以它不在我们讨论的范围之内。</p>
-<p>2016年的央视春晚，更像是一个二线卫视的加长版周末综艺节目，其中的几个小品寡淡得像是在嘴里嚼了一天还没吐的口香糖，没味还没嚼头。春晚本来可以做成一道全国人民的文化大餐，小品本来可以做成这道大餐中的硬菜，可是央视并不屑于这样做，除了以往唱赞歌的做法，央视今年又增加了“拍马屁”的技能包。如此的创作动机，我们还能期待什么呢？</p>
-<p><strong>本稿件版权归原作者刘开建所有，转载请注明来源编剧帮及作者信息、并保留此版权信息，违者将追究其相关法律责任。</strong></p>
-<p><em>刘开建（新浪微博@编剧刘开建）</em><br><em> 编剧帮专栏作者，男，专注于轻喜剧创作。</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BC%96%E5%89%A7%E5%B8%AE%EF%BD%9C2016%E5%B9%B4%E7%9A%84%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%B0%8F%E5%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%A5%BD%E7%AC%91%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -672,7 +655,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -682,5 +665,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%9
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

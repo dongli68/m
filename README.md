@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/429362/" target="cdt-mirror">纽约时报中文网 | 在中国，斯卡利亚之死是一面镜子</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-16-at-%E4%B8%8B%E5%8D%8812.16.20.png?resize=528%2C363" alt="Screen Shot 2016-02-16 at 下午12.16.20" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-16-at-下午12.16.20.png?resize=300%2C206 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-16-at-下午12.16.20.png?w=528 528w" sizes="(max-width: 528px) 100vw, 528px" data-recalc-dims="1"><br><span>美国联邦最高法院大法官安东宁·斯卡利亚当地时间周六被发现在西德克萨斯逝世，享年79岁。斯卡利亚1986年被时任总统里根提名，是美国最高法院任职时间最长的大法官。</span></p>
+<p>北京——美国驻北京大使馆的星条旗周一因最高法院大法官安东宁·斯卡利亚(Antonin Scalia)的逝世下了半旗，但这并不是这里出现的有关斯卡利亚逝世的唯一标志。</p>
+<p>正如对传说中宋代包公的广泛赞赏所显示的那样，中国敬奉仁慈正义理念，但缺乏一个独立公正的司法制度。权力极大的共产党委员会经常指示法官如何对敏感案件作出裁决。2013年法院审理的案件中，只有0.07％的结果是无罪释放。</p>
+<p>这些因素也许能帮助解释中国法律专业人士周末在网上对斯卡利亚大法官逝世的很多反应。到周一上午，已有几篇文章在中文网上流传。其中一篇是最高人民法院法官何帆写的1.2万字的颂词，发表在他的微信帐户funnylaw1978上，已被阅读了6.6万次以上，还吸引了不少评论。</p>
+<p>何帆是研究美国最高法院的专家，他写过并翻译过几本有关美国法律体制的书，何帆把斯卡利亚描述为“特立独行、才华横溢”，称其是“司法天才”。</p>
+<p>何帆写道，“无论爱他还是恨他，所有人必须承认，安东宁·斯卡利亚是对当代美国法律影响最大的大法官。”</p>
+<p>微信ID为MYZ的读者评论道，“泰山其颓 梁木其折 哲人其萎。”有100多人给这条评论点“赞”。</p>
+<p>泰山位于中国山东省，在中国传统中是长寿的象征。评论中的三个短语表达了对一位广受尊敬者的哀悼。</p>
+<p>MYZ评论的第二个部分表达的是唐纳德·特朗普(Donald Trump)式的耸人听闻观点，评论援引大批穆斯林移民进入欧洲的问题，提出像斯卡利亚大法官这样的保守派人士逝世会不会给美国社会稳定带来类似威胁的问题：</p>
+<p>“穆斯林席卷欧陆之际，美利坚法律神殿也要进入一个preposterous的阶段了么？”MYZ问道。</p>
+<p>其他评论者没有这么夸张，许多评论与下面这些类似：</p>
+<p>“别了，斯卡利亚！”网名“八戒”的读者写道。</p>
+<p>“一路走好，美国法官中的精英。”网名“陌上夜阑”的人写道。</p>
+<p>也有人发出更熟悉的声音，对斯卡利亚的判决表示钦佩。微信ID为dubilubidu的人写道，斯卡利亚是“一位言辞略戏谑但思维极严谨”的人，他“不允许诊所外发传单但允许广场上烧国旗…他的一个对解释规则的执念经常不自觉的就让他临门一脚时把队友给卖了，杀伤力远大于肯尼迪”，显然是指斯卡利亚的同事、安东尼·M·肯尼迪大法官(Justice Anthony M. Kennedy)。</p>
+<p>中国正在进行旨在提高司法质量的国内司法体制重大改革。但是，几乎没有人认为改革的结果会是一个真正独立的司法系统。</p>
+<p>大赞斯卡利亚的一致性和保守的网名Vivi的用户写道：“在如火如荼地司改燎原的中国司法语境下，一个司法民工看这位异国大法官的小传记有些不同况味。堪称毒舌的保守派大法官，幽默但决不在关键问题上让步的天主教徒，毕生致力于反对堕胎及同性恋婚姻，让人看到有真尊畏者的执着。”</p>
+<p>网名为“风之子”的另一名读者写道，“希望我们的法律人们继续努力共勉。”</p>
+<p>网名Milo的读者写道，“文章很长，美国很远，公平、公正、公开并不遥远。”显然指的是一种共同愿望。</p>
+<p>读何帆文章或对文章发表评论的人不都是法官，但似乎有些人是，其他人或是律师、或是司法部门的行政人员，香港的法律学者苏珊·范德(Susan Finder)说，她也是最高人民法院观察(Supreme People’s Court Monitor)博客的作者。</p>
+<p>“我觉得，人们对美国最高法院很着迷，因为在美国，大法官有很高的社会声誉。如果一位中国最高法院大法官逝世，在北京不会有这些反应，”范德在接受采访时说，她指的是对斯卡利亚展示的崇敬，包括由总统发布的在美国政府大楼、以及美国在世界各地的军事设施和大使馆降半旗的公告。</p>
+<p>中国人关注一个遥远事件的另一个原因也许是渴望得到国际法律界的认真对待，尽管他们在国内的工作受到很多限制，范德说。</p>
+<p>“共产党牵着他们的鼻子走，”她说。尽管如此，“他们仍想了解世界其他地方发生的事情，也想让世界其他地方的人知道，他们不是法律界的乡巴佬。”</p>
+<p>据官方数字，2013年，中国各级法院约有20万名法官，最高人民法院大约有几百名法官，而美国最高法院只有九名大法官。</p>
+<p>范德说，中国最高法院法官人数众多的一个原因是，他们被指望对范围广泛的问题做出裁决，包括必须由最高人民法院审核的死刑判决，还要频繁地对法律做出解释，接待那些在地方上无法找到正义的上访者。“最高人民法院是一个很大的官僚机构，”她说。</p>
+<p>狄雨霏(Didi Kirsten Tatlow)是《纽约时报》驻京记者。<br>
+欢迎在Twitter上关注狄雨霏@dktatlow。<br>
+翻译：Cindy Hao</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/429362/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B8%86/?category=18271" rel="tag">何帆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E5%8D%A1%E5%88%A9%E4%BA%9A%E5%A4%A7%E6%B3%95%E5%AE%98/?category=18271" rel="tag">斯卡利亚大法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">美国最高法院</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429342/" target="cdt-mirror">李俊慧：“网络新闻管理新规”征集意见结束，六大要点值得关注</a>
 </h2>
 <p><p><strong>微信公号：编辑网（ID：bianjiwang）</strong></p>
@@ -745,27 +782,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E6%92%AD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E6%A2%81%E6%96%87%E9%81%93%EF%BC%9A%E4%BB%80%E9%BA%BC%E6%9B%B8%E5%8F%AB%E5%81%9A%E7%A6%81%E6%9B%B8%EF%BC%9F%EF%BC%88%E4%B8%AD%E5%9C%8B%E6%B2%92%E6%9C%89/" target="cdt-mirror">蘋果日報｜梁文道：什麼書叫做禁書？</a>
-</h2>
-<p><p>在種種關於「銅鑼灣書店」的推理小說式的，奇幻超常的言論當中，只有一種稍為顯得正大坦白，那就是乾脆承認問題的癥結在於禁書。例如「監警會」新任成員錢志庸律師，根據《中國刑法》，他首先說明：「犯罪的行為或者結果有一項發生在中華人民共和國境領域內的，就認為是中華人民共和國領域內犯罪」，然後他又推論，現時人在內地的李波只要是在大陸籌劃出版禁書，就算那些書是在香港印刷售賣，他也還是觸犯了中國法律。所以，只要他一踏足內地，當局就有拘捕他的權利云云。</p>
-<p>發表過類似看法的，還不只錢先生一人，他們都不願意糾纏李波先生究竟是用什麼辦法「踏足」內地這一點，反而強調出版禁書便是違反中國法律。有意思的是，即便反對這類言論的論者，再三聲明李先生在港消失的方式才是要害，又或者乾脆用盡粗言穢語去羞辱錢先生等人，好像也都默認「禁書犯法」的論點，覺得大陸當有一套規管禁書的法條。然而，出版和販賣禁書就真的觸犯了中國法律嗎？如果真的要用法律手段去對付所謂專出禁書的出版商，那麼我們必須首先確定到底什麼樣的書才算是禁書，而且還要在法條上為禁書劃出一個明晰的範圍。問題是中國有這樣的法律嗎？當局備有專門打擊禁書的法律？設定了一套可以操作的禁書定義嗎？</p>
-<p>答案是沒有。</p>
-<p>我們都曉得，攜帶禁書過境，若是被邊檢人員查到的話，可是要沒收的。但他們真有這麼做的合法權力嗎？過去十年以來，挑戰這種做法的人在所多有，有的是學者，有的是媒體人，他們試過把邊檢人員告上內地法庭，控訴他們侵吞私人財物，又或者逼迫他們交出禁書名單，甚至還有過勝訴的罕例。最近的案件發生在去年四月，這一回，狀告海關的起訴人是毛澤東前秘書李銳先生的女兒李南央，她兩年前從香港飛到北京的時候帶了幾十本她父親撰著的《李銳口述往事》，結果被海關查出沒收。她的提訴，法院受理了，只是一拖再拖，至今沒有下文，就和大部份同類案件一樣，石沉大海。</p>
-<p>為什麼？為什麼每回海關查到禁書都只是沒收，頂多禁告兩句，從不罰款，更不用說拘押帶書的旅客？那是因為他們沒有這麼幹的法律依據，可能也沒有一張完備的禁書名錄。他們查什麼收什麼，有時候靠的是上頭特別提點，說最近某本書很有問題又很受歡迎（例如從前的《吳法憲回憶錄》），必須「嚴防死守」；更多時候卻是靠他們個人的敏感程度。誇張起來，一本書的名字上頭只要是出現了「民主」二字都可能會變成需要截下的禁書，哪怕那是本非常專業的學術書籍。</p>
-<p>為什麼以出版物管制嚴格著稱的中國，會這麼掉以輕心，不為「禁書」立法？原因之一恰恰是因為它的管制體系太過完善，所有書籍刊物必須領號才能出版，而在出版之前又有一套審查流程，於是一切市面上可以流通的出版品都能保證不出問題，而在這套體系之外的自然就是非法出版了。至於那些不在大陸出版的書刊，若要進口，也得通過相關部門審批。故此未經進口審批，私下流進內地市場的書刊，也都不算合法出版品。換句話說，當局根本用不着為禁書專門立法，因為它已經界定了合法出版品的範疇。</p>
-<p>除此之外，不為禁書立下清晰定義和清單的更重要原因，是禁書根本無法圈定。同樣的一本書，可能幾年前不算禁書，幾年之後又會忽然出了問題；同樣的一個題材或者一種主張，這陣子沒有問題，隔一陣子又不知怎的變成了頭號敏感課題。所謂「問題」，所謂「敏感」，全憑時勢而定。這「時勢」，可以是政治形勢的變化，比如說一些涉及藏傳佛教、伊斯蘭教和基督信仰的書籍，在宗教與少數民族議題不緊張的時候還可以寬鬆處理，但是在矛盾比較尖銳的今天，就要一本一本地嚴格管控了。「時勢」還是一個人的運勢問題，比方余杰，十年前他在大陸有數本暢銷書，在校園間大行其道；可今天的他是個著名海外流亡異見份子，於是他當年的合法出版物便自動成了禁書，不得再版再印。又比方薄熙來的夫人谷開來，她的《勝訴在美國》，名動一時，現在自也不逃禁印命運。</p>
-<p>時勢變幻莫測，禁書的定義和範圍也就不可能不跟着演變。為它專門立法，遂有永遠跟不上時勢之弊。你今天要是立了法，頒佈了一份禁書名錄和敏感課題範圍，萬一明天領導發現又有嶄新的敏感源，而它偏偏還不在原有定義範圍之內，那該怎麼辦呢？所以不為禁書特地立法是有道理的，因為立了法之後，無異於自縛手腳，施展不開權力，於當局有害無利。還不如針對「國家安全」訂立一套最寬泛最能自由解釋的法規，在有需要的時候把《中南海台前幕後》和《後宮佳麗薄情人》之類的書納進國安範圍打擊。</p>
-<p>權力的運作隨意，所以禁書是個很含混的概念，它絕不只是一般港人心目當中那些在「銅鑼灣書店」發售的政治八卦和小道消息那麼簡單。有些書就像前面所說的，明明經過內地部門審批，明明領到了書號，甚至明明進了官方發行體系，可以在大陸各大小書店買到，但一轉眼卻被要求下架，自此消失。這些「被下架」的書籍又算不算是禁書呢？就算缺乏明晰定義，我們一般人也還是會用「被禁」這樣的字眼來形容此類書籍。於是這些幾天之前還堂而皇之地擺在新華書店架上的「合法出版物」，也就自動被歸進禁書的世界了。它們為什麼被禁？通常沒人解釋；有關部門又依據什麼法規去要求它們下架？通常也沒人深究，反正「禁了」就是禁了。中國沒有「禁書」，所以什麼書都有可能是禁書。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%EF%BD%9C%E6%A2%81%E6%96%87%E9%81%93%EF%BC%9A%E4%BB%80%E9%BA%BC%E6%9B%B8%E5%8F%AB%E5%81%9A%E7%A6%81%E6%9B%B8%EF%BC%9F%EF%BC%88%E4%B8%AD%E5%9C%8B%E6%B2%92%E6%9C%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E6%96%87%E9%81%93/?category=18271" rel="tag">梁文道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -777,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -787,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

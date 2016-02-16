@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%A3%8E%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B9%B1%E4%BC%A6/" target="cdt-mirror">风传媒｜笑蜀：要求孝顺国家是政治乱伦</a>
+</h2>
+<p><p>岳母刺字的励志故事妇孺皆知，写进了史书，写进了小说，写进了教材。能流行千古，主要因为它经典地折射了旧时中国的政治伦理。</p>
+<p>这种政治伦理，当下颇遭诟病。我却愿意抱以同情的理解。存在的就是合理的，这名言用到这个问题上，窃以为再适合不过。以昨日之是否定今日之是固然无稽，但以今日之是否定昨日之是，也是扯淡。</p>
+<p>昨日有昨日的道理，今日有今日的道理，不同的时代，不同的生活，自然有不同的政治伦理。强调忠君爱国的岳飞故事，今天仍有其审美价值，岳飞本人今天仍是民族英雄，但如果今天仍以忠君爱国来要求全体国民，那可真是不知今夕何夕的九斤老太。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Ca7cyfzUkAA9StM.jpg?resize=440%2C293" alt="Ca7cyfzUkAA9StM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Ca7cyfzUkAA9StM.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Ca7cyfzUkAA9StM.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>央视孝顺说沦为笑柄，原因即在於此。春节期间，中国中央电视臺新闻联播节目借受访者之口教训全国人民说：孝顺首先是孝顺国家，孝顺国家才是最大的孝道。且不论央视有没有资格这麽教训全国人民，退一万步，就算认可其道德家的资格，其逻辑之怪诞也令人忍俊不禁。须知，旧时纵然家国相通，家仍不等於国，家仍先于国，亲情仍高於政治。李密《陈情表》即为典型。</p>
+<p>西元263年，蜀汉灭，李密成了亡国之臣，回家供养祖母。过了两年，晋武帝司马炎要李密赴朝任官，做太子洗马。一般人遇到这样的机会一定窃喜不已，唯恐不及，李密却视为畏途，而以一纸《陈情表》婉拒。理由即是其报效朝廷时间长，侍奉祖母时间短，所以要先尽孝祖母，後尽忠朝廷。本来君命难违，但当李密以「乌鸟私情，愿乞终养」为辞，纵然君命也不得不让步，晋武帝终於收回成命。可见「百善孝为先」旧时是实实在在的，不仅先於江湖之善，更先於庙堂之善，而为一切道德之基。只是从宋明起，这一状况才有改变，忠君先於孝亲。但这不过是绝对君主专制和国家存亡之秋的特殊现象，相形而言，李密《陈情表》所代表的忠孝观才是更悠久的传统，也才是旧时中国的常态逻辑，更人性因而更具稳定意义。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk-1.jpg?resize=550%2C367" alt="90b3b535gw1f0vcmzhbygj20ja0cvdhk" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk-1.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk-1.jpg?w=694 694w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>央视孝顺说之所以可笑，即在於有违真正的传统。不仅以所谓「孝顺」来规範国民与国家的关係，甚而以所谓孝顺国家为最先、最大，等於国淩於「家」之上，政治淩於亲情之上。跟﹂爹亲娘亲不如毛主席亲，天大地大不如党的恩情大」的文革老调，同出一辙。根本就是对人性的辱没，对人伦的践踏。这一切因国学之名，但显然不属於真正的国学。</p>
+<p>说穿了，此所谓「国家」，无非「权力」的代名词而已；此所谓「孝顺国家」，无非「孝顺权力」的代名词而已，这是露骨的权力崇拜，露骨的奴隶主义。如果非用「孝顺」这个词不可，依据「以人为本」的现代伦理，那也只能要求权力孝顺权利、权力孝顺国民。非要反其道而行之，要求国民孝顺国家，这才是真正的反动，是政治上的乱伦，註定了没有前途。</p>
+<p>＊作者为中国公共知识份子，前《南方周末》评论员</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%A3%8E%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B9%B1%E4%BC%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%91%E8%9C%80/?category=18271" rel="tag">笑蜀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%8E%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">风传媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%80%E5%9C%BA%E5%9C%B0%E9%9C%87%E9%9C%87%E5%87%BA%E4%B8%A4%E5%B2%B8%E7%9A%84%E5%B7%AE%E8%B7%9D/" target="cdt-mirror">博谈网｜一场地震“震”出两岸的差距</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard21_114.jpg?resize=550%2C310" alt="Clipboard21_114" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard21_114.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard21_114.jpg?w=700 700w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>台南市长赖清德在台南市副市长曾旭正、消防局长李明峰、工务局长吴宗荣等人陪同下，2月13日下午4时20分召开震灾记者会（网络图片）</p>
+<p>（博谈网记者苏智敏报道）发生于2月6日凌晨的大地震，造成位于台湾南部的台南市重大伤亡。经过8天来的搜救，倒塌的维冠大楼最终有289人被救出，114人不幸罹难。从搜救过程到善后处理，台南市政府及市长赖清德的表现，皆是媒体关注焦点之一，同时也是两岸民众的讨论话题。</p>
+<p>市长的脸书</p>
+<p>台南市长赖清德的脸书，自地震发生后，就不断地更新救灾进度，并于13日发现最后一名罹难者的遗体之后，就告知人们即将进行现场消毒、搬离建筑废弃物，及修复因维冠大楼倒塌，造成干道中断的永康区永大路，以赶在15日抢通等消息。而这条主要干道确实也赶在15日清晨3点完成双向通行，让台南永康区的交通恢复顺畅，使结束年节假期后第一天上班的市民不受交通堵塞之苦。</p>
+<p>另一方面，台南市政府15日下午在市立殡仪馆举办“0206震灾罹难者治丧说明会”，向灾民说明罹难者治丧和补助事宜。</p>
+<p>会中提到，罹难者将由市府全程办理殓葬事宜，皆全部免费，而每位罹难者将发放慰问金300万元新台币（下同），重伤者最高可领75万。受灾户除了依户籍内人口数多寡每月补助6千至1万元的租屋补贴外，每户还有10万元救助金。这场原订1个半小时的说明会，据台媒报导，在市府人员及家属双方平和的一问一答之下，仅30分钟会议就顺利结束。</p>
+<p>除了补偿救助、灾后重建及灾民收容安置等后续问题已进行之外，相关追责工作也早已全面展开。</p>
+<p>倒塌的维冠大楼存在借牌建造、箍筋数量减少又变细、大梁主筋弯钩长度不足等问题，将开发商林明辉等人羁押，禁止接见和通信。并于15日展开第二阶段假扣押行动，针对建商林明辉、建筑师及相关股东等人，共同求偿2亿2000多万元，由台南地方法院裁定中。</p>
+<p>有无民主的差距</p>
+<p>在这次救灾行动中，台南市长赖清德的一举一动备受关注，从因几乎不眠不休而显露的疲态、调度决策，到穿坏的鞋子等，皆引来讨论。</p>
+<p>台湾媒体报导市长赖清德几乎都没休息、被焦虑的灾民骂救灾缓慢，及用镜头捕捉一双旧鞋走到脱胶的画面。对此，赖清德仅表示，他的休息及鞋子都不应成为新闻，社会更应关心的是灾民及受困的民众。</p>
+<p>对这消息，不少中国网友感到羡慕。有网友就翻出2013年大陆浙江水灾和2014年江西水灾，都有官员怕名牌鞋进水，特意让下属或灾民背着去视察灾情的照片。也有人想起去年天津爆炸，有灾民下跪请求政府回购危险房屋，中国媒体却无人报导，网络也遭封锁消息一事。</p>
+<p>台南地震后，透明的善后处理方式及救援期间同时进行追责，也引来中国网友讨论，认为这效率太高，中国根本办不到，凸显出有无民主的差距。网友“Tasia-gao”表示，这就是台湾不愿回归最好的解释。</p>
+<p>另有不少网友以讽刺的方式留言，说台湾太傻了，应学四川大地震一样，都归为天灾。同时要慢点追责，赶快开表彰大会，赞美领导及救灾人员，评为感动台湾十大人物。</p>
+<p>民众的留言，反应了对中国政府灾难处理模式的不满。以“东方之星”号客轮翻沉事件及天津大爆炸为例，两起灾难的调查报告皆拖过数月才发布，且处罚都被认为过轻。天津大爆炸的调查报告出炉后，当局更是大肆删帖并禁止留言转发。而拯救“东方之星”落水乘客的潜水员官东则被选为“感动中国2015年度人物”。</p>
+<p>面对各种天灾人祸，中国总是采取“丧事喜办”的模式，而灾民往往被迫从媒体镜头前消失，面对的是当地政府的不闻不问、求助无门及警力镇压的威胁。相关追责及后续处理，无不是随着时间的流逝，连同那些灾民渐被遗忘，或低调处理。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%80%E5%9C%BA%E5%9C%B0%E9%9C%87%E9%9C%87%E5%87%BA%E4%B8%A4%E5%B2%B8%E7%9A%84%E5%B7%AE%E8%B7%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">台湾地震</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%91%97%E5%90%8D%E8%AE%B0%E8%80%85%E6%9D%A8%E7%BB%A7%E7%BB%B3%E8%A2%AB%E7%A6%81%E5%87%BA%E5%9B%BD%E9%A2%86%E5%A5%96/" target="cdt-mirror">美国之音｜著名记者杨继绳被禁出国领奖</a>
 </h2>
 <p><p>中国著名记者、享誉世界的《墓碑》一书的作者杨继绳被禁止出国前往美国哈佛大学领取路易斯·里昂奖。</p>
@@ -613,37 +662,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%BF%99%E4%B8%AA%E6%98%AF%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E9%82%AA%E6%95%99%E7%9A%84/" target="cdt-mirror">【麻辣总局】没有共产党就没有如来佛</a>
-</h2>
-<p><p>@希热多吉居士 ：惊着我了……这个…这个…太太太…有意思了</p>
-<p>视频<a href="http://weibo.com/p/2304446802f8a69d42e958a520d72235fc60ed" target="_blank">地址</a></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%BF%99%E4%B8%AA%E6%98%AF%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E9%82%AA%E6%95%99%E7%9A%84/"><em>点击这里查看嵌入的视频。</em></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%BF%99%E4%B8%AA%E6%98%AF%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E9%82%AA%E6%95%99%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B0%9A/?category=18271" rel="tag">和尚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99/?category=18271" rel="tag">宗教;</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%AB%E6%B3%95%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">末法时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%97%E5%9C%B0%E9%9C%87%E7%AC%AC8%E5%A4%A9-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85%E8%BF%87%E7%99%BE%E4%BA%BA/" target="cdt-mirror">BBC｜台湾台南地震第8天 死亡人数超过百人</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg" rel="attachment wp-att-429082"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg?resize=575%2C323" alt="160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213031033_a_member_of_rescue_teams_stands_by_as_heavy_excavation_machinery_continues_to_dig_through_the_rubble_of_a_collapsed_building_complex_in_tainan_taiwan_976x549_ap_nocredit.jpg?w=660 660w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>一名救援人员站在倒塌的维冠金龙大楼废墟上。维冠金龙大楼的倒塌导致重大伤亡，开发商已接受司法调查。</p></div>
-<p>台湾台南地震8天后，台南市政府统计称，截至周六（2月13日）早上八点，永康区维冠金龙大楼已经106死，待救9人。加上归仁区2名罹难者，地震死亡人数累计108人。</p>
-<p>台湾中央社稍后引用台南市政府统计称，截至今天上午11時，地震共造成台南市112死，其中永康维冠大楼死亡110死，待救5人。 周五晚间的官方统计称地震造成97人死27人失踪。随着时间推移，最近两天在现场发现的死亡人数迅速增加。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg" rel="attachment wp-att-429081"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg?resize=575%2C323" alt="12日，台南地震家属在追思灵堂。 " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160213030510__monk_and_visitors_facing_on_the_photos_of_earthquake_victims_pray_during_a_memorial_service_in_tainan_taipei_12_february_2016_976x549_epa_nocredit.jpg?w=624 624w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>12日，台南地震家属在追思灵堂。</p></div>
-<p>台湾中央社报道称，维冠大楼已有106死，待救人数是8大人、1小孩，分别是A栋1大人，B栋1大人，G栋6大人、1小孩。台南市长赖清德当天指示，必须挖到地底下2至3公尺，直到没有建筑本体为主，才能确信全部找遍。</p>
-<p>此前一天，台南地检署已提讯在押的维冠建商林明辉，并由检察事务官带同林明辉到位于永大五路的住处搜索，同时传唤相关证人到庭厘清案情。</p>
-<p>台南地震造成维冠大楼倒塌，造成严重伤亡，迄今为止绝大多数死亡人员来自维冠大楼。</p>
-<p>台湾总统马英九已表示，这起倒塌事故不是天灾而是“人祸”。当初的房屋如果能盖牢固，就能避免遗憾。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%97%E5%9C%B0%E9%9C%87%E7%AC%AC8%E5%A4%A9-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%B6%85%E8%BF%87%E7%99%BE%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">台湾地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E7%AD%91%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">建筑质量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%86%A0%E5%A4%A7%E6%A5%BC/?category=18271" rel="tag">维冠大楼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E8%85%90%E6%B8%A3%E5%B7%A5%E7%A8%8B/?category=18271" rel="tag">豆腐渣工程</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -655,7 +673,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -665,5 +683,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

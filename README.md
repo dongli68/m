@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E5%A5%B3%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B0%81%E6%89%93%E6%9C%9D%E9%B2%9C%EF%BC%8C%E6%88%91%E5%B0%B1%E6%89%93%E5%8F%B0%E6%B9%BE-2/" target="cdt-mirror">博谈网 | 上海国际问题女专家：谁打朝鲜，我就打台湾</a>
+</h2>
+<p><p>来源: 博谈网</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-%E4%B8%8B%E5%8D%881.51.48.png?resize=496%2C278" alt="Screen Shot 2016-02-17 at 下午1.51.48" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-下午1.51.48.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-下午1.51.48.png?w=496 496w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"><br><span>亚太问题专家于迎丽博士（视频截图）</span></p>
+<p>（博谈网记者苏智敏报道）随着朝鲜半岛紧张局势持续升温，美国近期与韩国进行联合演习以武力威吓朝鲜。然而中国的一名女专家却在电视上表示，若美国执意用军事手段解决北韩核武问题，中国也不排除用武力对付台湾。</p>
+<p>被称为“第二央视”的香港凤凰卫视《凤凰全球连线》15日报导中，曾任上海国际问题研究院亚太研究中心助理研究员的于迎丽在节目上称：“之前我们其实是一直非常排斥把朝（北韩）核问题跟台湾问题相连接，但是现在我觉得，如果说美国在走军事道路的方向上一意孤行的话，其实我们中国也完全可以考虑，把台湾问题跟朝核问题联系起来看。如果说美国不排除用军事手段来解决朝核问题，那么我们其实在台海问题上面的一贯立场，就是我们从来也没有排除过武力手段。所以我觉得，中国其实不光是就是说除了要在朝核半岛方向上跟美国是要有一个正面的碰撞，我们也要有一些这种迂回的思路来解决这个问题。”</p>
+<p><strong>中国网友的反对派与支持派</strong></p>
+<p>于迎丽将台湾与北韩问题联系起来的观点，引起两岸舆论热议。</p>
+<p>对台湾问题向来总是有二种相反看法的中国网友，不少人批评于迎丽的逻辑太恐怖。</p>
+<p>中国民众向来认为台湾是中国的一部份，是同胞。因此辽宁律师于洋批评于迎丽主张“同胞相残”来保卫朝鲜金家政权的残暴统治，是何居心。徐昕律师也质问：“谁打朝鲜，我就打内战。三胖是亲人，台湾是敌人。这是什么逻辑？”</p>
+<p>独立学者荣剑认为于迎丽惊人之处有二点：1。无耻，把台湾视为敌国，以打台湾来救朝鲜，制止美国为世界除恶。2。无知，言论全是意识形态腔调，毫无专业知识含量。</p>
+<p>另有网友认为，这种观点放到国外就是恐怖分子，质问：“怎还有脸说台湾是中国的？”也有人指出，这就是金氏政权的主体思想──“谁惹我，我就打韩国”。</p>
+<p>持相反看法的网友则表示，如果美国入侵朝鲜，就是给中国提供一个武力统一台湾的契机。持这类观点的网友普遍认为，中国民众称台湾人为同胞，但台湾人却对中国人民极为不善，和平统一台湾的希望已越来越小。</p>
+<p><strong>台湾网友：台独催化剂</strong></p>
+<p>另一方面，台湾网友们愤怒的指出，这种言论是秀下限的台独催化剂。许多人批评中国总是耍“血浓于水的同胞”及“不放弃武力攻台”的两面手法。</p>
+<p>也有人认为这是在变相承认台湾主权：“谁会整天动不动就要打自己国家的一部分？”还有人说于迎丽只是说出中国的真心话，另有不少网友指出，中共是纸老虎，要台湾民众不用担心。</p>
+<p>但如同支持攻打台湾的中国网友认为台湾人对中国人极不友善的观点一样，有台湾网友表示，就像中国网军在脸书上留下的谩骂留言一样，中国人对台湾也不友善。一位就读台湾大学的张姓网友在脸书上留言说：“四川震灾我也捐了几千元新台币。看中国这几年来不断恐吓、打压台湾，以后我不可能再捐钱给中国了。不能怪我爱心冷淡了。”</p>
+<p><strong>纯意识形态教育下的专家</strong></p>
+<p>引来舆论哗然的于迎丽，上海国际问题研究院官网上显示她已于2015年4月离职。曾为智库助理研究员的她，却出此言论，现为清华大学社会学系教授的孙立平认为，这是长期形成的纯意识形态式的思维方式。</p>
+<p>孙立平教授在个人微博表示，这种思维方式首先是在意识形态上分敌我，不但罔顾最基本的道义是非，甚至不能理性判断真正的国家利益与世界局势。</p>
+<p>他也认为于迎丽所言等同于其所想，因为在多年以意识形态正确为导向的学术研究氛围熏陶下，会觉得从意识形态正确的角度看问题是理所当然，理直气壮的。</p>
+<p>孙立平教授又解释，虽然有人说可透过互联网上的讯息，来达到去愚昧作用，以于迎丽的能力，从网上获得充分信息是没问题的，但那不见得能使人们自动不愚蠢。“纯意识形态的思维方式毁坏的就是人们处理信息的能力”</p>
+<p>他最后又表示，以朝鲜为例，纯粹的意识形态立场，有时往往是损害国家利益的。</p>
+<p>关键词: 朝鲜 核武 台湾 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E5%A5%B3%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B0%81%E6%89%93%E6%9C%9D%E9%B2%9C%EF%BC%8C%E6%88%91%E5%B0%B1%E6%89%93%E5%8F%B0%E6%B9%BE-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">上海国际问题研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E8%BF%8E%E4%B8%BD/?category=18271" rel="tag">于迎丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429437/" target="cdt-mirror">【真理部】《于迎丽：美国威胁军事打击朝鲜是对华施压》</a>
 </h2>
 <p><p>关于凤凰卫视《于迎丽：美国威胁军事打击朝鲜是对华施压》，<a href="http://phtv.ifeng.com/a/20160216/41551232_0.shtml" target="_blank">视频内容</a>各网站不要继续转载。</p>
@@ -659,36 +693,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%91%97%E5%90%8D%E8%AE%B0%E8%80%85%E6%9D%A8%E7%BB%A7%E7%BB%B3%E8%A2%AB%E7%A6%81%E5%87%BA%E5%9B%BD%E9%A2%86%E5%A5%96/" target="cdt-mirror">美国之音｜著名记者杨继绳被禁出国领奖</a>
-</h2>
-<p><p>中国著名记者、享誉世界的《墓碑》一书的作者杨继绳被禁止出国前往美国哈佛大学领取路易斯·里昂奖。</p>
-<p>英国《卫报》星期一报道说，杨继绳原先计划下个月前来美国领奖，但据信他先前所属单位、官方的新华社已经禁止他出国领奖；杨继绳本人对此拒绝发表评论，而新华社在《卫报》截稿的时候也没有回应该报的评论请求。</p>
-<p>2008年出版的《墓碑》一书是杨继绳花了15年的功夫走访中国许多地方进行实地采访写成的有关1958年至62年间造成几千万中国人饿死的大饥荒的调查性报道。</p>
-<p>中国执政党共产党当局先前坚持说，那场人类历史上空前的大饥荒是“自然灾害”和“苏共修正主义政权逼债”造成的。但气象学者没有发现当时中国发生普遍性的灾害天气，而中共当局至今也没有出示先前的苏共当局逼迫中共政府还债导致中国发生严重经济困难的任何证据。</p>
-<p>与此同时，中共当局几十年来竭力掩盖当时的一些基本历史事实，其中包括当时的中共领袖毛泽东不懂装懂瞎指挥，为了坚持不承认错误而在出现饿死人的报告之后坚持其任性胡为的经济政策，最终导致数以千万计的人饿死。外界估计的饿死人的数目在两千万至四千万之间。</p>
-<p>在中国各地发生的人造大饥荒时，中共安排美国著名记者埃德加·斯诺访问中国南北许多地方。由于中共政权的细致周到的安排，使斯诺在中国几个月的穿梭旅行期间没有看到任何海外当时已经在纷纷议论的大饥荒的景色。斯诺随后发出的报道说，他在中国广泛旅行期间没有看到一个饿死的人。</p>
-<p>如今，中共当局虽然不再那么强烈地坚持“自然灾害”的说法，并悄悄地放弃了“苏修逼债”的说法，但依然对中共制造的大饥荒竭力掩盖。中共所奉行的这种历史虚无主义政策导致中国许多年轻人强烈质疑中国在中共统治下曾经发生过比日本侵略中国遭成的死亡人数可能更多的人造大饥荒。一些中国青年人甚至满怀义愤，声称所谓的“大饥荒”是国内外敌对势力诋毁伟大、光荣、正确的中国共产党的无耻谰言。</p>
-<p>中国著名记者、《墓碑》一书的作者杨继绳在2012年接受美国之音专访，谈中国大饥荒</p>
-<p>哈佛大学尼曼基金会决定将2016年的路易斯·里昂奖授予杨继绳，以表彰他“眼光宏大和无所畏惧的报道”（ambitious and fearless reporting）。以“提倡和提升新闻报道标准”为其宗旨的尼曼基金会在其授予杨继绳里昂奖的公告中说：</p>
-<p>“杨继绳具有开创性的书《墓碑-中国六十年代大饥荒纪实》以法医般的细节记录了20世纪人类最大的灾难之一的真正规模。它讲述了毛泽东所推行的令人毛骨悚然的大跃进政策导致大约三千六百万中国人死亡，其中大部分人是被饿死，也有人死于酷刑和谋杀。在中国被禁的《墓碑》已经获得许多嘉奖。”</p>
-<p>2015年10月，《墓碑》瑞典被授予史迪格‧拉森奖，以表彰作者杨继绳“作为记者以强力的坚韧和勇气敢于挖掘历史，讲出真相”。</p>
-<p>在半个多世纪里，中共当局一直宣传说，是中共养活了中国人民，“没有共产党，就没有新中国”，中共对中国和中国人民的最重要的贡献就是保障了人民的基本生存权。但批评者表示，中共独裁政权其实是对中国人民基本生存权的最大威胁。</p>
-<p>批评者用以支持其观点的论据就是中共政权在风调雨顺的1958年至1962年制造“自然”灾害导致数千万人饿死。</p>
-<p>印度裔的经济学家、诺贝尔经济学奖得主阿马蒂亚·森则发现，在当今世界，大饥荒从来就不是一种自然现象，而是一种政治现象；在人民可以选择政府的国家，在媒体可以自由地监督和抨击执政党的国家，从来没有发生过饿死人的大饥荒。</p>
-<p>杨继绳也认为，中国的惨绝人寰的人造大饥荒之所以能够发生，主要是因为毛泽东的独断专行。而毛泽东一度的接班人、1960年代的中国国家主席刘少奇也公开承认，中国饿死人无数的大饥荒是“三分天灾，七分人祸”。</p>
-<p>1962年，面对中国经济崩溃以及由此而来的中共内部各方的强烈批评，毛泽东不得不在中共七千人大会上鞠躬认错。但刘少奇也因为不小心说了实话而在毛泽东几年之后发动的“无产阶级文化大革命”中被毛泽东所策动的“红卫兵”整死。</p>
-<p>英国《卫报》在报道杨继绳被禁止出国领奖的时候说，自从（中共新领袖）习近平2012年上台以来，学术界人士、记者、作家、律师和人权活动家普遍抱怨中共当局加强了对他们的压力。</p>
-<p>尽管毛泽东给中国人、包括给习近平家人带来巨大灾祸，但是习近平上台以来反复表示，他钦佩毛泽东。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E8%91%97%E5%90%8D%E8%AE%B0%E8%80%85%E6%9D%A8%E7%BB%A7%E7%BB%B3%E8%A2%AB%E7%A6%81%E5%87%BA%E5%9B%BD%E9%A2%86%E5%A5%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%93%E7%A2%91/?category=18271" rel="tag">墓碑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -710,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%93%E7%A2%91
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

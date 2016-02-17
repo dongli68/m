@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0-%E9%99%86%E5%B8%8C%EF%BC%9A%E8%A7%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E9%A5%AD%E6%89%8D%E4%B8%8D%E4%BC%9A%E5%88%86%E6%89%8B%EF%BC%9F/" target="cdt-mirror">女权之声 | 陆希：见什么样的饭才不会分手？</a>
@@ -70,7 +70,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%BD%E6%88%88/?category=18271" rel="tag">羽戈</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81-%E5%AD%94%E9%A3%9E%E5%8A%9B%E5%9C%A8%E3%80%8A%E5%8F%AB%E9%AD%82%E3%80%8B%E4%B8%AD%E7%A9%B6%E7%AB%9F%E5%86%99%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">政见 | 孔飞力在《叫魂》中究竟写了些什么？</a>
 </h2>
@@ -709,7 +709,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -719,5 +719,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

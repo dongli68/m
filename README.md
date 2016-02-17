@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F/" target="cdt-mirror">奇闻录 | 这才是感动中国正能量</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?resize=595%2C418" alt="CbZbf_8W8AAf_DT" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?resize=300%2C211 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
+<p>快播涉黄的案子刚刚平息，在百度搜索引擎上，只要输入“上戏美女”、“嫩模”字样，就会出现许许多多衣着暴露、事业线傲人的美女艺术照。</p>
+<p>2月17日，澎湃新闻记者从上海市闵行区人民检察院获悉，该检察院近日以涉嫌介绍卖淫罪对犯罪嫌疑人吴某等人批准逮捕。她们花费高价百度置顶的初衷不在走红娱乐圈吸粉，而是高价招嫖。</p>
+<p>2014年12月9日，公安机关接匿名举报，反映一个名为“美女集中营”的微信群发布招嫖信息，区域涉及上海市全国主要省份。次日，上海市公安局闵行分局对本案以涉嫌介绍卖淫立案侦查。</p>
+<p>2015年9月14日，闵行公安分局治安支队会同虹桥派出所民警对涉案的犯罪嫌疑人吴某、铁某等人进行抓捕。经查，吴某等人通过前往韩国整容、拍艺术照、到百度置顶推广，将自己包装成“上戏美女”、“嫩模”，甚至有专业配音演员为她们解说近期作品和动向，但一般不会用真名。</p>
+<p>据检察机关透露，和传统介绍卖淫情况不同的是，吴某等人并没有接受所谓的“老鸨”、“鸡头”的管理和抽成，她们平时接单一般都由朋友介绍，也有“回头客”直接电话联系。</p>
+<p>吴某供称，她们有空就自己去接客，没空就转单给其他小姐做，自己收介绍费，“因为都是在同一家韩国医院整容的关系，五官都很相似，再加上化妆，经常互相冒充接客。”据透露，一次卖淫，可以获利数千元人民币。</p>
+<p><strong>据吴某供述，生意好的时候一个月可以赚五六万元，“这些钱都用在租房、包装自己、给父亲看病、给亲戚看病、给表弟堂弟交学费、给老师资助学生等事上。”</strong></p>
+<p>近日，上海市闵行区人民检察院以涉嫌介绍卖淫罪对犯罪嫌疑人吴某等人批准逮捕。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E6%B7%AB/?category=18271" rel="tag">卖淫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9B%E5%AB%96/?category=18271" rel="tag">招嫖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%88%98%E6%99%93%E6%B3%A2%E5%91%BD%E5%90%8D%E5%B9%BF%E5%9C%BA%E5%B0%86%E6%9C%89%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C/" target="cdt-mirror">BBC | 中国外交部：以刘晓波命名广场将有“严重后果”</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?resize=550%2C309" alt="61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。</p></div>
@@ -173,7 +192,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%A7%91%E5%A8%98%E9%80%83%E7%A6%BB%E6%B1%9F%E8%A5%BF%E5%86%9C%E6%9D%91/?category=18271" rel="tag">上海姑娘逃离江西农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">女权之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%A5%BF/?category=18271" rel="tag">江西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%B4%E5%B9%B4%E6%98%A5%E8%8A%82/?category=18271" rel="tag">猴年春节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">男女平等</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%B1%E8%AF%86%E7%BD%91-%E7%BE%BD%E6%88%88%EF%BC%9A%E4%BB%8E%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6%E5%88%B0%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">共识网 | 羽戈：从“感谢国家”到“孝顺国家”</a>
 </h2>
@@ -685,52 +704,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%90%9B%E5%AD%90%E9%AC%BC%EF%BC%9A%E2%80%8B%E4%B9%A1%E6%9D%91%E5%87%8B%E9%9B%B6%E4%BB%8E%E4%BD%95%E6%97%B6%E5%BC%80%E5%A7%8B%EF%BC%9F/" target="cdt-mirror">君子鬼：​乡村凋零从何时开始？</a>
-</h2>
-<p><div>我这人天生脑洞大。比如说，最近看到一则新闻，某上海姑娘随男友回农村老家过年，结果看到第一顿饭后马上决定分手回上海，我首先想到的却是七十年前另一个令人悲伤的故事。</div>
-<div></div>
-<div>王鼎钧先生在《关山夺路》一书谈到1946年他对“苏北难民”的采访经历。“苏北难民”即镰刀锤子帮在所谓“解放区”搞暴力土改时逃亡到南京上海等地的苏北人群体，他们是土改的受难者，也是见证者。绝望之处在于，他们发现，国民政府、知识分子、媒体乃至城里的老百姓都不待见他们，压根不相信他们关于土改暴政的诉苦。“江南人并不相信他们的故事，一个南京人说，‘共产党为什么要这样做，没必要嘛，再说，他们也做不到’。”（《关山夺路》P115）</div>
-<div></div>
-<div> 为什么我会联想到这桩旧闻呢？因为那位上海姑娘对乡村世界的无知，与七十年前上海人南京人对“解放区”农村的无知极为相似。上海姑娘大乱方寸，正是源于她尽管已有充分的心理准备，那些农村生活细节（绝不仅仅是一顿晚饭）仍然超出她想象力所能达到的极限，冲击之大，使她接下来的表现遭到“缺乏教养”的批评。</div>
-<div></div>
-<div>其实我愿意相信，她在生活中是一位善良且有良好教养的女孩，事实上其帖子的字里行间并没有流露出丝毫傲慢。正如，当年的上海人南京人，肯定也绝非由于秉性冷酷，才会选择漠视苏北难民的不幸。只是，骤然面对完全超出经验范围之事，人们短期内确实无法接受。四十年代上海南京的市民们，仅凭在日军与国府统治之下的生活体验，哪能想象出“解放区”土改中的红色恐怖有多凌厉？说实话，这则新闻的悲剧性不在于一对青年男女因门不当户不对而分手，而在于，这片国土上，竟有一部分人的苦难，完全超出大都市中产阶级可想象的范围。</div>
-<div></div>
-<div>这件事很快引起了一阵讨论城乡阶层分化严峻形势、农村社会急速凋零的热潮。但我个人并不喜欢那些关于乡村破败的叙事与抒情。因为就我粗略浏览所及，它们的内容很容易给大众造成某种错误印象，仿佛以前的乡村就很浪漫很美好。</div>
-<div></div>
-<div>非常遗憾，如果“破败”是指，与城市相比，传统乡村秩序的崩溃与精神生活的荒漠化，那么，根据传教士与地方士绅有关中国农村的文字记录，中国乡村社会至少从清末开始便有破败之势。原因自然不止一个，包括战乱、灾荒、经济转型等等，但民国初期尚有传教士、民间社团（如乡村建设派）、宗族士绅在乡间勉力建设，农村社会破败速度远不及后来共产党下乡时。</div>
-<div></div>
-<div>最不幸的是，共产主义政权将整个农民阶层作为革命与建设的炮灰，导致乡村社会的破败不可避免地急剧加速。镰刀锤子帮的种种制度与政策，对乡村社会凋零负有最主要的责任，与此相比，其他因素都可以忽略不计。</div>
-<div></div>
-<div>莫非三十年代苏区的农村不破败吗？一轮又一轮的扩红、查田运动、血腥肃反，谁会相信苏区农村欣欣向荣？内战时期老区与五十年代新区的土改，则是真正的焦土政策，日军做不到的，镰刀锤子帮全做到了。杀人杀得全村人都道路以目，天天只能听讲阶级仇恨思想教育课，如此恐怖统治之下，传统精英主导的乡村礼俗秩序能不崩溃吗？如果有人还认为土改时镰刀锤子帮领导下的广大农村温馨和谐，民众欢欣鼓舞，那我无话可说。</div>
-<div></div>
-<div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/d18840fbgw1f0yqmby5iyj20fe08fjto.jpg?resize=554%2C303" alt="d18840fbgw1f0yqmby5iyj20fe08fjto" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/d18840fbgw1f0yqmby5iyj20fe08fjto.jpg?resize=300%2C164 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/d18840fbgw1f0yqmby5iyj20fe08fjto.jpg?w=554 554w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><p>选自复旦大学王友明先生的博士论文《莒南县土地改革研究（1941-1951）》</p></div>
-<div>至于一些具体政策的实施，或许短期内恶果并不引人注目，但随着时间推移，对农村社会的巨大破坏性也渐渐展露出来。比如，打击宗族认同，收缴乡民枪支，无异于摧毁乡村社会的自卫能力。持枪权与结社权的永久剥夺，在基层司法体系无能腐败的背景下，今日部分地区黑社会能够横行乡里，其实毫不令人意外。再如，赶走传教士，等于切断了农村在卫生、教育等公共事业上知识、技术、资金层面的外援。</div>
-<div></div>
-<div>强制集体化引发大饥荒，文革更是将一切传统伦理体系摧毁殆尽，难道五十年代至七十年代的乡村不破败？</div>
-<div></div>
-<div>区别仅仅在于，以前城乡隔离更加严重，几无流动性可言，作为不同等级的奴隶兼炮灰，农民市民之间来往极少（知青群体可能是例外），彼此缺乏经济、文化交流（镰刀锤子帮指挥下的单方面输血可不能算交流），加上媒体完全受控，市民当然对农村状况缺乏深入了解。老实说，要不是近些年互联网打开了一个资讯传播的缺口，农村凋敝如斯的话题哪里会受到关注呢？</div>
-<div></div>
-<div>哦，差点忘了，还有计划生育。我就不具体描述计划生育政策在农村执行得有多野蛮残暴了，也希望读者不要假惺惺地跟我讲限制人口对于经济增长的伟大意义。我看到有文章抨击南方农村的杀女婴现象，认为农村光棍多娶不到老婆纯属自作自受。可是，计生恶政难道不是农民杀女婴的主因吗？我无法硬起心肠指责他们冷血，同样也不忍心批评那位上海姑娘无知或无教养。</div>
-<div></div>
-<div>请允许我再啰嗦一则旧闻。党校教授王海光先生曾有一文探讨1950年西南地区所谓“匪乱”，提及中共初至西南各省，接管其实很顺利，反抗者寥寥。但为了帮助上海度过经济难关，西南战事硝烟未散，中财委就已要求西南紧急调运4亿斤粮食支援上海。关于征粮任务与匪乱的因果关系，邓在报告中相当坦诚：当前西南各地武装叛乱者“主要是抗缴公粮，提出‘饿死不如战死’的口号”，“提出‘专打北方人(或外乡人)不打本地人’，‘打穿军衣戴帽花的，不打穿便衣和不戴帽花(指起义投诚的国民党军)的’。他们的行动着重于破坏工厂，抢劫公粮公盐，并提出‘开仓济贫’的口号。这些口号，也确动员了部分贫民参加”。“各地土匪起来之快，因由于国民党在西南作了较其他各地更为周密的部署，同时亦由于我们征粮的直接影响。过去国民党在四川的最高征粮数为一千二百万担，我们这次征收数为两千万担(三十亿斤)。”</div>
-<div></div>
-<div>后来，上海度过粮荒危机后，“匪乱”很快也被镰刀锤子帮解决了。（参见王海光教授的《民变与“匪乱”：以中共接管贵州暨西南时的征粮为例》）我要指出，正是西南农村的尸山血海，供养起了黄浦江边的岁月静好，“量西南之物力，结上海之欢心”。某篇文章里那句“北上广有多繁华，农村就有多破败”，点破其间因果关系，很有几分道理。可是，这个现象绝非始于九十年代的市场化，而是从镰刀锤子帮掌权后就开始了，只是人们无法进行直观比较，更没有机会公开讨论罢了。而市场化启动后，农村青壮年进城打工，乡村社会的凋零猛然加速，城乡互动频率大幅增加，加上互联网的普及，大都市的中产阶级终于有机会直面盛世中国梦背后的破败农村了。</div>
-<div></div>
-<div>上海与上海人是幸运的，因为1949以来他们永远属于被照顾、被呵护的对象。但由此产生的悲剧不应当由上海或上海人来承担责任，评判民德更是避重就轻。极权之下，责任主体有且仅有一个——伟大光荣正确的镰刀锤子帮。吠舍与首陀罗同属奴隶，只是等级不同，岂可让他们替红色婆罗门背黑锅？</div>
-<div></div>
-<div>现在我们来做个假设，红朝的一个首陀罗，遭到婆罗门刹帝利凌辱，可能是强拆，也可能是司法不公，他长年求告无门，还被吠舍视为刁民。绝望之下，他怀揣炸弹，炸死一车沉浸于岁月静好的吠舍。请问，此时此刻，我们可以跟着广大吠舍们高声谴责暴民破坏法治吗？恕我直言,您的答案，将直接展现您对镰刀锤子帮的认知水平。</div>
-<div></div>
-<div>最后，我必须做个忏悔。年少无知时，我曾经把以户籍为基础的城乡隔离制度与印度种姓制度做比较，显然我大错特错，因为这很轻佻，而且也是对印度人民的侮辱。请原谅我后知后觉。阅世渐深，每次做具体制度或政策的比较分析，最后总不免发现镰刀锤子帮在作恶的花样与能力上天下无敌。</div>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%90%9B%E5%AD%90%E9%AC%BC%EF%BC%9A%E2%80%8B%E4%B9%A1%E6%9D%91%E5%87%8B%E9%9B%B6%E4%BB%8E%E4%BD%95%E6%97%B6%E5%BC%80%E5%A7%8B%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91%E5%87%8B%E6%95%9D/?category=18271" rel="tag">乡村凋敝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E9%98%B6%E5%B1%82/?category=18271" rel="tag">农民阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -752,5 +725,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

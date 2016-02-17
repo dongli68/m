@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/429437/" target="cdt-mirror">【真理部】《于迎丽：美国威胁军事打击朝鲜是对华施压》</a>
+</h2>
+<p><p>关于凤凰卫视《于迎丽：美国威胁军事打击朝鲜是对华施压》，<a href="http://phtv.ifeng.com/a/20160216/41551232_0.shtml" target="_blank">视频内容</a>各网站不要继续转载。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>附：凤凰卫视2月15日《凤凰全球连线》，以下为文字实录</p>
+<p>任韧：谢谢，来上海现场，我们来请教一下于迎丽博士了，事实上中国态度也非常的关键，而中国已经明确表达了在半岛问题上的立场，在应对朝鲜问题上，必须要保障中国自身的正当的国家安全利益，那您认为在目前半岛局势有可能存在军事介入的这种危机之下，中国怎么去保障自己的国家利益？</p>
+<p>于迎丽（博士亚太问题专家）：关于这个美国军事，用军事手段来解决朝核问题，之前实际上都是一直在一个小范围里面讨论，现在就是通过媒体逐步的释放这样一些信息，我觉得这是美国施压的一种新手段，因为采取这样一个军事行动的话，我觉得目前来讲时机并不成熟，首先朝鲜虽然他有核试验，他也进行了一个导弹的发射，但是他要构筑成一个完整的战略力量，这样一个成体系的东西还是有欠缺的，朝鲜还其实还有很大的路要走，还有很长的路要走，但是美国他一直以来他就是不断的夸大朝鲜的威胁，这样子他才可以利用局势来满足自己的一些小算盘，一些打算。</p>
+<p>而且朝鲜现在国内的局势应该说还是比较稳定的，他国内也没有什么一些大的变故，而且尤其我觉得最重要的是就是不论是他采用什么样的军事手段，对于韩国来讲，他是最难承受这样一个军事行动的后果的，我们都知道首尔其实它跟朝韩边境是很近的，它在朝鲜的远程火炮的射程范围以内，只要美国有任何的动作，朝鲜如果说是对首尔发动攻击的话，韩国是难以承受这样一个后果，所以我觉得目前美国不论是说他在讨论什么样的手段，包括韩国的媒体也在曝光一些美国特种士兵来攻击宁边的核设施的这样一些演习的画面，我觉得这些都是美国在向朝鲜施压，在向中国示威的这样一些新的措施。</p>
+<p>至于说中国怎么样来保护自己的国家利益，首先我们中国肯定还是要坚持一个外交渠道跟美国跟韩国进行充分的沟通，另外我也就是之前我们其实是一直非常排斥把朝核问题跟台湾问题相连接，但是现在我觉得如果说美国在走军事道路的方向上一意孤行的话，其实我们中国也完全可以考虑把台湾问题跟朝核问题可以联系起来看，<strong>如果说美国不排除用军事手段来解决朝核问题，那么我们其实在台海问题上面的一贯立场就是我们从来也没有排除过武力手段，</strong>所以我觉得中国其实不光是就是说除了要在朝核半岛方向上跟美国是要有一个正面的碰撞，我们也要有一些这种迂回的思路来解决这个问题。</p>
+<p>任韧：谢谢。</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/429437/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F/" target="cdt-mirror">奇闻录 | 这才是感动中国正能量</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?resize=595%2C418" alt="CbZbf_8W8AAf_DT" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?resize=300%2C211 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
@@ -670,40 +689,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%93%E7%A2%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%BA%94%E5%A4%9A%E6%94%BE%E5%BC%80%E8%A8%80%E8%B7%AF/" target="cdt-mirror">【立存此照】胡锡进都看不下去了</a>
-</h2>
-<p><p>@胡锡进：中国还是应多放开言路，鼓励、宽容建设性批评，对非建设性批评也应有一定承受力。言路宽松会导致一些问题，但它带来的好处更多些。新中国的历史证明，言路宽松与社会活力的关系密不可分，而对于它导致的问题，国家的应对能力是宽裕的。希望政府各部门、各级和各地官员都能为实现言路更宽做出自己贡献。2月14日 19:47 来自 iPhone 6 Plus</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/huxijin.jpg?resize=587%2C197" alt="huxijin" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/huxijin.jpg?resize=300%2C101 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/huxijin.jpg?w=587 587w" sizes="(max-width: 587px) 100vw, 587px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>冬雪小夜：本来应得的权利说得好像是受赏赐一样。</p>
-<p>王堃埜：左右逢源的下场就是左右吃屎。</p>
-<p>abcjeff1：政府有什么资格不允许批评？</p>
-<p>遥远青春2013：胡编这是要开启钓鱼模式了。</p>
-<p>宫保慰亭V：真是不容易，想说又怕说错，左圆右圆，心疼胡编，不过胡编还是得站好队，别想左右逢源，还记得荆州的刘表吗？</p>
-<p>bopifangshimin：胡锡进捣得一手好糨糊：谁来界定“建设性批评”？</p>
-<p>琴岛牧风：伺候那么个二逼党局，没有胡总这左右逢源的两下子，还真特么的不行。</p>
-<p>老Money：胡编都不忍心看了，可见管制多严重。</p>
-<p>天佑-A：胡锡进提出的“多放开言路，鼓励、宽容建设性批评”，主动权还是在掌权者手上，我愿意放多少就放多少，愿意宽容才宽容，我不愿放还可以不放，不愿宽容还可以不宽容，这与言论自由相去甚远。言论自由是要建立一种制度，人民有讲话的权利，有批评的权利，掌权者愿意也好不愿意也好，都不能剥夺这种权利。</p>
-<p>铁铁谢：老胡也看不下去了。</p>
-<p>中国上的舌尖：真的就不怕被妄议吗？</p>
-<p>我心疼-你：你平常跟领导见面也这样说吗？</p>
-<p>故人故国新火新茶：哼，当年骂老毕时不是说“吃党的饭，放下筷子骂娘吗？”没想到胡总也是这种人，党养你就是让你背地议论党的？</p>
-<p>说实话的小屁民：五毛们，快来骂胡公知。</p>
-<p>街巷一坊一人徘：皇帝的新装穿久了也不好，会感冒着凉的！</p>
-<p>丢失的xxmz：吃着饭，还砸锅，还想不想干了？</p>
-<p>批注世说新语：胡编今天画风有点不对嘛？是因为前几天公款旅游被处分了怀恨在心吗？</p>
-<p>王晔Ken：广开言路是白名单制，我准许你说的你才能说；言论自由是黑名单制，除法定禁止的言论外都可以说。言论自由是宪法权利，既称法治社会还乞求广开言路，岂不自打耳光？</p>
-<p>愤怒的胶水大爷：连个春晚都不能评论，还痴人说梦？</p>
-<p>蜗牛背石头：别听胡编胡扯，活的不耐烦了？前年微博批评@平安中原 河南公安厅长秦玉海及郑州市公安局长，在天上人间案件中失职。结果市局找到单位宣传部，威胁我删帖。现在秦玉海早进去了，局长也突然莫名去职，敢让@平安郑州 给我道歉？</p>
-<p>Kerry-4：御用文人鼓吹人民应多批评政府，人民信以为真，最后讲真话有良心的人民都被政府一个个收拾到牢房，自此大家都学会了自我审查……</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E8%BF%98%E6%98%AF%E5%BA%94%E5%A4%9A%E6%94%BE%E5%BC%80%E8%A8%80%E8%B7%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%89%B9%E8%AF%84/?category=18271" rel="tag">建设性批评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E8%9B%87%E5%87%BA%E6%B4%9E/?category=18271" rel="tag">引蛇出洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -715,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -725,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

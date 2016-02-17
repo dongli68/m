@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%88%98%E6%99%93%E6%B3%A2%E5%91%BD%E5%90%8D%E5%B9%BF%E5%9C%BA%E5%B0%86%E6%9C%89%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C/" target="cdt-mirror">BBC | 中国外交部：以刘晓波命名广场将有“严重后果”</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?resize=550%2C309" alt="61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。</p></div>
+<p><strong>中国外交部周二（16日）警告说，如果美国将中国驻华盛顿大使馆前的广场改名为“刘晓波广场”，将造成“严重后果”。</strong></p>
+<p>中国外交部发言人洪磊说，美国参议院通过的有关议案，违反国际关系基本准则，中方坚决反对。</p>
+<p>他说，如果议案得以成为法例，将造成严重后果。</p>
+<p>他还表示，中方敦促美国国会停止审议有关议案，也敦促美国行政当局制止这场政治闹剧。</p>
+<p>美国参议院周五（12日）通过由共和党籍议员总统参选人克鲁兹提出的议案，以诺贝尔和平奖得主中国异见人士刘晓波为首都华盛顿一个广场命名，地点位于中国大使馆门前。</p>
+<p>中国大使馆发言人批评克鲁兹提出的议案是挑衅而且毫无建设性，促请美方立即停止相关行动。</p>
+<p>白 宫发言人早前表示，美国总统奥巴马的资深政治顾问将建议否决该项议案，因为这对于要求中国改善其人权状况与释放刘晓波毫无助益。</p>
+<p>61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。</p>
+<p>一年后，刘晓波获得了诺贝尔和平奖，但他至今仍在中国监狱服刑。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%88%98%E6%99%93%E6%B3%A2%E5%91%BD%E5%90%8D%E5%B9%BF%E5%9C%BA%E5%B0%86%E6%9C%89%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3%E8%A6%81%E6%B1%82%E6%94%B9%E5%90%8D/" target="cdt-mirror">【立存此照】战舰少女要求改名</a>
 </h2>
 <p><p>@remonwangxt：手机游戏《战舰少女》中所有的日本军舰名字全部被审查部门勒令改掉。</p>
@@ -711,35 +731,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%EF%BD%9C%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%93%B6%E6%A0%B9%E6%94%B6%E7%B4%A7%E7%88%86%E4%B9%B0%E5%8F%98%E5%BC%82/" target="cdt-mirror">BBC ｜访日中国游客银根收紧“爆买”变异</a>
-</h2>
-<p><p>中国猴年春节长假周日（2月14日）落幕，访日中国游客正纷纷上路回国。为了在这个春节长假迎接中国游客“爆买”，不少设置了专卖柜、增添了汉语服务等的日本百货店、免税店等。零售商望着中国游客的背影，纷纷叹息爆买已成“昨日黄花”。</p>
-<p>中国游客爆买是近年日本传媒和社会的热门话题，从初期爆买指甲钳、电饭锅，到后来爆买化妆品、马桶座板，日本市场饱和或接近饱和的囤积商品忽然柳暗花明，不仅挽救了许多中小夕阳企业，而且也成大企业新市场曙光。</p>
-<p>在中日政治关系冷淡、中日民间印象不良的主流中，访日中国游客爆买的现象，令日本传媒、舆论津津乐道，日本政府也不断放宽中国人访日签证条件。去年访日中国游客比前年增长107%，达到499万人次，是所有外国和地区访日游客中的最大增幅。</p>
-<p>今年1月，日本驻中国使馆、领馆发放签证数比去年同期增加近5成，约40万件，各大日本传媒都相信今年也能期待春节假期迎来中国游客爆买高潮。</p>
-<p>股跌币跌双重灾</p>
-<p>BBC中文网记者在春节长假期间的2月11日走访了位于东京新宿的免税店“日本堂”，希望目睹今年中国游客“爆买潮”，不料日本堂股东原田优美说：“我自己从去年8月开始、周围有人说从去年7月开始中国游客购买力不行了，比2013、2014年爆买高潮期差得好远。”</p>
-<p>原田是加入了日本国籍的华人，21年前来日本，经营免税店生意20年。她认为急剧滑坡的中国游客购买力主要是中国股市下跌、人民币贬值，“中国股市好、人民币兑换高的时候，再贵的东西都有人买，前两年免税店忽然多了好多，但去年下半年就不行了，现在最新的购物动向是买医药品这些廉价和实惠的日本货。其中大概3、40岁的游客最具购买力，年纪大的游客很多人来了也可能一分钱不花就走，但整体来看大家都在省钱”。</p>
-<p>对记者不解日本传媒为什么在过去半年广泛报称中国游客爆买现象，原田说：“他们是起哄、是托这个市，我这里经常有日本传媒打电话来说要来采访，我说了实情，他们就不来了”。</p>
-<p>“识途马”购物变化</p>
-<p>不过原田也承认，作为面向团体旅客经营的免税店，生意清淡的另一个主要原因是访日中国游客现在自由行多、团体客少。“不错，游客人数是在增加，但消费额减少，而且很多是第二次、第三次来，来过日本一次的中国游客一般就不会再参加旅行团。第二次、第三次来，想买的东西也会不一样，可能家里电饭锅、马桶座板都已经有了”，她说。</p>
-<p>原田还说“中国人反日感情还是很普遍，所以很多没来过日本的中国人不想来，倒是来过、亲眼看过了，就有不少人会想再来。因为日本安全、汉字通用，所以很多人再来就会选择自由行”。</p>
-<p>访日中国游客自由行通常三、五人结伴而来，目前日本一些旅行社也开始瞄准自由行中国游客，推出六人包车服务等。日本堂也在争取做散客生意，为了迎合游客购物，店里每天实施顾客调查。记者在店里转了一圈，看到陈列的商品以日本生产的药品、化妆品居多，但也有一个贩卖高价“南部铁瓶”和古董“浮世绘”的角落。店员对记者说“还是有人会买这种高价品”。</p>
-<p>说起日本货，原田感概地对记者说：“这个行业里，做真的生意非常难，20年前我看到有人把在韩国、台湾生产的东西换个日本包装，就算‘日本制造’，当时我想‘你们做这种假生意，一定迟早被揭穿，做不久’，可是他们现在不但在，而且生意还越做越大”。</p>
-<p>“变化也是契机”</p>
-<p>日本官方电视台NHK上周五（2月12日）报道了中国游客爆买向廉价商品转化的新闻，报道还引述银座高级百货店称“今年的印象是中国游客没去年那么爆买”。同样针对自由行散客的百货店也感到中国游客购物动向受到了影响。</p>
-<p>但NHK在一个专门分析日本零售业围绕中国游客的“春节商战”是否会继续的节目中说，中国游客爆买力降低可能也与中国政府抑制携带外汇出国有关。理由是“中国政府最近加强机场严格检查出国携带的外汇，可能是中国经济严峻中，政府促进国内库存商品流通的手段”。</p>
-<p>分析也说，从东京美容院、香川县乡村餐馆增加了中国游客的动向来看，中国游客访日消费“从‘购物消费’转向‘行动消费’”，并指出“现在断言中国游客爆买已过时还太早，但变化也是契机，不但零售商店需要尽快应对，也可能正是各地吸引中国游客的契机，期待包括中国游客在内的访日外国游客制造的经济效果在日本各地扩大”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%EF%BD%9C%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%93%B6%E6%A0%B9%E6%94%B6%E7%B4%A7%E7%88%86%E4%B9%B0%E5%8F%98%E5%BC%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -751,7 +742,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -761,5 +752,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,21 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3%E8%A6%81%E6%B1%82%E6%94%B9%E5%90%8D/" target="cdt-mirror">【立存此照】战舰少女要求改名</a>
+</h2>
+<p><p>@remonwangxt：手机游戏《战舰少女》中所有的日本军舰名字全部被审查部门勒令改掉。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUEAAKJbp.jpg?resize=500%2C889" alt="CbUdiiyUEAAKJbp" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUEAAKJbp.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUEAAKJbp.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUsAIaOw5.jpg?resize=500%2C810" alt="CbUdiiyUsAIaOw5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUsAIaOw5.jpg?resize=185%2C300 185w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUsAIaOw5.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3%E8%A6%81%E6%B1%82%E6%94%B9%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/?category=18271" rel="tag">国家法律法规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3/?category=18271" rel="tag">战舰少女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E5%90%8D/?category=18271" rel="tag">改名</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%AF%B9%E5%8E%86%E5%8F%B2%E7%9A%84%E5%8F%AB%E9%AD%82/" target="cdt-mirror">荐读｜对历史的叫魂</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%AD%94%E7%AB%8B%E9%A3%9E.jpg" rel="attachment wp-att-429384"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%AD%94%E7%AB%8B%E9%A3%9E.jpg?resize=475%2C373" alt="孔立飞" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/孔立飞.jpg?resize=300%2C235 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/孔立飞.jpg?w=640 640w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
@@ -728,33 +740,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E5%85%A5%E6%88%8F%E5%A4%AA%E6%B7%B1%E4%B8%8D%E8%83%BD%E8%87%AA%E6%8B%94%E4%BA%86/" target="cdt-mirror">博谈网｜〖微博谈〗入戏太深不能自拔了</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-1.jpg?resize=551%2C321" alt="20160215-bt (1)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-1.jpg?resize=300%2C175 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-1.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-2.jpg?resize=550%2C396" alt="20160215-bt (2)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-2.jpg?resize=300%2C216 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-2.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-3.jpg?resize=549%2C484" alt="20160215-bt (3)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-3.jpg?resize=300%2C264 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-3.jpg?w=606 606w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-4.jpg?resize=550%2C554" alt="SAN FRANCISCO - APRIL 09:  China supporters chant as China protesters and supporters face off while waiting for the Olympic torch to pass on April 9, 2008 in San Francisco, California. The protests, primarily over Chinese rule of Tibet, disrupted the torch route and ceremonies.  (Photo by David McNew/Getty Images)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-4.jpg?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-4.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>SAN FRANCISCO – APRIL 09: China supporters chant as China protesters and supporters face off while waiting for the Olympic torch to pass on April 9, 2008 in San Francisco, California. The protests, primarily over Chinese rule of Tibet, disrupted the torch route and ceremonies. (Photo by David McNew/Getty Images)</p></div>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-5.jpg?resize=551%2C428" alt="20160215-bt (5)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-5.jpg?resize=300%2C233 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-5.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-6.jpg?resize=550%2C484" alt="20160215-bt (6)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-6.jpg?resize=300%2C264 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-6.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-7.jpg?resize=550%2C574" alt="20160215-bt (7)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-7.jpg?resize=288%2C300 288w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-7.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-8.jpg?resize=550%2C527" alt="20160215-bt (8)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-8.jpg?resize=300%2C288 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-8.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-9.jpg?resize=550%2C532" alt="20160215-bt (9)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-9.jpg?resize=300%2C290 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-9.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-10.jpg?resize=551%2C504" alt="20160215-bt (10)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-10.jpg?resize=300%2C274 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20160215-bt-10.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>（所有图片均来自网络）</p>
-<p>1. @上海老顽童吴德余：这几年微博上常读到@于建嵘先生的高论，然依拙见，担得起真知灼见四个字的首推这句了。</p>
-<p>2. @性感玉米：以搜索引擎为信息入口的时代，百度帮助中共完成了信息过滤和审查，这是百度赖以生存的最大价值。（李彦宏：百度的成功和谷歌退出没有必然联系）</p>
-<p>3. @beidaijin：【中国爱国主义教育瞄准海外留学生】在中国学生的课程和教材中，对共产党的民族主义式忠诚已经被作为一种基本价值来宣扬，而现在，从教育官员接到的一项新指示来看，中国学生必须被培养得更加忠党爱国，哪怕他们是在国外大学就读。</p>
-<p>4. @买买提X：我父母那一代坚信老美帝国主义亡我只心不死。为啥我们这一代人还是有这么想的，真心没搞懂。毛时代需要营造这种氛围，然后让子弟兵去朝鲜为金家献身。现在还这么想那就是入戏太深不能自拔了。政权根本的道理是老百姓过的好，和谁当权，什么意识形态无关，金庸老大书里韦小宝老早就说过了，这才是基本的正确价值观。老邓骨子里就未必相信什么英特纳雄耐尔一定会实现。</p>
-<p>5. @布小什大师：看过大和尚在美国和中国学生对话，有个观点很有意思，他说苏联和中国都是内战获得政权的，因此战争时期的心理和心态都是猜疑、不信任、控制和审查，后来这些东西就成了整个体制的思考方式。</p>
-<p>6. @展江：金日成政权从1950年侵略韩国挑起朝鲜战争，害得半岛人民和派兵的中国很惨，战后建立挂着社会主义招牌的金家王朝迄今三代，这一家肥头大耳，国人则面黄肌瘦甚至成饿殍，却穷兵黩武发展致命的原子弹和氢弹，国际社会再也不能坐视和绥靖了。</p>
-<p>7. @HeQinglian：民字号的早就不挺了，国字号的是地方政府拿钱在挺。有调查报告说，企业采取轮流休假（实际上是轮流发工资）在稳定职工情绪。今年出清僵尸企业，主要就是这些用银行贷款撑着的亏损企业。职工们不了解宏观经济形势及市场变化，一味埋怨领导层无能。</p>
-<p>8. @假行僧老巩：只活在联播里，无疑14亿都是幸福的。而事实上，多少农村学子唯一目标仍是逃离那个无法改变的贫困世界，或上学或打工，每天都在上演着逃离的剧目。春节听从东北回来的朋友说，东北有些村子成了空的，能走的都走了。金钱某种程度上能带来安全感，这个国家的人们又那么缺乏这东西，女孩嫌贫爱富实属正常。</p>
-<p>9. @苏州常熟徐文石：【“爱国”就是不投反对票】日前，倪萍在加拿大温哥华举办画展。她表示，等儿子在美国完成学业，将落户温哥华。2011年，倪萍获得“共和国脊梁十大卓越人物”的称号。倪萍最让网友熟知的是2010年初，作为全国政协委员向媒体说：“大的会议，我从不投反对票或弃权票。”因为“我深深地爱着这个国家”引起舆论哗然。</p>
-<p>10. 【至少数千名中国留学生在美读书期间皈依基督教】据美国《侨报网》2月12日编译报道，数千名中国留学生在美国读书期间皈依基督教。中国留学生日趋增多，许多大学基督教团体觉察到了这个机遇，主动提供针对中国新生的机场接送和临时住宿，甚至还有购物和搬家服务。</p>
-<p>关键词: 微博谈 栏目: 新颖视角 首页重点发表: 新鲜看点</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E5%85%A5%E6%88%8F%E5%A4%AA%E6%B7%B1%E4%B8%8D%E8%83%BD%E8%87%AA%E6%8B%94%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E8%B0%88/?category=18271" rel="tag">微博谈</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -766,7 +751,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -776,5 +761,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

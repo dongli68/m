@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,10 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E5%AE%B6%E4%BA%BA%E3%80%81%E6%98%A5%E6%99%9A%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2%E7%AD%89%E7%83%AD/" target="cdt-mirror">【敏感词库】2016春晚专辑（二）、“鱼蛋革命”等热点 2016-2-17</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?resize=500%2C334" alt="赵国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?w=599 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><br><em>图片作者：变态辣椒</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年2月17日］</p>
+<p><strong>春晚＋四个全面</strong>（<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E6%98%A5%E6%99%9A%E5%8C%85%E5%AD%90%E3%80%81%E4%B9%A0%E9%9A%BE%E5%A0%AA%E7%AD%89%E7%83%AD%E7%82%B9-2016-2-9/">【敏感词库】2016春晚专辑<一></a><strong>）</strong><br><strong> 春晚＋赵家</strong><br><strong>春晚＋主旋律</strong><br><strong> 春晚＋红领巾</strong><br><strong> 春晚＋文革</strong><br><strong> 春晚＋100（分）</strong><br><strong> 春晚＋马屁</strong><br><strong> 春晚＋老毕</strong><br><strong> 春晚＋赵本山</strong><br><strong> 春晚＋彭</strong></p>
+<blockquote><p>延伸阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%98%A5%E6%99%9A%E5%88%9B%E4%BD%9C%E9%AB%98%E5%BA%A6%E6%AF%94%E5%8E%9F%E6%9D%A5%E9%AB%98/">央视春晚总导演：今年春晚创作高度比原来高</a></p></blockquote>
+<p><strong>旺角＋骚乱</strong>（详见：<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc%EF%BD%9C%E6%B8%AF%E5%AA%92%EF%BC%9A%E6%97%BA%E8%A7%92%E7%A4%BA%E5%A8%81%E8%80%85%E6%8A%95%E6%8E%B7%E7%A0%96%E5%A4%B4%E6%94%BB%E5%87%BB%E8%AD%A6%E5%AF%9F/">蘋果即時｜旺角騷亂</a>）<br><strong>鱼蛋革命</strong><br><strong>香港＋骚乱</strong></p>
+<p><strong>习家人</strong> （数字时代相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/">赵家人</a>）<br><strong>习领导</strong><br><strong> 习＋皇帝</strong><br><strong> 习＋女人</strong><br><strong> 习 + 氏</strong></p>
+<p><strong>党政军集权</strong> （详见：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%94%BF%E6%B2%BB%E5%BB%BA%E5%86%9B/">自由亚洲｜未普：习近平的政治建军</a>）</p>
+<p><strong>屠杀＋四</strong></p>
+<p><strong>情色小说</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2.png?resize=475%2C185" alt="春晚＋四个全面" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋四个全面.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋四个全面.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋四个全面.png?w=774 774w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E8%B5%B5%E5%AE%B6.png" rel="attachment wp-att-429553"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A-%E8%B5%B5%E5%AE%B6.png?resize=475%2C204" alt="春晚 赵家" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚-赵家.png?resize=300%2C129 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚-赵家.png?resize=768%2C329 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚-赵家.png?resize=1024%2C439 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚-赵家.png?w=2094 2094w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E4%B8%BB%E6%97%8B%E5%BE%8B.png?resize=475%2C186" alt="春晚＋主旋律" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋主旋律.png?resize=300%2C118 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋主旋律.png?w=767 767w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E7%BA%A2%E9%A2%86%E5%B7%BE.png?resize=475%2C185" alt="春晚＋红领巾" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋红领巾.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋红领巾.png?resize=768%2C300 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋红领巾.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E6%96%87%E9%9D%A9.png?resize=475%2C184" alt="春晚＋文革" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋文革.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋文革.png?resize=768%2C298 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋文革.png?w=777 777w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B100.png?resize=475%2C186" alt="春晚＋100" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋100.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋100.png?resize=768%2C301 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋100.png?w=774 774w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E9%A9%AC%E5%B1%81.png?resize=475%2C185" alt="春晚＋马屁" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋马屁.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋马屁.png?resize=768%2C300 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋马屁.png?w=774 774w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E8%80%81%E6%AF%95.png?resize=475%2C185" alt="春晚＋老毕" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋老毕.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋老毕.png?resize=768%2C300 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋老毕.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E8%B5%B5%E6%9C%AC%E5%B1%B1.png?resize=475%2C186" alt="春晚＋赵本山" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋赵本山.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋赵本山.png?resize=768%2C300 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋赵本山.png?w=770 770w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%98%A5%E6%99%9A%EF%BC%8B%E5%BD%AD.png?resize=475%2C183" alt="春晚＋彭" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋彭.png?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋彭.png?resize=768%2C296 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/春晚＋彭.png?w=774 774w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%97%BA%E8%A7%92%EF%BC%8B%E9%AA%9A%E4%B9%B1.png?resize=475%2C183" alt="旺角＋骚乱" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/旺角＋骚乱.png?resize=300%2C116 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/旺角＋骚乱.png?resize=768%2C296 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/旺角＋骚乱.png?w=776 776w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E9%B1%BC%E8%9B%8B%E9%9D%A9%E5%91%BD.png" rel="attachment wp-att-429556"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E9%B1%BC%E8%9B%8B%E9%9D%A9%E5%91%BD.png?resize=475%2C208" alt="鱼蛋革命" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/鱼蛋革命.png?resize=300%2C131 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/鱼蛋革命.png?resize=768%2C336 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/鱼蛋革命.png?resize=1024%2C449 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/鱼蛋革命.png?w=2100 2100w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E9%A6%99%E6%B8%AF%EF%BC%8B%E9%AA%9A%E4%B9%B1.png?resize=475%2C186" alt="香港＋骚乱" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/香港＋骚乱.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/香港＋骚乱.png?resize=768%2C300 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/香港＋骚乱.png?w=773 773w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0%E5%AE%B6%E4%BA%BA.png?resize=475%2C184" alt="习家人" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习家人.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习家人.png?resize=768%2C298 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习家人.png?w=770 770w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0%E9%A2%86%E5%AF%BC.png?resize=475%2C185" alt="习领导" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习领导.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习领导.png?resize=768%2C298 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习领导.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0%EF%BC%8B%E7%9A%87%E5%B8%9D.png?resize=475%2C187" alt="习＋皇帝" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习＋皇帝.png?resize=300%2C118 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习＋皇帝.png?resize=768%2C303 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习＋皇帝.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0%EF%BC%8B%E5%A5%B3%E4%BA%BA.png?resize=475%2C188" alt="习＋女人" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习＋女人.png?resize=768%2C303 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习＋女人.png?w=770 770w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E6%B0%8F.png" rel="attachment wp-att-429554"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E6%B0%8F.png?resize=475%2C209" alt="习 氏" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-氏.png?resize=300%2C132 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-氏.png?resize=768%2C338 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-氏.png?resize=1024%2C451 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-氏.png?w=2084 2084w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%85%9A%E6%94%BF%E5%86%9B%E9%9B%86%E6%9D%83.png?resize=475%2C186" alt="党政军集权" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/党政军集权.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/党政军集权.png?resize=768%2C300 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/党政军集权.png?w=775 775w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%B1%A0%E6%9D%80%EF%BC%8B%E5%9B%9B.png?resize=475%2C186" alt="屠杀＋四" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/屠杀＋四.png?resize=300%2C118 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/屠杀＋四.png?resize=768%2C301 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/屠杀＋四.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%83%85%E8%89%B2%E5%B0%8F%E8%AF%B4.png?resize=475%2C185" alt="情色小说" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/情色小说.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/情色小说.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/情色小说.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E5%AE%B6%E4%BA%BA%E3%80%81%E6%98%A5%E6%99%9A%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2%E7%AD%89%E7%83%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E5%AE%B6%E4%BA%BA%E3%80%81%E6%98%A5%E6%99%9A%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2%E7%AD%89%E7%83%AD/" target="cdt-mirror">【敏感词库】2016春晚专辑（二）、“鱼蛋革命”等热点</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?resize=500%2C334" alt="赵国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?w=599 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><br><em>图片作者：变态辣椒</em></p>
 <p>［新浪微博搜索禁词测试时间：2016年2月17日］</p>
@@ -100,7 +121,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">爱国宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%80%85/?category=18271" rel="tag">爱国者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E5%A3%AB%E9%92%8A/?category=18271" rel="tag">章士钊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E7%8B%AC%E7%A7%80/?category=18271" rel="tag">陈独秀</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B8%9D%E7%8E%8B%E7%9A%84%E8%AF%97%E6%AD%8C%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E7%BE%8E%E6%84%9F/" target="cdt-mirror">平说｜九叔：帝王的诗歌为何没有美感</a>
 </h2>
@@ -214,7 +235,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8D%81%E4%B9%9D%E5%A4%A7/?category=18271" rel="tag">中共十九大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E8%BF%8E%E4%B8%BD/?category=18271" rel="tag">于迎丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2%E5%B9%BF%E5%9C%BA/?category=18271" rel="tag">刘晓波广场</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%8E%B7%E5%87%86%E6%8E%A2%E7%9B%91-%E7%94%9F%E6%B4%BB%E8%B4%B9%E9%81%AD%E5%81%9C%E5%8F%91%E5%AE%B6%E4%BA%BA%E7%94%9F/" target="cdt-mirror">自由亚洲｜伊力哈木获准探监 生活费遭停发家人生活窘迫</a>
 </h2>
@@ -616,69 +637,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BD%91%E6%98%93%E7%A7%91%E6%8A%80-weixin-com%E8%A3%81%E5%86%B3%E4%BB%A4%E4%BA%BA%E5%A4%A7%E5%BC%80%E7%9C%BC%E7%95%8C/" target="cdt-mirror">网易科技 | weixin.com裁决令人大开眼界</a>
-</h2>
-<p><div>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/201602160744153ede5_550.jpg.550x10000.75.auto_.jpg?resize=550%2C291" alt="201602160744153ede5_550.jpg.550x10000.75.auto" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/201602160744153ede5_550.jpg.550x10000.75.auto_.jpg?resize=300%2C159 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/201602160744153ede5_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>文/李俊慧（网易科技独家供稿）</p>
-<p><b>“匪夷所思”。</b></p>
-<p>这恐怕是大多人看到weixin.com域名被仲裁转移给微信官方后的第一反应。</p>
-<p>日前，亚洲域名争议解决中心就腾讯公司发起的weixin.com域名争议作出了裁决，专家组裁定支持投诉人腾讯公司的投诉请求，将争议域名转移给投诉人腾讯公司。</p>
-<p>事实上，围绕“微信”商标引发的纠纷，这已经不是微信官方第一次赢得诉讼或仲裁。2015年3月，北京知识产权法院审结的一起关于“微信”商标的行政诉讼中，法院一审驳回了原告创博亚太科技（山东）有限公司（以下简称“创博公司”）的诉讼请求，判决维持了工商总局商标评审委员会（以下简称“商评委”）对创博公司提交的38类“微信”文字商标不予核准注册的复审裁定。</p>
-<p>虽然原告创博公司比微信官方早2个月提交了第38类“微信”文字商标申请，但是，该商标申请在审查期间经异议程序被商评委裁定不予注册，而在诉讼中再被判决维持不予核准注册。</p>
-<p>如今，在域名领域，注册于2000年的weixin.com，尽管比微信诞生时间早了15年之久，但是，在这次域名争议裁决中，微信居然再下一城，通过域名争议程序夺回了这个比它还年长15岁的域名。</p>
-<p>如果说，在此前的“微信”文字商标纠纷判决中，认定核准创博公司申请的“微信”文字商标将产生不良影响，还能用“争议较大”来概括的话，那么，现在这份域名裁决恐怕只能用“匪夷所思”来形容了。</p>
-<p>而之所以说这份域名裁决“匪夷所思”，主要原因有三：</p>
-<p><b>首先，该裁决对域名注册时间的认定突破了大众认知和行业惯例。</b></p>
-<p>众所周知，在域名注册信息中，包括两个时间点，一个是注册日或注册日期（RegistrationDate），一个是到期日或到期日期（Expiration Date）。</p>
-<p>关于这两个时点的判断在全球域名体系中都是一致的，注册日（Registration Date）是指特定域名在域名系统中注册、登记的时间，而到期日（Expiration Date）则表示已注册的域名在域名系统将会被删除或注销的时间。</p>
-</div>
-<div>
-<p>此外，通行的域名管理做法是，到期日届满后，为了维护域名持有者的合法权益，系统并不会立即删除或注销相应域名，而是进入一个冻结期（延缓续费期及高价赎回期），此期间，原域名持有者还可以通过续费继续获得该域名的使用权。而一旦在前述期间内未续费，则时间届满后，该域名将会被域名系统删除或注销，其他人可重新申请注册该域名，相应的域名注册时间将会按照最新的注册时间记录。</p>
-<p>简单说，在域名管理中，域名注册及域名注册日或注册日期都是有特定含义的，且被所在行业共同认知的。</p>
-<p>而在weixin.com域名裁决中，三名专家组成的专家小组，有两位专家的意见认为，在域名有期内发生的域名持有者信息变更（俗称“过户”），信息变更视为“新注册”。</p>
-<p>而两位专家之所以得出此结论的依据是，此前有类似的仲裁案例，独任独家认为，域名持有者信息变更属于“新注册”。</p>
-<p>从判例法的角度来看，weixin.com域名争议中专家组援引先前仲裁案例，来裁决本争议似乎无可厚非。</p>
-<p>但是，仲裁作为独立于法院判决的一种争议解决方式，是否也适用判例规则就存在一定争议了。更重要的是，如果从判例援引角度来看，域名持有者信息变更不视为“新注册”应该是过往大多数域名争议仲裁专家及裁决的共识。</p>
-<p>其次，<b>该裁决对域名恶意使用的认定推理也存在较大争议。</b></p>
-<p>在该仲裁中，专家组认为，根据Domain Tools, LLC及The Way Back Machine取得的域名报告，最初的注册人为Hai Shen Yang，之后注册人多次变更：2007年Ye Xu Jian，2009年SunLi Jiao，2010年Tongbo TechnologyCo., Ltd.，2011年Zhu Fang，2015年4月Sun Li Bin，2015年6月Li Zhu，最后转至被投诉人。因为被投诉人没有提供“在2015年前争议域名曾被善意使用或使用的证据”，进而推理得出该域名初始注册就不是“善意的”。</p>
-<p>这种推理不仅违背常识，而且推理逻辑也“匪夷所思”。简单说，微信官方并未提供证据表明weixin.com2000年初始注册时就是恶意，但是，专家组居然“越俎代庖”替微信做了判断。</p>
-<p>此外，该争议的专家组对“域名注册信息隐私保护”（Privacy Service）机制也做了“曲解”。众所周知，按照ICANN的规则，正常的域名注册信息是完整披露域名持有者姓名、地址、联系信息、注册时间等信息，其中，地址、联系信息实际上属于个人信息，由于全面披露，域名持有者可能会经常受到“骚扰”，因此，后来才有了“域名注册信息隐私保护”服务，域名持有者缴纳一定费用后，可以隐藏部分注册信息。</p>
-</div>
-<div>
-<p>但在该裁决中，专家组认为，亦有证据显示，于2011年1月22日，争议域名的AdministrativeContact及Registrant Contact Information都被改为“Privacy Service”，来隐藏注册人的身份。而这居然也成了认定持有者构成“恶意”的证据之一。</p>
-<p>另外，如果该专家组早10多年出现，且经手处理ICQ与腾讯之间就oicq.com的域名争议，是否还有可能帮腾讯保住或夺回oicq.com的所有权呢？</p>
-<p><b>最后，三人专家组有一人持反对意见多少让人略感欣慰。</b></p>
-<p>值得注意的是，weixin.com域名争议专家组有三人组成，但并非三名专家意见一致，其中，一名专家对weixin.com构成恶意注册持否定态度。而这份反对意见，也在仲裁裁决中一并收录了。</p>
-<p>事实上，域名争议认定原本是比较简单的程序，只要符合：</p>
-<p><b>1）存在混淆可能。</b>争议域名与投诉人拥有的商标或服务标记相同或极其相似，容易引起混淆；</p>
-<p><b>2）不享正当权益。</b>被投诉人不拥有对该域名的权利或合法利益；</p>
-<p><b>3）存在“恶意”使用。</b>被投诉人的域名已被注册并且正被恶意使用。就可以判定争议域名注销、转移或限制使用。</p>
-<p>其中，关于“恶意”使用认定是域名争议处理的核心所在，以国内为例，最高人民法院《关于审理涉及计算机网络域名民事纠纷案件适用法律若干问题的解释》中规定，具备如下任一情形的，人民法院应当认定其具有恶意，包括：</p>
-<p>(一)为商业目的将他人驰名商标注册为域名的；</p>
-<p>(二)为商业目的注册、使用与原告的注册商标、域名等相同或近似的域名，故意造成与原告提供的产品、服务或者原告网站的混淆，误导网络用户访问其网站或其他在线站点的；</p>
-<p>(三)曾要约高价出售、出租或者以其他方式转让该域名获取不正当利益的；</p>
-<p>(四)注册域名后自己并不使用也未准备使用，而有意阻止权利人注册该域名的；</p>
-<p>(五)具有其他恶意情形的。</p>
-<p>《中国互联网络信息中心国家顶级域名争议解决办法》规定，被投诉的域名持有人具有下列情形之一的，其行为构成恶意注册或者使用域名：</p>
-<p>（一）注册或受让域名的目的是为了向作为民事权益所有人的投诉人或其竞争对手出售、出租或者以其他方式转让该域名，以获取不正当利益；</p>
-</div>
-<div>
-<p>（二）多次将他人享有合法权益的名称或者标志注册为自己的域名，以阻止他人以域名的形式在互联网上使用其享有合法权益的名称或者标志；</p>
-<p>（三）注册或者受让域名是为了损害投诉人的声誉，破坏投诉人正常的业务活动，或者混淆与投诉人之间的区别，误导公众；</p>
-<p>（四）其他恶意的情形。</p>
-<p>简单说，如果争议域名是.cn结尾的域名或纠纷在国内受理的话，按照司法解释及CNNIC域名争议解决办法，weixin.com持有者的使用行为恐怕不太容易被认定属于“恶意”。</p>
-<p>当然，虽然目前亚洲域名争议解决中心已将weixin.com裁决转移给微信官方，但是，weixin.com的持有者还可以通过诉讼的方式，继续争夺该域名的所有权。</p>
-<p>简单说，weixin.com是否最终一定会无偿转移给腾讯，现在下结论为时尚早。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BD%91%E6%98%93%E7%A7%91%E6%8A%80-weixin-com%E8%A3%81%E5%86%B3%E4%BB%A4%E4%BA%BA%E5%A4%A7%E5%BC%80%E7%9C%BC%E7%95%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/weixin/?category=18271" rel="tag">weixin</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%95%86%E6%A0%87%E8%AF%89%E8%AE%BC/?category=18271" rel="tag">商标诉讼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%9F%E5%90%8D/?category=18271" rel="tag">域名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E8%AF%89%E8%AE%BC/?category=18271" rel="tag">行政诉讼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -690,7 +648,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/weixin/?category=1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -700,5 +658,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/weixin/?category=1
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,66 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%8B%9F%E5%90%A6%E5%86%B3%E5%88%98%E6%99%93%E6%B3%A2%E5%B9%BF%E5%9C%BA%E6%8F%90%E6%A1%88/" target="cdt-mirror">纽约时报 | 奥巴马拟否决“刘晓波广场”提案</a>
+</h2>
+<p><p>相关阅读：<a title="BBC | 中国外交部：以刘晓波命名广场将有“严重后果”" href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%88%98%E6%99%93%E6%B3%A2%E5%91%BD%E5%90%8D%E5%B9%BF%E5%9C%BA%E5%B0%86%E6%9C%89%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C/">BBC | 中国外交部：以刘晓波命名广场将有“严重后果”</a></p>
+<p>中国大使馆的信笺似乎暂时还是安全的。</p>
+<p>奥巴马总统预计将否决一项提案，阻止将中国驻华盛顿大使馆的地址从“国际广场西北3505号”改为“刘晓波广场1号”(1 Liu Xiaobo Plaza)。这项立法是这位诺贝尔和平奖得主在中国遭到监禁之后提出的。</p>
+<p>德克萨斯州参议员、共和党总统候选人特德·克鲁兹(Ted Cruz)提出的这项立法上周五在参议院获得通过。在众议院也已经提交了相应的提案。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/18chinaembassy-web1-popup.jpg?resize=375%2C500" alt="位于华盛顿的中国驻美大使馆。美国参议院批准了一项法案，将该使馆地址更改为一名被监禁的诺贝尔和平奖得主的名字。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/18chinaembassy-web1-popup.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/18chinaembassy-web1-popup.jpg?w=375 375w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"><p>位于华盛顿的中国驻美大使馆。美国参议院批准了一项法案，将该使馆地址更改为一名被监禁的诺贝尔和平奖得主的名字。</p></div>
+<p>刘晓波是文学评论家，也是1989年天安门抗议活动中的一位著名人物，在起草了亲民主宣言《零八宪章》后，中国在2009年以煽动颠覆国家政权罪判处他11年有期徒刑。一年后，他被授予诺贝尔和平奖，以表彰他在中国争取人权的不懈努力。</p>
+<p>美国国务院副发言人马克·C·托纳(Mark C. Toner)本周二表示，据他了解，如果该法案送达奥巴马的办公桌，将被总统否决，因为更改名称无助于鼓励中国尊重人权并释放政治犯。</p>
+<p>“我们认为这样的立法行动只会让我们的努力变得更艰难，所以我们反对这种做法，”他在华盛顿举行的新闻发布会上告诉记者。“在改善中国的人权问题上，我们与国会有共同的目标，我们希望更有效而协调地与国会合作。”</p>
+<p>克鲁兹指责白宫不想勇敢面对中国政府。</p>
+<p>“奥巴马政府发出了否决提案的威胁，这是他们热衷于迎合共产党专制政权、牺牲亲美异见者的又一可耻例证，”克鲁斯在一份书面声明中说。</p>
+<p>中国外交部发言人洪磊称该法案如果获得通过，就会违反“国际关系基本准则”，造成“严重后果”。</p>
+<p>“我们敦促美国会停止审议有关议案。我们也敦促美行政当局制止这场政治闹剧。”本周二他在北京的新闻发布会上告诉记者。</p>
+<p>2014年，众议院拨款委员会(House Appropriations Committee)批准了一项类似行动，欲以刘晓波的名字为街道命名。此举也遭到了中国政府的谴责，一些中国人提出对美国驻北京大使馆的地址进行报复性更名，比如改斯诺登街。斯诺登是前美国国家安全局(National Security Agency)承包商，曝光了关于美国网络监视行动的机密文件。</p>
+<p>中国新闻媒体没有对刘晓波进行过广泛讨论，本周三，中国的新浪微博上有一名用户表示，街道更名的争论引起了关于刘晓波的几个问题：“诺奖的光环为何会落在他的头上？他的名字为何是敏感的？美国国会以一个中国人的名字为荣耀而你却连反对的理由都不敢说？”</p>
+<p>支持改名的国会成员都引用了冷战时的一个著名例子：美国采用一位持不同政见的物理学家的名字，把苏联驻华盛顿大使馆的地址改成了“安德烈·萨哈罗夫广场”(Andrei Sakharov Plaza)。</p>
+<p>中国自己也曾经出于政治目更改过街道的名字。1966年文化大革命开始时，中国把苏联驻北京大使馆所在街道更名为“反修路”，因为中国认为苏联已经放弃了迈向共产主义的正确道路。那个名字最终在1970年代末被弃用。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%8B%9F%E5%90%A6%E5%86%B3%E5%88%98%E6%99%93%E6%B3%A2%E5%B9%BF%E5%9C%BA%E6%8F%90%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2%E5%B9%BF%E5%9C%BA/?category=18271" rel="tag">刘晓波广场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%EF%BC%9F%E5%85%88%E6%9C%89%E7%88%B1%E5%9B%BD%E8%80%85%EF%BC%8C%E8%BF%98%E6%98%AF/" target="cdt-mirror">微思客 | 我和国家是什么关系？先有爱国者，还是先有可爱之国</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-%E4%B8%8B%E5%8D%887.57.15.png?resize=496%2C371" alt="Screen Shot 2016-02-17 at 下午7.57.15" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-下午7.57.15.png?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-下午7.57.15.png?w=496 496w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"><br><span>爱国留学生 美国费城（图片来自网络）</span></p>
+<p>作者：玉照</p>
+<p>希拉里在最新总统竞选视频中，通过“家庭强，则美国强”这样的口号来表达未来的执政理念，通过关注民众日常生活中的挑战与机遇来争取选票。相比较八年前阴沉、忧郁、与普通人格格不入的竞选视频，这次竞选视频因亲民、实际而受到网友的广泛关注。</p>
+<p>当然，也有人批评希拉里的竞选视频释放了过于强烈的个人主义信号。事实上，在一个政治不断被分解的今天，相比较政治，我们更关心生活，亦或者说，生活本身就是最大的政治。今天的我们，活的更加自我，政治的的情怀、爱国的情感常常以一种不在场的形式在场。说它在场，是因为我们无时无刻不在主动、被动地接受各种爱国主义的教育，我们的生活无时无刻不在被政治所中介；说它不在场，是因为我们几乎很少再把它作为一个问题来思考。</p>
+<p>事实上，在国家日常治理中，如何确立公民个人权利与义务之间的边界，如何处理个人与共同体之间的关系，不仅是国家策略的一部分，更是作为个体的公民一生都需要面临的问题。因为在某种程度上，正是这些看似遥远的国家制度设计直接决定了我们每一个默默无闻的公民的一生将如何被安排。</p>
+<p>在一个和平的时代，我们应该在何种意义上谈论爱国，还能因何种原因产生爱国之情？或许这并不是一个自明的问题。它所隐含的仍然是在今天的时代如何处理个人与共同体之间的关系问题。不论站在何种立场，对于个人与国家之间关系的评价都是困难的。个人和共同体之间的关系从来就是复杂的，从来就没有一种绝对的个人主义，也从来就没有一种绝对完美的集体主义，任何理想政体都是在个人与集体之间的张力中不断被构建的。</p>
+<p>中国共产党两位创始人陈独秀与李大钊曾就自我与国家之间的关系产生过激烈的论争。</p>
+<p>1915年，陈独秀不满于袁世凯的倒行逆施，在《甲寅》杂志发表《爱国心与自觉心》一文，在当时引起热烈反响。他认为：“今之中国，人心散乱，感情智识，两无可言。惟其无情，故视公共之安危，不关己身之喜戚，是谓之无爱国心。惟其无智，既不知彼，复不知此，是谓之无自觉心。国人无爱国心者，其国恒亡。国人无自觉心者，其国亦殆。二者俱无，国必不国。”</p>
+<p>在陈独秀看来，在当时的中国社会上几乎看不到爱国主义或自我意识的觉醒，但是他认为并不能因此指责他们。陈独秀认为，爱国意识未觉醒的过错不在公民，而在国家，在一个因为自己无能而承受风险的国家。</p>
+<p>从当时的政治时局来看，相比较没有爱国情感的公民，一个不能激起公民爱国情感的国家更应该受到批判。也就是说，国家有责任在民族共同体之中创造这种爱国情感。每一个尚未觉醒的自我都是一个潜在的爱国者，他们都期待一个值得自我觉醒，能够激起潜在爱国情感的理想国家的出现。只有在一个值得热爱、牺牲的国家里，自我意识才能觉醒。陈独秀认为当时的欧洲和美国就是这种情形。在那里，国家是“为国人共谋安宁幸福之团体。”而当时的中国之国家俨然没能很好地履行这一义务。对于这样一个不能谋国人之幸福安宁的国家，公民没有义务去爱。</p>
+<p>陈独秀对当时中国社会的思考，得出了激进的结论，认为一个不能激起民众爱国之心的国家根本没有资格成为一个国家。“国家者，保障人民之权利，谋益人民之幸福者也。不此之务，其国也存之无所荣，亡之无所惜。”简言之，国家是人们为了共同生活而自然结合起来的利益共同体。如果一个国家不能让公民幸福而有尊严的活着，也就失去了存在的必要性。</p>
+<p>陈独秀的论断引起李大钊的反感，李大钊也承认当时的国家各方面远未达到完善的地步，但他并不赞同陈独秀所认为当前国家不值得拯救的观点，随之写了《自觉心与厌世心》一文，，驳斥了陈独秀的厌世之辞：“恶政苦命，……不过一时之象，非如亡国惨劫，永世不复也。”虽然李大钊对当时之国家也有诸多不满，但他认为至少还算是一个中国人的共和国，而一旦放弃对国家的拯救，将面临亡国灭种的危机。就个人与国家之间的关系，和陈独秀不同，李大钊认为，公民个人有自我觉醒，并去努力创造一个理想国家的义务：“不宜因其国家之不足爱，遂致断念于国家而不爱。更不宜以吾民从未享有可爱之国家，遂乃自暴自弃，以侪于无国之民，自居为无建可爱之国之能力者也。”</p>
+<p>陈独秀与李大钊关于爱国主义的这场争论，距今整整一百年时间，虽然今日之中国早已经不再是那个处于亡国灭种边缘的中国，今日之中国人民也不再是当时尚未觉醒的民众。但是这场争论在今天看来仍然不为过时之争。这场争论背后隐含的是公民个人与国家之间关系这样一个政治哲学的永恒话题。</p>
+<p>尽管陈独秀的观点具有一定的悲观色彩，但陈独秀在当时就已经提出了一个在今天看来，依然十分重要的问题。那就是，陈独秀已经开始将民族国家与政府相分离，政府不等于国家，政府是国家的主权代表者。当我们谈论爱国时，我们爱的到底是什么？陈独秀站在理性的立场上，对爱国行为进行了全新的审视。爱国应该是爱值得爱的可爱之国，而非盲目的信仰。对于当时的政府，外不能御敌，内不能安民，如果爱这样的国家不仅是盲目的，甚至是有害的。事实上，陈独秀在这里所说的不值得爱的国家，更多指的是政府，而非作为一个生存共同体的中华民族。</p>
+<p>1933年4月20日，国民政府江苏省高等法院第三次审讯陈独秀等人的案件。作为被告，陈独秀宣读了历史上赫赫有名的《陈独秀自撰辩诉状》，与其说这是陈独秀的抗辩，毋宁说这是他作为“原告”的审判，对国民党当局的审判。在抗辩中，陈独秀义正言辞地指出，“今者国民党政府因予始终尽瘁于革命之故，而加以逮捕，并令其检察官向法院控予‘危害民国’及‘叛国’之罪，予不但绝对不能承认，而且政府之所控者，恰恰与予所思所行者相反。国者何？土地、人民、主权之总和也。”陈独秀认为他反对的只是国民党和国民政府而并不危害国家，政府并非国家，反对政府不等于反对国家。因为对政府持异见而被扣上叛国的罪名，不仅不能成立，甚至是荒唐可笑的。</p>
+<p>陈独秀的代理律师章士钊，进一步指出：“国家者，土地、主权、人民之总和也；政府者，政党执行政令之组合也。定义既殊，权责有分，是故危害国家土地、主权、人民者叛国罪也，而反对政府者，政见有异也，若视为叛国则大谬矣。今试执途人而问之，反对政府是否有罪，其人必曰若非疯狂即为白痴，以其违反民主原则也。”</p>
+<p>对于中国来说，国家是一个相当晚近才出现的概念，它既非中国传统文化中的王朝，也不单单指现代政治语境中的政府，而是一个民族国家共同体的想象。当我们谈论爱国时，我们爱的是一个民族国家共同体，这种对国家之爱是一种情怀，而非一种主义。尽管我们从小就接收各种爱国主义教育，但是这种情怀从某种程度上来说比外在强加给个体的主义更加具有力量。</p>
+<p>爱国主义是中华民族的优良传统，这样的话语体系早就内化在我们的思想之中，作为一种被牢牢建构起来的爱国主义，似乎爱国已经不再成为一个问题而存在。但在民国初年，爱国主义并非显而易见的，当时的中国社会还处于尚待觉醒之中，不论是国民个人，还是整个民族都未能获得真正现代意义上的国民或国家资格。</p>
+<p>在一个理想的国家形式到来之前，公民能否暂不承担自己的义务？这是陈独秀和李大钊关于爱国之争的核心问题。一个理想的国家形式永远是处于尚未之中，真正意义上完美的社会从某种程度上而言只能是一个乌托邦。但是这并不影响作为公民个人对国家的爱国之情。爱国情怀是在公民个人与国家之间的互动中得以建构起来的。正是因为国家的不完满，才需要构成国家的每一个个体不断努力推动这个国家的进步。同样，也正是因为国家的不完满，作为整体的国家自身也必须赋予公民对其批判的权利。一个不能够理性看待现实的公民，拥有再强烈的爱国情感也不能成为一个现代意义上的合格公民。理想国家制度的建立和理想公民的培养从来就是同一个过程。</p>
+<p>正派的国民需要正派的国家来提供庇佑，同样，正派的国家也需要正派的国民才能不断被建构起来。</p>
+<p>（玉照，中国人民大学哲学院研究生，微思客WeThinker团队编辑）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%EF%BC%9F%E5%85%88%E6%9C%89%E7%88%B1%E5%9B%BD%E8%80%85%EF%BC%8C%E8%BF%98%E6%98%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">爱国宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%80%85/?category=18271" rel="tag">爱国者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E5%A3%AB%E9%92%8A/?category=18271" rel="tag">章士钊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E7%8B%AC%E7%A7%80/?category=18271" rel="tag">陈独秀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B8%9D%E7%8E%8B%E7%9A%84%E8%AF%97%E6%AD%8C%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E7%BE%8E%E6%84%9F/" target="cdt-mirror">平说｜九叔：帝王的诗歌为何没有美感</a>
 </h2>
 <p><p><strong>微信公号：平说（ID: iNews-）</strong></p>
@@ -214,7 +271,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">上海国际问题研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E8%BF%8E%E4%B8%BD/?category=18271" rel="tag">于迎丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429437/" target="cdt-mirror">【真理部】《于迎丽：美国威胁军事打击朝鲜是对华施压》</a>
 </h2>
@@ -649,47 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%A4%96%E8%B5%84%E7%BD%91%E7%BB%9C%E5%87%BA%E7%89%88%E4%B8%9A%E5%8A%A1-%E6%8B%85%E5%BF%A7%E6%94%BF%E5%B1%80%E4%B8%8D/" target="cdt-mirror">美国之音 | 中国禁止外资网络出版业务 担忧政局不稳</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/131348426.jpg?resize=450%2C451" alt="131348426" data-recalc-dims="1"></p>
-<p>中国政府星期天公布《网络出版管理规定》，严格禁止外国公司和在华合资单位从事“网络出版服务”。观察人士指出，中国不惜冒着外资撤资的风险实施这一禁令，显示出中国领导人对政局的担忧。</p>
-<p>中国国家新闻出版广电总局和工业和信息化部联合公布的这个新规定将从3月10号开始实施。新规定的第十条说，“中外合资经营、中外合作经营和外资经营的单位不得从事网络出版服务”， 其中包括直接出版网上文字、图片、地图、游戏、动漫和音视频读物。违者将予以查封和扣押。</p>
-<p>规定指出，从事网络出版服务，必须“依法经过出版行政主管部门批准，取得《网络出版服务许可证》”，而符合规定可以获得许可证的人“必须是在境内长久居住的具有完全行为能力的中国公民”，而且“相关服务器和存储设备必须存放在中华人民共和国境内”。</p>
-<p>这个新管理规定将取代2002年6月中国加入世贸组织后不久生效的《互联网出版管理暂行规定》。而根据现行规定，在中国境内有执照的外资和合资可以在网上出版作品。</p>
-<p>华盛顿智库加图研究所客座研究员夏业良说，中国这样做是倒退到毛时代，甚至是朝鲜化，只会起到适得其反的作用。夏业良说；“现在大家都知道，在中国上谷歌、脸书和推特等网站都要用翻墙软件，网络信息是很难封锁的。”</p>
-<p>夏业良说，中国的做法进一步提高了国外新闻出版单位进入中国的准入门槛。他说：“习近平上台3年来，不断收紧对言论的控制。西方媒体到北京工作得不到签证，中国以此来削弱西方媒体的影响力。”</p>
-<p>去年12月，中国在浙江乌镇举行第二届世界互联网大会，中国领导人习近平在会上说，要尊重各国网络主权，“尊重各国自主选择网络发展道路”和“网络管理模式”，“不干涉他国内政，不从事、纵容或支持危害他国国家安全的网络活动”。</p>
-<p>观察人士表示，显然监视互联网已成为中国国家安全工作的内容之一，成为中国的一项国策，在意料之中，可是如此严厉的规定却令人难以置信。</p>
-<p>美国公民力量创办人杨建利说：“中国不仅不愿看到自己不喜欢的政治信息，就连商业娱乐版都要禁止，让我感到惊讶，尤其是中国经济下行的时候，中国不惜冒外资撤资的风险，可见中国在政治上非常不稳。”</p>
-<p>此外，新规定还要求省、自治区、直辖市出版行政主管部门负责对各自行政区域内的网络出版服务单位进行一年一度的审查，并将有关情况报国家新闻出版广电总局备案。</p>
-<p><a href="http://tech.qq.com/a/20160214/029946.htm" target="_blank">规定全文</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%A4%96%E8%B5%84%E7%BD%91%E7%BB%9C%E5%87%BA%E7%89%88%E4%B8%9A%E5%8A%A1-%E6%8B%85%E5%BF%A7%E6%94%BF%E5%B1%80%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E8%B5%84/?category=18271" rel="tag">外资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88/?category=18271" rel="tag">新闻出版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%87%BA%E7%89%88/?category=18271" rel="tag">网络出版</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%85%A5%E5%88%97%E7%9C%8B%E9%BD%90%EF%BC%8C%E5%B0%B1%E5%87%BA%E5%88%97/" target="cdt-mirror">中国纪检监察报 | 不入列看齐 就出列</a>
-</h2>
-<p><p>“立正……向右看齐……”</p>
-<p>对于军人，这是一句再简单不过的口令，虽日日重复，可每次训练和行动又无不自此开始。入伍不用太长时间，看齐意识就会融入军人的血液，成为一种自觉。</p>
-<p>没有看齐意识，就如散兵游勇，军队就成了大卖场，不仅日常管理训练无法保证，不会秒米不差地走过天安门广场接受祖国和人民检阅，更不会在战场上以“战之必胜”的气概捍卫祖国和人民的利益。</p>
-<p>军人，天职是打仗；看齐，不分战争与和平。中央军委主席习近平、国务院总理李克强日前签署命令，授予武警山东省总队菏泽市支队成武县中队“基层建设模范中队”荣誉称号。这个只有44人的中队究竟做了什么，赢得了党中央国务院的认可，单独专门授予荣誉称号？是哪些特质，让他们赢得了“没有红军历史的红军连”的美誉？</p>
-<p>“成武中队的官兵只听党的话、跟党走，不会跟钱走。”总队政治部主任任延波的一席话，为我们揭开了谜底。“只听党的话、跟党走”，就是看齐，而且是比队列训练更高层次的看齐，是军人向党中央、中央军委看齐。</p>
-<p>军人强调看齐意识，全党同志也要有看齐意识，而最根本的就是要向党中央看齐，时时处处都要与党中央保持绝对一致，一级带一级，步调一致，形成合力。正如习近平总书记在中央政治局最近召开的专题民主生活会上指出的，“经常、主动向党中央看齐，向党的理论和路线方针政策看齐”，就可以使党员政治上站稳立场、思想上辨明方向、行动上令行禁止。</p>
-<p>1945年，毛泽东在党的七大预备会议上说：“要知道，一个队伍经常是不大整齐的，所以就要常常喊看齐，向左看齐，向右看齐，向中间看齐。我们要向中央基准看齐，向大会基准看齐。看齐是原则，有偏差是实际生活，有了偏差，就喊看齐。”党的十八大以来，从中央八项规定到群众路线教育实践活动再到纠“四风”，党中央每次都是以身作则、率先垂范。但一些党员干部包括不少高级别领导干部不是向中央看齐，而是“各吹各的号，各唱各的调”，放着阳关道不走偏爱独木桥，其结果便是吹跑了调、走岔了道。</p>
-<p>增强看齐意识，一靠自觉，二靠纪律。对于那些只是看齐口号喊得响，却“身在曹营心在汉”、甚至自己单列一行大搞“小团体”、“小圈子”的人，必须时刻警惕，及早发现，坚决惩处。“石油帮”、“秘书帮”已经覆灭，前车之覆，后车之鉴，好自为之。</p>
-<p>不入列看齐，就出列！（贾亮）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%85%A5%E5%88%97%E7%9C%8B%E9%BD%90%EF%BC%8C%E5%B0%B1%E5%87%BA%E5%88%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

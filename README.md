@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%8E%8B%E4%B8%B9%EF%BC%9A%E4%BB%8E%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%99%9A%E7%9C%8B%E5%A4%A7%E9%99%86%E7%9A%84%E6%97%A5%E5%B8%B8%E5%8F%8D%E6%8A%97/" target="cdt-mirror">自由亚洲 | 王丹：从中国春晚看大陆的“日常反抗”</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8811.11.57.png?resize=550%2C282" alt="Screen Shot 2016-02-18 at 上午11.11.57" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.11.57.png?resize=300%2C154 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.11.57.png?w=616 616w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>2016央视春晚（视频截图）</span></p>
+<p>1983年开始，每一年的除夕夜，中国的中央电视台都会举办“春节联欢晚会”（简称“春晚”），作为国家级的春节娱乐项目。春晚在八十年代，在中国人的文化生活中扮演了重要的角色。对于很多人来说，除夕夜吃饺子看春晚，已经成为过年的习惯，包括我父母在内。按照后人的评价：“它是让所有参与的人体验快乐的过程。它自然，轻松，欢快，并充满喜剧色彩”。1984年的春晚，开始引进港台艺人，台湾的黄阿原，陈思思，香港的奚秀兰，张明敏入选，使得收视率冲上新高。出现了全国同时看同一个节目的现象，春晚的影响力达到巅峰。</p>
+<p>然而，从90年代开始，春晚开始转型，承担过重的宣传功能，成为政府的传声筒，换句话说，就是要表达政府引导的主流文化，甚至去承担展示国家形象的功能。一台文艺晚会，成了国家进行政策宣传的平台。用《三联生活周刊》主笔王小峰的话说，“中央电视台春节联欢晚会是这样的一个东西：它用了20多年的努力，达到了和中国足球一样的境界—主要是供老百姓骂的。”</p>
+<p>而今年的春晚，可以说是彻底完成了王晓峰所调侃的“任务”，就是“给国人骂”。狂骂春晚成了当晚和次日中国网络上的主要话题。儘管网管们拼命删批评的帖子，但是潮水一样的恶评淹没了网络。主要原因是什麽呢？就是因为整台节目，充满了政策宣传的味道，不仅没有多少娱乐性，反而充满了对共产党的歌颂，连《没有共产党就没有新中国》这样的“文革”式样的歌曲都搬上了舞台。中国网民的反映之强烈，可以从网络上的一些调侃看出，例如：“这是春晚开播以来，革命性最强的一次，好多人以为唱红打黑到北京了”，“开始以为过十一（国庆），后来以为过八一（建军节），最后才知道是过七一（党庆）”，“以前是媚俗，现在是媚上”，等等。各种各样的段子充斥网络，在微信上四处流传，形成真正的全民运动。</p>
+<p>在中国的现实环境下，人民有不满，只能通过调侃的方式在网络上发洩。但是这一次的全民骂春晚运动，还是可以让我们看到背后的一些社会政治发展的涵义。</p>
+<p>政治学者詹姆斯。斯科特（James Scott）以研究前资本主义的农村社会出名，代表作是《弱者的武器》（Weapons of the Weak: Everyday Forms of Peasant Resistance）。在这本书中，他通过在马来西亚一个村庄为期十四个月的田野调查，提出了一个着名的关于底层抗争的概念，叫做“日常抵抗”他认为，阶级的反抗包括从属阶级成员所有如下行动：有意识地减少或拒绝上层社会（如地主，大农场主，国家）的要素（如租金，税款，声望）或提高自己对于上层建筑的要求（如工作，土地，慈善施捨，尊重等）。</p>
+<p>按照斯科特的说法，全民骂春晚运动，在我看来，就是典型的“日常反抗”。对于很多普通的中国人来说，明确的政治抗议太冒风险，甚至也远离他们的生活，但是春晚，就是生活本身。春晚的堕落和令人失望，直接侵犯到了他们的生活品质，就像雾霾一样。斯科特认为，儘管日常反抗的形式是个体在行动，但这并不意味着他们互相之间没有协同。一旦形成协同的行动，这样的日常反抗就是有意义的，而且有威力的。对于中国的个桉来说，现在的“日常反抗”还是处于“个体行动”的阶段，但是经由网络的串联，协同其实是很容易形成的，这样的协同一旦形成，就将成为对中共的政治挑战。</p>
+<p>总之，政治性的反抗现在在中国确实少见，但是，非政治性的“日常反抗”却已经铺天盖地展开，这一次春晚被国人骂翻，告诉了我们，在中国，政府与社会之间，已经出现断层。为政者所作所为，完全不顾民意，恐怕也不了解民意。</p>
+<p>一场春晚，其实揭示了中国未来真正的危机。以上，是自由亚洲电台特约评论员王丹为您做的评论。</p>
+<p>(文章仅代表特约评论员个人立场和观点）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%8E%8B%E4%B8%B9%EF%BC%9A%E4%BB%8E%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%99%9A%E7%9C%8B%E5%A4%A7%E9%99%86%E7%9A%84%E6%97%A5%E5%B8%B8%E5%8F%8D%E6%8A%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%98%A5%E6%99%9A/?category=18271" rel="tag">2016春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%B4%E5%B9%B4%E6%98%A5%E6%99%9A/?category=18271" rel="tag">猴年春晚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%B4%E5%B9%B4%E6%98%A5%E8%8A%82/?category=18271" rel="tag">猴年春节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%B8%B9/?category=18271" rel="tag">王丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E5%AE%B6%E4%BA%BA%E3%80%81%E6%98%A5%E6%99%9A%E5%9B%9B%E4%B8%AA%E5%85%A8%E9%9D%A2%E7%AD%89%E7%83%AD/" target="cdt-mirror">【敏感词库】2016春晚专辑（二）、“鱼蛋革命”等热点 2016-2-17</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?resize=500%2C334" alt="赵国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/12/CXNsgiMUoAA5REN.jpg?w=599 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><br><em>图片作者：变态辣椒</em></p>
@@ -583,60 +603,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B8%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/429342/" target="cdt-mirror">李俊慧：“网络新闻管理新规”征集意见结束，六大要点值得关注</a>
-</h2>
-<p><p><strong>微信公号：编辑网（ID：bianjiwang）</strong></p>
-<p>“2月15日。”</p>
-<p>这是网络新闻管理新规——《互联网新闻信息服务管理规定（修订征求意见稿）》面向社会公开征求意见的截止时间。</p>
-<p>全文5871字、共六章50条的《互联网新闻信息服务管理规定（修订征求意见稿）》（以下简称“网络新闻管理新规”）虽名为“修订”，但更似“重新制定”。</p>
-<p>目前施行的《互联网新闻信息服务管理规定》最早于2005年由国务院新闻办公室、信息产业部联合制定，迄今已有10多年之久。</p>
-<p>从互联网新闻信息服务内容或形式来看，过去的十多年互联网新闻信息服务经历了高速和颠覆式发展，从新闻门户到博客、微博及公众号，互联网新闻服务业态对传统新闻业态造成了巨大的冲击。</p>
-<p><strong>那么，为什么说即将结束公众意见征求的“网络新闻管理新规”虽名为“修订”但胜似“重定”？网络新闻管理新规又有哪些要点值得关注？</strong></p>
-<h3>要点一：章节数量不变但条款增加51%</h3>
-<p>2005年由国务院新闻办公室、信息产业部联合制定的《互联网新闻信息服务管理规定》，全文共计六章33条5661字，如今征求意见中的“网络新闻管理新规”则为六章50条5871字。</p>
-<p>从篇幅上来看，“网络新闻管理新规”文字量仅增加不足3%，但是，从条款量来看，则较之前增加了51%。</p>
-<h3>要点二：由联合规章变单部门部规章</h3>
-<p>2005年版的《互联网新闻信息服务管理规定》由当时的国务院新闻办公室、信息产业部联合制定，从法律属性上看，属于联合规章。反映在内容上，也有涉及到两个部门之间相互协调的规定。</p>
-<p>现在征求意见的“网络新闻管理新规”，在<strong>内容行文中已经没有与“电信部门”相关的内容或条款</strong>，所涉管理部门只有国家及各地“互联网信息办公室”。</p>
-<p><strong>这意味着，当年这部联合规章未来可能会变成单部门规章。而造成这种变化的原因在于，国家对互联网管理的职权分工做了调整。</strong>此前，国内互联网管理主要由信息产业部（现工业和信息化部）牵头，而根据《国务院授权网信办负责互联网信息管理及监督执法工作》(国发〔2014〕33号)的规定，“国家互联网信息办公室 负责全国互联网信息内容管理工作，并负责监督管理执法”。</p>
-<h3>要点三：规章制定依据有了一些变更</h3>
-<p>2005年版的《互联网新闻信息服务管理规定》制定依据或上位法是国务院制定的行政法规《互联网信息服务管理办法》，如今，“网络新闻管理新规”的制定依据或上位法，除去前者外，还增加了《全国人民代表大会常务委员会关于加强网络信息保护的决定》。</p>
-<p>根据《全国人民代表大会常务委员会关于加强网络信息保护的决定》，“网络服务提供者应当加强对其用户发布的信息的管理，<strong>发现法律、法规禁止发布或者传输的信息的，应当立即停止传输该信息，采取消除等处置措施</strong>，保存有关记录，并向有关主管部门报告。”、“网络服务提供者为用户提供信息发布服务，应当在与用户签订协议或者确认提供服务时，<strong>要求用户提供真实身份信息</strong>。”</p>
-<p>反映在规章条款或内容上，主要是针对“有害内容”的管控和处置机制以及用户实名制管理。</p>
-<h3>要点四：互联网新闻许可范围大幅扩充</h3>
-<p>“网络新闻管理新规”第六条规定，“通过<strong>互联网站、应用程序、论坛、博客、微博客、即时通信工具、搜索引擎</strong>以及<strong>其他具有</strong>新闻舆论或社会动员<strong>功能的应用</strong>向社会公众提供新闻信息采编发布、转载服务，以及<strong>提供新闻信息发布平台服务”，需要取得“互联网新闻信息服务许可”</strong>。</p>
-<p>根据此规定，通过APP、博客、微博、QQ、微信、搜索等平台提供“时政类新闻信息”（互联网新闻信息）发布或转载以及为相应主体提供信息发布平台服务的，均需取得“互联网新闻信息服务许可”，<strong>否则，将会被“责令停止相关服务活动”且“可并处一万元以上三万元以下罚款。”</strong></p>
-<p>换言之，<strong>根据此要求，包括搜狐、新浪、腾讯以及今日头条、一点资讯等在内的各类新闻客户端，如果不取得“互联网新闻信息服务许可”，要么不再发布或转载“互联网新闻信息”，要么将面临主管部门的处罚。</strong></p>
-<h3>要点五：互联网新闻信息服务条件细化</h3>
-<p>“网络新闻管理新规”第七条规定，申请提供互联网新闻信息服务，应当具备下列条件：</p>
-<p>（一）主要负责人、总编辑是<strong>中国公民</strong>；</p>
-<p>（二）有完备的服务方案；</p>
-<p>（三）有健全的信息安全管理制度和技术保障措施；</p>
-<p>（四）有与服务相适应的<strong>专职新闻编辑人员、新闻审核人员和技术保障人员</strong>；</p>
-<p>（五）有与服务相适应的场所、设施和资金。</p>
-<p>申请提供互联网新闻信息采编发布服务的，应当是新闻单位，或者其控股方、主管单位是新闻宣传单位。</p>
-<p>申请提供互联网新闻信息转载或者发布平台服务的，应当是依法设立二年以上的从事互联网信息服务的法人，并在最近一年内没有因违反互联网信息服务管理规定受到行政处罚。</p>
-<p>较2005年版的《互联网新闻信息服务管理规定》相比，<strong>“网络新闻管理新规”对“主要负责人、总编辑”条件以及“编辑、审核及技术”等专职人员设置均提出了明确要求。</strong></p>
-<h3>要点六：明确总编负责制、内容管理制等多重机制</h3>
-<p><strong>总编负责制。</strong>“网络新闻管理新规”第十七条明确要求“互联网新闻信息服务提供者应当建立总编辑负责制，设立总编辑，总编辑对互联网新闻信息内容负总责。”</p>
-<p><strong>内容管理制。</strong>“网络新闻管理新规”第十八条明确要求“互联网新闻信息服务提供者应当建立健全信息发布审核、公共信息实时巡查、应急处置等信息安全管理制度，采取安全防范措施。”</p>
-<p><strong>用户实名制。</strong>“网络新闻管理新规”第十九条明确要求“互联网新闻信息服务提供者提供新闻信息发布平台服务的，应当与在其平台上注册账号的使用者签订协议，明确双方权利义务。”</p>
-<p><strong>公众号备案制。</strong>“网络新闻管理新规”第十九条明确要求“平台使用者为从事向公众提供新闻信息服务活动开设公众账号的，互联网新闻信息服务提供者应当予以审核，并向当地省、自治区、直辖市互联网信息办公室分类备案。”</p>
-<p><strong>投诉举报制。</strong>“网络新闻管理新规”第二十条要求“互联网新闻信息服务提供者应当建立公众投诉、举报制度，接受投诉、举报。互联网新闻信息服务提供者应当及时处理公民、法人和其他组织的投诉、举报，并反馈处置结果。”</p>
-<p>此外，对于互联网新闻信息服务提供者转载新闻信息时，<strong>对标题修改提出了要求，明确“不得歪曲、篡改标题”</strong>，此外，对于互联网新闻信息服务提供者及其从业人员，<strong>明确要求“不得通过采编、发布、转载、删除新闻信息，干预搜索结果，干预发布平台呈现结果等手段谋取不正当利益。”</strong></p>
-<p><strong>从某种程度来说，“网络新闻管理新规”较之前“专车新规”相比，影响范围更广、牵涉主体更多，但是，并未像“专车新规”那样引起广泛关注或争议。</strong></p>
-<p>究其原因可能有二，首先，互联网新闻管理已有十多年之久，<strong>管理对象可能对管理“习以为常”</strong>；其次，互联网新闻信息服务对民间资本、外资进入有着严格的限定，<strong>不像专车领域各类资本“聚集扎堆”，投机博弈氛围浓厚</strong>。</p>
-<p>当然，如果按照此前部分反对“专车新规”专家或媒体的观点或逻辑，“网络新闻管理新规”大幅拓宽“互联网新闻信息服务许可”范围，与“专车新规”将“网络预约出租车”纳入出租车管理，似乎都存在违反上位法之嫌。</p>
-<p><strong>不过，当初那些反对“专车新规”专家或媒体此刻似乎都选择了“视而不见”，而这也是值得玩味的现象之一。</strong></p>
-<p>(中国政法大学知识产权研究中心特约研究员李俊慧，首发iDoNews专栏，长期关注互联网、知识产权及电子商务等相关政策、法律及监管问题。邮箱：lijunhui0602#163.com，微信号：lijunhui0602，微信公号：lijunhui0507)</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/429342/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">互联网管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E7%AE%A1%E7%90%86/?category=18271" rel="tag">互联网管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%AE%A1%E5%8A%9E/?category=18271" rel="tag">网管办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">网络实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -648,7 +614,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -658,5 +624,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

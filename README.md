@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,167 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B8%9D%E7%8E%8B%E7%9A%84%E8%AF%97%E6%AD%8C%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E7%BE%8E%E6%84%9F/" target="cdt-mirror">平说｜九叔：帝王的诗歌为何没有美感</a>
+</h2>
+<p><p><strong>微信公号：平说（ID: iNews-）</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%9D%E7%8E%8B.jpg" rel="attachment wp-att-429495"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%9D%E7%8E%8B.jpg?resize=550%2C367" alt="帝王" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/帝王.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/帝王.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>近日读徐晋如教授的《大学诗词写作教程》，有个观点颇有同感。</p>
+<p>徐在总论中谈及胸襟气度，说要提防两种可怕的倾向，其中之一就是专制主义倾向。大意为——</p>
+<blockquote><p><em>诗的本质是自由的，但专制倾向的诗是反自由的，所体现的是极权者的心声……这类诗，大多会选择宏大的、貌似崇高的意象，乍一看真是气势非凡，领袖、帝王风范，实则是一种蛮横至极的伪崇高。</em></p>
+<p><em>崇高感只能来自于个体生命意志对命运的反抗，以及对人类的终极悲悯，像美狄亚、普罗米修斯、俄狄浦斯、屈原；而这些诗，却表现的是一种君临天下的帝王心态，它是要凌驾于一切世人之上的反自由的宣言书，是“先做救世主，再做人上人”式的伪崇高。</em></p></blockquote>
+<p>徐以黄巢、赵匡胤、朱元璋的几首诗为例：待到秋来九月八，我花开后百花杀。冲天香阵透长安，满城尽带黄金甲。</p>
+<p>此乃黄巢的咏菊诗，当然意不在菊。徐评道：残酷的战争、涂炭的生灵，在黄巢眼中，竟有了“满城尽带黄金甲”的美感。这是对暴力和残忍的礼赞，任何热爱人类、热爱和平的人，都是不能认同这种所谓的“暴力美学”的。</p>
+<p>“未离海底千山黑，才到天中万国明。”此句乃赵匡胤的咏月诗。徐认为诗中所体现的是一种救世主式的帝王心态，自己拥有至高无上的权力，而臣民则只能沐浴在他的光芒之下。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg" rel="attachment wp-att-429492"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg?resize=550%2C367" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p><em>鸡叫一声撅一撅，</em><em>鸡叫两声撅两撅。</em></p>
+<p><em>三声唤出扶桑来，</em><em>扫尽残星与淡月。</em></p></blockquote>
+<p>这是朱元璋的诗，不少粗鄙之人认为虽然是打油诗，但后两句气势磅礴、唯我独尊。徐则认为此诗很好体现了帝王心态——比赵匡胤诗更加残暴冷酷，唤出来的“扶桑”显然就是朱元璋本人，要“扫尽残星与淡月”，消灭一切胆敢忤逆天威之人。就施政而言，真可谓政如其诗。</p>
+<p>最后概括下徐的观点：之所以这种反自由的诗不具审美价值，是由于其不以真情、悲悯动人，却以所谓的“气魄”、“霸气”——也就是绝对权力的体现——去压服人，是一种伪崇高。</p>
+<p><strong>诗无尊卑，情有高下</strong></p>
+<p>诗词到底是文学范畴，但其中却会流露出价值取向，这种价值取向会对诗词的美感构成影响。或许有人会问，强调“反自由的诗歌不具审美价值”，是不是用意识形态压人呢？显然非也，情怀的高下也是诗歌美感的重要评判标准，写诗是一定要有情怀的，做手机搞情怀营销会被人嘲笑不务实，写诗若无情怀那还写个什么劲。</p>
+<p>当然，我们首先要理解古人，生活在当时的环境中，不可能要求他们遵循自由主义的政治观念。因此，自由主义者读到这些忠君爱国的词句，大可不必光火。但是，有一些情感是古今中外、不管持何种政治观点的诗人所共通的，在没有现代价值体系的情况下，照样有是非，有善恶，有高下。</p>
+<p>真正的诗人，即便其政治观点在今人看来是错的，论及政治，都应起码尊重人性，有同情、有悲悯。毕竟，文学不是政治学，不是经济学，只需要体现最初的情感，而高下就蕴含在这简单的初衷中。</p>
+<p>见到农户家贫，李白的感受是“令人惭漂母，三谢不能餐”，这就是一个诗人的情怀，至于农户为何家贫，李白不是经济学家，也可能会得出错误的判断，那不重要，我们不会如此去要求他，要的只是情感传达的真切。</p>
+<p>同样面对大风，诗人杜甫咏出的是“安得广厦千万间，大庇天下寒士俱欢颜，风雨不动安如山”，体现的是推己及人、为苍生诉苦的悲悯；而皇帝刘邦则是“大风起兮云飞扬，威加海内兮归故乡，安得猛士兮守四方”，体现的是帝王出巡，威震四海的自得，至于最后的求贤则是要奴役众人，为自家天下看守门户。两种情怀之高下，对比明显。</p>
+<p>几乎所有刚接触诗词的中学人大多更喜欢李白，而不喜欢杜甫。这种现象可以理解，杜诗政治气息太浓，现代人会觉得其中散发一股腐儒味，相比之下，李诗则潇洒俊逸。</p>
+<p>就如上文所言，我们无法全盘用现代价值体系对评判诗人，而要代之以现代价值观缺失情况下的是非善恶，就此而言，杜甫“诗圣”之名当之无愧。</p>
+<p>毫无疑问，杜甫是忠君爱国的，但这种古代的主流价值取向丝毫不折损杜诗的价值，杜甫同时是一个真诚的人。他希望“北极朝庭终不改，西山寇盗莫相侵”，同时也忠实记录下一切，包括号称盛世下的“朱门酒肉臭，路有冻死骨”，他痛恨安史叛军，也痛恨朝廷在石壕村的恶行。</p>
+<p>这种真诚的品质，加上悲天悯人的情怀，加上杜甫天才的工笔匠心，才得以淬炼出杜诗的伟大。</p>
+<p>当然，杜诗之精深上文能概括到的万不及一，今天只略说情怀，希望能改变一些人对杜诗的刻板成见。尽管杜甫的价值观是被官方认可的忠君爱国，但悲悯情怀灌注其中的杜诗显然不是狭隘的唯我独尊的帝王诗作所能比拟的。恶人作诗，多以所谓气势唬人，其实徒有其表而已。</p>
+<p>综上，读诗的关键在于，切忌以今人之价值观要求诗人，又必须以诗人之应有情怀要求诗人，其中奥妙，便在上文。</p>
+<p><strong>独夫之诗工巧不足，才以所谓气势取巧</strong></p>
+<p>上文说过，恶人作诗，多以所谓的气势唬人，其实徒有其表。“鸡叫一声撅一撅，鸡叫两声撅两撅”，这等句子之粗劣可归入打油诗之行列，唯有“扫尽群星与残月”忽然强作威势，加之作者又是开国帝王，立刻唬得一些人抓住这句大做文章，仿佛真有了所谓的“帝王霸气”。</p>
+<p>这样的诗句，略懂诗歌之人都能看出其是工巧不足，强作宏大意象来取巧，丝毫看不出所谓的“气势”。连这等诗句都能强品出“气”的，怕是自己的奴气使然吧。</p>
+<p>且不说这等诗作所体现的“气势”虚伪做作，毫无美感，就职业诗人而言，如果真的追求此等“气势”即可哗众取宠，日赋万言也不在话下。真的讲究气势的话，诗人随手一笔都能让帝王的伪气势黯然失色。</p>
+<p>杜甫的“落日照大旗，马鸣风萧萧”、“造化钟神秀，阴阳割昏晓”如何？李白的“登高壮观天地间，大江茫茫去不还。黄云万里动风色，白波九道流雪山”如何？其精工，其气势，皆不知道比那些粗劣的“扫尽群星与残月”高到哪里去了。</p>
+<p>不过，同是伪气概的帝王之诗，也有个高下之分。黄巢咏菊，赵匡胤咏月，也算是粗通文墨之辈偶然提笔，作一首略显蹩脚的拼凑之诗，而朱元璋的所谓诗只可算打油之作。朱是乞丐出身，登基后亦知自己为“淮右布衣”，作诗是斯文之举，后世则有人被一干阿谀之徒捧得晕了，真以为自己独步古今，连粗鄙骂人之语都入词了。说这东西叫诗词，实在亵渎语言。</p>
+<p>有种更蹩脚的辩护词是，你要理解人家皇帝啊，日理万机、偶发诗兴，遣词造句自然比不得专业诗人。这种意见真是为皇帝操碎了心。既然作的是诗，就必须从诗的角度评判。无水平就是无水平，无美感就是无美感，自己承认就是，又何必强作大语，弄出所谓的“气势”说来辩护？</p>
+<p>皇帝就写不出好诗吗？非也，南唐李后主，亦是公认的一代词宗，真情所至即可。我们只论为文，不论为政的话，皇帝和常人并没什么不同，把自己定位为诗人，一样可以写出好诗。</p>
+<p>可惜的是多数专制帝王明明文采不足，却非要以文士自居，弄一些不伦不类的东西出来，抒发一些本应令人作呕的唯我独尊、鞭笞天下的情感气概，还有一众奴性十足之辈从中品出了帝王豪气，真是奇观。</p>
+<p>白居易去世后，唐宣宗曾作七律悼念——</p>
+<blockquote><p><em>缀玉联珠六十年，谁教冥路作诗仙。</em></p>
+<p><em>浮云不系名居易，造化无为字乐天。</em></p>
+<p><em>童子解吟长恨曲，胡儿能唱琵琶篇。</em></p>
+<p><em>文章已满行人耳，一度思卿一怆然。</em></p></blockquote>
+<p>算不得好诗，但起码中规中矩，有情有感，有几分才气发几分胸襟。宣宗写诗如此，为政也温和。后世帝王逢开国将帅辞世，亦有做悼诗者，直叹“国有疑难可问谁”，虽全诗与宣宗之句全无可比，这最后一叹倒是真诚。此帅向来为其器重，以政工见长。</p>
+<p>回望满朝文武，竟无一可信者，弄得杀将易储、血雨腥风，真的成了孤家寡人，叹一句“国有疑难可问谁”可谓直抒胸臆。</p>
+<p>当然，古人毕竟脸皮薄，虽然暴君也偶尔作诗，但再刚愎自用的皇帝也知道自己笔下的这些东西上不得台面，不会以天才、诗人自居，更不会把这些玩意充入教材化作考试范围，逼学生记诵，这大概是他们比后世独夫略强之处。</p>
+<p><strong>暴力美学及边塞诗</strong></p>
+<p>以伪气概取巧的帝王之诗，之所以能唬一部分人，还在于其多体现出一种所谓的暴力美学（当然，能写出暴力美的，在此类诗歌中已经算是好的了），如黄巢之“待到秋来九月八，我花开后百花杀。冲天香阵透长安，满城尽带黄金甲”。</p>
+<p>记得小学时初学此诗，老师盛赞此诗体现了农民起义军领袖乐观向上的革命精神和对腐朽的唐王朝的蔑视，而1993年上海辞书出版社的《唐诗鉴赏辞典》则如此评价：</p>
+<blockquote><p><em>艺术想象和联想是要受到作者世界观和生活实践的制约的。没有黄巢那样的革命抱负、战斗性格，就不可能有“我花开后百花杀”这样的奇语和“满城尽带黄金甲”这样的奇想。把菊花和带甲的战士联结在一起，赋予它一种战斗的美，这只能来自战斗的生活实践。</em></p></blockquote>
+<p>稍懂历史即可知，唐末的黄巢起义是何等残暴，生灵涂炭、血流漂杵的场景在某些人看来竟然有了美感，就如群体狂热时期的纳粹帝国，崇拜军人，在军乐的伴奏下观看整齐的军阵能让人狂热到迷失自我，以至于人人觉得理想当然，却没有人能反思一下，所谓帝国国防军党卫队，不就是有组织有效率的杀人机器么，说这东西有美感，真令人毛骨悚然。</p>
+<p>言兵不祥，在这里我要先说一句任性的话，凡是崇尚所谓暴力美学的，都是变态。比如看到整齐的军阵、听到高呼的口号就热血沸腾，慨叹帝国荣光的，都潜意识里是国家机器的崇拜者。</p>
+<p>正常人看到国家机器夸耀武力，即便是瑟瑟发抖，也不该抱有好感、欣赏之态度。</p>
+<p>据说爱因斯坦少年时观看阅兵，竟然难过地哭了，真乃天才之直觉也，后来他在回忆录里写道：</p>
+<blockquote><p><em>讲到这里，我想起了群众生活中最坏的一种表现，那就是使我厌恶的军事制度。一个人能够洋洋得意的随着军乐队在四列纵队里行进，单凭这一点就足以使我对他鄙夷不屑。他所以长了一个大脑，只是出于误会；光是骨髓就可满足他的全部需要了。文明的这种罪恶的渊薮，应当尽快加以消灭。</em></p>
+<p><em>任人支配的英雄主义、冷酷无情的暴行，以及在爱国主义名义下的一切可恶的胡闹，所有这些都使我深恶痛绝！在我看来，战争是多么卑鄙、下流！我宁愿被千刀万剐，也不愿参与这种可憎的勾当。</em></p></blockquote>
+<p>说到暴力美学，不得不提一下边塞诗。我知道上文写了这么多带鲜明价值取向，否定暴力美学的东西，会有人质问我，将成就卓著的边塞诗置于何地？</p>
+<p>首先要说一点，边塞诗所体现的并非暴力美学。事实上，也没有几首边塞诗是歌颂战争的。一方面，边塞诗的文字功夫并非粗鄙的帝王之诗所能比的，另一方面，其透露出的胸襟、思想，也绝不是对战争的偏好、对杀戮的热爱。第一个方面自不必说，这里着重说下第二方面。</p>
+<p>边塞诗中给人留下印象最深的除了对军营生活的描述，最多的就是征人思家、思妇了，这类题材可以说是多如牛毛，但并不让人审美疲劳，诗人也是总能写出新意。之所以这样，因为对身在军中的人来说，行军打仗本来就不是一件愉快的事，在荒寒之地心中悲苦、想家本来就是最真切的感受。而且，真能写好边塞诗的诗人，也都有真切的军旅生涯体验，这些出生入死过的文人将帅，想必也不会觉得打仗有什么美感、乐趣。</p>
+<p>高适是边塞诗家中的代表，《燕歌行》又是其代表作，很好体现了古代边塞诗的特点。“摐金伐鼓下榆关，旌旆逶迤碣石间。校尉羽书飞瀚海，单于猎火照狼山”，例行公事一般地描绘前线；“战士军前半死生，美人帐下犹歌舞”，军中也有大老虎，兵仔们虽然列起阵来、作为国家机器的一部分令人瑟瑟发抖，但具体到个人，也只能是前线炮灰，以至于“孤城落日斗兵稀”却“力尽关山未解围”。</p>
+<p>“铁衣远戍辛勤久，玉箸应啼别离后。少妇城南欲断肠，征人蓟北空回首”，此四句在边塞诗中也是例行公事一般，征人思妇，怨女思夫；最后“君不见沙场征战苦，至今犹忆李将军”，还是那句话，“相看白刃血纷纷”的互相仇杀难言乐趣，更难言美感。</p>
+<p>职业军人或许有不同看法，但也不得不承认战争本身的残酷，如罗伯特 · 李 将军所言：“幸好战争是如此骇人，否则我们会打到乐此不疲。”</p>
+<p>范仲淹的《渔家傲》亦是边塞诗词中的精品与代表，其场景、情绪的描绘穿越千年而毫不失色，这首词想必多数人小学就会背，这里不细说，不妨贴出来自行品味：</p>
+<blockquote><p><em>塞下秋来风景异，</em><em>衡阳雁去无留意</em></p>
+<p><em>四面边声连角起，</em><em>千嶂里</em></p>
+<p><em>长烟落日孤城闭</em></p>
+<p><em>浊酒一杯家万里，</em><em>燕然未勒归无计</em></p>
+<p><em>羌管悠悠霜满地，</em><em>人不寐</em></p>
+<p><em>将军白发征夫泪</em></p></blockquote>
+<p>20世纪以来的战争多是民族主义情结所致，这一点和古代不同。古人也讲究师出有名，但写诗不是写檄文，更多的是真实场景与情感的记述，而不是我方如何正义、敌方如何凶恶，因而很少能从边塞诗里读出崇高、正义、使命感。</p>
+<p>相反，厌战情绪充斥其间，这类例子实在太多了，即便抱有浓厚忠君爱国思想的杜甫，也对征兵打仗深恶痛绝，杜诗的伟大正由于其悲悯与诚实，《兵车行》则直言“边庭流血成海水，武皇开边意未已。”</p>
+<p>另一重要诗人李颀也说：“闻道玉门犹被遮，应将性命逐轻车。年年战骨埋荒外，空见蒲桃入汉家。”</p>
+<p>值得一提的是，即便是到了刀兵相见的程度，即便是诗人亦持忠君爱国之价值观，也很少从其诗中读出对另一方的仇恨，如李颀说：“胡雁哀鸣夜夜飞，胡儿眼泪双双落”，这一点和对异族食肉寝皮的民族英雄岳飞不同，“壮志饥餐胡虏肉，笑谈渴饮匈奴血”，这样让人毛骨悚然的句子并不多见。</p>
+<p>不管怎么说，沾了军阵，就沾了几分血腥气，但能写诗的毕竟还是文士，并没有多少杀戮的戾气。</p>
+<p>大家当中，最有暴力美学嫌疑，善写军阵、颂军威的要数岑参，如送封大夫出征的两首诗皆壮阔豪迈、一往无前，尤其是“四边伐鼓雪海涌，三军大呼阴山动”二句，确实用笔雄健。帝王面对军阵，想必也是洋洋自得，只是缺了岑参的才气。</p>
+<p>因此在我看来，论才气，论场景刻画，岑参是要强过高适的，《白雪歌》一诗写营中送别，还是以送别为主，只是场景设在军营，与价值观、胸襟气度无涉，可谓岑诗中的佳品。然而论胸襟气度，两首《送封大夫出征》就比《燕歌行》差了一个档次。</p>
+<p>在古代，帝王是军队的主人，然而有直接统兵作战经历的帝王较少，所以帝王诗词倒较少涉及军阵，不然想必其唯我独尊的架势会更上一个层次。</p>
+<p>中国的皇权专制自秦始皇始，此公扫灭六国、鞭笞天下，死后还要拉无数兵俑陪葬，可见这位专制暴君对暴力美学的偏好，只可惜秦皇汉武略输文采，不会作诗，不然想必会为本文的分析主题添加不少案例。</p>
+<p>始皇帝生前风光无限，死后也列阵地宫依然让人感到专制机器的森森寒意，然而其毕竟年代久远，比起后世能人去尸存，阳兵护冢的威势来还是逊了数筹。当代诗家何永沂参观西安的秦兵马俑，不禁感叹——</p>
+<p>死去依然大帝皇，阴间列阵凛冰霜。秦公终乏存尸术，徒羡阳兵护冢堂。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B8%9D%E7%8E%8B%E7%9A%84%E8%AF%97%E6%AD%8C%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E7%BE%8E%E6%84%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">创作自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%91%8A%E8%AF%89%E4%BD%A02016%E5%A6%82%E4%BD%95%E8%BF%87%E5%A4%A7%E5%85%B3/" target="cdt-mirror">【习总日记】 习总告诉你2016如何过大关</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，2，17）</p>
+<p>一</p>
+<p>近日有人在网络上妄议：2016，习近平过大关。说我在2016年面临过大关，经济危机是小关，政治危机才是大关。说各级领导干部从“坐等出事”到“坐盼出事”，总的来说就是希望我早日滚蛋，希望我向华国锋学习，或像胡耀邦赵紫阳一样，从总书记位置上滚蛋。说2016年有两根导火索，一不留神便会导致政治危机爆发：一是文革五十周年纪念，一是中共十九大人事布局。</p>
+<p>今年是文革开始五十周年结束四十周年。我已指示一律不准举办任何形式的活动，官方不允许，体制外更不允许。当然，到时新华社会发表一篇官方社论，讲一些大道理引领舆论方向。</p>
+<p>关于爱情，说穿了就是发花痴；关于文革，说穿了就是发癫疯，怎么可以允许随随便便讨论研究？文革结束后，改革开放时，讨论文革一段时期内，伤痕文学创作，真理标准讨论，因那个时期人民还朦朦胧胧觉悟不高，并没有把矛头明确对准我党。现在可不行。“六四”一声枪响，给中国人民带来了反马克思主义。所以现在的政策和策略是严禁讨论。说白了就是往导火索上浇水，不让你着还不行吗？</p>
+<p>至于十九大人事布局，我倾向于拖。以拖待死，等待老家伙们死亡，尤其是老江。等他们死了，我的话语权决定权就相对要大很多。所以，十九大会延后进行，至少延后一年。若按时召开，说明我又被人牵着鼻走。你们只要看见我哭丧着脸，就可以知道我在党中央权力斗争中的比赛成绩了。</p>
+<p>二</p>
+<p>台湾大选时，黄安周子瑜事件发酵，为民进党大胜助了一臂之力。2月15日，上海国际问题研究院亚太研究中心助理研究员于迎丽在凤凰网《凤凰全球连线》节目中接受有关美国军事威胁打击朝鲜问题时竟然扬言：“其实我们中国也完全可以考虑把台湾问题跟朝核问题可以联系起来看，如果说美国不排除用军事手段来解决朝核问题，那么我们其实在台海问题上面的一贯立场就是我们从来也没有排除过武力手段。”此话等同于：你若犯朝，我也可以犯台。</p>
+<p>气得我立即把王沪宁叫来：“复旦大学就培养出这样的人才？”</p>
+<p>晚上气未消，嘟哝道：“山东人脑袋少根筋。”话刚落音，“啪”地一声，挨了一巴掌。</p>
+<p>三</p>
+<p>美国参众两院日前通过由共和党籍议员总统参选人克鲁兹提出的议案，以诺贝尔和平奖得主中国异见人士刘晓波为首都华盛顿一个广场命名，地点位于中国大使馆门前。若美国政府批准，中国大使馆的地址也将改为“刘晓波广场1号”。</p>
+<p>有意思吗？很好玩是吧？长不大你们。</p>
+<p>我要向美国人民喊话，你们选出来的政治精英们，就这水平，用更改路名的方式寒碜我们，伤害中国人民的感情。你们知道中国人民闻讯后多伤心吗？有一位朝阳区大妈哭着问，今后我们跳广场舞，是不是也要改名为“刘晓波广场舞”？</p>
+<p>看把她们气得，神志都不清了。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/021716.jpg?resize=549%2C350" alt="021716" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/021716.jpg?resize=300%2C191 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/021716.jpg?w=583 583w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%91%8A%E8%AF%89%E4%BD%A02016%E5%A6%82%E4%BD%95%E8%BF%87%E5%A4%A7%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8D%81%E4%B9%9D%E5%A4%A7/?category=18271" rel="tag">中共十九大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E8%BF%8E%E4%B8%BD/?category=18271" rel="tag">于迎丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2%E5%B9%BF%E5%9C%BA/?category=18271" rel="tag">刘晓波广场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%8E%B7%E5%87%86%E6%8E%A2%E7%9B%91-%E7%94%9F%E6%B4%BB%E8%B4%B9%E9%81%AD%E5%81%9C%E5%8F%91%E5%AE%B6%E4%BA%BA%E7%94%9F/" target="cdt-mirror">自由亚洲｜伊力哈木获准探监 生活费遭停发家人生活窘迫</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-2.jpg" rel="attachment wp-att-429473"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-2.jpg?resize=425%2C570" alt="胡佳到伊力哈木家探访两个孩子。（胡佳提供/记者乔龙）" data-recalc-dims="1"></a><p>胡佳到伊力哈木家探访两个孩子。（胡佳提供/记者乔龙）</p></div>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2014/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A885%E4%B8%87%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0/">自由亚洲 | 伊力哈木85万银行存款被转走</a></p></blockquote>
+<p>被新疆自治区法院判处无期徒刑的维族良心犯伊力哈木•土赫提的家属将于本周抵达乌鲁木齐探监。伊利哈木的妻子古再努尔向本台表示，伊力哈木的二哥将于18日抵达乌鲁木齐，并于两天内探望她的丈夫。另外，自伊力哈木被判刑后，他的两个孩子每月原有的两千元生活补助被取消。现在一家三口只能依靠古再努儿约3500元的工资维持生活。</p>
+<p>维吾尔族学者伊力哈木•土赫提2014年10月被新疆法院以“分裂国家罪”判处无期徒刑，现被羁押在新疆第一监狱。其在北京的妻子古再努尔2月17日对记者说，伊力哈木的二哥将于18日到乌鲁木齐探监：“现在准备去看，准备明后天到乌鲁木齐。第三次了”。</p>
+<p>古再努尔：我本来要去的，因为我寒假身体不舒服。他（伊力哈木）的父母亲和哥哥说，这一次他们去，下一次，可能我自己去。</p>
+<p>记者：明天就是他（伊力哈木）的哥去？</p>
+<p>回答：他的父母生病了，去不了。他的哥去。</p>
+<p>她介绍说，伊力哈木被单独羁押，每两周做一次体检，不需要劳动，平时可以看书。但监狱对伊力哈木与家人会面有严厉的要求，必须隔三个月才能与家人会面，每次30分钟。去年夏天，古再努儿曾带着两个孩子到乌鲁木齐探监。为了避免孩子过渡牵挂，同时节省路费，古再努儿每年会带两个孩子去新疆监狱探监一次。</p>
+<p>她说：“一年就去一次吧，不然孩子看完父亲，他们心里也难受。上次我们9月份回来，他们心情也不好。老想着爸爸。寒假去也冷，我就带着两个孩子”。</p>
+<p>伊力哈木于2006年创办“维吾尔在线”网站，向海内外介绍维吾尔族人的状况，该网站同时刊载或转载一些表达维吾尔族诉求的文章。2014年1月15日，他在北京住所被公安带走；2月20日，被乌鲁木齐市公安局以“涉嫌分裂国家罪”逮捕；同年9月23日被乌鲁木齐市中级法院判处无期徒刑。法院的判决书指，伊力哈木为达到其分裂国家、寻求新疆独立的目的，有组织、有计划地撰写、编辑、翻译、转载百余篇分裂国家内容的文章。伊力哈木在辩护词中，否认全部指控并提出了上诉。2014年11月21日，新疆二审法院驳回伊力哈木的上诉，维持原判。</p>
+<p>古再努儿向本台表示，目前他们一家三口仅倚靠她每月3500元的工资生活：“他爸爸9月份开庭，10月份（工资）就停发了。以前他们给两个孩子一个人一千元，现在不给了。只能是我一个月3500元。生活方面有孩子的叔叔，包括我的亲友，有时候帮助我。北京的生活费太高，买东西比较贵”。</p>
+<p>古再努尔说，他的两个孩子无法像正常家庭的孩子那样生活，也没有经济能力让孩子接受课外教育。</p>
+<p>关注伊力哈木的北京维权人士胡佳曾在农历新年期间，探访了伊力哈木的两个孩子。他说：“我觉得我们都应该通过对这个家庭的关注和支持，来表达对维吾尔人的善意。他们一家三口基本上就是相依为命。他们两个孩子一个上幼儿园，一个上小学三年级。除了妻子孩子的安全以外，伊力哈木最关注的问题就是孩子的教育。他们又都没有北京的户口。今年春节我去看望过他们两次，一次是大年三十，一次是年初四。给了小孩子压岁钱，初四带着两个娃娃去中国科技馆去玩耍”。</p>
+<p>在伊力哈木被判无期徒刑后，曾被选入美国《外交政策》杂志评选出的本年度引领全球“百大思想者”名单之一。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%8E%B7%E5%87%86%E6%8E%A2%E7%9B%91-%E7%94%9F%E6%B4%BB%E8%B4%B9%E9%81%AD%E5%81%9C%E5%8F%91%E5%AE%B6%E4%BA%BA%E7%94%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E8%A3%82%E5%9B%BD%E5%AE%B6%E7%BD%AA/?category=18271" rel="tag">分裂国家罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90%E8%BF%9B%E8%AF%BE%E6%9C%AC-%E6%83%B3/" target="cdt-mirror">【异闻观止】人民日报｜“太阳花学运”进课本 想要干啥？</a>
+</h2>
+<p><p><em>【编者注】趣闻一则：“太阳花学运”的主要成员之一，曾翻墙进入立法院的吴峥，在今年1月以立委助理身份<a href="https://tw.mobi.yahoo.com/home/%E7%BF%BB%E7%89%86%E5%87%BA%E9%A0%AD%E5%A4%A9-%E9%BB%83%E5%9C%8B%E6%98%8C-%E5%90%B3%E5%B4%A2%E9%80%B2%E7%AB%8B%E9%99%A2%E6%84%9F%E8%A7%B8%E5%A4%9A-111543175.html">进入立法院工作</a>。</em></p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg" rel="attachment wp-att-429459"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg?resize=565%2C317" alt="图片来源：新浪微博" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg?w=633 633w" sizes="(max-width: 565px) 100vw, 565px" data-recalc-dims="1"></a><p>图片来源：新浪微博</p></div>
+<p>“太阳花学运”闹腾的时候，一个叫刘乔安的女子登高一呼，善于捕捉焦点的媒体镜头，啪啪对准她绑在头上的布条，因为上面印着6个醒目黑字——“民主不能交易”，刘女也因此被冠以“太阳花女神”。但她很快就从媒体的政治版串到了娱乐版，因为疑似在旅馆从事色情行业的“不法交易”。</p>
+<p>这种神转折的剧情，总让一般观众措手不及。之所以旧事重提，是想提醒一句，有些事情看似“伟光正”，冰山一角背后却往往“未成年人不宜”，当三思而后行。这不，新学期就要开学，台湾某出版公司出版的高中新课本“公民与社会”中，竟编入“太阳花学运”事件，相关章节一入眼帘就是“学运”学生霸占“立法院”的照片，其内容声称，“借此表达其对于两岸服贸协议的要求与主张”云云。</p>
+<p>“太阳花学运”的违法性质、暴力色彩，至今在岛内饱受争议，为何这么急吼吼就塞入课本？连岛内的家长都看不下去了，他们在“台湾妈妈联盟”脸谱粉丝团上炮轰：教学生只要不爽就有权霸占公权力机关？以后是不是杀人放火都能编入教材！？</p>
+<p>其实，台湾的教材问题早已成为新闻版面的常客。“反课纲微调”一度沸沸扬扬，继“太阳花学运”之后成为台湾社会一景。有高中生在集会中跟要他回家的父亲起了冲突，翻脸怒呛并猛推之，还扬言：“这是我一生中最光荣的时刻！”按照这种教材锻造的“新思维”，他们眼中的最高峰是玉山而不再是珠穆朗玛，最长的河流是浊水溪而不再是长江黄河，对于不同看法的解决之道是暴力游行而不再是包容协商。</p>
+<p>说到教育，本质上是给“三观”筑牢根基。如果“三观”不正，说啥也是白搭。民主固然不能交易，教育就可以？看似不言自明，有些人却在打着“聪明”的小算盘。新课本中编入“太阳花学运”的那章，叫“政治意志的形成”。从街头到纸上，所谓热血的“太阳花”，不过是政治的道具而已。</p>
+<p>“太阳花学运”头目陈为廷，曾想参与苗栗县“立委”补选，并一度获得民进党支持，看似运动累积的资本兑现在即，却因丑闻被揭发出来宣布退选。原来他在念中学时就在捷运上性骚扰女生，导致学生证被扣，高中肄业才以同等资格考取新竹清华大学。后来，因为缺课太多，又被清大社会所决议退学。就是这样一个教育上问题多多的学生，曾几何时被某些政治势力奉为座上宾，以为奇货可居。政治就是这样翻云覆雨，陈为廷或许感到委屈：如果不是公序良俗的羁绊，他现在或许也稳稳端坐在被他斥为黑箱的“立法院”中。</p>
+<p>“太阳花学运”给部分年轻人造成误导，以为投身这样的“社会课堂”才是“干正事”，可以靠街头政治运动来解决社会的深层问题。这种幼稚的头脑现在该醒醒了。从陈为廷到刘乔安，事实告诉人们：即使个人政治投机，只有满嘴的仁义道德、民主自由也是不够的。如今，“太阳花”编入教材，将继续给岛内未成年人这样的误导信号。借用那句耳熟能详的话来说，民主民主，多少罪恶假汝之名以行？</p>
+<p>新竹清大负责人在陈为廷退学时解释称，让教育的归教育，政治的归政治，学校分际很清楚。这是明白人的做派。问题是，有些人为何就要故意揣着明白装糊涂，污染杏林那一亩三分清净地呢？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90%E8%BF%9B%E8%AF%BE%E6%9C%AC-%E6%83%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%9C%8D%E8%B4%B8/?category=18271" rel="tag">反服贸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E5%A5%B3%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B0%81%E6%89%93%E6%9C%9D%E9%B2%9C%EF%BC%8C%E6%88%91%E5%B0%B1%E6%89%93%E5%8F%B0%E6%B9%BE-2/" target="cdt-mirror">博谈网 | 上海国际问题女专家：谁打朝鲜，我就打台湾</a>
 </h2>
 <p><p>来源: 博谈网</p>
@@ -56,7 +214,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">上海国际问题研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E8%BF%8E%E4%B8%BD/?category=18271" rel="tag">于迎丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429437/" target="cdt-mirror">【真理部】《于迎丽：美国威胁军事打击朝鲜是对华施压》</a>
 </h2>
@@ -532,167 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E9%80%9A%E5%BE%80%E5%A5%B4%E5%BD%B9%E4%B9%8B%E8%B7%AF%EF%BC%88%E5%8D%A1%E9%80%9A%E7%89%88%EF%BC%89/" target="cdt-mirror">微信｜通往奴役之路（卡通版）</a>
-</h2>
-<p><p>《看客》杂志初版<br>
-翻拍自底特律通用汽车出版的小册子，思想启蒙者丛书，第118页<br>
-（BZ：no.118,可能是小册子在丛书系列的编号。）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx2.png?resize=316%2C443" alt="wx2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx2.png?resize=214%2C300 214w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx2.png?w=316 316w" sizes="(max-width: 316px) 100vw, 316px" data-recalc-dims="1"><br>
-战争迫使“国家计划”出台<br>
-为了国家经济的总动员，你乐意牺牲自己的许多自由。你明白对自由的管制是祖国的敌人所造成的。<br>
-黑板上写着：（坚持工作）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx3.png?resize=312%2C450" alt="wx3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx3.png?resize=208%2C300 208w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx3.png?w=312 312w" sizes="(max-width: 312px) 100vw, 312px" data-recalc-dims="1"><br>
-许多人想让“计划”继续。。。<br>
-关于成立一个“和平缔造委员会”的争论在战争结束前就开始了。战时的“计划主义者们”想继续把持权力，鼓励这个想法。<br>
-收音机播放：（在战时好的，在和平时期一样好。）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx4.png?resize=314%2C452" alt="wx4" data-recalc-dims="1"><br>
-“计划主义者们”许诺乌托邦<br>
-一项针对农民的美好计划在农村实行良好，一项针对产业工人的计划在城市里广受欢迎——等等。许多新“计划主义者们”被选进了政府<br>
-黑板上写着：计划</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx5.png?resize=325%2C448" alt="wx5" data-recalc-dims="1"><br>
-但他们不认同“同一个”乌托邦<br>
-在和平时期，一个全新的立法机构成立了，但“为赢得战争”的团结却消失了。“计划主义者们”差不多打了起来。每个人都怀揣着自己得意计划，毫不让步。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx6.png?resize=315%2C455" alt="wx6" data-recalc-dims="1"><br>
-公民们也不同意这些计划<br>
-当“计划主义者们”在几个月之后终于拼凑出个临时计划，公民们却不买帐。那些农民喜欢的，工人却不喜欢。<br>
-布告上写着：新国家计划</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx7.png?resize=329%2C446" alt="wx7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx7.png?resize=221%2C300 221w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx7.png?w=329 329w" sizes="(max-width: 329px) 100vw, 329px" data-recalc-dims="1"><br>
-“计划主义者们”憎恨以暴力达成共识。。。<br>
-大多数“国家计划者”是善意的理想主义者，回避使用任何暴力。他们寄望于出现奇迹：公众都支持他们所拼凑的计划。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx8.png?resize=307%2C457" alt="wx8" data-recalc-dims="1"><br>
-他们尝试着向公众“兜售”计划<br>
-在教育人们统一观念的失败的努力过程中，“计划主义者们”建立了一个巨大的宣传机器——这对未来的独裁者来说，唾手可得。<br>
-（BZ：喇叭播放宣传，拿着的是受管制的印刷品）</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx9.png?resize=321%2C456" alt="wx9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx9.png?resize=211%2C300 211w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx9.png?w=321 321w" sizes="(max-width: 321px) 100vw, 321px" data-recalc-dims="1"><br>
-受骗的人们确实达成了一致<br>
-同时，日渐增长的社会混乱引发了抗议集会。受教育程度较低的人们——被激情的演讲所征服，情绪高涨——组建了政党。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx10.png?resize=314%2C443" alt="wx10" data-recalc-dims="1"><br>
-对“计划主义者们”的信心渐渐失去。。。<br>
-“计划主义者们”临时拼凑得越多，对经济生活造成的混乱就越大，每一个人都倍受煎熬。人们现在觉得——确实——“计划主义者们”什么都解决不了了。<br>
-站立者高喊：（让我们选一个能让计划运作的人）</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx11.png?resize=321%2C447" alt="wx11" data-recalc-dims="1"><br>
-“政治强人”被授与权力<br>
-绝望中，“计划主义者们”授权新的党派领袖打造一个计划，并强制执行。迟些时候，他们再把他甩开——至少他们是这么想的。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx12.png?resize=306%2C442" alt="wx12" data-recalc-dims="1"><br>
-政党代替了国家。。。<br>
-到如今，已如此混乱，以至于须不惜一切地服从新的领导人。或许你自己也要入党以助于国家团结。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx13.png?resize=332%2C450" alt="wx13" data-recalc-dims="1"><br>
-一个对立的目标更巩固了党的团结。。。<br>
-所有独裁者的第一步便是激怒有共同志向的多数去敌对作为替罪羊的少数。在德国，该对立的目标所体现的就是“反犹主义”。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx14.png?resize=322%2C458" alt="wx14" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx14.png?resize=211%2C300 211w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx14.png?w=322 322w" sizes="(max-width: 322px) 100vw, 322px" data-recalc-dims="1"><br>
-没人反对领导者的计划。。。<br>
-那将是自杀；新的秘密警察是无情的。让人服从变成了“计划体制国家”中的第一要务。现在，所有自由都不复存在。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx15.png?resize=316%2C454" alt="wx15" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx15.png?resize=209%2C300 209w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx15.png?w=316 316w" sizes="(max-width: 316px) 100vw, 316px" data-recalc-dims="1"><br>
-你的职业被“计划”了<br>
-先前的“计划主义者们”曾经承诺过的更广泛的就业选择，现在却成了一个可悲的笑话。“计划主义者们”从来没有兑现过——而且将来也不会。<br>
-站立者说：（但我不是名木匠，我是名水管工。）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx16.png?resize=314%2C452" alt="wx16" data-recalc-dims="1"><br>
-你的工资被“计划”了<br>
-工资的分配标准肯定是武断的、刻板的。通过中央总部来运作一个“计划体制的国家”是愚蠢、不公平和缺乏效率的。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx17.png?resize=331%2C438" alt="wx17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx17.png?resize=227%2C300 227w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx17.png?w=331 331w" sizes="(max-width: 331px) 100vw, 331px" data-recalc-dims="1"><br>
-你的思想被“计划”了<br>
-在独裁政府里，在“计划主义者们”的无心之下，已没有容得下不同声音的空间。宣传海报，广播，报纸——全都在告诉你同样的谎言！<br>
-宣传海报上写着：（世界是平的）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx18.png?resize=312%2C450" alt="wx18" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx18.png?resize=208%2C300 208w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx18.png?w=312 312w" sizes="(max-width: 312px) 100vw, 312px" data-recalc-dims="1"><br>
-你的娱乐被“计划”了<br>
-并非巧合，在所有专制国家，你的运动和娱乐已经被精心地“计划”了。一旦开始，“计划主义者们”就再也停不下来。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx19.png?resize=322%2C449" alt="wx19" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx19.png?resize=215%2C300 215w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/wx19.png?w=322 322w" sizes="(max-width: 322px) 100vw, 322px" data-recalc-dims="1"><br>
-你的惩罚被“计划”了<br>
-如果你被炒鱿鱼了，你面对的很可能是行刑队。曾经的小错误现在却成为反国家的罪行。以此终结通往奴役之路！</p>
-<p>哈耶克出版《通往奴役之路》（TheRoadtoSerfdom）的时候是1944年，这本书后来被翻译成超过20种语言出版。哈耶克曾自信地声称要将这本书献给“所有党派的社会主义者”读一读。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E4%BF%A1%EF%BD%9C%E9%80%9A%E5%BE%80%E5%A5%B4%E5%BD%B9%E4%B9%8B%E8%B7%AF%EF%BC%88%E5%8D%A1%E9%80%9A%E7%89%88%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">政党社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92/?category=18271" rel="tag">计划</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BA%92%E5%8A%A8%E5%90%A7%EF%BD%9C%E4%BA%94%E6%AF%9B%E5%B7%A5%E4%BD%9C%E5%A4%A7%E8%B5%B7%E5%BA%95/" target="cdt-mirror">互动吧｜“五毛”工作大起底</a>
-</h2>
-<p><p>“五毛党”大致上可以分为四类：1、向体制内靠拢的社会人士；2、闲散在家希望赚点生活费的中青年；3、“上进心”较强的部分大学生；4、“自干五”。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb1.jpg?w=550" alt="hdb1" height="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb1.jpg?resize=300%2C165 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>向体制内靠拢的社会人士：他们希望成为公务员，但又难以通过正常的公务员考试渠道进入体制，于是采取曲线流程，以外聘的方式加入到政府的宣传工作里来，再慢慢寻求机会加入体制，这部分群体是目前“五毛党”的主力部队。</p>
-<p>闲散在家希望赚点生活费的中青年：他们是货真价实的“五毛党”，为了赚钱伺机而动，是“五毛党”初期发展壮大的生力军，但是到了后来则被逐步淘汰和边缘化，因为“钱”的诱惑始终不如“权”的诱惑那样能够死死的吃住一个人，这个群体的一大典型特征是不怎么受控，毕竟收入并不高，当半夜三更人已就寝时接到发帖或评论的任务，他们多半会置之不理，没有必要为了一点零碎钱牺牲自己的正事，也正因此，地方政府的宣传机构也认为他们不如上一类“五毛党”群体好使。</p>
-<p>“上进心”较强的部分大学生：很多时候，“网评”的需求会以政治任务的形式下发到当地高校（为了节省开支成本），而在消化这些任务的时候，会利用大学学校内部社团的新入学生，让他们来做发帖的执行，许以“地位攀升”的诱饵，而这类会去申请干部的大学生，本就有这类“政治抱负”，加上大学生活闲暇时间确实很多，所以在做起“五毛党”来也是得心应手、毫无思想负担。</p>
-<p>“自干五”：即自带干粮的五毛党，所谓“橘生淮南则为橘，生于淮北则为枳”，成长环境、经受教育、汲取学识等途径的差异，会让人与人之间存在着截然相反的不同，作者在十六岁之前，也是一枚会将抵制日货、核平东京之类的帖子手动转发到各个论坛及QQ群的**，而自干五，可以说是一直活在自己梦境当中的这种**，他们大多极其狭隘、闭塞，热衷于和同类拉帮结派，然后以QQ群等联络方式聚在一起，主动的寻找网络上的“汉奸”，约好群起攻之，试图干扰公众对于某些问题的看法，简单来说就是“把水给搅浑”。</p>
-<p>“自干五”比较特殊，他们不受地域限制，纯粹属于在网络上找到气味相同的彼此，自然抱团。“自干五”一般会集结在QQ群中，“有鸟出现”指的是有与他们意见不一致的信息在网络上被发现，“打鸟”则是出动的代号，在微博上，他们会重点关注一些民间的律师、学者及右派用户，通过研读这些目标的Timeline，去排查那些“有危害”的信息，并在“打鸟”的号召下，对发言者及赞同发言者立场的用户进行嘲讽、辱骂、歪曲等针对性的传播，中国电子商务的先驱、8848的创始人老榕，就曾是“自干五”的重点监控目标，而老榕则是一度在“自干五”的QQ群里安插了一个卧底，实时向他直播群内动态，最后“自干五”们这边刚刚在群里放出要打的对象，老榕就在那边自己的微博上放出群里的消息截图，弄得“自干五”阵脚大乱，慌忙整顿排查内鬼。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb2.jpg?w=550" alt="hdb2" height="" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb2.jpg?resize=300%2C151 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb2.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>“五毛党”一度很厌恶网易，因为网易的跟帖文化让舆论引导工作很难进行，因为新闻下面跟帖的顶部排名是由“被顶次数”来决定的，不像论坛帖子那样可以通过人海战术瞬间化身“主流民意”，只要“五毛党”这边的人力不及基数更为庞大的普通网民，那么被顶次数最多的置顶评论则经常会是对政府持批评态度的言论。人力拼不过，智取成为了“五毛党”的另一项方针，而且最后的结果……至少在我所了解的传播学上，相当的高明而有用。</p>
-<p>从战国时代开始，合纵连横、远交近攻就是兵法演义里的重要谋略，要想击败强大的对手，四两拨千斤的方法就是促成对方阵营产生隔阂和内斗，最终让自己渔翁得利。面对网易新闻跟帖里的汹汹民意，“五毛党”们成功祭出的法宝叫做“地域战争”。从2006年，网易新闻的跟帖中猛然流行起“地域战争”的风气，无论新闻的主题是什么，总有针对某个地域的嘲讽和辱骂评论，因为言辞又是瞄准该地域确实存在的某些弊端（如广东人什么都吃、河南人都是骗子、新疆人都是小偷等），很容易引起大量非该地域网的“顶”和该地域网民引用驳斥的回骂（进一步增强主评论内容的曝光），导致地域骂战常年以来都是网易各种新闻跟帖里的置顶热门，盖过了其他从新闻主题出发的评论。有点类似“病毒营销”的套路，这种做法很快也感染了普通网民，“地域战争”也动辄出现在了新浪、腾讯等网站新闻的跟评区，虽然没能起到“正面舆论引导”的作用，但毕竟在“阻断负面信息”的目标上，大获成功。</p>
-<p>客观的讲，如果中国民间不是真的存在各种地域歧视，以及人性中的阴暗面极易被人为引燃放大的因素，“五毛党”的这种努力也不可能如此顺利，网易也不堪地域攻击对于新闻评论的污染，但因KPI的考虑（有了地域攻击的新闻跟评，在流量上会超出正常跟评不少），遏制起来也是有心无力，直到2011年之后才有所好转，对于地域攻击一律删除。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb3.jpg?w=550" alt="hdb3" height="" data-recalc-dims="1"></p>
-<p>如果不能阻止异见者的演讲，暂时无需强权出手，就在他演讲的附近制造一起打架风波，围观者自然会被人性驱使而来围观打架。这类战术后来被使用到很多场景，有五毛曾经接受过私下的有偿采访，透露过自己的一起工作，在时值油价大涨时，腾讯新闻的评论区都在骂中石油、骂政府，而这哥们就去发了条评论，大意是““涨吧，随便涨，哥不在乎。最好涨到50块钱一升，活该你们这些没钱的穷人开不起车。正好不用出来占道路，以后马路就应该有钱人才能在上面开车”，还换了几个马甲来骂自己的这条评论，很快就将网友激怒，矛头瞬间的转移到了这个“富人”身上，再没有人去讨论油价问题，大家都在愤怒自己身边（即政府、垄断企业的对立面，群众群体当中）怎么有这种“败类”。</p>
-<p>加入“自干五”这一党支部比较简单，毕竟，不求回报的付出总会获得欢迎，我在卧底某“自干五”团伙的时候，就是通过一个微博马甲帐号，持续的转发赞美、肉麻吹捧一位著名的毛粉，并在微博转载一些极左意识形态的文章，大概半个月左右，就有“自干五”主动接触我，先是发来私信，问一些试探性的问题，然后加了QQ，聊天时也不断在对话中暗藏一些提问，用来测试我的态度和立场，在觉得没问题时，就先将我拉入了一个“自干五”的实习群，之所以叫实习群，是因为这个群也是一个考验，里面多是我这样被“看上”的“自干五”新人，但是因为没有获取足够的信任，所以先被聚拢在一起，长期观察的同时，安排一些打杂的事情给新人完成，比如举报一些右派用户的言论、转发司马X等人的微博等。若是一段时间内表现良好，而且经过线下的面谈接触，就有机会被纳入正式的QQ群内，策划一些更大的传播事件。</p>
-<p>至于正式受雇的“五毛党”，加入流程比较复杂，在这里不便透露。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb4.jpg?w=550" alt="hdb4" height="" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb4.jpg?resize=300%2C227 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb4.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><br>
-【五毛工作大起底】</p>
-<p>原创帖1元人民币，复制贴、转载帖0.5元。被顶一次按百分之一累加。按一个帖子500个顶来算，一个原创帖进账6元，复制帖、转载贴1元。</p>
-<p>所以五毛最重视的是发帖和顶帖数，顶帖主要靠的是顶帖机和系统漏洞，这就是为什么一个新闻刚出来，还没有几个人关注，五毛的帖子就已经在首页超过300个顶了。其次是靠网上的傻粪五毛队友帮顶，但想让这些人看到就顶，必须起个好记的ID，毫无规律的英文加数字肯定不行，所以他们的名字一般都很规整，比如帅气飞扬 、正义鹰派、 轩辕黄帝的血统；还有够奇葩的起用很诡异和怪异的ID,一般人看不懂是什么意思，这样怪异诡异的ID也容易记住，因为搞怪。</p>
-<p>至于发帖数，一个人的脑力有限，编不出太多段子，所以需要集思广益，这就是为什么有的五毛帖子最后有个方括号，里面就是给他提供段子的人的网名，方便算账，具体算法不详。五毛是属于有编制的正式工，方括号里的是临时工。他们直接隶属的部门全称为网络舆情局，全靠邮件联系，邮件正文区从不写内容，只有一个加密的附件，看完就删，防止被揭露，五毛发工资很准时，每月5号，特殊情况下最多晚一周，过期作废，五毛要把上个月所有帖子的截图（专门软件，生成文件为特殊格式，防止PS，然后通过邮件或者上传到五毛群里供大五毛群主验收）、新闻标题、链接地址、和自己的17个字符的身份认证码整理出来，原创和转帖要注明，否则查到罚款。大概过3到5天，钱就到账了，（不得不承认在4000亿人民币网络维稳诱惑下的工作效率确实挺高）。</p>
-<p>至于工作纪律，没有具体条款，但主要有以下几项：</p>
-<p>第一，首先，不准私下联络，为了自保，也为了不被老百姓揭穿，所以五毛都不知道“同志”共有多少人。</p>
-<p>第二，必要时刻（一般是在引起公愤的新闻）可以和网友争吵，挑起地域矛盾，以此来转移或者发些黄色段子来转移话题。</p>
-<p>第三，不准直接发布一些轻易被揭发的低级谣言，一旦被揭发，相当于自打脸，顶多可以捕风捉影。</p>
-<p>第四，多出现在军事板块、因为那里愚民和粪青最多，容易被蛊惑。二三两点，出于维护自身形象考虑的，形象良好才更具欺骗性。这类人，网易有，其它门户也，但网易的最活跃；有兼职的，也有全职的，但总体收入挺可观。</p>
-<p>——以上信息，来源于一位“知情人士”，不便透露其真实身份。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb5.jpg?w=550" alt="hdb5" height="" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb5.jpg?resize=300%2C190 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/hdb5.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BA%92%E5%8A%A8%E5%90%A7%EF%BD%9C%E4%BA%94%E6%AF%9B%E5%B7%A5%E4%BD%9C%E5%A4%A7%E8%B5%B7%E5%BA%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E5%85%9A/?category=18271" rel="tag">五毛党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%A3%8E%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B9%B1%E4%BC%A6/" target="cdt-mirror">风传媒｜笑蜀：要求孝顺国家是政治乱伦</a>
-</h2>
-<p><p>岳母刺字的励志故事妇孺皆知，写进了史书，写进了小说，写进了教材。能流行千古，主要因为它经典地折射了旧时中国的政治伦理。</p>
-<p>这种政治伦理，当下颇遭诟病。我却愿意抱以同情的理解。存在的就是合理的，这名言用到这个问题上，窃以为再适合不过。以昨日之是否定今日之是固然无稽，但以今日之是否定昨日之是，也是扯淡。</p>
-<p>昨日有昨日的道理，今日有今日的道理，不同的时代，不同的生活，自然有不同的政治伦理。强调忠君爱国的岳飞故事，今天仍有其审美价值，岳飞本人今天仍是民族英雄，但如果今天仍以忠君爱国来要求全体国民，那可真是不知今夕何夕的九斤老太。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Ca7cyfzUkAA9StM.jpg?resize=440%2C293" alt="Ca7cyfzUkAA9StM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Ca7cyfzUkAA9StM.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Ca7cyfzUkAA9StM.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>央视孝顺说沦为笑柄，原因即在於此。春节期间，中国中央电视臺新闻联播节目借受访者之口教训全国人民说：孝顺首先是孝顺国家，孝顺国家才是最大的孝道。且不论央视有没有资格这麽教训全国人民，退一万步，就算认可其道德家的资格，其逻辑之怪诞也令人忍俊不禁。须知，旧时纵然家国相通，家仍不等於国，家仍先于国，亲情仍高於政治。李密《陈情表》即为典型。</p>
-<p>西元263年，蜀汉灭，李密成了亡国之臣，回家供养祖母。过了两年，晋武帝司马炎要李密赴朝任官，做太子洗马。一般人遇到这样的机会一定窃喜不已，唯恐不及，李密却视为畏途，而以一纸《陈情表》婉拒。理由即是其报效朝廷时间长，侍奉祖母时间短，所以要先尽孝祖母，後尽忠朝廷。本来君命难违，但当李密以「乌鸟私情，愿乞终养」为辞，纵然君命也不得不让步，晋武帝终於收回成命。可见「百善孝为先」旧时是实实在在的，不仅先於江湖之善，更先於庙堂之善，而为一切道德之基。只是从宋明起，这一状况才有改变，忠君先於孝亲。但这不过是绝对君主专制和国家存亡之秋的特殊现象，相形而言，李密《陈情表》所代表的忠孝观才是更悠久的传统，也才是旧时中国的常态逻辑，更人性因而更具稳定意义。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk-1.jpg?resize=550%2C367" alt="90b3b535gw1f0vcmzhbygj20ja0cvdhk" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk-1.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/90b3b535gw1f0vcmzhbygj20ja0cvdhk-1.jpg?w=694 694w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>央视孝顺说之所以可笑，即在於有违真正的传统。不仅以所谓「孝顺」来规範国民与国家的关係，甚而以所谓孝顺国家为最先、最大，等於国淩於「家」之上，政治淩於亲情之上。跟﹂爹亲娘亲不如毛主席亲，天大地大不如党的恩情大」的文革老调，同出一辙。根本就是对人性的辱没，对人伦的践踏。这一切因国学之名，但显然不属於真正的国学。</p>
-<p>说穿了，此所谓「国家」，无非「权力」的代名词而已；此所谓「孝顺国家」，无非「孝顺权力」的代名词而已，这是露骨的权力崇拜，露骨的奴隶主义。如果非用「孝顺」这个词不可，依据「以人为本」的现代伦理，那也只能要求权力孝顺权利、权力孝顺国民。非要反其道而行之，要求国民孝顺国家，这才是真正的反动，是政治上的乱伦，註定了没有前途。</p>
-<p>＊作者为中国公共知识份子，前《南方周末》评论员</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%A3%8E%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B9%B1%E4%BC%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%91%E8%9C%80/?category=18271" rel="tag">笑蜀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%8E%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">风传媒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%80%E5%9C%BA%E5%9C%B0%E9%9C%87%E9%9C%87%E5%87%BA%E4%B8%A4%E5%B2%B8%E7%9A%84%E5%B7%AE%E8%B7%9D/" target="cdt-mirror">博谈网｜一场地震“震”出两岸的差距</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard21_114.jpg?resize=550%2C310" alt="Clipboard21_114" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard21_114.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard21_114.jpg?w=700 700w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>台南市长赖清德在台南市副市长曾旭正、消防局长李明峰、工务局长吴宗荣等人陪同下，2月13日下午4时20分召开震灾记者会（网络图片）</p>
-<p>（博谈网记者苏智敏报道）发生于2月6日凌晨的大地震，造成位于台湾南部的台南市重大伤亡。经过8天来的搜救，倒塌的维冠大楼最终有289人被救出，114人不幸罹难。从搜救过程到善后处理，台南市政府及市长赖清德的表现，皆是媒体关注焦点之一，同时也是两岸民众的讨论话题。</p>
-<p>市长的脸书</p>
-<p>台南市长赖清德的脸书，自地震发生后，就不断地更新救灾进度，并于13日发现最后一名罹难者的遗体之后，就告知人们即将进行现场消毒、搬离建筑废弃物，及修复因维冠大楼倒塌，造成干道中断的永康区永大路，以赶在15日抢通等消息。而这条主要干道确实也赶在15日清晨3点完成双向通行，让台南永康区的交通恢复顺畅，使结束年节假期后第一天上班的市民不受交通堵塞之苦。</p>
-<p>另一方面，台南市政府15日下午在市立殡仪馆举办“0206震灾罹难者治丧说明会”，向灾民说明罹难者治丧和补助事宜。</p>
-<p>会中提到，罹难者将由市府全程办理殓葬事宜，皆全部免费，而每位罹难者将发放慰问金300万元新台币（下同），重伤者最高可领75万。受灾户除了依户籍内人口数多寡每月补助6千至1万元的租屋补贴外，每户还有10万元救助金。这场原订1个半小时的说明会，据台媒报导，在市府人员及家属双方平和的一问一答之下，仅30分钟会议就顺利结束。</p>
-<p>除了补偿救助、灾后重建及灾民收容安置等后续问题已进行之外，相关追责工作也早已全面展开。</p>
-<p>倒塌的维冠大楼存在借牌建造、箍筋数量减少又变细、大梁主筋弯钩长度不足等问题，将开发商林明辉等人羁押，禁止接见和通信。并于15日展开第二阶段假扣押行动，针对建商林明辉、建筑师及相关股东等人，共同求偿2亿2000多万元，由台南地方法院裁定中。</p>
-<p>有无民主的差距</p>
-<p>在这次救灾行动中，台南市长赖清德的一举一动备受关注，从因几乎不眠不休而显露的疲态、调度决策，到穿坏的鞋子等，皆引来讨论。</p>
-<p>台湾媒体报导市长赖清德几乎都没休息、被焦虑的灾民骂救灾缓慢，及用镜头捕捉一双旧鞋走到脱胶的画面。对此，赖清德仅表示，他的休息及鞋子都不应成为新闻，社会更应关心的是灾民及受困的民众。</p>
-<p>对这消息，不少中国网友感到羡慕。有网友就翻出2013年大陆浙江水灾和2014年江西水灾，都有官员怕名牌鞋进水，特意让下属或灾民背着去视察灾情的照片。也有人想起去年天津爆炸，有灾民下跪请求政府回购危险房屋，中国媒体却无人报导，网络也遭封锁消息一事。</p>
-<p>台南地震后，透明的善后处理方式及救援期间同时进行追责，也引来中国网友讨论，认为这效率太高，中国根本办不到，凸显出有无民主的差距。网友“Tasia-gao”表示，这就是台湾不愿回归最好的解释。</p>
-<p>另有不少网友以讽刺的方式留言，说台湾太傻了，应学四川大地震一样，都归为天灾。同时要慢点追责，赶快开表彰大会，赞美领导及救灾人员，评为感动台湾十大人物。</p>
-<p>民众的留言，反应了对中国政府灾难处理模式的不满。以“东方之星”号客轮翻沉事件及天津大爆炸为例，两起灾难的调查报告皆拖过数月才发布，且处罚都被认为过轻。天津大爆炸的调查报告出炉后，当局更是大肆删帖并禁止留言转发。而拯救“东方之星”落水乘客的潜水员官东则被选为“感动中国2015年度人物”。</p>
-<p>面对各种天灾人祸，中国总是采取“丧事喜办”的模式，而灾民往往被迫从媒体镜头前消失，面对的是当地政府的不闻不问、求助无门及警力镇压的威胁。相关追责及后续处理，无不是随着时间的流逝，连同那些灾民渐被遗忘，或低调处理。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%80%E5%9C%BA%E5%9C%B0%E9%9C%87%E9%9C%87%E5%87%BA%E4%B8%A4%E5%B2%B8%E7%9A%84%E5%B7%AE%E8%B7%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">台湾地震</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -704,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -714,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%9B%B8%E9%9A%9450%E5%B9%B4%E7%9A%84%E4%B8%A4/" target="cdt-mirror">中国人权双周刊 | 何清涟：北京政府与相隔50年的两次香港暴动</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8811.03.14.png?resize=550%2C356" alt="Screen Shot 2016-02-18 at 上午11.03.14" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.03.14.png?resize=300%2C194 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.03.14.png?w=628 628w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>香港六七暴动</span></p>
+<p>香港旺角新年夜警民冲突事件发生后，香港一群学者及专业人士日前发起联署，要求政府就上周的旺角警民冲突成立独立委员会，调查事件经过的真相、成因，以及如何防止同类事件再发生。他们认为，50年前的弥敦道骚动事件，港英政府尚能成立九龙骚动调查委员会，就事件的成因作出分析，其后亦接纳报告建议，改善沟通，完善施政，今日的政权为何不能？</p>
+<p>这封联署信的要求无疑非常合理，独有一条，即联署者将北京的政治代理香港特区政府与港英殖民政府相比，实是“错把杭州当汴州”。</p>
+<p><strong>北京是香港六七暴动的背后靠山</strong></p>
+<p>不少中国大陆人对香港六七暴动完全陌生，为了便于分析，这里先简介该事件。</p>
+<p>1967年5月6日在香港开始的“六七暴动”，因各自立场不同，亦被称为“六七左派工会暴动”、“香港五月风暴”，参与者自称为“反英抗暴”，其起因是1967年5月位于九龙新蒲岗大有街的新蒲岗塑胶花厂发生的劳资纠纷。事件由最初的罢工、示威，发展至后期的暗杀，出现暗杀名单、放置炸弹。结果51人直接在暴动中死亡，还有逾800人受伤。</p>
+<p>这一持续7个多月的“反英抗暴”有明显的文革色彩，比如5月7日香港工人、工联会代表与其他支持者上街集会示威时，仿照大陆文革，手持《毛主席语录》，高喊中国共产党口号。香港左派的行动则接受北京指挥，并与中国内地相呼应，大陆不少城市都出现了支援“香港抗暴”的游行示威，英国驻华代办处亦被红卫兵捣毁。香港商业电台节目主持人林彬在节目中批评左派的暴力行径，数日后，其本人与堂弟被人投掷汽油弹烧死，被认为是这次暴动的标志性事件。直到12月中，周恩来向香港的左派下达直接命令停止炸弹风潮，六七暴动方告终结。</p>
+<p>这段历史，当年六七暴动的参与者并不隐讳，多本书中有所介绍，比如《地下阵线：中共在香港的历史》，《周恩来与香港六七暴动内幕》、《六七暴动——香港战后历史的分水岭》等，只是随着港人对回归后政情的感受之变化，六七暴动所获评价越来越呈两极化。</p>
+<p><strong>香港六七暴动与旺角警民冲突有哪些不同</strong></p>
+<p>六七暴动的参与者都是亲近中共的香港左派人士，但因各人后来境遇很不相同，在回忆这段历史之时，对运动的评价不完全相同；但所有的回忆中，以下历史事实却是板上钉钉：</p>
+<p><strong>一、中共政府与香港左派是上下级组织关系。</strong></p>
+<p>自1945年“香港重光”以后，支持共产主义的势力在香港开始活动，例如成立工会及组织工联会等。1950年代，随着中共在大陆取得政权，大量中共政工人员进入香港活动，与留在香港的国民党军政人员形成对峙之势，造成香港左右两派对立。香港人的所谓左派即指亲共人士，右派为亲国民党人士。</p>
+<p>香港文化界与传媒界左派人士，以及香港工联会等左派组织接受中共领导不是秘密。原香港《文汇报》副总编辑金尧如1989年与中共决裂之后，著有《香江五十年忆往》，述及当年中共在港地下工作不少细节。就以六七暴动为例，左派阵营5月16日成立的“港九各界同胞反对港英迫害斗争委员会”（以下简称“斗委会”，成员104人），主张以“武装斗争”手段反对英殖民统治，其负责人是香港工联会秘书长杨光。斗委会成员从不讳言自身的实际领导是以新华社香港分社为名在香港运作、设在广州的情治机构中共港澳工委。曾获“六七暴动旗手”之称的杨光，在2001年由香港特区政府颁发大紫荆勋章，理由是杨“对劳工运动的贡献”。</p>
+<p><strong>二、北京从舆论、行动上对香港六七暴动给予支持，不断推波助澜。</strong></p>
+<p>六七暴动不仅得到香港老牌左派报纸《文汇报》、《大公报》等报纸的持续支持，还得到《人民日报》的强力支持，例如6月3日及10日，《人民日报》曾刊登支持香港左派反英抗暴的社论。</p>
+<p>8月20日下午，中国外交部直接出面向英国政府提出限时照会，要求港英政府48小时内取消对3家港报的出版禁令，释放19名被关押的驻港记者，否则一切后果由英国政府负责。8月22日下午48小时时限一到，英国驻北京代办处被红卫兵放火烧毁，驻华代办被红卫兵殴打，并被强迫向毛泽东像下跪，代办坚决拒绝。</p>
+<p>暴动期间，周恩来多次直接下达命令，规定行动原则。5月16日，即“斗委会”成立的同一天，在中共政府组织下，北京40万群众游行至英国驻华代办处，周恩来在游行前曾指示外交部，表明游行队伍须恪守“不冲、不进、不砸”。7月10日，周恩来传达毛泽东指示对香港“不动武”。</p>
+<p>与50年前的六七暴动相比，2016旺角新年夜警民冲突中，被指袭警的本土民主前线，其实是一个在香港雨伞运动后成立的小型组织，成员只有60人，其中90%的成员都是“90后”。从组织的严密性来说，远比不上六七暴动中的各种左派组织；从其背景来看，毫无任何“境外势力”支持。虽然喊出“以武制暴”的口号，但其武力行动只不过是扔石头砖块及用棍棒袭击之类，与六七暴动中那种大规模放置炸弹、暗杀的暴力程度相比，其差距不啻霄壤之别。</p>
+<p>但是，特区政府在回应联署信时所称二者有差别，不是指暴力程度及境外势力支持这方面的差别，应该是指性质：六七暴动由中共领导，反的是港英政府，因此被看作是“反英抗暴”的爱国运动；而此次本土派反对的是听命于中共政府的香港特区政府，因此是暴乱。</p>
+<p><strong>殖民统治与极权统治应对政治反抗时有差别</strong></p>
+<p>再回到本文开头我提出的问题，即联署者将北京政权与港英政权类比，是混淆了两个政权的不同性质。</p>
+<p>大英帝国建立的香港殖民统治，其本质与大英帝国其他殖民地相同，比如甘地领导非暴力抗争的英印殖民政府。历史也表明，甘地的非暴力抗争也不时脱轨发展至暴力抗争，引起英印殖民政府的暴力镇压。但不管怎样，在对待政治反抗者的处置上，英印殖民政府与中国的暴政还是有极大差别。对这一点，没领教过中国式暴政的西方人也许不清楚，但挣扎于极权统治暴政之下的中国人却非常清楚，因此得出结论，认为甘地的非暴力不合作运动之所以能成功，在很大的程度上取决于所谓英印殖民政府的文明、法治与进步。在中国，甘地式反抗绝不可能成功。</p>
+<p>这种认识其实早在1949年中共建政之前就有了。比如鲁迅就说过，“甘地的把戏，倘不挑选兴行场（日语，戏场），就毫无成效了”。在鲁迅看来，如果甘地是在中国的监狱中绝食抗议，结局一定会是这样：“他自己不吃，和别人有什么关系呢？岂但和仁政并无关系而已呢，省些食料，倒是于监狱有益的。”鲁迅生活的时代，人类还未发明出鼻饲这一灌食方法。他如果知道今天中国反抗者连绝食的权利都被剥夺，恐怕无语以对。</p>
+<p>极权政府的逻辑从来就是：只允许本党用暴力镇压所有反对者，决不允许任何组织与个人对本党说不。因此，中共对当年自己策划支持的香港六七暴动，尽管炸弹事件与各种暗杀不断，死亡人数高达51人，却硬是用无数说辞赋予其政治正确性，为其戴上“反英抗暴”的爱国主义花环；今年旺角警民冲突，尽管其规模与冲突激烈程度远逊于50年前的六七暴动，没有一人死亡，却硬被冠上“暴动”之名，对参与者必欲严惩而后快。同一政权对相隔50年的真暴动与小骚乱的态度如此不同，只因中共在这两次事件中的角色不同：在六七暴动中，中共是反对阵营的大后台；如今中共易位，成了被香港人反对的特区政府之后台。</p>
+<p>香港特区政府如果还认为自己是一国两制的产物，在处理旺角事件参与者时，必须在香港民意与北京上意之间，取得一个平衡点，否则只会将香港置于持续不断的动荡之中。</p>
+<p>（《中国人权双周刊》第176期  2016年2月5日—2月18日）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%9B%B8%E9%9A%9450%E5%B9%B4%E7%9A%84%E4%B8%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8A%A8/?category=18271" rel="tag">香港六七暴动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">香港旺角警民冲突</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%8E%8B%E4%B8%B9%EF%BC%9A%E4%BB%8E%E4%B8%AD%E5%9B%BD%E6%98%A5%E6%99%9A%E7%9C%8B%E5%A4%A7%E9%99%86%E7%9A%84%E6%97%A5%E5%B8%B8%E5%8F%8D%E6%8A%97/" target="cdt-mirror">自由亚洲 | 王丹：从中国春晚看大陆的“日常反抗”</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8811.11.57.png?resize=550%2C282" alt="Screen Shot 2016-02-18 at 上午11.11.57" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.11.57.png?resize=300%2C154 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.11.57.png?w=616 616w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>2016央视春晚（视频截图）</span></p>
@@ -566,43 +602,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%AB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/429362/" target="cdt-mirror">纽约时报中文网 | 在中国，斯卡利亚之死是一面镜子</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-16-at-%E4%B8%8B%E5%8D%8812.16.20.png?resize=528%2C363" alt="Screen Shot 2016-02-16 at 下午12.16.20" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-16-at-下午12.16.20.png?resize=300%2C206 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-16-at-下午12.16.20.png?w=528 528w" sizes="(max-width: 528px) 100vw, 528px" data-recalc-dims="1"><br><span>美国联邦最高法院大法官安东宁·斯卡利亚当地时间周六被发现在西德克萨斯逝世，享年79岁。斯卡利亚1986年被时任总统里根提名，是美国最高法院任职时间最长的大法官。</span></p>
-<p>北京——美国驻北京大使馆的星条旗周一因最高法院大法官安东宁·斯卡利亚(Antonin Scalia)的逝世下了半旗，但这并不是这里出现的有关斯卡利亚逝世的唯一标志。</p>
-<p>正如对传说中宋代包公的广泛赞赏所显示的那样，中国敬奉仁慈正义理念，但缺乏一个独立公正的司法制度。权力极大的共产党委员会经常指示法官如何对敏感案件作出裁决。2013年法院审理的案件中，只有0.07％的结果是无罪释放。</p>
-<p>这些因素也许能帮助解释中国法律专业人士周末在网上对斯卡利亚大法官逝世的很多反应。到周一上午，已有几篇文章在中文网上流传。其中一篇是最高人民法院法官何帆写的1.2万字的颂词，发表在他的微信帐户funnylaw1978上，已被阅读了6.6万次以上，还吸引了不少评论。</p>
-<p>何帆是研究美国最高法院的专家，他写过并翻译过几本有关美国法律体制的书，何帆把斯卡利亚描述为“特立独行、才华横溢”，称其是“司法天才”。</p>
-<p>何帆写道，“无论爱他还是恨他，所有人必须承认，安东宁·斯卡利亚是对当代美国法律影响最大的大法官。”</p>
-<p>微信ID为MYZ的读者评论道，“泰山其颓 梁木其折 哲人其萎。”有100多人给这条评论点“赞”。</p>
-<p>泰山位于中国山东省，在中国传统中是长寿的象征。评论中的三个短语表达了对一位广受尊敬者的哀悼。</p>
-<p>MYZ评论的第二个部分表达的是唐纳德·特朗普(Donald Trump)式的耸人听闻观点，评论援引大批穆斯林移民进入欧洲的问题，提出像斯卡利亚大法官这样的保守派人士逝世会不会给美国社会稳定带来类似威胁的问题：</p>
-<p>“穆斯林席卷欧陆之际，美利坚法律神殿也要进入一个preposterous的阶段了么？”MYZ问道。</p>
-<p>其他评论者没有这么夸张，许多评论与下面这些类似：</p>
-<p>“别了，斯卡利亚！”网名“八戒”的读者写道。</p>
-<p>“一路走好，美国法官中的精英。”网名“陌上夜阑”的人写道。</p>
-<p>也有人发出更熟悉的声音，对斯卡利亚的判决表示钦佩。微信ID为dubilubidu的人写道，斯卡利亚是“一位言辞略戏谑但思维极严谨”的人，他“不允许诊所外发传单但允许广场上烧国旗…他的一个对解释规则的执念经常不自觉的就让他临门一脚时把队友给卖了，杀伤力远大于肯尼迪”，显然是指斯卡利亚的同事、安东尼·M·肯尼迪大法官(Justice Anthony M. Kennedy)。</p>
-<p>中国正在进行旨在提高司法质量的国内司法体制重大改革。但是，几乎没有人认为改革的结果会是一个真正独立的司法系统。</p>
-<p>大赞斯卡利亚的一致性和保守的网名Vivi的用户写道：“在如火如荼地司改燎原的中国司法语境下，一个司法民工看这位异国大法官的小传记有些不同况味。堪称毒舌的保守派大法官，幽默但决不在关键问题上让步的天主教徒，毕生致力于反对堕胎及同性恋婚姻，让人看到有真尊畏者的执着。”</p>
-<p>网名为“风之子”的另一名读者写道，“希望我们的法律人们继续努力共勉。”</p>
-<p>网名Milo的读者写道，“文章很长，美国很远，公平、公正、公开并不遥远。”显然指的是一种共同愿望。</p>
-<p>读何帆文章或对文章发表评论的人不都是法官，但似乎有些人是，其他人或是律师、或是司法部门的行政人员，香港的法律学者苏珊·范德(Susan Finder)说，她也是最高人民法院观察(Supreme People’s Court Monitor)博客的作者。</p>
-<p>“我觉得，人们对美国最高法院很着迷，因为在美国，大法官有很高的社会声誉。如果一位中国最高法院大法官逝世，在北京不会有这些反应，”范德在接受采访时说，她指的是对斯卡利亚展示的崇敬，包括由总统发布的在美国政府大楼、以及美国在世界各地的军事设施和大使馆降半旗的公告。</p>
-<p>中国人关注一个遥远事件的另一个原因也许是渴望得到国际法律界的认真对待，尽管他们在国内的工作受到很多限制，范德说。</p>
-<p>“共产党牵着他们的鼻子走，”她说。尽管如此，“他们仍想了解世界其他地方发生的事情，也想让世界其他地方的人知道，他们不是法律界的乡巴佬。”</p>
-<p>据官方数字，2013年，中国各级法院约有20万名法官，最高人民法院大约有几百名法官，而美国最高法院只有九名大法官。</p>
-<p>范德说，中国最高法院法官人数众多的一个原因是，他们被指望对范围广泛的问题做出裁决，包括必须由最高人民法院审核的死刑判决，还要频繁地对法律做出解释，接待那些在地方上无法找到正义的上访者。“最高人民法院是一个很大的官僚机构，”她说。</p>
-<p>狄雨霏(Didi Kirsten Tatlow)是《纽约时报》驻京记者。<br>
-欢迎在Twitter上关注狄雨霏@dktatlow。<br>
-翻译：Cindy Hao</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/429362/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B8%86/?category=18271" rel="tag">何帆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E5%8D%A1%E5%88%A9%E4%BA%9A%E5%A4%A7%E6%B3%95%E5%AE%98/?category=18271" rel="tag">斯卡利亚大法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">美国最高法院</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -614,7 +613,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B8%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -624,5 +623,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B8%86
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

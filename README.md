@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E8%B4%BE%E8%91%AD%EF%BC%9A%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%8F%B2%E8%AE%B0-%E4%BB%8E%E6%8A%B5%E5%88%B6%E6%97%A5%E8%B4%A7%E5%88%B0%E7%81%AB%E7%83%A7%E8%B5%B5/" target="cdt-mirror">大家 | 贾葭：小粉红史记——从抵制日货到火烧赵家楼</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8810.40.57.png?resize=570%2C332" alt="Screen Shot 2016-02-18 at 上午10.40.57" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.40.57.png?resize=300%2C175 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.40.57.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"></p>
+<p>作者：贾葭   腾讯·大家专栏作者，资深媒体人。长期为《南方都市报》等报刊撰写专栏文章。</p>
+<blockquote><p>百年来的中国，无时无刻不在民族主义的影响之中。这股思潮才是百年来不绝如缕的“潜流”。</p></blockquote>
+<p>从名闻京师的川菜馆子“四川办事处”后门，沿北总布胡同往北，左手第二条胡同便是前赵家楼胡同。一号院是北京军区司令部招待所，门前右首是一面黑色大理石的墙，镌金大字曰“赵家楼饭店”，底下是一块黑色铭牌：“五四运动火烧赵家楼旧址”，并配有金色铭文。这个铭牌是1984年五四运动六十五周年时由北京市团委所立。饭店大堂及二楼餐厅，有若干五四老照片及讲解文字。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8810.42.14.png?resize=531%2C342" alt="Screen Shot 2016-02-18 at 上午10.42.14" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.42.14.png?resize=300%2C193 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.42.14.png?w=531 531w" sizes="(max-width: 531px) 100vw, 531px" data-recalc-dims="1"></p>
+<p>赵家楼，原本是明文渊阁大学士赵文肃之宅邸，因院内假山上有一间亭子，故称赵家楼。五四运动时，该处为钱能训内阁交通总长曹汝霖之宅邸。爱国学生们火烧赵家楼之时，该宅邸五十余间房子焚毁十余间。1949年鼎革之时，该院落已毁坍无存。上世纪八十年代，北京市档案馆发现了“曹汝霖宅第图”，才确定北京军区司令部招待所为赵家楼旧址。</p>
+<p>白驹过隙，火烧赵家楼已是百年前的旧事，因其具备民族主义的天然正当性，很少被重新检视。五四运动也因之成为中国近现代史的分水岭。回首看去，百年来的中国，无时无刻不在民族主义的影响之中。这股思潮才是百年来不绝如缕的“潜流”。罗志田先生的《乱世潜流——民族主义与民国政治》一书，是少有的一部以此为主题的著作。</p>
+<p><strong><strong>▍</strong></strong><strong>火烧赵家楼</strong></p>
+<p>进入历史要进入巨细靡遗的细节才能见真章。火烧赵家楼，在历史课本上只是简单的一句话，但对当事者却是惊天动地的大事。曹汝霖在其回忆录里，有一章是说这件事的。五四那天中午，总统徐世昌在家中宴请驻日公使章宗祥、国务总理钱能训，邀请时任交通总长的曹汝霖与察哈尔龙烟铁矿公司督办陆宗舆作陪。</p>
+<p>饭时，承宣官进告大总统说，京师警察厅总监吴炳湘告，大学生千余已行进至天安门外，言和会失败，请惩曹陆诸位。即劝说赴宴人员为安全计，暂留在徐府不要出门。曹汝霖此时即告徐世昌，大意就是自己干得不好，既然惹出事，不如辞职。徐好言慰留，并让钱总理打电话给吴炳湘，解散学生即可。谁料在交涉过程中，学生反而越来越多，有近两千人集会。</p>
+<p>中间吴炳湘来了几次电话表示很难，又说京畿卫戍司令段芝贵要出兵弹压。钱总理又转而电话告诫段芝贵不要出兵，但段表示，不出兵，依靠警视厅的警察，断断不能处理此事。然后吴炳湘又说，如果出兵，警察就撤了，出了事情由段芝贵负责。双方各执一词，钱能训夹在中间特别为难。</p>
+<p>曹汝霖未理会吴炳湘的劝告，与章宗祥乘车回自己家。此时学生已向曹府挺进，三四十名警员来保护，但都是赤手空拳，唯一的办法用木板堵门。警员对曹说，奉命文明执法，所以连警棍都没带。说话间，一块大石头就飞进院子，差点砸中曹汝霖的父亲，幸好有婢女挺身而出，替曹父挨了一石头，正中背脊。然后曹和章就被下人保护进入地下锅炉房。</p>
+<p>二十余名学生冲进来，先后到曹两个女儿及其太太的房间，一阵打砸抢，女儿的铁床，被拆了作为工具，翻箱倒柜，能砸的都砸了。然后进入曹父母的房间，打开柜子，不过是些燕窝银耳等滋补之物，一并扔在地上捣毁。曹父颇为心疼，即说，这些滋补药品，我自己还舍不得吃，送给你们都好，何必暴殄天物？学生来到汽车房，将车子砸得稀巴烂，取了几桶汽油，浇在客厅书房等处，顿时火光冲天。</p>
+<p>从这个过程可以看出，北洋政府当时还是缺乏对待大规模群众集会的经验。京师警视厅面对千人规模的人群聚集，竟然毫无办法。章宗祥被学生围殴，身上伤六十处，若不是日本人中江丑吉保护，恐已死于非命。（见刘柠腾讯《大家》文章《<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODIwNDIwMA==&mid=201034215&idx=1&sn=6167d1ae68cd0c746be021f850679fe3&scene=21#wechat_redirect" target="_blank">中江丑吉：祖国的陌生人</a>》）事后，总统徐世昌仅只给曹、章二人各五万元，用于养伤和盖房。但被曹、章二人婉言谢绝。</p>
+<p>当然内阁总理最后还是守住政府底线，没有出动军队镇压，但学潮造成的后果，却已出乎当事人的研判。徐世昌、钱能训均视五四当日的事件为小事，事后几天都未曾提及。只有北大校长蔡元培写了篇小文章在报纸上，劝学生适可而止。这些人都未曾料到，五四当日集会、游行乃至火烧赵家楼的“遗患”甚大，相当程度上型塑了近现代中国学生运动的基本形态。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8810.43.20.png?resize=566%2C330" alt="Screen Shot 2016-02-18 at 上午10.43.20" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.43.20.png?resize=300%2C175 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.43.20.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"><br><span>▲ 1919年，五四运动期间，北京学生在街头讲演。</span></p>
+<p><span><strong><strong>▍</strong></strong><strong>喧嚣一时的反日运动</strong></span></p>
+<p>爱国学生与群众运动，是当时民族主义思潮的最常见的表现形式。五四运动只不过是“二十一条”之后的一次更大爆发。期间的发展脉络颇为明显，在1915年的时候，民族情绪通常是对外的，反帝反殖性质更强一些。经过四五年的酝酿，这些情绪转而针对本国政府的软弱。小粉红们从抵制日货到火烧赵家楼，正是民族主义双刃剑的体现。惜乎北洋政府对此毫无察觉。</p>
+<p>回到反日的细节，可以发现，北京政府对于新出现的学生运动这一事物，仅以政令禁止。日本提出“二十一条”之后，留日学生最先行动，在东京集会，要求本国政府“死力拒绝，不可放松一步”。教育部电令留日学生不可退学归国，即便如此，仍然有四千学生退学。这种退学集体归国的风潮，在此后直至1937年全面战争爆发时，共有十余次，但毫无例外，每次都以再次赴日完成学业告终。</p>
+<p>留学生的举动影响了国内的高校，以致教育部不得不命令所有学生不得干涉政治，但教育界依旧群情激愤。1915年5月10日，章士钊在《甲寅》杂志撰文，文末署日期为“五月九日即国耻纪念日”，“国耻”一词遂流行开来。5月20日江苏教育会通告全省，以5月9日为国耻纪念日，列入校历。嗣后，全国教育联合会通电全国，以5月9日为国耻纪念日。</p>
+<p>北伐后，南京国民政府在1930年把该日列为国耻日，并在1940年把该纪念日与7月7日“抗战建国日”合并纪念。在长达二十五年的时间里，5月9日是作为中国人痛苦不堪的民族记忆被铭记的，这是近代中国第一次把国耻写进教科书、编进日历的集体行动。民国大学学生周寝昌上书教育部，请求编辑国耻读本、国耻唱本等。各地学校经常集结学生于文庙宣誓，以示不忘国耻。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8810.44.14.png?resize=447%2C258" alt="Screen Shot 2016-02-18 at 上午10.44.14" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.44.14.png?resize=300%2C173 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.44.14.png?w=447 447w" sizes="(max-width: 447px) 100vw, 447px" data-recalc-dims="1"><br><span>▲ 1919年5月9日，清华大学举行国耻纪念大会。会后，学生在操场焚烧日货。</span></p>
+<p>而商界此时也掀起救国储金、排斥日货的行动，在各大城市声势浩大。但作者认为，整个1915年的反日行动雷声大而雨点小，盛于3月到6月，7月即告衰落。当然原因有多种，袁氏称帝使得舆论重心回到国体问题，但更重要的则是反日只能停留在口头之上，抵制日货也不能持久。张謇一针见血地指出：抵制日货“必我有可以相当之物也，我而无斯物也。是所谓空言抵制”。</p>
+<p>这不禁让我想起前一阵子小粉红们的行为。过去的十年里，中国的爱国青年曾主动被动地掀起多次反日运动，不乏网上征讨、抵制日货等多种方式。例如“血洗东京，活捉苍井空”，“开日本车等于卖国”等等。与百年前相比，激烈程度自然不如，但结果都是一样的无疾而终。原因即是日货的不可替代性。</p>
+<p>小粉红抵制日货的时候不妨碍他们用佳能和尼康相机拍下来秀，砸车烧车无法抚平看不见钓鱼岛的深深痛苦，日本料理和成人映画也离不开，反日运动最终沦为笑柄。据媒体报道，2016年春节，数十万中国人赴日旅游，消费千亿元。东京的确被中国人“占领”了，用超大号旅行箱和钱。</p>
+<p>而所谓“国耻”很快沦为一个口号。杯箸上刻有国耻二字，而花酒照吃，舞台皆有国耻二字而粉戏照看，尤其是作为“国粹”的麻将牌，刻上国耻二字照打不误。这种廉价而近乎表演的民族情绪，从1915年至今的百年中，几乎没有太大的变化。</p>
+<p>但“二十一条”的确也让当时的中国人空前团结，第一次共同关心“中华民族”的命运。公共舆论开始营造国难当头的气氛，学界商界纷纷以各自不同的方式表达对民族危亡的关注。孕育五四新文化运动的舆论重镇《新青年》杂志即于是年创刊。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8810.45.20.png?resize=357%2C272" alt="Screen Shot 2016-02-18 at 上午10.45.20" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.45.20.png?resize=300%2C229 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午10.45.20.png?w=357 357w" sizes="(max-width: 357px) 100vw, 357px" data-recalc-dims="1"><br><span>▲ 《新青年》初名《青年杂志》，1915年9月15日由陈独秀在上海创办。</span></p>
+<p><strong><strong>▍</strong></strong><strong>影响了“中国向何处去”</strong></p>
+<p>虽然北洋内阁变动频繁，有四十六任内阁，但外交上由几位专业外交家长期把持，保持了相对稳定的外交姿态。在我看来，“二十一条”之前，外交上几乎以亲日为基本路线。“二十一条”到巴黎和会之间，则是一个英美路线代替日本路线的准备期，但并不是反日。等到巴黎之后，才全然放弃了日本路线。这当然也与巴黎和会中的联美姿态使得日本内阁迁怒中国有关。</p>
+<p>也就是在“二十一条”时期，留学英美的归国留学生增加。甲午之后的日本留学生，此时正占据北洋政府的高位，但显然他们的亲日路线在此时遭到了民众的严重质疑。而欧美归国的留学生，无疑在人才储备和外交资源上增加了政府外交战略转变的可能性。再加上此后段政府积极介入一战，无疑密切了与欧洲诸大国的关系，尤其是联美策略，极为明显。</p>
+<p>放弃“以日为师”的大方略，是与日本关系不断恶化的必然结果。这种恶化来自日本攫取在华利益的节节进逼，中国民族主义情绪对此的因应则是对日本的全然愤恨与厌弃。这一情况延续到巴黎和会。日方认为，陆征祥与外相内田康哉在日本约定不提及山东问题，然则和会开始则在“威尔逊十四点”的鼓励下提出，日方不理解中国的“背信弃义”。这也埋下了此后十年积极对华用兵的种子。</p>
+<p>唐启华先生的考察结果是，欧战后中国政府趋向于联美的外交战略，对日本至多是保持距离。陆氏启程之前，接到美方强烈讯号，遂有确立联美反日的策略的想法。陆氏在东京不过是敷衍而已，但的确也承诺了依据成约处理山东问题，在和会上不提。不过陆氏到了美国之后，急剧转而联美反日，并且否认与内田有过承诺，并试图消除档案痕迹。日方对此尤为难以理解。</p>
+<p>北京政府当时对陆这种含混不清、前后不一的态度表示强烈不满。但作为外交总长，一方面国内对亲日路线早就不满已久，改弦更张有其必要，而且面对美国释放的好意，也很难拒绝，尤其是美国的崛起已经是一个明显的事实。而美国，则是利用中国这几年的仇日情绪及外交路线的转变期，假手中国钳制日本在东亚的扩张。陆氏的抉择，很大程度上是无奈之举，联美制日，遂使中日免不了在东亚的对抗。</p>
+<p>罗志田教授在本书第一章中分析了“二十一条”时期的反日运动特征，其结论是，“二十一条”使得中国摒弃了以日为师的取向，对日本在华影响乃至在东亚地位的打击，潜在而深远。我以为，结合巴黎和会前后的中日关系，不得不说，日本对华政策从“二十一条”开始，就进入了一个积极筹划的新阶段，巴黎和会的意外，不过使日本下定了“复仇”的决心，此后直至1931年，日本在侵华的问题上，颇有自己的依据。</p>
+<p>火烧赵家楼之后，外交上对日由保持距离的姿态转变为反日。对中国而言，这或许就是一战与二战之间的最重要的联系。当我们把细节放在一个更长的历史时期去考察时会发现，一件事的最终结果，也许要等到几十年之后才能显露出来，当时并不能贸然判断。“二十一条”到七七事变，内在的理路就是如此。</p>
+<p>“二十一条”之后，民族主义情绪逐渐使得中国人形成一种把一切问题归诸帝国主义压迫的极端民族主义倾向，这也是“以俄为师”的共产党及“以美为师”的国民党两者在意识形态宣传中为数不多的共同点。此外，这两个政党在国家统一、国际地位及中华文化认同这三大民族主义主题上，也有较高程度的共同点。</p>
+<p>当时北京政府并未意识到，在排满革命以后的短短几年，民族主义思潮已经统率了中国，因为御外侮而起的救国、卫国、建国理念成为一种政治正确，任何政治力量只要稍加利用之，即可成事。北洋军阀当时在电报战中互相攻击之时，只要指责对方卖国，似乎就置自身于道德高地。罗志田教授分析说：“在政治运动中有意识地运用民族主义这一政治手法在五卅运动后日渐风行，南方尤长于此。”</p>
+<p>在民族主义的国家建构部分，是北洋政府的短板，其未能为民众提供一个民族主义的目标并实现之。某种程度上，中华民国北京政府败给南方的国民党革命政府，正是因为革命与北伐，在意识形态上具备“统一”与“建国”的正当性，因而获得民众的认可，虽然这并不合法。这样使得南方革命政府无形中具备了“以有道伐无道”的精神力量，而北伐战争也成为民族主义对中国的一次全方位洗礼。</p>
+<p><strong>参考书目：</strong><br>
+1.罗志田：《乱世潜流——民族主义与民国政治》，中国人民大学出版社，2013年。<br>
+2.［美］里亚·格林菲尔德：《民族主义：走向现代的五条道路》，上海三联书店，2010年。<br>
+3.曹汝霖：《曹汝霖一生之回忆》，中国大百科全书出版社，2009年。<br>
+4.唐启华：《巴黎和会与中国外交》，社会科学文献出版社，2014年。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E8%B4%BE%E8%91%AD%EF%BC%9A%E5%B0%8F%E7%B2%89%E7%BA%A2%E5%8F%B2%E8%AE%B0-%E4%BB%8E%E6%8A%B5%E5%88%B6%E6%97%A5%E8%B4%A7%E5%88%B0%E7%81%AB%E7%83%A7%E8%B5%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%B4%8B%E5%86%9B%E9%98%80/?category=18271" rel="tag">北洋军阀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E6%97%A5%E8%B4%A7/?category=18271" rel="tag">抵制日货</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E5%9B%BD%E6%95%85%E4%BA%8B/?category=18271" rel="tag">民国故事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%AB%E7%83%A7%E8%B5%B5%E5%AE%B6%E6%A5%BC/?category=18271" rel="tag">火烧赵家楼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E5%8C%97%E4%BA%AC%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%9B%B8%E9%9A%9450%E5%B9%B4%E7%9A%84%E4%B8%A4/" target="cdt-mirror">中国人权双周刊 | 何清涟：北京政府与相隔50年的两次香港暴动</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-%E4%B8%8A%E5%8D%8811.03.14.png?resize=550%2C356" alt="Screen Shot 2016-02-18 at 上午11.03.14" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.03.14.png?resize=300%2C194 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-18-at-上午11.03.14.png?w=628 628w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>香港六七暴动</span></p>
@@ -582,26 +636,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81-%E5%AD%94%E9%A3%9E%E5%8A%9B%E5%9C%A8%E3%80%8A%E5%8F%AB%E9%AD%82%E3%80%8B%E4%B8%AD%E7%A9%B6%E7%AB%9F%E5%86%99%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">政见 | 孔飞力在《叫魂》中究竟写了些什么？</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/thumb.jpg?resize=396%2C600" alt="thumb" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/thumb.jpg?resize=198%2C300 198w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/thumb.jpg?w=396 396w" sizes="(max-width: 396px) 100vw, 396px" data-recalc-dims="1"></p>
-<p>1768年，乾隆盛世。安定和谐的社会表象之下暗流汹涌，千疮百孔的中国近代史即将拉开帷幕。在这个特殊拐点上，一种对“叫魂”妖术的恐惧短时间内近乎疯狂地席卷全国，十二个省份受到波及。农夫、官僚及皇帝均被卷入其中，在狂热的闹剧中兢兢业业地出演属于自己的角色。这或许是一个预兆，或许是一种警告；然而事件很快风平浪静，我们生活在18世纪的祖先并未意识到波折隐喻的社会状态。直到两百多年之后，美国学者孔飞力在北京第一历史档案馆里挖掘出这段被遗忘的历史，并以历史学的视角对其进行梳理和解读，写成了这本严谨而不失趣味、翔实而不致沉闷的著作：《叫魂：1768年中国妖术大恐慌》。</p>
-<p>在盛世繁荣的表象下，庞大的人口已开始对社会生活形成压力，山区与平原沿海区域的不平衡发展诱发了民众心底的惶恐不安。经济地图上的倾斜带来了人口的持续流动：“移民与过客，商人与江湖骗子，僧人与进香者，扒手与乞丐，拥塞在十八世纪的道路上。”对底层流浪者的疑惧一点一滴累积起来，最终在“叫魂”事件中爆发。浙江省一个县城修桥请来的石匠被诬将写有人姓名的纸条打入桩中借以害人；云游到萧山的和尚因询问小孩姓名而被恐慌的家长扭送官府屈打成招；恐惧的民众将身上带着几张护符的铁匠活活打死；在安溪县，甚至有人仅仅因为口音生僻而被村民捆绑并殴打至死；在苏州，几个乞丐被怀疑剪人发辫而遭拘捕，其中一人死在条件恶劣的狱中。</p>
-<p>对妖术的恐惧很快扩散到长江以北；在汉阳，一个“妖人”被群众私刑处死并遭焚尸。事态愈演愈烈，全国各地民众纷纷将可疑的乞丐、和尚、匠人、异乡客等扭送官府或群殴至死，各级官员疲于应对、屡屡动用大刑逼供，最终连乾隆皇帝也被惊动，接连下达谕旨清剿妖人。各省官员遂闻风而动，一个庞大而有组织的妖党团伙竟被无中生有地编造出来。</p>
-<p>事实上，到1768年底，几乎所有“叫魂”案都因没有足够证据不了了之，只见被诬陷冤死的无辜百姓，不见认罪伏法的作乱妖人；屈打成招与遭罗织陷害者纷纷翻供，承认并无其事。最后，乾隆皇帝不得不下令停止搜查，释放被羁押的疑犯，惩治办案不力的官员。这一风波终于偃旗息鼓。</p>
-<p>孔飞力认为，“叫魂”事件在民众、官员与皇帝眼中是截然不同的三个故事：</p>
-<p>对普通民众而言，下层阶级越来越多地渗入社区生活，激发了人们对陌生人早已有之的恐惧。他们对赤贫者的道德责任感随着乞讨现象的泛滥而不断削弱和模糊。当妖术谣言传播开来，他们的第一反应便是向离得最近的乞丐与和尚猛扑过去。同时，对于绝无可能接触权力的底层民众而言，“叫魂”一事忽然慷慨地赋予了他们一种权力的假象，似乎假借这一名义，便可满足心中报复与贪婪的欲望：“一旦官府认真发起对妖术的清剿，普通人就有了很好的机会来清算宿怨或谋取私利。这是扔在大街上、上了膛的武器，每个人——无论恶棍或良善——都可以取而用之。”这一罪名成为一股从天而降的力量，被不同境遇的底层民众视作量身定做的工具，借以获取自己无法通过其他路径实现的利益：“对担心受迫害的人，它提供了盾牌；对想得到好处的人，它提供了奖赏；对妒嫉者，它是一种补偿；对恶棍，它是一种力量；对虐待狂，它则是一种乐趣。”在普通民众无法真正享有权力的社会中，清剿异己的狂热带来的是一种虚无缥缈的快感；一旦这种行径被国家默许，便愈发难以抑制地蔓延开来。</p>
-<p>对乾隆皇帝而言，他最关心的与其说是妖术，不如说是“割辫”这一行为：在清朝，头发样式是一个政治问题，剪人发辫即可视为谋反。他在关于妖术的第一份谕旨中称“叫魂”之说“其言甚为荒诞……此等造作讹言，最易煽惑民庭，理应留心查禁……”可见他本人对于妖术并不相信，却深深忌惮背后可能存在的政治隐患。在他看来，百姓轻信、而且易被煽动蛊惑；妖术的威胁不在于百姓性命，而在于社会秩序和统治稳固。他同时认为，江南地区汉化程度较高的官员腐败顽固，朋党为奸，欺上瞒下，对妖术一事知情不报，因而不值得信任。而山东巡抚为抢占先机，在得知皇帝即将发出上谕的前一天递交奏折，声称叫魂并非简单流言，而真是妖党有规模、有计划地引发恐慌。巡抚提供的佐证是两个乞丐的供词；无论其中提及的剪人发辫、摄人魂魄乃至作乱谋逆之事是罗织编造抑或确有根据，这份供词都成为皇帝大规模镇压妖术的基础和理据。</p>
-<p>其实，对大部分官员们而言，他们普遍是因职责所在而谨慎行事，本身对妖术的说法不以为然，却又不得不在皇帝的催促与暴民的狂怒下给出个说法。在官员心目中，无论流浪者是否与妖术有关，都是不稳定因素：居无定所、四处漂泊者无法被纳入政府的控制体系，因而令官僚机构头痛。因此，当上层与下层的压力共同作用于他们身上，一部分为求自保的官僚们选择顺应圣意、大力清剿搜查。难得的是，仍有一部分官员采用各种抵制手段消极处理，直到风波平息。然而孔飞力指出，这些官员们设置障碍并不意味着封建官僚制度对皇权存在某种制衡。因为若要限制与平衡君主的专制权力，官员们就不能把自己仅仅视为皇帝的奴仆，而要相信自己是文化传统当仁不让的继承者。然而，在帝制早已是强弩之末的时期，具有此等胆识与自信的中国官员已属凤毛麟角。一个半世纪之后，当帝制终于垮台，滋养这种自信的社会与文化制度也随之崩溃。</p>
-<p>尽管各怀鬼胎，乾隆年间效率低下的旧中国官僚们在一定程度上可能阻挡皇帝与民众的狂热，“叫魂”一事也因此未能造成太大影响，在相对较短的时间内得以平息。然而，当旧制度终于垮台而新制度尚未完善之时，新统治者就可能利用和操纵民众的恐怖力量打击异己，而再也没有什么力量能够阻挡这种疯狂。从这层意义上来说，“叫魂”可算闹剧一场；而真正的悲剧，在近两个世纪之后才在中国上演。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E8%A7%81-%E5%AD%94%E9%A3%9E%E5%8A%9B%E5%9C%A8%E3%80%8A%E5%8F%AB%E9%AD%82%E3%80%8B%E4%B8%AD%E7%A9%B6%E7%AB%9F%E5%86%99%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%AB%E9%AD%82%E3%80%8B/?category=18271" rel="tag">《叫魂》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%BE%E9%9A%86/?category=18271" rel="tag">乾隆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E9%A3%9E%E5%8A%9B/?category=18271" rel="tag">孔飞力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">清朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%B7%E4%BF%A1/?category=18271" rel="tag">迷信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -613,7 +647,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%AB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -623,5 +657,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%AB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

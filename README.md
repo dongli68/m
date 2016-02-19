@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C%E4%B8%8A%E6%B5%B7%E8%AE%BF%E6%B0%91%E4%B8%81%E5%BE%B7%E5%85%83%E7%BB%99%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BF%A1%E8%AE%BF%E5%8A%9E%E9%A2%86%E5%AF%BC%E5%86%99%E8%B4%A3/" target="cdt-mirror">维权网｜上海访民丁德元给国务院信访办领导写责问信</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E4%B8%81.jpg?resize=228%2C400" alt="老丁" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老丁.jpg?resize=171%2C300 171w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老丁.jpg?w=228 228w" sizes="(max-width: 228px) 100vw, 228px" data-recalc-dims="1">（维权网信息中心报道） 2016 年 2 月 19 日，本网获悉：上海访民丁德元昨天（ 2016 年 2 月 18 日）给国务院信访办领导写了一封责问信题目为：“你们有没有将地方政府管好的能力？”</p>
+<p>据了解：丁德元（电话： 18721388935 ）在为自己维权的同时，更多地热心公益，为被公权力侵害的访民群体发声。</p>
+<p>丁德元到国务院信访办上访的上访事由：反映上海市政府对丁德元信访事处理的政府不作为行为，要求国务院信访办对上海市政府行政不作为行为进行惩治，督促上海市政府信访办按信访条例的相关规定处理其上访诉求。</p>
+<p>丁德元到公安部信访办上访的上访事由：反映上海市政府对丁德元信访事处理的行政不作为行为，要求公安部对上海市公安局行政不作为的行为进行惩治，督促上海市公安局信访办按信访条例的相关规定处理其上访诉求。</p>
+<p>丁德元的 3 个上访诉求：</p>
+<p>1. 因宅基地划分时布局的不合理，造成丁德元现今生活的不便与不适，要求得到补偿。 2. 要求市委、市政府信访办核实丁德元获上海市重点工程立功应得的奖励。 3. 请上海市信访办督促上海市公安局尽快查明 2013 年 5 月 15 日上海市黄浦区公安分局恶警 017299 ，殴打丁德元事件，要求：惩办凶手，给予赔偿。</p>
+<p>附：丁德元的责问信</p>
+<p>国务院办公厅信访办领导同志：</p>
+<p>2016 年 1 月 22 日，我被社区民警冯警官找去谈话并对谈话做了笔录，谈话中他先是劝告我“不要再到北京去参与集访”，后又告知我“集访是属于非访”，再又警告我：“你们这是在给政府施加压力！”我的回答是：“在上海市政府对我的上访诉求即不解决又不以书面形式讲明不解决原因的状况下，我不可能不到北京去上访”；“政府一方面将正访的通道堵死，另一方面却指责我们访民在非访；希望你能转告我们访民对国家信访局的责问：正访的道路在哪里？我们走得通吗？”、“作为公民，有权给政府施加压力！这才可使政府做好它应该做的事；老百姓现今的苦难就是因为无权给共产党、不能给政府施加压力造成的！”我在笔录的签名前写：“政府自己非法截访，还有什么脸面指责百姓非法上访？政府应该比民众更懂法、更守法！但政府做得到吗？”第二天我又得到一份市公安局的告知书“ •••••• ，任何人以组织抱团方式聚集上访，影响和破坏社会正常秩序的行为，都是违法行为。 •••••• ”我的回复是：“ •••••• ，即使是聚集活动，又有什么不可以呢？难道只许他们官家有组织的抱团侵权，就不许我们百姓组织起来抱团维权吗？ •••••• ” 2 月 5 日我又接到冯警官的电话告知：“你现在在北京可能要参与一项什么联署签名活动，现在我代表浦东公安分局告知你：希望你不要参与这项活动，如参与这项活动回上海后定将受到处理。”我在电话中回答：“我希望你们警察能按法执法，不要干涉我们百姓不违法的行为；假如你们对我作出违法执法行为我只能听天由命，我有坐牢或被枪毙的心理整备！”</p>
+<p>领导同志：近二个月来我们上海大多数访民都受到了与我相似的告知，受到告知的访民都认为警察的这一做法是违法的，警察这一违法行为是对我们人身自由的不法限制，是对我们公民权利的非法剥夺；由此我代表自己也代表愿意被我所代表的访民向上海警方作出了以下告知：“根据我国《信访条例》规定：公民有到政府信访部门走访的权利，任何人、任何组织对其寻衅和拦截都是破坏社会正常秩序的违法行为。 •••••• ，现今我郑重的告知你们：你们对我的告知及拦截都是在无事生非寻衅滋事，希望你们停止如此的违法行为，如果你们不听劝阻继续侵害我们的权利，我们将作出适度的对抗， •••••• ”</p>
+<p>领导同志：上海警方对我们上海访民所作出的违法行为是否受到了你们的指使？你们是否也认为我们到你办集访是非访行为？希望你们能告知我们：“正访的道路在哪里？我们走得通吗？”我们认为：依照宪法所规定的公民权利，公民应该有权向政府表明意愿、表示不满、表达愤怒、施加压力的权利。由此我代表自己也代表愿意被我所代表的访民向中央政府提出以下质问及告知：</p>
+<p>1 ，我们百姓维权难的原因是什么？这原因你们找过吗？我们认为：这是因为你们官家能够有组织的抱团侵权，我们百姓不能有组织的抱团维权造成的！在你们那个党的统一领导下，上下级、各部门官员空前绝后的团结，结成了对民侵权的统一战线；孤单无助的百姓怎有能力同有组织背景的刁、恶、贪官员进行抗争？在党的领导下、在官的操作下：有多少维权百姓被抢劫了财物又被限制了自由？又有多少维权百姓遭受了恐怖威胁与残暴殴打？还有多少维权百姓被关进黑监狱投入精神病医院？官员们空前绝后的团结，抱团对民侵权的结果是产生了空前绝后多的冤案，产生了空前绝后多的冤民，请问：现今哪个国家、以往哪个朝代有当今这么多的冤民？请问：哪个国家、哪个朝代的官员能这么有组织的压制冤民的喊冤、声援的活动？请问：面对以上状况的存在，你们看怎么办？我们该怎么办？我们希望现今遭受的苦难尽早结束，更希望我们子孙不再遭受我们现今的苦难。</p>
+<p>2 ，你们中央政府究竟有没有能力解决我们的上访诉求？我们对你们的诉求是“督促地方政府按信访条例处理、解决我们对它的上访诉求”； 假如你们自己没能按信访条例对我们接访也没能督促地方政府按信访条例对我们进行接访，哪你们还有什么脸面说我们在非访？</p>
+<p>3 ，你们中央政府究竟有没有能力将地方政府管好？究竟有没有能力督促它办好它应该办的事？究竟有没有能力阻止它对我们的非法拦截、非法关押及恐怖威胁？假如你们不能，就请你们把挑选地方政府首脑的权利还给我们吧！假如我们所挑选的地方政府首脑没能带领官员们办好我们所委托的事，我们就马上让他滚蛋！</p>
+<p>4 ，我们决不放弃向政府表明意愿、表示不满、表达愤怒、施加压力的权利！假如你们即没能管好地方政府又不肯将挑选地方政府首脑的权利还给我们，我们只得以到京集访及上街举牌的方式向你们表明我们的意愿、表示我们的不满及表达我们的愤怒：我们不想养你们这个占着茅坑不拉屎的中央政府！</p>
+<p>上海访民丁德元急盼你们的回信，回信请寄：上海市 浦东新区 合庆镇 东风村五队周家宅 11 号</p>
+<p>邮政编码： 201201 身份证号码： 310224195210189313 2016 年 2 月 18 日</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C%E4%B8%8A%E6%B5%B7%E8%AE%BF%E6%B0%91%E4%B8%81%E5%BE%B7%E5%85%83%E7%BB%99%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BF%A1%E8%AE%BF%E5%8A%9E%E9%A2%86%E5%AF%BC%E5%86%99%E8%B4%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%BE%B7%E5%85%83/?category=18271" rel="tag">丁德元</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E7%BD%91/?category=18271" rel="tag">维权网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429617/" target="cdt-mirror">【网络民议】凡动刀的必死于刀下——动坦克的呢？</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg" rel="attachment wp-att-429621"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?resize=550%2C385" alt="温州上岭教堂被当局强拆十字架／图片来源：自由亚洲" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?resize=300%2C210 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?resize=768%2C538 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>2015年12月28日，温州上岭教堂被当局强拆十字架／图片来源：自由亚洲</p></div>
@@ -639,26 +668,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E6%B7%AB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%88%98%E6%99%93%E6%B3%A2%E5%91%BD%E5%90%8D%E5%B9%BF%E5%9C%BA%E5%B0%86%E6%9C%89%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C/" target="cdt-mirror">BBC | 中国外交部：以刘晓波命名广场将有“严重后果”</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?resize=550%2C309" alt="61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111147_cn_liu_xiaobo_2005_640x360_afp.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。</p></div>
-<p><strong>中国外交部周二（16日）警告说，如果美国将中国驻华盛顿大使馆前的广场改名为“刘晓波广场”，将造成“严重后果”。</strong></p>
-<p>中国外交部发言人洪磊说，美国参议院通过的有关议案，违反国际关系基本准则，中方坚决反对。</p>
-<p>他说，如果议案得以成为法例，将造成严重后果。</p>
-<p>他还表示，中方敦促美国国会停止审议有关议案，也敦促美国行政当局制止这场政治闹剧。</p>
-<p>美国参议院周五（12日）通过由共和党籍议员总统参选人克鲁兹提出的议案，以诺贝尔和平奖得主中国异见人士刘晓波为首都华盛顿一个广场命名，地点位于中国大使馆门前。</p>
-<p>中国大使馆发言人批评克鲁兹提出的议案是挑衅而且毫无建设性，促请美方立即停止相关行动。</p>
-<p>白 宫发言人早前表示，美国总统奥巴马的资深政治顾问将建议否决该项议案，因为这对于要求中国改善其人权状况与释放刘晓波毫无助益。</p>
-<p>61岁的刘晓波是中国异议人士，2009年因为起草倡导民主改革的《零八宪章》被当局以“煽动颠覆国家政权罪”判处11年监禁。</p>
-<p>一年后，刘晓波获得了诺贝尔和平奖，但他至今仍在中国监狱服刑。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%BB%A5%E5%88%98%E6%99%93%E6%B3%A2%E5%91%BD%E5%90%8D%E5%B9%BF%E5%9C%BA%E5%B0%86%E6%9C%89%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -670,7 +679,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -680,5 +689,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

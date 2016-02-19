@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/429617/" target="cdt-mirror">【网络民议】凡动刀的必死于刀下——动坦克的呢？</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg" rel="attachment wp-att-429621"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?resize=550%2C385" alt="温州上岭教堂被当局强拆十字架／图片来源：自由亚洲" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?resize=300%2C210 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?resize=768%2C538 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/china-church-1-2.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>2015年12月28日，温州上岭教堂被当局强拆十字架／图片来源：自由亚洲</p></div>
+<p>新华社近日批评美韩拟部署萨德的<a href="http://news.xinhuanet.com/english/2016-02/18/c_135109878.htm">英语社评</a>，经翻译后由<a href="http://news.ifeng.com/a/20160219/47495378_0.shtml">观察网发表</a>，并特别指出文中新华社引用了圣经名句：<strong>凡动刀的必死于刀下</strong></p>
+<blockquote><p>朝鲜半岛与中国近在咫尺，在半岛部署反导系统，无疑会引起中方的警惕。针对美韩对朝不断亮出肌肉的行为，新华社今日（2月18日）发表英文社评，并引用了西方经典《圣经》中的一句谚语来劝告美韩的剑拔弩张：<strong>“凡动刀的必死于刀下”</strong>。</p>
+<p>在《圣经》故事中，耶稣的门徒曾为营救他，与犹太教拉比的亲兵展开激战。耶稣大弟子彼得更是砍下了一名士兵的耳朵。但最终耶稣劝诫彼得：“凡动刀的必死于刀下”。耶稣并于随后医治好了那名士兵的伤势。</p></blockquote>
+<p>与此同时，中国官媒全体无视了朴槿惠对习近平失望的新闻。<strong>根据《朝鲜日报》<a href="http://www.wenxuecity.com/news/2016/02/15/4973122.html">报道</a>，中方曾提议将中韩元首通话时间定在午夜</strong>（中韩时差仅一小时）<strong>： </strong></p>
+<blockquote><p>执政党有关人士表示：“朝鲜进行核试验后，朴槿惠期待习近平在对朝制裁方面积极应对。但此后连与习近平通话也难以进行，对习近平感到失望。”在朝鲜进行核试验后，朴槿惠与习近平的首次通话在5日进行。据悉，在此过程当中，朴槿惠对此大失所望。有关人士表示，中国方面建议，韩国时间4日晚上12点两国首脑进 行通话。中国决定两国首脑的通话时间定在朝鲜进行核试验过一个月后，还订了在外交惯例上难以接受的时间。对此，韩国方面表示：“那时间，我们不能通话”， 此后中国方面再建议“明日晚上9点进行通话”。</p>
+<p>两国首脑进行通话后，韩国方面对习近平的发言表示“中国方面将公布其内容”，只公布了朴槿惠的发言内容。实际上，按朴槿惠的预想，习近平对朝鲜的态度与固有的中国立场大同小异。</p></blockquote>
+<p>有不少网民表示，中国当局多年以来在全国各地<a href="https://chinadigitaltimes.net/chinese/wp-admin/edit.php?tag=%E5%BC%BA%E6%8B%86%E5%8D%81%E5%AD%97%E6%9E%B6">强拆十字架</a>，此时却引用圣经来指责他人，显得格外讽刺。而“凡动刀的必死于刀下”这样的句子，更是可以原封不动地奉送给中共政府。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@故里年少演草本：动坦克的呢？</p>
+<p>@公民社会2017：凡动刀，必死于刀下。这话我信，那些向人民开枪的，必然死在抢下。</p>
+<p>@<a href="http://weibo.com/n/556%E4%BA%94%E4%B8%81?from=feed&loc=at" target="_blank">556五丁</a>: 魔鬼也在运用神的话！新华社也信耶稣了吗？还是有了绿卡的爱国贼慌了神了？无耻到了偷换立场了，妖魔鬼怪乱舞呀！<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"><br>
+@<a href="http://weibo.com/1409331355" target="_blank">额也微个博</a>：新华社不做党的喉舌，改信耶稣了？<img title="[疑问]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw_org.gif" alt="[疑问]" data-recalc-dims="1"><img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"></p>
+<p>@LoveTrust哩: 拆十字架不遗余力，遇事还要倚靠上帝，脸皮真厚！</p>
+<p>@小昭的新家：为了一个金三胖子的朝鲜，把近年来对中国最友好的朴槿慧韩国推到美国怀里，真的值得吗？！！</p>
+<p>@肖57雪慧: 朝鲜在我们家门口放核炮，美韩宣布要教训，中国最受朝鲜核试验之害，政府倒急急忙忙出来反对要教训金家政权的美韩；宣称无神论，却在《圣经》中选出“凡动刀的必死于刀下”词句，来卫护金家政权。变态！</p>
+<p>@看戏熊的鬼魂：这自黑牛逼。三胖决定犬决新华社主编。另外，这句话还可以原封不动送给赵国。。</p>
+<p>@来点实话：所以金正恩要死在倒下，因为他经常杀人。</p>
+<p>@自民平博16：在某统治之下仅仅数十载死于同胞屠刀之下有多少？？？</p>
+<p>@小昭的新家：为了一个金三胖子的朝鲜，把近年来对中国最友好的朴槿慧韩国推到美国怀里，真的值得吗？！！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/429617/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E9%9F%A9%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中韩关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%97%A0%E6%A0%B8%E5%8C%96/?category=18271" rel="tag">朝鲜无核化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">西朝鲜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%99%88%E4%BA%91%E9%A3%9E%E6%A1%88%E7%A7%BB%E4%BA%A4%E5%8C%BA%E6%A3%80%E5%AF%9F%E9%99%A2-%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA%E5%90%8D%E6%88%96%E8%A2%AB%E5%8F%96%E6%B6%88/" target="cdt-mirror">自由亚洲｜陈云飞案移交区检察院 “煽动颠覆”罪名或被取消</a>
+</h2>
+<p><p>四川维权人士陈云飞因为被强拆户维权，嘲讽法律已死，去年被成都市检察院以“涉嫌煽动颠覆国家政权罪”和“涉嫌寻衅滋事罪”批捕。陈云飞的律师冉彤2月18日表示，案件已由武侯区检察院从成都市检察院接手，表明陈云飞被控的“煽颠罪”已经取消，剩下“寻衅滋事”一项罪名。</p>
+<p>被以“涉嫌煽动颠覆国家政权罪”和“涉嫌寻衅滋事罪”逮捕，并已羁押十个月的四川成都维权人士陈云飞，其案情近期发生变化。陈云飞委托的律师冉彤于2月17日到看守所会见当事人后对外表示，成都市检察院接受了律师意见，取消了对陈云飞“煽动颠覆国家政权”的控罪，将案件下移到武侯区检察院。冉律师18日对本台记者表示，根据刑事诉讼法的规定，危害国家安全罪应由市中级法院审理。日前陈云飞案被移送武侯区检察院，表明“煽颠罪”被取消：“当时是由成都市检察院准备起诉到成都市中级法院，后来我就和检察官沟通，检察官还是尊重了我们的意见。虽然不是明说取消了，但是他把这个案子下放到武侯区检察院，区检察院是向区法院提出起诉的，区法院是不能审理‘煽颠’案子的。实际上不再就此罪名指控他了”。</p>
+<p>2015年3月25日，陈云飞与维权公民20余人到成都市新津县，为当年的六四死难学生肖杰、吴国峰扫墓，在返程途中遭到上百名持枪特警的围追堵截，3月26日即被四川省新津县警方以涉嫌“煽动颠覆国家政权罪”、“寻衅滋事罪”刑事拘留；4月30日，被以同样罪名正式批捕。</p>
+<p>冉彤还说，陈云飞只是帮助武侯区老百姓维权：“（帮助）被违法强拆的老百姓维权，在房子的废墟上搭了一个灵堂，说他侮辱了区政府。说他是寻衅滋事。其实这个罪也是不成立的。在中国现在的环境下，你想完全无罪，确实是比登天还难的事情。陈云飞就说他得不到大奖了。昨天我也见到他，我说你梦寐想得大奖，你可能得不到了。寻衅滋事就比较低了，三年以下”。</p>
+<p>熟悉案情的成都维权人士黄晓敏18日对记者说：“据说成都市公安局或跟陈云飞私人之间有过节的一些警察披露说，给陈云飞定煽动颠覆国家政权罪，有证言，也有具体的行动，也有大量的通过海内外网站搜集到的构成颠覆罪的基本要素的很多证据。这些办案警察说，我们一旦出手，就要让陈云飞坐牢七年以上或八年以上，甚至更长时间”。</p>
+<p>黄晓敏认为，当局放弃对陈云飞“煽颠罪”的指控，估计与无法搜集到有力的证据有关。而四川近期又成贪污腐败的重灾区，当地政府担心如果进一步扩大陈案，最终难以收场。</p>
+<p>目前被羁押在成都市新津县看守所的陈云飞，曾参加过“八九学运”，2007年6月4日，曾因在《成都晚报》刊登“向坚强的六四遇难者母亲致敬”的广告，被以涉嫌“煽动颠覆国家政权罪”监视居住六个月，后被禁止出境。今年1月31日，陈云飞的女儿陈欣月在美国的“人道中国”组织等多方努力下抵达美国，开始新的生活。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%99%88%E4%BA%91%E9%A3%9E%E6%A1%88%E7%A7%BB%E4%BA%A4%E5%8C%BA%E6%A3%80%E5%AF%9F%E9%99%A2-%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA%E5%90%8D%E6%88%96%E8%A2%AB%E5%8F%96%E6%B6%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">陈云飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%AC%A3%E6%9C%88/?category=18271" rel="tag">陈欣月</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/" target="cdt-mirror">【图说天朝】央视姓党 绝对忠诚</a>
+</h2>
+<p><p>根据<a href="http://news.sohu.com/20160219/n437852581.shtml">央视网</a>报道：</p>
+<blockquote><p>2月19日上午11时15分，中共中央总书记、国家主席、中央军委主席习近平来到中央电视台调研。</p></blockquote>
+<p>期间，央视赫然打出了“<strong>央视姓党 绝对忠诚 请您检阅</strong>” 这样的迎接口号：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg" rel="attachment wp-att-429606"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=550%2C413" alt="央视姓党2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong><a href="http://weibo.com/1667422442/DiytT5OOL">@朴抱一</a></strong>：@党东峰 央视跟着你们家姓了。<em>（via新浪微博）</em></p></blockquote>
+<p><strong>近距离欣赏：</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg" rel="attachment wp-att-429611"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=550%2C309" alt="央视姓党1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=1024%2C576 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?w=1200 1200w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p>莫之许<strong> <a href="https://twitter.com/mozhixu/status/700561307284549632">@mozhixu</a></strong>：我说，那些还在转央视四大名旦白崔柴张伪造语录的人，是不是可以停止服药了？<em>（via Twitter）</em></p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kni5e28j20rs0kun27-copy.jpg" rel="attachment wp-att-429612"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kni5e28j20rs0kun27-copy.jpg?resize=500%2C375" alt="央视姓党3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kni5e28j20rs0kun27-copy.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kni5e28j20rs0kun27-copy.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kni5e28j20rs0kun27-copy.jpg?w=1000 1000w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a> <a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kng1wb3j20rs0kujws.jpg" rel="attachment wp-att-429608"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kng1wb3j20rs0kujws.jpg?resize=500%2C375" alt="央视姓党4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kng1wb3j20rs0kujws.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kng1wb3j20rs0kujws.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/791cf959jw1f14kng1wb3j20rs0kujws.jpg?w=1000 1000w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/2031941977/DiyoKAiOo">@顺利顺子</a>：#总书记来到央视# 大明星来了<em>（via新浪微博）</em></p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/9e5389bbjw1f14kcbivabj21130tz79y.jpg" rel="attachment wp-att-429605"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/9e5389bbjw1f14kcbivabj21130tz79y.jpg?resize=500%2C404" alt="央视姓党5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/9e5389bbjw1f14kcbivabj21130tz79y.jpg?resize=768%2C621 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/9e5389bbjw1f14kcbivabj21130tz79y.jpg?w=1024 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/2656274875/Diyk7Bmz9">@央视新闻</a>：习近平总书记走进《新闻联播》演播室 坐上央视主播台体验新闻播报<em>（via新浪微博）</em></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD/?category=18271" rel="tag">新闻联播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%AB%E8%B7%AF%E5%86%9B%E7%BC%B4%E8%8E%B7%E7%9A%84%E3%80%9D%E6%97%A5%E5%86%9B%E7%A0%8D%E5%88%80%E3%80%9E-%E2%80%95%E2%80%95%E8%AF%84%E5%B9%B3%E5%9E%8B%E5%85%B3%E5%A4%A7%E6%8D%B7%E7%BA%AA%E5%BF%B5/" target="cdt-mirror">姜克实：八路军缴获的〝日军砍刀〞 平型关大捷纪念馆的展示</a>
 </h2>
 <p><p>两年以前2014年的3月18日，笔者为了进行实地调查，在山西大学有关部门的协助下，曾走访过平型关。目的是调查平型关战役的全体情况。当然，其中也包括八路军115师的小寨村伏击战。所以专门挤出了约一个小时，匆匆走访了乔沟近旁的平型关大捷纪念馆。这是一座很雄伟的建筑，坐立于战场东方的半坡上上。在正面看不到的山顶部，更有一个广阔的生活，办公的空间。承蒙某领导的好意，在午休未开馆的时间里，纪念馆专门为我打开了展示室，得以匆匆在馆内浏览一遍。说实话，像预料中的一样，并没有多少文字，档案史料，展示的不过是一些照片，图片和为数不多的，如下图所示的数十件实物（此外还有一个展窗）。</p>
@@ -590,112 +659,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3%E8%A6%81%E6%B1%82%E6%94%B9%E5%90%8D/" target="cdt-mirror">【立存此照】战舰少女要求改名</a>
-</h2>
-<p><p>@remonwangxt：手机游戏《战舰少女》中所有的日本军舰名字全部被审查部门勒令改掉。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUEAAKJbp.jpg?resize=500%2C889" alt="CbUdiiyUEAAKJbp" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUEAAKJbp.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUEAAKJbp.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUsAIaOw5.jpg?resize=500%2C810" alt="CbUdiiyUsAIaOw5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUsAIaOw5.jpg?resize=185%2C300 185w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbUdiiyUsAIaOw5.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3%E8%A6%81%E6%B1%82%E6%94%B9%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/?category=18271" rel="tag">国家法律法规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3/?category=18271" rel="tag">战舰少女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E5%90%8D/?category=18271" rel="tag">改名</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%AF%B9%E5%8E%86%E5%8F%B2%E7%9A%84%E5%8F%AB%E9%AD%82/" target="cdt-mirror">荐读｜对历史的叫魂</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%AD%94%E7%AB%8B%E9%A3%9E.jpg" rel="attachment wp-att-429384"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%AD%94%E7%AB%8B%E9%A3%9E.jpg?resize=475%2C373" alt="孔立飞" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/孔立飞.jpg?resize=300%2C235 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/孔立飞.jpg?w=640 640w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p>在我27岁的时候，曾经陷入记者生涯的一个难堪的瓶颈期：自觉已经熟练掌握的报道套路，让我对商业世界的观察和写作索然无味。在那年，我读到了至今对我影响 至深的两本书，一本是《叫魂》，一本是《科学革命的结构》。它们突然启发了我的思维方式：从历史、社会学和科学研究中借鉴其方法论，由此形成对商业世界的重新审视。</p>
-<p>我惊叹于《叫魂》的写作手法——从大量的枯燥的清宫历史档案中形成一个“故事”可讲述，并且详略得当地处理如此多的素材；更惊叹于它向我展示一个系统如何在冲突与控制中运作——许多公司故事难道不都是类似吗？</p>
-<p>《叫魂》对中国社会的部分描述和解析，让人感觉也像是在描述当下。宛若就是对历史的叫魂。</p>
-<p>看看这些精彩的片断：</p>
-<blockquote><p>“作为现代中国的前奏，叫魂大恐慌向中国社会的观察者们凸显了一个特别令人难过的现象：社会上到处表现出以冤冤相报为形式的敌意。叫魂案从一开始就带有这种令人不快的特性。……除了丑恶的嫉妒，还有无耻的贪婪……”</p>
-<p>“一旦官府认真发起对妖术的清剿，普通人就有了很好的机会来清算宿怨或谋取私利。这是扔在大街上的上了膛的武器，每个人——无论恶棍或良善——都可以取而用之。在这个权力对普通民众来说向来稀缺的社会里，以‘叫魂’罪名来恶意中伤他人成了普通人的一种突然可得的权力。对任何受到横暴的族人或贪婪的债主逼迫的人来说，这一权力为他们提供了某种解脱；对害怕受到迫害的人，它提供了一块盾牌；对想得到好处的人，它提供了奖赏；对妒嫉者，它是一种补偿；对恶棍，它是一种力量；对虐待狂，它则是一种乐趣。”</p>
-<p>“我们在这里所瞥见的，是否是一个已被人口过度增长、人均资源比例恶化、社会道德堕落所困扰的社会所遭遇到的一种道德报应？在这样一个倍受困扰的社会里，人们会对自己能够通过工作或学习来改善自身的境遇产生了怀疑。这种情况由于腐败而不负责任的司法制度而变得更加无法容忍，没有一个平民百姓会指望从这一制度中得到公平的补偿。在这样一个世界里，妖术既是一种权力的幻觉，又是对每个人的一种潜在的权力补偿……”</p>
-<p>“‘受困扰社会’的特殊政治就是在这种情况下产生的。在帝制后期的中国，绝大多数人没有接近政治权力的机会，也就不能以此通过各自的利益相较去竞争社会资源。对普通臣民来说，仅仅是组成团体去追求特殊的社会利益便构成了政治上的风险。有时，人们便会到旧的帝国制度之外去寻求这种权力；其结果就是造反和革命。但对大多数人来说，权力通常只是存在于幻觉之中；或者，当国家清剿异己时，他们便会抓住这偶尔出现的机会攫取这种自由飘浮的社会权力。只有非常的境况才会给无权无势者带来突然的机会，使他们得以改善自己的状况或打击自己的敌人。即使今天，让普通民众享有权力仍是一个还未实现的许诺。毫不奇怪，冤冤相报（这是‘受困扰社会’中最为普遍的社会进攻方式）仍然是中国社会生活的一个显著特点。”</p>
-<p>“……但在某些极不寻常的情况下，处于最高层的官员们显然仍可能运用某些为任何政府都必须遵守的最高准则来限制君主的专制权力。要做到这一点，他们就不能把自己仅仅看作是为某一特殊政权服务的臣仆。这样的自信，只会存在于那些相信自己是文化传统当仁不让的继承者的人们身上。在中国帝制后期的政治生活中，即使在最高的行政层次，具有这种胆识的人士已属凤毛麟角。一个半世纪后，当帝制垮台而滋养这种精英自信的社会和文化制度也随之崩溃以后，这样的胆识也就变得更为稀缺了。</p>
-<p>没有人会哀悼旧中国的官僚制度。即使按照当时的标准，它所造成的社会伤害也已超出了仅仅压碎几个无依无助的游民踝骨的程度。但不论是好事还是坏事，它的特性却可以阻挡任何一种狂热。没有这样一个应急的锚碇，中国就会在风暴中急剧偏航。在缺乏一种可行的替代制度的情况下，统治者就可以利用操纵民众的恐惧，将之转变为可怕的力量。生活于我们时代的那些异见人士和因社会背景或怪异信仰而易受指控的替罪羊，便会成为这种力量的攻击目标。没有什么能够伫立其间，以阻挡这种疯狂。”</p></blockquote>
-<p>昨天晚上的消息，这位著名的西方汉学家、《叫魂》的作者，孔飞力（PhilipKuhn）逝世，享年83岁。</p>
-<p>今天荐读华东师范大学思勉高等研究院教授、《叫魂》的译者之一刘昶写于1999年的一篇文章，再次推荐该书。</p>
-<p>如果你已读过，不妨再读一遍。</p>
-<p>——————–</p>
-<p>（原标题）</p>
-<p><strong>“盛世危言”——《叫魂》读解</strong></p>
-<p><em>作者：刘昶<br>
-来源：《史林》1999年第2期<br></em><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8F%AB%E9%AD%82.jpg" rel="attachment wp-att-429385"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%8F%AB%E9%AD%82.jpg?resize=485%2C485" alt="叫魂" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/叫魂.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/叫魂.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/叫魂.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/叫魂.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/叫魂.jpg?w=640 640w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"></a></p>
-<p>1768年，清乾隆三十三年，一种叫做“叫魂”的妖术恐惧突然在中国爆发。这一妖术恐惧从大清帝国最富庶的江南发端，沿着运河和长江北上西行，迅速地席卷了大半个中国。愚夫愚妇们受这种妖术恐惧的支配相信妖术师可以通过人的发辫、衣物，甚至姓名来盗取其灵魂为自己服务，而灵魂被盗者则会立刻死亡。从春天到秋天的大半年时间里，整个帝国都被这妖术恐惧动员起来。小民百姓忙着寻找对抗妖术、自我保护的方法，各级官员穷于追缉流窜各地频频作案的“妖人”，而身居庙堂的乾隆皇帝则寝食不安，力图弄清叫魂恐惧背后的凶险阴谋，并不断发出谕旨指挥全国的清剿。折腾到年底，在付出了许多无辜的性命和丢掉了许多乌纱帽后，案情真相终于大白，所谓的叫魂恐惧只是一场庸人自扰的丑恶闹剧：没有一个妖人被抓获（因为他们本来就是子虚乌有），没有一件妖案能坐实，有的只是自扰扰人，造谣诬陷，屈打成招。沮丧失望之余，乾隆皇帝只得下旨“收兵”，停止清剿。（注：《叫魂》（孔飞力著），已由陈兼、刘昶译成中文，上海三联出版社出版。）</p>
-<p>这个故事就其本身情节来说已够精彩，而经过历史学家的阐幽发微，更可以说出一大堆教训来，于是就有了孔飞力教授的著作《叫魂》。该书于1990年出版，当年便获美国亚洲研究学会最高学术奖之一的“李文森奖”，受到广泛的好评。在《叫魂》一书中，1768年的妖术恐惧被重构为三个不同版本的故事，它们分别叙述了不同社会群体和角色对叫魂妖术的理解和反应，然后作者又从一个更广阔的角度讨论了这一事件的历史意蕴。</p>
-<p>第一个版本是贩夫走卒、乡愚村妇的故事。叫魂恐惧首先在社会底层爆发。乾隆三十三年初，浙江德清县城东的水门和桥梁因年久失修而倒塌，一支来自海宁的工程队投标失败无功而返，仁和县的石匠吴东明承揽了修建工程。这件事本来极为普通，却被邻近一个寺庙的和尚恶意利用。德清城外有两座寺庙，观音殿和慈相寺，观音殿香火鼎盛，而慈相寺则门可罗雀。穷极潦倒的慈相寺和尚为争夺香火，便利用这个竞标事件散布谣言并发了传单，说投标失利的海宁石匠为了报复在县城外去观音殿的路上做了法，路过之人都要遭殃。这个谣言不胫而走，并被添枝加叶，变成了包工石匠要偷盗灵魂来加固水门和桥梁的基础。由于民间本来就普遍相信匠人有施法害人的魔力。于是有人找上吴东明，求他将写有自己仇人姓名的纸条打进桥椿里。吴害怕惹出麻烦，将其扭送官府。这个倒霉的家伙受一顿杖责。但这已经来不及止熄吠影吠声的谣言，它很快传遍了江南市镇乡村的每一个角落，并继续扩散。一时间，人们谈妖色变，无端地猜疑，蓄意地诬陷，演出了一出又一出闹剧，把大半个中国拖进了一场丑恶的歇斯底里。</p>
-<p>在传统中国，妖术迷信和恐惧对底层大众来说并非陌生，妖魔鬼怪、阎罗无常本来就是他们精神世界的一部分。但这种迷术和恐惧演成这样全社会的歇斯底里却并不常见，特别是在所谓的太平盛世。乾隆时代正是清代的所谓盛世，既为盛世何以妖术横行？第一个版本的故事要回答的正是这样一个问题。</p>
-<p>满清王朝在经历了康熙、雍正两朝的苦心经营和修养生息后，到了乾隆时代达到了其鼎盛阶段，经济繁荣，社会安定，国库充盈，百姓安居乐业。但在作者看来这个盛世只不过是一个镀金时代。透过表面的繁荣去探究社会财富的分配以及资源、财富和人口的关系，就可以发现社会深层潜藏的危机以及这些危机在社会意识层面上的反映。清代前期的修养生息、和平发展不仅带来了经济和社会的繁荣，也造成了人口的急剧增长，在整个十八世纪，中国的人口翻了一番，达到三亿多。人口压力的增加意味着生存竞争的加剧。对于处在社会底层又在经济落后的边缘地区的人们来说这加剧的竞争可以随时夺去他们生存的机会和权利，将他们裹挟到无家可归的流浪乞讨者大军中去。正是他们成了民间妖术恐惧所攻击的首当其冲的目标，也是官府清剿的主要对象。</p>
-<p>对大多数比较幸运的人们来说，特别是生活在富庶的经济中心如江南地区的人们来说，盛世的繁荣意味着他们还能通过辛勤劳作维持温饱。但是他们同样感受到生存竞争的严酷，对眼前和未来的生活缺乏安全感。当叫魂妖术的谣言在地方上一传开，他们脆弱的神经立刻绷得紧紧的，唯恐自己成为妖术的受害者。他们无法分辨谣言与真实，因为鬼神迷信本来就是他们精神世界的一部分，而他们的不安全感使他们变得更为神经过敏，所以对谣言他们宁信其有，不信其无。对地方社会来说，流浪的乞丐不仅讨厌，而且易欺，他们是社会上最弱势的一群，没有任何权力，不论官府还是民间社会，来保护他们。相比之下，无权无势的小民百姓都可以对他们任意威福，把自己的焦虑、不满、愤怒、沮丧发泄到他们身上。在叫魂危机中，许多所谓的妖术案都是小民百姓或衙门胥吏、地方棍徒对流浪乞丐和游方僧道的攻击，这样的众暴寡、强凌弱是整个叫魂危机中常见的丑恶闹剧。许多无辜的乞丐游僧就惨死在这种暴民的攻击之下，成为叫魂恐惧的牺牲品。</p>
-<p>叫魂案的第二个版本是各级官僚的故事。和愚不可及的小民百姓不同，官僚们是饱读诗书的知识阶级，他们不会那么轻易地相信叫魂妖术。再说官僚士大夫一般不会有小民百姓的那种朝不保夕的衣食之忧，他们对妖术谣言也不会有切身的恐惧和不安。不过各级官员大都有守土之责，他们即使不信妖术，也不可能不担心民间妖术恐惧对地方治安可能造成的后果。无论于公（维持治安）还是于私（保住乌纱帽），妖术和妖术恐惧对他们都构成一种威胁，使他们不得不认真对待。</p>
-<p>有意思的是，各级官员们尽管职位处境不同，品德操守各异，他们在妖术恐惧初起时的因应之道却大致相同。他们都力图息事宁人，安抚民间的恐慌，制止谣言的流传，打击无事生非、挑起事端的衙门胥吏和地方棍徒。虽然剪割发辫的所谓妖术似乎在挑战满清王朝的剃发制度，没有人小题大做，把这种妖术恐惧与叛乱谋反联系在一起，并将其当做紧急的非常事件奏报朝廷。</p>
-<p>按照常规，地方官（首先是知县）有责任维持自己辖区的治安，并将所有超出杖责处罚的刑案报告省巡抚法庭，而死刑案则要由皇帝亲自审核。《清律》将多种妖术定为死罪，据此叫魂案似乎也应该移送省庭，并最终移送北京。表面上看来，对妖案无论是就地处理还是奏报朝廷，地方官都是在履行职责范围内的公务，而奏报朝廷还可以减轻他们自己的责任。然而事实却并非如此，如果把发生的事件局限在自己辖区和职权范围之内，地方官就可以按官僚制度的常规独立全权地来处理，而不必受制于专断独裁的君权。但是一旦朝廷和皇帝卷入了地方妖案的清剿，官僚制度优游从容的常规就会被打乱，地方官就把自己直接置于君权的反复无常的淫威之下。对地方官来说，要避免这样的结果，最好的办法就是息事宁人，把地方上的叫魂恐惧局限在自己辖区和职权范围内，对朝廷封锁有关的信息。因为按照官僚责任制的常规，一项罪行如果未被官方——朝廷确认，地方官员就不会因为对此项“罪行”失察而受惩罚。这就是为什么在叫魂危机发生的最初两个月里，没有一个官员主动向乾隆皇帝报告过地方上发生的妖术恐惧。各省官僚的这种默契，织成了一张官官相护的网络，共同对皇帝封锁消息。</p>
-<p>虽然乾隆皇帝暂时被自己的地方官员们蒙蔽，但他在各省有自己的眼线。通过这一独立于官僚体制的情报来源，他终于知道了春天在江南发生的那些“叫魂案”。一旦面临君主的震怒和迫在眉睫的惩罚，各省官僚间原先的那种默契立刻不攻自破。山东巡抚富尼汉抢先一步，在本省发动了对叫魂妖术的围捕，各省也随着跟进。很快地，山东就抓获了许多“妖党”、从妖党的“口供”中得知掀起这场叫魂恐惧的“妖首”就潜伏在江南。乾隆命令各省向山东看齐，并令江南各省缉拿妖首。在乾隆的巨大压力下，整个官僚体制终于被动员起来，一场对叫魂妖术的清剿迅速在全国展开。这场清剿持续了好几个月，在制造了无数冤案，戕害了许多无辜无助的性命之后，才因破绽百出而被迫叫停。</p>
-<p>和官僚们的故事不同，叫魂案的第三个版本是专制君主乾隆（在《叫魂》一书中，作者在提到乾隆皇帝时都是径用其本名弘历）的版本。虽然乾隆皇帝只是一个人，他代表的却是满清帝国的整个制度。不管他是否相信妖术本身，在他眼中，妖术的威胁及其背后所隐藏的政治阴谋是确实存在的。他相信有人正在利用剪辫妖术来煽动（汉）人们对清帝国的仇恨，并阴谋挑起反满叛乱。所以，当他一得知地方上的叫魂恐惧，就立刻发动了对妖术的清剿。不仅如此，叫魂危机中官僚们的表现更让他愤怒和失望，并强化了他对官僚们、特别是对汉官僚们长期来抱有的猜忌。在他看来，正是官僚们的ｍāｎ＠①顸怠惰、敷衍塞责、欺上瞒下、官官相护才使得“妖术”在帝国的江南腹心横行无阻，并像瘟疫一样迅速蔓延。对帝国来说，这种官场的腐败积习同样是一种威胁，其危害程度并不亚于民间的妖术。这种腐败积习是以江南为中心的汉官僚—士大夫文化的毒痈，它侵蚀着满清帝国的活力，腐化着满洲统治精英的道德士气。要清剿妖术，必须首先对这样一部官僚机器加以整肃。</p>
-<p>乾隆从一开始就对这样一场包含内外两条战线的清剿倾注了全副的精力和热忱。他坐镇北京和承德行宫，通过与各省督抚间的秘密通讯渠道，直接指挥着各省的清剿。一时间，清剿成了帝国的头等大事，各种行政常规，如田赋、科举、河工、盐政、肃贪，都要为其让路。对清剿的任何延误都将受到严厉惩罚。各省的清剿奏章雪片般地飞抵乾隆的御前，在加上他的御批指示后又迅速回到奏报人手中。乾隆运用其君主权威和帝王手段对他的督抚们不停地激励鞭策和训斥威胁，把这场两条战线的清剿上演得有声有色，紧张激烈。</p>
-<p>随着清剿的展开，妖术案的破绽越来越多，但这并不能轻易动摇乾隆的意志和决心。他一方面命令各省将重要的叫魂嫌犯解往北京、承德，由他的军机大臣们直接会审；另一方面他对各省官员们施加了更大的压力。他埋怨地方官员继续敷衍姑息（这是事实），致使妖首至今逍遥法外；又埋怨他们滥捕充数，滥刑求供（这也是事实），使得案情益加扑朔迷离，茫无头绪。他对官僚们的愤怒和失望随着案情的展开也日益加剧。清剿越来越成了他与各省官僚间的暗中较劲，仅仅是为了整肃他们，清剿也必须毫不犹豫地继续下去。不过，至此为止，乾隆并未处罚过一个官员，并不是他不想这样做，而是时机未到。如他自己对督抚们说的，这时若惩罚官员，谁还会真心实力去从事清剿？显然，乾隆在准备秋后算帐。</p>
-<p>乾隆的军机大臣对押解来京的嫌犯反复地交叉审讯，终于发现整个叫魂案根本就是一场冤案，而且冤狱的程度大大超出了他们的想象。迄今为止他们一直协助皇上在进行这场清剿，不过现在他们不得不考虑如何善后。为了避免整个朝廷陷入更大的尴尬，他们显然表现了相当的道德勇气。乾隆毕竟还不是昏君，他很快接受了军机大臣们的建议，下令停止清剿。不过乾隆不甘心认错，在下令叫停的谕旨中，他仍然坚持妖术阴谋的存在，只是由于各级官僚的玩忽职守，才导致妖首至今逍遥法外。所以各级官员仍应保持高度警惕。有了这样一个说辞，乾隆就可以名正言顺地对各级官僚加以清算。绝大多数官僚都因玩忽职守而受降职、革职和流放的处罚，包括六名现任和前任江浙督抚。作为平衡，一些滥刑无辜以求假供的官员也受到惩罚。相比之下，在清剿中滥捕滥刑，给朝廷和官僚机器制造了最多麻烦的山东巡抚富尼汉（所有关于叫魂阴谋的供词都是山东嫌犯在重刑之下编造出来的）却只受到相当轻微的责罚：他被贬为山西布政使，革职留任。当然明眼人一看就知道这是乾隆在为自己开脱。</p>
-<p>在讲完了三个不同版本的故事后，作者又进一步讨论了叫魂故事背后的历史意蕴。按照作者的分析，叫魂故事可以帮助我们理解传统中国政治和中国社会的一些基本问题。</p>
-<p>在传统的中国政治生活中，君主和官僚是同一制度中的两个方面。官僚的职责是维持帝国政治机器的日常运转，管理帝国的各级行政。官僚就其本性来说，倾向于按常规办事。从积极的方面来说，这种倾向有助于政治的理性化发展，但其消极方面则是助长官僚主义的惰性。官僚制常规权力的发展必然对君主的专断权力造成威胁。在传统中国的制度安排中，君主的权力是专断的和绝对的，其职责是制定重大决策和对官僚机器进行控制。如果听任官僚制度朝常规理性（和惰性）的方向发展，君主就会逐渐丧失其决策和控制官僚的专断权力，成为官僚制度的傀儡。正是在这个意义上，韦伯争论说，君主的专断权力和官僚的常规权力是相互消长排斥的，从长远的角度来看，专制君主屈从于官僚理性化的常规。</p>
-<p>但是作者不同意这样的论断。他认为在中国的制度中，专断权力和常规权力并不一定杆格不入，而很可能有和平相处之道。因此他把传统的中国政治制度定义为“官僚君主制”。那么，君主的专断权力和官僚的常规权力是如何和平相处，特别重要的是，君主是如何实现其对官僚的控制的呢？作者通过对叫魂妖术危机的进一步讨论，提出了“政治罪”这样一个概念。孔飞力强调是政治罪为帝国政治的运作提供了燃料。按照他的定义，政治罪指的是威胁帝国安全的各种形式的谋反，它们是超出常规的非常事件，无法由官僚制度的行政常规来处理。这种非常的形势给了君主极大的自由来动员、驱策和整肃他的官僚，并强化他对官僚机器的控制（因为在常规情况下，一切行政事务都可以、而且应该照章办事，专制君主也不得不遵守由这些行政则例所定下的游戏规则，这种常规的管理给君主的活动留下的空间有限）。在叫魂危机中，乾隆皇帝正是利用了妖术恐惧这样的非常事件，迫使整个官僚机器把清剿当做压倒一切的政治，并以清剿的表现来赏罚官僚，从而强化他对官僚的控制的。</p>
-<p>虽然政治罪这个概念有助于我们认识中国政治中君主和官僚之间的错综复杂的权力关系，但我觉得它却不能从根本上否认韦伯关于君主专断权力和官僚的常规权力此消彼长的立论。因为从理论上来说，君主的权力应该是绝对的，他对官僚的有效控制本应是常规框架之内的安排，而无须借助政治罪这样的非常事件来大做文章。一旦他需要借助非常事件来强调他的专制权力，这已经表明他无法在常规领域内对他的官僚实行有效控制。孔飞力本人也不得不承认在乾隆时期满清政治的发展已到了这样的阶段，这时君主要“实现对官僚的有力有序和可靠的控制已变得十分困难”，因而政治罪就成为君主“不可或缺”的手段，以达到其“不如此就无法达到的目标：对有权有势的官僚精英的帝王控制。”从常规控制到非常规手段的这种转变不正说明，面对官僚体制，君主的绝对权力在逐步削弱吗？事实上，到了帝国和王朝的后期，专制君主运用政治罪那样的非常事件来强化对官僚的控制也变得越来越困难、越来越少见。乾隆以后，类似的叫魂恐惧又曾在民间发生多次，但没有一个满清君主抓住它们大做文章。除了形势境遇的不同外，难道就没有韦伯的“咒语”在起作用吗？</p>
-<p>与其对传统政治的分析相比，我觉得作者对传统中国社会的分析更为精彩，虽然书中这部分的篇幅远比前者所占要少得多。叫魂恐惧为什么会演变成这样丑恶的社会歇斯底里？除了专制君主乾隆的蓄意利用和许多官员的滥捕滥刑以图邀功补过外，它主要和民间社会的心态和行为有关。读《叫魂》一书我们可以看到，在近代中国的前夜，整个社会充满了一股戾气，用作者的话说，叫魂恐惧向人们“凸显了一个特别令人不快的方面：即以怨怨相报为形式广泛弥漫的社会敌视。”虽然清王朝仍在其峰巅时期，通过叫魂危机，乾隆盛世已经向后人透露出了有关近现代中国许多悲剧之根源的信息。这是一个人口过度增长，人均资源比例恶化，并受社会道德不断堕落所困扰的社会，在这个社会中，人们怀疑他们可以通过辛勤工作来改善他们的境况。这种情况“由于腐败而不负责任的司法制度而变得更令人无法容忍，没有一个平民百姓会指望从这个制度中得到公平的补偿。”于是，人们会不择手段地抓住任何趋利避害的机会，并不惜牺牲他人，特别是弱者，来保护和增进自己的利益。妖术和妖术恐惧恰好触到了民间社会的这根神经。而官府发动的清剿则把作为一种潜在威胁的妖术恐惧变成了一种实在的生存斗争，把广泛弥漫社会的怨怨相报的相互敌视变成了实实在在的相互攻击。下面这段精彩的引文就是这场全社会的歇斯底里的真实写照：</p>
-<blockquote><p>一旦官府对妖术的清剿正式发动，人们就有了很好的机会来清算宿怨或谋取私利。这是扔在大街上已经上了膛的武器，每个人，无论强梁或懦弱，都可取而用之。在这个权力对普通民众来说向来稀缺的社会里，以叫魂罪名来恶意中伤成为一种突然可得的权利。对任何受到横暴的族人或贪婪的债主逼迫的人来说，这一权力为他们提供了解脱。对任何害怕迫害的人，它提供了一块盾牌。对任何想捞取好处的人，它提供了奖赏。对妒嫉者，它是一种补偿；对恶棍，它是一种权力；对虐待狂，它是一种乐趣。”（注：孔飞力：《叫魂》英文原版，第228—229页。）</p></blockquote>
-<p>值得悲叹的是，这种丑恶的全社会歇斯底里在近现代中国还一再地重演，并在本世纪六、七十年代达到了登峰造极的境界。相信任何一个有幸经历过那个年代的人读到这里都会有似曾相似之慨。更为重要的是，造成这种全社会歇斯底里的社会历史根源似乎仍旧深植于中国社会的土壤，正因为如此，把此书译介给国内的读者就不会是毫无意义的。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%AF%B9%E5%8E%86%E5%8F%B2%E7%9A%84%E5%8F%AB%E9%AD%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E7%AB%8B%E9%A3%9E/?category=18271" rel="tag">孔立飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E5%88%B6/?category=18271" rel="tag">政治体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E5%AD%A6%E5%AE%B6/?category=18271" rel="tag">汉学家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">清朝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/429376/" target="cdt-mirror">【网络民议】用中国人命名广场很骄傲的事，为什么反对？</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111504_cn_liu_xiaobo_nobel_624x351_reuters.jpg" rel="attachment wp-att-429379"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111504_cn_liu_xiaobo_nobel_624x351_reuters.jpg?resize=575%2C323" alt="2010年诺贝尔和平奖颁奖典礼上，主办方把刘晓波的奖章和证书放在空椅子上。 " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111504_cn_liu_xiaobo_nobel_624x351_reuters.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/141225111504_cn_liu_xiaobo_nobel_624x351_reuters.jpg?w=624 624w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>2010年诺贝尔和平奖颁奖典礼上，主办方把刘晓波的奖章和证书放在空椅子上。</p></div>
-<p><strong><a href="http://www.bbc.com/zhongwen/simp/china/2016/02/160216_china_us_liuxiaobo">BBC｜中国：以刘晓波命名广场将有“严重后果”</a></strong></p>
-<blockquote><p>中国外交部周二（16日）警告说，如果美国将中国驻华盛顿大使馆前的广场改名为“刘晓波广场”，将造成“严重后果”。<br>
-[…]<br>
-美国参议院周五（12日）通过由共和党籍议员总统参选人克鲁兹提出的议案，以诺贝尔和平奖得主中国异见人士刘晓波为首都华盛顿一个广场命名，地点位于中国大使馆门前。</p>
-<p>白宫发言人早前表示，美国总统奥巴马的资深政治顾问将建议否决该项议案，因为这对于要求中国改善其人权状况与释放刘晓波毫无助益。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@岛主李汀：刘小波？ 看着像中国人的名字，这不是很有面子的事么？</p>
-<p>@鹰格仕：用中国人命名很骄傲的事，干么反对？纽约把中国春节定为节日，中国到处吹牛逼高兴得很。大奇怪了？</p>
-<p><a href="http://weibo.com/1666537315" target="_blank">@爱吃腊肉包子</a>：我就不太明白了这不是在张我大华夏的脸吗怎么不同意呢<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
-<p>@皮革鞋盒3：这刘晓波是谁啊？是中国人吗？到底做了什么？人在哪？先说清楚，再来说明有什么严重后果~~嚎</p>
-<p>@洗净等末日：环球时报先遣队上 洪磊主力军摧毁其精神 张召忠将军殿后</p>
-<p><a href="http://weibo.com/5473241217" target="_blank">@西山閒人</a>：不会是又准备了几千只小粉红再次出征吧？这后果确实严重<img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"></p>
-<p>@xylxq：美国政府还不悬崖勒马，我们将派更多的二代三代过来，颠覆美国政府！</p>
-<p>@仙人指路010小号：不仅如此，以后美国人起名字，都要在中国的派出所登记核准。钦此。</p>
-<p>@Phen_Huan：连朝鲜发射火箭都阻止不了，还想做什么</p>
-<p>@三门提督001：朝鲜在临近天朝边境屡次核爆，没听说要其承担严重后果。这给一个广场起个名字，就要后果了？</p>
-<p>@馃子煎饼：人家改自己国家的广场名字，你说三道四有用吗？严重后果是什么东西</p>
-<p>@cn阿甘：你不是整天叫嚷“不要干涉别国内政”吗? 人家给自己国家的街道命名关你啥屁事了？</p>
-<p>@蝌蚪往人：把安家楼路改成本拉登路！同时恶心美国印度韩国，扬我国威！</p>
-<p><a href="http://weibo.com/dynasty" target="_blank">@朝代</a>：本着看热闹不嫌事大的原则，我特想知道有啥严重后果<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"> 牛逼你把美使馆那条路改名叫金正恩路，一贱双屌！</p>
-<p>@夜半蝉鸣声：【天安门广场】改名为【1989坦克广场】</p>
-<p>@sevenlong2015：刘晓波是谁哎，我好奇的打开google搜索维基了下。谢谢外交部给我扫盲！</p>
-<p>@半隐半世：才警告而已。还有个大招 严重抗议 没放呢</p>
-<p>@高楼万丈-平地起：以一个获得诺贝尔和平奖的人名字命名广场，有什么问题?诺贝尔奖对我们可是求之不得、翘首以盼啊</p>
-<p>@伊布-拉稀莫为奇：100门嘴炮已部署完毕，等待大大命令随时发射。</p>
-<p>@论人民的収视权或装锅权：应该叫“根据相关法律and———政策，该名称不予显示广场”。</p>
-<p>@隔壁家的旺财：早年的“反帝路”，還有50年代不知道多少人名字就叫“抗美”，美國佬也沒氣急敗壞嘛，有點胸襟吧</p>
-<p>@西漠子：干预他国事务，这届真有毛病！</p>
-<blockquote><p>@qian年奴性：图片评论</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/006khKJNjw1f11hi1wseej30g40aiabb.jpg" rel="attachment wp-att-429377"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/006khKJNjw1f11hi1wseej30g40aiabb.jpg?resize=415%2C271" alt="006khKJNjw1f11hi1wseej30g40aiabb" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/006khKJNjw1f11hi1wseej30g40aiabb.jpg?resize=300%2C196 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/006khKJNjw1f11hi1wseej30g40aiabb.jpg?resize=230%2C150 230w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/006khKJNjw1f11hi1wseej30g40aiabb.jpg?w=440 440w" sizes="(max-width: 415px) 100vw, 415px" data-recalc-dims="1"></a></p></blockquote>
-<p>@云卧北极：连真相都害怕，也只有死路一条了。</p>
-<p>其素如荼：一个人的名字居然令一国政府为之坐立不安，其人生也算是壮丽了。</p>
-<p>@锦衣妹：一报还一报：天*门改挂金大大头像。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/429376/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E6%B6%89%E5%86%85%E6%94%BF/?category=18271" rel="tag">干涉内政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -707,7 +670,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -717,5 +680,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

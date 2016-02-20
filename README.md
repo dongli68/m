@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,123 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%B4%BE%E5%98%89%E9%81%87%E5%88%B0%E6%93%85%E5%86%99%E5%81%87%E6%96%B0%E9%97%BB%E7%9A%84%E8%AE%B0%E8%80%85%E8%AF%B7%E4%B8%80%E5%AE%9A%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BF%9D%E6%8A%A4/" target="cdt-mirror">贾嘉｜遇到擅写假新闻的记者请一定要好好保护</a>
+</h2>
+<p><p>【编者注】微信公号贾嘉（ID: kayurajiajia）原文已被删除。以下内容来自新浪微博<a href="http://weibo.com/11548115">@色色猴</a>转载。</p>
+<p><em>（原标题：遇到擅写假新闻的记者请一定要好好保护，这样的人才总有一天会发达的）</em></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%83%8F%E6%9D%8E%E7%99%BD%E4%B8%80%E6%A0%B7%E7%BB%99%E9%A2%86%E5%AF%BC%E5%86%99%E8%B5%9E%E7%BE%8E%E8%AF%97/">湖畔｜西木：像李白一样给领导写赞美诗</a></p></blockquote>
+<p>作者：恒山搓澡尼/贾嘉</p>
+<p>金庸先生《鹿鼎记》里有一个重要的情节。韦小宝同志要挂帅出征剿匪，但爵爷知道自己的斤两，所以于行伍之中，提拔了一位名叫赵良栋的人才。这位赵爷之所以被韦小宝看中，原因只有一个：在韦爵爷看来，不肯拍马屁的，都是有真本事的。只有没有真本事的人，才必须靠拍马屁混日子。</p>
+<p>张作霖老师说，江湖是什么，江湖就是人情世故。金庸先生实在深得其中奥妙。</p>
+<p>今天，朋友圈被一位资深媒体人的颂圣长诗刷了一整天的屏。鉴于没有版权，贫尼只引用几句，请读者简单领略风采：</p>
+<blockquote><p>此刻，雷鸣般的掌声<br>
+正淹没宣武门如潮的车辆<br>
+今天，我们终于零距离<br>
+听您大哥般语重心长<br>
+您微笑拱手：祝大家<br>
+新春快乐，猴年吉祥<br>
+总书记，您的背影我的目光<br>
+我的目光催生这首诗<br>
+我的手指正让手机滚烫<br>
+……</p></blockquote>
+<p>一向认为，古体诗比现代诗更容易得体地颂圣。比如“皇图八万沐初阳，耸岳奔川隐佛香。早觉神州辞厄运，欣迎大块著文章。龙吟昊宇当非昨，凤择高枝胜往常。妙笔丹青轮斫手，挥鞭电掣向康庄。”再比如“不是一人能领导，那容百族共骈阗，良宵盛会喜空前”，逼格风度，不知道比郭老的“天上有两个太阳”高明多少。</p>
+<p>但自先辈文人纷纷作古以来，以颂圣为题材的佳作几难寻觅，所以，这首诗被网友疯转，良有以也。而且，有好事者开始寻遍网络，分享这位笔名叫做“朴拙子”的先生的旧诗，别说，这位诗人极为高产，而且更难得的是，不愧于媒体人的身份，他写的诗，具有极强的新闻敏感性。</p>
+<p>比如，写于台湾地区领导人选举之后的感慨（还是选段）：</p>
+<blockquote><p>……<br>
+阿扁在狱中<br>
+登辉抖动老迈的腿<br>
+再也不敢遛弯<br>
+我们又何需惧<br>
+今日英文<br>
+……</p></blockquote>
+<p>在巴黎恐怖袭击之后写的诗（还是选段）：</p>
+<blockquote><p>……<br>
+妈的，少跟我提从前<br>
+从前我看不惯美国人牛逼<br>
+从前我饿倒在巴黎贫民区<br>
+从前我就是待分类的垃圾<br>
+直到看到那面黑色的旗帜<br>
+我终知不再孤独无依<br>
+……</p></blockquote>
+<p>在激动人心的大阅兵之后，他也写下了慷慨激昂的长诗（我只选一段，全诗请搜索《大阅兵，请来阅读中国》）：</p>
+<blockquote><p>……<br>
+中国啊，我的中国<br>
+人民的中国，听一听吧<br>
+辛劳的人民正在诉说<br>
+即使死在城管粗壮的胳膊<br>
+即使毁于津门爆炸的音阶<br>
+他们也会昂着头前行<br>
+因为他们爱这个国家<br>
+……</p></blockquote>
+<p>诗作好坏姑且不论，但紧跟世界潮流的媒体人之心，都要溢出来了。</p>
+<p>贫尼是那种吃了鸡蛋之后一定要看望一下母鸡的强迫症患者，在读了那么多令人热泪盈眶的作品之后，我决定去找找这位媒体人的新闻代表作，以咨借鉴。于是，找到了如下一段介绍文字：</p>
+<p>XXX，男，汉族，高级编辑。1962年6月生。1983年8月毕业于山东大学，同年到XX社任文字记者、编辑、农村编辑室副主任、经济编辑室主任。2001年7月调某省分社任副社长。2004年调回总社。采写过《三峡工程论证始末》、《山东临沭县委书记借对话大吃大喝被群众掀了餐桌》等影响力报道，组织策划过一大批专题调研。</p>
+<p>……参与和主持了多项重点报道和重大新闻报道战役：上世纪90年代，曾连续几年担任“两会”重点报道组组长，主持或参与主持了三峡工程、“九八”抗洪、邓小平同志逝世、香港回归、迎接新千年、纪念建党80周年、西部大开发等重大战役性报道。</p>
+<p>……参与策划了东北振兴、“新东北现象”、国有资产“冰棍现象”等重大报道。</p>
+<p>……2002年担任“‘三个代表’在基层”采访小组组长，出色完成任务，受到通报表扬。</p>
+<p>……2004年参与组织策划了“提高党的执政能力”、“和谐社会建设”、“新农村建设”、“房地产市场调控”等50多个专题调研……</p>
+<p>与他的诗一样，这位媒体人，一直走在时代的前列，担任着最核心的报道任务。此时，我能够理解，为什么在今天的诗作中，他表现得如此激动，也许，这代表着一轮新的职业机遇。</p>
+<p>在一篇青年记者对他的访谈（发表于2007年）中，这位从事新闻24年的资深记者，简直是偶像级别的人物。那位采访他的青年记者饱含深情地写道：“听了（他的）这番话，我们明白了为什么他既能写出《山东临沭县委书记借对话大吃大喝被群众掀了餐桌》这样贴近生活、贴近百姓、贴近基层的新闻精品，也能写出《亿万人民心中的旗帜》这样立意高远、大气磅礴的鸿篇力作。”</p>
+<p>在这篇专访中，多次提到了他的成名作：<strong>“掀餐桌”事件。这起事件发生于1988年，当时他26岁，在山东抓到了一则据说震动中外的大新闻，以此为据，写了一篇叫做《山东临沭县委书记借对话大吃大喝被群众掀了餐桌》的报道</strong>，央视、《人民日报》、《中国青年报》，甚至美国《巴尔的摩太阳报》都关注了这起事件。</p>
+<p>访谈中，他对自己职业生涯中这一“最难忘的经历”的回忆是这样的：“我眼含热泪连夜写出了稿子，这是我写新闻报道少有的激动落泪的一次。”</p>
+<p>但是，让贫尼意外的事发生了。<strong>在寻找这篇模范报道原文的时候，发现了一件吊诡的事。这篇在2007年仍然成为他职业生涯亮点的报道，却在一篇名为《批评性报道如何过好采访关》的论文里，被扒了一次皮：</strong></p>
+<p>记得多年前中央某新闻单位的一名年轻记者,在山东临沭县写了一篇“借对话大吃大喝,被群众掀了餐桌” 的批评报道，报道中指名道姓地批评了县委书记，赞扬了女炊事员勇掀酒桌的大无畏精神，一时轰动国内外，后来经过省地联合调查组调查复核，这掀酒桌一事，本系炊事员内部的杯水风波，和这个县委书记没有任何关系，对此，当时的山东省委专门下发了一个十七号文件，廓清了这名记者在报道中涉及到的一切问题。而被批评的县委书记也“因祸得福”，在调查中被发现是一名廉洁干部，并很快被提拔为临沭地区纪委书记。<strong>作家李存葆后来在《沂蒙九章》中曾以《“掀酒桌”掀出的纪委书记》为题,对此事作了详尽报道。</strong>……真为当时那位新闻同行汗颜。（作者：赵琪）</p>
+<p>这篇文章在网络上被标记为“党校毕业论文范文”，想来还是有一定可信度的。毕竟李存葆《沂蒙九章》也可作为旁证。而且，关于这次新闻造假，还有一个旁证：一篇叫做《苍山“蒜苔事件”与临沭“掀酒桌”风波》的文章。</p>
+<p>这篇文章太长，贫尼贴几张图，有兴趣的看看。对于这次事件的结果，作者的总结是：那年1月，中央开了反腐败大会，要求抓反面典型。这位记者瞅准了当时这个最热门的题材，在已经查清了事实真相的情况下，不惜违背起码的职业道德，编造了这样一篇具有轰动效应的假新闻……</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f3ay1xj20cv0m7q75.jpg" rel="attachment wp-att-429664"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f3ay1xj20cv0m7q75.jpg?resize=400%2C690" alt="3df2803djw1f153f3ay1xj20cv0m7q75" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f3ay1xj20cv0m7q75.jpg?resize=174%2C300 174w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f3ay1xj20cv0m7q75.jpg?w=463 463w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f47hlcj20hs0icwjz.jpg" rel="attachment wp-att-429665"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f47hlcj20hs0icwjz.jpg?resize=550%2C567" alt="3df2803djw1f153f47hlcj20hs0icwjz" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f47hlcj20hs0icwjz.jpg?resize=291%2C300 291w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/3df2803djw1f153f47hlcj20hs0icwjz.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>读到这里，贫尼终于理解了《三打白骨精》里的一句台词：悟空，你的火眼金睛，看的是真相。但是，你师傅看到的，是心相。在某些人的眼里，所谓心相，就是天下大势；而所谓天下大势，就是知道自己姓什么，知道自己跟谁走，这才是尔等西来意。</p>
+<p>你懂了吗？</p>
+<p>贫尼的坏毛病，就是喜欢砸场子挖人黑历史。</p>
+<p>这样不好。不好。罪过罪过。</p>
+<p>不过，假新闻这种事，能算黑历史吗？当然不。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%B4%BE%E5%98%89%E9%81%87%E5%88%B0%E6%93%85%E5%86%99%E5%81%87%E6%96%B0%E9%97%BB%E7%9A%84%E8%AE%B0%E8%80%85%E8%AF%B7%E4%B8%80%E5%AE%9A%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BF%9D%E6%8A%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E6%96%B0%E9%97%BB/?category=18271" rel="tag">假新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E8%B0%A3/?category=18271" rel="tag">官谣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/429645/" target="cdt-mirror">政见 | 中央编译局：用马克思为改革辩护</a>
+</h2>
+<p><p>作者：奚应红</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%BF%99%E5%B9%85%E6%B2%B9%E7%94%BB%E6%8F%8F%E8%BF%B0%E7%9A%84%E6%98%AF%E9%A9%AC%E5%85%8B%E6%80%9D%E5%92%8C%E6%81%A9%E6%A0%BC%E6%96%AF%E4%BA%8E1864%E5%B9%B45%E6%9C%883%E6%97%A5%E5%9C%A8%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E7%9C%8B%E6%9C%9B%E7%97%85%E9%87%8D%E4%B8%AD%E7%9A%84%E5%A8%81%E5%BB%89%C2%B7%E6%B2%83%E5%B0%94%E5%BC%97%E7%9A%84%E6%83%85%E6%99%AF%E3%80%82.jpg?resize=550%2C367" alt="这幅油画描述的是马克思和恩格斯于1864年5月3日在曼彻斯特看望病重中的威廉·沃尔弗的情景。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/这幅油画描述的是马克思和恩格斯于1864年5月3日在曼彻斯特看望病重中的威廉·沃尔弗的情景。.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/这幅油画描述的是马克思和恩格斯于1864年5月3日在曼彻斯特看望病重中的威廉·沃尔弗的情景。.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>图片来源：李天祥 赵友萍创作油画</span></p>
+<p>如果不问 Google 或百度，你知道中央编译局的全称吗？</p>
+<p>来，请跟我一口气念完：中央编译局是 “中共中央马克思、恩格斯、列宁、斯大林著作编译局”。</p>
+<p>与声名赫赫的中央党校或中国社科院相比，专门从事翻译工作的中央编译局显然低调神秘的多，偶尔的抛头露面却让人大跌眼镜——前任领导就以 “性丑闻” 霸占娱乐版，哦不，学术版新闻头条。</p>
+<p>不过，作为中共中央的直属机构，中央编译局可能要打破多数人头脑中的刻板印象。事实上，它不仅扮演着 “马恩列斯” 著作翻译者的角色，而且在学术研究、理论探索上有很多贡献，有人甚至给它贴上了 “智库” 的标签。</p>
+<p>马来西亚大学的<strong>饶兆斌</strong>研究员在他的分析中就认为，中央编译局从来就不是一个单纯的翻译机构，它有着自己的 “研究基因”，这种基因让它在中苏论战中一战成名，最后演变成一个有着理论和现实取向的研究机构。它不仅办期刊、组织研讨会、培养人才，而且逐渐摆脱旧有的框架体系，吸收不同思想成果，产生了更加开放的 “马克思主义系统”，影响着中国的改革进程。</p>
+<p><strong>中苏论战 “一战成名”</strong></p>
+<p>中央编译局的前身可以追溯到延安时期的马列学院，但它直到 1953 年才得以正式成立。成立后的编译局由于与苏联翻译机构的特殊关系，其发展也随着中苏关系的变化而产生变化。</p>
+<p>当中苏关系处在蜜月期时，它发挥着 “友谊桥梁” 的作用，中苏学者得以相互交流，并且开始对中苏领导人 （毛泽东和斯大林） 的著作进行互译。在这个过程中，中方收集整理了大量的隐秘资料。</p>
+<p>当中苏关系破裂时，它又变成了 “中苏论战” 的桥头堡——由它编辑出版的苏修 “灰皮书” 正好成为论战的火药库，为北京笔杆子与苏共 “论 （si） 战 （bi）” 所用，其中比较著名的一篇标题就是 “从伯恩斯坦、考茨基到赫鲁晓夫”。</p>
+<p>这场论战深刻影响了中央编译局的发展，也是中央编译局 “智库” 角色的最初尝试。但更为重要的是，通过对 “灰皮书” 等资料的搜集和整理，中共对马恩列的解释跳出了斯大林的框架，为以后更加开放的马克思主义系统的形成奠定基础。</p>
+<p><strong>中央编译局升级记</strong></p>
+<p>中央编译局从翻译机构升级成智库离不开一个人的努力，他就是曾任编译局副局长的林基洲。林基洲在担任副局长期间，保留了编译局原有的研究传统，同时又给它注入了新的基因。在他的管理下，编译局彻底被改造成以研究为基础的类智库角色。</p>
+<p>早在成立之初，为了更好地翻译和传播马克思主义，编译局内部就开始组织课程学习，加强翻译人员的理论素养，形成了编译局的一种研究取向：注重历史和理论。</p>
+<p>而在林基洲主管编译局的期间，他多次组织召开与民营企业家的座谈会，并且开展多项实地田野调查。这一举动遭到很多人的质疑，在这些人看来，这些 “无用功” 对翻译工作毫无益处。</p>
+<p>但林基洲坚持认为，马克思主义是一个不断发展的研究领域，应该与时俱进，更应该联系中国实际，与企业家会谈正是了解中国经济社会发展的最佳途径。不仅如此，马克思主义还是一个开放的系统，它需要吸收人类优秀的思想成果。这就形成了编译局另一个研究取向：运用比较的视角，注重经验和实践。</p>
+<p>在这样的研究取向下，两份影响比较大的期刊——《马克思主义与现实》 和 《经济社会体制比较》 也相应成立，吴敬琏还一度担任 《经济社会体制比较》 的主编，即便他并不隶属于中央编译局。</p>
+<p>一大批研究人员开始用新理论研究中国的具体问题。例如，荣敬就引进 “寻租” 和 “路径依赖” 解释中国的经济体制改革。另外还有俞可平对民主理论、地方政府创新，以及何增科对反腐的研究。这些都让中央编译局摇身一变成为一个倡导改革的思想智库。</p>
+<p><strong>“马克思是自由民主派”</strong></p>
+<p>在批评者眼里，中央编译局是保守左派的集中营，是意识形态的教条主义者。不过，面对这样的指控，编译局的内部人员却不以为然。在他们看来，改革和马克思主义没有必然的矛盾，“考茨基是正确的，列宁有很多错误，毛泽东有一些乌托邦思想，马克思是一个自由民主派，甚至还有有一点点后现代。” 他们给自己的自画像是：一个马克思主义者，也是一个改革者。</p>
+<p>在谈到如何影响具体的政策时，他们并不 “自信”。除了定期给中央写内参和参加中央全会以外，他们对政策的影响无法精确计算。不过，编译局带来的影响可能不在直接的政策层面，而是整个思想和话语的改变，尤其当改革受阻，新思想遭到保守派抵制时，他们总能以 “回到马克思” 的姿态为改革辩护。</p>
+<p>然而，这样一种 “改革者” 的形象在一些人眼里还是有些模糊。它并不主动拥抱西方民主体制，而是倡导不改变基本体制下的渐进式改革，目的是让共产党的治理更具灵活性、更加适应时代、更好地回应民众。</p>
+<div>
+<p><span>参考文献</span></p>
+<ul><li><span>Bing, N. C. (2015). From translation house to think tank: The changing role of the Chinese Communist Party’s Central Compilation and Translation Bureau. <cite>Journal of Contemporary China, 24</cite>(93), 554-572.</span></li>
+</ul></div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/429645/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BC%96%E8%AF%91%E5%B1%80/?category=18271" rel="tag">中央编译局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%A9%E6%A0%BC%E6%96%AF/?category=18271" rel="tag">恩格斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D/?category=18271" rel="tag">马克思</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429657/" target="cdt-mirror">【异闻观止】习近平：党和政府主办的媒体必须姓党</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg" rel="attachment wp-att-429611"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=550%2C309" alt="央视姓党1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=1024%2C576 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?w=1200 1200w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
@@ -670,50 +784,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%8E%B7%E5%87%86%E6%8E%A2%E7%9B%91-%E7%94%9F%E6%B4%BB%E8%B4%B9%E9%81%AD%E5%81%9C%E5%8F%91%E5%AE%B6%E4%BA%BA%E7%94%9F/" target="cdt-mirror">自由亚洲｜伊力哈木获准探监 生活费遭停发家人生活窘迫</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-2.jpg" rel="attachment wp-att-429473"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-2.jpg?resize=425%2C570" alt="胡佳到伊力哈木家探访两个孩子。（胡佳提供/记者乔龙）" data-recalc-dims="1"></a><p>胡佳到伊力哈木家探访两个孩子。（胡佳提供/记者乔龙）</p></div>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2014/10/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A885%E4%B8%87%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0/">自由亚洲 | 伊力哈木85万银行存款被转走</a></p></blockquote>
-<p>被新疆自治区法院判处无期徒刑的维族良心犯伊力哈木•土赫提的家属将于本周抵达乌鲁木齐探监。伊利哈木的妻子古再努尔向本台表示，伊力哈木的二哥将于18日抵达乌鲁木齐，并于两天内探望她的丈夫。另外，自伊力哈木被判刑后，他的两个孩子每月原有的两千元生活补助被取消。现在一家三口只能依靠古再努儿约3500元的工资维持生活。</p>
-<p>维吾尔族学者伊力哈木•土赫提2014年10月被新疆法院以“分裂国家罪”判处无期徒刑，现被羁押在新疆第一监狱。其在北京的妻子古再努尔2月17日对记者说，伊力哈木的二哥将于18日到乌鲁木齐探监：“现在准备去看，准备明后天到乌鲁木齐。第三次了”。</p>
-<p>古再努尔：我本来要去的，因为我寒假身体不舒服。他（伊力哈木）的父母亲和哥哥说，这一次他们去，下一次，可能我自己去。</p>
-<p>记者：明天就是他（伊力哈木）的哥去？</p>
-<p>回答：他的父母生病了，去不了。他的哥去。</p>
-<p>她介绍说，伊力哈木被单独羁押，每两周做一次体检，不需要劳动，平时可以看书。但监狱对伊力哈木与家人会面有严厉的要求，必须隔三个月才能与家人会面，每次30分钟。去年夏天，古再努儿曾带着两个孩子到乌鲁木齐探监。为了避免孩子过渡牵挂，同时节省路费，古再努儿每年会带两个孩子去新疆监狱探监一次。</p>
-<p>她说：“一年就去一次吧，不然孩子看完父亲，他们心里也难受。上次我们9月份回来，他们心情也不好。老想着爸爸。寒假去也冷，我就带着两个孩子”。</p>
-<p>伊力哈木于2006年创办“维吾尔在线”网站，向海内外介绍维吾尔族人的状况，该网站同时刊载或转载一些表达维吾尔族诉求的文章。2014年1月15日，他在北京住所被公安带走；2月20日，被乌鲁木齐市公安局以“涉嫌分裂国家罪”逮捕；同年9月23日被乌鲁木齐市中级法院判处无期徒刑。法院的判决书指，伊力哈木为达到其分裂国家、寻求新疆独立的目的，有组织、有计划地撰写、编辑、翻译、转载百余篇分裂国家内容的文章。伊力哈木在辩护词中，否认全部指控并提出了上诉。2014年11月21日，新疆二审法院驳回伊力哈木的上诉，维持原判。</p>
-<p>古再努儿向本台表示，目前他们一家三口仅倚靠她每月3500元的工资生活：“他爸爸9月份开庭，10月份（工资）就停发了。以前他们给两个孩子一个人一千元，现在不给了。只能是我一个月3500元。生活方面有孩子的叔叔，包括我的亲友，有时候帮助我。北京的生活费太高，买东西比较贵”。</p>
-<p>古再努尔说，他的两个孩子无法像正常家庭的孩子那样生活，也没有经济能力让孩子接受课外教育。</p>
-<p>关注伊力哈木的北京维权人士胡佳曾在农历新年期间，探访了伊力哈木的两个孩子。他说：“我觉得我们都应该通过对这个家庭的关注和支持，来表达对维吾尔人的善意。他们一家三口基本上就是相依为命。他们两个孩子一个上幼儿园，一个上小学三年级。除了妻子孩子的安全以外，伊力哈木最关注的问题就是孩子的教育。他们又都没有北京的户口。今年春节我去看望过他们两次，一次是大年三十，一次是年初四。给了小孩子压岁钱，初四带着两个娃娃去中国科技馆去玩耍”。</p>
-<p>在伊力哈木被判无期徒刑后，曾被选入美国《外交政策》杂志评选出的本年度引领全球“百大思想者”名单之一。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E8%8E%B7%E5%87%86%E6%8E%A2%E7%9B%91-%E7%94%9F%E6%B4%BB%E8%B4%B9%E9%81%AD%E5%81%9C%E5%8F%91%E5%AE%B6%E4%BA%BA%E7%94%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E8%A3%82%E5%9B%BD%E5%AE%B6%E7%BD%AA/?category=18271" rel="tag">分裂国家罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90%E8%BF%9B%E8%AF%BE%E6%9C%AC-%E6%83%B3/" target="cdt-mirror">【异闻观止】人民日报｜“太阳花学运”进课本 想要干啥？</a>
-</h2>
-<p><p><em>【编者注】趣闻一则：“太阳花学运”的主要成员之一，曾翻墙进入立法院的吴峥，在今年1月以立委助理身份<a href="https://tw.mobi.yahoo.com/home/%E7%BF%BB%E7%89%86%E5%87%BA%E9%A0%AD%E5%A4%A9-%E9%BB%83%E5%9C%8B%E6%98%8C-%E5%90%B3%E5%B4%A2%E9%80%B2%E7%AB%8B%E9%99%A2%E6%84%9F%E8%A7%B8%E5%A4%9A-111543175.html">进入立法院工作</a>。</em></p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg" rel="attachment wp-att-429459"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg?resize=565%2C317" alt="图片来源：新浪微博" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/5d098bccjw1f12la65c60j20hl09vgn4.jpg?w=633 633w" sizes="(max-width: 565px) 100vw, 565px" data-recalc-dims="1"></a><p>图片来源：新浪微博</p></div>
-<p>“太阳花学运”闹腾的时候，一个叫刘乔安的女子登高一呼，善于捕捉焦点的媒体镜头，啪啪对准她绑在头上的布条，因为上面印着6个醒目黑字——“民主不能交易”，刘女也因此被冠以“太阳花女神”。但她很快就从媒体的政治版串到了娱乐版，因为疑似在旅馆从事色情行业的“不法交易”。</p>
-<p>这种神转折的剧情，总让一般观众措手不及。之所以旧事重提，是想提醒一句，有些事情看似“伟光正”，冰山一角背后却往往“未成年人不宜”，当三思而后行。这不，新学期就要开学，台湾某出版公司出版的高中新课本“公民与社会”中，竟编入“太阳花学运”事件，相关章节一入眼帘就是“学运”学生霸占“立法院”的照片，其内容声称，“借此表达其对于两岸服贸协议的要求与主张”云云。</p>
-<p>“太阳花学运”的违法性质、暴力色彩，至今在岛内饱受争议，为何这么急吼吼就塞入课本？连岛内的家长都看不下去了，他们在“台湾妈妈联盟”脸谱粉丝团上炮轰：教学生只要不爽就有权霸占公权力机关？以后是不是杀人放火都能编入教材！？</p>
-<p>其实，台湾的教材问题早已成为新闻版面的常客。“反课纲微调”一度沸沸扬扬，继“太阳花学运”之后成为台湾社会一景。有高中生在集会中跟要他回家的父亲起了冲突，翻脸怒呛并猛推之，还扬言：“这是我一生中最光荣的时刻！”按照这种教材锻造的“新思维”，他们眼中的最高峰是玉山而不再是珠穆朗玛，最长的河流是浊水溪而不再是长江黄河，对于不同看法的解决之道是暴力游行而不再是包容协商。</p>
-<p>说到教育，本质上是给“三观”筑牢根基。如果“三观”不正，说啥也是白搭。民主固然不能交易，教育就可以？看似不言自明，有些人却在打着“聪明”的小算盘。新课本中编入“太阳花学运”的那章，叫“政治意志的形成”。从街头到纸上，所谓热血的“太阳花”，不过是政治的道具而已。</p>
-<p>“太阳花学运”头目陈为廷，曾想参与苗栗县“立委”补选，并一度获得民进党支持，看似运动累积的资本兑现在即，却因丑闻被揭发出来宣布退选。原来他在念中学时就在捷运上性骚扰女生，导致学生证被扣，高中肄业才以同等资格考取新竹清华大学。后来，因为缺课太多，又被清大社会所决议退学。就是这样一个教育上问题多多的学生，曾几何时被某些政治势力奉为座上宾，以为奇货可居。政治就是这样翻云覆雨，陈为廷或许感到委屈：如果不是公序良俗的羁绊，他现在或许也稳稳端坐在被他斥为黑箱的“立法院”中。</p>
-<p>“太阳花学运”给部分年轻人造成误导，以为投身这样的“社会课堂”才是“干正事”，可以靠街头政治运动来解决社会的深层问题。这种幼稚的头脑现在该醒醒了。从陈为廷到刘乔安，事实告诉人们：即使个人政治投机，只有满嘴的仁义道德、民主自由也是不够的。如今，“太阳花”编入教材，将继续给岛内未成年人这样的误导信号。借用那句耳熟能详的话来说，民主民主，多少罪恶假汝之名以行？</p>
-<p>新竹清大负责人在陈为廷退学时解释称，让教育的归教育，政治的归政治，学校分际很清楚。这是明白人的做派。问题是，有些人为何就要故意揣着明白装糊涂，污染杏林那一亩三分清净地呢？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90%E8%BF%9B%E8%AF%BE%E6%9C%AC-%E6%83%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%9C%8D%E8%B4%B8/?category=18271" rel="tag">反服贸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +795,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +805,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

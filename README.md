@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429657/" target="cdt-mirror">【异闻观止】习近平：党和政府主办的媒体必须姓党</a>
@@ -60,7 +60,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E5%BC%A0%E4%B8%B0%EF%BC%9A%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/" target="cdt-mirror">大家 | 张丰：想象中国农村的另一种可能</a>
 </h2>
@@ -124,7 +124,7 @@ ISBN：9787108054456</p>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%9F%E6%94%B9/?category=18271" rel="tag">台湾土改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">基层民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%B8%A1/?category=18271" rel="tag">杨渡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%97%8F%E4%BA%BA%E4%BD%9C%E5%AE%B6%E7%8F%A0%E6%B4%9B%E8%A2%AB%E5%88%A4%E5%88%91%E4%B8%89%E5%B9%B4/" target="cdt-mirror">美国之音 | 藏人作家珠洛被判刑三年</a>
 </h2>
@@ -169,7 +169,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%BE%B7%E5%85%83/?category=18271" rel="tag">丁德元</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E7%BD%91/?category=18271" rel="tag">维权网</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/429617/" target="cdt-mirror">【网络民议】凡动刀的必死于刀下——动坦克的呢？</a>
 </h2>
@@ -725,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

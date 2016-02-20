@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,127 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/429657/" target="cdt-mirror">【异闻观止】习近平：党和政府主办的媒体必须姓党</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg" rel="attachment wp-att-429611"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=550%2C309" alt="央视姓党1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=1024%2C576 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?w=1200 1200w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/" target="_blank">【图说天朝】央视姓党 绝对忠诚</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/" target="_blank">【图说天朝】孝顺走肖家</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%8A%8A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%9E%8D%E5%85%A5%E5%90%84%E7%BA%A7%E6%95%99%E8%82%B2%E5%90%84%E7%8E%AF%E8%8A%82/" target="_blank">【网络民议】中国教育部可以和宣传部合并了</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/423370/" target="_blank">【网络民议】捆绑销售：爱国爱党爱社会主义</a></li>
+</ul></blockquote>
+<p>央视网消息（新闻联播）：中共中央总书记、国家主席、中央军委主席习近平19日在北京主持召开党的新闻舆论工作 座谈会并发表重要讲话。他强调，党的新闻舆论工作是党的一项重要工作，是治国理政、定国安邦的大事，要适应国内外形势发展，从党的工作全局出发把握定位，坚持党的领导，坚持正确政治方向，坚持以人民为中心的工作导向，尊重新闻传播规律，创新方法手段，切实提高党的新闻舆论传播力、引导力、影响力、公信力。</p>
+<p>党的十八大以来，以习近平同志为总书记的党中央高度重视党的新闻舆论工作，多次研究有关问题，作出重要部署。召开这次座谈会，目的是推动新闻舆论战线适应形势发展积极改革创新，全面提高工作能力和水平。</p>
+<p>为召开这次座谈会，习近平到人民日报社、新华社、中央电视台等3家中央新闻单位进行了实地调研。</p>
+<p>中共中央政治局常委、中央书记处书记刘云山陪同调研并出席座谈会。</p>
+<p>19日上午，习近平首先来到人民日报社调研。编辑楼内，一块块展板、一幅幅照片展示了党中央对人民日报的关怀，反映了人民日报社走过的不平凡历 程。习近平一边观看，一边听汇报，他充分肯定人民日报创刊68年来为党和人民事业作出的重要贡献。在总编室夜班平台，习近平看编辑排版。习近平同大家亲切交流，勉励他们不忘初衷、坚定信念，把报纸办得更好，为全国人民提供更多更好的精神食粮。习近平走进新媒体中心，在大屏幕前听取微博、微信、客户端工作介绍，并在一台电脑前坐下，通过新媒体平台发送语音信息，向全国人民致以元宵节的问候和祝福。</p>
+<p>随后，习近平来到人民网演播室，通过视频同人民日报记者连线，同福建宁德市赤溪村村民交流。赤溪村过去是个特困村，多年来在习近平亲自关心和指 导下脱贫成效显著，习近平2015年1月29日在一份反映该村扶贫工作的材料上作出重要批示，强调脱贫攻坚要“艰苦奋斗、顽强拼搏、滴水穿石、久久为功”。在视频里，习近平先后同村党支部书记杜家住、长期关心支持赤溪村扶贫的退休干部王绍据对话，他向乡亲们问好，叮嘱他们保护好绿水青山，走出一条绿色 发展、生态富民的路子。</p>
+<p>10时许，习近平来到新华社，观看了新华社“历史与发展”主题展览。装毛主席手稿的箱子、延安时期的手摇马达……他不时驻足，询问有关情况。新华社负责同志介绍，他们正加快媒体融合发展，每天用8种文字向世界提供全媒体新闻和信息产品，习近平对此表示肯定。</p>
+<p>在新闻信息发稿中心，习近平通过视频同正在河南兰考县采访的新华社记者连线。记者向总书记汇报采访中看到的基层干部转变作风新面貌，习近平鼓励 记者多深入基层、深入群众，及时发现和宣传基层干部先进典型。看了新华丝路数据库、中国照片档案馆数据管理系统等新闻信息产品展示，习近平点击手机屏幕，通过新华社客户端为全国新闻工作者点赞。在国内部，一位刚从河北正定县“走基层”回来的记者向总书记汇报塔元庄村的新变化，习近平请他转达对乡亲们的问候。习近平还走进国际部、参编部等工作平台，同一线编辑记者交流，向大家表示慰问。</p>
+<p>临近中午，习近平来到中央电视台。他听取中央电视台板块业务、媒体融合等情况介绍，到总控中心观看电视传播能力建设视频展示，在《新闻联播》演 播室、导控室向主持人和工作人员了解新闻制作导播流程。习近平亲自切换按钮体验模拟播出。习近平指出，中央电视台每天面对数亿观众，一定要紧跟时代、放眼全球，多设计一些融思想性、艺术性于一体的好栏目，多创办一些脍炙人口、寓教于乐的好节目。</p>
+<p>得知中央电视台海外业务发展很快，已形成全球化的采编和传播网络，习近平通过视频连线中央电视台北美分台负责人。</p>
+<p>当天下午，习近平在人民大会堂主持召开党的新闻舆论工作座谈会。会上，人民日报社社长杨振武、新华社社长蔡名照、中央电视台台长聂辰席和编辑代表范正伟、记者代表李柯勇、主持人代表康辉分别发言，他们谈认识、讲工作、提建议，习近平边听边记，不时插话交流。</p>
+<p>在听取他们发言后，习近平发表重要讲话。习近平指出，长期以来，中央主要媒体与党和人民同呼吸、与时代共进步，积极宣传马克思主义真理、宣传党 的主张、反映群众呼声，在革命建设改革各个历史时期发挥了十分重要的作用。党的十八大以来，中央主要媒体突出宣传党的十八大和十八届三中、四中、五中全会精神，阐释党中央重大决策和工作部署，反映人民伟大实践和精神风貌，唱响了主旋律，传播了正能量，有力激发了全党全国各族人民为实现中华民族伟大复兴的中国梦而团结奋斗的强大力量。</p>
+<p>习近平强调，做好党的新闻舆论工作，事关旗帜和道路，事关贯彻落实党的理论和路线方针政策，事关顺利推进党和国家各项事业，事关全党全国各族人民凝聚力和向心力，事关党和国家前途命运。必须从党的工作全局出发把握党的新闻舆论工作，做到思想上高度重视、工作上精准有力。</p>
+<p>习近平指出，在新的时代条件下，党的新闻舆论工作的职责和使命是：高举旗帜、引领导向，围绕中心、服务大局，团结人民、鼓舞士气，成风化人、凝心聚力，澄清谬误、明辨是非，连接中外、沟通世界。要承担起这个职责和使命，必须把政治方向摆在第一位，牢牢坚持党性原则，牢牢坚持马克思主义新闻观，牢牢坚持正确舆论导向，牢牢坚持正面宣传为主。</p>
+<p>习近平强调，党的新闻舆论工作坚持党性原则，最根本的是坚持党对新闻舆论工作的领导。党和政府主办的媒体是党和政府的宣传阵地，必须姓党。党的新闻舆论媒体的所有工作，都要体现党的意志、反映党的主张，维护党中央权威、维护党的团结，做到爱党、护党、为党；都要增强看齐意识，在思想上政治上行动上同党中央保持高度一致；都要坚持党性和人民性相统一，把党的理论和路线方针政策变成人民群众的自觉行动，及时把人民群众创造的经验和面临的实际情况反映出来，丰富人民精神世界，增强人民精神力量。新闻观是新闻舆论工作的灵魂。要深入开展马克思主义新闻观教育，引导广大新闻舆论工作者做党的政策主张的传播者、时代风云的记录者、社会进步的推动者、公平正义的守望者。</p>
+<p>习近平指出，新闻舆论工作各个方面、各个环节都要坚持正确舆论导向。各级党报党刊、电台电视台要讲导向，都市类报刊、新媒体也要讲导向；新闻报道要讲导向，副刊、专题节目、广告宣传也要讲导向；时政新闻要讲导向，娱乐类、社会类新闻也要讲导向；国内新闻报道要讲导向，国际新闻报道也要讲导向。</p>
+<p>习近平强调，团结稳定鼓劲、正面宣传为主，是党的新闻舆论工作必须遵循的基本方针。做好正面宣传，要增强吸引力和感染力。真实性是新闻的生命。要根据事实来描述事实，既准确报道个别事实，又从宏观上把握和反映事件或事物的全貌。舆论监督和正面宣传是统一的。新闻媒体要直面工作中存在的问题，直面社会丑恶现象，激浊扬清、针砭时弊，同时发表批评性报道要事实准确、分析客观。</p>
+<p>习近平指出，随着形势发展，党的新闻舆论工作必须创新理念、内容、体裁、形式、方法、手段、业态、体制、机制，增强针对性和实效性。要适应分众化、差异化传播趋势，加快构建舆论引导新格局。要推动融合发展，主动借助新媒体传播优势。要抓住时机、把握节奏、讲究策略，从时度效着力，体现时度效要求。要加强国际传播能力建设，增强国际话语权，集中讲好中国故事，同时优化战略布局，着力打造具有较强国际影响的外宣旗舰媒体。</p>
+<p>习近平强调，媒体竞争关键是人才竞争，媒体优势核心是人才优势。要加快培养造就一支政治坚定、业务精湛、作风优良、党和人民放心的新闻舆论工作 队伍。新闻舆论工作者要增强政治家办报意识，在围绕中心、服务大局中找准坐标定位，牢记社会责任，不断解决好“为了谁、依靠谁、我是谁”这个根本问题。要提高业务能力，勤学习、多锻炼，努力成为全媒型、专家型人才。要转作风改文风，俯下身、沉下心，察实情、说实话、动真情，努力推出有思想、有温度、有品质的作品。要严格要求自己，加强道德修养，保持一身正气。要深化新闻单位干部人事制度改革，对新闻舆论工作者在政治上充分信任、工作上大胆使用、生活上真诚 关心、待遇上及时保障。</p>
+<p>习近平指出，加强和改善党对新闻舆论工作的领导，是新闻舆论工作顺利健康发展的根本保证。各级党委要自觉承担起政治责任和领导责任。领导干部要 增强同媒体打交道的能力，善于运用媒体宣讲政策主张、了解社情民意、发现矛盾问题、引导社会情绪、动员人民群众、推动实际工作。</p>
+<p>王沪宁、刘延东、刘奇葆、栗战书和中央有关部门负责同志分别陪同参加调研和座谈会。中央新闻舆论单位负责同志、北京市有关方面负责同志、中央新闻单位编辑记者代表约180人参加座谈会。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/429657/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E5%BC%A0%E4%B8%B0%EF%BC%9A%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/" target="cdt-mirror">大家 | 张丰：想象中国农村的另一种可能</a>
+</h2>
+<p><p>作者：张丰  腾讯·大家专栏作者，读书人，媒体人，现居成都。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.41.42.png?resize=570%2C332" alt="Screen Shot 2016-02-19 at 下午2.41.42" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.41.42.png?resize=300%2C175 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.41.42.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"></p>
+<blockquote><p>台湾农村那些和我们不同的方面，却更值得我们去重视。土地私有制，传统信仰的保持，以及基层民主实践，这些因素让台湾人想起农村，心中不会只升起怪异的乡愁。</p></blockquote>
+<p>尽管上海女孩嫌弃江西农村男友的故事，已经被证实为假新闻，但这仍然是这个春节最有影响力的公共事件。人们争论不休，肯定不是关心一对青年男女的婚事，而是这背后的城乡鸿沟，足以让人选边站队，互相攻击。</p>
+<p>自1980年代以来，农村已经发生巨变，但是如何理解这一巨变，已经成为一个难题。最近几年，在春节假期哀悼农村，已成为过年的一部分。但是，春节过后，社交网络仍将由城市生活主宰，只有“毕节儿童饿死”这样的极端事件，才能偶尔让人关注农村的现实。</p>
+<p>越来越多的人只能从城市的角度来思考和表达农村。朋友圈流传着各种“还乡记”，但是，我们却很难从这些“还乡记”中读出地域差别，一个河南人与一个东北人，谈及家乡，所用词汇并无太大差别。当我们谈论自己的家乡时，早已忘记那些只属于那片土地的词语，“当我沉默时，我感到充实，我将开口，同时感到空虚”（鲁迅语）。那些声音，味道，被普通话叙述排斥在外，甚至也已在我们的生命体验之外。</p>
+<p>在这个春节，我没有回到家乡，也没有谈论家乡。我在读台湾作家杨渡的《一百年漂泊：台湾的故事》。杨渡所讲的，是一个家族的一百年。他的祖上从河北唐山挑着担子从唐山逃难到台湾，并最终在台中农村定居下来。杨渡的父亲出生于日据时期（1930），人们喊他“魅寇”，这是他名字“铭煌”的日语发言。杨渡的几位姑姑，平时也都被人称呼日语名字。被日本统治50年，这是台湾与大陆最不同的地方，这也是台湾现代化的起点。魅寇小时候，亲眼见到美军轰炸台湾给当地居民造成的灾难，他发誓将来要当飞行员，与入侵的美军作战——但是没多久，美军就打败了日军，他也从一个“日本人”，变成了中华民国治下的台湾人。</p>
+<p>《一百年漂泊》讲述了魅寇的一生，并从一个人的命运，透射出整个台湾的命运。作为一个农民，魅寇只有小学文化，但是他却拥有要改变自己命运的雄心壮志，他的苦斗，也是整个台湾农村转型的缩影。这本书让人感动，甚至落泪，但联想到当下的大陆，更多的则是让人思考：如果不是1949年后的道路不同，大陆的农村，是否会有另一种可能？</p>
+<p><strong><strong>▍</strong></strong><strong>有地权的农村</strong></p>
+<p>决定台湾农民命运的，也是土改。和大陆土改最终所造成的“集体化”不同，台湾土改的方向是确立农民对土地的财产权。</p>
+<p>败退到台湾的蒋介石政府，需要一个稳定的农村，土改的具体办法，一是“三七五减租”，二是公地放领，三是实行“耕者有其田”。“三七五减租”是将耕地租金降到土地主要作物全年收获量的37.5%为限，此前，台湾的佃农要向地主支付50%的收获作为地租。公地放领是将从日本人手中收回的公有土地出售给农民，确保大部分农民能够买到土地;“耕者有其田”是规定地主将持有土地超过3公顷的部分出售给“政府”，再按公地放领方式出售给佃农。佃农买地，可以通过分期付款的方式进行。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.42.56.png?resize=531%2C429" alt="Screen Shot 2016-02-19 at 下午2.42.56" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.42.56.png?resize=300%2C242 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.42.56.png?w=531 531w" sizes="(max-width: 531px) 100vw, 531px" data-recalc-dims="1"><br><span>▲ 资料图：1959年2月，陈诚（左二）、胡适（右二）等人下乡考察农情。</span></p>
+<p>这种土改的思路，本质就是把地主的土地想办法分给佃农。杨渡认为，国民党的土改之所以没有遭到地主的抵抗，与1950年开始的白色恐怖有关。“清乡运动”盛行之时，很多知识青年受到牵连，他们中有很多都是地主家庭出身。很多地主因此被没收财产，敢怒不敢言。虽然土改过程中并没有残杀地主，但是这种白色恐怖下的恐惧噤声，却是土改能够和平完成的奥秘。</p>
+<p>杨渡的祖上是佃农，土改之后获得一些土地，对祖母来说，这土地就是她的命根子。父亲魅寇不甘于做一辈子农民，办了一个小型铁工厂，这工厂，就设在自家的土地上。如果没有土地，单是买地这一项，就足以让他望而却步。铁工厂不可行，魅寇转而办起来锅炉厂，为了创业，他东拼西凑，并借下高利贷。魅寇想卖掉家里一块地，来周转资金，但是遭到老祖母的坚决反对：</p>
+<blockquote><p>“唉！你也都知道的，这是你爸爸，一分钱、一角银，慢慢俭省起来的，才买下这一点点的天地，是咱一家吃饭的母本，你怎么甘心卖了它？”祖母的口气有一点心酸，“……你爸爸若知道，会答应吗？”</p>
+<p>“是啊，买下来真的很不容易。不过，我们有这些地，又能怎么样？只是放在那里，你再怎么种，每年能收的稻子，也就这么多。最多是丰收，能让你增加几斤啊？靠粜谷的那一点钱，怎么还得起欠的钱？”父亲问。</p>
+<p>“不行。不能卖地。”祖母坚决地说，“你爸爸如果还在，一定不会点头的。他一生的心血呢。”（157页）</p></blockquote>
+<p>这是台湾的1960年代。土改后，农村有了10年的稳定，农民们的生活变得富足而充满希望，但是这种超级稳定的状态，也让人厌倦。不安分的农村精英，开始想过另一种生活。魅寇就是这样的乡村经营，这时已经是10多岁孩子的父亲，但是他仍然有梦想。即使是插秧，他都想和铁匠合作，打造一种可以套在手指上的“插秧机”。最初，他办瓦厂，但是很快瓦就不流行了，他又办铁工厂、锅炉厂。1960年代也是台湾经济开始腾飞的年代，乡村的巨变，已经不可避免，像魅寇这样敏感的人物，注定开始过上折腾的生活。</p>
+<p>魅寇和母亲，分属两种世界观。在母亲眼中，种地是可以天长地久的事业，就像她的丈夫一样，虽然去世，但是仍然能无限地存在着，这是农业社会的时间观念。而魅寇，则代表着这块土地上新生的一代，他们心中的萌动着一些现代观念，最重要的是钱，更多的钱。但是，在魅寇与母亲之间，并不存在现代与传统之间的那条鸿沟。当母亲说“你爸爸如果还在，一定不会点头的”，谈话事实就结束了。尽管他认为母亲目光短浅，但是父亲的权威，不能质疑。魅寇的“现代”，是从土地上自发生长的“现代”，半新半旧，充满痛苦。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.44.21.png?resize=574%2C417" alt="Screen Shot 2016-02-19 at 下午2.44.21" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.44.21.png?resize=300%2C218 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.44.21.png?w=574 574w" sizes="(max-width: 574px) 100vw, 574px" data-recalc-dims="1"><br><span>▲ 资料图：二期稻作丰收之后，喜上眉梢的农家女。</span></p>
+<p>网上有很多人认为，一旦实行土地私有化，无知的农民，很容易就被骗走土地，变得一无所有，这是十足的妄语。再也没有人比农民更热爱自己的土地了，在传统社会，一个富农当然可以通过购买土地变成地主，但是过程是无比漫长而艰难的，因为不到万不得已，没人会卖掉自己的土地。杨渡的祖母牢牢控制着土地，父亲的工厂陷入绝境，不得不以母亲的名义开支票，最后“跳票”，母亲只好逃亡、入狱，这也是杨渡童年时最惨痛的回忆。这种家庭的惨剧，深深触动了老祖母，在母亲出狱管理工厂的财务后，老祖母才同意卖地，而杨家的工厂才慢慢转机。魅寇经过几十年的打拼，才从一个农民，逐渐转变为“企业主”，而最关键的一步，仍然是靠卖地获得资金。</p>
+<p>在土地私有化的前提下，土地是农民博弈的最后资本。没有土地的人，乡愁只能是虚无，你为何而愁呢？在台湾，很多农村青年，也像杨渡一样，进入城市工作，但是却没有出现大陆的城乡二元对立。在台湾的很多地方，都不存在城乡之间那条明显的分界线。最主要的原因，是因为农民对土地拥有产权，自己的东西，最懂得爱惜。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.44.56.png?resize=297%2C558" alt="Screen Shot 2016-02-19 at 下午2.44.56" data-recalc-dims="1"><br><span>▲ 资料图：关于耕者有其田法案，蒋介石呈送立法院的电文</span></p>
+<p>▍有信仰的农村</p>
+<p>扎根在土地之上的，是传统。</p>
+<p>魅寇人生的顶峰，不是锅炉厂的成功，而是1984年牵头为妈祖庙修建了朝天宫，“这是神明交给他此生最后的任务”。</p>
+<p>父亲未曾想到自己会参与庙宇的修建，有些害羞、有些讶异地望着来找他的老村长，说“可是我，合适吗？”妈妈坐在旁边，心中暗笑。她知道父亲的意思是：“我这种吃喝嫖赌之外无不良嗜好的人，去做庙的主委，合适吗？”（427页）</p>
+<p>这位浪子，决定把余生奉献给妈祖。那些年，他把一生从土木小工开始，到锅炉的热力学所学的功夫，全部拼了上去。从设计规划、土木结构到实际的施工，从木料的选择到石材的雕刻，全部亲历亲为，当时两岸刚刚开放，他甚至乘飞机到泉州找老师傅订制石像，然后再用船运回台湾。这时，他50多岁，是所谓“知天命”的年纪，他把大量的时间都奉献给了“天”的事情。每年过年，作为妈祖庙的主委，他都要主持一年一度的开庙仪式，这是他最神圣的庆典。在他漫长的打拼时光，虽然为了成功而“吃喝嫖赌”，心里却始终装着妈祖。</p>
+<p>读《一百年漂泊》，感受最深的就是台湾农村的信仰。杨渡的外公，是一位通灵人，是人与神的中介，很多相亲有事难以下决定，就托他请示天上的“三界公”。杨渡的父母结婚后开始没法生育，外公请示三界公，指示女儿已经有子，且是男孩——最后，果然是男孩，他甚至算准了外孙出生的具体时间。尽管信奉的神灵不同，但是台湾的农民，大都有比较坚定的信仰。有事情难以决断，便去妈祖庙“拜拜”，倾听神明的指示。这种信仰，甚至传承到受到现代高等教育、常年从事媒体工作的杨渡本人身上，父亲老年阿尔茨海默症，不能去妈祖庙主持开庙仪式，杨渡就代替他参加。在父亲的最后时刻，杨渡反复抄写《金刚经》，希望能“回向”（佛教用语，大意是将自己的功德回转给别人）父亲。</p>
+<p>这种信仰的力量，在大陆几经摧毁，已经消失殆尽。在我的老家，有很多用“寺”命名的地名，寺庙早已没有踪迹。我的小学，就叫“大寺小学”，那儿本来是全乡最大的寺庙，我读书的时候，学校里明显有一块地方，地势要远高于别处，那儿就是大殿所在地，我还曾看到过土里的残砖断瓦。小学取代寺庙，是现代战胜传统的象征，也是这个国家的一种隐喻：国家的力量，将战胜个人内心的信念。在“进步思想”的关照下，像杨渡外公那样的“通灵人”，命运注定是悲惨的。</p>
+<p>1980年代，台湾经济狂飙突进，股市也有一拨疯狂行情。</p>
+<p>“一个富裕起来的、浮动的、不安的社会，逐渐成形了。”身为媒体人的杨渡，去拜访一位财经界大佬K君，弄清楚他炒股成功的秘诀，他的思维方式（way of thinking），但是，让人吃惊的是，他的秘诀竟然是信奉财神。“这个神明叫赵公明，本来是天上的十个太阳之一。后羿射太阳的时候，射下九个太阳，其中八个掉海里了，成了后来的八仙，只有一个幻化成人，隐居在四川，就是这个赵公明。他守护着元宝山，一手持长鞭，一手持聚宝盆，所以被称为无财神。”（413页）</p>
+<p>在现代性的资本杀伐，与国际炒家厮杀，让他得到信心的，不是资本，而是古老的神。</p>
+<p>这样的信仰和做法，与现代经济学的规律毫不相干，但成为台湾进入现代的力量之一。《一百年漂泊》中还有一个非常震撼的场面：杨渡的母亲因为顶替父亲开支票而坐牢，她到看守所发现，里面有很多女犯，和她一样，都是替自己的丈夫坐牢。一位有经验的女犯说：“你不要伤心了。你看，这监狱里有一半是票据法进来的，你并不丢脸，有什么好伤心的？你看看，我也是这样，为了丈夫，为了家庭。我们都是为了男人犯的罪在受苦，不是我们的错，你不要低头自卑。”（292页）这些女犯还教杨渡的妈妈，在法庭上如何表现，才能由自己完全扛下来，而不连累丈夫。</p>
+<p>这就是现代与传统的碰撞。现代社会是一个法治社会，这种妇女的“牺牲”，本质上作假，并不值得提倡，但是，她们基于传统信条做出的选择，不但让人感动，对家庭来说，也是最合理的选择：女人坐牢，男人在外想办法解决问题，杨渡一家，最终也得以迎来转机。如果中国能像刚刚去世的孔飞力先生所希望的那样，走出一条与西方不同的现代之路，答案和密码一定会藏在传统之中。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.45.53.png?resize=503%2C335" alt="Screen Shot 2016-02-19 at 下午2.45.53" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.45.53.png?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.45.53.png?w=503 503w" sizes="(max-width: 503px) 100vw, 503px" data-recalc-dims="1"></p>
+<p>▍有民主的农村</p>
+<p>当传统的乡村社会与现代秩序相碰撞，尤其是与那些自上而下的外力相遇时，混乱和不适，似乎不可避免。在台湾，这方面最明显的，就是乡村的民主。</p>
+<p>杨渡不但是台湾政治转型的参与者，也是多年的观察者。总体上看，他对台湾乡村的民主，持负面态度。他与一位大陆前辈讨论过民主问题，大陆前辈认为，有了民主，即使不识字的人也会学会行使自己的选举权，相反，杨渡却认为，台湾的农村，似乎还没有做好迎接民主的准备，他的看法，是基于实地的观察。他曾深入了解过家乡的选举，发现买卖选票的行为非常猖獗。一个乡镇的选举，完全把控在操盘手里。操盘手用汽车运送上千万的现金，如果需要胜出一万的选票，甚至可以多出钱购买3万。</p>
+<p>“只见一张比床还大的通铺上，堆满了一沓一沓的钞票，那钞票还不是一千元的，而是红色的百元钞。整个屋子里，充满钞票的臭味。有个看起来像地方里长模样的人，拿了一本选举人名册，正在和发钱的会计对人数，数钞票。”（474页）</p>
+<p>这样的民主，当然让杨渡失望。但是，放到一个更长的时间段来考虑，拥有选举权的乡村，仍是一个好的起点。杨渡的父亲魅寇，在乡村是一个强人形象，帮人选举过，送过肥皂，是一个政治上的“知情人”。但是，他却不想让儿子碰政治。“政治尚黑，买来买去无道义，选举运动，世间第一黑。”他担心的是，在台北那样的大地方，一旦儿子因为政治被抓，根本没有能力救回。但是，杨渡的父母，以及其他经历过白色恐怖的乡下人，也会有自己的道德和政治判断。他们害怕暴政，不敢反抗，但是有了选举权后，却会默默把票投给那些曾经遭遇过国民党政府迫害的人，那些为他们争取权利的人。</p>
+<p>台湾的农村，当然并不是世外桃源，它也有各种转型的问题。读《一百年漂泊》，会有一种“两岸毕竟是一家人”的感觉，台湾的很多怪现象，我们似乎都在经历。比说，1960年代，台湾的农村流行养白文鸟、绿鹦鹉，种白松茸，这些没什么使用价值，但是却被包装成致富神话，而在如今的四川攀枝花地区，很多人一窝蜂种植玛咖，最后的结果都是血本无归。80年代，台湾农村流行购买各种彩票，赌博，而如今，这些也在大陆农村盛行。台湾也有“打工”的一代，杨渡的家乡有一个纺织厂，一代代女工到那里上班挣钱，让小小乡镇充满了青春的活力，但是在90年代以后，这个几十年的纺织厂破败了，招不到工人，因为人力成本大为上涨——这也正在大陆的东南沿海发生着。</p>
+<p>但是，台湾农村那些和我们不同的方面，却更值得我们去重视。土地私有制，传统信仰的保持，以及基层民主实践，这些因素让台湾人想起农村，心中不会只升起怪异的乡愁。乡村的精英，不必全部涌向都市，就能实现自己的价值，人们可以生活得很现代，但也不必完全斩断过去。大陆农村一年一度的追悼会很快就要结束，但是我们应该知道，我们的乡村，其实还有另一种可能。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.46.30.png?resize=362%2C375" alt="Screen Shot 2016-02-19 at 下午2.46.30" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.46.30.png?resize=290%2C300 290w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.46.30.png?w=362 362w" sizes="(max-width: 362px) 100vw, 362px" data-recalc-dims="1"></p>
+<p>图书信息：<br>
+作者：杨渡<br>
+出版社：生活·读书·新知三联书店<br>
+副标题：台湾的故事<br>
+原作名：水田里的妈妈<br>
+出版年：2016-1<br>
+页数：524<br>
+定价：48.00<br>
+装帧：平装<br>
+ISBN：9787108054456</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E5%BC%A0%E4%B8%B0%EF%BC%9A%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%9F%E6%94%B9/?category=18271" rel="tag">台湾土改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">基层民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%B8%A1/?category=18271" rel="tag">杨渡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%97%8F%E4%BA%BA%E4%BD%9C%E5%AE%B6%E7%8F%A0%E6%B4%9B%E8%A2%AB%E5%88%A4%E5%88%91%E4%B8%89%E5%B9%B4/" target="cdt-mirror">美国之音 | 藏人作家珠洛被判刑三年</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.32.58.png?resize=450%2C608" alt="Screen Shot 2016-02-19 at 下午2.32.58" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.32.58.png?resize=222%2C300 222w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.32.58.png?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><br><span>藏人作家珠洛（笔名雪合江）</span></p>
+<p>星期五，《西藏邮报》报道称，著名藏人作家珠洛（笔名雪合江）已经被黄南藏族自治州人民法院判处三年徒刑，因其作品涉嫌煽动分裂。</p>
+<p>现居瑞士的甘肃夏河县拉卜楞寺僧人果洛久美曾向媒体透露，珠洛于去年3月19号在青海黄南州同仁县被当局拘捕。果洛久美还表示，珠洛被捕是因他最新撰写了有关军警在今年3月16号持枪严控青海同仁县，以及关于今年3月18号在青海海北州刚察县学生遭体罚的两篇日志。</p>
+<p>资料显示，珠洛是甘肃夏河县甘加乡卡加村人，现年31岁，和妻子育有一个年近三岁的孩子。据称，珠洛曾用笔名雪合江发表过很多关乎民族命运的藏语著作，其中包括《自我解脱的勇气》和《为自由，我无悔》等，在藏民间引起巨大反响与关注，而之前在他就读大学期间撰写的很多文章被当局没收。早在2010年，珠洛就曾因为撰写涉及2008年西藏抗议事件的文章而被捕入狱，同时也被当局指控涉嫌“同境外知识分子保持联系”、“煽动民族分裂”等罪名，一个月后得以取保候审。</p>
+<p>消息人士向《西藏邮报》透露，珠洛的家人被允许参加庭审，但不清楚他们是否被允许聘请律师。</p>
+<p>近年来，许多藏族异见人士遭到中国当局打压，其中包括僧侣、作家、歌手甚至环保人士。2008年，藏区发生了抗议中国统治的示威活动，并随后引发了“3·14”骚乱事件。当局抓获涉案人士414人，最后对30名涉案人士进行了公审。抗议事件之后，当局禁止外国记者进入藏区。《西藏邮报》指出，许多藏人因为表达不满情绪而被政府拘留、判刑和折磨，而中国政府至今仍然声称其“和平解放”了西藏，而藏人们生活在“社会主义的天堂”。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E8%97%8F%E4%BA%BA%E4%BD%9C%E5%AE%B6%E7%8F%A0%E6%B4%9B%E8%A2%AB%E5%88%A4%E5%88%91%E4%B8%89%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6%E9%9B%AA%E5%90%88%E6%B1%9F/?category=18271" rel="tag">作家雪合江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E5%88%86%E8%A3%82/?category=18271" rel="tag">煽动民族分裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E4%BD%9C%E5%AE%B6%E7%8F%A0%E6%B4%9B/?category=18271" rel="tag">藏人作家珠洛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%97%8F%E4%BD%9C%E5%AE%B6/?category=18271" rel="tag">藏族作家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C%E4%B8%8A%E6%B5%B7%E8%AE%BF%E6%B0%91%E4%B8%81%E5%BE%B7%E5%85%83%E7%BB%99%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BF%A1%E8%AE%BF%E5%8A%9E%E9%A2%86%E5%AF%BC%E5%86%99%E8%B4%A3/" target="cdt-mirror">维权网｜上海访民丁德元给国务院信访办领导写责问信</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E4%B8%81.jpg?resize=228%2C400" alt="老丁" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老丁.jpg?resize=171%2C300 171w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老丁.jpg?w=228 228w" sizes="(max-width: 228px) 100vw, 228px" data-recalc-dims="1">（维权网信息中心报道） 2016 年 2 月 19 日，本网获悉：上海访民丁德元昨天（ 2016 年 2 月 18 日）给国务院信访办领导写了一封责问信题目为：“你们有没有将地方政府管好的能力？”</p>
@@ -596,78 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E5%A5%B3%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B0%81%E6%89%93%E6%9C%9D%E9%B2%9C%EF%BC%8C%E6%88%91%E5%B0%B1%E6%89%93%E5%8F%B0%E6%B9%BE-2/" target="cdt-mirror">博谈网 | 上海国际问题女专家：谁打朝鲜，我就打台湾</a>
-</h2>
-<p><p>来源: 博谈网</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-%E4%B8%8B%E5%8D%881.51.48.png?resize=496%2C278" alt="Screen Shot 2016-02-17 at 下午1.51.48" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-下午1.51.48.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-17-at-下午1.51.48.png?w=496 496w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"><br><span>亚太问题专家于迎丽博士（视频截图）</span></p>
-<p>（博谈网记者苏智敏报道）随着朝鲜半岛紧张局势持续升温，美国近期与韩国进行联合演习以武力威吓朝鲜。然而中国的一名女专家却在电视上表示，若美国执意用军事手段解决北韩核武问题，中国也不排除用武力对付台湾。</p>
-<p>被称为“第二央视”的香港凤凰卫视《凤凰全球连线》15日报导中，曾任上海国际问题研究院亚太研究中心助理研究员的于迎丽在节目上称：“之前我们其实是一直非常排斥把朝（北韩）核问题跟台湾问题相连接，但是现在我觉得，如果说美国在走军事道路的方向上一意孤行的话，其实我们中国也完全可以考虑，把台湾问题跟朝核问题联系起来看。如果说美国不排除用军事手段来解决朝核问题，那么我们其实在台海问题上面的一贯立场，就是我们从来也没有排除过武力手段。所以我觉得，中国其实不光是就是说除了要在朝核半岛方向上跟美国是要有一个正面的碰撞，我们也要有一些这种迂回的思路来解决这个问题。”</p>
-<p><strong>中国网友的反对派与支持派</strong></p>
-<p>于迎丽将台湾与北韩问题联系起来的观点，引起两岸舆论热议。</p>
-<p>对台湾问题向来总是有二种相反看法的中国网友，不少人批评于迎丽的逻辑太恐怖。</p>
-<p>中国民众向来认为台湾是中国的一部份，是同胞。因此辽宁律师于洋批评于迎丽主张“同胞相残”来保卫朝鲜金家政权的残暴统治，是何居心。徐昕律师也质问：“谁打朝鲜，我就打内战。三胖是亲人，台湾是敌人。这是什么逻辑？”</p>
-<p>独立学者荣剑认为于迎丽惊人之处有二点：1。无耻，把台湾视为敌国，以打台湾来救朝鲜，制止美国为世界除恶。2。无知，言论全是意识形态腔调，毫无专业知识含量。</p>
-<p>另有网友认为，这种观点放到国外就是恐怖分子，质问：“怎还有脸说台湾是中国的？”也有人指出，这就是金氏政权的主体思想──“谁惹我，我就打韩国”。</p>
-<p>持相反看法的网友则表示，如果美国入侵朝鲜，就是给中国提供一个武力统一台湾的契机。持这类观点的网友普遍认为，中国民众称台湾人为同胞，但台湾人却对中国人民极为不善，和平统一台湾的希望已越来越小。</p>
-<p><strong>台湾网友：台独催化剂</strong></p>
-<p>另一方面，台湾网友们愤怒的指出，这种言论是秀下限的台独催化剂。许多人批评中国总是耍“血浓于水的同胞”及“不放弃武力攻台”的两面手法。</p>
-<p>也有人认为这是在变相承认台湾主权：“谁会整天动不动就要打自己国家的一部分？”还有人说于迎丽只是说出中国的真心话，另有不少网友指出，中共是纸老虎，要台湾民众不用担心。</p>
-<p>但如同支持攻打台湾的中国网友认为台湾人对中国人极不友善的观点一样，有台湾网友表示，就像中国网军在脸书上留下的谩骂留言一样，中国人对台湾也不友善。一位就读台湾大学的张姓网友在脸书上留言说：“四川震灾我也捐了几千元新台币。看中国这几年来不断恐吓、打压台湾，以后我不可能再捐钱给中国了。不能怪我爱心冷淡了。”</p>
-<p><strong>纯意识形态教育下的专家</strong></p>
-<p>引来舆论哗然的于迎丽，上海国际问题研究院官网上显示她已于2015年4月离职。曾为智库助理研究员的她，却出此言论，现为清华大学社会学系教授的孙立平认为，这是长期形成的纯意识形态式的思维方式。</p>
-<p>孙立平教授在个人微博表示，这种思维方式首先是在意识形态上分敌我，不但罔顾最基本的道义是非，甚至不能理性判断真正的国家利益与世界局势。</p>
-<p>他也认为于迎丽所言等同于其所想，因为在多年以意识形态正确为导向的学术研究氛围熏陶下，会觉得从意识形态正确的角度看问题是理所当然，理直气壮的。</p>
-<p>孙立平教授又解释，虽然有人说可透过互联网上的讯息，来达到去愚昧作用，以于迎丽的能力，从网上获得充分信息是没问题的，但那不见得能使人们自动不愚蠢。“纯意识形态的思维方式毁坏的就是人们处理信息的能力”</p>
-<p>他最后又表示，以朝鲜为例，纯粹的意识形态立场，有时往往是损害国家利益的。</p>
-<p>关键词: 朝鲜 核武 台湾 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 苏智敏</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E5%A5%B3%E4%B8%93%E5%AE%B6%EF%BC%9A%E8%B0%81%E6%89%93%E6%9C%9D%E9%B2%9C%EF%BC%8C%E6%88%91%E5%B0%B1%E6%89%93%E5%8F%B0%E6%B9%BE-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%E9%99%A2/?category=18271" rel="tag">上海国际问题研究院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E8%BF%8E%E4%B8%BD/?category=18271" rel="tag">于迎丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98/?category=18271" rel="tag">台湾问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E7%AB%8B%E5%B9%B3/?category=18271" rel="tag">孙立平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/429437/" target="cdt-mirror">【真理部】《于迎丽：美国威胁军事打击朝鲜是对华施压》</a>
-</h2>
-<p><p>关于凤凰卫视《于迎丽：美国威胁军事打击朝鲜是对华施压》，<a href="http://phtv.ifeng.com/a/20160216/41551232_0.shtml" target="_blank">视频内容</a>各网站不要继续转载。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>附：凤凰卫视2月15日《凤凰全球连线》，以下为文字实录</p>
-<p>任韧：谢谢，来上海现场，我们来请教一下于迎丽博士了，事实上中国态度也非常的关键，而中国已经明确表达了在半岛问题上的立场，在应对朝鲜问题上，必须要保障中国自身的正当的国家安全利益，那您认为在目前半岛局势有可能存在军事介入的这种危机之下，中国怎么去保障自己的国家利益？</p>
-<p>于迎丽（博士亚太问题专家）：关于这个美国军事，用军事手段来解决朝核问题，之前实际上都是一直在一个小范围里面讨论，现在就是通过媒体逐步的释放这样一些信息，我觉得这是美国施压的一种新手段，因为采取这样一个军事行动的话，我觉得目前来讲时机并不成熟，首先朝鲜虽然他有核试验，他也进行了一个导弹的发射，但是他要构筑成一个完整的战略力量，这样一个成体系的东西还是有欠缺的，朝鲜还其实还有很大的路要走，还有很长的路要走，但是美国他一直以来他就是不断的夸大朝鲜的威胁，这样子他才可以利用局势来满足自己的一些小算盘，一些打算。</p>
-<p>而且朝鲜现在国内的局势应该说还是比较稳定的，他国内也没有什么一些大的变故，而且尤其我觉得最重要的是就是不论是他采用什么样的军事手段，对于韩国来讲，他是最难承受这样一个军事行动的后果的，我们都知道首尔其实它跟朝韩边境是很近的，它在朝鲜的远程火炮的射程范围以内，只要美国有任何的动作，朝鲜如果说是对首尔发动攻击的话，韩国是难以承受这样一个后果，所以我觉得目前美国不论是说他在讨论什么样的手段，包括韩国的媒体也在曝光一些美国特种士兵来攻击宁边的核设施的这样一些演习的画面，我觉得这些都是美国在向朝鲜施压，在向中国示威的这样一些新的措施。</p>
-<p>至于说中国怎么样来保护自己的国家利益，首先我们中国肯定还是要坚持一个外交渠道跟美国跟韩国进行充分的沟通，另外我也就是之前我们其实是一直非常排斥把朝核问题跟台湾问题相连接，但是现在我觉得如果说美国在走军事道路的方向上一意孤行的话，其实我们中国也完全可以考虑把台湾问题跟朝核问题可以联系起来看，<strong>如果说美国不排除用军事手段来解决朝核问题，那么我们其实在台海问题上面的一贯立场就是我们从来也没有排除过武力手段，</strong>所以我觉得中国其实不光是就是说除了要在朝核半岛方向上跟美国是要有一个正面的碰撞，我们也要有一些这种迂回的思路来解决这个问题。</p>
-<p>任韧：谢谢。</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/429437/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F/" target="cdt-mirror">奇闻录 | 这才是感动中国正能量</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?resize=595%2C418" alt="CbZbf_8W8AAf_DT" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?resize=300%2C211 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CbZbf_8W8AAf_DT.png?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
-<p>快播涉黄的案子刚刚平息，在百度搜索引擎上，只要输入“上戏美女”、“嫩模”字样，就会出现许许多多衣着暴露、事业线傲人的美女艺术照。</p>
-<p>2月17日，澎湃新闻记者从上海市闵行区人民检察院获悉，该检察院近日以涉嫌介绍卖淫罪对犯罪嫌疑人吴某等人批准逮捕。她们花费高价百度置顶的初衷不在走红娱乐圈吸粉，而是高价招嫖。</p>
-<p>2014年12月9日，公安机关接匿名举报，反映一个名为“美女集中营”的微信群发布招嫖信息，区域涉及上海市全国主要省份。次日，上海市公安局闵行分局对本案以涉嫌介绍卖淫立案侦查。</p>
-<p>2015年9月14日，闵行公安分局治安支队会同虹桥派出所民警对涉案的犯罪嫌疑人吴某、铁某等人进行抓捕。经查，吴某等人通过前往韩国整容、拍艺术照、到百度置顶推广，将自己包装成“上戏美女”、“嫩模”，甚至有专业配音演员为她们解说近期作品和动向，但一般不会用真名。</p>
-<p>据检察机关透露，和传统介绍卖淫情况不同的是，吴某等人并没有接受所谓的“老鸨”、“鸡头”的管理和抽成，她们平时接单一般都由朋友介绍，也有“回头客”直接电话联系。</p>
-<p>吴某供称，她们有空就自己去接客，没空就转单给其他小姐做，自己收介绍费，“因为都是在同一家韩国医院整容的关系，五官都很相似，再加上化妆，经常互相冒充接客。”据透露，一次卖淫，可以获利数千元人民币。</p>
-<p><strong>据吴某供述，生意好的时候一个月可以赚五六万元，“这些钱都用在租房、包装自己、给父亲看病、给亲戚看病、给表弟堂弟交学费、给老师资助学生等事上。”</strong></p>
-<p>近日，上海市闵行区人民检察院以涉嫌介绍卖淫罪对犯罪嫌疑人吴某等人批准逮捕。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E6%B7%AB/?category=18271" rel="tag">卖淫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9B%E5%AB%96/?category=18271" rel="tag">招嫖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -679,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E6%B7%AB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -689,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%96%E6%B7%AB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

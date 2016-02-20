@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,93 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E6%80%A5%E5%89%A7%E7%BC%A9%E6%B0%B4%EF%BC%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E9%9D%A2%E4%B8%B4%E4%B8%8B/" target="cdt-mirror">纽约时报｜中国外汇储备急剧缩水，人民币面临下行压力</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg" rel="attachment wp-att-429688"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg?resize=575%2C382" alt="Joe Penney/Reuters 一个位于尼日利亚拉各斯的中国建筑工地。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg?w=650 650w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>一个位于尼日利亚拉各斯的中国建筑工地。<br>Joe Penney/Reuters</p></div>
+<p>香港——在全球市场动荡之际，中国一直对自己手中握有金融世界救生圈而感到欣慰，也就是大量持有的其他国家货币。</p>
+<p>一年半前，中国拥有高达四万亿美元的外汇储备。外储对中国领导人来说是一种有象征意义的战利品，他们形容外储是劳动者的“血汗钱”，并将其作为国力的一个标志。</p>
+<p>现在，随着中国经济增长放缓，这个国力的标志也在慢慢减少。</p>
+<p>随着资金大量外流，加之北京动用外汇储备来支撑其货币，中国的外汇储备正在不断减少。自2014年夏天以来，中国的外汇储备缩水了近五分之一——其中超过三分之一发生在过去三个月中。到今年1月底，中国的外汇储备余额降至3.23万亿美元，这不免让人猜测北京到底会让它降至何种水平。</p>
+<p>随着外汇储备的缩水，如果经济突发震荡，中国领导层的回旋余地也会减少。而外汇储量的状况还削弱了中国对人民币价值的控制。</p>
+<p>外汇储备的减少，可能还会破坏中国提高其国际形象的努力，因为它不再拥有那么多的资金，可以注入到发展中国家的重大项目中。</p>
+<p>“基本问题是，如果你花掉了7000亿美元储备，那你还会继续花多少？”布鲁塞尔非营利性经济研究机构勃鲁盖尔研究所(Bruegel)所长君特汉姆·沃尔夫(Guntram Wolff)说。</p>
+<p>不断减少的外汇储备，和其他很多因素一起，削弱了全球投资者的信心，因为储备缩水可能会对中国金融体系形成冲击。很多投资者现在都把赌注押在了中国不得不让人民币贬值，而不是进一步动用外汇储备上。</p>
+<p>中国官员对这种观点予以驳斥。上周末，中国的财新杂志少见地发表了一篇<a title="Link: http://weekly.caixin.com/2016-02-12/100908570_all.html" href="http://weekly.caixin.com/2016-02-12/100908570_all.html" target="_blank" rel="nofollow">对中国央行行长周小川的采访</a>。周小川表示，“中国有世界上最大规模的外汇储备，我们不会让投机力量主导市场情绪。”</p>
+<p>中国的外汇储备囤积，是人民币管理方式的副产品。</p>
+<p>在中国经济繁荣的鼎盛时期，随着大量美元、欧元和日元资金的涌入，人民币的价值上升了。但北京严格控制其价值，购买了很大一部分流入的资本，把它们纳入外汇储备之中。这引发了美国和欧洲的愤怒指责，称中国操纵人民币汇率，维护中国出口产品在外国的低廉价格和竞争力。</p>
+<p>现在人民币面临下行压力，中国动用外汇储备来支撑人民币汇率。但是，美国很多国会议员以及总统候选人仍然指责中国在人为地压低人民币汇率。</p>
+<p>中国的外汇储量仍然相当可观，超过第二位的日本一倍以上。这个储备是否过大，把这些资金留在私营部门是否能有更好的投资，包括央行行长周小川在内的许多人都有所疑虑。周小川在过去两年里领导了一个举措，降低了中国企业和家庭用自己的资金在海外投资的难度，结果他们发现，在最近几个月里，资本外流的速度已经快到了令人不安的程度。</p>
+<p>中国已经采取举措，阻止资金进一步外流。今年冬季，中国当局逮捕了那些将数十亿人民币换成美元和欧元的地下钱庄老板。他们还<a href="http://cn.nytimes.com/business/20160214/c14db-chinaexodus/" target="_blank" rel="nofollow">增加</a>了中国公民使用人民币购买美元保单的难度。</p>
+<p>中国的银行监管机构则在悄悄地暂停美元结算理财产品在境内的销售。</p>
+<p>北京方面还命令各个银行的香港分支机构限制人民币借贷，使得交易商及投资者更难以在金融市场上做空中国货币。</p>
+<p>“我们确实在1月早些时候收到了北京方面的通知，要求我们在批准以人民币结算的贷款时更严格一些，”一家中国银行驻香港的高管说。“被夹在中间的感觉并不好，营销人员希望开展更多业务，而上级则要求你更加严格地审查信贷方案。”这名高管担心遭到雇主报复，要求匿名。</p>
+<p>鉴于它给公众造成的印象，外汇储备的流失也造成了政治尴尬。北京方面已经采取旨在支撑储备的举措。</p>
+<p>一项举措会促使更多外汇储备免受长期承诺的限制。一名了解中国外汇储备情况的人士表示，中国央行现在要求，在希望利用部分储备进行投资的经理中，至少有一部分应该承诺每年带来多达26%的收益，否则就会削减他们的管理费，这名人士为了避免遭到报复，要求匿名。</p>
+<p>本周，中国市场有所增长，一些投资商打赌称，中国会减缓外汇储备的流失。对于美联储今年继续加息的期待已经逐渐消失，这让中国看起来更具吸引力。中国拥有巨大的贸易顺差，使得外国资金稳步流入。</p>
+<p>中国国内外的经济学家越来越多地在尝试推测外汇储备要降至 什么水平，中国才可能考虑使人民币大幅贬值。国际货币基金组织(International Monetary Fund)的模型显示，如果进行严格的资本控制，中国这种规模的经济需要有1.5万亿美元，如果没有相关控制举措，这个数额为2.7万亿美元。</p>
+<p>目前在美国外交关系协会(Council on Foreign Relations)任职的前美国财政部官员布拉德·塞策(Brad Setser)表示，中国会设法应对储备减少的情况，因为这种模型不是为中国这种国内银行存款规模如此庞大的国家设计的。</p>
+<p>德克萨斯州对冲基金经理J·基莱·巴斯(J. Kyle Bass)认为人民币会贬值，他最近告诉客户，他坚信中国<a title="Link: http://www.valuewalk.com/2016/02/kyle-bass-china/?all=1" href="http://www.valuewalk.com/2016/02/kyle-bass-china/?all=1" target="_blank" rel="nofollow">甚至没有利用所有外汇储备的能力</a>，因为已经有高达一万亿美元被投入到长期投资中。但大多数经济学家不同意这种说法，称投入于各种项目的外汇储备数额不到3000亿美元，且尚未支付，而剩下的3.23万亿是随时可以使用的。</p>
+<p>加州大学圣迭戈分校(University of California, San Diego)中国金融问题专家史宗瀚(Victor Shih)表示，从长远来看，中国将储备用于树立国际形象的大型工程的可能性在降低。他说，“当你每个月损失1000亿美元的时候，你没钱投资在偏远地方建造公路，在巴基斯坦修建可能会被炸毁的铁路。”</p>
+<p>2014年，中国国家主席习近平宣布，中国将提供500亿美元的资金，<a href="http://www.nytimes.com/2015/12/05/business/international/china-creates-an-asian-bank-as-the-us-stands-aloof.html?_r=0" target="_blank" rel="nofollow">设立</a>亚洲基础设施投资银行(Asian Infrastructure Investment Bank)，并在一个月后表示，中国还将再提供400亿美元，设立基金，用于在那些从该银行贷款的国家投资。</p>
+<p>上个月，习近平宣布设立另一项基金，为世界贫穷国家建造更多基础设施。总额只有5000万美元，这些钱勉强能在一个贫穷国家建几条公路。</p>
+<p><em>欢迎在Twitter上关注作者Keith Bradsher <a href="https://twitter.com/keithbradsher" target="_blank" rel="nofollow">@KeithBradsher</a>。</em></p>
+<p><em>翻译：纽约时报中文网</em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E6%80%A5%E5%89%A7%E7%BC%A9%E6%B0%B4%EF%BC%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E9%9D%A2%E4%B8%B4%E4%B8%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%9A%E6%B4%B2%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">亚洲开发银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B7%9D/?category=18271" rel="tag">周小川</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87/?category=18271" rel="tag">外汇储备</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A1%8C/?category=18271" rel="tag">央行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BE%E4%B8%8B%E8%82%96%E9%92%A2%EF%BC%8C%E5%AD%A6%E4%B9%A0%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/" target="cdt-mirror">精读党报｜放下肖钢，学习今天的人民日报</a>
+</h2>
+<p><p>周六上午，中国证监会主席易人，任职3年的<a href="http://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E4%BA%8B%E5%84%BF%EF%BD%9C%E5%8E%BB%E8%81%8C%E8%B0%A3%E8%A8%801%E4%B8%AA%E6%9C%88%E4%BA%86-%E8%82%96%E9%92%A2%E5%B9%B2%E4%BA%86%E5%95%A5/">肖钢从股市“过山车”上下来</a>，农行董事长刘士余接掌证监会。相信周一市场会给一个积极的反应，至于后市如何，目前很难预测。</p>
+<p>从第一次股市开始，证监会易人的消息就不断，今天尘埃落定，新闻也成了过去时。</p>
+<p>但有的新闻不会成为过去时，其影响刚刚开始，并将对中国的媒体格局、内容业态产生重大而深远的影响。</p>
+<p>没错，读报君说的就是2月19日下午召开的党的新闻舆论工作座谈会。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5.jpg" rel="attachment wp-att-429684"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5.jpg?resize=475%2C679" alt="人民日报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?resize=210%2C300 210w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?resize=768%2C1097 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?resize=717%2C1024 717w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?w=1377 1377w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p>2月19日上午，习近平到访三大央媒——人民日报社、新华社、央视调研，当天下午，在人民大会堂主持召开新闻舆论工作座谈会。这个座谈会和2014年10月15日举行的文艺工作座谈会同等规格，从会场背景国画《幽燕金秋图》看，都是在东大厅，这也是每一届政治局常委首次亮相的地方。</p>
+<p>昨晚8点一刻，读报君才拿到新闻联播的文字，9点半推送了《习近平访三大媒体，真正重磅的是下午的座谈会》，眼看着就10万+了，却被举报了（回复219可提取）。</p>
+<p>不过，昨天的文章，为了求快，确实谈的比较浅。今天结合人民日报社论，读报君再详细谈一谈，这个新闻舆论工作座谈会为何重要，为什么说它将对中国的媒体格局产生重大影响，以及，为什么每一位媒体人、自媒体人、互联网内容创业者、投资者都要认真学习。</p>
+<p>首先，对新闻舆论工作的定性——党的一项重要工作（2013年8·19会议对意识形态工作的提法是“党的一项极端重要的工作”），虽然不是极端重要，但也是“治国理政、定国安邦的大事”，而且新闻舆论工作，本身也在意识形态工作这个大概念里。</p>
+<p>做好新闻舆论工作，习近平提了5个事关——事关旗帜和道路，事关贯彻落实党的理论和路线方针政策，事关顺利推进党和国家各项事业，事关全党全国各族人民凝聚力和向心力，事关党和国家前途命运。</p>
+<p>这已经是举什么旗走什么路的高度了。如果做不好，就会影响党和国家前途命运。显然，这是一个大是大非的问题，不是简单的技术问题。</p>
+<p>昨天白天，在习到访央视时，很多朋友注意到了<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/">央视大屏幕上的三行字</a>：“央视姓党 绝对忠诚 请您检阅”。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg" rel="attachment wp-att-429606"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=400%2C300" alt="央视姓党2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?w=800 800w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>下午，习近平在座谈会上明确提出：党和政府主办的媒体是党和政府的宣传阵地，必须姓党。这是在“党校姓党”后，又一“姓党”机构。</p>
+<p>去年12月11日，习近平在全国党校工作会议上要求，“必须坚持党校姓党这个党校工作根本原则”，在这次会议上，习近平提出了最近两月的大热词“看齐意识”。习当时说：党校是教育培训干部的地方，不断把领导干部集中到党校来学习培训，一个重要目的就是帮助大家向党中央看齐。党校增强看齐意识，就要坚持党校一切工作都必须围绕党中央决策部署来进行。</p>
+<p>媒体既然也姓党，那所有工作，就要“体现党的意志、反映党的主张，维护党中央权威、维护党的团结，做到爱党、护党、为党”，同时也要“增强看齐意识，在思想上政治上行动上同党中央保持高度一致”。</p>
+<p>对于大媒体概念的从业者来说，最重要的是习近平这段指向明确、信号清晰的话：</p>
+<blockquote><p><strong>新闻舆论工作各个方面、各个环节都要坚持正确舆论导向。</strong></p>
+<p><strong>各级党报党刊、电台电视台要讲导向，都市类报刊、新媒体也要讲导向；</strong></p>
+<p><strong>新闻报道要讲导向，副刊、专题节目、广告宣传也要讲导向；</strong></p>
+<p><strong>时政新闻要讲导向，娱乐类、社会类新闻也要讲导向；</strong></p>
+<p><strong>国内新闻报道要讲导向，国际新闻报道也要讲导向。</strong></p></blockquote>
+<p>特别是那些“也要”的主体，因为在过去，可能是不那么注意讲导向的。那怎么做才算是导向正确？人民日报社论给出了清晰的评判标准——“四个有利于”：</p>
+<ul><li><strong>有利于坚持中国共产党领导和我国社会主义制度</strong></li>
+<li><strong>有利于推动改革发展</strong></li>
+<li><strong>有利于增进全国各族人民团结</strong></li>
+<li><strong>有利于维护社会和谐稳定</strong></li>
+</ul><p>任何一个不利于，都是错误的舆论导向。无论你是广告还是娱乐。</p>
+<p>导向如何才能正确？也有答案——团结稳定鼓劲、正面宣传为主。发表批评性报道要事实准确、分析客观。</p>
+<p>导向正确，虽然是对“姓党”媒体的要求，但必然会传导到所有的媒体，包括商业网站、各种泛资讯阅读APP、各类自媒体。</p>
+<p>2015年，中央网信办约谈几家门户网站，各方痛批网易篡改标题，已经预示着深入细致的导向管理已经开始；而嗅觉敏锐的机构也主动作为：凤凰网推出《暖新闻》栏目，百度贴吧组织爱国小粉红翻墙打台独，今日头条帮忙寻找失踪老幼……</p>
+<p>所有的媒体和从业人员，趁着周末，可以审视下自己和所在机构的价值观，自己过去和目前的工作，做到了这4个有利于吗？如果没有，那赶紧调整。如果价值观做不到，那赶紧想办法干点别的了。因为中共需要的是能够为自己执政“赋能”的建设者，而不是“吃饭砸锅”的破坏者、捣乱者、麻烦制造者。读报君大胆断定：未来中国的媒体格局，将由姓党的亲儿子和能够在技术上为中共执政赋能的科技新贵主宰。</p>
+<p>2016年1月4日，习近平新年首次调研，在重庆提出了“指挥棒”的说法，即“创新、协调、绿色、开放、共享”，这个新的发展理念，就是指挥棒，引领方向、指明路径，开启发展新境界。</p>
+<p>而农历新年的首次调研，习近平对新闻舆论工作提出的这48个字，刊登在《人民日报》头版报眼位置——过去放毛主席语录的地方，也是一个“指挥棒”。</p>
+<p>第一个指挥棒，指挥的是各级政府和官员；这一个指挥棒，指挥的是各家媒体和从业者。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BE%E4%B8%8B%E8%82%96%E9%92%A2%EF%BC%8C%E5%AD%A6%E4%B9%A0%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%AF%BC%E5%90%91/?category=18271" rel="tag">舆论导向</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%B4%BE%E5%98%89%E9%81%87%E5%88%B0%E6%93%85%E5%86%99%E5%81%87%E6%96%B0%E9%97%BB%E7%9A%84%E8%AE%B0%E8%80%85%E8%AF%B7%E4%B8%80%E5%AE%9A%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BF%9D%E6%8A%A4/" target="cdt-mirror">贾嘉｜遇到擅写假新闻的记者请一定要好好保护</a>
 </h2>
 <p><p>【编者注】微信公号贾嘉（ID: kayurajiajia）原文已被删除。以下内容来自新浪微博<a href="http://weibo.com/11548115">@色色猴</a>转载。</p>
@@ -670,120 +754,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B8%9D%E7%8E%8B%E7%9A%84%E8%AF%97%E6%AD%8C%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E7%BE%8E%E6%84%9F/" target="cdt-mirror">平说｜九叔：帝王的诗歌为何没有美感</a>
-</h2>
-<p><p><strong>微信公号：平说（ID: iNews-）</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%9D%E7%8E%8B.jpg" rel="attachment wp-att-429495"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%B8%9D%E7%8E%8B.jpg?resize=550%2C367" alt="帝王" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/帝王.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/帝王.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>近日读徐晋如教授的《大学诗词写作教程》，有个观点颇有同感。</p>
-<p>徐在总论中谈及胸襟气度，说要提防两种可怕的倾向，其中之一就是专制主义倾向。大意为——</p>
-<blockquote><p><em>诗的本质是自由的，但专制倾向的诗是反自由的，所体现的是极权者的心声……这类诗，大多会选择宏大的、貌似崇高的意象，乍一看真是气势非凡，领袖、帝王风范，实则是一种蛮横至极的伪崇高。</em></p>
-<p><em>崇高感只能来自于个体生命意志对命运的反抗，以及对人类的终极悲悯，像美狄亚、普罗米修斯、俄狄浦斯、屈原；而这些诗，却表现的是一种君临天下的帝王心态，它是要凌驾于一切世人之上的反自由的宣言书，是“先做救世主，再做人上人”式的伪崇高。</em></p></blockquote>
-<p>徐以黄巢、赵匡胤、朱元璋的几首诗为例：待到秋来九月八，我花开后百花杀。冲天香阵透长安，满城尽带黄金甲。</p>
-<p>此乃黄巢的咏菊诗，当然意不在菊。徐评道：残酷的战争、涂炭的生灵，在黄巢眼中，竟有了“满城尽带黄金甲”的美感。这是对暴力和残忍的礼赞，任何热爱人类、热爱和平的人，都是不能认同这种所谓的“暴力美学”的。</p>
-<p>“未离海底千山黑，才到天中万国明。”此句乃赵匡胤的咏月诗。徐认为诗中所体现的是一种救世主式的帝王心态，自己拥有至高无上的权力，而臣民则只能沐浴在他的光芒之下。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg" rel="attachment wp-att-429492"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg?resize=550%2C367" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><em>鸡叫一声撅一撅，</em><em>鸡叫两声撅两撅。</em></p>
-<p><em>三声唤出扶桑来，</em><em>扫尽残星与淡月。</em></p></blockquote>
-<p>这是朱元璋的诗，不少粗鄙之人认为虽然是打油诗，但后两句气势磅礴、唯我独尊。徐则认为此诗很好体现了帝王心态——比赵匡胤诗更加残暴冷酷，唤出来的“扶桑”显然就是朱元璋本人，要“扫尽残星与淡月”，消灭一切胆敢忤逆天威之人。就施政而言，真可谓政如其诗。</p>
-<p>最后概括下徐的观点：之所以这种反自由的诗不具审美价值，是由于其不以真情、悲悯动人，却以所谓的“气魄”、“霸气”——也就是绝对权力的体现——去压服人，是一种伪崇高。</p>
-<p><strong>诗无尊卑，情有高下</strong></p>
-<p>诗词到底是文学范畴，但其中却会流露出价值取向，这种价值取向会对诗词的美感构成影响。或许有人会问，强调“反自由的诗歌不具审美价值”，是不是用意识形态压人呢？显然非也，情怀的高下也是诗歌美感的重要评判标准，写诗是一定要有情怀的，做手机搞情怀营销会被人嘲笑不务实，写诗若无情怀那还写个什么劲。</p>
-<p>当然，我们首先要理解古人，生活在当时的环境中，不可能要求他们遵循自由主义的政治观念。因此，自由主义者读到这些忠君爱国的词句，大可不必光火。但是，有一些情感是古今中外、不管持何种政治观点的诗人所共通的，在没有现代价值体系的情况下，照样有是非，有善恶，有高下。</p>
-<p>真正的诗人，即便其政治观点在今人看来是错的，论及政治，都应起码尊重人性，有同情、有悲悯。毕竟，文学不是政治学，不是经济学，只需要体现最初的情感，而高下就蕴含在这简单的初衷中。</p>
-<p>见到农户家贫，李白的感受是“令人惭漂母，三谢不能餐”，这就是一个诗人的情怀，至于农户为何家贫，李白不是经济学家，也可能会得出错误的判断，那不重要，我们不会如此去要求他，要的只是情感传达的真切。</p>
-<p>同样面对大风，诗人杜甫咏出的是“安得广厦千万间，大庇天下寒士俱欢颜，风雨不动安如山”，体现的是推己及人、为苍生诉苦的悲悯；而皇帝刘邦则是“大风起兮云飞扬，威加海内兮归故乡，安得猛士兮守四方”，体现的是帝王出巡，威震四海的自得，至于最后的求贤则是要奴役众人，为自家天下看守门户。两种情怀之高下，对比明显。</p>
-<p>几乎所有刚接触诗词的中学人大多更喜欢李白，而不喜欢杜甫。这种现象可以理解，杜诗政治气息太浓，现代人会觉得其中散发一股腐儒味，相比之下，李诗则潇洒俊逸。</p>
-<p>就如上文所言，我们无法全盘用现代价值体系对评判诗人，而要代之以现代价值观缺失情况下的是非善恶，就此而言，杜甫“诗圣”之名当之无愧。</p>
-<p>毫无疑问，杜甫是忠君爱国的，但这种古代的主流价值取向丝毫不折损杜诗的价值，杜甫同时是一个真诚的人。他希望“北极朝庭终不改，西山寇盗莫相侵”，同时也忠实记录下一切，包括号称盛世下的“朱门酒肉臭，路有冻死骨”，他痛恨安史叛军，也痛恨朝廷在石壕村的恶行。</p>
-<p>这种真诚的品质，加上悲天悯人的情怀，加上杜甫天才的工笔匠心，才得以淬炼出杜诗的伟大。</p>
-<p>当然，杜诗之精深上文能概括到的万不及一，今天只略说情怀，希望能改变一些人对杜诗的刻板成见。尽管杜甫的价值观是被官方认可的忠君爱国，但悲悯情怀灌注其中的杜诗显然不是狭隘的唯我独尊的帝王诗作所能比拟的。恶人作诗，多以所谓气势唬人，其实徒有其表而已。</p>
-<p>综上，读诗的关键在于，切忌以今人之价值观要求诗人，又必须以诗人之应有情怀要求诗人，其中奥妙，便在上文。</p>
-<p><strong>独夫之诗工巧不足，才以所谓气势取巧</strong></p>
-<p>上文说过，恶人作诗，多以所谓的气势唬人，其实徒有其表。“鸡叫一声撅一撅，鸡叫两声撅两撅”，这等句子之粗劣可归入打油诗之行列，唯有“扫尽群星与残月”忽然强作威势，加之作者又是开国帝王，立刻唬得一些人抓住这句大做文章，仿佛真有了所谓的“帝王霸气”。</p>
-<p>这样的诗句，略懂诗歌之人都能看出其是工巧不足，强作宏大意象来取巧，丝毫看不出所谓的“气势”。连这等诗句都能强品出“气”的，怕是自己的奴气使然吧。</p>
-<p>且不说这等诗作所体现的“气势”虚伪做作，毫无美感，就职业诗人而言，如果真的追求此等“气势”即可哗众取宠，日赋万言也不在话下。真的讲究气势的话，诗人随手一笔都能让帝王的伪气势黯然失色。</p>
-<p>杜甫的“落日照大旗，马鸣风萧萧”、“造化钟神秀，阴阳割昏晓”如何？李白的“登高壮观天地间，大江茫茫去不还。黄云万里动风色，白波九道流雪山”如何？其精工，其气势，皆不知道比那些粗劣的“扫尽群星与残月”高到哪里去了。</p>
-<p>不过，同是伪气概的帝王之诗，也有个高下之分。黄巢咏菊，赵匡胤咏月，也算是粗通文墨之辈偶然提笔，作一首略显蹩脚的拼凑之诗，而朱元璋的所谓诗只可算打油之作。朱是乞丐出身，登基后亦知自己为“淮右布衣”，作诗是斯文之举，后世则有人被一干阿谀之徒捧得晕了，真以为自己独步古今，连粗鄙骂人之语都入词了。说这东西叫诗词，实在亵渎语言。</p>
-<p>有种更蹩脚的辩护词是，你要理解人家皇帝啊，日理万机、偶发诗兴，遣词造句自然比不得专业诗人。这种意见真是为皇帝操碎了心。既然作的是诗，就必须从诗的角度评判。无水平就是无水平，无美感就是无美感，自己承认就是，又何必强作大语，弄出所谓的“气势”说来辩护？</p>
-<p>皇帝就写不出好诗吗？非也，南唐李后主，亦是公认的一代词宗，真情所至即可。我们只论为文，不论为政的话，皇帝和常人并没什么不同，把自己定位为诗人，一样可以写出好诗。</p>
-<p>可惜的是多数专制帝王明明文采不足，却非要以文士自居，弄一些不伦不类的东西出来，抒发一些本应令人作呕的唯我独尊、鞭笞天下的情感气概，还有一众奴性十足之辈从中品出了帝王豪气，真是奇观。</p>
-<p>白居易去世后，唐宣宗曾作七律悼念——</p>
-<blockquote><p><em>缀玉联珠六十年，谁教冥路作诗仙。</em></p>
-<p><em>浮云不系名居易，造化无为字乐天。</em></p>
-<p><em>童子解吟长恨曲，胡儿能唱琵琶篇。</em></p>
-<p><em>文章已满行人耳，一度思卿一怆然。</em></p></blockquote>
-<p>算不得好诗，但起码中规中矩，有情有感，有几分才气发几分胸襟。宣宗写诗如此，为政也温和。后世帝王逢开国将帅辞世，亦有做悼诗者，直叹“国有疑难可问谁”，虽全诗与宣宗之句全无可比，这最后一叹倒是真诚。此帅向来为其器重，以政工见长。</p>
-<p>回望满朝文武，竟无一可信者，弄得杀将易储、血雨腥风，真的成了孤家寡人，叹一句“国有疑难可问谁”可谓直抒胸臆。</p>
-<p>当然，古人毕竟脸皮薄，虽然暴君也偶尔作诗，但再刚愎自用的皇帝也知道自己笔下的这些东西上不得台面，不会以天才、诗人自居，更不会把这些玩意充入教材化作考试范围，逼学生记诵，这大概是他们比后世独夫略强之处。</p>
-<p><strong>暴力美学及边塞诗</strong></p>
-<p>以伪气概取巧的帝王之诗，之所以能唬一部分人，还在于其多体现出一种所谓的暴力美学（当然，能写出暴力美的，在此类诗歌中已经算是好的了），如黄巢之“待到秋来九月八，我花开后百花杀。冲天香阵透长安，满城尽带黄金甲”。</p>
-<p>记得小学时初学此诗，老师盛赞此诗体现了农民起义军领袖乐观向上的革命精神和对腐朽的唐王朝的蔑视，而1993年上海辞书出版社的《唐诗鉴赏辞典》则如此评价：</p>
-<blockquote><p><em>艺术想象和联想是要受到作者世界观和生活实践的制约的。没有黄巢那样的革命抱负、战斗性格，就不可能有“我花开后百花杀”这样的奇语和“满城尽带黄金甲”这样的奇想。把菊花和带甲的战士联结在一起，赋予它一种战斗的美，这只能来自战斗的生活实践。</em></p></blockquote>
-<p>稍懂历史即可知，唐末的黄巢起义是何等残暴，生灵涂炭、血流漂杵的场景在某些人看来竟然有了美感，就如群体狂热时期的纳粹帝国，崇拜军人，在军乐的伴奏下观看整齐的军阵能让人狂热到迷失自我，以至于人人觉得理想当然，却没有人能反思一下，所谓帝国国防军党卫队，不就是有组织有效率的杀人机器么，说这东西有美感，真令人毛骨悚然。</p>
-<p>言兵不祥，在这里我要先说一句任性的话，凡是崇尚所谓暴力美学的，都是变态。比如看到整齐的军阵、听到高呼的口号就热血沸腾，慨叹帝国荣光的，都潜意识里是国家机器的崇拜者。</p>
-<p>正常人看到国家机器夸耀武力，即便是瑟瑟发抖，也不该抱有好感、欣赏之态度。</p>
-<p>据说爱因斯坦少年时观看阅兵，竟然难过地哭了，真乃天才之直觉也，后来他在回忆录里写道：</p>
-<blockquote><p><em>讲到这里，我想起了群众生活中最坏的一种表现，那就是使我厌恶的军事制度。一个人能够洋洋得意的随着军乐队在四列纵队里行进，单凭这一点就足以使我对他鄙夷不屑。他所以长了一个大脑，只是出于误会；光是骨髓就可满足他的全部需要了。文明的这种罪恶的渊薮，应当尽快加以消灭。</em></p>
-<p><em>任人支配的英雄主义、冷酷无情的暴行，以及在爱国主义名义下的一切可恶的胡闹，所有这些都使我深恶痛绝！在我看来，战争是多么卑鄙、下流！我宁愿被千刀万剐，也不愿参与这种可憎的勾当。</em></p></blockquote>
-<p>说到暴力美学，不得不提一下边塞诗。我知道上文写了这么多带鲜明价值取向，否定暴力美学的东西，会有人质问我，将成就卓著的边塞诗置于何地？</p>
-<p>首先要说一点，边塞诗所体现的并非暴力美学。事实上，也没有几首边塞诗是歌颂战争的。一方面，边塞诗的文字功夫并非粗鄙的帝王之诗所能比的，另一方面，其透露出的胸襟、思想，也绝不是对战争的偏好、对杀戮的热爱。第一个方面自不必说，这里着重说下第二方面。</p>
-<p>边塞诗中给人留下印象最深的除了对军营生活的描述，最多的就是征人思家、思妇了，这类题材可以说是多如牛毛，但并不让人审美疲劳，诗人也是总能写出新意。之所以这样，因为对身在军中的人来说，行军打仗本来就不是一件愉快的事，在荒寒之地心中悲苦、想家本来就是最真切的感受。而且，真能写好边塞诗的诗人，也都有真切的军旅生涯体验，这些出生入死过的文人将帅，想必也不会觉得打仗有什么美感、乐趣。</p>
-<p>高适是边塞诗家中的代表，《燕歌行》又是其代表作，很好体现了古代边塞诗的特点。“摐金伐鼓下榆关，旌旆逶迤碣石间。校尉羽书飞瀚海，单于猎火照狼山”，例行公事一般地描绘前线；“战士军前半死生，美人帐下犹歌舞”，军中也有大老虎，兵仔们虽然列起阵来、作为国家机器的一部分令人瑟瑟发抖，但具体到个人，也只能是前线炮灰，以至于“孤城落日斗兵稀”却“力尽关山未解围”。</p>
-<p>“铁衣远戍辛勤久，玉箸应啼别离后。少妇城南欲断肠，征人蓟北空回首”，此四句在边塞诗中也是例行公事一般，征人思妇，怨女思夫；最后“君不见沙场征战苦，至今犹忆李将军”，还是那句话，“相看白刃血纷纷”的互相仇杀难言乐趣，更难言美感。</p>
-<p>职业军人或许有不同看法，但也不得不承认战争本身的残酷，如罗伯特 · 李 将军所言：“幸好战争是如此骇人，否则我们会打到乐此不疲。”</p>
-<p>范仲淹的《渔家傲》亦是边塞诗词中的精品与代表，其场景、情绪的描绘穿越千年而毫不失色，这首词想必多数人小学就会背，这里不细说，不妨贴出来自行品味：</p>
-<blockquote><p><em>塞下秋来风景异，</em><em>衡阳雁去无留意</em></p>
-<p><em>四面边声连角起，</em><em>千嶂里</em></p>
-<p><em>长烟落日孤城闭</em></p>
-<p><em>浊酒一杯家万里，</em><em>燕然未勒归无计</em></p>
-<p><em>羌管悠悠霜满地，</em><em>人不寐</em></p>
-<p><em>将军白发征夫泪</em></p></blockquote>
-<p>20世纪以来的战争多是民族主义情结所致，这一点和古代不同。古人也讲究师出有名，但写诗不是写檄文，更多的是真实场景与情感的记述，而不是我方如何正义、敌方如何凶恶，因而很少能从边塞诗里读出崇高、正义、使命感。</p>
-<p>相反，厌战情绪充斥其间，这类例子实在太多了，即便抱有浓厚忠君爱国思想的杜甫，也对征兵打仗深恶痛绝，杜诗的伟大正由于其悲悯与诚实，《兵车行》则直言“边庭流血成海水，武皇开边意未已。”</p>
-<p>另一重要诗人李颀也说：“闻道玉门犹被遮，应将性命逐轻车。年年战骨埋荒外，空见蒲桃入汉家。”</p>
-<p>值得一提的是，即便是到了刀兵相见的程度，即便是诗人亦持忠君爱国之价值观，也很少从其诗中读出对另一方的仇恨，如李颀说：“胡雁哀鸣夜夜飞，胡儿眼泪双双落”，这一点和对异族食肉寝皮的民族英雄岳飞不同，“壮志饥餐胡虏肉，笑谈渴饮匈奴血”，这样让人毛骨悚然的句子并不多见。</p>
-<p>不管怎么说，沾了军阵，就沾了几分血腥气，但能写诗的毕竟还是文士，并没有多少杀戮的戾气。</p>
-<p>大家当中，最有暴力美学嫌疑，善写军阵、颂军威的要数岑参，如送封大夫出征的两首诗皆壮阔豪迈、一往无前，尤其是“四边伐鼓雪海涌，三军大呼阴山动”二句，确实用笔雄健。帝王面对军阵，想必也是洋洋自得，只是缺了岑参的才气。</p>
-<p>因此在我看来，论才气，论场景刻画，岑参是要强过高适的，《白雪歌》一诗写营中送别，还是以送别为主，只是场景设在军营，与价值观、胸襟气度无涉，可谓岑诗中的佳品。然而论胸襟气度，两首《送封大夫出征》就比《燕歌行》差了一个档次。</p>
-<p>在古代，帝王是军队的主人，然而有直接统兵作战经历的帝王较少，所以帝王诗词倒较少涉及军阵，不然想必其唯我独尊的架势会更上一个层次。</p>
-<p>中国的皇权专制自秦始皇始，此公扫灭六国、鞭笞天下，死后还要拉无数兵俑陪葬，可见这位专制暴君对暴力美学的偏好，只可惜秦皇汉武略输文采，不会作诗，不然想必会为本文的分析主题添加不少案例。</p>
-<p>始皇帝生前风光无限，死后也列阵地宫依然让人感到专制机器的森森寒意，然而其毕竟年代久远，比起后世能人去尸存，阳兵护冢的威势来还是逊了数筹。当代诗家何永沂参观西安的秦兵马俑，不禁感叹——</p>
-<p>死去依然大帝皇，阴间列阵凛冰霜。秦公终乏存尸术，徒羡阳兵护冢堂。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%B8%9D%E7%8E%8B%E7%9A%84%E8%AF%97%E6%AD%8C%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E7%BE%8E%E6%84%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">创作自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%91%8A%E8%AF%89%E4%BD%A02016%E5%A6%82%E4%BD%95%E8%BF%87%E5%A4%A7%E5%85%B3/" target="cdt-mirror">【习总日记】 习总告诉你2016如何过大关</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，2，17）</p>
-<p>一</p>
-<p>近日有人在网络上妄议：2016，习近平过大关。说我在2016年面临过大关，经济危机是小关，政治危机才是大关。说各级领导干部从“坐等出事”到“坐盼出事”，总的来说就是希望我早日滚蛋，希望我向华国锋学习，或像胡耀邦赵紫阳一样，从总书记位置上滚蛋。说2016年有两根导火索，一不留神便会导致政治危机爆发：一是文革五十周年纪念，一是中共十九大人事布局。</p>
-<p>今年是文革开始五十周年结束四十周年。我已指示一律不准举办任何形式的活动，官方不允许，体制外更不允许。当然，到时新华社会发表一篇官方社论，讲一些大道理引领舆论方向。</p>
-<p>关于爱情，说穿了就是发花痴；关于文革，说穿了就是发癫疯，怎么可以允许随随便便讨论研究？文革结束后，改革开放时，讨论文革一段时期内，伤痕文学创作，真理标准讨论，因那个时期人民还朦朦胧胧觉悟不高，并没有把矛头明确对准我党。现在可不行。“六四”一声枪响，给中国人民带来了反马克思主义。所以现在的政策和策略是严禁讨论。说白了就是往导火索上浇水，不让你着还不行吗？</p>
-<p>至于十九大人事布局，我倾向于拖。以拖待死，等待老家伙们死亡，尤其是老江。等他们死了，我的话语权决定权就相对要大很多。所以，十九大会延后进行，至少延后一年。若按时召开，说明我又被人牵着鼻走。你们只要看见我哭丧着脸，就可以知道我在党中央权力斗争中的比赛成绩了。</p>
-<p>二</p>
-<p>台湾大选时，黄安周子瑜事件发酵，为民进党大胜助了一臂之力。2月15日，上海国际问题研究院亚太研究中心助理研究员于迎丽在凤凰网《凤凰全球连线》节目中接受有关美国军事威胁打击朝鲜问题时竟然扬言：“其实我们中国也完全可以考虑把台湾问题跟朝核问题可以联系起来看，如果说美国不排除用军事手段来解决朝核问题，那么我们其实在台海问题上面的一贯立场就是我们从来也没有排除过武力手段。”此话等同于：你若犯朝，我也可以犯台。</p>
-<p>气得我立即把王沪宁叫来：“复旦大学就培养出这样的人才？”</p>
-<p>晚上气未消，嘟哝道：“山东人脑袋少根筋。”话刚落音，“啪”地一声，挨了一巴掌。</p>
-<p>三</p>
-<p>美国参众两院日前通过由共和党籍议员总统参选人克鲁兹提出的议案，以诺贝尔和平奖得主中国异见人士刘晓波为首都华盛顿一个广场命名，地点位于中国大使馆门前。若美国政府批准，中国大使馆的地址也将改为“刘晓波广场1号”。</p>
-<p>有意思吗？很好玩是吧？长不大你们。</p>
-<p>我要向美国人民喊话，你们选出来的政治精英们，就这水平，用更改路名的方式寒碜我们，伤害中国人民的感情。你们知道中国人民闻讯后多伤心吗？有一位朝阳区大妈哭着问，今后我们跳广场舞，是不是也要改名为“刘晓波广场舞”？</p>
-<p>看把她们气得，神志都不清了。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/021716.jpg?resize=549%2C350" alt="021716" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/021716.jpg?resize=300%2C191 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/021716.jpg?w=583 583w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%91%8A%E8%AF%89%E4%BD%A02016%E5%A6%82%E4%BD%95%E8%BF%87%E5%A4%A7%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%8D%81%E4%B9%9D%E5%A4%A7/?category=18271" rel="tag">中共十九大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E8%BF%8E%E4%B8%BD/?category=18271" rel="tag">于迎丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2%E5%B9%BF%E5%9C%BA/?category=18271" rel="tag">刘晓波广场</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -795,7 +765,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -805,5 +775,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

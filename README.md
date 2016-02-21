@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E9%A9%AC%E5%8B%87%EF%BC%9A%E4%BB%8A%E5%A4%A9%E8%AF%A5%E5%A6%82%E4%BD%95%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/" target="cdt-mirror">凤凰评论 | 马勇：今天该如何反思文革</a>
@@ -258,7 +258,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E7%8B%B1/?category=18271" rel="tag">冤狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%BD%AA%E5%88%A4%E5%86%B3/?category=18271" rel="tag">无罪判决</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%BD%AA%E9%87%8A%E6%94%BE/?category=18271" rel="tag">无罪释放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E6%B2%BB/?category=18271" rel="tag">法治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%99%E6%A1%88/?category=18271" rel="tag">错案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%BB%9C%E9%83%A8%E9%97%A8%EF%BC%9A%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9%E5%9B%A0%E4%B8%80%E9%A1%BF%E9%A5%AD%E9%80%83%E7%A6%BB%E6%B1%9F/" target="cdt-mirror">澎湃新闻 | 网络部门：“上海女孩因一顿饭逃离江西”系假消息</a>
 </h2>
@@ -277,7 +277,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E7%8B%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%A9/?category=18271" rel="tag">上海女孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E4%B9%A1%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">城乡差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%A5%BF%E5%86%9C%E6%9D%91/?category=18271" rel="tag">江西农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%B4%94%E6%B0%B8%E5%85%83%EF%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%EF%BC%8C%E5%8D%83%E4%B8%87%E5%B0%8F%E5%BF%83%E9%82%A3%E4%BA%9B%E8%82%89%E9%BA%BB/" target="cdt-mirror">【河蟹档案】崔永元：总书记，你可听到那几句苍凉的老腔</a>
 </h2>
@@ -824,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

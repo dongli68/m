@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%99%BA%E5%90%88%E6%B3%95%E5%BE%8B%E6%96%B0%E5%AA%92%E4%BD%93-%E8%A1%97%E5%8C%BA%E5%88%B6%EF%BC%9A%E6%88%91%E5%AE%B6%E5%B0%8F%E5%8C%BA%E6%95%9E%E5%A4%A7%E5%BC%80%EF%BC%8C%E5%BC%80%E6%94%BE/" target="cdt-mirror">智合法律新媒体 | 街区制：我家小区敞大开，开放迎接等你？</a>
+</h2>
+<p><p>作者：毛姗姗 吴剑霞 蒋子翘</p>
+<p>开放小区，“私有财产公共化”这关能过吗？</p>
+<p>2月21日，官方重磅消息：《中共中央国务院关于进一步加强城市规划建设管理工作的若干意见》（以下简称“《意见》”）提出，我国新建住宅要推广街区制，原则上不再建设封闭住宅小区；已建成的住宅小区和单位大院要逐步打开，实现内部道路公共化。</p>
+<p>消息一出，网民炸锅了——</p>
+<blockquote><p>“二十四小时安保服务警察们提供？”</p>
+<p>“又要倒退到解决小学生上学安全问题？？”</p>
+<p>“真把自己家的高档小区开放了，规划师们先炸锅了”</p>
+<p>“先把买房时给的公摊费退了，再说小区封建封闭的事情吧”</p>
+<p>“果真如此，流浪汉不必住桥洞了，搬到豪宅小区花园里！以后拿集装箱到上海的汤臣一品草地上，也可以自称住在汤臣一品的人了”</p>
+<p>“这么说吧，你到乡下走走，随便逛进一个陌生的村子，村里老老少少都要多看你几眼——对于村里人来说，这是一种莫名的安全感”</p></blockquote>
+<p>新浪新闻就这一问题进行了民意调查，截止今天下午16:37，已有28000余人参与投票，结果为不支持的占了3/4，最担心的就是人身财产等安全问题。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-%E4%B8%8B%E5%8D%881.39.49.png?resize=550%2C362" alt="Screen Shot 2016-02-22 at 下午1.39.49" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-下午1.39.49.png?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-下午1.39.49.png?w=651 651w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<section data-id="33"><span title="" data-original-title="">1 </span><strong data-brushtype="text">什么叫街区制，它的渊源是什么？</strong>
+</section><p>《意见》中指出，“我国新建住宅要推广‘街区制’”。那何谓街区制？简单的概括，就是街区既要提供居住，又要有丰富的商业配套和休闲配套。最常见的形式就是，上面住人、下面营商，上面是私有空间，下面是商业空间或者公共空间，住宅与外部世界全面打通，形成一个没有围墙的开放式社会。街区式住宅在国外已成熟发展，如美国的第五大道、西班牙巴塞罗那、德国柏林、捷克的布拉格等都有享誉世界的BLOCK街区。</p>
+<p>与之相对应的则是封闭式小区。封闭式小区，且不论封闭的程度如何，大都有明确的边界，这在建筑规划上的专有名词，叫做“红线”，与之相对应的就是小区的围墙和大门，它就像一个圈一样，将几幢建筑物、公建配套、绿地以及称之为邻居的人们，一道划了进去。封闭式小区的优点主要是满足了小区住户对于私密性、安静、安全性的居住要求。</p>
+<p><strong>这里还涉及两个文件：《雅典宪章》和《马丘比丘宪章》。</strong></p>
+<p>1933年，国际现代建筑协会通过《城市规划大纲》，这是一份关于城市规划理论和方法的纲领性文件，后被称作《雅典宪章》。这份文件强调“城市功能分区”，我们中国的城市建设，主要采用的便是该文件的精神。[1]</p>
+<p>历时44年之后，一些建筑设计师在马丘比丘山的古文化遗址签署了新的宪章，在对《雅典宪章》的批判下，树立了一种城市规划和建设观念。《若干意见》中的许多观点便是与旧的精神诀别，是向新理念的致意。一如《雅典宪章》好似亚里士多德所追求的理性，《马丘比丘宪章》追求的更多是城市的和谐或言之超越《雅典宪章》的理性。</p>
+<p>好，现在中央文件说了，咱们原则上不再建设封闭住宅小区，新建的要推广街区制，已有的也要逐步打开。那这样做，都会出现哪些问题？</p>
+<section data-id="33"><span title="" data-original-title="">2 </span><strong data-brushtype="text">《意见》是否违反《物权法》？</strong>
+<p>街区制是否合理，有待城市规划专业人士的判断和事实检验。但原先封闭式小区打开并让道路公共化，必然会产生一个很严重的法律问题：原本属于建筑物区分所有权的小区道路所有权不再仅仅是业主全体了？有律师就提出，那《物权法》第73条和《物业管理条例》第50条是要废了吗？</p>
+<blockquote><p>《物权法》第七十三条规定：“建筑区划内的道路，属于业主共有，<strong>但属于城镇公共道路的除外。</strong>建筑区划内的绿地，属于业主共有，<strong>但属于城镇公共绿地</strong>或者明示属于个人<strong>的除外</strong>。建筑区划内的其他公共场所、公用设施和物业服务用房，属于业主共有。”</p>
+<p>《物业管理条例》第五十条规定：“物业管理区域内按照<strong>规划建设的公共建筑和共用设施，不得改变用途。</strong>”</p>
+<p>业主依法确需改变公共建筑和共用设施用途的，应当在依法办理有关手续后告知物业服务企业;物业服务企业确需改变公共建筑和共用设施用途的，应当提请业主大会讨论决定同意后，由业主依法办理有关手续。</p></blockquote>
+<p>建筑区划内的道路，属于业主共有。<strong>“但属于城镇公共道路的除外”、“但属于城镇公共绿地……的除外”。</strong></p>
+<p>那什么叫<strong>“城镇公共道路”</strong>？主要有两种情形：（一）新建建筑区划内，控制性详细规划、建设用地规划条件中确定的道路以及修建性详细规划或者建设工程设计方案总平面图中确定的城镇公共道路；（二）已建成或者已经部分实施建设的建筑区划内，除前述第（一）项规定外，历史上或者<strong>现状作为城镇公共道路使用的道路</strong>。</p>
+<p>显然，目前还处于封闭状态下的小区当然不能作为 “城镇公共道路”。而为了实现“到2020年，城市建成区平均路网密度提高到8公里／平方公里，道路面积率达到15%”的目标，原先面积不够，只能重新来凑。</p>
+<p>说了半天，究竟违反《物权法》了吗？倪修智律师对此表示，《意见》的提法是“逐步打开”，但没有说具体是如何打开，所以还不好定论《意见》是否违反物权法。但我们假设一种最坏的情节，那就是政府发文，强制拆除小区围墙和进出口闸机，将小区道路纳入公共道路范围，那么在这样的话肯定是违反《物权法》第73条的。政府如果无视业主对道路的所有权，强令放开道路，无疑是侵犯了业主的所有权。</p>
+<section data-id="33"><span title="" data-original-title="">3 </span><strong data-brushtype="text">私权公有化没有问题吗？</strong>
+</section><p>物权法之所以在法律中处于较高评价，就在于其对于产权的界定，清晰到了个人可以感知的程度，尤其是对于私权的保护方面。都说“物权法定”。文件所言的内部道路，相信就是物权法里面规定的建筑区划内的道路。内部道路的公共化，就是建筑区划内的道路的公共化，也就是业主共有的道路的公共化，<strong>再换个说法而言，就是业主共同私有的道路公共化。</strong></p>
+<p>这就是该文件实施之后，就会面临的法律上的问题——私有财产公共化。对于已经建成的小区而言，这是个严峻的问题。尤其在当初，业主在购置商品房时，为小区内公共道路付出了“代价高昂”的公摊费用。一旦私有变公用，这些钱还能不能要得回？按原价还是现值赔？谁会来出这笔钱？</p>
+<p>有律师就表达出了同样的忧虑，“如果政府要将小区内的道路征收，那么还要面临一个补偿费的问题，地方政府不见得能出这个费用。”</p>
+<p>公摊面积退款或许还有相关的具体标准可以操作，但当初因为小区安全、安静、封闭等付出的溢价呢？在小区道路公众化之后，溢价基础可能会随之消失，业主是自认不可抗力的风险还是主张合理损失呢？又该向政府还是开发商主张呢？</p>
+<p>当然，在文件中并未对“公共化”进行界定，从法律解释来讲，既可以指使用方面的公共化，也可指产权方面的公共化。</p>
+<p>公共化的目的，在于将原来处于建筑区划内的道路供社会公共使用，从而实现交通的便利。使用方面的公共化是在所难免的，也是文件的言中之意，但该类道路毕竟属于业主共同所有，对于他人所有之物的使用，要支付有偿对价，这是市民社会的基本规则，由此推论出的解决方式便是：由政府有关部门，以一定的对价，定期向业主支付使用该道路所应支出的费用。</p>
+<p>或许，也可以有另外一个方式，政府依照《物权法》对建筑区划内的土地进行征收，并一次性向业主支付征收补偿金。毕竟，在未完成产权的变更前，业主如若已产权自由为由，坚决不同意建筑区划内的道路实现使用的公共化，也会使得政策的实现不那么顺利。</p>
+<p><span>[1]刘德科：“习总为何要拆除住宅区的围墙”，载“德科地产频道”2016年2月22日。</span></p>
+</section><hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%99%BA%E5%90%88%E6%B3%95%E5%BE%8B%E6%96%B0%E5%AA%92%E4%BD%93-%E8%A1%97%E5%8C%BA%E5%88%B6%EF%BC%9A%E6%88%91%E5%AE%B6%E5%B0%8F%E5%8C%BA%E6%95%9E%E5%A4%A7%E5%BC%80%EF%BC%8C%E5%BC%80%E6%94%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">中国法律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9C%89%E5%88%B6/?category=18271" rel="tag">公有制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92/?category=18271" rel="tag">城市规划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E5%8C%BA%E9%81%93%E8%B7%AF%E5%85%AC%E5%85%B1%E5%8C%96/?category=18271" rel="tag">小区道路公共化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%BA%E5%90%88%E4%B8%9C%E6%96%B9/?category=18271" rel="tag">智合东方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E6%9D%83%E6%B3%95/?category=18271" rel="tag">物权法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%97%E5%8C%BA%E5%88%B6/?category=18271" rel="tag">街区制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%92%8B%E7%A5%96%E6%9D%83%E5%8D%9A%E5%AE%A2-%E8%92%8B%E7%A5%96%E6%9D%83%EF%BC%9A%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%BA%94%E5%BF%98%E8%AE%B0%E8%BF%99%E4%BA%9B%E6%96%87%E5%8C%96%E5%90%8D%E4%BA%BA/" target="cdt-mirror">蒋祖权博客 | 蒋祖权：历史不应忘记这些文化名人曾经的丑陋</a>
 </h2>
 <p><p>作者：蒋祖权<br>
@@ -852,45 +899,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
 <p>*<a href="https://freeweibo.com/weibo/%40%E8%AF%97%E4%BA%BA%E5%88%80%E5%93%A5">诗人刀哥</a>：SPAM 阿们！<img src="https://s.w.org/images/core/emoji/72x72/1f64f.png" alt="</p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E6%80%A5%E5%89%A7%E7%BC%A9%E6%B0%B4%EF%BC%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E9%9D%A2%E4%B8%B4%E4%B8%8B/" target="cdt-mirror">纽约时报｜中国外汇储备急剧缩水，人民币面临下行压力</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg" rel="attachment wp-att-429688"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg?resize=575%2C382" alt="Joe Penney/Reuters 一个位于尼日利亚拉各斯的中国建筑工地。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/19CHINARESERVES1-popup.jpg?w=650 650w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>一个位于尼日利亚拉各斯的中国建筑工地。<br>Joe Penney/Reuters</p></div>
-<p>香港——在全球市场动荡之际，中国一直对自己手中握有金融世界救生圈而感到欣慰，也就是大量持有的其他国家货币。</p>
-<p>一年半前，中国拥有高达四万亿美元的外汇储备。外储对中国领导人来说是一种有象征意义的战利品，他们形容外储是劳动者的“血汗钱”，并将其作为国力的一个标志。</p>
-<p>现在，随着中国经济增长放缓，这个国力的标志也在慢慢减少。</p>
-<p>随着资金大量外流，加之北京动用外汇储备来支撑其货币，中国的外汇储备正在不断减少。自2014年夏天以来，中国的外汇储备缩水了近五分之一——其中超过三分之一发生在过去三个月中。到今年1月底，中国的外汇储备余额降至3.23万亿美元，这不免让人猜测北京到底会让它降至何种水平。</p>
-<p>随着外汇储备的缩水，如果经济突发震荡，中国领导层的回旋余地也会减少。而外汇储量的状况还削弱了中国对人民币价值的控制。</p>
-<p>外汇储备的减少，可能还会破坏中国提高其国际形象的努力，因为它不再拥有那么多的资金，可以注入到发展中国家的重大项目中。</p>
-<p>“基本问题是，如果你花掉了7000亿美元储备，那你还会继续花多少？”布鲁塞尔非营利性经济研究机构勃鲁盖尔研究所(Bruegel)所长君特汉姆·沃尔夫(Guntram Wolff)说。</p>
-<p>不断减少的外汇储备，和其他很多因素一起，削弱了全球投资者的信心，因为储备缩水可能会对中国金融体系形成冲击。很多投资者现在都把赌注押在了中国不得不让人民币贬值，而不是进一步动用外汇储备上。</p>
-<p>中国官员对这种观点予以驳斥。上周末，中国的财新杂志少见地发表了一篇<a title="Link: http://weekly.caixin.com/2016-02-12/100908570_all.html" href="http://weekly.caixin.com/2016-02-12/100908570_all.html" target="_blank" rel="nofollow">对中国央行行长周小川的采访</a>。周小川表示，“中国有世界上最大规模的外汇储备，我们不会让投机力量主导市场情绪。”</p>
-<p>中国的外汇储备囤积，是人民币管理方式的副产品。</p>
-<p>在中国经济繁荣的鼎盛时期，随着大量美元、欧元和日元资金的涌入，人民币的价值上升了。但北京严格控制其价值，购买了很大一部分流入的资本，把它们纳入外汇储备之中。这引发了美国和欧洲的愤怒指责，称中国操纵人民币汇率，维护中国出口产品在外国的低廉价格和竞争力。</p>
-<p>现在人民币面临下行压力，中国动用外汇储备来支撑人民币汇率。但是，美国很多国会议员以及总统候选人仍然指责中国在人为地压低人民币汇率。</p>
-<p>中国的外汇储量仍然相当可观，超过第二位的日本一倍以上。这个储备是否过大，把这些资金留在私营部门是否能有更好的投资，包括央行行长周小川在内的许多人都有所疑虑。周小川在过去两年里领导了一个举措，降低了中国企业和家庭用自己的资金在海外投资的难度，结果他们发现，在最近几个月里，资本外流的速度已经快到了令人不安的程度。</p>
-<p>中国已经采取举措，阻止资金进一步外流。今年冬季，中国当局逮捕了那些将数十亿人民币换成美元和欧元的地下钱庄老板。他们还<a href="http://cn.nytimes.com/business/20160214/c14db-chinaexodus/" target="_blank" rel="nofollow">增加</a>了中国公民使用人民币购买美元保单的难度。</p>
-<p>中国的银行监管机构则在悄悄地暂停美元结算理财产品在境内的销售。</p>
-<p>北京方面还命令各个银行的香港分支机构限制人民币借贷，使得交易商及投资者更难以在金融市场上做空中国货币。</p>
-<p>“我们确实在1月早些时候收到了北京方面的通知，要求我们在批准以人民币结算的贷款时更严格一些，”一家中国银行驻香港的高管说。“被夹在中间的感觉并不好，营销人员希望开展更多业务，而上级则要求你更加严格地审查信贷方案。”这名高管担心遭到雇主报复，要求匿名。</p>
-<p>鉴于它给公众造成的印象，外汇储备的流失也造成了政治尴尬。北京方面已经采取旨在支撑储备的举措。</p>
-<p>一项举措会促使更多外汇储备免受长期承诺的限制。一名了解中国外汇储备情况的人士表示，中国央行现在要求，在希望利用部分储备进行投资的经理中，至少有一部分应该承诺每年带来多达26%的收益，否则就会削减他们的管理费，这名人士为了避免遭到报复，要求匿名。</p>
-<p>本周，中国市场有所增长，一些投资商打赌称，中国会减缓外汇储备的流失。对于美联储今年继续加息的期待已经逐渐消失，这让中国看起来更具吸引力。中国拥有巨大的贸易顺差，使得外国资金稳步流入。</p>
-<p>中国国内外的经济学家越来越多地在尝试推测外汇储备要降至 什么水平，中国才可能考虑使人民币大幅贬值。国际货币基金组织(International Monetary Fund)的模型显示，如果进行严格的资本控制，中国这种规模的经济需要有1.5万亿美元，如果没有相关控制举措，这个数额为2.7万亿美元。</p>
-<p>目前在美国外交关系协会(Council on Foreign Relations)任职的前美国财政部官员布拉德·塞策(Brad Setser)表示，中国会设法应对储备减少的情况，因为这种模型不是为中国这种国内银行存款规模如此庞大的国家设计的。</p>
-<p>德克萨斯州对冲基金经理J·基莱·巴斯(J. Kyle Bass)认为人民币会贬值，他最近告诉客户，他坚信中国<a title="Link: http://www.valuewalk.com/2016/02/kyle-bass-china/?all=1" href="http://www.valuewalk.com/2016/02/kyle-bass-china/?all=1" target="_blank" rel="nofollow">甚至没有利用所有外汇储备的能力</a>，因为已经有高达一万亿美元被投入到长期投资中。但大多数经济学家不同意这种说法，称投入于各种项目的外汇储备数额不到3000亿美元，且尚未支付，而剩下的3.23万亿是随时可以使用的。</p>
-<p>加州大学圣迭戈分校(University of California, San Diego)中国金融问题专家史宗瀚(Victor Shih)表示，从长远来看，中国将储备用于树立国际形象的大型工程的可能性在降低。他说，“当你每个月损失1000亿美元的时候，你没钱投资在偏远地方建造公路，在巴基斯坦修建可能会被炸毁的铁路。”</p>
-<p>2014年，中国国家主席习近平宣布，中国将提供500亿美元的资金，<a href="http://www.nytimes.com/2015/12/05/business/international/china-creates-an-asian-bank-as-the-us-stands-aloof.html?_r=0" target="_blank" rel="nofollow">设立</a>亚洲基础设施投资银行(Asian Infrastructure Investment Bank)，并在一个月后表示，中国还将再提供400亿美元，设立基金，用于在那些从该银行贷款的国家投资。</p>
-<p>上个月，习近平宣布设立另一项基金，为世界贫穷国家建造更多基础设施。总额只有5000万美元，这些钱勉强能在一个贫穷国家建几条公路。</p>
-<p><em>欢迎在Twitter上关注作者Keith Bradsher <a href="https://twitter.com/keithbradsher" target="_blank" rel="nofollow">@KeithBradsher</a>。</em></p>
-<p><em>翻译：纽约时报中文网</em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E6%80%A5%E5%89%A7%E7%BC%A9%E6%B0%B4%EF%BC%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E9%9D%A2%E4%B8%B4%E4%B8%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%9A%E6%B4%B2%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">亚洲开发银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B7%9D/?category=18271" rel="tag">周小川</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87/?category=18271" rel="tag">外汇储备</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A1%8C/?category=18271" rel="tag">央行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -902,7 +910,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -912,5 +920,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

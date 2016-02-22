@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,113 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E5%91%8A%E8%AF%89%E4%BD%A0%E8%B0%81%E6%98%AF%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/" target="cdt-mirror">新京报 | 告诉你谁是“朝阳群众”</a>
+</h2>
+<p><p>粗略计算，在朝阳区常住人口中，平均每15人中就有一个“朝阳群众”。跟他们聊天，会听到很多固定的词汇：毛主席、组织、奉献、国家……他们喜欢把自己的成长史和国家的历史联系在一起：伴随共和国红色政权长大，自幼接触、参与政治，更相信集体的作用和力量。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640TCL1SN7L.jpg?resize=550%2C366" alt="全国两会临近，一级防控启动。潘家园社区的治安志愿者在他们的点位上巡逻。摄影：新京报记者王嘉宁" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640TCL1SN7L.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640TCL1SN7L.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>全国两会临近，一级防控启动。潘家园社区的治安志愿者在他们的点位上巡逻。摄影：新京报记者王嘉宁</p></div>
+<p>2013年冬天，天使投资人薛必群（网名薛蛮子）涉嫌嫖娼，被北京警方控制。媒体报道中，警方的线索来源是“根据朝阳群众举报”。</p>
+<p>2014年8月，房祖名、柯震东、王学兵等艺人相继因涉毒被控制，“朝阳群众”一词再度引起热议，网友调侃朝阳群众“无处不在，无所不能”。</p>
+<p>在北京，出名的不止有“朝阳群众”，还有“西城大妈”、“海淀网友”……</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BE%A4%E4%BC%97%E7%BA%BF%E7%B4%A2.jpg?resize=400%2C539" alt="群众线索" data-recalc-dims="1"></p>
+<p><strong>“从群众中来”</strong></p>
+<p>昨天早晨7点27分，“朝阳群众@潘007”微信群里突然蹦出一张照片：一辆浅蓝色的轻骑摩托，一对男女在车上左右张望。</p>
+<p>“此照片是近期出现在我辖区的两名街头扒窃嫌疑人，已做案一起，如发现请拨打电话……”发布消息的人叫“平”。</p>
+<p>“朝阳群众@潘007”，“潘”是指朝阳区潘家园小区，“007”是指“神探”。</p>
+<p>这个33人的微信群，有“李大姐”“冯妈”“大个头”“加油站站长”……片儿警杨国建也在其中，他说，这里有小区业主、保安、居委会干部，然而，这不是全部。</p>
+<p>“更庞大的力量是那些‘70后’。”杨国建指的是70岁往上的老人，他们不会用微信。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97.jpg?resize=550%2C366" alt="朝阳群众" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/朝阳群众.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/朝阳群众.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>朝阳群众。摄影：新京报记者王嘉宁</p></div>
+<p>杨国建几乎天天和朝阳群众打交道。</p>
+<p>他所在的潘家园社区，0.3平方公里，有38栋楼，总人口数9700多人。这里面就有240位治安员，平均一栋楼6个。</p>
+<p>毗邻潘家园旧货市场和中国医学科学院肿瘤医院，潘家园社区人流量大、环境复杂，18年前，杨国建就开始发动群众，60多位离退休老人成了第一批“红袖标”。</p>
+<p>队伍在壮大，更多人选择不戴袖标。和杨国建在社区里溜达，几乎能见到的人都和他打招呼，“你能看出来谁是下线吗？”杨国建笑着问。</p>
+<p>物业的收费员、保洁员、小卖部的老板、修车摊的摊主……瞬间在他嘴里亮了身份。</p>
+<p>在潘家园社区工作了18年，杨国建的手机通讯录里，早就到了3000个的上限，其中绝大多数是居民的电话。</p>
+<p>杨国建说，“下线”们都是从群众中来，他们是“警察的眼睛，百姓的嘴巴”，观察一切特殊情况，反映一切居民的紧急问题。</p>
+<p>毫不夸张地讲，租房户到我们社区的第一天，我们就掌握了。</p>
+<p>像潘家园小区的这样的治安员，整个朝阳区（登记在册的）有13万人。</p>
+<p>朝阳区综合治理办公室副主任尹航介绍，截至2015年，朝阳区的43个街乡、469个社区（村）中，算上没登记的，“朝阳群众”一共有19万人。</p>
+<p>照此粗略计算，在朝阳区常住人口中，平均每15人中就有一个“朝阳群众”。</p>
+<p>专职巡防队、安全稳定信息员、流动人口协管员……“朝阳群众”至少有10个“工种”。</p>
+<p><strong>群众的眼睛是雪亮的</strong></p>
+<p>我们所熟知的明星艺人涉毒案件，实际上不足“朝阳群众”贡献的百分之一。</p>
+<p>公开数据显示，截至2015年前十个月，朝阳群众向公安机关提供线索21万多条，其中关于吸毒、贩毒的线索只有851条，不到0.4%。</p>
+<p>这21万多条线索中，有价值的4378条，根据这些线索，1023个案件得到了侦破，810名犯罪嫌疑人被刑拘。</p>
+<p>一年前，一个饭盒引起了志愿者刘立新的怀疑。</p>
+<p>那段时间，他所在的三元里社区经常能见到邪教的传单，楼梯拐角、门缝、花坛，隐蔽的角落里到处都是。</p>
+<p>刘立新成天盯着，一连俩月，没见可疑人进出，传单却只增不减。</p>
+<p>一天，她观察到，社区的一名居民经常拎着一个饭盒，只要这人一出入，传单就变多，刘立新叫住她一看，传单藏在饭盒里。</p>
+<p>去年夏天，潘家园小区里的几十辆车，在一夜之间被人划花了，车胎也被戳破。</p>
+<p>片儿警杨国建调取录像找到了嫌疑人，却没人认识，案件一度陷入僵局。</p>
+<p>最后，一位楼长大妈看出了端倪，嫌疑人留着“莫西干头”——两侧头发剃得只剩一茬，头型和身形都和楼上住户的女婿相似，最终据此找到了嫌疑人。</p>
+<p>“莫西干头”被找到后，承认是因为心理不平衡，“看到好车就生气”。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/64028T3JO6N.jpg?resize=550%2C366" alt="64028T3JO6N" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/64028T3JO6N.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/64028T3JO6N.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>朝阳群众。摄影：新京报记者王嘉宁</p></div>
+<p>杨国建说，在绝大多数时间，群众的眼睛是雪亮的，不过也有看走眼、闹出笑话的时候。</p>
+<p>去年年底，潘家园附近的一个小商店来了俩客人，不会说汉语，要买菜刀和煤气罐，店老板觉得可疑，悄悄给杨国建打了电话。</p>
+<p>撂下电话没几分钟，另一家刀店的老板也来电话，同样举报这俩人。</p>
+<p>后来一查才发现，人家只是刚从外地到北京，新租了房子，正常买生活用具，没有其他心思。</p>
+<p>大家松了口气，两位群众都有点不好意思，没事就更好了，防患于未然嘛。</p>
+<p>杨国建觉得，要对治安员们加以培训，让他们知道哪些事情是需要监控的。他编写了《“十”报告制度》发给大家，“发现携带枪支、弹药、管制刀具等危险品的要报告”“作息反常、行迹诡秘的要报告”……</p>
+<p>冯永红感慨，这么多年，他们做出贡献的，少有惊天动地的大案，更多是居民关心的小事儿。</p>
+<p>这位永善社区的志愿者，总绷着一根弦“人民战争”——只针对坏人的，“我们红袖标往那一坐，邻里街坊的心里踏实，至少能对坏人起到威慑作用。”</p>
+<p>冯永红67岁了，身边的老伙伴也都上了年纪，他们知道如何既不动声色地反映情况，又保护自己。“力气不够，可以动脑子。”</p>
+<p>68岁的刘立新也在常年的斗争中积累了经验，如果觉得对方可疑，摸底调查也要有技巧，上门看看屋子有没有漏电、漏气的情况，邻居关心租户总没错吧。“不能让人觉得不舒服，还得把事儿给做了。”</p>
+<p><strong>四大给力民间组织</strong></p>
+<p>生活在北京，如果你只知道“朝阳群众”，那你显然out了。</p>
+<p>除了“朝阳群众”，还有“西城大妈”、“海淀网友”、“丰台劝导队”。</p>
+<p>这些名字，都成了专属名词，他们是在习近平两年前视察北京之后，新近出现的“品牌”。</p>
+<p>西城区属于老城区，大爷大妈们知人情、懂政事，更善于发现身边的敏感事件，别看上了年纪，确实观察、维护社会治安中不可或缺的队伍。</p>
+<p>海淀区高校和互联网企业众多，网络人才发达且活跃，他们更喜欢通过网络去举报情况、解决问题。</p>
+<p>丰台区永善社区在此前是城乡结合部，以前平房、胡同中善于调解邻里矛盾的“大了”，早就成立了“劝导队”，如今已名声在外。</p>
+<p>官方公开数字显示，这四大组织共有85万人，他们是北京基层群防群治的中坚力量。</p>
+<p>一位资深的志愿者说，他们虽然被称为“四大民间组织”，但管理有序，分工精细、明确，“实际上，北京在社会治安的维护上，下了很大的一盘棋。”</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%BF%97%E6%84%BF%E8%80%85.jpg?resize=550%2C348" alt="三里屯附近社区一位大妈已经做了三十多年志愿者，这是她不同时期的服装。摄影：新京报记者罗婷" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/志愿者.jpg?resize=300%2C190 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/志愿者.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>三里屯附近社区一位大妈已经做了三十多年志愿者，这是她不同时期的服装。摄影：新京报记者罗婷</p></div>
+<p>事实上，这四个专属名词能在网络上形成“品牌”，是相关部门有计划地强化、推广的。</p>
+<p>北京市公安局“平安北京”团队的一篇论文中显示，首都警方多次以“朝阳群众”的字样向社会通报案情，有意识强调“朝阳群众”的重要作用。</p>
+<p>被网友广泛认知之后，警方又会同相关部门，连续推出“西城大妈”、“海淀网友”、“丰台劝导队”等首都群防群治的品牌。</p>
+<p>“警力有限，民力无穷。”朝阳区综治办副主任尹航说，更重要的是，怎样能让“群众”各司其职，最大效率地发挥作用。</p>
+<p>精细化管理到什么程度？尹航从抽屉里拿出一本去年“9.3阅兵”的群防群治力量部署方案，足有上百页，细致到了每一条街、2773个点位，连志愿者在哪儿上厕所，都专门制了图。</p>
+<p>四大民间组织之所以“给力”，力量更多地来源于内心。</p>
+<p><strong>“革命一代”</strong></p>
+<p>“朝阳群众”、“西城大妈”、“丰台劝导队”当中，成员大多数是老北京，他们对于这座城市有着深厚的情感，身上也留着浓重的历史痕迹。</p>
+<p>1月26日上午9点，永善社区居委会，狭窄的大厅里挤下了近百位大爷大妈，排练即将到来的新年联欢会。</p>
+<p>《没有共产党就没有新中国》、《红色娘子军》、《北京的金山上》……都是老歌，在指挥时，一位大爷高喊：“我们的人民军队是战无不胜的！”</p>
+<p>跟他们聊天，会听到很多固定的词汇：毛主席、组织、奉献、国家……</p>
+<p>他们喜欢把自己的成长史和国家的历史联系在一起：伴随共和国红色政权长大，自幼接触、参与政治，更相信集体的作用和力量，言语间满是对这座城市的自豪感和责任感。</p>
+<p>67岁的冯永红，语言体系仍停留40年前。他爱说“一颗红心，两手准备”、“吃苦在前，享乐在后”，“别给组织抹黑”。他嘴里的知名人物是雷锋、邱少云、董存瑞。“这些年没变过，现在还是特认同。”</p>
+<p>这群上了年纪的老人，也会拿彼此的名字打趣，冯永红，“一颗红心向着党”。他的朋友张祖华，祖国的祖，中华的华。</p>
+<p>这些老人中，有人做志愿者已经十多年。冯永红说，和他一样，很多老伙伴不愿意提“钱”，“谁要说给经济报酬，我们脸都发热。”</p>
+<p>志愿者胡和凤在胡同里长大，她拍着腿感叹，“当时那街坊，太亲了，我们家煮完饺子，‘咵’给你端过去；家里没盐了，先拿你们家盐罐子使使，都不是事儿。”</p>
+<p>做志愿者也是要有理想的，这群老人的理想，就是能让邻里间的走动多一点，大家多了一份亲热，日子又有了些以前的滋味儿。“热乎，有温度。”</p>
+<p>从幸福一村张秀茹家的窗户往外望，工人体育场尽收眼底，“连球门儿都看得到”。</p>
+<p>张秀茹说，2015年，她有三分之一的日子都在值班，提着水壶，搬着小马扎，在楼下一坐就是一天。</p>
+<p>打开她家的衣柜，执勤的各式短袖、长袖、马甲占了一半的空间——她已经当了30多年志愿者。</p>
+<p>她快乐，但也有担心。最担心的是后继无人——“咱这老一辈在集体长大，依靠组织，相信组织，如今的年轻人都不乐意干这个，以后不知道会不会有红袖标。”</p>
+<p><strong>国家任务</strong></p>
+<p>最近，“朝阳群众”们又开始忙了。“一级防控。”</p>
+<p>公开资料显示，在北京市的治安体系里，防控被分为三个等级，一级最高，全市上岗人数80万人，三级最低，上岗人数20万。在一些敏感时期，等级会调成一级，一天需要安排三拨人值班，甚至会安排“双人点”。</p>
+<p>3月3日，一年一度的全国两会即将开始，他们知道，一年最紧张的时候到了。</p>
+<p>最近，一级防控的通知从多个街道下发到居委会，最后通知到每一位朝阳群众。</p>
+<p>在东南三环边的潘家园小区，北三环的三源里、安贞西里小区，遛弯的大爷、挎着菜篮子的大妈，都在为值班准备着。有些大妈心急，甚至先于通知，把电话打到了安贞西里小区的居委会：“两会马上开了，咱今年的值班啥时候开始？”</p>
+<p>几天后，他们将和85万群众一起，穿起值班服，戴上红袖章，在北京城区五环内的主干道、中轴路边上观察来往行人，在小区内蹲守——保证两会顺利召开。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640Y27HF0NX.jpg?resize=550%2C366" alt="朝阳群众。摄影：新京报记者王嘉宁" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640Y27HF0NX.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640Y27HF0NX.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>朝阳群众。摄影：新京报记者王嘉宁</p></div>
+<p>为了这个任务，潘家园社区的“群众”已经准备了两个月了。</p>
+<p>他们在三环主路边上有六个点位，每个点位安排两个人，每天早七点到晚八点，每两个小时轮换一次，点位之间，有公交车站、十字路口，人流量大，情况复杂。</p>
+<p>对于这项任务，他们有些担心。社区紧靠河南大厦、广西大厦等人大代表驻地，又在三环主路边上，以往两会开幕时，会有重要车辆将从这里进入二环，开往人民大会堂。</p>
+<p>早在年前，片警杨国建就已经给治安队员开过动员会了。治安队员和片警一起，检查了出租房、地下室、门店的安全隐患。</p>
+<p>过两天还要再开一次动员会。反复强调的是，街巷楼群有人巡，矛盾纠纷有人解，重要部位有人看，突出问题有人看，敏感事件有人报。</p>
+<p>在三源里社区，独居的68岁志愿者刘立新，打算24小时值班，关注着楼上楼下的被列入“名单”的重点人物。</p>
+<p>这是她的“国家任务”。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E5%91%8A%E8%AF%89%E4%BD%A0%E8%B0%81%E6%98%AF%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E7%BA%BF/?category=18271" rel="tag">下线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%88%98%E4%BA%89/?category=18271" rel="tag">人民战争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%A4%A7%E6%B0%91%E9%97%B4%E7%BB%84%E7%BB%87/?category=18271" rel="tag">四大民间组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E7%BE%A4%E9%98%B2%E7%BE%A4%E6%B2%BB/?category=18271" rel="tag">基层群防群治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">平安北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">敏感事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%BB%E5%AE%89%E5%91%98/?category=18271" rel="tag">治安员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%BB%86%E5%8C%96%E7%AE%A1%E7%90%86/?category=18271" rel="tag">精细化管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E8%A2%96%E6%A0%87/?category=18271" rel="tag">红袖标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%A0%BC%E5%8C%96%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">网格化维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%B0%81%E7%BB%99%E4%BA%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E7%9A%84%E5%BA%95%E6%B0%94/" target="cdt-mirror">【异闻观止】谁给了任志强反党的底气</a>
 </h2>
 <p><p>一句“党媒姓党”能让“优秀党员”任志强跳得这么高，不惜把党性与人民性对立分割，不惜充当某些势力的急先锋，我们看到的是一个党性沦丧的个体，以及这个个体所代表的群体的冰山一角。党媒为党服务，党为人民群众服务，这是党性与宣传的结合，是对媒体的鞭策与认知厘清。媒体最终是要为人民服务的，可是这么些年，我们所经历的媒体乱象，正是党媒失去党性原则的外在表现。</p>
@@ -40,7 +144,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E5%88%AB%E6%80%AA%E6%88%91%E5%AF%B9%E7%9D%80%E3%80%8C%E5%85%9A%E5%AA%92%E5%A7%93%E5%85%9A%E3%80%8D%E7%8B%82%E5%96%B7%E3%80%80%E9%83%BD/" target="cdt-mirror">东网｜王药师：别怪我对着「党媒姓党」狂喷　都是你们逼的</a>
 </h2>
@@ -62,7 +166,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E5%92%8C%E5%B9%B4%E5%BA%95%E5%8F%B0%E6%B9%BE%E9%87%91%E9%A9%AC%E5%A5%96/" target="cdt-mirror">【真理部】香港电影金像奖和年底台湾金马奖</a>
 </h2>
@@ -225,7 +329,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%83%E7%A0%94%E5%AE%98%E5%AA%92/?category=18271" rel="tag">习近平调研官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">传言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA/?category=18271" rel="tag">凯迪社区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">网络传言</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E4%BB%8E%E5%BC%95%E5%8A%9B%E6%B3%A2%E5%89%A7%E6%83%85%E5%A4%A7%E5%8F%8D%E8%BD%AC%E8%B0%88%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84/" target="cdt-mirror">知识分子 | 从“引力波”剧情大反转谈中国社会的“科学”现实</a>
 </h2>
@@ -796,70 +900,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E5%BC%A0%E4%B8%B0%EF%BC%9A%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/" target="cdt-mirror">大家 | 张丰：想象中国农村的另一种可能</a>
-</h2>
-<p><p>作者：张丰  腾讯·大家专栏作者，读书人，媒体人，现居成都。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.41.42.png?resize=570%2C332" alt="Screen Shot 2016-02-19 at 下午2.41.42" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.41.42.png?resize=300%2C175 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.41.42.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"></p>
-<blockquote><p>台湾农村那些和我们不同的方面，却更值得我们去重视。土地私有制，传统信仰的保持，以及基层民主实践，这些因素让台湾人想起农村，心中不会只升起怪异的乡愁。</p></blockquote>
-<p>尽管上海女孩嫌弃江西农村男友的故事，已经被证实为假新闻，但这仍然是这个春节最有影响力的公共事件。人们争论不休，肯定不是关心一对青年男女的婚事，而是这背后的城乡鸿沟，足以让人选边站队，互相攻击。</p>
-<p>自1980年代以来，农村已经发生巨变，但是如何理解这一巨变，已经成为一个难题。最近几年，在春节假期哀悼农村，已成为过年的一部分。但是，春节过后，社交网络仍将由城市生活主宰，只有“毕节儿童饿死”这样的极端事件，才能偶尔让人关注农村的现实。</p>
-<p>越来越多的人只能从城市的角度来思考和表达农村。朋友圈流传着各种“还乡记”，但是，我们却很难从这些“还乡记”中读出地域差别，一个河南人与一个东北人，谈及家乡，所用词汇并无太大差别。当我们谈论自己的家乡时，早已忘记那些只属于那片土地的词语，“当我沉默时，我感到充实，我将开口，同时感到空虚”（鲁迅语）。那些声音，味道，被普通话叙述排斥在外，甚至也已在我们的生命体验之外。</p>
-<p>在这个春节，我没有回到家乡，也没有谈论家乡。我在读台湾作家杨渡的《一百年漂泊：台湾的故事》。杨渡所讲的，是一个家族的一百年。他的祖上从河北唐山挑着担子从唐山逃难到台湾，并最终在台中农村定居下来。杨渡的父亲出生于日据时期（1930），人们喊他“魅寇”，这是他名字“铭煌”的日语发言。杨渡的几位姑姑，平时也都被人称呼日语名字。被日本统治50年，这是台湾与大陆最不同的地方，这也是台湾现代化的起点。魅寇小时候，亲眼见到美军轰炸台湾给当地居民造成的灾难，他发誓将来要当飞行员，与入侵的美军作战——但是没多久，美军就打败了日军，他也从一个“日本人”，变成了中华民国治下的台湾人。</p>
-<p>《一百年漂泊》讲述了魅寇的一生，并从一个人的命运，透射出整个台湾的命运。作为一个农民，魅寇只有小学文化，但是他却拥有要改变自己命运的雄心壮志，他的苦斗，也是整个台湾农村转型的缩影。这本书让人感动，甚至落泪，但联想到当下的大陆，更多的则是让人思考：如果不是1949年后的道路不同，大陆的农村，是否会有另一种可能？</p>
-<p><strong><strong>▍</strong></strong><strong>有地权的农村</strong></p>
-<p>决定台湾农民命运的，也是土改。和大陆土改最终所造成的“集体化”不同，台湾土改的方向是确立农民对土地的财产权。</p>
-<p>败退到台湾的蒋介石政府，需要一个稳定的农村，土改的具体办法，一是“三七五减租”，二是公地放领，三是实行“耕者有其田”。“三七五减租”是将耕地租金降到土地主要作物全年收获量的37.5%为限，此前，台湾的佃农要向地主支付50%的收获作为地租。公地放领是将从日本人手中收回的公有土地出售给农民，确保大部分农民能够买到土地;“耕者有其田”是规定地主将持有土地超过3公顷的部分出售给“政府”，再按公地放领方式出售给佃农。佃农买地，可以通过分期付款的方式进行。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.42.56.png?resize=531%2C429" alt="Screen Shot 2016-02-19 at 下午2.42.56" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.42.56.png?resize=300%2C242 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.42.56.png?w=531 531w" sizes="(max-width: 531px) 100vw, 531px" data-recalc-dims="1"><br><span>▲ 资料图：1959年2月，陈诚（左二）、胡适（右二）等人下乡考察农情。</span></p>
-<p>这种土改的思路，本质就是把地主的土地想办法分给佃农。杨渡认为，国民党的土改之所以没有遭到地主的抵抗，与1950年开始的白色恐怖有关。“清乡运动”盛行之时，很多知识青年受到牵连，他们中有很多都是地主家庭出身。很多地主因此被没收财产，敢怒不敢言。虽然土改过程中并没有残杀地主，但是这种白色恐怖下的恐惧噤声，却是土改能够和平完成的奥秘。</p>
-<p>杨渡的祖上是佃农，土改之后获得一些土地，对祖母来说，这土地就是她的命根子。父亲魅寇不甘于做一辈子农民，办了一个小型铁工厂，这工厂，就设在自家的土地上。如果没有土地，单是买地这一项，就足以让他望而却步。铁工厂不可行，魅寇转而办起来锅炉厂，为了创业，他东拼西凑，并借下高利贷。魅寇想卖掉家里一块地，来周转资金，但是遭到老祖母的坚决反对：</p>
-<blockquote><p>“唉！你也都知道的，这是你爸爸，一分钱、一角银，慢慢俭省起来的，才买下这一点点的天地，是咱一家吃饭的母本，你怎么甘心卖了它？”祖母的口气有一点心酸，“……你爸爸若知道，会答应吗？”</p>
-<p>“是啊，买下来真的很不容易。不过，我们有这些地，又能怎么样？只是放在那里，你再怎么种，每年能收的稻子，也就这么多。最多是丰收，能让你增加几斤啊？靠粜谷的那一点钱，怎么还得起欠的钱？”父亲问。</p>
-<p>“不行。不能卖地。”祖母坚决地说，“你爸爸如果还在，一定不会点头的。他一生的心血呢。”（157页）</p></blockquote>
-<p>这是台湾的1960年代。土改后，农村有了10年的稳定，农民们的生活变得富足而充满希望，但是这种超级稳定的状态，也让人厌倦。不安分的农村精英，开始想过另一种生活。魅寇就是这样的乡村经营，这时已经是10多岁孩子的父亲，但是他仍然有梦想。即使是插秧，他都想和铁匠合作，打造一种可以套在手指上的“插秧机”。最初，他办瓦厂，但是很快瓦就不流行了，他又办铁工厂、锅炉厂。1960年代也是台湾经济开始腾飞的年代，乡村的巨变，已经不可避免，像魅寇这样敏感的人物，注定开始过上折腾的生活。</p>
-<p>魅寇和母亲，分属两种世界观。在母亲眼中，种地是可以天长地久的事业，就像她的丈夫一样，虽然去世，但是仍然能无限地存在着，这是农业社会的时间观念。而魅寇，则代表着这块土地上新生的一代，他们心中的萌动着一些现代观念，最重要的是钱，更多的钱。但是，在魅寇与母亲之间，并不存在现代与传统之间的那条鸿沟。当母亲说“你爸爸如果还在，一定不会点头的”，谈话事实就结束了。尽管他认为母亲目光短浅，但是父亲的权威，不能质疑。魅寇的“现代”，是从土地上自发生长的“现代”，半新半旧，充满痛苦。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.44.21.png?resize=574%2C417" alt="Screen Shot 2016-02-19 at 下午2.44.21" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.44.21.png?resize=300%2C218 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.44.21.png?w=574 574w" sizes="(max-width: 574px) 100vw, 574px" data-recalc-dims="1"><br><span>▲ 资料图：二期稻作丰收之后，喜上眉梢的农家女。</span></p>
-<p>网上有很多人认为，一旦实行土地私有化，无知的农民，很容易就被骗走土地，变得一无所有，这是十足的妄语。再也没有人比农民更热爱自己的土地了，在传统社会，一个富农当然可以通过购买土地变成地主，但是过程是无比漫长而艰难的，因为不到万不得已，没人会卖掉自己的土地。杨渡的祖母牢牢控制着土地，父亲的工厂陷入绝境，不得不以母亲的名义开支票，最后“跳票”，母亲只好逃亡、入狱，这也是杨渡童年时最惨痛的回忆。这种家庭的惨剧，深深触动了老祖母，在母亲出狱管理工厂的财务后，老祖母才同意卖地，而杨家的工厂才慢慢转机。魅寇经过几十年的打拼，才从一个农民，逐渐转变为“企业主”，而最关键的一步，仍然是靠卖地获得资金。</p>
-<p>在土地私有化的前提下，土地是农民博弈的最后资本。没有土地的人，乡愁只能是虚无，你为何而愁呢？在台湾，很多农村青年，也像杨渡一样，进入城市工作，但是却没有出现大陆的城乡二元对立。在台湾的很多地方，都不存在城乡之间那条明显的分界线。最主要的原因，是因为农民对土地拥有产权，自己的东西，最懂得爱惜。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.44.56.png?resize=297%2C558" alt="Screen Shot 2016-02-19 at 下午2.44.56" data-recalc-dims="1"><br><span>▲ 资料图：关于耕者有其田法案，蒋介石呈送立法院的电文</span></p>
-<p>▍有信仰的农村</p>
-<p>扎根在土地之上的，是传统。</p>
-<p>魅寇人生的顶峰，不是锅炉厂的成功，而是1984年牵头为妈祖庙修建了朝天宫，“这是神明交给他此生最后的任务”。</p>
-<p>父亲未曾想到自己会参与庙宇的修建，有些害羞、有些讶异地望着来找他的老村长，说“可是我，合适吗？”妈妈坐在旁边，心中暗笑。她知道父亲的意思是：“我这种吃喝嫖赌之外无不良嗜好的人，去做庙的主委，合适吗？”（427页）</p>
-<p>这位浪子，决定把余生奉献给妈祖。那些年，他把一生从土木小工开始，到锅炉的热力学所学的功夫，全部拼了上去。从设计规划、土木结构到实际的施工，从木料的选择到石材的雕刻，全部亲历亲为，当时两岸刚刚开放，他甚至乘飞机到泉州找老师傅订制石像，然后再用船运回台湾。这时，他50多岁，是所谓“知天命”的年纪，他把大量的时间都奉献给了“天”的事情。每年过年，作为妈祖庙的主委，他都要主持一年一度的开庙仪式，这是他最神圣的庆典。在他漫长的打拼时光，虽然为了成功而“吃喝嫖赌”，心里却始终装着妈祖。</p>
-<p>读《一百年漂泊》，感受最深的就是台湾农村的信仰。杨渡的外公，是一位通灵人，是人与神的中介，很多相亲有事难以下决定，就托他请示天上的“三界公”。杨渡的父母结婚后开始没法生育，外公请示三界公，指示女儿已经有子，且是男孩——最后，果然是男孩，他甚至算准了外孙出生的具体时间。尽管信奉的神灵不同，但是台湾的农民，大都有比较坚定的信仰。有事情难以决断，便去妈祖庙“拜拜”，倾听神明的指示。这种信仰，甚至传承到受到现代高等教育、常年从事媒体工作的杨渡本人身上，父亲老年阿尔茨海默症，不能去妈祖庙主持开庙仪式，杨渡就代替他参加。在父亲的最后时刻，杨渡反复抄写《金刚经》，希望能“回向”（佛教用语，大意是将自己的功德回转给别人）父亲。</p>
-<p>这种信仰的力量，在大陆几经摧毁，已经消失殆尽。在我的老家，有很多用“寺”命名的地名，寺庙早已没有踪迹。我的小学，就叫“大寺小学”，那儿本来是全乡最大的寺庙，我读书的时候，学校里明显有一块地方，地势要远高于别处，那儿就是大殿所在地，我还曾看到过土里的残砖断瓦。小学取代寺庙，是现代战胜传统的象征，也是这个国家的一种隐喻：国家的力量，将战胜个人内心的信念。在“进步思想”的关照下，像杨渡外公那样的“通灵人”，命运注定是悲惨的。</p>
-<p>1980年代，台湾经济狂飙突进，股市也有一拨疯狂行情。</p>
-<p>“一个富裕起来的、浮动的、不安的社会，逐渐成形了。”身为媒体人的杨渡，去拜访一位财经界大佬K君，弄清楚他炒股成功的秘诀，他的思维方式（way of thinking），但是，让人吃惊的是，他的秘诀竟然是信奉财神。“这个神明叫赵公明，本来是天上的十个太阳之一。后羿射太阳的时候，射下九个太阳，其中八个掉海里了，成了后来的八仙，只有一个幻化成人，隐居在四川，就是这个赵公明。他守护着元宝山，一手持长鞭，一手持聚宝盆，所以被称为无财神。”（413页）</p>
-<p>在现代性的资本杀伐，与国际炒家厮杀，让他得到信心的，不是资本，而是古老的神。</p>
-<p>这样的信仰和做法，与现代经济学的规律毫不相干，但成为台湾进入现代的力量之一。《一百年漂泊》中还有一个非常震撼的场面：杨渡的母亲因为顶替父亲开支票而坐牢，她到看守所发现，里面有很多女犯，和她一样，都是替自己的丈夫坐牢。一位有经验的女犯说：“你不要伤心了。你看，这监狱里有一半是票据法进来的，你并不丢脸，有什么好伤心的？你看看，我也是这样，为了丈夫，为了家庭。我们都是为了男人犯的罪在受苦，不是我们的错，你不要低头自卑。”（292页）这些女犯还教杨渡的妈妈，在法庭上如何表现，才能由自己完全扛下来，而不连累丈夫。</p>
-<p>这就是现代与传统的碰撞。现代社会是一个法治社会，这种妇女的“牺牲”，本质上作假，并不值得提倡，但是，她们基于传统信条做出的选择，不但让人感动，对家庭来说，也是最合理的选择：女人坐牢，男人在外想办法解决问题，杨渡一家，最终也得以迎来转机。如果中国能像刚刚去世的孔飞力先生所希望的那样，走出一条与西方不同的现代之路，答案和密码一定会藏在传统之中。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.45.53.png?resize=503%2C335" alt="Screen Shot 2016-02-19 at 下午2.45.53" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.45.53.png?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.45.53.png?w=503 503w" sizes="(max-width: 503px) 100vw, 503px" data-recalc-dims="1"></p>
-<p>▍有民主的农村</p>
-<p>当传统的乡村社会与现代秩序相碰撞，尤其是与那些自上而下的外力相遇时，混乱和不适，似乎不可避免。在台湾，这方面最明显的，就是乡村的民主。</p>
-<p>杨渡不但是台湾政治转型的参与者，也是多年的观察者。总体上看，他对台湾乡村的民主，持负面态度。他与一位大陆前辈讨论过民主问题，大陆前辈认为，有了民主，即使不识字的人也会学会行使自己的选举权，相反，杨渡却认为，台湾的农村，似乎还没有做好迎接民主的准备，他的看法，是基于实地的观察。他曾深入了解过家乡的选举，发现买卖选票的行为非常猖獗。一个乡镇的选举，完全把控在操盘手里。操盘手用汽车运送上千万的现金，如果需要胜出一万的选票，甚至可以多出钱购买3万。</p>
-<p>“只见一张比床还大的通铺上，堆满了一沓一沓的钞票，那钞票还不是一千元的，而是红色的百元钞。整个屋子里，充满钞票的臭味。有个看起来像地方里长模样的人，拿了一本选举人名册，正在和发钱的会计对人数，数钞票。”（474页）</p>
-<p>这样的民主，当然让杨渡失望。但是，放到一个更长的时间段来考虑，拥有选举权的乡村，仍是一个好的起点。杨渡的父亲魅寇，在乡村是一个强人形象，帮人选举过，送过肥皂，是一个政治上的“知情人”。但是，他却不想让儿子碰政治。“政治尚黑，买来买去无道义，选举运动，世间第一黑。”他担心的是，在台北那样的大地方，一旦儿子因为政治被抓，根本没有能力救回。但是，杨渡的父母，以及其他经历过白色恐怖的乡下人，也会有自己的道德和政治判断。他们害怕暴政，不敢反抗，但是有了选举权后，却会默默把票投给那些曾经遭遇过国民党政府迫害的人，那些为他们争取权利的人。</p>
-<p>台湾的农村，当然并不是世外桃源，它也有各种转型的问题。读《一百年漂泊》，会有一种“两岸毕竟是一家人”的感觉，台湾的很多怪现象，我们似乎都在经历。比说，1960年代，台湾的农村流行养白文鸟、绿鹦鹉，种白松茸，这些没什么使用价值，但是却被包装成致富神话，而在如今的四川攀枝花地区，很多人一窝蜂种植玛咖，最后的结果都是血本无归。80年代，台湾农村流行购买各种彩票，赌博，而如今，这些也在大陆农村盛行。台湾也有“打工”的一代，杨渡的家乡有一个纺织厂，一代代女工到那里上班挣钱，让小小乡镇充满了青春的活力，但是在90年代以后，这个几十年的纺织厂破败了，招不到工人，因为人力成本大为上涨——这也正在大陆的东南沿海发生着。</p>
-<p>但是，台湾农村那些和我们不同的方面，却更值得我们去重视。土地私有制，传统信仰的保持，以及基层民主实践，这些因素让台湾人想起农村，心中不会只升起怪异的乡愁。乡村的精英，不必全部涌向都市，就能实现自己的价值，人们可以生活得很现代，但也不必完全斩断过去。大陆农村一年一度的追悼会很快就要结束，但是我们应该知道，我们的乡村，其实还有另一种可能。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-%E4%B8%8B%E5%8D%882.46.30.png?resize=362%2C375" alt="Screen Shot 2016-02-19 at 下午2.46.30" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.46.30.png?resize=290%2C300 290w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-19-at-下午2.46.30.png?w=362 362w" sizes="(max-width: 362px) 100vw, 362px" data-recalc-dims="1"></p>
-<p>图书信息：<br>
-作者：杨渡<br>
-出版社：生活·读书·新知三联书店<br>
-副标题：台湾的故事<br>
-原作名：水田里的妈妈<br>
-出版年：2016-1<br>
-页数：524<br>
-定价：48.00<br>
-装帧：平装<br>
-ISBN：9787108054456</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E5%BC%A0%E4%B8%B0%EF%BC%9A%E6%83%B3%E8%B1%A1%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%9C%9F%E6%94%B9/?category=18271" rel="tag">台湾土改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">基层民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%B8%A1/?category=18271" rel="tag">杨渡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -871,7 +911,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -881,5 +921,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

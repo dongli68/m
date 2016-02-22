@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%89%E5%B1%80%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%EF%BC%9A%E9%80%9A%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E8%AF%AD%E8%A8%80/" target="cdt-mirror">纽约时报 | 中国国安局校园招聘：通少数民族语言者受欢迎</a>
@@ -225,7 +225,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E7%BA%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E5%88%AB%E6%80%AA%E6%88%91%E5%AF%B9%E7%9D%80%E3%80%8C%E5%85%9A%E5%AA%92%E5%A7%93%E5%85%9A%E3%80%8D%E7%8B%82%E5%96%B7%E3%80%80%E9%83%BD/" target="cdt-mirror">东网｜王药师：别怪我对着「党媒姓党」狂喷　都是你们逼的</a>
 </h2>
@@ -247,7 +247,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E5%92%8C%E5%B9%B4%E5%BA%95%E5%8F%B0%E6%B9%BE%E9%87%91%E9%A9%AC%E5%A5%96/" target="cdt-mirror">【真理部】香港电影金像奖和年底台湾金马奖</a>
 </h2>
@@ -260,7 +260,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%83%8F%E5%A5%96/?category=18271" rel="tag">金像奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%A9%AC%E5%A5%96/?category=18271" rel="tag">金马奖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%B5%85%E7%BB%BF%E8%9B%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E9%99%86%EF%BC%9A%E6%94%BF%E6%B2%BB%E7%AF%87/" target="cdt-mirror">墙外楼 | 浅绿蛙在”祖国大陆”：政治篇</a>
 </h2>
@@ -905,7 +905,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E6%96%B0%E9%97%BB/?category=18271" rel="tag">假新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E8%B0%A3/?category=18271" rel="tag">官谣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -917,7 +917,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E6%96%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -927,5 +927,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E6%96%B0
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

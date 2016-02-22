@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%92%8B%E7%A5%96%E6%9D%83%E5%8D%9A%E5%AE%A2-%E8%92%8B%E7%A5%96%E6%9D%83%EF%BC%9A%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%BA%94%E5%BF%98%E8%AE%B0%E8%BF%99%E4%BA%9B%E6%96%87%E5%8C%96%E5%90%8D%E4%BA%BA/" target="cdt-mirror">蒋祖权博客 | 蒋祖权：历史不应忘记这些文化名人曾经的丑陋</a>
+</h2>
+<p><p>作者：蒋祖权<br>
+原题：透过［胡风］看历史</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-%E4%B8%8A%E5%8D%8811.43.56.png?resize=565%2C251" alt="Screen Shot 2016-02-22 at 上午11.43.56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-上午11.43.56.png?resize=300%2C133 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-上午11.43.56.png?w=565 565w" sizes="(max-width: 565px) 100vw, 565px" data-recalc-dims="1"></p>
+<p>胡风这个名字，经常会出现在许多历史文献中，经常会出现在很多人的文章里。</p>
+<p>——胡风是谁？胡风做过什么？写过什么？说过什么？</p>
+<p>——胡风（1902——1985）现代文艺理论家，诗人，文学翻译家。</p>
+<p>1929年，胡风去日本留学，后来因为组织抗日团体被驱逐出境，回国后与鲁迅交往密切。</p>
+<p>抗日战争爆发后，胡风主编《七月》。1949年后，胡风后任《人民文学》编委。</p>
+<p>1954年，胡风写了《关于几年来文艺实践情况的报告》，在文艺理论上表达了他的观点，对改进文艺工作提出了他的看法， 然而胡风却因此被捕入狱失去了自由，并被打成了反革命集团，涉案人员达2100多人。</p>
+<p>正如1986年1月15日，时任文化部长的朱穆之，在胡风追悼会所致悼词中说出的：［对于他的意见是完全可以和应该在正常的条件下由文艺界进行自由讨论的，但是当时却把他的文艺思想问题夸大为政治问题，进而把他作为敌对分子处理，这是完全错误的］。</p>
+<p>1955年5月25日，中国文联和中国作家协会召开会议，将胡风从中国作家协会中开除。</p>
+<p>中国文联主席郭沫若主持会议，他说：［胡风集团以不仅是我们思想上的敌人，而且是我们政治上的敌人］。<br>
+中国作家协会秘书长陈伯尘报告了胡风的罪行，要求把胡风从革命阵营里清除出去。<br>
+在会议上发言的一共有26人［欧阳玉倩、叶圣陶、梅兰芳、李伯昭、吕骥、刘开渠、夏衍、李希、陈沂、吴组缃、孜亚、冯雪峰、张天翼、曹禺、鲍昌、陈荒煤、吴伯萧、袁文殊、方纪、艾青、冯至、吴雪、阳瀚笙、田汉、洪深、陈其通］</p>
+<p>其中——大教育家［叶圣陶］说：［这种两面派的阴谋手段，是跟《联共布党史》里讲的托洛斯基相比，可以说是丝毫没有区别。他们的目的也是相同的都是企图颠覆人民政权，让反革命复辟。胡风反党集团的活动跟美蒋特务机关的罪恶是完全一致的。我们必须把胡风清洗出去］</p>
+<p>其中——大作家［夏衍］说：［彻底揭露胡风反革命集团的罪恶活动，是我们革命事业一个伟大的胜利。这等于从我们的身体上割掉了一个足以致命的毒瘤。阶级敌人一刻也没有睡觉，他们处心积虑得在寻找一切可以利用的缺口，他们在磨我的刀，窥测方向。在此我想起了捷克斯洛伐克伟大战士伏契克的一句话：人们，我爱你们。你们要警惕！——［夏衍和胡风是20多年的老朋友了！老朋友！］</p>
+<p>其中——作协副主席［冯雪峰］的发言，是从分析胡风和鲁迅的关系开始的，揭发胡风挑拨鲁迅和茅盾的关系，鲁迅和周扬的关系，鲁迅和夏衍的关系，从历史上找到了胡风的反革命证据。最后他说：［今天的会议，应该作出决议，首先把胡风从中国作家协会清洗出去，撤销一切职务，并建议政府依法处理］<br>
+冯雪峰成为建议法律处理胡风的第一人——冯雪峰的建议，不仅用到了胡风身上，最后也用到了自己身上。</p>
+<p>其中——人民出版社副社长兼总编辑［吴伯萧］说：［反革命分子胡风，走也好，滚也好，割下头颅抛掷也好，我们再也不会上当了，我们必须彻底清查这个反动集团的底细］</p>
+<p>其中——翻译家［冯至］说：［他们的策略和战略，他们的组织和手段，简直和蒋匪帮，美帝国主义派来的特务间谍没有两样］</p>
+<p>文化界的公开批判之后，各界名流为了表达对［胡风反革命集团］的强烈愤慨，纷纷发表署名文章，对［胡风］进行更加深入的批判。</p>
+<p>《请依法处理胡风》——作者：郭沫若（无论批斗谁，基本都参加）</p>
+<p>《揭下胡风派的骗人外衣》——作者：茅以升（钱塘江大桥主持设计建造者）</p>
+<p>《看穿了胡风的心》——作者：老舍（代表作：骆驼祥子，茶馆等）</p>
+<p>《我看出了胡风的阴谋》——作者：冰心（谢婉莹1900——1999）</p>
+<p>《必须彻底打垮胡风集团》——作者：巴金（1904——2005）</p>
+<p>《胡风，你的主子是谁？》——作者：曹禺（1910——1996）</p>
+<p>《个人野心家永远是我们的敌人》作者：焦菊隐（巴黎大学文学博士，戏剧家，翻译家）</p>
+<p>《胡风——阴谋家》——作者：田间（被［闻一多］称赞过的诗人）</p>
+<p>《胡风——反革命的灰色蛇》——作者：侯外庐（国学大师）</p>
+<p>《缴下胡风的剑》——作者：高玉宝（小学课本里有他写的——半夜鸡叫）</p>
+<p>《拥护全国文联和作家协会清除反革命分子胡风的决议》——作者：程砚秋（京剧四大名旦之一）</p>
+<p>《我们绝对不能容忍》——作者：陈垣（被称为与［王国维］齐名的学者）</p>
+<p>《敌人在哪里？》——作者：丁玲（1904——1986）</p>
+<p>《肃清阴险的反革命分子》——作者：丰子恺（画家，书法家，翻译家）</p>
+<p>《我的愤怒已达极点》——作者：赵丹（演过林则徐）</p>
+<p>《赶快从人们队伍中清除胡风》——作者：林巧稚（1901——1983）</p>
+<p>《坚决反对胡风集团的罪行》——作者：剪伯赞（历史学家）</p>
+<p>《胡风和胡适“异曲同工”》——作者：冯友兰（哲学家）</p>
+<p>《决不容许胡风继续欺骗人民》——作者：钱伟长（科学家）</p>
+<p>《胡风——蛀墙脚的白蚁》——作者：马思聪（音乐家）</p>
+<p>《坚决镇压胡风》——作者：常香玉（艺术家）</p>
+<p>《敌人不投降，就消灭他》——作者：于伶（剧作家）</p>
+<p>《工商界人士应该警惕》——作者：王光英（刘少奇夫人王光美之兄）</p>
+<p>这里节选几段文化名人的激扬文字，听听真实历史的残酷声音。</p>
+<p>《请依法处理胡风——郭沫若》——今天对于怙恶不悛，明知故犯的发革命分子必须加以镇压，而且镇压得比解放初期更加严厉。在这样的认识上，我完全赞成好些机构和朋友们的建议，撤销胡风担任的一切公共职务，把他作为反革命分子来依法处理。——恶鬼的画皮是容易迷惑人的。今天画皮已经剥去，难道谁还那么愚蠢，要对恶鬼自始至终保持他的忠贞吗？——那是国法所不能容许的事。——彻底醒悟过来，忠于人民祖国，不要忠于恶鬼胡风。</p>
+<p>《看透了胡风的心——老舍》——原来胡风并不只是心胸狭窄，而是别具心肠。原来他是把他的小集团以外的人，特别是共产党，都看成敌人啊！他的文章里引证了多少马克思，列宁，毛主席的名言呀，可是他要用钢筋皮鞭毒打党内作家和进步作家，杀人不见血！这是什么心肠呢？我猜不透！我只能说，除了受过美蒋特务训练的人，谁会这么想一想呢？</p>
+<p>《敌人在哪里？——丁玲》——敌人在哪里？敌人就在自己的眼面前，就在自己的队伍中，就在左右，就在身边，明枪容易躲，暗箭最难防！胡风原来就是一个披着马克思主义外衣，装着革命的小资产阶级知识分子，混在我们里面，口称朋友，实际上那个包藏着那末阴暗的、那末仇视我们的鄙视我们的，恨不能一脚踩死我们的恶毒的心情，进行着组织活动的阴谋家。——我们的敌人在哪里？在克什米尔公主号飞机上，特务在那儿放了炸弹。在美国空投特务罪证展览会上，我们看到过藏在手套背面的手枪。现在，在我们文艺的队伍里也出现了。我们常常因为我们的胜利，我们祖国的前进而忽略了埋伏在我们左右的敌人。</p>
+<p>《我看出了胡风的阴谋——冰心》——我看了这些话使我的心眼突然雪亮了，他是在和我们作你死我活的斗争啊！现在不容许胡风再装死了，我们要把他从我们的队伍里清理出去，清除出去。</p>
+<p>《必须彻底打垮胡风反党集团——巴金》——胡风集团已经不是小集团，而是反党、反人民的反动集团了，他们一直带着藏刀的面具敢那些不见伤的阴谋勾当。我们要完全揭穿他们的假面目，剥去他们的伪装，使这个集团的每一个分子都从阴暗的角落里钻出来，放下橡皮包着钢丝的鞭子和其他秘密武器，老老实实，诚诚恳恳向党和人民投降。</p>
+<p>《胡风，你的主子是谁？——曹禺》——我从来没有见过像胡风这样的恶人！这样狠毒，这样阴险，这样奸诈，这样鬼祟，这样见不得阳光，人坏到了这样的地步，真是今古奇观！——胡风和胡风集团的分子们你们听着！你们必须老老实实向人民投降！你们必须老老实实交代出来你们的主子是谁？如果台湾之音所代表的，不是你们的主子，那么，你们还要明白交代，另外的什么反动势力是你们的主子？——我们要追，追问下去，不说出来，人民是不会善罢甘休的。</p>
+<p>——1955年5月16日胡风被捕，5月18日全国人大才作出逮捕决定。</p>
+<p>——胡风在看守所被隔离3个月，后来被单人关押到监狱，直到1965年底才正式宣判。</p>
+<p>——1965年11月26日法院才正式对胡风做出判决，胡风获刑14年，由于已经服刑10年，余下4年监外执行。</p>
+<p>——1965年胡风出狱，1967年第二次被捕入狱。</p>
+<p>——1978年胡风出狱，1980年［胡风反革命集团］平反。</p>
+<p>——1985年胡风病逝。</p>
+<p>——1986年胡风第二次平反。</p>
+<p>——1988年胡风第三次彻底平反。</p>
+<p>至此，胡风案先后三次才从政治上，历史上，文艺思想及文学活动上，获得全面彻底平反。</p>
+<p>今天，透过六十多年前的胡风事件，用反观［各界名流］的特别方式，间接了解一些过去的历史真相。</p>
+<p>透过多年的回避与掩盖，探究一种特色病毒对人性的残酷影响，感受很多人失去人格的悲催后果和惨痛代价。</p>
+<p>但是谁能知道，还有多少更大更悲惨的人祸灾难，还在继续掩盖之中？</p>
+<p>——谁能知道，继续掩盖过去的历史事实和残酷真相，会给今天及今后的中国带来了多大的危害？</p>
+<p>——谁能知道，那些丧失的人格，那些出卖的灵魂，那些迷失的人性与理智，是否还能救赎？</p>
+<p>——透过［胡风］看历史，历史却在雾霾中。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%92%8B%E7%A5%96%E6%9D%83%E5%8D%9A%E5%AE%A2-%E8%92%8B%E7%A5%96%E6%9D%83%EF%BC%9A%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%BA%94%E5%BF%98%E8%AE%B0%E8%BF%99%E4%BA%9B%E6%96%87%E5%8C%96%E5%90%8D%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%A3%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">胡风事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E7%A5%96%E6%9D%83/?category=18271" rel="tag">蒋祖权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%8C%B4%E5%B9%B4%E6%98%A5%E6%99%9A%E7%9A%84%E8%AF%8F%E7%A4%BA/" target="cdt-mirror">【麻辣总局】猴年春晚的诏示</a>
 </h2>
 <p><p>十八大以来，中华民间的有识之士，早已看出他是一位有帝王之相的人民勤务员。</p>
@@ -815,51 +891,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BE%E4%B8%8B%E8%82%96%E9%92%A2%EF%BC%8C%E5%AD%A6%E4%B9%A0%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/" target="cdt-mirror">精读党报｜放下肖钢，学习今天的人民日报</a>
-</h2>
-<p><p>周六上午，中国证监会主席易人，任职3年的<a href="http://chinadigitaltimes.net/chinese/2016/02/%E6%94%BF%E4%BA%8B%E5%84%BF%EF%BD%9C%E5%8E%BB%E8%81%8C%E8%B0%A3%E8%A8%801%E4%B8%AA%E6%9C%88%E4%BA%86-%E8%82%96%E9%92%A2%E5%B9%B2%E4%BA%86%E5%95%A5/">肖钢从股市“过山车”上下来</a>，农行董事长刘士余接掌证监会。相信周一市场会给一个积极的反应，至于后市如何，目前很难预测。</p>
-<p>从第一次股市开始，证监会易人的消息就不断，今天尘埃落定，新闻也成了过去时。</p>
-<p>但有的新闻不会成为过去时，其影响刚刚开始，并将对中国的媒体格局、内容业态产生重大而深远的影响。</p>
-<p>没错，读报君说的就是2月19日下午召开的党的新闻舆论工作座谈会。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5.jpg" rel="attachment wp-att-429684"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5.jpg?resize=475%2C679" alt="人民日报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?resize=210%2C300 210w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?resize=768%2C1097 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?resize=717%2C1024 717w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/人民日报.jpg?w=1377 1377w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p>2月19日上午，习近平到访三大央媒——人民日报社、新华社、央视调研，当天下午，在人民大会堂主持召开新闻舆论工作座谈会。这个座谈会和2014年10月15日举行的文艺工作座谈会同等规格，从会场背景国画《幽燕金秋图》看，都是在东大厅，这也是每一届政治局常委首次亮相的地方。</p>
-<p>昨晚8点一刻，读报君才拿到新闻联播的文字，9点半推送了《习近平访三大媒体，真正重磅的是下午的座谈会》，眼看着就10万+了，却被举报了（回复219可提取）。</p>
-<p>不过，昨天的文章，为了求快，确实谈的比较浅。今天结合人民日报社论，读报君再详细谈一谈，这个新闻舆论工作座谈会为何重要，为什么说它将对中国的媒体格局产生重大影响，以及，为什么每一位媒体人、自媒体人、互联网内容创业者、投资者都要认真学习。</p>
-<p>首先，对新闻舆论工作的定性——党的一项重要工作（2013年8·19会议对意识形态工作的提法是“党的一项极端重要的工作”），虽然不是极端重要，但也是“治国理政、定国安邦的大事”，而且新闻舆论工作，本身也在意识形态工作这个大概念里。</p>
-<p>做好新闻舆论工作，习近平提了5个事关——事关旗帜和道路，事关贯彻落实党的理论和路线方针政策，事关顺利推进党和国家各项事业，事关全党全国各族人民凝聚力和向心力，事关党和国家前途命运。</p>
-<p>这已经是举什么旗走什么路的高度了。如果做不好，就会影响党和国家前途命运。显然，这是一个大是大非的问题，不是简单的技术问题。</p>
-<p>昨天白天，在习到访央视时，很多朋友注意到了<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/">央视大屏幕上的三行字</a>：“央视姓党 绝对忠诚 请您检阅”。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg" rel="attachment wp-att-429606"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=400%2C300" alt="央视姓党2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6362d8eajw1f14l0vtc4fj20m80go762.jpg?w=800 800w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>下午，习近平在座谈会上明确提出：党和政府主办的媒体是党和政府的宣传阵地，必须姓党。这是在“党校姓党”后，又一“姓党”机构。</p>
-<p>去年12月11日，习近平在全国党校工作会议上要求，“必须坚持党校姓党这个党校工作根本原则”，在这次会议上，习近平提出了最近两月的大热词“看齐意识”。习当时说：党校是教育培训干部的地方，不断把领导干部集中到党校来学习培训，一个重要目的就是帮助大家向党中央看齐。党校增强看齐意识，就要坚持党校一切工作都必须围绕党中央决策部署来进行。</p>
-<p>媒体既然也姓党，那所有工作，就要“体现党的意志、反映党的主张，维护党中央权威、维护党的团结，做到爱党、护党、为党”，同时也要“增强看齐意识，在思想上政治上行动上同党中央保持高度一致”。</p>
-<p>对于大媒体概念的从业者来说，最重要的是习近平这段指向明确、信号清晰的话：</p>
-<blockquote><p><strong>新闻舆论工作各个方面、各个环节都要坚持正确舆论导向。</strong></p>
-<p><strong>各级党报党刊、电台电视台要讲导向，都市类报刊、新媒体也要讲导向；</strong></p>
-<p><strong>新闻报道要讲导向，副刊、专题节目、广告宣传也要讲导向；</strong></p>
-<p><strong>时政新闻要讲导向，娱乐类、社会类新闻也要讲导向；</strong></p>
-<p><strong>国内新闻报道要讲导向，国际新闻报道也要讲导向。</strong></p></blockquote>
-<p>特别是那些“也要”的主体，因为在过去，可能是不那么注意讲导向的。那怎么做才算是导向正确？人民日报社论给出了清晰的评判标准——“四个有利于”：</p>
-<ul><li><strong>有利于坚持中国共产党领导和我国社会主义制度</strong></li>
-<li><strong>有利于推动改革发展</strong></li>
-<li><strong>有利于增进全国各族人民团结</strong></li>
-<li><strong>有利于维护社会和谐稳定</strong></li>
-</ul><p>任何一个不利于，都是错误的舆论导向。无论你是广告还是娱乐。</p>
-<p>导向如何才能正确？也有答案——团结稳定鼓劲、正面宣传为主。发表批评性报道要事实准确、分析客观。</p>
-<p>导向正确，虽然是对“姓党”媒体的要求，但必然会传导到所有的媒体，包括商业网站、各种泛资讯阅读APP、各类自媒体。</p>
-<p>2015年，中央网信办约谈几家门户网站，各方痛批网易篡改标题，已经预示着深入细致的导向管理已经开始；而嗅觉敏锐的机构也主动作为：凤凰网推出《暖新闻》栏目，百度贴吧组织爱国小粉红翻墙打台独，今日头条帮忙寻找失踪老幼……</p>
-<p>所有的媒体和从业人员，趁着周末，可以审视下自己和所在机构的价值观，自己过去和目前的工作，做到了这4个有利于吗？如果没有，那赶紧调整。如果价值观做不到，那赶紧想办法干点别的了。因为中共需要的是能够为自己执政“赋能”的建设者，而不是“吃饭砸锅”的破坏者、捣乱者、麻烦制造者。读报君大胆断定：未来中国的媒体格局，将由姓党的亲儿子和能够在技术上为中共执政赋能的科技新贵主宰。</p>
-<p>2016年1月4日，习近平新年首次调研，在重庆提出了“指挥棒”的说法，即“创新、协调、绿色、开放、共享”，这个新的发展理念，就是指挥棒，引领方向、指明路径，开启发展新境界。</p>
-<p>而农历新年的首次调研，习近平对新闻舆论工作提出的这48个字，刊登在《人民日报》头版报眼位置——过去放毛主席语录的地方，也是一个“指挥棒”。</p>
-<p>第一个指挥棒，指挥的是各级政府和官员；这一个指挥棒，指挥的是各家媒体和从业者。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%94%BE%E4%B8%8B%E8%82%96%E9%92%A2%EF%BC%8C%E5%AD%A6%E4%B9%A0%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%AF%BC%E5%90%91/?category=18271" rel="tag">舆论导向</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -871,7 +902,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -881,5 +912,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

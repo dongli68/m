@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%89%E5%B1%80%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%EF%BC%9A%E9%80%9A%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E8%AF%AD%E8%A8%80/" target="cdt-mirror">纽约时报 | 中国国安局校园招聘：通少数民族语言者受欢迎</a>
+</h2>
+<p><p>春节假期后，中国大学生返回校园。一些人或许担心<a href="http://www.nytimes.com/2016/01/19/business/international/china-gdp-economy.html" target="_blank" rel="nofollow">经济放缓</a>会自己影响<a href="http://www.chinadaily.com.cn/china/2015-07/09/content_21237438.htm" target="_blank" rel="nofollow">找到好工作的机会</a>。但是，那些懂日语或维语、“体态匀称”、近视度数不高的学生可能成为幸运儿，进入国家安全部门工作。</p>
+<p>华东师范大学<a href="http://www.career.ecnu.edu.cn/common/index.aspx" target="_blank" rel="nofollow">就业服务网站</a>上发布的一则上海国安局招聘启事表示要寻找应聘者，男性要求身高1.70米以上，女性身高1.60米以上，没有色盲。</p>
+<p>这则招聘启事名为《上海市国家安全局预选2016年应届大学毕业生的公告》，已经被撤下，但<a href="http://www.career.ecnu.edu.cn/commonpage/NewsDetail.aspx?id=O9OIPTxv9Ko=" target="_blank" rel="nofollow">缓存版本</a>仍然可见。在电话中，就业服务中心一名自称姓何（音）的女士证实这则启事是真实的，但她惊讶的是，它居然公开流传，因为这类启事一般在内部传播。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E5%AE%89%E5%B1%80.jpg?resize=552%2C501" alt="上海国安局" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/上海国安局.jpg?resize=300%2C272 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/上海国安局.jpg?w=552 552w" sizes="(max-width: 552px) 100vw, 552px" data-recalc-dims="1"></p>
+<p>在美国，中央情报局(CIA)的招募是公开进行的。但在中国，这类招募大多秘密进行——即使保密性欠佳。在<a href="http://www.pincai.com/group/356540.htm" target="_blank" rel="nofollow">聘才网</a>(Pincai.com)上，一个用户声称自己参加了国家安全部在北京举办的招聘活动。国家安全部是中国情报机构，负责管理各地区的国安局。</p>
+<p>在那篇帖子中，一个叫汪月乐的网友谈到了2007年10月在一所没有提及名字的大学举行的国安招聘活动。录用后有长达一年的试用期，起薪是每月4000元人民币，合同至少签10年。招聘方主要是找有“信息安全”技能的研究生，这样的招聘活动也在杭州的浙江大学、北京的中国政法大学和成都的电子科技大学举办过。</p>
+<p>“工作地在北京，但是要经常出差，”这名网友说。“工作很累，基本不要女生，一般来说工作没有生命危险。”</p>
+<p>上海的这则启事和聘才网的这篇帖子清晰地显示出，国安部门的招聘人员定期前往中国的一流大学，招募有培养前途的学生。</p>
+<p>根据何女士的说法，现在依然如此。虽然这则启事已经过期，但她表示，该校今年6月时很可能会再举办一次这样的招聘活动，面向2017年的求职者。</p>
+<p>“每年夏天他们都会联系我们，”何女士说。</p>
+<p>在不同的年份，招募需求也有所不同。“这取决于他们想要什么，”她说。人员“背景”的标准也有所改变，但她没有具体解释。</p>
+<p>从这则启事来看，国安部门对计算机技能和中国少数民族语言流利的需求较高。这可能体现了他们对公众进行网上监视、对少数民族进行观察的兴趣，尤其是西部偏远地区新疆的维吾尔人。当地对汉人统治不满，不时爆发暴力事件。</p>
+<p>这则启事招聘英语、日语、德语、法语、俄语“或其它小语种专业”的学生。</p>
+<p>还招聘维语、藏语、哈语、蒙语等少数民族语言学生，或具有闽南语、客家语、粤语、吴语等方言特长的学生。使用这些方言的人群分布在上海、周边东南沿海地区及华南地区。</p>
+<p>招聘范围还包括“计算机软件、信息安全、通信技术等相关计算机方面专业”，以及“国际关系、国际政治、中文、历史、新闻、哲学、对外汉语、法律等文科专业”的学生。</p>
+<p>“有很多学生申请，的确非常多，”何女士说。至于招聘人员，“他们的要求非常高。”</p>
+<p>目前还不清楚中国安全部门雇佣了多少人，但数字可能在几十万左右。上海的那则启事只是针对一座城市里一所大学的招聘。2012年底上台之后，习近平主席把强化国家安全和打击异见活动作为执政的一块基石。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%89%E5%B1%80%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%EF%BC%9A%E9%80%9A%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E8%AF%AD%E8%A8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%83%85%E5%B1%80/?category=18271" rel="tag">中情局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%B1%80/?category=18271" rel="tag">国安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-2-21/" target="cdt-mirror">奇闻录 | 周末段子荟萃 2-21</a>
+</h2>
+<p><p>@LizhaoJ：习近平干了件好事，再次确认了党的喉舌的归属。那些在党办的必须姓党的媒体混饭吃的人，就别再假装自己有独立人格，自由见解了。</p>
+<p>@Dharmasong：姓党和姓赵是两回事，干活的时候，你必须姓党，分钱的时候，你也配姓赵。</p>
+<p>@MyDF：央视姓党，与其说是公器私用，不如说是党把私器亮出来了。</p>
+<p>@chuhan：跟党走是苏联式话语，跟党姓是东方宫廷语言。不含价值评判地说，今上把天朝变得更像天朝了。</p>
+<p>@takamy50：很明显，一等人姓赵，二等人姓党，其他人随便。</p>
+<p>@Zodiac4698：其实重点不在“姓党”，而是在于“检阅”二字，所谓“党的喉舌”实际在共产党的意识形态里就是一支部队，“宣传”（撒谎造假）的本质叫“宣传战”！是要战斗的，和谁战斗？和人类的良知，公理，常识，逻辑，乃至于最起码的恻隐之心战斗！直到泯灭人性。</p>
+<p>@wentommy：今天大中华区区长视察了一座电视台、一间通讯社和一家报馆。电视台打出了“央视姓党”的口号，那个叫“新华”的通讯社，一直自称“国社”；报馆叫人民日报。党、国、人民，三大概念得到了贯穿统一。这是对“天人合一”哲学思想的升华，预示着中华民族一个前所未有的伟大即将实现。</p>
+<p>@uponsnow：中国媒体人自称“卖艺不卖身”的暧昧年代随着包子座谈会结束了，明确了所有媒体姓党包括自媒体在内。 技术上来说从明天起还自称做媒体的中国人等于公开接受了这一侮辱，自认姓党。所以我不会叫你吴晓波，只会叫你党晓波。</p>
+<p>@CaoMu：总书记根据提示按了一个按钮，周围响起了热烈掌声。这新闻太智障了，宣传口真是大蜜似黑。</p>
+<p>@xcityonfire：CCAV姓党，各位受惊了？中国都姓党。中共、“中共国”政权、中国，在政治上“三位一体”，其中之一即代表其余，中共非常乐见“爱国不爱党”这种政治白痴。</p>
+<p>@陶景洲：【坦荡的观点】今天看到习大大视察央视时的标语“央视姓党，绝对忠诚”，不期然想起1998年朱镕基视察央视时破例写出的：“舆论监督，群众喉舌，政府镜鉴，改革尖兵。”当时在场的一位高级领导提醒应是“党的喉舌”，朱总理大声说道：“我没有写错！为这16个字我想了一宿，天亮时血压都上去了。”</p>
+<p>@hnjhj：上午十点，习主席在央视演播室和大家愉快地攀谈着，当他走到主播的位置坐下后，突然心情沉重，沉吟半响后对大家说：“坐在这个位置上，让我想起过去的很多事情，尤其是当年在福建的时候”。这时刘云山及时踢了他一脚：“好了好了，主席今天累了一天，导播把这一段掐掉”。#花絮</p>
+<p>@alicedreamss：【党天下】在中国，央视姓党、法院姓党、军队姓党学校姓党、警察姓党、银行姓党医院姓党、宪法姓党、企业姓党……没人民啥事！但它们却叫做人民政府、人民法院、人民军队人民医院、人民银行、人民警察……</p>
+<p>@damyata：早就说过，你国，是理想主义去死去死国。剩下的只是一次次印证，痛苦消沉。</p>
+<p>@maylogcom：#转：换了个赌场老板，赌客们兴奋得很，觉得自己以后就能赢钱了。 #肖钢</p>
+<p>@石述思：肖钢注定是个悲剧性人物。守着一个制度不健全的烂摊子，夹在政府派和市场派中间，面对韭菜一夜暴富的渴望、既得利益者的疯狂、最高决策者的战略诉求，他试图推动的所有变革都缺乏天时和足够的弹药，他的离去不可能带来中国资本的清明时代，充其量是受伤股民的一个迟来的安慰。金融变革决定着改革的命运。</p>
+<p>@wentommy：路透社新浪官微称肖钢请辞，“辟谣”后，账号就被封了。一月后，党中央委托国务院宣布肖钢免职。个人理解：知情人士或肖本人向该社透露了请辞意向，这破了组织原则。好比党籍，主动退？难，得等组织开除。正部级高官，说不干就不干了？肖钢和路透，都违反了政治纪律，有资产阶级自由化倾向。</p>
+<p>@chuhan：加税扩权的时候经济右不见了，扩张福利的时候经济右出现了。姓党的新保守主义。</p>
+<p>@tombkeeper：【网络部门证实：“上海女孩逃离江西”从头至尾均为虚假内容】“根据网络部门的信息梳理”，我比较感兴趣“网络部门”是什么部门，又是怎么做的“信息梳理”。我当然相信“网络部门”可以轻松得到这事儿的答案。但这不是刑事案件，也不是民事案件，这根本就不是案件，然而“网络部门”想出手就出手了。</p>
+<p>@王大国中庸：我是党的一泡尿，随时随地听党召。党让滋谁就滋谁，不怕淹了龙王庙！——1979年群众赛诗大会极品钻石奖作品</p>
+<p>@陈丹青：【改革】为什么大家对中国经济这么绝望，其实不难理解。口口声声供给侧改革，结果涉及企业降费的水电煤气一样没降。成品油按规矩该降也不降，还加税。一会儿说推迟退休，一会儿是退休人员交医保，全在老百姓身上打主意。既得利益者铁桶一块，不肯让出一点儿利益。所谓改革，全靠一张嘴。</p>
+<p>@libearal：“我们最后都是要走的，但是你比阿共们先走，这就不对了”，这个没心没肺的家伙啊，不过我还是笑出来了……</p>
+<p>@tom2009cn：这个国家好像是发展了，漂亮的楼盖的哪里都是，高速公路汽车拥堵的塞满了所有的路面。但没有多少人感到安全，人人都觉得这船要沉，官僚与富豪们多少年前就已转移资产，中产阶级只要可能也忙不迭的全家出逃。平民们正一天天走向绝望，更深的绝望。知识阶层面对高压，感到无话可说。这是思想彻底的绝望。</p>
+<p>@格瓦拉：【鸟语】季节变换，一只候鸟飞来，遇见在池塘里游泳的鸭子，候鸟说：那边的水要比这清澈多了，鱼虾也多……鸭子正色地说：你这是传播西方价值观啊！我已经举报了，你快闭嘴吧，你知道我们的生活变化有多大吗？而且，烤鸭现在什么价钱吗？说出来吓死你……</p>
+<p>@GYTV： 环球时报微博很得意地发微博说，确认：习大大也看环球时报……注意，确认二字境界十分高，一般想想能琢磨出八卦味道，仔细想想能体会到到党的喉舌盼望翻牌子的急迫感。</p>
+<p>@明哥Roger：老家开始流行挂领袖像了，岳父说买不到标准照，只能买到四元的这种挂画，有标准照他四十也会买，七张小照片有四张是关于奥巴马和米歇尔的。老人说自从华国锋画像被强制收走上缴之后，江胡时代一直没有挂过领袖像。</p>
+<p>@teacofeewine：我最讨厌什么都扯上“种族歧视”，就像在中国，动辄被诬“卖国贼”。我在北美十五年，被美国人善待、帮助的故事太多了。而特别明显的种族歧视待遇，都是来自中国人，去中国领事馆签证被刁难，被机场华人安检折腾，被糕饼店的广东台山人板脸……。他们都非常一致地对老美笑容可掬、点头哈腰！</p>
+<p>@WoodenHarp： 任何和科学、哲学、政治等等人类文明主流题目有关的东西，简体中文资料如果不是逐字逐句翻译西方优秀研究人员正式发表的可靠资料，都可以直接忽视。这倒不是说其它的简体中文材料一定不好，只是用于筛选的时间精力远远大于所得。</p>
+<p>@gseed12：現在還宅在研究數學和物理民科想拿諾貝爾的真是比較蠢的，不太蠢的民科都在研究經濟和金融了，根本不會被打臉，風險低，收益高（出書講座都可以），門檻更低（會編段子不？會編時事經濟段子就行… 什麼！？你不會？來這裏我教你速成法，只售998！</p>
+<p>@dobstars： 在0506年席卷各大论坛的科普浪潮，在如今你国朋友圈狂转的民科引力波事件中露了原型，80后仍然是科盲神棍遍地。科普的基础是言论自由，言论自由的保障是民主体制，所以，民前无科普，什么松鼠会，果壳网，只能手淫，科普歇菜吧。</p>
+<p>@maylogcom：#转：我们听了太多灵机一动的科学故事。牛顿被苹果砸头，灵机一动发现万有引力；瓦特看见烧水壶，灵机一动发明蒸汽机，似乎一拍脑袋，创意就变成理论了。实际这故事都是假的，科学理论和发明要经过严谨计算推论和大量实验才能成立。民科喜欢以哥白尼自居，可他们从不知哥老三十年的天文观测记录有多厚。</p>
+<p>@linyujing：小时候我爸订阅《飞碟探索》还买了好多过刊。曾经神气的问过我：你知道时间是啥吗？那时候我读中学，一脸鄙夷的答：时间不就是你手上戴的表么。还好后来我爸闲下来后没有向民科方向发展。我给他买了台电脑上网，转向了业余国际形势时事评论人的角色，没事儿打打嘴炮预言一下共产党要完。</p>
+<p>@maylogcom： #转：看那几个女生因为殴打同学被送进监狱，就该知道为什么美国犯罪率高，而中国的低了。很多在美国是重罪，但是在中国连治安处罚都不算。</p>
+<p>@lobytao20： 顾客：“可以用Apple pay吗？”店员：“别说英文，听不懂！”顾客：“……可以用苹果支付吗？”店员：“你怎么这么牛逼呢？你咋不用猕猴桃支付呢？！”</p>
+<p>@Cattyhouse：华联超市，我：刷卡。服务员：卡给我。我：我用手机刷。服务员：微信还是支付宝。我：都不是，你进入刷卡模式，我用手机刷。服务员：不可能的，我们不支持。我：麻烦了。服务员：那我试试。我iPhone对着刷卡机，屏幕亮了，我按下指纹。服务员：不好意思我们年纪大了，不知道还能这样。</p>
+<p>@simpleblue：网贴《霸气媳妇回农村：光干活不让上桌掀翻了自己做的一桌子菜》。发贴者称，自己第一次回丈夫农村老家过年，去之前一个月开始研究做菜。忙完一桌菜，公婆却赶她出去吃饭：“哪有女人上桌子吃饭的？” 城里媳妇一把掀翻一桌菜。</p>
+<p>@Vela1680： 江西人开个脑洞：如果大上海小伙子和美国姑娘在美国认识，回上海过年，美国人发现不能上谷歌（假设上海小伙子不会翻墙），看到他的父母在看春晚上的共产党政治宣传，会不会掉头就走？当然可能会稍微文明点回去再分手不会立即发作。</p>
+<p>@ld0905：Apple芯片的总设计师Srouji是以色列人，他爸是个工匠，他有个很特别的理念：如果有人给他的活很简单，他会收取较高的费用，如果有人给他的活很复杂，很困难，甚至是他之前没做过的，那么他会收取很低的费用甚至不收费用。#这对于赵国人来说简直不可思议是吧？</p>
+<p>@tonyq0802：大公司强奸 Android 用户现在连招呼都不打了，我今天没事干按了 qq，晚上发现给我推一消息说我今天走了 1 万多步，排名 xx，看系统自带权限管理跟没有要过传感器，再一看耗电果然排第一。设置里也没有关闭计步的选项。</p>
+<p>@haOFei：一个晚上天天去夜总会拉皮条的女大学生和一个天天白天上大学的妓女，你肯定更倾向于后者。这就是情怀的价值。</p>
+<p>@孙小姐：老妈一个同事，说话非常直接呛人，说话做事均显天真任性，女性，独身，工作稳定；我不很喜欢她。后来才知道她当年是支援 SARS 前线的医生，中途感染 SARS ，在医院隔离了一个多月，已经做好赴死的准备，结果又捡回来一条命。大概死掉一次的人，才能更理解要怎么活着吧。</p>
+<p>@for8520：在宾馆洗澡，突然发现镜子上慢慢显现出几个字：“我死的好惨！” 我不由大吃一惊，心中暗想：“这鬼竟连 ‘的地得’ 都不分。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-2-21/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%93%E5%85%9A/?category=18271" rel="tag">姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E5%91%8A%E8%AF%89%E4%BD%A0%E8%B0%81%E6%98%AF%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/" target="cdt-mirror">新京报 | 告诉你谁是“朝阳群众”</a>
 </h2>
 <p><p>粗略计算，在朝阳区常住人口中，平均每15人中就有一个“朝阳群众”。跟他们聊天，会听到很多固定的词汇：毛主席、组织、奉献、国家……他们喜欢把自己的成长史和国家的历史联系在一起：伴随共和国红色政权长大，自幼接触、参与政治，更相信集体的作用和力量。</p>
@@ -144,7 +225,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E7%BA%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E5%88%AB%E6%80%AA%E6%88%91%E5%AF%B9%E7%9D%80%E3%80%8C%E5%85%9A%E5%AA%92%E5%A7%93%E5%85%9A%E3%80%8D%E7%8B%82%E5%96%B7%E3%80%80%E9%83%BD/" target="cdt-mirror">东网｜王药师：别怪我对着「党媒姓党」狂喷　都是你们逼的</a>
 </h2>
@@ -166,7 +247,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E5%92%8C%E5%B9%B4%E5%BA%95%E5%8F%B0%E6%B9%BE%E9%87%91%E9%A9%AC%E5%A5%96/" target="cdt-mirror">【真理部】香港电影金像奖和年底台湾金马奖</a>
 </h2>
@@ -329,7 +410,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%83%E7%A0%94%E5%AE%98%E5%AA%92/?category=18271" rel="tag">习近平调研官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">传言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA/?category=18271" rel="tag">凯迪社区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%A8%80/?category=18271" rel="tag">网络传言</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E4%BB%8E%E5%BC%95%E5%8A%9B%E6%B3%A2%E5%89%A7%E6%83%85%E5%A4%A7%E5%8F%8D%E8%BD%AC%E8%B0%88%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84/" target="cdt-mirror">知识分子 | 从“引力波”剧情大反转谈中国社会的“科学”现实</a>
 </h2>
@@ -825,81 +906,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E6%96%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/429645/" target="cdt-mirror">政见 | 中央编译局：用马克思为改革辩护</a>
-</h2>
-<p><p>作者：奚应红</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%BF%99%E5%B9%85%E6%B2%B9%E7%94%BB%E6%8F%8F%E8%BF%B0%E7%9A%84%E6%98%AF%E9%A9%AC%E5%85%8B%E6%80%9D%E5%92%8C%E6%81%A9%E6%A0%BC%E6%96%AF%E4%BA%8E1864%E5%B9%B45%E6%9C%883%E6%97%A5%E5%9C%A8%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E7%9C%8B%E6%9C%9B%E7%97%85%E9%87%8D%E4%B8%AD%E7%9A%84%E5%A8%81%E5%BB%89%C2%B7%E6%B2%83%E5%B0%94%E5%BC%97%E7%9A%84%E6%83%85%E6%99%AF%E3%80%82.jpg?resize=550%2C367" alt="这幅油画描述的是马克思和恩格斯于1864年5月3日在曼彻斯特看望病重中的威廉·沃尔弗的情景。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/这幅油画描述的是马克思和恩格斯于1864年5月3日在曼彻斯特看望病重中的威廉·沃尔弗的情景。.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/这幅油画描述的是马克思和恩格斯于1864年5月3日在曼彻斯特看望病重中的威廉·沃尔弗的情景。.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>图片来源：李天祥 赵友萍创作油画</span></p>
-<p>如果不问 Google 或百度，你知道中央编译局的全称吗？</p>
-<p>来，请跟我一口气念完：中央编译局是 “中共中央马克思、恩格斯、列宁、斯大林著作编译局”。</p>
-<p>与声名赫赫的中央党校或中国社科院相比，专门从事翻译工作的中央编译局显然低调神秘的多，偶尔的抛头露面却让人大跌眼镜——前任领导就以 “性丑闻” 霸占娱乐版，哦不，学术版新闻头条。</p>
-<p>不过，作为中共中央的直属机构，中央编译局可能要打破多数人头脑中的刻板印象。事实上，它不仅扮演着 “马恩列斯” 著作翻译者的角色，而且在学术研究、理论探索上有很多贡献，有人甚至给它贴上了 “智库” 的标签。</p>
-<p>马来西亚大学的<strong>饶兆斌</strong>研究员在他的分析中就认为，中央编译局从来就不是一个单纯的翻译机构，它有着自己的 “研究基因”，这种基因让它在中苏论战中一战成名，最后演变成一个有着理论和现实取向的研究机构。它不仅办期刊、组织研讨会、培养人才，而且逐渐摆脱旧有的框架体系，吸收不同思想成果，产生了更加开放的 “马克思主义系统”，影响着中国的改革进程。</p>
-<p><strong>中苏论战 “一战成名”</strong></p>
-<p>中央编译局的前身可以追溯到延安时期的马列学院，但它直到 1953 年才得以正式成立。成立后的编译局由于与苏联翻译机构的特殊关系，其发展也随着中苏关系的变化而产生变化。</p>
-<p>当中苏关系处在蜜月期时，它发挥着 “友谊桥梁” 的作用，中苏学者得以相互交流，并且开始对中苏领导人 （毛泽东和斯大林） 的著作进行互译。在这个过程中，中方收集整理了大量的隐秘资料。</p>
-<p>当中苏关系破裂时，它又变成了 “中苏论战” 的桥头堡——由它编辑出版的苏修 “灰皮书” 正好成为论战的火药库，为北京笔杆子与苏共 “论 （si） 战 （bi）” 所用，其中比较著名的一篇标题就是 “从伯恩斯坦、考茨基到赫鲁晓夫”。</p>
-<p>这场论战深刻影响了中央编译局的发展，也是中央编译局 “智库” 角色的最初尝试。但更为重要的是，通过对 “灰皮书” 等资料的搜集和整理，中共对马恩列的解释跳出了斯大林的框架，为以后更加开放的马克思主义系统的形成奠定基础。</p>
-<p><strong>中央编译局升级记</strong></p>
-<p>中央编译局从翻译机构升级成智库离不开一个人的努力，他就是曾任编译局副局长的林基洲。林基洲在担任副局长期间，保留了编译局原有的研究传统，同时又给它注入了新的基因。在他的管理下，编译局彻底被改造成以研究为基础的类智库角色。</p>
-<p>早在成立之初，为了更好地翻译和传播马克思主义，编译局内部就开始组织课程学习，加强翻译人员的理论素养，形成了编译局的一种研究取向：注重历史和理论。</p>
-<p>而在林基洲主管编译局的期间，他多次组织召开与民营企业家的座谈会，并且开展多项实地田野调查。这一举动遭到很多人的质疑，在这些人看来，这些 “无用功” 对翻译工作毫无益处。</p>
-<p>但林基洲坚持认为，马克思主义是一个不断发展的研究领域，应该与时俱进，更应该联系中国实际，与企业家会谈正是了解中国经济社会发展的最佳途径。不仅如此，马克思主义还是一个开放的系统，它需要吸收人类优秀的思想成果。这就形成了编译局另一个研究取向：运用比较的视角，注重经验和实践。</p>
-<p>在这样的研究取向下，两份影响比较大的期刊——《马克思主义与现实》 和 《经济社会体制比较》 也相应成立，吴敬琏还一度担任 《经济社会体制比较》 的主编，即便他并不隶属于中央编译局。</p>
-<p>一大批研究人员开始用新理论研究中国的具体问题。例如，荣敬就引进 “寻租” 和 “路径依赖” 解释中国的经济体制改革。另外还有俞可平对民主理论、地方政府创新，以及何增科对反腐的研究。这些都让中央编译局摇身一变成为一个倡导改革的思想智库。</p>
-<p><strong>“马克思是自由民主派”</strong></p>
-<p>在批评者眼里，中央编译局是保守左派的集中营，是意识形态的教条主义者。不过，面对这样的指控，编译局的内部人员却不以为然。在他们看来，改革和马克思主义没有必然的矛盾，“考茨基是正确的，列宁有很多错误，毛泽东有一些乌托邦思想，马克思是一个自由民主派，甚至还有有一点点后现代。” 他们给自己的自画像是：一个马克思主义者，也是一个改革者。</p>
-<p>在谈到如何影响具体的政策时，他们并不 “自信”。除了定期给中央写内参和参加中央全会以外，他们对政策的影响无法精确计算。不过，编译局带来的影响可能不在直接的政策层面，而是整个思想和话语的改变，尤其当改革受阻，新思想遭到保守派抵制时，他们总能以 “回到马克思” 的姿态为改革辩护。</p>
-<p>然而，这样一种 “改革者” 的形象在一些人眼里还是有些模糊。它并不主动拥抱西方民主体制，而是倡导不改变基本体制下的渐进式改革，目的是让共产党的治理更具灵活性、更加适应时代、更好地回应民众。</p>
-<div>
-<p><span>参考文献</span></p>
-<ul><li><span>Bing, N. C. (2015). From translation house to think tank: The changing role of the Chinese Communist Party’s Central Compilation and Translation Bureau. <cite>Journal of Contemporary China, 24</cite>(93), 554-572.</span></li>
-</ul></div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/429645/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BC%96%E8%AF%91%E5%B1%80/?category=18271" rel="tag">中央编译局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%A9%E6%A0%BC%E6%96%AF/?category=18271" rel="tag">恩格斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%85%8B%E6%80%9D/?category=18271" rel="tag">马克思</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/429657/" target="cdt-mirror">【异闻观止】习近平：党和政府主办的媒体必须姓党</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg" rel="attachment wp-att-429611"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=550%2C309" alt="央视姓党1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=1024%2C576 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?w=1200 1200w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/" target="_blank">【图说天朝】央视姓党 绝对忠诚</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/" target="_blank">【图说天朝】孝顺走肖家</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E6%8A%8A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%9E%8D%E5%85%A5%E5%90%84%E7%BA%A7%E6%95%99%E8%82%B2%E5%90%84%E7%8E%AF%E8%8A%82/" target="_blank">【网络民议】中国教育部可以和宣传部合并了</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/423370/" target="_blank">【网络民议】捆绑销售：爱国爱党爱社会主义</a></li>
-</ul></blockquote>
-<p>央视网消息（新闻联播）：中共中央总书记、国家主席、中央军委主席习近平19日在北京主持召开党的新闻舆论工作 座谈会并发表重要讲话。他强调，党的新闻舆论工作是党的一项重要工作，是治国理政、定国安邦的大事，要适应国内外形势发展，从党的工作全局出发把握定位，坚持党的领导，坚持正确政治方向，坚持以人民为中心的工作导向，尊重新闻传播规律，创新方法手段，切实提高党的新闻舆论传播力、引导力、影响力、公信力。</p>
-<p>党的十八大以来，以习近平同志为总书记的党中央高度重视党的新闻舆论工作，多次研究有关问题，作出重要部署。召开这次座谈会，目的是推动新闻舆论战线适应形势发展积极改革创新，全面提高工作能力和水平。</p>
-<p>为召开这次座谈会，习近平到人民日报社、新华社、中央电视台等3家中央新闻单位进行了实地调研。</p>
-<p>中共中央政治局常委、中央书记处书记刘云山陪同调研并出席座谈会。</p>
-<p>19日上午，习近平首先来到人民日报社调研。编辑楼内，一块块展板、一幅幅照片展示了党中央对人民日报的关怀，反映了人民日报社走过的不平凡历 程。习近平一边观看，一边听汇报，他充分肯定人民日报创刊68年来为党和人民事业作出的重要贡献。在总编室夜班平台，习近平看编辑排版。习近平同大家亲切交流，勉励他们不忘初衷、坚定信念，把报纸办得更好，为全国人民提供更多更好的精神食粮。习近平走进新媒体中心，在大屏幕前听取微博、微信、客户端工作介绍，并在一台电脑前坐下，通过新媒体平台发送语音信息，向全国人民致以元宵节的问候和祝福。</p>
-<p>随后，习近平来到人民网演播室，通过视频同人民日报记者连线，同福建宁德市赤溪村村民交流。赤溪村过去是个特困村，多年来在习近平亲自关心和指 导下脱贫成效显著，习近平2015年1月29日在一份反映该村扶贫工作的材料上作出重要批示，强调脱贫攻坚要“艰苦奋斗、顽强拼搏、滴水穿石、久久为功”。在视频里，习近平先后同村党支部书记杜家住、长期关心支持赤溪村扶贫的退休干部王绍据对话，他向乡亲们问好，叮嘱他们保护好绿水青山，走出一条绿色 发展、生态富民的路子。</p>
-<p>10时许，习近平来到新华社，观看了新华社“历史与发展”主题展览。装毛主席手稿的箱子、延安时期的手摇马达……他不时驻足，询问有关情况。新华社负责同志介绍，他们正加快媒体融合发展，每天用8种文字向世界提供全媒体新闻和信息产品，习近平对此表示肯定。</p>
-<p>在新闻信息发稿中心，习近平通过视频同正在河南兰考县采访的新华社记者连线。记者向总书记汇报采访中看到的基层干部转变作风新面貌，习近平鼓励 记者多深入基层、深入群众，及时发现和宣传基层干部先进典型。看了新华丝路数据库、中国照片档案馆数据管理系统等新闻信息产品展示，习近平点击手机屏幕，通过新华社客户端为全国新闻工作者点赞。在国内部，一位刚从河北正定县“走基层”回来的记者向总书记汇报塔元庄村的新变化，习近平请他转达对乡亲们的问候。习近平还走进国际部、参编部等工作平台，同一线编辑记者交流，向大家表示慰问。</p>
-<p>临近中午，习近平来到中央电视台。他听取中央电视台板块业务、媒体融合等情况介绍，到总控中心观看电视传播能力建设视频展示，在《新闻联播》演 播室、导控室向主持人和工作人员了解新闻制作导播流程。习近平亲自切换按钮体验模拟播出。习近平指出，中央电视台每天面对数亿观众，一定要紧跟时代、放眼全球，多设计一些融思想性、艺术性于一体的好栏目，多创办一些脍炙人口、寓教于乐的好节目。</p>
-<p>得知中央电视台海外业务发展很快，已形成全球化的采编和传播网络，习近平通过视频连线中央电视台北美分台负责人。</p>
-<p>当天下午，习近平在人民大会堂主持召开党的新闻舆论工作座谈会。会上，人民日报社社长杨振武、新华社社长蔡名照、中央电视台台长聂辰席和编辑代表范正伟、记者代表李柯勇、主持人代表康辉分别发言，他们谈认识、讲工作、提建议，习近平边听边记，不时插话交流。</p>
-<p>在听取他们发言后，习近平发表重要讲话。习近平指出，长期以来，中央主要媒体与党和人民同呼吸、与时代共进步，积极宣传马克思主义真理、宣传党 的主张、反映群众呼声，在革命建设改革各个历史时期发挥了十分重要的作用。党的十八大以来，中央主要媒体突出宣传党的十八大和十八届三中、四中、五中全会精神，阐释党中央重大决策和工作部署，反映人民伟大实践和精神风貌，唱响了主旋律，传播了正能量，有力激发了全党全国各族人民为实现中华民族伟大复兴的中国梦而团结奋斗的强大力量。</p>
-<p>习近平强调，做好党的新闻舆论工作，事关旗帜和道路，事关贯彻落实党的理论和路线方针政策，事关顺利推进党和国家各项事业，事关全党全国各族人民凝聚力和向心力，事关党和国家前途命运。必须从党的工作全局出发把握党的新闻舆论工作，做到思想上高度重视、工作上精准有力。</p>
-<p>习近平指出，在新的时代条件下，党的新闻舆论工作的职责和使命是：高举旗帜、引领导向，围绕中心、服务大局，团结人民、鼓舞士气，成风化人、凝心聚力，澄清谬误、明辨是非，连接中外、沟通世界。要承担起这个职责和使命，必须把政治方向摆在第一位，牢牢坚持党性原则，牢牢坚持马克思主义新闻观，牢牢坚持正确舆论导向，牢牢坚持正面宣传为主。</p>
-<p>习近平强调，党的新闻舆论工作坚持党性原则，最根本的是坚持党对新闻舆论工作的领导。党和政府主办的媒体是党和政府的宣传阵地，必须姓党。党的新闻舆论媒体的所有工作，都要体现党的意志、反映党的主张，维护党中央权威、维护党的团结，做到爱党、护党、为党；都要增强看齐意识，在思想上政治上行动上同党中央保持高度一致；都要坚持党性和人民性相统一，把党的理论和路线方针政策变成人民群众的自觉行动，及时把人民群众创造的经验和面临的实际情况反映出来，丰富人民精神世界，增强人民精神力量。新闻观是新闻舆论工作的灵魂。要深入开展马克思主义新闻观教育，引导广大新闻舆论工作者做党的政策主张的传播者、时代风云的记录者、社会进步的推动者、公平正义的守望者。</p>
-<p>习近平指出，新闻舆论工作各个方面、各个环节都要坚持正确舆论导向。各级党报党刊、电台电视台要讲导向，都市类报刊、新媒体也要讲导向；新闻报道要讲导向，副刊、专题节目、广告宣传也要讲导向；时政新闻要讲导向，娱乐类、社会类新闻也要讲导向；国内新闻报道要讲导向，国际新闻报道也要讲导向。</p>
-<p>习近平强调，团结稳定鼓劲、正面宣传为主，是党的新闻舆论工作必须遵循的基本方针。做好正面宣传，要增强吸引力和感染力。真实性是新闻的生命。要根据事实来描述事实，既准确报道个别事实，又从宏观上把握和反映事件或事物的全貌。舆论监督和正面宣传是统一的。新闻媒体要直面工作中存在的问题，直面社会丑恶现象，激浊扬清、针砭时弊，同时发表批评性报道要事实准确、分析客观。</p>
-<p>习近平指出，随着形势发展，党的新闻舆论工作必须创新理念、内容、体裁、形式、方法、手段、业态、体制、机制，增强针对性和实效性。要适应分众化、差异化传播趋势，加快构建舆论引导新格局。要推动融合发展，主动借助新媒体传播优势。要抓住时机、把握节奏、讲究策略，从时度效着力，体现时度效要求。要加强国际传播能力建设，增强国际话语权，集中讲好中国故事，同时优化战略布局，着力打造具有较强国际影响的外宣旗舰媒体。</p>
-<p>习近平强调，媒体竞争关键是人才竞争，媒体优势核心是人才优势。要加快培养造就一支政治坚定、业务精湛、作风优良、党和人民放心的新闻舆论工作 队伍。新闻舆论工作者要增强政治家办报意识，在围绕中心、服务大局中找准坐标定位，牢记社会责任，不断解决好“为了谁、依靠谁、我是谁”这个根本问题。要提高业务能力，勤学习、多锻炼，努力成为全媒型、专家型人才。要转作风改文风，俯下身、沉下心，察实情、说实话、动真情，努力推出有思想、有温度、有品质的作品。要严格要求自己，加强道德修养，保持一身正气。要深化新闻单位干部人事制度改革，对新闻舆论工作者在政治上充分信任、工作上大胆使用、生活上真诚 关心、待遇上及时保障。</p>
-<p>习近平指出，加强和改善党对新闻舆论工作的领导，是新闻舆论工作顺利健康发展的根本保证。各级党委要自觉承担起政治责任和领导责任。领导干部要 增强同媒体打交道的能力，善于运用媒体宣讲政策主张、了解社情民意、发现矛盾问题、引导社会情绪、动员人民群众、推动实际工作。</p>
-<p>王沪宁、刘延东、刘奇葆、栗战书和中央有关部门负责同志分别陪同参加调研和座谈会。中央新闻舆论单位负责同志、北京市有关方面负责同志、中央新闻单位编辑记者代表约180人参加座谈会。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/429657/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -911,7 +917,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -921,5 +927,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

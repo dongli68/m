@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%9C%BA%E5%85%B3%E5%A4%A7%E9%99%A2%E7%BA%A2%E5%A2%99%E6%B7%B1%E9%94%81%EF%BC%8C%E5%B0%81%E9%97%AD%E5%B0%8F%E5%8C%BA%E6%83%B3%E6%8B%86%E5%B0%B1%E6%8B%86%EF%BC%9F/" target="cdt-mirror">凯风：机关大院红墙深锁，封闭小区想拆就拆？</a>
@@ -70,7 +70,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9A%E4%B8%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E8%85%90%E6%B8%A3%E5%AD%A6%E6%A0%A1/?category=18271" rel="tag">豆腐渣学校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%90%A6/?category=18271" rel="tag">黄琦</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD%EF%BD%9C%E4%BD%99%E6%9D%B0%EF%BC%9A%E8%B0%81%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%AF%BC%E5%B8%88%EF%BC%9F-%E8%AF%BB%E5%A4%8F/" target="cdt-mirror">民主中国｜余杰：谁是习近平的精神导师？</a>
 </h2>
@@ -949,7 +949,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -959,5 +959,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

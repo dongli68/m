@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E8%92%8B%E7%BB%8F%E5%9B%BD%EF%BC%8C%E4%BB%96%E7%94%A8%E4%B8%93%E5%88%B6%E7%BB%93%E6%9D%9F%E4%B8%93%E5%88%B6%EF%BC%9F/" target="cdt-mirror">微思客 | 蒋经国，他用专制结束专制？</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-%E4%B8%8B%E5%8D%8812.15.49.png?resize=416%2C497" alt="Screen Shot 2016-02-24 at 下午12.15.49" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午12.15.49.png?resize=251%2C300 251w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午12.15.49.png?w=416 416w" sizes="(max-width: 416px) 100vw, 416px" data-recalc-dims="1"></p>
+<p>作者：南乔  台湾人，微思客特约作者。</p>
+<blockquote><p>编者按：</p>
+<p>蒋经国在其晚年，下定决心改革国民党，结束“戒严”，开放党禁、报禁，台湾从此大步走向民主。那句“我要以专制结束专制”的民谚也走红华人世界，台湾民主似乎由蒋经国的开明包容而始。</p>
+<p>今日推送，回眸台湾社会反抗专制的百年历史，盼从国际政治经济的大背景，到微观个体的思想、言行，分享给各位读者：政治权利和自由的实现既不能一蹴而就，也非“伟人”的灵光一现，更不是恩赐、仁慈。微不可计的个体行动和思考每日的沉淀，方才铸就历史。在这百年的坎坷道路上，“你的反抗有何意义？”“你有什么力量改变？”这样的问题, 可以在任意时间点抛向任何追求自由的个人和群体，成为看似坚不可破的诘问和否定。然而我想，我们大可坦然回答：“没有意义，力量亦不足”，因为提问者用这世间最无意义的事情定义了“意义”，也用这世间最虚弱的事物定义了“力量”。</p>
+<p>虽然民主一词因为极其严重的滥用而被厌烦，小编却希望“言之有物”版块能够像它的名字所说的那样，扎扎实实地将这一概念为各位厘清，补足那些教科书里缺乏或是含糊的历史细节。</p></blockquote>
+<p>台湾的民主运动与其他许多地方的运动一样，都是自下而上的。数代人的努力，往往需要面对各式不公不义，甚至殖民政权来争取民主。所谓民主，不单单只是一人一票的选举，更是一种互相尊重、自由平等、法治、热心参与公众事务的一种生活方式。在百年追求的系列书中，三位台湾著名的作家陈翠莲，吴乃德与胡慧玲将视角专注于争取民主的知识分子与小人物，在他们的奋斗当中渐渐地不仅将民主还有世界上许多现代的概念慢慢地灌入台湾这片土地当中。尽管许多努力以及尝试至今仍未成功，但是一代又一代人的努力慢慢地将这个社会带往更好的方向。</p>
+<p>近几年台湾的民主越来越需要反省以及改进，20多年来的民主化似乎遇到了瓶颈。台湾的竞争力停滞、政府效能下降、收入分配不均、立法院政党恶斗、官员违法乱纪和宪政混乱。在台湾年初太阳花运动之后许多的问题暴露了出来。以往台湾还会自傲地想向中国传授民主经验，现在恐怕有点难开口。随着时代推进，台湾在变动中的浪潮中缺乏方向，面对中国的崛起猜疑与惊恐，面对政治的混乱莫可奈何。而正是这个时间点值得我们思考台湾民主的历史以及台湾民主究竟出了什么问题。</p>
+<p><strong>1. 台湾议会</strong></p>
+<p>台湾首先正式开始追求民主的运动是1921年起开始的台湾议会设立请愿运动，当时1919年第一次世界大战甫才结束，威尔逊的民族自决理念响彻云霄，但事实证明他的理想难以转化为现实，殖民地的人民理解到争取独立自主与民主只能靠自己。在印度尼西亚民族主义团体Sarekat Islam 逐渐转变为群众性的政党，要求脱离荷兰完全独立。在印度，印度国大党也从知识分子辩论社团转型成为以群众为基础的政党，甘地也因此崛起。受到西方羞辱的奥图曼土耳其帝国见证了以群众为主的泛伊斯兰主义兴起，土耳其国父凯末尔将利用这股民气获得威尔逊所提出的国际正义。而在中国，巴黎和会中遭到出卖的讯息传回引发了五四运动，一年多之后中国共产党在上海成立。</p>
+<p>一战后的世界秩序给了全球所有殖民地和半殖民地人民一个经验和教训，西方所标榜的崇高价值并不会从殖民者手上落下，而必须透过自下而上的方式争取，有时候甚至必须诉诸武力。1919年之后世界各地一心追求独立自治的行动主义者们建立起联系，互相支持，互相分享心得与经验。在这个科技进步缩短距离的世界中，跨国合作也散布到了政治运动领域。</p>
+<p>台湾议会的请愿运动是在如此的国际环境之下展开，打从一开始这项运动背后的主张就是台湾是台湾人的台湾，这种包含拒绝殖民的言论自然不大见容于日本政府。1920蔡培火在台湾青年杂志上写下下面一段话之后，该杂志随即被日本当局禁止贩卖。</p>
+<blockquote><p>「我们台湾人置身于这无尽的天然宝库，眼底是伟大山河景色，启能无动于衷?我们绝不能悠悠闲闲，无所作为，台湾是帝国的台湾，更是我们台湾人的台湾。</p>
+<p>阿!我们台湾人是这美丽宝岛的主人翁，各位应重视此事，做为岛主的我们，应共同努力，使同胞得享乐幸福，必非梦想。」</p></blockquote>
+<p>但是诚如当时著名日本社会运动家贺川丰彦给予当时从时自治运动的台湾学生们的建议，台湾人不配谈独立，因为一个独立的国家必须具有独自的文化……不能够养成自己的文化，纵使表面具有独立的形式，文化上也是他人的殖民地。台湾议会请愿运动的基础建立在台湾文化协会在全台湾所举办各式读报，讲习等草根启蒙运动上。这些运动传播了许多现代观念，每每场次都是座无虚席，包括文化，妇女，卫生等。即使如此短时间也难以彻底改变台湾的面貌，1930年的报告显示台湾的识字率只有12.4%。自我意识和教育基础薄弱乃是当时议会请愿运动必须克服的硬伤。</p>
+<p>在请愿运动不断透过各种方式持续，而日本当局也采取分化，打压，逮捕等手段。最后在1934年终止请愿运动换取某种程度上的地方自治。此时请愿运动已经进行了15回，随着国际情势再度慢慢靠向战争，建立台湾议会的希望更为渺茫。1945年日本战败，台湾被国民党接收，台湾的民主之路进入了另外一个阶段。</p>
+<p><strong>2. 民主中国</strong></p>
+<p>国民党撤退来台湾之后，台湾也慢慢地被卷入了美苏对抗的冷战架构。1950年代见证了大量美国援助的进入和经济的重建，同时也见证了国民党政府全力控制社会和消灭挑战权威的个人和团体。最著名的，就是《自由中国》这本杂志。</p>
+<p>这次的民主运动不同于日据时代那种各种思想并发的热潮，而是专注于建立西方民主体制。说来讽刺，中华民国建立于西方的自由民主理念之上，撤退来台湾之后，这个依附于美国的自由民主阵营的台湾，在蒋介石政权下却完全背道而驰。这样的反差又因美国的外交政策而激化，1953年的韩战或是接下来的越战，以及马歇尔计划在欧洲，日本脱离美国占领进行民主选举，这些在全球范围推行的自由民主到台湾来却是对蒋氏政权独裁的支持。</p>
+<p>宋文明执笔的社论:《中国人看美国的远东政策》就有如下描述:</p>
+<blockquote><p>「美国在国内结力宣传两党政治，倡导党派之间的公平竞争，可是在远东，美国却极力维护一党专政…….美国却支持各地的政府对其人民实行专横的，法外的特务统治。」</p></blockquote>
+<p>1949年创办的《自由中国》杂志自由中国的一批人物包括雷震和殷海光等人象征着中国的自由知识分子试图在台湾进行最后建立自由民主的尝试。《自由中国》的社论不断地揭示国民党如何背弃中华民国的建国理念，以及批评独裁政权的本质。比如在蒋介石试图不断连任总统这件事情上，《自由中国》就刊载了香港一篇评论:</p>
+<blockquote><p>「蒋总统实际掌握中华民国的政权，已历30年以上……他不仅不曾为国家奠定一个安全巩固的基础，反而把国家弄成如目前这一残破不堪的景象。说在假以六年的时间…他便可以一反过去之所为…我们确实不能在对他寄以这种信心。</p>
+<p>这十年以来台湾的政治，所与过去在大陆没有宪法以前的不同之点，究竟在哪里?…..其专制独裁不求进步的态度一至如此，我们还要修改宪法，非请他做十八年乃至终身的总统不可?</p>
+<p>以中国之大，人民之多，和以只剩下如蒋总统这样一个孤家寡人，其余一切人则尽属奴才….蒋总统领导中国的政治已历三十年以上，平日应有维护人才之心，也应有培育人才之责。….蒋总统的性格，不仅不能维护，唯有摧残，不仅不能培植，为有不断加以奴化。今天到了他的垂暮之年，仍不能找出一个可以代他而起的替手，岂不是事理之当然?」</p></blockquote>
+<p>如此对蒋氏政权露骨的批评越来越令其坐立不安，蒋氏政权也慢慢发动起舆论，司法等攻势来攻击《自由中国》。但是，最终压倒《自由中国》的，还是雷震等人试图组织政党正面挑战国民党的专制。1960年，雷震在他家中遭到逮捕，象征着这波民主运动的结束。</p>
+<p><strong>3.</strong><strong>民主化</strong></p>
+<p>1971年联合国改为接纳中华人民共和国为中国在联合国唯一的合法代表彻底摧毁了国民党政权代表中国的神话。蒋氏独裁政权的基本根基反共和中国从此消失，这个根基对外赢取美国和反共国家的支持，对内合理化一切人权迫害。1975年蒋介石逝世，他的儿子蒋经国接任总统。蒋经国这人没有比他父亲好到哪里去，1950年就掌管全国情报系统，特务出身，是中华民国对内人权迫害的顶头上司。他不好读书，对民主自由人权等现代概念也兴趣缺缺。在接受美国学者Allen Whiting访问时，他就说: 「在亚洲，依党专政是为依统治的办法。政工、特务、青年救国团才能反共…..。」<strong>有些访间观点认为是蒋经国推动了台湾民主，这种观点只怕跟现实有巨大的差距，因为蒋经国从来不是一个相信自由民主的人，恰恰相反，在其任内独裁专制的特质一项也没少，甚至打压异己的手段比起他父亲更粗糙</strong>。</p>
+<p>这次的民主运动始于校园，也由杂志开始。大学杂志原本是小众刊物，后来转型成为政论杂志，批评当时越来越与现实脱节的民意机构，里面养着一群不可能行使代表权的中国各省代表。当然，蒋氏政府也有所反击，比如透过所属的新闻机构中央社匿名反对学生运动，反对自由知识分子和反对学术自由。未曾署真名的作者说:「我的政府能让我安安稳稳维持一个卑微的生存，我已经十分满足。」当时政府对此言论大喜，还特别为此印了许多小册子散发。</p>
+<p>大学杂志因为内部的分裂而后停刊，但是这不是这波民主运动的终点。诚如上述所说，1970年代国民党政权面临了政治制度与现实严重脱节的情况。政府民意机关仍然是以中国为基础的代表制，各项制度也假设台北的政府统治着全中国。比如大学联考仍然以各省人口分配名额，因此少数来台湾的外省子弟拥有台湾本地人高出近两百倍的录取机率。</p>
+<p>然而让民主运动切入的还是民意代表的补增额选举。有些省的代表经过数十年挂名之后，幕老垂垂，只能选举补上名额。党外的运动由此而生，透过不断的参选，甚至串连全台湾联合参选，并在选举期间猛烈抨击国民党行之有年的作票作弊手段(比如开票所突然停电之后多了一两箱票箱这种低劣手段) 让国民党的统治越来越站不住脚。</p>
+<p>1979年《美丽岛》杂志的创办一开办就轰动全台湾。《美丽岛》杂志由黄信介、姚嘉文、林义雄、许信良、张俊宏、施明德等人创办，其中一些人今天仍然现身于台湾政坛。该杂志兼顾草根特色和反对运动理论，一时之间形成反国民党的联合阵线。</p>
+<p>然而短短发行五期，不到一年之间国民党就透过明的阴的手段查封该杂志，也就是著名的美丽岛事件。1979年12月美丽岛在高雄举行世界人权日演讲，蒋氏政权最后出动大批军警驱散人潮，而后开始进行大逮捕行动。其中许多被逮捕的人和接下来为之辩护的年轻律师们，则成为后来民进党的创党元老，也在出狱之后积极参与开放后的地方选举和中央民意代表，逐渐成为台湾的一股政治力量，最终终结国民党的独裁。</p>
+<p>台湾在过去一百多年来的民主运动当中，和其他国家类似，都受益于特定的国际政治经济背景。从20世纪初以群众为基础的启蒙式运动，1950年代冷战架构下追求美国标榜的自由民主，再到1979年之后台湾成为国际孤儿国民党政权失去基底之后的民主化。然而真正推动台湾民主的，并不是哪个伟大的领袖，而是一个又一个世代中追求民主自由的先烈们。是普通民众对民主的坚持，终于迫使独裁者做出让步。</p>
+<p>如今台湾民主化已经20年有余，但是台湾却面临更多挑战，不仅仅是经济上的，政治上也是。太阳花运动是一个很好的例子，台湾的宪政体制漏洞百出，民意代表无法反应多元的民意。究竟如何让台湾的民主体制更符合众人的期待并能面对新时代的挑战，这个问题仍然需要深刻的探讨。无论如何，台湾过去成功的经验可供其他一样追求民主的人们借鉴，诚如今日的香港。而台湾目前遇到的困境也值得其他享有民主的人引以为鉴。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E8%92%8B%E7%BB%8F%E5%9B%BD%EF%BC%8C%E4%BB%96%E7%94%A8%E4%B8%93%E5%88%B6%E7%BB%93%E6%9D%9F%E4%B8%93%E5%88%B6%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E4%B8%BD%E5%B2%9B/?category=18271" rel="tag">美丽岛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E7%BB%8F%E5%9B%BD/?category=18271" rel="tag">蒋经国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%88%98%E6%93%8E%EF%BC%9A%E8%BF%BD%E5%BF%86%E4%B8%8E%E5%90%AF%E8%BF%AA-%E6%82%BC%E6%B1%9F%E7%BB%AA%E6%9E%97%E5%8D%9A%E5%A3%AB/" target="cdt-mirror">刘擎：追忆与启迪——悼江绪林博士</a>
 </h2>
 <p><p><strong>绪林在早春离去，却留下整整一个秋天的果实。然而，除此之外我还想说：理想主义是可贵的，但健全的现实感以及审慎、妥协甚至迂回的精神也同样是可贵的品质，也同样有古典思想的渊源。追寻理想的道路漫长，请每个人珍惜自己的生命。我们走得慢，才能走得更远。</strong></p>
@@ -921,28 +966,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E5%88%AB%E6%80%AA%E6%88%91%E5%AF%B9%E7%9D%80%E3%80%8C%E5%85%9A%E5%AA%92%E5%A7%93%E5%85%9A%E3%80%8D%E7%8B%82%E5%96%B7%E3%80%80%E9%83%BD/" target="cdt-mirror">东网｜王药师：别怪我对着「党媒姓党」狂喷　都是你们逼的</a>
-</h2>
-<p><p>死人这种事情，天天都在发生，比如阎肃之死，原本除了其家人和那些靠唱他所写赞歌立功晋升的文职将军们外，没多少人会在意。可有了七常委的花圈加持，效果就完全不一样。同样的，对于刚刚离世的「老右派报人」戴煌，许多人甚至连听都没有听说过，但由于恰好撞上新闻舆论工作座谈会的召开，相关媒体及媒体人谄媚、舔菊丑态百出，故而老先生的死受到了更多人的关注，其人生也被发掘出某种镜像意义。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/k9aa.jpg?resize=400%2C294" alt="k9aa" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/k9aa.jpg?resize=300%2C221 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/k9aa.jpg?w=400 400w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></p>
-<p>「岂有文章倾社稷，从来佞幸覆乾坤」──这是戴煌说的，蒲立业们学着点，那才是诗。</p>
-<p>财新网在回顾这位「老右派报人」的生平时，用了《大记者戴煌》的标题，相比较而言，如今的许多媒体和媒体人是何其之「小」？把春晚办成文艺新闻联播还不算，党魁走马观花逛几家媒体，都能把你们激动成这样──先是新华社副主任蒲立业「手指滚烫」写诗赞叹，「您的背影我的目光」「今天有诗撕开我的胸腔」，接着有央视的屏幕宣言：「央视姓党，绝对忠诚，请您检阅」，再然后，最高领导人关于新闻工作的 48 字方针居然登上人民日报报眼──过去放毛语录的地方，「党媒姓党」的最高指示更是风传全国，成为次日各报头版的不二标题。</p>
-<p>如此大张旗鼓，这般恬不知耻，在早有不臣之心的社交媒体上自然是炸开了锅。人们或者埋头梳理历朝历代的赞美诗，从李白的「云想衣裳花想容」，到郭沫若的「毛主席呀毛主席，你真赛过我亲爷爷」，都被一一拎出来示众评点；或者忙着给 CCTV 改名「党中央电视台」并制作新台标；还有人甚至翻出当年朱熔基给央视的题词，「舆论监督，群众喉舌，政府镜鉴，改革尖兵」，与今上的「党和政府主办的媒体是党和政府的宣传阵地，必须姓党」两厢对照，顿时有种不知今夕何夕的错乱感。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbt1BZCUcAIzxuC.jpg?resize=551%2C395" alt="Cbt1BZCUcAIzxuC" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbt1BZCUcAIzxuC.jpg?resize=300%2C215 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbt1BZCUcAIzxuC.jpg?resize=768%2C550 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbt1BZCUcAIzxuC.jpg?resize=1024%2C734 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbt1BZCUcAIzxuC.jpg?w=1200 1200w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>其实，历史地看，习的讲话不过是延续了中共对于新闻媒体一贯的定位和要求，虽然措辞简单粗暴了点，但并没有本质上的差别。所谓「央视姓党」虽然不中听，说的却也是实话。事实上在内地，除了网络站点没有彻底党化，传统媒体哪家不姓党，不姓党会被叫做党报、党台、党刊？至于说蒲诗人的舔菊诗，恶心是恶心了点，但跟汶川地震时王兆山主席所作的「党疼国爱，声声入废墟。十三亿人共一哭，纵做鬼，也幸福」比起来，毕竟还没有到拿死人开玩笑的地步。之所以这一次舆论反应如此激烈，除了多种恶心点汇聚所产生的叠加效应外，我想关键还在于社会的整体气氛和大背景不同了。</p>
-<p>自从有互联网，特别是以论坛、微博为代表的社交媒体勃兴以来，官方与民间基本处于你讲你的建设成就，我扒我的负面新闻，你放你的新闻联播，我上我的天涯凯迪，各说各话的状态。虽然有些人「打通两个舆论场」的努力最终以失败而告终，但总体还算相安无事。这种状态如果能够延续下去，本来倒也不错，即便所有媒体都姓党，所有版面都只登一个人的消息，大伙也不会太在乎。毕竟这年头，早就没几个人还在读报纸看联播了，许多新闻基本处于谁写谁看、写谁谁看的状态。</p>
-<p>然而最近这几年，最高当局显然越来越不安于坐守原有的媒体阵地，从整顿微博、严打大 V ，到删帖、删号，权力陆续打出一连串的组合拳，一步步越过楚河汉界，企图以强制手段硬性统一两个舆论场，实现对言论空间完全、彻底的占领。从表面上看，权力无疑获得了绝对的胜利，原本脆弱的舆论生态平衡已被彻底打破，反抗的人群风流云散，异议的声音也被压低到了最小分贝。但传播学的经验告诉我们，你能够限制人们的视野，决定人们谈论什么话题，却无法决定人们如何谈论这个话题，谈论的角度和方式。</p>
-<p>所以，别怪我对着「党媒姓党」狂喷，都是你们逼的。要不是你们铺天盖地小广告般地乱贴「同心共圆中国梦」海报，要不是你们狂删乱封搞得微博上只剩下「正能量」的逗逼口号，要不是你们好为人师把个娱乐节目都硬生生弄成政治说教，谁特么有心情跟你们讨论百家姓。换一句比较文艺的话讲，「岂有文章倾社稷，从来佞幸覆乾坤」──这是戴煌说的，蒲立业们学着点，那才是诗。<img alt=""></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E5%88%AB%E6%80%AA%E6%88%91%E5%AF%B9%E7%9D%80%E3%80%8C%E5%85%9A%E5%AA%92%E5%A7%93%E5%85%9A%E3%80%8D%E7%8B%82%E5%96%B7%E3%80%80%E9%83%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -954,7 +977,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -964,5 +987,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%BB%99%E6%88%91%E4%BB%AC%E6%96%B0%E9%97%BB%E5%AA%92%E4%BD%93%E6%92%91%E4%BA%86%E8%85%B0/" target="cdt-mirror">【异闻观止】总书记给我们新闻媒体撑了腰</a>
+</h2>
+<p><p><strong>导 语 习近平总书记在党的新闻舆论工作座谈会上的重要讲话，引发强烈反响和广泛热议。本周刚上班，中央网信办迅即组织总书记讲话精神传达学习座谈会。座谈会气氛热烈，各方发言极富代表性。传播君现场观察，为你做忠实记录。</strong></p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/64001UU2XF9.jpg?resize=522%2C310" alt="中央网信办组织新闻网站和主要商业网站集体学习习近平总书记在党的新闻舆论工作座谈会重要讲话精神（中国网信网 郭研摄）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/64001UU2XF9.jpg?resize=300%2C178 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/64001UU2XF9.jpg?w=522 522w" sizes="(max-width: 522px) 100vw, 522px" data-recalc-dims="1"><p>中央网信办组织新闻网站和主要商业网站集体学习习近平总书记在党的新闻舆论工作座谈会重要讲话精神（中国网信网 郭研摄）</p></div>
+<p>昨天（2月22日），15家媒体高层齐聚中央网信办，学习上周五总书记在党的新闻舆论工作座谈会上的重要讲话。会议由中央网信办传播局副局长孙凯主持，除部分中央重点新闻网站和地方新闻网站代表出席外，传播君还看到了求是网等理论网站、百度等商业网站以及侠客岛等“两微一端”的代表。</p>
+<p><strong>自信源于党性，总书记给我们新闻媒体撑了腰</strong></p>
+<p>“总书记给我们新闻媒体撑了腰”，侠客岛新媒体负责人张远晴一句话道出与会媒体的心声。<strong>网易网副总编辑刘洋</strong>说，总书记“对整个新闻业界的关注对我们是很大的鼓舞。”</p>
+<p>“总书记就党的新闻舆论工作作出战略部署，为我们提供了强大思想武器和根本遵循。”<strong>求是网副总编辑张妍</strong>说，新闻舆论工作处在意识形态斗争最前沿，必须把爱党护党为党、恪守姓党原则放在首位。<strong>千龙网总编辑黄庭满</strong>也坚定地说，总书记讲媒体必须姓党，新闻网站也必须姓党，也必须坚持正确的政治方向。“在这一点上，不能含糊，不能迷糊，不能模糊。”</p>
+<p>信任更是责任，做好治国理政、定国安邦的大事</p>
+<p>“党的新闻舆论工作是党的一项重要工作，是治国理政、定国安邦的大事。”习近平总书记重要讲话鼓舞人心，与会媒体纷纷表示要强化使命意识、担当意识。<strong>中国新闻网副总编辑齐彬</strong>说，“习总书记的讲话是对新闻战线的重要期许，我们作为从业人员既感到责任重大，同时也备受鼓舞。”<strong>百度副总编辑郑文彬</strong>则表示，“学习原汁原味的讲话精神，这对我们商业网站是一种信任和要求。”</p>
+<p>责任成了与会代表共同的感受，<strong>中国青年网副总编辑王海</strong>表示，中国青年网要实现团媒引领青年跟党走的使命。<strong>搜狐网副总编辑徐文</strong>说，“商业网站也要担负起这样的责任，对得起这样的信任。”<strong>今日头条副总编辑王强</strong>认为，“不仅有媒体责任，还有社会责任，国家责任。”今日头条要在促进媒体融合、推动正能量传播上多做工作。</p>
+<p>心动还需行动，让党的主张成为网络空间最强音</p>
+<p>正如<strong>中央网信办传播局新闻处处长程志良</strong>所说，网信系统要坚持党性原则，充分发挥互联网巨大传播优势，让主旋律、正能量主导网络空间，让党的主张成为网络空间最强音。会议现场，各与会代表谈体会、讲特色、谋发展，结合自身实际提出发展举措。</p>
+<p>国际在线总编辑范建平表示，国际在线要发挥好舆论优势，增强国际影响力，讲好中国故事。<strong>新浪网政府公共事务总监胡春莉</strong>说，“充分利用自身平台优势和资源优势，推动融合发展，强化创新精神。”<strong>新浪微博政府及媒体事业部总经理陈丽娜</strong>表示，在澄清谬误，明辨是非上，新浪微博将继续完善辟谣功能，让真实客观的声音传播出去。<strong>凤凰网总编辑邹明</strong>说，“习总书记说要增加中国媒体的国际话语权，这对我们来说意义重大，凤凰网不会缺席。”</p>
+<p><strong>腾讯网政府事务部副总监张安洁</strong>说，“总书记重要讲话意义非凡，我们将在公司内部多次培训传达，将精髓加以消化和吸收，落实到工作中的每个环节。”</p>
+<p>以本次座谈会为开端，整个网信系统系列学习活动还将持续开展。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%BB%99%E6%88%91%E4%BB%AC%E6%96%B0%E9%97%BB%E5%AA%92%E4%BD%93%E6%92%91%E4%BA%86%E8%85%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%90%91%E6%AF%9B%E4%B8%BB%E5%B8%AD%E5%AD%A6%E4%B9%A0%E8%AE%B2%E7%9C%9F%E8%AF%9D/" target="cdt-mirror">【习总日记】 向毛主席学习讲真话</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，2，24）</p>
@@ -854,72 +878,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E4%BB%8E%E5%BC%95%E5%8A%9B%E6%B3%A2%E5%89%A7%E6%83%85%E5%A4%A7%E5%8F%8D%E8%BD%AC%E8%B0%88%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84/" target="cdt-mirror">知识分子 | 从“引力波”剧情大反转谈中国社会的“科学”现实</a>
-</h2>
-<p><p>作者：张双南 中国科学院高能物理研究所研究员</p>
-<p>近日最大的刷屏事件就是LIGO发现了两个黑洞并合产生的引力波。对于引力波我只知皮毛，所以没有接受任何媒体的约稿、采访以及所有的讲座邀请，但是还是写了一点我知道的八卦以及我的看法，贴在朋友圈上也被一些微信公众号转发以及一个报纸转载了部分内容。</p>
-<p>我有一个梦想，就是希望通过这次的引力波刷屏事件，在中国公众中普及科学精神，因此我也积极参与了有关的科普活动。但是让我大跌眼镜的是，最近两天的“五年前他首提引力波”、“他们欠他一个道歉”闹剧竟然也刷屏了，而且支持者甚众，有不少人还是在学的理工科大学生、研究生或者已经接受了良好教育的知识分子。</p>
-<p>看来我的梦想只是个梦，醒来仍然得面对现实！</p>
-<p>这次刷屏事件的主人公何许人也？我其实不想提他的个人情况，因为中国大地盛产这种人，我本人就和这种人打过很多次交道。最近的一次是和一个中学生对话，我当时非常担心这位中学生也步入这种人的行列。</p>
-<p>这种人就是百度百科所描述的“民科”：</p>
-<blockquote><p>“民科（全称民间科学爱好者）指民间科学家，但又区别于广义上的科学爱好者和非官方科学家。他们身上具备的一般特征有：没有受过科学训练，也无意接受科学训练；不懂科学理论，但对科学研究感兴趣，并致力于研究科学。”</p>
-<p>“民科们往往希望一举解决某个重大的科学问题，试图推翻某个著名的科学理论，或者致力于建立某种庞大的理论体系，但却不接受也不了解科学共同体的基本范式，因此不能与其进行基本的学术交流。专业的科学工作者多对民科持否定态度，而部分人文学者抱有浪漫的想法，认为应当鼓励民间科学研究。”</p></blockquote>
-<p>百度百科的这个条目非常好，建议大家认真看看，对于提高科学素养和甄别民科非常有用。 但这不是我写本文的重点，我是想通过这件事反思一下中国社会的“科学”传统和“科学”现实。</p>
-<p>顺便说一下，针对我和那位中学生的对话，“知识分子”做了问卷调查，但是结果让我非常震惊，因为很高比例的读者竟然支持中学生们往“民科”的方向走，难怪中国盛产“民科”。考虑到“知识分子”的读者应该是中国社会科学素养较高的人群，这个结果让我非常忧虑中国社会的“科学”现实。</p>
-<p><strong>中国古代四大发明是科学吗？</strong></p>
-<p>在谈到中国古代的造纸术、指南针、火药和活字印刷术这四大发明的时候，通常都说是四大科学发明或者四大科技发明。实际上，这四大发明尽管非常伟大，是中国对人类文明的重要贡献，但是它们都不是科学，而只是技术。由于我们的祖先没有刨根问底地去研究这些技术背后的规律，因此不但没有发展成为化学、电磁学、地球物理、自动化等科学学科，当时先进的技术也逐渐被西方超越。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-21-at-%E4%B8%8B%E5%8D%884.54.44.png?resize=569%2C325" alt="Screen Shot 2016-02-21 at 下午4.54.44" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-21-at-下午4.54.44.png?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-21-at-下午4.54.44.png?w=569 569w" sizes="(max-width: 569px) 100vw, 569px" data-recalc-dims="1"></p>
-<p>北京大学的饶毅教授最近引用了美国一个科学家对于中国古代没有研究科学的后果的评论[1]，说明美国人很清楚中国为什么落后，当然也很清楚他们的未来。我把饶毅教授的这段文字抄录如下：</p>
-<blockquote><p>1883年，美国科学家罗兰在美国《科学》杂志上撰文，有几句话非常刺激。他说，“我时常被问及，科学与应用科学究竟何者对世界更重要，为了应用科学，科学本身必须存在，如停止科学的进步，只留意其应用，我们很快就会退化成中国人那样，多少代人以来他们都没有什么进步，因为他们只满足于应用，却从未追问过原理，这些原理就构成了纯科学。中国人知道火药应用已经若干世纪，如果正确探索其原理，就会在获得众多应用的同时发展出化学，甚至物理学。因为没有寻根问底，中国人已远远落后于世界的进步。我们现在只将这个所有民族中最古老、人口最多的民族当成野蛮人。当其他国家在竞赛中领先时，我们国家（美国）能满足于袖手旁观吗？难道我们总是匍匐在尘土中去捡富人餐桌上掉下的面包屑，并因为有更多的面包屑而认为自己比他人更富裕吗？不要忘记，面包是所有面包屑的来源。”</p></blockquote>
-<p><strong>李约瑟难题</strong></p>
-<p>事实上，中国古代的天文观测也比西方发达，但是在人类认识宇宙的七次飞跃中都无所作为。在理论方面中国古代的天文发展成了占星术，但是没有发展成为现代意义上的天文学。在技术方面中国古代的天文主要是服务于农业，但是没有产生现代科学。</p>
-<p>因此就有了著名的李约瑟难题：“中国古代的文化和技术都远远比西方发达，但是为什么没有产生现代科学？”</p>
-<p>对李约瑟难题的研究直到今天都一直很多，我本人并没有系统地研究过这个问题，在这里仅仅从以下三个方面进行简单和初步的探讨。</p>
-<p><strong>两个和天文有关的古代寓言故事</strong></p>
-<p>在文革期间的“批林批孔”的运动中，我在课堂上知道了“两小儿辩日”的故事：孔子东游，见两小儿辩斗，问其故。一儿曰：“我以日始出时去人近，而日中时远也。” 一儿以日初出远，而日中时近也。一儿曰：“日初出大如车盖，及日中则如盘盂，此不为远者小而近者大乎？” 一儿曰：“日初出沧沧凉凉，及其日中如探汤，此不为近者热而远者凉乎？”孔子不能决也。两小儿笑曰：“孰为汝多知乎？”</p>
-<p>到底是早晨还是中午太阳离人近，肯定只有一个答案，但是这个故事没有得到这个答案就结束了，而且这个答案中国人始终也没有得到[2]。至于故事里面谈到的现象，本来是严肃的地球大气科学、光学、测量学等科学问题[3]，但是两千多年以来在中国一直没有作为科学问题进行研究，反而作为孔子的笑料[4]。</p>
-<p>这是一个以诡辩代替刨根问底、以赢得辩论代替追求真理的典型案例。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-21-at-%E4%B8%8B%E5%8D%884.55.57.png?resize=484%2C462" alt="Screen Shot 2016-02-21 at 下午4.55.57" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-21-at-下午4.55.57.png?resize=300%2C286 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-21-at-下午4.55.57.png?w=484 484w" sizes="(max-width: 484px) 100vw, 484px" data-recalc-dims="1"></p>
-<p>上图“杞人忧天”的寓言故事在中国则是更加深入人心，已经成为了脍炙人口的成语：杞国有人忧天地崩坠，身亡所寄，废寝食者。又有忧彼之所忧者，因往晓之，曰：“天，积气耳，亡处亡气。若屈伸呼吸，终日在天中行止，奈何忧崩坠乎？” 其人曰：“天果积气，日、月、星宿，不当坠耶？”晓之者曰：“日、月、星宿，亦积气中之有光耀者，只使坠，亦不能有所中伤。”其人曰：“奈地坏何？” 晓之者曰：“地，积块耳，充塞四虚，无处无块。若躇步跐蹈，终日在地上行止，奈何忧其坏？” 其人舍然大喜，晓之者亦舍然大喜。</p>
-<p>气、日、月、星宿和地为什么不塌，都是严肃的大气科学、天文学、力学和地球科学等科学问题，但是两千多年以来在中国仅仅作为嘲笑“不切实际”的人的笑料广为流传，没有作为科学问题进行研究。</p>
-<p>这是一个以自圆其说代替刨根问底、以实用主义代替追求真理的典型案例。</p>
-<p><strong>中国传统思想和实用主义</strong></p>
-<p>请读者想想在我们身边是不是还在不断地发生着类似上面这两个寓言故事的事情：以诡辩或者自圆其说代替刨根问底、以赢得辩论或者实用主义代替追求真理？出现这种现象的原因在于中国的传统思想和实用主义对中国人的思维造成了根深蒂固的影响，是科学没有产生在中国以及中国传统文化中严重缺乏科学精神的主要原因。</p>
-<p>中国并不缺乏思想家，也不缺乏对整个宇宙的思考。但是中国传统文化强调的是人和自然、人和宇宙的关系，并不重视探索统治自然和宇宙的规律，更不重视研究可以实证的规律。中国的传统思想家满足于形成一套可以自洽的思想体系，而不重视思想体系对自然现象的解释、应用、以及预言新现象。因此这些思想体系不能也没有被发展成为真正的科学理论。</p>
-<p>所以中国传统文化中缺少基本的科学理念，也就是任何现象都受基本规律的制约。毋庸置疑，中国古代的技术曾经领先世界，对整个人类文明做出过辉煌的贡献。中国古代的农学、药学、天文学、数学等都曾经世界领先，但是在这些方面强调的是实用性，都是在总结经验的基础上产生一些实用的知识，而没有对这些知识做出进一步的理性和系统的整理和抽象概括，探索内在规律成为系统的科学理论。</p>
-<p>因此中国古代科学发展落后或者中国古代没有产生科学理论的一个重要原因在于中国古代的技术极端强调实用性。但是实用性眼光不够远大，设定的发展空间极小，一旦现实不提出直接的要求，它就没有了发展的动力。</p>
-<p>这一点和西方所开创的科学体系完全不同：不以实用为目的，为追求规律而追求规律，这就为科学的发展开辟了无限的空间，形成了一次又一次的科学革命，而科学革命最终（可能是几十年甚至上百年之后）带来了一次又一次的技术革命，这在天文学以及现代科学与技术的发展历史中都得到了清楚和生动的展示。</p>
-<p>但是中国在历次科学或者技术革命中都无所作为，甚至是受害者。尽管清朝时中国的GDP已经世界第一，但是仍然没有避免大清帝国的沦落所直接导致的中国近代史上近一个世纪的半封建半殖民主义的社会。没有刨根问底的惨痛教训我们永远不能忘记!</p>
-<p><strong>现代版的李约瑟难题：钱学森之问</strong></p>
-<p>现在中国的科学远远落后于发达国家，造成这种现状的原因是多方面的，但是我们前面讨论的中国社会普遍缺乏科学精神应该是一个关键原因，而整个社会的状况则和教育密不可分。</p>
-<p>任何一个社会在某方面的状况总是由该方面的最杰出人才所代表的。比如众所周知美国现在是国际上科学和技术创新都最先进的国家，技术创新的代表人物就是家喻户晓的盖茨和乔布斯，而很多诺贝尔奖获得者都是科学创新的代表人物[5]。</p>
-<p>中国在科学方面的落后就表现在没有科学大师，而这必然是学校的教育出了问题，因此就有了钱学森之问：为什么我们的学校总是培养不出杰出人才？</p>
-<p>事实上，中国的教育还是出现过短暂的辉煌：条件极差的西南联大培养出了两个诺贝尔奖获得者和一批国际级的科学和各种学术大师。但是后来的以北京大学和清华大学为代表的中国高等教育培养出了什么大师？</p>
-<p>再回头看看，经济落后的文革前和文革期间，中国还是出了一批国际水平的科学成果并成就了两弹一星的伟业，但是改革开放以后有什么重大科学创新和重大技术成果？</p>
-<p>详细解答“钱学森之问”是非常困难的话题，所以我在这里不试图展开讨论。但是有一点很值得我们思考：在西南联大以及经济落后的文革前和文革期间，急功近利和实用主义不是社会的主旋律。相反，不可否认的是，那是理想主义的时代，是激情燃烧的岁月，但是那样的时代已经一去不复返了，我们也不愿意而且也坚决不会再回到那样的时代。</p>
-<p><strong>李约瑟难题和钱学森之问的逆问题</strong></p>
-<p>关于李约瑟难题和钱学森之问，限于篇幅和本人的学识，前面只进行了简要的探讨，但是我们认识到中国社会普遍缺乏科学的精神应该是一个关键的因素，而要改变一个庞大的、有着极长（悠久）历史的社会的思维模式和价值观是非常困难的，也是要经过极长周期的。</p>
-<p>但是我们也可以问李约瑟难题和钱学森之问的逆问题：中国需要先进的科学吗？中国需要大批的科学大师吗？</p>
-<p>恐怕大部分人都会回答：“需要”。但是在一个普遍缺乏科学的精神的社会，这个回答没有太大的意义。</p>
-<p>实际上，批评中国社会普遍缺乏科学的精神肯定是不受欢迎的，因为“科学”似乎在中国大地极为深入人心，我们甚至于把所有好的或者有道理的东西都说成是“科学的”，所有不好的或者没有道理的东西都说成是“不科学的”，这在科学的发源地欧洲和科学最发达的美国都是不可想象的。这其实是“泛科学化”的体现，导致“科学”这两个字在中国已经基本上失去了其本来的意义。</p>
-<p>试问，中国社会上有多少人能够回答出“科学的目的、精神、方法”的哪怕一条或者一条的其中一个内容？</p>
-<p>根据我的经验，这个比例恐怕是惊人的小，而且即使受过高等教育或者从事科学研究的高层次人才也不一定都说得清楚什么是科学。有一次在我以本文的主题演讲之后，有一位“科学普及”专业的研究生发言，认为我的演讲是反科学的，对于科普工作极为不利。我在和他沟通之后才知道，他对于什么是科学几乎完全说不清楚，而说出来的几乎都是错误的。</p>
-<p>要说中国的教育没有科学是肯定不对的，基本上从小学开始就开始教“科学”。但是，中国的教育普遍只传授科学知识，而很少讲科学精神、几乎不教科学方法，甚至中国绝大部分的“科普”培训和“科普”工作也是如此。这实际上也是中国文化的极端实用化的一个体现，因为科学知识“有用”，但是科学精神和科学方法看不见摸不着，所以教不教也无所谓，学不学也无所谓。这也是中国社会普遍缺乏科学的精神的一个真实反映。</p>
-<p>靠这种“科学教育”和“科学普及”，不但中国的“民科”层出不穷而且“民科们”还经常得到大力宣传和支持也就不奇怪了。</p>
-<p><strong>注释：</strong></p>
-<p>[1]摘自2012年6月8日文汇报，6月2日下午北京大学生命科学院院长饶毅做客第54期文汇讲堂，主讲《海归能推动中国科研改革吗？》</p>
-<p>[2]我的意思不是现在中国人仍然不理解这个问题。我想说明的是，直到西方科学传到中国之前，中国人一直没有认真地研究并解决这个问题。苏定强院士在给本文作者的信中指出，南京大学戴文赛先生研究过这个问题并发表在《南京大学学报》（大概是1955年第一期上），结论是：太阳有时早晨近，有时中午近，但差得不大。</p>
-<p>[3]苏定强院士在给本文作者的信中对有关问题做了精彩的评论，现摘编如下：“中国古代这个故事流传了两千年，如果量一下太阳的角直径就会知道，水平方向早晨和中午相同（微小的差别古代人是量不出的），垂直方向早晨的角直径小一点（太阳升起时是扁的），也就是太阳早晨的视面积比中午小一点，得到的结论应是太阳早晨远，然后就会联想到，看起来早晨近（大）是视觉错误。但太阳早晨的视面积比中午的小得不多，不至于引起早晨比中午凉那么多，于是会猜想地面可能存在大气，大气会吸光，早晨凉主要是阳光穿过大气的路径长，太阳形状扁很可能也是大气造成的，会得到好几个科学结果和猜想。如果更进一步，一年四季频繁地测太阳角直径，就会发现地球绕太阳的轨道是椭圆，太阳在椭圆的一个焦点上，甚至得到运行时相同时间扫过相同面积，如果这种测量在开普勒之前，那就对地球（一颗行星）比开普勒更早得到了开普勒第一和第二定律，有了这样的结果就很容易推广到其他行星。”</p>
-<p>[4]至少在文革期间的“批林批孔”的运动中，我的老师们在课堂上就是这么解读这个寓言故事的。</p>
-<p>[5]当然很多诺贝尔奖也授予了具有重大意义的技术创新，比如光纤通信、CCD、全息、综合孔径、激光等重大技术。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E4%BB%8E%E5%BC%95%E5%8A%9B%E6%B3%A2%E5%89%A7%E6%83%85%E5%A4%A7%E5%8F%8D%E8%BD%AC%E8%B0%88%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%A4%A7%E5%8F%91%E6%98%8E/?category=18271" rel="tag">四大发明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E7%A7%91/?category=18271" rel="tag">民科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E7%A7%91%E5%AD%A6/?category=18271" rel="tag">民间科学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E7%A7%91%E5%AD%A6%E7%88%B1%E5%A5%BD%E8%80%85/?category=18271" rel="tag">民间科学爱好者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6/?category=18271" rel="tag">科学</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -931,7 +889,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -941,5 +899,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

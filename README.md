@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%86%B0%E7%82%B9%E7%89%B9%E7%A8%BF-%E4%B9%B0%E6%88%BF%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/" target="cdt-mirror">冰点特稿 | 买房那些事儿</a>
@@ -339,7 +339,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E5%95%86/?category=18271" rel="tag">台商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA%E7%9C%8B%E5%A4%A7%E9%99%86/?category=18271" rel="tag">台湾人看大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8F%B0%E5%95%86/?category=18271" rel="tag">大陆台商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%85%E7%BB%BF%E8%9B%99/?category=18271" rel="tag">浅绿蛙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9C%B1%E5%85%B6%E5%9C%A8%E8%BF%99%E9%87%8C-%E3%80%8A%E5%BC%B1%E5%8A%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%AC%A7%E7%9B%9F%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E4%BA%BA%E6%9D%83%E3%80%8B/" target="cdt-mirror">朱其在这里 | 《弱势：中国和欧盟的艺术与人权》展览</a>
 </h2>
@@ -400,7 +400,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E5%95%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%8B%AC%E7%AB%8B%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%81%94%E7%9B%9F/?category=18271" rel="tag">中国独立艺术家联盟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%95%E8%A7%88/?category=18271" rel="tag">展览</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">当代艺术</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E5%85%B6/?category=18271" rel="tag">朱其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A7%E7%9B%9F/?category=18271" rel="tag">欧盟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A7%E7%9B%9F%E9%A9%BB%E5%8C%97%E4%BA%AC%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">欧盟驻北京使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">维权艺术家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">艺术</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">艺术家</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%9C%BA%E5%85%B3%E5%A4%A7%E9%99%A2%E7%BA%A2%E5%A2%99%E6%B7%B1%E9%94%81%EF%BC%8C%E5%B0%81%E9%97%AD%E5%B0%8F%E5%8C%BA%E6%83%B3%E6%8B%86%E5%B0%B1%E6%8B%86%EF%BC%9F/" target="cdt-mirror">凯风：机关大院红墙深锁，封闭小区想拆就拆？</a>
 </h2>
@@ -938,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

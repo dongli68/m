@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9C%B1%E5%85%B6%E5%9C%A8%E8%BF%99%E9%87%8C-%E3%80%8A%E5%BC%B1%E5%8A%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%AC%A7%E7%9B%9F%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E4%BA%BA%E6%9D%83%E3%80%8B/" target="cdt-mirror">朱其在这里 | 《弱势：中国和欧盟的艺术与人权》展览</a>
+</h2>
+<p><p>展览名称：《弱势：中国和欧盟的艺术与人权》；<br>
+展览时间：2016年2月22日；<br>
+展览地点：欧盟驻北京使馆（北京东直门外15号）；<br>
+主办：欧盟驻华使馆文化处；<br>
+协办：中国独立艺术家联盟；<br>
+项目管理：艾莉雅；<br>
+展览发起：杨伟东、朱其、艾莉雅；<br>
+策展人：朱其；<br>
+参展艺术家：陈庆庆，陈光，戴翔，代化，高氏兄弟，莫毅，王钟，肖鲁，徐勇，俞心樵，杨伟东。</p>
+<p>由我策展的《弱势：中国和欧盟的艺术与人权》2月22日晚上6:00在欧盟驻北京使馆开幕；欧盟驻中国大使到场作开幕式发言。我的开幕发言：今天是中国的特殊节日元宵节，中国处在一个复杂的转型时期，这个国家在强大起来，但作为个人却有一种弱势感，这种弱势不仅指公民权利及其权利受到伤害的人群，还指每个人在转型背景下的一种内心的脆弱感。中国的艺术家试图传递一种社会感受，但这种感受比十年前要复杂而脆弱得多。因此，“弱势”这个词带给我们在场所有人一种微妙的情绪。这一情绪基于我们关心一个共同的问题：中国将会如何改变？这个问题不仅是中国人的，也是世界的问题。比起政治，也许通过艺术的途径，能更好的传达我们内心忧虑而脆弱的信息。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.04.30.png?resize=478%2C357" alt="Screen Shot 2016-02-23 at 下午3.04.30" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.04.30.png?resize=300%2C224 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.04.30.png?w=478 478w" sizes="(max-width: 478px) 100vw, 478px" data-recalc-dims="1"><br>
+欧盟使馆</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.05.07.png?resize=476%2C356" alt="Screen Shot 2016-02-23 at 下午3.05.07" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.05.07.png?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.05.07.png?w=476 476w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br>
+开幕式策展人朱其发言</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.05.56.png?resize=472%2C632" alt="Screen Shot 2016-02-23 at 下午3.05.56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.05.56.png?resize=224%2C300 224w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.05.56.png?w=472 472w" sizes="(max-width: 472px) 100vw, 472px" data-recalc-dims="1"><br>
+展览海报</p>
+<p>“弱势”：转型时期的公民视野</p>
+<p>文/朱其</p>
+<p>中国正处于一个急剧变革的转型时期，当代艺术呈现出一种公民视野，关注公民权利、女性主义、底层的身体经验、性工作者、城市的空间经验、政治记忆、现代史等。这些社会议题反映出一个共同的视角：一种弱势方的社会观看。</p>
+<p>每个社会都会有弱势的社群，但在中国社会“弱势”成为艺术家的一种带有焦虑感的视野。自1949年之后，尽管社会主义事实上存在一种等级制度，但意识形态上仍强调这是一个人人平等的社会，人民是国家的主人。1970年代末的改革打破了这一平等意识的幻觉，不仅经济财富重新划分了人群，而且这种差距越来越大。</p>
+<p>经过改革30年，“权贵资本主义”成为主流词汇，人们相信中国正出现一个拥有政治、经济等垄断资源的“利维坦”式的利益集团，与此相比，多数人成为这个社会的不对称的“弱势”方，这一感受在拆迁抗争、律师维权、环境污染工厂的抗议等公民权利运动中尤为明显。</p>
+<p>在中国社会内部，人们正在感受到一种面对国家经济强大的不安感，这种不安感来自国家权力的利维坦式的崛起。在这个集权型的巨型体量前，每个人都会有一种弱势感，这一感受不可避免成为当代艺术的一个观看视角，虽然这一视角的作品经常是以抗争姿态或公民意识出现的。</p>
+<p>时至今日，一个高频率的词汇更替是从“人民”到“公民”的转变。“人民”一词在19世纪中期俄国民粹主义思潮成为一个将大众从专制中救赎出来的特定用语，这个词之后成为俄国革命思想的核心价值，从20世纪初成为中国革命的道德诉求的核心词汇。但今天中国社会更多人愿意使用“公民”一词，以便与共产主义革命的含义区别，公民一词是为了表示中国社会对于公民社会的意愿。</p>
+<p>所有涉及社会议题的当代艺术，几乎都具有一种公民视角。杨伟东和杜兴夫妇已花费了五、六年时间制作一部关于中国社会各阶层公民访谈的纪录片《立此存照：500位中国人的心灵记录》，同时杨伟东还以邮寄艺术的方式，以公民个人的名义，用快递向政府高官发出公民访谈的邀请，当然几乎都遭到冷遇，因为这是一种悬殊的政治身份不对称的关系。</p>
+<p>艺术家王钟曾经关注中国的地下教会的议题，他用雕塑装置的形式表现一群大学生基督徒周末聚会，以家庭团契的方式阅读圣经。他近年制作了一组公民抗议的雕塑，它由上百个无名的举牌公民的群像构成。这个议题来自有关维权、环保、要求官员公示财产等以举牌进行自由表达的公民现象，虽然这一公民举牌经常被视为一种未经允许的行为。</p>
+<p>另一个艺术家戴翔曾以表演摄影的反讽方式，表现意识形态教育的官方偶像“雷锋”的议题，作为“人民”的道德新人，回到消费主义的农村家乡。他的一个新作是《清明上河图》，这幅摄影作品挪用了中国古代表现商业城市全景的绘画《清明上河图》，他将中国在转型时期各种社会冲突的新闻事件，巧妙地拼贴在这幅绘画的图像结构中，尤其表现了弱势群体的生存困境。</p>
+<p>消费主义对中国社会的空间景观改变以及弱者的生存方式，成为当代艺术的一个重要议题。高氏兄弟曾经创作了一个城市烂尾楼背景的空间景观的表演摄影“用不完工的大厦”，“烂尾楼”是指商业大楼项目因为资本不足，没有钱对大楼进行后期装修，使一个水泥结构的毛胚大楼废弃在城市中。高氏兄弟让一个个孤独的个人站在废弃大楼的各个角落，使巨型的烂尾楼与渺小的个人之间构成一种不对称的象征形式，个人的身体站在象征着资本利维坦的巨型结构中显得异常弱小。</p>
+<p>中国的经济改革造就了一批垄断资本集团，这些资本暴发户阶层在中国表现出一种纸醉金迷式的消费，于是中国就产生了一批从事性交易工作的青年女性。艺术家徐勇邀请一名从事性交易的女性作为共同创作人，以她为模特表演拍摄了一批寓言性的社会反讽的摄影，该女性不仅拥有作品的署名权，还分享作品的销售收入。</p>
+<p>事实上，女性主义一直是中国当代艺术的重要议题。陈庆庆是一位1990年代以来重要的女性艺术家。她的作品是一种超现实风格的女性主义寓言，表现有关女性的意念、幻想、日常感性、女性化的材料，以及女性历史的观看。陈庆庆的作品都是借助一种现成品装置的箱盒形式，一个微型的箱盒作品代表一个女性议题的文本，或一个寓言化的文本。</p>
+<p>肖鲁曾是中国1980年代后期的前卫艺术家，她的一个著名作品是“八 九 现代艺术大展”上开枪射击自己作品的行为艺术“对话”。那是中国民主运动的最激烈的一年。肖鲁后来的行为艺术都是以女性主义对主流文化的挑战为主题，并以中国传统的阴阳概念进行哲学思考。</p>
+<p>八 九年的民主运动以及天 安门事件的经验，一直成为中国当代艺术的一个表达题材。艺术家陈光曾是在现场目睹那一事件的军人，退伍后他成为一名画家，出于良知，他一直将那一事件作为自己绘画的主题，尽管这个系列的作品不容易获得展出机会。他的另一个作品系列是关于身体的伤害议题，以摄影方式表现男人的身体皮肤受伤的痕迹，作为一种被伤害者的寓言形象。</p>
+<p>莫毅的摄影一直涉及 八 九年的政治经验，但他将这一经验作为一种政治记忆，将政治记忆在艺术中转变为一种有关记忆政治的观念，并将这一记忆政治的思考追索到对文革和毛文化的文字及革命词汇的反思。毛时代的句子被隐藏在华丽的色彩格子中，表示这些思想痕迹仍保持在一种看不见的潜意识中。</p>
+<p>作为职业的政治人及诗人的余心樵，近年从事绘画创作。他将自己入狱的监狱信笺作为画纸，创作内心乌托邦的诗学，以绘画装置的形式，来作为一种对个人从事公民政治的经验。</p>
+<p>中国革命以及现代政治史在青年艺术家代化那里，是一种未曾经历的想象性的记忆，但他成长于后极权主义和资本主义的双重语境中，新的“1984”式的政治现实促使他追寻过去的历史政治的版图。他的作品“百年中国地图：1911—2010”试图拼贴出一个普通年轻人眼中的中国历史地理的谱系，他将从推翻帝制的辛亥革命、共产主义运动、文革以及改革30年等重要的历史事件的发生地，标在一张中国地图上。</p>
+<p>在这张地图上，现代中国就像一场荒诞的历史游戏或悲喜剧，这场不知结局的现代历史剧至今不清楚下一幕剧情将会向哪个方向转变。中国仍处在一场不知结局的转型过程，也许向着更好的方向，也许向着更糟糕的方向，正是这种国家转型的不确定性，导致了中国社会的焦虑感，这一焦虑感也是艺术家观看社会的一个主体特征，他们不仅作为一个焦虑的观察和思考者，他们也以一个弱势的观看者的角色，注视着这个新利维坦式的巨型国家向何处转身！</p>
+<p>2016年1月28日完成于福建南屏</p>
+<p><strong>展览作品：</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.11.46.png?resize=302%2C404" alt="Screen Shot 2016-02-23 at 下午3.11.46" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.11.46.png?resize=224%2C300 224w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.11.46.png?w=302 302w" sizes="(max-width: 302px) 100vw, 302px" data-recalc-dims="1"><br>
+陈庆庆《树缘》2014</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.14.07.png?resize=563%2C400" alt="Screen Shot 2016-02-23 at 下午3.14.07" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.14.07.png?resize=300%2C213 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.14.07.png?w=563 563w" sizes="(max-width: 563px) 100vw, 563px" data-recalc-dims="1"><br>
+高氏兄弟《枪决基督》摄影 2009年</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.14.37.png?resize=572%2C427" alt="Screen Shot 2016-02-23 at 下午3.14.37" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.14.37.png?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.14.37.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><br>
+徐勇《解决方案》摄影 2006年</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.15.13.png?resize=570%2C325" alt="Screen Shot 2016-02-23 at 下午3.15.13" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.15.13.png?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.15.13.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br>
+肖鲁《清洗》行为照片 2013年</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.15.52.png?resize=571%2C428" alt="Screen Shot 2016-02-23 at 下午3.15.52" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.15.52.png?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.15.52.png?w=571 571w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br>
+陈光《2010811》绘画 2010年</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.16.21.png?resize=577%2C354" alt="Screen Shot 2016-02-23 at 下午3.16.21" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.16.21.png?resize=300%2C184 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.16.21.png?w=577 577w" sizes="(max-width: 577px) 100vw, 577px" data-recalc-dims="1"><br>
+戴翔《新清明上河图》摄影 2014年</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-%E4%B8%8B%E5%8D%883.17.11.png?resize=570%2C427" alt="Screen Shot 2016-02-23 at 下午3.17.11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.17.11.png?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-23-at-下午3.17.11.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br>
+欧盟使馆开幕式现场</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%9C%B1%E5%85%B6%E5%9C%A8%E8%BF%99%E9%87%8C-%E3%80%8A%E5%BC%B1%E5%8A%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%AC%A7%E7%9B%9F%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E4%BA%BA%E6%9D%83%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%8B%AC%E7%AB%8B%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%81%94%E7%9B%9F/?category=18271" rel="tag">中国独立艺术家联盟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%95%E8%A7%88/?category=18271" rel="tag">展览</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%93%E4%BB%A3%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">当代艺术</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E5%85%B6/?category=18271" rel="tag">朱其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A7%E7%9B%9F/?category=18271" rel="tag">欧盟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A7%E7%9B%9F%E9%A9%BB%E5%8C%97%E4%BA%AC%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">欧盟驻北京使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">维权艺术家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF/?category=18271" rel="tag">艺术</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">艺术家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%9C%BA%E5%85%B3%E5%A4%A7%E9%99%A2%E7%BA%A2%E5%A2%99%E6%B7%B1%E9%94%81%EF%BC%8C%E5%B0%81%E9%97%AD%E5%B0%8F%E5%8C%BA%E6%83%B3%E6%8B%86%E5%B0%B1%E6%8B%86%EF%BC%9F/" target="cdt-mirror">凯风：机关大院红墙深锁，封闭小区想拆就拆？</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg" rel="attachment wp-att-429960"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg?resize=500%2C319" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg?resize=300%2C191 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
@@ -908,36 +969,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E8%B4%A9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E5%B8%AD%E8%82%96%E9%92%A2%E4%B8%8B%E5%8F%B0%EF%BC%8C%E6%B1%A4%E6%8D%A2%E4%BA%86%EF%BC%8C%E8%8D%AF%E5%91%A2%EF%BC%9F/" target="cdt-mirror">德国之声 | 证监会主席肖钢下台，汤换了，药呢？</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-20-at-%E4%B8%8B%E5%8D%8810.42.13.png?resize=550%2C311" alt="Screen Shot 2016-02-20 at 下午10.42.13" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-20-at-下午10.42.13.png?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-20-at-下午10.42.13.png?w=623 623w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>中共中央日前决定免去肖钢中国证监会主席和党委书记的职务</span></p>
-<p>中共中央日前决定免去肖钢中国证监会主席和党委书记的职务。消息传出，立即引起世界各大新闻媒体和网络舆论的广泛关注。在众多中国网民“喜大普奔”的同时，也有声音呼吁应理性看待证监会易帅。</p>
-<p>（德国之声中文网）据新华社2月20日报道，中共中央日前决定，免去肖钢中国证监会主席和党委书记的职务，任命中国农业银行行长刘士余为中国证监会主席兼党委书记。</p>
-<p>肖钢被免职的消息传出后，立即引起新闻媒体界的关注。世界各大媒体纷纷报道了中国证监会主席兼党委书记肖钢被免职的消息。“腾讯财经”发表相关文章并配有多幅图片，显示“肖钢被免，证监会门口十余位官员握手送别”，并随后“一一走向新任主席刘士余，握手迎接。”</p>
-<p><strong>坐实去职传闻</strong></p>
-<p>自出任证监会主席以来，肖钢多次陷入 “去职谣言”。路透社1月中旬曾发布消息称肖钢当时已经递交了辞职申请。随后，中国证监会曾表示：“路透社发布的我会肖钢主席请辞的消息与事实不符。我会已与路透社联系，要求其更正。”<br>
-现在官方消息终于坐实了这条“与事实不符”的消息。2月20日，中国官媒通告称，肖钢不再担任证监会主席，由中国农业银行党委书记、董事长刘士余接任。</p>
-<p>据中国媒体报道，肖钢自2013年3月17日出任中国证监会党委书记、主席一职，至今不到3年。期间A股市场经历了大起大落，最高曾在2015年6月12日创下5,178点的最高点，之后 出现暴跌，截止2月19日收盘，上证指数已跌至2,860点附近。路透社报道称，由于肖钢管理不善，致使沪深两市自2015年6月触及高点以来市值蒸发逾5万亿美元，比日本的国内生产总值(GDP)还要高。</p>
-<p><strong>公众反应激烈</strong></p>
-<p>从网络上中国股民的舆论来看，要求肖钢下台的声音早就异常高涨。官方证实他下台的消息一出，立即引发网络舆论的强烈反应。在受到宣传机关严格审查的新浪微博上，能够看到众多网民对肖钢下台的消息反应积极。不少网民评论这是“喜大普奔”的新闻，应该“举国欢庆，庆祝胜利”。新浪微博署名“念念727”的用户表示：“全中国13亿人口，和中国人民代表大会，应该像肖钢表示感谢。感谢证监会肖钢精心设计的四次股灾让我们可怜的散户，损失了十年甚至二十年的财富有多少老百姓因为你的精心设计，妻离子散，跳楼自杀，创业失败，工作丢弃，老板倒闭，儿女读书都交不起学费……”。</p>
-<p>署名“叶子丽富”的新浪用户表示：“肖钢同志：向你敬礼！因为你，90%股市发财想辞职的公务员又乖乖的回单位上班了，因为你，那些靠腐败和贱卖资产发财的土豪腐败分子倾家荡产，而恰恰是这些人已经变成民族的不稳定因素，党国欠你一枚伟大勋章！”</p>
-<p>但也有网民呼吁对肖钢辞职的消息应该理性看待，署名“荷清Lily之忙碌”的用户认为：“股市涨跌是正常。不该怪罪于某个人身上。”用户“放眼看世界Y”指出：“股市又不是肖钢一个人说了算的，证券公司里面有的是蛀虫，大家不进股市不就安然无恙了。还是回家安安心心炒菜吧！ ”用户“微言逸事”对肖钢下台，刘士余上台总结说：“换汤不换药。”署名“一国两智”的用户也同意相关看法，表示：“还真以为股市是因为主席的问题不成？醒醒吧，跟足球一个样，换谁都一个样。”</p>
-<p><strong>为路透社喊冤</strong></p>
-<p>在评论肖钢下台消息的同时，众多中国网民不忘为之前被指“造谣”的路透社申冤。 新浪微博用户“天下第一秋”表态称：“中国的谣言真的多是真的……”。“长江口的淡水鱼”认为：“路透社中文网死的好冤”。用户“STDnerd”感慨：“多数所谓谣言，只是官方不愿意承认的事实，路透只是给权力祭刀了。 ”</p>
-<p>伴随肖钢离职的消息，也有众多股民盼望这是对中国股市的一大利好消息。希望下周一开盘能“千股涨停”。但也有网民并不看好证监会易帅的消息，编写偏音打油诗来表达自己的悲观情绪。署名为“歌诗达男装”的新浪用户就此表示：“十年一梦上幅零，一朝醒来哥输清，股灾熔断削光后，神州遍地留死鱼。”暗指包括尚福林、郭树清、肖钢和现在新上任的刘士余在内的证监会主席都无法遏制中国股市的乱象。</p>
-<p>过去两年，肖钢上任后的“三把火”，伴随经济改革，催生出7年来最大的牛市，但对杠杆资金和 熔断制度的处理，使得他饱受争议。</p>
-<p>肖钢1958年8月出生于湖南长沙，法学硕士，1976年参加工作，曾为原中国人民银行行长吕培俭的秘书。于2003年3月至2013年3月任中国银行董事长、党委书记。2013年3月至2016年2月任中国证券监督管理委员会主席、党委书记。</p>
-<p><strong>刘士余和农行的38亿</strong></p>
-<p>据新华社报道，接替肖钢出任中国证监会主席兼党委书记的刘士余曾担任中国人民银行副行长一职，从2014年10月起担任中国农业银行党委书记，2个月后担任中国农业银行董事长。刘士余同肖钢经历相同，都长期从事于金融领域。</p>
-<p>刘士余接替肖钢出任证监会主席的消息传出后，2016年1月22日爆出的“农行爆发票据窝案 38亿无法兑付”的金融丑闻再次回到公众视野。中国媒体“财新网”当时报道称，中国农业银行北京分行涉嫌非法套取38亿元票据，同时利用非法套取的票据进行回购资金，且未建立台账。回购款其中相当部分资金违规流入股市，而由于股价下跌，出现巨额资金缺口无法兑付。由于涉及金额巨大，公安部和银监会已将该案件上报国务院。署名“金融街侦探”的新浪微博用户就此评论称：“今日最佳段子是：刘董事长自己去追农行进股市的那38亿元了”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E5%B8%AD%E8%82%96%E9%92%A2%E4%B8%8B%E5%8F%B0%EF%BC%8C%E6%B1%A4%E6%8D%A2%E4%BA%86%EF%BC%8C%E8%8D%AF%E5%91%A2%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2/?category=18271" rel="tag">肖钢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2%E4%B8%8B%E5%8F%B0/?category=18271" rel="tag">肖钢下台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E7%9B%91%E4%BC%9A/?category=18271" rel="tag">证监会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -949,7 +980,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -959,5 +990,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%96%E9%92%A2
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

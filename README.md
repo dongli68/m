@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E8%83%BD%E6%BA%90%E5%B1%80%E5%8E%9F%E5%89%AF%E5%B1%80%E9%95%BF%E8%AE%B8%E6%B0%B8%E7%9B%9B%E5%8F%97%E8%B4%BF%E5%BA%AD%E5%AE%A1%E5%BD%93%E5%BA%AD%E7%BF%BB%E4%BE%9B%E5%90%8E/" target="cdt-mirror">法广 | 能源局原副局长许永盛受贿庭审当庭翻供后 官方下令删稿</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-%E4%B8%8B%E5%8D%884.02.49.png?resize=476%2C315" alt="Screen Shot 2016-02-24 at 下午4.02.49" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午4.02.49.png?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午4.02.49.png?w=476 476w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><span>原国家能源局原副局长许永盛</span></p>
+<p>作者：上海特约记者 曹国星</p>
+<div>
+<p>昨天（2月23日），原国家能源局原副局长许永盛受贿案在北京市第一中级法院开庭审理。根据今天《财经》的报道，许永盛对其涉嫌受贿的指控当庭予以否认，称自己从未收受他人给予的钱款，并表示自己在侦查阶段所做的有罪供述是源于办案人员对他进行了非法取证。</p>
+</div>
+<div>
+<p>今天中午，据信来自网信办的通知要求各大新闻网站，将这条新闻“撤稿压后台”，目前前述《财经》的报道的大部分转载链接已经无法打开。一位律师评论这一做法说，“当庭认罪全国通报，当庭翻供后台雪藏”。</p>
+<p>2014年5月14日，许永盛被检察机关从其家中带走，随后被实施指定居所监视居住。在他前后，核电司原司长郝卫平、煤炭司原副司长魏鹏远、新能源和可再生能源司原司长王骏、电力司原副司长梁波等国家能源局多名司长、副司长相继被查。</p>
+<p>根据《财经》杂志的报道，许永盛被控在2008年至2012年担任国家能源局电力司司长期间收受了华能、国电、神华集团、华电集团、大唐集团、中电投、浙能集团、北京三吉利能源等八家电力公司及下属单位相关人员送予的557万元和按摩椅一台，合计561万元，并为上述单位在27个电力项目审批方面谋取利益。</p>
+<p>据说，该案27笔受贿指控大多为各地方电力项目相关负责人带着现金以汇报项目的名义到发改委许永盛的办公室进行行贿。不少指控中，有多名相关人员一起前去拜访。在这些人的证词中，他们事先准备好现金，一般由其中一人最后送钱，每笔金额几万元至几十万元不等，多为二三十万元。</p>
+<p>检方称这些人的证词交叉印证能够证明罪行存在，但这些指控，许永盛全都予以了否认，许永盛表示或许接待过部分项目的负责人，并收取了项目材料，但绝对没有收受任何钱款。</p>
+<p>许永盛表示他不可能在办公室收受根本不熟悉的人送予的钱款。他称这种受贿方式丝毫不谨慎，违背常识，如果他真的如此贪婪，那么他的受贿金额应该远超500万元。</p>
+<p>从庭审初期开始，许永盛及其辩护人就反复强调此案存在非法取证行为。</p>
+<p>许永盛称，在被检察机关带走指定居所监视居住的头半个月，讯问人员不让他睡觉，对他连夜进行审讯，还威胁要抓他的妻儿，他经受不住压力做了一些有罪供述。许永盛称他所承认的犯罪事实，大多是讯问人员对他进行提示和诱导，他进一步承认而来，并非他的本意表达。</p>
+<p>许永盛的律师徐平称，此案中存在的疲劳审讯、欺骗和诱供等行为符合相关法律法规对于非法证据的规定，由此取得的证据依法应当予以排除。</p>
+<p>对此，公诉人认为许永盛在侦查期间曾多次做出有罪供述，而且曾主动书写认罪材料供述自己的犯罪行为，这些供述能够和证人的证言相印证。徐平则认为，证据相印证的前提应是在证据有效的前提下，如果证据非法则应当被排除，更遑论是否相互印证。</p>
+<p>此外，徐平提出在许永盛的100多份笔录中，认罪的和辩解自己无罪的数量相当，表明许永盛一直有坚持自己无罪的表现，并非突然翻供。</p>
+<p>时下，落马高官面对司法审判时大多选择认罪不上诉换取从轻判决，许永盛的选择显得尤为特殊。</p>
+</div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E8%83%BD%E6%BA%90%E5%B1%80%E5%8E%9F%E5%89%AF%E5%B1%80%E9%95%BF%E8%AE%B8%E6%B0%B8%E7%9B%9B%E5%8F%97%E8%B4%BF%E5%BA%AD%E5%AE%A1%E5%BD%93%E5%BA%AD%E7%BF%BB%E4%BE%9B%E5%90%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%83%BD%E6%BA%90%E5%B1%80/?category=18271" rel="tag">中国国家能源局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%83%BD%E6%BA%90%E5%B1%80%E5%8F%8D%E8%85%90/?category=18271" rel="tag">国家能源局反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%BD%E6%BA%90/?category=18271" rel="tag">能源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E6%B0%B8%E7%9B%9B/?category=18271" rel="tag">许永盛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E8%92%8B%E7%BB%8F%E5%9B%BD%EF%BC%8C%E4%BB%96%E7%94%A8%E4%B8%93%E5%88%B6%E7%BB%93%E6%9D%9F%E4%B8%93%E5%88%B6%EF%BC%9F/" target="cdt-mirror">微思客 | 蒋经国，他用专制结束专制？</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-%E4%B8%8B%E5%8D%8812.15.49.png?resize=416%2C497" alt="Screen Shot 2016-02-24 at 下午12.15.49" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午12.15.49.png?resize=251%2C300 251w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午12.15.49.png?w=416 416w" sizes="(max-width: 416px) 100vw, 416px" data-recalc-dims="1"></p>
@@ -948,24 +977,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E7%BA%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%B0%81%E7%BB%99%E4%BA%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E7%9A%84%E5%BA%95%E6%B0%94/" target="cdt-mirror">【异闻观止】谁给了任志强反党的底气</a>
-</h2>
-<p><p>一句“党媒姓党”能让“优秀党员”任志强跳得这么高，不惜把党性与人民性对立分割，不惜充当某些势力的急先锋，我们看到的是一个党性沦丧的个体，以及这个个体所代表的群体的冰山一角。党媒为党服务，党为人民群众服务，这是党性与宣传的结合，是对媒体的鞭策与认知厘清。媒体最终是要为人民服务的，可是这么些年，我们所经历的媒体乱象，正是党媒失去党性原则的外在表现。</p>
-<p><strong>中国媒体要讲党性原则，这是中国共产党针对自己所领导的党媒提出的一贯要求，党作为领导中国发展的核心，媒体服务于党也就是服务于中国发展。</strong>此次习近平同志强调党媒姓党，不过是针对近年来的媒体乱象，再一次强调党媒要讲党性原则，不要忘记自己是在为人民服务，而不要一味地为人民币服务。</p>
-<p>媒体市场化后，不可避免地面临生存问题，市场化下的竞争变得白热化，很容易进入有奶便是娘的误区。特别是近年社交自媒体的兴起，一些纸媒更是面临严重挑战，为了营利不择手段，为了点击率不惜造谣、标题党，热衷于在假丑恶的粪坑里打滚好吸引眼球，为了广告费不惜为资本当走狗。之前闹出来“两根穷骨头”的新快报、二十一世纪传媒股份有限公司总裁沈颢的案件、人民网高层被处理事件以及某电视台某主持人上推特支持藏独、民运事件，证明我们的一些媒体及其从业人员早已丢掉了党性原则，丢掉了为人民服务的宗旨，变成了金钱的奴隶。</p>
-<p><strong>媒体不解决为谁服务的问题，就无法真正地体现其人民性，强调党媒的党性，就是强调媒体的人民性，习近平同志讲话的核心正是党性与人民性的统一。</strong>这么简单直白的道理，怎么到了任志强的嘴里就成了媒体与人民的对立？任志强把党章里的“坚持全心全意为人民服务”那条吃掉了？我们不禁要问，一个连党章都能无视的党员，公然反党的底气何来？一个半夜三更喜欢给领导打电话的任志强，究竟谁给了他跳出来推墙的“勇气”？</p>
-<p>党媒要有党性原则，这跟党员要讲党性原则有什么区别？中国共产党是人民政党，跟西方资本政党的本质区别在于，我们在社会主义初级阶段虽然允许市场<a href="http://www.baidu.com/" target="_blank">经济</a>存在，但是决不允许资本掌握政党与控制政权，决不能丧失政党的人民性。以任志强为代表的资本翻天派，在攫取了大量的资本资源之后，妄图通过资本控制政权，走西方宪政之路，最终实现资本长期坐庄。那么这个过程之中，通过资本掌控媒体，再操控媒体为资本当打手成为关键一环，为他们的推墙行动做好舆论准备与铺陈。前苏联是怎么倒的？最先就是从媒体上倒的，前车之鉴，党媒再不讲党性原则，再不姓党，只怕通通要姓“资”了。</p>
-<p>强调“党媒姓党”，任志强之流跳出来是必然的，因为破坏了他们的推墙步骤。舆论阵地的战斗，意识形态领域的硝烟，是时时刻刻的拼刺刀，面对没有一日不拱卒的公知推墙党，我们必须要用党性原则，用为人民服务的理念，扎紧篱笆修好围栏。<strong>我们的媒体，太久不敢提党性原则，仿佛一提就触摸了所谓新闻自由的逆鳞，但是如果坚持一心一意为人民服务的宗旨，又何惧“姓党”？至于任志强，我们已经无需对其进行党性教育，一个只为资本代言的任大炮，一个“优秀共产党员”却把自己跟人民割裂并踩在脚下的个体，哑火，是迟早的事。</strong></p>
-<p>来源：千龙网</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/2540000a7062212eb0a.jpg?resize=550%2C408" alt="2540000a7062212eb0a" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/2540000a7062212eb0a.jpg?resize=300%2C223 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/2540000a7062212eb0a.jpg?w=578 578w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%B0%81%E7%BB%99%E4%BA%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E7%9A%84%E5%BA%95%E6%B0%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%AA%92/?category=18271" rel="tag">党媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -977,7 +988,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -987,5 +998,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

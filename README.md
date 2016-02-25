@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E4%B8%8E%E9%A6%99%E6%B8%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B9%81%E7%AE%80%E7%9F%9B%E7%9B%BE/" target="cdt-mirror">BBC | 中国与香港之间的“繁简矛盾”</a>
+</h2>
+<p><p> </p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160224135732_chinese_characters512.jpg?resize=520%2C292" alt="160224135732_chinese_characters512" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160224135732_chinese_characters512.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160224135732_chinese_characters512.jpg?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
+<p>简体中文在香港使用的情况越来越多，引发了对北京扩大在当地影响力的担忧。</p>
+<p>许多香港居民担心这可能会令香港的特征消失无影无踪。</p>
+<p><strong>繁简之争</strong></p>
+<p>中国最早在1956年开始推行简体中文，简化了原先复杂的笔画，令书写中文简单化，而且也被说成是提高中国识字率的主要原因。</p>
+<p>但是当时是英国殖民地的香港，继续使用又称为整体中文的繁体中文，另外使用繁体中文的地方包括了台湾和几乎所有的华人侨居地。</p>
+<p>这种情况一直维持到1997年，香港主权移交给了中国。</p>
+<p>推广使用简体中文的人士认为，使用简体中文有助于学习中文，并且说，简体中文“比较实用”。</p>
+<p>但是反对者说，繁体中文比较“正统”，并且可以让使用者与中文的根源更好地联系在一起。</p>
+<p>也就是说，一个人如果看得懂繁体中文，再看古典文学和推行简体中文之前所出版的书籍时就不会那么吃力。</p>
+<p><strong>教育的建议</strong></p>
+<p>香港的企业通常以简体中文来吸引中国旅客，但是这种做法却也招来了本地居民的批评。</p>
+<p>2015年12月，香港政府建议学生在学会了繁体中文之后学习简体中文，目的是“扩大的学生的阅读面，还可加强内地与海外各地的沟通”。</p>
+<p>但是反对派说，没必要特别致力于学习简体中文，而且认为政府可能是打算完全取消在学校教授繁体中文的课程。</p>
+<p>香港《苹果日报》在2月14日引述中国导演冯小刚的说法，称许多简体中文是“不合理的简化”，而负责香港教育的官员则是在“对抗这股浪潮”。</p>
+<p><strong>社交媒体辩论</strong></p>
+<p>最近几年繁简两派的争论越来越政治化，例如英国时装设计师、知名球星贝克汉姆的妻子维多利亚宣布要到香港访问，却在Instagram上成为热门话题。</p>
+<p>维多利亚·贝克汉姆以简体中文和英文在Instagram上宣布2月14日到香港。</p>
+<p>但是有网民留言说，“贝克汉姆太太，如果你要到香港做生意，请用繁体中文！”、“要是你继续使用不文明的简体中文，我就不会买你的产品”。</p>
+<p>繁简之争原本就是网民们在推特Twitter上的热门话题，在香港无线电视台突然在2月22日开始在普通话新闻中搭配简体中文字幕之后，这场议论更为热烈。</p>
+<p>在上述的节目播出之后，主管广播电视业务的香港通讯事务管理局就收到了一万多则投诉。</p>
+<p>推特上有网民形容无线电视台的做法已经成为港府“盲从”北京政策的部分措施。</p>
+<p><strong>“无需大惊小怪”</strong></p>
+<p>中国的官方媒体也加入了这场繁简之争，呼吁港人不要将此议题“政治化”。</p>
+<p>《人民日报》在2月23日刊载文章说，“把繁简强分优劣甚至当作身份标签，只能说太过浅薄无知。”</p>
+<p>《环球时报》则是发表评论说，“两岸三地的交流角度而言，内地学生认读繁体字和港澳台的学生认读简体字，都有必要，完全无需大惊小怪。”</p>
+<p>不过有些中国网民坚持使用简体中文的风潮已经是“无法阻挡”。</p>
+<p>例如网民闽都传人在环球网发表的评论下留言说，“推行普通话和简体字是大势所趋，港台固步自封，必被历史的车轮碾得粉碎。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E4%B8%8E%E9%A6%99%E6%B8%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B9%81%E7%AE%80%E7%9F%9B%E7%9B%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%80%E4%BD%93%E5%AD%97/?category=18271" rel="tag">简体字</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B9%81%E4%BD%93%E5%AD%97/?category=18271" rel="tag">繁体字</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B9%81%E7%AE%80%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">繁简矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">香港中港矛盾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BC%A0%E5%AA%92%E8%A7%82%E5%AF%9F-%E5%8F%B2%E5%AD%A6%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9E%97%E5%98%89%E6%96%87%E8%87%AA%E6%9D%80-%E9%81%97%E4%B9%A6%E5%85%A8%E6%96%87/" target="cdt-mirror">新传媒观察 | 史学天才少年林嘉文自杀 遗书全文</a>
 </h2>
 <p><p><strong>烦请所有得知我去世消息的人，如果你们觉得不能理解我，请给予我基本的尊重，不要拿我借题发挥，像对江绪林一样，那种行为挺卑劣、愚昧的。我实在不想虚伪地以令人作呕的谦虚把自己“留与后人评说”——以我自己的解释为准就好了。</strong></p>
@@ -900,33 +941,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%89%E5%B1%80%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%EF%BC%9A%E9%80%9A%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E8%AF%AD%E8%A8%80/" target="cdt-mirror">纽约时报 | 中国国安局校园招聘：通少数民族语言者受欢迎</a>
-</h2>
-<p><p>春节假期后，中国大学生返回校园。一些人或许担心<a href="http://www.nytimes.com/2016/01/19/business/international/china-gdp-economy.html" target="_blank" rel="nofollow">经济放缓</a>会自己影响<a href="http://www.chinadaily.com.cn/china/2015-07/09/content_21237438.htm" target="_blank" rel="nofollow">找到好工作的机会</a>。但是，那些懂日语或维语、“体态匀称”、近视度数不高的学生可能成为幸运儿，进入国家安全部门工作。</p>
-<p>华东师范大学<a href="http://www.career.ecnu.edu.cn/common/index.aspx" target="_blank" rel="nofollow">就业服务网站</a>上发布的一则上海国安局招聘启事表示要寻找应聘者，男性要求身高1.70米以上，女性身高1.60米以上，没有色盲。</p>
-<p>这则招聘启事名为《上海市国家安全局预选2016年应届大学毕业生的公告》，已经被撤下，但<a href="http://www.career.ecnu.edu.cn/commonpage/NewsDetail.aspx?id=O9OIPTxv9Ko=" target="_blank" rel="nofollow">缓存版本</a>仍然可见。在电话中，就业服务中心一名自称姓何（音）的女士证实这则启事是真实的，但她惊讶的是，它居然公开流传，因为这类启事一般在内部传播。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B8%8A%E6%B5%B7%E5%9B%BD%E5%AE%89%E5%B1%80.jpg?resize=552%2C501" alt="上海国安局" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/上海国安局.jpg?resize=300%2C272 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/上海国安局.jpg?w=552 552w" sizes="(max-width: 552px) 100vw, 552px" data-recalc-dims="1"></p>
-<p>在美国，中央情报局(CIA)的招募是公开进行的。但在中国，这类招募大多秘密进行——即使保密性欠佳。在<a href="http://www.pincai.com/group/356540.htm" target="_blank" rel="nofollow">聘才网</a>(Pincai.com)上，一个用户声称自己参加了国家安全部在北京举办的招聘活动。国家安全部是中国情报机构，负责管理各地区的国安局。</p>
-<p>在那篇帖子中，一个叫汪月乐的网友谈到了2007年10月在一所没有提及名字的大学举行的国安招聘活动。录用后有长达一年的试用期，起薪是每月4000元人民币，合同至少签10年。招聘方主要是找有“信息安全”技能的研究生，这样的招聘活动也在杭州的浙江大学、北京的中国政法大学和成都的电子科技大学举办过。</p>
-<p>“工作地在北京，但是要经常出差，”这名网友说。“工作很累，基本不要女生，一般来说工作没有生命危险。”</p>
-<p>上海的这则启事和聘才网的这篇帖子清晰地显示出，国安部门的招聘人员定期前往中国的一流大学，招募有培养前途的学生。</p>
-<p>根据何女士的说法，现在依然如此。虽然这则启事已经过期，但她表示，该校今年6月时很可能会再举办一次这样的招聘活动，面向2017年的求职者。</p>
-<p>“每年夏天他们都会联系我们，”何女士说。</p>
-<p>在不同的年份，招募需求也有所不同。“这取决于他们想要什么，”她说。人员“背景”的标准也有所改变，但她没有具体解释。</p>
-<p>从这则启事来看，国安部门对计算机技能和中国少数民族语言流利的需求较高。这可能体现了他们对公众进行网上监视、对少数民族进行观察的兴趣，尤其是西部偏远地区新疆的维吾尔人。当地对汉人统治不满，不时爆发暴力事件。</p>
-<p>这则启事招聘英语、日语、德语、法语、俄语“或其它小语种专业”的学生。</p>
-<p>还招聘维语、藏语、哈语、蒙语等少数民族语言学生，或具有闽南语、客家语、粤语、吴语等方言特长的学生。使用这些方言的人群分布在上海、周边东南沿海地区及华南地区。</p>
-<p>招聘范围还包括“计算机软件、信息安全、通信技术等相关计算机方面专业”，以及“国际关系、国际政治、中文、历史、新闻、哲学、对外汉语、法律等文科专业”的学生。</p>
-<p>“有很多学生申请，的确非常多，”何女士说。至于招聘人员，“他们的要求非常高。”</p>
-<p>目前还不清楚中国安全部门雇佣了多少人，但数字可能在几十万左右。上海的那则启事只是针对一座城市里一所大学的招聘。2012年底上台之后，习近平主席把强化国家安全和打击异见活动作为执政的一块基石。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%89%E5%B1%80%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%EF%BC%9A%E9%80%9A%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E8%AF%AD%E8%A8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%83%85%E5%B1%80/?category=18271" rel="tag">中情局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%B1%80/?category=18271" rel="tag">国安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -938,7 +952,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%83%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +962,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%83%85
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

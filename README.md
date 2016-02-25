@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E7%8E%8B%E8%8F%B2%E8%A2%AB%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93%E6%8C%87%E6%8E%A7%E4%B8%8E%E8%BE%BE%E8%B5%96%E6%A0%B8%E5%BF%83%E5%A4%B4%E7%9B%AE%E5%85%B1/" target="cdt-mirror">法广 | 王菲被官方媒体指控与达赖“核心头目”共同出席法会</a>
+</h2>
+<p><p>作者：上海特约记者 曹国星</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-%E4%B8%8A%E5%8D%8811.05.50.png?resize=550%2C311" alt="Screen Shot 2016-02-25 at 上午11.05.50" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午11.05.50.png?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午11.05.50.png?w=613 613w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>大宝法王噶玛巴</span></p>
+<div>
+<p>今天（2月25日），官方“中国西藏网”刊发了题为《演艺人士切勿“识人不明”在国家大义上栽跟头》的评论，包括新华网、环球网在内的多家网站转载。该文指控，近日，包括王菲等多位中国演艺明星出席在印度的法会，据专业人士“指认”,在场有两名在“西藏流亡政府”中担任要职的藏族流亡人士，被指为“达赖集团核心头目”。</p>
+</div>
+<div>
+<p>文章以多名因政治表达在中国大陆被封杀的海外艺人为例，称 “越是知名艺人越需严格约束自己”， 警告这些艺人，若是打着“明星”“自由”的招牌为所欲为，那么产生的苦果也只有“自己吞”。</p>
+<p>这篇署名“苏文彦”的评论首发于“中国西藏网”，该网站2000年创立，是以西藏为主要职能的国家级重点新闻网站，是中国官方在涉藏问题方面的主要网络喉舌，苏应该是该网站的长期撰稿人或者记者。</p>
+<p>这篇评论以2014年李连杰夫妇与达赖喇嘛的合影在网上为引子，指责多位国际艺人有支持“藏独”的千克，比如美国演员莎朗•斯通、冰岛女歌手比约克、“大嘴”朱莉娅•罗伯茨、布拉德•皮特、安吉丽娜•朱莉、李察•基尔。</p>
+<p>作者质疑：王菲、梁朝伟等人明知这几位是“藏独”集团头目，还与他们坐在一起。明星作为公众人物，似乎更应谨言慎行才是。和“藏独”集团头目搅在一起，已经远远超出了“宗教信仰自由”的范畴。</p>
+<div>
+<div>
+<div>文章警告，由于与“藏独”掺和在一起导致“犯众怒”、被“粉丝”自发抵制的例子也不少，前述的外国明星多有受其所累者，美国摇滚乐队“魔力红”的中国演唱会便被取消，莎朗•斯通更是被撤下代言广告, 当然，那些支持“港独”“台独”的艺人下场“也无二致”。</div>
+</div>
+</div>
+<p>因此，越是知名艺人越需严格约束自己，要“好自为之”。</p>
+<p>一位熟悉西藏情况的媒体人告诉本台记者，“大宝法王噶玛巴每年一届的噶举祈愿几乎从无涉政治、只关佛法，不仅王菲每年都去，梁朝伟赵薇胡军好多人都去过。”他介绍，在场的两位所谓的“达赖集团核心头目”， 一个是西藏流亡政府内政部长嘉日卓玛，一个西藏人民议会议长边巴次仁。</p>
+<p>在他看来，“这两人，区区艺人显然不会认识，一切都泛政治化太可怕了，这除了让人更离心离德之外还有何意义呢？”</p>
+<p>一位多年来经常会前往印度参加法会的藏传佛教信徒告诉记者，往年参加这个法会回国，常会被相关部门喝茶，这次看到中国西藏网的这篇评论，许多大陆信徒都颇为紧张，估计这次被喝茶的人可能会特别多。</p>
+<p>目前，在墙内互联网上，王菲在印度菩提伽耶参加噶举祈愿法会的消息已经被下令全网删除。</p>
+</div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E7%8E%8B%E8%8F%B2%E8%A2%AB%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93%E6%8C%87%E6%8E%A7%E4%B8%8E%E8%BE%BE%E8%B5%96%E6%A0%B8%E5%BF%83%E5%A4%B4%E7%9B%AE%E5%85%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E4%BA%BA%E4%BF%A1%E6%95%99/?category=18271" rel="tag">名人信教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AE%9D%E6%B3%95%E7%8E%8B%E5%99%B6%E7%8E%9B%E5%B7%B4/?category=18271" rel="tag">大宝法王噶玛巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%EF%BC%8C%E6%B5%81%E4%BA%A1%E8%97%8F%E6%97%8F%E5%83%A7%E4%BA%BA/?category=18271" rel="tag">流亡藏族僧人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E8%8F%B2/?category=18271" rel="tag">王菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E8%8F%B2%E5%8D%B0%E5%BA%A6%E5%8F%82%E5%8A%A0%E6%B3%95%E4%BC%9A/?category=18271" rel="tag">王菲印度参加法会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E7%8B%AC/?category=18271" rel="tag">藏独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96/?category=18271" rel="tag">达赖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E4%B8%9C%E5%BE%B7%EF%BC%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%85%9A%E5%AE%A3%E4%BC%A0/" target="cdt-mirror">三辉图书 | 徐贲：东德，失败的“党宣传”</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-%E4%B8%8A%E5%8D%8810.52.45.png?resize=555%2C344" alt="Screen Shot 2016-02-25 at 上午10.52.45" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午10.52.45.png?resize=300%2C186 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午10.52.45.png?w=555 555w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><br><span>柏林墙的倒塌，1990。柏林墙，建于1961年，是德国分裂期间东德政府环绕西柏林边境修筑的全封闭边防系统，以将其与西德领土分割开来，阻止东德居民逃往西柏林。1989年东欧发生一系列政治变动，柏林墙也在民众压力下开放。1990年柏林墙被正式下令拆除，东西德统一，东德政府倒台。</span></p>
+<p>“党宣传”为何难以成功？<br>
+作者：徐贲  美国加州圣玛利学院英文系教授，复旦大学社会科学高等研究院兼职教授。</p>
+<p>在1989年苏联、东欧政治剧变之前，东德的德国统一社会党政府的政治宣传是在东欧国家中最有效的。匈牙利出现过1956年事件，捷克斯洛伐克有过“七七宪章”，波兰有过团结工会，但东德人民的思想却很稳定，1953年出现的动乱被很快平息，在这以后的36年间，东德的政权一直没有放松对人民的宣传教育和思想统治，人民也没有任何明显的反抗。似乎谁也不怀疑东德政权和政局的稳定，而且以为会一直如此，长治久安。</p>
+<p>在这样的情况下，甚至连学者们都一直在预言，统一社会党政权会在东德长期存在下去。而恰恰就在这个时候，东德政权却一下子崩溃了。在这政权存在的时候，它一直受到人民的一致拥护，但在它垮台的时候，却很少有人为它惋惜，更不要说挺身而出，拼死保卫了。这样出人意料的突变到底源于何种原因？是纯属偶然，是出于统治者的一时疏忽？还是有一些更深层的必然原因？</p>
+<p>东德的宣传面临一个由它自己制造，因此也就格外难以消除的<strong>悖论困境</strong>：它想要得到的，并没有得到；而它得到的，却又未必是它想要得到的。尽管党在宣传中投入了巨大的资源，但实际的宣传效果却收效甚微，也就是说，国家并未能成功地把正统思想灌输给国民，并以此将他们“社会化”为它所要的那种“新人”。宣传得到的只是人们的表面顺从，这种顺从包括了“行动”的两个方面：按照统治者的意志和命令，顺从地有所行动或避免行动。泰德·史密斯（T. J. Smith）指出，宣传的目的主要不是影响群众的想法，因为想法存在于人们的头脑之中，想法是否真的受到宣传影响，是无法有效测定的。宣传的主要目的是影响群众的公开行为，如果能够做到让群众做什么他们就做什么，不让他们做什么他们就不做什么，宣传就算收到了成效。但是，成效不等于成功。成功是指形成或改变人的想法，然后再有相应的行动。宣传的悖论是，它一开始就以行为而不是思想为影响的目标，那它注定只能是不成功的。它所改造成的共产主义或社会主义的“新人”，他们那种没有思想来源的行为只是一种动物性的条件反射。</p>
+<p>宣传官僚其实自己早就意识到党宣传机器出了毛病，但他们看到的总是技术性的原因，例如，某些环节出了问题、对某问题宣传力度不够、弦绷得还不够紧、必须投入更多资金和人力、加强“软实力”等等。宣传官僚不可能从极权体制本身去找原因，因为这样做，便是对体制心存怀疑，缺乏坚定的信心，而这无疑会成为一种自杀行为。对失败的真正原因，他们会下意识地拒绝承认。正如埃吕所说，在任何一个社会中，“只要一开始有对话，宣传便完了”。宣传官僚知道宣传的致命弱点是什么，因此，他们的宣传是以禁止社会中的自由对话为先决条件的，它必须严格控制社会中的自由言论和理性的平等讨论。它既然不可能改变这个先决条件，也就必然只能寻求宣传方法和技术的改良。</p>
+<p>技术的问题总是可以有对策的，但如果是极权宣传体制自身的问题，那就完全是另外一回事了。恰恰是一些制度原因使得极权宣传的自我完善能力受到了致命的限制。不仅如此，任何的技术性改良只会加深这些内在缺陷，使得极权宣传越来越不得不依靠宣传之外的强权压制和暴力威胁。大致而言，<strong>极权宣传体制本身有三种不可克服的内在缺陷</strong>，是任何技术性的改良都无法克服的，也是它注定不能成功的原因。</p>
+<p>极权宣传的<strong>第一个内在缺陷</strong>是为自己设置了不切实际的目标。不切实际的目标注定只能有自欺欺人的结果。极权宣传自称代表绝对真理，并企图统一所有人的思想，它必须证明极权政权及其意识形态绝对正确， 证明其领袖的绝对英明、制度的绝对优越、政策的绝对正确等等，并以此为理由要求所有人的绝对服从。绝对的正确必然需要绝对的权力来支撑，而绝对的权力又必然带来绝对的腐败。</p>
+<p>绝对正确的宣传要求人们放弃自己独立的想法，而代之以由宣传武断规定的“正确思想”。宣传还必须按照最高统治者的意愿，变来变去。这实际上是在为它自己制造一个逆水行舟式的困境。试想，宣传想要改变的思想是“自发”的，而它自己却是需要“灌输”的。以不自然对抗自然，这是多么辛苦、多么不容易成功的一件事。这就是老赫胥黎（Thomas Henry Huxley）所说的那种“园丁困境”。赫胥黎在1894年出版的《进化和伦理》一书的序言中描述了一个意欲干预自然的园丁，园丁要以他的武断设计来重新规划自然。园丁可以成功于一时，但只要他停止经营他的花园，自然就会立即恢复原貌。17党宣传不断试图以“先进思想”去教育群众，以革命运动去动员群众，提高他们的觉悟。然而，一旦停止了这种政治运动式的干预，群众立即开始恢复到先前的“落后”状态，甚至比以前的落后更加落后。</p>
+<p>极权宣传与别的种类的宣传有本质的区别。例如，民主社会中也有宣传，但那里的宣传是自己说话，也让别人说话。宣传者不可能以代言唯一真理、实现统一思想为己任。美国竞选总统时，参选者及其团队都会全力使出宣传招数，如果谁以60%的选票当选，那已经算是“压倒性优势”。极权政治宣传称自己绝对正确，60%的支持率不但不是绝对优势，而且是“非常失败”。宣传如果说80%的人支持现政权，可信度会比说98%的人支持要来得高，但它决不能这么说，因为这么一说，就等于承认有20%的反对者，这是对绝对真理的重大打击。而且极权统治下的社会，思想“纯洁”，处在一种“无菌”状态下，不要说有20%的反对者，就算只有5%，只要让民众知道这些人的存在，就会出大麻烦。不满的情绪是会传染的，只要有人公开表示不满，就可能鼓动其他人加入反叛、到处传染异端思想。极权宣传从一开始就给自己设定了一个极高的“成功目标”，看起来非常强悍，但这却是一种非常脆弱的强悍，因为它连5%的对立面都经受不起。</p>
+<p>极权宣传的<strong>第二个内在缺陷</strong>是自我评估机制失灵。极权宣传表面越成功，就越无法评估自己实质是多么失败。极权宣传是一种典型的以“正确行为”代替“正确思想”的宣传。它的有效性可以从人们没有公开的不正确行为来评估，却无法从人们没有不正确思想来评估。极权宣传深知这一点，由于无法评估它对人们思想的控制效能和程度，它处在一种持续的不安、提防、焦虑、戒备状态之下，因此事无巨细，丝毫不敢马虎。对思想的审查和管制因此也必须延伸到所有的文化、出版、新闻、言论、文艺、娱乐领域，任何一点疏漏都可能对整体控制造成“不可挽回的损失”，也就是埃吕所说的，成功的宣传必须是无一遗漏的“整体宣传”（total propaganda）。</p>
+<p>但是，管制得越细致，未必就等于管制得越有效，防不胜防的状况还是会随时出现。宣传的效能只是强迫人们把自然的想法从公开转为隐蔽，强使人们的公开行为与真实想法之间不再对应，甚至完全相反。思想的是一个样，公开行为又是一个样，这就形成了哈维尔所说的那种“在谎言中的生活”。人们知道在公开的场合下该说什么，不该说什么，该怎么做，不该怎么做。如此集体行动的人越多，愿意或胆敢有不同行动的人就越少，这便是假面社会的特点，每一个生活于其中的人都不得不戴上同样的假面。不只是受宣传的群众，就连做宣传工作的干部也都是戴着假面。这些宣传干部不像那些经过出生入死的信仰考验的老干部，他们是从官场里混出来的，凭的就是该说的说、不该说的不说、该做的做、不该做的不做的那套本领。他们自己就未必相信自己所宣传的，再加上极权官场报喜不报忧的积习，这些宣传干部对自己工作成绩的评估和报告根本就难以做到真实可靠。</p>
+<p>宣传干部们从事没有创意的机械工作，对他们当中的许多人来说，工作不过是端一个饭碗，既不需要他们真正相信自己所宣传的，也不需要能够使他们的受众真正相信。但是，他们的工作又不能没有成果，所以就只能宣传那些无法作效率评估的空洞无物的口号。</p>
+<p>官场上不能说真话和社会中不能说真话是共生的现象。下级向上级所作的呈报会一级级过滤掉不好的消息。研究德国历史的历史学家富尔布洛克（Mary Fulbrook）对东德的观察是：“关于民众支持政权和统治者的报告，在从地方向中央的汇报中，一层层地越来越好听。……东德的地区党委书记向柏林的报告总是陈述一连串的成绩，在提到现实问题时谨小慎微……这形成了一种党内的虚假风气”，大家都知道真话常常会有害无益，“没有人批评，也就没有真实。当领导对自己的伟大深信不疑的时候，拍马溜须的人也就自然多了起来”。</p>
+<p>极权宣传的<strong>第三个内在缺陷</strong>是，党逻辑的意识形态无法控制人对经验世界的感受。为什么连宣传干部都难以相信自己所宣传的东西呢？这是因为他们也是生活在经验世界中的人，在这一点上，他们和老百姓并没有太大的区别。埃吕说，宣传必须与事实相符才能取信，“碰到了很多、很具体的事实不符，就再难相信”。 东德宣传社会主义比资本主义优越，必然在历史中取代资本主义，但经不起东德人与西德的经验性比较。东德宣传总是说“社会主义民主”比西方的“自由民主”更民主，但人们的经验事实是，公民并不能自由言论、自由集会、自由选举。东德宣传总是说东德的社会比腐朽没落的资本主义光明道德，但人们在这个社会中看到的却是普遍的虚伪、谎言、阴谋、暴力和非正义。</p>
+<p>用一党意识形态来解释一切现实经验，它的基本条件是将国家与外界，尤其是与外界信息彻底隔绝。这在当时的东德已经很难做到，这样做必须付出太高的政治和经济代价。在无法用意识形态进行思想控制的情况下，只能越来越借助于强权和暴力压制的手段，如国家安全秘密警察或军警对任何群众场面如临大敌，随时准备动用武力进行镇压。这等于政府自己在宣布已经失去了民心，承认老百姓已经成了它必须时时防范的对象。这样的政府权力实质上已经变成了一个得不到民心支持的统治。</p>
+<p>德国统一社会党政权在东德存在了四十年，在这四十年里，它一直把宣传当作一项最重点的政治工作，对宣传加强了又再加强。但是，宣传还是成了一件越做越棘手，越做越事与愿违的事情。东德的宣传既不是无效的，也不是无用的，它是四十年来德国统一社会党政权的主要支撑之一，没有它，这个政权也许早就垮台了。但是，尽管这个政权在宣传上投入了极大的人力物力，宣传的“有效性”却一直不能令它的主子满意。</p>
+<p>就“有效性”而言，它所取得的效能未必就是它想要取得的，而它想取得的效能却一直到最后都无法取得。真正成功的宣传是塑造“新人”，形成“新思想”，让受宣传者心服口服地追随宣传，诚心诚意地接受宣传的立场和想法。<strong>东德四十年的宣传没有能取得这种有效性，就此而言，它是失败的。</strong>但是，它却在另一种意义上是相当有效，相当成功的，那就是，它确实消除了异端的声音，维持了一种至少是表面上的统一思想、统一行动。由于宣传的力量， 人们在“大是大非”问题上不得不充分“自觉”而“积极”地配合，不得不在公开场合有正确的表现和正确的行为。“党宣传”实现了那种以“正确行为”代替“正确思想”，以条件反射代替理性思考和判断的有效控制。这种表层效用并不是宣传以前所能满足的，也许至今仍然不是它所最理想的，但是，即便是退而求其次，对维持极权统治，这样的宣传也绝对是必不可少的。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/s26036423.jpg?resize=291%2C453" alt="s26036423" data-recalc-dims="1"><br><span>“党宣传”为何难以成功？</span><br><span> 出自 /《统治与教育》</span></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E4%B8%9C%E5%BE%B7%EF%BC%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%85%9A%E5%AE%A3%E4%BC%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E5%88%B0%E6%9F%8F%E6%9E%97%E5%A2%99/?category=18271" rel="tag">推到柏林墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/?category=18271" rel="tag">政治理论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%8F%E6%9E%97%E5%A2%99/?category=18271" rel="tag">柏林墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8C%A8%E4%BA%86%E4%B8%80%E9%97%B7%E6%A3%8D/" target="cdt-mirror">万维读者网 | 王岐山挨了一闷棍</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/%E4%BB%BB%E5%BF%97%E5%BC%BA.jpg?resize=580%2C392" alt="任志强" data-recalc-dims="1"></p>
@@ -39,7 +100,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%BB%B4/?category=18271" rel="tag">万维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E9%BD%90%E6%84%8F%E8%AF%86/?category=18271" rel="tag">看齐意识</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BF%915000%E5%AE%B6%E7%BD%91%E7%AB%99-%E4%B8%A5%E6%9F%A5%E6%B6%89%E6%81%B6%E6%80%A7%E6%94%BF%E6%B2%BB%E8%B0%A3/" target="cdt-mirror">新京报 | 去年中国关闭近五千家网站 严查涉恶性政治谣言</a>
 </h2>
@@ -805,54 +866,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%9C%BA%E5%85%B3%E5%A4%A7%E9%99%A2%E7%BA%A2%E5%A2%99%E6%B7%B1%E9%94%81%EF%BC%8C%E5%B0%81%E9%97%AD%E5%B0%8F%E5%8C%BA%E6%83%B3%E6%8B%86%E5%B0%B1%E6%8B%86%EF%BC%9F/" target="cdt-mirror">凯风：机关大院红墙深锁，封闭小区想拆就拆？</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg" rel="attachment wp-att-429960"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg?resize=500%2C319" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg?resize=300%2C191 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>微信公号：鸡蛋与高墙（ID: eggs-walls）<br></strong><br>
-变封闭小区为开放街区，毫无意外，引发轩然大波，有党媒甚至出面声称“拆除小区围墙，不是拍脑袋决定的”。</p>
-<p>以往的政策，争议不少，来自官方媒体的辩护也不少，大多拿出国际惯例、援引专家观点，但直言“不是拍脑袋”的却不多见，这多多少少也算是一种政治风向。</p>
-<p>问题仍然存在，既然不是拍脑袋决定，为何十多年前房地产市场化时，街区模式未能成为主流选择？有官员说是国人文化观念落后。然而，十多年前，除了机关大院之外，封闭小区并不多见，封闭小区恰恰是这十多年房地产开发的产物，是现实在前，观念在后。</p>
-<p>是什么现实影响了观念？首先是政府对于土地财政的迫切需求。相比于细分地块的街区模式，大范围出让土地，既能减少工作强度，还能最大程度攫取土地出让收益。当初为土地收益而鼓励封闭小区，如今为了“集约更多土地”精打细算，转而推广街区模式。前前后后，都是自身利益衡量，至于缓解拥堵只是附属产物。</p>
-<p>其次，封闭小区最令人青睐的莫过于私密、安全和完善的公共配套。业主之所以愿意为这些服务额外支付更多成本，最根本的原因在于小区之外治安保障不力、公共配套失衡。离开小区，既无公园，也无街头休闲空间，高容积率建筑密布导致城市天空大范围消失，至于治安形势更是不如人意。这里的结论是，先有政府推卸治安责任和公共配套责任，然后才有封闭小区的自我保护机制。</p>
-<p>再次，就在政府提出变封闭小区为开放街区的同时，北京广州等地都在四处推广城中村封闭式管理。这足以说明，政府对于自己的治安管理能力缺乏信心，否则何必以封闭式来保障城中村安全？相比于小区道路为业主所有，城中村中不乏市政道路，不顾市政道路公共性而封闭城中村，内内外外，从无半点法治考量。</p>
-<p>所以，封闭小区，既是当初“大盘化”开发的必然结果，也是休闲空间、公共配套资源分布不均衡的必然选择。究其根本，政府追逐短期利益推卸公共责任，小区业主不得不寻求自我防护，并为此支付额外成本。</p>
-<p>有人说，追逐小范围的安宁，是中国典型的精致利己主义的居住模式。这话说得有点含糊，在知乎上有人更加直言不讳，封闭小区是富人掩盖贫富差距的规划产物。且不说封闭小区的房奴，有多少列入富人基层？这两种观点，无不把问题推给小区业主，一如政府把交通拥堵和土地浪费的责任推给封闭小区。</p>
-<p>还有人说，开放街区是国际惯例，独独中国“华南新城”之类的大型封闭小区大行其道。从规划科学性上说，开放街区当然优于封闭小区，原因不仅在于土地集约利用和道路资源优化，更在于社区融合。但规划是否科学，从一开始到现在，都不由规划专家决定，更不由公众决定，只有 政府，才有大笔一挥的权力霸气。显然，”造城运动”的根源不在规划而在权力。</p>
-<p>还有人说，想要开放小区，首先开放机关大院。道理显而易见，小区产权属于私权，归业主所有，而机关大院产权属于单位所有，机关性质又决定其公共属性，开放机关大院，恢复街区功能，自是义务所在。但业主因为私权而反对，机关单位更会因为利益而反对。</p>
-<p>如今开放机关单位公厕都困难重重，更不用说完全开放机关大院。广州3岁女童借用司法局公厕直接被拒，司法局以存在“重大安全隐患”作为回应。市民借用机关厕所，都会存在重大安全隐患，要想从机关内部通过，岂不是翻了天了？</p>
-<p>机关大院红墙深锁，业主矮墙不堪一击。权力与权利的对垒，结果或许是料定的。但鸡蛋与高墙（eggs-walls），永远都在！</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%87%AF%E9%A3%8E.jpg" rel="attachment wp-att-429959"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%87%AF%E9%A3%8E.jpg?resize=250%2C250" alt="凯风" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/凯风.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/凯风.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/凯风.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/凯风.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/凯风.jpg?w=430 430w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%9C%BA%E5%85%B3%E5%A4%A7%E9%99%A2%E7%BA%A2%E5%A2%99%E6%B7%B1%E9%94%81%EF%BC%8C%E5%B0%81%E9%97%AD%E5%B0%8F%E5%8C%BA%E6%83%B3%E6%8B%86%E5%B0%B1%E6%8B%86%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9A%E4%B8%BB/?category=18271" rel="tag">业主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E5%8C%BA%E5%9B%B4%E5%A2%99/?category=18271" rel="tag">小区围墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE%E8%A1%97%E5%8C%BA/?category=18271" rel="tag">开放街区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%BB%84%E7%90%A6%E8%A2%AB%E6%8B%98%E5%A7%8B%E6%9C%AB%EF%BC%9A%E5%B8%A6%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E6%8F%AD5-12%E9%87%8D/" target="cdt-mirror">自由亚洲｜黄琦被拘始末：带外媒记者揭“5.12”重建工程丑闻</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard16_142.jpg?resize=303%2C232" alt="黄琦" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard16_142.jpg?resize=300%2C230 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Clipboard16_142.jpg?w=303 303w" sizes="(max-width: 303px) 100vw, 303px" data-recalc-dims="1"></p>
-<p>民间网站六四天网创始人黄琦（六四天网）</p>
-<p>四川成都“六四天网”始创人黄琦，上周五带领三名日本记者采访“5.12”地震后重建工程丑闻时，被治保大队人员以“非法聚会”为由干预，双方爆发冲突，随后遭当地警方拘押。黄琦告诉本台，当局因害怕将地震中的豆腐渣工程，及重建工程中出现的强征、强拆等丑闻曝光，而对他们进行严厉打压。</p>
-<p>与黄琦同时被抓的三人，包括来自都江堰的维权人严塔凤、严塔兵，以及邀请黄琦前往绵阳的维权人士杨秀琼，四人至周日才陆续获释。黄琦周一接受本台采访时讲述了事情的经过。</p>
-<p>黄琦：“2月18号的时候，我和三个日本记者一起前往都江堰龙池镇采访了“5.12”灾后重建中的一些工程问题。我们大约在第二天早上九点钟共同抵达绵阳杨秀琼家，采访绵阳当地打着抗震救灾旗号，征用杨秀琼家土地，并且把她老公弄进班房的事。我在七点钟的时候到了杨秀琼家，晚上22点的时候，突然间就冲了进来5个治保大队的人，他说你们在这非法集会。我一听就知道他们是来构陷了，因为我们去绵阳之前，就预计了当局会采取手段阻止我们对灾后重建问题进行深度揭露。这五个人都不愿意出示证件，把他们的红袖套亮给我们看，说这个治保大队的徽章就是工作证。我说你在搞笑，公安局执法大队需要有警官证和相关的传唤手续，我就叫杨秀琼马上打电话报警。警察接通电话之后治保队员就往外面冲，杨秀琼就把门堵住不让他跑出去，双方就发生肢体冲突。不到一分钟时间，屋里屋外就冲出了40多位特警、便衣，就把我们双方斗殴这个理由把我们带向防暴警车，拉到了绵阳城郊派出所分开关押。</p>
-<p>晚上9:30的时候，成都的三名国保开车把我往成都送，同时杨秀琼在释放出来以后也被当地的三名国保押往成都大邑县，一直到今天是到了西昌卫星基地被旅游。在回来的途中日本记者告诉我们，他们在当天傍晚在北川县灾区进行采访的时候被二十多个人抓住，送回来成都。”</p>
-<p>记者：“这个事情为什么会有国保介入？”</p>
-<p>黄琦：“中国大陆对于512工程灾后重建是非常注重的。众所周知，在2008年的时候512地震刚刚发生28天，当局就把我判了五年。他们主要担心的是我会把这些豆腐渣工程问题，特别是灾后重建当中的征地、拆迁，还有关押农民判刑等等很多腐败问题揭露出来。此次日本记者他们采访的主题，是日本大地震的重建工作和中国大地震的重建工作对比，我想这个对比的数据和相关的情况出来的话，会让世人对中国大陆灾后重建机制产生重大的质疑，也是当局对我们迅速采取措施进行打压的主要原因。</p>
-<p>记者：“日本记者的采访还能继续下去吗？”</p>
-<p>黄琦：“他们还会把这个工作继续下去，当局也没有资格去驱逐这些日本记者，他们这种做法也是违反国际惯例。我想当局在这个问题上面，也不愿意闹的满城风雨，所以我想，日本媒体还是会就此事继续关注报道。当然我们天网人权事务中心在地震以后，前前后后有十多名义工入狱，我们也不会放弃的。特别是一个重要的问题，灾后重建过程当中产生的一些新的受害者，并且受害者的总人数在中国四川境内是非常庞大的数字。</p>
-<p>据中国民间调查数据显示，汶川发生的地震，造成约30万人死亡，21.6万间房屋倒塌，其中包括6898间校舍。2009年，黄琦因调查灾区学校豆腐渣工程，曾被当局以非法持有国家机密罪判刑3年。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%BB%84%E7%90%A6%E8%A2%AB%E6%8B%98%E5%A7%8B%E6%9C%AB%EF%BC%9A%E5%B8%A6%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E6%8F%AD5-12%E9%87%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E8%85%90%E6%B8%A3%E5%AD%A6%E6%A0%A1/?category=18271" rel="tag">豆腐渣学校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%90%A6/?category=18271" rel="tag">黄琦</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -864,7 +877,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -874,5 +887,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

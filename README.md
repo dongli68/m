@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BC%A0%E5%AA%92%E8%A7%82%E5%AF%9F-%E5%8F%B2%E5%AD%A6%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9E%97%E5%98%89%E6%96%87%E8%87%AA%E6%9D%80-%E9%81%97%E4%B9%A6%E5%85%A8%E6%96%87/" target="cdt-mirror">新传媒观察 | 史学天才少年林嘉文自杀 遗书全文</a>
+</h2>
+<p><p><strong>烦请所有得知我去世消息的人，如果你们觉得不能理解我，请给予我基本的尊重，不要拿我借题发挥，像对江绪林一样，那种行为挺卑劣、愚昧的。我实在不想虚伪地以令人作呕的谦虚把自己“留与后人评说”——以我自己的解释为准就好了。</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640NWROGOGU.jpg?resize=550%2C345" alt="林嘉文" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640NWROGOGU.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640NWROGOGU.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>林嘉文： 最后的话</p>
+<p>终于还是要离开。一走了之的念头曾在脑海里萌发过太多次，两年多来每一次对压抑、恐惧的感受都推动着我在脑海里沉淀下今日对生死的深思熟虑，让我自己不再会觉得自己的离开只是草率的轻生，让我可以以为我最终的离去不仅是感性地对抑郁、孤独的排解，也是种变相地对我理性思考之成果的表达。</p>
+<p>未来对我太没有吸引力了。仅就世俗的生活而言，我能想象到我能努力到的一切，也早早认清了我永远不能超越的界限。太没意思了。更何况我精神上生活在别处，现实里就找不到能耐的下脚的地方。活着太苍白了，活着的言行让人感到厌烦，包括我自己的言行，我不屑活着。离世前唯一的担忧是我的遗体大概会很难看且任人摆布，周围的环境决定了人很难有个体面的活法，连小小的中学里也处处是浓厚的政治气息（举一小小例子，西中教学楼内教师办公室靠走廊的的门窗无不是人为地被用纸贴上或用柜子挡住，或者干脆办公室靠走廊一侧就没建窗户，而学生教室却可随时被人从窗户向里一览无余，这就是种显而易见的对等级氛围和身份权利差异的暗示，套用周振鹤先生的概念，可谓之校园政治地理学。可叹很多老师从没意识到过他们这种不自重，用寡鲜廉耻评价毫不过分，因为他们一面对自己享有的这种特权安之若素，另一方面却大量抱怨着中学老师社会地位、收入、学校里面领导的官僚化作风，却不反思自己），这样的社会风气里，容不下安乐死这样很个人主义的事的，因为总有人想榨取别人，自然不能放别人自由地生死。</p>
+<p>烦请所有得知我去世消息的人，如果你们觉得不能理解我，请给予我基本的尊重，不要拿我借题发挥，像对江绪林一样，那种行为挺卑劣、愚昧的。我实在不想虚伪地以令人作呕的谦虚把自己“留与后人评说”——以我自己的解释为准就好了。更何况我相信那些芸芸大众里的旁观者，只会给出那种为我所不屑的轻薄、庸俗的解释。</p>
+<p>你们知道吗，在这最后的时刻，在我给除刘雅雯外的每个人——包括我的亲人与学友——写下这些话的时候，内心竟然有种施舍般的悲悯。我想我应该坦白地告诉你们这一点，好让你们以对我的狂傲和自以为是的嘲笑，来减少点你们心里的恐惧。</p>
+<p>遗嘱见下：</p>
+<p>……</p>
+<p>3、希望我的父亲能知足，珍惜我的母亲，同时改掉自己家长制的脾气以及极差的饮食追求，认清自己实际的生活能力和状况。太爱出去跟别人骑自行车，其实是不够挂念妻子和家庭。不要再保持那种单身宅男才会有的饮食习惯了，不健康，且这种饮食习惯是对性格和责任心的投射，说明人活得浑浑噩噩。</p>
+<p>4、希望我的母亲能振起精神来多抓抓工作，多去挣钱。这样若我父亲先离开，至少还可以维持生活。一个志在过小日子的人，精神也会很脆弱，要学会找些东西依靠。金钱是可以依靠的，另外还有志业也可以支撑人。</p>
+<p>5、剩下两次心理咨询，建议我父母分别去找郑皓鹏谈一次。我的离开不需要、不应该追责任何人，尤其是郑皓鹏，否则就是在侮辱我。我连我对刘雅雯的爱恋都没对郑皓鹏坦白过，而且我的心理问题太形而上了，郑皓鹏似乎比较适合解决诱因比较具有现实性的心理问题。</p>
+<p>6、感谢西北大学招生办刘春雷主任邀请我报考西北大学，很抱歉辜负他一片诚意。谢谢北京大学历史学系将我评为夏令营的优秀营员。谢谢邓小南老师的关照。</p>
+<p>7、每次去李裕民老师家都能感受到平日很少能体会到的温馨和安稳感。我对不起李老师夫妇对我的关爱。</p>
+<p>8、谢谢李范文老师一年多来对我的提携，答应给李老师整理《同音研究》的事也做不到了。恩情难报。</p>
+<p>9、向我的“朋友”们致歉，抱歉我给过你们一些错觉，我曾自私地想让我尝试去适应与世界相处，努力过放下我自以为是的精神洁癖。但我天性敏感，总是善于从在貌似愉快的氛围中的发生的小小分歧里窥探出自己与别人的殊途，让你们为我这么一个于你们活下去无意义的人耽误了些许时光。</p>
+<p>10、我要承认我对历史研究的日久生情。之前在媒体上抑或私下里，总冷冰冰地说历史研究只是渐渐随年岁长进而被我习惯的工作而已。但活到最后，对之还是曾有过牵挂。人活在世上，实在不该太把自己当回事，但只要人要赖活着，总得靠某种虚荣来营造出自我存在的价值感，无用的历史研究曾让我底气十足。虽然我的两本著作烂到算作草稿都不配，但我对我的学问有信心。我对古人的历史没什么兴趣，但每当我为活着感到疲惫、无趣时，对比之下，我总会自然地想去缩进历史研究的世界。但是即便是做研究，也并非能让我拥有尽善的生活感觉，因为有太多虚假的“研究”，还因为本质上少有其他人会对研究爱得纯粹。一个人喜欢追索，哪怕是对任意领域的，都会受到现实的阻挠和精神的压迫。问太多、想太多是种折磨，因为这样的情况下人会很难活得简单肤浅起来。好像说远了，其实仅就对做历史研究的想法而言，我只是想明白了心有天游，拘泥在一门学问之中，那样活着也是很庸碌的。</p>
+<p>说放下也就放下了。</p>
+<p>林嘉文</p>
+<p>2016年2月23日 于西安</p>
+<p><strong>相关阅读：</strong></p>
+<p><a href="http://news.sohu.com/20160224/n438392149.shtml" target="_blank">曾出版史学专著高中生林嘉文因抑郁症离世</a>（官方报道）</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%88%98%E6%93%8E%EF%BC%9A%E8%BF%BD%E5%BF%86%E4%B8%8E%E5%90%AF%E8%BF%AA-%E6%82%BC%E6%B1%9F%E7%BB%AA%E6%9E%97%E5%8D%9A%E5%A3%AB/" target="_blank">刘擎：追忆与启迪——悼江绪林博士</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BC%A0%E5%AA%92%E8%A7%82%E5%AF%9F-%E5%8F%B2%E5%AD%A6%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9E%97%E5%98%89%E6%96%87%E8%87%AA%E6%9D%80-%E9%81%97%E4%B9%A6%E5%85%A8%E6%96%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E4%BF%97/?category=18271" rel="tag">世俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">历史研究</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4/?category=18271" rel="tag">天才少年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%98%89%E6%96%87/?category=18271" rel="tag">林嘉文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B5%85%E7%BB%BF%E8%9B%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E9%99%86%EF%BC%9A%E7%BB%8F%E5%8E%86%E7%AF%87/" target="cdt-mirror">浅绿蛙在”祖国大陆”：经历篇</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-%E4%B8%8B%E5%8D%883.53.16.png?resize=555%2C417" alt="Screen Shot 2016-02-22 at 下午3.53.16" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-下午3.53.16.png?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-22-at-下午3.53.16.png?w=555 555w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
@@ -894,60 +927,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%83%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-2-21/" target="cdt-mirror">奇闻录 | 周末段子荟萃 2-21</a>
-</h2>
-<p><p>@LizhaoJ：习近平干了件好事，再次确认了党的喉舌的归属。那些在党办的必须姓党的媒体混饭吃的人，就别再假装自己有独立人格，自由见解了。</p>
-<p>@Dharmasong：姓党和姓赵是两回事，干活的时候，你必须姓党，分钱的时候，你也配姓赵。</p>
-<p>@MyDF：央视姓党，与其说是公器私用，不如说是党把私器亮出来了。</p>
-<p>@chuhan：跟党走是苏联式话语，跟党姓是东方宫廷语言。不含价值评判地说，今上把天朝变得更像天朝了。</p>
-<p>@takamy50：很明显，一等人姓赵，二等人姓党，其他人随便。</p>
-<p>@Zodiac4698：其实重点不在“姓党”，而是在于“检阅”二字，所谓“党的喉舌”实际在共产党的意识形态里就是一支部队，“宣传”（撒谎造假）的本质叫“宣传战”！是要战斗的，和谁战斗？和人类的良知，公理，常识，逻辑，乃至于最起码的恻隐之心战斗！直到泯灭人性。</p>
-<p>@wentommy：今天大中华区区长视察了一座电视台、一间通讯社和一家报馆。电视台打出了“央视姓党”的口号，那个叫“新华”的通讯社，一直自称“国社”；报馆叫人民日报。党、国、人民，三大概念得到了贯穿统一。这是对“天人合一”哲学思想的升华，预示着中华民族一个前所未有的伟大即将实现。</p>
-<p>@uponsnow：中国媒体人自称“卖艺不卖身”的暧昧年代随着包子座谈会结束了，明确了所有媒体姓党包括自媒体在内。 技术上来说从明天起还自称做媒体的中国人等于公开接受了这一侮辱，自认姓党。所以我不会叫你吴晓波，只会叫你党晓波。</p>
-<p>@CaoMu：总书记根据提示按了一个按钮，周围响起了热烈掌声。这新闻太智障了，宣传口真是大蜜似黑。</p>
-<p>@xcityonfire：CCAV姓党，各位受惊了？中国都姓党。中共、“中共国”政权、中国，在政治上“三位一体”，其中之一即代表其余，中共非常乐见“爱国不爱党”这种政治白痴。</p>
-<p>@陶景洲：【坦荡的观点】今天看到习大大视察央视时的标语“央视姓党，绝对忠诚”，不期然想起1998年朱镕基视察央视时破例写出的：“舆论监督，群众喉舌，政府镜鉴，改革尖兵。”当时在场的一位高级领导提醒应是“党的喉舌”，朱总理大声说道：“我没有写错！为这16个字我想了一宿，天亮时血压都上去了。”</p>
-<p>@hnjhj：上午十点，习主席在央视演播室和大家愉快地攀谈着，当他走到主播的位置坐下后，突然心情沉重，沉吟半响后对大家说：“坐在这个位置上，让我想起过去的很多事情，尤其是当年在福建的时候”。这时刘云山及时踢了他一脚：“好了好了，主席今天累了一天，导播把这一段掐掉”。#花絮</p>
-<p>@alicedreamss：【党天下】在中国，央视姓党、法院姓党、军队姓党学校姓党、警察姓党、银行姓党医院姓党、宪法姓党、企业姓党……没人民啥事！但它们却叫做人民政府、人民法院、人民军队人民医院、人民银行、人民警察……</p>
-<p>@damyata：早就说过，你国，是理想主义去死去死国。剩下的只是一次次印证，痛苦消沉。</p>
-<p>@maylogcom：#转：换了个赌场老板，赌客们兴奋得很，觉得自己以后就能赢钱了。 #肖钢</p>
-<p>@石述思：肖钢注定是个悲剧性人物。守着一个制度不健全的烂摊子，夹在政府派和市场派中间，面对韭菜一夜暴富的渴望、既得利益者的疯狂、最高决策者的战略诉求，他试图推动的所有变革都缺乏天时和足够的弹药，他的离去不可能带来中国资本的清明时代，充其量是受伤股民的一个迟来的安慰。金融变革决定着改革的命运。</p>
-<p>@wentommy：路透社新浪官微称肖钢请辞，“辟谣”后，账号就被封了。一月后，党中央委托国务院宣布肖钢免职。个人理解：知情人士或肖本人向该社透露了请辞意向，这破了组织原则。好比党籍，主动退？难，得等组织开除。正部级高官，说不干就不干了？肖钢和路透，都违反了政治纪律，有资产阶级自由化倾向。</p>
-<p>@chuhan：加税扩权的时候经济右不见了，扩张福利的时候经济右出现了。姓党的新保守主义。</p>
-<p>@tombkeeper：【网络部门证实：“上海女孩逃离江西”从头至尾均为虚假内容】“根据网络部门的信息梳理”，我比较感兴趣“网络部门”是什么部门，又是怎么做的“信息梳理”。我当然相信“网络部门”可以轻松得到这事儿的答案。但这不是刑事案件，也不是民事案件，这根本就不是案件，然而“网络部门”想出手就出手了。</p>
-<p>@王大国中庸：我是党的一泡尿，随时随地听党召。党让滋谁就滋谁，不怕淹了龙王庙！——1979年群众赛诗大会极品钻石奖作品</p>
-<p>@陈丹青：【改革】为什么大家对中国经济这么绝望，其实不难理解。口口声声供给侧改革，结果涉及企业降费的水电煤气一样没降。成品油按规矩该降也不降，还加税。一会儿说推迟退休，一会儿是退休人员交医保，全在老百姓身上打主意。既得利益者铁桶一块，不肯让出一点儿利益。所谓改革，全靠一张嘴。</p>
-<p>@libearal：“我们最后都是要走的，但是你比阿共们先走，这就不对了”，这个没心没肺的家伙啊，不过我还是笑出来了……</p>
-<p>@tom2009cn：这个国家好像是发展了，漂亮的楼盖的哪里都是，高速公路汽车拥堵的塞满了所有的路面。但没有多少人感到安全，人人都觉得这船要沉，官僚与富豪们多少年前就已转移资产，中产阶级只要可能也忙不迭的全家出逃。平民们正一天天走向绝望，更深的绝望。知识阶层面对高压，感到无话可说。这是思想彻底的绝望。</p>
-<p>@格瓦拉：【鸟语】季节变换，一只候鸟飞来，遇见在池塘里游泳的鸭子，候鸟说：那边的水要比这清澈多了，鱼虾也多……鸭子正色地说：你这是传播西方价值观啊！我已经举报了，你快闭嘴吧，你知道我们的生活变化有多大吗？而且，烤鸭现在什么价钱吗？说出来吓死你……</p>
-<p>@GYTV： 环球时报微博很得意地发微博说，确认：习大大也看环球时报……注意，确认二字境界十分高，一般想想能琢磨出八卦味道，仔细想想能体会到到党的喉舌盼望翻牌子的急迫感。</p>
-<p>@明哥Roger：老家开始流行挂领袖像了，岳父说买不到标准照，只能买到四元的这种挂画，有标准照他四十也会买，七张小照片有四张是关于奥巴马和米歇尔的。老人说自从华国锋画像被强制收走上缴之后，江胡时代一直没有挂过领袖像。</p>
-<p>@teacofeewine：我最讨厌什么都扯上“种族歧视”，就像在中国，动辄被诬“卖国贼”。我在北美十五年，被美国人善待、帮助的故事太多了。而特别明显的种族歧视待遇，都是来自中国人，去中国领事馆签证被刁难，被机场华人安检折腾，被糕饼店的广东台山人板脸……。他们都非常一致地对老美笑容可掬、点头哈腰！</p>
-<p>@WoodenHarp： 任何和科学、哲学、政治等等人类文明主流题目有关的东西，简体中文资料如果不是逐字逐句翻译西方优秀研究人员正式发表的可靠资料，都可以直接忽视。这倒不是说其它的简体中文材料一定不好，只是用于筛选的时间精力远远大于所得。</p>
-<p>@gseed12：現在還宅在研究數學和物理民科想拿諾貝爾的真是比較蠢的，不太蠢的民科都在研究經濟和金融了，根本不會被打臉，風險低，收益高（出書講座都可以），門檻更低（會編段子不？會編時事經濟段子就行… 什麼！？你不會？來這裏我教你速成法，只售998！</p>
-<p>@dobstars： 在0506年席卷各大论坛的科普浪潮，在如今你国朋友圈狂转的民科引力波事件中露了原型，80后仍然是科盲神棍遍地。科普的基础是言论自由，言论自由的保障是民主体制，所以，民前无科普，什么松鼠会，果壳网，只能手淫，科普歇菜吧。</p>
-<p>@maylogcom：#转：我们听了太多灵机一动的科学故事。牛顿被苹果砸头，灵机一动发现万有引力；瓦特看见烧水壶，灵机一动发明蒸汽机，似乎一拍脑袋，创意就变成理论了。实际这故事都是假的，科学理论和发明要经过严谨计算推论和大量实验才能成立。民科喜欢以哥白尼自居，可他们从不知哥老三十年的天文观测记录有多厚。</p>
-<p>@linyujing：小时候我爸订阅《飞碟探索》还买了好多过刊。曾经神气的问过我：你知道时间是啥吗？那时候我读中学，一脸鄙夷的答：时间不就是你手上戴的表么。还好后来我爸闲下来后没有向民科方向发展。我给他买了台电脑上网，转向了业余国际形势时事评论人的角色，没事儿打打嘴炮预言一下共产党要完。</p>
-<p>@maylogcom： #转：看那几个女生因为殴打同学被送进监狱，就该知道为什么美国犯罪率高，而中国的低了。很多在美国是重罪，但是在中国连治安处罚都不算。</p>
-<p>@lobytao20： 顾客：“可以用Apple pay吗？”店员：“别说英文，听不懂！”顾客：“……可以用苹果支付吗？”店员：“你怎么这么牛逼呢？你咋不用猕猴桃支付呢？！”</p>
-<p>@Cattyhouse：华联超市，我：刷卡。服务员：卡给我。我：我用手机刷。服务员：微信还是支付宝。我：都不是，你进入刷卡模式，我用手机刷。服务员：不可能的，我们不支持。我：麻烦了。服务员：那我试试。我iPhone对着刷卡机，屏幕亮了，我按下指纹。服务员：不好意思我们年纪大了，不知道还能这样。</p>
-<p>@simpleblue：网贴《霸气媳妇回农村：光干活不让上桌掀翻了自己做的一桌子菜》。发贴者称，自己第一次回丈夫农村老家过年，去之前一个月开始研究做菜。忙完一桌菜，公婆却赶她出去吃饭：“哪有女人上桌子吃饭的？” 城里媳妇一把掀翻一桌菜。</p>
-<p>@Vela1680： 江西人开个脑洞：如果大上海小伙子和美国姑娘在美国认识，回上海过年，美国人发现不能上谷歌（假设上海小伙子不会翻墙），看到他的父母在看春晚上的共产党政治宣传，会不会掉头就走？当然可能会稍微文明点回去再分手不会立即发作。</p>
-<p>@ld0905：Apple芯片的总设计师Srouji是以色列人，他爸是个工匠，他有个很特别的理念：如果有人给他的活很简单，他会收取较高的费用，如果有人给他的活很复杂，很困难，甚至是他之前没做过的，那么他会收取很低的费用甚至不收费用。#这对于赵国人来说简直不可思议是吧？</p>
-<p>@tonyq0802：大公司强奸 Android 用户现在连招呼都不打了，我今天没事干按了 qq，晚上发现给我推一消息说我今天走了 1 万多步，排名 xx，看系统自带权限管理跟没有要过传感器，再一看耗电果然排第一。设置里也没有关闭计步的选项。</p>
-<p>@haOFei：一个晚上天天去夜总会拉皮条的女大学生和一个天天白天上大学的妓女，你肯定更倾向于后者。这就是情怀的价值。</p>
-<p>@孙小姐：老妈一个同事，说话非常直接呛人，说话做事均显天真任性，女性，独身，工作稳定；我不很喜欢她。后来才知道她当年是支援 SARS 前线的医生，中途感染 SARS ，在医院隔离了一个多月，已经做好赴死的准备，结果又捡回来一条命。大概死掉一次的人，才能更理解要怎么活着吧。</p>
-<p>@for8520：在宾馆洗澡，突然发现镜子上慢慢显现出几个字：“我死的好惨！” 我不由大吃一惊，心中暗想：“这鬼竟连 ‘的地得’ 都不分。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-2-21/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%93%E5%85%9A/?category=18271" rel="tag">姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -959,7 +938,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -969,5 +948,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

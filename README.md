@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E7%8E%8B%E8%8F%B2%E8%A2%AB%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93%E6%8C%87%E6%8E%A7%E4%B8%8E%E8%BE%BE%E8%B5%96%E6%A0%B8%E5%BF%83%E5%A4%B4%E7%9B%AE%E5%85%B1/" target="cdt-mirror">法广 | 王菲被官方媒体指控与达赖“核心头目”共同出席法会</a>
@@ -53,7 +53,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E4%BA%BA%E4%BF%A1%E6%95%99/?category=18271" rel="tag">名人信教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AE%9D%E6%B3%95%E7%8E%8B%E5%99%B6%E7%8E%9B%E5%B7%B4/?category=18271" rel="tag">大宝法王噶玛巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%EF%BC%8C%E6%B5%81%E4%BA%A1%E8%97%8F%E6%97%8F%E5%83%A7%E4%BA%BA/?category=18271" rel="tag">流亡藏族僧人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E8%8F%B2/?category=18271" rel="tag">王菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E8%8F%B2%E5%8D%B0%E5%BA%A6%E5%8F%82%E5%8A%A0%E6%B3%95%E4%BC%9A/?category=18271" rel="tag">王菲印度参加法会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E7%8B%AC/?category=18271" rel="tag">藏独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96/?category=18271" rel="tag">达赖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E4%B8%9C%E5%BE%B7%EF%BC%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%85%9A%E5%AE%A3%E4%BC%A0/" target="cdt-mirror">三辉图书 | 徐贲：东德，失败的“党宣传”</a>
 </h2>
@@ -877,7 +877,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -887,5 +887,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

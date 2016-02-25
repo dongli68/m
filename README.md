@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8C%A8%E4%BA%86%E4%B8%80%E9%97%B7%E6%A3%8D/" target="cdt-mirror">万维读者网 | 王岐山挨了一闷棍</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/%E4%BB%BB%E5%BF%97%E5%BC%BA.jpg?resize=580%2C392" alt="任志强" data-recalc-dims="1"></p>
+<p><strong>万维读者网（Creaders.net）傅芮岚评论文章：</strong>连日来，网络大V、前华远地产董事长任志强连续遭到千龙网、中国青年网、环球网的舆论批评，引发民间震动。北京市委所属的千龙网以《谁给了任志强反党的底气》一文，直接给任志强扣上了“反党”的帽子；而紧随其后《人民日报》辖下的环球网转载了中国青年网的评论文章《任志强，你把那条“党章”吃掉了吗？》，痛斥任志强对立党和人民的关系、反对媒体姓党。</p>
+<p>有趣的是，这两则传播甚广的新闻，其实并没有出现在新华社和《人民日报》的网站上，代表了北京市委的千龙网和代表了团中央的《中国青年网》，巧妙的利用了习近平调研党媒讲话和任志强炮轰“媒体姓党”的矛盾，借刀杀人，指桑骂槐，明着批评任志强，暗中闷棍王岐山。</p>
+<p>作为商界知名红二代，前商业部副部长任泉生之子任志强，与中纪委书记王岐山交情深厚，他在《野心优雅》中谈及：<em><strong>1964年秋，我考上北京第35中。从这走出来的最有名的就是王岐山了，他还是我初二的辅导员。当时他上高二，是陪伴我们时间最长的辅导员，从在校学习到上山下乡再到北京工作，我都跟他保持联系。至今他还会偶尔在半夜打来电话。</strong></em></p>
+<p>而《谁给了任志强“反党”的底气》一文中，显然故意用了任志强这么一段说法：<em>这么简单直白的道理，怎么到了任志强的嘴里就成了媒体与人民的对立？任志强把党章里的“坚持全心全意为人民服务”那条吃掉了？我们不禁要问，一个连党章都能无视的党员，公然反党的底气何来？</em><strong><em>一个半夜三更喜欢给领导打电话的任志强</em></strong><em>，究竟谁给了他跳出来推墙的“勇气”？</em></p>
+<p>作为最开明又赢得话语权的红二代，任志强、王岐山等人对于推动中国进步、与世界文明接轨都做出了自己的努力。任志强因其网络影响力，还赢得了“反体制英雄”的称号。那些极左保守的、或者深受习近平王岐山反腐重创的群体，对于反腐操刀手王岐山自然不敢非议，但是指桑骂槐，通过痛责天下皆知的王岐山好友任志强评论习近平“党媒姓党”，达到一箭双雕：给王岐山一闷棍、离间习近平王岐山矛盾。</p>
+<p>跟踪这两天的新闻，可以发现“打狗给主人看”、“骂任志强给王岐山一闷棍”比较成功，而反观常常搂不住火的”任大炮“任志强的低调表现，挑拨离间习王矛盾这一步棋恐未实现；中南海的隔空内斗，给海外观众带来一场又一场免费大戏，快搬小板凳抢前排去。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8C%A8%E4%BA%86%E4%B8%80%E9%97%B7%E6%A3%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%BB%B4/?category=18271" rel="tag">万维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E9%BD%90%E6%84%8F%E8%AF%86/?category=18271" rel="tag">看齐意识</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BF%915000%E5%AE%B6%E7%BD%91%E7%AB%99-%E4%B8%A5%E6%9F%A5%E6%B6%89%E6%81%B6%E6%80%A7%E6%94%BF%E6%B2%BB%E8%B0%A3/" target="cdt-mirror">新京报 | 去年中国关闭近五千家网站 严查涉恶性政治谣言</a>
 </h2>
 <p><p>新京报快讯 记者25日从国家互联网信息办公室获悉，2015年，全国网信系统依法关闭严重违法违规网站4977家，并与多部门密切协作，严厉查处涉恶性政治谣言等违法违规信息。</p>
@@ -55,7 +72,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/430070/" target="cdt-mirror">杨继绳：读《环球时报》文章有感</a>
 </h2>
@@ -836,47 +853,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD%EF%BD%9C%E4%BD%99%E6%9D%B0%EF%BC%9A%E8%B0%81%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%AF%BC%E5%B8%88%EF%BC%9F-%E8%AF%BB%E5%A4%8F/" target="cdt-mirror">民主中国｜余杰：谁是习近平的精神导师？</a>
-</h2>
-<p><p>如何定义今天的中国，海内外知识分子莫衷一是：是共产主义，还是威权主义？是权贵资本主义，还是裙带资本主义？是极权主义，还是后极权主义？似乎没有哪个概念像一件合体的衣服，可以穿在中国的身体上。夏明以“红太阳帝国”来命名之，虽然这不是一个严格的学术概念，对中国现状的描述却栩栩如生、绘影传神。仍是人治的中国，领导人的性情与心理特征对政权模式影响甚大。中共建政以来，想当“红太阳”的中国领导人，除了毛泽东，就是习近平。毛果然成了炽热的红太阳，烤焦了整个中国；而习正在成为红太阳的路上，他的敌人和朋友都在拭目以待。所以，夏明在《红太阳帝国》一书中对中国现状的分析，首先就从对习近平的分析开始。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/08/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E4%B9%A0%E6%80%BB%E6%99%BA%E5%8F%96%E5%A8%81%E8%99%8E%E5%B1%B1.jpg?resize=450%2C337" alt="鳩鵪漫畫：习总智取威虎山" data-recalc-dims="1"></p>
-<p>有人万分崇拜地将习近平看作中国和中共的救星，也有人轻蔑地将其当作小丑和笑话。这两种看法都离真实的习近平甚远。若要透视中共官方尚未出台的“习近平主义”，可将问题转化为“习近平的精神导师是谁？”我曾将“习近平主义”概括成马克思加毛泽东，以及孔子加普京。香港评论人卢斯达敏锐地发现了习近平与汉武帝在创制个人专权体制上的相似性，而更多网友干脆用“习特勒”的绰号表明习近平是“中国版的希特勒”。在《红太阳帝国》的序言中，夏明如此分析说：“习近平作为一个没有理论根基、没有意识形态完整体系的机会主义者，关心的是自己和他所代表的党的权力，因此他会杂糅人类历史上最黑暗和残暴的权力术。对他来说，不仅毛和邓的三十年可以打通，毛主义、邓学说、马克思主义、列宁主义、史达林主义、希特勒的纳粹主义、墨索里尼的法西斯主义、东条英机的军国主义都可以杂交生良种。这是习近平最大的破坏力所在，值得人们警惕。”夏明发掘习近平帝国的特性，集中在习近平的三个精神导师身上：朱元璋、东条英机和施密特。</p>
-<p>习近平与朱元璋</p>
-<p>文革以后至今，中共政权形成了一个新传统，用习近平的说法就是“后三十年”，比如集体领导、最高领导人两届任期限制、军方不再有常委代表、各大山头尤其是元老家族均分肥缺等。江泽民和胡锦涛谨守邓小平的遗训，习近平却不甘心“萧规曹随”，第一届任期还未过半，以上新传统就被其一一推翻，用夏明的话来说，这是一场“宪法政变”。</p>
-<p>夏明指出，这场“宪法政变”包括两个方面。首先，“全面颠覆中共自己制定的八二宪法，十八届三中全会基本废弃人民代表大会制度，总理的权力交给国家主席”。关于“十三五”的经济发展规划，一反此前由总理出面作报告的惯例，改由习近平赤膊上阵，从头讲到尾。据说，就连本应由李克强主持的国务院会议，习近平也常常突然出现，趾高气扬地发表“最高指示”，让李克强在一旁沉默不语。李克强虽然还在位，但总理的传统权力基本被剥夺殆尽。</p>
-<p>习近平从李克强手上夺权，跟朱元璋借助胡惟庸案废除宰相制如出一辙。朱元璋留下的遗诏中明确宣布：“自秦始置丞相，不旋踵而亡。汉、唐、宋虽多贤相，然其中多小人，专权乱政。今罢丞相，设五府、六部、都察院、通政司、大理寺等衙门，分理天下庶务，事皆朝廷总之。以后嗣君，毋得议置丞相，臣下敢以此请者，置之重典。”明朝的制度与汉唐宋相比，最大的不同就是君王亲自独裁。然而，宰相没了，并不意味着政治就清明了。朱元璋废寝忘食处理政务，倒还能勉强维持庞大的帝国的运转；而此后他的后代大都是不肖子孙，把权力委托给太监头子，遂酿成大祸，正如明史学者孟森在《明史讲义》中所说：“太阿倒持，终不可免，权相之外，又有权阉，事固有出于所防之外者矣。”</p>
-<p>其次，习近平以中纪委为铁拳，掀起反贪运动，震慑官僚集团。这跟明朝的皇帝任用宦官主管锦衣卫、东厂和西厂等特务机构，控制文武百官非常相似。明朝的皇帝认为太监没有子孙后代，故而忠心耿耿地为朝廷服务。习近平信任中纪委书记王岐山，也是因为王岐山没有子女，故而可以做到铁面无私。但是，明朝的皇帝重用特务机构，践踏法制，扰乱行政系统和军事指挥，带来更大的弊端，孟森评论说：“明以诏狱属锦衣卫镇抚司，遂夺法司之权，以意生杀，而法律为虚设，盖弊在诏狱，尚不在缉事也。至设东厂以宦官领缉事，是即所谓皇家侦探，其势无可抵抗，诬陷栽赃，莫能与辩，其所谓有罪，即交锦衣卫治之。于是诏书狱超法律之外，东厂缉事又绝裁抑之门。成化中以一东厂为未足，更益以西厂，而缇骑倍之，校尉所至，遍南北边腹各地，又绝非都城地方巡徼之事任。此所以为明代独有之弊政也。”</p>
-<p>今天习近平掀起运动式反腐、选择性反腐，同样无法拯救党国的衰亡。当官僚集团失去理想与方向、深陷于贪腐的泥沼，最高统治者不是启动民主与宪政改革，而是不断设置新的监察和特务机构，于是，公检法、监察部、反贪局之外，还有政法委、中纪委，乃至又设置国家安全委员会。叠床架屋的特务机构之间彼此争斗无休无止，将所有人都当作敌人对待，这就是警察国家的“维稳”特征。最后，法治的根基被破坏无遗，整个政权不可遏止地走向自我毁灭。</p>
-<p>夏明点出了习近平与朱元璋在施政上的相似性，而这种相似性也来自于两人极为类似的早年经历。美国历史学家伊恩•莫里斯在《西方将主宰多久？》一书中论及朱元璋时指出：“朱元璋的所有诏令听起来都好像与他糟糕、贫穷和暴力的幼年生活有关。”习近平何尝不是如此？习近平颠沛流离的少年时代，使他成年后始终沉浸在惊弓之鸟的感觉当中，这种深深的不安全感，让他每每以攻为守、先下手为强。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E4%B9%A0%E6%80%BB2013%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B.jpg?resize=500%2C375" alt="鳩鵪漫畫：习总2013新年愿望" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/鳩鵪漫畫：习总2013新年愿望.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/鳩鵪漫畫：习总2013新年愿望.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>习近平与东条英机</p>
-<p>夏明所谓的“红太阳帝国”有两重涵义，一是文革时代的毛泽东帝国，二是军国主义的大日本帝国。习近平打着纪念反法西斯战争胜利七十周年的旗号在北京大阅兵，等于向世界宣布，他是日本军国主义和“大东亚共荣圈”理念的继承者。</p>
-<p>夏明从习近平的重要智囊、已成为政治局委员的王沪宁的文章中发现了这个秘密。毛时代的文胆如陈伯达曾跃升龙门，位居五大常委之列；但在邓小平时代之后，只会摇动笔杆子的御用文人一般很难再成为“党和国家领导人”，王沪宁是惟一的例外。他先后服侍过江泽民、胡锦涛和习近平三个主人，看成不倒翁。他被习近平重用，不仅因为他是新权威主义的鼓吹者，更因为他是“红太阳帝国论”的始作俑者。</p>
-<p>夏明发现，王沪宁在其早年的著作《美国反对美国》的最后一章中，论及八十年代日本对美国的新一轮挑战，并断言美国的个人主义、享乐主义和民主主义必然输给以日本为代表的亚洲的集体主义、忘我主义和权威主义体制。然而，十年之后，日本在经济泡沫中倒下，美国依然是惟一的超级强国，王沪宁的判断成为泡影。不过，王的另一个判断，“在下一个世纪里，必然会有更多的民族也向美国提出挑战”，则由今天习近平执政的中国来实现。王沪宁隐藏在文字背后的心思意念是，中国将替代日本，以红太阳帝国的态势，“试图把美国，或者说美国赖以立国的‘生命、自由和追求幸福的权利’的箴言，推向危机和失败”。这个想法，与习近平不谋而合。</p>
-<p>二零一四年五月，习近平宣布了由中国主导的“亚洲安全观”，其内容包括“四个安全”：“共同安全”、“综合安全”、“合作安全”、“可持续安全”。也就是说，要建构和西方主导的安全观相反的“中国价值观”和“中国模式”，并进一步延伸为“亚洲观念”。习近平以“三个归根”总结：“亚洲的事情，归根结底要靠亚洲人民办；亚洲的问题，归根结底要靠亚洲人民来处理；亚洲的安全，归根结底要靠亚洲人民来维护”。有分析家说，这有点像当年美国的门罗主义，但实际上它更像日本的“皇国史观”和“大东亚主义”。</p>
-<p>日本“皇国史观”之核心思想是：神化大和民族、日本天皇和日本宗教及文化，宣扬“自存自卫”和“解放亚洲”的“圣战”、“正义之战”。它由持国粹思想主义之学者如大国隆正之流打造，进而演变成类似中国民族主义般、自命为高人一等之天朝观念。而东条英机只是一个被这样的思想观念洗脑的无知军人而已。</p>
-<p>近年来，许多日本进步知识分子对大东亚共荣圈背后的极端民族主义和民粹主义作出深切反思。比如，日本学者堀幸雄在《站前日本国家主义运动史》一书中指出：“席卷日本的疯狂，其最大的源泉是从近代延伸下来的日本主义思想。”他认为，日本主义的问题在于不能作出逻辑性解释。这种导致日本破灭的国家主义运动，一方面旨在通过建立国家社会主义来改造国家；一方面，连绵不断地维持着日本精神的日本主义骄横跋扈之时，所有的人都被疯狂的波涛所吞灭。</p>
-<p>又如，日本思想史家子安宣邦致力于破除东亚这个概念的迷思：“东亚绝非不证自明的地域概念。它于一九二零年代的帝国日本作为文化的地域概念被建构起来。从一九三零至一九四零年代，伴随着帝国日本对以中国为中心的亚洲地区展开的政治、经济、军事，还有知识上的经营策划，东亚成了一个具有强烈政治意味和地缘政治学色彩的概念。为了得以重构这个东亚概念，我们必须弄清楚与帝国日本一起诞生的此概念的谱系，必须看清楚它的消亡过程。不如此，我们就无法保证新兴的东亚概念，不会成为由帝国日本主导的亚洲广大区域之幻想的死灰复燃，不会再出现帝国亡灵式的话语。”子安宣邦对“东亚”这一充满帝国主义色彩的概念的批判和解构，不仅是针对日本，亦是针对中国。</p>
-<p>可惜，从王沪宁到习近平，都不愿倾听这些逆耳之言，而宁愿重蹈东条英机之覆辙。习近平以东条英机为师，在处理南海问题时，耗费比新建三峡大坝还要多的军费修建人工岛，罔顾国际公约和国际法庭，使得南海成为第三次世界大战的引爆场，学者杨鲁军置疑说：“我真的不知道耗资巨量南海工程的真实目的和综合价值究竟何在？为什么不将这笔钱用于七千万中国人的脱贫？”</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/10/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B9%A0%E6%80%BB%E5%A5%87%E8%BF%B9%E6%A2%A6.jpg?resize=551%2C413" alt="鳩鵪漫畫：中国习总奇迹梦" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/10/鳩鵪漫畫：中国习总奇迹梦.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/10/鳩鵪漫畫：中国习总奇迹梦.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>习近平与施密特</p>
-<p>二零一四年十一月，中国社会科学院宣布成立国家意识形态中心，其目的是“打赢新三十年意识形态的斗争”，特别要压制和打击近年来网络新媒体中占上风的自由派言论。此前，中共官方的宣传机构在习近平的默许之下，推出若干御用学者的充满文革遗风的种种谬论。其中，特别突出的是夏明称之为“新四论”的荒诞言说：杨晓青的“宪政属资（资本主义）论”、刘亚洲的“党性神性论”、《解放军报》的“宇宙真理论”、刘小枫的认毛为父的“新国父论”。而复旦大学教授苏长和甚至致力于“将西方民主知识从普世降为地方级别”的学术研究。</p>
-<p>八十年代率先将西方基督教思想引入中国而在学界享有盛誉的刘小枫，突然华丽转身，尤其让人瞩目。当然，这不是刘小枫一个人的问题，同样华丽转身的还有甘阳等人。单单从“被招安”的利益诉求来分析他们的突变是不够的，还需要有更细密的学理层面的分析。刘小枫的转变，从他十多年前钟情于纳粹法学家施密特就开始了。这也是夏明的一个疑问：为什么八十年代中国知识分子热捧倡导“开放社会”的英国思想家波普尔，而最近十多年来，德国的施密特却成为中国思想界的新宠？</p>
-<p>夏明对施密特的思想体系作出四点简明扼要的概括：其一，施密特认为个人主义和国家利益形成内在矛盾，议会民主议而不决，无法打造强大的国家；其二，宪政需要“主权者”行使决断权，“紧急状态权力”则成为一种超宪政权力；其三，“敌友之分”是政治的核心概念，政治的目标就是阻止“敌人”获得政权；第四，主权者或领袖成为满足上述要求的重要条件。所以，施密特会义无反顾地为希特勒服务，甚至在第三帝国灰飞烟灭之后，也从不认罪和忏悔。</p>
-<p>毛时代之后，中共无法生产出富有活力的意识形态，邓小平的“不管白猫黑猫，只要逮到老鼠就是好猫”和“摸着石头过河”的“猫论”和“摸论”，只是实用主义和功利主义的常识，不足以构成激动人心的“精神原子弹”。虚荣浮夸的江泽民提出“三个代表”、谨小慎微的胡锦涛提出“科学发展观”，都只是在邓小平给他们划定的疆界内“守成”而已，他们没有动用巨大的资源营造一套自圆其说、乃至向西方普世价值挑战的“江泽民主义”或“胡锦涛主义”。但习近平跟他们不一样，习有重塑中国官方精神符号和意识形态的雄心壮志。</p>
-<p>为了成为人民的精神导师，习近平首先需要塑造习近平主义或习近平思想。他不仅向中国两千年专制主义传统汲取养料，不仅从马列主义和毛泽东思想中寻求帮助，也不排除向施密特这样在西方被唾弃的思想家取经。于是，作为施密特代言人的刘小枫，从在西方漂泊的边缘人成为在北京享受高等华人待遇的“红人”。刘小枫与王沪宁之间是否建立起了一条“思想热线”，外人不得而知。但王沪宁显然从刘小枫和施密特那里拿来若干思想资源，呈送给习近平，并被习近平转化为中国新法西斯主义的思想原则。当年，蒋介石拼命向希特勒学习，却画虎不成反类犬；如今，习近平从施密特那里拿来纳粹的思想精华，或许能够让枯竭多年的官方意识形态重新生机勃勃。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B%E6%81%B6%E6%90%9E%E4%B9%A0%E6%80%BB.jpg?resize=549%2C412" alt="鳩鵪漫畫：境外势力恶搞习总" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?w=1024 1024w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>至于“红太阳帝国”最终能否在习近平手上打造成形，我和夏明的回答都是否定的——当中共宣传部的内部文件中命令，将“习以为常”这样的成语作为“禁用语”的时候，以习近平为代表的、没有任何道德底线的“不义之徒”，不可能带领中国平安地“出三峡”。夏明通过梳理习近平与朱元璋、东条英机和施密特三个精神导师的传承关系，点中了习近平的死穴。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B0%91%E4%B8%BB%E4%B8%AD%E5%9B%BD%EF%BD%9C%E4%BD%99%E6%9D%B0%EF%BC%9A%E8%B0%81%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%AF%BC%E5%B8%88%EF%BC%9F-%E8%AF%BB%E5%A4%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E6%9D%B0/?category=18271" rel="tag">余杰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E6%98%8E/?category=18271" rel="tag">夏明</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -898,5 +874,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

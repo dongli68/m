@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%EF%BC%9A%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%B8%8E%E6%96%87%E9%9D%A9/" target="cdt-mirror">【CDTV】德国人雷克：任志强与文革</a>
+</h2>
+<p><p>文化大革命重来的话，西方人怎么看？ 让我们陷入困境的不是无知，而是看似正确的谬误论断。——马克·吐温 欢迎关注（汉） ▶雷克 ： http://christophrehage.cn ▶德国自干五 ： http://maozedong.de ▶油管 ： https://www.youtube.com/德国自干五 ▶非死不可 ： https://facebook.com/deguoziganwu ▶推特 ： https://twitter.com/deguoziganwu ▶新浪微博 ： https://weibo.com/leikexiaoliumang ← 被封！ 欢迎关注（英） ▶雷克 ： http://christophrehage.com ▶个人油管 ： https://www.youtube.com/bigfatspringroll ▶非死不可 ： https://facebook.com/crehage ▶推特 ： https://twitter.com/crehage</p>
+<p><a href="https://www.youtube.com/v/k0xGRlaRO7g?version=3">https://www.youtube.com/v/k0xGRlaRO7g?version=3</a></p>
+<p><a title="老雷137：任志强与文革" href="http://www.youtube.com/watch?v=k0xGRlaRO7g" target="_blank">老雷137：任志强与文革</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%EF%BC%9A%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%B8%8E%E6%96%87%E9%9D%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B/?category=18271" rel="tag">雷克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B%E5%B0%8F%E6%B5%81%E6%B0%93/?category=18271" rel="tag">雷克小流氓</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/430201/" target="cdt-mirror">端传媒 | 白信：从Nashi到小粉红：中国青年运动的俄罗斯化</a>
 </h2>
 <p><p>作者：白信，政治学博士，社会运动研究者</p>
@@ -828,35 +842,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E5%95%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E8%83%BD%E6%BA%90%E5%B1%80%E5%8E%9F%E5%89%AF%E5%B1%80%E9%95%BF%E8%AE%B8%E6%B0%B8%E7%9B%9B%E5%8F%97%E8%B4%BF%E5%BA%AD%E5%AE%A1%E5%BD%93%E5%BA%AD%E7%BF%BB%E4%BE%9B%E5%90%8E/" target="cdt-mirror">法广 | 能源局原副局长许永盛受贿庭审当庭翻供后 官方下令删稿</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-%E4%B8%8B%E5%8D%884.02.49.png?resize=476%2C315" alt="Screen Shot 2016-02-24 at 下午4.02.49" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午4.02.49.png?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-24-at-下午4.02.49.png?w=476 476w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><span>原国家能源局原副局长许永盛</span></p>
-<p>作者：上海特约记者 曹国星</p>
-<div>
-<p>昨天（2月23日），原国家能源局原副局长许永盛受贿案在北京市第一中级法院开庭审理。根据今天《财经》的报道，许永盛对其涉嫌受贿的指控当庭予以否认，称自己从未收受他人给予的钱款，并表示自己在侦查阶段所做的有罪供述是源于办案人员对他进行了非法取证。</p>
-</div>
-<div>
-<p>今天中午，据信来自网信办的通知要求各大新闻网站，将这条新闻“撤稿压后台”，目前前述《财经》的报道的大部分转载链接已经无法打开。一位律师评论这一做法说，“当庭认罪全国通报，当庭翻供后台雪藏”。</p>
-<p>2014年5月14日，许永盛被检察机关从其家中带走，随后被实施指定居所监视居住。在他前后，核电司原司长郝卫平、煤炭司原副司长魏鹏远、新能源和可再生能源司原司长王骏、电力司原副司长梁波等国家能源局多名司长、副司长相继被查。</p>
-<p>根据《财经》杂志的报道，许永盛被控在2008年至2012年担任国家能源局电力司司长期间收受了华能、国电、神华集团、华电集团、大唐集团、中电投、浙能集团、北京三吉利能源等八家电力公司及下属单位相关人员送予的557万元和按摩椅一台，合计561万元，并为上述单位在27个电力项目审批方面谋取利益。</p>
-<p>据说，该案27笔受贿指控大多为各地方电力项目相关负责人带着现金以汇报项目的名义到发改委许永盛的办公室进行行贿。不少指控中，有多名相关人员一起前去拜访。在这些人的证词中，他们事先准备好现金，一般由其中一人最后送钱，每笔金额几万元至几十万元不等，多为二三十万元。</p>
-<p>检方称这些人的证词交叉印证能够证明罪行存在，但这些指控，许永盛全都予以了否认，许永盛表示或许接待过部分项目的负责人，并收取了项目材料，但绝对没有收受任何钱款。</p>
-<p>许永盛表示他不可能在办公室收受根本不熟悉的人送予的钱款。他称这种受贿方式丝毫不谨慎，违背常识，如果他真的如此贪婪，那么他的受贿金额应该远超500万元。</p>
-<p>从庭审初期开始，许永盛及其辩护人就反复强调此案存在非法取证行为。</p>
-<p>许永盛称，在被检察机关带走指定居所监视居住的头半个月，讯问人员不让他睡觉，对他连夜进行审讯，还威胁要抓他的妻儿，他经受不住压力做了一些有罪供述。许永盛称他所承认的犯罪事实，大多是讯问人员对他进行提示和诱导，他进一步承认而来，并非他的本意表达。</p>
-<p>许永盛的律师徐平称，此案中存在的疲劳审讯、欺骗和诱供等行为符合相关法律法规对于非法证据的规定，由此取得的证据依法应当予以排除。</p>
-<p>对此，公诉人认为许永盛在侦查期间曾多次做出有罪供述，而且曾主动书写认罪材料供述自己的犯罪行为，这些供述能够和证人的证言相印证。徐平则认为，证据相印证的前提应是在证据有效的前提下，如果证据非法则应当被排除，更遑论是否相互印证。</p>
-<p>此外，徐平提出在许永盛的100多份笔录中，认罪的和辩解自己无罪的数量相当，表明许永盛一直有坚持自己无罪的表现，并非突然翻供。</p>
-<p>时下，落马高官面对司法审判时大多选择认罪不上诉换取从轻判决，许永盛的选择显得尤为特殊。</p>
-</div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E8%83%BD%E6%BA%90%E5%B1%80%E5%8E%9F%E5%89%AF%E5%B1%80%E9%95%BF%E8%AE%B8%E6%B0%B8%E7%9B%9B%E5%8F%97%E8%B4%BF%E5%BA%AD%E5%AE%A1%E5%BD%93%E5%BA%AD%E7%BF%BB%E4%BE%9B%E5%90%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%83%BD%E6%BA%90%E5%B1%80/?category=18271" rel="tag">中国国家能源局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E8%83%BD%E6%BA%90%E5%B1%80%E5%8F%8D%E8%85%90/?category=18271" rel="tag">国家能源局反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%BD%E6%BA%90/?category=18271" rel="tag">能源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E6%B0%B8%E7%9B%9B/?category=18271" rel="tag">许永盛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -868,7 +853,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -878,5 +863,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

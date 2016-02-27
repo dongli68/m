@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%A2%86%E5%AF%BC%E5%9C%B0%E4%BD%8D/" target="cdt-mirror">博谈网｜中国经济放缓如何影响习近平的领导地位？</a>
+</h2>
+<p><p>（博谈网记者郑皓然编译报道）据《财富》（Fortune）杂志2月26日报道，情况可能变得很糟。</p>
+<p>随着中国开始向消费型经济转型的时候，外国企业可能更难进入中国市场。</p>
+<p>这个观点是美国‌‌“外交关系委员会‌‌”在周四的报告中提出的，报告的作者是罗伯特·布莱克威尔，亨利·基辛格和库尔特·坎贝尔。</p>
+<p>该报告的作者写道：‌‌“因为中国的经济正在放缓，（中国主席习近平的）对政治不稳定的恐惧可能促使他采取更严厉的措施，新的侵犯人权以及西方非政府组织和企业面临的新的挑战将导致中国与西方的关系出现新的摩擦。‌‌”</p>
+<p>作者写道，中国在过去十年经济的惊人增长一直让北京当局的政权稳定。但是，现在2016年预计的GDP增速将放缓至6.3%，中国的权贵和百姓或许会发现经济的转变令人不满意，从而造成社会动荡。</p>
+<p>根据报告的作者，习近平已经通过几个反腐败运动非常努力地巩固了自己的权力，他可能会更进一步，‌‌“加强个人崇拜，更严厉地打击异见人士，更大胆地利用反腐败运动打击反对他的权贵阶层。‌‌”</p>
+<p>为了保护他的地位，习近平‌‌“最有可能激发和加强中国的民族主义—这一直是北京合法性的一个支柱—来弥补经济放缓的政治损害，来转移公众注意力，来制止可能利用民族主义批评对他进行打击的对手，以及打造他自己的形象。‌‌”</p>
+<p>北京当局的公信力已经被中国股市在2015年和2016年1月的暴跌而损坏。这个问题，与对官方统计的广泛不信任加在一起，将提出一个习近平如何计划将中国的增长型经济转变为较慢的，消费型经济的问题。</p>
+<p>报告作者写道：‌‌“对中国经济和对习近平命运的真正风险，不来自于股票对实体经济的影响，而是来自对政府公信力的损害。习近平面临的声誉挑战和经济障碍在未来几年内不会减弱。‌‌”</p>
+<p>阅读原文：How China’s Slowing Economy Could Change Xi’s Leadership</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%A2%86%E5%AF%BC%E5%9C%B0%E4%BD%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E5%B0%91%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%B0%E5%A2%83%E5%92%8C%E5%A4%AA%E5%AD%90%E5%85%9A%E7%9A%84%E8%B4%A3%E4%BB%BB/" target="cdt-mirror">自由亚洲｜胡少江：中国的困境和太子党的责任</a>
 </h2>
 <p><p>中国真的病了！经济方面的困难越来越严重：增速下滑趋势不减，就业压力日益加大；结构转型不见实效；与让市场发挥配置资源的承诺背道而驰，政府越来越多地侵蚀市场的地盘；金融市场空前混乱。在国际关系方面也越来越紧张：与日本和南海诸国的领海争端不仅无法得到国际社会的支持，反而在多边国家场合日渐孤立；中国和美国的关系处于自“六四”镇压以来的最低潮；连依靠中国输血来维持统治的金家王朝也不断地让中国领导人束手无策。</p>
@@ -88,7 +110,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%80%81%E7%82%AE%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E3%80%81%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84/" target="cdt-mirror">【敏感词库】“老炮任志强反党”、“砸共产党的锅”等热点</a>
 </h2>
@@ -719,21 +741,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%BB%B4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BF%915000%E5%AE%B6%E7%BD%91%E7%AB%99-%E4%B8%A5%E6%9F%A5%E6%B6%89%E6%81%B6%E6%80%A7%E6%94%BF%E6%B2%BB%E8%B0%A3/" target="cdt-mirror">新京报 | 去年中国关闭近五千家网站 严查涉恶性政治谣言</a>
-</h2>
-<p><p>新京报快讯 记者25日从国家互联网信息办公室获悉，2015年，全国网信系统依法关闭严重违法违规网站4977家，并与多部门密切协作，严厉查处涉恶性政治谣言等违法违规信息。</p>
-<p>据统计，全国网信系统全年依法约谈违法违规网站820余家1000余次，依法取消违法违规网站许可或备案、依法关闭严重违法违规网站4977家，有关网站依法关闭各类违法违规账号226万多个。</p>
-<p>2015年，国家网信办与工信、公安等部门密切协作，严厉查处涉恶性政治谣言、涉恐涉暴涉枪、涉民族宗教等违法违规有害信息，要求相关网站依法查删暴恐音视频信息2000多万条、关闭涉恐网络账号近万个。</p>
-<p>此外，国家网信办强化了对淫秽色情、赌博欺诈、虚假广告等违法不良信息的巡查监看，要求相关网站依法清理违法违规有害信息近10亿条、关闭相关违法违规网络账号90多万个，约谈有关违法违规网站20余家，依法关闭违法违规网站1200余家。</p>
-<p>国家网信办还会同工信、公安、食药监等部门严肃查办大案要案，集中查处关闭“夜色论坛”、“情爱天空”等严重失信婚恋网站124家，“生命唐安网”等发布虚假药品信息、销售假药网站410家，查处集中刊登负面虚假信息、从事敲诈勒索的相关网站及跳转网址120余次，向公安部门通报重要案件线索数十起。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BF%915000%E5%AE%B6%E7%BD%91%E7%AB%99-%E4%B8%A5%E6%9F%A5%E6%B6%89%E6%81%B6%E6%80%A7%E6%94%BF%E6%B2%BB%E8%B0%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%B0%A3%E8%A8%80/?category=18271" rel="tag">政治谣言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84%E7%BD%91%E7%AB%99/?category=18271" rel="tag">违规网站</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -745,7 +752,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -755,5 +762,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

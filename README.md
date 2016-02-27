@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%83%A1%E9%80%82%E5%AD%A6%E5%9B%AD%EF%BD%9C%E7%8E%8B%E4%BA%9A%E9%9D%9E%EF%BC%9A/" target="cdt-mirror">胡适学园｜王亚非：警惕有的网站借任志强事件反党</a>
+</h2>
+<p><p>【转载】此文来自“”朋友圈，作者王亚非是安徽出版集团董事长，供朋友们参考：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B2%89%E7%9D%A1.jpg?resize=550%2C437" alt="沉睡" data-recalc-dims="1"></p>
+<p>最近，习近平同志针对有些媒体严重脱离人民群众，大搞假大空，对人民群众进行欺骗宣传，大事宣传极左思想的乱象，义愤填膺、斩钉截铁地指出，媒体要姓党。姓党的本质就是要姓人民。时时刻刻要代表人民说话，为人民呐喊，为人民鼓与呼，绝不充许媒体强奸民意。霸道地对人民群众发号施令。媒体姓党深刻地体现了我们党全心全意为人民服务的最高宗旨。做到了党性和人民性的完美统一。受到了庞大人民群众的热烈拥护。可是，任志强同志由于学习不够，未能深刻理解习近平同志媒体姓党的真正含义。以为姓党不是姓人民。以为我们共产党人除了人民的利益以外，还有自己的私利。因此就对媒体姓党提出了异议。他更多的是强调了媒体的人民性。以为媒体姓党就会冲淡媒体的人民性。显然，他是误解了习近平同志媒体姓党的真正含义。其实他们讲的是一个意思。就是要坚持媒体的人民性。任志强的错误，就是没有看到党性和人民性的一致性，只讲人民性，不讲党性。确实有失偏颇。当然，这也不能会怪任志强同志。我们的党也有犯错误的时候，使党性和人民性割裂开来，甚至对立起来。例如大跃进的时候，有人不尊重客观规律，头脑发热，左倾盲动，给祖国和人民带来了巨大的损失。当彭德怀等同志挺身而出，指出大跃进的错误的时候，又被打成了反党集团。这一切都是在讲党性的名誉下发生的，不充许任何人进行非议。这种假党性，哪里还有一点人民性的味道。后来的十年浩劫，完全是假党性猖獗，完全没有人民性。总之，只要是极左思潮在我党占了上风，我党的人民性就会受到极大的影响。难怪邓小平同志说，在改革开放的过程中，“要警惕右，但主要是防止左。”并告戒我们要坚持三个有利于，不要纠缠姓社还是姓资。可有些人总喜欢问姓社还是姓资。这就是党性和人民性都不强的表现。</p>
+<p>好了，扯得有点远了。现在再回来说任志强的事。在这件事情上，任志强同志是有错。同志们对他进行帮助和教育也是应该的。但个别自称姓党的媒体利用这件事大做文章，甚至攻击党，就未免显得恶毒了点。例如，某网站发表了一篇《谁给了任志强反党的底气》的文章。从这个标题就可以看出，作者是醉翁之意不在酒。他的矛头不是指向任志强的，而是指向这个“谁”。言下之意，这个“谁”就是任志强后台老板，就是他给了任志强的底气。我这样说是不是凭空臆造，曲解了作者的意思呢?绝不是的。请看他正文中的一句话有：一个半夜三更喜欢给领导打电话的任志强，究竟谁给了他跳出来推墙的“勇气”？就是这一句，十分恶毒，凡是看过任志强书的人，或是对任志强有所了解的人，都知道任志强半夜三更喜欢给谁打电话。在这里，作者只差点名了。其实已经变相点名了。这个谁是谁呢?就是身居高位，深受全国人民称赞的打虎英雄。在他的直接领导下，揪出了一个个贪官污吏，打死了一个个大小老虎。广大人民群众无不拍手称快。可这也得罪了不少腐败分子和既得利益者，他们对这个“谁“怕得要死，怕得要命，必欲除掉而快之。一有机会，他们就会进行反扑。这次借任志强的言论，故意想把火烧向最高领导层，真是胆大妄为。这不是明目张胆的攻击党，反对党又是什么？你以为你披上一件极左和假爱党的外衣我们就识破不了你了嘛，真是低估了人民的智慧。这正如毛泽东所说，一切狡猾的人，不照科学态度办实事的人，自以为得计，自以为很聪明，其实都是很愚蠢的。希望这个网站赶快收起你们这些反党的鬼把戏吧，免得在人民群众面前丢人现眼，自讨没趣。另外，这个网站如果没有幕后黑手的话，绝不敢写这样一篇攻击党的领导人的文章。后面一定还有代表贪腐势力的大人物。在此我们不禁要问：谁给了你们反党的底气？请老实交待。</p>
+<p>另外，此网站还有一篇文章《网友为何要给任志强上党课》。文章中有一句话也很成问题，认为任志强的言论是“党性的泯灭、人性的猖狂。”这种公然把党性和人性对立起来的做法也是完全错误的，甚至反动的。如前所述，党性的根本就是人民性。而人民是由一个个的人组成的。是人就必然有人性。我们共产党是时时刻刻代表人民利益的。因此是尊重、理解、支持、保护和讲人性的。绝不会只讲党性，不讲人性。不讲人性的人是不配做人的。只有希特勒的法西斯党才会不讲人性。不讲人性的党根本没有资格代表人民。不讲人性的人还有资格讲党性吗?人性一猖狂，党性就会泯灭吗?难道我们共产党是那么怕人性反人性的吗?希望你们这些没有人性的家伙千万不要把自己的意志强加于党。如果我们的媒体都象你们这样假姓党，我们的党早就被你们玩垮了。幸亏你们只是极少数不讲人性的。大多数共产党人还是讲人性的。你们说任志强同志是“党性的泯灭、人性的猖狂。”而我要对你们说，你们是党性人性都泯灭。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%83%A1%E9%80%82%E5%AD%A6%E5%9B%AD%EF%BD%9C%E7%8E%8B%E4%BA%9A%E9%9D%9E%EF%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%A2%86%E5%AF%BC%E5%9C%B0%E4%BD%8D/" target="cdt-mirror">博谈网｜中国经济放缓如何影响习近平的领导地位？</a>
 </h2>
 <p><p>（博谈网记者郑皓然编译报道）据《财富》（Fortune）杂志2月26日报道，情况可能变得很糟。</p>
@@ -724,23 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8C%A8%E4%BA%86%E4%B8%80%E9%97%B7%E6%A3%8D/" target="cdt-mirror">万维读者网 | 王岐山挨了一闷棍</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/%E4%BB%BB%E5%BF%97%E5%BC%BA.jpg?resize=580%2C392" alt="任志强" data-recalc-dims="1"></p>
-<p><strong>万维读者网（Creaders.net）傅芮岚评论文章：</strong>连日来，网络大V、前华远地产董事长任志强连续遭到千龙网、中国青年网、环球网的舆论批评，引发民间震动。北京市委所属的千龙网以《谁给了任志强反党的底气》一文，直接给任志强扣上了“反党”的帽子；而紧随其后《人民日报》辖下的环球网转载了中国青年网的评论文章《任志强，你把那条“党章”吃掉了吗？》，痛斥任志强对立党和人民的关系、反对媒体姓党。</p>
-<p>有趣的是，这两则传播甚广的新闻，其实并没有出现在新华社和《人民日报》的网站上，代表了北京市委的千龙网和代表了团中央的《中国青年网》，巧妙的利用了习近平调研党媒讲话和任志强炮轰“媒体姓党”的矛盾，借刀杀人，指桑骂槐，明着批评任志强，暗中闷棍王岐山。</p>
-<p>作为商界知名红二代，前商业部副部长任泉生之子任志强，与中纪委书记王岐山交情深厚，他在《野心优雅》中谈及：<em><strong>1964年秋，我考上北京第35中。从这走出来的最有名的就是王岐山了，他还是我初二的辅导员。当时他上高二，是陪伴我们时间最长的辅导员，从在校学习到上山下乡再到北京工作，我都跟他保持联系。至今他还会偶尔在半夜打来电话。</strong></em></p>
-<p>而《谁给了任志强“反党”的底气》一文中，显然故意用了任志强这么一段说法：<em>这么简单直白的道理，怎么到了任志强的嘴里就成了媒体与人民的对立？任志强把党章里的“坚持全心全意为人民服务”那条吃掉了？我们不禁要问，一个连党章都能无视的党员，公然反党的底气何来？</em><strong><em>一个半夜三更喜欢给领导打电话的任志强</em></strong><em>，究竟谁给了他跳出来推墙的“勇气”？</em></p>
-<p>作为最开明又赢得话语权的红二代，任志强、王岐山等人对于推动中国进步、与世界文明接轨都做出了自己的努力。任志强因其网络影响力，还赢得了“反体制英雄”的称号。那些极左保守的、或者深受习近平王岐山反腐重创的群体，对于反腐操刀手王岐山自然不敢非议，但是指桑骂槐，通过痛责天下皆知的王岐山好友任志强评论习近平“党媒姓党”，达到一箭双雕：给王岐山一闷棍、离间习近平王岐山矛盾。</p>
-<p>跟踪这两天的新闻，可以发现“打狗给主人看”、“骂任志强给王岐山一闷棍”比较成功，而反观常常搂不住火的”任大炮“任志强的低调表现，挑拨离间习王矛盾这一步棋恐未实现；中南海的隔空内斗，给海外观众带来一场又一场免费大戏，快搬小板凳抢前排去。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%87%E7%BB%B4%E8%AF%BB%E8%80%85%E7%BD%91-%E7%8E%8B%E5%B2%90%E5%B1%B1%E6%8C%A8%E4%BA%86%E4%B8%80%E9%97%B7%E6%A3%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%BB%B4/?category=18271" rel="tag">万维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E9%BD%90%E6%84%8F%E8%AF%86/?category=18271" rel="tag">看齐意识</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -752,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%BB%B4
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%BB%B4
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

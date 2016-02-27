@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E5%B0%91%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%B0%E5%A2%83%E5%92%8C%E5%A4%AA%E5%AD%90%E5%85%9A%E7%9A%84%E8%B4%A3%E4%BB%BB/" target="cdt-mirror">自由亚洲｜胡少江：中国的困境和太子党的责任</a>
+</h2>
+<p><p>中国真的病了！经济方面的困难越来越严重：增速下滑趋势不减，就业压力日益加大；结构转型不见实效；与让市场发挥配置资源的承诺背道而驰，政府越来越多地侵蚀市场的地盘；金融市场空前混乱。在国际关系方面也越来越紧张：与日本和南海诸国的领海争端不仅无法得到国际社会的支持，反而在多边国家场合日渐孤立；中国和美国的关系处于自“六四”镇压以来的最低潮；连依靠中国输血来维持统治的金家王朝也不断地让中国领导人束手无策。</p>
+<p>不仅在棘手的经济和外交领域，中国共产党在过去自认擅长的政治领域也越来越失控：党内反腐处于焦灼状态，最高领导人和官僚系统的关系空前紧张，上上下下官员通过不作为进行反抗已经成为一个新常态；邓小平时代开始提出的党政分开的行政管理改革已经完全废止，政府的作用公开被各级党的组织代替，置法治于不顾的共产党“令行天下”的做法已经由羞羞答答变成明火执仗，国家的治理方式越来越向政治恐龙时代倒退。</p>
+<p>客观地讲，中国目前的困难，一部分来自于常年积累的矛盾井喷；另一部分则是由于现执政者的“乱政”所造成。经济结构的矛盾、中国和世界其他大国之间的利益冲突、政治上的腐败积重难返等均非始自今日，但是金融领域集中爆发的乱像，外交上的四面树敌，吏治的空前低效，以及法治和市场等改革领域的全面倒退却是当前的执政集团带给中国的。三年左右时间中国政治经济外交局势的发展，有着中国当政的“太子”集团深深的性格烙印。</p>
+<p>“太子党”的蛮横和无知是中国的劫数</p>
+<p>中国的太子集团有两个鲜明特征。一是“志大才疏”，面对中国这样一个大国、这么交错的经济利益冲突和复杂的国际局面，他们应对失策，或者说是胸中无策。从他们打天下的父辈那里，他们接下了“天下舍我其谁”的情怀，却没有他们的父辈那般在战争环境和政治铰杀中被淘汰选择的经历。他们今天的高位，基本上是凭借父辈庇荫、制度优待的结果，这种优裕的成长环境使得他们没有真本事，更谈不上能够系统地、有前瞻性地解决复杂的社会矛盾。</p>
+<p>太子集团的第二个特征是“蛮横”，这种蛮横与街头的泼皮无赖并无二致，只不过手中有权、有钱、有国家机器，便要千方百计地让那种混混的流氓劲头显得高尚一些。但是说到底，还是那种不讲理、不讲法的“流氓范儿”。例如，明明是用国家的财政补贴支撑，却偏要国家机器、军队警察、甚至新闻媒体都“姓党”，谁对此说不就“揍”谁。明明自己的章程写着可以保留意见，但却公然将“妄议”列为一项政治罪名用以党同伐异。</p>
+<p>这种蛮横除了讲不出道理，也不愿意听人家讲道理之外，似乎还有走夜路唱歌壮胆的原因。就在昨天，中国的外交部长王毅居然到美国的首都华盛顿去宣传共产党领导中国的合法性、社会主义的优越性等。这样的事情邓小平从来不做，邓的蛮横只是对国内的，而且是只做不说的。江泽明、胡锦涛也不这样做，他们都是技术官员，只是为共产党“看家”的，犯不着厚着脸皮满世界去露怯。只有“太子党”，傻乎乎地拿着无知当勇气，满世界丢人。</p>
+<p>“太子党”的蛮横和无知是中国的劫数，但也可能是中国的出路所在。相比较技术官僚的胆小谨慎和无所作为，太子党们的蛮横可能会给一些“受虐狂”带来感官上的一时快感，但是这种快感很快会随着局势的恶化消失的无影无踪。当“无策”和“蛮横”给中国带来更加深重的灾难时，当没有一个中国人能够从这种灾难中置身事外的时候，越来越多的人就会质疑产生如此滑稽弱智政治领导集团的体制，现代中国的未来就会开启。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E5%B0%91%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%B0%E5%A2%83%E5%92%8C%E5%A4%AA%E5%AD%90%E5%85%9A%E7%9A%84%E8%B4%A3%E4%BB%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8F%97%E5%AE%A1%E7%9A%84%E5%89%8D%E8%83%BD%E6%BA%90%E5%B1%80%E9%AB%98%E5%AE%98-%E6%B3%95%E5%BA%AD%E4%B8%8A%E7%A7%B0%E5%9B%A0%E5%8F%97%E9%85%B7%E5%88%91/" target="cdt-mirror">自由亚洲｜受审的前能源局高官 法庭上称因受酷刑而被迫认罪</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg" rel="attachment wp-att-430293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?resize=575%2C384" alt=" 许永盛（资料图/Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><br> 许永盛（资料图/Public Domain）</p></div>
@@ -68,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%80%81%E7%82%AE%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E3%80%81%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84/" target="cdt-mirror">【敏感词库】“老炮任志强反党”、“砸共产党的锅”等热点</a>
 </h2>
@@ -714,24 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/cnn%E7%BD%91%E7%AB%99%E5%A4%B4%E6%9D%A1%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%84%B8%E8%BF%99%E4%B9%88%E4%B8%91-%E6%80%8E%E9%85%8D%E5%BD%93%E6%80%BB%E7%BB%9F%EF%BC%81/" target="cdt-mirror">【立此存照】CNN网站头条批特朗普丑？</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Trump_Fiorina.png" rel="attachment wp-att-430081"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Trump_Fiorina.png?resize=535%2C419" alt="Trump_Fiorina" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Trump_Fiorina.png?resize=300%2C235 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Trump_Fiorina.png?resize=768%2C601 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Trump_Fiorina.png?resize=1024%2C802 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Trump_Fiorina.png?w=1522 1522w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a></p>
-<p>环球网今日<a href="http://world.huanqiu.com/exclusive/2016-02/8604476.html">声称</a>“CNN网站头条批特朗普：脸这么丑 怎配当总统！”</p>
-<p>稍有常识的人都知道，在美国，像CNN这样的主流媒体，是不可能公开对批评对象的外貌进行攻击的。然而抛开这个常识不谈，环球网自己所配的CNN文章截图中赫然标明了：”Donald Trump on rival Carly Fiorina, September 9, 2015″——这是去年特普朗攻击同期竞选共和党总统参选人 Carly Fiorina 的著名恶劣评论（之一）。</p>
-<p>特普朗抛出这番言论后不久的一场共和党竞选辩论中，Fiorina 在被问到她如何看待特普朗的攻击时，她面无表情地<a href="http://www.huffingtonpost.com/entry/carly-fiorina-donald-trump_us_55fa13d0e4b0fde8b0ccf494">回答道</a>：</p>
-<blockquote><p>I think women all over this country heard very clearly what Mr. Trump said.<br>
-我觉得全国的女性都已经非常清楚地听到了特普朗先生说了些什么。</p></blockquote>
-<p>CNN这篇评论文章的作者用了不少<a href="http://www.cnn.com/2016/02/24/opinions/support-trump-support-bigotry-obeidallah/">特普朗的知名“语录”</a>，比如<strong>称赞普京强势、嘲弄残疾人、不许反对者发声</strong>等，来证明此人的恶劣。</p>
-<p>Carly Fiorina 不久前已宣布退出2016年竞选。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/cnn%E7%BD%91%E7%AB%99%E5%A4%B4%E6%9D%A1%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%84%B8%E8%BF%99%E4%B9%88%E4%B8%91-%E6%80%8E%E9%85%8D%E5%BD%93%E6%80%BB%E7%BB%9F%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -743,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -753,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

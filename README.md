@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8F%97%E5%AE%A1%E7%9A%84%E5%89%8D%E8%83%BD%E6%BA%90%E5%B1%80%E9%AB%98%E5%AE%98-%E6%B3%95%E5%BA%AD%E4%B8%8A%E7%A7%B0%E5%9B%A0%E5%8F%97%E9%85%B7%E5%88%91/" target="cdt-mirror">自由亚洲｜受审的前能源局高官 法庭上称因受酷刑而被迫认罪</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg" rel="attachment wp-att-430293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?resize=575%2C384" alt=" 许永盛（资料图/Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><br> 许永盛（资料图/Public Domain）</p></div>
+<p>因涉嫌收受561万元人民币贿赂而在北京受审的前国家能源局副局长许永盛称，在法庭上称自己供认有罪是迫于当局的刑讯逼供和恐吓，并当庭否认全部指控。有外国媒体和学者表示，类似案例给中国的反腐运动蒙上了一层阴影。</p>
+<p>据中国媒体财经网的报道，国家能源局原副局长许永盛受贿案于2月23日在北京市第一中级法院开庭审理。在法庭上，许永盛对其涉嫌受贿的指控当庭全部予以否认，称自己从未收受他人给予的任何钱款，并表示自己在侦查阶段所做的有罪供述，是源于办案人员对他进行了非法取证。许永盛只承认他从一名地方官员那里接受了一把按摩椅。</p>
+<p>许永盛从2008年至2012年担任中国国家能源局电力司司长。财经网的报道说，他被指控在任期受贿561万元，并为行贿人在27个电力项目审批方面谋取了利益。2014年5月14日，许永盛被检察机关从其家中带走，随后被实施指定居所监视居住。</p>
+<p>许永盛告诉法庭，在一年的调查中，他有很长时间基本上没有睡觉。在不受讯问的时间里，他被强迫背诵制度条例。此外，他还经常被强迫坐在小板凳上，导致他臀部流血。许永盛还表示，调查人员还威胁要将他的妻子也拘留起来，从而使他们的儿子得不到父母的照顾。</p>
+<p>国际反腐组织“国际透明”的亚太报告说负责人廖然就许永盛否认有罪并指控当局对他实施刑讯逼供这点表示，根据他本人所看到的许永盛所提供的一些信息来看，当局提供的许多“证据”都有漏洞：</p>
+<p>“我昨天看到许永盛在法庭上翻供的报道后很吃惊。当然，我们一直都知道中国政府对那些被抓的腐败官员进行刑讯逼供，但从来没有任何官员敢于在法庭上说自己无罪，并揭露自己是在被施于酷刑的情况下才‘认罪’的。他是有证有据地驳斥了几乎所有的腐败指控，他只承认接受了一把按摩椅。”</p>
+<p>《纽约时报》2月26日的有关报道说，许永盛的逼供控诉使人们对中国的反腐运动、以及调查人员为得到认罪供述而不择手段的做法提出了深层次的疑问。</p>
+<p>报道说，中共党员在面临刑事调查之前，通常会经过一个被称为双规的党内调查过程。在这个过程中，被调查者的权利几乎没有任何保障。一些官员表示自己曾遭受虐待，直到他们承认有罪为止。近几年来甚至还出现了在接受调查的双规期间，少数官员神秘死亡的案列。</p>
+<p>报道说，近年来，中国政府为减少刑讯逼供案件的发生，已进行了若干政策改革。有个别虽然无辜但却被判有罪的人也得以释放。但是，人权组织和联合国专家说，中国警方在调查和拘留嫌犯的过程中，对他们刑讯逼供及其他虐待行为的做法仍普遍存在。虽然一些人被判有罪后又被无罪释放的案子已增加了公众对刑讯逼供的关注程度，但反腐运动仍深受中国老百姓的欢迎，他们认为，反腐运动减少了官员的腐败和滥用权力的行为。</p>
+<p>反腐问题专家廖然则指出，类似许永盛在调查中被实施刑讯逼供而被迫认罪的消息，显然会给中国的反腐运动蒙上一层深厚的阴影：</p>
+<p>“当然了，你想一想，现在中国政府正在跟好多外国政府就遣返腐败官员一事进行交涉，那么类似许永盛在法庭上坚决否认所有罪名，并揭露他之前的认罪是在被刑讯逼供和被恐吓要拘禁他妻子的情况下才被迫作出的，那你说那些外国政府和司法部门怎么能接受中国政府的说法呢？。”</p>
+<p>就中国司法领域中刑讯逼供现象极为普遍这个问题，联合国禁止酷刑委员会去年12月9日发表的一份调查报道说，中国公安机构和监狱中对嫌犯刑讯逼供的做法目前依然泛滥成灾。</p>
+<p>联合国的报告指出，被拘留者应拥有辩护权并从最初就能与律师接触。而且，被拘留者必须在48小时内在法官面前出庭。审讯录音录像应当是强制性的，刑讯逼供得来的所谓“罪证”应该是不被接受的。报告还说，中国应为酷刑受害者设立一个具有独立性的、保密的投诉机制。此外，报告还敦促中国司法系统减少目前实行的嫌犯在受到正式指控之前可以被拘留37天的这个期限，这包括起诉方必须在嫌犯被关押7天之后正式提出起诉。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8F%97%E5%AE%A1%E7%9A%84%E5%89%8D%E8%83%BD%E6%BA%90%E5%B1%80%E9%AB%98%E5%AE%98-%E6%B3%95%E5%BA%AD%E4%B8%8A%E7%A7%B0%E5%9B%A0%E5%8F%97%E9%85%B7%E5%88%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%89%E6%8B%A9%E6%80%A7%E5%8F%8D%E8%85%90/?category=18271" rel="tag">选择性反腐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%A4%E4%BC%9A%E6%9C%9F%E9%97%B4%E5%AF%84%E5%8C%97%E4%BA%AC%E9%82%AE%E4%BB%B6%E5%AE%9E%E5%90%8D%E5%88%B6-%E7%BA%A2%E8%A2%96%E7%AE%8D%E5%86%8D%E5%BA%A6%E5%AF%86%E9%9B%86%E4%B8%8A%E5%B2%97/" target="cdt-mirror">自由亚洲｜两会期间寄北京邮件实名制 红袖箍再度密集上岗</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg" rel="attachment wp-att-430288"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg?resize=575%2C399" alt="北京八里庄治安防控点。（访民提供/记者乔龙）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>北京八里庄治安防控点。（访民提供/记者乔龙）</p></div>
+<p>中国全国政协及人大会议前夕，国家邮政局下发通知称，两会期间寄往北京的邮件，严格实名制和100%过机安检。自3月1日起，涉及“两会”会场及代表、委员驻地的快件，各快递企业将统一归口市邮政EMS代投。另外，两会前夕，北京各街道办再次出动“红袖箍”纠察队，监视路人，若发现可疑情况，立即向派出所报案。</p>
+<p>中国所谓实名制层出不穷，从菜刀“实名制”到快递“实名制”，最近，再细化到要求邮件“实名制”。《北京晨报》2月26日报 道，25日，国家邮政局下发通知，要求两会期间寄往北京的邮件，严格实名制和100%过机安检。报道称，自3月1日起，涉及“两会”会场及代表、委员驻地的快件，各快递企业将统一归口市邮政EMS代投。邮政局要求各企业严格执行实名收寄制度，两会期间，对寄往北京的邮件、快件除信件、已有安全保障机制的协议客户等交寄的邮件、快件外，一律要求寄件人出具有效身份证件，并登记相关身份信息后方可收寄，用户拒绝或不按规定出示有效身份证件的，寄递企业不得收寄。</p>
+<p>北京邮局营业员张先生26日接受本台记者采访时称，他们已经接到通知：“现在寄东西都要实名制，寄挂号邮件都得实名制”。</p>
+<p>记者：挂号信本来就是实名制的吧？</p>
+<p>邮局张先生：挂号信本来不是（实名制），你到邮局寄挂号就完了。早就要求，前几个月就开始实名制了，你要是寄挂号邮件，都要实名制，要拿身份证才能寄。</p>
+<p>记者：100%过机安检是怎么一回事？</p>
+<p>邮局张先生：过机安检是到分检部分了。反正你现在要寄物品，全都要打开检查，比较严了。因为物品好多是要上飞机的（空运），怕出事，安全考虑。今年两会肯定严厉。</p>
+<p>中国邮政局在三个月前宣布，2015年11月1日起，除信件和已有安全保障机制的协议客户快件，或通过自助邮局等交寄的邮件、快件外，一律要求核对寄件人电话号码及相关身分信息后才可收寄。一家大型网站的调查显示，有七成网民担心实名制会造成身分证信息外泄。</p>
+<p>自2010年起，中国首先推出火车票实名制，其后是网络实名制、手机卡实名制等。每逢重要时刻，更会实行购买菜刀实名制、购买鞭炮实名制、进餐实名制等。有网民对最新的邮件实名制提出评论称，是不是不在两会期间，实名制就不用严格执行？ 网民“半条命”称，实名制要立法律。</p>
+<p>据北京居民告诉记者，北京 “两会”安保工作已经起动。北京城乡结合部已设立检查站，市内两会代表下榻的酒店，也已进驻武警。酒店外围有佩戴“红袖箍”识别标志的街道办人员及退休人员执勤，并设立24小时岗亭，轮流值班。</p>
+<p>北京居民刘女士对记者说：“这段时间，街道居委会有人组织值班，还发一件大衣坐一个小板凳，都是居委会大妈。长安街上也经常看到有，还有特警。我们这边的居委会也有，那一天我听一个大妈说，啊，什么都让值班，意思是不是两会这么重大的活动，也让他们值班。牢骚挺多的，反正挺紧张的”。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%A4%E4%BC%9A%E6%9C%9F%E9%97%B4%E5%AF%84%E5%8C%97%E4%BA%AC%E9%82%AE%E4%BB%B6%E5%AE%9E%E5%90%8D%E5%88%B6-%E7%BA%A2%E8%A2%96%E7%AE%8D%E5%86%8D%E5%BA%A6%E5%AF%86%E9%9B%86%E4%B8%8A%E5%B2%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%80%81%E7%82%AE%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E3%80%81%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84/" target="cdt-mirror">【敏感词库】“老炮任志强反党”、“砸共产党的锅”等热点</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg" rel="attachment wp-att-430285"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg?resize=500%2C369" alt="刘少奇开除出党" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg?resize=300%2C221 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>（文革时期宣传画；图片来自网络）</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年2月26日］</p>
+<p><strong>老炮＋任志强反党 </strong>（<a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/">相关专题</a>）</p>
+<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%85%9A%E7%AB%A0%E5%85%9A%E8%A7%84%E4%BF%9D%E6%8A%A4%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%AC%E7%9A%84%E5%85%9A%E5%91%98%E6%9D%83%E5%88%A9/">三剑客｜蔡霞：党章党规保护任志强们的党员权利</a></p></blockquote>
+<p><strong>习＋蔡霞</strong><br><strong> 习＋特勒</strong>（复测）<br><strong>习＋禁评</strong>（复测）</p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/">砸共产党的锅</a></strong></p>
+<p><strong>红太阳帝国</strong></p>
+<p><strong>Liu＋Xiaobo </strong><br><strong> 刘小波</strong></p>
+<p><strong>色图</strong><br><strong> 淫情</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E7%82%AE%EF%BC%8B%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A.png?resize=475%2C185" alt="老炮＋任志强反党" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老炮＋任志强反党.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老炮＋任志强反党.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老炮＋任志强反党.png?w=770 770w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E8%94%A1%E9%9C%9E.png" rel="attachment wp-att-430277"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E8%94%A1%E9%9C%9E.png?resize=475%2C208" alt="习 蔡霞" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-蔡霞.png?resize=768%2C337 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-蔡霞.png?resize=1024%2C449 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-蔡霞.png?w=2098 2098w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%89%B9%E5%8B%92.png" rel="attachment wp-att-430279"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%89%B9%E5%8B%92.png?resize=475%2C207" alt="习 特勒" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?resize=300%2C131 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?resize=768%2C334 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?resize=1024%2C446 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?w=2086 2086w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%A6%81%E8%AF%84.png" rel="attachment wp-att-430278"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%A6%81%E8%AF%84.png?resize=475%2C201" alt="习 禁评" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?resize=300%2C127 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?resize=768%2C326 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?resize=1024%2C434 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?w=2104 2104w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%94%85.png" rel="attachment wp-att-430275"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%94%85.png?resize=475%2C204" alt="砸共产党的锅" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?resize=300%2C129 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?resize=768%2C330 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?resize=1024%2C440 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?w=2092 2092w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BA%A2%E5%A4%AA%E9%98%B3%E5%B8%9D%E5%9B%BD.png?resize=475%2C184" alt="红太阳帝国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/红太阳帝国.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/红太阳帝国.png?resize=768%2C298 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/红太阳帝国.png?w=773 773w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu%EF%BC%8BXiaobo.png?resize=475%2C185" alt="Liu＋Xiaobo" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu＋Xiaobo.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu＋Xiaobo.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu＋Xiaobo.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%88%98%E5%B0%8F%E6%B3%A2.png?resize=475%2C185" alt="刘小波" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/刘小波.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/刘小波.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/刘小波.png?w=769 769w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%89%B2%E5%9B%BE.png?resize=475%2C182" alt="色图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/色图.png?resize=300%2C115 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/色图.png?resize=768%2C295 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/色图.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B7%AB%E6%83%85.png" rel="attachment wp-att-430281"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B7%AB%E6%83%85.png?resize=475%2C203" alt="淫情" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?resize=300%2C128 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?resize=768%2C329 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?resize=1024%2C438 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?w=2084 2084w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%80%81%E7%82%AE%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E3%80%81%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%A4%AA%E9%98%B3/?category=18271" rel="tag">红太阳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%82%9D%E9%A3%9A_%E7%AB%8B%E5%9C%BA%E5%9D%9A%E5%AE%9A%E6%96%97%E5%BF%97%E5%BC%BA/" target="cdt-mirror">邝飚：立场坚定斗志强</a>
 </h2>
 <p><p><strong>【编者注】知名漫画家邝飚的微信公号“邝飚的灰色幽默”，在发布下文内容后不久即遭封号。<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/" target="_blank">任志强“反党”</a>的话题在微信受到严格审查，更有不少公众号因发布支持任志强的内容而被销号。</strong></p>
@@ -665,149 +732,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/430070/" target="cdt-mirror">杨继绳：读《环球时报》文章有感</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2013/02/%E8%83%A1%E9%94%A1%E8%BF%9B.jpg" rel="attachment wp-att-280499"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2013/02/%E8%83%A1%E9%94%A1%E8%BF%9B.jpg?resize=440%2C328" alt="胡锡进" data-recalc-dims="1"></a><br><em>（2013年2月，《环时》总编胡锡进在某伊斯兰堡书店里拍了一张中国题材书架的照片，<a href="http://chinadigitaltimes.net/chinese/2013/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%83%A1%E9%94%A1%E8%BF%9B%E7%9A%84%E9%80%89%E6%8B%A9%E6%80%A7%E5%A4%B1%E6%98%8E/">上传微博</a>后还不忘翻译几本“中国崛起”题材的书名，完全无视了该书架左下角赫然摆着的《墓碑》一书。）</em></p>
-<p><strong>文章内容来源：新浪微博 <a href="http://www.weibo.com/fuminrong">@富敏荣律师</a></strong></p>
-<p>2月17日，《环球时报》发表了单仁平的文章，题目是《对西方奖项多一些心眼不过分》，话题从我退休前的单位“不允许”我前往美国领奖引起。应该说，这篇文章语调总体是平和的，文章的题目我不仅同意，而且一直是这样做的。对来自国外的奖项，能不能接受，我一直是多了“一些心眼”的。不管授奖机构出于什么目的，出于中国人的礼貌，我必须以诚相待。但是，有个几个奖项我还是婉拒了，因为授奖者和中国现政府关系有点紧张，如果接受他们的奖项，可能会危及我的安全，会影响我的正常生活。我毕竟是一个普通人，要食人间烟火。</p>
-<p>单仁平是《环球时报》评论员的常用笔名，其言论代表这家报纸的立场。我不习惯对虚拟名字说话，还是直对《环球时报》更好些。感谢《环球时报》的提醒，但我有话要说。</p>
-<p><strong>一，</strong>《环球时报》说，“西方主流媒体近日把《墓碑》一书的作者杨继绳作为谈论中国的新焦点之一。”</p>
-<p>这未免夸大其辞！当前世界媒体的焦点是朝鲜问题、叙利亚问题，有关中国的是南海问题，我一个76岁的文弱老翁，怎能是“焦点”？！《环球时报》将几家外国报纸夸大为“西方主流媒体”；将“不允许”我到美国领奖的些许报道，夸张成对我个人是“谈论焦点”！为什么要如此夸张？是不是通过渲染，企图把我变为权力打压的焦点？</p>
-<p><strong>二，</strong>《环球时报》说，杨继绳“是一位广受争议的人士。”</p>
-<p>周围的人对我是友好的。我的朋友很多，不论从小学同学到大学的同学，还是我一生各个工作岗位上的同事，都和我保持着友好的关系。我同《环球时报》评论员素不相识，他这个结论是哪里来的？我不否认我的某一学术观点存在争议。由此把我说成是“广受争议的人士”，有伤我的人格。对《环球时报》评论员的措词，我表示遗憾。</p>
-<p><strong>三，</strong>《环球时报》说，“该书认为，从1958年至1962年中国一共饿死3600万人，这一数字是对那场天灾人祸究竟饿死多少人各种推算版本中最高的之一。”</p>
-<p>错了。我在《墓碑》第23章中认为，要精准地查清到底饿死多少人，是不可能的。只能由人口学家用人口学的方法加以推算。我列举了中外学者对这个数据的推算结果，从1700万（蒋正华）、2200万（李成瑞）、3500万（王维志）、4000万（廖盖隆）、4300-4600万（陈一咨），前国务院副总理、人大副委员长田纪云说：那三年“非正常死亡人口达数千万，比整个民主革命时期死的人还要多”。还有人说5000万、6000万的。我采取的数字，既不是最高的，也不是最低的。</p>
-<p><strong>四，</strong>《环球时报》说， “如果他说死了3000万甚至4000万就是右的，如果他说没死人或死得很少，就是‘左’的。”司马南紧跟环评之后说：不能不佩服杨先生，偌大年纪不断创新，解放思想，已经达到研究到最高境界。用世俗语言概述他的研究成果：“想要饿死多少人便会饿死多少人”；换言之：“应该饿死多少人，自会饿死多少人”； 再换言之：“饿死多少人能满足特定看客心愿，那一定会饿死多少人”……</p>
-<p>《环球时报》认为饿死人的数字是由政治立场决定的，不是历史上确实发生的。司马南认为饿死人的数字是随心所欲编造的。对他们的看法我不评论，我在《墓碑》第23章中展示了我的研究态度、方法和逻辑。他们不妨也看一看曾经担任国家统计局长的李成瑞先生、曾经担任全国人大副委员长蒋正华先生的研究成果，看一看曹树基教授和李若建教授的研究成果。也看一看外国人口学家的推算方法。看看这些学者提出的数字是不是随心所欲地编造，是不是与左派还是右派的立场相联系。</p>
-<p><strong>五，</strong>《环球时报》说，“《墓碑》谈论的并非‘历史’，它带有强烈的现实政治情绪，因而一问世就在网上激起‘政治争论’。”</p>
-<p>不是“一问世就在网上激起‘政治争论’。”《墓碑》是2008年5月出版的。它问世后学界舆论如何呢？上海交通大学历史系教授曹树基当时说：“好评如潮”。</p>
-<p>《墓碑》获2008年度香港书奖；是凤凰周刊“年度盘点2008：值得记忆的10本人文书籍之一”；是亚洲周刊2008年中文十大好书之一。这些都是具有专业精神和专业知识的人士评选的。</p>
-<p>中国现代史学会通讯第13期（2009年3月）刊载学术信息四则：其中第三则信息介绍《墓碑》时说：“虽然中西方作者以前出版了多种有关大饥荒的书籍，但就资料的全面和翔实，内情披露的惊人，论证的理性和严密，以及结论的权威可信而言，这本书是前所未有的。这是迄今为止关于20世纪50年代末60年代初大饥荒的最有价值、最有份量的著作。”</p>
-<p>中国经济体制改革研究会-专家内部论坛评《墓碑》时写道：“这本书篇幅宏大，材料丰富，许多史料乃为首次披露，内容震撼，触目惊心，有令人不忍卒读之感。现在还活着的五十多岁以上的中国人对这场大饥荒应还记忆犹新，这是一本承载了许许多多老百姓的集体记忆之书，亦是为那三千六百多万受难者所立下的纪念「墓碑」之墓志铭。”</p>
-<p>一大批严肃的学者发表近百篇肯定性评论。全国人大代表、著名香港左派人士吴康民发表文章说：“北京《炎黄春秋》杂志社副社长杨继绳，是一位治学严肃、搜集资料丰富，而又思想开放、大胆敢言的作家。……最近完成近百万字的，对上世纪五、六十年代三年大饥荒的实录专着《墓碑》，可说是对中国现代政治史的一大贡献。”（2008年7月6日《文汇报》）</p>
-<p>香港科技大学教授丁学良在《你不能不看的墓碑》一文中对《墓碑》作出高度评价后写道：“我从来没有写过任何书评，因为没有时间。可今天，在回顾中国改革发起30年的时候，我却要破例写一次——因为《墓碑》太有价值、太有意义了，……”（《金融 时报》 2008-09-28）</p>
-<p>国内著名学者丁东、李大同、卢耀刚、刘放等都著文对《墓碑》作出了高度评价。</p>
-<p>我还收到了从全国各地寄来的大量的支持和鼓励信件、诗词（信件没有数字化，诗词见附件）。曹树基教授说的“好评如潮”并不过分。</p>
-<p>《墓碑》出版后的头两年，“乌有之乡”发表了鹤龄、齐劲松等几位作者的批评文章。但是，无论从数量上还是质量上，这几篇批评文章都不能与“好评如潮”抗衡，构不成“政治争论”。争论是2012年孙经先的文章发表之后。但这是《墓碑》出版四五年以后的事。《环球时报》把乌有之乡的几篇漫骂文章说成是“政治争论”。是高抬了“乌有之乡”。</p>
-<p><strong>六，</strong>《环球时报》说，《墓碑》“被指出所用史料不实，逻辑也有问题。2014年孙经先教授曾与他在一个会上直接对话，提出其‘绝大多数关键性的饿死人数据都是虚假的’”。</p>
-<p>《环球时报》在这里重复和传播孙经先对《墓碑》的不实指摘。</p>
-<p>乌有之乡对《墓碑》的攻击我没有理睬，因为除了漫骂以外，没有学术含量，我只回应了一篇 《为恶骂者感到可怜》（网上可以搜到）。孙经先先生在《马克思主义研究》2011年第6期上发表了《关于我国20世纪60年代人口变动问题的研究》的长文，又发表了《人口统计学中的虚拟人口理论及其应用》，声称“用科学分析”和“严密的数学方法”论证出“饿死三千万是谣言”。他的学术性的题目吸引了我。 我细读了孙经先的两篇文章，发现孙的所谓数学方法是吓唬不懂数学的读者的。我用他的“严密的数学方法”驳倒了他的“死亡漏报不影响人口统计误差”的结论。 他承认大饥荒三年人口减少数千万，但不是饿死的，是因为没有上户口和重复上户口所造成的人口统计差错。他的这个说法当然上站不住的，因为从1958年1月9日起，城乡居民迁入迁出都有严格的户籍手续。粮食和一切生活用品都有户籍所在地供应。不报户口吃什么？穿什么？这是很简单的事情。这个说法被众多的人驳倒后，他又从《墓碑》中挑毛病，他说：“我们反复阅读了《墓碑》，并对该书提供的每一个重要的‘饿死人数’都逐一进行了查证和分析。” 他们“反复阅读”“逐一查证”的结论，就是《环球时报》引用的这个说法：“绝大多数关键性的饿死人数据都是虚假的”。他们从我的书中挑出十个“问题”证明这一结论。这十个“问题”中有九个没有问题，只有一处是我的疏忽，我将四川省政协主席廖伯康文章《历史长河里的一个漩涡》中的涪陵专区死了200万人，误写成350万人。对孙经先能指出这个错误我曾表示感谢，并在书稿中作了改正。在这之后他又五六次再提这个错误，可见我的错误对他是多么珍贵啊！“反复阅读”“逐一查证”，在上千个数据中只查出一处错误，可见《墓碑》经得起对立面的挑剔。对孙经先的多次攻击，我有几篇文章作了回应：《脱离实际必然走向谬误——就大饥荒年代的人口问题与孙经先商榷》（2012年）《驳“饿死三千万是谣言”——再答孙经先对《墓碑》的指责》（2013年）《关于大饥荒年代人口损失的讨论》（2014年）这几篇文章共有四五万字，在网上都可搜到，这里不再介绍。</p>
-<p>孙经先向我挑战以后，我收到了大量驳斥孙的来信，网上也有大量驳斥孙的文章。几袋来信没有数字化，现将部分网上驳孙的文章作为附件。请阅读。（附件：《下载的部分驳孙经先的文章》）</p>
-<p>《环球时报》提到我和孙的“直接对话”，这是来自孙经先虚构的报道《所谓‘饿死三千万’的弥天大谎被当场戳穿！——孙经先教授和杨继绳先生就‘饿死三千万’问题在国际学术会议上直接对话》。2014年7月5日的武汉会议，是毛泽东左派主导的会议。上午我发言系统驳斥了孙经先对我的多次攻击，没有人反驳我的发言。下午轮到孙发言了，他说血压220，让一位年轻学者代他宣读文稿，这位年轻学者在宣读后表示，不同意孙的观点。由于会议的中心是讨论农村问题，只有几个人对我和孙两人的发言表态，其中有支持我的，也有支持孙的。会上没有得出支持谁的倾向性结论。但是，孙不顾刚刚在众目睽睽的情况下发生的事实，作出了这个歪曲报道。7月11日我发表了《关于武汉会议的声明》。“声明”说：“鉴于孙经先对会议情况如此歪曲，完全丧失了学者必须尊重事实的品格，这篇文章是我对孙经先最后一次驳斥，以后孙经先再挑战我，我不再理睬。”</p>
-<p><strong>七，</strong>“杨继绳不是历史学家，他给人的印象并非对历史感兴趣，他后期的几乎全部作品都展示了强烈的政治倾向。西方社会喜欢他，用各种奖项推崇他，这是再自然不过的事。这当中的逻辑关系几乎用不着论述了，属于‘地球人都知道’的那种。”</p>
-<p>我和《环球时报》素昧平生，不知道他用什么遥感技术得知我“给人的印象并非对历史感兴趣”。《墓碑》是学术著作，这是国内外学术界承认的。把学术问题置换为政治问题，再从政治上加以打压，是以阶级斗争为纲的年代迫害知识分子的常用手法。我在《墓碑》中分析了产生大饥荒经济原因、制度原因和意识形态原因，难免涉及到政治因素。政治因素能不能成为学术研究的讨论对象？这是上世纪八十年代已经解决了的问题呀！对大饥荒产生的原因进行经济分析、制度分析触犯了什么禁区？《环球时报》将世界划分为“东方”和“西方”。在他这篇文章里，“西方”似乎是敌对势力。还是阶级斗争的思维方式。在意识形态上划分敌我，“凡是敌人拥护的我们就要反对”，“西方”奖励的书当然是“毒草”。我们都知道，“东方”和“西方”是冷战时的划分，当时我党对时代的估计是“革命和战争的年代”，邓小平以后，我党对时代的估计是“和平与发展的年代”，《环球时报》说的逻辑关系 是“革命和战争的年代”的逻辑关系。现今中国和世界在经济上已连成一体，中国和世界利害相关。还沿几十年前的思维逻辑判断国内外的事情，会产行什么样的后果，只要经历过那段历史的人都会一清二楚。我就不多说了。</p>
-<p><strong>八，</strong>“杨大慨为他获得那么多奖项挺骄傲的，他用不着想西方这样捧他时，是不是在用这一招来跟我们国家较量。”</p>
-<p>“杨大慨为他获得那么多奖项挺骄傲的”，这是《环球时报》评论员以己之心，度人之腹。出于安全的考虑，每来一次奖项，我都疑虑重重，思虑再三。我也深知“毁誉相随”的传统，来一次荣誉必然跟随相应或更强的诋毁。我怎骄傲得起来？我的份量何轻，国家的份量何重？“西方”怎么会把我这一介小民作为较量一个大国的筹码？《环球时报》有很强的“敌情观念”，他们提醒我不要被敌对势力利用。但我觉得他们这种“东方”、“西方”的划分，与中国政府的外交布局、经贸关系是不符的。他们也是多虑：瑞典史迪格-拉森奖授奖者是一个学术团体，据说对中国很友好。他们是敌对势力吗？哈佛大学是国际知名大学，是中国创建世界一流大学的学习对象之一，中国在那里学习交流的学生、学者源源不断，把哈佛大学算作敌对势力也很荒唐。说这些学术团体给我授奖是为了“跟我们国家较量”更是荒诞不经。一些国外媒体关注“不允许”我去哈佛大学领奖的事，这些媒体也是敌对势力吗？如果认为自己周围都是敌对势力，那不是把自己孤立起来了？怎能履行习近平总书记交给舆论工作者的“联接中外，沟通世界”的使命？</p>
-<p><strong>九，</strong>《环球时报》说“其实中国官方对三年大饥荒早有正式说法”“官方对‘人祸’因素并不回避。”“史学意义的研究和探讨都不是禁忌”。</p>
-<p>那场大饥荒是中华民族刻骨铭心之痛，也是全人类刻骨铭心之痛。让更多的人知道其中的教训，不仅是史学工作者的责任，也是全体中国人的责任。由于多年的掩盖，今天的年轻人都不相信当年发生的惨剧。“中国官方有正式说法”，民间就不能再研究、再讨论吗？如果真是“官方对‘人祸’因素并不回避”，为什么《墓碑》、《人祸》、《麦苗青菜花黄——大饥荒川西纪实》等历史著作不能在大陆出版？为什么这些书在香港出版后被列为禁书？为什么写这类书的作者受到攻击和打压？真的是“史学意义的研究和探讨都不是禁忌”吗？这个问题的答案“地球人都知道”。</p>
-<p><strong>十，</strong>《环球时报》说，西方的奖项这几年雨点般落到中国“异见人士”身上。</p>
-<p>什么是异见人士？百度说：“主要指反对所在国家政权的政策、法律。相当于在野派或反对派，持不同政见者这一术语通常指他们的意见是当时政权不能容忍或主流观念不能容忍的，因而人身可能会受到威胁和作为政治犯遭到迫害。”</p>
-<p>五十岁以上的人都会记得，“异见人士”是苏联时代的说法。那时，如果苏联某人成为“异见人士”，不是坐牢，就是流放，至少会失去自由。《环球时报》没有明确说我是“异见人士”，但却把“西方奖项”“雨点”所砸到的中国人，都当成了“异见人士”。“雨点”能砸多少人？《环球时报》可能心中有数，这应当不是少数！</p>
-<p>我单位不让我去领奖，我当即同意不去。事后给关心我的众多朋友发出信息：“这把年纪了，对荣誉已看得淡了，不让去就不去，无所谓”。这事本应就此了结。《环球时报》又发出这篇评论，将已经了结的事又重新提起，是不是想挑起外媒更多的谈论？</p>
-<p>《环球时报》是党报《人民日报》的子报。当今社会思潮分裂，乌有之乡（包括孙经先）是社会思潮左的极端。我们承认这一客观存在。作为党报，应当站在公正的立场，澄清谬误，促进共识，协调社会思潮，促进社会和谐。遗憾的是，《环球时报》却坚定地站在极端的乌有之乡和孙经先一边。这是不是有失党报的身份、损害党的形象？</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%8D%95%E4%BB%81%E5%B9%B3%EF%BC%9A%E5%AF%B9%E8%A5%BF%E6%96%B9%E5%A5%96%E9%A1%B9%E5%A4%9A%E4%B8%80%E4%BA%9B%E5%BF%83%E7%9C%BC%E4%B8%8D%E8%BF%87%E5%88%86/">【异闻观止】环球时报｜单仁平：对西方奖项多一些心眼不过分</a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/430070/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">三年大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%A7%81%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异见人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%9A%E7%AB%A0%E5%85%9A%E8%A7%84%E4%BF%9D%E6%8A%A4%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%AC%E7%9A%84%E5%85%9A%E5%91%98%E6%9D%83%E5%88%A9/" target="cdt-mirror">三剑客｜蔡霞：党章党规保护任志强们的党员权利</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbj886zUcAAugqx.jpg_large.jpg" rel="attachment wp-att-430066"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbj886zUcAAugqx.jpg_large.jpg?resize=550%2C202" alt="党中央电视台" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbj886zUcAAugqx.jpg_large.jpg?resize=300%2C110 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbj886zUcAAugqx.jpg_large.jpg?resize=768%2C282 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbj886zUcAAugqx.jpg_large.jpg?w=770 770w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><em>（图片来源：Twitter <a href="https://twitter.com/hnjhj/status/700587865684594688">@hnjhj</a>）</em></p>
-<p><strong>【编者注】来自微信公号“三剑客”（ID: isanjianke）。原文已被和谐，以下内容来自网民转载</strong>：</p>
-<blockquote><p>发扬党内民主，首先要允许党员发表不同的意见，对问题进行充分的讨论，真正做到知无不言，言无不尽（三剑客章）。<br>
-——《党内政治生活若干准则》</p></blockquote>
-<p><em><br>
-文｜蔡霞（中央党校教授）<br>
-作者授权三剑客发表</em></p>
-<p>最近几天，任志强成了争论的焦点人物，一些文章给任志强扣上 “反党”帽子，批任志强“用心险恶”、“利用微博反党”，还有的文章题目是“坚决打倒阴谋家、野心家、资本翻天派、‘中国特郎普’ 任志强 ”。不同观点争论本属于正常，但用满篇文革语言给任志强“上纲上线”，大有对任志强进行政治审判乃至要直接置其于死地的架势，这就不是正常的争论，而是带有政治诽谤乃至诬害性质了。</p>
-<p>并且，这些文章发布在一级党组织主办管理的党网《千龙网》、相当高层的党刊杂志《红旗文稿》、党的外围组织——团中央的《中青网》上，貌似“组织上”表态任志强“反党”。事态如此严重，不能不引起人们的高度关注。</p>
-<p>怎么看待这些情况？用什么来判断党员任志强究竟是“反党”还是表达不同意见乃至提出批评？笔者翻到习近平总书记的一段话：“全党要牢固树立党章意识，真正把党章作为加强党性修养的根本标准……判断各级党组织和党员、干部的表现，要以党章为基本标准。 ”</p>
-<p>重读党章、《党内政治生活若干准则》（后面行文中简称《准则》） 和《中国共产党党员权利保护条例》（后面行文中简称《党员权利保护条例》），与任志强发表意见一事的相关规定内容，大概可以分为以下几个方面：</p>
-<p><strong>1、关于党员发表意见的权利问题</strong></p>
-<p>党章总纲关于党的建设基本要求中明确提出：“必须充分发扬党内民主，尊重党员主体地位，保障党员民主权利，发挥各级党组织和广大党员的积极性创造性（三剑客章）。”</p>
-<p>党章第三条规定了党员八项义务，其中“（六）切实开展批评和自我批评，勇于揭露和纠正工作中的缺点、错误，坚决同消极腐败现象作斗争。”</p>
-<p>党章第四条阐明了党员拥有八项权利，其中有三条涉及到党员发表意见权利的问题。即“（二）在党的会议上和党报党刊上，参加关于党的政策问题的讨论。（三）对党的工作提出建议和倡议。（七）对党的决议和政策如有不同意见，在坚决执行的前提下，可以声明保留，并且可以把自己的意见向党的上级组织直至中央提出。”</p>
-<p>以党章为依据，《准则》明确规定：“党员有权在党的会议上和党的报刊上参加关于党的政策的制定和实施问题的讨论，有权在党的会议上对党的任何组织和个人提出批评。党员对党的方针、政策、决议有不同意见，可以在党的会议上提出，也可以向各级党组织直至中央作口头或书面的报告。党组织应当欢迎党员群众的批评和建议，并且鼓励党员为了推进社会主义事业提出创造性的见解和主张。”</p>
-<p>《党员权利保障条例》第二章专门明确党员权利，其中第七条是：“党员有权在党的会议上参加关于党的政策和理论问题的讨论，并充分发表自己的意见。党员有权在党报党刊上参加党的中央和地方组织组织的关于党的政策和理论问题的讨论。”</p>
-<p>党章特别强调“党的任何一级组织直至中央都无权剥夺党员的上述权利。”《准则》据此明确：“各级党组织必须切实保障党员的各项权利。侵犯党员权利的行为，是严重违反党纪的。”《党员权利保护条例》第二条指出：“党员享有的党章规定的各项权利必须受到尊重和保护，党的任何一级组织、任何党员都无权剥夺。”</p>
-<p>党章、《准则》、《党员权利保护条例》的这些条文，首先清楚地表明了党员任志强有发言权有批评权，有声明保留意见权，任何人任何组织都无权剥夺任志强发表意见的权利。</p>
-<p><strong>2、关于正确对待党内不同意见</strong></p>
-<p>在健康正常的党内政治生活中，党员提出不同意见乃至尖锐批评是很常见的，如何看待和处理之?《准则》的第六条集中阐述了这个问题。</p>
-<p>《准则》提出：“发扬党内民主，首先要允许党员发表不同的意见，对问题进行充分的讨论，真正做到知无不言，言无不尽。”“对于任何党员提出的批评和意见，只要是正确的，都应该采纳和接受。如果确有错误，只能实事求是地指出来，不允许追查所谓动机和背景。”《准则》指出：“党内在思想上理论上有不同认识、有争论是正常的。对待思想上理论上的是非，只能采取摆事实、讲道理、民主讨论的办法求得解决，决不能采取压服的办法。”</p>
-<p>《准则》明确提出：“由于认识错误而讲错了话或者写了有错误的文章，不得认为是违反了党纪而给予处分。要严格实行不抓辫子、不扣帽子、不打棍子的‘三不主义’。所谓不抓辫子、不扣帽子、不打棍子，就是禁止任意夸大一个人的错误，罗织成为罪状，并给予政治上、组织上的打击甚至迫害。”</p>
-<p>《准则》特别强调：“必须注意区别：反对某个同志的某个意见，不等于反对这个同志，反对某个领导机关的某个同志，不等于反对这个组织，不等于反领导，更不等于反党。”</p>
-<p>《准则》特别要求各级党的领导机关和领导干部要做实事求是的模范，“在工作中，各种不同意见都要听，成绩、缺点都要了解。要鼓励下级同志讲心里话，反映真实情况。要努力造成和保持让人当面提意见包括尖锐意见而进行从容讨论的气氛。”</p>
-<p>为防止重演文革中对党内不同意见同志残酷打击迫害的悲剧, 《准则》用严厉的词语警示：“领导干部利用职权对同志挟嫌报复、 打击陷害，用‘穿小鞋’、‘装材料’的办法和任意加上‘反党’、‘反领导’、‘恶毒攻击’、‘犯路线错误’等罪名整人，是违反党内民主制度和违反革命道德品质的行为。对敢于坚持真理的同志妄加反革命的罪名，乱用专政手段，进行残酷迫害，这是严重违法的罪行，必须受到党纪国法的严惩。“</p>
-<p>打压不同意见，将会给党带来严重的危害。《准则》这段话极为深刻极为精辟：“把思想认识问题任意扣上‘砍旗’、‘毒草’、‘资产阶级’、‘修正主义’种种政治帽子，任意说成是敌我性质的政治问题，不仅破坏党内正常的政治生活，造成思想僵化，而且易于为反党野心家所利用，破坏社会主义国家的民主秩序。这种做法必须制止。”</p>
-<p><strong>3、党员如何参与讨论发表意见？</strong></p>
-<p>党员如何行使权利参与讨论、发表意见、提出批评，党章党规也都有明确的规定。</p>
-<p>《准则》规定：“对于关系党和国家的根本利益和全局的重大政治性的理论和政策问题，有不同看法，可以在党内适当的场合进行讨论。但是，在什么时候、用什么方式在报刊上进行讨论，应由中央决定。党的报刊必须无条件地宣传党的路线、方针、政策和政治观点。 对于中央已经作出决定的这种有重大政治性的理论和政策问题，党员如有意见，可以经过一定的组织程序提出，但是绝对不允许在报刊、 广播的公开宣传中发表同中央的决定相反的言论；也不得在群众中散布与党的路线、方针、政策和决议相反的意见。这是党的纪律。”</p>
-<p>《党员权利保障条例》第七条也同样规定：“党员有权在党的会议上参加关于党的政策和理论问题的讨论，并充分发表自己的意见。党员有权在党报党刊上参加党的中央和地方组织组织的关于党的政策和理论问题的讨论。党员在讨论党的政策和理论问题的过程中，应当自觉同党中央保持高度一致，不得公开发表与党的基本理论、基本路线、基本纲领和基本经验相违背的观点和意见。”</p>
-<p>这里有两个关键语句：一是在党内讨论。恩格斯在 1890年指出: ［1］</p>
-<p>“党已经很大，在党内绝对自由地交换意见是必要的。” 列宁曾经说过：“讨论自由、行动一致。”在党的决定没有做出之前，党内要充分讨论，使党员充分发表各种意见，一旦形成决定，全党就必须行动一致。《党员权利保障条例》指出：“党组织作出重要决议、决定前，应当以适当方式在一定范围内征询党员意见。对于多数党员有不同意见或者存在重大分歧的，暂缓作出决定，进一步调查研究，交换意见，提交下次会议表决。”</p>
-<p>讨论不能缺少发表意见的制度化平台，但中共迄今还未能健全党内讨论的制度化平台，党员如果有不同意见，最主要的表达渠道只是向上级党组织直至中央报告。向上报告不是讨论。即便如此，一些不同意见也很难上递到党的最高层。一方面，党内有些人或者扣政治帽子、或者以党的纪律为借口，限制党员发表不同的意见；另一方面, 战争年代的“保密”观念影响至深，党内越是重大问题越要严格保密，无论是起草文件还是酝酿决策都十分神秘，这就使党员事实上缺乏讨论机会，思想上的困惑难以解开。再加上有些人把“党的报刊必须无条件地宣传党的路线、方针、政策和政治观点”片面理解为只许说好话，不许提批评质疑，于是党刊党网或者只发赞扬肯定的文章，或者竭尽全力封删不同意见和批评声音。而这些对统一党内思想认识全无帮助，党员或者因不理解而在党内外进行各种争论，或带着疑惑执行决定，一遇干扰就彷徨摇摆，极大地损害党的集中统一和行动一致。</p>
-<p>也正是因为党内讨论的制度平台很不健全，发表意见渠道很不畅通，因此才有不同意见在党内没有消化，就外溢到党外场合发表、发 酵，引起复杂的社会反响。由此，推进党内民主建设，需要逐步建立起党内讨论的制度化平台，为实现党员权利切实创造条件。</p>
-<p>重大问题在党内进行广泛而充分的讨论，通过讨论促进上下沟通、 达到相互理解，不仅可以最大限度地凝聚全党智慧，减少决策失误，而且可以使全党通过讨论获得共识，为全党行动一致奠定坚实的思想基础。</p>
-<p>故此，任志强仅仅是就公共媒体“姓党”提出疑问，却被扣上吓人的政治帽子，这种做法不仅违反党章，堵塞党内言路，而且损害党内团结，对党本身没有任何好处。</p>
-<p>有人认为，党员发表不同意见，就是“妄议”中央大政方针，必须要给予严厉处分。这样的理解很片面，甚至是歪曲党的纪律。中纪委专门就“妄议”作过解释，监察部副部长肖培说：“中国共产党闻过则喜，我们听得起批评，我们也欢迎批评，同时我们也征求各方面意见来推进党和国家事业。但有个界限，对中央大政方针，对大是大非，尤其是在坚持中国共产党领导，走中国特色社会主义道路，对党的基本方针、理论、路线定下来的，全党的干部必须统一执行。” 可见“妄议”的涵义是比较明确的，背离党的基本理论、基本路线、 基本纲领和基本经验，破坏党的集中统一的才是“妄议”，任志强仅仅是对媒体都“姓党”有疑惑，与“妄议”有本质区别，更扣不上“反党”帽子。</p>
-<p>习近平曾经指出：“对中国共产党而言，要容得下尖锐批评，做到有则改之、无则加勉；对党外人士而言，要敢于讲真话，敢于讲逆耳之言，真实反映群众心声，做到知无不言、言无不尽。”总之，对任志强的发表意见如何处置，不仅是任志强的事，更和8000多万党员的权利能否得到保护直接相连。</p>
-<p>学习党章党规，增强党章意识，是我们更好地履行党员义务、行使党员权利、发挥党员作用的基础和条件。营造8000多万党员都能大胆讲真话讲心里话的党内民主氛围，是真正的爱党护党，而扣帽子堵塞言路，对党则有百害而无一利。就此，我们的党网、党刊该怎么做，是否需要再想想了?</p>
-<p><strong>注引：</strong></p>
-<p>［1］《马克思恩格斯全集》人民出版社1958年版，第37卷第435页。</p>
-<p><em>首发，转载请注明来源：三剑客 isanjianke</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%85%9A%E7%AB%A0%E5%85%9A%E8%A7%84%E4%BF%9D%E6%8A%A4%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%AC%E7%9A%84%E5%85%9A%E5%91%98%E6%9D%83%E5%88%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E4%B8%8E%E9%A6%99%E6%B8%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B9%81%E7%AE%80%E7%9F%9B%E7%9B%BE/" target="cdt-mirror">BBC | 中国与香港之间的“繁简矛盾”</a>
-</h2>
-<p><p> </p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160224135732_chinese_characters512.jpg?resize=520%2C292" alt="160224135732_chinese_characters512" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160224135732_chinese_characters512.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160224135732_chinese_characters512.jpg?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
-<p>简体中文在香港使用的情况越来越多，引发了对北京扩大在当地影响力的担忧。</p>
-<p>许多香港居民担心这可能会令香港的特征消失无影无踪。</p>
-<p><strong>繁简之争</strong></p>
-<p>中国最早在1956年开始推行简体中文，简化了原先复杂的笔画，令书写中文简单化，而且也被说成是提高中国识字率的主要原因。</p>
-<p>但是当时是英国殖民地的香港，继续使用又称为整体中文的繁体中文，另外使用繁体中文的地方包括了台湾和几乎所有的华人侨居地。</p>
-<p>这种情况一直维持到1997年，香港主权移交给了中国。</p>
-<p>推广使用简体中文的人士认为，使用简体中文有助于学习中文，并且说，简体中文“比较实用”。</p>
-<p>但是反对者说，繁体中文比较“正统”，并且可以让使用者与中文的根源更好地联系在一起。</p>
-<p>也就是说，一个人如果看得懂繁体中文，再看古典文学和推行简体中文之前所出版的书籍时就不会那么吃力。</p>
-<p><strong>教育的建议</strong></p>
-<p>香港的企业通常以简体中文来吸引中国旅客，但是这种做法却也招来了本地居民的批评。</p>
-<p>2015年12月，香港政府建议学生在学会了繁体中文之后学习简体中文，目的是“扩大的学生的阅读面，还可加强内地与海外各地的沟通”。</p>
-<p>但是反对派说，没必要特别致力于学习简体中文，而且认为政府可能是打算完全取消在学校教授繁体中文的课程。</p>
-<p>香港《苹果日报》在2月14日引述中国导演冯小刚的说法，称许多简体中文是“不合理的简化”，而负责香港教育的官员则是在“对抗这股浪潮”。</p>
-<p><strong>社交媒体辩论</strong></p>
-<p>最近几年繁简两派的争论越来越政治化，例如英国时装设计师、知名球星贝克汉姆的妻子维多利亚宣布要到香港访问，却在Instagram上成为热门话题。</p>
-<p>维多利亚·贝克汉姆以简体中文和英文在Instagram上宣布2月14日到香港。</p>
-<p>但是有网民留言说，“贝克汉姆太太，如果你要到香港做生意，请用繁体中文！”、“要是你继续使用不文明的简体中文，我就不会买你的产品”。</p>
-<p>繁简之争原本就是网民们在推特Twitter上的热门话题，在香港无线电视台突然在2月22日开始在普通话新闻中搭配简体中文字幕之后，这场议论更为热烈。</p>
-<p>在上述的节目播出之后，主管广播电视业务的香港通讯事务管理局就收到了一万多则投诉。</p>
-<p>推特上有网民形容无线电视台的做法已经成为港府“盲从”北京政策的部分措施。</p>
-<p><strong>“无需大惊小怪”</strong></p>
-<p>中国的官方媒体也加入了这场繁简之争，呼吁港人不要将此议题“政治化”。</p>
-<p>《人民日报》在2月23日刊载文章说，“把繁简强分优劣甚至当作身份标签，只能说太过浅薄无知。”</p>
-<p>《环球时报》则是发表评论说，“两岸三地的交流角度而言，内地学生认读繁体字和港澳台的学生认读简体字，都有必要，完全无需大惊小怪。”</p>
-<p>不过有些中国网民坚持使用简体中文的风潮已经是“无法阻挡”。</p>
-<p>例如网民闽都传人在环球网发表的评论下留言说，“推行普通话和简体字是大势所趋，港台固步自封，必被历史的车轮碾得粉碎。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E4%B8%8E%E9%A6%99%E6%B8%AF%E4%B9%8B%E9%97%B4%E7%9A%84%E7%B9%81%E7%AE%80%E7%9F%9B%E7%9B%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%80%E4%BD%93%E5%AD%97/?category=18271" rel="tag">简体字</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B9%81%E4%BD%93%E5%AD%97/?category=18271" rel="tag">繁体字</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B9%81%E7%AE%80%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">繁简矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">香港中港矛盾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -819,7 +743,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%80%E4%BD%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -829,5 +753,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%80%E4%BD%93
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

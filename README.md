@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%A2%86%E5%AF%BC%E5%9C%B0%E4%BD%8D/" target="cdt-mirror">博谈网｜中国经济放缓如何影响习近平的领导地位？</a>
@@ -518,7 +518,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E4%B8%9A%E7%A8%8E/?category=18271" rel="tag">农业税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91/?category=18271" rel="tag">农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E9%97%AE%E9%A2%98/?category=18271" rel="tag">农村问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E8%B7%AF/?category=18271" rel="tag">出路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E9%95%87%E5%8C%96/?category=18271" rel="tag">城镇化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86/?category=18271" rel="tag">社会治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%B0%E8%B4%A5/?category=18271" rel="tag">衰败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%83%9F%E6%9D%91%E6%94%BE%E7%89%9B%E9%83%8E%EF%BC%9A%E5%B7%9D%E4%B8%9C%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A-%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E8%A1%B0%E8%B4%A5%E7%9A%84%E7%9C%9F%E5%AE%9E/" target="cdt-mirror">烟村放牛郎：川东考察报告—中国农村衰败的真实原因与出路选择</a>
 </h2>
@@ -639,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A1%E6%9D%91/?category=18271" rel="tag">乡村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E4%B8%9A%E7%A8%8E/?category=18271" rel="tag">农业税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91/?category=18271" rel="tag">农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E9%97%AE%E9%A2%98/?category=18271" rel="tag">农村问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E8%B7%AF/?category=18271" rel="tag">出路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E9%95%87%E5%8C%96/?category=18271" rel="tag">城镇化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86/?category=18271" rel="tag">社会治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%B0%E8%B4%A5/?category=18271" rel="tag">衰败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E5%8C%97%E4%BA%AC%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%BC%A0%E5%87%AF%E8%A2%AB%E8%BF%AB%E4%B8%8A%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/" target="cdt-mirror">BBC | 北京维权律师张凯被迫上电视“认罪”</a>
 </h2>
@@ -762,5 +762,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%BB%B4
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

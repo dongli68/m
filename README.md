@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%90%91%E6%A0%87%EF%BC%81/" target="cdt-mirror">东网｜老徐：如何处理任志强将成为一个风向标！</a>
+</h2>
+<p><p>任志强，一个 65 岁的退休老头，在位时不断口出狂言，搅得地产界、财经界甚至整个社会跟着翻跟头。如今他因为相关言论，又一次站在了舆论的风口浪尖上。不过，这一次跟以往截然不同，有关官方媒体已经把问题上升到了「反党」的高度，甚至使用当年的「文革」语言攻击任志强。也有一些支持他的人，引经据典予以反驳，网络上泾渭分明地分成了两派。更有一些捕风捉影的自媒体文章，故弄玄虚地把这件事联系到高层政治斗争，一时间任志强这个名字被刷爆了朋友圈。</p>
+<p>当局打倒一个「任大炮」简单，打倒他 3000 多万粉丝的意志却没那么容易。</p>
+<p>2 月 26 日，国家网信办公布了对一批违法违规网站、公众账号、网络大 V 的处理结果，其中 @ 演员孙海英等 7 名网络大 V 账号被关闭。这 7 个人里并没有任志强。做为在新浪微博有着 3700 多万粉丝的网络大 V ，他的微博自从 2 月 25 日早上 7:15 最后一条微博之后，就再没有更新。显然他的微博正处于暂停更新的阶段。从目前网络上的导向看，批判谴责任志强的文章铺天盖地，支持他的文章不是被删除就是被屏蔽，官方的态度已经一目了然。下一步，公众最为关注的是：任志强将会被怎样处理？</p>
+<p>根据以往的经验，任志强这次的结果不外乎有这么几个：一是被开除出党，全网封杀销号，彻底消除他在网络上的影响力。这个结果，是体制内很多人以及「左」派最愿意看到的。但是，近十几年来，对于体制内有影响力的人，因不同观点而被开除党籍，应该说这将是第一例。所以当局会慎之又慎，不会轻举妄动；二是维持现状。从目前的态势看不太可能；三是让任志强本人自动退党。这也是下策，况且依照任本人的个性，他自己也不会接受；四是大事化小，不激化矛盾，依据党内条例诫勉谈话，顶多给个党内纪律处分。保留微博账号，但需本人做出严格承诺，不再就热点事件发声。</p>
+<p>我个人认为第四种情形最有可能，不搞轰轰烈烈运动式的整人，低调淡化处理，对于执政当局和任本人都属于上策。不过，不管如何处理任志强，未来他都将会从公众视野中逐渐消失，或者在商言商，或者风花雪月，反正不会再关注政治。这件事也将会成为一个风向标，至少体现在三个方面：第一是否坚持依法治国？第二是否坚持从严治党？党内的事情党内解决，决不能搞全社会的大批判；第三是否自媒体在受到严厉管控之后，网络变得万马齐喑，死水一潭？</p>
+<p>其实，打倒一个「任大炮」简单，打倒他 3000 多万粉丝的意志却没那么容易。网络大 V 之所以拥有巨大的影响力和号召力，敢说真话是他们共同的特点。他们的影响力，源自他们真实的声音。他们的众多粉丝，都是自发关注形成的，是民意的一种选择和升华。注意倾听他们的理性声音，某种程度上就是倾听民意，至少是部分民意。<br>
+如果一边是敢言人士的被禁声、被批判，而另一边是阿谀奉承、马屁拍得山响的人渣的名单在加长，舆论生态不断出现令人担忧的恶化趋势，因言获罪或者因言而飞黄腾达的极端现象愈演愈烈，那么就难免让人感觉是「文革」死灰复燃了。与民意为敌，只能是掩耳盗铃。尽管能得到一时的表面平静，但却孕育着长久的地狱之火。长此以往，必定失去民心。这也许就是任志强事件能成为风向标的最关键的一点。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%90%91%E6%A0%87%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%A2%85%E6%98%A5%E6%9D%A5%E6%9D%82%E8%AF%B4%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E6%B3%95%E9%99%A2%E5%A5%B3%E6%B3%95%E5%AE%98%E8%A2%AB%E6%9E%AA%E6%9D%80%E4%B8%80%E4%BA%8B/" target="cdt-mirror">梅春来杂说｜关于北京昌平法院女法官被枪杀一事的关注声明</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-27-at-%E4%B8%8B%E5%8D%884.18.21.png?resize=536%2C431" alt="Screen Shot 2016-02-27 at 下午4.18.21" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-27-at-下午4.18.21.png?resize=300%2C241 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-27-at-下午4.18.21.png?w=536 536w" sizes="(max-width: 536px) 100vw, 536px" data-recalc-dims="1"><br><span>律师梅春来</span></p>
+<p>今天我们律师界突然得知一个令人十分痛惜的事件，北京市昌平区法院回龙观法庭马彩云法官被人枪杀，据称是案件当事人的报复引起，正当我们持续关注并期望得到有关部门公布的正式信息时，我们又突然发现大量与此事件有关的报道或信息被删除，这引起我们律师界的不安和警觉，我认为事件可能会导致真相不能坦率地公开，舆论的导向又有可能将此事件被定位于是一个个案的效应，因此，我们声明如下：</p>
+<p>1、尽管我们律师界普遍对司法界有过不同声音的批评，但这种批评的声音从来没有妨碍过法律职业共同体的建立，相反我们的批评是更期望能够达成法律职业共同体的尽早建立。</p>
+<p>2、将枪口对准马法官实际上是对准所有的法律界人士，枪击是对法律秩序的绝大破坏，因此，马法官的遭遇是在威胁所有司法体系内的警察、检察官、法官及律师的人身安全，我们律师界同样有责任发出自己的声音，用以表明我们的立场，并声援和鼓励所有在职的司法人员，无论政治向左还是向右，无论司法改革如何困窘，只要我们在职一天，我们依然谨守入职时的承诺，用我们的良知和公正之心，坚守社会公正的最后一道防线。</p>
+<p>3、我们注意到本届司法改革以后，越来越多的优秀骨干法官离开了审判席位，这说明本届司法改革完全没有回应基层法官的诉求，当大量优秀的法官离开了审判席位，一旦社会公正无人可以坚守时，影响的不仅仅是政权的稳定，更重要的是所有人的合法权益，没有人可以通过司法得到有效保障，包括枪杀马法官的歹徒，这一点我们希望所有的政府要员和普通的公民都应该去深刻反思。</p>
+<p>4、司法的权威来自于实践，而在中国大部分的案件都是由各地县市的基层法院以司法裁判的方式解决，因此，所谓的司法改革当下最重要的是提高基层司法人员待遇和职业保障，司法改革提出顶层设计本身错误的，这种不符合司法实践的改革完全是在牺牲基层司法人员的尊严，中国的真正司法改革必须是底层设计并由每一位法官的积极参与，必须让每个基层法官能自由的表达出自己的权利和义务时，才能达成司法改革的走向满足社会公众对于公正审判的期望。</p>
+<p>5、对马法官的事件，我们强烈反对任何形式的删帖，我们认为公众有权利通过网络去获取信息，我们也相信他们有能力鉴别信息的真伪，即便有人故意混淆视听，我们也相信我们的警方有能力去处理类似的违法事件，我们再次强调，如果这个言论的空间没有任志强一类敢言的人，那么我们所听到只有司马南、胡锡进这类喋喋不休的啰嗦。</p>
+<p>6、我们督促警方尽早破案，我们也呼吁所有的人能理性对待司法审判，司法公正不代表法庭有义务穷尽一切帮助当事人去追求真相，法治的另一种含义是追求真相是当事人的义务，而法官只有在当事人穷尽一切仍无法还原真相时，秉持公义和公正做出一个合乎人性的判断，我们的民众必须明白法庭的判决不是唯一的真相，当有一天真相出来时候，司法依然可以正当的程序给公众作出一个更接近真相的判决。</p>
+<p>7、马法官的遭遇是一个标志性事件，它标志着当下的司法改革已到了穷途，我们呼吁所有试图离职的法官努力的发出自己对司法改革的诉求，而不是表达被舍弃的哀怨与伤痛，既然宪法赋予司法独立审判的权力，我们就必须要有尊严的出现在社会公众的视线之中，既然社会公众期望我们司法来坚守社会公正的最后一道防线，那么我们就必须有权力发出自己的司法意见来表达司法的立场，要做到这一点，我们法官必须先学会拒绝参与所有非司法领域内与法官职业不符的活动，比如参与政府的信访或去做本由该司法行政部门履职的街头普法。</p>
+<p>上述声明仅是我一名普通律师的言论表达，不存在他人指使，也不存在境外势力，因此，希望可以不被传唤和喝茶！</p>
+<p>梅春来于2016年2月27日晚</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%A2%85%E6%98%A5%E6%9D%A5%E6%9D%82%E8%AF%B4%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E6%B3%95%E9%99%A2%E5%A5%B3%E6%B3%95%E5%AE%98%E8%A2%AB%E6%9E%AA%E6%9D%80%E4%B8%80%E4%BA%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E5%B8%96/?category=18271" rel="tag">删帖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%85%E6%98%A5%E6%9D%A5/?category=18271" rel="tag">梅春来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98/?category=18271" rel="tag">法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98%E9%A9%AC%E5%BD%A9%E4%BA%91%E8%A2%AB%E6%9D%80/?category=18271" rel="tag">法官马彩云被杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%83%A1%E9%80%82%E5%AD%A6%E5%9B%AD%EF%BD%9C%E7%8E%8B%E4%BA%9A%E9%9D%9E%EF%BC%9A/" target="cdt-mirror">胡适学园｜王亚非：警惕有的网站借任志强事件反党</a>
 </h2>
 <p><p>【转载】此文来自“”朋友圈，作者王亚非是安徽出版集团董事长，供朋友们参考：</p>
@@ -678,67 +718,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E7%8E%8B%E8%8F%B2%E8%A2%AB%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93%E6%8C%87%E6%8E%A7%E4%B8%8E%E8%BE%BE%E8%B5%96%E6%A0%B8%E5%BF%83%E5%A4%B4%E7%9B%AE%E5%85%B1/" target="cdt-mirror">法广 | 王菲被官方媒体指控与达赖“核心头目”共同出席法会</a>
-</h2>
-<p><p>作者：上海特约记者 曹国星</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-%E4%B8%8A%E5%8D%8811.05.50.png?resize=550%2C311" alt="Screen Shot 2016-02-25 at 上午11.05.50" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午11.05.50.png?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午11.05.50.png?w=613 613w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>大宝法王噶玛巴</span></p>
-<div>
-<p>今天（2月25日），官方“中国西藏网”刊发了题为《演艺人士切勿“识人不明”在国家大义上栽跟头》的评论，包括新华网、环球网在内的多家网站转载。该文指控，近日，包括王菲等多位中国演艺明星出席在印度的法会，据专业人士“指认”,在场有两名在“西藏流亡政府”中担任要职的藏族流亡人士，被指为“达赖集团核心头目”。</p>
-</div>
-<div>
-<p>文章以多名因政治表达在中国大陆被封杀的海外艺人为例，称 “越是知名艺人越需严格约束自己”， 警告这些艺人，若是打着“明星”“自由”的招牌为所欲为，那么产生的苦果也只有“自己吞”。</p>
-<p>这篇署名“苏文彦”的评论首发于“中国西藏网”，该网站2000年创立，是以西藏为主要职能的国家级重点新闻网站，是中国官方在涉藏问题方面的主要网络喉舌，苏应该是该网站的长期撰稿人或者记者。</p>
-<p>这篇评论以2014年李连杰夫妇与达赖喇嘛的合影在网上为引子，指责多位国际艺人有支持“藏独”的千克，比如美国演员莎朗•斯通、冰岛女歌手比约克、“大嘴”朱莉娅•罗伯茨、布拉德•皮特、安吉丽娜•朱莉、李察•基尔。</p>
-<p>作者质疑：王菲、梁朝伟等人明知这几位是“藏独”集团头目，还与他们坐在一起。明星作为公众人物，似乎更应谨言慎行才是。和“藏独”集团头目搅在一起，已经远远超出了“宗教信仰自由”的范畴。</p>
-<div>
-<div>
-<div>文章警告，由于与“藏独”掺和在一起导致“犯众怒”、被“粉丝”自发抵制的例子也不少，前述的外国明星多有受其所累者，美国摇滚乐队“魔力红”的中国演唱会便被取消，莎朗•斯通更是被撤下代言广告, 当然，那些支持“港独”“台独”的艺人下场“也无二致”。</div>
-</div>
-</div>
-<p>因此，越是知名艺人越需严格约束自己，要“好自为之”。</p>
-<p>一位熟悉西藏情况的媒体人告诉本台记者，“大宝法王噶玛巴每年一届的噶举祈愿几乎从无涉政治、只关佛法，不仅王菲每年都去，梁朝伟赵薇胡军好多人都去过。”他介绍，在场的两位所谓的“达赖集团核心头目”， 一个是西藏流亡政府内政部长嘉日卓玛，一个西藏人民议会议长边巴次仁。</p>
-<p>在他看来，“这两人，区区艺人显然不会认识，一切都泛政治化太可怕了，这除了让人更离心离德之外还有何意义呢？”</p>
-<p>一位多年来经常会前往印度参加法会的藏传佛教信徒告诉记者，往年参加这个法会回国，常会被相关部门喝茶，这次看到中国西藏网的这篇评论，许多大陆信徒都颇为紧张，估计这次被喝茶的人可能会特别多。</p>
-<p>目前，在墙内互联网上，王菲在印度菩提伽耶参加噶举祈愿法会的消息已经被下令全网删除。</p>
-</div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%B3%95%E5%B9%BF-%E7%8E%8B%E8%8F%B2%E8%A2%AB%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93%E6%8C%87%E6%8E%A7%E4%B8%8E%E8%BE%BE%E8%B5%96%E6%A0%B8%E5%BF%83%E5%A4%B4%E7%9B%AE%E5%85%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E4%BA%BA%E4%BF%A1%E6%95%99/?category=18271" rel="tag">名人信教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%AE%9D%E6%B3%95%E7%8E%8B%E5%99%B6%E7%8E%9B%E5%B7%B4/?category=18271" rel="tag">大宝法王噶玛巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%EF%BC%8C%E6%B5%81%E4%BA%A1%E8%97%8F%E6%97%8F%E5%83%A7%E4%BA%BA/?category=18271" rel="tag">流亡藏族僧人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E8%8F%B2/?category=18271" rel="tag">王菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E8%8F%B2%E5%8D%B0%E5%BA%A6%E5%8F%82%E5%8A%A0%E6%B3%95%E4%BC%9A/?category=18271" rel="tag">王菲印度参加法会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E7%8B%AC/?category=18271" rel="tag">藏独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96/?category=18271" rel="tag">达赖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E4%B8%9C%E5%BE%B7%EF%BC%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%85%9A%E5%AE%A3%E4%BC%A0/" target="cdt-mirror">三辉图书 | 徐贲：东德，失败的“党宣传”</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-%E4%B8%8A%E5%8D%8810.52.45.png?resize=555%2C344" alt="Screen Shot 2016-02-25 at 上午10.52.45" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午10.52.45.png?resize=300%2C186 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-上午10.52.45.png?w=555 555w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><br><span>柏林墙的倒塌，1990。柏林墙，建于1961年，是德国分裂期间东德政府环绕西柏林边境修筑的全封闭边防系统，以将其与西德领土分割开来，阻止东德居民逃往西柏林。1989年东欧发生一系列政治变动，柏林墙也在民众压力下开放。1990年柏林墙被正式下令拆除，东西德统一，东德政府倒台。</span></p>
-<p>“党宣传”为何难以成功？<br>
-作者：徐贲  美国加州圣玛利学院英文系教授，复旦大学社会科学高等研究院兼职教授。</p>
-<p>在1989年苏联、东欧政治剧变之前，东德的德国统一社会党政府的政治宣传是在东欧国家中最有效的。匈牙利出现过1956年事件，捷克斯洛伐克有过“七七宪章”，波兰有过团结工会，但东德人民的思想却很稳定，1953年出现的动乱被很快平息，在这以后的36年间，东德的政权一直没有放松对人民的宣传教育和思想统治，人民也没有任何明显的反抗。似乎谁也不怀疑东德政权和政局的稳定，而且以为会一直如此，长治久安。</p>
-<p>在这样的情况下，甚至连学者们都一直在预言，统一社会党政权会在东德长期存在下去。而恰恰就在这个时候，东德政权却一下子崩溃了。在这政权存在的时候，它一直受到人民的一致拥护，但在它垮台的时候，却很少有人为它惋惜，更不要说挺身而出，拼死保卫了。这样出人意料的突变到底源于何种原因？是纯属偶然，是出于统治者的一时疏忽？还是有一些更深层的必然原因？</p>
-<p>东德的宣传面临一个由它自己制造，因此也就格外难以消除的<strong>悖论困境</strong>：它想要得到的，并没有得到；而它得到的，却又未必是它想要得到的。尽管党在宣传中投入了巨大的资源，但实际的宣传效果却收效甚微，也就是说，国家并未能成功地把正统思想灌输给国民，并以此将他们“社会化”为它所要的那种“新人”。宣传得到的只是人们的表面顺从，这种顺从包括了“行动”的两个方面：按照统治者的意志和命令，顺从地有所行动或避免行动。泰德·史密斯（T. J. Smith）指出，宣传的目的主要不是影响群众的想法，因为想法存在于人们的头脑之中，想法是否真的受到宣传影响，是无法有效测定的。宣传的主要目的是影响群众的公开行为，如果能够做到让群众做什么他们就做什么，不让他们做什么他们就不做什么，宣传就算收到了成效。但是，成效不等于成功。成功是指形成或改变人的想法，然后再有相应的行动。宣传的悖论是，它一开始就以行为而不是思想为影响的目标，那它注定只能是不成功的。它所改造成的共产主义或社会主义的“新人”，他们那种没有思想来源的行为只是一种动物性的条件反射。</p>
-<p>宣传官僚其实自己早就意识到党宣传机器出了毛病，但他们看到的总是技术性的原因，例如，某些环节出了问题、对某问题宣传力度不够、弦绷得还不够紧、必须投入更多资金和人力、加强“软实力”等等。宣传官僚不可能从极权体制本身去找原因，因为这样做，便是对体制心存怀疑，缺乏坚定的信心，而这无疑会成为一种自杀行为。对失败的真正原因，他们会下意识地拒绝承认。正如埃吕所说，在任何一个社会中，“只要一开始有对话，宣传便完了”。宣传官僚知道宣传的致命弱点是什么，因此，他们的宣传是以禁止社会中的自由对话为先决条件的，它必须严格控制社会中的自由言论和理性的平等讨论。它既然不可能改变这个先决条件，也就必然只能寻求宣传方法和技术的改良。</p>
-<p>技术的问题总是可以有对策的，但如果是极权宣传体制自身的问题，那就完全是另外一回事了。恰恰是一些制度原因使得极权宣传的自我完善能力受到了致命的限制。不仅如此，任何的技术性改良只会加深这些内在缺陷，使得极权宣传越来越不得不依靠宣传之外的强权压制和暴力威胁。大致而言，<strong>极权宣传体制本身有三种不可克服的内在缺陷</strong>，是任何技术性的改良都无法克服的，也是它注定不能成功的原因。</p>
-<p>极权宣传的<strong>第一个内在缺陷</strong>是为自己设置了不切实际的目标。不切实际的目标注定只能有自欺欺人的结果。极权宣传自称代表绝对真理，并企图统一所有人的思想，它必须证明极权政权及其意识形态绝对正确， 证明其领袖的绝对英明、制度的绝对优越、政策的绝对正确等等，并以此为理由要求所有人的绝对服从。绝对的正确必然需要绝对的权力来支撑，而绝对的权力又必然带来绝对的腐败。</p>
-<p>绝对正确的宣传要求人们放弃自己独立的想法，而代之以由宣传武断规定的“正确思想”。宣传还必须按照最高统治者的意愿，变来变去。这实际上是在为它自己制造一个逆水行舟式的困境。试想，宣传想要改变的思想是“自发”的，而它自己却是需要“灌输”的。以不自然对抗自然，这是多么辛苦、多么不容易成功的一件事。这就是老赫胥黎（Thomas Henry Huxley）所说的那种“园丁困境”。赫胥黎在1894年出版的《进化和伦理》一书的序言中描述了一个意欲干预自然的园丁，园丁要以他的武断设计来重新规划自然。园丁可以成功于一时，但只要他停止经营他的花园，自然就会立即恢复原貌。17党宣传不断试图以“先进思想”去教育群众，以革命运动去动员群众，提高他们的觉悟。然而，一旦停止了这种政治运动式的干预，群众立即开始恢复到先前的“落后”状态，甚至比以前的落后更加落后。</p>
-<p>极权宣传与别的种类的宣传有本质的区别。例如，民主社会中也有宣传，但那里的宣传是自己说话，也让别人说话。宣传者不可能以代言唯一真理、实现统一思想为己任。美国竞选总统时，参选者及其团队都会全力使出宣传招数，如果谁以60%的选票当选，那已经算是“压倒性优势”。极权政治宣传称自己绝对正确，60%的支持率不但不是绝对优势，而且是“非常失败”。宣传如果说80%的人支持现政权，可信度会比说98%的人支持要来得高，但它决不能这么说，因为这么一说，就等于承认有20%的反对者，这是对绝对真理的重大打击。而且极权统治下的社会，思想“纯洁”，处在一种“无菌”状态下，不要说有20%的反对者，就算只有5%，只要让民众知道这些人的存在，就会出大麻烦。不满的情绪是会传染的，只要有人公开表示不满，就可能鼓动其他人加入反叛、到处传染异端思想。极权宣传从一开始就给自己设定了一个极高的“成功目标”，看起来非常强悍，但这却是一种非常脆弱的强悍，因为它连5%的对立面都经受不起。</p>
-<p>极权宣传的<strong>第二个内在缺陷</strong>是自我评估机制失灵。极权宣传表面越成功，就越无法评估自己实质是多么失败。极权宣传是一种典型的以“正确行为”代替“正确思想”的宣传。它的有效性可以从人们没有公开的不正确行为来评估，却无法从人们没有不正确思想来评估。极权宣传深知这一点，由于无法评估它对人们思想的控制效能和程度，它处在一种持续的不安、提防、焦虑、戒备状态之下，因此事无巨细，丝毫不敢马虎。对思想的审查和管制因此也必须延伸到所有的文化、出版、新闻、言论、文艺、娱乐领域，任何一点疏漏都可能对整体控制造成“不可挽回的损失”，也就是埃吕所说的，成功的宣传必须是无一遗漏的“整体宣传”（total propaganda）。</p>
-<p>但是，管制得越细致，未必就等于管制得越有效，防不胜防的状况还是会随时出现。宣传的效能只是强迫人们把自然的想法从公开转为隐蔽，强使人们的公开行为与真实想法之间不再对应，甚至完全相反。思想的是一个样，公开行为又是一个样，这就形成了哈维尔所说的那种“在谎言中的生活”。人们知道在公开的场合下该说什么，不该说什么，该怎么做，不该怎么做。如此集体行动的人越多，愿意或胆敢有不同行动的人就越少，这便是假面社会的特点，每一个生活于其中的人都不得不戴上同样的假面。不只是受宣传的群众，就连做宣传工作的干部也都是戴着假面。这些宣传干部不像那些经过出生入死的信仰考验的老干部，他们是从官场里混出来的，凭的就是该说的说、不该说的不说、该做的做、不该做的不做的那套本领。他们自己就未必相信自己所宣传的，再加上极权官场报喜不报忧的积习，这些宣传干部对自己工作成绩的评估和报告根本就难以做到真实可靠。</p>
-<p>宣传干部们从事没有创意的机械工作，对他们当中的许多人来说，工作不过是端一个饭碗，既不需要他们真正相信自己所宣传的，也不需要能够使他们的受众真正相信。但是，他们的工作又不能没有成果，所以就只能宣传那些无法作效率评估的空洞无物的口号。</p>
-<p>官场上不能说真话和社会中不能说真话是共生的现象。下级向上级所作的呈报会一级级过滤掉不好的消息。研究德国历史的历史学家富尔布洛克（Mary Fulbrook）对东德的观察是：“关于民众支持政权和统治者的报告，在从地方向中央的汇报中，一层层地越来越好听。……东德的地区党委书记向柏林的报告总是陈述一连串的成绩，在提到现实问题时谨小慎微……这形成了一种党内的虚假风气”，大家都知道真话常常会有害无益，“没有人批评，也就没有真实。当领导对自己的伟大深信不疑的时候，拍马溜须的人也就自然多了起来”。</p>
-<p>极权宣传的<strong>第三个内在缺陷</strong>是，党逻辑的意识形态无法控制人对经验世界的感受。为什么连宣传干部都难以相信自己所宣传的东西呢？这是因为他们也是生活在经验世界中的人，在这一点上，他们和老百姓并没有太大的区别。埃吕说，宣传必须与事实相符才能取信，“碰到了很多、很具体的事实不符，就再难相信”。 东德宣传社会主义比资本主义优越，必然在历史中取代资本主义，但经不起东德人与西德的经验性比较。东德宣传总是说“社会主义民主”比西方的“自由民主”更民主，但人们的经验事实是，公民并不能自由言论、自由集会、自由选举。东德宣传总是说东德的社会比腐朽没落的资本主义光明道德，但人们在这个社会中看到的却是普遍的虚伪、谎言、阴谋、暴力和非正义。</p>
-<p>用一党意识形态来解释一切现实经验，它的基本条件是将国家与外界，尤其是与外界信息彻底隔绝。这在当时的东德已经很难做到，这样做必须付出太高的政治和经济代价。在无法用意识形态进行思想控制的情况下，只能越来越借助于强权和暴力压制的手段，如国家安全秘密警察或军警对任何群众场面如临大敌，随时准备动用武力进行镇压。这等于政府自己在宣布已经失去了民心，承认老百姓已经成了它必须时时防范的对象。这样的政府权力实质上已经变成了一个得不到民心支持的统治。</p>
-<p>德国统一社会党政权在东德存在了四十年，在这四十年里，它一直把宣传当作一项最重点的政治工作，对宣传加强了又再加强。但是，宣传还是成了一件越做越棘手，越做越事与愿违的事情。东德的宣传既不是无效的，也不是无用的，它是四十年来德国统一社会党政权的主要支撑之一，没有它，这个政权也许早就垮台了。但是，尽管这个政权在宣传上投入了极大的人力物力，宣传的“有效性”却一直不能令它的主子满意。</p>
-<p>就“有效性”而言，它所取得的效能未必就是它想要取得的，而它想取得的效能却一直到最后都无法取得。真正成功的宣传是塑造“新人”，形成“新思想”，让受宣传者心服口服地追随宣传，诚心诚意地接受宣传的立场和想法。<strong>东德四十年的宣传没有能取得这种有效性，就此而言，它是失败的。</strong>但是，它却在另一种意义上是相当有效，相当成功的，那就是，它确实消除了异端的声音，维持了一种至少是表面上的统一思想、统一行动。由于宣传的力量， 人们在“大是大非”问题上不得不充分“自觉”而“积极”地配合，不得不在公开场合有正确的表现和正确的行为。“党宣传”实现了那种以“正确行为”代替“正确思想”，以条件反射代替理性思考和判断的有效控制。这种表层效用并不是宣传以前所能满足的，也许至今仍然不是它所最理想的，但是，即便是退而求其次，对维持极权统治，这样的宣传也绝对是必不可少的。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/s26036423.jpg?resize=291%2C453" alt="s26036423" data-recalc-dims="1"><br><span>“党宣传”为何难以成功？</span><br><span> 出自 /《统治与教育》</span></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E4%B8%9C%E5%BE%B7%EF%BC%9A%E5%A4%B1%E8%B4%A5%E7%9A%84%E5%85%9A%E5%AE%A3%E4%BC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E5%88%B0%E6%9F%8F%E6%9E%97%E5%A2%99/?category=18271" rel="tag">推到柏林墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/?category=18271" rel="tag">政治理论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%8F%E6%9E%97%E5%A2%99/?category=18271" rel="tag">柏林墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -750,7 +729,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +739,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

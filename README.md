@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,94 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%B2%81%E5%B1%B1%E8%80%81%E6%B3%89%EF%BC%9A/" target="cdt-mirror">鲁山老泉：每一次大的灾难来临，都是从禁言开始</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%883.47.47.png?resize=490%2C326" alt="Screen Shot 2016-02-28 at 下午3.47.47" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.47.47.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.47.47.png?w=490 490w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"><br><span>（图片来自网络）</span></p>
+<p>作者：鲁山老泉</p>
+<p>要是在国外生活时间长了，变成了别国的公民，最好是多关心关心所在国的事情。但大多数人关心的还是天朝那点事儿，我也这样，好在我还拿着中国护照（没准儿哪天就变了）。关心无非是想让母国更好些，毕竟是在外面这么多年总算是见到了些以前没见到的东西，可以想以前不敢想的事情，也可以随便说些以前不敢说的话。。</p>
+<p>每每有新人上台，人们总是寄予厚望，可每每的让人失望，真是吃一百个豆都不嫌腥。这几年在很多方面更是让人大跌眼镜，很有倒退的味道。今转鲁山老泉的一文，大家看看是否有道理。有些好文章还是需要存起来的，时间一长找都没地找。该文也转到了微信里，估计没几小时就被封了，都什么世道，连让人说话的勇气都没有。。。</p>
+<p>一</p>
+<p>昨天某‌‌“专栏作家‌‌”批判任志强，还用‌‌“67年前人民的选择‌‌”证明某组织的合法性，你说得多不要脸？以他的意思，‌‌“67年前的选择‌‌”可以管一万年！</p>
+<p>67年前，我父亲还是小伙子，如今我都年已花甲，我儿子也快30岁了，是不是说我父亲的选择就是我的选择？也是我儿子的选择？等到我第58世孙，72世孙诞生，也要承继我父亲的选择呀？</p>
+<p>我不知道某组织的‌‌“保鲜期‌‌”是多少年，但是我知道水的保鲜期不超过三天！</p>
+<p>拿这样的话作‌‌“道理‌‌”驳人，真让人无语。</p>
+<p>今早起读到一条微信也拿出来晒晒：</p>
+<p>‌‌“一位不容置疑的领袖，一位不容批评的政党，一种不容制衡的权力，一个极端暴虐的体制，一片奴性十足的国民，一批舆论一律的媒体，一伙儿横行霸道的酷吏，一堆歌功颂德的文痞，这就是十年文革发生的条件。‌‌”</p>
+<p>大家对照对照吧，谁敢说第二次文革不会发生在明天？</p>
+<p>有人对我说，即使再发生文革，碍你老泉什么事？人家斗走资派（执行市场经济的官员），你想挨斗都没资格。</p>
+<p>如果只斗走资派，确实不关我事。可是我知道，文革并不是只斗走资派，文革的时候中国既没有资本家也没有资产阶级，斗走资派是借口。文革实质上是权斗，但客观上是一次对政治、经济、文化、科技的大破坏、大浩劫。文革的破坏是全方位的，我只说两点：一点是让人恐惧，时时刻刻恐惧。比如不知道哪句话说错了你就得挨批斗，挨打，甚至坐监狱，或者吃枪子儿。第二是人人都政治狂热了，经济就丢掉了，人就没饭吃。天天饿肚子的滋味不好受。虽然挨批斗不是人人有份，但是饿肚子谁也跑不掉。别说喝肉汤成为奢望，喝菜汤都不可能。我说你不信，眼见着的，我们那一代，平均身高既比不上我们父亲一辈，也比不上我们儿子一辈。你说因为啥？</p>
+<p>有些人，对现实不满，就寄希望再来一次文革。这如同医生割头治病，既然把头割了，你还治什么病？</p>
+<p>有些人盼望文革，还因为不懂文革并不是对某些（坏）人造成冲击，实际上文革冲击了任何人。换句话说就是任何人在文革中没赢家。就以毛某人为例，他确实战胜了他的对手，可是他成了孤家寡人，而且导致了家人的不幸（如果不是文革他的老婆和侄子结局不会这样惨）。</p>
+<p>最最怀念毛时代的人不过我的诤友卜移山。我问卜移山：如果一直在毛时代，还是老一套，你的两个孩子即使被推荐读大学，作为工农兵大学生，能学到现在这样的程度吗？能有现在发展的基础吗？能享受到现在的物质条件吗？卜移山你现在疾病缠身，你有钱治病吗？即使有钱，能享受到现在的医疗条件吗？能吃上这么高效的药物吗？能吃上进口药吗？我估计卜移山别说治病，就是跟我老泉抬杠，也是在阴曹地府吧？你早见阎王了。</p>
+<p>天天念叨毛时代，无厘头啊！</p>
+<p>最近‌‌“党媒姓党‌‌”让许多人坐立不安，直接感觉到灾难就在眼前。为什么？因为在所谓‌‌“共和国‌‌”不长的历史中，每一次大的灾难来临都是从禁言开始。第一次是50年代大跃进导致大饥荒，前提是1957年反右，把民主人士的善意批评当作向党猖狂进攻，疯狂迫害有良知且有真知灼见的知识分子，后来发生了无以复加的荒唐事都听不到批评。第二次是60年代中期从批‌‌“三家村‌‌”批吴晗开始，把古今中外所有文化都说成‌‌“封、资、修黑货‌‌”，然后就是文化大革命，浩劫一切，扫荡一切。第三次在80年代，‌‌“敏感词‌‌”我就不说了。</p>
+<p>什么‌‌“党媒姓党‌‌”？实质上是不准妄议。‌‌“我对，我自己说；我错，也不许你说‌‌”，完全摆出一副不让监督的面孔。一个党一个政府不让监督了，不就可以为所欲为了吗？即使想为所欲为，也得正确呀？你如何正确？不就得争论吗？不就得反复论证吗？你取消论证的过程，实际上就等于坚持错误。想想吧，你拿错误的东西为所欲为是多么可怕！所以我们这些人咋不战战兢兢咧？</p>
+<p>哥们，千万别为了个人的私利就忘了老祖宗‌‌“偏听兼听‌‌”‌‌“载舟覆舟‌‌”的古训呀！</p>
+<p>二</p>
+<p>我的偶像很生气，我对我的偶像使用‌‌“民逗‌‌”一词也很生气。</p>
+<p>怎么回事？肖仲华，华中科技大学的博士，我过去多次推荐他的专栏。他最近为政府‌‌“推墙‌‌”的决定叫好受到网友批评，他很委屈，也很生气，说：</p>
+<p>‌‌“政府错了你批评，他为你叫好；政府对了却不可以表扬，这是哪门子民主？‌‌”</p>
+<p>所以他喊批评他的人为‌‌“民逗‌‌”，埋汰、轻蔑、讽刺、看不起，都在其中了。</p>
+<p>过去我对肖博士崇拜有加，这一次我反过来‌‌“辅导辅导‌‌”我的偶像。我的青岛老哥跟我说，古时候强盗也是讲规矩的，即‌‌“盗亦有道‌‌”。嘛意思？过去的强盗，‌‌“队长‌‌”必须第一个打冲锋，完成任务再最后一个出来；打冲锋是你，殿后也是你，否则就做不了‌‌“队长‌‌”。</p>
+<p>这儿强盗的‌‌“道‌‌”我先不管，我要说的是‌‌“盗亦有道‌‌”——强盗也讲规矩。</p>
+<p>中国的法律，特别是重大的，都是谁出台？人大。党和政府行不？党肯定不行；政府可以，但也是鸡毛蒜皮，仅限于‌‌“规定‌‌”‌‌“条例‌‌”之类，且不能跟人大法律相抵触。这是常识中的常识。然而再常识的常识，也能难倒我们的高层文盲。最近党和政府的‌‌“拆围墙‌‌”就是文盲加法盲才干出来的事。拆围墙，绝对好事。交通顺畅，空气流通，怎么不好？但是程序不正义。《物权法》规定私人财产神圣不可侵犯，小区围墙属于业主集体私产，你拆了就是犯法。人们最害怕的，是你从今天拆围墙开始，到明天拆小区！</p>
+<p>然而，不合法的好事情就不能办吗？可以呀，修改《物权法》，或者给《物权法》重新释义呀？你法律程序走在前面，后面就可以做。上面不是常说，我们要把党的意志变成人民的意志吗？怎样把党的意志变成人民的意志？就是由党提议，人民代表大会讨论通过。通过了再照办，就合法；没通过就办是先斩后奏，叫违法。我想肖仲华作为文科博士，肯定知道‌‌“党‌‌”和‌‌“政府‌‌”是没有权力，也没有资格出台什么‌‌“拆围墙‌‌”的规定的，网友批评几句发什么脾气？</p>
+<p>如有再有人说，狗屁人大，我们的‌‌“人大‌‌”是人大吗？那我也没办法了。呜呼，你懂的。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%B2%81%E5%B1%B1%E8%80%81%E6%B3%89%EF%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">海外华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E8%A8%80/?category=18271" rel="tag">禁言</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/" target="cdt-mirror">自由亚洲 | 网信办责令网站关闭任志强微博 决不允许“换马甲”</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%883.39.01.png?resize=550%2C323" alt="Screen Shot 2016-02-28 at 下午3.39.01" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01.png?resize=300%2C176 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01.png?w=661 661w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>网信办责令网站关闭任志强微博,决不允许“换马甲”,也就是任何人的网站被关闭后，不允许再用其它网络名字再重新登记。分析人士指出，目前，中国的网络信息自由流通进入了前所未有的寒冬。</p>
+<p>《南华早报》报道，外号“任大炮”的内地知名地产商、社交媒体“大V”任志强，其新浪、腾讯等微博账号，被国家网信办责令有关网站关闭。目前，新浪微博和腾讯微博上，已经无法搜寻到“任志强”的账号。</p>
+<p>2月26日，国家网信办发文说，针对少数网络名人无视社会责任，滥用自身影响力，在网上多次发布反对宪法所确定的基本原则、损害国家荣誉和利益以及造谣传谣、扰乱社会秩序等违法违规信息的行为，依法关闭@演员孙海英、@大鹏看天下等网络大V账号。</p>
+<p>本台记者接通了上海网络违法信息举报电话，了解有关情况，</p>
+<p>记者：你们这个热线电话的目的是什么？</p>
+<p>值班人员：就是让民众举报赌博、色情和攻击党政领导，散布谣言的网站。</p>
+<p>10天前，中共总书记习近平先后到访人民日报社、新华社和中央电视台，提出党和政府主办的媒体必须姓党。</p>
+<p>对此，任志强发了两条微博，一条质疑“人民政府啥时候改党政府了？花的是党费吗？”另一条质疑“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p>
+<p>北京的维权人人士胡佳对本台记者说，互联网本来可以给中国民众带来更多地公民社会的自由言论空间，</p>
+<p>“但是回顾1990年以来，中国互联网的突飞猛进过程，中国政府的网络控制也愈演愈烈。习近平上台后，他对言论自由的监控远远超过江泽民和胡锦涛。”</p>
+<p>报道说，国家网信办发言人姜军2月28日就当天责令有关网站关闭任志强微博账号发表谈话，指有网民举报，任志强微博账号持续公开发布违法信息，影响恶劣。</p>
+<p>姜军表示，国家网信办决不允许已被关闭账号的用户以“换马甲”等方式改头换面再次注册。</p>
+<p>胡佳对此表示，任志强网站被关闭的同时，一些网络大V账号也被取消，例如影视演员孙海英，</p>
+<p>“我们这些人的帐号早已经被取消多次，很多人已经放弃在微博开网站，比如像艾未未和我。现在连体制内的孙海英这样的人也成为网络控制的打击目标，体制外的公共知识分子会遭到何种严厉的打击，可想而知。 ”</p>
+<p>胡佳指出，目前中国的互联网信息流通正在遭受各种严密的控制，</p>
+<p>“网络的控制让人感到不寒而栗，习近平的这些做法无非要人们的捂着耳朵，蒙上眼睛，堵住大家的嘴巴。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">依法上网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%85%B3%E9%97%AD%E5%BD%B0%E6%98%BE%E6%B3%95%E6%B2%BB%E4%B9%8B%E5%A8%81/" target="cdt-mirror">【异闻观止】任志强微博账号被关闭彰显法治之威</a>
+</h2>
+<p><p>来源：新华网    作者：马若虎</p>
+<p><span>　2月28日，国家互联网信息办公室责令新浪、腾讯等网站依法依规关闭任志强微博账号。</span></p>
+<p><span>　　连日来，“大炮”任志强发布的微博被网民举报含有违法信息，其不负责任的言论，受到大量网民强烈抨击。网信办责令关闭任志强的微博账号有着充分的法律法规依据，受到网民普遍支持。</span></p>
+<p><span>　　法律不容挑衅。正如国家网信办发言人表示的，网络空间不是法外之地，任何人不得利用网络传播违法信息。《全国人民代表大会常务委员会关于维护互联网安全的决定》指出，对于“利用互联网造谣、诽谤或者发表、传播其他有害信息，煽动颠覆国家政权、推翻社会主义制度，或者煽动分裂国家、破坏国家统一”的行为，构成犯罪的，依照刑法有关规定追究刑事责任；根据《国务院关于授权国家互联网信息办公室负责互联网信息内容管理工作的通知》，国家互联网信息办公室负责全国互联网信息内容管理工作，并负责监督管理执法。</span></p>
+<p><span>　　底线不容突破。早在2013年举行的“网络名人社会责任论坛”上，参会者一致认为，网络名人应承担更多的社会责任，传播正能量，并且达成共识，共守“七条底线”，包括坚守法律法规底线、坚守社会主义制度底线、坚守国家利益底线、坚守公民合法权益底线、坚守社会公共秩序底线、坚守道德风尚底线、坚守信息真实性底线。任志强持续公开发布违法信息，违反了底线。</span></p>
+<p><span>　　推进网络空间法治化，“其要义是发挥法治对引领和规范网络行为的主导性作用，重点是按照科学立法要求加强互联网领域的立法，关键是严格执法，基础是按照全民守法要求，引导网民尊法守法，做‘中国好网民’”。“依法上网”的要求，应该在网络大V、社会名人身上得到更严格的体现。</span></p>
+<p><span>　　相信驶入法治化轨道，中国互联网的治理和发展将迈上更高台阶！</span></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%85%B3%E9%97%AD%E5%BD%B0%E6%98%BE%E6%B3%95%E6%B2%BB%E4%B9%8B%E5%A8%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%BB%E7%90%86/?category=18271" rel="tag">互联网治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">依法上网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E9%BD%90%E6%84%8F%E8%AF%86/?category=18271" rel="tag">看齐意识</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BC%A0%E5%AA%92%E5%86%85%E5%8F%82%EF%BD%9C%E7%BD%91%E5%89%A7%E5%B0%86%E5%AE%9E%E8%A1%8C%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B%E7%BB%9F%E4%B8%80%E5%AE%A1%E6%A0%B8%E6%A0%87%E5%87%86-%E5%85%88%E6%B3%A8/" target="cdt-mirror">传媒内参｜网剧将实行线上线下统一审核标准</a>
 </h2>
 <p><p><em>原标题：网剧将实行线上线下统一审核标准 先注意哪些电视剧被广电总局表扬、批评？ </em></p>
@@ -552,85 +637,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%8C%81%E7%BB%AD%E9%87%8D%E6%8B%B3%E6%89%93%E5%87%BB%E7%BD%91%E4%B8%8A%E8%BF%9D%E6%B3%95%E8%BF%9D/" target="cdt-mirror">中国网信网 | 国家网信办持续重拳打击网上违法违规行为</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/c524d2db4d203e99e930_size98_w917_h525.jpg?resize=604%2C345" alt="孙海英微博被清空" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/c524d2db4d203e99e930_size98_w917_h525.jpg?resize=300%2C171 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/c524d2db4d203e99e930_size98_w917_h525.jpg?w=604 604w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1"></p>
-<p>今年春节以来，国家网信办持续重拳出击，依法查处网上违法违规行为，集中清理淫秽色情、虚假欺诈、有偿“代挂号”等违法违规信息，会同工信等部门依法关闭、处置违法违规网站百余家，并将相关重要案件线索及时移送司法机关，要求有关网站依法处置涉群众日常生活、交通出行、食品安全、公共政策等谣言2000余条。有关网站对580余个违法违规公众账号和一批误导公众、影响恶劣的网络名人账号予以关闭、暂停更新。<br>
-依法关闭、处置的违法违规网站中，“北京预约挂号网”“上海就医挂号网”“上海安帮跑腿服务网”等网站违法开展有偿“代挂号”服务；“520小说网”等网站肆意诽谤侵害他人名誉；“通天塔”“丸子163”等网站违法违规提供搜索服务，严重损害公共利益，污染网络环境。</p>
-<p>依法关闭、暂停更新的公众账号中，“中国政治经济新闻”“政治秘闻” “失乐园三世”等微信账号多次发布虚假时政类信息，编造、杜撰耸人听闻谣言；“网红无码”“够味小视频”“奇葩震惊视频”“风流少妇”等微博、微信账号大肆兜售淫秽视频，传播低俗信息；“中国曰报”“最高法院”“武警黄金部队”“核潜艇部队”等账号假冒媒体、党政机关、军队名义发布虚假信息；“三义雷”“正智阳光”等账号宣扬邪教和封建迷信；“上海出售匿名银i行卡”“北I京出售银I行I卡”等账号非法买卖银行卡，严重扰乱金融市场秩序；“菲律宾新太阳城”“六合合彩翻本”等账号违法传播赌博信息；“锦州发票开锦州发票”等账号发布代开发票等违法信息。</p>
-<p><strong>针对少数网络名人无视社会责任，滥用自身影响力，在网上多次发布反对宪法所确定的基本原则、损害国家荣誉和利益以及造谣传谣、扰乱社会秩序等违法违规信息的行为，有关网站依法关闭@罗亚蒙、@演员孙海英、@王亚军上海、@荣剑2001、@文山娃、@纪昀、@大鹏看天下等网络大V账号。</strong></p>
-<p>针对近期出现的网络谣言，国家和地方各级网信办及时要求有关网站予以处置，澄清事实，引导广大网民认清真相。包括“上海女孩逃离江西农村”“东北村庄农妇组团‘约炮’”“免费领上海迪士尼乐园门票加送2600元酒店住宿”“吃到这个你就死定了！别知道得太晚，赶紧收藏”“新交规3月1日实施”“2016年有8项交通违章不再受罚”“3岁女孩刚刚被拐！你的扩散，就是女孩找回的希望！”“千万别吃鱼了，可致癌致胎儿畸形！养殖户都不敢吃！”等。</p>
-<p>国家网信办有关业务局负责人表示，将继续加强对网上信息内容的监督管理执法，重点加大对网上淫秽色情、暴力恐怖、赌博欺诈、虚假广告等人民群众反映强烈的违法违规行为的查处力度，进一步畅通受理网上违法违规和不良信息举报投诉渠道。欢迎广大网民继续对网上违法和不良信息进行监督举报，共同促进网络空间更加清朗。中国互联网违法和不良信息举报中心网址：www.12377.cn，举报电话：12377，举报邮箱：jubao@12377.cn。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%8C%81%E7%BB%AD%E9%87%8D%E6%8B%B3%E6%89%93%E5%87%BB%E7%BD%91%E4%B8%8A%E8%BF%9D%E6%B3%95%E8%BF%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7v/?category=18271" rel="tag">大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违法违规</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/430157/" target="cdt-mirror">今日头条｜刘云枫：龙+耳=聋，皇帝的耳朵只是摆设</a>
-</h2>
-<p><p><img src="http://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg" alt="龙椅与明黄杯" width="440" height="303"><br><em>（网络图片）</em></p>
-<blockquote><p>龙耳是拒绝视听的——没有视听，何来信息；没有信息，何来知识；没有知识，何谈进步。绝对的权力，带来的是绝对的愚昧。绝对的愚昧带来的，只有绝对的贫穷和落后。</p></blockquote>
-<p><em>刘云枫｜文</em></p>
-<p>汉字当中，最有革命精神的，当属“聋”这个字。</p>
-<p>俗语说，聋子耳朵——摆设。聋子的耳朵只有形式上的意义，于听觉全无帮助。具体到“聋”，我们发现，聋=龙+耳，也就是，聋、什么也听不见，是因为长了一对龙耳。</p>
-<p>龙，是一种莫须有的动物，但是，因为它具有不可抗拒的暴力，令人胆战心惊而不得不下跪从命，所以，深受专权者的喜爱；龙，最终成了皇家和皇帝的专用商标，其他人，不可滥用，否则，乃犯上作乱，是要掉脑袋的。</p>
-<p>龙是不存在的，仅仅是一种传说；皇帝，可是无处无时不在的，“国不可一日无主”。</p>
-<p>换句话说，聋明言龙之耳朵，暗指皇帝的耳朵，其实是摆设。龙，皇帝也；龙耳，非皇帝莫属。</p>
-<p>仓颉老儿，居然对“伟大光荣正确”的皇帝老爷进行人身攻击，用心不良，胆大包天，是可忍孰不可忍？</p>
-<p>可是，聋这个字，居然在帝制的眼皮底下，平安无事地活了2000多年。连“文字狱”盛行的康熙雍正乾隆祖孙三代，也没看出来。</p>
-<p>可见，聋之所言，是实——皇帝的耳朵，只是摆设；皇帝像一只澳洲大驼鸟一样，整天猫在紫禁城里，对“外面的世界很精彩”，一无所知。或者说，皇帝是最早、最深的“宅男”，当下的宅男，应以皇帝为榜样。</p>
-<p>有比较，才有鉴别——看看英国女王，就知道中国皇帝是不是聋子的耳朵了。</p>
-<p>伊丽莎白一世（1533年——1603年）生活的时代，相当于中国的明朝晚期。她在位期间，英国分别打败了法国和西班牙，奠定了世界历史的英国时代。</p>
-<p>但我想说的，不是她的武功，而是她对自然之声的倾听。她的宫廷御医威廉•吉尔伯特，既是一位医学博士，也是同时代最伟大的物理学家之一。一个女王，对戏剧、歌舞、服饰和音乐有兴趣，并不奇怪。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27d00031a0c9317efac.jpg" rel="attachment wp-att-430159"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27d00031a0c9317efac.jpg?resize=364%2C305" alt="27d00031a0c9317efac" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27d00031a0c9317efac.jpg?resize=300%2C251 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27d00031a0c9317efac.jpg?w=364 364w" sizes="(max-width: 364px) 100vw, 364px" data-recalc-dims="1"></a></p>
-<p>与众不同的是，伊丽莎白对科学有非常浓厚的兴趣。在女王的宫殿里，她经常召集大臣，请威廉•吉尔伯特演示像魔术一样神奇的电磁学实验。</p>
-<p>吉尔伯特在王宫作了一系列科学实验，最有名的是“小地球”实验。他用一块天然磁石，磨成一个大磁石球，然后，把小铁丝制成的小磁针放在“小地球”上面，结果发现，小磁针和指南针在地球上的行为十分相似。</p>
-<p>于是，他提出一个假设：地球是一个巨大的磁石，它的两极位于地理北极和南极附近。伊丽莎白女王是这些实验活动的赞助者，对其中蕴含的科学道理，我想，她达不到精通，至少，是理解的。</p>
-<p>200年之后，当英国人带着他们的科学发现和工业成果，前往中国“朝贡”的时候，十全老人乾隆皇帝，既不知道英国人是从哪儿来的，也不知道他们是来干什么的，却自以为是，给英国国王乔治三世降旨：</p>
-<p>“奉天承运皇帝敕谕英吉利国王知悉，咨尔国王远在重洋，倾心向化，特遣使恭赍表章，航海来廷，叩祝万寿，并备进方物，用将忱悃。朕披阅表文，词意肫恳，具见国王恭顺之诚，深为嘉许。”</p>
-<p>白话文是——</p>
-<p>“朕赞赏你虽远在重洋，却倾心归顺天朝、受天朝教化，特派使者恭敬上表，并准备了礼物渡海前来叩祝朕万寿，这些已经表达了你们的忠心。朕翻阅了表文，真挚恳切，足见国王恭顺之诚意，朕深为嘉许。”</p>
-<p>乾隆的谕旨，还有很长，恕不照抄了。即便如此，也足以证明乾隆老了，耳朵聋了，不光是聋了，还是一个彻头彻尾的瞎子。</p>
-<p>200年前，伊丽莎白女王“立足英国放眼地球”；200年后，乾隆爷下旨展现大清皇帝对英国国王和国民的皇恩浩荡。这种不可理喻的行径，除去聋子瞎子和傻子之外，谁能做得出来呢？</p>
-<p>特别是，在皇帝中间，乾隆绝对是“好学生”。在2000多年的帝制中，能排在乾隆前面的，实在没几个。因为，满族入关，以少御多，和坐在火山口上差不多。如果当权者没有紧迫感，没有“好好学习天天向上”的精神，早就崩盘了。所以，清朝的皇帝，由顺治康熙雍正直到乾隆，都是兢兢业业，只争朝夕的。</p>
-<p>可就是这么一个“品学兼优”的好皇帝，在与西方蛮夷的对抗中，却全面落败；留给历史的，只有一声叹息。</p>
-<p>原因在于，龙耳是拒绝视听的——没有视听，何来信息；没有信息，何来知识；没有知识，何谈进步。绝对的权力，带来的是绝对的愚昧。绝对的愚昧带来的，只有绝对的贫穷和落后。</p>
-<p>中国社会的停滞不前，一字可见，“聋”也。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27a000d2668d881f433.jpg" rel="attachment wp-att-430158"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27a000d2668d881f433.jpg?resize=500%2C254" alt="27a000d2668d881f433" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27a000d2668d881f433.jpg?resize=300%2C152 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/27a000d2668d881f433.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/430157/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E6%9D%8E%E5%9B%B4%E5%89%BF%E5%A4%AA%E5%AD%90%E5%85%9A%E5%9C%9F%E5%9B%B4%E5%AD%90-%E5%BC%95%E5%8F%91%E5%BE%81%E6%88%98/" target="cdt-mirror">世界日报｜习李围剿太子党土围子 引发征战</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-25-at-10.46.42-PM.png?resize=260%2C376" alt="Screen Shot 2016-02-25 at 10.46.42 PM" data-recalc-dims="1">中共总书记习近平 19 日赴人民日报、央视和新华社三大官媒调研，指示党和政府主办的官媒“必须姓党”。之后，知名大Ｖ任志强发微博称，“人民政府啥时候改党政府了？花的是党费吗？”接着《千龙网》、《紫光阁》杂志和《中国青年网》纷纷发文和微博炮轰任志强的“反党言论”，称他是“资本翻天派”，“哗众取宠，用心险恶”，“妄图通过资本控制政权”，质问是“谁给了任志强反党的底气”，拉开一场意识形态讨伐的征战。</p>
-<p>近日官媒发文抨击任志强反党</p>
-<p>有任大炮美誉的任志强，是大陆微博的领军人物，拥有 3700 多万粉丝，长期以大胆敢言著称。去年 9 月，针对中共共青团中央重提“要做共产主义接班人”的口号，他在微博撰文说，“自己被这句口号骗了十几年”，遭到左派网民疯狂围攻。</p>
-<p>一直以来，外界对任志强为何能不断敢与中央对抗，百思不得其解。除了任志强自称与王岐山有忘年之交外，外界了解的任大炮是华远公司前老总，具太子党身分。文革前，王岐山曾是任志强所在班级的辅导员，王与任都下乡延安；文革后，任志强等一批红二代与王岐山私交不错。任志强年逾花甲，执掌中等规模的一家房地产公司多年，是从基层打拼上来。圈内人评价他智商不低，情商也不差，肯定不是“二百五”，不会冒天下之大不韪而“犯上作乱”。</p>
-<p>此次，任大炮敢于出面“挑刺儿”，显然是有用意，有背景。而其用意何在，耐人寻味。北京“海内”人士透露，新春伊始，习近平委托中纪委、组织部，召集近300名金融和经济界太子党进行训诫，要进一步剿灭各色土围子。这是习近平上台后，李克强逐步加大对太子党土围子“挤压、围剿力度”的继续。据称，这触痛掌有大量资本资源的太子党人。他们通过任大炮表达强烈不满情绪。任志强作为华远公司前老总，也算是“经济土围子”的小寨主。</p>
-<p>众所周知，习近平反腐最不得“官心”。他推行“司法改革”，夺取基层县与地市级独断专行权；李克强剿灭“僵尸企业”，针对大型国企下手，均触及太子党及官僚阶层利益，势必遭到反弹与抵制。而习近平搞“不准妄议中央”、中国特色的“依法治国”、口号式的“消灭贫困”和辣手打压异议的反对派等，也遭到朝野上下右派或自由派批评。</p>
-<p>习近平不断集权，先以反腐清除异己，然后通过军改消除军变后门，牢控军权，近日再调研三大喉舌、举办新闻舆论工作座谈会控制媒体，陆续完成“收权、收枪、收嘴”的专权过程。习快速集权，政治上左倾，对“桀骜不驯”的右派和资本阶层挤压，造成习李中央与财阀太子党对立，加大体制内的左右之争、意识形态之争和阵营之争（土围子与中央的对立）。</p>
-<p>太子党是个左中右的混合体，既有挺习近平的人，如陶铸之女陶斯亮、胡乔木女儿胡木英等；也有像薄熙来这样瞧不上习近平的牛人，更有金融界给习近平添乱和“上眼药”的中信证券的红二代们。太子党中有富豪、有穷官僚、有知识精英，有左中右，左派占有正统制高点，右派掌有资本，各自都对体制和新政有影响。但左派对新政的威胁和掣肘力，较右派小，所以红二代中的资本派对习李体制及其集权的威胁最大，相互间的争斗也更激烈和危险，甚至可能使习近平权力倾覆。</p>
-<p>习李中央来自左右的对手，都不甘落后和清净。近期大陆股市崩溃，香港发生旺角冲突，春晚“带有政治目的”的节目安排，“阳颂阴损”习近平的“献媚诗”等，被一些分析看成对习近平的“故意挖坑抹黑”。据传习近平女儿习明泽的微博帐户“奉命归国”发文称：“身边人不了解领导心思，而经常误读其本意是非常可怕的事。如果是胡作非为，故意挖坑抹黑的话，其后果注定自己挖坑活埋自己。”</p>
-<p>作为红二代和新老利益集团代表人物，任志强反叛声音能常在，说明太子党“土围子”们还坚固，人际关系在高层还很起作用。中共领导层的行为也极大地受到权力层内部人际关系或土围子的框限。</p>
-<p>另外，习近平这次“收嘴”，从官媒对任志强的强硬批判用语看，有可能是中央清算党内自由派的前兆，对象甚至包括任志强们。对习来说，不管哪一派，只要对集权和新政设置障碍，必会设法祛除。习近平在铁腕下，也可能继续给昔日哥们儿留些情面，甚或装聋作哑。因为官媒和网上指责任志强的左派，也并非真心维护习近平的权威，更多是煽风点火、阳奉阴违的人。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E6%9D%8E%E5%9B%B4%E5%89%BF%E5%A4%AA%E5%AD%90%E5%85%9A%E5%9C%9F%E5%9B%B4%E5%AD%90-%E5%BC%95%E5%8F%91%E5%BE%81%E6%88%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -642,7 +648,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -652,5 +658,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

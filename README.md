@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,126 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/430375/" target="cdt-mirror">【立此存照】”如果是犯罪就抓人啊！封微博是啥意思？“</a>
+</h2>
+<p><blockquote><p>新闻背景：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/">自由亚洲 | 网信办责令网站关闭任志强微博 决不允许“换马甲”</a></p></blockquote>
+<p>日前，习近平提出“党和政府主办的媒体必须姓党”这一理论，拥有3000多万微博粉丝的知名地产商任志强发了两条微博公开质疑：</p>
+<blockquote><p>“人民政府啥时候改党政府了？花的是党费吗？”还称“这个不能随便改！”“别用纳税人的钱去办不为纳税人提供服务的事。”</p>
+<p>“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p></blockquote>
+<p>此后，新华网、央视网、千龙网等几大官媒对任志强掀起了轮番批判，称其“反党”、“诋毁党”。<a href="http://news.xinhuanet.com/comments/2016-02/27/c_1118177914.htm">央视网题为《任志强的抛物线还有多长？》</a>的文章措辞更是颇有文革遗风：“任志强比谁都清楚，想要回头是不可能了，唯有孤注一掷走到党的对立面，才可能引起国外反华政治团体的关注，以期延长自己被清算的时间。”</p>
+<p>2月28日，任志强微博被封号。国家网信办发言人姜军发表谈话称，据网民举报，任志强微博账号持续公开发布违法信息，影响恶劣，网信办已责令新浪、腾讯等网站依法依规关闭任志强微博账号。</p>
+<p>任志强微博被关闭后，微博搜索出现了熟悉的提示：“根据相关法律法规和政策，’任志强’搜索结果未予显示”。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%883.39.01-1.png?resize=550%2C323" alt="Screen Shot 2016-02-28 at 下午3.39.01" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01-1.png?resize=300%2C176 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01-1.png?w=661 661w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>涉及任志强的新闻大多被关闭、隐藏评论：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.03.54.png?resize=550%2C380" alt="Screen Shot 2016-02-28 at 下午4.03.54" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.03.54.png?resize=300%2C207 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.03.54.png?w=692 692w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.04.25.png?resize=550%2C301" alt="Screen Shot 2016-02-28 at 下午4.04.25" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.04.11.png?resize=550%2C262" alt="Screen Shot 2016-02-28 at 下午4.04.11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.04.11.png?resize=300%2C143 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.04.11.png?w=685 685w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>此外，曾因“共产主义接班人”一役与任志强结怨的<a href="http://weibo.com/3937348351/DjMfXvZwY?type=comment#_rnd1456707361547">@共青团中央</a>还发了一组暴走漫画来讽刺任，网民<a href="http://weibo.com/n/LeMcDull?from=feed&loc=at" target="_blank">@LeMcDull</a>感慨：没想到有生之年能看到这么荒诞的一幕，也算见证历史……</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.53.38.png?resize=474%2C677" alt="Screen Shot 2016-02-28 at 下午4.53.38" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.53.38.png?resize=210%2C300 210w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.53.38.png?w=474 474w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.59.07.png?resize=550%2C460" alt="Screen Shot 2016-02-28 at 下午4.59.07" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.59.07.png?resize=300%2C251 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.59.07.png?w=592 592w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">【立此存照】任志强：“我们是共产主义接班人？”</a></p></blockquote>
+<p>截至本文发稿时，微博上大部分有关“任志强”的内容都已关闭或隐藏评论。少数尚未关评论的旧文下面，一些网民翻出任志强近年反对政府调控房价等言论，表示任也是靠权力寻租发家致富的，并未替老百姓发声。然而更多网民还是表示，政府此番下令关闭任志强微博无疑是心虚的表现，对当下的言论边界深感失望。</p>
+<p>就在任志强微博被封号的前一天，新华网发布消息称国家网信办正“依法查处网上违法违规行为”，集中关停“无视社会责任，滥用自身影响力”在网上多次发布“违法违规”信息的大V账号，包括：知名演员<a href="http://weibo.com/sorry?usernotexists&code=10008">＠演员孙海英</a>，企业家<a href="http://weibo.com/sorry?usernotexists&code=10008">＠荣剑2001</a>，记者<a href="http://s.weibo.com/user/%E6%96%87%E5%B1%B1%E5%A8%83&Refer=at">＠文山娃</a>，自媒体<a href="http://weibo.com/sorry?userblock&is_viewer&code=20003">＠大鹏看天下</a>等。</p>
+<p>————————————————————————————————————————</p>
+<p><strong>以下为中国数字时代编辑搜集自新浪网友评论：</strong></p>
+<p><a href="http://weibo.com/2716357192" target="_blank">FIRSTSEASON</a>：回复<a href="http://weibo.com/n/lzscript?from=feed&loc=at" target="_blank">@lzscript</a>:一个权力寻租的倒爷给自己贴个斗士的条子就不是经济犯罪的嫌疑犯了？真好，律师费可以省一堆。</p>
+<p><a href="http://weibo.com/2445627443" target="_blank">兰坤xt</a>：靠体制发家，不把所得反馈百姓，反而和李开复等反华分子唱衰中国，完全不顾百姓利益，应该开除党籍，全面清查违法所得</p>
+<p><a href="http://weibo.com/u/3818854016">蘑菇笑得开花了</a>：好怕怕……现在这风潮，好像某个过去那时代，诋毁党，站在对立面……呵呵哒这用词……非要把不自由搞得如此淋漓尽致……</p>
+<p><a href="http://weibo.com/lestandby">Lestandby</a>：违反什么国法了？家法吧</p>
+<p><a href="http://weibo.com/u/3103165951">蒋小鹏tommy</a>：红色恐怖了吗</p>
+<p><a href="http://weibo.com/genwa" target="_blank">面朝东方看日升</a>：当他们来抓犹太人时，我保持沉默，因为我不是犹太人； 当他们来抓贸易工会主义者时，我保持沉默，因为我不是贸易工会主义者； 当他们来抓天主教徒时，我保持沉默，因为我是新教徒； 当他们来抓我时，已无人替我说话了。   ——波士顿犹太人大屠杀纪念碑铭文</p>
+<p><a href="http://weibo.com/2289860035" target="_blank">黑魔法白鲸鱼</a>：一点批评都不敢看到，这是做了啥心虚的事情大家都知道</p>
+<p><a href="http://weibo.com/1825061404" target="_blank">weierjie</a>：东厂，西厂，横空出世</p>
+<p><a href="http://weibo.com/5082324776" target="_blank">liuoiuty6huvtgo</a>：如果是犯罪就抓人啊！封微博是啥意思？</p>
+<p><a href="http://weibo.com/3198654437" target="_blank">两剪梅0624</a>：泱泱大国，居然容不得别人几句话，谏言，这说明我们的政府现在已经非常狭隘了，非常不自信了，不是什么好事情！</p>
+<p><a href="http://weibo.com/2697965241" target="_blank">星骑第一焦点</a>：当我死的那天，我会告诉给我的后人，我这辈子也没看到真正的言论自由了，希望我死后你能能拥有这样的本事，让中国能有真正的言论自由。</p>
+<p><a href="http://weibo.com/3059592802" target="_blank">朱景亮Oliver</a><i title="微博达人"></i>：一个国家禁止人民说不好的，言乱不自由，跟当年秦始皇有什么区别？反观其他国家，任其反对派怎么说，真理还是在人心</p>
+<p><a href="http://weibo.com/2616703052" target="_blank">山海槿</a>：堵住人家嘴巴，不许人家说话，然后一窝蜂进行批斗。哈哈哈，这一招真厉害！够狠！</p>
+<p><a href="http://weibo.com/2670875802" target="_blank">死去都是骷髅</a>：我只是想问关于关于任志强下面的评论为何好多点不开</p>
+<p><a href="http://weibo.com/zhangxiaohannb" target="_blank">南宫靖明-飞面传教士</a>：这次关微博你会怀疑是否有侵权，过不了多久你就该怀疑自己是否有权睁眼了。</p>
+<p><a href="http://weibo.com/2946755691" target="_blank">龙wilkins</a>：翻了翻微博，关键字任志强的就这里能评论了。 我说某dang能不用这么卑鄙的手段吗？</p>
+<p><a href="http://weibo.com/1841854221" target="_blank">遗梦_江南</a>：现面向全国招募第二次文化大革命红卫兵，有意向者请点赞。</p>
+<p><a href="http://weibo.com/1695748317" target="_blank">紫色有情怀</a>：任志强的微博封了 为何有关关闭任志强的报道不让评论？怕什么你们？说了个实话 你们就这样？历史会记录这一切的 这样的国家 有希望？</p>
+<p><a title="南洋富商饱醉豚" href="http://weibo.com/u/5762986526?refer_flag=1005055013_">@南洋富商饱醉豚</a>：你们把任志强凌迟处死也跟我没关系，那是你们党内的事儿，关我鸟事。只是你们宣布任志强违法言论，这太鸡巴可笑了，是否违法得法院审判，这是常识。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/430375/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">依法上网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7/?category=18271" rel="tag">立此存照</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E4%B8%AD%E5%85%B1%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E5%8F%8D%E4%BA%BA%E7%B1%BB%E5%8F%8D/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗中共的本质就是反人类反文明</a>
+</h2>
+<p><p>1.【盼着蒋经国，却来了个金正恩】</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005yczpRgw1f1f8w3i1pgj30ku112tc7.jpg?resize=549%2C976" alt="005yczpRgw1f1f8w3i1pgj30ku112tc7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005yczpRgw1f1f8w3i1pgj30ku112tc7.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005yczpRgw1f1f8w3i1pgj30ku112tc7.jpg?w=690 690w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>今天在网上看到腾讯视频的《要嫁就嫁习大大这样的人》这首歌，还没看到一半就恶心得要吐了。兲朝治下产流氓，作者也是够下三滥，一边喊着大大，一边喊着要嫁，真是太重口了。要是党国哪天能允许在网络上自由传播《要娶就娶彭麻麻这样的人》，网络上会是个啥样子…有网友说：一开始大家都以为盼来了个蒋经国，后来发现他是个金正恩…对此,俺无可辩驳…</p>
+<p>2.【中共的本质就是反人类反文明】</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b1156273jw1f1fcfq4w9tj20k00zktde.jpg?resize=550%2C978" alt="b1156273jw1f1fcfq4w9tj20k00zktde" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b1156273jw1f1fcfq4w9tj20k00zktde.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b1156273jw1f1fcfq4w9tj20k00zktde.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>国家网信办发言人姜军发表谈话称，网络空间不是法外之地，责令新浪腾讯等网站删除任志强帐号，并且“决不允许已被关闭账号的用户以换马甲等方式改头换面再次注册”。——禁止转世，剥夺网络权利终身！记得两年前微博（代码WB）在美国纳斯达克上市，阿里巴巴、富国银行等为大股东。WB公司的英文介绍大意：微博，实时公开自我表达，为社会互动提供强大的平台…微博已经成为中国的文化现象。微博可以让人们公开听取和接触到丰富的思想、文化…让世界变得更美好。//@宦卿世界:新文革是文革遗老遗少切网络建水军在互联网叫骂威胁，两高集立法司法审判于一身打开文革之门，抓诺奖和平奖得主律师记者，以公权建网络特务焚书坑儒，物理定位扑灭新思想新文化。旧文革砸烂公检法无法无天，新文革利用司法机关打开灾难之门。新老文革皆为国家法人犯罪，共性是反人类反文明。//张雪忠：对国家网信办关闭任志强先生微博的做法，我谨以个人名义予以强烈谴责。如果只是由中共对任先生施加党纪处分，我不会发表任何意见。但由政府机构封杀任先生的个人言论平台，就像封杀其他人的言论平台一样，都是对言论自由的粗暴压制，是侵犯公民基本权利的严重恶行。</p>
+<p>3.【人家是“看上去很美”，你党是“丑得没法看”】</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1eweifuz6j30je0jigo5.jpg?resize=690%2C694" alt="005vnhZYjw1f1eweifuz6j30je0jigo5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1eweifuz6j30je0jigo5.jpg?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1eweifuz6j30je0jigo5.jpg?w=690 690w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1ewehz8tyj30d30g1t9v.jpg?resize=471%2C577" alt="005vnhZYjw1f1ewehz8tyj30d30g1t9v" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1ewehz8tyj30d30g1t9v.jpg?resize=245%2C300 245w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1ewehz8tyj30d30g1t9v.jpg?w=471 471w" sizes="(max-width: 471px) 100vw, 471px" data-recalc-dims="1"></p>
+<p>求是网：“皇帝的新装”是对所谓西方“新闻自由”不错的形容。文章列举了苏联解体的例子称，舆论导向错误，就会动摇人心、瓦解斗志，危害党和人民事业。近些年来，受西方各类错误思潮侵蚀加之一些异见分子、“公知”大V们的叫嚣，西方所谓的“新闻自由”受到越来越多人的追捧。——关了几个所谓大v就能平息群众不满？公开支持党媒，设立网络防护墙就能阻止人们通过其他途径了解外面的世界？有些人把耳朵捂住，就以为听不到打雷声了，殊不知被雷劈死哪天，没人会给你收尸。感觉你党是拿任志强来检验党媒姓不姓党，不紧跟的位子不保，接下来可能会是全国党媒大合唱批臭任大炮，可要呱噪一阵子呢。</p>
+<p>4.【慌的，应该是他们】</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/48ec77e5gw1f1fbiyysagj20a70dwgm2.jpg?resize=367%2C500" alt="48ec77e5gw1f1fbiyysagj20a70dwgm2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/48ec77e5gw1f1fbiyysagj20a70dwgm2.jpg?resize=220%2C300 220w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/48ec77e5gw1f1fbiyysagj20a70dwgm2.jpg?w=367 367w" sizes="(max-width: 367px) 100vw, 367px" data-recalc-dims="1"></p>
+<p>每看到这张照片，我都为早死的萧红和流亡的张爱玲感到庆幸。新文革风雨欲来风满楼，瞧这全国媒体都姓党的架势，批斗批臭是免不了的了，建议大炮还是尽早选条明路退出中共吧。。//@河小西：批沈从文的时候，胡风认为自己是正确的；批胡风的时候，丁玲觉得自己是正确的；批丁玲的时候，周扬认为自己是正确的；批周扬的时候，姚文元认为自己是正确的。所以，对团派这些文痞，我一点也不生气，因为任志强倒了，慌的，应该是他们。</p>
+<p>5.【梁书记你要hold住】</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/59183920gw1f1fhds7rfvj20gn0cn75r.jpg?resize=540%2C410" alt="59183920gw1f1fhds7rfvj20gn0cn75r" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/59183920gw1f1fhds7rfvj20gn0cn75r.jpg?resize=300%2C228 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/59183920gw1f1fhds7rfvj20gn0cn75r.jpg?w=599 599w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
+<p>@月光博客：Facebook近日推出新功能，除了原有的赞外，其余五种选项包括心（love）、哈（haha）、哇（wow）、呜（sad）、怒（angry）。梁振英的面簿却遭香港网民“怒灌”。他前天在面簿上载一则“香港雇主联合会2016春茗”的贴文，吸引了10万7000多人表态，而其中10万4000多人选择了“怒”。——梁书记千万要hold住，你的党妈马上派1200万“中国好网民”来帮你点赞。。大家估计微博不敢推除赞以外的表情吧……要不某些微博要么太难看，要么就必须要关评论关表情，那样未免太讽刺。。</p>
+<p>6.【新华社是不专业还是故意隐瞒灾情？】</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6204ece1gw1f1eu4uomelj20c80963zj.jpg?resize=440%2C330" alt="6204ece1gw1f1eu4uomelj20c80963zj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6204ece1gw1f1eu4uomelj20c80963zj.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6204ece1gw1f1eu4uomelj20c80963zj.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>新华社消息：２６日１４时１８分，萍乡市安源区新学前巷２７号一栋６层房屋的四、五、六层发生部分坍塌。经过34小时的努力，事故搜救任务已于28日凌晨1时全部完成，共搜救出14人，其中6死1伤，7人无恙。萍乡市委宣传部介绍，初步分析，事故原因为此栋房屋405室业主装修时不当施工引发连续坍塌，具体细节正在进一步核实。——这个新闻的问题在于：倒掉的四五六三层总共住了多少人？倒塌时有多少人在楼里面？这个数据应该不难统计吧？为啥只说了救出来的死人和活人共14人呢？其他人连提都不提呢？新华社做新闻不知道是不专业还是故意隐瞒？</p>
+<p>7.【广电总局批《北上广不相信眼泪》：不能宣传被删减内容】</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/624c6377gw1f1ffu41urnj20fa0a674p.jpg?resize=550%2C366" alt="624c6377gw1f1ffu41urnj20fa0a674p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/624c6377gw1f1ffu41urnj20fa0a674p.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/624c6377gw1f1ffu41urnj20fa0a674p.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>@每日经济新闻：总局电视剧司李京盛表示，电视剧绝对不能宣传被删减的内容，“《北上广不相信眼泪》这个剧本身没什么问题，但是播出前，将全剧本来为数不多亲吻镜头、情色内容集中播放，造成观众觉得这个剧就是导向有问题的错觉。——兲朝的电视很快就会变成像北朝鲜的一样。//@杜君立：美国人费了几十年时间，才将电视变成电脑，中国人只用了几年，就把电脑变回电视。</p>
+<p>8.【埃塞俄比亚驻华大使：除了中国，我们还能跟谁学呢？】</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e04755gw1f1f1hysrr8j208d09f3ze.jpg?resize=301%2C339" alt="61e04755gw1f1f1hysrr8j208d09f3ze" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e04755gw1f1f1hysrr8j208d09f3ze.jpg?resize=266%2C300 266w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e04755gw1f1f1hysrr8j208d09f3ze.jpg?w=301 301w" sizes="(max-width: 301px) 100vw, 301px" data-recalc-dims="1"></p>
+<p>“中国用30年让6亿人脱贫，足以证明这一模式的成功。除了中国，我们还能跟谁学呢？”梅斯芬强调，期待与中国加强在产能领域的合作；这种合作是双赢的，一方面拉动埃塞增长，增加就业，另一方面转移中国的过剩产能。——6亿贫困人口……这货简直就是高级黑啊。是因为只有中国愿意白白撒币送钱给你们吧？</p>
+<p>9.【恶制之下，怎有安卵？】</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6680432djw1f1fg5h1nluj20go0i20ts.jpg?resize=541%2C586" alt="6680432djw1f1fg5h1nluj20go0i20ts" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6680432djw1f1fg5h1nluj20go0i20ts.jpg?resize=277%2C300 277w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6680432djw1f1fg5h1nluj20go0i20ts.jpg?w=600 600w" sizes="(max-width: 541px) 100vw, 541px" data-recalc-dims="1"></p>
+<p>26日晚21时30分许，北京昌平区人民法院回龙观法庭38岁法官马彩云夫妇在住所楼下遭到两名歹徒枪击，丈夫受轻伤，马彩云经抢救无效死亡。两名歹徒逃跑后均自杀身亡，其中一人系该法官审理的一起离婚后财产纠纷案原告。——//@記録者陳寳成：说句不合时宜的话，不吐不快：一个法官被害，我看到许多律师站出来发言哀悼并谴责暴力。以前一群律师被官方围剿，我看到有的法官伴着五毛落井下石。葛永喜律师：法官当以法为本，护法以利其民。但在非法治国家，其本质是官，为专制掌刀把。昨戮其民，今害其身，因果而已。我不痛一人殒殁于非命，一业未兴即凋，然痛国之弊大，而民知却自甘沉沦！</p>
+<p>10.【谁来为这些被浪费的钱负责？】</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b270f231gw1f1fhfzmk98j20cs08nwf9.jpg?resize=460%2C311" alt="b270f231gw1f1fhfzmk98j20cs08nwf9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b270f231gw1f1fhfzmk98j20cs08nwf9.jpg?resize=300%2C203 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b270f231gw1f1fhfzmk98j20cs08nwf9.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"></p>
+<p>@慕容清扬：围墙未拆牌楼先折了。位于北京长安街复兴内大街18号国家开发银行总部大楼的大牌坊拆除一事，引起沸沸扬扬。为什么拆？国开行今天释称，是根据中央第五巡视组反馈意见及长安街沿线景观、照明等统一要求进行整改。当初建时为何能通过规划？这一建一拆要费多少钱？相关领导是否应该为此埋单？</p>
+<p>11.【成都大妈退休炒股1年挣20万 买了奔驰和别墅】</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e7df1fjw1f1fec7j9v1j20a007it9b.jpg?resize=360%2C270" alt="61e7df1fjw1f1fec7j9v1j20a007it9b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e7df1fjw1f1fec7j9v1j20a007it9b.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e7df1fjw1f1fec7j9v1j20a007it9b.jpg?w=360 360w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1"></p>
+<p>华西都市报消息：周林芳(化名)曾经是四川某高校的老师，1993年以前还从未接触过金融。当初，女儿以为她只是玩玩而已，没想到她却赚到了比工作几十年工资还要多的钱。周林芳1993年开始炒股，用股市上赚来的钱为家人买了奔驰和别墅……——哇啊啊，“她不懂股市却买什么涨什么”？华尔街分析师及各路券商分析师哭晕在厕所……</p>
+<p>12.【上海两女孩蹲着等地铁，网友拍照上传称“不文明”引发热议】</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1escrzeh8j30go0kmmyr.jpg?resize=544%2C673" alt="005vnhZYjw1f1escrzeh8j30go0kmmyr" data-recalc-dims="1"></p>
+<p>近日 ，有网友在微博发图，称在上海地铁站台上，有两个女孩蹲着等地铁“不懂得教养”。这条微博被不少“大V”号转发后，在网上引发了热议。与去年11月发生在北京地铁的年轻妈妈哺乳事件一样，正反两方在网上激烈争辩。——@没有羊先生：女孩不能蹲着。任志强被封杀。嫁人就要嫁习大大。奥斯卡/金像奖直播被掐。网络剧被下架。学习《党委会的工作方法》。——微博终于到了每个热门话题都如此药丸的地步。啊，当代生活。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E4%B8%AD%E5%85%B1%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E5%8F%8D%E4%BA%BA%E7%B1%BB%E5%8F%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E9%9D%99%E5%80%99%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%9B%9E%E5%88%B0%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E7%9A%84%E9%98%9F%E4%BC%8D%E4%B8%AD%E6%9D%A5/" target="cdt-mirror">王药师：静候任志强回到人民群众的队伍中来</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-3.jpg?resize=215%2C171" alt="640" data-recalc-dims="1">中央有关拆除小区围墙的“意见”才发布没几天，就有细心的群众发现，国家开发银行已开始着手拆除其总行主楼前竖立的九龙牌坊。正当人们准备为国开行带头执行中央命令点赞时，路边社传来消息，指其之所以这么做，是因为受到了中央巡视组的批评，认为竖立九龙牌坊严重违反了政治规矩。的确，我也觉得国开行此举非常放肆，要知道九龙是最高权力的象征，区区国开行你也配用九龙？放在过去，这是要砍头的大罪，现在仅仅让你们拆除，实在是皇恩浩荡，赶紧地叩头谢恩吧！</p>
+<p>同样“放肆”的还有任志强。针对这老兄屡屡妄议中央，甚至质疑“媒体姓党”的最高指示，却还自称是“优秀共产党员”，气急败坏狗急跳墙的五毛人士最近纷纷贴出了自己的“大字报”，左一句“8000多万党员的耻辱”，右一声“反动的资本翻天派”，全然是一副要将任志强生吞活剥的架势。看着他们“立场坚定斗志强”的冲天干劲，不少人开始猜测，任大炮这不回恐怕真的够呛，说不定会被开除党籍、踢回群众。而最新传来的关于其微博账号已被全网封杀的消息，更进一步加剧了这种传言。</p>
+<p>作为群众，说实话对于那些因为贪污受贿、违法犯罪、内部斗争失败而被开除党籍踢回群众队伍的家伙，我们是非常不欢迎的。特别是其中的“优秀共产党员”，按照最近社交媒体上流行的“关于党性与人民性的数学证明”结果，基本上都是些有党性没人性，人性泯灭党性猖狂，“狗不如的人间渣滓”。这样的货色留在党组织里面，或许还能算是名实相符，踢到人民群众的队伍里来那就十二万分的不合适了，势必会破坏群众队伍的纯洁性。用我们楼下低保户钱孙李的话说，凭什么党员一犯错误就踢回到我们群众中来，你当群众是坏分子的回收站啊？</p>
+<p>话虽如此，但凡事总有个特例，比如对任大炮这位“优秀共产党员”，如果哪一天党妈不疼国爹不爱，真的被开除党籍清理出队伍，退回到人民群众中来，至少我个人是会鼓掌表示热烈欢迎的。这倒不是因为我活学活用了“四个伟大”有关“敌人的敌人就是朋友”的战略思想，而是在我看来，任志强多少还是一个对人民群众有用的人，本着唯才是举的原则、宽大为怀的精神，我们还是应该欢迎他、接纳他，让他戴罪立功，为人民服务。</p>
+<p>或许有人要问了，任志强这么一个过了气、失了宠、退了休，成天遭五毛追杀的丧家犬，除了会放几响口炮外，还能有什么用？用处可大了！首先，任志强深谙中国经济，虽然嘴巴臭了点，话损了些，但其对房价走势的预测，显然比百分之九十九的经济学砖家准确得多。面对一贬再贬的人民币汇率、一降再降的GDP增速，群众确实需要一位看得准、说得对的理财顾问，以防被有关部门的相关负责人当猴耍，落得个人财两空家破人亡；当然更重要的还是任志强的高层背景，它有助于群众及时了解中央信息、掌握高层动态，以便适时采取各种应对措施，免得再像当年那样傻乎乎地落入人家的阳谋，沦为一场游戏一场中国梦的牺牲品。</p>
+<p>事实上，不止任志强，对于像贺卫方、茅于轼、孙海英等共产党员，我们也是欢迎他们回到群众队伍中来的。这不仅仅是由于大伙需要贺卫方教授这样的法律人来帮忙伸张正义，对孙海英先生的影视作品喜闻乐见，而是因为人民群众历来求才若渴，懂得礼贤下士，只要你有一技之长，能够为人民服务，我们都敞开怀抱表示欢迎，即便你曾经失足入过党做过党员，人民群众也会不计前嫌既往不咎。</p>
+<p>不像某些组织，脆弱的好像长了颗玻璃心，动不动就把自己的同志打入另册，说这个反动，指那个是叛徒，结果搞得自己成为孤家寡人，内失民心外无援手，还成天在那里自吹“我们的朋友遍天下”，除了能过过嘴瘾，自欺欺人一把，并没有什么卵用。留在这样的组织里，而且还能评上“先进”“优秀”，共产党员不愧是用特殊材料制成的，佩服啊佩服。只是，就凭任大炮这副老胳膊老腿，经受得起这样的考验吗？</p>
+<p>说了这么多，诚意表现得够充分了吧。那好，现在就只剩下一个问题：任志强先生，你到底回不回人民群众的队伍中来，啥时候回来，能否给了准信？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E9%9D%99%E5%80%99%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%9B%9E%E5%88%B0%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E7%9A%84%E9%98%9F%E4%BC%8D%E4%B8%AD%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%B2%81%E5%B1%B1%E8%80%81%E6%B3%89%EF%BC%9A/" target="cdt-mirror">鲁山老泉：每一次大的灾难来临，都是从禁言开始</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%883.47.47.png?resize=490%2C326" alt="Screen Shot 2016-02-28 at 下午3.47.47" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.47.47.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.47.47.png?w=490 490w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"><br><span>（图片来自网络）</span></p>
@@ -538,105 +655,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/430201/" target="cdt-mirror">端传媒 | 白信：从Nashi到小粉红：中国青年运动的俄罗斯化</a>
-</h2>
-<p><p>作者：白信，政治学博士，社会运动研究者</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-26-at-%E4%B8%8A%E5%8D%8810.55.04.png?resize=552%2C370" alt="Screen Shot 2016-02-26 at 上午10.55.04" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-26-at-上午10.55.04.png?resize=300%2C201 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-26-at-上午10.55.04.png?w=552 552w" sizes="(max-width: 552px) 100vw, 552px" data-recalc-dims="1"><br><span>2007年12月03日，莫斯科，青年组织Nashi (Ours)举行集会，庆祝总统普京带领的统一俄罗斯党胜出选举。摄：MAXIM MARMUR / AFP</span></p>
-<p>当“帝吧出征、寸草不留”的口号终于沉寂下来，围绕这一波“小粉红”运动的争论也渐渐平息。只是，检视其中，绝大多数的评论和分析仍然停留在网络文化的层次，很多翻墙派甚至对小粉红们“翻墙去战斗”的精神还抱有好感，颇为乡愿地以为他们或她们只是一群乌合之众、只要翻墙就终究会因为接触开放讯息而改变。</p>
-<p>如果人们对上一波小粉红——文革时代的红卫兵也抱此想，那么他们在面对今日政权的红卫兵领导集体时，大概会羞愧而死。上一代的红卫兵们，虽然大多沦为被人遗忘的一代，可是其中的精英今日重登最高权力。他们也好国际交游，好读世界名著，但是今天仍重提“共产主义信仰”、重新毛化个人权威；这不能不让人警醒，探究这个曾经风靡20世纪的青年运动，是如何在今天死灰复燃。</p>
-<p><strong>习近平全面以俄为师</strong></p>
-<p>如果回顾习近平政权三年来的各项动作，今天，大概很少再有人怀疑笔者早于2012年就已经提出的观察和预言：习近平在效法普京（台湾称：普丁）模式，建立一个超级的个人强权。过去三年，一方面，他已发动针对官僚集团的空前规模的反腐运动、建立国安委统一情报和安全力量、启动军改树立对军队的绝对控制、开展互联网清网行动和文化复古运动、在社会治理创新名义下打击独立NGO，并通过强调政治规矩、进行集体学习、鼓励地方官员个人效忠、确立新核心的方式发动了一场颠覆政治局集体领导的柔性政变。</p>
-<blockquote><p>这七大内部的战略性动作，分别涉及党、政、军、情、社、网、文七大领域，力度空前，已经令海内外为之瞠目，新近许多个案无论是香港书商李波被绑架、还是股市被粗暴干预、地方官员意外身亡频发等，不过是其副产品而已。</p></blockquote>
-<p>值得注意的，其中至少有五项战略，都可从俄罗斯普京的执政模式中发现相似之处。越来越多的迹象表明，以俄为师，向俄罗斯学习普京模式的个人专断，和「国家－资本」的寡头控制模式，是中国高层的一个新共识。這也是习近平上台前，就以苏联崩溃模式为反面教材、以苏共倒台为其树立危机执政合法性的自然结果。</p>
-<p>事实上，另一方面，过去三年，习近平与普京的个人接触和交流，创下了中国领导人与外国领导人碰面的记录。尽管这种频密的私人化交往，在此前的任何中国领导人当中都几乎不可想像（除了毛），但习在未取得最高权力之前的2012年，即已以轻松方式与拜登进行了私人会面，打破了中共政治高层一贯的“政治规矩”。而当普京与习并肩出现在“9.3”阅兵的天安门城楼上、接受中国军队的效忠声浪，或者与俄罗斯在乌克兰危机、叙利亚问题、互联网主权等等国际议题采取密切合作的时候，大概更少人怀疑中俄同盟的大跃进，已经相当程度上超越了江泽民时代向俄罗斯军工业输血的合作模式，愈趋新冷战的战略结盟关系。</p>
-<p>而其中，习正在向普京学习如何占领，作为新冷战核心阵地的互联网－意识形态。不仅包括他如何开展清网行动，打击互联网舆论领袖，更从他上任伊始有意绕开陈腐的宣传机构、以高度私人化的新媒体形式发布庆丰包子铺、乘坐出租车等事微服私访，可看出几乎与普京早前利用新媒体进行个人形象宣传如出一辙。</p>
-<p>“小粉红军团”的培养和利用，也可从普京模式中寻得先例。</p>
-<p>官方支持的青年运动也在学习利用新媒体、尤其是新媒体社会运动的方式重新动员和集结。这需要追溯到普京任内如何利用和煽动青年运动，创建纳什运动，更可因此追溯整个20世纪的青少年运动史，而这些似乎已经从中国公众和知识分子的记忆中淡出许久了，连红卫兵一代的历史都变得讳莫如深。</p>
-<p><strong>俄罗斯的Nashi运动：小粉红的前世</strong></p>
-<p>在19世纪蓬勃上升的工业革命时代，洋溢着浓浓的浪漫主义，如歌德的《少年维特之烦恼》、《彼得.潘》。斯坦利.霍尔在19世纪最后二十年的研究，则第一次给出了社会学意义上青春期的概念。</p>
-<p>此后，青少年的反叛、越轨开始被认识，并随青少年运动的兴起、随现代政治运动的兴起而逐渐走上自发与被动员并存的发展，如起源于英国的童子军运动，青少年开始被纳入军国主义的框架。</p>
-<p>在共产主义和极权主义的兴起过程中，青少年运动和组织尤其是其重点，如建立于1920-30年代的纳粹少年团、苏联的列宁主义共青团全盟，又称科索莫(Komsomol)。它们被定义为“党机器的传送带”，最大限度地动员了青少年志愿参与者，在维护极权主义统治和为战争输送后背军方面做出了令人深刻的印象，也是中国今天共青团组织的原型。</p>
-<blockquote><p>而当这些官方青年组织和运动在战后的和平时代陷入官僚化，却可能因为害怕政权的颠覆而重新以运动的方式动员起来，苏联共青团就曾经经历过一次类似的转型，甚至可视作中国文革时期“红卫兵”运动的先驱。</p></blockquote>
-<p>那是苏共二十大报告之后，几乎与当时西欧开始出现的第一波反对父辈纳粹主义的学生运动同步，苏联出现了一股自发的青年反叛运动Stiliagi。他们多是莫斯科、列宁格勒等大城市中的苏共干部精英子女，即所谓“阿尔巴特街的儿女们”，穿着驻欧苏军带回来的西欧时髦服装，传唱欧美战后开始流行的摇滚歌曲以及各种自由主义地下书籍，被1958年已有近2000万成员的共青团视作可能颠覆苏联政权的内部挑战。</p>
-<p>当时的共青团书记谢尔平将他们描绘成“发型像泰山，穿着像鹦鹉”，以一种“非苏联”的生活方式挑战当时宣传，定调的以前线英雄为模范的所谓男性主义气质，为当时的苏联青年提供了一种共青团之外的“另类先锋”，而这些少数叛逆“红二代”的挑战性不在于他们人数众多，而在于当时的“意识形态不知如何应对”，而可能成为“潜在的抵抗源头”。随即，共青团被动员起来，组成行动“旅”，派上街镇压Stiliagi，如伊朗后来的青年民兵Basij或风化警察一般，拦住可疑分子剪裤子、衣服、剃头、训诫。不过，仅在1955-66年间，共青团就有约50万人被送往远东的“处女地”、参加“社会主义建设”，无形中继续助长了Stiliagi的自由文化，直到1970年代。</p>
-<p>Nashi运动的形成也与之类似。苏共和共青团解散后，俄罗斯的青年组织主要是各政党组建的外围组织，如Yabloko，一开始主要服务于为竞选拉票、造势。普京1999年上台后，2000年也组建了一支青年组织，为保住普京的支持率服务，由普京身边的年轻助手瓦西里.雅各门科(Yakemenko)创立，名为“一起走”(Idushchie Vmeste)。</p>
-<p>这支组织建立之处，就带有强烈的道德化色彩，旨在填补所谓“共青团之后的文化和道德真空”，几乎就是苏联时期共青团的翻版，如它的“道德法典”，就几乎原封不动搬用了苏共1961年颁布的“建设共产主义道德法典”。它的倡导核心是所谓爱国主义、高尚道德、政治成熟和高水平的文化意识等，以及反毒品、反酒精和反 脏话，简直就是一场由青年运动发起的新道德运动。</p>
-<p>而这场新道德运动的指向，在各种表面的价值观倡导背后，却是为了树立普京个人的卡里斯玛，特别是对普京的男性气质和国父形象的塑造，如穿戴印有普京头像的T恤、卡通化传播普京头像等。“一起走”的女青年姐妹组织“一起唱”在2002年抛出了一首“嫁人就嫁普京”的流行歌曲，此歌连同“普大大”的称呼成功地风靡一时，连清华大学人文社科学院几年前的新年联欢上都有人大唱其歌。</p>
-<p>“一起走”还发起了多次全国性行动，如清扫城市行动、书籍交换行动，也有公开焚书，烧毁那些“不够爱国”的书籍，以社会运动的手法塑造着“普京青年”的集体拥戴气氛，每个成员在加入时都必须书写“总统－俄罗斯的希望”或者“总统的青年”之类誓词，尽管普京个人仍然小心地避免与“希特勒青年”或者个人崇拜挂钩，却绝不吝惜对昔日共青团的颂词。除了共产主义或爱国主义，他还给这个新的青年组织加上了“爱情和友谊”的追求。毕竟，这已经是一个完全向他个人效忠的青年团体，人称“普京青年团”，需要更多生活化的、浪漫主义的凝聚纽带。</p>
-<p>只是，当2004年乌克兰“颜色革命”爆发，小清新风格的“一起走”似乎变得不合时宜了。对普京个人崇拜的反感以及对普京处理别斯兰事件的不满也催生了一些前“一起走”成员走上了反对道路，他们完全依赖互联网建立起了一个“没有普京的俄罗斯”运动，从2004年初开始各种要求普京“回家去”的街头行为艺术，并在2005年底举行了一场普京执政以来规模最大的反普京示威。颜色革命的威胁让克里姆林宫迅速做出了一个战略性调整，普京的长期智囊、意识形态总管、总统办公厅副主任、有“灰色沙皇”之称的苏尔科夫(Vladislav Surkov)亲自出马，解散了“一起走”，在2005年初创建了一个更为政治化、也更富有攻击性和意识形态色彩的Nashi运动。</p>
-<blockquote><p>Nashi，即英文Ours，全称是“我们的反法西斯民主青年运动”，也同时是一家俄罗斯联邦政府批准成立的机构，“一起走”书记雅各门科仍然担任其领导职务。</p></blockquote>
-<p>之后，还相继成立了作为普京的俄罗斯统一党的青年组织“青年近卫军”、反对移民的“地方”(Mestnye)、和东正教的一家青年组织格里高列(Grigorevtsy)等，Nashi是其中规模最大的，也最强调行动。</p>
-<p>一开始，它的主要任务是帮助2008年选举，通过动员年轻人，扭转俄的威权民主体制下的政治冷漠，牵制反对党和独立NGO，防止乌克兰橘色革命蔓延到俄罗斯。尤其当2012年普京签署法令禁止那些“政治性NGO”、宣布所有接受海外资金的NGO都必须登记为外国代理人之后，Nashi和类似组织便成为拥塞NGO领域的主体。这种主动出击式的拥塞行动，显示普京的威权政权在以社运化的方式转型，占领社会空间，利用社会运动样式的动员对社会运动进行反制。</p>
-<p>有别于“一起走”更偏重意识形态，普京的这支新生力量强调“行动的政治过程”，也是以多次社运般的街头行动和新媒体行动引起外界关注。他们通常会针对反对党政客的公开活动搞拥塞式破坏，或者对反普京的游行集会搞“反运动”游行，由此保证普京在议会的绝对支持。俄罗斯杜马曾经唯一的独立议员莱兹科夫(Ryzhkov)，在2007年间便深受其扰，被Nashi指责为CIA在俄发动橘色革命的代理人，经常被成群的Nashich成员举着美国旗帜抗议，私人住所也被干扰。只是，这些俄内部的活动并不常被注意，Nashi得到国际社会注意还因为它的极端民族主义行动。</p>
-<p>例如，2007年4、5月间，他们在爱沙尼亚驻莫斯科大使馆外举行示威，抗议爱沙尼亚政府迁走塔林的苏军战士铜像，指责爱沙尼亚在培养法西斯主义。斯大林战后在几乎每个占领国家都建立过这些铜像或纪念碑，从柏林到沈阳。类似针对外国驻俄大使馆的抗议，还包括2006年针对英国驻俄大使、2010年针对乌克兰使馆，算是Nashi的一个必备剧目，常被用来向这些国家施加间接的外交压力。且不仅于此，2009年3月29日Nashi在芬兰的成员甚至在赫尔辛基举行了示威，抗议当地出版的一本有关苏联占领爱沙尼亚的新书。</p>
-<p>互联网也是Nashi以海量行动拥塞反对声音的一个重要阵地。2007年俄罗斯针对爱沙尼亚的DDoS攻击，一般认为是赛博战争的一个重要转折点，据信就是Nashi组织的一次黑客行动。2011年10月7日，Nashi庆祝普京生日的消息占领了推特，拥塞了俄语的推特消息。而这些拼人头搞拥塞的手法，与Nashi的日常组织能力有关。</p>
-<p>Nashi是一个高度层级的组织，在俄各中型城市都有至少100人左右的成员，除了普京以资助本土NGO的名义直接给予的资金，地方分支主要从地方寡头那里获得。这些成员被称作纳什主义者，即“我们”，年龄多在18到27岁之间，经常举行集体婚礼，以怀孕生育为荣，也是攻击俄境内同性恋团体的主力；每年夏天都会组织规模在一万人左右的大型夏令营，并受到普京的接见。</p>
-<p>他们努力避免让人联想到希特勒青年，然而，一个山寨版的Nashi组织和运动已经在中国诞生，他们的名字叫“小粉红”。</p>
-<p><strong>共青团的社运化？小粉红的诞生</strong></p>
-<p>2016年初台湾选举日前后，虽然大陆媒体一片冷淡，诞生中国“小粉红”在脸书和推特上发起的攻势，却引起了国际社会的关注。他们的形成，同样来自习近平上任后与普京相似的权力趣味、以及共青团的改造。中国大陆有关俄罗斯、东欧研究和青少年研究的学术期刊，近年来充斥着俄罗斯模式的论文，以俄为师蔚然风潮。</p>
-<p>理解这一点，同样需要从普京模式出发，观察习近平为实现近中期政治目标需要从新路径塑造其个人魅力和效忠、以及共青团本身的社运化改造两方面入手。前者如上所述，基于确立超级总统制的个人集权而进行静悄悄的柔性政变，需借助互联网和官僚外的力量，为其体制内削弱官僚集团权力而打造外部民粹主义支持。习不得不上任伊始只能从身边入手，从掌握互联网的亲信、从建立“学习小组”开始打造个人崇拜气氛，然后才是千金买周小平和花千芳，逐渐展开“清网行动”。</p>
-<p>后者，从时间线来考察，共青团的转型，应可追溯自胡温政府的最后几年。即，在2008年这一标志胡温任内“维稳”政策正式全面铺开的转折时刻，共青团也因为动员年轻学生参加北京奥运会的志愿工作，而开始转型。在奥运会结束之后，奥运志愿模式在全国范围推行，作为团与地方工作的一个重要纽带，也是团的工作重新回归青年运动的一个契机。</p>
-<blockquote><p>而共青团或者中共青年工作转型的加速，也来自颜色革命的压力——2011年的茉莉花革命的威胁。胡锦涛在2011年2月19日中央党校发表了基调性演讲，提出社会管理创新，团的工作和创新被纳入其中。不过，胡锦涛虽然长期以来被视作团派的精神领袖，但除了任内最后几年大量空降团干到地方，并不便于亲自提出加强团的工作地位。</p></blockquote>
-<p>反倒是2013年习上台之后，李源潮作为团派的继任最高庇护人，迫于形势不得不向习近平输诚，通过共青团的社运化改造服务于习近平的集权化过程，建立一种新的策略联盟，以最大限度地在内部清洗中保存派系力量，包括维持曾为团派最高领导人胡锦涛的历史地位。</p>
-<p>而此前，2014年1月，团中央已经以十七届二中全会决议的方式，通过《全面深化改革进程中共青团工作五年发展纲要》，积极响应2013年习近平主持的，党的十八届三中全会关于深化改革的决议。共青团也是在这段时期，强调对新媒体“阵地”的全面占领，发微博数量和参与人数统计动辄百万、上亿，以此作为团的新工作重点和衡量依据。</p>
-<p>现任团中央第一书记秦宜智在大会上声称，已经“建设团属网站近4000家，其中，中国青年网已成为中央重点新闻网站和国内最大的青年主流网站，未来网已成为全国最大的未成年人专属网站；开通共青团中央微博，共青团系统微博认证总数超过12.8万个，数量居全国政务系统微博第一…….积极建设针对新媒体从业青年的工作机构。团中央扎实推进中国青少年新媒体协会筹建工作，部分省份团组织成立了新媒体工作中心，加强对新媒体引导青年工作的研究指导，加强对新媒体从业青年的联系和服务。”</p>
-<p>随后2015年中的“群团工作会议”，规格之高、力度之大也是近十几年来罕见的，足见习政权对青年和共青团工作的重视，将其提升到应对颜色革命、党国存亡、和树立领袖核心的战略高度，并通过所谓《中共中央关于加强和改进党的群团工作的意见》作为共青团转型指针。以培养新青年、占领新媒体阵地为主旨的“小粉红”运动至此可谓俨然成型。</p>
-<p>几乎同时，与普京 Nashi运动惊人的相似，2015年7月中国以相同的DDoS手法 拥塞式攻击了Telegram服务器，作为抓捕“709”人权律师群体的策应行动。这个背景下，那些由各级团委动员、占领百度贴吧和微博的“小粉红”群体，也是在这一背景下被微博网友识别并命名。</p>
-<p>虽然共青团拥有四千万成员，但是能够召集、并且具有行动能力的只有大学校园青年，他们是“小粉红”的主体，也是最体制化、最容易被学生运动样式所动员的，如1998-2001年间被组织参与反美示威所证明的。这次小粉红的脸书攻势，也具有鲜明的校园色彩，攻势只维持了约一周即告结束，因为各高校的寒假正式开始，小粉红们也无心恋战。</p>
-<p>只是，处在新媒体攻势和反腐压力下的团派，同样面临相当大的边缘化压力，共青团组织内部从上到下危机感严重，习－李（源潮）之间策略盟友的关系并不稳固，小粉红脸书攻势的前后即受到王岐山主导纪律部门“贵族化、娱乐化”的批评便是证明，亟需以激进手段表示效忠。</p>
-<p>2016年1月15至16日，李源潮再次主持召开了团的十七届五中全会，抛出了一份《共青团网络新媒体工作三年发展规划》，吹响了小粉红的集结号。16日这一天，也是台湾选举的投票日。中国版的Nashi运动终于在国家副主席的亲自指挥下，一场给国内最高领袖做政治效忠表演、检阅既有新媒体建设和团工作转型的大规模拥塞行动，便正式启动。</p>
-<p>虽然理论上，笔者在数年前率先提出了新媒体时代政党政治转向社运化的假说，无论奥巴马还是普京，都善于利用新媒体和社会运动样式进行动员，但是，当中国的威权主义政党亦步亦趋也开始这一转型时，其现实的迷惑性和复杂性很大程度上会遮蔽新的理论，忘记了独裁者善于学习的教条。</p>
-<p>以至于，面对“小粉红”现象，惊慌失措高呼狼来了有，盲目乐观静待其转变者有，更多的是嘲讽和失语。须知，嘲讽和谩骂绝不是战斗！右倾失败主义和盲目乐观主义也不足取。重要的，是从独裁者的经验路径中寻找答案和应对。</p>
-<p>习近平政权正以俄为师建立一个新的超级威权，俄罗斯的经验、模式和困境也正是我们今天可能从容了解、学习的。</p>
-<blockquote><p>从Nashi到小粉红，从最近几年俄罗斯Nashi运动的分裂、退缩，到更为保守的东正教青年团体、全俄父母大会、甚至“哥萨克”等都已冲上前台，他们更好斗、更富意识形态侵略性，我们不必对“小粉红”大惊小怪，能做的也许只是，期待下一波更为凶猛的变种。</p></blockquote>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/430201/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/nashi/?category=18271" rel="tag">Nashi</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2%E7%BF%BB%E5%A2%99%E4%BD%9C%E6%88%98/?category=18271" rel="tag">小粉红翻墙作战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%96%BB%E5%9B%BD%E6%98%8E%E8%BE%9E%E8%81%8C%E5%92%8C%E5%B0%8F%E5%8C%BA%E5%86%85%E9%83%A8%E9%81%93%E8%B7%AF%E5%85%AC%E5%85%B1%E5%8C%96/" target="cdt-mirror">【真理部】喻国明辞职和小区内部道路公共化</a>
-</h2>
-<p><p>集团各报刊，网站及“两微一端”：</p>
-<p>1，关于中国人民大学新闻学院副院长喻国明辞职一事，各媒体网站新媒体平台一律不报道，不评论。</p>
-<p>2，对“原则上不再建设封闭住宅小区，已建成的住宅小区和单位大院要逐步打开，实现内部道路公共化“，各媒体，网站，新媒体平台只报道权威部门发布的信息和权威部门推荐的专家言论，不擅自评论，不攻击、质疑，不组织有关民意调查活动。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%96%BB%E5%9B%BD%E6%98%8E%E8%BE%9E%E8%81%8C%E5%92%8C%E5%B0%8F%E5%8C%BA%E5%86%85%E9%83%A8%E9%81%93%E8%B7%AF%E5%85%AC%E5%85%B1%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%BB%E5%9B%BD%E6%98%8E/?category=18271" rel="tag">喻国明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E6%80%A1%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%BC%A0%E5%87%AF%E4%B8%80%E6%A1%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%A3%B0%E6%98%8E/" target="cdt-mirror">王怡：关于张凯一案的个人声明</a>
-</h2>
-<p><p><strong>因此，很显然，我应该是张凯的同案犯。我在此实名举报自己，也承诺愿意作为证人，接受温州市公安局的询问。</strong></p>
-<p>张凯律师是我主内的弟兄，也是我所敬重的朋友。</p>
-<p>多年来，很多人都真诚地在问一个假问题，即文革会不会重来？很多人也貌似严肃地思考一个荒诞的课题，即如何才能防止文革的悲剧重演？然而，新一轮的文革明明已经开始了数年之久。抑或数十年？真的现实是，我们何曾有一日走出过文革？真的问题是，我们如何才能脱离这个弯曲悖谬的世代？主啊，这个夜晚，愿我因张凯身上的鞭伤而哀嚎，又因你身上的鞭伤得医治。</p>
-<p>什么样的肉体与精神折磨，能摧毁一个信主男儿的意志。张凯弟兄所承受不住的，恐怕我连一半也无法承受。除了相信恩典，我们还能相信什么呢。基督教来华已经千年，归正的福音传入，也已两百余年。然而，在这个民族中，针对基督教信仰的文革从来没有结束过，义和团也从来没有解散过。主啊，你的仆人被压太重，求你兴起!</p>
-<p>在我所认识的信徒里，张凯是一个硬汉子。而这几年来，被逼着在电视上认罪的，在悔改书上画押的，有哪一个又不是硬汉子呢。罪恶世界的可怕，不就是领我们投奔主恩吗，谁能因他的刚强得救呢，但我要赞美神，因为我们这些软弱的人竟然得救了。</p>
-<p>作为一位牧师，特别令我忧伤的还有一点。事实上，面对强拆十字架的逼迫，张凯所做的大多数事，本应该由教会的领袖来做。他只要做律师的技术性工作就行。教牧领袖的缺席，使一个需要被牧养和关怀的职场信徒，站在了教会属灵争战的最前沿。就如当年穆斯林攻破君士坦丁堡，策马冲入教堂，扔出长枪，主教侧身一躲，刺死了身边一位领餐的信徒。</p>
-<p>主啊，求你责备教会，责备你的仆人吧，也求你既验中了张凯弟兄，就保守他的良心，浸泡在你的宝血里，就如你三次问彼得说，你爱我吗？吾主啊，求你在张凯心中，大声地问他三十遍，好叫他重新被你建立，好叫我们这些卑微的仆人羞愧。</p>
-<p>在揭露张凯律师的“大字报”中，提到他的一个罪状，是计划去见一位境外官员，披露温州拆十字架事件的情况。而这位境外官员，就是去年8月来华访问的美国宗教自由大使。而我也曾见过美国的宗教自由大使，也与“境外人士”讨论过中国的宗教自由问题。按这个逻辑，我应与张凯同罪。</p>
-<p>“大字报”上也提到张凯的另一个罪状，是他曾多次出席境外的会议，讨论家庭教会维权的策略。我也与他一同出席这些会议多次，并同样参与过这些讨论。</p>
-<p>并且，官方的“大字报”中，宣布张凯弟兄最主要的罪状，就是将政府对所谓教会“违规建筑”即十字架的强拆，说成是对教会的逼迫。</p>
-<p>这促使我，必须在此郑重声明：<strong>我与张凯律师的上述观点完全相同，我一直以来，并今天以后，都在一切公开和私下场合，坚持认为浙江当局两年以来对教会所谓“违规建筑”和十字架的强拆，视为对基督教会的公开的逼迫，和对信仰自由的可耻的践踏。</strong></p>
-<p>因此，很显然，我应该是张凯的同案犯。我在此实名举报自己，也承诺愿意作为证人，接受温州市公安局的询问。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/RibfdRxUxwuCkx613mkTPNFppX4m5ibNribxycxPYicKFu7nFcM1u4oH4b7uJTGjBxh7SFhnic4hGrgiarG9T9QgxjeA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt=""></p>
-<p>身份证号：510722197306018819.</p>
-<p>主后2016年2月26日</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E6%80%A1%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%BC%A0%E5%87%AF%E4%B8%80%E6%A1%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%A3%B0%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">基督徒信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%87%AF%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">张凯律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%80%A1/?category=18271" rel="tag">王怡</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -648,7 +666,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -658,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84%E4%B8%A4%E5%B2%81%E4%BA%86-%E8%BF%99%E4%BB%BD%E6%88%90%E7%BB%A9%E5%8D%95%E5%BE%88%E6%9C%89%E4%BB%BD%E9%87%8F/" target="cdt-mirror">【异闻观止】网信小组两岁了 这份成绩单很有份量</a>
@@ -107,7 +107,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">依法上网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7/?category=18271" rel="tag">立此存照</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E4%B8%AD%E5%85%B1%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E5%8F%8D%E4%BA%BA%E7%B1%BB%E5%8F%8D/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗中共的本质就是反人类反文明</a>
 </h2>
@@ -494,7 +494,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E5%B8%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%A2%86%E5%AF%BC%E5%9C%B0%E4%BD%8D/" target="cdt-mirror">博谈网｜中国经济放缓如何影响习近平的领导地位？</a>
 </h2>
@@ -699,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,71 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BC%81%E4%B8%9A%E9%A2%91%E5%87%BA%E7%83%82%E7%89%8C%E6%9C%80%E5%8F%AF%E8%83%BD%E5%8F%8D%E6%98%A0%E4%BA%86/" target="cdt-mirror">心理学问答｜唐映红：一个企业频出“烂牌”最可能反映了什么？</a>
+</h2>
+<p><p><strong>问：一个企业频出“烂牌”最可能反映了什么？</strong></p>
+<p>答：在生活中，<strong>一个企业，有时候在做决策时，会出现频频出“烂牌”的现象。</strong>例如，为了达成某项管理目标，不是选择高效低风险的管理措施，而是选择<strong>低效高风险</strong>的管理措施，如拆墙。或者，在<strong>毫无必要</strong>的情况下，多部门联合出台激怒员工的管理措施，如合葬。那么，如果一个企业频出“烂牌”可能反映了该企业怎样的管理问题？</p>
+<p>一般来说，对企业的理性决策者来说，<strong>优选的管理措施一定是高效低风险的</strong>，次优的管理措施至少高效或低风险，<strong>选择低效高风险是反理性的决策</strong>，正常情况下不应该出现此种现象。即使，偶尔企业的决策者选择低效高风险，在排除故意使坏的情况下，最可能的就是决策者对于决策情境相关讯息几乎无所知，或被虚假讯息所误导。<strong>如果短期内密集地频频出“烂牌”，总是选择低效高风险的管理措施，那么最可能的就是这个企业内部出现了深刻的危机。</strong></p>
+<p>其实，不仅企业，在任何组织里面，由于各层级决策者以及决策的辅助者都是由具体的人来组织成，所以<strong>在组织内部出现危机时，某个或每个环节的人都可能出于各种不足为外人道的动机而扭曲讯息传递，甚至可以误导高层决策者，使高层决策者在错误的讯息或刻意误导的情境下做出悖离优选的管理决策。</strong>要出现这种情况，通常意味着组织内部出现如下的一些问题：</p>
+<p>首先，高层，或者最高决策者，如CEO，<strong>个人能力或智力不足；但又高度自信；且独揽专权。</strong>这样的高层决策者才最可能在被屡屡误导的情况下频频使出“烂牌”。否则如果是一个聪明而专权的CEO，他既可以在被愚弄后及时反应过来；同时也会在被愚弄后吃一堑长一智，在之后会调整决策结构和讯息渠道，以避免重蹈覆辙。或者，一个笨蛋CEO，但却有起码自知，那么他就不大可能独揽专权，反而会仰赖聪明的幕僚来提供可靠的参谋意见，以避免蹈入困局。因此，<strong>一个蠢、自信、专权三者具备的CEO，在一个企业组织里面，最可能成为频频出“烂牌”而不自知的最高决策者。</strong></p>
+<p>其次，该最高决策者的部属或决策幕僚要对其<strong>心怀不满，敢怒而不敢言。</strong>如果没有<strong>较为深刻的愤怒</strong>，一个聪明的部属或幕僚不大可能让自己去无谓地触霉头。<strong>只有心怀不满，或者早就看不惯却又慑于其权威，才更可能冒险设局来误导上司。</strong></p>
+<p>再者，不仅那些部属或幕僚们心怀不满，而且还需要彼此之间<strong>形成“联盟”，共同来承担风险，共同来出谋划策。</strong>这样就没有谁是单独面对风险。而且部属或幕僚们在“联盟”中<strong>各司其职，分工合作，这样给高层决策者设局也就更难以穿帮。</strong></p>
+<p>满足上述三个基本要素，那么决策者就极易<strong>陷入</strong><strong>被人为误导的虚假决策情境而不自知。</strong>他以为自己在选择优选的管理措施，但实际上他选择的是被狸猫换太子后的多个烂选项中的一个。由于决策者与幕僚之间往往对具体决策情境形成<strong>信息不对称的博弈局面</strong>，决策者拥有权力，但不掌握充分的信息；掌握充分信息的幕僚，却往往没有权力，因此，<strong>拥有权力但缺乏信息的决策者就需要基于幕僚提供的有效信息来进行理性决策。</strong>如果上述三个要素具备，那么幕僚提供的完全可能是<strong>无效的虚假信息</strong>，例如<strong>夸大</strong>一些完全可以忽略的威胁因素；<strong>低估</strong>必须高度重视的致命因素；<strong>凭空捏造</strong>子虚乌有的限制条件；<strong>刻意隐瞒</strong>迫在眉睫的风险。再例如，在提供给决策者的三套方案中，A方案拆掉小区重新规划；B方案拆墙；C方案耗费巨资架设空中通道越过小区，<strong>自以为聪明的决策者当然会“理性”地选择最稳妥的B方案；而分工合作的“联盟”则会想方设法使B方案看起来很美。</strong></p>
+<p>既此，从外界观察者的角度，一个企业在匪夷所思的情况下，竟然频出“烂牌”。如是，<strong>握有这家企业股票的投资者，最好的决策就是抛了吧。</strong></p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BC%81%E4%B8%9A%E9%A2%91%E5%87%BA%E7%83%82%E7%89%8C%E6%9C%80%E5%8F%AF%E8%83%BD%E5%8F%8D%E6%98%A0%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E9%87%8D%E7%94%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E8%BF%99%E4%B8%80%E4%BC%9F%E5%A4%A7%E7%90%86%E5%BF%B5/" target="cdt-mirror">许章润：重申共和国这一伟大理念</a>
+</h2>
+<p><p>@FT中文网：【重申共和国这一伟大理念】清华大学法学院教授许章润：有感于文革会否卷土重来，疑虑复担忧，遂重申共和国这一伟大理念，重申中国是十几亿国民分享的公共家园。O重申共和国这一伟大理念</p>
+<p>@荣剑2001：这是核心观点，中国不是谁家的天下！//@陶景洲: 他提出五个问题，“第一，今天必须重申、再次重申：这个叫做“中国”的家国天下，是十几亿国民分享的公共家园，而非一党一派、一家一姓的私产，更非凭借强 力攫取、代代承续的所谓江山。打江山坐江山保江山，早已是不合时宜的王朝政治心理”。—许章润</p>
+<p>注意到在中文网上的本文已无法打开，不过其他网站有转发的尚在，现据wyatt2343</p>
+<p><strong>保存的文本转发如下：</strong></p>
+<p>文章来源：FT中文网</p>
+<p>重申共和国这一伟大理念</p>
+<p>文/许章润</p>
+<p>注：许章润是清华大学法学院教授、博士生导师，天则经济研究所理事。本文为作者2016年1月8日在天则经济研究所/中评网主办的2016“新年期许”论坛的演讲修订稿。</p>
+<p>过 去一年，一个最为严重的现象是，有关“文革”或者“文革式的社会政治状态”是否死灰复燃卷土重来这一疑虑，不知不觉，有迹无形，如雾霾袭来，慢慢沉重地压 在亿万人心头。如果说市民阶级依旧沉浸在反腐的“老炮儿”式复仇快感中，那么，政商学三界，尤其是知识界，春江水暖，对此趋势之忧虑愈深，忐忑不安，实为 二十多年来所未之有也。</p>
+<p>一 方面，我们看到机关发文，各项决议重申改革开放、民主法治。其声调之高，蔚为主旋律。另一方面，伴随着经济下滑，失业率上升，股灾连连，以及最高权力配置上的“相权衰落”，高度集权似乎再度变成 现实。“文革”式用语及其内涵的蕴意，所谓“东西南北中，党政军民学”一类套话，居然再度成为官媒堂皇大词，令人惊骇。换言之，党国一体、党政一体、军政 一体、经政一体乃至于君师一体的集权机制，在逐步推进民主法治的承诺远未兑现之际，反益强化，且借由强化国家治理能力之名，为前者张本，这便逸出了“改革 开放”的固有含义了。如果说由此开导出一个总统制的宪法惯例，并进而经由立宪程序坐实总统制，也未尝不可，但因民主尚未登场，而操作方式濡有新权威主义浓 墨重彩，遂不免令人浮想联翩，怕怕。大转折之际，可能，某种新权威主义是必需的，但其边际效应究竟如何，总是叫人七上八下。</p>
+<p>一 方面，宪法日、宪法宣誓等新制出台，强调《宪法》之不可侵犯这一官方宣喻言犹在耳。另一方面，意识形态的口子越收越紧，钳口日甚。我是个教书匠，用脑思 考，靠嘴吃饭，这一年多里，深感意识形态紧箍咒愈念愈紧，对师生的精神管束，尤其是对青年教师的收编，愈发严重，正在侵蚀三十年里好不容易辛勤作育、并可 能蓄势待发的中国文明的思想创发势头。毕竟，心灵促狭，难望心思浩瀚。</p>
+<p>“文革”是否重回人间？也许，五六年前，甚或两三年前，这不会成为一个问题，这样提问，大家都会摇头。但在重申进一步深化改革开放的今天，鬼使神差，这一问题却陡然降临，再一次严峻地摆在我们每个人面前。中国历经37年改革开放，国力大增，国民生计极大改善，社会空间拓展，倘若经此转折，无意中滑落至1936年的德国和完成工业化后“二战”前的苏联那种局面的话，则百年改革转型跌宕，情何以堪，命何以托！</p>
+<p>为此，今天需要重申共和国这一伟大理念，而提出下列五点，以为诫勉。</p>
+<p>第 一，今天必须重申、再次重申：这个叫做“中国”的家国天下，是十几亿国民分享的公共家园，而非一党一派、一家一姓的私产，更非凭借强力攫取、代代承续的所 谓江山。打江山坐江山保江山，早已是不合时宜的王朝政治心理。此前为立基于政制之政治，此刻为有违政制之反政治。故而，中国之为亿万国民所分享共有，意味 着排除了将国家当作权力的殖民地，而以征服者身份凌驾于国家之上，将人民当作掳赎的人质这一极权政治思路。增强国家治理能力，健全国家治理体系，这一伟大 的现代理念，不能无意中变成严防社会成长、打击商人阶层、限制思想自由这一商鞅式法家的刻薄寡恩。其为中国文化偏锋，置身诸强争霸时代，有利君主专权，一 时间，其兴也勃焉，其亡也忽焉，但绝非常态政治下的长治久安之策。令人遗憾的是，某种商鞅式理念似乎正在侵蚀历经百年方始积攒下来的共和理念，人民主权理 想迟迟未能落地制度化，正与其相表里。也就因此，包括后面将要叙及的反腐，才会予人以“王爷的归王爷，奴才的给奴才”的印象。</p>
+<p>在现代意义上，所谓政治，旨在建构主权、区分敌我、厘清公私、进行决断、提供和平，其间最为重要的一点就是，以共和国是全体国民分享的公共空间为基点，而以 立宪民主支撑，建构起一个全体国民政治上和平共处的大框架。因而，共和国之内，只有违法犯罪者，而无敌人，遂为题中应有之意，也是立宪民主政治的应有之 义。在国家政治意义上，将敌人常态化，而建构一个阿伦特所谓的“客观的敌人”，此种理路，说到底，还是一种极权政治心理，正与此背道而驰。</p>
+<p>第 二，国民的自由、安宁和富裕，优先于国家的强大与威势。国家建构和治理，图个什么，不是一将成名万骨枯式的光荣政治，也不是伟大君主的江山浩瀚，说到底， 是国民的自由、安宁与富裕。至于国家的强大与威势，乃顺水之舟，水到渠成，倒非国策悬鹄。我们当然明白，处此自助体世界，就中国这一初始条件而言，没有强 大国力，御敌防寇，国民的自由、安宁和财富难保。但是，另一方面，我们更知道，若无每一国民的自由、安宁和富裕，要它强大国力与光荣政治做什么。</p>
+<p>由此，必须指出的是，虽经37年改革开放，经济规模扩展，国力大增，但综合来看，中国依然是一个穷国，一个尚处大转型收束时段，还没最终走出转型的“历史三峡”的穷国，属于典型的“脆弱繁荣”，不可因为刚刚手上有些余钱，就透支国力。</p>
+<p>实际上，最近几年间，不知不觉，一防再防，中国事实上还是被拖入了一场军备竞赛。而且，整个东亚，均深陷此中。同时，自一年前反西方价值观开始，仿佛同时陷入了与西方的意识形态冷战。就前者而言，关乎善用37年 积攒的民脂民膏，防范严重透支国力，而非打造伟大君主的大国梦幻。一夫强，万夫弱，打断的是共和国的脊梁，绝对不是好事。看看俾斯麦的德意志和普京的俄罗 斯，一目了然。就后者言，其实主要源于西方偏见，是它们挑起来的，但要是被动接招，并开出了所谓反西方价值观这类误诊处方，而于敌我观念支配下导致内政主 导方向上的错位，则更加得不偿失。</p>
+<p>正是基此情势，过去一年经济下滑，特别是民营资本人人自危，不仅源自2008年以来整个国际金融形势下滑大势，同时反映了国内政治和意识形态导向致使大家心头困惑，信心指数下滑，以至于人心慌慌，市场惶惶。</p>
+<p>因此，需要重申政治的审慎德性，以及“审慎政治”这一为政常识常道，拒绝缔造伟大强国君主梦这一类政治罗曼蒂克，而将政治回归为一国之内，为了每个国民的自由、安宁、富裕和幸福这一庸常轨道上来，将“脆弱繁荣”修炼为“稳固繁荣”的常态。</p>
+<p>第 三，内政优于外交。有人说，当今世界，美国是一个“内政决定外交”的国家，俄罗斯则为“外交牵制内政”。相较而言，中国属于哪种形态呢？总体以思，中国的 大转型尚未完成，有待临门一脚，则“内政优于外交”，不言自明。终究而言，但凡一方水土，概为主权国家，则内政优先，自不待言。毕竟，刻下中国，有六千万 左右的残障国民，上亿尚未脱贫人口，两亿五千万农民工兄弟辗转城乡，还有成百数千万失学儿童留守儿童。就国之重器的高等学府来看，也没几所世界级的，多数 很烂。尤其是，在最终解决“中国问题”意义上，若以“发展经济社会，建构民族国家，提炼优良政体，重缔意义秩序”四大义项提纲挈领，则三、四两项仍然人在 途中。值此大背景下，举凡政道治道，一切措置，总须“攘外必先安内”，恒以内政为优，而内外恰予平衡。纵然外交，以及全球政治，也是为了造福内政，不离不 弃生民福祉与邦国安危。</p>
+<p>最 近两年，国民睹物思情，感觉似乎外交优于 内政。若果如是，则不免方向有误。此间可能牵涉到民族国家思维、帝国思维与全球体系思维的错综关系。一百多年来，吾国所要完成的一大转型，是将帝国思维转 换为民族国家思维。所谓民族国家思维，实际上讲的是以文明立国，以自由立国，在“文明立国—民族国家”与“自由立国—民主国家”的框架内，缔造一个富强、 民主与文明的现代中国，一个全球体系中的中华家国天下。在此进程之中，内政，还是内政，恒居优先地位。进入全球化时代，作为主权自助体的民族国家思维需要 上升为全球体系思维，此于中国这样的大国而言，尤其重要。但是，全球体系思维不是帝国思维。倘若读书有限，误将毛式罗曼蒂克普世主义当成了全球体系思维， 而其实是帝国思维，则得不偿失。以此观之，当下帝国思维弥漫中国。草根民粹，尤其是边缘落魄掉队群体，既有年长亦有年少，整天嚷嚷打这打那，“炮轰”“踏 平”，令人忧虑。</p>
+<p>也就因此，肯认内政优于外交，意味着海外援助，不管是非洲600亿还是哪里500亿， 但凡用钱，总得有个程序，好歹让掌控国库进出的一国最高权力机关面子上过得去，也让亿万交税纳粮的升斗小民心里好受点。换言之，在此领域启动人大的预算和 决算机制，乃至追责机制，便是题中应有之意。我们不是不知道，大国成长到一定体量，辗转腾挪之际，客观上需要大格局大思维大体系，需要拓展自家的战略纵 深。就此而言，“一带一路”，海陆并进，堪当大手笔。但是，持盈保泰，量力而行，总是王道。否则，帝国未至，而帝国负担先来，对于中国这一尚处大转型航程 之中的泱泱巨众国度而言，岂为福哉？</p>
+<p>第 四，反腐必须 导出制度遗产，始有意义。这一波反腐，霹雳手段，依恃权力政治和权势国家，做他人之不敢做，行前所未行。两三年里，全民狂欢。但是，目前看来，其不脱例行 之吏治整顿，杀一杀歪风，收拾收拾恶吏。因而，其收取合法性政治红利时段已过，不但说省部级高官，纵便揪出个常委级大蠹，大家也不再惊讶，更不可能于欢欣 鼓舞中颔首承领政治统治的合法性。就是说，以反腐标领政治统治合法性的效用不再，大家更希望看到在民主法治思路引领下，将防治腐败的制度建设提上议事日 程，导入常态化的法治机制。毕竟，这一波反腐，针对的是过往几十年积攒下来而遍于国中的权力腐败、全民腐败，而以非常人物依恃非常手段所推展之非常进程， 若无相应扎实制度遗产，时过境迁，必定人亡政息。不说别的，就说公车改革，钱已经花出去了，但变相公车私用的地方性创造，花样翻新，早已登场，即为一例。 因此，引导其成为常态之下，基于国家理性和公民理性的民主法治建设，不仅考验着统治体系的政治诚意，我相信，同样在鞭挞着治理体系的政治智慧。</p>
+<p>在此，事实证明行之有效的制度，为民主法治国家经久使用所证明的，该采用的就当采用，到时候了。例如，暂且不说为何不兑现激活《宪法》第35条 的言论自由与结社自由，发挥它们在信息披露和权力制衡中的效用以预防权力腐败，单从略小处来看，这么反，那么反，为何不启动官员财产阳光法案？一方面，征 收公民个人所得税雷厉风行，手机实名制关涉数亿国民，却也行之无碍，为何偏偏一到阳光法案就以这个那个，搪塞一阵算一阵。什么技术手段跟不上啦，全国联网 做不到啦，简直把亿万国民当白痴。若果真有诚意，欲构建政治统治的合法性，取信于民，全国做不到，那就从七个人做起呗。说白了，你家里有多少钱，动产不动 产，票据证劵，放在瑞银还是藏在地窖，晾晒出来吧，让亿万国民瞧瞧。敢，还是不敢；做，还是不做。这不是一个哈姆莱特式的追问，毋宁，是一个关于政治德性 的常识测验。恰恰在此，装聋作哑，支支吾吾，拿亿万国民的智商和情商开涮，使得一切关于政治合法性的宣谕瞬间等于零。——老王，你要是在任上建立起阳光法 案制度，你就名垂青史，否则，不过一能吏而已！</p>
+<p>说 到 底，置此情形下，如今的反腐，以及为了解决政令不出中南海而采行的重新集权进程，包括所成立的各种领导小组，以及巡视组措置，某种意义上，的确是一个去制 度化、解制度化进程，但也同时提供了重新制度化的契机。建设官员财产阳光制度，就是一个“抓手”，何乐而不为？今天发文件，明天发文件，这一年党政发文最 多，若无制度落实，也不过依旧是“一级一级往下念”，反过来，“乡糊县，县糊省，一直糊到国务院”，不了了之。换言之，不在民主法治这一常态、常规的现代 国家治理方向上用力，发再多的文件也没用。</p>
+<p>由 此，引出 一个连带话题，涉及现代立国的根本理念，就是反腐旨在建设一个“道德中国”和“清洁社会”，相信大家都不会反对。但是，问题在于，如果骎骎乎道德洁癖，并 用之于全民，包括食色性也的升斗小民，而实际效果是消灭了政治和权力结构之外的其他一切社会自我组织形式，一切私性领域的市民生活方式，则同样是一种商鞅 式理路，于良善人生和正派社会而言，适得其反。亿万国民，芸芸众生，七情六欲，总得要消费，要 happy，还要参与，无法 清 心寡欲，但也折腾不到哪里去。即便像无烟工业，又何必赶尽杀绝。两亿五千万青壮年农民工漂泊于大中城镇，讨生计，要活路，好歹给他们一个宣泄人性的机会 吧。否则，基于道德洁癖的清洁运动，陈义过高，冲击之下，既不切实际，结果反而可能造成普遍的道德伪善，最不堪而必然的是，豢养出更为高级的腐化形式。毕 竟，越是公众人物，越是大权在手之士，其之为人做事的道德水准应当越高，而一般小民，善恶参半，优点和毛病集于一身，在吃喝拉撒里打滚，沉湎于市民私性生 活，以珠三角的市民生计为典型，放他们一马得啦。</p>
+<p>第五，政治统治的正当性问题无法回避，也不是三言两语就能打发的。此为今日中国最为敏感话题，也是176年 近代大转型最后所要解决的问题。转型时段未完，政治统治正当性悬置，遂成一切内在紧张的源头。内政外交，敌我公私，焦点在此。此亦非他，就是权力的来源问 题。换言之，凭什么你来统治？为什么你掌权？过去一种讲法是，领导人民打江山，牺牲了两千万人头换来的。各位，这叫丛林法则，如前所述，例属前现代政治， 所以现在不讲了。据说，最新的讲法叫“人民的选择”、“历史的选择”。可问题在于，哪个人民？什么时候的人民？是当年我爷爷的选择吗？如果答案是肯定的， 那么，现在我也是人民的一份子，而且，又有这么多人民，换了一茬又一茬，能不能再选择一回？老中国的讲法是“君权神授”，脱离了历史语境的“人民的选 择”，以及政治神学的“历史的选择”，均排除了程序合法性维度，没有现实法权程序支撑，不过是它的变种，听起来响亮，其实弱不禁风。</p>
+<p>在 此情形下，以这一套陈旧的意识形态话语为凭，搪塞政治统治的正当性这一立国之本，回避这一根本是非，肯定不行。所谓政治统治的正当性，笼统言之，涉及三重 合法性，即绩效、意识形态和程序，缺一不可。今日情形，绩效合法性，甚为昭彰，而意识形态与程序合法性，则有待开拓。毕竟，政治统治旨在实现全体公民政治 上的和平共处，以“同意和承认”、“命令与服从”为枢机。总靠绩效来维持，是维持不住的，不仅不可能永远保持绩效，绩效总有令人不满的时候，还在于人心不 足，吃肉骂娘，一旦对于绩效习以为常，就不再看重了，何况，不可能总是高效发展，永远快速致富。因此，便需要后面两项合法性来补充，来转圜，特别是需要启 动程序合法性。纵便绩效有问题，单凭程序，也还能维持。就是说，将十四亿人民变成选民，让选民进场，据选票解决“权力从何而来”这一根本是非，则钞票和选 票双轨齐下，合法矣，正当矣。换言之，以“政府的周期合法性”，彰显和印证“政权的永久正当性”。现代政治说来崇高，其实还不就是这点小九九。</p>
+<p>汉 儒班彪《王命论》喟言，“帝王之祚，必有明圣显鳃之德，丰功厚利积累之业，然后精诚通于神明，流泽加于生民。故能为鬼神所福飨，天下所归往。未见运世无 本、功德不纪，而得倔起在此位者也！”其间，德行昭彰、业绩显豁、神明祝福与泽布生民，概括的也就是上述三要素，可谓道尽枢机。在现代法政哲学意义上，归 总而言，不外就是三句话二十四字：“主权在民，治权在贤；政权为主，政府为客；授受以公，临治以法”。否则，正当性云乎哉。</p>
+<p>是 啊，所谓“人在做，天在看”，这个“天”绝对不是地上俗物，毋宁，是指价值的超越性，一种普遍的天道自然，永恒之法。在此刻语境下，上帝已死，“人民”不 期然间变成了地上的神圣。人民是一个集合体，无法言声，只能换身为市民、族民、国民和公民，进而，特别是公民进入政治，将自己化身为一个个具体的“选 民”，这才有所谓的人民，也才有所谓的程序合法性。否则，大而无形，有等于没有，无所托付，则情形堪忧。</p>
+<p>此刻中国，一方面对知识阶层能压就压，也压住了“大师王林”这类三教九流。另一方面，福山这类洋大师，却在中国流行，一言既出，引为经典，其实南辕北辙，扯淡。其情其形，与道士和尚进宫差不多，实在不是个事。</p>
+<p>有感于文革会否卷土重来，疑虑复担忧，遂重申共和国这一伟大理念，而有上述五点陈述，以为新年期许，知罪由人矣。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E9%87%8D%E7%94%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E8%BF%99%E4%B8%80%E4%BC%9F%E5%A4%A7%E7%90%86%E5%BF%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E5%92%8C/?category=18271" rel="tag">共和</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E5%92%8C%E5%9B%BD/?category=18271" rel="tag">共和国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%B3%95/?category=18271" rel="tag">宪法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/" target="cdt-mirror">【真理部】关于厦门集美大桥石碑断裂消息</a>
 </h2>
 <p><p>关于厦门集美大桥石碑断裂消息，切勿转载政治谣言信息，不得过度炒作。</p>
@@ -63,6 +125,38 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8
 <div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%83%AD%E9%97%A8%E8%AF%84%E8%AE%BA.jpg?resize=550%2C517" alt="热门评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?resize=300%2C282 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?w=618 618w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>头条新闻下的热门评论无法显示</p></div>
 <hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
 <a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3-%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习近平.习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/" target="cdt-mirror">【网络民议】长者名字完好 “大”倒是断了</a>
+</h2>
+<p><p>据@厦门广电：月29日早上7点多，多位市民报料，集美大桥出岛方向刚过下穿隧道出口不远处的写有“集美大桥”的石牌断裂，半块多的石牌砸落在草地上，压坏了栏杆，占用右侧半个车道车。受此影响，早高峰出岛方向交通发生滞留。目前排队排到枋钟路brt站点附近。</p>
+<p>另据@厦门天气在线 今日集美大桥的最大风速为1.9m/s，风力为2级，故此因不足以断石碑。且目前亦排除人为交通事故所为。初步判断此次石碑断裂属于自然断裂。（新浪新闻）</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=550%2C413" alt="CcWWYyUW8AAc2uj" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=550%2C363" alt="nF15-fxpwmrp0358078" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>莲~!~悟：那块石头有甲线，好几年前就看过，不知道当时怎么能质检过关，只要在矿山和板材场呆过都懂，中国红包害死人。</p>
+<p>简简单单：风大，吹断的。</p>
+<p>atomhelix：厦门集美大桥带蛤蛤签名的石碑突然断裂…这是凶兆啊，各位蛤丝请快捐出自己的一秒，积沙成塔，为蛤续命。</p>
+<p>charliechou：集美大桥的牌子断了，大字被毁了，长者签名完好。</p>
+<p>红尘客栈-原罪：提名者安然无恙，大字断为两截。</p>
+<p>BY我的世界：反正摸着石头过河又不需要这个桥。</p>
+<p>luise92：愿他和党，长命百岁。</p>
+<p>朋酒斯飨–：长老躺地，大大劈裂，两败俱伤？</p>
+<p>百里千青：你们不要总想着要搞个大新闻，我可是身经百战。</p>
+<p>菅原舜水：这次集美大桥题名断裂，值得注（神）意（棍）的是断处，大断而蛤全。大断于尾，恐应“鲜克有终”一词。（以上皆是胡扯，如有雷同，纯属拿衣服。）</p>
+<p>云飞扬3880：天降异象，必有冤情啊。</p>
+<p>heanquan：江泽民日记（2016，2，29）昨梦见从高处坠落。醒后被告知，“集美大桥”题字碑崩裂掉落。<br>
+请方士判吉凶。曰：“大”字足裂，预示”大大“折一手足。江老无恙。</p>
+<p>丁丁历险记go：天有异象，必生妖孽！吾皇江山危矣！</p>
+<p> </p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%83%AD%E9%97%A8%E8%AF%84%E8%AE%BA.jpg?resize=550%2C517" alt="热门评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?resize=300%2C282 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?w=618 618w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>头条新闻下的热门评论无法显示</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3-%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习近平.习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
@@ -582,73 +676,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8F%97%E5%AE%A1%E7%9A%84%E5%89%8D%E8%83%BD%E6%BA%90%E5%B1%80%E9%AB%98%E5%AE%98-%E6%B3%95%E5%BA%AD%E4%B8%8A%E7%A7%B0%E5%9B%A0%E5%8F%97%E9%85%B7%E5%88%91/" target="cdt-mirror">自由亚洲｜受审的前能源局高官 法庭上称因受酷刑而被迫认罪</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg" rel="attachment wp-att-430293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?resize=575%2C384" alt=" 许永盛（资料图/Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/image-3.jpg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><br> 许永盛（资料图/Public Domain）</p></div>
-<p>因涉嫌收受561万元人民币贿赂而在北京受审的前国家能源局副局长许永盛称，在法庭上称自己供认有罪是迫于当局的刑讯逼供和恐吓，并当庭否认全部指控。有外国媒体和学者表示，类似案例给中国的反腐运动蒙上了一层阴影。</p>
-<p>据中国媒体财经网的报道，国家能源局原副局长许永盛受贿案于2月23日在北京市第一中级法院开庭审理。在法庭上，许永盛对其涉嫌受贿的指控当庭全部予以否认，称自己从未收受他人给予的任何钱款，并表示自己在侦查阶段所做的有罪供述，是源于办案人员对他进行了非法取证。许永盛只承认他从一名地方官员那里接受了一把按摩椅。</p>
-<p>许永盛从2008年至2012年担任中国国家能源局电力司司长。财经网的报道说，他被指控在任期受贿561万元，并为行贿人在27个电力项目审批方面谋取了利益。2014年5月14日，许永盛被检察机关从其家中带走，随后被实施指定居所监视居住。</p>
-<p>许永盛告诉法庭，在一年的调查中，他有很长时间基本上没有睡觉。在不受讯问的时间里，他被强迫背诵制度条例。此外，他还经常被强迫坐在小板凳上，导致他臀部流血。许永盛还表示，调查人员还威胁要将他的妻子也拘留起来，从而使他们的儿子得不到父母的照顾。</p>
-<p>国际反腐组织“国际透明”的亚太报告说负责人廖然就许永盛否认有罪并指控当局对他实施刑讯逼供这点表示，根据他本人所看到的许永盛所提供的一些信息来看，当局提供的许多“证据”都有漏洞：</p>
-<p>“我昨天看到许永盛在法庭上翻供的报道后很吃惊。当然，我们一直都知道中国政府对那些被抓的腐败官员进行刑讯逼供，但从来没有任何官员敢于在法庭上说自己无罪，并揭露自己是在被施于酷刑的情况下才‘认罪’的。他是有证有据地驳斥了几乎所有的腐败指控，他只承认接受了一把按摩椅。”</p>
-<p>《纽约时报》2月26日的有关报道说，许永盛的逼供控诉使人们对中国的反腐运动、以及调查人员为得到认罪供述而不择手段的做法提出了深层次的疑问。</p>
-<p>报道说，中共党员在面临刑事调查之前，通常会经过一个被称为双规的党内调查过程。在这个过程中，被调查者的权利几乎没有任何保障。一些官员表示自己曾遭受虐待，直到他们承认有罪为止。近几年来甚至还出现了在接受调查的双规期间，少数官员神秘死亡的案列。</p>
-<p>报道说，近年来，中国政府为减少刑讯逼供案件的发生，已进行了若干政策改革。有个别虽然无辜但却被判有罪的人也得以释放。但是，人权组织和联合国专家说，中国警方在调查和拘留嫌犯的过程中，对他们刑讯逼供及其他虐待行为的做法仍普遍存在。虽然一些人被判有罪后又被无罪释放的案子已增加了公众对刑讯逼供的关注程度，但反腐运动仍深受中国老百姓的欢迎，他们认为，反腐运动减少了官员的腐败和滥用权力的行为。</p>
-<p>反腐问题专家廖然则指出，类似许永盛在调查中被实施刑讯逼供而被迫认罪的消息，显然会给中国的反腐运动蒙上一层深厚的阴影：</p>
-<p>“当然了，你想一想，现在中国政府正在跟好多外国政府就遣返腐败官员一事进行交涉，那么类似许永盛在法庭上坚决否认所有罪名，并揭露他之前的认罪是在被刑讯逼供和被恐吓要拘禁他妻子的情况下才被迫作出的，那你说那些外国政府和司法部门怎么能接受中国政府的说法呢？。”</p>
-<p>就中国司法领域中刑讯逼供现象极为普遍这个问题，联合国禁止酷刑委员会去年12月9日发表的一份调查报道说，中国公安机构和监狱中对嫌犯刑讯逼供的做法目前依然泛滥成灾。</p>
-<p>联合国的报告指出，被拘留者应拥有辩护权并从最初就能与律师接触。而且，被拘留者必须在48小时内在法官面前出庭。审讯录音录像应当是强制性的，刑讯逼供得来的所谓“罪证”应该是不被接受的。报告还说，中国应为酷刑受害者设立一个具有独立性的、保密的投诉机制。此外，报告还敦促中国司法系统减少目前实行的嫌犯在受到正式指控之前可以被拘留37天的这个期限，这包括起诉方必须在嫌犯被关押7天之后正式提出起诉。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8F%97%E5%AE%A1%E7%9A%84%E5%89%8D%E8%83%BD%E6%BA%90%E5%B1%80%E9%AB%98%E5%AE%98-%E6%B3%95%E5%BA%AD%E4%B8%8A%E7%A7%B0%E5%9B%A0%E5%8F%97%E9%85%B7%E5%88%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%89%E6%8B%A9%E6%80%A7%E5%8F%8D%E8%85%90/?category=18271" rel="tag">选择性反腐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%A4%E4%BC%9A%E6%9C%9F%E9%97%B4%E5%AF%84%E5%8C%97%E4%BA%AC%E9%82%AE%E4%BB%B6%E5%AE%9E%E5%90%8D%E5%88%B6-%E7%BA%A2%E8%A2%96%E7%AE%8D%E5%86%8D%E5%BA%A6%E5%AF%86%E9%9B%86%E4%B8%8A%E5%B2%97/" target="cdt-mirror">自由亚洲｜两会期间寄北京邮件实名制 红袖箍再度密集上岗</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg" rel="attachment wp-att-430288"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg?resize=575%2C399" alt="北京八里庄治安防控点。（访民提供/记者乔龙）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/de1e1f3c-6315-4f13-b03a-4c7fdf2cebc8.jpeg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>北京八里庄治安防控点。（访民提供/记者乔龙）</p></div>
-<p>中国全国政协及人大会议前夕，国家邮政局下发通知称，两会期间寄往北京的邮件，严格实名制和100%过机安检。自3月1日起，涉及“两会”会场及代表、委员驻地的快件，各快递企业将统一归口市邮政EMS代投。另外，两会前夕，北京各街道办再次出动“红袖箍”纠察队，监视路人，若发现可疑情况，立即向派出所报案。</p>
-<p>中国所谓实名制层出不穷，从菜刀“实名制”到快递“实名制”，最近，再细化到要求邮件“实名制”。《北京晨报》2月26日报 道，25日，国家邮政局下发通知，要求两会期间寄往北京的邮件，严格实名制和100%过机安检。报道称，自3月1日起，涉及“两会”会场及代表、委员驻地的快件，各快递企业将统一归口市邮政EMS代投。邮政局要求各企业严格执行实名收寄制度，两会期间，对寄往北京的邮件、快件除信件、已有安全保障机制的协议客户等交寄的邮件、快件外，一律要求寄件人出具有效身份证件，并登记相关身份信息后方可收寄，用户拒绝或不按规定出示有效身份证件的，寄递企业不得收寄。</p>
-<p>北京邮局营业员张先生26日接受本台记者采访时称，他们已经接到通知：“现在寄东西都要实名制，寄挂号邮件都得实名制”。</p>
-<p>记者：挂号信本来就是实名制的吧？</p>
-<p>邮局张先生：挂号信本来不是（实名制），你到邮局寄挂号就完了。早就要求，前几个月就开始实名制了，你要是寄挂号邮件，都要实名制，要拿身份证才能寄。</p>
-<p>记者：100%过机安检是怎么一回事？</p>
-<p>邮局张先生：过机安检是到分检部分了。反正你现在要寄物品，全都要打开检查，比较严了。因为物品好多是要上飞机的（空运），怕出事，安全考虑。今年两会肯定严厉。</p>
-<p>中国邮政局在三个月前宣布，2015年11月1日起，除信件和已有安全保障机制的协议客户快件，或通过自助邮局等交寄的邮件、快件外，一律要求核对寄件人电话号码及相关身分信息后才可收寄。一家大型网站的调查显示，有七成网民担心实名制会造成身分证信息外泄。</p>
-<p>自2010年起，中国首先推出火车票实名制，其后是网络实名制、手机卡实名制等。每逢重要时刻，更会实行购买菜刀实名制、购买鞭炮实名制、进餐实名制等。有网民对最新的邮件实名制提出评论称，是不是不在两会期间，实名制就不用严格执行？ 网民“半条命”称，实名制要立法律。</p>
-<p>据北京居民告诉记者，北京 “两会”安保工作已经起动。北京城乡结合部已设立检查站，市内两会代表下榻的酒店，也已进驻武警。酒店外围有佩戴“红袖箍”识别标志的街道办人员及退休人员执勤，并设立24小时岗亭，轮流值班。</p>
-<p>北京居民刘女士对记者说：“这段时间，街道居委会有人组织值班，还发一件大衣坐一个小板凳，都是居委会大妈。长安街上也经常看到有，还有特警。我们这边的居委会也有，那一天我听一个大妈说，啊，什么都让值班，意思是不是两会这么重大的活动，也让他们值班。牢骚挺多的，反正挺紧张的”。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%A4%E4%BC%9A%E6%9C%9F%E9%97%B4%E5%AF%84%E5%8C%97%E4%BA%AC%E9%82%AE%E4%BB%B6%E5%AE%9E%E5%90%8D%E5%88%B6-%E7%BA%A2%E8%A2%96%E7%AE%8D%E5%86%8D%E5%BA%A6%E5%AF%86%E9%9B%86%E4%B8%8A%E5%B2%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%80%81%E7%82%AE%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E3%80%81%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84/" target="cdt-mirror">【敏感词库】“老炮任志强反党”、“砸共产党的锅”等热点</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg" rel="attachment wp-att-430285"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg?resize=500%2C369" alt="刘少奇开除出党" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg?resize=300%2C221 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/4-1.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>（文革时期宣传画；图片来自网络）</em></p>
-<p>［新浪微博搜索禁词测试时间：2016年2月26日］</p>
-<p><strong>老炮＋任志强反党 </strong>（<a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/">相关专题</a>）</p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%85%9A%E7%AB%A0%E5%85%9A%E8%A7%84%E4%BF%9D%E6%8A%A4%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%AC%E7%9A%84%E5%85%9A%E5%91%98%E6%9D%83%E5%88%A9/">三剑客｜蔡霞：党章党规保护任志强们的党员权利</a></p></blockquote>
-<p><strong>习＋蔡霞</strong><br><strong> 习＋特勒</strong>（复测）<br><strong>习＋禁评</strong>（复测）</p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%AD%E7%A0%B8%E9%94%85/">砸共产党的锅</a></strong></p>
-<p><strong>红太阳帝国</strong></p>
-<p><strong>Liu＋Xiaobo </strong><br><strong> 刘小波</strong></p>
-<p><strong>色图</strong><br><strong> 淫情</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%80%81%E7%82%AE%EF%BC%8B%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A.png?resize=475%2C185" alt="老炮＋任志强反党" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老炮＋任志强反党.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老炮＋任志强反党.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/老炮＋任志强反党.png?w=770 770w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E8%94%A1%E9%9C%9E.png" rel="attachment wp-att-430277"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E8%94%A1%E9%9C%9E.png?resize=475%2C208" alt="习 蔡霞" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-蔡霞.png?resize=768%2C337 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-蔡霞.png?resize=1024%2C449 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-蔡霞.png?w=2098 2098w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%89%B9%E5%8B%92.png" rel="attachment wp-att-430279"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%89%B9%E5%8B%92.png?resize=475%2C207" alt="习 特勒" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?resize=300%2C131 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?resize=768%2C334 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?resize=1024%2C446 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-特勒.png?w=2086 2086w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%A6%81%E8%AF%84.png" rel="attachment wp-att-430278"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E4%B9%A0-%E7%A6%81%E8%AF%84.png?resize=475%2C201" alt="习 禁评" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?resize=300%2C127 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?resize=768%2C326 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?resize=1024%2C434 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/习-禁评.png?w=2104 2104w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%94%85.png" rel="attachment wp-att-430275"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E9%94%85.png?resize=475%2C204" alt="砸共产党的锅" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?resize=300%2C129 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?resize=768%2C330 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?resize=1024%2C440 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/砸共产党的锅.png?w=2092 2092w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BA%A2%E5%A4%AA%E9%98%B3%E5%B8%9D%E5%9B%BD.png?resize=475%2C184" alt="红太阳帝国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/红太阳帝国.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/红太阳帝国.png?resize=768%2C298 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/红太阳帝国.png?w=773 773w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu%EF%BC%8BXiaobo.png?resize=475%2C185" alt="Liu＋Xiaobo" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu＋Xiaobo.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu＋Xiaobo.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Liu＋Xiaobo.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E5%88%98%E5%B0%8F%E6%B3%A2.png?resize=475%2C185" alt="刘小波" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/刘小波.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/刘小波.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/刘小波.png?w=769 769w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%89%B2%E5%9B%BE.png?resize=475%2C182" alt="色图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/色图.png?resize=300%2C115 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/色图.png?resize=768%2C295 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/色图.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B7%AB%E6%83%85.png" rel="attachment wp-att-430281"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B7%AB%E6%83%85.png?resize=475%2C203" alt="淫情" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?resize=300%2C128 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?resize=768%2C329 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?resize=1024%2C438 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/淫情.png?w=2084 2084w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果，测试截图请移步<a href="https://plus.google.com/110525634633732441879">本项目G+页面</a>。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E8%80%81%E7%82%AE%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E3%80%81%E7%A0%B8%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%A4%AA%E9%98%B3/?category=18271" rel="tag">红太阳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,7 +687,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -670,5 +697,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

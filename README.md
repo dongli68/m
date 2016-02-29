@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E9%87%91%E9%9B%81%EF%BC%9A%E9%9A%90%E8%97%8F%E5%9C%A8%E8%8B%8F%E8%81%94%E4%BA%BA%E5%8E%A8%E6%88%BF%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB%E7%A7%98%E5%AF%86/" target="cdt-mirror">大家 | 金雁：隐藏在苏联人厨房里的政治秘密</a>
@@ -61,7 +61,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%8A%E5%AF%86/?category=18271" rel="tag">告密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%8A%E5%AF%86%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">告密机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E5%A4%A7%E6%9E%97/?category=18271" rel="tag">斯大林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A3%80%E4%B8%BE/?category=18271" rel="tag">检举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94%E5%8F%B2/?category=18271" rel="tag">苏联史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%AB%E9%B2%81%E6%99%93%E5%A4%AB/?category=18271" rel="tag">赫鲁晓夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%9B%81/?category=18271" rel="tag">金雁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 23分钟前</small>
+	<small> ============== 28分钟前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BC%81%E4%B8%9A%E9%A2%91%E5%87%BA%E7%83%82%E7%89%8C%E6%9C%80%E5%8F%AF%E8%83%BD%E5%8F%8D%E6%98%A0%E4%BA%86/" target="cdt-mirror">心理学问答｜唐映红：一个企业频出“烂牌”最可能反映了什么？</a>
 </h2>
@@ -706,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

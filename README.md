@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/" target="cdt-mirror">【麻辣总局】长者名字完好 “大”倒是断了</a>
+</h2>
+<p><p>据@厦门广电：月29日早上7点多，多位市民报料，集美大桥出岛方向刚过下穿隧道出口不远处的写有“集美大桥”的石牌断裂，半块多的石牌砸落在草地上，压坏了栏杆，占用右侧半个车道车。受此影响，早高峰出岛方向交通发生滞留。目前排队排到枋钟路brt站点附近。</p>
+<p>另据@厦门天气在线 今日集美大桥的最大风速为1.9m/s，风力为2级，故此因不足以断石碑。且目前亦排除人为交通事故所为。初步判断此次石碑断裂属于自然断裂。（新浪新闻）</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=550%2C413" alt="CcWWYyUW8AAc2uj" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=550%2C363" alt="nF15-fxpwmrp0358078" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>莲~!~悟：那块石头有甲线，好几年前就看过，不知道当时怎么能质检过关，只要在矿山和板材场呆过都懂，中国红包害死人。</p>
+<p>简简单单：风大，吹断的。</p>
+<p>atomhelix：厦门集美大桥带蛤蛤签名的石碑突然断裂…这是凶兆啊，各位蛤丝请快捐出自己的一秒，积沙成塔，为蛤续命。</p>
+<p>charliechou：集美大桥的牌子断了，大字被毁了，长者签名完好。</p>
+<p>红尘客栈-原罪：提名者安然无恙，大字断为两截。</p>
+<p>BY我的世界：反正摸着石头过河又不需要这个桥。</p>
+<p>luise92：愿他和党，长命百岁。</p>
+<p>朋酒斯飨–：长老躺地，大大劈裂，两败俱伤？</p>
+<p>百里千青：你们不要总想着要搞个大新闻，我可是身经百战。</p>
+<p>菅原舜水：这次集美大桥题名断裂，值得注（神）意（棍）的是断处，大断而蛤全。大断于尾，恐应“鲜克有终”一词。（以上皆是胡扯，如有雷同，纯属拿衣服。）</p>
+<p>云飞扬3880：天降异象，必有冤情啊。</p>
+<p>heanquan：江泽民日记（2016，2，29）昨梦见从高处坠落。醒后被告知，“集美大桥”题字碑崩裂掉落。<br>
+请方士判吉凶。曰：“大”字足裂，预示”大大“折一手足。江老无恙。</p>
+<p>丁丁历险记go：天有异象，必生妖孽！吾皇江山危矣！</p>
+<p> </p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%83%AD%E9%97%A8%E8%AF%84%E8%AE%BA.jpg?resize=550%2C517" alt="热门评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?resize=300%2C282 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?w=618 618w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>头条新闻下的热门评论无法显示</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3-%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习近平.习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84%E4%B8%A4%E5%B2%81%E4%BA%86-%E8%BF%99%E4%BB%BD%E6%88%90%E7%BB%A9%E5%8D%95%E5%BE%88%E6%9C%89%E4%BB%BD%E9%87%8F/" target="cdt-mirror">【异闻观止】网信小组两岁了 这份成绩单很有份量</a>
 </h2>
 <p><p><strong>2014年2月27日，中央网络安全和信息化领导小组成立。两年过去，中国互联网治理建设的顶层设计逐渐明朗，进入互联网发展新时期，在组织结构、法律制度、环境治理、人才培养、国际交流等多方面都取得了实质性的进展和进步。</strong></p>
@@ -642,42 +674,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%BE%9B%E8%BE%9B%E8%8B%A6%E8%8B%A6%E4%BA%94%E5%8D%81%E5%B9%B4%E4%B8%80%E5%A4%9C%E5%9B%9E%E5%88%B0%E5%85%AD%E5%85%AD%E5%B9%B4/" target="cdt-mirror">【网络民议】辛辛苦苦五十年，一夜回到六六年</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%AD%99%E6%B5%B7%E8%8B%B1%E5%BE%AE%E5%8D%9A.png" rel="attachment wp-att-430216"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%AD%99%E6%B5%B7%E8%8B%B1%E5%BE%AE%E5%8D%9A.png?resize=450%2C554" alt="网信办孙海英微博" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网信办孙海英微博.png?resize=244%2C300 244w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/网信办孙海英微博.png?w=603 603w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br>
-（新浪微博上，关于孙海英等微博大V被封号的新闻受到了严格的评论审查，许多评论／转发内容被过滤、屏蔽。）</p>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%BC%94%E5%91%98%E5%AD%99%E6%B5%B7%E8%8B%B1%E7%AD%89%E5%A4%A7v%E5%BE%AE%E5%8D%9A%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%85%B3%E9%97%AD/">孙海英等大V微博账号被关停：无视社会责任，滥用自身影响力</a></strong></p>
-<blockquote><p>针对少数网络名人无视社会责任，滥用自身影响力，在网上多次发布反对宪法所确定的基本原则、损害国家荣誉和利益以及造谣传谣、扰乱社会秩序等违法违规信息的行为，有关网站依法关闭@罗亚蒙、@演员孙海英、@王亚军上海、@荣剑2001、@文山娃、@纪昀、@大鹏看天下等网络大V账号。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2427191305" target="_blank">@风中的蜉蝣</a>：日出东方，唯我不败。一统江湖，千秋万代。<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p>@青岛记：芮成钢人在监狱，微博帐号好好的… 孙海英是自由身，微博帐号却没了…</p>
-<p>@陈冠西式笑话：好。做的好！全部都歌功颂德。全部都万岁。全国人民一起吃地沟油。一起用假药。一起做房奴。一起延迟退休。然后一起看官员斗富。群众幸福感爆棚。</p>
-<p>@躲避僵尸的黑匣子陈廖宇：“反对宪法所确定的基本原则…..”哈哈哈哈哈哈哈这条罪状够我笑一个晚上了……</p>
-<p>@shifu：坚决支持封杀网络大V！这些公知，大都嘲讽、质疑、批驳过胡锡进、司马南、孔庆东、李艳艳、周小平、花千芳等正能量人士，大都跟党媒和官方舆论主旋律的声音不同调，或嬉笑怒骂，或似是而非，确实令人恼怒，令人烦躁，令人不能容忍，不封杀不足以战胜之。</p>
-<p>@最棒的abcdef：社会确实进步了，当烈士不用赔上脑袋了。有时候还能顺便嫖个娼啥的。君恩如山啊！</p>
-<p>@薛策Eric：有没有人站出来，说说他们哪条微博说的有问题？？？防民之口甚于防川，这特么流氓国家，跟朝鲜有什么区别？？？</p>
-<p>@每天见证历史：封口就封口吧，别说依法。</p>
-<p>@鹅城恶少_991：今年到底是2016年还是1966年？</p>
-<p>@在路上享受寂寞: 依他娘的法，你们的宪法是手纸吗</p>
-<p>@公民马克思：开始收紧言论，不姓党的都关掉。</p>
-<p>@锦天城南京律师李自刚：国信办的行为具备可诉性吗？受正当程序原则制约吗？</p>
-<p>@变相：还是内句话：春晚我打101分！</p>
-<p>@军民促和谐：宪法的原则不是言论自由吗？到底谁在违反宪法原则呢？</p>
-<p>@新闻解毒：辛辛苦苦五十年，一夜回到六六年</p>
-<p>@五指山夫：又在发光荣榜啊。。。</p>
-<p>@士心水兽：狗急了会跳墙，党急了要遭殃。</p>
-<p>@卖菜老农1：不是说要把围墙拆了？</p>
-<p>@天巡北斗：这叫“无视你们要跟着我天朝自诩伟光正的洗脑叫好、配合、不戳穿我伟光正洗脑骗局的’社会责任’”，所以你们要被封掉。</p>
-<p>@令狐冲之家：批评与自我批评都是假的，民国政府尚能让大公报申报文汇报新民报甚至新华日报存在，现在连几个大v微博都容忍不了，历史在倒退！</p>
-<p>@四是四十是十四十不是十四：倒车，请注意，倒车，请注意………砰！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%BE%9B%E8%BE%9B%E8%8B%A6%E8%8B%A6%E4%BA%94%E5%8D%81%E5%B9%B4%E4%B8%80%E5%A4%9C%E5%9B%9E%E5%88%B0%E5%85%AD%E5%85%AD%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E6%B5%B7%E8%8B%B1/?category=18271" rel="tag">孙海英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%A4%A7v/?category=18271" rel="tag">微博大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E5%8A%9F%E9%A2%82%E5%BE%B7/?category=18271" rel="tag">歌功颂德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -689,7 +685,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +695,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

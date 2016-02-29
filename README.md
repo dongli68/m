@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84%E4%B8%A4%E5%B2%81%E4%BA%86-%E8%BF%99%E4%BB%BD%E6%88%90%E7%BB%A9%E5%8D%95%E5%BE%88%E6%9C%89%E4%BB%BD%E9%87%8F/" target="cdt-mirror">【异闻观止】网信小组两岁了 这份成绩单很有份量</a>
+</h2>
+<p><p><strong>2014年2月27日，中央网络安全和信息化领导小组成立。两年过去，中国互联网治理建设的顶层设计逐渐明朗，进入互联网发展新时期，在组织结构、法律制度、环境治理、人才培养、国际交流等多方面都取得了实质性的进展和进步。</strong></p>
+<p>作者 李欲晓，中国网络空间研究院研究员、北京邮电大学互联网治理与法律研究中心主任。部分信息选自中国网信网、新华网。 ✤原文 《网信小组成立后的中国互联网治理》，刊登在《网络传播》杂志2016年1月刊</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640IW2BTJI1.jpg?resize=550%2C553" alt="640IW2BTJI1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640IW2BTJI1.jpg?resize=298%2C300 298w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640IW2BTJI1.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>政策推动进程加速</strong></p>
+<p>“没有信息化就没有现代化”，两年间，中国制定了一系列政策和计划，加快信息化的发展进程。</p>
+<p>2014年8月，国务院印发《国务院关于加快发展生产性服务业促进产业结构调整升级的指导意见》，重点在<strong>电子商务、信息技术服务</strong>等领域开展工作。</p>
+<p>2015年1月，国务院出台《国务院关于促进云计算创新发展培育信息产业新业态的意见》，计划到2017年，<strong>云计算</strong>在重点领域的应用得到深化。</p>
+<p>2015年7月，国务院出台《国务院关于积极推进“互联网+”行动的指导意见》，推动<strong>移动互联网、云计算、大数据、物联网</strong>等与现代制造业结合，促进<strong>电子商务、工业互联网</strong>和<strong>互联网金融</strong>健康发展，引导互联网企业拓展国际市场。</p>
+<p><strong>完善法律法规体系</strong></p>
+<p>为了构建清朗、健康、有序的网络空间，党的十八届四中全会提出：“加强互联网领域立法，完善网络信息服务、网络安全保护、网络社会管理等方面的法律法规，依法规范网络行为。”</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640GVDUZP86.jpg?resize=550%2C519" alt="640GVDUZP86" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640GVDUZP86.jpg?resize=300%2C283 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640GVDUZP86.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>两年间，国家网信办连续出台三个“十条”。《即时通信工具公众信息服务发展管理暂行规定》（业界称为“<strong>微信十条</strong>”）对以微信为代表的即时通信工具公众信息服务进行了规范；《互联网用户账号名称管理规定》（俗称“<strong>账号十条</strong>”），就账号的名称、头像和简介等，对互联网企业、用户的服务和使用行为进行了规范；《互联网新闻信息服务单位约谈工作规定》（俗称“<strong>约谈十条</strong>”）推动了约谈工作的进一步程序化、规范化。</p>
+<p>网络安全已经成为国家安全的重要组成部分。2015年7月，全国人大常委会通过了新<strong>《国家安全法》</strong>，第一次在立法中明确了“网络空间主权”的概念。同时，<strong>《网络安全法（草案）》</strong>已经完成，并已公开征求意见。</p>
+<p>随着互联网的深入发展，利用信息网络侵害人身权益的案件日益增多。2014年10月，最高人民法院出台了《关于审理利用信息网络侵害人身权益民事纠纷案件适用法律若干问题的规定》。</p>
+<p><strong>专项整治网络乱象</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?resize=550%2C330" alt="6409RJEH13Q" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?w=633 633w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>专项行动也是国家运用行政手段规范社会行为的重要举措。网信小组成立以来，在网络基础设施整治、网络版权保护、青少年健康成长、网络有害信息治理、网络不良行为、婚恋网站屡现违法违规和严重失信行为等问题上，联合有关部门开展了多次专项治理行动，成效显著。</p>
+<p><strong>深度参与国际治理</strong></p>
+<p>中国始终坚持平等开放、多方参与、安全可信、合作共赢四项原则，积极参与全球网络治理的同时，频频在国际场合自信阐释互联网治理的中国主张，并积极开展合作。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640SLCJTXCV.jpg?resize=550%2C238" alt="640SLCJTXCV" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640SLCJTXCV.jpg?resize=300%2C130 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640SLCJTXCV.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>两届<strong>世界互联网大会</strong>的成功举办，成功搭建国际互联网共享共治的中国平台。国家主席习近平亲临现场并发表主旨演讲，乌镇峰会已成为中国举办的规格最高、规模最大的互联网盛会。</p>
+<p>国家网信办主任鲁炜代表中国政府出席<strong>全球互联网治理联盟</strong>，<strong>中美互联网论坛</strong>、<strong>中欧数字合作圆桌会议</strong>等的圆满举办，“国际互联网治理越来越离不开中国的参与”。</p>
+<section><section><section><strong>培养网络安全人才</strong></section></section><section></section></section><p>为加快网络空间安全人才培养，提升网民网络素养，中央网信办会同中央编办、教育部、科技部等部门，自2014年开始每年举办“<strong>国家网络安全宣传周</strong>”。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?resize=550%2C331" alt="640MPF0OD6V" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?resize=300%2C180 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?w=632 632w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>2014年11月，“清朗网络 青年力量——<strong>青年网络文明志愿行动</strong>”正式启动，号召团员青年们将共青团员的先进性和担当精神延伸到网上，在网上积极发出青年好声音、形成强劲的青春正能量。</p>
+<p>2015年6月，“2015<strong>中国好网民</strong>”系列活动也已启动，通过倡导文明健康的网络生活方式，培育崇德向善的网络行为规范，让网民自觉践行社会主义核心价值观，弘扬网上正能量。</p>
+<p>为推动网络安全人才技能的提升，一系列民间形式的网络安全挑战赛不断涌现，同时，<strong>“网络空间安全”一级学科</strong>获批，将为网络安全人才的培养创造良好的条件。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84%E4%B8%A4%E5%B2%81%E4%BA%86-%E8%BF%99%E4%BB%BD%E6%88%90%E7%BB%A9%E5%8D%95%E5%BE%88%E6%9C%89%E4%BB%BD%E9%87%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">世界互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%8D%81%E6%9D%A1/?category=18271" rel="tag">微信十条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%8D%81%E6%9D%A1/?category=18271" rel="tag">微博十条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A6%E8%B0%88%E5%8D%81%E6%9D%A1/?category=18271" rel="tag">约谈十条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">网信小组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">网络安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络空间安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/430375/" target="cdt-mirror">【立此存照】”如果是犯罪就抓人啊！封微博是啥意思？“</a>
 </h2>
 <p><blockquote><p>新闻背景：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/">自由亚洲 | 网信办责令网站关闭任志强微博 决不允许“换马甲”</a></p></blockquote>
@@ -641,20 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%EF%BC%9A%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%B8%8E%E6%96%87%E9%9D%A9/" target="cdt-mirror">【CDTV】德国人雷克：任志强与文革</a>
-</h2>
-<p><p>文化大革命重来的话，西方人怎么看？ 让我们陷入困境的不是无知，而是看似正确的谬误论断。——马克·吐温 欢迎关注（汉） ▶雷克 ： http://christophrehage.cn ▶德国自干五 ： http://maozedong.de ▶油管 ： https://www.youtube.com/德国自干五 ▶非死不可 ： https://facebook.com/deguoziganwu ▶推特 ： https://twitter.com/deguoziganwu ▶新浪微博 ： https://weibo.com/leikexiaoliumang ← 被封！ 欢迎关注（英） ▶雷克 ： http://christophrehage.com ▶个人油管 ： https://www.youtube.com/bigfatspringroll ▶非死不可 ： https://facebook.com/crehage ▶推特 ： https://twitter.com/crehage</p>
-<p><a href="https://www.youtube.com/v/k0xGRlaRO7g?version=3">https://www.youtube.com/v/k0xGRlaRO7g?version=3</a></p>
-<p><a title="老雷137：任志强与文革" href="http://www.youtube.com/watch?v=k0xGRlaRO7g" target="_blank">老雷137：任志强与文革</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%9B%B7%E5%85%8B%EF%BC%9A%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%B8%8E%E6%96%87%E9%9D%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B/?category=18271" rel="tag">雷克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E5%85%8B%E5%B0%8F%E6%B5%81%E6%B0%93/?category=18271" rel="tag">雷克小流氓</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -666,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -676,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

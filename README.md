@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,75 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-129/" target="cdt-mirror">【河蟹档案】习禁评</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%A5%BF%E5%8D%95%E5%A2%A8%E5%AE%A2V22">西单墨客V22</a>：报纸越干净，社会则越肮脏。一个连真话都不能说、写、拍的社会，才是真正可怕的。<br><a href="https://freeweibo.com/weibo/3946533567291259" target="/weibo/394">2016年02月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9B%BC%E7%9F%A5">曼知</a>：看孙海英、任志强这两天相继被封杀。无力得太久，已经感到麻木了。在这个国家，我们不过是静候开水灌注的青蛙。<br><a href="https://freeweibo.com/weibo/3947541684338079" target="/weibo/394">2016年02月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E5%BF%97%E6%9D%BEcady">李志松cady</a>：SPAM [微笑][微笑][微笑]<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=428%2C428" alt="444" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?w=614 614w" sizes="(max-width: 428px) 100vw, 428px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947590791439785" target="/weibo/394">2016年02月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%AF%8C%E6%95%8F%E8%8D%A3%E5%BE%8B%E5%B8%88">富敏荣律师</a>：<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E4%BD%B6">@黄佶</a>：简而言之:兔死狗烹。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-3.jpg?resize=492%2C403" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-3.jpg?resize=768%2C628 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-3.jpg?w=1007 1007w" sizes="(max-width: 492px) 100vw, 492px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3946873918418911" target="/weibo/394">2016年02月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E7%8E%8B%E5%85%B4">北京律师王兴</a>：谷俊山不是耻辱，薄熙来不是耻辱，令完成不是耻辱，周永康不是耻辱，姬胜德不是耻辱，说几句你们不爱听的真话，就成了8000多万党员的耻辱。<em><em><em>相关阅读｜《<a href="http://www.zaobao.com.sg/realtime/china/story20160226-585930">联合早报<em><em><em>｜</em></em></em>官媒：任志强是8000多万党员的耻辱</a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?resize=368%2C653" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?resize=577%2C1024 577w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?w=640 640w" sizes="(max-width: 368px) 100vw, 368px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3946478575771928" target="/weibo/394">2016年02月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40baidu%E5%86%B7%E5%85%B5%E5%99%A8%E5%90%A7">baidu冷兵器吧</a>：北京官宣下属的千龙网骂任志强“简直就是党性的泯灭、人性的猖狂。” 多少反贼都说不出这么有深度的内容啊！<em><em><em>相关阅读｜《<a href="http://china.qianlong.com/2016/0222/380735.shtml#0-tsina-1-33087-397232819ff9a47a7b7e80a40613cfe1">千龙网<em><em><em>｜网友为何要给任志强上党课？</em></em></em></a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%B0%81%E7%BB%99%E4%BA%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E7%9A%84%E5%BA%95%E6%B0%94/">【异闻观止】谁给了任志强反党的底气</a>》</em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-8.jpg?resize=421%2C527" alt="444" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-8.jpg?resize=240%2C300 240w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-8.jpg?w=750 750w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3945645314925046" target="/weibo/394">2016年02月23日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%93%E9%A3%9E">邓飞</a>：分享图片//*<a href="https://freeweibo.com/weibo/%40%E6%B8%BA%E6%B2%A7%E6%BA%9F">渺沧溟</a>：发微博会被删，转图呢 <em><em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/02/160229_ana_renziqiang_political">BBC<em><em><em>｜</em></em></em>分析：“揪出”任志强 警示挑战习权威者</a>》；《<a href="http://www.voachinese.com/content/voa-news-chinese-property-mogul-silenced-20160228/3211639.html">美国之音<em><em><em>｜</em></em></em>中国关闭任志强微博账号</a>》</em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?resize=445%2C791" alt="任志强" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?w=720 720w" sizes="(max-width: 445px) 100vw, 445px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947537028784360" target="/weibo/394">2016年02月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%B6%E6%99%AF%E6%B4%B2">陶景洲</a>：今天是中共中央发出《关于为所谓“习仲勋反党集团”平反的通知》的第36个年头。过去利用小说反党是一大发明，现在利用微博反党也是一大发明。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-1.jpg?resize=407%2C724" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-1.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-1.jpg?w=750 750w" sizes="(max-width: 407px) 100vw, 407px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3946670624355591" target="/weibo/394">2016年02月26日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B5%B5%E5%AE%B6%E5%BE%8B%E5%B8%88">赵家律师</a>：分享图片  <em><em><em>相关阅读｜《<a href="http://hk.apple.nextmedia.com/international/art/20160229/19509828">苹果日报<em><em><em>｜</em></em></em>「高速」結案導致錯判</a>》；《<a href="http://china.dwnews.com/news/2016-02-28/59721111.html">多维<em><em><em>｜</em></em></em>网曝北京女法官遭枪杀惊人内幕</a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?resize=417%2C690" alt="马彩云" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?resize=768%2C1270 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?resize=619%2C1024 619w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?w=1080 1080w" sizes="(max-width: 417px) 100vw, 417px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947531450453900" target="/weibo/394">2016年02月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%82%AC%E5%A3%B6%E9%97%AE%E8%8C%B6">悬壶问茶</a>：嫖娼衫、造谣衫、神棍衫、汉奸衫、火葬场衫……，多衫一体，每件只卖35？<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?resize=331%2C588" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?w=720 720w" sizes="(max-width: 331px) 100vw, 331px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947607384282260" target="/weibo/394">2016年02月28日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-129/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2%E5%8B%8B/?category=18271" rel="tag">习仲勋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%80%A7/?category=18271" rel="tag">人性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E6%B5%B7%E8%8B%B1/?category=18271" rel="tag">孙海英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%BA%90/?category=18271" rel="tag">张源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%AA%E5%87%BB%E6%B3%95%E5%AE%98%E6%A1%88/?category=18271" rel="tag">枪击法官案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%98%E7%9F%B3%E5%B1%B9/?category=18271" rel="tag">潘石屹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E8%A8%80/?category=18271" rel="tag">禁言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BD%A9%E4%BA%91/?category=18271" rel="tag">马彩云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E6%8F%90%E5%90%8D%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B-%E5%AE%98%E6%96%B9/" target="cdt-mirror">【CDTV】香港电影金像奖最佳电影提名《十年》 官方预告片</a>
+</h2>
+<p><p>电影《十年》由5段短篇故事组合而成， 5位香港年青导演以电影向观众提问：</p>
+<p>十年后，香港会出现自焚者吗？（《自焚者》，导演：周冠威）</p>
+<p>广东话日渐衰微，怎样影响市民生活？（《方言》，导演：欧文杰）</p>
+<p>我们会面对从哪儿来的恐怖袭击？（《浮瓜》，导演：郭臻）</p>
+<p>当保育意识走到尽头，我们还能保护什么？（《冬蝉》，导演：黄飞鹏）</p>
+<p>我们的下一代，要学的是什么？　（《本地蛋》，导演：伍嘉良）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-%E4%B8%8A%E5%8D%8811.24.32-1.png?resize=528%2C295" alt="Screen Shot 2016-02-29 at 上午11.24.32" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午11.24.32-1.png?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午11.24.32-1.png?w=528 528w" sizes="(max-width: 528px) 100vw, 528px" data-recalc-dims="1"></p>
+<p>官媒《环球时报》2016年1月22日社评批评《十年》的导演者宣扬绝望，“在内地人看来，这部片子是完全荒诞的，它所描绘的场景十年后不可能在香港出现”，“它这个时候冒出来，带给香港社会的害处很可能大过好处”。预料《十年》将成为又一部大陆禁片。</p>
+<p>本片获2015年香港电影评论学会大奖最佳电影，并获第2016年第35届金像奖提名，结果将于今年4月揭晓。</p>
+<p>CDTV在此推荐《十年》的官方预告片。如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<p><a href="https://www.youtube.com/v/M4zebygSaZE?version=3">https://www.youtube.com/v/M4zebygSaZE?version=3</a></p>
+<p><a title="【第三十五屆香港電影金像獎最佳電影提名】 《十年》 官方預告片 Ten Years Offical Trailer" href="http://www.youtube.com/watch?v=M4zebygSaZE" target="_blank">电影《十年》 官方预告片</a></p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E6%8F%90%E5%90%8D%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B-%E5%AE%98%E6%96%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">《十年》电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">中国香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E7%89%87/?category=18271" rel="tag">禁片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">香港电影</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%A4%BC%E8%B5%9E%E7%9C%9F%E7%9B%B8/" target="cdt-mirror">德国之声 | 长平观察：奥斯卡礼赞真相</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-%E4%B8%8A%E5%8D%8810.55.10.png?resize=521%2C293" alt="Screen Shot 2016-02-29 at 上午10.55.10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午10.55.10.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午10.55.10.png?w=521 521w" sizes="(max-width: 521px) 100vw, 521px" data-recalc-dims="1"></p>
+<p>我在新浪微博搜索栏输入“凛冬烈火”四个字，看到提示：“根据相关法律法规和政策，‘凛冬烈火’搜索结果未予显示。”这是记录2013年底至2014年初乌克兰独立广场革命的电影的名字，入围本届奥斯卡奖。在遗憾的同时，我也多少感到一些欣慰：专制者仍然对世界的真相感到害怕。</p>
+<p>大肆抓捕人权律师及绑架香港书商等事件给人一种错觉，仿佛北京当局已经全然肆无忌惮，为所欲为。所幸，他们无法改变这个事实：越是强权专制，越是恐惧真相，因此越需要控制媒体和信息。不仅需要控制政治新闻，隐含政治信息的娱乐新闻也不能放过。继中国广电总局及中宣部下令禁止台湾金马奖、香港金像奖直播、转播之后，奥斯卡奖的颁奖新闻也因《凛冬烈火》等影片受到部分限制。</p>
+<p>《凛冬烈火》记录了乌克兰独立广场革命惊心动魄的抗议场面。一次又一次，人们勇敢地走上街头；一次又一次，警察对手无寸铁的抗议者挥舞警棍。鲜血染红了广场的地面，染红了观众的银幕或者屏幕，从而留在历史的记忆中。它让我的记忆活跃起来，在观看的过程中重新经历了“六四”运动。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-%E4%B8%8A%E5%8D%8810.55.40.png?resize=520%2C294" alt="Screen Shot 2016-02-29 at 上午10.55.40" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午10.55.40.png?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午10.55.40.png?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"><br><span>电影《十年》剧照</span></p>
+<p>即便在权力肆虐的今日，中国批评者仍然在为“建设性”还是“批判性”而争吵。我还记得那一年，每当警察奉命镇压，学生们都高喊“人民警察爱人民，人民警察人民爱”之类的口号。让我感到惊讶的是，面对政府的暴力，乌克兰的抗议者也喊着类似的口号。可以看到，和二十六年前的中国一样，这样的策略没有效果。也许真的有警察在心灵上受到触动，但他们不会因此停下手中的武器。乞求权力滥用者的同情心和怜悯心，从来都是缘木求鱼。</p>
+<p><strong>娱乐业对新闻业的礼赞</strong></p>
+<p>台湾金马奖、香港金像奖被禁，主要原因是一部短片合集电影《十年》。它以五个独立的故事，描绘了香港令人绝望的未来。中国《环球时报》称，“这部片子是完全荒诞的，它所描绘的场景十年后不可能在香港出现”，“它这个时候冒出来，带给香港社会的害处很可能大过好处”。其实，假如坐时间旅行车回到十年前的香港，告诉当时人们今天的现实，很多人也会觉得荒诞，认为这些事“十年后不可能在香港出现”。只需要这样想一想，就足以让人清醒。《环球时报》有一点说对了——只是用错了对象——那就是香港喜欢“自虐”的人太多，很多人还在静待十年后黑暗的到来。</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E6%8F%90%E5%90%8D%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B-%E5%AE%98%E6%96%B9/">【CDTV】香港电影金像奖最佳电影提名《十年》 官方预告片</a></p></blockquote>
+<p>以奥斯卡奖在娱乐业的巨大影响力，要想彻底噤声谈何容易。令人感到振奋的是，本届入围影片中，不只《凛冬烈火》在记录历史，呼唤真相。最大的赢家，获得最佳影片和最佳原创剧本奖的《聚焦》，是一曲对新闻调查记者的赞礼，尽管也充满了压抑和苦涩。它深刻地再现了《波士顿环球报》对神父娈童丑闻的突破性调查，是记者对抗强权的又一经典叙述。时任该报主编、现任《华盛顿邮报》执行主编的马蒂·巴伦（Martin Baron）说，这部电影再一次提醒我们，坚守敬业的新闻业，能够做出多么令人震惊的好事。</p>
+<p>这部电影还通过对记者琐碎的日常工作的描绘，告诉人们无论追求真相的工作多么重复、枯燥和令人灰心，它总是值得我们全力以赴。在中国，还要加上一个励志的理由：专制者越是禁止，它越有价值。</p>
+<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<p><em>德国之声致力于为您提供客观中立的新闻报道，以及展现多种角度的评论分析。文中评论及分析仅代表作者或专家个人立场。</em></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%A4%BC%E8%B5%9E%E7%9C%9F%E7%9B%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%87%9B%E5%86%AC%E7%83%88%E7%81%AB%E3%80%8B/?category=18271" rel="tag">《凛冬烈火》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">《十年》电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E8%81%9A%E7%84%A6%E3%80%8B/?category=18271" rel="tag">《聚焦》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">2016奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E7%89%87/?category=18271" rel="tag">禁片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85/?category=18271" rel="tag">调查记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%83%8F%E5%A5%96/?category=18271" rel="tag">金像奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%A9%AC%E5%A5%96/?category=18271" rel="tag">金马奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A4%A7%E5%AE%B6-%E9%87%91%E9%9B%81%EF%BC%9A%E9%9A%90%E8%97%8F%E5%9C%A8%E8%8B%8F%E8%81%94%E4%BA%BA%E5%8E%A8%E6%88%BF%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB%E7%A7%98%E5%AF%86/" target="cdt-mirror">大家 | 金雁：隐藏在苏联人厨房里的政治秘密</a>
 </h2>
 <p><p>作者：金雁，腾讯·大家专栏作者，东欧问题专家。</p>
@@ -637,64 +703,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%A2%85%E6%98%A5%E6%9D%A5%E6%9D%82%E8%AF%B4%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E6%B3%95%E9%99%A2%E5%A5%B3%E6%B3%95%E5%AE%98%E8%A2%AB%E6%9E%AA%E6%9D%80%E4%B8%80%E4%BA%8B/" target="cdt-mirror">梅春来杂说｜关于北京昌平法院女法官被枪杀一事的关注声明</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-27-at-%E4%B8%8B%E5%8D%884.18.21.png?resize=536%2C431" alt="Screen Shot 2016-02-27 at 下午4.18.21" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-27-at-下午4.18.21.png?resize=300%2C241 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-27-at-下午4.18.21.png?w=536 536w" sizes="(max-width: 536px) 100vw, 536px" data-recalc-dims="1"><br><span>律师梅春来</span></p>
-<p>今天我们律师界突然得知一个令人十分痛惜的事件，北京市昌平区法院回龙观法庭马彩云法官被人枪杀，据称是案件当事人的报复引起，正当我们持续关注并期望得到有关部门公布的正式信息时，我们又突然发现大量与此事件有关的报道或信息被删除，这引起我们律师界的不安和警觉，我认为事件可能会导致真相不能坦率地公开，舆论的导向又有可能将此事件被定位于是一个个案的效应，因此，我们声明如下：</p>
-<p>1、尽管我们律师界普遍对司法界有过不同声音的批评，但这种批评的声音从来没有妨碍过法律职业共同体的建立，相反我们的批评是更期望能够达成法律职业共同体的尽早建立。</p>
-<p>2、将枪口对准马法官实际上是对准所有的法律界人士，枪击是对法律秩序的绝大破坏，因此，马法官的遭遇是在威胁所有司法体系内的警察、检察官、法官及律师的人身安全，我们律师界同样有责任发出自己的声音，用以表明我们的立场，并声援和鼓励所有在职的司法人员，无论政治向左还是向右，无论司法改革如何困窘，只要我们在职一天，我们依然谨守入职时的承诺，用我们的良知和公正之心，坚守社会公正的最后一道防线。</p>
-<p>3、我们注意到本届司法改革以后，越来越多的优秀骨干法官离开了审判席位，这说明本届司法改革完全没有回应基层法官的诉求，当大量优秀的法官离开了审判席位，一旦社会公正无人可以坚守时，影响的不仅仅是政权的稳定，更重要的是所有人的合法权益，没有人可以通过司法得到有效保障，包括枪杀马法官的歹徒，这一点我们希望所有的政府要员和普通的公民都应该去深刻反思。</p>
-<p>4、司法的权威来自于实践，而在中国大部分的案件都是由各地县市的基层法院以司法裁判的方式解决，因此，所谓的司法改革当下最重要的是提高基层司法人员待遇和职业保障，司法改革提出顶层设计本身错误的，这种不符合司法实践的改革完全是在牺牲基层司法人员的尊严，中国的真正司法改革必须是底层设计并由每一位法官的积极参与，必须让每个基层法官能自由的表达出自己的权利和义务时，才能达成司法改革的走向满足社会公众对于公正审判的期望。</p>
-<p>5、对马法官的事件，我们强烈反对任何形式的删帖，我们认为公众有权利通过网络去获取信息，我们也相信他们有能力鉴别信息的真伪，即便有人故意混淆视听，我们也相信我们的警方有能力去处理类似的违法事件，我们再次强调，如果这个言论的空间没有任志强一类敢言的人，那么我们所听到只有司马南、胡锡进这类喋喋不休的啰嗦。</p>
-<p>6、我们督促警方尽早破案，我们也呼吁所有的人能理性对待司法审判，司法公正不代表法庭有义务穷尽一切帮助当事人去追求真相，法治的另一种含义是追求真相是当事人的义务，而法官只有在当事人穷尽一切仍无法还原真相时，秉持公义和公正做出一个合乎人性的判断，我们的民众必须明白法庭的判决不是唯一的真相，当有一天真相出来时候，司法依然可以正当的程序给公众作出一个更接近真相的判决。</p>
-<p>7、马法官的遭遇是一个标志性事件，它标志着当下的司法改革已到了穷途，我们呼吁所有试图离职的法官努力的发出自己对司法改革的诉求，而不是表达被舍弃的哀怨与伤痛，既然宪法赋予司法独立审判的权力，我们就必须要有尊严的出现在社会公众的视线之中，既然社会公众期望我们司法来坚守社会公正的最后一道防线，那么我们就必须有权力发出自己的司法意见来表达司法的立场，要做到这一点，我们法官必须先学会拒绝参与所有非司法领域内与法官职业不符的活动，比如参与政府的信访或去做本由该司法行政部门履职的街头普法。</p>
-<p>上述声明仅是我一名普通律师的言论表达，不存在他人指使，也不存在境外势力，因此，希望可以不被传唤和喝茶！</p>
-<p>梅春来于2016年2月27日晚</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%A2%85%E6%98%A5%E6%9D%A5%E6%9D%82%E8%AF%B4%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E6%B3%95%E9%99%A2%E5%A5%B3%E6%B3%95%E5%AE%98%E8%A2%AB%E6%9E%AA%E6%9D%80%E4%B8%80%E4%BA%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E5%B8%96/?category=18271" rel="tag">删帖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">司法体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%85%E6%98%A5%E6%9D%A5/?category=18271" rel="tag">梅春来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98/?category=18271" rel="tag">法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98%E9%A9%AC%E5%BD%A9%E4%BA%91%E8%A2%AB%E6%9D%80/?category=18271" rel="tag">法官马彩云被杀</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%83%A1%E9%80%82%E5%AD%A6%E5%9B%AD%EF%BD%9C%E7%8E%8B%E4%BA%9A%E9%9D%9E%EF%BC%9A/" target="cdt-mirror">胡适学园｜王亚非：警惕有的网站借任志强事件反党</a>
-</h2>
-<p><p>【转载】此文来自“”朋友圈，作者王亚非是安徽出版集团董事长，供朋友们参考：</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E6%B2%89%E7%9D%A1.jpg?resize=550%2C437" alt="沉睡" data-recalc-dims="1"></p>
-<p>最近，习近平同志针对有些媒体严重脱离人民群众，大搞假大空，对人民群众进行欺骗宣传，大事宣传极左思想的乱象，义愤填膺、斩钉截铁地指出，媒体要姓党。姓党的本质就是要姓人民。时时刻刻要代表人民说话，为人民呐喊，为人民鼓与呼，绝不充许媒体强奸民意。霸道地对人民群众发号施令。媒体姓党深刻地体现了我们党全心全意为人民服务的最高宗旨。做到了党性和人民性的完美统一。受到了庞大人民群众的热烈拥护。可是，任志强同志由于学习不够，未能深刻理解习近平同志媒体姓党的真正含义。以为姓党不是姓人民。以为我们共产党人除了人民的利益以外，还有自己的私利。因此就对媒体姓党提出了异议。他更多的是强调了媒体的人民性。以为媒体姓党就会冲淡媒体的人民性。显然，他是误解了习近平同志媒体姓党的真正含义。其实他们讲的是一个意思。就是要坚持媒体的人民性。任志强的错误，就是没有看到党性和人民性的一致性，只讲人民性，不讲党性。确实有失偏颇。当然，这也不能会怪任志强同志。我们的党也有犯错误的时候，使党性和人民性割裂开来，甚至对立起来。例如大跃进的时候，有人不尊重客观规律，头脑发热，左倾盲动，给祖国和人民带来了巨大的损失。当彭德怀等同志挺身而出，指出大跃进的错误的时候，又被打成了反党集团。这一切都是在讲党性的名誉下发生的，不充许任何人进行非议。这种假党性，哪里还有一点人民性的味道。后来的十年浩劫，完全是假党性猖獗，完全没有人民性。总之，只要是极左思潮在我党占了上风，我党的人民性就会受到极大的影响。难怪邓小平同志说，在改革开放的过程中，“要警惕右，但主要是防止左。”并告戒我们要坚持三个有利于，不要纠缠姓社还是姓资。可有些人总喜欢问姓社还是姓资。这就是党性和人民性都不强的表现。</p>
-<p>好了，扯得有点远了。现在再回来说任志强的事。在这件事情上，任志强同志是有错。同志们对他进行帮助和教育也是应该的。但个别自称姓党的媒体利用这件事大做文章，甚至攻击党，就未免显得恶毒了点。例如，某网站发表了一篇《谁给了任志强反党的底气》的文章。从这个标题就可以看出，作者是醉翁之意不在酒。他的矛头不是指向任志强的，而是指向这个“谁”。言下之意，这个“谁”就是任志强后台老板，就是他给了任志强的底气。我这样说是不是凭空臆造，曲解了作者的意思呢?绝不是的。请看他正文中的一句话有：一个半夜三更喜欢给领导打电话的任志强，究竟谁给了他跳出来推墙的“勇气”？就是这一句，十分恶毒，凡是看过任志强书的人，或是对任志强有所了解的人，都知道任志强半夜三更喜欢给谁打电话。在这里，作者只差点名了。其实已经变相点名了。这个谁是谁呢?就是身居高位，深受全国人民称赞的打虎英雄。在他的直接领导下，揪出了一个个贪官污吏，打死了一个个大小老虎。广大人民群众无不拍手称快。可这也得罪了不少腐败分子和既得利益者，他们对这个“谁“怕得要死，怕得要命，必欲除掉而快之。一有机会，他们就会进行反扑。这次借任志强的言论，故意想把火烧向最高领导层，真是胆大妄为。这不是明目张胆的攻击党，反对党又是什么？你以为你披上一件极左和假爱党的外衣我们就识破不了你了嘛，真是低估了人民的智慧。这正如毛泽东所说，一切狡猾的人，不照科学态度办实事的人，自以为得计，自以为很聪明，其实都是很愚蠢的。希望这个网站赶快收起你们这些反党的鬼把戏吧，免得在人民群众面前丢人现眼，自讨没趣。另外，这个网站如果没有幕后黑手的话，绝不敢写这样一篇攻击党的领导人的文章。后面一定还有代表贪腐势力的大人物。在此我们不禁要问：谁给了你们反党的底气？请老实交待。</p>
-<p>另外，此网站还有一篇文章《网友为何要给任志强上党课》。文章中有一句话也很成问题，认为任志强的言论是“党性的泯灭、人性的猖狂。”这种公然把党性和人性对立起来的做法也是完全错误的，甚至反动的。如前所述，党性的根本就是人民性。而人民是由一个个的人组成的。是人就必然有人性。我们共产党是时时刻刻代表人民利益的。因此是尊重、理解、支持、保护和讲人性的。绝不会只讲党性，不讲人性。不讲人性的人是不配做人的。只有希特勒的法西斯党才会不讲人性。不讲人性的党根本没有资格代表人民。不讲人性的人还有资格讲党性吗?人性一猖狂，党性就会泯灭吗?难道我们共产党是那么怕人性反人性的吗?希望你们这些没有人性的家伙千万不要把自己的意志强加于党。如果我们的媒体都象你们这样假姓党，我们的党早就被你们玩垮了。幸亏你们只是极少数不讲人性的。大多数共产党人还是讲人性的。你们说任志强同志是“党性的泯灭、人性的猖狂。”而我要对你们说，你们是党性人性都泯灭。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%83%A1%E9%80%82%E5%AD%A6%E5%9B%AD%EF%BD%9C%E7%8E%8B%E4%BA%9A%E9%9D%9E%EF%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%A2%86%E5%AF%BC%E5%9C%B0%E4%BD%8D/" target="cdt-mirror">博谈网｜中国经济放缓如何影响习近平的领导地位？</a>
-</h2>
-<p><p>（博谈网记者郑皓然编译报道）据《财富》（Fortune）杂志2月26日报道，情况可能变得很糟。</p>
-<p>随着中国开始向消费型经济转型的时候，外国企业可能更难进入中国市场。</p>
-<p>这个观点是美国‌‌“外交关系委员会‌‌”在周四的报告中提出的，报告的作者是罗伯特·布莱克威尔，亨利·基辛格和库尔特·坎贝尔。</p>
-<p>该报告的作者写道：‌‌“因为中国的经济正在放缓，（中国主席习近平的）对政治不稳定的恐惧可能促使他采取更严厉的措施，新的侵犯人权以及西方非政府组织和企业面临的新的挑战将导致中国与西方的关系出现新的摩擦。‌‌”</p>
-<p>作者写道，中国在过去十年经济的惊人增长一直让北京当局的政权稳定。但是，现在2016年预计的GDP增速将放缓至6.3%，中国的权贵和百姓或许会发现经济的转变令人不满意，从而造成社会动荡。</p>
-<p>根据报告的作者，习近平已经通过几个反腐败运动非常努力地巩固了自己的权力，他可能会更进一步，‌‌“加强个人崇拜，更严厉地打击异见人士，更大胆地利用反腐败运动打击反对他的权贵阶层。‌‌”</p>
-<p>为了保护他的地位，习近平‌‌“最有可能激发和加强中国的民族主义—这一直是北京合法性的一个支柱—来弥补经济放缓的政治损害，来转移公众注意力，来制止可能利用民族主义批评对他进行打击的对手，以及打造他自己的形象。‌‌”</p>
-<p>北京当局的公信力已经被中国股市在2015年和2016年1月的暴跌而损坏。这个问题，与对官方统计的广泛不信任加在一起，将提出一个习近平如何计划将中国的增长型经济转变为较慢的，消费型经济的问题。</p>
-<p>报告作者写道：‌‌“对中国经济和对习近平命运的真正风险，不来自于股票对实体经济的影响，而是来自对政府公信力的损害。习近平面临的声誉挑战和经济障碍在未来几年内不会减弱。‌‌”</p>
-<p>阅读原文：How China’s Slowing Economy Could Change Xi’s Leadership</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%A2%86%E5%AF%BC%E5%9C%B0%E4%BD%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +714,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +724,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

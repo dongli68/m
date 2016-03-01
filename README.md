@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%AE%9C%E5%AE%BE%E4%B8%80%E4%B8%AA%E5%B8%85%E6%B0%94%E7%9A%84%E7%94%B7%E8%AE%B0%E8%80%85%E8%A2%AB%E4%B8%AD%E5%A4%AE%E7%BD%91%E5%AE%89%E7%82%B9/" target="cdt-mirror">【异闻观止】宜宾晚报社记者毛开云被中央点名表扬</a>
+</h2>
+<p><p>原标题：发声弘扬主旋律 亮剑传递正能量<br>
+——记宜宾晚报社新闻部主任毛开云</p>
+<p>2月3日，中央网安领导小组办公室专门给宜宾市委宣传部发来感谢信，对我市宜宾晚报社记者毛开云同志积极参与全国网上评论引导工作予以表扬。感谢信说，2015年，毛开云同志积极参与网上评论引导，弘扬主旋律，传递正能量，敢于发声亮剑，勇于进行网上意识形态斗争，围绕揭露真相、批驳谣言、澄清事实等做了大量卓有成效的网评工作，为清朗网络空间、促进网络生态向善向好贡献了智慧和力量。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/link.jpg?resize=600%2C382" alt="link" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/link.jpg?resize=300%2C191 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/link.jpg?w=710 710w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>从教师到记者，从记者到编辑，从写新闻稿到写评论稿，从传统媒体的“老兵”到熟练运用新媒体，宜宾晚报社新闻部主任毛开云的每一步都走得很实在……</p>
+<p><strong>一路汗水 挑战自我</strong></p>
+<p>1989年，毛开云从高县师范学校毕业，先后在宜宾县横江镇张窝初中、普安镇冠英初中、普安初中、宜宾县育才职业高级中学任教12年。教学成绩突出。教学期间，多次获得先进教师、优秀德育工作者等称号。照理说，毛开云的教书生涯顺风顺水，按照正常的生活路线，他可能会一直站在三尺讲台，教书育人。而事实并非如此，2002年，《宜宾晚报》创刊，毛开云以文考第一、总分第二的成绩公选考入宜宾晚报社。</p>
+<p>“纯粹是因为爱好，在教书时我就会向各类报刊投稿。”毛开云说起进入宜宾晚报社的缘由时，“爱好”一词被反复提及，尽管在外人看来，教师是一份“铁饭碗”的工作，但毛开云却对写作情有独钟，时时关注着媒体类工作的招聘，最终在2002年考入宜宾晚报社。在10余年的记者生涯中，毛开云的作品，多次获得全国地市报新闻奖、四川省新闻奖、宜宾新闻奖等荣誉。“当了10多年的记者编辑，我收获最大的就是开阔了眼界。”毛开云说，在写作编辑的过程中，在领导同事的帮助下，不断提高着自身的文化素养，才出现了好的作品。</p>
+<p><strong>发声亮剑 获得赞赏</strong></p>
+<p>2011年，毛开云开始写网评文章，目前在光明网、中国网等十余家网站建有个人文集，发表稿件数千篇，已有时评文章发表于《人民日报》《光明日报》《中国青年报》《新京报》《新华日报》《四川日报》等中央和省级报纸以及全国百余家地市报刊、杂志上。获得光明网2013年度十大新锐评论员、2015年度精英博主，全国多家网站“十佳网评员”、“优秀网评员”等荣誉，网评作品被河南省委宣传部评为优秀网络文章三等奖，获得湖北省新闻奖三等奖……</p>
+<p>近年来，无论是紧跟时事热点的“9.3”阅兵系列时评、习大大访美、访英系列时评，还是《大病医保需过三道坎》、《规范“人情往来”应有“人情味”》等群众所关心的医保、人情等民生问题，毛开云的作品似乎都在发声弘扬主旋律，充满正能量，并为此获得和方面的肯定和赞赏。目前，由国家互联网信息办公室指导，中国互联网发展基金会主办，人民网、环球网、中国新闻网、央视网、中国青年网5家中央重点新闻网站承办的2015年度“五个一百”网络正能量精品评选活动中，毛开云入围“百名网络正能量榜样”初评，其作品入围“百篇网络正能量文字作品”初评。</p>
+<p><strong>多方支持 成就“大V”</strong></p>
+<p>“我取得的成绩离不开各级领导的帮助和支持。”毛开云说。《宜宾晚报》长期开设“酒都夜话”栏目和“评论”专版，成为毛开云工作的练兵场，而在2013年12月，宜宾晚报社为支持毛开云的评论工作，经总编办公会讨论后特设评论部。同时，宜宾晚报社对于毛开云参加的各类脱产学习大开绿灯，在生活和学习上给予保障。</p>
+<p>在多方支持之下，毛开云在做好本职编辑工作之余，还坚持写了5年的博客，在新华网、人民网、凤凰网、新浪网等多家网站开有博客，凤凰博客点击量超过5700万，新华博客点击量超过3400万。多次入围新华网、人民网、凤凰网的“年度人物”“十大网友”“十佳写手”评选候选名单。</p>
+<p>正如毛开云所言，“让自己的生活充实点”，这样的充实表现在作品中，充满了生活的温度，传递着满满的正能量。</p>
+<p>宜宾日报记者 罗友莉</p>
+<p>来源：宜宾新闻网</p>
+<p><strong>另附：</strong></p>
+<p>毛开云：任志强是8000多万党员的耻辱</p>
+<p>据新华社消息，截至2015年底，中国共产党党员总数为8779.3万名。在这8000多万名党员中，任志强是其中一员。然而，像任志强这样的人是8000多万党员的耻辱。</p>
+<p>从任志强的简历来看，任志强出生在高干家庭，经历过11年的军旅生涯，而且在从军生涯中表现优异，入党提干。按理说，任志强应该对党充满感激，对自己的党员身份充满自豪。然而，任志强作为党员，而且是优秀党员，却不知党性是什么，不知党性和人民性一直以来都是统一的，不知党员要努力提高党性修养，不知党员干部要始终与党中央保持高度一致。不仅如此，任志强还时时处处抹黑党、污蔑党，与党中央唱反调，就连习近平总书记强调“党媒姓党”这个常识，任志强也要狗急跳墙出来乱嚷，真不知任志强是什么党的党员。网上很多人要求任志强退党，希望党组织把任志强从8000多万名党员中开除出去，不知任志强知道后作何感想?</p>
+<p>任志强是典型的“红二代”，是在党的阳光雨露下成长起来的，是在党的英明领导和正确的路线方针政策指引下发家致富的。俗话说，吃水不忘挖井人，但任志强是一个忘恩负义的人——既不知道自己从哪儿来的，也不知道自己要到哪儿去，1951年出生的任志强已经退休，这个时候还不明白人生的道理，说明任志强已经病入膏肓。很多年来，任志强都不知道自己走在一条什么样的道路上，在商言商固然可以，但任志强的那些房地产言论，既让官方大为光火，也让百姓“走投无路”，任志强老鼠钻风箱——两头受气，怪谁呢?特别是最近两年，任志强先叫板团中央——声称被“我们是共产主义接班人”的口号骗了十几年，再与党中央对着干——叫嚣“人民政府啥时候改党政府了?花的是党费吗?”纵观任志强走过的路，本应是一条阳光道，而任志强偏偏要走独木桥，而且大有一条黑路走到底的意味，人们不禁要问：任志强怎么了?对得起自己的“红色老爹”“红色家庭”吗?“红色家庭”咋能出这样的败类?</p>
+<p>近年来特别是十大八以来，中央出台了很多制度和规矩，尤其强调政治规矩和政治纪律，强调党纪严于国法，强调党员就应该不同于普通人。然而，任志强利用自己政协委员和大V的身份，不断发出反动言论，什么“我们的责任就是推墙，建立(台湾式的)社会民主制度”，什么“八荣八耻一出来我们就应该反对它。我认为八荣八耻一条都不符合现代的价值”等等，妖言惑众，蛊惑人心。尤其是习近平总书记发表关于新闻舆论工作的讲话后，任志强丧失党性甚至人性、理想信仰宗旨动摇和践踏公共道德底线的本性暴露无遗，因而遭到官方和民间一致口诛笔伐。这或许是任志强没有想到的，但这更是任志强的报应和应该有的结果。</p>
+<p><strong>朝闻道，夕死可矣。可悲的是，面对《谁给了任志强反党的底气?》《网友为何要给任志强上党课?》《任志强，你把那条党章“吃掉”了吗?》《对不起，我不愿意称任志强“同志”》等一篇篇战斗檄文，任志强不仅不知错，居然还要咨询法律专家，要与这些文章的作者、发表这些文章的网站、这些网站的主管部门打官司。然而人们实在不知道：任志强告作者、告网站、告网站主管部门什么呢?完全是瞎胡闹，最终结束有可能是，任志强自己把自己送进大牢!</strong></p>
+<p>想起法国喜剧作家博马舍的一句名言：“一切都在歌声中结束。”但是，对照任志强的所作所为，任志强的结束很有可能不是在歌声中，而是在人们的一声叹息中——叹息任志强从8000多万党员中被开除出去，叹息任志强可能受到法律的伺候，叹息可以安享晚年的任志强落得如此悲催的下场！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%AE%9C%E5%AE%BE%E4%B8%80%E4%B8%AA%E5%B8%85%E6%B0%94%E7%9A%84%E7%94%B7%E8%AE%B0%E8%80%85%E8%A2%AB%E4%B8%AD%E5%A4%AE%E7%BD%91%E5%AE%89%E7%82%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%BC%80%E4%BA%91/?category=18271" rel="tag">毛开云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5-%E5%BD%B1%E5%B8%9D%E5%B0%8F%E6%9D%8E%E5%AF%B9%E8%AF%9D%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%BF%B7%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%95%A5%E5%8F%AF/" target="cdt-mirror">三表龙门阵 | 影帝小李对话中国影迷：你们有啥可乐的？</a>
+</h2>
+<p><p>以「压根不像」为最大看点的三表龙门阵又来了。今天模仿的当然是苦尽甘来的新科奥斯卡影帝。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A.png?resize=549%2C277" alt="莱昂纳多" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/莱昂纳多.png?resize=300%2C151 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/莱昂纳多.png?w=549 549w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>3Q ！ 3Q ！感谢光荣伟大的民主党，感谢奥巴马总统，感谢美国电影协会。感谢支持我的中国粉丝，请留下你们的邮箱，《荒野猎人》的种子我会一一发送给大家，好人一生平安，1024！！</p>
+<p>我还要感谢中国的一位西方哪个国家都去过的长者，如果没有他，《泰坦尼克号》就不会进入中国，你们也不会有机会看到美人的裸体和香艳的船震。有个中国粉丝告诉我，学了三年高中生理课，都不如一部《泰坦尼克》启蒙作用大。</p>
+<p>令我惊讶的是，作为R级影片《荒野猎人》可能不会在贵国公映，我之前的很多影片都没有公映，《被解放的XX》更是上映了一半又被撤下了。即使这样，你们还疯狂刷屏，我真是不知道你们有什么可高兴的。</p>
+<p>当你被禁止看到他的作品，或者看残缺的作品，还对这个演员抱有如此大的热情和期望，只能说明，人们的文艺之心不死，对美丽精神世界的向往，是任何墙都阻挡不了的。</p>
+<p>感谢那个稍显开放的时代，我作为毛头小子能被那么多中国人记住。感谢互联网、感谢种子、感谢云盘、感谢字幕组，让你们跨过阻碍知道那个帅气小子如今成为走到了奥斯卡殿堂的实力男人。</p>
+<p>我还要感谢奥巴马总统，他曾经教导我们文艺工作者：要创作生产出无愧于我们这个伟大民族、伟大时代的优秀作品。《荒野猎人》就是一部全面展现美国人与天斗、与地斗的革命浪漫主义情怀的作品。它深刻挖掘了我们美利坚民族独有的拼搏、冒险精神，凝结了一代又一代美国人对于「美国梦」的执着追求。</p>
+<p>以前我走过不少弯路，《华尔街之狼》展现了资本主义的腐朽与人性的泯灭；《了不起的盖茨比》大肆宣扬消费主义、享乐主义，里面还有大量情色等低俗片段；《无间道风云》更是一部向东方文化低头，毫无原创精神的暴力之作。反思我这几年的创作，都背离了以人民为中心的创作导向。只有贴近人民，才能创作出有道德、有温度的文艺作品。直到今天，我才能无愧于「人民艺术家」这个荣誉。</p>
+<p>我能获奖，除了注重和人民的血肉联系，主动贴近主旋律之外，就是坚持、坚持、坚持不减肥。嫩模靠美图，网红靠颜值，影帝靠的是实力！在你们东方有位叫马云的哲人说过：骆驼走得慢，但终能走到目的地。最近听说在贵国，自媒体要地震了，你们不要怕，我被封杀过、被下架过、被嘲笑过，依然站在了这里，靠的是什么？是作品！如果你知道去哪，世界都会为你让路！加油，我的中国朋友，再次感谢！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5-%E5%BD%B1%E5%B8%9D%E5%B0%8F%E6%9D%8E%E5%AF%B9%E8%AF%9D%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%BF%B7%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%95%A5%E5%8F%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">人民艺术家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A/?category=18271" rel="tag">莱昂纳多</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-129/" target="cdt-mirror">【河蟹档案】习禁评</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -652,57 +707,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%98%8E%E5%A0%B1%E9%BB%8E%E8%9D%B8%E8%97%A4%EF%BC%9A%E8%A2%AB%E8%AA%87%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%B8%AD%E5%BF%83%E8%AB%96-%E9%A7%81%E9%84%AD%E6%B0%B8%E5%B9%B4/" target="cdt-mirror">明報|黎蝸藤：被誇大的中國中心論—駁鄭永年</a>
-</h2>
-<p><p>【明報專訊】新加坡國立大學的鄭永年教授的〈如何實現東亞的持久和平〉首先讚美了中國為中心的朝貢體系，雖然承認它是不平等的，但又把東亞（註 1 ）的長期的和平歸功於朝貢體系；進而認為，將來東亞和平也要由以中國為中心，回復到「自然」的狀態。作為一個在外國的學者，本來應該跳出中國中心的思維更加全面客觀地看問題，可惜他卻顯得比中國官方更官方，這是十分遺憾的。 </p>
-<p>朝貢體系不包括東南亞 </p>
-<p>鄭的論點很大程度上基於不正確的歷史詮釋，尤其是對朝貢體系的誤讀以及對中國在東亞歷史上的作用的誇大。 </p>
-<p>朝貢體系的「優越性」在西方學者中也有系統的論述，以 Kang 的著作為代表（註 2 ）。但在 Kang 的努力論證中，也只能把朝貢僅局限於「中國文化圈」，即包括中國本部、朝鮮、日本和越南，不包括東南亞。而就算針對中國文化圈的分析也存在問題：中國礙於實力無法攻擊日本（元朝侵略日本被擊退了，後來倒是有倭寇之禍），而中國歷史上曾經多次侵略越南，但被越南一一擊敗了，不再侵略是實力使然；真正中國（可能）有能力征服但主動保持和平的朝貢關係的就只有朝鮮（註 3 ）。如此結構簡單的國際關係，還有這麼多的例外，可見這個結論的局限性。 </p>
-<p>花錢買虛榮 談何犧牲利益？ </p>
-<p>把它應用在東南亞，問題就更大了。東南亞各國（除越南）並不屬於中國文化圈，而是先屬於印度文化圈，再伊斯蘭化，再被西方殖民。整個區域的總體發展過程和中國沒有太直接的關係。東南亞各國和中國所謂的朝貢關係是虛的，實際上是其他國家以向中國表示低姿態而換取和中國貿易的手段（註 4 ）。鄭永年說「中國以犧牲自己作為一個大國的利益來維持區域秩序」，我不清楚他所指的「犧牲的利益」是什麼，如果是指賞賜品的價值高於朝貢的價值的話，那是「特有面子」的花錢買虛榮，各取所需，談何犧牲利益？ 我猜想，鄭永年可能指中國放棄了對東南亞的侵略，故此說是犧牲大國的利益：「數百年裏，中國沒有產生出類似近代以來西方那樣的帝國主義和殖民地主義。中國周邊那麼多小國，沒有一個成為中國的『殖民地』。」 </p>
-<p>若如此又是罔顧歷史。事實上，除了多次從陸地上侵略越南之外，中國歷史上基本不存在侵略東南亞的實力（當然也似乎很少這麼想過）。一提到中國古代的海上實力，自然又會翻出鄭和下西洋的壯舉。但鄭和時代的海軍即便有能力攻擊東南亞國家，亦難言必定能征服它們。就在 100 年前，以蒙元的強大，對占城和爪哇的海上入侵也以失敗告終，怎能說鄭和時代的明朝就一定能打下東南亞呢？鄭和之後，中國海軍極為衰弱，沿岸海防尚且不足（以致長期的倭患），更不具備遠征攻打東南亞的能力了。 </p>
-<p>與此脗合的另一個事實是，歷史上東南亞的和平也不是依靠中國來維持的。中國對東南亞「藩屬」的安全從不過問。既不去調解它們之間的矛盾與戰爭，也不去管它們被外來勢力侵略的事。比如， 16 世紀初，馬六甲遭受葡萄牙人侵略，向中國明朝皇帝求援時，明朝置之不理，導致馬六甲蘇丹被滅。馬六甲和明朝的關係算是不錯的，連國王都親自到訪過中國。中國對此尚且不聞不問，更不要說其他國家了。總之，在東南亞地區的政治上，中國既沒有能力征服，又沒有承擔過任何「大國責任」，不過是花錢買虛榮心而已。 </p>
-<p>恢復東亞「中國中心」秩序屬偽命題 </p>
-<p>故中國儘管在近代衰落，但並沒有在東南亞「喪失地緣利益」：中國古代和近代在東南亞本來就沒有什麼地緣利益，何來喪失一說？中國到 20 世紀初為止，在東南亞的地緣利益都止於海南島。最多勉強算上越南，但 1860 年代被法國擊敗之前，越南的海軍比中國還強盛，很難說越南是中國的勢力範圍。 總之，所謂「朝貢體系維護了東亞和平」是一個不成立的理論，它並沒有在東亞的安全體系中起到過重要作用。故鄭永年所強調的恢復東亞原先的「中國中心」的秩序是一個偽命題。那是一個想像中的秩序，而不是真實存在過的秩序。 </p>
-<p>中國擴張主要在陸地 不在海上 </p>
-<p>為論證「中國中心」的合理性，鄭永年進而強調「中國中心」下的和平。他認為中國沒有產生「西方那樣的帝國主義和殖民地主義」。礙於篇幅，無法深入討論。但事實上，中國儘管沒有「西方式的殖民主義」，卻有與俄羅斯類似的「東方式的帝國主義」，那就是中國對內亞的侵略和擴張，甚至「留土不留人」的種族滅絕政策（註 5 ）。中國不認為這種擴張是殖民主義，但從很多角度看，其對本土人民的殘酷程度和後果有過之而無不及。而在海外，中國唯一有能力擴張的地方就是台灣。有學者認為，清朝對台灣的兼併與西方的拓殖殖民主義類似（註 6 ）：中國在台灣的拓殖，時間上在荷蘭和西班牙在台灣殖民之後，也比英國在北美拓殖要晚；漢人拓殖的方式也和西方人相似，通過侵佔原住民的土地而建立漢人的社區。 </p>
-<p>因此，鄭永年所說的「中國維護東亞和平」的觀點，也是站不住腳的。事實上，中國在歷史上表現出很強的擴張欲望。但作為一個傳統的陸權國家，擴張主要在陸地而不在海上，這樣確實誤導了一些人。 </p>
-<p>註 1 ：鄭沒有定義「東亞」的範圍，但鑑於他一直談論南海，我認為他指的東亞也包括東南亞<br>
-註 2 ： David C. Kang, East Asia Before the West<br>
-註 3 ：隋唐和滿清未滅明之前也侵略過朝鮮，這裏集中討論明清時期<br>
-註 4 ：可參見葛劍雄《統一與分裂》<br>
-註 5 ： Peter C. Perdue, China Marches West: The Qing Conquest of Central Eurasia<br>
-註 6 ：李筱峰〈台灣史哪個階段不殖民？〉 </p>
-<p>作者是歷史學者</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%98%8E%E5%A0%B1%E9%BB%8E%E8%9D%B8%E8%97%A4%EF%BC%9A%E8%A2%AB%E8%AA%87%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%B8%AD%E5%BF%83%E8%AB%96-%E9%A7%81%E9%84%AD%E6%B0%B8%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%BF%83/?category=18271" rel="tag">中国中心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%99%E6%96%87%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">沙文主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%91%E6%B0%B8%E5%B9%B4/?category=18271" rel="tag">郑永年</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%90%91%E6%A0%87%EF%BC%81/" target="cdt-mirror">东网｜老徐：如何处理任志强将成为一个风向标！</a>
-</h2>
-<p><p>任志强，一个 65 岁的退休老头，在位时不断口出狂言，搅得地产界、财经界甚至整个社会跟着翻跟头。如今他因为相关言论，又一次站在了舆论的风口浪尖上。不过，这一次跟以往截然不同，有关官方媒体已经把问题上升到了「反党」的高度，甚至使用当年的「文革」语言攻击任志强。也有一些支持他的人，引经据典予以反驳，网络上泾渭分明地分成了两派。更有一些捕风捉影的自媒体文章，故弄玄虚地把这件事联系到高层政治斗争，一时间任志强这个名字被刷爆了朋友圈。</p>
-<p>当局打倒一个「任大炮」简单，打倒他 3000 多万粉丝的意志却没那么容易。</p>
-<p>2 月 26 日，国家网信办公布了对一批违法违规网站、公众账号、网络大 V 的处理结果，其中 @ 演员孙海英等 7 名网络大 V 账号被关闭。这 7 个人里并没有任志强。做为在新浪微博有着 3700 多万粉丝的网络大 V ，他的微博自从 2 月 25 日早上 7:15 最后一条微博之后，就再没有更新。显然他的微博正处于暂停更新的阶段。从目前网络上的导向看，批判谴责任志强的文章铺天盖地，支持他的文章不是被删除就是被屏蔽，官方的态度已经一目了然。下一步，公众最为关注的是：任志强将会被怎样处理？</p>
-<p>根据以往的经验，任志强这次的结果不外乎有这么几个：一是被开除出党，全网封杀销号，彻底消除他在网络上的影响力。这个结果，是体制内很多人以及「左」派最愿意看到的。但是，近十几年来，对于体制内有影响力的人，因不同观点而被开除党籍，应该说这将是第一例。所以当局会慎之又慎，不会轻举妄动；二是维持现状。从目前的态势看不太可能；三是让任志强本人自动退党。这也是下策，况且依照任本人的个性，他自己也不会接受；四是大事化小，不激化矛盾，依据党内条例诫勉谈话，顶多给个党内纪律处分。保留微博账号，但需本人做出严格承诺，不再就热点事件发声。</p>
-<p>我个人认为第四种情形最有可能，不搞轰轰烈烈运动式的整人，低调淡化处理，对于执政当局和任本人都属于上策。不过，不管如何处理任志强，未来他都将会从公众视野中逐渐消失，或者在商言商，或者风花雪月，反正不会再关注政治。这件事也将会成为一个风向标，至少体现在三个方面：第一是否坚持依法治国？第二是否坚持从严治党？党内的事情党内解决，决不能搞全社会的大批判；第三是否自媒体在受到严厉管控之后，网络变得万马齐喑，死水一潭？</p>
-<p>其实，打倒一个「任大炮」简单，打倒他 3000 多万粉丝的意志却没那么容易。网络大 V 之所以拥有巨大的影响力和号召力，敢说真话是他们共同的特点。他们的影响力，源自他们真实的声音。他们的众多粉丝，都是自发关注形成的，是民意的一种选择和升华。注意倾听他们的理性声音，某种程度上就是倾听民意，至少是部分民意。<br>
-如果一边是敢言人士的被禁声、被批判，而另一边是阿谀奉承、马屁拍得山响的人渣的名单在加长，舆论生态不断出现令人担忧的恶化趋势，因言获罪或者因言而飞黄腾达的极端现象愈演愈烈，那么就难免让人感觉是「文革」死灰复燃了。与民意为敌，只能是掩耳盗铃。尽管能得到一时的表面平静，但却孕育着长久的地狱之火。长此以往，必定失去民心。这也许就是任志强事件能成为风向标的最关键的一点。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%B0%86%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%90%91%E6%A0%87%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -714,7 +718,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -724,5 +728,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E4%BA%AC%E8%A5%BF%E5%9F%8E%E5%8C%BA%E5%A7%94%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA-%E5%8D%8E%E8%BF%9C%E5%8F%91%E6%96%87/" target="cdt-mirror">南华早报｜京西城区委将严肃处理任志强 华远发文严控意识形态</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%A5%BF%E5%9F%8E%E5%8F%91%E5%B8%83.png" rel="attachment wp-att-430500"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%A5%BF%E5%9F%8E%E5%8F%91%E5%B8%83.png?resize=500%2C302" alt="北京西城区委发布的微博无法评论、转发" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=300%2C181 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=768%2C464 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=1024%2C618 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?w=2018 2018w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>北京西城区委发布的微博无法评论、转发／微博截图</p></div>
+<p>（南早中文网讯）任志强微博被关事件继续发酵。北京西城区区委发通知称，要对任志强“按照党纪作出严肃处理”。任志强曾执掌的华远集团日前发布了《关于加强意识形态工作的意见》，禁止员工妄议中央、诋毁污蔑领导人、传播政治谣言等。</p>
+<p>华远集团为北京市西城区国企。任志强质疑“党媒姓党”论之后，首先公开批判任志强“反党”的，是北京市委宣传部主管的“千龙网”。</p>
+<p>2月28日，国家网信办责令新浪、腾讯等网站关闭任志强的微博账号，指任志强长期发布违法信息，影响恶劣，但并未指明具体涉及什么信息。之后，更多官方机构和媒体加入批判任志强的行列，提法也越来越严重，包括指他是吃饭砸锅的先富起来党员、是颠覆社会主义制度谋求西方宪政的代表等。</p>
+<p>昨晚（2月29日）9时02分，“北京西城”官微发布消息称，当天，西城区委下发《关于正确认识任志强严重违纪问题的通知》。</p>
+<p>通知指，任志强作为一名共产党员，在网上持续公开发布违法信息和错误言论，并产生恶劣影响，严重损害了党的形象。作为一名党员，任何公开发表的与党的路线方针政策不一致的言论，不论在互联网上，还是其他媒体上，都是党的纪律所不允许的。区委将严格按照《中国共产党纪律处分条例》，对任志强作出严肃处理。</p>
+<p>但这份通告并未说明所谓“严肃处理”是什么。</p>
+<p>西城区委还表示，要求全区广大党员引以为戒，牢固树立纪律和规矩意识，特别是严守政治纪律和政治规矩，把自觉维护党的团结统一作为职责和使命，坚决同任何违反党的纪律的言行作斗争。</p>
+<p>这条微博昨晚发出之后不久即禁止转发。</p>
+<p>目前华远集团官方网站上的“集团公告”栏中正滚动一份“中共华远集团有限公司委员会文件华党字[2016]05号华远集团有限公司党委关于加强意识形态工作的意见”，文件底部显示，发出日期是“2016年2月23日”——正是北京千龙网发布第一篇批任志强“反党”的文章翌日。</p>
+<p>2月19日，中共总书记习近平先后到访人民日报社、新华社和中央电视台，提出党和政府主办的媒体必须姓党。对此，任志强发表了两条微博。一条说，“人民政府啥时候改党政府了？花的是党费吗？”任志强还指，“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p>
+<p>华远集团的这份文件规定了“九项禁止”，包括禁止公开坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策；禁止妄议中央大政方针，破坏党的集中统一；禁止丑化党和国家形象，或者诋毁、诬蔑党和国家领导人，或者歪曲党史、军史；禁止在党内组织秘密集团或者组织其他分裂党的活动；禁止擅自对应当由中央决定的重​​大政策问题作出决定和对外发表主张等。</p>
+<p>如有违反，则会依《中国共产党纪律处分条例》进行处理。</p>
+<p><strong>禁止组织、参与的具体活动如下：</strong></p>
+<p>1、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策的文章、演说、宣言、声明等。发布、播出、刊登、出版以上文章、演说、宣言、声明等，或者为上述行为提供方便条件；</p>
+<p>2、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表违背四项基本原则，违背、歪曲党的改革开放决策，或者其他有严重政治问题的文章、演说、宣言、声明等；妄议中央大政方针，破坏党的集中统一的；丑化党和国家形象，或者诋毁、诬蔑党和国家领导人，或者歪曲党史、军史的。发布、播出、刊登、出版以上所列内容或者为上述行为提供方便条件；</p>
+<p>3、制作、贩卖、传播第1、2条所列内容之一的书刊、音像制品、电子读物、网络音视频资料；</p>
+<p>4、私自携带、寄递第1、2条所列内容之一的书刊、音像制品、电子读物等入出境；</p>
+<p>5、组织、参加反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策的集会、游行、示威等活动，或者以组织讲座、论坛、报告会、座谈会等方式，反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策，或者以提供信息、资料、财物、场地等方式支持上述活动者；</p>
+<p>6、组织、参加旨在反对党的领导、反对社会主义制度或者敌视政府等组织的；</p>
+<p>7、在党内组织秘密集团或者组织其他分裂党的活动的；</p>
+<p>8、擅自对应当由中央决定的重​​大政策问题作出决定和对外发表主张的；</p>
+<p>9、在国（境）外公开发表反对党和政府的文章、演说、宣言、声明等的，或故意为上述行为提供方便条件的；</p>
+<p><em>意见全文如下：</em></p>
+<p><strong>中共华远集团有限公司委员会文件华党字[2016]05号</strong></p>
+<p><strong>华远集团有限公司党委关于加强意识形态工作的意见</strong></p>
+<p>一、执政党的意识形态工作，对于党组织、动员和引导民众，赢得民众更广泛的认同，协调、整合社会利益关系，战胜敌对势力、维护国家和人民利益都具有十分重要的意义。抓好意识形态工作，事关党的前途命运，事关国家长治久安，事关民族凝聚力和向心力。一个国家如果失去了意识形态领域内统一的指导思想，出现了意识形态的安全危机，整个社会就会陷入一盘散沙，国家自身的安全也就无法保障，党的执政地位也无法巩固。</p>
+<p>二、各级党组织要牢固树立政治意识、大局意识、核心意识、看齐意识、首善意识、红墙意识，对意识形态工作负总责，履行好把握正确方向、部署指导工作、加强督促检查、抓好队伍建设等责任，牢牢掌握意识形态工作的主动权。要充分发挥宣传思想文化工作的思想引领作用、舆论推动作用、精神激励作用、文化支撑作用，增强干部职工对中国特色社会主义道路自信、理论自信、制度自信，为实现“两个一百年”奋斗目标和中华民族伟大复兴中国梦提供强大的精神动力和智力支持。</p>
+<p>三、每个共产党员都要不断增强党性观念和纪律意识，认真学习马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想和科学发展观，贯彻执行党的基本路线和各项方针、政策，自觉遵守党的纪律，自觉维护党的团结和统一，在生产、工作、学习和社会生活中起先锋模范作用。</p>
+<p>四、禁止组织、参与下列活动：</p>
+<p>1、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策的文章、演说、宣言、声明等。发布、播出、刊登、出版以上文章、演说、宣言、声明等，或者为上述行为提供方便条件；</p>
+<p>2、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表违背四项基本原则，违背、歪曲党的改革开放决策，或者其他有严重政治问题的文章、演说、宣言、声明等；妄议中央大政方针，破坏党的集中统一的；丑化党和国家形象，或者诋毁、诬蔑党和国家领导人，或者歪曲党史、军史的。发布、播出、刊登、出版以上所列内容或者为上述行为提供方便条件；</p>
+<p>3、制作、贩卖、传播第1、2条所列内容之一的书刊、音像制品、电子读物、网络音视频资料；</p>
+<p>4、私自携带、寄递第1、2条所列内容之一的书刊、音像制品、电子读物等入出境；</p>
+<p>5、组织、参加反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策的集会、游行、示威等活动，或者以组织讲座、论坛、报告会、座谈会等方式，反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策，或者以提供信息、资料、财物、场地等方式支持上述活动者；</p>
+<p>6、组织、参加旨在反对党的领导、反对社会主义制度或者敌视政府等组织的；</p>
+<p>7、在党内组织秘密集团或者组织其他分裂党的活动的；</p>
+<p>8、擅自对应当由中央决定的重​​大政策问题作出决定和对外发表主张的；</p>
+<p>9、在国（境）外公开发表反对党和政府的文章、演说、宣言、声明等的，或故意为上述行为提供方便条件的；</p>
+<p>五、党员违反第四条之规定，依《中国共产党纪律处分条例》进行处理。</p>
+<p>六、各级党组织要认真传达学习中央宣传工作会议和党的新闻舆论工作座谈会精神，自觉维护党中央权威、维护党的团结，自觉做到爱党、护党、为党，以高度的政治责任感抓好意识形态领域各项工作：</p>
+<p>1、加强公司网站、内部刊物、公司官方微博微信的管理，严把稿件质量关，防止出现政治导向方面的问题；</p>
+<p>2、加强对会议室、演播厅等公共场所的管理，凡组织者、参与者、会议主题不清的一律不得出借；</p>
+<p>3、教育党员职工严守国家法律法规，不得利用自媒体编造、传播政治谣言，丑化党和国家形象；不得妄议中央大政方针，破坏党的集中统一。</p>
+<p>中共北京市华远集团有限公司委员会</p>
+<p>2016年2月23日</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E4%BA%AC%E8%A5%BF%E5%9F%8E%E5%8C%BA%E5%A7%94%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA-%E5%8D%8E%E8%BF%9C%E5%8F%91%E6%96%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E6%84%8F%E8%AF%86/?category=18271" rel="tag">核心意识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">言论审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%AE%9C%E5%AE%BE%E4%B8%80%E4%B8%AA%E5%B8%85%E6%B0%94%E7%9A%84%E7%94%B7%E8%AE%B0%E8%80%85%E8%A2%AB%E4%B8%AD%E5%A4%AE%E7%BD%91%E5%AE%89%E7%82%B9/" target="cdt-mirror">【异闻观止】宜宾晚报社记者毛开云被中央点名表扬</a>
 </h2>
 <p><p>原标题：发声弘扬主旋律 亮剑传递正能量<br>
@@ -682,31 +738,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%AF%B7%E6%8F%AD%E9%9C%B2%E6%9B%B4%E5%A4%9A%E8%97%8F%E4%BA%BA%E7%9C%9F%E7%9B%B8/" target="cdt-mirror">德国之声｜长平：请揭露更多藏人真相</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/03/11188.jpg?resize=514%2C402" alt="西藏" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/03/11188.jpg?resize=300%2C235 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/03/11188.jpg?w=519 519w" sizes="(max-width: 514px) 100vw, 514px" data-recalc-dims="1"></p>
-<p>“中国爱国网友”真忙，围攻了黄秋生、杜汶泽、何韵诗、卢凯彤等“港独艺人”，林宥嘉、周子瑜等“台独艺人”之后，现在又要忙着与“支持藏独”的艺人作战。这些艺人中，不仅有早已经被揭露与达赖喇嘛合影的李连杰，还有新近发现与“达赖集团两核心头目”坐在一起的王菲、梁朝伟和胡军等人。</p>
-<p>正如“中国西藏网”一篇批评这些艺人的文章所披露的，艺人明星去印度参加佛教活动或者支持藏独“并非没有前科”：王菲、刘嘉玲、梁朝伟、赵薇等人已多次前往，莎朗•斯通、比约克、朱莉娅•罗伯茨、布拉德•皮特、安吉丽娜•朱莉、李察•基尔等等明星更是态度鲜明。让更多中国人知道他们的言行，了解政治与宗教都存在多元选择，而不是像央视宣传的那样，不肯顺从中共就“不得人心”，是一件好事情。</p>
-<p>胡军已通过微博发表声明，承认春节期间携家人赴印度参加新年祈福法会，但是不知道“有所谓的分裂集团头目在场”，表示“作为一名中国人，我坚决反对一切分裂国家的言论和行为”。即便不知道“分裂集团头目”在场，一个信奉佛教而且前往印度参加法会的人，不可能不知道达赖喇嘛在佛教信众中的尊崇地位。这种声明显然是在压力之下发出的。“爱国网民”还在期待王菲就范。他们以为这是“人民群众的巨大力量”，实在是一种自欺欺人的误会。这些明星所怕的，是权力部门的打压。他们知道，掌握包括网络在内的媒体批评权力的，并非普通的网民，而是党的宣传部门。</p>
-<p>流亡中的民主政府</p>
-<p>遗憾的是，中共宣传部门掌控的媒体，对这些事件及其背景“揭露”得太少了。比如，他们提到的“达赖集团”或者“分裂集团”是什么？与王菲等人坐在一起的“两核心头目”是谁，干过什么事情？</p>
-<p>这个“集团”就是位于印度达兰萨拉的藏人行政中央，或者称西藏流亡政府，是达赖喇嘛1959年出走印度之后建立的行政中心。中国媒体提到“达赖集团”时，还在说“落后的农奴制”。事实上，西藏流亡政府早已经实行了现代民主制度：1991年，实现了议会直选；2001年，实现了第一次民选行政首领噶伦赤巴；2011年，达赖喇嘛宣布在政治上退休，彻底终结传统的政教合一制度，将行政权力完全交给新当选的噶伦赤巴洛桑森格（次年改称司政）。</p>
-<p>眼下，西藏流亡政府正处于新的大选季节。3月20日，世界各地近13万流亡藏人将在630个投票点，选出新一任藏人行政中央司政和西藏人民议会45位议员。作为有着巨大影响力的宗教领袖，达赖喇嘛没有表态支持任何一个候选人，人们甚至猜不出来他的倾向。</p>
-<p>那两位“核心头目”之一，就是本届大选的候选人之一边巴次仁。他现任西藏人民议会议长，是现任司政洛桑森格的主要竞争对手。中共媒体没有交代清楚，或者说有意误导的是，和洛桑森格一样，边巴次仁赞同达赖喇嘛提出的“中间道路”，也就是放弃独立主张，通过对话谋求中共承诺的藏区真正自治。</p>
-<p>真正的藏独主张者</p>
-<p>不仅如此，洛桑森格和边巴次仁还要“和藏独分子斗争”，说服选民反对独立，支持“中间道路”。因为，本届候选人中，作为他们的竞争对手，有一位真正的藏独主张者李科先。和其他候选人相比，李科先出生于青海，长期生活在中国，被人认为更了解中国。他曾被中国政府以反革命、分裂国家、达赖喇嘛间谍三项罪名判刑18年，保外就医后于1997年逃往印度，现为西藏政治犯运动组织会长。</p>
-<p>在达赖喇嘛的崇高声望下，一个反对他的“中间道路”的藏独主张者脱颖而出，不仅体现民主政治的多元和包容，也体现了部分藏人对北京政府的深度失望。这是一个值得重视的信号。</p>
-<p>和王菲等明星坐在一起的另外一位“核心头目”，是西藏流亡政府的内政部长嘉日卓玛，中共媒体没有“揭露”的是，该政府的六位部长中，有两位女性。另一位是外交与新闻部部长德吉曲央。相较于中共高层领导，其性别比例更趋合理，更符合现代民主政府结构。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%AF%B7%E6%8F%AD%E9%9C%B2%E6%9B%B4%E5%A4%9A%E8%97%8F%E4%BA%BA%E7%9C%9F%E7%9B%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E8%8F%B2%E5%8D%B0%E5%BA%A6%E5%8F%82%E5%8A%A0%E6%B3%95%E4%BC%9A/?category=18271" rel="tag">王菲印度参加法会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA/?category=18271" rel="tag">藏人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -718,7 +749,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -728,5 +759,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

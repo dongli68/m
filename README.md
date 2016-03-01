@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%83%E6%9C%88%E4%BD%8E%E4%BA%8E%E4%B8%B4%E7%95%8C%E7%82%B9/" target="cdt-mirror">BBC | 中国制造业指数连续七月低于临界点</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?resize=550%2C309" alt="160201092156_china_factory_640x360_afpgetty_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>中</strong><strong>国国家统计局周二（3月1日）公布的数据显示，2月中国制造业采购经理指数（PMI）为49.0%，低于上月0.4个百分点。</strong></p>
+<p>统计显示，自2015年8月以来，作为中国制造业风向标的PMI指数已连续7个月低于50的临界点，除少数时间出现小幅反弹外，其余大多时间呈现持续下跌趋势，这反映出中国制造业经济目前正处于持续收缩的状态且未见转变。</p>
+<p>中国统计局的2月PMI分类统计显示，大型企业PMI为49.9%，比上月下降0.4个百分点，位于临界点以下；中型企业PMI为49.0%，与上月持平，仍低于临界点；小型企业PMI为44.4%，比上月下降1.7个百分点，持续位于收缩区间。</p>
+<p>在构成制造业PMI的5个分类指数中，生产指数高于临界点，新订单指数、从业人员指数、供应商配送时间指数和原材料库存指数低于临界点。</p>
+<p>中国统计局服务业调查中心高级统计师赵庆河分析称，2月份，制造业PMI回落主要有以下三方面原因：一是受春节假日因素影响，部分企业停工减产，制造业生产和市场需求均有所回落。二是随着近两个月生产经营活动的放缓，企业原材料采购量继续下降。三是由于企业员工集中返乡，制造业用工量有所减少。</p>
+<p>同一天公布的2月财新中国制造业PMI指数下行趋势与官方统计类似：2月财新中国制造业采购经理人指数（PMI）录得48.0。财新中国制造业PMI已经连续12个月低于50。</p>
+<p>澳新银行（ANZ）当天发布的分析称，PMI指数显示中国制造业表现仍然令人失望。相对于制造业持续下滑的状况，中国的服务业有望成为增长的重要引擎。预计在即将召开的中国2016年“两会”上，中国政府会将全年财政赤字率从去年的2.3%调高到3-4%以刺激投资。</p>
+<p>非制造业指数</p>
+<p>中国国家统计局同时发布了2016年2月份中国非制造业商务活动指数。52.7%的统计数据上月回落0.8个百分点，但继续位于扩张区间。其中服务业商务活动指数为52.2%，回落0.5个百分点。</p>
+<p>中国统计局分析称，服务业受春节假期等因素的影响，与节日消费密切相关的交通运输业、餐饮业、电信广播电视和卫星传输服务业、货币金融服务业、邮政业、租赁及商务服务业、零售业等行业生产活跃，业务总量增长明显。批发业、资本市场服务业、保险业、装卸搬运及仓储业、住宿业、房地产业、居民服务及修理业等行业商务活动指数明显低于临界点，企业业务总量有所回落。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%83%E6%9C%88%E4%BD%8E%E4%BA%8E%E4%B8%B4%E7%95%8C%E7%82%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pmi/?category=18271" rel="tag">PMI</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">统计局</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E4%BA%AC%E8%A5%BF%E5%9F%8E%E5%8C%BA%E5%A7%94%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA-%E5%8D%8E%E8%BF%9C%E5%8F%91%E6%96%87/" target="cdt-mirror">南华早报｜京西城区委将严肃处理任志强 华远发文严控意识形态</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%A5%BF%E5%9F%8E%E5%8F%91%E5%B8%83.png" rel="attachment wp-att-430500"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%A5%BF%E5%9F%8E%E5%8F%91%E5%B8%83.png?resize=500%2C302" alt="北京西城区委发布的微博无法评论、转发" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=300%2C181 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=768%2C464 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=1024%2C618 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?w=2018 2018w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>北京西城区委发布的微博无法评论、转发／微博截图</p></div>
@@ -617,127 +638,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BC%A0%E5%AA%92%E5%86%85%E5%8F%82%EF%BD%9C%E7%BD%91%E5%89%A7%E5%B0%86%E5%AE%9E%E8%A1%8C%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B%E7%BB%9F%E4%B8%80%E5%AE%A1%E6%A0%B8%E6%A0%87%E5%87%86-%E5%85%88%E6%B3%A8/" target="cdt-mirror">传媒内参｜网剧将实行线上线下统一审核标准</a>
-</h2>
-<p><p><em>原标题：网剧将实行线上线下统一审核标准 先注意哪些电视剧被广电总局表扬、批评？ </em></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/cctv1-topbox.jpg" rel="attachment wp-att-430353"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/cctv1-topbox.jpg?w=550" alt="cctv1-topbox" height="" data-recalc-dims="1"></a><br>
-（新闻联播画面：2016年2月19日，习近平访一台、一报、一社，记者欢呼，举起“听党指挥”标语。来源：<a href="http://www.rfa.org/cantonese/news/cctv-02192016090857.html">自由亚洲</a>）</p>
-<blockquote><p>传媒内参导读：广电总局将对网络剧审查做出一系列规定：网络剧审查开始，线上线下统一标准；网站自审的审核员需要接受总局培训考核，自审后播出引发热议的剧目将会进一步由管理司专家审核团队审核总结，有疑议的还会更进一步审议；24小时不间断地监看模式；对网络剧制作机构也有进一步的管理要求。</p></blockquote>
-<p><strong>来源：看电视（ID：TVwatching）、编剧帮（ID：bianjubang）等</strong></p>
-<p>今天（2月27日）上午举办的全国电视剧行业年会上，国家新闻出版广电总局电视剧司李京盛司长和网络视听节目管理司罗建辉司长分别做了题为“2015年-2016年电视剧管理”和“网络剧的发展与管理”的主题报告，网络剧的监管成为最受关注的核心议题。</p>
-<p>罗建辉司长介绍广电总局将对网络剧审查做出一系列规定：网络剧审查开始，线上线下统一标准；网站自审的审核员需要接受总局培训考核，自审后播出引发热议的剧目将会进一步由管理司专家审核团队审核总结，有疑议的还会更进一步审议；<strong>24小时不间断地监看模式</strong>；对网络剧制作机构也有进一步的管理要求。</p>
-<p>罗建辉司长也指出，我们走的是有中国特色的网络剧发展之路。未来，<strong>将加强对网络剧的监管</strong>：</p>
-<p>1、加强网剧全流程管理，加强对视频审查员的培训，提高审看人员水平，严肃确认网站主管人员责任；</p>
-<p>2、加强对优秀网络剧的引导；</p>
-<p>3、加强对重大项目的了解，提前介入；</p>
-<p>4、及时发现“苗头”不对的剧，不要等成片了再下架；</p>
-<p>5、和电视剧司电影局共同联动，线上线下标准统一，电视不能播什么，网络也不行。</p>
-<h2>国家新闻出版广电总局网络视听节目管理司罗建辉司长报告概要：</h2>
-<p> </p>
-<h3>￭  “自审”通过的网剧需通过“监看”决定是否下架</h3>
-<p> <br>
-2011年曾考虑以广播影视作品标准来规范网络自制视听作品，但考虑互联网是新生事物，就决定以创新性的试行规定来管理，让有资质的网站根据规定自审自播，<strong>网站自审的审核员需要接受总局培训考核</strong>。</p>
-<p>自审没问题，但是播出后通过监看（24小时不断）和群众举报发现有问题的将责令下线，修改并经审查后再决定是否恢复上线。</p>
-<p>很多机构为了博取眼球出品了很多软色情暴力作品，于是我们出台的加强管理的补充通知。</p>
-<p>网络剧2013年200部800集，去年805部12000集，现象级作品增加，产业链在延生和融合发展，付费模式明显提升，达受众17%，在改变年轻一代的观看习惯，专业制作机构和人才都在往这个领域流动。</p>
-<p>热门IP成为网剧富矿，而且围绕一个IP可以不断开发盈利，广告投入增长增速50%以上，这种高增长是我们以往影视行业不可能出现的，特别是手机端的未来发展将更加迅猛，我们将高度关注。</p>
-<h3>￭  目前的网剧存在哪些问题</h3>
-<p> <br>
-我们初步认为网剧目前有几种形态：</p>
-<p>段子剧，情景剧，原创连续剧，IP剧，境外翻拍剧，剧外网剧（番外）……</p>
-<p>当然还会有更多新类型。</p>
-<p>网剧现在还是少年初长成，它的特点是题材丰富活泼，手法不拘一格，怎么好玩怎么来，表现更加张扬，体现年轻人的审美兴趣。</p>
-<p>存在问题是制作粗糙，精品比较少，跟风严重，部分题材把关能力明显不足刑侦、灵异、暴力题材把关尤其不足，造成恶劣影响，故意打擦边球现象严重，有意冲击底线，包括去年某现象级网剧也要求下线修改，反复修改再重播。</p>
-<p>有些剧的导向明显背离主流价值观，我们将重点查处。网剧的低俗化倾向突出，较多剧都存在创作者主观意识媚俗。</p>
-<h3>￭  网剧具体管理思路和措施正在研究中</h3>
-<p> <br>
-接下来，总局将认真学习习总书记的谈话，将下大力气进一步对网剧进行管理，网剧作为网络文艺的重要内容，必须担负起时代重则，我们的具体管理思路和措施在研究中：</p>
-<p>将加强网剧全流程管理，线上线下统一审核标准，严格提高审看人员水平，严肃确认网站主管人员责任，重点网剧提前介入，和电视剧司电影局共同联动，使得线上线下标准一致，电视台不能播的网络就不能播。</p>
-<p>我要呼吁电视剧行业，要积极参与网剧创作，成为主力，共同探索网剧可持续发展的道路。</p>
-<h2>国家新闻出版广电总局电视剧司李京盛司长报告概要：</h2>
-<p> </p>
-<h3>￭  2015年全国电视剧特点</h3>
-<p> <br>
-2014年年底，业界纷纷预测2015年电视剧巨变，众机构、组织都认为电视剧陷入困境。因为是政策元年，电视剧播出量缩水等。2015年的电视剧播出成绩回应了之前的预测和笼罩的雾霾。</p>
-<h4><strong>电视剧数据</strong></h4>
-<p> <br>
-全国生产395部，16000多集，2014年15500集，部数减少了40多部，2015年长剧变多了，所以部数减少的同时，集数却变长了。业界继续保持活力，投资热情还在；上星频道晚间黄档总播出36频道：672部次，20000多集，较2014年数量减少四分之一；制作量增加、播出量减少。</p>
-<h4><strong>首播新剧和独播新剧的数量更多</strong></h4>
-<p> <br>
-独播方式被更加看重，一剧一星是最好的模式，由于生产、销售、利润产生的方式导致一剧一星模式不得顺利实施。2015年新剧250部，占60%；2014年新剧的数据270部，占48%；2015年独播新剧166，占首轮剧的比例64%。</p>
-<p>整体卫视消化能力在降低，但是新剧消化能力增加；购剧市场门槛得以提升，品质成为制播双方的共识；制播双方的风险意识加强；有很多台是做出表率的，参与电视剧的投资、制作，有源头介入、有命题作文、共同控制成本，单纯的播出行为积极的参与到了制作的全行业，播出机制正能量影响了、引领了创作，播出指导创作。</p>
-<h4><strong>电视剧题材</strong></h4>
-<p> <br>
-现实题材依旧是创作主流，比例较往年有减少，在社会影响力、感染人、感动人、赢得口碑，播出不低于50%，如《平凡的世界》、《神犬小七》等；近代革命题材不断出新，在演绎革命精神，宣扬爱国主义等艺术把握上、导向上，已经有了长足进步，如《伪装者》、《卧底》等；古装剧制作品质得到大幅提升，类型丰富、结构适当，如《芈月传》、《琅琊榜》等。</p>
-<h3>￭  2015年全国电视剧播出中存在问题</h3>
-<p> </p>
-<h4><strong>剧目选择上的问题</strong></h4>
-<p> <br>
-最优质的平台要播出最优质的电视剧，思想导向和内容导向页必须是健康的，正确的，<strong>送审中我们第一位就是思想导向问题</strong>。</p>
-<p>比如几个报审项目：</p>
-<p>（1）青海报审<strong>《家和万事兴之花好月圆》</strong>：<strong>爱情与阴谋，多个婚外情、诈骗等等</strong>，</p>
-<p>（2）深圳报审<strong>《幸福归来》</strong>：<span><strong>展示犯罪、展示婚外情、展示姐弟恋，存在明显价值偏差</strong></span>；这类剧发证都不对；</p>
-<p>（3）四川报审<strong>《我是赵传奇》</strong>：情节设计离奇，易容术、麻将抗日、足球抗日，挑大粪抗日等，这些早就已经被诟病；</p>
-<p>（4）河南、贵州报审<strong>《野山鹰》</strong>，<span><strong>女人抗战，过于离奇</strong></span>，打情骂俏，无所不能；</p>
-<p>（5）<strong>《碧血书香梦》</strong>：<strong>以家斗为导向，封建糟粕，鬼魂</strong>。这几个剧都是送审时，经过大量的删改，反复审查。送审时不严格、送审时。有些剧大问题没有，但具体画面、具体台词、具体存在问题，裤裆手榴弹、<strong>武媚娘的胸</strong>，<strong>这些画面台里是要负责任的</strong>，造成管理被动、主流平台价值丧失。</p>
-<p>再例如，有个古装武侠剧：安全部、民委等都介入，僧人带刀，穿着藏族衣服的僧人，被别有用心的人利用，引发民族问题。对特定人群、特定地域也不能调侃。<span><strong>再例如坏人不能说某地方言，否则省委宣传部会让总局向全省人民道歉的</strong></span>。</p>
-<h4><strong>宣传炒作的问题</strong></h4>
-<p> <br>
-播出宣传上要避免故意宣传炒作，不要炒作低俗话题、低俗，例如《燃烧》这个剧——加入动漫元素，圣斗士抗战；《北上广不相信眼泪》这个剧本身没什么问题，但是播出前，将全剧的本来为数不多亲吻镜头、情色内容集中播放，造成了观众觉得这个剧就是个导向有问题的错觉；所以宣传时绝对不能宣传被删减的内容，如果出现不能和总局最终审查不相符的内容，那这个剧就先不要播了，例如：《花千骨》二轮宣传我是无删减版（有违总局精神）；例如安徽的《剑侠传奇》，在播出前宣传改为《蜀山战纪》；《春江英雄之秀才遇见兵》，江苏、北京分别叫不同的名字，江苏叫《春江英雄》；北京叫《秀才遇见兵》。</p>
-<h4><strong>收视率对赌</strong></h4>
-<p> <br>
-36个台长都签字盖章，承认了。国家机构不能和民营机构对赌，忘记了自己的社会属性，也违背了总书记在文艺座谈会上的讲话。不签对赌，签补充协议，耍小动作，其实更不好。</p>
-<h4><strong>播出要求</strong></h4>
-<p> <br>
-（1）播前审查要严格，坚决15日前要报下个月的；</p>
-<p>（2）各台不能对剧目集数、名字进行更改；</p>
-<p>（3）保证各台电视剧宣传不能违背；</p>
-<p>（4）恪守媒体指责，不能唯收视率论，不签订以收视排名定价的合同。</p>
-<p>所有上星台播出的电视剧都要记住：以人民创作以品质为核心，以坚持正确导向为底线。</p>
-<h3>￭  近期电视剧创作新情况、新变化</h3>
-<p> </p>
-<h4>经济力量强势介入</h4>
-<p> <br>
-资本介入后使影视超出了文化范畴，演变成资本范畴、商业范畴，例如CCTV财经频道做了影视专题，片面的关注了经济属性；媒体深度融合，新媒体大力崛起，影视剧有了更大的扩展空间。</p>
-<h4><strong>出现新的题材类型和表现手法</strong></h4>
-<p> <br>
-丰富了题材构成，满足了更多观众，百花齐放的文艺局面，也会带来新的问题，<strong>玄幻、仙幻、魔幻、虚幻等题材被社会炒作过热</strong>，导致失真，过于夸大了其模式。</p>
-<p>新题材，题材空间的开拓，但是需要认真对待，这类东西是百花园的一类，但成为主题，肯定不好。我们要<strong>正确对待魔幻仙侠题材</strong>：</p>
-<p>（1）内容导向不要有偏差，惩恶扬善、抱打不平，符合中国人传统，<strong>用神魔形式表达人间冷暖</strong>；</p>
-<p>（2）<strong>不要有封建迷信、不要有过度暴利和情色</strong>，很多仙侠剧都破坏了中外文化中的神仙谱了；</p>
-<p>（3）<strong>媒体不要夸大他们的作用和比重，夸大他们对产业的作用</strong>。很多仙侠魔幻剧体现出制作人文化储备不够，创作思想不严肃。</p>
-<h4><strong>新的制作理念</strong></h4>
-<p> <br>
-画面出奇、制作出奇，拼颜值忽视思想、拼制作忽略价值、拼产业延伸忽略精神属性，把文化内涵的东西变成工业产品；资本、产业应当值得鼓励，但不能本末倒置，产业、思想价值需要双重延伸，<strong>影视剧只注重做产业，影视剧一点出路都没有</strong>。</p>
-<h4><strong>新的投融资方式</strong></h4>
-<p> <br>
-上市对赌风投等资金蜂拥而至，很多影视项目纷纷上马，要业绩、要流量之后，各种粗制滥造、内容重复、抄袭、模仿剧比比皆是。利润率必然会降低。</p>
-<h4><strong>出现新的播出方式和新的形态</strong></h4>
-<p> <br>
-先台后网、网台同步、先网后台，优势互补，融合发展，向主流看齐。</p>
-<p>网络播的电视剧和网络电视剧内容一致，管理标准一致，但管理方法有别，现在没有具体管网络，是因为管理手段、行政手段还弱。</p>
-<p>付费观看也让网络获得巨大业绩。</p>
-<p><span><strong>要对总局有信心，总局有能力发挥影视剧项目的主流价值</strong></span></p>
-<h3>￭  2016年电视剧播出要求</h3>
-<p> <br>
-坚守阵地，坚守宣传纪律，宏观总体要求：</p>
-<p>1、继续坚持以人民为创作核心；</p>
-<p>2、继续坚守文化品格；</p>
-<p>3、继续坚守主流媒体的价值；</p>
-<p>4、<strong>抓好建党95周年、长征胜利80周年的重要宣传期。主要的8家台要选择主流剧播出，其他台可以自主选择，但不要是和大局不相干、破坏宣传环境的剧，例如古装魔幻、仙侠等；</strong></p>
-<p>5、<strong>确保现实题材电视剧在播出中的主导地位，2016年继续坚持这个方针，各台要完成50%的比例</strong>，有些台要做到有困难，但是我们会依旧坚持。<strong>2015年上星剧中古装剧10.1%，但各台不能超15%</strong>。历史正剧、例如屈原、李时珍、李白、司马迁等等这些<strong>对中国历史有推进、对中华民族有贡献的历史人物、历史事件，不受此指标限制</strong>。</p>
-<p>欢迎关注新浪微博＠传媒内参研究组<br>
-和今日头条-传媒内参<br>
-欢迎添加微信15901183732与微主编交流探讨<br>
-投稿请发送至邮箱wenjing-cmnc@qq.com</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%BC%A0%E5%AA%92%E5%86%85%E5%8F%82%EF%BD%9C%E7%BD%91%E5%89%A7%E5%B0%86%E5%AE%9E%E8%A1%8C%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B%E7%BB%9F%E4%B8%80%E5%AE%A1%E6%A0%B8%E6%A0%87%E5%87%86-%E5%85%88%E6%B3%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%97/?category=18271" rel="tag">低俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7/?category=18271" rel="tag">国产电视剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E5%9B%BD%E5%90%8E%E7%9A%84%E5%8A%A8%E7%89%A9/?category=18271" rel="tag">建国后的动物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -749,7 +649,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -759,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%8F%8C%E6%89%8B%E6%B2%BE%E6%BB%A1%E4%BA%86%E4%BA%BA%E6%B0%91%E7%9A%84%E5%B9%B8%E7%A6%8F/" target="cdt-mirror">【习总日记】 习总双手沾满了人民的幸福</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，2，29）</p>
+<p>一</p>
+<p>三年多总书记职业生涯自我评价，双手沾满了中国人民的幸福。再过五年，到2020年，进入全面小康社会，全面进入法制社会，全面进入幸福社会。</p>
+<p>有人总拿我与毛主席相比，说我是毛泽东第二。我谢谢你！有人还说我强调党媒姓党，央企姓党，党员姓党，是搞第二次文革。我谢谢你们！！更有人说我钳制言论自由逮捕人权人士人权律师，上央视低头认罪，是习特勒搞白色恐怖。我谢谢你们一家人！！！</p>
+<p>反党人士说毛主席双手沾满了人民的鲜血，是现代史上最大屠夫。还说邓小平八九六四下令解放军屠城，双手沾满了北京市民学生的鲜血。江泽民因六四上台，且双手沾满法轮功的鲜血。而我未杀一人，是我党领导人中最干净的。所以反党人士应该拥护支持我才对，别老是“包子”“大撒币”地乱叫，没教养。</p>
+<p>即使是站在党的立场，我也比毛主席邓小平优秀不少。</p>
+<p>毛主席建设新中国，把国家治理得“国民经济到了崩溃边缘”。小平同志号称改革开放设计师，可遇到人民要求改革时，却不惜与人民为敌，舞刀弄枪，何必呢，是吧。可以用橡皮子弹辣椒水嘛，或者佯装答应学生要求然后秋后算账。所以我敢说，假如1949年后由我当党主席，一定比毛主席伟大。假如1976年后我领导改革开放，一定比邓小平英明。总之，我行我就行。</p>
+<p>回到现实。我正以我党历届最高领导人前所未有的信心和智慧，领导全党带领中国人民奔向小康途中。以每年经济发展5.9%的速度，到2020年，消灭贫困人口实现全面小康社会。</p>
+<p>党，实现总书记全面领导；国家，实现共产党全面统治；人民，实现全面小康；社会，实现全面法制；文明，实现全面自由民主。</p>
+<p>最近发生的一系列压制言论自由践踏法制事件，是为了明天的开放进步。当过司机的都知道，倒退是为了更好的前进。今天社会文明倒退，正是为了明天社会文明进步。倒退，让极左派人士无话可说，然后得到他们的拥护，有利于推行总书记国家主席军委主席终身制。一旦终身制确立，权力在手，便可为所欲为推行政治制度改革。到那时党内外左派人士后悔莫及也为时已晚。好比1949年中国人民抛弃国民党选择共产党，后悔有个卵用？</p>
+<p>各位，请全心全意毫无保留孤注一掷地支持我，因为我双手沾满人民的幸福，义无反顾顽强不屈非我莫属领导你们奔小康，奔法制，最后奔民主，奔自由。</p>
+<p>二</p>
+<p>任志强妄议中央一事有必要多说几句。</p>
+<p>有人说要誓死捍卫任志强的言论自由权利。让我来告诉你们，你们首先要尊重任志强的个人意愿，然后再来讨论是否应该誓死或誓不死捍卫他的言论自由权利。</p>
+<p>凡每一个共产党员，入党宣誓时都说了一句众所不知的誓言：去他妈的言论自由权利。</p>
+<p>显然，任志强在入党时已经放弃了他的个人言论自由权。那么，请你们尊重他的个人誓言，好吗？如果你们连他个人的意愿都置若罔闻不予尊重，还奢谈什么捍卫他人的言论自由权利？</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/09/%E9%B3%A9%E9%B5%AA%E4%BA%9E%E9%BB%83%EF%BC%9A%E4%B9%A0%E6%80%BB%E6%9C%80%E9%9C%87%E6%92%BC%E6%9C%89%E5%8A%9B%E7%9A%84%E6%BC%94%E8%AF%B4-e1424929460667.jpg?resize=550%2C413" alt="鳩鵪亞黃：习总最震撼有力的演说" data-recalc-dims="1"><p>鳩鵪亞黃：习总最震撼有力的演说</p></div>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%8F%8C%E6%89%8B%E6%B2%BE%E6%BB%A1%E4%BA%86%E4%BA%BA%E6%B0%91%E7%9A%84%E5%B9%B8%E7%A6%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%83%E6%9C%88%E4%BD%8E%E4%BA%8E%E4%B8%B4%E7%95%8C%E7%82%B9/" target="cdt-mirror">BBC | 中国制造业指数连续七月低于临界点</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?resize=550%2C309" alt="160201092156_china_factory_640x360_afpgetty_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -621,23 +649,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%85%B3%E9%97%AD%E5%BD%B0%E6%98%BE%E6%B3%95%E6%B2%BB%E4%B9%8B%E5%A8%81/" target="cdt-mirror">【异闻观止】任志强微博账号被关闭彰显法治之威</a>
-</h2>
-<p><p>来源：新华网    作者：马若虎</p>
-<p><span>　2月28日，国家互联网信息办公室责令新浪、腾讯等网站依法依规关闭任志强微博账号。</span></p>
-<p><span>　　连日来，“大炮”任志强发布的微博被网民举报含有违法信息，其不负责任的言论，受到大量网民强烈抨击。网信办责令关闭任志强的微博账号有着充分的法律法规依据，受到网民普遍支持。</span></p>
-<p><span>　　法律不容挑衅。正如国家网信办发言人表示的，网络空间不是法外之地，任何人不得利用网络传播违法信息。《全国人民代表大会常务委员会关于维护互联网安全的决定》指出，对于“利用互联网造谣、诽谤或者发表、传播其他有害信息，煽动颠覆国家政权、推翻社会主义制度，或者煽动分裂国家、破坏国家统一”的行为，构成犯罪的，依照刑法有关规定追究刑事责任；根据《国务院关于授权国家互联网信息办公室负责互联网信息内容管理工作的通知》，国家互联网信息办公室负责全国互联网信息内容管理工作，并负责监督管理执法。</span></p>
-<p><span>　　底线不容突破。早在2013年举行的“网络名人社会责任论坛”上，参会者一致认为，网络名人应承担更多的社会责任，传播正能量，并且达成共识，共守“七条底线”，包括坚守法律法规底线、坚守社会主义制度底线、坚守国家利益底线、坚守公民合法权益底线、坚守社会公共秩序底线、坚守道德风尚底线、坚守信息真实性底线。任志强持续公开发布违法信息，违反了底线。</span></p>
-<p><span>　　推进网络空间法治化，“其要义是发挥法治对引领和规范网络行为的主导性作用，重点是按照科学立法要求加强互联网领域的立法，关键是严格执法，基础是按照全民守法要求，引导网民尊法守法，做‘中国好网民’”。“依法上网”的要求，应该在网络大V、社会名人身上得到更严格的体现。</span></p>
-<p><span>　　相信驶入法治化轨道，中国互联网的治理和发展将迈上更高台阶！</span></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%85%B3%E9%97%AD%E5%BD%B0%E6%98%BE%E6%B3%95%E6%B2%BB%E4%B9%8B%E5%A8%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%BB%E7%90%86/?category=18271" rel="tag">互联网治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">依法上网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E9%BD%90%E6%84%8F%E8%AF%86/?category=18271" rel="tag">看齐意识</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -649,7 +660,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -659,5 +670,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

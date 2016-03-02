@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/430562/" target="cdt-mirror">【CDTV】《凛冬烈火：乌克兰自由之战》预告片</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-%E4%B8%8B%E5%8D%887.20.37.png?resize=304%2C463" alt="Screen Shot 2016-03-01 at 下午7.20.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午7.20.37.png?resize=197%2C300 197w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午7.20.37.png?w=304 304w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1"><br><span>《凛冬烈火：乌克兰自由之战》官方海报</span></p>
+<p>2013年11月，乌克兰爆发了反政府示威，抗议时任总统亚努科维奇与俄修好、疏远欧盟的经济和外交政策。示威持续至2014年2月，在乌克兰国会投票解除亚努科维奇职务后结束。</p>
+<p>《凛冬烈火：乌克兰自由之战》（英语：Winter on Fire: Ukraine’s Fight for Freedom）由乌克兰、美国和英国联合制作，从示威者的角度记录了这段抗议运动。本片于2015年10月9日在网站Netflix上播出，并在同年的多伦多国际电影节中荣获了群众票选纪录片奖。2016年，这部电影获得第88届奥斯卡最佳纪录片奖提名。</p>
+<p>本片因题材敏感，已被中国大陆封杀。截至本文发稿时，微博上搜索片名无法显示任何结果：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-%E4%B8%8B%E5%8D%8812.30.50.png?resize=550%2C246" alt="Screen Shot 2016-03-01 at 下午12.30.50" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午12.30.50.png?resize=300%2C134 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午12.30.50.png?w=721 721w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%A4%BC%E8%B5%9E%E7%9C%9F%E7%9B%B8/">德国之声 | 长平观察：奥斯卡礼赞真相</a></p></blockquote>
+<p>CDTV在此推荐《凛冬烈火：乌克兰自由之战》的官方预告片。如果您在墙内无法看到YouTube上的视频, <span><strong>请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0">点击这里</a></strong></span>使用BitTorrent Sync (Sync) 下载观看。</p>
+<p></p>
+<p><a title="Winter On Fire: Ukraine's Fight for Freedom - Trailer - A Netflix Documentary HD" href="http://www.youtube.com/watch?v=RibAQHeDia8" target="_blank">Winter On Fire: Ukraine’s Fight for Freedom – Trailer – A Netflix Documentary HD</a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/430562/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%87%9B%E5%86%AC%E7%83%88%E7%81%AB%E3%80%8B/?category=18271" rel="tag">《凛冬烈火》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">2016奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%85%8B%E5%85%B0/?category=18271" rel="tag">乌克兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">示威游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%8F%8C%E6%89%8B%E6%B2%BE%E6%BB%A1%E4%BA%86%E4%BA%BA%E6%B0%91%E7%9A%84%E5%B9%B8%E7%A6%8F/" target="cdt-mirror">【习总日记】 习总双手沾满了人民的幸福</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，2，29）</p>
@@ -622,33 +641,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/" target="cdt-mirror">自由亚洲 | 网信办责令网站关闭任志强微博 决不允许“换马甲”</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%883.39.01.png?resize=550%2C323" alt="Screen Shot 2016-02-28 at 下午3.39.01" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01.png?resize=300%2C176 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01.png?w=661 661w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>网信办责令网站关闭任志强微博,决不允许“换马甲”,也就是任何人的网站被关闭后，不允许再用其它网络名字再重新登记。分析人士指出，目前，中国的网络信息自由流通进入了前所未有的寒冬。</p>
-<p>《南华早报》报道，外号“任大炮”的内地知名地产商、社交媒体“大V”任志强，其新浪、腾讯等微博账号，被国家网信办责令有关网站关闭。目前，新浪微博和腾讯微博上，已经无法搜寻到“任志强”的账号。</p>
-<p>2月26日，国家网信办发文说，针对少数网络名人无视社会责任，滥用自身影响力，在网上多次发布反对宪法所确定的基本原则、损害国家荣誉和利益以及造谣传谣、扰乱社会秩序等违法违规信息的行为，依法关闭@演员孙海英、@大鹏看天下等网络大V账号。</p>
-<p>本台记者接通了上海网络违法信息举报电话，了解有关情况，</p>
-<p>记者：你们这个热线电话的目的是什么？</p>
-<p>值班人员：就是让民众举报赌博、色情和攻击党政领导，散布谣言的网站。</p>
-<p>10天前，中共总书记习近平先后到访人民日报社、新华社和中央电视台，提出党和政府主办的媒体必须姓党。</p>
-<p>对此，任志强发了两条微博，一条质疑“人民政府啥时候改党政府了？花的是党费吗？”另一条质疑“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p>
-<p>北京的维权人人士胡佳对本台记者说，互联网本来可以给中国民众带来更多地公民社会的自由言论空间，</p>
-<p>“但是回顾1990年以来，中国互联网的突飞猛进过程，中国政府的网络控制也愈演愈烈。习近平上台后，他对言论自由的监控远远超过江泽民和胡锦涛。”</p>
-<p>报道说，国家网信办发言人姜军2月28日就当天责令有关网站关闭任志强微博账号发表谈话，指有网民举报，任志强微博账号持续公开发布违法信息，影响恶劣。</p>
-<p>姜军表示，国家网信办决不允许已被关闭账号的用户以“换马甲”等方式改头换面再次注册。</p>
-<p>胡佳对此表示，任志强网站被关闭的同时，一些网络大V账号也被取消，例如影视演员孙海英，</p>
-<p>“我们这些人的帐号早已经被取消多次，很多人已经放弃在微博开网站，比如像艾未未和我。现在连体制内的孙海英这样的人也成为网络控制的打击目标，体制外的公共知识分子会遭到何种严厉的打击，可想而知。 ”</p>
-<p>胡佳指出，目前中国的互联网信息流通正在遭受各种严密的控制，</p>
-<p>“网络的控制让人感到不寒而栗，习近平的这些做法无非要人们的捂着耳朵，蒙上眼睛，堵住大家的嘴巴。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">依法上网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,7 +652,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -670,5 +662,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

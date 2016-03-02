@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,107 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E5%AF%B9%E8%BF%91%E6%9C%9F%E4%B8%80%E8%BF%9E%E4%B8%B2%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%9C%8B%E6%B3%95/" target="cdt-mirror">元淦恭：对近期一连串事件的看法</a>
+</h2>
+<p><p>先说明一下，这篇文章是技术分析，谈的是实然而非应然。</p>
+<p>这三年多已经过来了，但没有任何一个时刻，民间乃至外界对未来的不确定预期，或者更直白点说，悲观预期，如此之强。</p>
+<p>【1】</p>
+<p>最近是一连串事件。</p>
+<p>A股熔断制度开始实施，四天后废除。</p>
+<p>1月初人民币出现一轮快速贬值。</p>
+<p>1月股市再次出现快速下跌，至今持续低迷。</p>
+<p>官方文件首现“核心意识”，各地官员纷纷指习是党中央核心。</p>
+<p>央视“春晚”高度政治化，引发普遍反感。</p>
+<p>习近平在三大央媒调研强调官媒姓党。</p>
+<p>国务院关于城市规划文件提出“拆墙”。</p>
+<p>网信办关闭包括任志强在内若干知名大V微博。</p>
+<p>任志强因网络言论面临北京西城区委处理。</p>
+<p>大量带有个人崇拜色彩的歌曲密集出现。</p>
+<p>央行宣布再次降准<br>
+……</p>
+<p>【2】<br>
+一连串的事件密集袭来，对于人们预期的改变是非常明显的。</p>
+<p>众所周知，市场对预期的反映是很敏感的，尤其是金融市场、房地产市场，在一定程度上可以说就是预期推动的市场。人们一致性的对短期市场波动方向的负面预期，很容易变成整个市场的踩踏。</p>
+<p>实际上，影响预期的还有更中长期的因素，最重要的就是对长期的政治稳定环境和经济发展状态的预期。这种预期本身就可能传导成对金融市场的直接影响，它更长期地会对整个社会的经济活动乃至民间的大类资产配置有深层次地触动。如果一个社会对政经环境的预期出现了明显改变，整个社会情绪发生的变化可能导致的后果是非常严重的。</p>
+<p>我们可以看到，上述事件在很短的时间内密集发酵，已经在社会政治和经济生活中产生了强烈的叠加效应，全社会尤其是中产阶层的情绪已经受到非常明显的冲击。可以说，当前中国缺乏对民间和外界整体预期的管理，已经导致了社会预期出现明显的波动，这种波动我们用“踩踏”一词来形容，可能并不过分。<br>
+【3】<br>
+不确定性的全面回潮。</p>
+<p>2012年11月以来，高层做了太多“不按常理出牌”的事，无论在政治层面，还是经济层面。不断地持续地高强度的组织和政策调整，已经在很大程度上改变了外界的预期。自改革开放以来，中共形成了大量不成文的政治规则和治理理念，但在最近几年被不断打破，被打破的规则本身是好是坏是另一个问题，但持续的变动使得无论民间和外界对中国的看法都在变化，中共和中国政府的行为变得越来越不可预测了。</p>
+<p>一方面政策不确定性在升高，另一方面政治上的气氛也越来越收紧。政治气氛收紧和政策制定的碎片化、辅以人事的持续变动，在很大程度上造成了经济下行周期和政治因素的共振效应，这种效应在过去一段时期以相对温和的方式传导到各行各业，而最近这一两个月的一系列事件，则将这种效应骤然放大了。<br>
+【4】</p>
+<p>不论中共原始的政治安排如何，在过去二十多年，大家已经逐渐习惯了一种相对去政治化的社会生态。</p>
+<p>江泽民时代，“三个代表”思想首度将除工人阶级外的社会群体全面纳入中共治理体系，修宪定位市场经济，“壮士断腕”的国企改革和加入世贸组织，总体上给了社会以“牺牲政治权利换发展权的预期”；到胡锦涛时代，“不折腾”一词强调了宏观上的整体基调，领导人不求大的变革，只要能稳住形势就好。</p>
+<p>也正因为这种最高层在意识形态和政治挂帅方面的温和取态，多数人都投身经济大潮，中国总体上成为高速运转的经济机器。当然一部分人会寻求在公民社会建构上有所作为，在高增长背景和“不折腾”基调下，这部分人固然不是主流，但是也还有一定空间。</p>
+<p>然而，这种状态在中共十八大后被逐渐打破。而刚刚出现的一系列事件，产生了一夜之间“惊醒梦中人”的强烈效应。</p>
+<p>【5】</p>
+<p>先说“央视姓党”问题。</p>
+<p>作为共产党国家的媒体，新华社、人民日报、央视从来都是“姓党”的，除了极个别的时点外。2013年习近平的“819讲话”，在意识形态领域的取态如此清晰明确，也早就预示了一定会有他2月到央媒调研的这一天，并且一定会说出他调研期间说的这些话。</p>
+<p>但为什么这一次，外界的反应这么激烈？</p>
+<p>首先，习近平是第一个在新媒体时代开始执政的领导人，新媒体上有种种关于他的议论，这次事件之后，以任志强为代表的人对习的非议，客观上放大事件。而因为多种原因，不同势力加入批判任志强的“大合唱”，使事件进一步发酵。第二，这次调研又恰逢央视“春晚”闭幕后不久，此次央视“春晚”高度政治化超过以往，且央视在事后一味为其辩护，已经引发了民间的严重逆反，再在这一基础上加码，舆情更加汹涌。</p>
+<p>【6】</p>
+<p>关闭任志强等人微博，网信办敲锣打鼓。</p>
+<p>网信办这一做法很明确，就是要通过“杀一儆百”有效从事前震慑网上可能出现的负面舆论，从源头上减少负面舆论，高调关微博，对达到这个效果其实是很好的。但是，高调关微博可能导致的对外界的预期改变，却是一个不得不关注的问题。</p>
+<p>任志强等人的微博言论，从过往微博的审核标准来看，关闭很正常，要根据网信办自己制定的规矩，也可以说自己是“依法关闭”了微博。但是“依法关闭”，不等于要“高调关闭”，“高调关闭”很容易让原来不注意、不关心这种新闻的人突然有一种管控骤然升高的感觉。</p>
+<p>任志强的言论的确触犯了中共内部的规章，中共党内对任志强进行怎样的处理说白了也是执政党自己的事。</p>
+<p>一波对任志强的整治处理，固然其中有一些偶然因素，但由于事涉公共事件，相关处理只能大张旗鼓公开进行，缺少转圜余地。</p>
+<p>【7】</p>
+<p>又比如3月10日开始实施的互联网出版新规。从逻辑上来看跟原来的“微信十条“并无区别，主要还是为监管部门对不合登记备案的机构发表不宜发表的言论后进行清理整肃做制度准备。但是这个规章不偏不倚在这个时候出台，无疑强化了“央视姓党”事件对民间（尤其是本来就已经比较悲观的知识分子和媒体人群体）的冲击。</p>
+<p>【8】<br>
+个人崇拜重现。</p>
+<p>个人崇拜重现其实并不新鲜，中共历史上在自己任上没有搞过个人崇拜的军委主席只有一个，就是邓小平。事后来看，当然公开地说是吸取“文革”教训，但从纯粹技术层面，就是因为邓既不是中共的首脑，也不是国家元首，没有让全民崇拜军委主席的道理。</p>
+<p>但要论个人崇拜搞得厉害，这几年的情形是有目共睹了，1月，中共刚刚在事实上形成了“双轨制”。也就是说在官方正式文件的固定搭配中暂时继续使用“以习近平同志为总书记的党中央”，而在地方政府各种口头通报、引语中广泛使用“核心意识”，使用“党中央的核心就是习近平”这类表述。这种表述未来是否会变化，尚不清楚，但是这种表述“横空出世”后，舆情已经是一日千里。</p>
+<p>先来说政治歌问题。实际上当前可以炮制政治歌的有四类人。第一类是官方嫡系，比如政工部的歌舞团，解放军艺术学院等等，到现在为止，这部分机构炮制的歌不少，但大体上就是《把心交给你》、《多想对你说》、《光荣》之类，尚未公开使用“习近平、习大大”之类；第二类是地方党委宣传部，最近的确有的开始搞正面个人崇拜了，典型的似乎湖南省委宣传部推出的《不知该怎么称呼你》；第三类是体制外的带有政治投机倾向的人，比如2013年年末习近平到庆丰包子铺后谈芳兵演唱的《包子铺》；第四类可能是真心拥护习的人，这样的人肯定也有，现在有很多涉习的歌曲无论艺术水平还是演唱者的嗓音，都低到了无话可说的程度，很难想象这种奇葩歌曲也是官方推出的。</p>
+<p>新媒体时代和旧时代最明显的区别，就是任何人高兴都可以把自己的音像作品上传到互联网上。第三类、第四类的个人崇拜歌曲，客观上不见得和官方有关系，但有人主动上传这些歌哪个播放器也不敢把它封了吧。</p>
+<p>【9】</p>
+<p>与大量称颂某人的歌曲相对应，还出现了一些关于终身制的议论。</p>
+<p>笔者认为，从当前的政治环境，和领导人个人情况等各方面来看，既没有搞终身制的可能，也没有搞终身制的必要，普京梅德韦杰夫故事要在中国照搬，可能性不高。在网络上出现的种种“劝进”的言论，其中固然不排除有的是真心，但绝对也有出于各种目的进行“高级黑”的。</p>
+<p>所以，现在关于习的个人崇拜的塑造过程中，实际上有很多鱼龙混杂的因素。但官方对于这些鱼龙混杂的因素不予清理，这些因素就会和“央视姓党”等其他事件结合起来，被全面解读成政治形势急剧左转的信号。</p>
+<p>【10】</p>
+<p>实际上，预期管理、舆情管控和舆论引导这是三件事。官方在舆论场上过去只重视舆情管控和舆论引导，没有预期管理的概念。</p>
+<p>从舆论引导的角度，现在所有的正能量的言论都是应该提倡的，这没错。从舆情管控的角度来看，现在搞的很多管控措施也是可以理解的。但当所有舆论引导和舆情管控叠加到一起之后，可能给民众和外界对国家的预期产生怎样的影响，这就不是从单一的舆论角度可以解决的问题了。预期管理出了问题，整个经济和资本市场都会被传染，政治问题最终就有经济化、社会化的风险。这实际上是在解决短期政治问题的同时，把问题转嫁到全社会心理情绪上去了。</p>
+<p>【11】</p>
+<p>中国人的基本心理是什么，就是畏惧“政治”。</p>
+<p>当下中国人你要说有多少支持政府，或者有多少反对政府，都未必。二十世纪以来反复的折腾，已经使中国人闻“政治”色变。“占中”的舆情引导之所以成功，就在于官方成功地把政治问题转化成经济问题，“香港问题，笨蛋，是经济”，香港人之所以要“闹”就是因为经济不好。中国人特别害怕“闹”，特别害怕别人和自己不一样，特别害怕有人不天天想着赚钱，现在对政治形势山雨欲来感觉担心的这些人，其实没有几个是支持香港普选的，也没有几个有多大的对自由民主的诉求，就是一种天然的对“政治“的恐惧，不管是什么方向的“政治”，时代力量的也好，香港本土派的也罢，还是那些喊打喊杀要封微博的自干五，“政治”就是黑暗的，“政治”就是令人恐惧的。</p>
+<p>中国人对政治的这种恐惧，其实是政府的正资产。利用这种恐惧，再辅以“经济基础决定上层建筑”的意识形态，完全可以有非常好的舆论引导效果。中共党内的“政治挂帅”，这是中共党内自己的事，但把这种“政治挂帅”传导到全社会，不仅在舆论引导上是无力的，而且在预期管理上的效果更糟糕。</p>
+<p>【12】</p>
+<p>国务院前段时间出了个文件，关于城市规划。</p>
+<p>脑子一拍，说不再新建封闭式小区，顺便一写，以前封闭小区要逐步打开，消息一出“一石激起千层浪”。过了几天，住建部又出来辟谣，要正确理解文件。</p>
+<p>其实道理很简单，以前的老小区，没几个小区内部的道路具有供外部通行的价值，打开它也没用。而且打开老旧小区，中间要付出的成本、经过的内部博弈之复杂，当下这个中国社会根本承受不起。既然没有可行性，最终实行范围也会很小的设想，为什么要把它白纸黑字写在中央红头文件上呢？</p>
+<p>就连自贡人周某都知道，这样的模糊规定很容易引起误解。这件事说明了什么呢？从技术层面说明一件事，写文件的人都不考虑文件发出来会是什么后果，说得难听点，写文件的人写的时候根本就没过脑子。</p>
+<p>【13】</p>
+<p>干任何事情的人，都想着照章办事。</p>
+<p>照本宣科地写文件，照党章处理党员，照规定封闭账号，照指示指导晚会。每个人都宁左勿右，每一个人左一点，全社会的感觉就左得没边了。</p>
+<p>【14】</p>
+<p>经济不好，社会心理本来就很焦虑。</p>
+<p>但官方一直没给社会明确的预期。2013年6月闹了一次“钱荒”，“李克强经济学”横空出世，过了几个月，三中全会《决定》出炉，外界说大基调定了，就是“政左经右”。哪怕执政者就给外界一个持续稳定的“政左经右”的预期也好啊，就是给不了。</p>
+<p>财政货币政策，外界一直猜猜猜。各种各样新名词出了一个又一个，无数人阐述各种“新理念”，结果每个月出来的高频数据尤其是金融运行数据，都跟这些理念是矛盾的。长此以往，谁还相信这些新名词、新理念？<br>
+又比如人民币汇率，中国经济基本面再差，也比其他国家好吧。一个经济基本面比别人好，经常项目还处在顺差的国家，怎么就会贬值预期越来越大呢。官方的操作和官方稳定人心的表态，不一致。所以外界就会觉得“嘴上说不要，身体却很诚实呢”。</p>
+<p>又比如股灾，几个月内折腾了大量人力、物力、财力，市场化的影子都看不见了。行政干预非但没减少，而且越来越多，越来越频繁。</p>
+<p>这一切都会传导给中产阶层，传导给市场人士。</p>
+<p>一连串事件接连袭来的时候，对不确定性的焦虑就会转化成对未来的悲观预期，成为压倒中产情绪的稻草。某件坏事会不会发生，不再是从理性角度进行讨论的对象，大家会觉得，这社会已经没有什么确定性的事情了，坏事发生很可能，很正常，宁可信其有不可信其无。</p>
+<p>【15】</p>
+<p>温家宝曾说过，“信心比黄金还重要”。</p>
+<p>但信心是用脚投票的结果，不是舆论引导的结果。在政治和舆论上花的功夫太多，对信心的冲击太大了，人们都知道，没有任何一个“政治挂帅”的年代，在经济上过好日子。</p>
+<blockquote><p>这两年的房贷会被包装成各种理财产品证券化，经济下行和就业形势一旦持续恶化，这就是典型的次贷危机翻版。本次去库存的思路就是政府银行去杠杆，居民家庭加杠杆。资产证券化不一定是直接掏你腰包，通过证券化将有毒资产散布给全部金融机构，然后国家用纳税人的钱来救助这些金融机构，间接地掏你腰包。</p>
+<p>政府去杠杆，屁民加杠杆<br>
+但其实是一场豪赌，竟然把心思动到学生和农民身上了。一个是革命的先行者，一个是革命的主力军。加上还有500多万的待转岗产业工人。真是大手笔。</p>
+<p>放心，总有一天政府会加杠杆到爆，其实现在小地方政府杠杆已经加到爆了<br>
+就像今天的日本（日本债务/GDP比率畸高，是超级老龄化的结果，中国老龄化速度因为计划生育，大于日本）<br>
+信用货币年代，全社会的总杠杆只会不断上升</p>
+<p>我从政府官方得到的消息是：刁民们就是不要脸， 挨了鞭子还是要过河<br>
+当初要去库存，苦口婆心的让你们买房，你们不动， 现在暴涨了，你们慌了，是不是不要脸？ 广东去库存告急， 用力过猛，库存不够用了。</p>
+<p>鼓励农民工和大学生零首付上杠杆买房，是在往次贷路上狂奔。本来就业形势就不好，经济又下滑，现在这么高杠杆还是抗风险能力最差的阶层，一两年后立刻就形成银行坏账。现在拉上去的，到时候没有信贷支撑，岂不是都摔的很惨，各种资金链断裂。平时批判西方政客为了拉选票不择手段，现在轮到自己了。</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E5%AF%B9%E8%BF%91%E6%9C%9F%E4%B8%80%E8%BF%9E%E4%B8%B2%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%9C%8B%E6%B3%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7/?category=18271" rel="tag">不确定性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%8C%82%E5%B8%85/?category=18271" rel="tag">政治挂帅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F-%E4%BC%A0%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E4%BB%8E%E5%83%B5%E5%B0%B8%E4%BC%81%E4%B8%9A%E8%A3%81%E5%87%8F500%E8%87%B3600%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5/" target="cdt-mirror">新浪财经 | 传中国计划从僵尸企业裁减500至600万名员工</a>
 </h2>
 <p><p>据路透社报道，两位消息人士称，中国政府计划在未来两三年内从“僵尸企业”中裁减500-600万名员工。以限制工业产能过剩和环境污染。</p>
@@ -550,43 +648,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84%E4%B8%A4%E5%B2%81%E4%BA%86-%E8%BF%99%E4%BB%BD%E6%88%90%E7%BB%A9%E5%8D%95%E5%BE%88%E6%9C%89%E4%BB%BD%E9%87%8F/" target="cdt-mirror">【异闻观止】网信小组两岁了 这份成绩单很有份量</a>
-</h2>
-<p><p><strong>2014年2月27日，中央网络安全和信息化领导小组成立。两年过去，中国互联网治理建设的顶层设计逐渐明朗，进入互联网发展新时期，在组织结构、法律制度、环境治理、人才培养、国际交流等多方面都取得了实质性的进展和进步。</strong></p>
-<p>作者 李欲晓，中国网络空间研究院研究员、北京邮电大学互联网治理与法律研究中心主任。部分信息选自中国网信网、新华网。 ✤原文 《网信小组成立后的中国互联网治理》，刊登在《网络传播》杂志2016年1月刊</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640IW2BTJI1.jpg?resize=550%2C553" alt="640IW2BTJI1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640IW2BTJI1.jpg?resize=298%2C300 298w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640IW2BTJI1.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><strong>政策推动进程加速</strong></p>
-<p>“没有信息化就没有现代化”，两年间，中国制定了一系列政策和计划，加快信息化的发展进程。</p>
-<p>2014年8月，国务院印发《国务院关于加快发展生产性服务业促进产业结构调整升级的指导意见》，重点在<strong>电子商务、信息技术服务</strong>等领域开展工作。</p>
-<p>2015年1月，国务院出台《国务院关于促进云计算创新发展培育信息产业新业态的意见》，计划到2017年，<strong>云计算</strong>在重点领域的应用得到深化。</p>
-<p>2015年7月，国务院出台《国务院关于积极推进“互联网+”行动的指导意见》，推动<strong>移动互联网、云计算、大数据、物联网</strong>等与现代制造业结合，促进<strong>电子商务、工业互联网</strong>和<strong>互联网金融</strong>健康发展，引导互联网企业拓展国际市场。</p>
-<p><strong>完善法律法规体系</strong></p>
-<p>为了构建清朗、健康、有序的网络空间，党的十八届四中全会提出：“加强互联网领域立法，完善网络信息服务、网络安全保护、网络社会管理等方面的法律法规，依法规范网络行为。”</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640GVDUZP86.jpg?resize=550%2C519" alt="640GVDUZP86" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640GVDUZP86.jpg?resize=300%2C283 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640GVDUZP86.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>两年间，国家网信办连续出台三个“十条”。《即时通信工具公众信息服务发展管理暂行规定》（业界称为“<strong>微信十条</strong>”）对以微信为代表的即时通信工具公众信息服务进行了规范；《互联网用户账号名称管理规定》（俗称“<strong>账号十条</strong>”），就账号的名称、头像和简介等，对互联网企业、用户的服务和使用行为进行了规范；《互联网新闻信息服务单位约谈工作规定》（俗称“<strong>约谈十条</strong>”）推动了约谈工作的进一步程序化、规范化。</p>
-<p>网络安全已经成为国家安全的重要组成部分。2015年7月，全国人大常委会通过了新<strong>《国家安全法》</strong>，第一次在立法中明确了“网络空间主权”的概念。同时，<strong>《网络安全法（草案）》</strong>已经完成，并已公开征求意见。</p>
-<p>随着互联网的深入发展，利用信息网络侵害人身权益的案件日益增多。2014年10月，最高人民法院出台了《关于审理利用信息网络侵害人身权益民事纠纷案件适用法律若干问题的规定》。</p>
-<p><strong>专项整治网络乱象</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?resize=550%2C330" alt="6409RJEH13Q" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6409RJEH13Q.jpg?w=633 633w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>专项行动也是国家运用行政手段规范社会行为的重要举措。网信小组成立以来，在网络基础设施整治、网络版权保护、青少年健康成长、网络有害信息治理、网络不良行为、婚恋网站屡现违法违规和严重失信行为等问题上，联合有关部门开展了多次专项治理行动，成效显著。</p>
-<p><strong>深度参与国际治理</strong></p>
-<p>中国始终坚持平等开放、多方参与、安全可信、合作共赢四项原则，积极参与全球网络治理的同时，频频在国际场合自信阐释互联网治理的中国主张，并积极开展合作。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640SLCJTXCV.jpg?resize=550%2C238" alt="640SLCJTXCV" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640SLCJTXCV.jpg?resize=300%2C130 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640SLCJTXCV.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>两届<strong>世界互联网大会</strong>的成功举办，成功搭建国际互联网共享共治的中国平台。国家主席习近平亲临现场并发表主旨演讲，乌镇峰会已成为中国举办的规格最高、规模最大的互联网盛会。</p>
-<p>国家网信办主任鲁炜代表中国政府出席<strong>全球互联网治理联盟</strong>，<strong>中美互联网论坛</strong>、<strong>中欧数字合作圆桌会议</strong>等的圆满举办，“国际互联网治理越来越离不开中国的参与”。</p>
-<section><section><section><strong>培养网络安全人才</strong></section></section><section></section></section><p>为加快网络空间安全人才培养，提升网民网络素养，中央网信办会同中央编办、教育部、科技部等部门，自2014年开始每年举办“<strong>国家网络安全宣传周</strong>”。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?resize=550%2C331" alt="640MPF0OD6V" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?resize=300%2C180 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640MPF0OD6V.jpg?w=632 632w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>2014年11月，“清朗网络 青年力量——<strong>青年网络文明志愿行动</strong>”正式启动，号召团员青年们将共青团员的先进性和担当精神延伸到网上，在网上积极发出青年好声音、形成强劲的青春正能量。</p>
-<p>2015年6月，“2015<strong>中国好网民</strong>”系列活动也已启动，通过倡导文明健康的网络生活方式，培育崇德向善的网络行为规范，让网民自觉践行社会主义核心价值观，弘扬网上正能量。</p>
-<p>为推动网络安全人才技能的提升，一系列民间形式的网络安全挑战赛不断涌现，同时，<strong>“网络空间安全”一级学科</strong>获批，将为网络安全人才的培养创造良好的条件。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84%E4%B8%A4%E5%B2%81%E4%BA%86-%E8%BF%99%E4%BB%BD%E6%88%90%E7%BB%A9%E5%8D%95%E5%BE%88%E6%9C%89%E4%BB%BD%E9%87%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">世界互联网大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%8D%81%E6%9D%A1/?category=18271" rel="tag">微信十条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%8D%81%E6%9D%A1/?category=18271" rel="tag">微博十条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A6%E8%B0%88%E5%8D%81%E6%9D%A1/?category=18271" rel="tag">约谈十条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">网信小组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">网络安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络空间安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -608,5 +669,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

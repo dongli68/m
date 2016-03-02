@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/430596/" target="cdt-mirror">报导者 | 莫之许：习的新中国，温和自由话语的结束</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-%E4%B8%8B%E5%8D%881.59.43.png?resize=527%2C369" alt="Screen Shot 2016-03-02 at 下午1.59.43" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-下午1.59.43.png?resize=300%2C210 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-下午1.59.43.png?w=527 527w" sizes="(max-width: 527px) 100vw, 527px" data-recalc-dims="1"></p>
+<p>2016年2月19日，习近平视察人民日报、新华社和中央电视台这三家党国核心媒体，并发表讲话说，“党和政府主办的媒体是党和政府的宣传阵地，必须姓党。”任志强则在微博中对此提出质疑：“人民政府啥时候改党政府了？花的是党费吗？”还称，“这个不能随便改”、“别用纳税人的钱去办不为纳税人提供服务的事”……随后，北京市委宣传部主办的千龙网，国家互联网管理办公室网站、中国青年网等官方网媒，针对任志强制造“党民对立”，皆发表署名文章进行炮轰。</p>
+<p>一时间，针对任志强的批判文章如雪片一般涌现，所有官方媒体和网路商业媒体都被要求转载，在这一周，任志强成为了国际国内被关注度最高的中国大陆人士。最终，2016年2月28日，中国大陆互联网内容监管机构国家互联网信息办公室责令新浪、腾讯等网站依法依规关闭任志强微博帐号。29日，中共北京市西城区委下发《关于正确认识任志强严重违纪问题的通知》，称区委将严格按照《中国共产党纪律处分条例》，对任志强作出严肃处理。</p>
+<p>任志强，中共党员，红二代，前国有房地产企业董事长，现任北京市政协委员，拥有3800万新浪微博粉丝的网路大V（编按：身分获认证、拥有大群粉丝的网路意见领袖），曾经宣称中国大陆当下并不适合搞民主，甚至支持89镇压学生，无非是持某种改良观念；但转瞬之间，他成为了体制必欲压制的对象。任志强的走红到被灭，令人好奇：如果说任志强早就是体制的对立面，为何又能够在中国大陆网路监管机构的眼皮子底下，累积到3800万粉丝之众？而如果说任志强对体制并无危害，却为什么引来体制如此严重的反应，这貌似矛盾的背后，既体现出了当代中国大陆话语思潮的流变，也反映出了体制的最新动向。</p>
+<p><strong>中国的四种话语</strong></p>
+<p>文革后，中国大陆抛弃传统的计划体制，改走市场化改革道路，根据已故的自由派学者陈子明的分析，在当时形成了四种话语或者路线，一是以邓小平为首的改革派，既主张推动改革开放，但同时又强调坚持中共领导；一是陈云为首的保守派，并不排斥商品经济，但更强调国家要继续保持对经济乃至社会的全面控制。上述两派都存在于体制之内，且对路线和政策制定具有决定权或影响力，在这两派之外相对边缘的，一是坚持文革路线的所谓老左派，一是主张加快改革进程，进一步自由化乃至民主化改革的自由派。</p>
+<p>1989年事件之后，自由派出现了分流，一部分自由派被排斥出体制，或流亡、或下狱、或下海，成为反对派，遭到体制的全面封锁和压制；另一部分依旧留在体制内的自由派，则逐渐转变成为了体制内改良派，或温和自由派（两者有细微但并不重要的区别），而在另一方面，体制内改革派和保守派逐渐合流，逐渐形成了现在的体制主流，可以称之为中国模式派或制度自信派；也因此，当代中国思潮或舆论场中，主要存在着与1980年代相似而又有所变化的四种话语：体制主流的中国模式话语、体制内改良派或民间温和自由派话语、激进反对派话语、毛式老左派话语。</p>
+<p>新闻学者钱钢曾总结中国大陆舆论场的四种话语，可与笔者上述分析相印证，他认为，分别存在深红、浅红、浅蓝和深蓝四种话语：“位于左端的深红是毛式话语，多数被弃用，少数仍露头；浅红是当政者话语，占主导地位；浅蓝是与浅红并存的民间与知识分子话语，更具变革性；深蓝是被禁用的敏感政治语言。”（四种话语示意图请见：钱钢／“司法独立”被谁判了死刑？）</p>
+<p>具体而言，刘晓波等人的《零八宪章》就属于深蓝话语，或者反对派话语；任志强以及其他网路大V，包括贺卫方、于建嵘、茅于轼等较自由派学者所持有的，都是浅蓝色话语，改良派或温和自由派话语：具有自由化倾向，但对于体制并不具有根本和直接的反对和冲击。</p>
+<p><strong>自由话语曾被容忍</strong></p>
+<p>体制对于不同到话语有着不同的策略，从1989到2012年十八大召开，体制对于文革派和反对派都采取压制的立场，“既不走封闭僵化的老路、也不走改旗易帜的邪路”，对于两者之外的体制改良派或民间温和自由派，则采取既防范又容忍的态度。1992年，邓小平南巡时曾说：“既要反左，也要反右，但主要是反左。”其含义是，既要反对各种否定中共领导的激进自由化言论，也要反对文革重来的左派言论，而在当时中共大举推动市场经济体制建设，融入国际经济秩序的背景下，当局还有意无意地借用具有自由化倾向的改良派或温和自由派话语，以抵消来自文革左派的影响。</p>
+<p>《南方周末》等报刊在当时的风行，就是这种策略的反映，从那时开始，类似任志强这样的自由化人物，就开始活跃在市场化媒体以及后来的网路平台上，对此，当局一直给予相对的容忍。</p>
+<p>也因此，长期以来，在中国大陆的市场化媒体和网路平台上，活跃着一批自由化知识分子，这些被称为公共知识分子的人士，大多具有体制内身份，持改良立场，既为当局警惕但又相对容忍，不仅具有相当深广的话语影响力，也具有相当正面的道义形象。与此同时，中国经济和社会的发展，产生了庞大的新兴社会阶层，公共知识分子的自由化言论，符合其利益和权利诉求，从而也获得了新型社会阶层的普遍支持。</p>
+<p>微博出现之后，借助新兴社交平台的爆炸性传播，温和自由派话语更是获得了极大的扩展，出现了数以百万级粉丝的所谓公知大V（公共知识分子），在新浪微博等社交平台上，温和自由派话语成为优势话语，主导着舆论方向，也具有设置议题的能力。甚至，在很多人眼里，新兴社会阶层与特定的自由化话语相结合，通过持续的表达和行动，改变既得利益格局和既有体制，也已经成为了可能。</p>
+<p>市场化、全球化和信息化，使得新兴社会阶层拥有了一定的资源和手段来对现有体制提出挑战，这一挑战尽管尚不足以撼动体制，但毋庸置疑是一种越来越强劲的势头。而在另一方面，中国经济发展也强化了体制维持既有制度的决心，这一方面来自于经济成绩的支撑，另一方面也来自于既得的利益格局，两相作用之下，当代中国的核心问题其实也就是专政体制与新兴社会阶层的诉求之间的冲突：一边是日益升高的挑战或潜在挑战，一边是越来越清晰的保守化诉求。</p>
+<p>在体制内改良派或温和自由派看来，采取更为开放的方式吸纳新兴社会力量，同时改变体制的刚性，在维持现有统治关系的同时，吸纳新社会力量，构建制度基础，最终渐进实现以普世价值为内容的政治转型，实际上也有利于现有执政群体的存续，但是，在日益保守化的体制面前，如何压制新兴社会阶层的各种诉求，并防止在特定情形下出现类似北非茉莉花革命的局面，才是更为核心和迫切的课题。 温和自由派话语的强势存在，不仅削弱了现有体制的合法性，占据了舆论主导，在新兴的社交平台上，还可能充当各种社会运动的媒介，这在微博上各种围观活动中已经初见端倪，也因此，对于体制而言，体制内改良话语或温和自由话语，也就变得越来越不被容忍，而成为了体制必欲压制甚至消灭的对象。</p>
+<p>以2013年7月的清网行动为标志，当时就针对体制内改良话语和温和自由话语的压制和消灭已经持续有年，且越来越严格，曾经的网路大V，如今残存在新浪微博的已经十不存一。在这个意义上，任志强被删号、被党纪，甚至有可能被法办，可以看作是这一持续压制进入到了尾声阶段，同时也意味着，如同激进反对话语一般，曾经被体制加以容忍的体制内改良派或民间温和自由派话语，也最终成为了体制彻底封杀的对象。</p>
+<p>这不仅意味着中国大陆的思潮格局从此将进入到越来越二元、也越来越对立的格局当中。专政体制与新兴社会阶层之间的冲突，可能表面上会被强行压制，但无处渲泄的情绪与压抑，未来可能造成难以预料的巨变。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/430596/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E5%AF%BC%E8%80%85/?category=18271" rel="tag">报导者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E4%B9%8B%E8%AE%B8/?category=18271" rel="tag">莫之许</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E5%AF%B9%E8%BF%91%E6%9C%9F%E4%B8%80%E8%BF%9E%E4%B8%B2%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%9C%8B%E6%B3%95/" target="cdt-mirror">元淦恭：对近期一连串事件的看法</a>
 </h2>
 <p><p>先说明一下，这篇文章是技术分析，谈的是实然而非应然。</p>
@@ -603,38 +631,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/" target="cdt-mirror">【麻辣总局】长者名字完好 “大”倒是断了</a>
-</h2>
-<p><p>据@厦门广电：月29日早上7点多，多位市民报料，集美大桥出岛方向刚过下穿隧道出口不远处的写有“集美大桥”的石牌断裂，半块多的石牌砸落在草地上，压坏了栏杆，占用右侧半个车道车。受此影响，早高峰出岛方向交通发生滞留。目前排队排到枋钟路brt站点附近。</p>
-<p>另据@厦门天气在线 今日集美大桥的最大风速为1.9m/s，风力为2级，故此因不足以断石碑。且目前亦排除人为交通事故所为。初步判断此次石碑断裂属于自然断裂。（新浪新闻）</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=550%2C413" alt="CcWWYyUW8AAc2uj" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=550%2C363" alt="nF15-fxpwmrp0358078" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>莲~!~悟：那块石头有甲线，好几年前就看过，不知道当时怎么能质检过关，只要在矿山和板材场呆过都懂，中国红包害死人。</p>
-<p>简简单单：风大，吹断的。</p>
-<p>atomhelix：厦门集美大桥带蛤蛤签名的石碑突然断裂…这是凶兆啊，各位蛤丝请快捐出自己的一秒，积沙成塔，为蛤续命。</p>
-<p>charliechou：集美大桥的牌子断了，大字被毁了，长者签名完好。</p>
-<p>红尘客栈-原罪：提名者安然无恙，大字断为两截。</p>
-<p>BY我的世界：反正摸着石头过河又不需要这个桥。</p>
-<p>luise92：愿他和党，长命百岁。</p>
-<p>朋酒斯飨–：长老躺地，大大劈裂，两败俱伤？</p>
-<p>百里千青：你们不要总想着要搞个大新闻，我可是身经百战。</p>
-<p>菅原舜水：这次集美大桥题名断裂，值得注（神）意（棍）的是断处，大断而蛤全。大断于尾，恐应“鲜克有终”一词。（以上皆是胡扯，如有雷同，纯属拿衣服。）</p>
-<p>云飞扬3880：天降异象，必有冤情啊。</p>
-<p>heanquan：江泽民日记（2016，2，29）昨梦见从高处坠落。醒后被告知，“集美大桥”题字碑崩裂掉落。<br>
-请方士判吉凶。曰：“大”字足裂，预示”大大“折一手足。江老无恙。</p>
-<p>丁丁历险记go：天有异象，必生妖孽！吾皇江山危矣！</p>
-<p> </p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%83%AD%E9%97%A8%E8%AF%84%E8%AE%BA.jpg?resize=550%2C517" alt="热门评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?resize=300%2C282 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?w=618 618w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>头条新闻下的热门评论无法显示</p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3-%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习近平.习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -656,5 +652,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

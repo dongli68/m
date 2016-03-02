@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/" target="cdt-mirror">BBC| 《南都》因严重“导向事故”开除编辑</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=660%2C371" alt="《南方都市报》发生“严重事故”的版面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>《南方都市报》发生“严重事故”的版面</p></div>
+<p><strong>中国南方报业集团下属《南方都市报》因深圳地方版报道习近平“党的新闻舆论工作座谈会”，提出“党和政府主办的媒体必须姓党”的版面出现“严重导向事故”，而宣布开除编辑和行政处分副总编等严厉惩处措施。</strong></p>
+<p>据南方报业传媒集团内部文件（南字[2016]5号）称：“任天阳同志代表南都报系党委向集团党委作出深刻检讨，对当晚值班编委、南都副总编辑王海军同志作出行政记大过处分并报省宣纪组建议给予党内严重警告处分，对编辑刘玉霞同志作出行政开除处分。”</p>
+<p>南方报业集团内部文件还表示， “因采编人员严重缺乏政治敏感”，造成版面严重错误，被个别人在网上恶意解读导致严重导向事故。虽然集团已尽快采取坚决措施，尽最大努力将负面影响降到最低，但仍然干扰了工作大局，尤其是在新闻宣传战线深入学习习近平总书记关于新闻舆论工作重要讲话精神的重要关头，这一严重导向事故影响极其恶劣，教训十分深刻。</p>
+<p>“严重事故”</p>
+<p>另据微博上活跃的“自干五”地瓜熊老六举报，2月20日南方都市报深圳版头版，在习近平消息通栏大标题下当天新闻主图中，配上改革元老袁庚海葬“魂归大海”的图文，而该报广州版的配图，则是习近平视察央视《新闻联播》的新闻照片。</p>
+<p>一些批评南方系的“自干五”据此解读，在习近平视察媒体的大日子里，南都在头版配上“魂归大海”的照片，显然居心叵测。</p>
+<p>近来，习近平政权接连高调出台新政策高压管制媒体，要求官方媒体必须“姓党”。</p>
+<p>不少国际媒体评论认为，管制媒体、抢抓话语权，显示习近平急于强化个人权威，力争尽快集权的心态。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85/?category=18271" rel="tag">严重事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F/?category=18271" rel="tag">政治敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/430562/" target="cdt-mirror">【CDTV】《凛冬烈火：乌克兰自由之战》预告片</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-%E4%B8%8B%E5%8D%887.20.37.png?resize=304%2C463" alt="Screen Shot 2016-03-01 at 下午7.20.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午7.20.37.png?resize=197%2C300 197w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午7.20.37.png?w=304 304w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1"><br><span>《凛冬烈火：乌克兰自由之战》官方海报</span></p>
@@ -600,47 +619,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%B2%81%E5%B1%B1%E8%80%81%E6%B3%89%EF%BC%9A/" target="cdt-mirror">鲁山老泉：每一次大的灾难来临，都是从禁言开始</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%883.47.47.png?resize=490%2C326" alt="Screen Shot 2016-02-28 at 下午3.47.47" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.47.47.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.47.47.png?w=490 490w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"><br><span>（图片来自网络）</span></p>
-<p>作者：鲁山老泉</p>
-<p>要是在国外生活时间长了，变成了别国的公民，最好是多关心关心所在国的事情。但大多数人关心的还是天朝那点事儿，我也这样，好在我还拿着中国护照（没准儿哪天就变了）。关心无非是想让母国更好些，毕竟是在外面这么多年总算是见到了些以前没见到的东西，可以想以前不敢想的事情，也可以随便说些以前不敢说的话。。</p>
-<p>每每有新人上台，人们总是寄予厚望，可每每的让人失望，真是吃一百个豆都不嫌腥。这几年在很多方面更是让人大跌眼镜，很有倒退的味道。今转鲁山老泉的一文，大家看看是否有道理。有些好文章还是需要存起来的，时间一长找都没地找。该文也转到了微信里，估计没几小时就被封了，都什么世道，连让人说话的勇气都没有。。。</p>
-<p>一</p>
-<p>昨天某‌‌“专栏作家‌‌”批判任志强，还用‌‌“67年前人民的选择‌‌”证明某组织的合法性，你说得多不要脸？以他的意思，‌‌“67年前的选择‌‌”可以管一万年！</p>
-<p>67年前，我父亲还是小伙子，如今我都年已花甲，我儿子也快30岁了，是不是说我父亲的选择就是我的选择？也是我儿子的选择？等到我第58世孙，72世孙诞生，也要承继我父亲的选择呀？</p>
-<p>我不知道某组织的‌‌“保鲜期‌‌”是多少年，但是我知道水的保鲜期不超过三天！</p>
-<p>拿这样的话作‌‌“道理‌‌”驳人，真让人无语。</p>
-<p>今早起读到一条微信也拿出来晒晒：</p>
-<p>‌‌“一位不容置疑的领袖，一位不容批评的政党，一种不容制衡的权力，一个极端暴虐的体制，一片奴性十足的国民，一批舆论一律的媒体，一伙儿横行霸道的酷吏，一堆歌功颂德的文痞，这就是十年文革发生的条件。‌‌”</p>
-<p>大家对照对照吧，谁敢说第二次文革不会发生在明天？</p>
-<p>有人对我说，即使再发生文革，碍你老泉什么事？人家斗走资派（执行市场经济的官员），你想挨斗都没资格。</p>
-<p>如果只斗走资派，确实不关我事。可是我知道，文革并不是只斗走资派，文革的时候中国既没有资本家也没有资产阶级，斗走资派是借口。文革实质上是权斗，但客观上是一次对政治、经济、文化、科技的大破坏、大浩劫。文革的破坏是全方位的，我只说两点：一点是让人恐惧，时时刻刻恐惧。比如不知道哪句话说错了你就得挨批斗，挨打，甚至坐监狱，或者吃枪子儿。第二是人人都政治狂热了，经济就丢掉了，人就没饭吃。天天饿肚子的滋味不好受。虽然挨批斗不是人人有份，但是饿肚子谁也跑不掉。别说喝肉汤成为奢望，喝菜汤都不可能。我说你不信，眼见着的，我们那一代，平均身高既比不上我们父亲一辈，也比不上我们儿子一辈。你说因为啥？</p>
-<p>有些人，对现实不满，就寄希望再来一次文革。这如同医生割头治病，既然把头割了，你还治什么病？</p>
-<p>有些人盼望文革，还因为不懂文革并不是对某些（坏）人造成冲击，实际上文革冲击了任何人。换句话说就是任何人在文革中没赢家。就以毛某人为例，他确实战胜了他的对手，可是他成了孤家寡人，而且导致了家人的不幸（如果不是文革他的老婆和侄子结局不会这样惨）。</p>
-<p>最最怀念毛时代的人不过我的诤友卜移山。我问卜移山：如果一直在毛时代，还是老一套，你的两个孩子即使被推荐读大学，作为工农兵大学生，能学到现在这样的程度吗？能有现在发展的基础吗？能享受到现在的物质条件吗？卜移山你现在疾病缠身，你有钱治病吗？即使有钱，能享受到现在的医疗条件吗？能吃上这么高效的药物吗？能吃上进口药吗？我估计卜移山别说治病，就是跟我老泉抬杠，也是在阴曹地府吧？你早见阎王了。</p>
-<p>天天念叨毛时代，无厘头啊！</p>
-<p>最近‌‌“党媒姓党‌‌”让许多人坐立不安，直接感觉到灾难就在眼前。为什么？因为在所谓‌‌“共和国‌‌”不长的历史中，每一次大的灾难来临都是从禁言开始。第一次是50年代大跃进导致大饥荒，前提是1957年反右，把民主人士的善意批评当作向党猖狂进攻，疯狂迫害有良知且有真知灼见的知识分子，后来发生了无以复加的荒唐事都听不到批评。第二次是60年代中期从批‌‌“三家村‌‌”批吴晗开始，把古今中外所有文化都说成‌‌“封、资、修黑货‌‌”，然后就是文化大革命，浩劫一切，扫荡一切。第三次在80年代，‌‌“敏感词‌‌”我就不说了。</p>
-<p>什么‌‌“党媒姓党‌‌”？实质上是不准妄议。‌‌“我对，我自己说；我错，也不许你说‌‌”，完全摆出一副不让监督的面孔。一个党一个政府不让监督了，不就可以为所欲为了吗？即使想为所欲为，也得正确呀？你如何正确？不就得争论吗？不就得反复论证吗？你取消论证的过程，实际上就等于坚持错误。想想吧，你拿错误的东西为所欲为是多么可怕！所以我们这些人咋不战战兢兢咧？</p>
-<p>哥们，千万别为了个人的私利就忘了老祖宗‌‌“偏听兼听‌‌”‌‌“载舟覆舟‌‌”的古训呀！</p>
-<p>二</p>
-<p>我的偶像很生气，我对我的偶像使用‌‌“民逗‌‌”一词也很生气。</p>
-<p>怎么回事？肖仲华，华中科技大学的博士，我过去多次推荐他的专栏。他最近为政府‌‌“推墙‌‌”的决定叫好受到网友批评，他很委屈，也很生气，说：</p>
-<p>‌‌“政府错了你批评，他为你叫好；政府对了却不可以表扬，这是哪门子民主？‌‌”</p>
-<p>所以他喊批评他的人为‌‌“民逗‌‌”，埋汰、轻蔑、讽刺、看不起，都在其中了。</p>
-<p>过去我对肖博士崇拜有加，这一次我反过来‌‌“辅导辅导‌‌”我的偶像。我的青岛老哥跟我说，古时候强盗也是讲规矩的，即‌‌“盗亦有道‌‌”。嘛意思？过去的强盗，‌‌“队长‌‌”必须第一个打冲锋，完成任务再最后一个出来；打冲锋是你，殿后也是你，否则就做不了‌‌“队长‌‌”。</p>
-<p>这儿强盗的‌‌“道‌‌”我先不管，我要说的是‌‌“盗亦有道‌‌”——强盗也讲规矩。</p>
-<p>中国的法律，特别是重大的，都是谁出台？人大。党和政府行不？党肯定不行；政府可以，但也是鸡毛蒜皮，仅限于‌‌“规定‌‌”‌‌“条例‌‌”之类，且不能跟人大法律相抵触。这是常识中的常识。然而再常识的常识，也能难倒我们的高层文盲。最近党和政府的‌‌“拆围墙‌‌”就是文盲加法盲才干出来的事。拆围墙，绝对好事。交通顺畅，空气流通，怎么不好？但是程序不正义。《物权法》规定私人财产神圣不可侵犯，小区围墙属于业主集体私产，你拆了就是犯法。人们最害怕的，是你从今天拆围墙开始，到明天拆小区！</p>
-<p>然而，不合法的好事情就不能办吗？可以呀，修改《物权法》，或者给《物权法》重新释义呀？你法律程序走在前面，后面就可以做。上面不是常说，我们要把党的意志变成人民的意志吗？怎样把党的意志变成人民的意志？就是由党提议，人民代表大会讨论通过。通过了再照办，就合法；没通过就办是先斩后奏，叫违法。我想肖仲华作为文科博士，肯定知道‌‌“党‌‌”和‌‌“政府‌‌”是没有权力，也没有资格出台什么‌‌“拆围墙‌‌”的规定的，网友批评几句发什么脾气？</p>
-<p>如有再有人说，狗屁人大，我们的‌‌“人大‌‌”是人大吗？那我也没办法了。呜呼，你懂的。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E9%B2%81%E5%B1%B1%E8%80%81%E6%B3%89%EF%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%A4%96%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">海外华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E8%A8%80/?category=18271" rel="tag">禁言</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -652,7 +630,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -662,5 +640,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

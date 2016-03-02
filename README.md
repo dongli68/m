@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F-%E4%BC%A0%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E4%BB%8E%E5%83%B5%E5%B0%B8%E4%BC%81%E4%B8%9A%E8%A3%81%E5%87%8F500%E8%87%B3600%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5/" target="cdt-mirror">新浪财经 | 传中国计划从僵尸企业裁减500至600万名员工</a>
+</h2>
+<p><p>据路透社报道，两位消息人士称，中国政府计划在未来两三年内从“僵尸企业”中裁减500-600万名员工。以限制工业产能过剩和环境污染。</p>
+<p>一位知情人士表示，产能过剩行业裁员人数将达到500万人，将是将近20年来中国政府最大规模的裁员行动。另一位与政府领导层有联系的消息人士则称裁员人数在600万。</p>
+<p>在2月29日举行的国务院新闻发布会上，人力资源社会保障部部长尹蔚民在介绍就业和社会保障有关情况时表示，对煤炭、钢铁行业进行初步统计，预计共涉及180万职工的分流安置，其中煤炭系统下岗职工人数约130万，钢铁系统约50万。</p>
+<p>尹蔚民表示，围绕着如何做好化解过剩产能的问题，国务院近期作出部署，下发了“1+8”个配套文件。文件之一就是由人力资源社会保障部会同有关部门制定的，关于做好化解过剩产能过程中职工安置的意见。“在这个过程中，在资金、政策上中央政府和地方政府都会给予支持。中央财政将拿出1000个亿的奖补资金，主要用于职工的安置。”尹蔚民称。此外， 失业保险和就业专项资金，对其中符合规定条件的也要予以相应支持，妥善做好职工劳动关系的处理、社会保险关系的转移接续等相关工作。</p>
+<p>据界面报道，2月22日，中国欧盟商会发布的一份名为《中国的产能过剩如何阻碍党的改革议程》的报告也指出，2016-2017年，中国煤炭、钢铁、电解铝、水泥和玻璃行业将有30%的工人会失业。目前这五大行业共有1000万名工人。</p>
+<p>事实上，如今的煤炭、钢铁等行业，已有不少职工被裁员、分流安置。里昂证券2015年11月调查的13家国有钢企中，有六家宣称遣散了5%-10%的员工，或近期有裁员的计划。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F-%E4%BC%A0%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E4%BB%8E%E5%83%B5%E5%B0%B8%E4%BC%81%E4%B8%9A%E8%A3%81%E5%87%8F500%E8%87%B3600%E4%B8%87%E5%90%8D%E5%91%98%E5%B7%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9/?category=18271" rel="tag">产能过剩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%83%B5%E5%B0%B8%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">僵尸企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1/?category=18271" rel="tag">经济萧条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%91%98/?category=18271" rel="tag">裁员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E4%BB%BB%E5%BF%97%E5%BC%BA%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E9%9D%B6%E5%AD%90/" target="cdt-mirror">德国之声 | 长平观察：任志强是最好的靶子</a>
 </h2>
 <p><p>任志强是国企退休干部，曾获”优秀共产党员”党内荣誉称号。因为所从事的是这十多年来风起云涌的房地产业，他和很多房地产大佬一样成为商业明星，又在打压专业评论而欢迎企业家及娱乐明星发表时事意见的网络氛围中成为意见领袖，拥有数千万粉丝，出版畅销著作。</p>
@@ -45,6 +61,53 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E6%B2%88%E9%98%B3%E5%AE%98%E6%96%B9%E6%94%B9%E5%8F%A3%EF%BC%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%9B%B6%E9%A6%96%E4%BB%98%E8%B4%AD%E6%88%BF/" target="cdt-mirror">新京报 | 沈阳官方“改口”：“大学生零首付购房”尚在调研</a>
+</h2>
+<p><p>原标题：沈阳大学生“零首付购房”政策闹乌龙</p>
+<p>新京报快讯 3月1日下午，沈阳市政府下发《沈阳市人民政府办公厅关于促进房地产市场健康发展的实施意见(试行)》，该意见提及，支持高校、中等职业学校在校生、新毕业生购房，并首付比例可以零首付。沈阳的这一房地产新政，因“大学生可零首付买房”广泛传播并引发热议。当晚，沈阳官方发布消息称，“零首付”暂不具备出台条件。</p>
+<p>沈阳此次发布的房地产新政称，支持高校、中等职业学校在校生、新毕业生购房。对毕业未超过5年的高校、中等职业学校毕业生在沈购买商品房的，给予住房公积金政策支持，公积金连续缴存时限由6个月降为3个月，首付比例实行“零首付”政策，最高贷款额度为单方60万元、双方80万元。对高校、中等职业学校在校生购买商品房的，给予每平方米200元的奖励政策。同时，对高校、中等职业学校在校生、新毕业生购房的，给予契税全额补贴政策。</p>
+<p>3月1日晚上22：36，中共沈阳市委宣传部官方微博@沈阳发布 称，沈阳房地产新政中的“零首付”政策还处于前期调研论证阶段，暂不具备出台条件。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a9fad76c815c2031a0a7_size41_w500_h291.jpg?resize=500%2C291" alt="a9fad76c815c2031a0a7_size41_w500_h291" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a9fad76c815c2031a0a7_size41_w500_h291.jpg?resize=300%2C175 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a9fad76c815c2031a0a7_size41_w500_h291.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>早前报道：沈阳房产新政下发：在沈阳大学生可零首付买房</p>
+<p>2016-03-01 16:33:04新华网</p>
+<p>新华网沈阳3月1日电 2016年3月1日，沈阳市政府下发《沈阳市人民政府办公厅关于促进房地产市场健康发展的实施意见(试行)》。其中包括对个人购买住房市区两级给予奖励政策;公积金最高贷90万;土地供应减半;降低二手住房交易税费;鼓励农民进城买房居住等22项房产新政，促进房地产市场健康发展。</p>
+<p><strong>全文如下：</strong></p>
+<p>沈阳市人民政府办公厅关于促进房地产市场健康发展的实施意见(试行)</p>
+<p>各区、县(市)人民政府，各相关部门：</p>
+<p>房地产业是我市全面振兴的重要支柱产业之一。当前，我市房地产市场发展总体良好，但结构性矛盾应当引起重视。为进一步改善房地产供需结构，促进我市房地产市场健康发展，按照中央经济工作会议要求，省政府关于化解房地产库存的若干意见，结合我市实际，提出如下意见。</p>
+<p>一、保持房地产市场稳健发展。2016年我市商品房销售实现同比增长10%的目标，库存去化周期控制在合理区间，房价运行保持基本平稳,力争用2-3年时间使我市房地产市场供需结构达到均衡。</p>
+<p>二、严格控制新增供地。对全市房地产开发用地供应规模实施总量控制，原则上2016年全市房地产开发用地供应面积不超过上年度的50%。实行差异化供地政策, 原则上产业用地按需供应，对住宅库存偏大区域减少供应，在房地产开发用地出让前，由规划、建设和房产主管部门合理确定商住比、车位比、容积率。及时发布城市发展规划、建设规模、供应结构、空间布局、重大基础设施建设计划和进展等信息，引导房地产市场理性投资和消费。</p>
+<p>三、加大闲置土地处置力度。对超过动工开发期1年不满2年的闲置土地，按规定收取土地闲置费，对闲置超过2年的依法收回，重新进行市场配置。</p>
+<p>四、加强城市基础设施和配套建设。加快新城区和新建项目周边的道路、公交等城市基础设施建设。对个别配套滞后的项目，经有关部门同意开发企业可垫资建设，待验收合格后在缴纳配套费时予以抵减。完善教育、医疗、商业等资源配置，在新城区鼓励优质中小学校增设分校，配置社区医疗机构。优化水、电、气、暖等公用事业配套服务，降低收费标准，规范收费行为，提高办事效率。通过特许经营、投资补助、政府购买服务等多种方式，吸引社会资本参与投资、建设和运营城市基础设施项目。</p>
+<p>五、支持项目开工建设。各地区政府要认真排查、解决影响已出让土地开工的历史遗留问题，保证出让的土地达到净地标准。提高建筑工程施工许可审批效率，落实我市有关建筑工程施工许可和竣工验收备案的规范意见。加大重点项目建设推进力度，落实市政府关于推进全市重点项目建设的政策措施。</p>
+<p>六、支持开发企业调结构。对本意见下发之前已出让的土地，开发企业可申请调整全装修比例。对已供应、未开发的房地产开发用地，开发企业可以申请转换用途、调整商住比例。对于在建商品住房项目，房地产开发企业可以申请调整套型结构，对不适应市场需求的住房户型做出调整。对开发企业提出的申请，各有关部门在条件允许的情况下予以支持，并简化办事流程、缩短审批期限。</p>
+<p>七、对个人购买住房给予奖励政策。凡个人购买住房契税税率超过1%的部分，市区两级财政给予补贴。在市政府举办的房交会和异地房展会期间，对购买参展楼盘的住宅和非住宅给予购房补贴，具体补贴标准另行制定。同时，房交会推出的“惠民楼盘”将给予购房人房价补贴、契税补贴和家装补贴等让利优惠。各地区政府要积极组织召开区域房交会，自行出台优惠政策。</p>
+<p>八、加大住房公积金贷款支持力度。已取得商品房预售许可证的，即可申请办理住房公积金贷款。首次申请公积金贷款最低首付比例降至10%。家庭或个人可以使用住房公积金同时贷款购买两套房，第二套房贷款的最低首付比例为20%。实行“认贷不认房”政策，前次贷款已还清的，再次申请贷款的视为首次申请。最高贷款额度提高为单方50万元、双方70万元、三方90万元。主借款人可以与其父母或子女互用住房公积金进行贷款，互用住房公积金账户余额偿还贷款。将职工缴纳住房公积金条款纳入《劳动合同》，加大城镇民营企业及从业人员建立公积金制度的力度，做到应建尽建、应缴尽缴，并逐步将符合条件的农民工、乡镇企业和个体工商户及从业人员纳入住房公积金体制。</p>
+<p>九、降低二手住房交易税费。二手住房转让缴纳的营业税、个人所得税实行先征后补。居民互换住房的，实行“零税费”政策，免收交易费、产权办证费，缴纳的契税、营业税、个人所得税先征后补。支持居民改善住房条件，一年内先买房后卖房或先卖房后买房的，购买房产面积大于出售房产面积的，按面积差每平方米补贴50元。</p>
+<p>十、自住型公寓享受住宅政策。居民购买商住公寓或酒店式公寓用于自住的，可以视为住宅，交易税费按照住宅标准缴纳，同时在落户、入学、水电暖民用价等方面享受住宅同等政策。已经购买的用于自住的商住公寓或酒店式公寓，自本意见发布之日起，享受住宅同等政策。</p>
+<p>十一、拓宽非住宅和住宅使用功能。鼓励将符合条件的商品房和闲置建筑改造为电商用房、“创客空间”等。允许从事电子商务、创新产业的小微企业和自由职业者将住宅、公寓登记注册为营业场所。</p>
+<p>十二、大力推动棚改货币化安置。从今年起对新纳入棚改拆迁安置的居民，力争全部实行货币化安置。</p>
+<p>十三、高端人才购房享受优惠政策。进一步落实“盛京人才”战略，对领军人物和杰出人才等，由市、区两级财政按政策规定发放购房补贴。</p>
+<p>十四、支持高校、中等职业学校在校生、新毕业生购房。对毕业未超过5年的高校、中等职业学校毕业生在沈购买商品房的，给予住房公积金政策支持，公积金连续缴存时限由6个月降为3个月，首付比例实行“零首付”政策，最高贷款额度为单方60万元、双方80万元。对高校、中等职业学校在校生购买商品房的，给予每平方米200元的奖励政策。同时，对高校、中等职业学校在校生、新毕业生购房的，给予契税全额补贴政策。</p>
+<p>十五、鼓励农民进城买房居住。积极探索农民宅基地自愿有偿退出和土地增值收益合理分配机制。落实“两权”可抵押贷款政策,简化收入证明要件和担保手续等，为进城购房的农民提供贷款支持。全面推进居住证制度，推动居住证持有人享有与本地户籍人口同等的住房保障权利，将符合条件的农业转移人口纳入住房保障范围。一市三县可结合本地区实际出台支持政策。</p>
+<p>十六、方便购房人子女就学。居民为子女就学购买商品住房的，将入学条件由“以落户时间为准”改为“以居住时间为准”，居住时间自购房人办理商品房合同备案之日算起。</p>
+<p>十七、支持两地分居家庭、农民工和外籍人士购房安家。两地分居家庭在沈购房安家的，按购房面积每平方米补贴100元的安家费。农民工在沈购房子女可在我市接受义务教育，就近入学，可以在我市参加中考。外籍人士在沈购房不受套数限制。</p>
+<p>十八、支持开发企业并购重组、拓宽融资渠道。鼓励开发企业向规模化、集约化、专业化发展，出台我市支持开发企业并购重组的优惠政策。支持开发企业拓宽融资渠道，协调金融机构下调信用良好企业的按揭保证金比例，加大对品牌开发企业的信贷支持力度。</p>
+<p>十九、减轻开发企业负担。开发企业销售未完工开发产品的计税毛利率为15%，非普通住宅、商业、车库的土地增值税预征率调整到2%，普通住宅土地增值税预征率调整到1.5%。对开发企业经批准建设且建成后无偿移交政府部门的学校用地，暂不征收城镇土地使用税。城市基础设施配套费后置到办理《商品房预(销)售许可证》或《房屋所有权证》时征收。取消建设项目的安措费、社保费收缴和拨付。进一步清理涉及房地产的不合理收费、押金、监管资金等，无法律法规明确规定的要坚决取消，收费标准过高的要适当降低。进一步梳理房地产开发建设审批流程，向社会公开审批环节和收费项目，未公开的不得实行审批或收费。</p>
+<p>二十、加强对开发企业的监管。加强对开发企业资质的动态监管，完善退出机制，淘汰“ 僵尸企业”。探索建立商品房预售资金监管机制，规避市场风险。</p>
+<p>二十一、大力培育发展房屋租赁市场。进一步深化住房制度改革，建立购房与租房并举、市场配置与政府保障相结合的住房制度。积极培育住房租赁经营机构，推进住房租赁规模化、专业化经营。对利用自持库存商品房开展房屋租赁业务的开发企业，以及专业从事房屋租赁业务的企业、机构和自然人，给予金融、税收等支持政策。鼓励各类闲置房源进入租赁市场，多渠道增加供应。支持在沈就业、创业的高校毕业生租赁住房，可以领取3年租房补贴，标准为：博士每月800元，硕士每月400元，学士每月200元。进一步扩大公租房保障范围，降低准入门槛，向外来务工人员、中高等教育毕业生等倾斜，促进房屋租赁市场壮大发展。</p>
+<p>二十二、加强对房地产工作的领导。市政府对各地区政府和各相关部门落实本意见情况进行绩效考评，成立由市政府主要领导为组长的房地产工作领导小组，负责研究制定全市房地产市场规划、工作目标、相关政策措施和组织推进工作。领导小组办公室设在市房产局，负责摸清并分析房地产市场情况，协调推进具体工作。各地区政府也要成立相应的领导机构并建立考核制度。</p>
+<p>各单位要充分认识化解房地产库存和促进房地产市场健康发展的重大意义，进一步深化改革、创新求实、积极作为、综合施策，增强做好此项工作的责任感、主动性、自觉性。各地区政府要切实承担相应责任，做好净地出让、配套建设、闲置土地回收、组织区域房交会等管理服务工作。各相关部门要充分发挥联动作用，提高房地产调控的协调性、一致性、互补性，积极引导开发企业顺应市场形势，配合政府惠民政策，诚意让利促销。</p>
+<p>沈阳市人民政府办公厅</p>
+<p>2016年2月27日</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E6%B2%88%E9%98%B3%E5%AE%98%E6%96%B9%E6%94%B9%E5%8F%A3%EF%BC%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%9B%B6%E9%A6%96%E4%BB%98%E8%B4%AD%E6%88%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E6%96%B0%E6%94%BF%E6%88%BF%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房产新政房产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%BA%E6%BF%80/?category=18271" rel="tag">房地产刺激</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B6%E9%A6%96%E4%BB%98/?category=18271" rel="tag">零首付</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B6%E9%A6%96%E4%BB%98%E4%B9%B0%E6%88%BF/?category=18271" rel="tag">零首付买房</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/" target="cdt-mirror">BBC| 《南都》因严重“导向事故”开除编辑</a>
 </h2>
@@ -524,103 +587,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/430375/" target="cdt-mirror">【立此存照】”如果是犯罪就抓人啊！封微博是啥意思？“</a>
-</h2>
-<p><blockquote><p>新闻背景：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/">自由亚洲 | 网信办责令网站关闭任志强微博 决不允许“换马甲”</a></p></blockquote>
-<p>日前，习近平提出“党和政府主办的媒体必须姓党”这一理论，拥有3000多万微博粉丝的知名地产商任志强发了两条微博公开质疑：</p>
-<blockquote><p>“人民政府啥时候改党政府了？花的是党费吗？”还称“这个不能随便改！”“别用纳税人的钱去办不为纳税人提供服务的事。”</p>
-<p>“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p></blockquote>
-<p>此后，新华网、央视网、千龙网等几大官媒对任志强掀起了轮番批判，称其“反党”、“诋毁党”。<a href="http://news.xinhuanet.com/comments/2016-02/27/c_1118177914.htm">央视网题为《任志强的抛物线还有多长？》</a>的文章措辞更是颇有文革遗风：“任志强比谁都清楚，想要回头是不可能了，唯有孤注一掷走到党的对立面，才可能引起国外反华政治团体的关注，以期延长自己被清算的时间。”</p>
-<p>2月28日，任志强微博被封号。国家网信办发言人姜军发表谈话称，据网民举报，任志强微博账号持续公开发布违法信息，影响恶劣，网信办已责令新浪、腾讯等网站依法依规关闭任志强微博账号。</p>
-<p>任志强微博被关闭后，微博搜索出现了熟悉的提示：“根据相关法律法规和政策，’任志强’搜索结果未予显示”。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%883.39.01-1.png?resize=550%2C323" alt="Screen Shot 2016-02-28 at 下午3.39.01" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01-1.png?resize=300%2C176 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午3.39.01-1.png?w=661 661w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>涉及任志强的新闻大多被关闭、隐藏评论：</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.03.54.png?resize=550%2C380" alt="Screen Shot 2016-02-28 at 下午4.03.54" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.03.54.png?resize=300%2C207 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.03.54.png?w=692 692w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.04.25.png?resize=550%2C301" alt="Screen Shot 2016-02-28 at 下午4.04.25" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.04.11.png?resize=550%2C262" alt="Screen Shot 2016-02-28 at 下午4.04.11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.04.11.png?resize=300%2C143 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.04.11.png?w=685 685w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>此外，曾因“共产主义接班人”一役与任志强结怨的<a href="http://weibo.com/3937348351/DjMfXvZwY?type=comment#_rnd1456707361547">@共青团中央</a>还发了一组暴走漫画来讽刺任，网民<a href="http://weibo.com/n/LeMcDull?from=feed&loc=at" target="_blank">@LeMcDull</a>感慨：没想到有生之年能看到这么荒诞的一幕，也算见证历史……</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.53.38.png?resize=474%2C677" alt="Screen Shot 2016-02-28 at 下午4.53.38" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.53.38.png?resize=210%2C300 210w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.53.38.png?w=474 474w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-%E4%B8%8B%E5%8D%884.59.07.png?resize=550%2C460" alt="Screen Shot 2016-02-28 at 下午4.59.07" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.59.07.png?resize=300%2C251 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-28-at-下午4.59.07.png?w=592 592w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">【立此存照】任志强：“我们是共产主义接班人？”</a></p></blockquote>
-<p>截至本文发稿时，微博上大部分有关“任志强”的内容都已关闭或隐藏评论。少数尚未关评论的旧文下面，一些网民翻出任志强近年反对政府调控房价等言论，表示任也是靠权力寻租发家致富的，并未替老百姓发声。然而更多网民还是表示，政府此番下令关闭任志强微博无疑是心虚的表现，对当下的言论边界深感失望。</p>
-<p>就在任志强微博被封号的前一天，新华网发布消息称国家网信办正“依法查处网上违法违规行为”，集中关停“无视社会责任，滥用自身影响力”在网上多次发布“违法违规”信息的大V账号，包括：知名演员<a href="http://weibo.com/sorry?usernotexists&code=10008">＠演员孙海英</a>，企业家<a href="http://weibo.com/sorry?usernotexists&code=10008">＠荣剑2001</a>，记者<a href="http://s.weibo.com/user/%E6%96%87%E5%B1%B1%E5%A8%83&Refer=at">＠文山娃</a>，自媒体<a href="http://weibo.com/sorry?userblock&is_viewer&code=20003">＠大鹏看天下</a>等。</p>
-<p>————————————————————————————————————————</p>
-<p><strong>以下为中国数字时代编辑搜集自新浪网友评论：</strong></p>
-<p><a href="http://weibo.com/2716357192" target="_blank">FIRSTSEASON</a>：回复<a href="http://weibo.com/n/lzscript?from=feed&loc=at" target="_blank">@lzscript</a>:一个权力寻租的倒爷给自己贴个斗士的条子就不是经济犯罪的嫌疑犯了？真好，律师费可以省一堆。</p>
-<p><a href="http://weibo.com/2445627443" target="_blank">兰坤xt</a>：靠体制发家，不把所得反馈百姓，反而和李开复等反华分子唱衰中国，完全不顾百姓利益，应该开除党籍，全面清查违法所得</p>
-<p><a href="http://weibo.com/u/3818854016">蘑菇笑得开花了</a>：好怕怕……现在这风潮，好像某个过去那时代，诋毁党，站在对立面……呵呵哒这用词……非要把不自由搞得如此淋漓尽致……</p>
-<p><a href="http://weibo.com/lestandby">Lestandby</a>：违反什么国法了？家法吧</p>
-<p><a href="http://weibo.com/u/3103165951">蒋小鹏tommy</a>：红色恐怖了吗</p>
-<p><a href="http://weibo.com/genwa" target="_blank">面朝东方看日升</a>：当他们来抓犹太人时，我保持沉默，因为我不是犹太人； 当他们来抓贸易工会主义者时，我保持沉默，因为我不是贸易工会主义者； 当他们来抓天主教徒时，我保持沉默，因为我是新教徒； 当他们来抓我时，已无人替我说话了。   ——波士顿犹太人大屠杀纪念碑铭文</p>
-<p><a href="http://weibo.com/2289860035" target="_blank">黑魔法白鲸鱼</a>：一点批评都不敢看到，这是做了啥心虚的事情大家都知道</p>
-<p><a href="http://weibo.com/1825061404" target="_blank">weierjie</a>：东厂，西厂，横空出世</p>
-<p><a href="http://weibo.com/5082324776" target="_blank">liuoiuty6huvtgo</a>：如果是犯罪就抓人啊！封微博是啥意思？</p>
-<p><a href="http://weibo.com/3198654437" target="_blank">两剪梅0624</a>：泱泱大国，居然容不得别人几句话，谏言，这说明我们的政府现在已经非常狭隘了，非常不自信了，不是什么好事情！</p>
-<p><a href="http://weibo.com/2697965241" target="_blank">星骑第一焦点</a>：当我死的那天，我会告诉给我的后人，我这辈子也没看到真正的言论自由了，希望我死后你能能拥有这样的本事，让中国能有真正的言论自由。</p>
-<p><a href="http://weibo.com/3059592802" target="_blank">朱景亮Oliver</a><i title="微博达人"></i>：一个国家禁止人民说不好的，言乱不自由，跟当年秦始皇有什么区别？反观其他国家，任其反对派怎么说，真理还是在人心</p>
-<p><a href="http://weibo.com/2616703052" target="_blank">山海槿</a>：堵住人家嘴巴，不许人家说话，然后一窝蜂进行批斗。哈哈哈，这一招真厉害！够狠！</p>
-<p><a href="http://weibo.com/2670875802" target="_blank">死去都是骷髅</a>：我只是想问关于关于任志强下面的评论为何好多点不开</p>
-<p><a href="http://weibo.com/zhangxiaohannb" target="_blank">南宫靖明-飞面传教士</a>：这次关微博你会怀疑是否有侵权，过不了多久你就该怀疑自己是否有权睁眼了。</p>
-<p><a href="http://weibo.com/2946755691" target="_blank">龙wilkins</a>：翻了翻微博，关键字任志强的就这里能评论了。 我说某dang能不用这么卑鄙的手段吗？</p>
-<p><a href="http://weibo.com/1841854221" target="_blank">遗梦_江南</a>：现面向全国招募第二次文化大革命红卫兵，有意向者请点赞。</p>
-<p><a href="http://weibo.com/1695748317" target="_blank">紫色有情怀</a>：任志强的微博封了 为何有关关闭任志强的报道不让评论？怕什么你们？说了个实话 你们就这样？历史会记录这一切的 这样的国家 有希望？</p>
-<p><a title="南洋富商饱醉豚" href="http://weibo.com/u/5762986526?refer_flag=1005055013_">@南洋富商饱醉豚</a>：你们把任志强凌迟处死也跟我没关系，那是你们党内的事儿，关我鸟事。只是你们宣布任志强违法言论，这太鸡巴可笑了，是否违法得法院审判，这是常识。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/430375/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E4%B8%8A%E7%BD%91/?category=18271" rel="tag">依法上网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7/?category=18271" rel="tag">立此存照</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E4%B8%AD%E5%85%B1%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E5%8F%8D%E4%BA%BA%E7%B1%BB%E5%8F%8D/" target="cdt-mirror">博谈网｜〖兲朝浮世绘〗中共的本质就是反人类反文明</a>
-</h2>
-<p><p>1.【盼着蒋经国，却来了个金正恩】</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005yczpRgw1f1f8w3i1pgj30ku112tc7.jpg?resize=549%2C976" alt="005yczpRgw1f1f8w3i1pgj30ku112tc7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005yczpRgw1f1f8w3i1pgj30ku112tc7.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005yczpRgw1f1f8w3i1pgj30ku112tc7.jpg?w=690 690w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>今天在网上看到腾讯视频的《要嫁就嫁习大大这样的人》这首歌，还没看到一半就恶心得要吐了。兲朝治下产流氓，作者也是够下三滥，一边喊着大大，一边喊着要嫁，真是太重口了。要是党国哪天能允许在网络上自由传播《要娶就娶彭麻麻这样的人》，网络上会是个啥样子…有网友说：一开始大家都以为盼来了个蒋经国，后来发现他是个金正恩…对此,俺无可辩驳…</p>
-<p>2.【中共的本质就是反人类反文明】</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b1156273jw1f1fcfq4w9tj20k00zktde.jpg?resize=550%2C978" alt="b1156273jw1f1fcfq4w9tj20k00zktde" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b1156273jw1f1fcfq4w9tj20k00zktde.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b1156273jw1f1fcfq4w9tj20k00zktde.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>国家网信办发言人姜军发表谈话称，网络空间不是法外之地，责令新浪腾讯等网站删除任志强帐号，并且“决不允许已被关闭账号的用户以换马甲等方式改头换面再次注册”。——禁止转世，剥夺网络权利终身！记得两年前微博（代码WB）在美国纳斯达克上市，阿里巴巴、富国银行等为大股东。WB公司的英文介绍大意：微博，实时公开自我表达，为社会互动提供强大的平台…微博已经成为中国的文化现象。微博可以让人们公开听取和接触到丰富的思想、文化…让世界变得更美好。//@宦卿世界:新文革是文革遗老遗少切网络建水军在互联网叫骂威胁，两高集立法司法审判于一身打开文革之门，抓诺奖和平奖得主律师记者，以公权建网络特务焚书坑儒，物理定位扑灭新思想新文化。旧文革砸烂公检法无法无天，新文革利用司法机关打开灾难之门。新老文革皆为国家法人犯罪，共性是反人类反文明。//张雪忠：对国家网信办关闭任志强先生微博的做法，我谨以个人名义予以强烈谴责。如果只是由中共对任先生施加党纪处分，我不会发表任何意见。但由政府机构封杀任先生的个人言论平台，就像封杀其他人的言论平台一样，都是对言论自由的粗暴压制，是侵犯公民基本权利的严重恶行。</p>
-<p>3.【人家是“看上去很美”，你党是“丑得没法看”】</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1eweifuz6j30je0jigo5.jpg?resize=690%2C694" alt="005vnhZYjw1f1eweifuz6j30je0jigo5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1eweifuz6j30je0jigo5.jpg?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1eweifuz6j30je0jigo5.jpg?w=690 690w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1ewehz8tyj30d30g1t9v.jpg?resize=471%2C577" alt="005vnhZYjw1f1ewehz8tyj30d30g1t9v" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1ewehz8tyj30d30g1t9v.jpg?resize=245%2C300 245w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1ewehz8tyj30d30g1t9v.jpg?w=471 471w" sizes="(max-width: 471px) 100vw, 471px" data-recalc-dims="1"></p>
-<p>求是网：“皇帝的新装”是对所谓西方“新闻自由”不错的形容。文章列举了苏联解体的例子称，舆论导向错误，就会动摇人心、瓦解斗志，危害党和人民事业。近些年来，受西方各类错误思潮侵蚀加之一些异见分子、“公知”大V们的叫嚣，西方所谓的“新闻自由”受到越来越多人的追捧。——关了几个所谓大v就能平息群众不满？公开支持党媒，设立网络防护墙就能阻止人们通过其他途径了解外面的世界？有些人把耳朵捂住，就以为听不到打雷声了，殊不知被雷劈死哪天，没人会给你收尸。感觉你党是拿任志强来检验党媒姓不姓党，不紧跟的位子不保，接下来可能会是全国党媒大合唱批臭任大炮，可要呱噪一阵子呢。</p>
-<p>4.【慌的，应该是他们】</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/48ec77e5gw1f1fbiyysagj20a70dwgm2.jpg?resize=367%2C500" alt="48ec77e5gw1f1fbiyysagj20a70dwgm2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/48ec77e5gw1f1fbiyysagj20a70dwgm2.jpg?resize=220%2C300 220w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/48ec77e5gw1f1fbiyysagj20a70dwgm2.jpg?w=367 367w" sizes="(max-width: 367px) 100vw, 367px" data-recalc-dims="1"></p>
-<p>每看到这张照片，我都为早死的萧红和流亡的张爱玲感到庆幸。新文革风雨欲来风满楼，瞧这全国媒体都姓党的架势，批斗批臭是免不了的了，建议大炮还是尽早选条明路退出中共吧。。//@河小西：批沈从文的时候，胡风认为自己是正确的；批胡风的时候，丁玲觉得自己是正确的；批丁玲的时候，周扬认为自己是正确的；批周扬的时候，姚文元认为自己是正确的。所以，对团派这些文痞，我一点也不生气，因为任志强倒了，慌的，应该是他们。</p>
-<p>5.【梁书记你要hold住】</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/59183920gw1f1fhds7rfvj20gn0cn75r.jpg?resize=540%2C410" alt="59183920gw1f1fhds7rfvj20gn0cn75r" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/59183920gw1f1fhds7rfvj20gn0cn75r.jpg?resize=300%2C228 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/59183920gw1f1fhds7rfvj20gn0cn75r.jpg?w=599 599w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
-<p>@月光博客：Facebook近日推出新功能，除了原有的赞外，其余五种选项包括心（love）、哈（haha）、哇（wow）、呜（sad）、怒（angry）。梁振英的面簿却遭香港网民“怒灌”。他前天在面簿上载一则“香港雇主联合会2016春茗”的贴文，吸引了10万7000多人表态，而其中10万4000多人选择了“怒”。——梁书记千万要hold住，你的党妈马上派1200万“中国好网民”来帮你点赞。。大家估计微博不敢推除赞以外的表情吧……要不某些微博要么太难看，要么就必须要关评论关表情，那样未免太讽刺。。</p>
-<p>6.【新华社是不专业还是故意隐瞒灾情？】</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6204ece1gw1f1eu4uomelj20c80963zj.jpg?resize=440%2C330" alt="6204ece1gw1f1eu4uomelj20c80963zj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6204ece1gw1f1eu4uomelj20c80963zj.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6204ece1gw1f1eu4uomelj20c80963zj.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>新华社消息：２６日１４时１８分，萍乡市安源区新学前巷２７号一栋６层房屋的四、五、六层发生部分坍塌。经过34小时的努力，事故搜救任务已于28日凌晨1时全部完成，共搜救出14人，其中6死1伤，7人无恙。萍乡市委宣传部介绍，初步分析，事故原因为此栋房屋405室业主装修时不当施工引发连续坍塌，具体细节正在进一步核实。——这个新闻的问题在于：倒掉的四五六三层总共住了多少人？倒塌时有多少人在楼里面？这个数据应该不难统计吧？为啥只说了救出来的死人和活人共14人呢？其他人连提都不提呢？新华社做新闻不知道是不专业还是故意隐瞒？</p>
-<p>7.【广电总局批《北上广不相信眼泪》：不能宣传被删减内容】</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/624c6377gw1f1ffu41urnj20fa0a674p.jpg?resize=550%2C366" alt="624c6377gw1f1ffu41urnj20fa0a674p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/624c6377gw1f1ffu41urnj20fa0a674p.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/624c6377gw1f1ffu41urnj20fa0a674p.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>@每日经济新闻：总局电视剧司李京盛表示，电视剧绝对不能宣传被删减的内容，“《北上广不相信眼泪》这个剧本身没什么问题，但是播出前，将全剧本来为数不多亲吻镜头、情色内容集中播放，造成观众觉得这个剧就是导向有问题的错觉。——兲朝的电视很快就会变成像北朝鲜的一样。//@杜君立：美国人费了几十年时间，才将电视变成电脑，中国人只用了几年，就把电脑变回电视。</p>
-<p>8.【埃塞俄比亚驻华大使：除了中国，我们还能跟谁学呢？】</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e04755gw1f1f1hysrr8j208d09f3ze.jpg?resize=301%2C339" alt="61e04755gw1f1f1hysrr8j208d09f3ze" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e04755gw1f1f1hysrr8j208d09f3ze.jpg?resize=266%2C300 266w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e04755gw1f1f1hysrr8j208d09f3ze.jpg?w=301 301w" sizes="(max-width: 301px) 100vw, 301px" data-recalc-dims="1"></p>
-<p>“中国用30年让6亿人脱贫，足以证明这一模式的成功。除了中国，我们还能跟谁学呢？”梅斯芬强调，期待与中国加强在产能领域的合作；这种合作是双赢的，一方面拉动埃塞增长，增加就业，另一方面转移中国的过剩产能。——6亿贫困人口……这货简直就是高级黑啊。是因为只有中国愿意白白撒币送钱给你们吧？</p>
-<p>9.【恶制之下，怎有安卵？】</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6680432djw1f1fg5h1nluj20go0i20ts.jpg?resize=541%2C586" alt="6680432djw1f1fg5h1nluj20go0i20ts" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6680432djw1f1fg5h1nluj20go0i20ts.jpg?resize=277%2C300 277w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/6680432djw1f1fg5h1nluj20go0i20ts.jpg?w=600 600w" sizes="(max-width: 541px) 100vw, 541px" data-recalc-dims="1"></p>
-<p>26日晚21时30分许，北京昌平区人民法院回龙观法庭38岁法官马彩云夫妇在住所楼下遭到两名歹徒枪击，丈夫受轻伤，马彩云经抢救无效死亡。两名歹徒逃跑后均自杀身亡，其中一人系该法官审理的一起离婚后财产纠纷案原告。——//@記録者陳寳成：说句不合时宜的话，不吐不快：一个法官被害，我看到许多律师站出来发言哀悼并谴责暴力。以前一群律师被官方围剿，我看到有的法官伴着五毛落井下石。葛永喜律师：法官当以法为本，护法以利其民。但在非法治国家，其本质是官，为专制掌刀把。昨戮其民，今害其身，因果而已。我不痛一人殒殁于非命，一业未兴即凋，然痛国之弊大，而民知却自甘沉沦！</p>
-<p>10.【谁来为这些被浪费的钱负责？】</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b270f231gw1f1fhfzmk98j20cs08nwf9.jpg?resize=460%2C311" alt="b270f231gw1f1fhfzmk98j20cs08nwf9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b270f231gw1f1fhfzmk98j20cs08nwf9.jpg?resize=300%2C203 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/b270f231gw1f1fhfzmk98j20cs08nwf9.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"></p>
-<p>@慕容清扬：围墙未拆牌楼先折了。位于北京长安街复兴内大街18号国家开发银行总部大楼的大牌坊拆除一事，引起沸沸扬扬。为什么拆？国开行今天释称，是根据中央第五巡视组反馈意见及长安街沿线景观、照明等统一要求进行整改。当初建时为何能通过规划？这一建一拆要费多少钱？相关领导是否应该为此埋单？</p>
-<p>11.【成都大妈退休炒股1年挣20万 买了奔驰和别墅】</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e7df1fjw1f1fec7j9v1j20a007it9b.jpg?resize=360%2C270" alt="61e7df1fjw1f1fec7j9v1j20a007it9b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e7df1fjw1f1fec7j9v1j20a007it9b.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/61e7df1fjw1f1fec7j9v1j20a007it9b.jpg?w=360 360w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1"></p>
-<p>华西都市报消息：周林芳(化名)曾经是四川某高校的老师，1993年以前还从未接触过金融。当初，女儿以为她只是玩玩而已，没想到她却赚到了比工作几十年工资还要多的钱。周林芳1993年开始炒股，用股市上赚来的钱为家人买了奔驰和别墅……——哇啊啊，“她不懂股市却买什么涨什么”？华尔街分析师及各路券商分析师哭晕在厕所……</p>
-<p>12.【上海两女孩蹲着等地铁，网友拍照上传称“不文明”引发热议】</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/005vnhZYjw1f1escrzeh8j30go0kmmyr.jpg?resize=544%2C673" alt="005vnhZYjw1f1escrzeh8j30go0kmmyr" data-recalc-dims="1"></p>
-<p>近日 ，有网友在微博发图，称在上海地铁站台上，有两个女孩蹲着等地铁“不懂得教养”。这条微博被不少“大V”号转发后，在网上引发了热议。与去年11月发生在北京地铁的年轻妈妈哺乳事件一样，正反两方在网上激烈争辩。——@没有羊先生：女孩不能蹲着。任志强被封杀。嫁人就要嫁习大大。奥斯卡/金像奖直播被掐。网络剧被下架。学习《党委会的工作方法》。——微博终于到了每个热门话题都如此药丸的地步。啊，当代生活。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E4%B8%AD%E5%85%B1%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B0%B1%E6%98%AF%E5%8F%8D%E4%BA%BA%E7%B1%BB%E5%8F%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98/?category=18271" rel="tag">兲朝浮世绘</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +598,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +608,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E4%BB%BB%E5%BF%97%E5%BC%BA%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E9%9D%B6%E5%AD%90/" target="cdt-mirror">德国之声 | 长平观察：任志强是最好的靶子</a>
+</h2>
+<p><p>任志强是国企退休干部，曾获”优秀共产党员”党内荣誉称号。因为所从事的是这十多年来风起云涌的房地产业，他和很多房地产大佬一样成为商业明星，又在打压专业评论而欢迎企业家及娱乐明星发表时事意见的网络氛围中成为意见领袖，拥有数千万粉丝，出版畅销著作。</p>
+<p>和很多体制内成功人士和意见领袖一样，任志强对于中共僵化的官僚体系及陈腐的舆论宣传很不满意。去年9月，当团中央官方微博宣传”我们是共产主义接班人”时，任志强评论说”曾经被这个口号骗了十几年”。在随后的争论中，任志强表明”我不反对中国共产党，至少在目前还是优秀共产党员”，而是反对”空谈什么共产主义”，希望”改革能建立新的制度，解决社会中现存的各种问题”。</p>
+<p>近日，习近平视察新华社、人民日报及中央电视台等中央媒体，要求”党媒必须姓党”。任志强在微博质疑，”人民政府啥时候改党政府了？花的是党费吗？””当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了!”</p>
+<p>一场以意识形态为名的更直接的效忠运动正在酝酿之中。眼下正当风口浪尖的任志强”反党言论”事件，只是一个开头。</p>
+<p>在习近平的强硬作风之下，作为既得利益集团的一员，任志强说出这些批评意见，是十分勇敢或者非常不识时务的。迅速地，网络、报纸和电视上，出现了对他的舆论围攻。这些批评认为，他作为一个共产党员，违反党的政治纪律，妄议中央大政方针，是”党性的泯灭、人性的猖狂”。还有人批评说，羊有跪乳之恩，鸦有反哺之义，任志强受党之恩惠，获得财富、身份和地位，不思报答，却为反华势力张目，违背人伦道德。国家网信办发言人罕见地就关闭任志强微博账号发表谈话，称他发表违法言论。不出意料地，也有文章揭露他涉嫌行贿犯罪。</p>
+<p><strong>党媒最好的攻击靶子</strong></p>
+<p>任志强不是中共的反对者，因此也不是彻底的批评者。不少异议人士认为，和很多体制内荐言者一样，任志强事实上希望中共专制长治久安。他所主张的言论宽松，不过是成为意见领袖之后”两头通吃”。尤其不能原谅的是，他曾公开声称支持中共镇压”六四”屠杀，并得意洋洋地回忆曾赠送戒严部队一辆吉普车和若干蔬菜。有些人认为，无论他过去做过什么，只要他现在给习近平媒体噤声添乱，为人民大众说话，就应该得到支持。还有一些人认为，他因为批评政府被禁言，遭受舆论围攻，甚至面临审判，就是因言获罪，应该声援。</p>
+<p>的确，相对于任志强”不反党”的批评而言，主张彻底反对的南方街头运动，宣称”颠覆这个政权我没有罪”的王默、郭飞雄等政治活动家，应该得到更多的尊敬和支持。然而，对大多数中国人来说，正是”不反党”的宣示，才让他们敢于站出来声援。</p>
+<p>有些批评者认为，任志强应该先退党，才有批评党的资格。应该看到，中共控制了几乎所有的社会资源，在很多领域不入党就等于放弃职业晋升机会。有了一定的社会地位和身份之后，退党差不多就等于颠覆政权罪了，大多数人都无法承受这样的代价。因此，这样的要求，大约等同于让大多社会精英闭嘴，在言行上效忠于专制政府。这也是为什么，中共党媒对任志强批评中，也列着同样的理由。</p>
+<p>对于党媒而言，任志强言论也是一个最好的攻击靶子，用作在大批判中统一思想的材料。刘晓波、许志永、郭飞雄和伊力哈木的政治主张，他们并不敢拿来公开批判，而是粗暴抹黑然后严格封杀。</p>
+<p>针对任志强的大字报式批判，让很多人感觉到”文革”重来。通过以上分析，我们可以对”文革”有更多的了解。有些人以为，”文革”中可以随意揭发”反动言论”，其实是受到误导。在铺天盖地、热闹非凡的揭发批判中，真正的反对意见，比如林昭的思想，了无踪影。</p>
+<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E4%BB%BB%E5%BF%97%E5%BC%BA%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E9%9D%B6%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/" target="cdt-mirror">BBC| 《南都》因严重“导向事故”开除编辑</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=660%2C371" alt="《南方都市报》发生“严重事故”的版面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>《南方都市报》发生“严重事故”的版面</p></div>
@@ -599,26 +621,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E9%9D%99%E5%80%99%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%9B%9E%E5%88%B0%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E7%9A%84%E9%98%9F%E4%BC%8D%E4%B8%AD%E6%9D%A5/" target="cdt-mirror">王药师：静候任志强回到人民群众的队伍中来</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/640-3.jpg?resize=215%2C171" alt="640" data-recalc-dims="1">中央有关拆除小区围墙的“意见”才发布没几天，就有细心的群众发现，国家开发银行已开始着手拆除其总行主楼前竖立的九龙牌坊。正当人们准备为国开行带头执行中央命令点赞时，路边社传来消息，指其之所以这么做，是因为受到了中央巡视组的批评，认为竖立九龙牌坊严重违反了政治规矩。的确，我也觉得国开行此举非常放肆，要知道九龙是最高权力的象征，区区国开行你也配用九龙？放在过去，这是要砍头的大罪，现在仅仅让你们拆除，实在是皇恩浩荡，赶紧地叩头谢恩吧！</p>
-<p>同样“放肆”的还有任志强。针对这老兄屡屡妄议中央，甚至质疑“媒体姓党”的最高指示，却还自称是“优秀共产党员”，气急败坏狗急跳墙的五毛人士最近纷纷贴出了自己的“大字报”，左一句“8000多万党员的耻辱”，右一声“反动的资本翻天派”，全然是一副要将任志强生吞活剥的架势。看着他们“立场坚定斗志强”的冲天干劲，不少人开始猜测，任大炮这不回恐怕真的够呛，说不定会被开除党籍、踢回群众。而最新传来的关于其微博账号已被全网封杀的消息，更进一步加剧了这种传言。</p>
-<p>作为群众，说实话对于那些因为贪污受贿、违法犯罪、内部斗争失败而被开除党籍踢回群众队伍的家伙，我们是非常不欢迎的。特别是其中的“优秀共产党员”，按照最近社交媒体上流行的“关于党性与人民性的数学证明”结果，基本上都是些有党性没人性，人性泯灭党性猖狂，“狗不如的人间渣滓”。这样的货色留在党组织里面，或许还能算是名实相符，踢到人民群众的队伍里来那就十二万分的不合适了，势必会破坏群众队伍的纯洁性。用我们楼下低保户钱孙李的话说，凭什么党员一犯错误就踢回到我们群众中来，你当群众是坏分子的回收站啊？</p>
-<p>话虽如此，但凡事总有个特例，比如对任大炮这位“优秀共产党员”，如果哪一天党妈不疼国爹不爱，真的被开除党籍清理出队伍，退回到人民群众中来，至少我个人是会鼓掌表示热烈欢迎的。这倒不是因为我活学活用了“四个伟大”有关“敌人的敌人就是朋友”的战略思想，而是在我看来，任志强多少还是一个对人民群众有用的人，本着唯才是举的原则、宽大为怀的精神，我们还是应该欢迎他、接纳他，让他戴罪立功，为人民服务。</p>
-<p>或许有人要问了，任志强这么一个过了气、失了宠、退了休，成天遭五毛追杀的丧家犬，除了会放几响口炮外，还能有什么用？用处可大了！首先，任志强深谙中国经济，虽然嘴巴臭了点，话损了些，但其对房价走势的预测，显然比百分之九十九的经济学砖家准确得多。面对一贬再贬的人民币汇率、一降再降的GDP增速，群众确实需要一位看得准、说得对的理财顾问，以防被有关部门的相关负责人当猴耍，落得个人财两空家破人亡；当然更重要的还是任志强的高层背景，它有助于群众及时了解中央信息、掌握高层动态，以便适时采取各种应对措施，免得再像当年那样傻乎乎地落入人家的阳谋，沦为一场游戏一场中国梦的牺牲品。</p>
-<p>事实上，不止任志强，对于像贺卫方、茅于轼、孙海英等共产党员，我们也是欢迎他们回到群众队伍中来的。这不仅仅是由于大伙需要贺卫方教授这样的法律人来帮忙伸张正义，对孙海英先生的影视作品喜闻乐见，而是因为人民群众历来求才若渴，懂得礼贤下士，只要你有一技之长，能够为人民服务，我们都敞开怀抱表示欢迎，即便你曾经失足入过党做过党员，人民群众也会不计前嫌既往不咎。</p>
-<p>不像某些组织，脆弱的好像长了颗玻璃心，动不动就把自己的同志打入另册，说这个反动，指那个是叛徒，结果搞得自己成为孤家寡人，内失民心外无援手，还成天在那里自吹“我们的朋友遍天下”，除了能过过嘴瘾，自欺欺人一把，并没有什么卵用。留在这样的组织里，而且还能评上“先进”“优秀”，共产党员不愧是用特殊材料制成的，佩服啊佩服。只是，就凭任大炮这副老胳膊老腿，经受得起这样的考验吗？</p>
-<p>说了这么多，诚意表现得够充分了吧。那好，现在就只剩下一个问题：任志强先生，你到底回不回人民群众的队伍中来，啥时候回来，能否给了准信？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E7%8E%8B%E8%8D%AF%E5%B8%88%EF%BC%9A%E9%9D%99%E5%80%99%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%9B%9E%E5%88%B0%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E7%9A%84%E9%98%9F%E4%BC%8D%E4%B8%AD%E6%9D%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -630,7 +632,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -640,5 +642,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

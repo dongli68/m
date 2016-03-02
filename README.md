@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%85%83%E6%B7%A6%E6%81%AD%EF%BC%9A%E5%AF%B9%E8%BF%91%E6%9C%9F%E4%B8%80%E8%BF%9E%E4%B8%B2%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%9C%8B%E6%B3%95/" target="cdt-mirror">元淦恭：对近期一连串事件的看法</a>
@@ -208,6 +208,25 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7
 	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/" target="cdt-mirror">BBC| 《南都》因严重“导向事故”开除编辑</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=660%2C371" alt="《南方都市报》发生“严重事故”的版面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>《南方都市报》发生“严重事故”的版面</p></div>
+<p><strong>中国南方报业集团下属《南方都市报》因深圳地方版报道习近平“党的新闻舆论工作座谈会”，提出“党和政府主办的媒体必须姓党”的版面出现“严重导向事故”，而宣布开除编辑和行政处分副总编等严厉惩处措施。</strong></p>
+<p>据南方报业传媒集团内部文件（南字[2016]5号）称：“任天阳同志代表南都报系党委向集团党委作出深刻检讨，对当晚值班编委、南都副总编辑王海军同志作出行政记大过处分并报省宣纪组建议给予党内严重警告处分，对编辑刘玉霞同志作出行政开除处分。”</p>
+<p>南方报业集团内部文件还表示， “因采编人员严重缺乏政治敏感”，造成版面严重错误，被个别人在网上恶意解读导致严重导向事故。虽然集团已尽快采取坚决措施，尽最大努力将负面影响降到最低，但仍然干扰了工作大局，尤其是在新闻宣传战线深入学习习近平总书记关于新闻舆论工作重要讲话精神的重要关头，这一严重导向事故影响极其恶劣，教训十分深刻。</p>
+<p>“严重事故”</p>
+<p>另据微博上活跃的“自干五”地瓜熊老六举报，2月20日南方都市报深圳版头版，在习近平消息通栏大标题下当天新闻主图中，配上改革元老袁庚海葬“魂归大海”的图文，而该报广州版的配图，则是习近平视察央视《新闻联播》的新闻照片。</p>
+<p>一些批评南方系的“自干五”据此解读，在习近平视察媒体的大日子里，南都在头版配上“魂归大海”的照片，显然居心叵测。</p>
+<p>近来，习近平政权接连高调出台新政策高压管制媒体，要求官方媒体必须“姓党”。</p>
+<p>不少国际媒体评论认为，管制媒体、抢抓话语权，显示习近平急于强化个人权威，力争尽快集权的心态。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85/?category=18271" rel="tag">严重事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F/?category=18271" rel="tag">政治敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/" target="cdt-mirror">BBC | 《南都》因严重“导向事故”开除编辑</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=660%2C371" alt="《南方都市报》发生“严重事故”的版面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>《南方都市报》发生“严重事故”的版面</p></div>
 <p><strong>中国南方报业集团下属《南方都市报》因深圳地方版报道习近平“党的新闻舆论工作座谈会”，提出“党和政府主办的媒体必须姓党”的版面出现“严重导向事故”，而宣布开除编辑和行政处分副总编等严厉惩处措施。</strong></p>
@@ -616,38 +635,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/" target="cdt-mirror">【网络民议】长者名字完好 “大”倒是断了</a>
-</h2>
-<p><p>据@厦门广电：月29日早上7点多，多位市民报料，集美大桥出岛方向刚过下穿隧道出口不远处的写有“集美大桥”的石牌断裂，半块多的石牌砸落在草地上，压坏了栏杆，占用右侧半个车道车。受此影响，早高峰出岛方向交通发生滞留。目前排队排到枋钟路brt站点附近。</p>
-<p>另据@厦门天气在线 今日集美大桥的最大风速为1.9m/s，风力为2级，故此因不足以断石碑。且目前亦排除人为交通事故所为。初步判断此次石碑断裂属于自然断裂。（新浪新闻）</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=550%2C413" alt="CcWWYyUW8AAc2uj" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/CcWWYyUW8AAc2uj.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=550%2C363" alt="nF15-fxpwmrp0358078" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/nF15-fxpwmrp0358078.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>莲~!~悟：那块石头有甲线，好几年前就看过，不知道当时怎么能质检过关，只要在矿山和板材场呆过都懂，中国红包害死人。</p>
-<p>简简单单：风大，吹断的。</p>
-<p>atomhelix：厦门集美大桥带蛤蛤签名的石碑突然断裂…这是凶兆啊，各位蛤丝请快捐出自己的一秒，积沙成塔，为蛤续命。</p>
-<p>charliechou：集美大桥的牌子断了，大字被毁了，长者签名完好。</p>
-<p>红尘客栈-原罪：提名者安然无恙，大字断为两截。</p>
-<p>BY我的世界：反正摸着石头过河又不需要这个桥。</p>
-<p>luise92：愿他和党，长命百岁。</p>
-<p>朋酒斯飨–：长老躺地，大大劈裂，两败俱伤？</p>
-<p>百里千青：你们不要总想着要搞个大新闻，我可是身经百战。</p>
-<p>菅原舜水：这次集美大桥题名断裂，值得注（神）意（棍）的是断处，大断而蛤全。大断于尾，恐应“鲜克有终”一词。（以上皆是胡扯，如有雷同，纯属拿衣服。）</p>
-<p>云飞扬3880：天降异象，必有冤情啊。</p>
-<p>heanquan：江泽民日记（2016，2，29）昨梦见从高处坠落。醒后被告知，“集美大桥”题字碑崩裂掉落。<br>
-请方士判吉凶。曰：“大”字足裂，预示”大大“折一手足。江老无恙。</p>
-<p>丁丁历险记go：天有异象，必生妖孽！吾皇江山危矣！</p>
-<p> </p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E7%83%AD%E9%97%A8%E8%AF%84%E8%AE%BA.jpg?resize=550%2C517" alt="热门评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?resize=300%2C282 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/热门评论.jpg?w=618 618w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>头条新闻下的热门评论无法显示</p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%95%BF%E8%80%85%E5%90%8D%E5%AD%97%E5%AE%8C%E5%A5%BD-%E5%A4%A7%E5%80%92%E6%98%AF%E6%96%AD%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3-%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习近平.习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -659,7 +646,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -669,5 +656,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

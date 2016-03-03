@@ -21,9 +21,191 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E7%BD%91%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E7%9A%84%E9%AB%98%E7%BA%A7%E9%BB%91/" target="cdt-mirror">民族复兴网｜山西闫光宇：旗帜鲜明的高级黑</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B%E6%81%B6%E6%90%9E%E4%B9%A0%E6%80%BB.jpg?resize=551%2C413" alt="鳩鵪漫畫：敌对势力恶搞习总" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?w=1024 1024w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p><strong>（一）</strong></p>
+<p>大宋熙宁二年（1069年）2月，宋神宗任命王安石为参知政事，并设立“制置三司条例司”，用以统筹财政。7月立淮浙江湖六路“均输法”，9月“青苗法”出台……震铄古今的“熙宁变法”开始推行。</p>
+<p>此时，距太祖开国已经109年。在这百年中，朝廷纵容功臣与官僚兼并土地，致使”富者有弥望之田，贫者无立锥之地”。大批农民丧失土地，从此遭受地主与官僚的层层盘剥，致使流民四起；富豪隐瞒土地，导致财政收入锐减。真宗时已国用不足，神宗时赤字更加严重，可谓“百年之积，惟存空簿”。</p>
+<p>如果说26年前的“庆历新政”重在限“恩荫”、抓人事，那么以“青苗法”、“方田均税法”、“市易法”等为主要措施的“熙宁变法”就重在抑兼并、抓经济。比如：用青苗法取代上等户的高利贷，限制高利贷对农民的盘剥；用方田均税法限制官僚和豪绅大地主的隐田漏税行为；用市易法使富商独占的商业利润中的一部分收归国家，打击富商对市场的操纵和垄断；均输法的推行限制富商大贾对市场的操纵和对民众的盘剥……</p>
+<p>但变法终究失败。</p>
+<p>因为王荆公当时根本就没明白一件极重要的事：掌握政权的到底是谁。</p>
+<p>他以为是大宋皇帝。皇帝贵为天子，口含天宪，一声令下，万民俯首。于是他借天子口，行圣人事。</p>
+<p>然而他根本就不明白：皇帝只是官僚地主的代表，而不是官僚地主的君父。皇帝代表着官僚地主的利益，而不是官僚地主的全部。当皇帝不能代表官僚地主的利益时，皇帝……可以换。</p>
+<p>暂时换不掉呢？那就抵制你。明面上肯定不行，但可以充分发扬“敢碰硬、不硬碰”的精神：</p>
+<p>你要推青苗法，我们就硬性摊派、强制农民借贷；你要推农田水利法，我们就“积极立项”、强制百姓兴建水利；你要推募役法，我们就以此为名强制索要募役经费，连担水、理发、茶贩之类的小买卖，不交免疫钱都不许经营；至于方田均税法，丈量全国土地的都是大小甲头和小吏，而大小甲头和小吏又都是兼并富豪之家，以兼并富豪之家来丈量兼并富豪之家的土地能执行？</p>
+<p>……</p>
+<p>所以，变法一出，百姓必定不堪重负、苦不堪言。之后，我们还可以组织农民进京上访（1072年，东明县农民一千多人集体进京在王安石住宅前抗议），让你看看“民心”和“民意”何在。</p>
+<p>于是利民富国的“善法”也就成了“恶法”，王安石也难遭笔伐，骂他“聚敛害民”、“剥民兴利”，成了“乱天下”（曹太后与高太后语）的误国书生，甚至是“祸国殃民”（《神宗实录》、《宋史》）。</p>
+<p>最后还要把你变法的重要支持者都是见利忘义的“小人”这事（吕惠卿、章惇、曾布、蔡卞、吕嘉问、蔡京、李定、邓绾、薛向，没一个是正人君子），放到史书里着重“体现”下。让你知道知道，掌握政权的到底是谁。</p>
+<p><strong>（二）</strong></p>
+<p>洪武年间，皇帝常言：“我本淮右布衣，天下与我何加焉”。郭桓、空印两案判下，官员惶惶。整风肃贪之严，空前绝后。但皇帝是太祖，换不掉，而且用对付王荆公的方法对付他的话，被凌迟的机率显然太高，怎么办？等他死，反正他的继承人一定不是他。然后著书立说骂他，骂他薄情寡义、屠戮功臣，骂他刚愎自用、思想偏激，骂他残忍冷血、屠夫本性，实在不行了，还可以骂他“贼王八出生”（出自袁**），连画像都要画到极丑。他驱除鞑虏、复兴中华的历史功绩，我们从来都不提。</p>
+<p><strong>（三）</strong></p>
+<p>黄帝历4647年之后的几十年，“皇帝”认为自己不是皇帝，而是“农民的儿子”。而且也是“太祖”，换不掉，跟着他干吧，又“不轻松”（出自《让**飞》）。怎么办？他毕竟不是真皇帝，显然也不是洪武年间的那位，当然可以把对付王荆公的办法升级下对付他。他说要革命，我们就更“革命”，比他还“革命”。他说“超英赶美”，我们就“亩产十万斤”、“人有多大胆、地有多大产”，他说“要文斗”，我们就武斗，斗倒一切。要把他捧成伟大的导师、伟大的领袖、伟大的统帅和伟大的舵手，尽管他谦虚的说自己只是一个老师，那就继续捧，让他迷失，让他出错，等他死了，我们就把一切罪恶扣他头上，像骂洪武皇帝一样，骂死他，骂他是魔王、骂他是暴君、骂他反人类、骂他是腊肉……至于他建党建国建军、带领民族争得独立、摆脱被奴役地位、建成工业化强国、重塑民族自信等等的伟大历史功绩，我们从来都不提。</p>
+<p><strong>（四）</strong></p>
+<p>黄帝历4677年之后的一段时间，“皇帝”认为自己不是皇帝，而是“人民的儿子”。而且是“太宗”，也不好换，他居然说“太祖”仍有七分功绩，居然还不把政权交给我们，不能忍啊，怎么办？他毕竟不是真皇帝，显然也不是洪武年间的那位，当然可以把对付王荆公的办法升级下对付他。他说变法，我们也说变法，说的比他还狠，做的比他还绝，无目的的变，无节制的变，不管他死了还是活着，都要打着他的旗号、借着他的名义，把新自由主义经济学的“理想信念”插到每一个官员的“思想高地”，要宣布一切公有皆是罪恶，要宣传市场绝对万能，要抨击国家壁垒的邪恶，要鼓吹工业产业的虚无（做衬衣和做飞机一样一样的）。至于他说的另一基本点“四项基本原则”，不提就好了。要逐步引导这个政党丧失共产主义的理想信念和国有企业的经济基础，从而分崩解散，并侵吞其资产，这样我们才好摇身一变成巨富，退居幕后能掌权。至于“太宗”，今天能把他捧成“总设计师”，明天就能骂他，骂他专制腐败，骂他残酷镇压学生，骂他矮、骂他猫，反正变法过程中发生的贫富不均、医患、警民矛盾等等所有的黑锅，统统让他背，至于他承前启后、接续奋斗，强国富民、稳定发展的历史功绩，我们从来都不提。</p>
+<p><strong>（五）</strong></p>
+<p><strong>　你们要纪念抗日战争70周年</strong>，号召拍抗日剧，我们就积极响应，拍抗日神剧，手撕鬼子、裤裆藏雷。</p>
+<p><strong>  你们要在电视网络空间拒绝黄色</strong>，我们就把胸剪掉。</p>
+<p><strong>　你们实施“八项规定”，不让乱发福利</strong>，我们坚决执行，坚决到不发任何福利，坚决到把正常的员工福利统统停掉。</p>
+<p><strong>　你们实施“八项规定”，不让办公室超标</strong>，我们坚决执行，而且比你还坚决，坚决到“严格”细化各项标准，让你们“打隔断”，“换桌子”，再花一笔钱。用形式主义来反对官僚主义。</p>
+<p><strong>你们实施“八项规定”，反“四风”</strong>，我们坚决执行，比你还坚决，反“四风”反到什么工作都不干。</p>
+<p><strong>　你们要推行社会主义核心价值观</strong>，我们也推，推到极致，我们会逼着每一名学生全、部、背、会。要有哪个学校的学生背不上，我们就利用网络，通报批评其校长。</p>
+<p><strong>你们要加强意识形态工作，强调晚会的政治属性</strong>，我们就坚决执行，比你还坚决：插旗子、摆造型、说官话、喊口号，处处体现中心，处处提到大局，处处围绕核心。</p>
+<p>我们就是要让观众厌恶你、让群众讨厌你，让学生、员工厌倦你，让全社会都反对你。风向右，我们就往死了“右”，风向左，我们就往死了“左”。实事求是从来都不是我们的作风，讲究“时、度、效”也从来都不是我们的方法，<strong>我们就是要让观众、员工、学生乃至所有老百姓觉得你们假、大、空，黑暗、独裁、专制、腐败、僵化、极端、反人类。</strong></p>
+<p><strong>　因为我们是高级黑。</strong></p>
+<p><strong>（六）</strong></p>
+<p>“我们正在进行具有许多新的历史特点的伟大斗争，面临的挑战和困难前所未有，必须坚持巩固壮大主流思想舆论，弘扬主旋律，传播正能量，激发全社会团结奋进的强大力量。关键是要提高质量和水平，把握好时、度、效，增强吸引力和感染力，让群众爱听爱看、产生共鸣，充分发挥正面宣传鼓舞人、激励人的作用。”——摘自“819讲话”。</p>
+<p>其实，<strong>旗帜鲜明的推进意识形态并不代表形式上的旗帜鲜明。显然，关于“时、度、效”他们也是从来都不做、从来都不提。</strong></p>
+<p><strong>　显然，他们已经在用当初对付主席的手段，来对付大大了……</strong></p>
+<p><strong>（七）</strong></p>
+<p>熙宁九年（1076年），王安石辞去宰相，从此隐居江宁，不问世事。有人说，是因其子王雱病故的缘故。我猜，他一定是明白了些什么，心灰意冷。</p>
+<p><strong>　“时来天地皆同力、运去英雄不自由”，这本是那位自称教师的老人曾经从罗隐处信手拈来评价李延寿的诗句，但据说他在晚年常常用来幽幽自语……</strong></p>
+<p><strong>　思之令人泪下。</strong></p>
+<p>丙申年正月初一，光宇有感某晚</p>
+<p> </p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E7%BD%91%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E7%9A%84%E9%AB%98%E7%BA%A7%E9%BB%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E6%8A%97/?category=18271" rel="tag">抵抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%96%E5%9D%91/?category=18271" rel="tag">挖坑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8D%97%E9%83%BD%E5%A4%B4%E7%89%88%E7%96%91%E7%8E%B0%E8%97%8F%E5%A4%B4%E8%AF%97%E5%BC%95%E5%8F%91%E9%A3%8E%E6%B3%A2/" target="cdt-mirror">纽约时报｜南都头版疑现“藏头诗”引发风波</a>
+</h2>
+<p><p>北京——在中国一家重要报纸的头版上，一些字仿佛组成了一句含蓄的诅咒。这是反共阴谋的结果，还是一时的疏忽？</p>
+<p>分开来看的话，2月20日《南方都市报》深圳版头版上的两则标题完全没有恶意。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%AD%82%E5%BD%92%E5%A4%A7%E6%B5%B7.jpg?resize=449%2C414" alt="魂归大海" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/魂归大海.jpg?resize=300%2C277 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/魂归大海.jpg?w=449 449w" sizes="(max-width: 449px) 100vw, 449px" data-recalc-dims="1"></p>
+<p>一个横跨两行的通栏大标题写着“党和政府主办的媒体是宣传阵地必须姓党”。此前一天，中国国家主席习近平在北京举行了一场关于新闻媒体的高级会议，并到共产党和政府主办的《人民日报》、新华社和中央电视台这三家新闻机构调研，强调了一项由来已久的意识形态控制政策。这项政策现在叫“媒体姓党”。</p>
+<p>大标题正下方的照片里，人们以哀痛的神情把南方著名商人袁庚的骨灰撒向大海。旁边是一个言简意赅的标题：魂归大海。袁庚是招商银行和平安保险的联合创始人，今年1月去世，享年98岁。对很多人来说，他是毛泽东去世后，中国对外开放的象征。</p>
+<p>但如果把第一个标题每一行的最后两个字和下面的标题合起来，就显得有恶意了，仿佛是在哀叹共产党日渐加强的控制之下，中国记者的命运：</p>
+<p>“媒体姓党</p>
+<p>魂归大海”。</p>
+<p>封锁政治丑闻的惯常机制已经开始全速运转。这种含蓄的腹诽是中国的一个政治传统，引发这一事件的背景是，随着政府扩大控制，意识形态领域愈发紧张。此外，在全国人民代表大会本周在北京召开前，紧张氛围也有所升级。</p>
+<p>微博上的一些帖子指出了其中可能是咒骂的措辞，但相关帖子很快便被删除了。相关讨论仍在发酵，但由于话题敏感，转移到了私下的谈话中。最后，该报似乎受到了处理。一份文件详细反驳了外界的猜疑，并作了自我批评，还对相关记者做了降职处分。</p>
+<p>周二，一份据称来自《南方都市报》所属的南方报业传媒集团的文件开始在网上流传。文件承认出现了“严重错误”。该报的多名记者表示未收到文件，但其中一人表示，当天在该报的内部网站上看到了一份相同或类似的文件，不过无法下载。因为担心遭到报复，这些记者要求不公开身份。</p>
+<p>网上流传的那份文件称，头版两个标题放在一起是重大错误，并非阴谋。文件还对社交媒体上的“恶意”解读进行了抨击。</p>
+<p>文件写道：“因采编人员严重缺乏政治敏感，造成版面严重错误，被个别人在网上恶意解读导致严重导向事故”。这是党对意识形态错误的说法。</p>
+<p>“尤其是在新闻宣传战线深入学习习近平总书记关于新闻舆论工作重要讲话精神的重要关头，”文件称，“这一严重导向事故影响极其恶劣，教训十分深刻。”</p>
+<p>文件显示，三名采编人员受到了惩罚。文件称总编辑任天阳做了“深刻检讨”，副总编辑王海军被行政记大过，该版责任编辑刘玉霞被开除。</p>
+<p>在电话联系到任天阳时，他说自己对此事一无所知。王海军表示没看到文件，拒绝置评。刘玉霞称，她在移动消息平台微信上看到了文件，但并未接到正式的处罚通知。</p>
+<p>在被问到是不是为了传达讯息而有意将标题安排成这样时，刘玉霞说：“当然不是，我肯定没有这样的意图。”</p>
+<p>记者周三致电《南方都市报》时，接电话的人否认该报下发了处罚文件，称那是“虚假的”。她拒绝透露自己的姓名。</p>
+<p>一些人怀疑，没人会故意制造这么明显的辱骂。</p>
+<p>“不可能是故意的，”《南方都市报》另一名要求匿名的记者说。</p>
+<p>“这非常、非常严重，”他说。“现在没人敢这么做。”</p>
+<p>这名记者称，社交媒体上对那两个标题过度解读了。“全都在解读，现在都成微博上的热点了，”他说。</p>
+<p>香港大学新闻及传媒研究中心中国传媒研究计划(China Media Project)网站的编辑班志远(David Bandurski)表示，标题似乎暗含讽刺的做法是不是故意的，“尚无定论”。</p>
+<p>但他表示，这件事符合“藏头诗”的传统。在中国政治压迫的环境下，藏头诗长期盛行。</p>
+<p>“我们不会看到有人说，是我干的，”班志远说。</p>
+<p>“在媒体会被下令刊登习近平的照片和相关标题的今天，做这种事是非常嚣张的，”他说。</p>
+<p>但如果这的确是诗的话，也太含蓄了。</p>
+<p>“真是太含蓄了，在网上有人解读，才成了一个现象，”班志远说。</p>
+<p>《南方都市报》的记者表示，刘玉霞口碑很好，不会因为犯错被开除而受到长期的影响。</p>
+<p>“这对刘玉霞来说不算是个损失，”他说。“在这种媒体环境下不算。”</p>
+<p> </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8D%97%E9%83%BD%E5%A4%B4%E7%89%88%E7%96%91%E7%8E%B0%E8%97%8F%E5%A4%B4%E8%AF%97%E5%BC%95%E5%8F%91%E9%A3%8E%E6%B3%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%BB%A5%E6%98%AF%E5%90%A6%E5%A7%93%E5%85%9A%E5%AE%9A%E5%A5%96%E6%83%A9/" target="cdt-mirror">苹果日报｜李平：以是否姓党定奖惩</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CcYBQlvVIAEvC27.jpg-large.jpg?resize=460%2C116" alt="姓党.jpg-large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CcYBQlvVIAEvC27.jpg-large.jpg?resize=300%2C76 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CcYBQlvVIAEvC27.jpg-large.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"></p>
+<p>站队、表态是中共政治运作的常态，全国人大、政协两会作为中共一年一度的大型民意骚，今年的表态焦点本应是延续各省市党委“坚决维护习近平总书记这个核心”，但因习近平提出“党媒姓党”引爆争议，媒体和两会又多了一项表态任务，而当局的操作已以是否姓党作为奖惩标准，由此产生的寒蝉效应，也已令一些敢言的政协委员、人大代表自动收声，表明姓党立场。</p>
+<p>上月19日，中央电视台在习近平前往视察时打出“央视姓党”标语，习近平后来在座谈会上也明令，党和政府主办的媒体是党和政府的宣传阵地，必须姓党。但北京地产商任志强炮轰“党媒姓党”是“用纳税人的钱去办不为纳税人提供服务的事”。他更指出：“当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p>
+<p>相对于任志强的敢言，作为主角的内地媒体多数保持缄默，出来表态的大体上有三类，并在两会前得到了奖惩。第一类，《南方都市报》深圳版发扬了中国文人春秋笔法的传统，当日头版以头条标题报道习近平训示，大图及重点新闻则是改革派元老袁庚举行海葬，形成“媒体姓党魂归大海”的藏尾标题，结果被批为居心叵测。因这一宗“严重导向事故”，当值副总编辑被处以党内严重警告、编辑被行政开除（即炒鱿）。两会前如此杀鸡儆猴，无非是不想宣传习核心时再出意外。</p>
+<p>第二类，四川《宜宾晚报》新闻部主任毛开云因向任志强开炮，竟获中央网信办致信感谢，更获宜宾市政府一万元奖励。作为〈任志强是8,000多万党员的耻辱〉一文的作者，毛开云在反对“党性的泯灭、人性的猖狂”一役中夺得了头彩，当地媒体自然不会错过邀功请赏的沾光机会，《宜宾日报》抢着发表了毛开云的专访。但诡异的是，专访及毛开云的文章前日又遭各大网站下架，让人猜测中央网信办可能不希望更多的地下五毛党曝光。</p>
+<p>港区人大政协也姓党</p>
+<p>第三类，作为炮打任志强急先锋的千龙网、中青网，虽令任被封微博、面临党纪处分，但网站似乎未得到应有的奖赏，因此决心借两会东风更上一层楼。中青网发表全国政协委员、上海复旦大学教授葛剑雄的专访，指葛表示：“我赞成对于任志强的微博处理，作为共产党员怎么能够公开挑衅呢？”但葛随即在微博发声明：“我十分震惊、非常遗憾地看到了中青网在未经我的审阅、未经我同意的情况下发表了这样的标题和内容。”</p>
+<p>问题来了：与任志强同样有大炮之称的葛剑雄，到底有没有在接受专访时批评任大炮？还是他说过了，但不想公开发表，以免影响自己的形象？恐怕是后者居多吧？更让人受不了的是，葛剑雄还声明：“未经我的同意，媒体不得报道我在会议期间的言论。”这是把两会当地下党会议，怕会上的言论公开遭秋后算账？</p>
+<p>其实，中国传媒本来就姓党，人大代表、政协委员同样姓党，就算港区全国人大代表、政协委员也不例外。某些港区代表、委员曾豪言会在两会期间跟进李波被失踪事件，但在李波被报平安、被放弃英国居留权后，不只一些奉旨采访、报道李波的电视台、报章露出姓党的尾巴，连那些代表、委员也改口称再跟进事件对李波不公平，露出了姓党的真面目。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E4%BB%A5%E6%98%AF%E5%90%A6%E5%A7%93%E5%85%9A%E5%AE%9A%E5%A5%96%E6%83%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%BB%8F%E6%B5%8E%E8%AE%AE%E9%A2%98%E5%8F%97%E7%9E%A9%E7%9B%AE/" target="cdt-mirror">德国之声 ｜全国人大经济议题受瞩目</a>
+</h2>
+<p><p>中国周六将在两会上和批准第十三个五年规划，以解决这个全球第二大经济体增速放缓的问题，中国领导层或将调降增长目标。专家认为，此次会议不会公布重大的新改革措施。</p>
+<p>随着中国经济增速持续放缓，经济将成为第十二届全国人民代表大会的主要议题。2015年中国的经济增速为6.9%，与过去两位数的经济增速想必，这是四分之一世纪以来最慢速度。</p>
+<p>美联社指出，今年两会代表将专注于共产党的新发展计划，这是将中国转型为中等收入国家，由内需促进持续增长，而非依赖投资、贸易和重工业的关键的一步。</p>
+<p>外界普遍预期，中国国务院总理李克强将在开幕致词时宣布将新经济增长目标定于6.5%至7%之间。在各种不确定性剧增之际，这样的弹性范围将使官员在未来得以宣称，中国的经济达到预期目标。</p>
+<p>这将是去年中国国家主席习近平所设定的增速底线。去年11月，习近平曾表示，要实现全面建成“小康社会”，今后五年经济年均增速不应低于6.5%。经济学者警告，任何高于此的经济增速都可能拖累改革，造成北京必须向经济做出更多无谓的投资。</p>
+<p>中国的经济放缓以及北京将经济重心移出重工业的做法已经使采矿业、造船业和其它行业的雇员被裁减。零售业、电子贸易和其它服务业则不断增长并吸收一些流动的劳动力，但许多人仍无法找到工作。</p>
+<p>中国人力资源和社会保障部部长尹蔚民本周曾宣布，为了减少工业产能过剩，煤炭系统和钢铁系统将有共180万职工被分流安置。尽管2015年中国经济放缓至25年来新低，中国的工业改革计划仍将持续至2020年。</p>
+<p>全国人大预定还将通过第十三个五年规划。这项计划经济遗留下的产物将为中国规划一系列的目标。</p>
+<p>经济将成为第十二届全国人民代表大会的主要议题</p>
+<p>学者：国企拖累改革</p>
+<p>中国当局不断誓言要改革利益格局庞大的国企，但批评者抱怨，共产党并未采取有效行动。呼吁加速改革的人士认为，中国政府至今未依照承诺，削弱106家国家级及150000家地方级国企的垄断、减少补贴以及其它特权。在中国，从石油至银行业及电信和钢铁业都受到国企的主宰。</p>
+<p>位于北京的私人研究组织“天则经济研究所”所长盛洪表示：“中国领导人肯定意识到这样的情况，但他们是否能强有力地实行改革却是个问题，因为这些利益团体十分强大。”他认为，从各方面看来，中国国企正拖累中国的经济复苏。</p>
+<p>地方领导人则采取各种试验方式，以促进地方层级国企之间的竞争。美联社引述“环球透视”机构（IHS Global Insight）指出，此次的两会可能被用于表扬地方的努力，将其作为全国的借鉴。</p>
+<p>但该机构的经济学者杰克森（Brian Jackson）认为，此次会议不太可能推出任何能加速工业改革的“重大新计划”。美联社指出，重大的新改革计划更可能在2017年新领导班子上台时被推出。</p>
+<p>伦敦国王学院刘氏中国研究院院长布朗（Kerry Brown）表示：“在过去几月经济不稳定后，今年全国人大的主要功能是安抚公众情绪。”</p>
+<p>分析人士推测，北京正让人民币贬值以利好出口，但中国官员驳斥了这项说法。去年8月，人民币兑美元汇率暴跌近5%，今年1月人民币再次贬值。而中国政府在2015年年中股市股市下跌后对市场的大规模干涉也引发担忧。布朗表示，中国领导层擅长在其它政治领域进行沟通，但中方此时对经济的表态却令人困惑。</p>
+<p>“习核心”呼之欲出？</p>
+<p>随着经济增长放缓，中国政府明显越来越无法容忍异议，包括来自党内的意见。与前两任中国领导人胡锦涛和江泽民相比，习近平更快速地累积更多的权势。</p>
+<p>近月来，数名中国地方官员多次提议将习近平奉为中国“核心”领导人。目前，“核心”一词仅用于评价毛泽东和邓小平。</p>
+<p>专家认为，习近平将在全国人大期间进一步巩固权力</p>
+<p>香港城市大学前政治学教授郑宇硕表示：“习近平肯定将在全国人大上进一步巩固其权力。但在习近平将更多权力收归己有的同时，也存在着一些阻力。”</p>
+<p>中国对媒体的管控越发严格。上月习近平视察了官方媒体新华社、中央电视台和《人民日报》。据新华社报道，习近平在视察期间对这些新闻媒体下达指令，严格遵循党的领导，为党的意志和立场说话，维护党的权威和团结。</p>
+<p>中国研拟了多项可提高政府对社会控制的法规，包括将维持“社会稳定”定为主旨的《网络安全法》。美国官员形容该草案令人“深切担忧”。</p>
+<p>自去年7月，中国拘捕了超过250名律师和维权人士。联合国人权事务高级专员警告称，北京正打压无罪的异议人士。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%EF%BD%9C%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%BB%8F%E6%B5%8E%E8%AE%AE%E9%A2%98%E5%8F%97%E7%9E%A9%E7%9B%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc%EF%BD%9C%E8%8B%B1%E5%AA%92%EF%BC%9A%E7%8E%8B%E5%81%A5%E6%9E%97-%E9%80%83%E8%BF%87%E8%81%9A%E5%85%89%E7%81%AF%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C/" target="cdt-mirror">BBC｜英媒：王健林—逃过聚光灯的中国首富</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard17_173.jpg?resize=550%2C309" alt="Clipboard17_173" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard17_173.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard17_173.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>英国《金融时报》报道了中国首富王健林最近的英国之行，着眼他与媒体间的互动。</p>
+<p>“本周《聚焦》这部讲述记者勇于追寻真相的电影获得本届奥斯卡最佳影片时，它也标志着中国首富王健林的一大胜利。”</p>
+<p>这部片子由万达集团旗下AMC的电影公司Open Road Films出品。</p>
+<p>“王健林本人沐浴在这部讲述调查记者的电影光辉中时，他本人与媒体的接触却远算不得腼腆。”</p>
+<p>报道称，王健林最近在大英博物馆发布新书，完全没有受到媒体打扰。而随后在牛津大学的新书推广活动，“我们也被分配到后排的座位，还被告知：不要提问！”</p>
+<p>“学生们可以随便提问，但他们的问题离《聚焦》片中的标准很有距离。”</p>
+<p>报道还认为，他与媒体打交道的有限，与他的个人风格形成反差：他曾在万达公司的一次活动中上台大唱摇滚歌曲。</p>
+<p>文章还提及最近中国一些民营富豪，如地产商人任志强、复星集团董事长郭广昌和美特斯邦威董事长周成建的遭遇。</p>
+<p>报道列举了万达集团最近在多个国家的收购和巨额项目，认为中国房地产市场的下滑可能殃及万达的此类雄心计划，而围绕王健林的其他问题，如他与中国政治精英们的联系，“更难了解”。</p>
+<p>该报道最后提到王健林上周与英国媒体见面并接受《星期日泰晤士报》采访，“他向所有受到《聚焦》鼓舞大胆挖料的记者发出警告”。</p>
+<p>《星期日泰晤士报》引述王健林说：“为了你好，我还是不回答这个问题了，否则你的文章不能在中国看到。这是为了保护你，好在中国安全。”</p>
+<p>世界工厂的工人们</p>
+<p>中国经济下滑，对制造业和建筑行业造成冲击</p>
+<p>《独立报》记者发自广州的报道讲述在那里的工人如何维权。</p>
+<p>报道首先提到广州在上月底的一次劳资纠纷，一家不锈钢厂的工人，因不满裁员、减薪与警方对峙。</p>
+<p>报道引述在香港的“中国劳工通讯”组织的数据称，去年中国发生的罢工和抗议活动共2774起，比2014年增加一倍。</p>
+<p>“虽然该组织说，数量大增可能部分因为社交媒体使消息更容易获得，但是增幅还是很明显和很大的。”</p>
+<p>“劳资纠纷明显上升趋势始于去年8月，人民币贬值和股市大跌，而且在最后一个季度持续增加，主要在制造行业和建筑行业，而广东尤其明显。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc%EF%BD%9C%E8%8B%B1%E5%AA%92%EF%BC%9A%E7%8E%8B%E5%81%A5%E6%9E%97-%E9%80%83%E8%BF%87%E8%81%9A%E5%85%89%E7%81%AF%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5/?category=18271" rel="tag">中国劳工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%81%A5%E6%9E%97/?category=18271" rel="tag">王健林</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E6%80%81%E9%80%82%E5%BD%93%E6%97%B6%E5%80%99%E5%B0%86%E7%BB%93%E6%9D%9F%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/" target="cdt-mirror">【习总日记】 习近平表态适当时候将结束一党专政</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（ 2016 ， 3 ， 2 ） </p>
@@ -676,112 +858,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/" target="cdt-mirror">BBC| 《南都》因严重“导向事故”开除编辑</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=660%2C371" alt="《南方都市报》发生“严重事故”的版面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>《南方都市报》发生“严重事故”的版面</p></div>
-<p><strong>中国南方报业集团下属《南方都市报》因深圳地方版报道习近平“党的新闻舆论工作座谈会”，提出“党和政府主办的媒体必须姓党”的版面出现“严重导向事故”，而宣布开除编辑和行政处分副总编等严厉惩处措施。</strong></p>
-<p>据南方报业传媒集团内部文件（南字[2016]5号）称：“任天阳同志代表南都报系党委向集团党委作出深刻检讨，对当晚值班编委、南都副总编辑王海军同志作出行政记大过处分并报省宣纪组建议给予党内严重警告处分，对编辑刘玉霞同志作出行政开除处分。”</p>
-<p>南方报业集团内部文件还表示， “因采编人员严重缺乏政治敏感”，造成版面严重错误，被个别人在网上恶意解读导致严重导向事故。虽然集团已尽快采取坚决措施，尽最大努力将负面影响降到最低，但仍然干扰了工作大局，尤其是在新闻宣传战线深入学习习近平总书记关于新闻舆论工作重要讲话精神的重要关头，这一严重导向事故影响极其恶劣，教训十分深刻。</p>
-<p>“严重事故”</p>
-<p>另据微博上活跃的“自干五”地瓜熊老六举报，2月20日南方都市报深圳版头版，在习近平消息通栏大标题下当天新闻主图中，配上改革元老袁庚海葬“魂归大海”的图文，而该报广州版的配图，则是习近平视察央视《新闻联播》的新闻照片。</p>
-<p>一些批评南方系的“自干五”据此解读，在习近平视察媒体的大日子里，南都在头版配上“魂归大海”的照片，显然居心叵测。</p>
-<p>近来，习近平政权接连高调出台新政策高压管制媒体，要求官方媒体必须“姓党”。</p>
-<p>不少国际媒体评论认为，管制媒体、抢抓话语权，显示习近平急于强化个人权威，力争尽快集权的心态。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85/?category=18271" rel="tag">严重事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F/?category=18271" rel="tag">政治敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/" target="cdt-mirror">BBC | 《南都》因严重“导向事故”开除编辑</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=660%2C371" alt="《南方都市报》发生“严重事故”的版面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160301144828_nanfang_blog_accident_512x288_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>《南方都市报》发生“严重事故”的版面</p></div>
-<p><strong>中国南方报业集团下属《南方都市报》因深圳地方版报道习近平“党的新闻舆论工作座谈会”，提出“党和政府主办的媒体必须姓党”的版面出现“严重导向事故”，而宣布开除编辑和行政处分副总编等严厉惩处措施。</strong></p>
-<p>据南方报业传媒集团内部文件（南字[2016]5号）称：“任天阳同志代表南都报系党委向集团党委作出深刻检讨，对当晚值班编委、南都副总编辑王海军同志作出行政记大过处分并报省宣纪组建议给予党内严重警告处分，对编辑刘玉霞同志作出行政开除处分。”</p>
-<p>南方报业集团内部文件还表示， “因采编人员严重缺乏政治敏感”，造成版面严重错误，被个别人在网上恶意解读导致严重导向事故。虽然集团已尽快采取坚决措施，尽最大努力将负面影响降到最低，但仍然干扰了工作大局，尤其是在新闻宣传战线深入学习习近平总书记关于新闻舆论工作重要讲话精神的重要关头，这一严重导向事故影响极其恶劣，教训十分深刻。</p>
-<p>“严重事故”</p>
-<p>另据微博上活跃的“自干五”地瓜熊老六举报，2月20日南方都市报深圳版头版，在习近平消息通栏大标题下当天新闻主图中，配上改革元老袁庚海葬“魂归大海”的图文，而该报广州版的配图，则是习近平视察央视《新闻联播》的新闻照片。</p>
-<p>一些批评南方系的“自干五”据此解读，在习近平视察媒体的大日子里，南都在头版配上“魂归大海”的照片，显然居心叵测。</p>
-<p>近来，习近平政权接连高调出台新政策高压管制媒体，要求官方媒体必须“姓党”。</p>
-<p>不少国际媒体评论认为，管制媒体、抢抓话语权，显示习近平急于强化个人权威，力争尽快集权的心态。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E3%80%8A%E5%8D%97%E9%83%BD%E3%80%8B%E5%9B%A0%E4%B8%A5%E9%87%8D%E5%AF%BC%E5%90%91%E4%BA%8B%E6%95%85%E5%BC%80%E9%99%A4%E7%BC%96%E8%BE%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85/?category=18271" rel="tag">严重事故</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F/?category=18271" rel="tag">政治敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/430562/" target="cdt-mirror">【CDTV】《凛冬烈火：乌克兰自由之战》预告片</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-%E4%B8%8B%E5%8D%887.20.37.png?resize=304%2C463" alt="Screen Shot 2016-03-01 at 下午7.20.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午7.20.37.png?resize=197%2C300 197w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午7.20.37.png?w=304 304w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1"><br><span>《凛冬烈火：乌克兰自由之战》官方海报</span></p>
-<p>2013年11月，乌克兰爆发了反政府示威，抗议时任总统亚努科维奇与俄修好、疏远欧盟的经济和外交政策。示威持续至2014年2月，在乌克兰国会投票解除亚努科维奇职务后结束。</p>
-<p>《凛冬烈火：乌克兰自由之战》（英语：Winter on Fire: Ukraine’s Fight for Freedom）由乌克兰、美国和英国联合制作，从示威者的角度记录了这段抗议运动。本片于2015年10月9日在网站Netflix上播出，并在同年的多伦多国际电影节中荣获了群众票选纪录片奖。2016年，这部电影获得第88届奥斯卡最佳纪录片奖提名。</p>
-<p>本片因题材敏感，已被中国大陆封杀。截至本文发稿时，微博上搜索片名无法显示任何结果：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-%E4%B8%8B%E5%8D%8812.30.50.png?resize=550%2C246" alt="Screen Shot 2016-03-01 at 下午12.30.50" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午12.30.50.png?resize=300%2C134 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-01-at-下午12.30.50.png?w=721 721w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%A4%BC%E8%B5%9E%E7%9C%9F%E7%9B%B8/">德国之声 | 长平观察：奥斯卡礼赞真相</a></p></blockquote>
-<p>CDTV在此推荐《凛冬烈火：乌克兰自由之战》的官方预告片。如果您在墙内无法看到YouTube上的视频, <span><strong>请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0">点击这里</a></strong></span>使用BitTorrent Sync (Sync) 下载观看。</p>
-<p></p>
-<p><a title="Winter On Fire: Ukraine's Fight for Freedom - Trailer - A Netflix Documentary HD" href="http://www.youtube.com/watch?v=RibAQHeDia8" target="_blank">Winter On Fire: Ukraine’s Fight for Freedom – Trailer – A Netflix Documentary HD</a></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/430562/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%87%9B%E5%86%AC%E7%83%88%E7%81%AB%E3%80%8B/?category=18271" rel="tag">《凛冬烈火》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">2016奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%85%8B%E5%85%B0/?category=18271" rel="tag">乌克兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">示威游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%8F%8C%E6%89%8B%E6%B2%BE%E6%BB%A1%E4%BA%86%E4%BA%BA%E6%B0%91%E7%9A%84%E5%B9%B8%E7%A6%8F/" target="cdt-mirror">【习总日记】 习总双手沾满了人民的幸福</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，2，29）</p>
-<p>一</p>
-<p>三年多总书记职业生涯自我评价，双手沾满了中国人民的幸福。再过五年，到2020年，进入全面小康社会，全面进入法制社会，全面进入幸福社会。</p>
-<p>有人总拿我与毛主席相比，说我是毛泽东第二。我谢谢你！有人还说我强调党媒姓党，央企姓党，党员姓党，是搞第二次文革。我谢谢你们！！更有人说我钳制言论自由逮捕人权人士人权律师，上央视低头认罪，是习特勒搞白色恐怖。我谢谢你们一家人！！！</p>
-<p>反党人士说毛主席双手沾满了人民的鲜血，是现代史上最大屠夫。还说邓小平八九六四下令解放军屠城，双手沾满了北京市民学生的鲜血。江泽民因六四上台，且双手沾满法轮功的鲜血。而我未杀一人，是我党领导人中最干净的。所以反党人士应该拥护支持我才对，别老是“包子”“大撒币”地乱叫，没教养。</p>
-<p>即使是站在党的立场，我也比毛主席邓小平优秀不少。</p>
-<p>毛主席建设新中国，把国家治理得“国民经济到了崩溃边缘”。小平同志号称改革开放设计师，可遇到人民要求改革时，却不惜与人民为敌，舞刀弄枪，何必呢，是吧。可以用橡皮子弹辣椒水嘛，或者佯装答应学生要求然后秋后算账。所以我敢说，假如1949年后由我当党主席，一定比毛主席伟大。假如1976年后我领导改革开放，一定比邓小平英明。总之，我行我就行。</p>
-<p>回到现实。我正以我党历届最高领导人前所未有的信心和智慧，领导全党带领中国人民奔向小康途中。以每年经济发展5.9%的速度，到2020年，消灭贫困人口实现全面小康社会。</p>
-<p>党，实现总书记全面领导；国家，实现共产党全面统治；人民，实现全面小康；社会，实现全面法制；文明，实现全面自由民主。</p>
-<p>最近发生的一系列压制言论自由践踏法制事件，是为了明天的开放进步。当过司机的都知道，倒退是为了更好的前进。今天社会文明倒退，正是为了明天社会文明进步。倒退，让极左派人士无话可说，然后得到他们的拥护，有利于推行总书记国家主席军委主席终身制。一旦终身制确立，权力在手，便可为所欲为推行政治制度改革。到那时党内外左派人士后悔莫及也为时已晚。好比1949年中国人民抛弃国民党选择共产党，后悔有个卵用？</p>
-<p>各位，请全心全意毫无保留孤注一掷地支持我，因为我双手沾满人民的幸福，义无反顾顽强不屈非我莫属领导你们奔小康，奔法制，最后奔民主，奔自由。</p>
-<p>二</p>
-<p>任志强妄议中央一事有必要多说几句。</p>
-<p>有人说要誓死捍卫任志强的言论自由权利。让我来告诉你们，你们首先要尊重任志强的个人意愿，然后再来讨论是否应该誓死或誓不死捍卫他的言论自由权利。</p>
-<p>凡每一个共产党员，入党宣誓时都说了一句众所不知的誓言：去他妈的言论自由权利。</p>
-<p>显然，任志强在入党时已经放弃了他的个人言论自由权。那么，请你们尊重他的个人誓言，好吗？如果你们连他个人的意愿都置若罔闻不予尊重，还奢谈什么捍卫他人的言论自由权利？</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/09/%E9%B3%A9%E9%B5%AA%E4%BA%9E%E9%BB%83%EF%BC%9A%E4%B9%A0%E6%80%BB%E6%9C%80%E9%9C%87%E6%92%BC%E6%9C%89%E5%8A%9B%E7%9A%84%E6%BC%94%E8%AF%B4-e1424929460667.jpg?resize=550%2C413" alt="鳩鵪亞黃：习总最震撼有力的演说" data-recalc-dims="1"><p>鳩鵪亞黃：习总最震撼有力的演说</p></div>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%8F%8C%E6%89%8B%E6%B2%BE%E6%BB%A1%E4%BA%86%E4%BA%BA%E6%B0%91%E7%9A%84%E5%B9%B8%E7%A6%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%83%E6%9C%88%E4%BD%8E%E4%BA%8E%E4%B8%B4%E7%95%8C%E7%82%B9/" target="cdt-mirror">BBC | 中国制造业指数连续七月低于临界点</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?resize=550%2C309" alt="160201092156_china_factory_640x360_afpgetty_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/160201092156_china_factory_640x360_afpgetty_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><strong>中</strong><strong>国国家统计局周二（3月1日）公布的数据显示，2月中国制造业采购经理指数（PMI）为49.0%，低于上月0.4个百分点。</strong></p>
-<p>统计显示，自2015年8月以来，作为中国制造业风向标的PMI指数已连续7个月低于50的临界点，除少数时间出现小幅反弹外，其余大多时间呈现持续下跌趋势，这反映出中国制造业经济目前正处于持续收缩的状态且未见转变。</p>
-<p>中国统计局的2月PMI分类统计显示，大型企业PMI为49.9%，比上月下降0.4个百分点，位于临界点以下；中型企业PMI为49.0%，与上月持平，仍低于临界点；小型企业PMI为44.4%，比上月下降1.7个百分点，持续位于收缩区间。</p>
-<p>在构成制造业PMI的5个分类指数中，生产指数高于临界点，新订单指数、从业人员指数、供应商配送时间指数和原材料库存指数低于临界点。</p>
-<p>中国统计局服务业调查中心高级统计师赵庆河分析称，2月份，制造业PMI回落主要有以下三方面原因：一是受春节假日因素影响，部分企业停工减产，制造业生产和市场需求均有所回落。二是随着近两个月生产经营活动的放缓，企业原材料采购量继续下降。三是由于企业员工集中返乡，制造业用工量有所减少。</p>
-<p>同一天公布的2月财新中国制造业PMI指数下行趋势与官方统计类似：2月财新中国制造业采购经理人指数（PMI）录得48.0。财新中国制造业PMI已经连续12个月低于50。</p>
-<p>澳新银行（ANZ）当天发布的分析称，PMI指数显示中国制造业表现仍然令人失望。相对于制造业持续下滑的状况，中国的服务业有望成为增长的重要引擎。预计在即将召开的中国2016年“两会”上，中国政府会将全年财政赤字率从去年的2.3%调高到3-4%以刺激投资。</p>
-<p>非制造业指数</p>
-<p>中国国家统计局同时发布了2016年2月份中国非制造业商务活动指数。52.7%的统计数据上月回落0.8个百分点，但继续位于扩张区间。其中服务业商务活动指数为52.2%，回落0.5个百分点。</p>
-<p>中国统计局分析称，服务业受春节假期等因素的影响，与节日消费密切相关的交通运输业、餐饮业、电信广播电视和卫星传输服务业、货币金融服务业、邮政业、租赁及商务服务业、零售业等行业生产活跃，业务总量增长明显。批发业、资本市场服务业、保险业、装卸搬运及仓储业、住宿业、房地产业、居民服务及修理业等行业商务活动指数明显低于临界点，企业业务总量有所回落。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/bbc-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%83%E6%9C%88%E4%BD%8E%E4%BA%8E%E4%B8%B4%E7%95%8C%E7%82%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pmi/?category=18271" rel="tag">PMI</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">统计局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -793,7 +869,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pmi/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +879,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pmi/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

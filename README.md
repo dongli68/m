@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,101 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-16/" target="cdt-mirror">【网络民议】朕能量：9成以上国内网民支持网络治理行动</a>
+</h2>
+<p><p>【编者注】中国网报道中的一则小标题称“9成左右网民对2015年网络生态环境的积极变化点赞”，但该段落内只有“80.7%的网民表示网络正能量增加”这个数据，对应图表也不见任何“9成”的数据来源（见附图）。也许“80.7%”＝“9成左右”？</p>
+<p><strong><a href="http://news.sina.com.cn/c/nd/2016-03-02/doc-ifxqafha0295351.shtml">中国网｜民调：9成以上国内网民支持政府各项网络治理行动</a></strong></p>
+<blockquote><p>调查显示，网民对7项网络治理行动的支持率均在9成以上。[…]</p>
+<p><strong>9成左右网民对2015年网络生态环境的积极变化点赞</strong><br>
+经过2015年一系列网络治理行动，网络环境得到了明显改善，清朗程度进一步提高。调查显示，广大网民对2015年网络生态环境进一步向好发展表示高度认可，其中，80.7%的网民表示网络正能量增加了。<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/sV3C-fxqafhk7403933.gif" rel="attachment wp-att-430622"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/sV3C-fxqafhk7403933.gif?resize=500%2C235" alt="sV3C-fxqafhk7403933" data-recalc-dims="1"></a><br><em>数据来源：零点研究咨询集团互联网研究中心2016年初独立完成的网络生态环境变化调查。</em><br>
+[…]<br>
+随着网络生态环境整体不断向好发展,网民对网络的健康发展表现出较强信心。本次调查显示，92.5%网民对政府依法治理好网络有信心，94.5%网民对我国网络健康发展有信心。</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/02/%E5%8F%8D%E5%AF%B9%E5%91%A8%E5%B8%A6%E9%B1%BC.jpg" rel="attachment wp-att-383555"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/02/%E5%8F%8D%E5%AF%B9%E5%91%A8%E5%B8%A6%E9%B1%BC.jpg?resize=400%2C553" alt="反对周带鱼" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/02/反对周带鱼.jpg?resize=217%2C300 217w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/02/反对周带鱼.jpg?w=695 695w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/428930/">【立此存照】网民们终于又找到了骂春晚的渠道</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%9100%E5%90%8E%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%BE%88%E7%88%B1%E5%9B%BD-%E4%BB%B7%E5%80%BC/">中青报｜“00后”调查显示小学生很爱国 价值观积极向上</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%BB%9F%E8%AE%A1%E5%B1%80-2013%E5%B9%B4%E8%A5%BF%E8%97%8F%E5%B1%85%E6%B0%91%E5%AE%89%E5%85%A8%E6%84%9F%E6%BB%A1%E6%84%8F%E5%BA%A6%E4%B8%BA98-6/">统计局 | 2013年西藏居民安全感满意度为98.67% </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/11/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%A4%AE%E8%A7%86%E7%94%B5%E8%A7%86%E8%8A%82%E7%9B%AE%E6%BB%A1%E6%84%8F%E5%BA%A6%E6%8A%A5%E5%91%8A%EF%BC%9A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD/">央视电视节目满意度报告：新闻联播居首</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/09/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8C%97%E4%BA%AC%E7%A9%BA%E6%B0%94%E8%BF%9E%E7%BB%AD14%E5%B9%B4%E6%94%B9%E5%96%84/">北京政府：北京空气连续14年改善</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%85%8D%E5%A5%97%E6%95%B0%E6%8D%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%B8%83%E6%88%90%E6%B0%91%E4%BC%97%E7%9B%B8%E4%BF%A1%E6%94%BF%E5%BA%9C/">【网络民议】配套数据：中国近七成民众相信政府民主</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2013/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E6%B2%A6%E4%B8%BA%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E5%B9%B8%E7%A6%8F%E5%9B%BD%E5%AE%B6/">【网络民议】中国沦为全世界最幸福国家</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2012/11/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E4%B9%9D%E6%88%90%E4%BA%BA%E5%AF%B9%E5%AE%9E%E7%8E%B0%E5%B0%8F%E5%BA%B7%E7%A4%BE%E4%BC%9A%E6%9C%89%E4%BF%A1%E5%BF%83/">环球时报 | 调查显示九成人对实现小康社会有信心</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2012/08/%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE-%E5%85%9A%E5%91%98%E7%BE%A4%E4%BC%97%E5%AF%B9%E4%BB%A3%E8%A1%A8%E9%80%89%E4%B8%BE%E6%BB%A1%E6%84%8F%E5%BA%A6%E8%BE%BE97/">【网络民议</a><a href="http://chinadigitaltimes.net/chinese/2012/08/%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE-%E5%85%9A%E5%91%98%E7%BE%A4%E4%BC%97%E5%AF%B9%E4%BB%A3%E8%A1%A8%E9%80%89%E4%B8%BE%E6%BB%A1%E6%84%8F%E5%BA%A6%E8%BE%BE97/">】</a><a href="http://chinadigitaltimes.net/chinese/2012/08/%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE-%E5%85%9A%E5%91%98%E7%BE%A4%E4%BC%97%E5%AF%B9%E4%BB%A3%E8%A1%A8%E9%80%89%E4%B8%BE%E6%BB%A1%E6%84%8F%E5%BA%A6%E8%BE%BE97/"> 党员群众对代表选举满意度达97%</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@一个纯粹的低级趣味的人：微博只有两种信息：正能量和违法内容</p>
+<p>@billinglasgow：被侮辱了但要我说我还要</p>
+<p>@马森林山水：正能量难道就是<a href="http://chinadigitaltimes.net/chinese/2015/12/423172/">网评员们满嘴生殖器不被删</a></p>
+<p>@一庹千年：只能说唱赞歌的多了，鞭挞揭露时弊的少了。因此，这种统计涉嫌把针砭时弊当作负能量，而将打嘴炮的爱国列为正能量。</p>
+<p><strong>@We_Liefert_Was：朕能量，点个赞。</strong></p>
+<p><a href="http://weibo.com/1314683667" target="_blank">@Fangs_Media</a>：【时评】不让语，自无语。删除后剩下的只有五毛贴，100%正能量？！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5865699694" target="_blank">@咆哮的蚊子灬灬</a>：嗯，别说大V了，连俺这小草民都被治得服服贴贴<img title="[可怜]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/kl_org.gif" alt="[可怜]" data-recalc-dims="1"><img title="[悲伤]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]" data-recalc-dims="1"><img title="[生病]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]" data-recalc-dims="1"><img title="[衰]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif" alt="[衰]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5022137458" target="_blank">@Z_Special</a>：证明删帖、删评论、禁止评论、封账号这些方法效果很好啊…<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1735580567" target="_blank">@LeeChiPen</a><i title="微博达人"></i>：打一百分啊！我要是去共青团的微博下面看评论，形式一片大好!<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1711248804" target="_blank">@张鱼小顽子</a>：没注意看博主，差点以为是英式没品冷笑话之类的号发的搞笑新闻<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2429348267" target="_blank">我布高兴</a>：记者前往妇幼医院调查，发现患者多为妇女和儿童。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1852217171" target="_blank">@天堂的路心灵的门</a>：其实传销的正能量最大，每天想打了鸡血一样要励志，问题是你们又说是违法的<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p>
+<p>@ggstudy：一年的整治就是多雇人来删帖。只留下自己愿意看。自欺欺人到这程度。 党的群众是怎么说的？</p>
+<p>@涛-光养晦：妈蛋，你们和我们用的是一个网么？你们用的你们自己的没网么?</p>
+<p>@哪里的春风吻上我的脸：太谦虚了，我觉得是十一成网友表示满意，多出的一成来自朝鲜…</p>
+<p><a href="http://weibo.com/2692304300" target="_blank">@烽火戏疯子</a>：瞎说，我们都是100%同意的<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@非常不小心：还有19.3%的网民思想觉悟跟不上啊，统统抓起来比较好。这样就有100%了，正到没话说。</p>
+<p>@源兼昌：建议枪毙剩下两成。</p>
+<p>@HUC-亦飞：说实话的微博都被销号了，挺正能量的</p>
+<p>@WuYewen：才八成？负责统计的同志立刻写检查检讨工作失误，怎么说也有九成五以上</p>
+<p>@Hy浩瀚星尘：不许评论，不能妄议中央，要做狗，永远跟党走！</p>
+<p>@八云的马甲：很多微博，门户网站新闻，要么不让评论，要么只留五毛的评论。你党把“指鹿为马”，“掩耳盗铃”发挥到了极致。</p>
+<p>@水之守护图腾：那是，监狱里的小粉红战斗力是盖得么</p>
+<p>@artsy_hipster：下次搞个是否恢复帝制的调查，嗯，应该也能拿到80%的支持率</p>
+<p>@潇湘水泽：别天天这个大大，那个妈妈的了，认清了某党本质你就知道他们连人都不是！</p>
+<p>@勿入史记：没有月亮只有太阳的天空是大灾难</p>
+<p>@斗不转星移：土匪拿枪顶在路人头上问路人它是不是好人</p>
+<p>@Chinese_3rd_Republic：是 特正 全都是 共青团啦求事啦光明日报日人民报啦新闻联播啦感动中国啦</p>
+<p>@天鸿的微博：一本正经，胡编乱造</p>
+<p>@风愿挂在树上：精神病院能装得下八成网友吗？</p>
+<p><a href="http://weibo.com/2946144687" target="_blank">商品投机者</a>：八成你好，你为八家光宗耀祖了<img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee909f.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee909f.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee909f.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
+<p>@川藏深度旅游-无悔精彩人生：国之殇，民心狂，敢为私欲乱法纲；文修谄，武尚暴，民族复兴，如鸟寒号，笑，笑，笑。 官戏装，阴乘阳，神州皆套伪面窗；强不惩，弱无靠，朝尽劫匪，何存公道？操，操，操！！！</p>
+<p>@三俗居士官网：居然没有春晚高？</p>
+<p>@佛日2015：看评论二成都不知道有没有，拜托不要造假了，只会让人越来越恶心。</p>
+<p>@阳台种黄瓜：一泡屎对环境是负能量，对苍蝇就是正能量。贪污腐败对老百姓是负能量，对贪官污吏就是正能量。</p>
+<p>@陈君乐：问我我也说增加了，没增加还得接着治。。。</p>
+<p><a href="http://weibo.com/zuranus" target="_blank">@Zuranus</a>：再下去我也要怀念长者了，跟卡西莫多比武大郎还是可爱的<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-16/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%A4%A7v/?category=18271" rel="tag">微博大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B9%8C%E4%BA%91%E9%AA%91%E5%A3%AB-%E6%97%A0%E5%90%8D%E6%B0%8F%E8%AF%97%E4%BA%BA%EF%BC%9A%E6%B1%89%E6%9C%9D%E8%AF%97%E6%AD%8C%E5%88%9B%E4%BD%9C%E6%8C%87%E5%8D%97/" target="cdt-mirror">乌云骑士 | 无名氏诗人：汉朝诗歌创作指南</a>
+</h2>
+<p><p>汉朝的各个皇帝都很有特点，比如高皇帝是一个带有流氓色彩和土匪气息，但其实又很擅长写诗，文化水平很高，我们可以从汉朝以悬殊的实力差距逆袭了楚国就可以看出，高皇帝是一个很有个人魅力和能力的人。由于早年的穷兵黩武，国家很快就陷入了混乱，所以到了孝文皇帝、孝景皇帝的时候，国家开始采取“韬光养晦”的政策，史称“闷声发大财”。而到了孝武皇帝的年代，事情又发生了变化。孝武皇帝是汉朝的第五代核心领导人（不是第五任皇帝，但除了历史学家，百姓们通常忽略掉中间几任短命皇上），与前任们修生养息的治国理念不同，他是一个很有控制欲和表现欲的皇上，这一点倒是与高皇帝很像。然而他与高皇帝其实也有不尽相同的地方，比如说高皇帝喜欢批孔，轻视儒生，但是孝武皇帝则独尊儒术，甚至派人在城里采访，询问百姓对于“孝”的看法。刘彻这个人太有意思了，理解了汉武帝，你就理解了汉朝，历史学家们都很喜欢他。</p>
+<p>比如说，刘彻非常喜欢蹴鞠，甚至在外出巡狩、封禅的时候，也不忘踢上两脚。在皇帝的带领下，蹴鞠在全国成为了风尚。恒宽记载汉武一朝“康庄驰逐，穷巷蹴鞠”（《盐铁论》）。</p>
+<p>再比如，刘彻是一个非常Patriarchal的皇上，罗马帝国管这个叫家父主义，当然这个词比较时髦，在汉朝人们叫爸爸主义。百姓们称刘彻为刘爸爸。</p>
+<p>作为爸爸主义的代言人，刘彻当然很有家父主义的作风。从他对陈皇后的态度便可见一斑。史书记载，刘彻小时候，王皇后指其女问刘彻，“阿娇好不？”刘彻乃笑对曰：“好！若得阿娇作妇，当作金屋贮之也。”一时间传为美谈，甚至专门有个成语“刘爸爸爱着陈麻麻”总结这个历史故事。然而“金屋贮之”，仍然是物化女性的表现，是家父主义的外化，实际上仍是不尊重女性。因此我们可以看到，终武一朝，女权状况实际上是不断退化的。</p>
+<p>一个皇上的家父主义，当然不会只表现在家庭中，别忘了，他也是整个国家的爸爸。如前文所述，孝武皇帝罢黜百家，独尊儒术，这是历史学家所记载的。实际上，孝武皇帝对文化领域的控制，比人们能记录的，要更多。这实际上很好理解，因为彼时想要忠实记录历史的人，多半没有什么好下场。别看刘彻独尊儒术，他实际上打心眼里也没有尊重过读书人。司马迁因为多说了几句话，就被他切掉了生殖器，这种不尊重文官的皇上，在整个中华历史中也不多见。——后来司马迁学乖了，一个劲地夸汉武皇帝，以至于史学家都认为汉武一朝是中华文明的盛世，当然这是后话。</p>
+<p>中华文明有着优良而深厚的诗歌文化，有诗为证：“要是能重来，我要选李白。”但是终汉一朝，似乎都没有什么出色的作品留下。是因为当时的人刚刚学会使用汉字不久吗？似乎也不是，因为早在几百年前，劳动人民就在《诗经》里留下了无数优美的诗篇。很少有人知道，汉朝之所以难以产生优秀的作品，是因为汉武皇帝颁布的《诗歌内容制作通则》，根据该通则，诗经根本就是一本禁书，例如：</p>
+<p>“江汉汤汤，武夫洸洸。经营四方，告成于王。”（《大雅·荡之什》）属于“宣扬历史上封建王朝对外的武力征服”，违反《通则》第五条第一项；</p>
+<p>“蠢尔蛮荆，大邦为仇。方叔元老，克壮其猷”（《小雅·采芑》），不用说，是“表现伤害民族感情的民族战争”，违反《通则》第五条第二项；</p>
+<p>“白茅纯束，有女如玉；舒而脱脱兮，无感我帨兮，无使尨也吠”（《召南·野有死麕》）很明显“较多给人以感官刺激”“有明显地性挑逗”，违反《通则》第五条第六项；</p>
+<p>至于”青青子衿，悠悠我心；但为君故，沉吟至今。”，根据《毛诗序》，则是“刺学校废也，乱世则学校不修焉”，换句话说，就是少男少女不好好读书搞对象的事，妥妥的早恋，违反《通则》第五条第九项。</p>
+<p>更不用说，诗经里满满地宣传封建迷信，违背科学精神的言论了。读到这里，汉朝的诗人不禁出了一身冷汗，把这本破书扔到地上，庆幸道，还好我熟读律法，不然诗学未成，性命先搭进去了。</p>
+<p>当然有人会问，这也不让写，那也不让写，百姓们拿什么来消磨时间呢？汉王朝当然不会让百姓无诗可读，不然天晓得他们会闹出什么乱子。后世流传的汉乐府，大致反映了汉朝时期的诗歌审美和价值取向。</p>
+<p>从汉乐府来看，汉朝的诗歌，应该多是“少壮不努力，老大徒伤悲”（《长歌行》）这样的正能量诗，或是“山无棱，江水为竭，冬雷震震，夏雨雪，天地合，乃敢与君绝！”（《上邪》）这样的纯爱诗，以及《孔雀东南飞》这样的家庭伦理诗，当然啦，最多的还是反映霍大将军等人英勇抗击匈奴侵略的抗战神诗。</p>
+<p>故事写到这里，基本上要来一段”太史公曰“了，然而我不敢曰，毕竟我很爱惜自己的每一个器官。尽管关于爸爸主义和汉武末年的历史，我还有一万句话想和大家说。只好再引述一首乐府的古歌，希望能够这首诗不违反诗歌创作通则，毕竟是乐府诗是人教版语文教材的推荐读物。</p>
+<p>”秋风萧萧愁杀人。出亦愁，入亦愁。座中何人谁不怀忧？令我白头。胡地多飚风，树木何修修！离家日趋远，衣带日趋缓。心思不能言，肠中车轮转。“</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B9%8C%E4%BA%91%E9%AA%91%E5%A3%AB-%E6%97%A0%E5%90%8D%E6%B0%8F%E8%AF%97%E4%BA%BA%EF%BC%9A%E6%B1%89%E6%9C%9D%E8%AF%97%E6%AD%8C%E5%88%9B%E4%BD%9C%E6%8C%87%E5%8D%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%9A%87%E5%B8%9D/?category=18271" rel="tag">习皇帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E9%82%A6/?category=18271" rel="tag">刘邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E6%9C%9D/?category=18271" rel="tag">汉朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E6%AD%A6%E5%B8%9D/?category=18271" rel="tag">汉武帝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/430596/" target="cdt-mirror">报导者 | 莫之许：习的新中国，温和自由话语的结束</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-%E4%B8%8B%E5%8D%881.59.43.png?resize=527%2C369" alt="Screen Shot 2016-03-02 at 下午1.59.43" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-下午1.59.43.png?resize=300%2C210 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-下午1.59.43.png?w=527 527w" sizes="(max-width: 527px) 100vw, 527px" data-recalc-dims="1"></p>
@@ -575,62 +667,6 @@ Post tags: <br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E9%87%8D%E7%94%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E8%BF%99%E4%B8%80%E4%BC%9F%E5%A4%A7%E7%90%86%E5%BF%B5/" target="cdt-mirror">许章润：重申共和国这一伟大理念</a>
-</h2>
-<p><p>@FT中文网：【重申共和国这一伟大理念】清华大学法学院教授许章润：有感于文革会否卷土重来，疑虑复担忧，遂重申共和国这一伟大理念，重申中国是十几亿国民分享的公共家园。O重申共和国这一伟大理念</p>
-<p>@荣剑2001：这是核心观点，中国不是谁家的天下！//@陶景洲: 他提出五个问题，“第一，今天必须重申、再次重申：这个叫做“中国”的家国天下，是十几亿国民分享的公共家园，而非一党一派、一家一姓的私产，更非凭借强 力攫取、代代承续的所谓江山。打江山坐江山保江山，早已是不合时宜的王朝政治心理”。—许章润</p>
-<p>注意到在中文网上的本文已无法打开，不过其他网站有转发的尚在，现据wyatt2343</p>
-<p><strong>保存的文本转发如下：</strong></p>
-<p>文章来源：FT中文网</p>
-<p>重申共和国这一伟大理念</p>
-<p>文/许章润</p>
-<p>注：许章润是清华大学法学院教授、博士生导师，天则经济研究所理事。本文为作者2016年1月8日在天则经济研究所/中评网主办的2016“新年期许”论坛的演讲修订稿。</p>
-<p>过 去一年，一个最为严重的现象是，有关“文革”或者“文革式的社会政治状态”是否死灰复燃卷土重来这一疑虑，不知不觉，有迹无形，如雾霾袭来，慢慢沉重地压 在亿万人心头。如果说市民阶级依旧沉浸在反腐的“老炮儿”式复仇快感中，那么，政商学三界，尤其是知识界，春江水暖，对此趋势之忧虑愈深，忐忑不安，实为 二十多年来所未之有也。</p>
-<p>一 方面，我们看到机关发文，各项决议重申改革开放、民主法治。其声调之高，蔚为主旋律。另一方面，伴随着经济下滑，失业率上升，股灾连连，以及最高权力配置上的“相权衰落”，高度集权似乎再度变成 现实。“文革”式用语及其内涵的蕴意，所谓“东西南北中，党政军民学”一类套话，居然再度成为官媒堂皇大词，令人惊骇。换言之，党国一体、党政一体、军政 一体、经政一体乃至于君师一体的集权机制，在逐步推进民主法治的承诺远未兑现之际，反益强化，且借由强化国家治理能力之名，为前者张本，这便逸出了“改革 开放”的固有含义了。如果说由此开导出一个总统制的宪法惯例，并进而经由立宪程序坐实总统制，也未尝不可，但因民主尚未登场，而操作方式濡有新权威主义浓 墨重彩，遂不免令人浮想联翩，怕怕。大转折之际，可能，某种新权威主义是必需的，但其边际效应究竟如何，总是叫人七上八下。</p>
-<p>一 方面，宪法日、宪法宣誓等新制出台，强调《宪法》之不可侵犯这一官方宣喻言犹在耳。另一方面，意识形态的口子越收越紧，钳口日甚。我是个教书匠，用脑思 考，靠嘴吃饭，这一年多里，深感意识形态紧箍咒愈念愈紧，对师生的精神管束，尤其是对青年教师的收编，愈发严重，正在侵蚀三十年里好不容易辛勤作育、并可 能蓄势待发的中国文明的思想创发势头。毕竟，心灵促狭，难望心思浩瀚。</p>
-<p>“文革”是否重回人间？也许，五六年前，甚或两三年前，这不会成为一个问题，这样提问，大家都会摇头。但在重申进一步深化改革开放的今天，鬼使神差，这一问题却陡然降临，再一次严峻地摆在我们每个人面前。中国历经37年改革开放，国力大增，国民生计极大改善，社会空间拓展，倘若经此转折，无意中滑落至1936年的德国和完成工业化后“二战”前的苏联那种局面的话，则百年改革转型跌宕，情何以堪，命何以托！</p>
-<p>为此，今天需要重申共和国这一伟大理念，而提出下列五点，以为诫勉。</p>
-<p>第 一，今天必须重申、再次重申：这个叫做“中国”的家国天下，是十几亿国民分享的公共家园，而非一党一派、一家一姓的私产，更非凭借强力攫取、代代承续的所 谓江山。打江山坐江山保江山，早已是不合时宜的王朝政治心理。此前为立基于政制之政治，此刻为有违政制之反政治。故而，中国之为亿万国民所分享共有，意味 着排除了将国家当作权力的殖民地，而以征服者身份凌驾于国家之上，将人民当作掳赎的人质这一极权政治思路。增强国家治理能力，健全国家治理体系，这一伟大 的现代理念，不能无意中变成严防社会成长、打击商人阶层、限制思想自由这一商鞅式法家的刻薄寡恩。其为中国文化偏锋，置身诸强争霸时代，有利君主专权，一 时间，其兴也勃焉，其亡也忽焉，但绝非常态政治下的长治久安之策。令人遗憾的是，某种商鞅式理念似乎正在侵蚀历经百年方始积攒下来的共和理念，人民主权理 想迟迟未能落地制度化，正与其相表里。也就因此，包括后面将要叙及的反腐，才会予人以“王爷的归王爷，奴才的给奴才”的印象。</p>
-<p>在现代意义上，所谓政治，旨在建构主权、区分敌我、厘清公私、进行决断、提供和平，其间最为重要的一点就是，以共和国是全体国民分享的公共空间为基点，而以 立宪民主支撑，建构起一个全体国民政治上和平共处的大框架。因而，共和国之内，只有违法犯罪者，而无敌人，遂为题中应有之意，也是立宪民主政治的应有之 义。在国家政治意义上，将敌人常态化，而建构一个阿伦特所谓的“客观的敌人”，此种理路，说到底，还是一种极权政治心理，正与此背道而驰。</p>
-<p>第 二，国民的自由、安宁和富裕，优先于国家的强大与威势。国家建构和治理，图个什么，不是一将成名万骨枯式的光荣政治，也不是伟大君主的江山浩瀚，说到底， 是国民的自由、安宁与富裕。至于国家的强大与威势，乃顺水之舟，水到渠成，倒非国策悬鹄。我们当然明白，处此自助体世界，就中国这一初始条件而言，没有强 大国力，御敌防寇，国民的自由、安宁和财富难保。但是，另一方面，我们更知道，若无每一国民的自由、安宁和富裕，要它强大国力与光荣政治做什么。</p>
-<p>由此，必须指出的是，虽经37年改革开放，经济规模扩展，国力大增，但综合来看，中国依然是一个穷国，一个尚处大转型收束时段，还没最终走出转型的“历史三峡”的穷国，属于典型的“脆弱繁荣”，不可因为刚刚手上有些余钱，就透支国力。</p>
-<p>实际上，最近几年间，不知不觉，一防再防，中国事实上还是被拖入了一场军备竞赛。而且，整个东亚，均深陷此中。同时，自一年前反西方价值观开始，仿佛同时陷入了与西方的意识形态冷战。就前者而言，关乎善用37年 积攒的民脂民膏，防范严重透支国力，而非打造伟大君主的大国梦幻。一夫强，万夫弱，打断的是共和国的脊梁，绝对不是好事。看看俾斯麦的德意志和普京的俄罗 斯，一目了然。就后者言，其实主要源于西方偏见，是它们挑起来的，但要是被动接招，并开出了所谓反西方价值观这类误诊处方，而于敌我观念支配下导致内政主 导方向上的错位，则更加得不偿失。</p>
-<p>正是基此情势，过去一年经济下滑，特别是民营资本人人自危，不仅源自2008年以来整个国际金融形势下滑大势，同时反映了国内政治和意识形态导向致使大家心头困惑，信心指数下滑，以至于人心慌慌，市场惶惶。</p>
-<p>因此，需要重申政治的审慎德性，以及“审慎政治”这一为政常识常道，拒绝缔造伟大强国君主梦这一类政治罗曼蒂克，而将政治回归为一国之内，为了每个国民的自由、安宁、富裕和幸福这一庸常轨道上来，将“脆弱繁荣”修炼为“稳固繁荣”的常态。</p>
-<p>第 三，内政优于外交。有人说，当今世界，美国是一个“内政决定外交”的国家，俄罗斯则为“外交牵制内政”。相较而言，中国属于哪种形态呢？总体以思，中国的 大转型尚未完成，有待临门一脚，则“内政优于外交”，不言自明。终究而言，但凡一方水土，概为主权国家，则内政优先，自不待言。毕竟，刻下中国，有六千万 左右的残障国民，上亿尚未脱贫人口，两亿五千万农民工兄弟辗转城乡，还有成百数千万失学儿童留守儿童。就国之重器的高等学府来看，也没几所世界级的，多数 很烂。尤其是，在最终解决“中国问题”意义上，若以“发展经济社会，建构民族国家，提炼优良政体，重缔意义秩序”四大义项提纲挈领，则三、四两项仍然人在 途中。值此大背景下，举凡政道治道，一切措置，总须“攘外必先安内”，恒以内政为优，而内外恰予平衡。纵然外交，以及全球政治，也是为了造福内政，不离不 弃生民福祉与邦国安危。</p>
-<p>最 近两年，国民睹物思情，感觉似乎外交优于 内政。若果如是，则不免方向有误。此间可能牵涉到民族国家思维、帝国思维与全球体系思维的错综关系。一百多年来，吾国所要完成的一大转型，是将帝国思维转 换为民族国家思维。所谓民族国家思维，实际上讲的是以文明立国，以自由立国，在“文明立国—民族国家”与“自由立国—民主国家”的框架内，缔造一个富强、 民主与文明的现代中国，一个全球体系中的中华家国天下。在此进程之中，内政，还是内政，恒居优先地位。进入全球化时代，作为主权自助体的民族国家思维需要 上升为全球体系思维，此于中国这样的大国而言，尤其重要。但是，全球体系思维不是帝国思维。倘若读书有限，误将毛式罗曼蒂克普世主义当成了全球体系思维， 而其实是帝国思维，则得不偿失。以此观之，当下帝国思维弥漫中国。草根民粹，尤其是边缘落魄掉队群体，既有年长亦有年少，整天嚷嚷打这打那，“炮轰”“踏 平”，令人忧虑。</p>
-<p>也就因此，肯认内政优于外交，意味着海外援助，不管是非洲600亿还是哪里500亿， 但凡用钱，总得有个程序，好歹让掌控国库进出的一国最高权力机关面子上过得去，也让亿万交税纳粮的升斗小民心里好受点。换言之，在此领域启动人大的预算和 决算机制，乃至追责机制，便是题中应有之意。我们不是不知道，大国成长到一定体量，辗转腾挪之际，客观上需要大格局大思维大体系，需要拓展自家的战略纵 深。就此而言，“一带一路”，海陆并进，堪当大手笔。但是，持盈保泰，量力而行，总是王道。否则，帝国未至，而帝国负担先来，对于中国这一尚处大转型航程 之中的泱泱巨众国度而言，岂为福哉？</p>
-<p>第 四，反腐必须 导出制度遗产，始有意义。这一波反腐，霹雳手段，依恃权力政治和权势国家，做他人之不敢做，行前所未行。两三年里，全民狂欢。但是，目前看来，其不脱例行 之吏治整顿，杀一杀歪风，收拾收拾恶吏。因而，其收取合法性政治红利时段已过，不但说省部级高官，纵便揪出个常委级大蠹，大家也不再惊讶，更不可能于欢欣 鼓舞中颔首承领政治统治的合法性。就是说，以反腐标领政治统治合法性的效用不再，大家更希望看到在民主法治思路引领下，将防治腐败的制度建设提上议事日 程，导入常态化的法治机制。毕竟，这一波反腐，针对的是过往几十年积攒下来而遍于国中的权力腐败、全民腐败，而以非常人物依恃非常手段所推展之非常进程， 若无相应扎实制度遗产，时过境迁，必定人亡政息。不说别的，就说公车改革，钱已经花出去了，但变相公车私用的地方性创造，花样翻新，早已登场，即为一例。 因此，引导其成为常态之下，基于国家理性和公民理性的民主法治建设，不仅考验着统治体系的政治诚意，我相信，同样在鞭挞着治理体系的政治智慧。</p>
-<p>在此，事实证明行之有效的制度，为民主法治国家经久使用所证明的，该采用的就当采用，到时候了。例如，暂且不说为何不兑现激活《宪法》第35条 的言论自由与结社自由，发挥它们在信息披露和权力制衡中的效用以预防权力腐败，单从略小处来看，这么反，那么反，为何不启动官员财产阳光法案？一方面，征 收公民个人所得税雷厉风行，手机实名制关涉数亿国民，却也行之无碍，为何偏偏一到阳光法案就以这个那个，搪塞一阵算一阵。什么技术手段跟不上啦，全国联网 做不到啦，简直把亿万国民当白痴。若果真有诚意，欲构建政治统治的合法性，取信于民，全国做不到，那就从七个人做起呗。说白了，你家里有多少钱，动产不动 产，票据证劵，放在瑞银还是藏在地窖，晾晒出来吧，让亿万国民瞧瞧。敢，还是不敢；做，还是不做。这不是一个哈姆莱特式的追问，毋宁，是一个关于政治德性 的常识测验。恰恰在此，装聋作哑，支支吾吾，拿亿万国民的智商和情商开涮，使得一切关于政治合法性的宣谕瞬间等于零。——老王，你要是在任上建立起阳光法 案制度，你就名垂青史，否则，不过一能吏而已！</p>
-<p>说 到 底，置此情形下，如今的反腐，以及为了解决政令不出中南海而采行的重新集权进程，包括所成立的各种领导小组，以及巡视组措置，某种意义上，的确是一个去制 度化、解制度化进程，但也同时提供了重新制度化的契机。建设官员财产阳光制度，就是一个“抓手”，何乐而不为？今天发文件，明天发文件，这一年党政发文最 多，若无制度落实，也不过依旧是“一级一级往下念”，反过来，“乡糊县，县糊省，一直糊到国务院”，不了了之。换言之，不在民主法治这一常态、常规的现代 国家治理方向上用力，发再多的文件也没用。</p>
-<p>由 此，引出 一个连带话题，涉及现代立国的根本理念，就是反腐旨在建设一个“道德中国”和“清洁社会”，相信大家都不会反对。但是，问题在于，如果骎骎乎道德洁癖，并 用之于全民，包括食色性也的升斗小民，而实际效果是消灭了政治和权力结构之外的其他一切社会自我组织形式，一切私性领域的市民生活方式，则同样是一种商鞅 式理路，于良善人生和正派社会而言，适得其反。亿万国民，芸芸众生，七情六欲，总得要消费，要 happy，还要参与，无法 清 心寡欲，但也折腾不到哪里去。即便像无烟工业，又何必赶尽杀绝。两亿五千万青壮年农民工漂泊于大中城镇，讨生计，要活路，好歹给他们一个宣泄人性的机会 吧。否则，基于道德洁癖的清洁运动，陈义过高，冲击之下，既不切实际，结果反而可能造成普遍的道德伪善，最不堪而必然的是，豢养出更为高级的腐化形式。毕 竟，越是公众人物，越是大权在手之士，其之为人做事的道德水准应当越高，而一般小民，善恶参半，优点和毛病集于一身，在吃喝拉撒里打滚，沉湎于市民私性生 活，以珠三角的市民生计为典型，放他们一马得啦。</p>
-<p>第五，政治统治的正当性问题无法回避，也不是三言两语就能打发的。此为今日中国最为敏感话题，也是176年 近代大转型最后所要解决的问题。转型时段未完，政治统治正当性悬置，遂成一切内在紧张的源头。内政外交，敌我公私，焦点在此。此亦非他，就是权力的来源问 题。换言之，凭什么你来统治？为什么你掌权？过去一种讲法是，领导人民打江山，牺牲了两千万人头换来的。各位，这叫丛林法则，如前所述，例属前现代政治， 所以现在不讲了。据说，最新的讲法叫“人民的选择”、“历史的选择”。可问题在于，哪个人民？什么时候的人民？是当年我爷爷的选择吗？如果答案是肯定的， 那么，现在我也是人民的一份子，而且，又有这么多人民，换了一茬又一茬，能不能再选择一回？老中国的讲法是“君权神授”，脱离了历史语境的“人民的选 择”，以及政治神学的“历史的选择”，均排除了程序合法性维度，没有现实法权程序支撑，不过是它的变种，听起来响亮，其实弱不禁风。</p>
-<p>在 此情形下，以这一套陈旧的意识形态话语为凭，搪塞政治统治的正当性这一立国之本，回避这一根本是非，肯定不行。所谓政治统治的正当性，笼统言之，涉及三重 合法性，即绩效、意识形态和程序，缺一不可。今日情形，绩效合法性，甚为昭彰，而意识形态与程序合法性，则有待开拓。毕竟，政治统治旨在实现全体公民政治 上的和平共处，以“同意和承认”、“命令与服从”为枢机。总靠绩效来维持，是维持不住的，不仅不可能永远保持绩效，绩效总有令人不满的时候，还在于人心不 足，吃肉骂娘，一旦对于绩效习以为常，就不再看重了，何况，不可能总是高效发展，永远快速致富。因此，便需要后面两项合法性来补充，来转圜，特别是需要启 动程序合法性。纵便绩效有问题，单凭程序，也还能维持。就是说，将十四亿人民变成选民，让选民进场，据选票解决“权力从何而来”这一根本是非，则钞票和选 票双轨齐下，合法矣，正当矣。换言之，以“政府的周期合法性”，彰显和印证“政权的永久正当性”。现代政治说来崇高，其实还不就是这点小九九。</p>
-<p>汉 儒班彪《王命论》喟言，“帝王之祚，必有明圣显鳃之德，丰功厚利积累之业，然后精诚通于神明，流泽加于生民。故能为鬼神所福飨，天下所归往。未见运世无 本、功德不纪，而得倔起在此位者也！”其间，德行昭彰、业绩显豁、神明祝福与泽布生民，概括的也就是上述三要素，可谓道尽枢机。在现代法政哲学意义上，归 总而言，不外就是三句话二十四字：“主权在民，治权在贤；政权为主，政府为客；授受以公，临治以法”。否则，正当性云乎哉。</p>
-<p>是 啊，所谓“人在做，天在看”，这个“天”绝对不是地上俗物，毋宁，是指价值的超越性，一种普遍的天道自然，永恒之法。在此刻语境下，上帝已死，“人民”不 期然间变成了地上的神圣。人民是一个集合体，无法言声，只能换身为市民、族民、国民和公民，进而，特别是公民进入政治，将自己化身为一个个具体的“选 民”，这才有所谓的人民，也才有所谓的程序合法性。否则，大而无形，有等于没有，无所托付，则情形堪忧。</p>
-<p>此刻中国，一方面对知识阶层能压就压，也压住了“大师王林”这类三教九流。另一方面，福山这类洋大师，却在中国流行，一言既出，引为经典，其实南辕北辙，扯淡。其情其形，与道士和尚进宫差不多，实在不是个事。</p>
-<p>有感于文革会否卷土重来，疑虑复担忧，遂重申共和国这一伟大理念，而有上述五点陈述，以为新年期许，知罪由人矣。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E8%AE%B8%E7%AB%A0%E6%B6%A6%EF%BC%9A%E9%87%8D%E7%94%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E8%BF%99%E4%B8%80%E4%BC%9F%E5%A4%A7%E7%90%86%E5%BF%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E5%92%8C/?category=18271" rel="tag">共和</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E5%92%8C%E5%9B%BD/?category=18271" rel="tag">共和国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%B3%95/?category=18271" rel="tag">宪法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/" target="cdt-mirror">【真理部】关于厦门集美大桥石碑断裂消息</a>
-</h2>
-<p><p>关于厦门集美大桥石碑断裂消息，切勿转载政治谣言信息，不得过度炒作。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8/?category=18271" rel="tag">厦门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8%E9%9B%86%E7%BE%8E%E5%A4%A7%E6%A1%A5%E7%9F%B3%E7%A2%91%E6%96%AD%E8%A3%82/?category=18271" rel="tag">厦门集美大桥石碑断裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B1%86%E8%85%90%E6%B8%A3%E5%B7%A5%E7%A8%8B/?category=18271" rel="tag">豆腐渣工程</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -642,7 +678,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -652,5 +688,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%A6%E9%97%A8
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

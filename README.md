@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,99 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E6%80%81%E9%80%82%E5%BD%93%E6%97%B6%E5%80%99%E5%B0%86%E7%BB%93%E6%9D%9F%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/" target="cdt-mirror">【习总日记】 习近平表态适当时候将结束一党专政</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（ 2016 ， 3 ， 2 ） </p>
+<p>两会召开，外国媒体蜂拥而至。</p>
+<p>今天在接受外国媒体采访时记者问：有人认为腐败会迫使中共结束一党专政。请问习近平总书记，您怎么看待这个问题？ </p>
+<p>我回答：前三十年我们完成了从资本主义到社会主义改造，后三十年我们完成了从毛主席的社会主义到邓小平的中国特色社会主义改革开放。现在是第三个三十年，中国共产党将在我们这一届党中央领导下，完成从一党专制到两党轮流执政的政治改革。这是政治改革，当然，还有其他一系列社会改革。如小康社会，法制社会，和完成民族复兴，实现中国梦等。 </p>
+<p>记者问： 现在确实有人不喜欢共产党领导。而且近年来，不喜欢的人还在增多。请问这是为什么？ </p>
+<p>我回答：人是理性的，也是感性的。一种产品使用久了，会萌生换换口味的冲动。有些人想换党做做可以理解。但最近民调显示， 98% 以上的人民是拥护共产党拥护我的。《嫁人要嫁习大大》在中国妇女中间广为传唱，《做男人要做习大大》深受中国男性欢迎。 </p>
+<p>记者问：现在共产党确实是在反腐了。但是，反腐是为了什么？是为了保卫老百姓的利益，还是为了借几颗脑袋稳住民众之心，以保住共产党的执政地位，甚至只是为了保住祖传的社稷？ </p>
+<p>我回答：说我们“确实在反腐”很惭愧。如果真的反腐，中国早就崩溃了。为何？因为 95% 的领导干部都存在不同程度的贪污腐败。我们内部制定了标准，根据不同级别贪污多少划条红线，红线以上抓，红线以下不抓。但即使红线以下，甚至是大清官，只要曾经在公开场合表达对我个人的不满，马上抓。 </p>
+<p>记者问：中共宣传说，“无论中国共产党犯过什么错误，无论共产党中出现了多少腐败分子，你们作为中国的公民都不要和共产党过不去。”现在还有多少人会照着做？ </p>
+<p>我回答：历史上，人民曾经作过选择，共产党执政确实是人民选择的结果。他们现在即使后悔也晚了。除非再发生一次内战，人民便可以有第二次机会选择。但似乎很遥远。 </p>
+<p>记者问：你们还说，“网络上出现了许多偏激的文章，这些文章置建国以来尤其是改革开放以来中国的巨大成就而不顾，一味列数共产党的种种错误，条条罪状，条理分明，数据详细”。真是如你们所说的吗？ </p>
+<p>我回答：过去看重我党的优点，现在看重我党的缺点。其实党没有变，是人民的眼光变了。问题不在我们，而在人民。他们越来越不满足吃饱穿暖住新房。人性是贪婪的。 </p>
+<p>记者问： 你们还说，“离开了共产党，中国必乱，中国一乱，遭殃的是你们老百姓。”这话不能不唤起我们对文化大革命的记忆。十年天下大乱，抗日战争不过打了八年。十年内乱确实是在共产党领导下发生的。总结得够了吗？ </p>
+<p>我回答：事实上，中国还真没有离开过共产党的领导，成绩是共产党的，同理，出了乱子，共产党应该负责。所以，我们要负责到底，要牢牢掌握控制政权到底，不给他人任何机会。 </p>
+<p>记者问： 有人说，“无论是威望和执政能力，中国还没有任何党派和力量能够取代共产党”。共产党不应反对、限制、打击中国社会其他也想在推动中国社会发展中起作用的其他社会组织和力量。 </p>
+<p>我回答：八个民主党派只是花瓶陪衬，很多人不满意。所以我们正在扶植培养党内反对党。譬如先把薄熙来关进秦城监狱，最近又在制造条件扶植任志强。我们计划在不远将来从中国共产党中间分裂出另外一个共产党，可以叫中国民进党。这样，左派的共产党和右派的民进党良性竞争互动，实现类似西方两党轮流执政的模式，至少可以在形式上接近其他发达国家政治模式。 </p>
+<p>记者问：骨子里还是共产党领导？ </p>
+<p>我回答：对。但要变化，根据新的形势变化。一句话，人民需要娱乐，尤其是喜欢看变戏法。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/09/%E9%B3%A9%E9%B5%AA%E4%BA%9E%E9%BB%83%EF%BC%9A%E4%B9%A0%E6%80%BB%E6%9C%80%E9%9C%87%E6%92%BC%E6%9C%89%E5%8A%9B%E7%9A%84%E6%BC%94%E8%AF%B4-e1424929460667.jpg?resize=550%2C413" alt="鳩鵪亞黃：习总最震撼有力的演说" data-recalc-dims="1"><p>鳩鵪亞黃：习总最震撼有力的演说</p></div>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E6%80%81%E9%80%82%E5%BD%93%E6%97%B6%E5%80%99%E5%B0%86%E7%BB%93%E6%9D%9F%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%8E%8B%E4%BA%9A%E5%86%9B%E4%B8%8A%E6%B5%B7-%E7%9A%84%E6%A3%80%E8%AE%A8%E4%B9%A6/" target="cdt-mirror">墙外楼｜@王亚军上海 的检讨书</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/e2e5e9dejw1f1h9fqxmh2j20jz0zkjug.jpg?resize=550%2C979" alt="e2e5e9dejw1f1h9fqxmh2j20jz0zkjug" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/e2e5e9dejw1f1h9fqxmh2j20jz0zkjug.jpg?resize=575%2C1024 575w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/e2e5e9dejw1f1h9fqxmh2j20jz0zkjug.jpg?w=700 700w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>朋友们好，我就是@王亚军上海我之前的账号叫@王亚军北京，这一连串的销号禁言，我自问已经阉割了自己的舌头，不敢妄议，甚至不再腹诽！</p>
+<p>但是就算如此这般的自我阉割，（屌丝青年）订阅号还是在一篇吐槽之后被直接封杀了，这让我十分气愤，所以此号之前的文章都是写了很久没有发布过的，言辞犀利些，见谅。</p>
+<p>但我的微博@王亚军北京被销号之后的这个号，还是以广告为主，因为开了一家淘宝店，叫（亚军杂货铺），生意马马虎虎，勉强够我抽烟的，也多亏朋友们捧场，但即使如此，还是没逃脱被销号的命运，甚至这几天被各大官媒和门户网站刷屏式的批斗，是的，我觉得这就是批斗。</p>
+<p>有人说我是卖国贼，我思虑再三，没有那个能力，比令计划差很多，有人说我是汉奸，但我还住在这里，只期盼国家更好一点，没有把家人老小移民。有人说我造谣传谣，我笑一笑，所有帖子全部是我实名发布，自己从不删帖。</p>
+<p>突然来袭的大批判，让我不知所措，只是觉得我不能就此在网络上消失，那么，很多人会觉得我是畏罪消声了！</p>
+<p>姑且不论整篇通稿所提及的谣言跟我们这几个账号一丝关系没有，就是那一个反宪法的帽子扣上脑袋，我不禁要问：你国有这玩意儿可以反吗？</p>
+<p>要说言论扰乱秩序问题，城管打人我骂一句不对吗？强拆伤人我表示气愤不许吗？医疗抢劫我表达愤慨不让吗？还有医院自己发通稿说：医院没有号贩子！！别说是可忍孰不可忍，他妈的我二大爷也不可忍啊！‌‌“说‌‌”几句也不对吗？</p>
+<p>哦，你说对官员的腐败抹黑？我所说的哪句话不是你们官方发布在‌‌“合法‌‌”渠道的？昨天你们发表《一个市长的反腐风暴》今天就发表《一个巨贪市长的堕落》你怪我咯？上条微博写着《嫖宿幼女106人的禽兽小学校长》下一条就看到这人调到其他中学上任！怪我咯？前面呼吁大家捐款捐物，后面爆料郭美美的新车，怪我咯？</p>
+<p>这一切都怪我咯？都怪这群说点真心话的网络大V喽？</p>
+<p>说实话，你们被强拆关我屁事？你们被法律冤枉关我屁事？你们被医疗事故关我屁事？你们被城管追打关我屁事？你们被P2P骗钱关我屁事？你们要延迟退休关我屁事？还有三胖死不死关我屁事？被谁侵占了国土关我屁事？央视姓啥关我屁事？</p>
+<p>油价涨不涨我都加得起，食品毒不毒我也分得清！亚军行走江湖二十多年，敢说没被骗过一分钱！当然，被抢劫总是合法的…..</p>
+<p>虽然这些问题我都没‌‌“摊上‌‌”，但这一切却都是我的错……</p>
+<p>我承认我错了，你们这群人死不死活不活的，真的不应该有任何人去关心，你家里死不死人耽误我吃一块儿肉吗？挡我Wi-Fi信号了吗？影响我喝酒了吗？亚军一年自费旅游七八万的机票钱，不算吃喝玩乐住宿的！</p>
+<p>每每看到那些蒙冤受辱的人发帖子艾特哪些娱乐明星就会有想抽人的冲动，傻逼，王宝强他亲戚不出车祸你认为他会上网说这句‌‌“操你妈‌‌”别逗了！你觉得‌‌“他们‌‌”会为了你的死活呼吁有关部门关注？别傻了！你觉得自己对‌‌“他们‌‌”的关注和支持会得到‌‌“垂怜‌‌”一般的感动？你出门记得吃药吧，要不干脆省点药钱，放弃治疗也算是为国家环保事业做的贡献！傻逼！</p>
+<p>呵呵不说了，我活该！我有罪，我他妈的就是多嘴了，犯贱了！</p>
+<p>骂我的人，祝你们一生幸福平安，健康快乐，别摊上事儿！</p>
+<p>这就算是我，老王–‌‌“互联网名人‌‌”王亚军的忏悔吧……<img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/0981grey.gif" alt="" data-recalc-dims="1"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%8E%8B%E4%BA%9A%E5%86%9B%E4%B8%8A%E6%B5%B7-%E7%9A%84%E6%A3%80%E8%AE%A8%E4%B9%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%9A%E5%86%9B/?category=18271" rel="tag">王亚军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%BB%E5%A4%A7%E7%82%AE%EF%BC%81%E6%81%AD%E5%96%9C%E4%BD%A0%EF%BC%81/" target="cdt-mirror">中国茉莉花革命｜任志强任大炮！恭喜你！</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k1aaaaaaaaaaaaaaaaaaaaa.jpg?resize=450%2C333" alt="k1aaaaaaaaaaaaaaaaaaaaa" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k1aaaaaaaaaaaaaaaaaaaaa.jpg?resize=300%2C222 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k1aaaaaaaaaaaaaaaaaaaaa.jpg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>任大炮，你光顾你自己放大炮，你也让我们过一把投票的瘾，我们不怕过一把就死！</p>
+<p>任大炮！你干脆就带领我们挑战下一届国家主席吧！让我们也过过投票的瘾。</p>
+<p>恭喜“大炮”：党媒让你一夜天下闻名</p>
+<p>在中共体制内之人中，你以敢说话表明个人观点获“大炮”之名。所谓“大炮”，声音响、震动大之器也。当然，对“大炮”一说，言论界毁誉并存，就像所谓“能量”本是物理学概念，是标量而非矢量，无正负之分，但有人就是要用于政治并分出正负来。“大炮”在自认为代表“正能量”的一方的语境里，是不讲党性、组织性，乱说话，大声说话的代名词。在民间，则是不唯权，不唯上，敢说话，说实话的美誉。就思维模式与语言风格论，无论毁誉，说你是“大炮”，名至实归。</p>
+<p>据说，你有 3000 多万粉丝。够牛？中共建党 90 多年，垄断权力、财富、真理 60 多年，也只有 8500 万党员。区区一个你，仅仅开了微博，隔三差五的放放“炮”，短短数年之间，就拥有 3000 多万拥趸，这是怎样响亮的“大炮”啊！你这样的影响力，叫中共情何以堪？</p>
+<p>你最大的一炮，当数几天前的“政府怎么变成党的了？花的是党费吗？”这一炮，捅了“马蜂窝”。最高领导刚刚视察三大国家级媒体，作出“党媒姓党”的“最高指示”，你就放了这么一炮，你让最高领导的威信何在？你一个“优秀共产党员”，不做党的驯服工具，“妄议”党的最高领导指示，在党中央就是党，党的最高领导更是党的党性原则下，你这不是反党是什么？你可能不服，但现实就是这样，党说你反党就是反党。因为在党国，党，不仅是权力、财富，还是真理。当然，这个真理，建立在权力、财富之上。</p>
+<p>记住，对你的进攻不是几家党媒之举。党媒是什么？几只狗而已。对谁起吠，那是看主子眼色的。</p>
+<p>但是几天下来，党媒们发现，不管它们的炮火多么猛烈，不管它们穷尽了“弹药库”所有最霸道、最蛮横、最党性、最正能量的舆论语言，依然对你这□“大炮”的威力无损。你随便一下的反击，都让它们的火力显得苍白无力，只因为你的身后站着 3000 万拥趸。几家党媒有几个人？即使垄断了所有的高音喇叭，又算什么呢？即使 8500 万党员，在 14 亿老百姓面前，又算什么呢？况且， 8500 万党员中，有多少是真正站在党媒一边真说不定，你也是党员，而且是优秀党员，你不也站在党媒的对立面吗？还有，你看前苏共倒台的时候， 2500 万党员在哪里呢？人心不是一个登记数字，力量往往隐于无形。</p>
+<p>于是，它们能做到，也就是封杀你的声音。让这场论战成为只准州官放火，不许百姓点灯的闹剧。只有这样，它们才能显得胜利，哪怕是自欺欺人的胜利，哪怕是极其下流卑鄙的胜利。</p>
+<p>但是，我们要恭喜你任先生。你因此将真正成名。过去，你有 3000 多万拥趸，今天，因为它们对你的围攻、封杀，你讲因此拥有更多的拥趸。而我，一个进入“耳顺”之年的人，就是从今天开始站在你身后的人，这样的人从今天起会越来越多。 8500 万算什么，我们是 14 亿。</p>
+<p>恭喜你任先生，如果说，你过去只是一个党党员，那以后，你已经是一个公民。你们的党不在乎多一个少一个党员，我们很需要更多你这样的公民。你们党以你为耻，我们以你为荣。即使你再不能发出声音，你过去的声音已经唤醒了无数人，历史将铭记你的贡献。</p>
+<p>恭喜你任先生，如果说，过去只有 3000 万粉丝知道你，那今天全中国都知道了你，全世界也将知道你。你过去是网络蜚声，今天是扬名天下。天下姓什么？姓民。人民不灭，你就不朽。那些现在趾高气扬的东西，将来算什么呢？──历史的垃圾而已！</p>
+<p>任先生，我不知道，下一步你还会面临怎样的遭遇，也许会开除你的党籍，也许会剥夺你的自。由，也许。。。对专制政权来说，只有我们想不到的，没有它们不敢做的。但是请相信，不论何时何地，我们永远与你站在一起，人民与你站在一起。</p>
+<p>最后，谨以此文向一切任先生一样的仁人志士致敬。</p>
+<p>来源：网络</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%BB%E5%A4%A7%E7%82%AE%EF%BC%81%E6%81%AD%E5%96%9C%E4%BD%A0%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%8F%AC%E5%BC%80%E5%9C%A8%E5%8D%B3-2016%E5%B9%B4%E9%A6%96%E8%B5%B7%E8%97%8F%E4%BA%BA%E8%87%AA%E7%84%9A/" target="cdt-mirror">德国之声｜中国两会召开在即 2016年首起藏人自焚</a>
 </h2>
 <p><p>据美国媒体报道称，近日又有一名藏族僧侣为抗议中共统治自焚身亡。这是2016年首次发生类似事件。与此同时，中国两会即将召开，身份仍存争议的班禅喇嘛接受中共统战负责人接见。</p>
@@ -54,6 +144,36 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/" target="cdt-mirror">自由亚洲｜成都要求高级讲师上缴护照 出国须承诺不“泄密”</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg" rel="attachment wp-att-430688"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg?resize=500%2C430" alt="上缴护照" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?resize=300%2C258 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>西南民族大学讲师微信截图。（网络截图）</p></div>
+<p>四川成都市多家高校的副处级以上讲师被要求缴出护照及旅行证件，若要出国，须向校方申请并签字承诺在境外不做任何有损国家尊严和利益的言行、保守党和国家机密，以及不得以中共党员身份参加任何活动。此外据悉，北京所有大学对副处级以上讲师及行政人员申请出国，一般不会批准。</p>
+<p>境外社交网站推特3月1日流传一份来自微信的对话截图，成都高校要求高级职称的教师，上缴所有的护照和旅行证件。由校方统一管理。以后出国之前，须向校方提出申请，等审批合格后方能领取出境证件。其中提到西南民族大学已经实施这项规定，其他学校马上就要实施。本台记者3月2日，多次致电该校校长办公室和人事处，但均无人接听。而四川大学人事部门一位负责人杨女士当天接受自由亚洲电台记者采访时称，该校已经实施。她说：“我们（学校）副处级以上的都交了（护照和通行证）”。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/m0302-ql3p2.jpg" rel="attachment wp-att-430687"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/m0302-ql3p2.jpg?resize=400%2C581" alt="北京某高校处级讲师向组织部申请护照表格曝光。（乔龙提供）" data-recalc-dims="1"></a><p>北京某高校处级讲师向组织部申请护照表格曝光。（乔龙提供）</p></div>
+<p>记者：如果要去旅游，再填表格申请还是怎么样？</p>
+<p>回答：对，对，对，要填申请表，是这样的。</p>
+<p>记者：他这样做主要预防什么？</p>
+<p>回答：这个我不知道，防不防贪污，我不知道，就是加强管理。</p>
+<p>记者：高级职称的算是处长以上吗？</p>
+<p>回答：对，肯定是副处以上了。我们是早就开始了。</p>
+<p>北京一位要求匿名的大学老师2号对记者说，北京的所有大学，从去年就已要求副处级以上的高级讲师或行政人员交出护照：“副处以上的高讲，都收走了，去年就收走了”。</p>
+<p>记者：如果要出国，怎么办？</p>
+<p>回答：这要申请。但是我听他们说，一般人不批。</p>
+<p>记者：那他就出不了国了？</p>
+<p>回答：对啊。说是可以申请（护照），但要分为什么事，基本是限制你不能随便出境，比如要出去旅游，可能不批。如果家里有什么事或者孩子在外面有事，那还可以。要分什么事情才批准你。我们学校人事部有文件，反正是人事处下的文。</p>
+<p>记者在网民提供的一份空白申请表格上看到，其中承诺出国内容写道：“本人已经了解处级干部出境管理规定，并承诺在境外期间，不做任何有损国家尊严和利益的言行，保守党和国家的机密，不以党员身份和学校身份参加公开活动。。。。。。回国七日内将因私护照或港澳通行证上交组织部”。申请表上还有组织部收到证件的具体日期和接受者签名。</p>
+<p>山东大学退休教师孙文广从2005年起就被当局限制出境。他2号对本台表示：“对官员来讲，很多到外国是想逃避反腐追查；对于一些学者，怕他们出去以后乱讲话或者发表一些与中共高层不一致的观点。拿我来讲，到现在已经十多年了，都是不准出去的，也不准到台湾、香港。他就是怕我出去以后讲一些话，做一些他们不高兴的事情。我想他是对知识分子有些恐惧”。</p>
+<p>官方媒体报道显示，当局要求高校副处级以上讲师缴出护照是为了防止官员携款外逃，但是，从申请取回护照及旅行证件的表格上看到，当局主要还是防范意识形态领域。另外，北京市通州区要求科级及以下干部上缴因私护照上。</p>
+<p>据新京报去年6月19日报道，北京部分区县、部门进一步收紧公务员因私出国管理政策。通州区科级及以下干部因私出国护照已全部上缴，由单位集体保管，科级事业单位主要负责人因私出国须登记备案。在怀柔区，涉密岗位人员出国备案管理也延伸到了科级。报道称，中组部、公安部发文，要求配合反腐败国际追赃工作，进一步加强对领导干部因私出国(境)的监督管理。北京新设立的追逃办近日也强调对“防逃”的布控，包括强化党员、国家工作人员出入境证照的管理。</p>
+<p>（特约记者：乔龙；责编：石山/吴晶）</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7/?category=18271" rel="tag">中国护照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E5%A2%83%E7%AE%A1%E7%90%86/?category=18271" rel="tag">出境管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/" target="cdt-mirror">自由亚洲｜成都高校要求高级讲师上缴护照 出国申请须承诺不“泄密”</a>
 </h2>
@@ -662,138 +782,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/pmi/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E4%BA%AC%E8%A5%BF%E5%9F%8E%E5%8C%BA%E5%A7%94%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA-%E5%8D%8E%E8%BF%9C%E5%8F%91%E6%96%87/" target="cdt-mirror">南华早报｜京西城区委将严肃处理任志强 华远发文严控意识形态</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%A5%BF%E5%9F%8E%E5%8F%91%E5%B8%83.png" rel="attachment wp-att-430500"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%A5%BF%E5%9F%8E%E5%8F%91%E5%B8%83.png?resize=500%2C302" alt="北京西城区委发布的微博无法评论、转发" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=300%2C181 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=768%2C464 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?resize=1024%2C618 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/西城发布.png?w=2018 2018w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>北京西城区委发布的微博无法评论、转发／微博截图</p></div>
-<p>（南早中文网讯）任志强微博被关事件继续发酵。北京西城区区委发通知称，要对任志强“按照党纪作出严肃处理”。任志强曾执掌的华远集团日前发布了《关于加强意识形态工作的意见》，禁止员工妄议中央、诋毁污蔑领导人、传播政治谣言等。</p>
-<p>华远集团为北京市西城区国企。任志强质疑“党媒姓党”论之后，首先公开批判任志强“反党”的，是北京市委宣传部主管的“千龙网”。</p>
-<p>2月28日，国家网信办责令新浪、腾讯等网站关闭任志强的微博账号，指任志强长期发布违法信息，影响恶劣，但并未指明具体涉及什么信息。之后，更多官方机构和媒体加入批判任志强的行列，提法也越来越严重，包括指他是吃饭砸锅的先富起来党员、是颠覆社会主义制度谋求西方宪政的代表等。</p>
-<p>昨晚（2月29日）9时02分，“北京西城”官微发布消息称，当天，西城区委下发《关于正确认识任志强严重违纪问题的通知》。</p>
-<p>通知指，任志强作为一名共产党员，在网上持续公开发布违法信息和错误言论，并产生恶劣影响，严重损害了党的形象。作为一名党员，任何公开发表的与党的路线方针政策不一致的言论，不论在互联网上，还是其他媒体上，都是党的纪律所不允许的。区委将严格按照《中国共产党纪律处分条例》，对任志强作出严肃处理。</p>
-<p>但这份通告并未说明所谓“严肃处理”是什么。</p>
-<p>西城区委还表示，要求全区广大党员引以为戒，牢固树立纪律和规矩意识，特别是严守政治纪律和政治规矩，把自觉维护党的团结统一作为职责和使命，坚决同任何违反党的纪律的言行作斗争。</p>
-<p>这条微博昨晚发出之后不久即禁止转发。</p>
-<p>目前华远集团官方网站上的“集团公告”栏中正滚动一份“中共华远集团有限公司委员会文件华党字[2016]05号华远集团有限公司党委关于加强意识形态工作的意见”，文件底部显示，发出日期是“2016年2月23日”——正是北京千龙网发布第一篇批任志强“反党”的文章翌日。</p>
-<p>2月19日，中共总书记习近平先后到访人民日报社、新华社和中央电视台，提出党和政府主办的媒体必须姓党。对此，任志强发表了两条微博。一条说，“人民政府啥时候改党政府了？花的是党费吗？”任志强还指，“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p>
-<p>华远集团的这份文件规定了“九项禁止”，包括禁止公开坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策；禁止妄议中央大政方针，破坏党的集中统一；禁止丑化党和国家形象，或者诋毁、诬蔑党和国家领导人，或者歪曲党史、军史；禁止在党内组织秘密集团或者组织其他分裂党的活动；禁止擅自对应当由中央决定的重​​大政策问题作出决定和对外发表主张等。</p>
-<p>如有违反，则会依《中国共产党纪律处分条例》进行处理。</p>
-<p><strong>禁止组织、参与的具体活动如下：</strong></p>
-<p>1、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策的文章、演说、宣言、声明等。发布、播出、刊登、出版以上文章、演说、宣言、声明等，或者为上述行为提供方便条件；</p>
-<p>2、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表违背四项基本原则，违背、歪曲党的改革开放决策，或者其他有严重政治问题的文章、演说、宣言、声明等；妄议中央大政方针，破坏党的集中统一的；丑化党和国家形象，或者诋毁、诬蔑党和国家领导人，或者歪曲党史、军史的。发布、播出、刊登、出版以上所列内容或者为上述行为提供方便条件；</p>
-<p>3、制作、贩卖、传播第1、2条所列内容之一的书刊、音像制品、电子读物、网络音视频资料；</p>
-<p>4、私自携带、寄递第1、2条所列内容之一的书刊、音像制品、电子读物等入出境；</p>
-<p>5、组织、参加反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策的集会、游行、示威等活动，或者以组织讲座、论坛、报告会、座谈会等方式，反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策，或者以提供信息、资料、财物、场地等方式支持上述活动者；</p>
-<p>6、组织、参加旨在反对党的领导、反对社会主义制度或者敌视政府等组织的；</p>
-<p>7、在党内组织秘密集团或者组织其他分裂党的活动的；</p>
-<p>8、擅自对应当由中央决定的重​​大政策问题作出决定和对外发表主张的；</p>
-<p>9、在国（境）外公开发表反对党和政府的文章、演说、宣言、声明等的，或故意为上述行为提供方便条件的；</p>
-<p><em>意见全文如下：</em></p>
-<p><strong>中共华远集团有限公司委员会文件华党字[2016]05号</strong></p>
-<p><strong>华远集团有限公司党委关于加强意识形态工作的意见</strong></p>
-<p>一、执政党的意识形态工作，对于党组织、动员和引导民众，赢得民众更广泛的认同，协调、整合社会利益关系，战胜敌对势力、维护国家和人民利益都具有十分重要的意义。抓好意识形态工作，事关党的前途命运，事关国家长治久安，事关民族凝聚力和向心力。一个国家如果失去了意识形态领域内统一的指导思想，出现了意识形态的安全危机，整个社会就会陷入一盘散沙，国家自身的安全也就无法保障，党的执政地位也无法巩固。</p>
-<p>二、各级党组织要牢固树立政治意识、大局意识、核心意识、看齐意识、首善意识、红墙意识，对意识形态工作负总责，履行好把握正确方向、部署指导工作、加强督促检查、抓好队伍建设等责任，牢牢掌握意识形态工作的主动权。要充分发挥宣传思想文化工作的思想引领作用、舆论推动作用、精神激励作用、文化支撑作用，增强干部职工对中国特色社会主义道路自信、理论自信、制度自信，为实现“两个一百年”奋斗目标和中华民族伟大复兴中国梦提供强大的精神动力和智力支持。</p>
-<p>三、每个共产党员都要不断增强党性观念和纪律意识，认真学习马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想和科学发展观，贯彻执行党的基本路线和各项方针、政策，自觉遵守党的纪律，自觉维护党的团结和统一，在生产、工作、学习和社会生活中起先锋模范作用。</p>
-<p>四、禁止组织、参与下列活动：</p>
-<p>1、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策的文章、演说、宣言、声明等。发布、播出、刊登、出版以上文章、演说、宣言、声明等，或者为上述行为提供方便条件；</p>
-<p>2、通过信息网络、广播、电视、报刊、书籍、讲座、论坛、报告会、座谈会等方式，公开发表违背四项基本原则，违背、歪曲党的改革开放决策，或者其他有严重政治问题的文章、演说、宣言、声明等；妄议中央大政方针，破坏党的集中统一的；丑化党和国家形象，或者诋毁、诬蔑党和国家领导人，或者歪曲党史、军史的。发布、播出、刊登、出版以上所列内容或者为上述行为提供方便条件；</p>
-<p>3、制作、贩卖、传播第1、2条所列内容之一的书刊、音像制品、电子读物、网络音视频资料；</p>
-<p>4、私自携带、寄递第1、2条所列内容之一的书刊、音像制品、电子读物等入出境；</p>
-<p>5、组织、参加反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策的集会、游行、示威等活动，或者以组织讲座、论坛、报告会、座谈会等方式，反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策，或者以提供信息、资料、财物、场地等方式支持上述活动者；</p>
-<p>6、组织、参加旨在反对党的领导、反对社会主义制度或者敌视政府等组织的；</p>
-<p>7、在党内组织秘密集团或者组织其他分裂党的活动的；</p>
-<p>8、擅自对应当由中央决定的重​​大政策问题作出决定和对外发表主张的；</p>
-<p>9、在国（境）外公开发表反对党和政府的文章、演说、宣言、声明等的，或故意为上述行为提供方便条件的；</p>
-<p>五、党员违反第四条之规定，依《中国共产党纪律处分条例》进行处理。</p>
-<p>六、各级党组织要认真传达学习中央宣传工作会议和党的新闻舆论工作座谈会精神，自觉维护党中央权威、维护党的团结，自觉做到爱党、护党、为党，以高度的政治责任感抓好意识形态领域各项工作：</p>
-<p>1、加强公司网站、内部刊物、公司官方微博微信的管理，严把稿件质量关，防止出现政治导向方面的问题；</p>
-<p>2、加强对会议室、演播厅等公共场所的管理，凡组织者、参与者、会议主题不清的一律不得出借；</p>
-<p>3、教育党员职工严守国家法律法规，不得利用自媒体编造、传播政治谣言，丑化党和国家形象；不得妄议中央大政方针，破坏党的集中统一。</p>
-<p>中共北京市华远集团有限公司委员会</p>
-<p>2016年2月23日</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BD%9C%E4%BA%AC%E8%A5%BF%E5%9F%8E%E5%8C%BA%E5%A7%94%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E4%BB%BB%E5%BF%97%E5%BC%BA-%E5%8D%8E%E8%BF%9C%E5%8F%91%E6%96%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E6%84%8F%E8%AF%86/?category=18271" rel="tag">核心意识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">言论审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%AE%9C%E5%AE%BE%E4%B8%80%E4%B8%AA%E5%B8%85%E6%B0%94%E7%9A%84%E7%94%B7%E8%AE%B0%E8%80%85%E8%A2%AB%E4%B8%AD%E5%A4%AE%E7%BD%91%E5%AE%89%E7%82%B9/" target="cdt-mirror">【异闻观止】宜宾晚报社记者毛开云被中央点名表扬</a>
-</h2>
-<p><p>原标题：发声弘扬主旋律 亮剑传递正能量<br>
-——记宜宾晚报社新闻部主任毛开云</p>
-<p>2月3日，中央网安领导小组办公室专门给宜宾市委宣传部发来感谢信，对我市宜宾晚报社记者毛开云同志积极参与全国网上评论引导工作予以表扬。感谢信说，2015年，毛开云同志积极参与网上评论引导，弘扬主旋律，传递正能量，敢于发声亮剑，勇于进行网上意识形态斗争，围绕揭露真相、批驳谣言、澄清事实等做了大量卓有成效的网评工作，为清朗网络空间、促进网络生态向善向好贡献了智慧和力量。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/link.jpg?resize=600%2C382" alt="link" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/link.jpg?resize=300%2C191 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/link.jpg?w=710 710w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>从教师到记者，从记者到编辑，从写新闻稿到写评论稿，从传统媒体的“老兵”到熟练运用新媒体，宜宾晚报社新闻部主任毛开云的每一步都走得很实在……</p>
-<p><strong>一路汗水 挑战自我</strong></p>
-<p>1989年，毛开云从高县师范学校毕业，先后在宜宾县横江镇张窝初中、普安镇冠英初中、普安初中、宜宾县育才职业高级中学任教12年。教学成绩突出。教学期间，多次获得先进教师、优秀德育工作者等称号。照理说，毛开云的教书生涯顺风顺水，按照正常的生活路线，他可能会一直站在三尺讲台，教书育人。而事实并非如此，2002年，《宜宾晚报》创刊，毛开云以文考第一、总分第二的成绩公选考入宜宾晚报社。</p>
-<p>“纯粹是因为爱好，在教书时我就会向各类报刊投稿。”毛开云说起进入宜宾晚报社的缘由时，“爱好”一词被反复提及，尽管在外人看来，教师是一份“铁饭碗”的工作，但毛开云却对写作情有独钟，时时关注着媒体类工作的招聘，最终在2002年考入宜宾晚报社。在10余年的记者生涯中，毛开云的作品，多次获得全国地市报新闻奖、四川省新闻奖、宜宾新闻奖等荣誉。“当了10多年的记者编辑，我收获最大的就是开阔了眼界。”毛开云说，在写作编辑的过程中，在领导同事的帮助下，不断提高着自身的文化素养，才出现了好的作品。</p>
-<p><strong>发声亮剑 获得赞赏</strong></p>
-<p>2011年，毛开云开始写网评文章，目前在光明网、中国网等十余家网站建有个人文集，发表稿件数千篇，已有时评文章发表于《人民日报》《光明日报》《中国青年报》《新京报》《新华日报》《四川日报》等中央和省级报纸以及全国百余家地市报刊、杂志上。获得光明网2013年度十大新锐评论员、2015年度精英博主，全国多家网站“十佳网评员”、“优秀网评员”等荣誉，网评作品被河南省委宣传部评为优秀网络文章三等奖，获得湖北省新闻奖三等奖……</p>
-<p>近年来，无论是紧跟时事热点的“9.3”阅兵系列时评、习大大访美、访英系列时评，还是《大病医保需过三道坎》、《规范“人情往来”应有“人情味”》等群众所关心的医保、人情等民生问题，毛开云的作品似乎都在发声弘扬主旋律，充满正能量，并为此获得和方面的肯定和赞赏。目前，由国家互联网信息办公室指导，中国互联网发展基金会主办，人民网、环球网、中国新闻网、央视网、中国青年网5家中央重点新闻网站承办的2015年度“五个一百”网络正能量精品评选活动中，毛开云入围“百名网络正能量榜样”初评，其作品入围“百篇网络正能量文字作品”初评。</p>
-<p><strong>多方支持 成就“大V”</strong></p>
-<p>“我取得的成绩离不开各级领导的帮助和支持。”毛开云说。《宜宾晚报》长期开设“酒都夜话”栏目和“评论”专版，成为毛开云工作的练兵场，而在2013年12月，宜宾晚报社为支持毛开云的评论工作，经总编办公会讨论后特设评论部。同时，宜宾晚报社对于毛开云参加的各类脱产学习大开绿灯，在生活和学习上给予保障。</p>
-<p>在多方支持之下，毛开云在做好本职编辑工作之余，还坚持写了5年的博客，在新华网、人民网、凤凰网、新浪网等多家网站开有博客，凤凰博客点击量超过5700万，新华博客点击量超过3400万。多次入围新华网、人民网、凤凰网的“年度人物”“十大网友”“十佳写手”评选候选名单。</p>
-<p>正如毛开云所言，“让自己的生活充实点”，这样的充实表现在作品中，充满了生活的温度，传递着满满的正能量。</p>
-<p>宜宾日报记者 罗友莉</p>
-<p>来源：宜宾新闻网</p>
-<p><strong>另附：</strong></p>
-<p>毛开云：任志强是8000多万党员的耻辱</p>
-<p>据新华社消息，截至2015年底，中国共产党党员总数为8779.3万名。在这8000多万名党员中，任志强是其中一员。然而，像任志强这样的人是8000多万党员的耻辱。</p>
-<p>从任志强的简历来看，任志强出生在高干家庭，经历过11年的军旅生涯，而且在从军生涯中表现优异，入党提干。按理说，任志强应该对党充满感激，对自己的党员身份充满自豪。然而，任志强作为党员，而且是优秀党员，却不知党性是什么，不知党性和人民性一直以来都是统一的，不知党员要努力提高党性修养，不知党员干部要始终与党中央保持高度一致。不仅如此，任志强还时时处处抹黑党、污蔑党，与党中央唱反调，就连习近平总书记强调“党媒姓党”这个常识，任志强也要狗急跳墙出来乱嚷，真不知任志强是什么党的党员。网上很多人要求任志强退党，希望党组织把任志强从8000多万名党员中开除出去，不知任志强知道后作何感想?</p>
-<p>任志强是典型的“红二代”，是在党的阳光雨露下成长起来的，是在党的英明领导和正确的路线方针政策指引下发家致富的。俗话说，吃水不忘挖井人，但任志强是一个忘恩负义的人——既不知道自己从哪儿来的，也不知道自己要到哪儿去，1951年出生的任志强已经退休，这个时候还不明白人生的道理，说明任志强已经病入膏肓。很多年来，任志强都不知道自己走在一条什么样的道路上，在商言商固然可以，但任志强的那些房地产言论，既让官方大为光火，也让百姓“走投无路”，任志强老鼠钻风箱——两头受气，怪谁呢?特别是最近两年，任志强先叫板团中央——声称被“我们是共产主义接班人”的口号骗了十几年，再与党中央对着干——叫嚣“人民政府啥时候改党政府了?花的是党费吗?”纵观任志强走过的路，本应是一条阳光道，而任志强偏偏要走独木桥，而且大有一条黑路走到底的意味，人们不禁要问：任志强怎么了?对得起自己的“红色老爹”“红色家庭”吗?“红色家庭”咋能出这样的败类?</p>
-<p>近年来特别是十大八以来，中央出台了很多制度和规矩，尤其强调政治规矩和政治纪律，强调党纪严于国法，强调党员就应该不同于普通人。然而，任志强利用自己政协委员和大V的身份，不断发出反动言论，什么“我们的责任就是推墙，建立(台湾式的)社会民主制度”，什么“八荣八耻一出来我们就应该反对它。我认为八荣八耻一条都不符合现代的价值”等等，妖言惑众，蛊惑人心。尤其是习近平总书记发表关于新闻舆论工作的讲话后，任志强丧失党性甚至人性、理想信仰宗旨动摇和践踏公共道德底线的本性暴露无遗，因而遭到官方和民间一致口诛笔伐。这或许是任志强没有想到的，但这更是任志强的报应和应该有的结果。</p>
-<p><strong>朝闻道，夕死可矣。可悲的是，面对《谁给了任志强反党的底气?》《网友为何要给任志强上党课?》《任志强，你把那条党章“吃掉”了吗?》《对不起，我不愿意称任志强“同志”》等一篇篇战斗檄文，任志强不仅不知错，居然还要咨询法律专家，要与这些文章的作者、发表这些文章的网站、这些网站的主管部门打官司。然而人们实在不知道：任志强告作者、告网站、告网站主管部门什么呢?完全是瞎胡闹，最终结束有可能是，任志强自己把自己送进大牢!</strong></p>
-<p>想起法国喜剧作家博马舍的一句名言：“一切都在歌声中结束。”但是，对照任志强的所作所为，任志强的结束很有可能不是在歌声中，而是在人们的一声叹息中——叹息任志强从8000多万党员中被开除出去，叹息任志强可能受到法律的伺候，叹息可以安享晚年的任志强落得如此悲催的下场！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%AE%9C%E5%AE%BE%E4%B8%80%E4%B8%AA%E5%B8%85%E6%B0%94%E7%9A%84%E7%94%B7%E8%AE%B0%E8%80%85%E8%A2%AB%E4%B8%AD%E5%A4%AE%E7%BD%91%E5%AE%89%E7%82%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%BC%80%E4%BA%91/?category=18271" rel="tag">毛开云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5-%E5%BD%B1%E5%B8%9D%E5%B0%8F%E6%9D%8E%E5%AF%B9%E8%AF%9D%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%BF%B7%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%95%A5%E5%8F%AF/" target="cdt-mirror">三表龙门阵 | 影帝小李对话中国影迷：你们有啥可乐的？</a>
-</h2>
-<p><p>以「压根不像」为最大看点的三表龙门阵又来了。今天模仿的当然是苦尽甘来的新科奥斯卡影帝。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A.png?resize=549%2C277" alt="莱昂纳多" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/莱昂纳多.png?resize=300%2C151 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/莱昂纳多.png?w=549 549w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>3Q ！ 3Q ！感谢光荣伟大的民主党，感谢奥巴马总统，感谢美国电影协会。感谢支持我的中国粉丝，请留下你们的邮箱，《荒野猎人》的种子我会一一发送给大家，好人一生平安，1024！！</p>
-<p>我还要感谢中国的一位西方哪个国家都去过的长者，如果没有他，《泰坦尼克号》就不会进入中国，你们也不会有机会看到美人的裸体和香艳的船震。有个中国粉丝告诉我，学了三年高中生理课，都不如一部《泰坦尼克》启蒙作用大。</p>
-<p>令我惊讶的是，作为R级影片《荒野猎人》可能不会在贵国公映，我之前的很多影片都没有公映，《被解放的XX》更是上映了一半又被撤下了。即使这样，你们还疯狂刷屏，我真是不知道你们有什么可高兴的。</p>
-<p>当你被禁止看到他的作品，或者看残缺的作品，还对这个演员抱有如此大的热情和期望，只能说明，人们的文艺之心不死，对美丽精神世界的向往，是任何墙都阻挡不了的。</p>
-<p>感谢那个稍显开放的时代，我作为毛头小子能被那么多中国人记住。感谢互联网、感谢种子、感谢云盘、感谢字幕组，让你们跨过阻碍知道那个帅气小子如今成为走到了奥斯卡殿堂的实力男人。</p>
-<p>我还要感谢奥巴马总统，他曾经教导我们文艺工作者：要创作生产出无愧于我们这个伟大民族、伟大时代的优秀作品。《荒野猎人》就是一部全面展现美国人与天斗、与地斗的革命浪漫主义情怀的作品。它深刻挖掘了我们美利坚民族独有的拼搏、冒险精神，凝结了一代又一代美国人对于「美国梦」的执着追求。</p>
-<p>以前我走过不少弯路，《华尔街之狼》展现了资本主义的腐朽与人性的泯灭；《了不起的盖茨比》大肆宣扬消费主义、享乐主义，里面还有大量情色等低俗片段；《无间道风云》更是一部向东方文化低头，毫无原创精神的暴力之作。反思我这几年的创作，都背离了以人民为中心的创作导向。只有贴近人民，才能创作出有道德、有温度的文艺作品。直到今天，我才能无愧于「人民艺术家」这个荣誉。</p>
-<p>我能获奖，除了注重和人民的血肉联系，主动贴近主旋律之外，就是坚持、坚持、坚持不减肥。嫩模靠美图，网红靠颜值，影帝靠的是实力！在你们东方有位叫马云的哲人说过：骆驼走得慢，但终能走到目的地。最近听说在贵国，自媒体要地震了，你们不要怕，我被封杀过、被下架过、被嘲笑过，依然站在了这里，靠的是什么？是作品！如果你知道去哪，世界都会为你让路！加油，我的中国朋友，再次感谢！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5-%E5%BD%B1%E5%B8%9D%E5%B0%8F%E6%9D%8E%E5%AF%B9%E8%AF%9D%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%BF%B7%EF%BC%9A%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%95%A5%E5%8F%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">人民艺术家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A/?category=18271" rel="tag">莱昂纳多</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-129/" target="cdt-mirror">【河蟹档案】习禁评</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%A5%BF%E5%8D%95%E5%A2%A8%E5%AE%A2V22">西单墨客V22</a>：报纸越干净，社会则越肮脏。一个连真话都不能说、写、拍的社会，才是真正可怕的。<br><a href="https://freeweibo.com/weibo/3946533567291259" target="/weibo/394">2016年02月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9B%BC%E7%9F%A5">曼知</a>：看孙海英、任志强这两天相继被封杀。无力得太久，已经感到麻木了。在这个国家，我们不过是静候开水灌注的青蛙。<br><a href="https://freeweibo.com/weibo/3947541684338079" target="/weibo/394">2016年02月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E5%BF%97%E6%9D%BEcady">李志松cady</a>：SPAM [微笑][微笑][微笑]<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=428%2C428" alt="444" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-6.jpg?w=614 614w" sizes="(max-width: 428px) 100vw, 428px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947590791439785" target="/weibo/394">2016年02月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%AF%8C%E6%95%8F%E8%8D%A3%E5%BE%8B%E5%B8%88">富敏荣律师</a>：<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E4%BD%B6">@黄佶</a>：简而言之:兔死狗烹。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-3.jpg?resize=492%2C403" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-3.jpg?resize=768%2C628 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-3.jpg?w=1007 1007w" sizes="(max-width: 492px) 100vw, 492px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3946873918418911" target="/weibo/394">2016年02月26日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E7%8E%8B%E5%85%B4">北京律师王兴</a>：谷俊山不是耻辱，薄熙来不是耻辱，令完成不是耻辱，周永康不是耻辱，姬胜德不是耻辱，说几句你们不爱听的真话，就成了8000多万党员的耻辱。<em><em><em>相关阅读｜《<a href="http://www.zaobao.com.sg/realtime/china/story20160226-585930">联合早报<em><em><em>｜</em></em></em>官媒：任志强是8000多万党员的耻辱</a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?resize=368%2C653" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?resize=577%2C1024 577w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-2.jpg?w=640 640w" sizes="(max-width: 368px) 100vw, 368px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3946478575771928" target="/weibo/394">2016年02月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40baidu%E5%86%B7%E5%85%B5%E5%99%A8%E5%90%A7">baidu冷兵器吧</a>：北京官宣下属的千龙网骂任志强“简直就是党性的泯灭、人性的猖狂。” 多少反贼都说不出这么有深度的内容啊！<em><em><em>相关阅读｜《<a href="http://china.qianlong.com/2016/0222/380735.shtml#0-tsina-1-33087-397232819ff9a47a7b7e80a40613cfe1">千龙网<em><em><em>｜网友为何要给任志强上党课？</em></em></em></a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%B0%81%E7%BB%99%E4%BA%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E7%9A%84%E5%BA%95%E6%B0%94/">【异闻观止】谁给了任志强反党的底气</a>》</em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-8.jpg?resize=421%2C527" alt="444" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-8.jpg?resize=240%2C300 240w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-8.jpg?w=750 750w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3945645314925046" target="/weibo/394">2016年02月23日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%93%E9%A3%9E">邓飞</a>：分享图片//*<a href="https://freeweibo.com/weibo/%40%E6%B8%BA%E6%B2%A7%E6%BA%9F">渺沧溟</a>：发微博会被删，转图呢 <em><em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/02/160229_ana_renziqiang_political">BBC<em><em><em>｜</em></em></em>分析：“揪出”任志强 警示挑战习权威者</a>》；《<a href="http://www.voachinese.com/content/voa-news-chinese-property-mogul-silenced-20160228/3211639.html">美国之音<em><em><em>｜</em></em></em>中国关闭任志强微博账号</a>》</em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?resize=445%2C791" alt="任志强" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?w=720 720w" sizes="(max-width: 445px) 100vw, 445px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947537028784360" target="/weibo/394">2016年02月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%B6%E6%99%AF%E6%B4%B2">陶景洲</a>：今天是中共中央发出《关于为所谓“习仲勋反党集团”平反的通知》的第36个年头。过去利用小说反党是一大发明，现在利用微博反党也是一大发明。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-1.jpg?resize=407%2C724" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-1.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-1.jpg?w=750 750w" sizes="(max-width: 407px) 100vw, 407px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3946670624355591" target="/weibo/394">2016年02月26日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B5%B5%E5%AE%B6%E5%BE%8B%E5%B8%88">赵家律师</a>：分享图片  <em><em><em>相关阅读｜《<a href="http://hk.apple.nextmedia.com/international/art/20160229/19509828">苹果日报<em><em><em>｜</em></em></em>「高速」結案導致錯判</a>》；《<a href="http://china.dwnews.com/news/2016-02-28/59721111.html">多维<em><em><em>｜</em></em></em>网曝北京女法官遭枪杀惊人内幕</a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?resize=417%2C690" alt="马彩云" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?resize=768%2C1270 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?resize=619%2C1024 619w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-7.jpg?w=1080 1080w" sizes="(max-width: 417px) 100vw, 417px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947531450453900" target="/weibo/394">2016年02月28日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%82%AC%E5%A3%B6%E9%97%AE%E8%8C%B6">悬壶问茶</a>：嫖娼衫、造谣衫、神棍衫、汉奸衫、火葬场衫……，多衫一体，每件只卖35？<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?resize=331%2C588" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-5.jpg?w=720 720w" sizes="(max-width: 331px) 100vw, 331px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3947607384282260" target="/weibo/394">2016年02月28日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-129/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2%E5%8B%8B/?category=18271" rel="tag">习仲勋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%80%A7/?category=18271" rel="tag">人性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E6%B5%B7%E8%8B%B1/?category=18271" rel="tag">孙海英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%BA%90/?category=18271" rel="tag">张源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%AA%E5%87%BB%E6%B3%95%E5%AE%98%E6%A1%88/?category=18271" rel="tag">枪击法官案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%98%E7%9F%B3%E5%B1%B9/?category=18271" rel="tag">潘石屹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E8%A8%80/?category=18271" rel="tag">禁言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E5%BD%A9%E4%BA%91/?category=18271" rel="tag">马彩云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -805,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -815,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

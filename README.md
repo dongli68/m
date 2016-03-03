@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%8F%AC%E5%BC%80%E5%9C%A8%E5%8D%B3-2016%E5%B9%B4%E9%A6%96%E8%B5%B7%E8%97%8F%E4%BA%BA%E8%87%AA%E7%84%9A/" target="cdt-mirror">德国之声｜中国两会召开在即 2016年首起藏人自焚</a>
+</h2>
+<p><p>据美国媒体报道称，近日又有一名藏族僧侣为抗议中共统治自焚身亡。这是2016年首次发生类似事件。与此同时，中国两会即将召开，身份仍存争议的班禅喇嘛接受中共统战负责人接见。</p>
+<p>得到美国政府资金支持的自由亚洲电台报道称，当地时间周一（2月29日）下午，名为格旺森多（Kalsang Wangdu）的藏族僧侣在四川西部甘孜地区的一座寺院内自焚身亡。据称，格旺森多在自焚时高呼口号，要求西藏独立。之后他在被送往成都医院的途中伤重身亡。</p>
+<p>流亡境外的藏人机构表示，在过去五年内，藏区共有114名僧侣或平民自焚，其中大部分人最终身亡。自由亚洲电台提供的数字则显示，2009年以来已经有144人自焚。</p>
+<p>由于北京当局对藏区采取严密封锁，因此外界很难获取当地切实消息。报道称，藏区当地官员得到指示，对境内发生的自焚事件保持沉默。美联社在周三致电甘孜警方讯问，接听电话的李姓警员表示没有接获发生类似事件的报道。</p>
+<p>该名警员称：“我们正在维稳期间。如果发生类似事情，我们会向公众发布消息。”</p>
+<p>自由亚洲电台及其他一些团体同时报道称，一名生活在印度的16岁藏族青年同样在周一采取自焚行动，抗议中国政府的西藏政策。</p>
+<p>美国之音引述总部设在伦敦的自由西藏运动组织称，自焚少年名为多杰次仁(Dorjee Tsering)。2月29日，他在印度的北阿坎德邦德拉敦呼喊“自由西藏”的口号自焚。这名少年虽然幸存，但95%的身体烧伤，目前在印度首都德里的一家医院接受治疗。</p>
+<p>自由西藏运动表示，多杰次仁来自印度喜马偕尔邦的藏人定居区，是当地一个西藏之家学校的10年级学生。</p>
+<p>藏族僧尼受到压制</p>
+<p>外界认为，部分藏人采取极端手段的抗议行动，目的在于表达对于中共铁腕统治的极度不满。许多抗议者的另一项诉求是，要求藏人精神领袖达赖喇嘛回到藏区。1959年，反抗中共统治的藏民暴动失败，达赖喇嘛随后逃亡印度。</p>
+<p>美联社分析称，藏族僧尼是藏区反对中国统治最为活跃的群体，同时也是声张藏族身份认同的积极分子。这也导致当局对这一群体的成员采取最为严厉的压制措施。</p>
+<p>去年，中共西藏党委书记陈全国要求藏族寺院悬挂国旗，以宣扬“爱国主义”。</p>
+<p>北京指责达赖喇嘛等人煽动自焚，并一再强调政府对藏区进行巨额投资以发展经济，改善民众生活水平。而达赖喇嘛方面曾多次重申，遵循“中间道路”政策，反对暴力。</p>
+<p>此前一次中国境内的自焚事件发生在去年11月。同样在甘孜地区，一名藏族女尼呼喊“西藏需要自由”及“让尊者（达赖喇嘛）回藏”并引火自焚。据信该名女尼最终身亡。</p>
+<p>政协常委班禅接受统战负责人接见</p>
+<p>随着达赖喇嘛进入80高龄，北京政府日益将关注重点转移到藏传佛教第二号人物-班禅喇嘛身上。目前中国政府官方承认的班禅喇嘛从小便受到官方的严密看护。而有关其身份认定，海外藏人与中国政府之间存在巨大争议。</p>
+<p>中国政府否认达赖喇嘛所挑选的班禅转世灵童，当时年仅6岁的男童更登确吉尼玛此后便消失无踪。而现年26岁的确吉杰布则被中国官方指定为第十一世班禅。这位年轻人大部分时间生活在北京，目前是中国全国政协常委之一。全国政协将在周四（3月3日）开始召开年度会议。</p>
+<p>据新华社报道，中共中央政治局委员、中央统战部部长孙春兰3月1日在京会见确吉杰布。报道称，孙春兰希望确吉杰布“牢记习近平总书记的嘱托，继承历代班禅爱国爱教传统，自觉为维护祖国统一和民族团结作贡献；继续刻苦钻研佛教经典，提高宗教学识，在引领藏传佛教与社会主义社会相适应中发挥积极作用；继续保持谦虚谨慎的作风，不断提高品德修养，展现良好形象”。</p>
+<p>而确吉杰布则表示“一定牢记党中央、国务院的深切关怀，牢记习近平总书记的谆谆教导，刻苦学习，积极工作，为促进藏传佛教与社会主义社会相适应，为西藏的繁荣发展、和谐稳定作出自己的努力”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%8F%AC%E5%BC%80%E5%9C%A8%E5%8D%B3-2016%E5%B9%B4%E9%A6%96%E8%B5%B7%E8%97%8F%E4%BA%BA%E8%87%AA%E7%84%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E8%87%AA%E7%84%9A/?category=18271" rel="tag">藏人自焚</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/" target="cdt-mirror">自由亚洲｜成都高校要求高级讲师上缴护照 出国申请须承诺不“泄密”</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg" rel="attachment wp-att-430688"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg?resize=500%2C430" alt="上缴护照" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?resize=300%2C258 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>西南民族大学讲师微信截图。（网络截图）</p></div>
@@ -121,7 +152,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B2%BB%E7%90%86/?category=18271" rel="tag">环境治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AF%8F%E6%97%A5%E4%BA%BA%E7%89%A9-46%E4%B8%87%E4%B8%80%E5%B9%B3-%E8%B0%81%E4%B9%B0%E8%B5%B0%E4%BA%86%E5%8C%97%E4%BA%AC%E5%A4%A9%E4%BB%B7%E5%AD%A6%E5%8C%BA%E6%88%BF%EF%BC%9F/" target="cdt-mirror">每日人物 | 46万一平 谁买走了北京天价学区房？</a>
 </h2>
@@ -763,28 +794,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E4%BB%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E6%8F%90%E5%90%8D%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B-%E5%AE%98%E6%96%B9/" target="cdt-mirror">【CDTV】香港电影金像奖最佳电影提名《十年》 官方预告片</a>
-</h2>
-<p><p>电影《十年》由5段短篇故事组合而成， 5位香港年青导演以电影向观众提问：</p>
-<p>十年后，香港会出现自焚者吗？（《自焚者》，导演：周冠威）</p>
-<p>广东话日渐衰微，怎样影响市民生活？（《方言》，导演：欧文杰）</p>
-<p>我们会面对从哪儿来的恐怖袭击？（《浮瓜》，导演：郭臻）</p>
-<p>当保育意识走到尽头，我们还能保护什么？（《冬蝉》，导演：黄飞鹏）</p>
-<p>我们的下一代，要学的是什么？　（《本地蛋》，导演：伍嘉良）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-%E4%B8%8A%E5%8D%8811.24.32-1.png?resize=528%2C295" alt="Screen Shot 2016-02-29 at 上午11.24.32" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午11.24.32-1.png?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Screen-Shot-2016-02-29-at-上午11.24.32-1.png?w=528 528w" sizes="(max-width: 528px) 100vw, 528px" data-recalc-dims="1"></p>
-<p>官媒《环球时报》2016年1月22日社评批评《十年》的导演者宣扬绝望，“在内地人看来，这部片子是完全荒诞的，它所描绘的场景十年后不可能在香港出现”，“它这个时候冒出来，带给香港社会的害处很可能大过好处”。预料《十年》将成为又一部大陆禁片。</p>
-<p>本片获2015年香港电影评论学会大奖最佳电影，并获第2016年第35届金像奖提名，结果将于今年4月揭晓。</p>
-<p>CDTV在此推荐《十年》的官方预告片。如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<p><a href="https://www.youtube.com/v/M4zebygSaZE?version=3">https://www.youtube.com/v/M4zebygSaZE?version=3</a></p>
-<p><a title="【第三十五屆香港電影金像獎最佳電影提名】 《十年》 官方預告片 Ten Years Offical Trailer" href="http://www.youtube.com/watch?v=M4zebygSaZE" target="_blank">电影《十年》 官方预告片</a></p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/02/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E6%8F%90%E5%90%8D%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B-%E5%AE%98%E6%96%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">《十年》电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">中国香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E7%89%87/?category=18271" rel="tag">禁片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">香港电影</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -796,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

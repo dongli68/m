@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%86%9B%E5%8F%98%E3%80%81%E6%98%8C%E5%B9%B3%E6%B3%95%E5%AE%98%E7%AD%89%E7%83%AD%E7%82%B9/" target="cdt-mirror">【敏感词库】“南都”、“任志强挑战习”等热点 2016-3-3</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/01/%E8%9F%B9%E5%86%9C%E5%9C%BA%EF%BC%9A%E5%9C%B0%E4%B8%8B%E5%85%9A.jpg?resize=525%2C371" alt="蟹农场：地下党" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/01/蟹农场：地下党.jpg?resize=300%2C212 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/01/蟹农场：地下党.jpg?w=614 614w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"><br><em>图片作者：蟹农场</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年3月3日］</p>
+<p><strong>南都</strong>（详见：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8D%97%E9%83%BD%E5%A4%B4%E7%89%88%E7%96%91%E7%8E%B0%E8%97%8F%E5%A4%B4%E8%AF%97%E5%BC%95%E5%8F%91%E9%A3%8E%E6%B3%A2/">纽约时报｜南都头版疑现“藏头诗”引发风波</a> ）</p>
+<p><strong><span>任志强＋挑战习</span></strong><span>（详见：</span><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA%EF%BC%9F/">【立此存照】任志强：“我们是共产主义接班人？”</a>）</p>
+<p><strong>凛冬烈火</strong>（指纪录片《凛冬烈火：乌克兰自由之战》英语：Winter on Fire: Ukraine’s Fight for Freedom）</p>
+<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/03/430562/">【CDTV】《凛冬烈火》预告片附正片下载地址</a></p></blockquote>
+<p><strong>军变</strong></p>
+<p><strong>昌平法官</strong> （3月2日已解禁）</p>
+<blockquote><p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/02/%E6%A2%85%E6%98%A5%E6%9D%A5%E6%9D%82%E8%AF%B4%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E6%B3%95%E9%99%A2%E5%A5%B3%E6%B3%95%E5%AE%98%E8%A2%AB%E6%9E%AA%E6%9D%80%E4%B8%80%E4%BA%8B/">梅春来杂说｜关于北京昌平法院女法官被枪杀一事的关注声明</a></p></blockquote>
+<p><strong>西藏人民议会</strong><br><strong>西藏流亡政府</strong></p>
+<p><strong> 代开发票</strong><br><strong> 卖银行卡</strong><br><strong>夜色论坛</strong></p>
+<p><strong>无码 + 视频</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%8D%97%E9%83%BD.png" rel="attachment wp-att-430837"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%8D%97%E9%83%BD.png?resize=475%2C307" alt="南都" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/南都.png?resize=300%2C194 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/南都.png?resize=768%2C497 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/南都.png?resize=1024%2C662 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/南都.png?w=2088 2088w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%8B%E6%8C%91%E6%88%98%E4%B9%A0.png?resize=474%2C186" alt="任志强＋挑战习" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/任志强＋挑战习.png?resize=300%2C118 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/任志强＋挑战习.png?resize=768%2C301 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/任志强＋挑战习.png?w=770 770w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%87%9B%E5%86%AC%E7%83%88%E7%81%AB.png?resize=475%2C185" alt="凛冬烈火" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/凛冬烈火.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/凛冬烈火.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/凛冬烈火.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%86%9B%E5%8F%98.png?resize=475%2C184" alt="军变" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/军变.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/军变.png?resize=768%2C298 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/军变.png?w=774 774w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%98%8C%E5%B9%B3%E6%B3%95%E5%AE%98.png?resize=475%2C185" alt="昌平法官" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/昌平法官.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/昌平法官.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/昌平法官.png?w=775 775w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%A5%BF%E8%97%8F%E4%BA%BA%E6%B0%91%E8%AE%AE%E4%BC%9A.png?resize=475%2C186" alt="西藏人民议会" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/西藏人民议会.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/西藏人民议会.png?resize=768%2C300 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/西藏人民议会.png?w=775 775w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%A5%BF%E8%97%8F%E6%B5%81%E4%BA%A1%E6%94%BF%E5%BA%9C.png?resize=475%2C182" alt="西藏流亡政府" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/西藏流亡政府.png?resize=300%2C115 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/西藏流亡政府.png?resize=768%2C294 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/西藏流亡政府.png?w=781 781w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BB%A3%E5%BC%80%E5%8F%91%E7%A5%A8.png?resize=475%2C185" alt="代开发票" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/代开发票.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/代开发票.png?resize=768%2C298 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/代开发票.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%8D%96%E9%93%B6%E8%A1%8C%E5%8D%A1.png?resize=475%2C187" alt="卖银行卡" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/卖银行卡.png?resize=300%2C118 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/卖银行卡.png?resize=768%2C302 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/卖银行卡.png?w=773 773w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%9C%E8%89%B2%E8%AE%BA%E5%9D%9B.png?resize=475%2C289" alt="夜色论坛" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/夜色论坛.png?resize=300%2C182 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/夜色论坛.png?resize=768%2C467 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/夜色论坛.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%97%A0%E7%A0%81-%E8%A7%86%E9%A2%91.png?resize=475%2C184" alt="无码 + 视频" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/无码-视频.png?resize=768%2C298 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/无码-视频.png?w=775 775w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%86%9B%E5%8F%98%E3%80%81%E6%98%8C%E5%B9%B3%E6%B3%95%E5%AE%98%E7%AD%89%E7%83%AD%E7%82%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%87%9B%E5%86%AC%E7%83%88%E7%81%AB%E3%80%8B/?category=18271" rel="tag">《凛冬烈火》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%AD%97%E7%8B%B1/?category=18271" rel="tag">文字狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E4%BA%BA%E6%B0%91%E8%AE%AE%E4%BC%9A/?category=18271" rel="tag">西藏人民议会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%9B%A4%E4%B8%9D%E6%98%AF%E5%B0%81%E4%B8%8D%E5%AE%8C%E6%9D%80%E4%B8%8D%E7%81%AD%E7%9A%84/" target="cdt-mirror">奇闻录 | “蛤丝”是封不完杀不灭的</a>
 </h2>
 <p><p>2月，百度贴吧曝光台吧进入一些网友视野，这是百度官方用于公开收集网友封禁要求亦或申诉解封要求的一个信息平台。该信息公示平台上公开聚合着“申请封禁”和“申请解封”的内容，也许这是百度对贴吧管理存有公正性质疑所做的一种信息开放的补充，但由此却暴露出一些有趣的管制内容。</p>
@@ -776,34 +800,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%9A%87
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/430596/" target="cdt-mirror">报导者 | 莫之许：习的新中国，温和自由话语的结束</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-%E4%B8%8B%E5%8D%881.59.43.png?resize=527%2C369" alt="Screen Shot 2016-03-02 at 下午1.59.43" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-下午1.59.43.png?resize=300%2C210 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-02-at-下午1.59.43.png?w=527 527w" sizes="(max-width: 527px) 100vw, 527px" data-recalc-dims="1"></p>
-<p>2016年2月19日，习近平视察人民日报、新华社和中央电视台这三家党国核心媒体，并发表讲话说，“党和政府主办的媒体是党和政府的宣传阵地，必须姓党。”任志强则在微博中对此提出质疑：“人民政府啥时候改党政府了？花的是党费吗？”还称，“这个不能随便改”、“别用纳税人的钱去办不为纳税人提供服务的事”……随后，北京市委宣传部主办的千龙网，国家互联网管理办公室网站、中国青年网等官方网媒，针对任志强制造“党民对立”，皆发表署名文章进行炮轰。</p>
-<p>一时间，针对任志强的批判文章如雪片一般涌现，所有官方媒体和网路商业媒体都被要求转载，在这一周，任志强成为了国际国内被关注度最高的中国大陆人士。最终，2016年2月28日，中国大陆互联网内容监管机构国家互联网信息办公室责令新浪、腾讯等网站依法依规关闭任志强微博帐号。29日，中共北京市西城区委下发《关于正确认识任志强严重违纪问题的通知》，称区委将严格按照《中国共产党纪律处分条例》，对任志强作出严肃处理。</p>
-<p>任志强，中共党员，红二代，前国有房地产企业董事长，现任北京市政协委员，拥有3800万新浪微博粉丝的网路大V（编按：身分获认证、拥有大群粉丝的网路意见领袖），曾经宣称中国大陆当下并不适合搞民主，甚至支持89镇压学生，无非是持某种改良观念；但转瞬之间，他成为了体制必欲压制的对象。任志强的走红到被灭，令人好奇：如果说任志强早就是体制的对立面，为何又能够在中国大陆网路监管机构的眼皮子底下，累积到3800万粉丝之众？而如果说任志强对体制并无危害，却为什么引来体制如此严重的反应，这貌似矛盾的背后，既体现出了当代中国大陆话语思潮的流变，也反映出了体制的最新动向。</p>
-<p><strong>中国的四种话语</strong></p>
-<p>文革后，中国大陆抛弃传统的计划体制，改走市场化改革道路，根据已故的自由派学者陈子明的分析，在当时形成了四种话语或者路线，一是以邓小平为首的改革派，既主张推动改革开放，但同时又强调坚持中共领导；一是陈云为首的保守派，并不排斥商品经济，但更强调国家要继续保持对经济乃至社会的全面控制。上述两派都存在于体制之内，且对路线和政策制定具有决定权或影响力，在这两派之外相对边缘的，一是坚持文革路线的所谓老左派，一是主张加快改革进程，进一步自由化乃至民主化改革的自由派。</p>
-<p>1989年事件之后，自由派出现了分流，一部分自由派被排斥出体制，或流亡、或下狱、或下海，成为反对派，遭到体制的全面封锁和压制；另一部分依旧留在体制内的自由派，则逐渐转变成为了体制内改良派，或温和自由派（两者有细微但并不重要的区别），而在另一方面，体制内改革派和保守派逐渐合流，逐渐形成了现在的体制主流，可以称之为中国模式派或制度自信派；也因此，当代中国思潮或舆论场中，主要存在着与1980年代相似而又有所变化的四种话语：体制主流的中国模式话语、体制内改良派或民间温和自由派话语、激进反对派话语、毛式老左派话语。</p>
-<p>新闻学者钱钢曾总结中国大陆舆论场的四种话语，可与笔者上述分析相印证，他认为，分别存在深红、浅红、浅蓝和深蓝四种话语：“位于左端的深红是毛式话语，多数被弃用，少数仍露头；浅红是当政者话语，占主导地位；浅蓝是与浅红并存的民间与知识分子话语，更具变革性；深蓝是被禁用的敏感政治语言。”（四种话语示意图请见：钱钢／“司法独立”被谁判了死刑？）</p>
-<p>具体而言，刘晓波等人的《零八宪章》就属于深蓝话语，或者反对派话语；任志强以及其他网路大V，包括贺卫方、于建嵘、茅于轼等较自由派学者所持有的，都是浅蓝色话语，改良派或温和自由派话语：具有自由化倾向，但对于体制并不具有根本和直接的反对和冲击。</p>
-<p><strong>自由话语曾被容忍</strong></p>
-<p>体制对于不同到话语有着不同的策略，从1989到2012年十八大召开，体制对于文革派和反对派都采取压制的立场，“既不走封闭僵化的老路、也不走改旗易帜的邪路”，对于两者之外的体制改良派或民间温和自由派，则采取既防范又容忍的态度。1992年，邓小平南巡时曾说：“既要反左，也要反右，但主要是反左。”其含义是，既要反对各种否定中共领导的激进自由化言论，也要反对文革重来的左派言论，而在当时中共大举推动市场经济体制建设，融入国际经济秩序的背景下，当局还有意无意地借用具有自由化倾向的改良派或温和自由派话语，以抵消来自文革左派的影响。</p>
-<p>《南方周末》等报刊在当时的风行，就是这种策略的反映，从那时开始，类似任志强这样的自由化人物，就开始活跃在市场化媒体以及后来的网路平台上，对此，当局一直给予相对的容忍。</p>
-<p>也因此，长期以来，在中国大陆的市场化媒体和网路平台上，活跃着一批自由化知识分子，这些被称为公共知识分子的人士，大多具有体制内身份，持改良立场，既为当局警惕但又相对容忍，不仅具有相当深广的话语影响力，也具有相当正面的道义形象。与此同时，中国经济和社会的发展，产生了庞大的新兴社会阶层，公共知识分子的自由化言论，符合其利益和权利诉求，从而也获得了新型社会阶层的普遍支持。</p>
-<p>微博出现之后，借助新兴社交平台的爆炸性传播，温和自由派话语更是获得了极大的扩展，出现了数以百万级粉丝的所谓公知大V（公共知识分子），在新浪微博等社交平台上，温和自由派话语成为优势话语，主导着舆论方向，也具有设置议题的能力。甚至，在很多人眼里，新兴社会阶层与特定的自由化话语相结合，通过持续的表达和行动，改变既得利益格局和既有体制，也已经成为了可能。</p>
-<p>市场化、全球化和信息化，使得新兴社会阶层拥有了一定的资源和手段来对现有体制提出挑战，这一挑战尽管尚不足以撼动体制，但毋庸置疑是一种越来越强劲的势头。而在另一方面，中国经济发展也强化了体制维持既有制度的决心，这一方面来自于经济成绩的支撑，另一方面也来自于既得的利益格局，两相作用之下，当代中国的核心问题其实也就是专政体制与新兴社会阶层的诉求之间的冲突：一边是日益升高的挑战或潜在挑战，一边是越来越清晰的保守化诉求。</p>
-<p>在体制内改良派或温和自由派看来，采取更为开放的方式吸纳新兴社会力量，同时改变体制的刚性，在维持现有统治关系的同时，吸纳新社会力量，构建制度基础，最终渐进实现以普世价值为内容的政治转型，实际上也有利于现有执政群体的存续，但是，在日益保守化的体制面前，如何压制新兴社会阶层的各种诉求，并防止在特定情形下出现类似北非茉莉花革命的局面，才是更为核心和迫切的课题。 温和自由派话语的强势存在，不仅削弱了现有体制的合法性，占据了舆论主导，在新兴的社交平台上，还可能充当各种社会运动的媒介，这在微博上各种围观活动中已经初见端倪，也因此，对于体制而言，体制内改良话语或温和自由话语，也就变得越来越不被容忍，而成为了体制必欲压制甚至消灭的对象。</p>
-<p>以2013年7月的清网行动为标志，当时就针对体制内改良话语和温和自由话语的压制和消灭已经持续有年，且越来越严格，曾经的网路大V，如今残存在新浪微博的已经十不存一。在这个意义上，任志强被删号、被党纪，甚至有可能被法办，可以看作是这一持续压制进入到了尾声阶段，同时也意味着，如同激进反对话语一般，曾经被体制加以容忍的体制内改良派或民间温和自由派话语，也最终成为了体制彻底封杀的对象。</p>
-<p>这不仅意味着中国大陆的思潮格局从此将进入到越来越二元、也越来越对立的格局当中。专政体制与新兴社会阶层之间的冲突，可能表面上会被强行压制，但无处渲泄的情绪与压抑，未来可能造成难以预料的巨变。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/430596/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E5%AF%BC%E8%80%85/?category=18271" rel="tag">报导者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E4%B9%8B%E8%AE%B8/?category=18271" rel="tag">莫之许</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -815,7 +811,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -825,5 +821,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

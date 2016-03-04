@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%A9%86%E8%BF%AA%E8%B0%83%E4%BD%8E%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%BC%BA/" target="cdt-mirror">自由亚洲｜穆迪调低中国主权信用评级 中国官媒强烈反弹</a>
+</h2>
+<p><p>国际信用评级机构穆迪调低中国主权信用评级，引发中国官方强烈反弹。中国官员和官方媒体接连批判穆迪“没有远见，恶意唱衰”，引发热议。有评论认为，中国官方的过激反应是因为在现有体制下，中共掌管一切，穆迪此举在中国当局的眼中等同批评中共管治不力。</p>
+<p>国际信用评级机构穆迪日前将中国主权信用评级展望由“稳定”下调至“负面”。穆迪认为，中国的外汇储备持续下降，政府债务不断上升，经济改革不确定等因素，会令中国的经济增长显著放缓。与此同时，穆迪还将中国的8间保险公司，25间非保险金融机构，38间国有企业的信用评级展望下调至“负面”。</p>
+<p>中国财政部副部长朱光耀在接受媒体采访时称穆迪的做法没有远见，将来实践会证明它是错误的。</p>
+<p>北京理工大学经济系教授胡星斗3月4日向本台表示，中国官方与穆迪之间的“分歧”，最主要的原因是两者的标准不同。穆迪的评级是以一个完全市场化的经济体标准来衡量，不过中国的经济中，政府也发挥了极大的作用，</p>
+<p>“当然目前中国的债务问题是严重的，包括地方政府债、公司债，如果按照市场的标准，有可能中国处于比较危险的状况。但我们要看到中国是一个政府强有力的这样一个经济体，中央政府最后会为债务风险兜底，中央政府有种种的办法来化解债务危机。所以政府控制的经济也有它的好处，能够应对危机。而穆迪所发表的（评级）是按照一个完全的市场经济体来预测风险。”</p>
+<p>另一方面，穆迪的举动也引发中国官媒强烈反弹。新华网连续两天发文怒批穆迪。新华网3月3日的评论文章称，穆迪作为国际三大信用评级机构之一，却长期干着损害自己信用和操守的事——对以中国为代表的新兴经济体和美国为代表的西方发达经济体的主权债务评级奉行双重标准。一方面对前者“苛刻”；一方面对后者“放松”。这种因人而异的选择性评级标准，只会透支其公信力和影响力，令其有关指标前瞻世界经济的权威性大打折扣。</p>
+<p>评论还说，在中国财政状况风险可控、保持良好的情况下，穆迪却将中国主权信用评级展望下调，不得不让人怀疑，穆迪是否也加入了“恶意唱衰中国经济”的阵营，想动摇国际社会对中国经济的发展信心。</p>
+<p>有网民调侃道：现在不是流行封号吗？去把信用评级机构穆迪给封了，它就不说负面了。网民“蒋宏晨”感叹：何必呢，就是个商业机构评级而已，某些媒体还预测4000点是牛市起点呢。网民“段段”则认为：能做的就是把自己弄好，让它的评级出现失误，失去公信力，而不是一开始就嚷嚷人家错了。</p>
+<p>河北资深媒体人朱欣欣3月4日接受本台采访时表示，由于中国是一党专政，共产党管制包括经济在内的一切，穆迪此举在中国当局的眼中等同批评中共管治不力，</p>
+<p>“在这个专制国家，统治者就相当于无限责任公司。既然是无限责任公司，那他就要把所有的事情都看作和他统治的合法性有关，最大的特点就是泛政治化。经济问题、文化问题、道德问题在他看来都是政治问题。所以穆迪这个机构对中国只是从经济的角度来评估，可是新华社就对他们的评价恶意揣摹人家的所谓动机，说参与了唱衰中国经济的行为，实际上他的本意并不是维护中国如何如何，实际上是维护中共形象，实际上背后他认为是打击了中共统治的合法性，威胁了中共的政治统治，如此而已。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%A9%86%E8%BF%AA%E8%B0%83%E4%BD%8E%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%BC%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7/?category=18271" rel="tag">信用评级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E5%85%89%E8%80%80/?category=18271" rel="tag">朱光耀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E8%BF%AA/?category=18271" rel="tag">穆迪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%98%9F%E6%96%97/?category=18271" rel="tag">胡星斗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9%E5%8F%AF%E8%83%BD%E4%BB%85%E4%BB%85%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%A3/" target="cdt-mirror">纽约时报｜供给侧改革可能仅仅是习近平的一个口号</a>
 </h2>
 <p><p>随着世界在期望中国担保自己能够掌控经济增长的放缓及动荡的股市，习近平已开始推出一个听起来不像马克思和毛泽东、更像里根和撒切尔的补救措施。</p>
@@ -231,7 +253,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%86%9B%E5%8F%98%E3%80%81%E6%98%8C%E5%B9%B3%E6%B3%95%E5%AE%98%E7%AD%89%E7%83%AD%E7%82%B9/" target="cdt-mirror">【敏感词库】“南都”、“任志强挑战习”等热点 2016-3-3</a>
 </h2>
@@ -657,37 +679,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%8F%AC%E5%BC%80%E5%9C%A8%E5%8D%B3-2016%E5%B9%B4%E9%A6%96%E8%B5%B7%E8%97%8F%E4%BA%BA%E8%87%AA%E7%84%9A/" target="cdt-mirror">德国之声｜中国两会召开在即 2016年首起藏人自焚</a>
-</h2>
-<p><p>据美国媒体报道称，近日又有一名藏族僧侣为抗议中共统治自焚身亡。这是2016年首次发生类似事件。与此同时，中国两会即将召开，身份仍存争议的班禅喇嘛接受中共统战负责人接见。</p>
-<p>得到美国政府资金支持的自由亚洲电台报道称，当地时间周一（2月29日）下午，名为格旺森多（Kalsang Wangdu）的藏族僧侣在四川西部甘孜地区的一座寺院内自焚身亡。据称，格旺森多在自焚时高呼口号，要求西藏独立。之后他在被送往成都医院的途中伤重身亡。</p>
-<p>流亡境外的藏人机构表示，在过去五年内，藏区共有114名僧侣或平民自焚，其中大部分人最终身亡。自由亚洲电台提供的数字则显示，2009年以来已经有144人自焚。</p>
-<p>由于北京当局对藏区采取严密封锁，因此外界很难获取当地切实消息。报道称，藏区当地官员得到指示，对境内发生的自焚事件保持沉默。美联社在周三致电甘孜警方讯问，接听电话的李姓警员表示没有接获发生类似事件的报道。</p>
-<p>该名警员称：“我们正在维稳期间。如果发生类似事情，我们会向公众发布消息。”</p>
-<p>自由亚洲电台及其他一些团体同时报道称，一名生活在印度的16岁藏族青年同样在周一采取自焚行动，抗议中国政府的西藏政策。</p>
-<p>美国之音引述总部设在伦敦的自由西藏运动组织称，自焚少年名为多杰次仁(Dorjee Tsering)。2月29日，他在印度的北阿坎德邦德拉敦呼喊“自由西藏”的口号自焚。这名少年虽然幸存，但95%的身体烧伤，目前在印度首都德里的一家医院接受治疗。</p>
-<p>自由西藏运动表示，多杰次仁来自印度喜马偕尔邦的藏人定居区，是当地一个西藏之家学校的10年级学生。</p>
-<p>藏族僧尼受到压制</p>
-<p>外界认为，部分藏人采取极端手段的抗议行动，目的在于表达对于中共铁腕统治的极度不满。许多抗议者的另一项诉求是，要求藏人精神领袖达赖喇嘛回到藏区。1959年，反抗中共统治的藏民暴动失败，达赖喇嘛随后逃亡印度。</p>
-<p>美联社分析称，藏族僧尼是藏区反对中国统治最为活跃的群体，同时也是声张藏族身份认同的积极分子。这也导致当局对这一群体的成员采取最为严厉的压制措施。</p>
-<p>去年，中共西藏党委书记陈全国要求藏族寺院悬挂国旗，以宣扬“爱国主义”。</p>
-<p>北京指责达赖喇嘛等人煽动自焚，并一再强调政府对藏区进行巨额投资以发展经济，改善民众生活水平。而达赖喇嘛方面曾多次重申，遵循“中间道路”政策，反对暴力。</p>
-<p>此前一次中国境内的自焚事件发生在去年11月。同样在甘孜地区，一名藏族女尼呼喊“西藏需要自由”及“让尊者（达赖喇嘛）回藏”并引火自焚。据信该名女尼最终身亡。</p>
-<p>政协常委班禅接受统战负责人接见</p>
-<p>随着达赖喇嘛进入80高龄，北京政府日益将关注重点转移到藏传佛教第二号人物-班禅喇嘛身上。目前中国政府官方承认的班禅喇嘛从小便受到官方的严密看护。而有关其身份认定，海外藏人与中国政府之间存在巨大争议。</p>
-<p>中国政府否认达赖喇嘛所挑选的班禅转世灵童，当时年仅6岁的男童更登确吉尼玛此后便消失无踪。而现年26岁的确吉杰布则被中国官方指定为第十一世班禅。这位年轻人大部分时间生活在北京，目前是中国全国政协常委之一。全国政协将在周四（3月3日）开始召开年度会议。</p>
-<p>据新华社报道，中共中央政治局委员、中央统战部部长孙春兰3月1日在京会见确吉杰布。报道称，孙春兰希望确吉杰布“牢记习近平总书记的嘱托，继承历代班禅爱国爱教传统，自觉为维护祖国统一和民族团结作贡献；继续刻苦钻研佛教经典，提高宗教学识，在引领藏传佛教与社会主义社会相适应中发挥积极作用；继续保持谦虚谨慎的作风，不断提高品德修养，展现良好形象”。</p>
-<p>而确吉杰布则表示“一定牢记党中央、国务院的深切关怀，牢记习近平总书记的谆谆教导，刻苦学习，积极工作，为促进藏传佛教与社会主义社会相适应，为西藏的繁荣发展、和谐稳定作出自己的努力”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%8F%AC%E5%BC%80%E5%9C%A8%E5%8D%B3-2016%E5%B9%B4%E9%A6%96%E8%B5%B7%E8%97%8F%E4%BA%BA%E8%87%AA%E7%84%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E4%BA%BA%E8%87%AA%E7%84%9A/?category=18271" rel="tag">藏人自焚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -699,7 +690,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -709,5 +700,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

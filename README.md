@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9%E5%8F%AF%E8%83%BD%E4%BB%85%E4%BB%85%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%A3/" target="cdt-mirror">纽约时报｜供给侧改革可能仅仅是习近平的一个口号</a>
+</h2>
+<p><p>随着世界在期望中国担保自己能够掌控经济增长的放缓及动荡的股市，习近平已开始推出一个听起来不像马克思和毛泽东、更像里根和撒切尔的补救措施。</p>
+<p>习近平把他的下一个大的经济方案称为“供给侧结构性改革”，有附和保守派西方领导人在上个世纪80年代提倡的减税及放松管制的秘诀的意思。</p>
+<p>新口号预计将在中国立法机构周六召开的全体代表大会上享受显著的地位，它代表着为习近平改革中国经济的一波三折的计划增添活力的努力。但习近平仍面临着对他是否有决心彻底重组经济的普遍怀疑，那将需要削减臃肿的国有企业，伴随而来的是减少数百万人的就业机会。</p>
+<p>“人们对撒切尔和里根有很高的评价，因为事实证明，他们在极大的压力下做出了正确的选择，”财政部的经济学家贾康说，他是新政策最突出的倡导者。“他们的精神是勇敢地接受挑战，勇于创新，这当然是值得中国人仿效的。”</p>
+<p>习近平指的供给侧，正如里根经济学那样，将包括降低赋税、减少政府施加给投资者的负担。然而，其主要目标似乎是关闭或逐步减少生产远远高于市场需求的煤炭、钢铁、水泥等工业产品的矿山和工厂，严格控制导致产能过剩的信贷和补贴。</p>
+<p>一些经济学家说，供给侧改革的说法至少是向那些痛苦的措施迈出的一步，这些措施可能会引导经济健康增长。</p>
+<p>“这是一个旨在重振改革进程的重要新方案，”加州大学圣迭戈分校的经济学教授巴里·诺顿(Barry Naughton)通过电子邮件说。“政策制定者们已多次失误，总体来看，市场化改革的成就少得可怜。政策制定者们需要拿出一些别的办法。”</p>
+<p>习近平已对中国军队进行了重组，还主导了一场轰轰烈烈的反腐败运动。但在经济方面，他尚未能取得类似的突破，许多经济学家认为，他在这方面的失败已经削弱了企业对未来增长的信心。</p>
+<p>周三，信用评估机构穆迪投资者服务公司(Moody’s Investors Service)把其对中国经济前景的预期从稳定降到负面，理由是“当局推行改革的能力存在不确定性”。</p>
+<p>怀疑者认为，经济转型如此困难的一个原因是，习近平的经济目标已经多次与他的政治目标发生冲突。他们说，虽然习近平在把权力集中到自己手里这方面表现出极大的能力，但他一直不愿意约束国家的影响范围，尤其是限制国有企业在获得贷款、资源和客户上享有的特权，这些特权往往具有垄断性。</p>
+<p>一些经济学家说，习近平的供给侧方案也许会只对之前糊里糊涂的改革作表面上的改进，虽然承诺让市场自由化，但还是加大了国家的控制，方案比所需要的东西还差得很远。</p>
+<p>“为了让政府更多地步入市场的轨道，就需要回避干预，”上海高级金融学院教授朱宁说。“但是，这正是他们一直没有做的事情。”</p>
+<p>许多自由主义经济学家仍不相信中国政府会愿意减弱自己的权力，以及冒着面临下岗工人反对的风险，不管其说法如何强硬。把国家支持的产业调整到真正附和市场的水平会意味着削减数以百万计的就业机会。</p>
+<p>这些削减有很大可能会受到面临裁员威胁的工人和管理人员的强烈抵制。而在这些工人和管理人员集中的省份，也会受到来自当地官员的强烈抵制。</p>
+<p>2013年，习近平曾制定了一整套振兴经济的蓝图，包括发誓要改造国有部门、培育市场力量。但进展断断续续、极不均匀，反映出他不愿意放弃国家的控制，几位经济学家说。</p>
+<p>这些混杂的信号已导致政府官员的瘫痪，他们对在保持稳定和增长的同时，需要在多大程度上大作出削减很不确定。</p>
+<p>“中央政府强调供给侧改革，”北京大学的经济学家姚洋说。“而在另一方面，它仍在鼓励地方政府投资。这就是地方政府官员面临的困惑，因此他们不知道方向。”</p>
+<p>既然经济警报已经拉响，习近平愿意走多远呢？在周六开幕的全国人大上，共产党领导层将阐述他们的经济计划，届时这个问题的答案将会变得更加清晰。</p>
+<p>“他们是否言行一致仍然有待观察，”中国欧盟商会(European Union Chamber of Commerce in China)主席约尔格·伍德克(Jörg Wuttke)说。“如果不是，中国就会有很大麻烦。”</p>
+<p>如果是，可能也会很有难度。</p>
+<p>近期一项研究指出，如果进行裁员，那么未来两年里，钢铁、煤炭等行业可能会有逾300万人失业。本周一，政府表示将裁减180万名钢铁和煤炭员工，相当于这些行业劳动力总数的15%左右，不过没有具体说时间。</p>
+<p>“阵痛不可避免，但也是值得的，”共产党主要党报《人民日报》1月发表了一篇整版文章，赞颂供给侧结构性改革。“不可能皆大欢喜。”</p>
+<p>但是，如果说经济放缓正在迫使习近平采取行动，那么它也提高了行动的成本。</p>
+<p>从1997年开始的第一波国有企业倒闭潮中，逾3000万个就业岗位在不到十年的时间里消失。但中国经济开始腾飞，特别是2001年中国加入世界贸易组织之后，新增的就业机会消化了很多富余员工。</p>
+<p>目前预测的就业岗位减少数量虽然较小，但可能更富争议，因为经济正在放缓。习近平对社会稳定和群众支持非常重视，就业岗位的减少可能会对其构成威胁，他不太可能冒险推动中国进入急剧下行的局面。</p>
+<p>自从2008年金融危机以来，中国政府采取了刺激措施来保持经济增长，导致了债务增加。中国供给侧学派表示，盲目扩张已达到了不可持续的程度。</p>
+<p>例如，中国欧盟商会发布的一份新的产能过剩报告称，中国的钢铁产量已经“与真实的市场需求脱节”，是位居第二到第五的四大钢铁生产国——日本、印度、美国和俄罗斯——总产量的两倍以上。</p>
+<p>除了纠正这种问题，供给侧改革包括哪些具体政策仍然存在争论。官员和经济学家呼吁给私营企业减税，让私人投资者在国有企业中占有更大的份额，同时又不搞全面私有化。</p>
+<p>但是这个概念也很笼统，一些人也在它的基础上，主张为摇摇欲坠的国有企业提供更多的出口支持、政府资金和扶持政策。</p>
+<p>但是，对获得国家补贴的低效率行业进行抑制，则基本上获得了经济学家和政策制定者的一致支持。主张经济自由化的北京天则经济研究所所长盛洪说，再拖下去只会扼制增长、恶化问题、伤害工人。</p>
+<p>“如果没有拿出解决方案的迹象，今年可能会是特别危险的一年，”他说。“如果不改革，就会有大问题。”</p>
+<p>而供给侧结构性改革可能仅仅是一个口号。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9%E5%8F%AF%E8%83%BD%E4%BB%85%E4%BB%85%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E5%AE%B6%E5%86%9B%E6%88%90%E5%BD%A2-%E9%AB%98%E5%B1%82%E4%BA%BA%E4%BA%8B%E4%BC%A0%E9%97%BB%E7%94%A8%E5%BF%83%E9%99%A9%E6%81%B6%EF%BC%9F/" target="cdt-mirror">世界日报｜习家军成形 高层人事传闻用心险恶？</a>
+</h2>
+<p><p>中国正紧锣密鼓举办一年一度的人大和政协会议（简称「两会」），再度引起外界对中共 19 大人事安排的关注。「习内核」将成 2016 年中共政治的「新 风景」，也是党内高层基本共识。由是， 19 大人事布局，将是今年中共政治的重头戏。而哪些高官可能成「习内核」成员，将决定他们 19 大后的仕途前程。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k4gggggggg.jpg?resize=550%2C292" alt="k4gggggggg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k4gggggggg.jpg?resize=300%2C159 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k4gggggggg.jpg?w=696 696w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>海外最近有报导分析称，习近平看上上海市委书记韩正，有意将其调至中央担任深改组办公室主任，为接替国务院总理李克强「热身」。理由是：一、韩正曾是习近平在上海任市委书记时的搭档；二、韩主政的上海 GDP 全国第一，说明其行政能力不错；三、重用与自己搭伴工作过、有丰富经历和政绩的「上海王」，应是习近平 人事选择的自然结果等。</p>
+<p>而李克强 2018 年后不再连任的原因，被归结为：一、身体不好、能力有限，力不从心。中国经济持续下行、股市崩盘、熔断机制导致「股灾 2.0 」、人民币贬值，均被看作是李相治理不力，施政无方。二、习李在经济政策和治理方略上「分歧严重」，李遂「被边缘化」。例如，李的「克强经济学」和「克强指数」在习压制下昙花一现，很快消声匿迹。三、习近平独揽经济大权，创立中央全面深化改革领导小组，并亲自担任组长，架空李克强治下的国务院，使习李关系尖锐对立。</p>
+<p>韩正是否有资格被划归「习内核」成员，北京部分圈内人有完全不同看法。他们认为，韩正将取代李克强，纯属天方夜谭、编故事。韩正是江泽民的人，韩如果内调，是逐步让其退出政坛的开始，也是习近平派亲信接管上海的举措，而不是重用韩。「习李体制」并非外传那样名存实亡。李克强团队经济上有一套完整计画与思路，在习近平认同支持下，正大力推行。李团队的思路缜密，方向对头，但落实的道路崎岖，阻力不小，需要习近平大力支持，包括王岐山的中纪委全力配合。李克强应对股灾，动用「锦衣卫」，就很说明问题。</p>
+<p>习李关系的基础是：一、李克强是技术官僚，没有政治野心。二、习对李的态度将影响整个团派势力和官僚系统向心力，习不会蠢到自毁长城。说习李之间有严重分歧，是反对派一厢情愿想法，混淆视听而已。</p>
+<p>习近平集权，依靠两大势力：一是太子党，二是团派和官僚队伍。依靠红二代，是特定时期的特定策略，暂时的权宜之计。依靠团派和整个官僚系统，才是习执政的根本和长远打算。而「习李体制」面对的最大阻碍力量，是掌握经济、金融和军队的太子党。四中全会后，李克强的经济改革铺开，全面进剿太子党掌控的各种「经济土围子」。<br>
+太子党便暗中兴风作浪，阻扰改革，一时之间，李克强举步维艰。海内外打造舆论说李身体不好，能力不行，习李不合，李就要卷铺盖走人，目的就是打 击李克强。</p>
+<p>事实上，习李经济政策和治理上不是分歧严重，而是各有侧重。譬如，习近平提出「供给侧改革」，是由政府主导的针对国有企业为主体的生产改革；而李克强主张的「新经济政策」，则是针对以高科技产业为主的新兴行业，是民营企业集中布局的领域。在今年两会召开下，北京大张旗鼓宣扬「新经济政策」，就说明政府今后发力经济改革的方向是什么，表明「新经济政策」和「供给侧改革」，将一起成中国经济改革的指导思想。</p>
+<p>习近平上台三年来，执政班底已成形，有自己的「习家军」，无需重用像韩正这样的前朝重臣。况且，习在上海时间短暂，难以与韩正等土地爷建立亲密关系。目前习在中央各内核部门人事布局已基本到位，各重要位置悉数安排自己人马介入。例如：组织系统有习的大学同窗兼室友陈希任中组部常务副部长，过去的文胆何毅亭任中央党校常务副校长；宣传系统有「之江新军」的黄坤明任中宣部常务副部长；财政方面，有习的重要智囊刘鹤、福建旧属何立峰任国家发改委副主任，来自浙江的舒国增任中财办副主任；中纪委方面，则有上海旧部杨晓渡任副书记；安全领域，有来自浙江、福建旧部蔡奇任中央国安委办公室副主任，来自福建厦门的北京市公安局长王小洪。</p>
+<p>习近平的机要秘书丁薛祥，刚被确认官升中办常务副主任，而中办主任更是习信赖的河北旧识栗战书。习在中央机要、组织、党务和宣传几大内核部门，实际掌权的都是他的得力干将。因此，外传习李分歧严重，李被边缘化 ( 甚至参与政变 ) 等，均缺乏可靠依据，与现实相去甚远。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E5%AE%B6%E5%86%9B%E6%88%90%E5%BD%A2-%E9%AB%98%E5%B1%82%E4%BA%BA%E4%BA%8B%E4%BC%A0%E9%97%BB%E7%94%A8%E5%BF%83%E9%99%A9%E6%81%B6%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E3%80%8A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%EF%BC%8D%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E9%98%B4%E6%9A%97%E9%9D%A2/" target="cdt-mirror">【真理部】《天津大爆炸－中国社会的阴暗面》</a>
+</h2>
+<p><p>请各网查删“NHK纪录片《天津大爆炸－中国社会的阴暗面》”，并反馈清理数据。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E3%80%8A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%EF%BC%8D%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E9%98%B4%E6%9A%97%E9%9D%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津大爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%A4%E4%BA%86%E4%BA%BA%E6%97%A5%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B6%E4%BB%96%E5%85%9A%E5%A7%93%E5%AA%92%E4%BD%93%E5%BF%83%E7%B3%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%98/" target="cdt-mirror">除了《人日》，还有哪些其他党姓媒体心系日本女优？</a>
 </h2>
 <p><blockquote><p><a href="https://freeweibo.com/weibo/3949094907060641">@曹山石</a>：人民日报微信公众号今晚封面文章的配图，是女优青木麻奈。</p></blockquote>
@@ -607,135 +688,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/" target="cdt-mirror">自由亚洲｜成都要求高级讲师上缴护照 出国须承诺不“泄密”</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg" rel="attachment wp-att-430688"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg?resize=500%2C430" alt="上缴护照" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?resize=300%2C258 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>西南民族大学讲师微信截图。（网络截图）</p></div>
-<p>四川成都市多家高校的副处级以上讲师被要求缴出护照及旅行证件，若要出国，须向校方申请并签字承诺在境外不做任何有损国家尊严和利益的言行、保守党和国家机密，以及不得以中共党员身份参加任何活动。此外据悉，北京所有大学对副处级以上讲师及行政人员申请出国，一般不会批准。</p>
-<p>境外社交网站推特3月1日流传一份来自微信的对话截图，成都高校要求高级职称的教师，上缴所有的护照和旅行证件。由校方统一管理。以后出国之前，须向校方提出申请，等审批合格后方能领取出境证件。其中提到西南民族大学已经实施这项规定，其他学校马上就要实施。本台记者3月2日，多次致电该校校长办公室和人事处，但均无人接听。而四川大学人事部门一位负责人杨女士当天接受自由亚洲电台记者采访时称，该校已经实施。她说：“我们（学校）副处级以上的都交了（护照和通行证）”。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/m0302-ql3p2.jpg" rel="attachment wp-att-430687"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/m0302-ql3p2.jpg?resize=400%2C581" alt="北京某高校处级讲师向组织部申请护照表格曝光。（乔龙提供）" data-recalc-dims="1"></a><p>北京某高校处级讲师向组织部申请护照表格曝光。（乔龙提供）</p></div>
-<p>记者：如果要去旅游，再填表格申请还是怎么样？</p>
-<p>回答：对，对，对，要填申请表，是这样的。</p>
-<p>记者：他这样做主要预防什么？</p>
-<p>回答：这个我不知道，防不防贪污，我不知道，就是加强管理。</p>
-<p>记者：高级职称的算是处长以上吗？</p>
-<p>回答：对，肯定是副处以上了。我们是早就开始了。</p>
-<p>北京一位要求匿名的大学老师2号对记者说，北京的所有大学，从去年就已要求副处级以上的高级讲师或行政人员交出护照：“副处以上的高讲，都收走了，去年就收走了”。</p>
-<p>记者：如果要出国，怎么办？</p>
-<p>回答：这要申请。但是我听他们说，一般人不批。</p>
-<p>记者：那他就出不了国了？</p>
-<p>回答：对啊。说是可以申请（护照），但要分为什么事，基本是限制你不能随便出境，比如要出去旅游，可能不批。如果家里有什么事或者孩子在外面有事，那还可以。要分什么事情才批准你。我们学校人事部有文件，反正是人事处下的文。</p>
-<p>记者在网民提供的一份空白申请表格上看到，其中承诺出国内容写道：“本人已经了解处级干部出境管理规定，并承诺在境外期间，不做任何有损国家尊严和利益的言行，保守党和国家的机密，不以党员身份和学校身份参加公开活动。。。。。。回国七日内将因私护照或港澳通行证上交组织部”。申请表上还有组织部收到证件的具体日期和接受者签名。</p>
-<p>山东大学退休教师孙文广从2005年起就被当局限制出境。他2号对本台表示：“对官员来讲，很多到外国是想逃避反腐追查；对于一些学者，怕他们出去以后乱讲话或者发表一些与中共高层不一致的观点。拿我来讲，到现在已经十多年了，都是不准出去的，也不准到台湾、香港。他就是怕我出去以后讲一些话，做一些他们不高兴的事情。我想他是对知识分子有些恐惧”。</p>
-<p>官方媒体报道显示，当局要求高校副处级以上讲师缴出护照是为了防止官员携款外逃，但是，从申请取回护照及旅行证件的表格上看到，当局主要还是防范意识形态领域。另外，北京市通州区要求科级及以下干部上缴因私护照上。</p>
-<p>据新京报去年6月19日报道，北京部分区县、部门进一步收紧公务员因私出国管理政策。通州区科级及以下干部因私出国护照已全部上缴，由单位集体保管，科级事业单位主要负责人因私出国须登记备案。在怀柔区，涉密岗位人员出国备案管理也延伸到了科级。报道称，中组部、公安部发文，要求配合反腐败国际追赃工作，进一步加强对领导干部因私出国(境)的监督管理。北京新设立的追逃办近日也强调对“防逃”的布控，包括强化党员、国家工作人员出入境证照的管理。</p>
-<p>（特约记者：乔龙；责编：石山/吴晶）</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7/?category=18271" rel="tag">中国护照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E5%A2%83%E7%AE%A1%E7%90%86/?category=18271" rel="tag">出境管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/" target="cdt-mirror">自由亚洲｜成都高校要求高级讲师上缴护照 出国申请须承诺不“泄密”</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg" rel="attachment wp-att-430688"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7.jpg?resize=500%2C430" alt="上缴护照" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?resize=300%2C258 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/上缴护照.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>西南民族大学讲师微信截图。（网络截图）</p></div>
-<p>四川成都市多家高校的副处级以上讲师被要求缴出护照及旅行证件，若要出国，须向校方申请并签字承诺在境外不做任何有损国家尊严和利益的言行、保守党和国家机密，以及不得以中共党员身份参加任何活动。此外据悉，北京所有大学对副处级以上讲师及行政人员申请出国，一般不会批准。</p>
-<p>境外社交网站推特3月1日流传一份来自微信的对话截图，成都高校要求高级职称的教师，上缴所有的护照和旅行证件。由校方统一管理。以后出国之前，须向校方提出申请，等审批合格后方能领取出境证件。其中提到西南民族大学已经实施这项规定，其他学校马上就要实施。本台记者3月2日，多次致电该校校长办公室和人事处，但均无人接听。而四川大学人事部门一位负责人杨女士当天接受自由亚洲电台记者采访时称，该校已经实施。她说：“我们（学校）副处级以上的都交了（护照和通行证）”。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/m0302-ql3p2.jpg" rel="attachment wp-att-430687"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/m0302-ql3p2.jpg?resize=400%2C581" alt="北京某高校处级讲师向组织部申请护照表格曝光。（乔龙提供）" data-recalc-dims="1"></a><p>北京某高校处级讲师向组织部申请护照表格曝光。（乔龙提供）</p></div>
-<p>记者：如果要去旅游，再填表格申请还是怎么样？</p>
-<p>回答：对，对，对，要填申请表，是这样的。</p>
-<p>记者：他这样做主要预防什么？</p>
-<p>回答：这个我不知道，防不防贪污，我不知道，就是加强管理。</p>
-<p>记者：高级职称的算是处长以上吗？</p>
-<p>回答：对，肯定是副处以上了。我们是早就开始了。</p>
-<p>北京一位要求匿名的大学老师2号对记者说，北京的所有大学，从去年就已要求副处级以上的高级讲师或行政人员交出护照：“副处以上的高讲，都收走了，去年就收走了”。</p>
-<p>记者：如果要出国，怎么办？</p>
-<p>回答：这要申请。但是我听他们说，一般人不批。</p>
-<p>记者：那他就出不了国了？</p>
-<p>回答：对啊。说是可以申请（护照），但要分为什么事，基本是限制你不能随便出境，比如要出去旅游，可能不批。如果家里有什么事或者孩子在外面有事，那还可以。要分什么事情才批准你。我们学校人事部有文件，反正是人事处下的文。</p>
-<p>记者在网民提供的一份空白申请表格上看到，其中承诺出国内容写道：“本人已经了解处级干部出境管理规定，并承诺在境外期间，不做任何有损国家尊严和利益的言行，保守党和国家的机密，不以党员身份和学校身份参加公开活动。。。。。。回国七日内将因私护照或港澳通行证上交组织部”。申请表上还有组织部收到证件的具体日期和接受者签名。</p>
-<p>山东大学退休教师孙文广从2005年起就被当局限制出境。他2号对本台表示：“对官员来讲，很多到外国是想逃避反腐追查；对于一些学者，怕他们出去以后乱讲话或者发表一些与中共高层不一致的观点。拿我来讲，到现在已经十多年了，都是不准出去的，也不准到台湾、香港。他就是怕我出去以后讲一些话，做一些他们不高兴的事情。我想他是对知识分子有些恐惧”。</p>
-<p>官方媒体报道显示，当局要求高校副处级以上讲师缴出护照是为了防止官员携款外逃，但是，从申请取回护照及旅行证件的表格上看到，当局主要还是防范意识形态领域。另外，北京市通州区要求科级及以下干部上缴因私护照上。</p>
-<p>据新京报去年6月19日报道，北京部分区县、部门进一步收紧公务员因私出国管理政策。通州区科级及以下干部因私出国护照已全部上缴，由单位集体保管，科级事业单位主要负责人因私出国须登记备案。在怀柔区，涉密岗位人员出国备案管理也延伸到了科级。报道称，中组部、公安部发文，要求配合反腐败国际追赃工作，进一步加强对领导干部因私出国(境)的监督管理。北京新设立的追逃办近日也强调对“防逃”的布控，包括强化党员、国家工作人员出入境证照的管理。</p>
-<p>（特约记者：乔龙；责编：石山/吴晶）</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%88%90%E9%83%BD%E9%AB%98%E6%A0%A1%E8%A6%81%E6%B1%82%E9%AB%98%E7%BA%A7%E8%AE%B2%E5%B8%88%E4%B8%8A%E7%BC%B4%E6%8A%A4%E7%85%A7-%E5%87%BA%E5%9B%BD%E7%94%B3%E8%AF%B7%E9%A1%BB%E6%89%BF%E8%AF%BA%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7/?category=18271" rel="tag">中国护照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E5%A2%83%E7%AE%A1%E7%90%86/?category=18271" rel="tag">出境管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE%E7%9A%84%E6%A0%B9%E6%BA%90%E6%98%AF%E9%A3%8E%E5%8A%9B%E5%87%8F%E5%BC%B1%EF%BC%9F/" target="cdt-mirror">大脸撑在小胸：北京雾霾的根源是风力减弱？</a>
-</h2>
-<p><p><em>作者：新浪微博 <a href="http://weibo.com/dalianxiaoguangtou?is_all=1">@大脸撑在小胸</a></em></p>
-<blockquote><p>三北防护林能挡住北京的风？内蒙风力发电场能挡住北京的风？风力减弱是北京雾霾的根本原因？</p></blockquote>
-<p><strong>《中国科学报》2016年2月15日第7版刊登了一篇文章《北京雾霾根源于风力衰减》。</strong></p>
-<p>我不得不说，这篇文章很难得……地<b>汇集了多个有代表性的雾霾认识误区</b>，方便一次性集中反驳，省得每次零敲碎打单说了。</p>
-<p>想先阅读原文的请戳：http://news.sciencenet.cn/htmlnews/2016/2/338141.shtm</p>
-<p>懒得读原文的，我大概摘录一下原文论点：</p>
-<p>作者说：“<span>对北京地区雾霾天气形成原因，有关专家进行了源解析工作</span><span>，</span><span>得出这样一个结论：机动车、燃煤、工业污染和扬尘是北京地区大气污染的主要来源，也是造成北京地区空气重污染的根本原因。其论谬矣！</span>”</p>
-<p>“谬”在哪里呢？作者解释了，北京雾霾的“<span>根本原因则是北方风力衰减、风势过弱</span>”，接着论证了两大因素：“<span>第一大因素，蒙古高压逐渐疲软转弱</span><span>”“</span><span>第二大因素，防风固沙林带起到阻风作用。或许还应叠加上内蒙古风力发电方阵</span>”。</p>
-<p>之后点题：“…<span>但</span><span>由于自然风不能由政府立马控唤，所以北京雾霾严重问题，一时无法得到根治。</span>”</p>
-<p>令我惊讶的是，这居然是刊登在《中国科学报》上的文章，作者是“中国国际战略学会特邀研究员”。</p>
-<p>闲言碎语不多讲，下面逐一反驳。</p>
-<p><strong>1.关于“防风固沙林带起到阻风作用”。</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jfp6gtq2j20j20bagqr.jpg" rel="attachment wp-att-430652"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jfp6gtq2j20j20bagqr.jpg?resize=550%2C326" alt="6edf4ea4jw1f1jfp6gtq2j20j20bagqr" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jfp6gtq2j20j20bagqr.jpg?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jfp6gtq2j20j20bagqr.jpg?w=686 686w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>这个说法流行多年，大概逻辑就是说：“三北防护林等的防风固沙林带，虽然拦住了风沙，但也导致吹到北京的风变弱，导致雾霾无法吹散”。</p>
-<p>乍一听很有道理是吧？防风林防风林，把风都防住了，当然就没风来吹散雾霾了！</p>
-<p>但是，请注意，<b>风和风并不一样</b>，防风林防的是什么风？能吹散雾霾的风又是什么风？</p>
-<p>防护林带的主要作用，是固定沙地、保持水土、减缓风蚀、降低扬沙。它<b>所能“防”的风，只是地面上非常浅薄的一层</b><b>地表</b><b>风——事实上连这也</b><b>不能完全防住</b><b>，只能说是对这层</b><b>地表</b><b>风速有所减弱</b>。</p>
-<p>而能吹散北京雾霾的，不是一层地表风那么简单，而是<b>大范围的冷空气系统</b>，其南下前锋在850Pha天气图上尚且清楚可见，<b>厚度至少也在</b><b>1000</b><b>米以上</b>。</p>
-<p>于是大家对比一下，防护林带能有多高？它在冷空气系统这样的庞然大物面前简直是螳臂挡车，怎么可能把冷空气整体风速都降低，以至于到了妨碍吹散雾霾的地步？</p>
-<p>——除非冷空气是从西伯利亚踩滑板南下到京的。</p>
-<p><strong>2.关于“内蒙风力发电方阵”。</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jff3gv66j20k00qojtu.jpg" rel="attachment wp-att-430651"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jff3gv66j20k00qojtu.jpg?resize=400%2C533" alt="6edf4ea4jw1f1jff3gv66j20k00qojtu" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jff3gv66j20k00qojtu.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6edf4ea4jw1f1jff3gv66j20k00qojtu.jpg?w=720 720w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>fig.via. @铁三老黑熊</em></p>
-<p>这个说法也长盛不衰，大概逻辑就是说“内蒙的风力发电场，消耗了风力，导致吹到北京的风变弱，导致雾霾无法吹散”。</p>
-<p>乍一听也很有道理是吧？能量守恒这是常识嘛，风力发电就是把风能转化成电能了嘛，风能少了风力自然就弱了，当然就没风来吹散雾霾了！</p>
-<p>但是，又请注意——<b>脱离量级谈影响，都是耍流氓！</b></p>
-<p>风力发电会消耗风力，这不假，但关键在于它到底消耗了多少风力？是不是大到足以导致吹到北京的风都变弱的地步？</p>
-<p>这就像医学界经常也说“脱离剂量谈毒性，都是耍流氓”，一个道理。</p>
-<p>那么风电到底会消耗多少风能呢？正好我以前找过资料如下：</p>
-<p>美国斯坦福大学Maria团队的研究显示，即使——请注意即使是让步假设——即使把全球所有的能源需求都换做风能，<b>大气层</b><b>1km</b><b>以下的能量损失也只有</b><b>0.006-0.008%</b>——大家可以自己估算一下，这其中如果仅考虑内蒙风电场消耗风能的话，按比例折算下来能损失多少？</p>
-<p>Maria的研究还显示，尽管在大型风电场的下风向会存在风速减弱现象，但<b>只要经过</b><b>30-60km</b><b>的距离就可恢复</b>。——所以，内蒙和北京离多远？</p>
-<p>风电会改变气候的传言由来已久，为了辟谣，内蒙古赤峰市曾在2011年组织气象专家发布了《风力发电对气候变化影响的评估报告》，分析了当地3个有风电场的旗县（克旗达里、右旗翁根山、翁旗灯笼河子）和另外7个没有风电场的旗县的气象数据，经过比对发现，<b>它们的</b><b>风速、气温、蒸发量、降雨量等均在正常范围区间内</b>。</p>
-<p>国外也有过类似研究：气象学家Robert Vautard团队，对欧洲2012年全部风力发电场以及未来（至2020年）即将建设的风力发电场，进行了测定。结论显示，<b>风力发电场对气候产生的影响非常微小，甚至不如自然气候本身的变率大</b>。该结果作为通讯文章发表在《Nature》上。</p>
-<p>如此，一旦呈现了具体数据，你还觉得“内蒙风电会让北京风力减弱、雾霾加重”像乍一听时那么有道理吗？</p>
-<p><strong>3.蒙古高压逐渐“疲软”转弱<br></strong><br>
-作者写道“<span>由于全球气候变暖，近年来厄尔尼诺效应持续增强，西伯利亚寒潮出现变化，蒙古高压逐渐转弱，风源呈现疲软；……造成高纬度的冷空气不易南下侵入我国北部地区，我国华北地区的冷空气因此而比往年势力变弱。</span>”</p>
-<p>首先我要肯定一下作者，在全球变暖的大背景下，我国冬季确实在增温，冬季风确实在减弱，这确实导致了我国霾日数的增加。——但是！不好意思我要但是了！这对于我国雾霾，只是起到推波助澜的作用，而绝非作者所说的“根本原因”。</p>
-<p>雾霾是如何产生的？</p>
-<p>首先是<b>人为因素</b>：人类活动所造成的大气污染物的排放，已经远远超过了大气自净化能力；</p>
-<p>其次是<b>自然因素：</b>比如静稳天气或者逆温层，使大气扩散能力降低，污染物无法及时散去，淤积在城市中成为雾霾，这是<b>天气因素</b>。又比如北京这种三面环山的簸箕型地形特征，不利于大气扩散，这是<b>地理因素</b>。当然，还有作者提到的冬季风减弱，这是<b>气候变化因素</b>。</p>
-<p>好，上述这两种因素，到底哪种才是根本原因？</p>
-<p>咱就简单点说，雾霾天时，漂浮在空气中的是什么？是不是污染物？这些污染物打哪儿来的？是自然产生的还是人为产生的？——所以哪个是根本原因？</p>
-<p>静稳天气也好、逆温层也好、冬季风减弱也好，这都是再普通不过的天气-气候变化，世界各地都会经历这些天气-气候条件，但是不是每个地区都发生雾霾了？</p>
-<p>在污染排放少、空气质量好的地方，无论什么样的天气条件，都不会发生雾霾；而在我国的京津冀、长三角乃至中南大片区域，空气质量已经脆弱到了一遇到静稳天气就会爆发雾霾的地步，这说明什么？</p>
-<p>这说明我们天天都处在污染物超标排放的状态下，天气条件一旦发生变化，我们的空气就要崩溃。在这种情况下，你说冬季风减弱才是“根本原因”？</p>
-<p>全世界有很多城市都曾经遭遇过、或者正在遭受雾霾，尽管各地的治理方式有所不同，但治理思路都是一致的，那就是控制污染排放。请问有哪个机构哪个实验室哪个科学家会说雾霾的根本原因是自然风减弱？</p>
-<p>众所周知，<b>以人类</b><b>现阶段的</b><b>科技水准，人工定向加强风是不可能的，人工打破静稳天气和逆温层也是不可能的</b><b>。</b><b>但是</b><b>，</b><b>控制排放是完全可能的，</b><b>全世界其它成功治理了雾霾的城市也都是从控制污染排放入手</b><b>才见效的，没有谁是靠风的</b>。</p>
-<p>不如我把话说得再明白点吧：</p>
-<p>其实，“近年来我国冬季风减弱、导致霾日数增多”，这本身是一个非常有价值的研究成果，我也听其他科学家介绍过。但是我想说的是，<b>对于同样一个研究结果，如何去解释它，却能体现出很多微妙的含义</b>。</p>
-<p>有的科学家解释为，这说明我国的雾霾形势很严峻，因为即使你已经做出一些减排的改善，它的效果也可能被抵消；而如果你不加改善，再叠加上风力减弱的影响，就更是雪上加霜。可见我们治理雾霾的任务是多么紧迫。</p>
-<p>而有的人就解释为，这说明雾霾的根本原因是风力减弱，而政府又不能召唤风，所以雾霾问题现在没法根治。</p>
-<p>——两相对比，大家自有公断。</p>
-<p><strong>4.关于源解析工作的“其论谬矣”</strong></p>
-<p>北京灰霾的主要来源，虽然在不同季节、不同区域、不同污染背景下，会存在比例上的差异，但总体而言，<b>灰霾产生的根源是化石类燃料（如煤炭、汽油等）燃烧排放与工业排放，这已经是不争的事实</b>。这不是一两篇论文、一两个专家的草率结论，而是一个系统的专业科研方向，是国内外很多实验室、很多科研工作者、成千上万篇论文发表的主流结论。</p>
-<p>而这些就被作者轻飘飘一句“其论谬矣”全盘否定。而这样的文章，就堂而皇之地发表在《中国科学报》上？</p>
-<p>总结一下：</p>
-<p><b>三北防护林和</b><b>内蒙风力发电场，</b><b>都不能减弱北京的风，也不会因此导致北京的雾霾加剧。</b><b>北京雾霾的根源是</b><b>化石类燃料（如煤炭、汽油等）的燃烧排放与工业排放，这是治理雾霾的最根本思路；风力减弱只是起到了一些推波助澜的作用，它绝不是根源，也无法为任何雾霾治理上的失职开脱。</b></p>
-<p>最后说一句<b>，对于科学问题，有两种认识误区：一种是由于专业知识的欠缺</b>，比如不知道冷空气系统到底有多厚，也不去查查资料，仅凭直觉、提笔就写冷空气能被三北防护林阻挡。</p>
-<p>另一种，认为国内外整个大气污染领域的科学家们，历经数载的一系列科研成果，自己只要一拍脑袋一句“其论谬矣”就可以轻松推翻，分分钟送全世界一个surprise——恕我直言，这就不是专业知识欠缺了，<b>这是自我认知出了问题</b><b>。</b></p>
-<div></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE%E7%9A%84%E6%A0%B9%E6%BA%90%E6%98%AF%E9%A3%8E%E5%8A%9B%E5%87%8F%E5%BC%B1%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B2%BB%E7%90%86/?category=18271" rel="tag">环境治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">空气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">雾霾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -747,7 +699,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -757,5 +709,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

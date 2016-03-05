@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,57 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E5%A4%A7%E5%AE%8B%E8%B9%B4%E9%9E%A0%E6%94%B9%E9%9D%A9%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">花儿街参考｜大宋蹴鞠改革为何会失败</a>
+</h2>
+<p><p><strong>微信公众号：花儿街参考（ID：zaraghost）<br>
+作者：马钺</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg" rel="attachment wp-att-430974"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg?resize=407%2C300" alt="image" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg?resize=300%2C221 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg?w=407 407w" sizes="(max-width: 407px) 100vw, 407px" data-recalc-dims="1"></a></p>
+<p>大宋宣和元年，皇帝赵佶颁布《大宋蹴鞠改革纲要》，任命太尉高俅兼任蹴协主席，大宋朝的蹴鞠改革正式启动。</p>
+<p>蹴鞠是大宋第一运动，“宋超（大宋蹴鞠超级联赛）”异常红火，东京永巨捡漏队刚刚蝉联亚冠联赛冠军，但国家队水平却不高，只在十几年前打进过一次蹴鞠世界杯，从此后就每况愈下，不但再也没法跟辽国、西夏、高丽等一流强队一较短长，甚至连暹罗、星洲这种脚趾甲盖儿大的小国球队都能平趟大宋半场。时间一长，大宋蹴鞠沦为举世笑柄，名声堪比臭豆腐。大宋蹴协招数用尽，成绩却始终不见起色。</p>
+<p>道君皇帝决心改变这种状况。</p>
+<p>作为一个超级蹴鞠迷，赵佶当初还是端王时，就在府邸里修了个国际标准的蹴鞠场，经常请现役国脚来踢友谊赛，兴之所至，往往亲自下场，秀几下脚法，有几次还上演从后场带球狂奔至前场一脚破门的好戏，反正也没哪个不开眼的敢铲他。</p>
+<p>赵佶一度因此产生幻觉，以为自己是贝利第二，雄心勃勃打算去留洋，不料在一场国际友谊赛中，赵佶率领的端王队被辽国使团队那些厨子马夫踢了个10比0，这才如梦方醒，从此断了当职业蹴鞠运动员的念想。</p>
+<p>赵佶的球迷身份广为人知，登基之前，一股全国范围内的蹴鞠热悄然升温。体育总司领导几次三番视察大宋蹴协，一些大商号不惜重金购买职业蹴鞠俱乐部的股份，大宋首富丰百万索性给大宋蹴协开出了一张5亿贯的交子，表示以后签外教的费用我全包了。</p>
+<p>对于这股蹴鞠热，赵佶没有公开评论，但据坊间八卦，他曾对李师师说：“丰某此举，深体朕心。”赵佶说，在朕的领导下，大宋朝完成了伟大复兴，“大宋梦”至少已经在大宋新闻联播中实现了，有总菊，无难事嘛。就是这个蹴鞠，搞不定。毕竟世界杯是得凭真本事一场一场踢的，大宋蹴鞠队连场都进不了。举国皆知朕是鞠迷，大宋蹴鞠一烂到底，朕面上无光啊。再说盛世必有球兴，唐朝马球天下第一，大宋不能光玩外国人不玩或者不好好玩的球啊。</p>
+<p>总之，一定要把蹴鞠搞上去！</p>
+<p>《大宋蹴鞠改革纲要》颁布之后，赵佶欣喜的看到，蹴鞠产业果然成为又一个投资风口。凡是跟蹴鞠有关的创业项目，都很容易拉到投资。宋超更是炙手可热，宋人文体产业基金投入80亿贯，拿下宋超联赛5年的运营权。以往宋超转播权都是半卖半送，今年光是独家广播权就卖出了27亿贯的天价，获得转播权的喜事公司，成立还不到两年，估值已经超过了200亿贯。</p>
+<p>随着资本的大量投入，宋超球队个个挥金如土狂购外援，单单江宁一支队引援支出就超过了8亿贯。据说整个巴西联赛都快被宋超搜刮一空。</p>
+<p>然而，让赵佶郁闷的是，由于热钱涌入，强援加盟，宋超球队在俱乐部赛事上取得了不少成功，但大宋国蹴萎靡依旧，甚至一再退步，以往还能与一些二流球队抗衡，现在连红磡那些巡捕、瓦匠等业余球员组成的草台班子，都能踢得大宋国蹴那些百万富翁人仰马翻。</p>
+<p>赵佶百思不得其解，不得不问计于太上皇。</p>
+<p>太上皇呵呵一笑：“你啊，图样，图森破。”</p>
+<p>赵佶不服：“你别光教训我，有理说理。”</p>
+<p>太上皇徐徐问道：“你觉得宋人喜欢蹴鞠吗？”</p>
+<p>赵佶说：“蹴鞠是大宋第一运动啊，宋人能不喜欢吗？”</p>
+<p>太上皇道：“现在蹴鞠的火爆，乃是虚火。上有所好，下必甚焉。因为你喜欢蹴鞠，所以下面人就投你所好，疯狂的往蹴鞠上砸钱。他们并不是喜欢蹴鞠，或者为了发展蹴鞠运动，而是为了从你——或者接近你的人那里，获得回报。”</p>
+<p>赵佶不服：“你说的这我明白。但有句话叫不问动机，只看结果。不管他们是为了取悦我还是别的，钱总归是投到蹴鞠上了，怎么连个响声都听不到呢？”</p>
+<p>太上皇道：“你知道大宋列祖列宗对蹴鞠的态度吗？”</p>
+<p>赵佶说：“这我能不知道吗？自太祖以来，大宋历任皇帝对蹴鞠都不甚上心，太宗曾言‘蹴鞠要从娃娃抓起’，但那不过是一句闲话，他老人家说过就忘了。真宗及之后的几位天子，闲来无事也就玩玩乒乓球这种性冷淡运动。您不喜欢运动，兴趣在学习外语和吹拉弹唱，谈笑风生……”</p>
+<p>太上皇说：“那不就得了。列祖列宗对蹴鞠的态度很明显：不提倡，不鼓励。神宗曾言，蹴鞠有什么好的，不就是二十多号人追着个皮球跑吗？缺点倒是不少。首先是占地太广，汴梁地价这么贵，一个标准蹴鞠场占地10亩，有这10亩地，能盖多少写字间？其次，对学子们来说，学好圣贤书才是正事，沉迷于蹴鞠，可能会影响科考成绩。科考可是千军万马过独木桥，你能在独木桥上玩带球过人吗？”</p>
+<p>赵佶沉吟不语。</p>
+<p>太上皇又道：“除此之外，还有个朝廷无法宣之于口的原因。现在木有旁人，就咱俩，倒是可以跟你说说。</p>
+<p>自从太宗之后，大宋进取之心渐泯，维稳成为基本国策。30人以上的集会便需向衙门报备，蹴鞠比赛上场踢球+场下看热闹的，很容易超过30人。万一这些人中间有包藏祸心的捣乱分子，怎么办？<strong>即使蹴迷都是良民，并无颠覆朝廷之意，单单这么多人聚在一起，就足以令官府不安。光是为了有关衙门管理上省事儿，就不能多建蹴鞠场，建了也要上把大锁，把蹴鞠迷拒之门外。</strong></p>
+<p>我们赵氏治国，不纯任儒教，而是以霸王道杂之，血液里流淌着法家愚民弱民的DNA。蹴鞠比赛参与人数多，组织要求高，<strong>要是那些布衣草民经过蹴鞠的训练，改变了一团散沙的原子状态，成立了自治的民间组织，长此以往，庙堂与江湖势力消长，难保国将不国</strong>，必须防患于未然。”</p>
+<p>太上皇喝了一口茶，继续说道“当然，这话不能放在明面上说，朝廷也未曾形之于文字，但它确实是一种思维方式主导下的必然结果。”</p>
+<p>赵佶争辩道：“可我并无意改变赵氏的治国方针，只是想改革一下小小的蹴鞠啊！”</p>
+<p>太上皇嘴角浮现出一丝嘲笑：“你真是乃伊夫！蹴鞠之于大宋社会，就像脚趾头之于整个人体，浑然一体，不可分割。<strong>蹴鞠运行的逻辑，就是大宋社会运行的逻辑。换句话说，改革蹴鞠，就是在改革大宋社会。你以为你是在革除蹴鞠之弊，其实是在挑战整个社会的运行规则！”</strong></p>
+<p>赵佶被太上皇的话震得一时说不出话来。</p>
+<p>太上皇叹口气，道：“受<strong>固有思维支配的大宋社会，对开展蹴鞠运动自然而然会发生抵触和反对，这出自本能，就像是条件反射，甚至无须衙门发出指令。”</strong></p>
+<p>赵佶低下头去，用近乎耳语的声音咕哝道：“我就这样认输吗？不甘心啊！”</p>
+<p>太上皇道：“你只能认输。这是我们的宿命，你更改不了，我也改不了。<strong>不仅是蹴鞠，任何与这种思维方式相悖的行为，都像是在一间布下50万个捕鼠夹的小房间里带球，脚趾头一动，就会响起“啪”的一声。</strong>”</p>
+<p>第二日，道君皇帝亲临世乒赛现场，面对采访镜头，亲口说出：“我最喜欢的运动，是乒乓球……”</p>
+<p><strong>附作者转载要求：</strong></p>
+<p>原创文章，转载请附下面的二维码，并于正文前显著处注明来源、微信公众号ID(zaraghost)、作者，否则视为侵权，必找你麻烦<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg" rel="attachment wp-att-430503"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg?resize=400%2C184" alt="花儿街参考" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/花儿街参考.jpg?resize=300%2C138 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/花儿街参考.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E5%A4%A7%E5%AE%8B%E8%B9%B4%E9%9E%A0%E6%94%B9%E9%9D%A9%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%B1%E8%B4%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%B3%E7%90%83%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">足球大跃进</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%A9%86%E8%BF%AA%E8%B0%83%E4%BD%8E%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%BC%BA/" target="cdt-mirror">自由亚洲｜穆迪调低中国主权信用评级 中国官媒强烈反弹</a>
 </h2>
 <p><p>国际信用评级机构穆迪调低中国主权信用评级，引发中国官方强烈反弹。中国官员和官方媒体接连批判穆迪“没有远见，恶意唱衰”，引发热议。有评论认为，中国官方的过激反应是因为在现有体制下，中共掌管一切，穆迪此举在中国当局的眼中等同批评中共管治不力。</p>
@@ -44,7 +92,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7/?category=18271" rel="tag">信用评级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E5%85%89%E8%80%80/?category=18271" rel="tag">朱光耀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E8%BF%AA/?category=18271" rel="tag">穆迪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%98%9F%E6%96%97/?category=18271" rel="tag">胡星斗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9%E5%8F%AF%E8%83%BD%E4%BB%85%E4%BB%85%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%A3/" target="cdt-mirror">纽约时报｜供给侧改革可能仅仅是习近平的一个口号</a>
 </h2>
@@ -125,7 +173,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津大爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%A4%E4%BA%86%E4%BA%BA%E6%97%A5%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B6%E4%BB%96%E5%85%9A%E5%A7%93%E5%AA%92%E4%BD%93%E5%BF%83%E7%B3%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%98/" target="cdt-mirror">除了《人日》，还有哪些其他党姓媒体心系日本女优？</a>
 </h2>
@@ -651,34 +699,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%BB%E5%A4%A7%E7%82%AE%EF%BC%81%E6%81%AD%E5%96%9C%E4%BD%A0%EF%BC%81/" target="cdt-mirror">中国茉莉花革命｜任志强任大炮！恭喜你！</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k1aaaaaaaaaaaaaaaaaaaaa.jpg?resize=450%2C333" alt="k1aaaaaaaaaaaaaaaaaaaaa" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k1aaaaaaaaaaaaaaaaaaaaa.jpg?resize=300%2C222 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k1aaaaaaaaaaaaaaaaaaaaa.jpg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>任大炮，你光顾你自己放大炮，你也让我们过一把投票的瘾，我们不怕过一把就死！</p>
-<p>任大炮！你干脆就带领我们挑战下一届国家主席吧！让我们也过过投票的瘾。</p>
-<p>恭喜“大炮”：党媒让你一夜天下闻名</p>
-<p>在中共体制内之人中，你以敢说话表明个人观点获“大炮”之名。所谓“大炮”，声音响、震动大之器也。当然，对“大炮”一说，言论界毁誉并存，就像所谓“能量”本是物理学概念，是标量而非矢量，无正负之分，但有人就是要用于政治并分出正负来。“大炮”在自认为代表“正能量”的一方的语境里，是不讲党性、组织性，乱说话，大声说话的代名词。在民间，则是不唯权，不唯上，敢说话，说实话的美誉。就思维模式与语言风格论，无论毁誉，说你是“大炮”，名至实归。</p>
-<p>据说，你有 3000 多万粉丝。够牛？中共建党 90 多年，垄断权力、财富、真理 60 多年，也只有 8500 万党员。区区一个你，仅仅开了微博，隔三差五的放放“炮”，短短数年之间，就拥有 3000 多万拥趸，这是怎样响亮的“大炮”啊！你这样的影响力，叫中共情何以堪？</p>
-<p>你最大的一炮，当数几天前的“政府怎么变成党的了？花的是党费吗？”这一炮，捅了“马蜂窝”。最高领导刚刚视察三大国家级媒体，作出“党媒姓党”的“最高指示”，你就放了这么一炮，你让最高领导的威信何在？你一个“优秀共产党员”，不做党的驯服工具，“妄议”党的最高领导指示，在党中央就是党，党的最高领导更是党的党性原则下，你这不是反党是什么？你可能不服，但现实就是这样，党说你反党就是反党。因为在党国，党，不仅是权力、财富，还是真理。当然，这个真理，建立在权力、财富之上。</p>
-<p>记住，对你的进攻不是几家党媒之举。党媒是什么？几只狗而已。对谁起吠，那是看主子眼色的。</p>
-<p>但是几天下来，党媒们发现，不管它们的炮火多么猛烈，不管它们穷尽了“弹药库”所有最霸道、最蛮横、最党性、最正能量的舆论语言，依然对你这□“大炮”的威力无损。你随便一下的反击，都让它们的火力显得苍白无力，只因为你的身后站着 3000 万拥趸。几家党媒有几个人？即使垄断了所有的高音喇叭，又算什么呢？即使 8500 万党员，在 14 亿老百姓面前，又算什么呢？况且， 8500 万党员中，有多少是真正站在党媒一边真说不定，你也是党员，而且是优秀党员，你不也站在党媒的对立面吗？还有，你看前苏共倒台的时候， 2500 万党员在哪里呢？人心不是一个登记数字，力量往往隐于无形。</p>
-<p>于是，它们能做到，也就是封杀你的声音。让这场论战成为只准州官放火，不许百姓点灯的闹剧。只有这样，它们才能显得胜利，哪怕是自欺欺人的胜利，哪怕是极其下流卑鄙的胜利。</p>
-<p>但是，我们要恭喜你任先生。你因此将真正成名。过去，你有 3000 多万拥趸，今天，因为它们对你的围攻、封杀，你讲因此拥有更多的拥趸。而我，一个进入“耳顺”之年的人，就是从今天开始站在你身后的人，这样的人从今天起会越来越多。 8500 万算什么，我们是 14 亿。</p>
-<p>恭喜你任先生，如果说，你过去只是一个党党员，那以后，你已经是一个公民。你们的党不在乎多一个少一个党员，我们很需要更多你这样的公民。你们党以你为耻，我们以你为荣。即使你再不能发出声音，你过去的声音已经唤醒了无数人，历史将铭记你的贡献。</p>
-<p>恭喜你任先生，如果说，过去只有 3000 万粉丝知道你，那今天全中国都知道了你，全世界也将知道你。你过去是网络蜚声，今天是扬名天下。天下姓什么？姓民。人民不灭，你就不朽。那些现在趾高气扬的东西，将来算什么呢？──历史的垃圾而已！</p>
-<p>任先生，我不知道，下一步你还会面临怎样的遭遇，也许会开除你的党籍，也许会剥夺你的自。由，也许。。。对专制政权来说，只有我们想不到的，没有它们不敢做的。但是请相信，不论何时何地，我们永远与你站在一起，人民与你站在一起。</p>
-<p>最后，谨以此文向一切任先生一样的仁人志士致敬。</p>
-<p>来源：网络</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%EF%BD%9C%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BB%BB%E5%A4%A7%E7%82%AE%EF%BC%81%E6%81%AD%E5%96%9C%E4%BD%A0%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -690,7 +710,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -700,5 +720,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

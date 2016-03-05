@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/" target="cdt-mirror">枫行天下｜秦枫：西藏代表团戴习近平像章</a>
+</h2>
+<p><p>【编者注】香港卫视秦枫的微信公号“枫行天下”原文已被和谐，以下内容来自网民保存：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A01-1.jpg" rel="attachment wp-att-430988"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A01-1.jpg?resize=425%2C756" alt="习近平像章1" data-recalc-dims="1"></a></p>
+<p>西藏自治区人大代表</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A02.jpg" rel="attachment wp-att-430980"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A02.jpg?resize=525%2C394" alt="习近平像章2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章2.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章2.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A03.jpg" rel="attachment wp-att-430987"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A03.jpg?resize=425%2C756" alt="习近平像章3" data-recalc-dims="1"></a></p>
+<p>3月5日，第十二届全国人民代表大会第四次会议举行开幕会。在代表团入场现场，香港卫视记者观察到，西藏代表团各代表和工作人员胸前都别有两枚像章。一枚是印有毛泽东、邓小平、江泽民、胡锦涛、习近平5人像章，另一枚是习主席个人的像章。记者询问得知，只有西藏代表团配发这两枚像章。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A04.jpg" rel="attachment wp-att-430979"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A04.jpg?resize=425%2C566" alt="习近平像章4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章4.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章4.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p>西藏电视台工作人员</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg" rel="attachment wp-att-430978"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg?resize=425%2C566" alt="习近平像章5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p>来自青海代表团的人员则没有这两枚像章，新疆代表也没有。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A06.jpg" rel="attachment wp-att-430986"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A06.jpg?resize=425%2C566" alt="习近平像章6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章6.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章6.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p>青海代表团人员</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A07.jpg" rel="attachment wp-att-430985"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A07.jpg?resize=425%2C566" alt="习近平像章7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章7.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章7.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p>青海代表团人员</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A08.jpg" rel="attachment wp-att-430984"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A08.jpg?resize=425%2C756" alt="习近平像章8" data-recalc-dims="1"></a></p>
+<p>新疆人大代表</p>
+<p><strong>更多现场报道，请关注本人微信号。谢谢。（长按二维码，选择“识别图中二维码”即可关注。）</strong></p>
+<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9E%AB%E8%A1%8C%E5%A4%A9%E4%B8%8B.jpg" rel="attachment wp-att-430989"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9E%AB%E8%A1%8C%E5%A4%A9%E4%B8%8B.jpg?resize=245%2C245" alt="枫行天下" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?w=430 430w" sizes="(max-width: 245px) 100vw, 245px" data-recalc-dims="1"></a></strong></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@北外乔木：西藏团给所有代表委员和随行人员配发胸章，这个做法应该全国推广。中华民族的这个优良传统已经失传30多年，不能让朝鲜一枝独秀。</p>
+<p>@巴楚渔樵: 像章应该别到肉里，才能表达忠诚。五人像章分散忠诚，不符合核心概念，文革中绝不允许五人这样的事情发生。</p>
+<p>@精神贵族一族：不打自招，他们代表领袖。</p>
+<p>@精神贵族一族：不打自招，他们代表领袖。</p>
+<p>@相尋夢里花：嗯，天安门上也该挂起</p>
+<p>@巴楚渔樵: 像章应该别到肉里，才能表达忠诚。五人像章分散忠诚，不符合核心概念，文革中绝不允许五人这样的事情发生。</p>
+<p><a href="http://weibo.com/5829001812" target="_blank">@皮革鞋盒3</a>：西藏政治嗅觉不灵敏，这胸章只能是一个人的照片。。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p>@一心二眼：庆封帝威猛。</p>
+<p>@崔小平律师: 开啥会？点赞网络即可，环保。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">西朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E5%A4%A7%E5%AE%8B%E8%B9%B4%E9%9E%A0%E6%94%B9%E9%9D%A9%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">花儿街参考｜大宋蹴鞠改革为何会失败</a>
 </h2>
 <p><p><strong>微信公众号：花儿街参考（ID：zaraghost）<br>
@@ -669,36 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%8E%8B%E4%BA%9A%E5%86%9B%E4%B8%8A%E6%B5%B7-%E7%9A%84%E6%A3%80%E8%AE%A8%E4%B9%A6/" target="cdt-mirror">墙外楼｜@王亚军上海 的检讨书</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/e2e5e9dejw1f1h9fqxmh2j20jz0zkjug.jpg?resize=550%2C979" alt="e2e5e9dejw1f1h9fqxmh2j20jz0zkjug" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/e2e5e9dejw1f1h9fqxmh2j20jz0zkjug.jpg?resize=575%2C1024 575w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/e2e5e9dejw1f1h9fqxmh2j20jz0zkjug.jpg?w=700 700w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>朋友们好，我就是@王亚军上海我之前的账号叫@王亚军北京，这一连串的销号禁言，我自问已经阉割了自己的舌头，不敢妄议，甚至不再腹诽！</p>
-<p>但是就算如此这般的自我阉割，（屌丝青年）订阅号还是在一篇吐槽之后被直接封杀了，这让我十分气愤，所以此号之前的文章都是写了很久没有发布过的，言辞犀利些，见谅。</p>
-<p>但我的微博@王亚军北京被销号之后的这个号，还是以广告为主，因为开了一家淘宝店，叫（亚军杂货铺），生意马马虎虎，勉强够我抽烟的，也多亏朋友们捧场，但即使如此，还是没逃脱被销号的命运，甚至这几天被各大官媒和门户网站刷屏式的批斗，是的，我觉得这就是批斗。</p>
-<p>有人说我是卖国贼，我思虑再三，没有那个能力，比令计划差很多，有人说我是汉奸，但我还住在这里，只期盼国家更好一点，没有把家人老小移民。有人说我造谣传谣，我笑一笑，所有帖子全部是我实名发布，自己从不删帖。</p>
-<p>突然来袭的大批判，让我不知所措，只是觉得我不能就此在网络上消失，那么，很多人会觉得我是畏罪消声了！</p>
-<p>姑且不论整篇通稿所提及的谣言跟我们这几个账号一丝关系没有，就是那一个反宪法的帽子扣上脑袋，我不禁要问：你国有这玩意儿可以反吗？</p>
-<p>要说言论扰乱秩序问题，城管打人我骂一句不对吗？强拆伤人我表示气愤不许吗？医疗抢劫我表达愤慨不让吗？还有医院自己发通稿说：医院没有号贩子！！别说是可忍孰不可忍，他妈的我二大爷也不可忍啊！‌‌“说‌‌”几句也不对吗？</p>
-<p>哦，你说对官员的腐败抹黑？我所说的哪句话不是你们官方发布在‌‌“合法‌‌”渠道的？昨天你们发表《一个市长的反腐风暴》今天就发表《一个巨贪市长的堕落》你怪我咯？上条微博写着《嫖宿幼女106人的禽兽小学校长》下一条就看到这人调到其他中学上任！怪我咯？前面呼吁大家捐款捐物，后面爆料郭美美的新车，怪我咯？</p>
-<p>这一切都怪我咯？都怪这群说点真心话的网络大V喽？</p>
-<p>说实话，你们被强拆关我屁事？你们被法律冤枉关我屁事？你们被医疗事故关我屁事？你们被城管追打关我屁事？你们被P2P骗钱关我屁事？你们要延迟退休关我屁事？还有三胖死不死关我屁事？被谁侵占了国土关我屁事？央视姓啥关我屁事？</p>
-<p>油价涨不涨我都加得起，食品毒不毒我也分得清！亚军行走江湖二十多年，敢说没被骗过一分钱！当然，被抢劫总是合法的…..</p>
-<p>虽然这些问题我都没‌‌“摊上‌‌”，但这一切却都是我的错……</p>
-<p>我承认我错了，你们这群人死不死活不活的，真的不应该有任何人去关心，你家里死不死人耽误我吃一块儿肉吗？挡我Wi-Fi信号了吗？影响我喝酒了吗？亚军一年自费旅游七八万的机票钱，不算吃喝玩乐住宿的！</p>
-<p>每每看到那些蒙冤受辱的人发帖子艾特哪些娱乐明星就会有想抽人的冲动，傻逼，王宝强他亲戚不出车祸你认为他会上网说这句‌‌“操你妈‌‌”别逗了！你觉得‌‌“他们‌‌”会为了你的死活呼吁有关部门关注？别傻了！你觉得自己对‌‌“他们‌‌”的关注和支持会得到‌‌“垂怜‌‌”一般的感动？你出门记得吃药吧，要不干脆省点药钱，放弃治疗也算是为国家环保事业做的贡献！傻逼！</p>
-<p>呵呵不说了，我活该！我有罪，我他妈的就是多嘴了，犯贱了！</p>
-<p>骂我的人，祝你们一生幸福平安，健康快乐，别摊上事儿！</p>
-<p>这就算是我，老王–‌‌“互联网名人‌‌”王亚军的忏悔吧……<img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/0981grey.gif" alt="" data-recalc-dims="1"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E7%8E%8B%E4%BA%9A%E5%86%9B%E4%B8%8A%E6%B5%B7-%E7%9A%84%E6%A3%80%E8%AE%A8%E4%B9%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%9A%E5%86%9B/?category=18271" rel="tag">王亚军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -720,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

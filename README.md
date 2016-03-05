@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/430999/" target="cdt-mirror">美国之音｜中国加紧媒体管控 去年关闭近三万家网站</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg" rel="attachment wp-att-431001"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?resize=425%2C567" alt="c2d82fa9jw1f1l2utuctnj20qo0zk43n" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?resize=768%2C1024 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?w=960 960w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br>
+（袁裕来律师今日<a href="http://chinadigitaltimes.net/chinese/2016/03/50%E5%B9%B4%E5%90%8E%E7%9A%84%E4%BB%8A%E5%A4%A9%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%84%E4%B9%A6/">被“抄”书</a>时，有关部门填写的部分“证据清单”）</p>
+<p>华盛顿 — 中国“扫黄打非”办公室3月4日宣布，在2015年中国各地共关闭网站两万八千家，<strong>此外还有1500万件出版物被收缴</strong>。观察人士说，中国当局正在加紧对媒体的管控。</p>
+<p>据中国官方媒体报道，这些网站因含有色情或其它非法信息而被关闭。</p>
+<p>除了对网络和出版物大力查处、监控之外，中国官方最近几个月在影视剧、社交媒体、纸质媒体等领域也不断加强管控。此前中国电视剧制作产业协会与中国广播电视联合会共同制订的《电视剧内容制作通则》对电视剧、网络剧的内容、题材等方面做出了详细的限制，并将一些违反规定的热门网络剧强制下架。</p>
+<p>在社交媒体领域，中国网信办在“两会”前夕关闭了一批官方认定的发布违法违规信息的网络“大V”账户。</p>
+<p>前不久中国《南方都市报》编辑因将有关习近平的新闻标题“媒体姓党”和另一则新闻的标题“魂归大海”排版在一起而遭到开除处分。</p>
+<p>对于中国国内连续的媒体管控的举动，明镜新闻出版集团总裁何频表示这是中国当前社会进入“神经错乱”状态的表现。</p>
+<p>何频说：”这是它必然的结果。叫‘神经错乱’。因为它整个执政的一方面要跟西方、跟世界接轨，但是另一方面，它又要坚持所谓党的利益。它不仅仅是一个意识形态的争论的问题，而且是有一种利益的关系在一起。（党）采取政策的杠杆，利用所谓的文件、政策让那些市场化的媒体，市场化的企业不能生存，要保证党的信息工具的利益。“</p>
+<p>此外，在谈到任志强微博遭到官媒炮轰的问题时，何频认为党媒一直都姓党，这个事实从来没改变过。</p>
+<p>何频说：“其实这个媒体从来就是姓党的，它从来就没有姓过人民。什么时候姓过人民啊？没有过嘛。没有过的事情你为什么今天的反应好像人家讲这个媒体姓党大家就不舒服了？我觉得很奇怪。这个媒体从来就是姓党的，姓党的东西从来没改过。难道胡锦涛时代它就姓人民吗？江泽民时代它就姓人民吗？没有啊。这个媒体从来都是党的信息工具啊。”</p>
+<p>加州大学伯克莱分校教授、中国数字时代创办人萧强认为，一个能够更加自由表达、自由获取信息的网络会让中国变得更好。</p>
+<p>萧强说：“很多人都意识到，一个更有创造力、表达更加自由、获取信息更加自由的网络会让中国社会变得更好，让中国最终能够成为一个更强大的国家。即使你把网络只当作一个技术工具或是商业工具，但生活在没有谷歌、没有脸书、没有这没有那还要被审查的网络环境中是看不到好的未来的。这样的互联网主权也不会有很好的未来。”</p>
+<p>面对越来越严格的审查制度，越来越多的网站、电视剧被屏蔽、下架，很多网民感到不满，有网友问：“我们现在还能看什么？ ”其他网友答：“还有新闻联播。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/430999/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E6%9D%90/?category=18271" rel="tag">洗脑教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/" target="cdt-mirror">枫行天下｜秦枫：西藏代表团戴习近平像章</a>
 </h2>
 <p><p>【编者注】香港卫视秦枫的微信公号“枫行天下”原文已被和谐，以下内容来自网民保存：</p>
@@ -674,38 +698,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E6%80%81%E9%80%82%E5%BD%93%E6%97%B6%E5%80%99%E5%B0%86%E7%BB%93%E6%9D%9F%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/" target="cdt-mirror">【习总日记】 习近平表态适当时候将结束一党专政</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（ 2016 ， 3 ， 2 ） </p>
-<p>两会召开，外国媒体蜂拥而至。</p>
-<p>今天在接受外国媒体采访时记者问：有人认为腐败会迫使中共结束一党专政。请问习近平总书记，您怎么看待这个问题？ </p>
-<p>我回答：前三十年我们完成了从资本主义到社会主义改造，后三十年我们完成了从毛主席的社会主义到邓小平的中国特色社会主义改革开放。现在是第三个三十年，中国共产党将在我们这一届党中央领导下，完成从一党专制到两党轮流执政的政治改革。这是政治改革，当然，还有其他一系列社会改革。如小康社会，法制社会，和完成民族复兴，实现中国梦等。 </p>
-<p>记者问： 现在确实有人不喜欢共产党领导。而且近年来，不喜欢的人还在增多。请问这是为什么？ </p>
-<p>我回答：人是理性的，也是感性的。一种产品使用久了，会萌生换换口味的冲动。有些人想换党做做可以理解。但最近民调显示， 98% 以上的人民是拥护共产党拥护我的。《嫁人要嫁习大大》在中国妇女中间广为传唱，《做男人要做习大大》深受中国男性欢迎。 </p>
-<p>记者问：现在共产党确实是在反腐了。但是，反腐是为了什么？是为了保卫老百姓的利益，还是为了借几颗脑袋稳住民众之心，以保住共产党的执政地位，甚至只是为了保住祖传的社稷？ </p>
-<p>我回答：说我们“确实在反腐”很惭愧。如果真的反腐，中国早就崩溃了。为何？因为 95% 的领导干部都存在不同程度的贪污腐败。我们内部制定了标准，根据不同级别贪污多少划条红线，红线以上抓，红线以下不抓。但即使红线以下，甚至是大清官，只要曾经在公开场合表达对我个人的不满，马上抓。 </p>
-<p>记者问：中共宣传说，“无论中国共产党犯过什么错误，无论共产党中出现了多少腐败分子，你们作为中国的公民都不要和共产党过不去。”现在还有多少人会照着做？ </p>
-<p>我回答：历史上，人民曾经作过选择，共产党执政确实是人民选择的结果。他们现在即使后悔也晚了。除非再发生一次内战，人民便可以有第二次机会选择。但似乎很遥远。 </p>
-<p>记者问：你们还说，“网络上出现了许多偏激的文章，这些文章置建国以来尤其是改革开放以来中国的巨大成就而不顾，一味列数共产党的种种错误，条条罪状，条理分明，数据详细”。真是如你们所说的吗？ </p>
-<p>我回答：过去看重我党的优点，现在看重我党的缺点。其实党没有变，是人民的眼光变了。问题不在我们，而在人民。他们越来越不满足吃饱穿暖住新房。人性是贪婪的。 </p>
-<p>记者问： 你们还说，“离开了共产党，中国必乱，中国一乱，遭殃的是你们老百姓。”这话不能不唤起我们对文化大革命的记忆。十年天下大乱，抗日战争不过打了八年。十年内乱确实是在共产党领导下发生的。总结得够了吗？ </p>
-<p>我回答：事实上，中国还真没有离开过共产党的领导，成绩是共产党的，同理，出了乱子，共产党应该负责。所以，我们要负责到底，要牢牢掌握控制政权到底，不给他人任何机会。 </p>
-<p>记者问： 有人说，“无论是威望和执政能力，中国还没有任何党派和力量能够取代共产党”。共产党不应反对、限制、打击中国社会其他也想在推动中国社会发展中起作用的其他社会组织和力量。 </p>
-<p>我回答：八个民主党派只是花瓶陪衬，很多人不满意。所以我们正在扶植培养党内反对党。譬如先把薄熙来关进秦城监狱，最近又在制造条件扶植任志强。我们计划在不远将来从中国共产党中间分裂出另外一个共产党，可以叫中国民进党。这样，左派的共产党和右派的民进党良性竞争互动，实现类似西方两党轮流执政的模式，至少可以在形式上接近其他发达国家政治模式。 </p>
-<p>记者问：骨子里还是共产党领导？ </p>
-<p>我回答：对。但要变化，根据新的形势变化。一句话，人民需要娱乐，尤其是喜欢看变戏法。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/09/%E9%B3%A9%E9%B5%AA%E4%BA%9E%E9%BB%83%EF%BC%9A%E4%B9%A0%E6%80%BB%E6%9C%80%E9%9C%87%E6%92%BC%E6%9C%89%E5%8A%9B%E7%9A%84%E6%BC%94%E8%AF%B4-e1424929460667.jpg?resize=550%2C413" alt="鳩鵪亞黃：习总最震撼有力的演说" data-recalc-dims="1"><p>鳩鵪亞黃：习总最震撼有力的演说</p></div>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E6%80%81%E9%80%82%E5%BD%93%E6%97%B6%E5%80%99%E5%B0%86%E7%BB%93%E6%9D%9F%E4%B8%80%E5%85%9A%E4%B8%93%E6%94%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -717,7 +709,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +719,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

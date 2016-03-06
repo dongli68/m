@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%E6%99%9A%E5%AE%B4/" target="cdt-mirror">端传媒 | 中国房地产的最后一餐晚宴</a>
+</h2>
+<p><p>特约撰稿人 李雪娜 发自深圳</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%889.48.38.png?resize=553%2C367" alt="Screen Shot 2016-03-05 at 下午9.48.38" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.48.38.png?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.48.38.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>上海一个房地产展览交易会，到场的市民在观看楼房的模型。摄：China Photos/Getty</span></p>
+<blockquote><p>2016年，中国一线城市和部分二线城市房价的出现逆势井喷，此轮上涨是昙花一现还是楼市变天？过快上涨房价将对中国经济带来怎样的影响？</p></blockquote>
+<p>最近中国楼市又疯了。</p>
+<p>2月，上海的住宅成交金额前50名之中，只有8个楼盘的均价低于3万元/平方米。两个月之前，上海的平均楼价还仅约2万元/平方米。南京、杭州、苏州等核心二线城市紧随其后频现排队疯抢的购房热潮，“日光盘”层出不穷。深圳，则刚刚经历过2015年全年房价涨幅超过48%的疯狂！</p>
+<p><strong>政策刺激是主要推手</strong></p>
+<p>上述一线城市和部分二线城市楼价的突然爆发，有迹可循。中原地产首席分析师张大伟接受端媒体采访时表示，2015年四季度以来，政府推出一系列地产救市政策，直接带动市场回暖。再加上宽松的货币政策、高净值人群资产配置需求等多种因素叠加，大量资金流入楼市，推动了中国一线城市和部分二线核心城市房价疯涨的局面。</p>
+<p>过去两年，在经历了过度开发之后的中国房地产业面临巨大的“去库存”压力。来自国家统计局数据，全国商品房待售面积从2010年的1.06亿平方米直线上升至2015年的4.5亿平方米。但同时房地产景气指数却一路下滑，从2010年的102下滑到2015年的93.3。</p>
+<p>在总体经济一路下行的情况下，经济学家马光远在2015年底发表的一篇题为《2016年，这几个城市的房价会大涨》的文章中判断：2016年中国经济的总体温度仍在寒冬，而房地产是否稳定，将成为中国经济的胜负手。基于此，政府对房地产去库存的政策力度将超乎想象，在帮助农民工买房的同时，一系列政策组合拳还将包括首付回到20%、营业税、个税、契税的完全减免、政府回购、公积金扩容以及更大力度的财政补贴等。</p>
+<p>马光远坚称，政府一定会救市：“100%会救，1000%会救……如果这个世界上只有一种爱是真爱，那一定是中国政府对房地产的爱！”</p>
+<p>不出所料，今年2月份以来，中国政府密集推出一系列房地产救市政策：</p>
+<p>2月2日，央行出台首套房的房贷政策，不限购城市的房贷首付从3成降至2成；2月17日，央行再次发布消息，上调职工住房公积金账户存款利率；2月19日又迎来营业税、契税的减免……政策利好刺激不断。</p>
+<p>宽松的货币政策亦是背后重要推手之一。兴业证券首席房地产分析师阎常铭在最近的一次小型论坛上分析认为，人口、年龄结构、人均居住面积、房价收入比等，都不是房地产大周期的决定性因素，房地产的本质是货币现象。“中国房地产大周期还没见顶的情况下，小周期只要货币持续放水，主要城市的房价就必然持续上行”， 阎常铭说。</p>
+<p>近日，中国人民银行决定自2016年3月1日起，普遍下调金融机构人民币存款准备金率（简称“降准”）0.5个百分点，以保持金融体系流动性充裕，引导货币信贷平稳适度增长。这是2015年10月24日以来首次全面降准，之前降准大都是下降0.25%，小幅多次下调，这次一步到位下调0.5%，“放水”的力度之猛超过预期。按标普测算，0.5%降准释放的流动性约为6000-7000亿。</p>
+<p>但阎常铭分析认为，一线城市房价持续暴涨的趋势，其实早在2014年9月30日之后的降息政策发布即已开始。自2014年下半年以来，中国央行先后经历了六次降息、五次全面降准，贷款利率下降幅度超过40%，此前偏紧的市场流动性得到彻底释放。</p>
+<p>来自中国央行的数据显示，M1、M2增速自2015年4月期上升显著，尤其M1增速已经接近20%，至2016年1月，信贷创出2.5万亿的天量，引发广泛关注。</p>
+<p>如此天量的资金会流到哪里去？无非是实体经济、股市和楼市。但同样来自中国央行的数据显示，随着过去几年中国实际GDP的持续下降，中国实体经济收益下降明显，上市非金融企业的投入资产回报率已由2011年的9%下降至5%左右。与此同时，房价上涨的一线城市所在的商业银行，则大幅度增加按揭贷款占总贷款的比重。以2015年为例，深圳、上海和北京按揭贷款分别新增2135亿、1540亿和1373亿，总和就占到去年新增总按揭贷款的19%，也占到全国总新增贷款规模的近5%。</p>
+<p>以上数据足以说明，放量资金以按揭贷款的方式流入了楼市，并带来金融杠杆的放大。</p>
+<p>同时随着今年2月份央行推出非限购城市首套房首付比例由原来的3成降至2成的救市政策，这也意味着相当于购房者可以用5倍杠杆购房，加上期间许多房屋中介和地产商联合银行向购房者推出的首付贷、税费贷款等多种小额贷款服务，进一步加大了购房的杠杆比例。</p>
+<p><strong>“投资荒”加大楼市吸虹效应</strong></p>
+<p>同策咨询研究中心总监张宏伟补充认为，高净值人群资产配置需求也是中国部分城市房价暴涨的背后主要推手。</p>
+<p>目前存款和房产投资仍然是中国居民的主要投资理财方式，其中存款占比为40%，地产类投资占比35%，其他如股票投资、债券投资总额相加亦不足20%。这一数据体现出中国过去十余年以房地产主导的经济发展形态，也体现出中国居民务实保守的投资理念。</p>
+<p>去年开始，股票市场一路走低，新年开局又接连经历黑色熔断机制调整，加上近期人民币兑美元、离岸汇率双双大跌，多重市场波动加剧更是引发中国投资人群尤其高净值人群对新一年财富保值增值的担忧。</p>
+<p>强烈的资产配置需求和实体经济的低迷直接引发了2015年的“资产荒”。“‘资产荒’并非缺乏资产，而是相比前几年，银行等金融机构难以找到高收益、低风险的资产进行配置”，张宏伟分析认为，在中国政府一系列楼市利好政策的助推下，房地产便又成为投资者再自然不过的投资选择。</p>
+<p>申万宏源最新发布的研究报告也强调了投资人群在资产配置需求方面对中国楼市的考虑：股市赚钱效应不足、固定收益类理财产品收益偏低，楼市本就因其稳定性和较强的资金吸纳能力受到青睐，不断上涨的房价更是促使投资者的资金更快流向楼市。2015年二季度以来一线城市中高端地产市场的迅速升温，即是明证。</p>
+<p><strong>中国经济泡沫被进一步推高</strong></p>
+<p>岭峰资本创始人、著名投资人乐贝斯在其微信公众号发表文章，指出虽然供需能解释一切表面的市场变化，但供需背后更深层次的原因才是决定性的因素。作为一种资本资产，房地产需要抵押借贷购买，价格受信用的影响巨大。过去十几年中国房地产的持续上行，主要是建立在中国整体经济模式正反馈循环中──也即中国信用大周期影响的水涨船高。</p>
+<p>但目前中国经济正反馈因素已经结束：出口与外商投资下滑明显、外汇占款减少，基础货币投放收缩，信用大规模扩张时代一去不再，随着这一切的结束，大的正反馈循环也已终止。目前的地价和房价上涨仅靠银行系统独自支撑。“央行可以降准降息，甚至印钞增加基础货币，但若不能推动存款变贷款，贷款变存款的正反馈”，再多的努力也无济于事。</p>
+<p>在接受端媒体采访的多位业内人士看来，无论租售比、收入比等基本面比较，中国城市房价的高估已成共识。那么，此轮上涨是昙花一现，还是楼市变天？过快上涨的房价将对中国经济带来怎样的影响？他们一致认为，无论政策如何刺激，房地产暴涨的日子已经成为过去，“这是中国房地产最后一次救市，也是中国房地产的最后一顿晚宴”。</p>
+<p>3月1日，新华社发表社论，提醒警惕一线城市房价非理性上涨。作为中共中央的官方喉舌，新华社此次发声，立场鲜明地表明了中央高层对此轮房价暴涨的担心。新华社指出，无论是一线城市还是周边，房价的过快上涨或意味着风险临近。而这对遭遇下行通道中的中国经济，无疑将是致命的打击。</p>
+<p>市场方面的担心更为明显。申万宏源发布的研究报告称，急速上涨的高房价会提升其他行业的经营成本，对于很多盈利空间不足的企业来说，近期快速上涨的房价也不是好消息；过快上涨的房价导致短期吸金效应也可能对其他行业形成抑制。</p>
+<p>报告分析认为，去年股市火爆时，大量资金脱实向虚，虽然短期的股市盈利充实了企业的利润报表，做大了企业的市值，但纸面财富终究会随着泡沫的破灭而烟消云散。楼市的好处在于其虚实结合，且价格波动相对较小，但大量资金在短期内涌向楼市对于实体经济也是弊大于利。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%E6%99%9A%E5%AE%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">高房价</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AF%9B%E8%91%B1%E8%AF%B4-%E4%BA%8E%E8%81%AA%EF%BC%9A%E6%88%91%E6%89%80%E4%BA%B2%E5%8E%86%E7%9A%84%E5%8C%97%E4%BA%AC%E6%8A%A2%E6%88%BF%E6%BD%AE/" target="cdt-mirror">毛葱说 | 于聪：我所亲历的北京抢房潮</a>
 </h2>
 <p><p>肚子一天天大起来，我和老公不得不考虑卖掉郊区的“花园洋房”，换到市里去，否则在市里上班的我们实在没有精力照料宝宝。做了这个决定3天，我们就把房子卖掉了。心里不舍，毕竟是我们在北京的第一个家，地板、橱柜、餐桌、沙发，所有的一切都是我和老公的心血，而又有什么办法呢，为人父母，第一课，就是责任吧。</p>
@@ -72,7 +114,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">北京房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">高房价</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8-%E5%88%9A%E9%9C%80%E8%BF%98%E6%98%AF%E5%BF%BD%E6%82%A0%E5%89%A7%EF%BC%9F/" target="cdt-mirror">德国之声 | 房价飞涨 刚需还是“忽悠剧”？</a>
 </h2>
@@ -287,7 +329,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E3%80%8B/?category=18271" rel="tag">《反家暴法》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%93%B6%E6%B2%B3/?category=18271" rel="tag">李银河</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/430999/" target="cdt-mirror">美国之音｜中国加紧媒体管控 去年关闭近三万家网站</a>
 </h2>
@@ -713,34 +755,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%88%8A%E6%96%87%EF%BC%9A%E5%8D%83%E4%BA%BA%E4%B9%8B%E8%AF%BA%E8%AF%BA-%E4%B8%8D%E5%A6%82%E4%B8%80%E5%A3%AB/" target="cdt-mirror">精读党报 | 中纪委网站刊文：千人之诺诺 不如一士之谔谔</a>
-</h2>
-<p><p>3月1日，中央纪委网站“廉史镜鉴”栏目刊文，《千人之诺诺，不如一士之谔谔》，作者雷斯。</p>
-<p>文章讲述了唐太宗李世民和魏徵的故事，强调“能否广开言路，接受建议，常常决定一个朝代的盛衰”。</p>
-<p>文章说，周厉王不听召公谏言，还要止谤路人，最终民怨沸腾，冲垮了周王朝的堤坝。秦二世时赵高在朝堂之上指鹿为马，满朝公卿唯唯诺诺，少数说真话的人被一一清除，秦二世周围再无忠臣。</p>
-<p>“不怕有人说错话，就怕有话都不说。大凡成就大业者，往往虚怀若谷，从内心深处愿意倾听不同意见。”</p>
-<p>具体到中国共产党，文章说，从历史上看，中国共产党历来反对“谁人背后无人说，哪个背后不说人”的庸俗哲学，主张有话放到台面上说，以当面锣对面鼓的批评求得肝胆相照的真团结。无论党内还是党外，都尽可能广泛地倾听意见，了解真实情况，保证决策的科学性和正确性。</p>
-<p>“我们党对待批评的基本态度，是就事论事，对事不对人，实事求是，分清是非，最忌从恩怨、得失、厉害、亲疏出发看事待人，用人为的芥蒂把意见和分歧推向工作的反面。”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/64068CRY3JL.jpg?resize=500%2C259" alt="千人之诺诺 不如一士之谔谔" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/64068CRY3JL.jpg?resize=300%2C155 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/64068CRY3JL.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><strong>全文如下：</strong></p>
-<p>一些领导干部因违纪违法受到处罚，几乎都谈到班子内部监督不够，说没人提醒我，如果当年有人咬咬耳朵，也不至于犯这么大的罪。小问题没人提醒，大问题无人批评，以致酿成大错，正所谓“千人之诺诺，不如一士之谔谔”啊！</p>
-<p>——习近平总书记在参加河北省委常委班子专题民主生活会时的讲话</p>
-<p>“千人之诺诺，不如一士之谔谔”，见于《史记·商君列传》，是战国策士赵良对秦相商鞅的谏言。赵良要投入商鞅帐下，提出了一个前提条件：“终日正言而无诛”，换句话说，就是整天说真话但不被打击报复。赵良还举了前代的两个典型例子，周武王身边不乏谔谔之士，最后能够成就大业；殷纣王周围都是趋炎附势之徒，最后亡国亡身。商鞅欣然接受了这个条件，并且进一步引申出“貌言华也，至言实也，苦言药也，甘言疾也”的道理。不过，后世对此理解最透彻的，就是唐太宗李世民和魏徵了。</p>
-<p>唐太宗李世民和魏徵的关系，好比齐桓公和管仲的关系。魏徵是当年隐太子李建成的洗马，还曾经劝李建成早点干掉李世民。他能够在刀光血影的玄武门之变后全身而退，并且得到昔日仇敌、今朝新君的圈子得到重用，最应该感激涕零。可这个魏徵偏偏不招人待见，屡犯龙颜、逆圣听，给唐太宗来了个《十思疏》，条条框框地耳提面命，一点没有摆正自己的位子。身为谏官，大面上提提意见也就罢了，偏偏还要事无巨细。唐太宗要把中男以上十八岁者纳入兵役，魏徵死也不肯签署，还当着百官的面据理力争，说出一套“竭泽而渔、明年无鱼；焚林而畋，明年无兽”的道理来，逼得唐太宗收回成命。朝堂之上也就罢了，偏偏还管帝王家事，连太宗嫁女儿陪多少嫁妆，对某个皇子表示一下恩宠，这些百官都不过问的私生活，魏徵却要多事，说什么于礼不合之类，常整得唐太宗面红耳赤下不来台。</p>
-<p>莫说文治武功，就论从谏如流的容人之量，秦始皇以来的帝王中找不出第二个可以同唐太宗比肩的。饶是如此，魏徵依然不依不饶，整天围着皇帝耳朵边不断提醒他注意纳谏：说得好您要听，说得不好您也要听，水平高的要听，水平低的也要听，不然大臣们谁敢说话呢？有一次更是直截了当批评：您现在纳谏态度可不如当年了，贞观之初您求谏若渴，唯恐人家不说话；后来也能高兴地听从谏言；现在依然纳谏，但经常流露出不高兴的脸色，让臣子们都看在眼里。身边有魏徵这么一个家伙，要是一般人恐怕连上朝的兴趣都没有了。</p>
-<p>唐太宗也不是没有怒过，一次退朝之后到长孙皇后那里撒气，嚷嚷着要把这个“乡巴佬”给办了。亏得皇后贤明，穿戴好典礼才用的正装，向皇帝下跪道贺他得到一个忠臣，这可是圣君的标志，才使得唐太宗转怒为喜。魏徵去世之后，太宗亲自祭奠，并留下了那段传颂千古的“三镜论”：以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失。魏徵就是第三面镜子。贞观十八年太宗征高丽失败后，感慨“魏徵若在，不使我有是行也”。</p>
-<p>中国文化讲求反求诸己、退恭自省，既要每日三省吾身，也要见贤思齐，向他人学习，虚心接受批评，从而正心修身、不断进步。孔子主张三人行必有我师，痛恨上下左右逢源的乡愿，尊敬像楚狂接舆、荷蓧老人这样的狂狷之士。他心目中理想的社会关系，是君子之间的和而不同、比而不周，而非小人之间的同而不和、周而不比。进入政治领域，理想的君臣关系，就是“君事臣以礼，臣事君以忠”。</p>
-<p>能否广开言路，接受建议，常常决定一个朝代的盛衰。我们的中学课本中就学过《战国策》中“邹忌讽齐王纳谏”的故事，历朝历代这方面的例子更是不胜枚举。周厉王不听召公谏言，还要止谤路人，最终民怨沸腾，冲垮了周王朝的堤坝。秦二世时赵高在朝堂之上指鹿为马，满朝公卿唯唯诺诺，少数说真话的人被一一清除，秦二世周围再无忠臣。官渡之战，袁绍拒绝田丰、沮授等人的逆耳忠言，曹操则广招贤士，虚心求教，连袁绍手下的谋士许攸也为曹操所用，最终击败袁绍一统北方。同样是曹操，在接下来的赤壁之战中却一意孤行，败走华容道后痛哭谋士郭嘉早死，致使身边无人劝谏自己纠正错误。建安七子之一的王粲，在《仿连珠》一文中，提出了“观于明镜，则瑕疵不滞于躯；听于直言，则过行不累乎身。”唐太宗的“三镜论”也许就脱胎于此。</p>
-<p>不怕有人说错话，就怕有话都不说。大凡成就大业者，往往虚怀若谷，从内心深处愿意倾听不同意见。明代大儒王阳明主政地方，出巡时让衙役打的牌子不是常见的“肃静”“回避”，而是“求通民情”“愿闻己过”，一时传为佳话。</p>
-<p>有国外人士认为，中国共产党有稳定的领导层，也有庞大的民众基础，具有“纵向民主”的特点——通过上下互动交流，个人平等参与组织活动，基于理性讨论达成有效共识，从而采取集体行动。从历史上看，中国共产党历来反对“谁人背后无人说，哪个背后不说人”的庸俗哲学，主张有话放到台面上说，以当面锣对面鼓的批评求得肝胆相照的真团结。无论党内还是党外，都尽可能广泛地倾听意见，了解真实情况，保证决策的科学性和正确性。我们党对待批评的基本态度，是就事论事，对事不对人，实事求是，分清是非，最忌从恩怨、得失、厉害、亲疏出发看事待人，用人为的芥蒂把意见和分歧推向工作的反面。延安时期，开明绅士李鼎铭提出“精兵简政”的建议后，不少人怀疑其动机不良，但毛泽东同志从人民利益和实际需要出发，以诚相待，将这个办法称为“改造我们的机关主义、官僚主义、形式主义的对症药”，带头进行充分的民主讨论并通过了精兵简政政策，对陕甘宁边区和敌后抗日根据地战胜困难、提高工作效率起了很大的作用。1949年革命胜利前夕，毛泽东同志讲到党委会的十二条工作方法，强调党委书记要当好“班长”、要把问题摆到台面上来、注意团结那些和自己意见不同的同志一道工作，这些思想历久弥新，体现了共产党人的胸襟气度。（雷斯）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%88%8A%E6%96%87%EF%BC%9A%E5%8D%83%E4%BA%BA%E4%B9%8B%E8%AF%BA%E8%AF%BA-%E4%B8%8D%E5%A6%82%E4%B8%80%E5%A3%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81/?category=18271" rel="tag">不同意见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%B9%E8%AF%84/?category=18271" rel="tag">批评</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -752,7 +766,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%90%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +776,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%90%8C
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

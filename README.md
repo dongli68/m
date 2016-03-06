@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%BA%89%E8%87%AA%E7%94%B1%E5%B0%B1%E6%98%AF%E4%B8%BA%E5%9B%BD%E5%AE%B6%E4%BA%89%E8%87%AA%E7%94%B1/" target="cdt-mirror">博谈网〖微博谈〗为个人争自由就是为国家争自由</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-9.jpg?resize=550%2C508" alt="20160306-bt (9)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-9.jpg?resize=300%2C277 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-9.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-10.jpg?resize=549%2C539" alt="20160306-bt (10)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-10.jpg?resize=300%2C295 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-10.jpg?w=606 606w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-8.jpg?resize=550%2C488" alt="20160306-bt (8)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-8.jpg?resize=300%2C266 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-8.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-7.jpg?resize=550%2C575" alt="20160306-bt (7)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-7.jpg?resize=287%2C300 287w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-7.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-6.jpg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-6.jpg?resize=300%2C240 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-6.jpg?w=606 606w" sizes="(max-width: 606px) 100vw, 606px" data-recalc-dims="1"><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-5.jpg?resize=551%2C438" alt="20160306-bt (5)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-5.jpg?resize=300%2C239 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-5.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-4.jpg?resize=551%2C414" alt="20160306-bt (4)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-4.jpg?resize=300%2C226 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-4.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-3.jpg?resize=550%2C436" alt="20160306-bt (3)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-3.jpg?resize=300%2C238 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-3.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-2.jpg?resize=548%2C530" alt="20160306-bt (2)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-2.jpg?resize=300%2C290 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-2.jpg?w=606 606w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"></p>
+<img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-1.jpg?resize=550%2C510" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-1.jpg?resize=300%2C278 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-1.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>（所有图片均来自网络）</p>
+<p>1. @罗昌平：昨天是两会第二天，诺奖得主莫言人如其名，没有直接回答，只说“我们吃饭”；演员张国立快步走过，避免与等在会议中心的记者交流；知名电影导演冯小刚试图在一顶棒球帽的掩护下离开会议厅；被问到任大炮的时候，冯小刚在唇前竖起一根手指，“嘘——”他悄声示意，之后走开。</p>
+<p>2. @骑桶人：政府想干的事，就说这是国际惯例，比如延迟退休年龄；政府不想干的事（什么事我就不说了），就说这是西方阴谋不能按他们说的来。大刘拿了雨果奖，立即国家领导人接见，转头还当了作协副主席，发言人还引用《三体》，感觉现在不说个《三体》名词都不好意思出来见人。某某拿了XX奖，国内却连提到不准提。</p>
+<p>3. zhihu：中国人享有哪些西方人没有的自由？干涉别人自由的自由。</p>
+<p>4. 章立凡：发展不是硬道理，民生才是硬道理。</p>
+<p>5. @hnjhj：赵国自打我有记忆开始就一直在改革。从中央到地方，改完这个改那个，改了一遍又一遍，感觉从来就没找到过谱。然而改来改去你以为总得有点进展，尼玛结果每年都是最困难的一年。</p>
+<p>6. @青光楚辞：记得当年美国黄海军演，各种军网上大面积流传类似的消息：“徐才厚拍桌大怒，郭伯雄怒摔烟灰缸，华盛顿号敢来黄海一定打沉！”……一转眼，六七年过去，华盛顿号安然无恙，前述二位却翻船了。什么军网军迷，你们少造点笑话吧。</p>
+<p>7. @叶檀：佩服胡适的理性，理性自然长远。把自己铸造成了自由独立的人格，你自然会不知足，不满意现状，敢说老实话。有人告诉你“牺牲你个人的自由去争取国家的自由”，可是我要告诉你“为个人争自由就是为国家争自由，争取个人的人格就是为社会争人格。真正自由平等的国家不是一群奴才建立起来的。”（西藏人大代表团戴习近平像章）</p>
+<p>8. @阑夕：“据一位电影产业从业者说，中国的监管部门对于科幻电影，很关心两件事：一，在未来，中国共产党还存不存在？二，在未来，党在做什么？如果无力回答，那么科幻电影的拍摄自然要搁浅。”</p>
+<p>9. @美国驻华大使馆：为总统竞选担任志愿者需要长时间进行枯燥的工作，而且这一切都属于义务性劳动。但成千上万的美国志愿者仍然乐此不疲。这是为什么呢？曾担任共和党志愿者的共和党青年全国联盟名誉主席妮可丽·安布罗斯说，要求变革的强烈愿望推动她这样做。这仍然是当今竞选志愿者最重要的驱动力。</p>
+<p>10. @凌虚铺子：昨天又出降准的消息了，孔乙己又来到营业厅，排出十张毛爷爷，说，“补仓”。众散户便围住了孔乙己，问他能不能收复4000点。孔乙己抬起头，伸开五指说道，“岂止4000点，5000点都没问题。李大霄说要涨，能不涨么？”接着又是什么“婴儿底”“钻石底”之类的话，散户们将信将疑，对后市总算有了信心。</p>
+<p>关键词: 微博谈 栏目: 新颖视角 首页重点发表: 新鲜看点</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%BA%89%E8%87%AA%E7%94%B1%E5%B0%B1%E6%98%AF%E4%B8%BA%E5%9B%BD%E5%AE%B6%E4%BA%89%E8%87%AA%E7%94%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E8%B0%88/?category=18271" rel="tag">微博谈</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E5%BA%97%E5%91%98%E5%BC%A0%E5%BF%97%E5%B9%B3%E8%BF%94%E6%B8%AF%E9%94%80%E6%A1%88/" target="cdt-mirror">BBC ｜香港铜锣湾书店案：店员张志平返港销案</a>
+</h2>
+<p><p>张志平是五名失踪人员中最年青的一位。</p>
+<p>香港“禁书馆”铜锣湾书店五人失踪事件再有一名店员返回香港，并向香港警方提出撤销关于他的失踪人口报案。</p>
+<p>香港警方星期天（3月6日）表示，书店业务经理张志平当天上午从中国大陆返回香港，警方与其会面时对方提出销案，并称“无需要香港特区政府或警方的任何协助，亦拒绝透露其他详情”。</p>
+<p>警方的声明并未透露张志平具体是从大陆何处地点，经由什么途径返港。此前书店总经理吕波也已返港，并同样向香港警方要求销案。</p>
+<p>张志平、吕波与书店店长林荣基上周在香港凤凰卫视与上海澎湃新闻的联合采访中指证书店大股东桂民海在大陆犯有“非法经营罪”，大陆警方称三人将会获释。</p>
+<p>报道说：“办案民警表示，由于林荣基、吕波和张志平认罪态度较好，他们将有机会获取保候审，有望在近日返回香港。”</p>
+<p>张志平在采访中说：“巨流公司和铜锣湾书店的非法经营活动都是由桂敏海（桂民海）指使的。我自愿接受法律对我的处罚。我真正的悔过了。”</p>
+<p>铜锣湾书店人员失踪经过</p>
+<p>·总经理吕波——10月15日在深圳失踪<br>
+·业务经理张志平（32岁）——10月15日在东莞失踪<br>
+·股东桂民海（51岁）——10月17日在泰国失踪<br>
+·店长林荣基（60岁）——10月23日最后一次在香港露面<br>
+·股东李波（65岁）——12月30日在香港失踪</p>
+<p>在该段也涉及桂民海的报道播出后，凤凰卫视隔天再播出了对书店股东李波的专访。采访中李波承认自己是偷渡返回大陆“协助调查”，并称自己自由，但未必能马上返港。</p>
+<p>李波还称其英国公民身份遭到炒作，他将放弃英国国籍。英国外交部回应BBC中文网查询时说：“我们随时准备好向他及其家属提供领事协助。”</p>
+<p>正在采访北京中国全国“两会”的香港媒体纷纷追问列席会议官员对铜锣湾书店事件的意见，但公安部部长郭声琨等都拒绝评论。</p>
+<p>一些中国全国人大港区委员曾表示要在“两会”期间跟进书店事件，但在这些采访曝光后纷称有困难。</p>
+<p>在中共中央主管港澳事务的中国全国人大委员长张德江星期天列席港区人大的小组讨论，从香港媒体发自北京的报道所见，与会港区人大在会后并未提及双方有否谈论铜锣湾书店事件。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E5%BA%97%E5%91%98%E5%BC%A0%E5%BF%97%E5%B9%B3%E8%BF%94%E6%B8%AF%E9%94%80%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%E6%99%9A%E5%AE%B4/" target="cdt-mirror">端传媒 | 中国房地产的最后一餐晚宴</a>
 </h2>
 <p><p>特约撰稿人 李雪娜 发自深圳</p>
@@ -64,7 +120,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">高房价</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AF%9B%E8%91%B1%E8%AF%B4-%E4%BA%8E%E8%81%AA%EF%BC%9A%E6%88%91%E6%89%80%E4%BA%B2%E5%8E%86%E7%9A%84%E5%8C%97%E4%BA%AC%E6%8A%A2%E6%88%BF%E6%BD%AE/" target="cdt-mirror">毛葱说 | 于聪：我所亲历的北京抢房潮</a>
 </h2>
@@ -694,67 +750,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%87%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%9B%A4%E4%B8%9D%E6%98%AF%E5%B0%81%E4%B8%8D%E5%AE%8C%E6%9D%80%E4%B8%8D%E7%81%AD%E7%9A%84/" target="cdt-mirror">奇闻录 | “蛤丝”是封不完杀不灭的</a>
-</h2>
-<p><p>2月，百度贴吧曝光台吧进入一些网友视野，这是百度官方用于公开收集网友封禁要求亦或申诉解封要求的一个信息平台。该信息公示平台上公开聚合着“申请封禁”和“申请解封”的内容，也许这是百度对贴吧管理存有公正性质疑所做的一种信息开放的补充，但由此却暴露出一些有趣的管制内容。</p>
-<p>通过仔细观察信息平台内容大致可以发现三点：1.有不少“义务举报人士”（可能其中有大量所谓网络文明志愿者）在要求百度封吧。2.百度也确实对一些涉及色情、时政内容毫不留情。3.一些网友尤其是蛤丝在用很戏谑的方式周旋于举报者和百度之间，寻求有限言论空间的最大化。 <a href="http://tieba.baidu.com/f?kw=%E8%B4%B4%E5%90%A7%E6%9B%9D%E5%85%89%E5%8F%B0&ie=utf-8&tp=0">传送门</a></p>
-<p><strong>百度官方公告：</strong>目前已在全贴吧范围内展开整顿工作，严厉打击互联网传播敏感不实信息的行为。为维护贴吧的正常秩序，保障吧友的正常交流，我们将严格按照相关法律、法规和《贴吧协议》从严处置敏感不实信息，同时我们也希望广大吧友发现此类信息后能做到不听、不信、不传谣。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/baidu.jpg?resize=600%2C954" alt="baidu" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/baidu.jpg?resize=644%2C1024 644w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/baidu.jpg?w=748 748w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>申请封吧：</strong></p>
-<p>【03.02申请封禁】gta吧 理由：理由：暴力、凶杀、教唆犯罪、盗版 —— <a href="http://tieba.baidu.com/home/main?un=%E6%AD%A3%E4%B9%89%E5%BF%85%E5%B0%86%E5%AE%9E%E7%8E%B0&ie=utf-8&fr=pb&ie=utf-8">正义必将实现</a> （暂未受理）</p>
-<p>【03.03申请封禁】蔡英文吧 理由：本吧汇集了大量台独分子和轮子，肆意发帖抹黑中华人民共和国和党，培养发展了大批仇中青少年，危害非常大。并且吧主发帖内容仇中，对此现象不作为！希望忍者处理此事！ —— 宇宙第一强者 （暂未受理）</p>
-<p>【02.15申请封禁】黑汉服吧 理由：侮辱民族服装，人身攻击。 ——慕尼黑的水 （未通过）</p>
-<p>【03.03申请封禁】综合执法吧 理由：此吧长期有人攻击 谩骂 诽谤 政府 执法人员 现已经对一些地方的社会稳定造成恶劣的影响，希望百度能及时发现并封禁此吧。 ——桃李年华爱武装</p>
-<p>【03.02申请封禁】小学生早恋吧 理由：此吧以前被封过，现在居然解封了，我觉得还是封了比较好，为未成年人的健康成长考虑。 —— 正义必将实现</p>
-<p>【03.02申请封禁】普世价值吧 理由：光是吧名就敏感了，该吧成员还在吧内发表反动言论。 —— 正义必将实现 （暂未受理）</p>
-<p>【02.26申请封禁】河南老乡吧 理由：贴吧存在大量地域黑帖子，里面昵称全都是地域黑。并且吧务全部参加黑人，抹黑河南人。 —— 我是大熊猫儿子 （未通过）</p>
-<p>【03.02申请封禁】破四旧吧 理由：该吧名为破四旧吧，实则是极端、反动思想的宣传阵地，反政府、反马列分子们的聚集地。 —— 正义必将实现 （暂未受理）</p>
-<p>【02.26申请封禁】明朝吧 理由：明朝吧 有很多 针对少数民族 违法国家宪法 人身攻击 地域攻击 不利于国家统一 有崖山之后无华夏 明朝之后非中国 言论 —— 东京乄有乄吃货 （未通过）</p>
-<p>【02.21申请封禁】女权主义吧 理由：http://tieba.baidu.com/f?kw=%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89 自己去看看吧 （未通过）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/fengjin.jpg?resize=600%2C901" alt="fengjin" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/fengjin.jpg?resize=200%2C300 200w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/fengjin.jpg?resize=682%2C1024 682w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/fengjin.jpg?w=691 691w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>申请解封：</strong></p>
-<p>【02.27申请解封】戒膜吧 理由：这个吧的宗旨在于解除膜虾的坏习惯，找回阳光正能量，但却被封了，想问问为什么，希望能解封。 ——切萝卜西瓜的RZ</p>
-<p>【02.27申请解封】蛤蟆功吧 理由:本人金庸武侠迷，喜欢蛤蟆功这种高端大气上档次的武功，也有很多同样爱好者，连葵花宝典这种不耻的武功都有自己的贴吧，为什么蛤蟆功就不能开放呢，求解。 ——依然伊柯西</p>
-<p>【02.29申请解封】续吧 理由：我们在这个吧讨论人生的延续，追求人生的价值，发挥正能量，却不知怎么被封了，求解封。 ——一起虾啤 （未通过）</p>
-<p>【02.28申请解封】64吧 理由：88，发发，八八六十四，多吉利的一个数字，大家进吧聊就图个吉利，这个也封了太不像话了吧，我就搞不懂，一个再普通不过的数字怎么就让你们跟见了鬼似的？好像什么敏感符号似的，一个数字吧莫名其妙被封岂不成了笑话，好像这数字包含什么见不得光的勾当似的！简直不可理喻啊，实在是忍无可忍！麻利儿的！解封吧！ ——地球国总统 （未通过）</p>
-<p>【02.27申请解封】闷声赛大艇吧 理由：我们都是赛艇爱好者，因为相同的爱好聚集在一起。一句话也不说，赛艇就能表达我们深厚的友谊。不是很好吗？为什么会被封。 ——夜未眠y</p>
-<p>【02.28申请解封】钦点吧 理由：学校直接内定了几个人去参加赛艇竞赛，我很气愤，想去钦点吧寻找和我有相同遭遇的人却发现被封了，艹！ ——死妈孙狗 （未通过）</p>
-<p>【02.27申请解封】身经百战吧 理由：身经百战是一个中华民族的成语 你们把成语给封禁了 你就等于囚禁了我中华民族5000年来的知识文化！这是罪大恶极！吧友们把你们心中的愤怒吼出来啊！吼啊！ ——林歆儿小公主 （暂未受理）</p>
-<p>【02.28申请解封】tankman吧 理由：本吧是军事爱好者建立交流性贴吧，现无故封禁，请求解封！ ——作死的柠檬 （未通过）</p>
-<p>【02.27申请解封】三个代表吧 理由：“三个代表”重要思想是我党必须长期坚持的指导思想。中国共产党要始终代表中国先进生产力的发展要求；中国共产党要始终代表中国先进文化的前进方向；中国共产党要始终代表中国最广大人民的根本利益。本吧宗旨是高举中国特色社会主义旗帜，学习“三个代表”重要思想，全面深入贯彻落实“三个代表”重要思想。望解封！—— 戒蟆 （未通过）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/hasi.jpg?resize=600%2C1276" alt="hasi" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/hasi.jpg?resize=141%2C300 141w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/hasi.jpg?w=546 546w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%9B%A4%E4%B8%9D%E6%98%AF%E5%B0%81%E4%B8%8D%E5%AE%8C%E6%9D%80%E4%B8%8D%E7%81%AD%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E5%90%A7/?category=18271" rel="tag">封吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/?category=18271" rel="tag">百度贴吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%82%A3%E4%BA%9B%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4%E7%9A%84%E7%BA%B3%E7%B2%B9%E5%85%9A%E5%91%98%E7%9F%A5%E9%81%93%E4%B8%BB%E4%B9%89/" target="cdt-mirror">知道主义｜那些图样图森破的纳粹党员</a>
-</h2>
-<p><p><em>来自微信公号“知道主义”（ID: zhidaozhuyi）；作者：李夏恩</em></p>
-<p><strong>上帝赐给德国人三样礼物：诚实、聪明和纳粹党，但每个人只能选两样。<br>
-——纳粹德国政治笑话</strong></p>
-<p>党员的耻辱：没有任何一个政党会公开鼓吹那些邪恶的主张，并且将其写入党章，即使翻开纳粹党的党章，你也可以很容易看到诸如廉洁、勤劳、爱国、忠诚、公正这些美德，只有将自己打造成民众心目中美德的化身，才有可能获得拥护和支持。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BA%B3%E7%B2%B91.jpg" rel="attachment wp-att-430775"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BA%B3%E7%B2%B91.jpg?resize=500%2C321" alt="纳粹1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/纳粹1.jpg?resize=300%2C193 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/纳粹1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>1933年，希特勒上台后，将这座曾为神圣罗马帝国皇帝统治中心城市，定为“纳粹党代会会址”，因此每年都有五十万纳粹党员从德国各地纷纷来到纽伦堡。著名的齐柏林广场，被用作纳粹党徒进行训练正步走的训练场。</p>
-<p>每个政党都对此心知肚明，因此哪怕在开始时装也要装出美德至善的样子来，也正因为如此，那些天真善良之辈才会被其吸引，加入其中，而他们的加入又进一步增强了这一政党的吸引力。</p>
-<p>洛塔尔.克莱希就是这样一个老纳粹党员，作为勃兰登堡法院负责处理监护抚养权的大法官，他为人勤谨、公正、受人尊敬，当然，他也相信他所加入的纳粹党也是这样一个光荣正确的党，但从1939年秋天开始，他发觉周围的一切有些不同寻常：那些受到法院监护的精神病人开始从他职责所属的机构中被陆陆续续成批转走，不知去向，不久以后他却收到了这些病人的死亡报告，这些报告全都声称病人死于心脏病突发、肺炎、肺结核以及其它类似疾病。同时，克莱希也听到辖区内一些传言，说这些被转移的病人不是被送去更大更好的疗养院或是去“郊游”了，而是被送往屠杀中心成批地屠杀了。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BA%B3%E7%B2%B92.jpg" rel="attachment wp-att-430774"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BA%B3%E7%B2%B92.jpg?resize=465%2C302" alt="纳粹2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/纳粹2.jpg?resize=300%2C195 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/纳粹2.jpg?w=465 465w" sizes="(max-width: 465px) 100vw, 465px" data-recalc-dims="1"></a></p>
-<p>这些奇怪的现象和传言让克莱希感到很不安，他觉得这些事玷污了纳粹党光荣正确的名声，为了平息人们的疑惑，他一再呈请盖世太保调查这些病人离奇的死亡原因，他也给司法部长居特纳写信，告诉他正在发生的这一切“非法的、不人道”的死亡事件，他相信党一定会认真解决好这件事，但克莱希最终等来的结果证明他完全想错了，1941年4月，克莱希被叫到国务秘书罗兰德.福莱斯勒面前，在这里，他才头一次听说了这个代号“T—4”的计划，这个计划旨在以“人道” 方式灭绝那些有精神性、遗传性疾病、残疾以及非雅利安人种的病人。</p>
-<p>克莱希对此相当震惊，即使是福莱斯勒告诉他这一计划是希特勒亲自批准的时，他仍然坚持拒绝接受。克莱希的固执让国务秘书大为恼怒，他对克莱希咆哮道：“你怎么敢违背元首的命令？你真是纳粹党的耻辱！”克莱希离开后，仍然坚持转移病人是非法的屠杀行为，并且倚仗自己老党员和法官的身份公开声称要对这种屠杀行为提起诉讼，司法部长居特纳在最后一次与他“谈话”后，仍未让他意识到自己的抗议行为是错误的，1941年12月，他被强迫退休。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BA%B3%E7%B2%B93.jpg" rel="attachment wp-att-430773"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BA%B3%E7%B2%B93.jpg?resize=500%2C297" alt="纳粹3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/纳粹3.jpg?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/纳粹3.jpg?w=501 501w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>克莱希算是幸运的，另一位医疗机构的地区主管保罗.布拉温则没有这么好运，他直接用身体挡在病人和屠杀者中间，并且很郑重地将搜集好的详尽的死亡档案呈递给希特勒，他相信伟大元首肯定对他的手下犯下的这一罪行毫不知情，如果知情，他肯定会马上下令制止这一罪行的。</p>
-<p>1940年8月12日，回覆等来了，是由盖世太保直接送进家门的，保罗·布拉温被逮捕并且监禁起来，他满心以为自己是在为党挽回耻辱，但实际上对党来说，他这样的党内反抗者才真正是党的耻辱。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%82%A3%E4%BA%9B%E5%9B%BE%E6%A0%B7%E5%9B%BE%E6%A3%AE%E7%A0%B4%E7%9A%84%E7%BA%B3%E7%B2%B9%E5%85%9A%E5%91%98%E7%9F%A5%E9%81%93%E4%B8%BB%E4%B9%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%B2%B9/?category=18271" rel="tag">纳粹</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -766,7 +761,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -776,5 +771,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,126 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%B4%A7%E7%BB%B7-%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E5%99%A4%E8%8B%A5%E5%AF%92%E8%9D%89/" target="cdt-mirror">纽约时报 | 意识形态紧绷 两会代表委员噤若寒蝉</a>
+</h2>
+<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?resize=600%2C400" alt="习近平 两会" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>周四，中国国家主席习近平参加中国人民政治协商会议开幕会，出现在人民大会堂的大屏幕上。</p></div>
+<p>对于世界各地的很多人来说，中国政治可能有些捉摸不透，甚至暗藏危险。在中国人看来也没多少不同。</p>
+<p>随着“两会”——中国人民政治协商会议和全国人民代表大会——在北京召开，金融杂志网站财新网<a title="Link: http://topics.caixin.com/2016-03-03/100915459.html" href="http://topics.caixin.com/2016-03-03/100915459.html" target="_blank" rel="nofollow">援引一名代表的话称</a>，实际上，很多中国人感到“迷茫”。</p>
+<p>问题在于：政府最近高调压制言论自由，这次针对的不是不知名的权利倡导人士，而是一名与政界关系良好但敢于批评领导的富有商人。</p>
+<p>中国人民政治协商会议代表蒋洪表示，“某些事件”对会上的讨论带来阴影。于周四召开年度会议的政协是一个政府顾问机构。</p>
+<p>周六，中国立法机构全国人民代表大会召开会议。大约5000名代表来到北京参与一些重要问题的商议——虽然这个过程并不公开。代表中有许多是在政治、经济或社会层面有影响力的人物。</p>
+<p>在财新网周四发布的文章中，上海财经大学教授蒋洪表示，“两会本身就是议论国家大事，提出建设性的意见，而不是讨论什么鸡毛蒜皮的小事。”</p>
+<p>他说，“只不过，受某些事件的影响，现在公众也都有点迷茫，希望少讲些话，气氛是这样。”但他没有说明某些事件指的是什么。</p>
+<p>今年两会召开时，紧绷的意识形态氛围令人不敢发言。</p>
+<p>周日，负责监管网络的国家互联网信息办公室关闭了地产大亨任志强的微博账号，其微博拥有大约3800万粉丝。在此之前，任志强批评了政府对新闻媒体加强控制的政策——该政策集中体现在中国国家主席习近平所说的“媒体姓党”上。</p>
+<p>中国的新闻媒体由中共的委员会直接或间接控制。</p>
+<p>任志强在微博写道，“人民政府啥时候改党政府了？花的是党费吗？”</p>
+<p>任志强还称，“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”他在最后使用了哭泣的表情符号。</p>
+<p>权力强大的反腐机构中央纪律检查委员会旗下的报纸<a href="http://csr.mos.gov.cn/content/2016-02/29/content_28043.htm" target="_blank" rel="nofollow">本周发文</a>，暗示了蒋洪所提到的冷清氛围的背后原因。该文章称，人们应该可以向掌权者说真话，共产党能够并且应该容许这种做法。</p>
+<p>文章题目《千人之诺诺，不如一士之谔谔》借用了2000年前司马迁所著《史记》中的话。</p>
+<p>文章赞扬了其他朝代的官员向当权者说真话的故事。</p>
+<p>文章称，“不怕有人说错话，就怕有话都不说。”</p>
+<p>该报告诉读者，共产党坚持“实事求是”的传统。</p>
+<p>蒋洪接受财新网采访时表示，这跟他个人无关。 “我也无所求，也不想当官，”他说。“也发不了财，完全是一个草根，没什么顾虑，该怎么说就怎么说。”</p>
+<p>但中国政治活动方式比较含蓄，他似乎暗示了任志强的处境带来的问题，以及媒体控制是否有可能扼杀政策讨论和思想交流的问题。</p>
+<p>“我现在唯一担心的是，”他说。“两会代表和委员的观点是否能够充分通过媒体展现出来。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%B4%A7%E7%BB%B7-%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E5%99%A4%E8%8B%A5%E5%AF%92%E8%9D%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%9C%E5%85%89%EF%BC%9A%E8%AF%95%E8%AE%BA%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%98%AF%E9%9D%9E%E6%9B%B2%E7%9B%B4/" target="cdt-mirror">杜光：试论“任志强事件”的是非曲直</a>
+</h2>
+<p><p>著名企业家任志强不久前在微博里表达了不认同“媒体姓党”的说法，遭到了官方媒体的围剿，指斥詈骂，狂轰滥炸，杀伐之声，甚嚣尘上。任志强甚至因此而被销去微博账号，而且不许改名另设，被剥夺了在网络上发表意见的自由。这一场民主和专制的博弈，构成丙申新春在意识形态领域的一幅激烈而瑰丽的图景。</p>
+<p>2月19日，中共中央最高领导人在视察中央三家主要媒体时，提出党和政府主办的媒体必须姓党。任志强就这个概念发表了两条微博。提出质问：“人民政府啥时候改党政府了？花的是党费吗？”“别用纳税人的钱去办不为纳税人提供服务的事”。还说：“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”这些说法引起了一系列反应，官方媒体，群起而攻之；民间的有识之士，则针锋相对地进行反驳。其中是非曲直，颇堪玩味。</p>
+<p>（一）为了加强对媒体的领导，实现所谓的“唱响主旋律，传播正能量”，提出“媒体姓党”是可以理解的，但这个概念是否科学，理论上是否站得住，却值得分析探讨。</p>
+<p>关于“姓党”的说法，最早是八十年代高扬担任中央党校校长时提出来的“党校姓党”。后来的党校领导人有的就继承这个提法，加以发挥，近几年则更为强调。“媒体姓党”大概就是从“党校姓党”演化出来的。</p>
+<p>“党校姓党”的说法，尽管不十分科学，但党校毕竟是党组织的直属单位，担负着训练党员干部的任务，用这样一个生动的概念来加以概括，还有一定的合理性。媒体就不同了。</p>
+<p>从我国最早的媒体——报刊的发展过程来看，它来自两个源流：一是官方的《邸报》、《京报》、《塘报》等，以传达官方信息为务；一是随着西学东来而出现的民间报刊，最早多由来华传教的外国新教教士创办，报刊在传教的同时传播信息，开启民智。随后，国内的一些有识之士也创办报刊，成为推动维新运动的有力工具，遭到慈禧太后的镇压。民国前后，报刊复兴，蔚为大观，多数是民间自发创办的，即使少数官办的报刊，也多以传播社会信息和时代新知为主要内容。近现代的报刊既是社会进步的产物，也是推进社会进步的巨大动力。</p>
+<p>我在前面已经指出，我国近代的报刊是随着西学东渐而兴起的，而西方国家的报刊曾经作为反对神权王权的强大武器，在反封建的民主主义革命中发挥了重要的作用。以西方报刊为范本的中国报刊，当然也不能不带有反封建反专制的原始色彩。</p>
+<p>由此可见，不论是作为反映民间疾苦的舆论工具，还是作为沟通朝野官民的媒体，报刊（及其他形形色色的新闻实体）都天然地具有广泛而浓厚的社会性、民主性，即使是党组织办的党报党刊，也有责任反映人民大众的疾苦，传达他们的呼声。延安时期的《解放日报》提出报纸工作要“带着浓厚的群众性”，《新华日报》主张应“视报纸为人民的武器并交给人民使用”，中共中央1956年在批准《人民日报》改版报告的批语中指出：“我们党的各种报纸，都是人民群众的报纸”，“如果片面强调它们是党的机关报，反而容易在宣传上处于被动地位。”文革结束后不久，《人民日报》总编辑胡绩伟曾提出“党性和人民性的统一”，强调党性源于人民性，却受到胡乔木的严厉批评。其实，任何政党的党性，都应以人民性为基础，否则就会堕落成为贪官党、法西斯党。同样的道理，对于报刊等各种媒体，首先应该强调的是它们的人民性、社会性、民主性，而不是它们的党性；它们首先姓民、姓社，其次才姓党。强调“媒体姓党”，“反而容易在宣传上处于被动地位”。</p>
+<p>（二）强调媒体姓党，不符合于政党的利益，相反会损害党的利益。不论是从社会的角度，还是从历史的角度，提出媒体姓党的原则，都会给人们留下为党派的狭隘利益服务的印记，任何合理的解释都无济于事，这就必然大大削弱党在群众中的威信，助长顺风阿谀、心口不一的恶劣风气。再则，虽然当初提出的是“党和政府办的媒体姓党”，但过去思想潮流的趋向告诉我们，许多有一定限制性的口号一旦提出，往往会泛化成为普遍性的政策，这里既有无良文痞的推涛作浪，也有社会民众的心理走势。即使不是党和政府办的媒体，在主管单位（如群众组织、高等学校、研究机关等等）党组织的操纵下，也不敢不改姓党。这样一来，全国媒体一片红，新闻成为“党天下”，舆论一律，“顺帝之则”，也就听不到民间的不同声音了，这对执政党绝对是不利的。</p>
+<p>（三）任志强的微博，只是对“媒体姓党”提出一些不同看法，行使了作为一个党员和公民的权利，既没有违反党章，也没有违反法律。即使他说的话有些刺耳，也应该本着“有则改正，无则加勉”的精神，从中吸取有益的养料，最不济的是拒不接受，也不妨一笑置之，没有必要兴师动众，群起而攻之。目前出现的围剿任志强的局面，不仅证明不了“媒体姓党”的正确性，反而展现出文化专制主义的丑恶面目，进一步地败坏了党的威信。同时，也再一次地暴露出那些帮闲文痞的无耻嘴脸。他们在声讨任志强时所运用的文革逻辑和文革语言，在社会上唤起文革重来的恐怖气氛，增添社会公众的不稳定感。用近来媒体和网络上经常出现的“砸锅”的比喻来衡量，任志强不是砸锅者，而是补锅者，他那两条批评“媒体姓党“的微博不是砸锅之作，而是补锅之作，因为“媒体姓党”有如锅上的裂缝。倒是那些围剿任志强的文章作者，才是真正的砸锅者，至少是保护裂缝、拒绝补锅者。他们不断在党的脸上抹黑，却自以为是在维护党的领导，“在政治上和党中央保持一致”。</p>
+<p>（四）国家互联网信息办公室发言人姜军在2月28日发表谈话，根据全国人大常委会的有关决定和国务院的有关通知，责令新浪、腾讯等网站关闭任志强的微博账号。这位发言人在谈话中强调任志强发布“违法信息”，所以有关网站应“依法”关闭他的微博账号。但是，任志强的微博违反了什么法的哪一条？关闭他的微博账号是依的什么法的哪一条？发言人却说不出来。《刑法》、《民法》里都没有这样的规定。发言人所依据的全国人大常委会的决定，只是说如有构成犯罪的行为，应依照刑法有关规定追究刑事责任， 包括造谣诽谤、煽动颠覆国家政权、推翻社会主义制度及“发表、传布其他有害信息”等等，任志强的微博发表有害信息了吗？“构成犯罪”了吗？都没有。所以， 国信办加之于任志强的“发布违法信息”和“依法”关闭他的微博账号，都是无法可据的，这才是真正的违法行为。既违反宪法，也违反党章。国务院应该追查国信办渎职违法的责任。</p>
+<p>（五）在任志强和某些官办媒体的论争中，后者挾政治权力而俱来，有恃无恐，占尽强势，但他们的文章既不具理论说服力，又处于道德的下 风。而任志强却获得了许多知识分子的赞赏。他们写文章支持任志强，驳斥官报和官网上的那些文革式的大批判，占据了理论和道德的高地。在如此强烈的对比面 前，高层领导人应该作出明智的选择。我建议放弃“媒体姓党”的原则，还任志强以言论自由；同时，理直气壮地宣称媒体姓民、姓社，不但强调党报的人民性和社会性，而且允许民间自由办报，为社会开辟“百花齐放百家争鸣”的园地，使公民可以行使言论自由、出版自由的宪法权利。这样做的结果，不但可以结束“党媒姓党”的博弈，而且会走出危机四伏的政治窘境，开辟改革开放的新局面；同时，也将因此而赢得广大民众的普遍拥护，提高党的威望，增强党的领导的合法性，既有利于社会的发展，也有助于党的建设。不知当政者是否有迈出这一步的决心和勇气？</p>
+<p>2016年3月5日</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%9C%E5%85%89%EF%BC%9A%E8%AF%95%E8%AE%BA%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%98%AF%E9%9D%9E%E6%9B%B2%E7%9B%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/ngocn%E5%8E%9F%E5%88%9B-%E4%BD%A0%E4%BB%AC%E8%BF%87%E7%9A%84%E6%98%AF%E5%A5%B3%E7%94%9F%E8%8A%82-%E8%BF%98%E6%98%AF%E6%80%A7%E9%AA%9A%E6%89%B0%E8%8A%82%EF%BC%9F/" target="cdt-mirror">NGOCN原创 | 你们过的是女生节 还是性骚扰节？</a>
+</h2>
+<p><p>今天是传说中的女生节。纪念劳动妇女的三八妇女节没啥声音，在三月七日另设一个女生节，并且风靡各大高校，本来就是很诡异的事情。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6408AMEUBXN.jpg?resize=595%2C165" alt="6408AMEUBXN" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6408AMEUBXN.jpg?resize=300%2C83 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6408AMEUBXN.jpg?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
+<p>新媒体女性的李思磐解读这种现象的时候说道：女生节取代妇女节，实质上是“消费主义”在取代“女权主义”。“妇女”这一词因象征“年老色衰”而遭遇的污名化，不但体现了父权回潮，在男性视角下以性资本来衡量女性价值，更是消费主义对女性的分化——显然，商家谈“女生”或者“美女”更能促进消费。</p>
+<p>不过今天先不谈女生节VS妇女节之争。既然已经成为一种校园文化，真的要过女生节，能不能格调高一点？</p>
+<p>今早某高校发布的一条校园横幅汇总，简直low爆了地平线。不一竿子打沉所有“祝福横幅”，但超过百分之十都是这种水平，简直吓人。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640AUCM56YC.jpg?resize=639%2C390" alt="640AUCM56YC" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640AUCM56YC.jpg?resize=300%2C183 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640AUCM56YC.jpg?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640BC3FB9JY.jpg?resize=640%2C426" alt="640BC3FB9JY" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640BC3FB9JY.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640BC3FB9JY.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401LF5VR9L.jpg?resize=639%2C394" alt="6401LF5VR9L" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401LF5VR9L.jpg?resize=300%2C185 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401LF5VR9L.jpg?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401U4BT934.jpg?resize=639%2C361" alt="6401U4BT934" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401U4BT934.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401U4BT934.jpg?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6405JU02NO1.jpg?resize=638%2C388" alt="6405JU02NO1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6405JU02NO1.jpg?resize=300%2C182 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6405JU02NO1.jpg?w=638 638w" sizes="(max-width: 638px) 100vw, 638px" data-recalc-dims="1"></p>
+<p>然而这所学校不是特例，主页君在朋友圈还看到好些出处不明的女生节低俗横幅：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640MEG2JTV9.jpg?resize=594%2C800" alt="640MEG2JTV9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640MEG2JTV9.jpg?resize=223%2C300 223w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640MEG2JTV9.jpg?w=594 594w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640Y9QVONVD.jpg?resize=600%2C338" alt="640Y9QVONVD" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640Y9QVONVD.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640Y9QVONVD.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640H599J3YR.jpg?resize=600%2C450" alt="640H599J3YR" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640H599J3YR.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640H599J3YR.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640N34VB3WO.jpg?resize=600%2C450" alt="640N34VB3WO" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640N34VB3WO.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640N34VB3WO.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>很多网友看到这些充满性暗（明）示横幅的第一反应就是被震惊了</p>
+<p><strong>俗人超</strong>：我在朋友圈看到广州的大学生发的一些“女生节”标语，我简直惊呆了！这种毫不尊重女性，简直堪称性骚扰的标语，怎么挂出来的！</p>
+<p><strong>任其然</strong>：现在是越来越明白了，这个什么女生节就是个男人的节日，这个节日里男人有任意定义女性的权力，有用尽拙劣的方式献殷勤并必须被理解为爱心和奉献的权力。说到底，这就是彻底的不要脸节，3-7根本就是个强奸的象征好吗。</p>
+<p><strong>小鸟</strong>：“你们是我们的！” “你们胸大腰细活好不粘人！”  这就是“女生节”的真实面目，尽情地意淫和消费年轻女性。</p>
+<p>然后，在三个月后的毕业季，就业市场上照旧歧视女性；在他们回到家里时，照旧把母亲、妻子看成家务用品；在他们三十、四十、五十、六十岁时，懂得欣赏的永远只有十五到二十五岁的“女生”；女人，就是性，他们愿意为你的胸大腰细活好不粘人买单，却不会为女性基本的人权说句话。这就是他们的“女生节”，玫瑰送上，性福我有。</p>
+<p>去你的女生节！！！</p>
+<p>在校园里悬挂这种横幅的人，请问是不知道<strong>性骚扰</strong>这三个字怎么写吗？</p>
+<p>性骚扰（英语：sexual harassment）指以<strong>带性暗示的言语或动作</strong>针对被骚扰对象，强迫受害者配合，这会<strong>引起对方的不悦感</strong>，被骚扰对象不限于性别，包括男性和女性。</p>
+<p>是的！不仅乱摸乱蹭是性骚扰！说性暗示笑话、发性暗示图片、挂性暗示横幅，只要是不受接受者欢迎的，你就是性骚扰！</p>
+<p>这和去年吵得纷纷扬扬的华工大泼水节简直异曲同工。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640L0O5USZF.jpg?resize=600%2C415" alt="640L0O5USZF" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640L0O5USZF.jpg?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640L0O5USZF.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>成百的男生围着女生楼要攻占“公主楼”，男生攻占女生宿舍全过程。四百多土木男生将人文、外语等系的几十个女生围住，还高喊“围起来，围起来”，“碾过去，碾过去”，游行中高喊的口号：“文人文人，土木女人”，“学妹学妹，跪求一睡”。还有好多“学者”“校友”出来争论，这不是性骚扰，是青春回忆，是毕业狂欢。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/0.gif?resize=287%2C215" alt="0" data-recalc-dims="1"></p>
+<p>女生节究竟为谁而设？促销的商家？想送染色体的男生（呸）？还是那些被裹挟其中的女生？如果是为女生而设，为什么我们在这些横幅中只能看到男人的欲望，男人的索求？</p>
+<p>而女生在这个所谓自己的节日，她们究竟要的是什么（我想大部分人都不想要某些人的祖传染色体），却没有被看见？</p>
+<p>讲真，作为一个过期少女，主页君一点都不想在公众场所看到自己被意淫。如果非得过女生节，非要在大街上挂海报横幅，我情愿它是这样的：</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1.gif?resize=450%2C541" alt="1" data-recalc-dims="1"><p>我头发虽然乱，但是美爆了。</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2.gif?resize=450%2C541" alt="2" data-recalc-dims="1"><p>谁的小肚腩最好看，我的小肚腩最好看。</p></div>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3.gif?resize=450%2C541" alt="3" data-recalc-dims="1"><p>姑娘！自信让你更美！</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/ngocn%E5%8E%9F%E5%88%9B-%E4%BD%A0%E4%BB%AC%E8%BF%87%E7%9A%84%E6%98%AF%E5%A5%B3%E7%94%9F%E8%8A%82-%E8%BF%98%E6%98%AF%E6%80%A7%E9%AA%9A%E6%89%B0%E8%8A%82%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E7%94%9F%E8%8A%82/?category=18271" rel="tag">女生节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E9%AA%9A%E6%89%B0/?category=18271" rel="tag">性骚扰</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%90%E7%BB%8D%E5%8F%B2%EF%BC%9A%E7%A1%AC%E7%9D%80%E9%99%86%E7%9A%84%E9%A2%84%E8%A8%80%E5%BF%85%E5%AE%9A%E8%90%BD%E7%A9%BA/" target="cdt-mirror">德国之声 | 徐绍史：“硬着陆的预言必定落空”</a>
+</h2>
+<p><p>中国经济不会走向”硬着陆”，而且没有”拖累”全球经济–这是中国国家发改委主任徐绍史周日做出的表态。不过他也指出，国际经济环境中的不稳定因素的确会给中国经济增长构成威胁。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019097367_30300.jpg?resize=600%2C338" alt="徐绍史在3月6日的记者会上" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019097367_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019097367_30300.jpg?w=700 700w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>徐绍史在3月6日的记者会上</p></div>
+<p><strong>“硬着陆的预言必定落空”</strong></p>
+<p>“中国经济是绝对不会硬着陆的”，徐绍史在一次记者会上表示，”所谓硬着陆的预言是一定要落空的，请大家放心，不存在这种可能。”</p>
+<p>2015年中国经济增长率为6.9%，尽管这是25年来的最低水平，但是北京强调，这一增长速度与世界经济大国相比仍然是相对较快的。</p>
+<p>上个月在上海召开的20国集团财长和央行行长会议上，这个世界第二大经济体的发展现状和北京能否应付目前所面临的困境成为会议讨论焦点。</p>
+<p>总理李克强表示，中国有信心应对国内外的复杂形势，继续推进改革。他在周六发布的政府工作报告中表示，为2016年的经济增长设定的目标是6.5%到7%之间。</p>
+<p>“总体看，中国经济运行在合理的区间”，国家发改委主任徐绍史说。他还指出，看中国的经济，”不能再用传统的、以往的视角看”。而应该从”新常态”这个视角来看待中国的经济。</p>
+<p>而这个所谓新常态所包含的三个核心内容，就是速度变化、结构优化和动力转换。”如果从这个角度看，我觉得中国2015年的经济表现是非常亮丽的”，徐绍史说。</p>
+<p><strong>产能过剩和国企改制</strong></p>
+<p>这位国家发改委主任还表示，中国政府正在从钢铁、煤炭两个产业入手，来化解过剩产能。此外他还保证，中国绝对不会出现第二次下岗潮。经济的增长会创造更多就业岗位，抵消削减过剩产能所造成的影响。</p>
+<p>中国还计划在石油、天然气和铁路领域进行几个混合所有制改制试点项目。这也是北京对于占据经济主导地位但往往效率低下的国有企业进行的最深入改革之一。</p>
+<p>去年9月，中国出台了对国有企业改革的指导方案，其中包括在国企引入所谓的混合所有制。</p>
+<p>据官方媒体新华社报道，中国拥有大约15万家国有企业，其总资产超过100万亿元人民币，雇佣工作人员超过3千万。</p>
+<p>徐绍史也指出，世界经济缓慢复苏，低速增长，这一局面估计会持续一段时间，加上金融市场动荡，大宗商品价格下挫，地缘政治的风险也不容忽视。因此他认为，”世界经济环境当中不确定、不稳定的因素依然存在，它会通过各种不同途径影响到中国经济和社会的发展”。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%90%E7%BB%8D%E5%8F%B2%EF%BC%9A%E7%A1%AC%E7%9D%80%E9%99%86%E7%9A%84%E9%A2%84%E8%A8%80%E5%BF%85%E5%AE%9A%E8%90%BD%E7%A9%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A1%AC%E7%9D%80%E9%99%86/?category=18271" rel="tag">硬着陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%B8%A4%E4%BC%9A%E8%AF%B4%E7%9B%B8%E5%A3%B0/" target="cdt-mirror">【习总日记】 习近平李克强两会说相声</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，6）</p>
@@ -680,148 +797,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E3%80%8A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%EF%BC%8D%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E9%98%B4%E6%9A%97%E9%9D%A2/" target="cdt-mirror">【真理部】《天津大爆炸－中国社会的阴暗面》</a>
-</h2>
-<p><p>请各网查删“NHK纪录片《天津大爆炸－中国社会的阴暗面》”，并反馈清理数据。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E3%80%8A%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8%EF%BC%8D%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E9%98%B4%E6%9A%97%E9%9D%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%86%E7%82%B8/?category=18271" rel="tag">天津大爆炸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%A4%E4%BA%86%E4%BA%BA%E6%97%A5%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B6%E4%BB%96%E5%85%9A%E5%A7%93%E5%AA%92%E4%BD%93%E5%BF%83%E7%B3%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%98/" target="cdt-mirror">除了《人日》，还有哪些其他党姓媒体心系日本女优？</a>
-</h2>
-<p><blockquote><p><a href="https://freeweibo.com/weibo/3949094907060641">@曹山石</a>：人民日报微信公众号今晚封面文章的配图，是女优青木麻奈。</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c1d7ba8gw1f1k4dvj2xbj20k00zk77b.jpg" rel="attachment wp-att-430899"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c1d7ba8gw1f1k4dvj2xbj20k00zk77b.jpg?resize=450%2C800" alt="7c1d7ba8gw1f1k4dvj2xbj20k00zk77b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c1d7ba8gw1f1k4dvj2xbj20k00zk77b.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c1d7ba8gw1f1k4dvj2xbj20k00zk77b.jpg?w=720 720w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br>
-（曹山石原微博已被删除，以上内容来自<a href="http://freeweibo.com/">自由微博</a>）</p>
-<p>青木麻奈原作画面：<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/21-1409151004380-L.jpg" rel="attachment wp-att-430900"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/21-1409151004380-L.jpg?resize=350%2C449" alt="21-1409151004380-L" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/21-1409151004380-L.jpg?resize=234%2C300 234w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/21-1409151004380-L.jpg?w=500 500w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><br>
-（图片来自网络）</p>
-<p><strong>2015年1月，新华社推特官方认证账号被曝光收藏了日本重口味色情图片：</strong></p>
-<blockquote><p>方舟子 ‏<a href="https://twitter.com/fangshimin/status/555175068414664704">@fangshimin</a>：新华社的认证推特账号不知道是谁维护的，居然还收藏了日本硬核淫秽图片推特。</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%87%8D%E5%8F%A31.jpg" rel="attachment wp-att-430904"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%87%8D%E5%8F%A31.jpg?resize=500%2C246" alt="新华社重口1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华社重口1.jpg?resize=300%2C148 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华社重口1.jpg?w=599 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>当月，又被美国《时代》杂志网站曝出新华社，<strong>一个中国国家通讯社，其官方推特账号关注了一个专发日本色情图片的账户</strong>：</p>
-<blockquote><p>《时代》原文标题：<a href="http://time.com/3688912/xinhua-japanese-porn-china-news-agency/">Is China’s Official News Agency Following a Japanese Porn Feed on Twitter?</a></p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%87%8D%E5%8F%A32-copy.png" rel="attachment wp-att-430906"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%87%8D%E5%8F%A32-copy.png?resize=400%2C681" alt="新华社重口2 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华社重口2-copy.png?resize=601%2C1024 601w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华社重口2-copy.png?w=617 617w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>2011年，央视法制节目曾被曝为案件当事人女友配了中国人民的老朋友 苍井空 的照片：<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ccav_%E8%8B%8D%E4%BA%95%E7%A9%BA.png" rel="attachment wp-att-430901"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ccav_%E8%8B%8D%E4%BA%95%E7%A9%BA.png?resize=350%2C719" alt="ccav_苍井空" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ccav_苍井空.png?resize=146%2C300 146w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ccav_苍井空.png?resize=768%2C1577 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ccav_苍井空.png?w=860 860w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><br>
-（<a href="http://news.163.com/11/0715/09/790AJ97K00011229.html">网易新闻截图</a>）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%A4%E4%BA%86%E4%BA%BA%E6%97%A5%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B6%E4%BB%96%E5%85%9A%E5%A7%93%E5%AA%92%E4%BD%93%E5%BF%83%E7%B3%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E5%A4%A7%E5%8F%91/?category=18271" rel="tag">党性大发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%BF%91%E8%B7%9D%E7%A6%BB%E8%A7%82%E5%AF%9F%E4%B8%A4%E4%BC%9A%EF%BC%9A%E4%BB%8E%E6%94%BF%E6%B2%BB%E8%8A%B1%E7%93%B6%E4%B8%AD%E8%AF%BB%E6%87%82/" target="cdt-mirror">端传媒 | 近距离观察两会：从“政治花瓶”中读懂中国</a>
-</h2>
-<p><p>在2013年一次全国人大全体会议中，一名坐在笔者身旁的日本记者，忽然受到一名大会堂工作人员的高声训斥，因为他戴着口罩。</p>
-<p>工作人员告诉这名记者：“如果有病，可以带你去医生。”一瞬间，会场的各个角落，马上送来不解的目光。在工作人员多次质问他“有病吗”之后，这位记者懊恼的摘了口罩。工作人员心满意足的离去，寻找着下一个需要移除的，玷污国家形象的瑕疵。可偏偏，那位当天记者确实感冒，不希望传染其他人罢了。</p>
-<p>这名日本记者和所有境外媒体记者一样，很难在记者会提问中被选中。同时，他不能进入人大代表或者政协委员的驻地酒店采访，除非是在指定对境外记者开放的时间。但至少，他不用像大部分境内记者一样，在诸多议题上只能使用通稿。而不少境内记者，在追逐体育与演艺名人之外，碍于报刊版面要求，往往需要发回大量以同行为主角的花絮照片，令人啼笑皆非。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard11_187.jpg?resize=600%2C338" alt="两会期间一个新闻发布室外爆满，记者在室外等候。摄：Feng Li/Getty" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard11_187.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard11_187.jpg?w=700 700w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>两会期间一个新闻发布室外爆满，记者在室外等候。摄：Feng Li/Getty</p></div>
-<p><strong>与大众无关的两会，无可取代的新闻价值</strong></p>
-<p>某种程度上，全国人大和中国政协每年在3月召开的系列会议（俗称“两会”），是中国政府一次展示国力和自信心的高频率自拍，但当中却不容得有任何瑕疵的存在。</p>
-<p>无微不至的信息管控和形象维护，注定两会无法摆脱“政治花瓶”的形象，难以引起大众读者的兴趣。</p>
-<p>然而，这数千名人大委员、政协代表在进行被认为是“橡皮图章”工作的两周期间，正是党国体制全年透明度最高的时候。</p>
-<p>记者不但可以在会场，近距离观察平日深居高墙之内的官员，甚至有可能靠近市长、省长、部长、省委书记、军队将领，让他们在没有事前协议、事后审查的情况下，回答一些尖鋭问体。仅仅这一点，就决定了两会的新闻价值无法替代。</p>
-<p>另一方面，中国高层政治，时刻对国家生活产生深远影响，但同时却神秘莫测。而每年两会，除了公布经济、民生、司法等一系列关键数据，也能看到中国高层之间最频密和公开的互动。</p>
-<p>近年最突出的例子，莫过于2012年两会。</p>
-<p>当年两会，在十八大权力交接前8个月召开。以极具争议的“唱红打黑”为标志的重庆市委书记薄熙来，原本是跻身政治局常委的热门人选，却在两会召开前忽然遭遇心腹王立军叛逃，成为当年最受记者追逐的官员。重庆代表团开放日当天，薄熙来邀请多名中外记者，就王立军叛逃、薄瓜瓜传闻、重庆发展模式、共同富裕等问题侃侃而谈大半个小时，指自己“用人失察”、家人被“泼脏水”、共同富裕是中央政策等，高调之态在中共高层实属罕见。</p>
-<p>更具戏剧性的一幕发生在总理记者会上，另一名话题人物、时任总理的温家宝，对重庆市委市政府罕有的公开批评，将薄在重庆的政策与文革相提并论。次日，薄熙来就应声下马，被撤去重庆市委书记职务。</p>
-<p>此外，两会发布的大量官方文件，规格虽不如党的全会文件，但仍是中国政治走向的重要风向标。</p>
-<p>2015年全国人大报告，用习近平的直接引语作为每段讨论的开始和依据。例如，在加强监督法律实施情况和“一府两院”工作部分，开头为“习近平总书记指出：‘人民代表大会制度的重要原则和制度设计的基本要求，就是任何国家机关及其工作人员的权力都要受到制约和监督。’”。而在深化和拓展代表工作部分，开头为“习近平总书记明确指出，‘各级国家机关及其工作人员一定要为人民用权、为人民履职、为人民服务……’”。</p>
-<p>这种提法没有出现在2014年人大报告里。敏感的人，便能品味其中个人崇拜加强的复杂况味，以及党中央领导立法的高调化和公开化。</p>
-<p><strong>近距离观察高层生态的唯一机会</strong></p>
-<p>除官方信息外，两会也是近距离观察镜头外高层生态的唯一机会。观察中国政治的最大困难，在于没有内幕消息情况下，官方公布的信息永远是标准化、去人性化的，央视的画面中，高层会议上除了发言的人以外，出席者不是在低头记笔记，就是面无表情的直视前方。这种去个性化的处理，与规则模糊、讲究个人关系，注重“政治规矩”的运行方式截然相反。</p>
-<p>每年两会，人大和政协都会分别召开若干次全会。如无意外，每一次全会，副国级或以上的官员、中央军委全体成员必然全体出席在主席台上，这也是他们在众目睽睽下开小差的唯一时候。进场离场、报告宣读期间，各人必定少不了握手示意、相互搀扶。而作报告时间可长达一个多小时，他们又必然会左顾右盼、交头接耳一番。</p>
-<p>谁和谁交谈了，谁是主动说、谁是听的，谁仔细看文件，谁和谁握手打招呼了，记者席上都能看得一清二楚。</p>
-<p>虽然，你永远不可能知道具体内容：</p>
-<p>比如，重庆市委书记孙政才和首位出身空军的军委副主席许其亮有什么共同话题，必须在大会上窃窃私语几分钟？中组部长赵乐际向军委副主席范长龙在指点什么？但当中各人关系亲疏、同级领导地位尊卑和各人在一众官员中的威望，则不难察觉。</p>
-<p>如果运气好，还能看到党国一些不公开的运作模式。</p>
-<p>2011年3月11日，“两会”已近尾声，日本地震在北京时间下午1点左右突然爆发。下午3点的会议期间，一名工作人员将一份文件交给时任中央办公厅主任令计划，随后呈交胡锦涛、温家宝批示，再返回请令本人签名，并依次通知主管救灾的副总理回良玉以及军委副主席郭伯雄。当时，令、回、郭三人分别离席，并在数分钟后返回。在记者席上，整套运作模式尽收眼底。</p>
-<p>当然，副国级及以上官员（包含：政治局委员、人大副委员长、全国政协副主席、中央书记处书记、国务委员、最高法院院长、最高检察院检察长），一般记者不可能接触到。因为在大会中，他们会使用不同于其他人大代表的通道。他们若参加各代表团的讨论，该讨论必然不会向传媒开放。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard12149.jpg?resize=600%2C400" alt="2012年11月8日，中国北京，(左至右)中共中央政治局委员刘云山、李源潮、张高丽及俞正声参与十八大会议。摄：Feng Li/GETTY " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard12149.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard12149.jpg?w=700 700w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2012年11月8日，中国北京，(左至右)中共中央政治局委员刘云山、李源潮、张高丽及俞正声参与十八大会议。摄：Feng Li/GETTY</p></div>
-<p><strong>在两会中捕捉确切新闻</strong></p>
-<p>如果说此类高层观察只是“小众口味”，那么金睛火眼的记者，还能从在大会堂东大厅里，喝茶闲聊的大量部级和厅级官员中，捕捉到更确切的新闻。</p>
-<p>2015年两会期间，彼时盛传中央警衞局局长曹清被换，但官方一般不会就此作任何说明，而身份如此敏感的曹清即使在人群中被认出，也几乎不可能对记者开口。但有香港记者捕捉到，曹清的臂章已经换成“北京军区”，不再是中央警衞局所隶属的“总参谋部”。</p>
-<p>而一个月后，官方报道确认，曹清已转任北京军区副司令员──在中国政治中，一个人离开贴近权力核心的位置，平调至更高级部门的同级职位，与更多同僚共事，是权力被稀释、不受信任的明显特征。</p>
-<p>另一名香港记者，则在大会堂的熙攘人群中，找到不在出席名单上、却前来列席的共青团第一书记秦宜智。秦宜智表示，香港占领中环时期，共青团曾三度派人前往占领区，与学生交谈。他也首次透露，教育部当时正与香港教育局就中国历史课程协商，以加强香港学生的中国认同感。</p>
-<p>而在陆港两地关于一国两制与自治权的界限甚嚣尘上之时，这些首次获得官方确认的消息当然引起了不少讨论──比如，香港的教育政策实际上还保留多大的自主权力？</p>
-<p><strong>严防有色眼镜</strong></p>
-<p>两会的组织方，自然会有一系列的手法应付这些戴着“有色眼镜”的记者，当然，以境外媒体记者为主。</p>
-<p>笔者曾在某年两会某省的分组讨论会议中，等到一名上厕所的副省级官员，并询问他关于发生在他所辖地的一次敏感事件。这名官员不但回答了，还用了相当强硬、甚至带有嘲讽的语言批评了事件中的受害者。</p>
-<p>回到会席上不久，这名官员马上离席，要求笔者不能报道他刚才在录音笔前说的话。笔者当场坚持，要与编辑讨论，拒绝当场答应。</p>
-<p>到笔者离开之前，一旁的工作人员立刻举起相机拍摄，并警告“我已经知道你是哪个媒体的”。片刻之后，记者接到更高新闻主管部门来电，要求不能刊登。</p>
-<p>最后，笔者与供职媒体的新闻主管沟通，再三权衡采访的新闻价值与风险，只好决定不予刊登。因此，当境外记者进入驻地时，往往能够“享有”类似待遇──安保人员会得到任务，“记住盯着那些记者，特别是境外的”。</p>
-<p>当然，主办方对各大记者会提问机会的把握，是最基本的功夫。最坦诚的新闻主持人，必定会在点完哪位记者回答问题之后，顺便报上这个记者的媒体机构。而到了记者会最后，有境外记者大喊“给香港媒体一个机会”时，麦克风几乎铁定会交给三家亲中报纸，即《文汇报》、《大公报》、《香港商报》之一，而且提问的还经常是当地驻站的、长期与当地政府共同举办活动的记者。</p>
-<p>比如2012年，在两会广东团开放日上，香港媒体一直希望提问香港社会十分关心的自驾游和双飞孕妇问题。因此到开放时间快结束时，有香港记者大喊，“给香港记者一个机会”。这时候，主持人点中了《香港商报》广东驻站的一位记者，提问关于广东经济转型的问题。这时候，有香港记者表示抗议，说提问的记者“不是香港的”。</p>
-<p>发布会刚结束，这名《香港商报》的记者就大发雷霆，找到一位无线电视台的女记者，把对方的胸卡拉扯多次至脱落，并掷到她脸上。期间，这位商报记者不断质问：“你是哪个媒体的？同行之间不懂互相尊重吗？”随后双方爆发肢体冲突。</p>
-<p>当时陆港关系已经剑拔弩张，一批内地记者随即包围这名记者，质问她是否其实是内地同行。</p>
-<p><strong>镜头内外的民族平等</strong></p>
-<p>最后，体现出民族平等的重任，在两会上也非常重要。</p>
-<p>几乎每一次两会期间，都会有这么几张似曾相识的照片：穿戴着各种民族服饰的十几个人大代表或政协委员，手牵手一字排开，齐步向前。明媚的阳光洒在他们微笑的脸上，背景则是人民大会堂的正门、高高悬挂的硕大国徽，和透彻的蓝天。</p>
-<p>照片的信号很明显：全国各族人民在一个民主、平等、开放的会议中，为国家发展畅所欲言、建言监督。或者用人大会议闭幕词的话来说，“这是一次民主、团结、求实、奋进的大会。”</p>
-<p>但拍出这种照片并不容易，这些代表或委员之中，很多人并不互相认识。碰巧看到有人拍照时，他们才开始牵手同行，步伐与队形也一般难以保持一致，往往需要一位老道的摄影师在一旁指挥：“一二三走！”当然，同样重要的是，那天也不能有霾。</p>
-<p>更矛盾的是，代表各族的衮衮诸公，若谈起党和政府的政策如何伟大正确，必能滔滔不绝。而若被问到民族、宗教等敏感问题，他们大半顾左右而言他，甚至忽然表示自己听不懂汉语。笔者也遇到过讨论会上声如洪钟、大谈民族团结的政协委员，散会后立即表示身体欠佳，无法接受采访。</p>
-<p>对这种摆设的不满，已经体现在人大代表的选举中。2013年，人大常委选举有174名候选人，选出161人，差额比例约8%。当时会场大屏幕公布的票数显示，多名少数民族代表收到高反对票数，其中云南的白族代表寸敏有773张反对票，是反对票第二多的。值得一提的是，当年两会，身为云南商务厅的一名处长，寸敏成功利用坐在主席台的优势，向新任主席习近平和李克强索要了签名。</p>
-<p>对于少数民族干部得票数较低的情况，2013年曾有少数民族代表对《明报》表示：“可能是大家觉得我们少数民族代表履职能力比较差吧。”</p>
-<p>让记者遗憾的是，四年来，在经历了2012年薄熙来下马、温家宝退休之后，中共高层中的魅力型官员已经凤毛麟角，每年的看点总理记者会也开始黯然失色。过去一年，“妄议中央”被定为党内违纪行为，政治忠诚也成为中央巡视检查的首要标准。日后两会会否更趋向一言堂，而使挖掘好新闻变得更加艰难，值得新闻媒体持续留意。</p>
-<p>（高隽松，资深中国报道记者，中国政治评论人）</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%BF%91%E8%B7%9D%E7%A6%BB%E8%A7%82%E5%AF%9F%E4%B8%A4%E4%BC%9A%EF%BC%9A%E4%BB%8E%E6%94%BF%E6%B2%BB%E8%8A%B1%E7%93%B6%E4%B8%AD%E8%AF%BB%E6%87%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%8A%B1%E7%93%B6/?category=18271" rel="tag">政治花瓶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/50%E5%B9%B4%E5%90%8E%E7%9A%84%E4%BB%8A%E5%A4%A9%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%84%E4%B9%A6/" target="cdt-mirror">【图说天朝】50年后的今天：袁裕来律师被“抄”书</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1223354542/DkFW2umX1">@朱孝顶律师</a>：【袁裕来律师办公室2016年3月4日上午遭遇】公安局、文化局执法人员忽然冲进办公室，说这些书是非法出版物。</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdrlgyqj20yi1pctti.jpg" rel="attachment wp-att-430891"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdrlgyqj20yi1pctti.jpg?resize=450%2C800" alt="48eae8aejw1f1kpdrlgyqj20yi1pctti" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdrlgyqj20yi1pctti.jpg?resize=768%2C1365 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdrlgyqj20yi1pctti.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdrlgyqj20yi1pctti.jpg?w=1024 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdpkfb5j20zk0qon44.jpg" rel="attachment wp-att-430892"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdpkfb5j20zk0qon44.jpg?resize=550%2C413" alt="48eae8aejw1f1kpdpkfb5j20zk0qon44" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdpkfb5j20zk0qon44.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdpkfb5j20zk0qon44.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/48eae8aejw1f1kpdpkfb5j20zk0qon44.jpg?w=1024 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>被“抄”书本从左到右依次为：</p>
-<p><a href="https://book.douban.com/subject/26329929/">隐动力——中国历史中的金钱游戏</a><br><em>作者：冯学荣</em></p>
-<p><a href="https://book.douban.com/subject/26449650/">拥有七个名字的女孩：一个北韩叛逃者读真实故事</a><br><em>作者：李晛瑞 / 大衛.強</em></p>
-<p><a href="https://book.douban.com/subject/26580990/">谁说民主不亡国</a><br><em>作者：张作锦</em></p>
-<p><a href="https://book.douban.com/subject/25894699/">我想活得像个人：脱北者得边境血泪故事，来自南韩的真实记录</a><br><em>作者: 李學俊</em></p>
-<p><a href="http://tieba.baidu.com/p/1701569511">這就是天堂！我的北韩童年</a><br>
-作者：姜赫／菲利普．格兰杰罗</p>
-<p><a href="https://book.douban.com/subject/5904033/">夜 ：纳粹集中营回忆录</a><br><em>作者：Elie Wiesel</em></p>
-<p><strong><a href="https://book.douban.com/subject/25729320/">在资本主义带来浩劫时，聆听马克思：还原马克思，读懂《资本论》</a></strong><br><em>作者：杨照</em></p>
-<p><a href="https://book.douban.com/subject/10416610/">无敌：林肯不以任何人為敵人，創造了連政敵都同心效力的團隊</a><br><em>作者: 桃莉絲．基恩斯．古德溫</em></p>
-<p><a href="http://www.eslite.com/product.aspx?pgid=1001118562319955">执法所思：陈瑞仁检察官的司改札记</a><br><em>作者：陈瑞仁</em></p>
-<p><a href="http://www.eslite.com/product.aspx?pgid=1001122732438620">蔡英文绕不绕得过中华民国</a><br><em>作者：黃年</em></p>
-<p><a href="https://book.douban.com/subject/25785583/">流水何曾洗是非: 北大「牛棚」一角</a><br><em>作者：郝斌</em></p>
-<p><a href="https://book.douban.com/subject/25922704/">没有名字的人</a><br><em>作者：亞當．強森</em></p>
-<p>圣经研究系列9：新旧约圣经轻松读<br><em>作者：许宏度</em></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E9%A6%AC%E9%B3%B4%E8%AC%99?from=feed&loc=at" target="_blank">@馬鳴謙</a>: 查禁书运动开始了。下一步是不是要开始焚书了？<img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3459490382" target="_blank">@十圆一长</a>：不让出书，卖书，连看书都不让了！<img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"></p>
-<p>@浅绿蛙:所以說國人家裡不能持有國外出版的任何書籍???</p>
-<p>@红色种子8：形势突变，为这几本书来抄家只是借口，还有要找的宝贝找不到。开始动手，不见哨烟的战争打响了。</p>
-<p>@准公民沙之白：港台版本的书不许在大陆出现么？有明确的法律条文吗？</p>
-<p>@北京律师王兴：这也可以？这跟闯家里查黄盘有啥区别？公安真是无所忌惮地制造白色恐怖啊</p>
-<p>@泾河源头：对于一个非法组织来说，所有他不愿意看到的都是非法的。</p>
-<p>@磐石i：销号而不转世，影响力自然就淡了，可以下手了。</p>
-<p>@黄世仁白劳：乱套了，看什么书他们也知道，火眼金睛，三头六臂。</p>
-<p>@天涯v林古雪：准备下毒手的前奏？</p>
-<p>@什刹海体校张老师：文革开始了，暂时还没砸烂公检法</p>
-<p>@黑暗的沉思：他们来不可能就为几本书吧？上午傅莹还在说维权律师的事呢。</p>
-<p>@携酒与鱼：你不嫖娼，你总不会连书都不看吧。流氓要治你，分分钟找到理由。秦始皇正在复活，家里有书的赶紧烧吧。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/50%E5%B9%B4%E5%90%8E%E7%9A%84%E4%BB%8A%E5%A4%A9%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%84%E4%B9%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳群众</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -843,5 +818,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

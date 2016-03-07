@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431162/" target="cdt-mirror">滚筒洗脑机 | 妇女郑楚然的三八节栋笃笑＃反三七过三八＃</a>
@@ -50,7 +50,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/av%E5%A5%B3%E4%BC%98/?category=18271" rel="tag">AV女优</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E5%B0%8F%E5%88%9A/?category=18271" rel="tag">冯小刚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E5%91%8A%E7%9F%A5/?category=18271" rel="tag">宣传告知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%9B%BD%E7%AB%8B/?category=18271" rel="tag">张国立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E8%8F%81/?category=18271" rel="tag">李菁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%A8%80/?category=18271" rel="tag">莫言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2/?category=18271" rel="tag">西藏代表团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E7%BD%97%E5%85%8B/?category=18271" rel="tag">遇罗克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B1%E6%B2%B9%E5%A7%94%E5%91%98/?category=18271" rel="tag">酱油委员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%87%AF%E6%AD%8C/?category=18271" rel="tag">陈凯歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E6%9C%A8%E9%BA%BB%E5%A5%88/?category=18271" rel="tag">青木麻奈</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%B4%A7%E7%BB%B7-%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E5%99%A4%E8%8B%A5%E5%AF%92%E8%9D%89/" target="cdt-mirror">纽约时报 | 意识形态紧绷 两会代表委员噤若寒蝉</a>
 </h2>
@@ -769,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

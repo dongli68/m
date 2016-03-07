@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,15 +21,133 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E7%9F%AD%E7%9F%AD23%E5%88%86%E9%92%9F%EF%BC%8C%E5%91%8A%E8%AF%89%E4%BD%A0%E9%A2%86%E8%A2%96%E6%98%AF%E6%80%8E%E6%A0%B7%E8%A2%AB%E7%A5%9E%E5%8C%96%E7%9A%84/" target="cdt-mirror">【CDTV】短短23分钟，告诉你领袖是怎样被神化的</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-%E4%B8%8B%E5%8D%8812.32.17.png?resize=534%2C337" alt="Screen Shot 2016-03-07 at 下午12.32.17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-下午12.32.17.png?resize=300%2C189 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-下午12.32.17.png?w=534 534w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"></p>
+<p>《23分钟的奇迹》是日本长篇电视剧《世界奇妙物语》中的一集。</p>
+<p>故事中的大背景是刚刚发生政变、由极权主义政府执政的日本。一个小学班级里，新来了一位外表青春可爱的女教师。她只用了 23 分钟，就成功引导一班天真善良的小学生撕毁了原本的教科书，砸掉了“平等、自由、和平”的牌匾。</p>
+<p>短短的23分钟，就告诉你人民是怎样被洗脑的，领袖是怎么被神化的。罪恶常常长着一张美丽的脸，使你忘记什么是对的。</p>
+<p>CDTV推荐《23分钟的奇迹》。如果您在墙内无法看到YouTube上的视频, <span><strong>请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0">点击这里</a></strong></span>使用BitTorrent Sync (Sync) 下载观看。</p>
+<p><a href="https://www.youtube.com/v/EAo0yuR71uQ?version=3">https://www.youtube.com/v/EAo0yuR71uQ?version=3</a></p>
+<p>附：网友<a href="http://tieba.baidu.com/home/main?un=hwanghwang&ie=utf-8&fr=pb&ie=utf-8" target="_blank" data-field='{"un":"hwanghwang"}'>hwanghwang</a>在百度贴吧上发布的<a href="http://tieba.baidu.com/p/768165543">剧情解说</a></p>
+<blockquote><p>这个场景仅仅在教室里面     人物道具极其简单的故事<br>
+被很多人看了开头就忽略    其实是世界奇妙物语里面一个难得的杰作</p>
+<p>短短18分钟就通过教师和孩子们的交流    传递了一个震撼人心的恐怖的力量<br>
+一种精神意志的强大的洗脑能量的展现</p>
+<p>*由于全部翻译实在花费时间和精力     就把大意和梗概在此叙述<br>
+希望能满足一直想知道剧情的童鞋们*</p>
+<p><strong>(一)</strong></p>
+<p>令人迷茫和凝固的气氛笼罩在学校中   四周是一片死一般的寂静<br>
+连鸟叫都听不到一声     昏暗的在教室里坐着一个女教师在抽泣<br>
+孩子们都疑惑甚至有些害怕地看着她     一群人在教室中不知所措<br>
+每个人也许都想知道   到底发生了什么    让今天变成这样<br>
+伴着9点的上课铃响    一阵清脆响亮的脚步声渐渐而来<br>
+是一位新教师        她一身淡绿的裙子跟今天的昏暗格格不入<br>
+显得十分得刺眼      最后一排的男孩怒视着这一切他难以理解的骤变</p>
+<p>新来的教师扶了扶哭泣的女教师肩膀说    低声说道大家都在校长室集合<br>
+哭泣女教师有些控制不了情绪哭诉道     学校会怎么样 这些孩子将怎么办<br>
+新老师用坚定的眼神暗示了她     意味深长地低语：大家都校长室等着你    快去吧<br>
+哭得举手无措的女教师      仿佛有所醒悟似地离开了</p>
+<p>新来的教师用犀利和自信的眼神扫视了一圈教室    他并没有讲课<br>
+开始拿出录音机和磁带      给孩子们放着一首他们并不能理解的<br>
+意境悠远的歌     凄婉的声音像大自然的原野   空旷飘荡<br>
+貌似并没太打动孩子们    他们的世界实在是简单得像寥寥的几笔蜡笔画</p>
+<p>教师立刻叫了一个MM的名字   问感觉如何啊   不喜欢吗<br>
+其实他们根本不认识    MM特别惊讶老师为什么知道她<br>
+那个MM非常开心地说 我觉得是一首优美的曲子<br>
+教师又说    那以后我每次上课都给大家放点好听的曲子<br>
+接着她又陆续说出来其他同学的情况<br>
+大家都很惊讶   这时她已经赢得了好多位同学的初次好感</p>
+<p>(这是教师赢得孩子们认可，走出改变一切的第一步)</p>
+<p><strong>（二）</strong></p>
+<p>老师看着墙边挂着的意味深长的匾问大家知道什么意思吗<br>
+这时两个孩子表示开始表示不满    与其听觉得老师在这里宣扬这些空话<br>
+他们更想搞清楚究竟发生了什么    要让她来这里给大家讲这些无意义的大道理<br>
+“之前的哭泣的老师怎么会哭去哪里了”   教师说老师身体不好要休息<br>
+这个女孩子    若有所思地被轻易骗过去了      气氛略有缓和</p>
+<p>第一个被表扬的MM又说老师的衣服好漂亮 老师假装非常高兴<br>
+说如果大家喜欢 以后大家可以穿一样的衣服<br>
+这不就是匾上所写的平等吗     还有按照我们的心愿来穿衣服 这就叫自由<br>
+大家一致同意开始起哄   最后一排的怒视的孩子还带着极其排斥的心理<br>
+发脾气      不同意大家<br>
+他此时开始控制不住自己的感情     他站起来说他的爸爸被带走了<br>
+他问这是为什么   他爸爸去哪里了   要老师告诉他一切真相女教师此时有点惊呆       她并没慌乱    而是缓缓走到他面前<br>
+语重心长地告诉他   你爸爸去大人的学校了<br>
+大人有时候有问题也需要学习    需要改正     但他很快就会回来的<br>
+其他同学开始起哄    说出自己的父母也会如此这样<br>
+开始同意老师           似乎气氛开始和谐    。。。。。。<br>
+教师已经开始逐步赢得了大部分人的好感了</p>
+<p>还没有让这样祥和的气氛持续     最后一排的孩子这时发飙了<br>
+吼道： 你不要再忽悠大家了<br>
+我这里有报纸 上面白纸黑字写得清清楚楚<br>
+日本发动政变了   宪法改变了    日本现在一切混乱~！<br>
+老师冷静地问他：什么是宪法呢<br>
+他向大家解释：一个国家的决策<br>
+教师又温和地对大家说:    国家的宪法也像人一样经常会犯错误<br>
+它也有有问题的时候，有问题就必须修正，大家说对吧。</p>
+<p><strong>（三）</strong></p>
+<p>接着教师无视发怒男孩   马上抓取众人心灵   分散他的攻击力<br>
+她透露要和同学们一起去露营    去一个很干净的房间<br>
+大家在一起   吃很多好吃的东西   大家一起聊天 玩游戏 唱歌<br>
+然后 马上问大家想吃点心吗     再让大家   祈求神赐给大家点心<br>
+当然大家睁眼后    根本没有点心来    孩子们开始轻微地抱怨</p>
+<p>接着老师又让大家向国家领导人 祈祷    赐给我点心<br>
+趁大家闭着双眼祈祷的间歇     教师给每个人发了一个点心放在桌子上<br>
+窗外依然安静    但学堂这时已经不再是那死一般的沉寂<br>
+这个教室的朗朗声音     标志着它已经开始复苏<br>
+就像融化的冰块 开始发出脆响   水流渐渐地流向四方汇成一片汪洋</p>
+<p>睁开眼睛的同学们被眼前的点心惊呆了 似乎都开始相信他们国家的<br>
+新的政党    新的领导人的    给大家带来的真实存在的强大力量</p>
+<p>不出教师的所料    在这个热烈气氛中    那个不和谐的音符还没有删掉<br>
+怒视男孩继续开始发难   揭穿了这一切是教师所为<br>
+这时正中女教师下怀    她立刻抓住这个机会   趁机反表扬那个男孩<br>
+说他观察敏锐    是他为大家发现了这个道理<br>
+教师并借机发挥告诉大家世界上是没有救世主的   也没有神灵的存在<br>
+只有靠别人的帮助   还有像老师一样的人的力量才能给你们帮助<br>
+大家开始对发怒男孩刮目想看   发怒男孩反而开始被突然袭来的表扬<br>
+觉得有点歉疚和不知所措了     在这样的冲击下 对老师的反感大幅度减轻<br>
+（教师此时已经基本把这些孩子征服掉了）</p>
+<p><strong>（四）</strong></p>
+<p>这时候教师便提出要把那个匾取下    并且提出选出班委 大家都推荐发怒少男<br>
+发怒少男被搞得有点不好意思    同时他的虚荣心也得到了极大满足<br>
+这时候老师使出了最后的必杀技    宣布道：<br>
+好，接下来我们的新班委的第一个任务就是      把这个横匾潇洒地扔到窗外去<br>
+一MM觉得不妥     提出说这个是之前老师写下的重要的东西   恐怕不好吧<br>
+老师说   这些道理挂在这里并不重要     更重要是我们领会它   并且记在心里<br>
+这样的话 之前的老师知道你们这样    也会很开心    难道不对吗<br>
+（镜头给了MM和发怒男，他们的点头显示所有人都彻底被老师征服了）</p>
+<p>于是发怒男有些犹豫地走到前面取下了横匾      教师继续鼓动他   他在全班同学簇拥下<br>
+把横匾扔了出去   横匾在窗外还是寒冷的风中一声脆响   决然地粉碎了<br>
+同学们开始欢呼庆祝     旧政局的教育思想和体系     也彻底地开始在这里粉碎瓦解<br>
+预示着崭新的时代   崭新的思想 崭新的方式开始生根发芽 茁壮成长</p>
+<p><strong>（五）</strong></p>
+<p>教师这时像一个胜利的女皇一样      骄傲地看着这些被征服的单纯的孩子<br>
+她冷峻地看了看手表      时针指向了9点23分</p>
+<p>这时教师趁热打铁    开始让大家死掉旧用的教材     向每个人发放新书 新制服<br>
+孩子们的一浪高过一浪的欢呼声           洋溢在教室中。。。</p>
+<p>尾声    塔摩利大叔的话</p>
+<p>要操纵孩子们纯真的心，是多么地容易啊。<br>
+不仅是小孩。不管什么人到了某些情况下也会很容易任人摆布。<br>
+而且，如果遇到了恶意操纵人心里的人。。。<br>
+那大家可要小心了。</p></blockquote>
+<p> </p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E7%9F%AD%E7%9F%AD23%E5%88%86%E9%92%9F%EF%BC%8C%E5%91%8A%E8%AF%89%E4%BD%A0%E9%A2%86%E8%A2%96%E6%98%AF%E6%80%8E%E6%A0%B7%E8%A2%AB%E7%A5%9E%E5%8C%96%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A23%E5%88%86%E9%92%9F%E7%9A%84%E5%A5%87%E8%BF%B9%E3%80%8B/?category=18271" rel="tag">《23分钟的奇迹》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%96%E7%95%8C%E5%A5%87%E5%A6%99%E7%89%A9%E8%AF%AD%E3%80%8B/?category=18271" rel="tag">《世界奇妙物语》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B4%97%E8%84%91/?category=18271" rel="tag">反洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%89%A7/?category=18271" rel="tag">日本电视剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">极权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431162/" target="cdt-mirror">滚筒洗脑机 | 妇女郑楚然的三八节栋笃笑＃反三七过三八＃</a>
 </h2>
 <p><p>网易女人对不起。。没想过腾讯视频的logo会遮住。。。</p>
 <p>羞耻play又来了<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431125/" target="cdt-mirror">【河蟹档案】莫言朝政，闭目塞听</a>
 </h2>
@@ -736,28 +854,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%A9%86%E8%BF%AA%E8%B0%83%E4%BD%8E%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%BC%BA/" target="cdt-mirror">自由亚洲｜穆迪调低中国主权信用评级 中国官媒强烈反弹</a>
-</h2>
-<p><p>国际信用评级机构穆迪调低中国主权信用评级，引发中国官方强烈反弹。中国官员和官方媒体接连批判穆迪“没有远见，恶意唱衰”，引发热议。有评论认为，中国官方的过激反应是因为在现有体制下，中共掌管一切，穆迪此举在中国当局的眼中等同批评中共管治不力。</p>
-<p>国际信用评级机构穆迪日前将中国主权信用评级展望由“稳定”下调至“负面”。穆迪认为，中国的外汇储备持续下降，政府债务不断上升，经济改革不确定等因素，会令中国的经济增长显著放缓。与此同时，穆迪还将中国的8间保险公司，25间非保险金融机构，38间国有企业的信用评级展望下调至“负面”。</p>
-<p>中国财政部副部长朱光耀在接受媒体采访时称穆迪的做法没有远见，将来实践会证明它是错误的。</p>
-<p>北京理工大学经济系教授胡星斗3月4日向本台表示，中国官方与穆迪之间的“分歧”，最主要的原因是两者的标准不同。穆迪的评级是以一个完全市场化的经济体标准来衡量，不过中国的经济中，政府也发挥了极大的作用，</p>
-<p>“当然目前中国的债务问题是严重的，包括地方政府债、公司债，如果按照市场的标准，有可能中国处于比较危险的状况。但我们要看到中国是一个政府强有力的这样一个经济体，中央政府最后会为债务风险兜底，中央政府有种种的办法来化解债务危机。所以政府控制的经济也有它的好处，能够应对危机。而穆迪所发表的（评级）是按照一个完全的市场经济体来预测风险。”</p>
-<p>另一方面，穆迪的举动也引发中国官媒强烈反弹。新华网连续两天发文怒批穆迪。新华网3月3日的评论文章称，穆迪作为国际三大信用评级机构之一，却长期干着损害自己信用和操守的事——对以中国为代表的新兴经济体和美国为代表的西方发达经济体的主权债务评级奉行双重标准。一方面对前者“苛刻”；一方面对后者“放松”。这种因人而异的选择性评级标准，只会透支其公信力和影响力，令其有关指标前瞻世界经济的权威性大打折扣。</p>
-<p>评论还说，在中国财政状况风险可控、保持良好的情况下，穆迪却将中国主权信用评级展望下调，不得不让人怀疑，穆迪是否也加入了“恶意唱衰中国经济”的阵营，想动摇国际社会对中国经济的发展信心。</p>
-<p>有网民调侃道：现在不是流行封号吗？去把信用评级机构穆迪给封了，它就不说负面了。网民“蒋宏晨”感叹：何必呢，就是个商业机构评级而已，某些媒体还预测4000点是牛市起点呢。网民“段段”则认为：能做的就是把自己弄好，让它的评级出现失误，失去公信力，而不是一开始就嚷嚷人家错了。</p>
-<p>河北资深媒体人朱欣欣3月4日接受本台采访时表示，由于中国是一党专政，共产党管制包括经济在内的一切，穆迪此举在中国当局的眼中等同批评中共管治不力，</p>
-<p>“在这个专制国家，统治者就相当于无限责任公司。既然是无限责任公司，那他就要把所有的事情都看作和他统治的合法性有关，最大的特点就是泛政治化。经济问题、文化问题、道德问题在他看来都是政治问题。所以穆迪这个机构对中国只是从经济的角度来评估，可是新华社就对他们的评价恶意揣摹人家的所谓动机，说参与了唱衰中国经济的行为，实际上他的本意并不是维护中国如何如何，实际上是维护中共形象，实际上背后他认为是打击了中共统治的合法性，威胁了中共的政治统治，如此而已。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 桂枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E7%A9%86%E8%BF%AA%E8%B0%83%E4%BD%8E%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%BC%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7/?category=18271" rel="tag">信用评级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E5%85%89%E8%80%80/?category=18271" rel="tag">朱光耀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E8%BF%AA/?category=18271" rel="tag">穆迪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%98%9F%E6%96%97/?category=18271" rel="tag">胡星斗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -769,7 +865,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +875,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

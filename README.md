@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431162/" target="cdt-mirror">滚筒洗脑机 | 妇女郑楚然的三八节栋笃笑＃反三七过三八＃</a>
+</h2>
+<p><p>网易女人对不起。。没想过腾讯视频的logo会遮住。。。</p>
+<p>羞耻play又来了<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431125/" target="cdt-mirror">【河蟹档案】莫言朝政，闭目塞听</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%86%E6%96%8C">但斌</a>：27年前论房价的报纸文章！珍贵！也有意思！<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-1.jpg?resize=396%2C524" alt="房价" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-1.jpg?resize=227%2C300 227w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-1.jpg?w=422 422w" sizes="(max-width: 396px) 100vw, 396px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3950212021878923" target="/weibo/395">2016年03月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E5%BE%92%E7%8E%8B%E5%86%A0%E9%9B%84">互联网信徒王冠雄</a>：<a href="https://freeweibo.com/weibo/%E5%BE%AE%E5%8D%9A%E8%AF%B4%E4%B8%A4%E4%BC%9A">#微博说两会#</a> //*<a href="https://freeweibo.com/weibo/%40%E5%8F%A4%E5%93%A5%E5%9C%A8%E7%BA%BF">@古哥在线</a>:看图对一联：莫言朝政，闭目塞听；只陈凯歌，文治武功…<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-4.jpg?resize=540%2C297" alt="两会" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-4.jpg?resize=300%2C165 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-4.jpg?resize=768%2C422 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-4.jpg?w=960 960w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3949579655444918" target="/weibo/394">2016年03月05日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E5%BE%90%E6%97%B6%E8%AF%84">老徐时评</a>：SPAM 作家一开会，就喜欢闭目沉思[嘻嘻]<a href="https://freeweibo.com/weibo/%E5%BE%AE%E5%8D%9A%E7%83%AD%E7%82%B9%E5%BF%AB%E8%AF%84">#微博热点快评#</a><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-6.jpg?resize=444%2C295" alt="两会" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3949995130550456" target="/weibo/394">2016年03月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%BD%87%E6%B9%98%E5%AE%A2_">潇湘客_</a>：中国梦！<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-2.jpg?resize=385%2C447" alt="444" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3949964633594078" target="/weibo/394">2016年03月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E5%9B%BD%E7%AB%8B">张国立</a>：文艺界又出一个大坏蛋。[发呆][难过][偷笑]我试试这条微博还删吗？<em><em><em>相关阅读｜《<a href="http://news.sina.com.cn/c/zg/2016-03-06/doc-ifxqaffy3667933.shtml">新浪<em><em><em>｜</em></em></em>四次大反转，央视和张国立到底谁在撒谎？</a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444.jpg?resize=286%2C508" alt="张国立" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444.jpg?w=720 720w" sizes="(max-width: 286px) 100vw, 286px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3950069998996602" target="/weibo/395">2016年03月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【惊愕】//*<a href="https://freeweibo.com/weibo/%40%E9%A6%99%E6%B8%AF%E5%95%86%E5%A0%B1%E7%B6%B2">香港商報網</a>：西藏代表團戴領導人胸章入場，每人胸前戴兩個：一是有毛澤東、鄧小平、江澤民、胡錦濤、習近平5人像章，另一個是現任主席習近平個人的像章。<em><em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/">枫行天下｜秦枫：西藏代表团戴习近平像章</a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-5.jpg?resize=459%2C306" alt="444" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-5.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-5.jpg?w=415 415w" sizes="(max-width: 459px) 100vw, 459px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3950051577519693" target="/weibo/395">2016年03月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40wm_yu">wm_yu</a>：中国人民真幸福，根本不用思考，跟宣传部走就行。<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-3.jpg?resize=410%2C729" alt="444" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-3.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-3.jpg?w=720 720w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3950108116323977" target="/weibo/395">2016年03月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%B6%E6%99%AF%E6%B4%B2">陶景洲</a>：这微博太复杂啦！<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-7.jpg?resize=451%2C803" alt="任志强" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3949824048509531" target="/weibo/394">2016年03月06日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9B%B9%E5%B1%B1%E7%9F%B3">曹山石</a>：人民日报微信公众号今晚封面文章的配图，是女优青木麻奈。//*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E8%81%94%E7%A4%BEAPP">@财联社APP</a>:见多识广[喵喵] <em><em><em>相关阅读｜《<a href="http://hk.apple.nextmedia.com/realtime/china/20160304/54828501">苹果日报<em><em><em>｜</em></em></em>AV女優登<人民日報>微信頭條</a>》；《<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%A4%E4%BA%86%E4%BA%BA%E6%97%A5%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B6%E4%BB%96%E5%85%9A%E5%A7%93%E5%AA%92%E4%BD%93%E5%BF%83%E7%B3%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E4%BC%98/">除了<人日>，还有哪些其他党姓媒体心系日本女优？</a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-10.jpg?resize=389%2C691" alt="人民日报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-10.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-10.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-10.jpg?w=720 720w" sizes="(max-width: 389px) 100vw, 389px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3949094907060641" target="/weibo/394">2016年03月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%98%9Fx%E8%BE%B0d69">星x辰d69</a>：SPAM 1970年3月5日，遇罗克在北京工体的十万人大会上，被宣判死刑并处决，他在1966年写下著名的《出身论》，批判血统论(老子英雄儿好汉，老子反动儿混蛋)。在遇罗克的祭日，重温北岛写给遇罗克的诗歌：我只能选择天空 决不跪在地上 以显出刽子手们的高大。<em><em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-%E6%9D%8E%E8%8F%81%EF%BC%9A%E6%AE%89%E9%81%93%E8%80%85%E9%81%87%E7%BD%97%E5%85%8B/">三联生活周刊<em><em><em>｜</em></em></em>李菁：殉道者遇罗克</a>》；《<a href="https://zh.wikipedia.org/wiki/%E9%81%87%E7%BD%97%E5%85%8B">维基百科<em><em><em>｜遇罗克</em></em></em></a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-8.jpg?resize=377%2C2145" alt="遇罗克" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-8.jpg?resize=180%2C1024 180w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-8.jpg?w=439 439w" sizes="(max-width: 377px) 100vw, 377px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3949574579617875" target="/weibo/394">2016年03月05日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431125/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/av%E5%A5%B3%E4%BC%98/?category=18271" rel="tag">AV女优</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E5%B0%8F%E5%88%9A/?category=18271" rel="tag">冯小刚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E5%91%8A%E7%9F%A5/?category=18271" rel="tag">宣传告知</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%9B%BD%E7%AB%8B/?category=18271" rel="tag">张国立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E8%8F%81/?category=18271" rel="tag">李菁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%A8%80/?category=18271" rel="tag">莫言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2/?category=18271" rel="tag">西藏代表团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E7%BD%97%E5%85%8B/?category=18271" rel="tag">遇罗克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B1%E6%B2%B9%E5%A7%94%E5%91%98/?category=18271" rel="tag">酱油委员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%87%AF%E6%AD%8C/?category=18271" rel="tag">陈凯歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E6%9C%A8%E9%BA%BB%E5%A5%88/?category=18271" rel="tag">青木麻奈</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%B4%A7%E7%BB%B7-%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E5%99%A4%E8%8B%A5%E5%AF%92%E8%9D%89/" target="cdt-mirror">纽约时报 | 意识形态紧绷 两会代表委员噤若寒蝉</a>
 </h2>
 <p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?resize=600%2C400" alt="习近平 两会" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>周四，中国国家主席习近平参加中国人民政治协商会议开幕会，出现在人民大会堂的大屏幕上。</p></div>
@@ -730,73 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9%E5%8F%AF%E8%83%BD%E4%BB%85%E4%BB%85%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%A3/" target="cdt-mirror">纽约时报｜供给侧改革可能仅仅是习近平的一个口号</a>
-</h2>
-<p><p>随着世界在期望中国担保自己能够掌控经济增长的放缓及动荡的股市，习近平已开始推出一个听起来不像马克思和毛泽东、更像里根和撒切尔的补救措施。</p>
-<p>习近平把他的下一个大的经济方案称为“供给侧结构性改革”，有附和保守派西方领导人在上个世纪80年代提倡的减税及放松管制的秘诀的意思。</p>
-<p>新口号预计将在中国立法机构周六召开的全体代表大会上享受显著的地位，它代表着为习近平改革中国经济的一波三折的计划增添活力的努力。但习近平仍面临着对他是否有决心彻底重组经济的普遍怀疑，那将需要削减臃肿的国有企业，伴随而来的是减少数百万人的就业机会。</p>
-<p>“人们对撒切尔和里根有很高的评价，因为事实证明，他们在极大的压力下做出了正确的选择，”财政部的经济学家贾康说，他是新政策最突出的倡导者。“他们的精神是勇敢地接受挑战，勇于创新，这当然是值得中国人仿效的。”</p>
-<p>习近平指的供给侧，正如里根经济学那样，将包括降低赋税、减少政府施加给投资者的负担。然而，其主要目标似乎是关闭或逐步减少生产远远高于市场需求的煤炭、钢铁、水泥等工业产品的矿山和工厂，严格控制导致产能过剩的信贷和补贴。</p>
-<p>一些经济学家说，供给侧改革的说法至少是向那些痛苦的措施迈出的一步，这些措施可能会引导经济健康增长。</p>
-<p>“这是一个旨在重振改革进程的重要新方案，”加州大学圣迭戈分校的经济学教授巴里·诺顿(Barry Naughton)通过电子邮件说。“政策制定者们已多次失误，总体来看，市场化改革的成就少得可怜。政策制定者们需要拿出一些别的办法。”</p>
-<p>习近平已对中国军队进行了重组，还主导了一场轰轰烈烈的反腐败运动。但在经济方面，他尚未能取得类似的突破，许多经济学家认为，他在这方面的失败已经削弱了企业对未来增长的信心。</p>
-<p>周三，信用评估机构穆迪投资者服务公司(Moody’s Investors Service)把其对中国经济前景的预期从稳定降到负面，理由是“当局推行改革的能力存在不确定性”。</p>
-<p>怀疑者认为，经济转型如此困难的一个原因是，习近平的经济目标已经多次与他的政治目标发生冲突。他们说，虽然习近平在把权力集中到自己手里这方面表现出极大的能力，但他一直不愿意约束国家的影响范围，尤其是限制国有企业在获得贷款、资源和客户上享有的特权，这些特权往往具有垄断性。</p>
-<p>一些经济学家说，习近平的供给侧方案也许会只对之前糊里糊涂的改革作表面上的改进，虽然承诺让市场自由化，但还是加大了国家的控制，方案比所需要的东西还差得很远。</p>
-<p>“为了让政府更多地步入市场的轨道，就需要回避干预，”上海高级金融学院教授朱宁说。“但是，这正是他们一直没有做的事情。”</p>
-<p>许多自由主义经济学家仍不相信中国政府会愿意减弱自己的权力，以及冒着面临下岗工人反对的风险，不管其说法如何强硬。把国家支持的产业调整到真正附和市场的水平会意味着削减数以百万计的就业机会。</p>
-<p>这些削减有很大可能会受到面临裁员威胁的工人和管理人员的强烈抵制。而在这些工人和管理人员集中的省份，也会受到来自当地官员的强烈抵制。</p>
-<p>2013年，习近平曾制定了一整套振兴经济的蓝图，包括发誓要改造国有部门、培育市场力量。但进展断断续续、极不均匀，反映出他不愿意放弃国家的控制，几位经济学家说。</p>
-<p>这些混杂的信号已导致政府官员的瘫痪，他们对在保持稳定和增长的同时，需要在多大程度上大作出削减很不确定。</p>
-<p>“中央政府强调供给侧改革，”北京大学的经济学家姚洋说。“而在另一方面，它仍在鼓励地方政府投资。这就是地方政府官员面临的困惑，因此他们不知道方向。”</p>
-<p>既然经济警报已经拉响，习近平愿意走多远呢？在周六开幕的全国人大上，共产党领导层将阐述他们的经济计划，届时这个问题的答案将会变得更加清晰。</p>
-<p>“他们是否言行一致仍然有待观察，”中国欧盟商会(European Union Chamber of Commerce in China)主席约尔格·伍德克(Jörg Wuttke)说。“如果不是，中国就会有很大麻烦。”</p>
-<p>如果是，可能也会很有难度。</p>
-<p>近期一项研究指出，如果进行裁员，那么未来两年里，钢铁、煤炭等行业可能会有逾300万人失业。本周一，政府表示将裁减180万名钢铁和煤炭员工，相当于这些行业劳动力总数的15%左右，不过没有具体说时间。</p>
-<p>“阵痛不可避免，但也是值得的，”共产党主要党报《人民日报》1月发表了一篇整版文章，赞颂供给侧结构性改革。“不可能皆大欢喜。”</p>
-<p>但是，如果说经济放缓正在迫使习近平采取行动，那么它也提高了行动的成本。</p>
-<p>从1997年开始的第一波国有企业倒闭潮中，逾3000万个就业岗位在不到十年的时间里消失。但中国经济开始腾飞，特别是2001年中国加入世界贸易组织之后，新增的就业机会消化了很多富余员工。</p>
-<p>目前预测的就业岗位减少数量虽然较小，但可能更富争议，因为经济正在放缓。习近平对社会稳定和群众支持非常重视，就业岗位的减少可能会对其构成威胁，他不太可能冒险推动中国进入急剧下行的局面。</p>
-<p>自从2008年金融危机以来，中国政府采取了刺激措施来保持经济增长，导致了债务增加。中国供给侧学派表示，盲目扩张已达到了不可持续的程度。</p>
-<p>例如，中国欧盟商会发布的一份新的产能过剩报告称，中国的钢铁产量已经“与真实的市场需求脱节”，是位居第二到第五的四大钢铁生产国——日本、印度、美国和俄罗斯——总产量的两倍以上。</p>
-<p>除了纠正这种问题，供给侧改革包括哪些具体政策仍然存在争论。官员和经济学家呼吁给私营企业减税，让私人投资者在国有企业中占有更大的份额，同时又不搞全面私有化。</p>
-<p>但是这个概念也很笼统，一些人也在它的基础上，主张为摇摇欲坠的国有企业提供更多的出口支持、政府资金和扶持政策。</p>
-<p>但是，对获得国家补贴的低效率行业进行抑制，则基本上获得了经济学家和政策制定者的一致支持。主张经济自由化的北京天则经济研究所所长盛洪说，再拖下去只会扼制增长、恶化问题、伤害工人。</p>
-<p>“如果没有拿出解决方案的迹象，今年可能会是特别危险的一年，”他说。“如果不改革，就会有大问题。”</p>
-<p>而供给侧结构性改革可能仅仅是一个口号。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9%E5%8F%AF%E8%83%BD%E4%BB%85%E4%BB%85%E6%98%AF%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8F%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E5%AE%B6%E5%86%9B%E6%88%90%E5%BD%A2-%E9%AB%98%E5%B1%82%E4%BA%BA%E4%BA%8B%E4%BC%A0%E9%97%BB%E7%94%A8%E5%BF%83%E9%99%A9%E6%81%B6%EF%BC%9F/" target="cdt-mirror">世界日报｜习家军成形 高层人事传闻用心险恶？</a>
-</h2>
-<p><p>中国正紧锣密鼓举办一年一度的人大和政协会议（简称「两会」），再度引起外界对中共 19 大人事安排的关注。「习内核」将成 2016 年中共政治的「新 风景」，也是党内高层基本共识。由是， 19 大人事布局，将是今年中共政治的重头戏。而哪些高官可能成「习内核」成员，将决定他们 19 大后的仕途前程。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k4gggggggg.jpg?resize=550%2C292" alt="k4gggggggg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k4gggggggg.jpg?resize=300%2C159 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/k4gggggggg.jpg?w=696 696w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>海外最近有报导分析称，习近平看上上海市委书记韩正，有意将其调至中央担任深改组办公室主任，为接替国务院总理李克强「热身」。理由是：一、韩正曾是习近平在上海任市委书记时的搭档；二、韩主政的上海 GDP 全国第一，说明其行政能力不错；三、重用与自己搭伴工作过、有丰富经历和政绩的「上海王」，应是习近平 人事选择的自然结果等。</p>
-<p>而李克强 2018 年后不再连任的原因，被归结为：一、身体不好、能力有限，力不从心。中国经济持续下行、股市崩盘、熔断机制导致「股灾 2.0 」、人民币贬值，均被看作是李相治理不力，施政无方。二、习李在经济政策和治理方略上「分歧严重」，李遂「被边缘化」。例如，李的「克强经济学」和「克强指数」在习压制下昙花一现，很快消声匿迹。三、习近平独揽经济大权，创立中央全面深化改革领导小组，并亲自担任组长，架空李克强治下的国务院，使习李关系尖锐对立。</p>
-<p>韩正是否有资格被划归「习内核」成员，北京部分圈内人有完全不同看法。他们认为，韩正将取代李克强，纯属天方夜谭、编故事。韩正是江泽民的人，韩如果内调，是逐步让其退出政坛的开始，也是习近平派亲信接管上海的举措，而不是重用韩。「习李体制」并非外传那样名存实亡。李克强团队经济上有一套完整计画与思路，在习近平认同支持下，正大力推行。李团队的思路缜密，方向对头，但落实的道路崎岖，阻力不小，需要习近平大力支持，包括王岐山的中纪委全力配合。李克强应对股灾，动用「锦衣卫」，就很说明问题。</p>
-<p>习李关系的基础是：一、李克强是技术官僚，没有政治野心。二、习对李的态度将影响整个团派势力和官僚系统向心力，习不会蠢到自毁长城。说习李之间有严重分歧，是反对派一厢情愿想法，混淆视听而已。</p>
-<p>习近平集权，依靠两大势力：一是太子党，二是团派和官僚队伍。依靠红二代，是特定时期的特定策略，暂时的权宜之计。依靠团派和整个官僚系统，才是习执政的根本和长远打算。而「习李体制」面对的最大阻碍力量，是掌握经济、金融和军队的太子党。四中全会后，李克强的经济改革铺开，全面进剿太子党掌控的各种「经济土围子」。<br>
-太子党便暗中兴风作浪，阻扰改革，一时之间，李克强举步维艰。海内外打造舆论说李身体不好，能力不行，习李不合，李就要卷铺盖走人，目的就是打 击李克强。</p>
-<p>事实上，习李经济政策和治理上不是分歧严重，而是各有侧重。譬如，习近平提出「供给侧改革」，是由政府主导的针对国有企业为主体的生产改革；而李克强主张的「新经济政策」，则是针对以高科技产业为主的新兴行业，是民营企业集中布局的领域。在今年两会召开下，北京大张旗鼓宣扬「新经济政策」，就说明政府今后发力经济改革的方向是什么，表明「新经济政策」和「供给侧改革」，将一起成中国经济改革的指导思想。</p>
-<p>习近平上台三年来，执政班底已成形，有自己的「习家军」，无需重用像韩正这样的前朝重臣。况且，习在上海时间短暂，难以与韩正等土地爷建立亲密关系。目前习在中央各内核部门人事布局已基本到位，各重要位置悉数安排自己人马介入。例如：组织系统有习的大学同窗兼室友陈希任中组部常务副部长，过去的文胆何毅亭任中央党校常务副校长；宣传系统有「之江新军」的黄坤明任中宣部常务副部长；财政方面，有习的重要智囊刘鹤、福建旧属何立峰任国家发改委副主任，来自浙江的舒国增任中财办副主任；中纪委方面，则有上海旧部杨晓渡任副书记；安全领域，有来自浙江、福建旧部蔡奇任中央国安委办公室副主任，来自福建厦门的北京市公安局长王小洪。</p>
-<p>习近平的机要秘书丁薛祥，刚被确认官升中办常务副主任，而中办主任更是习信赖的河北旧识栗战书。习在中央机要、组织、党务和宣传几大内核部门，实际掌权的都是他的得力干将。因此，外传习李分歧严重，李被边缘化 ( 甚至参与政变 ) 等，均缺乏可靠依据，与现实相去甚远。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E5%AE%B6%E5%86%9B%E6%88%90%E5%BD%A2-%E9%AB%98%E5%B1%82%E4%BA%BA%E4%BA%8B%E4%BC%A0%E9%97%BB%E7%94%A8%E5%BF%83%E9%99%A9%E6%81%B6%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -808,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -818,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

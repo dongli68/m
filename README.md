@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,169 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8A%A5%E9%81%93%E7%9A%84%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5/" target="cdt-mirror">【真理部】关于今年（2016）两会报道的重要通知</a>
+</h2>
+<p><p>宣传部重要通知（21条）</p>
+<p>1，做好习近平参加政协联组会的报道，重点做好反响报道</p>
+<p>2，稳增长栏做好典型报道</p>
+<p>3，不报医患纠纷</p>
+<p>4，不报两会安保</p>
+<p>5，不报释永信参加政协会信息</p>
+<p>6，不报两会新闻发布会幕后相关信息，如美女翻译等</p>
+<p>7，不报代表委员个人财富问题。</p>
+<p>8，不报国防预算问题</p>
+<p>9，不报殡葬改革问题</p>
+<p>10，不报公民权利和政治权利国际公约</p>
+<p>11，不报如浙江拆除违规宗教场所等涉及宗教敏感问题</p>
+<p>12，涉及腐败报道用新华社稿件</p>
+<p>13，内蒙呼格案用新华社稿件</p>
+<p>14，不报不愿学雷锋问题</p>
+<p>15，严控新媒体负面报道</p>
+<p>16，涉台涉朝使用新华社报道</p>
+<p>17，西藏代表戴习近平像章一事用新华社稿件</p>
+<p>18，不报雾霾问题</p>
+<p>19，不报楼市，汇市，股市，交通拥堵，号贩子负面报道</p>
+<p>20，不报代表委员国籍问题，不拿提案议案开玩笑</p>
+<p>21，各媒体加强在京记者管理，一切行动听指挥。</p>
+<p>－2016年3月6日</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p> </p>
+<p> </p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8A%A5%E9%81%93%E7%9A%84%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E5%A5%B3%E6%9D%83%E4%BA%94%E5%A7%90%E5%A6%B9%E4%B9%8B%E6%9D%8E%E5%A9%B7%E5%A9%B7%EF%BC%9A%E6%88%91%E7%8E%B0%E5%9C%A8%E5%BE%88%E6%B8%A9%E5%92%8C/" target="cdt-mirror">BBC | “女权五姐妹”之李婷婷：我现在很“温和”</a>
+</h2>
+<p><p><strong>一年前的“国际妇女节”前夕，中国的“女权五姐妹”被一一逮捕。李婷婷也是其中之一。</strong></p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/151203063325_li_tingting__640x360_bbc_nocredit.jpg?resize=600%2C337" alt="李婷婷说现在不温和，没有办法做事。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/151203063325_li_tingting__640x360_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/151203063325_li_tingting__640x360_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>李婷婷说现在不温和，没有办法做事。</p></div>
+<p>5人被刑事拘捕的消息引起国际社会的关注和谴责后，2015年4月，5人先后均获释。但到目前为止依旧属于“取保候审”状态，出行受警方监控。与地方“国保”的一来二去，已是家常便饭。</p>
+<p>“女权五姐妹”被逮捕事件一周年，恰逢中国“两会”召开和国际妇女节之际，“女权五姐妹”的现状如何，是否一阵喧嚣后，她们开始渐渐淡出公众视野？中国的女权运动走上街头后，现在是否转向了温和派?</p>
+<p>BBC中文网因此专访了“女权五姐妹”的李婷婷，又称李麦子，因发起“占领男厕所”、“带血新娘”等街头活动被媒体和大众熟知，也因此遭受了刑事拘留之苦。在被拘留的27天里，她遭受了49次审问。</p>
+<p>“最近因为我手机丢了，他们一直没有联系上我，现在才联系上。”李婷婷在电话里跟BBC中文网记者描述中国“国宝”监视她的情况。语气里除开无奈，还有那么点27岁年轻人的俏皮。她还提醒BBC中文网记者，自己手机是被监听的。</p>
+<p>她说“国宝”的人一般以吃饭聊天的形式约见她。她也不知道“国宝”的人具体要做什么，“可能就是叫我乖，不要干别的事情吧。”</p>
+<p>除开对李婷婷个人的监视和“喝茶”，李婷婷的父母和北京居所的村委会书记也被约谈。</p>
+<p>李婷婷说，特别烦他们烦父母。</p>
+<p>BBC中文网问李婷婷“国宝”的措施是否凑效，她本人是否有担心时，她非常直接地回复说，有，目前不能做街头活动。</p>
+<p>她说：“感觉手伸得可长了。做什么都不让。”</p>
+<p>但她表示，父母不太管自己。只是叮嘱记得跟警察保持联系。</p>
+<p><strong>温和提案</strong></p>
+<p>李婷婷描述现在的自己很“听话”，不再上街做街头运动，而是选择比较温和的方式。比如收集“两会”提案和写信给旅游局要求设立更多的女厕所。</p>
+<p>关于今年“两会”提案，李婷婷在电话里介绍说，她所作是收集“两会”提案，请同学发给认识的”两会”代表。</p>
+<p>但这也遭到了“国宝”的干涉。结果是，村委书记告诫李婷婷的父母，别让她去递信。</p>
+<p>而她发声的渠道中国社交媒体微博上，用户“麦子家”最近的更新状态也比较安静，对“两会”只字未提。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/150702101444_li_tingting_wedding_624x351_ap.jpg?resize=600%2C338" alt="李婷婷去年7月在北京与同性伴侣举办了婚礼，希望推动中国同性婚姻合法化。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/150702101444_li_tingting_wedding_624x351_ap.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/150702101444_li_tingting_wedding_624x351_ap.jpg?w=624 624w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>李婷婷去年7月在北京与同性伴侣举办了婚礼，希望推动中国同性婚姻合法化。</p></div>
+<p>李婷婷收集的话题，包括开放中国的“卵子库”和单身女性的生育权。她说作为一名女同性恋者，一直因无法在中国“合法生育”而受到困扰。</p>
+<p>由李婷婷发起的“占领男厕所”在2012年引起了轰动与争议。曾几一时，她们意气风发想把这项活动做成一项持续的活动。</p>
+<p>听完记者提完“占领男厕所”后，李婷婷在电话那头几声苦笑。她说，“占领男厕所可以有一些后续的活动，但是再复制‘占领男厕所’的行为艺术，可能就比较难了。”</p>
+<p>她也给中国国家旅游局和地方旅游局写信，建议在旅游景点设立更多的女性厕位。李婷婷认为，这是旅游景区男女厕所不对等的问题。景区一到旺季，女厕门口就排长龙。该矛盾很突出，也需要得到解决。</p>
+<p>但目前还没有收到回复。</p>
+<p><strong>两难境地</strong></p>
+<p>此前在接受BBC“巾帼百位”系列采访时，李婷婷表示目前中国女权运动的空间在进步一缩小。大约4个月过去了，她说情况依旧没有好转。</p>
+<p>所以目前她采用比较温和的方式去争取权益。但温和的方式成效多大？</p>
+<p>她自己也坦承，效果会比较慢。她介绍说其她几位“女权五姐妹”的成员，现在比她还要温和。但在以不同的方式争取权益。</p>
+<p>但李婷婷看来，与此同时摆在中国女权主义者面前的两难境地是，不温和无法做事。</p>
+<p>李婷婷曾担任北京非营利性的公益机构“益仁平”中心LGBT的项目负责人。该机构反对歧视艾滋病病毒携带者、肝炎患者和残障人士，是中国一个为边缘群体发声的重要公民组织。 但目前该机构已停止工作，北京办公室已外租他人。此前该机构的工作人员受到监视和跟踪，房东被多次请“喝茶”。顶不住压力，暂时关闭了。</p>
+<p>李婷婷说，环境越来越差。如果将来允许的话，可以考虑重开。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160307060657_li_tingting__464x261_tingtingli_nocredit.jpg?resize=600%2C338" alt="今年1月出现的“反逼婚”广告曾在中国单身大军中引来一阵叫好声。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160307060657_li_tingting__464x261_tingtingli_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160307060657_li_tingting__464x261_tingtingli_nocredit.jpg?w=624 624w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>今年1月出现的“反逼婚”广告曾在中国单身大军中引来一阵叫好声。</p></div>
+<p><strong>为什么要温和？</strong></p>
+<p>中国北京师范大学的妇女研究学者王曦影对BBC中文网记者表示，中国目前的女权运动空间在缩小。留给行动派的空间越来越小。</p>
+<p>但不代表行动派就停止了行动，她们寻求在有限空间里做事。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E5%A5%B3%E6%9D%83%E4%BA%94%E5%A7%90%E5%A6%B9%E4%B9%8B%E6%9D%8E%E5%A9%B7%E5%A9%B7%EF%BC%9A%E6%88%91%E7%8E%B0%E5%9C%A8%E5%BE%88%E6%B8%A9%E5%92%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%BA%94%E5%A7%90%E5%A6%B9/?category=18271" rel="tag">女权五姐妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">权利运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%A9%B7%E5%A9%B7/?category=18271" rel="tag">李婷婷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">社会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-7-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 3-7</a>
+</h2>
+<p><p>@39slb：（一） 西北某地一学生，志存高远，矢志从医。首次高考考入泸州医学院，到校后发现不理想，学校名气太小，果断返乡复读，一年后成功考入四川医科大学，到校后傻眼了，发现还是原来的泸州医学院。于是再回家又复读一年，更加刻苦努力。第三年如愿考入西南医科大学。到校后据说人已经疯了……</p>
+<p>@39slb：（二） 重庆大学五年内换了三个校长，某学生本科读的重大，硕士读的浙大，博士读的北大，结果毕业证上统统盖的林建华的章。找工作的时候，面试官：“同学，造假也要专业一点嘛，你就不能多刻几个章？”</p>
+<p>@shifeike：墙内是一天比一天的保守、怯懦，最后滑向绝对的自我审查与彻头彻尾的不关心。墙外是一天比一天的愤怒、单调，最后变成夹杂着鄙夷与不屑看到回应的自说自话。墙内和墙外，都是单向度的刻板印象，积累的是不忿、仇恨和互相瞧不上。</p>
+<p>@o_karen：鎖推推友：三十歲時，大部分人都卡在初級職位上。現有的工作升不上去，又無法承擔轉行的時間成本，更來不及再去讀書。父母開始多病；自己收入有限，也沒有存款。更大的痛苦，是看到身邊沒有背景但努力又聰明的人已經小有成就，有背景的人已經開始過上貴族生活了。</p>
+<p>@mozhixu：理解大陆房市，一，是拍卖场，且政府从中抽头一半以上，二，权力等级导致的资源集中，吸引人口流动，为房价支撑因素，经济机会也有一定作用，三，投资不畅，通胀阴影，导致周期性投机，前两者决定了一二线房价只涨不跌，后一点是周期性投机和快速上涨的原因。和党国一样，房价只可能崩溃，不会调整。</p>
+<p>@StarKnight：近两周好几位国内的朋友找我咨询房价的问题，分别来自深圳、上海、苏州和广州。我莫名得很，和他们解释：自己在国内没有，在日本也没有不动产购置经验。结果对方说没关系，我们就是想了解一下，日本泡沫经济时代的房价推高的过程，以及，后来怎么跌的，跌了多少。</p>
+<p>@Shuihuise：关于《编辑部故事》为什么要禁不要乱猜，累死也猜不着，贵组织G点总是莫名其妙，曾经做过一主旋律电视剧画册，后来原本52集要改成49集，原因是某某某的电视剧才50集，某的剧怎么能超呢？于是费尽周折再删；画册里主角衣服颜色要换，因为它的颜色不能比谁谁的衣服颜色亮……我跟听笑话一样。</p>
+<p>@hnjhj：三表朝的当红肥皂剧，庆丰朝被取缔，难怪世人皆膜蛤啊。</p>
+<p>@wuzuolai：知情人说，现在宫中人们没时间抓经济，只是抓一下稳定，不翻船，余下的时间要摆平十九大，物色确定二十大继承人。一切的一，一的一切，都是选太子。太子是谁的，天下最终就是谁的。想想他们，也是够苦的，不相信选票，只相信眼力，毛的眼力，邓的眼力，江的眼力，谁的更独，更毒？但是，马用？</p>
+<p>@mozhixu：微博总体开放，新浪倾向大V，打造超级秀场，对普通用户则实施恐怖手段，任意删帖封号，随着党国铲除大V，，新浪微博迅速垃圾化。微信有见于此，采取非开放策略，尺度较宽，气氛相对宽松，但缺乏话语竞争，形成一个个封闭圈子，谣言和垃圾贴横行。没有言论自由，什么新平台都会搞成怪胎。</p>
+<p>@chuhan：朋友圈被假星巴克优惠券刷屏。和多数政治谣言/猜想一样，不是一个“傻逼”就能敷衍或者解释，有新闻联播，就一定会产生政治民谣。微信搭建了一个封闭的缺乏公共领域的分享平台，尺度是比新闻联播要大许多，但终究是集权架构，主旨自然是方便管控，实际上也为骗局提供不易被戳穿的条件。</p>
+<p>@freedomandlaw：现在很多人说文革重来的可能性很大，我不这么看，除非你把现在的状态叫文革。市场化改革推动实利主义盛行，深刻地瓦解了旧有意识形态的宣传，官方的宣传根本无法激起人们的热情，宣传仅仅一份工，获得的社会反馈主要是批评，宣传的越多背离其目的就越远。但是权力的恣意依然是超级严重和超级有害的。</p>
+<p>@ZhangDajun：2016年1月中央财政收入下降0.7%，因此才有大规模印钞放水的政策。中国金融政策的核心目标是保证中央政府的财力，从而保证中央对全局和地方的控制。只要中央财政收入下降，印钞机必然启动，下降越多，印钞机越疯狂。经俺多年观察，这一规律从未失效过。</p>
+<p>@ZhangDajun：六大发电集团今年前两个月用煤量比去年下降20%。用在除朝鲜外的任何国家，都可以说经济已经崩溃。可是，开会的人都还在假装从一个胜利走向下一个胜利。这就是赵国，这就是有赵家特色的社会主义。</p>
+<p>@hnjhj：赵国自打我有记忆开始就一直在改革。从中央到地方，改完这个改那个，改了一遍又一遍，感觉从来就没找到过谱。然而改来改去你以为总得有点进展，尼玛结果每年都是最困难的一年。</p>
+<p>@manatsu_riko：你国男性对女性的认知普遍还只停留在“能操”和“能生孩子”这两点上，不具备这两点，任凭一个女人如何优秀出色，她都是“不完整”的。部分37横幅通过那些卑劣恶心的字眼传达出这样的“赞美”——“女人能勾起性欲，赞美女人！”“你们是最棒的儿媳妇，赞美你们！”</p>
+<p>@影评老大爷暗夜骑士：在中国电影高度市场化的十年时间里，奥斯卡最佳影片只引进过三部，《艺术家》、《国王的演讲》、《贫民窟的百万富翁》。《为奴十二年》有人买了，却没了下文。《聚焦》估计连买都没人买。</p>
+<p>@choicky：堂弟全国各地做展览。最近在河南承租一个停业的乐园做展览。园方在展览的第一天就列了个清单，说观光游客损坏了乐园的若干设备，要我堂弟赔十几万，不给这笔钱就扣押价值二十万元的展览用品。为什么体制外的人都涌向一线城市，就是因为在经济不发达的城市从事商业活动风险很高高啊。</p>
+<p>@王朔观点：国人除了能为自己带来实际利益的东西，对其他精神层面的事物都缺乏兴趣。在你国，马斯洛的需求层次论彻底失效了。生理安全情感尊重自我实现的需求并非呈递进关系。我们其实一直在“生理”和“安全”的层面打转，除了关心自己的欲望以外，从不思考任何对世俗利益看去无用的东西，即使它“看上去很美”。</p>
+<p>@lapetiteile：当年初中有一次周五下午不上课，我没跟我爸妈说，然后跑去网吧，跟朋友在网吧玩得正欢，突然QQ弹出来好友请求：♀莪媞妳夿夿♂。我想这尼玛是哪个逼货同学，我就点了确认，然后对方发来消息：逮到你娃娃了，在哪里上网，老实说！</p>
+<p>@ichimaru0223：那推让我想起了父亲那代人，出门总能遇到个说得上话的熟人，聊个天吹个牛。吃蟹借个醋，包馄饨送一碗，周末打个乒乓球，买个大件还互相征求意见，还老给孩子定娃娃亲。只可惜，到了我们这代，各家搬家买房，社区分崩离析。原本人情浓厚的街区到头来只剩下孤独的老人，破旧的公房和操着普通话的租客。</p>
+<p>@耳帝：饭馆邻桌，一小学生兴奋地跟他妈说学校给发了个奖，他妈问班里几个人得奖，男孩说二十几个，他妈说那一多半都有奖你高兴个屁，男孩顿时有种诧异的失落，想了半天，说谁谁都没得。多熟悉的场景，从今天起，他开始失去用理念构建生活的能力，此后喜悦要因比别人好而建立，愁苦则要以别人比自己差来缓解。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cc36QnhUEAA3NCM.jpg?resize=450%2C800" alt="Cc36QnhUEAA3NCM" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-7-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%96%9B%E9%9D%99%EF%BC%9A%E5%A6%87%E5%A5%B3%E8%8A%82-%E6%88%91%E4%BB%AC%E9%80%89%E6%8B%A9%E5%92%8C%E8%B4%AC%E4%B9%89%E8%AF%8D%E4%B8%89%E5%85%AB%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7/" target="cdt-mirror">薛静：妇女节 我们选择和贬义词“三八”站在一起</a>
+</h2>
+<p><p>我出生在3月9日的凌晨，我的妈妈告诉我，原本她在3月8日就已经进了产房，但是坚持到第二天才生下了我。我有点好奇，问她为什么，她扬扬眉说道：</p>
+<p>“三八嘛，总是感觉怪怪的……”</p>
+<p>人的直觉，有时候是非常敏锐的。就在我长大成人的这些年间，“三八妇女节”在官方话语和民间文化两个层面上的分裂，逐渐从潜藏的裂痕演变为明白敞亮的各走一路。一方面，各种“三八红旗手”的评选仍在进行，“妇女节”的庆祝仍然一年不落，单位发发洗衣粉和热水壶，媒体拍拍参会的民族风和女代表，有条不紊，十分和谐。另一方面，随着港台文化的入侵，“三八”一词迅速变成“搬弄是非的女性”的代名词，而“妇女”也越来越多地让人联想到围着锅台和娃娃团团转的大妈大婶，她们被暗示为年老色衰、丧失吸引，不再是被男性注视的对象，而仅仅成为社会中的工具化存在，“三八”与“妇女”的相连，更加剧了这一节日在民间被污名化的程度。</p>
+<p>于是，妈妈在我出生之时的那点小小盘算，仿佛成为了一个巨大的隐喻：一个母亲，不会去算良辰吉日、以求飞黄腾达，只想在她能力所及的范围内，让她还未出生的孩子，尽力避免被污名化的命运。</p>
+<p>同样在80年代末期，山东大学在妇女节的相关活动中，率先提出了“女生节”的概念，并选定在“三八妇女节”前夕的3月7日加以庆祝。“女生节”的提出，迅速获得了全国各大高校女生的芳心。一个既能享受男生们的问候、赞美与关爱，又能避免“妇女”这种称呼的节日，让姑娘们如何拒绝呢？</p>
+<p>“女生节”踏着轻快甜美的脚步，从一校传遍全国，从高校进入中学。在我初中的时候，学校已经流行在3月7日互致问候、甚至递送贺卡了。我们班上还有一位男生，会在每年的“女生节”带来一大包进口糖果，分给班级的女生们。我们享受着充满水果甜味儿的节日一天，也从未觉得有何不妥。</p>
+<p>直到三年后的中考，我考入本校的高中部，因为发挥并不太好，所以对能不能进入实验班心里没底。我和那个发糖果的小男孩相约一起去看分班结果，出人意料的是，他的名字在实验1班的名单里，而比他高7分的我，却落到了实验2班。</p>
+<p>他很肯定地安慰我说，一定是名单搞错了，因为他知道几个成绩比他还低的哥们儿，同样在实验1班。他拽着我去招生办公室找老师，那位女老师非常淡定地告诉我们：为了实验1班男女比例平衡，确实男女生分数线有所差别，因为“女生没有男生后劲足嘛”。</p>
+<p>15岁的我不知道该如何消化这个消息，眼泪刷地一下流了出来。身边的男孩同样满脸意外，非常尴尬。我们默默地走出办公室，在回家的路上，他掏出一颗糖递给我：</p>
+<p>“你别哭了，吃点甜的心情会好……”</p>
+<p>我知道他并无恶意，但是那一刻，我实在无法接下那颗糖。</p>
+<p>我非常想告诉他，我并不想要什么糖果，我只想和你坐在同一间教室里，接受最好的教育。那是我应得的。</p>
+<p>回家以后，我问妈妈该怎么办，她沉默良久，最后告诉我：孩子，你是女孩，所以你要更努力才行。</p>
+<p>半学期后的期中考试，我考进了年级前十。</p>
+<p>那次考试，我们班有8个姑娘，考入了年级前45名。</p>
+<p>后来，我高考以全校第一的成绩进入北大，然而这种“比他们更努力”所抚平的性别差异，并未因此彻底解决。而且，随着我从本科念到博士，我周围喧闹的声音也越来越多。很多人忧心忡忡地为我的年龄、前途和婚姻做打算，觉得一个好好的小姑娘竟然成了“女博士”，她的人生简直要完蛋了，还是快点拴住一个不怕死的男人，或许生活还能获得救赎。某次被迫和传达室大叔进行寒暄，他语重心长地跟我说：“女孩子，读书差不多就行了，读个博士，四年以后可就二十八九啦……”</p>
+<p>“可是大叔，就算我不读博士，四年以后照样还是二十八九啊！还不如多读点书，免得等到年纪大了，还是一副没见识的样子。”</p>
+<p>但是口舌之胜终归是口舌，我还是无可救药地掉进了“女博士”这个魔鬼化+污名化的身份之中。</p>
+<p>这个25岁的我，和彼时15岁的我，面临的困境其实是一样的。十年，无论我多努力，所能做的，无非是从一个污名化的境地，逃离到另一个污名化的境地。这不是因为我后劲足或不足，成绩好或不好，而是因为，我是女性。</p>
+<p>我们身在中国的知名学府，大多出自典型的中产家庭，收拾打扮一番，样貌也都还算体面。作为一群年轻的知识分子、未来的精英阶层，我们有100种方式，可以逃离“污名”，可以不被叫“女博士”而被称为“青年学者”，可以不被叫“老学姐”而被称为“白富美”，可以不被叫“妇女”而被称为“女生”……</p>
+<p>可是，那又怎么样呢？</p>
+<p>我们年轻，所以我们可以过“女生节”，享受男生的礼物和赞美。</p>
+<p>我们貌美，所以我们可以过“女神节”，享受屌丝的膜拜和跪舔。</p>
+<p>我们有钱，所以我们可以过“女王节”，享受商家的服务和吹捧。</p>
+<p>然而如果有一天，我们不再年轻、不再貌美、不再有钱，我们是不是就不配再做女性？如果有一天，我们不再能成为供男权社会和商品经济觊觎的猎物，我们是不是就只能成为那个“阁楼上的疯女人”？</p>
+<p>并且，现实比假设更残酷的是：当你过于年轻、过于貌美、过于有钱，他们一样会窃窃私语，质疑你的身家背景、感情生活、能力道德，然后继续把一盆又一盆污水泼在你的身上。</p>
+<p>其实，污名，是无法逃离的。</p>
+<p>当他们向这个位置泼污水的时候，我们逃走了。但是他们转而找到另一个借口，向我们现在的位置泼洒污水，我们只能再次逃走了。我们一直奔跑，永不停歇，直到有一天精疲力竭，跪倒在他们面前，要求加入他们，成为递送污水的一员。</p>
+<p>我只是想趁自己还有力气的时候，停下来，站到那个已被污名化的“妇女”的位置，和一百多年前芝加哥勇敢罢工示威的女性一起，和二三十年后容颜老去、鬓染风霜的自己一起，告诉那些向我泼来污水的人，他们是错的。</p>
+<p>无论男女，我们都可以在停止这场泼污水的无聊游戏之后，变得更好。而这个中止的开关，需要我们共同拉下。</p>
+<p>我想要的，不只是今天的爱心早餐，还是二十年后，我在厨房切菜的时候，你在旁边打着鸡蛋和我聊天。</p>
+<p>我想要的，不只是你摸着我的脸、赞美我的容颜，还是你拉着我的手、我们彼此讲述光环背后的艰辛。</p>
+<p>我想要的，不只是清空了购物车的“买买买”，还是此后一生，无论事业谁强谁弱、薪水谁高谁低，都能够彼此尊重、彼此支持、彼此欣赏。</p>
+<p>我并不想当女生、女神和女王，如同我并不想要十几年前的那颗糖一样。我想要的，是成为一个可以被我们彼此都正视的性别身份。</p>
+<p>“我们生下来时，社会是这样，是我们的无奈；我们的孩子生下来时，社会还是这样，是我们的无能。”</p>
+<p>我选择和“污名”站在一起，只是希望，在未来的某一天，我的孩子降生的那刻，无论是光棍节还是妇女节，无论是三七、三八还是三九，TA都看到一个干净的世界，都能为自己的性别、身份与生日，感到骄傲。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%96%9B%E9%9D%99%EF%BC%9A%E5%A6%87%E5%A5%B3%E8%8A%82-%E6%88%91%E4%BB%AC%E9%80%89%E6%8B%A9%E5%92%8C%E8%B4%AC%E4%B9%89%E8%AF%8D%E4%B8%89%E5%85%AB%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">社会公平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/" target="cdt-mirror">【异闻观止】共青团中央：我恋爱了 和他</a>
 </h2>
 <p><p>@共青团中央：我恋爱了，和他[心]</p>
@@ -674,170 +834,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E6%98%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%94%BF%E8%A7%81-%E5%9B%BD%E5%AE%B6%E9%81%97%E4%BA%A7%EF%BC%9A%E5%B8%9D%E5%9B%BD%E5%B7%B2%E6%AD%BB%EF%BC%8C%E5%B8%9D%E5%9B%BD%E4%B8%87%E5%B2%81/" target="cdt-mirror">政见 | 国家遗产：帝国已死，帝国万岁</a>
-</h2>
-<p><p>作者：王也</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/RomanSunrise_Jacob-Surland.jpg?resize=550%2C275" alt="RomanSunrise_Jacob-Surland" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/RomanSunrise_Jacob-Surland.jpg?resize=300%2C150 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/RomanSunrise_Jacob-Surland.jpg?resize=768%2C384 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/RomanSunrise_Jacob-Surland.jpg?resize=1024%2C512 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/RomanSunrise_Jacob-Surland.jpg?w=1600 1600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>图片来源：Jacob Surland</span></p>
-<p>公元 968 年，正值中国历史上的五代十国时期。在军阀混战、烽烟四起的时代背景下，一个名为 “丁朝” 的王朝在越南 （交趾） 北部成立。自此，中国政权从汉朝起越南北部延续一千多年的统治走到终点。丁朝及其后的越南统治者们沿用中国的行政和官僚制度，建立了一套有效的中央集权体系。相比之下，如今越南南部地区历史上只是古高棉国的边缘属地，缺乏统一的权威和管理机构。随后，北部越南的势力不断向南渗透；直到 1833 年，越南全境得以统一。然而，未等相同的制度复制到南部，越南的历史发展进程在 1859 年随着法国殖民者的入侵而中断。</p>
-<p>在 2015 年发表的一篇工作论文中，哈佛大学学者<strong> Melissa Dell</strong>、斯德哥尔摩大学学者 <strong>Nathan Lane</strong> 和纽约大学学者 <strong>Pablo Querubin</strong> 诠释了他们合作研究的最新成果。经过对越南历史上南北分界线周边地区的比较，研究者发现，无论是地理还是文化，两地都不存在明显差别，但今天北部居民的生活水平和受教育程度却远远高于南部。</p>
-<p>三位学者认为，这种情形反映了历史上越南北部因存在中央政权而产生的长期影响。</p>
-<p>尽管经历过法国殖民者入侵、共产主义兴起并取得国家独立以及漫长的越南战争，一系列的冲突和动荡之后，那个如今只存在于历史课本上的旧政权实际上还在影响着今天的越南。</p>
-<p>研究表明，在分界线北侧的村庄里，居民参与公共事务的热情更高，更愿投身公共工程和缴纳税收，也拥有更多的教育和医疗服务。另外，相比分界线南侧，北侧村庄管理岗位空缺情况更少，在位的管理者会更主动地参与村庄治理、与村民讨论发展计划。同时，北部村民的表现更保守，导致外国投资水平低，在历史上也更排斥越共活跃分子。</p>
-<p><strong>长期中央集权=经济腾飞？</strong></p>
-<p>无独有偶，在观察那些走出 “中等收入陷阱” 的经济体时，学者们也留意到了如下事实：凡是实现了经济腾飞的国家和地区，历史上都被中央集权政府长期统治。葡萄牙、韩国、台湾……莫不如此。这种相关性是否蕴含着普遍规律呢？两位经济学者 Michalopoulos 和 Papaioannou 利用非洲人类学调查记录给出了肯定答案。</p>
-<p>他们 2013 年在 《计量经济学杂志》（Econometrica） 上发表一篇论文，利用卫星灯光密度数据，测算非洲各民族聚居地的经济发展水平。研究发现，那些历史上出现过相对复杂政治制度的非洲民族，今天也享有着相对更高的经济发展水平。即使只对一国之内的不同民族进行比较，或者只考察相邻民族的差异，依然可以得到相似结论。而用其他方面的变量考察，如从事的主要经济活动，是否采用奴隶制度等，没有得出同样的结果。</p>
-<p>次年，两位经济学者在 《经济学季刊》（Quarterly Journal of Economics） 发表论文进一步指出，某一非洲民族当下所在国家的政治制度对其经济发展水平反而起不到太大作用。如今的非洲国界，很大程度上是当年不了解非洲的欧洲殖民者任意划分地盘的结果。这种划分方式往往导致同一民族被分到不同国家中。两位研究者考察这类案例，发现国界两侧，同一民族的发展水平不存在明显差别——唯一例外的是那些居住在国家首都附近的民族，他们明显受到了当地政治制度影响。</p>
-<p>对于以上发现，两位学者解释，非洲国家政府能力普遍低下，影响力仅限于首都附近。在偏远地区，人们还会按传统方式行事，而所谓传统方式由民族历史上的政治发达程度所决定。如果有在中央集权政府和官僚体系下生活的经历，人们就更容易彼此协作，推动经济增长。</p>
-<p>那些已不复存在的国家，留下的遗产已经超越了经济。《经济学杂志》（Economic Journal） 2015 年刊登了学者 Becker 等人的论文。论文主要关注哈布斯堡 （奥匈） 帝国历史边界两侧地区。学者发现，帝国历史边界内的居民对政府和他人的信任程度更高，向警察和法庭行贿更少。他们认为，这跟当年奥匈帝国多民族共存，官僚体系清廉高效的特色息息相关。虽然帝国在一战后解体，但其改变社会准则的影响却通过代际传承流传至今。这一观点很好地体现在了他们论文的标题之中：“帝国已死，帝国万岁！”</p>
-<p><strong>不要以为国家遗产都是积极、乐观的</strong></p>
-<p>如今民主刚果共和国内，一个名叫库巴的非洲王国在 17 世纪早期兴起，直到 19 世纪晚期才在外族入侵的打击下四分五裂。库巴王国的建立者 Shyaam 在位时推动了一系列集权改革，极大地提高了统治能力，为这个延续二百多年的王国奠定了基础。</p>
-<p>两位经济史专家，哈佛大学学者 Nathan Nunn 和芝加哥大学学者 James Robinson 近日与合作者共同完成一项研究：他们在距离库巴王国昔日首都 300 公里外的省会城市随机招募了受试者，其中一部分人是库巴王国后裔，另一部分人的祖先则来自库巴王国周边地区。受试者进行改进版的独裁者博弈 （有机会欺骗对手） 和资源分配博弈 （有机会通过违反规则牟利）。结果显示，平均而言，库巴王国的后裔更不诚实，更不愿遵守规则。在研究者排除收入、地理、殖民者影响等干扰因素后，结果依然如此。</p>
-<p>结论让人吃惊。两组受试者的祖先尽管来自不同地区，却属于同一民族，文化和基因上没有太大差别。同时，在远离库巴王国首都的地方招募受试者，也排除了任何可能残留至今的制度带来的干扰。</p>
-<p>几位研究者援引 Tabellini 的理论解释了这一发现：Tabellini 认为，制度和社会规范在某些时候可能成为替代品——当政治制度良好运作的时，父母可能就不那么担心孩子将来会品行不端，从而更少对其进行道德上的教育。</p>
-<p>研究者们还指出，这里他们是将 “有国家” 和 “没国家” 这两种状态进行对比，而先前的研究，如上文所述 Becker 等人的文章，则是着眼于国家 A（哈布斯堡） 相对于国家 B（邻国，如奥斯曼） 导致的差别。换言之，固然可以说哈布斯堡帝国的统治产生了长期的正面效果；但反过来也可以说，奥斯曼帝国的统治损害了人民对于政府的信任。</p>
-<p>各民族中，中国人继承的 “国家遗产” 分外深厚；这也在一定程度上解释了改革开放以来的 “中国增长奇迹”（Chinese Growth Miracle）。然而，正如古人的积累为今天的发展打下基础一样，当下的选择也会影响后人的福祉，甚至社会规范和文明的传承。哈布斯堡，还是奥斯曼？这是必须好好思考的问题。</p>
-<div>
-<h4>参考文献</h4>
-<ul><li>Becker, S. O., Boeckh, K., Hainz, C., & Woessmann, L. (2015). The empire is dead, long live the empire! Long‐run persistence of trust and corruption in the bureaucracy. <cite>The Economic Journal.</cite></li>
-<li>Dell, M., Lane, N., & Querubin, P. (2015). State Capacity, Local Governance, and Economic Development in Vietnam. <cite>NBER Working Paper, pp. l-40.</cite></li>
-<li>Lowes, S., Nunn, N., Robinson, J. A., & Weigel, J. (2015). The evolution of culture and institutions: Evidence from the Kuba Kingdom (No. w21798). <cite>National Bureau of Economic Research</cite>.</li>
-<li>Michalopoulos, S., & Papaioannou, E. (2013). Pre‐colonial ethnic institutions and contemporary African development. <cite>Econometrica, 81</cite>(1), 113-152.</li>
-<li>Michalopoulos, S., & Papaioannou, E. (2012). National institutions and subnational development in Africa (No. w18275). <cite>National Bureau of Economic Research.</cite></li>
-<li>Tabellini, G. (2007). The scope of cooperation: Values and incentives. <cite>Innocenzo Gasparini Institute for Economic Research Working Paper</cite>, (328)</li>
-</ul></div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%94%BF%E8%A7%81-%E5%9B%BD%E5%AE%B6%E9%81%97%E4%BA%A7%EF%BC%9A%E5%B8%9D%E5%9B%BD%E5%B7%B2%E6%AD%BB%EF%BC%8C%E5%B8%9D%E5%9B%BD%E4%B8%87%E5%B2%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E9%9B%86%E6%9D%83/?category=18271" rel="tag">中央集权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%9B%BD/?category=18271" rel="tag">帝国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">帝国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/?category=18271" rel="tag">政治经济学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%90%9C%E7%8B%90-%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E4%BD%95%E6%97%B6%E4%BF%9D%E6%8A%A4%E4%BB%96%E4%BB%AC%EF%BC%9A%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB20%E5%B9%B4%E4%B8%A4%E4%BC%9A%E4%B9%8B/" target="cdt-mirror">搜狐 | 反家暴法何时保护他们：同性婚姻20年两会之路</a>
-</h2>
-<p><p>作者：刘畅</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%882.37.07.png?resize=494%2C329" alt="Screen Shot 2016-03-05 at 下午2.37.07" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午2.37.07.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午2.37.07.png?w=494 494w" sizes="(max-width: 494px) 100vw, 494px" data-recalc-dims="1"><br><span>一对同性情侣的“婚礼”仪式背后，仍有异样目光</span></p>
-<p>“反家暴法是人大妇女代表普遍关心的一部法律，当然不光是妇女，男士也是关心的。”</p>
-<p>2016年3月4日的全国人大新闻发布会上，发言人傅莹重点回应了反家暴法问题。3月1日，中国首部反家暴法实施，被视作维护家庭和谐的“保护伞”。</p>
-<p>然而，一直以来，有一个群体始终期待着能够受到家暴法的保护。</p>
-<p>因为“婚姻”关系未能获得承认，目前中国同性伴侣在免除家暴、抚养子女、财产继承等环节，都不能受到保护。一份两会上屡战屡败的《同性婚姻法案》反映了他们的处境。虽至今没能立案，但多年的呼吁正渐渐融化坚冰。</p>
-<p><strong>石沉大海的“提案”</strong></p>
-<p>屡战屡败，屡败屡战——《同性婚姻法案》在两会上近20年来的遭遇。</p>
-<p>2016年全国人大新闻发布会上，3月1日开始实施的《反家暴法》受到热议。这令中国同性恋伴侣再次发出呼声：我们的伴侣关系何时受到法律承认？让《反家暴法》同样能够保护我们的权益？</p>
-<p>2015年底，即将出台的《反家暴法》中纳入了“同居关系”，这令同性伴侣一度看到希望。不久后，全国人大社会法室负责人郭林茂表示：我国还不曾发现同性恋之间的暴力事件，所以同性恋不包括在内。此言一出，引发同性恋群体的反对。</p>
-<p>据专家分析，同性恋群体比异性恋者更容易遭受亲密关系暴力——因为同性关系面临压力与歧视，双方发生冲突的机会更甚于异性夫妻。有些同性恋者的家人甚至采取限制人身自由、肢体暴力和冷暴力等方式，逼迫其断绝与同性伴侣的关系。</p>
-<p>残酷现实背后，是多年来我国未能从法律层面确认同性伴侣关系的现状。</p>
-<p>按照社会学方法估算，同性恋者占总人口的3%到5%，中国同性恋或超过5000万。其中绝大多数保持着沉默。因为伴侣关系无法获得法律层面的保护，他们面临家暴、财产继承、收养子女等多方面的权利缺失。</p>
-<p><strong>2000年开始，社会学家李银河起草《同性婚姻法案》并不断完善：这将成为中国保障人权的有力证明，代表党和政府的先进性；婚姻可以让同性恋者建立和保持长期关系、减少性病传播；可以大幅减少同性恋者进入异性婚姻，避免大量婚姻悲剧；有利于人口控制；同时这也利于社会和谐与稳定。</strong></p>
-<p>随后几乎每年两会前夕，她都会委托关注此问题的人大代表或政协委员，将这分这份草稿提交上去，却屡屡石沉大海。</p>
-<p>2000年《婚姻法》修改前夕，全国人大法工委征集意见的会议上，李银河第一次提出加入“同性婚姻”的条款。媒体称，这是中华文明史上首次出现“同性婚姻”的讨论。</p>
-<p>相隔16年，李银河仍清晰记得，一位中国婚姻学专家的回应。“他们想同居，就让他们同居去——咱们中国干嘛带这个头。”</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%882.38.08.png?resize=347%2C437" alt="Screen Shot 2016-03-05 at 下午2.38.08" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午2.38.08.png?resize=238%2C300 238w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午2.38.08.png?w=347 347w" sizes="(max-width: 347px) 100vw, 347px" data-recalc-dims="1"><br><span>2009年香港《家庭暴力条例》将同居者的保障范围扩至</span></p>
-<p><strong>“有点超前”</strong></p>
-<p>幸运的是，两会上渐渐有委员和代表开始关注同性婚姻问题以及背后“沉默的5000万人”。</p>
-<p>半年后的2001年两会，一位上海的人大代表接受委托，将《同性婚姻法案》带进了人民大会堂。后来这位代表回复：“我没找到足够复议签字的人。”按照规定，要有30名代表复议签字，才能成为正式议案。</p>
-<p>复议人数并非是唯一的门槛。</p>
-<p>2002年，一位支持同性婚姻合法化的政协委员，在提案下署了自己的名字，愿意以个人名义递交到政协委员会，但唯一要求是“不能露面”。当时，李银河的提案内容已经引爆了网络，但直到两会闭幕，传统媒体却对此几乎只字未提。</p>
-<p>14年过去，面对搜狐新闻的询问，李银河思索片刻还是回答：“不能说（他的名字）。”</p>
-<p>2006年两会前夕，恰逢10个政协委员通过媒体征集提案，媒体将这份提案转交全国政协常委、时任同济大学校长的万钢先生。媒体报道后，很快遭到万钢的否认。</p>
-<p>李银河回忆，对方称“没有收到”：“……我是搞教育的。所以就算拿到了这个提案，我也不会转交的。我不会提出来的，我不懂。”</p>
-<p>后来，提案又转交到另一位社会学领域的委员手中。为了避免“给他太多压力”而节外生枝，李银河没有向外界透露该委员的名字。</p>
-<p><strong>几天后有媒体报道，政协发言人吴建民称：“这（同性婚姻）在目前的中国还有点超前”。多年后，李银河与吴建民在华盛顿偶遇谈及此事，“他说自己没说过这话”。</strong></p>
-<p>两会之路屡屡受挫，有评论者说道：我们的民众、行政部门和同性恋者，都还没有准备好。</p>
-<p>实际上，2006年是同性恋群体的重要节点。该年夏天中国第一个同性恋社团在中山大学成立。今年春节，民间组织同性恋亲友会就接到来自全国300多个求助电话，大部分是父母逼婚导致与伴侣关系告急。</p>
-<p>这份“提案”与“议案”连年在两会上受到关注，它背后代表的同性恋群体也开始不再沉默。</p>
-<p><strong>来自代表委员们的尊重</strong></p>
-<p>人们对这同性婚姻的认同感正在增加。</p>
-<p>同性恋话题已不再是主流社会谈之色变的禁忌。2011年央视公开批评歧视同性恋的言论。社会观念不断进步的同时，隐忧却一直存在。</p>
-<p>一组数据显示，2010年新发艾滋病感染中，男同性恋途径占到惊人的三分之一，男同性恋人群感染率导到5%，高发地区甚至有10%-30%的感染率。鉴于男同性恋之间日益增长的艾滋病传播比例，有学者担忧，同妻会否成为中国下一个艾滋病易感染人群。</p>
-<p>李银河再次呼吁：“如果同性婚姻法案能够获批，增加男同人群中一对一的关系，可以减少艾滋病传播的可能性。”</p>
-<p>据一份网络调查显示，2012年两会的公众关注提案议案中，同性婚姻法案排在公众关注的第二位。但当时接受委托的人大代表回复她：“团领导不同意。”</p>
-<p>李银河称，政协委员张晓梅答应将提案草案带到会上。之后的微博互动中，张晓梅表示：“我并不完全认同李老师的观点……但我尊重同性恋，尊重他们的渴望和平等权益。”她认为这事关社会公平与包容进步。</p>
-<p>遗憾的是，因为对同性恋伴侣养育孩子的问题上存在疑虑，后来张晓梅委员没有递交这份提案。</p>
-<p>4个月后，成都高校教师罗洪玲坠楼身亡，引发媒体对“同妻”群体的关注——她的丈夫曾在微博上道歉，承认自己是“同性恋”。在传统观念的压力下，男同性恋者进入异性婚姻，这种没有爱情甚至鲜有性生活的形婚，令他们的配偶遭受持久的冷暴力痛苦。数据显示，接受调查的“同妻”中，90%测出抑郁症症状，其中10%尝试过自杀。</p>
-<p>一份痛苦就这样变为两份，“没有理由让这种悲剧再次上演。”</p>
-<p>曾几何时，同性恋群体还背负着“罪”与“病”的帽子。1997年新《刑法》取消“流氓罪”，同性恋逐步实现了非罪化；2001年，同性恋不再被认定为精神疾病。</p>
-<p>历经20年，他们不再被视作禁忌。</p>
-<p><strong>提案路上不再孤单</strong></p>
-<p>如今，这份《同性婚姻法案》不再孤身前行。</p>
-<p>2012年两会期间，10位同性恋者的母亲向全国人大代表和全国政协委员致公开信，痛陈孩子在入学、就业过程中遭受的种种歧视，提议国家尽早制定《反歧视法》，以保护包含同性恋在内的弱势群体。</p>
-<p>2015年2月底，一位江西同志的父亲林贤志致信1000名人大代表和委员，呼吁同性婚姻合法化，并附上了自己阅读500万字资料、用一年时间起草的《加快推进我国同性婚姻合法化的建议稿》。</p>
-<p>广州母亲吴幼坚1999年得知读高中的儿子出柜，选择了尊重。2005年她向媒体公开支持同性恋者的态度，并通过演讲和疏导的方式鼓励更多人。</p>
-<p>今年两会召开前夕举办的“多元性别法律研讨会”，邀请到人大代表参，讨论多元性别者在家暴、歧视、就业和生育权（如收养代孕）等问题。主办方同语NGO创始人徐玢也曾表示，无论同性恋亲密关系是否得到婚姻认可，每个人都应该免于暴力。</p>
-<p><strong>有人已经走得更远。2016年初，一对同性伴侣因登记结婚遭拒，起诉湖南省长沙市芙蓉区民政局行政不作为，获法院立案受理。1月28日开庭日，被告方申请延期。被称作中国“同性婚姻维权第一案”。</strong></p>
-<p><strong>李银河与自己的跨性别伴侣“大侠”，同样希望伴侣关系获得法律的认可：“如果一方伴侣过世，因没有直系亲属关系，另一方会在财产继承方面处于很大的弱势。在收养儿子壮壮时，只能以我个人的名义领养，就意味着法律上侠子与壮壮是没有关系的。”</strong></p>
-<p><strong>　　虽然与“大侠”将是“一辈子的关系”，但两人无法享有异性夫妻的医疗同意权。“如果我有了急病，他就无法在同意书上签字。”</strong></p>
-<p>李银河认为短则5年，长则10年，变化一定会发生：“虽然今年几乎不可能成功，但是我们应当一年接一年地提下去，直到它通过为止。”</p>
-<div></div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%90%9C%E7%8B%90-%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E4%BD%95%E6%97%B6%E4%BF%9D%E6%8A%A4%E4%BB%96%E4%BB%AC%EF%BC%9A%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB20%E5%B9%B4%E4%B8%A4%E4%BC%9A%E4%B9%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%B3%95%E3%80%8B/?category=18271" rel="tag">《反家暴法》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%93%B6%E6%B2%B3/?category=18271" rel="tag">李银河</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/430999/" target="cdt-mirror">美国之音｜中国加紧媒体管控 去年关闭近三万家网站</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg" rel="attachment wp-att-431001"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?resize=425%2C567" alt="c2d82fa9jw1f1l2utuctnj20qo0zk43n" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?resize=768%2C1024 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/c2d82fa9jw1f1l2utuctnj20qo0zk43n.jpg?w=960 960w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br>
-（袁裕来律师今日<a href="http://chinadigitaltimes.net/chinese/2016/03/50%E5%B9%B4%E5%90%8E%E7%9A%84%E4%BB%8A%E5%A4%A9%E8%A2%81%E8%A3%95%E6%9D%A5%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8A%84%E4%B9%A6/">被“抄”书</a>时，有关部门填写的部分“证据清单”）</p>
-<p>华盛顿 — 中国“扫黄打非”办公室3月4日宣布，在2015年中国各地共关闭网站两万八千家，<strong>此外还有1500万件出版物被收缴</strong>。观察人士说，中国当局正在加紧对媒体的管控。</p>
-<p>据中国官方媒体报道，这些网站因含有色情或其它非法信息而被关闭。</p>
-<p>除了对网络和出版物大力查处、监控之外，中国官方最近几个月在影视剧、社交媒体、纸质媒体等领域也不断加强管控。此前中国电视剧制作产业协会与中国广播电视联合会共同制订的《电视剧内容制作通则》对电视剧、网络剧的内容、题材等方面做出了详细的限制，并将一些违反规定的热门网络剧强制下架。</p>
-<p>在社交媒体领域，中国网信办在“两会”前夕关闭了一批官方认定的发布违法违规信息的网络“大V”账户。</p>
-<p>前不久中国《南方都市报》编辑因将有关习近平的新闻标题“媒体姓党”和另一则新闻的标题“魂归大海”排版在一起而遭到开除处分。</p>
-<p>对于中国国内连续的媒体管控的举动，明镜新闻出版集团总裁何频表示这是中国当前社会进入“神经错乱”状态的表现。</p>
-<p>何频说：”这是它必然的结果。叫‘神经错乱’。因为它整个执政的一方面要跟西方、跟世界接轨，但是另一方面，它又要坚持所谓党的利益。它不仅仅是一个意识形态的争论的问题，而且是有一种利益的关系在一起。（党）采取政策的杠杆，利用所谓的文件、政策让那些市场化的媒体，市场化的企业不能生存，要保证党的信息工具的利益。“</p>
-<p>此外，在谈到任志强微博遭到官媒炮轰的问题时，何频认为党媒一直都姓党，这个事实从来没改变过。</p>
-<p>何频说：“其实这个媒体从来就是姓党的，它从来就没有姓过人民。什么时候姓过人民啊？没有过嘛。没有过的事情你为什么今天的反应好像人家讲这个媒体姓党大家就不舒服了？我觉得很奇怪。这个媒体从来就是姓党的，姓党的东西从来没改过。难道胡锦涛时代它就姓人民吗？江泽民时代它就姓人民吗？没有啊。这个媒体从来都是党的信息工具啊。”</p>
-<p>加州大学伯克莱分校教授、中国数字时代创办人萧强认为，一个能够更加自由表达、自由获取信息的网络会让中国变得更好。</p>
-<p>萧强说：“很多人都意识到，一个更有创造力、表达更加自由、获取信息更加自由的网络会让中国社会变得更好，让中国最终能够成为一个更强大的国家。即使你把网络只当作一个技术工具或是商业工具，但生活在没有谷歌、没有脸书、没有这没有那还要被审查的网络环境中是看不到好的未来的。这样的互联网主权也不会有很好的未来。”</p>
-<p>面对越来越严格的审查制度，越来越多的网站、电视剧被屏蔽、下架，很多网民感到不满，有网友问：“我们现在还能看什么？ ”其他网友答：“还有新闻联播。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/430999/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E6%9D%90/?category=18271" rel="tag">洗脑教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/" target="cdt-mirror">枫行天下｜秦枫：西藏代表团戴习近平像章</a>
-</h2>
-<p><p>【编者注】香港卫视秦枫的微信公号“枫行天下”原文已被和谐，以下内容来自网民保存：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A01-1.jpg" rel="attachment wp-att-430988"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A01-1.jpg?resize=425%2C756" alt="习近平像章1" data-recalc-dims="1"></a></p>
-<p>西藏自治区人大代表</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A02.jpg" rel="attachment wp-att-430980"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A02.jpg?resize=525%2C394" alt="习近平像章2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章2.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章2.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A03.jpg" rel="attachment wp-att-430987"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A03.jpg?resize=425%2C756" alt="习近平像章3" data-recalc-dims="1"></a></p>
-<p>3月5日，第十二届全国人民代表大会第四次会议举行开幕会。在代表团入场现场，香港卫视记者观察到，西藏代表团各代表和工作人员胸前都别有两枚像章。一枚是印有毛泽东、邓小平、江泽民、胡锦涛、习近平5人像章，另一枚是习主席个人的像章。记者询问得知，只有西藏代表团配发这两枚像章。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A04.jpg" rel="attachment wp-att-430979"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A04.jpg?resize=425%2C566" alt="习近平像章4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章4.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章4.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p>西藏电视台工作人员</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg" rel="attachment wp-att-430978"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg?resize=425%2C566" alt="习近平像章5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p>来自青海代表团的人员则没有这两枚像章，新疆代表也没有。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A06.jpg" rel="attachment wp-att-430986"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A06.jpg?resize=425%2C566" alt="习近平像章6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章6.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章6.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p>青海代表团人员</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A07.jpg" rel="attachment wp-att-430985"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A07.jpg?resize=425%2C566" alt="习近平像章7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章7.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章7.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p>青海代表团人员</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A08.jpg" rel="attachment wp-att-430984"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A08.jpg?resize=425%2C756" alt="习近平像章8" data-recalc-dims="1"></a></p>
-<p>新疆人大代表</p>
-<p><strong>更多现场报道，请关注本人微信号。谢谢。（长按二维码，选择“识别图中二维码”即可关注。）</strong></p>
-<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9E%AB%E8%A1%8C%E5%A4%A9%E4%B8%8B.jpg" rel="attachment wp-att-430989"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9E%AB%E8%A1%8C%E5%A4%A9%E4%B8%8B.jpg?resize=245%2C245" alt="枫行天下" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/枫行天下.jpg?w=430 430w" sizes="(max-width: 245px) 100vw, 245px" data-recalc-dims="1"></a></strong></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@北外乔木：西藏团给所有代表委员和随行人员配发胸章，这个做法应该全国推广。中华民族的这个优良传统已经失传30多年，不能让朝鲜一枝独秀。</p>
-<p>@巴楚渔樵: 像章应该别到肉里，才能表达忠诚。五人像章分散忠诚，不符合核心概念，文革中绝不允许五人这样的事情发生。</p>
-<p>@精神贵族一族：不打自招，他们代表领袖。</p>
-<p>@精神贵族一族：不打自招，他们代表领袖。</p>
-<p>@相尋夢里花：嗯，天安门上也该挂起</p>
-<p>@巴楚渔樵: 像章应该别到肉里，才能表达忠诚。五人像章分散忠诚，不符合核心概念，文革中绝不允许五人这样的事情发生。</p>
-<p><a href="http://weibo.com/5829001812" target="_blank">@皮革鞋盒3</a>：西藏政治嗅觉不灵敏，这胸章只能是一个人的照片。。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p>@一心二眼：庆封帝威猛。</p>
-<p>@崔小平律师: 开啥会？点赞网络即可，环保。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">西朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -849,7 +845,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -859,5 +855,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/" target="cdt-mirror">【异闻观止】共青团中央：我恋爱了 和他</a>
+</h2>
+<p><p>@共青团中央：我恋爱了，和他[心]</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/eaaf2affgw1f1ojphmaljj20de40faxi.jpg?resize=482%2C5199" alt="eaaf2affgw1f1ojphmaljj20de40faxi" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>林宝歌：那些劝人分手的真的不要太败人品。</p>
+<p>请叫我李家小四：看完评论很心痛，那些无端指责污蔑诋毁祖国的人，作为中国人你连自己的国家都厌恶，从你出生到现在哪里不是在享受着祖国安定带给你的幸福，让你经受战乱了吗？让你沿街乞讨了吗？殊不知你们才是最悲哀的，眼睛里只有对社会的不满，指责，好好问问自己，你存活于世有什么意义？除了抱怨还有什么？</p>
+<p>山阴祁虎子：快吐了。</p>
+<p>_Nailcore：真几把想吐，文案水平low到爆了。</p>
+<p>Sealsteam6：21世纪了，还忠君爱国？</p>
+<p>黄卓睿：这官博能保留点智商和碧莲吗？</p>
+<p>吉双抽守株：那个不堪的曾经和404到底是啥？三八节发这种文案脑子都是翔么？</p>
+<p>小敏要变身superman：肯定是俩男的。</p>
+<p>滴答滴答滴滴答答滴滴答：你是你，麻烦不要代表全体中国人，我们爱的只是这个国家。</p>
+<p>天庭第一臭脚大仙阿奴：只有我一个人带入了雷政富的脸吗？</p>
+<p>小时候可猛的春天：干了这碗毒鸡汤！</p>
+<p>WhatifWhatever：君臣父子夫妻。 这就是你们要的盛世。 呸呸呸呸呸</p>
+<p>Casillas顿顿：共青团是什么，共同青年相亲团么？</p>
+<p>小题大作：讲真……你团真该换小编了……这水平……</p>
+<p>friendary：“有些事不和我商量”“说是共产主义，我不太明白，但感觉很厉害的样子”。</p>
+<p>Helen_WayfromTroy：生生看哭了……改革开放都快四十年了，民智教育竟然堕落到这个地步，对女性的物化和轻视真是由内而外从上到下深入骨髓，此处省略一万字脏话。</p>
+<p>今得看见：不要脸皮哪家强？还看共青团中央！</p>
+<p>Julius_D：这种垃圾文案竟然也有人舔，目瞪口呆.jpg</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E7%9F%AD%E7%9F%AD23%E5%88%86%E9%92%9F%EF%BC%8C%E5%91%8A%E8%AF%89%E4%BD%A0%E9%A2%86%E8%A2%96%E6%98%AF%E6%80%8E%E6%A0%B7%E8%A2%AB%E7%A5%9E%E5%8C%96%E7%9A%84/" target="cdt-mirror">【CDTV】短短23分钟，告诉你领袖是怎样被神化的</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-%E4%B8%8B%E5%8D%8812.32.17.png?resize=534%2C337" alt="Screen Shot 2016-03-07 at 下午12.32.17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-下午12.32.17.png?resize=300%2C189 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-下午12.32.17.png?w=534 534w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"></p>
@@ -806,54 +838,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E5%A4%A7%E5%AE%8B%E8%B9%B4%E9%9E%A0%E6%94%B9%E9%9D%A9%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">花儿街参考｜大宋蹴鞠改革为何会失败</a>
-</h2>
-<p><p><strong>微信公众号：花儿街参考（ID：zaraghost）<br>
-作者：马钺</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg" rel="attachment wp-att-430974"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg?resize=407%2C300" alt="image" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg?resize=300%2C221 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image.jpg?w=407 407w" sizes="(max-width: 407px) 100vw, 407px" data-recalc-dims="1"></a></p>
-<p>大宋宣和元年，皇帝赵佶颁布《大宋蹴鞠改革纲要》，任命太尉高俅兼任蹴协主席，大宋朝的蹴鞠改革正式启动。</p>
-<p>蹴鞠是大宋第一运动，“宋超（大宋蹴鞠超级联赛）”异常红火，东京永巨捡漏队刚刚蝉联亚冠联赛冠军，但国家队水平却不高，只在十几年前打进过一次蹴鞠世界杯，从此后就每况愈下，不但再也没法跟辽国、西夏、高丽等一流强队一较短长，甚至连暹罗、星洲这种脚趾甲盖儿大的小国球队都能平趟大宋半场。时间一长，大宋蹴鞠沦为举世笑柄，名声堪比臭豆腐。大宋蹴协招数用尽，成绩却始终不见起色。</p>
-<p>道君皇帝决心改变这种状况。</p>
-<p>作为一个超级蹴鞠迷，赵佶当初还是端王时，就在府邸里修了个国际标准的蹴鞠场，经常请现役国脚来踢友谊赛，兴之所至，往往亲自下场，秀几下脚法，有几次还上演从后场带球狂奔至前场一脚破门的好戏，反正也没哪个不开眼的敢铲他。</p>
-<p>赵佶一度因此产生幻觉，以为自己是贝利第二，雄心勃勃打算去留洋，不料在一场国际友谊赛中，赵佶率领的端王队被辽国使团队那些厨子马夫踢了个10比0，这才如梦方醒，从此断了当职业蹴鞠运动员的念想。</p>
-<p>赵佶的球迷身份广为人知，登基之前，一股全国范围内的蹴鞠热悄然升温。体育总司领导几次三番视察大宋蹴协，一些大商号不惜重金购买职业蹴鞠俱乐部的股份，大宋首富丰百万索性给大宋蹴协开出了一张5亿贯的交子，表示以后签外教的费用我全包了。</p>
-<p>对于这股蹴鞠热，赵佶没有公开评论，但据坊间八卦，他曾对李师师说：“丰某此举，深体朕心。”赵佶说，在朕的领导下，大宋朝完成了伟大复兴，“大宋梦”至少已经在大宋新闻联播中实现了，有总菊，无难事嘛。就是这个蹴鞠，搞不定。毕竟世界杯是得凭真本事一场一场踢的，大宋蹴鞠队连场都进不了。举国皆知朕是鞠迷，大宋蹴鞠一烂到底，朕面上无光啊。再说盛世必有球兴，唐朝马球天下第一，大宋不能光玩外国人不玩或者不好好玩的球啊。</p>
-<p>总之，一定要把蹴鞠搞上去！</p>
-<p>《大宋蹴鞠改革纲要》颁布之后，赵佶欣喜的看到，蹴鞠产业果然成为又一个投资风口。凡是跟蹴鞠有关的创业项目，都很容易拉到投资。宋超更是炙手可热，宋人文体产业基金投入80亿贯，拿下宋超联赛5年的运营权。以往宋超转播权都是半卖半送，今年光是独家广播权就卖出了27亿贯的天价，获得转播权的喜事公司，成立还不到两年，估值已经超过了200亿贯。</p>
-<p>随着资本的大量投入，宋超球队个个挥金如土狂购外援，单单江宁一支队引援支出就超过了8亿贯。据说整个巴西联赛都快被宋超搜刮一空。</p>
-<p>然而，让赵佶郁闷的是，由于热钱涌入，强援加盟，宋超球队在俱乐部赛事上取得了不少成功，但大宋国蹴萎靡依旧，甚至一再退步，以往还能与一些二流球队抗衡，现在连红磡那些巡捕、瓦匠等业余球员组成的草台班子，都能踢得大宋国蹴那些百万富翁人仰马翻。</p>
-<p>赵佶百思不得其解，不得不问计于太上皇。</p>
-<p>太上皇呵呵一笑：“你啊，图样，图森破。”</p>
-<p>赵佶不服：“你别光教训我，有理说理。”</p>
-<p>太上皇徐徐问道：“你觉得宋人喜欢蹴鞠吗？”</p>
-<p>赵佶说：“蹴鞠是大宋第一运动啊，宋人能不喜欢吗？”</p>
-<p>太上皇道：“现在蹴鞠的火爆，乃是虚火。上有所好，下必甚焉。因为你喜欢蹴鞠，所以下面人就投你所好，疯狂的往蹴鞠上砸钱。他们并不是喜欢蹴鞠，或者为了发展蹴鞠运动，而是为了从你——或者接近你的人那里，获得回报。”</p>
-<p>赵佶不服：“你说的这我明白。但有句话叫不问动机，只看结果。不管他们是为了取悦我还是别的，钱总归是投到蹴鞠上了，怎么连个响声都听不到呢？”</p>
-<p>太上皇道：“你知道大宋列祖列宗对蹴鞠的态度吗？”</p>
-<p>赵佶说：“这我能不知道吗？自太祖以来，大宋历任皇帝对蹴鞠都不甚上心，太宗曾言‘蹴鞠要从娃娃抓起’，但那不过是一句闲话，他老人家说过就忘了。真宗及之后的几位天子，闲来无事也就玩玩乒乓球这种性冷淡运动。您不喜欢运动，兴趣在学习外语和吹拉弹唱，谈笑风生……”</p>
-<p>太上皇说：“那不就得了。列祖列宗对蹴鞠的态度很明显：不提倡，不鼓励。神宗曾言，蹴鞠有什么好的，不就是二十多号人追着个皮球跑吗？缺点倒是不少。首先是占地太广，汴梁地价这么贵，一个标准蹴鞠场占地10亩，有这10亩地，能盖多少写字间？其次，对学子们来说，学好圣贤书才是正事，沉迷于蹴鞠，可能会影响科考成绩。科考可是千军万马过独木桥，你能在独木桥上玩带球过人吗？”</p>
-<p>赵佶沉吟不语。</p>
-<p>太上皇又道：“除此之外，还有个朝廷无法宣之于口的原因。现在木有旁人，就咱俩，倒是可以跟你说说。</p>
-<p>自从太宗之后，大宋进取之心渐泯，维稳成为基本国策。30人以上的集会便需向衙门报备，蹴鞠比赛上场踢球+场下看热闹的，很容易超过30人。万一这些人中间有包藏祸心的捣乱分子，怎么办？<strong>即使蹴迷都是良民，并无颠覆朝廷之意，单单这么多人聚在一起，就足以令官府不安。光是为了有关衙门管理上省事儿，就不能多建蹴鞠场，建了也要上把大锁，把蹴鞠迷拒之门外。</strong></p>
-<p>我们赵氏治国，不纯任儒教，而是以霸王道杂之，血液里流淌着法家愚民弱民的DNA。蹴鞠比赛参与人数多，组织要求高，<strong>要是那些布衣草民经过蹴鞠的训练，改变了一团散沙的原子状态，成立了自治的民间组织，长此以往，庙堂与江湖势力消长，难保国将不国</strong>，必须防患于未然。”</p>
-<p>太上皇喝了一口茶，继续说道“当然，这话不能放在明面上说，朝廷也未曾形之于文字，但它确实是一种思维方式主导下的必然结果。”</p>
-<p>赵佶争辩道：“可我并无意改变赵氏的治国方针，只是想改革一下小小的蹴鞠啊！”</p>
-<p>太上皇嘴角浮现出一丝嘲笑：“你真是乃伊夫！蹴鞠之于大宋社会，就像脚趾头之于整个人体，浑然一体，不可分割。<strong>蹴鞠运行的逻辑，就是大宋社会运行的逻辑。换句话说，改革蹴鞠，就是在改革大宋社会。你以为你是在革除蹴鞠之弊，其实是在挑战整个社会的运行规则！”</strong></p>
-<p>赵佶被太上皇的话震得一时说不出话来。</p>
-<p>太上皇叹口气，道：“受<strong>固有思维支配的大宋社会，对开展蹴鞠运动自然而然会发生抵触和反对，这出自本能，就像是条件反射，甚至无须衙门发出指令。”</strong></p>
-<p>赵佶低下头去，用近乎耳语的声音咕哝道：“我就这样认输吗？不甘心啊！”</p>
-<p>太上皇道：“你只能认输。这是我们的宿命，你更改不了，我也改不了。<strong>不仅是蹴鞠，任何与这种思维方式相悖的行为，都像是在一间布下50万个捕鼠夹的小房间里带球，脚趾头一动，就会响起“啪”的一声。</strong>”</p>
-<p>第二日，道君皇帝亲临世乒赛现场，面对采访镜头，亲口说出：“我最喜欢的运动，是乒乓球……”</p>
-<p><strong>附作者转载要求：</strong></p>
-<p>原创文章，转载请附下面的二维码，并于正文前显著处注明来源、微信公众号ID(zaraghost)、作者，否则视为侵权，必找你麻烦<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg" rel="attachment wp-att-430503"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83.jpg?resize=400%2C184" alt="花儿街参考" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/花儿街参考.jpg?resize=300%2C138 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/花儿街参考.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8A%B1%E5%84%BF%E8%A1%97%E5%8F%82%E8%80%83%EF%BD%9C%E5%A4%A7%E5%AE%8B%E8%B9%B4%E9%9E%A0%E6%94%B9%E9%9D%A9%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%A4%B1%E8%B4%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%B3%E7%90%83%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">足球大跃进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -865,7 +849,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -875,5 +859,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,175 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%93%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%83%8F%E5%93%AA%E6%9C%AC%E5%90%8D%E8%91%97%EF%BC%9F%E5%BF%98%E4%BA%86%E3%80%8A1984%E3%80%8B%E5%90%A7%EF%BC%81/" target="cdt-mirror">老鼠会｜当前的中国最像哪本名著？忘了《1984》吧！</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg" rel="attachment wp-att-431295"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg?resize=375%2C544" alt="201233144246804" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg?resize=207%2C300 207w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg?w=375 375w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
+<p>当前的中国最像哪本名著？《1984》？不，当然是《1985》了……</p>
+<p><strong>论完美极权之不可持续性<br>
+——关于《1985》的评论</strong></p>
+<p>上海人民出版社近日出版了匈牙利作家道洛什·久尔吉的小说《1985》。这本书是英国作家乔治·奥威尔的小说《1984》的续集。</p>
+<p>1985年一月，老大哥不治身亡——小说《1985》以“摘录”《1984》主人公温斯顿·史密斯、裘莉亚和前秘密警察头目奥勃良的“回忆录”以及“官方公告、报刊文章、诗歌和私人手记”的形式讲述了后面的故事……</p>
+<p>我国读者可能会觉得此书令人捧腹，充满各种影射和引人联想之处——其中与“老大姐”有关的内容明显是在影射我国的粉碎四人帮行动，而前秘密警察头目奥勃良因泄露国家机密被捕并被关在伦敦一家精神病院中，也能让人联想起最近发生的一起轰动事件。</p>
+<p>然而也有些人不喜欢此书，原因正如某人所说：《1985》完全推翻了原书的设定，是对《1984》彻底颠覆。</p>
+<p>不过在笔者看来，好的小说和好的社会一样，应该是一个开放系统，原有的设定不仅可以而且应该被打破。阿西莫夫的《基地》续集不就打破了原有的“心理历史学”设定吗？</p>
+<p>无论是《理想国》、《乌托邦》和《太阳城》等乌托邦作品，还是《美丽新世界》、《1984》和《我们》等反乌托邦作品，都描绘了一个封闭和一成不变的社会。乌托邦和反乌托邦表面看来似乎截然相反，然而其共同之处远远大于不同之处。</p>
+<p>在柏拉图的《理想国》中，社会严格分为三个阶级，不可相互通婚；文艺遭到严格审查，诗人被逐出城邦。在莫尔的《乌托邦》内，市民们外出时身穿一模一样的外套。乌托邦的所有城市都是一模一样的，“只要知道一个城市的情况就了解了所有城市的情况”。市民们要从一个城市前往另一个城市须获得许可。在康帕内拉《太阳城》里，性行为由政府来分配，同性恋和妇女涂脂抹粉（！）要判处死刑。在我们看来，这些所谓的乌托邦实际上都是不折不扣的反乌托邦。</p>
+<p>乌托邦的设计者们想要一个静止不变的社会，因为既然乌托邦是最完美的社会，那么一切变化都必然是远离完美状态的衰变。但是它们无法摆脱熵的法则：封闭系统必然走向衰败，无论是乌托邦还是反乌托邦都是如此。</p>
+<p>已故作家王小波的小说《2010》极其深刻地反映了乌托邦和反乌托邦的衰败这一主题，以下这段可谓点睛之笔：</p>
+<p>今天是星期四，也是我四十八岁的生日。这一天的一切，都有必要好好总结一下。我像往常一样上班去，天像往常一样黄，自来水像往常一样臭，像往常一样，有人遇到了一道数学题，我们开会讨论，并且像往常一样没有解出来。这都是表面现象。实际上，我比往常老了一岁，天比往常更黄了一点，自来水比往常更臭了一点，没有解出的数学题比往常多了一道，一切都比往常更糟糕。</p>
+<p>回到《1984》与《1985》。如果说《1984》创造了一个完美的极权主义体系（其实并不能算真正的完美极权，下文中会探讨这一问题），那么《1985》就指出了这一体系无法避免走向衰败的必然命运。</p>
+<p>极权主义为什么会走向衰败？《1985》提出了两个原因，其中之一是老大哥死亡引发了政权高层的分裂和权力斗争。</p>
+<p>没有一个极权体制能够避免内部分裂和权力斗争。由于极权体制垄断了所有的资源和实现个人野心的机会，因此极权体制内部的权力斗争来得尤其惨烈。《1984》中的大洋国也不例外：书中曾经提到过60年代发生的大清洗，除老大哥之外的所有革命元老都被当作叛徒和反革命消灭（这也说明老大哥是个真人，不是党制造的一个永生不死的符号）。</p>
+<p>奥勃良对温斯顿说：“你必须明白的第一件事情是，权力是集体的。个人只是在停止作为个人的时候才有权力。你知道党的口号‘自由即奴役’。你有没有想到过这句口号是可以颠倒过来的？奴役即自由。一个人在单独和自由的时候总是要被打败的。所以必然如此，是因为人都必死，这是最大的失败。但是如果他能完全绝对服从，如果他能摆脱个人存在，如果他能与党打成一片而做到他就是党，党就是他，那么他就是全能的、永远不朽。”</p>
+<p>然而发生在党内的权力斗争说明，党不是铁板一块。老大哥是一个人，他会为个人攫取权力，而不是像奥勃良对温斯顿说的那样，一切都是为了建立一个完美的极权主义体制。其他人也是如此。</p>
+<p>因此，《1985》中说，老大哥忽视了寻找自己的接班人，以至死后党内立即发生了严重的分裂，而且其中某些派系为了巩固自己的权力不得不争取知识分子和“公众舆论”的支持，这是合乎逻辑的。</p>
+<p>大洋国走向衰败的另一个原因是军事失利。极权体制无法避免经济和军事上的失败，大洋国也不例外。极权国家没有创新能力，因此在现代世界中很容易在经济和军事竞争中败下阵来，后者往往会导致被其他国家征服。</p>
+<p>《1984》中解决这一问题的方法是设想全世界只有三个超级大国，并且都是极权国家，它们势均力敌，相互交战但无法彼此形成有效威胁，以此来保证极权体制天长地久。</p>
+<p>然而这是不可能发生的，因为极权体制面临一个根本问题：中央计划经济缺乏协调经济活动所必需的价格信号。没有价格信号，人们就无法进行经济核算，无法优化资源配置。人们将无从得知应该使用黄金还是钢铁来建造铁路，生产将会变得极其浪费、效率低下，人们会因此而大批饿死……（《1984》中提到，机器能够创造大量的财富，以至于为了维持等级制度，不得不采用不断打仗的方式来把生产出来的财富消灭掉，这种观点实际上反映了作者对经济学的无知。）</p>
+<p>而现实中的存在的计划经济之所以没有立即崩溃，是因为中央计划者在为资源定价时可以参考市场经济国家的价格。从这个意义上说，计划经济只有寄生在市场经济身上才能生存。如果地球上所有的国家都是计划经济国家，没有市场价格可以参考，那么这些国家恐怕很快就会面临经济崩溃。</p>
+<p>其实完美的极权体制远比想像中要脆弱。经济学家亨利·黑兹利特曾经写过一本小说，讲述一个完美的极权主义和计划经济国家如何重新发现市场与自由的故事。然而这个故事中令人吃惊的并不是这个国家最终实现了市场经济与自由，而是一个完全没有市场经济的国家竟然能够存在！黑兹利特所想像的完美极权国家不仅统一了全球，而且居然没有货币。与之相比，《1984》中的大洋国不仅没有取消货币，甚至还有黑市存在，简直不能算是完美极权。这些都说明，市场的力量比想像中要强大。二十世纪各国的共产主义实践证明，早期的乌托邦主义者们想像中的没有货币的计划经济连短时间都难以维持，也没有一个计划经济国家能够消灭黑市。</p>
+<p>极权体制存在许多缺陷，美国政治学家吉恩·夏普在其著作《从独裁到民主》一书中列举了这些缺陷，此处摘录其中部分内容：</p>
+<p>体制的运作可能变得例行公事化，不能很快适应新的情况；下属由于害怕得罪上级，可能不会向独裁者报告决策所需的准确和完整的信息；意识形态可能遭到腐蚀，体制的神话和符号会变得不稳定；如果存在一个强大的意识形态，影响着人们对现实的看法，那么坚决服从这个意识形态可能导致人们忽视实际的条件和需要；官僚体制效率和能力的退化，或过多的控制和规章制度，有可能使该体制的政策和运作变得效率低下；部门之间的矛盾与个人之间的敌意和争权夺利可能损害甚至破坏独裁政权的运作；独裁政权中如此之多的决定是由如此之少的人作出的，因此很可能会在判断、政策和行动上出现失误；如果独裁政权为了避免这些错误而把控制和决策分散化，那么它对中央权柄的控制就可能会进一步削弱。</p>
+<p>极权体制无法完全避免这些缺陷，也就无法逃脱衰败的命运。</p>
+<p>《1984》与《1985》，二者的区别就好比一部本格派推理小说与一部后现代小说。前者讲述一个完美犯罪，一个锲而不舍的侦探发现一个线索，顺藤摸瓜再找到另一个线索……直至破案；后者则讲述一个模棱两可的谜题，“侦探”发现一个似是而非的线索，再找到另一个似是而非的线索……最后却离一开始的谜题越来越远。后者看似毫无逻辑，却反映了现实的真实状态。</p>
+<p><strong>欢迎来老鼠会偷奶酪！</strong><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%80%81%E9%BC%A0%E4%BC%9A.jpg" rel="attachment wp-att-431296"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%80%81%E9%BC%A0%E4%BC%9A.jpg?resize=250%2C250" alt="老鼠会" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/老鼠会.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/老鼠会.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/老鼠会.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/老鼠会.jpg?w=258 258w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%93%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%83%8F%E5%93%AA%E6%9C%AC%E5%90%8D%E8%91%97%EF%BC%9F%E5%BF%98%E4%BA%86%E3%80%8A1984%E3%80%8B%E5%90%A7%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%BD%93%E5%88%B6/?category=18271" rel="tag">极权体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%9C%88%E4%BD%99%E6%83%A8%E6%AD%BB-%E7%89%A9%E4%B8%9A%E4%B8%8D%E4%BD%9C%E4%B8%BA%E5%BC%95%E5%8F%91/" target="cdt-mirror">纽约时报 | 女子被困电梯月余惨死 物业不作为引发声讨</a>
+</h2>
+<p><p>在中国一个拥挤的居民区，她孤零零地走向了死亡。</p>
+<p>她所住那栋楼的电梯坏了，她困在里面，被遗忘了一个多月。直到上周，她的遗体才被发现。<a href="http://www.chinadaily.com.cn/micro-reading/dzh/2016-03-04/content_14586257.html" target="_blank" rel="nofollow">一些报道</a>称，她一只手抠在电梯门上。</p>
+<p>现在，发生在以兵马俑而著称的西北城市西安的这起事件，引发了抗议和全国范围内的愤怒。周一当天的新闻报道和网络文章称，人们对物业管理松懈可能会让搭乘电梯这样的生活琐事变成致命陷阱感到气愤。</p>
+<p>中国网站上的图片和文章显示，上周，高陵区数百名居民在一起举行集会。还有其他<a title="Link: http://weibo.com/ttarticle/p/show?id=2309403949081411089924" href="http://weibo.com/ttarticle/p/show?id=2309403949081411089924" target="_blank" rel="nofollow">一些照片</a>，据说里面与民众面对面站成一排的人是警察。他们中的一些人携有防暴装备。这名女子因被困在10层和11层之间的电梯里而死亡的事件，正是发生在高陵区。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/15338444_980x1200_0.jpg?resize=450%2C600" alt="15338444_980x1200_0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/15338444_980x1200_0.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/15338444_980x1200_0.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>用户众多的微博平台新浪微博上的一幅照片显示，民众举着的一条横幅上写着“物业不做为，人死电梯月余才发现”。</p>
+<p>新闻报道只透露这名40多岁的女子姓吴。报道援引邻居的话称，她独自住在那栋楼的15层，大部分时候是一个人。</p>
+<p>不过，作为物业管理松懈的后果可能远比生活不便严重的象征，她在死后迅速出名。物业管理不佳是中国城市普遍存在的一个问题。</p>
+<p>相关报道援引警方调查人员和高陵区官员的话称，1月30日，两名维修人员在电梯出现故障后切断了电源。他们向电梯轿厢喊话，询问是否有人在里面，未听到应答，但他们未按规定撬开电梯门进行确认。30多天时间里，电梯一直无人维修，直到上周二，吴女士的尸体被发现。</p>
+<p>“假如，在电梯停运的时候，管理部门工作人员在拉下电闸的时候，能够到电梯口去看看，还会发生悲剧吗？”浙江一家<a href="http://dzb.jinbaonet.com/html/2016-03/07/content_295813.htm?div=-1" target="_blank" rel="nofollow">报纸</a>发问。这只是数十篇悲叹这起事故的报纸和网络评论文章中的一篇。</p>
+<p>“遗憾的是，这个社会上没有太多的假如，”文章说。</p>
+<p>在吴女士孤零零地死去之前，中国去年还发生了两起公共场所电梯出故障<a href="http://cn.nytimes.com/china/20151010/c10sino-escalator/" target="_blank" rel="nofollow">致人死亡</a>的事件。那两起事件都发生在商场，都是不知情者在搭乘扶梯时被卷了进去。两起事故的受害人分别是一名<a href="http://cn.nytimes.com/china/20151010/c10sino-escalator/" target="_blank" rel="nofollow">4岁的男孩</a>和一名<a href="http://cn.nytimes.com/china/20150729/c29china/" target="_blank" rel="nofollow">31岁的女子</a>。视频监控记录了这两起事件的发生过程，画面引发了民众对简单的机械维护都存在问题的广泛愤怒。</p>
+<p>在中国的很多城市，最近几十年住宅小区激增，房地产开发商的做法是聘请物业公司来管理这些小区。抱怨普遍存在，尤其是在较差的小区，物业公司把费用压到最少。《北京青年报》<a href="http://news.xinhuanet.com/local/2016-03/05/c_128774907.htm?mType=Group" target="_blank" rel="nofollow">报道</a>，与吴女士同住一个小区的居民抱怨，路灯不亮，水电常停，电梯经常出故障。</p>
+<p>新闻报道怀疑，吴女士是饿死的。不过脱水致死的可能性似乎更大。</p>
+<p>不过，西安的新闻媒体<a href="http://news.hsw.cn/system/2016/0307/361227.shtml?rand=zxG8Gzie" target="_blank" rel="nofollow">华商网</a>报道，警方称其仍在努力确定吴女士的死亡原因和死亡时间，以及如果她求救了，为什么没被听到。报道称，吴女士的家人上月去找过她，但他们和邻居似乎都没把她的失踪和卡在她家楼下几层的电梯联系在一起。</p>
+<p>《北京晨报》周一<a href="http://bjcb.morningpost.com.cn/html/2016-03/07/content_390166.htm" target="_blank" rel="nofollow">报道</a>，电梯维修公司和小区物业公司的相关责任人已被警方拘留。文中未公开他们的姓名。</p>
+<p>《北京青年报》报道，“至于她是何时、因何进入电梯内，物业方及居民均表示不知情，当地警方已经介入调查。”</p>
+<p>事发电梯停用期间，楼里的人用的是另外一部电梯，他们可能没有听到吴女士的呼救。</p>
+<p>华商网的报道称，一个邻居说她在电梯出故障的那天晚上听到了微弱的声音。</p>
+<p>“我听见电梯附近有异响，咚咚的声音，”这名邻居说。“我女儿说是电梯出现故障了，因为电梯经常出故障，我就没有在意。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%9C%88%E4%BD%99%E6%83%A8%E6%AD%BB-%E7%89%A9%E4%B8%9A%E4%B8%8D%E4%BD%9C%E4%B8%BA%E5%BC%95%E5%8F%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%8F%91%E5%95%86/?category=18271" rel="tag">开发商</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%B8%9A%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">物业公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86/?category=18271" rel="tag">物业管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E6%A2%AF/?category=18271" rel="tag">电梯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E6%A2%AF%E4%BA%8B%E6%95%85/?category=18271" rel="tag">电梯事故</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%85%BE%E8%AE%AF%E4%BB%8A%E6%97%A5%E8%AF%9D%E9%A2%98-%E9%9D%A2%E5%AF%B9%E5%BE%88%E6%B1%A1%E7%9A%84%E6%80%A7%E9%AA%9A%E6%89%B0%E6%A8%AA%E5%B9%85-%E4%B8%BA%E4%BD%95%E5%A5%B3/" target="cdt-mirror">腾讯今日话题 | 面对“很污”的性骚扰横幅 为何女生求告无门？</a>
+</h2>
+<p><p><strong>昨天是3.8妇女节，不过在高校，3.7女生节明显更为流行。在这一天，男生们会拉起横幅，写好标语，表达对本校女生的赞美、仰慕之情。然而，今年内容“很污”的一些横幅却引发热议，有人认为这是对女性的侮辱和骚扰，有人认为这是在开玩笑，女生不要小题大做。</strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640251Q23H8.jpg?resize=600%2C354" alt="640251Q23H8" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640251Q23H8.jpg?resize=300%2C177 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640251Q23H8.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><br><strong>在不少国家和地区，“太污”的横幅确有可能被认定为性骚扰</strong></p>
+<p>女生节横幅有点“污”早已有之，不过今年的更加露骨——“你的引力‘波’太大，我们hold不住”“人美声甜胸大腰细臀翘水多活好不粘人”“女生节，晚归要放开，不归要张开”……</p>
+<p>面对性骚扰的指责，有的人仍认为这不过是玩笑开过了头，又没对女生动手动脚，根本不能算是性骚扰。但在不少国家和地区，这么污的横幅很可能被认定为性骚扰，制作者也会被追责。这是因为这些国家和地区对性骚扰的“零容忍”态度——任何不受欢迎的与性有关的行为和要求都可能构成是性骚扰；即使并非针对特定个人，如果此类行为创造了一个胁迫、敌意、羞辱或者冒犯性的环境，也很可能被认定是“敌意环境型”性骚扰。这里所说的环境既包括工作环境，也包括校园环境。</p>
+<p>美国耶鲁大学就在这个校园性骚扰问题上就栽过跟头。2011年，该校学生向美国教育部民权办公室投诉耶鲁大学存在性别敌视环境，校方对性骚扰处置不当。随后，民权办公室介入调查，在披露的诸多事例中，一个名为Delta Kappa Epsilon的兄弟会的性骚扰行为尤为引人关注，因为美国前总统布什父子都曾是此兄弟会的成员。</p>
+<p>投诉者称，该兄弟会2010年，曾在新生宿舍外高举“我们爱耶鲁荡妇”的标语，并高喊充满性暗示的口号。经调查，耶鲁大学认定该兄弟会性骚扰成立，勒令DKE兄弟会5年内禁止在校内进行招募及举办活动，并单独处罚数名成员。</p>
+<p>再看我国的这些很污的横幅，首先言论涉性，其次从网上的留言也可以看出，不光这些学校的不少女生感到被侮辱被冒犯，很多理性的旁观者也认为这些横幅太过分。如果在对性骚扰“零容忍”的国家，悬挂这些条幅被认定为性骚扰，很正常。</p>
+<p><strong>然而我国目前对性骚扰仍无明确定义，女生对“横幅”束手无策</strong></p>
+<p>横幅火了，挂横幅的学校自然要赶紧处理。此次涉及性骚扰的横幅中有几幅出自于华南农业大学。3月7日晚，华南农业大学在其官方公号上推出了题为《这么“污”的女生节横幅，我们坚决SAY NO!》的文章，把板子打在了学生身上——未经校主管部门批准，擅自在校园内悬挂横幅；横幅内容有的言语低俗，不堪入目……但未提及公众最为关切的性骚扰问题。</p>
+<p>这并不是学校故意回避，而是到目前为止，我国仍没有一部法律、法规或司法解释准确界定什么是性骚扰。虽然2005年，性骚扰第一次出现在《妇女权益保护法》上，但仅规定“任何人不得进行性骚扰”，而未描述性骚扰的构成要件。在一些地方关于《妇女权益保护法》的实施规定中，虽然列举了一些性骚扰的具体方式，如“语言、文字、图像、电子信息、肢体行为等形式”，但这样的列举明显落后于时代，且并未提及“敌意环境型”的性骚扰。在这种情况下，学校自然不会去背“性骚扰”的恶名。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%8D%8E%E5%8D%97%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6.png?resize=600%2C308" alt="华南农业大学公号上重申相关规定的通知" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/华南农业大学.png?resize=300%2C154 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/华南农业大学.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>华南农业大学公号上重申相关规定的通知</p></div>
+<p>性骚扰在法律上的尴尬不止于此。中国政法大学副教授刘小楠指出，虽然《妇女权益保护法》规定，性骚扰受害者也可以依法向人民法院提起民事诉讼。但由于诉讼法中没有把就业歧视和性骚扰案件列为受案范围，“歧视”和“性骚扰”也没有列入最高法院的诉讼案由，造成这类案件在法院受理困难。</p>
+<p>没有明确的定义，公众对性骚扰的认知就还停留在“动手动脚”，“耍流氓”的阶段，根本意识不到歧视性、挑逗性言论也可能属于性骚扰；性骚扰不是受案范围，结果通过司法途径进行骚扰维权时，法院常以名誉权纠纷的案由立案，这似乎暗示着受害人的名誉受到侵害而下降，往往让试图通过司法途径维权的女性受害人望而却步。</p>
+<p>在这种情况下，即使人身权利受到损害，很多女性也会选择忍气吞声，更不要说在“敌意环境型”性骚扰面前维权了。</p>
+<p><strong>借鉴其他地区的经验，让被骚扰的女性不再求告无门是当务之急</strong></p>
+<p>要让性骚扰的受害者不再求告无门，要从两方面入手。一是完善我国的性骚扰立法，二要有专门负责反性骚扰的职能机构。在这方面，香港的经验值得大陆地区借鉴。</p>
+<p>先看立法，香港的《性别歧视条例》明确了性骚扰的概念，而且它把性骚扰分为两类：1、是不受欢迎的性要求和性行为；2、涉性行为造成了具有敌意或恐吓性的环境。在香港平等机会委员会的“防止校园性骚扰的问与答”页面上，专门就“在性方面有敌意或具威吓性的教育环境”做过阐释——“这是指在教育环境中任何不受欢迎的涉及性的行径，而该行径会妨碍其他学生的学习表现或影响他们愉快学习的环境。有关行为不一定是直接或故意针对个别学生。这类性骚扰的例子包括但不限于：展示露骨或色情的资料、说黄色笑话、谈话粗鄙，以及使人反感的涉及性的笑话或行为。”</p>
+<p>按照这段定义，如果在香港校园打出露骨且下流标语，毫无疑问已经触犯了法例。</p>
+<p>有了明确的立法和认定标准只是第一步，关键还是在于如何执行。上述香港平等机会委员会（简称平机会）的运作经验值得借鉴。平机会不仅会负责监督学校和企业的反性骚扰措施的执行情况，也会亲自负责性骚扰案件。任何人都可以向委员会提出书面申诉，平机会须对申诉指向的行为进行调查，如双方愿意调停，投诉人可按自身情况提出和解条件，如果调解无法达成和解，平机会可在诉讼中提供适当的协助。这是一个不会踢皮球的专职机构，能让受害者不会因诉讼成本而畏缩退却。</p>
+<p>而在大陆地区，按照法律，用人单位、公安机关和妇联都有责任处理性骚扰投诉，但具体的责任和义务都没有明确，甚至还相互重合。以妇联的权益部为例，其主要职能是“要求并协助有关部门或者单位查处”，如果用人单位不查处呢？它也没有什么办法。</p>
+<p>这自然造成了处理性骚扰投诉能力的不同。数据显示，在2004 年至2009 年间，香港平机会共处理了527 宗关乎性骚扰的投诉，平均每年处理头100起，而据媒体报道，在《妇女权益保障法》修改后，2005年，长沙市仅有1例性骚扰投诉。2004年到2005年两年间，上海市性骚扰投诉仅有一例。</p>
+<p><strong>结语</strong></p>
+<p>从去年的华科大“泼水节”到今年的“污横幅”，每次都激起关于性骚扰的激烈辩论，是时候统一认识了。在男生眼里可能是玩笑，但对于很多女性来说，这无疑就是一种性骚扰。我们不仅需要对性骚扰有更多的立法，也需要不踢皮球的机构，让受害女性投诉有门。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%85%BE%E8%AE%AF%E4%BB%8A%E6%97%A5%E8%AF%9D%E9%A2%98-%E9%9D%A2%E5%AF%B9%E5%BE%88%E6%B1%A1%E7%9A%84%E6%80%A7%E9%AA%9A%E6%89%B0%E6%A8%AA%E5%B9%85-%E4%B8%BA%E4%BD%95%E5%A5%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E9%AA%9A%E6%89%B0/?category=18271" rel="tag">性骚扰</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BA%AC%E5%8D%8E%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E6%B6%89%E5%91%A8%E6%B0%B8%E5%BA%B7%E6%A1%88%E5%B7%9D%E7%B1%8D%E5%B9%B2%E9%83%A8%E5%B7%B2/" target="cdt-mirror">京华时报 | 四川省委书记：涉周永康案川籍干部已逐一核查</a>
+</h2>
+<p><p>昨天，在十二届全国人大四次会议四川团全体会议上，四川省委书记王东明表示，涉及周永康案的川籍干部已逐一核查，并依法依纪进行了严肃认真处理,现在四川良好的政治生态初步形成。</p>
+<p>王东明说，反腐败斗争事关国家前途命运，十八大以来党中央全面从严治党，重拳出击惩贪治腐，在不太长的时间内解决了很多问题，政风、社会风气为之一新。</p>
+<p>“四川是反腐败斗争的一个重要战场，周永康长期插手四川事务，造成恶劣影响。”王东明说，四川政治生态前些年出了很多问题，这些年干部队伍出现爆发式违法违纪案件，在这种情况下，坚决贯彻中央部署，持续用力，旗帜鲜明地反腐，取得明显成效。</p>
+<p>周永康案和其他一些大案，涉及四川的违法违纪线索，逐一进行核查，依法依纪进行严肃认真处理。</p>
+<p><strong>对周永康案和其他一些大案涉及到四川的干部违法违纪现象，已经逐一核查，</strong>依法依纪进行了严肃认真处理，现在良好的政治生态初步形成。</p>
+<p>“我们分析了案件特点，锁定了十个领域腐败易发多发，例如招投标、财政资金使用等。”王东明说，有针对性建章立制，减少了政府自由裁判权，让权力在阳光下运行。</p>
+<p>王东明说，查办案件让干部不敢腐、制度建设让干部不能腐，思想教育让干部不想腐。现在政府选人用人导向鲜明树立起来，上下级之间清清爽爽。</p>
+<p>现在，人民群众对政府执政满意度不断提升，全省纪检监察系统收到的举报案件首次下降，十八大以来下降了11%，特别是举报控告类信件下降了30%。</p>
+<p>另外，反腐败对经济发展产生了积极影响。良好的政治生态形成，驱浊扬清，有利于形成公平竞争的市场环境。经济保持持续健康发展，经济总量登上了3万亿台阶。</p>
+<p>昨天，四川省省长尹力在十二届全国人大四次会议四川团全体会议上针对四川扶贫工作表示，四川扶贫工作任务重，是全国六个重点地区之一，贫困人口有380万。</p>
+<p>四川目标是2020年全部消除绝对贫困，贫苦村、贫困县全部脱帽。让贫困群众吃穿不愁，读书不愁，住上好房子，形成好风气。</p>
+<p>在扶贫过程中，扶贫资金将一户一台账，要向群众全部公开。为了做好这项工作，政府正在开发扶贫信息系统，保证资金落实到每一户。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BA%AC%E5%8D%8E%E6%97%B6%E6%8A%A5-%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E6%B6%89%E5%91%A8%E6%B0%B8%E5%BA%B7%E6%A1%88%E5%B7%9D%E7%B1%8D%E5%B9%B2%E9%83%A8%E5%B7%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">周永康习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431275/" target="cdt-mirror">凤凰资讯｜41家公益组织就“高三女生被下药”发联署声明</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg" rel="attachment wp-att-431278"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg?resize=400%2C266" alt="f55771028946f41" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg?w=400 400w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><strong><br>
+作者：许晔</strong></p>
+<p>近日，一名黄山市高三女生被同班同学下春药的消息引起广泛关注。3月8日，41家关注性少数、女性和青少年教育议题的公益组织就此事发表联署声明。</p>
+<p>近日，一名黄山市 高三女生被同班同学下春药的消息引起广泛关注。3月8日，41家关注性少数、女性和青少年教育议题的公益组织发表联署声明，要求涉事的田家炳中学，黄山市 公安公开后续措施与更多详细信息，并呼吁全社会关注校园霸凌，教育机构建立反霸凌机制，并鼓励校园霸凌受害者站出来，投诉暴力行为。</p>
+<p>3月5日，该位女生在贴吧上发帖，称因自己是同性恋而被同班同学下春药，三人对其有言语侮辱。经媒体曝光后，此事件在网络上引起舆论哗然。随后，涉事女生删去了博文，并称已经接受了涉事男生的道歉。</p>
+<p>此事在网络曝光发酵后，当地教育部门与学校并未作出任何正面回应。据媒体此前报道，有知情者称，当地教育部门领导曾在会上嘱咐不要接不熟的电话，”特别是外地号码”。</p>
+<p>3月6日，黄山公安官方微博回应称：”调查已经结束，双方经协商达成一致，涉事同学已向当事人道歉并取得谅解，学校将根据校规对涉事学生做进一步严肃处理。”在此微博的结尾，祝愿涉事双方及其同班同学”在高考中，取得优异成绩！”</p>
+<p>这样的处理结果并未得到公众的认可。有人在此条微博下留言嘲讽：”预祝歧视同性恋、给同学饮料里下春药、并威胁使用砒霜的高三男生高考中取得优异成绩。”</p>
+<p><strong>“公安不能和稀泥”</strong></p>
+<p>“公安当然要依法行政，肯定不能是这样和稀泥的。”参与联署活动的新媒体女性网络负责人李思磐说。她对目前公安的处理结果表示不满：”这种伤害行为到底是否构成刑事犯罪？是否立案了？你到底做了什么样的处理？我们都不清楚。在目前案情不清楚的情况下，对这种大家都认为是非常严重的行为，公安竟然就是用这种息事宁人的方式来解决的，也没有对他们进行任何形式的训诫，竟然还要祝双方高考顺利。”</p>
+<p>声明中，多家公益机构要求黄山市警方”更加详细地公开相关加害人年龄、加害手段、目的和加害后果等信息，向公众证明对此案的处理是符合我国法律规定的。”</p>
+<p>此事发生后，同为公安的微博红人@警察蜀黍对黄山市公安的回应打了”负分差评”：”保护未成年人不是没有底线的，警方调查应该回应几个最基本的疑点：到底下东西了没有？如果确实有下，下的是什么东西？当事人说是’恶作剧’，到底发生了什么事情？这些都是官方回应应该说明的东西。你啥都不说就一个劲’好好学习呦’，这锅你不背谁背？”</p>
+<p>每当国内有校园霸凌事件发生时，公众总会提及2015年三名中国留学生在美国凌虐同胞案，三名加害者分别被判刑13年、6年和10年。担任其辩护律师的邓洪在接受中国媒体采访时表示：”在美国，如果涉及校园暴力案件的青少年未满十八岁，法院会通过辅导警告的方式告知学生，霸凌是不能被容忍的；如果后果严重并且有前科，即便未满十八岁，也可以当作成年人刑事案件审理，按成人犯罪定案、量刑。”</p>
+<p>李思磐说，台湾曾发生过更为恶劣的校园霸凌致死案件。被称为”玫瑰少年”的叶永鋕因个性女性化，常遭到校园暴力，2000年他在学校厕所意外身亡。此事件促成了台湾性别平等教育相关法律的通过。”大陆不仅仅是针对性别友善立法的问题，还有刑法对未成年的部分，并没有考虑对行为的遏制，而是对年龄划定界限，这个已经是被很多人认为是不对的。如果一个未成年人充分知道自己行为的后果或者性质，哪怕他年纪再小，他知道春药是干什么的，他也知道会有什么后果，那他就应该为此负责。”<br><strong><br>
+“这是犯罪，不是玩笑”</strong></p>
+<p>同城青少年资源中心负责人陈杜认为，目前国内的学校、家长、乃至学生群体普遍把校园霸凌行为视为”同学之间的玩笑”，都没有将其上升至对个人的侮辱和暴力。”都会觉得’这就是同学之间开的玩笑，你也不用那么在意啦’，’你不要跟他玩就是了，你不要理他就可以啦’，他没有意识到这其实就是犯罪，因为这件事涉及到下药了。”</p>
+<p>这家同样参与联署的公益组织曾在2012年对校园霸凌行为做过网络调查。调查结果显示，在接受问卷调查的421名学生中，有77%的人都曾经遭受到与性别身份、性取向相关的校园欺凌。42%的调查对象曾有过抑郁，26%的人容易愤怒，且有报复心理。然而遭遇到校园霸凌后，只有33%的被调查者寻求过外界支持，他们中大多 数更倾向于向同伴倾诉。</p>
+<p>陈杜向凤凰网举了个例子。他们曾经接触到一个案例，受害者是一名跨性别学生，生理性别为女。他曾在初中与同寝室的 女生发生矛盾和冲突，有天晚上，他被几位女生堵在寝室里，被迫当众洗屁股。加害者还进行言语嘲讽：”看吧，就算是性变态也得学会当好女生的。”这名学生没 有寻求老师或同学的帮助。</p>
+<p>黄山高三女生被下药事件在网上发酵后，该名女生和部分网友贴出了学校QQ群、微信群和论坛讨论的纪录截图，有该校学生发言称，”女孩做事太绝”，”你（指加害者）有一个班的人在后面支持你”等。</p>
+<p>“我们常常认为校园霸凌只有单方面，比如一对一，或是多对一，但这次其实是整个学校都在参与。校园霸凌，除了施暴者之外，还有附和者，纵容者和旁观者，这三类人其实扮演了很重要的角色，他们会影响氛围，影响到施暴者的行为。学校到现在没有表态，没有展开后续的教育活动，这种冷漠其实是在纵容学生们，比如有人扬言要去外校打她之类的。”陈杜说。</p>
+<p>联署的公益机构在声明中写道，要求涉事的学校公布后续处置措施，让加害者公开道歉，并”重新制定反对校园霸凌的有效措施、应对机制及完善的救助方法,并向全校师生进行普及教育、向全体家长及社会各界进行公开。”<br><strong><br>
+霸凌根源：不理解差异不尊重少数</strong></p>
+<p>校园霸凌现象在全世界普遍存在，无论是发展中国家，还是发达国家。1982年至2001年间，在美国发生的28起校园枪击案中，几乎所有行凶的男生都曾遭遇 过校园霸凌，他们因为不擅长体育运动、过于内向而被视为同性恋者，即便他们性取向并非如此。2011年的一份调查显示，在加拿大，64%的性少数群体学生，以及61%父母是性少数群体的学生都报告说，她/他们在校园中深陷险境。</p>
+<p>陈杜认为，校园霸凌的根源在于学生对差异的不理解与不尊重， 尤其是在性别方面。”在中学的时候，学生对于性别的概念正在建构和强化中，男人应该怎么样，女人应该怎么样。学校缺少对性别的讨论和教育，所以大家对性别 是有一个标准化的理解的，当看到某些人跟自己不太一样的，就觉得他是少数的、不合群的，甚至是变态的。”</p>
+<p>他认为这类恶性事件与近期”女生节”性骚扰横幅的价值逻辑有一定类似性：”我们对性别的理解都是缺乏想象的，都是一个标准的，就是觉得女生应该是柔弱的。有独立人格，要求平等权利的女性，她未必符合这种单一的想象，作为一个性少数的年轻人，也是未必符合社会的想象，这就是为什么说学校里的性别教育是很重要的，但在中国，这都是一片空白的。”</p>
+<p>中山大学副教授柯倩婷有着类似的观点：”学校对于性少数的讨论和教育非常少，有些人可能对性少数群体没有了解，之后就会缺少对这种性少数群体的尊重。”</p>
+<p><strong>黄山官方回应：3名男生给予记过或警告处分</strong></p>
+<p>3月8日，黄山市教育局发布官方微博，对“高三女生被下药”事件作出回应。</p>
+<p>该 微博称，经过调查，事件中的“药品”是涉事男生2015年4、5月间在某成人保健品店所获赠品（该店系外地人经营，因拆迁于2015年下半年关闭，药店经营业主已离开屯溪）。今年3月3日在教室晚自习休息期间，该男生先将部分药品倒入某男同学水杯，被发现后其自行喝下，见无任何反应，遂将剩余部分倒入当事女生饮料瓶中，该女生在不知情的情况下将其喝下，次日经同学告知该“药品”外包装标有“18岁以下女性慎用”字样，即向班主任反映。班主任立即约谈涉事男生及其家长。与此同时，公安部门也介入事件调查，认定不构成立案条件。随后，学校依校纪校规对3名涉事男生分别给予记过或警告处分。目前涉事双方已达成谅解。</p>
+<p>黄山市教育局在微博中表示：“我们在处理该事件上没有任何回避和包庇行为，相关调查报告已及时上报上级主管部门。”</p>
+<p>在此微博的最后，黄山市教育局呼吁“社会各界和新闻媒体客观理性地看待这一问题，尤其不能未经调查核实就对当事女生随意冠以’同性恋’等字眼，这会给她带来更大的二次伤害。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431275/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C/?category=18271" rel="tag">校园霸凌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431267/" target="cdt-mirror">【图说天朝】大大点亮了心中不开窍的灯</a>
 </h2>
 <p><p>@shifeike：今年两会我最佩服的人就是向书记了，他去年两会西服革履，今年摇身一变换成这身绚丽夺目的阿拉丁神灯装，服装、表情、语言、眼神各元素都精益求精。</p>
@@ -602,225 +768,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%90%E7%BB%8D%E5%8F%B2%EF%BC%9A%E7%A1%AC%E7%9D%80%E9%99%86%E7%9A%84%E9%A2%84%E8%A8%80%E5%BF%85%E5%AE%9A%E8%90%BD%E7%A9%BA/" target="cdt-mirror">德国之声 | 徐绍史：“硬着陆的预言必定落空”</a>
-</h2>
-<p><p>中国经济不会走向”硬着陆”，而且没有”拖累”全球经济–这是中国国家发改委主任徐绍史周日做出的表态。不过他也指出，国际经济环境中的不稳定因素的确会给中国经济增长构成威胁。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019097367_30300.jpg?resize=600%2C338" alt="徐绍史在3月6日的记者会上" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019097367_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019097367_30300.jpg?w=700 700w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>徐绍史在3月6日的记者会上</p></div>
-<p><strong>“硬着陆的预言必定落空”</strong></p>
-<p>“中国经济是绝对不会硬着陆的”，徐绍史在一次记者会上表示，”所谓硬着陆的预言是一定要落空的，请大家放心，不存在这种可能。”</p>
-<p>2015年中国经济增长率为6.9%，尽管这是25年来的最低水平，但是北京强调，这一增长速度与世界经济大国相比仍然是相对较快的。</p>
-<p>上个月在上海召开的20国集团财长和央行行长会议上，这个世界第二大经济体的发展现状和北京能否应付目前所面临的困境成为会议讨论焦点。</p>
-<p>总理李克强表示，中国有信心应对国内外的复杂形势，继续推进改革。他在周六发布的政府工作报告中表示，为2016年的经济增长设定的目标是6.5%到7%之间。</p>
-<p>“总体看，中国经济运行在合理的区间”，国家发改委主任徐绍史说。他还指出，看中国的经济，”不能再用传统的、以往的视角看”。而应该从”新常态”这个视角来看待中国的经济。</p>
-<p>而这个所谓新常态所包含的三个核心内容，就是速度变化、结构优化和动力转换。”如果从这个角度看，我觉得中国2015年的经济表现是非常亮丽的”，徐绍史说。</p>
-<p><strong>产能过剩和国企改制</strong></p>
-<p>这位国家发改委主任还表示，中国政府正在从钢铁、煤炭两个产业入手，来化解过剩产能。此外他还保证，中国绝对不会出现第二次下岗潮。经济的增长会创造更多就业岗位，抵消削减过剩产能所造成的影响。</p>
-<p>中国还计划在石油、天然气和铁路领域进行几个混合所有制改制试点项目。这也是北京对于占据经济主导地位但往往效率低下的国有企业进行的最深入改革之一。</p>
-<p>去年9月，中国出台了对国有企业改革的指导方案，其中包括在国企引入所谓的混合所有制。</p>
-<p>据官方媒体新华社报道，中国拥有大约15万家国有企业，其总资产超过100万亿元人民币，雇佣工作人员超过3千万。</p>
-<p>徐绍史也指出，世界经济缓慢复苏，低速增长，这一局面估计会持续一段时间，加上金融市场动荡，大宗商品价格下挫，地缘政治的风险也不容忽视。因此他认为，”世界经济环境当中不确定、不稳定的因素依然存在，它会通过各种不同途径影响到中国经济和社会的发展”。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%90%E7%BB%8D%E5%8F%B2%EF%BC%9A%E7%A1%AC%E7%9D%80%E9%99%86%E7%9A%84%E9%A2%84%E8%A8%80%E5%BF%85%E5%AE%9A%E8%90%BD%E7%A9%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A1%AC%E7%9D%80%E9%99%86/?category=18271" rel="tag">硬着陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%B8%A4%E4%BC%9A%E8%AF%B4%E7%9B%B8%E5%A3%B0/" target="cdt-mirror">【习总日记】 习近平李克强两会说相声</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，6）</p>
-<p>还是人大代表比较拎得清。昨天人大十二届四次会议开幕，我进场时，代表们全体起立鼓掌。这才像话嘛。你们给面子我也给面子，来而不往非礼也。下午参加上海代表团审议时，拉着总理李克强给代表们即兴表演了一段相声。</p>
-<p>习：人大十二届四次会议代表们，你们好，</p>
-<p>李：代表们好，</p>
-<p>习：同志们辛苦了。</p>
-<p>（众：首长辛苦。）</p>
-<p>习：同志们吃了么？</p>
-<p>李：首长今天请大家吃庆丰包子。</p>
-<p>习：今天我协同李克强总理给大家表演一段相声。</p>
-<p>李：咱不一直在说相声嘛，已经说了三年了。</p>
-<p>习：相声是咱中华文化经典艺术之一，曾经涌现出很多相声大师。</p>
-<p>李：譬如。。。</p>
-<p>习：马克思恩格斯，列宁斯大林。</p>
-<p>李：敢情这位是从清华大学马克思主义相声专业毕业的博士。</p>
-<p>习：当年时间紧任务重，还要和情人们约会，压根儿就没好好念书，请同志们原谅则个。</p>
-<p>李：原来真有情人们啊！</p>
-<p>（众：吁—-）</p>
-<p>习：相声这东西看上去难，其实简单。</p>
-<p>李：不简单。</p>
-<p>习：能逗人笑就是好相声。</p>
-<p>李：废话。</p>
-<p>习：十八大我当总书记人家就笑了。</p>
-<p>李：可不，好意思说被选上的，这不就是笑话嘛。</p>
-<p>习：后来搞了很多小组长，人家又笑了。</p>
-<p>李：还缺个中央相声表演领导小组组长。</p>
-<p>习：今天如果，注意我的用词，如果，如果咱俩相声表演成功了。</p>
-<p>李：你想怎么着？</p>
-<p>习：去德云社隔壁开一家。</p>
-<p>李：真的要辞职啊！</p>
-<p>（众：吁—）</p>
-<p>习：你们起什么哄？我这总书记做的，真的那么不堪吗？</p>
-<p>李：群众的眼睛是雪亮的。</p>
-<p>习：要说历届党和国家领导人里头，论搞笑，就数我第一。</p>
-<p>李：不见得。</p>
-<p>习：谁？你说说，谁比我更搞笑。</p>
-<p>李：天安门那位。</p>
-<p>（众：吁—-）</p>
-<p>习：怎么？他比我更搞笑？</p>
-<p>李：不信？</p>
-<p>习：你说出来，我和他比比，谁更搞笑。</p>
-<p>李：好，你听着。人家亩产万斤大跃进。</p>
-<p>习：我一带一路大撒币。</p>
-<p>李：人家砸锅卖铁全民练钢。</p>
-<p>习：我零首付全民炒房。</p>
-<p>李：人家揪党内走资派。</p>
-<p>习：我揪党内贪污犯。</p>
-<p>李：人家生前部署我爷爷打倒我奶奶。</p>
-<p>习：我，我，我生前部署我外公打倒我外婆。</p>
-<p>（众：吁—）</p>
-<p>李：有人在隔壁唱着悲伤的歌。</p>
-<p>习：说相声我得天独厚</p>
-<p>李：怎么说？</p>
-<p>习：我读书多啊。</p>
-<p>李：又要背书名的节奏。</p>
-<p>习：这么爱听我背书名啊，哪我就表演一段？毛泽东选集第一卷，毛泽东选集第二卷。</p>
-<p>李：行了行了，别恶心人了。</p>
-<p>习：三年来咱俩一个总书记一个总理，好似牛郎织女，配合得天衣无缝。</p>
-<p>李：您不用客气，是一个总书记，兼总理。</p>
-<p>习：至少你还挂着名嘛。</p>
-<p>李：哪我要谢谢您，没把我撤了。</p>
-<p>习：江湖传说朕要用韩正替换你。</p>
-<p>李：这不韩正在这里坐着。韩正，过来，来接替我的位置。</p>
-<p>（韩正笑着摆摆手：捧哏这活，还得您来。）</p>
-<p>李：韩正说他只接总理，不接捧哏。</p>
-<p>（众：吁—）</p>
-<p>李：其实你们有所不知，韩正捧哏的水平，朝中无人能比。</p>
-<p>习：哪倒不一定，我看黄奇帆就比他强。薄倒了他还没倒。</p>
-<p>李：强中自有强中手。我看有一人比他强。</p>
-<p>习：谁？</p>
-<p>李：三朝元老，王沪宁。</p>
-<p>习：不对。</p>
-<p>李：怎么？还有比王药师更厉害的？</p>
-<p>习：我呀！三朝元老。</p>
-<p>李：哪倒是。习总从正定县县委书记干起，历经邓、江、胡三代。一步步走来，勇攀高峰。</p>
-<p>习：他王沪宁给江搞了“三个代表”，再给胡搞了“科学发展观”，到我这里，没戏了。</p>
-<p>李：王郎才尽。</p>
-<p>习：所以我说，与我相比就差远了。</p>
-<p>李：你当着大家面说说，你什么能耐啊？</p>
-<p>习：三个自信。</p>
-<p>李：自以为是、自欺欺人、自毁长城。信以为真、信誓旦旦、信马由缰。</p>
-<p>习：我姓习不姓马。</p>
-<p>李：真的？第一次听说。</p>
-<p>两人鞠躬下台，表演结束。</p>
-<p>（众：鼓掌）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/030616.jpg?resize=551%2C367" alt="030616" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/030616.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/030616.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%B8%A4%E4%BC%9A%E8%AF%B4%E7%9B%B8%E5%A3%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%BA%89%E8%87%AA%E7%94%B1%E5%B0%B1%E6%98%AF%E4%B8%BA%E5%9B%BD%E5%AE%B6%E4%BA%89%E8%87%AA%E7%94%B1/" target="cdt-mirror">博谈网〖微博谈〗为个人争自由就是为国家争自由</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-9.jpg?resize=550%2C508" alt="20160306-bt (9)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-9.jpg?resize=300%2C277 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-9.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-10.jpg?resize=549%2C539" alt="20160306-bt (10)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-10.jpg?resize=300%2C295 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-10.jpg?w=606 606w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-8.jpg?resize=550%2C488" alt="20160306-bt (8)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-8.jpg?resize=300%2C266 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-8.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-7.jpg?resize=550%2C575" alt="20160306-bt (7)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-7.jpg?resize=287%2C300 287w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-7.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-6.jpg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-6.jpg?resize=300%2C240 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-6.jpg?w=606 606w" sizes="(max-width: 606px) 100vw, 606px" data-recalc-dims="1"><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-5.jpg?resize=551%2C438" alt="20160306-bt (5)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-5.jpg?resize=300%2C239 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-5.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-4.jpg?resize=551%2C414" alt="20160306-bt (4)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-4.jpg?resize=300%2C226 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-4.jpg?w=606 606w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-3.jpg?resize=550%2C436" alt="20160306-bt (3)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-3.jpg?resize=300%2C238 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-3.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-2.jpg?resize=548%2C530" alt="20160306-bt (2)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-2.jpg?resize=300%2C290 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-2.jpg?w=606 606w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"></p>
-<img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-1.jpg?resize=550%2C510" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-1.jpg?resize=300%2C278 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160306-bt-1.jpg?w=606 606w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>（所有图片均来自网络）</p>
-<p>1. @罗昌平：昨天是两会第二天，诺奖得主莫言人如其名，没有直接回答，只说“我们吃饭”；演员张国立快步走过，避免与等在会议中心的记者交流；知名电影导演冯小刚试图在一顶棒球帽的掩护下离开会议厅；被问到任大炮的时候，冯小刚在唇前竖起一根手指，“嘘——”他悄声示意，之后走开。</p>
-<p>2. @骑桶人：政府想干的事，就说这是国际惯例，比如延迟退休年龄；政府不想干的事（什么事我就不说了），就说这是西方阴谋不能按他们说的来。大刘拿了雨果奖，立即国家领导人接见，转头还当了作协副主席，发言人还引用《三体》，感觉现在不说个《三体》名词都不好意思出来见人。某某拿了XX奖，国内却连提到不准提。</p>
-<p>3. zhihu：中国人享有哪些西方人没有的自由？干涉别人自由的自由。</p>
-<p>4. 章立凡：发展不是硬道理，民生才是硬道理。</p>
-<p>5. @hnjhj：赵国自打我有记忆开始就一直在改革。从中央到地方，改完这个改那个，改了一遍又一遍，感觉从来就没找到过谱。然而改来改去你以为总得有点进展，尼玛结果每年都是最困难的一年。</p>
-<p>6. @青光楚辞：记得当年美国黄海军演，各种军网上大面积流传类似的消息：“徐才厚拍桌大怒，郭伯雄怒摔烟灰缸，华盛顿号敢来黄海一定打沉！”……一转眼，六七年过去，华盛顿号安然无恙，前述二位却翻船了。什么军网军迷，你们少造点笑话吧。</p>
-<p>7. @叶檀：佩服胡适的理性，理性自然长远。把自己铸造成了自由独立的人格，你自然会不知足，不满意现状，敢说老实话。有人告诉你“牺牲你个人的自由去争取国家的自由”，可是我要告诉你“为个人争自由就是为国家争自由，争取个人的人格就是为社会争人格。真正自由平等的国家不是一群奴才建立起来的。”（西藏人大代表团戴习近平像章）</p>
-<p>8. @阑夕：“据一位电影产业从业者说，中国的监管部门对于科幻电影，很关心两件事：一，在未来，中国共产党还存不存在？二，在未来，党在做什么？如果无力回答，那么科幻电影的拍摄自然要搁浅。”</p>
-<p>9. @美国驻华大使馆：为总统竞选担任志愿者需要长时间进行枯燥的工作，而且这一切都属于义务性劳动。但成千上万的美国志愿者仍然乐此不疲。这是为什么呢？曾担任共和党志愿者的共和党青年全国联盟名誉主席妮可丽·安布罗斯说，要求变革的强烈愿望推动她这样做。这仍然是当今竞选志愿者最重要的驱动力。</p>
-<p>10. @凌虚铺子：昨天又出降准的消息了，孔乙己又来到营业厅，排出十张毛爷爷，说，“补仓”。众散户便围住了孔乙己，问他能不能收复4000点。孔乙己抬起头，伸开五指说道，“岂止4000点，5000点都没问题。李大霄说要涨，能不涨么？”接着又是什么“婴儿底”“钻石底”之类的话，散户们将信将疑，对后市总算有了信心。</p>
-<p>关键词: 微博谈 栏目: 新颖视角 首页重点发表: 新鲜看点</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91%E3%80%96%E5%BE%AE%E5%8D%9A%E8%B0%88%E3%80%97%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%BA%89%E8%87%AA%E7%94%B1%E5%B0%B1%E6%98%AF%E4%B8%BA%E5%9B%BD%E5%AE%B6%E4%BA%89%E8%87%AA%E7%94%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E8%B0%88/?category=18271" rel="tag">微博谈</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E5%BA%97%E5%91%98%E5%BC%A0%E5%BF%97%E5%B9%B3%E8%BF%94%E6%B8%AF%E9%94%80%E6%A1%88/" target="cdt-mirror">BBC ｜香港铜锣湾书店案：店员张志平返港销案</a>
-</h2>
-<p><p>张志平是五名失踪人员中最年青的一位。</p>
-<p>香港“禁书馆”铜锣湾书店五人失踪事件再有一名店员返回香港，并向香港警方提出撤销关于他的失踪人口报案。</p>
-<p>香港警方星期天（3月6日）表示，书店业务经理张志平当天上午从中国大陆返回香港，警方与其会面时对方提出销案，并称“无需要香港特区政府或警方的任何协助，亦拒绝透露其他详情”。</p>
-<p>警方的声明并未透露张志平具体是从大陆何处地点，经由什么途径返港。此前书店总经理吕波也已返港，并同样向香港警方要求销案。</p>
-<p>张志平、吕波与书店店长林荣基上周在香港凤凰卫视与上海澎湃新闻的联合采访中指证书店大股东桂民海在大陆犯有“非法经营罪”，大陆警方称三人将会获释。</p>
-<p>报道说：“办案民警表示，由于林荣基、吕波和张志平认罪态度较好，他们将有机会获取保候审，有望在近日返回香港。”</p>
-<p>张志平在采访中说：“巨流公司和铜锣湾书店的非法经营活动都是由桂敏海（桂民海）指使的。我自愿接受法律对我的处罚。我真正的悔过了。”</p>
-<p>铜锣湾书店人员失踪经过</p>
-<p>·总经理吕波——10月15日在深圳失踪<br>
-·业务经理张志平（32岁）——10月15日在东莞失踪<br>
-·股东桂民海（51岁）——10月17日在泰国失踪<br>
-·店长林荣基（60岁）——10月23日最后一次在香港露面<br>
-·股东李波（65岁）——12月30日在香港失踪</p>
-<p>在该段也涉及桂民海的报道播出后，凤凰卫视隔天再播出了对书店股东李波的专访。采访中李波承认自己是偷渡返回大陆“协助调查”，并称自己自由，但未必能马上返港。</p>
-<p>李波还称其英国公民身份遭到炒作，他将放弃英国国籍。英国外交部回应BBC中文网查询时说：“我们随时准备好向他及其家属提供领事协助。”</p>
-<p>正在采访北京中国全国“两会”的香港媒体纷纷追问列席会议官员对铜锣湾书店事件的意见，但公安部部长郭声琨等都拒绝评论。</p>
-<p>一些中国全国人大港区委员曾表示要在“两会”期间跟进书店事件，但在这些采访曝光后纷称有困难。</p>
-<p>在中共中央主管港澳事务的中国全国人大委员长张德江星期天列席港区人大的小组讨论，从香港媒体发自北京的报道所见，与会港区人大在会后并未提及双方有否谈论铜锣湾书店事件。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%EF%BD%9C%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E6%A1%88%EF%BC%9A%E5%BA%97%E5%91%98%E5%BC%A0%E5%BF%97%E5%B9%B3%E8%BF%94%E6%B8%AF%E9%94%80%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%E6%99%9A%E5%AE%B4/" target="cdt-mirror">端传媒 | 中国房地产的最后一餐晚宴</a>
-</h2>
-<p><p>特约撰稿人 李雪娜 发自深圳</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%889.48.38.png?resize=553%2C367" alt="Screen Shot 2016-03-05 at 下午9.48.38" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.48.38.png?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.48.38.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>上海一个房地产展览交易会，到场的市民在观看楼房的模型。摄：China Photos/Getty</span></p>
-<blockquote><p>2016年，中国一线城市和部分二线城市房价的出现逆势井喷，此轮上涨是昙花一现还是楼市变天？过快上涨房价将对中国经济带来怎样的影响？</p></blockquote>
-<p>最近中国楼市又疯了。</p>
-<p>2月，上海的住宅成交金额前50名之中，只有8个楼盘的均价低于3万元/平方米。两个月之前，上海的平均楼价还仅约2万元/平方米。南京、杭州、苏州等核心二线城市紧随其后频现排队疯抢的购房热潮，“日光盘”层出不穷。深圳，则刚刚经历过2015年全年房价涨幅超过48%的疯狂！</p>
-<p><strong>政策刺激是主要推手</strong></p>
-<p>上述一线城市和部分二线城市楼价的突然爆发，有迹可循。中原地产首席分析师张大伟接受端媒体采访时表示，2015年四季度以来，政府推出一系列地产救市政策，直接带动市场回暖。再加上宽松的货币政策、高净值人群资产配置需求等多种因素叠加，大量资金流入楼市，推动了中国一线城市和部分二线核心城市房价疯涨的局面。</p>
-<p>过去两年，在经历了过度开发之后的中国房地产业面临巨大的“去库存”压力。来自国家统计局数据，全国商品房待售面积从2010年的1.06亿平方米直线上升至2015年的4.5亿平方米。但同时房地产景气指数却一路下滑，从2010年的102下滑到2015年的93.3。</p>
-<p>在总体经济一路下行的情况下，经济学家马光远在2015年底发表的一篇题为《2016年，这几个城市的房价会大涨》的文章中判断：2016年中国经济的总体温度仍在寒冬，而房地产是否稳定，将成为中国经济的胜负手。基于此，政府对房地产去库存的政策力度将超乎想象，在帮助农民工买房的同时，一系列政策组合拳还将包括首付回到20%、营业税、个税、契税的完全减免、政府回购、公积金扩容以及更大力度的财政补贴等。</p>
-<p>马光远坚称，政府一定会救市：“100%会救，1000%会救……如果这个世界上只有一种爱是真爱，那一定是中国政府对房地产的爱！”</p>
-<p>不出所料，今年2月份以来，中国政府密集推出一系列房地产救市政策：</p>
-<p>2月2日，央行出台首套房的房贷政策，不限购城市的房贷首付从3成降至2成；2月17日，央行再次发布消息，上调职工住房公积金账户存款利率；2月19日又迎来营业税、契税的减免……政策利好刺激不断。</p>
-<p>宽松的货币政策亦是背后重要推手之一。兴业证券首席房地产分析师阎常铭在最近的一次小型论坛上分析认为，人口、年龄结构、人均居住面积、房价收入比等，都不是房地产大周期的决定性因素，房地产的本质是货币现象。“中国房地产大周期还没见顶的情况下，小周期只要货币持续放水，主要城市的房价就必然持续上行”， 阎常铭说。</p>
-<p>近日，中国人民银行决定自2016年3月1日起，普遍下调金融机构人民币存款准备金率（简称“降准”）0.5个百分点，以保持金融体系流动性充裕，引导货币信贷平稳适度增长。这是2015年10月24日以来首次全面降准，之前降准大都是下降0.25%，小幅多次下调，这次一步到位下调0.5%，“放水”的力度之猛超过预期。按标普测算，0.5%降准释放的流动性约为6000-7000亿。</p>
-<p>但阎常铭分析认为，一线城市房价持续暴涨的趋势，其实早在2014年9月30日之后的降息政策发布即已开始。自2014年下半年以来，中国央行先后经历了六次降息、五次全面降准，贷款利率下降幅度超过40%，此前偏紧的市场流动性得到彻底释放。</p>
-<p>来自中国央行的数据显示，M1、M2增速自2015年4月期上升显著，尤其M1增速已经接近20%，至2016年1月，信贷创出2.5万亿的天量，引发广泛关注。</p>
-<p>如此天量的资金会流到哪里去？无非是实体经济、股市和楼市。但同样来自中国央行的数据显示，随着过去几年中国实际GDP的持续下降，中国实体经济收益下降明显，上市非金融企业的投入资产回报率已由2011年的9%下降至5%左右。与此同时，房价上涨的一线城市所在的商业银行，则大幅度增加按揭贷款占总贷款的比重。以2015年为例，深圳、上海和北京按揭贷款分别新增2135亿、1540亿和1373亿，总和就占到去年新增总按揭贷款的19%，也占到全国总新增贷款规模的近5%。</p>
-<p>以上数据足以说明，放量资金以按揭贷款的方式流入了楼市，并带来金融杠杆的放大。</p>
-<p>同时随着今年2月份央行推出非限购城市首套房首付比例由原来的3成降至2成的救市政策，这也意味着相当于购房者可以用5倍杠杆购房，加上期间许多房屋中介和地产商联合银行向购房者推出的首付贷、税费贷款等多种小额贷款服务，进一步加大了购房的杠杆比例。</p>
-<p><strong>“投资荒”加大楼市吸虹效应</strong></p>
-<p>同策咨询研究中心总监张宏伟补充认为，高净值人群资产配置需求也是中国部分城市房价暴涨的背后主要推手。</p>
-<p>目前存款和房产投资仍然是中国居民的主要投资理财方式，其中存款占比为40%，地产类投资占比35%，其他如股票投资、债券投资总额相加亦不足20%。这一数据体现出中国过去十余年以房地产主导的经济发展形态，也体现出中国居民务实保守的投资理念。</p>
-<p>去年开始，股票市场一路走低，新年开局又接连经历黑色熔断机制调整，加上近期人民币兑美元、离岸汇率双双大跌，多重市场波动加剧更是引发中国投资人群尤其高净值人群对新一年财富保值增值的担忧。</p>
-<p>强烈的资产配置需求和实体经济的低迷直接引发了2015年的“资产荒”。“‘资产荒’并非缺乏资产，而是相比前几年，银行等金融机构难以找到高收益、低风险的资产进行配置”，张宏伟分析认为，在中国政府一系列楼市利好政策的助推下，房地产便又成为投资者再自然不过的投资选择。</p>
-<p>申万宏源最新发布的研究报告也强调了投资人群在资产配置需求方面对中国楼市的考虑：股市赚钱效应不足、固定收益类理财产品收益偏低，楼市本就因其稳定性和较强的资金吸纳能力受到青睐，不断上涨的房价更是促使投资者的资金更快流向楼市。2015年二季度以来一线城市中高端地产市场的迅速升温，即是明证。</p>
-<p><strong>中国经济泡沫被进一步推高</strong></p>
-<p>岭峰资本创始人、著名投资人乐贝斯在其微信公众号发表文章，指出虽然供需能解释一切表面的市场变化，但供需背后更深层次的原因才是决定性的因素。作为一种资本资产，房地产需要抵押借贷购买，价格受信用的影响巨大。过去十几年中国房地产的持续上行，主要是建立在中国整体经济模式正反馈循环中──也即中国信用大周期影响的水涨船高。</p>
-<p>但目前中国经济正反馈因素已经结束：出口与外商投资下滑明显、外汇占款减少，基础货币投放收缩，信用大规模扩张时代一去不再，随着这一切的结束，大的正反馈循环也已终止。目前的地价和房价上涨仅靠银行系统独自支撑。“央行可以降准降息，甚至印钞增加基础货币，但若不能推动存款变贷款，贷款变存款的正反馈”，再多的努力也无济于事。</p>
-<p>在接受端媒体采访的多位业内人士看来，无论租售比、收入比等基本面比较，中国城市房价的高估已成共识。那么，此轮上涨是昙花一现，还是楼市变天？过快上涨的房价将对中国经济带来怎样的影响？他们一致认为，无论政策如何刺激，房地产暴涨的日子已经成为过去，“这是中国房地产最后一次救市，也是中国房地产的最后一顿晚宴”。</p>
-<p>3月1日，新华社发表社论，提醒警惕一线城市房价非理性上涨。作为中共中央的官方喉舌，新华社此次发声，立场鲜明地表明了中央高层对此轮房价暴涨的担心。新华社指出，无论是一线城市还是周边，房价的过快上涨或意味着风险临近。而这对遭遇下行通道中的中国经济，无疑将是致命的打击。</p>
-<p>市场方面的担心更为明显。申万宏源发布的研究报告称，急速上涨的高房价会提升其他行业的经营成本，对于很多盈利空间不足的企业来说，近期快速上涨的房价也不是好消息；过快上涨的房价导致短期吸金效应也可能对其他行业形成抑制。</p>
-<p>报告分析认为，去年股市火爆时，大量资金脱实向虚，虽然短期的股市盈利充实了企业的利润报表，做大了企业的市值，但纸面财富终究会随着泡沫的破灭而烟消云散。楼市的好处在于其虚实结合，且价格波动相对较小，但大量资金在短期内涌向楼市对于实体经济也是弊大于利。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%A4%90%E6%99%9A%E5%AE%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%91%E5%B8%82/?category=18271" rel="tag">救市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">高房价</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -832,7 +779,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -842,5 +789,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%B
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,143 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431267/" target="cdt-mirror">【图说天朝】大大点亮了心中不开窍的灯</a>
+</h2>
+<p><p>@shifeike：今年两会我最佩服的人就是向书记了，他去年两会西服革履，今年摇身一变换成这身绚丽夺目的阿拉丁神灯装，服装、表情、语言、眼神各元素都精益求精。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCpJ9kVAAA6zVw.jpg?resize=450%2C664" alt="CdCpJ9kVAAA6zVw" data-recalc-dims="1"></p>
+<p>不同场合图</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCvSxLUYAE-XIp.jpg?resize=500%2C333" alt="CdCvSxLUYAE-XIp" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCvSxLUYAE-XIp.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCvSxLUYAE-XIp.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>幽壹：呵呵，厉害厉害。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4992b82ajw1f1pu26h0lyj20go0c9wfi.jpg?resize=500%2C367" alt="4992b82ajw1f1pu26h0lyj20go0c9wfi" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4992b82ajw1f1pu26h0lyj20go0c9wfi.jpg?resize=300%2C220 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4992b82ajw1f1pu26h0lyj20go0c9wfi.jpg?w=440 440w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>幽评员：好演员。</p>
+<p>wreckor：包子的正确吃法：舔着吃。</p>
+<p>zhongdao123：不同场景完全就是不同的人，装逼还是要向体制内的取经。</p>
+<p>yanqingPITTLin：謊言世界的成功人士。</p>
+<p>痞痞痞痞痞痞痞痞：还有什么理由笑话三胖。</p>
+<p>断桥独钓残雪：太感动了，大领导为国操劳，是人民的之福，国家之运！</p>
+<p>HeavenOrHell丶：都是逢场作戏罢了。</p>
+<p>草办二太阳：不怪奴才，怪主子。这些马屁言语得主子认可了才能播啊，正说明主子爱吃这一套。</p>
+<p>Star_Screamer：哎，咋还没人劝进呢？我都替你们急死了</p>
+<p>曼娜回忆录30：马屁也可以市场经济，有需求就有供给，这TM还引人竞争机制了！</p>
+<p>凡遇偶合：刚切好中饭好伐……</p>
+<p>小马过河-R：呵呵，大家演技都不错，今年发奖金喔~</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431267/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">人大代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%94%E5%91%98/?category=18271" rel="tag">演员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E3%80%8B%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB/" target="cdt-mirror">精读党报 | 《疯狂动物城》里的政治</a>
+</h2>
+<p><p>看了标题，有的朋友可能有疑问，杜老师，你不会要从《疯狂动物城》里看权斗吧？</p>
+<p>答对了！</p>
+<p>先简单介绍下剧情吧，看过电影的可以直接跳过此段。</p>
+<p>（本文有剧透）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E.jpg?resize=550%2C302" alt="疯狂动物城" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/疯狂动物城.jpg?resize=300%2C165 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/疯狂动物城.jpg?w=670 670w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<blockquote><p>动物城是一个国家，常住居民为各类动物，有食草动物和食肉动物，它们和谐相处，因为有其他食物供应，食肉动物并不袭击、猎食食草动物，二者甚至还能通婚。</p>
+<p>动物城实行民主选举，有能力者上台执政。目前狮子是市长，羊是副市长。</p>
+<p>但羊不甘心做副市长，她要推翻狮子。羊采取的办法是，制造迷幻药，射入食肉动物体内，让其发狂，袭击食草动物，制造族群仇恨和对立，企图让动物城陷入动乱。</p>
+<p>狮市长采取的对策是，把发狂的食肉动物都秘密关押起来，向群众隐瞒事件。但不巧，被查案的兔警官撞破。</p>
+<p>此事曝光后，狮市长黯然下台。年轻稚嫩的兔警官在记者会上说，发狂的都是肉食动物，可能是它们的本性爆发。导致动物城陷入恐慌，食草、食肉族群尖锐对立。</p>
+<p>兔子警官反省自己的作为，认为自己不但没有让世界变得更美好，反而更糟糕了。一个偶然，得知动物食用一种花后会发狂，茅塞顿开，决定追查真相。</p>
+<p>在狐狸的配合下，查出策划这一切的，居然是羊副市长。二兽用计，拿到了羊副市长作案的证据，将其送上法庭。</p>
+<p>真相大白，发狂的动物得到救治恢复神智，动物城再次恢复了秩序。</p></blockquote>
+<p>读报君要说的，是以下四点：</p>
+<p><strong>一，国家、民族、阶级是政治属性，但肤色、地域、人种虽然是自然属性，但只要能被政治利（cao）用（nong），也是政治属性。</strong></p>
+<p>在动物城里，饮食习惯——食肉 or 食草，就被操弄成了政治属性。</p>
+<p>本来，食肉动物和食草动物没有本质区别，都是动物。狐狸小时候会犯浑，兔子也会咬人。年少无知、青春期的躁动、叛逆，并不专属于食肉动物或食草动物。</p>
+<p>这两种动物的区别，就像中国豆腐脑甜党和咸党一样，是一种多样性而已，而没有本质上的不同。</p>
+<p>读报君可以引用3月3日下午，俞正声主席工作报告里的内容来谈这个问题：</p>
+<blockquote><p>在人民政协，“同”是基础和前提，就是共同致力坚持和发展中国特色社会主义、实现中华民族伟大复兴的中国梦，这是我们团结奋斗的最大思想政治共识和最大公约数；“异”是客观现实和重要特征，政协委员来自方方面面，利益诉求、知识背景、社会阅历、生活方式等不尽相同，对某个具体问题的看法和认识总会存在差异。</p></blockquote>
+<p>食肉动物、食草动物的“同”，或者说“共同思想政治基础”，是“让这个世界更美好”。无论是狮子市长，还是兔子警察，抑或其他动物，都多次说过这句话。在这一点上，他们是一致的，也就是说，价值观是相同的。</p>
+<p>“异”，其实食肉，还是食草，这是一个饮食习惯问题，即“生活方式不尽相同”。</p>
+<p>但这种不同，却给政治势力操弄，提供了可能性。最终导致动物城内食肉动物和食草动物尖锐对立，几乎断送动物城的未来。</p>
+<p>现实中的人类政治，可比动物城丰富得多：</p>
+<p>本来都是美国人，却因为肤色问题，形成了种族歧视和压迫；</p>
+<p>本来都是台湾人，却被分成了“本省籍”、“外省籍”，政治势力就能煽动仇恨和分裂，从中取利。</p>
+<p>本来都是一样的公民，但一旦贴上“地”、“富”、“反”、“坏”、“右”的标签，那就成了“贱民”，处处低人一等；</p>
+<p>无论是“发动群众斗群众”，还是《1984》里的“仇恨日”，古今中外都一样。</p>
+<p>差异化、多样性本来是让这个世界丰富多彩的，但却被用来制造隔阂和对立，悲夫！</p>
+<p><strong>二，当权者是要维稳的；挑战者想破局，必然要搞事</strong></p>
+<p>动物城里接连出现了14个动物发狂失踪案，且都是食肉动物。</p>
+<p>读报君把这个事件称之为“发狂-失踪”案。因为这是两码事。“发狂”，是羊副市长策划的；“失踪”，是狮市长采取的对策。</p>
+<p>狮子市长，是动物城的最高领导人，来自食肉动物，能力强，但它是少数派。</p>
+<p>羊副市长，是狮子市长的副手，来自食草动物，是多数派。她认为，狮子之所以任命她为副市长，是为了争取食草动物的选票。</p>
+<p>大家注意一个事实：动物城是一个民主政体，领导人通过选票上台。</p>
+<p>羊副市长不甘心做副手，想取代狮子成为市长，但如果只是比拼政治纲领，似乎信心不足。毕竟羊看上去很小，也不像很有能力的样子，虽然食草动物数量占优势，但由于在动物城，共同的思想政治基础是——食肉、食草动物没有本质区别，投票时，食草动物不会因为羊食草就投票给她。</p>
+<p><strong>成熟的民主社会，理性的选民已经超越了最简单的自然属性，是要看政纲或者参选人的魅力的。</strong>白人也会投票给奥巴马，台北市民也会投票给蔡英文。像2004年台湾南部农民“含泪也要投阿扁”的情况越来越少。</p>
+<p>那如果让食草动物对食肉动物完全失去信任并且持有戒心呢？</p>
+<p>这就是羊副市长做的，让食肉动物发狂，袭击、猎食食草动物，制造族群对立、煽动仇恨。</p>
+<p>当食肉动物发狂案例出现后，狮子市长被动接招，把这些发狂的动物秘密关押起来。然后封锁消息，以免不明真相的群众被煽动，导致社会不稳。</p>
+<p>换位思考，很多人可能都会和狮子市长采取同样的措施。不过，“捂盖子”也暴露了一个问题，即<strong>狮市长内心深处其实既对食肉动物缺乏自信，又对食草动物有信任。</strong>因此，只能是被动“维稳”。</p>
+<p>读报君可以判断，狮子市长肯定清楚，这件事绝对不是意外，而是一场阴谋，其目标正是自己。它甚至知道，幕后主谋就是羊副市长，但是，没有证据，也不知道具体原因，无法下手。唯一破局的办法，就是先把这些发狂的食肉动物控制住、关押起来，以换得时间，尽快查清楚真相。</p>
+<p>从狮市长在收容所气急败坏来看，在已经出现了14起发狂案例的情况下，它仍未查清案情，也没有好的对策。</p>
+<p>羊副市长也知道，她制造的发狂动物，都被狮市长被秘密关起来了。但她占据主动，可以从容不迫地<strong>继续制造更多食肉动物发狂案，再去煽动它们的家属去报案，去上访，去闹事。</strong>制造问题——左右开弓——围猎市长。</p>
+<p>因此，狮市长必败无疑。</p>
+<p><strong>三，警察姓狮至关重要</strong></p>
+<p>狮子市长能不能不败？能，“警察姓狮”即可。</p>
+<p>刚才说了，动物城是一个民主政体，领导人上台是要靠选票的。民主政体的一个特点是——军队国家化。在动物城中，军队就是警察，其职责是维护动物城的秩序和每一个动物的安全。市长违纪违法就抓市长，副市长违纪违法就抓副市长。它是中立的。</p>
+<p>前面说，系列动物发狂案，狮子市长肯定清楚，这件事绝对不是意外，而是一场阴谋，其目标正是自己。它甚至知道，幕后主谋就是羊副市长。但是，没有证据，也不知道具体原因，只能被动接招——发狂一个，关押一个，发狂一个，关押一个。</p>
+<p>如果警察姓狮，绝对忠诚，听狮指挥，而且是唯一的、彻底的、无条件的忠诚，狮叫干什么就坚决干，狮不允许干什么就坚决不干。那就太简单了，先把羊副市长双规即可，查她！非法收受青草；利用职务便利为他兽谋取利益；违反动物城道德，与犀牛通奸；妄议狮子市长……总能找出几条罪名吧。</p>
+<p>更重要的是，只要双规了羊副市长，调查她的周边关系、通话记录，很快就能抓到那几个制造迷幻剂的羊同伙。动物城系列失踪案也就告破了。我们相信，一旦案情公布，全城动物都将谴责批判羊副市长。</p>
+<p>搞不好还会看到这样一幕：冰川区、热带雨林区、沙漠区的动物，都会先后表态，坚决拥护动物城查处羊副市长这个“口言善、身行恶”的“城妖”，更加紧密地团结在狮市长周围。</p>
+<p><strong>四，如果羊副市长得逞，动物城的未来会是怎么样</strong></p>
+<p>这是一部正能量的电影，正义最终战胜了邪恶，虽然只靠一个录音笔，而且是一个兔子 + 一个狐狸完成的。</p>
+<p>那正义如果没胜呢？如果羊副市长继续策划食肉动物发狂案，那动物城的政治发展，会是什么路径呢？</p>
+<p>读报君开开脑洞，会是这样：</p>
+<p>由于狮市长已垮台，发狂的食肉动物不会再被关押起来，它们将游走在动物城，袭击食草动物，造成全城恐慌，食草、食肉族群尖锐对立。</p>
+<p>这种尖锐对立出现后，食草、食肉族群不再彼此信任，族群隔离、互相戒备。</p>
+<p>极端情况下，即便没有被注射迷幻剂，食肉、食草动物也会彼此袭击。就像太平洋大逃杀的那艘渔船，只有杀死对方，自己才会安全。</p>
+<p>羊副市长占据行政资源，代行市长之职，可以利用食草动物的恐慌，聚集选票，循民主路径，当选市长。</p>
+<p>但一个为了市长职位，不惜撕裂族群、制造仇恨的政客，绝对不会甘心就此罢休。</p>
+<p>我们很难指望羊市长去推动族群和解。族群和解，羊市长的执政基础就没了，下一次能否连任，很难。一旦食肉动物再次上台，启动真相调查，羊市长就是罪人，就要入狱。</p>
+<p>为了维持统治，羊市长必须要持续制造、利用食肉和食草的对立，来巩固自己的执政地位。</p>
+<p>因此，动物城的未来只有两个：</p>
+<p>一是独裁，羊副市长江山永固，执政到死。食肉动物被戴上铁口罩，或被隔离起来，沦为政治贱民。</p>
+<p>二是内战。食肉动物与食草动物爆发战争。要么一方彻底消灭一方，要么动物城一分为二。</p>
+<p>无论哪种未来，动物城都将倒退300年。</p>
+<p>因此，读报君想说的是：多样性是这个世界本来的样子，它让这个世界变得丰富多彩。<strong>差异化不应该成为被操弄的对象，成为制造对立、煽动仇恨的工具。</strong></p>
+<p><strong>对于任何企图这么干的政治势力，我们都当警惕。</strong></p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E3%80%8B%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E6%96%97/?category=18271" rel="tag">权斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">民主社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E/?category=18271" rel="tag">疯狂动物城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E5%8F%91%E6%96%87%E6%8F%AD%E9%9C%B2%E5%BD%93%E5%B1%80%E5%AF%B9%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5%E8%A2%AB%E5%88%A0%E9%99%A4/" target="cdt-mirror">BBC｜“财新”发文揭露当局对新闻审查被删除</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png" rel="attachment wp-att-431263"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=475%2C567" alt="caixin" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=251%2C300 251w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=768%2C917 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=858%2C1024 858w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?w=2092 2092w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
+（财新原文谷歌<a href="http://webcache.googleusercontent.com/search?q=cache:e3uFMXh5qNMJ:english.caixin.com/2016-03-07/100917276.html">缓存页</a>截图）</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%92%8B%E6%B4%AA%EF%BC%9A%E4%BF%9E%E4%B8%BB%E5%B8%AD%E8%AE%B2%E8%AF%9D%E5%BC%BA%E8%B0%83%E5%8C%85%E5%AE%B9%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81-%E4%B8%8D%E7%90%86%E8%A7%A3%E5%8F%91%E8%A8%80%E8%A2%AB/">蒋洪：俞主席讲话强调包容不同意见 不理解发言被屏蔽</a></p></blockquote>
+<p>中国著名新闻人胡舒立领导的新闻机构对中国审查制度以及遏制言论自由发出警示，该报道发出后不久被删。</p>
+<p>《财新》旗下英语网站周一（3月7日）发表文章，就此前《财新》中文网刊发的一篇文章遭当局删除表示异议，该英文报道复述了“政协顾问要求言论自由的评论被从财新网上摘除”一事，并直言中国国家互联网信息办公室是“政府新闻审查机构”。</p>
+<p>这篇英文报导文章目前也已被删除。</p>
+<p>《纽约时报》记者傅才德（Michael Forsythe）的这篇报道说，中国的互联网监管机构删除的是《财新》中文网3月3日的一篇文章，当局说文章含有“非法内容”。</p>
+<p>这篇文章采访了政协委员、上海财经大学教授蒋洪，文章题为《蒋洪委员：我的两会言论被指违法违规“太可怕”》，该文引用蒋洪的话说，政协委员应该能够对中共领导人自由发表意见。</p>
+<p>目前北京正在召开政协和人大会议。《财新》的这篇英文报道在结尾处还引述全国政协主席俞正声在开幕当天的讲话说，“要鼓励政协委员履行民主监督职能，探索民主监督的有效形式，支持他们反映群众诉求，提出批评意见，帮助党和政府改进工作。”</p>
+<p>《财新》中文报道引用蒋洪的话说，“只不过，受某些事件的影响，现在公众也都有点迷茫，希望少讲些话，气氛是这样。”不过蒋洪没有说明某些事件指的是什么。</p>
+<p>《纽约时报》记者傅才德在文章中说，中国新闻媒体发文公开政府对新闻媒体的审查十分罕见，特别是就在不久前习近平高调视察了包括中央电视台、新华社等国家主要媒体。</p>
+<p><strong>言论</strong></p>
+<p>最近中国国家互联网信息办公室关闭了拥有大约3800万粉丝的地产富商公众人物任志强的微博账号。之前在中国国家主席习近平视察国家媒体要求“媒体姓党”后，任志强批评了中共对新闻媒体的控制政策。</p>
+<p>任志强在微博写道，“人民政府啥时候改党政府了？花的是党费吗？”他还说，“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p>
+<p>《财新》传媒的总编是胡舒立，她在中国新闻界声望很高。《纽约时报》的这篇文章说，胡舒立十分清楚批评政府政策和揭露腐败的报道能够被容忍的底线。文章还引述2005年采访胡舒立的话说：“我们会接近这条线——甚至可能去挑战它。但我们从不跨越它。”</p>
+<p>傅才德说，最近中共似乎对于任何质疑其控制媒体的人，无论知名度多高，都会被果断处置。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E5%8F%91%E6%96%87%E6%8F%AD%E9%9C%B2%E5%BD%93%E5%B1%80%E5%AF%B9%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5%E8%A2%AB%E5%88%A0%E9%99%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0/?category=18271" rel="tag">财新</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/" target="cdt-mirror">来自习总的妇女节问候：去年有多少人娶媳妇儿？</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A5%B3%E7%94%9F%E8%8A%82.png" rel="attachment wp-att-431250"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A5%B3%E7%94%9F%E8%8A%82.png?resize=525%2C328" alt="女生节" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=300%2C187 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?w=1343 1343w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><em>（某高校“女生节”惊人标语；<a href="http://news.ifeng.com/a/20160308/47735851_0.shtml">图片来源</a>）</em></p>
@@ -37,7 +171,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">三八妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">性别失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8A%A5%E9%81%93%E7%9A%84%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5/" target="cdt-mirror">【真理部】关于今年（2016）两会报道的重要通知</a>
 </h2>
@@ -687,140 +821,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AF%9B%E8%91%B1%E8%AF%B4-%E4%BA%8E%E8%81%AA%EF%BC%9A%E6%88%91%E6%89%80%E4%BA%B2%E5%8E%86%E7%9A%84%E5%8C%97%E4%BA%AC%E6%8A%A2%E6%88%BF%E6%BD%AE/" target="cdt-mirror">毛葱说 | 于聪：我所亲历的北京抢房潮</a>
-</h2>
-<p><p>肚子一天天大起来，我和老公不得不考虑卖掉郊区的“花园洋房”，换到市里去，否则在市里上班的我们实在没有精力照料宝宝。做了这个决定3天，我们就把房子卖掉了。心里不舍，毕竟是我们在北京的第一个家，地板、橱柜、餐桌、沙发，所有的一切都是我和老公的心血，而又有什么办法呢，为人父母，第一课，就是责任吧。</p>
-<p>然后我们开始换房之旅。</p>
-<p>就那么巧，遭遇了恐怖的“抢房热”。</p>
-<p>我们目标很明确，可以不考虑学区，上班距离地铁3站左右都可接受，但面积上至少要同等大小。刚开始的几天，还能淡定的看房，与房主交流，但是随着国家出了降契税的政策，教育部放出学区房可能会发生变化的通告，形势开始不对劲。一向火热的学区房有些降温，导致了地段好的非学区房升温，而且二胎政策一放开，大户型开始受青睐，既然学区不保证，那还不如买个大房子住着舒坦。</p>
-<p>其间，有一天晚上冲动的签了一个房子，但最终因为不合心意最终放弃。</p>
-<p>而从那开始，噩梦来袭。</p>
-<p>业主1：</p>
-<p>某著名高校硕士毕业，家里装修和卫生一流，相谈甚欢，走的时候说，价钱和细节都可谈。可是过了一天，看房人数激增，中介弟弟传话说，房主是要换大三居，因为大三居涨价，他也跟着涨价30万。我突然蒙掉，会有人一天涨价30万？是疯了吗？于是打算放弃。</p>
-<p>业主2：</p>
-<p>一家人都看着闷闷不乐的样子，也是家里装修和卫生一流，报价并不低，问可以随时签约吗，说再等等，他们也是换房，那边还没看好，第二天问，还是说再等等，主动说加5万签约吗，答案依然是再等等，于是不了了之。而在同时，中介弟弟说，业主1又涨了50万，3天一共涨了80万，因为他看中的大三居涨了100万！我听到这些，感觉是在做梦，真的会有这样的人？</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%889.38.15.png?resize=437%2C358" alt="Screen Shot 2016-03-05 at 下午9.38.15" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.38.15.png?resize=300%2C246 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.38.15.png?w=437 437w" sizes="(max-width: 437px) 100vw, 437px" data-recalc-dims="1"></p>
-<p>业主3：</p>
-<p>某隐形富豪，常年在国外，神秘分子。每天只在晚上12点之后和中介沟通细节，就如皇上上朝一般。所有沟通都谈好，就已经过了2天，终于第3天答应让他老婆和我们商讨细节，而上午，中介弟弟通知说业主老婆的爸爸住院了，要拖到下周才能谈。我有点开始慌了，我发现有些不对劲了，大部分业主卖房开始犹豫并不是一个好兆头。</p>
-<p>果然，新闻开始铺天盖地的形容北上广和深圳的房价和窜天候一样疯涨，而在这个节骨眼上，央行降了基准利率，楼市真的疯了。</p>
-<p>接下来几天，只要是有房子在卖，就会有中介带着一群人去看，很多客户连房子都没看清，就已经嚷嚷要签约。最佳状况是，很多业主，会从一堆客户中挑选付款方式最佳的一方签约，但是已经开始有业主坐地起价，10万20万都是常态，大户型坐地起价50-100万的随时可见，买房者和待宰的羔羊一样，任何条件都答应，可很多业主直接放下一堆的客户，说，我还得再考虑一下。</p>
-<p>买房的急了，中介急了，卖房的也急了，因为大部分人都是以房换房，要换的房在涨价，自己出售的房子也不得不涨价，要换的房子涨价后还不见得能签约，那自己出售的房子涨价后也不敢轻易放手，进入一个怪圈，一个恶性循环。</p>
-<p>我和老公真的慌了。</p>
-<p>因为我们发现，钱放在手里，就是以10万20万的速度在贬值，如果不立马换成房子，真的是渣渣都不剩。很多人会说，大不了不买房子了，把钱握在手里投资。谁不知道这个道理，可是投资到哪里去呢，股市被套牢，理财收益低，拿出去创业，再好的业绩，可能过了5年，你依然买不起一套心仪的房子。这应该是大部分人的心态了，据我的几个常联系的中介估算，北京的买房者与房源的比例已经达到6:1，也就是大概一套房子有6个人在抢，谁都不想让钱在手里贬值。我开始发现，我们开始看不上的那些稀奇古怪的户型，也开始涨价，而且竟然都成交了。</p>
-<p>我们彻底慌了。不止我们，手里拿着现金或者打算换房的人都慌了。</p>
-<p>我们立马改变策略，不能再考虑大户型了，当断则断，退而求其次，只能转向离我工作地点近的小户型。</p>
-<p>业主4：</p>
-<p>70多岁的老人，三楼，上楼不方便要换房，中介好说歹说，是同意出售，但是不是立马，他也要再等等，他要等看到合适的房子再出手。这时，同小区出了一个一楼，中介劝他换到一楼去，这样三楼就可以及时出售了，可是老人家依然要再等等。我焦灼的等待着中介的回音，结果三番五次都是再等等。而这时，过了一天时间而已，一楼涨了30万！</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%889.38.54.png?resize=434%2C309" alt="Screen Shot 2016-03-05 at 下午9.38.54" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.38.54.png?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.38.54.png?w=434 434w" sizes="(max-width: 434px) 100vw, 434px" data-recalc-dims="1"></p>
-<p>其实在这之前，我们就已经看中另外一套距离、学区和环境都不错的房子，但是我刚要出门去看房，中介打电话说，业主老婆羊水破了，要去医院，房子看不成了，经过业主4，我们已经意识到问题的严重性，于是找了该小区的同户型，虽然价钱高了一点，但是也比没有选择强。</p>
-<p>约好和业主谈。</p>
-<p>业主5：</p>
-<p>三个老北京。一个胡子老长，一个眼睛斜视，一个邋邋遢遢，胡子长的是房主。上来开口就说，我先和你们说一下我的情况。我一听到这句话，头都炸了。果然，又是一样的情况，他们看了3套房子，每套都是坐地起价，而且不签约，所以他们无法立刻出售这套房子，但是可以和我们保证，不涨价，就卖给我们，等他们选好房子后立马和我们签约，胡子老长的大哥一脸信誓旦旦，说这是君子协议。去你的君子协议吧，你是当我是三岁小孩儿吗？中介已经看不下去，把他们劝走了。</p>
-<p>这时已经是晚上8点多，眼看着又要无功而返。有个中介灵机一动，说，给生孩子的业主打个电话试试吧。而就是这个电话，救了我们。</p>
-<p>一个开进口宝马的年轻男士来了。</p>
-<p>他说，他刚从医院回来家里给媳妇拿东西，接到中介电话就过来。我们依然没报什么希望，因为这个房主报价低很多，我们正打算等他涨价。没想到的是，中介和他讲价，他竟然同意了！在这种形势下，他不但没涨价还降价。随即感慨，我平时看见微信上的众筹一定会捐款，看见讨饭的一定会给钱，好人还是有好报的。</p>
-<p>业主6：</p>
-<p>这是最后一个业主，风度翩翩，稳坐如山，说话慢条斯理，只比我们大五岁。他刚买了个1000多万的豪宅，为了改善住房。好吧，同样是改善，我们是从郊区进城，他是直接改善到188平米的豪宅去了。他说，他出售的这套房子当年是花几十万全款买的，所以没有贷款，我算了算，一套房子，他已经净赚了几百万。这可能就是缘分，也可能是他看着我大着的肚子起了怜悯之心，很顺利的签约了。</p>
-<p>人贵在知足常乐，在这场浩劫中，能全身而退，已经是不容易了。我老公说，在北京，每向市里的一环前进一步，都是要付出代价的。虽然没有实现我的所有预期，但在这个大形势下，应该知足了。</p>
-<p>而谁能想到，发生的这一切，是在9天时间里。</p>
-<p>我称经历的这场抢房风暴为浩劫。</p>
-<p><strong>它偷走了我一直坚持的信念。</strong>一直以来，我相信，通过自己的努力，是可以让生活变得更好的。而这次，让我深深体会到了一种无力感。是一种在巨大漩涡中，你想抽身又不敢，只能随波逐流，任人宰割。我第一次体会到，国家政策的改变，对一个普通老百姓生活的洗劫。接二连三的毫无规律的新政，可以让几代人的资金灰飞烟灭。并不是你有钱握在手里，就高枕无忧，一个政策的改变，立马让你深陷泥潭。这种因为大环境的突然转向，花钱依然买不到自己心仪东西的无力感，令人心酸。第一次感受到了人制的可怕，没有章法，没有制约，只是根据形势随意变化规则。人民没有任何商量的余地，只能被动应对。<strong>这是否就是中国人向来没有安全感的原因，无论什么东西，即使掌控在自己手里，也可能因为一朝一夕的大环境，一无所有。</strong></p>
-<p><strong>它给我灌输了投机倒把的种种好处。</strong>一直以来，我同样相信，努力工作才是人生最大的切入点，可是，当我看见只比我大5岁的年轻人，因为早买了几年房子，就已经积累到了很多小企业几年的业绩。5年后，人与人财富和生活质量的最大差距，竟然不是因为工作努力的结果，而是房子！<strong>谁在历史的洪潮中及时出手，谁就坐享其成。</strong>和很多搞科研的人聊房子，大家一致认为，这么努力的工作，依然是在生活线上挣扎，而如果一旦抓住了某个机会买到合适的房子，胜过奋斗几十年！真是找不到努力为国家奉献的动力！当房子给年轻人造成这么大的浮躁心理时，我不知该如何评价。</p>
-<p><strong>它让我看到了奇怪的社会分层，以房分人，用房产进行的阶级固化。</strong>在这场浩劫中，我体会到了普通小市民在底层的挣扎。最上层占有最多房地产资源的人最有话语权，因为他们可以随意变卖房产，并没有其他压力，而且他们可以操纵一些暗处的套现或者其他不为人知的资金积累。而下一层需要换到这一层的买方，则受到制约，如果上层业主涨价，他也只好被动涨价，再下层的买方受到上面两层卖家的制约，已经有些无力感，再下层的买方，基本是任人宰割，而那些努力工作，家里条件不是很好，靠自己攒钱的年轻人们，连任人宰割的机会都没有！何其悲哉！在一线城市，不考虑其他社会因素，竟然可以因为一个房子，将社会分层，这是我从来没有深入想过的事情。一部分人掌握了大量地产资源，并用此创造出更多的财富，期间并没有实业支撑，而很多人，在事业和实业中奋斗几十年，到头来因为没有掌握良好时机，过着与付出不成比例的生活。<strong>课本上教育我们说，科学技术是第一生产力。而在一线城市，蜗牛的背壳——房子，俨然成为第一生产力。</strong></p>
-<p>作为一个在象牙塔里读了20几年书，三观极正的28岁年轻人，我越来越看不懂这些朝令夕改的规则。而我已经无力抱怨，因为生活还要继续。</p>
-<p><strong>韩寒说，被强奸，既然不能反抗，就好好享受吧。</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AF%9B%E8%91%B1%E8%AF%B4-%E4%BA%8E%E8%81%AA%EF%BC%9A%E6%88%91%E6%89%80%E4%BA%B2%E5%8E%86%E7%9A%84%E5%8C%97%E4%BA%AC%E6%8A%A2%E6%88%BF%E6%BD%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">北京房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">高房价</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8-%E5%88%9A%E9%9C%80%E8%BF%98%E6%98%AF%E5%BF%BD%E6%82%A0%E5%89%A7%EF%BC%9F/" target="cdt-mirror">德国之声 | 房价飞涨 刚需还是“忽悠剧”？</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%889.32.32.png?resize=467%2C261" alt="Screen Shot 2016-03-05 at 下午9.32.32" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.32.32.png?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午9.32.32.png?w=467 467w" sizes="(max-width: 467px) 100vw, 467px" data-recalc-dims="1"></p>
-<p>猴年伊始，中国一线城市房价创新高、楼市异常火爆。有观点认为，是媒体造势引爆了此轮楼市疯涨，是政府和媒体“在忽悠人们买房去库存”。</p>
-<p>（德国之声中文网）”想想看，工作这些年谁都骗过我，就房产中介没骗过我，他们一直苦口婆心的骚扰我买房，说房价一定会涨，我没听，如果上天给我一次重来的机会，大学毕业那年四环才6000，我一定不会挂你电话”，这是近日中国社交媒体广为流传的一个帖子，说出了很多在北上广漂泊民众的心声。而搞笑言语背后，正是一线城市疯狂的楼市。</p>
-<p>据路透社报道，上海房价在1月份同比飙升17.5%，2月环比上涨3.6%，其增长速度是中国平均水平的7倍。中国官媒本周称，深圳房价在2月暴涨72%，摘得中国楼市三项冠军。北京更是传出学区房卖出一平米46万的天价。</p>
-<p><b>造势顶房价？</b></p>
-<p>有观点称，引爆一线楼市近日飙升的是政府旨在 <a href="http://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%88%BF%E4%BB%B7%E7%BB%A7%E7%BB%AD%E7%96%AF%E6%B6%A8%E4%B8%8E%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%A1%8C/a-19067733">“去库存”的新政</a>–降低部分二线城市以及三线、四线城市的房贷门槛、实行契税营业税优惠。事实上，这些政策不涉及这些房价暴涨的大城市，因此很多房产专家称，新政发出了国家政策宽松的信号，给市场心理带来变化。</p>
-<p>还有分析人士和民众认为，媒体的造势和密集报道起到了推波助澜作用。有网民写道，中国大城市”房价井喷的致命推手是中南海”；还有的称这是政府、官媒、开发商合演的”忽悠剧”。</p>
-<p>社交媒体上，有人将如今的楼市与去年的股市进行了对比，表示”调控惊人相似”。微博热传的贴子写道：”一场为了解决库存问题而人造的房市已被点燃，这跟去年的人造股市如出一辙。而方法也高度雷同：配资加杠杆，政府，媒体共同推动，热炒！”</p>
-<p>一篇网络文章（微信公告号”思想内参”）分析称，”本轮房价上涨的本质是掩护30万亿地方债务的转移”，表示95%的省会直辖市是靠土地还地方债，而”库存去不了，土地卖不出，政府着急了，必须出大招……于是有了2016年年初的首付比例下降、税费下降、央妈放水等措施”。</p>
-<p><b>“</b><b>房产粉碎了年轻人的梦想</b><b>“</b></p>
-<p>更多民众则感叹道，暴涨虽然看着疯狂，但确为”真的”，并非媒体造假。官媒新华社近日也发表文章，称要”警惕一线城市房价非理性上涨”。</p>
-<p>与此同时，很多中国房地产专家则继续看涨一线楼市，称这些城市存在这个需求，其房价在未来将持续坚挺、继续上涨。</p>
-<p>路透社则在报道中提醒，上海等地的房地产市场近期超乎寻常火爆，新泡沫可能正在形成，类似于几个月前中国股市一样的崩盘可能重演。这对于目前入（楼）市者而言，像是一个噩梦般的预言；而对于很多白手起家、怀揣定居北上广梦想的年轻人来说，则更像是一个甜美的梦想。</p>
-<p>一名网民在看到各种房价飞涨的报道后感叹：”目前的高房价会给我们的未来带来前所未有的弊端：房产粉碎了所有年轻人的梦想，绑架了年轻人的想象力和探索力。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8-%E5%88%9A%E9%9C%80%E8%BF%98%E6%98%AF%E5%BF%BD%E6%82%A0%E5%89%A7%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">北京房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">高房价</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-%E6%9D%8E%E8%8F%81%EF%BC%9A%E6%AE%89%E9%81%93%E8%80%85%E9%81%87%E7%BD%97%E5%85%8B/" target="cdt-mirror">三联生活周刊 | 李菁：殉道者遇罗克</a>
-</h2>
-<p><p>作者：李菁</p>
-<blockquote><p>“老子英雄儿好汉，老子反动儿混蛋。”这样一句荒谬无比的话却在一个特别的年代里被奉为真理，并成为鉴定每个社会成员的准则。不过指出这里荒唐的遇罗克却在那个年代付出了生命的代价。在今天很多人看来，他所捍卫的，不过是最基本的常识。46年前的1970年3月5日，遇罗克被宣判死刑并被执行枪决。</p></blockquote>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%883.01.08.png?resize=533%2C398" alt="Screen Shot 2016-03-05 at 下午3.01.08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.01.08.png?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.01.08.png?w=533 533w" sizes="(max-width: 533px) 100vw, 533px" data-recalc-dims="1"><br><span>1967年，遇罗克刑前最后的留影</span></p>
-<p>——“如果说这是呐喊，也是受压迫的人喊出的最强音了。”</p>
-<p>——“大哥有种英雄情结，为了正义与真理，他会觉得个人牺牲是不足惜的。”</p>
-<p><strong>殉道者</strong></p>
-<p>1968年1月5日，遇罗克离家出门的那个清晨，除了冷之外，实在太过平常，以至于不管遇罗文还是遇罗勉，无论怎么面对本刊记者努力回忆，也找不出有任何预示意味的特别之处。“大哥带了一饭盒大米饭、炒白菜和一本书，骑上自行车走了。”现在59岁的遇罗勉说。在上班的路上，遇罗克便被抓走了。全家人后来才意识到，那是一个诀别。离家那天，遇罗克的书桌上，还放着他刚刚写完的《工资论》。</p>
-<p>其实很早就有苗头了。1967年4月14日，“中央文革”成员戚本禹宣布：“《出身论》是大毒草，它恶意歪曲党的阶级路线，挑动出身不好的青年向党进攻。”此后，“我家附近已经有人在盯梢”，在美国接受越洋电话采访的遇罗文回忆。若干年后遇罗勉则奇怪，那时的公检法都被砸烂了，但这至少证明还有一个系统仍在运作，“我虽然还很小，但都知道谁是盯大哥的人”。父母则照例叮嘱大儿子，要小心，但除此之外，也没有多少办法。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%883.02.41.png?resize=442%2C556" alt="Screen Shot 2016-03-05 at 下午3.02.41" data-recalc-dims="1"><br><span>北京轻工业学院东方红公社《大毒草<出身论>必须连根铲除》</span></p>
-<p>仍旧每天继续读书、写文章的遇罗克发现，每当他外出时，总是有人在跟踪。他预感到他将要遭受到最残酷的迫害。在给朋友的一封信里他说：“我只有一半的自由了，我的身后总有人跟踪，我的朋友开始受到讯问，我的信件都被进行检查了。”</p>
-<p>1月6日，遇罗克被一辆囚车带进了牢房。遇罗文说，遇罗克一共被提审80多次，有时搞疲劳战术，日日夜夜轮番审问。“但他从来没有检举过别人，没有承认过自己有罪，没有说过违背良心的话。”当得知弟弟遇罗文也被关进监狱时，他更把一切责任都揽到自己身上，并且对预审员说：“是我牵连了弟弟，我的事他不知道。”以此来尽可能地使遇罗文得到解脱。</p>
-<p>遇罗文说，难友中一位干部子弟很佩服遇罗克的才学和胆识，他问遇罗克：“你为一篇《出身论》去死，值得吗？”遇罗克很镇静地回答：“值得。你过去一直生活优越，终日在高干子弟中间，这所大学上腻了，看不上了，还可以上另一所。你对家庭出身问题没有体会。而我几次高考，成绩优异，都没有考上。像我这样的并不是一两个。可以说，从我们能奋斗的那天起，就是被社会歧视的。你不了解我们这些人的社会地位和心情。我被抓了，也许结果不堪设想，但为出身问题付出这么大代价的，解放以来还是第一次。如果说这是呐喊，也是受压迫的人喊出的最强音了。”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%883.04.07.png?resize=408%2C525" alt="Screen Shot 2016-03-05 at 下午3.04.07" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.04.07.png?resize=233%2C300 233w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.04.07.png?w=408 408w" sizes="(max-width: 408px) 100vw, 408px" data-recalc-dims="1"><br><span>出身论判决书</span></p>
-<p>临刑前，遇罗克把自己平时换洗的衣服洗得干干净净，叠得整整齐齐。其中有一件崭新的白背心，他没有穿过。遇罗文说，自从1957年父母被打成右派以后，父亲被劳动教养，没有工资收入，母亲被撤了职，只有70多块钱的工资。一家7口，就靠这70多块钱生活。从那以后，遇罗克从来没有穿过好衣裳。他参加工作以后，把每个月的工资全部交给母亲，帮着养家，自己只留3块钱，而这3块常常被用来买书。“他在狱中穿的旧背心实在太破了，就写纸条让家里人买一件新背心。等母亲把新背心送来时，他已被判处死刑。他觉得，没有必要穿新背心了，新背心还是留给弟弟们吧……”遇罗克就这样穿了一身破旧的衣裳走上了刑场。</p>
-<p>遇罗文说，遇罗克临刑前写了几首诗，托付给难友，请他们有幸出狱时，交给家人。其中有一首诗的最后两句是：“清明未必生壮鬼，乾坤持重我头轻。”1970年3月5日，在北京工人体育场里，在排山倒海的“打倒”声中，27岁的遇罗克被宣判死刑，并立即执行。“大哥最后死在哪里，我们现在都不知道。“</p>
-<p><strong>家事</strong></p>
-<p>遇罗克从小是个很优秀的孩子，是弟弟妹妹们崇拜的对象。“他自己会编木偶戏、皮影戏，或者照小人书编个小话剧，然后让我们仨来演。”遇罗文回忆，有时遇罗克还用一张16开的白纸，用钢笔和铅笔又写又画，给他们编小报。遇罗克的象棋也下得好，曾获得1956年北京少年组亚军，甚至后来还有不看棋盘同时下两盘棋的本领。遇罗文、遇罗勉至今提起哥哥还是钦佩不已的口吻：“因为他聪明好学，一直很受宠，从小学到中学都属于响应号召，积极向上的好孩子。”</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%883.04.46.png?resize=535%2C370" alt="Screen Shot 2016-03-05 at 下午3.04.46" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.04.46.png?resize=300%2C207 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.04.46.png?w=535 535w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"><br><span>1954年6月与妹妹</span></p>
-<p>父亲遇崇基是东北人，后来以“满洲国”第三名的身份考上日本早稻田大学的公费留学生，在日本，他用“罗茜”的笔名写了一本《日文报纸译读法》，很受欢迎。他给几个孩子起名也都用了“罗”字，而不是家谱上规定的广字。“我有一次问过他，他说‘羅’拆开是‘四’、‘维’两字，礼义廉耻是国之‘四维’。”遇罗勉说。母亲王秋琳是北京人，家境优裕，曾自费到东京女子高等商科学校读书。后来，父亲遇崇基开办了“大业营造厂”，母亲王秋琳和同伴合开了一个“理研铁工厂”。</p>
-<p>对遇家人来说，1952年是后来一连串动荡乃至劫难的开始。那一年开展的“三反”“五反”运动中，遇崇基因为被怀疑偷漏税几十亿元而被逮捕。“几个月后，事情不了了之，父亲被放回来了，但是他的厂子受到很大影响。”为了躲避伤心地，遇家花3000元买了东四牌楼附近的一个四合院，举家迁到那里。遇罗克后来在《我的童年》作文里，详细写了这座院子的花花草草，写到临别时，他抱着一棵枣树哭了。这篇文章成了全校的范文，是他最早的得意之作。在弟弟遇罗文的记忆中，“这是他唯一一次在文章里承认自己哭了，以后，我再也没见过他落泪”。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%883.05.24.png?resize=553%2C432" alt="Screen Shot 2016-03-05 at 下午3.05.24" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.05.24.png?resize=300%2C234 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.05.24.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>1963年春节全家福</span></p>
-<p>1957年，“反右”运动开始。遇崇基因为一句“人与人，冷冰冰”，被打成“极右”的右派，送去劳动教养。“因为父亲有自己的想法，显得不随和，所以每次运动都躲不过去。”遇罗文回忆，“大哥非常尊敬父亲，父亲的遭遇对他触动很大。”不仅如此，“母亲仅仅稍微表示了同情章乃器，也被打成右派，下放劳动”。</p>
-<p>虽然出身论的荒谬在“文革”时达到极致，但在“文革”之前，它已经是盛行的一个政治标准。“同学们因为出身不同，被分成三六九等，我是属于最底层的。”遇罗勉说，“家里出一个右派已经抬不起头来了，何况我的父母两人都是，其中一个还被劳教。”那时流行的一句政治口号是：出身不好的人要进行脱胎换骨的改造，要和家庭划清界限。“心灵上遭受的痛苦和折磨非常之深。”遇罗勉如今回忆起来，仍有些痛苦。</p>
-<p>1959年，遇罗克从北京65中毕业。虽然高考成绩优秀，但还是没有大学接收他，就连要求分数不高的地质专业学校，也不允许他进入。遇罗勉解释说，那时上大学除了看出身，还要看“操行评定”——学校的操行评定分成“优良中差劣”五等，被评为“中”是根本不可能上大学的，“差”者基本上要被开除。自父母双双成了右派后，遇罗克的评定也由“优”变成了“中”。遇罗克不解，老师回答：“你自己还不知道吗？”</p>
-<p>遇罗克抱着一线希望，在家又复习一年，还是与上大学无缘。“两次进不了大学，让他真的明白了，他所受的不公，不只是个别现象，而是个严重的社会问题。”为了了解社会，遇罗克报名到南郊农村当农民。1961年春节前，街道批准遇罗克去大兴红星公社旧宫大队菜园小队插队。遇罗克显然认为是命运的新转机，“他接到通知就高兴地去迁户口，连春节供应的那些副食都放弃了，姥姥气得直叹气”。遇罗文说。</p>
-<p>那时候，已经开始号召学生到农村去，但尚未像后来知识青年下乡那么大规模，“他也感到很新鲜”，遇罗文说。但也正是在这一年，一句“千万不要忘记阶级斗争”的口号，又把他们推到与人民相对立的另一个阵营里。但在农村，“血统论”的现象更为严重甚至也更残酷。“他回来跟我们提过，在农村，一些地主和小孩子都被斗死，他们用很形象的语言，称之为‘连根拔’。”遇罗文说，从自己的遭遇出发，再联系到整个社会，遇罗克开始陷入深深的思考。</p>
-<p>1964年，神经衰弱很严重的遇罗克回到城里。他曾经在小学做过一段代课老师，又因出身问题被辞退。不久，他被分配到人民机器厂当学徒工。“回到北京后，我们也长大了，说的越来越多，越来越深。”两个弟弟印象最深的，还是大哥的读书，“爱看书，什么书都看”。遇罗勉说，他印象最深的，是大哥房间里的灯总是亮着，“跟我们住在一起的姥姥唠叨他：不要整晚亮，你的电费是全院平摊的”。</p>
-<p>遇罗克喜欢跟弟弟们分享他阅读的体验，黑格尔、亚里士多德的名字，还有诸如“诡辩”一类的名词，“都是我从大哥那里听到的”。《流浪者》里的台词：“法官的儿子还是法官，贼的儿子还是贼。”和卢梭在《论人类不平等起源的基础》里的：“法学家既郑重宣布了奴隶的孩子生下来就是奴隶，换句话说，他们也就肯定了人生下来就不是人。”这些经典之语，都是遇罗克在和弟弟们讨论社会流行的“出身论”时提及的。</p>
-<p><strong>政治风暴中的出身论</strong></p>
-<p>“出身论”的命运，也涉及红卫兵的一段复杂历史。遇罗文解释：最早的“红卫兵”是由清华附中一些干部子弟发起的，此后，北大附中也出现“红旗”战斗队，以后各地方纷纷成立这种组织。“他们的共同特点是，对出身的要求非常严格，有的只许干部子弟，有的也允许一部分工农子女参加。”遇罗文说，后来通常用“老红卫兵”来划分这些最早出现的红卫兵。<br>
-“老红卫兵”因为有出身的优越感，因而是“老子英雄儿好汉，老子反动儿混蛋”的最忠实的信奉者。他们将社会阶级分成几类：黑七类——地主、富农、反革命、坏分子、右派、资本家、黑帮（注：指被打倒的干部和学术权威）及其子女（被统称为“狗崽子”）。而工、农、革命干部、革命军人、革命烈士及其子女则是红五类。“总之家庭出身高于一切，也决定一切。”“‘文革’一爆发，‘出身论’更发展到了极致，‘文革’以前，还说出身不好的还是可以改造的人，‘文革’一开始，我们就变成‘混蛋’了。”遇罗勉说。</p>
-<p>1966年8月18日，毛泽东在天安门城楼接见了“老红卫兵”。宋任穷的女儿宋彬彬给毛泽东戴上了“红卫兵”的袖章；“八·一八”之后，“红卫兵”名声大振。在“群众运动天然合理”的鼓动下，这些红卫兵们开始走出校园，冲上街头，在社会上开始有相当破坏力的“革命造反”活动。老红卫兵打死人的一些血腥传闻，让遇罗克有了写文章反驳出身论的直接动力。他很快就完成了《出身论》的初稿。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%883.06.26.png?resize=569%2C425" alt="Screen Shot 2016-03-05 at 下午3.06.26" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.06.26.png?resize=300%2C224 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午3.06.26.png?w=569 569w" sizes="(max-width: 569px) 100vw, 569px" data-recalc-dims="1"><br><span>《出身论》油印本</span></p>
-<p>不久，红卫兵开始全国大串联，要把“革命造反”的火烧到全国去。这时，遇罗文和弟弟遇罗勉也属于滚滚洪流中的两位。他们到广东串联，发现这里有各式各样的小报或印刷品，油印条件非常方便，于是他们试着写了几份反“出身论”的传单，又根据对哥哥《出身论》的回忆，写了一篇3000多字的《论出身》，印了几百份，贴在广州街头。落款是“北京呐喊战斗队”，没有写真名。</p>
-<p>“我们住在一所小学里，很多串联的学生帮我们印、帮我们贴，有人在上面留言‘好文章’，有人写‘大毒草’，批注特别多。还有人把油印的重抄成大字报贴出来，反响特别强烈。我们觉得时机到了，广州毕竟远离政治中心，也应该在北京宣传。”遇罗勉回忆。</p>
-<p>两个弟弟把油印的传单寄给在北京的哥哥，同时也告诉他这种简单的油印方式。很快，遇罗克《出身论》的定稿寄了过来，让他们在广州油印。同时，遇罗克和遇罗锦也用弟弟提供的方法，印了很多，贴到北京市委、国务院、清华、北大、地质学院等地。因为署名为“北京家庭出身问题研究小组”，当时知道遇罗克名字的人并不多。</p>
-<p>“文革”运动的发展开始迅速波及老干部，早期对出身有天然优越感的“老红卫兵”们意识到，自己的家庭已成为运动的直接对象。1967年初，一部分人成立了跨校际的组织“首都红卫兵联合行动委员会”，简称“联动”。它的成员必须是十三级以上的干部子弟，这也是唯一的条件，他们公开喊出“踢开‘中央文革’闹革命”。</p>
-<p>当“中央文革”发现这部分红卫兵已经成运动阻力时，“联动”及其“血统论”也开始受打压。“但‘中央文革’是有分寸地反对血统论，打击老红卫兵，收买了很多人心，很多出身不好、长期受压抑的青年人，一下子开始活跃起来，也对‘中央文革’感恩戴德。”遇罗勉说。</p>
-<p>这时，红卫兵不再是出身好的那些人的特权，“其范围已扩大到普通学生，都自称是红卫兵”，遇罗文称之为“新红卫兵”。当“联动”遭打压时，“新红卫兵”们也开始看到批判“血统论”的时机。</p>
-<p>1967年初，北京四中的王建复和牟志京找到遇罗文，说他们看到贴在四中的《出身论》后深受感动，来商量怎么能扩大宣传。3个年轻人很快得出一个结论——办一份铅印小报。几天之后，1967年1月18日，《中学文革报》和占3版篇幅的铅印《出身论》终于问世了。</p>
-<p>“当时中学生办报的人并不多，民办的报纸几乎没有。”遇罗勉说。所以尽管《中学文革报》第一期只印了３万份，但立刻轰动了北京城。遇罗文说，有时在街上就能听到有人议论：“这是反右以来最敢说话的文章了。”</p>
-<p>“我们接到好多人来信，很多被出身影响的年轻人，觉得这篇文章说出了他们的心声。”遇罗勉说。</p>
-<p>在1966年末至1967年初相对失控的几个月里，遇罗克终于有机会发表自己的看法。他连续写了《出身论》、《谈纯》等一系列具有理论深度的文章，抨击反动的血统论思想。这些文章就发表在《中学文革报》上。“我们一直坚持办了7期，直到《出身论》被宣布为‘大毒草’。”遇罗文说。在这7期报纸中，遇罗克一个人写的文字占总数的将近3/4。</p>
-<p>其实当时知道“遇罗克”名字的人并不多，因为发表时的落款是“北京家庭出身问题研究小组”。“慢慢的，我们这些办报的人都知道他了。”对于当年的举动，遇罗文坦率地说：“有的人认为我们是迎合‘中央文革’，想一炮打红。我是绝对没有这样的想法。我明白，这个风险非常大。出身的提法已经几十年了，怎么会因为我们的一份报纸而改变呢？”遇罗文说，“母亲当时就说：你们太冒险了。”事实果然被母亲言中。</p>
-<p><strong>永远的怀念</strong></p>
-<p>因为父亲是学工科出身的，“对问题从来不含糊，爱深究”，在思维方式上，遇罗文和遇罗勉都认为，大哥像极了父亲，“逻辑性强，严谨”。而在性格上，“遇罗克和遇罗锦的性格像母亲，他们小时候就很爱表达”，遇罗勉评价。他说喜欢《牛虻》一类作品的大哥，有种英雄主义情结，“为了正义与真理，他会觉得个人的牺牲是不足惜的”。</p>
-<p>遇罗克的母亲出身富裕人家，爱美，姥姥告诉遇罗勉，当年日本人轰炸济南时，别人都裹着细软逃命，母亲却带了几本相册跑。那些曾记录了一个家境优越的少女无忧青春的相册，在“文化大革命”中被抄走。</p>
-<p>《出身论》给这个家庭带来了极大的灾难。家里6个人，有4个被关进监狱。而原来娇生惯养的母亲却坚强地承担起一个家的责任，而且表现出超乎寻常的勇敢与坚韧。1978年冬，王秋琳带着儿子的材料，找到《光明日报》记者苏双碧，为遇罗克的平反问题而奔走。</p>
-<p>虽然没有在报纸上刊登有关遇罗克的文章，但是，社会上已开始到处传颂遇罗克的事迹了。1979年11月21日。北京市中级人民法院做出再审判决：“原判以遇罗克犯反革命罪，判处死刑，从认定的事实和适用法律上都是错误的，应予纠正……宣告遇罗克无罪。”</p>
-<p>遇罗勉说，哥哥去世后，家里再也没人正式提起过他，无论是他的生日还是忌日，大家都心存默契地回避，“毕竟是一个太大的伤口”。不过，遇罗文说，如果有人做了什么大家不满意的事情，一句“这样做太对不起大哥”，就意味着最严厉的指责了。母亲也从来不在他们面前提及大哥，她内心的痛苦是她死后孩子才从她的日记里知道的。“母亲每天上下班经过‘工体’，都要把头扭过去，不去看那个地方，因为哥哥是在那里被宣判死刑的。”王秋琳是1984年去世的，那一年的日记就写到5月1日——那一天，是遇罗克的生日。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-%E6%9D%8E%E8%8F%81%EF%BC%9A%E6%AE%89%E9%81%93%E8%80%85%E9%81%87%E7%BD%97%E5%85%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E9%81%87%E7%BD%97%E5%85%8B/?category=18271" rel="tag">纪念遇罗克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E7%BD%97%E5%85%8B/?category=18271" rel="tag">遇罗克</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -832,7 +832,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -842,5 +842,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

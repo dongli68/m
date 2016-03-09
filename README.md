@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/" target="cdt-mirror">来自习总的妇女节问候：去年有多少人娶媳妇儿？</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A5%B3%E7%94%9F%E8%8A%82.png" rel="attachment wp-att-431250"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A5%B3%E7%94%9F%E8%8A%82.png?resize=525%2C328" alt="女生节" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=300%2C187 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?w=1343 1343w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><em>（某高校“女生节”惊人标语；<a href="http://news.ifeng.com/a/20160308/47735851_0.shtml">图片来源</a>）</em></p>
+<p><strong><a href="http://news.xinhuanet.com/2016-03/08/c_1118270839.htm">新华网｜习近平参加湖南代表团审议</a></strong></p>
+<blockquote><p>8日上午，习近平参加湖南代表团审议。湘西土家族苗族自治州州长郭建群代表在发言中，回忆起2013年11月习近平总书记到十八洞村考察的情景，着重介绍了近两年“精准扶贫”进展情况。习近平说，我正式提出“精准扶贫”就是在十八洞村，前几天中央电视台报道的十八洞村脱贫进展情况，我都看了。“现在人均收入有多少了？”总书记问。“您当年来的时候是1680元，现在已经增加到3580元。”郭建群答。郭建群接着说，十八洞村百姓收入增加，村容村貌变化，已成为全省文明村和旅游定点村，村民笑容多了、求发展愿望强了，<strong>连大龄男青年解决“脱单”问题也容易了</strong>。<span><strong>总书记问：“去年有多少人娶媳妇儿？”“7个。”郭建群答道。代表们发出会心的笑声。</strong></span>当得知全州还有50万贫困人口，习近平问：“条件比十八洞村还差的有多少？”郭建群说，十八洞村的条件算中等的。总书记追问：“不如它的有多少？”“接近一半。”郭建群答。习近平要求当地党委和政府加大工作力度，带领当地群众一起艰苦奋斗，早日实现脱贫目标。<br>
+[…]<br><strong>习近平向全国各界妇女同胞致以节日问候</strong></p>
+<p>8日上午，习近平参加湖南代表团审议。正值三八国际劳动妇女节，总书记代表党中央、国务院，向女代表、女委员、女工作人员和全国各族各界妇女致以节日的祝贺和诚挚的祝福。会议结束时，习近平同代表们握手道别。女代表纷纷围拢过来，向总书记表示感谢。习近平再次向妇女同胞表示祝贺。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">三八妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">性别失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8A%A5%E9%81%93%E7%9A%84%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5/" target="cdt-mirror">【真理部】关于今年（2016）两会报道的重要通知</a>
 </h2>
 <p><p>宣传部重要通知（21条）</p>
@@ -806,34 +821,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91-%E8%AE%A9%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8E%AA%E6%89%8B%E4%B8%8D%E5%8F%8A%E7%9A%84%E9%9D%9E%E6%B3%95%E4%B9%A6%E7%B1%8D%E6%9F%A5%E6%89%A3/" target="cdt-mirror">博谈网 | 让维权律师措手不及的“非法书籍”查扣行动</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-%E4%B8%8B%E5%8D%882.53.17.png?resize=532%2C400" alt="Screen Shot 2016-03-05 at 下午2.53.17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午2.53.17.png?resize=300%2C226 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-05-at-下午2.53.17.png?w=532 532w" sizes="(max-width: 532px) 100vw, 532px" data-recalc-dims="1"></p>
-<p>（博谈网记者苏智敏报道）多年来专注于行政诉讼业务，被誉为‌‌“中国行政诉讼第一人‌‌”的袁裕来律师，3月4日上午在微信朋友圈发讯称自己合法网购的书，被突然冲进办公室的公安局及文化局执法人员，说是非法出版物。</p>
-<p><strong>淘宝买的14本‌‌“禁书‌‌”</strong></p>
-<p>袁裕来律师于朋友圈上表示不满：‌‌“这些书是台湾出版的，我从淘宝网上的书店依法购买，网上书店都是有经营许可证的，书也是经过海关进来的，而且，单从书名来看，这几本内容也没有问题，也不是禁书。‌‌”</p>
-<p>从袁裕来律师上传到朋友圈里的被查扣书本照片中，可看到共有14本书：《拥有七个名字的女孩》、《新旧约圣经轻松读》、《谁说民主不亡国》、《没有名字的人》、《流水何曾洗是非》、《无敌——林肯不以任何人为敌人创造了连政敌都同心效力的团队》、《在资本主义带来浩劫时聆听马克思》、《影响世界的圣经100大事件》、《我想活得像个人》、《天堂》、《蔡英文绕不绕得过中华民国》、《夜——纳粹集中营回忆录》、《执法所思》、《隐动力》。</p>
-<p>据搜狐新闻弧度栏目的报导，宁波市江东区文化广电新闻出版局执法大队工作人员处证实有这个行动，称是公安部门要他们一同去调查袁裕来‌‌“涉嫌购买贮存非法出版物一案‌‌”。但现场被查扣的书是否真属于‌‌“非法出版物‌‌”，却暂无定论，文化局人员表示：‌‌“要送到市里进行专业的鉴定，怎么界定，之后会有鉴定结果出来。‌‌”</p>
-<p><strong>违法的程序</strong></p>
-<p>该篇报导中，袁裕来律师指出，来的五人皆身着便装，只有一位佩戴江东区文化广电新闻出版局工作牌，其他人员皆未出示工作证件。要求拆封包裹时，也无人出示相应执法依据。因执法程序不完善，他认为行政诉讼已无法避免。</p>
-<p>另据《自由亚洲电台》报导，所订的书籍包裹并非快递公司派寄，而是由执法人员直接带来。袁裕来认为这已严重侵犯其合法权利：‌‌“最严重的一个问题说明，我们这些书、包裹进来前就检查过了，通过高科技手段，这是违法的，这是公民的通信自由。我们宪法也有规定，除非你是为了国家安全或者刑事侦查，公安可以检查。当时他进来以后，文化局要开这个（包裹），我就禁止他开，因为这是很严重的问题，是公民最基本的权利，然后来的一个公安把门一关，就硬把它开了。‌‌”</p>
-<p><strong>整人的理由？</strong></p>
-<p>袁裕来律师遭强行查扣书籍一事，引来外界痛批。同为法律人的任星辉在个人微博指出，经他查询，这些‌‌“非法出版物‌‌”在国家图书馆藏有6本，北大图书馆有1本，浙大图书馆有3本，浙江图书馆有3本。任星辉批评，在律师手里是‌‌“非法出版物‌‌”，到图书馆就叫‌‌“合法出版物‌‌”，这根本是‌‌“找茬式联合执法‌‌”。</p>
-<p>段万金律师也认为，所谓的‌‌“非法出版物‌‌”只是整人的理由：‌‌“看来，袁裕来被关注很久了，苦于找不到理由搞他，最后居然找这么个不堪借口，猥琐之至！‌‌”</p>
-<p>杨学林律师则指出这是重大违宪事件：‌‌“十年前的2006年，一对夫妻在家观看黄碟被抓，成为轰动一时的违宪事件。十年后的2016年，公安和文化管理部门闯入袁裕来律师办公室，对他网购的台湾版书籍进行了查扣，又制造了一个新的违宪事件。十年了，某些公权力的守法意识没有任何进步，反而更加肆无忌惮地侵害公民权利，践踏宪法尊严，这真是值得我们警惕啊。‌‌”</p>
-<p>也网友认为太可怕，‌‌“郑村独角兽‌‌”直呼：‌‌“看完一身冷汗，半道被查也就是说我买任何东西都有可能被监控了！‌‌”</p>
-<p>袁裕来律师跟其他维权律师一样，被中国政府视为防范人物之一，今年年初就传出他因持大陆居民往来台湾通行证，欲赴台观选，却在宁波市出入境管理局办签注时被拒绝，而理由竟是‌‌“担心他与反华势力勾结‌‌”。</p>
-<p>从微博帐号被删、被限制出境，再到合法购书被查扣，也许袁裕来律师的心情可用当初他遭限制出境时，对外发表的感叹一样：‌‌“事情发生在自己身上了，才真切地感觉到这个国家已经多么荒唐。‌‌”</p>
-<p> </p>
-<p>– See more at: https://botanwang.com/articles/201603/%E8%AE%A9%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8E%AA%E6%89%8B%E4%B8%8D%E5%8F%8A%E7%9A%84%E2%80%9C%E9%9D%9E%E6%B3%95%E4%B9%A6%E7%B1%8D%E2%80%9D%E6%9F%A5%E6%89%A3%E8%A1%8C%E5%8A%A8.html#sthash.QW68JKDl.dpuf</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91-%E8%AE%A9%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8E%AA%E6%89%8B%E4%B8%8D%E5%8F%8A%E7%9A%84%E9%9D%9E%E6%B3%95%E4%B9%A6%E7%B1%8D%E6%9F%A5%E6%89%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E6%98%9F%E8%BE%89/?category=18271" rel="tag">任星辉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">打压维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5/?category=18271" rel="tag">袁裕来</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -845,7 +832,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E6%98%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -855,5 +842,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E6%98%9F
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

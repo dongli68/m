@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E9%81%AD%E5%88%A0%E7%9A%84%E9%A2%82%E4%B9%A0%E7%A5%9E%E6%9B%B2%EF%BC%9A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%EF%BC%8C%E5%A4%AA%E9%98%B3%E9%87%8D%E5%8D%87/" target="cdt-mirror">【CDTV】遭删的颂习神曲：东方又红，太阳重升</a>
+</h2>
+<p><p>习近平上台三年以来，网络上不断涌现“颂习”的红歌，如《习大大爱着彭麻麻》、《我是黄土地的儿子》、《平易近人》、《要嫁就嫁习大大》、《不知该怎么称呼你》、《全民偶像习大大》等。近日，网上又出现了一首新神曲《东方又红》。曲调与《东方红》，歌词有轻微变动：</p>
+<p>“东方又红，太阳重升，习近平继承了毛泽东。他为民族谋复兴，呼儿嘿哟，他是人民大福星。”</p>
+<p>歌曲MV主要展示习近平出访、阅兵、视察农村等情景。因为歌词过于肉麻，MV画质又略显粗糙，也有网友怀疑此神曲为民间“高级黑”所制作。</p>
+<p>截至本帖发布时，在百度和新浪微博上搜索《东方又红》已没有相关结果。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-09-at-%E4%B8%8A%E5%8D%8811.14.10.png?resize=550%2C363" alt="Screen Shot 2016-03-09 at 上午11.14.10" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-09-at-上午11.14.10.png?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-09-at-上午11.14.10.png?w=705 705w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>(北京时间3月10日凌晨3点截图)</span></p>
+<p>CDTV推荐神曲《东方又红》，如果您在墙内无法看到YouTube上的视频, <strong><span>请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0">点击这里</a></span></strong>使用BitTorrent Sync (Sync) 下载观看。</p>
+<p><a href="https://www.youtube.com/v/N_3fy8_0EM0?version=3">https://www.youtube.com/v/N_3fy8_0EM0?version=3</a></p>
+<p><a title="新红歌《东方又红》（The East is red again, English subtitle ）——专制最后一定是被笑垮的" href="http://www.youtube.com/watch?v=N_3fy8_0EM0" target="_blank">新红歌《东方又红》</a></p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E9%81%AD%E5%88%A0%E7%9A%84%E9%A2%82%E4%B9%A0%E7%A5%9E%E6%9B%B2%EF%BC%9A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%EF%BC%8C%E5%A4%AA%E9%98%B3%E9%87%8D%E5%8D%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%E3%80%8B/?category=18271" rel="tag">《东方又红》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E7%97%85%E5%85%BB%E6%88%90%E6%81%B6%E4%B9%A0/?category=18271" rel="tag">毛病养成恶习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E6%9B%B2/?category=18271" rel="tag">神曲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F-%E9%A2%82%E4%B9%A0%E4%BD%9C%E5%93%81%E3%80%8A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%E3%80%8B%E8%B9%BF/" target="cdt-mirror">自由亚洲 | “高级黑”？ 颂习作品《东方又红》蹿红被封</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-09-at-%E4%B8%8A%E5%8D%8810.56.38.png?resize=482%2C269" alt="Screen Shot 2016-03-09 at 上午10.56.38" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-09-at-上午10.56.38.png?resize=300%2C167 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-09-at-上午10.56.38.png?w=482 482w" sizes="(max-width: 482px) 100vw, 482px" data-recalc-dims="1"></p>
+<p>中国领导人习近平上台3年来，中国官方媒体所展示的对习近平的个人崇拜在国内及海外均引起广泛关注。特别是近一个月来，歌颂习近平的红歌层出不穷。近日，大陆网路上又出现由歌颂毛泽东的《东方红》改版的歌曲《东方又红》，在网络上迅速蹿红后，却被删除。有分析认为，如果党中央持续这种“个人崇拜”式的统治，中国民间必然会出现强烈反弹。</p>
+<p>在过去的一年里，中共宣传机器对习近平的个人崇拜宣传愈演愈烈，中国官方媒体宣传内容几乎全部变成习近平个人的宣传广告。近一月来，官方及民间更是密集推出了如《要嫁就嫁习大大》、《不知该怎么称呼你》、《全民偶像习大大》等歌颂习近平的红歌。</p>
+<p>而近日，网络上出现了一首特殊的颂习红歌《东方又红》。这首歌与歌颂毛泽东的著名歌曲《东方红》旋律完全一致，歌词仅作轻微改动，只是原来歌颂毛泽东部份的歌词，变成歌颂习近平，而“大救星”变成“大福星”。歌曲的第一句是“东方又红，太阳重升。习近平继承了毛泽东”。整首歌的MV背景，依然保留了《东方红》的合唱声，MV画面则主要展示习近平阅兵及视察农村的情景，片段部分取自中国中央电视台的节目。</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E9%81%AD%E5%88%A0%E7%9A%84%E9%A2%82%E4%B9%A0%E7%A5%9E%E6%9B%B2%EF%BC%9A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%EF%BC%8C%E5%A4%AA%E9%98%B3%E9%87%8D%E5%8D%87/">【CDTV】遭删的颂习神曲：东方又红，太阳重升</a></p></blockquote>
+<p>这首歌曲一经推出就在网络迅速蹿红，但却收获了几乎一边倒的差评。许多网民留言批评习近平上台之后大力赞扬给中国带来大灾难的毛泽东，并以“毛病养成恶习”的说法，将二人相提并论。也有网友估计，该《东方又红》的画面制作较粗疏，应是民间恶搞作品，认为“看完了有一种‘高级黑’的感觉。”</p>
+<p>异议人士查建国对此分析说，《东方又红》是“借毛尸还魂”，继续推动中央高层的个人崇拜：</p>
+<p>“在一个专制的社会里，有两个现象是不可避免的。一个是专制者会不断地集权以及树立自己的权威；另一种现象就是有很多人要不断的吹捧专制者，把这个作为上升或巩固自己的地位的手段。在中国也一贯有这样的传统，颂圣这样的情形。《东方又红》这首歌也代表了对当今领导的吹捧，及个人崇拜的风气，这种倾向和风气是和毛时代有区别的。这种追捧会让很多人都厌恶，让人想起过去苦难的时代。”</p>
+<p>不过，该歌曲蹿红后却立即遭到中国当局的封杀。香港时事评论员程翔接受媒体访问时分析，《东方又红》明眼人看起来一定会觉得有问题，有时候“下面的马屁精做得过分的时候，会为老板带来不便。”他又指，如果中共中央持续这种“个人崇拜”式的统治，民间必然会出现反弹。而上周日，党媒《无界新闻》出现要求习近平辞职的公开信就是一个好例子。</p>
+<p>中国的网络活跃人士侯帅告诉本台，在中国贪官富可敌国的国情形成后，很多中国人更加怀念毛泽东时代的相对公平，而此时习近平以打老虎的姿态现身，在“习粉”的欢呼中，“毛泽东第二”的形象越来越清晰。但与此同时，中国的老百姓也越来越认识到这种制度的邪恶。他说:</p>
+<p>“我觉得周永康、徐才厚他们都生于普通家庭，他们通过自己的努力考上大学，在他们那个年代，普通家庭上大学是很不容易的事情，一进入高层就变成坏蛋了。这说明什么？很努力的小伙子进了它这个体制就变坏了，说明制度才是老虎。”</p>
+<p>歌曲《东方红》曲调来自陕北黄土地民歌“芝麻油”，1943年被中共改编成为歌颂八路军的歌曲，1946年再改编成为歌颂毛泽东的神曲。上世纪中国文化大革命期间，由于中国的国歌作者被打倒，东方红一度取代国歌地位，在许多官方场合播放，固有所谓“第二国歌”之称，直到1978年中国改革开放之后才停止。因此东方红一曲，也被许多人视为毛泽东个人崇拜登峰造极的一个标志。</p>
+<p>（特约记者：忻霖；责编：石山/嘉华）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AB%98%E7%BA%A7%E9%BB%91%EF%BC%9F-%E9%A2%82%E4%B9%A0%E4%BD%9C%E5%93%81%E3%80%8A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%E3%80%8B%E8%B9%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%E3%80%8B/?category=18271" rel="tag">《东方又红》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E7%97%85%E5%85%BB%E6%88%90%E6%81%B6%E4%B9%A0/?category=18271" rel="tag">毛病养成恶习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E6%9B%B2/?category=18271" rel="tag">神曲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%93%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%83%8F%E5%93%AA%E6%9C%AC%E5%90%8D%E8%91%97%EF%BC%9F%E5%BF%98%E4%BA%86%E3%80%8A1984%E3%80%8B%E5%90%A7%EF%BC%81/" target="cdt-mirror">老鼠会｜当前的中国最像哪本名著？忘了《1984》吧！</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg" rel="attachment wp-att-431295"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg?resize=375%2C544" alt="201233144246804" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg?resize=207%2C300 207w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201233144246804.jpg?w=375 375w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
@@ -707,67 +748,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%9C%E5%85%89%EF%BC%9A%E8%AF%95%E8%AE%BA%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%98%AF%E9%9D%9E%E6%9B%B2%E7%9B%B4/" target="cdt-mirror">杜光：试论“任志强事件”的是非曲直</a>
-</h2>
-<p><p>著名企业家任志强不久前在微博里表达了不认同“媒体姓党”的说法，遭到了官方媒体的围剿，指斥詈骂，狂轰滥炸，杀伐之声，甚嚣尘上。任志强甚至因此而被销去微博账号，而且不许改名另设，被剥夺了在网络上发表意见的自由。这一场民主和专制的博弈，构成丙申新春在意识形态领域的一幅激烈而瑰丽的图景。</p>
-<p>2月19日，中共中央最高领导人在视察中央三家主要媒体时，提出党和政府主办的媒体必须姓党。任志强就这个概念发表了两条微博。提出质问：“人民政府啥时候改党政府了？花的是党费吗？”“别用纳税人的钱去办不为纳税人提供服务的事”。还说：“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”这些说法引起了一系列反应，官方媒体，群起而攻之；民间的有识之士，则针锋相对地进行反驳。其中是非曲直，颇堪玩味。</p>
-<p>（一）为了加强对媒体的领导，实现所谓的“唱响主旋律，传播正能量”，提出“媒体姓党”是可以理解的，但这个概念是否科学，理论上是否站得住，却值得分析探讨。</p>
-<p>关于“姓党”的说法，最早是八十年代高扬担任中央党校校长时提出来的“党校姓党”。后来的党校领导人有的就继承这个提法，加以发挥，近几年则更为强调。“媒体姓党”大概就是从“党校姓党”演化出来的。</p>
-<p>“党校姓党”的说法，尽管不十分科学，但党校毕竟是党组织的直属单位，担负着训练党员干部的任务，用这样一个生动的概念来加以概括，还有一定的合理性。媒体就不同了。</p>
-<p>从我国最早的媒体——报刊的发展过程来看，它来自两个源流：一是官方的《邸报》、《京报》、《塘报》等，以传达官方信息为务；一是随着西学东来而出现的民间报刊，最早多由来华传教的外国新教教士创办，报刊在传教的同时传播信息，开启民智。随后，国内的一些有识之士也创办报刊，成为推动维新运动的有力工具，遭到慈禧太后的镇压。民国前后，报刊复兴，蔚为大观，多数是民间自发创办的，即使少数官办的报刊，也多以传播社会信息和时代新知为主要内容。近现代的报刊既是社会进步的产物，也是推进社会进步的巨大动力。</p>
-<p>我在前面已经指出，我国近代的报刊是随着西学东渐而兴起的，而西方国家的报刊曾经作为反对神权王权的强大武器，在反封建的民主主义革命中发挥了重要的作用。以西方报刊为范本的中国报刊，当然也不能不带有反封建反专制的原始色彩。</p>
-<p>由此可见，不论是作为反映民间疾苦的舆论工具，还是作为沟通朝野官民的媒体，报刊（及其他形形色色的新闻实体）都天然地具有广泛而浓厚的社会性、民主性，即使是党组织办的党报党刊，也有责任反映人民大众的疾苦，传达他们的呼声。延安时期的《解放日报》提出报纸工作要“带着浓厚的群众性”，《新华日报》主张应“视报纸为人民的武器并交给人民使用”，中共中央1956年在批准《人民日报》改版报告的批语中指出：“我们党的各种报纸，都是人民群众的报纸”，“如果片面强调它们是党的机关报，反而容易在宣传上处于被动地位。”文革结束后不久，《人民日报》总编辑胡绩伟曾提出“党性和人民性的统一”，强调党性源于人民性，却受到胡乔木的严厉批评。其实，任何政党的党性，都应以人民性为基础，否则就会堕落成为贪官党、法西斯党。同样的道理，对于报刊等各种媒体，首先应该强调的是它们的人民性、社会性、民主性，而不是它们的党性；它们首先姓民、姓社，其次才姓党。强调“媒体姓党”，“反而容易在宣传上处于被动地位”。</p>
-<p>（二）强调媒体姓党，不符合于政党的利益，相反会损害党的利益。不论是从社会的角度，还是从历史的角度，提出媒体姓党的原则，都会给人们留下为党派的狭隘利益服务的印记，任何合理的解释都无济于事，这就必然大大削弱党在群众中的威信，助长顺风阿谀、心口不一的恶劣风气。再则，虽然当初提出的是“党和政府办的媒体姓党”，但过去思想潮流的趋向告诉我们，许多有一定限制性的口号一旦提出，往往会泛化成为普遍性的政策，这里既有无良文痞的推涛作浪，也有社会民众的心理走势。即使不是党和政府办的媒体，在主管单位（如群众组织、高等学校、研究机关等等）党组织的操纵下，也不敢不改姓党。这样一来，全国媒体一片红，新闻成为“党天下”，舆论一律，“顺帝之则”，也就听不到民间的不同声音了，这对执政党绝对是不利的。</p>
-<p>（三）任志强的微博，只是对“媒体姓党”提出一些不同看法，行使了作为一个党员和公民的权利，既没有违反党章，也没有违反法律。即使他说的话有些刺耳，也应该本着“有则改正，无则加勉”的精神，从中吸取有益的养料，最不济的是拒不接受，也不妨一笑置之，没有必要兴师动众，群起而攻之。目前出现的围剿任志强的局面，不仅证明不了“媒体姓党”的正确性，反而展现出文化专制主义的丑恶面目，进一步地败坏了党的威信。同时，也再一次地暴露出那些帮闲文痞的无耻嘴脸。他们在声讨任志强时所运用的文革逻辑和文革语言，在社会上唤起文革重来的恐怖气氛，增添社会公众的不稳定感。用近来媒体和网络上经常出现的“砸锅”的比喻来衡量，任志强不是砸锅者，而是补锅者，他那两条批评“媒体姓党“的微博不是砸锅之作，而是补锅之作，因为“媒体姓党”有如锅上的裂缝。倒是那些围剿任志强的文章作者，才是真正的砸锅者，至少是保护裂缝、拒绝补锅者。他们不断在党的脸上抹黑，却自以为是在维护党的领导，“在政治上和党中央保持一致”。</p>
-<p>（四）国家互联网信息办公室发言人姜军在2月28日发表谈话，根据全国人大常委会的有关决定和国务院的有关通知，责令新浪、腾讯等网站关闭任志强的微博账号。这位发言人在谈话中强调任志强发布“违法信息”，所以有关网站应“依法”关闭他的微博账号。但是，任志强的微博违反了什么法的哪一条？关闭他的微博账号是依的什么法的哪一条？发言人却说不出来。《刑法》、《民法》里都没有这样的规定。发言人所依据的全国人大常委会的决定，只是说如有构成犯罪的行为，应依照刑法有关规定追究刑事责任， 包括造谣诽谤、煽动颠覆国家政权、推翻社会主义制度及“发表、传布其他有害信息”等等，任志强的微博发表有害信息了吗？“构成犯罪”了吗？都没有。所以， 国信办加之于任志强的“发布违法信息”和“依法”关闭他的微博账号，都是无法可据的，这才是真正的违法行为。既违反宪法，也违反党章。国务院应该追查国信办渎职违法的责任。</p>
-<p>（五）在任志强和某些官办媒体的论争中，后者挾政治权力而俱来，有恃无恐，占尽强势，但他们的文章既不具理论说服力，又处于道德的下 风。而任志强却获得了许多知识分子的赞赏。他们写文章支持任志强，驳斥官报和官网上的那些文革式的大批判，占据了理论和道德的高地。在如此强烈的对比面 前，高层领导人应该作出明智的选择。我建议放弃“媒体姓党”的原则，还任志强以言论自由；同时，理直气壮地宣称媒体姓民、姓社，不但强调党报的人民性和社会性，而且允许民间自由办报，为社会开辟“百花齐放百家争鸣”的园地，使公民可以行使言论自由、出版自由的宪法权利。这样做的结果，不但可以结束“党媒姓党”的博弈，而且会走出危机四伏的政治窘境，开辟改革开放的新局面；同时，也将因此而赢得广大民众的普遍拥护，提高党的威望，增强党的领导的合法性，既有利于社会的发展，也有助于党的建设。不知当政者是否有迈出这一步的决心和勇气？</p>
-<p>2016年3月5日</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%9C%E5%85%89%EF%BC%9A%E8%AF%95%E8%AE%BA%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%98%AF%E9%9D%9E%E6%9B%B2%E7%9B%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/ngocn%E5%8E%9F%E5%88%9B-%E4%BD%A0%E4%BB%AC%E8%BF%87%E7%9A%84%E6%98%AF%E5%A5%B3%E7%94%9F%E8%8A%82-%E8%BF%98%E6%98%AF%E6%80%A7%E9%AA%9A%E6%89%B0%E8%8A%82%EF%BC%9F/" target="cdt-mirror">NGOCN原创 | 你们过的是女生节 还是性骚扰节？</a>
-</h2>
-<p><p>今天是传说中的女生节。纪念劳动妇女的三八妇女节没啥声音，在三月七日另设一个女生节，并且风靡各大高校，本来就是很诡异的事情。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6408AMEUBXN.jpg?resize=595%2C165" alt="6408AMEUBXN" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6408AMEUBXN.jpg?resize=300%2C83 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6408AMEUBXN.jpg?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
-<p>新媒体女性的李思磐解读这种现象的时候说道：女生节取代妇女节，实质上是“消费主义”在取代“女权主义”。“妇女”这一词因象征“年老色衰”而遭遇的污名化，不但体现了父权回潮，在男性视角下以性资本来衡量女性价值，更是消费主义对女性的分化——显然，商家谈“女生”或者“美女”更能促进消费。</p>
-<p>不过今天先不谈女生节VS妇女节之争。既然已经成为一种校园文化，真的要过女生节，能不能格调高一点？</p>
-<p>今早某高校发布的一条校园横幅汇总，简直low爆了地平线。不一竿子打沉所有“祝福横幅”，但超过百分之十都是这种水平，简直吓人。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640AUCM56YC.jpg?resize=639%2C390" alt="640AUCM56YC" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640AUCM56YC.jpg?resize=300%2C183 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640AUCM56YC.jpg?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640BC3FB9JY.jpg?resize=640%2C426" alt="640BC3FB9JY" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640BC3FB9JY.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640BC3FB9JY.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401LF5VR9L.jpg?resize=639%2C394" alt="6401LF5VR9L" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401LF5VR9L.jpg?resize=300%2C185 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401LF5VR9L.jpg?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401U4BT934.jpg?resize=639%2C361" alt="6401U4BT934" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401U4BT934.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6401U4BT934.jpg?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6405JU02NO1.jpg?resize=638%2C388" alt="6405JU02NO1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6405JU02NO1.jpg?resize=300%2C182 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6405JU02NO1.jpg?w=638 638w" sizes="(max-width: 638px) 100vw, 638px" data-recalc-dims="1"></p>
-<p>然而这所学校不是特例，主页君在朋友圈还看到好些出处不明的女生节低俗横幅：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640MEG2JTV9.jpg?resize=594%2C800" alt="640MEG2JTV9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640MEG2JTV9.jpg?resize=223%2C300 223w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640MEG2JTV9.jpg?w=594 594w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640Y9QVONVD.jpg?resize=600%2C338" alt="640Y9QVONVD" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640Y9QVONVD.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640Y9QVONVD.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640H599J3YR.jpg?resize=600%2C450" alt="640H599J3YR" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640H599J3YR.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640H599J3YR.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640N34VB3WO.jpg?resize=600%2C450" alt="640N34VB3WO" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640N34VB3WO.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640N34VB3WO.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>很多网友看到这些充满性暗（明）示横幅的第一反应就是被震惊了</p>
-<p><strong>俗人超</strong>：我在朋友圈看到广州的大学生发的一些“女生节”标语，我简直惊呆了！这种毫不尊重女性，简直堪称性骚扰的标语，怎么挂出来的！</p>
-<p><strong>任其然</strong>：现在是越来越明白了，这个什么女生节就是个男人的节日，这个节日里男人有任意定义女性的权力，有用尽拙劣的方式献殷勤并必须被理解为爱心和奉献的权力。说到底，这就是彻底的不要脸节，3-7根本就是个强奸的象征好吗。</p>
-<p><strong>小鸟</strong>：“你们是我们的！” “你们胸大腰细活好不粘人！”  这就是“女生节”的真实面目，尽情地意淫和消费年轻女性。</p>
-<p>然后，在三个月后的毕业季，就业市场上照旧歧视女性；在他们回到家里时，照旧把母亲、妻子看成家务用品；在他们三十、四十、五十、六十岁时，懂得欣赏的永远只有十五到二十五岁的“女生”；女人，就是性，他们愿意为你的胸大腰细活好不粘人买单，却不会为女性基本的人权说句话。这就是他们的“女生节”，玫瑰送上，性福我有。</p>
-<p>去你的女生节！！！</p>
-<p>在校园里悬挂这种横幅的人，请问是不知道<strong>性骚扰</strong>这三个字怎么写吗？</p>
-<p>性骚扰（英语：sexual harassment）指以<strong>带性暗示的言语或动作</strong>针对被骚扰对象，强迫受害者配合，这会<strong>引起对方的不悦感</strong>，被骚扰对象不限于性别，包括男性和女性。</p>
-<p>是的！不仅乱摸乱蹭是性骚扰！说性暗示笑话、发性暗示图片、挂性暗示横幅，只要是不受接受者欢迎的，你就是性骚扰！</p>
-<p>这和去年吵得纷纷扬扬的华工大泼水节简直异曲同工。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640L0O5USZF.jpg?resize=600%2C415" alt="640L0O5USZF" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640L0O5USZF.jpg?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640L0O5USZF.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>成百的男生围着女生楼要攻占“公主楼”，男生攻占女生宿舍全过程。四百多土木男生将人文、外语等系的几十个女生围住，还高喊“围起来，围起来”，“碾过去，碾过去”，游行中高喊的口号：“文人文人，土木女人”，“学妹学妹，跪求一睡”。还有好多“学者”“校友”出来争论，这不是性骚扰，是青春回忆，是毕业狂欢。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/0.gif?resize=287%2C215" alt="0" data-recalc-dims="1"></p>
-<p>女生节究竟为谁而设？促销的商家？想送染色体的男生（呸）？还是那些被裹挟其中的女生？如果是为女生而设，为什么我们在这些横幅中只能看到男人的欲望，男人的索求？</p>
-<p>而女生在这个所谓自己的节日，她们究竟要的是什么（我想大部分人都不想要某些人的祖传染色体），却没有被看见？</p>
-<p>讲真，作为一个过期少女，主页君一点都不想在公众场所看到自己被意淫。如果非得过女生节，非要在大街上挂海报横幅，我情愿它是这样的：</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1.gif?resize=450%2C541" alt="1" data-recalc-dims="1"><p>我头发虽然乱，但是美爆了。</p></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2.gif?resize=450%2C541" alt="2" data-recalc-dims="1"><p>谁的小肚腩最好看，我的小肚腩最好看。</p></div>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3.gif?resize=450%2C541" alt="3" data-recalc-dims="1"><p>姑娘！自信让你更美！</p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/ngocn%E5%8E%9F%E5%88%9B-%E4%BD%A0%E4%BB%AC%E8%BF%87%E7%9A%84%E6%98%AF%E5%A5%B3%E7%94%9F%E8%8A%82-%E8%BF%98%E6%98%AF%E6%80%A7%E9%AA%9A%E6%89%B0%E8%8A%82%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E7%94%9F%E8%8A%82/?category=18271" rel="tag">女生节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E9%AA%9A%E6%89%B0/?category=18271" rel="tag">性骚扰</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -779,7 +759,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -789,5 +769,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

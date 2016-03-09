@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BD%91%E6%98%93-%E5%B9%B4%E6%94%B624%E4%B8%87%E4%BA%BF%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E9%92%B1%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%EF%BC%9F/" target="cdt-mirror">网易 | 年收24万亿，中国政府的钱从哪里来？</a>
+</h2>
+<p><p><strong>中国数字时代编辑注：</strong>截至本文发布时，<a href="http://data.163.com/16/0308/06/BHK8ICFD00014MTN.html">网易原文</a>已被删除。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2016030806490398b8a.png?resize=600%2C1288" alt="2016030806490398b8a" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2016030806490398b8a.png?resize=477%2C1024 477w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2016030806490398b8a.png?w=732 732w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>本文系网易原生内容中心《数读》栏目出品，每周二、四准时更新。<br>
+网易数读2016两会特别策划</p>
+<p>两会期间，有官员表示简单提高个人所得税起征点是不公平，然而对于中国人一生要缴纳的税款来说，工资税那点钱根本不值一提。近20年来，个税占总税收的比例仅在6%左右，最高不过7.3%，而中国财政收入的绝大部分是由看不见的税收和各种行政收费构成。</p>
+<p>自1994年税制改革以来，与GDP的飞速增长相对应的是，中国政府的财政收入也以前所未有的速度在膨胀，且增长速度远超GDP增速。1994年至2014年，中国财政收入从5218亿增至14037亿，年均增长17.9%，而同期GDP名义年均增长率为13.7%。历次减税措施都并未对政府收入产生实质影响，2004年农业税试点取消之前，其在税收中仅仅占比2%，2011年个税起征点提至3500元后，次年税收虽减少230亿，但2013年很快又比上年增长了710亿。</p>
+<p>更何况按照国际通行的政府收入口径，中国政府的收入远不止公共财政预算。根据IMF定义，政府收入应包括强制征收的税收、社保缴款和其他所有增加政府净值的收入，按此标准，2014年财政决算表中的中国政府总收入达到24.3万亿人民币，占GDP比例达38.2%，而官方口径在扣除土地出让金和住房公积金部分后，声称中国宏观税负仅有30.1%，甚至称其远低于发达国家。</p>
+<p>然而根据OECD的数据显示，2014年美国、英国、日本的政府收入占GDP比例分别为26%、32.6%和30.3%，中国38.2%的比例已经接近欧洲福利国家40%的水平。而在具体收入来源中，与发达国家个人所得税占主体收入来源的情况相比，中国则完全相反，7成以上税收来自以增值税为代表的间接税，此税种最大的特征便是可通过隐藏在价格里最终转嫁给消费者，而消费者并不知道自己无形中承担了比工资税高出数十倍的税收负担。</p>
+<p>在中国，一件进口化妆品的价格中要包括高达50%的关税、30%的消费税和17%的增值税。无处不在的增值税甚至在治病救人的药品中也不例外，对药物免征或少征增值税是国际通行做法，而中国对药品统一按照税率最高档征收17%的增值税，进口药品还要加收3-6%的关税。即便在发明增值税且极度依赖间接税的法国，其对商品和服务加收的间接税占税收比例也不超过40%，而在中国，这一比例为74%。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?resize=600%2C940" alt="201603080650201f3c3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?resize=768%2C1203 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?resize=654%2C1024 654w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?w=906 906w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>更加具有中国特色的是，除去土地出让金的卖地收入，光是列入财政部预算范围的各项政府性基金收入就高达1.36万亿。原本与公共服务相关的支出应统一由公共预算承担，但中国却对路灯道路一类的市政服务都要额外加收行政经费。2014年通过水电附加费征收的各项政府性基金总额就不下1200亿，然而要知道，在全国至少500项政府性基金中，只有40余项被纳入预算管理，有名目可查，其他被各地部门截留的行政收费去向根本无从知晓。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BD%91%E6%98%93-%E5%B9%B4%E6%94%B624%E4%B8%87%E4%BA%BF%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E9%92%B1%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E7%BA%B3%E7%A8%8E%E4%BA%BA/?category=18271" rel="tag">人人都是纳税人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%9E%E5%80%BC%E7%A8%8E/?category=18271" rel="tag">增值税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E7%A8%8E/?category=18271" rel="tag">消费税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93/?category=18271" rel="tag">网易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%9B%E6%8D%90%E6%9D%82%E7%A8%8E/?category=18271" rel="tag">苛捐杂税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9B%E5%8F%A3%E7%A8%8E/?category=18271" rel="tag">进口税</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E9%81%AD%E5%88%A0%E7%9A%84%E9%A2%82%E4%B9%A0%E7%A5%9E%E6%9B%B2%EF%BC%9A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%EF%BC%8C%E5%A4%AA%E9%98%B3%E9%87%8D%E5%8D%87/" target="cdt-mirror">【CDTV】遭删的颂习神曲：东方又红，太阳重升</a>
 </h2>
 <p><p>习近平上台三年以来，网络上不断涌现“颂习”的红歌，如《习大大爱着彭麻麻》、《我是黄土地的儿子》、《平易近人》、《要嫁就嫁习大大》、《不知该怎么称呼你》、《全民偶像习大大》等。近日，网上又出现了一首新神曲《东方又红》。曲调与《东方红》，歌词有轻微变动：</p>
@@ -717,37 +738,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/av%E5%A5%B3%E4%BC%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%B4%A7%E7%BB%B7-%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E5%99%A4%E8%8B%A5%E5%AF%92%E8%9D%89/" target="cdt-mirror">纽约时报 | 意识形态紧绷 两会代表委员噤若寒蝉</a>
-</h2>
-<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?resize=600%2C400" alt="习近平 两会" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/05CHINAVIEWS-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>周四，中国国家主席习近平参加中国人民政治协商会议开幕会，出现在人民大会堂的大屏幕上。</p></div>
-<p>对于世界各地的很多人来说，中国政治可能有些捉摸不透，甚至暗藏危险。在中国人看来也没多少不同。</p>
-<p>随着“两会”——中国人民政治协商会议和全国人民代表大会——在北京召开，金融杂志网站财新网<a title="Link: http://topics.caixin.com/2016-03-03/100915459.html" href="http://topics.caixin.com/2016-03-03/100915459.html" target="_blank" rel="nofollow">援引一名代表的话称</a>，实际上，很多中国人感到“迷茫”。</p>
-<p>问题在于：政府最近高调压制言论自由，这次针对的不是不知名的权利倡导人士，而是一名与政界关系良好但敢于批评领导的富有商人。</p>
-<p>中国人民政治协商会议代表蒋洪表示，“某些事件”对会上的讨论带来阴影。于周四召开年度会议的政协是一个政府顾问机构。</p>
-<p>周六，中国立法机构全国人民代表大会召开会议。大约5000名代表来到北京参与一些重要问题的商议——虽然这个过程并不公开。代表中有许多是在政治、经济或社会层面有影响力的人物。</p>
-<p>在财新网周四发布的文章中，上海财经大学教授蒋洪表示，“两会本身就是议论国家大事，提出建设性的意见，而不是讨论什么鸡毛蒜皮的小事。”</p>
-<p>他说，“只不过，受某些事件的影响，现在公众也都有点迷茫，希望少讲些话，气氛是这样。”但他没有说明某些事件指的是什么。</p>
-<p>今年两会召开时，紧绷的意识形态氛围令人不敢发言。</p>
-<p>周日，负责监管网络的国家互联网信息办公室关闭了地产大亨任志强的微博账号，其微博拥有大约3800万粉丝。在此之前，任志强批评了政府对新闻媒体加强控制的政策——该政策集中体现在中国国家主席习近平所说的“媒体姓党”上。</p>
-<p>中国的新闻媒体由中共的委员会直接或间接控制。</p>
-<p>任志强在微博写道，“人民政府啥时候改党政府了？花的是党费吗？”</p>
-<p>任志强还称，“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”他在最后使用了哭泣的表情符号。</p>
-<p>权力强大的反腐机构中央纪律检查委员会旗下的报纸<a href="http://csr.mos.gov.cn/content/2016-02/29/content_28043.htm" target="_blank" rel="nofollow">本周发文</a>，暗示了蒋洪所提到的冷清氛围的背后原因。该文章称，人们应该可以向掌权者说真话，共产党能够并且应该容许这种做法。</p>
-<p>文章题目《千人之诺诺，不如一士之谔谔》借用了2000年前司马迁所著《史记》中的话。</p>
-<p>文章赞扬了其他朝代的官员向当权者说真话的故事。</p>
-<p>文章称，“不怕有人说错话，就怕有话都不说。”</p>
-<p>该报告诉读者，共产党坚持“实事求是”的传统。</p>
-<p>蒋洪接受财新网采访时表示，这跟他个人无关。 “我也无所求，也不想当官，”他说。“也发不了财，完全是一个草根，没什么顾虑，该怎么说就怎么说。”</p>
-<p>但中国政治活动方式比较含蓄，他似乎暗示了任志强的处境带来的问题，以及媒体控制是否有可能扼杀政策讨论和思想交流的问题。</p>
-<p>“我现在唯一担心的是，”他说。“两会代表和委员的观点是否能够充分通过媒体展现出来。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%B4%A7%E7%BB%B7-%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E5%99%A4%E8%8B%A5%E5%AF%92%E8%9D%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -759,7 +749,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -769,5 +759,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

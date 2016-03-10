@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431404/" target="cdt-mirror">德国之声Bobs最新动态</a>
+</h2>
+<p><p>一个由各国知名互联网专家组成的国际评审团从今天开始将评估2016年Bobs新媒体大赛的推荐作品。Bobs是德国之声的网络行动派大奖。来自全球14个国家的评委充满激情，将选出此次大赛的最终候选作品。今年是德国之声DW第12次奖励那些努力促进言论自由和公民社会建设的个人。德国之声还将颁布言论自由奖。</p>
+<p>在过去四周时间里，来自全世界的网友通过<a href="http://thebobs.com/">thebobs.com</a>大赛官网为14个语种的4大跨语种奖项和公众奖发来了推荐作品。一个独立评委会将评估网友发来的超过2300个推荐作品，并确定最后的候选作品名单。德国之声将于3月31日公布这一名单。</p>
+<p>今年，14位评委中有7位是第一次加入Bobs新媒体大赛。来自喀麦隆的新评委奥沃诺（Julie Owono）表示：“Bobs—是最具专业水准的互联网大赛之一——给了互联网行动派一个声音。这是很严肃的一件事情，不是消遣。今年，我很愿意看到与女性话题有关的内容，看到女性是如何通过网络平台推进性别平等的。”</p>
+<p>大赛中文组评委胡泳表示，Bobs最吸引人的就是“对言论自由执着的追求和通过新高科技促进社会变革的想法。” 胡泳是新闻和传播学教授，也是中国的著名博客作家。他本人也曾获得过Bobs新媒体大赛的提名。对于他来说，Bobs的独到之处在于“它的全球视野。能够顾及到所有数字化表达的新形式。面对真实生活中的真实挑战。”</p>
+<p>今年5月2日，也就是在国际新闻自由日的前一天，国际评委会将在柏林公布此次第12届Bobs新媒体大赛的获奖者名单。国际评委会选出的跨语种大奖获奖者和言论自由奖的获得者将于6月14日受邀参加在德国之声全球媒体论坛（Deutsche Welle Global Media Forum）上举行的Bobs新媒体大赛颁奖仪式。沙特阿拉伯博主<a href="http://www.dw.com/zh/%E5%8F%97%E9%9E%AD%E5%88%91%E6%B2%99%E7%89%B9%E4%BD%9C%E5%AE%B6%E7%8B%B1%E4%B8%AD%E5%8F%91%E5%A3%B0/a-18347450">巴达维</a>是2015年首个言论自由奖的得主。</p>
+<p><strong>大赛特设：</strong></p>
+<p><strong>“社会变革奖” (Social Change)</strong><br>
+奖励一个利用数字化手段推动社会变革的项目，比如说教育、推动平等、健康或环境领域的项目。</p>
+<p><strong>“科技为善奖” (Tech for Good)</strong><br>
+网络文化的相关话题包括数据隐私保护和信息自由，以及积极推广自由创作的内容。所以，这一奖项所关注的重点为网络上的个人隐私、数据保护和安全。（例如通过技术讲解、提供软件或App等解决方案）此外，其它例如反腐败或反审查的软件工具也能够成为获奖对象。</p>
+<p><strong>“艺术文化奖” (Arts and Culture)</strong><br>
+奖励的是一个来自艺术和文化界的项目。该项目能够出色利用数字化的通讯方式，用艺术的手段诠释社会话题。</p>
+<p><strong>“公民新闻奖” (Citizen Journalism)</strong><br>
+该奖用于奖励那些勇敢的公民记者以及有启蒙作用、促成公众反对力量的创新项目。尤其是那些充分利用互联网的力量促进公民参与的网站。</p>
+<p>Bos 中文官网：<a href="https://thebobs.com/chinese/">https://thebobs.com/chinese/</a><br>
+脸书：<a href="https://facebook.com/dw.thebobs">facebook.com/dw.thebobs</a><br>
+推特：<a href="https://twitter.com/dw_thebobs">twitter.com/dw_thebobs </a>– #thebobs16<br>
+德国之声全球媒体论坛官网：<a href="http://dw.com/gmf">dw.com/gmf</a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431404/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bobs/?category=18271" rel="tag">bobs</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 22分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E4%B8%BA%E5%9F%BA%E7%A1%80/" target="cdt-mirror">自由亚洲｜张德江：中国国家安全法以中国特色为基础</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg" rel="attachment wp-att-431387"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?resize=585%2C293" alt="图片：中国《国家安全法》宣传材料（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?w=622 622w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>图片：中国《国家安全法》宣传材料（Public Domain）</p></div>
@@ -702,39 +730,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-7-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 3-7</a>
-</h2>
-<p><p>@39slb：（一） 西北某地一学生，志存高远，矢志从医。首次高考考入泸州医学院，到校后发现不理想，学校名气太小，果断返乡复读，一年后成功考入四川医科大学，到校后傻眼了，发现还是原来的泸州医学院。于是再回家又复读一年，更加刻苦努力。第三年如愿考入西南医科大学。到校后据说人已经疯了……</p>
-<p>@39slb：（二） 重庆大学五年内换了三个校长，某学生本科读的重大，硕士读的浙大，博士读的北大，结果毕业证上统统盖的林建华的章。找工作的时候，面试官：“同学，造假也要专业一点嘛，你就不能多刻几个章？”</p>
-<p>@shifeike：墙内是一天比一天的保守、怯懦，最后滑向绝对的自我审查与彻头彻尾的不关心。墙外是一天比一天的愤怒、单调，最后变成夹杂着鄙夷与不屑看到回应的自说自话。墙内和墙外，都是单向度的刻板印象，积累的是不忿、仇恨和互相瞧不上。</p>
-<p>@o_karen：鎖推推友：三十歲時，大部分人都卡在初級職位上。現有的工作升不上去，又無法承擔轉行的時間成本，更來不及再去讀書。父母開始多病；自己收入有限，也沒有存款。更大的痛苦，是看到身邊沒有背景但努力又聰明的人已經小有成就，有背景的人已經開始過上貴族生活了。</p>
-<p>@mozhixu：理解大陆房市，一，是拍卖场，且政府从中抽头一半以上，二，权力等级导致的资源集中，吸引人口流动，为房价支撑因素，经济机会也有一定作用，三，投资不畅，通胀阴影，导致周期性投机，前两者决定了一二线房价只涨不跌，后一点是周期性投机和快速上涨的原因。和党国一样，房价只可能崩溃，不会调整。</p>
-<p>@StarKnight：近两周好几位国内的朋友找我咨询房价的问题，分别来自深圳、上海、苏州和广州。我莫名得很，和他们解释：自己在国内没有，在日本也没有不动产购置经验。结果对方说没关系，我们就是想了解一下，日本泡沫经济时代的房价推高的过程，以及，后来怎么跌的，跌了多少。</p>
-<p>@Shuihuise：关于《编辑部故事》为什么要禁不要乱猜，累死也猜不着，贵组织G点总是莫名其妙，曾经做过一主旋律电视剧画册，后来原本52集要改成49集，原因是某某某的电视剧才50集，某的剧怎么能超呢？于是费尽周折再删；画册里主角衣服颜色要换，因为它的颜色不能比谁谁的衣服颜色亮……我跟听笑话一样。</p>
-<p>@hnjhj：三表朝的当红肥皂剧，庆丰朝被取缔，难怪世人皆膜蛤啊。</p>
-<p>@wuzuolai：知情人说，现在宫中人们没时间抓经济，只是抓一下稳定，不翻船，余下的时间要摆平十九大，物色确定二十大继承人。一切的一，一的一切，都是选太子。太子是谁的，天下最终就是谁的。想想他们，也是够苦的，不相信选票，只相信眼力，毛的眼力，邓的眼力，江的眼力，谁的更独，更毒？但是，马用？</p>
-<p>@mozhixu：微博总体开放，新浪倾向大V，打造超级秀场，对普通用户则实施恐怖手段，任意删帖封号，随着党国铲除大V，，新浪微博迅速垃圾化。微信有见于此，采取非开放策略，尺度较宽，气氛相对宽松，但缺乏话语竞争，形成一个个封闭圈子，谣言和垃圾贴横行。没有言论自由，什么新平台都会搞成怪胎。</p>
-<p>@chuhan：朋友圈被假星巴克优惠券刷屏。和多数政治谣言/猜想一样，不是一个“傻逼”就能敷衍或者解释，有新闻联播，就一定会产生政治民谣。微信搭建了一个封闭的缺乏公共领域的分享平台，尺度是比新闻联播要大许多，但终究是集权架构，主旨自然是方便管控，实际上也为骗局提供不易被戳穿的条件。</p>
-<p>@freedomandlaw：现在很多人说文革重来的可能性很大，我不这么看，除非你把现在的状态叫文革。市场化改革推动实利主义盛行，深刻地瓦解了旧有意识形态的宣传，官方的宣传根本无法激起人们的热情，宣传仅仅一份工，获得的社会反馈主要是批评，宣传的越多背离其目的就越远。但是权力的恣意依然是超级严重和超级有害的。</p>
-<p>@ZhangDajun：2016年1月中央财政收入下降0.7%，因此才有大规模印钞放水的政策。中国金融政策的核心目标是保证中央政府的财力，从而保证中央对全局和地方的控制。只要中央财政收入下降，印钞机必然启动，下降越多，印钞机越疯狂。经俺多年观察，这一规律从未失效过。</p>
-<p>@ZhangDajun：六大发电集团今年前两个月用煤量比去年下降20%。用在除朝鲜外的任何国家，都可以说经济已经崩溃。可是，开会的人都还在假装从一个胜利走向下一个胜利。这就是赵国，这就是有赵家特色的社会主义。</p>
-<p>@hnjhj：赵国自打我有记忆开始就一直在改革。从中央到地方，改完这个改那个，改了一遍又一遍，感觉从来就没找到过谱。然而改来改去你以为总得有点进展，尼玛结果每年都是最困难的一年。</p>
-<p>@manatsu_riko：你国男性对女性的认知普遍还只停留在“能操”和“能生孩子”这两点上，不具备这两点，任凭一个女人如何优秀出色，她都是“不完整”的。部分37横幅通过那些卑劣恶心的字眼传达出这样的“赞美”——“女人能勾起性欲，赞美女人！”“你们是最棒的儿媳妇，赞美你们！”</p>
-<p>@影评老大爷暗夜骑士：在中国电影高度市场化的十年时间里，奥斯卡最佳影片只引进过三部，《艺术家》、《国王的演讲》、《贫民窟的百万富翁》。《为奴十二年》有人买了，却没了下文。《聚焦》估计连买都没人买。</p>
-<p>@choicky：堂弟全国各地做展览。最近在河南承租一个停业的乐园做展览。园方在展览的第一天就列了个清单，说观光游客损坏了乐园的若干设备，要我堂弟赔十几万，不给这笔钱就扣押价值二十万元的展览用品。为什么体制外的人都涌向一线城市，就是因为在经济不发达的城市从事商业活动风险很高高啊。</p>
-<p>@王朔观点：国人除了能为自己带来实际利益的东西，对其他精神层面的事物都缺乏兴趣。在你国，马斯洛的需求层次论彻底失效了。生理安全情感尊重自我实现的需求并非呈递进关系。我们其实一直在“生理”和“安全”的层面打转，除了关心自己的欲望以外，从不思考任何对世俗利益看去无用的东西，即使它“看上去很美”。</p>
-<p>@lapetiteile：当年初中有一次周五下午不上课，我没跟我爸妈说，然后跑去网吧，跟朋友在网吧玩得正欢，突然QQ弹出来好友请求：♀莪媞妳夿夿♂。我想这尼玛是哪个逼货同学，我就点了确认，然后对方发来消息：逮到你娃娃了，在哪里上网，老实说！</p>
-<p>@ichimaru0223：那推让我想起了父亲那代人，出门总能遇到个说得上话的熟人，聊个天吹个牛。吃蟹借个醋，包馄饨送一碗，周末打个乒乓球，买个大件还互相征求意见，还老给孩子定娃娃亲。只可惜，到了我们这代，各家搬家买房，社区分崩离析。原本人情浓厚的街区到头来只剩下孤独的老人，破旧的公房和操着普通话的租客。</p>
-<p>@耳帝：饭馆邻桌，一小学生兴奋地跟他妈说学校给发了个奖，他妈问班里几个人得奖，男孩说二十几个，他妈说那一多半都有奖你高兴个屁，男孩顿时有种诧异的失落，想了半天，说谁谁都没得。多熟悉的场景，从今天起，他开始失去用理念构建生活的能力，此后喜悦要因比别人好而建立，愁苦则要以别人比自己差来缓解。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cc36QnhUEAA3NCM.jpg?resize=450%2C800" alt="Cc36QnhUEAA3NCM" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-7-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -746,7 +741,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -756,5 +751,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

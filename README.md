@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,198 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E4%B8%BA%E5%9F%BA%E7%A1%80/" target="cdt-mirror">自由亚洲｜张德江：中国国家安全法以中国特色为基础</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg" rel="attachment wp-att-431387"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?resize=585%2C293" alt="图片：中国《国家安全法》宣传材料（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?w=622 622w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>图片：中国《国家安全法》宣传材料（Public Domain）</p></div>
+<p>中国全国人大委员长张德江在人大工作报告中说，中国新的一系列国家安全法规是“为走中国特色的国家安全道路奠定了法律基础”。有外媒认为，他的讲话旨在驳斥国际社会对中国国家安全法一些条文的担忧和批评。</p>
+<p>路透社3月9号发自北京的报道说，中国全国人大委员长张德江在他当天所做的人大工作报告中指出，中国近来通过的一系列包括《反恐法》在内的新国家安全法表明，中国正在以具有“典型中国特色的立场”来对待国家安全问题。张德江的讲话是要反驳前些时候美国、加拿大、德国、日本、以及欧盟的驻华大使向中国政府发出的联署致函，表达对中国已经通过的《反恐法》、或正在审议的《网络安全法》草案、以及《境外非政府组织管理法》草案中的一些条文表达的担忧。</p>
+<p>中国官方新华社的报道说，张德江在讲话中说，中国新的国家安全法“从中国国情和实际出发，科学界定国家安全的内涵，明确规定了国家安全工作的指导思想、领导体制、基本原则、主要任务和保障措施等，为加快构建国家安全体系、走中国特色国家安全道路夯实了法律基础”。他说，在当前国际国内反恐怖形势严峻复杂的背景下，加强反恐怖主义工作尤为重要。</p>
+<p>张德江还说，“我们对反恐法的改进，将在依法防范和惩治恐怖主义活动、维护国家和公众安全、保护生命和财产安全方面都具有重要意义。”</p>
+<p>美国，加拿大，德国和日本大使于今年1月27日致函中国国务委员和公安部部长郭声琨，对中国的新《反恐法》、以及正在审议的《网络安全法》草案和《管理外国非政府组织 (NGO)法》草案表达了关注和忧虑。欧盟驻中国大使汉斯-迪特马尔(Hans Dietmar Schweisgut，中文名“史伟”)，1月28日也向中国国务委员和公安部长郭声琨发出了表达担忧的信函。</p>
+<p>美国迈阿密大学国际关系学系主任德雷伊尔教授就此表示，中国当局一贯不理会外国政府或团体对其安全法律条文或高压维稳措施的批评或担忧，但这对中国不利：</p>
+<p>“我想，一些外国政府和公司对中国的国家安全法律中某些条文表达担忧是应该的，但我也相信，中国政府可能不会因为外国政府的担忧和批评而改变他们的法律。中国这些法律可能造成的后果之一就是使那些在中国运作的外国公司最终认识到，他们最好还是从中国大陆撤离到类似越南、印度等其他新兴发展中国家去运作，而这些其他国家当然也很高兴吸引外国公司到自己的国家里去投资和运营。这样的后果对目前正在遭受经济大幅放缓和疲软的中国来说，并不是一件好事。因此，虽然中国政府有权继续不理睬外国政府和公司所表达的关注，但这样下去最终可能对中国自己造成的后果也不会太好。”</p>
+<p>美、加、德、日四国大使的联署信函还表示，中国的《网络安全法》和《反恐法》使中国政府拥有的庞大打压权力被法律化，强化当局对媒体和互联网言论的广泛审查权力和对某些高科技的过分控制。批评者还指出，中国《反恐法》对恐怖主义的定义过于广泛，很可能使一些非暴力表达不同政见的行为也被定义为“恐怖主义”。</p>
+<p>中国全国人大去年12月通过的《反恐法》中一些规定模糊不清，有可能在投资者中造成“不确定的氛围”。欧盟驻华大使在信函中也使用了相同的语句批评中国这些法律可能造成的不良影响。同时，两份信函都表达了他们愿意与中国当局就上述法律制定实施规则时进行沟通的意愿。</p>
+<p>美国中文刊物《北京之春》荣誉主编胡平此前就中国的《反恐法》表示：</p>
+<p>“我想中国政府本来的目的就是要加强对整个社会的控制，包括加强对在华外国企业和科技公司的控制。中国的反恐本来就带有这种‘醉翁之意不在酒’的特点，而习近平上台以来，对中国社会各方面的控制显然是加强了很多。”</p>
+<p>路透社的报道说，中国政府一直指控新疆的伊斯兰激进分子是该地区频繁发生的暴力袭击事件的罪魁祸首。但国际人权组织和流亡海外的维吾尔人士却说，维吾尔人对中国政府严密控制他们的宗教和文化生活的愤怒才是新疆动荡频发的真正原因。但中国政府否认在新疆实行高压政策，并表示，中国面临着来自从新疆前往中东参加伊斯兰国恐怖组织的维吾尔人的威胁。</p>
+<p>路透社的报道说，张德江透露，中国今年将对《网络安全法》和《外国非政府组织管理法》进行审议，但没有说明上述法律何时能够通过。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E4%B8%BA%E5%9F%BA%E7%A1%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%B3%95/?category=18271" rel="tag">反恐法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A7%94%E5%91%98%E4%BC%9A/?category=18271" rel="tag">国家安全委员会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84/?category=18271" rel="tag">在华投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%AB%98%E5%B1%82%E5%88%86%E6%AD%A7%E4%B8%A5%E9%87%8D%E3%80%81%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%83%B8%E7%AB%A0-2/" target="cdt-mirror">【敏感词库】“习近平胸章” 、“高层分歧严重”等 2016-3-9</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9D%8E%E5%B0%8F%E4%B9%96_%E5%90%9B%E4%B8%B4%E5%85%9A%E5%A4%A9%E4%B8%8B.jpg" rel="attachment wp-att-431383"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9D%8E%E5%B0%8F%E4%B9%96_%E5%90%9B%E4%B8%B4%E5%85%9A%E5%A4%A9%E4%B8%8B.jpg?resize=475%2C475" alt="李小乖_君临党天下" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?w=768 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=50%2C50 50w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><em>图片作者：李小乖</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年3月9日］</p>
+<p><strong>领导人＋胸章</strong><br><strong>习＋胸章</strong></p>
+<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/">枫行天下｜秦枫：西藏代表团戴习近平像章</a></p></blockquote>
+<p><strong>高层＋分歧严重</strong>（相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E5%86%85%E6%96%97/">高层内斗</a>）<br><strong>政治局 + 财产</strong></p>
+<p><strong>蔡咏梅</strong>（《<a href="http://chinadigitaltimes.net/chinese/2015/12/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E5%87%BA%E4%B9%A6%E6%8C%87%E5%91%A8%E6%81%A9%E6%9D%A5%E6%88%96%E6%98%AF%E5%90%8C%E6%80%A7%E6%81%8B/">周恩来的秘密情感世界</a>》作者；该书指周恩来或是同性恋）<br><strong>周恩来＋秘密情感<br>
+周恩来＋同性（恋）<br>
+周恩来＋gay</strong></p>
+<p><strong>习头</strong></p>
+<p><strong>劝进表</strong></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%8C%B4%E5%B9%B4%E6%98%A5%E6%99%9A%E7%9A%84%E8%AF%8F%E7%A4%BA/">【麻辣总局】猴年春晚的诏示</a></p></blockquote>
+<p><strong>Weapon</strong>（中文：武器）</p>
+<p><strong>习五一</strong><br><strong>苏绍智</strong>（<a href="http://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E7%BB%8D%E6%99%BA/">相关专题</a>）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%A2%86%E5%AF%BC%E4%BA%BA%EF%BC%8B%E8%83%B8%E7%AB%A0.png?resize=475%2C186" alt="领导人＋胸章" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/领导人＋胸章.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/领导人＋胸章.png?resize=768%2C300 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/领导人＋胸章.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0-%E8%83%B8%E7%AB%A0.png" rel="attachment wp-att-431381"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0-%E8%83%B8%E7%AB%A0.png?resize=475%2C207" alt="习 胸章" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习-胸章.png?resize=300%2C131 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习-胸章.png?resize=768%2C335 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习-胸章.png?resize=1024%2C447 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习-胸章.png?w=2340 2340w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%AB%98%E5%B1%82%EF%BC%8B%E5%88%86%E6%AD%A7%E4%B8%A5%E9%87%8D.png?resize=475%2C183" alt="高层＋分歧严重" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/高层＋分歧严重.png?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/高层＋分歧严重.png?resize=768%2C296 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/高层＋分歧严重.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%94%BF%E6%B2%BB%E5%B1%80-%E8%B4%A2%E4%BA%A7.png?resize=475%2C185" alt="政治局 + 财产" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/政治局-财产.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/政治局-财产.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/政治局-财产.png?w=773 773w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%94%A1%E5%92%8F%E6%A2%85.png?resize=475%2C289" alt="蔡咏梅" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/蔡咏梅.png?resize=300%2C183 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/蔡咏梅.png?resize=768%2C468 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/蔡咏梅.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%91%A8%E6%81%A9%E6%9D%A5-%E7%A7%98%E5%AF%86%E6%83%85%E6%84%9F.png" rel="attachment wp-att-431380"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%91%A8%E6%81%A9%E6%9D%A5-%E7%A7%98%E5%AF%86%E6%83%85%E6%84%9F.png?resize=475%2C200" alt="周恩来 秘密情感" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-秘密情感.png?resize=768%2C324 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-秘密情感.png?resize=1024%2C432 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-秘密情感.png?w=2346 2346w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%91%A8%E6%81%A9%E6%9D%A5-%E5%90%8C%E6%80%A7.png" rel="attachment wp-att-431378"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%91%A8%E6%81%A9%E6%9D%A5-%E5%90%8C%E6%80%A7.png?resize=475%2C205" alt="周恩来 同性" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-同性.png?resize=300%2C129 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-同性.png?resize=768%2C331 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-同性.png?resize=1024%2C441 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-同性.png?w=2336 2336w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%91%A8%E6%81%A9%E6%9D%A5-gay.png" rel="attachment wp-att-431379"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%91%A8%E6%81%A9%E6%9D%A5-gay.png?resize=475%2C204" alt="周恩来 gay" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-gay.png?resize=300%2C129 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-gay.png?resize=768%2C329 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-gay.png?resize=1024%2C439 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/周恩来-gay.png?w=2342 2342w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E5%A4%B4.png?resize=475%2C211" alt="习头" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习头.png?resize=300%2C133 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习头.png?resize=768%2C341 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习头.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%8A%9D%E8%BF%9B%E8%A1%A8.png?resize=475%2C288" alt="劝进表" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/劝进表.png?resize=300%2C182 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/劝进表.png?resize=768%2C466 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/劝进表.png?w=773 773w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Weapon.png?resize=475%2C185" alt="Weapon" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Weapon.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Weapon.png?resize=768%2C298 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Weapon.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E4%BA%94%E4%B8%80.png?resize=475%2C299" alt="习五一" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习五一.png?resize=300%2C189 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习五一.png?resize=768%2C484 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习五一.png?w=770 770w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%8B%8F%E7%BB%8D%E6%99%BA-1.png?resize=475%2C184" alt="苏绍智" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/苏绍智-1.png?resize=300%2C116 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/苏绍智-1.png?resize=768%2C298 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/苏绍智-1.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%AB%98%E5%B1%82%E5%88%86%E6%AD%A7%E4%B8%A5%E9%87%8D%E3%80%81%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%83%B8%E7%AB%A0-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9D%E8%BF%9B%E8%A1%A8/?category=18271" rel="tag">劝进表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80/?category=18271" rel="tag">政治局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E7%BB%8D%E6%99%BA/?category=18271" rel="tag">苏绍智</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E5%86%85%E6%96%97/?category=18271" rel="tag">高层内斗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A7%9A%E9%81%A5%EF%BC%9A%E6%98%A5%E8%8D%AF%E5%94%A4%E4%B8%8D%E9%86%92%E7%B1%BB%E4%BA%BA%E5%AD%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E9%98%B3%E7%97%BF/" target="cdt-mirror">姚遥：春药唤不醒类人孩的精神阳痿</a>
+</h2>
+<p><p><strong>对生活在封闭空间中的学生而言，他们并非不懂对错，不懂好坏，不懂是非，而是不需要为了坚守边界而去损害利益，逢迎畸形的规则能获得更大的好处，即便会伤害到无辜的人。</strong></p>
+<p>由于无极限地触及人性的丑恶，《黄山市田家炳实验中学高三七班，3名男生给女同学下春药》的事情火爆网络。</p>
+<p>高中男生给女生下春药之外，猥琐的动机在于女同学疑似女同性恋，男同学公然要看女同学吃了所谓的春药之后出丑。当事人报告了此事之后，犯事的男同学用下毒威胁当事人，同时威胁证人不得作证。当地警方对此事以协调结案，学校对犯事男生进行“严肃处理”，也就是记过处分。按照一般情况来推断，高中学校做出的处分一段时间后就宣布撤销，然后不了了之。即便这个处分不撤销，犯事男生也并没有受到任何实质的惩罚。目前为止，除了其中一名参与犯事的男生已进入南航招飞的复试阶段，但校方公开以身体原因为由拒绝该生以外，这一场惊天的荒唐闹剧几乎没有为受害者展示过半点实质的正义。</p>
+<p>面对这一场闹剧，同班同学在微信群中表态支持下药者，学校群中学生也是一片谴责受害者的声音，甚至说出“（居然说出去）都不替学校考虑”的话语。果不其然，在各种压力下，反而是受害者沉默、退却、转学了事。</p>
+<p>学校学生们同仇敌忾的气势，莫名地让人想起2015年年末时，作家贾葭批判厦门大学围墙，结果被厦大学子抱团群殴的一幕。</p>
+<p>真是学生们连对错不知道了？并不尽然。犯事的男生说出“大人都讲这是犯罪的”这句话，并不代表当事人真是法盲。在现有法律体系下，“大人”的判断并不更对，恶意下春药但暂时还没有出现严重而直接的后果时，法律缺乏清晰的框架规范这种行为。即便是警方从严处理，也难以定罪，最多对当事人处以行政拘留，处罚和危害完全不成正比。</p>
+<p>学生们确实不确定此事是否违法，但能明确地知道是非。他们貌似大胆地下药，张扬地期待下药后的后果。可他们一旦发现需要面对被害女生揭发这件事情的时候，立即色厉内荏地采用了威胁恐吓掩盖内心的慌张。如此的心虚，这些男生自然知道下药的事情是错的，而且可能会出现较严重的后果。同样，同班学生和校友在围观中热切表示支持男生谴责受害女生，但没有人公开表示这个行为是对的。</p>
+<p>当事男生明确知道下春药这事是错的，而且还恐惧遭受严厉的处罚，不惜威胁受害人和证人之后，只是因现行法律无力惩罚这样的行为而幸免。在这样的情况下，无论是讨论直男癌、女权、对同性恋的歧视或者校园欺凌的法律空白，都不足以面对让人悲凉的现实。这一群正在法定成年人边缘也有文化的青年，会公然支持一个明显错误的行为，而不是相反。</p>
+<p>社会呼唤对校园欺凌的严惩，只能满足人们在事后对正义的期待，尚未触及导致恶性事件的根源，也无力抚平受害者的心灵。即便法律填补了空白，真正严厉惩处了下药的男生，惩处的力度不一定超出男生原本对于严重后果的判断。完善了法律，也不会让他们更明白这样行为究竟错在哪里，他们内心深处的想法是法律无法解决的空洞，“那个女的不懂做人”，“搞得那么大，对谁都不好”。</p>
+<p>在校园内的这样一个小社会之中，学生口中所谓的做人，是每个学生要认清自己的阶层和地位，一部分人比另外一部分人更加平等，强势阶层欺凌弱势阶层是天然正当，而弱势阶层对强势阶层的反抗是对小社会的反动。</p>
+<p>在此，可以基于校园经验对此事做一个假设，受害者不仅家庭背景一般，成绩也并非特别优秀。但凡受害者具备其中一点优势，其他学生们不会主动去招惹，学校也会在出事时加倍地保护。相反，其中一名下药的男生报考南航飞行员，这证明他的文化成绩可能一般，身体素质相当优越，拥有在校园内成为一个霸主的潜质。</p>
+<p>学校作为小社会中的最高权力机关，关注学生的安全和秩序，更在乎权贵子弟以及可以获得荣誉和利益的优质学生。学生们则在这样的大规则之下衍生出自己的阶级社会与生存哲学，培养出天生的势利。荷尔蒙熊熊燃烧的一群学子，不能正常地进行爱恋实践，被压迫在升学的压力锅中高度焦虑，对常态生活的渴望被挤压变形，甚至无法理解春药这样一个简单的迷信，最终以下春药的形式将恶念与性欲畸形地释放出来。这样怪异的释放，出发点是为了好玩，因为不涉及更多的恶念而没有触碰到小社会中的边界，最终成为校园规则不排斥的合理行为。</p>
+<p>生活在这个坏的规则下，学生们并不关注是否存在更好的规则，可以公平地保护所有人免受侵害，他们更清楚只会有特定的一小群人才会成为受害者。相反，如果有人挑战和破坏校园内现有的平衡，反倒有可能让更多人社会阶层出现变化，利益相对受损。相比起来，后者更加不能让多数人容忍。</p>
+<p>对生活在封闭空间中的学生而言，他们并非不懂对错，不懂好坏，不懂是非，而是不需要为了坚守边界而去损害利益，逢迎畸形的规则能获得更大的好处，即便会伤害到无辜的人。在这个校园法统治的边界以内，罪人不以为罪，反叛者备受煎熬，代表了一般性道德判断的陪审团，不惜排斥受害者与正义，自然地支持保护既定规则与利益。最终，小社会中的权力话语也果不其然地以预期中的方式回应了这次短暂的争议，受害者出局，加害者回归。</p>
+<p>这样状态下的学生，已在成年人的门槛上，却一如余世存先生所言的“类人孩”，不尊重事实，不关爱权利，不能负责任的人。对这群人而言，只要有另外一种极端假设出现，警方和学校严厉地惩罚了下春药的学生，热情呵护受害者，此时学生口中“不会做人”的对象一定是新一轮规则中被惩罚的对象。</p>
+<p>不难想象，同样的一群精神上存在缺陷的人，在高中阶段追随伤害他人的强者，在大学里变成了无力正常恋爱、打横幅公然性骚扰女学生的衣冠禽兽。即便日后走上社会，他们也依然是混沌中茫然不知所措的“类人孩”，萎靡的精神世界始终无法直立行走，只能靠不断地吸取各种腥臭的鸡汤，以适应规则、追逐利益作为人生的真谛。</p>
+<p>传统社会中发明了成人礼，在严谨的议程中，提醒男女青年告别幼稚，告别依赖，成为一个有独立担当的成年人。如今，成人礼不见了，成年人也不知去向，只有遍地的类人孩，在苦苦的挣扎中陶醉着。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A7%9A%E9%81%A5%EF%BC%9A%E6%98%A5%E8%8D%AF%E5%94%A4%E4%B8%8D%E9%86%92%E7%B1%BB%E4%BA%BA%E5%AD%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E9%98%B3%E7%97%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%8D%AF/?category=18271" rel="tag">春药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C/?category=18271" rel="tag">校园欺凌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">社会公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B1%BB%E4%BA%BA%E5%AD%A9/?category=18271" rel="tag">类人孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%BC%BA%E9%99%B7/?category=18271" rel="tag">精神缺陷</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8B%AC%E5%AE%B6%E8%A7%A3%E7%A0%81%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E4%B8%BA%E4%BD%95%E7%A6%BB%E4%B8%8D%E5%BC%80%E5%B0%8F%E7%BB%84%E9%95%BF/" target="cdt-mirror">端传媒 | 独家解码：中国政治为何离不开“小组长”？</a>
+</h2>
+<p><p><strong>“领导小组”，是中国大陆极具特色的政治组织，它隶属党务系统，却决定政务国是，难觅行踪，却举足轻重。</strong></p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/629ee72a90ea483a90d0b4187fbe987d.jpg?resize=600%2C400" alt="2016年3月1日,北京天安门广场附近一家店铺售卖印有国家主席习近平和与其他中国领导人的纪念品。摄：Andy Wong/AP" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/629ee72a90ea483a90d0b4187fbe987d.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/629ee72a90ea483a90d0b4187fbe987d.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/629ee72a90ea483a90d0b4187fbe987d.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/629ee72a90ea483a90d0b4187fbe987d.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2016年3月1日,北京天安门广场附近一家店铺售卖印有国家主席习近平和与其他中国领导人的纪念品。摄：Andy Wong/AP</p></div>
+<p>一年一度的全国“两会”照例登场，当几千位人大代表、政协委员从全国各地赶来开会时，摆在他们面前的，往往是执政党精心酝酿过的报告与计划。</p>
+<p>当然，代表们自己那些引人注目的提案，也会成为这半个月舆论场的焦点，但却不是中南海最关心的事情。比起明星秀场的“两会”，海内外的中国通们更能从中国共产党自己的开会中看出端倪。</p>
+<p>2016年头两个月，中共中央总书记习近平，主持了四场重量级会议，足以体现其“总书记”的权威。</p>
+<blockquote><p>1月7日，他主持召开政治局常委会，听取全国人大常委会、国务院、全国政协、最高人民法院、最高人民检察院党组工作汇报和中央书记处工作报告。</p></blockquote>
+<p>1月11日和26日，他分别主持召开了“中央全面深化改革领导小组”第二十次会议，以及“中央财经领导小组”第十二次会议。</p>
+<p>2月23日，他又主持召开了“深改领导小组”的第二十一次会议。</p>
+<blockquote><p>其中的“领导小组”，是中国大陆极具特色的政治组织，它隶属党务系统，却决定政务国是，难觅行踪，却举足轻重。</p></blockquote>
+<p>诸多小组，牵连着一系列政治举措，改变着现在，更影响着未来。</p>
+<p><strong>一、习近平的新装：从“总书记”到“小组长”</strong></p>
+<p>听取各国家机关党组的汇报，是习近平彰显“总书记”在党内领导作用的标志。</p>
+<p>因为担任国务院、人大、政协党组及中央书记处负责人的，正是李克强、张德江、俞正声和刘云山这四位常委——常委向总书记做汇报，使过去政治局常委“集体领导”、“各管一摊”的模式悄然发生着变化。</p>
+<p>上述会议中，“汇报”只是昙花一现，“小组”才是新常态。</p>
+<p>自2013年起，习近平在身兼党的总书记、国家主席、中央军委主席的同时，还兼任着六个领导小组的组长和中央国家安全委员会主席，其中有四个都是新设立的。而其他政治局常委，都在他担任组长的小组中，成为副手或成员，领导与被领导关系也在小组中确立。</p>
+<p>这些名目繁多的“小组”，成为习近平的新装——看不见摸不着，却决定着“总书记”领导力的强弱。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2a3d995385604a5ba863664363294031.png?resize=600%2C400" alt="习近平时代中共体制／端传媒设计部 阿草" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2a3d995385604a5ba863664363294031.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2a3d995385604a5ba863664363294031.png?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2a3d995385604a5ba863664363294031.png?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2a3d995385604a5ba863664363294031.png?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>习近平时代中共体制／端传媒设计部 阿草</p></div>
+<p>人事关系的变动只是一方面。比起前任，习近平担任小组长的行动要高调得多。除小组每次开会都要占据《新闻联播》头条外，官方媒体还常常为小组的架构进行深度解读，并强调小组决策高效、推动改革的正面效果。</p>
+<p>官方公开宣扬小组的“决策权”，被海外媒体视为“小组治国”的讯号。这种原本非常态的临时组织，成为顶层决策的日常机构，势必引发人们对中国政治体制运行方式的猜想。</p>
+<p>实际上，“小组”并非习近平任内的首创，而是有着悠久的政治传统，几乎伴随着整个中共革命与建政的历史。在以往的研究者眼中，“小组”仅关乎行政运转的效率或模式。</p>
+<blockquote><p>实际在中共历史上，“小组”制度，完全依循着中共政治的逻辑生长、演进，蕴藏着中共政治文化的密码。</p></blockquote>
+<p><strong>二、毛泽东的传统：中共从“列宁政党”走向“内廷政治”</strong></p>
+<p>开会，一直都是各国共产党决策的最重要形式。直至今天，“小组”也是为开会而生，各小组的公开露面，都是通过一次次会议传递给公众。开会因其机动、灵活、快速，成为临时决策的理想方式。</p>
+<p>现代政治中的会议，通常都是决策机关日常的一部分。但对于共产主义国家和共产党来说，会议本身就是决策机关。因各种“会”而衍生出的中央委员会、政治局常务委员会、部长会议等等党务和政务机关，都成为共产党和整个国家权力的核心。这一制度为苏联所实行之后，逐渐成为各左翼政党的组织模式。在中国，“以俄为师”的国民党和共产党都采用了同样的组织方式。</p>
+<p>最为典型的委员会制度，原本是欧洲现代政治的一种民主化的运行方式，它突出公开、共同、协商的决策，以多数决为原则，同样通过开会体现出来。20世纪初，俄国布尔什维克党在执政后借鉴了这一制度。在此期间，中央委员会时常会因决策分歧而公开辩论，并举行表决。比如，在一战中苏俄是否与德国签订苛刻条约的问题上，即使是最高领导人列宁，也会因领导层多数人反对而无法通过自己的提议。</p>
+<p>列宁并不满意这种“低效”的决策。他自己首先成了这一制度的破坏者——当他的提议得不到通过时，他就会不停地重新开会表决，并在私下挨个说服其他同志，直到最终通过。而在列宁死后，斯大林更是将这种传统推向了反面。他常常会在开会前与自己的亲信沟通，并分别收买派系之外的人。当一切都安排好之后，公开的会议便成为一边倒打击反对派的政治表演。</p>
+<blockquote><p>当“开小会”取代了“开大会”的决策功能，权力也从公开走向秘密。甚至，在斯大林与毛泽东处于权力巅峰的阶段，两党都长达十三年不开全国党代会，“制度自信”可见一斑。</p></blockquote>
+<p>其实，中共在成立之初，只是共产国际的一个支部，受苏共资助，由苏共领导，其组织和决策也都根据苏共的指令执行，是典型的“列宁式政党”。它自然也全盘复制了“开会决策”的制度：一方面，它在成立时模仿苏共的委员会制，并以同乡、同校的小知识分子为主体，实行协商的决策方式；另一方面，它在苏共控制下又有极严密的组织纪律。因此，有共产国际和苏共这样强大的外部力量，非常态的秘密决策很难在早期中共党内出现。</p>
+<p>然而，事情正在起变化。</p>
+<p>1927年国民党“清党”之后，国共关系破裂，中共成为国统区的非法组织，之后便开始了武装战争，军事也成为中共的第一要务。在此特殊状态下，一系列非常态的临时决策机构建立起来，如战争中的“前敌委员会”、地下党活动的“特殊委员会”，以及在长征初期的“最高三人团”。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a6470bca0a99414591cf657f008b1db9.png?resize=600%2C222" alt="1930年代中共体制／端传媒设计部 阿草" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a6470bca0a99414591cf657f008b1db9.png?resize=300%2C111 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a6470bca0a99414591cf657f008b1db9.png?resize=768%2C284 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a6470bca0a99414591cf657f008b1db9.png?resize=1024%2C379 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/a6470bca0a99414591cf657f008b1db9.png?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>1930年代中共体制／端传媒设计部 阿草</p></div>
+<blockquote><p>“最高三人团”是最像“小组”的决策机构，在共产国际的支持下，成为实际权力中心，由博古、李德、周恩来组成。而当时原本存在的中央政治局和中央军委则被架空。</p></blockquote>
+<p>遵义会议之后，老“三人团”因为军事失利受到批判。就在此时，毛泽东提议成立新的“三人团”以统一指挥军事，他则成为新“三人团”的核心。由此，毛借助这个曾将他挤出决策层的临时机构，又重新取得了最高指挥权。</p>
+<blockquote><p>毛泽东的升起，为中共这个列宁政党带来了更多中国传统政治的游戏规则，创造了属于中共自己的新传统。</p></blockquote>
+<p>中国古代皇权社会，有作为的专制君主始终为集中权力而费尽心思。汉武帝时，原本常态化的官僚体系“三公九卿”制度逐渐弱化，取而代之的是皇宫的侍从队伍——“内廷”。内廷的“尚书”，即皇帝身边的秘书，逐渐成为实际的“宰相”，至隋唐“三省六部”正式将“尚书”公开化、常态化。</p>
+<p>然而对皇帝来说，公开的秘书便不再是信得过的秘书。明朝废宰相后，原本作为咨议机构的“内阁”，又成为实际决策者。最后，皇帝连咨议的谋士也信不过了，直接把权力搬进了自己的卧室。清代的“南书房”、“军机处”等宫廷近侍机构，演变为皇帝秘密决策的中枢。</p>
+<p>而近侍机构参与、影响甚至直接充当决策者，是专制政治的独特逻辑。</p>
+<p>在延安时代，毛泽东将中央秘书处提高到空前地位，并让自己的秘书领导，使其由一个负责发报、记录的小团队上升为掌管党和军队情报、肃反的中枢组织。日后从中央秘书处分离出来的中央社会部，更成为延安整风期间权力最大的党务机构，对党员和干部握有生杀大权。</p>
+<blockquote><p>1949年后“小组”的出现，是毛泽东的一大发明，它让中共从“列宁政党”走向“内廷政治”。</p></blockquote>
+<p>毛泽东以其特有的政治权谋，在列宁主义政党与中国皇权政治之间找到了契合点，同时也大幅拉低了中共组织原则的底线，使“小组”成为中共迥异于苏联和其他共产主义国家的独特机制。</p>
+<p><strong>三、毛泽东首创“小组治国”：“决定权在党中央”</strong></p>
+<p>小组姓“党”，是毛泽东为“小组”体制定下的基调。</p>
+<p>如果说1949年前，毛泽东关心的是党内，那么1949年后，他关心的则是“党国”。在中共执政之初，“政治协商”依旧是名义上的决策方式，非中共人士也在国家机关中数量众多。共产党的干部如何管理政权，并确保中共对国家权力的垄断，成为关键问题。</p>
+<p>为此，毛泽东的思路是“分管干部”。1953年11月，中共中央发出《关于加强干部管理工作的决定》，建立军队、财经、工业、文教、农林、交通等若干“工作部”，进行“分口管理”。这种“先管人、再管事”的做法很快奏效。最终，中央将干部分为六个大“口”，并由中共高层领导人分工负责。</p>
+<p>这样一来，某个国家机关中的党员干部，在党内就有了对应的领导部门，他们在参加党内会议时，就要汇报自己的工作，并接收党的指示。党务系统对政务系统通过干部开会形成了一种间接控制。</p>
+<blockquote><p>然而，毛泽东的思路从不仅限于解决党政关系，他更关心的是自己与周恩来在分享权力上的冲突。“分口管理”使得周恩来的总理权限被毛泽东所倚重的高岗、邓小平等人分割。</p></blockquote>
+<p>在当时的计划体制下，国家计划委员会独立于政务院之外，掌握经济财政大权，担任计委主席的高岗也成为“计划口”的总负责，政务院基本不能对经济作出决策。不幸的是，“东北王”高岗错将毛泽东与周恩来之间微妙的博弈看成了敌对关系，最终导致自己出局。</p>
+<p>这场意外，使得1953年的这次“分口管理”也并未持续很久，但成为了“小组”的雏形。</p>
+<p>1958年6月，中共中央发出《关于成立财经、政法、外事、科学、文教各小组的通知》。这被视为“小组”首次出现在最高决策层。《通知》中强调：</p>
+<blockquote><p>“这些小组是党中央的，直隶中央政治局和书记处，向他们直接作报告。大政方针在政治局，具体部署在书记处。只有一个政治设计院，没有两个政治设计院。大政方针和具体部署，都是一元化，党政不分，具体执行和细节决策属政府机构及其党组。对大政方针和具体部署，政府机构及其党组有建议之权，但决定权在党中央。”</p></blockquote>
+<p>在今天看来，无论是“一元化”还是“党政不分”，都是官方避之不及的过时语汇。但1958年，“反右运动”和“大跃进”接续发生。《通知》所言“只有一个政治设计院”，正是否定“右派”章伯钧所提的“政协、人大、民主党派、人民团体是四个政治设计院”。这不仅是批判章伯钧，更是表明中共在政治上的绝对领导。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/99d7a114df654af5859b9a1a73addd37.png?resize=600%2C333" alt="1958年中共体制／端传媒设计部 阿草" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/99d7a114df654af5859b9a1a73addd37.png?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/99d7a114df654af5859b9a1a73addd37.png?resize=768%2C427 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/99d7a114df654af5859b9a1a73addd37.png?resize=1024%2C569 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/99d7a114df654af5859b9a1a73addd37.png?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>1958年中共体制／端传媒设计部 阿草</p></div>
+<p>然而，在大跃进的背景下，这份通知还有更多的政治考量。</p>
+<p>毛泽东对大跃进的决心，早在1956年就凸显出来。毛泽东曾在1955年底召开各地方党委书记会议，批判“右倾保守”思想，之后又首次提出了“多快好省”。《人民日报》则在1956年元旦发表题为《为全面提早完成和超额完成五年计划而奋斗》的社论。各党委书记们也被毛泽东广泛动员起来。</p>
+<p>而周恩来领导的国务院则试图给毛泽东的热情降温。1956年的经济计划由国务院负责制定，周恩来采取了“压一压”的方针，之后又提出了“反冒进”的口号，在计划的落实上取消了诸多不切实际的指标。这样，中共中央与国务院在决策上的冲突通过毛周的一次分歧显现出来。</p>
+<blockquote><p>尽管周恩来从未与最高领袖公开对抗，仅仅是就实际问题进行纠偏与修补，但对权力敏感的毛泽东仍对此十分不满，决定成立中共中央各小组，意在分割国务院的权力，实现他1953年未能实现的目标。</p></blockquote>
+<p>《通知》由周恩来起草，内容原本只是成立各小组，但毛泽东阅后又亲自增加了以上那段话，尤其强调“这些小组是党中央的……政府机构及其党组有建议之权，但决定权在党中央”。</p>
+<p>不过，与习近平不同，毛泽东并不是一个爱当小组长的人。原因在于，他自延安时代之后，就已经将中共中央主席凌驾于政治局之上，成为拥有“最终决定权”的领袖，各小组长在党内会议上向他汇报工作，使其完全能够直接影响决策，并且绕过国务院的行政体制。</p>
+<p>小组成立的影响巨大。此后，无论是国民经济的五年计划，还是年度的财政计划，国务院及其部委都成为领导小组的配角，由决策者下降为执行者。更有趣的是，在陈云担任组长的中央财经领导小组中，身为国务院总理的周恩来竟和各部部长一样，仅仅担任组员。</p>
+<p>此外，中共的政治运动也与“小组”联系紧密。在肃反运动期间，曾出现“中央十人小组”，由公安、司法、监察、文化等各部门抽调干部组成，是决策和协调整个运动的核心。而著名的“中央文革小组”，不仅成为推动“文化大革命”的主力，还在“文革”初期一度取代政治局，控制国家决策。</p>
+<blockquote><p>“小组”这一毛泽东亲手发扬的制度，在中共建政前三十年逐步吞噬正常的国家体制，最终走向极端化。但是，“小组”却并没有随着极端年代的结束而消失，反而走向了更复杂的形态。</p></blockquote>
+<p><strong>四、改革年代的“小组”博弈</strong></p>
+<p>1978年后，毛泽东死前指定的接班人华国锋逐渐失去最高权力，邓小平成为中国的实际最高决策者。中共改革派领袖胡耀邦与赵紫阳，则是邓小平推动改革的一线主政者。</p>
+<p>一方面，邓小平依靠“文革”中被打倒的老干部群体，成功地清理了借“文革”崛起的干部，在1982年中共十二大召开时，选举的中央委员只有四分之一来自华国锋时代的十一届中央委员会。</p>
+<p>另一方面，老干部本身也成为邓小平需要解决的问题。1980年，邓小平发表《党和国家领导制度的改革》的讲话，主要涉及四个方面：领导人不应过分集权、老干部不宜过多兼职、党政分开、培养接班人。</p>
+<p>对此，邓小平再次运用了“小组”的能量，进行人事替换。首先是直指集党政军三权于一身的华国锋，此时他的总理职务已交给赵紫阳，一年后又将党主席和军委主席的职务交给了胡耀邦和邓小平，党政军的最高权力实现分离。</p>
+<p>在赵紫阳被提携的同时，“小组长”也成为他的重要兼职。1979年，国务院曾设立财经委员会，由中共元老陈云任主任。而这一机构仅仅存在一年就被废除，取而代之的是“中央财经工作领导小组”，由当时的国务院副总理赵紫阳任组长，实际上全面接管了经济大权。在赵紫阳任总理和总书记后，他都一直担任财经小组组长，此后最高领导人担任此职务亦成为惯例。</p>
+<blockquote><p>邓小平提倡的“党政分开”，与毛泽东对“小组政治”设立的初衷完全对立。</p></blockquote>
+<p>因此，耐人寻味的现象发生了：在当时的“胡赵体制”（1981-1987）下，党的总书记胡耀邦不担任任何小组职务，总理赵紫阳担任财经小组组长，国家主席李先念担任外事小组组长，人大委员长彭真担任政法小组组长。</p>
+<blockquote><p>当时，党的“小组”领导几乎都在政府体系中，原本“以党代政”的小组实际变成辅助政府决策的协调机构。</p></blockquote>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c76baf769cd469fbab5f8c6be453c20.png?resize=600%2C283" alt="1980年代中共体制／端传媒设计部 阿草 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c76baf769cd469fbab5f8c6be453c20.png?resize=300%2C142 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c76baf769cd469fbab5f8c6be453c20.png?resize=768%2C363 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c76baf769cd469fbab5f8c6be453c20.png?resize=1024%2C484 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7c76baf769cd469fbab5f8c6be453c20.png?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>1980年代中共体制／端传媒设计部 阿草</p></div>
+<p>作为忠实的改革者，赵紫阳从邓小平的“党政分开”理念中找到了机会。在他就任中共总书记后，限制党务系统权力的大规模政治改革开始推行，而“小组”便是首要目标。</p>
+<p>1987年中共十三大之后，许多“小组”或被撤销，或转换功能，大幅缩小其活动空间。当年12月，中共中央书记处发布《党中央直属机构改革方案》，撤消了中央保密委员会、中央财经领导小组的办公室，并把已升格的中央政法委员会又降为政法小组，且规定其不发文、不设办事机构、不讨论处理具体案件，仅仅具有协调功能。</p>
+<p>按赵紫阳的思路，领导小组被撤销，则等于其把决策权还给了政府；撤销小组的办公室，则使其失去了部署具体工作、干预决策的权力。而最典型的中央政法委，一直以来实行公检法合署办公，被党务系统统一领导，同时干预逮捕、起诉和审判，成为制造八十年代“严打”的中枢机构。明确限制其权责，是走向司法独立的关键一步。</p>
+<p>最初，邓小平对于政治改革的推动十分积极。但1989年之后随着赵紫阳的下台，邓小平的态度也发生了变化。“党政分开”的提法逐渐淡出了舆论，“加强党的建设”成为新目标，大量的“领导小组”被恢复、增设，有些甚至走向常态化。</p>
+<p>1993年，中共十四届二中全会发布《关于党政机构改革的方案》，明确规定了12个中央“领导小组”。此外，早在1990年，中央政法小组又重新升格为中央政法委员会，之后政法委的权限大幅扩张，在中共十六大之后，政法委书记进入政治局常委，借助维稳工作权力空前。</p>
+<p>“小组”还在扩充，中共政治的生态却发生了变化。</p>
+<p>在“加强党的建设”的口号下，在江泽民时代，中共的“小组”从宏观延伸到了微观，因事而立的领导小组逐渐增多，如中央精神文明建设指导委员会（1997）、中央国家安全领导小组（2000）、中央人才工作协调小组（2003）。</p>
+<p>在2002年的中共十六大上，胡锦涛成为中共历史上首次平稳交接的继任者。然而，随着邓的离世，党内的派系矛盾也愈加明显。之后的历次党代会，中央委员会、政治局乃至政治局常委的人事安排，都不再由元老决定，而是不同派系暗中博弈的结果。此时的“小组”，因各常委分别牵头、独立负责，实际上造成了党内决策的掣肘。因此，在胡锦涛执政的十年，他很难独掌局面，不得不面对九常委“九龙治水、各管一摊”的困境。</p>
+<blockquote><p>而习近平正是希望重新利用“小组”集中决策的特点，通过增设顶层小组（如深改、军改）并亲任组长的方式，提升总书记的决策能量。至少就现状来说，这是一个可以实现其目标的有效方式。时至今日，改革年代的“小组”已成为四十年来最有权力的决策机构，并有着更加公开化的趋势。</p></blockquote>
+<p>五、“小组”政治，走不出的周期律？</p>
+<p>“小组”体制经过半个多世纪的进化，一直伴随着中共的政治史，至今仍受高层青睐。但“小组”并非万能，“小组”体制本身的困境使其在现代政治面前尤为凸显。</p>
+<p>最直接的问题是地方权力的扩张。</p>
+<p>一直以来，“小组”体制都不仅仅是中央层级的机构，在地方也会相应跟进。而最高领导人权力的扩张，所带来的往往是地方领导的同步扩权。</p>
+<p>比如，在毛时代提倡“书记挂帅”、“分口管理”，实际上是毛泽东出于限制周恩来的政府决策权的考虑。但在地方却造成了党委书记独大的局面，使其能够在“大跃进”当中无所顾忌地虚报产量、更能够在“大饥荒”时瞒报灾情、抓捕逃难人口而不受制约。历次的政治运动，更是因得到地方迅速响应而使错误被不断复制和放大，监督机制从中央到地方都运转失效。</p>
+<p>在今日，地方党委书记同样身兼地方深改、财经、网信等小组组长，书记对地方的决策影响大幅提高。在人事上，中央掀起的“反腐”使大批部级官员落马，这其中不乏人事矛盾；在地方跟进反腐的过程中，省委、市委乃至县委也都查处了大批贪腐官员，权力极大的书记们，也极有可能利用“反腐”行动打击异己，制造冤案。</p>
+<p>面对这种矛盾，毛时代的解决办法是进一步向地方收权。大饥荒之后，中共中央曾发布《关于调整管理体制的若干暂行规定》，指出“经济管理的大权…应更多地集中到中央和中央局”，导致地方的计划都要由中央制定。</p>
+<blockquote><p>这给决策带来了极高成本和更大误差。那么，今天呢？在中国经济更开放、复杂的今日，收权的成本要远远高于计划时代。</p></blockquote>
+<p>为此，让地方干部深入参与中央组织的政治活动，成为防止地方离心的另一个治理思路。比如中共十八大以来大范围的“群众路线活动”和“民主生活会”，试图减少地方党委书记的权威，让同级之间开展“批评与自我批评”。此外，习近平还曾组织县委书记的座谈会，希望借助最高领导人与县级干部的沟通，打破省市各级的封闭管辖。然而，这种单一的人事控制能否限制地方干部在具体事务上的超级权力，也同样值得怀疑。</p>
+<p>“小组”体制的强势，还使政府机构长期简单化。</p>
+<p>一直以来，在中国大陆介绍当代政治制度的教科书中，政体都呈现出极简单的一面，无非是人大、政府、政协等国家机关，条块清晰、粗枝大叶。</p>
+<blockquote><p>而另一方面，党的诸多部门和各“小组”并不公开，却体系庞大、繁复、叠床架屋。这表明，政府机关长期缺少决策的实践，制度设计成为形式，看不到实效、博弈与制衡。</p></blockquote>
+<p>在法理上，最为显著的便是“小组”与国家政治制度的矛盾。作为宪法规定的最高权力机关，全国人大的决定权几乎被党的“小组”完全取代，也不可能对“小组”产生任何监督。而人大与国务院的上下关系，也因“小组”的存在而被打乱。无论是人大、国务院还是司法部门，都成为各相关“小组”的一员，被纳入到集中决策当中。在地方，党委书记甚至长期兼任人大主任，权力的高度集中使人大的运行在“小组”面前羸弱不堪。</p>
+<p>而就政府本身来说，党的“小组”将政府的关键领域（财经、公安、外事）抽离重组，归入党务系统，并直接干预具体事务的决策，使政府更加空壳化。国务院自身也有各协调小组，然而都只涉及“抗震救灾”、“森林防火”、“防艾滋”等细节问题，而即使是这些问题，也要依赖财政、司法、甚至军队等部门的配合，而这些部门的调度权限，无一例外地指向了党领导下的“小组”，乃至最高领导人。在此前提下，国务院的“部制改革”、“简政放权”，操作空间都极为有限。</p>
+<p>政府没有决策权，却要担责任。2003年“非典”之后中国政府兴起了官员问责制度。凡每次出现公共危机，主政的政府官员都有辞职、免职甚至入狱的风险。与此相反，实际进行决策的“小组”与党委书记多数情况下都安然无恙。由“小组”政治导致的权责分离，使党务系统的决策者不受制约、政府官员却因怕担责任走向惰政。由问责而衍生出的，是具有超级权力的“小组”，游走在法律之外，在常态化之后将面临更多问题。</p>
+<p>当下，“小组长”和“小组”决策走入公众视野，走向公开，展现了中共高层面对改革的自我调整，也体现习近平借“小组”破局、重组权力架构、推行施政目标的思维。</p>
+<p>然而，“小组”体制始终刻印着中共“前现代”的治理思维。破局容易开局难，与现代政治相悖的“小组”体制并非一个现代政党长久的决策途径，更不应是改革的终极目标。本届中共领导人的权力重组还未结束，“小组”体制也日趋强势。打破藩篱的木棒是否会成为新的藩篱？历史常跟我们开这样的玩笑。</p>
+<p><strong>参考文献：</strong></p>
+<p>郑谦，庞松，韩钢，张占斌：当代中国政治体制发展概要，北京：中共党史资料出版社，1988年。</p>
+<p>邵宗海，苏厚宇：具有中国特色的中共决策机制——中共中央工作领导小组，台北：韦伯文化，2007年。</p>
+<p>周望：中国“小组机制”研究，天津：天津人民出版社，2010年。</p>
+<p> </p>
+<p>（郭子健，历史系研究生，主修中国当代史）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8B%AC%E5%AE%B6%E8%A7%A3%E7%A0%81%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E4%B8%BA%E4%BD%95%E7%A6%BB%E4%B8%8D%E5%BC%80%E5%B0%8F%E7%BB%84%E9%95%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%BB%84%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">小组治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%BB%84%E9%95%BF/?category=18271" rel="tag">小组长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E4%B8%AD/?category=18271" rel="tag">权力集中</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-17/" target="cdt-mirror">【网络民议】以前我总是瞧不起印度，现在我瞧不起自己了</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg" rel="attachment wp-att-431346"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg?resize=500%2C375" alt="005Xybrlgw1f1r35nh33mj30hs0dcjst" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>（黄山市田家炳实验中学的正门照片惨遭网友PS；图片来源：新浪微博@一二三小店）</em></p>
@@ -546,209 +735,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%96%9B%E9%9D%99%EF%BC%9A%E5%A6%87%E5%A5%B3%E8%8A%82-%E6%88%91%E4%BB%AC%E9%80%89%E6%8B%A9%E5%92%8C%E8%B4%AC%E4%B9%89%E8%AF%8D%E4%B8%89%E5%85%AB%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7/" target="cdt-mirror">薛静：妇女节 我们选择和贬义词“三八”站在一起</a>
-</h2>
-<p><p>我出生在3月9日的凌晨，我的妈妈告诉我，原本她在3月8日就已经进了产房，但是坚持到第二天才生下了我。我有点好奇，问她为什么，她扬扬眉说道：</p>
-<p>“三八嘛，总是感觉怪怪的……”</p>
-<p>人的直觉，有时候是非常敏锐的。就在我长大成人的这些年间，“三八妇女节”在官方话语和民间文化两个层面上的分裂，逐渐从潜藏的裂痕演变为明白敞亮的各走一路。一方面，各种“三八红旗手”的评选仍在进行，“妇女节”的庆祝仍然一年不落，单位发发洗衣粉和热水壶，媒体拍拍参会的民族风和女代表，有条不紊，十分和谐。另一方面，随着港台文化的入侵，“三八”一词迅速变成“搬弄是非的女性”的代名词，而“妇女”也越来越多地让人联想到围着锅台和娃娃团团转的大妈大婶，她们被暗示为年老色衰、丧失吸引，不再是被男性注视的对象，而仅仅成为社会中的工具化存在，“三八”与“妇女”的相连，更加剧了这一节日在民间被污名化的程度。</p>
-<p>于是，妈妈在我出生之时的那点小小盘算，仿佛成为了一个巨大的隐喻：一个母亲，不会去算良辰吉日、以求飞黄腾达，只想在她能力所及的范围内，让她还未出生的孩子，尽力避免被污名化的命运。</p>
-<p>同样在80年代末期，山东大学在妇女节的相关活动中，率先提出了“女生节”的概念，并选定在“三八妇女节”前夕的3月7日加以庆祝。“女生节”的提出，迅速获得了全国各大高校女生的芳心。一个既能享受男生们的问候、赞美与关爱，又能避免“妇女”这种称呼的节日，让姑娘们如何拒绝呢？</p>
-<p>“女生节”踏着轻快甜美的脚步，从一校传遍全国，从高校进入中学。在我初中的时候，学校已经流行在3月7日互致问候、甚至递送贺卡了。我们班上还有一位男生，会在每年的“女生节”带来一大包进口糖果，分给班级的女生们。我们享受着充满水果甜味儿的节日一天，也从未觉得有何不妥。</p>
-<p>直到三年后的中考，我考入本校的高中部，因为发挥并不太好，所以对能不能进入实验班心里没底。我和那个发糖果的小男孩相约一起去看分班结果，出人意料的是，他的名字在实验1班的名单里，而比他高7分的我，却落到了实验2班。</p>
-<p>他很肯定地安慰我说，一定是名单搞错了，因为他知道几个成绩比他还低的哥们儿，同样在实验1班。他拽着我去招生办公室找老师，那位女老师非常淡定地告诉我们：为了实验1班男女比例平衡，确实男女生分数线有所差别，因为“女生没有男生后劲足嘛”。</p>
-<p>15岁的我不知道该如何消化这个消息，眼泪刷地一下流了出来。身边的男孩同样满脸意外，非常尴尬。我们默默地走出办公室，在回家的路上，他掏出一颗糖递给我：</p>
-<p>“你别哭了，吃点甜的心情会好……”</p>
-<p>我知道他并无恶意，但是那一刻，我实在无法接下那颗糖。</p>
-<p>我非常想告诉他，我并不想要什么糖果，我只想和你坐在同一间教室里，接受最好的教育。那是我应得的。</p>
-<p>回家以后，我问妈妈该怎么办，她沉默良久，最后告诉我：孩子，你是女孩，所以你要更努力才行。</p>
-<p>半学期后的期中考试，我考进了年级前十。</p>
-<p>那次考试，我们班有8个姑娘，考入了年级前45名。</p>
-<p>后来，我高考以全校第一的成绩进入北大，然而这种“比他们更努力”所抚平的性别差异，并未因此彻底解决。而且，随着我从本科念到博士，我周围喧闹的声音也越来越多。很多人忧心忡忡地为我的年龄、前途和婚姻做打算，觉得一个好好的小姑娘竟然成了“女博士”，她的人生简直要完蛋了，还是快点拴住一个不怕死的男人，或许生活还能获得救赎。某次被迫和传达室大叔进行寒暄，他语重心长地跟我说：“女孩子，读书差不多就行了，读个博士，四年以后可就二十八九啦……”</p>
-<p>“可是大叔，就算我不读博士，四年以后照样还是二十八九啊！还不如多读点书，免得等到年纪大了，还是一副没见识的样子。”</p>
-<p>但是口舌之胜终归是口舌，我还是无可救药地掉进了“女博士”这个魔鬼化+污名化的身份之中。</p>
-<p>这个25岁的我，和彼时15岁的我，面临的困境其实是一样的。十年，无论我多努力，所能做的，无非是从一个污名化的境地，逃离到另一个污名化的境地。这不是因为我后劲足或不足，成绩好或不好，而是因为，我是女性。</p>
-<p>我们身在中国的知名学府，大多出自典型的中产家庭，收拾打扮一番，样貌也都还算体面。作为一群年轻的知识分子、未来的精英阶层，我们有100种方式，可以逃离“污名”，可以不被叫“女博士”而被称为“青年学者”，可以不被叫“老学姐”而被称为“白富美”，可以不被叫“妇女”而被称为“女生”……</p>
-<p>可是，那又怎么样呢？</p>
-<p>我们年轻，所以我们可以过“女生节”，享受男生的礼物和赞美。</p>
-<p>我们貌美，所以我们可以过“女神节”，享受屌丝的膜拜和跪舔。</p>
-<p>我们有钱，所以我们可以过“女王节”，享受商家的服务和吹捧。</p>
-<p>然而如果有一天，我们不再年轻、不再貌美、不再有钱，我们是不是就不配再做女性？如果有一天，我们不再能成为供男权社会和商品经济觊觎的猎物，我们是不是就只能成为那个“阁楼上的疯女人”？</p>
-<p>并且，现实比假设更残酷的是：当你过于年轻、过于貌美、过于有钱，他们一样会窃窃私语，质疑你的身家背景、感情生活、能力道德，然后继续把一盆又一盆污水泼在你的身上。</p>
-<p>其实，污名，是无法逃离的。</p>
-<p>当他们向这个位置泼污水的时候，我们逃走了。但是他们转而找到另一个借口，向我们现在的位置泼洒污水，我们只能再次逃走了。我们一直奔跑，永不停歇，直到有一天精疲力竭，跪倒在他们面前，要求加入他们，成为递送污水的一员。</p>
-<p>我只是想趁自己还有力气的时候，停下来，站到那个已被污名化的“妇女”的位置，和一百多年前芝加哥勇敢罢工示威的女性一起，和二三十年后容颜老去、鬓染风霜的自己一起，告诉那些向我泼来污水的人，他们是错的。</p>
-<p>无论男女，我们都可以在停止这场泼污水的无聊游戏之后，变得更好。而这个中止的开关，需要我们共同拉下。</p>
-<p>我想要的，不只是今天的爱心早餐，还是二十年后，我在厨房切菜的时候，你在旁边打着鸡蛋和我聊天。</p>
-<p>我想要的，不只是你摸着我的脸、赞美我的容颜，还是你拉着我的手、我们彼此讲述光环背后的艰辛。</p>
-<p>我想要的，不只是清空了购物车的“买买买”，还是此后一生，无论事业谁强谁弱、薪水谁高谁低，都能够彼此尊重、彼此支持、彼此欣赏。</p>
-<p>我并不想当女生、女神和女王，如同我并不想要十几年前的那颗糖一样。我想要的，是成为一个可以被我们彼此都正视的性别身份。</p>
-<p>“我们生下来时，社会是这样，是我们的无奈；我们的孩子生下来时，社会还是这样，是我们的无能。”</p>
-<p>我选择和“污名”站在一起，只是希望，在未来的某一天，我的孩子降生的那刻，无论是光棍节还是妇女节，无论是三七、三八还是三九，TA都看到一个干净的世界，都能为自己的性别、身份与生日，感到骄傲。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%96%9B%E9%9D%99%EF%BC%9A%E5%A6%87%E5%A5%B3%E8%8A%82-%E6%88%91%E4%BB%AC%E9%80%89%E6%8B%A9%E5%92%8C%E8%B4%AC%E4%B9%89%E8%AF%8D%E4%B8%89%E5%85%AB%E7%AB%99%E5%9C%A8%E4%B8%80%E8%B5%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83/?category=18271" rel="tag">女权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">社会公平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/" target="cdt-mirror">【异闻观止】共青团中央：我恋爱了 和他</a>
-</h2>
-<p><p>@共青团中央：我恋爱了，和他[心]</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/eaaf2affgw1f1ojphmaljj20de40faxi.jpg?resize=482%2C5199" alt="eaaf2affgw1f1ojphmaljj20de40faxi" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>林宝歌：那些劝人分手的真的不要太败人品。</p>
-<p>请叫我李家小四：看完评论很心痛，那些无端指责污蔑诋毁祖国的人，作为中国人你连自己的国家都厌恶，从你出生到现在哪里不是在享受着祖国安定带给你的幸福，让你经受战乱了吗？让你沿街乞讨了吗？殊不知你们才是最悲哀的，眼睛里只有对社会的不满，指责，好好问问自己，你存活于世有什么意义？除了抱怨还有什么？</p>
-<p>山阴祁虎子：快吐了。</p>
-<p>_Nailcore：真几把想吐，文案水平low到爆了。</p>
-<p>Sealsteam6：21世纪了，还忠君爱国？</p>
-<p>黄卓睿：这官博能保留点智商和碧莲吗？</p>
-<p>吉双抽守株：那个不堪的曾经和404到底是啥？三八节发这种文案脑子都是翔么？</p>
-<p>小敏要变身superman：肯定是俩男的。</p>
-<p>滴答滴答滴滴答答滴滴答：你是你，麻烦不要代表全体中国人，我们爱的只是这个国家。</p>
-<p>天庭第一臭脚大仙阿奴：只有我一个人带入了雷政富的脸吗？</p>
-<p>小时候可猛的春天：干了这碗毒鸡汤！</p>
-<p>WhatifWhatever：君臣父子夫妻。 这就是你们要的盛世。 呸呸呸呸呸</p>
-<p>Casillas顿顿：共青团是什么，共同青年相亲团么？</p>
-<p>小题大作：讲真……你团真该换小编了……这水平……</p>
-<p>friendary：“有些事不和我商量”“说是共产主义，我不太明白，但感觉很厉害的样子”。</p>
-<p>Helen_WayfromTroy：生生看哭了……改革开放都快四十年了，民智教育竟然堕落到这个地步，对女性的物化和轻视真是由内而外从上到下深入骨髓，此处省略一万字脏话。</p>
-<p>今得看见：不要脸皮哪家强？还看共青团中央！</p>
-<p>Julius_D：这种垃圾文案竟然也有人舔，目瞪口呆.jpg</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E7%9F%AD%E7%9F%AD23%E5%88%86%E9%92%9F%EF%BC%8C%E5%91%8A%E8%AF%89%E4%BD%A0%E9%A2%86%E8%A2%96%E6%98%AF%E6%80%8E%E6%A0%B7%E8%A2%AB%E7%A5%9E%E5%8C%96%E7%9A%84/" target="cdt-mirror">【CDTV】短短23分钟，告诉你领袖是怎样被神化的</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-%E4%B8%8B%E5%8D%8812.32.17.png?resize=534%2C337" alt="Screen Shot 2016-03-07 at 下午12.32.17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-下午12.32.17.png?resize=300%2C189 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-07-at-下午12.32.17.png?w=534 534w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"></p>
-<p>《23分钟的奇迹》是日本长篇电视剧《世界奇妙物语》中的一集。</p>
-<p>故事中的大背景是刚刚发生政变、由极权主义政府执政的日本。一个小学班级里，新来了一位外表青春可爱的女教师。她只用了 23 分钟，就成功引导一班天真善良的小学生撕毁了原本的教科书，砸掉了“平等、自由、和平”的牌匾。</p>
-<p>短短的23分钟，就告诉你人民是怎样被洗脑的，领袖是怎么被神化的。罪恶常常长着一张美丽的脸，使你忘记什么是对的。</p>
-<p>CDTV推荐《23分钟的奇迹》。如果您在墙内无法看到YouTube上的视频, <span><strong>请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0">点击这里</a></strong></span>使用BitTorrent Sync (Sync) 下载观看。</p>
-<p><a href="https://www.youtube.com/v/EAo0yuR71uQ?version=3">https://www.youtube.com/v/EAo0yuR71uQ?version=3</a></p>
-<p>附：网友<a href="http://tieba.baidu.com/home/main?un=hwanghwang&ie=utf-8&fr=pb&ie=utf-8" target="_blank" data-field='{"un":"hwanghwang"}'>hwanghwang</a>在百度贴吧上发布的<a href="http://tieba.baidu.com/p/768165543">剧情解说</a></p>
-<blockquote><p>这个场景仅仅在教室里面     人物道具极其简单的故事<br>
-被很多人看了开头就忽略    其实是世界奇妙物语里面一个难得的杰作</p>
-<p>短短18分钟就通过教师和孩子们的交流    传递了一个震撼人心的恐怖的力量<br>
-一种精神意志的强大的洗脑能量的展现</p>
-<p>*由于全部翻译实在花费时间和精力     就把大意和梗概在此叙述<br>
-希望能满足一直想知道剧情的童鞋们*</p>
-<p><strong>(一)</strong></p>
-<p>令人迷茫和凝固的气氛笼罩在学校中   四周是一片死一般的寂静<br>
-连鸟叫都听不到一声     昏暗的在教室里坐着一个女教师在抽泣<br>
-孩子们都疑惑甚至有些害怕地看着她     一群人在教室中不知所措<br>
-每个人也许都想知道   到底发生了什么    让今天变成这样<br>
-伴着9点的上课铃响    一阵清脆响亮的脚步声渐渐而来<br>
-是一位新教师        她一身淡绿的裙子跟今天的昏暗格格不入<br>
-显得十分得刺眼      最后一排的男孩怒视着这一切他难以理解的骤变</p>
-<p>新来的教师扶了扶哭泣的女教师肩膀说    低声说道大家都在校长室集合<br>
-哭泣女教师有些控制不了情绪哭诉道     学校会怎么样 这些孩子将怎么办<br>
-新老师用坚定的眼神暗示了她     意味深长地低语：大家都校长室等着你    快去吧<br>
-哭得举手无措的女教师      仿佛有所醒悟似地离开了</p>
-<p>新来的教师用犀利和自信的眼神扫视了一圈教室    他并没有讲课<br>
-开始拿出录音机和磁带      给孩子们放着一首他们并不能理解的<br>
-意境悠远的歌     凄婉的声音像大自然的原野   空旷飘荡<br>
-貌似并没太打动孩子们    他们的世界实在是简单得像寥寥的几笔蜡笔画</p>
-<p>教师立刻叫了一个MM的名字   问感觉如何啊   不喜欢吗<br>
-其实他们根本不认识    MM特别惊讶老师为什么知道她<br>
-那个MM非常开心地说 我觉得是一首优美的曲子<br>
-教师又说    那以后我每次上课都给大家放点好听的曲子<br>
-接着她又陆续说出来其他同学的情况<br>
-大家都很惊讶   这时她已经赢得了好多位同学的初次好感</p>
-<p>(这是教师赢得孩子们认可，走出改变一切的第一步)</p>
-<p><strong>（二）</strong></p>
-<p>老师看着墙边挂着的意味深长的匾问大家知道什么意思吗<br>
-这时两个孩子表示开始表示不满    与其听觉得老师在这里宣扬这些空话<br>
-他们更想搞清楚究竟发生了什么    要让她来这里给大家讲这些无意义的大道理<br>
-“之前的哭泣的老师怎么会哭去哪里了”   教师说老师身体不好要休息<br>
-这个女孩子    若有所思地被轻易骗过去了      气氛略有缓和</p>
-<p>第一个被表扬的MM又说老师的衣服好漂亮 老师假装非常高兴<br>
-说如果大家喜欢 以后大家可以穿一样的衣服<br>
-这不就是匾上所写的平等吗     还有按照我们的心愿来穿衣服 这就叫自由<br>
-大家一致同意开始起哄   最后一排的怒视的孩子还带着极其排斥的心理<br>
-发脾气      不同意大家<br>
-他此时开始控制不住自己的感情     他站起来说他的爸爸被带走了<br>
-他问这是为什么   他爸爸去哪里了   要老师告诉他一切真相女教师此时有点惊呆       她并没慌乱    而是缓缓走到他面前<br>
-语重心长地告诉他   你爸爸去大人的学校了<br>
-大人有时候有问题也需要学习    需要改正     但他很快就会回来的<br>
-其他同学开始起哄    说出自己的父母也会如此这样<br>
-开始同意老师           似乎气氛开始和谐    。。。。。。<br>
-教师已经开始逐步赢得了大部分人的好感了</p>
-<p>还没有让这样祥和的气氛持续     最后一排的孩子这时发飙了<br>
-吼道： 你不要再忽悠大家了<br>
-我这里有报纸 上面白纸黑字写得清清楚楚<br>
-日本发动政变了   宪法改变了    日本现在一切混乱~！<br>
-老师冷静地问他：什么是宪法呢<br>
-他向大家解释：一个国家的决策<br>
-教师又温和地对大家说:    国家的宪法也像人一样经常会犯错误<br>
-它也有有问题的时候，有问题就必须修正，大家说对吧。</p>
-<p><strong>（三）</strong></p>
-<p>接着教师无视发怒男孩   马上抓取众人心灵   分散他的攻击力<br>
-她透露要和同学们一起去露营    去一个很干净的房间<br>
-大家在一起   吃很多好吃的东西   大家一起聊天 玩游戏 唱歌<br>
-然后 马上问大家想吃点心吗     再让大家   祈求神赐给大家点心<br>
-当然大家睁眼后    根本没有点心来    孩子们开始轻微地抱怨</p>
-<p>接着老师又让大家向国家领导人 祈祷    赐给我点心<br>
-趁大家闭着双眼祈祷的间歇     教师给每个人发了一个点心放在桌子上<br>
-窗外依然安静    但学堂这时已经不再是那死一般的沉寂<br>
-这个教室的朗朗声音     标志着它已经开始复苏<br>
-就像融化的冰块 开始发出脆响   水流渐渐地流向四方汇成一片汪洋</p>
-<p>睁开眼睛的同学们被眼前的点心惊呆了 似乎都开始相信他们国家的<br>
-新的政党    新的领导人的    给大家带来的真实存在的强大力量</p>
-<p>不出教师的所料    在这个热烈气氛中    那个不和谐的音符还没有删掉<br>
-怒视男孩继续开始发难   揭穿了这一切是教师所为<br>
-这时正中女教师下怀    她立刻抓住这个机会   趁机反表扬那个男孩<br>
-说他观察敏锐    是他为大家发现了这个道理<br>
-教师并借机发挥告诉大家世界上是没有救世主的   也没有神灵的存在<br>
-只有靠别人的帮助   还有像老师一样的人的力量才能给你们帮助<br>
-大家开始对发怒男孩刮目想看   发怒男孩反而开始被突然袭来的表扬<br>
-觉得有点歉疚和不知所措了     在这样的冲击下 对老师的反感大幅度减轻<br>
-（教师此时已经基本把这些孩子征服掉了）</p>
-<p><strong>（四）</strong></p>
-<p>这时候教师便提出要把那个匾取下    并且提出选出班委 大家都推荐发怒少男<br>
-发怒少男被搞得有点不好意思    同时他的虚荣心也得到了极大满足<br>
-这时候老师使出了最后的必杀技    宣布道：<br>
-好，接下来我们的新班委的第一个任务就是      把这个横匾潇洒地扔到窗外去<br>
-一MM觉得不妥     提出说这个是之前老师写下的重要的东西   恐怕不好吧<br>
-老师说   这些道理挂在这里并不重要     更重要是我们领会它   并且记在心里<br>
-这样的话 之前的老师知道你们这样    也会很开心    难道不对吗<br>
-（镜头给了MM和发怒男，他们的点头显示所有人都彻底被老师征服了）</p>
-<p>于是发怒男有些犹豫地走到前面取下了横匾      教师继续鼓动他   他在全班同学簇拥下<br>
-把横匾扔了出去   横匾在窗外还是寒冷的风中一声脆响   决然地粉碎了<br>
-同学们开始欢呼庆祝     旧政局的教育思想和体系     也彻底地开始在这里粉碎瓦解<br>
-预示着崭新的时代   崭新的思想 崭新的方式开始生根发芽 茁壮成长</p>
-<p><strong>（五）</strong></p>
-<p>教师这时像一个胜利的女皇一样      骄傲地看着这些被征服的单纯的孩子<br>
-她冷峻地看了看手表      时针指向了9点23分</p>
-<p>这时教师趁热打铁    开始让大家死掉旧用的教材     向每个人发放新书 新制服<br>
-孩子们的一浪高过一浪的欢呼声           洋溢在教室中。。。</p>
-<p>尾声    塔摩利大叔的话</p>
-<p>要操纵孩子们纯真的心，是多么地容易啊。<br>
-不仅是小孩。不管什么人到了某些情况下也会很容易任人摆布。<br>
-而且，如果遇到了恶意操纵人心里的人。。。<br>
-那大家可要小心了。</p></blockquote>
-<p> </p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E7%9F%AD%E7%9F%AD23%E5%88%86%E9%92%9F%EF%BC%8C%E5%91%8A%E8%AF%89%E4%BD%A0%E9%A2%86%E8%A2%96%E6%98%AF%E6%80%8E%E6%A0%B7%E8%A2%AB%E7%A5%9E%E5%8C%96%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A23%E5%88%86%E9%92%9F%E7%9A%84%E5%A5%87%E8%BF%B9%E3%80%8B/?category=18271" rel="tag">《23分钟的奇迹》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%96%E7%95%8C%E5%A5%87%E5%A6%99%E7%89%A9%E8%AF%AD%E3%80%8B/?category=18271" rel="tag">《世界奇妙物语》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%B4%97%E8%84%91/?category=18271" rel="tag">反洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%89%A7/?category=18271" rel="tag">日本电视剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">极权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/431162/" target="cdt-mirror">滚筒洗脑机 | 妇女郑楚然的三八节栋笃笑＃反三七过三八＃</a>
-</h2>
-<p><p>网易女人对不起。。没想过腾讯视频的logo会遮住。。。</p>
-<p>羞耻play又来了<img src="https://s.w.org/images/core/emoji/72x72/1f602.png" alt="</p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -770,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A23%E5%88%
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431424/" target="cdt-mirror">知乎｜如何评价新浪微博共青团「我恋爱了，和他」这条微博？</a>
+</h2>
+<p><p><strong>问题</strong>：如何评价新浪微博共青团「我恋爱了，和他」这条微博？</p>
+<blockquote><p>详见：<a href="http://%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%20%E5%92%8C%E4%BB%96/">【异闻观止】共青团中央：我恋爱了 和他</a>（附女版）</p></blockquote>
+<p><img src="http://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/eaaf2affgw1f1ojphmaljj20de40faxi.jpg?zoom=4&resize=482%2C5199" alt="" width="350" height="3774"></p>
+<p><strong>答主：马行空</strong></p>
+<p>我失恋了，和他。</p>
+<p>他很博学，什么都知道，一万六千式晚晚不重样，他一定只是想和我困觉，他不爱我。</p>
+<p>他每天抽烟，搞得我很不舒服。叫他戒烟也不肯，但是他的朋友来了，他就提前三天不抽烟，他一定是基佬，他不爱我。</p>
+<p>他很强壮，一不小心得罪了他，就是一顿揍，他也不会倾听我的道理，他不爱我。</p>
+<p>他很难缠，即使我偷偷跑到泰国，他也能找到我，还告诉邻居说我想家了才回去的。</p>
+<p>明明是我辛辛苦苦赚钱养家，他却四处说他很辛苦，我不懂得体谅他。</p>
+<p>他很会花钱，无论是变型金刚还是Xbox，别人玩的他都要，在外挣足了面子，却只给我喝粥，说是家庭困难要共度难关。</p>
+<p>他出身不好，穷时我小弟专程从海外回来帮助他，他却把我小弟关进厕所打个办残。即使这样，我也原谅了他，和他一起奋斗。</p>
+<p>他为人乖张怪癖。年轻时把我的口粮送给他的穷哥们，把我饿了三个月，他自己却偷偷开小灶顿顿红烧肉，还以为我不知道。</p>
+<p>他其实没有朋友，号称他铁哥们的那位喜欢吃玉米棒子的小子，就常常阴他。其他伙伴也是不给钱就翻脸。</p>
+<p>他后来学乖了点，开始和村里混得有头有脸的杰出青年交朋友，在外各种称兄道弟，背地里却常在我面前污蔑他们，还时时算计着哪天吃胖了把他们揍一顿。</p>
+<p>即使他这样坏，我还是不能离开他，当然，部分原因是他把门上了锁，还修了高墙，让我三从四德，有需要时卧冰求鲤来供养他。</p>
+<p>但是今天还是要离开他了。他居然厚颜无耻地宣称我爱他。再不行动，我成了啥？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431424/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD%E4%BD%93%E5%88%B6/?category=18271" rel="tag">党国体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A6%88/?category=18271" rel="tag">党妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E5%9B%BD%E6%9A%96%E7%94%B7/?category=18271" rel="tag">祖国暖男</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">网宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%9C%9F%E9%97%B4vpn%E5%A4%B1%E7%81%B5-%E7%BD%91%E6%B0%91%E7%BF%BB%E5%A2%99%E9%9A%BE/" target="cdt-mirror">自由亚洲｜中国“两会”期间VPN失灵 网民翻墙难</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg" rel="attachment wp-att-431411"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg?resize=575%2C324" alt="188f1603-88b4-47fa-be49-53b40e1a0a56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>国际VPN运营商称在中国的服务受限。(网页照)</p></div>
@@ -96,7 +123,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bobs/?category=18271" rel="tag">bobs</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E4%B8%BA%E5%9F%BA%E7%A1%80/" target="cdt-mirror">自由亚洲｜张德江：中国国家安全法以中国特色为基础</a>
 </h2>
@@ -680,21 +707,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/" target="cdt-mirror">来自习总的妇女节问候：去年有多少人娶媳妇儿？</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A5%B3%E7%94%9F%E8%8A%82.png" rel="attachment wp-att-431250"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A5%B3%E7%94%9F%E8%8A%82.png?resize=525%2C328" alt="女生节" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=300%2C187 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/女生节.png?w=1343 1343w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><em>（某高校“女生节”惊人标语；<a href="http://news.ifeng.com/a/20160308/47735851_0.shtml">图片来源</a>）</em></p>
-<p><strong><a href="http://news.xinhuanet.com/2016-03/08/c_1118270839.htm">新华网｜习近平参加湖南代表团审议</a></strong></p>
-<blockquote><p>8日上午，习近平参加湖南代表团审议。湘西土家族苗族自治州州长郭建群代表在发言中，回忆起2013年11月习近平总书记到十八洞村考察的情景，着重介绍了近两年“精准扶贫”进展情况。习近平说，我正式提出“精准扶贫”就是在十八洞村，前几天中央电视台报道的十八洞村脱贫进展情况，我都看了。“现在人均收入有多少了？”总书记问。“您当年来的时候是1680元，现在已经增加到3580元。”郭建群答。郭建群接着说，十八洞村百姓收入增加，村容村貌变化，已成为全省文明村和旅游定点村，村民笑容多了、求发展愿望强了，<strong>连大龄男青年解决“脱单”问题也容易了</strong>。<span><strong>总书记问：“去年有多少人娶媳妇儿？”“7个。”郭建群答道。代表们发出会心的笑声。</strong></span>当得知全州还有50万贫困人口，习近平问：“条件比十八洞村还差的有多少？”郭建群说，十八洞村的条件算中等的。总书记追问：“不如它的有多少？”“接近一半。”郭建群答。习近平要求当地党委和政府加大工作力度，带领当地群众一起艰苦奋斗，早日实现脱贫目标。<br>
-[…]<br><strong>习近平向全国各界妇女同胞致以节日问候</strong></p>
-<p>8日上午，习近平参加湖南代表团审议。正值三八国际劳动妇女节，总书记代表党中央、国务院，向女代表、女委员、女工作人员和全国各族各界妇女致以节日的祝贺和诚挚的祝福。会议结束时，习近平同代表们握手道别。女代表纷纷围拢过来，向总书记表示感谢。习近平再次向妇女同胞表示祝贺。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82/?category=18271" rel="tag">三八妇女节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%A4%B1%E8%B0%83/?category=18271" rel="tag">性别失调</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +718,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%85%AB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +728,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%85%AB
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

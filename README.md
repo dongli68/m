@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,114 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9C%899%E4%BA%BF%E9%80%89%E6%B0%91-%E7%BD%91%E6%B0%91%E8%AF%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E9%80%89%E7%A5%A8/" target="cdt-mirror">美国之音｜张德江称中国有9亿选民 网民说没见过选票</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg" rel="attachment wp-att-431450"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg?resize=400%2C585" alt="梁树新" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?resize=205%2C300 205w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>（2011年，广州番禺区丽江街道居民梁树新以独立参选人的身份参加人大代表选举；<a href="http://chinadigitaltimes.net/chinese/2011/08/%E8%AF%91%E8%80%85-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%EF%BC%9A%E7%8B%AC%E7%AB%8B%E5%80%99%E9%80%89%E4%BA%BA%E6%A2%81%E6%A0%91%E6%96%B0%E6%9C%AA%E8%83%BD%E9%80%9A%E8%BF%87/">他最终未能通过提名</a>。）</em></p>
+<blockquote><p><strong>数字时代相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89/">公民独立参选</a></strong></p></blockquote>
+<p>中国当局说，今年内全国亿万选民将直接选举250万基层人大代表，但有中国政治分析人士认为，所谓9亿选民的说法是个谎言，因为中国并不存在真正意义的选民。</p>
+<p><strong>张德江“</strong><strong>9亿多选民”直选基层人大代表被批是谎言</strong></p>
+<p>正在北京开“两会”的中国全国人大常委会委员长张德江说，2016年中国县乡两级人大代表要换届，9亿多选民将直选产生250多万名基层人大代表。他表示，这是中国社会主义民主政治建设的一次重要实践。而这种有9亿多选民直选的说法引发网友热议。</p>
+<p>张德江是3月9日在十二届全国人大四次会议第二次全体会议上作常委会工作报告时讲这番话的。他说：“从2016年开始，全国新一轮县乡两级人大换届选举陆续展开，有9亿多选民将参加选举，直接选举产生250多万名县乡两级人大代表。这是全国人民政治生活的一件大事，是社会主义民主政治建设的一次重要实践。”</p>
+<p>设在美国的人权组织“公民力量”创办人杨建利表示，所谓“9亿多选民”的说法是不正确的，因为中国目前根本没有真正意义的选民。他说；“按法律规定只有县一级和县级以下的人大代表是可以普选产生的，但是在实际中，如果你是一个独立的自由参选人，那么政府就给你施加很多压力或者制造很多麻烦，甚至逮捕，来阻止你进行自由选举。换句话讲，即使法律规定县和县级以下人大代表可以普选，但实际上在中国并不存在。所以整个人民代表体系是不能代表人民的声音的。因此人大常委会的委员长说中国有9亿的选民，这根本就是一个谎言。”</p>
+<p><strong>中国有无真正意义选民？</strong></p>
+<p>在2011年中国上一次举行基层人大代表换届选举中，虽然有创纪录的105名没有官方背景的所谓“独立参选人”参选基层人大代表，但他们不仅几乎全军覆没，而且很多人都遭到了政府的严厉打压。</p>
+<p>比较知名的案例是原江西新余钢铁集团有限公司员工刘萍。她2010年被迫内退，在为自己和其他工人维权的过程中萌生了独立参选新余市渝水区人大代表的念头。她当年接受美国之音采访时曾说，“因为我觉得人大代表的权限是非常大的，他可以代表民意，可以代表真正底层的民众发声。现在人大代表的功能已经丧失殆尽了，因为他不是人民选举出来的，他是内定的，他没有宣言，没有跟选民见面，是政党要他去当人大代表的。我就不同，我有宣言，我有承诺，我敢于跟民众见面。”</p>
+<p>然而在准备参选过程中，刘萍被当地官员千方百计剥夺参选资格。为了阻止她参选人大代表，当局对她进行抄家、没收宣传品、限制人身自由、断电、强制传唤，甚至在5月份提前选举期间，非法把刘萍扣押在新余钢铁集团良山矿招待所3天。</p>
+<p>作为竞选人大代表的普通公民刘萍受到的迫害不仅如此，她2013年4月在新余市组织举牌要求官员财产公示，并因此被捕。2014年6月18日被判处有期徒刑六年六个月。</p>
+<p>纽约城市大学政治学教授夏明表示，选民的概念是相对于选举而来的，如果没有公平、公开、自由的选举，也就谈不上有选民。“中国的选民不是真正意义的选民是因为中国没有真正意义的选举。为什么这么说呢，是因为它没有开放性，不是每个人都可以参选。”</p>
+<p><strong>网民说不知道选票长啥样</strong></p>
+<p>张德江“9亿多选民”的说法也引发中国网民关注，但大多数网友都表示几乎从未见过选票。网名为@走向民主的新浪微博用户说，“我特么快50了，连选票都没见过，我辽宁东港的。”网民为@凌内涵的新浪微博用户说，“都26了，从来没参加过选举。”</p>
+<p>见到选票又能怎样？“公民力量”的杨建利的反问。 “当他们见到选票后，选票上写的名字有多少人知道他们呢？有多少人来竞选呢？没有竞，就没有选。因为你不知道候选人是谁，候选人之间没有辩论，你不知道他们之间的区别，所以选票都是假的。” 他说。</p>
+<p>讽刺的是，在张德江宣称要在新形势下加强县乡人大工作、推进社会主义民主法治建设的同时，中国各大官媒的微博帐号却几乎清一色地关掉了“2016年中国9亿多选民将参加选举”微博的评论功能。</p>
+<p><strong>环球时报：中国是最大民主国家</strong></p>
+<p>去年8月北京外国语大学党委书记韩震在环球时报上发表的那篇题为《究竟谁是最大的民主国家》的文章。中国有9亿多选民的说法似乎也与韩震的“中国最大民主国家说”遥相呼应。</p>
+<p>韩震在那篇文章中说，“必须理直气壮地说中国才是最大的民主国家。“他表示，中国的人民代表大会制度就是当代中国的民主制度，该体制让中国的各民族、各阶层都有自己的代表参与国家事务的协商和决策，实现了国家领导人依据制度设计换届，并按照选贤用能的原则吧领导者推向各级领导岗位上，而不像某些国家，虽有民主知名，却在资本和利益集团运作下，只能在某几个有实力的政治世家中选择领导者。</p>
+<p>那么既然是中国的人民代表大会制度最好，为何张德江还要强调9亿选民呢？“自由选举是民主的必要条件，虽然它不是充分条件。没有它怎么能叫民主呢？”公民力量的杨建利说，“实际上中国的领导人他也明白这一点，虽然他说我们是协商民主，我们是另一种民主，但他也得说，我们也有选举，我们也有选民。”</p>
+<p><strong>9亿人未获参与政治的权利被剥夺？</strong></p>
+<p>还有网友质疑，张德江说的9亿选民是哪些人。网名为@昆明卢弟兄的新浪微博用户问，“能不能说说那九亿人是哪些人？！我村里村长换届都没见过选举。”</p>
+<p>纽约城市大学的夏明表示，所谓9亿选民的说法恰恰从反面说明中国的执政者一直剥夺了他们的政治权利。“这倒是从反面向中国人指出这么一个事实，就是这个政权一直建立在剥夺9亿多人自由选择权和政治参与权。”他说。</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9C%899%E4%BA%BF%E9%80%89%E6%B0%91-%E7%BD%91%E6%B0%91%E8%AF%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E9%80%89%E7%A5%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E9%80%89%E4%B8%BE/?category=18271" rel="tag">人大代表选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B0%91%E4%B8%BB%E4%B8%93%E6%94%BF/?category=18271" rel="tag">人民民主专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89/?category=18271" rel="tag">公民独立参选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%90%8D/?category=18271" rel="tag">刘萍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A9%A1%E7%9A%AE%E5%9B%BE%E7%AB%A0/?category=18271" rel="tag">橡皮图章</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%9D%A8%E7%BB%A7%E7%BB%B3%E7%9A%84%E5%8E%9F%E5%AE%9A%E8%B5%B4%E7%BE%8E%E6%BC%94%E8%AE%B2%EF%BC%9A%E8%AE%B0%E8%80%85%E6%98%AF%E7%9C%9F%E7%9B%B8%E7%9A%84/" target="cdt-mirror">纽约时报｜杨继绳的原定赴美演讲：记者是真相的保卫者</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/17china-web1-articleLarge.jpg" rel="attachment wp-att-431441"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/17china-web1-articleLarge.jpg?resize=575%2C383" alt="2013年时的杨继绳。他被哈佛大学尼曼学会授予“莱昂斯新闻良知与正直奖”" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/17china-web1-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/17china-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>2013年时的杨继绳。他被哈佛大学尼曼学会授予“莱昂斯新闻良知与正直奖”。／Sim Chi Yin for The New York Times</p></div>
+<p>和其他威权主义国家一样，在中国，记者和作家想要揭露恶行，讲出真相，就难免会与政府产生矛盾。曾长期担任新华社记者的<a href="http://www.nytimes.com/2016/02/17/world/asia/yang-jisheng-tombstone-harvard.html" target="_blank" rel="nofollow">杨继绳</a>就处于这样的状况。他退休后出版了一本里程碑式的著作——<a title="Link: http://www.nytimes.com/2012/12/09/books/review/tombstone-the-great-chinese-famine-1958-1962-by-yang-jisheng.html" href="http://www.nytimes.com/2012/12/09/books/review/tombstone-the-great-chinese-famine-1958-1962-by-yang-jisheng.html" target="_blank" rel="nofollow">《墓碑》</a>，记录了1958到1962年在中国发生的大饥荒，那是历史上最大的人为灾害之一，造成了3600万人死亡。</p>
+<p>这样的努力给他招来了敌意，共产党越来越不能容忍所谓“历史虚无主义”来损害它对这个国家的领导。75岁的杨继绳被哈佛大学尼曼学会(Nieman Fellows)授予“<a title="Link: http://nieman.harvard.edu/news/2015/12/chinese-author-yang-jisheng-wins-louis-m-lyons-award-for-conscience-and-integrity-in-journalism/" href="http://nieman.harvard.edu/news/2015/12/chinese-author-yang-jisheng-wins-louis-m-lyons-award-for-conscience-and-integrity-in-journalism/" target="_blank" rel="nofollow">莱昂斯新闻良知与正义奖</a>”(Louis M. Lyons Award for Conscience and Integrity in Journalism)，本来安排在周四晚间亲自领奖。但是上个月，他的前工作单位告知，他被禁止前往美国。</p>
+<p><strong>以下是他本来打算发表的演讲：</strong></p>
+<p>感谢评委会将2016年度的新闻良知与正义奖授给我。良知与正义这两个词的份量很重，加在我身上我承受不起。我只能当作对我的激励和鞭策。</p>
+<p>尼曼人都是杰出的记者。我是很热爱记者这个职业的。我在这个岗位上摔打四十多年，据我的体验和观察，我是这样评价记者这个职业的：</p>
+<p>这是一个卑鄙的职业，这个职业可以混淆是非，颠倒黑白，制造弥天大谎，欺骗亿万受众；这是一个崇高的职业，这个职业可以针砭时弊、揭露黑暗、鞭挞邪恶、为民请命，担起社会良心的重责。</p>
+<p>这是一个平庸的职业，回避矛盾，不问是非，明哲保身，甘当权势的喉舌；这是一个神圣的职业，胸怀天下，思虑千载，批评时政，监督政府，沟通社会，使媒体成为立法、司法、行政之外的第四权力。</p>
+<p>这是一个浅薄的职业，只要能够写出通顺的记叙文，不需要多少学识，不需要卓越的见解，听话顺从，就能如鱼得水；这是一个深不可测的职业，记者不是专业学者，他需要从整体上研究社会、把握社会，无论有多么渊博的学识、有多么卓越的洞察力，在复杂多变的社会面前，都会感到学力不足，力不从心。</p>
+<p>这是一个舒适而安全的职业，出入于宫阙楼台，行走于权力中枢，灯红酒绿的招待会、歌舞升平的庆典，访大官，见要人，春风得意，风光无限。如果用文章与权势投桃报李，今日的书生可能是明日的高官，今日穷酸可能是明日的富豪；这是一个艰难而危险的职业，且不谈穿梭于枪林弹雨中的战地记者，就是在和平环境中，调查研究，探求真相，跋山涉水，阻力重重，除暴揭黑，千难万险。一旦触及到权势集团的痛处，不测之祸从天而降。</p>
+<p>是卑鄙还是崇高、是平庸还是神圣、是浅薄还是高深，在于从业者本人的良知、人格和价值取向。真正的职业记者会选择崇高、神圣、深刻、凶险，鄙视和远离卑鄙、平庸、浅薄、舒适。</p>
+<p>然而，在卑鄙与崇高、平庸与神圣之间，没有鸿沟、没有高墙，黑白之道，全凭自己把握。如果一脚踏进了黑道，就会被钉在历史的耻辱柱上，自己写的白纸黑字，是永远抹不掉的证据。“卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭”这条黑色定律在记者职场十分盛行。要不被这一黑律逼向卑鄙之路，就得无所畏惧，勇于献身。</p>
+<p>这也是我对新闻良知与正义的理解。</p>
+<p>要当一名坚持良知与正义的记者是有风险的。我在给新闻专业学生讲课时传授了一个避险秘诀：“一无所求，二无所惧，自立于天地之间。”无所求，就是不求升官、发财；无所惧，就是检点自己的行为，不留“辫子”被人抓；不依附权贵、靠自己的人格和专业独立于世。有了这三条，风险就小多了。</p>
+<p>改革开放以来，中国出现了很多坚持良知与正义的记者。在巨大的阻力面前，他们报道真相，鞭挞邪恶，推动着中国社会前进。他们没有出席今天的盛会，应当分享这个盛会给予的荣誉。</p>
+<p>退休了，不能做新闻记者了，我就当“旧闻记者”——从事历史写作。昨日的新闻是今日的历史。新闻和历史的共同点就是信，即真实可信。信，是新闻和历史的生命。中国史家历来重视史德：忠于史实，善恶必书，书必直言。以直书为己任，以曲笔为耻辱的史家，几乎代有其人。为保持史家的节操，许多人不惜以生命为代价。在中国史家的精神影响下，我记录了我所经历的重大事件：大饥荒，文化大革命，改革开放。我们不仅要记住美好，也要记住罪恶，不仅要记住光明，也要记住黑暗。让人们记住人祸、黑暗和罪恶，是为了今后远离人祸、黑暗和罪恶。《墓碑》这本书记录了一场持续数年的惨烈人祸。虽然它只能在香港出版，是大陆的禁书，但是，追求真相的人们，通过种种渠道、种种方式，在大陆广为传播，从中原腹地到云贵高原到新疆边塞，都不时有盗版《墓碑》销售。来自全国各地的大量读者来信，给我以我坚定而热情地支持。这说明，真相有强大的穿透力，它可以冲破行政权力构筑的铜墙铁壁！</p>
+<p>真相是威力强大的炸弹，它会将谎言炸得粉碎；真相是夜空的灯塔，它会照亮前进的道路；真相是检验真理的试金石，没有真相就没有真理。</p>
+<p>记者，就是真相的记录者、挖掘者和保卫者。</p>
+<p>最后，让我和大家一起，为记者职业祈愿：愿良知和正义的阳光照亮千万个记者、作家的书桌！愿更多的作品唤醒人类的良知，让正义之光普照地球的每一个角落！</p>
+<p><em><br>
+傅才德(Michael Forsythe)是《纽约时报》记者。<br>
+翻译：纽约时报中文网<br></em></p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%9D%A8%E7%BB%A7%E7%BB%B3%E7%9A%84%E5%8E%9F%E5%AE%9A%E8%B5%B4%E7%BE%8E%E6%BC%94%E8%AE%B2%EF%BC%9A%E8%AE%B0%E8%80%85%E6%98%AF%E7%9C%9F%E7%9B%B8%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%A2%93%E7%A2%91%E3%80%8B/?category=18271" rel="tag">《墓碑》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">三年大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%98%BF%E6%B3%95%E7%8B%97%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A-%E8%AF%B7%E6%82%A8%E6%A3%80%E9%98%85/" target="cdt-mirror">【网络民议】阿法狗姓党，绝对忠诚，请您检阅！</a>
+</h2>
+<p><p><em>【编者注】下文中，《人日》评论公号声称“亨德尔在穷困潦倒的处境中奇迹般地创作出《哈里路亚》”——然而众所周知，亨德尔作为巴洛克时期的<strong>主流</strong>宫廷御用作曲家，备受皇室贵族尊敬，生活富足。亨德尔直到去世时也还非常富有。</em></p>
+<p><strong><a href="http://www.thepaper.cn/newsDetail_forward_1442254">人民日报评论｜人机大战：思想的尊严只属于人类</a></strong></p>
+<blockquote><p>[…]因此，凭借围棋比赛就说“人工智能战胜人类”，显然有失偏颇，而断言人工智能将要取代、威胁甚至控制人类，同样为时尚早。技术突变的“奇点”还没有降临，人工智能也还不具备自我推理、自我学习、自我进化的能力。而人类大脑的工作原理，也远非数学算法所能解释或取代。特斯拉在吟诵《浮士德》的过程中获得了创造交流电的灵感，亨德尔在穷困潦倒的处境中奇迹般地创作出《哈里路亚》……人类群星闪耀时绽放出的灵感、热情与想象力，正是独属于人类的思想特质，也是人工智能最难获得的思想能力。</p>
+<p>自从英国数学家图灵提出“机器为什么不能像人那样思考”的命题，人工智能就开始进入人类的思想。而人类的全部尊严就在于思想，人工智能作为人类思想的产物，也将再次证明人类的伟大。因此，无论“阿尔法狗”与李世石谁将获胜，都将是人类思想的高光时刻，为此，我们有必要重温帕斯卡尔的这句话——<br>
+“人的伟大——我们对于人的灵魂具有一种如此伟大的观念，以致我们不能忍受它受人蔑视，或不受别的灵魂尊敬；而人的全部的幸福就在于这种尊敬。”</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg" rel="attachment wp-att-429611"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=525%2C295" alt="央视姓党1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?resize=1024%2C576 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/Cbjky5YUYAE-G5S.jpg?w=1200 1200w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2125853170" target="_blank">@lacrimosa0147</a>：不不不，这是西方人的思想，不是我们中国的，阿法狗是美国的，下棋的人也是韩国人<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p>@INEEDURKIS：不不不，思想的尊严只属于党妈妈</p>
+<p><a href="http://weibo.com/2747986997" target="_blank">@楼下集合</a>：社会主义核心价值观的尊严只属于贵党<img title="[爱你]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif" alt="[爱你]" data-recalc-dims="1"></p>
+<p>@咚咚肆：我们懂，我能懂，百度医药广告才是人类发展最终目标，什么人工智能都是渣渣</p>
+<p><a href="http://weibo.com/wonwave" target="_blank">@won-way</a>：我以为人民日报要说思想的尊严只属于社会主义呢<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3481942150" target="_blank">@这不像我但却是我</a>：脸都不要了还跑来谈尊严！<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p>@Cheer-FLY：不承认社会主义核心价值观的阿尔法狗，绝对是反动狗，反动狗没资格下围棋！</p>
+<p>@一头小活猪:不懂社会主义核心价值观，阿尔法狗不足挂齿。</p>
+<p>@小马无双X：阿尔法狗姓党，永远听您指挥</p>
+<p><strong>@bal-kstra凸_凸凸-凸小艾姆：阿法狗姓党，绝对忠诚，请您检阅！</strong></p>
+<p><strong><a href="http://weibo.com/5399801242" target="_blank">@夏天的来了</a>：<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1">然而阿尔发狗给我们宇宙真理党墙了</strong></p>
+<p>@子祎如意：无论AlphaGo多伟大，到了咱大中国，也只有一个输，服务器都休想连上！</p>
+<p>@D涵气来袭：在中国 我们随便都能赢 因为连不上Google 服务器</p>
+<p><a href="http://weibo.com/yueguang2" target="_blank">@coolhandl</a><i title="微博达人"></i>：又矫情<img title="[生病]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]" data-recalc-dims="1">前者说思想有尊严，后者说棋下不过你但我感情比你丰富呀？什么逻辑？</p>
+<p><a href="http://weibo.com/sydliao" target="_blank">@贝克拉欧巴马</a><i title="微博达人"></i>：让你丫自大去吧，反正国内404<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@大贤凉師：日人民报不都是一帮人形傀儡吗？还和我们人类谈灵魂？程序出bug了吧</p>
+<p>@仁勇朴：好像你们会思想是的。亩产万斤的货也配谈思想。</p>
+<p>@军师巷：人民日报尊严在党性吧</p>
+<p>@茶香字海里默轩：思想的尊严是独立思考，互相尊重，说真话。</p>
+<p>@伦敦公墓：AlphaGo与李世石是人类思想的高光时刻；人民日报的存在是人类思想的龌蹉时刻</p>
+<p>@咖喱猴：这里很装逼的提到了帕斯卡尔，其实这个帕斯卡尔就是大气压强帕斯卡。帕斯卡：法国数学家，物理学家，哲学家………神学家。谢谢大家，再见</p>
+<p>@喝茶生活：别人在谈科技，你非要说尊严～</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%98%BF%E6%B3%95%E7%8B%97%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A-%E8%AF%B7%E6%82%A8%E6%A3%80%E9%98%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/?category=18271" rel="tag">人工智能</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">思想独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431424/" target="cdt-mirror">知乎｜如何评价新浪微博共青团「我恋爱了，和他」这条微博？</a>
 </h2>
 <p><p><strong>问题</strong>：如何评价新浪微博共青团「我恋爱了，和他」这条微博？</p>
@@ -123,7 +228,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bobs/?category=18271" rel="tag">bobs</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E4%B8%BA%E5%9F%BA%E7%A1%80/" target="cdt-mirror">自由亚洲｜张德江：中国国家安全法以中国特色为基础</a>
 </h2>
@@ -573,140 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/431267/" target="cdt-mirror">【图说天朝】大大点亮了心中不开窍的灯</a>
-</h2>
-<p><p>@shifeike：今年两会我最佩服的人就是向书记了，他去年两会西服革履，今年摇身一变换成这身绚丽夺目的阿拉丁神灯装，服装、表情、语言、眼神各元素都精益求精。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCpJ9kVAAA6zVw.jpg?resize=450%2C664" alt="CdCpJ9kVAAA6zVw" data-recalc-dims="1"></p>
-<p>不同场合图</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCvSxLUYAE-XIp.jpg?resize=500%2C333" alt="CdCvSxLUYAE-XIp" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCvSxLUYAE-XIp.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdCvSxLUYAE-XIp.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>幽壹：呵呵，厉害厉害。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4992b82ajw1f1pu26h0lyj20go0c9wfi.jpg?resize=500%2C367" alt="4992b82ajw1f1pu26h0lyj20go0c9wfi" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4992b82ajw1f1pu26h0lyj20go0c9wfi.jpg?resize=300%2C220 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4992b82ajw1f1pu26h0lyj20go0c9wfi.jpg?w=440 440w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>幽评员：好演员。</p>
-<p>wreckor：包子的正确吃法：舔着吃。</p>
-<p>zhongdao123：不同场景完全就是不同的人，装逼还是要向体制内的取经。</p>
-<p>yanqingPITTLin：謊言世界的成功人士。</p>
-<p>痞痞痞痞痞痞痞痞：还有什么理由笑话三胖。</p>
-<p>断桥独钓残雪：太感动了，大领导为国操劳，是人民的之福，国家之运！</p>
-<p>HeavenOrHell丶：都是逢场作戏罢了。</p>
-<p>草办二太阳：不怪奴才，怪主子。这些马屁言语得主子认可了才能播啊，正说明主子爱吃这一套。</p>
-<p>Star_Screamer：哎，咋还没人劝进呢？我都替你们急死了</p>
-<p>曼娜回忆录30：马屁也可以市场经济，有需求就有供给，这TM还引人竞争机制了！</p>
-<p>凡遇偶合：刚切好中饭好伐……</p>
-<p>小马过河-R：呵呵，大家演技都不错，今年发奖金喔~</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/431267/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">人大代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%94%E5%91%98/?category=18271" rel="tag">演员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E3%80%8B%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB/" target="cdt-mirror">精读党报 | 《疯狂动物城》里的政治</a>
-</h2>
-<p><p>看了标题，有的朋友可能有疑问，杜老师，你不会要从《疯狂动物城》里看权斗吧？</p>
-<p>答对了！</p>
-<p>先简单介绍下剧情吧，看过电影的可以直接跳过此段。</p>
-<p>（本文有剧透）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E.jpg?resize=550%2C302" alt="疯狂动物城" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/疯狂动物城.jpg?resize=300%2C165 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/疯狂动物城.jpg?w=670 670w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<blockquote><p>动物城是一个国家，常住居民为各类动物，有食草动物和食肉动物，它们和谐相处，因为有其他食物供应，食肉动物并不袭击、猎食食草动物，二者甚至还能通婚。</p>
-<p>动物城实行民主选举，有能力者上台执政。目前狮子是市长，羊是副市长。</p>
-<p>但羊不甘心做副市长，她要推翻狮子。羊采取的办法是，制造迷幻药，射入食肉动物体内，让其发狂，袭击食草动物，制造族群仇恨和对立，企图让动物城陷入动乱。</p>
-<p>狮市长采取的对策是，把发狂的食肉动物都秘密关押起来，向群众隐瞒事件。但不巧，被查案的兔警官撞破。</p>
-<p>此事曝光后，狮市长黯然下台。年轻稚嫩的兔警官在记者会上说，发狂的都是肉食动物，可能是它们的本性爆发。导致动物城陷入恐慌，食草、食肉族群尖锐对立。</p>
-<p>兔子警官反省自己的作为，认为自己不但没有让世界变得更美好，反而更糟糕了。一个偶然，得知动物食用一种花后会发狂，茅塞顿开，决定追查真相。</p>
-<p>在狐狸的配合下，查出策划这一切的，居然是羊副市长。二兽用计，拿到了羊副市长作案的证据，将其送上法庭。</p>
-<p>真相大白，发狂的动物得到救治恢复神智，动物城再次恢复了秩序。</p></blockquote>
-<p>读报君要说的，是以下四点：</p>
-<p><strong>一，国家、民族、阶级是政治属性，但肤色、地域、人种虽然是自然属性，但只要能被政治利（cao）用（nong），也是政治属性。</strong></p>
-<p>在动物城里，饮食习惯——食肉 or 食草，就被操弄成了政治属性。</p>
-<p>本来，食肉动物和食草动物没有本质区别，都是动物。狐狸小时候会犯浑，兔子也会咬人。年少无知、青春期的躁动、叛逆，并不专属于食肉动物或食草动物。</p>
-<p>这两种动物的区别，就像中国豆腐脑甜党和咸党一样，是一种多样性而已，而没有本质上的不同。</p>
-<p>读报君可以引用3月3日下午，俞正声主席工作报告里的内容来谈这个问题：</p>
-<blockquote><p>在人民政协，“同”是基础和前提，就是共同致力坚持和发展中国特色社会主义、实现中华民族伟大复兴的中国梦，这是我们团结奋斗的最大思想政治共识和最大公约数；“异”是客观现实和重要特征，政协委员来自方方面面，利益诉求、知识背景、社会阅历、生活方式等不尽相同，对某个具体问题的看法和认识总会存在差异。</p></blockquote>
-<p>食肉动物、食草动物的“同”，或者说“共同思想政治基础”，是“让这个世界更美好”。无论是狮子市长，还是兔子警察，抑或其他动物，都多次说过这句话。在这一点上，他们是一致的，也就是说，价值观是相同的。</p>
-<p>“异”，其实食肉，还是食草，这是一个饮食习惯问题，即“生活方式不尽相同”。</p>
-<p>但这种不同，却给政治势力操弄，提供了可能性。最终导致动物城内食肉动物和食草动物尖锐对立，几乎断送动物城的未来。</p>
-<p>现实中的人类政治，可比动物城丰富得多：</p>
-<p>本来都是美国人，却因为肤色问题，形成了种族歧视和压迫；</p>
-<p>本来都是台湾人，却被分成了“本省籍”、“外省籍”，政治势力就能煽动仇恨和分裂，从中取利。</p>
-<p>本来都是一样的公民，但一旦贴上“地”、“富”、“反”、“坏”、“右”的标签，那就成了“贱民”，处处低人一等；</p>
-<p>无论是“发动群众斗群众”，还是《1984》里的“仇恨日”，古今中外都一样。</p>
-<p>差异化、多样性本来是让这个世界丰富多彩的，但却被用来制造隔阂和对立，悲夫！</p>
-<p><strong>二，当权者是要维稳的；挑战者想破局，必然要搞事</strong></p>
-<p>动物城里接连出现了14个动物发狂失踪案，且都是食肉动物。</p>
-<p>读报君把这个事件称之为“发狂-失踪”案。因为这是两码事。“发狂”，是羊副市长策划的；“失踪”，是狮市长采取的对策。</p>
-<p>狮子市长，是动物城的最高领导人，来自食肉动物，能力强，但它是少数派。</p>
-<p>羊副市长，是狮子市长的副手，来自食草动物，是多数派。她认为，狮子之所以任命她为副市长，是为了争取食草动物的选票。</p>
-<p>大家注意一个事实：动物城是一个民主政体，领导人通过选票上台。</p>
-<p>羊副市长不甘心做副手，想取代狮子成为市长，但如果只是比拼政治纲领，似乎信心不足。毕竟羊看上去很小，也不像很有能力的样子，虽然食草动物数量占优势，但由于在动物城，共同的思想政治基础是——食肉、食草动物没有本质区别，投票时，食草动物不会因为羊食草就投票给她。</p>
-<p><strong>成熟的民主社会，理性的选民已经超越了最简单的自然属性，是要看政纲或者参选人的魅力的。</strong>白人也会投票给奥巴马，台北市民也会投票给蔡英文。像2004年台湾南部农民“含泪也要投阿扁”的情况越来越少。</p>
-<p>那如果让食草动物对食肉动物完全失去信任并且持有戒心呢？</p>
-<p>这就是羊副市长做的，让食肉动物发狂，袭击、猎食食草动物，制造族群对立、煽动仇恨。</p>
-<p>当食肉动物发狂案例出现后，狮子市长被动接招，把这些发狂的动物秘密关押起来。然后封锁消息，以免不明真相的群众被煽动，导致社会不稳。</p>
-<p>换位思考，很多人可能都会和狮子市长采取同样的措施。不过，“捂盖子”也暴露了一个问题，即<strong>狮市长内心深处其实既对食肉动物缺乏自信，又对食草动物有信任。</strong>因此，只能是被动“维稳”。</p>
-<p>读报君可以判断，狮子市长肯定清楚，这件事绝对不是意外，而是一场阴谋，其目标正是自己。它甚至知道，幕后主谋就是羊副市长，但是，没有证据，也不知道具体原因，无法下手。唯一破局的办法，就是先把这些发狂的食肉动物控制住、关押起来，以换得时间，尽快查清楚真相。</p>
-<p>从狮市长在收容所气急败坏来看，在已经出现了14起发狂案例的情况下，它仍未查清案情，也没有好的对策。</p>
-<p>羊副市长也知道，她制造的发狂动物，都被狮市长被秘密关起来了。但她占据主动，可以从容不迫地<strong>继续制造更多食肉动物发狂案，再去煽动它们的家属去报案，去上访，去闹事。</strong>制造问题——左右开弓——围猎市长。</p>
-<p>因此，狮市长必败无疑。</p>
-<p><strong>三，警察姓狮至关重要</strong></p>
-<p>狮子市长能不能不败？能，“警察姓狮”即可。</p>
-<p>刚才说了，动物城是一个民主政体，领导人上台是要靠选票的。民主政体的一个特点是——军队国家化。在动物城中，军队就是警察，其职责是维护动物城的秩序和每一个动物的安全。市长违纪违法就抓市长，副市长违纪违法就抓副市长。它是中立的。</p>
-<p>前面说，系列动物发狂案，狮子市长肯定清楚，这件事绝对不是意外，而是一场阴谋，其目标正是自己。它甚至知道，幕后主谋就是羊副市长。但是，没有证据，也不知道具体原因，只能被动接招——发狂一个，关押一个，发狂一个，关押一个。</p>
-<p>如果警察姓狮，绝对忠诚，听狮指挥，而且是唯一的、彻底的、无条件的忠诚，狮叫干什么就坚决干，狮不允许干什么就坚决不干。那就太简单了，先把羊副市长双规即可，查她！非法收受青草；利用职务便利为他兽谋取利益；违反动物城道德，与犀牛通奸；妄议狮子市长……总能找出几条罪名吧。</p>
-<p>更重要的是，只要双规了羊副市长，调查她的周边关系、通话记录，很快就能抓到那几个制造迷幻剂的羊同伙。动物城系列失踪案也就告破了。我们相信，一旦案情公布，全城动物都将谴责批判羊副市长。</p>
-<p>搞不好还会看到这样一幕：冰川区、热带雨林区、沙漠区的动物，都会先后表态，坚决拥护动物城查处羊副市长这个“口言善、身行恶”的“城妖”，更加紧密地团结在狮市长周围。</p>
-<p><strong>四，如果羊副市长得逞，动物城的未来会是怎么样</strong></p>
-<p>这是一部正能量的电影，正义最终战胜了邪恶，虽然只靠一个录音笔，而且是一个兔子 + 一个狐狸完成的。</p>
-<p>那正义如果没胜呢？如果羊副市长继续策划食肉动物发狂案，那动物城的政治发展，会是什么路径呢？</p>
-<p>读报君开开脑洞，会是这样：</p>
-<p>由于狮市长已垮台，发狂的食肉动物不会再被关押起来，它们将游走在动物城，袭击食草动物，造成全城恐慌，食草、食肉族群尖锐对立。</p>
-<p>这种尖锐对立出现后，食草、食肉族群不再彼此信任，族群隔离、互相戒备。</p>
-<p>极端情况下，即便没有被注射迷幻剂，食肉、食草动物也会彼此袭击。就像太平洋大逃杀的那艘渔船，只有杀死对方，自己才会安全。</p>
-<p>羊副市长占据行政资源，代行市长之职，可以利用食草动物的恐慌，聚集选票，循民主路径，当选市长。</p>
-<p>但一个为了市长职位，不惜撕裂族群、制造仇恨的政客，绝对不会甘心就此罢休。</p>
-<p>我们很难指望羊市长去推动族群和解。族群和解，羊市长的执政基础就没了，下一次能否连任，很难。一旦食肉动物再次上台，启动真相调查，羊市长就是罪人，就要入狱。</p>
-<p>为了维持统治，羊市长必须要持续制造、利用食肉和食草的对立，来巩固自己的执政地位。</p>
-<p>因此，动物城的未来只有两个：</p>
-<p>一是独裁，羊副市长江山永固，执政到死。食肉动物被戴上铁口罩，或被隔离起来，沦为政治贱民。</p>
-<p>二是内战。食肉动物与食草动物爆发战争。要么一方彻底消灭一方，要么动物城一分为二。</p>
-<p>无论哪种未来，动物城都将倒退300年。</p>
-<p>因此，读报君想说的是：多样性是这个世界本来的样子，它让这个世界变得丰富多彩。<strong>差异化不应该成为被操弄的对象，成为制造对立、煽动仇恨的工具。</strong></p>
-<p><strong>对于任何企图这么干的政治势力，我们都当警惕。</strong></p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E3%80%8B%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E6%96%97/?category=18271" rel="tag">权斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">民主社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E/?category=18271" rel="tag">疯狂动物城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E5%8F%91%E6%96%87%E6%8F%AD%E9%9C%B2%E5%BD%93%E5%B1%80%E5%AF%B9%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5%E8%A2%AB%E5%88%A0%E9%99%A4/" target="cdt-mirror">BBC｜“财新”发文揭露当局对新闻审查被删除</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png" rel="attachment wp-att-431263"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=475%2C567" alt="caixin" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=251%2C300 251w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=768%2C917 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?resize=858%2C1024 858w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/caixin.png?w=2092 2092w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
-（财新原文谷歌<a href="http://webcache.googleusercontent.com/search?q=cache:e3uFMXh5qNMJ:english.caixin.com/2016-03-07/100917276.html">缓存页</a>截图）</p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%92%8B%E6%B4%AA%EF%BC%9A%E4%BF%9E%E4%B8%BB%E5%B8%AD%E8%AE%B2%E8%AF%9D%E5%BC%BA%E8%B0%83%E5%8C%85%E5%AE%B9%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81-%E4%B8%8D%E7%90%86%E8%A7%A3%E5%8F%91%E8%A8%80%E8%A2%AB/">蒋洪：俞主席讲话强调包容不同意见 不理解发言被屏蔽</a></p></blockquote>
-<p>中国著名新闻人胡舒立领导的新闻机构对中国审查制度以及遏制言论自由发出警示，该报道发出后不久被删。</p>
-<p>《财新》旗下英语网站周一（3月7日）发表文章，就此前《财新》中文网刊发的一篇文章遭当局删除表示异议，该英文报道复述了“政协顾问要求言论自由的评论被从财新网上摘除”一事，并直言中国国家互联网信息办公室是“政府新闻审查机构”。</p>
-<p>这篇英文报导文章目前也已被删除。</p>
-<p>《纽约时报》记者傅才德（Michael Forsythe）的这篇报道说，中国的互联网监管机构删除的是《财新》中文网3月3日的一篇文章，当局说文章含有“非法内容”。</p>
-<p>这篇文章采访了政协委员、上海财经大学教授蒋洪，文章题为《蒋洪委员：我的两会言论被指违法违规“太可怕”》，该文引用蒋洪的话说，政协委员应该能够对中共领导人自由发表意见。</p>
-<p>目前北京正在召开政协和人大会议。《财新》的这篇英文报道在结尾处还引述全国政协主席俞正声在开幕当天的讲话说，“要鼓励政协委员履行民主监督职能，探索民主监督的有效形式，支持他们反映群众诉求，提出批评意见，帮助党和政府改进工作。”</p>
-<p>《财新》中文报道引用蒋洪的话说，“只不过，受某些事件的影响，现在公众也都有点迷茫，希望少讲些话，气氛是这样。”不过蒋洪没有说明某些事件指的是什么。</p>
-<p>《纽约时报》记者傅才德在文章中说，中国新闻媒体发文公开政府对新闻媒体的审查十分罕见，特别是就在不久前习近平高调视察了包括中央电视台、新华社等国家主要媒体。</p>
-<p><strong>言论</strong></p>
-<p>最近中国国家互联网信息办公室关闭了拥有大约3800万粉丝的地产富商公众人物任志强的微博账号。之前在中国国家主席习近平视察国家媒体要求“媒体姓党”后，任志强批评了中共对新闻媒体的控制政策。</p>
-<p>任志强在微博写道，“人民政府啥时候改党政府了？花的是党费吗？”他还说，“彻底的分为对立的两个阵营了？当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了！”</p>
-<p>《财新》传媒的总编是胡舒立，她在中国新闻界声望很高。《纽约时报》的这篇文章说，胡舒立十分清楚批评政府政策和揭露腐败的报道能够被容忍的底线。文章还引述2005年采访胡舒立的话说：“我们会接近这条线——甚至可能去挑战它。但我们从不跨越它。”</p>
-<p>傅才德说，最近中共似乎对于任何质疑其控制媒体的人，无论知名度多高，都会被果断处置。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E5%8F%91%E6%96%87%E6%8F%AD%E9%9C%B2%E5%BD%93%E5%B1%80%E5%AF%B9%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5%E8%A2%AB%E5%88%A0%E9%99%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0/?category=18271" rel="tag">财新</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -718,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -728,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

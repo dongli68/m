@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%9B%9E%E5%BA%94%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%AD%E6%96%87%E5%B8%90%E5%8F%B7%E8%A2%AB%E5%88%A0/" target="cdt-mirror">BBC | 中国网信办回应《南华早报》中文帐号被删</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160311142018_scmp_wechat_439x549_scmpwechat_nocredit.jpg?resize=304%2C380" alt="微信历史发布显示，《南早》最后一次发送微信内容是星期一（3月7日）。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160311142018_scmp_wechat_439x549_scmpwechat_nocredit.jpg?resize=240%2C300 240w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160311142018_scmp_wechat_439x549_scmpwechat_nocredit.jpg?w=304 304w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1"><p>微信历史发布显示，《南早》最后一次发送微信内容是星期一（3月7日）。</p></div>
+<p><strong>中</strong><strong>国互联网管理部门表示，互联网信息服务提供商对网上内容负责且有权关闭网站。</strong></p>
+<p>中国国家互联网信息办公室周五（3月11日）在就香港英文《南华早报》的新浪微博和微信帐号被封以及《财新》旗下英文网站一篇有关中国审查制度被删时做出上述表示。</p>
+<p>网信办在发送给路透社的一份传真中说，依照法律，网信办有根据法律进行网络信息管理和监督的执法责任。</p>
+<p>这一声明还说，互联网服务提供商对任何违法和有害内容的网络帐户的负有主要责任，并有权依照相关法规以及其用户“服务协议”采取行动，包括暂时停止使用和取消注册。</p>
+<p>《南华早报》至今未报道其中文微博、微信帐户被删的消息。路透社说，《南早》新闻公关部门连续两天都没有回复他们提出的询问。</p>
+<p>新浪和腾讯微博也均没有做出答复。</p>
+<p>目前，尚不清楚是什么导致了《南早》中文帐户被删。</p>
+<p><strong>审查</strong></p>
+<p>中国国家主席习近平针对互联网展开前所未有的控制，审查与党中央口径不一致的言论和观点。</p>
+<p>《南华早报》最近数周报道了5名香港书店所有者失踪后在中国出现的消息。</p>
+<p>《南华早报》是香港发行量最大的英文报纸，其新闻水准一直受到好评，尤其是对中国事务和政治的报道见长，成为了解中国不透明政界的一个窗口。</p>
+<p>该报也是最早爆料前中共中央政治局常委周永康被软禁的媒体之一。</p>
+<p>BBC中文网周三（3月9日）尝试点击《南华早报》微博，显示“您当前访问的帐号异常，暂时无法访问”。</p>
+<p>点击《南早》微信帐户内容，也被告知“此帐号已被封，内容无法查看”。这似乎说明，该帐户并非暂时被屏蔽，而是完全被删。</p>
+<p>微信历史发布显示，《南早》最后一次发送微信内容是星期一（3月7日）。</p>
+<p>有报道说，其最后一次发布微博信息也是星期一。由此，《南华早报》在中国内地的中文平台被“全线封杀”。</p>
+<p>据熟悉内情的前《南早》人士透露，《南早》中文网亦在中国大陆被屏蔽，让“两年多的努力和辛苦付诸东流”。</p>
+<p>《南早》中文网于2013年4月开通，除翻译《南早》英文报道之外，也采写发表一些原创中文报道。</p>
+<p>虽然英文网站虽暂未被封，但运行时断时续，尤其是2014年香港“占领中环”运动之后。</p>
+<p>周二（3月8日），中国内地声望较高的《财新》旗下英语网站的一篇对中国审查制度提出批评的文章在刊出不久后被删。</p>
+<p>此前《财新》中文网刊发题为《蒋洪委员：我的两会言论被指违法违规“太可怕”》。该文引用蒋洪的话说，政协委员应该能够对中共领导人自由发表意见。该文被中共当局指责“违法违纪”，最后也被删除。</p>
+<p>除了媒体，个人帐户也是中国审查机构针对的目标。</p>
+<p>最近中国国家互联网信息办公室关闭了拥有大约3800万粉丝的地产富商公众人物任志强的微博账号。之前在中国国家主席习近平视察国家媒体要求“媒体姓党”后，任志强批评了中共对新闻媒体的控制政策。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%9B%9E%E5%BA%94%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%AD%E6%96%87%E5%B8%90%E5%8F%B7%E8%A2%AB%E5%88%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BC%8C%E7%BD%91%E4%BF%A1%E5%8A%9E%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8C%E5%AE%A1%E6%9F%A5%EF%BC%8C%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">南华早报，网信办，习近平，审查，言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9C%899%E4%BA%BF%E9%80%89%E6%B0%91-%E7%BD%91%E6%B0%91%E8%AF%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E9%80%89%E7%A5%A8/" target="cdt-mirror">美国之音｜张德江称中国有9亿选民 网民说没见过选票</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg" rel="attachment wp-att-431450"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg?resize=400%2C585" alt="梁树新" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?resize=205%2C300 205w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>（2011年，广州番禺区丽江街道居民梁树新以独立参选人的身份参加人大代表选举；<a href="http://chinadigitaltimes.net/chinese/2011/08/%E8%AF%91%E8%80%85-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%EF%BC%9A%E7%8B%AC%E7%AB%8B%E5%80%99%E9%80%89%E4%BA%BA%E6%A2%81%E6%A0%91%E6%96%B0%E6%9C%AA%E8%83%BD%E9%80%9A%E8%BF%87/">他最终未能通过提名</a>。）</em></p>
@@ -127,7 +161,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%A2%93
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/?category=18271" rel="tag">人工智能</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">思想独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431424/" target="cdt-mirror">知乎｜如何评价新浪微博共青团「我恋爱了，和他」这条微博？</a>
 </h2>
@@ -304,7 +338,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9D%E8%BF%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%8D%AF/?category=18271" rel="tag">春药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C/?category=18271" rel="tag">校园欺凌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">社会公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B1%BB%E4%BA%BA%E5%AD%A9/?category=18271" rel="tag">类人孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%BC%BA%E9%99%B7/?category=18271" rel="tag">精神缺陷</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8B%AC%E5%AE%B6%E8%A7%A3%E7%A0%81%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E4%B8%BA%E4%BD%95%E7%A6%BB%E4%B8%8D%E5%BC%80%E5%B0%8F%E7%BB%84%E9%95%BF/" target="cdt-mirror">端传媒 | 独家解码：中国政治为何离不开“小组长”？</a>
 </h2>
@@ -637,47 +671,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/431275/" target="cdt-mirror">凤凰资讯｜41家公益组织就“高三女生被下药”发联署声明</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg" rel="attachment wp-att-431278"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg?resize=400%2C266" alt="f55771028946f41" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/f55771028946f41.jpg?w=400 400w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><strong><br>
-作者：许晔</strong></p>
-<p>近日，一名黄山市高三女生被同班同学下春药的消息引起广泛关注。3月8日，41家关注性少数、女性和青少年教育议题的公益组织就此事发表联署声明。</p>
-<p>近日，一名黄山市 高三女生被同班同学下春药的消息引起广泛关注。3月8日，41家关注性少数、女性和青少年教育议题的公益组织发表联署声明，要求涉事的田家炳中学，黄山市 公安公开后续措施与更多详细信息，并呼吁全社会关注校园霸凌，教育机构建立反霸凌机制，并鼓励校园霸凌受害者站出来，投诉暴力行为。</p>
-<p>3月5日，该位女生在贴吧上发帖，称因自己是同性恋而被同班同学下春药，三人对其有言语侮辱。经媒体曝光后，此事件在网络上引起舆论哗然。随后，涉事女生删去了博文，并称已经接受了涉事男生的道歉。</p>
-<p>此事在网络曝光发酵后，当地教育部门与学校并未作出任何正面回应。据媒体此前报道，有知情者称，当地教育部门领导曾在会上嘱咐不要接不熟的电话，”特别是外地号码”。</p>
-<p>3月6日，黄山公安官方微博回应称：”调查已经结束，双方经协商达成一致，涉事同学已向当事人道歉并取得谅解，学校将根据校规对涉事学生做进一步严肃处理。”在此微博的结尾，祝愿涉事双方及其同班同学”在高考中，取得优异成绩！”</p>
-<p>这样的处理结果并未得到公众的认可。有人在此条微博下留言嘲讽：”预祝歧视同性恋、给同学饮料里下春药、并威胁使用砒霜的高三男生高考中取得优异成绩。”</p>
-<p><strong>“公安不能和稀泥”</strong></p>
-<p>“公安当然要依法行政，肯定不能是这样和稀泥的。”参与联署活动的新媒体女性网络负责人李思磐说。她对目前公安的处理结果表示不满：”这种伤害行为到底是否构成刑事犯罪？是否立案了？你到底做了什么样的处理？我们都不清楚。在目前案情不清楚的情况下，对这种大家都认为是非常严重的行为，公安竟然就是用这种息事宁人的方式来解决的，也没有对他们进行任何形式的训诫，竟然还要祝双方高考顺利。”</p>
-<p>声明中，多家公益机构要求黄山市警方”更加详细地公开相关加害人年龄、加害手段、目的和加害后果等信息，向公众证明对此案的处理是符合我国法律规定的。”</p>
-<p>此事发生后，同为公安的微博红人@警察蜀黍对黄山市公安的回应打了”负分差评”：”保护未成年人不是没有底线的，警方调查应该回应几个最基本的疑点：到底下东西了没有？如果确实有下，下的是什么东西？当事人说是’恶作剧’，到底发生了什么事情？这些都是官方回应应该说明的东西。你啥都不说就一个劲’好好学习呦’，这锅你不背谁背？”</p>
-<p>每当国内有校园霸凌事件发生时，公众总会提及2015年三名中国留学生在美国凌虐同胞案，三名加害者分别被判刑13年、6年和10年。担任其辩护律师的邓洪在接受中国媒体采访时表示：”在美国，如果涉及校园暴力案件的青少年未满十八岁，法院会通过辅导警告的方式告知学生，霸凌是不能被容忍的；如果后果严重并且有前科，即便未满十八岁，也可以当作成年人刑事案件审理，按成人犯罪定案、量刑。”</p>
-<p>李思磐说，台湾曾发生过更为恶劣的校园霸凌致死案件。被称为”玫瑰少年”的叶永鋕因个性女性化，常遭到校园暴力，2000年他在学校厕所意外身亡。此事件促成了台湾性别平等教育相关法律的通过。”大陆不仅仅是针对性别友善立法的问题，还有刑法对未成年的部分，并没有考虑对行为的遏制，而是对年龄划定界限，这个已经是被很多人认为是不对的。如果一个未成年人充分知道自己行为的后果或者性质，哪怕他年纪再小，他知道春药是干什么的，他也知道会有什么后果，那他就应该为此负责。”<br><strong><br>
-“这是犯罪，不是玩笑”</strong></p>
-<p>同城青少年资源中心负责人陈杜认为，目前国内的学校、家长、乃至学生群体普遍把校园霸凌行为视为”同学之间的玩笑”，都没有将其上升至对个人的侮辱和暴力。”都会觉得’这就是同学之间开的玩笑，你也不用那么在意啦’，’你不要跟他玩就是了，你不要理他就可以啦’，他没有意识到这其实就是犯罪，因为这件事涉及到下药了。”</p>
-<p>这家同样参与联署的公益组织曾在2012年对校园霸凌行为做过网络调查。调查结果显示，在接受问卷调查的421名学生中，有77%的人都曾经遭受到与性别身份、性取向相关的校园欺凌。42%的调查对象曾有过抑郁，26%的人容易愤怒，且有报复心理。然而遭遇到校园霸凌后，只有33%的被调查者寻求过外界支持，他们中大多 数更倾向于向同伴倾诉。</p>
-<p>陈杜向凤凰网举了个例子。他们曾经接触到一个案例，受害者是一名跨性别学生，生理性别为女。他曾在初中与同寝室的 女生发生矛盾和冲突，有天晚上，他被几位女生堵在寝室里，被迫当众洗屁股。加害者还进行言语嘲讽：”看吧，就算是性变态也得学会当好女生的。”这名学生没 有寻求老师或同学的帮助。</p>
-<p>黄山高三女生被下药事件在网上发酵后，该名女生和部分网友贴出了学校QQ群、微信群和论坛讨论的纪录截图，有该校学生发言称，”女孩做事太绝”，”你（指加害者）有一个班的人在后面支持你”等。</p>
-<p>“我们常常认为校园霸凌只有单方面，比如一对一，或是多对一，但这次其实是整个学校都在参与。校园霸凌，除了施暴者之外，还有附和者，纵容者和旁观者，这三类人其实扮演了很重要的角色，他们会影响氛围，影响到施暴者的行为。学校到现在没有表态，没有展开后续的教育活动，这种冷漠其实是在纵容学生们，比如有人扬言要去外校打她之类的。”陈杜说。</p>
-<p>联署的公益机构在声明中写道，要求涉事的学校公布后续处置措施，让加害者公开道歉，并”重新制定反对校园霸凌的有效措施、应对机制及完善的救助方法,并向全校师生进行普及教育、向全体家长及社会各界进行公开。”<br><strong><br>
-霸凌根源：不理解差异不尊重少数</strong></p>
-<p>校园霸凌现象在全世界普遍存在，无论是发展中国家，还是发达国家。1982年至2001年间，在美国发生的28起校园枪击案中，几乎所有行凶的男生都曾遭遇 过校园霸凌，他们因为不擅长体育运动、过于内向而被视为同性恋者，即便他们性取向并非如此。2011年的一份调查显示，在加拿大，64%的性少数群体学生，以及61%父母是性少数群体的学生都报告说，她/他们在校园中深陷险境。</p>
-<p>陈杜认为，校园霸凌的根源在于学生对差异的不理解与不尊重， 尤其是在性别方面。”在中学的时候，学生对于性别的概念正在建构和强化中，男人应该怎么样，女人应该怎么样。学校缺少对性别的讨论和教育，所以大家对性别 是有一个标准化的理解的，当看到某些人跟自己不太一样的，就觉得他是少数的、不合群的，甚至是变态的。”</p>
-<p>他认为这类恶性事件与近期”女生节”性骚扰横幅的价值逻辑有一定类似性：”我们对性别的理解都是缺乏想象的，都是一个标准的，就是觉得女生应该是柔弱的。有独立人格，要求平等权利的女性，她未必符合这种单一的想象，作为一个性少数的年轻人，也是未必符合社会的想象，这就是为什么说学校里的性别教育是很重要的，但在中国，这都是一片空白的。”</p>
-<p>中山大学副教授柯倩婷有着类似的观点：”学校对于性少数的讨论和教育非常少，有些人可能对性少数群体没有了解，之后就会缺少对这种性少数群体的尊重。”</p>
-<p><strong>黄山官方回应：3名男生给予记过或警告处分</strong></p>
-<p>3月8日，黄山市教育局发布官方微博，对“高三女生被下药”事件作出回应。</p>
-<p>该 微博称，经过调查，事件中的“药品”是涉事男生2015年4、5月间在某成人保健品店所获赠品（该店系外地人经营，因拆迁于2015年下半年关闭，药店经营业主已离开屯溪）。今年3月3日在教室晚自习休息期间，该男生先将部分药品倒入某男同学水杯，被发现后其自行喝下，见无任何反应，遂将剩余部分倒入当事女生饮料瓶中，该女生在不知情的情况下将其喝下，次日经同学告知该“药品”外包装标有“18岁以下女性慎用”字样，即向班主任反映。班主任立即约谈涉事男生及其家长。与此同时，公安部门也介入事件调查，认定不构成立案条件。随后，学校依校纪校规对3名涉事男生分别给予记过或警告处分。目前涉事双方已达成谅解。</p>
-<p>黄山市教育局在微博中表示：“我们在处理该事件上没有任何回避和包庇行为，相关调查报告已及时上报上级主管部门。”</p>
-<p>在此微博的最后，黄山市教育局呼吁“社会各界和新闻媒体客观理性地看待这一问题，尤其不能未经调查核实就对当事女生随意冠以’同性恋’等字眼，这会给她带来更大的二次伤害。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/431275/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C/?category=18271" rel="tag">校园霸凌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -699,5 +692,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

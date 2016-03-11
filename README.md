@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%9C%9F%E9%97%B4vpn%E5%A4%B1%E7%81%B5-%E7%BD%91%E6%B0%91%E7%BF%BB%E5%A2%99%E9%9A%BE/" target="cdt-mirror">自由亚洲｜中国“两会”期间VPN失灵 网民翻墙难</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg" rel="attachment wp-att-431411"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg?resize=575%2C324" alt="188f1603-88b4-47fa-be49-53b40e1a0a56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/188f1603-88b4-47fa-be49-53b40e1a0a56.jpeg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>国际VPN运营商称在中国的服务受限。(网页照)</p></div>
+<p>中国全国人大及政协“两会”在京举行期间，当局全面提升网络“防火长城”对境外网站的屏蔽，导致翻墙软件失效、VPN也无法连接境外服务器。国际知名VPN运营商Astrill日前在推特上表示，由于北京召开政治会议，当局的审查力量加大，针对使用VPN受限问题，目前仍有待解决。另外，3月10日是中国新颁布的《网络出版服务管理规定》实施首日，国家广电总局相关负责人就此回应了媒体查询。</p>
+<p>香港英文《南华早报》3月9日报道，中国当局在“两会”期间，正全面打压躲避“防火长城”的翻墙行动，并且屏蔽境外网站以收紧信息审查。许多使用“虚拟专用网络”（VPN）服务的用户受到干扰，流量信号也发生中断。国际知名VPN运营商Astrill日前在推特上表示，由于北京召开政治会议，当局的审查力量加大。而针对使用VPN受限问题，该公司表示目前仍有待解决。据报道，VPN服务自3月3日，中国全国政协会议开幕当日即在境内全面失灵。目前，已有至少四家知名VPN服务商，包括中国的“逍遥VPN”通报了系统中断或网速骤减等状况。</p>
+<p>经常使用“翻墙”软件的广州网民贾榀3月10日对自由亚洲电台记者表示：“我之前用的赛风软件，以前很好用，没有出过什么问题。但是这一个多星期，基本上翻不过墙，包括其他的VPN也是不好用。尤其在广州，翻墙难的现象更加严重”。</p>
+<p>记者：其他朋友有没有遇到跟您一样的情况？</p>
+<p>回答：有，很多朋友都在说。而且我的身份证不能在网上进行订票，必须到售票窗口人工买票。我估计这是两会期间针对性的一些屏蔽，这个是我之前没有出现过这个情况的。</p>
+<p>广州网民刘四仿也遇到同类情况，他说：“我这边也是受到一些影响，但是还算勉强能使用，因为我有几个VPN，可以切换用。但VPN连接的代理服务器要么是很难连上，要么就是经常断。”</p>
+<p>记者：用赛风翻墙软件，有没有遇到问题？</p>
+<p>回答：赛风从去年（2015）年尾的时候，受到攻击，比较难用。</p>
+<p>有国际VPN运营商称，自3月1日开始，上海、北京等地都无法使用VPN服务。也有一些中国的服务商如“逍遥VPN”也报称出现服务中断。</p>
+<p>2015年初开始，中国的“防火墙”开始屏蔽VPN服务，VPN服务商也在提高其突破防火墙的能力。一年来，各自不断提升“攻”“防”能力。不过，近期多个VPN联网工具失效，可见中国的“防火墙”功能大幅度提升。</p>
+<p>“两会”期间在北京被软禁的武汉商人徐崇阳10日告诉本台，他也很难“翻墙”上境外的网站：“现在紧得让人透不过气来，我是上不了网，进去了（网站），看一会就断（网）了。他们现在用各种各样的方式来控制”。</p>
+<p>近期，网上也增加了不少“翻墙”软件及讲授“翻墙”技巧的文章，告诉网民如何绕过“防火墙”。对此，网民刘四仿说：“现在有比较多民间开发的免费的小软件，其实挺多的。我相信会越来越多的。因为人类向往自由，这个事实在互联网是不可屏蔽的。当局的这种做法也非常愚昧”。</p>
+<p>3月10日是中国新颁布的《网络出版服务管理规定》实施首日。《中国新闻出版广电报》9日引述中国国家广电总局的相关负责人称，开设微博、微信公众号等所谓自媒体的个人或者机构，按照现行标准，属于信息内容的创作者或生产者，不需要获得许可。又称，网络出版服务同图书、报刊、音像制品和电子出版物出版一样，属于国家明确禁止外商投资从事的行业。</p>
+<p>（特约记者：乔龙；责编：石山、何平）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%9C%9F%E9%97%B4vpn%E5%A4%B1%E7%81%B5-%E7%BD%91%E6%B0%91%E7%BF%BB%E5%A2%99%E9%9A%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=18271" rel="tag">VPN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BDvpn%E9%81%AD%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">外国VPN遭屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E7%99%BD%E5%A4%B4%E5%8F%91/" target="cdt-mirror">苹果日报｜李平：总书记的白头发</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/baifa.jpg" rel="attachment wp-att-431408"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/baifa.jpg?resize=575%2C323" alt="baifa" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/baifa.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/baifa.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>深色西装、红色领带、一头黑发，过往一直是中共领导人出席两会的标准形象。BBC曾调侃：“在中共最高层，领导人似乎利用染发剂在消除着彼此之间的（年龄）差别。”不过，中共总书记习近平今年参加上海代表团会议时，打的是灰色领带，而且没有把头发全染黑。</p>
+<p>上海团代表朱雪芹前日在央视节目中说，以前觉得习近平的头发非常黑，但这次“我发觉总书记的白头发多了一点”。习近平一改变领导人的标准形象，央视就立刻罕有地对领导人品头论足，为的是带出代表的这句话：“因为我们国家这么大，他要管各种各样的事情也应该非常辛苦的。”</p>
+<p>显然，中共领导人无论是染黑发或者露白发，不只是个人形象问题，更是政治需要、政治宣传的问题。其中的典型事件，一是温家宝2008年到四川指挥大地震救援时，报道称他“满头头发在五天内已半白，可见忧虑之深”。其实，温家宝不是一日愁白头，而是没有时间染发，媒体过度吹捧，反伤温形象。</p>
+<p>二是2012年中共举行十八大时，前总理朱镕基独树一帜的一头白发，不只破了主席台的传统，也让人回想起他在《朱镕基上海讲话实录》一书透露的一个细节：当年到上海出任市长只是短短的三个月，白头发就比任何时候都多，而江泽民则预言一年之内朱镕基的头发全部变白。朱镕基的白发，也被外界视为他不像其他元老那样刻意展示健康和影响力。</p>
+<p>三是去年6月，前政治局常委、中央政法委书记周永康出庭受审时竟变白头翁，不见了过往油光发亮的一头黑发，替他博得不少同情分。当然，海内外舆论也不忘调侃，周永康没了受贿的官职，不至于连染发剂也买不起了吧？</p>
+<p>中国历史上从来不乏政治人物的染发故事，南唐皇帝徐知诰、宋朝宰相寇准，都曾服药让须鬓染霜，以显老成压众。而在汉朝篡位称帝的王莽“欲外视自安，乃染其须发”，则是把白发染黑。其实，“高堂明镜悲白发，朝如青丝暮成雪”是自然规律，政治人物为“外视自安”而改变白发或黑发形象，也不足为奇，但姓党的传媒把染黑发赞为有活力、露白发赞为有人性或为党国操劳，未免贻笑大方。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E7%99%BD%E5%A4%B4%E5%8F%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431404/" target="cdt-mirror">德国之声Bobs最新动态</a>
 </h2>
 <p><p>一个由各国知名互联网专家组成的国际评审团从今天开始将评估2016年Bobs新媒体大赛的推荐作品。Bobs是德国之声的网络行动派大奖。来自全球14个国家的评委充满激情，将选出此次大赛的最终候选作品。今年是德国之声DW第12次奖励那些努力促进言论自由和公民社会建设的个人。德国之声还将颁布言论自由奖。</p>
@@ -649,87 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%85%AB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8A%A5%E9%81%93%E7%9A%84%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5/" target="cdt-mirror">【真理部】关于今年（2016）两会报道的重要通知</a>
-</h2>
-<p><p>宣传部重要通知（21条）</p>
-<p>1，做好习近平参加政协联组会的报道，重点做好反响报道</p>
-<p>2，稳增长栏做好典型报道</p>
-<p>3，不报医患纠纷</p>
-<p>4，不报两会安保</p>
-<p>5，不报释永信参加政协会信息</p>
-<p>6，不报两会新闻发布会幕后相关信息，如美女翻译等</p>
-<p>7，不报代表委员个人财富问题。</p>
-<p>8，不报国防预算问题</p>
-<p>9，不报殡葬改革问题</p>
-<p>10，不报公民权利和政治权利国际公约</p>
-<p>11，不报如浙江拆除违规宗教场所等涉及宗教敏感问题</p>
-<p>12，涉及腐败报道用新华社稿件</p>
-<p>13，内蒙呼格案用新华社稿件</p>
-<p>14，不报不愿学雷锋问题</p>
-<p>15，严控新媒体负面报道</p>
-<p>16，涉台涉朝使用新华社报道</p>
-<p>17，西藏代表戴习近平像章一事用新华社稿件</p>
-<p>18，不报雾霾问题</p>
-<p>19，不报楼市，汇市，股市，交通拥堵，号贩子负面报道</p>
-<p>20，不报代表委员国籍问题，不拿提案议案开玩笑</p>
-<p>21，各媒体加强在京记者管理，一切行动听指挥。</p>
-<p>－2016年3月6日</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p> </p>
-<p> </p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E5%85%B3%E4%BA%8E%E4%BB%8A%E5%B9%B4%E4%B8%A4%E4%BC%9A%E6%8A%A5%E9%81%93%E7%9A%84%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E5%A5%B3%E6%9D%83%E4%BA%94%E5%A7%90%E5%A6%B9%E4%B9%8B%E6%9D%8E%E5%A9%B7%E5%A9%B7%EF%BC%9A%E6%88%91%E7%8E%B0%E5%9C%A8%E5%BE%88%E6%B8%A9%E5%92%8C/" target="cdt-mirror">BBC | “女权五姐妹”之李婷婷：我现在很“温和”</a>
-</h2>
-<p><p><strong>一年前的“国际妇女节”前夕，中国的“女权五姐妹”被一一逮捕。李婷婷也是其中之一。</strong></p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/151203063325_li_tingting__640x360_bbc_nocredit.jpg?resize=600%2C337" alt="李婷婷说现在不温和，没有办法做事。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/151203063325_li_tingting__640x360_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/151203063325_li_tingting__640x360_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>李婷婷说现在不温和，没有办法做事。</p></div>
-<p>5人被刑事拘捕的消息引起国际社会的关注和谴责后，2015年4月，5人先后均获释。但到目前为止依旧属于“取保候审”状态，出行受警方监控。与地方“国保”的一来二去，已是家常便饭。</p>
-<p>“女权五姐妹”被逮捕事件一周年，恰逢中国“两会”召开和国际妇女节之际，“女权五姐妹”的现状如何，是否一阵喧嚣后，她们开始渐渐淡出公众视野？中国的女权运动走上街头后，现在是否转向了温和派?</p>
-<p>BBC中文网因此专访了“女权五姐妹”的李婷婷，又称李麦子，因发起“占领男厕所”、“带血新娘”等街头活动被媒体和大众熟知，也因此遭受了刑事拘留之苦。在被拘留的27天里，她遭受了49次审问。</p>
-<p>“最近因为我手机丢了，他们一直没有联系上我，现在才联系上。”李婷婷在电话里跟BBC中文网记者描述中国“国宝”监视她的情况。语气里除开无奈，还有那么点27岁年轻人的俏皮。她还提醒BBC中文网记者，自己手机是被监听的。</p>
-<p>她说“国宝”的人一般以吃饭聊天的形式约见她。她也不知道“国宝”的人具体要做什么，“可能就是叫我乖，不要干别的事情吧。”</p>
-<p>除开对李婷婷个人的监视和“喝茶”，李婷婷的父母和北京居所的村委会书记也被约谈。</p>
-<p>李婷婷说，特别烦他们烦父母。</p>
-<p>BBC中文网问李婷婷“国宝”的措施是否凑效，她本人是否有担心时，她非常直接地回复说，有，目前不能做街头活动。</p>
-<p>她说：“感觉手伸得可长了。做什么都不让。”</p>
-<p>但她表示，父母不太管自己。只是叮嘱记得跟警察保持联系。</p>
-<p><strong>温和提案</strong></p>
-<p>李婷婷描述现在的自己很“听话”，不再上街做街头运动，而是选择比较温和的方式。比如收集“两会”提案和写信给旅游局要求设立更多的女厕所。</p>
-<p>关于今年“两会”提案，李婷婷在电话里介绍说，她所作是收集“两会”提案，请同学发给认识的”两会”代表。</p>
-<p>但这也遭到了“国宝”的干涉。结果是，村委书记告诫李婷婷的父母，别让她去递信。</p>
-<p>而她发声的渠道中国社交媒体微博上，用户“麦子家”最近的更新状态也比较安静，对“两会”只字未提。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/150702101444_li_tingting_wedding_624x351_ap.jpg?resize=600%2C338" alt="李婷婷去年7月在北京与同性伴侣举办了婚礼，希望推动中国同性婚姻合法化。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/150702101444_li_tingting_wedding_624x351_ap.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/150702101444_li_tingting_wedding_624x351_ap.jpg?w=624 624w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>李婷婷去年7月在北京与同性伴侣举办了婚礼，希望推动中国同性婚姻合法化。</p></div>
-<p>李婷婷收集的话题，包括开放中国的“卵子库”和单身女性的生育权。她说作为一名女同性恋者，一直因无法在中国“合法生育”而受到困扰。</p>
-<p>由李婷婷发起的“占领男厕所”在2012年引起了轰动与争议。曾几一时，她们意气风发想把这项活动做成一项持续的活动。</p>
-<p>听完记者提完“占领男厕所”后，李婷婷在电话那头几声苦笑。她说，“占领男厕所可以有一些后续的活动，但是再复制‘占领男厕所’的行为艺术，可能就比较难了。”</p>
-<p>她也给中国国家旅游局和地方旅游局写信，建议在旅游景点设立更多的女性厕位。李婷婷认为，这是旅游景区男女厕所不对等的问题。景区一到旺季，女厕门口就排长龙。该矛盾很突出，也需要得到解决。</p>
-<p>但目前还没有收到回复。</p>
-<p><strong>两难境地</strong></p>
-<p>此前在接受BBC“巾帼百位”系列采访时，李婷婷表示目前中国女权运动的空间在进步一缩小。大约4个月过去了，她说情况依旧没有好转。</p>
-<p>所以目前她采用比较温和的方式去争取权益。但温和的方式成效多大？</p>
-<p>她自己也坦承，效果会比较慢。她介绍说其她几位“女权五姐妹”的成员，现在比她还要温和。但在以不同的方式争取权益。</p>
-<p>但李婷婷看来，与此同时摆在中国女权主义者面前的两难境地是，不温和无法做事。</p>
-<p>李婷婷曾担任北京非营利性的公益机构“益仁平”中心LGBT的项目负责人。该机构反对歧视艾滋病病毒携带者、肝炎患者和残障人士，是中国一个为边缘群体发声的重要公民组织。 但目前该机构已停止工作，北京办公室已外租他人。此前该机构的工作人员受到监视和跟踪，房东被多次请“喝茶”。顶不住压力，暂时关闭了。</p>
-<p>李婷婷说，环境越来越差。如果将来允许的话，可以考虑重开。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160307060657_li_tingting__464x261_tingtingli_nocredit.jpg?resize=600%2C338" alt="今年1月出现的“反逼婚”广告曾在中国单身大军中引来一阵叫好声。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160307060657_li_tingting__464x261_tingtingli_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160307060657_li_tingting__464x261_tingtingli_nocredit.jpg?w=624 624w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>今年1月出现的“反逼婚”广告曾在中国单身大军中引来一阵叫好声。</p></div>
-<p><strong>为什么要温和？</strong></p>
-<p>中国北京师范大学的妇女研究学者王曦影对BBC中文网记者表示，中国目前的女权运动空间在缩小。留给行动派的空间越来越小。</p>
-<p>但不代表行动派就停止了行动，她们寻求在有限空间里做事。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E5%A5%B3%E6%9D%83%E4%BA%94%E5%A7%90%E5%A6%B9%E4%B9%8B%E6%9D%8E%E5%A9%B7%E5%A9%B7%EF%BC%9A%E6%88%91%E7%8E%B0%E5%9C%A8%E5%BE%88%E6%B8%A9%E5%92%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%BA%94%E5%A7%90%E5%A6%B9/?category=18271" rel="tag">女权五姐妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">权利运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%A9%B7%E5%A9%B7/?category=18271" rel="tag">李婷婷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">社会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -751,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

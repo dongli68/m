@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9C%899%E4%BA%BF%E9%80%89%E6%B0%91-%E7%BD%91%E6%B0%91%E8%AF%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E9%80%89%E7%A5%A8/" target="cdt-mirror">美国之音｜张德江称中国有9亿选民 网民说没见过选票</a>
@@ -88,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%A2%93%E7%A2%91%E3%80%8B/?category=18271" rel="tag">《墓碑》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B9%B4%E5%A4%A7%E9%A5%A5%E8%8D%92/?category=18271" rel="tag">三年大饥荒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%98%BF%E6%B3%95%E7%8B%97%E5%A7%93%E5%85%9A-%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A-%E8%AF%B7%E6%82%A8%E6%A3%80%E9%98%85/" target="cdt-mirror">【网络民议】阿法狗姓党，绝对忠诚，请您检阅！</a>
 </h2>
@@ -181,7 +181,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/vpn/?category=18271" rel="tag">VPN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BDvpn%E9%81%AD%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">外国VPN遭屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E7%99%BD%E5%A4%B4%E5%8F%91/" target="cdt-mirror">苹果日报｜李平：总书记的白头发</a>
 </h2>
@@ -689,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

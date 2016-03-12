@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,75 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E6%96%B0%E9%97%BB%E6%B3%95%E7%AB%8B%E6%B3%95-%E5%AE%98%E5%91%98%E9%A1%BE%E5%B7%A6%E5%8F%B3%E8%80%8C%E8%A8%80%E4%BB%96/" target="cdt-mirror">自由亚洲｜记者提问新闻法立法 官员顾左右而言他宣布散会</a>
+</h2>
+<p><p><strong>【编者注】</strong>下文提到的美国《侨报》是中共外宣系统中的假外媒之一。2001年，美国非盈利机构“詹姆斯镇基金会”发表的报告《中国政府是如何试图控制美国的华语媒体的》中有详细介绍（<a href="http://www.boxun.com/forum/boxun2006b/304310.shtml">中文版</a>、<a href="http://www.jamestown.org/programs/chinabrief/single/?tx_ttnews%5Btt_news%5D=28481#.VuPE-T-cuiU">英语原文</a>）。钟雪泉对该报记者的傲慢态度并不难理解。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg" rel="attachment wp-att-431511"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg?resize=500%2C442" alt="image" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg?resize=300%2C265 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg?w=558 558w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>在中国全国人大法制工作委员会星期四的记者会上，美国华文媒体《侨报》的记者问为何中国新闻法的立法提出多年没有结果？而新闻发布会主持人钟雪泉对此不予理睬，却转问“西方主流媒体有问题吗？”随后他自说自话，宣布记者会结束。钟雪泉对中国新闻立法问题的回避与傲慢，招致网民和分析人士的批评与不满。</p>
+<p>中国的新闻立法一直是当局讳莫如深的话题。3月10日，在全国人大法制工作委员会的记者会上，美国华文媒体《侨报》的记者钟颖，向新闻发布会主持人、全国人大常委会办公厅新闻局副局长钟雪泉提问，为何中国新闻法立法提出多年都没有结果，而且提及今年初甘肃记者被捕事件。女记者钟颖说：“我的问题是关于新闻法的，没有新闻法，中国记者的权利和义务经常处于一个模糊地带。包括去年（应为今年初）甘肃记者被执法部门带走，涉嫌罪名是嫖娼，但这是有争议的。我的问题是，新闻法提出了几年，有时间表吗？如果有的话可以公布吗？没有的话，为什么中国新闻法出台这么难？”</p>
+<p>接下来，主持人钟雪泉说：“我刚才说的是除华文媒体以外的记者，西方的主流媒体记者有问题吗？因为西方媒体提问很少，你们举手少可能跟相关的问题少有关，如果没有的话，今天的记者会到此结束。谢谢各位嘉宾”。</p>
+<p>上述场景在网络直播后引发热议。山东网民“忍者鸣人的心腹”称，人大立法是人大的一项重要工作，完善和制定我国相关领域的法律，是法治国家的重要标志。网民“马克耶稣”回应称，别指望了，法律滞后一代人，能有什么作为？没人监督他，始终行政不作为。另有网民称，既然国外媒体没问题，为什么不回答侨报关于新闻法的提问？太不尊重了！</p>
+<p>事件也引发社会对新闻立法的关注。新快报前记者刘虎3月11日接受本台采访时称，现在工人有劳动法、有公务员法、警察法等，各个行业均有相关法律，保护和规范新闻行业也应该立法：</p>
+<p>“新闻记者的权利和义务，应也有相关规定，你应受到哪些保障，都是应该有的。这在我们新闻界是有共识的。对政府可能他们认为，限制（政府）的作用大于保障作用。可能政府在有这个法的情况下，不知道怎么管理。侨报提的问题，我们都觉得作为正常的新闻发言人应该是能够回答的。不知道为什么他把这个问题岔开了。这样还有没有开新闻发布会的必要？”。</p>
+<p>北京外国语大学国际新闻与传播系教授展江认为，这位人大新闻官可能觉得不好回答这个问题：</p>
+<p>“因为在去年，人大的柳斌杰先生，他是教科文卫委员会主任委员，他提到新闻法正在起草，即将公布什么方案，但后来就没有下文了。现在看来暂时没有新闻法出台的迹象”。</p>
+<p>展江说，不仅仅是新闻法，还有电影法尚未出台，但相关的草案在1984年已经完成，现改名为电影产业促进法，但至今未成定局。他说：“电影法可能到时候会出来，因为他现在叫电影促进法，它更多的涉及产业，但是新闻法或叫传媒法，他可能更加复杂，范围更大”。</p>
+<p>北京一位媒体界元老对记者说，新闻法在八十年代中期就已起草：“当时由胡绩伟（人民日报社总编辑）在全国人大牵头，虽然他当时是全国人大科教文委员副主任，而且很有成效。据说已经搞到三稿或四稿，这个稿件现在应该还在。八九以后，这项工作就完全停止了”。</p>
+<p>这位资深媒体人称，即使现在出台新闻法，对媒体和记者也是限制多于自由，因此出台与否实际意义并不大。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E6%96%B0%E9%97%BB%E6%B3%95%E7%AB%8B%E6%B3%95-%E5%AE%98%E5%91%98%E9%A1%BE%E5%B7%A6%E5%8F%B3%E8%80%8C%E8%A8%80%E4%BB%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E6%B3%95/?category=18271" rel="tag">新闻法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431502/" target="cdt-mirror">【网络民议】用大清洗成年人，用大明洗未成年人</a>
+</h2>
+<p><p><strong><a href="http://www.zjstv.com/news/zjnews/201603/327096.html">浙江卫视｜廉政文化动画片《郑义门》电影级手法再现“江南第一家”</a></strong></p>
+<blockquote><p>由浙江省广电集团、浙江卫视旗下浙江蓝巨星国际传媒集团精心打造的廉政文化动画片《郑义门》，今天起正式登陆央视。该片主要围绕中央关于推进“全面从严治党”的战略要求，以习近平总书记提出的“大力弘扬中华民族优秀传统文化，大力加强党风政风、社风家风建设”重要指示精神为指导，传颂中华民族的“家国”文化，为全面从严治党、弘扬新风正气、传播核心价值营造良好氛围。<br>
+[…]<br>
+《郑义门》中，<strong>电影级别</strong>的面部绑定和捕捉使表演更真实；影片整体风格色彩鲜明，人物表演细腻，动画质量达到当下动画的上乘水准。</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/006cxPuGgw1f1tuusuxl0j30j61q812p.jpg" rel="attachment wp-att-431503"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/006cxPuGgw1f1tuusuxl0j30j61q812p.jpg?resize=440%2C1428" alt="006cxPuGgw1f1tuusuxl0j30j61q812p" data-recalc-dims="1"></a><br>
+（《郑义门》第一集视频截图；来源：新浪微博<a href="http://weibo.com/qds818">@缺德社</a>）</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/3010177602" target="_blank">@住在武藏上的葵托利</a>：<img title="[可爱]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif" alt="[可爱]" data-recalc-dims="1">制作组内有反贼233（景山·歪脖子树·大行 是忌讳啊你们这些死猪头 <img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1"><img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1"><img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2644815450" target="_blank">@汰渍全效</a>：崇祯16岁诛杀国妖魏忠贤，剿灭阉党，肃清朝中反对势力，然而大明还是亡了，自己还自缢于煤山<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@我为部落流过血：什么？大明亡了？！</p>
+<p>@渡辺少年：明朝早已亡了数百年，死人就该有死人的样子</p>
+<p>@Who视之：煤山的歪脖树还结实吗？这位体重比较超标</p>
+<p>@排茹兰V：确认了！在你国生子就是虐童</p>
+<p>@真是无趣的人啊：搞不定这一代，开始抓紧洗脑下一代了</p>
+<p><strong>@飞翔般欢快的日子：哎呀，用大清洗成年人，用大明洗未成年人？</strong></p>
+<p><strong>@巴萨叔叔哒哒哒：反庆复民</strong></p>
+<p>@eki___：先讲孝，然后告诉你孝=忠，从小培养奴才</p>
+<p>@卞晓白：吹几年忠孝风，就该群臣上朝劝进了吧！</p>
+<p>@風痕四世：又玩他妈移忠作孝的烂把戏。妈的智障。</p>
+<p>@老年痴呆八云紫：本来以为《雷锋的故事》这种画风的动画只会有一部，然而我错了……</p>
+<p>@胡导钻研HS：《收起少女心 好好过日子》《收起中二病 好好做中国梦》</p>
+<p>@Ranger-in-danger：你四十，你在你国，你国还在，你儿子在看动画片《郑义门》。</p>
+<p>@红皮黑心七字狗：这是中国特色马克思主义对传统儒家的最新发展，忠孝难两全成了“家国同构，忠孝一理”，解决了一个千年的难题，真是激动。</p>
+<p>@夏天真的在海边：夶批示：总体上是好的，但也有一些问题。朱元璋的英明神武表现的不够，蓝玉-胡惟庸反朝廷集团拖改革后腿的丑恶嘴脸表现的不够，过于突出刘伯温的才能，把他吹捧为朱元璋的英明战友，犯了喧宾夺主的错误。</p>
+<p><a href="http://weibo.com/blackkitten" target="_blank">@伪_东尼大木</a>：<img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1">我再警告你们一次 国家=党≥父母爷爷 要是你们再执迷不悟 我们顺丰快递小队就要对你们进行定点抓捕了</p>
+<p><a href="http://weibo.com/2563652504" target="_blank">@小堇堇堇_没工作没肉吃</a>：跟你们说个笑话，明朝很廉洁<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1642153587" target="_blank">@家有旺财dog</a>：<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">这一届他妈的遮羞布都不要了？我们是社会主义接班人 反帝反封建呢！</p>
+<p>@氏作不赛艇：这是耗资几千万的廉价画风《郑义门》？</p>
+<p>@十八岁的中二病：又是学了三年系列？</p>
+<p>@StrausZimsky：比雷锋那个已经高到不知道哪里去了！如果说以前99%的预算都进个人腰包了，现在最多只有98.5%了，进步不少～</p>
+<p><em><strong>附：</strong>30集国产三维动画片《雷锋的故事》截图，耗资2100万</em></p>
+<p><img src="http://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/06/p1573939002.jpg" alt="" width="402" height="333"><br>
+（图片来源：<a href="http://movie.douban.com/subject/4910203/">豆瓣</a>）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431502/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E5%9B%BD/?category=18271" rel="tag">大清国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%94%BF%E8%A7%81-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%94%B9%E9%9D%A9%EF%BC%8C%E6%9C%AC%E5%9C%9F%E5%8C%96%E8%BF%98%E6%98%AF%E8%A5%BF%E6%96%B9%E5%8C%96%EF%BC%9F/" target="cdt-mirror">政见 | 中国政府改革，本土化还是西方化？</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-%E4%B8%8B%E5%8D%888.04.30.png?resize=505%2C348" alt="Screen Shot 2016-03-11 at 下午8.04.30" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午8.04.30.png?resize=300%2C207 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午8.04.30.png?w=505 505w" sizes="(max-width: 505px) 100vw, 505px" data-recalc-dims="1"></p>
@@ -648,59 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-17/" target="cdt-mirror">【网络民议】以前我总是瞧不起印度，现在我瞧不起自己了</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg" rel="attachment wp-att-431346"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg?resize=500%2C375" alt="005Xybrlgw1f1r35nh33mj30hs0dcjst" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005Xybrlgw1f1r35nh33mj30hs0dcjst.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>（黄山市田家炳实验中学的正门照片惨遭网友PS；图片来源：新浪微博@一二三小店）</em></p>
-<p>近日，在黄山高三少女被下春药事件在网上继续发酵的同时，合肥少女<a href="http://news.163.com/16/0307/23/BHJG50UH00014SEH.html">被官二代同学毁容5年后仍未拿到赔款</a>的回访报道也引来大量网民的关注。</p>
-<p>高三女生被下药事件中，黄山警方对两名下药者不仅不作为，还高调转发一篇来自当地律师的文章，“<a href="http://weibo.com/2419148762/Dli1434sR">男生给女生‘下春药’ 为何不用进班房？</a>”，来为其辩护，引来网民持续数天的围攻。田家炳实验中学发布了一则<a href="http://weibo.com/3178973934/Dlg7qoDaW">希望息事宁人的事件通告</a>，截至发稿时已有1万5千多条评论，其中绝大多数评论者都表达了对校方的不满。</p>
-<p>耐人寻味的是，环球网这时发布了一则题为《<a href="http://world.huanqiu.com/exclusive/2016-03/8679688.html">印16岁少女遭强奸后被焚烧致死</a>》的简短报道，并迅速获得了包括新华网、中国日报、凤凰网、中国网、映象网、江西网络广播电台等在内的官媒及门户网站的转发。</p>
-<p>不可否认，中国网民对印度的态度一向不佳。女性在印度的地位，作为该国特别突出的问题之一，常遭中国网民诟病；而“阿三”这样的贬称，在中国已经普遍到大多数人根本就没有意识到其中的不妥。但这次，许多网民表示，自己已经不好意思再五十步笑百步了。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1629004863" target="_blank">@南夜笙箫</a>：嘲笑印度的你以为你是哪国人？<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3445249322" target="_blank">@看的我直流口水</a>：中国不也是这熊样吗！还有脸嘲笑邻国……<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"><img title="[怒骂]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]" data-recalc-dims="1"></p>
-<p>@口了个天的：很多人一黑起印度就忘记自己是哪国人了</p>
-<p>@ViperOoo：这特么简直是一百步笑五十步，好歹新闻里说印度要加大监察措施力度</p>
-<p>@郁秋蓝海：【13岁两少年强奸18岁女孩后泼汽油焚烧致受害人毁容重伤被判无罪】事情说的是两位13岁未成年男孩将18岁少女丽丽强奸后，并对受害者泼汽油导致她毁容。之后因为两人未满14周岁而免于刑事处罚，事后两人回到家中正常生活。我们没有资格嘲笑别人。</p>
-<p>@香草Luigi_Soprano：图片评论<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005xWLWXgw1f1rj5qkv5mj30k00zkq9w.jpg" rel="attachment wp-att-431334"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005xWLWXgw1f1rj5qkv5mj30k00zkq9w.jpg?resize=350%2C622" alt="005xWLWXgw1f1rj5qkv5mj30k00zkq9w" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005xWLWXgw1f1rj5qkv5mj30k00zkq9w.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005xWLWXgw1f1rj5qkv5mj30k00zkq9w.jpg?w=440 440w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
-<p>@清枫AQ：作为50步，就不笑100步的了</p>
-<p>@一块钱的想念：以前我总是瞧不起阿三，现在我瞧不起自己了</p>
-<p>@卧槽先生在卧槽：中国那个被毁容的女孩子还没得到赔偿呢，中印两国堪称人类的奇葩了</p>
-<p>@卵不够用：在国际上看中国新闻很可能就像我们看印度……</p>
-<p>@德先生1987：我们真的比印度人强吗？那些辱骂那个被官二代毁容女孩的人，就是典型的阿三。</p>
-<p>@逸览狂澜：中国男女性别比比印度还高，神级犯罪保护伞未成年犯保护法+批评教育+受害人自己保护自己治安甩锅+法律威慑力不足，一起在烂泥塘里谁比谁干净？</p>
-<p>@后觉茶: 这回大家都不傻，少拿印度来唧唧歪歪。</p>
-<p><a href="http://weibo.com/5685975816" target="_blank">@炒饭于我何加焉</a>：评论真的在改变。。现在大家都知道天朝也好不到哪去<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2957549647" target="_blank">@傑晓末</a><i title="微博达人"></i>：1.高中男生给女生下春药，借口女生为同性恋 2.两大学男生带醉酒大学女生开房，后女子坠楼身亡。 3.初中女生被一群女生扒光衣服当众殴打 4.某小学校长带学生开房 5.小学女童遭性侵致使处女膜破裂 <img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">——————【中印友好】——————<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/dad66683gw1f1ppab35wqj20fk0fkmxf.jpg" rel="attachment wp-att-431354"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/dad66683gw1f1ppab35wqj20fk0fkmxf.jpg?resize=400%2C400" alt="dad66683gw1f1ppab35wqj20fk0fkmxf" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/dad66683gw1f1ppab35wqj20fk0fkmxf.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/dad66683gw1f1ppab35wqj20fk0fkmxf.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/dad66683gw1f1ppab35wqj20fk0fkmxf.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/dad66683gw1f1ppab35wqj20fk0fkmxf.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/dad66683gw1f1ppab35wqj20fk0fkmxf.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>（图片来自新浪微博）</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-17/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中印关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%BA%A6/?category=18271" rel="tag">印度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">女性权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E4%B8%89%E5%B0%91%E5%A5%B3%E8%A2%AB%E4%B8%8B%E8%8D%AF/?category=18271" rel="tag">高三少女被下药</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BD%91%E6%98%93-%E5%B9%B4%E6%94%B624%E4%B8%87%E4%BA%BF%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E9%92%B1%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%EF%BC%9F/" target="cdt-mirror">网易 | 年收24万亿，中国政府的钱从哪里来？</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：</strong>截至本文发布时，<a href="http://data.163.com/16/0308/06/BHK8ICFD00014MTN.html">网易原文</a>已被删除。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2016030806490398b8a.png?resize=600%2C1288" alt="2016030806490398b8a" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2016030806490398b8a.png?resize=477%2C1024 477w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/2016030806490398b8a.png?w=732 732w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>本文系网易原生内容中心《数读》栏目出品，每周二、四准时更新。<br>
-网易数读2016两会特别策划</p>
-<p>两会期间，有官员表示简单提高个人所得税起征点是不公平，然而对于中国人一生要缴纳的税款来说，工资税那点钱根本不值一提。近20年来，个税占总税收的比例仅在6%左右，最高不过7.3%，而中国财政收入的绝大部分是由看不见的税收和各种行政收费构成。</p>
-<p>自1994年税制改革以来，与GDP的飞速增长相对应的是，中国政府的财政收入也以前所未有的速度在膨胀，且增长速度远超GDP增速。1994年至2014年，中国财政收入从5218亿增至14037亿，年均增长17.9%，而同期GDP名义年均增长率为13.7%。历次减税措施都并未对政府收入产生实质影响，2004年农业税试点取消之前，其在税收中仅仅占比2%，2011年个税起征点提至3500元后，次年税收虽减少230亿，但2013年很快又比上年增长了710亿。</p>
-<p>更何况按照国际通行的政府收入口径，中国政府的收入远不止公共财政预算。根据IMF定义，政府收入应包括强制征收的税收、社保缴款和其他所有增加政府净值的收入，按此标准，2014年财政决算表中的中国政府总收入达到24.3万亿人民币，占GDP比例达38.2%，而官方口径在扣除土地出让金和住房公积金部分后，声称中国宏观税负仅有30.1%，甚至称其远低于发达国家。</p>
-<p>然而根据OECD的数据显示，2014年美国、英国、日本的政府收入占GDP比例分别为26%、32.6%和30.3%，中国38.2%的比例已经接近欧洲福利国家40%的水平。而在具体收入来源中，与发达国家个人所得税占主体收入来源的情况相比，中国则完全相反，7成以上税收来自以增值税为代表的间接税，此税种最大的特征便是可通过隐藏在价格里最终转嫁给消费者，而消费者并不知道自己无形中承担了比工资税高出数十倍的税收负担。</p>
-<p>在中国，一件进口化妆品的价格中要包括高达50%的关税、30%的消费税和17%的增值税。无处不在的增值税甚至在治病救人的药品中也不例外，对药物免征或少征增值税是国际通行做法，而中国对药品统一按照税率最高档征收17%的增值税，进口药品还要加收3-6%的关税。即便在发明增值税且极度依赖间接税的法国，其对商品和服务加收的间接税占税收比例也不超过40%，而在中国，这一比例为74%。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?resize=600%2C940" alt="201603080650201f3c3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?resize=768%2C1203 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?resize=654%2C1024 654w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/201603080650201f3c3.png?w=906 906w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>更加具有中国特色的是，除去土地出让金的卖地收入，光是列入财政部预算范围的各项政府性基金收入就高达1.36万亿。原本与公共服务相关的支出应统一由公共预算承担，但中国却对路灯道路一类的市政服务都要额外加收行政经费。2014年通过水电附加费征收的各项政府性基金总额就不下1200亿，然而要知道，在全国至少500项政府性基金中，只有40余项被纳入预算管理，有名目可查，其他被各地部门截留的行政收费去向根本无从知晓。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BD%91%E6%98%93-%E5%B9%B4%E6%94%B624%E4%B8%87%E4%BA%BF%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E9%92%B1%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E7%BA%B3%E7%A8%8E%E4%BA%BA/?category=18271" rel="tag">人人都是纳税人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%A8%8E/?category=18271" rel="tag">关税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%9E%E5%80%BC%E7%A8%8E/?category=18271" rel="tag">增值税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E7%A8%8E/?category=18271" rel="tag">消费税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93/?category=18271" rel="tag">网易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%9B%E6%8D%90%E6%9D%82%E7%A8%8E/?category=18271" rel="tag">苛捐杂税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9B%E5%8F%A3%E7%A8%8E/?category=18271" rel="tag">进口税</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -712,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -722,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

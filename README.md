@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%85%AC%E5%BC%80%E4%BF%A1%E6%96%A5%E8%B4%A3%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%AE%A1%E9%83%A8%E9%97%A8%E8%B7%B5%E8%B8%8F%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/" target="cdt-mirror">美国之音｜新华社记者公开信斥责中国网管部门践踏言论自由</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png" rel="attachment wp-att-431522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png?resize=550%2C309" alt="周方新浪博客上举报信的谷歌快照截图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>周方新浪博客上举报信的谷歌快照截图</p></div>
+<p><em>作者：林枫</em></p>
+<p>华盛顿—中国一名新闻工作者发表公开信，批评网管部门违反宪法，践踏公民基本权利。虽然网管已将这一公开信删除，但该信还是流到了海外。评论人士说：这种现象表明中共党内两方在“对打”。</p>
+<p><strong>网管部门粗暴统治，网民前所未有恐慌</strong></p>
+<p>在新华社从事英文编译工作的周方，近日在其新浪博客上<a href="https://wp.me/p2pB24-1Og5" target="_blank">实名发表公开信</a>说，中国网络主管部门严重违反中国宪法和有关法律，粗暴践踏公民基本权利、侵犯公民言论自由权。这是继财新网公开发表文章对中国网络监管部门删除其一篇报道表示异议后，又有中国体制内媒体人对当局打压言论和新闻自由表达不满。</p>
+<p>周方1989年社科院新闻系毕业后一直在新华社工作，他在（其博客）这封写给中国全国人大常委会、最高人民法院、最高人民检察院和中国共产党纪律检查委员会的举报信中指责“媒体主管部门特别是网络媒体管理部门长期存在玩忽职守、滥用公权、侵犯人权等严重的违宪违法行为。”</p>
+<p>他写道，“有关部门的违法行为已经造成了极大的思想混乱和舆论误导，严重威胁了国家的安全和稳定，极大地阻碍了改革开放事业的深入，严重损害了执政党、政府和国家形象，损害了中华民族的长远利益。”</p>
+<p>公开信还指责网管部门无视“依法治国”原则扮演舆论法官角色，常常在未经任何司法程序、缺乏足够法律证据的情况下关闭个人博客和微博，以长官意志取代法律，在公安、央视等政府部门和媒体配合下，迫使当事人屈服并上央视认罪。</p>
+<p>信中说，“在网管部门的粗暴统治下，网络舆论受到极大的压制，人民群众的言论自由收到了极其严重的侵犯。一时间，我国广大人民特别是网民陷入了一种前所未有的恐怖之中。许多人对中央产生了怀疑，担心文革重来。更为严重的是，网管部门公权私用，在网民中大搞‘顺我者昌，逆我者亡’，亿关闭博客和微博等方式非法剥夺公民言论自由权。”</p>
+<p>这封公开信目前已被新浪微博删除，但已被海外媒体广泛转载。从谷歌搜索的网页快照可以看到公开信的发布时间是2016年3月7日。在此之前，周方还于2月26日发表了一篇批评“围攻任志强”的博客。那篇博客也被删除。</p>
+<p>设在美国的明镜集团总裁何频认为，周方的这封信代表了很多网民的看法。他说：“中国出了一个莫名其妙的网络办公室，居然任意地把人家的微博关掉，可以随意地关闭一些网站，甚至把一些在网络上发言的网民下令抓起来。这到底是一个什么样的部门，谁赋予这个部门这么大的权力？”</p>
+<p><strong>公开信剑有所指</strong></p>
+<p>周方的公开信还把矛头对准北京市，称“北京市曾经有一段时间大肆宣传有极少数人编造的所谓‘北京精神’，对抗宣传中央依法治国精神以及‘社会主义核心价值观’。”作者要求全面调查<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/" target="_blank">“围攻任志强”事件</a>，追究网络办、团中央网络部门、千龙网等有关部门负责人的刑事责任。</p>
+<p>2月末，以敢言著称的中国网络名人、房地产大亨任志强因发微博对中共总书记习近平提出的“官媒姓党”的说法提出质疑而遭到官媒的口诛笔伐，他的新浪和腾讯微博帐号也<a href="http://chinadigitaltimes.net/chinese/2016/02/430375/" target="_blank">被关闭</a>，还<a href="http://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/" target="_blank">禁止</a>以“换马甲”的方式改头换面再次注册。</p>
+<p>当时，北京市委宣传部主管的千龙网刊登一篇了措辞激烈的文章抨击任志强，标题是《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%B0%81%E7%BB%99%E4%BA%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E7%9A%84%E5%BA%95%E6%B0%94/" target="_blank">谁给了任志强反党的底气</a>》，把矛头指向其背后的人。文章说，“一个连党章都无视的党员，公然反党的底气何来？一个半夜三更给领导打电话的任志强，究竟谁给了他跳出来推墙的‘勇气’？”</p>
+<p>共青团中央机关报中国青年报旗下的中国青年网也发表了<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%85%9A%E6%B0%91%E5%AF%B9%E7%AB%8B%E8%AE%BA%E7%94%A8%E5%BF%83%E9%99%A9%E6%81%B6/" target="_blank">王德华的署名评论文章</a>，抨击任志强反驳习近平的媒体姓党的言论是搞党民对立、其用心险恶。</p>
+<p>任志强事件后，中国国家网信办还以“违法违规”为由，<a href="http://chinadigitaltimes.net/chinese/2016/02/%E8%BE%9B%E8%BE%9B%E8%8B%A6%E8%8B%A6%E4%BA%94%E5%8D%81%E5%B9%B4%E4%B8%80%E5%A4%9C%E5%9B%9E%E5%88%B0%E5%85%AD%E5%85%AD%E5%B9%B4/" target="_blank">关闭了包括演员孙海英在内</a>的一批网络大V的微博帐号。</p>
+<p><strong>背后有权斗大戏？</strong></p>
+<p>近代历史学家章立凡2月29日在VOA卫视《时事大家谈》节目中曾提出，任志强事件背后或许有权力斗争的影子。他说：“这次炮轰任志强最为猛烈的一个是包括网信办在内的中共宣传系统，还有一个是北京市。刚好2016年中纪委要进驻、派巡视组的就是这两个系统。我们也看到一个现象就是现在网络上一些炮轰任志强的文章就是要抓任志强的后台。任志强在他的自传《野心优雅》里提到他和王岐山的关系。”</p>
+<p>就在任志强事件闹得沸沸扬扬之际，中共中央纪委网站3月1日发表了一篇《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%88%8A%E6%96%87%EF%BC%9A%E5%8D%83%E4%BA%BA%E4%B9%8B%E8%AF%BA%E8%AF%BA-%E4%B8%8D%E5%A6%82%E4%B8%80%E5%A3%AB/" target="_blank">千人之诺诺，不如一士之谔谔</a>》的文章，立即受到海内外舆论广泛关注。文章引述习近平在参加河北省委常委班子“专题民主生活会”时的讲话，“小问题没人提醒，大问题无人批评，以致酿成大错，正所谓‘千人之诺诺，不如一士之谔谔’啊！”</p>
+<p>有报道称，在这篇文章之后，原本打算要惩处任志强的北京市西城区委暂停了有关媒体姓党的讨论和处理工作。据北京知识界和微信圈流传的消息，“北京市西城区委讨论给任志强处分问题，当天下午被叫停”。</p>
+<p>不过，总部在美国的博讯新闻3月9日援引北京消息人士的话发布“独家”消息称，是习近平亲自叫停了对任志强的“大批判运动”，与中纪委王岐山无关。文章说，是中共中央办公厅发文给北京市委和中宣部，理由是“避免干扰全国两会举行”。</p>
+<p><strong>何频：中宣部与中纪委对打</strong></p>
+<p>但明镜集团的何频不认同这种说法。“因为习近平有没有叫停，我们没有任何证据。但是说中纪委叫停，我们是有明确的证据的，就是中纪委发表了一篇文章，强烈暗示了不能再搞个人性的批斗。”他说。</p>
+<p>何频认为，从财新传媒旗下的<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E5%8F%91%E6%96%87%E6%8F%AD%E9%9C%B2%E5%BD%93%E5%B1%80%E5%AF%B9%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5%E8%A2%AB%E5%88%A0%E9%99%A4/" target="_blank">财新网公开叫板国家网信办</a>，到新华社记者周方发公开信将矛头指向网络监管部门和北京市委，其背后两大系统斗争的意味浓重。财新传媒由中国最有声望的媒体人之一胡舒立创办。坊间广泛传言，胡舒立与中纪委书记王岐山关系密切。</p>
+<p>“胡舒立就是王岐山的延伸嘛，”何频说，“所以从这个意义上也就印证了中宣部有能力收拾胡舒立，这是一种对打。你有权力管我，我也可以反制你。”何频说。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%85%AC%E5%BC%80%E4%BF%A1%E6%96%A5%E8%B4%A3%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%AE%A1%E9%83%A8%E9%97%A8%E8%B7%B5%E8%B8%8F%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%88%92%E7%AB%8B/?category=18271" rel="tag">胡舒立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0%E7%BD%91/?category=18271" rel="tag">财新网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%B8%BA%E6%9A%B4%E4%B9%B1-%E9%95%87%E5%8E%8B%E6%98%BE%E7%A4%BA%E6%94%BF%E5%BA%9C%E5%8A%9B%E9%87%8F/" target="cdt-mirror">法广｜特朗普：六四为“暴乱” 镇压显示政府力量威力</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg" rel="attachment wp-att-431516"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg?resize=575%2C317" alt="CdPhjKUUAAAIth_" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg?resize=300%2C165 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg?w=599 599w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br>
@@ -204,7 +240,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E9%9D%9E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中非关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%80%E9%BA%A6%E9%9A%86/?category=18271" rel="tag">喀麦隆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">非洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E9%87%87%E9%87%91/?category=18271" rel="tag">非洲采金</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E9%9B%B7%E9%A2%90%EF%BC%9A%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97%EF%BC%8C%E5%85%88%E6%83%B3%E6%83%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A6%BB%E5%BC%80/" target="cdt-mirror">大家 | 雷颐：振兴东北，先想想企业家为什么离开</a>
 </h2>
@@ -594,33 +630,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9D%E8%BF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A7%9A%E9%81%A5%EF%BC%9A%E6%98%A5%E8%8D%AF%E5%94%A4%E4%B8%8D%E9%86%92%E7%B1%BB%E4%BA%BA%E5%AD%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E9%98%B3%E7%97%BF/" target="cdt-mirror">姚遥：春药唤不醒类人孩的精神阳痿</a>
-</h2>
-<p><p><strong>对生活在封闭空间中的学生而言，他们并非不懂对错，不懂好坏，不懂是非，而是不需要为了坚守边界而去损害利益，逢迎畸形的规则能获得更大的好处，即便会伤害到无辜的人。</strong></p>
-<p>由于无极限地触及人性的丑恶，《黄山市田家炳实验中学高三七班，3名男生给女同学下春药》的事情火爆网络。</p>
-<p>高中男生给女生下春药之外，猥琐的动机在于女同学疑似女同性恋，男同学公然要看女同学吃了所谓的春药之后出丑。当事人报告了此事之后，犯事的男同学用下毒威胁当事人，同时威胁证人不得作证。当地警方对此事以协调结案，学校对犯事男生进行“严肃处理”，也就是记过处分。按照一般情况来推断，高中学校做出的处分一段时间后就宣布撤销，然后不了了之。即便这个处分不撤销，犯事男生也并没有受到任何实质的惩罚。目前为止，除了其中一名参与犯事的男生已进入南航招飞的复试阶段，但校方公开以身体原因为由拒绝该生以外，这一场惊天的荒唐闹剧几乎没有为受害者展示过半点实质的正义。</p>
-<p>面对这一场闹剧，同班同学在微信群中表态支持下药者，学校群中学生也是一片谴责受害者的声音，甚至说出“（居然说出去）都不替学校考虑”的话语。果不其然，在各种压力下，反而是受害者沉默、退却、转学了事。</p>
-<p>学校学生们同仇敌忾的气势，莫名地让人想起2015年年末时，作家贾葭批判厦门大学围墙，结果被厦大学子抱团群殴的一幕。</p>
-<p>真是学生们连对错不知道了？并不尽然。犯事的男生说出“大人都讲这是犯罪的”这句话，并不代表当事人真是法盲。在现有法律体系下，“大人”的判断并不更对，恶意下春药但暂时还没有出现严重而直接的后果时，法律缺乏清晰的框架规范这种行为。即便是警方从严处理，也难以定罪，最多对当事人处以行政拘留，处罚和危害完全不成正比。</p>
-<p>学生们确实不确定此事是否违法，但能明确地知道是非。他们貌似大胆地下药，张扬地期待下药后的后果。可他们一旦发现需要面对被害女生揭发这件事情的时候，立即色厉内荏地采用了威胁恐吓掩盖内心的慌张。如此的心虚，这些男生自然知道下药的事情是错的，而且可能会出现较严重的后果。同样，同班学生和校友在围观中热切表示支持男生谴责受害女生，但没有人公开表示这个行为是对的。</p>
-<p>当事男生明确知道下春药这事是错的，而且还恐惧遭受严厉的处罚，不惜威胁受害人和证人之后，只是因现行法律无力惩罚这样的行为而幸免。在这样的情况下，无论是讨论直男癌、女权、对同性恋的歧视或者校园欺凌的法律空白，都不足以面对让人悲凉的现实。这一群正在法定成年人边缘也有文化的青年，会公然支持一个明显错误的行为，而不是相反。</p>
-<p>社会呼唤对校园欺凌的严惩，只能满足人们在事后对正义的期待，尚未触及导致恶性事件的根源，也无力抚平受害者的心灵。即便法律填补了空白，真正严厉惩处了下药的男生，惩处的力度不一定超出男生原本对于严重后果的判断。完善了法律，也不会让他们更明白这样行为究竟错在哪里，他们内心深处的想法是法律无法解决的空洞，“那个女的不懂做人”，“搞得那么大，对谁都不好”。</p>
-<p>在校园内的这样一个小社会之中，学生口中所谓的做人，是每个学生要认清自己的阶层和地位，一部分人比另外一部分人更加平等，强势阶层欺凌弱势阶层是天然正当，而弱势阶层对强势阶层的反抗是对小社会的反动。</p>
-<p>在此，可以基于校园经验对此事做一个假设，受害者不仅家庭背景一般，成绩也并非特别优秀。但凡受害者具备其中一点优势，其他学生们不会主动去招惹，学校也会在出事时加倍地保护。相反，其中一名下药的男生报考南航飞行员，这证明他的文化成绩可能一般，身体素质相当优越，拥有在校园内成为一个霸主的潜质。</p>
-<p>学校作为小社会中的最高权力机关，关注学生的安全和秩序，更在乎权贵子弟以及可以获得荣誉和利益的优质学生。学生们则在这样的大规则之下衍生出自己的阶级社会与生存哲学，培养出天生的势利。荷尔蒙熊熊燃烧的一群学子，不能正常地进行爱恋实践，被压迫在升学的压力锅中高度焦虑，对常态生活的渴望被挤压变形，甚至无法理解春药这样一个简单的迷信，最终以下春药的形式将恶念与性欲畸形地释放出来。这样怪异的释放，出发点是为了好玩，因为不涉及更多的恶念而没有触碰到小社会中的边界，最终成为校园规则不排斥的合理行为。</p>
-<p>生活在这个坏的规则下，学生们并不关注是否存在更好的规则，可以公平地保护所有人免受侵害，他们更清楚只会有特定的一小群人才会成为受害者。相反，如果有人挑战和破坏校园内现有的平衡，反倒有可能让更多人社会阶层出现变化，利益相对受损。相比起来，后者更加不能让多数人容忍。</p>
-<p>对生活在封闭空间中的学生而言，他们并非不懂对错，不懂好坏，不懂是非，而是不需要为了坚守边界而去损害利益，逢迎畸形的规则能获得更大的好处，即便会伤害到无辜的人。在这个校园法统治的边界以内，罪人不以为罪，反叛者备受煎熬，代表了一般性道德判断的陪审团，不惜排斥受害者与正义，自然地支持保护既定规则与利益。最终，小社会中的权力话语也果不其然地以预期中的方式回应了这次短暂的争议，受害者出局，加害者回归。</p>
-<p>这样状态下的学生，已在成年人的门槛上，却一如余世存先生所言的“类人孩”，不尊重事实，不关爱权利，不能负责任的人。对这群人而言，只要有另外一种极端假设出现，警方和学校严厉地惩罚了下春药的学生，热情呵护受害者，此时学生口中“不会做人”的对象一定是新一轮规则中被惩罚的对象。</p>
-<p>不难想象，同样的一群精神上存在缺陷的人，在高中阶段追随伤害他人的强者，在大学里变成了无力正常恋爱、打横幅公然性骚扰女学生的衣冠禽兽。即便日后走上社会，他们也依然是混沌中茫然不知所措的“类人孩”，萎靡的精神世界始终无法直立行走，只能靠不断地吸取各种腥臭的鸡汤，以适应规则、追逐利益作为人生的真谛。</p>
-<p>传统社会中发明了成人礼，在严谨的议程中，提醒男女青年告别幼稚，告别依赖，成为一个有独立担当的成年人。如今，成人礼不见了，成年人也不知去向，只有遍地的类人孩，在苦苦的挣扎中陶醉着。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A7%9A%E9%81%A5%EF%BC%9A%E6%98%A5%E8%8D%AF%E5%94%A4%E4%B8%8D%E9%86%92%E7%B1%BB%E4%BA%BA%E5%AD%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E9%98%B3%E7%97%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%8D%AF/?category=18271" rel="tag">春药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C/?category=18271" rel="tag">校园欺凌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">社会公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B1%BB%E4%BA%BA%E5%AD%A9/?category=18271" rel="tag">类人孩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%BC%BA%E9%99%B7/?category=18271" rel="tag">精神缺陷</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -642,5 +651,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%A5%E8%8D%AF
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

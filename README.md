@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%85%AC%E5%BC%80%E4%BF%A1%E6%96%A5%E8%B4%A3%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%AE%A1%E9%83%A8%E9%97%A8%E8%B7%B5%E8%B8%8F%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/" target="cdt-mirror">美国之音｜新华社记者公开信斥责中国网管部门践踏言论自由</a>
@@ -240,7 +240,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E9%9D%9E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中非关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%80%E9%BA%A6%E9%9A%86/?category=18271" rel="tag">喀麦隆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">非洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E9%87%87%E9%87%91/?category=18271" rel="tag">非洲采金</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E9%9B%B7%E9%A2%90%EF%BC%9A%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97%EF%BC%8C%E5%85%88%E6%83%B3%E6%83%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A6%BB%E5%BC%80/" target="cdt-mirror">大家 | 雷颐：振兴东北，先想想企业家为什么离开</a>
 </h2>
@@ -641,7 +641,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9D%E8%BF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -651,5 +651,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%9D%E8%BF%9B
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

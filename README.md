@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%80%A1%E5%AF%BC%E8%97%8F%E8%AF%AD%E4%BC%A0%E6%89%BF%E7%9A%84%E8%97%8F%E6%97%8F%E5%95%86%E4%BA%BA%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%85%B3%E6%8A%BC/" target="cdt-mirror">纽约时报｜倡导藏语传承的藏族商人被中国当局关押</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg" rel="attachment wp-att-431519"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg?resize=575%2C383" alt="去年，藏族企业家扎西文色在青海玉树藏区的一个赛马节上。据称他已经被警方非法羁押了一个多月。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>去年，藏族企业家扎西文色在青海玉树藏区的一个赛马节上。据称他已经被警方非法羁押了一个多月。</p></div>
+<p>北京——一名藏族企业家的家人称他已经被警方非法羁押了一个半月，这位企业家曾以坦率但温和的方式，在中国统治的藏区学校倡导双语教育。</p>
+<p>他的名字叫扎西文色(Tashi Wangchuk)，现年30岁，与父母居住在西部的玉树，常常在<a href="http://weibo.com/u/2029646391" target="_blank" rel="nofollow">微博</a>上发表关于语言政策的看法。他强调了藏区缺乏深层次的藏语教育，对许多藏族孩子无法流利使用母语表示关切，这是藏人普遍担心的一个问题。</p>
+<p>扎西文色在1月27日被扣留，已经被关押了44天。根据中国法律，警方通常可以扣留一个人30天，而后或是由检察官提出指控，或是放人。检察官则有七天的时间提出指控。</p>
+<p>扎西文色的家人一直试图联系玉树警方以及镇上的主要看守所，亲戚们相信他就被关在那里，但是警方并没有向他们解释羁押的理由，也没有让他们见到扎西文色。</p>
+<p>记者通过电话联系了玉树一名高级警官张局长，他只愿意提供自己的姓氏。张局长说，他所在的国保部门在办这个案子。当被问及更多细节时，他说他需要查一下，看看国保办的是否真的就是这个案子。</p>
+<p>在被羁押之前，扎西文色在新浪微博帐号上发布了一些关于西藏的内容，其中很多都表达了对西藏文化逐渐消亡的忧虑。例如在1月20日，扎西文色转发了一个网友的评论，原帖要求康巴卫视停播其官方藏族康巴方言栏目，说“你们谈的藏族文化，是商品和展览品”。</p>
+<p>扎西文色的最后一条微博是在1月24日转发的一条评论，原帖敦促玉树所在的青海省立法机构和立法咨询委员会加强双语教育，雇用更多的双语公务员。</p>
+<p>扎西文色的观点发表在《纽约时报》<a href="http://cn.nytimes.com/china/20151130/c30tibet/" target="_blank" rel="nofollow">11月的一篇文章</a>中。时报拍摄了一段9分钟的<a href="http://www.nytimes.com/video/world/100000004031427/a-tibetans-journey-for-justice.html" target="_blank" rel="nofollow">纪录片</a>，讲述他如何运用法律手段来推动藏语教育。在<a title="Link: http://cn.nytimes.com/china/20151220/c20yushu/" href="http://cn.nytimes.com/china/20151220/c20yushu/" target="_blank" rel="nofollow">12月的一篇文章</a>中，他讲述了藏区的中国官员如何利用赛马节来达到宣传目的。</p>
+<p>在去年的一次采访中，扎西文色说，他不主张西藏独立，他关心的主要是藏族文化的保护。去年他前往北京寻求法律援助，打算起诉地方官员，但他还没有提起诉讼。</p>
+<p>扎西文色说，他希望用法律来给官员施压，以便在学校开展真正的双语教育。在藏区大多数学校里，只有单独的一门课在教学生母语，类似于美国的外语教育。主要的教学语言是普通话。</p>
+<p>“我的目标是稍微做些改变，推动保护我们民族的一些文化，”他说。“整个藏民族和文化都面临消失的危机。”</p>
+<p>扎西文色还表示，他很感谢“真正保护少数民族的所有中国人”，他还称赞习近平主席“这几年促进了国家的民主和法制”。</p>
+<p>扎西文色及其家人表示，他之前曾有两次被短暂羁押的经历。10多年前，他被发现试图非法前往印度，因此被逮捕。（很多藏人非法前往印度，试图见到在那里流亡的藏人精神领袖达赖喇嘛。）</p>
+<p>2012年，扎西文色因为在网上发表批评地方政府侵占土地的评论而被羁押，这种怨言在中国各地民众中很普遍。</p>
+<p>扎西文色在阿里巴巴的淘宝平台经营店铺，向中国各地的顾客出售当地产品。他卖的商品包括青藏高原出产的<a href="http://www.nytimes.com/2014/08/21/movies/8216precious-caterpillar8217-traces-journey-of-tibetan-harvesters.html" target="_blank" rel="nofollow">冬虫夏草</a>，这是一种非常受欢迎的中药材。2014年，阿里巴巴在高调进行首次公开募股前向投资者做路演时公布了一段<a href="https://www.youtube.com/watch?v=uiJJHa6FkYs" target="_blank" rel="nofollow">视频</a>，扎西文色出现在视频中。</p>
+<p>中国官员认为冬季及早春季节是西藏的敏感时期。他们在藏历新年期间及<a href="http://freetibet.org/take-action/local/uk/uprising" target="_blank" rel="nofollow">3月10日</a>——1959年藏区针对中国统治的反抗活动的周年纪念日——提防抗议活动。2008年3月以后，羁押及安全政治行动有所增加，当时由拉萨开始的反抗活动蔓延至整个青藏高原。自2009年以来，已有<a href="http://cn.nytimes.com/china/20160304/c04tibet/" target="_blank" rel="nofollow">逾140名藏人</a>通过自焚以示抗议。</p>
+<p>本月全国人大年度会议在北京召开期间，中国政府渴望宣传民族和谐的形象。西藏代表被发现佩戴印有中国国家主席习近平肖像的<a href="http://cn.nytimes.com/china/20160310/c10chinalist/" target="_blank" rel="nofollow">徽章</a>。周三，官方新闻媒体新华社报道称，政府计划出资7500万美元修复、保护青藏高原<a href="http://www.globaltimes.cn/content/972856.shtml" target="_blank" rel="nofollow">156个传统天葬地点</a>。</p>
+<p>周二，美国快餐连锁店肯德基(KFC)在拉萨商业区<a href="http://shanghaiist.com/2016/03/09/kfc_opens_in_lhasa.php" target="_blank" rel="nofollow">开设</a>西藏的第一家分店。西藏维权倡导组织谴责这一行为。2004年，达赖喇嘛曾给肯德基母公司百胜(Yum Brands)写信，要求该公司不要在西藏开设连锁店，称该公司对待鸡的方式“违背了藏人价值观”，而且在西藏开店会“令众多的鸡所承受的痛苦被永久延续下去”。当时肯德基放弃了相关计划。</p>
+<p><em>黄安伟(Edward Wong)是《纽约时报》北京分社社长。</em><br><em> 欢迎在Twitter上关注黄安伟<a href="https://twitter.com/comradewong" target="_blank" rel="nofollow">@comradewong</a>。</em><br><em> Sarah Li对本文有研究贡献。</em><br><em> 翻译：纽约时报中文网</em><br><em> <a href="http://www.nytimes.com/2016/03/11/world/asia/china-tibet-tashi-wangchuk.html?_r=0&mtrref=undefined&gwh=162635B9DFAAB5AFD179799750079B13&gwt=pay" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%80%A1%E5%AF%BC%E8%97%8F%E8%AF%AD%E4%BC%A0%E6%89%BF%E7%9A%84%E8%97%8F%E6%97%8F%E5%95%86%E4%BA%BA%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%85%B3%E6%8A%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">文化保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%97%8F%E6%96%87%E5%8C%96/?category=18271" rel="tag">藏族文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E6%8A%BC/?category=18271" rel="tag">非法拘押</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-130/" target="cdt-mirror">【河蟹档案】喀什再现菜刀实名制，公安称要抓“造谣人”</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -98,7 +128,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B1%A0%E6%9D%80/?category=18271" rel="tag">天安门屠杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/?category=18271" rel="tag">美国大选</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E6%96%B0%E9%97%BB%E6%B3%95%E7%AB%8B%E6%B3%95-%E5%AE%98%E5%91%98%E9%A1%BE%E5%B7%A6%E5%8F%B3%E8%80%8C%E8%A8%80%E4%BB%96/" target="cdt-mirror">自由亚洲｜记者提问新闻法立法 官员顾左右而言他宣布散会</a>
 </h2>
@@ -601,30 +631,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bobs/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E4%B8%BA%E5%9F%BA%E7%A1%80/" target="cdt-mirror">自由亚洲｜张德江：中国国家安全法以中国特色为基础</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg" rel="attachment wp-att-431387"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?resize=585%2C293" alt="图片：中国《国家安全法》宣传材料（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/51386f38-45a0-4c74-b1ed-7a5db3973df5.jpeg?w=622 622w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>图片：中国《国家安全法》宣传材料（Public Domain）</p></div>
-<p>中国全国人大委员长张德江在人大工作报告中说，中国新的一系列国家安全法规是“为走中国特色的国家安全道路奠定了法律基础”。有外媒认为，他的讲话旨在驳斥国际社会对中国国家安全法一些条文的担忧和批评。</p>
-<p>路透社3月9号发自北京的报道说，中国全国人大委员长张德江在他当天所做的人大工作报告中指出，中国近来通过的一系列包括《反恐法》在内的新国家安全法表明，中国正在以具有“典型中国特色的立场”来对待国家安全问题。张德江的讲话是要反驳前些时候美国、加拿大、德国、日本、以及欧盟的驻华大使向中国政府发出的联署致函，表达对中国已经通过的《反恐法》、或正在审议的《网络安全法》草案、以及《境外非政府组织管理法》草案中的一些条文表达的担忧。</p>
-<p>中国官方新华社的报道说，张德江在讲话中说，中国新的国家安全法“从中国国情和实际出发，科学界定国家安全的内涵，明确规定了国家安全工作的指导思想、领导体制、基本原则、主要任务和保障措施等，为加快构建国家安全体系、走中国特色国家安全道路夯实了法律基础”。他说，在当前国际国内反恐怖形势严峻复杂的背景下，加强反恐怖主义工作尤为重要。</p>
-<p>张德江还说，“我们对反恐法的改进，将在依法防范和惩治恐怖主义活动、维护国家和公众安全、保护生命和财产安全方面都具有重要意义。”</p>
-<p>美国，加拿大，德国和日本大使于今年1月27日致函中国国务委员和公安部部长郭声琨，对中国的新《反恐法》、以及正在审议的《网络安全法》草案和《管理外国非政府组织 (NGO)法》草案表达了关注和忧虑。欧盟驻中国大使汉斯-迪特马尔(Hans Dietmar Schweisgut，中文名“史伟”)，1月28日也向中国国务委员和公安部长郭声琨发出了表达担忧的信函。</p>
-<p>美国迈阿密大学国际关系学系主任德雷伊尔教授就此表示，中国当局一贯不理会外国政府或团体对其安全法律条文或高压维稳措施的批评或担忧，但这对中国不利：</p>
-<p>“我想，一些外国政府和公司对中国的国家安全法律中某些条文表达担忧是应该的，但我也相信，中国政府可能不会因为外国政府的担忧和批评而改变他们的法律。中国这些法律可能造成的后果之一就是使那些在中国运作的外国公司最终认识到，他们最好还是从中国大陆撤离到类似越南、印度等其他新兴发展中国家去运作，而这些其他国家当然也很高兴吸引外国公司到自己的国家里去投资和运营。这样的后果对目前正在遭受经济大幅放缓和疲软的中国来说，并不是一件好事。因此，虽然中国政府有权继续不理睬外国政府和公司所表达的关注，但这样下去最终可能对中国自己造成的后果也不会太好。”</p>
-<p>美、加、德、日四国大使的联署信函还表示，中国的《网络安全法》和《反恐法》使中国政府拥有的庞大打压权力被法律化，强化当局对媒体和互联网言论的广泛审查权力和对某些高科技的过分控制。批评者还指出，中国《反恐法》对恐怖主义的定义过于广泛，很可能使一些非暴力表达不同政见的行为也被定义为“恐怖主义”。</p>
-<p>中国全国人大去年12月通过的《反恐法》中一些规定模糊不清，有可能在投资者中造成“不确定的氛围”。欧盟驻华大使在信函中也使用了相同的语句批评中国这些法律可能造成的不良影响。同时，两份信函都表达了他们愿意与中国当局就上述法律制定实施规则时进行沟通的意愿。</p>
-<p>美国中文刊物《北京之春》荣誉主编胡平此前就中国的《反恐法》表示：</p>
-<p>“我想中国政府本来的目的就是要加强对整个社会的控制，包括加强对在华外国企业和科技公司的控制。中国的反恐本来就带有这种‘醉翁之意不在酒’的特点，而习近平上台以来，对中国社会各方面的控制显然是加强了很多。”</p>
-<p>路透社的报道说，中国政府一直指控新疆的伊斯兰激进分子是该地区频繁发生的暴力袭击事件的罪魁祸首。但国际人权组织和流亡海外的维吾尔人士却说，维吾尔人对中国政府严密控制他们的宗教和文化生活的愤怒才是新疆动荡频发的真正原因。但中国政府否认在新疆实行高压政策，并表示，中国面临着来自从新疆前往中东参加伊斯兰国恐怖组织的维吾尔人的威胁。</p>
-<p>路透社的报道说，张德江透露，中国今年将对《网络安全法》和《外国非政府组织管理法》进行审议，但没有说明上述法律何时能够通过。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E4%B8%BA%E5%9F%BA%E7%A1%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%81%90%E6%B3%95/?category=18271" rel="tag">反恐法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89%E5%A7%94/?category=18271" rel="tag">国安委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A7%94%E5%91%98%E4%BC%9A/?category=18271" rel="tag">国家安全委员会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">国家安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84/?category=18271" rel="tag">在华投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -646,5 +652,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

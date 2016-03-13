@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BE%8B%E5%B8%88%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D%E8%A2%AB%E6%89%A3%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/" target="cdt-mirror">自由亚洲 | 律师袁裕来邮购港台书籍被扣起诉政府</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-%E4%B8%8A%E5%8D%889.30.40.png?resize=418%2C560" alt="Screen Shot 2016-03-13 at 上午9.30.40" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.30.40.png?resize=224%2C300 224w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.30.40.png?w=418 418w" sizes="(max-width: 418px) 100vw, 418px" data-recalc-dims="1"><br><span>香港铜锣湾书店事件扩大化（忻霖拍摄）</span></p>
+<p>浙江律师袁裕来近日在淘宝网上的书店购买的14本港台书刊遭当局查扣，事件引发关注。袁裕来近日一纸诉状将宁波市江东区文化广播新闻出版局告上法庭，请求撤销并归还查扣书刊。袁裕来告诉本台，香港铜锣湾书店事件扩大化，导致中国当局更加收紧大陆出版自由。</p>
+<p>在大陆有“行政诉讼第一人”之称的律师袁裕来，近日向宁波市北仑区人民法院递上行政诉状，控告宁波市江东区文化广播新闻出版局无故查扣他在淘宝所购买的港台图书。</p>
+<p>袁裕来称，被扣书籍为港台出版社合法出版，不是所谓的“禁书”，他在下单之前是经过认真审查。查扣书籍的行为没有事实和法律依据，严重侵犯了他的权利。</p>
+<p>袁裕来：“能上网的人没有会跑到实体书店去买书，淘宝的网上书店都是合法的经营，是非常平常的购书途径，买港台版的书也很正常，现在网上销售的和实体店是一样的。我买的书有两本圣经的读本，还有几本脱北者的故事，不涉及到中朝政府的交往，就算是被扣以后，淘宝、当当、京东、亚马逊也都能买到，其中有六本还在国家图书馆可以借阅。当时文化局带了民警、国保过来，没有任何证据能够证明里面是什么书，因为没有打开，我就跟他们交涉，不肯让他们拆分这个包裹，因为邮件不能随意打开，因为涉及到我个人的隐私，简单的来说侵犯了我的请通讯自由，再从通常的老百姓的角度来说是正常的工作、生活自由受到影响，让人感到挺可怕。”</p>
+<p>据了解，被查扣的书刊分别为《拥有七个名字的女孩》、《新旧约圣经轻松读》、《谁说民主不亡国》、《没有名字的人》、《流水何曾洗是非》、《无敌——林肯 不以任何人为敌人 创造了连政敌都同心效力的团队》、《在资本主义带来浩劫时聆听马克思》、《影响世界的圣经100大事件》、《我想活得像个人》、《天堂》、《蔡英文绕不绕得过中华民国》、《夜——纳粹集中营回忆录》、《执法所思》、《隐动力》。</p>
+<p>袁裕来认为，香港铜锣湾书店事件发生后，中国当局对出版自由的打压开始扩大化：“也跟香港铜锣湾书店里大批敏感的书进来有点关系，当时在办公室国保也说起有几千本几万本进来，铜锣湾书店的书进来当然要查，他的有些书不排除捕风捉影的，但是不要图扩大化，我跟执法人员也讲，没有理由的强行扣押是非常明显的扩大化。”</p>
+<p>而宁波江东区文广新局执法大队证实，该局为配合公安部门调查袁裕来涉嫌购买储存非法出版物一案，至于被查书籍是否属于非法出版物，还要等待专业鉴定结果。</p>
+<p>关注事件的武汉维权人士张毅接受本台采访时称：“你可能不跟民主沾边他不会找你，只要跟民主沾边那怕是平时看多一点关于民主方面的新闻，和别人多聊两句，他们就开始监控，事实上监控无时无刻不在的，只是他监控的紧和松的问题。有重点维稳监控对象，他们在每个居委会社会综合治理办公室专门有名单搞网格化管理，主要就是监控我们这些人的，觉醒的人越来越多，很多人表面上不说，但心里都知道是怎么回事。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BE%8B%E5%B8%88%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D%E8%A2%AB%E6%89%A3%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">港台书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5/?category=18271" rel="tag">袁裕来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">袁裕来起诉政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">袁裕来邮购港台书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%A4%E4%BC%9A%E8%83%BD%E4%B8%BA%E6%B0%91%E4%BC%97%E5%81%9A%E7%9A%84%E5%A5%BD%E4%BA%8B%E5%8F%AA%E5%89%A9%E4%B8%8B/" target="cdt-mirror">东网 | 赵思乐：“两会”能为民众做的好事只剩下“解散”</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-%E4%B8%8A%E5%8D%889.24.35.png?resize=574%2C407" alt="Screen Shot 2016-03-13 at 上午9.24.35" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.24.35.png?resize=300%2C213 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.24.35.png?w=574 574w" sizes="(max-width: 574px) 100vw, 574px" data-recalc-dims="1"><br><span>“两会”不再是“橡皮图章”，它成了另一台2016春晚，更有底气纯粹地政治宣传化。</span></p>
+<p>一年一度的“全国人民代表大会”和“全国政协委员大会”（下称“两会”）在开幕近一周后，终于出现了第一个引起公众注意的政策讨论：《慈善法（草案）》审议。</p>
+<p>审议开始后的24小时内就出现了两个新闻点，一是根据人大常委会副委员长李建国作的草案说明，媒体总结出了“个人帮非亲非故者网络募捐属非法”的大字标题；二是在分组讨论中，工商联代表提出该法为慈善组织设置的15%行政费上限过高。许多围观网友对这些新闻的反应已经简化到只有“呵呵”二字，对前者更多只晒不评，有人在转发时写上“不妄议”。</p>
+<p>对《慈善法（草案）》的分析已有很多，也并非本文旨在，但从网民对这个重磅法案的反应，民间对“两会”甚或体制的观感可见一斑——不认可、恐惧感和无力感消解一切严肃讨论的欲望，剩下的只有隐晦的嘲讽和自觉的沉默。</p>
+<p>在过去，每年多多少少都有自由派知识分子用“两会”内容点评法治／政策进步与否，而今年则纷纷意兴阑珊。</p>
+<p>想不阑珊都不行，前不久大V任志强才因微博言论被官媒连番严责，大部分民间意见领袖和异议分子都已被微博和微信销号禁言，之前发言颇为刺激有趣的律师浦志强更被法院以微博“辱骂”人大代表为由作出有罪判决。虽然普遍认为浦志强并非真因微博言论惹祸，而是被官方以欲加之罪“收拾”，但人人自危已成定局。</p>
+<p>恐惧是一方面，更决定性的是“无用”。尽管不少民间群体依然就着两会尝试推进自己的议题，比如维权律师和当事人家属联署促请人大调查“709案”，女权群体致信人大代表希望关注性骚扰和就业歧视议题，访民拦截人大代表车队等等，但他们的心态几乎已完全转变为“结机发声”，而非真的相信自己的议题能够通过两会上达并带来改革。甚至有民间人士明言两会上访就是为了增加地方维稳成本：“你不让我好过，我也不让你好过。”</p>
+<p>不能否认，每一年还是有极少代表在做着符合民间利益的提议，比如去年张抗抗建议废除收容教育，今年朱征夫要求警惕未审先判，但这些提议基本上只有石沉大海一种结局，敢言的朱征夫委员甚至让人担心他未来一年的际遇。</p>
+<p>2016又逢5年一度的人大换届选举，前几次都有不少民间人士兴致勃勃地参选基层人大代表（这是普通民众唯一可以直接参选的层级），而今年虽然民间仍有相关讨论和意向，但明显较以往淡静。</p>
+<p>一名曾在2011年以大学生身份参选并引发关注的青年坦言，自己仍在纠结是否再次参选，因为当选的希望固然一直很渺茫，但现在这一行动甚至在民间也不可能有多少关注和认可，而且即使当选也不知道对现实能有什么改变。</p>
+<p>如果说政治环境的再极权化——意识形态上升、全能领袖集权、警察恐怖管制——给民间带来的是虚无和沉默，那么给体制内和希望向体制靠拢的人带来的则是犬媚式或爪牙式的变异。为了自身的“上进”和安全，他们要么表达对党和领袖的忠诚爱慕越发殷切露骨，要么就举起大棒率先打击“敌人”以表忠心。</p>
+<p>“两会”更多是前一种变异的舞台。黑龙江龙电律师事务所主任李亚兰在上千人的两会上“审议”政府工作报告后发出文章，称自己“与我们伟大的习总书记一同审议”、“整晚都高兴得不能入睡”、与领导握手时“我激动不已，脱口而出说：‘总书记，人民律师拥护您！’”……此文被转发到维权律师群体，顿时一片“恶心”、“想吐”、“舔菊”之声，认为她没有资格代表律师。</p>
+<p>类似的情形还有，习近平来到青海代表团审议，代表毕生忠地对他说：“我们那里的老百姓把你喜欢得不得了！”在央视新闻中，“外来务工者代表”朱雪芹说：“我发觉总书记的白头发多了一点。”中国社会科学院学者孙宪忠在接受采访时称赞习近平：“他的亲和力，即是执政党稳健成熟的标志，也是大国领袖纵览全局，胸有成竹的体现。”</p>
+<p>到此时，“两会”已远非多年被诟病的“橡皮图章”可以概括，它成了另一台2016春晚，只是比春晚更没有娱乐群众的包袱，更有底气纯粹地政治宣传化。</p>
+<p>对于民众来说，“两会”用着他们的钱、以他们的名义、为他们的压迫者撑着“民主”的脸面、唱着赞歌，民众只能选择不听、不看、对以沉默，不小心看到了，只能尴尬地“呵呵”，或者小心翼翼、心惊胆战地冷嘲热讽。“两会”把民众置于如此可悲可笑的境地，如果问它还能为他们做什么好事，大概只有“解散”二字。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%A4%E4%BC%9A%E8%83%BD%E4%B8%BA%E6%B0%91%E4%BC%97%E5%81%9A%E7%9A%84%E5%A5%BD%E4%BA%8B%E5%8F%AA%E5%89%A9%E4%B8%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%8D%8F/?category=18271" rel="tag">政协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A9%A1%E7%9A%AE%E5%9B%BE%E7%AB%A0/?category=18271" rel="tag">橡皮图章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%AE%E5%8D%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%E7%9A%84%E8%BD%AC%E8%AF%84%E4%B9%8B%E4%B8%80/" target="cdt-mirror">【立此存照】微博历史上最令人绝望的转评之一</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A21.png" rel="attachment wp-att-431600"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A21.png?resize=525%2C407" alt="共青团1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=300%2C232 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=768%2C595 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=1024%2C793 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?w=2260 2260w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br>
@@ -123,7 +167,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%BA%A7/?category=18271" rel="tag">党产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%AE%88%E9%AD%9A%EF%BC%9A%E5%AE%98%E4%BA%BA%EF%BC%8C%E8%AF%B7%E7%BB%99%E5%A5%B4%E5%AE%B6%E5%AE%9A%E4%B8%AA%E8%A7%84%E7%9F%A9%E5%90%A7%EF%BC%81/" target="cdt-mirror">东网｜守魚：官人，请给奴家定个规矩吧！</a>
 </h2>
@@ -581,82 +625,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%89%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E4%BA%9A%E6%B4%B2%E5%BC%8F%E7%9A%84%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%EF%BC%9A%E5%B9%BB%E6%83%B3%E4%B8%8E%E5%8D%B1%E9%99%A9/" target="cdt-mirror">东方历史评论｜亚洲式的资本主义：幻想与危险</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BA%9A%E6%B4%B2%E6%A8%A1%E5%BC%8F1.png" rel="attachment wp-att-431477"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BA%9A%E6%B4%B2%E6%A8%A1%E5%BC%8F1.png?resize=525%2C351" alt="亚洲模式1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/亚洲模式1.png?resize=300%2C201 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/亚洲模式1.png?resize=768%2C514 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/亚洲模式1.png?resize=1024%2C685 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/亚洲模式1.png?w=1337 1337w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p><strong>撰文：潘卡杰·米什拉</strong><br><strong>翻译：孙微</strong><br><strong>《东方历史评论》微信公号：ohistory</strong></p>
-<p><strong>本文选自《历史学人（第1辑）》</strong><br><strong>亚洲的“爆炸式转型”</strong></p>
-<h3><strong>1 </strong></h3>
-<p>30多年前，中国领导人邓小平宣布“让一部分人先富起来”，开启了中国乃至世界的崭新历史篇章。如今看来，没有一个地方能比“二战”之后的亚洲更能体现资本主义能够创造财富这一事实了。迄今为止我们都听闻中国和印度正崛起为经济大国，而早在20世纪60年代后期，韩国、中国香港和台湾地区、新加坡，甚至泰国、印度尼西亚和马来西亚的经济增长速度已经是欧美国家的两倍。</p>
-<p>在上述国家和地区中，军政府或专制政府与商人进行合作，产生了大型垄断集团，例如韩国财阀的兴起。大多数普通人长期生活在非民主体制下，之后又经历了自由选举、民主制度；几十年的经济不均衡增长之后，他们又要试着应对空气、土壤和水的不可逆污染。工作时间长、工资低、流动性受限以及常年工作不稳定是亚洲经济体里多数劳动者尤其是女性的共同命运。然而，有些人在亚洲的“镀金时代”获得了极为丰厚的财富：以“崛起”的印度为例，在1996—2008年间，营养不良儿童的比例几乎没有改变，一直是在50％左右，而印度少数亿万富翁占据国家财富总值的比例则从1％增长到22％。</p>
-<p>个人财富如此集中的情况在如今的亚洲已非常常见，相对应的还有众多亚洲版霍雷肖·阿尔杰式的传说。1928年出生于香港的李嘉诚，也就是当下拥有310亿美元财产的亚洲首富，最初只是一个售卖塑料花的穷困中国移民。盛行的还有另一种道德故事，例如印尼的李文正，他最初只是一家自行车店里的打工仔，随后在印尼强人苏哈托和海外华商“竹网”——亚洲除日本之外最强的经济力量——的帮助下，将自己的小生意打造成了吸引全球资源的家族商业帝国。</p>
-<p>大多数美国人第一次听说李文正还是通过他的儿子—银行家詹姆斯。詹姆斯于1996年因为比尔· 克林顿的总统竞选提供非法资金捐助获罪，他还被指与中国情报部门有关联。但是，在西方资本主义历史上，类似的政商合谋并不鲜见。毕竟，在维多利亚时期的英国和威廉时期的德国，大家族拥有企业、办银行、试图操纵政治的故事屡屡发生。而美国在工业资本主义早期，先是被一些强盗资本家主宰，后来又有了石油、钢铁和铁路大亨，之后，他们的家庭成员、后代和亲信们又让位给了相对透明、为股东考虑的企业。</p>
-<p>真正说得上新鲜的是，越来越多的文学评论开始审视亚洲式资本主义的意识形态和实践应用。阿米塔夫·戈什在他的三部曲小说中的前两部《罂粟海》和《烟河》中，对西式资本主义紧随炮舰和契约劳工而来进行了全景式描述。另外三部新小说—穆赫辛·哈米德的《如何在崛起的亚洲暴富》、欧塔什的《五星级亿万富翁》和兰迪‧博亚哥达的《乞丐的盛宴》，都以当代亚洲为背景，考察了亚洲经济体系所面临的更深层次的危险和幻想。</p>
-<h3><strong>2</strong></h3>
-<p>这是在西方某个时间点也发生过的道德反思。对于19世纪欧美小说家或者20世纪初的美国作家而言，在一个国家里，金钱是衡量一切的尺度，物质上的成功可以弥补知识与情感的不足，这些是全新的现象。从狄更斯到巴尔扎克，到左拉、德莱塞，小说家们无不惊悚于工商行业巨大而无人性的工作场地，数世纪以来的传统宗教和哲学所鄙夷的自私与贪婪竟突然得到了尊重。政治家和银行家相互勾结，而媒体和司法则为其涂脂抹粉，这使得愤怒的巴尔扎克写出了《人间喜剧》，德莱赛写出了《美国悲剧》和《泰坦》。在20世纪初，以辛克莱·刘易斯和F·斯科特·菲茨杰拉德为代表的一批作家还描写，甚至可以说是悲情地演绎了在当时那种高度一致的社会攀爬文化中，想要寻求有意义的伦理原则和美的价值的个体命运。</p>
-<p>在当今世界，金钱关系已深深植根于世界各地的文化之中。资本主义的无情机制和内置的不公正显然是无法更改，并将永远存在的。但是这些已不能对当代作家产生相同程度的冲击、厌恶或恐惧。这并不是因为资本主义在期间失去了道德合法性，也不是因为资本主义是现在很多文学家的赞助方。总体上，文学已变得更加关注个人而非更宏大的社会经济发展过程，定义后者也变得更加困难。资本主义社会不再如巴尔扎克所描写的那样，是充斥着蠢人和无赖的丛林。资本主义所创造的资产阶级文明为原始的野心、公然的侵略和低俗的浮夸进行了掩饰。</p>
-<p>但也有例外，例如唐纳德· 特朗普和谢尔登· 阿德尔森，他们回归到了更穷奢极欲的时代，这也证明了我们所处的时代充斥着各种讽刺。衣着和举止上的平均主义使得阶层不再明显，而大资本家越来越多地投身慈善，通过社交媒体来推广社区与合作的理念。2008年的金融风暴，以及之后西方普遍意义上的危机感，可能会产生更多像扎迪· 史密斯《NW》这样的小说。小说要人们警惕全球资本主义繁荣时期带来的收入和机会的残酷不平等、人与人之间的冷淡、精神空虚，因为这些就连富裕和特权阶层也无法摆脱。然而，对资本主义进行利爪獠牙血腥描述的更多的是在以当代亚洲为背景的小说里。阿拉文德·阿迪加的《白老虎》讽刺了印度不道德现象广泛存在的现实。有些企业家为了致富，运用谋杀手段就像女人丰胸和人造处女膜一般轻松。穆赫辛‧哈米德、欧大旭以及兰迪‧博亚哥达则展示了亚洲资本主义特有的形象。虽然三部小说分别由巴基斯坦人（穆赫辛· 哈米德）、马来西亚人（欧大旭）和带斯里兰卡口音的加拿大人（兰迪· 博亚哥达）撰写，场景分别在上海、新加坡、斯里兰卡以及哈米德笔下那个神似巴基斯坦的不知名国家，但是这些小说的故事情节都沿着一条熟悉的轨迹发展：青年男女被迫放弃农村的老家前往大城市。哈米德写道，“走向城市是在崛起的亚洲里走向暴富的第一步”。这也是远离贫穷、停滞、封建压迫、疾病和夭折的第一步。哈米德在小说的最初几页对他想象中的读者提到了这样一种肮脏：“你的眼白变得浑黄，这是高胆红素血症的结果。你感染的这种病毒叫戊型肝炎，通过排泄物或口腔传染。”</p>
-<p>这种世界上最大规模的人口迁徙依旧令人费解。数亿人涌向城市，而城市却无法容纳下他们，这就为亚洲的政治和经济播下了动荡的种子，从宗教极端主义和穆斯林革命，到印度妇女遭遇越来越严重的暴力，到中国沿海城市令人目眩的经济增长。哈米德称其为“爆炸式转型”，以往那种相互支持、令人窒息、稳定的人际关系让位于不安全、焦虑、生产力和潜力。</p>
-<h3><strong>3</strong></h3>
-<p>这些都是事实，但哈米德所说的生产力和潜力究竟指什么？他小说中的主角穷困潦倒，以销售盗版DVD、过期食品、假矿泉水为生，之后又与国家最大的企业和军工企业做起了利润丰厚的生意。博亚哥达的小说主角是冷酷无情的商人萨姆· 康提。康提接受的启蒙教育是在20世纪初的锡兰（斯里兰卡的旧称），“在那些明亮、湿热的狭窄街道，每一个商贩都是科伦坡最不老实的人”。然而，康提像许多海外的中国人一样，利用欧洲帝国主义在亚洲铺设的海运和贸易网络发了财。欧大旭小说中的马来西亚追梦者不顾一切地想在上海这个中国经济的引擎之地立足。</p>
-<p>这些亚洲主角们都充满斗志，但是人们很快就能注意到他们与19世纪西方创业者们的区别。托马斯·曼《布登布洛克一家》中的商人家族有着一种平和的自信和商业活力；即便是鼓舞人心的霍雷肖‧阿尔杰小说中，传统老式的美德被奉为追求个人财富的正确路径，而非精明算计。但是21世纪早期，雄心勃勃的亚洲人闯入的是一个已被现代工业资本主义大幅改造的世界，大众生产、大众分配和大众消费已成为常态。人与人之间的关系大多是淡漠甚至匿名的，更像是一种交易；只有很少人相信竞争激烈的市场经济里有公平可言，也只有很少人相信市场经济能让数十亿亚洲人能够享有消费主义生活方式。事实上，这种生活方式至今也只有少数欧洲人和美国人能够享受到。</p>
-<p>创新和原创并不能使你走到很远，事实上印度很少有从赤贫到暴富的故事，因为印度的经济仍然由商业家族和房地产开发、建筑和矿山的积极投资者们掌控。在这样的环境下，对于那些占据不利地位的局外人而言，最好是严格遵照已有的成功模式——一旦这个模式被确定之后。商人的成功并不在于他提供了多少商品和服务，而是在于他展现出来的合适的个性。因此，由此催生的一批山寨制造商、零售商、调停者以及经纪人在亚洲形成了一个完整的社会阶层，但是他们很大程度上仍是非正式、无组织的经济体。</p>
-<p>因此，“成功学”产业也在亚洲繁盛起来：过去10多年里，印度有一本最畅销书叫《如意算盘要早点打》，由一位自封为“管理大师”的人撰写。穆赫辛· 哈米德和欧塔什为了小说叙事对积极呼吁型的文学进行调整，这也不足为怪了。当然，考虑到亚洲的背景设置，他们不得不修改美国自助的那一套公式—伪科学、神秘主义、心理学、自我暗示以及实用主义。《如何在崛起的亚洲暴富》以“这是一本自助书”开头，其章节标题包括“随时准备使用暴力”和“让战争艺术家”，以及传统的劝告例如“接受教育”和“寻找出路的策略”。欧欧塔什《五星级亿万富翁》里有“寻找合适的时机推销自己”和“追求利益，忘掉正义”—这些都是带有“气吞山河斗志昂扬”儒家智慧的残酷的当代街头生存指南。欧大旭书中的一个主角菲比就经常阅读《让自己变得世故》和《五星级亿万富翁的秘密》之类的书籍。事实上，哈米德走的更深入，他采用了励志的第二人称单数来叙事。他在小说中对“你”说话，但读者却无从得知叙事者自己的名字。正如卡尔维诺在《冬夜里的路人》运用第二人称一样，哈米德称这种形式帮助他用后现代的方法来顽皮揣测读者与文本之间的关系本质：例如，作为读者的“你”是否和此书的英语母语读者一样，试图从哈米德小说这样的非西方小说中寻求自我救助。英语母语读者们被莫名其妙地卷入“由于全球化的原因，遥远的国度正越来越多地影响着自己的生活”。在书的其他部分，哈米德使用自助体裁的倾向概括、构建理想的心理和社会学类型，并讲述了叙事者70年依靠自我成就来驱动的生活。不拘泥于传统小说的情景设置、人物发展和叙事进展，哈米德将探索的眼光投射到了奸商、贪官污吏的阴暗世界。我们了解了中小型工厂的做法和节奏，也看到了资本主义逻辑转换了一切：即便是大学里资金雄厚的伊斯兰学生组织都成“一个企业”，因其“占领街头能力”和“能够显示强大力量”的作用而被政客们利用。</p>
-<p>哈米德在小说开端写道“；在一个寻求自救的世界里，依靠自我的想法是站不住脚的”。唯一有用的自我是能像变色龙般迅速适应新的商业环境。因为在这个世界里，官僚“穿着国家的制服，却暗地里中饱私囊”，银行家们“身着私人的制服背后却有国家在撑腰。”的确，这是对过去半个世纪亚洲资本主义的发展总结出的经验。哈米德通过书中反派主角因贿赂政客和官僚而获得丰厚的合同强调了这一经验。这里根本没有无形之手或者自由市场在运作。事实上，“在没有国家权力的庇护下进行创业是一场忧伤的奋斗，一场永不停歇的战斗，一种你死我活的斗争，而且几乎没有多少成功保障。”</p>
-<p>哈米德对商学院的术语进行了讽刺，在对经济增长无比迷恋的亚洲社会里，这些术语影响到了普通对话、政治演说和报纸社论。“当放弃工资的机会成本变得显著，大部分您所在地区的孩子到了12岁左右就可以去上学了。”结果，对机会成本进行理性分析的程度越高，人类情感的寒蝉效应也就越大。哈米德警告，“对于致富而言，爱情很有可能成为一种障碍……它扑灭了野心蒸炉里燃烧的熊熊烈火，抢走了已踏上财富之路的心跳”。连做爱都要么偷偷摸摸或者成为毫无快乐可言的例行公事：“他们压抑了声音，但是肌肉的摩擦，肉体的碰撞，呼吸的急促，和液体的抽吸却依旧清晰可辨。”</p>
-<h3><strong>4</strong></h3>
-<p>在这个超级男性化的世界里，妇女和儿童的处境总体不佳。欧大旭小说中的马来西亚追梦者菲比，只能读像《如何得到并留住一个男人》这类书。在一次重要的约会之前，她站在衣橱前思考应该穿什么样的衣服，最后她选择听从一本自助手册的建议：“穿得性感”。哈米德书中的主角童年就痴情于一个“漂亮姑娘”，这个漂亮姑娘长大后成了时尚模特，私生活很乱。他的妻子也面临着自我商品化的命运，她剃了阴毛，穿上情趣内衣，然而却无济于事。他的丈夫已经沉迷于商业竞争，充满了暴力幻想。事实上，在博亚哥达的《乞丐的盛宴》中，萨姆· 康提对他自己的妻子也随时实施暴力：他将第一任妻子从行驶中的汽车上推下去，“夜晚，一团白色物体在黑色的地面像波浪一样翻滚”。他用同样残忍的手段杀害了第二任妻子；他还迫使自己那个十恶不赦的儿子在对十多个处女施暴后参军。这些孤独寂寞的独行侠与现代人格格不入，更别提记住国家刚摆脱西方统治时所抱有的振兴国家、捍卫尊严的愿望。在一个男人和女人的数量仅比野兽多一点的丛林社会中，要想建立一个有效的政治体制几乎不可能。</p>
-<p>但是，即便是如此缺乏人类价值的人生，也能给使最贫瘠的灵魂滋生不安。哈米德书中的主角在完全失去财富之后才超越，看到了一丝生活的曙光；然后，他终于不畏惧亚洲自助流派所拥趸的反浪漫的狭隘，与那位前模特同居了，因为她曾经给过他柔情和激情，这是他唯一真实经历过的。挫败和漂流感也软化了欧大旭书中上海掘金者们的坚硬外壳。因此，《如何在崛起的亚洲暴富》和《五星级亿万富翁》的最后几个章节标题运用了一种忧思的口吻：“专注于最基本的，”哈米德写道，“吹过绒毛”“透过树木见森林”。而欧大旭则呼应道“努力理解大方向”“知道什么时候止损”。</p>
-<p>他们迷失的主人公们跌撞着走向忧郁的智慧“: 生命中没有什么能永垂不朽。”特别是哈米德笔下那些不可能在一起的恋人们，沉迷于亨利‧詹姆斯临终前喊出的“那个绝妙的东西”。这为两部小说的结尾奠定了一个意想不到的伤感基调。这是因为虽然哈米德和欧大旭似乎开始避免用愤世嫉俗的笔调来描绘那个非凡精彩的世界；看起来他们已经接受了自助风格的暗示，即人生是一场无休止的丢失灵魂和美感的斗争。</p>
-<p>他们也不赞同那些保守的道德观念，保守观念总是将失败归咎于不完善的个人品质，而不是制约人的社会制度。在整个亚洲，相比起允许一部分人先富起来的时候，当下的资本主义似乎变成了更不公平的机会游戏。资本主义引起了富贫、城乡、地方和全球之间的严重破裂。居住在巴基斯坦，哈米德对野蛮的等级制度和不断升级的沮丧、愤怒和暴力保持警惕，这些情绪很大程度上是因为穷人通过无处不在的电视对富人的生活有了更多的了解。由于受到了无政府状态和复仇暴行的威胁，少数的富人生活在保护森严的小区里，也就是哈米德的主角送水去的那些小区，而那些被甩在社会底层的年轻人，他们的愤怒情绪却在不断地增长。这些国家的人口加起来占据了世界人口的1/4。“有时候，”哈米德写道，“当你看着豪华SUV在狭窄道路行驶被投以愤怒的目光时，你会为自己仍旧贫穷感到庆幸。”当然，哈米德的小说本可以通过一个偶然而且毫无意义的武装抢劫案来结束—这在每天的亚洲报纸犯罪栏目上都能看到，进而完成虚无主义的阐述。从某种意义上说，他的主人公更偏好一种更温和的生活方式，然后再自然死亡，这也对亚洲富豪的生存提供了一种策略，并对书的标题进行了补充：“如何在崛起的亚洲暴富并且有尊严地离世”。</p>
-<h3><strong>5</strong></h3>
-<p>亚洲有一些冷酷无情的投机分子，他们用时髦的做旧物品来掩盖穷困生活的灰尘和污垢，正如哈米德的主人公晚年常光顾的一家咖啡厅，“仿磨损”的作旧风格里隐藏着之前水果摊贩被驱逐的事实。过去被毫不留情地抛弃，仅仅成为利润的另一来源。《五星级亿万富翁》里的房地产开发商希望把家乡吉隆坡的一家受欢迎的老电影院改造为“多用途的复合体”，一个有着奢侈品零售店的精品酒店。</p>
-<p>当百岁的山姆‧康提回到他的村庄，他发现自己的家乡转变成了典型的旅游景区，一个洗刷掉其创造者很多罪恶的地方。在这个“地道”的斯里兰卡，“历史与记忆”被“轻松定位，合理定价，而且穿过设有全新休息站点的安全道路和少数几个军事检查站就能抵达。”与此同时，这些还带动了很多就业机会：“没能当上村民的人成为了售票员和小吃店的工作人员。”</p>
-<p>但是在巨大的亚洲腹地，仍然有着数量庞大的一群人，就如同博亚哥达写到的，他们是穿着廉价休闲裤、T恤和巴塔拖鞋在树荫下吸烟的小人物。他们从未念过书，只能眼睁睁地看着那些念过书的人离开村子，而他们只能留在这里，如同花园里的杂草。</p>
-<p>这一令人不安的画面提醒着我们，那些被遗弃的人数量是如此巨大，而且在亚洲这场追赶西方富足和绚烂的赛跑中，他们永远也无法跟上脚步。很大程度上，他们在亚洲资本主义的戏剧里集体失声。然而，未来却真正属于这些无形的“肮脏穷困”的大多数—他们虽无法寻求生命的更多可能性，但却保留着杂草一般的生命力，在这世界上最热忱维护的花园里茁壮成长。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA.png" rel="attachment wp-att-431478"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA.png?resize=475%2C280" alt="东方历史评论" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/东方历史评论.png?resize=300%2C177 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/东方历史评论.png?resize=768%2C452 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/东方历史评论.png?resize=1024%2C603 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/东方历史评论.png?w=1362 1362w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E4%BA%9A%E6%B4%B2%E5%BC%8F%E7%9A%84%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%EF%BC%9A%E5%B9%BB%E6%83%B3%E4%B8%8E%E5%8D%B1%E9%99%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">中国模式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">亚洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E5%8A%9F%E5%AD%A6/?category=18271" rel="tag">成功学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE/?category=18271" rel="tag">改革开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E7%A0%B4%E5%9D%8F/?category=18271" rel="tag">环境破坏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%9B%9E%E5%BA%94%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%AD%E6%96%87%E5%B8%90%E5%8F%B7%E8%A2%AB%E5%88%A0/" target="cdt-mirror">BBC | 中国网信办回应《南华早报》中文帐号被删</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160311142018_scmp_wechat_439x549_scmpwechat_nocredit.jpg?resize=304%2C380" alt="微信历史发布显示，《南早》最后一次发送微信内容是星期一（3月7日）。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160311142018_scmp_wechat_439x549_scmpwechat_nocredit.jpg?resize=240%2C300 240w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160311142018_scmp_wechat_439x549_scmpwechat_nocredit.jpg?w=304 304w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1"><p>微信历史发布显示，《南早》最后一次发送微信内容是星期一（3月7日）。</p></div>
-<p><strong>中</strong><strong>国互联网管理部门表示，互联网信息服务提供商对网上内容负责且有权关闭网站。</strong></p>
-<p>中国国家互联网信息办公室周五（3月11日）在就香港英文《南华早报》的新浪微博和微信帐号被封以及《财新》旗下英文网站一篇有关中国审查制度被删时做出上述表示。</p>
-<p>网信办在发送给路透社的一份传真中说，依照法律，网信办有根据法律进行网络信息管理和监督的执法责任。</p>
-<p>这一声明还说，互联网服务提供商对任何违法和有害内容的网络帐户的负有主要责任，并有权依照相关法规以及其用户“服务协议”采取行动，包括暂时停止使用和取消注册。</p>
-<p>《南华早报》至今未报道其中文微博、微信帐户被删的消息。路透社说，《南早》新闻公关部门连续两天都没有回复他们提出的询问。</p>
-<p>新浪和腾讯微博也均没有做出答复。</p>
-<p>目前，尚不清楚是什么导致了《南早》中文帐户被删。</p>
-<p><strong>审查</strong></p>
-<p>中国国家主席习近平针对互联网展开前所未有的控制，审查与党中央口径不一致的言论和观点。</p>
-<p>《南华早报》最近数周报道了5名香港书店所有者失踪后在中国出现的消息。</p>
-<p>《南华早报》是香港发行量最大的英文报纸，其新闻水准一直受到好评，尤其是对中国事务和政治的报道见长，成为了解中国不透明政界的一个窗口。</p>
-<p>该报也是最早爆料前中共中央政治局常委周永康被软禁的媒体之一。</p>
-<p>BBC中文网周三（3月9日）尝试点击《南华早报》微博，显示“您当前访问的帐号异常，暂时无法访问”。</p>
-<p>点击《南早》微信帐户内容，也被告知“此帐号已被封，内容无法查看”。这似乎说明，该帐户并非暂时被屏蔽，而是完全被删。</p>
-<p>微信历史发布显示，《南早》最后一次发送微信内容是星期一（3月7日）。</p>
-<p>有报道说，其最后一次发布微博信息也是星期一。由此，《南华早报》在中国内地的中文平台被“全线封杀”。</p>
-<p>据熟悉内情的前《南早》人士透露，《南早》中文网亦在中国大陆被屏蔽，让“两年多的努力和辛苦付诸东流”。</p>
-<p>《南早》中文网于2013年4月开通，除翻译《南早》英文报道之外，也采写发表一些原创中文报道。</p>
-<p>虽然英文网站虽暂未被封，但运行时断时续，尤其是2014年香港“占领中环”运动之后。</p>
-<p>周二（3月8日），中国内地声望较高的《财新》旗下英语网站的一篇对中国审查制度提出批评的文章在刊出不久后被删。</p>
-<p>此前《财新》中文网刊发题为《蒋洪委员：我的两会言论被指违法违规“太可怕”》。该文引用蒋洪的话说，政协委员应该能够对中共领导人自由发表意见。该文被中共当局指责“违法违纪”，最后也被删除。</p>
-<p>除了媒体，个人帐户也是中国审查机构针对的目标。</p>
-<p>最近中国国家互联网信息办公室关闭了拥有大约3800万粉丝的地产富商公众人物任志强的微博账号。之前在中国国家主席习近平视察国家媒体要求“媒体姓党”后，任志强批评了中共对新闻媒体的控制政策。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc-%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%9B%9E%E5%BA%94%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%AD%E6%96%87%E5%B8%90%E5%8F%B7%E8%A2%AB%E5%88%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%EF%BC%8C%E7%BD%91%E4%BF%A1%E5%8A%9E%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8C%E5%AE%A1%E6%9F%A5%EF%BC%8C%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">南华早报，网信办，习近平，审查，言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -678,5 +646,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%AE%E5%8D%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%E7%9A%84%E8%BD%AC%E8%AF%84%E4%B9%8B%E4%B8%80/" target="cdt-mirror">【立此存照】微博历史上最令人绝望的转评之一</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A21.png" rel="attachment wp-att-431600"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A21.png?resize=525%2C407" alt="共青团1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=300%2C232 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=768%2C595 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=1024%2C793 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?w=2260 2260w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br>
+（<a href="http://weibo.com/3937348351/DlhD2saFy" target="_blank">@共青团中央</a>微博截图）</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A22.png" rel="attachment wp-att-431599"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A22.png?resize=525%2C425" alt="共青团2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?resize=300%2C243 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?resize=768%2C622 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?resize=1024%2C830 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?w=2268 2268w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br>
+（<a href="http://weibo.com/1772052063/Dlhv0hsV3" target="_blank">@MEEEOW</a>微博截图）</p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/" target="_blank">【异闻观止】共青团中央：我恋爱了 和他</a>（附女版）</li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%85%B1%E9%9D%92%E5%9B%A2%E3%80%8C%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%EF%BC%8C%E5%92%8C%E4%BB%96%E3%80%8D%E8%BF%99%E6%9D%A1/" target="_blank">知乎｜如何评价新浪微博共青团「我恋爱了，和他」这条微博？</a></li>
+</ul></blockquote>
+<p><a href="http://weibo.com/1772052063/DlzgDdT0U">@MEEEOW</a>：这两天被团中央点名，微博格外热闹。晒个最乐评论<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%AA%E7%9B%91.jpg" rel="attachment wp-att-431605"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%AA%E7%9B%91.jpg?resize=400%2C710" alt="太监" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/太监.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/太监.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@独孤俊杰1991：枪杆子里面出政权呀，就是牛，就是要干你，你咬我</p>
+<p>@Eric杨小浩:帮你补齐下半句：因为我们有1000种哔掉你账号的办法，而你却无可奈何。</p>
+<p><a href="http://weibo.com/fanfanrat" target="_blank">@极品老鼠_aka_Baymax</a><i title="微博达人"></i>：无可奈何～？看看贵派的头头脑脑们，车祸的车祸，清洗的清洗，叛国的叛国，丢盔卸甲，分崩离析。您问我在说谁？你知，我知，不可说，不可说<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p>
+<p>@noway13：昨天看到原PO只是觉得恶心，看到下面一片示爱的评论和这条转发才真的绝望了——“什么人权什么女权都是瞎扯，你们只要跟着我，听我的， 别思考，别逼逼，嫁鸡随鸡嫁狗随狗就行。你要发表意见？我他妈不想听！再敢多说，我他妈揍你！”“啊啊亲爱的你好棒我好爱你不在乎我时的酷劲和家暴时的霸气哟”</p>
+<p><a href="http://weibo.com/5348186324" target="_blank">@抽不到柴郡猫不开心</a>：睁开眼看看这是妇女节，多少女性誓死争取来的平等权利。我共产主义不把女性当傻白甜来哄骗卖，不主张女人跟个直男癌过下去，不认可“虽然不知道你说什么但是好厉害啊”的无知谢谢<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@陈大陈：回复@许你嵩生峰华绝代:共青团将人民从国家中分离开来，连带灌输有高低从属、打不还手的男女关系。不知从什么时候开始，批评共青团就成了高捧美帝。难道两个凡是也适用于共青团吗？偷换概念，恬不知耻。</p>
+<p>@南一野：爱国爱党爱政府三个论题你国人都能混为一谈 你还跟他们谈什么</p>
+<p>@HSShir0：我就特意过来支持你一下，太绝望了</p>
+<p>@京城游少24：在这个互联网+的时代，共青团的官方微博郑重推出“无耻+”，而且是无耻得无以复+</p>
+<p>@一燕_不成夏：熏疼博主【你感受到过绝望吗】【在看原po评论的时候】</p>
+<p><a href="http://weibo.com/naturalsboyka" target="_blank">@八点钟的万金油</a>：快来啊，团中央亲自下发移民广告了<img title="[色]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/20/huanglianse_org.gif" alt="[色]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1593146443" target="_blank">@跟着太阳去火星</a>：心疼我党这形象建设<img title="[伤心]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ea/unheart.gif" alt="[伤心]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1931854213" target="_blank">@woofWarrior</a>：吓尿了 Po主不要慌<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1">这官微也是…奇葩</p>
+<p>@古了没了古：真的是笑死。你要是在国内，粉红军团就讲这地方那么垃圾你怎么不移民呢。你要在国外，又有的讲了，你在国外，国内的事情论得到你指手画脚吗。 真的服</p>
+<p>@Eliam_Lin：我是看到大家转发才找到博主的，对于博主的观点，我给32个赞。看官媒那恶心的嘴脸就反感。宣扬什么三从四德，大清国不是早亡了么？这么反智的话语还敢嘲讽秀下限。</p>
+<p>@芥末的阳光：还以为是有人假at黑你呢脑半天真是啊。霸道总裁文癌入骨，愿你如愿撩得软白甜妹，在这春风十里。</p>
+<p>@狐仙小姐的大肚腩：太噁心了婦女節才剛過 這裡女生形象就變成了小傻瓜 幫不了什麼 想分手又捨不得離開他⋯從春晚以來宣傳的功力真戰五渣 我國女性又變成男權附庸了。請注意!倒車!</p>
+<p>@黄白路熊叔：看别人转这句话时还以为是杜撰出来的，一搜还真是共青团官微发的。</p>
+<p>@更有甚者陈某某：天底下居然有这么不余遗力自黑的党媒</p>
+<p>@游击猫：你团是不是跟大大不对付，天天低级黑黑zhu国？</p>
+<p>@p型熊猫自家用4A-GE：图片评论<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%87%E5%B2%81%E4%B8%87%E4%B8%87%E5%B2%81.jpg" rel="attachment wp-att-431595"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%87%E5%B2%81%E4%B8%87%E4%B8%87%E5%B2%81.jpg?resize=425%2C319" alt="万岁万万岁" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/万岁万万岁.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/万岁万万岁.jpg?w=440 440w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p><em><strong>延伸阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%A5%97%E8%AF%9D%E5%A4%A7%E5%85%A8/" target="_blank">【立此存照】考研政治套话大全</a> </em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%AE%E5%8D%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%E7%9A%84%E8%BD%AC%E8%AF%84%E4%B9%8B%E4%B8%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD%E4%BD%93%E5%88%B6/?category=18271" rel="tag">党国体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%91%A8%E6%96%B9%E5%AE%9E%E5%90%8D%E5%85%AC%E5%BC%80%E4%BF%A1%E6%8E%A7%E5%91%8A%E4%B8%AD%E5%85%B1%E7%BD%91%E7%BB%9C%E4%B8%BB/" target="cdt-mirror">新浪微博｜新华社记者周方公开信控告中共网络主管部门</a>
 </h2>
 <p><p>全国人大常委会、最高人民法院、最高人民检察院、中国共产党中央纪律委员会：</p>
@@ -615,40 +657,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9C%899%E4%BA%BF%E9%80%89%E6%B0%91-%E7%BD%91%E6%B0%91%E8%AF%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E9%80%89%E7%A5%A8/" target="cdt-mirror">美国之音｜张德江称中国有9亿选民 网民说没见过选票</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg" rel="attachment wp-att-431450"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg?resize=400%2C585" alt="梁树新" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?resize=205%2C300 205w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>（2011年，广州番禺区丽江街道居民梁树新以独立参选人的身份参加人大代表选举；<a href="http://chinadigitaltimes.net/chinese/2011/08/%E8%AF%91%E8%80%85-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%EF%BC%9A%E7%8B%AC%E7%AB%8B%E5%80%99%E9%80%89%E4%BA%BA%E6%A2%81%E6%A0%91%E6%96%B0%E6%9C%AA%E8%83%BD%E9%80%9A%E8%BF%87/">他最终未能通过提名</a>。）</em></p>
-<blockquote><p><strong>数字时代相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89/">公民独立参选</a></strong></p></blockquote>
-<p>中国当局说，今年内全国亿万选民将直接选举250万基层人大代表，但有中国政治分析人士认为，所谓9亿选民的说法是个谎言，因为中国并不存在真正意义的选民。</p>
-<p><strong>张德江“</strong><strong>9亿多选民”直选基层人大代表被批是谎言</strong></p>
-<p>正在北京开“两会”的中国全国人大常委会委员长张德江说，2016年中国县乡两级人大代表要换届，9亿多选民将直选产生250多万名基层人大代表。他表示，这是中国社会主义民主政治建设的一次重要实践。而这种有9亿多选民直选的说法引发网友热议。</p>
-<p>张德江是3月9日在十二届全国人大四次会议第二次全体会议上作常委会工作报告时讲这番话的。他说：“从2016年开始，全国新一轮县乡两级人大换届选举陆续展开，有9亿多选民将参加选举，直接选举产生250多万名县乡两级人大代表。这是全国人民政治生活的一件大事，是社会主义民主政治建设的一次重要实践。”</p>
-<p>设在美国的人权组织“公民力量”创办人杨建利表示，所谓“9亿多选民”的说法是不正确的，因为中国目前根本没有真正意义的选民。他说；“按法律规定只有县一级和县级以下的人大代表是可以普选产生的，但是在实际中，如果你是一个独立的自由参选人，那么政府就给你施加很多压力或者制造很多麻烦，甚至逮捕，来阻止你进行自由选举。换句话讲，即使法律规定县和县级以下人大代表可以普选，但实际上在中国并不存在。所以整个人民代表体系是不能代表人民的声音的。因此人大常委会的委员长说中国有9亿的选民，这根本就是一个谎言。”</p>
-<p><strong>中国有无真正意义选民？</strong></p>
-<p>在2011年中国上一次举行基层人大代表换届选举中，虽然有创纪录的105名没有官方背景的所谓“独立参选人”参选基层人大代表，但他们不仅几乎全军覆没，而且很多人都遭到了政府的严厉打压。</p>
-<p>比较知名的案例是原江西新余钢铁集团有限公司员工刘萍。她2010年被迫内退，在为自己和其他工人维权的过程中萌生了独立参选新余市渝水区人大代表的念头。她当年接受美国之音采访时曾说，“因为我觉得人大代表的权限是非常大的，他可以代表民意，可以代表真正底层的民众发声。现在人大代表的功能已经丧失殆尽了，因为他不是人民选举出来的，他是内定的，他没有宣言，没有跟选民见面，是政党要他去当人大代表的。我就不同，我有宣言，我有承诺，我敢于跟民众见面。”</p>
-<p>然而在准备参选过程中，刘萍被当地官员千方百计剥夺参选资格。为了阻止她参选人大代表，当局对她进行抄家、没收宣传品、限制人身自由、断电、强制传唤，甚至在5月份提前选举期间，非法把刘萍扣押在新余钢铁集团良山矿招待所3天。</p>
-<p>作为竞选人大代表的普通公民刘萍受到的迫害不仅如此，她2013年4月在新余市组织举牌要求官员财产公示，并因此被捕。2014年6月18日被判处有期徒刑六年六个月。</p>
-<p>纽约城市大学政治学教授夏明表示，选民的概念是相对于选举而来的，如果没有公平、公开、自由的选举，也就谈不上有选民。“中国的选民不是真正意义的选民是因为中国没有真正意义的选举。为什么这么说呢，是因为它没有开放性，不是每个人都可以参选。”</p>
-<p><strong>网民说不知道选票长啥样</strong></p>
-<p>张德江“9亿多选民”的说法也引发中国网民关注，但大多数网友都表示几乎从未见过选票。网名为@走向民主的新浪微博用户说，“我特么快50了，连选票都没见过，我辽宁东港的。”网民为@凌内涵的新浪微博用户说，“都26了，从来没参加过选举。”</p>
-<p>见到选票又能怎样？“公民力量”的杨建利的反问。 “当他们见到选票后，选票上写的名字有多少人知道他们呢？有多少人来竞选呢？没有竞，就没有选。因为你不知道候选人是谁，候选人之间没有辩论，你不知道他们之间的区别，所以选票都是假的。” 他说。</p>
-<p>讽刺的是，在张德江宣称要在新形势下加强县乡人大工作、推进社会主义民主法治建设的同时，中国各大官媒的微博帐号却几乎清一色地关掉了“2016年中国9亿多选民将参加选举”微博的评论功能。</p>
-<p><strong>环球时报：中国是最大民主国家</strong></p>
-<p>去年8月北京外国语大学党委书记韩震在环球时报上发表的那篇题为《究竟谁是最大的民主国家》的文章。中国有9亿多选民的说法似乎也与韩震的“中国最大民主国家说”遥相呼应。</p>
-<p>韩震在那篇文章中说，“必须理直气壮地说中国才是最大的民主国家。“他表示，中国的人民代表大会制度就是当代中国的民主制度，该体制让中国的各民族、各阶层都有自己的代表参与国家事务的协商和决策，实现了国家领导人依据制度设计换届，并按照选贤用能的原则吧领导者推向各级领导岗位上，而不像某些国家，虽有民主知名，却在资本和利益集团运作下，只能在某几个有实力的政治世家中选择领导者。</p>
-<p>那么既然是中国的人民代表大会制度最好，为何张德江还要强调9亿选民呢？“自由选举是民主的必要条件，虽然它不是充分条件。没有它怎么能叫民主呢？”公民力量的杨建利说，“实际上中国的领导人他也明白这一点，虽然他说我们是协商民主，我们是另一种民主，但他也得说，我们也有选举，我们也有选民。”</p>
-<p><strong>9亿人未获参与政治的权利被剥夺？</strong></p>
-<p>还有网友质疑，张德江说的9亿选民是哪些人。网名为@昆明卢弟兄的新浪微博用户问，“能不能说说那九亿人是哪些人？！我村里村长换届都没见过选举。”</p>
-<p>纽约城市大学的夏明表示，所谓9亿选民的说法恰恰从反面说明中国的执政者一直剥夺了他们的政治权利。“这倒是从反面向中国人指出这么一个事实，就是这个政权一直建立在剥夺9亿多人自由选择权和政治参与权。”他说。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%9C%899%E4%BA%BF%E9%80%89%E6%B0%91-%E7%BD%91%E6%B0%91%E8%AF%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E9%80%89%E7%A5%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E9%80%89%E4%B8%BE/?category=18271" rel="tag">人大代表选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%B0%91%E4%B8%BB%E4%B8%93%E6%94%BF/?category=18271" rel="tag">人民民主专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89/?category=18271" rel="tag">公民独立参选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%90%8D/?category=18271" rel="tag">刘萍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A9%A1%E7%9A%AE%E5%9B%BE%E7%AB%A0/?category=18271" rel="tag">橡皮图章</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -670,5 +678,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

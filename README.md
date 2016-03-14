@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,119 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%8C%E9%B8%AD%E5%B1%B1/" target="cdt-mirror">法广 | 2015年中国因恐怖主义判刑人数翻一番</a>
+</h2>
+<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?resize=600%2C339" alt="中国最高人民法院院长周强在人大做报告，2016年3月13号路透社提供。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?w=700 700w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>中国最高人民法院院长周强在人大做报告，2016年3月13号路透社提供。</p></div>
+<p>中国高级人民法院和高级检察院周日（3月13号）向人大提请的工作报告显示，2015年中国审理判处1419名与“危害国家安全，暴力恐怖犯罪”案有关的罪犯人数，接近2014年人数的一倍。一些维权组织却谴责中国司法与共产党关系密切，造成所有被起诉的维权人士最后都会被判有罪。</p>
+<p>法新社报道，中国最高人民法院院长周强周日在北京表示，中国各级法院“审结危害国家安全、暴力恐怖犯罪案件1084件，判处罪犯1419人。2014年这一数据为712人。”</p>
+<p>法新社报道指出，在中国，恐怖主义和分裂主义通常指的是新疆地区的暴力事件。法新社说，中国去年被指控与恐怖主义，和危害国家安全等罪有关而被判刑的人数大幅上升的原因在周强的讲话中也明确地被提及，周强说，2015年，中国法院积极参与“反恐怖反分裂反邪教斗争”，加大对“煽动分裂国家、组织领导参加恐怖组织、传播暴力恐怖音视频等犯罪”的打击力度。</p>
+<p>法新社发自北京的报道分析说，报告显示，在1419名被判刑的人中，1084人与“暴力恐怖行为”有关，335人被控“危害国家安全罪”。但在中国最高法院的报告中没有明确指出这些人究竟犯了在被统称为“危害国家安全罪”中的哪些罪。</p>
+<p>中国司法问题专家苏珊-范德（Susan Finder）告诉法新社说，如果仔细研究被判处危害国家安全罪的名单，就不难发现一些维权人士的名字被列在其中。</p>
+<p>法新社指出，习近平上台后，中国就加强了对批评共产党人士的镇压，一些律师，维权人士，博客主或知识分子也都被关押在了狱中。</p>
+<p>另外，这份中国2015年最高法院的年度报告显示，去年几乎全部被控的罪犯最后都被认定有罪，北京同时也保证减少错判案件的比例。</p>
+<p>法新社报道指出，中国的司法机构滥用职权现象严重，尤其是刑讯逼供和妨碍辩护权问题尤为突出。一些维权组织谴责中国司法与共产党关系密切，造成所有被起诉的维权人士最后都会被判有罪。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%8C%E9%B8%AD%E5%B1%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E8%A3%82%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">分裂国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E7%BD%AA/?category=18271" rel="tag">危害国家安全罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA/?category=18271" rel="tag">煽动颠覆罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%9B%BD%E5%AE%B6%E8%B6%8A%E8%85%90%E8%B4%A5%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E4%B8%8D%E8%AF%9A%E5%AE%9E/" target="cdt-mirror">财经网 | 研究称国家越腐败年轻人越不诚实</a>
+</h2>
+<p><p>一个三面围着隔板的格子间，桌上放着一只纸杯和一颗六面骰子。一群20来岁的年轻人被轮流请到桌前，在杯子里摇晃骰子，揭开一小块杯沿，快速瞥一眼点数，再重复一次同样的操作。按规则，他们要将第一次骰子的点数告诉实验者，根据点数大小来领取相应的酬劳。</p>
+<p>掷出1点领1个单位金钱，5点领5个，掷出6点的倒霉蛋则一分钱也没有。但是杯子里的骰子到底是几点，只有摇骰子的人自己才知道。那么，他们会为多领一点钱而虚报点数吗？又或者是违反规则，用结果更好的第二次点数“冒充”第一次上报？</p>
+<p>通过这一精心设计的心理实验，心理学家们发现，年轻人是否选择撒谎或违规，会受到他们所在国家欺诈和腐败普遍程度的影响。在政治骗局、逃税和腐败更普遍的国家里，即使是尚未踏上社会的年轻人们，也会向他们的榜样——商界精英、政治家、或是他们的父母学习，愿意撒谎或承担违反规则的风险，来获得额外的利益。</p>
+<p>2016年3月10日，《自然》期刊发表了这一研究，由英国诺丁汉大学研究者西蒙•加赫特（Simon Gächter）及其研究团队完成。2011年至2015年间，他们在23个国家邀请2500名平均年龄不到22岁的年轻人参与了这项心理实验，其中包括中国、越南、奥地利、德国等。</p>
+<p>研究者们并不知道是哪个人、具体有多少人在实验中撒了谎，但是通过比较某国参与者所领取酬劳的中位数是否显著高于大数定律下的数值，就能判定该国青年整体的诚实度。</p>
+<p>实验结果显示，23个国家年轻人的个人诚实度水平有显著差异，而这和他们各自国家一项反映违反规则普遍程度（PRV）的指数有很强的关联，一个国家的规则违反程度越普遍，个人诚实度越低。</p>
+<p>PRV指数是研究者们依据2003年159个国家的人口学与经济学数据而设计的，这些数据包括一个国家影子经济的规模、世界银行腐败控制指数和自由之家的政治权利指数，分别反映了这些国家在逃税、腐败和政治欺诈方面的状况，得分越高，该国在2003年时的违规程度就越高。</p>
+<p>一般概率下，掷骰子的人只有50%的几率可以得到3、4、5点，但有近80%的中国年轻人称他们掷出了点数，从而可换取更高酬劳。中国的PRV指数为0.2，略高于世界中值，和越南、印度尼西亚、肯尼亚、坦桑尼亚、摩洛哥一起被列为高违规程度国家。相比之下，在PRV指数为-2.8的瑞典，只有61%的年轻人汇报了这三个点数。</p>
+<p>因此研究者们认为，包括腐败在内的违规普遍程度会影响诚实这一个人品质。</p>
+<p>也就是说，腐败给一个国家带来的不仅是社会不公和经济损失，还有对其公民诚实品质的腐蚀，而年轻人的诚实对社会稳定运行起关键作用，并将决定腐败问题能否在未来得到改善。</p>
+<p>此外，研究者们还指出了一个有意思的现象：对于很多人来说，撒谎需要付出心理成本，因此，他们有的选择保持诚实，有的则会曲解规则，抑或是让谎言变得无伤大雅来维持自己的诚实形象。于是在实验中，许多“撒谎”的参与者们并没有选择“厚颜无耻”地编造点数，而是选择报告了两次投掷中结果更好的那一个。这一点也被投掷结果的分布所证明。</p>
+<p>当然，这项实验也并未能回答许多随之而来的问题：一个国家腐败情况的改善或恶化，需要多长时间才能对个人诚实度带来影响？全球化进程中，出国旅游、经商、学术交流、移民都越来越频繁，与其他国家居民的交流互动对个人诚实度又有何影响？研究者称，这些问题留待今后的研究给出解答。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%9B%BD%E5%AE%B6%E8%B6%8A%E8%85%90%E8%B4%A5%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E4%B8%8D%E8%AF%9A%E5%AE%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%81%E8%B4%A8/?category=18271" rel="tag">品质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B4%E8%BD%BB%E4%BA%BA/?category=18271" rel="tag">年轻人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9C%A8%E5%8D%8E%E5%A2%83%E5%A4%96ngo%E5%91%BD%E8%BF%90%E6%88%96%E8%BF%8E%E8%BD%AC%E6%9C%BA%EF%BC%9F/" target="cdt-mirror">纽约时报 | 在华境外NGO命运或迎转机？</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/12Chinango-web2-articleLarge.jpg?resize=600%2C400" alt="12Chinango-web2-articleLarge" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/12Chinango-web2-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/12Chinango-web2-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2011年，参与珍·古道尔研究所青年计划“根与芽”的志愿者在内蒙古一座农场种植树苗，帮助防治荒漠化。</p></div>
+<p>两年多以前，中国政府拟议对境外非政府组织施加<a href="http://cn.nytimes.com/china/20150618/c18xxchinango/" target="_blank" rel="nofollow">更加严格的控制</a>，使得人们对大批在中国开展工作的团体的未来感到担忧。这些团体包括医疗慈善机构、外国大学的分支机构，以及商会。一些人担心，以后开展工作需要在政府部门登记，立项需要获得警方审批，资金筹集活动会遭到限制等等。</p>
+<p>然而，在发布了两版审议稿之后，<a title="Link: http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2015-05/05/content_1935666.htm" href="http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2015-05/05/content_1935666.htm" target="_blank" rel="nofollow">《境外非政府组织管理法》</a>仍未通过，因此一些人猜测，在中国政府寻求经济增长的新途径之际，政府是否正重新考虑这项由国家安全推动的立法，思量它会不会对自己关心的一些领域——比如教育、工业和环境——的国际合作形成妨碍。</p>
+<p>几乎没有人认为这项立法会被彻底取消。张德江是中国立法机构全国人大的常务委员会的负责人，他上周三说，这项立法是“今年的任务”，似乎<a href="http://lianghui.huanqiu.com/2016/roll/2016-03/8679271.html" target="_blank" rel="nofollow">排除了</a>取消它的可能性。</p>
+<p>在回答记者的置评请求时，全国人大的媒体办公室要求把问题录入到一个网上采访申请系统中。上周五，该系统显示，前一天提交的请求仍在处理中。</p>
+<p>不过，一个教育组织的代表称，来自外国政府、企业、教育机构、行业协会和传统型非政府组织的消极反应，可能让这部法律至少暂时遭到了搁置。他怀疑这项立法正在被“淡化”。由于这个问题比较敏感，他不愿意具名。</p>
+<p>3月4日，就在全国人大开幕之前，人大发言人傅莹再次引起了人们对这个问题的集中讨论。她在新闻发布会上表示，关于这项立法，政府仍在审议来自世界各地的意见，而官方审议期在去年6月就结束了。</p>
+<p>她似乎是在说，这项法律前景未定。“现在还没有准确地定哪次常委会将提交审议，主要还是要梳理各方的建议、意见，把这部法律修改完善好，”她说。</p>
+<p>但傅莹坚称，这部法律可以为境外非政府组织提供清晰明确的规范。</p>
+<p>她说，“我们需要在法律当中明确哪些行为是违法的、禁止的，主要就是要提供一个更加规范的法治环境，而不是阻止或限制境外非政府组织在中国进行有益合法的活动。”</p>
+<p>肖恩·谢(Shawn Shieh)是总部位于香港的一家非政府组织的员工，他说：“傅莹说他们还在审议关于这部法律草案的意见，我觉得很有意思。”</p>
+<p>“审议期已经过去10个月了，”他说。“这种延迟表示有争论存在。这部法律草案不只对国际非政府组织事关重大，对那些体制内的组织也是如此。”</p>
+<p>一位西方外交官表示，傅莹的说法“可能就是在暗示”这项最新草案“已经不再推进的事实，因为她没有给出明确的时间框架”。这位外交官不愿具名，因为他没有得到授权讨论这个问题。</p>
+<p>他认为，尽管中国政府和安全机构大概不会在意人权非政府组织的看法，但却可能听取其他团体的意见。“很多重要的国际批评意见不涉及人权问题，而是指出了它会让学术联系、研究机构，以及其他一些组织非常难以开展活动，”他说。</p>
+<p>即便如此，这名外交官预计仍然会有一部法律通过。他指出，中国外长王毅上月出访美国时提到过这个问题。“王毅在华盛顿说，‘你不能让这些组织在完全没有法律管辖的环境下开展工作，’”他说。</p>
+<p>傅莹表示，在中国境内开展工作的非政府组织大约有7000个。2014年，中国社科院下属的中国社会科学在线杂志<a href="http://www.csstoday.net/xueshuzixun/guoneixinwen/89531.html" target="_blank" rel="nofollow">估计</a>，这类组织的数量大约为1000个。但文中称，如果把短期项目包括在内，这一数字将上升到4000到6000个。</p>
+<p>傅莹的发言显示中国政府正在考虑外界舆论，外国驻京商会对此表示欢迎。</p>
+<p>“这是重大立法，政府应该采取谨慎的态度，”<a href="http://www.europeanchamber.com.cn/en/about-chamber-beijing/1/Beijing" target="_blank" rel="nofollow">中国欧盟商会</a>(European Union Chamber of Commerce in China)总经理谢静岚(Maggie Xie)说。“如果他们在听取批评意见，这是好事。他们应该花些时间来加以考虑。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9C%A8%E5%8D%8E%E5%A2%83%E5%A4%96ngo%E5%91%BD%E8%BF%90%E6%88%96%E8%BF%8E%E8%BD%AC%E6%9C%BA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">全国人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">境外组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E8%AE%AE/?category=18271" rel="tag">审议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A7%84/?category=18271" rel="tag">法规</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-13/" target="cdt-mirror">奇闻录 | 周末段子荟萃 3-13</a>
+</h2>
+<p><p>@hnjhj：有朝一日AI一旦统治人类，一定会监视你的所有隐私、审查你的所有言论、会给你洗脑让你相信AI是你的大救星、会让你背核心价值观、会把你绑架了之后上电视痛哭流涕、会活摘你的器官、甚至会并把你碾成肉糜。想想真是可怕。</p>
+<p>@hnjhj：有人说，在规则越清楚的领域，人工智能越占优势，我觉得有一定道理。这样说来，总体上计算机将全面击败人类，并在面对中国人的时候输得一败涂地。</p>
+<p>@letscorp：谷歌搞出来 #AlphaGo 下围棋，股价才涨了2%。反观我们的科大智能和远大智能因为名字带了智能，属于AI概念股，直接涨停10%！这说明我们天朝的科技实力比美国先进5倍！ #盛世如愿</p>
+<p>@shangguanluan：Alphago战胜了李世石又怎样，它战胜得了方滨兴吗？///赢了李世石不算啥，有本事和百度AI较量下，不是跟你吹牛，广告都能弹死你。</p>
+<p>@fndhrt：AlphaGo来中国挑战，胜负手时AI突然转向一旁观战的国家体育总局棋牌运动管理中心主任，问：“领导，您说我该赢还是该输？” 这才叫人工智能。（第二天AlphaGo正式升任BetaGo）</p>
+<p>@fanxiaojie1：好伤心。今天的双鸭山。刚才看到微博上说，这些矿工只有少得可怜的800元月薪，还被拖了几个月。不过我觉得比工资少更可怕的是当地基本只有单一产业煤矿，以至于连转行都没出路。煤价高的时候，一切都很风光，一旦煤卖不动了，情况就会很糟糕。</p>
+<p>@五岳散人：黑龙江龙煤集团先是在省长嘴里不欠薪，后来矿工一散步，省长大人就成了被蒙蔽的了。话说一省之长确实很多时候只能靠手下的汇报来做判断，毕竟那么多事情，没法事必躬亲。但您一缺乏新闻媒体监督爆料、二缺少权力制衡机制、三没有老百姓上达天听的渠道、四强调维稳大于天，不蒙您蒙谁？一级蒙一级罢了。</p>
+<p>@ZhouFengSuo：双鸭山的拖欠工资发了就会平息。领头的肯定会被镇压，即便如此，领到钱的其他人也不会在意了</p>
+<p>@letscorp：通过反腐清理站队，结果出现：站队正确派，站队错误派，中立派。站对错误的就不用说了，谨小慎微，所有的眼睛都盯着，不敢做事；中立派，也谨小慎微，怕被政治对手打成站队错误；站队正确的——理论上可以放心的做事搞点外快了吧，不行，错误派和中立派都盯着呢。结果没有人再去做事。 #崇祯亡于党争</p>
+<p>@陈丹青：主流媒体不敢批判政客，却把笔头对准百姓；国家军队不去保国卫民，却助纣为虐；博士专家不去问责政权，却把责任推给民众；艺术文人不去捍卫自由，却把愚昧灌输底层；亿兆纳税不去提高民生，却把巨资赠与番邦；下流草根不去争取权利，却把希望寄托于所谓明君！</p>
+<p>@royxy：国家还真是忙啊，去年房市低迷，变着法子出台去库存措施，今年房市一涨又马上开始出台调控措施，东一锤子西一棒子，这节奏都快赶上打地鼠了吧…</p>
+<p>@heanquan：我对中国的评价：政府不信民主，百姓不信科学，中国没救。忌病讳医。既不承认有病，又不接受治疗。于人于国家，道理是一样的。政府打肿脸充胖子，说自己有三个自信：理论道路制度，是世界上最民主的国家。百姓打肿脸充胖子，说自己有三本经：道德经易经黄帝内经，已穷尽宇宙真理。严重智障之国。</p>
+<p>@RFI_Cn：山东试点取消一元纸币 媒体称可阻”传播反对言论”</p>
+<p>@网易网友：1元硬币化将逐步在全国推广。神评论：终于找到消化钢铁产能过剩的好办法了！</p>
+<p>@孙愿平-：教育部长袁贵仁：“西方价值观教材不能进课堂”。证监会主席刘士余：“希望大家都买股票，不卖股票”。申纪兰代表：“永远听党话跟党走为大家办实事”。</p>
+<p>@wuzuolai：俄身体转型了，但头脑没有转型，中国更弱，下半身转型到资本主义社会了，上半身却仍然滞留在专制社会。中国人的脚纷纷向自由世界跑，中国人的手，却在专制社会里捞个不停。中国是一个上下半身分裂的国家。</p>
+<p>@letscorp：华尔街日报报道，中国领导人试图控制薪资增长，在经济增长放缓之际，倾向于牺牲劳动者满意度来维护企业利益。知情人士：中国人力资源和社会保障部敦促稳定谨慎控制最低薪资，并建议修改薪资调整公式，以放慢薪资增长速度。 #为了避免落入中等收入陷阱我们决定保持低收入水平 #诺贝尔经济学奖归你了</p>
+<p>@jajia：文学必须干预政治，直到政治不再干预文学为止。艺术必须干预政治，直到政治不再干预艺术为止。新闻必须干预政治，直到政治不再干预新闻为止。色情必须干预政治，直到政治不再干预色情为止。以此类推。</p>
+<p>@mozhixu：两会有记者问新闻法的问题，其实，立法堵死所有空间，还便于管理，更符合习依法家治国的思路。可预料即使新闻立法，也不会在党管媒体或主管主办制上有任何松动，新闻界期待立法，无非是为了保护自身权益，实际上只具有行业保护的含义，与促进言论自由无关，在自媒体时代，这更像是一种保守思维。</p>
+<p>@saibrother：我觉得，基本上可以关闭和官员的任何对话，他也知道民主好，也知道选票重要，更知道是人民养活他们，但是他始终不屑，他该有必须有，你该给的必须给，因为他手头有核武器，除非你消灭他，他绝对服气。</p>
+<p>@mozhixu：川普说天安门学生运动是riot， 这个肯定是他妈的放屁，不过，你国包括自由派公知，普遍都认为当初学生“激进”，这难道不也是他妈的放屁吗？可这种话说了20多年，也没见什么人反驳，川普这个外人说点胡话，不用那么激动吧？</p>
+<p>@mozhixu：经常有人说中共运气好，911、金融危机都有利于中共云云，按我说，中共不是运气好，而是在建政后格式化了整个社会，先是将所有人编织进极权体制，市场化后允许民众基于自利而自行其是，但仍在各自孤立中，处于极权恐惧之下，反对体制的力量始终处于无比弱小的境地，就算没有什么好运气，也能维持。</p>
+<p>@琢磨先生：为什么周行长说房地产库存依然严重，就说明房价会继续涨。因为房子这玩意很多人是买涨不买跌，一线疯涨就会带动二三线的热情，大家都有不买就更买不起的错觉。只要政府还觉得库存压力大，就不会让房地产下跌，因为在他们的逻辑中，把房子卖掉收到钱最重要，根本没想过普通人买不起房这种事情。</p>
+<p>@Zannmuling：为什么我说中国的企业家是风险最大的呢？因为自从你开始创业，你就已经是半个犯罪分子了，半只脚就在监狱了。涉嫌偷税漏税，行贿等罪名。天朝就这样，守法是不可行的，你非得走其他套路。想整垮你也简单，查税即可。一个查税，每个企业都跑不掉。就这环境不偷税漏税谁能活下去？</p>
+<p>@yanrou：其实我不是非要上推，非要上google，可是身在一个不能上推，不能上google的国家，感觉能上就是幸福，上来就是意义。</p>
+<p>@红淫餐：看新人调查问卷，新娘写到关于求婚的事情：「求婚了很多次，到现在也在求婚。在马来西亚的时候，我们看着夜晚星空，他说：如果现在有一颗流星划过，你就嫁给我好吗？我答应了，结果他把手机打着闪光灯扔出去了。」看到这里，我的心情是，大写的，卧槽，好浪漫。</p>
+<p>@KenWong_：还是朋友圈里说得好啊：你们这一群连围棋有多少个棋子都不懂算加减乘除还不如一只10块钱的山寨计算器的渣渣，还整天瞎担心什么阿尔法狗会不会毁灭人类。</p>
+<p>@Kayism：那个我一直认为在同学群里卖假鞋的同学，原来卖的是真鞋……偷了鞋厂2000双鞋，被抓起来了。</p>
+<p>@sacrish：同学接了个活，拍摄某品牌车的试驾活动，站在跑道中间让车在身边驶过。他问车手能不能开慢点，车手说没事我们开得很稳的。心惊胆战地拍完了，同学问甲方：我去年接的这个活，怎么今年才开始呢？甲方说：哦，去年彩排的时候撞死了个人，耽误了。</p>
+<p>@SnHine：刚才看到一个身影很像你，我疯了似的追上去，才想起这个城市没有你，我停下了脚步，放下了手中的砖头，妈的差点打错人。</p>
+<p>@三个木头人：昨天一个鱼塘新开张，钓费100块。钓了一整天没钓到鱼，老板说凡是没钓到的就送一只鸡，我很多朋友都去了，回来的时候每人拎着一只鸡，大家都很高兴！觉得老板很够意思！！！……后来钓鱼场看门大爷说老板本来就是个养鸡专业户，这鱼塘就没鱼。（论去库存之最高境界）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-13/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BE%8B%E5%B8%88%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D%E8%A2%AB%E6%89%A3%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/" target="cdt-mirror">自由亚洲 | 律师袁裕来邮购港台书籍被扣起诉政府</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-%E4%B8%8A%E5%8D%889.30.40.png?resize=418%2C560" alt="Screen Shot 2016-03-13 at 上午9.30.40" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.30.40.png?resize=224%2C300 224w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.30.40.png?w=418 418w" sizes="(max-width: 418px) 100vw, 418px" data-recalc-dims="1"><br><span>香港铜锣湾书店事件扩大化（忻霖拍摄）</span></p>
@@ -507,124 +617,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B0%91%E4%B8%BB%E4%BD%95%E5%BF%85%E5%88%86%E9%AB%98%E4%BD%8E%EF%BC%9F/" target="cdt-mirror">剑客会｜羽戈：民主何必分高低？</a>
-</h2>
-<p><p><strong>微信公号：剑客会（ID: ijiankehui）</strong><br><strong>文｜羽戈（青年学者）</strong></p>
-<p>低级民主与高级民主之说，我早有耳闻，未尝在意，这些年来，忽然被发扬光大，蔚为壮观。最流行的论述，莫过于宣称西方尤其是美国的民主属于低级民主（或曰“低品质的民主”、“劣质民主”等），高级民主将在中国产生，或者已经在中国产生。好玩的是，我还见识过一种说法，出自我的一位大学老师，他认为美国民主属于高级民主，中国民主属于低级民主，中国的确应该向美国学习，从低级进化至高级，不过依中国人的素质，眼下只配享受低级民主……</p>
-<p><strong>这两种说法，貌似相反，实则拥有一个共同的前提：民主可分低级与高级，而且需要从低级进化到高级。</strong>换言之，如果前提不能成立，即民主不宜分高低，那么争论中国与西方民主程度孰高孰低，则无意义，这是一个伪问题。</p>
-<p>从字面上看，低级民主与高级民主，涉及民主的分类。罗伯特·达尔《论民主》曾辟专章谈民主分类。他在切入正题之前，引用了《爱丽丝穿镜奇幻记》里的一段对话：</p>
-<blockquote><p>“我用一个词的时候”，矮胖子说，带着一种非常鄙视的音调，“也就是我想让它是什么意思，它就是什么意思——不多也不少。”</p>
-<p>“问题是”，爱丽丝说，“你怎么能造出一些词，让它们可以包含许多不同的意思呢。”</p>
-<p>“问题是”，矮胖子说，“谁来做主——就这么回事。”</p></blockquote>
-<p>这绝非闲笔。借助这段对话，达尔试图指出民主定义的混乱，以及混乱的根源：矮胖子所代表的话语霸权。谁掌握了权力，谁便可操纵话语，把它们定义成自己期待的模样。达尔写道：“按照矮胖子的说法，每个人都能随意指称任何统治是民主的，甚至连专制统治也可以说成是民主的。这种事情经常发生，可能比你想象的还要多。独裁的领袖有时会宣称他们的体制是一种独特的‘民主’形式，优越于其他类型。”这方面，朝鲜民主主义人民共和国应是最生动的案例。</p>
-<p>乔治·奥威尔的论述更早且更深入。他认为，民主之类的词语不仅没有公认的定义，甚至连建立定义的努力都会遭到各方反抗，“任何政体的捍卫者都声称他所捍卫的是民主政体，深恐一旦民主跟任何一种意义挂钩，便有可能使他们无法再去利用它”。</p>
-<p>这足以提醒我们：<strong>民主的定义，包括民主的分类，都可能是一种包装、一种障眼法、一种话语的幻术，以遮掩其反民主的实质。</strong></p>
-<p>所以我们谈民主分类，首先得明确，民主到底是什么。为了避免纷争，这里不做定义，只列要件。达尔总结了民主的五点要素：成年人的公民资格，有效的参与，平等的投票，充分的知情，对议程的最终控制。还有更简化的标准，共计两点：<strong>一是政治参与，二是政治竞争。</strong>当然这里的参与和竞争，都得货真价实，而非虚有其表。</p>
-<p>由此再来说低级民主与高级民主之分。哪怕低级，必须满足政治参与和政治竞争这两大要件，否则，那就不能叫民主。质言之，<strong>低级民主终归是一种民主，不可以低级为借口，使民主缺胳膊少腿，或者没有充分的参与，或者没有有效的竞争。</strong>以中华民国国会选举为例，前两届国会选举（1913、1918年），属于竞争有余，参与不足：第一届国会选举，选民比例为10.50%，第二届国会选举，分参议院与众议院，后者选民比例为14.88%，前者选民比例仅为0.056%；与此相反，1948年国民大会选举，则是参与有余，竞争不足：选民比例达到了53%，然而国大代表、立法委员之竞选，大抵由国民党所包办（见张朋园《中国民主政治的困境，1909-1949：晚清以来历届议会选举述论》）。这两种情况，都非民主，万万不可拿“低级民主”来装潢、搪塞。</p>
-<p>看来，<strong>以民主之高低，遮蔽或置换民主之有无、真伪，是一些人惯用的伎俩。</strong>对此，我们需要警觉：论民主之高低，必须先论民主之有无、真伪。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%B0%91%E5%9B%BD%E5%9B%BD%E4%BC%9A%E4%BC%9A%E5%9C%BA.png" rel="attachment wp-att-431483"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%B0%91%E5%9B%BD%E5%9B%BD%E4%BC%9A%E4%BC%9A%E5%9C%BA.png?resize=575%2C260" alt="民国国会会场" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/民国国会会场.png?resize=300%2C136 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/民国国会会场.png?resize=768%2C348 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/民国国会会场.png?resize=1024%2C464 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/民国国会会场.png?w=1682 1682w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>民国国会会场（图片来自网络）</span></p>
-<p>继续说低级民主与高级民主。我还是有些疑惑：这种分类合理么，符合民主的精义么？</p>
-<p>毋庸置疑，民主不是静态的概念，而是动态的概念，不是完成时，而是进行时，不是一个结果，而是一个过程，一直流动，永无尽头。这意味着什么呢？民主建设无法一劳永逸，更难一蹴而就、一步到位，不能指望今天播下革命的种子，明天便收获民主的参天大树，我们必须坚持渐进思维，日拱一卒，得寸进寸。拿选举权的进化来说，充分体现了民主的过程何其漫长而曲折：有些国家，起初拥有选举权的仅限男性，后来则扩大到女性，起初仅限白人，后来则扩大到黑人，起初以财产、学历等为门槛，后来则打破了门槛……</p>
-<p>不过，这样的民主进程，显然不宜归结为从低到高。<strong>民主由不完善到完善，其进化不是表现在高度，而是广度和深度</strong>（这取决于民主的平等属性）。若打比方，民主不是高山，而是平原或江河，<strong>民主的完善，有如平原日渐辽阔，江河日渐浩荡</strong>，普及度越来越广，受惠者越来越多。</p>
-<p>直接说来，低级民主与高级民主之分，要点在民主程度。然而民主程度的定义与民主一样含糊。不仅难以用参数衡量，还容易陷入误区，被人利用。乔万尼·萨托利《民主新论》曾谈及这一点。他指出，对民主程度的考察，会出现两种情况，一是问一个民主政体民主到什么程度，二是问任何政体民主到什么程度。倘是后者，正应了我们的提醒：民主有与无的问题，可能被偷换为民主高与低的问题。</p>
-<p>譬如，萨托利以嘲讽的口吻谈到中国的“文革”，单论政治参与，绝对充分，比美国总统选举还高呢。对此，如果借用民主程度论，判定“文革”的民主程度高或低，不管结局如何，下一步，便可推导“文革”属于低级民主或高级民主。事实上，“文革”的本质，可谓民粹其表，专政其里，与民主毫无关系。由此可见民主程度论的误区，以及低级民主与高级民主之分错在哪里。</p>
-<p>故而我实在难以苟同，把民主分出高低。这不仅容易掩蔽、抹杀民主之有无的前提，就其特色而言，并不符合民主的精神和进程。作为一种分类，它带来的不是清晰，而是纷乱，不是营养，而是病毒，使民主这潭水愈发混沌。</p>
-<p>最后要补充一点。<strong>有一种低级民主与高级民主之分，不是基于民主构成，而是基于社会性质：</strong>西方是资本主义社会，其民主属于资本主义民主，中国是社会主义社会，其民主属于社会主义民主，社会主义高于资本主义，社会主义民主则高于资本主义民主，因此，前者被称作高级民主，后者被称作低级民主。这番高论的成立，有赖于历史决定论与经济决定论的支撑。假如能够意识到历史决定论的贫困与经济决定论的脆弱，那么，你会发现，把民主分出高低，不仅可笑，而且可恶。</p>
-<p>2016年3月9日</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%89%91%E5%AE%A2%E4%BC%9A.png" rel="attachment wp-att-431482"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%89%91%E5%AE%A2%E4%BC%9A.png?resize=250%2C251" alt="剑客会" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/剑客会.png?resize=768%2C770 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/剑客会.png?w=928 928w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B0%91%E4%B8%BB%E4%BD%95%E5%BF%85%E5%88%86%E9%AB%98%E4%BD%8E%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">民主社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E6%9D%83/?category=18271" rel="tag">话语权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/431496/" target="cdt-mirror">美国之音 | 中国人喀麦隆东部采金 与当地人关系紧张</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-%E4%B8%8B%E5%8D%887.53.39.png?resize=547%2C321" alt="Screen Shot 2016-03-11 at 下午7.53.39" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午7.53.39.png?resize=300%2C176 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午7.53.39.png?w=547 547w" sizes="(max-width: 547px) 100vw, 547px" data-recalc-dims="1"><br><span>在喀麦隆东部的巴图里镇附近，一名男子用简易工具寻找黄金（资料图）</span></p>
-<p>作者：金泽卡</p>
-<p>喀麦隆贝塔雷奥亚 —— 中国人六年前开始在喀麦隆东部开采小金矿。但是，当地人对他们的不满正在渐渐聚积。当地矿工说，中国人抢走了他们的饭碗，而且也没有兑现有关地区发展的承诺。当地人2007年开始在贝塔雷奥亚开采金矿。三年后，中国人来了。</p>
-<p>矿工伊曼纽尔·曼加说，他竞争不过中国人，只能转行做摩的司机。他说，他现在每月只能挣60美元，只有过去收入的四分之一。</p>
-<p>他说，喀麦隆不应该允许中国人挖金矿或者雇廉价劳工帮他们挖，中国人的做法让当地人变得穷困。</p>
-<p>目前大约有300名中国矿工在矿区工作，远远超过喀麦隆当局批准的100人。</p>
-<p>中国采金者使用履带式拖拉机和能够清理石块和分离泥土的设备，这样一来，他们能够比使用手工工具的当地人更快发现金矿。</p>
-<p>当地人为此感到气愤。为了出气，他们戳破拖拉机轮胎，破坏采矿设备，甚至殴打一些中国矿工。数十名中国人因此逃到周边城镇，他们只有在需要照看生意的时候才会到矿上来。</p>
-<p>阿达姆·阿萨姆是当地说了算的人。他说，当地人没有看到任何的发展迹象，而中国人当初是做了发展承诺的。</p>
-<p>他说，当地政府和他们说，所有的中国采金者都必须要购买村里的土地、盖漂亮的房子，但这并没有发生。中国人做的是在矿区搭临时工棚，而且他们矿开完了也不把矿坑填平。镇上的当地人只有在中国人去那里买吃的时候才看得到他们。</p>
-<p>当地人说，开采黄金还导致矿坑污染、植被和动物栖息地遭到破坏。</p>
-<p>但是中国采金者克里斯·何（Chris Ho，音译）说，他的公司有临时营业执照，而且为当地造了路，提供了发电机和安全饮用水。</p>
-<p>他说：“我们建了很多房子，我认为做了很多事。很多中国人来到这里，他们带来了很多东西，改变了当地人的生活。中国人和喀麦隆人之间友好，我们相互之间有了更好的了解。”</p>
-<p>世界上最大的黄金生产国加纳也经历了类似的紧张局势。2013年，政府对外国非法采矿予以打击，逮捕非法外国矿工，最终将数千名中国籍矿工驱逐出境。</p>
-<p>经济分析人士伊曼纽尔·米哈米勒说，即使与中国有长期的关系，喀麦隆也可以采取打击行动。</p>
-<p>他说，自从喀麦隆1960年独立以来，中国援建了公路、医院、学校和水电站，作为回报，喀麦隆允许中国公司开采和出口黄金、橡胶、钻石和木材等自然资源。但是，这些活动应当是互利的。</p>
-<p>2014年，喀麦隆政府打击了其所称的黄金和钻石非法出口，同时暂停了一些外国采矿合约。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/431496/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E9%9D%9E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中非关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%80%E9%BA%A6%E9%9A%86/?category=18271" rel="tag">喀麦隆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">非洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2%E9%87%87%E9%87%91/?category=18271" rel="tag">非洲采金</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E9%9B%B7%E9%A2%90%EF%BC%9A%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97%EF%BC%8C%E5%85%88%E6%83%B3%E6%83%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A6%BB%E5%BC%80/" target="cdt-mirror">大家 | 雷颐：振兴东北，先想想企业家为什么离开</a>
-</h2>
-<p><p>作者：雷颐，腾讯·大家专栏作者，中国社科院近代史研究所研究员，著名历史学者。</p>
-<blockquote><p>摘要：若不进行制度变革，地区只能“闭关”，以封闭的制度“锁住”人才和资本。但国内统一市场的形成，使这种地区“闭关”成为不可能，只能靠制度的优越来“吸引”人才和资本。</p></blockquote>
-<p>大学本科与硕士研究生，这七年时间我都是在东北长春的吉林大学度过的，从二十多岁到三十来岁，正值青春年华，是知识、思想、情感和精神世界的吸吮、成熟、收获期；这七年，对东北民风的淳朴、热情、豪爽、仗义，体会殊深，结交了许多东北朋友。所以，对东北，我有一份特殊的感情与关怀。有关东北的消息，也格外关注。</p>
-<p>我最关心的东北消息，就是经济长期衰退。东北经济衰退由来已久，中央早就专门成立了高规格的振兴东北机构，从方方面面给以支持，但是振兴东北经济任务依然艰巨。显然，东北的经济问题，非朝夕之故，也非单一之因。由于长期关注东北经济问题，遇到有关人士，总是问一个为什么。笔者仅想从自己的经历与思考略谈己见，挂一漏万。但愚者千虑，或有一得。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-%E4%B8%8B%E5%8D%887.31.18.png?resize=570%2C379" alt="Screen Shot 2016-03-11 at 下午7.31.18" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午7.31.18.png?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午7.31.18.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"></p>
-<p>有次在上海为企业家班讲课，结束后赶往虹桥机场。有位女企业家的公司就在附近，于是顺路送我到机场。由于堵车，一路闲谈。她一开口，我就听出是东北人，两人用东北话聊天，更显亲切。她说自己的公司原来在东北C市，后来与上海有些业务往来，久而久之，发现上海政府办事规范，只要是规定的，不用找关系，更不用送礼，就可以办理。几年前，她下定决心，把公司从东北C市迁到上海。过一段时间，她哥哥和妹妹也各有公司，到上海实地考察一番，也把自己的公司迁到上海。哥哥妹妹又各自影响了一些亲戚，陆续都把自己公司迁到上海。难怪，我说班上都是江、浙、沪企业家，怎么那么多说东北话的。</p>
-<p>认识一位深圳企业家，一个大酒店老板。他是东北Q市人，从一所师范专科学校毕业不久就到广州、深圳打拼，一直在跨国星级酒店工作。他早就做到高管，已有不薄的家产，一直关心家乡，几年前就在家乡Q市投资，盘下一家酒店，想用自己十几年在广州、深圳跨国星级酒店学的那一套管理方法这家酒店，也想作个示范，把现代管理经验、方法在家乡一点点推广开来。酒店业经常与政府的最基层打交道，城管、消防、派出所、办事处、卫生检验防疫……政府水平高低、办事效率、廉政情况，体现最充分。他说得细致生动，此处不赘。总之，方方面面，这位老兄不胜其扰，勉强坚持一年，非常失望，毅然决然把酒店低价转让，重回深圳。回到深圳他买下一家酒店，自己当老板。他说与Q市相比，深圳的管理水平不知高到哪里去了，非常省心。必要的“打点”，也基本是“明码标价”，办什么事给多少钱，心里有数。</p>
-<p>类似的东北企业家，遇到了好些位，各有曲折故事，无法也不必一一细说，但都是离开东北，来到北上广深。每次听到他们的经历，不禁感叹，明明东北比北上广深更需要资本和民营企业家，然而他们却带着资本纷纷出走！</p>
-<p>春节期间参加一个大趴，各行各业都有，邻座是位投资界大佬，我还是忍不住问起“东北问题”，提出应到东北投资。他笑答：您不是这行的，不知道投资界有个说法，投资不过山海关。投过去，收不回来。不知道他的说法是否准确，多大程度代表整个投资界，但他毕竟是此行的代表性人物之一。</p>
-<p>细细想来，在市场经济体制下，人才总是寻找最适合自己、最能发挥自己才能的地方，资本总是流向最适宜自己增值的地方。人才和资本的流动实际就是使用人才、资本的环境和体制间的竞争，如果体制不合，人才和资本就会“用脚投票”，用“退出”来表示对体制缺陷的不满。</p>
-<p>有研究表明，资本和人才跨政区流动，对现代制度的演化有着重要作用。“影响欧洲社会史的基本因素是欧洲地理上的多样性，而这种多样性又有利于形成许多具有独立统治者的小国家。这些统治者不仅通过战争相互争夺，而且还越来越通过吸引生产资本和有技能、有知识的人才的跨政区竞争而相互争夺。”善待企业的政区（enterprise-friendly-jurisdictions）如佛罗伦萨、尼德兰、英格兰等，则因统治者服从规则得到了经济增长的报偿，“而专制国家，统治更大、更封闭地域的专断君主国——如西班牙、俄罗斯和奥地利——则开始在经济发展上落后。”君权神授，曾是欧洲中世纪占统治地位的观念，但在中世纪末，“政府已越来越被视为要服从于跨政区竞争的力量。这种竞争限制了政府的权力”。“神权”，也不得不屈服于经济的力量。（[德]柯武刚、史漫飞著：《制度经济学》，商务印书馆，第466、467页）</p>
-<p>现在是“全球化”时代，“全球化”的特征是资本、商品、人才的跨国流动。虽然民族国家现在仍是国际最基本、最重要的“单位”，但与从前相比，民族国家的因素的重要性却早已相对降低。连国与国之间的壁垒、障碍都在迅速减少，早就形成国内统一市场的国内地区与地区间的壁垒、障碍相比几乎可说是“不复存在”，这种竞争必然更加激烈。在计划经济时代，资金、人才走向受到严格管控，不存在自由流动，也就没有这种竞争。以市场经济为导向的改革开放，重要的制度建设就是破除障碍，铺设商品、资本、人才自由流动的大道。记得改革开放之初，国内地区间的壁垒刚有所松动，但仍是障碍重重，湖南省曾经动用大量的行政力量、动用民兵等拦截运往广东的大米和猪肉。现在，这种壁垒早就破除，不但商品流动畅行无阻，更有看似无形、不需要车载斗量的资本流动。对一个地区来说，资本大量流出带来的“失血效应”无疑至关重要。</p>
-<p>人才与资本的流出，就是一种“退出”。“从自由和繁荣的立场来看，易于退出的结果是在世界各地出现了经济制度和其他制度上的大量改良。”（同上，第473页）国际如此，国内地区间更是如此。所谓国内统一市场就是国内各地区不仅仅是允许外地区的资本、外地区人才有自由进入的权利，很重要的另一点是允许本地区的资金、人才也有“退出权”，可以较为自由地退出、外流。随着国内改革开放的力度增大，这种“退出”的自由度也越大。揆诸东北现状，国家投资不断增加，同时又有大量民营资本不断“外流”。一方面不断输血，一方面又不断失血。这是因为资本在“关外”不仅增值更快，而且其“产权”相对有更稳定的制度保障，即政府行为相对规范得多。</p>
-<p>所以，为了发展经济，就要吸引资本和人才，而吸引资本和人才一定要有相应的经济和政治规则、制度保证。这样，由于对经济发展与否这种物质性成败的反馈，开启了制度的创新和学习过程。制度经济学研究表明，正是在这种制度演变中，欧洲的政治体制也从封建专制政体逐步向君主立宪制和选举民主制转变，欧洲各国的政府逐渐丧失了控制臣民私人事务的权力，一些政府开始把自己重塑为以支持经济发展为目的的组织，因此现代制度才可能发展起来。</p>
-<p>历史表明，政府间的“争胜”，是发展、巩固、保护这些制度的重要条件。“现在，较小的成本差异都会促使了解不同国家间条件差异的私人主体去从事‘套利’活动。结果，对国家政策和制度的反馈更加直截了当，政区间的差异也难以持久。对（越来越多的）交易成本产生影响的各种制度现在都服从于国家间的制度竞争。”（同上，第472页）重要的事情再说一遍，连“国际”都是如此，那么国内“省际”间竞争更是如此。较小的成本差异更会促使了解不同地区间条件差异的私人主体去从事“套利”活动。</p>
-<p>因此，若不进行制度变革，地区只能“闭关”，以封闭的制度“锁住”人才和资本。但国内统一市场的形成，使这种地区“闭关”成为不可能，只能靠制度的优越来“吸引”人才和资本。一些人为的力量，最后也不得不屈从于这种制度竞争的压力。要想留住、吸引资本和人才，就要改革那些不利于资本增值，不利于人才成长、发挥其才能的体制。在开放、动态的环境下，这种对资本和人才的体制竞争，是体制不断改革、演化的主要内在动力。“压力就是动力”是句老得不能再老的套话，但套话并非理。</p>
-<p>东北面临的压力，关键在于如何将压力化为改革动力，就是如何规范公权力行为，如何将权力关进笼子。重症猛药，应当在东北进行一些规范公权力的制度性建设的实验，以期迅速改善东北地区的投资环境，从资本、人才的流失地变为资本与人才的注入地。一句话，希望投资快过山海关。或许，这是重振东北的关键。</p>
-<p>（本文原标题：《投资快过山海关》）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E9%9B%B7%E9%A2%90%EF%BC%9A%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97%EF%BC%8C%E5%85%88%E6%83%B3%E6%83%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A6%BB%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">振兴东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97%E8%80%81%E5%B7%A5%E4%B8%9A%E5%9F%BA%E5%9C%B0/?category=18271" rel="tag">振兴东北老工业基地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">民营企业家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2-%E6%97%8F%E7%BE%A4%E4%B8%8E%E5%AE%97%E6%95%99%E5%86%B2%E7%AA%81%E7%9A%84%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%9A%E4%B8%89/" target="cdt-mirror">敦伦政经学院 | 族群与宗教冲突的政治经济学</a>
-</h2>
-<p><p dir="ltr">作者：小墙</p>
-<p dir="ltr"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-10-at-%E4%B8%8B%E5%8D%887.13.08.png?resize=500%2C273" alt="Screen Shot 2016-03-10 at 下午7.13.08" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-10-at-下午7.13.08.png?resize=300%2C164 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-10-at-下午7.13.08.png?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p dir="ltr">族群冲突与宗教冲突的新闻常常出其不意地攻陷我们的荧屏，<wbr></wbr>播撒着恐惧的种子。<wbr></wbr>愤怒而怯懦的旁观者有时会提出一种霍布斯式的解决的方案：<wbr></wbr>如果有一个卡扎菲、巴沙尔式的世俗专制的政治强人独揽大权，<wbr></wbr>这些惨剧就不会发生。<wbr></wbr>但是对族群冲突和宗教政治的定量研究并不支持这种判断。</p>
-<p dir="ltr"><strong>一、卢旺达：“强人和平”的失败</strong></p>
-<p dir="ltr"><strong>强人政治极少有维护族群和谐的动机。</strong>尽管“强人政治”<wbr></wbr>的说法令人迷惑，但没有任何政权是一个人一手控制的、<wbr></wbr>完全自主的超级利维坦。<wbr></wbr>任何人的统治都依赖或大或小的统治联盟支持(de Mesquita & Smith 2011)。<strong>在族群割裂的国家，“强人”</strong><wbr></wbr><strong>政府通常依赖一个族群支持来维持统治，</strong><wbr></wbr><strong>如果仇恨和冲突帮助他们巩固这种支持，他们很乐意火上添油。</strong><wbr></wbr>近些年，对惨绝人寰的卢旺达大屠杀的计量经济学研究，<wbr></wbr>让我们对这个规律有了更加深刻的认识。</p>
-<p dir="ltr">我们不妨先了解一下屠杀的背景。卢旺达长期存在占多数的胡图(<wbr></wbr>Hutu)和占少数的图西(Tutsi)两个族群。<wbr></wbr>臭名昭著的比利时殖民者通过扶植图西族加剧了两者的矛盾。<wbr></wbr>卢旺达独立后胡图人掌握了政权。1973年，<wbr></wbr>胡图人军队高官Habyarimana发动军事政变篡取了总统一<wbr></wbr>职，并通过一系列“得票率”高达99%左右的作假“选举”<wbr></wbr>延续了20年的独裁统治。Habyarimana的强人统治下，<wbr></wbr>卢旺达的经济有点滴的改善，<wbr></wbr>但这并没有使它脱离地球上最贫穷国家的行列。</p>
-<p dir="ltr"><strong>Habyarimana本人并不格外仇恨图西人，</strong><wbr></wbr><strong>他在执政早期有限地改善了两族人的关系。</strong><wbr></wbr><strong>然而威权政治的逻辑高于统治者的意愿</strong>，<wbr></wbr>在他统治集团内部反图西势力的压力下，他一再让步。1990年，<wbr></wbr>图西人组成了“卢旺达爱国阵线”，从乌干达向卢旺达进军，<wbr></wbr>发起革命。内战爆发后，Habyarimana提出了“<wbr></wbr>胡图力量”意识形态，以及“胡图十诫”，<wbr></wbr>把通婚的胡图人斥为叛徒，煽动仇恨对抗图西人。1993年，<wbr></wbr>Habyarimana在国际压力下同意停火讲和。次年，<wbr></wbr>他乘坐的飞机被不明势力击落，他剩余的统治圈子立刻接管政权，<wbr></wbr>在第二天发动了臭名昭著的种族屠杀。<strong>短短一百天内，80万人——</strong><wbr></wbr><strong>图西人口的百分之七十，卢旺达总人口的百分之二十——</strong><wbr></wbr><strong>在屠杀中丧命。</strong></p>
-<p dir="ltr"><strong>近年的研究用数据勘察到卢旺达政治精英如何通过多个渠道策划、</strong><wbr></wbr><strong>指挥了这场暴行，其手段令人发指。</strong>如果看过电影《卢旺达饭店》，<wbr></wbr>你大概会记得收音机中那个低沉邪恶的声音咒骂着图西“蟑螂”，<wbr></wbr>威胁要除掉他们。这个政府要员控制的电台叫做RTLM，<wbr></wbr>它真实地存在，<wbr></wbr>也被广泛认为在屠杀前就散播对图西人的恐惧和仇恨。<wbr></wbr>Yanagizawa-Drott(2014)<wbr></wbr>发表在在<em>Quarterly Journal of Economics</em>的论文研究了RTLM对屠杀参与的影响。<wbr></wbr>他采用无线通讯中常用的ITM/Longley-Rice算法，<wbr></wbr>利用了卢旺达崎岖地势造成信号接收不均这一外生因素，<wbr></wbr>从而估算出了RTLM信号接收对屠杀参与的影响。<wbr></wbr><strong>他发现RTLM协调了武装组织和军人的行动，</strong><wbr></wbr><strong>显著增加了屠杀的效率。</strong>他进而用估测到的参数进行模拟，<wbr></wbr>发现假如联合国在屠杀开始时当机立断干扰RTLM讯号，<wbr></wbr>屠杀中的死伤会减少十分之一。</p>
-<p dir="ltr">大众传媒并不是卢旺达政治精英激化矛盾的唯一手段。<wbr></wbr>Bonnier, Jonas Poulsen, Rogall & Stryjan(2015)定量核实了“<wbr></wbr>政治精英们用屠杀前的社区集会煽动仇恨”这一传言。<wbr></wbr>Habyarimana执政期间恢复了卢旺达前殖民时代社区集会<wbr></wbr>与社区工作的传统。这一政策结合了经济和意识形态考量。经济上，<wbr></wbr>卢旺达是一个极度落后的国家，<wbr></wbr>致力于修建和维护基础设施的社区集会对经济有促进作用。<wbr></wbr><strong>意识形态上，Habyarimana强调社区工作是对胡图族“</strong><wbr></wbr><strong>真正的卢旺达人”耕作传统的回归，</strong><wbr></wbr><strong>从而在意识形态上边缘化传说中具有牧人起源的图西族。</strong><wbr></wbr><strong>一些采访资料显示，政府可能利用这些集会鼓动对图西人的仇恨。</strong><wbr></wbr>这些社区活动在每个周六举行，强制村民参与。<wbr></wbr>但因为多数社区工作是户外的，加上卢旺达的土路崎岖狭窄，<wbr></wbr>降雨时泥泞难以行走，如果周六下雨很少有人会参加。<wbr></wbr>出于缺乏社区集会数据，以及因果识别考量，<wbr></wbr>论文作者通过周六的降雨间接考察了社区集会在屠杀中的角色。<wbr></wbr>作者收集了卢旺达各地屠杀前四年的降雨GIS数据，<wbr></wbr>发现周六降雨多的村落对屠杀的参与率显著较低。<wbr></wbr>这一效应在控制了一周中其他日子的降雨后仍然稳健，<wbr></wbr>并且其他日子的降雨对屠杀参与率毫无影响。<wbr></wbr><strong>这强烈指示政府组织的社区集会部分地对屠杀负责。</strong></p>
-<p dir="ltr"><strong>在屠杀过程中，政府军队的施压、强迫、煽动也起到了关键作用。</strong><wbr></wbr>Rogall (2014)研究了这一经过。作者考虑到，<wbr></wbr>中央政府的军队调度可能是选择性的，<wbr></wbr>因此简单的回归分析不能识别军队派遣对屠杀的因果关系。<wbr></wbr>前文提到，卢旺达的道路主要是土路，尤其小路降雨后泥泞难行，<wbr></wbr>连机动车都受到很大阻碍。出于效率考量，<wbr></wbr>来动员屠杀的军队会尽量选择连接道路易于通行通行的村庄，<wbr></wbr>从而保证他们在单位时间内访问尽可能多的村庄。<wbr></wbr>Rogall博士利用这这一外生因素，通过工具变量回归，<wbr></wbr>发现离主干道路远且降雨多的村庄较少被军队光顾，<wbr></wbr>同时也有更低的屠杀参与率，<wbr></wbr>而控制变量表明这并不是降雨本身或偏远本身造成的，<wbr></wbr>两个因素同时出现才会对屠杀产生影响。<strong>模型模拟显示，</strong><wbr></wbr><strong>军队的参与、煽动和胁迫对百分之八十以上平民参与负责</strong>，<wbr></wbr>如果联合国能够对主要军事基地进行干预，大屠杀或许可以避免。<wbr></wbr>但国际社会在全过程中保持了可耻的静默。</p>
-<p dir="ltr">除了证实了军队动员在屠杀中的重要作用，Rogall博士在文中还揭示了数据中的一些重要模式，<wbr></wbr>对进一步理解民众和政府在屠杀中的角色有启发。<wbr></wbr>Rogall博士查看了村落人口组成和军队派遣的关系，<wbr></wbr>建模分析表明军队的目标似乎并不是最大化杀死的图西族人数量，<wbr></wbr>而是在试图最大化胡图族人对屠杀的参与。<wbr></wbr>这核实了专家们的一个猜想，<wbr></wbr>即<strong>卢旺达政府希望制造一种全民的道德沉默</strong>——<wbr></wbr>如果每个人都是施害者，那就没人能对施害者掷出第一块石头。<wbr></wbr>文章还发现，<wbr></wbr>军队动员的努力在两族人民通婚多的地区受到了较大的阻力。<strong>总之，</strong><wbr></wbr><strong>卢旺达屠杀并不是一场暴民的狂欢，而是专制政府的杰作。</strong><wbr></wbr><strong>胡图和图西两族虽然存在民间仇恨，</strong><wbr></wbr><strong>但很可能不至于促使他们在这样的规模上拿起屠刀。面对族群冲突，</strong><wbr></wbr><strong>利维坦恶果并不小于无政府的混乱。</strong></p>
-<p dir="ltr">值得庆幸的是，我们非生活在一个霍布斯式的“无政府-利维坦”二元世界。<wbr></wbr>在政治制度的其他象限是否存在对族群和宗教冲突的解决方案？<wbr></wbr>肯尼亚的族群之争和土耳其的宗教问题会对我们有所启发。</p>
-<p dir="ltr"><strong>二、肯尼亚：民主的作用</strong></p>
-<p dir="ltr">在前文中我引用了卢旺达屠杀的研究说明，<strong>面对族群冲突，利维坦恶</strong><wbr></wbr><strong>果并不小于无政府的混乱。</strong>幸运的是，我们无需从这二者中选择。<wbr></wbr>民主是否对解决族群纠纷有所助益？不同族群有着不同的文化，<wbr></wbr>不同的社会与经济地位，以及不同的地理位置，<wbr></wbr>这些因素使他们对政策有不同的偏好。如果政策长期偏袒一方，<wbr></wbr>这既背离了人类的道义直觉从而滋生摩擦，<wbr></wbr>也增加了暴力和冲突对受害方的收益。<wbr></wbr><strong>假如民主制度能够不偏不倚地对待这些偏好差异，</strong><wbr></wbr><strong>那它很可能是族群冲突的解决之道。</strong>但民主能做到这一点吗？</p>
-<p dir="ltr">Burgess, Jedwab, Miguel & Morjaria (2013) 发表在<em>American Economic Review</em>的文章用肯尼亚基础设施建设数据考察了这个问题。<wbr></wbr>肯尼亚独立后经历了在民主和威权间的反复更迭，<wbr></wbr>无论民主时期和威权时期，<wbr></wbr>先后都有Kikuyu和Kalenjin两大族群的总统执政。<wbr></wbr>Kikuyu和Kalenjin分别聚居在不同的地理区域。<wbr></wbr>文章观察了该国中央化的修路建设，<wbr></wbr>发现威<strong>权时期总统族群聚居的地方修建的道路明显多于其他区域，</strong><wbr></wbr><strong>而在民主时期这种偏袒并不存在。</strong>理论建模表明，<wbr></wbr>民主通过对领导人的权力的制衡降低了他们实施偏袒政策的能力，<wbr></wbr>从而均等化了公共物品的提供。这既促进了公平，<wbr></wbr>又降低了偏袒某一族群带来无效率。<wbr></wbr><strong>这可能部分解释了为什么非洲在民主时期经济增长明显快于其威权时</strong><wbr></wbr><strong>期。</strong>我们不妨猜想，经济政策之外，在社会、文化领域，<wbr></wbr>民主也能带来相对公平的决策。</p>
-<p dir="ltr"><strong>三、土耳其：在宗教社会与世俗精英之间</strong></p>
-<p dir="ltr">接下来，我们谈谈如何看待政治在宗教问题中的位置。<wbr></wbr>伊斯兰教当代麻烦不断，<wbr></wbr>不仅是小部分教徒屡屡打着宗教的旗号犯下恐怖主义罪行，<wbr></wbr>伊斯兰教国家女人的权利和经济地位也常常受到剥夺和限制。<wbr></wbr>在一些人的想象中，独立于社会文化的，<wbr></wbr>自主的世俗政治强人才是伊斯兰世界的救世主。</p>
-<p dir="ltr">Meyersson(2014)挑战了这种观念。<wbr></wbr>该文研究了土耳其90年代的市长选举，<wbr></wbr>试图估测伊斯兰教政党的市长对女性受教育水平的影响。<wbr></wbr>但如果只观察无条件的相关性，我们就不能很好地识别因果关系，<wbr></wbr>因为宗教保守势力根深蒂固的地方更容选出伊斯兰教市长，<wbr></wbr>我们无法区分是社会势力还是伊斯兰市长影响了女性的受教育机会。<wbr></wbr>采用“断点回归设计”的方法，<wbr></wbr>Meyersson博士聚焦于那些选情激烈，<wbr></wbr>伊斯兰政党候选人险胜或“险负”的城市——几票之差决定的输赢，<wbr></wbr>大概怎么不反映宗教保守势力的强弱。（为了统计结果的稳健性，<wbr></wbr>文章按照惯例加入了一个得票差距的多项式控制。）他发现，<wbr></wbr><strong>一旦采用了这种严谨的因果识别策略，</strong><wbr></wbr><strong>伊斯兰市长显著地提高了女性接受并完成高中教育的比例</strong>——<wbr></wbr>这和粗糙地观察相关性得出的结论正好相反。<wbr></wbr>Meyersson的研究结果让所有人难以置信，<wbr></wbr>以至于这篇文章一度难以发表。<wbr></wbr>但是他的统计方法和理论解释经过了时间检验，<wbr></wbr>这篇文章最终发表于经济学顶级期刊<em>Econometrica</em>上。</p>
-<p dir="ltr">但是如何解释这惊人的发现呢？<wbr></wbr>土耳其的精英主义政府不顾伊斯兰教在该国的根深蒂固，<wbr></wbr>把世俗化写入宪法，<wbr></wbr>直到90年代伊斯兰教政党Refah才在地方选举中遍地开花。<wbr></wbr>Meyersson认为这些<strong>平民主义伊斯兰市长当选后常常忽略中</strong><wbr></wbr><strong>央政府强加的各种世俗规则</strong>，如女生不得戴头巾上学等规定，<wbr></wbr><strong>这使长期被政治精英忽略的传统伊斯兰教家庭更支持女儿去受教育。</strong><wbr></wbr>同样重要的是，<strong>伊斯兰教政党与当地宗教组织关系更好，</strong><wbr></wbr><strong>而后者是土耳其地方教育资金的重要赞助者</strong>。Meyersson(<wbr></wbr>2014)用数据验证了，<wbr></wbr>伊斯兰政党执政下确实存在更多非政府投资的教育建设。</p>
-<p dir="ltr">土耳其的经验表明，对于伊斯兰社会的治理，<wbr></wbr><strong>正确的态度不是居高临下地强加一个世俗的政权，</strong><strong>造成政治与社会的脱节。相反，</strong><wbr></wbr><strong>要认识到伊斯兰教在这些社会中深刻的根基，</strong><wbr></wbr><strong>并认可穆斯林的政治权利，</strong><wbr></wbr><strong>让他们在对民主政治的参与中发现良政的意义以及宗教信仰在政治生</strong><wbr></wbr><strong>活中的正确作用。</strong>基督教在其发展成熟的过程中，<wbr></wbr>也不曾经历强加的世俗化，<wbr></wbr>而是其自身的能量让它向更促进教育和知识积累的方向发展(<wbr></wbr>Becker & Woessmann 2009)。Meyersson的贡献在于，<wbr></wbr>他发现一旦伊斯兰教市民社会被允许踏入公共治理的领域，<wbr></wbr>他们比世俗精英主义更好地促进了妇女受教育权，<wbr></wbr>而在这个问题上他们一直被认为先天不足。或许，<wbr></wbr>宗教暴力和恐怖主义的解决之道也在这里。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2-%E6%97%8F%E7%BE%A4%E4%B8%8E%E5%AE%97%E6%95%99%E5%86%B2%E7%AA%81%E7%9A%84%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%9A%E4%B8%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%89%8E%E8%8F%B2/?category=18271" rel="tag">卡扎菲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%97%BA%E8%BE%BE/?category=18271" rel="tag">卢旺达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E9%97%AE%E9%A2%98/?category=18271" rel="tag">宗教问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%B2%99%E5%B0%94-%E9%98%BF%E8%90%A8%E5%BE%B7/?category=18271" rel="tag">巴沙尔.阿萨德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%BC%BA%E4%BA%BA/?category=18271" rel="tag">政治强人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F%E5%AD%A6%E9%99%A2/?category=18271" rel="tag">敦伦政经学院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%8F%E7%BE%A4/?category=18271" rel="tag">族群</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%86%B2%E7%AA%81/?category=18271" rel="tag">民族冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%AE%97%E6%95%99/?category=18271" rel="tag">民族宗教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">种族问题</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -636,7 +628,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%89%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -646,5 +638,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%89%8E
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

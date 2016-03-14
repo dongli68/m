@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91-%E9%BB%91%E9%BE%99%E6%B1%9F%E8%AE%A8%E8%96%AA%E9%A3%8E%E6%9A%B4-%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BC%BA%E8%B0%83%E7%BB%B4%E7%A8%B3/" target="cdt-mirror">博谈网 | 黑龙江讨薪风暴 官方通报强调维稳</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-%E4%B8%8B%E5%8D%8812.41.13.png?resize=572%2C321" alt="Screen Shot 2016-03-14 at 下午12.41.13" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.13.png?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.13.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"></p>
+<p>（博谈网记者苏智敏报道）黑龙江省长陆昊日前在两会上称龙煤集团没有欠薪，结果引发上千矿工上街讨薪。虽然事后官方承认错误，但在通报中，并无太多具体对应方案，反而多次提到维稳。</p>
+<p><strong>官方：将成立7个专项工作组</strong></p>
+<p>黑龙江省长陆昊13日再次认错，承认龙煤集团存在欠薪，并表示“错了就要改”，14日黑龙江《双鸭山日报》头版报道又指出，将采取强有力措施，维护稳定大局，并视堵塞铁路、破坏生产为严重犯罪行为，并坚决打击。</p>
+<p>《双鸭山日报》报导称，3月12日23时，双鸭山市委市政府召开维护稳定确保正常生产生活秩序专题会议。会议强调，各有关单位要“讲政治、讲大局”，做好思想工作，采取强有力措施，维护“和谐稳定大局”。并要求职工与市民“不要信谣传谣，不要传播消极负面信息”，</p>
+<p>这份官腔十足的通报承认，不少职工生活遇到困难，龙煤集团和双矿会回应群众诉求，做很多解释和其它有效的工作，但又指出，若发生“堵塞铁路、破坏生产、串联、挑事”，将视为严重违法犯罪行为，“一旦发生，坚决打击”。</p>
+<p>该报导透露，决定成立市委市政府应急工作指挥部，下设7个专项工作组，做好维稳工作。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-%E4%B8%8B%E5%8D%8812.41.00.png?resize=572%2C324" alt="Screen Shot 2016-03-14 at 下午12.41.00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.00.png?resize=300%2C170 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.00.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"></p>
+<p><strong>“共产党还我们钱”</strong></p>
+<p>引发这场讨薪群众抗议的导火线是黑龙江省省长陆昊，他于3月6日在两会上声称该省的国企“龙煤集团”转型成功，并公开表示，龙煤集团井下职工8万人“到现在为止，没有少发一个月工资，没有减一分收入。”</p>
+<p>这番话触发省内上千位遭长期欠薪的矿工及家属上街游行抗议，从网传的照片中可看到，有矿工高举“共产党还我们钱”、“陆昊睁眼说瞎话”、“我们要活着，我们要吃饭”等标语。另传出有矿工堵塞火车轨抗议，并有抗议民众被抓。</p>
+<p>只是未见中国媒体有具体报道示威游行部份，多半只提到黑龙江省长陆昊承认有欠薪情况，而出错原因是来自下级报告讯息不正确，为此特别开会纠正错误，并采取措施。而官媒《环球时报》在一篇“黑龙江信息通报事故值得反思”的社评中，对上千人的抗议也只以一句“这一表态引发龙煤双鸭山煤矿职工的强烈不满，导致发生相关抗议活动”带过。</p>
+<p>实际欠薪情况，《星岛日报》日前报导，有抗议民众称，龙煤集团旗下双鸭山矿业集团已拖欠工资半年以上，一个月只有数百元人民币的生活补助，报导还提到，愤怒的抗议群众一度占据前往北京的铁路。</p>
+<p>现在网络上有民众做了一首打油诗，生动的描述了这件事：“双鸭山，删删删，煤工被逼要跳江。狗省长，说胡话，镜头前面撒大谎。想当年，伪小满，百姓活得有富相。而当今，欠血薪，煤工聚会警察清。警察清。宣传部，大惊慌，网络视频全删光。一班孙子没文化，狗急跳墙啥都干。啥都干、啥都干，就是从不说真话。说真话，掉乌纱，瞒上欺下创神话，反正皇上是聋哑。”</p>
+<p>网友们认为，这么多人一年里都没领到完整薪水，已是攸关温饱问题，累积的怨气可不是开玩笑的。</p>
+<p>然而双鸭山的讨薪事件还没结束，同样在东北的吉林省通化钢铁集团于14日也发生讨薪风波。在网友上传的数张照片中可看到，在钢铁公司前面，聚集了大量警察及前来讨薪的员工，两者相对立。</p>
+<p> </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91-%E9%BB%91%E9%BE%99%E6%B1%9F%E8%AE%A8%E8%96%AA%E9%A3%8E%E6%9A%B4-%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BC%BA%E8%B0%83%E7%BB%B4%E7%A8%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9F%BF%E5%B7%A5%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">2016黑龙江矿工讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E9%BE%99%E6%B1%9F/?category=18271" rel="tag">黑龙江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E7%85%A4%E9%9B%86%E5%9B%A2%E6%AC%A0%E8%96%AA/?category=18271" rel="tag">龙煤集团欠薪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%86%B3%E5%AE%9A%E5%8E%BB%E5%8F%8C%E9%B8%AD%E5%B1%B1%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%BA%BA%E5%AE%B6%E6%8F%AD%E9%94%85%E7%9B%96/" target="cdt-mirror">【习总日记】 习总决定去双鸭山煤矿工人家揭锅盖</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，14）</p>
@@ -73,7 +100,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E8%96%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4/?category=18271" rel="tag">信息过滤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">拖欠工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">维权事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E6%AC%A0%E5%B7%A5%E4%BA%BA%E4%B8%80%E5%88%86%E9%92%B1/" target="cdt-mirror">【图说天朝】“不欠工人一分钱”</a>
 </h2>
@@ -596,26 +623,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%B8%BA%E6%9A%B4%E4%B9%B1-%E9%95%87%E5%8E%8B%E6%98%BE%E7%A4%BA%E6%94%BF%E5%BA%9C%E5%8A%9B%E9%87%8F/" target="cdt-mirror">法广｜特朗普：六四为“暴乱” 镇压显示政府力量威力</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg" rel="attachment wp-att-431516"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg?resize=575%2C317" alt="CdPhjKUUAAAIth_" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg?resize=300%2C165 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdPhjKUUAAAIth_.jpg?w=599 599w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br>
-（图片来源：<a href="https://twitter.com/HongKongFP/status/708157560784707584/photo/1">@HongKongFP</a>）</p>
-<p>中国问题再次成为美国总统大选共和党提名选战的辩论会上主题。目前人气很旺，但以口无遮拦的候选人亿万富翁特朗普再次“语惊四座”，他将中国89年的争取民主的活动定义为“暴乱”，并认为政府的六四镇压是“平息暴乱”。</p>
-<p>据法新社报道，周四3月10日晚，美国共和党参选人在佛州迈阿密大学出席了由CNN主办的第十二场总统辩论上，主持人就1989年4月到6月期间北京天安门广场上的民主抗争事件向特朗普发问，因为1990年特朗普就该事件发表在美国《花花公子》杂志上的言论因大选再次曝光。</p>
-<p>据报道，特朗普1990年在接受《花花公子》杂志访谈时说，俄罗斯已经失控，其高层也知道，但是领导人戈尔巴乔夫缺乏强硬手段，很软弱。当被记者追问是否意味着俄罗斯缺乏像中国镇压学生示威那样的手段时，特朗普的回答是，“当学生们聚集在天安门广场上时，中国政府几乎就要搞砸了，后来学生变得邪恶起来、很可怕，但政府以力量平定，此举显示了力量的威力。”</p>
-<p>周四共和党候选人辩论会的主持人塔珀问特朗普就以上谈话如何做出回应，塔珀本人在提问时将六四事件称为“屠杀”，而特朗普在回答时则将抗议者的行为称为一场“暴乱”。</p>
-<p>特朗普的回答是：“那并不是说我支持它，我并没有支持它。我说的是，那是一个强大的政府，用力量予以镇压。然后，他们控制了这场暴乱。这是一件可怕的事情，我绝对不是说我支持它。”</p>
-<p>随后，塔珀就此提问另一位总统提名候选人卡西奇（John Kasich）：卡西奇的回答和特朗普划清了界限，他认为天安门事件就是“屠杀”，还认为应该为在站在坦克面抗议的小伙子在原地树立一座雕像。</p>
-<p>有报道指，为了进一步区别于特朗普，卡西奇还说说：“我认为我们没有必要把中国视为敌人。他们是竞争对手。但我想说他们应当做的三件事情，第一件就是在朝鲜搞定那个家伙和他现在做的事情。第二件，他们需要认识到，南海并不属于他们。在这里，我要称赞（奥巴马）政府派遣航母战斗群前往南海。第三件，在应对网络攻击时，我们必须要强化我们的网络司令部。“</p>
-<p>美国总统大选将于今年11月份举行，目前特朗普和前国务卿希拉里-克林顿分别是共和党和民主党最具人气的两党提名候选人。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%B8%BA%E6%9A%B4%E4%B9%B1-%E9%95%87%E5%8E%8B%E6%98%BE%E7%A4%BA%E6%94%BF%E5%BA%9C%E5%8A%9B%E9%87%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中美关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B1%A0%E6%9D%80/?category=18271" rel="tag">天安门屠杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/?category=18271" rel="tag">美国大选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -627,7 +634,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -637,5 +644,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

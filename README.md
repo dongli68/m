@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%86%B3%E5%AE%9A%E5%8E%BB%E5%8F%8C%E9%B8%AD%E5%B1%B1%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%BA%BA%E5%AE%B6%E6%8F%AD%E9%94%85%E7%9B%96/" target="cdt-mirror">【习总日记】 习总决定去双鸭山煤矿工人家揭锅盖</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，14）</p>
+<p>一</p>
+<p>两会期间发生了黑龙江省双鸭山市煤矿工人上街游行讨薪事件。起因是黑龙江王八蛋省长陆昊吹牛说黑龙江没有拖欠工人一分钱薪水。</p>
+<p>我在黑龙江的人立即汇报了原因，两个字，没钱。</p>
+<p>没钱就眼看着不管吗？不能。咱不是共产党吗？共产党不就是为人民服务的吗？别说工人上街游行请求我们管，就是不要我们管，我们也要管。</p>
+<p>我马上指示印钞厂加班加点，多印钱印好钱，把人民币印得漂漂亮亮的，带着油墨的芳香，尽量早日送到黑龙江煤矿工人手里。遵循把坏事变成好事，把丧事办成喜事的原则，我决定，两会之后马上去黑龙江双鸭山市煤矿工人家里访问。敲门要柔推门要轻，上炕嘘寒问暖，揭锅盖开冰箱的情节不可少，拉着大爷大妈的手，一起畅谈共产党好习大大亲，做个煤矿工人多幸福。</p>
+<p>二</p>
+<p>政令不出中南海不一定是坏事。</p>
+<p>有人担心我受蒙蔽被架空，其实这种担心是多余的。不过暴露了担心者的智商。通过我在各地的嫡系亲信，对全国各地形势了如指掌。譬如上海，我只信任三个人。此三人通过他们设伏在上海的眼线，向我汇报上海情报，我是相信的采纳的。其余人包括市委书记韩正，循正常途径向我递交的上海市情况汇报，我都留个心眼打个问号，生怕他们给我挖坑上眼药。</p>
+<p>三个人只透露一个，现任习办主任丁薛祥。</p>
+<p>三</p>
+<p>中兴通讯遭遇美国制裁，虽借口向伊朗提供禁运电子器件，但矛头直指我电子军工产品，直接涉及到我军力发展和科技发展。美帝国主义不声不响地又戳了我们一刀。</p>
+<p>四</p>
+<p>本届两会代表们比较乖，没有胡言乱语。也没再见成龙搂宋祖英脖子。</p>
+<p>这样很好，孩子听大人的话天经地义。两会代表都是党的孩子。小孩不懂事大人要管，小孩乱说话大人要骂，小孩闯祸大人要揍。</p>
+<p>五</p>
+<p>在中国领导人身高评选中，我被选为最高领导人。在担任总书记时间前后评选中，我被选为最后领导人。他们说接下来评选最胖领导人。我说我有事先走了。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/031416.jpg?resize=450%2C167" alt="031416" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/031416.jpg?resize=300%2C111 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/031416.jpg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%86%B3%E5%AE%9A%E5%8E%BB%E5%8F%8C%E9%B8%AD%E5%B1%B1%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%BA%BA%E5%AE%B6%E6%8F%AD%E9%94%85%E7%9B%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E8%96%9B%E7%A5%A5/?category=18271" rel="tag">丁薛祥</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%98%E6%80%A1%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4%E4%B8%8B%E7%9A%84%E9%99%86%E6%98%8A%E9%97%A8/" target="cdt-mirror">刘怡：信息过滤下的“陆昊门”</a>
 </h2>
 <p><p><strong>陆昊作为黑龙江省的最高行政首长，竟会对当地国有大型煤炭企业集团的现状不做了解，归罪到下属的报告信息有误，确实很难向公众作出交待。</strong></p>
@@ -587,29 +616,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BE%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E6%96%B0%E9%97%BB%E6%B3%95%E7%AB%8B%E6%B3%95-%E5%AE%98%E5%91%98%E9%A1%BE%E5%B7%A6%E5%8F%B3%E8%80%8C%E8%A8%80%E4%BB%96/" target="cdt-mirror">自由亚洲｜记者提问新闻法立法 官员顾左右而言他宣布散会</a>
-</h2>
-<p><p><strong>【编者注】</strong>下文提到的美国《侨报》是中共外宣系统中的假外媒之一。2001年，美国非盈利机构“詹姆斯镇基金会”发表的报告《中国政府是如何试图控制美国的华语媒体的》中有详细介绍（<a href="http://www.boxun.com/forum/boxun2006b/304310.shtml">中文版</a>、<a href="http://www.jamestown.org/programs/chinabrief/single/?tx_ttnews%5Btt_news%5D=28481#.VuPE-T-cuiU">英语原文</a>）。钟雪泉对该报记者的傲慢态度并不难理解。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg" rel="attachment wp-att-431511"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg?resize=500%2C442" alt="image" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg?resize=300%2C265 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-1.jpg?w=558 558w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>在中国全国人大法制工作委员会星期四的记者会上，美国华文媒体《侨报》的记者问为何中国新闻法的立法提出多年没有结果？而新闻发布会主持人钟雪泉对此不予理睬，却转问“西方主流媒体有问题吗？”随后他自说自话，宣布记者会结束。钟雪泉对中国新闻立法问题的回避与傲慢，招致网民和分析人士的批评与不满。</p>
-<p>中国的新闻立法一直是当局讳莫如深的话题。3月10日，在全国人大法制工作委员会的记者会上，美国华文媒体《侨报》的记者钟颖，向新闻发布会主持人、全国人大常委会办公厅新闻局副局长钟雪泉提问，为何中国新闻法立法提出多年都没有结果，而且提及今年初甘肃记者被捕事件。女记者钟颖说：“我的问题是关于新闻法的，没有新闻法，中国记者的权利和义务经常处于一个模糊地带。包括去年（应为今年初）甘肃记者被执法部门带走，涉嫌罪名是嫖娼，但这是有争议的。我的问题是，新闻法提出了几年，有时间表吗？如果有的话可以公布吗？没有的话，为什么中国新闻法出台这么难？”</p>
-<p>接下来，主持人钟雪泉说：“我刚才说的是除华文媒体以外的记者，西方的主流媒体记者有问题吗？因为西方媒体提问很少，你们举手少可能跟相关的问题少有关，如果没有的话，今天的记者会到此结束。谢谢各位嘉宾”。</p>
-<p>上述场景在网络直播后引发热议。山东网民“忍者鸣人的心腹”称，人大立法是人大的一项重要工作，完善和制定我国相关领域的法律，是法治国家的重要标志。网民“马克耶稣”回应称，别指望了，法律滞后一代人，能有什么作为？没人监督他，始终行政不作为。另有网民称，既然国外媒体没问题，为什么不回答侨报关于新闻法的提问？太不尊重了！</p>
-<p>事件也引发社会对新闻立法的关注。新快报前记者刘虎3月11日接受本台采访时称，现在工人有劳动法、有公务员法、警察法等，各个行业均有相关法律，保护和规范新闻行业也应该立法：</p>
-<p>“新闻记者的权利和义务，应也有相关规定，你应受到哪些保障，都是应该有的。这在我们新闻界是有共识的。对政府可能他们认为，限制（政府）的作用大于保障作用。可能政府在有这个法的情况下，不知道怎么管理。侨报提的问题，我们都觉得作为正常的新闻发言人应该是能够回答的。不知道为什么他把这个问题岔开了。这样还有没有开新闻发布会的必要？”。</p>
-<p>北京外国语大学国际新闻与传播系教授展江认为，这位人大新闻官可能觉得不好回答这个问题：</p>
-<p>“因为在去年，人大的柳斌杰先生，他是教科文卫委员会主任委员，他提到新闻法正在起草，即将公布什么方案，但后来就没有下文了。现在看来暂时没有新闻法出台的迹象”。</p>
-<p>展江说，不仅仅是新闻法，还有电影法尚未出台，但相关的草案在1984年已经完成，现改名为电影产业促进法，但至今未成定局。他说：“电影法可能到时候会出来，因为他现在叫电影促进法，它更多的涉及产业，但是新闻法或叫传媒法，他可能更加复杂，范围更大”。</p>
-<p>北京一位媒体界元老对记者说，新闻法在八十年代中期就已起草：“当时由胡绩伟（人民日报社总编辑）在全国人大牵头，虽然他当时是全国人大科教文委员副主任，而且很有成效。据说已经搞到三稿或四稿，这个稿件现在应该还在。八九以后，这项工作就完全停止了”。</p>
-<p>这位资深媒体人称，即使现在出台新闻法，对媒体和记者也是限制多于自由，因此出台与否实际意义并不大。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E6%96%B0%E9%97%BB%E6%B3%95%E7%AB%8B%E6%B3%95-%E5%AE%98%E5%91%98%E9%A1%BE%E5%B7%A6%E5%8F%B3%E8%80%8C%E8%A8%80%E4%BB%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E6%B3%95/?category=18271" rel="tag">新闻法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -621,7 +627,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -631,5 +637,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

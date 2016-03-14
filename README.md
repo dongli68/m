@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,81 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%98%E6%80%A1%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4%E4%B8%8B%E7%9A%84%E9%99%86%E6%98%8A%E9%97%A8/" target="cdt-mirror">刘怡：信息过滤下的“陆昊门”</a>
+</h2>
+<p><p><strong>陆昊作为黑龙江省的最高行政首长，竟会对当地国有大型煤炭企业集团的现状不做了解，归罪到下属的报告信息有误，确实很难向公众作出交待。</strong></p>
+<p>中国黑龙江省省长陆昊今年3月6日在全国“两会”黑龙江代表团开放日上，信誓旦旦跟媒体说，“龙煤井下职工8万人，到现在没有少发一个月工资，没有减一分收入”。但随后，网络媒体爆出黑龙江龙煤集团属下的双鸭山矿工上街游行，并且打出标语指责陆昊“睁眼说瞎话”。</p>
+<p>有媒体报道指，双鸭山矿业集团有近上万名矿工罢工，并从3月9日开始，连续四天上街游行示威，同时封堵铁路，到了12日，事件升级，有网络视频显示，黑龙江当局出动武装警察镇压，双方还发生冲突，网络传出消息指，有“矿工被打伤、被抓”。</p>
+<p>但是这个消息很快遭到封锁，相关信息没有出现在国内媒体上。到了13日，《人民日报》旗下的北京《京华时报》发消息指，陆昊接受该报采访时表示，“井下职工确实有欠薪的，这个事情，我说错了，不管什么层级报告错了，不管任何原因，错了，就是错了，错了就要改。改完了，就要解决问题。”</p>
+<p>无论“层级报告错误”的理由是否成立，但足以让舆论愕然。因为2015年，黑龙江、吉林和辽宁的名义GDP增长率分别为-0.29%、3.41%和0.26%，已近乎“硬着陆”。而陆昊作为黑龙江省的最高行政首长，竟然会对当地国有大型煤炭企业集团的现状不做了解，归罪到下属的报告信息有误，确实很难向公众作出交待。</p>
+<p>尤其，陆昊本人的履历十分耀眼，他原本是“两会”期间最受瞩目的政坛“绩优股”，2013年临危受命，“空降”黑龙江出任代省长时，46岁不到，后来就任省委副书记和省长。</p>
+<p>这一位曾经作为改革当中，“理论与实践结合”的楷模，究竟是谁蒙蔽了他？</p>
+<p>实际上，近期以来，媒体在采访基层干部当中，不乏听到“信息过滤”的词。记者不久前在采访发改委的一位普通处级干部的时候，他直言不讳，很多问题出现时，他们并非不清楚问题的根源在哪里，但是，什么信息要往上呈送，是一定要有选择的。他还坦承，最后领导看到的情况报告，通常都是过滤后的信息。这样做的原因不外有二：一不能让责任归口到自己头上，二不能让自己及相关利益单位承担责任。</p>
+<p>这样的情况最显见的体现，就在“两会”的记者会上。几乎所有公开的记者会，也几乎所有记者的问题都是事先要通报过受访人，最终最终获得提问机会的提问，就成了双方的一场问答秀。因此，无论是政协还是人大，从部长记者会到各省的媒体开放日，大部分的会议主持人都能从泱泱人群中，准确无误地点出提问媒体标准配置——新华社，中央电视台，人民日报的记者，而这些被称作“党媒”的媒体，也都无一例外的会予以配合，问一个可以尽量呈现这些受访对象政绩的问题。</p>
+<p>这中间甚至出现这样的令人错愕的场面：3月8日的河北团媒体开放日上，河北省长赵克志在点名提问媒体时，头也没有抬，看着他的手下给他的提示纸条，念说，下面请莫排某座的那位穿深色上衣的女记者提问，偏偏不巧的是，该名女记者进场后不久就脱下了深色外套，穿了白色上衣，在全场的瞩目下，问也不是，不问也不是。</p>
+<p>但是，河北省也是此次经济转型升级中，面临重重困难的省份，但从当天的河北省领导的口中，自身问题都不见了，代之而来的是发言是，发展需要寻求中央政府的各种政策扶持。</p>
+<p>对媒体来说，一方面觉得两会的“潜规则”越来越多，但是，一方面又不能放弃这个中国政治生活中，最集中的信息释放时间，不过，对新闻工作者来说，好在大路不通，还能另辟蹊径。然而，对官员而言，当信息过滤成了习惯时，“陆昊门”就只是一个开始。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%98%E6%80%A1%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4%E4%B8%8B%E7%9A%84%E9%99%86%E6%98%8A%E9%97%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4/?category=18271" rel="tag">信息过滤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">拖欠工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">维权事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E6%AC%A0%E5%B7%A5%E4%BA%BA%E4%B8%80%E5%88%86%E9%92%B1/" target="cdt-mirror">【图说天朝】“不欠工人一分钱”</a>
+</h2>
+<p><p>黑龙江双鸭山市数万名声称半年来没有工资只有生活补贴的煤矿工人及其家属据报道接连数日游行示威，堵塞铁路，指责黑龙江省长在两会上声称“不欠工人一分钱”，公然撒谎。当局派遣数千警察镇压，一些人受到殴打，若干示威者抓捕。黑龙江省长陆昊星期六在北京召开紧急会议，承认拖欠工资，造成不少职工生活困难，不过声称是下面重要信息报告不真实。</p>
+<p>被视为中国政坛未来领导人之一的48岁的黑龙江省委副书记、省长陆昊3月6日在人大和政协两会开放讨论政府工作报告时表示，在产能调整关闭煤矿过程中，工人妥善安置，“至今没欠工人一分钱”。</p>
+<p>陆昊的言论传开后，黑龙江最大国企、龙煤矿业集团旗下双鸭山市双鸭山矿业集团多个矿区的数以千计矿工及家属3月9日起连续数天陆续发起示威，抗议拖欠工资。他们说，被拖欠工资最长已达半年。星期六上午，八大矿区的数万人走上街头，在市内多处地点游行、集会，并包围集团总部抗议，铁路线也被阻断。</p>
+<p>网络视频和图片显示，示威者手持“我们要活着，我们要吃饭”、“共产党还我们钱”、“陆昊睁眼说瞎话”等横额，高呼“打倒贪污犯”、“省长太过分”等口号。当局急调数千名特警和防暴队进入矿区戒备，四处拦截，双方一度发生激烈冲突，多名示威者被打伤，据说至少4人被捕。有人在网上发帖说，政府出动了警车镇压。</p>
+<p>美国之音记者星期天联系双鸭山市政府和火车站附近的十多家商家，多数都不肯回答记者的询问。一位女士对美国之音记者说，星期天仍然有数以千计的矿工和家属上街抗议，但人数比星期六有所减少。网友星期天传给美国之音的图片显示，现场大批警察和武警在示威现场戒备，有人被打伤后被民众抬走。</p>
+<p>龙煤矿业集团由黑龙江省国资委出资组建，共有员工近25万，旗下的双鸭山矿业集团有工人6万。一些工人说，煤矿从2014年开始拖欠工资，至今累计拖欠工资近半年，目前每月只能领到800元左右的生活费。还有人在网上发帖称，下岗职工5个月没得到一分钱，无人管。</p>
+<p>北京理工大学经济学教授、中国问题专家胡星斗星期天下午对美国之音表示，整体经济形势严峻，经济增长下行，产能过剩严重，去库存压力极大，政府部门对经济调整、企业重组过程中出现的失业问题应当给予重视。</p>
+<p>他说：“特别是国有企业面临着破产、重组，会有一些职工下岗或者重新就业，政府应当对他们妥善安置。现在跟98年国企下岗那个时候不一样，那个时候整个国家的经济状况比较差。现在整个中国越来越富强了，对职工的安置应当更加的稳妥、妥善。”</p>
+<p>另据报道，黑龙江省长陆昊3月12日下午在北京主持召开龙煤集团脱困发展工作专题会议，承认龙煤严重亏损导致现金流消耗，目前仍拖欠工资、税收和企业应上缴的各类保险，不少职工生活遇到困难。会议强调，龙煤、有关部门和煤城政府要尽职尽责，全面真实掌握企业在册、在岗人员、拖欠工资、应收账款、对外投资等真实情况并及时报告，供省委、省政府科学决策，要深刻吸取掌握、报告情况信息不准确的教训，再次发生重要信息报告不真实的情况要严肃处理。</p>
+<p>胡星斗教授表示，中央高层应当设法能够让基层的真实信息传达上来，让媒体能够传达民众的声音，让人民代表去说真话，代表人民的利益，才能依据真实情况作出合理的决策，这是一个非常重大的议题。</p>
+<p>他说：“要防止信息阻塞造成的欺上瞒下，职工的困难，拿不到工资的情况，没有向上反映。这种问题在中国是相当普遍的，我们的媒体不去反映民生、民众的声音，人大代表也有许多不去反映人民的要求。陆昊事件其实肯定不仅仅是黑龙江存在这样的问题。”</p>
+<p>中国国内媒体看来没有报道黑龙江省省长陆昊有关“不欠工人一分钱”的言论引发双鸭山市矿工和家属抗议，要求补还拖欠工资的事件。一些网友说，示威矿工以及网友上传到网络的信息被大量删除和屏蔽。不过，微博上仍然能看到一些零星信息。（据美国之音报道）</p>
+<p><strong>以下内容由数字时代编辑摘自互联网：</strong></p>
+<p>@非新闻：3月12日，黑龙江省双鸭山市煤矿工人示威升级，数万人走上街头高呼“共产党还我们钱”、“打倒贪腐犯”等口号，要求政府补齐拖欠的工资，市内交通完全瘫痪，铁路线亦被截断，数千警察到场镇压维权工人，大量工人被殴打和抓捕。注册员工6万余人的双鸭山矿业集团已累计拖欠工人工资近半年，3月6日，黑龙江省省长陆昊在两会上称不欠工人一分钱，引发集团旗下的八大矿工人不满，于本月9日开始陆续发起示威。<a href="http://wickedonna.blogspot.jp/2016/03/2016312.html" target="_blank">更多图片</a></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=600%2C450" alt="25703431786_92a3912c80_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@SZzhangqi：现在正在进行时， 黑龙江省双鸭山矿业集团总经理面对愤怒的矿工朋友,承诺并继续着空头支票。</p>
+<blockquote>
+<p dir="ltr" lang="zh">现在正在进行时， 黑龙江省双鸭山矿业集团总经理面对愤怒的矿工朋友,承诺并继续着空头支票。 <a href="https://t.co/eMXjotBcRl">pic.twitter.com/eMXjotBcRl</a></p>
+<p>— 张琦 (@SZzhangqi) <a href="https://twitter.com/SZzhangqi/status/708827770973913092">March 13, 2016</a></p></blockquote>
+<p>@筱泡泡娃：这都是黑龙江双鸭山煤矿工人讨要工资的画面，政府动用了警车，警员，这些工人不是无理取闹的，他们是这个社会的最底层的人员，虽然他没有你们政府高官，公务员的显赫高贵，但在寒冷的冬季。讨要自己应该得到的薪酬，他们这也是被逼到一定程度了。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?resize=600%2C338" alt="25099062184_137c2a7f68_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?w=960 960w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1">@花边：＊黑龙江省省长两会吹牛逼，人均收入5000元，实际是工人无工作，煤矿停工，很多家庭因无收入导致妻离子散，老无所依，拖欠工人工资达到一年之久，百姓怎能不反抗？＊双鸭山通往北京的火车已被百姓无奈堵截两天没有发出，国家可曾了解事态严重性，现在除了快手，各大网站的视频消息均被删除 矿井工人吃的是阳间饭，干的是阴间活，两块石头夹块肉。</p>
+<p>@鹰哥利世：我的家乡双鸭山，最底层的煤矿工人在讨薪，大媒体不让报道，能看到的帮我，帮他们转转吧，兄弟在这跪谢了。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=600%2C450" alt="25634415631_403e81666e_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@刘纯旭：农民矿工在❗️双鸭山矿务局❗️门口讨要工资，欠了半年的工资不给发，矿工们怎么生活，老百姓是最底层最朴实的人们，如今生活越来越难，老百姓种地也种不起了，地税那么贵，以后靠什么生活，求转发，让中央政府重视起来，帮助矿工们解决困难，希望政府能来点实际，让老百姓过上好日子@新浪新闻 帮帮忙</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?resize=500%2C667" alt="25428752400_a858e095f3_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?resize=500%2C667" alt="25102848723_1217c56312_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?resize=768%2C1024 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?w=1152 1152w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>@Lujinghua：全省武警紧急调到双鸭山。血腥镇压即将开始。黑龙江省双鸭山市双鸭山集团旗下多矿区数千煤矿工人及家属周五（3月11）发起游行示威，抗议拖欠工资，四工人被捕。省长陆昊两会上称“不欠工人一分钱”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdcBtlYWoAAYgoY.jpg?resize=600%2C450" alt="CdcBtlYWoAAYgoY" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdcBtlYWoAAYgoY.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdcBtlYWoAAYgoY.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@MailmanCN：双鸭山的矿工固然可怜，勇于上街固然可敬，但是——如果工厂上午把钱给了，他们下午就绝对会像从没发生过这事一样，照样习大大好彭妈妈妙党和政府呱呱叫。至于带他们上街的人会不会被抓，被抓后家里人怎么过日子，他们才不会管，还会为自己的“聪明”暗自得意：“枪打出头鸟，看咱多精。”这国，没救。</p>
+<p>@ZhouFengSuo：双鸭山全体工人被拖欠的工资，不知道相当于几栋北京上海的房子？一个贪官，家里的现金就够给他们开工资了。</p>
+<p>@Jay2uuscript：双鸭山事件，如果不是工人集中游行，那么欠薪这件事肯定会被隐瞒。黑龙江省长在两会期间说，绝对没有拖欠工人工资，结果工人就发生了大游行，省长以一句没有调查清楚为由，修改了自己之前说的话。这样的省长居然没有辞职。只能说，人民和工人的利益，从来不在她们的考虑范围内，他们关心的是，升官移民。</p>
+<p>@heanquan：习总批示：双鸭山市煤矿工人上街讨薪的原因调查清楚了，两个字，没钱。没钱就眼看着不管吗？不能。咱们不是共产党吗？共产党不就是为人民服务吗？别说上街游行请求我们管，就是不要我们管，我们也要管。马上指示印钞厂加班加点，多印钱印好钱，把人民币印得漂漂亮亮的，带着油墨的芳香，送到工人手里。</p>
+<p>@新浪评论 ：【环球时报：黑龙江信息通报事故值得反思】3月6日全国人大会议的黑龙江团组开放日，该省政府主要领导表示，龙煤集团井下职工8万人，到现在为止没有少发一个月工资，没有减一分收入。这一表态引发龙煤双鸭山煤矿职工的强烈不满，导致发生相关抗议活动。黑龙江老国企多，改革的任务很重。此外它是资源大省，更容易受到经济下行压力的冲击。支持黑龙江的改革，帮助它度过未来一段的紧要时期，这对舆论场来说值得成为它的一份基本关切。希望黑龙江等改革阵痛较为突出的地方以更加求实的态度对待问题，不妨让解决问题的艰难过程直接面对公众，而不需过度担心“影响”“形象”等。这样其实最轻松，即使一时的数字难看些，但它们会成为下一步改善的真实基础。报喜不报忧实为互联网时代的大忌，公众对官员任何“往好了说”的做法十分敏感。这样的教训已经很多很多，各地官员对它的警惕一定不能低于他们对公众有可能就敏感真实信息做出激烈反应的防范。</p>
+<p>@事后臭皮匠星人：欺上瞒下、弄虚作假、无视民众疾苦的行为打击吗？</p>
+<p>@風滿樓樓：革命的时候老百姓是炮灰，统治的时候老百姓是奴才。</p>
+<p>@國事不爽：「民主不能當飯吃，可沒有民主，絕大多數人遲早沒有飯吃。」——「雙鴨山討薪」後感</p>
+<p>@xiucai1911：妈的！不爆粗口忍不住！太可气了！国企欠了煤矿工人半年的工资不发，工人没钱维持生活，讨还天经地义属于他们的劳动报酬，怎么就成了违法犯罪人员了？还有没有天理啊！你们就不怕遭天谴吗！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUc78UUAAfzUP.jpg?resize=500%2C667" alt="CdfUc78UUAAfzUP" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUc78UUAAfzUP.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUc78UUAAfzUP.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUdKzUIAAQWLi.jpg?resize=500%2C667" alt="CdfUdKzUIAAQWLi" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUdKzUIAAQWLi.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUdKzUIAAQWLi.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUea9UYAE3asA.jpg?resize=500%2C667" alt="CdfUea9UYAE3asA" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUea9UYAE3asA.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUea9UYAE3asA.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E6%AC%A0%E5%B7%A5%E4%BA%BA%E4%B8%80%E5%88%86%E9%92%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">拖欠工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">维权事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%8C%E9%B8%AD%E5%B1%B1/" target="cdt-mirror">法广 | 2015年中国因恐怖主义判刑人数翻一番</a>
 </h2>
 <p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?resize=600%2C339" alt="中国最高人民法院院长周强在人大做报告，2016年3月13号路透社提供。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?w=700 700w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>中国最高人民法院院长周强在人大做报告，2016年3月13号路透社提供。</p></div>
@@ -91,7 +163,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">全国人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">境外组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E8%AE%AE/?category=18271" rel="tag">审议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A7%84/?category=18271" rel="tag">法规</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-13/" target="cdt-mirror">奇闻录 | 周末段子荟萃 3-13</a>
 </h2>
@@ -538,85 +610,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/431502/" target="cdt-mirror">【网络民议】用大清洗成年人，用大明洗未成年人</a>
-</h2>
-<p><p><strong><a href="http://www.zjstv.com/news/zjnews/201603/327096.html">浙江卫视｜廉政文化动画片《郑义门》电影级手法再现“江南第一家”</a></strong></p>
-<blockquote><p>由浙江省广电集团、浙江卫视旗下浙江蓝巨星国际传媒集团精心打造的廉政文化动画片《郑义门》，今天起正式登陆央视。该片主要围绕中央关于推进“全面从严治党”的战略要求，以习近平总书记提出的“大力弘扬中华民族优秀传统文化，大力加强党风政风、社风家风建设”重要指示精神为指导，传颂中华民族的“家国”文化，为全面从严治党、弘扬新风正气、传播核心价值营造良好氛围。<br>
-[…]<br>
-《郑义门》中，<strong>电影级别</strong>的面部绑定和捕捉使表演更真实；影片整体风格色彩鲜明，人物表演细腻，动画质量达到当下动画的上乘水准。</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/006cxPuGgw1f1tuusuxl0j30j61q812p.jpg" rel="attachment wp-att-431503"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/006cxPuGgw1f1tuusuxl0j30j61q812p.jpg?resize=440%2C1428" alt="006cxPuGgw1f1tuusuxl0j30j61q812p" data-recalc-dims="1"></a><br>
-（《郑义门》第一集视频截图；来源：新浪微博<a href="http://weibo.com/qds818">@缺德社</a>）</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/3010177602" target="_blank">@住在武藏上的葵托利</a>：<img title="[可爱]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif" alt="[可爱]" data-recalc-dims="1">制作组内有反贼233（景山·歪脖子树·大行 是忌讳啊你们这些死猪头 <img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1"><img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1"><img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2644815450" target="_blank">@汰渍全效</a>：崇祯16岁诛杀国妖魏忠贤，剿灭阉党，肃清朝中反对势力，然而大明还是亡了，自己还自缢于煤山<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@我为部落流过血：什么？大明亡了？！</p>
-<p>@渡辺少年：明朝早已亡了数百年，死人就该有死人的样子</p>
-<p>@Who视之：煤山的歪脖树还结实吗？这位体重比较超标</p>
-<p>@排茹兰V：确认了！在你国生子就是虐童</p>
-<p>@真是无趣的人啊：搞不定这一代，开始抓紧洗脑下一代了</p>
-<p><strong>@飞翔般欢快的日子：哎呀，用大清洗成年人，用大明洗未成年人？</strong></p>
-<p><strong>@巴萨叔叔哒哒哒：反庆复民</strong></p>
-<p>@eki___：先讲孝，然后告诉你孝=忠，从小培养奴才</p>
-<p>@卞晓白：吹几年忠孝风，就该群臣上朝劝进了吧！</p>
-<p>@風痕四世：又玩他妈移忠作孝的烂把戏。妈的智障。</p>
-<p>@老年痴呆八云紫：本来以为《雷锋的故事》这种画风的动画只会有一部，然而我错了……</p>
-<p>@胡导钻研HS：《收起少女心 好好过日子》《收起中二病 好好做中国梦》</p>
-<p>@Ranger-in-danger：你四十，你在你国，你国还在，你儿子在看动画片《郑义门》。</p>
-<p>@红皮黑心七字狗：这是中国特色马克思主义对传统儒家的最新发展，忠孝难两全成了“家国同构，忠孝一理”，解决了一个千年的难题，真是激动。</p>
-<p>@夏天真的在海边：夶批示：总体上是好的，但也有一些问题。朱元璋的英明神武表现的不够，蓝玉-胡惟庸反朝廷集团拖改革后腿的丑恶嘴脸表现的不够，过于突出刘伯温的才能，把他吹捧为朱元璋的英明战友，犯了喧宾夺主的错误。</p>
-<p><a href="http://weibo.com/blackkitten" target="_blank">@伪_东尼大木</a>：<img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1">我再警告你们一次 国家=党≥父母爷爷 要是你们再执迷不悟 我们顺丰快递小队就要对你们进行定点抓捕了</p>
-<p><a href="http://weibo.com/2563652504" target="_blank">@小堇堇堇_没工作没肉吃</a>：跟你们说个笑话，明朝很廉洁<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1642153587" target="_blank">@家有旺财dog</a>：<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">这一届他妈的遮羞布都不要了？我们是社会主义接班人 反帝反封建呢！</p>
-<p>@氏作不赛艇：这是耗资几千万的廉价画风《郑义门》？</p>
-<p>@十八岁的中二病：又是学了三年系列？</p>
-<p>@StrausZimsky：比雷锋那个已经高到不知道哪里去了！如果说以前99%的预算都进个人腰包了，现在最多只有98.5%了，进步不少～</p>
-<p><em><strong>附：</strong>30集国产三维动画片《雷锋的故事》截图，耗资2100万</em></p>
-<p><img src="http://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/06/p1573939002.jpg" alt="" width="402" height="333"><br>
-（图片来源：<a href="http://movie.douban.com/subject/4910203/">豆瓣</a>）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/431502/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E5%9B%BD/?category=18271" rel="tag">大清国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%94%BF%E8%A7%81-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%94%B9%E9%9D%A9%EF%BC%8C%E6%9C%AC%E5%9C%9F%E5%8C%96%E8%BF%98%E6%98%AF%E8%A5%BF%E6%96%B9%E5%8C%96%EF%BC%9F/" target="cdt-mirror">政见 | 中国政府改革，本土化还是西方化？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-%E4%B8%8B%E5%8D%888.04.30.png?resize=505%2C348" alt="Screen Shot 2016-03-11 at 下午8.04.30" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午8.04.30.png?resize=300%2C207 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-11-at-下午8.04.30.png?w=505 505w" sizes="(max-width: 505px) 100vw, 505px" data-recalc-dims="1"></p>
-<p>作者：马亮</p>
-<p>改革开放以来，中国政府在自身建设和行政改革方面取得了值得关注的进展。许多西方国家推行的改革和创新 （如新公共管理运动），都可以在中国找到其类似或对应的实践。</p>
-<p>但是，中国政府改革也一直在强调中国特色，突出本土化和原始创新。那么，中国的政府改革是否在亦步亦趋地效仿西方国家？哪些政府官员会乐于学习西方国家的行政改革经验？</p>
-<p>丹麦、中国和中国香港的研究人员 2010 年对浙江省的省、市、县、乡四级政府的党政领导干部进行了一项调查。他们发现，西方模式对中国政府改革有一定影响，但并未形成压倒性的局面。美国和英国推行的行政改革实践，对中国地方官员的影响比较强。</p>
-<p><strong>影响改革观念的三个视角</strong></p>
-<p>政府改革是一个复杂而动荡的过程，对于中国这样的大国而言更是如此。政府改革既涉及历史传统的积淀，也有来自其他国家和地区的影响，还有主要领导人的意志。</p>
-<p>过去对中国政府改革的认识，往往是非此即彼或一分为二的。要么认为中国完全照抄照搬西方国家的实践做法，要么强调中国改革的本土色彩和中国特色。但是，这两股力量并非完全互斥，而是同时存在于各级政府部门官员的思维体系中。</p>
-<p>研究者从人口统计特征、结构因素和文化因素等三个视角，对党政领导干部的改革观念进行解释。</p>
-<p>首先，包括性别、受教育水平和年龄等在内的人口统计特征会影响人们对改革的态度。例如，年长的干部对改革前的情况更为熟悉，但对西方模式却了解不多。学历较高的知识精英，接触西方改革实践的机会和渠道更多，因此更容易受其影响。</p>
-<p>其次，行政文化塑造了干部的价值取向，对其改革观念影响很大。例如，任职较久的官员浸淫旧体制已久，对西方模式的认识不多。相对来说，新时代的干部更乐于接受西方改革思潮。与此同时，对行政改革较为熟悉且在改革年代接受教育的那一代政府官员，对西方模式感到亲切，也更愿意效仿西方。</p>
-<p>最后，不同层级、政策部门和任务类型的干部，受到体制架构的影响，可能表现出不同的改革观念。站得高看得远，级别越高的干部接受西方模式的倾向会越强。在党委机构工作的干部，对改革的认识可能不同于在职能部门就职的官员。承担规划、决策、监管、执行等外向型任务的干部，接触西方模式的机会较多，比人事、预算、会计等内向型任务为主的官员更倾向于学习西方。</p>
-<p>如果政府官员在日常工作中就接触西方改革实践，那么他们对西方模式的态度就会更为正面。相关的改革举措包括：在公共服务提供中引入市场机制、人事管理改革和绩效评估、向企业管理学习、政务公开等。</p>
-<p><strong>谁更愿意在改革中学习西方？</strong></p>
-<p>研究人员向参加培训课程的浙江省地方干部发放了 300 份问卷，回收有效问卷 182 份。问卷调查了海外改革经验和国际改革趋势对中国行政改革的影响力度，以及澳大利亚、新西兰、英国和美国等典型行政改革国家对中国行政改革的影响程度。</p>
-<p>中国政府的改革是在效仿西方吗？以 5 点李克特量表来衡量，受访干部对这些题项的平均评分在 3 点左右。这项调查表明，西方模式对中国政府改革有一定影响，但并未形成压倒性的局面。就具体国家而言，美国的影响最强，其次是英国，而澳大利亚和新西兰的影响并不明显。</p>
-<p>研究显示，受访干部的性别、年龄和学历均不显著影响他们对学习西方的态度。这可能同这些变量在党政领导干部内部的差异较小有关。</p>
-<p>在政府任职时间越久的干部，越不认为中国的政府改革在效仿西方。对行政改革的了解越多，对计划体制向市场体制转型的过程越熟悉，对学习西方的态度越强烈。</p>
-<p>就干部所处的部门和层级来看，正副党委书记和纪委书记对学习西方的认同更强，而职能部门主管与部门副职的差异并不明显。党委领导能够把握行政改革的政治内涵，并有更大的权威去推动向西方学习和行政改革。</p>
-<p>有趣的是，与外界打交道越多的干部，越不认同学习西方。这可能是因为他们对许多改革习以为常，以至于认为它们是中国特色的。工作中涉及绩效评估的干部更加不认同向西方学习，但注重企业管理技术的干部则认同学习西方。中国政府的绩效评估在很大程度上沿袭了目标责任考核等过去的做法，可能让政府官员不认同它是学习西方而来的。</p>
-<p>这项研究表明，中国的行政改革是一个混合的复杂体，其中既有中国元素的痕迹，也有西方国家的熏染。对于中国政府改革而言，至关重要的挑战是平衡西方国家的影响和本土经验的判断。</p>
-<p>许多宣称取得成功的海外经验，本身并没有持续性，也未必完全适合中国。这就需要中国的党政领导干部具备较强的判断能力，并通过摸索和实验去验证这些改革举措的有效性，而不是完全的盲信盲从。</p>
-<div>
-<h4>参考文献</h4>
-<ul><li>Christensen, T., Dong, L., Painter, M., & Walker, R. M. (2012). Imitating the west? Evidence on administrative reform from the upper echelons of Chinese provincial government.<em>Public Administration Review, 72</em>(6), 798-806.</li>
-</ul></div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%94%BF%E8%A7%81-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%94%B9%E9%9D%A9%EF%BC%8C%E6%9C%AC%E5%9C%9F%E5%8C%96%E8%BF%98%E6%98%AF%E8%A5%BF%E6%96%B9%E5%8C%96%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">中国政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">体制改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E6%A8%A1%E5%BC%8F/?category=18271" rel="tag">西方模式</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -628,7 +621,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -638,5 +631,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

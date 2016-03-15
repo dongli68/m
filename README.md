@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431768/" target="cdt-mirror">译论中国 | 人大告诉了我们些什么？</a>
+</h2>
+<p><p>编译：Nelson & 爵士年代蓬蓬裙</p>
+<p>译读：T-Read | 译读小号二世：WinnieTheFool</p>
+<p>有时，中国领导人就是喜欢辩解说“中国一切都很好”。每年，约三千名人大代表都会相聚首都北京，装模作样地通过共产党领导人早已私下制定好的决议。在3月5号人大的开幕式上（见封面图，给代表们的茶杯已备好），总理李克强宣布中国已于今年实现了上一个五年计划的重大目标。一位发改委高官告诉记者，中国经济绝对不会“硬着陆”。人大常委会委员长张德江主持了人大的首次宪法宣誓仪式（中国宪法保护自由言论和集会）。习近平则告诉代表们，有能力、讲诚信的官员会被升职。</p>
+<p>人大这种无休无止的高昂凯歌没几个人会信服（媒体中的不同声音也已遭受“非常力度”的清理，但依然无济于事）。李克强的讲话放出了“出台更多刺激性政策”的讯号，随后，大宗商品市场略微上涨。然而，不论在国内还是国外，对中国2020年前经济前景的看跌情绪普遍存在。此外，越来越多的人开始认为，面对如今经济的放缓，中国领导人也并无良策。而此前，中国领导人一度因为实现快速持续的经济增长而广受赞誉。</p>
+<p>今年，李克强显得十分理智，没有像往年一样宣布GDP增长的具体目标，而是将目标定在6.5%至7%这个区间，给了自己回旋的余地。放眼全球，这一增速也是难能可贵。对中国来说，这和去年的情况差不多。但如果没有更多刺激手段，这一目标还是很难实现。根据中国过去的经验，经济刺激政策可能会导致一些项目无法收回成本，甚至会产生更多坏账，最终阻碍经济发展。</p>
+<p>李克强在讲话中暗示，中国将更加依靠中央政府的财政及货币政策，而不是依赖地方政府在建筑工程上的过度投资来取得发展。他说，今年的赤字率将从去年的2.3%升至3%，M2（广义货币供应量）增速预期将从去年的12%升至13%。这些调整听上去并不大，但至少在短期内应该可以推动增长。中国的货币政策正在放宽。1月份，银行新增贷款额高达2.51万亿人民币（3850亿美元），创下有纪录以来的单月最大规模。</p>
+<p>然而，长期来看，形势更令人担忧。在这十天的会议中，人大的一个职责就是通过由习近平主席领导起草的十三五规划草案。不出所料，李总理宣布“十三五”期间（2016-2020）的年均增长目标为6.5%。他承认，由于“极为复杂严峻的国际环境”以及全球贸易萎缩等问题，要实现这一目标并非易事。党内迷信的人对“十三五”也感到紧张，不是因为“13”代表着“不幸 ”（中国没有这一说法），而是因为五年计划的开创国前苏联就是在“十三五”期间倒台的。</p>
+<p>截至《经济学人》发稿时，完整的“十三五”规划还未出版。但内部传出的只言片语反映出，“十三五”至少会进行共产党口中迫切需要的经济改革。李克强重申了市场应当起到“决定性作用”，并强调供给侧改革的“必要性”（暗示了深层次结构性变革的必要性，比如在重要经济领域，削弱低效国企的掌控权）。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-%E4%B8%8A%E5%8D%8811.29.10.png?resize=523%2C531" alt="Screen Shot 2016-03-15 at 上午11.29.10" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-上午11.29.10.png?resize=295%2C300 295w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-上午11.29.10.png?w=523 523w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"><br><span>中国财政压力：蓝色代表GDP增速；棕色代表预算余额占GDP比重</span></p>
+<p>但目前为止，领导人们在改革上的尝试乏善可陈。李总理似乎也没有打算要在近期出台重大举措。他甚至没有提到全面征收房产税的可能性，这一酝酿已久的举措一旦施行，能够减少业已泛滥的房地产投机行为。“十三五”规划还包括一些效益不明朗的大型投资项目，如在2020年前建成50座新机场，以及为支援西藏修建第二条铁路。规划甚至还包括在2030年之前于台湾海峡建成长达126公里的高铁隧道，连通大陆和台湾。一旦建成，这将成为世界上最长的海底铁路隧道。但如果台湾在这项提议上有话语权的话，隧道很可能无法开工。</p>
+<p>相比经济上的改革，习近平更关注政治上的控制。就在人大召开几天前，拥有3800万微博粉丝的某房地产大亨、中共党员被政府有关部门关闭账号。他通过新浪微博，批评习近平收紧党对媒体的控制。人大召开期间，财新网发表的一篇文章遭审查人员删除，理由是文章含有“非法内容”。在这篇所谓的“非法文章”中，一名政协委员称，“言论自由必须受到保护”。</p>
+<p>乐观主义者曾经认为习近平牢牢控制住政治大权后，会运用他的权力清除改革中的绊脚石。这样的希望到现在也未完全消失。但习近平究竟是觉得已经大权在握，所以对改革提不起兴趣，还是仍觉自己的权力不够稳固，目前还很难说得清。在成为总书记三年多之后，习仍在全力清除异己，这说明他并不十分自信。不管怎样，党的五年规划和习自己的规划很难统一。</p>
+<h5><strong>译读声明</strong></h5>
+<h5>译读是由一群志愿者组成的团队。我们从各大外刊搜寻有意思的话题，译介给大家，旨在带来一些新鲜想法。选文不做任何原则性删改，不代表译读立场。兼听则明，保持独立思考和开放心态，哪怕不认同文中的观点，还是可以汲取一些有价值的信息。</h5>
+<h5>目前，译读团队从选题、翻译到编辑，完全保持公益、独立运营。我们尽心查阅以弥补专业知识的不足，大到一句话的理解，小到一个词的表达，我们都仔细斟酌以求对原文负责，对读者负责。但毕竟业余，有时还是会有一些疏漏，感谢读者的指点，我们会做得更好。</h5>
+<h5><strong>特别声明</strong>：最近风声很紧，我们一身正气的小号（BigBroChina）含冤被永封，译读大号（Tread）也陷入危险，为了不进一步触怒老猫，特此开通小号二世，敏感文章就不在大号上发了……敬请关注译读小号二世（文末有二维码），也欢迎添加小编伍豪个人微信号（woohow555），收取文章分享，了解公众号（和小编）的更多八卦（嘿嘿嘿），毕竟个人号比公众号要安全一些（QAQ）。</h5>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431768/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/?category=18271" rel="tag">经济学人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%9B%A2%E6%B4%BE%E3%80%8C%E6%98%8E%E6%97%A5%E4%B9%8B%E6%98%9F%E3%80%8D%E9%99%86%E6%98%8A%E9%81%AD%E9%81%87%E3%80%8C%E6%BB%91%E9%93%81%E5%8D%A2%E3%80%8D/" target="cdt-mirror">东方日报｜团派「明日之星」陆昊遭遇「滑铁卢」</a>
+</h2>
+<p><p>中共政坛的明日之星──黑龙江省长陆昊日前被民众抨击「睁眼说瞎话」，引发一场不大不小的政治风波。陆昊今次瞒上欺下被当众踢爆，是其政治仕途的一次重大挫折。</p>
+<p>陆昊遭遇「滑铁卢」并不可怕，可怕的是这种弄虚作假、欺上瞒下、暴力维稳的情形，在很多地方成为了家常便饭。</p>
+<p>全国两会黑龙江代表团日前对传媒开放，陆昊信誓旦旦公开称「龙煤集团井下职工八万人，到现在没有少发一个月工资，没有减少一分收入」，但随后不久，黑龙江龙煤集团属下的双鸭山上万名矿工连续四天上街游行并打出标语指摘陆昊「睁眼说瞎话」，要求「还我工资，还我生存权」。</p>
+<p>新闻报道后，陆昊紧急公关，在接受采访时表示「井下职工确实有欠薪的」，「这个事情我说错了」。跟早前斩钉截铁地否认一样，陆昊的认错也是毫不含糊，希望能够尽快平息事端。但问题是国内民众并不收货，有人认为「没有调查就没有发言权」，陆昊在没有搞清情况下便信口雌黄，质疑其施政「只在云端」，工作不扎实不深入；亦有人提出，陆昊将问题归咎于「报告错了」，将板子打在下属身上，却不反躬自省，缺乏敢于担当的精神。</p>
+<p>信口雌黄 团派真传</p>
+<p>这场风波对陆昊的声誉造成负面影响，曾几何时，陆昊是一名万众瞩目的官场「绩优股」，年仅十八岁考入北京大学，二十岁成为北大学生会主席，大学毕业后成为一家五千人的国有企业厂长，两年后将企业扭亏为盈，凭借此政绩迈入政坛，三十多岁就官居北京副市长，四十出头成为团中央第一书记，被认为是中共第六代接班集体人选之一。</p>
+<p>三年前陆昊空降黑龙江省长，外间都认为中枢将其下放到地方历练，尤其是利用其经济特长，振兴黑龙江老工业基地，但黑龙江近年来的经济非但没有起色，反而出现负增长，排在全国后面。而今次工潮之前，陆昊在两会上尽情表演，一个人承包黑龙江代表团的「媒体开放日」，以突出自己的「光辉形象」，但没想到到头来落得「瞒上欺下」的骂名，不仅让当地民众怒形于色，亦使他在高层中的形象失分不少。</p>
+<p>更关键的是，陆昊这个「信口雌黄」表现，被认为是得到了团派「真传」。自从令计划垮台后，团派便成了过街老鼠，团派中人「口号治国」、「言胜于行」的花架子神功，一一展现在国人面前。陆昊曾经担任团中央第一书记，难免沾染这个习气。据说他到地方视察工作，最喜欢的就是打羽毛球，以至于各省团委在做安排时，都要特别指定一名羽球高手与其过招，但在最后关头要放水，让陆书记赢得开心。习近平曾对共青团官员严厉批评「不要老想着当官，也不要幻想做接班人」，这话对陆昊或许也是一个警钟。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%9B%A2%E6%B4%BE%E3%80%8C%E6%98%8E%E6%97%A5%E4%B9%8B%E6%98%9F%E3%80%8D%E9%99%86%E6%98%8A%E9%81%AD%E9%81%87%E3%80%8C%E6%BB%91%E9%93%81%E5%8D%A2%E3%80%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B0%B7%E6%AD%8C%E9%A2%86%E5%AF%BC%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">【习总日记】 谷歌领导中国</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，13）</p>
@@ -544,65 +590,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%91%A8%E6%96%B9%E5%AE%9E%E5%90%8D%E5%85%AC%E5%BC%80%E4%BF%A1%E6%8E%A7%E5%91%8A%E4%B8%AD%E5%85%B1%E7%BD%91%E7%BB%9C%E4%B8%BB/" target="cdt-mirror">新浪微博｜新华社记者周方公开信控告中共网络主管部门</a>
-</h2>
-<p><p>全国人大常委会、最高人民法院、最高人民检察院、中国共产党中央纪律委员会：</p>
-<p>按照国家有关法律法规，本人以中华人民共和国公民的身份公开举报网络主管部门严重违反国家宪法和有关法律法规，粗暴践踏公民基本权利、侵犯公民言论自由权。</p>
-<p>近年来，随着各类网络媒体特别是自媒体的兴起，传统媒体面临日益激烈的竞争，同时也给政府对媒体的监督管理特别是对各类新媒体的监管带来了全新的课题与严峻的挑战。如何适应新形势、加强和改善媒体管理是政府必须面对的问题。</p>
-<p>然而，媒体主管部门特别网络媒体管理部门长期存在玩忽职守、滥用公权、侵犯人权等严重的违宪违法行为。有关部门的违法行为已经造成了极大的思想混乱和舆论误导，严重威胁了国家的安全和稳定，极大地阻碍了改革开放事业的深入，严重损害了执政党、政府和国家形像，损害了中华民族的长远利益。</p>
-<p>近年来，有关部门无视国家宪法和“依法治国”的原则，未能严格执行政府的监管与服务责任，无中生有地、无耻地扮演起“舆论法官”的角色。网管部门以极其粗暴的方式来“管理”网络媒体合资媒体，常常在未经任何司法程序、缺乏足够法律依据的情况下，动辄关闭个人博客与微博。</p>
-<p>更有甚者，网管部门在公安、央视等政府部门和媒体的配合下，以长官意志取代法律，由网管部门主要领导提供黑名单，公安部门抓人。</p>
-<p>据我了解，在办案过程中，警察常常以威胁当事人人身和家庭安全的言语暴力甚至刑讯逼供等方式违法办案，迫使当事人屈服并同意上央视“认罪”。近日发生的“围攻任志强”这一类似“文革式大批判”的特大网络安全事件使网管部门玩忽职守、滥用公权等违法行为达到了顶峰，也让广大人民群众看清了他们的丑恶嘴脸，引发了民众极大的恐慌与愤慨。</p>
-<p>中共十八大以来，在网管部门的粗暴统治下，网络舆论受到了极大的压制，人民群众的言论自由受到了极其严重的侵犯。一时间，我国广大人民特别是网民当陷入了一种前所未有的恐怖之中。许多人对中央产生了怀疑，担心文革重来。</p>
-<p>更为严重的是，网管部门公权私用，在网民中大搞“顺我者昌，逆我者亡”，以关闭博客和微博等方式非法剥夺公民言论自由权。最为恶劣的是，由于广大人民群众特别是知识分子拒绝参与他们的非法行为，某些网络主管领导竟然置国家法律于不顾，动用公共资源，从违法犯罪人员大肆培养自己的舆论队伍，使他们成为名副其实的“网络打手”。</p>
-<p>因创办色情网站而被捕的周小平就是最典型的例子。为了达到其险恶目的，他们竟然违反领导人安保规定，派遣周小平参加习近平出席的文艺座谈会。</p>
-<p>必须指出的是，由于媒体管理部门玩忽职守、滥用公权、以权谋私，宪法形同虚设，“以宪治国”、“依法治国”等中央政策与最高原则无法落实，政令不畅，“政令不出中南海”的现像日益严重，人民群众听到的、看见的是与国家法律和中央政策完全相反的现实。</p>
-<p>几年来，改革开放言论受到压制，反对改革开放言论甚至文革式言论却畅行无阻。在许多为改革开放呐喊的自媒体遭到封杀的同时，大肆发布极左言论和文革式观点的自媒体却受到纵容。这种滥用公权、误导舆论、伪造民意的严重违法犯罪行为必须得到立即、有效的遏制，否则这种现像继续下去将给国家和民族带来灾难性结果。</p>
-<p>据此，为了国家改革开放的持续和深入，为了国家的长治久安与人民幸福，本人恳请中央尽快采取行动，调查并追究舆论与媒体主管部门特别是网管部门玩忽职守、滥用公权的违法行为。与此同时，鉴于宣传部门办公经费数额巨大但管理和使用却不透明，特别是网管部门的办公经费使用不透明，可能存在涉嫌触犯法律的严重问题。</p>
-<p>据我了解，大量宣传项目特别是网络宣传和监控项目不经公开招标，而是由有关部门领导通过私人关系发包给企业或个人。本人以公民身份要求有关部门审计并调查舆论与媒体主管部门特别是网管部门经费使用情况，查处贪污受贿等违法犯罪行为。建议重点调查以下问题：</p>
-<p>一、 “北京精神”宣传经费筹集与使用情况。据本人观察了解，北京市曾经有一段时间大肆宣传由极少数人编造的所谓“北京精神”，对抗宣传中央依法治国精神以及 “社会主义核心价值观”。当时地方上动员了大量人力、财力和物力，在大街小巷竖立、张贴了无数精美、造价不菲的宣传模型、标语，大肆设置宣传栏。</p>
-<p>二、中央宣传经费的整体使用情况和国家级宣传项目的经费使用以及招标情况。</p>
-<p>三、中央有关部门的网络管理经费使用情况，特别是“网络监督员”和“网络评论员”的招募、管理和培养经费。</p>
-<p>四、全面调查“打大V运动”的办案过程与经费使用情况，追究网络办、公安部、央视等部门有关责任人的刑事责任。</p>
-<p>五、全面调查“围攻任志强”事件，追究网络办、团中央网络部门、千龙网等有关部门负责人的刑事责任。</p>
-<p>六、全面网管部门与网络公司的账目往来以及有关部门负责人在与网络公司以及相关企业和个人是否存在利益关系。</p>
-<p>七、除此之外，建议对在网络言论自由封锁过程中扮演了极其重要角色的千龙网、百度公司等网络媒体和网络企业展开刑事调查，追查其经营管理中的违法行为。</p>
-<p>八、追究造成重大公共财产损失的“人民搜索”有关负责人的刑事责任。</p>
-<p>举报人：中华人民共和国公民周方<br>
-身份证号：110105196008******<br>
-手机号：139108*****<br>
-通信地址：北京宣武门西大街57号新华社对外部<br>
-2016年3月7日</p>
-<p>(数字时代编辑注：转自博讯网站，原文在新浪微博已经被删除。）</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%91%A8%E6%96%B9%E5%AE%9E%E5%90%8D%E5%85%AC%E5%BC%80%E4%BF%A1%E6%8E%A7%E5%91%8A%E4%B8%AD%E5%85%B1%E7%BD%91%E7%BB%9C%E4%B8%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%BD%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">“净网”行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E7%B2%BE%E7%A5%9E/?category=18271" rel="tag">北京精神</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%AE%A1%E5%8A%9E/?category=18271" rel="tag">网管办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8A%A1%E9%A2%84%E7%AE%97%E4%B8%8E%E5%9B%BD%E6%B0%91%E5%85%9A%E5%85%9A%E4%BA%A7/" target="cdt-mirror">东网｜东步亮：中共党务预算与国民党党产</a>
-</h2>
-<p><p>骂中共官员太多，其实对有些官员不太公平。中共官僚体系内颟顸、愚蠢和贪腐的官员虽然占大多数，但个别官员偶尔也会头脑清醒、良心发现。比如最近的一次人大记者会上，全国人大常委会预算工作委员会副主任刘修文就算是良心发现，说了几句实情。</p>
-<p>对维持中共庞大的党务系统运转的巨额资金，过去人们虽然大体明白主要来自纳税人的血汗（党费的收入因为太少，在各级党务部门中基本可忽略不计，主要用作党员福利、组织党员业余娱乐旅游活动和贫病人员慰问等方面了），但毕竟官方从来没有正式地、公开地对外宣布中共党务运转资金来自于政府财政拨款，似乎也从没有在各级人大审议的政府财政预算中明列过。这次终于有记者大胆地提出了这个问题：“全国人大审查的政府预算及部门预算中是否包含中央党务部门的预算？党务部门的预算何时才能公开？”</p>
-<p>刘修文的良心发现在于——或者也可能是吸取了上一场记者会的教训——他没有像上一场记者会被记者问及新闻法何时出台时称记者“不是西方主流媒体记者”，直接宣布记者会结束，而是还算坦率地表了态：“这个问题有点难。既然已经问到了，我就初步了解到的情况做简要回答”。他承认全国人大审查的预算中包括中央党务部门的预算，包括中组部、中宣部、中编办、中央党校、中央国家机关工委等。至于部门预算公开，他点出了已经公开部门预算的中央党务部门有后面三个。也就是说，至少还有中组部和中宣部没有对外公开。</p>
-<p>刘修文的回答明确地公诉公众，到目前为止，几十年来中共党的机构和部门的运转资金都是来自全体纳税人的血汗钱，包括非党员纳的税。但是，且不说非党员交钱给党花合不合理，已经交上去的钱，这个钱是怎么花的，老百姓是不知道的，只有少部分近年才开始公开，大部分都没有对外公开。</p>
-<p>中央党务部门如此，全国各级党务部门当然也是如此。中共有8700万党员，组织机构星罗旗布，是全世界最庞大的组织体系。这个组织花的钱除了极少的一部分来自党费，其他全部来自纳税人。全国各级中共党务系统每年花多少纳税人的钱，这个资金体量有多大，占全国财政收入的比例是多少，大概是国家秘密，谁想弄清楚，谁就要进监牢。很可能，下一次全国两会，这个问题就会成为敏感词，被提前打好招呼不得提问。本来，这应该是各级人大代表审议的内容，这个问题，早就应该由人大代表提出来。荒唐的是，现在却是由一个记者问了出来，记者成了指出皇帝没穿衣服的那个小孩。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/02/%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E9%92%B1%E5%8C%85%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E7%89%B5%E6%8C%82.jpg?resize=520%2C389" alt="老百姓的钱包是共产党的牵挂" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/02/老百姓的钱包是共产党的牵挂.jpg?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/02/老百姓的钱包是共产党的牵挂.jpg?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
-<p>在全世界，由全体纳税人供养一个政党，任由其自由去挥霍，而且人民不得过问他们是怎么花的，大概也只有中共和北韩劳动党这样少数几个了。一个政党既不履行社团登记手续，又不自筹资金，而是大把大把花纳税人的钱，这样的政党合法性何来？</p>
-<p>过去国民党也是如此。国民党统治时期不仅长期党政不分，而且借着威权体制积累下来大量财富。台湾转型为民主体制之后，国民党党产问题一直是国民党的一个沉重包袱。最近国民党党团大会决议扣除现任及退休党工退休金后将166亿元党产全部捐给公益，试图为国民党解套，重塑国民党的形象，挽救国民党。但是，即便如此，国民党要想重新上台恐怕也是困难重重。</p>
-<p>早知如此，何必当初？国民党的路，共产党是不是也该好好想想？改革开放之初邓小平还提过搞党政分开，现在不仅没分开，还将本该行政化的更加政治化、政党化了。“党管一切”，当然也就是一切归党，一切钱都由党花。你只管交钱，至于怎么花，不关你的事。党政不切割，中共的结局今后必定比国民党还惨。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B8%9C%E6%AD%A5%E4%BA%AE%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8A%A1%E9%A2%84%E7%AE%97%E4%B8%8E%E5%9B%BD%E6%B0%91%E5%85%9A%E5%85%9A%E4%BA%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%BA%A7/?category=18271" rel="tag">党产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E5%85%9A/?category=18271" rel="tag">国民党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -614,7 +601,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -624,5 +611,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

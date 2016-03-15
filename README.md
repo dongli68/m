@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%86%E6%98%8A%E6%98%AF%E5%85%B1%E9%9D%92%E5%9B%A2%E6%8E%A5%E7%8F%AD%E4%BD%93%E5%88%B6%E4%B8%80%E6%80%AA%E8%83%8E/" target="cdt-mirror">东网 | 陆昊是共青团接班体制一怪胎</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-%E4%B8%8A%E5%8D%8811.42.25.png?resize=507%2C367" alt="Screen Shot 2016-03-15 at 上午11.42.25" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-上午11.42.25.png?resize=300%2C217 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-上午11.42.25.png?w=507 507w" sizes="(max-width: 507px) 100vw, 507px" data-recalc-dims="1"><br><span>党中央一直强调领导干部要走群众路线，可陆省长显然是满足于坐在办公室里听汇报、看文件</span></p>
+<p>这两天，黑龙江省长陆昊出了大名，或者不如说出了大洋相。3月6日全国人大黑龙江团组对媒体开放，陆针对黑龙江最大国企龙煤集团的改革称：“龙煤井下职工8万人，到现在为止，没有少发一个月工资，没有减一分收入。”结果是龙煤集团职工集体讨薪，视频哄传网上，给陆省长一记响亮耳光。</p>
+<p>令人相当不解的是，现在媒体都在替陆省长揩屁股，宣传他知错就改、态度端正，而且对龙煤集团职工转岗分流作出了妥善安排。记得几天前，陆省长还说，发生在哈尔滨的宰客“天价鱼”事件是坏事也是好事。这是一种把坏事变好事的思维。现在看来，这位省长准备把自己公开撒谎的坏事变成宣传自己改革部署的转机。如果坏事真能变成好事，则坏事自然如过江之鲫。</p>
+<p>媒体帮陆省长揩屁股，一种可能是媒体有一种阿谀逢迎的本能，以帮高官揩屁股为乐。另一种可能是被陆省长的手下“公关”了。我做过党媒的党政记者，既知道媒体为什么会写吹捧文字，也清楚一些地方领导为了在中央媒体上“露脸”，宣传部门官员以3万元一桌的标准宴请媒体记者、负责人，当然还要以车马费的名义发放红包。媒体放弃监督责任，改为卖力地吹捧，原因在此。</p>
+<p>陆昊自称，当初他说“龙煤井下职工不欠薪”是因为掌握情况不准确。一些媒体也随声附和，把陆省长包装成中国官场欺上瞒下文化的一名受害者。当省长宣称“这个事错了，知错就要改”，媒体上一片颂扬声，说这样的省长才有公信力。</p>
+<p>但省长被骗，骗省长的人固然是胆大妄为，但这样的省长是不是太傻太天真了？党中央一直强调领导干部要走群众路线，可陆省长显然是满足于坐在办公室里听汇报、看文件，“掌握情况不准确”当然是顺理成章的事。龙煤集团黑省最大国企，涉及鸡西、鹤岗、双鸭山和七台河四大煤城，近年一直是黑省“痛点”之一。其中8万井下职工都拿不到工资，事情不能说小，而陆省长居然对此毫不知情，足见其脱离群众之甚。</p>
+<p>陆昊是中国政坛的团派新星，上升很快，但他何德何能，中国人民完全一无所知。根据公开履历，他在政治上一直顺风顺水，大学时代是学生会主席，毕业后当过国企厂长、中关村科技园区管委会主任，接着当上了北京市副市长，然后当了5年团中央第一书记，再当黑省省长。从学生会主席到北京副市长，他只用了14年时间。14年来，他永远是打一枪换一个地方，并没有时间精力去熟习任何一项工作或业务，也注定不可能有什么作为，却注定了不停地升官。</p>
+<p>陆昊表征了中国旧有人事制度的最大一个弊端：选几个后备干部，不管他们有无才德，反正作为接班人进行培养。组织部门会给他们安排一级一级的岗位，他们根本毋须做出什么业绩，而只保不犯方向性错误就行。这样的接班人遴选模式，注定了接班机会只属于共青团组织的头儿，他们年轻，要级别有级别。在团组织里养尊养望，只务虚，不务实，也就不太可能犯什么大错。广大从事实务的干部，无论是年龄还是资历、级别，都注定不是他们的对手。最后陆昊们接班了，人们只能叹曰，他是被邓小平指定接班，他为胡耀邦“慧眼识珠”。</p>
+<p>这类干部的政治哲学就是混日子，混他一二十年，铁定沐猴而冠，成为党和国家领导人。共青团工作能够教给人的，就是混世哲学。不犯错，也不干实事。组织上给他们安排实务部门，他们也不需要做出什么实际业绩，两三年后就升职了，无非是混个资历而已。这陆省长当国企厂长、开发区主任、北京市副市长，压根就是有资历、无业绩。既然无德无能，如果遇上工作出了纰漏，就只能靠遮遮掩掩、欺上瞒下糊弄过去。</p>
+<p>陆昊当着黑省省长，哪会真不知道龙煤集团职工被欠薪的事？全省最大国企发不出工资，管事的人只会把情况添油加醋说得更严重一些，以便向省长施压，要贷款，要扶持资金，要优惠政策。谁会傻到瞒他省长的地步？陆省长不是被属下瞒，而是他公然向境内外记者撒谎。合乎逻辑的推测是，他不想在全国“两会”期间公开真相，让中央领导觉得他无能、不作为。他想拖一拖，慢慢地想办法。</p>
+<p>这位平民公子哥没有想到的是，人民愤怒了，发生“群体性事件”了。加上现在是一个“人人都是麦克风”的时代，他的谎言很快就被互联网戳穿了。</p>
+<p>习近平不喜共青团出身的官员，的确事出有因。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%86%E6%98%8A%E6%98%AF%E5%85%B1%E9%9D%92%E5%9B%A2%E6%8E%A5%E7%8F%AD%E4%BD%93%E5%88%B6%E4%B8%80%E6%80%AA%E8%83%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9F%BF%E5%B7%A5%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">2016黑龙江矿工讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E7%85%A4%E9%9B%86%E5%9B%A2%E6%AC%A0%E8%96%AA/?category=18271" rel="tag">龙煤集团欠薪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431768/" target="cdt-mirror">译论中国 | 人大告诉了我们些什么？</a>
 </h2>
 <p><p>编译：Nelson & 爵士年代蓬蓬裙</p>
@@ -48,7 +70,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/?category=18271" rel="tag">经济学人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%9B%A2%E6%B4%BE%E3%80%8C%E6%98%8E%E6%97%A5%E4%B9%8B%E6%98%9F%E3%80%8D%E9%99%86%E6%98%8A%E9%81%AD%E9%81%87%E3%80%8C%E6%BB%91%E9%93%81%E5%8D%A2%E3%80%8D/" target="cdt-mirror">东方日报｜团派「明日之星」陆昊遭遇「滑铁卢」</a>
 </h2>
@@ -548,48 +570,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%AE%E5%8D%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%E7%9A%84%E8%BD%AC%E8%AF%84%E4%B9%8B%E4%B8%80/" target="cdt-mirror">【立此存照】微博历史上最令人绝望的转评之一</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A21.png" rel="attachment wp-att-431600"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A21.png?resize=525%2C407" alt="共青团1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=300%2C232 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=768%2C595 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?resize=1024%2C793 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团1.png?w=2260 2260w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br>
-（<a href="http://weibo.com/3937348351/DlhD2saFy" target="_blank">@共青团中央</a>微博截图）</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A22.png" rel="attachment wp-att-431599"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%B1%E9%9D%92%E5%9B%A22.png?resize=525%2C425" alt="共青团2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?resize=300%2C243 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?resize=768%2C622 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?resize=1024%2C830 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/共青团2.png?w=2268 2268w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br>
-（<a href="http://weibo.com/1772052063/Dlhv0hsV3" target="_blank">@MEEEOW</a>微博截图）</p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/" target="_blank">【异闻观止】共青团中央：我恋爱了 和他</a>（附女版）</li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%85%B1%E9%9D%92%E5%9B%A2%E3%80%8C%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%EF%BC%8C%E5%92%8C%E4%BB%96%E3%80%8D%E8%BF%99%E6%9D%A1/" target="_blank">知乎｜如何评价新浪微博共青团「我恋爱了，和他」这条微博？</a></li>
-</ul></blockquote>
-<p><a href="http://weibo.com/1772052063/DlzgDdT0U">@MEEEOW</a>：这两天被团中央点名，微博格外热闹。晒个最乐评论<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%AA%E7%9B%91.jpg" rel="attachment wp-att-431605"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%AA%E7%9B%91.jpg?resize=400%2C710" alt="太监" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/太监.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/太监.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@独孤俊杰1991：枪杆子里面出政权呀，就是牛，就是要干你，你咬我</p>
-<p>@Eric杨小浩:帮你补齐下半句：因为我们有1000种哔掉你账号的办法，而你却无可奈何。</p>
-<p><a href="http://weibo.com/fanfanrat" target="_blank">@极品老鼠_aka_Baymax</a><i title="微博达人"></i>：无可奈何～？看看贵派的头头脑脑们，车祸的车祸，清洗的清洗，叛国的叛国，丢盔卸甲，分崩离析。您问我在说谁？你知，我知，不可说，不可说<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p>
-<p>@noway13：昨天看到原PO只是觉得恶心，看到下面一片示爱的评论和这条转发才真的绝望了——“什么人权什么女权都是瞎扯，你们只要跟着我，听我的， 别思考，别逼逼，嫁鸡随鸡嫁狗随狗就行。你要发表意见？我他妈不想听！再敢多说，我他妈揍你！”“啊啊亲爱的你好棒我好爱你不在乎我时的酷劲和家暴时的霸气哟”</p>
-<p><a href="http://weibo.com/5348186324" target="_blank">@抽不到柴郡猫不开心</a>：睁开眼看看这是妇女节，多少女性誓死争取来的平等权利。我共产主义不把女性当傻白甜来哄骗卖，不主张女人跟个直男癌过下去，不认可“虽然不知道你说什么但是好厉害啊”的无知谢谢<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p>@陈大陈：回复@许你嵩生峰华绝代:共青团将人民从国家中分离开来，连带灌输有高低从属、打不还手的男女关系。不知从什么时候开始，批评共青团就成了高捧美帝。难道两个凡是也适用于共青团吗？偷换概念，恬不知耻。</p>
-<p>@南一野：爱国爱党爱政府三个论题你国人都能混为一谈 你还跟他们谈什么</p>
-<p>@HSShir0：我就特意过来支持你一下，太绝望了</p>
-<p>@京城游少24：在这个互联网+的时代，共青团的官方微博郑重推出“无耻+”，而且是无耻得无以复+</p>
-<p>@一燕_不成夏：熏疼博主【你感受到过绝望吗】【在看原po评论的时候】</p>
-<p><a href="http://weibo.com/naturalsboyka" target="_blank">@八点钟的万金油</a>：快来啊，团中央亲自下发移民广告了<img title="[色]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/20/huanglianse_org.gif" alt="[色]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1593146443" target="_blank">@跟着太阳去火星</a>：心疼我党这形象建设<img title="[伤心]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ea/unheart.gif" alt="[伤心]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1931854213" target="_blank">@woofWarrior</a>：吓尿了 Po主不要慌<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1">这官微也是…奇葩</p>
-<p>@古了没了古：真的是笑死。你要是在国内，粉红军团就讲这地方那么垃圾你怎么不移民呢。你要在国外，又有的讲了，你在国外，国内的事情论得到你指手画脚吗。 真的服</p>
-<p>@Eliam_Lin：我是看到大家转发才找到博主的，对于博主的观点，我给32个赞。看官媒那恶心的嘴脸就反感。宣扬什么三从四德，大清国不是早亡了么？这么反智的话语还敢嘲讽秀下限。</p>
-<p>@芥末的阳光：还以为是有人假at黑你呢脑半天真是啊。霸道总裁文癌入骨，愿你如愿撩得软白甜妹，在这春风十里。</p>
-<p>@狐仙小姐的大肚腩：太噁心了婦女節才剛過 這裡女生形象就變成了小傻瓜 幫不了什麼 想分手又捨不得離開他⋯從春晚以來宣傳的功力真戰五渣 我國女性又變成男權附庸了。請注意!倒車!</p>
-<p>@黄白路熊叔：看别人转这句话时还以为是杜撰出来的，一搜还真是共青团官微发的。</p>
-<p>@更有甚者陈某某：天底下居然有这么不余遗力自黑的党媒</p>
-<p>@游击猫：你团是不是跟大大不对付，天天低级黑黑zhu国？</p>
-<p>@p型熊猫自家用4A-GE：图片评论<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%87%E5%B2%81%E4%B8%87%E4%B8%87%E5%B2%81.jpg" rel="attachment wp-att-431595"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%87%E5%B2%81%E4%B8%87%E4%B8%87%E5%B2%81.jpg?resize=425%2C319" alt="万岁万万岁" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/万岁万万岁.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/万岁万万岁.jpg?w=440 440w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p><em><strong>延伸阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E5%A5%97%E8%AF%9D%E5%A4%A7%E5%85%A8/" target="_blank">【立此存照】考研政治套话大全</a> </em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%AE%E5%8D%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%E7%9A%84%E8%BD%AC%E8%AF%84%E4%B9%8B%E4%B8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD%E4%BD%93%E5%88%B6/?category=18271" rel="tag">党国体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%88%B1%E5%85%9A/?category=18271" rel="tag">爱国爱党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -601,7 +581,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -611,5 +591,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

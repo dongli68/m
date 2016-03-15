@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B0%B7%E6%AD%8C%E9%A2%86%E5%AF%BC%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">【习总日记】 谷歌领导中国</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，13）</p>
+<p>工具是人制造的，借助它人的能力有了很大提高。汽车是人制造的，跑得比人还快。武器也是人制造的，反过来杀人。这些都是人类体力的提升。上个世纪人类发明了电脑，借助电脑，人类的脑力开始进步。这几天，谷歌围棋机器人打败了人类围棋高手，证明机器人的脑力在某一领域开始超越人脑。</p>
+<p>假设人脑有一亿种功能，那么生产一亿台机器人，各司其职，每一台专学人脑的一种功能，结果意料之中，这一亿台机器人比一个人聪明能干。然后进行机器人微型化，把一亿台机器人合并成一个机器人，不用怀疑，一个机器人比一个人还聪明。随着时间推移，每一个机器人比人类聪明的程度无法想象。如此说来，又一个新世纪开始了。</p>
+<p>作为中共党总书记，国家主席和军委主席，脑袋瓜不能沉浸在展望未来当中，更重要的是把眼前的事情办好。我叫秘书接通了谷歌总部，以中国最高最聪明领导人的身份向谷歌发出邀请，请他们来中南海作客，有要事相谈。<br>
+马上，谷歌老总阿尔法亲自带队穿云破霾飞抵北京。</p>
+<p>阿尔法（很娘的表情）：尊敬的习大大尊贵的习大大，我们心里好高兴哟。请别说让我猜，一定是，中国对谷歌解禁？</p>
+<p>习大大：谷歌解禁没问题。但解禁之前你们要帮我做件事。</p>
+<p>阿尔法（继续娘）：没有问题。请习大大提出您的条件。</p>
+<p>习大大：我看了你们的围棋机器人打败了韩国围棋高手李世石。很是惊讶，也很受启发。开门见山说吧，就是希望你们设计制造一台机器人，目的很简单，就是领导中国，维持共产党统治。</p>
+<p>阿尔法（就是娘）：我的娘啊，天哪，这多神奇啊！</p>
+<p>习大大：价钱好说，尽管开口。给你们的钱一定比让谷歌进入中国赚得还要多。</p>
+<p>阿尔法：习大大，我能不能晕过去几分钟？这太神奇了！请习大大给机器人赐名。</p>
+<p>习大大：赐名？下围棋的叫阿尔法狗，领导中国么，叫“北塔瓷”如何？</p>
+<p>阿尔法：没想到习大大如此博学多才。一个工农兵大学生，领导十四亿中国人，不容易啊！</p>
+<p>习大大：没那么夸张，中国人相对来说比较容易领导。他们纯朴老实好欺负。</p>
+<p>阿尔法：名字有了，还需要样本。</p>
+<p>习大大：什么是样本？</p>
+<p>阿尔法：样本就好比是围棋棋谱，人类的实战经验。通过打棋谱练习，机器人下棋水平不断提升。因为机器人下围棋战胜人类的绝招就是记忆，当机器人记忆量达到人类记忆的一百倍时，就能打败人类最高棋手了。而人类棋手最大的缺点是记忆力有限。</p>
+<p>习大大：我懂了。就是共产党统治成功范例。对吧？</p>
+<p>阿尔法：习大大冰雪聪明。怪不得人见人爱，（唱）你要是嫁人不要嫁给别人，一定要嫁给习大大。</p>
+<p>习大大：毛主席统治的28年。朝鲜金家三代统治近七十年。都是成功范例。</p>
+<p>阿尔法：前苏联，希特勒德国，墨索里尼意大利，也都是很成功的范例哟。</p>
+<p>习大大：嘿嘿，这个你们看着办，我不反对。</p>
+<p>阿尔法：习大大请放心，谷歌机器人一定能够在任何时候无论遇到什么样的苦难，都可以给出最佳方案，帮助您达到维持共产党统治目的。</p>
+<p>习大大：个人有一个小小要求，先做个试验，让我相信你们能够完成我党交给你们的任务。</p>
+<p>阿尔法：客户的要求就是上帝的旨意。请说。</p>
+<p>习大大：能否先完成这样一个课题，帮我设计一套计划程序，废除总书记任期制，实现终身制。</p>
+<p>阿尔法：这个不难吧，朝鲜不就是终身制的么？我们把金正恩他爷爷当年如何实现终身制的历史拿来分析研究，结合中国国情，为您习大大量身定做一个实现个人终身制的计划方案。</p>
+<p>习大大：那敢情好。先谢谢了啊！这是预付款请收下。</p>
+<p>阿尔法：请问习大大还有什么要求？</p>
+<p>习大大：嗯，有，还真有一个要求。请你们也好好研究袁世凯洪宪皇帝，帝制复辟是如何失败的。前车之鉴哪。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B0%B7%E6%AD%8C%E9%A2%86%E5%AF%BC%E4%B8%AD%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 23分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A9%E6%8A%A5-%E5%8C%97%E4%BA%AC%E9%83%A8%E5%88%86%E5%BA%97%E5%AE%B6%E4%B8%8D%E6%BB%A1wifi%E8%A2%AB%E7%9B%91%E6%8E%A7%E9%80%89%E6%8B%A9%E4%B8%8B%E7%BD%91/" target="cdt-mirror">东方早报 | 北京部分店家不满WiFi被监控选择下网</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?resize=412%2C550" alt="图为北京市东城区公安分局发给辖内一些免费提供WIFI服务的酒吧、书店、咖啡馆等场所的《非经营上网服务场所调查表》背面的填表说明。早报记者 许荻晔 图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?w=412 412w" sizes="(max-width: 412px) 100vw, 412px" data-recalc-dims="1"><p>图为北京市东城区公安分局发给辖内一些免费提供WIFI服务的酒吧、书店、咖啡馆等场所的《非经营上网服务场所调查表》背面的填表说明。早报记者 许荻晔 图</p></div>
@@ -561,29 +603,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%AE%88%E9%AD%9A%EF%BC%9A%E5%AE%98%E4%BA%BA%EF%BC%8C%E8%AF%B7%E7%BB%99%E5%A5%B4%E5%AE%B6%E5%AE%9A%E4%B8%AA%E8%A7%84%E7%9F%A9%E5%90%A7%EF%BC%81/" target="cdt-mirror">东网｜守魚：官人，请给奴家定个规矩吧！</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160313000318687-0313_05411_001_01p.jpg" rel="attachment wp-att-431574"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160313000318687-0313_05411_001_01p.jpg?resize=525%2C375" alt="bkncn-20160313000318687-0313_05411_001_01p" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160313000318687-0313_05411_001_01p.jpg?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160313000318687-0313_05411_001_01p.jpg?w=608 608w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>今年的这一届两会，进展到目前还四平八稳着。有了任志强的教训，会场内的代表规规矩矩落实花瓶与橡皮图章的工作，会场外的观众也老老实实的不敢轻易造次。胆小的媒体，乾脆按照授意疯狂的吹捧一番即将要被通过的法律。</p>
-<p>如此落寞的景象，更要让遗老遗少们对已退位政治人物勾起无限的怀念。退位的政治人物就像孔乙己，总会让茶客们回忆起，曾经有他的时候，凝固的空气里还有几丝偶然的微笑。</p>
-<p>这样的寂寞，让人辗转反侧，不堪忍耐。沉闷的空气里，终于有一丝冷风吹醒了昏昏欲睡的人们。</p>
-<p>3月10日上午的人大立法工作发布会上，美国《侨报》一位女记者<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E6%96%B0%E9%97%BB%E6%B3%95%E7%AB%8B%E6%B3%95-%E5%AE%98%E5%91%98%E9%A1%BE%E5%B7%A6%E5%8F%B3%E8%80%8C%E8%A8%80%E4%BB%96/" target="_blank">突然问及新闻法何时出台</a>，及甘肃武威逮捕记者事件。主持人以此次提问机会是提供给“西方主流媒体”为由结束了提问。</p>
-<p>就这么一个瞬间，被摄像机记录下来，然后在各个微信群里翻滚奔腾，长期乾旱的心田贪婪的贴向这样的鸡汤，感受甘霖释放出来的滋润。媒体人对于新闻法的态度，几乎和新闻事业的发展历史交织在一起，新闻法也是最能聚拢媒体人共识的希望，代表了媒体人希望明确管制的边界，明确活动空间的心声。今年呼喊新闻法有着更加酸涩的滋味，后起之秀的《慈善法》就要出台了，而被呼喊了最久的《新闻法》，还迟迟不见动静。</p>
-<p>谈起新闻法，一般都会从满族人建立的清王朝所颁布的《大清报律》为开端，然后是北洋军阀混战时期的相关法律规定，以及国民党统一中国后出版的各种新闻管制法律。在1949年以后的中国语境下，新闻传媒一方面以政党传声筒的身份，发布政党的意志，配合歪曲事实，另一方面作为一个有着体制授予权力的部门，又因为缺乏直接有效的行政暴力而逐渐的成为弱势部门，同时还要面临一批不安于体制内空间，希望有独立身份地位的新媒体人。无论是哪一方，共同的指向都瞄准了《新闻法》。尤其在渐进改良推动者看来，新闻自由和权力之间的博弈上互有胜负，无论是以成文法的形式巩固胜利的成果，还是通过法条明确权力和新闻的边界，迫切需要出台成文法明确各种灰色的边界。</p>
-<p>对《新闻法》向往的源头，如同美国最高法院的大法官霍尔姆斯所说：“法律不是一个道德或是伦理问题。它的作用是制定规则。规则的意义不在于告诉社会成员如何生活，而是告诉他们，在规则遭到破坏时，他们可以预期到会得到什么。”媒体人今天能进人民大会堂和高级领导人谈笑风生，明天却又不知道在哪个角落因为揭露黑幕，被地方副科级干部指挥的保安一顿痛打，如此反差巨大的生活，媒体人大约是社会里最难以预期回报的职业，也无外乎在《新闻法》久久未能出台以后，大批的从业人员已经义无反顾的投身三公，公关、公务员、公知，寻求更稳定的回报。</p>
-<p>但也如同霍尔姆斯所说的，《新闻法》所能确定的并不是自由，而是利益。媒体从业者中不乏向往民主自由的理想主义者，但作为一个面对市场化浪潮冲击的行业，无论是要求新闻法确定新闻自由还是明确在体制内的身份权责，整个行业要求新闻法最强的驱动力还是在于如何合理的加入现有体制下的分赃机制。</p>
-<p>最终，《新闻法》的出台，自从1980年被提出开始，就被强烈的寄予了政治改革的信号。但在现实的博弈中，无论是民间还是媒体行业，并没有倒迫出统治者认为给媒体划出边界的必要性。而随着社会局势的一步步明朗，新闻法愈来愈少被赋予新闻自由和政治改革的期望，变成媒体行业希望有个基本保障的需求。然而，在社会版块的政治博弈中，越是对当前版块缺乏威胁的部分，越是难于被重视起来。相反，历史最短根基不深的民间社会组织，基于对社会演变的潜在影响，得到立法部门的青睐。立法部门紧急抛出《慈善法》、《境外非政府组织管理法》等等法律，并插队进入全国人大立法程序。</p>
-<p>立法不是赋予权利，而是划定义务，现在的社会也能接受，至少可以有法可依保证死个明白。所以，各个还不明不白的板块都在大声疾呼，官人，请给奴家定个规矩吧。官人如此答覆：奴才，要规矩，先拿出点真本事看看。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%AE%88%E9%AD%9A%EF%BC%9A%E5%AE%98%E4%BA%BA%EF%BC%8C%E8%AF%B7%E7%BB%99%E5%A5%B4%E5%AE%B6%E5%AE%9A%E4%B8%AA%E8%A7%84%E7%9F%A9%E5%90%A7%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81%E5%AA%92%E4%BD%93/?category=18271" rel="tag">主流媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E6%B3%95/?category=18271" rel="tag">新闻法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -595,7 +614,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -605,5 +624,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

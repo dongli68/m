@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF-%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E9%94%99%E8%AF%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%90%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%A0/" target="cdt-mirror">法广 | 新华社出现严重错误：“中国最后领导人习近平”</a>
+</h2>
+<p><p>作者：香港特约记者 甄树基</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-%E4%B8%8B%E5%8D%884.29.57.png?resize=549%2C311" alt="Screen Shot 2016-03-14 at 下午4.29.57" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午4.29.57.png?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午4.29.57.png?w=549 549w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"><br><span>习近平抵达在人大会堂举行的政协闭幕式，2016年3月14日</span><br><span> 路透社</span></p>
+<p>北京正在举行每年一度重头戏的全国两会之际，早前才被中共总书记习近平赐姓“党”的官方喉舌新华社，却出现极为严重错误，在13日发出的一则新闻稿中，竟然出现“中国最后领导人习近平”字句，1个多小时后，新华社对外部发出更正通知，应为“中国最高领导人习近平”之误。</p>
+<p>据明报报道，新华社这篇报道是13日下午4时05分刊发，标题为《（两会•观察）记者手记：从昆泰酒店内外寻中国经济信心》，在文章倒数第三段出现严重错误：“中国最后领导人习近平在今年的两会上表示，中国发展一时一事会有波动，但长远看还是东风浩荡。广大非公有制经济人士要准确把握中国经济发展大势，提振发展信心。”</p>
+<p>报道指，当局虽然很快发现错误并予以改正，但报道仍被大陆多个门户网站纷纷转载。</p>
+<p>新华社于13日下午5时15分，发出改稿通知，内容如下：“3月13日播发的《（两会•观察）记者手记：从昆泰酒店内外寻中国经济信心》稿，倒三段头‘中国最后领导人习近平’请改为‘中国最高领导人习近平’”</p>
+<p>报道指，中央级传媒闹出这种严重错鋘，实属罕见，因为如新华社这种级别的传媒，其稿件都经严格审核，尤其关系最高领导人的消息，即使是错别字都极罕见，像今次这种涉及政治正确的错失在中共严控传媒的体制内更是匪夷所思。</p>
+<p>上个月底，以北京市委宣传部名义印制的“中国梦”宣传海报，亦出现政治错误，内容竟然出现日本新干线列车的照片，将习近平倡议的民族复兴中国梦，添上日本元素。</p>
+<p>“中国梦”海报上月底刊登于北京青年报，广告的背景还有五星红旗、鸟巢、上海建筑群等，配以“凝心聚力共创新，实现民族复兴梦”的宣传标语。</p>
+<p>含有日本元素的“中国梦”海报一出，即被日本网上疯传，有当地网民谑称：“这本来就是中国的独特风格。”也有网民为海报设计者担心，“希望能够活下去”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF-%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E9%94%99%E8%AF%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%90%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%90%8E%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">“中国最后领导人”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%8A%AF%E4%BD%8E%E7%BA%A7%E9%94%99%E8%AF%AF/?category=18271" rel="tag">新华社犯低级错误</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%A4%AE%E8%A1%8C%E6%94%BE%E6%B0%B4%E6%94%BF%E7%AD%96%E5%B7%B2%E8%B5%B0%E5%88%B0%E5%B0%BD%E5%A4%B4/" target="cdt-mirror">苹果日报 | 央行放水政策已走到尽头</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-%E4%B8%8B%E5%8D%884.25.42.png?resize=498%2C332" alt="Screen Shot 2016-03-14 at 下午4.25.42" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午4.25.42.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午4.25.42.png?w=498 498w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"></p>
+<p>欧央行一如预料果然加码量宽，把买债的规模扩大至800亿欧元，并把负利率进一步强化，从负0.3厘变成负0.4厘，以招数而言算是下了重手，比去年底只是延长买债期限强力得多。央行行长德拉吉重招齐出倒不完全是本身的计划，也是形势使然。</p>
+<p>不善忘的人都会记得，踏入今年以来，除了美国联储局以外，其他主要央行都在进一步量宽或放水。日本央行较早前就已调整货币政策，采用负利率政策，希望进一步令资金从央行及银行的账户流向企业及消费者。因为在负利率下，囤积资金需要缴付利息予央行，形同缴交罚款，理论上这将令银行更愿意批出贷款予信贷评级OK的公司及消费者，从而刺激经济。</p>
+<p>除了日本央行以外，中国人民银行近期同样在放水，前不久它就宣布降低银行存款准备金率0.5个百分点，好让银行有额外7,000亿人民币资金可以贷出，令资金紧绌周转有困难的中小企业、民企较容易拿到资金。人行不仅来个降准，还决定尝试让银行把不良贷款证券化，从而进一步增加银行流动资金，避免它们受坏账拖累不敢增加贷款。</p>
+<p>投资基建刺激经济</p>
+<p>简而言之，全球各大经济体系中，日本、中国已动手再放水刺激疲弱的经济，防止本国货币的汇率不致太强而影响出口表现。对经济疲弱不堪的欧元区来说，若果维持原来的货币政策便会落后于人，大有可能令欧元汇价兑日圆及人民币上升，削弱欧洲的出口竞争力，令似有还无的复苏随时窒息。单是为了避免在“货币战争”中处于劣势，欧元区已不能不出重招放水作回应。更何况欧元区本身经济仍然充满隐忧，通缩压力挥之不去，要真正扭转乾坤，打破通缩困境，进一步放水是免不了的动作。</p>
+<p>在欧、中、日央行先后放水后，美国联储局的加息大计肯定要推迟到年中以后甚至更晚的时间。事实上去年十二月加息以后，美国经济虽没有滑落，但添了点阴阳怪气，多个指标包括服务业前景、新屋动工都有收缩或转坏迹象，只有就业市场保持平稳。现在其他国家争相放水，假如美国继续原来的加息步伐，意味美国的息差跟其他国家进一步扩阔，令美元持续上升。尽管美国是个主要靠内需支撑的成熟经济体，但在整体经济增长不过2%上下的时候，出口下跌便有可能令美国经济重陷衰退。再加上通缩危机未完全过去，强美元大有可能令物价进一步下跌，增加通缩的风险。耶伦向来是货币政策鸽派，倾向以货币政策协助经济及就业。在这样的客观、主观形势下，美国联储局不可能像原先计划那样加息多次，能在下半年再加息已是万幸。</p>
+<p>不过，央行争相放水始终解决不了全球需求疲弱及信心不足的根本问题。要扭转形势，发达国家不应该再用“一条腿走路”的策略，不能再想单靠超级宽松货币政策刺激经济。过去六年多以来，央行放水虽不能说是黔驴技穷，但放水政策的效用及刺激已不断下降，甚至连令金融市场、资产市场来个反弹也不容易。到了这地步，财政政策包括大规模基建计划该成为新的政策工具。反正当前利率超低甚至近零，意味基建计划的资金成本也接近零。只要有关项目不是通向无人之地的天桥或铁路，基建投资可以轻易得到经济回报，并间接刺激企业投资及私人消费，实在百利而无一害。与其靠央行单天保至尊，大国政府实在应该放开手脚大搞基建及其他长远投资计划，不要再被财赤问题牵着鼻子走！</p>
+<p>关键词: 央行 金融市场 基建 栏目: 财经观察 作者: 卢峰</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%A4%AE%E8%A1%8C%E6%94%BE%E6%B0%B4%E6%94%BF%E7%AD%96%E5%B7%B2%E8%B5%B0%E5%88%B0%E5%B0%BD%E5%A4%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国人民银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A1%8C/?category=18271" rel="tag">央行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A1%8C%E6%94%BE%E6%B0%B4/?category=18271" rel="tag">央行“放水”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96/?category=18271" rel="tag">货币政策</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91-%E9%BB%91%E9%BE%99%E6%B1%9F%E8%AE%A8%E8%96%AA%E9%A3%8E%E6%9A%B4-%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BC%BA%E8%B0%83%E7%BB%B4%E7%A8%B3/" target="cdt-mirror">博谈网 | 黑龙江讨薪风暴 官方通报强调维稳</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-%E4%B8%8B%E5%8D%8812.41.13.png?resize=572%2C321" alt="Screen Shot 2016-03-14 at 下午12.41.13" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.13.png?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.13.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"></p>
@@ -567,62 +610,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-130/" target="cdt-mirror">【河蟹档案】喀什再现菜刀实名制，公安称要抓“造谣人”</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%83%91%E5%B7%9E%E6%96%B9%E8%A8%80006">郑州方言006</a>：穿越到了大元。<em><em><em><em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/shaoshuminzu/ql1-03082016095352.html">自由亚洲<em><em><em><em>｜</em></em></em></em>网传两会期间喀什菜刀再实名 无线电管理局官员称也在反恐</a>》；《<a href="http://www.rfa.org/cantonese/news/xinjiang-03082016090129.html">网传新疆买菜刀要证明 公安称要抓“造谣人”</a>》</em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-12.jpg?resize=408%2C544" alt="菜刀" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-12.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-12.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-12.jpg?w=960 960w" sizes="(max-width: 408px) 100vw, 408px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3950490624294516" target="/weibo/395">2016年03月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B3%95%E7%BD%91">法网</a>：最不关心的一届两会，已经无耻到这种地步！ <a href="http://t.cn/RGmLjuK" target="_BLANK">http://t.cn/RGmLjuK</a><img src="https://i1.wp.com/freeweibo.com/img/extlink.png?ssl=1" alt="" data-recalc-dims="1"> .//*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E9%B8%A3">张鸣</a>：以前一直以为自己是公民，后来才发现，人家并不拿你当公民，再后来，连公民这俩字，都不大让你提了。你是什么？人民，一个随时可以被从这个集体名字从踢出来的人。<br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-130/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3951946416842249" target="/weibo/395">2016年03月11日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%87%92%E5%BE%97%E6%B4%97%E6%BE%A1%E7%9A%84%E9%B1%BCxyz">懒得洗澡的鱼xyz</a>：有意思，一个不在台湾出生，也不在台湾生活，甚至没有去过台湾的代表团却代表台湾人民参加全国两会，这肚量真是无法比拟。<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-11.jpg?resize=403%2C717" alt="444" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3950717632746953" target="/weibo/395">2016年03月08日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87">闾丘露薇</a>：得奖人无法出席的颁奖礼。<em><em><em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/03/160311_yang_jisheng_speech">BBC<em><em><em><em>｜</em></em></em></em>中国作家杨继绳：“良知与正义份量很重”</a>》</em></em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-14.jpg?resize=477%2C357" alt="杨继绳" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-14.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-14.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-14.jpg?resize=1024%2C768 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-14.jpg?w=1280 1280w" sizes="(max-width: 477px) 100vw, 477px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3951798568452271" target="/weibo/395">2016年03月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%90%B4%E9%9D%A9%E5%BE%8B%E5%B8%88">吴革律师</a>：分享图片。<em><em><em><em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/xl2-03092016101147.html">自由亚洲<em><em><em><em>｜</em></em></em></em>“高级黑”？ 颂习作品<东方又红>蹿红被封</a>》</em></em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-16.jpg?resize=450%2C376" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-16.jpg?resize=300%2C251 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-16.jpg?w=765 765w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3951467867887829" target="/weibo/395">2016年03月10日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%B0%8F%E7%AB%A5%E7%9C%8B%E5%A4%A9%E4%B8%8B">小童看天下</a>：这个韩德强是就那个当街殴打老人的著名铁杆毛粉吧？<em><em><em><em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E9%9F%A9%E5%BE%B7%E5%BC%BA">维基百科<em><em><em><em>｜韩德强</em></em></em></em></a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-18.jpg?resize=411%2C731" alt="习近平" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-18.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-18.jpg?w=750 750w" sizes="(max-width: 411px) 100vw, 411px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3951062320934306" target="/weibo/395">2016年03月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%B1%E4%BB%A6%E5%89%9B">邱仦剛</a>：【雷锋遗毒】[吐]新闻就是这样炼成的！<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-17.jpg?resize=440%2C724" alt="444" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3951197935645721" target="/weibo/395">2016年03月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%AE%A1%E9%91%ABSam">管鑫Sam</a>：俞敏洪在政协会议发言，国家要创办世界一流大学，光靠拨款是不行的。做到了“思想解放、学术自由”这八个字，一流大学就出现了。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-13.jpg?resize=444%2C790" alt="俞敏洪" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-13.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-13.jpg?w=720 720w" sizes="(max-width: 444px) 100vw, 444px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3950719080503661" target="/weibo/395">2016年03月08日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BB%9D%E5%AF%B9%E8%90%8C%E5%9F%9F">绝对萌域</a>：网易胆儿够肥的 <em><em><em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BD%91%E6%98%93-%E5%B9%B4%E6%94%B624%E4%B8%87%E4%BA%BF%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E9%92%B1%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%EF%BC%9F/">网易 | 年收24万亿，中国政府的钱从哪里来？</a>》</em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-15.jpg?resize=540%2C4408" alt="444" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3951467448060790" target="/weibo/395">2016年03月10日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-130/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%E3%80%8B/?category=18271" rel="tag">《东方又红》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%A2%93%E7%A2%91%E3%80%8B/?category=18271" rel="tag">《墓碑》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9E%E6%95%8F%E6%B4%AA/?category=18271" rel="tag">俞敏洪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%9C%81/?category=18271" rel="tag">台湾省</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E5%96%80%E4%BB%80/?category=18271" rel="tag">新疆喀什</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E6%B3%95/?category=18271" rel="tag">新闻法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E7%BB%A7%E7%BB%B3/?category=18271" rel="tag">杨继绳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9A%87%E5%B8%9D/?category=18271" rel="tag">皇帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93/?category=18271" rel="tag">网易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%9C%E5%88%80/?category=18271" rel="tag">菜刀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">被代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%94%BF%E6%94%B6%E5%85%A5/?category=18271" rel="tag">财政收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%90%E5%BD%A2%E8%B5%8B%E7%A8%8E/?category=18271" rel="tag">隐形赋税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E9%94%8B/?category=18271" rel="tag">雷锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%BE%B7%E5%BC%BA/?category=18271" rel="tag">韩德强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%85%AC%E5%BC%80%E4%BF%A1%E6%96%A5%E8%B4%A3%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%AE%A1%E9%83%A8%E9%97%A8%E8%B7%B5%E8%B8%8F%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/" target="cdt-mirror">美国之音｜新华社记者公开信斥责中国网管部门践踏言论自由</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png" rel="attachment wp-att-431522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png?resize=550%2C309" alt="周方新浪博客上举报信的谷歌快照截图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/F5E99A9D-DA09-4660-AAA1-FA293BCEC639_w640_r1_s.png?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>周方新浪博客上举报信的谷歌快照截图</p></div>
-<p><em>作者：林枫</em></p>
-<p>华盛顿—中国一名新闻工作者发表公开信，批评网管部门违反宪法，践踏公民基本权利。虽然网管已将这一公开信删除，但该信还是流到了海外。评论人士说：这种现象表明中共党内两方在“对打”。</p>
-<p><strong>网管部门粗暴统治，网民前所未有恐慌</strong></p>
-<p>在新华社从事英文编译工作的周方，近日在其新浪博客上<a href="https://wp.me/p2pB24-1Og5" target="_blank">实名发表公开信</a>说，中国网络主管部门严重违反中国宪法和有关法律，粗暴践踏公民基本权利、侵犯公民言论自由权。这是继财新网公开发表文章对中国网络监管部门删除其一篇报道表示异议后，又有中国体制内媒体人对当局打压言论和新闻自由表达不满。</p>
-<p>周方1989年社科院新闻系毕业后一直在新华社工作，他在（其博客）这封写给中国全国人大常委会、最高人民法院、最高人民检察院和中国共产党纪律检查委员会的举报信中指责“媒体主管部门特别是网络媒体管理部门长期存在玩忽职守、滥用公权、侵犯人权等严重的违宪违法行为。”</p>
-<p>他写道，“有关部门的违法行为已经造成了极大的思想混乱和舆论误导，严重威胁了国家的安全和稳定，极大地阻碍了改革开放事业的深入，严重损害了执政党、政府和国家形象，损害了中华民族的长远利益。”</p>
-<p>公开信还指责网管部门无视“依法治国”原则扮演舆论法官角色，常常在未经任何司法程序、缺乏足够法律证据的情况下关闭个人博客和微博，以长官意志取代法律，在公安、央视等政府部门和媒体配合下，迫使当事人屈服并上央视认罪。</p>
-<p>信中说，“在网管部门的粗暴统治下，网络舆论受到极大的压制，人民群众的言论自由收到了极其严重的侵犯。一时间，我国广大人民特别是网民陷入了一种前所未有的恐怖之中。许多人对中央产生了怀疑，担心文革重来。更为严重的是，网管部门公权私用，在网民中大搞‘顺我者昌，逆我者亡’，亿关闭博客和微博等方式非法剥夺公民言论自由权。”</p>
-<p>这封公开信目前已被新浪微博删除，但已被海外媒体广泛转载。从谷歌搜索的网页快照可以看到公开信的发布时间是2016年3月7日。在此之前，周方还于2月26日发表了一篇批评“围攻任志强”的博客。那篇博客也被删除。</p>
-<p>设在美国的明镜集团总裁何频认为，周方的这封信代表了很多网民的看法。他说：“中国出了一个莫名其妙的网络办公室，居然任意地把人家的微博关掉，可以随意地关闭一些网站，甚至把一些在网络上发言的网民下令抓起来。这到底是一个什么样的部门，谁赋予这个部门这么大的权力？”</p>
-<p><strong>公开信剑有所指</strong></p>
-<p>周方的公开信还把矛头对准北京市，称“北京市曾经有一段时间大肆宣传有极少数人编造的所谓‘北京精神’，对抗宣传中央依法治国精神以及‘社会主义核心价值观’。”作者要求全面调查<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/" target="_blank">“围攻任志强”事件</a>，追究网络办、团中央网络部门、千龙网等有关部门负责人的刑事责任。</p>
-<p>2月末，以敢言著称的中国网络名人、房地产大亨任志强因发微博对中共总书记习近平提出的“官媒姓党”的说法提出质疑而遭到官媒的口诛笔伐，他的新浪和腾讯微博帐号也<a href="http://chinadigitaltimes.net/chinese/2016/02/430375/" target="_blank">被关闭</a>，还<a href="http://chinadigitaltimes.net/chinese/2016/02/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B4%A3%E4%BB%A4%E7%BD%91%E7%AB%99%E5%85%B3%E9%97%AD%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A-%E5%86%B3%E4%B8%8D%E5%85%81/" target="_blank">禁止</a>以“换马甲”的方式改头换面再次注册。</p>
-<p>当时，北京市委宣传部主管的千龙网刊登一篇了措辞激烈的文章抨击任志强，标题是《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%B0%81%E7%BB%99%E4%BA%86%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A%E7%9A%84%E5%BA%95%E6%B0%94/" target="_blank">谁给了任志强反党的底气</a>》，把矛头指向其背后的人。文章说，“一个连党章都无视的党员，公然反党的底气何来？一个半夜三更给领导打电话的任志强，究竟谁给了他跳出来推墙的‘勇气’？”</p>
-<p>共青团中央机关报中国青年报旗下的中国青年网也发表了<a href="http://chinadigitaltimes.net/chinese/2016/02/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%85%9A%E6%B0%91%E5%AF%B9%E7%AB%8B%E8%AE%BA%E7%94%A8%E5%BF%83%E9%99%A9%E6%81%B6/" target="_blank">王德华的署名评论文章</a>，抨击任志强反驳习近平的媒体姓党的言论是搞党民对立、其用心险恶。</p>
-<p>任志强事件后，中国国家网信办还以“违法违规”为由，<a href="http://chinadigitaltimes.net/chinese/2016/02/%E8%BE%9B%E8%BE%9B%E8%8B%A6%E8%8B%A6%E4%BA%94%E5%8D%81%E5%B9%B4%E4%B8%80%E5%A4%9C%E5%9B%9E%E5%88%B0%E5%85%AD%E5%85%AD%E5%B9%B4/" target="_blank">关闭了包括演员孙海英在内</a>的一批网络大V的微博帐号。</p>
-<p><strong>背后有权斗大戏？</strong></p>
-<p>近代历史学家章立凡2月29日在VOA卫视《时事大家谈》节目中曾提出，任志强事件背后或许有权力斗争的影子。他说：“这次炮轰任志强最为猛烈的一个是包括网信办在内的中共宣传系统，还有一个是北京市。刚好2016年中纪委要进驻、派巡视组的就是这两个系统。我们也看到一个现象就是现在网络上一些炮轰任志强的文章就是要抓任志强的后台。任志强在他的自传《野心优雅》里提到他和王岐山的关系。”</p>
-<p>就在任志强事件闹得沸沸扬扬之际，中共中央纪委网站3月1日发表了一篇《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%88%8A%E6%96%87%EF%BC%9A%E5%8D%83%E4%BA%BA%E4%B9%8B%E8%AF%BA%E8%AF%BA-%E4%B8%8D%E5%A6%82%E4%B8%80%E5%A3%AB/" target="_blank">千人之诺诺，不如一士之谔谔</a>》的文章，立即受到海内外舆论广泛关注。文章引述习近平在参加河北省委常委班子“专题民主生活会”时的讲话，“小问题没人提醒，大问题无人批评，以致酿成大错，正所谓‘千人之诺诺，不如一士之谔谔’啊！”</p>
-<p>有报道称，在这篇文章之后，原本打算要惩处任志强的北京市西城区委暂停了有关媒体姓党的讨论和处理工作。据北京知识界和微信圈流传的消息，“北京市西城区委讨论给任志强处分问题，当天下午被叫停”。</p>
-<p>不过，总部在美国的博讯新闻3月9日援引北京消息人士的话发布“独家”消息称，是习近平亲自叫停了对任志强的“大批判运动”，与中纪委王岐山无关。文章说，是中共中央办公厅发文给北京市委和中宣部，理由是“避免干扰全国两会举行”。</p>
-<p><strong>何频：中宣部与中纪委对打</strong></p>
-<p>但明镜集团的何频不认同这种说法。“因为习近平有没有叫停，我们没有任何证据。但是说中纪委叫停，我们是有明确的证据的，就是中纪委发表了一篇文章，强烈暗示了不能再搞个人性的批斗。”他说。</p>
-<p>何频认为，从财新传媒旗下的<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E5%8F%91%E6%96%87%E6%8F%AD%E9%9C%B2%E5%BD%93%E5%B1%80%E5%AF%B9%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5%E8%A2%AB%E5%88%A0%E9%99%A4/" target="_blank">财新网公开叫板国家网信办</a>，到新华社记者周方发公开信将矛头指向网络监管部门和北京市委，其背后两大系统斗争的意味浓重。财新传媒由中国最有声望的媒体人之一胡舒立创办。坊间广泛传言，胡舒立与中纪委书记王岐山关系密切。</p>
-<p>“胡舒立就是王岐山的延伸嘛，”何频说，“所以从这个意义上也就印证了中宣部有能力收拾胡舒立，这是一种对打。你有权力管我，我也可以反制你。”何频说。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%85%AC%E5%BC%80%E4%BF%A1%E6%96%A5%E8%B4%A3%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%AE%A1%E9%83%A8%E9%97%A8%E8%B7%B5%E8%B8%8F%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E8%88%92%E7%AB%8B/?category=18271" rel="tag">胡舒立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0%E7%BD%91/?category=18271" rel="tag">财新网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -634,7 +621,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -644,5 +631,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

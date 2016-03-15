@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9Ato-trump/" target="cdt-mirror">变态辣椒：to Trump</a>
+</h2>
+<p><blockquote><p><strong>背景新闻</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%B8%BA%E6%9A%B4%E4%B9%B1-%E9%95%87%E5%8E%8B%E6%98%BE%E7%A4%BA%E6%94%BF%E5%BA%9C%E5%8A%9B%E9%87%8F/">法广｜特朗普：六四为“暴乱” 镇压显示政府力量威力</a></p></blockquote>
+<p>来源：作者Twitter帐号（<a href="https://twitter.com/remonwangxt/">@remonwangxt</a>）</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg" rel="attachment wp-att-431720"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?resize=550%2C383" alt="CdjeiH_XIAIKMKK.jpg_large" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?resize=768%2C535 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9Ato-trump/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">种族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/?category=18271" rel="tag">美国大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF-%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E9%94%99%E8%AF%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%90%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%A0/" target="cdt-mirror">法广 | 新华社出现严重错误：“中国最后领导人习近平”</a>
 </h2>
 <p><p>作者：香港特约记者 甄树基</p>
@@ -322,7 +335,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">港台书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5/?category=18271" rel="tag">袁裕来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">袁裕来起诉政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">袁裕来邮购港台书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%A4%E4%BC%9A%E8%83%BD%E4%B8%BA%E6%B0%91%E4%BC%97%E5%81%9A%E7%9A%84%E5%A5%BD%E4%BA%8B%E5%8F%AA%E5%89%A9%E4%B8%8B/" target="cdt-mirror">东网 | 赵思乐：“两会”能为民众做的好事只剩下“解散”</a>
 </h2>
@@ -580,36 +593,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%80%A1%E5%AF%BC%E8%97%8F%E8%AF%AD%E4%BC%A0%E6%89%BF%E7%9A%84%E8%97%8F%E6%97%8F%E5%95%86%E4%BA%BA%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%85%B3%E6%8A%BC/" target="cdt-mirror">纽约时报｜倡导藏语传承的藏族商人被中国当局关押</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg" rel="attachment wp-att-431519"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg?resize=575%2C383" alt="去年，藏族企业家扎西文色在青海玉树藏区的一个赛马节上。据称他已经被警方非法羁押了一个多月。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/02tibet-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>去年，藏族企业家扎西文色在青海玉树藏区的一个赛马节上。据称他已经被警方非法羁押了一个多月。</p></div>
-<p>北京——一名藏族企业家的家人称他已经被警方非法羁押了一个半月，这位企业家曾以坦率但温和的方式，在中国统治的藏区学校倡导双语教育。</p>
-<p>他的名字叫扎西文色(Tashi Wangchuk)，现年30岁，与父母居住在西部的玉树，常常在<a href="http://weibo.com/u/2029646391" target="_blank" rel="nofollow">微博</a>上发表关于语言政策的看法。他强调了藏区缺乏深层次的藏语教育，对许多藏族孩子无法流利使用母语表示关切，这是藏人普遍担心的一个问题。</p>
-<p>扎西文色在1月27日被扣留，已经被关押了44天。根据中国法律，警方通常可以扣留一个人30天，而后或是由检察官提出指控，或是放人。检察官则有七天的时间提出指控。</p>
-<p>扎西文色的家人一直试图联系玉树警方以及镇上的主要看守所，亲戚们相信他就被关在那里，但是警方并没有向他们解释羁押的理由，也没有让他们见到扎西文色。</p>
-<p>记者通过电话联系了玉树一名高级警官张局长，他只愿意提供自己的姓氏。张局长说，他所在的国保部门在办这个案子。当被问及更多细节时，他说他需要查一下，看看国保办的是否真的就是这个案子。</p>
-<p>在被羁押之前，扎西文色在新浪微博帐号上发布了一些关于西藏的内容，其中很多都表达了对西藏文化逐渐消亡的忧虑。例如在1月20日，扎西文色转发了一个网友的评论，原帖要求康巴卫视停播其官方藏族康巴方言栏目，说“你们谈的藏族文化，是商品和展览品”。</p>
-<p>扎西文色的最后一条微博是在1月24日转发的一条评论，原帖敦促玉树所在的青海省立法机构和立法咨询委员会加强双语教育，雇用更多的双语公务员。</p>
-<p>扎西文色的观点发表在《纽约时报》<a href="http://cn.nytimes.com/china/20151130/c30tibet/" target="_blank" rel="nofollow">11月的一篇文章</a>中。时报拍摄了一段9分钟的<a href="http://www.nytimes.com/video/world/100000004031427/a-tibetans-journey-for-justice.html" target="_blank" rel="nofollow">纪录片</a>，讲述他如何运用法律手段来推动藏语教育。在<a title="Link: http://cn.nytimes.com/china/20151220/c20yushu/" href="http://cn.nytimes.com/china/20151220/c20yushu/" target="_blank" rel="nofollow">12月的一篇文章</a>中，他讲述了藏区的中国官员如何利用赛马节来达到宣传目的。</p>
-<p>在去年的一次采访中，扎西文色说，他不主张西藏独立，他关心的主要是藏族文化的保护。去年他前往北京寻求法律援助，打算起诉地方官员，但他还没有提起诉讼。</p>
-<p>扎西文色说，他希望用法律来给官员施压，以便在学校开展真正的双语教育。在藏区大多数学校里，只有单独的一门课在教学生母语，类似于美国的外语教育。主要的教学语言是普通话。</p>
-<p>“我的目标是稍微做些改变，推动保护我们民族的一些文化，”他说。“整个藏民族和文化都面临消失的危机。”</p>
-<p>扎西文色还表示，他很感谢“真正保护少数民族的所有中国人”，他还称赞习近平主席“这几年促进了国家的民主和法制”。</p>
-<p>扎西文色及其家人表示，他之前曾有两次被短暂羁押的经历。10多年前，他被发现试图非法前往印度，因此被逮捕。（很多藏人非法前往印度，试图见到在那里流亡的藏人精神领袖达赖喇嘛。）</p>
-<p>2012年，扎西文色因为在网上发表批评地方政府侵占土地的评论而被羁押，这种怨言在中国各地民众中很普遍。</p>
-<p>扎西文色在阿里巴巴的淘宝平台经营店铺，向中国各地的顾客出售当地产品。他卖的商品包括青藏高原出产的<a href="http://www.nytimes.com/2014/08/21/movies/8216precious-caterpillar8217-traces-journey-of-tibetan-harvesters.html" target="_blank" rel="nofollow">冬虫夏草</a>，这是一种非常受欢迎的中药材。2014年，阿里巴巴在高调进行首次公开募股前向投资者做路演时公布了一段<a href="https://www.youtube.com/watch?v=uiJJHa6FkYs" target="_blank" rel="nofollow">视频</a>，扎西文色出现在视频中。</p>
-<p>中国官员认为冬季及早春季节是西藏的敏感时期。他们在藏历新年期间及<a href="http://freetibet.org/take-action/local/uk/uprising" target="_blank" rel="nofollow">3月10日</a>——1959年藏区针对中国统治的反抗活动的周年纪念日——提防抗议活动。2008年3月以后，羁押及安全政治行动有所增加，当时由拉萨开始的反抗活动蔓延至整个青藏高原。自2009年以来，已有<a href="http://cn.nytimes.com/china/20160304/c04tibet/" target="_blank" rel="nofollow">逾140名藏人</a>通过自焚以示抗议。</p>
-<p>本月全国人大年度会议在北京召开期间，中国政府渴望宣传民族和谐的形象。西藏代表被发现佩戴印有中国国家主席习近平肖像的<a href="http://cn.nytimes.com/china/20160310/c10chinalist/" target="_blank" rel="nofollow">徽章</a>。周三，官方新闻媒体新华社报道称，政府计划出资7500万美元修复、保护青藏高原<a href="http://www.globaltimes.cn/content/972856.shtml" target="_blank" rel="nofollow">156个传统天葬地点</a>。</p>
-<p>周二，美国快餐连锁店肯德基(KFC)在拉萨商业区<a href="http://shanghaiist.com/2016/03/09/kfc_opens_in_lhasa.php" target="_blank" rel="nofollow">开设</a>西藏的第一家分店。西藏维权倡导组织谴责这一行为。2004年，达赖喇嘛曾给肯德基母公司百胜(Yum Brands)写信，要求该公司不要在西藏开设连锁店，称该公司对待鸡的方式“违背了藏人价值观”，而且在西藏开店会“令众多的鸡所承受的痛苦被永久延续下去”。当时肯德基放弃了相关计划。</p>
-<p><em>黄安伟(Edward Wong)是《纽约时报》北京分社社长。</em><br><em> 欢迎在Twitter上关注黄安伟<a href="https://twitter.com/comradewong" target="_blank" rel="nofollow">@comradewong</a>。</em><br><em> Sarah Li对本文有研究贡献。</em><br><em> 翻译：纽约时报中文网</em><br><em> <a href="http://www.nytimes.com/2016/03/11/world/asia/china-tibet-tashi-wangchuk.html?_r=0&mtrref=undefined&gwh=162635B9DFAAB5AFD179799750079B13&gwt=pay" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%80%A1%E5%AF%BC%E8%97%8F%E8%AF%AD%E4%BC%A0%E6%89%BF%E7%9A%84%E8%97%8F%E6%97%8F%E5%95%86%E4%BA%BA%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%85%B3%E6%8A%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">文化保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%97%8F%E6%97%8F%E6%96%87%E5%8C%96/?category=18271" rel="tag">藏族文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E6%8A%BC/?category=18271" rel="tag">非法拘押</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -621,7 +604,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -631,5 +614,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

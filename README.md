@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,108 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A9%E6%8A%A5-%E5%8C%97%E4%BA%AC%E9%83%A8%E5%88%86%E5%BA%97%E5%AE%B6%E4%B8%8D%E6%BB%A1wifi%E8%A2%AB%E7%9B%91%E6%8E%A7%E9%80%89%E6%8B%A9%E4%B8%8B%E7%BD%91/" target="cdt-mirror">东方早报 | 北京部分店家不满WiFi被监控选择下网</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?resize=412%2C550" alt="图为北京市东城区公安分局发给辖内一些免费提供WIFI服务的酒吧、书店、咖啡馆等场所的《非经营上网服务场所调查表》背面的填表说明。早报记者 许荻晔 图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?w=412 412w" sizes="(max-width: 412px) 100vw, 412px" data-recalc-dims="1"><p>图为北京市东城区公安分局发给辖内一些免费提供WIFI服务的酒吧、书店、咖啡馆等场所的《非经营上网服务场所调查表》背面的填表说明。早报记者 许荻晔 图</p></div>
+<p>早报记者 许荻晔 实习记者 万广朋 发自北京</p>
+<p>“我就纳闷什么系统得这么贵，得花2万元？”北京南锣鼓巷的一名咖啡馆店主向早报记者抱怨。</p>
+<p>从6月底开始，北京东城区东直门、南锣鼓巷等地区的一些免费提供WIFI服务的场所，如酒吧、书店、咖啡馆等，纷纷收到辖区派出所的通知，要求购买安装安全技术保护系统——“互联网公共上网服务场所安全管理系统”。</p>
+<p>早报记者获得的一份《非经营上网服务场所调查表》显示，安全保护系统措施设备的市场参考价格根据适用端口数不同，在2万到6万元不等。如不执行，则可能被没收非法收入、罚款、停止联网甚至取消联网资格。早报记者见到的包括东城公安分局发出的《关于开展非经营上网服务场所依法落实安全技术保护措施的通知》在内的几份文件，均无公章。</p>
+<p>早报记者昨天走访发现，并非所有东城区提供WIFI服务的场所都收到了通知，如东直门的东方金柜KTV、东单的上岛咖啡都表示未接到通知。收到通知的集中在东城区酒吧、咖啡馆的核心区域，时间亦有先后。</p>
+<p><strong>店主：</strong></p>
+<p><strong>“客人免费用WIFI，何来‘违法收入’”</strong></p>
+<p>北京东城区南锣鼓巷一家咖啡馆的店主向早报记者出示了从片区派出所得到的通知及表格，“大概两星期前通知去拿的。”</p>
+<p>由东城公安分局发出的《关于开展非经营上网服务场所依法落实安全技术保护措施的通知》显示，东城公安分局决定于2011年6月起在全区范围内的宾馆、酒店、图书馆电子阅览室、歌厅、洗浴、学校电教室等提供上网服务的场所，全面落实安全技术保护措施建设，要求记录并留存用户登陆和退出时间、主叫号码、账号、互联网地址或域名、系统维护日志的技术措施；并安装并运行互联网公共上网服务场所安全管理系统。</p>
+<p>据财新网援引《新京报》报道称，安装上述安全管理系统后，顾客浏览日志将被保存60天。</p>
+<p>东城公安分局的这份通知还显示，单位需填写《落实网络安全技术保护措施承诺书》及《非经营上网服务场所调查表》，并出资安装技术设施。如未建立安全保护管理制、未采取安全技术保护措施及未提供所需信息、资料及数据文件或提供内容不真实，将要求限期改正、没收违法收入。如未改正，则对负责人及单位处5000元及15000元以下的罚款。情节严重者停止联网、停机整顿，必要时吊销经营许可证或取消联网资格。</p>
+<p>在《非经营上网服务场所调查表》背面的填写说明中，安全保护技术措施设备市场参考价，根据适用端口数而不同。端口数在100及以下为2万元，800及以下为3万元，1500及以下为6万元。</p>
+<p>上述南锣鼓巷咖啡馆店主的表格与通知在收银机下翻出，并没有作任何填写。对于几份文件上均无公章，该店主表示了质疑，并称“没收违法收入”一项很令人费解，“WIFI本来就是免费给客人用的，哪来的收入？”</p>
+<p><strong>东城公安分局：</strong></p>
+<p><strong>“我们是保密部门，采访需经上级许可”</strong></p>
+<p>早报记者就此事分别向北京市公安局及东城区公安分局进行了解，对方均表示要进一步调查之后才能公布消息。而昨天下午早报记者致电东城公安分局网络安全保卫大队，对方表示是保密部门，需由上级宣传部门许可后才能接受采访。</p>
+<p>早报记者走访发现，并非所有东城区提供WIFI服务的场所都收到了通知，如东直门的东方金柜KTV、东单的上岛咖啡都表示未接到通知。收到通知的集中在东城区酒吧、咖啡馆的核心区域，时间亦有先后。如东直门地区较早，兼有书店、咖啡店的库布里克表示在7月初已接到通知，停止了店内的WIFI。而南锣鼓巷、交道口、五道营胡同大约是在一两周前收到的通知。</p>
+<p><strong>多数民营店主：“反对高价收费，宁可停掉WIFI”</strong></p>
+<p>对安装设备的收费，多数民营店主表示反对，价格是最重要的考量。“加强管理的话我们也同意，一两千元还可以，两万元谁承受得了？”前述南锣鼓巷咖啡店店主表示。</p>
+<p>早报记者了解到，五道营胡同的一家咖啡店主去派出所开完会后，停掉了店内的WIFI，“网络安全建设费用不应该由商户承担，其次安装防护软件也影响网速，会占用我们的带宽。本身胡同的带宽就不是很宽，因为离机房远。考虑之下还是直接停了。”</p>
+<p>该店主介绍，当时辖区派出所组织开会发此通知，但现场并未演示软件，也没有介绍购买软件后是否有管理、维护等相关服务。</p>
+<p>多数民营店主皆表示，在尚未强制执行之前，还将保留店内WIFI，如果要强制执行则会取消。一位交道口的咖啡店主表示，目前来店要求使用WIFI的客人大约在30%左右，取消之后可能会有一定影响，“这个要求不合理。如果你想控制一些东西，就应该付出一定的成本，而不应该由我们承担费用。”</p>
+<p>连锁的雕刻时光咖啡馆表示他们已经收到通知，并将购买安装，但还将等总部的通知。而星巴克公关部王小姐对早报记者表示，已经收到相关通知，但星巴克目前的WIFI服务已经做到实名上网，符合通知要求。</p>
+<p>财新网的报道称，系统软件开发方上海雨人软件技术开发有限公司为港澳台独资企业，但其高昂的价格使多位经营者质疑其是否经过了采购竞标程序。</p>
+<p>上海雨人软件技术开发有限公司网站资料显示，该公司成立于1998年11月，总部位于上海市普陀区软件研发园区，“已成为国内网络警察专用产品的专业研发基地”，旗下产品除了网吧实名审计计费系统“网络e卡通”，还有“网络e魔镜”、“网络e眼通”、“网络神探”系列产品。</p>
+<p>该网站称，“雨人公司提供相关的技术服务和解决方案，其应用范围已遍布全国十几个省区市， 遍及了北京市、上海市、河北省、黑龙江省、湖北省、湖南省、山东省、山西省、江苏省、浙江省、江西省、陕西省、新疆维吾尔自治区、广西壮族自治区、宁夏回族自治区等十几个省、市、自治区的公安系统……所开发的‘网络神探’系列产品已成为中国网络警察的有力技术助手。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A9%E6%8A%A5-%E5%8C%97%E4%BA%AC%E9%83%A8%E5%88%86%E5%BA%97%E5%AE%B6%E4%B8%8D%E6%BB%A1wifi%E8%A2%AB%E7%9B%91%E6%8E%A7%E9%80%89%E6%8B%A9%E4%B8%8B%E7%BD%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wifi/?category=18271" rel="tag">wifi</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%87%E6%A1%88/?category=18271" rel="tag">备案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431730/" target="cdt-mirror">【CDTV】湖南省书记向习近平汇报歌曲《不知该怎么称呼你》</a>
+</h2>
+<p><p>今年两会期间，湖南省委书记徐守盛在习近平参加该省代表团审议时，向其汇报了李思宇演唱的颂圣歌曲《<a href="http://v.qq.com/page/a/l/n/a018405c0ln.html">不知该怎么称呼你</a>》，称该曲已“迅速唱响三湘大地”。近日有网民翻出土豆网上的相关新闻视频并引起热议。目前土豆网已将该视频删除，新浪相关热门微博也被关闭评论。凤凰网虽删除了相关新闻（<a href="http://webcache.googleusercontent.com/search?q=cache:kSyahijCGlQJ:news.ifeng.com/a/20160315/47856909_0.shtml" target="_blank">谷歌缓存页</a>），但截至发稿时，<a href="http://v.ifeng.com/news/society/201603/015c2c37-3a9c-4306-8f07-77f73160a324.shtml" target="_blank">视频报道</a>仍可观看。</p>
+<blockquote><p><strong><a href="http://news.china.com/2016lh/news/11176754/20160315/21954034.html" target="_blank">中华网｜湖南书记告诉习近平:《不知该怎么称呼你》传唱三湘</a></strong><br>
+徐守盛：特别是总书记亲临视察过的湘西花垣县十八洞村，按照“扶真贫、真扶贫、可复制、可推广”的要求，短短两年时间全村136户贫困户，已主动签字认账脱贫，春节前一首生动反映总书记情系十八洞村的精准扶贫歌曲《不知该怎么称呼你》迅速唱响三湘大地，苗族乡亲用最直白的语言、最深情的旋律，表达了他们很质朴的感情，唱出了他们走在脱贫致富路上的幸福笑脸，唱出了他们对党的优良作风又回来了的真诚赞许，唱出了他们发自内心感恩共产党的满满的正能量。</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8D%E7%9F%A5%E8%AF%A5%E6%80%8E%E4%B9%88%E7%A7%B0%E5%91%BC%E4%BD%A0.png" rel="attachment wp-att-431733"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8D%E7%9F%A5%E8%AF%A5%E6%80%8E%E4%B9%88%E7%A7%B0%E5%91%BC%E4%BD%A0.png?resize=550%2C314" alt="不知该怎么称呼你" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?resize=768%2C438 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?resize=1024%2C585 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?w=2256 2256w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><em>（<a href="http://weibo.com/1221171697/DmgDobAaX" target="_blank">@兔主席</a>的热门微博已被关闭评论）</em></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png" rel="attachment wp-att-431732"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png?resize=550%2C304" alt="习近平" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=300%2C166 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=768%2C424 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=1024%2C566 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?w=1618 1618w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>凤凰视频<a href="http://v.ifeng.com/news/society/201603/015c2c37-3a9c-4306-8f07-77f73160a324.shtml" target="_blank">地址</a><br></p>
+<p>Youtube<a href="https://youtu.be/uewG2WHzwHQ">备份地址</a><br></p>
+<p><strong>附：《不知该怎么称呼你》歌词</strong></p>
+<p>不知该怎么称呼你 你千里万里来到苗寨里<br>
+不知该怎么称呼你 你风里雨里走进我家里<br>
+摸铺盖 看米缸 一条松木板凳连着我和你<br>
+我在你心里 你在我心里<br>
+你爱我们老百姓 我们老百姓深深地爱你<br>
+不知该怎么称呼你 你把我的手握在手心里<br>
+不知该怎么称呼你 你把我的事装进你心里<br>
+拉家常 细叮咛 一句精准扶贫暖透我心里<br>
+我在你心里 你在我心里<br>
+你爱我们老百姓 我们老百姓深深地爱你</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431730/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/431726/" target="cdt-mirror">【异闻观止】北外党委书记：中国是世界上最大的民主国家</a>
+</h2>
+<p><p>青课 | 中国是最大的民主国家</p>
+<p>原创 2016-03-14 <strong>团中央宣传部 共青团中央</strong></p>
+<p>他说他民主，你说你民主。到底谁是真民主?为什么一位资深的西方哲学教授说中国是最大的民主国家?本期青年网络公开课，《为什么说我们国家实行的是真正的民主》就是为大家讲述民主那些事。</p>
+<p>本期公开课的主讲人是北京外国语大学党委书记韩震老师。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?resize=550%2C331" alt="北京外国语大学党委书记韩震" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?resize=300%2C181 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?resize=80%2C48 80w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>北京外国语大学党委书记韩震</p></div>
+<p>党委书记</p>
+<p>小编知道你们什么表情，哈哈，韩老师可不是大家刻板印象中的党委书记哦。</p>
+<p>他曾经是一名插队知青，后来又是恢复高考后的首批大学生之一，33岁撰写了中国首部几十万字的《西方历史哲学导论》，搞学术，做校长，与很多西方知名学府交流。而如今，作为一名从业30余年的资深哲学系教授，可以说追求真理和智慧人生是他的生活标签。</p>
+<p>一个政权的合法性与先进性如何体现？这很难有统一的衡量标准，但今天好像有人一旦擎起“民主”这杆大旗，首先在道义上就站稳了脚步。</p>
+<p>韩老师谈古论今，纵横中西，他告诉我们在历史的长河中，曾经涌现过多种政治体制。有一个帝王说了算的君主制，有一群元老说了算的贵族制，也出现了由人民说了算的民主制。“民主”一词来自希腊文，是希腊文两个词的结合，一个是demos，一个是kratos，所以结合起来就是demokratia。从这个demokratia来的，那么意思就是，实际上demos就是人民，kratos是统治，合起来意思就是人民统治。</p>
+<div></div>
+<div>视频<a href="http://video.sina.com.cn/view/250514678.html" target="_blank">地址</a></div>
+<p>民主不是一开始就有的，而是社会发展到一定阶段的制度性安排。它的出现，取代了原来封建统治那一套，解放了人的思想，引导社会进步，这是民主值得赞扬之处。但就民主具体而言，也有很大的差异性。疆域的大小、人口的多少，包括文化传统的差异，都造成了不同。比如说，盎格鲁-撒克逊传统和（欧洲）大陆传统，法国和英国的民主制度就不一样。在本期节目中，韩震老师都有详细的介绍。</p>
+<p>但民主也并非至善至美，神圣没有瑕疵。政党间耗巨资竞争上台，获取权力是第一位的。因此西方很多国家出现了“重竞选、轻治理”的现象。竞选时的许诺能否在掌权后实现，那就另当别论了。且由于执政党不稳定，缺乏长远的战略规划。</p>
+<p>再看看我们国家。我们国家是不是民主国家？共产党在解放区就提出来，要建立民主自由、独立自主的新中国。至少这个价值追求，也写入了我们社会主义核心价值观。建立人民民主的国家，这是我们的一个目标。假如说当年某个连妇女，黑人都没有投票权的国家自称民主国家，为什么中国不是最大的民主国家？</p>
+<p>而我们的人民代表大会制度通过协商，各个阶层、各个职业的、各个界别的、各个民族的，都会在人民代表大会里行使代表权。所以说，人民代表大会制度，就是我们的制度形态。</p>
+<p>我们的国家领导人，都是通过基层一步步地锻炼起来的，而不像有些国家，只要会说，没有基层经验，照样上来以后当总统。中国的民主制度和基层民众参与度，连维也纳大学校长都由衷赞佩。</p>
+<p>说到底，民主本身不是目的，民主只是为了社会有效治理的一种方式。从这个意义上来讲，它是社会成员之间，达成利益妥协的一个协商机制，一个程序性的安排。但现实却是一些掌握舆论主导权的国家，打着“民主”的旗号打压异己。所以，他们眼中的“民主”已经成了一种政治工具，实际上是国家利益背后、国际关系的斗争。</p>
+<p>因为大家有不同的利益诉求。这种不同的利益诉求，是通过美国式的，“你必须跟我一样，你不跟我一样，我就炸你”好呢？还是我们主张的，通过民主协商、通过和而不同好呢？本期《青年网络公开课》将为大家一一揭示。</p>
+<p>（看同学们听得认真的样子，一定从韩老师的演讲中得到答案了吧！）</p>
+<p>怎么样？要不要一起来听听！</p>
+<p><strong>相关阅读：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF/" target="_blank">【异闻观止】环球时报：必须理直气壮地说中国是最大民主国家</a></p>
+<p><a title="【立此存照】微博历史上最令人绝望的转评之一" href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%AE%E5%8D%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%E7%9A%84%E8%BD%AC%E8%AF%84%E4%B9%8B%E4%B8%80/">【立此存照】微博历史上最令人绝望的转评之一</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/431726/">Permalink</a> |
+<br>
+Post tags: <br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9Ato-trump/" target="cdt-mirror">变态辣椒：to Trump</a>
 </h2>
 <p><blockquote><p><strong>背景新闻</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%B8%BA%E6%9A%B4%E4%B9%B1-%E9%95%87%E5%8E%8B%E6%98%BE%E7%A4%BA%E6%94%BF%E5%BA%9C%E5%8A%9B%E9%87%8F/">法广｜特朗普：六四为“暴乱” 镇压显示政府力量威力</a></p></blockquote>
@@ -35,7 +134,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">种族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/?category=18271" rel="tag">美国大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF-%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E9%94%99%E8%AF%AF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%90%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%A0/" target="cdt-mirror">法广 | 新华社出现严重错误：“中国最后领导人习近平”</a>
 </h2>
@@ -485,114 +584,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%8F%E7%99%BD%E9%B8%BD%EF%BC%9A110%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%94%BF%E6%94%B9%E9%9D%A9/" target="cdt-mirror">博谈网｜夏白鸽：110年前的中国宪政改革</a>
-</h2>
-<p><p>来源: FT中文网 1906年1月29日是农历正月初五。春节刚过，中国派驻英、法、德、美的大使联衔发表声明，称五年内中国必能改行立宪制度。这一年上半年，中国派出的两路政治考察团马不停蹄地穿梭于亚、美、欧大陆之间，重点就是考察宪政。同是1月29日这一天，政治考察团中的一路正在美国华盛顿参观华盛顿故居。考察大臣戴鸿慈在日记中赞叹美国开国总统“自以身为公仆”，认为这是美国历代总统均遵循的原则。也许是有感于当时中国的政治体制，他感慨道：“诚哉，不以天下奉一人也！”</p>
-<p>1905年7月15日，光绪皇帝发布谕旨，派考察团分赴东西洋各国，“考求一切政治，以期择善而从。”1906年两路考察团历时半年有余，遍访当时欧洲的十三个国家（涉及今天的十五个欧盟成员国）和美国、日本。1906年9月1日，光绪颁布预备立宪诏书，向世界宣布中国将由君主制改为君主立宪制。从此，至少在名义上，中国将宪政作为国家管理体制的既定目标。德国汉学家弗兰克（Frank Otto）在报纸上发表文章称“中国考察团学习西方的国家管理制度”。（《科隆日报》1906.2.25）</p>
-<p>今年是中国开始宪政改革110周年，值得纪念。不过笔者开篇讲述这段历史的目的还不在此。本文所要引出的话题是，将一百多年前和今天对比，历史何其相似。笔者所指相似之处，并非指中国为了政治体制改革派员考察东西方政治制度，以期择善而从。就这一点而言，历史恰恰相反。然而，就中国政治体制改革的起因、波折和结果而言，一百多年前的历史轨迹却能与今日直接衔接，且共同之处颇多，吊诡之处亦似，令人不能不发出历史如此相似的感慨来。</p>
-<p>一</p>
-<p>就历史给中国人提出的命题而言，一百多年前和今天，人们都同样在关注中国的变革，呼吁中国的变革，期许中国的变革。一百多年前人们关注中国的改革，重点是中国政治体制，而这一命题同样是今天人们关注的焦点。</p>
-<p>一百多年前，体制内的改革者针对国家政治体制改革提出了人治还是法治的命题，他们在《请定国事以安大计折》中开篇便直奔主题：</p>
-<p>“太后、皇上，请想一想，中国的内政外交何以一败涂地，中国为什么求强反而越来越弱，求富反而越来越贫？何以如此？请仔细看看中国实行的是什么政体吧。太后、皇上圣明，足以判断。</p>
-<p>政体究竟是怎么回事呢？当今世界政体有两种，一个叫专制政体，一个叫立宪政体。实行专制政体的国家，以人治国，而不是以法治国。因此，这样的国家是很容易发生危险的。立宪的国家，以法治国而不是以人治国，因此这样的国家也易于国泰民安。”（笔者将原文转换成了白话文）</p>
-<p>看看今天，人治还是法治依然是百姓检测中国政治体制究竟为何物的标尺，也是近年来执政者们反复提出的核心问题。</p>
-<p>一百多年前，人们在焦虑中等待着中国的巨变，同时又担心保守势力的反扑。体制内外的改革者们都清楚中国政治体制改革的最大阻力来自于专制体制本身，来自于那些专制体制内的利益集团。面对体制内的保守势力，改革者们一针见血地指出：“宪法之行，利于国，利于民，而独不利于官。因为宪法既立，在外各督抚，在内诸大臣，其权必不如往日之重，其利必不如往日之优，于是设为疑似之词，故作异同之论，以阻挠于形。彼其心……保一己之私权而已，护一己之私利而已。”（镇国公载泽的奏折）</p>
-<p>当时政情公开，《北京日报》为此专发评论称：</p>
-<p>“我国政治之腐败，在于君民之情不通，官吏蒙蔽，从中作弊。故虽有维新之善政，而在外国行之则有益，我国效之则不特无益，而且有损。朝廷多一章程，则官吏多一作弊。故破除官吏蒙蔽与作弊，非君与民通不可。君民相通，则非立定宪法，联君民为一体不可。此立宪之制度所以利于君，利于民，而独不利于蒙蔽作弊之官。”</p>
-<p>如果我们把上述的言论放置于今天，只是改换其中的称谓，其他一字不改，竟然同样一针见血，切中时弊。</p>
-<p>一百多年前，中国官僚体制除各级官员敷衍了事、作弊多端、欺上瞒下、恣意妄为之外，还有一大弊政：亲贵弄权，纲纪不正，贪污腐败，贿赂公行。最著名的是段芝贵买官进爵一案。1907年，地方道员段芝贵为获得黑龙江巡抚一职，以便独霸一方，便试图买通军机大臣庆亲王奕劻。为此他向商会会长王竹林借了十万两雪花银，作为给庆亲王的寿礼。又得知“贵”二代庆亲王之子喜欢天津十里洋场的歌女杨翠喜，又花重金将其赎出，一并献上。当年《大公报》将此一恶性公诸报端，一时全国震动，舆论哗然。光绪大为恼怒，改革刚刚起步，王公亲贵便如此胆大妄为，改革如何进行得下去？！下令严查。</p>
-<p>就连慈禧太后也不敢袒护。约二十年前，醇亲王奕譞曾出主意，以海军名义筹款集资。后集资的白银一部分建了铁路，一部分在原皇家园林的基础上为慈禧修了还政之后颐养天年的离宫，并改名为颐和园。那是甲午海战前的事情，那时慈禧垂帘听政，只手遮天。庚子年之乱后，慈禧的观念也开始有所转变。也开始思索中国的发展之路。一些迹象表明，她甚至也参与推动政治体制改革，对女权方面的事务尤为注意。如严令禁止女孩裹小脚，要求中国宪政考察团留意西方女学等。据1906年9月5日《时报》的报道，对《请定国事以安大计折》，慈禧太后认认真真地看了三个多小时。段案爆发后，据报章披露，慈禧怒斥庆亲王，“如此欺蔽朝廷，还不如用绳子勒死我们娘俩（指她跟光绪）算了。”如果换成今天的话，应该是：如此欺蔽中央，还不如亡党亡国算了。面对舆论鼎沸、上庭震怒，庆亲王父子惊恐万状，急忙退还了银子和歌女。派往调查的人为了维护朝廷的颜面，便以查无实据复命。谁知当时《大公报》紧追不舍，将所有调查内情揭露出来，公之于众。整个京城顿时炸开了锅。</p>
-<p>回过头来看看今天，专制体制下的弊端仍历历在目。恣意枉法，腐败横行，甚至腐败手法也如出一辙，就连查办腐败导致的结果都有相似之处。一百多年前，查办腐败本来是为政治体制改革开路，借机建立起监督权力的机制来。但实际结果却是，腐败虽然被揭露了，却导引出一场勾心斗角、排除异己的权利争夺战。史称“丁末政潮”。这也为后来权力失控埋下了伏笔，暴露出中国政治改革的致命弱点与先天不足。而且，坦率地说，一百多年前，政情已基本做到了舆论公开，报刊杂志已有了不受干预的监督之权。而如今舆论的监督还被滋生腐败的权力所严格控制，鲜有舆论独立调查披露出腐败大案的。</p>
-<p>二</p>
-<p>如果我们把视线再引向深入，从历史潮流的基本走向看，历史也何其相似。</p>
-<p>110前的宪政改革发端于中西冲突和由此引发的“国家身份”转换。中西冲突之后，中国固守的“天下秩序”被打乱，中国不得不改变“国家身份”，变“天朝上国”为世界万林中之一国的“民族国家”——“中国”。由于与“天朝上国”相配套的权力运转机制不再适用，以及与“天朝上国”权力运转机制配套运行的安排社会秩序的传统道德观念无所适从，于是由此又引发了一系列危机，首当其冲的是权力的合法性危机和价值观危机。110年前的中国国家管理体制的改革就是这一系列危机的必然结果。</p>
-<p>同样，文革浩劫之后的改革开放也面临“党朝上国”的身份转变。与“党朝上国”所配套的运转机制同样不再适用，与“党朝上国”权力运转机制配套运行的安排社会秩序的道德观和价值观也同样无所依托，结果也引发了一系列危机。首当其冲的同样是权力的合法性危机和价值观危机。110年前的中国政治体制改革是一系列危机的必然结果。而今日，这一系列危机所产生的必然结果同样会将中国政治体制变革问题逼到前台。</p>
-<p>从历史走向的具体脉络看，110年前的中国国家管理体制改革可谓姗姗来迟。本应于洋务自强运动中解决的国家管理体制问题，最终只被限定在发展经济的范畴内，看重以技术引进、科技创新为基础的军力强大，国家的发展仅是为了强国强军，最终目标是“师夷长技以制夷”。其中缘由，有统治集团为了维护自身的利益而久拖不决的一面，但更重要的是历史的惯性。中国现代化步伐刚刚起步，百端待理，基本观念的转变还需时日，不可能一蹴而就。然而政治体制跟不上，靠发展经济不可能解决中国的根本问题，结果又进一步引发一系列危机。甲午海战一败涂地，终结了洋务自强运动。由此激发了体制内外政治体制变革的呼声。然而当时的政治架构使得改革者根本不可能与代表既得利益集团的保守势力相抗衡。“戊戌变法”不到一百天便失败了。此后保守势力强力反扑，又引发了义和团之乱，结果使中国再次陷入全面危机的状态，八国联军最终占领了北京。</p>
-<p>如果打乱历史轨迹，将上述历史选出一些关键指标与“文革”浩劫之后中国所走改革之路做一对照，结果不能不惊叹历史何其相似：政治体制不变，政治架构雷同，侧重经济改革，力求强国强军，大规模腐败，改革派与保守派决斗，最后发生国家危机。甚至连“海战”危机、“师夷长技以制夷”（反西方敌对势力）等都极为相似，真可谓丝丝相扣，号号入座，桩桩有迹。</p>
-<p>三</p>
-<p>历史的吊诡之处也同样反映在一百多年前和今天。当人们在议论中国变革时，内心深处的忧虑也表露无遗。一百多年前人们对中国改革失败的担忧蔓延四方，今天这种担忧情绪同样在体制内外、海内外四处弥漫。而其核心点又都在于中国的“乱”与“不乱”。一百多年前，国际媒体、海内外关心中国改革的各界人士对中国实行立宪改革的议论，与今日人们谈论中国崛起或崩溃的情形竟然也极其相似。</p>
-<p>1906年，《时报》全文转发了英国《泰晤士报》评论中国立宪改革的文章，让人看到了西方媒体对中国变革的关切。文中发出的肺腑之言难掩疑惑担忧之虑：</p>
-<p>“若（立宪）时机未熟而欲仓促从事，不但无益，而且有害。此等事历史上数见不鲜矣。……此次改革政体，为世界上唯一之大举动。因中国地广人众，其阻力之巨，非别国所可同时而语。其前途之结果，非能预言，且亦不能预测，以其过于深奥故也。惟此举必有利于中国则可断言者。”（1906.8.29.）</p>
-<p>1905年，俄国沙皇先于中国宣布立宪。于是光绪所派宪政考察团于1906年也考察了俄国立宪起步的情况。当时俄国前首相维特当面向中国考察大臣提出了这样的忠告：中国立宪，“约计总以五十年准备。谓欲速则不能，过迟不可。上急行而下不足以追步，则有倾跌之虞；上不行而下将出于急求，则有暴动之举。”（考察大臣戴鸿慈的奏折）</p>
-<p>《申报》记者曾向一久居北京、对中国形势较为熟悉的美国人询问对中国实行立宪的看法，这位能说一口流利北京话的美国人回答道：“二十世纪世界进步的潮流急速而来，一泻千里，不可遏制。中国政海的情势受其刺激，而一转，再转，三转，已呈大势所趋，无可逆转。立宪之议就是在这种情况下产生的。因此，中国若不实行立宪制则已，旦若实行，就不能迟疑犹豫。踌躇一时就有一时之损，犹豫一年就有一年之害。”（1906.9.10.）</p>
-<p>中国宣布预备立宪后，《申报》、《同文沪报》、《中外日报》、《时报》、《南方报》等联合登出布告：“朝廷特颁明诏宣布立宪，此乃吾国旷古未有之幸福。”（1906.9.4）《申报》还发表专文评论道：“上谕宣布立宪，海内士夫，凡知专制国不足以立于二十世纪者，莫不奔走相告，额手相庆，曰：立宪矣，立宪矣。转弱为强，萌芽于此。”（1906.9.16）</p>
-<p>然而日本驻中国公使却直言不讳地断言道：今日中国“遑论立宪？恐不能图治，适足速乱”。他提出的一个重要理由是，当年日本国民头脑中均有立宪变革意识，而中国百姓并无此念想。（《新民丛报》1906，4期）</p>
-<p>其实中国的改革者也意识到了同样的问题。他们认为，中国数千年来，一切制度、传统文化虽然有着深厚的基础，但其中能够与各立宪国的制度相结合、说用就立刻能用得上的并不多。因此不能说立宪立刻就立宪，说颁布宪法，马上就颁布宪法。如果贸然行事，则举国上下将杂乱无章，就像群儿戏舞。国家混乱的情况恐怕比今天还要厉害。这样立宪，不仅得不到国家的安宁，反而造成危亡的局面。（《请定国事以安大计折》）</p>
-<p>1908年，锐意国家政治体制改革的光绪皇帝再派大员专赴欧洲考察宪法，之后便遭人暗算，在慈禧太后死前一日晏驾。最新的研究表明死于砒霜。权威的陨落使得一向依靠威权统治的中国政局突发巨变，权力出现巨大真空，致使变革中的中国进入了一系列“乱”局。前述人们的担心变成了事实。日本驻中国公使简单干脆的断言一语成谶。</p>
-<p>中国变革的吊诡之处恰恰在于，威权社会造就的是权威人格。一人之命决定着全民之命。要想和平有序地改变威权社会的命运，又必须依靠体制内的权威力量。而通过激烈手段改变命运，将打乱国家秩序。整合国家秩序也同样需要依靠权威力量。原有的权威不再发生作用，就需要再造权威。在传统帝制的崩溃过程中已经出现了新的目标价值——宪政，而权威陨落后产生新权威的过程却是在背离宪政的轨道上进行的。因此，新权威在产生的同时就缺乏合法性，权力的合法性危机也就始终灾难般地降临在每一个新生政权的头上。当新的权威产生、但还缺乏整合国家秩序的力量时，其他政治势力往往又充分利用宪政的目标价值，以维护宪政为名义，集结更大的军事力量，结果形成恶性循环，直到形成足以控制其他政治势力的政治军事集团为止。</p>
-<p>如果将历史在更广的范围内铺开，纵观这一乱局，便不难发现，其走向又是向“恶变”发展的。“恶变”的结果正是“文革”浩劫。其“恶性”的程度堪称中国史无前例。其“恶变”的成因恰恰又是威权社会里的权威力量。110年前中国为适应新的形势而希求解决的国家管理体制，在“文革”浩劫中又基本复辟到1860年前的“天朝上国”形态，形成了变异体“党朝上国”。结果，从“国家身份”认同和与之紧密相关的国家管理体制这一意义上看，中国又回到了原点。唯一不同的是，当年的权力中心是紫禁城，“文革”的权力中心是中南海，两者仅一街之隔，原都是皇家领地，权力的运转机制却如出一辙：君临天下，乾纲独断，一言九鼎。</p>
-<p>权威之命决定国家、万民之命，中国至今也未能摆脱这一宿命。</p>
-<p>四</p>
-<p>历史相似的原因只有一点，本应该彻底解决的国家政治体制问题，始终未能得到解决。结果，中国所经历的一百多年的历史，不过是在兜圈子。法治还是人治，崛起还是崩溃，这些问题一百多年前就提出来了，至今未解，历史如何不相似！</p>
-<p>在前引那位一百多年前住在北京的美国人的采访中，记者又向他提了一个问题，中国实行宪政的次序如何，他打了个比喻：</p>
-<p>“遇到火灾的人，先造一间小屋，已避风雨。如果要盖大厦，就需费时经年，不可仓促。”</p>
-<p>如今已到了21世纪，盖大厦已耗时一百多年，到今天为止，中国已盖起了一座惠及子孙万代的宏伟巨厦吗？从辛亥革命到国共内战，从大跃进到文化大革命，从改革开放到1989年天安门事件，每每在历史关头，中国的统治者是不是恰恰都像遭遇火灾的人，先造一间小屋躲避风雨？雨过天晴之后，他们好像又都在绘制宏伟大厦的蓝图，可结果呢？看看自1911年至今颁布的宪法文件，达十几部之多。仅1949年之后，和平时期就颁布了五部宪法。每部宪法颁布过后便免不了再经狂风暴雨的洗礼。而避雨的小屋，在风雨飘摇中说垮就垮。结果不得不再制定新的宪法。可哪一部宪法的命运不如同一纸空文？！</p>
-<p>从1989年到现在的二十多年来，中国相对平稳，有人便以为中国总算盖起来一座宏伟巨厦，经得起任何风雨。然而掐指一算，从1954年颁布中华人民共和国宪法到1975年颁布“文革宪法”，再到1982年颁布现行宪法，也不过近30年的时间。细究起来，实施宪法的根基究竟在哪儿？</p>
-<p>再比照历史，从某种意义上说，1989之后中国不过是在重复一百多年前清季的洋务自强运动。根据麦迪森（Angus Maddison）的研究，在1880年中国洋务自强运动方兴未艾之时，经济总量跟美国比已旗鼓相当，均占全球的14%。那时人们也认为中国盖起了一座宏伟巨厦。那时中国经济占世界经济的比重比2014年还高出两个百分点。可随后呢？便一路下滑。这同今天的情况也极为相似。那时中国面对的问题，其实也同样摆在了今天中国民众和执政者面前。如果解决不好，洋务自强运动失败后引发的局面，今后能够避免吗？</p>
-<p>五</p>
-<p>其实，中国第一批宪政改革者们已经把握住了中国实行政治体制变革的脉搏，可惜历史没有给他们机会，这也凸现了历史的偶然性。在国家管理体制改革中，他们试图确立这样的观念：“国民者，政治之本原也。立国者法，而行法者人，守法者亦人。”他们认为，只是赞赏羡慕东西各国已成之效，并加以仿行，“视其形式则是，而察其精神则非。”那么为什么他国变革能收富强之实效，我国为何只得变革之空名？就是因为中国“无行法之人”、“无守法之人”。这样的结果只是“饰貌效颦”，改革则“名存而实亡”。为此他们大力推行现代教育。与今日不同的是，今天实行“精英”教育，思路与传统的“学而优则仕”没有根本的区别，重点仍在官运和财运。而他们在考察各国教育制度后提出：“考之东西各国之学制，其大别有二，曰专门，曰普通，而普通尤为各国注重。普通云者，不在造就少数之人才，而在造就多数之国民。”（《考察各国学务择要上陈摺》）</p>
-<p>他们在比较了东西方各国政治之后（详见《列国政要》、《欧美政治要义》，1908），则进一步得出了这样的结论：</p>
-<p>“立宪政体与专制政体为反比例。专制政体之国家基础，多未能巩固。只适用于人民幼樨之时代。若国家之组织已整理，人民之智能既发达，非变更立宪政体不能为功。”</p>
-<p>他们提出了政治体制改革必须做到的三点，这也是立宪政体胜于专制政体关键点：“一、人民权利自由依宪法之负担，各自安图个人及社会之发达。二、人民依宪法受议政权，关于国务利害之观念甚切，且发一种公共之观念，以助国家之进步。三、代表议会之设置，不但使人民对国家之注意甚深，且可使政府注意施政，以矫正专断压制之弊。”（《大清国宪法草案》）</p>
-<p>他们把国民作为中国政治体制改革的本源，国民是行法之人，也是守法之人。这是打破中国数千年来一人命运决定全民命运这一宿命的不二法门。整理国家组织，发达人民智能，人民依宪法管理政权，监督政府，依宪法维护自身的权利与自由，安图乐业，社会发达，形成公民意识，共助国家进步，这是一百多年前的改革者们为中国规划的宏伟蓝图。然而，一百多年之后的今天，情况又如何呢？如果说人民仍处于“幼樨之时代”。恐怕实在说不过去了。</p>
-<p>一百多年前，中国的改革者也向光绪皇帝和大清国民发出了这样的警告，如果无行法之人，无守法之人，那么将不可避免地出现这样的局面：“少数人倡举之，而多数人破坏之，如是者虽百废俱兴，亦百兴而百废！”</p>
-<p>回首以往，就中国首次宪政改革失败之后，中国已经上演了多少回“百废俱兴，亦百兴而百废”的历史悲剧呢？</p>
-<p>中国的历史还是不要再继续相似下去为好。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%A4%8F%E7%99%BD%E9%B8%BD%EF%BC%9A110%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AE%AA%E6%94%BF%E6%94%B9%E9%9D%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">宪政改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%B5%B7%E6%8A%A5%E9%97%B9%E4%B9%8C%E9%BE%99-%E7%AB%9F%E8%AF%AF%E7%94%A8%E6%97%A5%E6%9C%AC%E6%96%B0%E5%B9%B2/" target="cdt-mirror">搜狐新闻｜“中国梦”海报闹乌龙 竟误用日本新干线照片</a>
-</h2>
-<p><p>【编者注】搜狐原文已被和谐；以下内容来自<a href="http://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2Fnews.sohu.com%2F20160311%2Fn440108342.shtml">谷歌缓存</a>：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108345.jpg" rel="attachment wp-att-431571"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108345.jpg?resize=385%2C568" alt="Img440108345" data-recalc-dims="1"></a><p>刊登于《北京青年报》的“中国梦”海报</p></div>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108347.jpg" rel="attachment wp-att-431570"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108347.jpg?resize=500%2C375" alt="日本铁道公司新干线300系列车 " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108347.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108347.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>日本铁道公司新干线300系列车</p></div>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2015/02/%E3%80%8A%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E3%80%8B%E4%B8%AD%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E9%83%A8%E5%88%86/">《你好，我是中国》中指鹿为马的部分</a></p></blockquote>
-<p>据日本《北海道新闻》3月11日报道，一份关于“中国梦”的公益广告竟然使用了日本新干线的照片，让中国铁道迷们十分震惊。日媒猜测海报设计者只是用了从网络上搜到的照片素材，创作态度非常不严谨。</p>
-<p>从上海地标建筑群、2008年北京奥运会主场馆鸟巢以及五星红旗组成的海报背景中，驶出的是日本铁道公司（JR）东海岛山阳新干线初代“希望号”300系列车，该列车已于2012年退役。</p>
-<p>这幅海报是刊登在《北京青年报》2016年2月29日A8版面的公益广告，主题是“中国梦”，并配有“凝心聚力共创新，实现民族复兴梦”的标语。日媒评论称：误用图片的乌龙让人联想起“山寨”。日本铁道迷评论说：“中国‘梦’就是收购日本铁路公司吧”，“新干线好可怜”。还有人说：“别的不说，海报真的不好看。”</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108348.jpg" rel="attachment wp-att-431569"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440108348.jpg?resize=500%2C371" alt="央视也曾误用过新干线列车照片（来源：百度火车吧）" data-recalc-dims="1"></a><p>央视也曾误用过新干线列车照片（来源：百度火车吧）</p></div>
-<p>这并非中国媒体首次错用新干线照片，日本700系新干线列车也被误用为中国高铁照片使用。2016年2月，央视春运特别节目的背景照片中就出现过日本新干线，引起网友愕然。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%B5%B7%E6%8A%A5%E9%97%B9%E4%B9%8C%E9%BE%99-%E7%AB%9F%E8%AF%AF%E7%94%A8%E6%97%A5%E6%9C%AC%E6%96%B0%E5%B9%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81/?category=18271" rel="tag">中国高铁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9D%92%E5%B9%B4%E6%8A%A5/?category=18271" rel="tag">北京青年报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%AF%A8/?category=18271" rel="tag">山寨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E9%80%A0%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">编造“中国梦”</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BD%9C%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C-%E5%8E%8C%E5%80%A6%E6%B1%A1%E6%B5%8A%E6%96%87%E5%8C%96%E7%95%8C%E4%BF%83%E5%BC%80%E6%94%BE/" target="cdt-mirror">苹果日报｜作协副主席辞职 厌倦污浊文化界促开放言论</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard05_284.jpg" rel="attachment wp-att-431580"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard05_284.jpg?resize=500%2C381" alt="Clipboard05_284" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard05_284.jpg?resize=300%2C229 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard05_284.jpg?w=700 700w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>习近平上台后，内地思想文化领域禁锢越来越紧，激起文化界以不同方式抗议。北京两会期间，继网络大V任志强微博挑战习“媒体姓党说”、新华社记者周方公开信批评网络作恶后，昨日内地著名作家、苏州市作协副主席荆歌也以公开信形式“劈炮”辞职，因作协副主席令他产生“不洁和污浊感”，他不愿再过“蝇营狗苟”的生活。就连一向极左的《环球时报》总编辑胡锡进，也“转軚”吁当局要“开放言论”。</p>
-<p>荆歌昨在微博贴出“辞职声明”并“广而告之”。声明称自当上苏州市作协副主席“匆匆已十多年”，最初新鲜，现已“审美疲劳”，今主动请辞“弃之如敝履”。</p>
-<p>声明称，作协副主席职无权无利，亦不能为文学效犬马之劳，浪得虚名，常常深夜想起羞愧难当，“近来又突然对这个职务有了不洁之感……既然有了愧疚感、污浊感，便要给出解决办法”。</p>
-<p><strong>以公开信形式告别</strong></p>
-<p>荆歌以公开信形式与体制（作协属中共体制内机构）告别惹文艺界热议。尤其在全国两全期间，刚发生任志强“因言论被封杀”、周方大胆上书怒轰中共网络作恶、批中宣部和公安当局违法逼公民“电视认罪”；加上前年10月习近平亲自主持“历史意义的”文艺工作座谈会，在当局大喊“文艺复兴”声中，荆歌此举尤其关注。</p>
-<p>《苹果》记者昨联系上荆歌，问到辞职原因、时机、背景等他回答十分小心，重复强调“跟政治形势完全没关系”，至于任志强、周方等人“那是他们（中共）党内的事”，他之所以辞职是因“厌倦了”。公开信指“污浊”，他直言“是主观感受，指蝇营狗苟”。</p>
-<p><strong>倘怪罪如同文革</strong></p>
-<p>荆歌还指当局若因此怪罪于他，则与文革无异，“如果他们讲理，就不会扣我帽子，因为我没有反对他们”。55岁的荆歌，生于文化古城苏州，专注小说创作，2014年他曾以访问作家身份，在香港浸会大学进修。</p>
-<p>就近期以来内地意识形态部门异象频出，包括以极左著称的《环球时报》总编胡锡进也频繁表态，宣称“支持开放言论”。胡的“急转弯”让外界一时摸不到头脑。</p>
-<p>不过，博闻社引述消息人士则称，体制内的胡锡进、周方等突然“阵前倒戈”背后：是心有所向顺应民意抑或另有图谋？值得观察。</p>
-<p>现年56岁的胡锡进，笔名单仁平，北京人，现任《环球时报》总编辑。因其主编时期的《环球时报》牵涉民族主义争议，加上其出位的言论而闻名。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%BD%9C%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD%E8%BE%9E%E8%81%8C-%E5%8E%8C%E5%80%A6%E6%B1%A1%E6%B5%8A%E6%96%87%E5%8C%96%E7%95%8C%E4%BF%83%E5%BC%80%E6%94%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%8D%8F/?category=18271" rel="tag">中国作协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">创作自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%86%E6%AD%8C/?category=18271" rel="tag">荆歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -604,7 +595,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -614,5 +605,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

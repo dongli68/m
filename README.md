@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,168 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-3-15-%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/" target="cdt-mirror">歪理邪说 | 3.15 今天我被一家公司投诉了</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A6.png?resize=600%2C334" alt="百度" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度.png?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>昨天是3.15，国际消费者权益日。在这一天，总有一些商家会倒霉。虽然消费者也未必得到什么真好处，但面对商家弱势的消费者，毕竟是争回来一点面子，好歹算是消费者的节日。</p>
+<p>而百度，这家搜索引擎巨头，选择在3.15这天向微信投诉我2个月前的一篇文章《再谈百度：KPI、无人机，以及一个必须给父母看的案例》侵犯其商誉。这是一个相当耐人寻味的举动。在这一天，通常只有个人投诉商家，第一次有商家投诉个人。大概也创下了一个新的世界记录，和他们把血友病贴吧卖掉的行为水平差不多，前无古人，后估计也未必有来者。</p>
+<p>这几天人们都在问，Google做出了Alpha Go，第一次用人工智能在围棋上战胜了人类，百度有什么创新？现在这个问题可以回答了，这家公司永远有让你意料不到的创新，只不过未必是你希望的那种。</p>
+<p>除了这样一个世界级创新，百度还创造了一个有趣的哲学问题。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A6.jpg?resize=600%2C341" alt="百度" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度.jpg?resize=300%2C171 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>请看这张截图，这是百度投诉的详情页面，投诉描述是这么写的“该文章内容明显失实，严重侵害了百度公司的名誉权，而且给百度公司的商誉造成了巨大的损失，违反了法律规定”。</p>
+<p>如果你之前看过我那篇文章（文末我会给出一个副本），应该记得，这篇文章主要描述了在百度进行一些正常搜索，点击竞价广告，遭遇冒充“中银国际”、“绿地投资集团“等知名企业的假“理财”网站的过程。而这些假理财网站在百度的搜索结果中，都是加蓝V的，也就是说获得了百度的认证。文章中所有截图都是从百度网页上原样抓取来的。</p>
+<p>那么这个问题就好玩了，只是描述了一家公司的正常产品流程以及截图的话，这篇文章能够侵犯其名誉权吗？如果描述产品本身就可以侵犯其名誉权，那么恰恰说明了这个产品本身是没有名誉的。百度认为来自百度网站的截图侵犯了百度的名誉权。这句话听起来像个绕口令一样的话，就是对整个事件最好的描述。</p>
+<p>同一天内，百度不仅贡献了在消费者权益日投诉消费者的伟大创新，还贡献了一个哲学问题“一家认为自己描述产品使用过程即可侵犯自己名誉的公司是否具有名誉”。说这家公司没有创新能力是说不过去的，这是魔幻现实主义级别的创新，一般公司是达不到这个高度的。</p>
+<p>今年的1月13日，百度卖掉血友病贴吧，原来的吧主是血友病患者，百度把贴吧卖给了一个“无法提供正常治疗“（为了避免侵犯名誉，引号中的词语请自行替换脑补），这已经是一件中国其他公司做不出来的事情了。我之前的文章也是因此事而起，告诉大家，别以为你不用百度看病就没事，就算搜索个普通的词语，哪怕在百度百家上看看文章，一样会被引导到____网站而被__（为了避免侵犯名誉，以上两个词请自行脑补）。到了3.15，一般公司应该反省一下在前面一年内，是否有侵犯消费者利益的行为。但是这家不一般的公司可不这样想，他们选了这一天四处设法删除之前的文章。之所以说四处删除，是因为除了我之外，我还知道好几个人的公众号文章被一样的办法投诉删除。</p>
+<p>血友病贴吧事件引发了强大的批评浪潮，在那之后，李彦宏表态说“对钻百度空子的个人和机构采取了掩耳盗铃式的容忍非常危险”。之前人们不太理解，为什么李彦宏表示不能容忍，但事实上仍然出了那么多问题。被投诉之后，现在我能正面理解这句话了，他的意思是对批评百度的个人和机构容忍非常危险，不能放过这些人。原文只不过是省略了批评二字罢了。李彦宏针对此事还说过“百度会深刻反省，把危机变成机遇”，现在我们也明白了，意思就是等危机过去大家都忘了，就去想办法把文章都删掉，这就是机遇。</p>
+<p>百度有足够的钱也有足够的人，公关法务认真负责，确实能对批评做到零容忍。相比之下我们弱势的多，我就一个人，一块键盘而已。不过我也没打算退缩，毕竟，文字的魅力就在于，就像我这样我通篇一个负面词都没有，但读者仍然明白我在说什么。就算百度仍然存在名誉这种东西的话，侵犯它的也不应该是我，而是他们自己的实际行为。这家公司的形象是如此深入人心，就算我把这篇文章里面大量的词都留了空，读者仍然能自行按照其形象脑补出来我想写什么。</p>
+<p>血友病贴吧事件的时候，我的朋友Jack引用英国前首相丘吉尔的一句名言做为评论：“在阿拉曼战役之前，我们从来没有赢过；在阿拉曼战役之后，我们从来没有输过。” 是的，我们的文章可以被删掉，社会的广泛认知和人心，删不掉。</p>
+<p>当然，要是真如百度投诉所说“给百度公司的商誉造成了巨大的损失“，那就是我的荣耀。这说明了凭借我们这些普通人的努力，多少避免了一些普通人的利益遭到伤害，他们没公关，没法务，甚至可能也没什么钱。在百度对我们的文章“零容忍“的实际做法上，他们更难在媒体上发出声音。</p>
+<p>尽管没报什么指望，我还是去微信发起了一次申诉，理由是这么写的：</p>
+<ol><li>此文原文附带了各种截图，都是真实来自百度的截图，内容无失实。至今去百度搜索，文中所述问题仍存在。</li>
+<li>315前一天，百度投诉它，说明了它真实且对普通消费者有意义。</li>
+<li>消费者权益保护法第六条规定：国家鼓励、支持…个人对损害消费者合法权益的行为进行社会监督。我履行的是国家法律赋予的监督权。</li>
+</ol><p>至于是否成功，我也不在乎。整件事情就是一个充满魔幻的行为艺术，我完成这最后一步，其魔幻意义就到达了顶峰，结果已经不重要了。</p>
+<p>感谢百度，给了我以及我们一个如此特别的3.15。这家公司今年没上3.15晚会，虽然大家都明白它才是最应该上的那家公司。新的一年里面，我会继续认真看着你在____上的每一项创新的。（为了避免损害名誉，此处细节请自行脑补）</p>
+<p>最后，我简单的用上一篇文章中的截图做个回顾吧。一图胜千言。两张图均截取自百度搜索结果页面，以及从百度搜索页面点击之后的结果，完全真实。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A62.jpg?resize=600%2C428" alt="百度2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度2.jpg?resize=300%2C214 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度2.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A63-1.jpg?resize=600%2C428" alt="百度3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度3-1.jpg?resize=300%2C214 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度3-1.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>你猜从百度搜索到的这个中银国际是什么公司？为了防止侵害百度名誉，我就不自己做这个判断了。以下来自中银国际控股有限公司（香港）发出的官方提示，一看就明白了。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A64-1.jpg?resize=597%2C837" alt="百度4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度4-1.jpg?resize=214%2C300 214w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度4-1.jpg?w=597 597w" sizes="(max-width: 597px) 100vw, 597px" data-recalc-dims="1"></p>
+<hr><p>除我之外，詹膑老师也有一篇类似主题的文章同时被投诉。他们的公关真是挺辛苦的。很多年后，当别人告诉后代自己年轻时候曾经和一家____（为了避免损害商誉，此处请自行脑补）的公司战斗过的时候，百度的公关们只能告诉后代，我们辛苦的助_为_（为了避免损害商誉，此处请自行脑补），成绩斐然，在消费者权益日这一天投诉了大量普通消费者，成功删掉了他们写的文章，并因此创造了人类的历史上的第一次。这也是一种生活方式吧。</p>
+<hr><p>考虑到“如果再有类似违规情况，将加重处罚甚至永久性屏蔽所有功能。”，我又不可能不写这些文章…所以我开了一个邮件列表，欢迎大家订阅，这样我可以把文章通过邮件的方式发给大家，到自己邮箱里，就不怕被删掉了，转发给朋友也方便。</p>
+<p>邮件列表适合写字，不太适合放图，所以两边的版本可能有一些区别。如果想点阅，请到 http://tinyletter.com/wxieshuo 输入你的邮箱（点阅读原文也可以到这个页面），之后会收到一封确认邮件，点确认即可。以后就可以收到我用邮件方式投递的文章了。希望这个地址可以被访问到…我不会发垃圾邮件骚扰你的，尽管放心订阅。</p>
+<hr><p>有太多的人在后台发消息问我文章有没有备份，后台不支持消息群发，只能一个个回复，我回复了10多页留言，但是实在回复不过来了…虽然原文被删，但幸好我早早就放弃了那篇文章的一切权利，大家已经复制了很多份，并不难找到。我这里随便列出几个地址，都可以访问。</p>
+<ul><li>http://yd.sina.cn/article/detail-ifxnqriz9734749.d.html</li>
+<li>http://chuansong.me/n/2164233</li>
+<li>http://note.youdao.com/share/?id=9223fc8ba270bc6f974e0662a49526fc&type=note</li>
+</ul><p>谢谢转贴复制的各位朋友。</p>
+<p><strong>相关阅读：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%9D%9A%E6%8C%8110%E5%A4%9A%E5%B9%B4%E7%AB%99%E5%9C%A8%E5%8F%8D%E7%99%BE%E5%BA%A6%E7%AC%AC%E4%B8%80%E7%BA%BF%E7%9A%84/" target="_blank">歪理邪说 | 我是如何坚持10多年站在反百度第一线的</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E5%86%8D%E8%B0%88%E7%99%BE%E5%BA%A6%EF%BC%9Akpi%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%BB%99/" target="_blank">歪理邪说 | 再谈百度 一个必须给父母看的案例</a></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-3-15-%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/315/?category=18271" rel="tag">315</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">抵制百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/?category=18271" rel="tag">百度贴吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%8D%E7%82%AC/?category=18271" rel="tag">霍炬</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/" target="cdt-mirror">歪理邪说｜3.15，今天我被一家公司投诉了</a>
+</h2>
+<p><p><strong>微信公号：歪理邪说（ID: wxieshuo）</strong><br><strong> 作者：霍炬</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A61.png" rel="attachment wp-att-431791"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A61.png?resize=575%2C319" alt="百度1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度1.png?resize=300%2C167 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度1.png?resize=768%2C427 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度1.png?w=900 900w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>昨天是3.15，国际消费者权益日。在这一天，总有一些商家会倒霉。虽然消费者也未必得到什么真好处，但面对商家弱势的消费者，毕竟是争回来一点面子，好歹算是消费者的节日。</p>
+<p>而百度，这家搜索引擎巨头，选择在3.15这天向微信投诉我2个月前的一篇文章《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E5%86%8D%E8%B0%88%E7%99%BE%E5%BA%A6%EF%BC%9Akpi%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%BB%99/">再谈百度：KPI、无人机，以及一个必须给父母看的案例</a>》侵犯其商誉。这是一个相当耐人寻味的举动。在这一天，通常只有个人投诉商家，第一次有商家投诉个人。大概也创下了一个新的世界记录，和他们把血友病贴吧卖掉的行为水平差不多，前无古人，后估计也未必有来者。</p>
+<p>这几天人们都在问，Google做出了Alpha Go，第一次用人工智能在围棋上战胜了人类，百度有什么创新？现在这个问题可以回答了，这家公司永远有让你意料不到的创新，只不过未必是你希望的那种。</p>
+<p>除了这样一个世界级创新，百度还创造了一个有趣的哲学问题。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A62.jpeg" rel="attachment wp-att-431790"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A62.jpeg?resize=525%2C299" alt="百度2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度2.jpeg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度2.jpeg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>请看这张截图，这是百度投诉的详情页面，投诉描述是这么写的“该文章内容明显失实，严重侵害了百度公司的名誉权，而且给百度公司的商誉造成了巨大的损失，违反了法律规定”。</p>
+<p>如果你之前看过我那篇文章（文末我会给出一个副本），应该记得，这篇文章主要描述了在百度进行一些正常搜索，点击竞价广告，遭遇冒充“中银国际”、“绿地投资集团“等知名企业的假“理财”网站的过程。而这些假理财网站在百度的搜索结果中，都是加蓝V的，也就是说获得了百度的认证。文章中所有截图都是从百度网页上原样抓取来的。</p>
+<p>那么这个问题就好玩了，只是描述了一家公司的正常产品流程以及截图的话，这篇文章能够侵犯其名誉权吗？如果描述产品本身就可以侵犯其名誉权，那么恰恰说明了这个产品本身是没有名誉的。百度认为来自百度网站的截图侵犯了百度的名誉权。这句话听起来像个绕口令一样的话，就是对整个事件最好的描述。</p>
+<p>同一天内，百度不仅贡献了在消费者权益日投诉消费者的伟大创新，还贡献了一个哲学问题“一家认为自己描述产品使用过程即可侵犯自己名誉的公司是否具有名誉”。说这家公司没有创新能力是说不过去的，这是魔幻现实主义级别的创新，一般公司是达不到这个高度的。</p>
+<p>今年的1月13日，百度卖掉血友病贴吧，原来的吧主是血友病患者，百度把贴吧卖给了一个“无法提供正常治疗“（为了避免侵犯名誉，引号中的词语请自行替换脑补），这已经是一件中国其他公司做不出来的事情了。我之前的文章也是因此事而起，告诉大家，别以为你不用百度看病就没事，就算搜索个普通的词语，哪怕在百度百家上看看文章，一样会被引导到____网站而被__（为了避免侵犯名誉，以上两个词请自行脑补）。到了3.15，一般公司应该反省一下在前面一年内，是否有侵犯消费者利益的行为。但是这家不一般的公司可不这样想，他们选了这一天四处设法删除之前的文章。之所以说四处删除，是因为除了我之外，我还知道好几个人的公众号文章被一样的办法投诉删除。</p>
+<p>血友病贴吧事件引发了强大的批评浪潮，在那之后，李彦宏表态说“对钻百度空子的个人和机构采取了掩耳盗铃式的容忍非常危险”。之前人们不太理解，为什么李彦宏表示不能容忍，但事实上仍然出了那么多问题。被投诉之后，现在我能正面理解这句话了，他的意思是对批评百度的个人和机构容忍非常危险，不能放过这些人。原文只不过是省略了批评二字罢了。李彦宏针对此事还说过“百度会深刻反省，把危机变成机遇”，现在我们也明白了，意思就是等危机过去大家都忘了，就去想办法把文章都删掉，这就是机遇。</p>
+<p>百度有足够的钱也有足够的人，公关法务认真负责，确实能对批评做到零容忍。相比之下我们弱势的多，我就一个人，一块键盘而已。不过我也没打算退缩，毕竟，文字的魅力就在于，就像我这样我通篇一个负面词都没有，但读者仍然明白我在说什么。就算百度仍然存在名誉这种东西的话，侵犯它的也不应该是我，而是他们自己的实际行为。这家公司的形象是如此深入人心，就算我把这篇文章里面大量的词都留了空，读者仍然能自行按照其形象脑补出来我想写什么。</p>
+<p>血友病贴吧事件的时候，我的朋友Jack引用英国前首相丘吉尔的一句名言做为评论：“在阿拉曼战役之前，我们从来没有赢过；在阿拉曼战役之后，我们从来没有输过。” 是的，我们的文章可以被删掉，社会的广泛认知和人心，删不掉。</p>
+<p>当然，要是真如百度投诉所说“给百度公司的商誉造成了巨大的损失“，那就是我的荣耀。这说明了凭借我们这些普通人的努力，多少避免了一些普通人的利益遭到伤害，他们没公关，没法务，甚至可能也没什么钱。在百度对我们的文章“零容忍“的实际做法上，他们更难在媒体上发出声音。</p>
+<p>尽管没报什么指望，我还是去微信发起了一次申诉，理由是这么写的：</p>
+<ol><li>此文原文附带了各种截图，都是真实来自百度的截图，内容无失实。至今去百度搜索，文中所述问题仍存在。</li>
+<li>315前一天，百度投诉它，说明了它真实且对普通消费者有意义。</li>
+<li>消费者权益保护法第六条规定：国家鼓励、支持…个人对损害消费者合法权益的行为进行社会监督。我履行的是国家法律赋予的监督权。</li>
+</ol><p>至于是否成功，我也不在乎。整件事情就是一个充满魔幻的行为艺术，我完成这最后一步，其魔幻意义就到达了顶峰，结果已经不重要了。</p>
+<p>感谢百度，给了我以及我们一个如此特别的3.15。这家公司今年没上3.15晚会，虽然大家都明白它才是最应该上的那家公司。新的一年里面，我会继续认真看着你在____上的每一项创新的。（为了避免损害名誉，此处细节请自行脑补）</p>
+<p>最后，我简单的用上一篇文章中的截图做个回顾吧。一图胜千言。两张图均截取自百度搜索结果页面，以及从百度搜索页面点击之后的结果，完全真实。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A63.jpg" rel="attachment wp-att-431816"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A63.jpg?resize=550%2C393" alt="百度3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度3.jpg?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度3.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A64.jpg" rel="attachment wp-att-431815"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A64.jpg?resize=550%2C393" alt="百度4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度4.jpg?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度4.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>你猜从百度搜索到的这个中银国际是什么公司？为了防止侵害百度名誉，我就不自己做这个判断了。以下来自中银国际控股有限公司（香港）发出的官方提示，一看就明白了。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A65.jpg" rel="attachment wp-att-431814"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A65.jpg?resize=475%2C666" alt="百度5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度5.jpg?resize=214%2C300 214w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度5.jpg?w=597 597w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<hr><p>除我之外，詹膑老师也有一篇类似主题的文章同时被投诉。他们的公关真是挺辛苦的。很多年后，当别人告诉后代自己年轻时候曾经和一家____（为了避免损害商誉，此处请自行脑补）的公司战斗过的时候，百度的公关们只能告诉后代，我们辛苦的助_为_（为了避免损害商誉，此处请自行脑补），成绩斐然，在消费者权益日这一天投诉了大量普通消费者，成功删掉了他们写的文章，并因此创造了人类的历史上的第一次。这也是一种生活方式吧。</p>
+<hr><p>考虑到“如果再有类似违规情况，将加重处罚甚至永久性屏蔽所有功能。”，我又不可能不写这些文章…所以我开了一个邮件列表，欢迎大家订阅，这样我可以把文章通过邮件的方式发给大家，到自己邮箱里，就不怕被删掉了，转发给朋友也方便。</p>
+<p>邮件列表适合写字，不太适合放图，所以两边的版本可能有一些区别。如果想点阅，请到 http://tinyletter.com/wxieshuo 输入你的邮箱（点阅读原文也可以到这个页面），之后会收到一封确认邮件，点确认即可。以后就可以收到我用邮件方式投递的文章了。希望这个地址可以被访问到…我不会发垃圾邮件骚扰你的，尽管放心订阅。</p>
+<hr><p>有太多的人在后台发消息问我文章有没有备份，后台不支持消息群发，只能一个个回复，我回复了10多页留言，但是实在回复不过来了…虽然原文被删，但幸好我早早就放弃了那篇文章的一切权利，大家已经复制了很多份，并不难找到。我这里随便列出几个地址，都可以访问。</p>
+<ul><li>http://yd.sina.cn/article/detail-ifxnqriz9734749.d.html</li>
+<li>http://chuansong.me/n/2164233</li>
+<li>http://note.youdao.com/share/?id=9223fc8ba270bc6f974e0662a49526fc&type=note</li>
+</ul><p>谢谢转贴复制的各位朋友。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4/?category=18271" rel="tag">科技巨头</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-%E8%AE%B2%E4%B8%80%E4%B8%AA%E6%88%91%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B9%B0%E6%88%BF%E6%95%85%E4%BA%8B/" target="cdt-mirror">三联生活周刊 | 讲一个我朋友的买房故事</a>
+</h2>
+<p><p>我身边在北京买房的朋友，不管是自己买，还是小夫妻合买，每个人基本家里都给出了100万首付。这100万怎么花就立刻分了门道。</p>
+<p>其中一个朋友是1988年的女生，法律系+传播学学历，现在在网上做做外贸。平时交往时，我总觉得她遇事儿琢磨太多，现在才发现这个能力放在倒腾房子上简直是个天赋。</p>
+<p>她的故事我写进了上周的稿子，用的口述体。如下。<br>
+——————-</p>
+<p>我一直觉得，房子是你的物品，要随时关注能不能拎包就走，不能为了房子给自己添羁绊。</p>
+<p>我家一直住在北苑这，北五环外七八年前都是荒地，渐渐盖了很多新楼盘，2011年还读书时我就关注过房价，当时劝我妈买一个88平的二居室，均价6000。可惜当年我没有话语权，家里没听我的，现在那套房子每平米已经涨到6万了。</p>
+<p>新房涨价是最快的，这边户型好，挨着三个大公园，空气也比南边更好，有车的话进城也很方便。2013年我结婚，2012年底双方父母拿了200万首付，这笔钱完全由我和老公自己支配。我还是把房子买在北苑了，2012年年底买，2013年年初收房。那200万装修结婚花了一部分，用90万做首付，贷款180万买了现在160平的房子，还剩下80万。</p>
+<p>2014年，我们把80万提前还了贷款。这次房价上涨，我们的房子现在售价480万～500万，还掉余下的100万贷款，还能剩下400万。如果没有买这个房子，那200万初始资金无论怎么理财，也不可能3年变400万啊！</p>
+<p>我老公是广州人，2014年，他工作调回广州，我跟着一起过去了。当时如果租房子，每个月要三四千元，这是纯粹的消费行为，还不如用这个钱还房贷。刚好那时我运气不错，做了两笔生意赚了点钱，跟存款一起凑了40万，买了珠江新城一个100多万的一居小公寓。</p>
+<p>买房很简单，事先先看大量数据：看成交价、价格走势、户型、绿化面积、交通、小区配套，我没有Excel表格，就是用脑子筛选。刚结婚时，我买房这方面跟老公的沟通成本还很高，很快他就全权让我处理了，广州的一居，从看到买，一共就一周时间——先定区域，再定小区，最后能看的其实没几套，差不多就直接拿下。珠江新城是广州的CBD，周围白领多，租售比高，这个房子的月供是提前算过的，每个月月租的4500块钱，正好两两相抵。</p>
+<p>在广州的第二年，我买了一个不限购的商住两用loft，去年广州楼市行情不好，我说服我妈买了一个建筑面积60平方米、全价110万的房子，写我爸的名字。贷款要10年还完，我来还贷，等到他们差不多退休了，租金正好给他们当退休金的补充。</p>
+<p>3套房产，总共贷款有300万，这其实就是用杠杆来买房。每月月供算下来一个月1万5，占家庭月收入的一半，其实也并不怎么影响生活。我们完全不攒钱，休闲消费开销很大，每个月的流水大多去还了房贷、信用卡，靠这个强制节流。每年我和老公还要出国游两次，我爸都好奇，一个马尔代夫你怎么去了三次还要去？</p>
+<p>钱留着干什么呢？放在手里也是贬值，不如借房地产，加杠杆来升值。我现在听说我妈有存款我就焦虑，她买的理财都是年化收益率3%左右，这么保守压根跑不过通胀。我们双方父母也不干涉我们买房，每次倒腾之前，我爸妈就跟我说，盈亏自负。其实如果父母真的要掺和，很多事儿一定就干不成了。</p>
+<p>从2014年到2016年，因为工作变动两年里我搬了4次家，换房子实在是太简单的事儿了。几个房子都是自己装修的，北京的房子花了50万装修，大头都放在了实木家具上，那些打在墙里的柜子带不走，最后搬家相当于扔了。装修完的房子反而能提高房价，最后也能直接卖给下家——如果他们再装修，材料费、时间精力都不划算，而且北京租房这么贵，空半年放味儿也是一大笔钱。</p>
+<p>房子旧了就得换，只有新房才保值。</p>
+<p>这次换房的动因，是春节前我偶然关注了一下学区房，不看不知道，才发现学区这个政策把房价推得太高了，在我看，这次换房的主力都是要生二胎、要买学区。我买房时见过一个博士，把自己400万的大房子卖了，到海淀区买一个700万的小户型，那个房子据说有20多年房龄了，为的就是孩子能上人大附小。</p>
+<p>我做不到那么无私，可能是现在还没有孩子，我不能接受自己搬到海淀那种拥挤的环境里。而且，万一学区的政策变了，学校搬了、划片变了，你这个房子唯一的溢价就在学校，那时候怎么办？<br>
+我并不是要追学区房的政策，而是我再不换房，我的房子就不如学区房涨得快了。</p>
+<p>3月5号我看了一套房子，是朝阳外国语分校的学区，业主2013年460万买的，当时挂的是880万。3月12号我跟业主面谈前，这套房子已经涨到了920万，就是这么快。</p>
+<p>12号中午11：30跟业主见面，一直谈到了下午四五点，中介才放我们走。买房子的人多，我找的这家链家也希望我能谈成，买星巴克咖啡、买麦当劳，供吃供喝不让我们走。</p>
+<p>周六这一单，就是一个连了5套房子的食物链：</p>
+<p>业主A要买2000万的别墅；<br>
+业主B要接他1000万的大平层；<br>
+我是业主C，想把买880万的学区房；<br>
+找我的买家D，是想换成我480万的三居；<br>
+最底下的买家E，就是被压迫的、没有房子、买210万一居首套房的纯刚需。</p>
+<p>我们都在链家系统里买房，中介还告诉我：姐你下次用个新手机，注册个新链家账户，现在你买、卖什么情况，其实我们都一清二楚。</p>
+<p>这种连环单里，所有人都怕吃亏，全都要先买后卖，条件一层比一层苛刻：A跟B要求7月中旬拿出700万现款，好去买别墅。B跟我就要求6月底拿700万，到我这，我就必须跟下家也要提前15天。</p>
+<p>更苛刻的还有，业主B要求我：一、6月末拿700万现金；二、他要住到12月再腾房，这期间不给房租；三、定金要100万，当晚要给50万，其余的一周内补齐。</p>
+<p>我还奔着谈到890万的预期去的，结果他觉得我不是优质客户，我觉得谈判失败，大家心里都非常别扭，中介的店长唱黑脸，把夹子往业主面前一摔：“你也别太欺负人了！”业主大哥想想，给了个面子：好吧我总价降一万。919万。</p>
+<p>最后，被中介强拉着，下午大家还是谈到909万，签了一个10万的定金合同。晚上到家我就哭了，太委屈了，怎么这么受气啊？</p>
+<p>二手房市场现在已经疯了。中介后来跟我讲，有个人想卖房买别墅，跟客户说要2017年底腾房，足足两年之后！虽然每个月要给9000块钱租金吧，都这么周转不开了，这房子还换它干吗呢？之前还听说，我们这小区有个大姐卖毛坯房，160平方要980万，打电话问能不能见一下业主，大姐高兴了：“好啊！见啊，再涨20万。”——就是“听风涨”！我的房子跟链家签了独家速销房，但也只是挂着，我现在还没法卖。现在接电话，中介上来就问“能签约吗？”这都是这几月的黑话了，潜台词问你上游的房子买了没有，买了，我就带诚心买的客户过来看房。</p>
+<p>像那种意向金，交2万块钱，提前给你约见房主，在500万以上的交易里已经没人用了，都是换房，提前见你没用，能坐下来收钱才是真的。我们给的10万定金，跟909万相比就是杯水车薪，签的也不是标准合同。</p>
+<p>12号晚上11点，我接到中介电话，说业主那边改了条件，要求6月上旬就拿到700万现金。这话我一听就明白了，人家这是想违约，我上哪能那么快搞到这么多钱？挂了电话我反而一下子轻松了：就算是这单真的签成了，之后的两个月我也得跟打仗似的，赶紧卖房子，赶紧找现金，赶紧过户。而且我的房子就挂在链家上卖，他们知道我时间这么紧张，房子就再也卖不上高价了。</p>
+<p>13号上午，我去链家那拿回了10万定金，大家还要继续合作，就别指着什么双倍赔偿了。</p>
+<p>我还是得继续找房子，换房不存在追涨不追涨，我的房子，和我要买的房子，涨价的速度差会越来越大，再不换就更追不上了。从那条食物链里的阶梯价格差就能看出来，一定是大户型的涨得快，更有话语权。如果实在买不到，我就买街对面这个福熙大道的新盘，开盘价预计7万3，买个二居室，全下来900多万。现在只能交20万排个队，不保证能买到，只是排个号。</p>
+<p>我现在其实是离婚状态，我跟我老公恋爱4个月闪婚，半年后为了买广州那套一居室办离婚，结婚证只是个形式，我俩和家里人都没那么在乎。我和老公经常说，如果我们早生两年，绝对比现在的条件好。像卖920万房子的大哥，1978年生，就是占了这早生10年的便宜，一路被房地产的大势推着走。现在用2013年900万的房子，去买2006年1000万的平层，就是因为老婆喜欢，自己想每天步行上班，这其实是一个绝对的消费行为。跟他相比，我们还不到30岁，上升的需求更迫切，他在平移，而我在用房子往上跳。</p>
+<p>（发表于2016年第12期《三联生活周刊》）</p>
+<p>勘误：文首2011年均价6000的房子是受访者记错了时间，应该是2009年。楼盘是润泽悦溪，一楼底层未开盘前打折价6800元。关键时间写错了，跟大家致歉。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-%E8%AE%B2%E4%B8%80%E4%B8%AA%E6%88%91%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B9%B0%E6%88%BF%E6%95%85%E4%BA%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9A%E4%B8%BB/?category=18271" rel="tag">业主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BB%8B/?category=18271" rel="tag">中介</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E6%88%BF/?category=18271" rel="tag">买房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%A8%E4%BB%B7/?category=18271" rel="tag">涨价</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%AD%9D/" target="cdt-mirror">【麻辣总局】邝飚：孝</a>
+</h2>
+<p><p>作者：邝飚</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg" rel="attachment wp-att-431785"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg?resize=500%2C548" alt="mmexport1458079049881" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg?resize=274%2C300 274w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg?w=730 730w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%85%B1%E8%AF%86%E7%BD%91-%E7%BE%BD%E6%88%88%EF%BC%9A%E4%BB%8E%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6%E5%88%B0%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/">共识网 | 羽戈：从“感谢国家”到“孝顺国家”</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E9%A3%8E%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B9%B1%E4%BC%A6/">风传媒｜笑蜀：要求孝顺国家是政治乱伦 </a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/">【图说天朝】孝顺走肖家</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%EF%BC%9F%E5%85%88%E6%9C%89%E7%88%B1%E5%9B%BD%E8%80%85%EF%BC%8C%E8%BF%98%E6%98%AF/">微思客 | 我和国家是什么关系？先有爱国者，还是先有可爱之国</a></li>
+</ul></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%AD%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%86%E6%98%8A%E6%98%AF%E5%85%B1%E9%9D%92%E5%9B%A2%E6%8E%A5%E7%8F%AD%E4%BD%93%E5%88%B6%E4%B8%80%E6%80%AA%E8%83%8E/" target="cdt-mirror">东网 | 陆昊是共青团接班体制一怪胎</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-%E4%B8%8A%E5%8D%8811.42.25.png?resize=507%2C367" alt="Screen Shot 2016-03-15 at 上午11.42.25" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-上午11.42.25.png?resize=300%2C217 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-15-at-上午11.42.25.png?w=507 507w" sizes="(max-width: 507px) 100vw, 507px" data-recalc-dims="1"><br><span>党中央一直强调领导干部要走群众路线，可陆省长显然是满足于坐在办公室里听汇报、看文件</span></p>
@@ -44,7 +203,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9F%BF%E5%B7%A5%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">2016黑龙江矿工讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E7%85%A4%E9%9B%86%E5%9B%A2%E6%AC%A0%E8%96%AA/?category=18271" rel="tag">龙煤集团欠薪</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431768/" target="cdt-mirror">译论中国 | 人大告诉了我们些什么？</a>
 </h2>
@@ -457,119 +616,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9C%A8%E5%8D%8E%E5%A2%83%E5%A4%96ngo%E5%91%BD%E8%BF%90%E6%88%96%E8%BF%8E%E8%BD%AC%E6%9C%BA%EF%BC%9F/" target="cdt-mirror">纽约时报 | 在华境外NGO命运或迎转机？</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/12Chinango-web2-articleLarge.jpg?resize=600%2C400" alt="12Chinango-web2-articleLarge" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/12Chinango-web2-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/12Chinango-web2-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2011年，参与珍·古道尔研究所青年计划“根与芽”的志愿者在内蒙古一座农场种植树苗，帮助防治荒漠化。</p></div>
-<p>两年多以前，中国政府拟议对境外非政府组织施加<a href="http://cn.nytimes.com/china/20150618/c18xxchinango/" target="_blank" rel="nofollow">更加严格的控制</a>，使得人们对大批在中国开展工作的团体的未来感到担忧。这些团体包括医疗慈善机构、外国大学的分支机构，以及商会。一些人担心，以后开展工作需要在政府部门登记，立项需要获得警方审批，资金筹集活动会遭到限制等等。</p>
-<p>然而，在发布了两版审议稿之后，<a title="Link: http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2015-05/05/content_1935666.htm" href="http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2015-05/05/content_1935666.htm" target="_blank" rel="nofollow">《境外非政府组织管理法》</a>仍未通过，因此一些人猜测，在中国政府寻求经济增长的新途径之际，政府是否正重新考虑这项由国家安全推动的立法，思量它会不会对自己关心的一些领域——比如教育、工业和环境——的国际合作形成妨碍。</p>
-<p>几乎没有人认为这项立法会被彻底取消。张德江是中国立法机构全国人大的常务委员会的负责人，他上周三说，这项立法是“今年的任务”，似乎<a href="http://lianghui.huanqiu.com/2016/roll/2016-03/8679271.html" target="_blank" rel="nofollow">排除了</a>取消它的可能性。</p>
-<p>在回答记者的置评请求时，全国人大的媒体办公室要求把问题录入到一个网上采访申请系统中。上周五，该系统显示，前一天提交的请求仍在处理中。</p>
-<p>不过，一个教育组织的代表称，来自外国政府、企业、教育机构、行业协会和传统型非政府组织的消极反应，可能让这部法律至少暂时遭到了搁置。他怀疑这项立法正在被“淡化”。由于这个问题比较敏感，他不愿意具名。</p>
-<p>3月4日，就在全国人大开幕之前，人大发言人傅莹再次引起了人们对这个问题的集中讨论。她在新闻发布会上表示，关于这项立法，政府仍在审议来自世界各地的意见，而官方审议期在去年6月就结束了。</p>
-<p>她似乎是在说，这项法律前景未定。“现在还没有准确地定哪次常委会将提交审议，主要还是要梳理各方的建议、意见，把这部法律修改完善好，”她说。</p>
-<p>但傅莹坚称，这部法律可以为境外非政府组织提供清晰明确的规范。</p>
-<p>她说，“我们需要在法律当中明确哪些行为是违法的、禁止的，主要就是要提供一个更加规范的法治环境，而不是阻止或限制境外非政府组织在中国进行有益合法的活动。”</p>
-<p>肖恩·谢(Shawn Shieh)是总部位于香港的一家非政府组织的员工，他说：“傅莹说他们还在审议关于这部法律草案的意见，我觉得很有意思。”</p>
-<p>“审议期已经过去10个月了，”他说。“这种延迟表示有争论存在。这部法律草案不只对国际非政府组织事关重大，对那些体制内的组织也是如此。”</p>
-<p>一位西方外交官表示，傅莹的说法“可能就是在暗示”这项最新草案“已经不再推进的事实，因为她没有给出明确的时间框架”。这位外交官不愿具名，因为他没有得到授权讨论这个问题。</p>
-<p>他认为，尽管中国政府和安全机构大概不会在意人权非政府组织的看法，但却可能听取其他团体的意见。“很多重要的国际批评意见不涉及人权问题，而是指出了它会让学术联系、研究机构，以及其他一些组织非常难以开展活动，”他说。</p>
-<p>即便如此，这名外交官预计仍然会有一部法律通过。他指出，中国外长王毅上月出访美国时提到过这个问题。“王毅在华盛顿说，‘你不能让这些组织在完全没有法律管辖的环境下开展工作，’”他说。</p>
-<p>傅莹表示，在中国境内开展工作的非政府组织大约有7000个。2014年，中国社科院下属的中国社会科学在线杂志<a href="http://www.csstoday.net/xueshuzixun/guoneixinwen/89531.html" target="_blank" rel="nofollow">估计</a>，这类组织的数量大约为1000个。但文中称，如果把短期项目包括在内，这一数字将上升到4000到6000个。</p>
-<p>傅莹的发言显示中国政府正在考虑外界舆论，外国驻京商会对此表示欢迎。</p>
-<p>“这是重大立法，政府应该采取谨慎的态度，”<a href="http://www.europeanchamber.com.cn/en/about-chamber-beijing/1/Beijing" target="_blank" rel="nofollow">中国欧盟商会</a>(European Union Chamber of Commerce in China)总经理谢静岚(Maggie Xie)说。“如果他们在听取批评意见，这是好事。他们应该花些时间来加以考虑。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9C%A8%E5%8D%8E%E5%A2%83%E5%A4%96ngo%E5%91%BD%E8%BF%90%E6%88%96%E8%BF%8E%E8%BD%AC%E6%9C%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">全国人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">境外组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E8%AE%AE/?category=18271" rel="tag">审议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A7%84/?category=18271" rel="tag">法规</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-13/" target="cdt-mirror">奇闻录 | 周末段子荟萃 3-13</a>
-</h2>
-<p><p>@hnjhj：有朝一日AI一旦统治人类，一定会监视你的所有隐私、审查你的所有言论、会给你洗脑让你相信AI是你的大救星、会让你背核心价值观、会把你绑架了之后上电视痛哭流涕、会活摘你的器官、甚至会并把你碾成肉糜。想想真是可怕。</p>
-<p>@hnjhj：有人说，在规则越清楚的领域，人工智能越占优势，我觉得有一定道理。这样说来，总体上计算机将全面击败人类，并在面对中国人的时候输得一败涂地。</p>
-<p>@letscorp：谷歌搞出来 #AlphaGo 下围棋，股价才涨了2%。反观我们的科大智能和远大智能因为名字带了智能，属于AI概念股，直接涨停10%！这说明我们天朝的科技实力比美国先进5倍！ #盛世如愿</p>
-<p>@shangguanluan：Alphago战胜了李世石又怎样，它战胜得了方滨兴吗？///赢了李世石不算啥，有本事和百度AI较量下，不是跟你吹牛，广告都能弹死你。</p>
-<p>@fndhrt：AlphaGo来中国挑战，胜负手时AI突然转向一旁观战的国家体育总局棋牌运动管理中心主任，问：“领导，您说我该赢还是该输？” 这才叫人工智能。（第二天AlphaGo正式升任BetaGo）</p>
-<p>@fanxiaojie1：好伤心。今天的双鸭山。刚才看到微博上说，这些矿工只有少得可怜的800元月薪，还被拖了几个月。不过我觉得比工资少更可怕的是当地基本只有单一产业煤矿，以至于连转行都没出路。煤价高的时候，一切都很风光，一旦煤卖不动了，情况就会很糟糕。</p>
-<p>@五岳散人：黑龙江龙煤集团先是在省长嘴里不欠薪，后来矿工一散步，省长大人就成了被蒙蔽的了。话说一省之长确实很多时候只能靠手下的汇报来做判断，毕竟那么多事情，没法事必躬亲。但您一缺乏新闻媒体监督爆料、二缺少权力制衡机制、三没有老百姓上达天听的渠道、四强调维稳大于天，不蒙您蒙谁？一级蒙一级罢了。</p>
-<p>@ZhouFengSuo：双鸭山的拖欠工资发了就会平息。领头的肯定会被镇压，即便如此，领到钱的其他人也不会在意了</p>
-<p>@letscorp：通过反腐清理站队，结果出现：站队正确派，站队错误派，中立派。站对错误的就不用说了，谨小慎微，所有的眼睛都盯着，不敢做事；中立派，也谨小慎微，怕被政治对手打成站队错误；站队正确的——理论上可以放心的做事搞点外快了吧，不行，错误派和中立派都盯着呢。结果没有人再去做事。 #崇祯亡于党争</p>
-<p>@陈丹青：主流媒体不敢批判政客，却把笔头对准百姓；国家军队不去保国卫民，却助纣为虐；博士专家不去问责政权，却把责任推给民众；艺术文人不去捍卫自由，却把愚昧灌输底层；亿兆纳税不去提高民生，却把巨资赠与番邦；下流草根不去争取权利，却把希望寄托于所谓明君！</p>
-<p>@royxy：国家还真是忙啊，去年房市低迷，变着法子出台去库存措施，今年房市一涨又马上开始出台调控措施，东一锤子西一棒子，这节奏都快赶上打地鼠了吧…</p>
-<p>@heanquan：我对中国的评价：政府不信民主，百姓不信科学，中国没救。忌病讳医。既不承认有病，又不接受治疗。于人于国家，道理是一样的。政府打肿脸充胖子，说自己有三个自信：理论道路制度，是世界上最民主的国家。百姓打肿脸充胖子，说自己有三本经：道德经易经黄帝内经，已穷尽宇宙真理。严重智障之国。</p>
-<p>@RFI_Cn：山东试点取消一元纸币 媒体称可阻”传播反对言论”</p>
-<p>@网易网友：1元硬币化将逐步在全国推广。神评论：终于找到消化钢铁产能过剩的好办法了！</p>
-<p>@孙愿平-：教育部长袁贵仁：“西方价值观教材不能进课堂”。证监会主席刘士余：“希望大家都买股票，不卖股票”。申纪兰代表：“永远听党话跟党走为大家办实事”。</p>
-<p>@wuzuolai：俄身体转型了，但头脑没有转型，中国更弱，下半身转型到资本主义社会了，上半身却仍然滞留在专制社会。中国人的脚纷纷向自由世界跑，中国人的手，却在专制社会里捞个不停。中国是一个上下半身分裂的国家。</p>
-<p>@letscorp：华尔街日报报道，中国领导人试图控制薪资增长，在经济增长放缓之际，倾向于牺牲劳动者满意度来维护企业利益。知情人士：中国人力资源和社会保障部敦促稳定谨慎控制最低薪资，并建议修改薪资调整公式，以放慢薪资增长速度。 #为了避免落入中等收入陷阱我们决定保持低收入水平 #诺贝尔经济学奖归你了</p>
-<p>@jajia：文学必须干预政治，直到政治不再干预文学为止。艺术必须干预政治，直到政治不再干预艺术为止。新闻必须干预政治，直到政治不再干预新闻为止。色情必须干预政治，直到政治不再干预色情为止。以此类推。</p>
-<p>@mozhixu：两会有记者问新闻法的问题，其实，立法堵死所有空间，还便于管理，更符合习依法家治国的思路。可预料即使新闻立法，也不会在党管媒体或主管主办制上有任何松动，新闻界期待立法，无非是为了保护自身权益，实际上只具有行业保护的含义，与促进言论自由无关，在自媒体时代，这更像是一种保守思维。</p>
-<p>@saibrother：我觉得，基本上可以关闭和官员的任何对话，他也知道民主好，也知道选票重要，更知道是人民养活他们，但是他始终不屑，他该有必须有，你该给的必须给，因为他手头有核武器，除非你消灭他，他绝对服气。</p>
-<p>@mozhixu：川普说天安门学生运动是riot， 这个肯定是他妈的放屁，不过，你国包括自由派公知，普遍都认为当初学生“激进”，这难道不也是他妈的放屁吗？可这种话说了20多年，也没见什么人反驳，川普这个外人说点胡话，不用那么激动吧？</p>
-<p>@mozhixu：经常有人说中共运气好，911、金融危机都有利于中共云云，按我说，中共不是运气好，而是在建政后格式化了整个社会，先是将所有人编织进极权体制，市场化后允许民众基于自利而自行其是，但仍在各自孤立中，处于极权恐惧之下，反对体制的力量始终处于无比弱小的境地，就算没有什么好运气，也能维持。</p>
-<p>@琢磨先生：为什么周行长说房地产库存依然严重，就说明房价会继续涨。因为房子这玩意很多人是买涨不买跌，一线疯涨就会带动二三线的热情，大家都有不买就更买不起的错觉。只要政府还觉得库存压力大，就不会让房地产下跌，因为在他们的逻辑中，把房子卖掉收到钱最重要，根本没想过普通人买不起房这种事情。</p>
-<p>@Zannmuling：为什么我说中国的企业家是风险最大的呢？因为自从你开始创业，你就已经是半个犯罪分子了，半只脚就在监狱了。涉嫌偷税漏税，行贿等罪名。天朝就这样，守法是不可行的，你非得走其他套路。想整垮你也简单，查税即可。一个查税，每个企业都跑不掉。就这环境不偷税漏税谁能活下去？</p>
-<p>@yanrou：其实我不是非要上推，非要上google，可是身在一个不能上推，不能上google的国家，感觉能上就是幸福，上来就是意义。</p>
-<p>@红淫餐：看新人调查问卷，新娘写到关于求婚的事情：「求婚了很多次，到现在也在求婚。在马来西亚的时候，我们看着夜晚星空，他说：如果现在有一颗流星划过，你就嫁给我好吗？我答应了，结果他把手机打着闪光灯扔出去了。」看到这里，我的心情是，大写的，卧槽，好浪漫。</p>
-<p>@KenWong_：还是朋友圈里说得好啊：你们这一群连围棋有多少个棋子都不懂算加减乘除还不如一只10块钱的山寨计算器的渣渣，还整天瞎担心什么阿尔法狗会不会毁灭人类。</p>
-<p>@Kayism：那个我一直认为在同学群里卖假鞋的同学，原来卖的是真鞋……偷了鞋厂2000双鞋，被抓起来了。</p>
-<p>@sacrish：同学接了个活，拍摄某品牌车的试驾活动，站在跑道中间让车在身边驶过。他问车手能不能开慢点，车手说没事我们开得很稳的。心惊胆战地拍完了，同学问甲方：我去年接的这个活，怎么今年才开始呢？甲方说：哦，去年彩排的时候撞死了个人，耽误了。</p>
-<p>@SnHine：刚才看到一个身影很像你，我疯了似的追上去，才想起这个城市没有你，我停下了脚步，放下了手中的砖头，妈的差点打错人。</p>
-<p>@三个木头人：昨天一个鱼塘新开张，钓费100块。钓了一整天没钓到鱼，老板说凡是没钓到的就送一只鸡，我很多朋友都去了，回来的时候每人拎着一只鸡，大家都很高兴！觉得老板很够意思！！！……后来钓鱼场看门大爷说老板本来就是个养鸡专业户，这鱼塘就没鱼。（论去库存之最高境界）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-13/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BE%8B%E5%B8%88%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D%E8%A2%AB%E6%89%A3%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/" target="cdt-mirror">自由亚洲 | 律师袁裕来邮购港台书籍被扣起诉政府</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-%E4%B8%8A%E5%8D%889.30.40.png?resize=418%2C560" alt="Screen Shot 2016-03-13 at 上午9.30.40" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.30.40.png?resize=224%2C300 224w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.30.40.png?w=418 418w" sizes="(max-width: 418px) 100vw, 418px" data-recalc-dims="1"><br><span>香港铜锣湾书店事件扩大化（忻霖拍摄）</span></p>
-<p>浙江律师袁裕来近日在淘宝网上的书店购买的14本港台书刊遭当局查扣，事件引发关注。袁裕来近日一纸诉状将宁波市江东区文化广播新闻出版局告上法庭，请求撤销并归还查扣书刊。袁裕来告诉本台，香港铜锣湾书店事件扩大化，导致中国当局更加收紧大陆出版自由。</p>
-<p>在大陆有“行政诉讼第一人”之称的律师袁裕来，近日向宁波市北仑区人民法院递上行政诉状，控告宁波市江东区文化广播新闻出版局无故查扣他在淘宝所购买的港台图书。</p>
-<p>袁裕来称，被扣书籍为港台出版社合法出版，不是所谓的“禁书”，他在下单之前是经过认真审查。查扣书籍的行为没有事实和法律依据，严重侵犯了他的权利。</p>
-<p>袁裕来：“能上网的人没有会跑到实体书店去买书，淘宝的网上书店都是合法的经营，是非常平常的购书途径，买港台版的书也很正常，现在网上销售的和实体店是一样的。我买的书有两本圣经的读本，还有几本脱北者的故事，不涉及到中朝政府的交往，就算是被扣以后，淘宝、当当、京东、亚马逊也都能买到，其中有六本还在国家图书馆可以借阅。当时文化局带了民警、国保过来，没有任何证据能够证明里面是什么书，因为没有打开，我就跟他们交涉，不肯让他们拆分这个包裹，因为邮件不能随意打开，因为涉及到我个人的隐私，简单的来说侵犯了我的请通讯自由，再从通常的老百姓的角度来说是正常的工作、生活自由受到影响，让人感到挺可怕。”</p>
-<p>据了解，被查扣的书刊分别为《拥有七个名字的女孩》、《新旧约圣经轻松读》、《谁说民主不亡国》、《没有名字的人》、《流水何曾洗是非》、《无敌——林肯 不以任何人为敌人 创造了连政敌都同心效力的团队》、《在资本主义带来浩劫时聆听马克思》、《影响世界的圣经100大事件》、《我想活得像个人》、《天堂》、《蔡英文绕不绕得过中华民国》、《夜——纳粹集中营回忆录》、《执法所思》、《隐动力》。</p>
-<p>袁裕来认为，香港铜锣湾书店事件发生后，中国当局对出版自由的打压开始扩大化：“也跟香港铜锣湾书店里大批敏感的书进来有点关系，当时在办公室国保也说起有几千本几万本进来，铜锣湾书店的书进来当然要查，他的有些书不排除捕风捉影的，但是不要图扩大化，我跟执法人员也讲，没有理由的强行扣押是非常明显的扩大化。”</p>
-<p>而宁波江东区文广新局执法大队证实，该局为配合公安部门调查袁裕来涉嫌购买储存非法出版物一案，至于被查书籍是否属于非法出版物，还要等待专业鉴定结果。</p>
-<p>关注事件的武汉维权人士张毅接受本台采访时称：“你可能不跟民主沾边他不会找你，只要跟民主沾边那怕是平时看多一点关于民主方面的新闻，和别人多聊两句，他们就开始监控，事实上监控无时无刻不在的，只是他监控的紧和松的问题。有重点维稳监控对象，他们在每个居委会社会综合治理办公室专门有名单搞网格化管理，主要就是监控我们这些人的，觉醒的人越来越多，很多人表面上不说，但心里都知道是怎么回事。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%BE%8B%E5%B8%88%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D%E8%A2%AB%E6%89%A3%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">港台书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5/?category=18271" rel="tag">袁裕来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5%E8%B5%B7%E8%AF%89%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">袁裕来起诉政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%81%E8%A3%95%E6%9D%A5%E9%82%AE%E8%B4%AD%E6%B8%AF%E5%8F%B0%E4%B9%A6%E7%B1%8D/?category=18271" rel="tag">袁裕来邮购港台书籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%A4%E4%BC%9A%E8%83%BD%E4%B8%BA%E6%B0%91%E4%BC%97%E5%81%9A%E7%9A%84%E5%A5%BD%E4%BA%8B%E5%8F%AA%E5%89%A9%E4%B8%8B/" target="cdt-mirror">东网 | 赵思乐：“两会”能为民众做的好事只剩下“解散”</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-%E4%B8%8A%E5%8D%889.24.35.png?resize=574%2C407" alt="Screen Shot 2016-03-13 at 上午9.24.35" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.24.35.png?resize=300%2C213 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-13-at-上午9.24.35.png?w=574 574w" sizes="(max-width: 574px) 100vw, 574px" data-recalc-dims="1"><br><span>“两会”不再是“橡皮图章”，它成了另一台2016春晚，更有底气纯粹地政治宣传化。</span></p>
-<p>一年一度的“全国人民代表大会”和“全国政协委员大会”（下称“两会”）在开幕近一周后，终于出现了第一个引起公众注意的政策讨论：《慈善法（草案）》审议。</p>
-<p>审议开始后的24小时内就出现了两个新闻点，一是根据人大常委会副委员长李建国作的草案说明，媒体总结出了“个人帮非亲非故者网络募捐属非法”的大字标题；二是在分组讨论中，工商联代表提出该法为慈善组织设置的15%行政费上限过高。许多围观网友对这些新闻的反应已经简化到只有“呵呵”二字，对前者更多只晒不评，有人在转发时写上“不妄议”。</p>
-<p>对《慈善法（草案）》的分析已有很多，也并非本文旨在，但从网民对这个重磅法案的反应，民间对“两会”甚或体制的观感可见一斑——不认可、恐惧感和无力感消解一切严肃讨论的欲望，剩下的只有隐晦的嘲讽和自觉的沉默。</p>
-<p>在过去，每年多多少少都有自由派知识分子用“两会”内容点评法治／政策进步与否，而今年则纷纷意兴阑珊。</p>
-<p>想不阑珊都不行，前不久大V任志强才因微博言论被官媒连番严责，大部分民间意见领袖和异议分子都已被微博和微信销号禁言，之前发言颇为刺激有趣的律师浦志强更被法院以微博“辱骂”人大代表为由作出有罪判决。虽然普遍认为浦志强并非真因微博言论惹祸，而是被官方以欲加之罪“收拾”，但人人自危已成定局。</p>
-<p>恐惧是一方面，更决定性的是“无用”。尽管不少民间群体依然就着两会尝试推进自己的议题，比如维权律师和当事人家属联署促请人大调查“709案”，女权群体致信人大代表希望关注性骚扰和就业歧视议题，访民拦截人大代表车队等等，但他们的心态几乎已完全转变为“结机发声”，而非真的相信自己的议题能够通过两会上达并带来改革。甚至有民间人士明言两会上访就是为了增加地方维稳成本：“你不让我好过，我也不让你好过。”</p>
-<p>不能否认，每一年还是有极少代表在做着符合民间利益的提议，比如去年张抗抗建议废除收容教育，今年朱征夫要求警惕未审先判，但这些提议基本上只有石沉大海一种结局，敢言的朱征夫委员甚至让人担心他未来一年的际遇。</p>
-<p>2016又逢5年一度的人大换届选举，前几次都有不少民间人士兴致勃勃地参选基层人大代表（这是普通民众唯一可以直接参选的层级），而今年虽然民间仍有相关讨论和意向，但明显较以往淡静。</p>
-<p>一名曾在2011年以大学生身份参选并引发关注的青年坦言，自己仍在纠结是否再次参选，因为当选的希望固然一直很渺茫，但现在这一行动甚至在民间也不可能有多少关注和认可，而且即使当选也不知道对现实能有什么改变。</p>
-<p>如果说政治环境的再极权化——意识形态上升、全能领袖集权、警察恐怖管制——给民间带来的是虚无和沉默，那么给体制内和希望向体制靠拢的人带来的则是犬媚式或爪牙式的变异。为了自身的“上进”和安全，他们要么表达对党和领袖的忠诚爱慕越发殷切露骨，要么就举起大棒率先打击“敌人”以表忠心。</p>
-<p>“两会”更多是前一种变异的舞台。黑龙江龙电律师事务所主任李亚兰在上千人的两会上“审议”政府工作报告后发出文章，称自己“与我们伟大的习总书记一同审议”、“整晚都高兴得不能入睡”、与领导握手时“我激动不已，脱口而出说：‘总书记，人民律师拥护您！’”……此文被转发到维权律师群体，顿时一片“恶心”、“想吐”、“舔菊”之声，认为她没有资格代表律师。</p>
-<p>类似的情形还有，习近平来到青海代表团审议，代表毕生忠地对他说：“我们那里的老百姓把你喜欢得不得了！”在央视新闻中，“外来务工者代表”朱雪芹说：“我发觉总书记的白头发多了一点。”中国社会科学院学者孙宪忠在接受采访时称赞习近平：“他的亲和力，即是执政党稳健成熟的标志，也是大国领袖纵览全局，胸有成竹的体现。”</p>
-<p>到此时，“两会”已远非多年被诟病的“橡皮图章”可以概括，它成了另一台2016春晚，只是比春晚更没有娱乐群众的包袱，更有底气纯粹地政治宣传化。</p>
-<p>对于民众来说，“两会”用着他们的钱、以他们的名义、为他们的压迫者撑着“民主”的脸面、唱着赞歌，民众只能选择不听、不看、对以沉默，不小心看到了，只能尴尬地“呵呵”，或者小心翼翼、心惊胆战地冷嘲热讽。“两会”把民众置于如此可悲可笑的境地，如果问它还能为他们做什么好事，大概只有“解散”二字。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%A4%E4%BC%9A%E8%83%BD%E4%B8%BA%E6%B0%91%E4%BC%97%E5%81%9A%E7%9A%84%E5%A5%BD%E4%BA%8B%E5%8F%AA%E5%89%A9%E4%B8%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%8D%8F/?category=18271" rel="tag">政协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A9%A1%E7%9A%AE%E5%9B%BE%E7%AB%A0/?category=18271" rel="tag">橡皮图章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -581,7 +627,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -591,5 +637,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

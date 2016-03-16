@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5-%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99-%E6%88%91%E8%A2%AB%E7%82%B9%E4%BA%86%E5%90%8D/" target="cdt-mirror">【异闻观止】科技日报 | 莫名其妙 我被点了名</a>
+</h2>
+<p><p>“我说两句。”某委员拿过话筒，镜片后犀利的眼神锁在了默默坐在旁听席记录会议内容的我身上。<br>
+他往我这边一瞥，我瞬间明白了，他将要说什么。</p>
+<p>“有些媒体，比如你，科技日报的是吧，抓着一些负面问题不放。”此话一出，本来毫无存在感的我突然成了全场焦点，众多惊疑的眼光噼里啪啦砸在我身上。</p>
+<p>万万没想到，在政协会议已经进入尾声的时候，我成了他口中的“负面典型”。</p>
+<p>“涉及军工企业的，不能随便写。你要还想吃这碗饭，你就注意点。我已经记下了你的记者证号，小心相关部门把你抓起来！”这位被我的同事评价为“很有才华”的委员，瞪着我，撂下狠话。</p>
+<p>一切缘起于大概十五分钟之前，这位委员起身离席，我追出去，问了一个关于军工企业的问题。当时，他脸色一变，摆摆手，示意不想多谈。而当我尽力解释我的来意并非挖掘所谓的“黑历史”后，他闪身进了自己的房间（委员的房间和会场在同一层楼），并用力摔上了门。</p>
+<p>记者被拒绝乃是常事，我没有多想，回到会场，照常听会。只是不料，因为这个没得到答案甚至还没说清楚的提问，他会拿起话筒，直接向我“开火”。</p>
+<p>我觉得莫名其妙，又觉得这位委员误解了我找他的目的，起身辩解。确实，作为一名记者，在政协讨论会场上不该如此驳委员的面子；但当时一下忘了自己身在何处，只当他是一位平等的采访对象，急着向他重申自己的来意。“我不是这个意思。我就是想了解实际情况才来找您，如果您觉得有问题，待会能不能请您跟我详细聊聊？”</p>
+<p>委员还是用那种犀利的、含着火气的眼神瞪着我，头一偏,领导范十足地甩下一句：“我没有这个义务跟你谈！”</p>
+<p>我无奈，坐回位置；又后知后觉，感到自己不大礼貌，补充了一句：“好，还是谢谢委员。”</p>
+<p>不过，讨论结束后，我居然得到了好几名委员的贴心安慰，叫我不要将刚才的插曲放在心上。</p>
+<p>以这种方式刷了回存在感，还是蛮奇妙的。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5-%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99-%E6%88%91%E8%A2%AB%E7%82%B9%E4%BA%86%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%94%E5%91%98/?category=18271" rel="tag">委员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98/?category=18271" rel="tag">政协委员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E9%9D%A2%E5%85%B8%E5%9E%8B/?category=18271" rel="tag">负面典型</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/" target="cdt-mirror">苹果日报 | 又有记者“被失踪”！媒体人贾葭北京赴港时失联</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-16-at-%E4%B8%8A%E5%8D%889.10.03.png?resize=523%2C347" alt="Screen Shot 2016-03-16 at 上午9.10.03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-16-at-上午9.10.03.png?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-16-at-上午9.10.03.png?w=523 523w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"></p>
+<p>旅居香港的35岁中国知名媒体人贾葭（音同家），昨日下午从北京前往机场准备飞赴香港期间，失去联络，事件疑与新疆“无界新闻”日前发表的“促习近平辞职公开信”有关。</p>
+<p>据悉，贾葭于本月4日在网路上看到“促习近平辞职公开信”相关信息后，因其与新疆无界新闻执行总裁欧阳洪亮曾是旧同事，就将事情告知欧阳，并提醒他快点删除。欧阳在接受调查时，告知网监部门是从贾葭处得知。据悉，贾葭在陕西的亲戚在近日已被调查；而他在前来香港前，也曾告知朋友估计可能会被扣留调查。</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/431774/">博闻社 | 中共两会官媒“无界新闻”发布要求习近平辞职公开信</a></p></blockquote>
+<p>贾葭的香港朋友告诉香港《苹果日报》，称“不知道是在候机室、飞机上、还是到了香港被带走。”而身处北京的贾葭妻子表示，至今没有收到任何信息。贾葭至今已失踪超过24小时。贾妻指，贾葭最后一通电话是昨晚8时打的，当时他说自己已过了海关，准备上机，但她于8时15分致电他时，发现他已关机。原本预计贾葭于当晚11时30分左右到港，寄宿朋友家中，但一直没有出现。此外，今日原约了人在港共进午餐，也没露面，电话又一直不通。</p>
+<p>现年35岁的贾葭出生陕西西安，是专栏作家及知名媒体人，任多家媒体时事评论员。他是腾讯《大家》专栏作者及前主编，曾任职香港《阳光时务周刊》及《端传媒》政经评论部主编。他旅居香港多年，直到月前离职《端传媒》，赴广州中山大学任教研究。（大陆中心／综合报导）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">给习近平的公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%85%B4%E4%BA%8B%E4%BB%B6%E4%B9%8B%E7%97%9B-%E8%B0%81%E6%89%92%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%95%B4%E6%9C%BA%E4%BA%A7%E4%B8%9A%E7%9A%84%E7%9A%87%E5%B8%9D%E6%96%B0/" target="cdt-mirror">智谷趋势｜中兴事件之痛——谁扒掉了中国整机产业的皇帝新衣</a>
 </h2>
 <p><p>◎作者丨PrimeTime<br>
@@ -655,57 +693,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%86%B3%E5%AE%9A%E5%8E%BB%E5%8F%8C%E9%B8%AD%E5%B1%B1%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%BA%BA%E5%AE%B6%E6%8F%AD%E9%94%85%E7%9B%96/" target="cdt-mirror">【习总日记】 习总决定去双鸭山煤矿工人家揭锅盖</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，14）</p>
-<p>一</p>
-<p>两会期间发生了黑龙江省双鸭山市煤矿工人上街游行讨薪事件。起因是黑龙江王八蛋省长陆昊吹牛说黑龙江没有拖欠工人一分钱薪水。</p>
-<p>我在黑龙江的人立即汇报了原因，两个字，没钱。</p>
-<p>没钱就眼看着不管吗？不能。咱不是共产党吗？共产党不就是为人民服务的吗？别说工人上街游行请求我们管，就是不要我们管，我们也要管。</p>
-<p>我马上指示印钞厂加班加点，多印钱印好钱，把人民币印得漂漂亮亮的，带着油墨的芳香，尽量早日送到黑龙江煤矿工人手里。遵循把坏事变成好事，把丧事办成喜事的原则，我决定，两会之后马上去黑龙江双鸭山市煤矿工人家里访问。敲门要柔推门要轻，上炕嘘寒问暖，揭锅盖开冰箱的情节不可少，拉着大爷大妈的手，一起畅谈共产党好习大大亲，做个煤矿工人多幸福。</p>
-<p>二</p>
-<p>政令不出中南海不一定是坏事。</p>
-<p>有人担心我受蒙蔽被架空，其实这种担心是多余的。不过暴露了担心者的智商。通过我在各地的嫡系亲信，对全国各地形势了如指掌。譬如上海，我只信任三个人。此三人通过他们设伏在上海的眼线，向我汇报上海情报，我是相信的采纳的。其余人包括市委书记韩正，循正常途径向我递交的上海市情况汇报，我都留个心眼打个问号，生怕他们给我挖坑上眼药。</p>
-<p>三个人只透露一个，现任习办主任丁薛祥。</p>
-<p>三</p>
-<p>中兴通讯遭遇美国制裁，虽借口向伊朗提供禁运电子器件，但矛头直指我电子军工产品，直接涉及到我军力发展和科技发展。美帝国主义不声不响地又戳了我们一刀。</p>
-<p>四</p>
-<p>本届两会代表们比较乖，没有胡言乱语。也没再见成龙搂宋祖英脖子。</p>
-<p>这样很好，孩子听大人的话天经地义。两会代表都是党的孩子。小孩不懂事大人要管，小孩乱说话大人要骂，小孩闯祸大人要揍。</p>
-<p>五</p>
-<p>在中国领导人身高评选中，我被选为最高领导人。在担任总书记时间前后评选中，我被选为最后领导人。他们说接下来评选最胖领导人。我说我有事先走了。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/031416.jpg?resize=450%2C167" alt="031416" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/031416.jpg?resize=300%2C111 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/031416.jpg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E5%86%B3%E5%AE%9A%E5%8E%BB%E5%8F%8C%E9%B8%AD%E5%B1%B1%E7%85%A4%E7%9F%BF%E5%B7%A5%E4%BA%BA%E5%AE%B6%E6%8F%AD%E9%94%85%E7%9B%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E8%96%9B%E7%A5%A5/?category=18271" rel="tag">丁薛祥</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%98%E6%80%A1%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4%E4%B8%8B%E7%9A%84%E9%99%86%E6%98%8A%E9%97%A8/" target="cdt-mirror">刘怡：信息过滤下的“陆昊门”</a>
-</h2>
-<p><p><strong>陆昊作为黑龙江省的最高行政首长，竟会对当地国有大型煤炭企业集团的现状不做了解，归罪到下属的报告信息有误，确实很难向公众作出交待。</strong></p>
-<p>中国黑龙江省省长陆昊今年3月6日在全国“两会”黑龙江代表团开放日上，信誓旦旦跟媒体说，“龙煤井下职工8万人，到现在没有少发一个月工资，没有减一分收入”。但随后，网络媒体爆出黑龙江龙煤集团属下的双鸭山矿工上街游行，并且打出标语指责陆昊“睁眼说瞎话”。</p>
-<p>有媒体报道指，双鸭山矿业集团有近上万名矿工罢工，并从3月9日开始，连续四天上街游行示威，同时封堵铁路，到了12日，事件升级，有网络视频显示，黑龙江当局出动武装警察镇压，双方还发生冲突，网络传出消息指，有“矿工被打伤、被抓”。</p>
-<p>但是这个消息很快遭到封锁，相关信息没有出现在国内媒体上。到了13日，《人民日报》旗下的北京《京华时报》发消息指，陆昊接受该报采访时表示，“井下职工确实有欠薪的，这个事情，我说错了，不管什么层级报告错了，不管任何原因，错了，就是错了，错了就要改。改完了，就要解决问题。”</p>
-<p>无论“层级报告错误”的理由是否成立，但足以让舆论愕然。因为2015年，黑龙江、吉林和辽宁的名义GDP增长率分别为-0.29%、3.41%和0.26%，已近乎“硬着陆”。而陆昊作为黑龙江省的最高行政首长，竟然会对当地国有大型煤炭企业集团的现状不做了解，归罪到下属的报告信息有误，确实很难向公众作出交待。</p>
-<p>尤其，陆昊本人的履历十分耀眼，他原本是“两会”期间最受瞩目的政坛“绩优股”，2013年临危受命，“空降”黑龙江出任代省长时，46岁不到，后来就任省委副书记和省长。</p>
-<p>这一位曾经作为改革当中，“理论与实践结合”的楷模，究竟是谁蒙蔽了他？</p>
-<p>实际上，近期以来，媒体在采访基层干部当中，不乏听到“信息过滤”的词。记者不久前在采访发改委的一位普通处级干部的时候，他直言不讳，很多问题出现时，他们并非不清楚问题的根源在哪里，但是，什么信息要往上呈送，是一定要有选择的。他还坦承，最后领导看到的情况报告，通常都是过滤后的信息。这样做的原因不外有二：一不能让责任归口到自己头上，二不能让自己及相关利益单位承担责任。</p>
-<p>这样的情况最显见的体现，就在“两会”的记者会上。几乎所有公开的记者会，也几乎所有记者的问题都是事先要通报过受访人，最终最终获得提问机会的提问，就成了双方的一场问答秀。因此，无论是政协还是人大，从部长记者会到各省的媒体开放日，大部分的会议主持人都能从泱泱人群中，准确无误地点出提问媒体标准配置——新华社，中央电视台，人民日报的记者，而这些被称作“党媒”的媒体，也都无一例外的会予以配合，问一个可以尽量呈现这些受访对象政绩的问题。</p>
-<p>这中间甚至出现这样的令人错愕的场面：3月8日的河北团媒体开放日上，河北省长赵克志在点名提问媒体时，头也没有抬，看着他的手下给他的提示纸条，念说，下面请莫排某座的那位穿深色上衣的女记者提问，偏偏不巧的是，该名女记者进场后不久就脱下了深色外套，穿了白色上衣，在全场的瞩目下，问也不是，不问也不是。</p>
-<p>但是，河北省也是此次经济转型升级中，面临重重困难的省份，但从当天的河北省领导的口中，自身问题都不见了，代之而来的是发言是，发展需要寻求中央政府的各种政策扶持。</p>
-<p>对媒体来说，一方面觉得两会的“潜规则”越来越多，但是，一方面又不能放弃这个中国政治生活中，最集中的信息释放时间，不过，对新闻工作者来说，好在大路不通，还能另辟蹊径。然而，对官员而言，当信息过滤成了习惯时，“陆昊门”就只是一个开始。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%98%E6%80%A1%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4%E4%B8%8B%E7%9A%84%E9%99%86%E6%98%8A%E9%97%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4/?category=18271" rel="tag">信息过滤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">拖欠工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">维权事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -717,7 +704,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -727,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

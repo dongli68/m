@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,190 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%85%B4%E4%BA%8B%E4%BB%B6%E4%B9%8B%E7%97%9B-%E8%B0%81%E6%89%92%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%95%B4%E6%9C%BA%E4%BA%A7%E4%B8%9A%E7%9A%84%E7%9A%87%E5%B8%9D%E6%96%B0/" target="cdt-mirror">智谷趋势｜中兴事件之痛——谁扒掉了中国整机产业的皇帝新衣</a>
+</h2>
+<p><p>◎作者丨PrimeTime<br>
+◎来源丨水木社区（ID：newsmth_net）</p>
+<p>3月7日早上，一个朋友给笔者打电话：“中兴停牌你知道不？美国政府禁止中兴采购了”。此时笔者的注意力还集中在今年女生节新出的条幅上，不以为然的答道：”看到报道了，估计美国政府也就做做样子吧”。</p>
+<p>然而两天过后，事件发酵，先有中兴网友爆出，除了不允许采购芯片之外，美国供应商已经全面停止对中兴的技术支持：不再回复邮件，打电话过去，对方说，“你的邮件我就当没看到，电话以后也别打了，否则我会有麻烦。”</p>
+<p>接着，看到中兴宣布正在配合美国政府申请出口许可，虽然这种申请通常会被驳回。再后来，听说ARM这家英国公司，因为公司大部分研发放在美国，也被迫停止对中兴的支持和商务合作。如此种种，让笔者深吸一口凉气，<strong>看来这次美国玩儿真的了</strong>。</p>
+<p>对于这次事件的反应，有些人认为没什么大不了，努比亚没了高通，不是还有中兴微电子么，用自己的呗。有些人认为，最好全部禁运，此刻正是国产芯片的好机会。</p>
+<p>但笔者却认为，<strong>若美国政府的断货制裁持续过久，会带来中兴乃至整机产业的灭顶之灾。所谓皮之不存毛将焉附，对于国产芯片而言，若失去国产整机厂作应用支撑，又谈何发展机会</strong>。所以，目前当务之急是让美国政府尽快解除禁运，度过眼下难关，再图将来。</p>
+<p>虽然这些年，国内集成电路产业发展突飞猛进，自给率逐年提高。华为海思最新的麒麟芯片可以和高通骁龙820一比高下；龙芯积累了十多年，也终于可以和北斗卫星一起上天；随便拆开一个蓝牙音箱、机顶盒、冰箱洗衣机，里面的核心芯片已经大部分是国产品牌。</p>
+<p>但不可忽视的现状是，这些国产芯片的成功应用大多在消费类领域。<strong>在对稳定性和可靠性要求很高的通信、工业、医疗以及军事的大批量应用中，国产芯片距离国际一般水平差距较大。尤其是一些技术含量很高的关键器件：高速光通信接口、大规模FPGA、高速高精度ADC/DAC等领域，还完全依赖美国供应商。</strong></p>
+<p>进入二十一世纪第二个十年，西方国家遏制中国，限制高技术产品出口中国的瓦森纳协议依然生效。上述几种芯片是限制出口的重灾区。如果想看看中国这几个方向的真实水平，每年查查瓦森纳协议的更新就可以了。而现代相控阵雷达里面，他们都是必需品，只能通过”你懂的”渠道获得。每生产一台国产示波器，里面的ADC都需要美国政府的同意才能进口，同时要承诺不被转做军事用途。</p>
+<p>打开中兴、华为出产的基站，电路板上除了几颗数字基带芯片是自产的，通信链路上RF，PLL，ADC/DAC乃至外围测量电源电压的芯片都见不到国产供应商的身影。虽然整机厂通过自产基带芯片掌握核心算法，但是，却无法解决被国外芯片供应商“卡脖子”的问题。</p>
+<p>了解整机产业的人都知道，一台基站假如有100颗芯片，其中只要有1颗被禁运，整台基站就无法交付。就算找到团队重新设计，根据IC研发的固有规律，一颗芯片从设计、测试到量产至少要1年以上，高可靠性的工业级芯片需要时间更长。</p>
+<p>如果制裁持续1年，这期间中兴的所有产品全面断货，合同无法履行，完全没有收入，结果不言而喻。唇亡齿寒，就算国产ICer们一年后把芯片给中兴做出来，又有什么用呢？这一次，美国政府是捏住了中兴的脉门。</p>
+<p>诚然，这些年来中国电子整机行业水平突飞猛进。华为超越爱立信成为世界第一大通信设备公司。逼的其他几家公司只能不断合并，最后中兴得以挤进世界前四。联影、迈瑞等国产大型医疗器械的产品水平直逼GE、飞利浦等巨头。国产雷达完成主动相控阵的跨越式超越，052C/052D、歼16等高性能武器服役，其雷达制式和性能已经直逼美国，超越欧洲和俄罗斯。</p>
+<p>就在军迷们弹冠相庆，裤衩红的不能再红的时候，不能掩盖的事实是缺”芯”的命门其实一直掌握在美国人手中。</p>
+<p>纵览历史，中国电子整机产业的突破其实也是电子技术演进和世界分工变化的结果。电子设备的核心是算法、软件和硬件。算法和软件有其自身的特点，中国人依靠聪明和勤奋容易完成赶超。客户需要一个feature，华为可以连夜派工程师加班编写；都是4G基站，华为可以做到一键配置完成，而对手需要按照操作手册一步步完成。</p>
+<p>早年的华为靠这些逐步建立起市场优势。而硬件随着IC技术的发展，芯片集成的功能越来越多，实际上技术含量都集中到了芯片中。以前一块电路板上上百个元件，调试和良率都是门槛，而现在变成一两颗芯片。只要你能买到芯片，照着参考电路设计一下，八成能用。</p>
+<p>除了军用的高端芯片，华为中兴之流几乎可以买到世界上最先进的商用芯片。尽管有瓦森纳协议，但美国供应商们在巨大的利益诱惑面前，也在帮助我们想办法绕过限制。于是，买了一流的芯片，就有了一流的硬件，再加上勤奋铸就的软件和聪明凝聚的算法，打败懒惰的欧洲通信商们就是顺理成章的事情。</p>
+<p>于是中国成了世界工厂，有着世界上最大的半导体消费市场。<strong>但3月7日，美国政府的制裁来了，我们才发现，世界领先的整机产业实际上是建立在沙子一般的地基之上，皇帝的新衣被人扒的一干二净</strong>。</p>
+<p>互联网我们有BAT可以和facebook/google过过招，电子整机有华为中兴可以对抗思科爱立信，IT行业里面为什么独独集成电路，没有能跟美国抗衡的能力呢？</p>
+<p>这还要从IC设计产业的特点来说起。</p>
+<p>IC设计相对于互联网和整机设备，有两个重要特点，<strong>试错成本高和排错难度大。</strong>互联网做一个app，可以一天出一个版本，有些bug没关系，第2天就可以修复，试错和修改的成本几乎为零。整机硬件的电路板设计周期在1天到1个月之间，生产周期在3天到2周之间，出了错重新投板费用在几百到几千之间，最多数万块钱。</p>
+<p>而IC设计，不算架构设计，从电路设计开始，到投片，最少要半年时间。投片送到工厂加工生产，一般要2个月到3个月。最重要的是一次投片的费用最少也要数十万元，先进工艺高达一千万到几千万。</p>
+<p>如此高的试错和时间成本对一次成功率的要求极高，不得不把流程拖长，反复验证，需要多个工种密切配合，团队中一个人出错，3个月后回来的芯片可能就是一块儿石头。修改一轮，又三个月出去了。</p>
+<p>与试错成本高并存的是排错难度大。互联网编个软件，调试起来几乎可以在程序任意地方设断点，查看变量当时的状态或者打出log。硬件电路板上，几乎任何一根信号线可以拉到示波器上看波形。</p>
+<p>而一颗手指甲盖大小的芯片，里面有上亿个晶体管，而最终能在电路板上测量到的信号线却只有十几根到几百根。如何根据这少得可怜的信息，推理出哪个晶体管设计错误，难度不言而喻。</p>
+<p>两大特点导致对IC从业人员的素质要求极高，试错周期长需要逻辑严谨细致的工作态度，排错难度大需要一套科学的实验方法。<strong>而这两方面，恰恰是国内教育的软肋。过分重视知识的记忆，而忽略逻辑和方法。</strong></p>
+<p>所以当软件工程师们靠自己的聪明和勤奋，不断快速迭代的时候，ICer们却经常遇到猪队友的困惑，导致原地打转。加班已经不能再多，却还是一次次的delay，上市时间依然落后。更有很多bug无法找到原因，反复投片实验也无结果，最后只能以项目失败收场。</p>
+<p>高难度的产业背后蕴藏的是巨大的利益和商业价值。集成电路被誉为电子工业的粮食，除了对国家和行业安全有着巨大的意义，利润率也随着技术含量水涨船高。</p>
+<p>芯片本身的材料是二氧化硅，成本极低，上面凝聚的技术就决定了利润。消费类芯片产品一般毛利率在30%~40%，工业用产品一般能在50%~60%以上，更有甚者，以高性能模拟芯片为主的美国Linear公司，平均毛利率能达到90%！</p>
+<p>很多我们无法设计的芯片，例如高端交换芯片，毛利率都在99%以上。一旦中美开战，即便没有禁运，美国政府利用行政手段把自己电子武器的批量成本压到我们的1/10是分分钟的事情，细思极恐。</p>
+<h3><strong>尝试突破</strong></h3>
+<p> <br>
+我们一直努力，从未放弃。</p>
+<p><strong>1. 高校。</strong></p>
+<p>有些高性能关键器件芯片规模不大，看起来挺适合高校来作为突破的主力军。但多年下来，业内公认是高校的水平不如工业界。</p>
+<p>这不是中国特有的，美国也这样。这和前述集成电路产业的特点密切相关。高校的优势是出新idea，对于算法这类领域挺合适，仿真实验看到结果快且准，仿出来有效果基本实际就会有效，顶多实现复杂度太高。</p>
+<p>芯片试错成本高，流程长，参与协作的工种多，任何一个环节出问题，就看不到好结果。能把一个芯片做成业界普遍水平，不掉坑里，就已经不容易，需要多年积累。</p>
+<p>学生们积累少，纵有好的idea，往往躲不过路上无数的暗坑，还没看到idea的效果，就死在半路了。学校的特长是做更前沿的研究，适合弯道超车。而集成电路恰恰不好弯道超车，尤其是模拟芯片，你不解决100MHz的问题，到200MHz的时候那些问题还在。</p>
+<p><strong>2. 仿制、抄袭。</strong></p>
+<p>军迷们引以为自豪的山寨能力，就是看美军有什么，我们就抄一个。集成电路也可以抄，学名反向设计。虽然芯片很小，电路密度极大，但仍然可以通过显微、照相等方式获得他的全部版图信息，然后复制一份，送到工厂生产，似乎看起来就可以得到一模一样的产品了。</p>
+<p>其实不然，版图相当于软件编译后的机器代码，可读性很差，无法了解其原理和架构。而版图提取本身存在物理误差和人为错误，尤其对于高性能的模拟混合信号芯片，对工艺又非常敏感，稍有不一致都可能导致芯片性能和良率的巨大差异。</p>
+<p>而此时设计人员无法了解原理，定位错误犹如一个盲人在大海里捞针。军工研究所普遍采用这种方法，每次反向犹如一场赌博，有时候做出来OK最好，一旦出现问题，基本束手无策。所以多年下来，除了电路比较简单的射频和功放芯片，上述高性能PLL，ADC等关键器件反向成功，能量产装备的例子寥寥无几。</p>
+<p><strong>3.科研项目。</strong></p>
+<p>国家近十几年来，一直通过863/973/核高基等国家级科研计划对关键器件进行支持，投入巨大。后期也要求工业界和整机厂加入，以解决应用脱节的问题。</p>
+<p>但这些年下来，真正能量产并转化为实际产品的成果寥寥。究其原因，一个是目标脱节。</p>
+<p>IC界有个说法，实验室测试通过只是迈出了一小步，到量产还有巨大的工作量。科研项目只需要在评审的时候能够提供几颗样片，演示出所需性能即可拿到尾款。而工业级应用需要在各种温度和环境变化条件下保持性能稳定，以及解决批量生产的良率问题。</p>
+<p>如何保证量产是需要从设计一开始就考虑的，有些科研单位选择的架构本身就决定了成果只能交差，而不能量产。</p>
+<p>二是指标脱节。科研项目的立项单位不考虑国内实际水平，盲目追赶世界领先水平。不管上一周期的项目是否完成，今年的指标一定要更近一步。申请单位恶意竞争，不考虑自身实力，申请时竞报指标，谁提的指标高谁拿到项目，才不管2年以后如何交差。这样的制度下，本来按照已有技术积累，做100MHz还能量产，指标竞价完成后目标变成500MHz，最后谁都搞不定。</p>
+<p><strong>4.人才引进。</strong></p>
+<p>2000年前后，国家利用人才政策吸引海外留学人员归国创业。这期间有陈大同、武平回来创立了展讯，魏述然回来创立了锐迪科等一批国产IC设计公司。</p>
+<p>这批公司一开始也许有想做工业级产品、关键器件的雄心，但很快发现产业环境不合适，中国整机还没有强大到今天华为中兴的地位，市场容量小，技术可靠性要求高，design-in周期长，所以这批中成功活下来的这批企业都是靠消费类市场和08年附近一波中国山寨手机热潮完成了原始积累，进入良性循环。然而对于引入工业级、关键器件的人才就没有那么一帆风顺。</p>
+<p>首先合适的人选就非常少。例如在美国，由于瓦森纳协议的限制，华人无法进入ADI/TI等公司最核心的ADC产品研发部门，即使在他们设立在中国的研发中心，大陆工程师可以通过网络看到绝大部分母公司的设计，但高性能的ADC产品除外。这简直是90年代气象局被玻璃房子锁住超级计算机的另一个翻版。</p>
+<p>2009年从美国ADI公司回来了一位李博士，通过非法手段带回了高性能DAC产品的版图，一下子提高了国产DAC产品的性能指标。但2013年事件被曝光，遭到ADI和美国政府的抗议。</p>
+<p>李事件导致美国政府对华人参与关键器件研发的控制更加严格，并对往来中国的留学生进行更严格的审查，相继查出Vanchip剽窃RFMD事件和天大教授张浩被FBI诱捕事件，不论是真是假，对海外留学生归国从事关键器件研发造成了心里阴影，很多人为了保住往来美国的人身自由，放弃参与国内高性能的关键器件研发工作的机会。</p>
+<p>于此同时，在国际市场上，华为中兴需要遵守国际知识产权的游戏规则，李的方法和产品无法被正规整机厂采用，实际上并没有解决工业界的问题。相反华为中兴对引入国产供应商在知识产权上更加担心，要求国产厂家自证清白，有的甚至到了要求国产供应商的创始人不能有ADI/TI履历的夸张地步，进一步导致国产替代进度的严重落后。</p>
+<p>最后，在没有知识产权问题的军用领域，由于受2013年被曝光的影响，到目前还没有看到李博士的产品被装备使用，甚是可惜。</p>
+<p><strong>5.整机厂自己努力。</strong></p>
+<p>国内真正算在高性能关键器件领域有所突破的应该只有华为旗下的海思了。</p>
+<p>海思因为有华为不计成本的投入，麒麟的成就众所周知，在高速光通信及交换芯片上也有突破，已经在慢慢从低端蚕食broadcom等多年来构筑的技术壁垒。</p>
+<p>但之前任总的一篇讲话中，给海思的定位是备胎，任总要求华为一定要用最好的器件给客户提供最好的性能，海思做不到性能最优就不采用。</p>
+<p>实际上这个思路，笔者觉得是有问题的。</p>
+<p>芯片行业有个特点，很多问题在实验室是测不出来的，必须在大规模应用的时候才能发现、改进和提高。如果一看指标不好就不用，那永远没有机会发现问题，那这个备胎永远是个纸糊的，一上路就碎。实际上，正是华为终端部门被要求捏着鼻子也要用K3V2，才成就了今天的麒麟。</p>
+<p><strong>国家层面</strong>也看到了上述问题，2013年9月国务院副总理马凯调研集成电路产业，随后国家出台了新的集成电路产业振兴规划。改为成立产业基金，通过股权投资的方式对集成电路企业进行帮助。</p>
+<p>同时以紫光为首的国内民营资本结合政府基金，开始了国际市场上的疯狂扫货。展讯、RDA、OmniVision等企业纷纷被收归旗下。</p>
+<p>但时光转到2015年，紫光和大基金系的扫货开始遇到障碍，收购美光，西数，试图以此突破nandflash产业遇挫，华润报价Farchild被拒。连飞利浦照明业务的收购也因为美国政府担心功率半导体技术外泄而终止。</p>
+<p>回过头来看，除了展讯这类本来就是国内公司、OmniVision本来就是华人公司，国家通过收购的方式并未采购到货真价实的核心技术，更不要说可以有军事用途的射频、ADC等关键器件技术，可以断定美国人是不可能卖的。</p>
+<h3><strong>如何破局</strong></h3>
+<p> <br>
+对于突破集成电路高性能关键器件，笔者认为有三个因素：<strong>有足够的资金支持，有整机厂的通力合作和有耐心的团队</strong>。</p>
+<p>资金怎么解决，“十八大”要求让市场在资源配置中起决定性作用。芯片研发是高投入高风险，最后运气好才有高产出。现在政府通过大基金的方式来决定资源分配，并不一定总能选中最后的胜利者，而且有国有资产保值增值的压力，道德风险，都会让其投资行为走形。另外，国资的大规模投入还会造成挤出效应，减少民营资本在产业中的投入量。</p>
+<p><strong>笔者认为最好的方式还是吸引民间资本</strong>。民间资本只要有足够大的市场，足够大的利润，他就会心动。而一开始团队技术水平跟先进水平有差距，无法参与全球竞争，可以攫取的市场规模必然没有那么大。</p>
+<p>这个时候应该是国家出马，通过补贴和奖励整机厂商的方式，在不损害整机厂家成本竞争力的前提下，在初期允许国产芯片商卖一个高价，获得超额利润，弥补巨额研发的投入，吸引民间资本进入。</p>
+<p>后期，根据芯片累计装备的数量，逐步减少补贴，最后达到市场定价，进入国际市场参与竞争。这种政策好处是钱肯定都花到有竞争力的市场主体中，谁最后装备，谁做的东西能用，就补贴谁。当然要注意防范骗补的问题。</p>
+<p>至于研发风险和选择错误风险，让民间资本来去承担。民资花自己的钱，自然会慎重选择团队，即使研发失败，也能坦然接受。这样一份国家补贴，可以吸引多份民间投资，只要其中一份儿成功量产，国家就赚到了。</p>
+<p><strong>当然所有的前提是我们还有一个强大的，有国际竞争力的整机产业</strong>。只有他们，才有动力去试用还在襁褓中的国产IC。笔者在推广国产IC的过程中，最感动的就是这群整机厂家的技术人员，不需要任何的利益驱动，他们是发自内心的愿意去帮助国产IC，有时上司都允许放弃了，他们还加班加点帮助国产供应商查找问题。</p>
+<p>塞翁失马，焉知非福。也许多年后回过头来看，这次中兴事件对国产IC产业是个转折点。但不管怎样，当下真心希望他能度过难关。</p>
+<p><strong>延伸阅读</strong></p>
+<p><strong>中兴为什么会被制裁？</strong></p>
+<p>这得从四年前的一笔旧账算起。</p>
+<p>从2011年开始，美国政府就以安全等理由，多次对中兴、华为等中国通信企业设限，并对中国通信企业的国际贸易行为持续进行调查，一度导致其部分业务受到较大干扰和冲击。</p>
+<p>在市场看来，美方此次发布限令，有“重翻旧账”的意思。事实上，从2012年起，中兴就因与第三国运营商一项数百万美元的既有电信设备合同受到美国相关部门调查，中兴通讯明确表示已经中止相关业务，但美方一直持续调查至今，并最终实施出口限令。</p>
+<p>为什么美国政府在此时再次提高了对中国产业的制裁调门?</p>
+<p>有业内人士认为，更深层次的原因，可能还在于中国科技领域这几年的不断“脱美”。上述业内人士指出，“棱镜门”之后，中国出于切实的安全问题，推动了一轮去IOE(在IT建设过程中，去除IBM小型机、Oracle数据库及EMC存储设备)的行动，这影响到了部分美国公司的在华利益;但这并不是最主要的，更大的影响在于，美国也可能会逐步失去对全球信息产业链的统治权。</p>
+<p>去年，中美两国间的科技贸易紧张局势不断加剧。在一些美国供应商拒不公开源代码的情况下，中国政府还曾一度威胁将禁止这些公司在华开展业务。奥巴马政府对此表示了强烈抗议。</p>
+<p>华为、中兴作为中国目前技术含量最高的信息产业排头兵，其实也已经多次被美国政府拒之门外，其中就包括2011年双方投标赢得美国第三大电信设备商Sprint超级大单之后，被以国家安全为由扫地出门。</p>
+<p>同样，走出国门的紫光股份、联想集团等也没少被阻挠。不久前，紫光收购美国技术已经比较落后的硬盘厂商西部数据的并购合同也因需要履行美国外资投资委员会(CFIUS)的审查程序而被取消。</p>
+<p>根据纽约时报的报道：</p>
+<blockquote><p>美国商务部在周一发表声明称，该部发现这家生产智能手机的公司，向伊朗销售了美国制造的商品，这违反了美国针对伊朗的制裁。因此将禁止中兴从美国企业采购任何技术，除非该企业持有专门的许可证。</p>
+<p>商务部表示，中兴计划“违反美国的出口法规，私自向伊朗再出口管控物品”。美国针对伊朗的制裁，旨在限制伊朗发展核武器，不过其中有不少制裁措施已经在近期取消。</p>
+<p>针对中兴通讯采取的出口控制并不多见，因为美国很少对这样的大型企业采取此类措施。这一举动突显出，美国多么重视通过施压，来促使中国配合旨在遏制核武器扩散的贸易禁令。</p>
+<p>美国最近的审查行动，也让一些中国公司对美国科技企业的投资成为泡影。中兴在中国国内有一个规模比它大得多的竞争对手——华为。这家公司已被禁止在美国出售其电信网络设备。</p>
+<p>尽管分析人士表示，针对中兴的出口控制可能主要是为遏制核武器扩散，而非进一步刺激本就紧张的中美技术贸易关系，但目前尚不明确中国会如何解读美国的这一举措。</p>
+<p>“这取决于双方如何解读它，有可能会被看作一个特例，也有可能被激化和扩大，”非营利研究组织国际战略研究中心(Center for Strategic and International Studies)学者甘思德(Scott Kennedy)说。</p>
+<p>在美国商务部发出声明之前，中兴的股票已于周一暂停交易。出口控制的消息最早是由路透社报道的。记者未能及时联系到中兴置评。</p>
+<p>在周一的声明中，美国商务部公布了两份中兴的内部文件，用以佐证该部对中兴提出的违反制裁的指控。其中之一是2011年的一份文件，该文件有多位中兴高管签字，文中讨论了美国实施出口控制的风险，并提到“目前我司在伊朗、苏丹、朝鲜、叙利亚、古巴五大禁运国都有在执行的项目”。它还表示，伊朗的项目是“风险最大”的一个。</p>
+<p>在另一份文件中，中兴用一个复杂的流程图，拟定了规避美国出口控制的办法，包括采用一个“空壳”公司的结构。</p>
+<p>美国新实施的出口控制，可能会让中兴比较难做生意。尽管该公司出售自有品牌的智能手机和电信基础设备，但它也会从美国技术企业采购部件，比如在它的某些手机中采用高通的芯片。考虑到电子行业供应链和特殊设备大规模生产的复杂性，它可能会让中兴在调整设计和为其产品采购部件时，付出不小的代价。</p>
+<p>研究公司荣鼎咨询(Rhodium Group)合伙人荣大聂(Daniel H. Rosen)表示，考虑到中兴的行为，要避免出现目前的状况，需要中美之间“建立起非同寻常的信任”。</p>
+<p>“这点似乎不太可能实现，”他说。</p></blockquote>
+<p>针对此事，中兴的回应是：</p>
+<blockquote><p>证券代码（A/H）：000063/763 证券简称（A/H）： 中兴通讯公告编号：201616</p>
+<p>中兴通讯股份有限公司</p>
+<p>关于重大事项进展公告</p>
+<p>本公司及董事会全体成员保证公告内容的真实、准确和完整，不存在虚假记载、误导性陈述或者重大遗漏。</p>
+<p>中兴通讯股份有限公司（以下简称“中兴通讯”或“本公司”）获知美国商务部工业与安全局（BIS）已于2016年3月7日决定将本公司以及ZTE Kangxun Telecommunications Ltd.（深圳市中兴康讯电子有限公司）、ZTE Parsian（中兴伊朗有限公司）、Beijing 8-Star International Co.（北京八星有限公司）加入实体名单（“决定”）。根据该决定，自2016年3月8日起，美国出口管制条例（Export Administration Regulations）下的产品供应商须申请出口许可才可以向本公司及前述另外三家公司供应该等产品，并实行否决性假设的许可审查政策。</p>
+<p>截至本公告之日，本公司一直并将持续积极配合美国相关政府部门调查，并积极与美国相关政府部门沟通以寻求解决方案。</p>
+<p>与此同时，本公司正就该决定项下的限制措施对本集团的业务和经营的潜在影响进行全面的评估。鉴于前述评估工作仍在进行当中，且本公司与美国政府相关部门沟通以寻求解决方案的结果仍存在不确定性，为保证公平信息披露，维护投资者利益，避免造成本公司股价异常波动，经本公司申请，本公司股票将继续停牌。</p>
+<p>停牌期间，本公司将根据事项进展情况及时履行信息披露义务。敬请广大投资者关注公司的后续公告，注意投资风险。</p>
+<p>特此公告</p>
+<p>中兴通讯股份有限公司董事会</p>
+<p>2016年3月9日</p>
+</blockquote>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%85%B4%E4%BA%8B%E4%BB%B6%E4%B9%8B%E7%97%9B-%E8%B0%81%E6%89%92%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%95%B4%E6%9C%BA%E4%BA%A7%E4%B8%9A%E7%9A%84%E7%9A%87%E5%B8%9D%E6%96%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B4%E5%81%9C%E7%89%8C/?category=18271" rel="tag">中兴停牌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%BA/?category=18271" rel="tag">华为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BA%A7/?category=18271" rel="tag">国产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91/?category=18271" rel="tag">自主研发</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6%E9%A3%99%E5%8D%8710%E5%80%8D/" target="cdt-mirror">自由亚洲｜中国劳工维权事件飙升10倍</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg" rel="attachment wp-att-431874"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg?resize=585%2C328" alt="东北黑龙江省国企龙煤集团数千名矿工星期六走上街头示威，抗议龙煤集团拖欠了好几个月薪水，导致生活困难。（微博图片）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg?w=595 595w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>东北黑龙江省国企龙煤集团数千名矿工星期六走上街头示威，抗议龙煤集团拖欠了好几个月薪水，导致生活困难。（微博图片）</p></div>
+<p>近年来，中国各地罢工事件不断飙升，与此同时，协助劳工维权的民间组织也不断受到打压。美国《商业内幕》网站3月14日报道说，有数据显示，近年中国各地罢工维权事件飙升了10倍。报道认为劳资纠纷引发抗议的频繁程度令人震惊。</p>
+<p>黑龙江双鸭山数万矿工集体抗议事件，再令中国不断发生的劳资纠纷问题成为外界关注的焦点。美国《商业内幕》网站3月14日刊登文章称，中国的劳资纠纷正在大幅增加。该文引述位于香港的《中国劳工通讯》的统计数字称，中国大陆2014年发生了1300多起罢工抗议事件，相比2011年的185起多出了数倍，但2015年，罢工更增到2944起，几年内飙升10倍。文章认为，即便将现在报道和数据统计更为便捷的原因考虑在内，劳资纠纷引发抗议的频繁程度，仍然令人震惊。</p>
+<p>对此，中国人权观察副理事长潘露接受本台采访时称，造成罢工激增的原因之一，是工人们感到被企业剥削和被政府抛弃。随着自身权利意识的觉醒，中国亿万工人站到了抗议运动的最前沿。他说：</p>
+<p>“双鸭山事件是因为国企没有解决好问题，因为国企的效率可能是最低的，双鸭山的矿工及家属高达30万走上街头。这么大规模的街头群体事件在这个政权67周年以来是非常难见的。充满谎言和闹剧的政治体制，没有人敢讲真话的政治体制，你在这样一个文明的社会能走多远呢？所以双鸭山是一个信号，如果当局再不重视和底层沟通，也许他们的日子会越来越难过。所以我也希望更多的朋友站出来领导工会运动。但我有一个朋友刘少明领导工会运动被以煽颠罪刑拘，在这种情况下共产党做的最大的蠢事就是他自掘坟墓，他把所有的社会的良性力量全部扳倒、收监，剩下来的就是直接面对暴民。”</p>
+<p>据中国官方统计，自上世纪80年代以来，大约有1亿6千8百万的劳动人口从农村进入城镇务工。这些被称作〝农民工〞的劳动者，为中国的工业化和城市化，特别是出口加工经济的发展做出了巨大贡献，却要受到血汗工厂低工资、恶劣的工作环境以及超负荷劳动的盘剥。此外，因为受到中国户籍制度的约束，他们也无法享有城镇居民身份、以及相当的子女教育、政府公共服务和福利保障等最基本的生存权利。</p>
+<p>关注劳工维权机构被打压的“权利运动”总干事甄江华告诉本台，在维权过程中，工人们最大的困难，并不是来自于企业，而是当局的打压。由于中国当局戒备任何可能威胁他们权力掌控的民间活动，因此还对为工人提供援助的民间劳工维权运动组织进行打压。他说：</p>
+<p>“我们权利运动现在偏重于关心广东劳工维权案件，从去年到今年的一些案件来看我们能陆陆续续的了解到中国当局还是有强压的态势。我们也希望民间能不能发动一些倡导性行动把这个声音扩大一点。”</p>
+<p>英国《金融时报》3月14日发表文章分析认为，尽管今年2月中国人力资源社会保障部部长尹蔚民曾透露，为化解过剩产能，将下岗数百万人，但不会出现上世纪90年代的下岗潮。可随着中国去产能政策的落地，行业的低迷已开始影响民众生活。工资发放延期、拖欠社保等问题时有发生。而双鸭山矿工讨薪，可能仅仅是这些问题的冰山一角。</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6%E9%A3%99%E5%8D%8710%E5%80%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">劳工权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E8%B5%84%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">劳资纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">国有企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">罢工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">警民冲突</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%83%E5%9C%A8%E7%94%A8-%E4%BA%91%E5%9C%A8%E7%9C%8B-%E5%98%B4%E5%B7%B4%E8%AF%B4-%E7%AC%91%E7%9D%80%E7%9C%8B/" target="cdt-mirror">【网络民议】权在用 云在看 嘴巴说 笑着看</a>
+</h2>
+<p><p><strong><a href="http://%E6%9D%8E%E5%85%8B%E5%BC%BA%EF%BC%9A%E2%80%9C%E6%9D%83%E5%9C%A8%E7%94%A8%E3%80%81%E4%BA%91%E5%9C%A8%E7%9C%8B%E2%80%9D%20%E8%A1%8C%E4%BD%BF%E6%9D%83%E5%8A%9B%E4%B8%8D%E8%83%BD%E6%89%93%E5%B0%8F%E7%AE%97%E7%9B%98/" target="_blank">新华网｜李克强：“权在用、云在看” 行使权力不能打小算</a></strong></p>
+<blockquote><p>【中央人民广播电台、央广网记者】谢谢主持人。总理您好。您刚才谈到简政放权时谈到了政务公开，大家对政务公开也是有越来越高的期待，每年依法申请公开信息的数量也在逐渐增多。但是一些地方和部门不够“给力”，发布消息相对滞后，大家心里有些着急，有些意见。请问总理您怎么看？谢谢。</p>
+<p>【李克强】政务公开和简政放权可以说都是推进政府职能转变的关键，中央也明确要求，要推进政务公开，我们还要在若干方面进行努力。首先，该公开的应该全部公开。公开是惯例，不公开是例外。尤其是涉及到公众利益的措施，财政预算收支情况等，都应该加大公开的力度，让群众像扫二维码一样清清楚楚、一览无余。</p>
+<p>第二，能上网的要尽可能上网。政府的权力清单要上网，权力的运行也要上网，要留下痕迹，这样可以减少自由裁量的空间。人们不是常说“人在做、天在看”吗？现在是云计算的时代，我们要让“权在用、云在看”。行使权力不能打小算盘。<br>
+[…]政务公开实质上也是要让政府的权力受到监督，这样也有利于政府提高效率，而且从制度上来避免滥用权力。我们欢迎社会各界，包括媒体朋友们的监督。谢谢。</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg" rel="attachment wp-att-431866"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg?resize=490%2C367" alt="44f79263g82c38fee6a66&690" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg?w=490 490w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"></a><br><span>（图片来源：<a href="http://blog.sina.com.cn/s/blog_44f792630100h7l0.html" target="_blank">逗似个蚂蚁@新浪博客</a>）</span></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/3567574162" target="_blank">@白浪1976</a>：一本正经<img title="[鼓掌]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">，爱信不信<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p>
+<p>@Alex愛米蘭：嗯，人在做，天在看，迟早报应会来</p>
+<p>@MF_面面瘫超有爱：可是……你看到一个二维码能知道这个二维码是干嘛的么……</p>
+<p><strong>@安瑞文：二维码啊，明摆在那里但是人眼并不能看懂的意思？</strong></p>
+<p><a href="http://weibo.com/figotsang" target="_blank">@FigoTsang</a>：描二维码会中毒的<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><strong>@朝溪绿隐：请党放心！云计算也姓党了。</strong></p>
+<p><strong>@王积薪：老天姓党，请您检阅。</strong></p>
+<p>@STDnerd：“天”也只敢看不敢说</p>
+<p>@墨墨墨墨晓：老天爷姓党，所以看着没事</p>
+<p>@太阳晒出来了：他的上司说过，党就是天</p>
+<p>@客非观：天子在看，天子代天已敲打。</p>
+<blockquote><p>@TOM猫也爱看电影：图片评论<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg" rel="attachment wp-att-431856"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?resize=400%2C250" alt="62763348gw1f1yl1p5vgwj20k00cidhe" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
+<p>@郑同学uh-huh：跟云计算有毛关系啊 云计算参与不了你们政治</p>
+<p><a href="http://weibo.com/5826171338" target="_blank">@在芬兰的生活</a>：想公开就公开，公开不公开全是我说算。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/justingun" target="_blank">@再也不做潑冷水大王</a>：<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png?resize=20%2C20" alt="" px data-recalc-dims="1">说得和新闻联播一样好听，实际呢，言论都不自由</p>
+<p>@山东吕哥：让媒体恢复独立自由，民众才能监督到权力。不然，只能“听其言”，无法“观其行”。</p>
+<p>@小小毒害：至于你们信不信，反正我是不信！从来就没有什么救世主，好的制度才是根本！把希望寄托在某些人身上是不现实的，也是没用的。</p>
+<p><strong><a href="http://weibo.com/1892752837" target="_blank">@EDISON李鲸鱼</a>：嘴巴说 笑着看 <img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></strong></p>
+<p><a href="http://weibo.com/5573150164" target="_blank">@蕭燊恪</a>：看謊言還能編到啥時候<img title="[太阳]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif" alt="[太阳]" data-recalc-dims="1"></p>
+<p>@三森铃子的老公：人在评论，网信办在看。</p>
+<p>@锋峦香丘：天在看，这是封建思想的表现，马克思主义没有天。</p>
+<p>@璣翺鐘錚：目前的情况就是这样，政务可以公开，作秀可以公开，但是财产不公开，国籍不公开。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%83%E5%9C%A8%E7%94%A8-%E4%BA%91%E5%9C%A8%E7%9C%8B-%E5%98%B4%E5%B7%B4%E8%AF%B4-%E7%AC%91%E7%9D%80%E7%9C%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%85%AC%E5%BC%80%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">官员公开财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/?category=18271" rel="tag">政府信息公开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">舆论监督</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-3-15-%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/" target="cdt-mirror">歪理邪说 | 3.15 今天我被一家公司投诉了</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A6.png?resize=600%2C334" alt="百度" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度.png?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
@@ -70,7 +251,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/315/?category=18271" rel="tag">315</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%B5%E5%88%B6%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">抵制百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/?category=18271" rel="tag">百度贴吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%8D%E7%82%AC/?category=18271" rel="tag">霍炬</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/" target="cdt-mirror">歪理邪说｜3.15，今天我被一家公司投诉了</a>
 </h2>
@@ -525,97 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E6%AC%A0%E5%B7%A5%E4%BA%BA%E4%B8%80%E5%88%86%E9%92%B1/" target="cdt-mirror">【图说天朝】“不欠工人一分钱”</a>
-</h2>
-<p><p>黑龙江双鸭山市数万名声称半年来没有工资只有生活补贴的煤矿工人及其家属据报道接连数日游行示威，堵塞铁路，指责黑龙江省长在两会上声称“不欠工人一分钱”，公然撒谎。当局派遣数千警察镇压，一些人受到殴打，若干示威者抓捕。黑龙江省长陆昊星期六在北京召开紧急会议，承认拖欠工资，造成不少职工生活困难，不过声称是下面重要信息报告不真实。</p>
-<p>被视为中国政坛未来领导人之一的48岁的黑龙江省委副书记、省长陆昊3月6日在人大和政协两会开放讨论政府工作报告时表示，在产能调整关闭煤矿过程中，工人妥善安置，“至今没欠工人一分钱”。</p>
-<p>陆昊的言论传开后，黑龙江最大国企、龙煤矿业集团旗下双鸭山市双鸭山矿业集团多个矿区的数以千计矿工及家属3月9日起连续数天陆续发起示威，抗议拖欠工资。他们说，被拖欠工资最长已达半年。星期六上午，八大矿区的数万人走上街头，在市内多处地点游行、集会，并包围集团总部抗议，铁路线也被阻断。</p>
-<p>网络视频和图片显示，示威者手持“我们要活着，我们要吃饭”、“共产党还我们钱”、“陆昊睁眼说瞎话”等横额，高呼“打倒贪污犯”、“省长太过分”等口号。当局急调数千名特警和防暴队进入矿区戒备，四处拦截，双方一度发生激烈冲突，多名示威者被打伤，据说至少4人被捕。有人在网上发帖说，政府出动了警车镇压。</p>
-<p>美国之音记者星期天联系双鸭山市政府和火车站附近的十多家商家，多数都不肯回答记者的询问。一位女士对美国之音记者说，星期天仍然有数以千计的矿工和家属上街抗议，但人数比星期六有所减少。网友星期天传给美国之音的图片显示，现场大批警察和武警在示威现场戒备，有人被打伤后被民众抬走。</p>
-<p>龙煤矿业集团由黑龙江省国资委出资组建，共有员工近25万，旗下的双鸭山矿业集团有工人6万。一些工人说，煤矿从2014年开始拖欠工资，至今累计拖欠工资近半年，目前每月只能领到800元左右的生活费。还有人在网上发帖称，下岗职工5个月没得到一分钱，无人管。</p>
-<p>北京理工大学经济学教授、中国问题专家胡星斗星期天下午对美国之音表示，整体经济形势严峻，经济增长下行，产能过剩严重，去库存压力极大，政府部门对经济调整、企业重组过程中出现的失业问题应当给予重视。</p>
-<p>他说：“特别是国有企业面临着破产、重组，会有一些职工下岗或者重新就业，政府应当对他们妥善安置。现在跟98年国企下岗那个时候不一样，那个时候整个国家的经济状况比较差。现在整个中国越来越富强了，对职工的安置应当更加的稳妥、妥善。”</p>
-<p>另据报道，黑龙江省长陆昊3月12日下午在北京主持召开龙煤集团脱困发展工作专题会议，承认龙煤严重亏损导致现金流消耗，目前仍拖欠工资、税收和企业应上缴的各类保险，不少职工生活遇到困难。会议强调，龙煤、有关部门和煤城政府要尽职尽责，全面真实掌握企业在册、在岗人员、拖欠工资、应收账款、对外投资等真实情况并及时报告，供省委、省政府科学决策，要深刻吸取掌握、报告情况信息不准确的教训，再次发生重要信息报告不真实的情况要严肃处理。</p>
-<p>胡星斗教授表示，中央高层应当设法能够让基层的真实信息传达上来，让媒体能够传达民众的声音，让人民代表去说真话，代表人民的利益，才能依据真实情况作出合理的决策，这是一个非常重大的议题。</p>
-<p>他说：“要防止信息阻塞造成的欺上瞒下，职工的困难，拿不到工资的情况，没有向上反映。这种问题在中国是相当普遍的，我们的媒体不去反映民生、民众的声音，人大代表也有许多不去反映人民的要求。陆昊事件其实肯定不仅仅是黑龙江存在这样的问题。”</p>
-<p>中国国内媒体看来没有报道黑龙江省省长陆昊有关“不欠工人一分钱”的言论引发双鸭山市矿工和家属抗议，要求补还拖欠工资的事件。一些网友说，示威矿工以及网友上传到网络的信息被大量删除和屏蔽。不过，微博上仍然能看到一些零星信息。（据美国之音报道）</p>
-<p><strong>以下内容由数字时代编辑摘自互联网：</strong></p>
-<p>@非新闻：3月12日，黑龙江省双鸭山市煤矿工人示威升级，数万人走上街头高呼“共产党还我们钱”、“打倒贪腐犯”等口号，要求政府补齐拖欠的工资，市内交通完全瘫痪，铁路线亦被截断，数千警察到场镇压维权工人，大量工人被殴打和抓捕。注册员工6万余人的双鸭山矿业集团已累计拖欠工人工资近半年，3月6日，黑龙江省省长陆昊在两会上称不欠工人一分钱，引发集团旗下的八大矿工人不满，于本月9日开始陆续发起示威。<a href="http://wickedonna.blogspot.jp/2016/03/2016312.html" target="_blank">更多图片</a></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=600%2C450" alt="25703431786_92a3912c80_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25703431786_92a3912c80_o.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@SZzhangqi：现在正在进行时， 黑龙江省双鸭山矿业集团总经理面对愤怒的矿工朋友,承诺并继续着空头支票。</p>
-<blockquote>
-<p dir="ltr" lang="zh">现在正在进行时， 黑龙江省双鸭山矿业集团总经理面对愤怒的矿工朋友,承诺并继续着空头支票。 <a href="https://t.co/eMXjotBcRl">pic.twitter.com/eMXjotBcRl</a></p>
-<p>— 张琦 (@SZzhangqi) <a href="https://twitter.com/SZzhangqi/status/708827770973913092">March 13, 2016</a></p></blockquote>
-<p>@筱泡泡娃：这都是黑龙江双鸭山煤矿工人讨要工资的画面，政府动用了警车，警员，这些工人不是无理取闹的，他们是这个社会的最底层的人员，虽然他没有你们政府高官，公务员的显赫高贵，但在寒冷的冬季。讨要自己应该得到的薪酬，他们这也是被逼到一定程度了。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?resize=600%2C338" alt="25099062184_137c2a7f68_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25099062184_137c2a7f68_o.jpg?w=960 960w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1">@花边：＊黑龙江省省长两会吹牛逼，人均收入5000元，实际是工人无工作，煤矿停工，很多家庭因无收入导致妻离子散，老无所依，拖欠工人工资达到一年之久，百姓怎能不反抗？＊双鸭山通往北京的火车已被百姓无奈堵截两天没有发出，国家可曾了解事态严重性，现在除了快手，各大网站的视频消息均被删除 矿井工人吃的是阳间饭，干的是阴间活，两块石头夹块肉。</p>
-<p>@鹰哥利世：我的家乡双鸭山，最底层的煤矿工人在讨薪，大媒体不让报道，能看到的帮我，帮他们转转吧，兄弟在这跪谢了。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=600%2C450" alt="25634415631_403e81666e_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25634415631_403e81666e_o.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@刘纯旭：农民矿工在❗️双鸭山矿务局❗️门口讨要工资，欠了半年的工资不给发，矿工们怎么生活，老百姓是最底层最朴实的人们，如今生活越来越难，老百姓种地也种不起了，地税那么贵，以后靠什么生活，求转发，让中央政府重视起来，帮助矿工们解决困难，希望政府能来点实际，让老百姓过上好日子@新浪新闻 帮帮忙</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?resize=500%2C667" alt="25428752400_a858e095f3_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25428752400_a858e095f3_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?resize=500%2C667" alt="25102848723_1217c56312_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?resize=768%2C1024 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/25102848723_1217c56312_o.jpg?w=1152 1152w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>@Lujinghua：全省武警紧急调到双鸭山。血腥镇压即将开始。黑龙江省双鸭山市双鸭山集团旗下多矿区数千煤矿工人及家属周五（3月11）发起游行示威，抗议拖欠工资，四工人被捕。省长陆昊两会上称“不欠工人一分钱”。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdcBtlYWoAAYgoY.jpg?resize=600%2C450" alt="CdcBtlYWoAAYgoY" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdcBtlYWoAAYgoY.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdcBtlYWoAAYgoY.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@MailmanCN：双鸭山的矿工固然可怜，勇于上街固然可敬，但是——如果工厂上午把钱给了，他们下午就绝对会像从没发生过这事一样，照样习大大好彭妈妈妙党和政府呱呱叫。至于带他们上街的人会不会被抓，被抓后家里人怎么过日子，他们才不会管，还会为自己的“聪明”暗自得意：“枪打出头鸟，看咱多精。”这国，没救。</p>
-<p>@ZhouFengSuo：双鸭山全体工人被拖欠的工资，不知道相当于几栋北京上海的房子？一个贪官，家里的现金就够给他们开工资了。</p>
-<p>@Jay2uuscript：双鸭山事件，如果不是工人集中游行，那么欠薪这件事肯定会被隐瞒。黑龙江省长在两会期间说，绝对没有拖欠工人工资，结果工人就发生了大游行，省长以一句没有调查清楚为由，修改了自己之前说的话。这样的省长居然没有辞职。只能说，人民和工人的利益，从来不在她们的考虑范围内，他们关心的是，升官移民。</p>
-<p>@heanquan：习总批示：双鸭山市煤矿工人上街讨薪的原因调查清楚了，两个字，没钱。没钱就眼看着不管吗？不能。咱们不是共产党吗？共产党不就是为人民服务吗？别说上街游行请求我们管，就是不要我们管，我们也要管。马上指示印钞厂加班加点，多印钱印好钱，把人民币印得漂漂亮亮的，带着油墨的芳香，送到工人手里。</p>
-<p>@新浪评论 ：【环球时报：黑龙江信息通报事故值得反思】3月6日全国人大会议的黑龙江团组开放日，该省政府主要领导表示，龙煤集团井下职工8万人，到现在为止没有少发一个月工资，没有减一分收入。这一表态引发龙煤双鸭山煤矿职工的强烈不满，导致发生相关抗议活动。黑龙江老国企多，改革的任务很重。此外它是资源大省，更容易受到经济下行压力的冲击。支持黑龙江的改革，帮助它度过未来一段的紧要时期，这对舆论场来说值得成为它的一份基本关切。希望黑龙江等改革阵痛较为突出的地方以更加求实的态度对待问题，不妨让解决问题的艰难过程直接面对公众，而不需过度担心“影响”“形象”等。这样其实最轻松，即使一时的数字难看些，但它们会成为下一步改善的真实基础。报喜不报忧实为互联网时代的大忌，公众对官员任何“往好了说”的做法十分敏感。这样的教训已经很多很多，各地官员对它的警惕一定不能低于他们对公众有可能就敏感真实信息做出激烈反应的防范。</p>
-<p>@事后臭皮匠星人：欺上瞒下、弄虚作假、无视民众疾苦的行为打击吗？</p>
-<p>@風滿樓樓：革命的时候老百姓是炮灰，统治的时候老百姓是奴才。</p>
-<p>@國事不爽：「民主不能當飯吃，可沒有民主，絕大多數人遲早沒有飯吃。」——「雙鴨山討薪」後感</p>
-<p>@xiucai1911：妈的！不爆粗口忍不住！太可气了！国企欠了煤矿工人半年的工资不发，工人没钱维持生活，讨还天经地义属于他们的劳动报酬，怎么就成了违法犯罪人员了？还有没有天理啊！你们就不怕遭天谴吗！</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUc78UUAAfzUP.jpg?resize=500%2C667" alt="CdfUc78UUAAfzUP" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUc78UUAAfzUP.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUc78UUAAfzUP.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUdKzUIAAQWLi.jpg?resize=500%2C667" alt="CdfUdKzUIAAQWLi" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUdKzUIAAQWLi.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUdKzUIAAQWLi.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUea9UYAE3asA.jpg?resize=500%2C667" alt="CdfUea9UYAE3asA" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUea9UYAE3asA.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdfUea9UYAE3asA.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E6%AC%A0%E5%B7%A5%E4%BA%BA%E4%B8%80%E5%88%86%E9%92%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">拖欠工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">维权事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%8C%E9%B8%AD%E5%B1%B1/" target="cdt-mirror">法广 | 2015年中国因恐怖主义判刑人数翻一番</a>
-</h2>
-<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?resize=600%2C339" alt="中国最高人民法院院长周强在人大做报告，2016年3月13号路透社提供。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard04_276.jpg?w=700 700w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>中国最高人民法院院长周强在人大做报告，2016年3月13号路透社提供。</p></div>
-<p>中国高级人民法院和高级检察院周日（3月13号）向人大提请的工作报告显示，2015年中国审理判处1419名与“危害国家安全，暴力恐怖犯罪”案有关的罪犯人数，接近2014年人数的一倍。一些维权组织却谴责中国司法与共产党关系密切，造成所有被起诉的维权人士最后都会被判有罪。</p>
-<p>法新社报道，中国最高人民法院院长周强周日在北京表示，中国各级法院“审结危害国家安全、暴力恐怖犯罪案件1084件，判处罪犯1419人。2014年这一数据为712人。”</p>
-<p>法新社报道指出，在中国，恐怖主义和分裂主义通常指的是新疆地区的暴力事件。法新社说，中国去年被指控与恐怖主义，和危害国家安全等罪有关而被判刑的人数大幅上升的原因在周强的讲话中也明确地被提及，周强说，2015年，中国法院积极参与“反恐怖反分裂反邪教斗争”，加大对“煽动分裂国家、组织领导参加恐怖组织、传播暴力恐怖音视频等犯罪”的打击力度。</p>
-<p>法新社发自北京的报道分析说，报告显示，在1419名被判刑的人中，1084人与“暴力恐怖行为”有关，335人被控“危害国家安全罪”。但在中国最高法院的报告中没有明确指出这些人究竟犯了在被统称为“危害国家安全罪”中的哪些罪。</p>
-<p>中国司法问题专家苏珊-范德（Susan Finder）告诉法新社说，如果仔细研究被判处危害国家安全罪的名单，就不难发现一些维权人士的名字被列在其中。</p>
-<p>法新社指出，习近平上台后，中国就加强了对批评共产党人士的镇压，一些律师，维权人士，博客主或知识分子也都被关押在了狱中。</p>
-<p>另外，这份中国2015年最高法院的年度报告显示，去年几乎全部被控的罪犯最后都被认定有罪，北京同时也保证减少错判案件的比例。</p>
-<p>法新社报道指出，中国的司法机构滥用职权现象严重，尤其是刑讯逼供和妨碍辩护权问题尤为突出。一些维权组织谴责中国司法与共产党关系密切，造成所有被起诉的维权人士最后都会被判有罪。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%8C%E9%B8%AD%E5%B1%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E8%A3%82%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">分裂国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E7%BD%AA/?category=18271" rel="tag">危害国家安全罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA/?category=18271" rel="tag">煽动颠覆罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%9B%BD%E5%AE%B6%E8%B6%8A%E8%85%90%E8%B4%A5%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E4%B8%8D%E8%AF%9A%E5%AE%9E/" target="cdt-mirror">财经网 | 研究称国家越腐败年轻人越不诚实</a>
-</h2>
-<p><p>一个三面围着隔板的格子间，桌上放着一只纸杯和一颗六面骰子。一群20来岁的年轻人被轮流请到桌前，在杯子里摇晃骰子，揭开一小块杯沿，快速瞥一眼点数，再重复一次同样的操作。按规则，他们要将第一次骰子的点数告诉实验者，根据点数大小来领取相应的酬劳。</p>
-<p>掷出1点领1个单位金钱，5点领5个，掷出6点的倒霉蛋则一分钱也没有。但是杯子里的骰子到底是几点，只有摇骰子的人自己才知道。那么，他们会为多领一点钱而虚报点数吗？又或者是违反规则，用结果更好的第二次点数“冒充”第一次上报？</p>
-<p>通过这一精心设计的心理实验，心理学家们发现，年轻人是否选择撒谎或违规，会受到他们所在国家欺诈和腐败普遍程度的影响。在政治骗局、逃税和腐败更普遍的国家里，即使是尚未踏上社会的年轻人们，也会向他们的榜样——商界精英、政治家、或是他们的父母学习，愿意撒谎或承担违反规则的风险，来获得额外的利益。</p>
-<p>2016年3月10日，《自然》期刊发表了这一研究，由英国诺丁汉大学研究者西蒙•加赫特（Simon Gächter）及其研究团队完成。2011年至2015年间，他们在23个国家邀请2500名平均年龄不到22岁的年轻人参与了这项心理实验，其中包括中国、越南、奥地利、德国等。</p>
-<p>研究者们并不知道是哪个人、具体有多少人在实验中撒了谎，但是通过比较某国参与者所领取酬劳的中位数是否显著高于大数定律下的数值，就能判定该国青年整体的诚实度。</p>
-<p>实验结果显示，23个国家年轻人的个人诚实度水平有显著差异，而这和他们各自国家一项反映违反规则普遍程度（PRV）的指数有很强的关联，一个国家的规则违反程度越普遍，个人诚实度越低。</p>
-<p>PRV指数是研究者们依据2003年159个国家的人口学与经济学数据而设计的，这些数据包括一个国家影子经济的规模、世界银行腐败控制指数和自由之家的政治权利指数，分别反映了这些国家在逃税、腐败和政治欺诈方面的状况，得分越高，该国在2003年时的违规程度就越高。</p>
-<p>一般概率下，掷骰子的人只有50%的几率可以得到3、4、5点，但有近80%的中国年轻人称他们掷出了点数，从而可换取更高酬劳。中国的PRV指数为0.2，略高于世界中值，和越南、印度尼西亚、肯尼亚、坦桑尼亚、摩洛哥一起被列为高违规程度国家。相比之下，在PRV指数为-2.8的瑞典，只有61%的年轻人汇报了这三个点数。</p>
-<p>因此研究者们认为，包括腐败在内的违规普遍程度会影响诚实这一个人品质。</p>
-<p>也就是说，腐败给一个国家带来的不仅是社会不公和经济损失，还有对其公民诚实品质的腐蚀，而年轻人的诚实对社会稳定运行起关键作用，并将决定腐败问题能否在未来得到改善。</p>
-<p>此外，研究者们还指出了一个有意思的现象：对于很多人来说，撒谎需要付出心理成本，因此，他们有的选择保持诚实，有的则会曲解规则，抑或是让谎言变得无伤大雅来维持自己的诚实形象。于是在实验中，许多“撒谎”的参与者们并没有选择“厚颜无耻”地编造点数，而是选择报告了两次投掷中结果更好的那一个。这一点也被投掷结果的分布所证明。</p>
-<p>当然，这项实验也并未能回答许多随之而来的问题：一个国家腐败情况的改善或恶化，需要多长时间才能对个人诚实度带来影响？全球化进程中，出国旅游、经商、学术交流、移民都越来越频繁，与其他国家居民的交流互动对个人诚实度又有何影响？研究者称，这些问题留待今后的研究给出解答。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%9B%BD%E5%AE%B6%E8%B6%8A%E8%85%90%E8%B4%A5%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E4%B8%8D%E8%AF%9A%E5%AE%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%81%E8%B4%A8/?category=18271" rel="tag">品质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B4%E8%BD%BB%E4%BA%BA/?category=18271" rel="tag">年轻人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -627,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -637,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

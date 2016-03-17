@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,57 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%88%E5%98%89%E6%98%A0%EF%BC%9A%E7%A6%BB%E5%BC%80%E4%BA%86%E6%9A%B4%E5%8A%9B%EF%BC%8C%E6%89%80%E6%9C%89%E6%B4%97%E8%84%91%E6%89%8B%E6%AE%B5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A5%8F%E6%95%88/" target="cdt-mirror">共识网｜陈嘉映：没有暴力支撑，洗脑会烟消云散</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg" rel="attachment wp-att-431953"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg?resize=500%2C232" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg?resize=300%2C139 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<h2>01</h2>
+<p><strong>洗脑与教育的三个基本区别</strong></p>
+<p>说到洗脑，我估计几乎所有的人都会联想到像《一九八四》这类小说，这也是洗脑这个概念流行起来的一个源头。我估计大家都读过《一九八四》，没读过至少也听说过它所讲的大概内容。那是一本小说，不过由于我们也是从五、六十年代过来的，所以我们知道这部小说离我们的现实也不是特别远，我们年轻的时候生活在文化大革命时期，那时候有一个所谓“四人帮”，他们利用宣传机器，日夜不停地给我们灌输一套虚假的意识形态。仅仅灌输一套虚假的意识形态是不够的，为了能够洗脑成功，还必须要同时屏蔽掉其他的信息，不允许其他意见声音。</p>
+<p>如果有人讲了其他意见怎么办？就要动用国家专政机器把这些讲的人抓起来，或者就干脆杀掉。1966年有一个叫做遇罗克的人，他写了一篇《出生论》，讲的是不能够因为家庭出身来确定阶级立场，现在可能只是一个普通的看法，但是当时它就犯忌讳了，因为它多少发出了一点点独立的声音，他就被抓起来最后被枪毙了。我提到这个是想说遇罗克是一个非常值得尊重的人，我们一讲到洗脑可能就会想到1984，想到文化大革命，想到遇罗克，诸如此类。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%81%87%E7%BD%97%E5%85%8B.jpg" rel="attachment wp-att-431952"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%81%87%E7%BD%97%E5%85%8B.jpg?resize=400%2C480" alt="遇罗克" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/遇罗克.jpg?resize=250%2C300 250w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/遇罗克.jpg?w=500 500w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>我们现在把四人帮那一套宣传叫做洗脑，但在当时不是那么叫的，当时叫做政治思想教育。我们会想教育是教育，洗脑是洗脑，怎么能把洗脑当做教育，或者把教育当做洗脑，这个肯定是不对的，大家都会同意教育不是洗脑，洗脑也不是教育。</p>
+<p>大致上讲到洗脑，会说它是在强制灌输某种或某套虚假观念。全面来讲，洗脑就是为了自己的利益去强制灌输一套虚假的观念。这个定义里面有三个关健词，一个就是强制灌输，一个就是虚假，最后一个就是为了去洗脑者本人的利益，这三个因素贯穿在一起构成洗脑。</p>
+<p>虚假好像是洗脑最重要的一条，因为如果灌输的是正确的东西，即使稍微强制点，最后成功洗了脑，还是挺好的一件事。我们和教育对照着谈，我们知道教育是教给你正确的东西，这是洗脑和教育的第一层区别。</p>
+<p>强制灌输是第二个关键，传销属于一种洗脑，建立传销的团队要给你灌输传销多么得好，然后会把你禁闭起来，把手机没收不让你自由通话。洗脑牵涉到一些强制的因素，在强制方面，洗脑看起来也和教育不同，教育是师生之间的自由交流。</p>
+<p>第三个因素“为了自己的利益”，还是以传销为例子，传销的人要给你灌输一套传销的观念，那为了谁好呢？很明显是为他本人，只要他能发展20个人，那他就赚了一笔，至于你有没有赚到，那不是他关心的事。但教育就不是这样，我们教育自家的孩子，教育我们的学生，当然是为了孩子好，为了学生好，这样大致就能够把洗脑跟教育区分开来。</p>
+<p>我觉得这三个因素可以作为区分洗脑和教育的一个起点。</p>
+<h2>02</h2>
+<p><strong>教育和洗脑都包含强制，区别在强制以后的发展</strong></p>
+<p>当你在说一个人被洗脑了，那么他有一种很自然的反映，会反驳你才被洗脑了。比如前段时间，有人指责自由主义者，说你们是被自由主义学说洗脑了。一般自由主义比较反对专制，比较反对强制灌输，比较强调自由教育的，可是等他批评别人没有自由教育被洗脑的时候，这些被指责的人会对他们进行一顿责骂，你们这些自由主义者成天受西方思想的影响，被人家洗脑。</p>
+<p>我们刚才讲到了教育，比如说我们就教给他们这些唐诗宋词，我们就不教给一些我们认为不好甚至下流的的诗歌，我们教给他们数学，教给他们这样的定义，而不是那样的定义。至少就部分来讲教育中明显包含着强制性，所以教育和洗脑之间的界限并不是那么清楚。从教育者的角度来看，有的人为了显著区别二者而提出一种主张，教育不是老师高高在上把某些真理教给学生，教育本质上是一种平等的互相交流。</p>
+<p><strong>我们要承认教育包含着强制，然后我们再去看洗脑的强制性。</strong>当然二者有明显不同，教育强制的程度与洗脑有很大区别。有一个成语叫做“五十步笑百步”，我跟你们一样都是从很小的时候听说这个成语的。长大后我总琢磨我觉得不明白这个成语，比如两个人身体都不太好，一个得了灰指甲，一个得了癌症，程度不同但是区别挺大的。强制程度有区别，如果区别够大，就是很大的区别。教育强制的程度随着被教育者的成长，这种强势性就不断缩减，缩减到最后，我们的确是可以设想一种平等自由讨论的方式进行交流。</p>
+<p><strong>当我们说强制的时候，我们不能把眼睛只盯在当前被强制的范围，我们要看强制以后的发展。</strong>你让学生去弹钢琴，他不想弹，你多多少少会去强迫他弹，当然他有可能就会慢慢的爱上弹钢琴，而且几乎不可避免他就必须爱上弹钢琴。可是他长大了回过头来看，他会承认你做的是对的。即使他没有弹下去，那么等他长大了可以进行判断了，他也能够理解家长，为什么当时曾经那样急切的希望他们弹钢琴。</p>
+<p>这是一种有道理的强制，但是洗脑的情况不同。我们说四人帮把我们洗脑了，当时四人帮那样做就已经不好。也就是说我们在讲到教育与洗脑强制上的区别，不能完全从当时所采取的措施来判断，而要从未来发展来判断，那时候我们往往就能更好地看到什么是教育什么是洗脑。</p>
+<h2>03</h2>
+<p><strong>洗脑不允许你接受其他任何东西</strong></p>
+<p>无论在1984还是在文化大革命，洗脑者使用的一个根本措施，就是尽可能屏蔽掉他所要灌输的东西之外的所有信息。刚才也谈到自由主义，自由主义也可能是一种洗脑。因为自由主义的基本主张就是言论自由，它可能是不断在宣传哈耶克，但是反复的宣传哈耶克并不构成洗脑，只有除了哈耶克之外什么都不允许读，那才叫洗脑。考虑到自由主义在我们这里是边缘和软弱的力量，它恐怕很难禁止我们读哈耶克之外的东西。所以在这个意义上，很难指责自由主义也是在洗脑。</p>
+<p>我们刚才讲到，“爱国主义教育对谁好”的问题，这个问题还没有回答，也许我根本回答不上来。但是我可以举个例子，比如说在二次大战的时候，美国人进行爱国主义教育，日本人也进行爱国主义教育，两者不相上下，但是我仍然要说美国人的爱国主义教育更接近于教育，那就是他们一边进行爱国主义的教育，另外仍然能够允许报纸和书籍发生不同的声音。虽然有一定限制，但是报纸可以对战争进行谴责，还也可以反对战争。</p>
+<p>而日本在爱国主义教育中也会有其他信息的出现，但是他们甚至会对传播这些信息的人和机构进行摧毁、判刑甚至判死刑。那么在这样一个背景下，虽然两者都是爱国主义教育，但是日本的爱国主义教育跟洗脑更接近。</p>
+<p>获取信息是非常重要的一个方面。我们也能够找到一定的反例。可惜时间有限我无法细讲，但是我可以提一个例子，大家都知道，就是在上世纪五十年代的时候，中国发生过一个巨大的运动，叫做知识分子的思想改造运动。那么思想改造有一个特点，一方面要灌输一套思想给你，另一方面还要把你的眼界屏蔽起来。但是上世纪五十年代的一些知识分子，有不少是留学回来的，哪怕不是留学回来的，一般也都见多识广。也就是说他们脑子里有别的信息，但是他们怎么也会多多少少被成功改造了呢？我觉得这是思想起源问题。这个思想改造当时的确是不叫洗脑，叫洗澡。</p>
+<p>在这样思想改造背后是实实在在地搞手段。你被改造好了，或者你做出被改造好的样子，你可能就进入某个民主党派当主席、副主席，你可能就受到国务院联欢会的邀请信，你可能就当了系主任，当了教授。你改造的不好，可能职称上吃点亏，然后国务院也不会邀请你，诸如之类的，当然这还是最温和的结果。洗脑背后有着非常鲜明的东西来赤裸裸地报复你，如果你改造不好，你还抗拒改造，那么等待你的就是监狱，如果还不够，那就是死刑。</p>
+<h2>04</h2>
+<p><strong>没有暴力支撑，所有洗脑手段都不会奏效</strong></p>
+<p>最后都是要落实到这一点上——如果没有赤裸裸的报复，所有洗脑的手段都不会奏效。当然我并没有说思想改造就是一场暴力活动，如果是暴力活动就没什么可研究的。思想改造非常值得研究就在于，一方面或隐或显它背后始终有暴力，但是前台上演的很少有暴力，前台有好多不同的样式，我们阅读回忆录知道这些被改造的知识分子有很多是抱着真诚的愿望参与运动，并且多多少少真心诚意地接受了这种改造。</p>
+<p><strong>但是我们还是能够理解洗脑的机制，无论出场不出场，暴力扮演了最“压仓式”的作用。</strong></p>
+<p>还可以从另外一个角度看，暴力一旦消失，哪怕减轻，那么洗脑所得到的成果很快就会断掉，乃至就会烟消云散。</p>
+<p>最近我有一个朋友叫刀尔登的出了一本书《亦摇亦点头》，写他的读书经验。他说他小时候受一套意识形态的笼罩，用今天的话就是说被洗脑长大的。他说到了七十年代末之后，读了一点其他的书，知道了一点其他的事，没费什么劲他就把那些东西都忘了。还有像斯大林，你从小就知道斯大林多么伟大，所有都是正面的信息。有一本书，吉拉斯《同斯大林的三次谈话》，那边讲了好多国家机器的宣传，这是一本名不见经传的书，我们怎么开始信吉拉斯了，为什么不信我们的机器宣传了那么多年的东西。</p>
+<p>离开了暴力，洗脑力量不是那么大。</p>
+<p>当你洗脑后拿出的一套东西是那样的虚幻不实，你用暴力做后盾，你用开动的这个宣传机器灌输千千万万上亿的人，但是如果跟现实的这种体验和经验相距太远，那你灌输这些东西实在不会有什么持久的生命力。</p>
+<p>最后我做点总结，在洗脑的机制中暴力起到根本作用，没有暴力支撑虚假可能就会瓦解。我们可以进一步得出一个结论，在没有暴力情况下，我们不要轻易把反对的意见说成是洗脑的结果。</p>
+<p>那么我就希望能够从这个角度来看待洗脑和教育的区别，同时我们能够把洗脑限制在更确定的范围之内，把剩下的事情留给错误和罪恶的探讨去解决。</p>
+<p>（限于篇幅，文章有删减，全文请点击“<a href="http://www.21ccom.net/html/2016/bianyan_0316/2499.html">阅读全文</a>”）</p>
+<p>作者介绍：陈嘉映，1952年出生于上海，后随父母迁居北京。文化大革命中到内蒙古插队。1977年恢复高考后，进入北京大学西语系读德语。1978年5月考入外哲所研究生，在北京大学外国哲学研究所随熊伟先生读海德格尔哲学。1981年毕业后留校任教。2008年1月转入首都师范大学哲学系工作，任外国哲学学科专业负责人，特聘教授。被认为是“中国最可能接近哲学家称呼的人”。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%88%E5%98%89%E6%98%A0%EF%BC%9A%E7%A6%BB%E5%BC%80%E4%BA%86%E6%9A%B4%E5%8A%9B%EF%BC%8C%E6%89%80%E6%9C%89%E6%B4%97%E8%84%91%E6%89%8B%E6%AE%B5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A5%8F%E6%95%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E6%9D%90/?category=18271" rel="tag">洗脑教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5-%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99-%E6%88%91%E8%A2%AB%E7%82%B9%E4%BA%86%E5%90%8D/" target="cdt-mirror">【异闻观止】科技日报 | 莫名其妙 我被点了名</a>
 </h2>
 <p><p>“我说两句。”某委员拿过话筒，镜片后犀利的眼神锁在了默默坐在旁听席记录会议内容的我身上。<br>
@@ -60,7 +108,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">给习近平的公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%85%B4%E4%BA%8B%E4%BB%B6%E4%B9%8B%E7%97%9B-%E8%B0%81%E6%89%92%E6%8E%89%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%95%B4%E6%9C%BA%E4%BA%A7%E4%B8%9A%E7%9A%84%E7%9A%87%E5%B8%9D%E6%96%B0/" target="cdt-mirror">智谷趋势｜中兴事件之痛——谁扒掉了中国整机产业的皇帝新衣</a>
 </h2>
@@ -666,33 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91-%E9%BB%91%E9%BE%99%E6%B1%9F%E8%AE%A8%E8%96%AA%E9%A3%8E%E6%9A%B4-%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BC%BA%E8%B0%83%E7%BB%B4%E7%A8%B3/" target="cdt-mirror">博谈网 | 黑龙江讨薪风暴 官方通报强调维稳</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-%E4%B8%8B%E5%8D%8812.41.13.png?resize=572%2C321" alt="Screen Shot 2016-03-14 at 下午12.41.13" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.13.png?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.13.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"></p>
-<p>（博谈网记者苏智敏报道）黑龙江省长陆昊日前在两会上称龙煤集团没有欠薪，结果引发上千矿工上街讨薪。虽然事后官方承认错误，但在通报中，并无太多具体对应方案，反而多次提到维稳。</p>
-<p><strong>官方：将成立7个专项工作组</strong></p>
-<p>黑龙江省长陆昊13日再次认错，承认龙煤集团存在欠薪，并表示“错了就要改”，14日黑龙江《双鸭山日报》头版报道又指出，将采取强有力措施，维护稳定大局，并视堵塞铁路、破坏生产为严重犯罪行为，并坚决打击。</p>
-<p>《双鸭山日报》报导称，3月12日23时，双鸭山市委市政府召开维护稳定确保正常生产生活秩序专题会议。会议强调，各有关单位要“讲政治、讲大局”，做好思想工作，采取强有力措施，维护“和谐稳定大局”。并要求职工与市民“不要信谣传谣，不要传播消极负面信息”，</p>
-<p>这份官腔十足的通报承认，不少职工生活遇到困难，龙煤集团和双矿会回应群众诉求，做很多解释和其它有效的工作，但又指出，若发生“堵塞铁路、破坏生产、串联、挑事”，将视为严重违法犯罪行为，“一旦发生，坚决打击”。</p>
-<p>该报导透露，决定成立市委市政府应急工作指挥部，下设7个专项工作组，做好维稳工作。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-%E4%B8%8B%E5%8D%8812.41.00.png?resize=572%2C324" alt="Screen Shot 2016-03-14 at 下午12.41.00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.00.png?resize=300%2C170 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-14-at-下午12.41.00.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"></p>
-<p><strong>“共产党还我们钱”</strong></p>
-<p>引发这场讨薪群众抗议的导火线是黑龙江省省长陆昊，他于3月6日在两会上声称该省的国企“龙煤集团”转型成功，并公开表示，龙煤集团井下职工8万人“到现在为止，没有少发一个月工资，没有减一分收入。”</p>
-<p>这番话触发省内上千位遭长期欠薪的矿工及家属上街游行抗议，从网传的照片中可看到，有矿工高举“共产党还我们钱”、“陆昊睁眼说瞎话”、“我们要活着，我们要吃饭”等标语。另传出有矿工堵塞火车轨抗议，并有抗议民众被抓。</p>
-<p>只是未见中国媒体有具体报道示威游行部份，多半只提到黑龙江省长陆昊承认有欠薪情况，而出错原因是来自下级报告讯息不正确，为此特别开会纠正错误，并采取措施。而官媒《环球时报》在一篇“黑龙江信息通报事故值得反思”的社评中，对上千人的抗议也只以一句“这一表态引发龙煤双鸭山煤矿职工的强烈不满，导致发生相关抗议活动”带过。</p>
-<p>实际欠薪情况，《星岛日报》日前报导，有抗议民众称，龙煤集团旗下双鸭山矿业集团已拖欠工资半年以上，一个月只有数百元人民币的生活补助，报导还提到，愤怒的抗议群众一度占据前往北京的铁路。</p>
-<p>现在网络上有民众做了一首打油诗，生动的描述了这件事：“双鸭山，删删删，煤工被逼要跳江。狗省长，说胡话，镜头前面撒大谎。想当年，伪小满，百姓活得有富相。而当今，欠血薪，煤工聚会警察清。警察清。宣传部，大惊慌，网络视频全删光。一班孙子没文化，狗急跳墙啥都干。啥都干、啥都干，就是从不说真话。说真话，掉乌纱，瞒上欺下创神话，反正皇上是聋哑。”</p>
-<p>网友们认为，这么多人一年里都没领到完整薪水，已是攸关温饱问题，累积的怨气可不是开玩笑的。</p>
-<p>然而双鸭山的讨薪事件还没结束，同样在东北的吉林省通化钢铁集团于14日也发生讨薪风波。在网友上传的数张照片中可看到，在钢铁公司前面，聚集了大量警察及前来讨薪的员工，两者相对立。</p>
-<p> </p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E8%B0%88%E7%BD%91-%E9%BB%91%E9%BE%99%E6%B1%9F%E8%AE%A8%E8%96%AA%E9%A3%8E%E6%9A%B4-%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BC%BA%E8%B0%83%E7%BB%B4%E7%A8%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9F%BF%E5%B7%A5%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">2016黑龙江矿工讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E9%BE%99%E6%B1%9F/?category=18271" rel="tag">黑龙江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E7%85%A4%E9%9B%86%E5%9B%A2%E6%AC%A0%E8%96%AA/?category=18271" rel="tag">龙煤集团欠薪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -704,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -714,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%B
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

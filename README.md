@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%9C%9F%E7%9A%84%E6%8A%93%E4%B8%8D%E5%88%B0%E5%B0%B1%E6%8A%93%E5%A7%93%E8%B4%BE%E7%9A%84/" target="cdt-mirror">【习总日记】 真的抓不到就抓姓贾的</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，17）</p>
+<p>我指示国安部同志全力以赴查抓公开信的始作俑者，就是那封《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank">关于要求习近平辞职的公开信</a>》的作者。<br>
+快两个星期了，一无所获。</p>
+<p>昨天我把有关人员叫来当面训斥并发表指示。我说：“实事求是办事，可能一无所获。迄今为止，证明了你们是实事求是认真负责办事的。我很欣慰。党有你们这样的同志，前途铁定光明，道路是否曲折便无所谓了。”</p>
+<p>有关人员表情轻松。</p>
+<p>“但是，”我话锋一转：“但是一无所获也可能是失职渎职办事不力的结果。”</p>
+<p>有关人员表情顿时凝结。</p>
+<p>我发表重要指示：“让我来告诉你们怎么做。姓真的没查到先查姓假的。”</p>
+<p>有关人员之一：“报告习总，巧了。嫌疑者名单上，姓甄的没有，姓贾的倒是有一个。”</p>
+<p>“那就先抓那个姓贾的。把他当真的抓。若最后真的抓不到，就把姓贾的当姓甄的判。”</p>
+<p>有关人员问：“这到底是为什么呢？这不是葫芦僧乱判葫芦案吗？”</p>
+<p>我恨恨地：“昨天有两会代表说我土包子。那么我就包子给他们看，发包子脾气给他们瞧瞧。你们不但要抓那姓贾的，还要抓更多人，逼出姓甄的来。只要真的一天不落网，就抓那些平时调皮捣蛋的，以解我心头之恨。”</p>
+<p>有关人员之二：“哦，我明白了，习总是演劫匪抓人质，看真正作者会不会良心发现救苦救难自投罗网自首。二来也可以趁机打击报复泄私愤。”</p>
+<p>我当场表扬了他们：“只能意会不许言传！”</p>
+<p>当晚，<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/" target="_blank">嫌疑人在北京机场被拦截</a>。我立即要求视频审讯。</p>
+<p>习总：“小伙子，请问尊姓大名？”</p>
+<p>小伙子：“免贵姓贾，贾宝玉的贾。虽贾但不假。单名也是个葭，真假的假，没了人性多了草寇。”</p>
+<p>习总：“这就骂上了啊。知道为何拘留你吗？”</p>
+<p>小伙子：“知道。”</p>
+<p>习总：“不，你不知道。”</p>
+<p>小伙子：“不就是为了那封《公开信》吗？”</p>
+<p>习总：“是因为你姓贾。没想到你名字也是葭。”</p>
+<p>小伙子：“真的抓不到只能抓俺姓贾的凑数交差。”</p>
+<p>习总：“想多了。不是凑数也不是交差，是把姓贾的当姓甄的抓。反正抓真的也是抓，抓假的也是抓。除非真的自己冒出来，不然就把你当真的抓。”</p>
+<p>小伙子：“习总您疯了不成？”</p>
+<p>习总：“我能不疯吗？经济跌跌不休，政治内外交困，党内还不齐心协力同舟共济，急着要把我扔出去当替罪羊。我不疯能行吗？”</p>
+<p>小伙子：“同情你。听你这么一说，我的遭遇也没什么了。”</p>
+<p>关掉视频，我对有关人员说：“怎么样，搞定。他不但不怨恨，还会感谢党感谢我们。”</p>
+<p>有关人员掐准时机拍马屁：“习总英明。”</p>
+<p>心中得意话便多：“同志们，非常时期对老百姓狠点，避免妇人之仁切忌仁爱之心。驭民之术有一条写着，非常时期对付懦弱之民，要狠。能多狠就多狠，彻底打碎他们的自信和自尊之后，百姓便会像狗一样匍匐在你脚下。”</p>
+<p>不知谁小声嘟哝：“<a href="http://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6%E9%A3%99%E5%8D%8710%E5%80%8D/" target="_blank">双鸭山市煤矿工人欠薪闹事</a>，抓领头人，同时每人发2000块搞定。”</p>
+<p>“对，”我这<a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%B0%81%E6%89%8D%E6%98%AF%E6%9C%80%E5%90%BC%E7%9A%84%E9%A2%86%E5%AF%BC%E4%BA%BA/" target="_blank">最吼领导人</a>吼道：“抓领头人，严厉打击敢于冒头者。借助《公开信》事件，乘机扩大打击，能抓的都抓。<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B0%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%99%E6%88%90%E6%9C%80%E5%90%8E%E9%A2%86%E5%AF%BC%E4%BA%BA-%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%BC%96%E8%BE%91%E8%A2%AB/" target="_blank">对‘最后领导人’事件当事人</a>，不管有意无意，从严处理决不手软。”</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B%E6%81%B6%E6%90%9E%E4%B9%A0%E6%80%BB.jpg?resize=550%2C413" alt="鳩鵪漫畫：敌对势力恶搞习总" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?w=1024 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%9C%9F%E7%9A%84%E6%8A%93%E4%B8%8D%E5%88%B0%E5%B0%B1%E6%8A%93%E5%A7%93%E8%B4%BE%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">给习近平的公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%AE%89%E9%82%A6%E5%BC%80%E4%BB%B7128%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AC%B2%E6%94%B6%E8%B4%AD%E6%B5%B7%E5%A4%96%E9%85%92%E5%BA%97%E9%9B%86%E5%9B%A2/" target="cdt-mirror">纽约时报｜安邦开价128亿美元欲收购海外酒店集团</a>
 </h2>
 <p><p>大约两年前，安邦保险集团宣布将斥资19.5亿美元，<a title="Link: http://cn.nytimes.com/business/20141010/c10waldorf/" href="http://cn.nytimes.com/business/20141010/c10waldorf/" target="_blank" rel="nofollow">收购传奇性的华尔道夫-阿斯托里亚酒店(Waldorf Astoria)</a>，那时，这家保险公司在中国境外还鲜为人知。</p>
@@ -726,34 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wifi/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/431730/" target="cdt-mirror">【CDTV】湖南省书记向习近平汇报歌曲《不知该怎么称呼你》</a>
-</h2>
-<p><p>今年两会期间，湖南省委书记徐守盛在习近平参加该省代表团审议时，向其汇报了李思宇演唱的颂圣歌曲《<a href="http://v.qq.com/page/a/l/n/a018405c0ln.html">不知该怎么称呼你</a>》，称该曲已“迅速唱响三湘大地”。近日有网民翻出土豆网上的相关新闻视频并引起热议。目前土豆网已将该视频删除，新浪相关热门微博也被关闭评论。凤凰网虽删除了相关新闻（<a href="http://webcache.googleusercontent.com/search?q=cache:kSyahijCGlQJ:news.ifeng.com/a/20160315/47856909_0.shtml" target="_blank">谷歌缓存页</a>），但截至发稿时，<a href="http://v.ifeng.com/news/society/201603/015c2c37-3a9c-4306-8f07-77f73160a324.shtml" target="_blank">视频报道</a>仍可观看。</p>
-<blockquote><p><strong><a href="http://news.china.com/2016lh/news/11176754/20160315/21954034.html" target="_blank">中华网｜湖南书记告诉习近平:《不知该怎么称呼你》传唱三湘</a></strong><br>
-徐守盛：特别是总书记亲临视察过的湘西花垣县十八洞村，按照“扶真贫、真扶贫、可复制、可推广”的要求，短短两年时间全村136户贫困户，已主动签字认账脱贫，春节前一首生动反映总书记情系十八洞村的精准扶贫歌曲《不知该怎么称呼你》迅速唱响三湘大地，苗族乡亲用最直白的语言、最深情的旋律，表达了他们很质朴的感情，唱出了他们走在脱贫致富路上的幸福笑脸，唱出了他们对党的优良作风又回来了的真诚赞许，唱出了他们发自内心感恩共产党的满满的正能量。</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8D%E7%9F%A5%E8%AF%A5%E6%80%8E%E4%B9%88%E7%A7%B0%E5%91%BC%E4%BD%A0.png" rel="attachment wp-att-431733"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B8%8D%E7%9F%A5%E8%AF%A5%E6%80%8E%E4%B9%88%E7%A7%B0%E5%91%BC%E4%BD%A0.png?resize=550%2C314" alt="不知该怎么称呼你" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?resize=768%2C438 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?resize=1024%2C585 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/不知该怎么称呼你.png?w=2256 2256w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><em>（<a href="http://weibo.com/1221171697/DmgDobAaX" target="_blank">@兔主席</a>的热门微博已被关闭评论）</em></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png" rel="attachment wp-att-431732"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png?resize=550%2C304" alt="习近平" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=300%2C166 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=768%2C424 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=1024%2C566 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?w=1618 1618w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>凤凰视频<a href="http://v.ifeng.com/news/society/201603/015c2c37-3a9c-4306-8f07-77f73160a324.shtml" target="_blank">地址</a><br></p>
-<p>Youtube<a href="https://youtu.be/uewG2WHzwHQ">备份地址</a><br></p>
-<p><strong>附：《不知该怎么称呼你》歌词</strong></p>
-<p>不知该怎么称呼你 你千里万里来到苗寨里<br>
-不知该怎么称呼你 你风里雨里走进我家里<br>
-摸铺盖 看米缸 一条松木板凳连着我和你<br>
-我在你心里 你在我心里<br>
-你爱我们老百姓 我们老百姓深深地爱你<br>
-不知该怎么称呼你 你把我的手握在手心里<br>
-不知该怎么称呼你 你把我的事装进你心里<br>
-拉家常 细叮咛 一句精准扶贫暖透我心里<br>
-我在你心里 你在我心里<br>
-你爱我们老百姓 我们老百姓深深地爱你</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/431730/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -775,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

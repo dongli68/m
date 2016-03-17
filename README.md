@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%AE%89%E9%82%A6%E5%BC%80%E4%BB%B7128%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AC%B2%E6%94%B6%E8%B4%AD%E6%B5%B7%E5%A4%96%E9%85%92%E5%BA%97%E9%9B%86%E5%9B%A2/" target="cdt-mirror">纽约时报｜安邦开价128亿美元欲收购海外酒店集团</a>
+</h2>
+<p><p>大约两年前，安邦保险集团宣布将斥资19.5亿美元，<a title="Link: http://cn.nytimes.com/business/20141010/c10waldorf/" href="http://cn.nytimes.com/business/20141010/c10waldorf/" target="_blank" rel="nofollow">收购传奇性的华尔道夫-阿斯托里亚酒店(Waldorf Astoria)</a>，那时，这家保险公司在中国境外还鲜为人知。</p>
+<p>现在，这家中国保险集团希望扩大其酒店帝国的规模，主动提 出以每股76美元、总计128亿美元的价格，现金收购威斯汀(Westin)、W和喜来登(Sheraton)等酒店品牌的运营商喜达屋酒店及度假村国际 集团(Starwood Hotels& Resorts Worldwide)。</p>
+<p>一个由安邦牵头的投资者财团，试图来给万豪国际(Marriott International)与喜达屋的并购交易搅局。该交易金额为108亿美元，支付方式为现金加股票，定于本月由双方公司的股东进行考虑。</p>
+<p>一名知情人士透露，在这个竞购喜达屋的财团中，包括J·克 里斯多夫·弗拉沃斯(J. Christopher Flowers)的收购公司J.C. Flowers & Company，以及春华资本集团(Primavera Capital Group)，其董事长胡祖六曾是高盛(Goldman Sachs)在中国的董事长。</p>
+<p>安邦及其投资伙伴提出的现金收购，是中国企业这波境外交易中的最新一起。汤森路透(Thomson Reuters)的数据显示，今年以来，中国公司已经宣布了819亿美元的境外交易，而去年同期只有105.5亿美元。</p>
+<p>安邦寻求收购喜达屋之前，刚刚才传出了它达成协议将斥资65亿美元<a href="http://cn.nytimes.com/business/20160314/c14db-hotels/" target="_blank" rel="nofollow">收购</a>黑石集团(Blackstone Group)旗下战略酒店及度假村(Strategic Hotels and Resorts)的消息。黑石集团购入该酒店也才不过数月。</p>
+<p>战略酒店拥有硅谷、华盛顿、怀俄明州杰克逊霍尔的四季酒店 (Four Seasons)，芝加哥的费尔蒙(Fairmont)与洲际(Intercontinental)酒店，曼哈顿的JW万豪埃塞克斯之家酒店(JW Marriott Essex House Hotel)。</p>
+<p>最近几年来，在董事长吴小晖的带领下，安邦开展了一些大手笔的交易。吴小晖是邓小平的外孙女婿。担任中国最高领导人期间，邓小平主持了中国经济对资本主义和外商投资的开放。</p>
+<p>安邦总部设在北京，除了华尔道夫酒店的交易之外，它还斥资 近16亿美元收购了美国信保人寿保险公司(Fidelity & Guaranty Life Insurance Company)，并获得了一家韩国寿险公司的控股权。去年，它出价收购一家葡萄牙贷款机构，但未成功。</p>
+<p>安邦最初是从汽车保险起家的，它得到了中国最大的汽车生产商上汽集团的支持。10年前，与中国的大型国有保险公司相比，它还是一家小企业。</p>
+<p>但安邦扩大了业务范围，开始出售投资产品和其他一些服务，并且日益激进地押注一些项目。中国政府近年来放宽限制，允许境内保险公司更加自由地投资自己的资金，于是这些公司成了中国房地产等领域的主要参与者。</p>
+<p>该财团的现金收购要约是在3月10日提出的，喜达屋本周一公布了此事。比起与万豪的交易，这是一个大幅溢价。自从去年11月宣布与万豪的交易以来，喜达屋的股价下跌，影响了这宗交易。</p>
+<p>喜达屋周一表示，董事会没有改变支持万豪交易的建议，但会认真考虑与安邦牵头的财团之间讨论的结果，以便确定符合“喜达屋及其股东的最佳利益”的行动方向。</p>
+<p>喜达屋表示，它已收到了来自万豪的免责声明，使其能够开展与该财团的讨论并对其进行尽职调查。免责声明将于本周四到期。</p>
+<p>万豪表示，这个竞争对手对喜达屋的收购方式“有很高的条件门槛，不具约束力”。</p>
+<p>“万豪将一边关注这方面的发展，一边继续与喜达屋共同推动交易的完成，向两家公司的成功整合迈进，”万豪在<a href="http://www.prnewswire.com/news-releases/371958561.html" target="_blank" rel="nofollow">新闻稿</a>中表示。</p>
+<p>喜达屋和万豪的股东定于3月28日投票，决定是否批准这宗并购。如果喜达屋退出交易，万豪将获得4亿美元的终止费。</p>
+<p>并购如果成功，它将成为全球最大的酒店集团，旗下有逾5500家直营或特许经营酒店，在世界各地共有110万个房间。</p>
+<p>喜达屋本周一表示，根据万豪股票20天成交量加权平均价，喜达屋在并购中的估值是每股63.74美元，包括每股2美元的现金对价。</p>
+<p>喜达屋的股东，也将从该集团的分时度假业务维斯塔纳专属体验(Vistana Signature Experiences)与分时度假集团(Interval Leisure Group)一个分公司的并购交易中，获得每股5.5美元的收益。</p>
+<p>安邦集团被普遍认为受益于它和北京领导层的良好关系。</p>
+<p>在去年末进行的一场罕见的企业股权争夺战中，安邦与中国地产商万科集团结成了联盟。万科欢迎安邦入股，它被广泛看作是一种友好的举措，能让万科管理层继续掌控这家中国最大的房地产开发公司。</p>
+<p>日益将目光投向海外的，不止安邦这一家公司。</p>
+<p>中国经济增速放缓，导致企业和个人都将资金移出海外，在别 处进行投资。之前一直是全世界的资金大批流向中国，如今情况逆转，致使投资者相信，在最近几个月经历两轮贬值已经走弱的中国货币，还会进一步贬值。通过进 行海外交易将资金转移到海外的做法，可以得到中国官方的首肯，同时也让中国企业避开了有可能带来麻烦的货币贬值。</p>
+<p>这种逻辑可以帮助我们理解，在中国政府不断加大举措将资金留在国内的情况下，中国企业为何却在加倍进行海外投资。中国的外汇储备在最近几个月<a href="http://cn.nytimes.com/business/20160219/c19db-chinareserves/" target="_blank" rel="nofollow">减少到了</a>32万亿美元。这促使北京进一步加强本已收紧的资金外流限制。</p>
+<p>然而，大宗交易还在不断达成。瑞士农业综合企业先正达(Syngenta)接受了一家中国国有化工企业的收购要约，即由中国化工集团以430亿美元对它进行收购。这项交易有望成为中国公司规模最大的一宗海外收购。</p>
+<p><em>翻译：纽约时报中文网</em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%AE%89%E9%82%A6%E5%BC%80%E4%BB%B7128%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AC%B2%E6%94%B6%E8%B4%AD%E6%B5%B7%E5%A4%96%E9%85%92%E5%BA%97%E9%9B%86%E5%9B%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%B0%8F%E6%99%96/?category=18271" rel="tag">吴小晖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432014/" target="cdt-mirror">【图说天朝】四川阆中8名讨薪民工被公判 曾围堵景区</a>
+</h2>
+<p><p>【编者注】下述公判大会于阆中市人民法院<a href="http://lzsfy.chinacourt.org/public/detail.php?id=659">审判办公大楼</a>前举办。该楼于2011年建成，“集审判、办公于一体，功能齐备、设施先进、建筑面积9964平方米，总投资近3000万元”。<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/showimage.php_.jpg" rel="attachment wp-att-432015"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/showimage.php_.jpg?resize=450%2C506" alt="showimage.php" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/showimage.php_.jpg?resize=267%2C300 267w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/showimage.php_.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9F%BF%E5%B7%A5%E8%AE%A8%E8%96%AA/">黑龙江龙煤集团矿工讨薪事件</a> 专题</li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/06/2015%E5%B9%B46%E6%9C%8826%E6%97%A5%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E4%B8%BE%E8%A1%8C%E4%B8%87%E4%BA%BA%E5%85%AC%E5%BC%80%E5%AE%A3%E5%88%A4%E5%A4%A7%E4%BC%9A/">【图说天朝】2015年6月26日，中国广东举行万人公开宣判大会</a></li>
+</ul></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53F88368DB905EB48F948FD2E683DE5D.png" rel="attachment wp-att-432019"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53F88368DB905EB48F948FD2E683DE5D.png?resize=500%2C333" alt="53F88368DB905EB48F948FD2E683DE5D" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53F88368DB905EB48F948FD2E683DE5D.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53F88368DB905EB48F948FD2E683DE5D.png?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/9A164046FF8278B6FB44062CBA8DAE40.png" rel="attachment wp-att-432018"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/9A164046FF8278B6FB44062CBA8DAE40.png?resize=500%2C333" alt="9A164046FF8278B6FB44062CBA8DAE40" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/9A164046FF8278B6FB44062CBA8DAE40.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/9A164046FF8278B6FB44062CBA8DAE40.png?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440737785.jpeg" rel="attachment wp-att-432026"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440737785.jpeg?resize=500%2C319" alt="Img440737785" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440737785.jpeg?resize=300%2C191 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Img440737785.jpeg?w=580 580w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19C95ABC1A6F7E2D42CA4F2217FFED49.jpg" rel="attachment wp-att-432016"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19C95ABC1A6F7E2D42CA4F2217FFED49.jpg?resize=500%2C305" alt="19C95ABC1A6F7E2D42CA4F2217FFED49" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19C95ABC1A6F7E2D42CA4F2217FFED49.jpg?resize=300%2C183 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19C95ABC1A6F7E2D42CA4F2217FFED49.jpg?w=550 550w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/636D0A4B2727669E0069C8CF03930C4D.png" rel="attachment wp-att-432017"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/636D0A4B2727669E0069C8CF03930C4D.png?resize=499%2C371" alt="636D0A4B2727669E0069C8CF03930C4D" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/636D0A4B2727669E0069C8CF03930C4D.png?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/636D0A4B2727669E0069C8CF03930C4D.png?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></a></p>
+<p><strong><a href="http://news.163.com/16/0317/11/BIBSSQ5H0001124J.html">阆中法院｜讨薪演变妨害公务法院：应理性维权</a></strong></p>
+<blockquote><p>3月16日，阆中市人民法院在阆中市江南镇公开宣判一起妨害公务案，8名被告人分别被判处6—8个月不等有期徒刑，其中两名宣告缓刑。至此，这起在当地轰动一时的农民工讨薪演变为妨害公务的事件尘埃落定，8名被告人均对自己不理智的行为追悔莫及，事件也再次敲响了理性维权的警钟。</p>
+<p><strong>事件回顾 讨薪无果扰乱秩序</strong></p>
+<p>2015年8月29日，百余名民工聚集在阆中市某商品房项目部索要拖欠的工资无果后，大量民工在张某、戚某的煽动下，前往阆中市著名景区南津关古镇，并堵住景区大门，不准游客进出，希望以此方式向政府施压，达到索要工资的目的。</p>
+<p>江南派出所民警接到群众报警后，立即组织警力赶到现场，考虑到众多民工情绪激动，为避免发生更大的群体性事件，民警代某劝解在场民工曹某、欧某等人要依法维权，让开通道，方便游客通行，并向其指出正确维权途径。</p>
+<p>此过程中，大量民工不听劝阻，张某、戚某趁乱起哄，谎称“警察打人”，并煽动曹某、欧某等人将民警代某围住、抓扯、推搡，并强制将其挟持至市政府，以此迫使政府向开发商施压。沿途引来大量市民围观，一度致七里大道、巴都大道等交通要道堵塞，秩序混乱。</p>
+<p><strong>法院审判 被告人追悔莫及</strong></p>
+<p>事件发生后，阆中市公安局立即调动警力，及时稳控住现场，并将曹某、董某、欧某三人抓获。张某在被公安机关网上追逃后，于2015年9月10日到公安机关主动投案。其余四名犯罪嫌疑人在接到民警电话联系后，主动投案自首。事后，宋某及欧某的家人多次上门向受伤民警代某赔礼道歉，民警对二人的行为表示了谅解。</p>
+<p>随后，检察机关认为张某等8人的行为性质恶劣，以妨害公务罪对其提起公诉。8名被告人在开庭审理过程中，对犯罪情节供认不讳，对罪名亦无异议。</p>
+<p>法院经审理认为，8名被告人以暴力方法阻碍国家机关工作人员依法执行公务，长时间在交通要道上对民警进行挟持，严重扰乱了社会管理秩序。故其行为均已构成妨害公务罪。张某、戚某组织并煽动民工滋事是主犯，曹某、欧某、等6人起到辅助、次要作用，是从犯。综合8名被告人的犯罪情节，社会危害性和其认罪、悔罪态度，法院最终决定对8名被告人从轻处罚，判处其6至8个月不等有期徒刑，并对其中犯罪情节较轻的两人适用缓刑。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/3974975087" target="_blank">@世界有点不同946</a>：以无产阶级为领导，以工农联盟为基础<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/zhenshig" target="_blank">@贩箭高手_神无月</a>：<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">虽然这一批人是做的过火了，但是老话说的好“官逼民反”，为什么先不追究政府不作为，不追究开发商拖欠工资？。</p>
+<p><a title="甘道夫的SONE" href="http://weibo.com/5239734726">@甘道夫的SONE</a>：这时公开宣判，怎么不戴帽上街游行<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1874324751" target="_blank">@升职加薪办事处</a>：禁止非法讨薪，鼓励合法欠薪<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@吃太阳的月亮不亮：为什么要公开宣判？好恐怖，这画面何其相似</p>
+<p>@只为稻粱谋：吓唬谁呀。没见把贪污几千万的人拉出来游街，就会侮辱老百性</p>
+<p>@徐德军律师：伟大的时代，神奇的判决。</p>
+<p>@章鱼小王子_：如果理性维权能拿到血汗钱，又怎么会到这种地步啊！</p>
+<p>@大贤凉師：闹成这样钱给了吗？如果还没给那真是不给人活路了！</p>
+<p>@西西里树：乱用煽动这词有很大的恶意</p>
+<p>@冬雪腊梅2014：还曾挟警到市政府肯定不对，该怎么判就怎么判。但是为什么要拿出来公审呢不懂？那徐才厚，谷俊山这些人在哪儿审的？？？</p>
+<p>@Hao_TJU：希望民工合理维权，政府是否做好了相应的工作？1、宣传合法维权途径、方法；2、做好合法维权的服务工作；3、引导企业遵守法 律，按时发薪。如果政府没有做好相应的工作，是否可以司法起诉政府的不作为？是不是政府相关部门的不作为导致了这一件件违法维权的事情的发生？政府是不是 更应该反思，为此负责</p>
+<p>@狼牙合伙人：【“恶意讨薪”一词彰显权贵的混蛋！】在中国，农民工要求企业和政府支付他们劳动所得，被称为“讨薪” ——一个“讨”字，显示出权贵的傲慢无耻和农民工社会地位的低下。而如今，权贵发明出了“恶意讨薪”的罪名，走投无路的农民工“讨要”自己的工资都被以 “恶意”之名拘押，足见权贵者们有多么混蛋！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432014/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%88%A4%E5%A4%A7%E4%BC%9A/?category=18271" rel="tag">公判大会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">公开审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E5%B7%A5%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">农民工讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A0%E8%96%AA/?category=18271" rel="tag">欠薪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E3%80%81%E7%BD%A2%E5%85%8D%E6%9D%8E%E7%AD%89-2016-3-16/" target="cdt-mirror">【敏感词库】要求习近平辞职公开信、龙煤工人讨薪等热点</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/09/%E9%82%9D%E9%A3%9A%EF%BC%9A%E4%BA%94%E4%BD%93%E6%8A%95%E5%9C%B0.jpg?resize=400%2C568" alt="邝飚：五体投地" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/09/邝飚：五体投地.jpg?resize=211%2C300 211w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/09/邝飚：五体投地.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"><br><em>图片作者：邝飚</em></p>
@@ -677,53 +754,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/431726/" target="cdt-mirror">【异闻观止】北外党委书记：中国是世界上最大的民主国家</a>
-</h2>
-<p><p>青课 | 中国是最大的民主国家</p>
-<p>原创 2016-03-14 <strong>团中央宣传部 共青团中央</strong></p>
-<p>他说他民主，你说你民主。到底谁是真民主?为什么一位资深的西方哲学教授说中国是最大的民主国家?本期青年网络公开课，《为什么说我们国家实行的是真正的民主》就是为大家讲述民主那些事。</p>
-<p>本期公开课的主讲人是北京外国语大学党委书记韩震老师。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?resize=550%2C331" alt="北京外国语大学党委书记韩震" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?resize=300%2C181 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?resize=80%2C48 80w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CXtL-fxqhmve9173082.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>北京外国语大学党委书记韩震</p></div>
-<p>党委书记</p>
-<p>小编知道你们什么表情，哈哈，韩老师可不是大家刻板印象中的党委书记哦。</p>
-<p>他曾经是一名插队知青，后来又是恢复高考后的首批大学生之一，33岁撰写了中国首部几十万字的《西方历史哲学导论》，搞学术，做校长，与很多西方知名学府交流。而如今，作为一名从业30余年的资深哲学系教授，可以说追求真理和智慧人生是他的生活标签。</p>
-<p>一个政权的合法性与先进性如何体现？这很难有统一的衡量标准，但今天好像有人一旦擎起“民主”这杆大旗，首先在道义上就站稳了脚步。</p>
-<p>韩老师谈古论今，纵横中西，他告诉我们在历史的长河中，曾经涌现过多种政治体制。有一个帝王说了算的君主制，有一群元老说了算的贵族制，也出现了由人民说了算的民主制。“民主”一词来自希腊文，是希腊文两个词的结合，一个是demos，一个是kratos，所以结合起来就是demokratia。从这个demokratia来的，那么意思就是，实际上demos就是人民，kratos是统治，合起来意思就是人民统治。</p>
-<div></div>
-<div>视频<a href="http://video.sina.com.cn/view/250514678.html" target="_blank">地址</a></div>
-<p>民主不是一开始就有的，而是社会发展到一定阶段的制度性安排。它的出现，取代了原来封建统治那一套，解放了人的思想，引导社会进步，这是民主值得赞扬之处。但就民主具体而言，也有很大的差异性。疆域的大小、人口的多少，包括文化传统的差异，都造成了不同。比如说，盎格鲁-撒克逊传统和（欧洲）大陆传统，法国和英国的民主制度就不一样。在本期节目中，韩震老师都有详细的介绍。</p>
-<p>但民主也并非至善至美，神圣没有瑕疵。政党间耗巨资竞争上台，获取权力是第一位的。因此西方很多国家出现了“重竞选、轻治理”的现象。竞选时的许诺能否在掌权后实现，那就另当别论了。且由于执政党不稳定，缺乏长远的战略规划。</p>
-<p>再看看我们国家。我们国家是不是民主国家？共产党在解放区就提出来，要建立民主自由、独立自主的新中国。至少这个价值追求，也写入了我们社会主义核心价值观。建立人民民主的国家，这是我们的一个目标。假如说当年某个连妇女，黑人都没有投票权的国家自称民主国家，为什么中国不是最大的民主国家？</p>
-<p>而我们的人民代表大会制度通过协商，各个阶层、各个职业的、各个界别的、各个民族的，都会在人民代表大会里行使代表权。所以说，人民代表大会制度，就是我们的制度形态。</p>
-<p>我们的国家领导人，都是通过基层一步步地锻炼起来的，而不像有些国家，只要会说，没有基层经验，照样上来以后当总统。中国的民主制度和基层民众参与度，连维也纳大学校长都由衷赞佩。</p>
-<p>说到底，民主本身不是目的，民主只是为了社会有效治理的一种方式。从这个意义上来讲，它是社会成员之间，达成利益妥协的一个协商机制，一个程序性的安排。但现实却是一些掌握舆论主导权的国家，打着“民主”的旗号打压异己。所以，他们眼中的“民主”已经成了一种政治工具，实际上是国家利益背后、国际关系的斗争。</p>
-<p>因为大家有不同的利益诉求。这种不同的利益诉求，是通过美国式的，“你必须跟我一样，你不跟我一样，我就炸你”好呢？还是我们主张的，通过民主协商、通过和而不同好呢？本期《青年网络公开课》将为大家一一揭示。</p>
-<p>（看同学们听得认真的样子，一定从韩老师的演讲中得到答案了吧！）</p>
-<p>怎么样？要不要一起来听听！</p>
-<p><strong>相关阅读：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2015/08/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%9C%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF/" target="_blank">【异闻观止】环球时报：必须理直气壮地说中国是最大民主国家</a></p>
-<p><a title="【立此存照】微博历史上最令人绝望的转评之一" href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%AE%E5%8D%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B%E7%9A%84%E8%BD%AC%E8%AF%84%E4%B9%8B%E4%B8%80/">【立此存照】微博历史上最令人绝望的转评之一</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/431726/">Permalink</a> |
-<br>
-Post tags: <br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9Ato-trump/" target="cdt-mirror">变态辣椒：to Trump</a>
-</h2>
-<p><blockquote><p><strong>背景新闻</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%B8%BA%E6%9A%B4%E4%B9%B1-%E9%95%87%E5%8E%8B%E6%98%BE%E7%A4%BA%E6%94%BF%E5%BA%9C%E5%8A%9B%E9%87%8F/">法广｜特朗普：六四为“暴乱” 镇压显示政府力量威力</a></p></blockquote>
-<p>来源：作者Twitter帐号（<a href="https://twitter.com/remonwangxt/">@remonwangxt</a>）</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg" rel="attachment wp-att-431720"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?resize=550%2C383" alt="CdjeiH_XIAIKMKK.jpg_large" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?resize=768%2C535 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdjeiH_XIAIKMKK.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9Ato-trump/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">种族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/?category=18271" rel="tag">美国大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -735,7 +765,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -745,5 +775,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

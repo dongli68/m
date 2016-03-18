@@ -21,12 +21,118 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%86%E6%9E%90%EF%BC%9A%E9%A6%99%E6%B8%AF%E4%B8%BA%E4%BD%95%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%96%AD%EF%BC%9F/" target="cdt-mirror">BBC｜香港为何学生自杀事件不断？</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg" rel="attachment wp-att-432122"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg?resize=550%2C309" alt="160317095429_cn_hong_kong_youth_976x549_afp_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>香港地狭人稠，居住与活动空间都很有限。（资料照片）</p></div>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E6%A1%88%E9%A2%91%E4%BC%A0%E5%BC%95%E5%8F%91%E7%A4%BE%E4%BC%9A%E5%85%B3%E6%B3%A8/">BBC｜香港学生自杀案频传引发社会关注</a></p></blockquote>
+<p>香港今年3月在九天内发生超过六起11至21岁的学生自杀事件，而自去年9月新学期起算，累积超过24件。“香港学生怎么了？”成为社会关注的议题。</p>
+<p>自去年9月1日至周四（3月17日）的统计数据显示，11名自杀者是大学生，13名是中学或中学以下学生。香港媒体报道的自杀原因，超过20人有“学业压力”，而“情绪病”（心理疾病）有四例以上，为第二多数的原因。</p>
+<p>周三（3月16日）立法会民主派议员质询教育局长吴克俭，敦促教育局调查香港中小学教师工作量，使老师能有余裕关注学生的心理状态，也呼吁当局检讨目前的考试和教育制度是否造成学生压力与情绪问题。教育局在上周四（10日）召开紧急会议，推出包括成立专责委员会分析及防范自杀等五项措施。</p>
+<p>香港撒玛利亚防止自杀会总干事曾展国对BBC中文网表示，在香港，其实老年人（2014年每十万人23.8人）的<a href="http://www.bbc.co.uk/zhongwen/simp/china/2016/02/160217_mental_health_season_hongkong_elderly_depression.shtml"> 自杀率要远高于年轻人</a>（每十万人5.9人），但老年人自杀较被媒体忽略。“年轻人自杀”也不是近年才有的现象，1960年该协会成立，就是因应许多学生因成绩不佳而自杀的社会现象，在2002年、2004年、2012年，都有超过20名学生自杀，显示学生自杀的问题存在已久。</p>
+<p>以自杀防治为研究专长的香港大学教授叶兆辉表示，年轻人自杀的原因是综合性的，包括学业压力、较弱的家庭支持系统、绝望感等等，但近期内“不寻常的、特别多的”的自杀事件中，因媒体报道，并在社交媒体上被广为流传讨论而产生的“传染效应”也可能是原因之一。</p>
+<p><strong>网络效应</strong></p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg" rel="attachment wp-att-432121"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg?resize=550%2C309" alt="160317100153_cn_hong_kong_facebook_976x549_afp_nocredit" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg?w=624 624w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>研究显示，随着社交媒体与网上论坛的发达，越来越多年轻人选择在网上宣泄自己的情绪。（资料照片）</p></div>
+<p>叶兆辉接受BBC中文网采访时说，自杀讯息会在年轻人之中流传，社交媒体扮演了关键的角色，而有些过于具体的描述自杀方式，或是将自杀者死因过度简化归类的报道，可能影响心理状态比较脆弱的人，产生模仿效应。网络上对于自杀新闻的评论留言，有时也令人难以承受。</p>
+<p>曾展国认为，因为与成年人的“互信”感消失，年轻人转而在社交媒体上表达自己的情绪，而不对家人或师长诉说，此现象对年轻人“没有太大帮助”。因为很多给予意见的人不是专家，或可能同样面临负面情绪，反而会一起增强负面思考。而有些“正面”的人说出的“加油！、“没有不能过的难关！”这类的话，会让有情绪困 扰的人更觉得不被了解，“他已经很累了，他要的是支持，表示你对他的认同……如果你没有心力去帮他，那你一句都不要说。”</p>
+<p>一位现年19岁的香港大学女生郑同学向BBC中文网透露，她在中学时被诊断出轻度焦虑，接受治疗一年多，但感觉没有太大成效。“现在看到一些网民对自杀新闻的评论我还是会哭，我觉得他们好残忍、好冷漠。”</p>
+<p><strong>“非单一原因”</strong></p>
+<p>当前许多人朝“减轻学业压力”的方向寻找解药，并认为香港社会“处处竞争的风气”、“对文凭的追求”应该要被检讨。</p>
+<p>担任中学教师超过20年的张老师对BBC中文网说，教育制度确实给学生很大压力、很多限制，“个人成长是中学的教育制度里面很缺乏的。” 特别是重视升学的学校，对学生成绩以外的事关心有限。</p>
+<p>郑同学说在中学时，晚上会“莫名奇妙的一直哭”，质疑“为什么15、16岁就要决定我的人生？”又因为不想对工作压力大的家人造成困扰，她独自去就诊，但上大学停诊后，情况也没有好转，“我不知道整个的意义在哪里，上好中学，考上好大学，然后呢？”她自认为没有考上“名牌大学”，选择就读的也不是家人认为 “前途较好”的科系，所以家人“很不高兴”。</p>
+<p>香港大学四年级的王同学认为，在大学前的求学阶段，老师没有鼓励学生探索自己的兴趣。她表示自己有舞蹈专长，曾考上香港演艺学院，但家人不让她就读。</p>
+<p>她在大学考试放榜后，因为成绩不如预期而感到非常沮丧，长达一个多月不想与人接触、食欲低落。她没有进入当年录取的大学，而是报读副学士学位，过了一年才又转考进香港大学。</p>
+<p><strong>“从不快乐到自杀”</strong></p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg" rel="attachment wp-att-432120"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg?resize=550%2C309" alt="香港学生被认为承受很大的学业压力（资料照片）。 " srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg?w=624 624w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>香港学生被认为承受很大的学业压力（资料照片）。</p></div>
+<p>从业五年以上的临床心理学家赵千媄对BBC中文网表示，媒体近来对香港学生自杀的焦点都着重在学业压力和教育制度，但她认为学业压力“更像是导火线而不是原因”。她说：“如果一个人有完整的社会支持网络，心理上感到快乐，那么即使他面对压力，他们也不会自杀。”</p>
+<p>“一个人的自杀通常都不是一个问题导致的……但最终就是他找不到出路。”曾展国也表达相似的看法。</p>
+<p>赵千媄说：“一个人要从‘不快乐’走到‘自杀’这一步，中间有一大段路。所以自杀的人是真的感到非常绝望。”根据她的研究，很多时候自杀者其实不是想结束自己的生命，而只是想从目前面临的痛苦中解脱，所以如果有其他方法能解决他们的问题，他们就不会放弃生命。</p>
+<p>叶兆辉研究最近的自杀个案，发现近半数的死者处在社会支援网络薄弱的情况下，可能是与家人相处不睦或单亲。</p>
+<p><strong>污名与刻板印象</strong></p>
+<p>张老师育有三个女儿，以母亲的角度来看，女儿在中学时期承受特别大的压力，“不要说是个人兴趣，连休息的时间都不是很够。”张老师和丈夫都是中学老师，知道复杂的成绩计算方式及可能努力也不一定拿高分的状况，因此能倾听、理解女儿的抱怨。但一般不理解情况的家长，在处理孩子的负面情绪时，可能会让他们更加沮丧。</p>
+<p>赵千媄认为，处理个人情绪才是防治自杀的基础，但对情绪病的“污名”（stigma）是一大阻碍──人们不愿意谈自己的情绪，因为在亚洲文化中，这被这为是显示脆弱，是羞耻的。</p>
+<p>在分析从去年9月以来的自杀个案，男性14名，女性10名。曾展国表示，一般认为女性比较敏感、脆弱，但女性更容易把情绪表现出来，因而适时获得支持或帮助。但男性受限于“男儿有泪不轻弹”的传统性别气质规范，在默默累积情绪到一定程度后，与女性相比更容易自杀。</p>
+<p><strong>自杀防治</strong></p>
+<p>曾展国认为目前政府实施的紧急措施“太保守、太一般了”，应该要有能够立即推动的方案。该协会正在推广“家长每天给孩子一分钟拥抱”的活动，并加强普及与情绪低落者沟通的技巧。</p>
+<p>香港撒玛利亚防止自杀会四年前启动“网络介入计画”（web-engagement program），主动联系在网络上表达自杀意愿的人做辅导，在网络上宣传正确的自杀防治观念，并从周一（14日）开始，延长网络聊天室时间至凌晨两点。</p>
+<p>赵千媄除了邻床心理学家的身份外，更是一位社会企业家，她在2014年创办一个手机app，能够藉由游戏，测试中学生是否有抑郁倾向。从她过去参与中学的自杀防治课程的经验，认为现行的放映影片、填答问卷等，无法真正得知学生的想法，甚至有些学生会拒填太具有导向性的问题（例如：你是否曾想过自杀？）课程流 于形式。</p>
+<p>赵千媄表示，如果可以消除对情绪障碍的污名，让人们在感到安全的情境下更开放地讨论情绪与自杀，将能降低年轻生命消逝的事件发生。</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%86%E6%9E%90%EF%BC%9A%E9%A6%99%E6%B8%AF%E4%B8%BA%E4%BD%95%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%96%AD%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">心理干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%91%E9%83%81%E7%97%87/?category=18271" rel="tag">抑郁症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%8E%8B%E5%8A%9B/?category=18271" rel="tag">社会压力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80%E7%8E%87%E4%B8%8A%E5%8D%87/?category=18271" rel="tag">自杀率上升</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AE%98%E5%91%98%E7%9A%84%E6%8A%8A%E6%88%8F%E4%B8%8E%E4%B8%9C%E5%8C%97%E7%9A%84%E5%9B%B0%E5%A2%83/" target="cdt-mirror">东网｜乔木：官员的把戏与东北的困境</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg" rel="attachment wp-att-432114"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg?resize=550%2C393" alt="bkncn-20160318000321425-0318_05411_001_01p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg?w=608 608w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>两会上黑龙江省长陆昊借口下面汇报有误，承认错误，表示要想办法解决。比起要么不说话，要么说错了死不认错的官员来说，陆昊的应对还算可以，至少有个让人能接受的态度。当然事情没那么简单，与其说领导被骗，不如说领导骗人。</p>
+<p>他开始说没有拖欠工人一分钱，显然是在两会这个场合炫耀政绩。但是龙煤集团涉及四地几十万人，每年的开销几十亿，困境不是一天两天，而是持续一两年。一个主管经济的省长，其他有可能疏忽，这么大的事，人和钱之多，领导不知情，要么不称职，要么就是有意隐瞒、骗人了。</p>
+<p>至于陆昊说的下面汇报有误，也可以理解成对工人上街讨薪没有及时准确汇报。因为这么多年的高压维稳，对工潮的强力打压，特别是两会敏感期的网格状布控，按说不会发生这种事，所以省长才敢夸海口。没想到就是由于他与事实不符的话，激起了工人上街。下面的人往上报害怕挨批，想着弹压和封锁消息。结果工人多控制不了局势，社交媒体发达也封锁不住消息。最终弄得举国全知，省长只好改口。</p>
+<p>现在情况明了，反而好对付了。当局恩威并重，一反面紧急发钱安抚众人，另一方面通告抓捕带头者，龙煤集团的危机暂时平息。但是按下葫芦浮起瓢，吉林通钢的工人又上街了，后面还会有吗？造成这种东北困境到底怪谁？</p>
+<p>有人说怪国企的工人。效益好的时候，全家往企业挤。效益不好的时候，不想着自谋出路，停产不干活还要工资，拿全体纳税人的钱补他们的亏空。换成其他企业，比如外企、私企每年都会裁人，经济形势不好的时候，裁员、下岗、失业的总数会很多。至于干着工人的活却按农民待遇的农民工，欠薪讨薪更是常事，但却不像此次黑龙江闹出这么大的动静。</p>
+<p>不管国企私企，涉及到几十万人的生计、饭碗，就是在资本主义的美国，是否让通用汽车破产、如何安置工人，也是政治大事、大选议题，别说讲政治、维稳定的中国。国企困境，有工人的原因，比如看重这个身份，心理和行业依赖，没有职场竞争力。企业管理不善，决策失误，特别是冗员过多。由于历史包袱和效率问题，东北产相同煤的人员投入，是全国平均的三倍。效益好的时候还能维持，煤价持续下跌，自然难以为继。</p>
+<p>但考虑到国企的性质，更大的责任还在政府。十多年前就开始喊振兴东北，调整产业结构，有不少的资金资源投入和政策倾斜。但是调整需要很长的时间，短期难以见效。对于看重GDP增长、短时就要政绩的官员来说，什么最见效、来钱快，就会选择依赖什么。过去的十年，由于卖土地导致的房地产价格高涨，对水泥、钢材的需求猛增，带动了背后的煤炭石油能源。整个经济的发展和国际能源价格走高，也保证了煤油行业的好日子。</p>
+<p>这种情况下，所谓振兴东北变成了喊新口号、走老路子。煤炭本来应该逐渐减产、升级、转型，但由于来钱快，黑龙江政府反而是把四矿合并做大，并购其他企业，成立龙煤集团，投入资本和人力，确保垄断地位和短期利润。最终整体产能过剩，煤炭需求和价格下滑，恶性发展的后果爆发。</p>
+<p>石油也是。油城大庆早就存在储量少、成本高、单一依赖的问题，但过去几年的高价利润、官员任期制捞一把就走的心理，没有人去真正解决调整。最终石油过剩，油价大跌，大庆去年的GDP竟然是负增长。</p>
+<p>工人只管干活拿钱，企业管理者往往也只看到自己的生产经营，看不清整个行业、全国经济和世界经济的走向。但是作为制定产业政策、研究经济形势、调配资源和金融的政府官员，又做了什么？喝酒吃肉，真应了《曹刿论战》所说的“肉食者鄙”？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AE%98%E5%91%98%E7%9A%84%E6%8A%8A%E6%88%8F%E4%B8%8E%E4%B8%9C%E5%8C%97%E7%9A%84%E5%9B%B0%E5%A2%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9F%BF%E5%B7%A5%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">2016黑龙江矿工讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9/?category=18271" rel="tag">产能过剩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">振兴东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/432090/" target="cdt-mirror">【图说天朝】真・国际友人：扎克伯格为帝都人民服雾</a>
 </h2>
 <p><p>北京时间2016年3月19日，Facebook创始人兼CEO马克·扎克伯格公开了一组自己在天安门广场前晨跑的照片，自称从广场经故宫至天坛。当天北京PM2.5指数为330+。网友们纷纷表示被这名国际友人的献身精神所打动。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png" rel="attachment wp-att-432101"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=500%2C532" alt="zuckerberg_jogging_in_beijings_aqi_337_air" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=282%2C300 282w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=768%2C818 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=962%2C1024 962w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?w=1054 1054w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png" rel="attachment wp-att-432099"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=575%2C288" alt="zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=768%2C384 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png" rel="attachment wp-att-432100"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?resize=425%2C756" alt="img_8747_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?w=675 675w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br>
+（以上图片来自<a href="http://www.thebeijinger.com/blog/2016/03/18/zuckerberg-shows-how-much-he-loves-china-running-aqi-337-air-without-mask">the Beijinger</a>）</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@互联网的那点事:雾霾天 扎卡伯格在天安门晨跑 这是一种怎样的国际主义精神！</p>
+<p><a href="http://weibo.com/1559705664" target="_blank">@天生天养-自由自在</a>：在这跑步有两种死法：雾霾死，坦克死，选一个。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/sgnhr" target="_blank">@钢筋徒工</a>：公关助理可能知道强国人敏感而脆弱，所以告诉小扎不要戴口罩？<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p>@智障儿童爱很多：不远万里来吸毒，感人。</p>
+<p>@诡评：他想体验一下线下版的“非死不可”</p>
+<p>@土豆超人S：3.19  卒</p>
+<p>@资深屌丝初级民工：领导说了，想进来可以，先去跑几圈，看能不能忍受这肮脏的环境。</p>
+<p>@苏雨农：首先要排队过安检，其次要顶着高达340的严重污染，这是有多爱中国</p>
+<p>@闷闷不闷：为了非死不可进入天朝真的好拼！</p>
+<p><a href="http://weibo.com/niutaotao" target="_blank">@牛滔滔</a>：他是怎么上传到FB的？<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@大王Huo事了：想看看雾霾是否能打倒美帝国主义及其一切走狗</p>
+<p>@妇科专家来会诊：你懂个JB啊   分明害怕IS跑北京避难来了 这样IS就在雾霾中找不到他了</p>
+<p>@应朝朝-YCC：为中国人民服雾！</p>
+<p>@麻烦死麻烦死：大家快看 进口吸霾机</p>
+<p>@RevengeRangers: 价值3000亿的人肉吸霾机！！！</p>
+<p>@香菇老爷子：霾是帝都醇…</p>
+<p><a href="http://weibo.com/1977330732" target="_blank">@无主之城24</a>：以为这样就能让你上墙里边来？年轻人啊，naive<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@余承东吃大香蕉：有人问我北京人为什么这么牛逼，我默默深吸了一口气……然后笑着看了看他。  他不服，学我他也深吸了一口气……享年25岁。——hokaichau</p>
+<p><strong>@大家_LilBear：他不知道在中国”Tiananmen Square”是敏感词嘛</strong></p>
+<p>@kenji米侬：没看升旗，没在红旗下感动落泪，负分</p>
+<p>@我比你妈还爱妳：洋大人就是依法享有特权啊，在墙内也能上Facebook</p>
+<p>@Willsky-TL：人可以在天安门跑 你的fb缺禁止在外 你说自由还是不自由？ 身体看似自由 可精神永不让 你自由！这是LOW国的现状！</p>
+<p>@Phoenixiao2016：我也是不明白了，这人怎么这么牛逼，百度了下他的网站，根本打不开，完全扯淡</p>
+<p>@Seansto：刚跑没两步又要过安检口了…</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432090/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432090/" target="cdt-mirror">【图说天朝】真・国际友人：扎克伯格为帝都人民服雾（更新）</a>
+</h2>
+<p><p>【更新】来自Tom Grundy(<a href="https://twitter.com/tomgrundy/status/710710412455464960">@tomgrundy</a>)PS照一枚：</p>
+<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdzzWmjUMAA0P78.jpg" rel="attachment wp-att-432123"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdzzWmjUMAA0P78.jpg?resize=500%2C322" alt="CdzzWmjUMAA0P78" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdzzWmjUMAA0P78.jpg?resize=300%2C193 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CdzzWmjUMAA0P78.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p></blockquote>
+<p>北京时间2016年3月19日，Facebook创始人兼CEO马克·扎克伯格公开了一组自己在天安门广场前晨跑的照片，自称从广场经故宫至天坛。当天北京PM2.5指数为330+。网友们纷纷表示被这名国际友人的献身精神所打动。</p>
 <p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png" rel="attachment wp-att-432101"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=500%2C532" alt="zuckerberg_jogging_in_beijings_aqi_337_air" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=282%2C300 282w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=768%2C818 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=962%2C1024 962w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?w=1054 1054w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png" rel="attachment wp-att-432099"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=575%2C288" alt="zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=768%2C384 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png" rel="attachment wp-att-432100"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?resize=425%2C756" alt="img_8747_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?w=675 675w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br>
 （以上图片来自<a href="http://www.thebeijinger.com/blog/2016/03/18/zuckerberg-shows-how-much-he-loves-china-running-aqi-337-air-without-mask">the Beijinger</a>）</p>
 <p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
@@ -672,117 +778,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/315/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/" target="cdt-mirror">歪理邪说｜3.15，今天我被一家公司投诉了</a>
-</h2>
-<p><p><strong>微信公号：歪理邪说（ID: wxieshuo）</strong><br><strong> 作者：霍炬</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A61.png" rel="attachment wp-att-431791"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A61.png?resize=575%2C319" alt="百度1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度1.png?resize=300%2C167 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度1.png?resize=768%2C427 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度1.png?w=900 900w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>昨天是3.15，国际消费者权益日。在这一天，总有一些商家会倒霉。虽然消费者也未必得到什么真好处，但面对商家弱势的消费者，毕竟是争回来一点面子，好歹算是消费者的节日。</p>
-<p>而百度，这家搜索引擎巨头，选择在3.15这天向微信投诉我2个月前的一篇文章《<a href="http://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E5%86%8D%E8%B0%88%E7%99%BE%E5%BA%A6%EF%BC%9Akpi%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%BB%99/">再谈百度：KPI、无人机，以及一个必须给父母看的案例</a>》侵犯其商誉。这是一个相当耐人寻味的举动。在这一天，通常只有个人投诉商家，第一次有商家投诉个人。大概也创下了一个新的世界记录，和他们把血友病贴吧卖掉的行为水平差不多，前无古人，后估计也未必有来者。</p>
-<p>这几天人们都在问，Google做出了Alpha Go，第一次用人工智能在围棋上战胜了人类，百度有什么创新？现在这个问题可以回答了，这家公司永远有让你意料不到的创新，只不过未必是你希望的那种。</p>
-<p>除了这样一个世界级创新，百度还创造了一个有趣的哲学问题。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A62.jpeg" rel="attachment wp-att-431790"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A62.jpeg?resize=525%2C299" alt="百度2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度2.jpeg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度2.jpeg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>请看这张截图，这是百度投诉的详情页面，投诉描述是这么写的“该文章内容明显失实，严重侵害了百度公司的名誉权，而且给百度公司的商誉造成了巨大的损失，违反了法律规定”。</p>
-<p>如果你之前看过我那篇文章（文末我会给出一个副本），应该记得，这篇文章主要描述了在百度进行一些正常搜索，点击竞价广告，遭遇冒充“中银国际”、“绿地投资集团“等知名企业的假“理财”网站的过程。而这些假理财网站在百度的搜索结果中，都是加蓝V的，也就是说获得了百度的认证。文章中所有截图都是从百度网页上原样抓取来的。</p>
-<p>那么这个问题就好玩了，只是描述了一家公司的正常产品流程以及截图的话，这篇文章能够侵犯其名誉权吗？如果描述产品本身就可以侵犯其名誉权，那么恰恰说明了这个产品本身是没有名誉的。百度认为来自百度网站的截图侵犯了百度的名誉权。这句话听起来像个绕口令一样的话，就是对整个事件最好的描述。</p>
-<p>同一天内，百度不仅贡献了在消费者权益日投诉消费者的伟大创新，还贡献了一个哲学问题“一家认为自己描述产品使用过程即可侵犯自己名誉的公司是否具有名誉”。说这家公司没有创新能力是说不过去的，这是魔幻现实主义级别的创新，一般公司是达不到这个高度的。</p>
-<p>今年的1月13日，百度卖掉血友病贴吧，原来的吧主是血友病患者，百度把贴吧卖给了一个“无法提供正常治疗“（为了避免侵犯名誉，引号中的词语请自行替换脑补），这已经是一件中国其他公司做不出来的事情了。我之前的文章也是因此事而起，告诉大家，别以为你不用百度看病就没事，就算搜索个普通的词语，哪怕在百度百家上看看文章，一样会被引导到____网站而被__（为了避免侵犯名誉，以上两个词请自行脑补）。到了3.15，一般公司应该反省一下在前面一年内，是否有侵犯消费者利益的行为。但是这家不一般的公司可不这样想，他们选了这一天四处设法删除之前的文章。之所以说四处删除，是因为除了我之外，我还知道好几个人的公众号文章被一样的办法投诉删除。</p>
-<p>血友病贴吧事件引发了强大的批评浪潮，在那之后，李彦宏表态说“对钻百度空子的个人和机构采取了掩耳盗铃式的容忍非常危险”。之前人们不太理解，为什么李彦宏表示不能容忍，但事实上仍然出了那么多问题。被投诉之后，现在我能正面理解这句话了，他的意思是对批评百度的个人和机构容忍非常危险，不能放过这些人。原文只不过是省略了批评二字罢了。李彦宏针对此事还说过“百度会深刻反省，把危机变成机遇”，现在我们也明白了，意思就是等危机过去大家都忘了，就去想办法把文章都删掉，这就是机遇。</p>
-<p>百度有足够的钱也有足够的人，公关法务认真负责，确实能对批评做到零容忍。相比之下我们弱势的多，我就一个人，一块键盘而已。不过我也没打算退缩，毕竟，文字的魅力就在于，就像我这样我通篇一个负面词都没有，但读者仍然明白我在说什么。就算百度仍然存在名誉这种东西的话，侵犯它的也不应该是我，而是他们自己的实际行为。这家公司的形象是如此深入人心，就算我把这篇文章里面大量的词都留了空，读者仍然能自行按照其形象脑补出来我想写什么。</p>
-<p>血友病贴吧事件的时候，我的朋友Jack引用英国前首相丘吉尔的一句名言做为评论：“在阿拉曼战役之前，我们从来没有赢过；在阿拉曼战役之后，我们从来没有输过。” 是的，我们的文章可以被删掉，社会的广泛认知和人心，删不掉。</p>
-<p>当然，要是真如百度投诉所说“给百度公司的商誉造成了巨大的损失“，那就是我的荣耀。这说明了凭借我们这些普通人的努力，多少避免了一些普通人的利益遭到伤害，他们没公关，没法务，甚至可能也没什么钱。在百度对我们的文章“零容忍“的实际做法上，他们更难在媒体上发出声音。</p>
-<p>尽管没报什么指望，我还是去微信发起了一次申诉，理由是这么写的：</p>
-<ol><li>此文原文附带了各种截图，都是真实来自百度的截图，内容无失实。至今去百度搜索，文中所述问题仍存在。</li>
-<li>315前一天，百度投诉它，说明了它真实且对普通消费者有意义。</li>
-<li>消费者权益保护法第六条规定：国家鼓励、支持…个人对损害消费者合法权益的行为进行社会监督。我履行的是国家法律赋予的监督权。</li>
-</ol><p>至于是否成功，我也不在乎。整件事情就是一个充满魔幻的行为艺术，我完成这最后一步，其魔幻意义就到达了顶峰，结果已经不重要了。</p>
-<p>感谢百度，给了我以及我们一个如此特别的3.15。这家公司今年没上3.15晚会，虽然大家都明白它才是最应该上的那家公司。新的一年里面，我会继续认真看着你在____上的每一项创新的。（为了避免损害名誉，此处细节请自行脑补）</p>
-<p>最后，我简单的用上一篇文章中的截图做个回顾吧。一图胜千言。两张图均截取自百度搜索结果页面，以及从百度搜索页面点击之后的结果，完全真实。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A63.jpg" rel="attachment wp-att-431816"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A63.jpg?resize=550%2C393" alt="百度3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度3.jpg?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度3.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A64.jpg" rel="attachment wp-att-431815"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A64.jpg?resize=550%2C393" alt="百度4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度4.jpg?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度4.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>你猜从百度搜索到的这个中银国际是什么公司？为了防止侵害百度名誉，我就不自己做这个判断了。以下来自中银国际控股有限公司（香港）发出的官方提示，一看就明白了。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A65.jpg" rel="attachment wp-att-431814"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%99%BE%E5%BA%A65.jpg?resize=475%2C666" alt="百度5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度5.jpg?resize=214%2C300 214w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/百度5.jpg?w=597 597w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<hr><p>除我之外，詹膑老师也有一篇类似主题的文章同时被投诉。他们的公关真是挺辛苦的。很多年后，当别人告诉后代自己年轻时候曾经和一家____（为了避免损害商誉，此处请自行脑补）的公司战斗过的时候，百度的公关们只能告诉后代，我们辛苦的助_为_（为了避免损害商誉，此处请自行脑补），成绩斐然，在消费者权益日这一天投诉了大量普通消费者，成功删掉了他们写的文章，并因此创造了人类的历史上的第一次。这也是一种生活方式吧。</p>
-<hr><p>考虑到“如果再有类似违规情况，将加重处罚甚至永久性屏蔽所有功能。”，我又不可能不写这些文章…所以我开了一个邮件列表，欢迎大家订阅，这样我可以把文章通过邮件的方式发给大家，到自己邮箱里，就不怕被删掉了，转发给朋友也方便。</p>
-<p>邮件列表适合写字，不太适合放图，所以两边的版本可能有一些区别。如果想点阅，请到 http://tinyletter.com/wxieshuo 输入你的邮箱（点阅读原文也可以到这个页面），之后会收到一封确认邮件，点确认即可。以后就可以收到我用邮件方式投递的文章了。希望这个地址可以被访问到…我不会发垃圾邮件骚扰你的，尽管放心订阅。</p>
-<hr><p>有太多的人在后台发消息问我文章有没有备份，后台不支持消息群发，只能一个个回复，我回复了10多页留言，但是实在回复不过来了…虽然原文被删，但幸好我早早就放弃了那篇文章的一切权利，大家已经复制了很多份，并不难找到。我这里随便列出几个地址，都可以访问。</p>
-<ul><li>http://yd.sina.cn/article/detail-ifxnqriz9734749.d.html</li>
-<li>http://chuansong.me/n/2164233</li>
-<li>http://note.youdao.com/share/?id=9223fc8ba270bc6f974e0662a49526fc&type=note</li>
-</ul><p>谢谢转贴复制的各位朋友。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4/?category=18271" rel="tag">科技巨头</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-%E8%AE%B2%E4%B8%80%E4%B8%AA%E6%88%91%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B9%B0%E6%88%BF%E6%95%85%E4%BA%8B/" target="cdt-mirror">三联生活周刊 | 讲一个我朋友的买房故事</a>
-</h2>
-<p><p>我身边在北京买房的朋友，不管是自己买，还是小夫妻合买，每个人基本家里都给出了100万首付。这100万怎么花就立刻分了门道。</p>
-<p>其中一个朋友是1988年的女生，法律系+传播学学历，现在在网上做做外贸。平时交往时，我总觉得她遇事儿琢磨太多，现在才发现这个能力放在倒腾房子上简直是个天赋。</p>
-<p>她的故事我写进了上周的稿子，用的口述体。如下。<br>
-——————-</p>
-<p>我一直觉得，房子是你的物品，要随时关注能不能拎包就走，不能为了房子给自己添羁绊。</p>
-<p>我家一直住在北苑这，北五环外七八年前都是荒地，渐渐盖了很多新楼盘，2011年还读书时我就关注过房价，当时劝我妈买一个88平的二居室，均价6000。可惜当年我没有话语权，家里没听我的，现在那套房子每平米已经涨到6万了。</p>
-<p>新房涨价是最快的，这边户型好，挨着三个大公园，空气也比南边更好，有车的话进城也很方便。2013年我结婚，2012年底双方父母拿了200万首付，这笔钱完全由我和老公自己支配。我还是把房子买在北苑了，2012年年底买，2013年年初收房。那200万装修结婚花了一部分，用90万做首付，贷款180万买了现在160平的房子，还剩下80万。</p>
-<p>2014年，我们把80万提前还了贷款。这次房价上涨，我们的房子现在售价480万～500万，还掉余下的100万贷款，还能剩下400万。如果没有买这个房子，那200万初始资金无论怎么理财，也不可能3年变400万啊！</p>
-<p>我老公是广州人，2014年，他工作调回广州，我跟着一起过去了。当时如果租房子，每个月要三四千元，这是纯粹的消费行为，还不如用这个钱还房贷。刚好那时我运气不错，做了两笔生意赚了点钱，跟存款一起凑了40万，买了珠江新城一个100多万的一居小公寓。</p>
-<p>买房很简单，事先先看大量数据：看成交价、价格走势、户型、绿化面积、交通、小区配套，我没有Excel表格，就是用脑子筛选。刚结婚时，我买房这方面跟老公的沟通成本还很高，很快他就全权让我处理了，广州的一居，从看到买，一共就一周时间——先定区域，再定小区，最后能看的其实没几套，差不多就直接拿下。珠江新城是广州的CBD，周围白领多，租售比高，这个房子的月供是提前算过的，每个月月租的4500块钱，正好两两相抵。</p>
-<p>在广州的第二年，我买了一个不限购的商住两用loft，去年广州楼市行情不好，我说服我妈买了一个建筑面积60平方米、全价110万的房子，写我爸的名字。贷款要10年还完，我来还贷，等到他们差不多退休了，租金正好给他们当退休金的补充。</p>
-<p>3套房产，总共贷款有300万，这其实就是用杠杆来买房。每月月供算下来一个月1万5，占家庭月收入的一半，其实也并不怎么影响生活。我们完全不攒钱，休闲消费开销很大，每个月的流水大多去还了房贷、信用卡，靠这个强制节流。每年我和老公还要出国游两次，我爸都好奇，一个马尔代夫你怎么去了三次还要去？</p>
-<p>钱留着干什么呢？放在手里也是贬值，不如借房地产，加杠杆来升值。我现在听说我妈有存款我就焦虑，她买的理财都是年化收益率3%左右，这么保守压根跑不过通胀。我们双方父母也不干涉我们买房，每次倒腾之前，我爸妈就跟我说，盈亏自负。其实如果父母真的要掺和，很多事儿一定就干不成了。</p>
-<p>从2014年到2016年，因为工作变动两年里我搬了4次家，换房子实在是太简单的事儿了。几个房子都是自己装修的，北京的房子花了50万装修，大头都放在了实木家具上，那些打在墙里的柜子带不走，最后搬家相当于扔了。装修完的房子反而能提高房价，最后也能直接卖给下家——如果他们再装修，材料费、时间精力都不划算，而且北京租房这么贵，空半年放味儿也是一大笔钱。</p>
-<p>房子旧了就得换，只有新房才保值。</p>
-<p>这次换房的动因，是春节前我偶然关注了一下学区房，不看不知道，才发现学区这个政策把房价推得太高了，在我看，这次换房的主力都是要生二胎、要买学区。我买房时见过一个博士，把自己400万的大房子卖了，到海淀区买一个700万的小户型，那个房子据说有20多年房龄了，为的就是孩子能上人大附小。</p>
-<p>我做不到那么无私，可能是现在还没有孩子，我不能接受自己搬到海淀那种拥挤的环境里。而且，万一学区的政策变了，学校搬了、划片变了，你这个房子唯一的溢价就在学校，那时候怎么办？<br>
-我并不是要追学区房的政策，而是我再不换房，我的房子就不如学区房涨得快了。</p>
-<p>3月5号我看了一套房子，是朝阳外国语分校的学区，业主2013年460万买的，当时挂的是880万。3月12号我跟业主面谈前，这套房子已经涨到了920万，就是这么快。</p>
-<p>12号中午11：30跟业主见面，一直谈到了下午四五点，中介才放我们走。买房子的人多，我找的这家链家也希望我能谈成，买星巴克咖啡、买麦当劳，供吃供喝不让我们走。</p>
-<p>周六这一单，就是一个连了5套房子的食物链：</p>
-<p>业主A要买2000万的别墅；<br>
-业主B要接他1000万的大平层；<br>
-我是业主C，想把买880万的学区房；<br>
-找我的买家D，是想换成我480万的三居；<br>
-最底下的买家E，就是被压迫的、没有房子、买210万一居首套房的纯刚需。</p>
-<p>我们都在链家系统里买房，中介还告诉我：姐你下次用个新手机，注册个新链家账户，现在你买、卖什么情况，其实我们都一清二楚。</p>
-<p>这种连环单里，所有人都怕吃亏，全都要先买后卖，条件一层比一层苛刻：A跟B要求7月中旬拿出700万现款，好去买别墅。B跟我就要求6月底拿700万，到我这，我就必须跟下家也要提前15天。</p>
-<p>更苛刻的还有，业主B要求我：一、6月末拿700万现金；二、他要住到12月再腾房，这期间不给房租；三、定金要100万，当晚要给50万，其余的一周内补齐。</p>
-<p>我还奔着谈到890万的预期去的，结果他觉得我不是优质客户，我觉得谈判失败，大家心里都非常别扭，中介的店长唱黑脸，把夹子往业主面前一摔：“你也别太欺负人了！”业主大哥想想，给了个面子：好吧我总价降一万。919万。</p>
-<p>最后，被中介强拉着，下午大家还是谈到909万，签了一个10万的定金合同。晚上到家我就哭了，太委屈了，怎么这么受气啊？</p>
-<p>二手房市场现在已经疯了。中介后来跟我讲，有个人想卖房买别墅，跟客户说要2017年底腾房，足足两年之后！虽然每个月要给9000块钱租金吧，都这么周转不开了，这房子还换它干吗呢？之前还听说，我们这小区有个大姐卖毛坯房，160平方要980万，打电话问能不能见一下业主，大姐高兴了：“好啊！见啊，再涨20万。”——就是“听风涨”！我的房子跟链家签了独家速销房，但也只是挂着，我现在还没法卖。现在接电话，中介上来就问“能签约吗？”这都是这几月的黑话了，潜台词问你上游的房子买了没有，买了，我就带诚心买的客户过来看房。</p>
-<p>像那种意向金，交2万块钱，提前给你约见房主，在500万以上的交易里已经没人用了，都是换房，提前见你没用，能坐下来收钱才是真的。我们给的10万定金，跟909万相比就是杯水车薪，签的也不是标准合同。</p>
-<p>12号晚上11点，我接到中介电话，说业主那边改了条件，要求6月上旬就拿到700万现金。这话我一听就明白了，人家这是想违约，我上哪能那么快搞到这么多钱？挂了电话我反而一下子轻松了：就算是这单真的签成了，之后的两个月我也得跟打仗似的，赶紧卖房子，赶紧找现金，赶紧过户。而且我的房子就挂在链家上卖，他们知道我时间这么紧张，房子就再也卖不上高价了。</p>
-<p>13号上午，我去链家那拿回了10万定金，大家还要继续合作，就别指着什么双倍赔偿了。</p>
-<p>我还是得继续找房子，换房不存在追涨不追涨，我的房子，和我要买的房子，涨价的速度差会越来越大，再不换就更追不上了。从那条食物链里的阶梯价格差就能看出来，一定是大户型的涨得快，更有话语权。如果实在买不到，我就买街对面这个福熙大道的新盘，开盘价预计7万3，买个二居室，全下来900多万。现在只能交20万排个队，不保证能买到，只是排个号。</p>
-<p>我现在其实是离婚状态，我跟我老公恋爱4个月闪婚，半年后为了买广州那套一居室办离婚，结婚证只是个形式，我俩和家里人都没那么在乎。我和老公经常说，如果我们早生两年，绝对比现在的条件好。像卖920万房子的大哥，1978年生，就是占了这早生10年的便宜，一路被房地产的大势推着走。现在用2013年900万的房子，去买2006年1000万的平层，就是因为老婆喜欢，自己想每天步行上班，这其实是一个绝对的消费行为。跟他相比，我们还不到30岁，上升的需求更迫切，他在平移，而我在用房子往上跳。</p>
-<p>（发表于2016年第12期《三联生活周刊》）</p>
-<p>勘误：文首2011年均价6000的房子是受访者记错了时间，应该是2009年。楼盘是润泽悦溪，一楼底层未开盘前打折价6800元。关键时间写错了，跟大家致歉。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-%E8%AE%B2%E4%B8%80%E4%B8%AA%E6%88%91%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B9%B0%E6%88%BF%E6%95%85%E4%BA%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9A%E4%B8%BB/?category=18271" rel="tag">业主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BB%8B/?category=18271" rel="tag">中介</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E6%88%BF/?category=18271" rel="tag">买房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%A8%E4%BB%B7/?category=18271" rel="tag">涨价</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%AD%9D/" target="cdt-mirror">【麻辣总局】邝飚：孝</a>
-</h2>
-<p><p>作者：邝飚</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg" rel="attachment wp-att-431785"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg?resize=500%2C548" alt="mmexport1458079049881" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg?resize=274%2C300 274w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458079049881.jpg?w=730 730w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>相关阅读：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%85%B1%E8%AF%86%E7%BD%91-%E7%BE%BD%E6%88%88%EF%BC%9A%E4%BB%8E%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6%E5%88%B0%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/">共识网 | 羽戈：从“感谢国家”到“孝顺国家”</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E9%A3%8E%E4%BC%A0%E5%AA%92%EF%BD%9C%E7%AC%91%E8%9C%80%EF%BC%9A%E8%A6%81%E6%B1%82%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6%E6%98%AF%E6%94%BF%E6%B2%BB%E4%B9%B1%E4%BC%A6/">风传媒｜笑蜀：要求孝顺国家是政治乱伦 </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/">【图说天朝】孝顺走肖家</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%EF%BC%9F%E5%85%88%E6%9C%89%E7%88%B1%E5%9B%BD%E8%80%85%EF%BC%8C%E8%BF%98%E6%98%AF/">微思客 | 我和国家是什么关系？先有爱国者，还是先有可爱之国</a></li>
-</ul></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%82%9D%E9%A3%9A%EF%BC%9A%E5%AD%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -794,7 +789,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -804,5 +799,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

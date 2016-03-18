@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,88 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B1%9F%E8%A5%BF%E8%A6%81%E6%B1%82%E5%AE%A3%E4%BC%A0%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E8%B4%AD%E6%88%BF%E6%98%AF%E5%8D%87%E5%80%BC-%E5%86%9C%E6%9D%91%E5%BB%BA%E6%88%BF%E6%98%AF%E8%B4%AC/" target="cdt-mirror">【网络民议】老乡别跑呀买套房——再跑我开枪了</a>
+</h2>
+<p><p>据财经网<a href="http://finance.sina.com.cn/china/gncj/2016-03-17/doc-ifxqnskh0921568.shtml" target="_blank">报道</a>，江西政府日前全面开展房地产去库存工作，相关方案中包括要求宣传“农民进城购房是升值 农村建房是贬值”的理念：</p>
+<blockquote><p>目前，江西面临着库存压力加大，风险逐步积累；市场分化明显，发展不平衡；市场需求增加，发展空间大等特点。我省鼓励农民工、农民进城购房，同时，加大棚改货币化安置，<strong>今后政府的项目建设不再建安置房，推进货币化安置，关键在让利于民</strong>。此外，要用足用好公积金，着力提高个贷率，发挥好住房公积金支持职工购买改善住房条件的作用，<strong>全力打好去库存的硬仗</strong>。</p>
+<p>我省要求，各地市要摸准库存情况，制定去库存方案，结合实际出实招，及时制订出台具体方案。<strong>同时，要广泛宣传去库存政策，形成共识，宣传“农民在城市购房是升值，在农村建房是贬值”的理念</strong>。</p></blockquote>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png" rel="attachment wp-att-432055"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png?resize=500%2C278" alt="2016年3月4日 《南昌日报》第7版" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>2016年3月4日 《南昌日报》第7版</p></div>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E6%B2%88%E9%98%B3%E5%AE%98%E6%96%B9%E6%94%B9%E5%8F%A3%EF%BC%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%9B%B6%E9%A6%96%E4%BB%98%E8%B4%AD%E6%88%BF/" target="_blank">新京报 | 沈阳官方“改口”：“大学生零首付购房”尚在调研</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81-%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%B6%E5%BA%A6%E5%8F%B2/" target="_blank">月下鹰翔：空中楼阁——建国以来房地产制度史</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%93%AA%E6%98%AF%E6%95%91%E4%B8%96%EF%BC%8C%E8%BF%99%E5%88%86%E6%98%8E%E6%98%AF%E6%80%95%E6%88%91%E8%B7%91%E4%BA%86%E5%91%80/" target="_blank">【网络民议】这哪是救市，这分明是怕我跑了呀</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BA%86%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83/" target="_blank">【图说天朝】政府为了房地产操碎了心</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E9%AC%BC%E5%9F%8E%E5%9C%B0%E5%9B%BE/" target="_blank">奇闻录 | 中国“鬼城”地图</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2014/08/%E5%85%9A%E6%8A%A5%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E9%A3%8E%E5%90%91%E6%A0%87-%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%B4%A9/" target="_blank">党报：李嘉诚不是中国楼市风向标 房地产不可能崩盘</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@草原的小风：哎，老乡，别走啊，再买套房</p>
+<p><a href="http://weibo.com/3462097154" target="_blank">@彼得潘的想象</a>：老乡，农村的房子会贬值，信不信？不信我开<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8493.png?resize=20%2C20" alt="" px data-recalc-dims="1">了。</p>
+<p>@段郎微议：老乡，城里购房升值哩。咦、别跑，再跑开枪了！</p>
+<p><a href="http://weibo.com/3967429908" target="_blank">@秦沐楚</a>：<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">果然把去库存的主意打到农民身上来了<img title="[白眼]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/landeln_org.gif" alt="[白眼]" data-recalc-dims="1"></p>
+<p><strong><a href="http://weibo.com/2974126254" target="_blank">@没文化起什么名字</a>：果然充分利用媒体姓党么<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></strong></p>
+<p><a href="http://weibo.com/zc060222" target="_blank">@广广陵陵Samuel</a>：多生娃，少种树！城市买房好致富！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@里予言周無月空：一人买房，全家光荣。</p>
+<p><strong>@月季花开的微博：买房兴邦</strong></p>
+<p><a href="http://weibo.com/5869955944" target="_blank">@拿手撕裂</a>：救钢铁，结果钢铁比白菜还便宜。救煤，煤企业“史诗级”亏损。后来救石化，石化“恐龙级”亏损。然后决定商业收储夺定价权，结果泛亚坑了几十万人。再后来救股市，股市从五千暴跌到两千五套了几亿人。现在，他们终于要救房地产了。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5650219200" target="_blank">@东经129的仰望</a>：政府努力宣传的千万不要信，政府努力不让你干的可以考虑，比如一线城市限购<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2697426320" target="_blank">@Hubble0410</a><i title="微博达人"></i>：这神逻辑~现在为了卖房~真是什么都不要了~<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">乡亲们快来买啊~为国接盘了~<img title="[熊猫]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/panda_org.gif" alt="[熊猫]" data-recalc-dims="1"><img title="[熊猫]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/panda_org.gif" alt="[熊猫]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1430928535" target="_blank">@谷公馆</a>：地产党<img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"><img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2214391422" target="_blank">@油粘米朱金华</a><i title="微博达人"></i>：已经图穷匕见了，我知道政府想快点清库存，但能否注意下吃相，农村的房子是宅基地，我党的法律规定是不能买卖，既然都不能买卖，何来贬值一说呀。<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">你把农民的血汗钱都去买房了，首付都可能负债，每个月怎么偿还银行贷款，他们连稳定工作都没有，更没有住房公积金，靠种地能供房吗？</p>
+<p>@溜溜蛋挞：忽悠！接着忽悠！知道了吧政府和开发商是一伙的。一丘之貉！</p>
+<p>@诱色可吃：要拿出宣传计划生育的力度来：农村房、贬值忙、有房没新娘；城里房、潜力强、到处当新郎。农村建房三年牢，城里买房赏，赏，赏！农村建房穷八代，城里买房富百年。 一家农村建房，全村十年饥荒…</p>
+<p>@和珅是个好同志：这样宣传太费劲了，其实只需出台一纸禁令：即日起，停止审批农村新建住房，违者一律强拆。农民自然进城买房了！</p>
+<p>@马克思酷佩恩：中央集权控制让中国人信奉“活下去就好”，这个政权体制和这种意识形态，这样一种后现代的控制方式，后极权的控制方式，它最后让你低到尘土里去，还不停地感谢他，就是能活着就好，然后不反抗，不怀疑，承重，然后忍着。土地财政逼着老百姓倾家荡产，老百姓还说感谢政府感恩“廉租房圆了我的住房梦”</p>
+<p>@稀里糊涂的豆丁要去旅行：房地产支撑经济？害苦一大波人啊</p>
+<p>@南蛮荒地：只生一个好，政府来养老，政府帮养老。。。。。全面二胎。。。延迟退休。。。</p>
+<p>@小强嘟嘟：”忽悠，接着忽悠……组团儿忽悠我来了。”</p>
+<p>@长安追梦者：这不是坑农民么！谁给解决就业，城市户口，上学，医疗等？</p>
+<p>@魔风起兮：再穷不能穷政府</p>
+<p>@简而有力：以后江西警方抓到诈骗犯都直接送到省委宣传部上班，卖1百套库存房子抵一年刑期</p>
+<p>@此生唯爱布莱恩特先生：哈哈哈哈 还光明正大的宣传起来了</p>
+<p>@美利坚合众国驻渝联络处：乡亲们，出来吧，皇军来看你们了，给你们孩子们带糖来了。。</p>
+<p>@Ann-Yea：圖片評論<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg" rel="attachment wp-att-432056"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg?resize=400%2C265" alt="5ec934fdgw1f207gjo9s5j20c107z3z0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg?w=433 433w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p> </p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B1%9F%E8%A5%BF%E8%A6%81%E6%B1%82%E5%AE%A3%E4%BC%A0%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E8%B4%AD%E6%88%BF%E6%98%AF%E5%8D%87%E5%80%BC-%E5%86%9C%E6%9D%91%E5%BB%BA%E6%88%BF%E6%98%AF%E8%B4%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E/?category=18271" rel="tag">农民进城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房地产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%8E%A7/?category=18271" rel="tag">房地产调控</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AD%8F%E4%BA%AC%E7%94%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%BA%BB%E7%83%A6/" target="cdt-mirror">自由亚洲 | 魏京生：习近平的麻烦</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-%E4%B8%8B%E5%8D%883.31.48.png?resize=589%2C385" alt="Screen Shot 2016-03-17 at 下午3.31.48" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-下午3.31.48.png?resize=300%2C196 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-下午3.31.48.png?resize=230%2C150 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-下午3.31.48.png?w=589 589w" sizes="(max-width: 589px) 100vw, 589px" data-recalc-dims="1"></p>
+<p>上个星期刚说了有好戏看，没想到好戏这么快就上场了。上个星期刚说了在党媒上骂共产党才算好汉，这个星期好汉就纷纷出场。这个速度倒是挺合我的脾气，有事就说有话就放，别磨磨唧唧的成事不足败事有余。</p>
+<p>好汉是谁，不知道。隐士一名，刺客列传。直接写公开信叫习近平下台，而且还是刊载在正宗的党媒上。当然，人家早就算好了现代技术条件，上网后很快就删除，你的棍子打不到俺的屁股上。可是微信等等早已经传遍了世界。闹得习总书记习泽东很没有面子。</p>
+<p>好戏要有连场才好看，才过瘾。继叫板下台信之后，还是党媒出了一个看似无意；又看似有意的错别字。习总书记成了中共最后的领导人。这个错误如果从反面来解释倒还可以，说明习总书记独裁可以延续到他死，成为真正的习泽东。从正面解释就是中共垮台指日可待了。</p>
+<p>接下来好戏就升级了。新疆的书记，政治局委员在被问到是否拥护习近平的领导时，居然会说；再说吧。这在中共官场语言中就是明显抵抗的情绪。这可确实升级了，有点儿政治局民主的意思了。有反对情绪居然不会饶着圈儿说，这就是公然反对独裁者。张春贤同志需要鼓励。</p>
+<p>林林总总，最近的趣闻实在不少，不必一一列举。都说明习近平遇到麻烦了，而且是大麻烦。据某外国中文媒体评论，是什么四种势力吹响了反习的集结号。有鼻子有眼，好戏才刚刚开始吧？</p>
+<p>据 我观察，可能不止一种势力反习。究竟有多少不好说，因为没有公认的划分。中国的政治暗箱操作，很难肯定谁是什么色彩，这还不包括各路卧底的英雄。很难说清 楚三种四种势力。甚至公开逼习近平下台的究竟是什么人，习近平自己都查不清。可能得到监狱里问问周永康才知道是谁的卧底。</p>
+<p>现在连网友们都看得眼花缭乱了，吹捧习近平的是不是习总的马仔都不一定。害得习总享受了两年多之后，终于禁止人家叫他习大大，彭嘛嘛。这可真是一场乱仗，算起来习近平已经是孤家寡人了。据说连王岐山都不带他玩儿了，这可是有点儿耸人听闻。</p>
+<p>虽然有点儿耸人听闻，但还不算捕风捉影。习近平和王岐山虽然是铁哥们儿兼政治盟友，但在走向独裁的道路上，他们开始产生了分歧。王岐山所属的党内明智之士小圈子认为，不向民意妥协走向民主法制就是自取灭亡，届时大家都会死无葬身之地。</p>
+<p>所 以曲线民主是他们不得已的选择，打着红旗反红旗是他们的基本路线。之所以不得不当地下反革命，是因为他们名义上所属的共产党，还包括一大批身负血债的中下 级官吏。这些人一听见民主法制就会发抖，不管你是谁也要一反到底。要想和平演变达到民主改革，党内大多数是他们绕不过去的障碍。</p>
+<p>习近平的从政风格，就是脚踩两只船，模糊到了真假难辨，哪边都不沾的不粘锅。为了当上新一代的皇帝习泽东，他需要党内大多数的拥戴。所以不得不向血债帮妥协，装扮出一副极左的面像，表示不会向民主自由妥协。还迫使王岐山公开表态不会实行真正的法制。</p>
+<p>可是走向皇帝新衣的道路上，终于踩到了地雷。害怕死无葬身之地的明智派终于忍无可忍了，任大嘴代表他们出来戗声了。这一下子天下大乱，反习的号角终于吹响了，各种不同的势力都卷入了战团。党内党外的民主派卷入战团很正常；奇怪的是血债帮也卷入了战团，有点儿匪夷所思。</p>
+<p>左右齐上阵加入反习的战团，让人感到有些怪怪的。</p>
+<p>民主派看见他走向独裁忍无可忍很正常；血债帮看见他脚踩两只船也不放心，不如换上一个听话的头头，可以不必每天提心吊胆。与其不知道选择性反腐会反到谁的头上，不如反掉这个反腐的头头更安全。这就是党内各派势力都加入到反习战团的主要原因。</p>
+<p>他们的口号是学习慈禧太后扶持一个听话的弱主，据说备选的人士，第一名就是现在的总理李克强。在今年的两会上李克强受到了全场热烈的掌声，官方的解释当然是他得到了党内多数的拥戴。习近平对他出奇的冷淡，正说明血债帮对他全力支持，准备取代习近平。习近平已经失去了党心。</p>
+<p>可 是仅仅冷淡没什么用，人家弱主李克强就是比你用着放心。即使没有李克强；还可以有张克强，王克强、赵克强等等。总之，党和它的大多数已经抛弃了你习近平， 现在就是低头服软也为时已晚。开弓没有回头箭，既然已经把你习近平得罪了，就只能得罪到底。而且这是利益攸关，生死搏斗。看准了机会就下手，党内斗争你就 别想了，胜负已定。</p>
+<p>那么习近平还有活路吗?有还是有，只不过以习近平的四平八稳脚踩两只船的习惯，恐怕他没这个胆量。党内民主你占了少数；人民民主你不一定占少数。任志强已经给你指出了人民民主的活路，说明双方都已经亮剑了，狭路相逢勇者胜。</p>
+<p>习近平的麻烦不是一件坏事，习近平优柔寡断的性格，可能才是他真正的麻烦。看清楚的事情就要下决心，当断不断反受其乱。</p>
+<p>（文章只代表特约评论员个人的立场和观点）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AD%8F%E4%BA%AC%E7%94%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%BA%BB%E7%83%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%80%92%E4%B9%A0/?category=18271" rel="tag">媒体倒习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E4%BA%AC%E7%94%9F/?category=18271" rel="tag">魏京生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%9C%9F%E7%9A%84%E6%8A%93%E4%B8%8D%E5%88%B0%E5%B0%B1%E6%8A%93%E5%A7%93%E8%B4%BE%E7%9A%84/" target="cdt-mirror">【习总日记】 真的抓不到就抓姓贾的</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，17）</p>
@@ -691,85 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B0%B7%E6%AD%8C%E9%A2%86%E5%AF%BC%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">【习总日记】 谷歌领导中国</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，13）</p>
-<p>工具是人制造的，借助它人的能力有了很大提高。汽车是人制造的，跑得比人还快。武器也是人制造的，反过来杀人。这些都是人类体力的提升。上个世纪人类发明了电脑，借助电脑，人类的脑力开始进步。这几天，谷歌围棋机器人打败了人类围棋高手，证明机器人的脑力在某一领域开始超越人脑。</p>
-<p>假设人脑有一亿种功能，那么生产一亿台机器人，各司其职，每一台专学人脑的一种功能，结果意料之中，这一亿台机器人比一个人聪明能干。然后进行机器人微型化，把一亿台机器人合并成一个机器人，不用怀疑，一个机器人比一个人还聪明。随着时间推移，每一个机器人比人类聪明的程度无法想象。如此说来，又一个新世纪开始了。</p>
-<p>作为中共党总书记，国家主席和军委主席，脑袋瓜不能沉浸在展望未来当中，更重要的是把眼前的事情办好。我叫秘书接通了谷歌总部，以中国最高最聪明领导人的身份向谷歌发出邀请，请他们来中南海作客，有要事相谈。<br>
-马上，谷歌老总阿尔法亲自带队穿云破霾飞抵北京。</p>
-<p>阿尔法（很娘的表情）：尊敬的习大大尊贵的习大大，我们心里好高兴哟。请别说让我猜，一定是，中国对谷歌解禁？</p>
-<p>习大大：谷歌解禁没问题。但解禁之前你们要帮我做件事。</p>
-<p>阿尔法（继续娘）：没有问题。请习大大提出您的条件。</p>
-<p>习大大：我看了你们的围棋机器人打败了韩国围棋高手李世石。很是惊讶，也很受启发。开门见山说吧，就是希望你们设计制造一台机器人，目的很简单，就是领导中国，维持共产党统治。</p>
-<p>阿尔法（就是娘）：我的娘啊，天哪，这多神奇啊！</p>
-<p>习大大：价钱好说，尽管开口。给你们的钱一定比让谷歌进入中国赚得还要多。</p>
-<p>阿尔法：习大大，我能不能晕过去几分钟？这太神奇了！请习大大给机器人赐名。</p>
-<p>习大大：赐名？下围棋的叫阿尔法狗，领导中国么，叫“北塔瓷”如何？</p>
-<p>阿尔法：没想到习大大如此博学多才。一个工农兵大学生，领导十四亿中国人，不容易啊！</p>
-<p>习大大：没那么夸张，中国人相对来说比较容易领导。他们纯朴老实好欺负。</p>
-<p>阿尔法：名字有了，还需要样本。</p>
-<p>习大大：什么是样本？</p>
-<p>阿尔法：样本就好比是围棋棋谱，人类的实战经验。通过打棋谱练习，机器人下棋水平不断提升。因为机器人下围棋战胜人类的绝招就是记忆，当机器人记忆量达到人类记忆的一百倍时，就能打败人类最高棋手了。而人类棋手最大的缺点是记忆力有限。</p>
-<p>习大大：我懂了。就是共产党统治成功范例。对吧？</p>
-<p>阿尔法：习大大冰雪聪明。怪不得人见人爱，（唱）你要是嫁人不要嫁给别人，一定要嫁给习大大。</p>
-<p>习大大：毛主席统治的28年。朝鲜金家三代统治近七十年。都是成功范例。</p>
-<p>阿尔法：前苏联，希特勒德国，墨索里尼意大利，也都是很成功的范例哟。</p>
-<p>习大大：嘿嘿，这个你们看着办，我不反对。</p>
-<p>阿尔法：习大大请放心，谷歌机器人一定能够在任何时候无论遇到什么样的苦难，都可以给出最佳方案，帮助您达到维持共产党统治目的。</p>
-<p>习大大：个人有一个小小要求，先做个试验，让我相信你们能够完成我党交给你们的任务。</p>
-<p>阿尔法：客户的要求就是上帝的旨意。请说。</p>
-<p>习大大：能否先完成这样一个课题，帮我设计一套计划程序，废除总书记任期制，实现终身制。</p>
-<p>阿尔法：这个不难吧，朝鲜不就是终身制的么？我们把金正恩他爷爷当年如何实现终身制的历史拿来分析研究，结合中国国情，为您习大大量身定做一个实现个人终身制的计划方案。</p>
-<p>习大大：那敢情好。先谢谢了啊！这是预付款请收下。</p>
-<p>阿尔法：请问习大大还有什么要求？</p>
-<p>习大大：嗯，有，还真有一个要求。请你们也好好研究袁世凯洪宪皇帝，帝制复辟是如何失败的。前车之鉴哪。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B0%B7%E6%AD%8C%E9%A2%86%E5%AF%BC%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A9%E6%8A%A5-%E5%8C%97%E4%BA%AC%E9%83%A8%E5%88%86%E5%BA%97%E5%AE%B6%E4%B8%8D%E6%BB%A1wifi%E8%A2%AB%E7%9B%91%E6%8E%A7%E9%80%89%E6%8B%A9%E4%B8%8B%E7%BD%91/" target="cdt-mirror">东方早报 | 北京部分店家不满WiFi被监控选择下网</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?resize=412%2C550" alt="图为北京市东城区公安分局发给辖内一些免费提供WIFI服务的酒吧、书店、咖啡馆等场所的《非经营上网服务场所调查表》背面的填表说明。早报记者 许荻晔 图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/53833882.jpg?w=412 412w" sizes="(max-width: 412px) 100vw, 412px" data-recalc-dims="1"><p>图为北京市东城区公安分局发给辖内一些免费提供WIFI服务的酒吧、书店、咖啡馆等场所的《非经营上网服务场所调查表》背面的填表说明。早报记者 许荻晔 图</p></div>
-<p>早报记者 许荻晔 实习记者 万广朋 发自北京</p>
-<p>“我就纳闷什么系统得这么贵，得花2万元？”北京南锣鼓巷的一名咖啡馆店主向早报记者抱怨。</p>
-<p>从6月底开始，北京东城区东直门、南锣鼓巷等地区的一些免费提供WIFI服务的场所，如酒吧、书店、咖啡馆等，纷纷收到辖区派出所的通知，要求购买安装安全技术保护系统——“互联网公共上网服务场所安全管理系统”。</p>
-<p>早报记者获得的一份《非经营上网服务场所调查表》显示，安全保护系统措施设备的市场参考价格根据适用端口数不同，在2万到6万元不等。如不执行，则可能被没收非法收入、罚款、停止联网甚至取消联网资格。早报记者见到的包括东城公安分局发出的《关于开展非经营上网服务场所依法落实安全技术保护措施的通知》在内的几份文件，均无公章。</p>
-<p>早报记者昨天走访发现，并非所有东城区提供WIFI服务的场所都收到了通知，如东直门的东方金柜KTV、东单的上岛咖啡都表示未接到通知。收到通知的集中在东城区酒吧、咖啡馆的核心区域，时间亦有先后。</p>
-<p><strong>店主：</strong></p>
-<p><strong>“客人免费用WIFI，何来‘违法收入’”</strong></p>
-<p>北京东城区南锣鼓巷一家咖啡馆的店主向早报记者出示了从片区派出所得到的通知及表格，“大概两星期前通知去拿的。”</p>
-<p>由东城公安分局发出的《关于开展非经营上网服务场所依法落实安全技术保护措施的通知》显示，东城公安分局决定于2011年6月起在全区范围内的宾馆、酒店、图书馆电子阅览室、歌厅、洗浴、学校电教室等提供上网服务的场所，全面落实安全技术保护措施建设，要求记录并留存用户登陆和退出时间、主叫号码、账号、互联网地址或域名、系统维护日志的技术措施；并安装并运行互联网公共上网服务场所安全管理系统。</p>
-<p>据财新网援引《新京报》报道称，安装上述安全管理系统后，顾客浏览日志将被保存60天。</p>
-<p>东城公安分局的这份通知还显示，单位需填写《落实网络安全技术保护措施承诺书》及《非经营上网服务场所调查表》，并出资安装技术设施。如未建立安全保护管理制、未采取安全技术保护措施及未提供所需信息、资料及数据文件或提供内容不真实，将要求限期改正、没收违法收入。如未改正，则对负责人及单位处5000元及15000元以下的罚款。情节严重者停止联网、停机整顿，必要时吊销经营许可证或取消联网资格。</p>
-<p>在《非经营上网服务场所调查表》背面的填写说明中，安全保护技术措施设备市场参考价，根据适用端口数而不同。端口数在100及以下为2万元，800及以下为3万元，1500及以下为6万元。</p>
-<p>上述南锣鼓巷咖啡馆店主的表格与通知在收银机下翻出，并没有作任何填写。对于几份文件上均无公章，该店主表示了质疑，并称“没收违法收入”一项很令人费解，“WIFI本来就是免费给客人用的，哪来的收入？”</p>
-<p><strong>东城公安分局：</strong></p>
-<p><strong>“我们是保密部门，采访需经上级许可”</strong></p>
-<p>早报记者就此事分别向北京市公安局及东城区公安分局进行了解，对方均表示要进一步调查之后才能公布消息。而昨天下午早报记者致电东城公安分局网络安全保卫大队，对方表示是保密部门，需由上级宣传部门许可后才能接受采访。</p>
-<p>早报记者走访发现，并非所有东城区提供WIFI服务的场所都收到了通知，如东直门的东方金柜KTV、东单的上岛咖啡都表示未接到通知。收到通知的集中在东城区酒吧、咖啡馆的核心区域，时间亦有先后。如东直门地区较早，兼有书店、咖啡店的库布里克表示在7月初已接到通知，停止了店内的WIFI。而南锣鼓巷、交道口、五道营胡同大约是在一两周前收到的通知。</p>
-<p><strong>多数民营店主：“反对高价收费，宁可停掉WIFI”</strong></p>
-<p>对安装设备的收费，多数民营店主表示反对，价格是最重要的考量。“加强管理的话我们也同意，一两千元还可以，两万元谁承受得了？”前述南锣鼓巷咖啡店店主表示。</p>
-<p>早报记者了解到，五道营胡同的一家咖啡店主去派出所开完会后，停掉了店内的WIFI，“网络安全建设费用不应该由商户承担，其次安装防护软件也影响网速，会占用我们的带宽。本身胡同的带宽就不是很宽，因为离机房远。考虑之下还是直接停了。”</p>
-<p>该店主介绍，当时辖区派出所组织开会发此通知，但现场并未演示软件，也没有介绍购买软件后是否有管理、维护等相关服务。</p>
-<p>多数民营店主皆表示，在尚未强制执行之前，还将保留店内WIFI，如果要强制执行则会取消。一位交道口的咖啡店主表示，目前来店要求使用WIFI的客人大约在30%左右，取消之后可能会有一定影响，“这个要求不合理。如果你想控制一些东西，就应该付出一定的成本，而不应该由我们承担费用。”</p>
-<p>连锁的雕刻时光咖啡馆表示他们已经收到通知，并将购买安装，但还将等总部的通知。而星巴克公关部王小姐对早报记者表示，已经收到相关通知，但星巴克目前的WIFI服务已经做到实名上网，符合通知要求。</p>
-<p>财新网的报道称，系统软件开发方上海雨人软件技术开发有限公司为港澳台独资企业，但其高昂的价格使多位经营者质疑其是否经过了采购竞标程序。</p>
-<p>上海雨人软件技术开发有限公司网站资料显示，该公司成立于1998年11月，总部位于上海市普陀区软件研发园区，“已成为国内网络警察专用产品的专业研发基地”，旗下产品除了网吧实名审计计费系统“网络e卡通”，还有“网络e魔镜”、“网络e眼通”、“网络神探”系列产品。</p>
-<p>该网站称，“雨人公司提供相关的技术服务和解决方案，其应用范围已遍布全国十几个省区市， 遍及了北京市、上海市、河北省、黑龙江省、湖北省、湖南省、山东省、山西省、江苏省、浙江省、江西省、陕西省、新疆维吾尔自治区、广西壮族自治区、宁夏回族自治区等十几个省、市、自治区的公安系统……所开发的‘网络神探’系列产品已成为中国网络警察的有力技术助手。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E6%96%B9%E6%97%A9%E6%8A%A5-%E5%8C%97%E4%BA%AC%E9%83%A8%E5%88%86%E5%BA%97%E5%AE%B6%E4%B8%8D%E6%BB%A1wifi%E8%A2%AB%E7%9B%91%E6%8E%A7%E9%80%89%E6%8B%A9%E4%B8%8B%E7%BD%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wifi/?category=18271" rel="tag">wifi</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%87%E6%A1%88/?category=18271" rel="tag">备案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -781,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wifi/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -791,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/wifi/?category=182
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

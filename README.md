@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,71 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E5%96%8A%E5%87%BA%E7%8B%AC%E7%AB%8B%E5%8F%A3%E5%8F%B7/" target="cdt-mirror">纽约时报｜彻底决裂，香港学生喊出独立口号</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg" rel="attachment wp-att-432188"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?resize=575%2C383" alt="香港上个月发生的一次抗议活动，反对政府扫荡被认为代表本土文化的无照小吃摊。香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>香港上个月发生的一次抗议活动，反对政府扫荡被认为代表本土文化的无照小吃摊。香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。</p></div>
+<p>香港——刘以正(Marcus Lau)出生于1996年，但他提出的让香港从中国独立的主张，却要追溯至1984年。当时，英国与中国达成将这块殖民地归还给中国的<a href="http://www.nytimes.com/1984/09/20/world/china-and-britain-jointly-announce-hong-kong-accord.html" target="_blank" rel="nofollow">协议</a>，而没有把香港列为谈判的第三方。</p>
+<p>香港主权于1997年进行了移交。将近20年后，刘以正表示，他和许多年轻人对中国的承诺失去了信心，即在“一国两制”的方针下维持香港的公民自由权和生活方式50年不变。他在周四接受采访时表示，中国反而开始“插手”港人的事务，拒绝让他们对选举自己的行政长官拥有更大的发言权。</p>
+<p>刘以正表示，他和香港其他年轻人已经开始不把自己看作中国人，而是拥有<a href="http://cn.nytimes.com/china/20141008/c08identity/" target="_blank" rel="nofollow">独特的香港身份</a>。他说，如果有人问他是否是中国人，他会说不是。</p>
+<p>正是出于这个原因，刘以正和另外12名香港大学的学生在最新一期<a href="http://www.undgrad.hkusu.hku.hk/" target="_blank" rel="nofollow">《学苑》</a>杂志上，呼吁香港在2047年宣布独立。在这份于周日发布于网上的<a href="https://drive.google.com/file/d/0BzUFu-ixw2knT0U5WjRXYm5OOWc/edit?pref=2&pli=1" target="_blank" rel="nofollow">宣言中</a>，他们援引的理由是，中国政府拒绝给予香港更大的民主权利。</p>
+<p>“<a href="http://cn.nytimes.com/china/20150929/c29sino-umbrella/" target="_blank" rel="nofollow">雨伞革命</a>是我们最力竭声嘶的呐喊，”宣言中写道。这里指的是2014年香港民众为争取更自由的选举而进行的为期79天的街头抗议活动。“我们天真地以为洒在金钟、旺角的汗水可以换来一点成果，事实却非如此。”</p>
+<p>“我们深知，民主运动的时代已然过去，迎来的是更难熬的反威权统治年代，”文中还称。“我们有以下诉求：一、香港成为受联合国认可的独立主权国家；二、建立民主政府；全民制订香港宪法。”</p>
+<p>对于学生的独立诉求，中央和香港官员表现得有些不屑。</p>
+<p>“怎么可以？”中国人民代表大会法律委员会主任乔晓阳周三表示。</p>
+<p>“亘古以来，香港是中国的一部分，”香港特首梁振英(Leung Chun-ying)周二称。“不存在一个在2047年之后会有所改变。”</p>
+<p>“我会建议，正如我刚才所说，不如再想想如何可以进一步完善我们现时的‘一国两制’，”香港律政司司长袁国强(Rimsky Yuen)说。</p>
+<p>刘以正似乎不为所动。</p>
+<p>“在这一刻，香港并无条件独立，”他在接受采访时说。“这正是我们要制造条件的原因。”</p>
+<p>相比《学苑》2015年1月讨论的香港自决，此次呼吁独立，明显是一种更高的诉求。去年初，行政长官梁振英在电视上做年度施政报告时，曾对他们当时的讨论发出<a href="http://cn.nytimes.com/china/20150115/c15hkpublisehr/" target="_blank" rel="nofollow">严厉警告</a>。自那之后，多个政治团体要求香港获得更大的自治权，尽管不一定要独立。他们正试图通过今年9月的选举，将自己的诉求带到香港立法会。</p>
+<p>在2014年的街头抗议活动中声名鹊起的学生领袖、19岁的黄之锋(Joshua Wong)，正在组建一个<a href="http://cn.nytimes.com/china/20160218/c18hongkong/" target="_blank" rel="nofollow">政党</a>，倡导在2047年之后进行全民公投，以决定香港的未来。</p>
+<p>上个月举行的地区立法会补选被普遍视作第一场测试，可以看 出为香港谋求更大自治权的新生运动有多高的人气。在这场补选中，以更大的自决权为竞选纲领的梁天琦（Edward Leung，与香港特首梁振英并无亲属关系）赢得了15%的选票，尽管他最终并没有当选，但这样的成绩足以让支持者倍受鼓舞。</p>
+<p>就在补选进行几天前，24岁的梁天琦领导了一场抗议活动，反对政府<a href="http://cn.nytimes.com/china/20160209/cc09hongkong/" target="_blank" rel="nofollow">扫荡无证经营</a>的春节小吃摊。这些小吃颇受欢迎，被很多人看作香港的一种传统。</p>
+<p>与警方的冲突升级成彻夜的争斗，<a href="http://cn.nytimes.com/china/20160222/c22hongkong/" target="_blank" rel="nofollow">中央政府因此指责</a>他们是“激进分离势力”，不过梁天琦并不否认这样的指控。</p>
+<p>香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。</p>
+<p>刘以正觉得自己是分离主义者吗？</p>
+<p>“要是加泰罗尼亚脱离西班牙，苏格兰脱离英国，台湾脱离中国，实行自决，是分离主义的话，”他说，“那么我也是。”</p>
+<p>欢迎在Twitter上关注作者<a href="https://twitter.com/alanwongw" target="_blank" rel="nofollow">@alanwongw</a>。<br>
+翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/03/18/world/asia/hong-kong-independence-undergrad.html?_r=0" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E5%96%8A%E5%87%BA%E7%8B%AC%E7%AB%8B%E5%8F%A3%E5%8F%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">抗议示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">香港独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%80%89%E4%B8%BE/?category=18271" rel="tag">香港选举</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%98%8E%E9%8F%A1%E9%83%B5%E5%A0%B1%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A2%AB%E5%8B%95%EF%BC%8C%E6%B7%B1%E8%AC%80%E5%8F%8D%E6%93%8A%EF%BC%9B%E6%9D%8E%E5%85%8B%E5%BC%BA%E8%AE%8A%E8%87%89%EF%BC%8C/" target="cdt-mirror">明鏡郵報｜習近平被動，深謀反擊；李克强變臉，享受眾推</a>
+</h2>
+<p><p><em>作者：郭武源 (《明鏡郵報》特約記者)</em></p>
+<p>今年的“兩會”，被有些人稱作最死氣沈沈的一次“兩會”，但也是最詭異森森的一次“兩會”。人們從電視上看到一個奇特現象：李克強總理在“兩會”的開頭和末尾，判若兩人。做《政府工作報告》時的李克強，神情嚴肅，虛汗浹背，還念錯講稿；“兩會”結束在記者會上的李克強，神態輕鬆，談笑風生。北京政界人士告訴《明鏡郵報》，李克強之所以有這樣的變化，是因為他在會議之初和會議結束，處境確實有了極大的變化。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg" rel="attachment wp-att-432194"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg?resize=400%2C509" alt="3172016lkq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg?resize=236%2C300 236w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg?w=500 500w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>李克強在記者會上談笑風生。</em></p>
+<p>變化何來？《明鏡郵報》3月7日就曾經披露，習近平的強勢作風引起黨內高層的反彈，政壇異象紛呈，令人眼花繚亂，但紛亂之中，又有主線，這就是各派政治勢力要遏制習近平集權趨勢，可能共推弱主——弱主是誰？就是李克強。</p>
+<p>中國政治觀察家對《明鏡郵報》說，李克強原本是作為總書記來培養的，但是中共十七大上，經當時的政治局常委和元老們集體正式通過、卻隔代指定他為第二號接班人。雖然在中共十八大上正式上任之後，由於習近平的超強權力欲和李克強確實能力較弱，以致只有招架之功、沒有還手之力，許多本來屬於國務院總理的權限被習近平不由分說拿走。如果單就個人和自己派別的力量，李克強無疑不是習近平的對手，加之身體、性格等多方面原因，李克強甚至讓人有逆來順受、等待十九大下課的姿態。</p>
+<p>但是習近平不但動了李克強的“奶酪”，而且一口氣動了高層這麼多人的“奶酪”，各派力量“不謀而盟”聯手限制習近平，就在“兩會”舉行的這十來天，由於任志強事件和忠誠共產黨員公開信事件作為撬動的支點，局勢發生了神奇的變化。有分析人士對明鏡形容，好比習三年來那種無往不勝的金剛罩被破功了，甚至有可能一舉而使中共高層再次回到集體領導體制。在這種局面下，李克強這個合法的“第二號接班人”“第一副帥”的身分，就有很大的作用了。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064918_0248.jpg?resize=400%2C527" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064918_0248.jpg?resize=228%2C300 228w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064918_0248.jpg?w=500 500w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"><br><em>李克強在做政府工作報告時緊張拘謹。</em></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg" rel="attachment wp-att-432192"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg?resize=525%2C350" alt="20160317064935_4045" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg?w=600 600w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><em>習李在“兩會”上。</em></p>
+<p>另有分析人士對明鏡指出，雖然“李退相位”是習近平原來的第一目標，但這只是因為李擋了道，並不意味著習近平視李為最大威脅。李克強之“弱”，在這裏顯出又一好處：讓習近平“兩害取其輕”，寧願留著比較弱的李克強當二把手，擋住其他虎視眈眈的強中手。</p>
+<p>李克強的處境就在一夜之間得到了極大的加強，他怎麼能不感到身心舒暢、有調侃打趣的心情了呢。他自信到這種程度，居然前去參加眼下成爲衆所矚目的矛盾焦點的新疆代表團的討論。</p>
+<p>支持李克強的人士告訴《明鏡郵報》，李克強現在面前有三種可能的前途，不管最後實現哪一種，他都有足够高興的理由：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg" rel="attachment wp-att-432191"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg?resize=525%2C336" alt="20160317065013_2215" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg?resize=300%2C192 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg?w=563 563w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><em>李克強在兩會結束後的記者會上顯然心情大好。</em></p>
+<p>第一種可能性是，李克強繼續擔任國務院總理，不僅幹完這一屆，而且在十九大之後，繼續擔任國務院總理。</p>
+<p>此前習近平佈局的重心，一直是怎麼讓李克強“退居二線”，自己來挑選新總理的人選，上海的韓正入選的可能性最大。但是在風雲突變之後，如果雙方戰成平局，李克強得到眾多派系的支持，不但不會“退居二線”，在習近平沒有力量指定自己中意、又得到各派認可的接班人的情況下，到中共二十大，67歲的李克強非常有可能順理成章地接任總書記。</p>
+<p>第二種可能性是，習近平挺過了這一關，挫敗了各派“聯軍”，重新掌穩了權力，主導人事佈局，李克強也就可能在中共十九大上轉任全國人大常委會委員長，同時繼續享有“黨內第二把手”的地位。這早在李克強意料之中，他在這個職位上可以休養生息，調理身體，同時繼續集結政治實力，對整個大局有力地起到制衡作用，等待時機，隨時可以再次出山。也可能二十大時接掌總書記。</p>
+<p>第三種可能性是，習近平的棋局被他自己搞砸了，矛盾進一步激化，黨內各種勢力聯手倒習成功，那麼各方共推的“弱主”李克強，就會在2017年的中共十九大上接任總書記。對他來說，這當然更是“春風得意馬蹄疾”了！</p>
+<p>了解李克強的人告訴《明鏡郵報》，雖然李克強聲勢看漲，但是他也有自己的短板。就在昨天，李克強記者會結束兩小時後，中紀委就宣佈，遼寧省人大副主任王陽涉嫌嚴重違紀，正接受組織調查。而王陽正是李克強在遼寧的心腹之一。</p>
+<p>59歲的王陽出身知青，從鞍山玻璃廠工人做到市委副書記，2004年8月被提拔為正廳級的遼寧省委副秘書長，而李克強則在當年12月接替聞世震任遼寧省委書記，李2007年11月離開遼寧前，王陽再被任命為省委書記的頭號智囊政策研究室主任。</p>
+<p>政治觀察家對明鏡說，這次“兩會”本身雖然開得平淡無奇，但是高層廝殺卻是風急雲詭，這就是中共十九大的前哨戰，接下來中共政壇上將是好戲連台。李克強令人出乎意外地有了唱主角的機會，他是否能把握住這樣的機會？北京政局隨時突變！請看《大事件》雜誌更詳盡的內幕與分析，《明鏡郵報》亦會追蹤。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%98%8E%E9%8F%A1%E9%83%B5%E5%A0%B1%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A2%AB%E5%8B%95%EF%BC%8C%E6%B7%B1%E8%AC%80%E5%8F%8D%E6%93%8A%EF%BC%9B%E6%9D%8E%E5%85%8B%E5%BC%BA%E8%AE%8A%E8%87%89%EF%BC%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">接班人制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91-%E5%8F%8C%E9%B8%AD%E5%B1%B1%E9%9B%86%E4%BD%93%E8%AE%A8%E8%96%AA%E5%A4%9A%E5%90%8D%E7%9F%BF%E5%B7%A5%E8%A2%AB%E6%8A%93/" target="cdt-mirror">德国之声｜”双鸭山集体讨薪”多名矿工被抓</a>
 </h2>
 <p><p><strong>有两个消息来源周五向法新社透露，有多名参加双鸭山抗议活动的矿工被警方带走。上周末，数千名双鸭山煤矿工人走上街头，抗议拖欠工资。 </strong></p>
@@ -63,7 +125,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94%E8%B6%8572%E5%B0%8F%E6%97%B6-%E5%AE%B6%E4%BA%BA%E5%BE%8B%E5%B8%88%E6%9F%A5%E8%AF%A2%E6%97%A0%E9%97%A8/" target="cdt-mirror">贾葭失联超72小时 家人律师查询无门</a>
 </h2>
@@ -594,44 +656,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5-%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99-%E6%88%91%E8%A2%AB%E7%82%B9%E4%BA%86%E5%90%8D/" target="cdt-mirror">【异闻观止】科技日报 | 莫名其妙 我被点了名</a>
-</h2>
-<p><p>“我说两句。”某委员拿过话筒，镜片后犀利的眼神锁在了默默坐在旁听席记录会议内容的我身上。<br>
-他往我这边一瞥，我瞬间明白了，他将要说什么。</p>
-<p>“有些媒体，比如你，科技日报的是吧，抓着一些负面问题不放。”此话一出，本来毫无存在感的我突然成了全场焦点，众多惊疑的眼光噼里啪啦砸在我身上。</p>
-<p>万万没想到，在政协会议已经进入尾声的时候，我成了他口中的“负面典型”。</p>
-<p>“涉及军工企业的，不能随便写。你要还想吃这碗饭，你就注意点。我已经记下了你的记者证号，小心相关部门把你抓起来！”这位被我的同事评价为“很有才华”的委员，瞪着我，撂下狠话。</p>
-<p>一切缘起于大概十五分钟之前，这位委员起身离席，我追出去，问了一个关于军工企业的问题。当时，他脸色一变，摆摆手，示意不想多谈。而当我尽力解释我的来意并非挖掘所谓的“黑历史”后，他闪身进了自己的房间（委员的房间和会场在同一层楼），并用力摔上了门。</p>
-<p>记者被拒绝乃是常事，我没有多想，回到会场，照常听会。只是不料，因为这个没得到答案甚至还没说清楚的提问，他会拿起话筒，直接向我“开火”。</p>
-<p>我觉得莫名其妙，又觉得这位委员误解了我找他的目的，起身辩解。确实，作为一名记者，在政协讨论会场上不该如此驳委员的面子；但当时一下忘了自己身在何处，只当他是一位平等的采访对象，急着向他重申自己的来意。“我不是这个意思。我就是想了解实际情况才来找您，如果您觉得有问题，待会能不能请您跟我详细聊聊？”</p>
-<p>委员还是用那种犀利的、含着火气的眼神瞪着我，头一偏,领导范十足地甩下一句：“我没有这个义务跟你谈！”</p>
-<p>我无奈，坐回位置；又后知后觉，感到自己不大礼貌，补充了一句：“好，还是谢谢委员。”</p>
-<p>不过，讨论结束后，我居然得到了好几名委员的贴心安慰，叫我不要将刚才的插曲放在心上。</p>
-<p>以这种方式刷了回存在感，还是蛮奇妙的。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%A7%91%E6%8A%80%E6%97%A5%E6%8A%A5-%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99-%E6%88%91%E8%A2%AB%E7%82%B9%E4%BA%86%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%94%E5%91%98/?category=18271" rel="tag">委员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98/?category=18271" rel="tag">政协委员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E9%9D%A2%E5%85%B8%E5%9E%8B/?category=18271" rel="tag">负面典型</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/" target="cdt-mirror">苹果日报 | 又有记者“被失踪”！媒体人贾葭北京赴港时失联</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-16-at-%E4%B8%8A%E5%8D%889.10.03.png?resize=523%2C347" alt="Screen Shot 2016-03-16 at 上午9.10.03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-16-at-上午9.10.03.png?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-16-at-上午9.10.03.png?w=523 523w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"></p>
-<p>旅居香港的35岁中国知名媒体人贾葭（音同家），昨日下午从北京前往机场准备飞赴香港期间，失去联络，事件疑与新疆“无界新闻”日前发表的“促习近平辞职公开信”有关。</p>
-<p>据悉，贾葭于本月4日在网路上看到“促习近平辞职公开信”相关信息后，因其与新疆无界新闻执行总裁欧阳洪亮曾是旧同事，就将事情告知欧阳，并提醒他快点删除。欧阳在接受调查时，告知网监部门是从贾葭处得知。据悉，贾葭在陕西的亲戚在近日已被调查；而他在前来香港前，也曾告知朋友估计可能会被扣留调查。</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/431774/">博闻社 | 中共两会官媒“无界新闻”发布要求习近平辞职公开信</a></p></blockquote>
-<p>贾葭的香港朋友告诉香港《苹果日报》，称“不知道是在候机室、飞机上、还是到了香港被带走。”而身处北京的贾葭妻子表示，至今没有收到任何信息。贾葭至今已失踪超过24小时。贾妻指，贾葭最后一通电话是昨晚8时打的，当时他说自己已过了海关，准备上机，但她于8时15分致电他时，发现他已关机。原本预计贾葭于当晚11时30分左右到港，寄宿朋友家中，但一直没有出现。此外，今日原约了人在港共进午餐，也没露面，电话又一直不通。</p>
-<p>现年35岁的贾葭出生陕西西安，是专栏作家及知名媒体人，任多家媒体时事评论员。他是腾讯《大家》专栏作者及前主编，曾任职香港《阳光时务周刊》及《端传媒》政经评论部主编。他旅居香港多年，直到月前离职《端传媒》，赴广州中山大学任教研究。（大陆中心／综合报导）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">给习近平的公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -653,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

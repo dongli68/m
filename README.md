@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432213/" target="cdt-mirror">【立此存照】帝吧出征维珍航空 认错公司无辜躺枪</a>
+</h2>
+<p><p>近日，一名中国女性乘客自称在维珍航空(Virgin Atlantic)从伦敦飞往上海的航班中遭到一位白人男性乘客的辱骂，更<a href="http://weibo.com/p/1001603954310793809448" target="_blank">指对方种族歧视</a>，使用了如“中国猪”这样的语言。</p>
+<p>此事件在网络<a href="http://www.guancha.cn/europe/2016_03_19_354395.shtml" target="_blank">持续发酵</a>。维珍航空官方账号在微博对此事进行了回应，称将彻查此事。维珍航空公司总裁也随后在网络上<a href="https://www.virgin.com/richard-branson/social-media-and-understanding-all-sides-story" target="_blank">公开回应</a>，强调了该司对种族歧视零容忍，同时表示需要彻查后才能给出结论。</p>
+<p>许多中国网民很显然无法接受该总裁没有道歉的事实。于是出现了最近的帝吧“出征维珍航空FB页面”行动，要逼其道歉。</p>
+<p>然而由于维珍集团旗下拥有大量子公司，航空方面除Virgin Atlantic外，还有同样独立运作的Virgin America和Virgin Australia。这直接导致了许多“不明真相”的热血网民跑去Virgin America、Virgin Australia以及维珍集团总部的Facebook页面开骂。</p>
+<p><strong>躺枪的Virgin America脸书页面：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png" rel="attachment wp-att-432217"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=425%2C720" alt="virgin america1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=177%2C300 177w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=768%2C1301 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=605%2C1024 605w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?w=1508 1508w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png" rel="attachment wp-att-432216"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=425%2C542" alt="virgin america2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=235%2C300 235w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=768%2C980 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=803%2C1024 803w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?w=1500 1500w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p><strong>躺枪的Virgin Australia脸书页面：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png" rel="attachment wp-att-432215"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=500%2C167" alt="virgin australia1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=300%2C100 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=768%2C257 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=1024%2C343 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?w=1620 1620w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png" rel="attachment wp-att-432214"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=500%2C159" alt="virgin australia 2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=300%2C95 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=768%2C244 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=1024%2C325 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?w=1612 1612w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>维珍集团主页是重灾区：</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Virgin-group.png" rel="attachment wp-att-432218"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Virgin-group.png?resize=450%2C5904" alt="Virgin group" data-recalc-dims="1"></a></p>
+<p><strong>附维珍集团旗下公司一览：</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png" rel="attachment wp-att-432219"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?resize=500%2C745" alt="virgin companies" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?resize=768%2C1144 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?resize=688%2C1024 688w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?w=1652 1652w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>（维珍集团官网截图）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432213/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7/?category=18271" rel="tag">帝吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432200/" target="cdt-mirror">【图说天朝】迎G20峰会 3500名杭州版“朝阳群众”上岗</a>
+</h2>
+<p><p>【编者注】《钱江晚报》很显然在报道中将“朝阳群众”与“小脚侦察队”当作褒义词来用了。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg" rel="attachment wp-att-432201"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?resize=425%2C567" alt="mmexport1458365451529" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?w=960 960w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg" rel="attachment wp-att-432209"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg?resize=500%2C281" alt="3417ebade9821855e7ea05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg" rel="attachment wp-att-432207"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?resize=525%2C336" alt="00300004567_581e4cec" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?resize=300%2C192 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?resize=768%2C492 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?w=835 835w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg" rel="attachment wp-att-432208"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg?resize=525%2C395" alt="ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw==" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg?resize=300%2C226 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg?w=708 708w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p><strong><a href="http://news.66wz.com/system/2016/03/19/104767028.shtml" target="_blank">钱江晚报｜打造杭版“朝阳群众”数千位武林好大妈，正式“上岗”</a></strong></p>
+<blockquote><p>近日，在杭州武林街道，一支名为“武林好大妈”的队伍正式成立，数千位好大妈将分布在各个社区，<strong>有望成为杭版“朝阳群众”</strong>。</p>
+<p>武林好大妈们，可能是小公园里晨练的阿姨，<strong>可能是身穿志愿者服装戴着红袖标的“小脚侦缉队”</strong>，又或是半眯着眼晒太阳打毛线的大姐。但是她们都有一个共同点——热心肠和好人缘。[…]</p>
+<p>武林街道工作人员告诉记者，“大妈们热心，八卦，还更有情感渲染力，这三点可是群众工作必不可少的呢。为了推动杭州城市国际化进程，细化到群众工作，其实很多时候反而是这些退休女性更容易打开局面，她们的余热和自身特长也能更接地气地解决一些邻里矛盾。”</p></blockquote>
+<p><strong><a href="http://hangzhou.zjol.com.cn/system/2016/03/19/021072581.shtml" target="_blank">浙江日报｜3500名“武林好大妈”助力G20 发挥余热献爱心</a></strong></p>
+<blockquote><p>G20杭州峰会脚步越来越近，杭州市民服务峰会的热情高涨。3月16日，由杭州下城区武林街道妇联牵头组建的3500名“武林好大妈”志愿服务团正式开团。</p>
+<p>60岁的“武林好大妈”骨干成员王亦珍，退休后一直热心社区公益，尤其在文明礼仪宣传上，颇有心得，“G20杭州峰会是杭州向世界展示自我的一次好机会，我们要通过实际行动，让大家看到杭州景色美，人更美。”</p>
+<p>和王亦珍一样，其他“武林好大妈”也是个个“武艺高强”。她们中，有的年轻时当过医生，有的是专业律师，有的是颇受群众欢迎的资深楼道党支部书记……为更好地服务保障G20杭州峰会，她们热情满满，希望通过在各自生活圈里的影响力，发挥出满满的正能量。</p></blockquote>
+<p><strong><a href="http://hzdaily.hangzhou.com.cn/hzrb/html/2016-03/18/content_2219581.htm" target="_blank">杭州日报｜用自身所长服务G20 “武林好大妈”上路了！</a></strong></p>
+<blockquote><p>[…]<strong>中国大妈在世界上都很有影响力</strong>，‘武林大妈’也一定能做很多好事。”今年刚60岁的“武林好大妈”王亦珍退休前是杭州长运乘客投诉中心的一位负责人。</p>
+<p>据悉，“武林好大妈”志愿者小分队将投入到服务保障G20峰会的有关工作中，策划开展平安巡防、人民调解、文明引导、家庭垃圾分类宣传、五水共治、文明礼仪倡导等服务活动，<strong>贡献一份基层草根女性力量</strong>。比如，她们专门制作了一个竖大拇指造型的“点赞牌”，<strong>近期将统一着装上街为文明行为点赞</strong>。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2485116292" target="_blank">@zxx-150711</a>：红卫兵们又找到了年轻时的激爽快感！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3441980472" target="_blank">@执剑人—罗辑</a>：红卫兵下岗再就业<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">这盛世，如党所愿。</p>
+<p>@楠辨是非：拿“朝阳群众”当褒义词呢。</p>
+<p>@YooJason：不以为耻，反以为荣！</p>
+<p>@鼻毛神拳：红卫兵小将门的晚年生活</p>
+<p><a href="http://weibo.com/1491046827" target="_blank">@张郎来了</a><i title="微博达人"></i>：全民皆探，我党威武！<img title="[耶]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif" alt="[耶]" data-recalc-dims="1"></p>
+<p>@WANGQ地盘：把干涉别人生活当好事</p>
+<p>@幻想乡事变：浙江人表示好丢脸  ，看似三观极正实际上歪到朝鲜去了</p>
+<p>@Miraclelmj梦想佳：我朝大妈威武。古有东厂锦衣卫，今有中国好大妈。群众斗争线路再战江湖，武林又是一场腥风血雨。<br><em><br>
+（以上图片均来自网络）</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432200/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">中国大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">群众举报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E5%96%8A%E5%87%BA%E7%8B%AC%E7%AB%8B%E5%8F%A3%E5%8F%B7/" target="cdt-mirror">纽约时报｜彻底决裂，香港学生喊出独立口号</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg" rel="attachment wp-att-432188"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?resize=575%2C383" alt="香港上个月发生的一次抗议活动，反对政府扫荡被认为代表本土文化的无照小吃摊。香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>香港上个月发生的一次抗议活动，反对政府扫荡被认为代表本土文化的无照小吃摊。香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。</p></div>
@@ -84,7 +142,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">接班人制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91-%E5%8F%8C%E9%B8%AD%E5%B1%B1%E9%9B%86%E4%BD%93%E8%AE%A8%E8%96%AA%E5%A4%9A%E5%90%8D%E7%9F%BF%E5%B7%A5%E8%A2%AB%E6%8A%93/" target="cdt-mirror">德国之声｜”双鸭山集体讨薪”多名矿工被抓</a>
 </h2>
@@ -587,75 +645,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E5%A4%A7%E5%BD%AD%E5%AB%B2%E6%82%84%E7%84%B6%E4%B8%8B%E7%BD%91-%E4%B8%AD%E5%85%B1%E5%AE%A3%E4%BC%A0%E5%8F%A3%E6%84%88%E5%8A%A0/" target="cdt-mirror">自由亚洲｜“习大彭嫲”悄然下网 中共宣传口愈加微妙</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?resize=440%2C275" alt="62763348gw1f1yl1p5vgwj20k00cidhe" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>在全国两会举行之际，中国文宣系统一边不断推出对国家主席习近平的个人崇拜作品，另一边则不断出现党媒发生“低级错误”的“倒习”事件。近日，曾在网络疯狂传颂的“习大大”、“彭嫲嫲”等热捧内容都被悄悄下网，引发外界各种猜测。</p>
-<p>近来，被指对习近平个人崇拜式“高级黑”的作品层出不穷。海外《明镜邮报》引述消息人士说，习近平对宣传系统肉麻吹捧他的做法，对“姓党”的媒体刻意塑造一个向毛泽东“看齐”的形象很不满意，明确要求“不要叫我‘习大大’”，那些吹捧他、神化他的东西，要删掉。报导还说，北京政界人士还透露，中宣部一些人还处心积虑地要将习近平的夫人彭丽媛，塑造成热心国家大事、参与政治事务的“第一夫人”，也让彭不满。由于此类传闻，彭丽媛已经有相当长一段时间没有露面了。</p>
-<p>另据法广中文网3月14日报道，目前网络疯狂传颂的“习大大、彭嫲嫲”的热捧内容都被悄悄下网。而早前《要嫁就嫁习大大》、《东方又红》等颂习歌曲以及微信上转发“习毛握手”的照片，和参加两会的西藏代表每人胸前都挂上习近平的像章等事件，已在相当程度上实现了扭曲习近平形象的目的。</p>
-<p>对此，山东大学退休教授孙文广接受本台采访时称，官方媒体大量运用民间名义、网路手段和现代社交媒体、视频等方式神化习近平，对他的吹捧逐年升温，引起外界错愕和忧虑：</p>
-<p>“实际上现在中国的最高领导人应该来说威望是不高的，他要学毛泽东，但实际上差距太大了。因为毛泽东他当年积累了几十年，但现在的领导人他没有这样的资历，他上台也不过五年的时间，而且他在前面也没有什么资格或有大家特别欣赏的东西。只是用媒体来扩大宣传，那这个效果肯定和他们过去的领袖人物是不一样的。那么在这个情况下面，他想搞个人崇拜这是很难的。”</p>
-<p>与此同时，在外界盛传中共总书记习近平整肃文宣系统的敏感时刻，官方的宣传系统屡屡出现令人感到不可思议的“政治事故”。继新疆官网无界新闻转发“倒习公开信”后，党媒新华社的报道中竟称习近平为“中国最后领导人”，再加上任志强炮轰习近平“党媒必须姓党”等言论和《南方都市报》头版大标题“媒体姓党魂归大海”，以及《财新网》公开抗议报道被删等事件，引来外界对中宣部旗下的喉舌媒体“失控”的猜测。</p>
-<p>对此，网络活跃人士欧彪峰告诉本台：“从另外一个角度来说也证明了权力基础是不稳固的。但权力基础的不稳固越来越要表现出他的个人崇拜，通过个人崇拜的形式让其他人对他进行服从，这是很愚蠢的方式。无界新闻要求他辞职的那封信这个其实也是体现了他们内部的分裂，包括之前有媒体在两会期间问张春贤服不服从从习近平的领导，他就说‘再说吧’，其实给人无限的遐想。”</p>
-<p>香港《苹果日报》3月15日报道引述分析称，这些事件或与习近平未能掌控中宣部有关，有权力派系或以此方式向习和中纪委示威。</p>
-<p>香港《明报》引述时事评论员刘锐绍称，这些事件反映国内舆论控制已令体制内人士反弹，估计官方也感到这种反弹，反映“内部矛盾很大，有的人认为要透过擦边球方式将内部矛盾公开，否则这类事情很少发生。”</p>
-<p>特约记者：忻霖 责编：石山/寇天力</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E5%A4%A7%E5%BD%AD%E5%AB%B2%E6%82%84%E7%84%B6%E4%B8%8B%E7%BD%91-%E4%B8%AD%E5%85%B1%E5%AE%A3%E4%BC%A0%E5%8F%A3%E6%84%88%E5%8A%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%88%E5%98%89%E6%98%A0%EF%BC%9A%E7%A6%BB%E5%BC%80%E4%BA%86%E6%9A%B4%E5%8A%9B%EF%BC%8C%E6%89%80%E6%9C%89%E6%B4%97%E8%84%91%E6%89%8B%E6%AE%B5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A5%8F%E6%95%88/" target="cdt-mirror">共识网｜陈嘉映：没有暴力支撑，洗脑会烟消云散</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg" rel="attachment wp-att-431953"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg?resize=500%2C232" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg?resize=300%2C139 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<h2>01</h2>
-<p><strong>洗脑与教育的三个基本区别</strong></p>
-<p>说到洗脑，我估计几乎所有的人都会联想到像《一九八四》这类小说，这也是洗脑这个概念流行起来的一个源头。我估计大家都读过《一九八四》，没读过至少也听说过它所讲的大概内容。那是一本小说，不过由于我们也是从五、六十年代过来的，所以我们知道这部小说离我们的现实也不是特别远，我们年轻的时候生活在文化大革命时期，那时候有一个所谓“四人帮”，他们利用宣传机器，日夜不停地给我们灌输一套虚假的意识形态。仅仅灌输一套虚假的意识形态是不够的，为了能够洗脑成功，还必须要同时屏蔽掉其他的信息，不允许其他意见声音。</p>
-<p>如果有人讲了其他意见怎么办？就要动用国家专政机器把这些讲的人抓起来，或者就干脆杀掉。1966年有一个叫做遇罗克的人，他写了一篇《出生论》，讲的是不能够因为家庭出身来确定阶级立场，现在可能只是一个普通的看法，但是当时它就犯忌讳了，因为它多少发出了一点点独立的声音，他就被抓起来最后被枪毙了。我提到这个是想说遇罗克是一个非常值得尊重的人，我们一讲到洗脑可能就会想到1984，想到文化大革命，想到遇罗克，诸如此类。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%81%87%E7%BD%97%E5%85%8B.jpg" rel="attachment wp-att-431952"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%81%87%E7%BD%97%E5%85%8B.jpg?resize=400%2C480" alt="遇罗克" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/遇罗克.jpg?resize=250%2C300 250w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/遇罗克.jpg?w=500 500w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>我们现在把四人帮那一套宣传叫做洗脑，但在当时不是那么叫的，当时叫做政治思想教育。我们会想教育是教育，洗脑是洗脑，怎么能把洗脑当做教育，或者把教育当做洗脑，这个肯定是不对的，大家都会同意教育不是洗脑，洗脑也不是教育。</p>
-<p>大致上讲到洗脑，会说它是在强制灌输某种或某套虚假观念。全面来讲，洗脑就是为了自己的利益去强制灌输一套虚假的观念。这个定义里面有三个关健词，一个就是强制灌输，一个就是虚假，最后一个就是为了去洗脑者本人的利益，这三个因素贯穿在一起构成洗脑。</p>
-<p>虚假好像是洗脑最重要的一条，因为如果灌输的是正确的东西，即使稍微强制点，最后成功洗了脑，还是挺好的一件事。我们和教育对照着谈，我们知道教育是教给你正确的东西，这是洗脑和教育的第一层区别。</p>
-<p>强制灌输是第二个关键，传销属于一种洗脑，建立传销的团队要给你灌输传销多么得好，然后会把你禁闭起来，把手机没收不让你自由通话。洗脑牵涉到一些强制的因素，在强制方面，洗脑看起来也和教育不同，教育是师生之间的自由交流。</p>
-<p>第三个因素“为了自己的利益”，还是以传销为例子，传销的人要给你灌输一套传销的观念，那为了谁好呢？很明显是为他本人，只要他能发展20个人，那他就赚了一笔，至于你有没有赚到，那不是他关心的事。但教育就不是这样，我们教育自家的孩子，教育我们的学生，当然是为了孩子好，为了学生好，这样大致就能够把洗脑跟教育区分开来。</p>
-<p>我觉得这三个因素可以作为区分洗脑和教育的一个起点。</p>
-<h2>02</h2>
-<p><strong>教育和洗脑都包含强制，区别在强制以后的发展</strong></p>
-<p>当你在说一个人被洗脑了，那么他有一种很自然的反映，会反驳你才被洗脑了。比如前段时间，有人指责自由主义者，说你们是被自由主义学说洗脑了。一般自由主义比较反对专制，比较反对强制灌输，比较强调自由教育的，可是等他批评别人没有自由教育被洗脑的时候，这些被指责的人会对他们进行一顿责骂，你们这些自由主义者成天受西方思想的影响，被人家洗脑。</p>
-<p>我们刚才讲到了教育，比如说我们就教给他们这些唐诗宋词，我们就不教给一些我们认为不好甚至下流的的诗歌，我们教给他们数学，教给他们这样的定义，而不是那样的定义。至少就部分来讲教育中明显包含着强制性，所以教育和洗脑之间的界限并不是那么清楚。从教育者的角度来看，有的人为了显著区别二者而提出一种主张，教育不是老师高高在上把某些真理教给学生，教育本质上是一种平等的互相交流。</p>
-<p><strong>我们要承认教育包含着强制，然后我们再去看洗脑的强制性。</strong>当然二者有明显不同，教育强制的程度与洗脑有很大区别。有一个成语叫做“五十步笑百步”，我跟你们一样都是从很小的时候听说这个成语的。长大后我总琢磨我觉得不明白这个成语，比如两个人身体都不太好，一个得了灰指甲，一个得了癌症，程度不同但是区别挺大的。强制程度有区别，如果区别够大，就是很大的区别。教育强制的程度随着被教育者的成长，这种强势性就不断缩减，缩减到最后，我们的确是可以设想一种平等自由讨论的方式进行交流。</p>
-<p><strong>当我们说强制的时候，我们不能把眼睛只盯在当前被强制的范围，我们要看强制以后的发展。</strong>你让学生去弹钢琴，他不想弹，你多多少少会去强迫他弹，当然他有可能就会慢慢的爱上弹钢琴，而且几乎不可避免他就必须爱上弹钢琴。可是他长大了回过头来看，他会承认你做的是对的。即使他没有弹下去，那么等他长大了可以进行判断了，他也能够理解家长，为什么当时曾经那样急切的希望他们弹钢琴。</p>
-<p>这是一种有道理的强制，但是洗脑的情况不同。我们说四人帮把我们洗脑了，当时四人帮那样做就已经不好。也就是说我们在讲到教育与洗脑强制上的区别，不能完全从当时所采取的措施来判断，而要从未来发展来判断，那时候我们往往就能更好地看到什么是教育什么是洗脑。</p>
-<h2>03</h2>
-<p><strong>洗脑不允许你接受其他任何东西</strong></p>
-<p>无论在1984还是在文化大革命，洗脑者使用的一个根本措施，就是尽可能屏蔽掉他所要灌输的东西之外的所有信息。刚才也谈到自由主义，自由主义也可能是一种洗脑。因为自由主义的基本主张就是言论自由，它可能是不断在宣传哈耶克，但是反复的宣传哈耶克并不构成洗脑，只有除了哈耶克之外什么都不允许读，那才叫洗脑。考虑到自由主义在我们这里是边缘和软弱的力量，它恐怕很难禁止我们读哈耶克之外的东西。所以在这个意义上，很难指责自由主义也是在洗脑。</p>
-<p>我们刚才讲到，“爱国主义教育对谁好”的问题，这个问题还没有回答，也许我根本回答不上来。但是我可以举个例子，比如说在二次大战的时候，美国人进行爱国主义教育，日本人也进行爱国主义教育，两者不相上下，但是我仍然要说美国人的爱国主义教育更接近于教育，那就是他们一边进行爱国主义的教育，另外仍然能够允许报纸和书籍发生不同的声音。虽然有一定限制，但是报纸可以对战争进行谴责，还也可以反对战争。</p>
-<p>而日本在爱国主义教育中也会有其他信息的出现，但是他们甚至会对传播这些信息的人和机构进行摧毁、判刑甚至判死刑。那么在这样一个背景下，虽然两者都是爱国主义教育，但是日本的爱国主义教育跟洗脑更接近。</p>
-<p>获取信息是非常重要的一个方面。我们也能够找到一定的反例。可惜时间有限我无法细讲，但是我可以提一个例子，大家都知道，就是在上世纪五十年代的时候，中国发生过一个巨大的运动，叫做知识分子的思想改造运动。那么思想改造有一个特点，一方面要灌输一套思想给你，另一方面还要把你的眼界屏蔽起来。但是上世纪五十年代的一些知识分子，有不少是留学回来的，哪怕不是留学回来的，一般也都见多识广。也就是说他们脑子里有别的信息，但是他们怎么也会多多少少被成功改造了呢？我觉得这是思想起源问题。这个思想改造当时的确是不叫洗脑，叫洗澡。</p>
-<p>在这样思想改造背后是实实在在地搞手段。你被改造好了，或者你做出被改造好的样子，你可能就进入某个民主党派当主席、副主席，你可能就受到国务院联欢会的邀请信，你可能就当了系主任，当了教授。你改造的不好，可能职称上吃点亏，然后国务院也不会邀请你，诸如之类的，当然这还是最温和的结果。洗脑背后有着非常鲜明的东西来赤裸裸地报复你，如果你改造不好，你还抗拒改造，那么等待你的就是监狱，如果还不够，那就是死刑。</p>
-<h2>04</h2>
-<p><strong>没有暴力支撑，所有洗脑手段都不会奏效</strong></p>
-<p>最后都是要落实到这一点上——如果没有赤裸裸的报复，所有洗脑的手段都不会奏效。当然我并没有说思想改造就是一场暴力活动，如果是暴力活动就没什么可研究的。思想改造非常值得研究就在于，一方面或隐或显它背后始终有暴力，但是前台上演的很少有暴力，前台有好多不同的样式，我们阅读回忆录知道这些被改造的知识分子有很多是抱着真诚的愿望参与运动，并且多多少少真心诚意地接受了这种改造。</p>
-<p><strong>但是我们还是能够理解洗脑的机制，无论出场不出场，暴力扮演了最“压仓式”的作用。</strong></p>
-<p>还可以从另外一个角度看，暴力一旦消失，哪怕减轻，那么洗脑所得到的成果很快就会断掉，乃至就会烟消云散。</p>
-<p>最近我有一个朋友叫刀尔登的出了一本书《亦摇亦点头》，写他的读书经验。他说他小时候受一套意识形态的笼罩，用今天的话就是说被洗脑长大的。他说到了七十年代末之后，读了一点其他的书，知道了一点其他的事，没费什么劲他就把那些东西都忘了。还有像斯大林，你从小就知道斯大林多么伟大，所有都是正面的信息。有一本书，吉拉斯《同斯大林的三次谈话》，那边讲了好多国家机器的宣传，这是一本名不见经传的书，我们怎么开始信吉拉斯了，为什么不信我们的机器宣传了那么多年的东西。</p>
-<p>离开了暴力，洗脑力量不是那么大。</p>
-<p>当你洗脑后拿出的一套东西是那样的虚幻不实，你用暴力做后盾，你用开动的这个宣传机器灌输千千万万上亿的人，但是如果跟现实的这种体验和经验相距太远，那你灌输这些东西实在不会有什么持久的生命力。</p>
-<p>最后我做点总结，在洗脑的机制中暴力起到根本作用，没有暴力支撑虚假可能就会瓦解。我们可以进一步得出一个结论，在没有暴力情况下，我们不要轻易把反对的意见说成是洗脑的结果。</p>
-<p>那么我就希望能够从这个角度来看待洗脑和教育的区别，同时我们能够把洗脑限制在更确定的范围之内，把剩下的事情留给错误和罪恶的探讨去解决。</p>
-<p>（限于篇幅，文章有删减，全文请点击“<a href="http://www.21ccom.net/html/2016/bianyan_0316/2499.html">阅读全文</a>”）</p>
-<p>作者介绍：陈嘉映，1952年出生于上海，后随父母迁居北京。文化大革命中到内蒙古插队。1977年恢复高考后，进入北京大学西语系读德语。1978年5月考入外哲所研究生，在北京大学外国哲学研究所随熊伟先生读海德格尔哲学。1981年毕业后留校任教。2008年1月转入首都师范大学哲学系工作，任外国哲学学科专业负责人，特聘教授。被认为是“中国最可能接近哲学家称呼的人”。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%99%88%E5%98%89%E6%98%A0%EF%BC%9A%E7%A6%BB%E5%BC%80%E4%BA%86%E6%9A%B4%E5%8A%9B%EF%BC%8C%E6%89%80%E6%9C%89%E6%B4%97%E8%84%91%E6%89%8B%E6%AE%B5%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A5%8F%E6%95%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99%E7%9C%9F%E7%90%86/?category=18271" rel="tag">宇宙真理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E6%9D%90/?category=18271" rel="tag">洗脑教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -677,5 +666,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%87%E5%AE%99
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

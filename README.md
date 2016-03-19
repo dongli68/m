@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,101 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="cdt-mirror">德国之声 | 长平：贾葭失踪，睁眼之罪</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8B%E5%8D%8812.08.15.png?resize=550%2C307" alt="Screen Shot 2016-03-19 at 下午12.08.15" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午12.08.15.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午12.08.15.png?w=703 703w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>贾葭在腾讯“大家”上的专栏页面</span></p>
+<p>加拿大作家玛格丽特·阿特伍德的小说《盲刺客》中，有一个寓意深刻的情节：赛克隆星球的萨基诺城，曾因奴隶的勤劳而辉煌。地毯编织是它的支柱产业，工人全是奴隶中的儿童，因为只有孩子的纤纤细手才能干出这般精致的活儿。由于长期凑近织物劳作，孩子们长到八九岁全都瞎了。于是他们中间流传着一种说法：只有瞎子才有自由。</p>
+<p>中国知名媒体人贾葭，就因为眼睛没有瞎，失去了自由。在全国“两会”开幕日当天，他看见“姓党”的网媒无界网主页上，出现公开信《要求习近平同志辞去党和国家领导职务》，感到十分惊讶，便告知了他的朋友、无界网执行总裁欧阳洪亮。贾葭和他的律师都多次表示，除此之外，他和这封信没有任何关系。</p>
+<p>无界网迅速关闭，删除文章后恢复运行，相关人员都“正在接受调查”。没有假装睁眼瞎的贾葭，也被列入调查名单。先是他在陕西的亲人遭到警方问话，随后，3月15日，在从北京飞往香港出席讲座活动的途中，他神秘地失踪了。</p>
+<p>秘密绑架与消息传播</p>
+<p>包括警方和航空公司在内的各个方面，都拒绝查询或者回复有关贾葭行踪的信息。正因为如此“神秘”，事实真相路人皆知：他已被当局羁押。四天时间过去了，没有法律手续，没有通知家属，更没有律师会面，甚至不知道办案单位。从法律上说，这是一起绑架案。比江湖黑社会绑架案更糟糕的是，报案后警方置之不理，而且公众不敢议论。</p>
+<p>当局的野蛮给一些自我禁言者提供了借口，他们以“没有确切消息”为由拒绝发声。一些西方媒体也遇到困难：传统的新闻专业主义，把官方消息视为权威信息源。其余信息源则须多方确认方可报道。官方一方面进行黑社会式绑架，一方面把公众治成装聋作哑睁眼瞎，“确切消息”实难寻觅。因此而举世沉默，正好坠入当局挖的坑。</p>
+<p>所幸舆论没有作茧自缚，包括纽约时报、CNN、路透社等世界主流媒体都报道了这起“据传”的失踪案。国际特赦（Amnesty International）、保护记者委员会（CPJ）等权利组织也表达了关注。当局竭力掩饰的那封公开信，也得到更加广泛的传播。</p>
+<p>宫廷权斗与民间抗争</p>
+<p>有关那封公开信的种种传闻，也因此而甚嚣尘上。公开信署名“忠诚的共产党员”，阐述习近平主政以来，独揽大权，热衷权斗，政治经济、内政外交全面倒退，国家面临“文革”重来之虞。公开信要求习近平主动辞职，让位贤能，甚至提醒他考虑自己和家人的安全。诸多评论认为，这反映了中共高层的分裂与危机。不少人期待内部权斗带来政治变革的契机。</p>
+<p>贾葭曾经和我一起为香港《阳光时务》周刊工作。我们在编辑会上讨论过权斗与变革的关系。其后，我在“主编的话”中写道：“论是革命还是改良的主张者，都对古老的权力倾轧——改朝换代或者宫廷斗争——倾注了太多的热情”，“几千年来，宫廷政治浪费了太多的政治和社会资源。今天还有人对中南海内幕津津乐道，我只会把他当作一个旧时的说书人”，而应当“远离权力争斗，拒绝宫廷秘闻，关注个体权利，支持新型抗争”。</p>
+<p>我并不是说，高层权斗对政治变革毫无意义。但是，在中国，这往往成了阻止民间抗争的理由。我写了二十多年时事观察，一直都有更“精通时事”的人劝告我说，高层某派正在精密部署，最好静待佳音，勿要添乱。“某派”换了一茬又一茬，“佳音”从未幸临。事实上，无论南韩、台湾还是缅甸，从内部权斗到公开民主，反对力量的“添乱”至关重要。更何况，习近平上台前后，权力倾轧可谓血雨腥风。“唱红打黑”的薄熙来进了牢房，“文革”幽灵却愈加逼近了。</p>
+<p>我也看过贾葭的一些文章，相信他和我一样，对单纯的宫廷斗争不感兴趣，更不会去佯装“忠诚的共产党员”，以“坚持党的优良传统”为名，为“我党”的未来操心——我不知道这种策略是否灵验，但知道使用和关心的人也太多了一点。中国缺乏的是堂堂正正的思想表达，直截了当的政治言说。</p>
+<p>盲刺客与睁眼瞎</p>
+<p>如此说来，贾葭是这场被夸大的权斗阴谋的“躺枪”（误伤）者吗？是，也不是。一方面，他显然不会介入这种事情；另一方面，每一位公民，都可能成为宫廷权斗的直接受害者。因此，相对于那封公开信来说，我更关心贾葭作为一位媒体人、一位网民和一位公民的基本权利。看见一个信息，转告给一个朋友，就会被秘密绑架，这是多么可怕的事情！</p>
+<p>然而，这正是中国的政治现实。那封公开信的读者，一定不只贾葭一人。然而，绝大多数人一声不吭，赶紧躲闪。贾葭曾任职多家媒体，广有交游，尽识“思想大家”。失踪之后，旧雨新知亦多作睁眼瞎，依旧谈笑风生，甚至污名毁誉、落井下石。</p>
+<p>真正的盲人因为想战胜黑暗，其他感知能力往往优于常人。玛格丽特·阿特伍德的小说中，奴隶儿童眼盲之后，有的成为敏捷异常的刺客。然而，睁眼瞎不会生出这些本领，只会因恐惧和自欺而愚钝，丧失对基本权利的体悟。这正是专制政治延续下去的秘密之一。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%80%92%E4%B9%A0/?category=18271" rel="tag">媒体倒习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%B9%BF%E7%B1%B3%E9%A4%A8-mark-zuckerberg%E8%BA%AB%E9%82%8A%E6%B2%92%E6%9C%89%E4%B8%AD%E5%9C%8B%E9%80%9A%E5%97%8E/" target="cdt-mirror">鹿米館 | Mark Zuckerberg身邊沒有中國通嗎?</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=550%2C585" alt="zuckerberg_jogging_in_beijings_aqi_337_air" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=282%2C300 282w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=768%2C818 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=962%2C1024 962w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?w=1054 1054w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>Mark Zuckerberg朱克伯格昨日在自己的網絡服務Facebook發了一幅相，便成為全球主要新聞，就是他在北京天安門跑步並且打卡，這一招看似高招，但換來卻可以是一場公關災難，關公真的很忙。</p>
+<p>他在北京打卡，一定是經過考慮，並不是話打就打，他一定知道大陸的網絡，是需要翻牆才能夠上到Facebook，又或者使用特定的電訊Sim卡或者網絡才可以，因此他的舉動，一定是有其計劃與背後意思。當中是會與大陸當局溝通過，握過手才會做，否則他這樣做，會使當局尷尬，適得其反。但為何他會這樣做呢?以及中共當局為什麼要這樣做呢?</p>
+<p>一、他認為這是與當局做一場友好外交，以打入中國市場。<br>
+二、當局表示外國的網站其實一樣可以暢通無阻，只要當局允許以及符合大陸的法規。</p>
+<p>這是一場公關Show，但是這場Show往往是做錯，特別是中共做公關Show每次都會碰釘。</p>
+<p>朱克伯格在天安門跑，會讓人聯想多種的方向。<br>
+一、為何你有特權可以上到Facebook，普通百姓要翻牆呢!<br>
+二、在北京跑步不怕霧霾嗎?這是當局最敏感的社會議題。<br>
+三、北京天安門自然聯想起1989年，朱克伯格當時五歲。</p>
+<p>老實說這三個議題是單一條都可以成為公關災難。</p>
+<p>他並不知道中國人是要面子，這樣一出，成為全球笑柄，當局原有的如意算盤便打不響，當局又因為見到群情凶湧，不只是香港人取笑，事實上大陸網民也在取笑當局以及他的行徑，這樣中共眼這種出醜人前，原以為大家雙贏變雙輸，隨時會反面不認人，以為可以這樣方法向當局獻媚，是會弄巧反拙的。</p>
+<p>他這種舉措，雖然是經過深思熟慮但這一著明顯是不知道中國國情，就是不要信中央的表面，直到它真正endorse你才好做。真心懷疑他有沒有中國通在他的身邊，因為他這次跑步Show明顯是不理解中國國情，以為當局給你牌時你就一定要上，但是有時候這些牌是不能上的，因為中共隨時給你一張爛牌扮好牌，現在明顯是一張爛透牌。</p>
+<p>朱克伯格是典型利益主意者，利益先行，其他事慢慢再談。所以他會找華裔太太一同講普通話跟大家講新年快樂，會到大陸挑戰自己健康來跑步。又會與馬雲做論壇，甚至今日更能夠與劉雲山會面，這些舉措都是他的agenda一部份，特別是與劉雲山會面。</p>
+<p>劉雲山主理意識型態，這毫無疑問即互聯網就是他們眼的中意識型態產物，不是科技，是主管人的思想，所以才由劉雲山見他。但是Facebook現在是不可能在大陸順利或者全面出現，最多只能夠在前海、上海的外貿區，已經是重大突破。但是如果Facebook只想這些地方落地，那就真的是沒有大志，但是想全國通行卻是不可能的任務。</p>
+<p>因為在現今中國的政治環境，是不會給予Facebook全面落地，看看連新浪微博都要被整頓，何況是外來品Facebook?而且Facebook的特性在今天的中國文化並不會成功，因為Facebook社交關係是公開的，中國人是有忌諱，如果人與人的關係可能有小三、隱性的工作伙伴，洩露了原來官員跟一位富商是朋友，這種潛在危機會使用家卻步，所以為什麼微信的朋友圈如此成功就是因為關係連是封閉式，避免這些利益衝突關係。</p>
+<p>所以朱克伯格不要期望把Facebook帶進中國境內，你只能夠最多是投資中國內的資訊科技投資，做VC、做天使投資者，最大的讓步也只會是與入股馬雲的旗下公司，這已經是中共的恩賜，你已經要感恩。而事實上劉雲山與他會面時，也說指Facebook與中國互聯網企業加強交流，分享經驗，增進相互了解，也引証了上述的估計。</p>
+<p>但建議他若想進入中國市場，你首先請一位中共委員的親屬，這才會是中國國情，至於有何利益輸送?你懂的。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%B9%BF%E7%B1%B3%E9%A4%A8-mark-zuckerberg%E8%BA%AB%E9%82%8A%E6%B2%92%E6%9C%89%E4%B8%AD%E5%9C%8B%E9%80%9A%E5%97%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">facebook回归中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E5%8D%9A%E5%AE%A2/?category=18271" rel="tag">公民博客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E6%99%A8%E8%B7%91/?category=18271" rel="tag">扎克伯格北京天安门晨跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B9%BF%E7%B1%B3%E9%A6%86/?category=18271" rel="tag">鹿米馆</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432245/" target="cdt-mirror">【网络民议】“扎克伯格真是又红又专，看的我都不好意思”</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8811.56.24.png?resize=515%2C385" alt="Screen Shot 2016-03-19 at 上午11.56.24" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.56.24.png?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.56.24.png?w=515 515w" sizes="(max-width: 515px) 100vw, 515px" data-recalc-dims="1"></p>
+<p>北京时间3月19日，主管意识形态的政治局常委刘云山会见了赴京参加“中国发展高层论坛”的Facebook创始人扎克伯格。当天晚上的CCTV新闻联播在开始后约5分40秒时播放了会见的画面，并概括了谈话内容。扎克伯格继前一天冒着雾霾在天安门晨跑后，再次强化了“中国人民老朋友”的形象。</p>
+<p>网友猜测扎克伯格上新闻联播是Facebook回归中国大陆市场的开始。不过，微博上对关于此次会见的帖子审查十分严格。比如，“头条新闻”发布相关微博转发量在1200以上，评论却只有12条，而且均为“正面”评论。而前一日，同为“头条新闻”发布的马云对话扎克伯格的消息，则可以正常评论。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8810.50.16.png?resize=550%2C266" alt="Screen Shot 2016-03-19 at 上午10.50.16" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.16.png?resize=300%2C145 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.16.png?w=683 683w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8810.50.25.png?resize=550%2C512" alt="Screen Shot 2016-03-19 at 上午10.50.25" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.25.png?resize=300%2C279 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.25.png?w=648 648w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8811.19.39.png?resize=550%2C271" alt="Screen Shot 2016-03-19 at 上午11.19.39" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.19.39.png?resize=300%2C148 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.19.39.png?w=682 682w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>在为数不多的可见评论中，有网友表示“论跪舔能力，我只服扎克伯格”，另一些人则说扎克伯格是个商人，想要赚钱，想要把自己的企业推广到大陆，但并没有“作恶”。也有人表示，即使Facebook真的进了中国，也不一定有太大的竞争力，因为本土的社交媒体已经满足了人们的需求。微信上也有众人吐槽扎克伯格上新闻联播一事：看来前一天没有白为人民服雾。</p>
+<p><strong>扎克伯格近年向中国示好大事记：</strong></p>
+<p>2014年10月，扎克伯格在清华大学与师生见面，全场用普通话与主持人和观众问答。</p>
+<p>2014年12月，中国国家互联网信息办公室主任鲁炜访问Facebook总部，扎克伯格陪同参观，用普通话讲解。还向鲁炜展示自己放在办公桌上的《习近平谈治国理政》，并说：“这本书我也给同事买了，我要让他们了解中国特色社会主义。”</p>
+<p>2015年9月，习近平访美，在西雅图会见一众IT老总。扎克伯格在Facebook上晒出了与习近平用中文交谈的经历，说这是自己第一次用第二外语和外国领导人交流，是一大个人成就。后来中文媒体的报道中还提到扎克伯格请习近平为自己即将出生的女儿起名字，被习婉拒。</p>
+<p>2016年初，扎克伯格与自己的华裔妻子普莉希拉·陈和新生女儿Max（中文名陈明宇）一同拍摄了中文视频向网友拜年。</p>
+<p><strong>以下为中国数字时代编辑搜集自新浪网友评论：</strong></p>
+<p><a title="一个一卓" href="http://weibo.com/reshell?refer_flag=1001030103_" target="_blank">一个一卓 </a>：我实在不知道<span>扎克伯格</span>还能干嘛了，估计下一步就是在身上纹中文纹身吧：天行健 君子以自强不息</p>
+<p><a title="戈饭" href="http://weibo.com/weifun?refer_flag=1001030103_" target="_blank">戈饭</a>：<span>扎克伯格</span>真是又红又专，看的我都不好意思。</p>
+<p><a title="迢书" href="http://weibo.com/840415999?refer_flag=1001030103_" target="_blank">迢书</a>：怎么忍心批评<span>扎克伯格</span>跪舔呢？他是个商人，想在墙里为用户提供服务，同时赚钱，这何错之有？他反感墙，并没有为墙贡献一砖一瓦。他只是没有选择当英雄，并没有作恶。</p>
+<p><a href="http://weibo.com/u/1867760812">afdsam</a>：这哥们不如他哥（谷歌）有骨气。</p>
+<p><a href="http://weibo.com/u/3645574521">31号少年</a>：就算不用VPN，脸书我也不会花太多时间，因为不好玩</p>
+<p><span><a title="中传王四新" href="http://weibo.com/wang4xin?refer_flag=1001030103_" target="_blank">中传王四新 </a>：扎克伯格</span>的Facebook，看来真的要进入中国了。这个时候进入中国，不会对中国社交媒体已经形成的格局，产生太大的影响。但即便是出于好奇，也会有大量的中国用户试一试这个新玩艺儿。</p>
+<p><a href="http://weibo.com/u/2830174555">西贝-丁</a>：常委怎么与非法网站的头会面？！如果不是非法网站为什么中国上不去？还有比这更撕逼的画面吗</p>
+<p><a href="http://weibo.com/u/1910216644">热爱-阳光</a><i></i>：你都把人家的网站，屏蔽了。还和人家懂事长演戏。 有水平。</p>
+<p><a href="http://weibo.com/u/2261306355">兴国佬表丫</a>：扎克伯格承诺教自己的女儿学中文，这是一份对中华文化的热爱，点赞小扎！</p>
+<p><a title="剥皮的刺猬" href="http://weibo.com/u/1862716783?refer_flag=1001030103_" target="_blank">剥皮的刺猬</a>：当然有时候我也不懂你圈人，即使非死不可进入中国是阉割版的，但我相信它不会变成微博这样，这对你国人来说不是好事？前段时间还为<span>扎克伯格</span>捐款感动，这次就不顾颜面放口大骂了？</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432245/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">facebook回归中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-131/" target="cdt-mirror">【河蟹档案】你脚下踏过的路，曾被那些学生们的鲜血浸染过</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -502,116 +594,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AD%8F%E4%BA%AC%E7%94%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%BA%BB%E7%83%A6/" target="cdt-mirror">自由亚洲 | 魏京生：习近平的麻烦</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-%E4%B8%8B%E5%8D%883.31.48.png?resize=589%2C385" alt="Screen Shot 2016-03-17 at 下午3.31.48" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-下午3.31.48.png?resize=300%2C196 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-下午3.31.48.png?resize=230%2C150 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-17-at-下午3.31.48.png?w=589 589w" sizes="(max-width: 589px) 100vw, 589px" data-recalc-dims="1"></p>
-<p>上个星期刚说了有好戏看，没想到好戏这么快就上场了。上个星期刚说了在党媒上骂共产党才算好汉，这个星期好汉就纷纷出场。这个速度倒是挺合我的脾气，有事就说有话就放，别磨磨唧唧的成事不足败事有余。</p>
-<p>好汉是谁，不知道。隐士一名，刺客列传。直接写公开信叫习近平下台，而且还是刊载在正宗的党媒上。当然，人家早就算好了现代技术条件，上网后很快就删除，你的棍子打不到俺的屁股上。可是微信等等早已经传遍了世界。闹得习总书记习泽东很没有面子。</p>
-<p>好戏要有连场才好看，才过瘾。继叫板下台信之后，还是党媒出了一个看似无意；又看似有意的错别字。习总书记成了中共最后的领导人。这个错误如果从反面来解释倒还可以，说明习总书记独裁可以延续到他死，成为真正的习泽东。从正面解释就是中共垮台指日可待了。</p>
-<p>接下来好戏就升级了。新疆的书记，政治局委员在被问到是否拥护习近平的领导时，居然会说；再说吧。这在中共官场语言中就是明显抵抗的情绪。这可确实升级了，有点儿政治局民主的意思了。有反对情绪居然不会饶着圈儿说，这就是公然反对独裁者。张春贤同志需要鼓励。</p>
-<p>林林总总，最近的趣闻实在不少，不必一一列举。都说明习近平遇到麻烦了，而且是大麻烦。据某外国中文媒体评论，是什么四种势力吹响了反习的集结号。有鼻子有眼，好戏才刚刚开始吧？</p>
-<p>据 我观察，可能不止一种势力反习。究竟有多少不好说，因为没有公认的划分。中国的政治暗箱操作，很难肯定谁是什么色彩，这还不包括各路卧底的英雄。很难说清 楚三种四种势力。甚至公开逼习近平下台的究竟是什么人，习近平自己都查不清。可能得到监狱里问问周永康才知道是谁的卧底。</p>
-<p>现在连网友们都看得眼花缭乱了，吹捧习近平的是不是习总的马仔都不一定。害得习总享受了两年多之后，终于禁止人家叫他习大大，彭嘛嘛。这可真是一场乱仗，算起来习近平已经是孤家寡人了。据说连王岐山都不带他玩儿了，这可是有点儿耸人听闻。</p>
-<p>虽然有点儿耸人听闻，但还不算捕风捉影。习近平和王岐山虽然是铁哥们儿兼政治盟友，但在走向独裁的道路上，他们开始产生了分歧。王岐山所属的党内明智之士小圈子认为，不向民意妥协走向民主法制就是自取灭亡，届时大家都会死无葬身之地。</p>
-<p>所 以曲线民主是他们不得已的选择，打着红旗反红旗是他们的基本路线。之所以不得不当地下反革命，是因为他们名义上所属的共产党，还包括一大批身负血债的中下 级官吏。这些人一听见民主法制就会发抖，不管你是谁也要一反到底。要想和平演变达到民主改革，党内大多数是他们绕不过去的障碍。</p>
-<p>习近平的从政风格，就是脚踩两只船，模糊到了真假难辨，哪边都不沾的不粘锅。为了当上新一代的皇帝习泽东，他需要党内大多数的拥戴。所以不得不向血债帮妥协，装扮出一副极左的面像，表示不会向民主自由妥协。还迫使王岐山公开表态不会实行真正的法制。</p>
-<p>可是走向皇帝新衣的道路上，终于踩到了地雷。害怕死无葬身之地的明智派终于忍无可忍了，任大嘴代表他们出来戗声了。这一下子天下大乱，反习的号角终于吹响了，各种不同的势力都卷入了战团。党内党外的民主派卷入战团很正常；奇怪的是血债帮也卷入了战团，有点儿匪夷所思。</p>
-<p>左右齐上阵加入反习的战团，让人感到有些怪怪的。</p>
-<p>民主派看见他走向独裁忍无可忍很正常；血债帮看见他脚踩两只船也不放心，不如换上一个听话的头头，可以不必每天提心吊胆。与其不知道选择性反腐会反到谁的头上，不如反掉这个反腐的头头更安全。这就是党内各派势力都加入到反习战团的主要原因。</p>
-<p>他们的口号是学习慈禧太后扶持一个听话的弱主，据说备选的人士，第一名就是现在的总理李克强。在今年的两会上李克强受到了全场热烈的掌声，官方的解释当然是他得到了党内多数的拥戴。习近平对他出奇的冷淡，正说明血债帮对他全力支持，准备取代习近平。习近平已经失去了党心。</p>
-<p>可 是仅仅冷淡没什么用，人家弱主李克强就是比你用着放心。即使没有李克强；还可以有张克强，王克强、赵克强等等。总之，党和它的大多数已经抛弃了你习近平， 现在就是低头服软也为时已晚。开弓没有回头箭，既然已经把你习近平得罪了，就只能得罪到底。而且这是利益攸关，生死搏斗。看准了机会就下手，党内斗争你就 别想了，胜负已定。</p>
-<p>那么习近平还有活路吗?有还是有，只不过以习近平的四平八稳脚踩两只船的习惯，恐怕他没这个胆量。党内民主你占了少数；人民民主你不一定占少数。任志强已经给你指出了人民民主的活路，说明双方都已经亮剑了，狭路相逢勇者胜。</p>
-<p>习近平的麻烦不是一件坏事，习近平优柔寡断的性格，可能才是他真正的麻烦。看清楚的事情就要下决心，当断不断反受其乱。</p>
-<p>（文章只代表特约评论员个人的立场和观点）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%AD%8F%E4%BA%AC%E7%94%9F%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%BA%BB%E7%83%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%80%92%E4%B9%A0/?category=18271" rel="tag">媒体倒习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E4%BA%AC%E7%94%9F/?category=18271" rel="tag">魏京生</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%9C%9F%E7%9A%84%E6%8A%93%E4%B8%8D%E5%88%B0%E5%B0%B1%E6%8A%93%E5%A7%93%E8%B4%BE%E7%9A%84/" target="cdt-mirror">【习总日记】 真的抓不到就抓姓贾的</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，17）</p>
-<p>我指示国安部同志全力以赴查抓公开信的始作俑者，就是那封《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank">关于要求习近平辞职的公开信</a>》的作者。<br>
-快两个星期了，一无所获。</p>
-<p>昨天我把有关人员叫来当面训斥并发表指示。我说：“实事求是办事，可能一无所获。迄今为止，证明了你们是实事求是认真负责办事的。我很欣慰。党有你们这样的同志，前途铁定光明，道路是否曲折便无所谓了。”</p>
-<p>有关人员表情轻松。</p>
-<p>“但是，”我话锋一转：“但是一无所获也可能是失职渎职办事不力的结果。”</p>
-<p>有关人员表情顿时凝结。</p>
-<p>我发表重要指示：“让我来告诉你们怎么做。姓真的没查到先查姓假的。”</p>
-<p>有关人员之一：“报告习总，巧了。嫌疑者名单上，姓甄的没有，姓贾的倒是有一个。”</p>
-<p>“那就先抓那个姓贾的。把他当真的抓。若最后真的抓不到，就把姓贾的当姓甄的判。”</p>
-<p>有关人员问：“这到底是为什么呢？这不是葫芦僧乱判葫芦案吗？”</p>
-<p>我恨恨地：“昨天有两会代表说我土包子。那么我就包子给他们看，发包子脾气给他们瞧瞧。你们不但要抓那姓贾的，还要抓更多人，逼出姓甄的来。只要真的一天不落网，就抓那些平时调皮捣蛋的，以解我心头之恨。”</p>
-<p>有关人员之二：“哦，我明白了，习总是演劫匪抓人质，看真正作者会不会良心发现救苦救难自投罗网自首。二来也可以趁机打击报复泄私愤。”</p>
-<p>我当场表扬了他们：“只能意会不许言传！”</p>
-<p>当晚，<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/" target="_blank">嫌疑人在北京机场被拦截</a>。我立即要求视频审讯。</p>
-<p>习总：“小伙子，请问尊姓大名？”</p>
-<p>小伙子：“免贵姓贾，贾宝玉的贾。虽贾但不假。单名也是个葭，真假的假，没了人性多了草寇。”</p>
-<p>习总：“这就骂上了啊。知道为何拘留你吗？”</p>
-<p>小伙子：“知道。”</p>
-<p>习总：“不，你不知道。”</p>
-<p>小伙子：“不就是为了那封《公开信》吗？”</p>
-<p>习总：“是因为你姓贾。没想到你名字也是葭。”</p>
-<p>小伙子：“真的抓不到只能抓俺姓贾的凑数交差。”</p>
-<p>习总：“想多了。不是凑数也不是交差，是把姓贾的当姓甄的抓。反正抓真的也是抓，抓假的也是抓。除非真的自己冒出来，不然就把你当真的抓。”</p>
-<p>小伙子：“习总您疯了不成？”</p>
-<p>习总：“我能不疯吗？经济跌跌不休，政治内外交困，党内还不齐心协力同舟共济，急着要把我扔出去当替罪羊。我不疯能行吗？”</p>
-<p>小伙子：“同情你。听你这么一说，我的遭遇也没什么了。”</p>
-<p>关掉视频，我对有关人员说：“怎么样，搞定。他不但不怨恨，还会感谢党感谢我们。”</p>
-<p>有关人员掐准时机拍马屁：“习总英明。”</p>
-<p>心中得意话便多：“同志们，非常时期对老百姓狠点，避免妇人之仁切忌仁爱之心。驭民之术有一条写着，非常时期对付懦弱之民，要狠。能多狠就多狠，彻底打碎他们的自信和自尊之后，百姓便会像狗一样匍匐在你脚下。”</p>
-<p>不知谁小声嘟哝：“<a href="http://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6%E9%A3%99%E5%8D%8710%E5%80%8D/" target="_blank">双鸭山市煤矿工人欠薪闹事</a>，抓领头人，同时每人发2000块搞定。”</p>
-<p>“对，”我这<a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%B0%81%E6%89%8D%E6%98%AF%E6%9C%80%E5%90%BC%E7%9A%84%E9%A2%86%E5%AF%BC%E4%BA%BA/" target="_blank">最吼领导人</a>吼道：“抓领头人，严厉打击敢于冒头者。借助《公开信》事件，乘机扩大打击，能抓的都抓。<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%B0%86%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%86%99%E6%88%90%E6%9C%80%E5%90%8E%E9%A2%86%E5%AF%BC%E4%BA%BA-%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%BC%96%E8%BE%91%E8%A2%AB/" target="_blank">对‘最后领导人’事件当事人</a>，不管有意无意，从严处理决不手软。”</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B%E6%81%B6%E6%90%9E%E4%B9%A0%E6%80%BB.jpg?resize=550%2C413" alt="鳩鵪漫畫：敌对势力恶搞习总" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：境外势力恶搞习总.jpg?w=1024 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%9C%9F%E7%9A%84%E6%8A%93%E4%B8%8D%E5%88%B0%E5%B0%B1%E6%8A%93%E5%A7%93%E8%B4%BE%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">给习近平的公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%AE%89%E9%82%A6%E5%BC%80%E4%BB%B7128%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AC%B2%E6%94%B6%E8%B4%AD%E6%B5%B7%E5%A4%96%E9%85%92%E5%BA%97%E9%9B%86%E5%9B%A2/" target="cdt-mirror">纽约时报｜安邦开价128亿美元欲收购海外酒店集团</a>
-</h2>
-<p><p>大约两年前，安邦保险集团宣布将斥资19.5亿美元，<a title="Link: http://cn.nytimes.com/business/20141010/c10waldorf/" href="http://cn.nytimes.com/business/20141010/c10waldorf/" target="_blank" rel="nofollow">收购传奇性的华尔道夫-阿斯托里亚酒店(Waldorf Astoria)</a>，那时，这家保险公司在中国境外还鲜为人知。</p>
-<p>现在，这家中国保险集团希望扩大其酒店帝国的规模，主动提 出以每股76美元、总计128亿美元的价格，现金收购威斯汀(Westin)、W和喜来登(Sheraton)等酒店品牌的运营商喜达屋酒店及度假村国际 集团(Starwood Hotels& Resorts Worldwide)。</p>
-<p>一个由安邦牵头的投资者财团，试图来给万豪国际(Marriott International)与喜达屋的并购交易搅局。该交易金额为108亿美元，支付方式为现金加股票，定于本月由双方公司的股东进行考虑。</p>
-<p>一名知情人士透露，在这个竞购喜达屋的财团中，包括J·克 里斯多夫·弗拉沃斯(J. Christopher Flowers)的收购公司J.C. Flowers & Company，以及春华资本集团(Primavera Capital Group)，其董事长胡祖六曾是高盛(Goldman Sachs)在中国的董事长。</p>
-<p>安邦及其投资伙伴提出的现金收购，是中国企业这波境外交易中的最新一起。汤森路透(Thomson Reuters)的数据显示，今年以来，中国公司已经宣布了819亿美元的境外交易，而去年同期只有105.5亿美元。</p>
-<p>安邦寻求收购喜达屋之前，刚刚才传出了它达成协议将斥资65亿美元<a href="http://cn.nytimes.com/business/20160314/c14db-hotels/" target="_blank" rel="nofollow">收购</a>黑石集团(Blackstone Group)旗下战略酒店及度假村(Strategic Hotels and Resorts)的消息。黑石集团购入该酒店也才不过数月。</p>
-<p>战略酒店拥有硅谷、华盛顿、怀俄明州杰克逊霍尔的四季酒店 (Four Seasons)，芝加哥的费尔蒙(Fairmont)与洲际(Intercontinental)酒店，曼哈顿的JW万豪埃塞克斯之家酒店(JW Marriott Essex House Hotel)。</p>
-<p>最近几年来，在董事长吴小晖的带领下，安邦开展了一些大手笔的交易。吴小晖是邓小平的外孙女婿。担任中国最高领导人期间，邓小平主持了中国经济对资本主义和外商投资的开放。</p>
-<p>安邦总部设在北京，除了华尔道夫酒店的交易之外，它还斥资 近16亿美元收购了美国信保人寿保险公司(Fidelity & Guaranty Life Insurance Company)，并获得了一家韩国寿险公司的控股权。去年，它出价收购一家葡萄牙贷款机构，但未成功。</p>
-<p>安邦最初是从汽车保险起家的，它得到了中国最大的汽车生产商上汽集团的支持。10年前，与中国的大型国有保险公司相比，它还是一家小企业。</p>
-<p>但安邦扩大了业务范围，开始出售投资产品和其他一些服务，并且日益激进地押注一些项目。中国政府近年来放宽限制，允许境内保险公司更加自由地投资自己的资金，于是这些公司成了中国房地产等领域的主要参与者。</p>
-<p>该财团的现金收购要约是在3月10日提出的，喜达屋本周一公布了此事。比起与万豪的交易，这是一个大幅溢价。自从去年11月宣布与万豪的交易以来，喜达屋的股价下跌，影响了这宗交易。</p>
-<p>喜达屋周一表示，董事会没有改变支持万豪交易的建议，但会认真考虑与安邦牵头的财团之间讨论的结果，以便确定符合“喜达屋及其股东的最佳利益”的行动方向。</p>
-<p>喜达屋表示，它已收到了来自万豪的免责声明，使其能够开展与该财团的讨论并对其进行尽职调查。免责声明将于本周四到期。</p>
-<p>万豪表示，这个竞争对手对喜达屋的收购方式“有很高的条件门槛，不具约束力”。</p>
-<p>“万豪将一边关注这方面的发展，一边继续与喜达屋共同推动交易的完成，向两家公司的成功整合迈进，”万豪在<a href="http://www.prnewswire.com/news-releases/371958561.html" target="_blank" rel="nofollow">新闻稿</a>中表示。</p>
-<p>喜达屋和万豪的股东定于3月28日投票，决定是否批准这宗并购。如果喜达屋退出交易，万豪将获得4亿美元的终止费。</p>
-<p>并购如果成功，它将成为全球最大的酒店集团，旗下有逾5500家直营或特许经营酒店，在世界各地共有110万个房间。</p>
-<p>喜达屋本周一表示，根据万豪股票20天成交量加权平均价，喜达屋在并购中的估值是每股63.74美元，包括每股2美元的现金对价。</p>
-<p>喜达屋的股东，也将从该集团的分时度假业务维斯塔纳专属体验(Vistana Signature Experiences)与分时度假集团(Interval Leisure Group)一个分公司的并购交易中，获得每股5.5美元的收益。</p>
-<p>安邦集团被普遍认为受益于它和北京领导层的良好关系。</p>
-<p>在去年末进行的一场罕见的企业股权争夺战中，安邦与中国地产商万科集团结成了联盟。万科欢迎安邦入股，它被广泛看作是一种友好的举措，能让万科管理层继续掌控这家中国最大的房地产开发公司。</p>
-<p>日益将目光投向海外的，不止安邦这一家公司。</p>
-<p>中国经济增速放缓，导致企业和个人都将资金移出海外，在别 处进行投资。之前一直是全世界的资金大批流向中国，如今情况逆转，致使投资者相信，在最近几个月经历两轮贬值已经走弱的中国货币，还会进一步贬值。通过进 行海外交易将资金转移到海外的做法，可以得到中国官方的首肯，同时也让中国企业避开了有可能带来麻烦的货币贬值。</p>
-<p>这种逻辑可以帮助我们理解，在中国政府不断加大举措将资金留在国内的情况下，中国企业为何却在加倍进行海外投资。中国的外汇储备在最近几个月<a href="http://cn.nytimes.com/business/20160219/c19db-chinareserves/" target="_blank" rel="nofollow">减少到了</a>32万亿美元。这促使北京进一步加强本已收紧的资金外流限制。</p>
-<p>然而，大宗交易还在不断达成。瑞士农业综合企业先正达(Syngenta)接受了一家中国国有化工企业的收购要约，即由中国化工集团以430亿美元对它进行收购。这项交易有望成为中国公司规模最大的一宗海外收购。</p>
-<p><em>翻译：纽约时报中文网</em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%AE%89%E9%82%A6%E5%BC%80%E4%BB%B7128%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AC%B2%E6%94%B6%E8%B4%AD%E6%B5%B7%E5%A4%96%E9%85%92%E5%BA%97%E9%9B%86%E5%9B%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%B0%8F%E6%99%96/?category=18271" rel="tag">吴小晖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -623,7 +605,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -633,5 +615,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

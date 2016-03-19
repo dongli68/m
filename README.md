@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%AF%BB%E6%89%BE%E8%B4%BE%E8%91%AD/" target="cdt-mirror">巴丢草：寻找贾葭</a>
+</h2>
+<p><p>作者：巴丢草（<a href="https://twitter.com/badiucao/status/710715833605955584">@badiucao</a>）</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg" rel="attachment wp-att-432144"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=500%2C664" alt="Cdz4SH8VIAAJTWX.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=226%2C300 226w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=768%2C1020 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=771%2C1024 771w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94%E8%B6%8572%E5%B0%8F%E6%97%B6-%E5%AE%B6%E4%BA%BA%E5%BE%8B%E5%B8%88%E6%9F%A5%E8%AF%A2%E6%97%A0%E9%97%A8/">贾葭失联超72小时 家人律师查询无门</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/">苹果日报 | 又有记者“被失踪”！媒体人贾葭北京赴港时失联</a></li>
+</ul><hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%AF%BB%E6%89%BE%E8%B4%BE%E8%91%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94%E8%B6%8572%E5%B0%8F%E6%97%B6-%E5%AE%B6%E4%BA%BA%E5%BE%8B%E5%B8%88%E6%9F%A5%E8%AF%A2%E6%97%A0%E9%97%A8/" target="cdt-mirror">贾葭失联超72小时 家人律师查询无门</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/63232734jw1f21ig4x2xuj20k00zkadz.jpg" rel="attachment wp-att-432147"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/63232734jw1f21ig4x2xuj20k00zkadz.jpg?resize=400%2C711" alt="63232734jw1f21ig4x2xuj20k00zkadz" data-recalc-dims="1"></a></p>
+<blockquote><p>知名媒体人贾葭失联已72小时了。</p>
+<p>今天我和他爱人先去了北京市公安局，因为没有家属通知书或其它任何案件信息，市局无人接待我。打几场分局电话问询，没有贾的案件信息。找机场内警察查询航班动态，身份证、护照、港澳通行证查了个遍，无航班信息。警察说我们的信息可能不准，让去航空公司问询。航空公司说涉及个人隐私信息，不提供查询。打电话给边检问出入境信息，同样不给查询。去石景山公安分局报人口失踪，警察系统里同样查不到与贾葭有关的信息或案件。一天一无所获，贾葭人间蒸发。卡福卡小说《法的门前》和《城堡》的现实版。无尽的无奈，无尽的悲凉！</p>
+<p>燕新律师</p>
+<p>2016年3月18日</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg" rel="attachment wp-att-432148"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=475%2C398" alt="Cd063ohUkAAnGRB.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=300%2C251 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=768%2C644 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?w=940 940w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%88%E6%9C%89%E8%AE%B0%E8%80%85%E8%A2%AB%E5%A4%B1%E8%B8%AA%EF%BC%81%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E5%8C%97%E4%BA%AC/">苹果日报 | 又有记者“被失踪”！媒体人贾葭北京赴港时失联</a></strong></p>
+<blockquote><p>旅居香港的35岁中国知名媒体人贾葭，昨日下午从北京前往机场准备飞赴香港期间，失去联络，事件疑与新疆“无界新闻”日前发表的“促习近平辞职公开信”有关。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94%E8%B6%8572%E5%B0%8F%E6%97%B6-%E5%AE%B6%E4%BA%BA%E5%BE%8B%E5%B8%88%E6%9F%A5%E8%AF%A2%E6%97%A0%E9%97%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A/" target="cdt-mirror">【图说天朝】万国博览会</a>
 </h2>
 <p><p>@王贝贝aloha：中国边检，开放VIP通道欢送各位代表回国。</p>
@@ -696,64 +729,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6%E9%A3%99%E5%8D%8710%E5%80%8D/" target="cdt-mirror">自由亚洲｜中国劳工维权事件飙升10倍</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg" rel="attachment wp-att-431874"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg?resize=585%2C328" alt="东北黑龙江省国企龙煤集团数千名矿工星期六走上街头示威，抗议龙煤集团拖欠了好几个月薪水，导致生活困难。（微博图片）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/image-2.jpg?w=595 595w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>东北黑龙江省国企龙煤集团数千名矿工星期六走上街头示威，抗议龙煤集团拖欠了好几个月薪水，导致生活困难。（微博图片）</p></div>
-<p>近年来，中国各地罢工事件不断飙升，与此同时，协助劳工维权的民间组织也不断受到打压。美国《商业内幕》网站3月14日报道说，有数据显示，近年中国各地罢工维权事件飙升了10倍。报道认为劳资纠纷引发抗议的频繁程度令人震惊。</p>
-<p>黑龙江双鸭山数万矿工集体抗议事件，再令中国不断发生的劳资纠纷问题成为外界关注的焦点。美国《商业内幕》网站3月14日刊登文章称，中国的劳资纠纷正在大幅增加。该文引述位于香港的《中国劳工通讯》的统计数字称，中国大陆2014年发生了1300多起罢工抗议事件，相比2011年的185起多出了数倍，但2015年，罢工更增到2944起，几年内飙升10倍。文章认为，即便将现在报道和数据统计更为便捷的原因考虑在内，劳资纠纷引发抗议的频繁程度，仍然令人震惊。</p>
-<p>对此，中国人权观察副理事长潘露接受本台采访时称，造成罢工激增的原因之一，是工人们感到被企业剥削和被政府抛弃。随着自身权利意识的觉醒，中国亿万工人站到了抗议运动的最前沿。他说：</p>
-<p>“双鸭山事件是因为国企没有解决好问题，因为国企的效率可能是最低的，双鸭山的矿工及家属高达30万走上街头。这么大规模的街头群体事件在这个政权67周年以来是非常难见的。充满谎言和闹剧的政治体制，没有人敢讲真话的政治体制，你在这样一个文明的社会能走多远呢？所以双鸭山是一个信号，如果当局再不重视和底层沟通，也许他们的日子会越来越难过。所以我也希望更多的朋友站出来领导工会运动。但我有一个朋友刘少明领导工会运动被以煽颠罪刑拘，在这种情况下共产党做的最大的蠢事就是他自掘坟墓，他把所有的社会的良性力量全部扳倒、收监，剩下来的就是直接面对暴民。”</p>
-<p>据中国官方统计，自上世纪80年代以来，大约有1亿6千8百万的劳动人口从农村进入城镇务工。这些被称作〝农民工〞的劳动者，为中国的工业化和城市化，特别是出口加工经济的发展做出了巨大贡献，却要受到血汗工厂低工资、恶劣的工作环境以及超负荷劳动的盘剥。此外，因为受到中国户籍制度的约束，他们也无法享有城镇居民身份、以及相当的子女教育、政府公共服务和福利保障等最基本的生存权利。</p>
-<p>关注劳工维权机构被打压的“权利运动”总干事甄江华告诉本台，在维权过程中，工人们最大的困难，并不是来自于企业，而是当局的打压。由于中国当局戒备任何可能威胁他们权力掌控的民间活动，因此还对为工人提供援助的民间劳工维权运动组织进行打压。他说：</p>
-<p>“我们权利运动现在偏重于关心广东劳工维权案件，从去年到今年的一些案件来看我们能陆陆续续的了解到中国当局还是有强压的态势。我们也希望民间能不能发动一些倡导性行动把这个声音扩大一点。”</p>
-<p>英国《金融时报》3月14日发表文章分析认为，尽管今年2月中国人力资源社会保障部部长尹蔚民曾透露，为化解过剩产能，将下岗数百万人，但不会出现上世纪90年代的下岗潮。可随着中国去产能政策的落地，行业的低迷已开始影响民众生活。工资发放延期、拖欠社保等问题时有发生。而双鸭山矿工讨薪，可能仅仅是这些问题的冰山一角。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6%E9%A3%99%E5%8D%8710%E5%80%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">劳工权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E8%B5%84%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">劳资纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">国有企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">罢工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E6%B0%91%E5%86%B2%E7%AA%81/?category=18271" rel="tag">警民冲突</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%83%E5%9C%A8%E7%94%A8-%E4%BA%91%E5%9C%A8%E7%9C%8B-%E5%98%B4%E5%B7%B4%E8%AF%B4-%E7%AC%91%E7%9D%80%E7%9C%8B/" target="cdt-mirror">【网络民议】权在用 云在看 嘴巴说 笑着看</a>
-</h2>
-<p><p><strong><a href="http://%E6%9D%8E%E5%85%8B%E5%BC%BA%EF%BC%9A%E2%80%9C%E6%9D%83%E5%9C%A8%E7%94%A8%E3%80%81%E4%BA%91%E5%9C%A8%E7%9C%8B%E2%80%9D%20%E8%A1%8C%E4%BD%BF%E6%9D%83%E5%8A%9B%E4%B8%8D%E8%83%BD%E6%89%93%E5%B0%8F%E7%AE%97%E7%9B%98/" target="_blank">新华网｜李克强：“权在用、云在看” 行使权力不能打小算</a></strong></p>
-<blockquote><p>【中央人民广播电台、央广网记者】谢谢主持人。总理您好。您刚才谈到简政放权时谈到了政务公开，大家对政务公开也是有越来越高的期待，每年依法申请公开信息的数量也在逐渐增多。但是一些地方和部门不够“给力”，发布消息相对滞后，大家心里有些着急，有些意见。请问总理您怎么看？谢谢。</p>
-<p>【李克强】政务公开和简政放权可以说都是推进政府职能转变的关键，中央也明确要求，要推进政务公开，我们还要在若干方面进行努力。首先，该公开的应该全部公开。公开是惯例，不公开是例外。尤其是涉及到公众利益的措施，财政预算收支情况等，都应该加大公开的力度，让群众像扫二维码一样清清楚楚、一览无余。</p>
-<p>第二，能上网的要尽可能上网。政府的权力清单要上网，权力的运行也要上网，要留下痕迹，这样可以减少自由裁量的空间。人们不是常说“人在做、天在看”吗？现在是云计算的时代，我们要让“权在用、云在看”。行使权力不能打小算盘。<br>
-[…]政务公开实质上也是要让政府的权力受到监督，这样也有利于政府提高效率，而且从制度上来避免滥用权力。我们欢迎社会各界，包括媒体朋友们的监督。谢谢。</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg" rel="attachment wp-att-431866"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg?resize=490%2C367" alt="44f79263g82c38fee6a66&690" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/44f79263g82c38fee6a66690.jpg?w=490 490w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"></a><br><span>（图片来源：<a href="http://blog.sina.com.cn/s/blog_44f792630100h7l0.html" target="_blank">逗似个蚂蚁@新浪博客</a>）</span></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/3567574162" target="_blank">@白浪1976</a>：一本正经<img title="[鼓掌]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/36/gza_org.gif" alt="[鼓掌]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">，爱信不信<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p>
-<p>@Alex愛米蘭：嗯，人在做，天在看，迟早报应会来</p>
-<p>@MF_面面瘫超有爱：可是……你看到一个二维码能知道这个二维码是干嘛的么……</p>
-<p><strong>@安瑞文：二维码啊，明摆在那里但是人眼并不能看懂的意思？</strong></p>
-<p><a href="http://weibo.com/figotsang" target="_blank">@FigoTsang</a>：描二维码会中毒的<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><strong>@朝溪绿隐：请党放心！云计算也姓党了。</strong></p>
-<p><strong>@王积薪：老天姓党，请您检阅。</strong></p>
-<p>@STDnerd：“天”也只敢看不敢说</p>
-<p>@墨墨墨墨晓：老天爷姓党，所以看着没事</p>
-<p>@太阳晒出来了：他的上司说过，党就是天</p>
-<p>@客非观：天子在看，天子代天已敲打。</p>
-<blockquote><p>@TOM猫也爱看电影：图片评论<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg" rel="attachment wp-att-431856"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?resize=400%2C250" alt="62763348gw1f1yl1p5vgwj20k00cidhe" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/62763348gw1f1yl1p5vgwj20k00cidhe.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
-<p>@郑同学uh-huh：跟云计算有毛关系啊 云计算参与不了你们政治</p>
-<p><a href="http://weibo.com/5826171338" target="_blank">@在芬兰的生活</a>：想公开就公开，公开不公开全是我说算。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/justingun" target="_blank">@再也不做潑冷水大王</a>：<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908e.png?resize=20%2C20" alt="" px data-recalc-dims="1">说得和新闻联播一样好听，实际呢，言论都不自由</p>
-<p>@山东吕哥：让媒体恢复独立自由，民众才能监督到权力。不然，只能“听其言”，无法“观其行”。</p>
-<p>@小小毒害：至于你们信不信，反正我是不信！从来就没有什么救世主，好的制度才是根本！把希望寄托在某些人身上是不现实的，也是没用的。</p>
-<p><strong><a href="http://weibo.com/1892752837" target="_blank">@EDISON李鲸鱼</a>：嘴巴说 笑着看 <img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></strong></p>
-<p><a href="http://weibo.com/5573150164" target="_blank">@蕭燊恪</a>：看謊言還能編到啥時候<img title="[太阳]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif" alt="[太阳]" data-recalc-dims="1"></p>
-<p>@三森铃子的老公：人在评论，网信办在看。</p>
-<p>@锋峦香丘：天在看，这是封建思想的表现，马克思主义没有天。</p>
-<p>@璣翺鐘錚：目前的情况就是这样，政务可以公开，作秀可以公开，但是财产不公开，国籍不公开。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9D%83%E5%9C%A8%E7%94%A8-%E4%BA%91%E5%9C%A8%E7%9C%8B-%E5%98%B4%E5%B7%B4%E8%AF%B4-%E7%AC%91%E7%9D%80%E7%9C%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%85%AC%E5%BC%80%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">官员公开财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80/?category=18271" rel="tag">政府信息公开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">舆论监督</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -765,7 +740,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -775,5 +750,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%A5%96%E5%9B%BD%E4%B8%8D%E5%8F%AA%E6%9C%89%E5%A4%B1%E8%B8%AA%E8%BF%98%E6%9C%89%E8%B7%91%E6%AD%A5/" target="cdt-mirror">【习总日记】 祖国不只有失踪还有跑步</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，19）</p>
+<p>很多人犯了盲人摸象的错误，只看到祖国的一面，没看到另一面。今天我想告诉大家的是，祖国不只有失踪，还有跑步。</p>
+<p>是的，我们犯了很多错误，甚至搞死了人，而且不止一个，是几千万人，总计的话达一亿。虽然数字大了点，也仅仅是错误不是犯罪不是杀人。因为无论是毛主席还是我，主观愿望是为老百姓谋幸福的，是好人，是好领导好领袖。这点获得了绝大多数中国人的认可。不信你问问你的前后左右，街坊邻居，父母子女，老师同学。</p>
+<p>这是千年一贯之中国人民的共识：统治者主观愿望是好的，是希望中华民族富强的，从秦始皇到毛主席，历朝历代的统治者，没有一个要中华民族好看的，没有一个要把中国往死里整的。</p>
+<p>既然如此还有什么好说的？跟着领袖低着脑袋往前走就是了。万一领袖领错了路，大不了一块儿倒霉，又不是只你一个。平衡了吧。</p>
+<p>整日里往返于香港北京双城的<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/" target="_blank">贾葭失踪了</a>。别找，找什么找？人在我们手里。整日里往返于美中两国的<a href="http://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/" target="_blank">扎克伯格跑步了</a>。跑吧，好好跑，跑出那个高兴劲儿，跑出那个正能量，用跑步告诉中国告诉全世界，在伟大中国土地上，不只有红色恐怖和失踪，还有轻松健康的跑步，还有象征自由幸福的溜弯儿。</p>
+<p>坦白而言，失踪是失分，毕竟手段下作流氓。但你们也要承认，跑步是加分。而且跑步表演者是鼎鼎大名的世界著名社交网站创始人小扎。你不至于认为是我们强迫他出来表演吧。感谢你的智商。</p>
+<p>我曾经告诉你们，对中国现代六十年历史，不能否定前后两个三十年。这是为什么？很多人不明白。很多人以为前三十年与后三十年是矛盾的，是冲突的，要么肯定前要么肯定后，或者要么否定前要么否定后，不可能同时否定或肯定。你们办不到想不通是吧。可我想通了办到了。除了证明本总书记之伟大英明以外，还是感叹英明伟大。</p>
+<p>很多人认为失踪和跑步是矛盾的。失踪代表失去自由，跑步代表享受自由，同在北京城发生。你怎么看怎么想？你能怎么看怎么想？想象得出你们看到这段文字的表情，一边脸舒展，一边脸抽搐。乐了。乐的人是我。</p>
+<p>这是一个恐怖与祥和并存的时代，这是一个乌鸦与凤凰齐飞的天空，这是一个依法治国一党专政并举的国家。每一个人都应该庆幸生活在那么一个奇妙的年代。几十年之后，当你回忆往事，依然惊心动魄的话，我就满足了。</p>
+<p>我很感谢也很荣幸在这个时代担任党和国家领导人，带领你们品尝酸甜苦辣咸五味杂陈的幸福小康生活。</p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%A5%96%E5%9B%BD%E4%B8%8D%E5%8F%AA%E6%9C%89%E5%A4%B1%E8%B8%AA%E8%BF%98%E6%9C%89%E8%B7%91%E6%AD%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%94%B5%E5%87%BB%E5%AE%9E%E9%AA%8C%EF%BC%9A%E6%98%AF%E5%88%B6%E5%BA%A6%E8%BF%98%E6%98%AF%E4%BA%BA%E6%80%A7%E4%BD%BF%E4%BA%BA%E4%BD%9C/" target="cdt-mirror">【CDTV】耶鲁大学电击实验：是制度还是“民族性”使人作恶？</a>
 </h2>
 <p><p>1961年，耶鲁大学心理学家斯坦利·米尔格拉姆（Stanley Milgram）为了研究人“服从权威”的特质，设计了一个颇有争议的实验：实验小组告诉参与者，他们参与的是一项研究“体罚与学习效果”的实验，需要他们担任“老师”，在研究人员的监督引导下，通过“电击”的方式教导隔壁屋子里另一组担任“学生”的志愿者背诵单词。如果学生答对了，老师会继续测验；如果答错了，老师会对学生施以电击惩罚。伏特数从45伏开始，每逢答错，电击的伏特数会随之提升，直到450伏。“老师”和“学生”看不到对方，但可以听到对方的声音。随着伏特数的提高，“学生”会开始惨叫、抗议、求饶、要求停止实验，直到电机控制器达到“危险值”时，“学生”便不再出声。每当“老师”表现出犹豫时，研究人员就会用“请继续”、“你没有选择，你必须继续”等命令性语言要求“老师”继续教导学生。</p>
@@ -584,30 +606,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A/" target="cdt-mirror">【图说天朝】万国博览会</a>
-</h2>
-<p><p>@王贝贝aloha：中国边检，开放VIP通道欢送各位代表回国。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6b950011jw1f1zdogsg0yj20qo0zkn50.jpg?resize=440%2C587" alt="6b950011jw1f1zdogsg0yj20qo0zkn50" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6b950011jw1f1zdogsg0yj20qo0zkn50.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6b950011jw1f1zdogsg0yj20qo0zkn50.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>地狱-先生：万里迢迢来中国鼓掌赞成，这是什么精神同志们？</p>
-<p>张奈儿_：开完会，代表们都回到了各自的祖国？</p>
-<p>素材Cooper：万国博览会 胜利闭幕</p>
-<p>摇看破布褂前穿：每次都抽出几天时间不顾辛劳的来华参与讨论决定关乎中国居民的大事件，这是多么伟大啊！</p>
-<p>你自己一下：北京空气不好，为了中国人民您们受罪了。</p>
-<p>吴期徒刑：全世界人民代表大团结万岁。</p>
-<p>福禄寿禧孙旺财：吃特供，走VIP。</p>
-<p>安东尼飞机哥：我刚刚在北京入境也看到了，这个貌似主要是给港澳台开的。</p>
-<p>马叉开italk：两会难道是“第二联合国大会”的简称？</p>
-<p>挡不住的天涯一只梅：真的让人不明白的道理，为什么中国人回自己国家，中国边检要一副臭脸呼来喝去呢？？看见外国人就笑脸相迎？？</p>
-<p>pilgrim2006：无处不特权。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A7%88%E4%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E7%B1%8D/?category=18271" rel="tag">外籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83/?category=18271" rel="tag">特权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%B9%E6%A3%80/?category=18271" rel="tag">边检</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -619,7 +617,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -629,5 +627,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

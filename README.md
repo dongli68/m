@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,62 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E3%80%81%E6%9D%8E%E7%9F%9B%E7%9B%BE%E5%85%AC%E5%BC%80%E5%8C%96-%E4%B8%AD%E5%85%B1%E6%94%BF%E5%B1%80%E6%B7%BB%E5%8F%98%E6%95%B0/" target="cdt-mirror">世界日报｜习、李矛盾公开化 中共政局添变数</a>
+</h2>
+<p><p>中国「两会」 ( 人大、政协 ) 本周曲终人散，给外界留下一大堆问号。当局对地产大亨任志强的「文革式」批判在「两会」期间戛然而止；对官媒「姓党」的露骨要求引来后座力反弹，西藏代表团佩戴习近平像章出席的出格举动被叫停，以及新疆「无界传媒」出现要求习近平辞职的贴文，官方新华社发出稿件称习近平「中国最后领导人」事件，尤其国家主席习近平和国务院总理李克强在大会上相敬如「冰」，不惜将两人心结公开化，所有事件将对中国未来政局带来什么样的影响，引人猜测。</p>
+<p>大会结束习李各走各的</p>
+<p>今年的「两会」，在官方央视直播下，亿万中国人都看到了这样的画面：在 3 月 5 日李克强作「政府工作报告」近两小时过程中，会场共响起 40 多次掌声，但坐在主席台上的习近平却一直板着脸，一点掌声都吝于给出。两人不仅从进场到离场都无交流，在李克强报告结束时，习近平也未按惯例起立与李握手致意。两人直到「两会」结束，都未出现交流和互动场面。与此相对照的是，人大委员长张德江报告完毕，习近平却与他有说有笑。</p>
+<p>因此「两会」结束后，北京流行最新顺口溜：「不到北京，不知道『文革』原来还在搞；不谈南海，不知道中国的朋友原来那么少；不开『两会』，不知道习、李关系原来这么糟。」</p>
+<p>习、李不和，在中国政坛本不是新闻。从「习李体制」和「克强经济学」昙花一现，到中央财经领导小组组长这个原本非总理莫属的职位被习近平掌握，习、李据传为股灾拍桌子，以及传出习要换掉李，调上海市委书记韩正进京作总理备胎等，无不显示李作为中共建政以来「最弱势总理」，已被边缘化。半官方的香港「大公报」甚至以「坐在火山口上的中国经济和中国总理」描述说，「李克强总理曾几次不经意的起身微调坐姿，有些如坐针毡之感，不禁让人联想到坐在火山口的尴尬处境」。</p>
+<p>然而，细心人也发现，在 5 日全国人大开幕作报告时还虚汗涔涔的李克强，到 15 日人大闭幕会后的记者会却信心满满，前后判若两人。他并藉回答俄罗斯记者问题的机会，释出他的地位稳固，明年还将出席总理记者会的强烈信息。短短十天之间发生了什么？外界无从知晓，不过仍能找到一些蛛丝马迹。</p>
+<p>有报导指「两会」期间中央政治局曾召开过一次重要会议，而从「习核心」并不叫座，未如外界预期成为本届「两会」的主调来看，会议可能与此有关。中共宣传部门对习近平的「个人崇拜」过分渲染，可能已在党内受到挑战，遭遇反效果；习近平自己树立的「核心」地位也并未巩固，各方势力集聚的「倒习联盟」也在蠢动。</p>
+<p>究其原因，习近平掌权三年半，无论内政、外交，迄今都仍只停留在「破」，他以强力手腕揽权、反腐、治官及整编军队，因此得罪党内、军内不同派系、山头和利益集团；而在「立」方面，他至今仍少有建树，国内经济下滑、改革停顿、中国在国际上越来越孤立，南海周边国家纷纷倒向美国，向中国叫板；在南北韩问题中国虽被迫向美国示好，支持严厉制裁北韩，却未能换取美韩不在南韩部署威胁中国安全的战区高空防卫系统 (THAAD ，萨德 ) 。而党内种种质疑，他已越来越难自圆其说。</p>
+<p>反观李克强，他的弱势反而能赢得人们的同情分数。即使经济治理无方，人们也会认为责任并非完全在他，而在于他获得的授权有限。而前不久盛传习近平拟调重庆市长黄奇帆进京，担任国务院秘书长，遭到李克强抵制，也显示李克强的「二把手」并非完全懦弱无能，而是顾全大局，忍而未发。</p>
+<p>「两会」期间中共高层的矛盾凸显，不加掩饰，因此，明年中共 19 大的前哨战已提前打响。由于届时现任中央政治局常委中除习、李以外的其他五人都将交棒，因此习、李两人的权力博弈将惊心动魄。</p>
+<p>按照中共元老对第四代领导人的设计，习、李本为「双接班」体制，现在习近平打破了这一体制，一人独享，因此在风云诡谲的形势下，未来中共政坛存在三个变数：一是习近平地位继续巩固，李克强中途下车，让出总理职位，在 19 大后转任不重要的人大委员长；二是继续「尊习」，换取担任弱势总理，并觊觎中共 20 大接班；三是各利益集团「倒习」成功，李克强明年成为各派接受的新领导人。结果如何，颇难逆料。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E3%80%81%E6%9D%8E%E7%9F%9B%E7%9B%BE%E5%85%AC%E5%BC%80%E5%8C%96-%E4%B8%AD%E5%85%B1%E6%94%BF%E5%B1%80%E6%B7%BB%E5%8F%98%E6%95%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E8%B4%BE%E8%91%AD%E6%B6%89%E6%A1%88%E8%A2%AB%E5%85%AC%E5%AE%89%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">BBC｜中国媒体专栏作者贾葭“涉案”被公安带走</a>
+</h2>
+<p><p>香港《苹果日报》台湾版报导了贾葭的“失踪”</p>
+<p>中国媒体专栏作者贾葭的律师向BBC新闻网透露，此前一直下落不明的贾葭“因涉及一起案件”，被北京市公安局“3月15日从机场航站楼带走”。</p>
+<p>贾葭，实名贾佳，自3月18日晚上起失去联络，当时他正要登上飞机前往香港。</p>
+<p>有人相信他曾就一封呼吁国家主席习近平辞职的匿名信件被刊载上网而发出过提醒。</p>
+<p>该封信件短暂出现在一个有政府背景的网站上，但很快被删除。</p>
+<p>表面上看来，这似乎是在当局着意提升习近平形象的背景下，一系列高姿态审查当中的最新一次事件。</p>
+<p>他的律师燕薪告诉BBC说：周日（3月20日）下午从北京市公安局首都机场分局获知：因涉及一起案件，北京市公安局3月15日从机场航站楼将贾佳（贾葭实名）带走，机场分局刑警参与协助。</p>
+<p>但外界目前仍不清楚贾葭所涉案件的详情。</p>
+<p>匿名信？</p>
+<p>3月4日，有关的信件在与政府有联系的无界新闻网上出现时，立即引起了注意。</p>
+<p>信件是写给习近平主席的，信中呼吁他辞职，并指他“将权力全面抓到自己的手里”，纵容“个人崇拜”，还从外交政策到经济决策等方面对他提出了批评。</p>
+<p>该信的落款是“忠诚的共产党员”。</p>
+<p>在媒体上公然出现对中国政府和习近平的直接批评，这种在中国大陆几乎前所未闻，更别说是有政府关系的媒体了。</p>
+<p>消息指，贾葭坚称自己和那封信无关，但他看到信件被刊载后，向无界新闻的一个编辑、他的朋友欧阳洪亮发出了提醒。</p>
+<p>BBC曾尝试联系欧阳洪亮，但没有找到他。</p>
+<p>无界新闻的其中一个员工还告诉BBC说，与这封信的刊载有关的人都在“接受调查”。</p>
+<p>无界新闻声称，信件是从海外一个时常批评中国政府的网站“参与网”转载的。</p>
+<p>之后，该信已在无界新闻网站上被删除，但在参与网上仍有登载。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E8%B4%BE%E8%91%AD%E6%B6%89%E6%A1%88%E8%A2%AB%E5%85%AC%E5%AE%89%E5%B8%A6%E8%B5%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E4%BA%BA/?category=18271" rel="tag">媒体人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E9%99%88%E6%98%8E%EF%BC%9A%E5%9C%A8%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%9B%BE%E6%99%AF%E4%B8%AD%E7%9C%8B%E7%82%AE%E8%BD%B0%E4%BB%BB%E5%BF%97%E5%BC%BA/" target="cdt-mirror">纵览中国｜陈明：在历史大图景中看炮轰任志强</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?resize=550%2C978" alt="任志强" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/02/444-4.jpg?w=720 720w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -579,67 +632,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AE%98%E5%91%98%E7%9A%84%E6%8A%8A%E6%88%8F%E4%B8%8E%E4%B8%9C%E5%8C%97%E7%9A%84%E5%9B%B0%E5%A2%83/" target="cdt-mirror">东网｜乔木：官员的把戏与东北的困境</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg" rel="attachment wp-att-432114"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg?resize=550%2C393" alt="bkncn-20160318000321425-0318_05411_001_01p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bkncn-20160318000321425-0318_05411_001_01p.jpg?w=608 608w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>两会上黑龙江省长陆昊借口下面汇报有误，承认错误，表示要想办法解决。比起要么不说话，要么说错了死不认错的官员来说，陆昊的应对还算可以，至少有个让人能接受的态度。当然事情没那么简单，与其说领导被骗，不如说领导骗人。</p>
-<p>他开始说没有拖欠工人一分钱，显然是在两会这个场合炫耀政绩。但是龙煤集团涉及四地几十万人，每年的开销几十亿，困境不是一天两天，而是持续一两年。一个主管经济的省长，其他有可能疏忽，这么大的事，人和钱之多，领导不知情，要么不称职，要么就是有意隐瞒、骗人了。</p>
-<p>至于陆昊说的下面汇报有误，也可以理解成对工人上街讨薪没有及时准确汇报。因为这么多年的高压维稳，对工潮的强力打压，特别是两会敏感期的网格状布控，按说不会发生这种事，所以省长才敢夸海口。没想到就是由于他与事实不符的话，激起了工人上街。下面的人往上报害怕挨批，想着弹压和封锁消息。结果工人多控制不了局势，社交媒体发达也封锁不住消息。最终弄得举国全知，省长只好改口。</p>
-<p>现在情况明了，反而好对付了。当局恩威并重，一反面紧急发钱安抚众人，另一方面通告抓捕带头者，龙煤集团的危机暂时平息。但是按下葫芦浮起瓢，吉林通钢的工人又上街了，后面还会有吗？造成这种东北困境到底怪谁？</p>
-<p>有人说怪国企的工人。效益好的时候，全家往企业挤。效益不好的时候，不想着自谋出路，停产不干活还要工资，拿全体纳税人的钱补他们的亏空。换成其他企业，比如外企、私企每年都会裁人，经济形势不好的时候，裁员、下岗、失业的总数会很多。至于干着工人的活却按农民待遇的农民工，欠薪讨薪更是常事，但却不像此次黑龙江闹出这么大的动静。</p>
-<p>不管国企私企，涉及到几十万人的生计、饭碗，就是在资本主义的美国，是否让通用汽车破产、如何安置工人，也是政治大事、大选议题，别说讲政治、维稳定的中国。国企困境，有工人的原因，比如看重这个身份，心理和行业依赖，没有职场竞争力。企业管理不善，决策失误，特别是冗员过多。由于历史包袱和效率问题，东北产相同煤的人员投入，是全国平均的三倍。效益好的时候还能维持，煤价持续下跌，自然难以为继。</p>
-<p>但考虑到国企的性质，更大的责任还在政府。十多年前就开始喊振兴东北，调整产业结构，有不少的资金资源投入和政策倾斜。但是调整需要很长的时间，短期难以见效。对于看重GDP增长、短时就要政绩的官员来说，什么最见效、来钱快，就会选择依赖什么。过去的十年，由于卖土地导致的房地产价格高涨，对水泥、钢材的需求猛增，带动了背后的煤炭石油能源。整个经济的发展和国际能源价格走高，也保证了煤油行业的好日子。</p>
-<p>这种情况下，所谓振兴东北变成了喊新口号、走老路子。煤炭本来应该逐渐减产、升级、转型，但由于来钱快，黑龙江政府反而是把四矿合并做大，并购其他企业，成立龙煤集团，投入资本和人力，确保垄断地位和短期利润。最终整体产能过剩，煤炭需求和价格下滑，恶性发展的后果爆发。</p>
-<p>石油也是。油城大庆早就存在储量少、成本高、单一依赖的问题，但过去几年的高价利润、官员任期制捞一把就走的心理，没有人去真正解决调整。最终石油过剩，油价大跌，大庆去年的GDP竟然是负增长。</p>
-<p>工人只管干活拿钱，企业管理者往往也只看到自己的生产经营，看不清整个行业、全国经济和世界经济的走向。但是作为制定产业政策、研究经济形势、调配资源和金融的政府官员，又做了什么？喝酒吃肉，真应了《曹刿论战》所说的“肉食者鄙”？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AE%98%E5%91%98%E7%9A%84%E6%8A%8A%E6%88%8F%E4%B8%8E%E4%B8%9C%E5%8C%97%E7%9A%84%E5%9B%B0%E5%A2%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9F%BF%E5%B7%A5%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">2016黑龙江矿工讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9/?category=18271" rel="tag">产能过剩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%AF%E5%85%B4%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">振兴东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/432090/" target="cdt-mirror">【图说天朝】真・国际友人：扎克伯格为帝都人民服雾</a>
-</h2>
-<p><p>北京时间2016年3月19日，Facebook创始人兼CEO马克·扎克伯格公开了一组自己在天安门广场前晨跑的照片，自称从广场经故宫至天坛。当天北京PM2.5指数为330+。网友们纷纷表示被这名国际友人的献身精神所打动。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png" rel="attachment wp-att-432101"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=500%2C532" alt="zuckerberg_jogging_in_beijings_aqi_337_air" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=282%2C300 282w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=768%2C818 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=962%2C1024 962w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?w=1054 1054w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png" rel="attachment wp-att-432099"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=575%2C288" alt="zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?resize=768%2C384 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air_without_a_mask.png?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png" rel="attachment wp-att-432100"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?resize=425%2C756" alt="img_8747_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/img_8747_0.png?w=675 675w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br>
-（以上图片来自<a href="http://www.thebeijinger.com/blog/2016/03/18/zuckerberg-shows-how-much-he-loves-china-running-aqi-337-air-without-mask">the Beijinger</a>）</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@互联网的那点事:雾霾天 扎卡伯格在天安门晨跑 这是一种怎样的国际主义精神！</p>
-<p><a href="http://weibo.com/1559705664" target="_blank">@天生天养-自由自在</a>：在这跑步有两种死法：雾霾死，坦克死，选一个。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/sgnhr" target="_blank">@钢筋徒工</a>：公关助理可能知道强国人敏感而脆弱，所以告诉小扎不要戴口罩？<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p>@智障儿童爱很多：不远万里来吸毒，感人。</p>
-<p>@诡评：他想体验一下线下版的“非死不可”</p>
-<p>@土豆超人S：3.19  卒</p>
-<p>@资深屌丝初级民工：领导说了，想进来可以，先去跑几圈，看能不能忍受这肮脏的环境。</p>
-<p>@苏雨农：首先要排队过安检，其次要顶着高达340的严重污染，这是有多爱中国</p>
-<p>@闷闷不闷：为了非死不可进入天朝真的好拼！</p>
-<p><a href="http://weibo.com/niutaotao" target="_blank">@牛滔滔</a>：他是怎么上传到FB的？<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@大王Huo事了：想看看雾霾是否能打倒美帝国主义及其一切走狗</p>
-<p>@妇科专家来会诊：你懂个JB啊   分明害怕IS跑北京避难来了 这样IS就在雾霾中找不到他了</p>
-<p>@应朝朝-YCC：为中国人民服雾！</p>
-<p>@麻烦死麻烦死：大家快看 进口吸霾机</p>
-<p>@RevengeRangers: 价值3000亿的人肉吸霾机！！！</p>
-<p>@香菇老爷子：霾是帝都醇…</p>
-<p><a href="http://weibo.com/1977330732" target="_blank">@无主之城24</a>：以为这样就能让你上墙里边来？年轻人啊，naive<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@余承东吃大香蕉：有人问我北京人为什么这么牛逼，我默默深吸了一口气……然后笑着看了看他。  他不服，学我他也深吸了一口气……享年25岁。——hokaichau</p>
-<p><strong>@大家_LilBear：他不知道在中国”Tiananmen Square”是敏感词嘛</strong></p>
-<p>@kenji米侬：没看升旗，没在红旗下感动落泪，负分</p>
-<p>@我比你妈还爱妳：洋大人就是依法享有特权啊，在墙内也能上Facebook</p>
-<p>@Willsky-TL：人可以在天安门跑 你的fb缺禁止在外 你说自由还是不自由？ 身体看似自由 可精神永不让 你自由！这是LOW国的现状！</p>
-<p>@Phoenixiao2016：我也是不明白了，这人怎么这么牛逼，百度了下他的网站，根本打不开，完全扯淡</p>
-<p>@Seansto：刚跑没两步又要过安检口了…</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/432090/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E9%9B%BE%E9%9C%BE/?category=18271" rel="tag">北京雾霾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%82%E4%BA%BA%E6%B0%91%E6%9C%8D%E9%9B%BE/?category=18271" rel="tag">喂人民服雾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E9%83%BD/?category=18271" rel="tag">帝都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +643,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +653,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

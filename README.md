@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%94%B5%E5%87%BB%E5%AE%9E%E9%AA%8C%EF%BC%9A%E6%98%AF%E5%88%B6%E5%BA%A6%E8%BF%98%E6%98%AF%E4%BA%BA%E6%80%A7%E4%BD%BF%E4%BA%BA%E4%BD%9C/" target="cdt-mirror">【CDTV】耶鲁大学电击实验：是制度还是“民族性”使人作恶？</a>
+</h2>
+<p><p>1961年，耶鲁大学心理学家斯坦利·米尔格拉姆（Stanley Milgram）为了研究人“服从权威”的特质，设计了一个颇有争议的实验：实验小组告诉参与者，他们参与的是一项研究“体罚与学习效果”的实验，需要他们担任“老师”，在研究人员的监督引导下，通过“电击”的方式教导隔壁屋子里另一组担任“学生”的志愿者背诵单词。如果学生答对了，老师会继续测验；如果答错了，老师会对学生施以电击惩罚。伏特数从45伏开始，每逢答错，电击的伏特数会随之提升，直到450伏。“老师”和“学生”看不到对方，但可以听到对方的声音。随着伏特数的提高，“学生”会开始惨叫、抗议、求饶、要求停止实验，直到电机控制器达到“危险值”时，“学生”便不再出声。每当“老师”表现出犹豫时，研究人员就会用“请继续”、“你没有选择，你必须继续”等命令性语言要求“老师”继续教导学生。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-20-at-%E4%B8%8B%E5%8D%8812.28.57.png?resize=365%2C388" alt="Screen Shot 2016-03-20 at 下午12.28.57" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-20-at-下午12.28.57.png?resize=282%2C300 282w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-20-at-下午12.28.57.png?w=365 365w" sizes="(max-width: 365px) 100vw, 365px" data-recalc-dims="1"></p>
+<p>而实际上，电击控制器是假的，“学生”都是研究人员假扮的，目的是为了测试当隔壁“学生”表现出痛苦甚至有生命危险时，“老师”是否会听命于研究人员继续实施电击。</p>
+<p>这些参与者年龄从20岁至50岁不等，从小学毕业至博士学位都有。在实验开始前，米尔格拉姆和他的同事们估计只有很少一部分人会听从研究人员继续惩罚直到最大伏特数。然而第一次实验中，65%（40人中超过27人）的参与者继续到了最后的450伏特。尽管他们几乎都表现出一些犹豫，但没有人在到达300伏特之前坚持停止。</p>
+<p>后来，米尔格拉姆本人和其他国家的研究人员又重复进行过很多次类似的实验，每次都约有三分之二的人愿意施以最大伏特的电击。</p>
+<p>所以，人们为什么会追随独裁者作恶呢？是强调“服从”的文化使然？还是普遍人性使然？如果人性中普遍有服从基因，如何让权力不去作恶？二战后不断有人指责德国和日本的文化都强调集体主义、服从权威，是这种“民族性”导致了他们作恶。而“电击实验”的结论则反驳了这种说法：屈从权威的特性在人群中普遍存在，也许只有通过制度来限制权威，才可以最大限度避免极权主义下的悲剧。</p>
+<p>CDTV在此推荐米尔格拉姆实验片段，如果您在墙内无法看到YouTube上的视频, <span><strong>请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0">点击这里</a></strong></span>使用BitTorrent Sync (Sync) 下载观看。</p>
+<p></p>
+<p><span dir="ltr" title="【心理學實驗】米爾格萊姆--服從實驗"><a href="https://www.youtube.com/watch?v=C_Ra-MCNCCQ">【心理學實驗】米爾格萊姆–服從實驗</a></span></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%94%B5%E5%87%BB%E5%AE%9E%E9%AA%8C%EF%BC%9A%E6%98%AF%E5%88%B6%E5%BA%A6%E8%BF%98%E6%98%AF%E4%BA%BA%E6%80%A7%E4%BD%BF%E4%BA%BA%E4%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B1%B3%E5%B0%94%E6%A0%BC%E6%8B%89%E5%A7%86%E7%94%B5%E5%87%BB%E5%AE%9E%E9%AA%8C/?category=18271" rel="tag">米尔格拉姆电击实验</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E3%80%81%E6%9D%8E%E7%9F%9B%E7%9B%BE%E5%85%AC%E5%BC%80%E5%8C%96-%E4%B8%AD%E5%85%B1%E6%94%BF%E5%B1%80%E6%B7%BB%E5%8F%98%E6%95%B0/" target="cdt-mirror">世界日报｜习、李矛盾公开化 中共政局添变数</a>
 </h2>
 <p><p>中国「两会」 ( 人大、政协 ) 本周曲终人散，给外界留下一大堆问号。当局对地产大亨任志强的「文革式」批判在「两会」期间戛然而止；对官媒「姓党」的露骨要求引来后座力反弹，西藏代表团佩戴习近平像章出席的出格举动被叫停，以及新疆「无界传媒」出现要求习近平辞职的贴文，官方新华社发出稿件称习近平「中国最后领导人」事件，尤其国家主席习近平和国务院总理李克强在大会上相敬如「冰」，不惜将两人心结公开化，所有事件将对中国未来政局带来什么样的影响，引人猜测。</p>
@@ -45,7 +64,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E8%B4%BE%E8%91%AD%E6%B6%89%E6%A1%88%E8%A2%AB%E5%85%AC%E5%AE%89%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">BBC｜中国媒体专栏作者贾葭“涉案”被公安带走</a>
 </h2>
@@ -589,49 +608,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%86%E6%9E%90%EF%BC%9A%E9%A6%99%E6%B8%AF%E4%B8%BA%E4%BD%95%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%96%AD%EF%BC%9F/" target="cdt-mirror">BBC｜香港为何学生自杀事件不断？</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg" rel="attachment wp-att-432122"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg?resize=550%2C309" alt="160317095429_cn_hong_kong_youth_976x549_afp_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095429_cn_hong_kong_youth_976x549_afp_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>香港地狭人稠，居住与活动空间都很有限。（资料照片）</p></div>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E6%A1%88%E9%A2%91%E4%BC%A0%E5%BC%95%E5%8F%91%E7%A4%BE%E4%BC%9A%E5%85%B3%E6%B3%A8/">BBC｜香港学生自杀案频传引发社会关注</a></p></blockquote>
-<p>香港今年3月在九天内发生超过六起11至21岁的学生自杀事件，而自去年9月新学期起算，累积超过24件。“香港学生怎么了？”成为社会关注的议题。</p>
-<p>自去年9月1日至周四（3月17日）的统计数据显示，11名自杀者是大学生，13名是中学或中学以下学生。香港媒体报道的自杀原因，超过20人有“学业压力”，而“情绪病”（心理疾病）有四例以上，为第二多数的原因。</p>
-<p>周三（3月16日）立法会民主派议员质询教育局长吴克俭，敦促教育局调查香港中小学教师工作量，使老师能有余裕关注学生的心理状态，也呼吁当局检讨目前的考试和教育制度是否造成学生压力与情绪问题。教育局在上周四（10日）召开紧急会议，推出包括成立专责委员会分析及防范自杀等五项措施。</p>
-<p>香港撒玛利亚防止自杀会总干事曾展国对BBC中文网表示，在香港，其实老年人（2014年每十万人23.8人）的<a href="http://www.bbc.co.uk/zhongwen/simp/china/2016/02/160217_mental_health_season_hongkong_elderly_depression.shtml"> 自杀率要远高于年轻人</a>（每十万人5.9人），但老年人自杀较被媒体忽略。“年轻人自杀”也不是近年才有的现象，1960年该协会成立，就是因应许多学生因成绩不佳而自杀的社会现象，在2002年、2004年、2012年，都有超过20名学生自杀，显示学生自杀的问题存在已久。</p>
-<p>以自杀防治为研究专长的香港大学教授叶兆辉表示，年轻人自杀的原因是综合性的，包括学业压力、较弱的家庭支持系统、绝望感等等，但近期内“不寻常的、特别多的”的自杀事件中，因媒体报道，并在社交媒体上被广为流传讨论而产生的“传染效应”也可能是原因之一。</p>
-<p><strong>网络效应</strong></p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg" rel="attachment wp-att-432121"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg?resize=550%2C309" alt="160317100153_cn_hong_kong_facebook_976x549_afp_nocredit" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317100153_cn_hong_kong_facebook_976x549_afp_nocredit.jpg?w=624 624w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>研究显示，随着社交媒体与网上论坛的发达，越来越多年轻人选择在网上宣泄自己的情绪。（资料照片）</p></div>
-<p>叶兆辉接受BBC中文网采访时说，自杀讯息会在年轻人之中流传，社交媒体扮演了关键的角色，而有些过于具体的描述自杀方式，或是将自杀者死因过度简化归类的报道，可能影响心理状态比较脆弱的人，产生模仿效应。网络上对于自杀新闻的评论留言，有时也令人难以承受。</p>
-<p>曾展国认为，因为与成年人的“互信”感消失，年轻人转而在社交媒体上表达自己的情绪，而不对家人或师长诉说，此现象对年轻人“没有太大帮助”。因为很多给予意见的人不是专家，或可能同样面临负面情绪，反而会一起增强负面思考。而有些“正面”的人说出的“加油！、“没有不能过的难关！”这类的话，会让有情绪困 扰的人更觉得不被了解，“他已经很累了，他要的是支持，表示你对他的认同……如果你没有心力去帮他，那你一句都不要说。”</p>
-<p>一位现年19岁的香港大学女生郑同学向BBC中文网透露，她在中学时被诊断出轻度焦虑，接受治疗一年多，但感觉没有太大成效。“现在看到一些网民对自杀新闻的评论我还是会哭，我觉得他们好残忍、好冷漠。”</p>
-<p><strong>“非单一原因”</strong></p>
-<p>当前许多人朝“减轻学业压力”的方向寻找解药，并认为香港社会“处处竞争的风气”、“对文凭的追求”应该要被检讨。</p>
-<p>担任中学教师超过20年的张老师对BBC中文网说，教育制度确实给学生很大压力、很多限制，“个人成长是中学的教育制度里面很缺乏的。” 特别是重视升学的学校，对学生成绩以外的事关心有限。</p>
-<p>郑同学说在中学时，晚上会“莫名奇妙的一直哭”，质疑“为什么15、16岁就要决定我的人生？”又因为不想对工作压力大的家人造成困扰，她独自去就诊，但上大学停诊后，情况也没有好转，“我不知道整个的意义在哪里，上好中学，考上好大学，然后呢？”她自认为没有考上“名牌大学”，选择就读的也不是家人认为 “前途较好”的科系，所以家人“很不高兴”。</p>
-<p>香港大学四年级的王同学认为，在大学前的求学阶段，老师没有鼓励学生探索自己的兴趣。她表示自己有舞蹈专长，曾考上香港演艺学院，但家人不让她就读。</p>
-<p>她在大学考试放榜后，因为成绩不如预期而感到非常沮丧，长达一个多月不想与人接触、食欲低落。她没有进入当年录取的大学，而是报读副学士学位，过了一年才又转考进香港大学。</p>
-<p><strong>“从不快乐到自杀”</strong></p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg" rel="attachment wp-att-432120"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg?resize=550%2C309" alt="香港学生被认为承受很大的学业压力（资料照片）。 " srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/160317095817_cn_hong_kong_students_976x549_afp_nocredit.jpg?w=624 624w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>香港学生被认为承受很大的学业压力（资料照片）。</p></div>
-<p>从业五年以上的临床心理学家赵千媄对BBC中文网表示，媒体近来对香港学生自杀的焦点都着重在学业压力和教育制度，但她认为学业压力“更像是导火线而不是原因”。她说：“如果一个人有完整的社会支持网络，心理上感到快乐，那么即使他面对压力，他们也不会自杀。”</p>
-<p>“一个人的自杀通常都不是一个问题导致的……但最终就是他找不到出路。”曾展国也表达相似的看法。</p>
-<p>赵千媄说：“一个人要从‘不快乐’走到‘自杀’这一步，中间有一大段路。所以自杀的人是真的感到非常绝望。”根据她的研究，很多时候自杀者其实不是想结束自己的生命，而只是想从目前面临的痛苦中解脱，所以如果有其他方法能解决他们的问题，他们就不会放弃生命。</p>
-<p>叶兆辉研究最近的自杀个案，发现近半数的死者处在社会支援网络薄弱的情况下，可能是与家人相处不睦或单亲。</p>
-<p><strong>污名与刻板印象</strong></p>
-<p>张老师育有三个女儿，以母亲的角度来看，女儿在中学时期承受特别大的压力，“不要说是个人兴趣，连休息的时间都不是很够。”张老师和丈夫都是中学老师，知道复杂的成绩计算方式及可能努力也不一定拿高分的状况，因此能倾听、理解女儿的抱怨。但一般不理解情况的家长，在处理孩子的负面情绪时，可能会让他们更加沮丧。</p>
-<p>赵千媄认为，处理个人情绪才是防治自杀的基础，但对情绪病的“污名”（stigma）是一大阻碍──人们不愿意谈自己的情绪，因为在亚洲文化中，这被这为是显示脆弱，是羞耻的。</p>
-<p>在分析从去年9月以来的自杀个案，男性14名，女性10名。曾展国表示，一般认为女性比较敏感、脆弱，但女性更容易把情绪表现出来，因而适时获得支持或帮助。但男性受限于“男儿有泪不轻弹”的传统性别气质规范，在默默累积情绪到一定程度后，与女性相比更容易自杀。</p>
-<p><strong>自杀防治</strong></p>
-<p>曾展国认为目前政府实施的紧急措施“太保守、太一般了”，应该要有能够立即推动的方案。该协会正在推广“家长每天给孩子一分钟拥抱”的活动，并加强普及与情绪低落者沟通的技巧。</p>
-<p>香港撒玛利亚防止自杀会四年前启动“网络介入计画”（web-engagement program），主动联系在网络上表达自杀意愿的人做辅导，在网络上宣传正确的自杀防治观念，并从周一（14日）开始，延长网络聊天室时间至凌晨两点。</p>
-<p>赵千媄除了邻床心理学家的身份外，更是一位社会企业家，她在2014年创办一个手机app，能够藉由游戏，测试中学生是否有抑郁倾向。从她过去参与中学的自杀防治课程的经验，认为现行的放映影片、填答问卷等，无法真正得知学生的想法，甚至有些学生会拒填太具有导向性的问题（例如：你是否曾想过自杀？）课程流 于形式。</p>
-<p>赵千媄表示，如果可以消除对情绪障碍的污名，让人们在感到安全的情境下更开放地讨论情绪与自杀，将能降低年轻生命消逝的事件发生。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%86%E6%9E%90%EF%BC%9A%E9%A6%99%E6%B8%AF%E4%B8%BA%E4%BD%95%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%96%AD%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">心理干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%91%E9%83%81%E7%97%87/?category=18271" rel="tag">抑郁症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%8E%8B%E5%8A%9B/?category=18271" rel="tag">社会压力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80%E7%8E%87%E4%B8%8A%E5%8D%87/?category=18271" rel="tag">自杀率上升</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -643,7 +619,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -653,5 +629,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

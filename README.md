@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,89 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E6%96%B0%E4%B9%A6%E8%87%AA%E5%BA%8F%EF%BC%9A%E8%AF%B7%E4%BD%A0%E4%BB%AC%E7%AD%89%E7%9D%80%E6%88%91%E5%9B%9E%E6%9D%A5%EF%BC%8C%E6%88%91%E4%BC%9A%E5%9B%9E%E6%9D%A5/" target="cdt-mirror">风传媒 | 贾葭新书自序：请你们等着我回来，我会回来</a>
+</h2>
+<p><p>本文选自作者新作《我的双城记》（北京三联）自序。（原标题：你才是专栏作家）</p>
+<blockquote><p>“文学必须干预政治，直到政治不再干预文学为止。艺术必须干预政治，直到政治不再干预艺术为止。新闻必须干预政治，直到政治不再干预新闻为止。色情必须干预政治，直到政治不再干预色情为止。以此类推。”─贾葭。</p>
+<p>贾葭出生于西安，35岁，有过宁漂、京漂和港漂的生活体验，写起文章俏皮幽默、冷眼热肠。也是风传媒的作者。</p>
+<p>3月12日，贾葭在脸书贴了上面这段话；15日他从北京国际机场准备飞往香港时失联，迄无音讯，疑是涉及日前中国网媒转载一封要求国家主席习近平辞职公开信的事件，因此遭到北京当局拘留。</p></blockquote>
+<p>在北京，与其说一个人是专栏作家，倒不如说他是无业游民更合适些。中国媒体的专栏文章制度相比西方而言，远未完善。一个居住在北京的专栏作家，除非他能一天写一篇文章，否则完全不足以供养家用。专栏作家也不是一个可以定义身份的职业。我在居委会登记资料时，居委会大妈七嘴八舌地要看我的中国作家协会会员证，非此不足以证明我是个作家。</p>
+<p>专栏作家是游离于这个大体制之外的民间发言人。在一些公开的场合，我很喜欢被人称为专栏作家，这样可以较为自由、不带顾虑地独立发言，既不会牵涉我所供职的公司，也不会给别人带来媒体所携带的那种不安。其实，我根本也算不上作家，也不会失心疯地要加入中国作协。我就是个码字儿的文字工作者。在没有正经工作的时候，写专栏是我唯一的收入来源。</p>
+<p>这个故事要从2003年的非典说起。彼时，我蜗居在马连道的一间斗室里躲非典，天天用绳子从窗户吊麦当劳的外卖，眼见快要不名一文。有一天无意中翻开一本《三联生活周刊》，看到《生活圆桌》那个栏目，不禁喜上眉梢，这样的稿子多简单啊，我也能写。灵光乍现后，用了不到半个小时，写了一篇题为《床笫之欢》的小文章，用电子邮件寄给那个投稿信箱。谁料下周就刊出了。</p>
+<p>对一个23岁的外省来京务工青年而言，名字跟很多名人并列，我自然非常开心。这个栏目的主持人是苗炜，他的回邮也很简单，希望我能多写。于是第二周，又写了一篇小文章给他，又是当期刊出。文艺青年一般都容易把创作冲动误认为是创作能力，我被他这么一鼓励，似乎觉得自己还是有创作能力的。</p>
+<p>这两篇文章之后，我就不给三联写了。因为《中国新闻周刊》的随笔专栏编辑看到那两篇后，辗转找到我，表示可以给更高的稿酬，让我写给他们。我才不理会这二者的差别呢，有钱就行。也就是说，我最初写专栏文章，纯粹是为了稿费。我没有太高尚的目的，我至少要把中文系的学费挣回来吧，不能亏本。多年之后，我在一个饭局上见到苗炜，那是我第一次见他，但却颇有相知已久之感。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8B%E5%8D%886.30.03.png?resize=536%2C358" alt="Screen Shot 2016-03-19 at 下午6.30.03" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午6.30.03.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午6.30.03.png?w=536 536w" sizes="(max-width: 536px) 100vw, 536px" data-recalc-dims="1"><br><span>2015年贾葭留影于伍迪艾伦的家。（取自作者脸书）</span></p>
+<p>那时候还不敢以作家自居。我是个23岁才毕业一年的毛头小子，作家这个身份离我太遥远了。2003年的夏天的一个晚上，我跟巫昂坐在后海扯淡聊天。她问我以后想干什么？我说什么也不想干，像你那样白天看书，晚上写专栏就好了。这话我说过就忘记了。2009年夏天，我们一起受邀去搜狐视频做一个访谈节目，她突然提到那年夏天的晚上，说道，你当年不就是想做专栏作家吗？你现在已经是了，有什么不同吗？</p>
+<p>2003年11月，《新京报》创刊。他们编辑找到我，希望我可以写一档叫《新北京观察》的栏目。这个栏目就是从偏理论的层次谈北京的建筑、交通、生活、游乐、社区、历史等等。为了写这个，我读了一堆当时觉得全然用不上的书。许多文章完全是现炒现卖。不过，这个时期的写作，让我迅速地重新地了解北京，这个光怪陆离、让人爱恨交织的城市。一些老辈人都不太知道的典故缘起，我都能信手拈来。</p>
+<p>我甚至为了写好这个栏目，周末骑车在各条胡同里乱窜。二环里那些窄小幽深的老胡同，我几乎都走过一遍。看到老房子、老建筑就回家做记录、查资料，跟一些老人聊天，在各种小吃店老字型大小流连忘返，后来发现连自己的口音都变了。我认为这是“当地语系化”的开始，既然决意在北京呆着，为什么不写我眼中的北京呢。</p>
+<p>彼时《新京报》在推广一个叫“新北京人”的概念，我认为我就属于这个群体：爷爷辈没有扛枪进城，父亲没赶上高考重开，在此举目无亲，全靠自己瞎混。我跟北京的关系很简单，就是京漂。由于没有语言障碍，融入北京的生活其实很简单，普通的北京人也并不排外。我有了很多当地的朋友，和北京的距离也就更近了。</p>
+<p>再后来，《南方都市报》邀我写京漂生活，我欣然答应。这样一路写下来。前一阵子，我的专栏出现话题重复、素材重复引用等等状况，让我觉得这个主题似乎已经无法再谈下去。堵车写过三次，水淹京城写过三次，台风写过两次，我都觉得有骗稿费的嫌疑。每周三都绞尽脑汁地想，这周要写什么。比如前一阵引起关注的美国大使馆天气预报以及北京的雾霾，我在2010年的专栏里就写过，我也不能趁大家现在热炒这个就拿出来重写一遍，那样太不道德了。这样的难免情形，在此书中一一存其旧貌，读者大略可知我之难处，唯不敬之处还望谅解。</p>
+<p>其实，北京在哪里？北京是什么？北京代表着、意味着什么？这些问题都很难回答。我想起孩提时代唱的《我爱北京天安门》、《北京的金山上》、《让我们荡起双桨》等歌曲，这些旋律乃至歌词，我至今仍能脱口而唱出。只是，天安门、新华门、北海，这些地名在我的心中，与幼年时代的概念及想像已经截然不同了。当我了解了这些地域及其建筑本身和背后的故事之后，我在心中重建了它们——也重建了一个北京。</p>
+<p>2005年，我读《帝国晚期的江南城市》（Cities of Jiangnan in Late Imperial China）一书时，和心中一些隐隐的却不能总结出来的观点相互印证，坚定了我对北京的看法。同上海、苏州等城市相比，作为八百年帝国首都的北京，受到政治的影响更为显著。市场因素在城市地位升降与发展变迁中，几乎起不到作用。庞大的城市群落不是自然生长的，而是屈从于政治的决定任人打扮。</p>
+<p>当然，北京最剧烈的变化发生在过去的六十多年。这个城市的野蛮生长，伴随着中国国情、民族主义、历史意义的不断变化而变化，大、小、高、低这些建筑学的概念，在政治中都是关键问题，因为牵涉优与劣、好与坏、先进与落后等事关国体的大事。也正唯如此，北京也变成了一个涵盖政治理念与宣扬意识形态的最重要的空间场域。北京是个符号，她的象征意义及其生发出的空间政治，又在极大程度上影响了国家与民众的关系。</p>
+<p>这些零碎不成系统的思考——有的就是半截子的、不成熟的判断，在相当程度上左右了我写专栏时的基本基调及立场。我不是单纯的甚或赤裸裸的抱怨，而是在想：我，一个简单的市民（或屁民），与这座城市的关系到底是什么？我们之间为什么会形成这些关系？对我的影响又是什么？我何以接受或者抵挡这种影响？</p>
+<p>再深言之，在这座城市里，我是什么状态？我的焦虑感、紧张感来自何处？我何以能够弥合内心里和这座城市深层次的鸿沟？何以能够减缓我与这座城市潜在的矛盾与冲突？我把这些问题都会埋在一些看似鸡毛蒜皮的小事件里，写出自己真实的感受。</p>
+<p>因为一个偶然的机会，我在2011年的春天到了香港工作，就停掉了在《南方都市报》上写北京的那个专栏，开始在《看天下》杂志上写香港。相比北京，这是一个新的世界，有许多值得我去发现的东西。这个位处亚洲中心的现代化大都市的确有许多颇可赞许之处，我不过是为前人的议论增加一些并不重要的注脚而已。但香港的生活对我个人而言，却称得上是一次脱胎换骨般的改变。也许我至今都没意识到，她对我的影响有多大。</p>
+<p>英国人遗留下来的那些有形的建筑、雕塑以及街道，是这个城市可见的部分，是历史留给她的外在烙印。然而秩序、规则与意识——这些不可见的部分——在支撑着这个城市的价值与梦想。站在这个城市的街道上，有一种无形的力量让我感到畅快、自由与安逸。我常常站在视窗默默地看着维港上空明艳的晚霞，心中一直在想，是什么力量可以让一个地无三尺平的地方变成如今这样？</p>
+<p>很多香港朋友问我在香港生活的感受，我都非常简单地回答他们，生活在真实当中，或者说，我会觉得生活更真实。此时我会忽略我瑟缩在维港边上一个400多呎的斗室里、被80年代的冷气机吵得难以入睡的情节，但我从不觉得这种生活有什么可以值得抱怨的地方。这真是一个很奇怪的答案，但却是我真正的感受。与此同时，我会想到英国作家简·莫里斯（Jan Morris）描写香港的一句话：就社会而言，这片土地是自由的，并且基本上是公平的。</p>
+<p>可以说，大英帝国就隐藏在这个城市当中，像幽灵般无处不在。这与另外一种无形的力量构成了某种微妙而隐蔽的冲突，至今让香港徘徊在一种复杂的纠结甚至愤怒当中。过去的一年中，香港社会发生的许多事件也与这种冲突有关。有时候，香港就像身份认知分裂症患者，无法确认自己的属性，就像前文提到的莫里斯（她在46岁时做了变性手术）一样。不止是普通市民，整个城市的价值与身份认同都出现了严重的危机。这也让空气中的硝烟味道愈加浓烈。</p>
+<p>见证香港回归的会展中心坐南面北，其地基系在维港填海而成，突出在海面的金紫荆广场，是整个维港的视线中心，这种设计背后蕴含的政治意味不言而明。过去关于香港的文学叙事都围绕维港展开，从视觉形象上确立维港新时代的来临有其必要。同样是金属与玻璃结构的中银大厦，也是取代滙丰银行大楼的新地标。这种角力在各个领域几乎同时存在。</p>
+<p>于半岛酒店俯瞰维港。（腾讯大家网）</p>
+<p>我喜欢去尖沙咀的一个高层酒吧，在那里可以俯瞰整个港岛的夜景，对岸鳞次栉比的大厦顶楼，有数不清的闪烁灯箱广告，有中文的有英文的。光影投射在维港的海面上，波光粼粼地荡漾出这个城市的光辉与荣耀。红隧入口上方有一个蓝底白字的灯箱，上书“北京控股”四个大字。我经常对人说，这才是理解香港的一把钥匙。如果说大英帝国对香港的影响无处不在，那么反过来也可以说，中国大陆施诸于香港的影响亦然。</p>
+<p>我逐渐在理解这座城市的历史与现在。我把最直观的私人感受记载下来，并在截稿的时候告诉我的读者，并且试图让他们知道我对于这个城市的思考并非是走马观花或者刘姥姥进大观园那样的简单。同时又为了不给他们造成太多的阅读负担，我又尽量写得轻松而简约。可这实在是一件很扭捏和不轻松的事情。在描写香港的一本书中，我的朋友严飞曾经说过，他是一脚站在香港，一脚站在大陆，可以说写的是“门槛上的香港”，我则试图把另外一只脚从门槛上拿下来，让自己全身进入。</p>
+<p>说实话写得很累。说到底，我是一个思想浅薄而又无知无畏的人。我经常痛恨自己当年没好好学习，以至于沦落到靠卖简单常用汉字为生。这些文字在人类浩如烟海卷帙浩繁的所有文字中，完全黯然无色毫无意义。我甚至觉得这样想一想也是对过去文明的亵渎。在过去的几次搬家中，我扔掉了几乎全部的样报样刊，以至于当有编辑来讨论出版事宜时，我完全无法确认这些文字具体发表的时间。</p>
+<p>我日益强烈地希望能够给读者提供更好玩更好看更有深度的文字，然而进展有限。我似乎遇到了一个极大的写作瓶颈。再这样下去，我就生生把自己给毁了。我极度不安地希望过去这些年里个人的城市体验，至少能够给那些京漂和港漂青年提供一些资讯上的指南——假如真的可以这样，那倒要谢天谢地了。这个集子里还有一部分千字文是我对中国其他一些城市的细枝末节的观察，其实就是絮絮叨叨地对城市里的鸡零狗碎发出各种牢骚。</p>
+<p>因为在写作上的枯竭和思想上的不自信，我开始厌倦被称为一个专栏作家。这里要用到那句名言，据说以前是拿党员开玩笑的。别人假如在公开场合说我是专栏作家，我就要以半开玩笑半怒斥的口吻说，你才是专栏作家！你们全家都是专栏作家！</p>
+<p>这本集子收入的文章截止到2012年的夏天。在与编辑不断沟通的过程中，我试图补充进一些新写的稿子，却发现香港、北京、台北又都有其新的变化。北京逐渐让我有种厌倦的情绪，在这样一个庞大无序的城市里，我开始有点不知所措。也许是长期对这个城市的抱怨形成了严重的心理暗示，我觉得过得并不舒服，但我又知道，我的青春和最值得浪费的时间，都在这个城市。</p>
+<p>香港和台北，也在2014年发生了许多与以往绝不雷同的故事，这些故事与崛起的中国相关。我眼睁睁看着，两岸三地一个新时代的到来。这个时代有一种新的叙事，由更年轻的人去主导，看着他们就觉得自己已经老了。我当中有段时间离开香港回到北京，等我再回来时，听着朋友们讨论发生过的事，觉得自己错过了很重要的时段，已经有点隔膜的感觉，甚至有些沮丧。</p>
+<p>不论如何，我还是努力试图记录这些，只是写下的文字与以往明显有了不同。这些稿子大部分发表在腾讯《大家》以及《号外》杂志、《明报》等媒体的专栏，少数发表在我自己的微信公众号“贾葭的双城记”里（该号已阵亡，新公众号为jajiapk）。</p>
+<p>编辑数次建议我把这些新稿放在这个集子里一并出版，但我认为，这样并不合适，于我而言，此前此后，不论是文字还是思考，都差异颇大。如果有机会，我未来或许会再整理一个新的集子，会集中于港台话题，因此这本小书里的贾葭，就止步于2012年的夏天了。我也并不觉得可惜，因为我知道我想写的事情还有很多。</p>
+<p>说到这里，我索性把序和跋一勺烩了——我要感谢编辑赵琼、李静韬两位女士，她们不厌其烦地催促我整理过去的文稿，也让我有机会重新审视过去十年的自己。作为我个人出版的第一本集子（此前有一部书稿还在漫长审稿中），我还要向沈亮表示由衷的谢意与敬意。她是一位元禀赋极好的时政记者，通常能见人所不能见者。在有的交稿日我抓狂挠墙之时，她总能给我的选题以非常靠谱的建议。有些稿子，不客气说，是全然接受她的观点才写出来的。</p>
+<p>此外，我非常感谢《南方都市报》的前评论编辑邓志新先生、《看天下》杂志的副主编彭远文先生、《新京报》的安峰先生，正是他们每周一次夺命般的催稿和不断鼓励，才让我有动力写下这些零零碎碎。我同时亦希望读者能够对这本小书提出最严苛的批评，让我未来会对笔下的文字更加敬畏。</p>
+<p>这篇序言，在长达三年的时间里断断续续写了四次。也许在我心里，这篇序言反而是最想让读者看到的东西。我想起汤玛斯·沃尔夫在谈及自己第一本书的出版，居然一口气写了七十五页的手稿来分析自己的心路历程，啰嗦得一塌糊涂，但一个作家愿意这样把自己剁开来分析，总是一件有勇气的事情。</p>
+<p>时光荏苒，世异时移，我没有不悔少作的勇气，要请读者诸君原谅。一个人的现在就是他的历史构成的，而现在又会转瞬即逝地成为历史，却又会不断地在未来出现。</p>
+<p>请你们等着我，我会回来。</p>
+<p> </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E6%96%B0%E4%B9%A6%E8%87%AA%E5%BA%8F%EF%BC%9A%E8%AF%B7%E4%BD%A0%E4%BB%AC%E7%AD%89%E7%9D%80%E6%88%91%E5%9B%9E%E6%9D%A5%EF%BC%8C%E6%88%91%E4%BC%9A%E5%9B%9E%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E8%AE%B0%E8%80%85/?category=18271" rel="tag">良心记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%AB%E5%AE%B3%E8%AE%B0%E8%80%85/?category=18271" rel="tag">迫害记者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E5%85%88%E8%BF%9B%E5%9F%8E%E4%B9%B0%E6%88%BF%E7%9A%84%E5%86%9C%E6%B0%91%EF%BC%8C%E5%B7%B2%E7%BB%8F%E9%9D%A2%E4%B8%B4%E8%BF%98%E4%B8%8D/" target="cdt-mirror">大家 | 温克坚：先进城买房的农民，已经面临还不了贷的危机</a>
+</h2>
+<p><p>作者：温克坚 ，腾讯·大家专栏作者，青年经济学者</p>
+<blockquote><p>摘要：很多村民认为房子最保值，房价肯定是上涨的。可几乎是一夜之间，经济环境的变化超出了他们的预判，房子已经不能像过往那样带来现金回报，但是他们背负的债务却必须要继续归还。</p></blockquote>
+<p>有关中国经济走势一直是个热门话题。总的来说，公众情绪比较悲观，经济现象纷繁复杂，这种理解门槛也增加了焦虑氛围。近期就发生了一些影响深远的但未必被充分理解的重要信号，这其中包括3月2日信用评级公司穆迪把中国政府信用由稳定降至负面。穆迪给出的理由是中国财政指标正在并将持续转弱，政府债务上升，同时资本外流导致外汇储备下降，凸显政策、外汇和增长方面的风险。穆迪同时指出，评级展望调整反映中国实施改革以及解决经济不平衡的能力存在不确定性。</p>
+<p>可以预见，根据相似的逻辑，包括像标普、惠誉等其他评级机构也会跟进降低中国政府的资信评级，随着后续经济形势的走衰，不排除进一步降低资信等级的可能。评级公司的这种<strong>降级行为最直接的后果是增加企业融资成本，加重债务压力，影响国际资本流向。</strong>并且这种后果会逐步叠加，直到有一天人们回溯历史的时候，才会重新发现这种资信评级下降带来的杀伤力。</p>
+<p>简单罗列一些宏观经济数据，就可以看到这种评级下降的肇因和可能带来的冲击波。社科院领衔编制的《中国国家资产负债表2015：杠杆调整与风险管理》的研究报告提供了一副更全面的图景，<strong>中国国家资产负债表其实已经承受巨额债务压力，</strong>中国主权债务风险或许并不遥远。该报告显示，2014年末，中国经济整体(含金融机构)的债务总额为150.03万亿元，债务占GDP的比重，从2008年的170%上升到235.7%，6年上升了65.7个百分点。摩根士丹利投资管理部对中国债务与GDP之比的预测也表明，到2018年，中国经济中的负债与GDP的比重会超过300%，而预计到2017年，中国政府债务占GDP比例将增加到43%。而巨额债务对应的是系统性的违约风险，根据野村证券研究机构的估计，中国超过50%的地方政府融资平台已经不足以偿还利息或本金，而官方宣布2016年地方政府债务置换额度将提升到5万亿的规模。根据彭博社的数据，去年中国经济用于支付利息的支出为7.6万亿元，而同期中国的社会融资规模为15.41万亿元。</p>
+<p>上述数据是触目惊心的，并且彼此高度关联，对稍微关注过中国宏观经济的人士而言，过去若干年，<strong>中国经济的主要动力就是债务扩张，</strong>并且信贷主要投向政府部门主导的大工程、基础设施，而这些投资，往往只能产生非常有限的现金回报，根本不足以覆盖本金和利息成本。综合上述信号和数据，我们认为中国经济的“<strong>明斯基时刻</strong>”正在到来。</p>
+<p>所谓“明斯基时刻”，需要回溯到经济学家明斯基（Hyman Minsky)提出的“金融不稳定假说”，该理论描述了信贷周期对经济的影响，该假说将信贷周期分为三个阶段：第一，避险信贷阶段，投资者们负担少量负债，偿还其资本与利息支出均无问题；第二，投机信贷阶段，投资者扩大融资规模，以致只能负担利息支出；第三阶段，即旁氏骗局阶段，投资者手头的现金已经不足以支付利息和本金，必须不断借新债或出售资产才能维系流动性。随着市场上投机性信贷和旁氏信贷的增加，信贷环境恶化，金融系统出于避险考虑收紧信贷，<strong>当经济体系提供的贷款已经不足以支撑流动性需求时，就会出现“明斯基时刻”。</strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8B%E5%8D%886.15.24.png?resize=561%2C348" alt="Screen Shot 2016-03-19 at 下午6.15.24" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午6.15.24.png?resize=300%2C186 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午6.15.24.png?w=561 561w" sizes="(max-width: 561px) 100vw, 561px" data-recalc-dims="1"></p>
+<p>美国次贷危机之后，明斯基的理论重新受到重视，而在中国面临巨大债务危机之际，明斯基理论所提供的知识洞见也日益受到关注，不过本文不准备从宏观数据和逻辑来推演和阐释，而是希望借助一个更加微观的样本，来刻画那些被人忽略的“明斯基时刻”的特定形成机制。</p>
+<p>X市是位于沿海某省的一个小城，依托于地理区位优势以及当地民众的企业家精神，经济发展水平一路领先，城镇居民收入已经可以媲美一线城市。而当地农村居民大多数是勤恳劳作的朴实村民，随着市场经济的扩张，他们也都被卷入到这个进程中，通过打工做小买卖挣钱，进入了所谓的小康生活，有几间住房，生活电器基本齐全。很多家庭购置了汽车，银行里有几万到几十万的存款，大部分也加入了农村医保和养老体系，对未来的生活有了一定的安全感。撇开公共服务、环境和文化等方面的贫瘠，仅就经济而言，X市的农村呈现出一幅殷实而自足的景象。</p>
+<p>但是，最近四五年以来，地方官员为了推动城镇化进程，推出了很多针对农村改造的政策，这其中之一就是<strong>农村集聚区的建设</strong>。推动集聚区建设有许多冠冕堂皇的理由，包括节约土地、提高公共服务、改善居住条件、加快城镇化进程等等，背后更深层的动力，当然是地方官员的政绩导向和与民争利的过程（主要是对土地溢价的争夺）。</p>
+<p>原来自然形成的村落，在道路交通、公共设施、卫生绿化等方面当然有其天然缺陷，面对地方政府集聚区改造计划，很多村民的确有所期盼，希望通过旧村改造，改善居住条件、增加住房面积，同时可以把多余房子出租给外来务工人员，获得一些所谓的财产性收入。这个过程中，也引发过部分村民的抵制，这些纠纷背后的社会苦难是另外一回事，但总的来说，农村居民并没有充分的谈判能力，胳膊拧不过大腿，客观上一片片集聚区开始形成，原来一片片的农村变成了一个个庞大的小区。<br>
+本来，村民收入参差不齐，相应的，他们拥有的房子也各式各样，好的看起来富丽堂皇，破败的则只是一两间瓦房。但这是一个由于各自努力、禀赋和机遇长期互动的结果，是一个可以为各方所接受的自然生态，而经过大一统的改造之后，房子变得整齐漂亮，农村风貌已经荡然无存，大部分村民也失去了土地，失去了原来的人际网络和文化环境，而被驱赶到钢筋水泥的丛林中。请不要误会，对传统乡村社会的人际网络和文化环境，我没有太多偏好，我认为演变和变化都是正常的，只是当这种变化背后有强大的国家意志在驱动的时候，总会带来某种不适的观感。</p>
+<p>更直接的，当然是集聚区形成的经济过程。集聚区并不是免费的午餐，也不是政府的恩赐，村民们必须为之埋单，但大部分村民并没有相应的资本积累，来负担数十万甚至上百万的建造成本。这个过程中，村民们往往需要从亲戚朋友处借贷，同时也可以从农村商业银行等金融机构进行部分贷款，这个过程，用经济学术语来说就是，村民通过杠杆进行信贷扩张，财富形态转换成了很多不动产，其代价是背负了巨额的债务。在政府意志的驱动下，很多原来并不具有相应资本积累的家庭都被迫进行了债务扩张。</p>
+<p>在这个过程中，大部分村民对未来的理解都是出于一些似是而非的信念，比如认为房子最保值，房价肯定是上涨的，同时既往的经验也表明，因为大量外来人口的存在，租房需求市场是旺盛的，通过把多余的房子出租，大量村民可以因此获得稳定收入。</p>
+<p>很少有人预见到市场的巨大变化，由于经济萧条，工厂倒闭，就业吸纳能力一落千丈，几乎是一夜之间，X市外来人口急剧缩减。可供佐证的是，街上交通状况忽然变好了，公交车变空了，房屋租赁市场缩水了，对那些失去了土地获得房子的村民来说，挣钱不那么容易了，而他们拥有的房子已经不能像过往那样带来现金回报，但是他们背负的债务却必须要继续归还。经济环境的变化超出了他们的预判，这些无望的村民却需要独守空房，承受着不断攀升的债务压力。</p>
+<p>如果说美国次贷危机的思想根源是福利主义，<strong>在实践上是金融机构把钱借给了那些本质上并不具有还款能力的人群，</strong>那么X市农民的加杠杆过程却是地方政府发展主义结下的后果。在这个版本中，<strong>地方官员们出于政绩需求，为了攫取利益，把一批批民众绑上经济发展的战车。</strong></p>
+<p>这里描述的X市是具体的，上述过程也是真实发生的，窥一斑而知全豹或许是一种文学化推理，但就中国经济而言，上述样本和过程在一定程度上是有代表性的。从2009年以来的经济加杠杆过程，本质上是一个简单的叙事。不同层级的经济主体，从普通村民的债务，到企业的债务，到地方政府的债务，再到国家主权层面的债务，这些债务或许有着不同的形成机制，也有规模上的差异，但<strong>都面临着资产贬值和债务偿还的问题。</strong></p>
+<p>从一个小型县城农民的债务负担和资产价值的贬值，到整个经济体存在的债务压力和资产泡沫，基本逻辑是一致的，人们迟早需要为违背经济合理性的债务埋单，这符合明斯基理论的描述。至于“明斯基时刻”何时真正到来，以什么样的形式爆发，那更多的是历史研究者的事后回溯，而不必是事先的预判。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E5%85%88%E8%BF%9B%E5%9F%8E%E4%B9%B0%E6%88%BF%E7%9A%84%E5%86%9C%E6%B0%91%EF%BC%8C%E5%B7%B2%E7%BB%8F%E9%9D%A2%E4%B8%B4%E8%BF%98%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C/?category=18271" rel="tag">三农</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">三农问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E/?category=18271" rel="tag">农民进城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E4%B9%B0%E6%88%BF/?category=18271" rel="tag">农民进城买房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="cdt-mirror">德国之声 | 长平：贾葭失踪，睁眼之罪</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8B%E5%8D%8812.08.15.png?resize=550%2C307" alt="Screen Shot 2016-03-19 at 下午12.08.15" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午12.08.15.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午12.08.15.png?w=703 703w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>贾葭在腾讯“大家”上的专栏页面</span></p>
@@ -114,7 +194,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">facebook回归中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-131/" target="cdt-mirror">【河蟹档案】你脚下踏过的路，曾被那些学生们的鲜血浸染过</a>
 </h2>
@@ -516,84 +596,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E4%B8%8E%E5%86%88%E6%AF%94%E4%BA%9A%E5%A4%8D%E4%BA%A4-%E4%B8%A4%E5%B2%B8%E7%BB%93%E6%9D%9F%E5%A4%96%E4%BA%A4%E4%BC%91%E5%85%B5/" target="cdt-mirror">德国之声｜中国与冈比亚复交 两岸结束外交休兵?</a>
-</h2>
-<p><p><strong>中国周四宣布与台湾前邦交国冈比亚复交，两岸近年来非正式的外交休兵似乎也由此告一段落。外界质疑，中国选择在此时与冈比亚复交，与民进党将再次执政不无关联。 </strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019125849_30300.jpg" rel="attachment wp-att-432085"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019125849_30300.jpg?resize=575%2C324" alt="0,,19125849_303,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019125849_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/019125849_30300.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>（德国之声中文网）西非小国冈比亚是少数曾承认台湾国际地位的非洲国家之一。中国和台湾多年来进行竞争式的”支票簿外交”，经常向发展中国家领导人提供慷慨援助项目以换取外交支持。</p>
-<p>但自台湾总统马英九执政并与大陆在2008年签署一系列经贸协议后，双方便实施非正式的”外交休兵”。在两岸经历数十年的猜忌与敌对后，北京试图借此向台湾释放善意。</p>
-<p>2013年11月，冈比亚宣布与台湾断交，惹怒台湾政府。中国当时并未立即与冈比亚复交，直至本周四才宣布恢复外交关系。</p>
-<p>中国外长王毅周四在声明中对冈比亚外长盖伊（Neneh Macdouall-Gaye）表示：”两国政府决定自今天起恢复大使级外交关系。中冈关系从此翻开了新的一页。”</p>
-<p>他还强调，早日恢复中冈外交关系符合两国和两国人民的根本利益，也顺应了时代潮流和中非友好合作的发展大势。王毅指出：”坚持一个中国原则，是中国同任何国家建立和发展外交关系的前提和政治基础。在双方共同努力下，中冈关系终于迎来这一重要时刻。”</p>
-<p>盖伊则表示，冈比亚支持中国和台湾”和平统一”。</p>
-<p>自民进党主席蔡英文赢得总统大选、民进党在国会中取得多数席位以来，北京不断警告蔡英文不可追求台湾独立。即将在5月上任的蔡英文则承诺将维系两岸和平。</p>
-<p><b>马英九表达强烈不满</b></p>
-<p>冈比亚与中国复交的消息宣布后，民进党发表声明表示，台湾未来对邦交国的维护应要更加用心，勿使冈比亚与台湾片面断交事件重演。声明还指出，希望两岸不要在国际间从事”针对性”的竞争。台湾外交部则对冈比亚的决定表示遗憾。</p>
-<p>台湾行政院大陆委员会则证实，中国国台办周四下午已告知将宣布与冈比亚复交。</p>
-<p>陆委会呼吁中国”应面对中华民国是主权国家的现实，勿片面采取负面作为，否则必须为可能的后果负起完全的责任”。</p>
-<p>陆委会还指出：”中国在此时机点与冈比亚复交，将引发国际社会对两岸关系走向的错误解读，中国方面未审慎思考此举对两岸关系造成的负面影响。”</p>
-<p>中国宣布与冈比亚复交的同时，台湾总统马英九正在瓜地马拉和贝里斯进行访问。马英九周四在贝里斯对记者表示，”此时此刻发生这样的事情，我们仍然认为极为不当，要表示强烈不满”。</p>
-<p>另一方面，媒体记者周四询问中国外交部发言人陆慷，此时与冈比亚复交是否是对台湾候任领导人的警告，抑或意味着两岸”外交休兵”的终结。陆慷并未直接给出答复，仅表示：”我们坚持一个中国原则，推动两岸关系和平发展的方针没有改变。”</p>
-<p>甘比亚曾两度与台湾断交。该国在1974年至1995年间承认中国地位，此后转而与台湾复交。</p>
-<p>其它与台湾建交的国家包括南太平洋岛国诺鲁和帕劳共和国，以及梵蒂冈城、巴拉圭、巴拿马、海地和尼加拉瓜。路透社指出，中国正悄悄与圣多美和普林西比共和 国建立关系，该国总统2014年曾低调访华。圣普曾于1975年同中国建交，1997年两国中止外交关系，圣普于同年宣布与台湾建交。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E4%B8%8E%E5%86%88%E6%AF%94%E4%BA%9A%E5%A4%8D%E4%BA%A4-%E4%B8%A4%E5%B2%B8%E7%BB%93%E6%9D%9F%E5%A4%96%E4%BA%A4%E4%BC%91%E5%85%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E9%92%B1%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">金钱外交</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B1%9F%E8%A5%BF%E8%A6%81%E6%B1%82%E5%AE%A3%E4%BC%A0%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E8%B4%AD%E6%88%BF%E6%98%AF%E5%8D%87%E5%80%BC-%E5%86%9C%E6%9D%91%E5%BB%BA%E6%88%BF%E6%98%AF%E8%B4%AC/" target="cdt-mirror">【网络民议】老乡别跑呀买套房——再跑我开枪了</a>
-</h2>
-<p><p>据财经网<a href="http://finance.sina.com.cn/china/gncj/2016-03-17/doc-ifxqnskh0921568.shtml" target="_blank">报道</a>，江西政府日前全面开展房地产去库存工作，相关方案中包括要求宣传“农民进城购房是升值 农村建房是贬值”的理念：</p>
-<blockquote><p>目前，江西面临着库存压力加大，风险逐步积累；市场分化明显，发展不平衡；市场需求增加，发展空间大等特点。我省鼓励农民工、农民进城购房，同时，加大棚改货币化安置，<strong>今后政府的项目建设不再建安置房，推进货币化安置，关键在让利于民</strong>。此外，要用足用好公积金，着力提高个贷率，发挥好住房公积金支持职工购买改善住房条件的作用，<strong>全力打好去库存的硬仗</strong>。</p>
-<p>我省要求，各地市要摸准库存情况，制定去库存方案，结合实际出实招，及时制订出台具体方案。<strong>同时，要广泛宣传去库存政策，形成共识，宣传“农民在城市购房是升值，在农村建房是贬值”的理念</strong>。</p></blockquote>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png" rel="attachment wp-att-432055"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png?resize=500%2C278" alt="2016年3月4日 《南昌日报》第7版" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/n4Q-fxqpchx6345812.png?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>2016年3月4日 《南昌日报》第7版</p></div>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E6%B2%88%E9%98%B3%E5%AE%98%E6%96%B9%E6%94%B9%E5%8F%A3%EF%BC%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%9B%B6%E9%A6%96%E4%BB%98%E8%B4%AD%E6%88%BF/" target="_blank">新京报 | 沈阳官方“改口”：“大学生零首付购房”尚在调研</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E6%9C%88%E4%B8%8B%E9%B9%B0%E7%BF%94%EF%BC%9A%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81-%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%B6%E5%BA%A6%E5%8F%B2/" target="_blank">月下鹰翔：空中楼阁——建国以来房地产制度史</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%93%AA%E6%98%AF%E6%95%91%E4%B8%96%EF%BC%8C%E8%BF%99%E5%88%86%E6%98%8E%E6%98%AF%E6%80%95%E6%88%91%E8%B7%91%E4%BA%86%E5%91%80/" target="_blank">【网络民议】这哪是救市，这分明是怕我跑了呀</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BA%86%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83/" target="_blank">【图说天朝】政府为了房地产操碎了心</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%AD%E5%9B%BD%E9%AC%BC%E5%9F%8E%E5%9C%B0%E5%9B%BE/" target="_blank">奇闻录 | 中国“鬼城”地图</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2014/08/%E5%85%9A%E6%8A%A5%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E9%A3%8E%E5%90%91%E6%A0%87-%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%B4%A9/" target="_blank">党报：李嘉诚不是中国楼市风向标 房地产不可能崩盘</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@草原的小风：哎，老乡，别走啊，再买套房</p>
-<p><a href="http://weibo.com/3462097154" target="_blank">@彼得潘的想象</a>：老乡，农村的房子会贬值，信不信？不信我开<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8493.png?resize=20%2C20" alt="" px data-recalc-dims="1">了。</p>
-<p>@段郎微议：老乡，城里购房升值哩。咦、别跑，再跑开枪了！</p>
-<p><a href="http://weibo.com/3967429908" target="_blank">@秦沐楚</a>：<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">果然把去库存的主意打到农民身上来了<img title="[白眼]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/landeln_org.gif" alt="[白眼]" data-recalc-dims="1"></p>
-<p><strong><a href="http://weibo.com/2974126254" target="_blank">@没文化起什么名字</a>：果然充分利用媒体姓党么<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></strong></p>
-<p><a href="http://weibo.com/zc060222" target="_blank">@广广陵陵Samuel</a>：多生娃，少种树！城市买房好致富！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@里予言周無月空：一人买房，全家光荣。</p>
-<p><strong>@月季花开的微博：买房兴邦</strong></p>
-<p><a href="http://weibo.com/5869955944" target="_blank">@拿手撕裂</a>：救钢铁，结果钢铁比白菜还便宜。救煤，煤企业“史诗级”亏损。后来救石化，石化“恐龙级”亏损。然后决定商业收储夺定价权，结果泛亚坑了几十万人。再后来救股市，股市从五千暴跌到两千五套了几亿人。现在，他们终于要救房地产了。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5650219200" target="_blank">@东经129的仰望</a>：政府努力宣传的千万不要信，政府努力不让你干的可以考虑，比如一线城市限购<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2697426320" target="_blank">@Hubble0410</a><i title="微博达人"></i>：这神逻辑~现在为了卖房~真是什么都不要了~<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">乡亲们快来买啊~为国接盘了~<img title="[熊猫]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/panda_org.gif" alt="[熊猫]" data-recalc-dims="1"><img title="[熊猫]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/panda_org.gif" alt="[熊猫]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1430928535" target="_blank">@谷公馆</a>：地产党<img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"><img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2214391422" target="_blank">@油粘米朱金华</a><i title="微博达人"></i>：已经图穷匕见了，我知道政府想快点清库存，但能否注意下吃相，农村的房子是宅基地，我党的法律规定是不能买卖，既然都不能买卖，何来贬值一说呀。<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">你把农民的血汗钱都去买房了，首付都可能负债，每个月怎么偿还银行贷款，他们连稳定工作都没有，更没有住房公积金，靠种地能供房吗？</p>
-<p>@溜溜蛋挞：忽悠！接着忽悠！知道了吧政府和开发商是一伙的。一丘之貉！</p>
-<p>@诱色可吃：要拿出宣传计划生育的力度来：农村房、贬值忙、有房没新娘；城里房、潜力强、到处当新郎。农村建房三年牢，城里买房赏，赏，赏！农村建房穷八代，城里买房富百年。 一家农村建房，全村十年饥荒…</p>
-<p>@和珅是个好同志：这样宣传太费劲了，其实只需出台一纸禁令：即日起，停止审批农村新建住房，违者一律强拆。农民自然进城买房了！</p>
-<p>@马克思酷佩恩：中央集权控制让中国人信奉“活下去就好”，这个政权体制和这种意识形态，这样一种后现代的控制方式，后极权的控制方式，它最后让你低到尘土里去，还不停地感谢他，就是能活着就好，然后不反抗，不怀疑，承重，然后忍着。土地财政逼着老百姓倾家荡产，老百姓还说感谢政府感恩“廉租房圆了我的住房梦”</p>
-<p>@稀里糊涂的豆丁要去旅行：房地产支撑经济？害苦一大波人啊</p>
-<p>@南蛮荒地：只生一个好，政府来养老，政府帮养老。。。。。全面二胎。。。延迟退休。。。</p>
-<p>@小强嘟嘟：”忽悠，接着忽悠……组团儿忽悠我来了。”</p>
-<p>@长安追梦者：这不是坑农民么！谁给解决就业，城市户口，上学，医疗等？</p>
-<p>@魔风起兮：再穷不能穷政府</p>
-<p>@简而有力：以后江西警方抓到诈骗犯都直接送到省委宣传部上班，卖1百套库存房子抵一年刑期</p>
-<p>@此生唯爱布莱恩特先生：哈哈哈哈 还光明正大的宣传起来了</p>
-<p>@美利坚合众国驻渝联络处：乡亲们，出来吧，皇军来看你们了，给你们孩子们带糖来了。。</p>
-<p>@Ann-Yea：圖片評論<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg" rel="attachment wp-att-432056"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg?resize=400%2C265" alt="5ec934fdgw1f207gjo9s5j20c107z3z0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/5ec934fdgw1f207gjo9s5j20c107z3z0.jpg?w=433 433w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p> </p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B1%9F%E8%A5%BF%E8%A6%81%E6%B1%82%E5%AE%A3%E4%BC%A0%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E8%B4%AD%E6%88%BF%E6%98%AF%E5%8D%87%E5%80%BC-%E5%86%9C%E6%9D%91%E5%BB%BA%E6%88%BF%E6%98%AF%E8%B4%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD%E6%8E%A5%E7%9B%98/?category=18271" rel="tag">为国接盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E/?category=18271" rel="tag">农民进城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房地产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%8E%A7/?category=18271" rel="tag">房地产调控</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -605,7 +607,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -615,5 +617,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9D%A5%E5%8D%8E/" target="cdt-mirror">【真理部】脸谱公司创始人扎克伯格来华</a>
+</h2>
+<p><p>关于脸谱公司创始人扎克伯格此次来华的信息要进一步控制恶意评论，不继续炒作。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9D%A5%E5%8D%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E6%99%A8%E8%B7%91/?category=18271" rel="tag">扎克伯格北京天安门晨跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA-%E6%B6%88%E6%81%AF%E7%A7%B0%E5%A4%AE%E8%A1%8C%E5%8E%BB%E5%B9%B4%E8%AF%A2%E9%97%AE%E7%BE%8E%E8%81%94%E5%82%A8%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%82%A1%E7%81%BE/" target="cdt-mirror">新浪 | 消息称央行去年询问美联储如何应对股灾</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?resize=550%2C344" alt="1fFj-fxqnski7790008" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -64,7 +77,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国人民银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%81%BE/?category=18271" rel="tag">中国股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A1%8C/?category=18271" rel="tag">央行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E8%81%94%E5%82%A8/?category=18271" rel="tag">美联储</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%AE%A1%E4%B8%8D%E4%BD%8F%E6%96%B0%E5%AA%92%E4%BD%93%E5%85%9A%E7%AE%A1%E5%AA%92%E4%BD%93%E5%8E%9F%E5%88%99%E4%BC%9A%E8%A2%AB%E6%9E%B6%E7%A9%BA/" target="cdt-mirror">人民日报 | 管不住新媒体党管媒体原则会被架空</a>
 </h2>
@@ -676,39 +689,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E5%96%8A%E5%87%BA%E7%8B%AC%E7%AB%8B%E5%8F%A3%E5%8F%B7/" target="cdt-mirror">纽约时报｜彻底决裂，香港学生喊出独立口号</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg" rel="attachment wp-att-432188"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?resize=575%2C383" alt="香港上个月发生的一次抗议活动，反对政府扫荡被认为代表本土文化的无照小吃摊。香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/18HONGKONG-articleLarge-v4.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>香港上个月发生的一次抗议活动，反对政府扫荡被认为代表本土文化的无照小吃摊。香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。</p></div>
-<p>香港——刘以正(Marcus Lau)出生于1996年，但他提出的让香港从中国独立的主张，却要追溯至1984年。当时，英国与中国达成将这块殖民地归还给中国的<a href="http://www.nytimes.com/1984/09/20/world/china-and-britain-jointly-announce-hong-kong-accord.html" target="_blank" rel="nofollow">协议</a>，而没有把香港列为谈判的第三方。</p>
-<p>香港主权于1997年进行了移交。将近20年后，刘以正表示，他和许多年轻人对中国的承诺失去了信心，即在“一国两制”的方针下维持香港的公民自由权和生活方式50年不变。他在周四接受采访时表示，中国反而开始“插手”港人的事务，拒绝让他们对选举自己的行政长官拥有更大的发言权。</p>
-<p>刘以正表示，他和香港其他年轻人已经开始不把自己看作中国人，而是拥有<a href="http://cn.nytimes.com/china/20141008/c08identity/" target="_blank" rel="nofollow">独特的香港身份</a>。他说，如果有人问他是否是中国人，他会说不是。</p>
-<p>正是出于这个原因，刘以正和另外12名香港大学的学生在最新一期<a href="http://www.undgrad.hkusu.hku.hk/" target="_blank" rel="nofollow">《学苑》</a>杂志上，呼吁香港在2047年宣布独立。在这份于周日发布于网上的<a href="https://drive.google.com/file/d/0BzUFu-ixw2knT0U5WjRXYm5OOWc/edit?pref=2&pli=1" target="_blank" rel="nofollow">宣言中</a>，他们援引的理由是，中国政府拒绝给予香港更大的民主权利。</p>
-<p>“<a href="http://cn.nytimes.com/china/20150929/c29sino-umbrella/" target="_blank" rel="nofollow">雨伞革命</a>是我们最力竭声嘶的呐喊，”宣言中写道。这里指的是2014年香港民众为争取更自由的选举而进行的为期79天的街头抗议活动。“我们天真地以为洒在金钟、旺角的汗水可以换来一点成果，事实却非如此。”</p>
-<p>“我们深知，民主运动的时代已然过去，迎来的是更难熬的反威权统治年代，”文中还称。“我们有以下诉求：一、香港成为受联合国认可的独立主权国家；二、建立民主政府；全民制订香港宪法。”</p>
-<p>对于学生的独立诉求，中央和香港官员表现得有些不屑。</p>
-<p>“怎么可以？”中国人民代表大会法律委员会主任乔晓阳周三表示。</p>
-<p>“亘古以来，香港是中国的一部分，”香港特首梁振英(Leung Chun-ying)周二称。“不存在一个在2047年之后会有所改变。”</p>
-<p>“我会建议，正如我刚才所说，不如再想想如何可以进一步完善我们现时的‘一国两制’，”香港律政司司长袁国强(Rimsky Yuen)说。</p>
-<p>刘以正似乎不为所动。</p>
-<p>“在这一刻，香港并无条件独立，”他在接受采访时说。“这正是我们要制造条件的原因。”</p>
-<p>相比《学苑》2015年1月讨论的香港自决，此次呼吁独立，明显是一种更高的诉求。去年初，行政长官梁振英在电视上做年度施政报告时，曾对他们当时的讨论发出<a href="http://cn.nytimes.com/china/20150115/c15hkpublisehr/" target="_blank" rel="nofollow">严厉警告</a>。自那之后，多个政治团体要求香港获得更大的自治权，尽管不一定要独立。他们正试图通过今年9月的选举，将自己的诉求带到香港立法会。</p>
-<p>在2014年的街头抗议活动中声名鹊起的学生领袖、19岁的黄之锋(Joshua Wong)，正在组建一个<a href="http://cn.nytimes.com/china/20160218/c18hongkong/" target="_blank" rel="nofollow">政党</a>，倡导在2047年之后进行全民公投，以决定香港的未来。</p>
-<p>上个月举行的地区立法会补选被普遍视作第一场测试，可以看 出为香港谋求更大自治权的新生运动有多高的人气。在这场补选中，以更大的自决权为竞选纲领的梁天琦（Edward Leung，与香港特首梁振英并无亲属关系）赢得了15%的选票，尽管他最终并没有当选，但这样的成绩足以让支持者倍受鼓舞。</p>
-<p>就在补选进行几天前，24岁的梁天琦领导了一场抗议活动，反对政府<a href="http://cn.nytimes.com/china/20160209/cc09hongkong/" target="_blank" rel="nofollow">扫荡无证经营</a>的春节小吃摊。这些小吃颇受欢迎，被很多人看作香港的一种传统。</p>
-<p>与警方的冲突升级成彻夜的争斗，<a href="http://cn.nytimes.com/china/20160222/c22hongkong/" target="_blank" rel="nofollow">中央政府因此指责</a>他们是“激进分离势力”，不过梁天琦并不否认这样的指控。</p>
-<p>香港官方后来表示，那些食品卫生人员只是在巡逻，并没有进行执法。</p>
-<p>刘以正觉得自己是分离主义者吗？</p>
-<p>“要是加泰罗尼亚脱离西班牙，苏格兰脱离英国，台湾脱离中国，实行自决，是分离主义的话，”他说，“那么我也是。”</p>
-<p>欢迎在Twitter上关注作者<a href="https://twitter.com/alanwongw" target="_blank" rel="nofollow">@alanwongw</a>。<br>
-翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/03/18/world/asia/hong-kong-independence-undergrad.html?_r=0" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%AD%A6%E7%94%9F%E5%96%8A%E5%87%BA%E7%8B%AC%E7%AB%8B%E5%8F%A3%E5%8F%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">抗议示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%BA%E8%A7%92%E9%AA%9A%E4%B9%B1/?category=18271" rel="tag">旺角骚乱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">香港独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%80%89%E4%B8%BE/?category=18271" rel="tag">香港选举</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -720,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -730,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

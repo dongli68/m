@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%AE%A1%E4%B8%8D%E4%BD%8F%E6%96%B0%E5%AA%92%E4%BD%93%E5%85%9A%E7%AE%A1%E5%AA%92%E4%BD%93%E5%8E%9F%E5%88%99%E4%BC%9A%E8%A2%AB%E6%9E%B6%E7%A9%BA/" target="cdt-mirror">人民日报 | 管不住新媒体党管媒体原则会被架空</a>
@@ -171,7 +171,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/r%E4%BA%BA%E6%80%A7/?category=18271" rel="tag">r人性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%8A%E5%AF%86/?category=18271" rel="tag">告密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%8A%E5%AF%86%E6%96%87%E5%8C%96/?category=18271" rel="tag">告密文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E5%8A%A1%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">特务统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">革命</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%A5%96%E5%9B%BD%E4%B8%8D%E5%8F%AA%E6%9C%89%E5%A4%B1%E8%B8%AA%E8%BF%98%E6%9C%89%E8%B7%91%E6%AD%A5/" target="cdt-mirror">【习总日记】 祖国不只有失踪还有跑步</a>
 </h2>
@@ -707,7 +707,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -717,5 +717,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

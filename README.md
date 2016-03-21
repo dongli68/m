@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA-%E6%B6%88%E6%81%AF%E7%A7%B0%E5%A4%AE%E8%A1%8C%E5%8E%BB%E5%B9%B4%E8%AF%A2%E9%97%AE%E7%BE%8E%E8%81%94%E5%82%A8%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%82%A1%E7%81%BE/" target="cdt-mirror">新浪 | 消息称央行去年询问美联储如何应对股灾</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?resize=550%2C344" alt="1fFj-fxqnski7790008" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>　　路透华盛顿3月21日 – 去年中国股市暴跌时，中国央行迅速向美国联邦储备委员会（美联储/FED）求助，让其分享当年应对1987年“黑色星期一”股灾时的策略。</p>
+<p>这次求助是由中国人民银行的一名官员在7月27日的邮件发出，主题栏写的是“如蒙紧急协助，将不胜感谢！”</p>
+<p>中国人民银行美洲代表处首席代表宋湘燕，在给美联储一名高级官员的讯息中提到中国股市一日暴跌8.5%，并称“我们行长希望借鉴你们的经验。”</p>
+<p>目前还不清楚中国央行处理此前的市场动荡时是否也联系了美联储。中国央行和美联储均拒绝对路透置评。</p>
+<p>在路透去年的一篇分析中，美联储内幕人士、前雇员以及分析师均表示，中国央行和美联储之间没有官方热线，而且中方在国际会议上往往也不愿接触。</p>
+<p>中国股市崩盘当时引发全球金融市场大跌，美联储在数小时之内向中国央行提供了大量文件，详述了该行应对1987年股灾时采取的行动，这些文件通过公开渠道可以获得。</p>
+<p>美联储决策者在第二天开始召开为期两天的政策会议，据此次会议的记录显示，决策者注意到了中国股市大跌。几名决策者表示，中国经济放缓可能拖累美国经济。</p>
+<p>美联储在9月推迟了很多分析师期待中的升息，称中国给金融市场带来的影响是促使其决定推迟升息的原因之一，这表明中国不仅是制造业大国，在金融市场也有举足轻重的影响。</p>
+<p>没有秘密</p>
+<p>路透获得的这封邮件显示出，中国政府对于金融动荡加剧变得非常警觉，也让我们罕见地一窥这家最不被外人知晓的全球主要央行。</p>
+<p>两家央行的交流也显示，虽然二者有合作关系，但他们即便是在危机时期可能也不会分享秘密。</p>
+<p>“可否请你尽快告诉我们你们当时采取的主要举措？”宋湘燕7月27日在电邮中询问美联储国际金融部主管卡明（Steven Kamin）。</p>
+<p>这份邮件是在华盛顿上午11点后不久发送到卡明的邮箱。卡明很快通过他的黑莓手机回复道：“我们将很快给你回复。”</p>
+<p>五个小时后收到的是一份259个单词的概要，概述了在1987年10月19日标准普尔500指数．SPX暴跌20%后，美联储如何安抚市场，以及如何防止经济陷入衰退。</p>
+<p>卡明还在邮件中附上长达几十页的美联储文字记录、声明和报告作为注解来指导中国央行官员。</p>
+<p>这些附属档案全都早就公布在美联储网站上，目前尚不清楚这些文件是否在北京采取的各项行动中扮演一定角色。</p>
+<p>卡明的文件详细列出在黑色星期一市场崩盘后，美联储如何开始发送各项声明，宣示将供应充裕资金好让市场能够运作。</p>
+<p>当宋湘燕写电子邮件给卡明的时候，中国当局与股市崩跌搏斗已有一个月的时间，且中国央行及其他主管机关所采取的许多行动与美联储1987年的种种措施有相似之处。</p>
+<p>奋力救市</p>
+<p>沪综指．SSEC7月27日创下2007年以来单日最大跌幅，而在那之前该指数已经在逾六周时间内跌掉近三分之一。</p>
+<p>中国央行在那之前已在6月27日降息，与1987年时美联储迅速下调短期利率相似。</p>
+<p>宋湘燕向卡明指出，中国央行对于美联储在1987年通过附买回协议暂时向银行体系注资的作法特别感兴趣。</p>
+<p>中国央行在6月就扩大注资，然而随着股市继续下跌，该行在8月加强附买回操作。中国央行同时藉由人民币汇率贬值2%来放宽政策。</p>
+<p>宋湘燕与卡明在7月27日及28日交换讯息之际，其他中国主管机关也忙着试图阻止股市崩跌。</p>
+<p>中国股市主管机关于7月27日表示，准备买进股票以稳定股市，同时主管机关将会严厉对付那些“恶意”押注股市下跌者。</p>
+<p>根据卡明发给宋湘燕的电子邮件所述，美联储在1987年直接联络了银行，鼓励银行业者满足他们客户的“合理融资需求”。</p>
+<p>除了信誓旦旦的承诺以及好言好语的拉拢，美联储在1987年还放宽了对华尔街金融机构的抵押品限制，并试图通过比以往更早的干预交易来平稳市场。美国经济之后继续增长，最终在1990年陷入衰退。</p>
+<p>中国央行在实施政策方面不像美联储那样自由。中国央行的政策最终要靠政治高层拍板决定，决策过程缺乏透明度。</p>
+<p>中国总理李克强上个月表示，中国监管机构的应对不够充分，但中国已经防范了系统性风险。</p>
+<p>美联储官员称，美联储运作的相对透明帮助他们有效合理的实施政策，但事情都有两面性，公开记录的法规也让美联储官员在交流看法时谨言慎口，因为一旦有公开请求被提出，他们讨论的大部分内容就必须得公开。美联储副主席费舍尔（Stanley Fischer）就曾经说过，透明度要求使得决策者更加难以进行非正式讨论。</p>
+<p>卡明在电邮中指出，他所发送的每一份文件都是可以通过公开渠道获得的。“我希望这会有所帮助。”（完）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA-%E6%B6%88%E6%81%AF%E7%A7%B0%E5%A4%AE%E8%A1%8C%E5%8E%BB%E5%B9%B4%E8%AF%A2%E9%97%AE%E7%BE%8E%E8%81%94%E5%82%A8%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%82%A1%E7%81%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国人民银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%81%BE/?category=18271" rel="tag">中国股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A1%8C/?category=18271" rel="tag">央行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E8%81%94%E5%82%A8/?category=18271" rel="tag">美联储</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%AE%A1%E4%B8%8D%E4%BD%8F%E6%96%B0%E5%AA%92%E4%BD%93%E5%85%9A%E7%AE%A1%E5%AA%92%E4%BD%93%E5%8E%9F%E5%88%99%E4%BC%9A%E8%A2%AB%E6%9E%B6%E7%A9%BA/" target="cdt-mirror">人民日报 | 管不住新媒体党管媒体原则会被架空</a>
 </h2>
 <p><p>人民日报3月21日在理论版刊发人民日报社长杨振武的署名文章——《把握好政治家办报的时代要求——深入学习贯彻习近平同志在党的新闻舆论工作座谈会上的重要讲话精神》。</p>
@@ -667,35 +709,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%98%8E%E9%8F%A1%E9%83%B5%E5%A0%B1%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A2%AB%E5%8B%95%EF%BC%8C%E6%B7%B1%E8%AC%80%E5%8F%8D%E6%93%8A%EF%BC%9B%E6%9D%8E%E5%85%8B%E5%BC%BA%E8%AE%8A%E8%87%89%EF%BC%8C/" target="cdt-mirror">明鏡郵報｜習近平被動，深謀反擊；李克强變臉，享受眾推</a>
-</h2>
-<p><p><em>作者：郭武源 (《明鏡郵報》特約記者)</em></p>
-<p>今年的“兩會”，被有些人稱作最死氣沈沈的一次“兩會”，但也是最詭異森森的一次“兩會”。人們從電視上看到一個奇特現象：李克強總理在“兩會”的開頭和末尾，判若兩人。做《政府工作報告》時的李克強，神情嚴肅，虛汗浹背，還念錯講稿；“兩會”結束在記者會上的李克強，神態輕鬆，談笑風生。北京政界人士告訴《明鏡郵報》，李克強之所以有這樣的變化，是因為他在會議之初和會議結束，處境確實有了極大的變化。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg" rel="attachment wp-att-432194"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg?resize=400%2C509" alt="3172016lkq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg?resize=236%2C300 236w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3172016lkq.jpg?w=500 500w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>李克強在記者會上談笑風生。</em></p>
-<p>變化何來？《明鏡郵報》3月7日就曾經披露，習近平的強勢作風引起黨內高層的反彈，政壇異象紛呈，令人眼花繚亂，但紛亂之中，又有主線，這就是各派政治勢力要遏制習近平集權趨勢，可能共推弱主——弱主是誰？就是李克強。</p>
-<p>中國政治觀察家對《明鏡郵報》說，李克強原本是作為總書記來培養的，但是中共十七大上，經當時的政治局常委和元老們集體正式通過、卻隔代指定他為第二號接班人。雖然在中共十八大上正式上任之後，由於習近平的超強權力欲和李克強確實能力較弱，以致只有招架之功、沒有還手之力，許多本來屬於國務院總理的權限被習近平不由分說拿走。如果單就個人和自己派別的力量，李克強無疑不是習近平的對手，加之身體、性格等多方面原因，李克強甚至讓人有逆來順受、等待十九大下課的姿態。</p>
-<p>但是習近平不但動了李克強的“奶酪”，而且一口氣動了高層這麼多人的“奶酪”，各派力量“不謀而盟”聯手限制習近平，就在“兩會”舉行的這十來天，由於任志強事件和忠誠共產黨員公開信事件作為撬動的支點，局勢發生了神奇的變化。有分析人士對明鏡形容，好比習三年來那種無往不勝的金剛罩被破功了，甚至有可能一舉而使中共高層再次回到集體領導體制。在這種局面下，李克強這個合法的“第二號接班人”“第一副帥”的身分，就有很大的作用了。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064918_0248.jpg?resize=400%2C527" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064918_0248.jpg?resize=228%2C300 228w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064918_0248.jpg?w=500 500w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"><br><em>李克強在做政府工作報告時緊張拘謹。</em></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg" rel="attachment wp-att-432192"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg?resize=525%2C350" alt="20160317064935_4045" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317064935_4045.jpg?w=600 600w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><em>習李在“兩會”上。</em></p>
-<p>另有分析人士對明鏡指出，雖然“李退相位”是習近平原來的第一目標，但這只是因為李擋了道，並不意味著習近平視李為最大威脅。李克強之“弱”，在這裏顯出又一好處：讓習近平“兩害取其輕”，寧願留著比較弱的李克強當二把手，擋住其他虎視眈眈的強中手。</p>
-<p>李克強的處境就在一夜之間得到了極大的加強，他怎麼能不感到身心舒暢、有調侃打趣的心情了呢。他自信到這種程度，居然前去參加眼下成爲衆所矚目的矛盾焦點的新疆代表團的討論。</p>
-<p>支持李克強的人士告訴《明鏡郵報》，李克強現在面前有三種可能的前途，不管最後實現哪一種，他都有足够高興的理由：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg" rel="attachment wp-att-432191"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg?resize=525%2C336" alt="20160317065013_2215" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg?resize=300%2C192 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/20160317065013_2215.jpg?w=563 563w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><em>李克強在兩會結束後的記者會上顯然心情大好。</em></p>
-<p>第一種可能性是，李克強繼續擔任國務院總理，不僅幹完這一屆，而且在十九大之後，繼續擔任國務院總理。</p>
-<p>此前習近平佈局的重心，一直是怎麼讓李克強“退居二線”，自己來挑選新總理的人選，上海的韓正入選的可能性最大。但是在風雲突變之後，如果雙方戰成平局，李克強得到眾多派系的支持，不但不會“退居二線”，在習近平沒有力量指定自己中意、又得到各派認可的接班人的情況下，到中共二十大，67歲的李克強非常有可能順理成章地接任總書記。</p>
-<p>第二種可能性是，習近平挺過了這一關，挫敗了各派“聯軍”，重新掌穩了權力，主導人事佈局，李克強也就可能在中共十九大上轉任全國人大常委會委員長，同時繼續享有“黨內第二把手”的地位。這早在李克強意料之中，他在這個職位上可以休養生息，調理身體，同時繼續集結政治實力，對整個大局有力地起到制衡作用，等待時機，隨時可以再次出山。也可能二十大時接掌總書記。</p>
-<p>第三種可能性是，習近平的棋局被他自己搞砸了，矛盾進一步激化，黨內各種勢力聯手倒習成功，那麼各方共推的“弱主”李克強，就會在2017年的中共十九大上接任總書記。對他來說，這當然更是“春風得意馬蹄疾”了！</p>
-<p>了解李克強的人告訴《明鏡郵報》，雖然李克強聲勢看漲，但是他也有自己的短板。就在昨天，李克強記者會結束兩小時後，中紀委就宣佈，遼寧省人大副主任王陽涉嫌嚴重違紀，正接受組織調查。而王陽正是李克強在遼寧的心腹之一。</p>
-<p>59歲的王陽出身知青，從鞍山玻璃廠工人做到市委副書記，2004年8月被提拔為正廳級的遼寧省委副秘書長，而李克強則在當年12月接替聞世震任遼寧省委書記，李2007年11月離開遼寧前，王陽再被任命為省委書記的頭號智囊政策研究室主任。</p>
-<p>政治觀察家對明鏡說，這次“兩會”本身雖然開得平淡無奇，但是高層廝殺卻是風急雲詭，這就是中共十九大的前哨戰，接下來中共政壇上將是好戲連台。李克強令人出乎意外地有了唱主角的機會，他是否能把握住這樣的機會？北京政局隨時突變！請看《大事件》雜誌更詳盡的內幕與分析，《明鏡郵報》亦會追蹤。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%98%8E%E9%8F%A1%E9%83%B5%E5%A0%B1%EF%BD%9C%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A2%AB%E5%8B%95%EF%BC%8C%E6%B7%B1%E8%AC%80%E5%8F%8D%E6%93%8A%EF%BC%9B%E6%9D%8E%E5%85%8B%E5%BC%BA%E8%AE%8A%E8%87%89%EF%BC%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%BC%9A/?category=18271" rel="tag">2016两会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">接班人制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -717,5 +730,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

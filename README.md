@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%9B%9D%E7%96%AB%E8%8B%97%E4%B8%91%E9%97%BB-%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%B5%81%E5%85%A524%E7%9C%81%E5%B8%82/" target="cdt-mirror">纽约时报 | 中国再曝疫苗丑闻 非法疫苗流入24省市</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/22chinavaccine-web1-articleLarge.jpg?resize=600%2C405" alt="去年，中国昆明一座政府实验室正在测试一种脊髓灰质炎疫苗。山东省官方称，已确认涉案的产品有十多种，包括狂犬病、脊髓灰质炎、脑膜炎、乙型肝炎和流行性腮腺炎的疫苗。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/22chinavaccine-web1-articleLarge.jpg?resize=300%2C203 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/22chinavaccine-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>去年，中国昆明一座政府实验室正在测试一种脊髓灰质炎疫苗。山东省官方称，已确认涉案的产品有十多种，包括狂犬病、脊髓灰质炎、脑膜炎、乙型肝炎和流行性腮腺炎的疫苗。</p></div>
+<p>中国警方称其破获了一起销售未经妥善储藏的疫苗的案件，涉案犯罪团伙从2010年开始将这种疫苗销往数十个省。</p>
+<p>在中国东部的山东省逮捕了一名前医生和她的女儿后，警方称他们已经对全国各地<a title="Link: http://www.sdfda.gov.cn/art/2016/3/19/art_3543_133258.html" href="http://www.sdfda.gov.cn/art/2016/3/19/art_3543_133258.html" target="_blank" rel="nofollow">300名涉案人员展开搜寻</a>。</p>
+<p>官方通讯社<a title="Link: http://news.xinhuanet.com/2016-03/19/c_1118382263.htm" href="http://news.xinhuanet.com/2016-03/19/c_1118382263.htm" target="_blank" rel="nofollow">新华社周六报道</a>，自去年至今已有逾20名涉案人被拘捕或取保。</p>
+<p>据率先报道此案的在线新闻机构<a href="http://www.thepaper.cn/newsDetail_forward_1446135" target="_blank" rel="nofollow">“澎湃”</a>称，那名山东前医生在2009年曾因非法销售疫苗被定罪，被判有期徒刑三年缓刑五年。但官方称，这名只公布了姓“庞”的嫌疑人在获罪后非但没有停手，还将女儿拉入伙，拓展其疫苗销售。</p>
+<p>据澎湃报道，山东当局在2014年发现庞在继续非法销售疫苗，并于去年突击搜查了一处仓库。目前尚不清楚为什么案件至今才得到公布。</p>
+<p>据山东省食品药品监督管理局透露，该疫苗销售网络遍布全国24省市，包括北京、重庆、广东、河北、内蒙古、四川和新疆。</p>
+<p><a title="Link: http://www.sdfda.gov.cn/art/2016/3/21/art_3543_133297.html" href="http://www.sdfda.gov.cn/art/2016/3/21/art_3543_133297.html" target="_blank" rel="nofollow">山东当局称</a>，涉案疫苗在储存时没有进行妥善的温度控制，以避免变质。已经确认了十多种涉案产品，包括狂犬病、脊髓灰质炎、脑膜炎、乙型肝炎和流行性腮腺炎的疫苗。一些中国新闻媒体报道称有25种涉案产品，已售出多达200万剂。据新华社报道，涉案疫苗价值估计在5.7亿元人民币。</p>
+<p>在此次疫苗丑闻披露之前，已经有过数起涉及危险食品和药品的案件，令中国公众对当局保护公共健康的能力产生质疑。2007年，因在药物审批中收取医药公司贿赂，一名原国家食品药品监督管理局局长被处决。一年后，调查发现婴儿配方奶中广泛使用了化学品三聚氰胺。约30万名儿童患病，至少六名死亡。尽管政府承诺对中国牛奶行业进行治理，父母仍然倾向于购买国外生产的奶粉。</p>
+<p>在周六的一篇评论<a href="http://news.xinhuanet.com/2016-03/19/c_1118382263.htm" target="_blank" rel="nofollow">文章</a>中，新华社称非法疫苗案已经激起民愤，并对政府部门的效能提出质疑。“法规条文白纸黑字摆在那里，”文章写道，“但‘问题疫苗’非法交易依然屡禁不绝。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%9B%9D%E7%96%AB%E8%8B%97%E4%B8%91%E9%97%BB-%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%B5%81%E5%85%A524%E7%9C%81%E5%B8%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%89%AF%E5%8F%8D%E5%BA%94/?category=18271" rel="tag">不良反应</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97/?category=18271" rel="tag">疫苗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/?category=18271" rel="tag">疫苗之殇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">疫苗贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88/?category=18271" rel="tag">非法疫苗案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-a4%E8%85%B0%E7%88%86%E7%BA%A2%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E7%82%AB%E7%98%A6%E7%8B%82%E6%BD%AE%E6%83%B9%E4%BA%89%E8%AE%AE/" target="cdt-mirror">纽约时报 | “A4腰”爆红中国网络 炫瘦狂潮惹争议</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19chinawaist-web1-articleLarge.jpg?resize=600%2C400" alt="一位不愿具名的24岁中国学生举着一张纸，以显示自己的纤腰。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19chinawaist-web1-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19chinawaist-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一位不愿具名的24岁中国学生举着一张纸，以显示自己的纤腰。</p></div>
@@ -50,7 +70,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a4%E8%85%B0/?category=18271" rel="tag">A4腰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E9%AD%85%E5%8A%9B%E8%A7%82/?category=18271" rel="tag">女性魅力观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%87%E8%85%B0%E5%9B%B4/?category=18271" rel="tag">平均腰围</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A5%E8%83%96/?category=18271" rel="tag">肥胖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/432511/" target="cdt-mirror">【图说天朝】巨型龙袍 人造祥瑞 请您检阅</a>
 </h2>
@@ -712,35 +732,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E5%85%88%E8%BF%9B%E5%9F%8E%E4%B9%B0%E6%88%BF%E7%9A%84%E5%86%9C%E6%B0%91%EF%BC%8C%E5%B7%B2%E7%BB%8F%E9%9D%A2%E4%B8%B4%E8%BF%98%E4%B8%8D/" target="cdt-mirror">大家 | 温克坚：先进城买房的农民，已经面临还不了贷的危机</a>
-</h2>
-<p><p>作者：温克坚 ，腾讯·大家专栏作者，青年经济学者</p>
-<blockquote><p>摘要：很多村民认为房子最保值，房价肯定是上涨的。可几乎是一夜之间，经济环境的变化超出了他们的预判，房子已经不能像过往那样带来现金回报，但是他们背负的债务却必须要继续归还。</p></blockquote>
-<p>有关中国经济走势一直是个热门话题。总的来说，公众情绪比较悲观，经济现象纷繁复杂，这种理解门槛也增加了焦虑氛围。近期就发生了一些影响深远的但未必被充分理解的重要信号，这其中包括3月2日信用评级公司穆迪把中国政府信用由稳定降至负面。穆迪给出的理由是中国财政指标正在并将持续转弱，政府债务上升，同时资本外流导致外汇储备下降，凸显政策、外汇和增长方面的风险。穆迪同时指出，评级展望调整反映中国实施改革以及解决经济不平衡的能力存在不确定性。</p>
-<p>可以预见，根据相似的逻辑，包括像标普、惠誉等其他评级机构也会跟进降低中国政府的资信评级，随着后续经济形势的走衰，不排除进一步降低资信等级的可能。评级公司的这种<strong>降级行为最直接的后果是增加企业融资成本，加重债务压力，影响国际资本流向。</strong>并且这种后果会逐步叠加，直到有一天人们回溯历史的时候，才会重新发现这种资信评级下降带来的杀伤力。</p>
-<p>简单罗列一些宏观经济数据，就可以看到这种评级下降的肇因和可能带来的冲击波。社科院领衔编制的《中国国家资产负债表2015：杠杆调整与风险管理》的研究报告提供了一副更全面的图景，<strong>中国国家资产负债表其实已经承受巨额债务压力，</strong>中国主权债务风险或许并不遥远。该报告显示，2014年末，中国经济整体(含金融机构)的债务总额为150.03万亿元，债务占GDP的比重，从2008年的170%上升到235.7%，6年上升了65.7个百分点。摩根士丹利投资管理部对中国债务与GDP之比的预测也表明，到2018年，中国经济中的负债与GDP的比重会超过300%，而预计到2017年，中国政府债务占GDP比例将增加到43%。而巨额债务对应的是系统性的违约风险，根据野村证券研究机构的估计，中国超过50%的地方政府融资平台已经不足以偿还利息或本金，而官方宣布2016年地方政府债务置换额度将提升到5万亿的规模。根据彭博社的数据，去年中国经济用于支付利息的支出为7.6万亿元，而同期中国的社会融资规模为15.41万亿元。</p>
-<p>上述数据是触目惊心的，并且彼此高度关联，对稍微关注过中国宏观经济的人士而言，过去若干年，<strong>中国经济的主要动力就是债务扩张，</strong>并且信贷主要投向政府部门主导的大工程、基础设施，而这些投资，往往只能产生非常有限的现金回报，根本不足以覆盖本金和利息成本。综合上述信号和数据，我们认为中国经济的“<strong>明斯基时刻</strong>”正在到来。</p>
-<p>所谓“明斯基时刻”，需要回溯到经济学家明斯基（Hyman Minsky)提出的“金融不稳定假说”，该理论描述了信贷周期对经济的影响，该假说将信贷周期分为三个阶段：第一，避险信贷阶段，投资者们负担少量负债，偿还其资本与利息支出均无问题；第二，投机信贷阶段，投资者扩大融资规模，以致只能负担利息支出；第三阶段，即旁氏骗局阶段，投资者手头的现金已经不足以支付利息和本金，必须不断借新债或出售资产才能维系流动性。随着市场上投机性信贷和旁氏信贷的增加，信贷环境恶化，金融系统出于避险考虑收紧信贷，<strong>当经济体系提供的贷款已经不足以支撑流动性需求时，就会出现“明斯基时刻”。</strong></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8B%E5%8D%886.15.24.png?resize=561%2C348" alt="Screen Shot 2016-03-19 at 下午6.15.24" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午6.15.24.png?resize=300%2C186 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午6.15.24.png?w=561 561w" sizes="(max-width: 561px) 100vw, 561px" data-recalc-dims="1"></p>
-<p>美国次贷危机之后，明斯基的理论重新受到重视，而在中国面临巨大债务危机之际，明斯基理论所提供的知识洞见也日益受到关注，不过本文不准备从宏观数据和逻辑来推演和阐释，而是希望借助一个更加微观的样本，来刻画那些被人忽略的“明斯基时刻”的特定形成机制。</p>
-<p>X市是位于沿海某省的一个小城，依托于地理区位优势以及当地民众的企业家精神，经济发展水平一路领先，城镇居民收入已经可以媲美一线城市。而当地农村居民大多数是勤恳劳作的朴实村民，随着市场经济的扩张，他们也都被卷入到这个进程中，通过打工做小买卖挣钱，进入了所谓的小康生活，有几间住房，生活电器基本齐全。很多家庭购置了汽车，银行里有几万到几十万的存款，大部分也加入了农村医保和养老体系，对未来的生活有了一定的安全感。撇开公共服务、环境和文化等方面的贫瘠，仅就经济而言，X市的农村呈现出一幅殷实而自足的景象。</p>
-<p>但是，最近四五年以来，地方官员为了推动城镇化进程，推出了很多针对农村改造的政策，这其中之一就是<strong>农村集聚区的建设</strong>。推动集聚区建设有许多冠冕堂皇的理由，包括节约土地、提高公共服务、改善居住条件、加快城镇化进程等等，背后更深层的动力，当然是地方官员的政绩导向和与民争利的过程（主要是对土地溢价的争夺）。</p>
-<p>原来自然形成的村落，在道路交通、公共设施、卫生绿化等方面当然有其天然缺陷，面对地方政府集聚区改造计划，很多村民的确有所期盼，希望通过旧村改造，改善居住条件、增加住房面积，同时可以把多余房子出租给外来务工人员，获得一些所谓的财产性收入。这个过程中，也引发过部分村民的抵制，这些纠纷背后的社会苦难是另外一回事，但总的来说，农村居民并没有充分的谈判能力，胳膊拧不过大腿，客观上一片片集聚区开始形成，原来一片片的农村变成了一个个庞大的小区。<br>
-本来，村民收入参差不齐，相应的，他们拥有的房子也各式各样，好的看起来富丽堂皇，破败的则只是一两间瓦房。但这是一个由于各自努力、禀赋和机遇长期互动的结果，是一个可以为各方所接受的自然生态，而经过大一统的改造之后，房子变得整齐漂亮，农村风貌已经荡然无存，大部分村民也失去了土地，失去了原来的人际网络和文化环境，而被驱赶到钢筋水泥的丛林中。请不要误会，对传统乡村社会的人际网络和文化环境，我没有太多偏好，我认为演变和变化都是正常的，只是当这种变化背后有强大的国家意志在驱动的时候，总会带来某种不适的观感。</p>
-<p>更直接的，当然是集聚区形成的经济过程。集聚区并不是免费的午餐，也不是政府的恩赐，村民们必须为之埋单，但大部分村民并没有相应的资本积累，来负担数十万甚至上百万的建造成本。这个过程中，村民们往往需要从亲戚朋友处借贷，同时也可以从农村商业银行等金融机构进行部分贷款，这个过程，用经济学术语来说就是，村民通过杠杆进行信贷扩张，财富形态转换成了很多不动产，其代价是背负了巨额的债务。在政府意志的驱动下，很多原来并不具有相应资本积累的家庭都被迫进行了债务扩张。</p>
-<p>在这个过程中，大部分村民对未来的理解都是出于一些似是而非的信念，比如认为房子最保值，房价肯定是上涨的，同时既往的经验也表明，因为大量外来人口的存在，租房需求市场是旺盛的，通过把多余的房子出租，大量村民可以因此获得稳定收入。</p>
-<p>很少有人预见到市场的巨大变化，由于经济萧条，工厂倒闭，就业吸纳能力一落千丈，几乎是一夜之间，X市外来人口急剧缩减。可供佐证的是，街上交通状况忽然变好了，公交车变空了，房屋租赁市场缩水了，对那些失去了土地获得房子的村民来说，挣钱不那么容易了，而他们拥有的房子已经不能像过往那样带来现金回报，但是他们背负的债务却必须要继续归还。经济环境的变化超出了他们的预判，这些无望的村民却需要独守空房，承受着不断攀升的债务压力。</p>
-<p>如果说美国次贷危机的思想根源是福利主义，<strong>在实践上是金融机构把钱借给了那些本质上并不具有还款能力的人群，</strong>那么X市农民的加杠杆过程却是地方政府发展主义结下的后果。在这个版本中，<strong>地方官员们出于政绩需求，为了攫取利益，把一批批民众绑上经济发展的战车。</strong></p>
-<p>这里描述的X市是具体的，上述过程也是真实发生的，窥一斑而知全豹或许是一种文学化推理，但就中国经济而言，上述样本和过程在一定程度上是有代表性的。从2009年以来的经济加杠杆过程，本质上是一个简单的叙事。不同层级的经济主体，从普通村民的债务，到企业的债务，到地方政府的债务，再到国家主权层面的债务，这些债务或许有着不同的形成机制，也有规模上的差异，但<strong>都面临着资产贬值和债务偿还的问题。</strong></p>
-<p>从一个小型县城农民的债务负担和资产价值的贬值，到整个经济体存在的债务压力和资产泡沫，基本逻辑是一致的，人们迟早需要为违背经济合理性的债务埋单，这符合明斯基理论的描述。至于“明斯基时刻”何时真正到来，以什么样的形式爆发，那更多的是历史研究者的事后回溯，而不必是事先的预判。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A4%A7%E5%AE%B6-%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E5%85%88%E8%BF%9B%E5%9F%8E%E4%B9%B0%E6%88%BF%E7%9A%84%E5%86%9C%E6%B0%91%EF%BC%8C%E5%B7%B2%E7%BB%8F%E9%9D%A2%E4%B8%B4%E8%BF%98%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C/?category=18271" rel="tag">三农</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C%E9%97%AE%E9%A2%98/?category=18271" rel="tag">三农问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E/?category=18271" rel="tag">农民进城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%B0%91%E8%BF%9B%E5%9F%8E%E4%B9%B0%E6%88%BF/?category=18271" rel="tag">农民进城买房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -752,7 +743,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +753,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

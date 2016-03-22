@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A6%E7%9F%B3%E8%B0%88%E6%B6%89%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E4%BC%9A%E6%9F%A5%E5%88%B0%E5%93%AA%E9%87%8C/" target="cdt-mirror">美国之音｜韦石谈涉习公开信事件会查到哪里</a>
+</h2>
+<p><p>因为涉及习近平下台公开信失踪的中国媒体人贾葭，确定遭北京市公安扣押。与此同时，刊登公开信的无界新闻也传出有4人下落不明。公开信事件如滚雪球般越滚越大，是否成为习近平上台以来的最大一场政治危机？北京会查到哪里？下面我们通过电话连线，请同样在追踪事态发展的博讯网创办人韦石先生来谈谈他的看法。</p>
+<p>公开信出现至今已经快三个星期了，它的来源仍然是个谜，你觉得北京能够查出源头吗？会查到哪里？</p>
+<p>韦石：现在主要不知道源头到底是内部还是外面。如果要是内部人做的话，我相信北京还是有可能查出源头的。因为他们现在投入这么大的人力物力，动作很大去查这个事情。</p>
+<p>主持人：新疆党委书记张春贤的名字被媒体提及，为什么？他与公开信的可能关联是什么？</p>
+<p>韦石：现在从种种迹象看，公开信和目前的形式，可能和内部的权斗有关。因为它在海外的网站上发表不久，在无界新闻，一个官方办的网站上出现。公开信的内容里面也讲到对习近平的家人威胁的话，说明对方有备而来。大家后来去挖掘一下无界新闻的背景，和所谓的反习还是有一点迹象。无界新闻有张春贤的一些背景，还有当时要抓的一些所谓的反习媒体的背景，所以大家有这种联想。</p>
+<p>主持人：很多人在猜测北京会怎么办，要办到什么样的程度。我们现在看到是五人失踪，大部分仍然是媒体界的人。未来有没有可能跨界，比如说政治界也有人因为这封信而落马呢？</p>
+<p>韦石：很可能，现在我们看到的只是表象。一些媒体人，可以说是牺牲品吧。包括海外的一些人也受到了攻击，家里的网络都被攻击，电话被骚扰。我想更大的事情是在内部，我了解这封公开信可能在内部被当作一个挑战现在领导地位的运动，是动作之一。以前说内斗在十九大之前会达到一个高峰，公开信可能提早引爆了内斗。接下来这两个月，我认为中国的政坛会非常有看点。很可能有相当有级别的人提早落马。</p>
+<p>主持人：中国官媒人民日报今天刊登社长杨振武的一篇7千字长文，主要重复习近平的党媒姓党，强调对媒体，特别是互联网控制的重要性。即便在这样的氛围下，还是出现了无界新闻公开信事件，不仅给中共高层打脸，也引发阴谋论，您的解读？</p>
+<p>韦石：中国现在确实很复杂，就像宣传系统，很多事情不论习近平做的对错，并不是给他做一个评判，确实存在一种反做的现象，从另外一个角度添乱。就像前一段推出的歌曲《东方又红》，第二句话是，“习近平继承了毛泽东”。这首歌没有两天就被最高层下令给下架了，其实很明显是有的人确实在反做。</p>
+<p>这样的大形势下，有些媒体是在讲与“上面”所谓的一致的意见，有时也经常出现一些不同的声音，像无界新闻这次。在大背景下，可能会出现一些很异常的事情。所以高层对公开信的重视，主要并不是因为海外发出的声音和内容。而是出现在无界本身，所以大家的焦点关注就是它是官方背景，出现一个非常不一样的声音。</p>
+<p>主持人：谢谢韦石先生接受美国之音的访问。针对贾葭遭到扣押，国际特赦组织在今天发布声明，呼吁中国当局立即无条件释放贾葭，除非他被以国际认可的刑事罪行正式起诉；要确保贾葭在关押期间能够定期而且不受限地会见家人和律师，并且立即保障他免受酷刑及其他虐待。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=550%2C461" alt="Cd063ohUkAAnGRB.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=300%2C251 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=768%2C644 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?w=940 940w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A6%E7%9F%B3%E8%B0%88%E6%B6%89%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E4%BC%9A%E6%9F%A5%E5%88%B0%E5%93%AA%E9%87%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A6%E7%9F%B3/?category=18271" rel="tag">韦石</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9D%A5%E5%8D%8E/" target="cdt-mirror">【真理部】脸谱公司创始人扎克伯格来华</a>
 </h2>
 <p><p>关于脸谱公司创始人扎克伯格此次来华的信息要进一步控制恶意评论，不继续炒作。</p>
@@ -654,41 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/432200/" target="cdt-mirror">【图说天朝】迎G20峰会 3500名杭州版“朝阳群众”上岗</a>
-</h2>
-<p><p>【编者注】《钱江晚报》很显然在报道中将“朝阳群众”与“小脚侦察队”当作褒义词来用了。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg" rel="attachment wp-att-432201"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?resize=425%2C567" alt="mmexport1458365451529" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mmexport1458365451529.jpg?w=960 960w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg" rel="attachment wp-att-432209"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg?resize=500%2C281" alt="3417ebade9821855e7ea05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3417ebade9821855e7ea05.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg" rel="attachment wp-att-432207"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?resize=525%2C336" alt="00300004567_581e4cec" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?resize=300%2C192 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?resize=768%2C492 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/00300004567_581e4cec.jpg?w=835 835w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg" rel="attachment wp-att-432208"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg?resize=525%2C395" alt="ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw==" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg?resize=300%2C226 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/ZmlsZT1odHRwOi8vaW1nMDEuY3p0di5jb20vMjAxNjAzLzE3LzIyZjFjODUwNWU1NzUwYTAyM2VmMjQ0MzU1ZGUwNDQ3LmpwZyZheGlzPTAsMCZzaXplPTcwOCw1MzMmdHNpemU9NzA4LDUzMw.jpg?w=708 708w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p><strong><a href="http://news.66wz.com/system/2016/03/19/104767028.shtml" target="_blank">钱江晚报｜打造杭版“朝阳群众”数千位武林好大妈，正式“上岗”</a></strong></p>
-<blockquote><p>近日，在杭州武林街道，一支名为“武林好大妈”的队伍正式成立，数千位好大妈将分布在各个社区，<strong>有望成为杭版“朝阳群众”</strong>。</p>
-<p>武林好大妈们，可能是小公园里晨练的阿姨，<strong>可能是身穿志愿者服装戴着红袖标的“小脚侦缉队”</strong>，又或是半眯着眼晒太阳打毛线的大姐。但是她们都有一个共同点——热心肠和好人缘。[…]</p>
-<p>武林街道工作人员告诉记者，“大妈们热心，八卦，还更有情感渲染力，这三点可是群众工作必不可少的呢。为了推动杭州城市国际化进程，细化到群众工作，其实很多时候反而是这些退休女性更容易打开局面，她们的余热和自身特长也能更接地气地解决一些邻里矛盾。”</p></blockquote>
-<p><strong><a href="http://hangzhou.zjol.com.cn/system/2016/03/19/021072581.shtml" target="_blank">浙江日报｜3500名“武林好大妈”助力G20 发挥余热献爱心</a></strong></p>
-<blockquote><p>G20杭州峰会脚步越来越近，杭州市民服务峰会的热情高涨。3月16日，由杭州下城区武林街道妇联牵头组建的3500名“武林好大妈”志愿服务团正式开团。</p>
-<p>60岁的“武林好大妈”骨干成员王亦珍，退休后一直热心社区公益，尤其在文明礼仪宣传上，颇有心得，“G20杭州峰会是杭州向世界展示自我的一次好机会，我们要通过实际行动，让大家看到杭州景色美，人更美。”</p>
-<p>和王亦珍一样，其他“武林好大妈”也是个个“武艺高强”。她们中，有的年轻时当过医生，有的是专业律师，有的是颇受群众欢迎的资深楼道党支部书记……为更好地服务保障G20杭州峰会，她们热情满满，希望通过在各自生活圈里的影响力，发挥出满满的正能量。</p></blockquote>
-<p><strong><a href="http://hzdaily.hangzhou.com.cn/hzrb/html/2016-03/18/content_2219581.htm" target="_blank">杭州日报｜用自身所长服务G20 “武林好大妈”上路了！</a></strong></p>
-<blockquote><p>[…]<strong>中国大妈在世界上都很有影响力</strong>，‘武林大妈’也一定能做很多好事。”今年刚60岁的“武林好大妈”王亦珍退休前是杭州长运乘客投诉中心的一位负责人。</p>
-<p>据悉，“武林好大妈”志愿者小分队将投入到服务保障G20峰会的有关工作中，策划开展平安巡防、人民调解、文明引导、家庭垃圾分类宣传、五水共治、文明礼仪倡导等服务活动，<strong>贡献一份基层草根女性力量</strong>。比如，她们专门制作了一个竖大拇指造型的“点赞牌”，<strong>近期将统一着装上街为文明行为点赞</strong>。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2485116292" target="_blank">@zxx-150711</a>：红卫兵们又找到了年轻时的激爽快感！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3441980472" target="_blank">@执剑人—罗辑</a>：红卫兵下岗再就业<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">这盛世，如党所愿。</p>
-<p>@楠辨是非：拿“朝阳群众”当褒义词呢。</p>
-<p>@YooJason：不以为耻，反以为荣！</p>
-<p>@鼻毛神拳：红卫兵小将门的晚年生活</p>
-<p><a href="http://weibo.com/1491046827" target="_blank">@张郎来了</a><i title="微博达人"></i>：全民皆探，我党威武！<img title="[耶]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/ye_org.gif" alt="[耶]" data-recalc-dims="1"></p>
-<p>@WANGQ地盘：把干涉别人生活当好事</p>
-<p>@幻想乡事变：浙江人表示好丢脸  ，看似三观极正实际上歪到朝鲜去了</p>
-<p>@Miraclelmj梦想佳：我朝大妈威武。古有东厂锦衣卫，今有中国好大妈。群众斗争线路再战江湖，武林又是一场腥风血雨。<br><em><br>
-（以上图片均来自网络）</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/432200/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A6%88/?category=18271" rel="tag">中国大妈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BC%97%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">群众举报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -700,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%8F%97%E5%AE%B3%E8%80%85%E7%9A%84%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/" target="cdt-mirror">旧闻评论｜宋志标：没有受害者的疫苗之殇</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/001qG2rCzy70hppEzZPf5690.jpeg" rel="attachment wp-att-432467"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/001qG2rCzy70hppEzZPf5690.jpeg?resize=400%2C647" alt="001qG2rCzy70hppEzZPf5&690" data-recalc-dims="1"></a><br>
+【题图当代水墨《月下割麦子》，作者新浪微博：@秃头倔人】</p>
+<blockquote><p><strong>相关专题</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/">山西疫苗事件</a></p></blockquote>
+<p>山东这个疫苗案件在两会过后才爆出来，想必也是考虑给两会创造良好的舆论氛围，不分散焦点。但是等到这事出来后，很快进入了“国情”的运行轨道，有一点就是看不到受害者。以这个案件时长五年、案值五六亿元来算，没有受害者实在不可思议。</p>
+<p>这次出问题的疫苗是二级疫苗，比三年前山西疫苗风波中的一级疫苗有所不同，但是相同点是多少不变的，亦即：缺乏冷链运输与保存条件多少年没变，医药公司、防疫站与中间商联手作业的模式没变。当然，三年间，还是有许多东西有了变化。</p>
+<p>一是在媒体方面。记者对问题疫苗的报道力度在下降，陕西疫苗那会，还是调查记者的王克勤在当地深潜好几个月，挨个寻找受害者，确定他们与疫苗之间的联系，尽管最后还是被药监部门一句“耦合因素”给打了太极，但调查的能力与意志是现今媒体少有的。</p>
+<p>本次山东疫苗案件形成了全国网络，涉及20个以上的省市，但是在媒体报道中，其来源多数是以官方声明、公安口径以及药监的网上信息为主——这些当然也是信息来源之一，但从接种疫苗民众的角度，少有印证，从而让问题疫苗的重要性大打折扣。</p>
+<p>二是社会心态上，似乎已经脱离了愤怒，相较于2013年前后系列假疫苗案件，大众情绪中冷漠的多了。冷漠当然不代表不关心，有可能是认为关心了无用，并且导致这种恶劣事情的原由众所周知，无非是体制的错——正因为如此明了，所以一再发生，必须无力感。</p>
+<p>媒体无为与社会无谓，实际上是两种贫瘠之态，两厢挤压在疫苗大案上带来乏善可陈之状。所以，与问题疫苗倾销网络相对应的，受害者网络迟迟不见汇总出来，倒是“此地疫苗安全无忧”的维稳声明发了不少，受害者沉在了水底，化解愤怒与无形，社会焦点脱水枯萎。</p>
+<p>关于假疫苗的问题，向来有两种解读途径。在官方的说法里，大抵是承认防疫体系的漏洞与顽疾，却绝对不承认疫苗与接种致害之间的必然联系。但是在民间当中，则将其归结为“疫苗之殇”。药监行政当局的自说自话，与社会对疫苗的痛感变冷，并列在一起。</p>
+<p>贪婪与腐败诸君本是系铃人，疫苗案件的发生逻辑，已经决定了它们不会被杜绝。问题只是在哪里、何时、什么人身上爆发出来，如果说疫苗技术有不可攻克的耦合因素，那么，这一点恐怕也是疫苗风波连续不断的“耦合之因”。疫苗不能不种，只能看谁好彩。</p>
+<p>人心崩溃，经由情势流变相继相激，导致如此大的事件当中受害人缺位，消失不见，这是一种普遍征兆在具体事件上的表现。三年前，南都摄影记者郭现中尚有疫苗之殇的图片报道，而今殇也殇得，却不怎么踏实。“完美的受害者”幻灭，终于到了没有受害者的地步。</p>
+<p>2016/3/21</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%8F%97%E5%AE%B3%E8%80%85%E7%9A%84%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">媒体监督</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A6%E7%9F%B3%E8%B0%88%E6%B6%89%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E4%BC%9A%E6%9F%A5%E5%88%B0%E5%93%AA%E9%87%8C/" target="cdt-mirror">美国之音｜韦石谈涉习公开信事件会查到哪里</a>
 </h2>
 <p><p>因为涉及习近平下台公开信失踪的中国媒体人贾葭，确定遭北京市公安扣押。与此同时，刊登公开信的无界新闻也传出有4人下落不明。公开信事件如滚雪球般越滚越大，是否成为习近平上台以来的最大一场政治危机？北京会查到哪里？下面我们通过电话连线，请同样在追踪事态发展的博讯网创办人韦石先生来谈谈他的看法。</p>
@@ -655,29 +678,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/432213/" target="cdt-mirror">【立此存照】帝吧出征维珍航空 认错公司无辜躺枪</a>
-</h2>
-<p><p>近日，一名中国女性乘客自称在维珍航空(Virgin Atlantic)从伦敦飞往上海的航班中遭到一位白人男性乘客的辱骂，更<a href="http://weibo.com/p/1001603954310793809448" target="_blank">指对方种族歧视</a>，使用了如“中国猪”这样的语言。</p>
-<p>此事件在网络<a href="http://www.guancha.cn/europe/2016_03_19_354395.shtml" target="_blank">持续发酵</a>。维珍航空官方账号在微博对此事进行了回应，称将彻查此事。维珍航空公司总裁也随后在网络上<a href="https://www.virgin.com/richard-branson/social-media-and-understanding-all-sides-story" target="_blank">公开回应</a>，强调了该司对种族歧视零容忍，同时表示需要彻查后才能给出结论。</p>
-<p>许多中国网民很显然无法接受该总裁没有道歉的事实。于是出现了最近的帝吧“出征维珍航空FB页面”行动，要逼其道歉。</p>
-<p>然而由于维珍集团旗下拥有大量子公司，航空方面除Virgin Atlantic外，还有同样独立运作的Virgin America和Virgin Australia。这直接导致了许多“不明真相”的热血网民跑去Virgin America、Virgin Australia以及维珍集团总部的Facebook页面开骂。</p>
-<p><strong>躺枪的Virgin America脸书页面：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png" rel="attachment wp-att-432217"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=425%2C720" alt="virgin america1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=177%2C300 177w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=768%2C1301 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?resize=605%2C1024 605w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america1.png?w=1508 1508w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png" rel="attachment wp-att-432216"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=425%2C542" alt="virgin america2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=235%2C300 235w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=768%2C980 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?resize=803%2C1024 803w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-america2.png?w=1500 1500w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p><strong>躺枪的Virgin Australia脸书页面：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png" rel="attachment wp-att-432215"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=500%2C167" alt="virgin australia1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=300%2C100 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=768%2C257 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?resize=1024%2C343 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia1.png?w=1620 1620w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png" rel="attachment wp-att-432214"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=500%2C159" alt="virgin australia 2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=300%2C95 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=768%2C244 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?resize=1024%2C325 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-australia-2.png?w=1612 1612w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>维珍集团主页是重灾区：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Virgin-group.png" rel="attachment wp-att-432218"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Virgin-group.png?resize=450%2C5904" alt="Virgin group" data-recalc-dims="1"></a></p>
-<p><strong>附维珍集团旗下公司一览：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png" rel="attachment wp-att-432219"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?resize=500%2C745" alt="virgin companies" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?resize=768%2C1144 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?resize=688%2C1024 688w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/virgin-companies.png?w=1652 1652w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>（维珍集团官网截图）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/432213/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7/?category=18271" rel="tag">帝吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -689,7 +689,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

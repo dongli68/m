@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-a4%E8%85%B0%E7%88%86%E7%BA%A2%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E7%82%AB%E7%98%A6%E7%8B%82%E6%BD%AE%E6%83%B9%E4%BA%89%E8%AE%AE/" target="cdt-mirror">纽约时报 | “A4腰”爆红中国网络 炫瘦狂潮惹争议</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19chinawaist-web1-articleLarge.jpg?resize=600%2C400" alt="一位不愿具名的24岁中国学生举着一张纸，以显示自己的纤腰。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19chinawaist-web1-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/19chinawaist-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一位不愿具名的24岁中国学生举着一张纸，以显示自己的纤腰。</p></div>
+<p>最新的一股美体风潮席卷了中国的社交媒体，女人（以及一些男人）吹嘘自己的身段窈窕如纸，纷纷贴出用一张竖立的A4纸遮挡自己腰部的照片。</p>
+<p>要达到“A4腰”的标准，腰部就必须完全被这张纸遮挡住。A4纸宽210mm，长297mm，和美国的信纸差不多大。横着拿属于作弊。</p>
+<p>在微博和微信等社交媒体上，“#A4腰#”和类似标签吸引了数以百计的照片和数以千计的评论。就连中共党报《人民日报》也加入了这股风潮。</p>
+<p>纤细是一个普遍的女性审美标准，有人批评这是一种不健康的女性魅力观。</p>
+<p>偏好细腰的审美观在中国有着悠久的历史，至少可以追溯到公元前540年至前529年在位的国君楚灵王。很多中国人都知道记载西汉历史的《汉书》中有一句话：“楚王好细腰，宫中多饿死。”</p>
+<p>哲学家墨子的追随者在辑录而成的《墨子》中记载道：“故灵王之臣皆以一饭为节，胁息然后带，扶墙然后起。”</p>
+<p>一些评论者觉得A4腰的趋势令人恼火。</p>
+<p>郑楚然将一张A4纸横放，不是竖立在腰部，纸上写着：“身体不需要被凝视。我爱我肥腰。”</p>
+<p>在接受电话采访时，《智族GQ》杂志的资深时装编辑何晓斌说，“我觉得这很蠢。”</p>
+<p>“因为每个人骨架、体型都不一样，”他说。“光用一个尺寸来定义全人类并自以为创造了一种新标准是傲慢而愚蠢的.”</p>
+<p>“A4腰”挑战让他很恼火，他说，因为这让“一部分人得到炫耀的资本，然后让另一部分人就变得很沮丧。”</p>
+<p>幸运的是，一些没有达到A4标准的人也从幽默中寻找安慰。他们能用不同尺寸的纸张代替吗，比如297mm宽的A3纸？或者是用A4纸对比腰部以外的肢体部分？</p>
+<p>微博用户宅若一（音）说：“你们怎么有A4腰的呢？我只有A4腿！”</p>
+<p>世界卫生组织(World Health Organization)对中国日渐严重的<a href="http://www.who.int/dietphysicalactivity/media/en/gsfs_obesity.pdf" target="_blank" rel="nofollow">肥胖问题</a>表示了担忧，称更加繁荣的经济和不断变化的日常饮食，促使中国部分城市的肥胖率高达20%。</p>
+<p>A4纸制定了一个苛刻的腰围标准。如果将其宽度乘以三，即25英寸当成腰围，与<a href="http://blogs.webmd.com/pamela-peeke-md/2010/01/just-what-is-an-average-womans-size-anymore.html" target="_blank" rel="nofollow">美国女性34至35英寸的平均腰围</a>相比，也仍算纤细。</p>
+<p>即便在很多女性都较瘦的中国，A4腰也算非常细的。正如用户名为“刘XXX星”的微博用户所写的：“我的腰已经够细了，但也不是#A4腰#。”</p>
+<p>这不是中国社交媒体上近年来出现的第一股炫瘦狂潮。在早前的一波热潮中，众多女性纷纷晒出自己反手摸肚脐的照片，证明自己足够瘦。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-a4%E8%85%B0%E7%88%86%E7%BA%A2%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E7%82%AB%E7%98%A6%E7%8B%82%E6%BD%AE%E6%83%B9%E4%BA%89%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a4%E8%85%B0/?category=18271" rel="tag">A4腰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E9%AD%85%E5%8A%9B%E8%A7%82/?category=18271" rel="tag">女性魅力观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%87%E8%85%B0%E5%9B%B4/?category=18271" rel="tag">平均腰围</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A5%E8%83%96/?category=18271" rel="tag">肥胖</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432511/" target="cdt-mirror">【图说天朝】巨型龙袍 人造祥瑞 请您检阅</a>
+</h2>
+<p><p><img src="http://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg?w=440" alt="" width="440" height="303"><br><em>（题图无关）</em></p>
+<p><strong><a href="http://news.cri.cn/2016-3-22/353f4798-61f6-6f66-dcc7-6627cb7f46ac.html" target="_blank">中新网｜南京农民田野“编龙袍” 空中俯瞰颇为震撼</a></strong></p>
+<blockquote><p>3月21日，农民在田野内“编织”“龙袍”。南京六合油菜花盛开，当地农民加紧制作巨型“龙袍”和“双龙戏珠”迷宫，从空中俯瞰，颇为震撼。</p></blockquote>
+<p><strong><a href="http://www.bjnews.com.cn/news/2016/03/22/397795.html">新京报｜定点15000个，人工播种，耗时近100天…南京油菜地霸气“龙袍”是怎样编成的</a></strong></p>
+<blockquote><p>[…]长江社区书记杨坤说，之所以采用“龙袍”和“双龙戏珠”的图案，是因为当地就叫龙袍镇，并没有其他的意义。相传乾隆皇帝乘舟下江南，经过此地时，忽然一阵旋风将龙袍卷入江中，龙袍飘落的地方后被称为“龙袍洲”，现在叫龙袍街道。</p>
+<p>杨坤说，长江社区南京市的十大农家乐旅游示范村之一，今年年初为了打造乡村旅游，吸引游客前来，就想到了创造大地景观的点子。他们请专业人员设计了施工图，在油菜地里定出15000个坐标点，然后再人工播种小麦和油菜，前后耗时近100天。[…]</p>
+<p>稻田画在世界各地都比较流行，尤其在日本更火。据报道，自1993年以来，日本青森县田舍馆村每年都会举办一次“稻田艺术节”，展示农民所做的稻田画以吸引游客。[…]</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqkhrccj21kw11xdyc.jpg" rel="attachment wp-att-432519"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqkhrccj21kw11xdyc.jpg?resize=535%2C357" alt="6e18de6fgw1f25fqkhrccj21kw11xdyc" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqkhrccj21kw11xdyc.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqkhrccj21kw11xdyc.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqkhrccj21kw11xdyc.jpg?w=1024 1024w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqnivksj21kw11x4po.jpg" rel="attachment wp-att-432518"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqnivksj21kw11x4po.jpg?resize=535%2C357" alt="6e18de6fgw1f25fqnivksj21kw11x4po" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqnivksj21kw11x4po.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqnivksj21kw11x4po.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqnivksj21kw11x4po.jpg?w=1024 1024w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqqliazj21kw16q7wh.jpg" rel="attachment wp-att-432517"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqqliazj21kw16q7wh.jpg?resize=535%2C402" alt="6e18de6fgw1f25fqqliazj21kw16q7wh" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqqliazj21kw16q7wh.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqqliazj21kw16q7wh.jpg?resize=768%2C577 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fqqliazj21kw16q7wh.jpg?w=1024 1024w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr03bzdj21kw11xx2w.jpg" rel="attachment wp-att-432516"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr03bzdj21kw11xx2w.jpg?resize=535%2C357" alt="6e18de6fgw1f25fr03bzdj21kw11xx2w" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr03bzdj21kw11xx2w.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr03bzdj21kw11xx2w.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr03bzdj21kw11xx2w.jpg?w=1024 1024w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr3fmy7j21kw11xx3a.jpg" rel="attachment wp-att-432515"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr3fmy7j21kw11xx3a.jpg?resize=535%2C357" alt="6e18de6fgw1f25fr3fmy7j21kw11xx3a" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr3fmy7j21kw11xx3a.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr3fmy7j21kw11xx3a.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr3fmy7j21kw11xx3a.jpg?w=1024 1024w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr6xq9vj21d20wpb10.jpg" rel="attachment wp-att-432514"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr6xq9vj21d20wpb10.jpg?resize=535%2C356" alt="6e18de6fgw1f25fr6xq9vj21d20wpb10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr6xq9vj21d20wpb10.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr6xq9vj21d20wpb10.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6e18de6fgw1f25fr6xq9vj21d20wpb10.jpg?w=1024 1024w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><br><em>（以上图片来自新浪微博@香港商报网）</em></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1411497425" target="_blank">@暗中有好</a>：这是一个神奇的国度，说不定明年地里会长出大大<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p>@王慢慢Venn：这是祥瑞啊，是时候劝进了</p>
+<p>@当归于半夏：快登基吧，别折磨我们了</p>
+<p>@布云轩：给夶穿上，皇帝的新装</p>
+<p>@永夜l：瞎眼龙，农民伯伯敢把眼睛镶上去嘛。</p>
+<p>@没有纸的笔：复辟了，复辟了，</p>
+<p>@花鸣树：即然都种出来了就找人穿上吧</p>
+<p>@没有纸的笔：图片评论<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7944c5eejw1f25nry32lvj20zk0qognp.jpg" rel="attachment wp-att-432521"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7944c5eejw1f25nry32lvj20zk0qognp.jpg?resize=400%2C300" alt="7944c5eejw1f25nry32lvj20zk0qognp" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7944c5eejw1f25nry32lvj20zk0qognp.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/7944c5eejw1f25nry32lvj20zk0qognp.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>@胖花猫和桔子：咋滴了？发这么一条还illegal[doge]？生怕别人不知道你们姓走X<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005V4Vcvjw1f25g83uvuuj30hs0vlabf.jpg" rel="attachment wp-att-432524"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005V4Vcvjw1f25g83uvuuj30hs0vlabf.jpg?resize=375%2C666" alt="005V4Vcvjw1f25g83uvuuj30hs0vlabf" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005V4Vcvjw1f25g83uvuuj30hs0vlabf.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005V4Vcvjw1f25g83uvuuj30hs0vlabf.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
+<p><strong>附日本知名稻田画一则：</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mp711381_1422094214035_19.jpeg" rel="attachment wp-att-432522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mp711381_1422094214035_19.jpeg?resize=500%2C333" alt="mp711381_1422094214035_19" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mp711381_1422094214035_19.jpeg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/mp711381_1422094214035_19.jpeg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>（图片来自网络）</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432511/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E4%B8%93%E7%A8%BF-%E6%B4%9B%E9%98%B3%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E9%99%88%E9%9B%AA%E6%9E%AB%E7%9A%84%E7%85%A4%E4%B8%9A%E7%94%9F%E6%B6%AF/" target="cdt-mirror">财经专稿 | 洛阳市委原书记陈雪枫的煤业生涯</a>
 </h2>
 <p><p><strong>亲眼看着曾经的煤业竞争对手们接连身陷囹圄后，一手建立起河南煤业帝国的陈雪枫最终也未能幸免。</strong></p>
@@ -158,7 +216,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%8F%97%E5%AE%B3%E8%80%85%E7%9A%84%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/" target="cdt-mirror">旧闻评论｜宋志标：没有受害者的疫苗之殇</a>
 </h2>
@@ -181,7 +239,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">媒体监督</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A6%E7%9F%B3%E8%B0%88%E6%B6%89%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E4%BC%9A%E6%9F%A5%E5%88%B0%E5%93%AA%E9%87%8C/" target="cdt-mirror">美国之音｜韦石谈涉习公开信事件会查到哪里</a>
 </h2>
@@ -683,65 +741,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%86%9C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="cdt-mirror">德国之声 | 长平：贾葭失踪，睁眼之罪</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8B%E5%8D%8812.08.15.png?resize=550%2C307" alt="Screen Shot 2016-03-19 at 下午12.08.15" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午12.08.15.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-下午12.08.15.png?w=703 703w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>贾葭在腾讯“大家”上的专栏页面</span></p>
-<p>加拿大作家玛格丽特·阿特伍德的小说《盲刺客》中，有一个寓意深刻的情节：赛克隆星球的萨基诺城，曾因奴隶的勤劳而辉煌。地毯编织是它的支柱产业，工人全是奴隶中的儿童，因为只有孩子的纤纤细手才能干出这般精致的活儿。由于长期凑近织物劳作，孩子们长到八九岁全都瞎了。于是他们中间流传着一种说法：只有瞎子才有自由。</p>
-<p>中国知名媒体人贾葭，就因为眼睛没有瞎，失去了自由。在全国“两会”开幕日当天，他看见“姓党”的网媒无界网主页上，出现公开信《要求习近平同志辞去党和国家领导职务》，感到十分惊讶，便告知了他的朋友、无界网执行总裁欧阳洪亮。贾葭和他的律师都多次表示，除此之外，他和这封信没有任何关系。</p>
-<p>无界网迅速关闭，删除文章后恢复运行，相关人员都“正在接受调查”。没有假装睁眼瞎的贾葭，也被列入调查名单。先是他在陕西的亲人遭到警方问话，随后，3月15日，在从北京飞往香港出席讲座活动的途中，他神秘地失踪了。</p>
-<p>秘密绑架与消息传播</p>
-<p>包括警方和航空公司在内的各个方面，都拒绝查询或者回复有关贾葭行踪的信息。正因为如此“神秘”，事实真相路人皆知：他已被当局羁押。四天时间过去了，没有法律手续，没有通知家属，更没有律师会面，甚至不知道办案单位。从法律上说，这是一起绑架案。比江湖黑社会绑架案更糟糕的是，报案后警方置之不理，而且公众不敢议论。</p>
-<p>当局的野蛮给一些自我禁言者提供了借口，他们以“没有确切消息”为由拒绝发声。一些西方媒体也遇到困难：传统的新闻专业主义，把官方消息视为权威信息源。其余信息源则须多方确认方可报道。官方一方面进行黑社会式绑架，一方面把公众治成装聋作哑睁眼瞎，“确切消息”实难寻觅。因此而举世沉默，正好坠入当局挖的坑。</p>
-<p>所幸舆论没有作茧自缚，包括纽约时报、CNN、路透社等世界主流媒体都报道了这起“据传”的失踪案。国际特赦（Amnesty International）、保护记者委员会（CPJ）等权利组织也表达了关注。当局竭力掩饰的那封公开信，也得到更加广泛的传播。</p>
-<p>宫廷权斗与民间抗争</p>
-<p>有关那封公开信的种种传闻，也因此而甚嚣尘上。公开信署名“忠诚的共产党员”，阐述习近平主政以来，独揽大权，热衷权斗，政治经济、内政外交全面倒退，国家面临“文革”重来之虞。公开信要求习近平主动辞职，让位贤能，甚至提醒他考虑自己和家人的安全。诸多评论认为，这反映了中共高层的分裂与危机。不少人期待内部权斗带来政治变革的契机。</p>
-<p>贾葭曾经和我一起为香港《阳光时务》周刊工作。我们在编辑会上讨论过权斗与变革的关系。其后，我在“主编的话”中写道：“论是革命还是改良的主张者，都对古老的权力倾轧——改朝换代或者宫廷斗争——倾注了太多的热情”，“几千年来，宫廷政治浪费了太多的政治和社会资源。今天还有人对中南海内幕津津乐道，我只会把他当作一个旧时的说书人”，而应当“远离权力争斗，拒绝宫廷秘闻，关注个体权利，支持新型抗争”。</p>
-<p>我并不是说，高层权斗对政治变革毫无意义。但是，在中国，这往往成了阻止民间抗争的理由。我写了二十多年时事观察，一直都有更“精通时事”的人劝告我说，高层某派正在精密部署，最好静待佳音，勿要添乱。“某派”换了一茬又一茬，“佳音”从未幸临。事实上，无论南韩、台湾还是缅甸，从内部权斗到公开民主，反对力量的“添乱”至关重要。更何况，习近平上台前后，权力倾轧可谓血雨腥风。“唱红打黑”的薄熙来进了牢房，“文革”幽灵却愈加逼近了。</p>
-<p>我也看过贾葭的一些文章，相信他和我一样，对单纯的宫廷斗争不感兴趣，更不会去佯装“忠诚的共产党员”，以“坚持党的优良传统”为名，为“我党”的未来操心——我不知道这种策略是否灵验，但知道使用和关心的人也太多了一点。中国缺乏的是堂堂正正的思想表达，直截了当的政治言说。</p>
-<p>盲刺客与睁眼瞎</p>
-<p>如此说来，贾葭是这场被夸大的权斗阴谋的“躺枪”（误伤）者吗？是，也不是。一方面，他显然不会介入这种事情；另一方面，每一位公民，都可能成为宫廷权斗的直接受害者。因此，相对于那封公开信来说，我更关心贾葭作为一位媒体人、一位网民和一位公民的基本权利。看见一个信息，转告给一个朋友，就会被秘密绑架，这是多么可怕的事情！</p>
-<p>然而，这正是中国的政治现实。那封公开信的读者，一定不只贾葭一人。然而，绝大多数人一声不吭，赶紧躲闪。贾葭曾任职多家媒体，广有交游，尽识“思想大家”。失踪之后，旧雨新知亦多作睁眼瞎，依旧谈笑风生，甚至污名毁誉、落井下石。</p>
-<p>真正的盲人因为想战胜黑暗，其他感知能力往往优于常人。玛格丽特·阿特伍德的小说中，奴隶儿童眼盲之后，有的成为敏捷异常的刺客。然而，睁眼瞎不会生出这些本领，只会因恐惧和自欺而愚钝，丧失对基本权利的体悟。这正是专制政治延续下去的秘密之一。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%80%92%E4%B9%A0/?category=18271" rel="tag">媒体倒习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%B9%BF%E7%B1%B3%E9%A4%A8-mark-zuckerberg%E8%BA%AB%E9%82%8A%E6%B2%92%E6%9C%89%E4%B8%AD%E5%9C%8B%E9%80%9A%E5%97%8E/" target="cdt-mirror">鹿米館 | Mark Zuckerberg身邊沒有中國通嗎?</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=550%2C585" alt="zuckerberg_jogging_in_beijings_aqi_337_air" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=282%2C300 282w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=768%2C818 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?resize=962%2C1024 962w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/zuckerberg_jogging_in_beijings_aqi_337_air.png?w=1054 1054w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>Mark Zuckerberg朱克伯格昨日在自己的網絡服務Facebook發了一幅相，便成為全球主要新聞，就是他在北京天安門跑步並且打卡，這一招看似高招，但換來卻可以是一場公關災難，關公真的很忙。</p>
-<p>他在北京打卡，一定是經過考慮，並不是話打就打，他一定知道大陸的網絡，是需要翻牆才能夠上到Facebook，又或者使用特定的電訊Sim卡或者網絡才可以，因此他的舉動，一定是有其計劃與背後意思。當中是會與大陸當局溝通過，握過手才會做，否則他這樣做，會使當局尷尬，適得其反。但為何他會這樣做呢?以及中共當局為什麼要這樣做呢?</p>
-<p>一、他認為這是與當局做一場友好外交，以打入中國市場。<br>
-二、當局表示外國的網站其實一樣可以暢通無阻，只要當局允許以及符合大陸的法規。</p>
-<p>這是一場公關Show，但是這場Show往往是做錯，特別是中共做公關Show每次都會碰釘。</p>
-<p>朱克伯格在天安門跑，會讓人聯想多種的方向。<br>
-一、為何你有特權可以上到Facebook，普通百姓要翻牆呢!<br>
-二、在北京跑步不怕霧霾嗎?這是當局最敏感的社會議題。<br>
-三、北京天安門自然聯想起1989年，朱克伯格當時五歲。</p>
-<p>老實說這三個議題是單一條都可以成為公關災難。</p>
-<p>他並不知道中國人是要面子，這樣一出，成為全球笑柄，當局原有的如意算盤便打不響，當局又因為見到群情凶湧，不只是香港人取笑，事實上大陸網民也在取笑當局以及他的行徑，這樣中共眼這種出醜人前，原以為大家雙贏變雙輸，隨時會反面不認人，以為可以這樣方法向當局獻媚，是會弄巧反拙的。</p>
-<p>他這種舉措，雖然是經過深思熟慮但這一著明顯是不知道中國國情，就是不要信中央的表面，直到它真正endorse你才好做。真心懷疑他有沒有中國通在他的身邊，因為他這次跑步Show明顯是不理解中國國情，以為當局給你牌時你就一定要上，但是有時候這些牌是不能上的，因為中共隨時給你一張爛牌扮好牌，現在明顯是一張爛透牌。</p>
-<p>朱克伯格是典型利益主意者，利益先行，其他事慢慢再談。所以他會找華裔太太一同講普通話跟大家講新年快樂，會到大陸挑戰自己健康來跑步。又會與馬雲做論壇，甚至今日更能夠與劉雲山會面，這些舉措都是他的agenda一部份，特別是與劉雲山會面。</p>
-<p>劉雲山主理意識型態，這毫無疑問即互聯網就是他們眼的中意識型態產物，不是科技，是主管人的思想，所以才由劉雲山見他。但是Facebook現在是不可能在大陸順利或者全面出現，最多只能夠在前海、上海的外貿區，已經是重大突破。但是如果Facebook只想這些地方落地，那就真的是沒有大志，但是想全國通行卻是不可能的任務。</p>
-<p>因為在現今中國的政治環境，是不會給予Facebook全面落地，看看連新浪微博都要被整頓，何況是外來品Facebook?而且Facebook的特性在今天的中國文化並不會成功，因為Facebook社交關係是公開的，中國人是有忌諱，如果人與人的關係可能有小三、隱性的工作伙伴，洩露了原來官員跟一位富商是朋友，這種潛在危機會使用家卻步，所以為什麼微信的朋友圈如此成功就是因為關係連是封閉式，避免這些利益衝突關係。</p>
-<p>所以朱克伯格不要期望把Facebook帶進中國境內，你只能夠最多是投資中國內的資訊科技投資，做VC、做天使投資者，最大的讓步也只會是與入股馬雲的旗下公司，這已經是中共的恩賜，你已經要感恩。而事實上劉雲山與他會面時，也說指Facebook與中國互聯網企業加強交流，分享經驗，增進相互了解，也引証了上述的估計。</p>
-<p>但建議他若想進入中國市場，你首先請一位中共委員的親屬，這才會是中國國情，至於有何利益輸送?你懂的。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%B9%BF%E7%B1%B3%E9%A4%A8-mark-zuckerberg%E8%BA%AB%E9%82%8A%E6%B2%92%E6%9C%89%E4%B8%AD%E5%9C%8B%E9%80%9A%E5%97%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">facebook回归中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E5%8D%9A%E5%AE%A2/?category=18271" rel="tag">公民博客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E6%99%A8%E8%B7%91/?category=18271" rel="tag">扎克伯格北京天安门晨跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B9%BF%E7%B1%B3%E9%A6%86/?category=18271" rel="tag">鹿米馆</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -753,7 +752,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -763,5 +762,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

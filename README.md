@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,145 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E4%B8%93%E7%A8%BF-%E6%B4%9B%E9%98%B3%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E9%99%88%E9%9B%AA%E6%9E%AB%E7%9A%84%E7%85%A4%E4%B8%9A%E7%94%9F%E6%B6%AF/" target="cdt-mirror">财经专稿 | 洛阳市委原书记陈雪枫的煤业生涯</a>
+</h2>
+<p><p><strong>亲眼看着曾经的煤业竞争对手们接连身陷囹圄后，一手建立起河南煤业帝国的陈雪枫最终也未能幸免。</strong></p>
+<p><em>文|《财经》记者 尹岳</em></p>
+<p>亲眼看着那些曾经的煤业竞争对手们接连身陷囹圄后，一手建立起河南煤业帝国的陈雪枫最终也未能幸免。</p>
+<p>2016年1月16日，中央纪委监察部网站公布消息，河南省委原常委、洛阳市委原书记陈雪枫涉嫌严重违纪，接受组织调查。知情人士向《财经》记者透露，陈落马的主要原因之一，或是他在主政永城煤电控股集团有限公司（下称永煤集团）期间涉及的经济问题。</p>
+<p>在中央纪委公布其落马信息之后的两个月内，进驻永煤集团的专案组一直未停止调查。综合多位知情人士消息，专案组从相关企业带走十余人，目前至少仍有三人未获自由。</p>
+<p><strong>起家煤企</strong></p>
+<p>断送陈雪枫政治前程的永煤集团，曾经是他创造辉煌的福地。</p>
+<p>永城市位于河南省东南部，临近安徽、山东、江苏，地处四省交汇。永城矿产资源丰富，地下储煤面积1216平方公里，是全国六大无烟煤基地之一，永煤集团位列中国企业500强之一。</p>
+<p>永煤集团于1989年开工建设，是国家“八五”、“九五”计划的重点建设项目，全套设备从西方发达国家引进，设计为综合机械化采煤模式，总投资50亿元。1997年第一对矿井投产，适逢煤炭价格低迷，连年亏损。1999年亏损额为8700万元，负债率高达80％，是河南省第二大亏损企业。</p>
+<p>2000年7月，陈雪枫调任永煤集团总经理，随后任董事长、党委书记。</p>
+<p>陈雪枫在2002年接受媒体采访时说，他对永煤集团进行了深入的思考，“尽管永煤集团债务负担重、亏损多，但是比较优势很多，潜力巨大。比如说矿区煤质好，储量大，机械化程度高，距离华东运距短，企业用人少等等。”</p>
+<p>陈的发展构想是，“首先努力提高产量，达到规模效益”，随后“调整产品结构适应市场，调整产业结构实现持续发展，调整产权结构把企业做大做强”。</p>
+<p>永煤集团后来的发展验证了陈雪枫的设想。永煤集团1999年产煤160万吨，2000年产煤280万吨，2001年成功扭亏，产煤404万吨，实现利润2600万元，2002年突破500万吨，实现利润1.4亿元，之后连续多年产值、利润翻番。</p>
+<p>2003年3月，永煤集团与上海宝钢集团公司签约合作，开创全国煤炭企业与钢铁企业合作的先河，并按此模式签约武钢、马钢、沙钢、莱钢等20多家知名企业。</p>
+<p>2004年，永煤集团联合上海宝钢集团公司与世界第一大矿业公司、巴西淡水河谷公司合作，一次性引入投资16.6亿元，使旗下河南龙宇能源股份有限公司成为全国首家煤炭行业的大型中外合资企业。</p>
+<p>除了煤炭主业在省内外飞速地兼并扩张，永煤集团还收购了四个铝土矿和一个钼矿，涉足有色金属的开采和加工；重组了洛阳LYC轴承有限公司，进军装备制造业；兼并整合多家煤化工企业，并延伸产业链至煤炭贸易、钢铁贸易等领域。</p>
+<p>公开报道称，2007年底永煤全资或控股兼并整合的企业近60家。“永城煤业2010年主体长期信用评级报告”显示，至2008年，永煤集团产煤1830.4万吨，营业收入513亿元，总盈利50亿元。其在2008年中国500强企业中排名130位，在中国煤炭工业100强企业中排名第4位，是河南省工业企业产值利润的第一名。</p>
+<p>永煤集团大力发展的原因离不开市场环境——当时，煤炭价格从约100元每吨飙升至超过700元每吨。即便如此，陈雪枫的眼光和管理能力也被一些人称道。</p>
+<p>永煤集团一名老员工告诉《财经》记者，在永煤集团亏损期间，陈雪枫为了抓生产，吃住在矿上，几乎全年无休，经常半夜召集领导层开会，身为董事长常常亲自下井解决技术问题以提高效率降低成本。</p>
+<p>创造了“永煤现象”的陈雪枫，也因此获得了国家有突出贡献专家、全国劳动模范、全国优秀党务工作者、全国五一劳动奖章等众多荣誉。</p>
+<p><strong>重组大计</strong></p>
+<p>1958年9月，陈雪枫出生于河南省开封市杞县葛岗镇郭寨村一个农民家庭，幼年即失去母亲，他自述“靠吃百家饭长大”。陈雪枫成年后娶邻近的板木乡马桥村孟宪玲为妻。</p>
+<p>1982年，陈雪枫毕业于中国矿业学院，分配到河南省义马市矿务局观音堂矿任技术员，曾获省级劳动模范称号，并拥有多项采煤专利，历任厂长、副矿长、矿长，2000年从义马矿务局副局长的职务上调任鹤壁煤业集团公司（下称鹤煤集团）总经理。</p>
+<p>知情人士称，时任鹤煤集团董事长李永新在该企业一步步成长起来，根基深厚。在他的手下，工作作风强势的陈雪枫不时与之发生冲突。</p>
+<p>仅过半年，陈雪枫离开鹤煤集团。当时严重亏损的永煤集团在河南煤业版图中并不起眼，无法与鹤煤集团和义马矿务局相比。离开鹤煤集团时，陈雪枫公开称：“谁在鹤煤集团跟着李永新干得不顺心，到永煤找我老陈，一定重用。”有多名鹤煤集团的中层干部跟随他到永煤集团。除此以外，陈雪枫还从工作多年的义马矿务局挖走一批技术和管理骨干。</p>
+<p>这些人构成了他在永煤集团的基本班底，一些人后来进入河南能源化工集团有限责任公司（下称河南能化）担任领导职务。</p>
+<p>2006年左右，带领永煤集团成为河南煤炭行业第一之后，陈雪枫多次向省委高层建议，将河南省的煤炭企业跨地区合并为大企业集团，“煤企重组、做大做强”。</p>
+<p>当时，国务院及各部门鼓励全国煤炭企业兼并重组，在山西、内蒙古、河南、陕西等地形成一批年产5000万吨以上的特大煤炭企业集团。在这个背景下，陈雪枫的提议得到河南省委主要领导的支持。</p>
+<p>陈雪枫的第一个目标是位于濮阳市的中原大化集团有限责任公司（下称中原大化）。陈雪枫强势的性格此时已闻名河南煤炭行业。时任中原大化集团董事长陈留栓不愿屈居其下，找到同在豫北的鹤煤集团，与李永新一起向河南省高层汇报，以地缘优势为由建议后两者合并。</p>
+<p>他们的理由获得认可。河南省国资委于2007年7月18日出台的《关于加快省管企业战略重组的指导意见》提出，鹤煤集团和中原大化要充分利用地缘和资源优势，加快实施联合重组。</p>
+<p>同一个文件提出，永煤集团和义马矿务局改制而成的义马煤业集团有限公司（下称义煤集团）合并重组成立河南煤业化工集团。</p>
+<p>很快，中原大化和鹤煤集团合并重组而成的河南中原煤化集团挂牌成立，永煤集团和义煤集团的合并重组却遇到麻烦。</p>
+<p>时任义煤集团董事长武予鲁亦为河南煤炭行业资深人士，他与陈雪枫争夺重组主导权，希望成为新成立的河南煤化集团掌门人。</p>
+<p>陈雪枫则向省委省政府提出一个更为宏大的计划：排除义煤集团，以永煤集团为基础将河南省煤炭行业的主要企业全部重组为河南煤化集团。这一次，陈雪枫的计划被采纳。2008年12月5日，河南煤业化工集团（下称河南煤化集团）成立，成员单位为永煤集团、焦作煤业集团有限公司（下称焦煤集团）、鹤煤集团、中原大化以及河南省煤气（集团）有限公司，陈雪枫任董事长。</p>
+<p>尽管没有义煤集团，新成立的河南煤化集团2008年营业总收入达821亿元，利税93亿元，利润56亿元，煤炭产量超过4500万吨，按照当年营业收入位居中国煤炭企业100强第3位、中国企业500强第68位。</p>
+<p><strong>亲随入职</strong></p>
+<p>2008年5月，中原大化董事长陈留栓落马，其于2009年4月被以受贿罪判处有期徒刑14年。</p>
+<p>而河南煤化集团成立之际，鹤煤集团董事长李永新也于2009年5月调任河南省安监局副局长。</p>
+<p>名义上，焦煤集团、鹤煤集团、中原大化及河南省煤气集团的原主要负责人都进入新成立的河南煤化集团高管团队。但据多名知情人介绍，不少重组企业的高层，没有实权。</p>
+<p>2010年4月，李永新被纪委双规。落马的还有，鹤煤集团原党委书记刘顺山、鹤煤集团原总会计师宋鹏，以及鹤煤煤电公司原总经理郝林杰等人。中原大化集团原副董事长、副总经理刘进修2011年被纪委双规，后因受贿罪获刑7年。</p>
+<p>2011年，河南煤化集团进入世界500强企业名单。当年1月，陈雪枫被任命为河南省人民政府副省长、党组成员，分管工业发展、安全生产、经营性国资监管等。但据了解，他在河南煤化集团位于郑州国龙大厦29层的200平方米办公室一直为其保留。</p>
+<p>2013年7月，陈雪枫升任河南省委常委、洛阳市委书记。在这段时间前后，河南煤炭企业“地震”却延续至今，仍然余波未息。</p>
+<p>2013年4月1日，焦煤集团副总经理张永发坠楼身亡，原因未公布。2013年7月25日，义煤集团原董事长武予鲁被纪委双规，十天之后义煤集团被并入河南煤化集团，后者遂更名为河南能化。</p>
+<p>2013年12月22日，郑煤集团原董事长孟中泽被纪委调查。2014年8月11日，郑煤集团党委原常委、郑煤电原总经理祁亮山也被调查。在孟中泽之前任郑煤集团董事长的杜工会亦于2014年被带走。</p>
+<p>后来，武予鲁因贪污、受贿、内幕交易、非法持有枪支数罪并罚，一审获刑20年。</p>
+<p>曾被当地媒体称为“中原第一大案”的鹤煤集团高管贪腐窝案也宣判结果。其中，李永新贪污290余万元，受贿887万余元，挪用公款6450万元，获判无期徒刑；郝林杰贪污55万元，受贿44万元，获刑16年余；宋鹏受贿119万元，获刑14年。</p>
+<p>前述知情人士称，导致陈雪枫落马的突破口是永煤集团原内部人的举报，涉及永煤集团在某个合作项目中的巨额利益输送。至于永煤集团人员举报陈雪枫的原因，据称主要是陈雪枫在管理过程中存在任人唯亲的现象。</p>
+<p>2011年陈雪枫转入政界时，河南煤化集团成为世界500强企业之一，但之后走向没落。</p>
+<p>2013年吞并义煤集团后，河南煤化集团巨亏8.43亿元，2014年亏损则超过10亿元。</p>
+<p>据《东方今报》报道，河南能化现任董事长陈祥恩称，因为产能过剩、需求放缓、价格下跌，煤炭企业生存发展陷入困局。公司管理层普遍降薪幅度至少达20％至30％，处级以上管理层至少降薪20％，而一线工作人员工资也有不同程度的下调。</p>
+<p>知情人说，河南能化目前的困境与陈雪枫过激的扩张策略密不可分。他大力扩充产能并进行多元化投资，摊子铺得太大，经济形势好时自然顺风顺水，但经济形势一旦有所改变，产能即严重过剩，资金链马上绷紧。</p>
+<p>前述知情人士称，降薪甚至拖欠工资，引起包括永煤集团人员的普遍不满。一些永煤人反映陈雪枫早期重用一些技术和管理骨干，后期提拔司机、“干儿子”等亲随，特别是其妻孟宪玲的多名亲属，被提拔为集团的中层领导。</p>
+<p>《财经》记者拨打其中多人的电话求证，只有一位予以回应。她承认和陈雪枫、孟宪玲是亲属，但称“平时不怎么来往”。</p>
+<p>陈雪枫落马之后，多名河南能化高管和孟宪玲亲属被有关部门带走。不过，大部分人陆续被释放，但至少有三人至今未获自由。</p>
+<p>永煤集团安监局长王珏称永煤集团的生产和安全一切正常。</p>
+<p><strong>本文刊于2016年3月21日出版的《财经》杂志</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E4%B8%93%E7%A8%BF-%E6%B4%9B%E9%98%B3%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E9%99%88%E9%9B%AA%E6%9E%AB%E7%9A%84%E7%85%A4%E4%B8%9A%E7%94%9F%E6%B6%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E4%BA%BA%E5%94%AF%E4%BA%B2/?category=18271" rel="tag">任人唯亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B8%E7%85%A4%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">永煤集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%82%AD/?category=18271" rel="tag">煤炭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98/?category=18271" rel="tag">经济问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E7%A1%AE%E8%AE%A4%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%A2%AB%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">端传媒｜媒体人贾葭确认于北京机场航站楼被带走</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg" rel="attachment wp-att-432144"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=400%2C531" alt="寻找贾葭" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=226%2C300 226w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=768%2C1020 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?resize=771%2C1024 771w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cdz4SH8VIAAJTWX.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><em>（“寻找贾葭” by <a href="https://twitter.com/badiucao/status/710715833605955584">巴丢草</a>）</em></p>
+<p>贾葭的律师燕薪告知端传媒记者，刚刚从北京市公安局首都机场分局获知：“因涉及一起案件，北京市公安局从机场航站楼将贾佳（贾葭实名）带走，机场分局刑警参与协助。”燕薪表示，这意味著事件有望进入法律程序。</p>
+<p>另外，据多方消息渠道证实，除了贾葭之外，公开信事件还卷入了包括无界新闻员工在内的其他人，亦有多位无界新闻员工已确认失联。由于事件的极度不透明，恐惧气氛蔓延北京新闻界。</p>
+<p>3月15日晚上8点多，刚刚出版了新书《我的双城记》的贾葭从北京飞往香港，带著这本自己在北京和香港两地的观察笔记，计划参加两天后在香港城市大学的一场分享会。然而，他就此消失于双城之间。</p>
+<p>出北京海关之后，晚上8点15分，在首都机场候机大厅，他与身在北京的妻子通了一个电话。11点半，飞机降落香港，但贾葭却失踪了。第二天原定约了他午餐的朋友，没有见到他，也不知道他到底是在北京机场、或是飞机、或是在香港怎么失踪、又或者被什么人带走的。</p>
+<p>现年35岁的贾葭是中国著名媒体人及专栏作家，南京大学中文系毕业，前腾讯《大家》主编，曾任职多家中港媒体，包括2015年5月至9月间在端传媒任职，持中国护照及香港居民身份证，在Twitter上有超过8万粉丝关注。</p>
+<p>事件并非没有预兆。</p>
+<h3><strong>卷入无界公开信事件</strong></h3>
+<p> <br>
+3月14日，刚刚从美国度假回到北京的贾葭曾向友人透露，自己在陕西的亲人近日遭到公安系统的调查问话，内容是关于3月4日零点突然出现在大陆网络媒体“无界新闻”主页上的一封公开信。这封公开信的标题是《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/">要求习近平同志辞去党和国家领导职务</a>》，署名是“忠诚的共产党员”，出现在无界网站上的时间刚好是两会的开幕日，一度引起了海外媒体的注意和转发。</p>
+<p>公开信出现后不久，无界新闻网站关闭，恢复运行时，这篇文章已经没有了。无界内部传闻是被黑客攻击，但并没有发任何正式声明谈及此事。</p>
+<p>无界传媒是2015年4月由新疆维吾尔自治区、财讯集团、阿里巴巴三方联合入股成立的新媒体，一向被视作官方为新疆宣传、为一带一路铺路的媒体布局。</p>
+<p>贾葭对于自己家人因此事被调查感到诧异，也忧虑自己被卷入其中，因此3月14日，他委托了律师燕薪作为自己的代理人，以备需要。燕薪其后在接受端传 媒采访时说，他并不知道贾葭与无界公开信之间的关系，而贾葭本人明确告诉他：“他说自己与这封公开信没有任何关系，当时只是作为一个普通网友看到，提醒了 在无界工作的朋友（执行总裁欧阳洪亮，编者注）。”</p>
+<p>因为答应了香港城市大学媒体与传播系的演讲邀约──3月17日上午，与作家周洁茹对谈“谁的香港？两个槛外人”，贾葭计划3月15日飞往香港。</p>
+<p>在家人受到调查之后，虽然他持有香港居民身份证，他一度担心自己出入境遇到问题，还曾经问朋友，该先去深圳，从深圳自助通关到香港，还是直接从北京飞香港。他最终买了去香港的机票，并在3月15日晚上8点离开北京海关后失联。</p>
+<h3><strong>律师在北京公安局查询一无所获</strong></h3>
+<p> <br>
+朋友猜测，他可能触发<a href="http://baike.baidu.com/view/3188774.htm">“边境控制”机制</a>，被警方控制。而如果警方控制只是普通传唤，需在24小时之内释放，如果超过24小时，则会变更强制措施为“刑事拘留”，或者“指定监视居住”。</p>
+<p>3月16日晚，贾葭失联24小时后，他的朋友在社交网络中发出了他“下落不明”的简要通告，并提到怀疑与无界公开信事件有关。</p>
+<p>3月17日晚，贾葭失联48小时之后，包括《卫报》、路透社、美国之音、《苹果日报》、《明报》、台湾风传媒等众多海外媒体报导了事件。</p>
+<p>3月18日上午10点半，律师燕薪与贾葭的妻子一起来到北京公安局<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94%E8%B6%8572%E5%B0%8F%E6%97%B6-%E5%AE%B6%E4%BA%BA%E5%BE%8B%E5%B8%88%E6%9F%A5%E8%AF%A2%E6%97%A0%E9%97%A8/">查询</a>，又到石景山公安分局报人口失踪，但一无所获：“我们既没有收到刑事拘留通知书，也没有收到指定监视居住通知书，因为没有正式的通知书，我们在北京公安局的接待窗口就被拦了回来，没有任何答复，甚至见不到任何具体的负责人。”燕薪在接受端传媒记者采访时说。</p>
+<p>燕薪又曾致电机场分局查询，未能查获贾的案件信息；找机场内警察查询航班动态，以贾葭的身份证、护照、港澳通行证查了个遍，皆无航班信息；航空公司则以涉及个人隐私为由，拒绝查询。</p>
+<p>有12年律师执业经验的燕薪对端传媒说，目前自己对这个案件实质上一无所知：“贾葭是否已经被控制，处在哪一个案件之中，是否与无界新闻公开信事件有关，什么部门在经办此事，从法律角度来说，完全没有消息。没有通知书、没有抓捕现场、没有见证人……现在所有的判断都只是猜测。”</p>
+<p>燕薪说，在过去的同类案件中，这样的状况很少见，但也并不是没有。“在传知行案件中，黄凯平也是很长时间不知道去向，寇延丁的案件中，也是所有人都不知道她人在什么地方，直到三个月后人自己被放出来……”燕薪表示，黄凯平和寇延丁，受香港占中等政治事件波及，“被失踪”几个月后获释，甚至都没有合法的强制措施名目。</p>
+<h3><strong>案件若涉及国家安全，无需通知家属</strong></h3>
+<p> <br>
+此外，根据中国刑事诉讼法第73条，被指定居所监视居住的，除无法通知的以外，必须在24小时以内，通知被监视居住人的家属。而根据第83条，除了无法通知的情况下，被拘留者的家属会在拘留开始后的24小时内获得通知；除非案件涉及国家安全或恐怖活动，通知可能有碍调查，则可以不作通知。因为贾葭在失踪48小时后仍无音讯，燕薪对贾葭所涉及的案件情况，感到“不太乐观”。</p>
+<p>在没有任何消息的寂静中，贾葭的读者们在社交网络中转发起他近年来所写的专栏文章，其中转发最多的，是他新书《我的双城记》的序言。</p>
+<p>在<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E6%96%B0%E4%B9%A6%E8%87%AA%E5%BA%8F%EF%BC%9A%E8%AF%B7%E4%BD%A0%E4%BB%AC%E7%AD%89%E7%9D%80%E6%88%91%E5%9B%9E%E6%9D%A5%EF%BC%8C%E6%88%91%E4%BC%9A%E5%9B%9E%E6%9D%A5/">这篇序</a>中，贾葭写：“在一些公开场合，我喜欢被人称为专栏作家，这样可以较为自由、不带顾虑地独立发言，既不会牵涉我所供职的公司，也不会给别人带来媒体所携带的那种不安。其实，我根本也算不上作家，也不会失心疯地要加入中国作协。我就是个码字儿的文字工作者。在没有正经工作的时候，写专栏是我唯一的收入来源。”</p>
+<p>在辗转几个城市的生活中，他形容自己既是“京漂”，也是“港漂”。</p>
+<p>“北京在哪里？北京是什么？北京代表著、意味著什么？……在这座城市里，我是什么状态？我的焦虑感、紧张来自何处？我何以能够弥合内心里和这座城市深层次的鸿沟？”</p>
+<p>“因为一个偶然的机会，我在2011年的春天到了香港工作……香港的生活对我个人而言，称得上是一次脱胎换骨般的改变。……站在这个城市的街道上，有一种无形的力量让我感到畅快、自由与安逸。”</p>
+<p>他说，这本书里是2012年之前的北京和香港。而近两年，“北京逐渐让我有种厌倦的情绪”，香港则“价值与身份认同都出现了严重的危机，这也让空气中的硝烟味道愈加浓烈。”</p>
+<p>“我眼睁睁看著，两岸三地一个新时代的到来。这个时代有一种新的叙事，由更年轻的人去主导，看著他们就觉得自己已经老了。”</p>
+<p>在文章最后，他对不知道是北京，还是香港的读者说：“请你们等著我，我会回来。”</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E7%A1%AE%E8%AE%A4%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%A2%AB%E5%B8%A6%E8%B5%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432503/" target="cdt-mirror">psy-eyes｜唐映红：凭什么异议者的观点就必须是正确的？</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640-4.jpg" rel="attachment wp-att-432505"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640-4.jpg?resize=500%2C281" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640-4.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640-4.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>Q&A160321</p>
+<p><strong>问：凭什么异议者的观点就必须是正确的？</strong></p>
+<p>答：生活中，许多人常常会陷入类似的困惑：<strong>主流的舆论固然不可信，但那些异议者的观点又凭什么可信呢？</strong>或者，换句话说，<strong>你们认为权力集团炮制的是假相，那么你们又何以证明自己的主张就是正确的呢？</strong>以至于相当多的人们，包括不少知识精英会困在<strong>相对主义的泥潭</strong>中难以自拔。</p>
+<p>客观而言，<strong>没有任何理由确保异议者的观点就是正确的，也没有任何理由确保异议者就一定会表达正确的意见。</strong><strong>异议者的价值不在于他们所说或所主张的是否正确，而在于对主流舆论的质疑。</strong>只要他们的质疑有理有据，就足以彰显异议者的价值，而不必苛求于他们的主张正确几何。</p>
+<p>事实上，无论在怎样的社会情境下，<strong>主流的舆论都具有强大的影响力。</strong>从心理学角度，哪怕是在自由的社会中，大多数人都会倾向于追随主流的观点，哪怕他们内心其实并不完全认同。这在社会心理学里被称为<strong>从众</strong>(conformity)。心理学家阿希(Solomon Asch)在他经典的实验中就曾发现，即使面对三条长短明显不一的线段，超过四分之三的被试也会追随大多数人明显错误的判断。<strong>遑论在纷繁复杂的社会议题，人们趋附主流舆论的倾向就愈加地明显。</strong>如果在这个过程中，再加上舆论的强力管制，对异议予以不遗余力的压迫、钳制和迫害，那么人群对主流舆论的追随将趋于极致。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6402-1.jpg" rel="attachment wp-att-432504"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/6402-1.jpg?resize=300%2C250" alt="6402" data-recalc-dims="1"></a></p>
+<p>但是，人类社会发展迄今，社会议题往往交织了太多复杂微妙的因素，<strong>主流舆论固然在自由的情况下反映了大多数人的倾向和诉求，但仍然可能只是多数人的偏见。</strong>而且，<strong>主流舆论越是凝聚了更多人的共识，人们就会在舆论压力下更可能失去理性判断力，对观点和决策的潜在威胁视而不见，人们会不由自主地陷入思维定势而趋于片面和短视。</strong>因此，<strong>逆主流的异议观点对于促进更多的人深入思考、理性判断大有裨益。</strong>异议者通常更容易指出大多数人忽视的重要因素，甚至隐患，特别对于公共决策来说必不可少。心理学家詹尼斯(Irving Janis)在对美国的政府决策研究中，以令人信服的依据发现了<strong>缺乏对异议的尊重和耐心听取下，即便自由如美国也同样造成灾难性的公共决策。</strong>造成这种灾难性公共决策的主要原因就在<strong>当一个决策群体为了维护内部的和睦以及达成共识的压力而压制异议，</strong>这种现象也被称为<strong>群体思维</strong>(groupthinking)。<strong>那些崇尚团结、友好以及凝聚力强的群体，忽视甚至压制异议；以及从自己喜好出发的支配型的领导人，都是孕育群体思维的温床。</strong></p>
+<p>由此不难看出，<strong>异议者的价值恰恰在于对主流舆论或观点的质疑和批评，而且越是显得团结一致、整齐划一的主流舆论，异议的价值就越是弥足可贵。</strong>在一个正常的社会情境中，<strong>人们无论是趋同主流观点，还是提出异议，往往都是从自己的利益立场出发。</strong>当人们对一个社会的公共议题的主流舆论无关痒痛时，一般来说也就不会劳心费神地进行深入的思考，更可能像个<strong>认知吝啬鬼</strong>(cognitive misers)一样地人云亦云；<strong>只有当公共议题的主流舆论可能危及自身的利益时，人们才更可能深入细致地对主流观点进行批判性的思考，进而提出异议。</strong>从这个角度，因为异议者“出于私利”而无视、排斥、打压他们，是完全不成立，也站不住脚的。人们出于“公心”而提出异议固然可贵，但<strong>出于私利而提出异议，抵制主流观点或舆论，完全是人性之自然。</strong>要求异议者只能出于“公心”而不能有“私心”，如果不是<strong>对人性和社会生态的无知，那就必然是道德上的无耻。</strong></p>
+<p>同时，<strong>要求异议者必须“正确”，或者要求异议者提出的主张要比主流意见更“正确”，在绝大多数公共议题上都可能无理的苛求。</strong>由于绝大多数社会议题都具有<strong>歧义和多义性</strong>，<strong>在不同角度、层面和途径进行解读，有着大相径庭甚至截然不同的理解和解释。</strong>正是由于每个人的倾向性观点往往受到个体的经验、理解力、预期、立场、利益、情境等多维因素的影响，每个人提出或接受的主张都往往只反映了事务或现象的某一面，难免忽视、误解乃至曲解另几面。由于人们的态度倾向具有自动过滤认知加工信息的<strong>知识功能</strong>(knowledge function)，使得人们<strong>往往只接受与自己态度倾向一致的信息，忽略或无视那些与自己态度倾向不同的信息</strong>；同时，人们又<strong>本能地会高估与自己态度倾向一致的观念的重要性和价值，而严重低估相对的观念。</strong>所以，何谓“正确”，何谓“错误”本身就是一种基于态度倾向的评估判断。在大多数情况下，<strong>不同立场针锋相对的观点提出者，均会深信自己的意见才是真正“正确”的，而别人不过是陷入缪识而不自知。</strong></p>
+<p>不仅如此，<strong>人类的智力具有将片面的见解自圆其说的天然倾向</strong>。举个例子，对于基督徒而言，这个世界包括人类都是上帝意志的产物，他们所笃信的这个观点是嵌在一整套逻辑自洽的神学意识形态里面的；而对于无神论的科学家而言，这个世界包括人类都可以抛开任何超自然的力量来予以逻辑自恰的简洁解释。在生活中，那些辩论高手无论抽到正方还是反方的观点，都能有理有据地将另一方驳倒。从这个意义上，<strong>苛求异议者必须“正确”就显得可笑。</strong></p>
+<p>更重要的是，由于社会议题不仅复杂、多维、多义以及充满歧义，而且每一个社会议题实际上同时也是动态的、生态的。<strong>某个社会议题的“正确性”不是由某一个片面的观点或见解来体现和反映，而是由众多多元化，甚至是互相颉颃的一个意见生态所构成。</strong><strong>这种意见生态包含了不同立场、角度、层面以及途径所表达的不同的观点和意见，每一种意见都有其部分的合理性，以及特异性的价值反映。</strong><strong>当这些不同的意见、观点诉求是经过自然博弈形成的，那么这个意见生态就更可能是“正确的”。而如果某一些意见、观点诉求因为种种原因而被忽视、压制或者噤声，那么所形成的意见生态就更可能偏离“正确”，蹈入群体思维的泥潭，甚至带来灾难性的后果。</strong></p>
+<p>另一方面，<strong>某一个社会议题的意见生态又是动态发展变化的，随着时间、人群的观点变迁而相应地发生着动态的变化</strong>，所谓时移世易，彼时之蜜糖，此时之砒霜。在一个正常的社会中，只要人群的博弈是动态的，那么相关议题的意见生态也必然是动态的。特别是在不同观点的交流互动中，<strong>人们随时都可能修正甚至改变既然的态度倾向</strong>。所以，像在美国大选这样的重大社会议题进程中，每一周，甚至每一天，每一时社会舆论对某一候选人的支持率都在发生着微妙的动态变化。即使投票前一天完全符合统计学要求的抽样调查得出的民意数据，也不足以百分百地预测第二天的投票结果。</p>
+<p>因此，苛求异议者的观点必须“正确”，对普通人群而言，是基于<strong>对社会科学的缺乏了解</strong>。对所谓的<strong>知识精英</strong>而言，或者是<strong>缺乏足够的方法学训练，只能理解教条的知识</strong>；或者根本就<strong>反映了智力的懒惰，不愿诉诸审慎的理性的思考</strong>；或者干脆就是<strong>道德的懦弱，以自欺欺人的所谓理中客模样来掩饰既缺乏勇气，又伪善的面目。</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" rel="attachment wp-att-416940"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png?resize=300%2C302" alt="psy-eyes" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png?w=427 427w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432503/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%8F%97%E5%AE%B3%E8%80%85%E7%9A%84%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/" target="cdt-mirror">旧闻评论｜宋志标：没有受害者的疫苗之殇</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/001qG2rCzy70hppEzZPf5690.jpeg" rel="attachment wp-att-432467"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/001qG2rCzy70hppEzZPf5690.jpeg?resize=400%2C647" alt="001qG2rCzy70hppEzZPf5&690" data-recalc-dims="1"></a><br>
@@ -45,7 +181,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">媒体监督</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A6%E7%9F%B3%E8%B0%88%E6%B6%89%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E4%BC%9A%E6%9F%A5%E5%88%B0%E5%93%AA%E9%87%8C/" target="cdt-mirror">美国之音｜韦石谈涉习公开信事件会查到哪里</a>
 </h2>
@@ -606,78 +742,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/432245/" target="cdt-mirror">【网络民议】“扎克伯格真是又红又专，看的我都不好意思”</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8811.56.24.png?resize=515%2C385" alt="Screen Shot 2016-03-19 at 上午11.56.24" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.56.24.png?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.56.24.png?w=515 515w" sizes="(max-width: 515px) 100vw, 515px" data-recalc-dims="1"></p>
-<p>北京时间3月19日，主管意识形态的政治局常委刘云山会见了赴京参加“中国发展高层论坛”的Facebook创始人扎克伯格。当天晚上的CCTV新闻联播在开始后约5分40秒时播放了会见的画面，并概括了谈话内容。扎克伯格继前一天冒着雾霾在天安门晨跑后，再次强化了“中国人民老朋友”的形象。</p>
-<p>网友猜测扎克伯格上新闻联播是Facebook回归中国大陆市场的开始。不过，微博上对关于此次会见的帖子审查十分严格。比如，“头条新闻”发布相关微博转发量在1200以上，评论却只有12条，而且均为“正面”评论。而前一日，同为“头条新闻”发布的马云对话扎克伯格的消息，则可以正常评论。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8810.50.16.png?resize=550%2C266" alt="Screen Shot 2016-03-19 at 上午10.50.16" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.16.png?resize=300%2C145 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.16.png?w=683 683w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8810.50.25.png?resize=550%2C512" alt="Screen Shot 2016-03-19 at 上午10.50.25" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.25.png?resize=300%2C279 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.50.25.png?w=648 648w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8811.19.39.png?resize=550%2C271" alt="Screen Shot 2016-03-19 at 上午11.19.39" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.19.39.png?resize=300%2C148 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午11.19.39.png?w=682 682w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>在为数不多的可见评论中，有网友表示“论跪舔能力，我只服扎克伯格”，另一些人则说扎克伯格是个商人，想要赚钱，想要把自己的企业推广到大陆，但并没有“作恶”。也有人表示，即使Facebook真的进了中国，也不一定有太大的竞争力，因为本土的社交媒体已经满足了人们的需求。微信上也有众人吐槽扎克伯格上新闻联播一事：看来前一天没有白为人民服雾。</p>
-<p><strong>扎克伯格近年向中国示好大事记：</strong></p>
-<p>2014年10月，扎克伯格在清华大学与师生见面，全场用普通话与主持人和观众问答。</p>
-<p>2014年12月，中国国家互联网信息办公室主任鲁炜访问Facebook总部，扎克伯格陪同参观，用普通话讲解。还向鲁炜展示自己放在办公桌上的《习近平谈治国理政》，并说：“这本书我也给同事买了，我要让他们了解中国特色社会主义。”</p>
-<p>2015年9月，习近平访美，在西雅图会见一众IT老总。扎克伯格在Facebook上晒出了与习近平用中文交谈的经历，说这是自己第一次用第二外语和外国领导人交流，是一大个人成就。后来中文媒体的报道中还提到扎克伯格请习近平为自己即将出生的女儿起名字，被习婉拒。</p>
-<p>2016年初，扎克伯格与自己的华裔妻子普莉希拉·陈和新生女儿Max（中文名陈明宇）一同拍摄了中文视频向网友拜年。</p>
-<p><strong>以下为中国数字时代编辑搜集自新浪网友评论：</strong></p>
-<p><a title="一个一卓" href="http://weibo.com/reshell?refer_flag=1001030103_" target="_blank">一个一卓 </a>：我实在不知道<span>扎克伯格</span>还能干嘛了，估计下一步就是在身上纹中文纹身吧：天行健 君子以自强不息</p>
-<p><a title="戈饭" href="http://weibo.com/weifun?refer_flag=1001030103_" target="_blank">戈饭</a>：<span>扎克伯格</span>真是又红又专，看的我都不好意思。</p>
-<p><a title="迢书" href="http://weibo.com/840415999?refer_flag=1001030103_" target="_blank">迢书</a>：怎么忍心批评<span>扎克伯格</span>跪舔呢？他是个商人，想在墙里为用户提供服务，同时赚钱，这何错之有？他反感墙，并没有为墙贡献一砖一瓦。他只是没有选择当英雄，并没有作恶。</p>
-<p><a href="http://weibo.com/u/1867760812">afdsam</a>：这哥们不如他哥（谷歌）有骨气。</p>
-<p><a href="http://weibo.com/u/3645574521">31号少年</a>：就算不用VPN，脸书我也不会花太多时间，因为不好玩</p>
-<p><span><a title="中传王四新" href="http://weibo.com/wang4xin?refer_flag=1001030103_" target="_blank">中传王四新 </a>：扎克伯格</span>的Facebook，看来真的要进入中国了。这个时候进入中国，不会对中国社交媒体已经形成的格局，产生太大的影响。但即便是出于好奇，也会有大量的中国用户试一试这个新玩艺儿。</p>
-<p><a href="http://weibo.com/u/2830174555">西贝-丁</a>：常委怎么与非法网站的头会面？！如果不是非法网站为什么中国上不去？还有比这更撕逼的画面吗</p>
-<p><a href="http://weibo.com/u/1910216644">热爱-阳光</a><i></i>：你都把人家的网站，屏蔽了。还和人家懂事长演戏。 有水平。</p>
-<p><a href="http://weibo.com/u/2261306355">兴国佬表丫</a>：扎克伯格承诺教自己的女儿学中文，这是一份对中华文化的热爱，点赞小扎！</p>
-<p><a title="剥皮的刺猬" href="http://weibo.com/u/1862716783?refer_flag=1001030103_" target="_blank">剥皮的刺猬</a>：当然有时候我也不懂你圈人，即使非死不可进入中国是阉割版的，但我相信它不会变成微博这样，这对你国人来说不是好事？前段时间还为<span>扎克伯格</span>捐款感动，这次就不顾颜面放口大骂了？</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/432245/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/facebook%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">facebook回归中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-131/" target="cdt-mirror">【河蟹档案】你脚下踏过的路，曾被那些学生们的鲜血浸染过</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40MaxGoneMad">MaxGoneMad</a>：SPAM [汗] <em><em><em><em>相关阅读｜《<a href="http://cn.nytimes.com/china/20160318/c18chinazuckerberg/">纽约时报<em><em><em><em>｜</em></em></em></em>扎克伯格在北京雾霾中晨跑，网友“炸开锅”</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB-%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81facebook%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/">华尔街见闻<em><em><em><em>｜</em></em></em></em> 刘云山会见Facebook创始人扎克伯格</a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8810.24.39.png?resize=616%2C340" alt="Screen Shot 2016-03-19 at 上午10.24.39" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.24.39.png?resize=300%2C165 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.24.39.png?w=566 566w" sizes="(max-width: 616px) 100vw, 616px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-27.jpg?resize=553%2C311" alt="444" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-27.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-27.jpg?w=550 550w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3954696052166659" target="/weibo/395">2016年03月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%A2%A6%E6%83%B3%E5%AE%B6naohu1">梦想家naohu1</a>：3月15日：中宣部关于组织观看《白毛女》的通知。<em><em><em><em>相关阅读｜《<a href="http://www.voacantonese.com/content/chinese-govt-dept-promote-revolutionary-show-20160318/3243535.html">美国之音<em><em><em><em>｜</em></em></em></em>中共政要推各地組織 觀看歌劇<白毛女></a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/xl1-03172016100737.html">自由亚洲<em><em><em><em>｜</em></em></em></em>“亚文革”持续发展？中共中央红头文件要求观看<白毛女></a>》；《<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%A4%A7%E5%AE%B6%E6%9D%A5%E7%9C%8B3d%E3%80%8A%E7%99%BD%E6%AF%9B%E5%A5%B3%E3%80%8B/">【习总日记】 大家来看3D<白毛女></a>》</em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-19.jpg?resize=471%2C628" alt="白毛女" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-19.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-19.jpg?w=600 600w" sizes="(max-width: 471px) 100vw, 471px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3953440181093873" target="/weibo/395">2016年03月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%A6%8F%E5%BB%BA%E5%B8%88%E5%A4%A7%E7%A6%8F%E6%B8%85%E5%88%86%E6%A0%A1%E7%94%B5%E4%BF%A1%E5%AD%A6%E9%99%A2%E5%9B%A2%E5%A7%94">福建师大福清分校电信学院团委</a>：<a href="https://freeweibo.com/weibo/%E4%B8%A4%E4%BC%9A%E7%BB%93%E6%9D%9F">#两会结束#</a>两会胜利结束，代表委员们纷纷启程回国，美国、英国、法国、加拿大、澳大利亚…….为了方便前来中国参加两会的代表委员回国，我国边检为此特别开通两会代表委员回国专用“VIP”通道。//*<a href="https://freeweibo.com/weibo/%40%E5%AD%94%E6%99%BA%E5%8B%87_">孔智勇_</a>：你们这些国际友人，身在曹营心在汉，不远万里回来替屁民举手作主，辛苦了！<em><em><em><em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql3-03042016103146.html">自由亚洲<em><em><em><em>｜</em></em></em></em>中国大陆人大政协两会外籍代表再成“众矢之的”</a>》</em></em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-29.jpg?resize=460%2C566" alt="444" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-29.jpg?resize=244%2C300 244w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-29.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3954275836832603" target="/weibo/395">2016年03月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%BD%E5%8A%9B%E5%8B%A4">施力勤</a>：美女，领导还没说让你脱呢[哈哈][哈哈][哈哈]<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-20.jpg?resize=429%2C764" alt="444" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-20.jpg?resize=575%2C1024 575w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-20.jpg?w=719 719w" sizes="(max-width: 429px) 100vw, 429px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-31.jpg?resize=473%2C554" alt="赵克志" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-31.jpg?resize=256%2C300 256w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-31.jpg?w=600 600w" sizes="(max-width: 473px) 100vw, 473px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3952927842118082" target="/weibo/395">2016年03月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%AC%A7%E5%BD%AA%E5%B3%B01">欧彪峰1</a>：這位同學失聯超過50個小時了⋯⋯<em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94%E8%B6%8572%E5%B0%8F%E6%97%B6-%E5%AE%B6%E4%BA%BA%E5%BE%8B%E5%B8%88%E6%9F%A5%E8%AF%A2%E6%97%A0%E9%97%A8/">贾葭失联超72小时 家人律师查询无门</a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-28.jpg?resize=416%2C740" alt="444" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-28.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-28.jpg?w=750 750w" sizes="(max-width: 416px) 100vw, 416px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3954182816310481" target="/weibo/395">2016年03月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【补充】<a href="https://freeweibo.com/weibo/%40%E6%97%B6%E5%85%89%E7%95%99%E6%81%8BDe%E5%AE%8C%E7%BE%8E2016">@时光留恋De完美2016</a> 网友发表评论，说依据刑事诉讼法中无罪推定准则，“未经人民法院依法判决,对任何人都不得确定有罪。”此处的确定有罪，法理上必须是在完成二审终审后才成立。阆中法院是基层法院，所作出的只是一审判决，当事人还可提起上诉，此时公判显然违法。很重要的补充。<em><em><em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/03/160317_ana_china_labour_pay_rights">BBC<em><em><em><em>｜</em></em></em></em>新闻观察：阆中民工讨薪 谁该站在审判台上</a>》；《<a href="https://chinadigitaltimes.net/chinese/2016/03/432014/">【图说天朝】四川阆中8名讨薪民工被公判 曾围堵景区</a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-26.jpg?resize=580%2C370" alt="阆中" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-26.jpg?resize=300%2C191 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-26.jpg?w=580 580w" sizes="(max-width: 580px) 100vw, 580px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3954170488538017" target="/weibo/395">2016年03月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%A2%85%E5%B0%94%E7%BB%B4%E5%B0%94%E4%B8%AD%E8%8D%AF%E5%BA%97">梅尔维尔中药店</a>：腊耄獸起身去双鸭山了！ //*<a href="https://freeweibo.com/weibo/%40%E4%BA%8E%E5%BB%BA%E5%B5%98">于建嵘</a>：“龙煤井下职工8万人，到现在为止，没有少发一个月工资，没有减一分收入。” 3月6日上午，十二届全国人大四次会议黑龙江团组开放。黑龙江省委副书记、省长陆昊针对黑龙江最大的国企龙煤集团改革给予回应。事实证明不是这样后，就责怪下面情况汇报不真实。我只想问：省长难道只靠听汇报混日子的？！<em><em><em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E6%AC%A0%E5%B7%A5%E4%BA%BA%E4%B8%80%E5%88%86%E9%92%B1/">【图说天朝】“不欠工人一分钱”</a>》；《<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%88%98%E6%80%A1%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4%E4%B8%8B%E7%9A%84%E9%99%86%E6%98%8A%E9%97%A8/">刘怡：信息过滤下的“陆昊门”</a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-21.jpg?resize=440%2C631" alt="双鸭山" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-21.jpg?resize=209%2C300 209w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-21.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-24.jpg?resize=458%2C343" alt="444" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-24.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-24.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-24.jpg?w=854 854w" sizes="(max-width: 458px) 100vw, 458px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-23.jpg?resize=438%2C535" alt="444" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-22.jpg?resize=440%2C783" alt="444" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-25.jpg?resize=498%2C280" alt="444" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-25.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/444-25.jpg?w=640 640w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3952620052009226" target="/weibo/395">2016年03月13日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-131/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/3d%E7%99%BD%E6%AF%9B%E5%A5%B3/?category=18271" rel="tag">3D白毛女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%BC%9A%E4%BB%A3%E8%A1%A8/?category=18271" rel="tag">两会代表</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%88%A4/?category=18271" rel="tag">公判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8C%E9%B8%AD%E5%B1%B1/?category=18271" rel="tag">双鸭山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">拖欠工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E9%81%97%E9%A3%8E/?category=18271" rel="tag">文革遗风</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%A8%E8%B7%91/?category=18271" rel="tag">晨跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E5%8E%8B/?category=18271" rel="tag">正压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%8C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2/?category=18271" rel="tag">河北代表团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E8%89%B2%E4%B8%8A%E8%A1%A3%E5%A5%B3%E8%AE%B0%E8%80%85/?category=18271" rel="tag">深色上衣女记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%AF%9B%E5%A5%B3/?category=18271" rel="tag">白毛女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%BF%E5%B7%A5/?category=18271" rel="tag">矿工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BF%E5%B8%AE%E9%97%AE%E7%AD%94%E7%A7%80/?category=18271" rel="tag">穿帮问答秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%A4%B4%E6%96%87%E4%BB%B6/?category=18271" rel="tag">红头文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A8%E8%96%AA/?category=18271" rel="tag">讨薪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%85%8B%E5%BF%97/?category=18271" rel="tag">赵克志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%86%E4%B8%AD%E5%B8%82/?category=18271" rel="tag">阆中市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%98%8A/?category=18271" rel="tag">陆昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%BB%E4%B8%8D%E5%8F%AF/?category=18271" rel="tag">非死不可</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E9%95%BF/?category=18271" rel="tag">黑龙江省长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BE%99%E7%85%A4%E4%BA%95/?category=18271" rel="tag">龙煤井</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB-%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81facebook%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/" target="cdt-mirror">华尔街见闻 | 刘云山会见Facebook创始人扎克伯格</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8810.21.53.png?resize=566%2C452" alt="Screen Shot 2016-03-19 at 上午10.21.53" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.21.53.png?resize=300%2C240 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.21.53.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"></p>
-<p>作者：潘凌飞</p>
-<p>据新华社，中共中央政治局常委、中央书记处书记刘云山19日在京会见脸谱公司创始人兼首席执行官扎克伯格。</p>
-<p>刘云山说，互联网是人类共同的新家园，构建网络空间命运共同体是国际社会的共同责任。习近平主席关于全球互联网发展治理的“四项原则”、“五点 主张”，受到广泛赞同。中国互联网经过20多年发展，走出了一条具有中国特色的发展治理之路。脸谱拥有先进技术和管理方式，希望与中国互联网企业加强交流、分享经验，增进相互了解，推动互联网发展成果更好地惠及各国人民。</p>
-<p>扎克伯格赞赏中国互联网发展取得的成就。他说，中国是互联网大国，在全球互联网领域有重要影响，我们愿更好了解中国、介绍中国，与中国同行一道，通过互联网创造更加美好的世界。</p>
-<p>此次扎克伯格来京可谓是相当高调。昨天，扎克伯格在天安门跑步的照片被朋友圈刷屏。小扎主动来北京“吸霾”，被网友们戏称这才是真正的“非死不可”精神。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-%E4%B8%8A%E5%8D%8810.24.39.png?resize=566%2C312" alt="Screen Shot 2016-03-19 at 上午10.24.39" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.24.39.png?resize=300%2C165 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-19-at-上午10.24.39.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"></p>
-<p>今天，一身西装的小扎又在中国发展高层论坛上与马云谈笑风生，并表示自己一直关注两会和十三五。</p>
-<p>在去年9月23日的西雅图举行第八届中美互联网论坛上，到访的中国国家主席习近平与扎克伯格握手并交谈。事后，扎克伯格在个人脸书上说，“这是我第一次完全用外语和一位世界级领袖交谈。我认为这对我个人来说具有里程碑式的意义。能见到习近平主席和其他领导人是我莫大的荣幸。”</p>
-<p>而随后，9月25日在白宫为习主席夫妇举办国宴，并邀请数名美国商界重要人士出席与会，facebook创办人扎克伯格在席间用中文和习大大交谈，并邀请习主席是否愿意为他的女儿取个中文名字。</p>
-<p>刘云山曾任中央宣传部部长，目前分管宣传舆论工作。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB-%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81facebook%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1/?category=18271" rel="tag">刘云山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E6%99%A8%E8%B7%91/?category=18271" rel="tag">扎克伯格北京天安门晨跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -689,7 +753,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +763,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%95%B0%E4%BA%BF%E5%85%83%E7%96%AB%E8%8B%97%E6%9C%AA%E5%86%B7%E8%97%8F%E6%B5%81%E5%85%A518%E7%9C%81%E4%BB%BD%EF%BC%9A%E6%88%96%E5%BD%B1%E5%93%8D/" target="cdt-mirror">【真理部】《数亿元疫苗未冷藏流入18省份：或影响人命》</a>
+</h2>
+<p><p>澎湃新闻《数亿元疫苗未冷藏流入18省份：或影响人命，山东广发协查函》一文不转载，控制评论不炒作。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>附：澎湃新闻《数亿元疫苗未冷藏流入18省份：或影响人命，山东广发协查函》</p>
+<p>庞某卫胆子很大。</p>
+<p>因非法经营疫苗被判刑后，还在缓刑期间的她就制造了一起案值更大、范围更广的疫苗非法经营案。</p>
+<p>2016年3月11日，山东省济南市公安局食品药品与环境犯罪侦查支队二大队副大队长翟金亮告诉澎湃新闻（www.thepaper.cn），2010年以来，庞某卫与其医科学校毕业的女儿孙某，从上线疫苗批发企业人员及其他非法经营者处非法购进25种儿童、成人用二类疫苗，未经严格冷链存储运输销往全国18个省市，涉案金额达5.7亿元。</p>
+<p>目前，庞某卫母女因涉嫌非法经营罪已被公安机关移送检察机关起诉，案件尚未开庭审理。</p>
+<p>3月15日，济南市食药监局稽查支队支队长郝永刚向澎湃新闻表示，已向全国20个地级市发出协查函，核实疫苗流向和使用单位。</p>
+<p>经庞某卫母女之手售出的疫苗数量可能已无法精确统计。据济南警方透露，在庞住所查扣的26本账本仅记录其1年多的疫苗销售数据，而庞用于结算疫苗款的银行账户5年来进账流水高达3.1亿元。</p>
+<p>“这是在杀人。”北京大学医学部免疫学系副主任王月丹评论称，接种未经2℃-8℃存储冷链运输的疫苗，首要风险是无效免疫。例如狂犬病这类致命性传染病，接种者免疫无效会感染发病死亡。</p>
+<p>王月丹建议，此案所涉及疫苗批发企业及疾控、接种部门等，应追究其相关责任并向公众公开；同时追查所有疫苗流向，找到每一位接种这些疫苗的受害者，为受害者补种疫苗并赔偿。</p>
+<p>现场查获26本账、22张银行卡</p>
+<p>在山东济南市警方开展的一次打击食品药品犯罪“利剑”专项行动中，庞某卫东窗事发被抓获。</p>
+<p>数亿元疫苗未冷藏流入18省份：或影响人命</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410033033352.jpg?resize=551%2C413" alt="W020160318410033033352" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410033033352.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410033033352.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
+警方抓捕庞某卫现场。 警方供图</p>
+<p>落网时，庞在租住屋内还在通过网络联系“生意”，其女正在囤放疫苗的仓库分装疫苗，准备给下线发货。</p>
+<p>该起特大非法经营人用疫苗案，因涉及地方众多、社会危害性极大，被公安部、国家食药监总局列为督办案件，且入选2015年度公安部打击食品药品犯罪十大典型案例。</p>
+<p>数亿元疫苗未冷藏流入18省份：或影响人命</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410034511737.jpg?resize=551%2C367" alt="W020160318410034511737" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410034511737.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410034511737.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
+现场查获的往来记录。 警方供图</p>
+<p>3月11日，参与办案的济南市公安局食药环侦支队民警陈波告诉澎湃新闻，在庞的住处，警方查获销售疫苗账本26本，银行卡账户22个，物流企业收发货信息1200余条；在庞租用仓库内，查扣儿童用脑膜炎、水痘、脊髓灰质炎等疫苗和成人用流感、狂犬病、甲肝等疫苗共计25种，100余箱20000余支。</p>
+<p>庞某卫曾有非法经营疫苗犯罪“前科”。澎湃新闻获取的判决书显示，47岁的庞某卫原是山东省菏泽市牡丹人民医院医生，在该市牡丹区经营东城城区防疫门诊。2009年，庞某卫因非法经营人用二类疫苗，仅其一个人就涉及489万元，被判有期徒刑3年缓刑5年，并处罚金50万元。</p>
+<p>但庞在缓刑期间“重操旧业”，且将非法经营疫苗的生意做得更大更猖狂。</p>
+<p>据济南警方初步统计，在长达5年多时间，庞某卫母女从陕西、重庆、吉林等10余个省市70余名医药公司业务员或疫苗贩子手中，低价购入流感、乙肝、狂犬病等25种人用疫苗（部分临期疫苗），然后加价售往湖北、安徽、广东、河南、四川等18个省、市、自治区247名人员手中。</p>
+<p>涉案金额非常庞大。警方介绍，庞某卫专门用于结算疫苗款的银行账户往来资金信息显示，2010年以来，庞某卫非法经营人用二类疫苗涉案账户累计交易款高达5.7亿元，其中打款2.6亿元、收款3.1亿元。</p>
+<p>多个省份已逮捕6人刑拘10人</p>
+<p>经庞某卫之手售出的疫苗数量和流向信息，可能已无法精确统计和追溯。</p>
+<p>3月15日，济南市食药监局稽查支队支队长郝永刚向澎湃新闻表示，目前根据现场查扣的疫苗和庞某卫的账本记录，已向全国20个地级市发出协查函，核实疫苗流向和使用单位。但庞某卫账本记录以外几年所售疫苗数量和流向已很难查证。</p>
+<p>澎湃新闻从济南警方展示的账本页复印件上看到，上面记录着每一笔向下线人员发货的疫苗品种简称、数量、单价和总货款信息，以及下线人员的姓氏或姓名及所在省份，未记录详细地址。</p>
+<p>据介绍，前述查扣的26本账本分总账、流水账，仅记录了一段时间内的疫苗销售情况，并不完整，但销售金额已达4000余万元。</p>
+<p>若按每支疫苗售价150元（账本记录每支售价5.5元至150元不等）估算，庞某卫从账本显示时间至案发，销售疫苗至少26万支；若按其银行账户进账金额3.1亿元估算（同以150元/支计算），庞某卫5年间所购进、销售疫苗累计逾200万支。</p>
+<p>数亿元疫苗未冷藏流入18省份：或影响人命</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410036365161.jpg?resize=549%2C366" alt="W020160318410036365161" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410036365161.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410036365161.jpg?w=600 600w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"><br>
+现场查获的疫苗。 澎湃新闻记者 权义 图</p>
+<p>但郝永刚表示，庞所售药品中绝大部分为疫苗，还有一些为免疫球蛋白等其他生物制品，不便于估算疫苗数量。</p>
+<p>账本上还显示，大多数疫苗，庞某卫每支仅加价1-2元出售，但销售数量巨大，单笔销售额少则数千元，多则几十万元。</p>
+<p>据济南市公安局掌握的消息，该案发起集群战役后，涉案的医药公司及其业务人员，和疾控部门、接种单位人员，部分已受到当地食药监管部门行政处罚，或被当地警方立案侦查并采取刑事强制措施。</p>
+<p>其中，内蒙古、河南、河北、山东等地已破案21起，逮捕犯罪嫌疑人6人、刑拘10人，取保5人。因涉案人数众多，部分人员还未到案，各地还在侦办中。</p>
+<p>疫苗存在过期、变质的风险</p>
+<p>据济南警方介绍，庞某卫所贩卖疫苗虽然是正规疫苗生产厂家生产的，但其未按规定进行冷链存储和运输，部分属于临期疫苗，流通过程中存在过期、变质的风险。</p>
+<p>数亿元疫苗未冷藏流入18省份：或影响人命</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410038212398.jpg?resize=550%2C366" alt="W020160318410038212398" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410038212398.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/W020160318410038212398.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+警方抓捕庞某卫女儿孙某现场</p>
+<p>办案民警陈波向澎湃新闻回忆，抓捕庞某卫母女当天下着小雨，气温比平时低好几摄氏度。但囤放疫苗的仓库内温度计显示室温已接近14℃，“按规定，疫苗存储运输要求在2℃-8℃，仓库温度已经高出很多”。</p>
+<p>警方发现，在该仓库内有两台用来冻冰块的冰柜。庞某卫将整件的疫苗未经冷藏裸放在仓库内，向下线发货时，用泡沫箱将疫苗配货分装，放入冰块，包裹好后通过快递公司发往全国各地。</p>
+<p>在北京大学医学部免疫学系副主任王月丹看来，庞某卫这样贩卖疫苗等于是在“杀人”。</p>
+<p>王月丹向澎湃新闻表示，接种未经2℃-8℃存储冷链运输的疫苗或过期疫苗，首要风险是无效免疫，例如狂犬病这类致命性传染病，本可通过接种疫苗免疫来避免死亡，但接种问题疫苗导致免疫无效，接种者可能会感染发病死亡。</p>
+<p>此前国内曾发生过接种狂犬病疫苗免疫无效导致接种者死亡的事件。</p>
+<p>2014年7月，安徽省无为县5位村民在接种狂犬病疫苗后，狂犬病病毒抗体仍为阴性，未达到免疫效果，其中一位63岁村民在一个月后因患狂犬病死亡。</p>
+<p>国家食药监总局后通报称，安徽省无为县发生村民接种假人用狂犬病疫苗事件，要求加强基层疫苗流通监管，防范药品流通环节风险。</p>
+<p>“其他的风险可能性较小，例如可能因储存不当导致污染或抗原变性引起不良反应。”王月丹表示，此案所涉及疫苗批发企业及疾控、接种部门等应追究其相关责任并向公众公开；同时应追查所有疫苗流向，找到每一位接种这些疫苗的受害者，为受害者补种疫苗并赔偿。</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%95%B0%E4%BA%BF%E5%85%83%E7%96%AB%E8%8B%97%E6%9C%AA%E5%86%B7%E8%97%8F%E6%B5%81%E5%85%A518%E7%9C%81%E4%BB%BD%EF%BC%9A%E6%88%96%E5%BD%B1%E5%93%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/?category=18271" rel="tag">疫苗之殇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%95%B0%E4%BA%BF%E5%85%83%E7%96%AB%E8%8B%97%E6%9C%AA%E5%86%B7%E8%97%8F%E6%B5%81%E5%85%A518%E7%9C%81%E4%BB%BD%EF%BC%9A%E6%88%96%E5%BD%B1%E5%93%8D/" target="cdt-mirror">【真理部】《数亿元疫苗未冷藏流入18省份：或影响人命，山东广发协查函》</a>
 </h2>
 <p><p>澎湃新闻《数亿元疫苗未冷藏流入18省份：或影响人命，山东广发协查函》一文不转载，控制评论不炒作。</p>
@@ -296,7 +359,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%89%AF%E5%8F%8D%E5%BA%94/?category=18271" rel="tag">不良反应</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97/?category=18271" rel="tag">疫苗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/?category=18271" rel="tag">疫苗之殇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">疫苗贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88/?category=18271" rel="tag">非法疫苗案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-a4%E8%85%B0%E7%88%86%E7%BA%A2%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C-%E7%82%AB%E7%98%A6%E7%8B%82%E6%BD%AE%E6%83%B9%E4%BA%89%E8%AE%AE/" target="cdt-mirror">纽约时报 | “A4腰”爆红中国网络 炫瘦狂潮惹争议</a>
 </h2>
@@ -806,36 +869,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B8%A4%E4%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E8%B4%BE%E8%91%AD%E6%B6%89%E6%A1%88%E8%A2%AB%E5%85%AC%E5%AE%89%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">BBC｜中国媒体专栏作者贾葭“涉案”被公安带走</a>
-</h2>
-<p><p>香港《苹果日报》台湾版报导了贾葭的“失踪”</p>
-<p>中国媒体专栏作者贾葭的律师向BBC新闻网透露，此前一直下落不明的贾葭“因涉及一起案件”，被北京市公安局“3月15日从机场航站楼带走”。</p>
-<p>贾葭，实名贾佳，自3月18日晚上起失去联络，当时他正要登上飞机前往香港。</p>
-<p>有人相信他曾就一封呼吁国家主席习近平辞职的匿名信件被刊载上网而发出过提醒。</p>
-<p>该封信件短暂出现在一个有政府背景的网站上，但很快被删除。</p>
-<p>表面上看来，这似乎是在当局着意提升习近平形象的背景下，一系列高姿态审查当中的最新一次事件。</p>
-<p>他的律师燕薪告诉BBC说：周日（3月20日）下午从北京市公安局首都机场分局获知：因涉及一起案件，北京市公安局3月15日从机场航站楼将贾佳（贾葭实名）带走，机场分局刑警参与协助。</p>
-<p>但外界目前仍不清楚贾葭所涉案件的详情。</p>
-<p>匿名信？</p>
-<p>3月4日，有关的信件在与政府有联系的无界新闻网上出现时，立即引起了注意。</p>
-<p>信件是写给习近平主席的，信中呼吁他辞职，并指他“将权力全面抓到自己的手里”，纵容“个人崇拜”，还从外交政策到经济决策等方面对他提出了批评。</p>
-<p>该信的落款是“忠诚的共产党员”。</p>
-<p>在媒体上公然出现对中国政府和习近平的直接批评，这种在中国大陆几乎前所未闻，更别说是有政府关系的媒体了。</p>
-<p>消息指，贾葭坚称自己和那封信无关，但他看到信件被刊载后，向无界新闻的一个编辑、他的朋友欧阳洪亮发出了提醒。</p>
-<p>BBC曾尝试联系欧阳洪亮，但没有找到他。</p>
-<p>无界新闻的其中一个员工还告诉BBC说，与这封信的刊载有关的人都在“接受调查”。</p>
-<p>无界新闻声称，信件是从海外一个时常批评中国政府的网站“参与网”转载的。</p>
-<p>之后，该信已在无界新闻网站上被删除，但在参与网上仍有登载。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/bbc%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E8%B4%BE%E8%91%AD%E6%B6%89%E6%A1%88%E8%A2%AB%E5%85%AC%E5%AE%89%E5%B8%A6%E8%B5%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E4%BA%BA/?category=18271" rel="tag">媒体人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -847,7 +880,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -857,5 +890,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

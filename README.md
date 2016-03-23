@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BF%9D%E6%8C%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%84%A4%E6%80%92/" target="cdt-mirror">西木：保持你们的愤怒</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87.png" rel="attachment wp-att-432610"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87.png?resize=450%2C600" alt="闾丘露薇 微博截图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?resize=768%2C1023 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?resize=769%2C1024 769w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?w=1806 1806w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p>闾丘露薇 微博截图</p></div>
+<p><strong>微信公号：西木1984（ID:ximu_1984）</strong></p>
+<p>我们中的许多人是很有些教训人的爱好的，自以为多读了几年书，多了解了些许的所谓“科学”，便以一种“不是一类”人的姿态站在那指手画脚了，倘若有人因为某些社会的不公，抑或一些可能伤了自己或孩子的事情曝露了而愤怒，他们便又会很冷漠地嘲讽，继而甚至好好地羞辱一番：瞧！这事你都愤怒！简直是蠢货！</p>
+<p>这样“嘲讽”，我们大约都能在社会热点问题的公共讨论中，尤其是在发生民众与权力冲突的事件时听到。</p>
+<p>三鹿奶粉事件发生时，他们嘲笑民众愤怒！</p>
+<p>唐福珍自焚，他们嘲笑民众的愤怒！</p>
+<p>厦门市民反“PX”项目，他们嘲笑民众的愤怒！</p>
+<p>夏俊峰被执行死，他们嘲笑民众的愤怒！</p>
+<p>毫无例外，这次问题疫苗事件后，我便又看到了他们那冷漠的身影，高举“科普”的棒子挥舞着，嘴里喊着的依旧是：瞧！这事你都愤怒！简直是蠢货！</p>
+<p>我实在要对这“嘲讽”抱以最大的仇视的。倘若一个女子被强盗奸污了，只怕他们也不会发出安慰的善心，而会用凌厉的语气指责一旁愤怒的民众以及受害的女子：只是强奸了而已，又不伤及生命，这事你们都愤怒，简直是蠢货！</p>
+<p>这种在理性的糖衣包装下的“嘲讽”，以高人一等的姿势出现，看似理性、中立、客观，实在只是一种伪装的冷漠。他们标榜知识高尚，偷换理性概念，却已经背叛了知识及道德，这只能是对理性无耻的污蔑——他们是没有逻辑的，只是盗用了理性。</p>
+<p>在他们的世界里没有绝对正确，也没有绝对错误；没有绝对正义，也没有绝对邪恶。他们坚信：黄金之中也有瑕疵，大粪当中也有营养，没有绝对的黄金，也没有绝对的大粪，因此，黄金亦不足取，大粪亦不足厌。</p>
+<p>就像这次问题疫苗事件中，他们不愤怒于造成问题疫苗的原因，对中国目前在疫苗规划、生产、供给、运输、保存和使用的整个链条的各个环节上存在的，缺少严格的立法、监管和透明度等问题视而不见，却纠结于到底是一类疫苗还是二类疫苗，到底是失效疫苗抑或有毒疫苗，然后用他们那无比优越的口吻宣称：你们太大惊小怪了。</p>
+<p>在他们看来，民众的恐慌和愤怒，不光是愚蠢，简直是恶极。于是，我实在不得不以最大的恶意揣测，在他们眼中，只有冷漠和逆来顺受的旁观，便是高人一等的聪明，才是一个理性中人。如此，便不会有疫苗问题了。是的，没有了质问，当然就不再存在问题。</p>
+<p>但以我有限的智力和知识也知道，我们的社会的进步，实在是需要民众的愤怒的力量来推动的。正因为有了民众对孙志刚案的愤怒，才有了收容所制度的改革；也正因为有了民众的愤怒，三鹿奶粉才终于消失；正因为有了马丁·路德金及大批黑人的愤怒，才有了美国黑人如今的政治地位；</p>
+<p>我们之所以愤怒，是因为存在着不公；我们之所以愤怒，是因为渴望做一个有尊严的“人”；我们之所以愤怒，是因为我们拒绝忍气吞声地活在一个警察不执法、官吏不做事的野蛮的社会里。</p>
+<p>我始终以为，我们的这个社会之所以像现在这样，不是因为愤怒太多，而是愤怒得太少。</p>
+<p>虽然道德习俗要求人制怒，但也承认，人发怒，是有其正当理由的。人在自己或眼看别人被背叛、欺骗、愚弄、践踏、无视和欺压的时候，无论制怒的修养有多好，都会难以遏制地愤怒。</p>
+<p>我大约以为，愤怒是一种“我们因为看到别人得到不应当得到的好运而引起的苦恼”，例如暴发户以勾结权贵而发迹、官员的拥权自肥、富二代或官二代的特权和幸福。</p>
+<p>我还以为，愤怒也是包含某种关于“好东西”的“正当性”的意识，因为人们一般并不会“因为看到别人正直或勇敢，或将要具有美德而感到愤怒。”人们是因为“财富、权力以及应该由好人得到的东西”被坏人得到才感到愤怒的。</p>
+<p>亚里士多德说，“被奴役的人、卑贱的人和没有雄心壮志的人，是不会感到愤慨的，因为他们认为没有一样东西是他们应该得到的。”因此，能愤慨、会愤怒的公众其实是任何一个社会都需要的，而他们带有怒意的公众意见也是值得听取和重视的。</p>
+<p>当然，我并不是要求大家去做烈士——烈士是傻瓜做的。我只是希望大家不要迷信“逆来顺受”，不要轻易地被那些所谓的“理性”的棒子吓到，希望大家每天去做一点“微不足道”的事，发出内心的愤怒，以对抗那些不公！</p>
+<p>至于问题疫苗到底对人体有没有危害，抑或到底要不要打疫苗，理性的和菜头们已经说得够多，既然理性都被他们拿去了，我便只好当一个愤怒的人，写一篇愤怒的文章，以表自己的愤怒，当然，我也更希望大家能保持你的愤怒，救救孩子。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BF%9D%E6%8C%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%84%A4%E6%80%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山西疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E4%B8%AD%E5%AE%A2/?category=18271" rel="tag">理中客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/432597/" target="cdt-mirror">梦晨伤：疫苗——【无题】</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/1421804340/DnsS42uj6">@梦晨伤</a>：……画完后不知如何配文，很奇怪一点都不愤怒，想必是因为画的时候情绪已经宣泄掉了，也可能心里明白这事是不会有结果的，或者说就算有结果，同样的事还会发生……我们活在当下，我们自求多福，过一天，是一天。除此之外，又能如何？我捧着手机百感交集，看不清我们的未来</p></blockquote>
@@ -888,28 +921,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/r%E4%BA%BA%E6%80%A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%A5%96%E5%9B%BD%E4%B8%8D%E5%8F%AA%E6%9C%89%E5%A4%B1%E8%B8%AA%E8%BF%98%E6%9C%89%E8%B7%91%E6%AD%A5/" target="cdt-mirror">【习总日记】 祖国不只有失踪还有跑步</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，19）</p>
-<p>很多人犯了盲人摸象的错误，只看到祖国的一面，没看到另一面。今天我想告诉大家的是，祖国不只有失踪，还有跑步。</p>
-<p>是的，我们犯了很多错误，甚至搞死了人，而且不止一个，是几千万人，总计的话达一亿。虽然数字大了点，也仅仅是错误不是犯罪不是杀人。因为无论是毛主席还是我，主观愿望是为老百姓谋幸福的，是好人，是好领导好领袖。这点获得了绝大多数中国人的认可。不信你问问你的前后左右，街坊邻居，父母子女，老师同学。</p>
-<p>这是千年一贯之中国人民的共识：统治者主观愿望是好的，是希望中华民族富强的，从秦始皇到毛主席，历朝历代的统治者，没有一个要中华民族好看的，没有一个要把中国往死里整的。</p>
-<p>既然如此还有什么好说的？跟着领袖低着脑袋往前走就是了。万一领袖领错了路，大不了一块儿倒霉，又不是只你一个。平衡了吧。</p>
-<p>整日里往返于香港北京双城的<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/" target="_blank">贾葭失踪了</a>。别找，找什么找？人在我们手里。整日里往返于美中两国的<a href="http://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/" target="_blank">扎克伯格跑步了</a>。跑吧，好好跑，跑出那个高兴劲儿，跑出那个正能量，用跑步告诉中国告诉全世界，在伟大中国土地上，不只有红色恐怖和失踪，还有轻松健康的跑步，还有象征自由幸福的溜弯儿。</p>
-<p>坦白而言，失踪是失分，毕竟手段下作流氓。但你们也要承认，跑步是加分。而且跑步表演者是鼎鼎大名的世界著名社交网站创始人小扎。你不至于认为是我们强迫他出来表演吧。感谢你的智商。</p>
-<p>我曾经告诉你们，对中国现代六十年历史，不能否定前后两个三十年。这是为什么？很多人不明白。很多人以为前三十年与后三十年是矛盾的，是冲突的，要么肯定前要么肯定后，或者要么否定前要么否定后，不可能同时否定或肯定。你们办不到想不通是吧。可我想通了办到了。除了证明本总书记之伟大英明以外，还是感叹英明伟大。</p>
-<p>很多人认为失踪和跑步是矛盾的。失踪代表失去自由，跑步代表享受自由，同在北京城发生。你怎么看怎么想？你能怎么看怎么想？想象得出你们看到这段文字的表情，一边脸舒展，一边脸抽搐。乐了。乐的人是我。</p>
-<p>这是一个恐怖与祥和并存的时代，这是一个乌鸦与凤凰齐飞的天空，这是一个依法治国一党专政并举的国家。每一个人都应该庆幸生活在那么一个奇妙的年代。几十年之后，当你回忆往事，依然惊心动魄的话，我就满足了。</p>
-<p>我很感谢也很荣幸在这个时代担任党和国家领导人，带领你们品尝酸甜苦辣咸五味杂陈的幸福小康生活。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E7%A5%96%E5%9B%BD%E4%B8%8D%E5%8F%AA%E6%9C%89%E5%A4%B1%E8%B8%AA%E8%BF%98%E6%9C%89%E8%B7%91%E6%AD%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD/?category=18271" rel="tag">贾葭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E8%B5%B4%E6%B8%AF%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭赴港失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -931,5 +942,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

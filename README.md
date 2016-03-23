@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/432597/" target="cdt-mirror">梦晨伤：疫苗——【无题】</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1421804340/DnsS42uj6">@梦晨伤</a>：……画完后不知如何配文，很奇怪一点都不愤怒，想必是因为画的时候情绪已经宣泄掉了，也可能心里明白这事是不会有结果的，或者说就算有结果，同样的事还会发生……我们活在当下，我们自求多福，过一天，是一天。除此之外，又能如何？我捧着手机百感交集，看不清我们的未来</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/54bf0334jw1f25w58ua2ej20go0m8wib.jpg" rel="attachment wp-att-432599"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/54bf0334jw1f25w58ua2ej20go0m8wib.jpg?resize=500%2C667" alt="54bf0334jw1f25w58ua2ej20go0m8wib" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/54bf0334jw1f25w58ua2ej20go0m8wib.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/54bf0334jw1f25w58ua2ej20go0m8wib.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@不可说你非得说：毒奶粉，还有一部分能逃出去，疫苗……真的逃不了，难道要海淘疫苗么？</p>
+<p>@林帥2016：一幅图顶你一百条微博</p>
+<p>@368路乘客甲：想想挺可悲的 我现在都懒得看这新闻的详细报道了 麻木了 我以前从来不会想到我竟然会麻木</p>
+<p>@big实头：感觉您还是很克制啊，收着画的</p>
+<p>@肥皂超人：这个绝望的新常态</p>
+<p>@Pinder：对于我来说，这个事一半是愤怒，因为孩子，一半是悲伤，因为社会。</p>
+<p>@一叶一菩提61：只有四个字:妖孽横行</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/432597/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B0%81%E6%98%AF%E6%96%87%E7%9B%B2%EF%BC%9F-%E3%80%8A%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87%E3%80%8B%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">能靠点儿谱吗 ：谁是文盲？——《疫苗之殇》到底在说什么？</a>
 </h2>
 <p><p>在5.7亿非法疫苗事件成为热点问题的当下，一篇三年前南都记者<span>郭现中的手记《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E7%9B%AE%E5%87%BB%E8%80%85-%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/">疫苗之殇</a>》又被重新挖掘出来，与时下的现实连接，提醒大家问题早已被指出但到现在依然存在。而就在这时候，另外一篇“独立思考”的文章《每一个文盲都喜欢用“殇”字——<疫苗之殇>》又出来打脸，这篇文章的作者说：</span><span>“</span><span>财新记者郭现中</span><span>2013</span><span>年的旧稿，揭示的是另外一种事实：接种疫苗存在不良反应。”</span><span>然后用交通事故来类比疫苗事件，言下之意是交通事故总是会发生，不应该因此而指责某品牌的汽车。我不知道该文作者有没有认真读过2013年的那篇《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E6%96%B0%E7%9B%AE%E5%87%BB%E8%80%85-%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/">疫苗之殇</a>》，如果没有读过就下此断言是不负责任，如果已经读过，那我觉得他是文盲。</span></p>
@@ -890,25 +910,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%94%B5%E5%87%BB%E5%AE%9E%E9%AA%8C%EF%BC%9A%E6%98%AF%E5%88%B6%E5%BA%A6%E8%BF%98%E6%98%AF%E4%BA%BA%E6%80%A7%E4%BD%BF%E4%BA%BA%E4%BD%9C/" target="cdt-mirror">【CDTV】耶鲁大学电击实验：是制度还是“民族性”使人作恶？</a>
-</h2>
-<p><p>1961年，耶鲁大学心理学家斯坦利·米尔格拉姆（Stanley Milgram）为了研究人“服从权威”的特质，设计了一个颇有争议的实验：实验小组告诉参与者，他们参与的是一项研究“体罚与学习效果”的实验，需要他们担任“老师”，在研究人员的监督引导下，通过“电击”的方式教导隔壁屋子里另一组担任“学生”的志愿者背诵单词。如果学生答对了，老师会继续测验；如果答错了，老师会对学生施以电击惩罚。伏特数从45伏开始，每逢答错，电击的伏特数会随之提升，直到450伏。“老师”和“学生”看不到对方，但可以听到对方的声音。随着伏特数的提高，“学生”会开始惨叫、抗议、求饶、要求停止实验，直到电机控制器达到“危险值”时，“学生”便不再出声。每当“老师”表现出犹豫时，研究人员就会用“请继续”、“你没有选择，你必须继续”等命令性语言要求“老师”继续教导学生。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-20-at-%E4%B8%8B%E5%8D%8812.28.57.png?resize=365%2C388" alt="Screen Shot 2016-03-20 at 下午12.28.57" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-20-at-下午12.28.57.png?resize=282%2C300 282w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-20-at-下午12.28.57.png?w=365 365w" sizes="(max-width: 365px) 100vw, 365px" data-recalc-dims="1"></p>
-<p>而实际上，电击控制器是假的，“学生”都是研究人员假扮的，目的是为了测试当隔壁“学生”表现出痛苦甚至有生命危险时，“老师”是否会听命于研究人员继续实施电击。</p>
-<p>这些参与者年龄从20岁至50岁不等，从小学毕业至博士学位都有。在实验开始前，米尔格拉姆和他的同事们估计只有很少一部分人会听从研究人员继续惩罚直到最大伏特数。然而第一次实验中，65%（40人中超过27人）的参与者继续到了最后的450伏特。尽管他们几乎都表现出一些犹豫，但没有人在到达300伏特之前坚持停止。</p>
-<p>后来，米尔格拉姆本人和其他国家的研究人员又重复进行过很多次类似的实验，每次都约有三分之二的人愿意施以最大伏特的电击。</p>
-<p>所以，人们为什么会追随独裁者作恶呢？是强调“服从”的文化使然？还是普遍人性使然？如果人性中普遍有服从基因，如何让权力不去作恶？二战后不断有人指责德国和日本的文化都强调集体主义、服从权威，是这种“民族性”导致了他们作恶。而“电击实验”的结论则反驳了这种说法：屈从权威的特性在人群中普遍存在，也许只有通过制度来限制权威，才可以最大限度避免极权主义下的悲剧。</p>
-<p>CDTV在此推荐米尔格拉姆实验片段，如果您在墙内无法看到YouTube上的视频, <span><strong>请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0">点击这里</a></strong></span>使用BitTorrent Sync (Sync) 下载观看。</p>
-<p></p>
-<p><span dir="ltr" title="【心理學實驗】米爾格萊姆--服從實驗"><a href="https://www.youtube.com/watch?v=C_Ra-MCNCCQ">【心理學實驗】米爾格萊姆–服從實驗</a></span></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%94%B5%E5%87%BB%E5%AE%9E%E9%AA%8C%EF%BC%9A%E6%98%AF%E5%88%B6%E5%BA%A6%E8%BF%98%E6%98%AF%E4%BA%BA%E6%80%A7%E4%BD%BF%E4%BA%BA%E4%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B1%B3%E5%B0%94%E6%A0%BC%E6%8B%89%E5%A7%86%E7%94%B5%E5%87%BB%E5%AE%9E%E9%AA%8C/?category=18271" rel="tag">米尔格拉姆电击实验</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -920,7 +921,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -930,5 +931,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

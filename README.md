@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,177 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%BB%91%E7%96%AB%E8%8B%97%E6%A1%88%E8%A2%AB%E8%B8%A2%E7%88%86%EF%BC%8C%E7%BD%91%E7%AE%A1%E4%B8%8A%E5%B2%97%E5%BF%99%E5%88%A0%E5%B8%96/" target="cdt-mirror">美国之音｜黑疫苗案被踢爆，网管上岗忙删帖</a>
+</h2>
+<p><p>山东黑疫苗案还在持续发酵，而新一轮的网络舆论管控已经开始。从最早爆出黑疫苗案的澎湃新闻，到微博微信等社交媒体，无一逃过网管的严密监控。</p>
+<p>3月18日上午，澎湃新闻发表题为《数亿元疫苗未冷藏流入18省份：或影响人命，山东广发协查函》的文章，率先踢爆黑疫苗案。而截至22日，该文章已从澎湃官网被删除，只能通过“网页快照”的形式访问。</p>
+<p>18日下午，澎湃新闻转发《健康报》微信公众号“健康报新闻频道”发布的《网曝疫苗大案，听听权威专家怎么说》一文，其中引述预防免疫专家称：“此案曝光后公众不必过度恐慌，更不必担心国家统一分配发放的一类疫苗的质量和安全；如有接种二类疫苗的需求，则应尽量选择有资质保证的正规接种单位。”《健康报》是国家卫生和计划生育委员会主管的媒体。</p>
+<p>然而网友对这样的解释并不买账，新浪微博用户“达不是石头”说：“疫苗事件真的令人寒心震惊，不论一类二类，我们选择打疫苗就是希望宝宝能得到保护，如果疫苗是无效的那意义何在？更何况连救命疫苗诸如狂犬病疫苗都存在无效的，真的就是谋财害命了。”</p>
+<p>“爱小尾巴的英短猫窝”说：“本来关于非法疫苗是又气又难过，现在看了一些洗白觉得很可笑…不断的有人说这批疫苗是二类自费疫苗，是失效疫苗不是假疫苗，所以不会造成伤害，顶多无效！因为这样，所以就没必要查清真相，没必要负责，没必要惶恐了？我真是呵呵哒！疫苗注射为了什么？为了防病！那么疫苗失效了是不是就不能防病？打个比方有人注射了失效的狂犬疫苗，得了狂犬病，谁负这个责任？还有既然无效了，我花钱注射疫苗干嘛。谁给我们退钱？…按这个逻辑，杀人未遂抢劫未遂都是不犯罪咯！”</p>
+<p>18日晚上，澎湃新闻又发布了一篇题为《山东疫苗案嫌犯在疫苗圈里“颇有威望”，人称“庞姐、庞姨”》的报道，其中提到犯罪嫌疑人庞某卫曾是山东菏泽市牡丹人民医院一名药剂师，还曾在菏泽市经营防疫门诊，“凭借当初在医院任药剂师、以及参加一些药品交流会等积累人脉，甚至与一些药企‘一把手’关系甚密”。这篇谈到庞的上线、下线等细节的文章也没有逃过网管的眼睛，截至22日亦无法访问。</p>
+<p>另外，澎湃新闻的第一篇报道中提到3月11日澎湃就已经从山东省济南市公安局食品药品与环境犯罪侦查支队获得了庞某卫母女被移送检察机关起诉的消息，3月15日，济南市食药监局又有负责人向澎湃新闻表示“已向全国20个地级市发出协查函”，然而澎湃新闻最早的报道却出现在3月18日，是否为了回避“两会”这个敏感节点，不得而知。</p>
+<p>然而，澎湃踢爆黑疫苗的文章一经发布，就被包括新华网、新浪、搜狐、财经、网易等主流媒体转发，财新记者郭现中在2013年拍摄的一组关于疫苗问题的深度报道《疫苗之殇》也刷爆微信朋友圈，疫苗问题再度成为人们关注的焦点。</p>
+<p>许多明星也在微博上发声，孙俪转发了几张官媒发布的图片，说：“保护好自己的家人和孩子！”贾乃亮甚至爆粗口：“有没有人关心疫苗问题？？五亿元无效疫苗流去哪了？疫苗都给那些孩子打了？还有多少留在医院里？必须查的清清楚楚！！！造假疫苗的，我真想拿雷连劈你十年！真想骂你祖宗！”</p>
+<p>目前“非法疫苗”在微博实时热搜榜上排第二名，有44万搜索量。不过，不知是因为搜索量太大导致服务器故障，还是因为网管在“断断续续”上岗，记者在北京时间22日晚9点30分时试图搜过“非法疫苗”，微博显示“抱歉，未找到‘非法疫苗相关结果’。”</p>
+<p>还有一些微博，因为问题或内容尖锐而遭到网管屏蔽：</p>
+<p>施力勤：坚决拥护共产党，建议中共中央顺应民意和法制杀了所有涉案官员和这300涉案人员，没收其全部财产。否则什么梦、24字、12345都是垃圾桶里的废纸！中国共产党万岁！#疫苗之殇</p>
+<p>清华池一级搓澡工：这次疫苗事件堪比苏联切尔诺贝利。看到那群傻X还在歌颂包子，真恨不得一头撞死算了。猪族！不可救药！</p>
+<p>非胖子：平时微博天涯等各大论坛讨论政治的时候，总有些人冷嘲热讽。现在疫苗危机爆发了，危及到自己的切身利益了，才知道出来声援和抗议，早干嘛去了。这一切也都是你们的冷漠和漠不关心，造成了他们的肆意妄为。ps：卫生局、食药监局，这两个负主责任。</p>
+<p>钢铁侠：触目惊心，出离愤怒。如果不是5.7亿假疫苗震惊全国，恐怕好多人都不会知道恐惧噩梦距离自己有多近，恐怕好多人都不会相信一家地级市的正规妇幼医院会给你的孩子打毒针。疫苗的真假是一个民族最后的良知底线，可看看这些图片，与假药贩子内外勾结的相关人员以及不作为的监管部门，你们的底线到底在哪？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%BB%91%E7%96%AB%E8%8B%97%E6%A1%88%E8%A2%AB%E8%B8%A2%E7%88%86%EF%BC%8C%E7%BD%91%E7%AE%A1%E4%B8%8A%E5%B2%97%E5%BF%99%E5%88%A0%E5%B8%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8A%A8%E5%90%91%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B9%A0%E6%A0%B8%E5%BF%83-%E4%B8%AD%E5%85%B1%E6%96%B0%E6%9E%81%E6%9D%83%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4/" target="cdt-mirror">动向｜吴祚来：“习核心”—中共新极权时代来临</a>
+</h2>
+<p><p>二〇一六年第一政治事态，是习近平被地方要员拥戴为“核心”。国内外媒体相继报道，有地方大员新年伊始陆续通过会议学习的方式，向习中央宣誓效忠，在向习看齐的同时，提出了“习核心”这样一个政治术语。湖北省委书记李鸿忠近日主持省委常委会会议，称习近平“展示了马克思主义政治家的雄才大略和高超政治智慧”，强调习“是党中央的领导核心”，“自觉维护党中央权威，就要自觉维护习近平总书记这个领导核心”。还是在湖北某县城，人们甚至拍摄到写有“习近平万岁”的横幅，悬挂于大道两侧。一些人为习近平新集权造势，或者向习核心讨好，不惜照用令人不耻的文革方式。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png?resize=551%2C304" alt="习近平" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=300%2C166 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=768%2C424 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=1024%2C566 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?w=1618 1618w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p>所谓“核心”即老大说了算</p>
+<p>近日，学习小组推出周新民的文章《习近平的四大“核心能力”》，众多媒体也以显著位置予以刊登，学习小组不是新华社，不属于中宣部，也不是文革时的梁效，而是习身边的核心团队根据形势的特别宣传、写作小组。现在看来，它可能直接归中央办公厅管理。</p>
+<p>周新民这篇大作，能够经学习小组推出，然后通过各大媒体发表，显然与习核心团队为习核心造势有关，各地大员为什么要向中央看齐，为什么要向习看齐，习为什么是核心？周文通过长篇赞誉，似乎回答了人们的疑问，文章意在使人们相信，习的核心地位并不是凭空想象出来的，而是他名符其实。但，如果这篇文章的核心人物换成毛泽东、邓小平或江泽民、胡锦涛，甚至换成华国锋、胡耀邦、赵紫阳，都可以成立，如果中共最高领导人不“具备”上述四项核心能力，那他还是中共最高领导人么？反之亦然，只要任何一个人当上了中共最高领导，门下就可以想当然地写出这样的赞美文字。这就是极权社会统治者被制造出来的“魅力”。</p>
+<p>但民间社会或学界、国际社会看到的是怎样的一幅景象呢？</p>
+<p>道路方面：人们看到文革死灰正在复燃，文革时对异见者的打击是反革命罪，而现在则名之为颠覆国家政权罪，大量维权律师与民间异见人士被抓，甚至长期拘狱而不审判，特色社会主义道路正在被倒退成文革死路。甚至对习的宣传模式，也山寨文革，纵容个人崇拜。</p>
+<p>习当政三年，集党的主席、国家主席与军委主席于一身，又设立了多个中央领导小组，亲任组长，最重要的是成功掌控了军权，习近平确实已站在权力巅峰，完全可以“高瞻远瞩”，他可以带领国家融入世界政治文明社会，也可以把国家继续带回到封邦锁国的毛氏社会主义道路。而今天反普世价值反民主宪政，这是向前高瞻，还是往后远瞩？</p>
+<p>周文说到习近平大无畏的变革能力，到现在为止，我们还看不到习近平重大的政治改革举措，他大谈依法治国，但各种非法的拘狱随处可见，对律师对维权人士还有异见人士的打击，远远超过了胡温朝代，跨境拘捕异见者或出版商，都无所不用其极，超越的不仅是国家法律，更令国际社会无法容忍。</p>
+<p>最后一条是大国领导人风范，大国领导人要让其它国家感受到友好，如果仅仅靠大撒币，来谋取国际社会的影响力，这样的影响力得来容易，失去也非常快。中国还有数以千万计的人口在极度贫困中，大量的儿童生活艰难，在这样的境况中满世界多元援助，背后藏着多少贫困中国儿童悲苦的泪水？内政是外交的延续，如果一个国家对内不尊重自己国民的人权，他很难赢得国际社会的尊重。</p>
+<p>习还想成为有自己思想的领袖</p>
+<p>毛泽东靠不停的革命运动，获得了核心地位，成为“伟大的导师、伟大的领袖、伟大的统帅、伟大的舵手”，邓小平在八九民运之时，意识到党国危急关头，需要一个决断者，他自己充当了六四屠夫，也就成为了核心，同时将政治核心移交给后任的江泽民，枪杆子里面出政权，枪杆子里面也出政治核心。邓小平、江泽民的政治核心，都是拥枪的结果，而其决断力，就是敢于屠城、敢于镇压人民的恐怖能力。</p>
+<p>无论是由于被某些不明政治力量裹胁，还是习近平本身的意愿，习上任三年来许多领域在倒退。令人匪夷所思的是，官办的人民网上，开始涌现强烈要求习近平长期执政的呼声……当习近平的大幅画像出现在市场上，或与毛的形象并列出现在大画幅之上，在中国的政治生态中，人们想到的不是一般的尊重，而是一些政治力量在刻意而为之，或是树立习的个人威权，或是将习与毛绑在一起，把习当成毛思想的继承人，或是把对毛的期望，嫁接到习的身上。</p>
+<p>我们看到，面对这样的宣传，习本人应该也是比较“配合”的，譬如一幅象征意义特别明显的图片，习佩戴红领巾，被一群同样佩戴红领巾的少年团团围住合影，这张照片与毛泽东当年和红小兵们合影完全重合。显然，习本人也是喜欢被红色少年们围在画面核心，并接受孩子们幸福的崇拜与拥护。这是否意味着，习对文革或毛有挥之不去的怀旧情结？</p>
+<p>当人们看到毛画像与习画像出现在同一样画面之上，成为年画或宣传画之时，当然还会自然想到，习本人讲过的话，不能将改革开放的前后三十年互相否定。尽管习没有为文革翻案，但不否定前后三十年，强调的当然是毛思想与中共领导的一致性，某种意义上，他正在继承毛的领袖形象，不仅要成为核心，还要成为有自己思想的领袖人物。去年体制内有人喊出了习核心，也有人首次提出习的经济思想，习近平战略思想，甚至也有媒体直接提出习近平的思想，这些术语在中共政治话语体系里，意味着习在党内的政治地位与思想地位又将升级。</p>
+<p>政治核心追求是什么核心价值</p>
+<p>极权体制需要威权，没有威权一事无成，如同客大欺店、店大欺客的坏规则，中共体制内也如此，帝威欺臣，臣强欺帝。但无论是帝威还是臣强，制造人权灾难的能量，都是一样的，根本原因，就是没有权力制衡，没有独立的司法主张正义，当然更没有公开的政治平台，进行政治竞争。</p>
+<p>好了，习核心已不是问题，习追求的核心价值才是真正的问题。</p>
+<p>习核心或以习为核心的中央，秉持怎样的政治理念，让中共或中国走出困境？因为政治上不愿意走西方政治模式之道，所以在经济上也无法持续与西方社会有强势的合作，于是习中央走一条新的西征路线，海上丝绸之路与陆上西进，在经济上与毛时代的第三世界接轨，通过输送美元，期待获得这些国家重大项目，以输出中国过剩的产能。但这一重大举措，国家动辄抛出数以十亿、百亿美元的巨资，既没有看到全国人大相关委员会的预算与审批，也没有看到权威经济学家们对国家重大项目的合议与评估，完全靠最高领导人或领导小组决定，外交人员配合，这些项目与早前的海外巨量投资一样，极有可能竹篮打水，体制内外、国内外的谋利集团将其掏空，不会有任何监督与制约。我们现在看到中国对南美一些国家的巨额投资，已面临这样的严峻问题。</p>
+<p>核心极有可能异变为独夫，有独夫，必生国贼或民贼。二〇一五年股市剧烈波动，中央政府动用国家财力来干预、狙击、拯救，似乎政府动用自己强有力的手，就可以扭转经济乾坤，结果呢？政府与股民的财富巨量蒸发，中央政府只能以抓相关领域的内贼，来平息民怨。现在我们要追问的是，二〇一五～二〇一六年，中央政府在不发达国家挥洒数千亿美元，如果出现巨大亏蚀，还是去抓几个贪官了事，或者决策者出来承担责任。</p>
+<p>鲍彤老说：第一，不可能是世界适应中国，而是中国适应世界。第二，不可能是现在走向过去，而是现在走向将来。周子瑜事件说明是大陆方面撕毁了九二共识，不允许台湾人打出中华民国的旗帜。跨界抓人，说明是大陆方面打破了一国两制，不承认香港自治。现在的情况就是内外交困、没有章法。</p>
+<p>习中央在许多领域表现出现的不遵守章法，是因为不尊重普世价值，而普世价值的核心价值是保障人权，如果以习为核心的中央不通过司法独立来保障人权，将人权作为国家核心价值予以承认并确保，其乱局必然持续。</p>
+<p>一个不尊重二战后确立的人权核心准则的国家、一个反对普世价值的中央政府，这样的体制中出现权力核心，是非常危险的，因为一个人，被无数权力层次包里在中间，这些权力部门层层过滤信息，最后让核心作出令自己满意的决策，这个决策必然是有利于各级利益集团或权力集团的，否则，权力集团就会离心离德，不以核心为核心。</p>
+<p>《动向》2016年3月号</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8A%A8%E5%90%91%EF%BD%9C%E5%90%B4%E7%A5%9A%E6%9D%A5%EF%BC%9A%E4%B9%A0%E6%A0%B8%E5%BF%83-%E4%B8%AD%E5%85%B1%E6%96%B0%E6%9E%81%E6%9D%83%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%A5%9A%E6%9D%A5/?category=18271" rel="tag">吴祚来</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E7%9A%84%E8%8B%A6%E6%81%BC%E6%9C%89%E8%B0%81%E7%9F%A5%EF%BC%9F/" target="cdt-mirror">【习总日记】 习总的苦恼有谁知？</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，22）</p>
+<p>一</p>
+<p>当地时间今天上午8时许，比利时布鲁塞尔扎文特姆国际机场出发大厅接连发生两次爆炸，至少造成13人死亡、35人受伤。9时11分左右，布鲁塞尔东区欧盟机构附近的马埃尔贝克地铁站又发生一起爆炸，造成至少15人死亡，55人受伤。比利时警方已宣布有34人死亡，170人受伤。随后ISIS宣布是他们干的。</p>
+<p>欧洲麻烦来了。美国麻烦也来的。上天保佑中国，上天保佑共产党。</p>
+<p>二</p>
+<p>3月18日上午，澎湃新闻发表题为《数亿元疫苗未冷藏流入18省份：或影响人命，山东广发协查函》的文章，率先踢爆黑疫苗案。</p>
+<p>请问《澎湃新闻》，你是谁办的媒体？你姓什么？你的爹娘是谁？这么严重的事情，怎么不及时向上级组织向党中央汇报，却自说自话写成文章对外发表。你可知道后果多严重？你可知道这样子做给党带来多么大的麻烦吗？你可知道这样做对孩子们有好处吗？你可知道踢爆了这种案件能解决问题吗？</p>
+<p>告诉你们，我早说了，干嘛要办那么多媒体？每个省市办一两份报纸就可以了嘛，内容转载《新华社》《人民日报》就可以了嘛。真是烦死人了。</p>
+<p>三</p>
+<p>当了三年总书记，接连不断出事。一会儿天上死人，一会儿河里死人；一会儿码头死人，一会儿广场死人。你们总不消停，我这边吃不消。我的苦有谁知？</p>
+<p>我亲民吃个包子被你们骂，我出国搞外交也被你们骂。我抓个薄熙来被你们骂，我抓周永康又被你们骂。我抓和不抓你们都会骂，你们到底要我怎样？要我抓江泽民曾庆红李鹏温家宝是不可能的，他们不来抓我已经谢天谢地了。</p>
+<p>四</p>
+<p>有人指责我要成为毛泽东。我想了半天，又反复问自己，再三反省之后，觉得应该向全党全国各族人民坦白交代清楚：我从未想过做毛泽东。其实你们也知道我做不了毛泽东。即使是第二也做不了。我只是想做一个毛而不泽东。</p>
+<p>有人指责我搞第二次文革。我想了半天，又反复问自己，再三反省之后，觉得应该向全党全国各族人民坦白交代清楚，我从未想过搞第二次文革。其实你们也知道我搞不了。你们指责我的目的不是害怕或担心第二次文革发生，而是无中生有夸大其辞诬陷我，存心欺负老实人。我只是想集点权做点事。</p>
+<p>五</p>
+<p>我的亲信化装成快递小弟前去看望杜光教授，并鼓励他办好《炎黄春秋》杂志。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeKay9CVIAEjfUU.jpg?resize=551%2C735" alt="CeKay9CVIAEjfUU" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeKay9CVIAEjfUU.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeKay9CVIAEjfUU.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E7%9A%84%E8%8B%A6%E6%81%BC%E6%9C%89%E8%B0%81%E7%9F%A5%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%9C%A8%E5%8D%8E%E6%BC%94%E8%AE%B2%EF%BC%9A%E8%87%AA%E7%94%B1%E6%98%AF%E5%AE%9D%E8%B4%B5%E8%B4%A2%E5%AF%8C/" target="cdt-mirror">德国之声 | 德国总统在华演讲：自由是宝贵财富</a>
+</h2>
+<p><p>作者：文山/王凡/(德新社等)</p>
+<blockquote><p>摘要：德国总统此次访华，最为外界关注的就是他在上海同济大学发表的公开演讲。周三，这位当年东德的民权人士在演讲中明确提到了自由、法治等普适价值。德国总统在中国行程中，还多次提及目前被限制人身自由的、曾为德国之声撰稿的记者高瑜。</p></blockquote>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-23-at-%E4%B8%8B%E5%8D%8812.20.07.png?resize=520%2C292" alt="Screen Shot 2016-03-23 at 下午12.20.07" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-23-at-下午12.20.07.png?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-23-at-下午12.20.07.png?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
+<p>(德国之声中文网)高克在演讲中指出，”人权并不受空间或时间的限制，而是与个人的本质密不可分。”他借1989年中东欧剧变表示，”人对自由的向往总会为自身开辟道路”，”物质财富或社会地位无法持久替代个体的自由权利”。</p>
+<p>高克还强调，人权理念并非只是西方的发明，联合国《世界人权宣言》之起草委员会副主席就是中国人(编注：张彭春)。而在法治国家议题上，高克表示，战后的西德民主所吸取的核心教训就是”权力决不应再凌驾于法律之上”。</p>
+<p>高克在回顾中国近代史时，也特别提到了毛泽东给中国人带来的”饥饿与绝望，以及文革浩劫”。具有讽刺意味的是，就在同济大学的校门处，一尊巨大的毛泽东雕像正在向人群挥手致意。</p>
+<p>在演讲中，高克也”不无忧虑地关注着某些发展走向”。他以环境问题为例，指出”环境保护的长期目标有时不得不克服强大的利益阻力才能实现”。高克说，德国花费了几十年时间解决环境问题，而在这一过程中，公民社会”也发挥了重要的、也许是决定性的作用”。</p>
+<p>这位前东德民权活动人士还强调，除了政治参与之外，社会正义与社会参与是保持民主社会和谐的最重要基础。他透露，围绕该议题，他在周一与北京中央党校的教授们”进行了非常坦率的讨论”，而他同一些”不与官方路线相一致人士”的会面，也给他留下了”深刻的印象”。</p>
+<p>高克多次提到了他在前东德的亲身经历。他说，他曾在东德生活四十多年，”它作为共产主义国家联盟的一部分依赖于苏联，它剥夺自己人民的自主权，限制民众出国，并对那些反抗领导层意志的人加以羞辱和惩罚。”他还对在场的同济大学师生表示，大学必须是”一个能够自由地从事研究、自由开放地进行辩论的地方，一个思想能够不受阻碍地成长并为发展作出贡献的地方，这种自由是一笔宝贵的财富。”</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-23-at-%E4%B8%8B%E5%8D%8812.19.09.png?resize=519%2C292" alt="Screen Shot 2016-03-23 at 下午12.19.09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-23-at-下午12.19.09.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-23-at-下午12.19.09.png?w=519 519w" sizes="(max-width: 519px) 100vw, 519px" data-recalc-dims="1"><br><span>与莫少平等律师的会谈给高克“留下了深刻印象”</span></p>
+<p><strong>多次提及高瑜</strong></p>
+<p>周三中午，高克还在德国驻上海领事馆与中德两国经济界代表进行了座谈，当天下午还参观了上海的犹太难民纪念馆。随后，高克飞往西安。德国总统将在周四晚间结束访华，返回柏林。</p>
+<p>在此次访华行程中，高克还多次向中方提及高瑜案件。这位曾为德国之声撰稿的资深记者此前被中国当局指控泄露国家机密，被判5年监禁；法庭考虑到其健康状况，准予其监外执行。高瑜近期多次向当局申请赴德国就医，但至今未获得批准。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%9C%A8%E5%8D%8E%E6%BC%94%E8%AE%B2%EF%BC%9A%E8%87%AA%E7%94%B1%E6%98%AF%E5%AE%9D%E8%B4%B5%E8%B4%A2%E5%AF%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%AB%98%E5%85%8B%E8%AE%BF%E5%8D%8E/?category=18271" rel="tag">2016德国总统高克访华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E5%A2%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">中国环境问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%AB%98%E5%85%8B/?category=18271" rel="tag">德国总统高克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E5%B0%91%E5%B9%B3/?category=18271" rel="tag">莫少平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%88%8A%E4%BF%83%E4%B9%A0%E6%80%BB%E8%BE%9E%E8%81%8C%E5%85%AC%E5%BC%80%E4%BF%A1-%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E9%81%AD%E5%8B%92%E4%BB%A4%E5%85%B3/" target="cdt-mirror">苹果日报 | 刊促习总辞职公开信 无界新闻遭勒令关闭</a>
+</h2>
+<p><p>内地网媒《无界新闻》本月四日深夜刊出「《要求习近平同志辞去党和国家领导职务》公开信」，引起极大风波，《无界新闻》疑遭勒令关闭。</p>
+<p>继有旅港媒体人贾葭及无界执行总裁欧阳洪亮等5人失踪，今再有消息人士告知《苹果》记者无界昨日召开清盘大会，要求员工自己提出离职。另外，记者发现，无界新闻网由本月15日起都只转载新闻，没有该网的采访报道。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%88%8A%E4%BF%83%E4%B9%A0%E6%80%BB%E8%BE%9E%E8%81%8C%E5%85%AC%E5%BC%80%E4%BF%A1-%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E9%81%AD%E5%8B%92%E4%BB%A4%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E7%96%AB%E8%8B%97%E9%A3%8E%E6%B3%A2%E8%BF%99%E4%B9%88%E4%B9%B1-%E4%BD%A0%E7%9C%8B%E6%87%82%E4%BA%86%E5%90%97%EF%BC%9F/" target="cdt-mirror">旧闻评论 | 疫苗风波这么乱 你看懂了吗？</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%A7%83%E5%A4%B4%E5%80%94%E4%BA%BA.jpg?resize=550%2C675" alt="秃头倔人" data-recalc-dims="1"></p>
+<p>本次山东疫苗事件，可以分成两部分，一是它的案件查处部分，另一个是它的传播情况。案件部分实际上在2015年2月就已经有山东媒体报道了，但是直到澎湃接过公安的料开始，这个事才有了全国影响力。而在澎湃之后，这事就成为一个传播现象了。</p>
+<p>疫苗案件的疫苗贩子是在山东起获，而她们牵扯到的犯罪网络又是分布在二十几个省市，所以从公安办案的角度，这是一个全国性的大案要案。但印证这个“全国大案”性质的，实际上是靠澎湃旧闻翻新后的舆论效果来实现的。这是本次疫苗风波中案件与舆情的关系。<br>
+1<br>
+从本案爆出的时间节点看，或许可以得出一个印象是办案的公安与药监疾控体系原本是分离的：公安先是向地方媒体通报办案成果，效果不理想，而后再向澎湃喂料。等到舆论起来后，药监疾控体系被动卷入，这才发现，办了一年多，疫苗的倾销网络都没搞清楚。</p>
+<p>疫苗风波之所以能在如此短的时间里爆发传播，一开始跟这个题材实际关系不大，主要是因为两会过后，议题处于真空阶段，舆论场上一片清闲，没有可以竞争的传播题材，导致它占据议程中心，而后社交媒体灌注以情绪，形成了危机传播，从而导致舆论爆棚。</p>
+<p>迄今为止，本次疫苗风波在本质上依旧是舆论现象，这就否定了它所具备的其他特征：从媒体角度来说，它不是一次关于事实的报道，信息来源都是政府部门的通报，不是事实的累积。从政府角度而言，它基调上也不是关于整肃的，而是以澄清与声明为主。</p>
+<p>是舆论而不是事实，是情绪而不是真相，是理解本次疫苗风波的关键所在。尽管2011年、2013年的两次疫苗风波起于事实，最终草草收场，也有很大的舆论影响，但它们与本次风波显著区别就是事实与舆论的比例，本次是舆论甩开事实，独立成事。<br>
+2<br>
+正因为疫苗风波的舆论本质，决定了它容易被干扰，主要表现在它一再出现失焦的情况。粗略看来，至少经历了三次转折：一是以办案表功的正面报道转化为疫苗安全的负面问责，二是以谴责疫苗管理体制转化为争议失效疫苗的安全与否，三是正在发生的从抚慰恐慌转向打击流言。</p>
+<p>第一次转折发生在案件从地方跃升到全国传播平台上，主角就从公安变为药监与防疫部门。在这种转折下，可以看到药监的步骤落后于公安的办案进程，等到引发全国关注后，药监卫计部分慢三拍的情况就更明显了。当然，也可能是后者在用慢节奏应对舆情的快节奏。</p>
+<p>第二次失焦发生在22号这一天，疫苗风波受到了“科普”与“技术流”的挟持，谴责追问的情绪被理中客压制，叩问疫苗供应链的黑幕遇到了“科学真理教”这个劲敌。和菜头、方玄昌对冲公众情绪，用赛先生的旗帜瓦解因“疫苗之殇”名义而聚集起来的社会愤怒。</p>
+<p>这就是舆论中常见的转换焦点与议题挟持。它之所以能发生，也与本次疫苗风波的舆论性质有关。因为缺乏事实、尤其是缺乏受害者信息的加持，谴责无效疫苗缺少力度，只能在追问监管体制上徘徊，而这种人所周知的谴责角度并不新鲜，遇到反对意见容易被盖过风头。</p>
+<p>社交媒体特别是朋友圈是一种对情绪信息进行高效配置的场合，疫苗无害论、恐慌无用论出来后，就被迅速被朋友圈分发出去，而且因为其观点非同一般，比那些徘徊不前的问责体制论更花哨，一举激发出疫苗议题中公众自认为匮乏的专业审查，服膺心理顿时起效。</p>
+<p>所以，对冲疫苗风波中问责论、真相派的“科学真理教”，之所以能够扭转舆论焦点，不是它真的有道理，而是它在舆论起伏中炫目的新奇性。社交媒体时代，朋友圈配置新闻及观点，令接受者保持稳定立场变得相当困难，真假、是非判断往往让位于所谓的科学教义。<br>
+3<br>
+不管这一次失焦背后是否有操纵，失焦的后果是显而易见的，它给正在承受舆论压力的疫苗供应及监管链条减除了极大的压力。这种减压的效果，比此前公布9个涉事企业来分散舆论的效果更厉害。公布涉事药企仍会吸引公众疑虑，而转移焦点则等于驱散公众。</p>
+<p>在这次失焦发生后的几个小时内，“失效疫苗有没有毒性”成为议论的焦点，取代了之前针对药监及疾控的谴责与问责。一旦舆论陷入了技术化、科学化的泥潭，就等于从公共舆论的主场走进了舆论谴责对象的“主场”，所以连世界卫生组织也粉墨登场。</p>
+<p>舆论失焦的当口，世卫组织发表失效疫苗无害论，如果从技术分析上而言无可指责，但若从现实情况（事实匮乏、接种者统计不清等）看则显得相当糟糕，是一份加重舆论失焦的机构声明。它在时间点上契合了本次失焦行为，在影响上加重了恐慌而不是实现抚慰。</p>
+<p>迄今为止，药监防疫部门没有给出山东失效疫苗案接种的名单，这是本次疫苗风波中最核心的事实缺位。舆论失焦前一再呼吁“疫苗供应链的黑幕不容失焦”，就是直奔这个核心事实去的，一旦这个名单能确定，责任划分就清晰，疫苗风波的“亡羊补牢”才算到位。<br>
+4<br>
+就像我们看到的那样，接种者的名单是没有公布的，一种猜测是药监疾控部门有这份名单，但不愿意公布——因为一旦公布就将接种网络坐实，同时将药监疾控的监管失守与腐败交易暴露出来。这是一种假设，就是药监疾控中心有能力统计失效疫苗的流通地区与接种范围。</p>
+<p>但是，同样不能排除的是，药监与疾控中心手里也根本没有这份名单，不是不为，而是不能。一些疫苗接种的受害者经历表明，乡镇基层的疫苗接种乱象丛生，有时连接种了什么疫苗都搞不清楚，记录混乱。这一基层的统计乱象，反映到全局，就是药监疾控体系可能也不掌握权威的统计报表。</p>
+<p>国家卫计委表态，近年监控到的疫苗接种不良反应案例没有明显增长。这个表态没有说服力，如果疫苗失效，多数是没有任何反应，更别说不良反应。另外，在长达六年的时间里，疫苗的不良反应（包括可能接种了失效狂犬疫苗的人）也可能被混淆在其他病变中，没被统计到。</p>
+<p>一直到目前为止都可以讲，凡是不以统计出失效疫苗接种地区及接种者的处理思路都是“耍流氓”，都是在拖延时间，都是在期待舆论平息下去后便利“金蝉脱壳”。而且时间拖得越久，对于聚焦就会更加不利，对于失焦反倒是利好，而且第三次失焦可能已经发生。<br>
+5<br>
+疫苗风波的第二次失焦，其动力主要来自于过气网红祭出的“杀手锏”，那就是公众一直感到自卑的所谓“科学素养”。但第三次失焦，可能来源于疫苗议题在更高层次上受到强有力的舆论引导。在事实匮乏，恐慌与愤怒相激的公众情绪下，这是常见的选项，也有太多的理由支持这么做。</p>
+<p>在经历了亢奋的问责与所谓理性的停顿之后，公众情绪特别是针对疫苗接种的选择题，依旧是无处发泄的。官僚制对疫苗舆论采取的拖延战略，很可能再次见效——这也是新旧媒体下舆论遇到的同一种困扰——事实没有越过现实这道坎，舆论也难以为继。</p>
+<p>同时，疫苗风波作为一个舆论现象，能支撑它熬过24小时、36小时的要么是饱满的情绪，要么是不断输入的信息。信息本已稀缺，情绪经历几番失焦的折腾后，烈度也会骤然降低，这些都会导致疫苗舆论的衰落。公众有谴责无法问责，部门有失焦无失败，舆论拉锯来来回回。</p>
+<p>值得强调的是，春节期间发生的江西南上海女等情况表明，社交媒体越来越具有明显的媒体属性，使得它们能在事实匮乏的情况下，仍能凭借惯性向前冲几步。但这种冲击很多时候都是假象，因为事实没有跟上，舆论没有长出“脚”来，舆论正义就会成为茶杯里的风暴，这是新闻不幸、舆论大盛的宿命。<br>
+（《疫苗风波：国情下的舆论景观与科学思辨》）</p>
+<p>2016/3/23</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E7%96%AB%E8%8B%97%E9%A3%8E%E6%B3%A2%E8%BF%99%E4%B9%88%E4%B9%B1-%E4%BD%A0%E7%9C%8B%E6%87%82%E4%BA%86%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/?category=18271" rel="tag">疫苗之殇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E8%B4%A9%E5%AD%90/?category=18271" rel="tag">疫苗贩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88/?category=18271" rel="tag">非法疫苗案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BF%9D%E6%8C%81%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%84%A4%E6%80%92/" target="cdt-mirror">西木：保持你们的愤怒</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87.png" rel="attachment wp-att-432610"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%97%BE%E4%B8%98%E9%9C%B2%E8%96%87.png?resize=450%2C600" alt="闾丘露薇 微博截图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?resize=768%2C1023 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?resize=769%2C1024 769w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/闾丘露薇.png?w=1806 1806w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p>闾丘露薇 微博截图</p></div>
@@ -55,7 +223,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山西疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E4%B8%AD%E5%AE%A2/?category=18271" rel="tag">理中客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/432597/" target="cdt-mirror">梦晨伤：疫苗——【无题】</a>
 </h2>
@@ -75,7 +243,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B0%81%E6%98%AF%E6%96%87%E7%9B%B2%EF%BC%9F-%E3%80%8A%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87%E3%80%8B%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">能靠点儿谱吗 ：谁是文盲？——《疫苗之殇》到底在说什么？</a>
 </h2>
@@ -138,7 +306,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/?category=18271" rel="tag">疫苗之殇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%95%B0%E4%BA%BF%E5%85%83%E7%96%AB%E8%8B%97%E6%9C%AA%E5%86%B7%E8%97%8F%E6%B5%81%E5%85%A518%E7%9C%81%E4%BB%BD%EF%BC%9A%E6%88%96%E5%BD%B1%E5%93%8D/" target="cdt-mirror">【真理部】《数亿元疫苗未冷藏流入18省份：或影响人命》</a>
 </h2>
@@ -503,7 +671,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%89%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a4%E8%85%B0/?category=18271" rel="tag">A4腰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E9%AD%85%E5%8A%9B%E8%A7%82/?category=18271" rel="tag">女性魅力观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%87%E8%85%B0%E5%9B%B4/?category=18271" rel="tag">平均腰围</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A5%E8%83%96/?category=18271" rel="tag">肥胖</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/432511/" target="cdt-mirror">【图说天朝】巨型龙袍 人造祥瑞 请您检阅</a>
 </h2>
@@ -533,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/a4%E8%85%B0/?categ
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%B4%A2%E7%BB%8F%E4%B8%93%E7%A8%BF-%E6%B4%9B%E9%98%B3%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E9%99%88%E9%9B%AA%E6%9E%AB%E7%9A%84%E7%85%A4%E4%B8%9A%E7%94%9F%E6%B6%AF/" target="cdt-mirror">财经专稿 | 洛阳市委原书记陈雪枫的煤业生涯</a>
 </h2>
@@ -599,7 +767,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E4%BA%BA%E5%94%AF%E4%BA%B2/?category=18271" rel="tag">任人唯亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B8%E7%85%A4%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">永煤集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%82%AD/?category=18271" rel="tag">煤炭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98/?category=18271" rel="tag">经济问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%90%E8%B4%A5/?category=18271" rel="tag">腐败</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B4%BE%E8%91%AD%E7%A1%AE%E8%AE%A4%E4%BA%8E%E5%8C%97%E4%BA%AC%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%A2%AB%E5%B8%A6%E8%B5%B0/" target="cdt-mirror">端传媒｜媒体人贾葭确认于北京机场航站楼被带走</a>
 </h2>
@@ -644,7 +812,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E4%BA%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/432503/" target="cdt-mirror">psy-eyes｜唐映红：凭什么异议者的观点就必须是正确的？</a>
 </h2>
@@ -669,7 +837,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%AE%8B%E5%BF%97%E6%A0%87%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%8F%97%E5%AE%B3%E8%80%85%E7%9A%84%E7%96%AB%E8%8B%97%E4%B9%8B%E6%AE%87/" target="cdt-mirror">旧闻评论｜宋志标：没有受害者的疫苗之殇</a>
 </h2>
@@ -692,234 +860,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">媒体监督</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A6%E7%9F%B3%E8%B0%88%E6%B6%89%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E4%BC%9A%E6%9F%A5%E5%88%B0%E5%93%AA%E9%87%8C/" target="cdt-mirror">美国之音｜韦石谈涉习公开信事件会查到哪里</a>
-</h2>
-<p><p>因为涉及习近平下台公开信失踪的中国媒体人贾葭，确定遭北京市公安扣押。与此同时，刊登公开信的无界新闻也传出有4人下落不明。公开信事件如滚雪球般越滚越大，是否成为习近平上台以来的最大一场政治危机？北京会查到哪里？下面我们通过电话连线，请同样在追踪事态发展的博讯网创办人韦石先生来谈谈他的看法。</p>
-<p>公开信出现至今已经快三个星期了，它的来源仍然是个谜，你觉得北京能够查出源头吗？会查到哪里？</p>
-<p>韦石：现在主要不知道源头到底是内部还是外面。如果要是内部人做的话，我相信北京还是有可能查出源头的。因为他们现在投入这么大的人力物力，动作很大去查这个事情。</p>
-<p>主持人：新疆党委书记张春贤的名字被媒体提及，为什么？他与公开信的可能关联是什么？</p>
-<p>韦石：现在从种种迹象看，公开信和目前的形式，可能和内部的权斗有关。因为它在海外的网站上发表不久，在无界新闻，一个官方办的网站上出现。公开信的内容里面也讲到对习近平的家人威胁的话，说明对方有备而来。大家后来去挖掘一下无界新闻的背景，和所谓的反习还是有一点迹象。无界新闻有张春贤的一些背景，还有当时要抓的一些所谓的反习媒体的背景，所以大家有这种联想。</p>
-<p>主持人：很多人在猜测北京会怎么办，要办到什么样的程度。我们现在看到是五人失踪，大部分仍然是媒体界的人。未来有没有可能跨界，比如说政治界也有人因为这封信而落马呢？</p>
-<p>韦石：很可能，现在我们看到的只是表象。一些媒体人，可以说是牺牲品吧。包括海外的一些人也受到了攻击，家里的网络都被攻击，电话被骚扰。我想更大的事情是在内部，我了解这封公开信可能在内部被当作一个挑战现在领导地位的运动，是动作之一。以前说内斗在十九大之前会达到一个高峰，公开信可能提早引爆了内斗。接下来这两个月，我认为中国的政坛会非常有看点。很可能有相当有级别的人提早落马。</p>
-<p>主持人：中国官媒人民日报今天刊登社长杨振武的一篇7千字长文，主要重复习近平的党媒姓党，强调对媒体，特别是互联网控制的重要性。即便在这样的氛围下，还是出现了无界新闻公开信事件，不仅给中共高层打脸，也引发阴谋论，您的解读？</p>
-<p>韦石：中国现在确实很复杂，就像宣传系统，很多事情不论习近平做的对错，并不是给他做一个评判，确实存在一种反做的现象，从另外一个角度添乱。就像前一段推出的歌曲《东方又红》，第二句话是，“习近平继承了毛泽东”。这首歌没有两天就被最高层下令给下架了，其实很明显是有的人确实在反做。</p>
-<p>这样的大形势下，有些媒体是在讲与“上面”所谓的一致的意见，有时也经常出现一些不同的声音，像无界新闻这次。在大背景下，可能会出现一些很异常的事情。所以高层对公开信的重视，主要并不是因为海外发出的声音和内容。而是出现在无界本身，所以大家的焦点关注就是它是官方背景，出现一个非常不一样的声音。</p>
-<p>主持人：谢谢韦石先生接受美国之音的访问。针对贾葭遭到扣押，国际特赦组织在今天发布声明，呼吁中国当局立即无条件释放贾葭，除非他被以国际认可的刑事罪行正式起诉；要确保贾葭在关押期间能够定期而且不受限地会见家人和律师，并且立即保障他免受酷刑及其他虐待。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=550%2C461" alt="Cd063ohUkAAnGRB.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=300%2C251 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?resize=768%2C644 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cd063ohUkAAnGRB.jpg_large.jpg?w=940 940w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%9F%A6%E7%9F%B3%E8%B0%88%E6%B6%89%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E4%BC%9A%E6%9F%A5%E5%88%B0%E5%93%AA%E9%87%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A6%E7%9F%B3/?category=18271" rel="tag">韦石</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9D%A5%E5%8D%8E/" target="cdt-mirror">【真理部】脸谱公司创始人扎克伯格来华</a>
-</h2>
-<p><p>关于脸谱公司创始人扎克伯格此次来华的信息要进一步控制恶意评论，不继续炒作。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9D%A5%E5%8D%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E6%99%A8%E8%B7%91/?category=18271" rel="tag">扎克伯格北京天安门晨跑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA-%E6%B6%88%E6%81%AF%E7%A7%B0%E5%A4%AE%E8%A1%8C%E5%8E%BB%E5%B9%B4%E8%AF%A2%E9%97%AE%E7%BE%8E%E8%81%94%E5%82%A8%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%82%A1%E7%81%BE/" target="cdt-mirror">新浪 | 消息称央行去年询问美联储如何应对股灾</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?resize=550%2C344" alt="1fFj-fxqnski7790008" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/1fFj-fxqnski7790008.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>　　路透华盛顿3月21日 – 去年中国股市暴跌时，中国央行迅速向美国联邦储备委员会（美联储/FED）求助，让其分享当年应对1987年“黑色星期一”股灾时的策略。</p>
-<p>这次求助是由中国人民银行的一名官员在7月27日的邮件发出，主题栏写的是“如蒙紧急协助，将不胜感谢！”</p>
-<p>中国人民银行美洲代表处首席代表宋湘燕，在给美联储一名高级官员的讯息中提到中国股市一日暴跌8.5%，并称“我们行长希望借鉴你们的经验。”</p>
-<p>目前还不清楚中国央行处理此前的市场动荡时是否也联系了美联储。中国央行和美联储均拒绝对路透置评。</p>
-<p>在路透去年的一篇分析中，美联储内幕人士、前雇员以及分析师均表示，中国央行和美联储之间没有官方热线，而且中方在国际会议上往往也不愿接触。</p>
-<p>中国股市崩盘当时引发全球金融市场大跌，美联储在数小时之内向中国央行提供了大量文件，详述了该行应对1987年股灾时采取的行动，这些文件通过公开渠道可以获得。</p>
-<p>美联储决策者在第二天开始召开为期两天的政策会议，据此次会议的记录显示，决策者注意到了中国股市大跌。几名决策者表示，中国经济放缓可能拖累美国经济。</p>
-<p>美联储在9月推迟了很多分析师期待中的升息，称中国给金融市场带来的影响是促使其决定推迟升息的原因之一，这表明中国不仅是制造业大国，在金融市场也有举足轻重的影响。</p>
-<p>没有秘密</p>
-<p>路透获得的这封邮件显示出，中国政府对于金融动荡加剧变得非常警觉，也让我们罕见地一窥这家最不被外人知晓的全球主要央行。</p>
-<p>两家央行的交流也显示，虽然二者有合作关系，但他们即便是在危机时期可能也不会分享秘密。</p>
-<p>“可否请你尽快告诉我们你们当时采取的主要举措？”宋湘燕7月27日在电邮中询问美联储国际金融部主管卡明（Steven Kamin）。</p>
-<p>这份邮件是在华盛顿上午11点后不久发送到卡明的邮箱。卡明很快通过他的黑莓手机回复道：“我们将很快给你回复。”</p>
-<p>五个小时后收到的是一份259个单词的概要，概述了在1987年10月19日标准普尔500指数．SPX暴跌20%后，美联储如何安抚市场，以及如何防止经济陷入衰退。</p>
-<p>卡明还在邮件中附上长达几十页的美联储文字记录、声明和报告作为注解来指导中国央行官员。</p>
-<p>这些附属档案全都早就公布在美联储网站上，目前尚不清楚这些文件是否在北京采取的各项行动中扮演一定角色。</p>
-<p>卡明的文件详细列出在黑色星期一市场崩盘后，美联储如何开始发送各项声明，宣示将供应充裕资金好让市场能够运作。</p>
-<p>当宋湘燕写电子邮件给卡明的时候，中国当局与股市崩跌搏斗已有一个月的时间，且中国央行及其他主管机关所采取的许多行动与美联储1987年的种种措施有相似之处。</p>
-<p>奋力救市</p>
-<p>沪综指．SSEC7月27日创下2007年以来单日最大跌幅，而在那之前该指数已经在逾六周时间内跌掉近三分之一。</p>
-<p>中国央行在那之前已在6月27日降息，与1987年时美联储迅速下调短期利率相似。</p>
-<p>宋湘燕向卡明指出，中国央行对于美联储在1987年通过附买回协议暂时向银行体系注资的作法特别感兴趣。</p>
-<p>中国央行在6月就扩大注资，然而随着股市继续下跌，该行在8月加强附买回操作。中国央行同时藉由人民币汇率贬值2%来放宽政策。</p>
-<p>宋湘燕与卡明在7月27日及28日交换讯息之际，其他中国主管机关也忙着试图阻止股市崩跌。</p>
-<p>中国股市主管机关于7月27日表示，准备买进股票以稳定股市，同时主管机关将会严厉对付那些“恶意”押注股市下跌者。</p>
-<p>根据卡明发给宋湘燕的电子邮件所述，美联储在1987年直接联络了银行，鼓励银行业者满足他们客户的“合理融资需求”。</p>
-<p>除了信誓旦旦的承诺以及好言好语的拉拢，美联储在1987年还放宽了对华尔街金融机构的抵押品限制，并试图通过比以往更早的干预交易来平稳市场。美国经济之后继续增长，最终在1990年陷入衰退。</p>
-<p>中国央行在实施政策方面不像美联储那样自由。中国央行的政策最终要靠政治高层拍板决定，决策过程缺乏透明度。</p>
-<p>中国总理李克强上个月表示，中国监管机构的应对不够充分，但中国已经防范了系统性风险。</p>
-<p>美联储官员称，美联储运作的相对透明帮助他们有效合理的实施政策，但事情都有两面性，公开记录的法规也让美联储官员在交流看法时谨言慎口，因为一旦有公开请求被提出，他们讨论的大部分内容就必须得公开。美联储副主席费舍尔（Stanley Fischer）就曾经说过，透明度要求使得决策者更加难以进行非正式讨论。</p>
-<p>卡明在电邮中指出，他所发送的每一份文件都是可以通过公开渠道获得的。“我希望这会有所帮助。”（完）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%96%B0%E6%B5%AA-%E6%B6%88%E6%81%AF%E7%A7%B0%E5%A4%AE%E8%A1%8C%E5%8E%BB%E5%B9%B4%E8%AF%A2%E9%97%AE%E7%BE%8E%E8%81%94%E5%82%A8%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%82%A1%E7%81%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">中国人民银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%81%BE/?category=18271" rel="tag">中国股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A1%8C/?category=18271" rel="tag">央行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E8%81%94%E5%82%A8/?category=18271" rel="tag">美联储</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%AE%A1%E4%B8%8D%E4%BD%8F%E6%96%B0%E5%AA%92%E4%BD%93%E5%85%9A%E7%AE%A1%E5%AA%92%E4%BD%93%E5%8E%9F%E5%88%99%E4%BC%9A%E8%A2%AB%E6%9E%B6%E7%A9%BA/" target="cdt-mirror">人民日报 | 管不住新媒体党管媒体原则会被架空</a>
-</h2>
-<p><p>人民日报3月21日在理论版刊发人民日报社长杨振武的署名文章——《把握好政治家办报的时代要求——深入学习贯彻习近平同志在党的新闻舆论工作座谈会上的重要讲话精神》。</p>
-<p>这篇近8000字的长文指出，过不了互联网这一关，就过不了长期执政这一关。坚持政治家办报，就要管好用好互联网，这是新形势下巩固新闻舆论阵地的关键。</p>
-<p>文章分析，过好互联网这一关，必须能管互联网。新媒体不能脱离党的领导，更不能成为“法外之地”。如果管不住新媒体，党管媒体的原则在互联网上就会被架空，我们就会犯下历史性错误。过好互联网这一关，必须会管互联网。会管互联网，重在管导向，使新媒体在导向上与传统媒体一个标准、一个要求、一条底线。</p>
-<p><strong>以下为全文：</strong></p>
-<p>2月19日，习近平同志到人民日报社、新华社、中央电视台考察，主持召开党的新闻舆论工作座谈会并发表重要讲话。讲话从战略和全局的高度、历史和现实的角度，深刻阐述党的新闻舆论工作的地位作用、职责使命、原则要求等一系列重大理论和实践问题，彰显着强烈的创新意识、时代精神和实践指向，为我们做好新的时代条件下党的新闻舆论工作提供了强大思想武器。讲话的一个重要内容，就是对坚持政治家办报提出了新的时代要求。深入学习贯彻习近平同志重要讲话精神，必须准确把握坚持政治家办报的深刻内涵和时代要求，使党的新闻舆论工作勇立时代潮头、展现时代新貌，不负党和人民重托。</p>
-<p><strong>守好舆论这个阵地</strong></p>
-<p>习近平同志指出：“做好党的新闻舆论工作，事关旗帜和道路，事关贯彻落实党的理论和路线方针政策，事关顺利推进党和国家各项事业，事关全党全国各族人民凝聚力和向心力，事关党和国家前途命运。”这“五个事关”，深刻阐明了新闻舆论对于党和国家事业发展与长治久安的极端重要性，深刻指出了新闻舆论工作在党的工作全局中的重要地位，是我们认识和把握、开展和做好党的新闻舆论工作的基本遵循。</p>
-<p>历史和现实告诉我们，舆论与政权安危密不可分。任何政党要夺取和掌握政权，都要用好舆论这个武器；任何政权要实现长治久安，都要守好新闻舆论阵地。<strong>高度重视党的新闻舆论工作，是我们党的优良传统，也是党领导革命、建设、改革事业不断取得胜利的重要法宝。抓住和做好党的新闻舆论工作，是治国理政、定国安邦的大事，任何时候都不能含糊和动摇。</strong></p>
-<p>一个政党的前途命运最终取决于人心向背，得民心者得天下。新闻舆论工作是在人的头脑里搞建设，通过信息传递影响人，说到底是为了凝聚人心；它处于意识形态斗争最前沿，通过价值判断引导人，实质上是为了赢得人心。可以说，舆论是左右人心的关键力量：好的舆论会鼓舞人心、汇聚力量，不好的舆论会涣散人心、瓦解斗志。今天，随着媒体技术的进步，新闻传播呈现人人传播、多向传播、海量传播的特征，线上与线下、虚拟与现实、国际与国内共同构成了一个日益复杂的大舆论场，人人都处于舆论场中，舆论的力量也与日俱增，守好舆论阵地的重要性更加凸显。<strong>如果做不好新闻舆论工作、守不好新闻舆论阵地，我们在思想上的防线就会崩溃，就可能犯颠覆性错误。坚持政治家办报，必须增强阵地意识，做好“人心”这篇大文章。</strong></p>
-<p>守好舆论阵地，不能天真。新闻舆论阵地，马克思主义不去占领，非马克思主义就会去占领；正确的东西不去占领，错误的东西就会去占领。这是一条铁律，也是事实。所谓天真，就是思想上糊涂麻痹，不清楚意识形态领域斗争的复杂性，不明白新闻舆论对人心向背的重要性，不知道巩固舆论阵地的艰巨性。天真就会目光短浅，就会把党的新闻舆论工作看成简单的“信息传播”、一般的事务性工作，看不到新闻舆论背后是思想的较量、人心的争夺。坚持政治家办报，需要我们始终保持清醒头脑，在“乱花渐欲迷人眼”时具有战略定力，真正明白守什么“土”，有什么责、负什么责、尽什么责。</p>
-<p>守好舆论阵地，不能大意。“大意失荆州”，这是历史的教训。大意也可能失阵地。所谓大意，就是作风上不严不实，做事情马马虎虎、拖拖拉拉，抓工作敷衍塞责、松松垮垮，把不住关、把不好度。大意就会盲目乐观，就会对新闻舆论工作缺少应有的敬畏，不注意从政治上考量、从全局上衡量，该做的事情不去做，该抓的工作没有抓。“却是平流无石处，时时闻说有沉沦。”事实表明，新闻舆论工作中出现的一些问题，往往是由于大意所致，就发生在“想不到”之时、“没想到”之处。<strong>坚持政治家办报，需要我们始终坚持夙夜在公，永不自满、决不懈怠，把“三严三实”要求落到实处。</strong></p>
-<p>守好舆论阵地，不能退缩。所谓退缩，就是态度上软弱，搞爱惜羽毛那一套，总想当开明绅士，而不想当思想战士，面对大是大非问题不敢亮剑，任由一些错误观点肆虐泛滥、扰乱人心。天真要犯错误，大意要出问题，退缩要败下阵来。在纷繁复杂的舆论场中，挺不直腰杆，站不稳立场，发不出声音，就是不作为、不称职。坚持政治家办报，需要我们始终做到勇于担当、能征善战，敢于交锋、善于引导，澄清谬误、明辨是非，<strong>最大限度地消除杂音噪声，让党的主张成为时代最强音。</strong></p>
-<p>党的新闻舆论工作是党和人民群众联系的桥梁和纽带，也是全国安定团结的思想上的中心。有的领导干部对新闻舆论工作不想做、不愿做、不会做，对新闻舆论阵地不想守、不愿守、不会守，最终丧失的不只是话语权，更是我们党执政须臾不可丢掉的人心。我们要从这个高度认识新闻舆论工作与党的工作全局的关系，使新闻舆论工作能够汇聚人心、温润人心，进而团结人民、引导人民为实现自己的根本利益而不懈奋斗。人民日报作为新闻战线的“排头兵”，要始终牢记“人心是最大的政治”，发挥好“领航者”“定盘星”的作用，在深刻变化的媒体格局中守好党的新闻舆论阵地，不断巩固和壮大主流思想舆论。</p>
-<p><strong>坚持正确政治方向</strong></p>
-<p>讲话明确提出了新的时代条件下党的新闻舆论工作的职责和使命，就是要高举旗帜、引领导向，围绕中心、服务大局，团结人民、鼓舞士气，成风化人、凝心聚力，澄清谬误、明辨是非，联接中外、沟通世界。同时强调，要承担起这个职责和使命，必须把政治方向摆在第一位。</p>
-<p>新闻舆论工作是政治性很强的业务工作，也是业务性很强的政治工作。当今中国的发展已成为世界关注的“热点”，也自然成为国际舆论的“焦点”；全面深化改革面临一个个“关口”，也必然处于各种舆论的“风口”。舆论环境越是纷繁复杂，新闻舆论工作越要把政治方向摆在第一位，增强政治定力，提高政治敏锐性和政治鉴别力，把旗帜高高地举起来。坚持政治家办报，就要在具体工作中做到“四个牢牢坚持”。</p>
-<p>党性原则是根本，必须牢牢坚持。任何媒体都要表达立场、传递思想、影响人心，都或多或少带有意识形态属性。坚持党性原则，最根本的是坚持党对新闻舆论工作的领导。我国是中国共产党领导的社会主义国家，无论媒体的背景是什么、同党委和政府管理部门的关系是什么，党管媒体的原则和制度都不能变。<strong>党和政府主办的媒体是党和政府的宣传阵地，必须成为党和人民的喉舌，做到爱党、护党、为党。坚持党管媒体，把各级各类媒体都置于党的领导下，确保党对媒体的主导权、管理权，</strong>这是新时期加强和改善党对新闻舆论工作领导的必然要求，也是新闻舆论工作坚持正确政治方向的题中应有之义。</p>
-<p>马克思主义新闻观是灵魂，必须牢牢坚持。马克思主义新闻观是科学真理，具有穿越时空的恒久魅力，不会因为媒体格局和传播手段的变化而过时。用马克思主义新闻观指导当今新闻实践，关键是做到学而信、学而用、学而行。<strong>对于新闻舆论工作者来说，马克思主义新闻观就是精神之“钙”</strong>，就是精神脊梁，必须深深融入自己的世界观、人生观、价值观中，融入个人的新闻事业和新闻实践中，解决好“为了谁、依靠谁、我是谁”这个根本问题。心里有了马克思主义新闻观这一“准星”，新闻舆论工作者才能做好党的政策主张的传播者、时代风云的记录者、社会进步的推动者、公平正义的守望者。</p>
-<p>正确舆论导向是生命，必须牢牢坚持。媒体报什么、不报什么、怎么报，都体现着鲜明的舆论导向。有人认为，党报党刊、电台电视台应该讲舆论导向，都市类报刊、新媒体等则可以“网开一面”。这种认识是错误的，也是有害的。新闻舆论工作的特殊重要性，决定了各种载体、各个方面、各个环节都要自觉坚持正确舆论导向。如果只有主流媒体讲导向，保持“大江大河水清涟”，放任其他媒体“小河支流乱排污”，整个舆论生态环境就不可能海晏河清。<strong>坚持正确舆论导向是对所有媒体的要求，也是所有媒体应尽的职责。不同媒体可以在主办单位、经营机制、技术手段等方面有不同，但不能在舆论导向上有差别，不能出现“舆论飞地”“舆论特区”。</strong></p>
-<p>正面宣传为主是基本方针，必须牢牢坚持。坚持正面宣传为主，从根本上说是因为我国社会积极正面始终是主流，社会的本质是健康向上的。新闻舆论工作就是要反映这个主流和本质。坚持正面宣传为主，不但没有背离新闻的客观性，而且是新闻舆论工作与社会主流相契合的体现，是在保证新闻事件微观真实的基础上追求社会全貌的宏观真实。新闻舆论工作需要直面社会丑恶现象，激浊扬清、针砭时弊，但<strong>不能以“点”代“面”，让社会丑恶现象充斥版面、荧屏、网页，更不能把恶性事件和灾难事故当作“狂欢的新闻盛宴”。</strong>新闻舆论工作要推动形成奋发向上的力量，就必须始终坚持以人民为中心的工作导向，始终坚持团结稳定鼓劲、正面宣传为主。</p>
-<p><strong>过好互联网这一关</strong></p>
-<p>过不了互联网这一关，就过不了长期执政这一关。<strong>互联网是我们面临的“最大变量”。</strong>这就是为什么习近平同志一再强调要把网上舆论工作作为宣传思想工作的重中之重来抓，一再要求新闻舆论工作者真正成为运用现代传媒新手段新方法的行家里手。坚持政治家办报，就要管好用好互联网，这是新形势下巩固新闻舆论阵地的关键。</p>
-<p>新闻舆论工作的对象是人。坚持政治家办报，必须正视我国网民规模已超6.8亿、手机网民规模已超6.2亿这样一个现实。以互联网为基础的各种媒体、各种终端不仅进行着新闻资讯的竞争，更有观点的交锋、价值观的较量。互联网以其共时性、共享性，构成复杂多变的舆论场。<strong>占领不了互联网信息传播的制高点，就站不稳新闻舆论工作的新高地，就掌握不了舆论引导的主动权。</strong>涉深水者得蛟龙。只有热情拥抱互联网，善于利用互联网，才能让这个“最大变量”变成“最大正能量”。</p>
-<p>过好互联网这一关，必须能管互联网。当前，新媒体方兴未艾、后来居上，其受众数、影响力正逐步超越传统媒体，成为重要新闻舆论阵地。人在哪里，新闻舆论阵地就应该在哪里；新闻舆论阵地在哪里，党管媒体就应该落实到哪里。<strong>新媒体不能脱离党的领导，更不能成为“法外之地”。如果管不住新媒体，党管媒体的原则在互联网上就会被架空，我们就会犯下历史性错误。</strong>坚持政治家办报，就要从维护国家意识形态安全、政治安全的高度，把能管互联网作为党管媒体的关键，紧紧抓住、切实管好。</p>
-<p>过好互联网这一关，必须会管互联网。会管互联网，重在管导向，使新媒体在导向上与传统媒体一个标准、一个要求、一条底线。新媒体不能迎合庸俗低俗的趣味，不能模糊是非善恶美丑的界限，这是导向上的底线。要加强内容监管，及时清理网络谣言和各类有害信息；引导新媒体加强行业自律，完善内容审核把关；教育引导广大网民依法上网、文明上网；等等。只要坚持科学管理、依法管理、有效管理，加快形成法律规范、行政监管、行业自律、技术保障、公众监督、社会教育相结合的互联网管理体系，新媒体就一定能管好。</p>
-<p>过好互联网这一关，必须用好互联网。对于互联网，我们不但要能管、会管，还要用好、办好。所谓用好，就是要参与进去、深入进去、运用起来，<strong>关键是推动传统媒体和新媒体融合发展，着力打造一批新型主流媒体。</strong>只有新型主流媒体发展起来，用户数不断增加、市场份额不断扩大、影响力不断增强，才能有效占领互联网舆论阵地，实现网上负能量与正能量的此消彼长。要研究和把握互联网传播规律，在网络舆论场这个新的舞台上，演得好新角色，吸引来新观众。这不是愿不愿意的问题，而是党的新闻舆论工作的责任使然。</p>
-<p>能否让党的声音在互联网上更响亮、传得更远，是检验新闻舆论工作是否适应时代的重要方面。我们要坚持“互联网+”，而不是简单地“+互联网”；不是把传统媒体的内容直接搬到网上，而是把互联网作为平台，以互联网思维和互联网规律来谋划布局新闻舆论工作。近年来，人民日报社大力推进传统媒体和新媒体融合发展，已由过去的一份报纸转变为全媒体形态的“人民媒体方阵”，拥有报纸、杂志、网站、网络电视、网络广播、电子屏、手机报、微博、微信、客户端等10多种载体、数百个终端载体，覆盖用户总数达到3.5亿。在开拓新兴舆论阵地、以主流价值影响网络舆论生态的过程中，我们深切体会到，对于新闻舆论阵地，必须抢先占领、积极利用，掌握主动权、打好主动仗。</p>
-<p><strong>用好创新这个引擎</strong></p>
-<p>如果将党的新闻舆论工作喻为与时代同行的列车，创新就是它的引擎。习近平同志指出，做好党的新闻舆论工作，要遵循新闻传播规律，创新方法手段，不断提高能力和水平。提升政治家办报的能力和水平，关键要看新闻舆论工作的创新能力与传播实效。</p>
-<p>新闻舆论工作是一项“苟日新，日日新，又日新”的事业，能否用好创新这个引擎，是对政治眼光、政治智慧的考验。在舆论环境、媒体格局、传播方式深刻变化的大势下，坚持创新不仅是技术要求，更是政治要求；不仅是业务素养，更是政治素养。传播力决定影响力，取决于创新力。坚持政治家办报，必须不断提升创新能力和水平，以增强传播效果之“的”导引改进创新之“矢”，以改进创新之“矢”射增强传播效果之“的”，在二者相辅相成中更好地体现党的意志、反映党的主张，更好地赢得受众、赢得人心。</p>
-<p>强化受众意识，增强工作针对性。当年，穆青在写完《县委书记的榜样——焦裕禄》后，请人把稿子送到兰考征求意见。他说：“在发表前读给大家听一听，这样做的作用很多，其中很重要的一点是，听过的稿子，不会让老百姓在接受时有什么障碍。”正是这种强烈的受众意识，让这篇报道感人肺腑、震撼人心。今天的受众日益呈现分众化、差异化态势，不同的人有着不同的信息需求，阅读习惯和接受心理也发生了深刻变化。没有对受众需求的精准把握，就无法实现对舆论的精确引导。好的思想、观点、内容，需要通过生动的形式、多样的手段来表达；一个主题，可以根据不同受众选择不同的传播方法，这样才能形成全方位、多层次、多声部的主流舆论矩阵。</p>
-<p>强化传播意识，提高议题设置能力。高明的议题设置，往往都是时机、技巧、方法的最佳运用。新闻舆论是社会舆论的风向标，要让我们设置的议题成为社会舆论关注的话题，而不是被社会舆论牵着鼻子走。随着我国经济发展进入新常态，面对一些“唱空”中国经济的论调，如何理性认识中国经济面临的机遇与挑战？随着思想观念日益多元多样，面对众说纷纭、众声嘈杂的情况，如何提升社会共识度？随着反腐败斗争持续深入，面对“反腐同群众利益无关”“反腐影响经济发展”等模糊认识和错误观点，如何辨析澄清？<strong>“失语就会失权”</strong>，不敢于设置议题，就是放弃话语权；不善于设置议题，不能让该热的热起来、该冷的冷下去、该说的说到位，就难以担起舆论引导的重任。</p>
-<p>强化效果意识，把握好时度效。没有正确的立场，就不可能有正确的宣传。但立场最终要贯穿到传播规律、传播艺术之中，体现到传播效果上，用效果来检验。传播学上有个“首发效应”，首发容易定调，先声往往夺人，这说明传播要注重时机与节奏。报道发与不发都是态度，问题讲多讲少效果可能迥然不同，必须掌握好传播的力度与分寸。群众感受不好，再多的报道也是自娱自乐；社会共识不强，再大的声音也是自说自话。遵循新闻传播规律，很重要的一条就是强化效果意识，把握好时度效，以效果来衡量新闻舆论工作水平，以效果来评价舆论引导能力，以效果意识倒逼新闻舆论工作改进创新。</p>
-<p>强化基层意识，坚持转作风改文风。记者接地气才有灵气，报道贴近群众才有受众。这就要求我们不断强健脚力、眼力、脑力、笔力，会使“十八般兵器”，“练就拨云见日的功夫”；转作风改文风，多一些有思想、有温度、有品质的作品，多一些“沾泥土”“带露珠”“冒热气”的文章，让人民群众喜闻乐见、爱不释手。近年来，人民日报着力提升观点生产能力、议题设置能力、集成报道能力、话语创新能力，努力做到报道流程平台化、报道内容定制化、报道方式故事化、报道数据可视化；着力在思想内涵上做加法、在文章篇幅上做减法、在传播效果上做乘法、在思维定式上做除法，使新闻报道快起来、活起来、亮起来，让评论理论新起来、精起来、实起来，取得了良好效果。</p>
-<p><strong>讲述好中国故事</strong></p>
-<p>讲话强调，要下大气力加强国际传播能力建设，加快提升中国话语的国际影响力，让全世界都能听到并听清中国声音。这是站在统筹国内国际两个大局、统筹内宣外宣两大要素的角度，对坚持政治家办报提出的更高要求。</p>
-<p>中国已经站在世界舞台的聚光灯下，我们的对外传播也迎来新的发展机遇，内容丰富前所未有、舞台广阔前所未有。从建设“一带一路”到构建人类命运共同体，中国理念需要媒体传播、中国道路需要媒体解读；面向世界、面向未来，讲好中国故事是新闻舆论工作的重要政治要求，也是国际传播的最佳方式。然而，<strong>现实情况是，我们在国际上还常常处于有理说不出、说了也传不开的境地，存在着信息流进流出的“逆差”、中国形象和西方主观印象的“反差”、软实力和硬实力的“落差”，“中国威胁论”“中国崩溃论”等奇谈怪论不时出现。</strong>我们有责任讲述好中国故事、传播好中国声音，让中国故事成为国际舆论关注的话题，让中国声音赢得国际社会理解和认同。</p>
-<p>讲好中国故事，要处理好文与道的关系。“文者，贯道之器也。”在信息时代，谁的故事能打动人，谁就能得到更多听众、更好传播。对外传播不能为了讲故事而讲故事，而要把“道”贯通于故事之中。这既是中国传统文化之“道”，也是中国改革发展之“道”，还是中国参与世界治理、与各国携手打造命运共同体之“道”。为什么我们在“挨骂”时只有招架之功，没有还手之力？一个重要原因，就是我们的国际话语体系还没有建立起来，我们的发展优势和综合实力还没有转化为话语优势。通过引人入胜的方式启人入“道”，通过循循善诱的方式让人悟“道”，才能在国际舆论场上形成融通中外的新概念新范畴新表述，赢得更多话语权。</p>
-<p>讲好中国故事，要统筹好国内国际两个大局。<strong>对内报道要有外宣意识，考虑国际影响；对外报道要有内宣意识，兼顾国内受众感受。</strong>现实表明，国外受众也希望了解一个真实、全面、立体的中国，希望在重大事件和关键节点上听到中国的声音。党的十八届五中全会召开前，人民日报的任仲平文章《向着第一个百年目标迈进》编译后向海外推送，获得100多万用户关注。当前，我们迫切需要从国家战略的层面，将对内传播与对外传播作为一个有机整体统筹运营，形成协同效应、实现协调发展。</p>
-<p>讲好中国故事，要利用好新媒体平台和文化活动平台。新媒体时代提供了“弯道超车”的可能。目前，人民日报海外社交媒体账号的粉丝数超过1800万，在全球报纸类媒体中排名第一。这样的“新技术红利”，使我们有可能在全媒体时代的群雄逐鹿中打破长期以来西方媒体称霸全球的格局。同时，<strong>我们积极开展媒体外交，连续两年成功举办“一带一路”媒体合作论坛，去年邀请到来自61个国家和国际组织的122家主流媒体参会，使之成为我们对外传播的重要落地平台。“十三五”期间，我们将进一步优化整体布局、集中优势资源，着力加强国际传播能力建设，更好履行政治家办报的时代使命。</strong></p>
-<p>上述五个方面，体现了坚持政治家办报的鲜明时代要求。在党的新闻舆论工作中，对政治家办报也是有检验标尺的，这个标尺就是马克思主义、就是中国特色社会主义。正如习近平同志所指出的，是不是确立了马克思主义新闻观，是不是自觉在思想上政治上行动上与党中央保持高度一致，是不是忠实宣传党的理论和路线方针政策，是不是严格遵守党的政治纪律、宣传纪律和长期形成的规矩，是不是在大是大非面前具有政治定力？这些都是评判是否做到了政治家办报的重要依据。</p>
-<p>人民日报作为党中央机关报，必须坚定不移地坚持政治家办报，始终把政治方向摆在第一位。要增强政治意识，绝对忠诚党中央；增强大局意识，自觉服务党中央；增强核心意识，坚决维护党中央；增强看齐意识，始终紧跟党中央。要把政治家办报要求贯穿到新闻舆论各项工作中，成为传播党的主张、反映人民心声的主力军，成为有效引领舆论、提升中国形象的主力军，为实现“两个一百年”奋斗目标和中华民族伟大复兴的中国梦贡献力量。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E7%AE%A1%E4%B8%8D%E4%BD%8F%E6%96%B0%E5%AA%92%E4%BD%93%E5%85%9A%E7%AE%A1%E5%AA%92%E4%BD%93%E5%8E%9F%E5%88%99%E4%BC%9A%E8%A2%AB%E6%9E%B6%E7%A9%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AE%A1%E5%AA%92%E4%BD%93/?category=18271" rel="tag">党管媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%89%E8%88%8C/?category=18271" rel="tag">喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AE%B6%E5%8A%9E%E6%8A%A5/?category=18271" rel="tag">政治家办报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%AF%BC%E5%90%91/?category=18271" rel="tag">政治导向</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%85%B1%E5%9B%A0%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BA%8B%E4%BB%B6%E9%81%AD%E9%81%87%E5%85%9A%E5%86%85%E5%A4%96%E6%BF%80%E7%83%88%E5%8F%8D%E5%BC%B9/" target="cdt-mirror">纽约时报 | 中共因任志强事件遭遇党内外激烈反弹</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CHINAREN2-articleLarge.jpg?resize=600%2C400" alt="在嘲笑习近平领导下的中国政治向独裁主义转向后，任志强被称为一名信仰资本主义的叛徒。但记者、学者和党内人士为其辩护。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CHINAREN2-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CHINAREN2-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>在嘲笑习近平领导下的中国政治向独裁主义转向后，任志强被称为一名信仰资本主义的叛徒。但记者、学者和党内人士为其辩护。</p></div>
-<p>当一位语言犀利的房地产大亨公开嘲笑习近平要求中国新闻媒体毫无保留地忠于共产党时，党的反应是可想而知的快速和严厉。</p>
-<p>任志强有几千万粉丝的微博<a title="Link: http://cn.nytimes.com/china/20160229/c29chinaren/" href="http://cn.nytimes.com/china/20160229/c29chinaren/" target="_blank" rel="nofollow">一夜之间被删除</a>。党的网站对他发起猛攻，称这位大亨是资本主义的叛徒，这种语言让人想起毛泽东时代的整肃运动。当局誓言要进一步惩罚他。</p>
-<p>然而，接下来发生的事情却与标准的脚本有惊人的偏离。</p>
-<p>记者、学者和党内人士开始出面捍卫任志强。党的最高学府的一位教授大胆发声。一家著名杂志对审查者表示谴责。一封由国家通讯社工作人员签名的支持任志强的信在网上风传。一份党报对压制所有不同意见的风险发出了警告。</p>
-<p>这些意想不到的反对意见给这里的政治舞台送来一股凉气，暴露出对吹捧习近平、以及他要求公众无条件地服从的日益强烈的不安。</p>
-<p>“任志强事件是长时间以来一直压抑在系统内的感情的爆发，”北京商人和历史学家章立凡说。“我觉得很多人都感到厌烦了，他们觉得终于有人出来说话了。对攻击任志强的强烈反应超出了当局的预期。”</p>
-<p>任志强成了包括北京当权派在内的越来越多的人，对无休止地要求<a href="http://cn.nytimes.com/china/20160205/c05china/" target="_blank" rel="nofollow">遵守习近平各种禁令</a>的不满的象征。</p>
-<p>“这不只是任志强的问题”，北京的自由主义经济学家茅于轼在接受采访时说，茅于轼和任志强是老朋友。“整个自由公共舆论的空间在缩小。这不是一个孤立的事件。”</p>
-<p>任志强是一位直言不讳的北京房地产开发商，他有着神奇十足的自信，被人称为中国的唐纳德·特朗普(Donald Trump)。</p>
-<p>几年前他开始打算退休时，喜欢上了类似Twitter的微博，用这个平台来为房地产开发商受到的腐败指控辩护，还发表有关国家的直言不讳的看法。</p>
-<p>任志强从来不是一个典型的自由主义者；他看不上那些1989年占领了天安门广场的人。但是，随着习近平掌控更大的权力，任志强的帖子也开始反映出他对政治转向专制的不断增长的恼火。</p>
-<p>最近的这次小冲突始于上个月，当时习近平高调视察了党和国家的三个主要新闻机构，要求它们遵守一项新政策：他说，官媒必须“宣扬党的意志”、“维护党的权威”。</p>
-<p>正当习近平沐浴在媒体对他的言论献媚报道之中时，任志强在自己拥有近3800万粉丝的新浪微博上发了几条粗鲁的评论，中国的微博相当于Twitter。</p>
-<p>“人民政府啥时候改党政府了？”他在一条微博中写道。</p>
-<p>“别用纳税人的钱去办不为纳税人提供服务的事，”他在另一条中写道。“人民已被抛弃到被遗忘的角落了。”</p>
-<p>任志强现年65岁，直到他发表这些言论之前，曾经似乎至少部分地受到他在共产党内所拥有的精英地位的保护，他是一位担任过商务部副部长的老革命的儿子。随着邓小平的市场改革在20世纪80年代席卷中国，他下海经商，先是卖兔子皮毛，后来在房地产生意上发了大财。</p>
-<p>他也是权力巨大的党内反腐大将王岐山的朋友，这一关系已激起人们对可能有更深层竞争在作怪的问题的兴趣。</p>
-<p>王岐山是任志强初中时的政治指导员，仍“偶尔在夜里打电话过来”聊天，任志强在2013年出版的回忆录中这样写道。</p>
-<p>但是这次，任志强的背景并没有为他提供保护。</p>
-<p><a href="http://politics.people.com.cn/n1/2016/0228/c1001-28156066.html" target="_blank" rel="nofollow">国家互联网络信息办公室</a>表示，任志强暗示党和人民可能并不是不可分离的说法已经触犯了法律，并下令关闭了他的微博账户。党的网站和报纸对他群起而攻之，党的官员说，他将面临进一步的处罚。</p>
-<p>“任志强代表资本翻天派，”北京市委宣传部办的千龙网上的一篇评论说。</p>
-<p>该网站上的另一篇评论暗示，任志强竟敢批评习近平，是因为他与王岐山及其他高级官员的关系。</p>
-<p>“我们不禁要问，一个连党章都能无视的党员，公然反党的底气何来？”文章说。“一个半夜三更喜欢给领导打电话的任志强，究竟谁给了他跳出来推墙的‘勇气’？”</p>
-<p>评论受到抨击后，任志强从未公开发言，记者多次拨打其手机均无人接听。</p>
-<p>这场争议并不意味着习近平的控制处于危险之中。他依然手握重权，并且受很多中国民众的欢迎。他们支持他的反腐运动。</p>
-<p>但当局似乎未对支持任志强的反对言论做好准备。</p>
-<p>几个为任志强发声的人表示，此事让他们的恐惧，即对习近平的崇拜和温和的不同意见受到的严厉对待可能会压缩本就有限的言论空间，成为了现实。</p>
-<p>一些人说，任志强受到的苛责让人想起了文化大革命期间的“大批判”，令人担忧。始于1966年的文化大革命持续了十年之久。</p>
-<p>有这些担忧的，不仅仅是党外的自由派。</p>
-<p>共产党培训官员的主要院校中央党校教授蔡霞，在一篇<a href="https://chinadigitaltimes.net/chinese/2016/02/_______________/" target="_blank" rel="nofollow">文章</a>中写道，任志强的遭遇“大有对任志强进行政治审判”的架势。</p>
-<p>“不同观点争论本属于正常”，她写道。“打压不同意见，将会给党带来严重的危害。”文章后来被从中国网站上删除，并受到一家党报的<a href="http://politics.gmw.cn/2016-02/27/content_19067472.htm" target="_blank" rel="nofollow">谴责</a>。</p>
-<p>即便是在共产党控制的立法机构全国人民代表大会，本周结束的年度会议期间也出现了不满的迹象。《财新周刊》杂志<a href="http://cn.nytimes.com/china/20160309/c09chinacensor/" target="_blank" rel="nofollow">援引</a>一名政协委员的话说，“大家都有点迷茫，希望少讲些话。”</p>
-<p>该报道被从财新的网站上删除，但财新刊登了一篇英文<a href="http://cn.nytimes.com/china/20160309/c09chinacensor/" target="_blank" rel="nofollow">文章</a>，指责审查机构删除“自由发言”。这篇文章也被从网站上删除了。</p>
-<p>王岐山领导的反腐机构的报纸在2月底刊登的一篇<a href="http://csr.mos.gov.cn/content/2016-02/29/content_28043.htm" target="_blank" rel="nofollow">评论文章</a>，是部分党内官员对任志强受到严厉责难不满的另一个迹象。</p>
-<p>“大凡成就大业者，往往虚怀若谷，从内心深处愿意倾听不同意见，”这篇文章说。</p>
-<p>任志强和王岐山的关系，引发了对此事表明高层内部出现权力争斗的怀疑。王岐山是在向习近平传递信号吗？任志强表露的不同意见是否指向了更不利于稳定的内部分歧？</p>
-<p>在共产党的核心集团以外，没人知道答案。但如果官方不惩罚任志强，他的人脉关系可能是其中的原因。</p>
-<p>“他们起初想严惩他，”任志强的朋友、和党内精英有联系的陈萍（音）说。“但发现反对声很大，包括党内地位相当高的人，所以他们推迟了决定。他们在等着看情况。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%85%B1%E5%9B%A0%E4%BB%BB%E5%BF%97%E5%BC%BA%E4%BA%8B%E4%BB%B6%E9%81%AD%E9%81%87%E5%85%9A%E5%86%85%E5%A4%96%E6%BF%80%E7%83%88%E5%8F%8D%E5%BC%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%A7%93%E5%85%9A/?category=18271" rel="tag">央视姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B2%90%E5%B1%B1/?category=18271" rel="tag">王岐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%87%91%E9%9B%81%EF%BC%9A99%E7%9A%84%E4%BA%BA%E9%83%BD%E6%B2%A1%E6%9C%89%E7%BB%8F%E5%8F%97%E4%BD%8F%E8%80%83%E9%AA%8C/" target="cdt-mirror">金雁：99%的人都没有经受住考验</a>
-</h2>
-<p><p><strong>由于惧怕对“告密信”处置不力会殃及自身，接到告密信的任何单位和人员，都会投入极大的热情，投入到追寻行列，结果就会像投入水中的石子，逐一扩散波及到更大的圈子。</strong></p>
-<p>在30年代苏联有一种理论：“革命越深入，阶级斗争越尖锐，敌人的反扑就会越猖狂。”于是在斯大林提出“抓魔鬼”的口号下，曾短暂流行于内战时期的“告密文化”再度大行其道。它的再次兴起起源于一个叫奥西波夫的人在给内务部领导人叶若夫检举信中建议：“每一个人都要仔细审视一下自己的朋友和熟人：看看他们<strong>关心什么，为什么活着以及在干些什么</strong>。”“在自己熟悉的环境里从最紧密关系的人入手”是可以起到事半功倍的作用。这个方法对于正发愁无法控制社会信息来源的苏共上层来说，可谓正中下怀。这种做法立即得到整个领导层的首肯并大力推广，立即在社会上掀起了一个培养阶级嗅觉和阶级敏感而进行背靠背的揭发高潮。</p>
-<p><strong>“人是可以被驯化的”</strong></p>
-<p>搞这种运动有一个冠冕堂皇的理由：“因为社会主义建设成就是全人类福祉的基础”，任何其他理由都必须让位于这个崇高的目的。而人其他的所有情感和伦理无疑无法与之相比，统统必须服务于这个伟大的目标。斯大林在给莫洛托夫的信中指示，“去除不必要的愧疚心理”。为了把“危险的政治因素”扼杀在摇篮里，本着“人是可以驯化的”这一法则，把人扔进“革命的火炉里锻造”、“在杀人中培养人”、“最大的愿望要以最大的行政压力来实现”、“每个人在伟大的目标面前都要有罪孽感”，等等。正是这些思想引领了后来一次次的政治运动。</p>
-<p>当时“告密者”还有一个好听的称谓——“啄木鸟”，意为从树干内部找出害虫的“有益动物”，所以“告密运动”也叫“啄木鸟运动”。举报信还有另一个称呼叫做“战斗情报”。在这种社会氛围下，人性、亲情、友谊都成为“资产阶级感情”，而背叛、诽谤、诬告、谎言则受到大肆鼓励。苏俄1926年刑事诉讼法第93条就有这样的条款：<strong>“匿名报告可以作为提起刑事诉讼的缘由”</strong>。58条第12款规定对于58条中列出的任何罪行不检举者与当事者同罪，也就是说，<strong>“知情不报等于是自己犯罪”</strong>，而且可以实行株连政策。为惩治不检举的行为，没有最高刑期的限制。</p>
-<p><strong>整个国家都患上了“侦查狂躁症”</strong></p>
-<p>米沃什曾说：“告密这种行为，古往今来在各种不同的文明中都时有发生，一般而论从来没有人将此种行为提高到美德的程度。但是<strong>在新信仰的文明中，告密却是作为好公民的基本美德受到赞扬</strong>，虽然受传统文化的影响，大家都竭力回避告密这个称谓，而是采取迂回的说法。告密是使所有人畏惧和防备其他人的原因所在。最让人身心交瘁的是：还得随时提防无所不在的眼睛和隔墙有耳的现象。</p>
-<p>“而在这种斗争中，那些好玩弄手段、诡计多端的人就能获得最大的生存机会。总体而言，看门狗一般可以分为两种类型：狂吠而粗暴的狗，隐藏在暗处不声不响、伺机咬人的狗，第二种类型的狗在新信仰国家中享有最多的特权。”</p>
-<p>凡是被抓到“卢比杨卡”的人审讯过程通常都是这样的：专政机构的工作人员对被提审者指着桌子上一大摞卷中说：“我们掌握了你所有的材料，任何时候不但可以把你关起来，也可以把你的家人抓起来，现在取决于你能否有立功的表现，就看你能不能揭发同党了。”</p>
-<p>这种“抓家属”的方法的确是一剂灵丹妙药。斯大林在1930年大肃反高潮以前开始大批抓人的时候，就指示“一定要把苏汉诺夫、巴扎罗夫和拉姆津抓起来，应该试探一下苏汉诺夫的妻子，因为她不可能不知道他们家里发生的丑事”。[1]这种方法一般都会奏效，很多人在这种情况下心理崩溃便会乱咬一气。但是也有人实在无法编织罪名诬陷他人，就会受到侦讯人员明里暗里的“引导提示”，以此就会把更多的人网罗进来，一个反党集团就此形成。</p>
-<p>在这股疯狂的鼓动人们相互撕咬的政治气候下，人们这样自我安慰，“胳膊拧不过大腿”，“不是我还有别人”，“与其让别人——坏人去当暗探，不如我这好人来充当”。这是人们争先恐后自告奋勇其充当暗探。在“鼓励揭发亲人”的社会风气下，“用别人的血保住自己的脑袋”成为常态，整个国家都患上了侦查狂躁症，很多人已经丧失人性“出于半兽的状态”。</p>
-<p>于是出现了很多荒唐的案例，索尔仁尼琴在《古拉格群岛》一书中就说，有很多的人被检举因一粒麦穗、一根黄瓜、两个土豆、一根木头、一个轴线而判刑。</p>
-<p>有人因对铁路桥梁、对工厂的烟囱瞧得时间过久，都会被指控有间谍行为而判刑。有一个学生揭发老师引用列宁和马克思著作，而不引用斯大林语录，导致老师被判刑10年。一个老农问区委书记，集体化七年以来没有得到粮食，得到的只是麦秸，为什么？结果被举报，属于反苏宣传，刑期10年。有一个农民干活卖力，得到了一枚勋章，他说，要是给我一普特面粉顶这个勋章就好了。此话被举报，于是他带着全家6口人流放到马加丹。一位妇女把家里唯一的牛卖掉交税，别人问她，“把牛弄到哪里去了？”，她说，“给斯大林做香肠了”，被人检举后获刑10年。一位农夫把自己养的猪拿到市场上去卖，被举报为“投机倒把罪”，也是10年。克拉斯诺达尔一个女电车司机深夜从车场回来，看见有一辆卡车被陷入道旁，帮忙去推车无意中看见了车上有尸体的手脚，侦查员问她看到了什么？她如实回答。结果以“反苏宣传”罪名处以10年徒刑。前苏联将军、后苏联时期著名的反叶利钦人士列别德的父亲有两次上班迟到了十分钟，被判处服刑5年。</p>
-<p>在1937-38年“抓捕”战役中，据赫鲁晓夫披露有150万人被捕，苏联解体后内务部公布囚犯人数：1937年是120万，1938年是188万。各监狱和劳改营都在抱怨，“人多的已经实在塞不进去了”。 赫鲁晓夫承认，1937-53年间，1700万人被关进了劳改营。</p>
-<p>苏联陷入了一种持续不断的恐怖状态。30年代巴甫洛夫院士在给人民委员会中信中说：“连续不断、不计其数的逮捕使我们的生活很不正常，我不清楚这些逮捕的目的何在？但毫无疑问，在绝大多数情况下，逮捕毫无根据，都是以莫须有的罪名行径的。然而大规模逮捕的直接后果却显而易见，每个人的生活都变得无法预料，这是为了正常的国家吗？……唯唯诺诺才是当政者的不幸和末日呢。”</p>
-<p>托洛茨基原来也曾精于此道。但是不久他在党内斗争中失败，原来用于对付别人的那一套如今落在了自己头上。此时已经成为“反党集团”头头的托洛茨基于是也对大力倡导“告密文化”表示了愤慨。他说，在“维护党的阶级纯洁性”的口号下，“被迫清洗者告密，要求他们忏悔和出卖他人，而所有这一切都在用‘列宁主义’的目标和任务加以解释”。“凡此种种使革命的内容遭到阉割”。我们本来是要用权力来实现理想主义的奋斗目标，而现在，<strong>“权力成了目的本身”</strong>[2]。</p>
-<p><strong>“纳粹党徽”事件</strong></p>
-<p>这其中最荒唐的要属因持有“类似于法西斯纳粹党徽”标志而遭到被捕的人，大概要数以千计了。起因是一些捕风捉影的“积极分子”，从一些带钩的交叉十字形象中发现了众多地方都有疑似卍的“纳粹标志”，于是全苏上下都开始了排查过程。</p>
-<p>据一位当事者说，“我们那里所有区党委书记和古比雪夫市区委机关全体人员手拿放大镜跑来跑去”。他们每到一个单位，事先不通知，“招来区委代表就开始查看笔记本，我们所有的笔记本全被撕坏，他们在封皮上发现有法西斯纳粹党徽，甚至饼干上的鹿也是法西斯标志，糖果上焦糖有小花，这也是法西斯标志”。 一时之间苏联的法西斯特务遍布的消息震撼上上下下，人们如惊弓之鸟、杯弓蛇影般从任何带有十字交叉的图形物体中都能发现“法西斯的隐藏符号”。人人都在自查，人人都在检举，一时间不知道毁掉了多少物品和图案。</p>
-<p>1937年10月15日，中央监察委员会副主席施基里亚托夫收到其下属的重工业组组长瓦西里耶夫的“举报信”。信中说：“全苏国家金属制品供销局莫斯科州办事处主任带来一台由第29厂制造的榨油机”，其螺旋轴上四个叶片据说像是“卍”标记。经调查，该榨油机是由主任工程师图恰什维利设计，车间主任克劳兹（1924年党员、德意志族人）负责安装，由航空工业总局日用品公司经理塔尔斯基（1925年党员）批准投入生产。第29厂1936年共生产该型号榨油机23247台，1937年生产32516台。1936年日用品公司副总经理博罗兹坚科（1926年党员）来到该厂检查工作时，德意志族人克劳兹向他指出，榨油机的叶片与法西斯标志之间相似的政治问题。 博罗兹坚科回答说：“只要对工人阶级有利，不必管它”。于是他们均没有采取措施取消或停止生产这种“有法西斯标志”的榨油机。“举报人”说：“我认为这是一种敌对行为，请将这件案件全部移送内务人民委员部”。</p>
-<p>我们从常识中也知道，有叶片的轴承只要是顺十字交叉顶端有折角都有可能形成类似图像。在那个年代没有人从“常识”出发，<strong>由于惧怕对“告密信”的处置不力会殃及自身，接到告密信的任何单位和人员，都会投入极大的热情，投入到追寻行列</strong>，结果就会像投入水中的石子，逐一扩散波及到更大的圈子。而榨油机已经销往各地。兹事体大，监察委员会不敢怠慢，赶紧召开常委会作出决定，除报送国防工业部人民委员卡冈诺维奇批准在一个月内限期拆除更换所有的榨油机叶片外，把所有关于设计、制造和没有采取措施制止带有法西斯标志的榨油机的有关人员逮捕移送内务部。</p>
-<p>最后到底有多少人为此事受到牵连，我们不得而知。但是知道苏联有一则政治笑话：押解队长问一位被判了20年徒刑的政治犯，你为了什么事而判刑的？——“平白无故。”“你胡说，平白无故那都是判十年的。”</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640-3.jpg?resize=394%2C328" alt="索尔仁尼琴，摄于1994年，流亡二十年后回到俄罗斯" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640-3.jpg?resize=300%2C250 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/640-3.jpg?w=394 394w" sizes="(max-width: 394px) 100vw, 394px" data-recalc-dims="1"><p>索尔仁尼琴，摄于1994年，流亡二十年后回到俄罗斯</p></div>
-<p><strong>“99%的人都没有经受住考验”</strong></p>
-<p>在后苏联时代关于“古拉格恶行”的讨论中有两项内容出现了完全不同的局面。所有人几乎一面倒地反对“以刑事犯惩治政治犯”的管理办法，对这种“狼群治理方式”进行了众口一词的谴责。</p>
-<p>劳改营也是一个小社会，分不同的群体。一般来讲，苏联斯大林时期政治犯占全部囚犯的1/3-1/4（1946年由于庆祝战争胜利而特赦刑事犯，使得政治犯的比例上升到60%），但是他们处在劳改营生态当中的最底层。职业罪犯或刑事惯犯处在这个小社会等级制度的顶端。他们在监狱和劳改营中势力很大，他们有自己的关系网和对外联络渠道，说着“道上”的黑话，有一帮听命的马仔，甚至可以左右着劳改营的生活法则。这些人由于活动能量大有威望，可以当调度员、当工头、当临时管理者，在劳改营里把持着特权，可以随便惩治政治犯。当时古拉格当中有不成文的规定，<strong>“劳改营当局公开利用少数职业罪犯控制其他囚犯”</strong>[3]，有些地方甚至推广“把政治犯与刑事犯混杂在一起”的经验，认为这比看守管理更有效，因此劳改营当局对刑事犯恐吓、威胁、敲诈侮辱、虐待其他犯人（特别是政治犯）的行为不加干预。</p>
-<p>尤其在犯人集中的大型劳改营，刑事犯可以作为被作为控制政治犯的辅助力量。当时政治犯大多是“反党”干部、知识分子和有教养的人，而窃贼、流氓等刑事犯多来自社会底层，根据那时所谓的阶级原则，<strong>在古拉格便把这些刑事犯称作“社会亲近分子”，把政治犯叫做“祖国的背叛者”</strong>。这些职业惯犯大多是没有原则、为利益可以出卖一切的“无灵魂者”、更愿意检举告密政治犯，更愿意与狱卒配合。诱使他们与当局合作。通过把他们提拔上来成为<strong>“模范犯人”</strong>，不但可以得到一定的食物和享受营中特权奖赏，而且还可以减免刑期，这些人就会特别卖力靠出卖他人争取“立功受奖”，“为了在劳改营的等级往上爬一点而拆别人的台”不遗余力。政治犯在古拉格除了受管理当局的残酷虐待以外，还要遭受刑事犯的欺辱。</p>
-<p>索尔仁尼琴、利哈乔夫等人就特别痛恨这种借刑事犯之手收拾政治犯的作法。痛斥那些职业惯犯活着但没有灵魂，只要有利益可图什么事都能干，他们只有医学上说的心脏，而不是人类，是人渣。在索洛维茨集中营办的一个壁报，冠冕堂皇的就叫“告密者”（стукач），主要任务就是监视政治犯的一举一动。据劳改总局局长纳谢德金给贝利亚的报告总说：“在犯人中加强招募侦探情报人员，劳改营当中的情报网扩大了186%，特情组长增加了225%，特情人员增加了303%”，成效显著。</p>
-<p>20年代国家政治保卫局为自己设定的目标是，掌握不低于集中营囚犯25%的告密者，30-40年代这一数字降低到10%。阿普尔鲍姆在《古拉格一部历史》一书中提到，很多人都讲述到劳改营的第二天，就会被带到行动特派员——告密者的招募人（在劳改营里被称为“教父”）那里要求合作。索尔仁尼琴说，他刚到劳改营的那段日子是他最初软弱时期，他签署了一份保证书，同意报告当局所需要了解的所有消息，还为自己取了一个鬼鬼祟祟的化名：“维特罗夫”。索翁说虽然实际上他什么也没有报告，但是“那四个字在我的记忆中打上了耻辱的印记”。1956年再次受到招募时，他拒绝签署任何东西。</p>
-<p>关于如何看待“模范犯人”的问题上人们的分歧很大，并曾导致过一场著名的争论。苏联末期与后苏联时期不少古拉格幸存者都谴责这种体制，但他们中有些人也是靠当“模范犯人”才得以幸存的。索尔仁尼琴以经受住了考验者自居，说他鄙视所有的模范犯人，这些人靠出卖别人取得自己的生存机会，这一称呼“让我倍感耻辱”。但索翁也表示自己有愧于那些更坚强更正直的人——他们大都没能活下来。</p>
-<p>《科雷马叙事》的作者沙拉莫夫也说：“我拒绝谋求提供某种生存机会的工头职位，在劳改营里最卑劣的事情莫过于把自己或者别人的意志强加于像自己一样的囚犯身上。”（383）但他也指出这是个极高的标准：“劳改营是对我们道德力量、我们普通道德观的一场严峻考验，99%的人都没有能经受住这场考验。”（381）</p>
-<p>而同样是古拉格揭露者的列夫·拉兹贡，就反对索尔仁尼琴把模范犯人描绘成卖身投靠者，他认为，有好的模范犯人和坏的模范犯人，有帮助别人的人和伤害别人的，他们并不比地位低于他们的囚犯更安全。因为拉兹贡本人就是一位高级别的模范犯人[4]。附和拉兹贡观点的人都说，有过这种经历的人都知道，“长时期服刑之后活下来的所有犯人中的大多数在劳改营生涯的某一段时间都曾经当过‘模范犯人’”，“选择模范犯人，只是生存的需要，否则根本不可能活下来”。我想作为局外人，对于如何在这种极端严酷的环境中选择生存策略，而同时又能坚守道德底线，恐怕语言是无法说明的。这的确是一种把人变成鬼的“改造”。</p>
-<p>注释:<br>
-[1]沈志华主编：《苏联历史档案》第11卷，社科文献出版社2002年，136页。<br>
-[2]沈志华主编：《苏联历史档案》第12卷，社科文献出版社2002年，51页。<br>
-[3]阿普尔鲍姆：《古拉格一部历史》新星出版社2013年，309页。<br>
-[4]阿普尔鲍姆：《古拉格一部历史》新星出版社2013年，399-4-3页。</p>
-<p>（本文原标题：《荒唐年代的人性考验》）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%87%91%E9%9B%81%EF%BC%9A99%E7%9A%84%E4%BA%BA%E9%83%BD%E6%B2%A1%E6%9C%89%E7%BB%8F%E5%8F%97%E4%BD%8F%E8%80%83%E9%AA%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/r%E4%BA%BA%E6%80%A7/?category=18271" rel="tag">r人性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%8A%E5%AF%86/?category=18271" rel="tag">告密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%8A%E5%AF%86%E6%96%87%E5%8C%96/?category=18271" rel="tag">告密文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E5%8A%A1%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">特务统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">革命</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
 	<small> ============== 2天前</small>
 </p>
 <table>
@@ -932,7 +872,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/r%E4%BA%BA%E6%80%A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -942,5 +882,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/r%E4%BA%BA%E6%80%A
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

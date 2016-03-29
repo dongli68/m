@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-18/" target="cdt-mirror">【网络民议】这届人民除了选领导选的很好，别的都不行！</a>
+</h2>
+<p><p>以下评论选自新浪微博：</p>
+<p><a title="劳动创造一切2012" href="http://weibo.com/u/2654485304?refer_flag=1001030103_" target="_blank">劳动创造一切2012 </a>：网上流行调侃：领导这么英明+经济这么不好=<span>这届人民不行</span>。</p>
+<p><a href="http://weibo.com/chujiingmoliang" target="_blank">女王爱雪糕</a>：也对，毕竟我只做得来人民，而永远做不成人民币。</p>
+<p><a href="http://weibo.com/1822912060" target="_blank">wan魚子的一些事一些情</a>：<img src="https://s.w.org/images/core/emoji/72x72/1f648.png" alt="</p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%A4%E5%BE%B7%E6%98%8E%EF%BC%9A%E8%BF%91%E5%B9%B3%E4%B9%8B%E6%B2%BB/" target="cdt-mirror">苹果日报 | 古德明：近平之治</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-%E4%B8%8A%E5%8D%8811.39.41.png?resize=499%2C286" alt="Screen Shot 2016-03-29 at 上午11.39.41" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-上午11.39.41.png?resize=300%2C172 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-上午11.39.41.png?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></p>
+<p>中共一年一度人大政协京剧落幕，全剧最瞩目的，是演老生的习近平和唱末脚的李克强同坐，却视之如无物。李克强念政府工作报告，场上响起四十五次掌声，习近平却手掌都不动一下。他的前任胡锦涛，待其副贰温家宝念白之后，会趋前握手；习近平则不但懒得给李克强这点面子，甚至话都不跟他说一句。</p>
+<p>而李克强名义上固然是总理，实际上已沦为伴食宰相，连经济决策权都给习近平夺去。同时，习近平大举起用旧交、旧部，例如王岐山文革期间曾和他同床共被，现在做了中共纪律检查委员会书记，随时可用“贪污”罪名翦除异己；习近平同乡赵乐际、同学陈希，则一个做了中央组织部长，一个做了常务副部长，党内黜陟保证非亲不用；他的旧部更纷纷加官晋爵：宋涛升任中央对外联络部长，陈敏尔升任贵州省书记，巴音朝鲁升任吉林省书记，刘赐贵升任海南省长，应勇升任上海市副书记等等。</p>
+<p>旧中国君主为政之道，有与习近平迥不相同者。唐太宗用人唯才，其旧部所得官职，往往不如从前和他对敌的东宫、齐府旧人，于是相对嗟怨说：“吾属（我们）奉事左右，几何（若干）年矣。今除官（所获官职），反出前宫，齐府人之后！”太宗正告他们说：“王者至公无私，故能服天下之心。朕与卿辈，日所衣食，皆取诸民者也，故设官分职，以为民也，当择贤才而用之，岂以新旧为先后哉！（《资治通鉴》卷一九二）”所以太宗贞观之治，震古烁今。</p>
+<p>又《次柳氏旧闻》载：唐玄宗即位，“体貌（待之以礼）大臣，宾礼故老，尤注意于（宰相）姚崇、宋璟，引见便殿（正殿以外的宫殿），皆为之兴（会起立相迎），去则临轩以送（一直送到殿前）。”玄宗不会视宰相为无物，所以开元之治几乎媲美贞观。</p>
+<p>当然，对习近平来说，传播界要姓党，军队要姓党，全国一切都姓党。而他身为党“核心”，姓党等于姓习。然则他怎会像唐太宗那样，说什么“朕与卿辈，日所衣食，皆取诸民”，施政更怎会“以为民也”。中共常说的，是“我们令全国十三亿人民得到温饱”；习近平对党员说的，是“假如我们的党弱了散了垮了，其他政绩还有什么意义？”他努力揽权自重，务求做毛二世，以天下奉一人一党，就是这个道理。人大主席台上，习近平连斟茶都有专人服侍，其他政治局委员则没有，于此可见其余。</p>
+<p>旧中国没有民主，君权不受制度束缚，以致历代治乱相寻。但是，从前的君主，多少都受儒学熏陶，多少会讲讲道理。今天，中国变成中共之国，亘六十六年，却连一年半载太平盛世都没有，有的只是大跃进、文革、六四以及六四之后无日无之的民变，每年所谓维稳费动辄以千亿元计。我不是说旧中国好，但看见习近平所作所为，不禁又“忆昔开元全盛日”。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%A4%E5%BE%B7%E6%98%8E%EF%BC%9A%E8%BF%91%E5%B9%B3%E4%B9%8B%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%86%85%E6%96%97/?category=18271" rel="tag">习李内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%88%86%E8%A3%82/?category=18271" rel="tag">习李分裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%AD%E5%9B%BD%E8%80%83%E8%99%91%E5%87%BA%E5%8F%B0%E7%9B%91%E6%8E%A7%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%96%B0%E8%A7%84%E5%AE%9A/" target="cdt-mirror">自由亚洲 | 中国考虑出台监控互联网的新规定</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-%E4%B8%8A%E5%8D%8811.20.11.png?resize=548%2C352" alt="Screen Shot 2016-03-29 at 上午11.20.11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-上午11.20.11.png?resize=300%2C193 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-上午11.20.11.png?w=548 548w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"><br>
@@ -764,50 +792,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%97%B6%E9%97%B4%E6%B2%A1%E6%B6%88%E8%A7%A3%E6%96%B9%E5%8A%B1%E4%B9%8B%E5%BD%A2%E8%B1%A1%EF%BC%8C%E7%BA%AA%E5%BF%B5%E8%91%97%E4%BD%9C%E4%B8%8D%E6%96%AD%E5%87%BA%E7%89%88/" target="cdt-mirror">法广｜时间没消解方励之形象，纪念著作不断出版</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/fanglizh_0.jpg?resize=548%2C308" alt="fanglizh_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/fanglizh_0.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/fanglizh_0.jpg?w=630 630w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"></p>
-<p>今年年初，由林培瑞教授翻译的《方励之自传》英文版推出，几乎与此同时，在著名天体物理学家、民主人权倡导者方励之的四周年忌日前夕，明镜出版社推出《方励之纪念文集·人文卷》。今天我们就请参加了《人文卷》编辑的明镜集团总主笔高伐林先生，介绍这本书。</p>
-<p>法广：高伐林先生，明镜出版社一年多前出版了《方励之纪念文集·科学卷》，现在又出版了《人文卷》。能够被世人横跨科技和人文两方面来铭记，当代这样的人很稀有了吧？</p>
-<p>高伐林：是的，实在是凤毛麟角。康德有一句名言：世界上只有两样东西是值得我们深深景仰的，一个是我们头上的灿烂星空，另一个是我们内心的崇高道德法则。这句话仿佛是给方励之“量身打造”的，他恰巧就“深深景仰”这“两样东西”：多年来孜孜不倦地探索“头上的灿烂星空”，同时也按照内心所景仰的“崇高道德法则”，不畏艰险，推动中国的民主和人权进步。著名华裔历史学家余英时在这本书的代序中写道：方先生是一位杰出的科学家，但是他毕生关怀的不仅是知识的“真”，而且也是社会的“善”。</p>
-<p>法广：方励之究竟是一位什么样的人呢？</p>
-<p>高伐林：他毕业于北京大学物理系，到中国科学院近代物理研究所工作仅仅一年，就在“反右”运动中被开除中共党籍，下放劳动。1958年，他被调到中国科学技术大学任教，“文革”中多次被下放劳动，干农活，修铁路，挖煤……处境极端艰辛，他却开始了天体物理和宇宙学研究。“文革”后，他成为中国科技大学教授，被选为中国科学院学部委员——相当于后来的院士，当上科技大副校长。他的科学成就，主要在《方励之纪念文集·科学卷》中介绍：他的研究领域跨及核物理、激光物理、理论天体物理及宇宙学，他发表了350余篇研究性论文，培养了近20名博士，是24本书的作者、编者或共同作者。</p>
-<p>法广：他为什么会投身民主和人权事业？</p>
-<p>高伐林：方励之人生的前半段，主要是献身科学事业；但是他充满坎坷苦难的经历使他体验到，即便是天体物理学家，在仰望浩瀚天宇的同时，也要倾听人间疾苦、大地呼声。他的天文学知识背景也推动他接受普世的价值理念，用他自己的话来说：现代宇宙学第一条原理是“整个宇宙是没有中心的”，在如此平衡的宇宙中演化出来的人类，“怎么可能不去建造一个人人与生俱来的权利都得到尊重和平等的世界”？</p>
-<p>他敏锐地看到，当局宣传的“中国有中国的人权标准”，同18世纪封建统治者宣称的“中国有中国的天文学”，其荒谬何其相似！</p>
-<p>法广：他在这些方面有哪些活动呢？</p>
-<p>高伐林：方励之在上个世纪八十年代初，成为中国民主和人权的旗手之一，学者严家其夫妇甚至说他是中国大变革的“第一推动力”。他在全国各地演讲倡导政治体制改革、尊重人权，在中国思想界最黑暗的年代，他以科学为依托，用科学语言和科学方法为武器，挑战极权思想的理论基础和根本信念，建立了巨大的声望，后来在流亡期间，担任中国人权共同主席。</p>
-<p>方励之有好几件事让我印象很深：他参与策划召开一次纪念和反思“反右”30周年的研讨会，这无异于在当年直接指挥“反右”的邓小平太岁头上动土；1986年底的学生运动后，方励之被撤销科大副校长，调至北京天文台，并且第二次被开除中共党籍，这一次，是邓亲自下令。但他没有屈服，1989年初他给邓小平写信，要求释放政治犯魏京生，再次触犯邓小平的逆鳞。“六四”后，方励之被当局指为“暴乱策划者”“黑手”，全国通缉。方励之在美国驻北京大使馆避难一年后，中国政府与美国达成协议，才放他离境，先到剑桥大学和普林斯顿访问，于1992年到亚利桑那大学物理系担任教授，直至去世。</p>
-<p>法广：你们是怎么编出这本书来的呢？</p>
-<p>高伐林：主要的编辑工作，是《方励之纪念文集》编辑委员会做的。编辑成员多是他分散在太平洋两岸的同行、学生和朋友，他们利用电邮建立编辑组，投入大量的业余时间征稿，尤其是联系与方励之在人权和民主活动方面关系密切的人士，挑选有关文献、信件，编辑成这本《人文卷》。文章的来源甚广，既有他生前友好、并肩推进民主和人权事业的战友、中外名流，也有他在中国和美国的学生，还收入了美国政界人士、海外中英文媒体的报道和网络上流传的纪念文章。</p>
-<p>我在协助他们编辑出版的过程中，深为他们巨大的奉献热忱和一丝不苟的态度所感动。我想，这或许正是方励之精神折射的光芒吧。</p>
-<p>法广：编辑者期望通过这本书实现什么样的意图？</p>
-<p>高伐林：他们要探究这样一个问题：为什么会有这么多人怀念这位并非高官显贵的科学家？编辑者殷切期望读者能从书中得到回答，看到方励之“罕见的远见、深思、才艺、无私、和睦待人的大科学家、教育家和思想家风范”，看到他如何从科学出发来影响中国的科技教育发展和社会政治改革，并为后人研究方励之、研究近现代史、近现代科技史保留珍贵史料。</p>
-<p>有一个细节给我印象很深：</p>
-<p>1989年，在方励之还在美国大使馆避难时，荣获罗伯特·肯尼迪人权奖。当局怒不可遏，外交部发言人李肇星重复数遍“强烈的愤慨”，一再强调“众所周知……方励之是中国公安部门通缉的罪犯”。而在当年11月15日颁奖仪式上，播放了方励之的获奖词录音：“我们可能仅仅恐惧今天，但绝不恐惧明天。相反，那些杀人者，不但恐惧今天，更加恐惧明天。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%97%B6%E9%97%B4%E6%B2%A1%E6%B6%88%E8%A7%A3%E6%96%B9%E5%8A%B1%E4%B9%8B%E5%BD%A2%E8%B1%A1%EF%BC%8C%E7%BA%AA%E5%BF%B5%E8%91%97%E4%BD%9C%E4%B8%8D%E6%96%AD%E5%87%BA%E7%89%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E5%8A%B1%E4%B9%8B/?category=18271" rel="tag">方励之</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E5%A7%8B%E4%BA%8E%E4%BD%9C%E4%BC%AA%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%97%A0%E8%80%BB/" target="cdt-mirror">【麻辣总局】“我是如此爱国”</a>
-</h2>
-<p><p>佚名作者：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/wp-1459037573124.jpg?resize=569%2C800" alt="wp-1459037573124" data-recalc-dims="1"></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E7%97%9B%E6%89%B9%E8%A5%BF%E6%96%B9%E6%95%99%E6%9D%90%E7%9A%84%E5%85%B1%E9%9D%92%E5%9B%A2%E5%B9%B2%E9%83%A8%E8%A2%AB%E6%9B%9D%E9%80%81%E5%AD%90%E8%B5%B4%E5%8A%A0%E7%95%99%E5%AD%A6/">【立此存照】痛批西方教材的共青团干部被曝送子赴加留学</a></p></blockquote>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A2%99%E5%A4%96%E6%A5%BC-%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E5%A7%8B%E4%BA%8E%E4%BD%9C%E4%BC%AA%EF%BC%8C%E7%BB%88%E4%BA%8E%E6%97%A0%E8%80%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">小蔺主任</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -819,7 +803,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -829,5 +813,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

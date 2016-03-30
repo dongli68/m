@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平 | 我的声明：自由没有交易</a>
@@ -87,7 +87,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5/?category=18271" rel="tag">中国未来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">政治体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E5%A4%A7%E4%BC%9F/?category=18271" rel="tag">沈大伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9/?category=18271" rel="tag">路径选择</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%AE%89%E9%82%A6%E7%9A%84%E9%9A%90%E7%A7%98%E8%B4%A2%E5%AF%8C%E5%B8%9D%E5%9B%BD%EF%BC%9A%E6%9D%83%E8%B4%B5%E4%BA%91%E9%9B%86%EF%BC%8C%E8%82%A1%E6%9D%83/" target="cdt-mirror">纽约时报｜安邦的隐秘财富帝国：权贵云集，股权盘根错节</a>
 </h2>
@@ -123,6 +123,45 @@ Kiki Zhao自北京对本文有研究贡献。<br>
 <a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%AE%89%E9%82%A6%E7%9A%84%E9%9A%90%E7%A7%98%E8%B4%A2%E5%AF%8C%E5%B8%9D%E5%9B%BD%EF%BC%9A%E6%9D%83%E8%B4%B5%E4%BA%91%E9%9B%86%EF%BC%8C%E8%82%A1%E6%9D%83/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%B0%8F%E6%99%96/?category=18271" rel="tag">吴小晖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%B0%8F%E9%B2%81/?category=18271" rel="tag">陈小鲁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8E%AB%E4%B9%8B%E8%AE%B8-%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%EF%BC%9A%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%92%8C%E5%85%85%E6%BB%A1%E6%B7%B7%E4%B9%B1/" target="cdt-mirror">莫之许 | 中国未来：不稳定和充满混乱</a>
+</h2>
+<p><p>2015年3月6日，美国乔治.华盛顿大学教授沈大伟（David L. Shambaugh）在《华尔街日报》上发表了〈中国即将崩坏〉（The Coming Chinese Crackup）一文，文章列举了五个方面的标志性现象，并认为，中国的政治体系严重崩坏。这一观点顿时引发了广泛的关注。</p>
+<p>1989年以来，关於中共统治即将崩溃的预言并不少见，沈大伟的文章之所以引起广泛关注，有两个原因，其一，沈大伟本人与中共官方保持良好的关系，中国翻译并出版过他的着作，官方媒体也援引过他的观点；2015年1月，在中国外交部下属的外交学院还把他列为「美国最有影响力的中国问题专家」的第二位。其二，沈大伟曾经对中共统治的前景有相对积极的评价，沈大伟和哥伦比亚大学政治系教授黎安友（Andrew J. Nathan）一样，被看出是所谓「韧性威权」的主要倡导者。</p>
+<p>这两位美国重要的中国研究专家在过去几年，对於中国走向的判断有着巨烈的变化。</p>
+<p>黎安友在2003年1月发表於美国《民主》杂志的〈威权主义的韧性〉一文中认为，「中国没有出现民主转型，反而是完成了由极权主义向经典威权政权的转型，并且似乎变得越来越稳定了」。而沈大伟在2007年出版的《中国共产党：收缩与调适》（China’s Communist Party: Atrophy and Adaptation, 2008）则认为，中共通过学习和适应，有潜力去克服或遏制包括腐败在内的诸多问题。</p>
+<p>但两人却在过去几年翻转了对中国威权平稳运作的看法。沈大伟去年在《华尔街日报》的这篇文章，是他个人观点的一个大翻转，同时也被看作西方主流学界对於中共统治未来图景开始转变的信号。他写道：「专制正严重压迫中国的体制和社会，使其更接近崩溃点。终结的过程则可能拖延、不稳定和混乱」。</p>
+<p>就在最近，2016年3月，沈大伟的新书《中国的未来》（China’s Future）出版，他继续呼应其一年前的观点，更详细地解释了这个结论是如何得出的。他在书中写到，如果中国保持2009年以来的强硬威权路线，就将不可避免地像大多数发展中经济体一样，陷入中等收入陷阱，中国社会会变得更加不稳定和难以预测，如果没有政治自由化，一些因素到某个点就会「突然折断」。很显然，这与当初的韧性威权具有调适能力的图景截然相反。</p>
+<p>更引人瞩目的是，类似转向并不仅见於沈大伟身上。</p>
+<p>最先於2003年提出韧性威权概念的哥伦比亚大学教授黎安友，2009年就在〈威权主义的非永久性〉一文中指出，「中国未来最有可能的转型方式仍然将是天安门事件那样的模式」，此外，笔者也注意到，还有更多的政治学家表达了类似的观点；如2015年11月在《美国利益》发表的〈共产党在中共统治的黄昏〉（The Twilight of Communist Party Rule in China）一文中，美籍华裔的政治学家裴敏欣也认为，「中共89後维持政权的策略已经无法持续，而最新的替代策略，却似乎正在加速其统治的结束」。西方主流学界对於中共统治未来图景确实发生了转变。</p>
+<p><strong>韧性幻象的出现</strong></p>
+<p>中共具有学习和调适的能力，这在一定程度上是真实的，自毛泽东去世以後，中共一直在寻求有别於传统计划经济体制的的发展模式。这种以实用主义为主导的努力，也并非没有具体的目标，中共在一开始所学习的对象，正是当时尚处在威权统治下的台湾、韩国、新加坡，以及自民党长期一党执政的日本所代表的东亚威权发展模式。</p>
+<p>1989年，中共镇压了民主运动，随後，东欧和苏联出现巨变，许多人对同为共产极权国家的中共政权有着相当悲观的前景预测，然而，中共并没有终止上述尝试和努力，恰恰相反的是，受苏联和东欧共产主义政权崩溃的刺激，以邓小平南巡为标志，中共更加加速了1980年代开始的市场化和对外开放的进程。</p>
+<p>与许多人的预测相反，中共政权从冲击中走了出来：成功地融入了国际经济秩序、取得了持续的经济成长；同期，还实现了江泽民与胡锦涛之间和平的权力交接；在经济增长的奇蹟映衬下，尽管也有着越来越严重的腐败，体制官僚也显得似乎专业和能够回应社会需求；此外，尽管期间镇压了中国民主党的组党尝试，压制了法轮功群体的诉求，经济增长带来的绩效合法性，还是提高了中共政权的支持度；文化消费自主和网络时代的来临，更给人以一种宽松的感觉。总之，在许多观察家的眼里，中共政权通过有效的调适，「已经进行了自我巩固」，「中国这种特殊的威权体制，已被证明了是具有韧性的」。（黎安友，〈威权主义的韧性〉）。</p>
+<p>不仅如此，在许多观察家看来，获得韧性的中共政权，还可以通过进一步的转型，变为更开放、更自由化的半民主或一党独大型政体，如沈大伟所言，中共「也可以采取主动和动态的方式执政，以开放的姿态，尝试引导和管理变革」。这些措施，包括经济进一步私有化，尤其是大型国有企业的私有化改革，以及土地的自由流通；也包括进一步的法治化，以促进经济发展和创新；政治上的转变则在於，通过以「三个代表」为核心的党建措施，将私人企业主、专业技术人员、管理阶层等新兴社会阶层吸纳进入体制、甚至吸收入党，将不仅能改变中共的执政方式和风格，也能够改变其成分和方向。在一定程度上，这类似於在1970年代退出联合国等危机後，国民党在台湾所实施的本土化策略。</p>
+<p>而在大陆内部，也有许多人相信，通过这样的开放和主动改革，中共可以实现由「革命党向执政党的转变」，而市场化和对外开放，不可避免地会带来私有经济和新兴中产的壮大，也会促进包括NGO在内的社会组织的兴起，最终，在新兴社会力量的推动下，转变了的中共就可以与社会力量渐进、互动、平稳地实现包括政治体制在内的全面转型。</p>
+<p>不过，具有讽刺意味的是，上述观察和预言，几乎在其刚一出台，就随即失去了其解释力。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=440%2C293" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>首先，那些曾经被寄予希望的进一步变革并没有出现：在经济上，1990年代的「抓大放小」被「做大做强」国有企业所代替，非但没有出现进一步的私有化国企改革，反倒出现了被称之为「国进民退」的现象；法治化也出现了类似的现象，不是朝向更重视权利、规则和限制政府权力，而是以所谓「三个至上」（党的事业至上、人民利益至上、宪法法律至上）为代表的国家主义倾向的重新抬头。更令人失望的还在於，曾经被寄予厚望的「三个代表」路线，在经历了江泽民与胡锦涛的权力交接之後，迅速地偃旗息鼓，而沦为了某种摆设式的存在。</p>
+<p>其次，即使是那些被看成是韧性威权的基础的内容，也被事实所证明并不那麽稳固：薄熙来事件表明，围绕最高权力的争夺，并不因为任期制而消失；十八大以後，习近平的强势反腐，不仅树立了自己的个人权威，在相当程度上削弱了集体领导体制，也破坏了官僚体制通过经济发展获取政绩和个人利益的一致性。从制度化的层面来看，作为後1989政权存续关键的精英的团结、基於绩效合法性的官僚驱动力等等，都迅速地成为了过去。</p>
+<p>或许，还要加上2015年令人大跌眼镜的股灾表现，与曾经一度被看作神话，但最终被证明不过是平庸之辈的日本经济官员一样，曾经被认为经过专业化而具有高超能力的大陆官僚，也迅速沦为了国王的新衣，这表明，作为韧性威权核心内容的精英选拨、并通过这一精英群体的学习和适应能力来回应社会要求，推动经济发展，很可能只是一个神话，曾经的经济奇蹟，也只不过是赶上了一段好时候。</p>
+<p>最後，威权体制的韧性，最终还是需要建立在对於新兴社会阶层的吸引之上，而随着「三个代表」路线的无疾而终，中共越来越将政权存续的基础，放置在对新兴社会的压制之上。尽管体制可能成功地在短期内获得了相对安全，但却造成了新兴社会阶层对於体制的离心倾向。</p>
+<p>在2015年3月那篇引起轰动的文章里，沈大伟举出了5个具有指示性的现象，其中第一个就是「中国的富豪们已经一脚踏出了国门，他们已经为一旦制度真正开始崩溃而大批逃亡做好了准备。」事实上，不仅富豪，移民已经成为中产以上阶层普遍的话题，和越来越多的行动。而更加令人不安的是，对新兴社会的压制还有着越来越强的趋势，对网络言论、维权律师、NGP群体、宗教群体的打压在规模上和力度上都在升高。</p>
+<p>黎安友从发表〈威权主义的韧性〉一问，到承认「中国未来最有可能的转型方式仍然将是天安门事件那样的模式」，不过区区数年，2015年，沈大伟在接受《纽约时报》采访时坦承，「在2009年中期，曾庆红退休之後，中共的方向突然发生了转变。」而此时，距离其《中国共产党：收缩与调适》一书的出版，还不到两年。而中共自从奥运之後强化的维稳体制，以及中共十八大之後越来越显着的强力压制，所有这一切都表明，当初在经济奇蹟映衬之下，所做出的威权主义所具有的韧性，现在看来更像是一种幻象。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?resize=500%2C161" alt="Cexe3gKWIAAIWoR.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?resize=300%2C97 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?resize=768%2C248 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?w=840 840w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><strong>真实的未来是什么？</strong></p>
+<p>为什麽威权韧性的幻象会如此迅速地消失？这或许是许多外部观察家和大陆内部思考者都共同关心的问题，每一个观察者和思考者也都会给出不同的答案组合，而在笔者的理解，有一些基础性的因素，可能是导致威权韧性幻象迅速消失的原因。</p>
+<p>首先，後1989年的政权存续基础内容或者说威权韧性的表现，包括精英团结、绩效合法性、对新兴社会精英的吸纳、韬光养晦的外交政策等等，所有这一切，可能都来自於对於1989事件的回应，比如，精英团结，很大程度上是因为1989镇压和苏联、东欧政权垮台所带来的内外刺激下，所产生的一种危机意识，或者说「一条船主义」，让精英们暂时团结起来，并在一定时间内服从了任期制和集体领导等规则，然而，这一危机意识当然会随着时间而逐步弱化，换言之，从一开始，这就可能只是一种短期现象，而不是制度化表现。</p>
+<p>其他如韬光养晦、注重经济发展、对新兴社会精英的吸纳等等，都可以从这一点得到解释，而如果说後1989年的政权存续基础内容或者说威权韧性的表现，是基於1989年镇压後的反应，那麽，就不要忽略，1989年镇压之所以产生，是为了坚持专政，拒绝自由化，「一步都不能退」，这也同时就意味着，所谓威权韧性的表现，从一开始就在维持专政、拒绝自由化的范围之内，许多观察家所期待的进一步改革内容，以及一些大陆人士所期待的渐进转型，实际上从来都不在中共政权的考虑之内。</p>
+<p>以维持专政为目标的体制表现，伴随着惊人的经济成绩，曾经给人以韧性的幻象，但是，在大陆经济增速减缓，新兴社会阶层诉求上升，以及普遍的腐败等内外压力面前，迅速露出了其更加压制性的一面。沈大伟在新书中，仍然认为「政治体制是关键」，认为「中共可以带领中国回到政治改革的道路上，逐步加强政治开放和改革，同时不会失去控制和权力」，并因此能挽回其走向衰亡的最後阶段。</p>
+<p>不过，以我上面的简短分析的逻辑，後1989政权存续基础内容或者说威权韧性的表现，从一开始就排除了政治自由化的内容，也就根本不会有政治改革，恰恰相反的是，维持既有的专政体制，才是中共政权的前提。展望未来，沈大伟所预言的拖延、「高度不稳定和混乱」（highly unstable and unsettled）的衰亡过程，才是远为可能的真实未来。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8E%AB%E4%B9%8B%E8%AE%B8-%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%EF%BC%9A%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%92%8C%E5%85%85%E6%BB%A1%E6%B7%B7%E4%B9%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5/?category=18271" rel="tag">中国未来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">政治体系</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 9小时前</small>
@@ -605,90 +644,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%84%8A%E6%A2%81/" target="cdt-mirror">【网络民议】共和国脊梁</a>
-</h2>
-<p><div>
-<div><a href="https://twitter.com/beidaijin" data-user-id="435954378"><img src="https://i2.wp.com/pbs.twimg.com/profile_images/2226938288/0_bigger.jpg?ssl=1" alt="" data-recalc-dims="1"><strong data-aria-label-part="">贝带劲</strong>‏<span data-aria-label-part="">@beidaijin</span></a>：在南都工作16年的余少镭老师离职。离职原因：「无法跟着你们姓」</div>
-</div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeoWtkrWEAEDNZE.jpg?resize=599%2C390" alt="CeoWtkrWEAEDNZE" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeoWtkrWEAEDNZE.jpg?resize=300%2C195 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeoWtkrWEAEDNZE.jpg?resize=230%2C150 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeoWtkrWEAEDNZE.jpg?w=599 599w" sizes="(max-width: 599px) 100vw, 599px" data-recalc-dims="1"></div>
-<div></div>
-<div>
-<div><a href="https://twitter.com/maoxinyu1949" data-user-id="420946497"><strong data-aria-label-part="">社会主义接班人</strong> ‏<span data-aria-label-part="">@maoxinyu1949</span></a>：<a dir="ltr" href="https://twitter.com/beidaijin" data-mentioned-user-id="435954378">@beidaijin</a> 共和国脊梁</div>
-<div>
-<div><span>包子打不了狗：</span>有傲骨，是条汉子，佩服!</div>
-<div><span>匿名：</span>有骨气</div>
-</div>
-<div>
-<div><a href="https://twitter.com/mynamexu" data-user-id="49693637"><strong data-aria-label-part="">williamxu威廉退尔</strong> ‏<span data-aria-label-part="">@mynamexu</span></a>：可得马上给少镭兄送温暖才好！</div>
-<div></div>
-<div></div>
-</div>
-</div>
-<div>附：自由时报｜不爽媒體姓黨 中國編輯辭職「無法跟著你們姓」</div>
-<div></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/600_phpmmzM53.jpg?resize=302%2C416" alt="600_phpmmzM53" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/600_phpmmzM53.jpg?resize=218%2C300 218w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/600_phpmmzM53.jpg?w=302 302w" sizes="(max-width: 302px) 100vw, 302px" data-recalc-dims="1"></div>
-<div></div>
-<div>
-<div>
-<p>余少鐳在《南都》文化部擔任16年編輯，今天傍晚在微博宣布離開《南都》。（圖取自微博）</p>
-</div>
-<div>
-<ul data-desc="圖片"><li><a href="http://news.ltn.com.tw/photo/world/breakingnews/1647187_2" data-desc="圖片1"><img title="中國下令要求「媒體姓黨」體現共產的意志，今天（28日）《南方都市報》資深編輯、知名專欄作家余少鐳宣布離職，原因是「無法跟着你們姓」。（圖取自微博）" src="https://i2.wp.com/img.ltn.com.tw/2016/new/mar/28/images/bigPic/400_400/phphyBKRb.jpg" alt="中國下令要求「媒體姓黨」體現共產的意志，今天（28日）《南方都市報》資深編輯、知名專欄作家余少鐳宣布離職，原因是「無法跟着你們姓」。（圖取自微博）" data-recalc-dims="1"></a>中國下令要求「媒體姓黨」體現共產的意志，今天（28日）《南方都市報》資深編輯、知名專欄作家余少鐳宣布離職，原因是「無法跟着你們姓」。（圖取自微博）</li>
-<li><a href="http://news.ltn.com.tw/photo/world/breakingnews/1647187_3" data-desc="圖片2"><img title="余少鐳在微博表示，「負責盯我微博並通知上頭讓我刪的那位，可以長抒一口氣了吧，不好意思，這幾年讓您緊張了，衷心祝願您有新的工作方向。」（圖取自微博）" src="https://i1.wp.com/img.ltn.com.tw/2016/new/mar/28/images/bigPic/400_400/phpe8UkNS.jpg" alt="余少鐳在微博表示，「負責盯我微博並通知上頭讓我刪的那位，可以長抒一口氣了吧，不好意思，這幾年讓您緊張了，衷心祝願您有新的工作方向。」（圖取自微博）" data-recalc-dims="1"></a>余少鐳在微博表示，「負責盯我微博並通知上頭讓我刪的那位，可以長抒一口氣了吧，不好意思，這幾年讓您緊張了，衷心祝願您有新的工作方向。」（圖取自微博）</li>
-</ul></div>
-<p>香港《蘋果日報》報導，余少鐳在《南都》文化部擔任16年編輯，今天傍晚在微博宣布離開《南都》，附上一張離職申請表，在原因一欄寫下「無法跟着你們姓」，將在4月1日離職。</p>
-<p>余少鐳在微博表示，「在這春天裏，我們做個了斷吧，不拖泥帶水了。人老了，這麼長時間膝蓋實在受不了，就想試試能否換個姿勢。」</p>
-<p>他還說，「負責盯我微博並通知上頭讓我刪的那位，可以長抒一口氣了吧，不好意思，這幾年讓您緊張了，衷心祝願您有新的工作方向。順便周知各位關心我的朋友，不再見了，南方。」</p>
-<p>目前這則發文已被刪除，但有網友知道會被刪除，已擷圖留下紀錄。</p>
-<p>〔即時新聞／綜合報導〕中國國家主席習近平日前下令要求「媒體姓黨」體現共產的意志，中國向來敢言的《南方都市報》以頭版諷刺，副總編被處分、編輯被開除後，今天（28日）該報資深編輯、知名專欄作家余少鐳宣布離職，原因是「無法跟着你們姓」。</p>
-</div>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-9.49.48-AM.png?resize=552%2C233" alt="Screen Shot 2016-03-28 at 9.49.48 AM" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-9.49.48-AM.png?resize=300%2C127 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-9.49.48-AM.png?resize=768%2C325 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-9.49.48-AM.png?resize=1024%2C433 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-9.49.48-AM.png?w=1836 1836w" sizes="(max-width: 552px) 100vw, 552px" data-recalc-dims="1"></p>
-<p>余少镭新浪微博截图</p>
-<div>
-<div>百度百科上的介绍：</div>
-<div></div>
-<div>余少镭 ，1968年生，广东汕头市人。《南方都市报》文化副刊部首席编辑、资深记者，中国当红专栏作家。著书有《现代聊斋》系列及《造文字的反：一个草民的造字运动》等，被称为“当代蒲松龄”和“当代仓颉”。</div>
-</div>
-<div>
-<dl><dt>中文名</dt>
-<dd>余少镭</dd>
-<dt>国    籍</dt>
-<dd>中国</dd>
-</dl><dl><dt>出生日期</dt>
-<dd>1968</dd>
-<dt>毕业院校</dt>
-<dd>饶平师范学校</dd>
-</dl></div>
-<div>
-<div>
-<h2>目录</h2>
-<div>
-<ol><li><span>1</span> <span><a href="http://baike.baidu.com/view/2267322.htm#1">履历</a></span></li>
-<li><span>2</span> <span><a href="http://baike.baidu.com/view/2267322.htm#2">作品</a></span></li>
-<li><span>3</span> <span><a href="http://baike.baidu.com/view/2267322.htm#3">博客</a></span></li>
-</ol></div>
-</div>
-</div>
-<div><a name="1"></a><a name="sub2267322_1"></a>履历</div>
-<div></div>
-<div></div>
-<div>1987年8月毕业于饶平师范学校，后在永新小学任教，也开过照相馆。教 学之余编辑《裸孩》小报。2000年6月应聘到广州《南方都市报》任职，主持“现代聊斋“专栏，及后成为《南方都市报》副刊编辑、首席编辑。“现代聊斋” 专栏一开就达五年，原创独具风格的现代鬼故事一千多篇，结集出版三次，如2002年辑成《<a href="http://baike.baidu.com/view/7965004.htm" target="_blank">现代聊斋</a>》（上、下册），由中国社会科学出版社出版。民间戏称其为现代蒲松龄。准备转入长篇创作。2009年，应《南方都市报》之邀，撰写”仓促造字“专栏，异趣横生，引领网络全民造字风潮，随后出版《造文字的反：一个草民的造字运动》一书。另出版有长篇小说《破月》等。<sup>[1]</sup><a name="ref_%5B1%5D_2267322"></a></div>
-<div><a name="2"></a> <a name="sub2267322_2"></a> <a name="%E4%BD%9C%E5%93%81"></a></div>
-<div>
-<h2>作品</h2>
-<p><a data-edit-dl="2">编辑</a></p></div>
-<div>《现代聊斋Ⅰ-Ⅳ》</div>
-<div>《破月》</div>
-<div>《造文字的反：一个草民的造字运动》</div>
-<div></div>
-<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%84%8A%E6%A2%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91%E9%95%AD/?category=18271" rel="tag">余少镭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -700,7 +655,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -710,5 +665,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

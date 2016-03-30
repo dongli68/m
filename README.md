@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%92%99%E5%B1%B1%E9%87%8E%E9%80%B8%EF%BC%9A%E3%80%8A%E4%B9%A1%E9%95%87%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%87%B4%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%85%88%E7%94%9F%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC/" target="cdt-mirror">蒙山野逸：《乡镇团委书记致贺卫方先生的一封公开信》有感</a>
@@ -43,7 +43,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA/?category=18271" rel="tag">凯迪社区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">贺卫方挑战团中央</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平 | 我的声明：自由没有交易</a>
 </h2>
@@ -657,7 +657,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -667,5 +667,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

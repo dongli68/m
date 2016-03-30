@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,83 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%80%E5%B9%B4%E5%89%8D%E9%A2%84%E8%A8%80%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%B4%A9%E6%BA%83%E7%9A%84%E6%B2%88%E5%A4%A7%E4%BC%9F%E6%94%B9%E5%8F%A3/" target="cdt-mirror">端传媒 | 一年前预言“中国要崩溃”的沈大伟改口了？</a>
+</h2>
+<p><p><strong>“我不是崩溃论者，我不想中国崩溃，我希望它成功。”中国问题专家沈大伟说。</strong></p>
+<p>“（中国）不要崩溃。”</p>
+<p>在新书《中国的未来》华盛顿发表会上，中国问题专家沈大伟（David Shambaugh）正微笑举着自己的书供记者拍照，突然，他吐出了这四个中文字。鲜红色的书封面正中有一个硕大的问号，问号的一点幻变成一颗黄色五角星，呼应着中国国旗的图案，或许这也代表了沈大伟等“知华派”学者对中国现状和未来的迷惑。</p>
+<p>在新书中，沈大伟将中国比喻为一辆驶近交通环岛（或圆环、回旋处；roundabout），亟需选择合适出口的车。他坦言，关于中国将驶向何方，他没有一个简单的答案。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=600%2C400" alt="4d2a3bb73bd64b80ae72f2605e437337" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<blockquote><p><strong>在他眼中，如今中国的不确定性和脆弱性，达到他四十年学术生涯中前所未有的高度。</strong></p></blockquote>
+<p>一年前，沈大伟在《华尔街日报》发表名为《中国即将崩溃》的评论文章，指中国政治体制“严重崩坏”，社会面临随时可能爆发的高压，党的末日（endgame）已经开始。《环球时报》随后批评他为“庸俗的对华占卜者”，请他“自重并三思”，外界更有传他已登上中共黑名单。<br>
+如今，沈大伟措辞明显变得谨慎，力求为自己“正名”。</p>
+<p>对于一年前引起的那场“中国崩溃论”争议，他强调，文章的标题出于编辑之手，他虽表示异议，但已来不及修改。除此之外，沈大伟还表示，衰落（decline）和崩溃（collapse）之间，不能划上等号。他所预期的，是中国和中国共产党的衰落而非崩溃，这是一个短则数年，长则数十年的过程。</p>
+<p>“我不是崩溃论者，我不想中国崩溃，我希望它成功。”沈大伟说。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=600%2C400" alt="3a7a38a552ae46338df743cc47b2dc04" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>在“崩溃”一文前，他被普遍认为是对华温和派，一直被中国高级智囊机构奉为座上宾，并被中国外交学院列为美国“知华派”学者前三名。沈大伟坚称，他的观点并非嬗变无常。“不是我的观点变了，而是中国变了。”</p>
+<p>他在新书发表会中对邓小平赞誉有加，称他在文化大革命后摒弃个人崇拜、个人集权，中国经济才有了其后的持续高速增长。而近几年的中国政府，则在倒行逆施。“邓小平如果还在世，看到这些应该不会高兴。” 沈大伟将“习近平及共产党的权力过于集中”列为中国面临的首要政治挑战。</p>
+<p>“崩溃”一文引起轩然大波时，沈大伟曾以“站在十字路口的中国”为题开讲。如今，他将文章扩写成专著，发现“十字路口”的比喻已不足以形容中国未来道路的复杂性，交通环岛也许更为贴切。</p>
+<p>在沈大伟眼中，中国政府在2013年十八届三中全会上宣布锐意深化改革，然而三年过去了，由于体制本身的阻力，大量的改革举措仍未落实。中国就如一辆在环岛兜圈的车子，多次错过了出口，仍未能决定何去何从。</p>
+<p>他在书中写道，中国面临四条岔路：往左倒退至新极权主义（neo-totalitarianism）；沿着现今的硬威权主义（hard authoritarianism）道路一直往前；走回1998年至2008年的软威权主义（soft authoritarianism）道路；或是大力开放改革、向右转向“新加坡模式”的半民主社会（semi-democracy）。</p>
+<p>沈大伟解释，新极权主义会导向中国经济倒退和共产党崩溃，相反，半民主则将促成中国的改革，逐渐过渡至民主社会。然而，半民主和新极权主义只存在理论上的可能性。</p>
+<p>“中国距离拥有新加坡式民主的特质还有很长的路要走。中国共产党是否会容忍新加坡式民主是个问题。另一方面，随着中国私营经济发展和全球化程度加深，人民和军方对于党独揽权力都有忌惮，中国倒退到新极权主义的机会也较低”， 沈大伟说。</p>
+<p>因此，沈大伟判断，中国未来几年可能走的道路，很可能是在威权主义的软、硬二者中择其一。继续走2009年至今的硬威权主义道路是最简单易行的选择，然而，中国只能执行有限的改革，面临经济停滞和党国衰落，直至整个系统崩坏。“如果走这条路，经济停滞或将变成新常态。”沈大伟说。</p>
+<blockquote><p><strong>据他观察，中国政治通常在“收放”之间转换。一般来说，“放”的阶段持续6至8年，紧随着的是2年的“收”，两者来回转换。然而这一次，中国的“收”阶段已长达7年。</strong></p></blockquote>
+<p>沈大伟较为怀念的，是1998年至2008年间，走在软威权主义道路上的中国。他说，当时公民社会、学术界、媒体舆论等较为开放，存在党内民主。政府能释放力量推进中国温和改革，实现部分转型。</p>
+<p>沈大伟重提他2008年的旧作《中国共产党：收缩与调试》，当时，党的收缩与调试同时存在。</p>
+<p>“在如今，我看不到党在调整。” 在沈大伟看来，决定中国未来的最关键并非经济或外交，而在于政治体制。</p>
+<p>根据以往列宁主义国家的兴衰史，沈大伟一一列出列宁主义政权生命周期。从革命夺权、巩固权力、社会转型、官僚化和国家体制僵化，一步步走向“为应对经济停滞和僵化，采取调试及有限度的多元主义”，这是中国走上软威权主义道路后势必要采取的措施。接下来，箭头指向了又一个问号。</p>
+<p>“因为，历史上从来没有一个列宁主义国家在成功走过这一步后，依然维持专制统治。”沈大伟总结道。</p>
+<p><strong>相关阅读：</strong><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%8E%AB%E4%B9%8B%E8%AE%B8-%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%EF%BC%9A%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%92%8C%E5%85%85%E6%BB%A1%E6%B7%B7%E4%B9%B1/" target="_blank">莫之许 | 中国未来：不稳定和充满混乱</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%80%E5%B9%B4%E5%89%8D%E9%A2%84%E8%A8%80%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%B4%A9%E6%BA%83%E7%9A%84%E6%B2%88%E5%A4%A7%E4%BC%9F%E6%94%B9%E5%8F%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5/?category=18271" rel="tag">中国未来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">政治体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E5%A4%A7%E4%BC%9F/?category=18271" rel="tag">沈大伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9/?category=18271" rel="tag">路径选择</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%AE%89%E9%82%A6%E7%9A%84%E9%9A%90%E7%A7%98%E8%B4%A2%E5%AF%8C%E5%B8%9D%E5%9B%BD%EF%BC%9A%E6%9D%83%E8%B4%B5%E4%BA%91%E9%9B%86%EF%BC%8C%E8%82%A1%E6%9D%83/" target="cdt-mirror">纽约时报｜安邦的隐秘财富帝国：权贵云集，股权盘根错节</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg" rel="attachment wp-att-433465"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg?resize=585%2C358" alt="去年6月，安邦保险集团董事长吴小晖在曼哈顿华尔道夫-阿斯特里亚酒店参加论坛。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg?resize=300%2C184 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg?w=600 600w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>去年6月，安邦保险集团董事长吴小晖在曼哈顿华尔道夫-阿斯特里亚酒店参加论坛。（Ben Asen/International Insurance Society）</p></div>
+<p>媒体经常把他与美国的亿万富翁沃伦·E·巴菲特(Warren E. Buffett)<a href="http://www.bloomberg.com/news/articles/2016-03-14/behind-anbang-s-deal-making-a-bold-buffett-of-china-rises" target="_blank" rel="nofollow">相提并论</a>，他正在利用自己对一家保险公司的控制权成为全球金融领域的巨头之一。和巴菲特一样，他似乎也在获得庞大的个人财富。</p>
+<p>然而中国安邦保险集团董事长吴小晖与巴菲特的共同之处，也仅限于此。</p>
+<p>巴菲特是一个公共人物，他经过数十年努力积累了财富。吴小晖回避媒体采访。公司网站提供的传真号码属于一家牙医诊所。与净资产很容易被算出的巴菲特不同，吴小晖的财富则是一个谜，安邦旗下拥有37家关系盘根错节的控股公司，这种非常复杂的股权结构使其资产难以计算。</p>
+<p>在商业及金融领域日渐强调透明性的今天，一家不透明的中国保险公司在美国达成一项项吸引眼球的交易，令一些专家倍感惊讶，尤其是考虑到中国经济影响力在这个选举年正<a href="http://cn.nytimes.com/world/20160108/c08first-draft-donald/" target="_blank" rel="nofollow">受到前所未有的关注</a>。</p>
+<p>吴小晖的公司声称拥有超过2910亿美元的资产，目前正与万豪国际(Marriott International)就收购喜达屋酒店及度假村国际集团(Starwood Hotels and Resorts Worldwide)展开<a href="http://cn.nytimes.com/business/20160322/c22db-starwood/" target="_blank" rel="nofollow">激烈争夺</a>。周一，安邦将报价提高至140亿美元。本月早些时候，安邦同意以65亿美元的价格收购黑石集团(Blackstone Group)旗下的<a href="http://strategichotels.com/portfolio.php" target="_blank" rel="nofollow">豪华酒店</a>，比如纽约的埃赛克斯酒店(Essex House)。2014年底，安邦以将近20亿美元的价格<a href="http://cn.nytimes.com/business/20141010/c10waldorf/" target="_blank" rel="nofollow">收购</a>了纽约的华尔道夫-阿斯特里亚(Waldorf-Astoria)酒店。</p>
+<p>2004年才创立的安邦集团在两年前得到大规模扩张，公司旗下37家公司带来了数十亿美元的资金。</p>
+<p>“每当中国有人打一下响指就可以魔法般地获得财富时，这里说的是巨额财富，对我来说就是一个可疑的标志，”北京大学深圳校区金融及经济学副教授克里斯托弗·鲍尔丁(Christopher Balding)说。“分享一种‘我们怀着好意而来’的信息是符合他们的利益的，但根本没有那种信息分享文化。在中国，当人们隐藏这些信息时，肯定是有原因的。”</p>
+<p>吴小晖与中国一些最具权势的家庭有关联。他娶了邓小平的孙女卓苒，邓小平曾在20世纪80年代及90年代大部分时间担任中国的最高领导人。这个在中国并不常见的名字，出现在安邦旗下37家控股公司中至少两家的公司记录中。</p>
+<p>安邦集团董事<a href="http://cn.nytimes.com/china/20131212/c12chenxiaolu/dual/" target="_blank" rel="nofollow">陈小鲁</a>是曾与毛泽东并肩作战的知名军事指挥官的儿子。从提交到网上的官方记录来看，陈小鲁在安邦集团旗下至少四家公司任高层。2014年，朱云来——前总理朱镕基之子——的名字也出现在安邦的董事名单中。</p>
+<p>陈小鲁曾表示，他未持有安邦的股份。朱云来上周接受当地媒体采访时表示，他<a href="http://www.infzm.com/content/116075" target="_blank" rel="nofollow">从未答应</a>做安邦的董事。目前无法联系两人置评。</p>
+<p>安邦集团采用了中国公司的常用路线，凭借与中国政治精英的关系进入全球金融系统。此类公司包括平安保险——前总理温家宝的亲属获得<a href="http://cn.nytimes.com/china/20121026/c26princeling/" target="_blank" rel="nofollow">巨额财富</a>的工具，以及大连万达商业地产，其投资人包括至少四名中共政治局前任或现任成员的亲属或商业伙伴，其中有中国国家主席习近平的姐姐。</p>
+<p>记者按照安邦集团列出的号码拨打电话，但无人应答。向安邦集团北京总部传送的一系列问题没有得到回应。其总部拥有面积相当于几个篮球场的宏伟门厅，厅内挂着巨大的枝形吊灯。安邦的一名员工表示，公司不回答媒体的问题。</p>
+<p>吴小晖现年49岁，来自位于中国东部的浙江温州。在少有的公开露面中，他谈到了收购的公司给安邦带来的高回报，以及给安邦的全球化企业文化带来的裨益。</p>
+<p>“举例来说，如果你选择留在农村，你只能遇到普通村姑；但是如果你来到巴黎，你就有机会亲眼见到蒙娜丽莎，”吴在去年年初对哈佛大学的学生说。</p>
+<p>目前尚不清楚他到底持多少安邦股份。仔细查看安邦的股权结构，可以发现有37家公司控制了安邦93%以上的股份，其余部分由两家中国国有公司拥有。从中国政府登记的公司信息，以及网上的一些信息来看，这37个股东可以通过共同的电话号码、电邮地址，以及盘根错节的所有权联系在一起。</p>
+<p>比如，安邦有一个股东是中国西部新疆地区的一家煤炭开采公司，而其所有者是另一家矿业公司中亚华金，该公司把卓苒列为其第一法定代表人，虽然她已经辞职。</p>
+<p>中亚华金与安邦的另外一个股东——北京某房地产公司——使用了同一个官方网址。这几家公司总共拥有近46亿股安邦股份，持股比例超过7%。记者无法联系到这两家公司发表评论，而它们共用的网站现在只有色情和赌博服务的链接。</p>
+<p>有五个股东在提交给政府的资料中使用了同样的电邮地址。这些公司的手机响铃后无人接听。发送到该邮箱的邮件无人回应。</p>
+<p>安邦公司的文件显示，2014年，这些公司向安邦注入了数以十亿美元计的资金，使其注册资本增加到2011年的五倍，一跃成为中国最大的保险公司。“沃伦·巴菲特通过把一家小型保险公司发展成行业巨擘来获取财富，”鲍尔丁说。“安邦则恰恰相反。”</p>
+<p>该集团的37家公司加起来控制的安邦股份，足以让任何一个人成为中国最富有的人之一。吴小晖没有被文件列为大股东，也没有出现在媒体公司公布的富豪榜上。</p>
+<p>去年，一家中国媒体报道，有两名和吴小晖是兄弟姐妹关系的人，被这37家公司中的6家列为董事或股东。《南方周末》后来从其网站上删除了这篇报道，并向安邦发表<a href="http://www.infzm.com/content/107607" target="_blank" rel="nofollow">道歉声明</a>，称这篇文章中有“不实之处”，但没有具体说明哪些地方不实。</p>
+<p>前《南方周末》主编、当时不在该报社工作的长平说，那则道歉是出于政治原因，在“压力下”做出的。</p>
+<p>傅才德(Michael Forsythe)是《纽约时报》记者。<br>
+赫海威(Javier C. Hernández)自北京对本文有报道贡献。<br>
+Kiki Zhao自北京对本文有研究贡献。<br>
+翻译：纽约时报中文网</p>
+<p><a href="http://www.nytimes.com/2016/03/30/business/dealbook/china-anbang-starwood-wu-xiaohui.html" target="_blank" rel="nofollow">点击查看本文英文版本。</a></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%AE%89%E9%82%A6%E7%9A%84%E9%9A%90%E7%A7%98%E8%B4%A2%E5%AF%8C%E5%B8%9D%E5%9B%BD%EF%BC%9A%E6%9D%83%E8%B4%B5%E4%BA%91%E9%9B%86%EF%BC%8C%E8%82%A1%E6%9D%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%B0%8F%E6%99%96/?category=18271" rel="tag">吴小晖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%B0%8F%E9%B2%81/?category=18271" rel="tag">陈小鲁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%B3%E4%BA%8E%E8%A6%81%E6%B1%82%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%90%AC%E5%85%9A%E8%AF%9D%E8%B7%9F%E5%85%9A%E8%B5%B0%E6%94%B9%E5%85%9A/" target="cdt-mirror">【习总日记】 关于要求全国人民听党话跟党走改党姓的公开信</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，30）</p>
@@ -641,65 +715,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E6%90%9E%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C%E7%9A%84%E7%8C%B4%E5%AD%90%E6%B2%A1%E6%9C%89%E5%A5%BD%E4%B8%8B%E5%9C%BA/" target="cdt-mirror">博客中国｜转帖：搞个人崇拜的猴子没有好下场</a>
-</h2>
-<p><p>我讲一个真实的旅游故事，别想多。</p>
-<p>周末北京人常去郊外一个叫野山坡十渡的地方玩，可以爬山漂流吃农家菜等。有一次，我去了，那里有一个叫花果山的景点，山上有很多野生猴子，让我大开眼界，原来，猴群社会也是专制社会。</p>
-<p>那天起了一个大早，想趁山上没人，独占负氧离子。先来到山脚，发现已经有四五个农村大嫂在卖劣质瓜果和花生，那李子、苹果明显没有发育成熟，好在便宜，三块钱一小袋。刚开始，还不知道这些瓜果用来干嘛，经这些大嫂热情启发，才知道原来是上山的路上用来逗猴子的，一扔出去，猴子们就会过来抢。看它们抢东西，是一大乐趣。这使我想起了评职称。</p>
-<p>买了十来袋瓜果，瞬间我成了花果山众猴的偶像。沿着小路，蜿蜒上山，一路施舍，一路追随。当你手一扬，瓜果袋淹没在树丛中时，路旁安静的树林，瞬间噼噼啪啪的响，上百的猴子象潮水一般涌来，场面那是相当壮观！但是，猴子也怕人，不敢来抢人附近的食物。没抢着的猴子，就屁颠屁颠地跟着我，月亮走它也走。那个感觉真是太好了，俨然我是猴王。</p>
-<p>紧接着出现的一幕，让我明白了谁才是花果山真正的王。就在我得意忘形的抛水果袋时，突然，众猴子象被扔了炸弹一样，四下逃窜，不到两秒钟周围一下陷入到了死寂。猴子们远远的看着我，我完全没有反应过来是怎么回事。就在我把目光从远处收回来之际，悚然发现在路的正前方，一只体格魁梧的猴子端坐在路上，眼睛直直的盯着我，充满杀气，非常挑衅，我完全明白了它的意思：我的地盘，你给我滚蛋。我百分百肯定，丫就是这意思！</p>
-<p>它长得油光水滑，膘肥体壮，明显比其他猴子大一号，那眼神，就是武侠小说里写高手的样子，太阳穴高高鼓起，两眼精光暴射，气场就是强大，所有散落在周围的食物都是它的了，没有一只猴子敢来觅食，而它根本不看食物，只看我。艾玛，大师兄来了！我居然下意识地倒退了一步。</p>
-<p>就在我芳心乱跳之际，护林员正好路过，伊哩哇啦对着大师兄吼了一通，并用手指着路旁关着两只猴子的笼子，好像警告它，再不让路就把你丫关起来，然后，大师兄才泱泱离去。护林员给我介绍，那是刚上台的猴王，而笼子里关着的两只猴子是前任和前前任猴王。</p>
-<p>这时，我才注意到路边有两个关着猴子的笼子，这两只猴子一直瑟缩发抖。我好奇，为什么要把前任猴王关起来呢？一下台就坐牢，岂不是太残酷？社会主义现在都不这样搞，猴子为啥要这样搞？我的兴趣顿时从逗比转变成了学术探讨。护林员严肃地说，把前任猴王关在笼子里，不是虐待而是保护，如果它在外面，早就被新猴王打死了，以前就发生过这样的事。原来，猴群是一个绝对专制的社会，绝对不允许猴群里有第二个核心，新老猴王较量的结果只有一个，不是你死就是我亡。猴王统治猴群，必须建立在所有成员只崇拜它一个猴的基础上，这是猴群社会的基本原则。难怪，刚才那只猴子有那么大的气场，不但让猴子们大气都不敢喘，连我这个人都两股战战几欲先走。</p>
-<p>我问，那笼子里的猴王原来也这么厉害吗？护林员说，前任猴王更厉害，只要它叫一声，所有猴子鸦雀无声，谁敢出声，它就咬谁。它在登基后不久，花果山经常发现猴子尸体，都是不服从猴王而被干掉的，直到所有猴子都服他，不敢妄议，杀戮才停止。</p>
-<p>看来猴子也搞个人崇拜，只是搞个人崇拜的猴子没有好下场，最终，要么被打死，要么被关进笼子。不由令人想起卡扎菲和穆巴拉克，一个被打死，一个被关在监狱里。现在这只猴王，威风八面，但我们已经能清晰地预测到它悲惨的结局，然而，它不会吸取以前猴王们的教训，猴群社会就陷入到循环往复的死结中。猴子终究是猴子，即使个人崇拜搞得轰轰烈烈，它还是一只猴子，离文明还有一座花果山的距离。</p>
-<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%9B%BD%EF%BD%9C%E6%90%9E%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C%E7%9A%84%E7%8C%B4%E5%AD%90%E6%B2%A1%E6%9C%89%E5%A5%BD%E4%B8%8B%E5%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-27/" target="cdt-mirror">奇闻录 | 周末段子荟萃 3-27</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeZ9zTsUkAAaRPt.jpg?resize=600%2C450" alt="CeZ9zTsUkAAaRPt" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeZ9zTsUkAAaRPt.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeZ9zTsUkAAaRPt.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@andyyeung12：打疫苗要去香港，生孩子要去美国，买奶粉要去澳洲，买高压锅要去日本，买新鲜空气要去加拿大，祖国的强大让俺有点害怕。</p>
-<p>@JSMWOSM：现在看来，铜锣湾书店事件（特别是李波的言行）和无界公开信事件都非常诡异，共同特点是，政治反对者认为不重要的（禁书本身品质较差，公开信内容也并无新意，从我们的角度看并没有特别的价值），政权却很看重，大肆折腾，既不符合常理，也不符合我们的过往认识。这就说明敌我有巨大的认知差异。</p>
-<p>@千杯侯：上海踩踏事件，你掷地有声地，要彻查原因，惩治犯罪，给人民一个胶带。长江翻船事件，你怒发冲冠地，要彻查原因，惩治犯罪，给人民一个胶带。天津爆炸事件，你痛心疾首地，要彻查原因，惩治犯罪，给人民一个胶带。深圳掩埋事件，你信誓旦旦地，要彻查原因，惩治犯罪，给人民一个胶带。这次疫苗事件，你一如既往地，要彻查原因，惩治犯罪，给人民一个胶带。艹，你就是一个批发胶带的！</p>
-<p>@shifeike：今天看到最牛逼的一句话是：经济这么不好，可能是这届人民不行！！</p>
-<p>@shifeike：【几句歪理邪说】我一个哥们的经典论述是两早论（早发财早移民），我享有版权的两句是两巴论（管好嘴巴和JI巴）和专治不服论（党和政府专治各种不服）。综上所述，如果深刻学习了专治不服论，又没有条件和能力实践两早论，那么就要坚决践行两巴论。</p>
-<p>@mranti：刚才公司在集体加班，突然获得消息说贾葭放了，全体鼓掌，纷纷放下工作去祝贺。一个国际明星就这么养成了。</p>
-<p>@我还是广州：突然想起艾未未的一句话：中国人习惯了看着别人不幸，看着别人死去，直到有一天，这个“别人”成了自己。</p>
-<p>@hnjhj：你国的文字狱现状就是，不但写字有抄家灭族的风险，而且只要他们怀疑你是“可能”知道线索的人（这仅仅是一种可能性），就可以随意把你的七大姑八大姨都抓起来。</p>
-<p>@MyDF：即使赵国网络动辄删贴封号，网络舆论还是一边倒骂政府，小粉红将此现象归结为：”萱萱（中宣部）战五渣“、”妓（记）者造谣”，他们的攻击对象有时甚至是央视、人民日报等中央级媒体，很值得玩味，延伸一下可以这么理解：反萱萱不反大大，反媒体不反党。实际上，萱萱是大大的萱萱，媒体是党的媒体。</p>
-<p>@wuhan1946114：共青团中央网络影视中心副主任蔺玉红，一面拒绝让传播西方价值观的教材进入课堂，一面含泪把孩子送去加拿大学习西方价值观，这是什么精神，这是共产主义的精神！（@MyDF 语）——点评：道路自信、理论自信、制度自信的忠实拥护者的真实写照！</p>
-<p>@北京厨子新号：人家外国人的科普是给你讲什么是引力波。咱们中国人的科普是告诉你什么是三聚氰胺，什么是地沟油，什么是疫苗，过期疫苗，失效疫苗，以及，吃了三聚氰胺、地沟油，打了过期疫苗，如何的对你没坏处，甚至提高了你的生活质量。感谢国产科普专家。</p>
-<p>@renfanzi： “中国需要什么，其价格就会暴涨。”从石油天然气铁矿石黄金比特币奢侈品奶粉纸尿裤空气净化器到跨境金融保险乃至健康管理服务，全部应验好顶赞。</p>
-<p>@mozhixu：裴敏欣认为党国后89的存活策略主要包括四个方面：精英团结（任期制、集体领导）、绩效合法性（含腐败和集体分赃）、吸纳社会精英、韬光养晦外交，而习这几年是全面破坏了这四大支柱，朝向个人集权、党纪至上，压制社会和周边挑战，将存活策略主要寄托在镇压和民族主义之上，这个观察大致是准确的。</p>
-<p>@lgbtqasfolk：你国疾控中心对那些来检测的同志劝说还是尽量别搞同性恋，找个女朋友，对的，你没看错，你国疾控中心的工作人员真的这么说过，香港的著名艾滋公益同志活动人士就吐槽过你国的疾控中心对于如何预防艾滋是非常无知的，不过你国很多领域都是这个鬼样子，疾控也不会有例外。</p>
-<p>@thisiswiki：关务群里某位对政府海淘新政是这么评价的：「13年出政策鼓励跨境电商，14年大家纷纷响应，造仓库做平台，15年刚完工，招兵买马后，16年加税限品种上正面清单。」目光长远运作周密，一百分。</p>
-<p>@qcyl：这些年看过的病句：党领导下的人民当家做主（到底谁做主）；党领导下的人民军队（到底是谁的军队）；党要管党（自己管自己吗）；始终坚持党的事业至上、人民利益至上、宪法法律至上（到底谁至上）；党委领导下的校长负责制（到底谁负责）。评：西门庆对武大郎说：潘金莲是我的领导下的你的老婆。</p>
-<p>@押沙龙：学校按照教委要求规定孩子必读连环画《红孩子》。买了一本，里面说的是几个苏区的小孩。孩子们杀了一个白军哨兵，抢了枪，配合赤卫队和白军作战，故事结尾是最小的孩子冬伢子中枪了，临死前最后一句话是“我也杀了一个白狗子”，然后闭上了眼睛。</p>
-<p>@heynancy45：喜欢一个人或者一款游戏，没有分别，只要你因此变得更好，都是很正面的事情。六年前当我还是魔兽玩家的时候，要承受舆论对游戏玩家的妖魔化，承受“焚化部”对游戏的无尽伤害，看到Jane McGonigal的演讲，我想既然这世界还有脑子清楚的人，就不至于太绝望。#谢谢国服的遭遇让我关心政治</p>
-<p>@mozhixu：你国微信四大门派：中医养生，鸡汤养神，段子益智，科学洗地。</p>
-<p>@manatsu_riko：中国女人似乎就没有年轻过，27岁不结婚会是大龄剩女，30岁就成了豆腐渣，中国女人的青春，价值，幸福，就好像通通只能用婚姻证明，所以大家都在最好的年纪恐慌着结婚，来不及思考寻找自己真正想要的生活，仿佛自己生下来就是为了繁殖……</p>
-<p>@mariotaku：我不是针对一两个，我是说所有的临退休和刚退休的中年妇女，她们都是你国扭曲婚恋价值观下的老妖怪。前两天我妈一亲戚带着女儿来家谈结婚问题（不关我事），然后说她女儿二十七八不结婚，真是一事无成，还说“干脆从老同学或者邻居里找”，当时就听不下去了解围，说“我们年轻人用不着您操心”。</p>
-<p>@PhDEric：一个新疆公务员到成都吃了碗担担面，要开发票，老板问“开什么单位”，干部说：“新疆维吾尔自治区伊犁哈萨克自治州察布查尔锡伯族自治县阿克吐别克哈萨克自治乡爱斯里色村申报一带一路西北综合保税区代表阿布来提·达吾提尔肯热合曼！”老板说：“面钱不要了，我要会写这么多字，还卖个球的面？”</p>
-<p>@maylogcom：#转 家里没人。我打开电脑，播放小电影。撸了一发太累了就睡着了。醒来的时候发现我裤子已经穿好了，电脑是关着的，身边的纸巾也被收掉了，旁边一大桌亲戚在聊天。</p>
-<p>@JavranW：方校长还没死，这简直是病魔界的耻辱。</p>
-<p>@122199659：男人想表达什么观点，如果不是非常精通那个领域，一定会被喷很惨。女人只需要从瓶瓶罐罐中抬起头来，稍微表达一下对这世界的好奇和看法，立刻被刮目相看。</p>
-<p>@mchobits：#转 法国小哥最近在跟着我学中文，有天我和他聊天时发了句呵呵，23333，他问我什么意思。我说就是夸你超好笑的意思。今天晚上和他一起见中国朋友，只见朋友说完话后，他口齿清晰又标准发出了一句“呵呵，两万三千三百三十三。”全场死一般沉寂。</p>
-<p>@yun_chuang：有一次走在校园中，两个男生在我身后边走边聊，只听某甲对某乙说：“…我从来不吃樱桃，只吃车厘子…”实在忍不住回头盯了一眼，心想：估计你也从来不吃草莓，只吃士多啤梨；也从来不吃馒头，只吃蒸汽面包。</p>
-<p>@谢泼德：昨天下午回家时，单元门台阶上坐着一个老婆婆，双手捂着脸，严严实实看不到表情，胳膊支在膝盖上，静静坐在那。不知道她正在经历什么，艰难孤独的晚年？老伴离她而去？儿女疏于尽孝？为何老年的境遇总是会与悲情联系到一起？社会的责任？我正在思索时，老人打开捂着脸的双手，大喊了一声：藏好了吗？！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-3-27/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -711,7 +726,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -721,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

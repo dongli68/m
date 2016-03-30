@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,100 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%B3%E4%BA%8E%E8%A6%81%E6%B1%82%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%90%AC%E5%85%9A%E8%AF%9D%E8%B7%9F%E5%85%9A%E8%B5%B0%E6%94%B9%E5%85%9A/" target="cdt-mirror">【习总日记】 关于要求全国人民听党话跟党走改党姓的公开信</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，30）</p>
+<p>身在海外，心系祖国。离得越远，爱得越深。拿海外华人华侨与国内人民群众相比，高下立判。海外华人华侨，子子孙孙辛勤劳作汇回外币支援祖国建设。再看国内人民群众，坑蒙拐骗男盗女娼，才三十年功夫就把祖国蓝天搞得乌烟瘴气，把江河湖海搞得污浊不堪。更可恶的是其中一些人还在网上肆意诋毁党和国家最高领导人的名誉地位。问世间情为何物，真叫人忍无可忍。</p>
+<p>所以很多人一致断言，这一届领导人不错，但这一届人民不行。</p>
+<p>领导人不行可以换，曾经换下华国锋胡耀邦和赵紫阳。人民不行怎么办？因为人民是不可换的。譬如说中国政府向联合国提出要求用中国人民换美国人民，美国政府愿意吗？美国人民愿意吗？铁定不愿意的。</p>
+<p>好在整顿吏治整顿军队已经告一段落，痛定思痛，着手整顿人民。我要求全国人民即日起，听党话跟党走改党姓。</p>
+<p>建国六十多年来历史证明，凡是中国人民坚定不移听党话跟党走的时候，社会稳定，人民幸福，国家富强。相反，若党中央内部出现隐患或反党集团，人民不信任党不听党的话不跟党走，就会发生动乱，人民遭殃，国弱民贫。前三十年后期出了林彪四人帮，发生了十年动乱。后三十年后期出了周薄令徐等，社会乱象丛生。虽然周薄令徐已经铲除，但等仍然潜伏在党内，社会还可能发生动乱，因此我们不能掉以轻心，要保持高度警惕。</p>
+<p>这一届人民不行，表现在不听党的话不跟党走。《唱支山歌给党听》唱得少了，《没有共产党就没有新中国》干脆不唱了。不崇拜雷锋黄继光邱少云英雄，改崇拜马云马化腾商人了。这一届人民不行，还表现在普遍缺乏公共道德品质低劣。在国外丢人现眼不文明语言行为有辱国格。在网上丧心病狂讽刺嘲笑打击党和政府不知感恩。在现实生活中互害制造黑心食品销售过期疫苗，医生无医德教师无师德城管警察像流氓土匪。这方面例子举不胜举。</p>
+<p>我郑重向全国人民提出，你们要听党的话。</p>
+<p>继续保持和发扬党叫干啥就干啥的机器人精神。要具体落实到党没叫干就不干，党不许你干坚决不干。同时做到党叫说啥就说啥，党不让说就不说。</p>
+<p>我郑重向全国人民提出，你们要跟党走。</p>
+<p>继续保持和发扬党指向哪里你们就奔向哪里的中国精神。年岁大的可以改为党指向哪里你们就走向哪里。过去党指向阶级斗争，你们就群众都群众。过去党指向改革开放，你们就全民皆商。现在党指向托股市托房市扩大内需，你们就买股票买房产上网购物。</p>
+<p>我郑重向全国人民提出，你们要改姓党。</p>
+<p>中华传统文化历来就有赐姓和改姓的传统。轩辕黄帝的千万子孙各有不同的姓氏，源于赐姓。民族间战争和民族融合同化，造成改姓。现在我们强调党媒姓党军队姓党，为人民改姓创立了良好的环境，带了好头。我建议凡是热爱党热爱社会主义祖国的人民，都去民政局改姓，把姓改成党，向人们展示爱党爱国之心。</p>
+<p>展望中华民族复兴之时，中国梦实现之日，近亿党员，五亿党姓人民，紧密团结在党中央周围，组成一个空前的新型党姓民族，昂首阔步走在世界民族前列。让我们在不远将来，在团结一致党姓民族的基础上，共同缔造一个全新国家，一个真正意义上的共产党为核心党姓人为基础的党国。千秋万代，党龄永继。</p>
+<p>诗曰</p>
+<p>五毛姓党<br>
+请您检阅<br>
+大大麻麻<br>
+是俺爹娘</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/033016.jpg?resize=550%2C413" alt="033016" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/033016.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/033016.jpg?w=583 583w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%B3%E4%BA%8E%E8%A6%81%E6%B1%82%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%90%AC%E5%85%9A%E8%AF%9D%E8%B7%9F%E5%85%9A%E8%B5%B0%E6%94%B9%E5%85%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 23分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E7%88%B6%E6%AF%8D%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%BF%85%E8%A6%81%E5%8E%BB%E6%B5%B7%E5%A4%96%E6%89%93%E7%96%AB%E8%8B%97%E5%90%97%EF%BC%9F/" target="cdt-mirror">中国父母真的没必要去海外打疫苗吗？</a>
+</h2>
+<p><p><strong><a href="http://finance.sina.com.cn/china/gncj/2016-03-29/doc-ifxqsxic3559411.shtml">新京报｜世卫组织：中国民众没必要赴海外打疫苗</a></strong></p>
+<blockquote><p>兰斯医生表示，有一些中国父母很担心中国的疫苗质量而选择去香港接种。如果发生这样的情况，是因为他们是对大陆的疫苗失去信心。“我们认为家长不用到海外接种疫苗，应该对中国的疫苗有信心。”</p></blockquote>
+<p><strong>世卫组织似乎忘了这样一个事实：在中国，进口7价肺炎结合疫苗(PCV7)已于去年被“断档”</strong>（辉瑞进口证过期，续期申请被拒），<strong>国产PCV7却迟迟不见踪影。目前中国儿童只能接种<a href="http://www.chinanews.com/jk/2016/03-24/7810299.shtml" target="_blank">属“二类疫苗”的</a>国产23价肺炎球菌多糖疫苗，这是一个在世界许多国家已经被淘汰的老版疫苗。</strong></p>
+<p>然而根据中华预防医学会2012年在《中华流行病学杂志》发表的《肺炎链球菌性疾病相关疫苗应用技术指南》（<a href="http://chinaepi.icdc.cn/zhlxbx/ch/reader/create_pdf.aspx?file_no=20121101&year_id=2012&quarter_id=11&falg=1" target="_blank">PDF</a>）¹，“<strong>肺炎是我国5岁以下儿童重要死因</strong>”，且事实证明美国实施PCV7免疫规划1年后，<1岁儿童中疫苗血清型所致IPD的发病率几乎下降了100%(95%CI:87.3%~100%)</p>
+<p>根据2016年2月在学术期刊《BMC公共卫生》发表的《2005至2011年中国上海市的儿童肺炎疫苗覆盖率趋势》（<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736258/pdf/12889_2016_Article_2785.pdf" target="_blank">PDF</a>）²，PPSV23 疫苗有几个缺点：免疫有效期低、<strong>2岁后才可注射</strong>、有效率是60％至70%。从2008年开始在中国使用的PCV7有效率超过90%、接种过程更简单、<strong>6周以上婴儿即可注射</strong>。最后一点优势非常重要，因为该疫苗所预防的侵袭性肺炎链球菌性疾病，<strong>在2岁以下婴幼儿中死亡率是最高的</strong>。</p>
+<p>另外值得一提的是，即使进口PCV7疫苗未被“断档”，但由于<strong>需要自掏腰包且价格昂贵</strong>（约130美元一剂），有许多中国家庭也无法承受。目前国际上肺炎链球菌疫苗的主流基本已普及到比PCV7更先进的PCV13疫苗。</p>
+<p>2015年12月，《财经》其实对肺炎结合疫苗的断档问题做过长篇报道：<strong><a href="http://news.sohu.com/20151221/n432107685.shtml">财经｜中国2岁以下婴幼儿肺炎结合疫苗面临长期断档</a></strong>（<strong>部分）</strong></p>
+<blockquote>
+<h3><strong>疫苗“绝版”</strong></h3>
+<p>与朱易同城的施秩兰带孩子去香港之前，先通过微博和网页搜索到目标医院的电话，做过咨询之后进行了预约。第一次带孩子到境外注射疫苗的施秩兰还是不放心，又在微博上与网名为“疫苗与科学”的专家进行了详细咨询。6月中旬，施秩兰带孩子赴香港医院打肺炎疫苗，体检加接种平均每一针770港元。</p>
+<p>住在哈尔滨的一位妈妈为了儿子免遭肺炎侵害，与朋友组团到香港注射了肺炎疫苗，“往返交通一次大概2万元，两针花了3000港元。”</p>
+<p>带孩子赴港注射肺炎疫苗，并不是一种时尚，而是一种无奈之举。</p>
+<p>从今年上半年开始，<strong>国内唯一针对2岁以下婴幼儿接种的7价肺炎结合疫苗相继在大部分地区缺货，部分仍有存货的私立医院也将注射费用炒至万元以上。</strong></p>
+<p>“断档”的疫苗名为“沛儿”（Prevenar，全称是<strong>7价肺炎球菌荚膜多糖结合疫苗</strong>），由美国辉瑞制药公司旗下的惠氏公司供应。</p>
+<p>辉瑞中国企业沟通部总监席庆瑞接受《财经》记者采访时表示，<strong>由于在中国的进口许可证已经过期，并且提交的续期申请未获得国家食品药品监督管理总局（下称食药监总局）的批准，“沛儿”在中国的供应停滞</strong>，<strong>7价疫苗的替代品13价肺炎球菌结合疫苗在中国仍处于临床注册阶段，该产品上市日期还难以预测。</strong></p>
+<p>7价肺炎结合疫苗（Prevenar-7）与13价肺炎结合疫苗（Prevenar-13），均是针对2岁以下婴幼儿的肺炎球菌结合疫苗。后者是前者的升级版，覆盖了最常见的13种血清型肺炎球菌，覆盖率高达73％，可预防肺炎球菌所引起的疾病，包括肺炎、中耳炎、败血病及脑膜炎等。</p>
+<p><strong>二者共同的敌人肺炎球菌，是2岁以下婴幼儿的健康大敌。</strong></p>
+<p>1881年，科学家分别在法国和美国患者的痰液中分离出肺炎球菌，这种细菌定植于呼吸道黏膜上，可引发侵袭性肺炎球菌疾病和非侵袭性肺炎球菌疾病。</p>
+<p>世界卫生组织（WHO）统计显示，肺炎球菌导致的侵袭性肺炎每年使160万人死亡，其中包括100万5岁以下的儿童。它也是导致中国儿童和老年人发病和死亡的重要病原菌之一。中国1月龄至59月龄儿童每年有174万例肺炎球菌疾病，其中3万例死亡。</p>
+<p>由于幼儿免疫功能不完善，患上肺炎的几率很大，且重症肺炎病例多，致死率也很高，相比较大年龄段的孩子来说，在婴儿阶段，由肺炎链球菌引起的细菌感染性肺炎发病率更高。</p>
+<p>北京武装警察部队总医院的一项研究显示，研究人员对2007年1月至2009年1月儿童下呼吸道感染的痰及咽拭子培养结果进行分析，发现肺炎球菌的检出率为15.64％，是最常见的病原菌。</p>
+<p>在疫苗出现之前，人类对于肺炎球菌只能被动治疗。<strong>但如今，肺炎球菌对目前抗菌药物产生了耐药性，在5岁以下儿童和65岁以上老龄患者中，肺炎球菌性疾病的病死率仍高达50％。</strong></p>
+<p>Prevenar-7的面世，是预防该疾病的一个重要里程碑，它于2000年在美国获得美国食品药品管理局（FDA）批准上市，同一年入选儿童免疫规划。2008年10月，Prevenar-7登陆中国，取名“沛儿”，全国近60个城市的疫苗接种点可以接种。</p>
+<p>然而，自从2014年1月份最后一批7价肺炎疫苗之后，惠氏再也没往国内出过货。最后一批7价疫苗将在2016年5月以后过期，如果没有相应的措施，届时全国2岁以下的儿童将没有肺炎疫苗可打，<strong>而这种状态有可能持续四到五年</strong>。</p>
+<p>“沛儿”的注册证于2013年5月12日到期，<strong>辉瑞公司于2012年11月就提交了进口再注册申请，未获批准</strong>。席庆瑞在接受《财经》记者采访时未透露再注册未获批的原因，并表示辉瑞中国已经在今年上半年撤掉了“菲儿”在中国的营销团队。</p>
+<p>一位不愿具名的业内人士对《财经》记者分析的原因是，食药监总局认为现在各国已经普遍在使用13价疫苗，再注册7价疫苗意义不大。</p>
+<p>辉瑞的13价肺炎结合疫苗已经在120多个国家普遍使用，完全可以进入中国市场来取代7价疫苗。不过，按程序，13价肺炎结合疫苗进入中国市场前还得做三期临床试验。席庆瑞称，在准备进入国内市场后，<strong>13价疫苗的临床试验从2012年便开始进行了，“目前还没有一个明确的时间表”。</strong></p>
+<p><strong>对此，一位免疫系统人士分析，食药监总局拒绝“沛儿-7”的合格证书再申请，并迟迟不予批准“沛儿-13”疫苗，或许是要为国产13价肺炎疫苗争取时间。</strong></p>
+<h3><strong>国产无期</strong></h3>
+<p><strong>在很长一段时间，中国疫苗研发企业难以在肺炎结合疫苗上有所建树</strong>。不同于普通化学药品的研发，肺炎疫苗是一个高技术、高投入、高风险的领域。</p>
+<p>目前，肺炎球菌疫苗有两种工艺：第一种是多糖工艺疫苗，就是用肺炎球菌细胞壁表面的多糖做的疫苗，比如默沙东生产的23价肺炎球菌多糖疫苗，覆盖了90％的侵袭性肺炎球菌血清型，但对婴幼儿效果不好，因为他们的免疫系统尚未发育成熟；第二种便是结合工艺疫苗，是把细菌细胞壁表面多糖和蛋白载体结合，这种疫苗适用于全人群，弥补了多糖疫苗对婴幼儿效果不佳的遗憾。</p>
+<p>上海市疾病预防控制中心免疫规划科主管医师陶黎纳分析，结合疫苗针对的菌型越多，保护效果就越好，但其副反应可能越大，技术难度和生产成本也越高。“每个菌型的多糖成分性质上都略有差异，那么多型别要结合一个蛋白质或者载体，温度、时间、PH值不一样，都会有很大的差异，需要反复调整。即使是单个型别成功了，合在一起又是另外的技术难题。”</p>
+<p>13价肺炎球菌结合疫苗正是世界上最复杂的疫苗之一，该疫苗的制备过程包含13种血清型多糖、1种或多种载体蛋白的培养及纯化。</p>
+<p>“13价肺炎球菌结合疫苗开发过程中在制备工艺、质量控制、临床前动物上的免疫效果评价和临床效果评价等方面都有一些技术难点，并且各个阶段工作量都很大。只有有限几个公司能够开发。” 北京科兴生物技术有限公司的研发总监高强接受《财经》记者采访时表示。</p>
+<p>国内有四家企业研发的13价肺炎疫苗已进入临床申报程序，北京民海生物科技有限公司、北京科兴生物制品有限公司、云南玉溪沃森生物技术有限公司、兰州生物制品研究所有限责任公司先后获得食药监总局颁发的《药物临床试验批件》。</p>
+<p>然而，在陶黎纳看来，<strong>尽管取得了临床批件，距离产品上市至少还需要五年的时间</strong>。</p>
+<p>按照国内疫苗上市的流程，研发企业在获得临床批件后，要在三年内开展I期—III期临床研究；在临床试验通过后，进行试生产与正式生产、完善生产工艺和质量标准及其检定方法后，申请生产批件，同时按有关规定完成临床试验、制品长期稳定性研究和国家食药监总局要求进行的其他工作。</p>
+<p>之后，疫苗企业需要申请GMP证书、产品批签发证书，若产品上市后有工艺变更还要进行备案或者补充申请；在产品上市销售后，还要进行IV期临床研究与ADR不良反应监控。</p>
+<p>肺炎疫苗产品本身的工艺复杂，批间差异较难控制，而且疫苗成分相比一般疫苗要复杂，发生一般性副反应的几率也大。这些都会给药监部门带来很大的监管压力，从临床、生产批文、GMP到批签发，每一步都可能会比一般的疫苗品种走得更为艰难。</p>
+<p>上述业内人士也称，<strong>难以预测中国儿童什么时候能注射上国产的13价肺炎疫苗</strong>。“在中国，即便拿到生产批件，与有生产能力是两回事；看到临床受理，公众就更没有必要那么激动，肺炎疫苗的产业化还有很长的路要走，且远比一般疫苗品种的路要长得多。”</p></blockquote>
+<p><strong>注1：</strong>《<a href="http://chinaepi.icdc.cn/zhlxbx/ch/reader/create_pdf.aspx?file_no=20121101&year_id=2012&quarter_id=11&falg=1" target="_blank">肺炎链球菌性疾病相关疫苗应用技术指南</a>》(PDF)，刊登于《中华流行病学杂志》2012年11月第33卷第11期</p>
+<blockquote><p>肺炎链球菌主要通过呼吸道飞沫直接传播或由定植菌导致自体感染。肺炎链球菌可局部播散到鼻窦或中耳导致感染,吸入下呼吸道导致肺炎。当细菌侵入血液循环,伴或不伴其他部位播散繁殖,则可引起侵袭性感染,导致侵袭性肺炎链球菌性疾病(invasive pneumococcal diseases,IPD)。</p>
+<p>[…]中国肺炎链球菌性疾病负担:<strong>肺炎是我国5岁以下儿童重要死因</strong>。依据2011年中国妇幼卫生事业发展报告,肺炎位列我国5岁以下儿童死因的第二位。肺炎链球菌是中国儿童社区获得性肺炎的主要病原体。北京、合肥、兰州、上海、昆明等城市多个临床研究均显示,肺炎链球菌是肺炎或呼吸道感染患儿的首位细菌性病原,约占11%~35%。北京儿童医院1953~2002年对断续收集的202例肺炎死亡5岁以下儿童的肺组织进行检测,其中57%存在肺炎链球菌感染,显示肺炎链球菌是我国儿童肺炎致死的重要原因。</p>
+<p>[…]应用效果:美国实施PCV7免疫规划1年后,<strong><1岁儿童中疫苗血清型所致IPD的发病率几乎下降了100%(95%CI:87.3%~100%)</strong>;3年后,在<1岁儿童及20~39岁和>60岁人群中观察到的全部IPD(含非疫苗血清型)发病率分别下降了84%、52% 和27%。后续监测发现,<strong>实施PCV7免疫规划2年后,5岁以下儿童全部IPD发病率下降75%</strong>。分析认为,可能是接种PCV7减少了肺炎链球菌的鼻咽携带和传播,因而使未接种人群IPD的发病率也出现了下降,即所谓的“间接免疫”或“群体免疫”现象。在美国,<strong>疫苗预防的IPD中约68%可归功于上述“间接效应”</strong>。</p></blockquote>
+<p><strong>注2：</strong>《2005至2011年中国上海市的儿童肺炎疫苗覆盖率趋势》（<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736258/pdf/12889_2016_Article_2785.pdf" target="_blank">Trends in childhood pneumococcal vaccine coverage in Shanghai, China, 2005–2011: a retrospective cohort study；PDF版</a>），刊登于《BMC公共卫生》2016年2月<br><em>作者：Boulton ML, Ravi NS, Sun X, Huang Z, Wagner AL.</em></p>
+<blockquote><p>The PPSV23 vaccine is produced domestically in China and costs approximately 23 US dollars whereas the PCV7 vaccine is imported and costs approximately 130 US dollars per dose (the pneumococ- cal conjugate vaccine is priced similarly in the United States [10], though it is covered by insurance). Although cost is likely to be barrier to pneumococcal vaccine uptake for everyone in China, it may be particularly problematic for the non-local population in China, who are sometimes known as the “floating population,” and whose presence is rapidly growing in most urban areas of the country [11].</p>
+<p>大意：PPSV23在中国生产，价格约为23美元，PCV7只有进口版，价格为130美元一剂。费用很可能成为肺炎疫苗在中国无法普及的原因，对大城市里越来越多的非本地户口家庭来说问题更严重。</p>
+<p>The 23-valent pneumococcal poly- saccharide vaccine (PPSV23) has been available in China since 1996 and has several drawbacks: it only elicits short- term immunity, cannot be administered until 2 years of age, and has a lower efficacy ranging from 60 to 70 % at preventing IPD [3, 4]. The 7-valent pneumococcal conju- gate vaccine (PCV7) was introduced to China in 2008, al- though it was pulled off the market in 2015 because its import license expired [5]. It protects against fewer sero- types, but has better efficacy (>90 %) , and it can be administered earlier, at 6 weeks of age [4]. This moves up the timeline of protection and represents a major advan- tage over the PPSV23 since the incidence rate of IPD is highest in children</p>
+<p>大意：从1996年开始在中国使用的 PPSV23 疫苗有几个缺点：免疫有效期低、2岁后才可注射、有效率是60％至70%。从2008年开始在中国使用的PCV7有效率超过90%、接种过程更简单、6周以上婴儿即可注射。最后一点优势非常重要，因为该疫苗所预防的侵袭性肺炎链球菌性疾病，在2岁以下婴幼儿死亡率是最高的。2015年，PCV7由于在中国进口证过期而被下架。</p></blockquote>
+<p><strong>世卫组织也姓党？</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E7%88%B6%E6%AF%8D%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%BF%85%E8%A6%81%E5%8E%BB%E6%B5%B7%E5%A4%96%E6%89%93%E7%96%AB%E8%8B%97%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87/?category=18271" rel="tag">世卫组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E8%94%BA%E4%B8%BB%E4%BB%BB%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A6%88%E5%A6%88/" target="cdt-mirror">王海涛：蔺主任是个好妈妈</a>
 </h2>
 <p><p>蔺主任，女，最近成了“网红”。如果你还不知道她是谁，去微博上搜索“蔺主任”可能还能搜到。</p>
@@ -150,7 +241,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%BA%92%E8%81%94%E7%BD%91%E5%9F%9F%E5%90%8D%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95%EF%BC%88%E4%BF%AE%E8%AE%A2%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B/?category=18271" rel="tag">《互联网域名管理办法（修订征求意见稿）》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E8%A7%84/?category=18271" rel="tag">互联网新规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%BB%E7%90%86/?category=18271" rel="tag">互联网治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BF%A1%E9%83%A8/?category=18271" rel="tag">工信部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%88%91%E4%BB%AC%E5%85%A8%E5%AE%B6%E4%BA%BA%E5%AF%B9%E4%BB%96%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B/" target="cdt-mirror">【图说天朝】“我们全家人对他非常失望”</a>
 </h2>
@@ -609,35 +700,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-dw%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E9%95%BF%E5%B9%B3%E5%AE%B6%E4%BA%BA%E5%9B%A0%E5%85%B6%E8%AF%84%E8%AE%BA%E8%A2%AB%E5%A4%B1%E8%B8%AA/" target="cdt-mirror">德国之声 | DW专栏作者长平家人因其评论“被失踪”</a>
-</h2>
-<p><p>德国之声专栏作者长平称其家人因他批评中国当局的言论而遭到警方非法拘押。长平表示，他谴责中共当局对西方媒体新闻自由的干预，并强调对国家领导人的政治作为进行任何形式的批评，都是公民的言论自由。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E9%95%BF%E5%B9%B3%E6%8E%A8%E7%89%B9.jpg?resize=550%2C416" alt="长平推特" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/长平推特.jpg?resize=300%2C227 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/长平推特.jpg?w=692 692w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>（德国之声中文网）德国之声专栏评论作家、中国资深媒体人长平（本名：张平）表示，在他为德国之声的”长平观察”专栏发表了题为《贾葭失踪，睁眼之罪》的评论文章，关注中国媒体人贾葭被中国当局认为与一封《要求习近平同志辞去党和国家领导职务》的公开信有关而”神秘失踪”后，国内的家人和亲属遭到中国警方的广泛调查和骚扰威胁，两个弟弟和一个妹妹于3月27日被警方”绑架”（指没有任何法律手续的拘押）。</p>
-<p>长平在本周日（3月27日）发表的一封公开信中表示，他也曾就中共当局非法绑架的问题接受法国国际广播电台（RFI）的采访。文章及访谈发表之后，长平称其家人和亲属”遭到警方广泛的调查、骚扰和威胁”。声明表示，3月27日，长平的两个弟弟和一个妹妹在父亲的寿宴上被四川省西充县警方带走，要求他们联系长平，让他停止发表批评中共的文章，否则治罪。长平就此发表声明称：”我在国内的任何家人和亲属，都对我的思想、文章和媒体工作没有任何了解，也没有任何相关联系。”</p>
-<p>为此，长平在声明表示：对国家领导人的政治作为进行任何形式的批评，都是公民的言论自由。中共当局应该立即停止针对那封要求习近平下台的公开信的调查，立即停止由此导致的对媒体人、评论人、网民及其亲属的调查、骚扰、威胁和绑架。除了上述评论文章和访谈之外，他与那封公开信”没有任何关系”。</p>
-<p>长平曾表态称：”本人从未介入中共高层权斗，也对此没有任何兴趣。”他说：从事新闻工作及时事评论二十余年，”一直以专业精神及知识分子良知自律自励，从来问心无愧，并甘愿承受由此而致的坎坷命运。”从中共当局的骚扰和威胁中， 长平更多地看到了他的写作的价值，”并将继续努力。”在谴责中共当局对于德国之声、法广等西方媒体的新闻自由的干预同时，长平表示中共当局不应将家人牵扯其中，并同意他们”在任何时候和我（张平）彻底断绝关系”。</p>
-<p>长平曾担任过《南方周末》新闻部主任、《外滩画报》副总编辑、《南都周刊》副总编辑及执行总编辑，并先后在中国大陆、香港、台湾、马来西亚、德国等地多家媒体开设时事评论专栏。2008年4月西藏3·14事件发生后，他因在英国《金融时报》中文网发表《西藏：真相与民族主义情绪》一文，招致部分中国网民及《北京晚报》等媒体的攻击，被撤去《南都周刊》副总编辑一职，后调任至南都传播研究院任研究员。从2010年年底开始，中国当局禁止长平在媒体上发表任何文章 。2011年，他在香港创办时事杂志《阳光时务》，担任主编，但香港政府此后拒绝向他发放工作签证。随后，长平移居德国。在为德国之声撰写”长平观察”专栏以外，他也为《南华早报》、《苹果日报》、《端传媒》、《明报》、台湾《想想论坛》、德国《南德意报》、美国《China Change》等媒体撰写评论文章。长平曾获”南方周末年度致敬专栏作家”、”香港人权新闻奖”等多项荣誉。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-dw%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E9%95%BF%E5%B9%B3%E5%AE%B6%E4%BA%BA%E5%9B%A0%E5%85%B6%E8%AF%84%E8%AE%BA%E8%A2%AB%E5%A4%B1%E8%B8%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89/?category=18271" rel="tag">权力斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%9D%A5%E8%87%AA%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E7%9A%84%E5%A5%BD%E5%8F%8B%E9%82%80%E8%AF%B7/" target="cdt-mirror">【麻辣总局】纽约时报｜来自扎克伯格的好友邀请</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/27heng-articleLarge.jpg?resize=550%2C397" alt="27heng-articleLarge" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/27heng-articleLarge.jpg?resize=300%2C217 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/27heng-articleLarge.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>Facebook创始人马克·扎克伯格(Mark Zuckerberg)再度到访北京成了当地的大新闻，并在中国网络上引起了热议。</p>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%9D%A5%E8%87%AA%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E7%9A%84%E5%A5%BD%E5%8F%8B%E9%82%80%E8%AF%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91%E5%B1%B1%E4%BC%9A%E8%A7%81%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">刘云山会见扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">扎克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E6%99%A8%E8%B7%91/?category=18271" rel="tag">扎克伯格北京天安门晨跑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -659,5 +721,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

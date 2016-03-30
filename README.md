@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E4%BA%94%E6%AF%9B%E8%A3%85%E9%80%BC%E9%81%AD%E9%9B%B7%E5%8A%88/" target="cdt-mirror">凌虚铺子：五毛装逼遭雷劈</a>
+</h2>
+<p><p>中国数字时代编辑注：<a href="http://weibo.com/lingxupuzi?is_hot=1">@凌虚铺子</a>原微博已被删除，本文链接来自谷歌缓存。</p>
+<p>【装逼遭雷劈】严复有言“华风之弊，八字尽之。始于作伪，终于无耻。”一百多年过去，严复这一名言用于<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a> <a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 等大五毛身上，再贴切不过了。</p>
+<p>网络代有红人出，各领风骚三五天。最近，共青团中央网络影视中心党组成员、副主任<a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 女士一夜间爆红微博，成为史上成名最快的网红。这位口含天宪、以道德逼自居的团干，一边义正词严的高呼坚决抵制西方价值观，一边把儿子、外甥、外甥女送到西方去留学。并且挥舞道德大棒，对她看不顺眼的网友口诛笔伐。麻逼，许你儿子在加拿大留学，不许人家凤姐在纽约美甲？许你在微博上得瑟，不许人家papi酱在微博上呛声？什么逻辑？</p>
+<p>事实上，在<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a><a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 等大五毛身上，集中了严复所言的伪君子所有物理特征：一是一边高调反美反西方，一边是崇洋媚外，把妻儿老小都送往西方敌对势力前线，自己坚持在后方做爱国生意牟利；二是是顺我者昌，逆我者亡，对所有的反对意见都无法容忍，认为只有自己是无限正确的；三是口口声声反对资产阶级自由化，自己却当“捂产阶级”不敢公开自己的财产；四是回避自己才是造成社会矛盾的主体，而对揭露真相的大加鞭挞。总而言之，极度地虚伪，极度地的无耻。</p>
+<p>网友常说，装逼遭雷劈。这句应在了<a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 主任身上了。这位靠装逼博出位的网红，一夜之间就被网友扒得精光，不仅扒出了她几年前送儿子外甥出国留学、外甥外甥女都在加拿大留学的新闻，而且肉出蔺主任的小孩出国留学前，在北京就读的是加拿大枫叶国际学校，蔺主任吓得删光了相关微博。可谓是光屁股跳舞，转圈圈丢人。网友赋诗云：“勉从虎穴暂栖身，说破英雄惊煞人！巧借留学来掩饰，一家三个余则成。”</p>
+<p>其实，这不是她一个人的故事，而是天朝名利场一道炫目的风景。今年年初，穿阿玛尼列席深圳“两会”的13岁少年装逼说“不要让一张考卷决定未来、决定一生。”后来被网友扒出，这孙子从幼儿园到现在一直在装逼。过去在校园在选秀场上装装也就罢了，居然装到参政议政的“两会”殿堂。网友一针见血地说“对亿万穿不起阿玛尼的孩子来说，影响他们未来的幸亏还有一张考卷，等这张考卷都没了，中国就都是你们阿玛尼的了。”还有那位<a href="http://weibo.com/n/%E4%BE%A0%E9%AA%A8%E6%9F%94%E6%83%85%E7%9A%84%E6%9D%A8%E5%8D%8E?from=feed&loc=at" target="_blank">@侠骨柔情的杨华</a> 杨桑，一边高喊核平日本，一边把女儿送去为日本社长太君服务。至于那个把爱国生意做到美国的<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a>  更无耻，以至于上帝都看不下去，予以“电梯夹头”的严重警告。所以说，无论这些大五毛们表演得多么卖力，装得多么自信，都难逃一个耻辱的标签—骗子。我之所以称五毛为蛆虫？是因为它们总是发誓与粪坑共存亡，但最大的愿望是变成苍蝇飞出粪坑以苟利，但繁殖的还是蛆虫，还是在粪坑里吃屎！</p>
+<p>其实，在一个多元社会里，你可以信马列主义，信毛泽东思想，信雷锋精神，也可以信上帝，信佛祖，信真主，信关公，但是要真信，不能口是心非。我为什么对以夹头为代表古生代、以胡编为代表的中生代、以臭带鱼为代表的新生代五毛们深恶痛绝？因为从某种意义上讲，他们比贪官更可恶！贪官搂钱玩女人尚属于人性本能；而五毛是混淆是非，颠倒黑白，毁坏人的良知和道德，破坏社会伦理和秩序。并且会带坏涉世未深的青少年！从而毁灭一个民族的未来！</p>
+<p>西谚有言：大狗要叫，小狗也要叫。按照上帝赋予的声音叫，便是天籁之音！哈耶克说“通往奴役的道路上铺满了鲜花。”好的社会，不是理想国，而是一个有缺陷的、可以不断改进的，彼此尊重、愿意妥协、求同存异的社会。任何以理想国的名义，强制推行一种声音，一个主义，一个信仰的，都与现代文明相悖！</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E4%BA%94%E6%AF%9B%E8%A3%85%E9%80%BC%E9%81%AD%E9%9B%B7%E5%8A%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">小蔺主任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">蔺主任</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%92%99%E5%B1%B1%E9%87%8E%E9%80%B8%EF%BC%9A%E3%80%8A%E4%B9%A1%E9%95%87%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%87%B4%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%85%88%E7%94%9F%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC/" target="cdt-mirror">蒙山野逸：《乡镇团委书记致贺卫方先生的一封公开信》有感</a>
 </h2>
 <p><div>    看了福建省宁德市漳湾镇团委书记、中共党员、西南政法大学毕业生王银川的《乡镇团委书记致贺卫方先生的一封公开信》，气不打一处来，本来很久没有写网络文章了，实在是忍无可忍！
@@ -43,7 +61,36 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA/?category=18271" rel="tag">凯迪社区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">贺卫方挑战团中央</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平｜我的声明：自由没有交易</a>
+</h2>
+<p><p>今日确认，我的家人均已离开派出所。但我的父亲和两个弟弟并未自由，而是取保候审，为此交纳数万元保证金。在当局控制一切资源的情况下，我对所谓祭祖失火案无力调查，因此对以此为名的取保候审不予置评。</p>
+<p>据我了解，在办好取保候审手续之后，我的父亲和弟弟们又被警方叫回，不是为了调查案件，而是安排他们接受记者采访，并炮制所谓个人声明。对此我表示强烈谴责。已经和即将刊播的采访及声明，均是在警方胁迫之下的表演，是进一步将我的家人作为人质的绑架行为。</p>
+<p>今天，我的父亲和弟弟们仍是戴罪之身，处于警方的控制和胁迫之下，他们的一切言说均非无恐惧状态下的自由表达。</p>
+<p>自一周前开始的因为我发表文章而导致警方对我的家人及亲属的骚扰和威胁，以及期间发生的所谓祭祖失火案中，均没有证据表明警方对他们有过刑讯逼供等针对身体的暴力伤害。</p>
+<p>但是，迄今仍在进行中的胁迫我的家人劝说我放弃时事批评写作，以及在调查所谓祭祖失火案中一再强迫我的家人和我联系，并以关押他们及失火赔偿金作为胁迫我删除评论的筹码，是赤裸裸的绑架勒索行为。</p>
+<p>警方一再用血缘关系来胁迫和“感化”我，企图以此完成他们打压新闻自由、维护极权专制的政治任务，是一种卑鄙的情感敲诈伎俩。</p>
+<p>对于这一切绑架和勒索，我均拒绝接受，没有谈判和交易。时评写作是我的职业，也是我的表达权利。我将一如既往地，尽最大努力实践我的言论自由，并倡导包括中国人在内的人类社会的独立思想权利。</p>
+<p>警方企图利用我的家人和亲属来影响我的工作，无论表现得多么温和友好，都给他们造成极大的精神压力，严重影响他们的工作和生活。我希望警方及中国当局立即停止这一绑架行为。</p>
+<p>正如我在此前的声明中所说，在我的家人及亲属获得真正的自由之前，我不会跟他们发生任何联系，他们也不会有我的任何联系方式。</p>
+<p>我希望我的抗争，能够引发人们对于批评权力怪兽的独立思想者，尤其是被烙上异议人士或流亡者标签的自由捍卫者及其家人所遭受的威胁，以及他们共同面临的亲情伦理困境予以更多的关注。</p>
+<p>感谢诸多活动人士、新闻媒体、人权组织及政府机构的关注、支持和帮助。希望我能继续和你们一道，在对抗极权、捍卫言论表达和新闻自由方面坚持到底。</p>
+<p>爸爸，祝你生日快乐！妈妈，别哭！张雄，张伟，春梅以及所有的亲人，我爱你们！</p>
+<p>长平</p>
+<p>2016年3月30日</p>
+<p><strong>相关阅读：</strong></p>
+<ul><li><a title="【图说天朝】“我们全家人对他非常失望”" href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%88%91%E4%BB%AC%E5%85%A8%E5%AE%B6%E4%BA%BA%E5%AF%B9%E4%BB%96%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B/">【图说天朝】“我们全家人对他非常失望”</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-dw%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E9%95%BF%E5%B9%B3%E5%AE%B6%E4%BA%BA%E5%9B%A0%E5%85%B6%E8%AF%84%E8%AE%BA%E8%A2%AB%E5%A4%B1%E8%B8%AA/" target="_blank">德国之声 | DW专栏作者长平家人因其评论“被失踪”</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="_blank">德国之声 | 长平：贾葭失踪，睁眼之罪</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E4%BF%A1%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF%E4%B9%8B%E9%95%BF%E5%B9%B3%E7%AF%87/" target="_blank">【立此存照】自己都不信：机器五毛召唤术之长平篇</a></li>
+</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E5%9D%90/?category=18271" rel="tag">连坐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平 | 我的声明：自由没有交易</a>
 </h2>
@@ -557,95 +604,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E4%B9%88%E7%9D%80%EF%BC%8C%E8%83%A1%E7%BC%96%E7%9A%84vpn%E8%BF%87%E6%9C%9F%E4%BA%86%EF%BC%9F/" target="cdt-mirror">【网络民议】怎么着，胡编的VPN过期了？</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.04-PM.png?resize=549%2C255" alt="Screen Shot 2016-03-28 at 4.38.04 PM" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.04-PM.png?resize=300%2C139 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.04-PM.png?resize=768%2C357 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.04-PM.png?resize=1024%2C476 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.04-PM.png?w=1180 1180w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.39-PM.png?resize=549%2C455" alt="Screen Shot 2016-03-28 at 4.38.39 PM" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.39-PM.png?resize=768%2C636 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.39-PM.png?resize=1024%2C848 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.39-PM.png?w=1208 1208w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.51-PM.png?resize=551%2C512" alt="Screen Shot 2016-03-28 at 4.38.51 PM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.51-PM.png?resize=300%2C279 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.51-PM.png?resize=768%2C713 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.51-PM.png?resize=1024%2C951 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.38.51-PM.png?w=1204 1204w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.39.10-PM.png?resize=549%2C464" alt="Screen Shot 2016-03-28 at 4.39.10 PM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.39.10-PM.png?resize=300%2C253 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.39.10-PM.png?resize=768%2C648 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.39.10-PM.png?resize=1024%2C864 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-28-at-4.39.10-PM.png?w=1204 1204w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>以下评论选自新浪微博：</p>
-<p>锤乍起砸皱一池春水：卧槽有门儿！</p>
-<p>imagesoft：狗鼻子嗅到了什么？</p>
-<p>纪念罗克：一个根本就不应该存在的东西，硬是让胡编说的那么合理……胡编您知不知道男人身上长了几张嘴？</p>
-<p>月亮的背面是外星人：慢慢是多慢啊？</p>
-<p>同心同德0707：对你们的政权来说是正面作用，可是对我们民族长远来说，你们是不可饶恕的混蛋！</p>
-<p>围观：咦，快看，飞盘朝右边飞。</p>
-<p>雅客Yorker：反了你了，敢公然妄议党的大政方针。[怒罵]主编的位置还想做下去么</p>
-<p>日耳曼刘：胡编这个首鼠两端的玩意又跑出来叼飞盘了。当局搞得网络防火墙和当年东德当局修的柏林墙有什么区别吗？请问柏林墙有正面作用吗？昂纳克曾经很自信的认为柏林墙永远不倒，结果呢？修建网络防火墙的目的无非就是配合当局搞愚民政策罢了。</p>
-<p>海纳720520：胡总最近比姚文元圆滑多了[嘻嘻]</p>
-<p>不系舟89：文宣狗都开始四散奔逃了？</p>
-<p>范dang爱：我靠，老胡叼盘党，你这是砸自己饭碗呀，你要方校长怎么办</p>
-<p>大漠狐雄：如果在外国生活的孩，又上谷歌，又上脸书，学坏了么办？回来颠覆国家么办？</p>
-<p>劉鎭江：一缕春风！任志强是催化剂！</p>
-<p>绝世小疯：//@谢让多杰：你还是对网络防火墙理解不深，那就是网络上的万里长城，如果不设防就会任人宰割。当中国在世界上还没有充分话语权的时候，这个长城的存在，就是对我们民族文化和理念的有效保护。当中国和谐发展和平共存的理念被世界理解的时候，当中国精神引导世界的时候，就该其他国家设立网络防火墙了</p>
-<p>有关部门小临时工：其实，防火墙挡住的只是些知识文化水平较低的人，稍微懂点网络知识的谁不会翻墙啊？</p>
-<p>亨利博士：短暂墙裂，所有人都兴高采烈，可见墙有多么不得人心。如果墙的存在是为了失去人心，那么墙的政治目的不就一目了然了吗？</p>
-<p>Curious带个果儿：叼盘侠是要给我们带来好消息吗</p>
-<p>凡卡君：海外的盆友们，你们准备好了嘛？不能保护你太久了</p>
-<p>阴魂蜗牛：什么防火墙啊，直接断网！百姓之口除了吃饭和山呼赵太爷万岁万岁万万岁外，多说一个字拉到菜市口砍了示众</p>
-<p>汤汤若望：说谁的防火墙呢？[哆啦A梦花心]</p>
-<p>本_本：不要把一个组织的承受力等同于整个国家社会的承受力。杜甫诗云：尔曹身与名俱灭，不废江河万古流。</p>
-<p>卷走24堆雪yl：坚决反对拆墙！坚决反对对西方势力的仼何妥协！坚决反对中国与世界更透明的接轨！保护特权是每个五毛义不容辞的责任！</p>
-<p>摇头狮子吴立身：大大不喜欢你了</p>
-<p>民胞物与之城：网络封锁代表的是色厉内荏极度不自信，没有任何正面作用！你代表宇宙真理你怕什么？难道民众都是白痴，不辨是非？？？网络锁国 一如晚清，</p>
-<p>一觉怪哉：从付出的人力物力财立，和愚民的效果来看，真是一贯的愚蠢！</p>
-<p>往事如风1123010：胡编，你被敌对势力策反了？[吃惊]</p>
-<p>Nuka–Cola：墙，翻墙等词已经成为当下中国的热门词汇，不能不说是一种悲哀与讽刺，有点大清国的赶脚，相同制度的越南，也没什么墙啊，谁更有制度自信？？</p>
-<p>more愫：谷歌外贸浏览器，翻墙so easy</p>
-<p>一路前行一路拼：是没有办法封锁信息了吧！设个防火墙结果大家会翻墙。现在谷歌又准备全球wifi，更没有招了！</p>
-<p>上海朱斌律师：墙的真正意义是以政治的名义保护国内互联网企业的垄断</p>
-<p>見山樓：小胡的这个博文，在技术领域意义重大。即谷歌的6颗卫星，流氓集团在技术上已封杀不了，于是这次他们打算把自己的丧事也当喜事办一下。注意仅仅是技术领域的事情，边走边看吧。</p>
-<p>胖小咕的爹：胡总又开始踩钢丝了，都知道gfw奇葩，但作为党媒官员身在朝中，也不好直接喷。。。最终还是可能被妖魔化的所谓普世价值所同化。如果经济和环境可以双赢的话</p>
-<p>攻城狮没有梯子：主要还是因为古巴叛变了吧？</p>
-<p>SzetoLung：胡编你这浓眉大眼的家伙也参加推墙了</p>
-<p>盧國發：大势所趋，阻必死。</p>
-<p>左囿：你国文化闭关锁国有意思吗？</p>
-<p>过河卒兵：对人民判断力的不信任，只有堵没有疏！</p>
-<p>大爱-延寿：鲁伟可能毁了大陆互联网</p>
-<p>那棵老枇杷：胡司令投诚了吗？[哈哈]</p>
-<p>ice-cirno：我怎么觉得，这是胡主任得到内幕消息了，难道gfw要拆了？</p>
-<p>就叫大步流星：每人心中一杆称，胡总也不例外。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005KRWFpjw1f2d8hanlllj30cs0i1q4h.jpg?resize=180%2C180" alt="005KRWFpjw1f2d8hanlllj30cs0i1q4h" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005KRWFpjw1f2d8hanlllj30cs0i1q4h.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005KRWFpjw1f2d8hanlllj30cs0i1q4h.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005KRWFpjw1f2d8hanlllj30cs0i1q4h.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/005KRWFpjw1f2d8hanlllj30cs0i1q4h.jpg?w=180 180w" sizes="(max-width: 180px) 100vw, 180px" data-recalc-dims="1"></p>
-<p>斌郎87：随着网络知识的普及，翻阅防火墙变得越来越简单，你再怎么加强也是跟不上被破解的步伐。看清楚形势，别再逆势而行了</p>
-<p>观尼piece：主编，任志强尸体还没凉透呢，你这么吃里扒外是什么意思？</p>
-<p>MULTI-土：禁言禁视禁听，本来就是流氓标配，不必然才怪。</p>
-<p>连阳标统：胡总，坚决不能推墙，一旦墙推倒了，西方敌对势力极尽造谣传谣之能事，把中国从中国梦里叫醒了怎么办？臭公知们挖掘各种历史虚无主义的所谓真相，怎么办？ 西方邪恶的普世价值无遮无挡在青年中传播，怎么办？我们过去为了宣传正能量所做的报道，以后被一拆就穿，怎么办？[笑cry]</p>
-<p>goseaside：方校长之流的做法冒天下之大不韪， 连胡总编都看不下去了， 再搞下去人神共愤，为天地所不容</p>
-<p>恐惧中前行：胡编有成图书管理员趋势，莫非就是被公款理由处分给气的。党国误人啊！</p>
-<p>孙绍诗：呦呦呦！狗嘴吐象牙了？</p>
-<p>价格查询AT泥轰：党性泯灭，人性猖狂[怒]</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E4%B9%88%E7%9D%80%EF%BC%8C%E8%83%A1%E7%BC%96%E7%9A%84vpn%E8%BF%87%E6%9C%9F%E4%BA%86%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw%E7%B2%BE%E9%80%89/?category=18271" rel="tag">GFW精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B5%AB%E9%B2%81%E6%99%93%E5%A4%AB%E5%BC%8F%E7%9A%84%E4%BA%BA%E7%89%A9%E5%B0%B1%E5%9C%A8%E5%85%9A%E5%86%85%E5%B0%B1%E5%9C%A8%E8%BA%AB%E8%BE%B9/" target="cdt-mirror">【习总日记】 赫鲁晓夫式的人物就在党内就在身边</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，29）</p>
-<p>一</p>
-<p>3月28日，乘专机抵达布拉格，开始对捷克共和国进行国事访问。当地时间下午2时许，专机抵达布拉格机场。步出舱门，受到捷克外长扎奥拉莱克、总统办公厅主任米纳日等热情迎接。</p>
-<p>晚上抵达泽曼的私人官邸拉尼庄园，我与拄着拐扙的泽曼热情握手。两人都没有系领带，边走边谈，然后走上阳台，向记者们挥手。泽曼把右手搭在我的左肩上，展示两人的亲密友好，随后一同在庄园散步，并举行植树仪式。泽曼当晚将在这里举行私人晚宴招待中国贵宾，这是中捷两国建交六十七年来，中国国家元首首次对捷克进行国事访问，捷克将在第二天在总统府布拉格城堡举行高逼格欢迎仪式。我将与泽曼、捷克总理索博特卡，以及参众两院主席举行会谈。</p>
-<p>二</p>
-<p>“<a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%84%8A%E6%A2%81/" target="_blank">无法跟着你们姓</a>”。党媒南方报业下南都文化从业人员余少镭如此说，吓了我一大跳。</p>
-<p>真以为你们是人民喉舌，过去那么多年。真以为你们是自由媒体人，过去那么多年。真以为你们是独立思考者，过去那么多年。总说我们党的领导干部怎么怎么的，我看你们的智商也高不到哪里去。</p>
-<p>无论你们承认姓党还是不承认，无论你们意识到还是不意识到，凡在党的机关事业企业单位干活领工资的，都姓党。这么简单的道理还要我来提醒你们？</p>
-<p>三</p>
-<p>《环球时报》<a href="http://chinadigitaltimes.net/space/%E8%83%A1%E9%94%A1%E8%BF%9B" target="_blank">胡总编</a>最近<a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%80%8E%E4%B9%88%E7%9D%80%EF%BC%8C%E8%83%A1%E7%BC%96%E7%9A%84vpn%E8%BF%87%E6%9C%9F%E4%BA%86%EF%BC%9F/" target="_blank">说话有点冲</a>。是不是也不想干了？是不是听到什么风声给自己预先留后路？我知道你们这帮人，哪天党垮了，落井下石最狠的必定是你们，叼飞盘最勤快的这些人。</p>
-<p>一本《<a href="http://chinadigitaltimes.net/chinese/2014/01/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%A7%81%E4%BA%BA%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BF%86%E5%BD%95-%E6%9D%8E%E5%BF%97%E7%BB%A5-%E8%8A%82%E9%80%896%EF%BC%89/" target="_blank">毛主席私人医生回忆录</a>》，不正是自己人写的吗？毛主席早说过了，赫鲁晓夫式的人物就在党内就在身边。</p>
-<p>写到这里，麻麻瞪了我一眼。</p>
-<p>不写了。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E8%B5%AB%E9%B2%81%E6%99%93%E5%A4%AB%E5%BC%8F%E7%9A%84%E4%BA%BA%E7%89%A9%E5%B0%B1%E5%9C%A8%E5%85%9A%E5%86%85%E5%B0%B1%E5%9C%A8%E8%BA%AB%E8%BE%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -657,7 +615,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -667,5 +625,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

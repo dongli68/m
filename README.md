@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E8%94%BA%E4%B8%BB%E4%BB%BB%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A6%88%E5%A6%88/" target="cdt-mirror">王海涛：蔺主任是个好妈妈</a>
@@ -81,7 +81,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
 <p><a href="http://weibo.com/chujiingmoliang" target="_blank">女王爱雪糕</a>：也对，毕竟我只做得来人民，而永远做不成人民币。</p>
 <p><a href="http://weibo.com/1822912060" target="_blank">wan魚子的一些事一些情</a>：<img src="https://s.w.org/images/core/emoji/72x72/1f648.png" alt="</p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D/" target="cdt-mirror">月光博客 | 为什么不要在中国注册域名</a>
 </h2>
@@ -150,7 +150,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%BA%92%E8%81%94%E7%BD%91%E5%9F%9F%E5%90%8D%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95%EF%BC%88%E4%BF%AE%E8%AE%A2%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B/?category=18271" rel="tag">《互联网域名管理办法（修订征求意见稿）》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E8%A7%84/?category=18271" rel="tag">互联网新规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%BB%E7%90%86/?category=18271" rel="tag">互联网治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BF%A1%E9%83%A8/?category=18271" rel="tag">工信部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%88%91%E4%BB%AC%E5%85%A8%E5%AE%B6%E4%BA%BA%E5%AF%B9%E4%BB%96%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B/" target="cdt-mirror">【图说天朝】“我们全家人对他非常失望”</a>
 </h2>
@@ -659,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E8%94%BA%E4%B8%BB%E4%BB%BB%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A6%88%E5%A6%88/" target="cdt-mirror">王海涛：蔺主任是个好妈妈</a>
+</h2>
+<p><p>蔺主任，女，最近成了“网红”。如果你还不知道她是谁，去微博上搜索“蔺主任”可能还能搜到。</p>
+<p>人红是非多。蔺主任最近也陷入是非之中，据说删掉了自己微博中关于自己孩子的内容。那些内容，大致透露了自己的孩子曾经在国内上每年学费8万元的国际学校，以及，后来孩子远赴加拿大求学。此外，大家翻阅她的微博，还发现，她的侄子，侄女，也在加拿大求学。</p>
+<p>让她不慎走红的，还包括她的另外一些言行，比如他所表达的对西方价值观的警惕和对我们国家的热爱——于是，就有人问，既然如此，为何把自己的孩子送到西方呢？</p>
+<p>对于这样的质疑，我要替蔺主任说几句话。把孩子送到西方读书与爱国之间并不矛盾，说不定是为了培养更加爱国的后代。比如，清末的时候，大批的中国学生赴日本留学，后来很多成了极为爱国的革命党——成为著名“汉奸”的，也就一个汪精卫吧。</p>
+<p>总之，我既相信蔺主任对国家的爱，更相信她对自己孩子的爱。至于哪一种“爱”更真实一些，根据我的观察，一个人有了孩子之后，才会真正懂得什么是“真爱”——那就就是给自己真正爱的人自己能给得起的最好的东西。基本上，为人父母者，都愿意尽自己所能，给孩子提供最好的一切，尤其是教育。另外，根据我的观察，一个女人当了妈妈之后，对于自己的孩子，她流露出来的一定是真爱。当然，她会因为这个真爱，暴露自己的智商以及情商。换句话说，真爱，往往会让一个人智商以及情商“阶段性”降低。</p>
+<p>一个人情商低的表现是，他总让别人难受；一个人智商低的表现是，别人总让他难受。最近，蔺主任之所以成为网红以及成为网红之后的烦恼，大致就表现在，她让别人难受了，然后，别人让她很难受。不管谁让谁难受，通过大家挖掘出的蔺主任数年来的微博内容，我可以断定，蔺主任是个好妈妈——她确实一直在努力给自己的孩子，提供自己所能提供的最好的一切。</p>
+<p>按照“妈妈总会给孩子最好的”这个逻辑，那么，我们可以认为，在蔺主任看来，遍布着可怕的西方价值观的加拿大有比中国更好的教育，否则，她不会让自己的孩子冒着被西方价值观腐蚀的危险而依依不舍地把孩子送到那么遥远的地方。我和她一样，并不担心她的孩子，会被侵蚀，毕竟，孩子已经长大成人，知道什么是香什么是臭。</p>
+<p>出国，即便是去腐朽的国家，也未必就会被污染。</p>
+<p>比如，众所周知，清末的中国是腐朽的。那时，大量的西方人来到东方的中国，当时东方中国的一个重要的价值观是“女人裹小脚为美”——但并没有一个来华的外国人将这个“小脚为美”的价值观带会他们的国家。这大概是因为，稍微有点智商的外国人的都能辨别出，裹脚是一种腐朽的价值观。从这个角度上说，我相信蔺主任的孩子到了异国他乡，一定能够分辨出异国的价值观里，哪些是糟粕，哪些是精华。</p>
+<p>不过，按照这个逻辑，可以推倒出一个“悖论”：既然我们的孩子到了西方都不用担心会被西方的腐朽思想所腐蚀，那么，我们有什么必要担心“留在东方”的孩子会被西方的腐朽思想所腐蚀呢？如此说来，蔺主任之前在微博上所表达的那些对西方价值观的警惕，就显得有些用力过猛。这大概是她被一些人诟病“精神分裂”的原因之一吧——但我坚决不会如此指责这位好妈妈，因为我一向相信，当一个妈妈“对自己孩子的爱”与“对其他事物的爱”相抵触的时候，后一种爱是是可以忽略的。</p>
+<p>但也有例外。《红岩春秋》杂志2013年刊发过这样一篇革命故事——</p>
+<p>1935年2月，高文华和妻子贾琏负责河北（北方局）的革命工作，他担任河北省委书记，妻子负责省委财政工作。当时，由于革命组织被破坏，他们与中央失联，因而失去经费来源。那时，高文华常常几天难得吃一顿饱饭。贾琏看在眼里，痛在心里。一天，她想把墙上腊肉取下煮给丈夫吃，高文华坚决不同意——因为他们公开的身份是商人，腊肉是摆阔气、装门面的。两个女儿实在饿得慌，偷偷在外面捉些蝗虫回来烧着吃。贾琏害怕暴露身份，一气之下动手打了孩子。</p>
+<p>在这种艰难的条件下，交通员没有出差费，房东天天催缴房租，有的同志饿得迈不开步子……高文华和贾琏对此深感忧虑。一天，贾琏看到面黄肌瘦的两个女儿，便想用孩子换钱。但她仔细一想，女孩子卖不了几个钱，而且卖出去必然会落入火坑。于是，她又把目光转向睡在床上那刚满4个月的儿子身上。为了党的事业，贾琏夫妇唯一的儿子卖了50块银洋……北方局不仅没有涣散，而且指导了北京的“一二·九”学生运动……</p>
+<p>有人说，这个故事里的妈妈在“对孩子的爱”与“对革命的爱”之间产生冲突时，失去了“人性”——我不敢这么认为。我只能这样认为——4个月大的婴儿卖给了能够出得起50块大洋的人家，一定能够免于饥饿，得了50块大洋的爸爸妈妈得以继续革命，在爸爸妈妈看来，这或许是个两全其美的方案。</p>
+<p>时光荏苒，今非昔比，萧瑟秋风今又是，换了人间。如今，对有些人而言，两全其美的方案是，爸爸妈妈在东方好好革命，儿子女儿到西方好好学习。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E8%94%BA%E4%B8%BB%E4%BB%BB%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A6%88%E5%A6%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%8D%E7%88%B1/?category=18271" rel="tag">母爱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">蔺主任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9Awho%E5%9C%A8%E7%96%AB%E8%8B%97%E9%A3%8E%E6%B3%A2%E4%B8%AD%E6%89%AE%E6%BC%94%E4%B8%8D%E5%85%89%E5%BD%A9%E8%A7%92%E8%89%B2/" target="cdt-mirror">东网｜傅桓：WHO在疫苗风波中扮演不光彩角色</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg" rel="attachment wp-att-433336"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg?resize=575%2C323" alt="shijie_2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
@@ -79,7 +104,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%BB%E7%90%86/?category=18271" rel="tag">互联网治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%9F%E5%90%8D/?category=18271" rel="tag">域名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%9F%9F%E5%90%8D/?category=18271" rel="tag">境外域名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E6%B0%93%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">流氓政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%A4%E5%BE%B7%E6%98%8E%EF%BC%9A%E8%BF%91%E5%B9%B3%E4%B9%8B%E6%B2%BB/" target="cdt-mirror">苹果日报 | 古德明：近平之治</a>
 </h2>
@@ -613,26 +638,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E4%BA%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%A7%A3%E9%87%8A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%95%E8%A6%81%E6%8A%93%E5%AE%B6%E5%B1%9E/" target="cdt-mirror">【习总日记】 习总解释我们为何要抓家属</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，28）</p>
-<p>有人告诉我近日《要求辞职公开信》专案组抓了几拨家属。这事我不知。我怎么可能下这样的指示？你们当我是什么人了？</p>
-<p>我是土匪吗？当然不是。要是1949年前是。现在我们坐天下，世上哪有坐天下的土匪。我是独裁者吗？更不是。毛主席可以算，我想当他们还不同意呢。</p>
-<p>请大家放心，只是吓唬吓唬，不会把他们怎么样的，毕竟不是毛主席阶级斗争那个年代了。现在讲的是依法治国。况且专案组抓人也是为了按时完成党中央交给的光荣任务。时间紧任务重限期破案，手段难免粗糙甚至毒辣，希望你们能够理解。</p>
-<p>耳熟能详的一句话是，水能载舟亦能覆舟。1976年之前是“载舟”，全国人民一心一意拥护共产党。从粉碎四人帮时人民群众那个高兴劲儿就可以知道。现在到了“覆舟”阶段。遵照小心驶得万年船的既定方针政策，要认识到即使一点点微小波浪都可能够酿成惊涛骇浪。要牢记细节决定成败原则，虽然在你们看来《要求辞职公开信》是小事一桩不足挂齿，但依我来看，一人喊一声“辞职”不打紧，但有可能引发连锁反应，几千几万人一齐喊，罗马那个尼亚国齐总的悲剧就可能重演。所以我们成立专案组布下重兵追查此公开信来源和惩罚传播者鼓噪者，并限期破案。如果限期内无法破案，将被视为同党，专案组全部成员一律就地免职。所以他们急了。</p>
-<p>有人说株连九族。言重了吧。株连是要治罪是要杀头的，他们只是抓了几个家属，躲猫猫藏起来，好吃好喝供着，希望《要求辞职公开信》作者及传播者能向桂民海学习，投案自首。</p>
-<p>我虽贵为党总书记国家主席中央军委主席，但决不干涉专案组同志们的具体行为做派，无论文明还是野蛮我都管不着也不想管。对他们的唯一要求就是限期破案，查找公开信源头。</p>
-<p>一个政权是需要蛮力的，否则无法安邦；一个领袖是需要权威的，否则无以服众。譬如我这个拥有八千万党员史上最大党的党总书记，即便是大多数党员心里不服，只要没人吱声，则可稳稳妥妥地继续做我的总书记。可一旦有人轻轻地喊一声“辞职”，再一呼百应，百应扩展成千人万人的怒吼，我不就完蛋了吗？想想叫人后怕，如果那天国内媒体一家转，然后第二家第三家跟进，一家家跟进，最后接力棒传到新华网人民网，不用费一枪一弹，我不就完蛋了吗？</p>
-<p>所以啊，抓你们几个家人，在我眼里与我的权位相比，在党眼里与党的统治权相比，又算得了什么？</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%A7%A3%E9%87%8A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%95%E8%A6%81%E6%8A%93%E5%AE%B6%E5%B1%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -644,7 +649,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -654,5 +659,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

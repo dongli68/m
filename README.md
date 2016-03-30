@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平 | 我的声明：自由没有交易</a>
+</h2>
+<p><p>今日确认，我的家人均已离开派出所。但我的父亲和两个弟弟并未自由，而是取保候审，为此交纳数万元保证金。在当局控制一切资源的情况下，我对所谓祭祖失火案无力调查，因此对以此为名的取保候审不予置评。</p>
+<p>据我了解，在办好取保候审手续之后，我的父亲和弟弟们又被警方叫回，不是为了调查案件，而是安排他们接受记者采访，并炮制所谓个人声明。对此我表示强烈谴责。已经和即将刊播的采访及声明，均是在警方胁迫之下的表演，是进一步将我的家人作为人质的绑架行为。</p>
+<p>今天，我的父亲和弟弟们仍是戴罪之身，处于警方的控制和胁迫之下，他们的一切言说均非无恐惧状态下的自由表达。</p>
+<p>自一周前开始的因为我发表文章而导致警方对我的家人及亲属的骚扰和威胁，以及期间发生的所谓祭祖失火案中，均没有证据表明警方对他们有过刑讯逼供等针对身体的暴力伤害。</p>
+<p>但是，迄今仍在进行中的胁迫我的家人劝说我放弃时事批评写作，以及在调查所谓祭祖失火案中一再强迫我的家人和我联系，并以关押他们及失火赔偿金作为胁迫我删除评论的筹码，是赤裸裸的绑架勒索行为。</p>
+<p>警方一再用血缘关系来胁迫和“感化”我，企图以此完成他们打压新闻自由、维护极权专制的政治任务，是一种卑鄙的情感敲诈伎俩。</p>
+<p>对于这一切绑架和勒索，我均拒绝接受，没有谈判和交易。时评写作是我的职业，也是我的表达权利。我将一如既往地，尽最大努力实践我的言论自由，并倡导包括中国人在内的人类社会的独立思想权利。</p>
+<p>警方企图利用我的家人和亲属来影响我的工作，无论表现得多么温和友好，都给他们造成极大的精神压力，严重影响他们的工作和生活。我希望警方及中国当局立即停止这一绑架行为。</p>
+<p>正如我在此前的声明中所说，在我的家人及亲属获得真正的自由之前，我不会跟他们发生任何联系，他们也不会有我的任何联系方式。</p>
+<p>我希望我的抗争，能够引发人们对于批评权力怪兽的独立思想者，尤其是被烙上异议人士或流亡者标签的自由捍卫者及其家人所遭受的威胁，以及他们共同面临的亲情伦理困境予以更多的关注。</p>
+<p>感谢诸多活动人士、新闻媒体、人权组织及政府机构的关注、支持和帮助。希望我能继续和你们一道，在对抗极权、捍卫言论表达和新闻自由方面坚持到底。</p>
+<p>爸爸，祝你生日快乐！妈妈，别哭！张雄，张伟，春梅以及所有的亲人，我爱你们！</p>
+<p>长平</p>
+<p>2016年3月30日</p>
+<p><strong>相关阅读：</strong></p>
+<p><a title="【图说天朝】“我们全家人对他非常失望”" href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%88%91%E4%BB%AC%E5%85%A8%E5%AE%B6%E4%BA%BA%E5%AF%B9%E4%BB%96%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B/">【图说天朝】“我们全家人对他非常失望”</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-dw%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E9%95%BF%E5%B9%B3%E5%AE%B6%E4%BA%BA%E5%9B%A0%E5%85%B6%E8%AF%84%E8%AE%BA%E8%A2%AB%E5%A4%B1%E8%B8%AA/" target="_blank">德国之声 | DW专栏作者长平家人因其评论“被失踪”</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="_blank">德国之声 | 长平：贾葭失踪，睁眼之罪</a></p>
+<p>【<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E4%BF%A1%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF%E4%B9%8B%E9%95%BF%E5%B9%B3%E7%AF%87/" target="_blank">立此存照】自己都不信：机器五毛召唤术之长平篇</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E5%9D%90/?category=18271" rel="tag">连坐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%80%E5%B9%B4%E5%89%8D%E9%A2%84%E8%A8%80%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%B4%A9%E6%BA%83%E7%9A%84%E6%B2%88%E5%A4%A7%E4%BC%9F%E6%94%B9%E5%8F%A3/" target="cdt-mirror">端传媒 | 一年前预言“中国要崩溃”的沈大伟改口了？</a>
 </h2>
 <p><p><strong>“我不是崩溃论者，我不想中国崩溃，我希望它成功。”中国问题专家沈大伟说。</strong></p>
@@ -58,7 +87,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5/?category=18271" rel="tag">中国未来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">政治体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E5%A4%A7%E4%BC%9F/?category=18271" rel="tag">沈大伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9/?category=18271" rel="tag">路径选择</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%AE%89%E9%82%A6%E7%9A%84%E9%9A%90%E7%A7%98%E8%B4%A2%E5%AF%8C%E5%B8%9D%E5%9B%BD%EF%BC%9A%E6%9D%83%E8%B4%B5%E4%BA%91%E9%9B%86%EF%BC%8C%E8%82%A1%E6%9D%83/" target="cdt-mirror">纽约时报｜安邦的隐秘财富帝国：权贵云集，股权盘根错节</a>
 </h2>
@@ -212,7 +241,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%8D%E7%88%B1/?category=18271" rel="tag">母爱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">蔺主任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9Awho%E5%9C%A8%E7%96%AB%E8%8B%97%E9%A3%8E%E6%B3%A2%E4%B8%AD%E6%89%AE%E6%BC%94%E4%B8%8D%E5%85%89%E5%BD%A9%E8%A7%92%E8%89%B2/" target="cdt-mirror">东网｜傅桓：WHO在疫苗风波中扮演不光彩角色</a>
 </h2>
@@ -660,61 +689,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%87%E7%BB%B4%E7%BD%91%EF%BD%9C%E8%BF%91%E6%9C%9F%E7%84%A6%E7%82%B9%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%9A%E5%A3%AB%E5%AD%A6%E5%8E%86%E4%BD%9C%E5%81%87%E8%A2%AB%E6%94%BF%E6%95%8C%E5%8F%91/" target="cdt-mirror">万维网｜近期焦点：习近平博士学历作假被政敌发现！</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/01/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D.jpg?resize=551%2C413" alt="习近平新年贺词" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/01/习近平新年贺词.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/01/习近平新年贺词.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/01/习近平新年贺词.jpg?w=1024 1024w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>中国国家主席习近平的法学博士学位及论文自从他还是国家副主席的时候就开始广受质疑，人们质疑学位及论文的真实性。英国《星期日泰晤士报》日前的质疑可谓将质疑习近平学历的声音推到了另一高点。</p>
-<p>英国《星期日泰晤士报》上个星期从香港得到了一份习近平博士论文的复印件。报道称，习近平长达161页的论文一是从未发表过， 二是传闻已久请别人代笔一事并非空穴来风。深圳杂文家朱建国表示，学历问题实际上一直都是习近平的一个软肋和隐患：</p>
-<p>“因为在习近平任省委书记和省长时，高官弄个文凭和学位是中国常规，当时对习近平也有某种好处。当时官场的通行规则基本上是高官的秘书和教授串通造假，高官拿学位拿文凭。由此， 当习近平实际成为中国的最高领导人后， 有人就说习近平成为国家主席和中共总书记的自大受益者是中国官场上持有假文凭的官员和当年的工农兵学员， 因为习近平的另一个学历问题就是他的工农兵大学生背景。按照上世纪80年代的规定，工农兵学员学历不算数。 如果习近平在当选中共领导人时不提他的博士学历， 他现在就主动了， 因为他的上台和提升不存在学历问题。有人分析， 习近平上台之后打压网络和微博就是始终担心网络和微博的力量有一天会涉及到他的学历问题”。</p>
-<p>习近平的博士论文题目是《中国农村市场化研究》，英国《星期日泰晤士报》的报道说， 似乎与法律和法学毫无关系。中国有评论说，凭这样的论文，怎么能拿到“法学博士”？因为10几年前还在当福建省担任省委副书记、省长和浙江代省长的习近平是从清华大学人文社会学院马克思主义理论与思想政治教育专业在职学习获得法学博士学位，导师是今年已经七十多岁的清华大学人文社会学院经济学研究生所长刘美珣，刘美珣的学科方向是马克思主义和邓小平思想，是哲学范畴，与法学也毫不沾边。</p>
-<p>山东大学退休教授孙文广表示，中国高官为了为自己粉饰和被提拔，利用各种办法和手段拿到真学历和假的真学位不是个别现象：</p>
-<p>“在中国高官在职时公务繁忙， 要想在职取得博士学位非常困难， 于是， 这些高官就出去各种办法达到目的。这在中国高官中比较普遍”。</p>
-<p>英国《星期日泰晤士报》的报道说，习近平本人对有关他学历的争议从未公开表过态， 选择沉默。然而， 朱建国表示，习近平其实不久前在与高校毕业生和失业人员座谈时已经间接地表态：学历不重要，重要的是情商。现在，习近平的学历又被拿出来说事，朱先生表示这与中共内斗有关：</p>
-<p>“因为习近平自己高叫反腐， 但上台之后却从没有谈到文凭和学历反腐， 他自己在此问题上心虚。于是，他的政治对手利用习近平的这一软肋，拿他的文凭说事”。</p>
-<p>根据1998-2001年清华大学法学在学的博士生回忆，他们当时从来没见过一个叫习近平的同学。据说习近平每年去学校2到3次，基本上都是去导师家礼节性的坐一下。也没有上过什么专业课。更没考过英语，政治，法学等课程。入学没考过，毕业也没考过，这种学历腐败让人大跌眼镜。</p>
-<p>打开论文，看各章主旨。各章节之间的逻辑既不是平行关系，也不是递进关系，应该是说各个主要章节之间没有任何逻辑关系，或者说是逻辑关系相互重叠，或者说作者的逻辑混乱。只有一种情况下，才可能写成这样。那就是该学生在写论文的时候，各个章节，是分别抄袭引用不同他人的论文，才导致这样的结果。</p>
-<p>我们学校有好事的老师，把该论文拿到了2015年的“论文抄袭分辨软件”中进行测试。居然发现有78处是涉嫌抄袭的。这些抄袭的部分，基本上都明显用自己的话改过抄袭的原来内容，显得作者的抄袭手段很高明。但是不幸的是“论文抄袭分辨软件”依然可以分辨出这种抄袭的内容。</p>
-<p>世界各国政要因学历造假或学位论文抄袭被迫下台或辞职的新闻时有所闻。最典型的是匈牙利总统施密特2012年4月2号因为20年前自己的博士论文涉嫌抄袭被曝光之后被迫辞去总统职位。习近平将会应对自己的学位和论文的质疑？</p>
-<p>建议大家上网搜索一下《中国农村市场化研究》，看看这篇文章的原貌。大家会从心里说一声：操！</p>
-<p>习近平的博士学位，在海外曾多次被质疑（如果中国实行像美国等西方国家这样的民主制度，有新闻和言论自由，堂堂国家主席的博士学位有假，早就是大新闻，会被炒翻天。台湾国防部长杨念祖被查出论文有抄袭，任职六天就下台），但在中国，官媒上却是一片静悄悄。</p>
-<p>抄袭、假学位这种问题都是“硬伤”，因为很难逃脱被查询、发现。毕竟有毕业的学校、学位论文、研读时间等等“硬性问题”要被检验。习近平的“博士帽”明显戴得不伦不类，起码三点说不通：</p>
-<p>第一，《清华大学授予博士学位实施办法》明文规定：“申请博士学位的人员必须已获得硕士学位，并在获得硕士学位后工作五年以上。”</p>
-<p>但习近平的简历显示，不要说他没有“获得硕士学位后工作五年”，他从未有过“硕士学位”。这说明，习近平的“博士学位”起码违反“清华大学”本身制定的学位规定，是“违规博士”。</p>
-<p>为什么习近平不符合规定，但却能从清华拿到博士？除了习近平本身的政治地位以外，他跟当时的清华大学党委书记陈希的关系也是明显值得追究的—— （网上可查到的资料显示）他俩都是在1975年作为工农兵学员进入清华大学化工系，不仅是同班同学，还是同宿舍，并称为“关系莫逆”。而且陈希是福建人， 曾在习近平当省长的福建工作。</p>
-<p>陈希“破例”给习近平戴上“博士帽”，习近平则给陈希戴上“乌纱帽”。习近平2007年秋天出任政治局常委、中央书记处常务书记后，陈希 （2008年）就被提升为教育部副部长、党组副书记；2011年还接替邓小平女儿邓楠，出任中国科技协会党组副书记、常务副主席。今年3月习近平出任国家 主席，4月份陈希就被提升为中国官场最有权力的机构“中共中央组织部”常务副部长。</p>
-<p>第二，习近平的博士论文本身跟“法学、法律”毫不相干。习近平当上“政治局常委”后列出的简历说他是“法学博士”，从“清华大学人文社会学院马克思主义理论与思想政治教育专业毕业”。</p>
-<p>这是个什么“专业”？怎么从“马克思主义理论与思想政治教育”就楞是读出个“法学博士”？难怪中国没有言论和思想自由，因为“马克思主义和思想政治教育”就等同是“法”了！</p>
-<p>英国《星期日泰晤士报》所以报导揭露习近平博士学位问题，因为他们已拿到习近平博士论文的复印件；而网上只能查到习近平博士论文的500字介绍， 检索不到原文。中国已建立“博士论文检索系统”，但习近平的论文就是不进入这个“系统”，这本身也说明“习主席”可能心虚（不是谦虚），知道自己的文章是 作弊的。</p>
-<p>为什么“习主席”不敢把自己的博士论文公开？因为他的论文明摆着跟法学毫无关系。该论文全称是《中国农村市场化研究》，开篇介绍说，该论文“通过 对农村三大现实难题（货往哪里卖，钱从哪里来，人到哪里去）产生原因进行了深入分析”，“由此揭示了研究和解决农村市场化问题的重大理论和实践意义。”</p>
-<p>看过习近平博士论文的《星期日泰晤士报》记者在报道中说，“从学术角度讲，这篇长达161页的论文不但漏洞百出，且缺乏原始调研结果，很可能是综合官方调查报告和外国研究成果后，由专人以马列主义理论词汇合成。”</p>
-<p>网上资料显示，习近平的博士论文指导教师是清华大学“马克思主义理论与思想政治教育学科”负责人刘美珣。这位今年76岁的女教授，一生致力教授马 列主义，至今还担任“全国马克思主义理论教学指导委员会委员”。后来可能看到研究马列不那么吃香了，就把她的马克思专业中加入“研究邓小平经济思想”，而 摇身一变成了清华大学社科院经济所所长。但无论是马克思政治还是邓小平经济，都跟“法学、法律”等学科没有关系。习近平不仅自己的博士有假，他的指导教师 也像是个学术骗子。</p>
-<p>习近平在博士论文后面煞有介事地说，他“参考了97本中文和26本英文书籍”。而事实是，习近平根本不懂英文，他连像李克强那样照稿子念几句英文 的能力都没有，居然能“参考了26本英文书”！看来共产党高官的撒谎水平，可不是平平，而是达到“国家主席”的顶峰程度，且“习”以为常了。</p>
-<p>第三，习近平一直当官，他哪有时间写博士论文？习近平“读”博士期间，他担任福建省副省长、省长、党组副书记。福建是中国大省，人口三千五百 万，GDP在中国30多省市排名第六。作为大省一把手，要日理万机，他哪有时间精力去“参考97本中文书和26本英文书籍”，撰写161页的博士论文？</p>
-<p>习近平实在是“太有才了”—— 在做福建省长的四年期间不仅“读”了博士，“写出”16万字博士论文，据《纽约时报》中文网2013年5月23日发表的“解析习近平的博士论文，看中国城 市化”一文（作者李华芳），“习近平博士在读博期间（1998年-2002年）非常高产，共计完成了5本署名著作，分别是主编的1999年由福建教育出版 社出版的《现代农业理论与实践》，2000年与人合著的由福建人民出版社出版的《展山海宏图，创世纪辉煌：福建山海联动发展研究》，2001年主编的由福 建教育出版社出版的《新世纪的选择——福建省发达地区率先实现农业现代化研究》，2001年由人民出版社出版的著作《中国农村市场化建设研究》，以及同年 主编的由清华大学出版社出版的《科学与爱国》等。不仅如此，习博士在此期间还在清华大学指定的学术刊物上发表了12篇学术论文。”</p>
-<p>习近平不是写作出身，也不是从事学术研究的。当年他是靠担任副总理和人大副委员长的高官父亲习仲勋的权势，得以被保送到清华大学（工农兵学员）， 而且学的是化学工程专业。但在短短四年期间，还是主持福建这样一个大省的繁忙工作期间，竟然出版这么多“学术著作”和“论文”，这能是真的吗？</p>
-<p>从常识来看，习近平发表这么多的论文和著作显然是有人代笔。中国那种溜须拍马的“陈希”们，可是从不“稀少”。那么代笔人都是谁呢？</p>
-<p>居住挪威的华裔政论家锺祖康近日发表调查文章“是她为习总代写博士论文吗？”指出，起码现为福建省江夏大学副校长、经济学女教授刘慧宇是嫌疑之一。理由有三：</p>
-<p>一是习近平的那篇博士论文《中国农村市场化研究》，跟刘慧宇出版的书《经济全球化与中国农业发展》，内容多处重复，甚至有些段落一模一样（详见锺祖康的对比文章）。</p>
-<p>二是习近平在福建担任省长期间（获得博士学位），刘慧宇则担任福建省宁德市人大副主任、省政协委员等。</p>
-<p>三是刘慧宇曾为宁德市蕉城区副区长，习近平则担任宁德市委书记，是刘慧宇的上司。</p>
-<p>从网上查到，1966年出生的刘慧宇，后从南京大学获历史学博士，从厦门大学获应用经济学博士，在“省级以上核心期刊发表过数十篇研究论文，出版多部著作”。</p>
-<p>锺祖康的结论是，刘慧宇是学术科班出身，“当时以其学术专长帮了习近平一把，但在处理自己的著作时，在把文字搬来搬去时，对自己曾为他人做枪手代写的文字失去警觉性，以为还是自己的。”</p>
-<p>上述《纽约时报》文章说习近平出版有5本署名著作，但显然漏掉2本，一本是中共中央党校出版社2006年出版的署名习近平的《干在实处，走在前列 ——推进浙江新发展的思考与实践》。另一本是浙江人民出版社2007年出版的署名习近平的《之江新语》。香港凤凰网报道说，这是《浙江日报》2003至 2007年间头版专栏“之江新语”的232篇文章汇集，专栏署名“哲欣”，是当时任浙江省委书记的习近平所用的笔名，意思是“浙江创新”。凤凰网说，“浙 江日报社再三征求习近平的意见后，以《之江新语》为书名，将习近平所写的这些文章集结出版。”</p>
-<p>既然习近平有多达7本署名著作和12篇学术论文，刘慧宇出版的书和论文也很多，国内有心人如果像锺祖康那样下点功夫，把习近平和刘慧宇的“著作、 学术文章”找来做个对比，很可能会 “发现”更多——习近平或许不只是博士学位有假，而且他的全部文章和书，都可能是别人代写的。所以，中国的打假，首先应该从权力高峰的“国家主席”之假开 始！</p>
-<p>===================</p>
-<p>以下是该论文的英文索引。这至少是英语6-8级水平。</p>
-<p>如果习近平真有写出这种高水平论文的水准，他出国应该不带翻译了。</p>
-<p>我估计你就是让他拿着稿念，他也不一定能念出来。这就是他”写”的牛B闪闪的英文哦。</p>
-<p>Abstract</p>
-<p>Rural Marketization in China is a new theoretical issue arising with the deepening of people’s theoretical understanding and improvement of rural market economy practices. In the process of reform and opening over the years, the primary rural market economy system has been constructed, witch has largely liberated and developed the rural productive forces and promoted sustainable, rapid and comprehensive development of rural economy. However, in the meanwhile, some new critical problems have also appeared which may well deserve our attention. In brief, “where will the goods be sold, where will the money come from, and where will the labors go?” have now contributed as the three major issues in the present rural economic development. Through detailed analysis of the causes of the three major issues, the author believes that all of them are closely related to the market. In a market economy, agricultural products are sold in the market, the money that agriculture and rural development need comes from the market, the rural surplus labor migrates orderly through the rational allocation function of the market. In particular, market should be relied on to solve the problems in the structural adjustment of agricultural industry and the increase of the farmers’ income, which is the current focus in many rural areas. Thus, the paper disposes the important theoretical and practical significance of studying and solving rural marketization problems, with the understanding that rural marketization is the inevitable orientation in building and developing rural socialist market economy. Rural marketization is an important measure to break the baffles that constraint the rural reform and development. It also accounts for a necessary and significant premise for agricultural modernization in China. At first, the paper discusses the critical problem of why theoretical studies should precede actual practices in the development of rural socialist market economy. It also reviews and analyzes the achievements, problems, difficulties and causes of the III construction of rural marketization since reform and opening. Then, it studies how the basic situation of a socialism-initial-stage country affects rural market building and the objective requirements to develop socialist market economy. And it analyzes and uses for reference the successful experiences of agricultural marketization in developed countries and opens out the immanent law of China’s rural area market building and the relationships among industrialization, urbanization and rural marketization in China. In addition, it brings forward basic thoughts and approaches to accelerate rural market building in socialist market economy. The author researches on the following important issues encircling the requirement of developing rural socialist market economy, such as how to achieve the system and mechanism of rural market, how to enhance the competitiveness of the agricultural products in the world markets, how to improve the ability to enter and occupy the markets, how to strengthen the government’s macroeconomic regulation on the construction of rural marketization, etc. Finally, the paper puts forward valuable theoretical thoughts and policy suggestions. The paper combines the theory of Marxist political economics, especially its socialist market economy theory with western market economy theory, and with the related disciplines of economics such as development economics, agricultural economics, etc. By using systemic analytic methods of materials dialectics and the comparative methods of correlated disciplines, the paper integrates normative analysis with positive analysis, with an attempt to make the research of rural marketization more systemic, more scientific in the theory and more pertinent, more directive in practice.</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%87%E7%BB%B4%E7%BD%91%EF%BD%9C%E8%BF%91%E6%9C%9F%E7%84%A6%E7%82%B9%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%9A%E5%A3%AB%E5%AD%A6%E5%8E%86%E4%BD%9C%E5%81%87%E8%A2%AB%E6%94%BF%E6%95%8C%E5%8F%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -726,7 +700,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -736,5 +710,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

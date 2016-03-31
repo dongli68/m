@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431624/" target="cdt-mirror">【河蟹档案】高级黑？“基层党员”建议延长习近平任期二十年</a>
@@ -249,7 +249,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B2%E9%87%8F
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%AD%A6%E9%93%89/?category=18271" rel="tag">卢武铉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E3%80%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA%E3%80%8B/?category=18271" rel="tag">电影《辩护人》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD/?category=18271" rel="tag">韩国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">韩国电影</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E4%BA%94%E6%AF%9B%E8%A3%85%E9%80%BC%E9%81%AD%E9%9B%B7%E5%8A%88/" target="cdt-mirror">凌虚铺子：五毛装逼遭雷劈</a>
 </h2>
@@ -663,7 +663,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -673,5 +673,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

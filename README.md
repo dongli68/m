@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,104 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A6%BB%E5%BC%80%E6%96%B0%E5%8D%8E%E7%A4%BE-%E9%9A%90%E8%BA%AB%E6%97%A7%E6%B1%9F%E6%B9%96/" target="cdt-mirror">博客天下 | 六神磊磊：离开新华社 隐身旧江湖</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A.jpg?resize=600%2C400" alt="六神磊磊" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/六神磊磊.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/六神磊磊.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>磊磊说他是金庸小说里胆子最小的寿南山，被官二代格格恐吓过一次，就乖乖地度过了平凡一生。</p></div>
+<p><strong>文| </strong>谢梦遥 <strong>图| </strong>王远凌 <strong>编辑| </strong>汤涌</p>
+<p>六神磊磊11岁那年跌进了那个神奇的江湖，那是在寒假英语补课结束后的傍晚，金庸武侠世界里的人穿着奇装异服，说着文绉绉的话。他们彼此之间打来打去，但又遵守着某些规则，比如说话算数，比如恩怨分明。</p>
+<p><strong>那时候，他还不叫六神磊磊。奶奶叫他“书呆子”，身份证上的名字是王晓磊。他认为，这名字几乎不可能在武侠小说出现，但又表示很庆幸自己不叫王爱国。</strong></p>
+<p><strong>生于1984年的王晓磊后来成为新华社重庆分社记者，同时，他也是微信公号“六神磊磊读金庸”的唯一运营者。</strong>这个号的主要功能，不是学究式研读金庸小说的文本与情节，而是将其作品与社会时事捆绑起来解读。朝鲜的张成泽被处决时，《金庸小说里那些“狗都不如”的二把手》更新，东莞扫黄后，《当余沧海攻入群玉院——金庸江湖里的“扫黄”》发表……</p>
+<p>很多人未必知道王晓磊，但他们喜欢那个在武侠与现实之间流畅跳转的叫六神磊磊的家伙。</p>
+<p><strong>金庸迷</strong></p>
+<p>六神磊磊曾无数次翻读金庸。经典的三联版，金庸晚年的修订版，最原始的报纸连载版——那是由网民整理出来的电子书，每部小说的每一版，他都读过。纯粹因为看得多，他能背出《天龙八部》的回目词。少年时期，像所有偷读武侠的孩子一样，他有一个专门用于被窝里的手电筒；他也有属于自己的独特记忆，附近仓库无人问津的空旷天台是他的秘密花园，放学后为躲开父母，他常在那里读至日暮。</p>
+<p>很早的时候，他就发现了金庸小说里的一些“彩蛋”。<strong>比如名字有“天德”的人都是猥琐之辈（“他想写一个坏人的时候，他就习惯性地就取个天德，也没意识到重复”）；武功最高的几个人不是处男，就是太监；神医的老婆素质都不高……这些有趣的规律，后来都被他写到了公号文章里。</strong></p>
+<p>高考那年他在读，复读那年他在读，升入大学后，江湖对他而言不再仅仅是打打杀杀，他逐渐能看到更多的复杂性。最近一次读就在采访的前一天，为了查证一句话，他翻开《笑傲江湖》就停不下来，一口气读了半个小时。</p>
+<p>回头看来，那本入门读物恰恰给了六神磊磊最糟糕的阅读体验。在英语老师家，他借走了同学的《神雕侠侣》。那是本盗版书，破损严重的黄色封皮上，用白线粗糙地勾勒出杨过与小龙女，后面跟着个巨大而怪异的动物——一只画得走样的雕。</p>
+<p>可能是为了节省成本，书中还大段大段地删节，其中跳过的一段是杨过给陆无双打开衣服接骨——六神磊磊是后来读到才知道的。<strong>“还有一句话叫‘乳酪一样的胸脯’，哇，我居然没看到，这么刺激的内容！”他拍着桌子大喊。</strong></p>
+<p>没错，很多时候，他不会一本正经，这就是六神磊磊。他长着一张圆脸，说话总是微微笑着，自带讽刺效果。饭局里，他的角色是那个努力活跃气氛的人。</p>
+<p>六神磊磊把金庸笔下的侠客做了划分，郭靖、乔峰当然是侠之大者，莫大则是侠之底线，不愿妥协亦不愿对抗，但偶尔竟也拔剑怒目。但他最喜欢的人连侠都谈不上，是范遥，“有点幽默感，有点坏，比较好玩。”</p>
+<p>把他放到武侠世界里，他会是谁呢？他把自己比作寿南山，即便通读过金庸的人也很难忆起的一个角色。寿南山武功低微，胆小怕事，被重伤的张无忌吓唬点中死穴，便照顾其一路，被赵敏欺骗患了见雪即毙的绝症，便迁居岭南终生。</p>
+<p>如果你见证了这个真名为王晓磊的家伙的成长历程，你会了解他为什么如此类比。他上学比别人早两年，相当长的岁月里，是班级中最矮小的人之一。<strong>同学给他起的外号是“哈利波特”、“猴子”，从来与彪悍无关。即使读了那么多部武侠小说，他也从没幻想过当大侠，毫无代入感。</strong></p>
+<p>他第一次卷入江湖非常荒谬，高中时同学们好茬架，成绩优异的他向来不参与，但那一次，朋友拉他同去，并安慰他己方有足够多的人手，好学生只要站着看就行。<strong>他决定参加一回，“成绩好的人不酷，我希望成绩坏的人能接纳我，这是小孩子的一个心思。”</strong></p>
+<p>到了指定的地方，他才发现同伙人并不多。随后可怕的事情就来了，一堆面包车冲了过来，跳出的都是“明显高一头、一看就牛逼很多”的孩子。基于人数与气势的绝对差距，战斗还没开始就已经宣告结束了。六神磊磊傻在当地，有种今天要完蛋的感觉。一个人冲到他前面抓住他，拿了把好像是刀的东西，往他肚子捅下去。</p>
+<p>后来他回忆，那个时刻突然变得很慢很慢，他的脑子过了无数想法，“我就这么窝囊地死在这样一场斗殴里？我爸妈怎么办？爷爷奶奶、外婆怎么办？”他说他想起了《鹿鼎记》里以为被点中死穴的韦小宝。</p>
+<p>“啪”的一声，铁器居然折断了。他从慢镜头中恢复过来，看到身上没有伤口，趁对方愣住的功夫，赶紧跑掉了。当天很冷，他衣服穿得也厚。</p>
+<p>那是王晓磊首次参加实战，也是在同一天，他永久退出。</p>
+<p><strong>国社记者</strong></p>
+<p>“六神磊磊读金庸”是这么启动的：某次漫长的封闭式业务培训期间，王晓磊决定开设微信公号以打发时间，那是2013年底。一开始，他就没打算让人发现自己是谁，所以故意避开常用网名，随便起了个名字。</p>
+<p>他一直小心翼翼地隐藏着职业身份。自然地，他会放出烟雾弹——某些有迹可循但又并不完全准备的信息，让人难以定位。<strong>一篇文章中，他提到大学毕业后的求职经历，“有个公司招一个弄稿子的人”，他抱着大学时写的一摞小说去了，靠着这些书，他得以说服公司他“能弄稿子”。</strong></p>
+<p>这段故事，与采访时他讲述入职新华社的过程几乎一致。我向他求证，他承认，“公司”就是新华社。只是细节略有不同。真实版本中，领导没翻他的书，后来才告诉他，“我看你搬这么一摞来，应该挺勤奋的。”</p>
+<p><strong>新华社是王晓磊迄今为止唯一的工作单位，一待就是近9年。2015年10月，他提出辞职。媒体圈内瞒不住，早先已有一些人知道他的身份。他辞职的事，朋友将其写进新闻，作为新华社记者的六神磊磊才被更大范围的人知晓。</strong></p>
+<p>离开新华社，他完全能养活自己，公号文章动辄上十万阅读人次，偶尔靠着篇末植入的广告，他就可以获得单篇超过当记者年薪的收入。但直至现在，对于他的辞职，母亲还瞒在鼓里。“永远不让她知道。她身体不太好，知道了之后受不了，‘没工作了怎么办？’”</p>
+<p><strong>一些人可能会把王晓磊的辞职解读为对体制的逃离，其实原因并没有那么复杂，公号越来越火，他想有更多的私人时间。</strong></p>
+<p>他对记录自己成长的新华社充满感情。开车载我（《博客天下》记者谢梦遥）在重庆转悠时，他特地给我指认新华社的办公楼。“我现在也没有觉得我是一个没组织的人，社就在那儿。”王晓磊说，“我喜欢在社附近活动，吃啊，玩啊。”同事照常两三周一聚，领导也在。</p>
+<p>当记者时，王晓磊负责政法条线，对基层党员的报道即属于他的常规任务。他本人有着12年党龄。新华社党内生活挺丰富，支部常组织大家讨论新闻业务，或者学习文件。先进性教育活动开展时，王晓磊要提交思想汇报。</p>
+<p>他不喜欢谈论左右，<strong>“以前我就写过，现有的制度是很好的，我们有人民代表大会，我们有宪法，只要能落实就是很好的。”</strong></p>
+<p><strong>成为六神</strong></p>
+<p>仅从文字上看，你很难把六神磊磊和王晓磊当成同一个人。</p>
+<p>在辞职前的最后几个月，王晓磊发表的作品包括《新动力描绘“十三五”新蓝图》、《以热血担当精神为国企改革“开路”》、《以“三严三实”挺起领导干部的精神脊梁》……写作风格规训、严谨。</p>
+<p>用他自己的话说，以前他也想“夹带私货”，结果领导退回的稿件，上面画的全是要求修改的圈圈。他曾在时评里写过这样的句子，“我们仿佛已经可以听见，许多非物质文化遗产一点一滴消失时发出的滴答声”。<strong>老同事不喜欢，他顺从地把修辞去掉，改为“遭遇危机”。随着资历见长，稿件上的圈圈越来越少。</strong></p>
+<p>但网络上的那个六神磊磊，呈现出是鲜活多变的风格。他可以嬉皮笑脸，《金庸、古龙、鲁迅会怎么写“爸爸去哪儿”》、《如果天龙八部有微信朋友圈》此类文章算是纯粹搞笑；他也可以深沉下来，用一种平实、温暖的语调谈论人生与记忆。但获得最多喝彩声的，还是他的时评。金庸小说的角色，仿佛成了他表达立场的临时演员，甚至有时候，他根本不需点明新闻事件，让故事情节自动呈现道理。</p>
+<p><strong>几乎所有文章，终将扣紧一个主题：读金庸。</strong></p>
+<p>六神磊磊具备一种把一切现实放置进金庸小说的能力：乘的士穿过西湖隧道时，他脑子里呈现的是《笑傲江湖》中西湖之下囚禁任我行的地牢；世界杯进行时，他按江湖势力划分各国球队；AK-47的发明者卡拉什尼科夫辞世，他研究起来什么功夫算是武林里的AK-47……</p>
+<p>我问他，如果把纸媒看作一个江湖，新华社属于哪个门派。</p>
+<p>“没想过。”王晓磊说，他陷入了几秒钟的沉默。然后，六神磊磊说话了：“少林派在江湖上这么多年，一直有创新的。七十二绝技不是达摩祖师就带过来了，而是历代高僧一点点创造的。”</p>
+<section><section></section><section><section><section><section><section></section><section></section></section><section><p><strong>“我希望我老东家能做少林派，不要做全真派，这是我的心里话，”他说，“全真派历史上很牛，人也很多。它曾经辉煌过，后来不创新，就垮掉了。”</strong></p>
+</section><section><section></section></section></section></section></section><p>这个表示从来不想当大侠的人承认，因为公号冠以“金庸”之名，在面临某些选择时，也会平添豪迈之气。去年5月新华社同事在贵州采访被一位当地干部抢了相机，他掂量了半天选择写一篇支持，“你连这个都不敢写了，你还读什么金庸，你还聊什么武侠？”</p>
+</section><p>“这不是什么神圣使命，只是不吐不快，不写会很憋。”六神磊磊说。</p>
+<p>心疼他的读者很多，有个追读他公号的官员托朋友劝他：“有的商人没了（微博）还有万贯家产，你没了（公号）怎么养活自己。”</p>
+<p>六神磊磊所长的，是那一手把故事中谈论品牌的功夫，一分钟前讲述了一个杨过和小龙女的凄美故事，一分钟后，一个地产广告也许就突然出现，但并不突兀，喜欢他的人还会哈哈大笑，打赏他一笔钱，顺便转发到自己的朋友圈。很少有人抱怨他发广告，有人从文章开头就开始猜这是什么类别的广告，还有人会先扯到文末看看是什么品牌，再回到开头读下去。</p>
+<p><strong>六神磊磊享受畅游江湖的乐趣，也相信谨慎和运气能让他避开凶险：正如在那个14岁的冬天所遭遇的，当时有个小混混握着刀向他冲来，差点要了他的命。</strong></p>
+<p><strong>今天的他，再也不会像那天一样以身涉险。</strong></p>
+<p><strong>撕裂三观的问答</strong></p>
+<section><strong>博客天下：</strong>可以把权力交给一个或者几个道德能力出色的人，这样效率更高。
+</section><p><strong>六神磊磊：</strong>否</p>
+<p><strong>博客天下：</strong>你相信anglebaby没有整容吗？</p>
+<p><strong>六神磊磊：</strong>答不了，对此一无所知。</p>
+<p><strong>博客天下：</strong>为保障社会公平，对富人征税应采用更高的税率。</p>
+<p><strong>六神磊磊：</strong>问题太简单，税有很多种</p>
+<p><strong>博客天下：</strong>全国高考应该用同一张卷。</p>
+<p><strong>六神磊磊：</strong>否</p>
+<p><strong>博客天下：</strong>是否拿掉孩子，应该是由怀孕的女性自己决定。</p>
+<p><strong>六神磊磊：</strong>在中国吗？是。</p>
+<p><strong>博客天下：</strong>应该全面放开生育，而不仅仅是放开二孩。</p>
+<p><strong>六神磊磊：</strong>是</p>
+<p><strong>博客天下：</strong>中国传统医学具有现代主流医学不能比拟的优势。</p>
+<p><strong>六神磊磊：</strong>否</p>
+<p><strong>博客天下：</strong>即使转基因食物还没有出现风险，也不应该在中国推广。</p>
+<p><strong>六神磊磊：</strong>答不了，对此一无所知。</p>
+<p><strong>博客天下：</strong>是否觉得杨幂长得很美。</p>
+<p><strong>六神磊磊：</strong>姑娘美不美的问题都要扯上价值观，累不累。</p>
+<p><strong>博客天下：</strong>你是否认为《弟子规》是一本好书，应该在孩子当中大力推广。</p>
+<p><strong>六神磊磊：</strong>否</p>
+<p><strong>博客天下：</strong>不应该对楼市和股市进行大规模调控。</p>
+<p><strong>六神磊磊：</strong>我股都不炒，对我来说这是专业问题，没法回答。</p>
+<p><strong>博客天下：</strong>是否支持广电总局把特别烂的影视作品毙掉。</p>
+<p><strong>六神磊磊：</strong>否。</p>
+<p>试想一下，如果规定所有人都必须穿洋气的衣服才能上街，不然就严惩，结果可能不会是大家都变漂亮，而是人人都不敢出门了。因为谁也不能保证自己安全。衣服洋不洋气，他们可以随便说了算。</p>
+<p><strong>博客天下：</strong>微信公众平台是否应该像今日头条和腾讯自媒体那样补贴小的写作者？</p>
+<p><strong>六神磊磊：</strong>否。我不喜欢问题的语气。不该给任何人强加义务。</p>
+<p><strong>博客天下：</strong>最近两个月看了哪几部电影。</p>
+<p><strong>六神磊磊：</strong>很多不全罗列了，比如《晚娘2》《盲山》《云中行走》《怦然心动》《疯狂动物城》《一次别离》。</p>
+<p><strong>相关阅读：</strong></p>
+<p>中国数字时代所发布的六神磊磊<a href="http://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A/" target="_blank">全部文章</a></p>
+<p><a title="六神磊磊读金庸｜请用管我读金庸的劲头来管疫苗" href="http://chinadigitaltimes.net/chinese/2016/03/%E8%AF%B7%E7%94%A8%E7%AE%A1%E6%88%91%E8%AF%BB%E9%87%91%E5%BA%B8%E7%9A%84%E5%8A%B2%E5%A4%B4%E6%9D%A5%E7%AE%A1%E7%96%AB%E8%8B%97/">六神磊磊读金庸：请用管我读金庸的劲头来管疫苗</a></p>
+<p><a title="六神磊磊 | 中学课本照我去战斗" href="http://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A-%E4%B8%AD%E5%AD%A6%E8%AF%BE%E6%9C%AC%E7%85%A7%E6%88%91%E5%8E%BB%E6%88%98%E6%96%97/">六神磊磊 | 中学课本照我去战斗</a></p>
+<p><a title="六神磊磊：帮主要多老 你才念他好" href="http://chinadigitaltimes.net/chinese/2015/09/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B8%AE%E4%B8%BB%E8%A6%81%E5%A4%9A%E8%80%81-%E4%BD%A0%E6%89%8D%E5%BF%B5%E4%BB%96%E5%A5%BD/">六神磊磊：帮主要多老 你才念他好</a></p>
+<p><a title="六神磊磊：忠诚在日月神教是最没用的品质" href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%9C%A8%E6%97%A5%E6%9C%88%E7%A5%9E%E6%95%99%E6%98%AF%E6%9C%80%E6%B2%A1%E7%94%A8%E7%9A%84%E5%93%81%E8%B4%A8/">六神磊磊：忠诚在日月神教是最没用的品质</a></p>
+<p><a title="六神磊磊：雾霾不会讲政治" href="http://chinadigitaltimes.net/chinese/2015/12/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E9%9B%BE%E9%9C%BE%E4%B8%8D%E4%BC%9A%E8%AE%B2%E6%94%BF%E6%B2%BB/">六神磊磊：雾霾不会讲政治</a></p>
+<p><a title="【异闻观止】六神磊磊：社会主义核心价值观是我创作出发点" href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E6%98%AF%E6%88%91/">【异闻观止】六神磊磊：社会主义核心价值观是我创作出发点</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A6%BB%E5%BC%80%E6%96%B0%E5%8D%8E%E7%A4%BE-%E9%9A%90%E8%BA%AB%E6%97%A7%E6%B1%9F%E6%B9%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A/?category=18271" rel="tag">六神磊磊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E4%BE%A0/?category=18271" rel="tag">武侠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%AA%92%E4%BD%93/?category=18271" rel="tag">自媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%BA%B8/?category=18271" rel="tag">金庸</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%89%AC%E5%9B%BD%E5%A8%81%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%8D%B7%E5%85%8B%E8%A1%97%E5%A4%B4%E6%94%BB%E5%87%BB%E7%A4%BA%E5%A8%81%E8%80%85-%E5%BC%BA%E6%8A%A2%E9%9B%AA%E5%B1%B1/" target="cdt-mirror">【扬国威】中国人在捷克街头攻击示威者 强抢雪山狮子旗</a>
 </h2>
 <p><p>可以看出，袭击是通过两人配合完成的。一人抢，一人拦，既扬了国威，又为中国“爱国”人士争了一口气。</p>
@@ -533,34 +628,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/433229/" target="cdt-mirror">贺卫方：答王银川</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%BE%AE%E5%8D%9A.png" rel="attachment wp-att-433252"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%BE%AE%E5%8D%9A.png?resize=575%2C136" alt="贺卫方微博" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/贺卫方微博.png?resize=300%2C71 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/贺卫方微博.png?resize=768%2C181 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/贺卫方微博.png?resize=1024%2C241 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/贺卫方微博.png?w=1578 1578w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>贺卫方在自己原微博被删，团委书记王银川却顺利就此发表檄文后的感叹；微博截图</span></p>
-<blockquote><p><strong>背景阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%AD%A6%E5%AE%B6%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E5%9B%A2%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E4%BE%9B%E5%85%BB/" target="_blank">美国之音｜法学家贺卫方呼吁取消团中央财政供养</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E4%B9%A1%E9%95%87%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%87%B4%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%85%88%E7%94%9F%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC%E5%BC%80%E4%BF%A1-%E5%9B%9E%E5%BA%94/" target="_blank">镇团委书记致贺卫方先生的一封公开信——回应贺卫方四点倡议并十问贺卫方</a></li>
-</ul></blockquote>
-<p><strong>王银川先生：</strong></p>
-<p>昨天你发表的致我的公开信已经读过。我的那篇微薄前天发表，而且很快就被屏蔽，你能够这么快就写出洋洋洒洒八千言的文章与我商榷，可谓小扣引发大鸣。对于你的批评，我非常感谢。一种观点发表出来，总希望得到回应。即便是激烈的批评，也有助于论者反思，发现自己的不足。例如你提供了共青团中央预算的信息线索，让我知道本年度该机构的财政状况（虽然按照民主标准，那样的公布还是太笼统，缺乏细节。我知道日本对于国家机关预算的规定具体到每一顿公务接待开支）。另外，对于团中央的人员编制，包括各个级别干部的数量等，似乎还是很难查考，我很希望你以及其他网友能够帮助把详情加以展示，那毕竟是政府以及公权力机关信息透明的基本要求。</p>
-<p>关于我要求共青团回归到真正的民间地位的呼吁，你引用了《中国共产党章程》里的话，强调它在政治上的重要性，但是请注意，党章以及相关的任何官方文件里都明确地说共青团是“群众组织”。“先进青年的群众组织”也还是群众组织；“受党中央委员会领导”的组织依旧是群众组织——在我国，哪个组织不受中共领导？你引用习近平总书记的话，“群团工作只能加强，不能削弱”、“群团组织应增强自身的政治性、先进性和群众性”，但是他并没有说加强就要要继续靠财政吃饭，甚至更多的财政拨款，强调“政治性”的同时着力点还包括“群众性”。我的理解，群众性表示着更多的回归民间，而不是维持这种准官方性质的可能性。这里完全谈不上你所谓的“与中央的要求背道而驰”的情况。你知道么，社会主义跟国家主义相对立，那是倡导逐渐地把国家权力回归社会的一种学说。</p>
-<p>我说应该感谢你，还因为你在提出对我的十个质问的时候，大量使用了我的相关言论的截屏，其中有些在我的微博上已经被屏蔽了，这在客观上让许多读者能够再次了解我的观点，功莫大焉。当然，关注我微博的读者会知道，其中不少问题我在过去已经做过一些解释。下面，我就按照你提问的顺序，依次做些简要的回答。</p>
-<p>【质问一：关于“杰出民主人士奖”】此奖项是我一个<a href="http://chinadigitaltimes.net/chinese/2010/11/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%9D%B0%E5%87%BA%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB%E5%A5%96%E7%AD%94%E8%B0%A2%E8%BE%9E/" target="_blank">很大荣誉</a>。我能够跟你列举的那些得奖人得到同一个奖项，是我莫大的荣誉。你需要知道，不要以为一时的褒贬就会是历史评价。也许是因为你出生太晚，似乎对于历史很隔膜。我小的时候，刘少奇、邓小平、习仲勋等都是反党分子呢。我由于日程安排上的困难，未能到美国亲自接受这个奖项，不过还是写了书面的答谢辞，请参看：<a href="http://blog.sina.com.cn/s/blog_488663200100njqw.html">http://blog.sina.com.cn/s/blog_488663200100njqw.html</a>。</p>
-<p>【质问二：所谓美国线人问题】你应该学过英文，知道“contacts”的意思并不是“线人”，而只是交往者或联系人。任何一个国家的驻外使馆都可以跟驻在国的公民交往。美国使馆外交官就中国法治建设问题与我交流，包括就两国法律层面上如何开展合作听取我的建议，又有什么奇怪的？再说，一个学者有什么信息可以作为情报？跟外国人士交往就是“线人”，那我们的最高领导人隔三差五地接见外国政要，也算么？再说，如果真有什么不当交流，你以为我们的国安部门是吃素的？</p>
-<p>【质问三：关于政党登记问题】首先要纠正你一个说法，在2006年3月的杏林山庄会议上，我提出这个问题的时候原话并不是说没有登记就是“非法”组织，我说的是因为没有登记，所以它就在法律之外，或者法律之上。我的博客上有这次讲话的全文，你不妨检索阅读。其实你作为一个学习过法律的人，最底限的法理不需要我给你普及：在法治国家里，一个基本的要求是权力以及权利与义务的统一性。假如一个组织行使广泛的权力，却不承担义务，那就是违反了基本的法理。怎样承担义务？最起码的条件就是组织本身具有法人资格。宪法固然在序言里规定了党的领导，但是同时也规定了政党必须在宪法和法律的范围内活动。政党登记正是由革命党向执政党转变的题中应有之意。你还以政府由党设立为阻却登记的理由，但是这个理由不成立。你总不能说华盛顿领导创建了美利坚合众国，华盛顿就可以理所当然地当皇帝。古代还有“逆取顺守”的说法呢。</p>
-<p>【质问四：关于我的话“西方对中国近代以来的欺凌，是中国欺负西方人的结果”】这个就是近代史的实际情况，建议你读一下著名历史学家蒋廷黻的《中国近代史》，其中略谓在鸦片战争 前，西洋人要求平等地位而清廷不给，结果到了战后就反了过来，中国要求平等而西方人拒绝了。其实，当年西方所要求者多在商业贸易上的交往以及现代外交关系的订立，这些方面可以说是平等互利的，但是腐朽而愚蠢的清廷却置国民福祉与国家安全于不顾，拒绝开放，导致兵连祸结、生灵涂炭的战争，国家利益遭受极大损害。我这一代的亲身经历再次表明了这个道理。文革结束后，以邓小平为代表的中国共产党巨大成就之一正是结束闭关，打开国门，改革开放，这才有了今天中国的经济社会的焕然一新。</p>
-<p>【质问五：关于教师节】1985年确立9月10日为教师节，官方有其理由，不过，了解立法学常识的人都知道，任何一个集体决策都可能包含着不同的动机。当一项立法被全国人大常委会或全国人大通过，你无法知道每一个举手或摁表决器者内心的动机是怎样的。这也是法律解释学上所谓原旨主义解释所经常遭遇到的问题。再说了，我在微博上的说法那只是我愿意相信的一种解释，你居然说那是“政治谣言”，这帽子可够吓人的。</p>
-<p>【质问六、七、八、九：这几点涉及到的都是我如何评价社会主义以及某已故领导人】你是否知道，文革期间刘少奇、邓小平等被打倒时的罪名？他们是“党内走资本主义道路的当权派”！文革以及此前的种种运动，阶级斗争、“一大二公”、“一平二调”、“三面红旗”等等，都是那个时代社会主义的显著特征。毛去世后，中国共产党果断地彻底否定了文革，把它定性为“十年浩劫”，并开启了改革开放的新时代。假如按照毛关于社会主义的标准，邓小平的那一套就是货真价实的资本主义复辟，就是否定了此前的社会主义。我要问你：如果关于什么是社会主义，在中共领导人之间都存在如此剧烈的分歧（更不必说其他国家共产党的五花八门的理论和做法），一个普通党员同时是一个学者对于中国未来的道路作出自己的分析，又是多大的罪过？至于说对于毛的评价，你说我“怀着刻骨铭心的仇恨”，其实仇恨谈不上，刻骨铭心的是自己对于文革期间民族灾难的记忆，是绝不容许走回头路的信念。</p>
-<p>【质问十：关于我对于某些要求我退党者的回应】因为上面所理由，我并不认为自己有任何违反党章或纪律的言行，相反，我自认为是一名优秀的共产党人。“<a href="http://chinadigitaltimes.net/chinese/2016/03/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%91%E7%AB%99%E5%88%8A%E6%96%87%EF%BC%9A%E5%8D%83%E4%BA%BA%E4%B9%8B%E8%AF%BA%E8%AF%BA-%E4%B8%8D%E5%A6%82%E4%B8%80%E5%A3%AB/" target="_blank">千人之诺诺，不如一士之谔谔</a>”，国家如此，政党也是这个道理。假如我这样的党员在党内绝迹，那恐怕真是灾难降临的时刻。所以这一条就不需要再多解释了。只需要把我的微博复述一遍：“好奇怪，我批评党就一定要退党？难道党员就要整天奴颜卑膝，山呼万岁？况且中央正倡导党内民主，什么叫党内民主？不就是普通党员拥有批评和监督党中央的权利么？我就不退，你奈我何！”</p>
-<p>末了，我要诚恳地跟你说，人生的路很长，不过关键处也就是几步，好自珍重吧。</p>
-<p>2016年3月29日</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/433229/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">高级五毛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -572,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -582,5 +649,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

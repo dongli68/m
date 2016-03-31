@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,74 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%A2%99%E5%A4%96%E7%8A%AF%E6%88%91%E5%BC%BA%E6%B1%89-%E8%99%BD%E8%BF%9C%E5%BF%85%E8%AF%9B/" target="cdt-mirror">东网｜乔木：墙外犯我强汉 虽远必诛</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=442%2C294" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?w=440 440w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"></p>
+<p>赶在最高领导访美前，由于无界新闻“公开信”引出的一系列事件暂时和缓。此前“失踪”的媒体人贾葭已获释回家，旅美的温云超在广东的父母解禁回家，旅德的长平在四川的兄弟也取保候审。另外铜锣湾书店事件的李波也获释回港，并发表感谢致词。</p>
+<p>很多人不理解，“公开信”一般人并不知道，国内很快已删除了事，何必要大张旗鼓地拿人追查，反而弄得举世皆知。更有人认为这是新一轮控制媒体、打压言论的信号。这显然是误读中国，因为根本就不存在新一轮、又一轮的问题，媒体的状况、言论的空间一直就是这样。</p>
+<p>要说有什么不一样，就是过去只管境内的出版印刷、墙内的网络言论，至于外边则管不着，不让进来就是，但是现在外边也要管。因为所有的言论都是人发出的，所以不管是铜锣湾书店还是公开信事件，最终就是拿人讯问。</p>
+<p>公开信事件在别的国家不算什么，媒体可以有意发表，依法表达对政治和领导的看法。如果是误发或被黑客攻击，加以说明和安全防范。但在中国的国情下，虽然理论上的宪法规定有言论自由，还规定公民有批评国家机关和国家机关工作人员的权利，但现实政治中，公开批评最高领导人，绝对是大事。</p>
+<p>公开信发表的时间，一是正值两会开幕，政治引人关注的时刻；二是全国上下都在要求向核心看齐，明年19大的常委有进有出，面临着新一轮的权力变化的时刻。所以它的出笼，已不是单纯的言论问题，而是政治问题，甚至有意无意卷入权力斗争的舆论领域。</p>
+<p>从它的起草、定稿，到冲破官方网站技术和人员的限制而发布、国内外呼应传播，当局有理由怀疑背后有政治势力的插手。就像历史上和文革时期，仅仅是对最高领导有不同的意见，就会被打成反党集团，株连甚众。</p>
+<p>从公开信的调查来看，北京、广东、四川都在进行，而且辐射海外，这只能是中央一级机构指挥的全国协调行动，而不是某一个地方的抢功冒进。就是铜锣湾书店事件，虽然有广东警方查办，但能在北京的央视专门报道解释，也不是个案那么简单。</p>
+<p>这两个事件要说有多么让人恐惧，也是夸大。墙内的媒体一直存在有效的管理，这类话题从不敢触碰。社交媒体会有隐约的讨论，但随时面临删帖销号的处置。所以有没有这些事，人们都习惯了这种舆论环境，知道该不该说，该怎么说。</p>
+<p>最大的影响，其实是针对墙外的华人。过去说什么、做什么，实力和影响顾忌，一般没事。现在领袖神武、大国崛起，“犯我强汉，虽远必诛”。就算自己不怕，也得为家人想想。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%A2%99%E5%A4%96%E7%8A%AF%E6%88%91%E5%BC%BA%E6%B1%89-%E8%99%BD%E8%BF%9C%E5%BF%85%E8%AF%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%A0%AA%E8%BF%9E/?category=18271" rel="tag">政治株连</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%88%B0%E5%8D%8E%E5%BA%9C-%E8%80%81%E5%A4%96%E6%89%AC%E8%A8%80%E6%8B%A6%E8%BD%A6%E8%AF%B7%E6%84%BF/" target="cdt-mirror">自由亚洲｜习近平到华府 “老外”扬言拦车请愿</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard30_82.jpg?resize=550%2C413" alt="Clipboard30_82" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard30_82.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard30_82.jpg?w=622 622w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>2016年3月30日，“老外”访民韦腾飞与妻子江琴。（何山拍摄）</p>
+<p>中国国家主席习近平北京时间周五（4月1日）凌晨两点，将与美国总统奥巴马在华府碰头，讨论全球的核安全。习近平短暂停留华府两日，20多名在美的大陆访民，已扬言要再拦车“请愿” ，其中包括祖籍上海、现定居美国芝加哥的江琴，与她的美籍丈夫韦腾飞，两人是因其位于上海淮海路附近的两层独栋祖业被强占，至今未收分文赔偿。</p>
+<p>拥有美国绿卡的江琴，与美籍丈夫韦腾飞，长途跋涉自驾车由芝加哥赶抵华盛顿。当下，华府正是一年一度樱花节，国家大草坪樱花处处，但两人并非一般的过客，他们没心观花，第一次到华府，到了旅游热门的渔人码头，亦只作短暂停留与休息。</p>
+<p>记者：江小姐与你丈夫来华盛顿，不是来看房子、不是观光看樱花，目的是甚么？<br>
+江琴：我是想要我自己合法的权利，我的财产被上海政府、长宁区政府抢去。我在上海有一栋私房，被长宁区政府强拆掉，至今没有任何的安置补偿。</p>
+<p>记者问江琴的丈夫，“你是“老外”，为何也要做 “访民”。很罕见，原因为何呢？”</p>
+<p>韦腾飞答：习近平非经常来美国，我们住在美国，上一次习近平来华府，我们都有抗议。我太太去年在上海，希望可以与政府解决这拆迁的问题。没有结果，我们试图以和平的方式解决。上一次，上海警方答应了会安排一个会面，但结果是设了个局，把我太太送到拘留所两星期。太太的手脚被绑起来，不能移动有68小时。他们这样做，超越了我的底线。他们不想用和平的方式解决，要打人，那我奉陪。</p>
+<p>韦腾飞指，拆迁没有和平解决，只有拦车。太太江琴则向记者打比方，“上海政府抢了她的牛，给她一只鸡补偿；她不接受，现在连鸡也没有了。”</p>
+<p>记者：大陆大使馆很紧张，你们有20几人，要拦车队，又说要把诉求给奥巴马，希望奥巴马转达， 你觉得怎样才可以和平落幕呢？</p>
+<p>江琴：我们希望政府派人与我们坐下来谈，现在没有人理我们。我们去上海、北京，当地政府都是玩我们。说先回去，有人会跟你谈；最后没有人，反过来送你坐牢。</p>
+<p>记者则问这名“老外”访民，可否忘记上海的物业，当没有发生过算了，在美国重新生活？ 他就回答，上海祖业对太太一家有意义，不光是产业，92岁的外母亦要生活。那甚么原因使访民群体，出现 “老外”呢？ 是独特、是孤单，还是其它呢？</p>
+<p>韦腾飞说：我娶了一个中国人人，太太的事就成了我的事。我没有选择，她是我的家人，这是一家人的事。是上海政府以欺凌的方式，引起了一个美国人的愤怒，他们去年要我太太坐牢。可以和平落幕，对哪一方都好；不幸的是，上海自称国际都市，说会遵从商业伦理道德，那拆迁祖业有遵从商业道德吗？他们偷了私人的财产，拆了人的房子，说要盖一个休闲中心，然后卖给了地产发展商。收受了几十亿，金钱到了口袋，却说没有钱补偿房子被强拆的人，这是问题呀？</p>
+<p>自上海、北京、中国各地的访民，在华府已聚集了20多人，连日来在中国大使馆外陈情。江琴对本台说，大家的心情是想碰碰运气，看能否截住习近平的车队，亲身递交各人的材料。他们在国内，莫说拦车，去到北京中南海要寄信入大院，有访民就被送入黑监狱。</p>
+<p>资料显示，江琴是在2012年开始进京上访。2014年她由美国返国，要求安置补偿，在北京被以“扰乱社会公共秩序”拘留了7天。出狱后3日，她再到北京要求提取 “没违反国家规定”的信息，再被拘留10天。第二次入狱，狱方用脚镣、手铐将她前后捆绑。 “酷刑”期间她身体大量出血，狱医著她吃保心和止血片，继续捆绑长达68小时。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%88%B0%E5%8D%8E%E5%BA%9C-%E8%80%81%E5%A4%96%E6%89%AC%E8%A8%80%E6%8B%A6%E8%BD%A6%E8%AF%B7%E6%84%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E4%BA%8B%E4%BB%B6%E9%A6%96%E6%AC%A1%E5%81%9A%E5%87%BA%E5%9B%9E/" target="cdt-mirror">法广｜中国外交部就“无界新闻事件”首次做出回应</a>
+</h2>
+<p><p><strong>中央社引述香港商业电台报导，中国外交部今天3月30号首度回应无界新闻事件，指“任何企图破坏中国国家稳定的行为，都不可能得逞”。</strong></p>
+<p>报道说，中国外交部发言人洪磊今天在北京作上述表示。</p>
+<p>不过，中国官方官网上的记者会实录上，并没有见到这段问答的记录。</p>
+<p>据报道， 3月4日深夜，无界新闻网忽然转载一份以普通党员名义要求习近平辞去总书记职务的<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank">公开信</a>，经媒体人贾葭提醒无界传媒执行总裁欧阳洪亮后，很快删除。</p>
+<p>这起事件引起广泛关注，也传出不少人受到波及，被带走调查。记者贾葭在前往香港时在机场<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/" target="_blank">失踪十天后</a>，被释放回家，但他的律师没有对贾葭“失踪”后发生的事情做出进一步的说明。只是表示，贾葭否认是这封信的作者。无界新闻工作人员表示，已经与网站的四名记者失去联系。</p>
+<p>旅居海外的异见人士温云超（笔名北风）和<a href="http://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/" target="_blank">长平</a>（原名张平）都表示，可能因为他们对贾葭失踪一事的评论和转载而让国内的家人受到当局的干扰。他们都断然否认是这封”倒习信”的作者。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E4%BA%8B%E4%BB%B6%E9%A6%96%E6%AC%A1%E5%81%9A%E5%87%BA%E5%9B%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E4%BA%91%E8%B6%85/?category=18271" rel="tag">温云超</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/431624/" target="cdt-mirror">【河蟹档案】高级黑？“基层党员”建议延长习近平任期二十年</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -601,57 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-18/" target="cdt-mirror">【网络民议】这届人民除了选领导选的很好，别的都不行！</a>
-</h2>
-<p><p>以下评论选自新浪微博：</p>
-<p><a title="劳动创造一切2012" href="http://weibo.com/u/2654485304?refer_flag=1001030103_" target="_blank">劳动创造一切2012 </a>：网上流行调侃：领导这么英明+经济这么不好=<span>这届人民不行</span>。</p>
-<p><a href="http://weibo.com/chujiingmoliang" target="_blank">女王爱雪糕</a>：也对，毕竟我只做得来人民，而永远做不成人民币。</p>
-<p><a href="http://weibo.com/1822912060" target="_blank">wan魚子的一些事一些情</a>：<img src="https://s.w.org/images/core/emoji/72x72/1f648.png" alt="</p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D/" target="cdt-mirror">月光博客 | 为什么不要在中国注册域名</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/03/433085/">月光博客 | 工信部新管理意见要求不得解析境外未备案域名</a></p></blockquote>
-<p>我认为，无论是企业还是个人，在做网站的时候，都不要在中国注册域名，因为这里面有巨大的安全风险，如果已经在中国注册了域名，应该尽快将域名转移（transfer）到国外，以避免风险。</p>
-<p><strong>政策性风险</strong></p>
-<p>国内注册域名的最大风险就是政策性风险，你的域名随时可能会因为种种原因而被停用，虽然这个域名是你掏钱购买注册的，但在中国，你注册的域名根本不属于你自己，你的域名随时都处于被‌‌“clientHold（域名暂停解析）‌‌”的状态，可能仅仅因为你网站上的一条留言、一个评论，就会让你的域名被永久封禁。所以，注册域名，必须在美国这样的法治国家注册，你的域名才真正属于你自己。</p>
-<p>而在国外注册域名，除了恶意侵权之外，基本上没有什么政策风险，不会被‌‌“clientHold‌‌”，你的域名属于你自己。</p>
-<p><strong>技术性风险</strong></p>
-<p>在国内注册域名，很多时候，你并没有域名的完全管理的权限，很多本来属于你的权限可能是他们提供的‌‌“功能‌‌”，你要另外花钱买；此外，国内域名的解锁迁移通常很麻烦，域名注册商会设置各种条件（例如：收费、续费一年才给密码、邮寄证明材料等）来提高域名迁移的难度，让域名转移、域名过户变得非常困难。</p>
-<p>而在国外注册域名，注册商通常会给用户拥有域名的完全控制权与转移权，域名转移、域名过户完全可以在线操作，没有任何限制。</p>
-<p><strong>域名管理机构</strong></p>
-<p>从管理机构上看，cn域名属于国家域名，由CNNIC管理，中国互联网络管理中心（China Internet Network Information Center）即CNNIC负责管理，具体注册工作由通过CNNIC认证授权的各代理商执行。com等国际域名由互联网名称与数字地址分配机构（The Internet Corporation for Assigned Names and Numbers）即ICANN负责管理，具体注册工作也是由通过ICANN授权认证的各代理商执行。</p>
-<p>因此，没事不要注册和使用cn域名。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E6%B2%BB%E7%90%86/?category=18271" rel="tag">互联网治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%9F%E5%90%8D/?category=18271" rel="tag">域名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%9F%9F%E5%90%8D/?category=18271" rel="tag">境外域名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E6%B0%93%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">流氓政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%B0%81%E9%94%81/?category=18271" rel="tag">网络封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%A4%E5%BE%B7%E6%98%8E%EF%BC%9A%E8%BF%91%E5%B9%B3%E4%B9%8B%E6%B2%BB/" target="cdt-mirror">苹果日报 | 古德明：近平之治</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-%E4%B8%8A%E5%8D%8811.39.41.png?resize=499%2C286" alt="Screen Shot 2016-03-29 at 上午11.39.41" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-上午11.39.41.png?resize=300%2C172 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-29-at-上午11.39.41.png?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></p>
-<p>中共一年一度人大政协京剧落幕，全剧最瞩目的，是演老生的习近平和唱末脚的李克强同坐，却视之如无物。李克强念政府工作报告，场上响起四十五次掌声，习近平却手掌都不动一下。他的前任胡锦涛，待其副贰温家宝念白之后，会趋前握手；习近平则不但懒得给李克强这点面子，甚至话都不跟他说一句。</p>
-<p>而李克强名义上固然是总理，实际上已沦为伴食宰相，连经济决策权都给习近平夺去。同时，习近平大举起用旧交、旧部，例如王岐山文革期间曾和他同床共被，现在做了中共纪律检查委员会书记，随时可用“贪污”罪名翦除异己；习近平同乡赵乐际、同学陈希，则一个做了中央组织部长，一个做了常务副部长，党内黜陟保证非亲不用；他的旧部更纷纷加官晋爵：宋涛升任中央对外联络部长，陈敏尔升任贵州省书记，巴音朝鲁升任吉林省书记，刘赐贵升任海南省长，应勇升任上海市副书记等等。</p>
-<p>旧中国君主为政之道，有与习近平迥不相同者。唐太宗用人唯才，其旧部所得官职，往往不如从前和他对敌的东宫、齐府旧人，于是相对嗟怨说：“吾属（我们）奉事左右，几何（若干）年矣。今除官（所获官职），反出前宫，齐府人之后！”太宗正告他们说：“王者至公无私，故能服天下之心。朕与卿辈，日所衣食，皆取诸民者也，故设官分职，以为民也，当择贤才而用之，岂以新旧为先后哉！（《资治通鉴》卷一九二）”所以太宗贞观之治，震古烁今。</p>
-<p>又《次柳氏旧闻》载：唐玄宗即位，“体貌（待之以礼）大臣，宾礼故老，尤注意于（宰相）姚崇、宋璟，引见便殿（正殿以外的宫殿），皆为之兴（会起立相迎），去则临轩以送（一直送到殿前）。”玄宗不会视宰相为无物，所以开元之治几乎媲美贞观。</p>
-<p>当然，对习近平来说，传播界要姓党，军队要姓党，全国一切都姓党。而他身为党“核心”，姓党等于姓习。然则他怎会像唐太宗那样，说什么“朕与卿辈，日所衣食，皆取诸民”，施政更怎会“以为民也”。中共常说的，是“我们令全国十三亿人民得到温饱”；习近平对党员说的，是“假如我们的党弱了散了垮了，其他政绩还有什么意义？”他努力揽权自重，务求做毛二世，以天下奉一人一党，就是这个道理。人大主席台上，习近平连斟茶都有专人服侍，其他政治局委员则没有，于此可见其余。</p>
-<p>旧中国没有民主，君权不受制度束缚，以致历代治乱相寻。但是，从前的君主，多少都受儒学熏陶，多少会讲讲道理。今天，中国变成中共之国，亘六十六年，却连一年半载太平盛世都没有，有的只是大跃进、文革、六四以及六四之后无日无之的民变，每年所谓维稳费动辄以千亿元计。我不是说旧中国好，但看见习近平所作所为，不禁又“忆昔开元全盛日”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E5%8F%A4%E5%BE%B7%E6%98%8E%EF%BC%9A%E8%BF%91%E5%B9%B3%E4%B9%8B%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%86%85%E6%96%97/?category=18271" rel="tag">习李内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%88%86%E8%A3%82/?category=18271" rel="tag">习李分裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -663,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -673,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

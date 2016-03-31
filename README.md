@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%89%AC%E5%9B%BD%E5%A8%81%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%8D%B7%E5%85%8B%E8%A1%97%E5%A4%B4%E6%94%BB%E5%87%BB%E7%A4%BA%E5%A8%81%E8%80%85-%E5%BC%BA%E6%8A%A2%E9%9B%AA%E5%B1%B1/" target="cdt-mirror">【扬国威】中国人在捷克街头攻击示威者 强抢雪山狮子旗</a>
+</h2>
+<p><p>可以看出，袭击是通过两人配合完成的。一人抢，一人拦，既扬了国威，又为中国“爱国”人士争了一口气。</p>
+<p>（图片来源：Twitter<a href="https://twitter.com/JigmeUgen" target="_blank">@JigmeUgen</a>）</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg" rel="attachment wp-att-433499"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=575%2C575" alt="CezZ84CWsAIvY_w" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>更多当地示威图片，来自<a href="https://twitter.com/JigmeUgen" target="_blank">@JigmeUgen</a>：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg" rel="attachment wp-att-433529"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?resize=575%2C378" alt="CevsrZuW8AAznfM.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?resize=300%2C197 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?resize=768%2C506 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg" rel="attachment wp-att-433533"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg?resize=540%2C405" alt="Cexzy2qWAAQ8uSd" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg?w=600 600w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg" rel="attachment wp-att-433532"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg?resize=540%2C405" alt="CexzzA8W8AA_ED1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg?w=600 600w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg" rel="attachment wp-att-433527"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg?resize=540%2C304" alt="Cevn58hXIAAI7du" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg?w=600 600w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg" rel="attachment wp-att-433531"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=475%2C475" alt="CewFGs0WsAAjtFp" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?w=600 600w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg" rel="attachment wp-att-433530"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=475%2C475" alt="CewFGs5WwAACB1J" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?w=600 600w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p>习到访当日，捷克反对党在国会大楼外也挂起了雪山狮子旗：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg" rel="attachment wp-att-433525"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg?resize=545%2C307" alt="CeuL13cXEAAaKC9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg?w=600 600w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"></a></p>
+<p>布拉格城堡一景：<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg" rel="attachment wp-att-433534"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg?resize=475%2C356" alt="CexuwAUVIAAI6RP" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg?w=600 600w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%89%AC%E5%9B%BD%E5%A8%81%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%8D%B7%E5%85%8B%E8%A1%97%E5%A4%B4%E6%94%BB%E5%87%BB%E7%A4%BA%E5%A8%81%E8%80%85-%E5%BC%BA%E6%8A%A2%E9%9B%AA%E5%B1%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">西藏独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%AA%E5%B1%B1%E7%8B%AE%E5%AD%90%E6%97%97/?category=18271" rel="tag">雪山狮子旗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E4%BC%AF%E4%BC%AF-%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E4%B8%8D%E5%90%AC%E8%AF%9D%E7%9A%84%E7%BD%91%E7%BA%A2%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%95%86%E4%B8%9A%E4%BB%B7%E6%A0%BC/" target="cdt-mirror">王伯伯 | 王五四：不听话的网红没有任何商业价格</a>
 </h2>
 <p><p>这段时间大家都在讨论网红，真正的网红是靠才华取胜的，他们也得到了资本市场的青睐，有不少才华型的网红前段时间都顺利从投资人那融到了钱，不用说你们也知道是在讲我，都说是资本寒冬不好融钱，其实只是你不够努力。要想融到钱并不难，我分享一下自己的经验，首先你要有真本事，掌握一门实操技能，其次要一下子约三个投资人聊，最后约的地点一定要讲究，2016年投资人最关心的领域是体育产业和人工智能，棋类运动是体育产业的重要一环，而当下最炙手可热的人工智能则是大战世界棋王的阿尔法狗，所以要约在棋牌室，到底能从投资人那拿多少钱，就看你的牌技和运气了。</p>
@@ -544,58 +561,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%97%A0%E7%95%8C%E6%B2%89%E8%88%B9-%E4%B8%80%E4%B8%AA%E6%96%B0%E5%AA%92%E4%BD%93%E7%9A%84%E7%94%9F%E4%B8%8E%E6%AD%BB/" target="cdt-mirror">端传媒 | 无界“沉船” 一个新媒体的生与死</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bdccc1651335423588f6a124e33a40fb.jpg?resize=600%2C400" alt="刚刚诞生半年的无界传媒，因为页面上突然出现一封涉及习近平的公开信，面临折戟。端传媒摄影部/设计图片" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bdccc1651335423588f6a124e33a40fb.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bdccc1651335423588f6a124e33a40fb.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bdccc1651335423588f6a124e33a40fb.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/bdccc1651335423588f6a124e33a40fb.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>刚刚诞生半年的无界传媒，因为页面上突然出现一封涉及习近平的公开信，面临折戟。端传媒摄影部/设计图片</p></div>
-<p>最近10天， 大陆“无界传媒”的记者们一直被“失踪”与“解散”的阴影困扰。</p>
-<p>“无界的员工们都听说，无界传媒资产被清算，公司随时准备破产，很多人已经开始找工作。但管理层失踪了，公司还没有安排正式解约，现在就耗着。”一位知情者告诉端传媒。在外界看来，这无疑已经宣判了这家新媒体的倒掉。</p>
-<p>更令员工们惊恐的是，许多同事失联了。接近无界传媒的多个知情者告诉端传媒，截至发稿时，无界内部，陆续确认的失联者已有包括新闻部与技术部员工在内的15人。</p>
-<p>此时，距离2015年9月16日无界传媒正式上线，不过半年时间。</p>
-<p>公开信事件压垮无界？</p>
-<p>这半年里，无界曾几次成为中国媒体圈的新闻主角。最近一次是在3月4日，两会开幕的当天凌晨，一篇要求中国最高领导人习近平辞职的公开信突然出现在无界网站的“一带一路”频道，署名是“忠诚的共产党员”。无界发现后随即删去公开信，有传言称，网站是遭到黑客攻击，但无界并未有官方解释。</p>
-<p>3月15日，知名媒体人贾葭传闻因被牵连进“公开信”被警方带走，意外引起了海内外各界对无界事件的关注。3月25日，失踪10天的贾葭以“半自由”的状态重新回到人们视野，而此时才陆续有消息传出，在贾葭被控制的同时，无界执行总裁欧阳洪亮、执行主编黄志杰以及多名无界员工也已多日处于“失联”状态。</p>
-<p>无界由《财经》杂志母公司财讯集团、阿里巴巴和新疆维吾尔自治区三方联合注资上亿元成立，一直被视作为“一带一路”铺路的党媒。</p>
-<p>3月12日，在公开信事件一周之后，无界调查版的所有报道被删除。14日，记者接到通知：暂停一切工作，学习中央领导的讲话精神。无界网站再未发表任何原创内容，只转发新华网、人民网等官媒报道。不久后，一些记者接到领导层电话，被要求主动辞职。</p>
-<p>3月23日，知名媒体人、欧阳洪亮的朋友罗昌平在微信公众号发文《关于阿里传媒帝国，今天八方耳听到的笑话》。文章写道，“在其（阿里巴巴）提出（无界）清盘建议之时，一分钱都未到位，而距离其承诺投资和签署合同已近一年。”</p>
-<p>一名无界员工确认了罗昌平的说法，并对阿里巴巴在危难时刻割袍止损的行为表示愤慨。但也有内部声音表示，罗昌平并不真正知情，文章存在不少谬误。</p>
-<p>无论如何，这篇文章是大陆公共舆论中少的可怜的试图触碰无界事件的信息。更多的知情者只是在社交网络的小圈子中，用隐语表达唏嘘：失联了的欧阳洪亮在无界上线当天发表的《靶心在哪里》在媒体人中流转；有无界记者晒出年会上的合照，写道：“我想我永不会忘记这段时光”；有人晒公司元旦送给员工的费列罗巧克力，巧克力盒上的卡片写著：“你是无界今天的种子，也是无界未来的参天大树”。</p>
-<p>“无界要在新媒体里成为一个标杆”</p>
-<p>“如果无界做砸了怎么办？”去年6月，媒体记者曾经这样问欧阳洪亮。</p>
-<p>他回答得有些犹豫：“这个，这方面，如果做砸了，我肯定是会比较有压力的。”</p>
-<p>当时距离无界上线还有几个月时间，从筹备时期开始，它一直不被媒体圈看好。</p>
-<p>2014年起，市场大幅度萎缩的中国传统媒体在政策和资本的助力下纷纷转战移动新闻客户端。此前在传统媒体中并没有机会赢得话语权的力量也在这时纷纷冒出水面，希望在新媒体战场中重新拼搏一把。</p>
-<p>“新疆想在北京做一个新媒体。新疆一直存在一个痛点，没有话语权。”这是当时欧阳洪亮解释无界的背景之一。在决定接手之前，他自己也曾犹豫过：“办得好也就是《新疆日报》或《天山晚报》么。”<br>
-“混血”新疆、阿里巴巴和财讯集团的无界被一些媒体人视为“怪胎”。据无界员工透露，无界在最初招人时打著财讯集团的招牌，由阿里巴巴出钱，新疆做政治担保，员工合同是与财讯集团签的。但在去年11月，无界员工全部重新签约，这一次，甲方变成了新疆无界。</p>
-<p>“我们也清楚，媒体必须有政治庇护。”这位员工说。</p>
-<p>“（新疆）挺有诚意的。”欧阳洪亮最终决定接手主持无界。生于1979年的他已做了十多年一线记者，先后转战《潇湘晨报》、《新京报》和《财经》，发表过轰动一时的调查报导《央视大火“烧出”工程腐败》、《器官何来》。</p>
-<p>对还想做新闻的欧阳洪亮来说，无界是一个机遇，他对它寄予厚望：“无界肯定是一个抱著新闻理想主义的媒体，媒体要守阵出奇，要守住精品内容的生产。无界要在新媒体里成为一个标杆，成为新闻伦理、媒体价值的制定者。”</p>
-<p>于是，无界吸引了一批来自优质传统媒体的老记者。一名无界记者说，无界吸引他的是两个因素──优厚薪水，和对新闻选题和记者的写作给予的空间。他透露，无界采用底薪加稿费的薪资系统，经验丰富的资深记者能拿到一年20万人民币的底薪；在选题报导上，“尺度”虽然比不上胡舒立主持的《财新》，也远比上海的新媒体《澎湃》宽松。</p>
-<p>对仍然想在新闻领域有所作为的人来说，上述两个因素已足够诱惑。在一众新生的新闻客户端中，像无界这样，拉出“调查报导”旗帜的并不多，也因此，不少在中国调查报导圈中打拼多年的老记者又在无界“会师”了。</p>
-<p><strong>“我们不差钱”</strong></p>
-<p>“会师”并不算成功。</p>
-<p>无界上线初期，媒体圈内的批评纷至沓来：界面难看、新闻粗糙、观点老旧、太爱为“一带一路”背书……但作为一个新媒体，无界有试错的机会，亦有翻盘的机会。</p>
-<p>2015年11月5日，无界发表重磅调查《卓达新材百亿融资术：30％高息吸引40万人》，揭露河北著名民营企业卓达集团非法集资。</p>
-<p>11月10日，六十多名河北籍民工和不明身份人士占领了无界位于北京泛利大厦的办公室，长达12小时。卓达随后通过微信渠道回应：“得知无界新闻恶意诽谤卓达集团的消息后，部分在卓达干活的民工到无界新闻位于北京的办公地点讨要说法。”</p>
-<p>这是中国媒体窘境的真实写照。因为一篇调查报导，遭到围攻占领，媒体自己反而成为新闻中的主角。</p>
-<p>一名无界记者表示，卓达非法集资的事情殃及几十万散户，官方出于维稳的考虑选择“睁一只眼闭一只眼”。“但这件事让无界出名了。”该名记者说。</p>
-<p>在调查报导领域，渐渐地，无界的优势开始显现，一些受欢迎报道的阅读量已上千万。</p>
-<p>2016年1月1日，无界发表新年献词──《新闻转场，种子深埋才有生机》。无界的初创团队里，有很多人都曾离开新闻领域顺利“转型”，但无界再次将他们“召回”。“我们这群人选择了逆势而行，不仅仅怀著不甘心的悲壮，更有基于对传媒大势研判而生的希望。”尽管“转场”初期磕磕绊绊，但无界的媒体人依然对未来怀抱期待。</p>
-<p>他们也记得欧阳洪亮在年会上说的话：“我们不差钱。”</p>
-<p>无界员工透露，无界已与国内一家互联网企业确认了新一轮融资意向。就在解散消息传出前的一个月，无界新闻乌尔都语移动客户端在巴基斯坦首都伊斯兰堡举行了上线仪式。他们野心勃勃，计划在“一带一路”沿线的中亚、南亚、西亚等地建立多语种客户端平台。</p>
-<p>公开信事件之后的第一次选题会，记者们仍在认真讨论选题。他们没想到，那会是最后一次选题会。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/321454b208874a48b801fd013d0f60ed.jpg?resize=700%2C467" alt="东方之星沉船事故报导《大船》宣传海报。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/321454b208874a48b801fd013d0f60ed.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/321454b208874a48b801fd013d0f60ed.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/321454b208874a48b801fd013d0f60ed.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/321454b208874a48b801fd013d0f60ed.jpg?w=1080 1080w" sizes="(max-width: 700px) 100vw, 700px" data-recalc-dims="1"><p>东方之星沉船事故报导《大船》宣传海报。</p></div>
-<p><strong>洪流之中，不能自己</strong></p>
-<p>2015年6月，尚未正式上线的无界做了一个H5作品《大船》，用手绘动画的形式祭奠在“东方之星”沉船事件中逝去的442条生命。《大船》经微信公号“无界号外”推送，点击量超过500万。</p>
-<p>“不好”，欧阳洪亮在手机上打开《大船》，“做得很精致，但用户体验不好，要一直不停往上拨。”他希望以后能做更多H5产品，要做得轻盈，符合移动互联网用户习惯。</p>
-<p>但无界已经没有这个机会了。过去一周，不少无界记者在朋友圈里再次分享了《大船》。这一切看起来像个隐喻。15个失联的人还没有回家，不少记者说，离开后，再也不会做这行。一位记者说：“你永远不能承认的是，再大的船在洪流中也不能自已。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%97%A0%E7%95%8C%E6%B2%89%E8%88%B9-%E4%B8%80%E4%B8%AA%E6%96%B0%E5%AA%92%E4%BD%93%E7%9A%84%E7%94%9F%E4%B8%8E%E6%AD%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -617,5 +582,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

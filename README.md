@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E4%BC%AF%E4%BC%AF-%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E4%B8%8D%E5%90%AC%E8%AF%9D%E7%9A%84%E7%BD%91%E7%BA%A2%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%95%86%E4%B8%9A%E4%BB%B7%E6%A0%BC/" target="cdt-mirror">王伯伯 | 王五四：不听话的网红没有任何商业价格</a>
+</h2>
+<p><p>这段时间大家都在讨论网红，真正的网红是靠才华取胜的，他们也得到了资本市场的青睐，有不少才华型的网红前段时间都顺利从投资人那融到了钱，不用说你们也知道是在讲我，都说是资本寒冬不好融钱，其实只是你不够努力。要想融到钱并不难，我分享一下自己的经验，首先你要有真本事，掌握一门实操技能，其次要一下子约三个投资人聊，最后约的地点一定要讲究，2016年投资人最关心的领域是体育产业和人工智能，棋类运动是体育产业的重要一环，而当下最炙手可热的人工智能则是大战世界棋王的阿尔法狗，所以要约在棋牌室，到底能从投资人那拿多少钱，就看你的牌技和运气了。</p>
+<p>如果说才华型网红是核心网红，那么还有一种网红是外围网红，基本由外围女组成，当然也可能有良家。外围网红基本都是些漂亮姑娘，由于很多外围女都是同一家医院生产的，所以她们漂亮得基本差不多，一样的欧式眼睛、一样的小尖下巴、一样饱满的苹果肌、一样向上翻起的嘴唇、一样鼓鼓的胸脯。外围网红基本上是一种只能靠整容加PS活着的生物，先天条件稍差的靠PS照片线上卖卖衣服赚钱，先天条件好点的可以靠线下脱脱衣服赚钱，才华型网红不是随随便便就能成功的，外围网红基本上一随便就成功了。以前老有女性会跟我抗议，你凭什么看不起人家，其实我不是看不起她们，她们整容也好，睡男人赚钱也好，都是她们的自由，只是别老装出一副盛气凌人高高在上的样子，那感觉就像白骨精画了一副美人皮，俺老孙总想一棒子敲下去。</p>
+<p>在社交平台上，只要你有大量的粉丝，基本上就可以称为网红，如果你又具备变现能力，那么在投资人眼里你就是有商业价值的网红，不过我喜欢称之为商业价格。网红是分层的，粉丝也是分层的，卖劣质面膜的，卖假冒化妆品的，卖粗制滥造服装的，卖弄风骚的，她们的变现能力极强，写到这你应该能感觉到，我嫉妒了，是的，作为一个经常被封号的网红，我现在都快被憋紫了，也没找到一个变现途径，有个投资人朋友跟我说，啪啪酱的公号值一个亿，你的微信公号一文不值，文章总被删，传播断裂无序，公号总被封，粉丝无法沉淀聚集。说得我都差点真把自己当成网红了，我明明是互联网企业家好嘛，十年运营经验，大型互联网公司千锤百炼，创业项目去年拿了知名机构的天使，现在Pre-A阶段多家机构暗送秋波，我现在每天都跟打了鸡血又喝了碗心灵鸡汤一样有活力，像背会了基本法又背会了社会主义核心价值观一样充满正能量。</p>
+<p>不听话的网红是没有商业价格的，还会给自己招惹麻烦。民国网红兼报界大亨史量才就是一个不听话的人，抗日期间他不顾国民党宣传部门的禁令，在《申报》上刊登了宋庆龄的政治主张和批评蒋介石的言论，蒋介石阅后大怒，但没有下令封号删帖，只是批上6个红字，申报禁止邮寄。后来蒋介石接见了史量才，蒋委员长说：“我有100万军队……”，网红史量才说：“我有100万粉丝……”。后来，1934年，史量才在与爱人沈秋水由杭州回上海的途中，被特务暗杀。</p>
+<p>不听话的网红史量才在外人眼里并非没有价值，当年袁世凯想要当皇帝，需要舆论的配合，于是就调拨了十五万大洋想收买史量才，史量才以“报章职责高于天，但以良心立论，不受津贴。”为由拒绝，他还起草了“申报馆经理部主笔房同人启”的《本馆启事》，向社会大众公开了行贿事件：“有人携款15万，来沪运动报界，主张变更国体者。按本馆同人，自民国二年十月二十日接手后，以至今日，所有股东，除营业盈余外，所有馆中办事人及主笔等，除薪水分红外，从未受过他种机关或个人分文津贴及分文运动。”，想当皇帝的袁世凯是悲催的，这已经是他第二次在报界吃亏了，还有一次就是著名的只给袁世凯一个人看的假《顺天时报》事件，袁世凯常看《顺天时报》，于是他的儿子就伪造了一份《顺天时报》，天天刊登拥护称赞帝制的文章，袁大头被蒙在鼓里最后成了冤大头。《洪宪纪事诗》有曰，“群言举世已滔滔，假印刊章孰捉刀？”。</p>
+<p>网红史量才最后的命运早已注定，作为一名网红，一名新闻工作者，他没搞清楚传播社会正能量的重要性，他不仅关注社会热点阴暗面，还说什么“言论自由，不偏不倚，为民喉舌”，他常对《申报》的工作人员强调：“报纸是民众的喉舌，除了特别势力的压迫以外，总要为人民说些话，才站得住脚。”，报纸怎么能是民众的喉舌呢？必须是党的喉舌，党媒姓党。</p>
+<p>史量才活着的时候爱给人惹麻烦，身后多年也要给社会添乱，今天在朋友圈传的沸沸扬扬的西湖边“秋水山庄”变色事件就是因他而起。秋水山庄是史量才为了讨二老婆沈秋水的欢心，参照《红楼梦》里的怡红院建造的。当年沈秋水也是上海滩的一位网红，容貌俊俏，琴棋书画样样精通，后被一位皇室贝勒赎身入京，贝勒死后她带着遗产回到上海，没地方住就去了朋友家，朋友带她出去吃饭时，她从京城带回的全部家当就交由在座的一个朋友看管，二人深夜才回，却发现那位朋友还坐在那里守着沈秋水的财物，他便是史量才。关于秋水山庄外门的颜色，有人说原本就是黄色，也有人说应该跟周围建筑一样用青色，其实秋水山庄该刷什么颜色已经不重要了，我觉得重要的问题是秋水山庄作为一处私人房产，它不应该是属于史量才和沈秋水的后人的吗？如果史量才还活着，遇此事他还会说，“如果畏缩退避，恐仍未能保得身家财产，不如一起奋勇向前，抗战救国。”吗？</p>
+<p>我认为，网红界不能只有关注娱乐八卦的网红，还要有像史量才那样关注社会政治的网红，别怕，让你关注的是国外时政，很安全，比如说朝鲜，朝鲜《劳动新闻》28日刊登题为《朝鲜最强的力量》的政论称：“革命的道路漫长且险峻。我们可能要再次进行一次吃草根的‘苦难的行军’。”，看吧，朝鲜人民都要吃草根了，而你们却还在抱怨吃地沟油，还在抱怨“饿了么”的黑快餐，不过分吗？“饿了么”在3.15被曝光后做出了一系例危机公关举动，前几天他们发文称“315过去的两周里，饿了么消灭了21305家线上违规餐厅”，这个标题取得挺不好，首先，315应该是3.15，其次你们取这样的标题，它是在告诉“饿了么”的用户另外一个信息：在3.15之前的岁月里，你们至少吃了21305家违规餐厅的黑外卖。</p>
+<p>看到这很多人会问，又是地沟油又是黑外卖，都信不过都不靠谱，我们的一日三餐和家人健康该怎么办？其实很简单，在家做饭吃，当然你会说下班回家太晚买菜太不方便，没关系，我创业的项目“花样菜场”就是帮你解决买菜难题的，你线上下单，我线下配送，所有菜品均来自你身边的农贸市场，方便快捷，目前仅限杭州地区，拿了下轮钱我们会继续扩张到其他城市。使用方法，搜索微信公众号“花样菜场”即可。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E4%BC%AF%E4%BC%AF-%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E4%B8%8D%E5%90%AC%E8%AF%9D%E7%9A%84%E7%BD%91%E7%BA%A2%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%95%86%E4%B8%9A%E4%BB%B7%E6%A0%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B2%E9%87%8F%E6%89%8D/?category=18271" rel="tag">史量才</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E5%9B%BD%E6%95%85%E4%BA%8B/?category=18271" rel="tag">民国故事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E4%BB%8B%E7%9F%B3/?category=18271" rel="tag">蒋介石</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/cdtv-%E4%B8%80%E9%83%A8%E6%94%B9%E5%8F%98%E5%9B%BD%E5%AE%B6%E7%9A%84%E7%94%B5%E5%BD%B1-%EF%BC%9A%E3%80%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA%E3%80%8B/" target="cdt-mirror">【CDTV】一部“改变国家的电影” ：《辩护人》</a>
+</h2>
+<p><p>1980年韩国发生爆发广州后，全斗焕独裁政府以整肃“赤色分子”（共产主义分子）为借口大肆抓捕社会活动家。1981年9月，釜山警方未出示逮捕令，非法拘禁釜山读书联合会的22名成员，罪名是传阅有害书籍、组织非法集会和违反《国家保安法》等。当时还是一名税务律师的卢武铉（后为韩国第十六任总统）为学生们担任辩护律师，尽管证据显示学生们是在刑讯逼供的情况下认罪和检方及公安伪造证据，法庭仍判处22名被告中19人1到7年不等的有期徒刑。这一事件也成了卢武铉人生的转折点，他由税务律师转而开始从事政治运动。（来源：维基百科 <a href="https://zh.wikipedia.org/wiki/%E9%87%9C%E6%9E%97%E4%BA%8B%E4%BB%B6">釜林事件</a>）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-30-at-%E4%B8%8B%E5%8D%883.44.09.png?resize=545%2C366" alt="Screen Shot 2016-03-30 at 下午3.44.09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-30-at-下午3.44.09.png?resize=300%2C201 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-30-at-下午3.44.09.png?w=545 545w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"><br><span>电影《辩护人》剧照</span></p>
+<p>韩国电影《<b>辩护人</b>》（<span><span lang="en" xml:lang="en"><i>The Attorney</i></span></span>）讲述的故事就以釜林事件为背景：1978年，只有高中学历的宋佑硕（宋康昊 饰）通过多年的艰苦努力，终于通过司法考试，并在成为法官后很快转行成为一名律师。他敏锐地从最新政策中嗅到商机，以不动产代书业务起家。虽然被同行讥讽为随时随地派发名片的夜店小弟，但佑硕不以为忤，一步一步朝着心中的目标迈进。他依靠赚来的钱让妻儿过上富足的生活，也还了七年前在饭店大婶那里欠下的良心债。进入20世纪80年代，韩国民主化斗争愈演愈烈。佑硕全然不管窗外事，关起门来继续赚钱。然而社会的巨变已经不容他置身事外，饭店大婶的儿子朴镇宇因从属的釜山读书联合会被控为左翼社团而遭到逮捕，更受到残酷的虐待和不公的指控。 虽然爱钱却更重感情的佑硕，就这样走上了为民主辩护的道路。（来源：豆瓣电影 <a href="https://movie.douban.com/subject/21937445/">《辩护人》</a>）</p>
+<p>《辩护人》于2013年上映后，在韩国引发观影狂潮，成为当年票房亚军。影片最终留下了一个充满希望的结局：当宋佑硕被看作叛国者逮捕后，釜山的144名律师有99名挺身而出，为他辩护。而釜山地方法院也在2014年2月13日对“釜林事件”进行了改判，判决当年的5名被告人无罪，而此时，距离一审判决已经时隔33年。这部电影在中国互联网上催生了一句有意思的评论：“我们有改变电影的国家，他们有改变国家的电影。”（来源：南都周刊 <a href="http://www.nbweekly.com/culture/arts/201404/36359.aspx">《他们有改变国家的电影》</a>）</p>
+<p>CDTV向您推荐《辩护人》，<a href="http://www.bilibili.com/video/av1864858/">请点击这里</a>观看。同时我们已把《辩护人》保存在了CDTV的BTSync”电影”收藏夹中，如果原视频被删除, <strong><span><a href="https://link.getsync.com/#f=CDTV-movie&sz=56E8&t=2&s=RCHZFABDZB3CHHMKIKKV3QAXIVITGGCQEQKMOTMMXX324IVXGZBA&i=CIT7FJ5IYL7EIL5XZRYVBIKZNX42GLCX7&v=2.0">请点击这里使用BitTorrent Sync (Sync)</a></span></strong>下载观看。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/cdtv-%E4%B8%80%E9%83%A8%E6%94%B9%E5%8F%98%E5%9B%BD%E5%AE%B6%E7%9A%84%E7%94%B5%E5%BD%B1-%EF%BC%9A%E3%80%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%AD%A6%E9%93%89/?category=18271" rel="tag">卢武铉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E3%80%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA%E3%80%8B/?category=18271" rel="tag">电影《辩护人》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD/?category=18271" rel="tag">韩国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">韩国电影</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E4%BA%94%E6%AF%9B%E8%A3%85%E9%80%BC%E9%81%AD%E9%9B%B7%E5%8A%88/" target="cdt-mirror">凌虚铺子：五毛装逼遭雷劈</a>
 </h2>
 <p><p>中国数字时代编辑注：<a href="http://weibo.com/lingxupuzi?is_hot=1">@凌虚铺子</a>原微博已被删除，本文链接来自谷歌缓存。</p>
@@ -61,7 +95,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA/?category=18271" rel="tag">凯迪社区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">贺卫方挑战团中央</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平｜我的声明：自由没有交易</a>
 </h2>
@@ -562,48 +596,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91-%E8%8B%8F%E6%98%9F%E6%B2%B3%EF%BC%9A%E4%BB%8E%E4%B8%93%E5%88%B6%E5%88%B0%E5%8C%AA%E5%B8%AE/" target="cdt-mirror">东网 | 苏星河：从专制到匪帮</a>
-</h2>
-<p><p>新余三公民案6月19日宣判，刘萍和魏忠平被判有期徒刑六年半，李思华被判有期徒刑三年。关于此案，从来没有过的“法治”不值得再过多讨论，有关方面给刘萍的女儿廖敏月带的话可是赤裸裸的威胁：“牢房已经为你准备好了”。看来，它们对审判的缺乏正义心知肚明，也早已预料到了宣判后的民间反应。与往常一样，它们会加紧对抗争者家人的维稳控制，并在必要的情况下继续迫害抗争者的家人和朋友。</p>
-<p>廖敏月本身就是一名抗争者，在其母刘萍被拘捕之后，她一直为其母的冤屈奔走呼告。不可忽视的是，廖敏月是因为其母的案件而被卷入其中，她首先是一名“维稳对象”。如果说警方对廖敏月的威吓，还是出于对一个有行为能力的成年人的“前置预防”；那么，曾经引发热议的，某学校迫于压力拒绝安徽异议人士张林10岁女儿入学，则是无耻的、纯粹的连坐。</p>
-<p>连坐在当局用来轻车熟路。如在艾未未案中对其母高瑛女士、其妻路青女士的控制，在浦志强案中对其亲戚、同事、委托代理人屈振红律师的拘捕等。连坐早已成为重要的维稳和打击手段。</p>
-<p>连坐有着悠久的历史，是专制残酷刑罚的代表。卫鞅为秦孝公立“连坐”法，“夫妻交友不能相为弃恶盖非，而不害于亲，民人不能相为隐”，就是说连坐范围内的亲友不得互相隐匿罪行，否则就都要受到惩处。汉唐以来直至清代甚至民国的法律，对于谋反等大罪均施以连坐，明成祖朱棣甚至诛方孝孺之“十族”。保甲制度将连坐的范围从亲族扩展到邻居、同事，人们之间互相保证、互相监督、互相揭发，甚至互相陷害，形成了民间“自我治理”的锁链。</p>
-<p>连坐和保甲制度的施行，依靠的是严刑峻法和普遍恐惧。严刑峻法使民众不敢越雷池半步，普遍恐惧使民众互相防范和陷害。专制政府通过惩治和鼓励两面手法，割裂民间的血亲、姻亲和友情、同事关系，使民间趋于原子化，这样就很难联合起来对专制形成有效的反抗。</p>
-<p>建政以来，连坐仍然是镇压的残酷手段。右派家庭、黑五类、黑帮子女、成份论……这些因某一人被打击而株连到家庭的现象比比皆是。更加残酷的“划清界限”，在“文化大革命”（1966～1976）期间，一度成为民间热词。一遇风波，为了避免连坐，亲属就必须被迫与“反革命”划清界限，断绝关系。至亲、老友、师生之间出于自保的互相揭发，更是形成了人人自危的恐怖气氛。</p>
-<p>臭名昭著的户籍制度则是连坐、保甲制度的延续。户籍制度在城乡二元身份固化的基础上，限制人口流动，实现人口就地治理；自上而下的压力赋予地方各级政府守土之责，为了政绩和仕途，它们有足够的动力完成好治理的任务。地方治理的重要方式就是连坐，这在拆迁、计划生育等方面被广泛应用。近年来户籍制度表面上的松动，只不过是经济方面的需求，而不是制度本身的变革。入学难、高考不公、收容遣送等现象，也充分证明了这一点。</p>
-<p>个体承担行为后果的法治基本原则，早已断绝了连坐的基础；人口的自由流动，也是民众不可剥夺的政治、经济权利。连坐作为一种统治技术，于当今的评判，是政治上的专制报复，法治上的私刑迫害，道德上的灭绝人伦。而在高调宣扬民主法治、GDP已经占据世界第二位置的中国，每天从“中国梦”中被吓醒的国人，仍处于连坐的恐惧和严惩之下。如果这些仅仅是历史，那么需要的只是反思和防治；但是，这些是一直持续的现实，需要的就不再是反思和防治。不终结专制，民众就不可能免于恐惧，不可能免于迫害和扭曲。</p>
-<p>专制只是专制，连坐见诸明文，这是罪恶但还称不上流氓。一边以“法治”血腥镇压，一边以连坐陷害、威胁民众，这就是彻头彻尾的流氓匪帮。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91-%E8%8B%8F%E6%98%9F%E6%B2%B3%EF%BC%9A%E4%BB%8E%E4%B8%93%E5%88%B6%E5%88%B0%E5%8C%AA%E5%B8%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%AA%E5%B8%AE/?category=18271" rel="tag">匪帮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E6%B0%93/?category=18271" rel="tag">流氓</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E6%98%9F%E6%B2%B3/?category=18271" rel="tag">苏星河</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E/?category=18271" rel="tag">连</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/433201/" target="cdt-mirror">【立此存照】自己都不信：机器五毛召唤术之长平篇</a>
-</h2>
-<p><p>知名专栏作家长平近日在网上指其家人因他<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="_blank">批评中国当局</a>而受到“连坐”。3月28日，四川省公安厅发表通报称多家外媒对此事进行“炒作”，强调其家人是因为“祭祖引发火灾”而被捕的。对此，长平在推特回应：</p>
-<blockquote><p><a href="https://twitter.com/chang_ping" target="_blank">@chang_ping</a>：四川警方宣称我的家人因为祭祖失火被拘押。既然这样，你们就调查失火好了，为什么逼他们跟我联系？为什么要求我删除文章？失火前一周就开始的调查骚扰又是干什么？国保是管失火案的吗？真有失火，你们就专心调查吧，别神游欧洲了；公正处理吧，我这里没有什么好交换的！</p></blockquote>
-<p>讽刺的是，<strong>中国当局显然对自己的这番说辞并没什么自信</strong>，在微博出动大批五毛水军占领“舆论高地”。“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88/" target="_blank">浦志强案</a>”开庭之时，当局曾在新浪微博动用“机器五毛”刷屏，其原理也相当粗暴简单：在微博发布包含关键词“pu志强”的任何内容，就能召唤出机器五毛评论。</p>
-<p><strong>这招今天也被用在了有关长平家人被“连坐”的舆论“斗争”中。经网友测试，机器五毛同样可以通过发布含有相关内容的微博召唤出来。</strong></p>
-<blockquote><p>相关阅读：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-dw%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E9%95%BF%E5%B9%B3%E5%AE%B6%E4%BA%BA%E5%9B%A0%E5%85%B6%E8%AF%84%E8%AE%BA%E8%A2%AB%E5%A4%B1%E8%B8%AA/" target="_blank">德国之声 | DW专栏作者长平家人因其评论“被失踪” </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="_blank">德国之声 | 长平：贾葭失踪，睁眼之罪</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/" target="_blank">【立此存照】五毛召唤术：“pu志强”的魔力</a></li>
-<li><a href="http://chinadigitaltimes.net/space/%E6%B5%A6%E5%BF%97%E5%BC%BA%E6%A1%88%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E8%AF%84%E8%AE%BA%E5%BA%93%E5%88%97%E8%A1%A8">浦志强案机器五毛评论库列表</a></li>
-</ul></blockquote>
-<p><strong>实验结果截图，请随意感受：</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B01.png" rel="attachment wp-att-433210"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B01.png?resize=500%2C852" alt="机器五毛01" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/机器五毛01.png?resize=176%2C300 176w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/机器五毛01.png?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>更多水军／“机器五毛”使用情况举例：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%882.png" rel="attachment wp-att-433208"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%882.png?resize=500%2C1424" alt="李方平律师2" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%9C%B0%E7%93%9C%E7%86%8A%E8%80%81%E5%85%ADpng.png" rel="attachment wp-att-433203"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%9C%B0%E7%93%9C%E7%86%8A%E8%80%81%E5%85%ADpng.png?resize=500%2C1389" alt="地瓜熊老六png" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/地瓜熊老六png.png?resize=108%2C300 108w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/地瓜熊老六png.png?w=605 605w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%9B%9B%E5%B7%9D%E6%97%A5%E6%8A%A51.png" rel="attachment wp-att-433205"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%9B%9B%E5%B7%9D%E6%97%A5%E6%8A%A51.png?resize=500%2C1570" alt="四川日报1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/四川日报1.png?resize=326%2C1024 326w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/四川日报1.png?w=603 603w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%911.png" rel="attachment wp-att-433207"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%911.png?resize=500%2C1326" alt="观察者网1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/观察者网1.png?resize=386%2C1024 386w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/观察者网1.png?w=608 608w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/433201/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E5%9D%90/?category=18271" rel="tag">连坐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -615,7 +607,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -625,5 +617,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

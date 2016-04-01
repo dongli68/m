@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%A5%BF%E5%8C%97%E5%86%9C%E5%A4%A7%E5%85%B3%E4%BA%8E%E6%8B%9B%E8%81%98%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98%E7%9A%84%E9%80%9A%E7%9F%A5/" target="cdt-mirror">【立存此照】西北农大关于招聘网络评论员的通知</a>
+</h2>
+<p><p>为营造健康、文明的网络舆论生态，牢牢掌握舆论的主动权、话语权，按照学校第16次党委常委会会议要求，决定组建我校网络评论员队伍，现面向全校师生招聘网络评论员，具体如下：</p>
+<p>一、招聘范围</p>
+<p>此次招聘网络评论员100名。其中教授10名，思想政治理论课教师10名，思想政治工作辅导员10名，学生（本科、硕士、博士）70名。</p>
+<p>二、招聘条件</p>
+<p>1.具有较高的政治素养，能正确把握舆论导向，有坚定的政治立场与正确的理想信念，有良好的思想品德和敬业精神。</p>
+<p>2.熟悉党的宣传理论工作，熟悉高等教育发展动态，熟悉相关法律法规，熟悉学校中心工作。</p>
+<p>3.熟悉网络舆论生态，具备一定的网络传播技术，热心热爱网络评论工作。</p>
+<p>4.有较强的敏锐性和鉴别力，积极关注社会热点问题，对网络中的热点话题、重大事件、突发事件，能够做出正确的分析和判断。</p>
+<p>5.有一定的文字功底，能运用网民熟悉的语言和表达方式进行交流。</p>
+<p>三、招聘方式</p>
+<p>网络评论员采用自荐和单位推荐两种方式，其中思想政治理论课教师评论员由马克思主义学院负责推荐，思想政治辅导员评论员由党委学工（研工）部负责推荐，教授评论员以学院推荐为主，学生评论员以自荐为主。</p>
+<p>网络评论员在校党委宣传部统一领导下开展工作，根据工作量计算稿酬。</p>
+<p>四、招聘要求</p>
+<p>1.各单位要高度重视网络评论员的推荐工作，以高度的责任心做好网络评论员的推荐工作，确保网络评论员招募工作顺利进行。</p>
+<p>2.各单位在推荐过程中要注重网评员的综合能力，特别要推荐在网络舆论引导方面有特长的师生，共同努力组建一支高效优质的网络评论员工作队伍。</p>
+<p>3.单位推荐的网络评论员要填写《推荐表》，同时推荐单位要填写《汇总表》。自荐的网络评论员要填写《自荐表》。于<strong>4月10日前将纸质材料送党委宣传部404室</strong>，电子材料发送至liuyf@nwsuaf.edu.cn。</p>
+<p>五、联系方式</p>
+<p>联系人：刘玉峰</p>
+<p>联系电话：029—87082833</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA.jpg?resize=550%2C821" alt="网络评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/网络评论.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/网络评论.jpg?resize=686%2C1024 686w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/网络评论.jpg?w=711 711w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%A5%BF%E5%8C%97%E5%86%9C%E5%A4%A7%E5%85%B3%E4%BA%8E%E6%8B%9B%E8%81%98%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98%E7%9A%84%E9%80%9A%E7%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">网络舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98/?category=18271" rel="tag">网络评论员</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8C%BF%E5%90%8D%E4%BF%A1%E4%BA%8B%E4%BB%B6%E5%92%8C%E4%B8%AD%E5%85%B1%E5%85%9A%E5%86%85%E7%9A%84%E6%9D%83%E5%8A%9B%E7%84%A6%E8%99%91/" target="cdt-mirror">纽约时报｜匿名信事件和中共党内的权力焦虑</a>
 </h2>
 <p><p>北京——当一封呼吁国家主席习近平下台的<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank" rel="nofollow">匿名信</a>本月出现在网络上时，这似乎只是网上的流言。文中要求习近平为中国的利益，也为他自身安全考虑，辞去职务。这封信通过邮件传播，曾短暂出现在一家小型中国新闻网站上，之后很快被删除。</p>
@@ -665,31 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E8%94%BA%E4%B8%BB%E4%BB%BB%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A6%88%E5%A6%88/" target="cdt-mirror">王海涛：蔺主任是个好妈妈</a>
-</h2>
-<p><p>蔺主任，女，最近成了“网红”。如果你还不知道她是谁，去微博上搜索“蔺主任”可能还能搜到。</p>
-<p>人红是非多。蔺主任最近也陷入是非之中，据说删掉了自己微博中关于自己孩子的内容。那些内容，大致透露了自己的孩子曾经在国内上每年学费8万元的国际学校，以及，后来孩子远赴加拿大求学。此外，大家翻阅她的微博，还发现，她的侄子，侄女，也在加拿大求学。</p>
-<p>让她不慎走红的，还包括她的另外一些言行，比如他所表达的对西方价值观的警惕和对我们国家的热爱——于是，就有人问，既然如此，为何把自己的孩子送到西方呢？</p>
-<p>对于这样的质疑，我要替蔺主任说几句话。把孩子送到西方读书与爱国之间并不矛盾，说不定是为了培养更加爱国的后代。比如，清末的时候，大批的中国学生赴日本留学，后来很多成了极为爱国的革命党——成为著名“汉奸”的，也就一个汪精卫吧。</p>
-<p>总之，我既相信蔺主任对国家的爱，更相信她对自己孩子的爱。至于哪一种“爱”更真实一些，根据我的观察，一个人有了孩子之后，才会真正懂得什么是“真爱”——那就就是给自己真正爱的人自己能给得起的最好的东西。基本上，为人父母者，都愿意尽自己所能，给孩子提供最好的一切，尤其是教育。另外，根据我的观察，一个女人当了妈妈之后，对于自己的孩子，她流露出来的一定是真爱。当然，她会因为这个真爱，暴露自己的智商以及情商。换句话说，真爱，往往会让一个人智商以及情商“阶段性”降低。</p>
-<p>一个人情商低的表现是，他总让别人难受；一个人智商低的表现是，别人总让他难受。最近，蔺主任之所以成为网红以及成为网红之后的烦恼，大致就表现在，她让别人难受了，然后，别人让她很难受。不管谁让谁难受，通过大家挖掘出的蔺主任数年来的微博内容，我可以断定，蔺主任是个好妈妈——她确实一直在努力给自己的孩子，提供自己所能提供的最好的一切。</p>
-<p>按照“妈妈总会给孩子最好的”这个逻辑，那么，我们可以认为，在蔺主任看来，遍布着可怕的西方价值观的加拿大有比中国更好的教育，否则，她不会让自己的孩子冒着被西方价值观腐蚀的危险而依依不舍地把孩子送到那么遥远的地方。我和她一样，并不担心她的孩子，会被侵蚀，毕竟，孩子已经长大成人，知道什么是香什么是臭。</p>
-<p>出国，即便是去腐朽的国家，也未必就会被污染。</p>
-<p>比如，众所周知，清末的中国是腐朽的。那时，大量的西方人来到东方的中国，当时东方中国的一个重要的价值观是“女人裹小脚为美”——但并没有一个来华的外国人将这个“小脚为美”的价值观带会他们的国家。这大概是因为，稍微有点智商的外国人的都能辨别出，裹脚是一种腐朽的价值观。从这个角度上说，我相信蔺主任的孩子到了异国他乡，一定能够分辨出异国的价值观里，哪些是糟粕，哪些是精华。</p>
-<p>不过，按照这个逻辑，可以推倒出一个“悖论”：既然我们的孩子到了西方都不用担心会被西方的腐朽思想所腐蚀，那么，我们有什么必要担心“留在东方”的孩子会被西方的腐朽思想所腐蚀呢？如此说来，蔺主任之前在微博上所表达的那些对西方价值观的警惕，就显得有些用力过猛。这大概是她被一些人诟病“精神分裂”的原因之一吧——但我坚决不会如此指责这位好妈妈，因为我一向相信，当一个妈妈“对自己孩子的爱”与“对其他事物的爱”相抵触的时候，后一种爱是是可以忽略的。</p>
-<p>但也有例外。《红岩春秋》杂志2013年刊发过这样一篇革命故事——</p>
-<p>1935年2月，高文华和妻子贾琏负责河北（北方局）的革命工作，他担任河北省委书记，妻子负责省委财政工作。当时，由于革命组织被破坏，他们与中央失联，因而失去经费来源。那时，高文华常常几天难得吃一顿饱饭。贾琏看在眼里，痛在心里。一天，她想把墙上腊肉取下煮给丈夫吃，高文华坚决不同意——因为他们公开的身份是商人，腊肉是摆阔气、装门面的。两个女儿实在饿得慌，偷偷在外面捉些蝗虫回来烧着吃。贾琏害怕暴露身份，一气之下动手打了孩子。</p>
-<p>在这种艰难的条件下，交通员没有出差费，房东天天催缴房租，有的同志饿得迈不开步子……高文华和贾琏对此深感忧虑。一天，贾琏看到面黄肌瘦的两个女儿，便想用孩子换钱。但她仔细一想，女孩子卖不了几个钱，而且卖出去必然会落入火坑。于是，她又把目光转向睡在床上那刚满4个月的儿子身上。为了党的事业，贾琏夫妇唯一的儿子卖了50块银洋……北方局不仅没有涣散，而且指导了北京的“一二·九”学生运动……</p>
-<p>有人说，这个故事里的妈妈在“对孩子的爱”与“对革命的爱”之间产生冲突时，失去了“人性”——我不敢这么认为。我只能这样认为——4个月大的婴儿卖给了能够出得起50块大洋的人家，一定能够免于饥饿，得了50块大洋的爸爸妈妈得以继续革命，在爸爸妈妈看来，这或许是个两全其美的方案。</p>
-<p>时光荏苒，今非昔比，萧瑟秋风今又是，换了人间。如今，对有些人而言，两全其美的方案是，爸爸妈妈在东方好好革命，儿子女儿到西方好好学习。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E6%B5%B7%E6%B6%9B%EF%BC%9A%E8%94%BA%E4%B8%BB%E4%BB%BB%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A6%88%E5%A6%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%8D%E7%88%B1/?category=18271" rel="tag">母爱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">蔺主任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

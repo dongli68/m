@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BE%AE%E5%8D%9A%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E7%8E%A9%E7%AC%91%EF%BC%9F/" target="cdt-mirror">迷の国社：新华视点愚人节微博到底是不是玩笑？</a>
+</h2>
+<p><p>@新华视点于2016年愚人节<a href="http://weibo.com/1699432410/DoUipcOni" target="_blank">所发的微博</a>到底是不是玩笑？评论中，大多数网民认为@新华视点 是认真地在传播正能量，但该微博最后所附的一个微笑脸到底是不是在暗示这其实是个玩笑？如果是的话，删评论是不是代表这个玩笑引来了意想不到的后果？</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%8F%AA%E8%A6%81%E8%B7%9F%E5%AF%B9%E4%BA%86%E5%85%9A%EF%BC%8C%E6%84%9A%E4%BA%BA%E8%8A%82%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%BF%87/" target="_blank">【网络民议】只要跟对了党，愚人节每天都过</a></p></blockquote>
+<p>数字时代编辑整理了一下@新华视点 历年“愚人节”微博，以供参考。从中至少可以看出，2013至2015年的趋势是一年比一年严肃：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%9B%BD%E7%A4%BE4.jpg" rel="attachment wp-att-433637"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%9B%BD%E7%A4%BE4.jpg?resize=475%2C1247" alt="国社4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/国社4.jpg?resize=768%2C2016 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/国社4.jpg?resize=390%2C1024 390w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/国社4.jpg?w=1025 1025w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
+（中国数字时代制图）</p>
+<p><strong>2010～2012年愚人节：</strong>未提及。</p>
+<p><strong>庆丰元年：网络段子型</strong></p>
+<blockquote><p>今天是4月1日星期一，愚人节，领导通知说要上班，越想越不对劲，不行！咱们不能上当！<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1">节日快乐！</p></blockquote>
+<p><strong>庆丰二年：带“偷笑”表情，语气轻松型</strong></p>
+<blockquote><p>4月1日是愚人节，又称万愚节，是西方一些国家的节日。现在不少中国人也爱凑这个热闹。乐归乐，不过凡事要有个度，大家都多些爱心，多些小心啊！<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p></blockquote>
+<p><strong>庆丰三年：人生忠告型</strong></p>
+<blockquote><p>#人生微语#诚信像一面镜子，一旦打破，你的人格就会出现裂痕。巧诈不如拙诚，真正聪明的人，必然会选择城市。今天是所谓的“愚人节”，愚人节不是教我们撒谎，而是告诫我们，撒谎的都是“愚人”。早安！</p></blockquote>
+<p><strong>庆丰四年：愚人节玩笑？社会主义正能量？</strong></p>
+<blockquote><p>今天是西方所谓的“愚人节”。“愚人节”不符合我国的文化传统，不符合社会主义核心价值观，希望大家不信谣，不造谣，不传谣。<img title="[微笑]" src="http://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" width="22" height="22"></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BE%AE%E5%8D%9A%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E7%8E%A9%E7%AC%91%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E5%81%87%E9%87%8A%E5%90%8E%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF/" target="cdt-mirror">德国之声｜记者高瑜假释后首次接受媒体采访</a>
+</h2>
+<p><p>因“泄密罪”被判刑的记者高瑜，因“健康原因”获准监外执行后，本周四首次对媒体发声。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg" rel="attachment wp-att-433645"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg?resize=585%2C329" alt="0,,18870376_303,00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p>（德国之声中文网）因”泄露国家机密”被判刑的记者高瑜本周四首次接受媒体采访。高瑜案曾引起国际社会广泛关注，这是她因健康原因被监外执行后，首次面向媒体。</p>
+<p>现年72岁的资深记者高瑜去年被控对外泄露了一份中共警告多党制民主”危害性”的文件。为此她被关押了18个月。年逾古稀的高瑜患有包括心脏病在内的多种疾病。今年早些时候，她的刑期被从七年减至五年，并以健康原因获准监外执行。当时，中国官方的新华社报道称，高瑜是因为有”悔罪表现”而被减刑的。</p>
+<p>但周四高瑜在家中对法新社表示，任何有关她认罪、悔罪的说法都是”笑话”。她还说，当局禁止她前往德国接受治疗。</p>
+<p>高瑜说，这一切都是”中国式的讨价还价”，中国当局禁止她公开讨论她的案情，并以此作为她获得假释的条件。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg" rel="attachment wp-att-433644"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg?resize=585%2C329" alt="0,,19134128_401,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>德国总统高克同高瑜律师会谈</span></p>
+<p>高瑜说她之所以决定接触媒体是因为城管人员周四试图拆除她住宅的一部份，并殴打了她的儿子。目前，法新社尚无法证实该事件的细节，但网上公布的照片上可以看到大批警员包围了高瑜在北京的住宅。</p>
+<p>高瑜同时说，获得假释后她没有任何经济来源，已无法支付医疗费用。高瑜被捕前曾为德国之声撰稿。德国方面曾就高瑜的问题同中国官方有过交涉。高瑜说：”德国给了我签证，并为我买了机票。但当局说我在保外就医期间不得离境。”法新社目前尚未获得北京警方就此的回应。</p>
+<p>作为联合国教科文组织世界新闻自由奖的获得者，高瑜长期坚持对中国共产党的专制统治提出批评。1989年，天安门学生运动遭镇压后，高瑜首次被捕入狱。90年代，高瑜再次以所谓”泄露国家机密罪”被判处六年监禁。</p>
+<p>去年四月，北京一家法庭指控高瑜泄露了中共的”九号文件”。这份据称发布于2013年并在网络上广泛流传的文件，禁止人们讨论普世价值以及对中共历史事件提出批评。国际人权组织对高瑜被判刑提出强烈谴责，华盛顿呼吁北京立即释放高瑜，而欧盟则要求北京重新审理高瑜一案。</p>
+<p>2012年，中国国家主席习近平上台以来，对反对派人士展开了大规模的打压行动。数百名律师，维权人士以及学者被逮捕，数十人被判刑。总部设在法国的记者无疆界组织在其2015年度新闻自由全球排行榜上，中国排在总共180个国家的第176位。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E5%81%87%E9%87%8A%E5%90%8E%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E5%87%86/?category=18271" rel="tag">七不准</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E5%8F%B7%E6%96%87%E4%BB%B6/?category=18271" rel="tag">九号文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86%E7%BD%AA/?category=18271" rel="tag">泄露国家机密罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%AA%E8%A6%81%E8%B7%9F%E5%AF%B9%E4%BA%86%E5%85%9A%EF%BC%8C%E6%84%9A%E4%BA%BA%E8%8A%82%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%BF%87/" target="cdt-mirror">【网络民议】只要跟对了党，愚人节每天都过</a>
 </h2>
 <p><p>中国北京时间4月1日，新华社的@新华视点 账号在新浪微博发布了一条微博，称“愚人节不符合我国的文化传统，不符合社会主义核心价值观”，随即引来大量网民嘲讽。然而由于该微博内容最后带了一个微笑脸，所以也有一些人认为这其实是@新华视点 开的愚人节玩笑。就在越来越多的网民加入吐槽队伍当中时，@新华视点 的评论却从两千六百多条被删到了只剩12条。也许是因为微博内容符合党媒一贯的作风，从评论可以看出大多数网民并有将此当作玩笑（文末附截图）。然而如果这真是玩笑却没人信，甚至最终闹到了删评论的地步，也算为今年愚人节增添了一则趣闻。</p>
@@ -602,76 +648,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8E%AB%E4%B9%8B%E8%AE%B8-%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%EF%BC%9A%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%92%8C%E5%85%85%E6%BB%A1%E6%B7%B7%E4%B9%B1/" target="cdt-mirror">莫之许 | 中国未来：不稳定和充满混乱</a>
-</h2>
-<p><p>2015年3月6日，美国乔治.华盛顿大学教授沈大伟（David L. Shambaugh）在《华尔街日报》上发表了〈中国即将崩坏〉（The Coming Chinese Crackup）一文，文章列举了五个方面的标志性现象，并认为，中国的政治体系严重崩坏。这一观点顿时引发了广泛的关注。</p>
-<p>1989年以来，关於中共统治即将崩溃的预言并不少见，沈大伟的文章之所以引起广泛关注，有两个原因，其一，沈大伟本人与中共官方保持良好的关系，中国翻译并出版过他的着作，官方媒体也援引过他的观点；2015年1月，在中国外交部下属的外交学院还把他列为「美国最有影响力的中国问题专家」的第二位。其二，沈大伟曾经对中共统治的前景有相对积极的评价，沈大伟和哥伦比亚大学政治系教授黎安友（Andrew J. Nathan）一样，被看出是所谓「韧性威权」的主要倡导者。</p>
-<p>这两位美国重要的中国研究专家在过去几年，对於中国走向的判断有着巨烈的变化。</p>
-<p>黎安友在2003年1月发表於美国《民主》杂志的〈威权主义的韧性〉一文中认为，「中国没有出现民主转型，反而是完成了由极权主义向经典威权政权的转型，并且似乎变得越来越稳定了」。而沈大伟在2007年出版的《中国共产党：收缩与调适》（China’s Communist Party: Atrophy and Adaptation, 2008）则认为，中共通过学习和适应，有潜力去克服或遏制包括腐败在内的诸多问题。</p>
-<p>但两人却在过去几年翻转了对中国威权平稳运作的看法。沈大伟去年在《华尔街日报》的这篇文章，是他个人观点的一个大翻转，同时也被看作西方主流学界对於中共统治未来图景开始转变的信号。他写道：「专制正严重压迫中国的体制和社会，使其更接近崩溃点。终结的过程则可能拖延、不稳定和混乱」。</p>
-<p>就在最近，2016年3月，沈大伟的新书《中国的未来》（China’s Future）出版，他继续呼应其一年前的观点，更详细地解释了这个结论是如何得出的。他在书中写到，如果中国保持2009年以来的强硬威权路线，就将不可避免地像大多数发展中经济体一样，陷入中等收入陷阱，中国社会会变得更加不稳定和难以预测，如果没有政治自由化，一些因素到某个点就会「突然折断」。很显然，这与当初的韧性威权具有调适能力的图景截然相反。</p>
-<p>更引人瞩目的是，类似转向并不仅见於沈大伟身上。</p>
-<p>最先於2003年提出韧性威权概念的哥伦比亚大学教授黎安友，2009年就在〈威权主义的非永久性〉一文中指出，「中国未来最有可能的转型方式仍然将是天安门事件那样的模式」，此外，笔者也注意到，还有更多的政治学家表达了类似的观点；如2015年11月在《美国利益》发表的〈共产党在中共统治的黄昏〉（The Twilight of Communist Party Rule in China）一文中，美籍华裔的政治学家裴敏欣也认为，「中共89後维持政权的策略已经无法持续，而最新的替代策略，却似乎正在加速其统治的结束」。西方主流学界对於中共统治未来图景确实发生了转变。</p>
-<p><strong>韧性幻象的出现</strong></p>
-<p>中共具有学习和调适的能力，这在一定程度上是真实的，自毛泽东去世以後，中共一直在寻求有别於传统计划经济体制的的发展模式。这种以实用主义为主导的努力，也并非没有具体的目标，中共在一开始所学习的对象，正是当时尚处在威权统治下的台湾、韩国、新加坡，以及自民党长期一党执政的日本所代表的东亚威权发展模式。</p>
-<p>1989年，中共镇压了民主运动，随後，东欧和苏联出现巨变，许多人对同为共产极权国家的中共政权有着相当悲观的前景预测，然而，中共并没有终止上述尝试和努力，恰恰相反的是，受苏联和东欧共产主义政权崩溃的刺激，以邓小平南巡为标志，中共更加加速了1980年代开始的市场化和对外开放的进程。</p>
-<p>与许多人的预测相反，中共政权从冲击中走了出来：成功地融入了国际经济秩序、取得了持续的经济成长；同期，还实现了江泽民与胡锦涛之间和平的权力交接；在经济增长的奇蹟映衬下，尽管也有着越来越严重的腐败，体制官僚也显得似乎专业和能够回应社会需求；此外，尽管期间镇压了中国民主党的组党尝试，压制了法轮功群体的诉求，经济增长带来的绩效合法性，还是提高了中共政权的支持度；文化消费自主和网络时代的来临，更给人以一种宽松的感觉。总之，在许多观察家的眼里，中共政权通过有效的调适，「已经进行了自我巩固」，「中国这种特殊的威权体制，已被证明了是具有韧性的」。（黎安友，〈威权主义的韧性〉）。</p>
-<p>不仅如此，在许多观察家看来，获得韧性的中共政权，还可以通过进一步的转型，变为更开放、更自由化的半民主或一党独大型政体，如沈大伟所言，中共「也可以采取主动和动态的方式执政，以开放的姿态，尝试引导和管理变革」。这些措施，包括经济进一步私有化，尤其是大型国有企业的私有化改革，以及土地的自由流通；也包括进一步的法治化，以促进经济发展和创新；政治上的转变则在於，通过以「三个代表」为核心的党建措施，将私人企业主、专业技术人员、管理阶层等新兴社会阶层吸纳进入体制、甚至吸收入党，将不仅能改变中共的执政方式和风格，也能够改变其成分和方向。在一定程度上，这类似於在1970年代退出联合国等危机後，国民党在台湾所实施的本土化策略。</p>
-<p>而在大陆内部，也有许多人相信，通过这样的开放和主动改革，中共可以实现由「革命党向执政党的转变」，而市场化和对外开放，不可避免地会带来私有经济和新兴中产的壮大，也会促进包括NGO在内的社会组织的兴起，最终，在新兴社会力量的推动下，转变了的中共就可以与社会力量渐进、互动、平稳地实现包括政治体制在内的全面转型。</p>
-<p>不过，具有讽刺意味的是，上述观察和预言，几乎在其刚一出台，就随即失去了其解释力。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=440%2C293" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>首先，那些曾经被寄予希望的进一步变革并没有出现：在经济上，1990年代的「抓大放小」被「做大做强」国有企业所代替，非但没有出现进一步的私有化国企改革，反倒出现了被称之为「国进民退」的现象；法治化也出现了类似的现象，不是朝向更重视权利、规则和限制政府权力，而是以所谓「三个至上」（党的事业至上、人民利益至上、宪法法律至上）为代表的国家主义倾向的重新抬头。更令人失望的还在於，曾经被寄予厚望的「三个代表」路线，在经历了江泽民与胡锦涛的权力交接之後，迅速地偃旗息鼓，而沦为了某种摆设式的存在。</p>
-<p>其次，即使是那些被看成是韧性威权的基础的内容，也被事实所证明并不那麽稳固：薄熙来事件表明，围绕最高权力的争夺，并不因为任期制而消失；十八大以後，习近平的强势反腐，不仅树立了自己的个人权威，在相当程度上削弱了集体领导体制，也破坏了官僚体制通过经济发展获取政绩和个人利益的一致性。从制度化的层面来看，作为後1989政权存续关键的精英的团结、基於绩效合法性的官僚驱动力等等，都迅速地成为了过去。</p>
-<p>或许，还要加上2015年令人大跌眼镜的股灾表现，与曾经一度被看作神话，但最终被证明不过是平庸之辈的日本经济官员一样，曾经被认为经过专业化而具有高超能力的大陆官僚，也迅速沦为了国王的新衣，这表明，作为韧性威权核心内容的精英选拨、并通过这一精英群体的学习和适应能力来回应社会要求，推动经济发展，很可能只是一个神话，曾经的经济奇蹟，也只不过是赶上了一段好时候。</p>
-<p>最後，威权体制的韧性，最终还是需要建立在对於新兴社会阶层的吸引之上，而随着「三个代表」路线的无疾而终，中共越来越将政权存续的基础，放置在对新兴社会的压制之上。尽管体制可能成功地在短期内获得了相对安全，但却造成了新兴社会阶层对於体制的离心倾向。</p>
-<p>在2015年3月那篇引起轰动的文章里，沈大伟举出了5个具有指示性的现象，其中第一个就是「中国的富豪们已经一脚踏出了国门，他们已经为一旦制度真正开始崩溃而大批逃亡做好了准备。」事实上，不仅富豪，移民已经成为中产以上阶层普遍的话题，和越来越多的行动。而更加令人不安的是，对新兴社会的压制还有着越来越强的趋势，对网络言论、维权律师、NGP群体、宗教群体的打压在规模上和力度上都在升高。</p>
-<p>黎安友从发表〈威权主义的韧性〉一问，到承认「中国未来最有可能的转型方式仍然将是天安门事件那样的模式」，不过区区数年，2015年，沈大伟在接受《纽约时报》采访时坦承，「在2009年中期，曾庆红退休之後，中共的方向突然发生了转变。」而此时，距离其《中国共产党：收缩与调适》一书的出版，还不到两年。而中共自从奥运之後强化的维稳体制，以及中共十八大之後越来越显着的强力压制，所有这一切都表明，当初在经济奇蹟映衬之下，所做出的威权主义所具有的韧性，现在看来更像是一种幻象。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?resize=500%2C161" alt="Cexe3gKWIAAIWoR.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?resize=300%2C97 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?resize=768%2C248 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexe3gKWIAAIWoR.jpg_large.jpg?w=840 840w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><strong>真实的未来是什么？</strong></p>
-<p>为什麽威权韧性的幻象会如此迅速地消失？这或许是许多外部观察家和大陆内部思考者都共同关心的问题，每一个观察者和思考者也都会给出不同的答案组合，而在笔者的理解，有一些基础性的因素，可能是导致威权韧性幻象迅速消失的原因。</p>
-<p>首先，後1989年的政权存续基础内容或者说威权韧性的表现，包括精英团结、绩效合法性、对新兴社会精英的吸纳、韬光养晦的外交政策等等，所有这一切，可能都来自於对於1989事件的回应，比如，精英团结，很大程度上是因为1989镇压和苏联、东欧政权垮台所带来的内外刺激下，所产生的一种危机意识，或者说「一条船主义」，让精英们暂时团结起来，并在一定时间内服从了任期制和集体领导等规则，然而，这一危机意识当然会随着时间而逐步弱化，换言之，从一开始，这就可能只是一种短期现象，而不是制度化表现。</p>
-<p>其他如韬光养晦、注重经济发展、对新兴社会精英的吸纳等等，都可以从这一点得到解释，而如果说後1989年的政权存续基础内容或者说威权韧性的表现，是基於1989年镇压後的反应，那麽，就不要忽略，1989年镇压之所以产生，是为了坚持专政，拒绝自由化，「一步都不能退」，这也同时就意味着，所谓威权韧性的表现，从一开始就在维持专政、拒绝自由化的范围之内，许多观察家所期待的进一步改革内容，以及一些大陆人士所期待的渐进转型，实际上从来都不在中共政权的考虑之内。</p>
-<p>以维持专政为目标的体制表现，伴随着惊人的经济成绩，曾经给人以韧性的幻象，但是，在大陆经济增速减缓，新兴社会阶层诉求上升，以及普遍的腐败等内外压力面前，迅速露出了其更加压制性的一面。沈大伟在新书中，仍然认为「政治体制是关键」，认为「中共可以带领中国回到政治改革的道路上，逐步加强政治开放和改革，同时不会失去控制和权力」，并因此能挽回其走向衰亡的最後阶段。</p>
-<p>不过，以我上面的简短分析的逻辑，後1989政权存续基础内容或者说威权韧性的表现，从一开始就排除了政治自由化的内容，也就根本不会有政治改革，恰恰相反的是，维持既有的专政体制，才是中共政权的前提。展望未来，沈大伟所预言的拖延、「高度不稳定和混乱」（highly unstable and unsettled）的衰亡过程，才是远为可能的真实未来。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%8E%AB%E4%B9%8B%E8%AE%B8-%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%EF%BC%9A%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%92%8C%E5%85%85%E6%BB%A1%E6%B7%B7%E4%B9%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5/?category=18271" rel="tag">中国未来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">政治体系</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%B3%E4%BA%8E%E8%A6%81%E6%B1%82%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%90%AC%E5%85%9A%E8%AF%9D%E8%B7%9F%E5%85%9A%E8%B5%B0%E6%94%B9%E5%85%9A/" target="cdt-mirror">【习总日记】 关于要求全国人民听党话跟党走改党姓的公开信</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，3，30）</p>
-<p>身在海外，心系祖国。离得越远，爱得越深。拿海外华人华侨与国内人民群众相比，高下立判。海外华人华侨，子子孙孙辛勤劳作汇回外币支援祖国建设。再看国内人民群众，坑蒙拐骗男盗女娼，才三十年功夫就把祖国蓝天搞得乌烟瘴气，把江河湖海搞得污浊不堪。更可恶的是其中一些人还在网上肆意诋毁党和国家最高领导人的名誉地位。问世间情为何物，真叫人忍无可忍。</p>
-<p>所以很多人一致断言，这一届领导人不错，但这一届人民不行。</p>
-<p>领导人不行可以换，曾经换下华国锋胡耀邦和赵紫阳。人民不行怎么办？因为人民是不可换的。譬如说中国政府向联合国提出要求用中国人民换美国人民，美国政府愿意吗？美国人民愿意吗？铁定不愿意的。</p>
-<p>好在整顿吏治整顿军队已经告一段落，痛定思痛，着手整顿人民。我要求全国人民即日起，听党话跟党走改党姓。</p>
-<p>建国六十多年来历史证明，凡是中国人民坚定不移听党话跟党走的时候，社会稳定，人民幸福，国家富强。相反，若党中央内部出现隐患或反党集团，人民不信任党不听党的话不跟党走，就会发生动乱，人民遭殃，国弱民贫。前三十年后期出了林彪四人帮，发生了十年动乱。后三十年后期出了周薄令徐等，社会乱象丛生。虽然周薄令徐已经铲除，但等仍然潜伏在党内，社会还可能发生动乱，因此我们不能掉以轻心，要保持高度警惕。</p>
-<p>这一届人民不行，表现在不听党的话不跟党走。《唱支山歌给党听》唱得少了，《没有共产党就没有新中国》干脆不唱了。不崇拜雷锋黄继光邱少云英雄，改崇拜马云马化腾商人了。这一届人民不行，还表现在普遍缺乏公共道德品质低劣。在国外丢人现眼不文明语言行为有辱国格。在网上丧心病狂讽刺嘲笑打击党和政府不知感恩。在现实生活中互害制造黑心食品销售过期疫苗，医生无医德教师无师德城管警察像流氓土匪。这方面例子举不胜举。</p>
-<p>我郑重向全国人民提出，你们要听党的话。</p>
-<p>继续保持和发扬党叫干啥就干啥的机器人精神。要具体落实到党没叫干就不干，党不许你干坚决不干。同时做到党叫说啥就说啥，党不让说就不说。</p>
-<p>我郑重向全国人民提出，你们要跟党走。</p>
-<p>继续保持和发扬党指向哪里你们就奔向哪里的中国精神。年岁大的可以改为党指向哪里你们就走向哪里。过去党指向阶级斗争，你们就群众都群众。过去党指向改革开放，你们就全民皆商。现在党指向托股市托房市扩大内需，你们就买股票买房产上网购物。</p>
-<p>我郑重向全国人民提出，你们要改姓党。</p>
-<p>中华传统文化历来就有赐姓和改姓的传统。轩辕黄帝的千万子孙各有不同的姓氏，源于赐姓。民族间战争和民族融合同化，造成改姓。现在我们强调党媒姓党军队姓党，为人民改姓创立了良好的环境，带了好头。我建议凡是热爱党热爱社会主义祖国的人民，都去民政局改姓，把姓改成党，向人们展示爱党爱国之心。</p>
-<p>展望中华民族复兴之时，中国梦实现之日，近亿党员，五亿党姓人民，紧密团结在党中央周围，组成一个空前的新型党姓民族，昂首阔步走在世界民族前列。让我们在不远将来，在团结一致党姓民族的基础上，共同缔造一个全新国家，一个真正意义上的共产党为核心党姓人为基础的党国。千秋万代，党龄永继。</p>
-<p>诗曰</p>
-<p>五毛姓党<br>
-请您检阅<br>
-大大麻麻<br>
-是俺爹娘</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/033016.jpg?resize=550%2C413" alt="033016" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/033016.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/033016.jpg?w=583 583w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%B3%E4%BA%8E%E8%A6%81%E6%B1%82%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%90%AC%E5%85%9A%E8%AF%9D%E8%B7%9F%E5%85%9A%E8%B5%B0%E6%94%B9%E5%85%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +659,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +669,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

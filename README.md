@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8C%BF%E5%90%8D%E4%BF%A1%E4%BA%8B%E4%BB%B6%E5%92%8C%E4%B8%AD%E5%85%B1%E5%85%9A%E5%86%85%E7%9A%84%E6%9D%83%E5%8A%9B%E7%84%A6%E8%99%91/" target="cdt-mirror">纽约时报｜匿名信事件和中共党内的权力焦虑</a>
+</h2>
+<p><p>北京——当一封呼吁国家主席习近平下台的<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank" rel="nofollow">匿名信</a>本月出现在网络上时，这似乎只是网上的流言。文中要求习近平为中国的利益，也为他自身安全考虑，辞去职务。这封信通过邮件传播，曾短暂出现在一家小型中国新闻网站上，之后很快被删除。</p>
+<p>但北京对这一事件的反应，绝非不以为然。</p>
+<div>
+<div>
+<h4>习近平的安全部门进行了范围甚广的调查行动，为找出并铲除匿名信的撰写和传播者，不惜采取比匿名信本身更引人注目的措施。这让一些久经历练的批评者都倍感意外。他们羁押了至少11人，其中包括两名中国流亡作家的亲属。这两人被指传播和宣传了上述匿名信。</h4>
+</div>
+</div>
+<p>习近平的助手试图营造出一种他的地位坚不可摧的氛围。然而，一些专家表示，对有可能不过是无聊网络把戏的行为做出异常严厉的反应，表明有人对习近平手中权力是否稳固存在担忧，包括一些安全官员热衷于表忠心，避免出现任何有关他处于危险之中的蛛丝马迹。</p>
+<p>“这种反应显示出他们有多么不安，”在伦敦国王学院(King’s College)研究中国政治的教授<a href="https://www.kcl.ac.uk/sspp/sga/lci/people/director/Professor-Kerry-Brown.aspx" target="_blank" rel="nofollow">凯利·布朗(Kerry Brown)</a>说。“他们似乎是在担忧，这些观点会被当成真正的精英人物的典型观念。”</p>
+<p>加州大学伯克利分校(University of California, Berkeley)<a href="http://www.ischool.berkeley.edu/people/faculty/qiangxiao" target="_blank" rel="nofollow">兼职教授</a>、同时为<a title="Link: http://chinadigitaltimes.net/chinese/" href="http://chinadigitaltimes.net/chinese/" target="_blank" rel="nofollow">中国数字时代</a>网站观察中国媒体状况的萧强认为，之所以出现这种反应，部分原因在于，这封信的措辞不同寻常。“不管是虚张声势，还是当真如此，这封信的基调更像是政变策划者在对话他们想罢免的领导人，而非持不同政见者发出的公开信，”他说。</p>
+<p>没有证据表明有什么政变正在酝酿之中。习近平似乎大权在握；本周他正在<a href="http://news.xinhuanet.com/english/2016-03/29/c_135232959.htm" target="_blank" rel="nofollow">捷克共和国访问</a>，周四他将抵达华盛顿，参加一场核安全会议。</p>
+<p>不过，被卷入或在密切关注这次调查的几人表示，中国政府的警惕反应突显出两股交替出现的力量：一是对外表现出的无比自信，二是对政治掌控力的内在担忧。正是这种忧虑，驱使习近平更严厉地打压批评人士。</p>
+<p>“习近平是要控制一切，而且这封信在国内新闻网站出现算是一种失控，”旅居德国的中国新闻记者、人权活动人士张平说道。在这次调查行动中，他的几位家人在中国西南部<a href="http://cn.nytimes.com/china/20160329/c29china/" target="_blank" rel="nofollow">遭到羁押</a>。</p>
+<p>张平通常以笔名“长平”写作，他表示自己的两个弟弟被四川警方扣押。在此之前，他的近亲，甚至包括一些关系比较远的亲戚被要求给他传话，要他从网上删除自己之前<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/a-19129146" target="_blank" rel="nofollow">撰写的一篇谴责拘押</a>中国媒体人贾葭的文章。文中表示后者很可能是因上述匿名信被拘。</p>
+<p>张平表示，他不可能从网上删除那篇发表在德国之声(Deutsche Welle)中文网站上的文章。目前，贾葭已被<a href="http://www.nytimes.com/aponline/2016/03/26/world/asia/ap-as-china-writer-released.html" target="_blank" rel="nofollow">释放</a>。</p>
+<p>警方表示，张平的弟弟因在祖坟上<a href="http://www.globaltimes.cn/content/976462.shtml" target="_blank" rel="nofollow">燃香烧纸钱</a>而涉嫌违法纵火。但张平认为这只是一个借口，是为了向他施压。</p>
+<p>他说自己的家人被告知，两个弟弟现在人在公安体系中的国保部门手里。他还表示，他的妹妹也失踪了，几乎可以肯定也是遭到了羁押。</p>
+<p>生活在纽约的中国作家、人权活动人士温云超表示，他在中国南方生活的父母和弟弟也<a href="http://cn.nytimes.com/china/20160327/c27china/" target="_blank" rel="nofollow">遭到了警方的羁押</a>，此前他们被迫转告他，要他承认在网上传播了那封匿名信。温云超拒绝了这一要求，并坚决否认自己传播了这封信。</p>
+<p>这封<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank" rel="nofollow">匿名信</a>于3月4日出现在网上，恰逢全国人民代表大会年度会议召开前夕。信中一一陈述了“忠诚的共产党员”对习近平的各项指控。其文风既有老式党八股特色，又有自由派的批评风格，让人很难分辨作者的真实身份。</p>
+<p>信中表示，习近平掌握了太多的权力，违背了共产党近些年秉承的集体决策传统。根据文中的说法，他抛弃了邓小平既定的外交方针，追求危险的冒进，并把新闻机构变成了推广他个人形象的奴性十足的工具。</p>
+<p>“习近平同志，你不具备带领党和国家走向未来的能力，”信中写道。</p>
+<p>这不是网上第一次出现抨击中共领导人的匿名信息。</p>
+<p>2011年，在网上出现呼吁民众参加“茉莉花革命”的匿名言论后，习近平的前任、当时的国家主席兼中共中央总书记胡锦涛领导的政府下令<a href="http://www.nytimes.com/2011/03/01/world/asia/01china.html?pagewanted=1" target="_blank" rel="nofollow">全面打压</a>，并加强了互联网审查。“茉莉花革命”是一场受中东各地的反抗运动影响的和平运动。</p>
+<p>不过，此次追查公开信作者的行动表明，习近平正在扩大安全管控。</p>
+<p>“他们在国外插手越来越深，”现居德国波恩的中国记者、维权人士<a href="http://cn.nytimes.com/china/20140822/c22dissident/" target="_blank" rel="nofollow">苏雨桐</a>在电话上说。“过去我们受到重视，但现在是更多的。”</p>
+<p>她说，安全机构似乎正在借调查公开信的机会，把目标对准流亡在外的年轻活动人士。这些人擅长用互联网传播消息，并与国内的人和事保持联系。</p>
+<p>“现在是有一个偏僻镇的派出所提出要撤德国媒体——德国之声——的稿子，是很荒唐的，”现居德国的张平说。“过去不可能出现的。”</p>
+<p>前述研究中国媒体的专家萧强表示，最让中国官方不满的可能是，公开信流露出，习近平及其家人的人身安全可能会有危险。信中要求习近平“出于党的事业的考虑，是出于国家和民族前途的考虑，同样，也是出于你和你家人自身安全的考虑”辞职。</p>
+<p>公开信最先由美国的中文网站“<a href="http://www.canyu.org/n110479c6.aspx" target="_blank" rel="nofollow">参与</a>”发布在网上。该网站主要刊登有关人权案件的新闻，以及批评中共的评论文章。</p>
+<p>参与网主编蔡楚表示，他和同事是3月3日在电子邮箱中收到这封匿名信的。蔡楚不愿说出发件人的电子邮箱地址，理由是需要保护发来这封信的人的安全。</p>
+<p>“从公开信的内容分析，这可能出自一位老先生之手，”蔡楚在通过电子邮件接受采访时表示。“是否可能是老党员所写，则不能判断，只能猜测。”</p>
+<p>后来，公开信出现在了国内的中文新闻网站<a href="http://www.watching.cn/" target="_blank" rel="nofollow">无界新闻</a>上。无界迅速删除了这封信。但网站的几名编辑和技术人员<a href="http://www.nytimes.com/aponline/2016/03/26/world/asia/ap-as-china-writer-released.html" target="_blank" rel="nofollow">消失了</a>。他们可能遭到了羁押。根据先例，该网站恐怕将被关闭。</p>
+<p>“他们做调查的，我想大概是想搞清楚无界有没有什么技术漏洞所以信能出现，而且就要搞清楚是不是有人故意提供这个漏洞，”中国南方笔名为“莫之许”的作家赵晖说。“我估计他们怀疑这是一场阴谋。”</p>
+<p>蔡楚表示，他周一又收到了一封信，自称是171名“忠诚的共产党员”敦促习近平辞职的请愿信。他说自己选择不发表这封信。</p>
+<p>他说：“由于也是匿名信，缺乏公信力。”</p>
+<div>
+<p>储百亮(Chris Buckley)是《纽约时报》驻京记者。<br>
+翻译：纽约时报中文网</p>
+</div>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8C%BF%E5%90%8D%E4%BF%A1%E4%BA%8B%E4%BB%B6%E5%92%8C%E4%B8%AD%E5%85%B1%E5%85%9A%E5%86%85%E7%9A%84%E6%9D%83%E5%8A%9B%E7%84%A6%E8%99%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%A2%99%E5%A4%96%E7%8A%AF%E6%88%91%E5%BC%BA%E6%B1%89-%E8%99%BD%E8%BF%9C%E5%BF%85%E8%AF%9B/" target="cdt-mirror">东网｜乔木：墙外犯我强汉 虽远必诛</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=442%2C294" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?w=440 440w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"></p>
@@ -641,31 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9Awho%E5%9C%A8%E7%96%AB%E8%8B%97%E9%A3%8E%E6%B3%A2%E4%B8%AD%E6%89%AE%E6%BC%94%E4%B8%8D%E5%85%89%E5%BD%A9%E8%A7%92%E8%89%B2/" target="cdt-mirror">东网｜傅桓：WHO在疫苗风波中扮演不光彩角色</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg" rel="attachment wp-att-433336"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg?resize=575%2C323" alt="shijie_2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/shijie_2.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>英文简称为WHO的世界卫生组织驻华代表处日前澄清，在山东疫苗事件中它们所发的疫苗无害声明是真实的，总部知道并同意代表处的声明。在这次沸沸扬扬的疫苗风波中，WHO发表声明的网站被认为是“山寨”，这个境外组织的声明也被认为是假的。</p>
-<p>WHO声明包括“疫苗应该正确储存和管理……但必须注意的是，不正确储存或过期的疫苗几乎不会引起毒性反应，因此在本事件中，疫苗安全风险可能非常低。确切地说，若儿童接种了过期或不当储存的疫苗，其面临的风险在于缺乏对该疫苗所针对疾病的预防能力。”</p>
-<p>驻华代表处现在出来澄清这个声明确有其事，表明该组织听到了网络上对世界卫生组织的不满，属于一种危机公关，挽回声誉之类的。但老实讲，经此一役，世界卫生组织在华的声誉注定会受到不好的影响，形象上会打负分，澄清了声明的真实性，掩盖不了其欺骗性。</p>
-<p>说世卫组织的声明带有“欺骗性”，是从两个角度来看的：一是它片面地强调了修辞，没有去看现实中疫苗的实际流通状况，以及贪腐对疫苗安全性的破坏，特别是接种者接种了无效疫苗之后所受到的风险威胁。世界卫生组织试图用它的身份来让声明中的修辞变得可信。</p>
-<p>另一个角度，是看WHO声明在舆论及风波中被利用的状况。它成为医学科学依据一样的权威说明，被负有疫苗监管失察责任的部门拿来证明疫苗事件的低危害性——从一定意义上讲，它也成为责任部门逃避相应责任的借口——WHO是拿机构声誉为疫苗风波中的渎职行为背书。</p>
-<p>在本次疫苗风波中，因为2010年、2013年两次大的假疫苗风波，民众对疫苗管理体制有了清楚的认识。即使民众对一个有监管效能的疫苗体制不再抱以希望，但依旧抱着治病救人的态度，诉诸责任感，试图唤醒疫苗体制理应具备的功能，但民众是失败了的。</p>
-<p>官方对疫苗事件的立场不是回应民众的诉求，不是从呼应责任感出发的，而是站在了情绪维稳与行政脱责的立场上。在这种情况下，世界卫生组织这个声明就被当作了权威来源，加入了到了强行抚慰社会的大合唱中。民众质疑这个声明，其实是愤懑于WHO在此事中承担的粉饰作用。</p>
-<p>从出现的时机与实际起到的作用看，世界卫生组织的声明都不是独立的，它在民众最需要政府搞清楚六年来失效疫苗的流向时出现，引导民众讨论疫苗的有效性，极大地转移了舆论焦点。因而，这份声明很可能也不是无辜地被舆论所“裹挟”，它展现了修辞中的意图，不冤枉。</p>
-<p>在后来三部门的新闻会上，WHO的声明果然被反复提起，有时作为权威，来说服社会追问与恐慌的无必要、不科学；有时作为证据，来佐证官方无所作为、不专注焦点问题的合理性。</p>
-<p>疫苗事件属于公共卫生安全事件，WHO对此发言本属于无可厚非，但不该是走向单一的科普派立场，用“安全无毒”四个字将问题疫苗6年来在至少18省市的流通实情一笔勾销。一个超脱成员国利益、捍卫独立价值、真正追求科学权威的国际组织不应该这样行事。</p>
-<p>五六年间，在经受了数次问题疫苗风波后，只要是对国情稍有认知的，都不会否认问题疫苗不只是科学问题，会清醒地判断这是操纵、欺骗与腐败的必然结果。监察失守，问责消失，既得利益纠缠不休，问题疫苗有着体制化的缺陷，而WHO毅然决然地汇入建制化的成因。</p>
-<p>疫苗问题主要是本届人民不行，现在，这种嘲笑超越了国界，连境外组织也可以碰瓷“本届人民”了，而且是以赛先生的名义，辅助以高大上的国际机构的架势。但正像疫苗风波中人们对WHO声明所起的疑心，声明不等于清白，质疑不等于误会，兴许可以扪心自问：Who是谁？为Who说话？</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9Awho%E5%9C%A8%E7%96%AB%E8%8B%97%E9%A3%8E%E6%B3%A2%E4%B8%AD%E6%89%AE%E6%BC%94%E4%B8%8D%E5%85%89%E5%BD%A9%E8%A7%92%E8%89%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87/?category=18271" rel="tag">世卫组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -677,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -687,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

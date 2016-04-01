@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%AA%E8%A6%81%E8%B7%9F%E5%AF%B9%E4%BA%86%E5%85%9A%EF%BC%8C%E6%84%9A%E4%BA%BA%E8%8A%82%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%BF%87/" target="cdt-mirror">【网络民议】只要跟对了党，愚人节每天都过</a>
+</h2>
+<p><p>中国北京时间4月1日，新华社的@新华视点 账号在新浪微博发布了一条微博，称“愚人节不符合我国的文化传统，不符合社会主义核心价值观”，随即引来大量网民嘲讽。然而由于该微博内容最后带了一个微笑脸，所以也有一些人认为这其实是@新华视点 开的愚人节玩笑。就在越来越多的网民加入吐槽队伍当中时，@新华视点 的评论却从两千六百多条被删到了只剩12条。也许是因为微博内容符合党媒一贯的作风，从评论可以看出大多数网民并有将此当作玩笑（文末附截图）。然而如果这真是玩笑却没人信，甚至最终闹到了删评论的地步，也算为今年愚人节增添了一则趣闻。</p>
+<blockquote><p><a href="http://weibo.com/xinhuashidian" target="_blank">@新华视点</a>：今天是西方所谓的“愚人节”。“愚人节”不符合我国的文化传统，不符合社会主义核心价值观，希望大家不信谣，不造谣，不传谣。<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016.png" rel="attachment wp-att-433631"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016.png?resize=500%2C350" alt="新华愚人节2016" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?resize=300%2C210 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?resize=768%2C538 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?resize=1024%2C717 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?w=1920 1920w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>一个多小时后，转发量增加不少，评论却只剩12条：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016%E5%88%A0%E5%90%8E.png" rel="attachment wp-att-433630"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016%E5%88%A0%E5%90%8E.png?resize=500%2C467" alt="新华愚人节2016删后" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?resize=300%2C280 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?resize=768%2C717 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?resize=1024%2C956 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?w=1456 1456w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/pannanyang" target="_blank">@潘南阳</a><i title="微博达人"></i>：就是，西方这破节有什么了不起的，我们天天都过<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p>
+<p>@Lookfor2elephants：愚人节不符合 新闻联播就符合了？？？</p>
+<p>@anthonggg：某党只适合清明节</p>
+<p>@ALL_BLUE：cctv1每晚七点都会着重纪念一下，确实没必要再单独拿出来说了</p>
+<p>@李梦天律师：e租宝事件：证件齐全，两会报道，国家倡导，公安评级，党媒宣传，领导调研，专家站台，央行征信，人保担保……超过18万人被拖入深渊！愚人节只算玩笑，而这TMD的又算什么?！</p>
+<p><strong>@张倔强是个灿烂的小胖子：贪污腐败也不属于社会主义核心价值观怎么那么多贪污腐败呢</strong></p>
+<p><a href="http://weibo.com/1728428493" target="_blank">@春-上村树</a>：进口一吨的奶粉卖出十吨的量就很符合社会主义价值观<img title="[哈欠]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif" alt="[哈欠]" data-recalc-dims="1"><img title="[哈欠]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif" alt="[哈欠]" data-recalc-dims="1"><img title="[哈欠]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif" alt="[哈欠]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1674905161" target="_blank">@咖啡叶子爱评论</a><i title="微博达人"></i>：这一定是一个高级黑的段子<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p>@莎菲安：粮食亩产三万斤好象不是在愚人节发布的吧！</p>
+<p><strong>@我的护球像你爹：只要看对了报纸，愚人节每天都过。</strong></p>
+<p><strong>@大号瘦子：其实跟对了党，愚人节每天都过</strong></p>
+<p>@生姜头姜生：新华社好不容易幽默一次。。。什么，不是开玩笑啊？</p>
+<p>@这不老谁家那小谁吗：社会主义每天都是愚人节好不</p>
+<p>@Mission-zhou：我大天朝天天愚人，就愚人节不许愚人！</p>
+<p><strong>@Nocte1984：“亩产三万六千斤”“我儿子靠的是全额奖学金”，你国，呵呵。</strong></p>
+<p>@林木行云：专门指定一天骗人，骗了人还告诉他今天是骗人的节，太笨了。的确不符合中国社会主义价值观。要骗就得象党媒那样天天骗，骗你防不胜防，骗你没商量，这才是咱们正确的价值观。</p>
+<p>@一个妹想到：他把评论关了就没法传谣了略机智</p>
+<p><strong>附@新华视点 删除微博评论前的截图：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82.png" rel="attachment wp-att-433626"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82.png?resize=475%2C1981" alt="新华视点愚人节" data-recalc-dims="1"></a></p>
+<p>另附@头条新闻 转发后的评论截图：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-433624"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.png?resize=475%2C1951" alt="头条新闻" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%AA%E8%A6%81%E8%B7%9F%E5%AF%B9%E4%BA%86%E5%85%9A%EF%BC%8C%E6%84%9A%E4%BA%BA%E8%8A%82%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%BF%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%A5%BF%E5%8C%97%E5%86%9C%E5%A4%A7%E5%85%B3%E4%BA%8E%E6%8B%9B%E8%81%98%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98%E7%9A%84%E9%80%9A%E7%9F%A5/" target="cdt-mirror">【立存此照】西北农大关于招聘网络评论员的通知</a>
 </h2>
 <p><p>为营造健康、文明的网络舆论生态，牢牢掌握舆论的主动权、话语权，按照学校第16次党委常委会会议要求，决定组建我校网络评论员队伍，现面向全校师生招聘网络评论员，具体如下：</p>
@@ -635,66 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E7%88%B6%E6%AF%8D%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%BF%85%E8%A6%81%E5%8E%BB%E6%B5%B7%E5%A4%96%E6%89%93%E7%96%AB%E8%8B%97%E5%90%97%EF%BC%9F/" target="cdt-mirror">中国父母真的没必要去海外打疫苗吗？</a>
-</h2>
-<p><p><strong><a href="http://finance.sina.com.cn/china/gncj/2016-03-29/doc-ifxqsxic3559411.shtml">新京报｜世卫组织：中国民众没必要赴海外打疫苗</a></strong></p>
-<blockquote><p>兰斯医生表示，有一些中国父母很担心中国的疫苗质量而选择去香港接种。如果发生这样的情况，是因为他们是对大陆的疫苗失去信心。“我们认为家长不用到海外接种疫苗，应该对中国的疫苗有信心。”</p></blockquote>
-<p><strong>世卫组织似乎忘了这样一个事实：在中国，进口7价肺炎结合疫苗(PCV7)已于去年被“断档”</strong>（辉瑞进口证过期，续期申请被拒），<strong>国产PCV7却迟迟不见踪影。目前中国儿童只能接种<a href="http://www.chinanews.com/jk/2016/03-24/7810299.shtml" target="_blank">属“二类疫苗”的</a>国产23价肺炎球菌多糖疫苗，这是一个在世界许多国家已经被淘汰的老版疫苗。</strong></p>
-<p>然而根据中华预防医学会2012年在《中华流行病学杂志》发表的《肺炎链球菌性疾病相关疫苗应用技术指南》（<a href="http://chinaepi.icdc.cn/zhlxbx/ch/reader/create_pdf.aspx?file_no=20121101&year_id=2012&quarter_id=11&falg=1" target="_blank">PDF</a>）¹，“<strong>肺炎是我国5岁以下儿童重要死因</strong>”，且事实证明美国实施PCV7免疫规划1年后，<1岁儿童中疫苗血清型所致IPD的发病率几乎下降了100%(95%CI:87.3%~100%)</p>
-<p>根据2016年2月在学术期刊《BMC公共卫生》发表的《2005至2011年中国上海市的儿童肺炎疫苗覆盖率趋势》（<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736258/pdf/12889_2016_Article_2785.pdf" target="_blank">PDF</a>）²，PPSV23 疫苗有几个缺点：免疫有效期低、<strong>2岁后才可注射</strong>、有效率是60％至70%。从2008年开始在中国使用的PCV7有效率超过90%、接种过程更简单、<strong>6周以上婴儿即可注射</strong>。最后一点优势非常重要，因为该疫苗所预防的侵袭性肺炎链球菌性疾病，<strong>在2岁以下婴幼儿中死亡率是最高的</strong>。</p>
-<p>另外值得一提的是，即使进口PCV7疫苗未被“断档”，但由于<strong>需要自掏腰包且价格昂贵</strong>（约130美元一剂），有许多中国家庭也无法承受。目前国际上肺炎链球菌疫苗的主流基本已普及到比PCV7更先进的PCV13疫苗。</p>
-<p>2015年12月，《财经》其实对肺炎结合疫苗的断档问题做过长篇报道：<strong><a href="http://news.sohu.com/20151221/n432107685.shtml">财经｜中国2岁以下婴幼儿肺炎结合疫苗面临长期断档</a></strong>（<strong>部分）</strong></p>
-<blockquote>
-<h3><strong>疫苗“绝版”</strong></h3>
-<p>与朱易同城的施秩兰带孩子去香港之前，先通过微博和网页搜索到目标医院的电话，做过咨询之后进行了预约。第一次带孩子到境外注射疫苗的施秩兰还是不放心，又在微博上与网名为“疫苗与科学”的专家进行了详细咨询。6月中旬，施秩兰带孩子赴香港医院打肺炎疫苗，体检加接种平均每一针770港元。</p>
-<p>住在哈尔滨的一位妈妈为了儿子免遭肺炎侵害，与朋友组团到香港注射了肺炎疫苗，“往返交通一次大概2万元，两针花了3000港元。”</p>
-<p>带孩子赴港注射肺炎疫苗，并不是一种时尚，而是一种无奈之举。</p>
-<p>从今年上半年开始，<strong>国内唯一针对2岁以下婴幼儿接种的7价肺炎结合疫苗相继在大部分地区缺货，部分仍有存货的私立医院也将注射费用炒至万元以上。</strong></p>
-<p>“断档”的疫苗名为“沛儿”（Prevenar，全称是<strong>7价肺炎球菌荚膜多糖结合疫苗</strong>），由美国辉瑞制药公司旗下的惠氏公司供应。</p>
-<p>辉瑞中国企业沟通部总监席庆瑞接受《财经》记者采访时表示，<strong>由于在中国的进口许可证已经过期，并且提交的续期申请未获得国家食品药品监督管理总局（下称食药监总局）的批准，“沛儿”在中国的供应停滞</strong>，<strong>7价疫苗的替代品13价肺炎球菌结合疫苗在中国仍处于临床注册阶段，该产品上市日期还难以预测。</strong></p>
-<p>7价肺炎结合疫苗（Prevenar-7）与13价肺炎结合疫苗（Prevenar-13），均是针对2岁以下婴幼儿的肺炎球菌结合疫苗。后者是前者的升级版，覆盖了最常见的13种血清型肺炎球菌，覆盖率高达73％，可预防肺炎球菌所引起的疾病，包括肺炎、中耳炎、败血病及脑膜炎等。</p>
-<p><strong>二者共同的敌人肺炎球菌，是2岁以下婴幼儿的健康大敌。</strong></p>
-<p>1881年，科学家分别在法国和美国患者的痰液中分离出肺炎球菌，这种细菌定植于呼吸道黏膜上，可引发侵袭性肺炎球菌疾病和非侵袭性肺炎球菌疾病。</p>
-<p>世界卫生组织（WHO）统计显示，肺炎球菌导致的侵袭性肺炎每年使160万人死亡，其中包括100万5岁以下的儿童。它也是导致中国儿童和老年人发病和死亡的重要病原菌之一。中国1月龄至59月龄儿童每年有174万例肺炎球菌疾病，其中3万例死亡。</p>
-<p>由于幼儿免疫功能不完善，患上肺炎的几率很大，且重症肺炎病例多，致死率也很高，相比较大年龄段的孩子来说，在婴儿阶段，由肺炎链球菌引起的细菌感染性肺炎发病率更高。</p>
-<p>北京武装警察部队总医院的一项研究显示，研究人员对2007年1月至2009年1月儿童下呼吸道感染的痰及咽拭子培养结果进行分析，发现肺炎球菌的检出率为15.64％，是最常见的病原菌。</p>
-<p>在疫苗出现之前，人类对于肺炎球菌只能被动治疗。<strong>但如今，肺炎球菌对目前抗菌药物产生了耐药性，在5岁以下儿童和65岁以上老龄患者中，肺炎球菌性疾病的病死率仍高达50％。</strong></p>
-<p>Prevenar-7的面世，是预防该疾病的一个重要里程碑，它于2000年在美国获得美国食品药品管理局（FDA）批准上市，同一年入选儿童免疫规划。2008年10月，Prevenar-7登陆中国，取名“沛儿”，全国近60个城市的疫苗接种点可以接种。</p>
-<p>然而，自从2014年1月份最后一批7价肺炎疫苗之后，惠氏再也没往国内出过货。最后一批7价疫苗将在2016年5月以后过期，如果没有相应的措施，届时全国2岁以下的儿童将没有肺炎疫苗可打，<strong>而这种状态有可能持续四到五年</strong>。</p>
-<p>“沛儿”的注册证于2013年5月12日到期，<strong>辉瑞公司于2012年11月就提交了进口再注册申请，未获批准</strong>。席庆瑞在接受《财经》记者采访时未透露再注册未获批的原因，并表示辉瑞中国已经在今年上半年撤掉了“菲儿”在中国的营销团队。</p>
-<p>一位不愿具名的业内人士对《财经》记者分析的原因是，食药监总局认为现在各国已经普遍在使用13价疫苗，再注册7价疫苗意义不大。</p>
-<p>辉瑞的13价肺炎结合疫苗已经在120多个国家普遍使用，完全可以进入中国市场来取代7价疫苗。不过，按程序，13价肺炎结合疫苗进入中国市场前还得做三期临床试验。席庆瑞称，在准备进入国内市场后，<strong>13价疫苗的临床试验从2012年便开始进行了，“目前还没有一个明确的时间表”。</strong></p>
-<p><strong>对此，一位免疫系统人士分析，食药监总局拒绝“沛儿-7”的合格证书再申请，并迟迟不予批准“沛儿-13”疫苗，或许是要为国产13价肺炎疫苗争取时间。</strong></p>
-<h3><strong>国产无期</strong></h3>
-<p><strong>在很长一段时间，中国疫苗研发企业难以在肺炎结合疫苗上有所建树</strong>。不同于普通化学药品的研发，肺炎疫苗是一个高技术、高投入、高风险的领域。</p>
-<p>目前，肺炎球菌疫苗有两种工艺：第一种是多糖工艺疫苗，就是用肺炎球菌细胞壁表面的多糖做的疫苗，比如默沙东生产的23价肺炎球菌多糖疫苗，覆盖了90％的侵袭性肺炎球菌血清型，但对婴幼儿效果不好，因为他们的免疫系统尚未发育成熟；第二种便是结合工艺疫苗，是把细菌细胞壁表面多糖和蛋白载体结合，这种疫苗适用于全人群，弥补了多糖疫苗对婴幼儿效果不佳的遗憾。</p>
-<p>上海市疾病预防控制中心免疫规划科主管医师陶黎纳分析，结合疫苗针对的菌型越多，保护效果就越好，但其副反应可能越大，技术难度和生产成本也越高。“每个菌型的多糖成分性质上都略有差异，那么多型别要结合一个蛋白质或者载体，温度、时间、PH值不一样，都会有很大的差异，需要反复调整。即使是单个型别成功了，合在一起又是另外的技术难题。”</p>
-<p>13价肺炎球菌结合疫苗正是世界上最复杂的疫苗之一，该疫苗的制备过程包含13种血清型多糖、1种或多种载体蛋白的培养及纯化。</p>
-<p>“13价肺炎球菌结合疫苗开发过程中在制备工艺、质量控制、临床前动物上的免疫效果评价和临床效果评价等方面都有一些技术难点，并且各个阶段工作量都很大。只有有限几个公司能够开发。” 北京科兴生物技术有限公司的研发总监高强接受《财经》记者采访时表示。</p>
-<p>国内有四家企业研发的13价肺炎疫苗已进入临床申报程序，北京民海生物科技有限公司、北京科兴生物制品有限公司、云南玉溪沃森生物技术有限公司、兰州生物制品研究所有限责任公司先后获得食药监总局颁发的《药物临床试验批件》。</p>
-<p>然而，在陶黎纳看来，<strong>尽管取得了临床批件，距离产品上市至少还需要五年的时间</strong>。</p>
-<p>按照国内疫苗上市的流程，研发企业在获得临床批件后，要在三年内开展I期—III期临床研究；在临床试验通过后，进行试生产与正式生产、完善生产工艺和质量标准及其检定方法后，申请生产批件，同时按有关规定完成临床试验、制品长期稳定性研究和国家食药监总局要求进行的其他工作。</p>
-<p>之后，疫苗企业需要申请GMP证书、产品批签发证书，若产品上市后有工艺变更还要进行备案或者补充申请；在产品上市销售后，还要进行IV期临床研究与ADR不良反应监控。</p>
-<p>肺炎疫苗产品本身的工艺复杂，批间差异较难控制，而且疫苗成分相比一般疫苗要复杂，发生一般性副反应的几率也大。这些都会给药监部门带来很大的监管压力，从临床、生产批文、GMP到批签发，每一步都可能会比一般的疫苗品种走得更为艰难。</p>
-<p>上述业内人士也称，<strong>难以预测中国儿童什么时候能注射上国产的13价肺炎疫苗</strong>。“在中国，即便拿到生产批件，与有生产能力是两回事；看到临床受理，公众就更没有必要那么激动，肺炎疫苗的产业化还有很长的路要走，且远比一般疫苗品种的路要长得多。”</p></blockquote>
-<p><strong>注1：</strong>《<a href="http://chinaepi.icdc.cn/zhlxbx/ch/reader/create_pdf.aspx?file_no=20121101&year_id=2012&quarter_id=11&falg=1" target="_blank">肺炎链球菌性疾病相关疫苗应用技术指南</a>》(PDF)，刊登于《中华流行病学杂志》2012年11月第33卷第11期</p>
-<blockquote><p>肺炎链球菌主要通过呼吸道飞沫直接传播或由定植菌导致自体感染。肺炎链球菌可局部播散到鼻窦或中耳导致感染,吸入下呼吸道导致肺炎。当细菌侵入血液循环,伴或不伴其他部位播散繁殖,则可引起侵袭性感染,导致侵袭性肺炎链球菌性疾病(invasive pneumococcal diseases,IPD)。</p>
-<p>[…]中国肺炎链球菌性疾病负担:<strong>肺炎是我国5岁以下儿童重要死因</strong>。依据2011年中国妇幼卫生事业发展报告,肺炎位列我国5岁以下儿童死因的第二位。肺炎链球菌是中国儿童社区获得性肺炎的主要病原体。北京、合肥、兰州、上海、昆明等城市多个临床研究均显示,肺炎链球菌是肺炎或呼吸道感染患儿的首位细菌性病原,约占11%~35%。北京儿童医院1953~2002年对断续收集的202例肺炎死亡5岁以下儿童的肺组织进行检测,其中57%存在肺炎链球菌感染,显示肺炎链球菌是我国儿童肺炎致死的重要原因。</p>
-<p>[…]应用效果:美国实施PCV7免疫规划1年后,<strong><1岁儿童中疫苗血清型所致IPD的发病率几乎下降了100%(95%CI:87.3%~100%)</strong>;3年后,在<1岁儿童及20~39岁和>60岁人群中观察到的全部IPD(含非疫苗血清型)发病率分别下降了84%、52% 和27%。后续监测发现,<strong>实施PCV7免疫规划2年后,5岁以下儿童全部IPD发病率下降75%</strong>。分析认为,可能是接种PCV7减少了肺炎链球菌的鼻咽携带和传播,因而使未接种人群IPD的发病率也出现了下降,即所谓的“间接免疫”或“群体免疫”现象。在美国,<strong>疫苗预防的IPD中约68%可归功于上述“间接效应”</strong>。</p></blockquote>
-<p><strong>注2：</strong>《2005至2011年中国上海市的儿童肺炎疫苗覆盖率趋势》（<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4736258/pdf/12889_2016_Article_2785.pdf" target="_blank">Trends in childhood pneumococcal vaccine coverage in Shanghai, China, 2005–2011: a retrospective cohort study；PDF版</a>），刊登于《BMC公共卫生》2016年2月<br><em>作者：Boulton ML, Ravi NS, Sun X, Huang Z, Wagner AL.</em></p>
-<blockquote><p>The PPSV23 vaccine is produced domestically in China and costs approximately 23 US dollars whereas the PCV7 vaccine is imported and costs approximately 130 US dollars per dose (the pneumococ- cal conjugate vaccine is priced similarly in the United States [10], though it is covered by insurance). Although cost is likely to be barrier to pneumococcal vaccine uptake for everyone in China, it may be particularly problematic for the non-local population in China, who are sometimes known as the “floating population,” and whose presence is rapidly growing in most urban areas of the country [11].</p>
-<p>大意：PPSV23在中国生产，价格约为23美元，PCV7只有进口版，价格为130美元一剂。费用很可能成为肺炎疫苗在中国无法普及的原因，对大城市里越来越多的非本地户口家庭来说问题更严重。</p>
-<p>The 23-valent pneumococcal poly- saccharide vaccine (PPSV23) has been available in China since 1996 and has several drawbacks: it only elicits short- term immunity, cannot be administered until 2 years of age, and has a lower efficacy ranging from 60 to 70 % at preventing IPD [3, 4]. The 7-valent pneumococcal conju- gate vaccine (PCV7) was introduced to China in 2008, al- though it was pulled off the market in 2015 because its import license expired [5]. It protects against fewer sero- types, but has better efficacy (>90 %) , and it can be administered earlier, at 6 weeks of age [4]. This moves up the timeline of protection and represents a major advan- tage over the PPSV23 since the incidence rate of IPD is highest in children</p>
-<p>大意：从1996年开始在中国使用的 PPSV23 疫苗有几个缺点：免疫有效期低、2岁后才可注射、有效率是60％至70%。从2008年开始在中国使用的PCV7有效率超过90%、接种过程更简单、6周以上婴儿即可注射。最后一点优势非常重要，因为该疫苗所预防的侵袭性肺炎链球菌性疾病，在2岁以下婴幼儿死亡率是最高的。2015年，PCV7由于在中国进口证过期而被下架。</p></blockquote>
-<p><strong>世卫组织也姓党？</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E5%9B%BD%E7%88%B6%E6%AF%8D%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%BF%85%E8%A6%81%E5%8E%BB%E6%B5%B7%E5%A4%96%E6%89%93%E7%96%AB%E8%8B%97%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87/?category=18271" rel="tag">世卫组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +683,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%AB
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

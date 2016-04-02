@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,143 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A2%A8%E5%82%B3%E5%AA%92%EF%BD%9C%E9%99%B3%E6%98%AD%E5%8D%97%EF%BC%9A%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82%E6%8B%9A%E6%AF%94%E7%9A%84%E6%98%AF%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1%E4%B8%8D%E6%98%AF/" target="cdt-mirror">風傳媒｜陳昭南：兩岸關係拚比的是民主自由不是經濟！</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?resize=550%2C366" alt="xj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+兩岸和平很重要，但台灣人民所要的不過就是民主而已。只是，掌權者們能夠理解嗎？（美聯社）</p>
+<blockquote><p>「中國的缺點就是缺乏民主，應在所有領域貫徹民主」</p>
+<p>——1944年6月12日毛澤東答中外記者團</p>
+<p>我們很需要統一，但是只有建築在民主基礎上的統一，才是真統一。國內如此，新的國際聯盟亦將是如此。只有民主的統一，才能打倒法西斯，才能建設新中國與新世界。我們贊成大西洋憲章及莫斯科、開羅、德黑蘭會議的決議，就是基於這個觀點的。我們希望於國民政府、國民黨及各黨派、各人民團體的，主要的就是這些。中國共產黨所已做和所要做的，也就是這些。</p>
+<p>——《解放日報》1944年6月13日</p></blockquote>
+<p>3月4日一封《要求習近平同志辭去党和國家領導職務》的公開信登載在中國官方網站《無界新聞》。</p>
+<p>這封公開信署名「中共忠誠的黨員」書寫發表，信中直陳習近平當政以來，許多錯誤決策，信尾呼籲習近平「辭去所有的黨和國家的職務，讓黨中央及全國人民另選賢能，帶領我們積極進取，走向未來。」</p>
+<p>此事若發生在台灣，頂多可能會在網上流傳幾天，鄉民跟著吐槽一陣子，然後就沒有然後了。台灣網絡天天都有馬英九自己沒事找事惹來的新議題，讓網絡鄉民一起噴口水一起自爽幾番。近些日，一個浩鼎股票買賣案也可以隨大家高興無限上綱到總統當選人小英家人；而柱柱姐3月26日才剛選上國民黨主席，網民們就開始唱衰國民黨；所有的所有都是憲法保障的言論自由範疇，這對台灣的我們不都是早已習以為常了嗎？</p>
+<p><strong>公開要求國家領導人辭職算不算是言論自由？</strong></p>
+<p>但是在中國，公開要求國家最高領導人辭職，這可是天大地大的忤逆叛亂罪。所以中共政法委書記孟建柱親自出馬偵辦此案，並指派公安部副部長大陣仗處理。你可以視為中國政法與公安系的領導們輸誠效忠的表現，但倒楣的小民們可就遭殃了。據英國廣播公司（BBC）稍早的報導，在呼籲習近平辭職的公開信發表後，目前已有20人被「帶走」。事情才剛開始，究竟還要有多少人會被「自願帶走」仍在未定之天。</p>
+<p>這讓我記起台灣一起發生在50年前的白色恐怖真實案件。高雄有位高中生喜歡畫漫畫，他一時興起畫了一對父子佇立在汪洋海灘上，標題是「望洋興嘆！」。當時沒有網路，他只是把這幅漫畫拿到學校跟同學分享，三天後的深夜，他在睡夢中被帶走了，自此不知去向。有傳言說他因涉及叛亂罪被抓走，也有說他因大逆不道被槍決了。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fn.jpg?resize=551%2C371" alt="fn" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fn.jpg?resize=300%2C202 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fn.jpg?resize=768%2C516 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fn.jpg?w=800 800w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
+疑因涉及公開信風暴，中國媒體人賈葭一度「失蹤」。（賈葭Facebook）</p>
+<p>還有一則真實事件，基隆有位以織補擺攤的小兒麻痺症青年，也是在某個深夜裡被帶走。這事發生在40年前（1971年）。經過閉門審訊後警總軍事法庭依叛亂罪判他7年徒刑。事由是：他在公共廁所的牆壁上書寫「毛主席萬歲」五個大字。事實是，這未滿20歲的殘障青年根本沒進學校所以不識字。</p>
+<p>台灣轉型正義正在風起雲湧，千萬種國家暴力機器侵犯人權的類似案例真相終會被一一挖掘出來。可是當年威權統治下的這樣不公不義的荒謬行為，於今都已來到21世紀了，中國卻還刻正在繼續發生中。</p>
+<p>所以當我們在談兩岸、在談統獨、在談維持現狀、在談「九二共識、同屬一中」時，請問，你可曾把兩岸間的這些「人權」與「民主」差異現象充分考慮在內？</p>
+<p>台灣人的「維持現狀」就是「不接受統一」選項。</p>
+<p>所以兩岸關係的論述重心應該在於：台灣人民為何不願意接受統一？</p>
+<p>答案很清楚：因為是中國的不民主，更因為是中國的反人權，是因為中國無限制的國家暴力，所以我不願意被中國統治，所以我不支持統一。</p>
+<p>又或者把這題目倒過來問：有何理由要我支持統一？</p>
+<p>這答案也可以簡化為：因為我不願意去支持一個嚴重反民主反人權，到現在還是黨國威權統治的國家政府。</p>
+<p>笨蛋，兩岸問題拚比的是民主不是經濟</p>
+<p>如果你單用一頂民族大義的帽子硬要扣下來，我相信在台灣大多數人都會避之惟恐不及。復興中華的「中國夢」訴求對中國人民也許有用，因為13億人民無所選擇，他們基本就只能是接受與不接受的0／X是非題而已。</p>
+<p>民族概念的形成是基於命運與希望共同彼此緊繫的一種自然感情。當權者偶一為之，可能會讓社會的整體情緒有所抒發，有益於民心的凝聚。但中國政權百年來卻樂此不疲，反複操弄，一再以此廉價情緒作為人民社會動員的工具，特別是抗日仇日以及反美反帝的民族尊嚴刺激。當年兩蔣在台灣也猶然是以此為基調天天教導人民「反共抗俄」並配合高壓統治手段，台灣人民被迫陽奉陰違，不得不跟著威權體制高喊「反攻大陸」或「殺朱拔毛」乃至後來的「三民主義統一中國」，難道這就代表當時台灣人民都支持兩岸統一嗎？難道高舉「復興中華」旗幟時都真心誠意自認是炎黃子孫嗎？沒有民主的民族根本就是個噩夢，不是嗎？</p>
+<p>為了追求中國統一而要求人民必須犧牲「民主」與「人權」，這是反人性的；為了復興中華，人民就無可選擇的要去接受至高無上的威權領導與暴力統治，這更是法西斯的妖魅魔咒！</p>
+<p>台灣的文字保留著華文承傳之美；台灣的佛道寺廟備受人民膜拜；台灣的清明掃墓和年節團圓都遠比大陸更具虔誠之禮；台灣人民生活中處處可見華人世界的傳統精粹（好的壞的一起來）。然而就因為有人要把孫中山或蔣介石的遺像銅像泥像搬開來，國共兩黨就同聲嚴厲指控台灣綠色執政去「中國化」？試問關公媽祖能去得了嗎？沒看見孔廟祭典年年行禮如儀嗎？鄭成功雕像有誰會想要去搬動？最具中華文化象徵地位的故宮文物又有誰敢倡言要去搗毀？</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/tx.jpg?resize=551%2C367" alt="tx" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/tx.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/tx.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/tx.jpg?w=800 800w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
+孫中山與蔣介石銅像在台灣社會爭論未歇。（取自總統馬英九臉書）</p>
+<p>中共力行「去中國化」更甚於台灣千百萬倍</p>
+<p>反觀中國大陸，從「破四舊」開始到「三反五反」再到「文化大革命」，有誰比中國共產黨更力行「去中化」的？那可是動員一整個世代長達半個世紀在搞「去中國化」大運動喔！被毀的古蹟、寺廟、被迫害殘殺的華學大儒名碩、被鬥爭遊街的親情父子孝道等等等，兩相比較，誰才真正在玩「去中化」的政治遊戲？誰才是背棄中華文化的罪人？誰才是數典忘祖的不肖華人後裔？</p>
+<p>官大學問大，權大音量大，今天中共政權可以以大國之尊頤指氣使的指東指西，但歷史的帳目豈是當權者可以任意抹滅的？</p>
+<p>國民黨為何會敗亡？在一個理字上他就已經很難誠實面對台灣人民了！一旦民主取代威權，歷史就會回頭來清理舊帳，歷史就會翻起過往曾經而還其真相。</p>
+<p>國民黨人從來就不敢誠實面對自己猙獰的既往。只需認真看看所謂「國共平台」，兩方人馬站出來所放言高論的言詞間，究竟有多少真誠的「民主」與「民意」？</p>
+<p>國民黨的威權體制在台灣勢不可擋的民主聲浪中被片片剝離，於是就轉到北京告狀說綠營不斷在「去中國化」，然後中國共產黨也迎風起舞跟著嚴厲指控台灣「去中國化」，兩方蓄意把真實情境混淆模糊。其實台灣近些年的民憤只不過是「去威權化」罷了：一切代表威權的不公不義的表徵都讓人民不悅，都欲除出之而後快。問題就出在國共兩黨都具備高單位的威權基因，既然不能義正詞嚴地譴責台灣的「去威權化」，便只能任意冠之為「去中國化」。這也算是中國民族歷史最典型傳統的「莫須有」喔！</p>
+<p>台灣人民今天會超過75%拒統，真正的主因在於資訊快速流通。發生在中國土地上的任何反人權反民主真相，在網絡資訊的年代裡，任何政權再也無法隻手遮天，縱令中共媒體全都姓黨，也一樣擋不住躲在針縫間鐵壁間的民主暗流。畢竟這已是21世紀，畢竟人類已跨步進入到工業4.0的年代裡了。</p>
+<p>共產黨的恐怖統治還是比國民黨強了20倍</p>
+<p>國民黨於1945年10月17日接收台灣，1947年2月28日即發生台灣人最傷最痛的228事件，不分本省外省成千上萬人民慘遭國民黨軍隊屠戮。距離接管台灣的時間僅不到1年半而已，台灣即全面陷入白色恐怖的統治中，這正是台獨主張的原始肇因。</p>
+<p>而香港於1997年回歸共產黨管轄。一國兩制的承諾言猶在耳，2016年卻爆發「魚蛋革命」，然後開始出現港獨意識與主張，是因為香港居民缺乏大中國民族意識嗎？抑或是港人再已無法忍受「不民主」的香港生活呢？</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/mts.jpg?resize=551%2C369" alt="mts" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/mts.jpg?resize=300%2C201 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/mts.jpg?resize=768%2C515 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/mts.jpg?w=800 800w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
+2016年2月8日深夜，香港爆發大規模警民衝突。（美聯社）</p>
+<p>國民黨只接管台灣一年四個月就出大事，而中共接收香港至少還拖了近20年才出現分離聲音，兩相比較，顯然共產黨的統治手段遠比國民黨高明太多了。</p>
+<p>設使，中共哪一天突然想開了肯放手讓公正的民調公司在大陸進行正規民意調查，不難想像中國人民對民主與人權的渴望會有多少比例？中國人民對公義與言論自由的翹企有多高多深？</p>
+<p>兩岸關係的難題其實在民主生活而不是民族尊嚴</p>
+<p>所以兩岸問題的真正談判是真正內涵在民主而不是民族。</p>
+<p>小英在選後一次專訪中強調：「台灣是民主社會，民意與民主，是政府處理兩岸政策的兩大支柱，如果悖離民意與民主，就難以穩固長久，甚至可能會失去民心。我們堅持依循普遍民意，堅持遵循民主原則，堅持確保台灣人民對於未來的選擇權，這就是新政府跟馬政府最大的不同。」</p>
+<p>小英是民選總統，是依據中華民國憲法而當選，所以她的任何施政都必須優先考慮到憲法規範的人民權利與義務。她未來的兩岸政策當然也必須依從民意而為。這就是民主的真正核心價值。</p>
+<p>3月21日小英在中國時報獨家專訪中再又清楚表達了：「期待大陸方面可以運用這個機會，再展現一些善意。」</p>
+<p>但更重要是這專訪的後一段話：「這些善意倒也不是展現給我看，是給台灣人民看，因為台灣畢竟是民主社會，人民的意見是最重要的。」</p>
+<p>只有台灣人民願意傾聽、願意感受、願意接受北京政權所開列的條件時，她作為執政者才會根據這樣的民意去提示她的兩岸政策。</p>
+<p>權力是向人民借來的，國共平台都聽不懂</p>
+<p>所以，北京光是展開獼猴戰術四面八方放開大喇叭要強迫小英接受「九二共識、同屬一中」都會是徒然。這話已經說得夠明白了，北京真正該認真的事應該將重心放在「台灣民意」上，所有的善意都必須是要讓人民感覺得到才有用。習ㄉㄉ也喜歡強調，兩岸間不要傷害人民的感情，兩岸要緊密連結人民的感情等等很具智慧的教條，可惜，說得好聽並不代表做的就會是好事，中共經常性強力打壓台灣的感覺一直都在刺痛台灣人民的心，也一直都在傷害台灣人民的感覺，台灣人民只會認為中共欺人太甚，好感何來？</p>
+<p>國民黨是相信金錢萬能的，因為她擁有無比鉅額的黨產可供權貴們揮霍。2000年連戰一個總統選舉即可耗掉120億台幣，選舉結果只開出不到300萬張選票（得票率只占23.1%，比朱立倫更慘）。共產黨其實也一樣迷信金錢萬能，聽從著國民黨建議「買台灣比打台灣便宜許多」，於是國共合作開始大玩「以經促統，錢進台灣」的買辦遊戲，結果就是2016年讓國民黨穿上美國西裝——「大輸」，共產黨迷信的「先經後統」也就功虧一簣。</p>
+<p>假設，只是假設，習近平有勇氣啟動政治改革，讓中國徹底實施民主化，而且也像台灣一樣是人民當家做主民意高於黨意，而習近平跟蔡英文一樣時時刻刻謙卑傾聽人民聲音，這時候，你再來問台灣人民要不要支持統一，或許你就不會像現在這麼失望了！</p>
+<p>當然，這可能已是幾十年後的事了。也或者說僅只是與虎謀皮自我解嘲的白日夢囈語！</p>
+<p>兩岸和平很重要，但台灣人民所要的不過就只是民主而已。</p>
+<p>＊作者曾任第二、第四屆立法委員、民進黨中央黨部組織部主任、民進黨中常委、2016全國農田水利會小英後援總會執行長</p>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A2%A8%E5%82%B3%E5%AA%92%EF%BD%9C%E9%99%B3%E6%98%AD%E5%8D%97%EF%BC%9A%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82%E6%8B%9A%E6%AF%94%E7%9A%84%E6%98%AF%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1%E4%B8%8D%E6%98%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9D%8E%E6%B3%A2%E6%8E%A5%E5%8F%97%E3%80%8A%E6%98%8E%E9%95%9C%E3%80%8B%E4%B8%93%E8%AE%BF-%E6%8B%92%E7%BB%9D%E4%BB%8D%E9%80%8F%E9%9C%B2%E5%A6%82%E4%BD%95/" target="cdt-mirror">自由亚洲｜李波接受《明镜》专访 拒绝透露如何“以自己方式返回内地”详情</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg" rel="attachment wp-att-433702"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg?resize=450%2C600" alt="有读者在李波返港后到铜锣湾书店买书却遭闭门羹(忻霖提供)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg?w=622 622w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p>有读者在李波返港后到铜锣湾书店买书却遭闭门羹(忻霖提供)</p></div>
+<p>香港铜锣湾书店股东李波偷渡回中国内地协助调查事件，至今仍有不少谜团未解。李波日前接受海外华文媒体《明镜邮报》的访问时，仍拒绝透露他如何自香港返回内地以及是否有人陪同。</p>
+<p>铜锣湾书店股东李波上周自大陆回香港销案后，不到24小时又返回大陆，引发外界更强烈的质疑。日前，经常报道中共“秘闻”的海外华文媒体《明镜邮报》通过电话采访李波。李波在采访中表示，曾有人接触他，询问其意愿，是否愿意返回内地，而他为解决有员工出事，遂在朋友安排下，自愿偷渡回内地，但不方便透露如何回去及由谁人陪同。对于有传言说他是被人绑架上货车回到中国内地，他也澄清并无此事。就林荣基尚未回港，李波指他应已获保释，但出于家庭因素而不回香港，并表示不清楚瑞典籍书店股东桂民海目前的状况。</p>
+<p>他在采访中也表示，希望能放弃英国国籍，目前正了解相关程序。他称英国国籍对他而言，只是旅行证件，因患自闭症儿子需在港生活，不可能移民到陌生国家。</p>
+<p>明镜的报道还说，从可靠渠道获悉，有香港人劝说并陪同李波返回大陆协助调查，坐＂大飞＂（走私艇）前往深圳，因此中国内地的公安并没有直接到香港抓李波。但这则消息，并未得到李波或中国官方确认。</p>
+<p>而就在几天前，李波又向传媒提供两张“街头自拍照”，以证自己又回到香港。他在脸书上贴文称︰“自由自在，没有人干扰，生活一如往常，真开心！”</p>
+<p>立法会议员梁国雄接受本台采访时称，这只是作秀而已：</p>
+<p>“这是作秀，如果他真的离开香港这么久，回到香港根本就没有理由在一天就回去。他知道传媒的关心，知道香港人很担心他，他在香港有很多的朋友和亲人，按理说应该留比较长的时间。几乎可以肯定这是一个安排，尽量把他留在香港的时间减到最低，防止他作秀穿帮。”</p>
+<p>港大法律学院前院长陈文敏在香港《明报》撰文分析，事件需要厘清的问题包括，李波返港后一再强调自己是自愿返回大陆，“为何对如何返回内地却要三缄其口，一点详情也不肯透露？柴湾仓库的闭路电视拍摄到他当日从书店仓库被人带上货车离去，为何这一点他也要否认？”而大陆警方要李波协助调查，可光明正大要求香港警方提供协助，又为何要他用自己的方式返回？“更毋须要18天之后才能向香港警方确认李波身在内地”。</p>
+<p>多次举行声援铜锣湾五子行动的香港支联会副主席蔡耀昌分析说，被指或是铜锣湾事件策划者的护送李波的神秘男人身份到目前仍未能确定，而官方也未能发布另一股东林荣基的消息，仍未能释除港人疑虑。他说：</p>
+<p>“李波在香港的整个过程也有一个神秘的人一直在他旁边，这个人我们觉得很有可能就是来自内地相关的部门。李波说他还要回去进行(配合)调查，调查肯定是内地等有关部门，所以我们看到李波现在还是不自由的。这件事情没有完全结束。另外一个让我们担心的是林荣基，另外一个铜锣湾书店的经理，到现在都还没能回来香港，什么原因呢？确实令我们很担心。”</p>
+<p>尽管李波早前在大陆接受传媒访问时表示会放弃英国国籍，但李波上周返港时英国外交部发言人指，李波非自愿返回内地，严重违反《中英联合声明》，英方继续呼吁完全恢复李波自由，并随时准备为李波及其家人提供领事协助，并敦促中国及特区政府确保一国两制的实施。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9D%8E%E6%B3%A2%E6%8E%A5%E5%8F%97%E3%80%8A%E6%98%8E%E9%95%9C%E3%80%8B%E4%B8%93%E8%AE%BF-%E6%8B%92%E7%BB%9D%E4%BB%8D%E9%80%8F%E9%9C%B2%E5%A6%82%E4%BD%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%B3%E6%9D%83%E5%8F%98%E6%95%8F%E6%84%9F%E8%AF%8D%EF%BC%8C%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E8%BF%99%E6%98%AF%E8%A6%81%E5%B0%81%E6%9D%80%E5%A5%B3%E6%9D%83%EF%BC%9F%EF%BC%81/" target="cdt-mirror">女权之声｜“女权”变敏感词，新浪微博这是要封杀女权？！</a>
+</h2>
+<p><p><strong>微信公号：女权之声（ID: genderinchina）</strong></p>
+<p>女权账号无故被注销，新的账号无法以“女权”两字注册。这不是愚人节玩笑，而是现在正发生在新浪微博上的事。</p>
+<p>几天前，一个女权微博账号@女权行动派更好吃 发现自己被无故被销号了。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B701.jpg" rel="attachment wp-att-433659"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B701.jpg?resize=500%2C142" alt="640女权帐号01" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640女权帐号01.jpg?resize=300%2C85 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640女权帐号01.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>她们猜测这或许与前段时间发布“地铁众筹反性骚扰广告”的信息有关。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B702.jpg" rel="attachment wp-att-433660"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B702.jpg?resize=475%2C370" alt="女权帐号02" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号02.jpg?resize=300%2C234 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号02.jpg?w=640 640w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
+（☞ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MzY0Njc0MQ==&mid=403957194&idx=1&sn=04cc1fc5ec9c3044506cca4aecca48d0&scene=21#wechat_redirect" target="_blank">这些姑娘想要占领地铁，让更多人知道制止公共场所性骚扰人人有责</a>）</p>
+<p>但她们不是唯一被消失的女权账号。</p>
+<p>在3月30日她们公布这则消息后，新浪微博上活跃的另一个女权账号@AntiPETD女权博士组织 也发现自己的账号异常，无法再登录。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B703.jpg" rel="attachment wp-att-433661"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B703.jpg?resize=405%2C719" alt="女权帐号03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号03.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号03.jpg?resize=577%2C1024 577w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号03.jpg?w=640 640w" sizes="(max-width: 405px) 100vw, 405px" data-recalc-dims="1"></a></p>
+<p>感到莫名其妙的@女权行动派更好吃 想到了申诉，然后得到的回复是这样的！</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B704.jpg" rel="attachment wp-att-433662"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B704.jpg?resize=476%2C331" alt="女权帐号04" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号04.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号04.jpg?w=640 640w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></a><br>
+“发布有害信息等违规行为”？？？</p>
+<p>这是一个专业安利女权的账号。难道<strong>是这世道变了？发布女权消息＝“发布有害信息等违规行为”啦？</strong></p>
+<p>同为女权账号，@女权之声的编辑不安地检查了一下自己的账号：目前还在。</p>
+<p>新浪微博无故删帖、封号已经上演过很多次。但这一次，删号还不是最可怕的事。</p>
+<p>当@女权行动派更好吃 试图重新注册时竟发现：<strong>昵称里只要出现“女权”两个字，新浪微博它就是拒绝的！</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B705.jpg" rel="attachment wp-att-433663"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B705.jpg?resize=500%2C415" alt="女权帐号05" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号05.jpg?resize=300%2C249 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号05.jpg?w=534 534w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B706.jpg" rel="attachment wp-att-433664"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B706.jpg?resize=500%2C569" alt="女权帐号06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号06.jpg?resize=264%2C300 264w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号06.jpg?w=585 585w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>并非所有的“权”都通不过。</p>
+<p>还有人试了“人权”、“平权”、甚至“男权”……但只有“女权”通不过。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B707.jpg" rel="attachment wp-att-433670"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B707.jpg?resize=500%2C608" alt="女权帐号07" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号07.jpg?resize=247%2C300 247w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号07.jpg?w=537 537w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B708.jpg" rel="attachment wp-att-433671"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B708.jpg?resize=475%2C2105" alt="女权帐号08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号08.jpg?resize=231%2C1024 231w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号08.jpg?w=564 564w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
+（图：微博@黄詺）</p>
+<p>不仅是新注册的微博，已有的微博账号如果想改名为“女权”，也是通不过的；个人标签里如果有“女权”二字，也是不予显示的。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B709.jpg" rel="attachment wp-att-433665"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B709.jpg?resize=336%2C191" alt="女权帐号09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号09.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号09.jpg?w=336 336w" sizes="(max-width: 336px) 100vw, 336px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png" rel="attachment wp-att-433672"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png?resize=525%2C50" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png?resize=300%2C29 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png?w=534 534w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>“女权即人权”，新浪微博，难道这个问题你不懂吗？“人权”可以谈，为什么“女权”就“违规”？“违”的是什么“规”？查了一下，这些内容，真不知道该怎么对号入座。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B710.jpg" rel="attachment wp-att-433666"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B710.jpg?resize=575%2C304" alt="女权帐号10" data-recalc-dims="1"></a></p>
+<p><span>于是@女权行动派更好吃 把自己的微博名中的“女权”改为了“女木又”。</span></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B711.jpg" rel="attachment wp-att-433667"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B711.jpg?resize=550%2C391" alt="女权帐号11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号11.jpg?resize=300%2C213 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号11.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B712.jpg" rel="attachment wp-att-433668"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B712.jpg?resize=400%2C710" alt="女权帐号12" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号12.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号12.jpg?resize=577%2C1024 577w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号12.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>然而这个账号今天再一次消失了。。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B713.jpg" rel="attachment wp-att-433669"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B713.jpg?resize=475%2C297" alt="女权帐号13" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号13.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号13.jpg?w=534 534w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p>“女权”也变成了敏感词，到底在怕什么呢？</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83.png" rel="attachment wp-att-433673"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83.png?resize=525%2C601" alt="女权" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?resize=262%2C300 262w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?resize=768%2C879 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?resize=894%2C1024 894w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?w=1848 1848w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>女声整理，部分来自微信公号“女权行动派很好吃”被删文章《“女权”二字不能提？“女权行动派更好吃”微博遭封，被迫换马甲》</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%B3%E6%9D%83%E5%8F%98%E6%95%8F%E6%84%9F%E8%AF%8D%EF%BC%8C%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E8%BF%99%E6%98%AF%E8%A6%81%E5%B0%81%E6%9D%80%E5%A5%B3%E6%9D%83%EF%BC%9F%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">女权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BE%AE%E5%8D%9A%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E7%8E%A9%E7%AC%91%EF%BC%9F/" target="cdt-mirror">迷の国社：新华视点愚人节微博到底是不是玩笑？</a>
 </h2>
 <p><p>@新华视点于2016年愚人节<a href="http://weibo.com/1699432410/DoUipcOni" target="_blank">所发的微博</a>到底是不是玩笑？评论中，大多数网民认为@新华视点 是认真地在传播正能量，但该微博最后所附的一个微笑脸到底是不是在暗示这其实是个玩笑？如果是的话，删评论是不是代表这个玩笑引来了意想不到的后果？</p>
@@ -545,109 +679,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平 | 我的声明：自由没有交易</a>
-</h2>
-<p><p>今日确认，我的家人均已离开派出所。但我的父亲和两个弟弟并未自由，而是取保候审，为此交纳数万元保证金。在当局控制一切资源的情况下，我对所谓祭祖失火案无力调查，因此对以此为名的取保候审不予置评。</p>
-<p>据我了解，在办好取保候审手续之后，我的父亲和弟弟们又被警方叫回，不是为了调查案件，而是安排他们接受记者采访，并炮制所谓个人声明。对此我表示强烈谴责。已经和即将刊播的采访及声明，均是在警方胁迫之下的表演，是进一步将我的家人作为人质的绑架行为。</p>
-<p>今天，我的父亲和弟弟们仍是戴罪之身，处于警方的控制和胁迫之下，他们的一切言说均非无恐惧状态下的自由表达。</p>
-<p>自一周前开始的因为我发表文章而导致警方对我的家人及亲属的骚扰和威胁，以及期间发生的所谓祭祖失火案中，均没有证据表明警方对他们有过刑讯逼供等针对身体的暴力伤害。</p>
-<p>但是，迄今仍在进行中的胁迫我的家人劝说我放弃时事批评写作，以及在调查所谓祭祖失火案中一再强迫我的家人和我联系，并以关押他们及失火赔偿金作为胁迫我删除评论的筹码，是赤裸裸的绑架勒索行为。</p>
-<p>警方一再用血缘关系来胁迫和“感化”我，企图以此完成他们打压新闻自由、维护极权专制的政治任务，是一种卑鄙的情感敲诈伎俩。</p>
-<p>对于这一切绑架和勒索，我均拒绝接受，没有谈判和交易。时评写作是我的职业，也是我的表达权利。我将一如既往地，尽最大努力实践我的言论自由，并倡导包括中国人在内的人类社会的独立思想权利。</p>
-<p>警方企图利用我的家人和亲属来影响我的工作，无论表现得多么温和友好，都给他们造成极大的精神压力，严重影响他们的工作和生活。我希望警方及中国当局立即停止这一绑架行为。</p>
-<p>正如我在此前的声明中所说，在我的家人及亲属获得真正的自由之前，我不会跟他们发生任何联系，他们也不会有我的任何联系方式。</p>
-<p>我希望我的抗争，能够引发人们对于批评权力怪兽的独立思想者，尤其是被烙上异议人士或流亡者标签的自由捍卫者及其家人所遭受的威胁，以及他们共同面临的亲情伦理困境予以更多的关注。</p>
-<p>感谢诸多活动人士、新闻媒体、人权组织及政府机构的关注、支持和帮助。希望我能继续和你们一道，在对抗极权、捍卫言论表达和新闻自由方面坚持到底。</p>
-<p>爸爸，祝你生日快乐！妈妈，别哭！张雄，张伟，春梅以及所有的亲人，我爱你们！</p>
-<p>长平</p>
-<p>2016年3月30日</p>
-<p><strong>相关阅读：</strong></p>
-<p><a title="【图说天朝】“我们全家人对他非常失望”" href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%88%91%E4%BB%AC%E5%85%A8%E5%AE%B6%E4%BA%BA%E5%AF%B9%E4%BB%96%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B/">【图说天朝】“我们全家人对他非常失望”</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-dw%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E9%95%BF%E5%B9%B3%E5%AE%B6%E4%BA%BA%E5%9B%A0%E5%85%B6%E8%AF%84%E8%AE%BA%E8%A2%AB%E5%A4%B1%E8%B8%AA/" target="_blank">德国之声 | DW专栏作者长平家人因其评论“被失踪”</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="_blank">德国之声 | 长平：贾葭失踪，睁眼之罪</a></p>
-<p>【<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E4%BF%A1%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF%E4%B9%8B%E9%95%BF%E5%B9%B3%E7%AF%87/" target="_blank">立此存照】自己都不信：机器五毛召唤术之长平篇</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E5%9D%90/?category=18271" rel="tag">连坐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%80%E5%B9%B4%E5%89%8D%E9%A2%84%E8%A8%80%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%B4%A9%E6%BA%83%E7%9A%84%E6%B2%88%E5%A4%A7%E4%BC%9F%E6%94%B9%E5%8F%A3/" target="cdt-mirror">端传媒 | 一年前预言“中国要崩溃”的沈大伟改口了？</a>
-</h2>
-<p><p><strong>“我不是崩溃论者，我不想中国崩溃，我希望它成功。”中国问题专家沈大伟说。</strong></p>
-<p>“（中国）不要崩溃。”</p>
-<p>在新书《中国的未来》华盛顿发表会上，中国问题专家沈大伟（David Shambaugh）正微笑举着自己的书供记者拍照，突然，他吐出了这四个中文字。鲜红色的书封面正中有一个硕大的问号，问号的一点幻变成一颗黄色五角星，呼应着中国国旗的图案，或许这也代表了沈大伟等“知华派”学者对中国现状和未来的迷惑。</p>
-<p>在新书中，沈大伟将中国比喻为一辆驶近交通环岛（或圆环、回旋处；roundabout），亟需选择合适出口的车。他坦言，关于中国将驶向何方，他没有一个简单的答案。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=600%2C400" alt="4d2a3bb73bd64b80ae72f2605e437337" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/4d2a3bb73bd64b80ae72f2605e437337.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<blockquote><p><strong>在他眼中，如今中国的不确定性和脆弱性，达到他四十年学术生涯中前所未有的高度。</strong></p></blockquote>
-<p>一年前，沈大伟在《华尔街日报》发表名为《中国即将崩溃》的评论文章，指中国政治体制“严重崩坏”，社会面临随时可能爆发的高压，党的末日（endgame）已经开始。《环球时报》随后批评他为“庸俗的对华占卜者”，请他“自重并三思”，外界更有传他已登上中共黑名单。<br>
-如今，沈大伟措辞明显变得谨慎，力求为自己“正名”。</p>
-<p>对于一年前引起的那场“中国崩溃论”争议，他强调，文章的标题出于编辑之手，他虽表示异议，但已来不及修改。除此之外，沈大伟还表示，衰落（decline）和崩溃（collapse）之间，不能划上等号。他所预期的，是中国和中国共产党的衰落而非崩溃，这是一个短则数年，长则数十年的过程。</p>
-<p>“我不是崩溃论者，我不想中国崩溃，我希望它成功。”沈大伟说。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=600%2C400" alt="3a7a38a552ae46338df743cc47b2dc04" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/3a7a38a552ae46338df743cc47b2dc04.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>在“崩溃”一文前，他被普遍认为是对华温和派，一直被中国高级智囊机构奉为座上宾，并被中国外交学院列为美国“知华派”学者前三名。沈大伟坚称，他的观点并非嬗变无常。“不是我的观点变了，而是中国变了。”</p>
-<p>他在新书发表会中对邓小平赞誉有加，称他在文化大革命后摒弃个人崇拜、个人集权，中国经济才有了其后的持续高速增长。而近几年的中国政府，则在倒行逆施。“邓小平如果还在世，看到这些应该不会高兴。” 沈大伟将“习近平及共产党的权力过于集中”列为中国面临的首要政治挑战。</p>
-<p>“崩溃”一文引起轩然大波时，沈大伟曾以“站在十字路口的中国”为题开讲。如今，他将文章扩写成专著，发现“十字路口”的比喻已不足以形容中国未来道路的复杂性，交通环岛也许更为贴切。</p>
-<p>在沈大伟眼中，中国政府在2013年十八届三中全会上宣布锐意深化改革，然而三年过去了，由于体制本身的阻力，大量的改革举措仍未落实。中国就如一辆在环岛兜圈的车子，多次错过了出口，仍未能决定何去何从。</p>
-<p>他在书中写道，中国面临四条岔路：往左倒退至新极权主义（neo-totalitarianism）；沿着现今的硬威权主义（hard authoritarianism）道路一直往前；走回1998年至2008年的软威权主义（soft authoritarianism）道路；或是大力开放改革、向右转向“新加坡模式”的半民主社会（semi-democracy）。</p>
-<p>沈大伟解释，新极权主义会导向中国经济倒退和共产党崩溃，相反，半民主则将促成中国的改革，逐渐过渡至民主社会。然而，半民主和新极权主义只存在理论上的可能性。</p>
-<p>“中国距离拥有新加坡式民主的特质还有很长的路要走。中国共产党是否会容忍新加坡式民主是个问题。另一方面，随着中国私营经济发展和全球化程度加深，人民和军方对于党独揽权力都有忌惮，中国倒退到新极权主义的机会也较低”， 沈大伟说。</p>
-<p>因此，沈大伟判断，中国未来几年可能走的道路，很可能是在威权主义的软、硬二者中择其一。继续走2009年至今的硬威权主义道路是最简单易行的选择，然而，中国只能执行有限的改革，面临经济停滞和党国衰落，直至整个系统崩坏。“如果走这条路，经济停滞或将变成新常态。”沈大伟说。</p>
-<blockquote><p><strong>据他观察，中国政治通常在“收放”之间转换。一般来说，“放”的阶段持续6至8年，紧随着的是2年的“收”，两者来回转换。然而这一次，中国的“收”阶段已长达7年。</strong></p></blockquote>
-<p>沈大伟较为怀念的，是1998年至2008年间，走在软威权主义道路上的中国。他说，当时公民社会、学术界、媒体舆论等较为开放，存在党内民主。政府能释放力量推进中国温和改革，实现部分转型。</p>
-<p>沈大伟重提他2008年的旧作《中国共产党：收缩与调试》，当时，党的收缩与调试同时存在。</p>
-<p>“在如今，我看不到党在调整。” 在沈大伟看来，决定中国未来的最关键并非经济或外交，而在于政治体制。</p>
-<p>根据以往列宁主义国家的兴衰史，沈大伟一一列出列宁主义政权生命周期。从革命夺权、巩固权力、社会转型、官僚化和国家体制僵化，一步步走向“为应对经济停滞和僵化，采取调试及有限度的多元主义”，这是中国走上软威权主义道路后势必要采取的措施。接下来，箭头指向了又一个问号。</p>
-<p>“因为，历史上从来没有一个列宁主义国家在成功走过这一步后，依然维持专制统治。”沈大伟总结道。</p>
-<p><strong>相关阅读：</strong><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%8E%AB%E4%B9%8B%E8%AE%B8-%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%EF%BC%9A%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%92%8C%E5%85%85%E6%BB%A1%E6%B7%B7%E4%B9%B1/" target="_blank">莫之许 | 中国未来：不稳定和充满混乱</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%80%E5%B9%B4%E5%89%8D%E9%A2%84%E8%A8%80%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%B4%A9%E6%BA%83%E7%9A%84%E6%B2%88%E5%A4%A7%E4%BC%9F%E6%94%B9%E5%8F%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5/?category=18271" rel="tag">中国未来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">威权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">政治体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E5%A4%A7%E4%BC%9F/?category=18271" rel="tag">沈大伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9/?category=18271" rel="tag">路径选择</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%AE%89%E9%82%A6%E7%9A%84%E9%9A%90%E7%A7%98%E8%B4%A2%E5%AF%8C%E5%B8%9D%E5%9B%BD%EF%BC%9A%E6%9D%83%E8%B4%B5%E4%BA%91%E9%9B%86%EF%BC%8C%E8%82%A1%E6%9D%83/" target="cdt-mirror">纽约时报｜安邦的隐秘财富帝国：权贵云集，股权盘根错节</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg" rel="attachment wp-att-433465"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg?resize=585%2C358" alt="去年6月，安邦保险集团董事长吴小晖在曼哈顿华尔道夫-阿斯特里亚酒店参加论坛。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg?resize=300%2C184 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/30db-anbang2-articleLarge.jpg?w=600 600w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>去年6月，安邦保险集团董事长吴小晖在曼哈顿华尔道夫-阿斯特里亚酒店参加论坛。（Ben Asen/International Insurance Society）</p></div>
-<p>媒体经常把他与美国的亿万富翁沃伦·E·巴菲特(Warren E. Buffett)<a href="http://www.bloomberg.com/news/articles/2016-03-14/behind-anbang-s-deal-making-a-bold-buffett-of-china-rises" target="_blank" rel="nofollow">相提并论</a>，他正在利用自己对一家保险公司的控制权成为全球金融领域的巨头之一。和巴菲特一样，他似乎也在获得庞大的个人财富。</p>
-<p>然而中国安邦保险集团董事长吴小晖与巴菲特的共同之处，也仅限于此。</p>
-<p>巴菲特是一个公共人物，他经过数十年努力积累了财富。吴小晖回避媒体采访。公司网站提供的传真号码属于一家牙医诊所。与净资产很容易被算出的巴菲特不同，吴小晖的财富则是一个谜，安邦旗下拥有37家关系盘根错节的控股公司，这种非常复杂的股权结构使其资产难以计算。</p>
-<p>在商业及金融领域日渐强调透明性的今天，一家不透明的中国保险公司在美国达成一项项吸引眼球的交易，令一些专家倍感惊讶，尤其是考虑到中国经济影响力在这个选举年正<a href="http://cn.nytimes.com/world/20160108/c08first-draft-donald/" target="_blank" rel="nofollow">受到前所未有的关注</a>。</p>
-<p>吴小晖的公司声称拥有超过2910亿美元的资产，目前正与万豪国际(Marriott International)就收购喜达屋酒店及度假村国际集团(Starwood Hotels and Resorts Worldwide)展开<a href="http://cn.nytimes.com/business/20160322/c22db-starwood/" target="_blank" rel="nofollow">激烈争夺</a>。周一，安邦将报价提高至140亿美元。本月早些时候，安邦同意以65亿美元的价格收购黑石集团(Blackstone Group)旗下的<a href="http://strategichotels.com/portfolio.php" target="_blank" rel="nofollow">豪华酒店</a>，比如纽约的埃赛克斯酒店(Essex House)。2014年底，安邦以将近20亿美元的价格<a href="http://cn.nytimes.com/business/20141010/c10waldorf/" target="_blank" rel="nofollow">收购</a>了纽约的华尔道夫-阿斯特里亚(Waldorf-Astoria)酒店。</p>
-<p>2004年才创立的安邦集团在两年前得到大规模扩张，公司旗下37家公司带来了数十亿美元的资金。</p>
-<p>“每当中国有人打一下响指就可以魔法般地获得财富时，这里说的是巨额财富，对我来说就是一个可疑的标志，”北京大学深圳校区金融及经济学副教授克里斯托弗·鲍尔丁(Christopher Balding)说。“分享一种‘我们怀着好意而来’的信息是符合他们的利益的，但根本没有那种信息分享文化。在中国，当人们隐藏这些信息时，肯定是有原因的。”</p>
-<p>吴小晖与中国一些最具权势的家庭有关联。他娶了邓小平的孙女卓苒，邓小平曾在20世纪80年代及90年代大部分时间担任中国的最高领导人。这个在中国并不常见的名字，出现在安邦旗下37家控股公司中至少两家的公司记录中。</p>
-<p>安邦集团董事<a href="http://cn.nytimes.com/china/20131212/c12chenxiaolu/dual/" target="_blank" rel="nofollow">陈小鲁</a>是曾与毛泽东并肩作战的知名军事指挥官的儿子。从提交到网上的官方记录来看，陈小鲁在安邦集团旗下至少四家公司任高层。2014年，朱云来——前总理朱镕基之子——的名字也出现在安邦的董事名单中。</p>
-<p>陈小鲁曾表示，他未持有安邦的股份。朱云来上周接受当地媒体采访时表示，他<a href="http://www.infzm.com/content/116075" target="_blank" rel="nofollow">从未答应</a>做安邦的董事。目前无法联系两人置评。</p>
-<p>安邦集团采用了中国公司的常用路线，凭借与中国政治精英的关系进入全球金融系统。此类公司包括平安保险——前总理温家宝的亲属获得<a href="http://cn.nytimes.com/china/20121026/c26princeling/" target="_blank" rel="nofollow">巨额财富</a>的工具，以及大连万达商业地产，其投资人包括至少四名中共政治局前任或现任成员的亲属或商业伙伴，其中有中国国家主席习近平的姐姐。</p>
-<p>记者按照安邦集团列出的号码拨打电话，但无人应答。向安邦集团北京总部传送的一系列问题没有得到回应。其总部拥有面积相当于几个篮球场的宏伟门厅，厅内挂着巨大的枝形吊灯。安邦的一名员工表示，公司不回答媒体的问题。</p>
-<p>吴小晖现年49岁，来自位于中国东部的浙江温州。在少有的公开露面中，他谈到了收购的公司给安邦带来的高回报，以及给安邦的全球化企业文化带来的裨益。</p>
-<p>“举例来说，如果你选择留在农村，你只能遇到普通村姑；但是如果你来到巴黎，你就有机会亲眼见到蒙娜丽莎，”吴在去年年初对哈佛大学的学生说。</p>
-<p>目前尚不清楚他到底持多少安邦股份。仔细查看安邦的股权结构，可以发现有37家公司控制了安邦93%以上的股份，其余部分由两家中国国有公司拥有。从中国政府登记的公司信息，以及网上的一些信息来看，这37个股东可以通过共同的电话号码、电邮地址，以及盘根错节的所有权联系在一起。</p>
-<p>比如，安邦有一个股东是中国西部新疆地区的一家煤炭开采公司，而其所有者是另一家矿业公司中亚华金，该公司把卓苒列为其第一法定代表人，虽然她已经辞职。</p>
-<p>中亚华金与安邦的另外一个股东——北京某房地产公司——使用了同一个官方网址。这几家公司总共拥有近46亿股安邦股份，持股比例超过7%。记者无法联系到这两家公司发表评论，而它们共用的网站现在只有色情和赌博服务的链接。</p>
-<p>有五个股东在提交给政府的资料中使用了同样的电邮地址。这些公司的手机响铃后无人接听。发送到该邮箱的邮件无人回应。</p>
-<p>安邦公司的文件显示，2014年，这些公司向安邦注入了数以十亿美元计的资金，使其注册资本增加到2011年的五倍，一跃成为中国最大的保险公司。“沃伦·巴菲特通过把一家小型保险公司发展成行业巨擘来获取财富，”鲍尔丁说。“安邦则恰恰相反。”</p>
-<p>该集团的37家公司加起来控制的安邦股份，足以让任何一个人成为中国最富有的人之一。吴小晖没有被文件列为大股东，也没有出现在媒体公司公布的富豪榜上。</p>
-<p>去年，一家中国媒体报道，有两名和吴小晖是兄弟姐妹关系的人，被这37家公司中的6家列为董事或股东。《南方周末》后来从其网站上删除了这篇报道，并向安邦发表<a href="http://www.infzm.com/content/107607" target="_blank" rel="nofollow">道歉声明</a>，称这篇文章中有“不实之处”，但没有具体说明哪些地方不实。</p>
-<p>前《南方周末》主编、当时不在该报社工作的长平说，那则道歉是出于政治原因，在“压力下”做出的。</p>
-<p>傅才德(Michael Forsythe)是《纽约时报》记者。<br>
-赫海威(Javier C. Hernández)自北京对本文有报道贡献。<br>
-Kiki Zhao自北京对本文有研究贡献。<br>
-翻译：纽约时报中文网</p>
-<p><a href="http://www.nytimes.com/2016/03/30/business/dealbook/china-anbang-starwood-wu-xiaohui.html" target="_blank" rel="nofollow">点击查看本文英文版本。</a></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%AE%89%E9%82%A6%E7%9A%84%E9%9A%90%E7%A7%98%E8%B4%A2%E5%AF%8C%E5%B8%9D%E5%9B%BD%EF%BC%9A%E6%9D%83%E8%B4%B5%E4%BA%91%E9%9B%86%EF%BC%8C%E8%82%A1%E6%9D%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%B0%8F%E6%99%96/?category=18271" rel="tag">吴小晖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E4%BA%91%E6%9D%A5/?category=18271" rel="tag">朱云来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E5%B0%8F%E9%B2%81/?category=18271" rel="tag">陈小鲁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -659,7 +690,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -669,5 +700,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

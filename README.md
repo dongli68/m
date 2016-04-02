@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,100 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%BD%93%E5%A5%B3%E6%9D%83%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/" target="cdt-mirror">东网｜赵思乐：当“女权”成为敏感词</a>
+</h2>
+<p><p>青年女权行动派的新浪微博“女权行动派更好吃”又被封号了，微博申诉客服给出的理由是该微博“发布有害信息”。编辑张累累（化名）感到很冤，因为这个微博除了女权活动和女权文章就不发别的信息。</p>
+<p>据张累累和伙伴的分析，惹祸的可能是最近发出的“广州地铁反性骚扰广告众筹”。虽然这个活动目前除了网络众筹广告费以外没有其他动作，但她们的一位朋友已因此被警察上门。</p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%A5%B3%E6%9D%83%E5%8F%98%E6%95%8F%E6%84%9F%E8%AF%8D%EF%BC%8C%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E8%BF%99%E6%98%AF%E8%A6%81%E5%B0%81%E6%9D%80%E5%A5%B3%E6%9D%83%EF%BC%9F%EF%BC%81/" target="_blank">女权之声｜“女权”变敏感词，新浪微博这是要封杀女权？！</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/" target="_blank">来自习总的妇女节问候：去年有多少人娶媳妇儿？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BE%9D%E7%84%B6%E6%8E%A7%E5%88%B6%E7%9D%80%E5%A5%B3%E6%80%A7%E7%9A%84%E8%BA%AB%E4%BD%93/" target="_blank">纽约时报 | 中国政府依然控制着女性的身体</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/" target="_blank">【网络民议】目测中国妇女又要被代表了</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%A6%87%E5%A5%B3%E6%9D%83%E5%88%A9%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%A2%A6%E7%9A%84%E9%A5%B0%E5%93%81%EF%BC%9F/" target="_blank">德国之声｜长平：妇女权利，中国梦的饰品？</a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/">五女权人士被拘</a>专题</li>
+</ul></blockquote>
+<p>考虑到微博依然是难以舍弃的传播阵地，张累累决定要再重新注册账号“女权行动派吃不完”。女权五姐妹被抓时，女权行动派间相互勉励的话就是“女权行动派是抓不完的。”</p>
+<p>但诡异的事发生在她尝试重新注册的时候，新浪提示“该昵称不允许注册”。张累累又尝试了许多类似昵称，都不允许注册，最后她发现只要输入了“女权”二字，就是不允许注册。</p>
+<p>张累累尝试性地输入“人权”，系统的提示是“该昵称已被注册”，她又在“人权”后面加上“行动派”三个字，系统提示就变成了一个绿色的小勾。</p>
+<p>“‘人权’可以谈，为什么‘女权’就违规？”张累累问道。</p>
+<p>新浪微博一直都是中国官方重点管治的网络言论领域，此番“女权”成为注册敏感词，官方对“女权”采取的警惕和压制可见一斑。</p>
+<p>中国领导人习近平在去年9月主持全球妇女峰会时才向世界宣称：“没有妇女，就没有人类，就没有社会……妇女权益是基本人权。”今年“女权”就遭遇越来越严密的封杀，可见应了希拉里在习近平演讲时发出的推特：“<strong>shameless</strong>”。</p>
+<p>但中国官方是不是“谈女色变”呢？并不。</p>
+<p>凡对中国政治有所了解的人，都知道官方话语中不同词汇的使用有着难以忽视的意涵，可以反映出对一个问题的态度。</p>
+<p>习近平在全球妇女峰会的演讲中，“妇女”出现了51次，“男女平等”出现11次，“妇女权益”和“妇女权利”分别出现了3次和2次，“女权”出现0次，“性别平等”出现0次。这说明什么呢？还需从这些词汇在中国政治和社会中的不同构建来透视。</p>
+<p>“妇女”，是中国共产党官方话语中最规范的对女人的称呼。尽管中共历史上不乏有一定先进思想的妇女工作者，她们注重妇女的主体性和公共地位，但总体而言，“妇女”在中共话语中有着次等的、对象化的、需要帮助的意涵。在中共早期担任领导职务的丁玲，就对官方第一次派她去苏联出席活动是作为“妇女代表”并不乐意。</p>
+<p>“男女平等”是1995年在北京举行世界妇女大会后，作为“基本国策”写进《妇女权益保障法》的。理论上应该是中国政府对妇女政策的基调，但如同“人权”、“法治”也写进过重要文件一样，即使在体制内部讨论中，都会把领导人重提这些词汇作为“进步”的象征。</p>
+<p>另外，“男女平等”这个说法也是相对落后的，因为首先现代社会对性别的认识已经远远超过“男”、“女”两种，其次这个词汇本身就有把“男”排在“女”前面的政治不正确。因此国际上已经普遍用“性别平等”（gender equality）来替换，而中国则属于拒绝替换的国家之一，这其实隐含着中国官方拒绝承认同性恋、跨性别等性少数群体的平等地位。</p>
+<p><strong>如果承认女性仍处于弱势的现实，要追求“男女平等”就需要引入“妇女权益”或“妇女权利”（women’s rights）的概念，但在中国，官方是相当谨慎地使用这一概念的。比如，国务院的相应部门叫做“妇女儿童工作委员会”而不是“权利委员会”。即使不得不使用，或一些专门部门愿意使用，也会优先使用“权益”，而不是“权利”，比如《妇女权益保障法》，全国妇联设有“权益部”。</strong></p>
+<p>这不得不使人联想到，在承认不平等现实，以及实质提升妇女权利方面，中国官方持有拒斥态度。</p>
+<p>值得一提的是，在反思毛时期被国家主义绑架的妇女形象过程中，中国知识分子界引入了“女性主义”这一概念。理论上它跟“女权主义”一样是feminism的翻译，但事实上在中国构建过程中，“女性主义”被赋予了“女性性魅力”、“女性特征”、“母性”等性别化的本质主义和消费主义色彩，而且也弱化了权利概念，以减少对体制的挑战性。这种构建的影响延续至今，不少女性精英会自称更认可“女性主义”而不认可“女权主义”。</p>
+<p>经过毛泽东时期，“妇女”这个概念已经被高度地政治化，与“劳动”、“无产阶级”、“铁姑娘”等话语或形象密切联系。因此文革以后，“妇女”这个词被普遍地嫌弃，在市场和思潮推动下，被“女人”、“女性”、“女生”代替，这些词汇也由此带上了本质和消费色彩。</p>
+<p>然而，“女性”话语的构建，本来以区别于体制为目的，但现在正在被体制收割。比如，全国妇联的官方微博名叫“女性之声”而不是“妇女之声”；在当下官方意识形态诉诸传统价值的情况下，传统的“好女人”形象，也正在被用于社会维稳。</p>
+<p>“女权主义”话语的出现，是非常近期的事。微博上的账号“女权之声”在2009年注册时，在女权群体内部被称为“女权主义在中国的出柜”，这个账号运转至今。</p>
+<p>相对于“女性主义”，“女权主义”在中国的构建过程中，更注重权利诉求，并有明显的行动主义特征，倡导通过女性主体的、由下而上的行动，推动权利平等的实现，参与者以青年女性为主。这些特征决定着女权话语难以见容于体制。</p>
+<p>但这不代表女权诉求完全不可能被体制收割，事实上也有过这样的案例。2014年，由于厦门大学曝出博导性骚扰女学生事件，女权行动者迅速反应，发起了要求高校建立防性骚扰机制的行动，反响不俗。很快，教育部发出来了被称为“红七条”的《关于建立健全高校师德建设长效机制的意见》，其中有一条是“不得对学生实施性骚扰或与学生发生不正当关系”。</p>
+<p>然而，“红七条”禁止的前两条行为是“损害国家利益，损害学生和学校合法权益的行为”以及“在教育教学活动中有违背党的路线方针政策的言行”。可以说，“红七条”主要是一个对高校教师加强控制的文件，只是参考了女权运动的呼声以增强合法性。</p>
+<p>而且教育部下达“红七条”的行为有明显的父权和专制色彩，与女权的诉求并不相符，也不见得真的能起到反性骚扰的效果——如同中国的法律，《刑法》总是在发挥作用，而《妇女权益保障法》则长期失效，体制只使用它想使用的规定。</p>
+<p>对于这种“收割”，在现实环境下是难以避免的，只是女权运动需有所警惕，至少不将之作为自己的“成果”予以肯定，而应继续以自己的方式推进自己的议题。事实上，当下中国的女权运动也正是如此前行。</p>
+<p><strong>总而言之，在体制看来，妇女议题不是不可以谈，但只能以党的方式、用党的话语、由党来谈。在体制眼中，妇女的权利从来不属于她们自身。所幸的是，中国的女权运动者在越来越明了这一现实的情况下，并未离开战场。</strong></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%BD%93%E5%A5%B3%E6%9D%83%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%AE%BF%E8%B0%88%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BA%B2%E8%97%8F%E5%8D%81%E5%B9%B4%E7%9A%84%E8%84%B1%E5%8C%97%E5%A5%B3%E5%AD%A9/" target="cdt-mirror">纽约时报｜访谈：在中国躲藏十年的脱北女孩</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg" rel="attachment wp-att-433747"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg?resize=575%2C383" alt="Helene Franchineau/Associated Press 中国与朝鲜之间的边界很大一部分在鸭绿江上。图为鸭绿江上的一艘朝鲜船只。 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>中国与朝鲜之间的边界很大一部分在鸭绿江上。图为鸭绿江上的一艘朝鲜船只。 (Helene Franchineau/Associated Press)</p></div>
+<p>在朝鲜时，生活在靠近中国边境的一个小镇上的李炫秀(<a href="http://cn.nytimes.com/opinion/20150207/c06lee/" target="_blank" rel="nofollow">Hyeonseo Lee</a>)常常好奇，中国那一边的灯光为什么多那么多。1997年的一个冬夜，17岁的她穿过结了冰的鸭绿江，要亲自去看看。这场为满足好奇心而进行的远足，后来变成了在中国长达十年的东躲西藏。2008年，李炫秀抵达韩国，并在那里获得了庇护。</p>
+<p>去年，李炫秀出版了回忆录《有七个名字的女孩》(<a href="http://www.nytimes.com/2015/11/29/books/review/fleeing-north-korea.html" target="_blank" rel="nofollow">The Girl with Seven Names</a>)。最近，她在北京<a href="http://beijingbookworm.com/" target="_blank" rel="nofollow">老书虫国际文学节</a>上讲述了自己的故事。这是少有的脱北者在中国的公开演讲。中国认为脱北者是非法移民，会将他们遣送回朝鲜。回到朝鲜，那些人可能会面临牢狱之灾，甚至被处决。李炫秀与《纽约时报》谈论了她在中国的经历、脱北者的困境和中国与朝鲜的关系。以下为访谈摘要。</p>
+<p><b>问：</b><i>你为什么来北京？</i></p>
+<p><b>答：</b>老书虫国际文学节邀请的我，不过我用了六个月时间才决定下来。我有义务保护我的家人。但在那六个月时间里，我慢慢变了。</p>
+<p>几个月前的一天，我在微博上收到了近百条的攻击。我不知道中国民众这么恨我们[脱北者]。很多中国人相信中国政府，认为我是叛徒。我想在中国发表这次演讲是合适的。</p>
+<p>我不恨中国民众。我们是兄弟，我们领土相接。我只恨政府、政客和政策，不恨民众。这正是我来这里的原因。我希望至少能改变他们获得的部分信息。</p>
+<p>中国的政策是：如果举报脱北者，会有钱拿。据我所知，举报脱北者拿到的钱是3000到5000元人民币。在边境城镇里，有些中国人就是为了钱而举报脱北者。真的很让人难过。</p>
+<p><b>问：</b><i>你曾经说过，韩国国家情报院(National Intelligence Service)建议你不要批评中国。</i></p>
+<p><b>答：</b>他们担心我来中国会导致中国与韩国之间的关系进一步恶化。但中国政府没为脱北者做过任何好事。所以说还能怎么更糟糕呢？从长远来看，如果我能改变至少一个中国人的看法，也是有积极意义的。</p>
+<p><b>问：</b><i>关于朝鲜脱北者，你有什么要对中国政府说的吗？ </i></p>
+<p><b>答：</b>至少要让他们安全地穿过这片土地。他们希望回到自己的祖国[韩国]，并不想留在中国。当然，我希望中国能给予他们难民身份。也许我要求的太多，因为他们甚至不关心自己公民的权利。但他们能否至少假装没有看到火车上或者公共汽车上的脱北者？</p>
+<p>去年，九名脱北者在越南被抓获。他们被送回中国。中国为什么总是要支持朝鲜，甚至在脱北者问题上也是如此？你为什么要做朝鲜的救世主？你为什么无视国际社会的要求？</p>
+<p>关键仍在于中国。这就是为什么我要求一些大国如美国，尽他们所能来改变中国政府的想法。</p>
+<p><b>问：</b><i>你觉得自己曾遇到过的中国人或警察中有人同情朝鲜脱北者吗？</i></p>
+<p><b>答：</b>许多中国人不仅在百度上，还在Facebook上指责我。有人说，你认为中国当局会傻到没有意识到你是朝鲜脱北者吗？</p>
+<p>如果他们读过我的书，他们会理解的。我尽自己所能去逃脱。我认为这完全是一个奇迹。这不是因为中国警察会傻到相信我虚构的故事。我认为这是一个奇迹。这就是为什么有时候我觉得上帝是存在的。</p>
+<p><b>问：</b><i>你信教吗？</i></p>
+<p><b>答：</b>我[在朝鲜]被洗脑过。2008年当我在韩国获得庇护时，我意识到在中国长达10年的东躲西藏中，我又一次被洗了脑。眼下，我很难相信上帝。如果我真的相信了，但后来发现这竟然是另一次洗脑，那怎么办？但我时刻都在尽自己最大努力去相信上帝，因为我发现那些对朝鲜人民和脱北者给予很多支持的人都是非常善良的人。</p>
+<p><b>问：</b><i>你在中国是以什么方式被洗脑的？</i></p>
+<p><b>答：</b>当我抵达韩国后，我看到了一些在中国从未见过的中国新闻，像关于西藏和新疆的。我想，什么？这不是中国。中国没有这样的问题。韩国人用异样的目光看着我——你在说什么？这就是中国。我很震惊。</p>
+<p>而且不仅我自己这样。有一次我遇到了一个在韩国留学的中国学生。当她在韩国看到了自己国家的新闻时，她说：“这不是我的国家。这样的事情不会发生。”在那一刻，我意识到我们都被洗脑了。</p>
+<p>生活在韩国，我可以访问任何网站。但是这一次当我来到北京时，我感到非常震惊，因为你无法使用谷歌(Google)、Facebook和Gmail。我听说过这件事，但亲身经历还是吓到了我。</p>
+<p><b>问：</b><i>你在中国的10年中，是否接触过普通中国人？</i></p>
+<p><b>答：</b>是的，但没有人知道我是朝鲜脱北者。我假装我是一名中国朝鲜族人。我只担心他们可能会发现我的记录。</p>
+<p>有一天，我一个最好的朋友说，“你从来不谈论你的家庭，新年时你也从来不回老家。”她是来自延吉的中国朝鲜族人。我想告诉她真相，但我不能相信任何人。总是假装成别人，让我身心俱疲。不是我的生活，不是我的真名，什么都没有。</p>
+<p><b>问：</b><i>你有没有想过要告诉中国人你是朝鲜人？</i></p>
+<p><b>答：</b>没有。因为一旦我说了这些，我的处境将变得危险起来。那将成为一种可以用来对付我的武器。</p>
+<p><b>问：</b><i>在过去的几年中，脱北者逃避中国警方是变得容易了还是更难了？</i></p>
+<p><b>答：</b>更难了。过去，至少朝鲜脱北者可以制作假[中国]身份证，但现在这些假身份证已无法使用。因为他们会用机器来检查身份证，使得更多的人被抓获。</p>
+<p><b>问：</b><i>你认为朝鲜会发生政治变革吗？</i></p>
+<p><b>答：</b>没有独裁者能够永久掌权。历史表明，最终独裁者身边的人会推动变革。当然，很多高官不想变革，因为他们想保持权力。但也有其他优秀的人想要改变。我相信他们正在等待机会。</p>
+<p>中国的作用举足轻重。无论朝鲜崩溃还是统一，或者一切都保持原样，都取决于中国。所以如果中国或其他国家支持这些高官，给他们推动变革的力量，就有可能会实现政权更替。</p>
+<p>翻译：纽约时报中文网</p>
+<p><a href="http://www.nytimes.com/2016/04/01/world/asia/china-north-korea-defector-hyeonseo-lee.html?mtrref=undefined&gwh=E40981DBAF4FFB9E62F711FD1E628850&gwt=pay" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%AE%BF%E8%B0%88%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BA%B2%E8%97%8F%E5%8D%81%E5%B9%B4%E7%9A%84%E8%84%B1%E5%8C%97%E5%A5%B3%E5%AD%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">北朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B1%E5%8C%97%E8%80%85/?category=18271" rel="tag">脱北者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">西朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E6%9C%9F%E9%97%B4-%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A5%89%E5%91%BD%E8%A1%97%E5%A4%B4%E6%B4%BE%E5%8F%91%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E3%80%8B/" target="cdt-mirror">外交政策｜习近平访美期间 大学生奉命街头派发《中国日报》</a>
 </h2>
 <p><p>【编者注】本文由中国数字时代编辑翻译自《<a href="http://foreignpolicy.com/2016/04/01/china-daily-xi-jinping-nuclear-summit-chinese-state-owned-media-has-chinese-students-canvass-dc/" target="_blank">外交政策</a>》报道；在无损原文大意情况下有删节。请点击原文链接阅读完整报道。</p>
@@ -136,7 +227,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9D%8E%E6%B3%A2%E6%8E%A5%E5%8F%97%E3%80%8A%E6%98%8E%E9%95%9C%E3%80%8B%E4%B8%93%E8%AE%BF-%E6%8B%92%E7%BB%9D%E4%BB%8D%E9%80%8F%E9%9C%B2%E5%A6%82%E4%BD%95/" target="cdt-mirror">自由亚洲｜李波接受《明镜》专访 拒绝透露如何“以自己方式返回内地”详情</a>
 </h2>
@@ -643,39 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B2%E9%87%8F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/cdtv-%E4%B8%80%E9%83%A8%E6%94%B9%E5%8F%98%E5%9B%BD%E5%AE%B6%E7%9A%84%E7%94%B5%E5%BD%B1-%EF%BC%9A%E3%80%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA%E3%80%8B/" target="cdt-mirror">【CDTV】一部“改变国家的电影” ：《辩护人》</a>
-</h2>
-<p><p>1980年韩国发生爆发广州后，全斗焕独裁政府以整肃“赤色分子”（共产主义分子）为借口大肆抓捕社会活动家。1981年9月，釜山警方未出示逮捕令，非法拘禁釜山读书联合会的22名成员，罪名是传阅有害书籍、组织非法集会和违反《国家保安法》等。当时还是一名税务律师的卢武铉（后为韩国第十六任总统）为学生们担任辩护律师，尽管证据显示学生们是在刑讯逼供的情况下认罪和检方及公安伪造证据，法庭仍判处22名被告中19人1到7年不等的有期徒刑。这一事件也成了卢武铉人生的转折点，他由税务律师转而开始从事政治运动。（来源：维基百科 <a href="https://zh.wikipedia.org/wiki/%E9%87%9C%E6%9E%97%E4%BA%8B%E4%BB%B6">釜林事件</a>）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-30-at-%E4%B8%8B%E5%8D%883.44.09.png?resize=545%2C366" alt="Screen Shot 2016-03-30 at 下午3.44.09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-30-at-下午3.44.09.png?resize=300%2C201 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Screen-Shot-2016-03-30-at-下午3.44.09.png?w=545 545w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"><br><span>电影《辩护人》剧照</span></p>
-<p>韩国电影《<b>辩护人</b>》（<span><span lang="en" xml:lang="en"><i>The Attorney</i></span></span>）讲述的故事就以釜林事件为背景：1978年，只有高中学历的宋佑硕（宋康昊 饰）通过多年的艰苦努力，终于通过司法考试，并在成为法官后很快转行成为一名律师。他敏锐地从最新政策中嗅到商机，以不动产代书业务起家。虽然被同行讥讽为随时随地派发名片的夜店小弟，但佑硕不以为忤，一步一步朝着心中的目标迈进。他依靠赚来的钱让妻儿过上富足的生活，也还了七年前在饭店大婶那里欠下的良心债。进入20世纪80年代，韩国民主化斗争愈演愈烈。佑硕全然不管窗外事，关起门来继续赚钱。然而社会的巨变已经不容他置身事外，饭店大婶的儿子朴镇宇因从属的釜山读书联合会被控为左翼社团而遭到逮捕，更受到残酷的虐待和不公的指控。 虽然爱钱却更重感情的佑硕，就这样走上了为民主辩护的道路。（来源：豆瓣电影 <a href="https://movie.douban.com/subject/21937445/">《辩护人》</a>）</p>
-<p>《辩护人》于2013年上映后，在韩国引发观影狂潮，成为当年票房亚军。影片最终留下了一个充满希望的结局：当宋佑硕被看作叛国者逮捕后，釜山的144名律师有99名挺身而出，为他辩护。而釜山地方法院也在2014年2月13日对“釜林事件”进行了改判，判决当年的5名被告人无罪，而此时，距离一审判决已经时隔33年。这部电影在中国互联网上催生了一句有意思的评论：“我们有改变电影的国家，他们有改变国家的电影。”（来源：南都周刊 <a href="http://www.nbweekly.com/culture/arts/201404/36359.aspx">《他们有改变国家的电影》</a>）</p>
-<p>CDTV向您推荐《辩护人》，<a href="http://www.bilibili.com/video/av1864858/">请点击这里</a>观看。同时我们已把《辩护人》保存在了CDTV的BTSync”电影”收藏夹中，如果原视频被删除, <strong><span><a href="https://link.getsync.com/#f=CDTV-movie&sz=56E8&t=2&s=RCHZFABDZB3CHHMKIKKV3QAXIVITGGCQEQKMOTMMXX324IVXGZBA&i=CIT7FJ5IYL7EIL5XZRYVBIKZNX42GLCX7&v=2.0">请点击这里使用BitTorrent Sync (Sync)</a></span></strong>下载观看。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/cdtv-%E4%B8%80%E9%83%A8%E6%94%B9%E5%8F%98%E5%9B%BD%E5%AE%B6%E7%9A%84%E7%94%B5%E5%BD%B1-%EF%BC%9A%E3%80%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA%E3%80%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%AD%A6%E9%93%89/?category=18271" rel="tag">卢武铉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1%E3%80%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA%E3%80%8B/?category=18271" rel="tag">电影《辩护人》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD/?category=18271" rel="tag">韩国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">韩国电影</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E4%BA%94%E6%AF%9B%E8%A3%85%E9%80%BC%E9%81%AD%E9%9B%B7%E5%8A%88/" target="cdt-mirror">凌虚铺子：五毛装逼遭雷劈</a>
-</h2>
-<p><p>中国数字时代编辑注：<a href="http://weibo.com/lingxupuzi?is_hot=1">@凌虚铺子</a>原微博已被删除，本文链接来自谷歌缓存。</p>
-<p>【装逼遭雷劈】严复有言“华风之弊，八字尽之。始于作伪，终于无耻。”一百多年过去，严复这一名言用于<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a> <a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 等大五毛身上，再贴切不过了。</p>
-<p>网络代有红人出，各领风骚三五天。最近，共青团中央网络影视中心党组成员、副主任<a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 女士一夜间爆红微博，成为史上成名最快的网红。这位口含天宪、以道德逼自居的团干，一边义正词严的高呼坚决抵制西方价值观，一边把儿子、外甥、外甥女送到西方去留学。并且挥舞道德大棒，对她看不顺眼的网友口诛笔伐。麻逼，许你儿子在加拿大留学，不许人家凤姐在纽约美甲？许你在微博上得瑟，不许人家papi酱在微博上呛声？什么逻辑？</p>
-<p>事实上，在<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a><a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 等大五毛身上，集中了严复所言的伪君子所有物理特征：一是一边高调反美反西方，一边是崇洋媚外，把妻儿老小都送往西方敌对势力前线，自己坚持在后方做爱国生意牟利；二是是顺我者昌，逆我者亡，对所有的反对意见都无法容忍，认为只有自己是无限正确的；三是口口声声反对资产阶级自由化，自己却当“捂产阶级”不敢公开自己的财产；四是回避自己才是造成社会矛盾的主体，而对揭露真相的大加鞭挞。总而言之，极度地虚伪，极度地的无耻。</p>
-<p>网友常说，装逼遭雷劈。这句应在了<a href="http://weibo.com/n/%E5%B0%8F%E8%94%BA?from=feed&loc=at" target="_blank">@小蔺</a> 主任身上了。这位靠装逼博出位的网红，一夜之间就被网友扒得精光，不仅扒出了她几年前送儿子外甥出国留学、外甥外甥女都在加拿大留学的新闻，而且肉出蔺主任的小孩出国留学前，在北京就读的是加拿大枫叶国际学校，蔺主任吓得删光了相关微博。可谓是光屁股跳舞，转圈圈丢人。网友赋诗云：“勉从虎穴暂栖身，说破英雄惊煞人！巧借留学来掩饰，一家三个余则成。”</p>
-<p>其实，这不是她一个人的故事，而是天朝名利场一道炫目的风景。今年年初，穿阿玛尼列席深圳“两会”的13岁少年装逼说“不要让一张考卷决定未来、决定一生。”后来被网友扒出，这孙子从幼儿园到现在一直在装逼。过去在校园在选秀场上装装也就罢了，居然装到参政议政的“两会”殿堂。网友一针见血地说“对亿万穿不起阿玛尼的孩子来说，影响他们未来的幸亏还有一张考卷，等这张考卷都没了，中国就都是你们阿玛尼的了。”还有那位<a href="http://weibo.com/n/%E4%BE%A0%E9%AA%A8%E6%9F%94%E6%83%85%E7%9A%84%E6%9D%A8%E5%8D%8E?from=feed&loc=at" target="_blank">@侠骨柔情的杨华</a> 杨桑，一边高喊核平日本，一边把女儿送去为日本社长太君服务。至于那个把爱国生意做到美国的<a href="http://weibo.com/n/%E5%8F%B8%E9%A9%AC%E5%8D%97?from=feed&loc=at" target="_blank">@司马南</a>  更无耻，以至于上帝都看不下去，予以“电梯夹头”的严重警告。所以说，无论这些大五毛们表演得多么卖力，装得多么自信，都难逃一个耻辱的标签—骗子。我之所以称五毛为蛆虫？是因为它们总是发誓与粪坑共存亡，但最大的愿望是变成苍蝇飞出粪坑以苟利，但繁殖的还是蛆虫，还是在粪坑里吃屎！</p>
-<p>其实，在一个多元社会里，你可以信马列主义，信毛泽东思想，信雷锋精神，也可以信上帝，信佛祖，信真主，信关公，但是要真信，不能口是心非。我为什么对以夹头为代表古生代、以胡编为代表的中生代、以臭带鱼为代表的新生代五毛们深恶痛绝？因为从某种意义上讲，他们比贪官更可恶！贪官搂钱玩女人尚属于人性本能；而五毛是混淆是非，颠倒黑白，毁坏人的良知和道德，破坏社会伦理和秩序。并且会带坏涉世未深的青少年！从而毁灭一个民族的未来！</p>
-<p>西谚有言：大狗要叫，小狗也要叫。按照上帝赋予的声音叫，便是天籁之音！哈耶克说“通往奴役的道路上铺满了鲜花。”好的社会，不是理想国，而是一个有缺陷的、可以不断改进的，彼此尊重、愿意妥协、求同存异的社会。任何以理想国的名义，强制推行一种声音，一个主义，一个信仰的，都与现代文明相悖！</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%87%8C%E8%99%9A%E9%93%BA%E5%AD%90%EF%BC%9A%E4%BA%94%E6%AF%9B%E8%A3%85%E9%80%BC%E9%81%AD%E9%9B%B7%E5%8A%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">小蔺主任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">蔺主任</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -687,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -697,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

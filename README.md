@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,106 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9D%8E%E9%93%B6%E6%B2%B3-%E7%8E%8B%E5%B0%8F%E6%B3%A2%EF%BC%9A%E6%9C%89%E4%B8%80%E4%BA%9B%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%AF%8F%E4%B8%80%E5%A4%A9%E9%83%BD%E6%98%AF%E6%84%9A%E4%BA%BA%E8%8A%82/" target="cdt-mirror">李银河 | 王小波：有一些时期，每一天都是愚人节</a>
+</h2>
+<p><p><strong>中国数字时代编辑注：本文转自李银河微信公众号，选自王小波《思维的乐趣》。</strong></p>
+<blockquote><p>有一些时期，每一天都是愚人节。我在这样的气氛里长大，有一天，上级号召大家去插队、到广阔天地里，“滚一身泥巴，炼一颗红心”，我就去了，直到现在也没有认真考较一下，自己的心脏是否因此更红了一些。</p></blockquote>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8A%E5%8D%887.52.00.png?resize=448%2C300" alt="Screen Shot 2016-04-02 at 上午7.52.00" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.52.00.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.52.00.png?w=448 448w" sizes="(max-width: 448px) 100vw, 448px" data-recalc-dims="1"><br><span>王小波</span></p>
+<p>积极的结论</p>
+<p>（一）</p>
+<p>我小的时候，有一段很特别的时期。有一天，我父亲对我姥姥说，一亩地里能打三十万斤粮食，而我的外祖母，一位农村来的老太大，跳着小脚叫了起来：“杀了俺俺也不信”。她还算了一本细帐，说一亩地上堆三十万斤粮，大概平地有两尺厚的一层。当时我们家里的人都攻击我姥姥觉悟太低，不明事理。我当时只有六岁，但也得出了自己的结论：我姥姥是错误的。事隔三十年，回头一想，发现我姥姥还是明白事理的。亩产三十万斤粮食会造成特殊的困难，那么多的粮食谁也吃不了，只好堆在那里，以致地面以每十年七至八米的速度上升，这样的速度在地理上实在是骇人听闻：几十年后，平地上就会出现一些山峦，这样水田就会变成旱田，旱田则会变成坡地，更不要说长此以往，华北平原要变成喜玛拉雅山了。</p>
+<p>我十几岁时又有过一段很特别的时期。我住的地方（我家在一所大学里）有些大学生为了要保卫党中央、捍卫毛主席而奋起，先是互相挥舞拳头，后用长矛交战，然后就越打越厉害。我对此事的看法不一定是正确的，但我认为，北京城原来是个很安全的地方，经这些学生的努力之后，在它的西北郊出现了一大片枪炮轰鸣的交战地带，北京地区变得带有危险性，故而这种做法能不能叫作保卫，实在值得怀疑。有一件事我始终想知道：身为二十世纪后半期的人，身披铠甲上阵与人交战，白刀子进红刀子出，自我感觉如何？当然，我不认为在这辈子里还能有机会轮到我来亲身体验了，但是这些事总在我心中徘徊不去。等到我长大成人，到海外留学，还给外国同学讲起过这些事，他们或则直愣愣地看着我，或则用目光寻找台历——我知道，他们想看看那一天是不是愚人节。当然，见到这种反应，我没兴趣给他们讲这些事了。</p>
+<p>说到愚人节，使我想起报纸上登过的一条新闻：国外科学家用牛的基因和西红柿做了一个杂种，该杂种并不到处跑着吞吃马粪和腐殖质，而是老老实实长在地上，结出硕大的果实。用这种牛西红柿做的番茄酱带有牛奶的味道，果皮还可以做鞋子。这当然是从国外刊物的愚人节专号上摘译的，像这样离奇的故事我也知道不少，比方说，用某种超声波哨子可以使冷水变热，用砖头砌的炉灶填上煤末子就可以炼出钢铁；但是这些故事不是愚人节的狂想，而是我亲眼所见。有一些时期，每一天都是愚人节。我在这样的气氛里长大，有一天，上级号召大家去插队、到广阔天地里，“滚一身泥巴，炼一颗红心”，我就去了，直到现在也没有认真考较一下，自己的心脏是否因此更红了一些。这当然也是个很特别的时期。消极地回顾自己的经历是不对的，悲观、颓废、怀疑都是不对的。但我做的事不是这样，我正在从这些事件中寻找积极的结论，这就完全不一样了。</p>
+<p>（二）</p>
+<p>我插队不久就遇到了这样一件事，有一天，军代表把我们召集起来，声色俱厉地喝斥道：你们这些人，口口声声要保卫毛主席，现在却是毛主席保卫了你们，还保卫了红色江山，等等。然后就向我们传达说，出了林彪事件，要我们注意盘查行人（我们在边境上）。散了会后，我有好一段时间心中不快——像每个同龄人一样，誓死保卫毛主席的口号我是喊过的。当然，军代表比我们年长，又是军人，理当在这件事上有更多的责任， 这是问题的一个方面；另一方面，知青娃子实在难管，出了事先要昨唬我们一顿，这也是军代表政治经验老到之处。但是这些事已经不能安慰我了， 因为我一向以为自己是是个老实人，原来是这样的不堪信任——我是一个说了不算的反复小人！说了要保卫毛主席，结果却没有保卫。我对自己要求很严，起码在年轻时是这样的。经过痛苦的反思，我认为自己在这件事上是无能为力的，假如不是当初说了不负责任的话，现在就可以说是清白无辜了。我说过自己正在寻找积极的结论，现在就找到了一个。假设我们说话要守信义，办事情要有始有终，健全的理性实在是必不可少。</p>
+<p>有关理性，哲学家有很多讨论，但根据我的切身体会，它的关键是：凡不可信的东西就不信，像我姥姥当年对待亩产三十万斤粮的态度，就叫做有理性。但这一点有时候不容易做到，因为会导致悲观和消极，从理性和乐观两样东西里选择理性颇不容易。理性就像贞操，失去了就不会再有；只要碰上了开心的事，乐观还会回来的。不过这一点很少有人注意到。从逻辑上说，从一个错误的前提什么都能推出来；从实际上看，一个扯谎的人什么都能编出来。所以假如你失去了理性，就会遇到大量令人诧异的新鲜事物，从此迷失在万花筒里，直到碰上了钉子。假如不是遇到了林彪事件，我至今还以为自己真能保卫毛主席哩。</p>
+<p>我保持着乐观、积极的态度，起码在插队时是这样的。直到有一天患上了重病，加上食不果腹，病得要死。因此我就向领导要求回城养病。领导上不批准，还说我的情绪有问题。这使我猛省到，当时的情绪很是悲伤。不过我以为人生了病就该这样。旧版《水浒传》上，李逵从梁山上下去接母亲，路遇不测，老母被老虎吃了。他回到山寨，对宋江讲述了这个悲惨的故事之后，书上写着“宋江大笑”。你可以认为宋江保持了积极和乐观的态度， 不过金圣叹有不同的意见， 他把那句改成了“李逵大哭”。我同意金圣叹的意见，因为人遇到了不幸的事件就应该悲伤，哪有一天到晚呵呵傻笑的。当时的情形是这样的：虽然形势一片大好 （这一点现在颇有疑问） ，但我病得要死，所以我觉得自己有理由悲伤。这个故事这样讲，显得有点突兀，应当补充些缘由：伴随着悲伤的情绪，我提出要回城去养病；领导上不批准，还让我高兴一点，“多想想大好形势”。现在想起来情况是这样：四人帮倒行逆施，国民经济行将崩溃，我个人又病到奄奄一息，简直该悲伤死才好。不过我认为，当年那种程度的悲伤就够了。</p>
+<p>我认为，一个人快乐或悲伤，只要不是装出来的，就必有其道理。你可以去分享他的快乐，同情他的悲伤，却不可以命令他怎样怎样，因为这是违背人类的天性的。众所周知，人可以令驴和马交配，这是违背这两种动物的天性的，结果生出骡子来，但骡子没有生殖力，这说明违背天性的事不能长久。我个人的一个秘密是在需要极大快乐和悲伤的公众场合却达不到这种快乐和悲伤应有的水平，因而内心惊恐万状，汗下如雨。一九六八年国庆时，我和一批同学拥到了金水桥畔，别人欢呼雀跃，流下了幸福的眼泪，我却恨不能找个地缝钻下去。还有一点需要补充的，那就是作为一个男性，我很不容易晕厥，这更加重了我的不幸。我不知道这些话有没有积极意义，但我知道，按当年的标准，我在内心里也是好的、积极向上的，或者说，是“忠”的，否则也不会有勇气把这些事坦白出来。我至今坚信，毛主席他老人家知道了我，一个十七岁的中学生的种种心事，必定会拍拍我的脑袋说：好啦，你能做到什么样就做到什么样罢，不要勉强了。但是这样的事没有发生 （恐怕主要的原因是我怕别人知道这些卑鄙的心事，把它们隐藏得很深，故而没人知道），所以我一直活得很紧张。西洋人说，人人衣柜里有一具骷髅，我的骷髅就是我自己；我从不敢想像自己当了演员，走上舞台，除非在做噩梦时。这当然不是影射什么，我只是在说自己。</p>
+<p>有关感情问题，我的结论如下，在这方面我们有一点适应能力。但是不可夸大这种能力，自以为想笑就能笑、想哭就能哭。假如你扣我些工资，我可以不抱怨；无缘无故打我个右派，我肯定要怀恨在心。别人在这方面比我强，我很佩服，但我不能自吹说达到了他的程度。我们不能欺骗上级，误导他们。这是老百姓应尽的义务。</p>
+<p>（三）</p>
+<p>麦克阿瑟将军写过一篇祈祷文，代他的儿子向上帝讨一些品行。各种品行要了一个遍，又要求给他儿子以幽默感。假设别的东西不能保持人的乐观情绪，幽默感总能。据我所见，我们这里年轻人没有幽默感，中老年人倒有。在各种讨论会上，时常有些头顶秃光光的人，面露蒙娜丽莎式的微笑，轻飘飘地抛出几句，让大家忍俊不禁。假如我理解正确的话，这种幽默感是老奸巨猾的一种，本身带有消极的成分。不要问我这些人是谁，我不是告密者；反正不是我，我头顶不秃。我现在年登不惑，总算有了近于正常的理性；因为无病无灾，又有了幽默感，所以遇到了可信和不可信的事，都能应付自如。不过，在我年轻的时候，既没有健全的理性，又没有幽默感，那是怎么混过来的，实在是个大疑问。和同龄人交流，他们说，自己或则从众，或则听凭朴素的感情的驱动。这种状态，或者可以叫作虔诚。</p>
+<p>但是这样理解也有疑问。我见到过不少虔信宗教的人，人家也不干荒唐事。最主要的是：信教的人并不缺少理性，有好多大科学家都信教，而且坚信自己的灵魂能得救；人家的虔诚在理性的轨道之内，我们的虔诚则带有不少黑色幽默的成分，如此看来，问题不在于虔诚。必须指出的是，宗教是在近代才开始合理的，过去也干过烧女巫、迫害异端等勾当。我们知道，当年教会把布鲁诺烧死了。就算我虔信宗教，也不会同意这种行为——我本善良，我对这一点极有把握，所以肯定会去劝那些烧人的人：诸位，人家只不过是主张曰心说，烧死他太过分了。别人听了这样的话，必定要拉我同烧，这样我马上会改变劝说的方向，把它对准布鲁诺：得了吧，哥们儿，你这是何苦？去服个软儿吧。这就是我年轻时做人的态度，这当然算不上理性健全，只能叫作头脑糊涂；用这样的头脑永远也搞不清楚曰心说对不对。如果我说中国人里大多数都像我，这肯定不是个有积极意义的结论。我只是说我自己，好像很富柔韧性。因为我是柔顺的，所以领导上觉得让我怎样都成，甚至在病得要死时也能乐呵呵。这是我的错误。其实我没那么柔顺。</p>
+<p>我的积极结论是这样的：真理直率无比，坚硬无比，但凡有一点柔顺，也算不了真理。安徒生有一篇童话（光荣的荆棘路），就是献给这些直率、坚硬的人，不过他提到的全是外国人。作为中国的知识分子，理应有自己的榜样。此刻我脑子里浮现出一系列名字：陈寅恪教授，冯友兰教授，等等。说到陈教授，我们知道，他穷毕生精力，考据了一篇很不重要的话本，《再生缘》。想到这件事，我并不感到有多振奋，只是有点伤感。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9D%8E%E9%93%B6%E6%B2%B3-%E7%8E%8B%E5%B0%8F%E6%B3%A2%EF%BC%9A%E6%9C%89%E4%B8%80%E4%BA%9B%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%AF%8F%E4%B8%80%E5%A4%A9%E9%83%BD%E6%98%AF%E6%84%9A%E4%BA%BA%E8%8A%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E4%BA%BA%E8%8A%82/?category=18271" rel="tag">愚人节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B0%8F%E6%B3%A2/?category=18271" rel="tag">王小波</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BD%93%E6%88%91%E8%AF%B4%E4%B8%8D%EF%BC%8C%E9%82%A3%E5%B0%B1%E6%98%AF%E4%B8%8D/" target="cdt-mirror">微思客 | 当我说“不”，那就是“不”</a>
+</h2>
+<p><p>作者：孙金昱</p>
+<blockquote><p>编者按：娱乐圈总是不乏新闻，吴奇隆与刘诗诗的婚礼刚过，包贝尔和包文婧婚礼再成焦点。不过，这场婚礼吸引大众目光的并非新娘新郎，而是伴娘柳岩。</p>
+<p>这位走性感风的女星在婚礼上被几位伴郎拉着加入“对抗下水”的游戏，如果不是贾玲和几位女士出手相助，估计会被成功扔下水，我们也能够想象，媒体随后会发出大量柳岩湿身照、走光照。事发当天，众多网友谴责伴郎团这种行为令人失望，和那些频频出现的低俗闹婚没有本质区别，而另一边则是明星的粉丝和其他围观网友表示只是“游戏”“只是玩笑”“没有什么大不了”。</p>
+<p>这件“没有什么大不了”的事件背后，却事关所有人权利的底线——拒绝的权利。</p></blockquote>
+<p>昨天，柳岩哭着道歉，但是这一道歉似乎将争论双方的冲突升级。一方表示，为什么是受害者道歉，这个世界怎么了？另一方则表示，柳岩道歉了，你们的愤怒真愚蠢。</p>
+<p>昨天，包贝尔也在微博向柳岩和伴郎团同时道歉，表示婚礼的一个片段被误读扩散，贴上恶俗的标签，才使双方受到攻击谩骂。</p>
+<p>明星的不同表态、各自经济公司的利益纠葛、公关团队的宣传策略、粉丝的复杂情感、路人的围观似乎又将事件推向一个“说不清楚”的方向，最后只能含糊地评论一句“贵圈真乱”。可是，这个事情还真的值得好好说清楚。</p>
+<p><strong>湿身的伴娘：一个玩笑的性质有多严重？</strong></p>
+<p>“只是游戏”“只是玩笑”“没有恶意也没有不尊重”，这是我们最常听到的对伴郎团队的辩护。但是，这个辩护有效吗？</p>
+<p>没有，理由很简单，对于大多数人而言，他们一旦认识到事情的性质和其严重性，是不会去做的。在这个婚礼游戏中道理是一样的，如果伴郎团意识到了问题有多严重，他们应该并不会不断地去闹柳岩，一次次试图将她扔下水。而问题恰恰出现在了他们的无知无觉上。</p>
+<p><strong>在事前决定将伴娘扔下水时，他们没有意识这和扔一个男人下水是不一样的。</strong>伴娘礼服轻薄色浅，而柳岩当日穿着的又是抹胸款式，动作幅度稍大、被水浸泡都会走光，加之大量媒体在场，落水画面必将向公众传播。即使柳岩一贯走性感路线，这不能表明她希望自己落水、走光、落水走光照片被公布在媒体上。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8A%E5%8D%887.21.56.png?resize=271%2C410" alt="Screen Shot 2016-04-02 at 上午7.21.56" data-recalc-dims="1"><br><span>（柳岩在当日的衣着）</span></p>
+<p><strong>在试图将柳岩扔入泳池的过程中，他们没有意识到柳岩是不愿意的。</strong>即使伴郎团自己（也包括新郎）不断强调自己没有恶意，只是游戏活跃气氛，这依然不能证明柳岩愿意加入这个“没有恶意的游戏”，而柳岩的尖叫、挣扎、抓紧贾玲等表现已经充分表明她不想加入这个游戏。这一点无论柳岩事后做如何表态——道歉也好、不介意也好——都无法改变。贾玲和其他上前阻止伴郎团的在场女士也恰恰证明了，柳岩的不愿意是可以被判断出来的。我想目前没有证据显示贾玲等几位女士的理解能力和判断能力明显低于或高于伴郎团成员，她们的“意识到柳岩不愿意”是普通人在当时情景下本应有的的正常反应。</p>
+<p>这场“游戏”极可能给一方带来不想要的结果（走光、湿身、曝光），这场“游戏”的参与方之一不愿意参与这场游戏，那么在这种情况下，所谓的“对抗下水”还适合被称之为“游戏”么？游戏，应当是违背一方意愿，而让其他方开心取乐的么？</p>
+<p>当然，柳岩最终没有被扔下水，贾玲最终用红包完成了一次照顾双方颜面的解围。或许可以说，这个事情不过如此，没什么严重后果，不值得小题大做，伴郎团粗心，无知者不怪。可是，想一想这样的无知如何普遍地存在于我们每个人的生活里，如何普遍地侵害着我们每一个人，不得不说一句细思恐极。</p>
+<p><strong>拒绝的表达：什么时候我的“不”，才是“不”？</strong></p>
+<p>我想每一个女性都没有足够的幸运逃脱类似的阴影，小到童年时候来自调皮男同学的恶作剧，大到成年后工作场所中来自上司或同事的骚扰，和伴娘事件一样，女性不愿意参与这样的游戏和玩笑，但是我们被教育要放轻松，要玩得起，要理解他们作为男人的本性，要体会他们在这些所谓的玩笑中释放的善意……我想在这些事情之中，<strong>每一个女性都曾高喊过一个坚定的“不”，可是这一声“不”或者被教导我们温柔乖巧的教育压在心里，或者，即使它被喊了出来，却没有被当做“拒绝”来理解。</strong></p>
+<p>我也曾被这种男孩子的游戏困扰。当时一个男同学拆了打火机，说想用里面的点火器电我一下。我不喜欢被电一下，于是拒绝。然而拒绝无效，对方反复说没有伤害只是好玩，然而直到我最后哭了他才意识到我是真的不愿意，但是他依然不解：“为什么这么大人了还会哭？”。</p>
+<p>因为我必须要花这么大力气才让你明白我的“不”是“不”的意思啊。</p>
+<p>因为我要用哭这种不体面的方式让你明白我的“不”是“不”的意思，我真的很愤怒啊。</p>
+<p>如果你问，这位男同学有恶意么，他是一个不尊重我的人么，我依然会回答：他没有，他不是。可是他确实强迫我和他玩一个我不想玩、也得不到乐趣的游戏。</p>
+<p>我们的文化里有这样性别不友好的种子。从“壁咚”到霸道总裁、直到色情片，<strong>我们的大众文化渗透这样的信息：女性的拒绝是欲拒还迎。</strong>女性喜欢被霸道甚至粗暴地对待，她们希望自己的命运被安排被决定，这让她们产生被呵护、被爱的感觉。所以她们说“不”，不要当真。又或者，女性的拒绝远不如取乐重要——我知道你在拒绝，可是，我就是喜欢看你无可奈何的样子，只要没对你造成什么实际伤害就好了。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8A%E5%8D%887.23.30.png?resize=474%2C318" alt="Screen Shot 2016-04-02 at 上午7.23.30" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.23.30.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.23.30.png?w=474 474w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><span>（电影《何以笙箫默》颇有代表性。其中一幕，何以琛要求行使“丈夫的权利”，“霸道总裁范儿”的背后却是婚内强奸的嫌疑）</span></p>
+<p><strong>“不”必须被认真对待，拒绝必须被认真对待。</strong>一定有人会问，如果真的所有的“不”都被当做拒绝对待，是不是生活太严肃、少了许多情趣？</p>
+<p>然而，生活无趣一点并不可怕，可怕的是受害者们不仅无法有效拒绝，还要为她们受到的伤害道歉。这个伴娘湿身的“游戏”引起如此多的愤怒不是因为我们如何在意、喜爱柳岩这个个人，不是因为柳岩有多少的忠诚粉丝，不是因为我们愤怒柳岩的不愤怒，而是这一事件引起了太多太多女性的共情：我们曾是受害者，我们将来也无法保障不会被强迫卷入这样的“游戏”供人取乐。</p>
+<p>其实受害者又何止于女性？无论男孩女孩，大概在童年时都有被亲戚强行逗着玩的经历。孩子并没有什么抗拒的能力，他们甚至连完整地表达不同意的能力也没有，他们无从判断大人讲话是不是夸张，是不是吓人，他们会紧张会哭闹，但是这种情绪往往又成为大人取乐的对象，当然了，如果哭闹得过分了，他们会被批评为“不懂事”。同样的情况，几乎可见于所有弱势或少数群体——少数族裔、LGBT群体、某些宗教信徒、拥有不同生活方式的人……</p>
+<p>回到这一部分最初的问题：<strong>什么时候我的“不”，才是“不”？答案是，所有时候。</strong></p>
+<p><strong>个人选择：在一个性别不友善的社会，我能做什么？</strong></p>
+<p>婚礼的现场，并没有一位男士站出来阻止其他人将柳岩扔下水。我很好奇如果有这样一位男士，舆论会如何评价他。也许有了这位男士的出手相救，柳岩就不需要道歉，不需要被指责“一向性感”，参与扔柳岩入水的男星会变得无可争议地低俗……当然，这样的画面充满讽刺，因为一位作为受害者的女性在整个事件中被如何对待和评价，取决于男性阵营中是否有一位主持正义的“叛变者”。</p>
+<p>真正出手相助的是那个同样在男权话语下被取乐的贾玲。或许，这是一种本能的同病相连。<strong>走谐星路线的贾玲和走性感路线的柳岩在发展路径上大相径庭，可是却共享着何其相似的命运。而她们之间的相异和相似，似乎更加有力地证明着，在这个性别不友善的社会，没有女性能够足够幸运避开针对自己性别的低级把戏。</strong></p>
+<p>在这样的社会里，我们能做什么？</p>
+<p><strong>每一个人都应该认真对待对方的拒绝。</strong>也许“不”真的有许多含义，但是在大多数情景下，人靠着常识和本能依然能够判断对方是真的拒绝，包括喊叫、哭泣、不愉快的神情、抗拒的肢体语言、详细的拒绝理由……无知无觉本身即是一种不道德，而非为错误行为开脱的理由。熟人、亲戚、朋友的关系也一样不能为这种错误行为开脱。</p>
+<p>如果你有能力帮助被害人，请尽量帮助他／她。如果你迫于压力无法帮助他／她，至少不要为那些拿别人取乐的人开脱，即使受害人道歉，即使受害人表示不在乎，这就好像绑匪的罪责不会因为人质有斯德哥尔摩综合症而有丝毫减轻。</p>
+<p>如果你不幸就是一个受害者，别真诚地为自己的受害感到自责和抱歉。</p>
+<p>如果你曾这样强行拉着别人来玩只有你喜爱的“游戏”，请给对方真诚地道歉。</p>
+<p>（作者／编辑：孙金昱，伦敦大学学院政治理论博士候选人）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BD%93%E6%88%91%E8%AF%B4%E4%B8%8D%EF%BC%8C%E9%82%A3%E5%B0%B1%E6%98%AF%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E7%A4%BC/?category=18271" rel="tag">婚礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%B2%A9/?category=18271" rel="tag">柳岩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%A1%E5%A6%87%E7%BE%9E%E8%BE%B1/?category=18271" rel="tag">荡妇羞辱</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81-%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95/" target="cdt-mirror">政见 | 一张图读懂中国经济的不确定性，以及如何避免陷入动荡</a>
+</h2>
+<p><p>近几个月，中国经济前景引发越来越多的关注和忧虑。</p>
+<p>2015年8月汇率政策意外调整，引发了人民币对美元汇率持续不断下跌的预期；而股市在经历了上半年疯狂上涨后，也一路下跌，甚至引发全球金融市场的动荡。种种政策的改弦更张更是放大了市场的不确定性，熔断机制推行不久就迅速叫停，是一个代表性的例子。</p>
+<p>与短期波动相伴随的是对于中国经济前景不断加深的悲观。很多学者都将一系列的政策失误归结为中国政府与市场沟通不够，一些高级官员（如证监会副主席方星海在达沃斯）也如此表态。不过，事实真的只是如此吗？</p>
+<p>经济政策不确定性指数或许是个不错的观测指标。这一指数由斯坦福大学和芝加哥大学的几位经济学家编制，大体上说，这个团队做的事就是通过一定算法，将所有相关的媒体文章转化为可以量化的指数，用以衡量市场对于经济政策的不确定性。几位经济学家选择了英文报纸《南华早报》作为分析文章来源，计算了从1995年以来每月的指数。考虑到英文和中文世界的信息或许存在的信息不对称，单靠该指数衡量国内市场状况并不可靠，但这并不妨碍反映市场全貌。</p>
+<p>政见观察员基于这一指数绘制了下图。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%8C%87%E6%95%B0.png?resize=550%2C269" alt="经济政策不确定性指数" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?resize=300%2C147 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?resize=768%2C375 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?resize=1024%2C500 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?w=1916 1916w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>图中有几个主要的观测点。</p>
+<p>一是在政府换届时（比如2002年和2012年）不确定性指数走高，新领导人上台指数回落。这一届政府上台也不例外，虽然在2013年中曾发生过“钱荒”，或者说是银行流动性危机。</p>
+<p>二是2008年金融危机发生后政策不确定性攀升，这一点中国和其他国家一样。</p>
+<p>第三，并不意外的是，在近半年间，这一指数重新回到高位，这一趋势大约自2015年8月开始，但另一方面，有趣的是，近期的政策不确定性并不是历史最高水平。</p>
+<p>这种不确定性实际上不仅反映了市场对政策本身的不确定性，也隐含了对市场状况本身的不确定性。因为近期中国经济走弱，预期和市场信心的作用就更加明显，因此近期的市场动荡是两者作用的叠加。</p>
+<p>我们可以简单地将问题归咎于政府政策变动与市场沟通不够，未能让市场充分领会政策意图。但是同时，我们应该意识到深层次的原因是，经济基础走弱，市场本身自我实现特征也会更加明显。你悲观，我也悲观，因为我们都这样想，所以果不其然。</p>
+<p>好的沟通是什么？是更好地表达政策意图，向市场传递信号，但同时，由于政府掌握有信息优势，也应该更准确地向市场报告经济运行状况。但政府在这方面的能力极大地受限于缺乏公信力的经济数据。另外，有很多研究证明，政策制定者的确比市场更好地把握经济的状况，但却并不能取代市场主体自己发现市场的机制。而在这方面，更分散、更自由、更不受限的信息传播机制和市场第三方的信息提供，理所应当地应该扮演更重要的角色。<strong>如果我们一直等待一个中央计划者垄断信息提供，那么可见的未来，这种经济动荡还会加剧。</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81-%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7/?category=18271" rel="tag">不确定性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">经济改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%BD%93%E5%A5%B3%E6%9D%83%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/" target="cdt-mirror">东网｜赵思乐：当“女权”成为敏感词</a>
 </h2>
 <p><p>青年女权行动派的新浪微博“女权行动派更好吃”又被封号了，微博申诉客服给出的理由是该微博“发布有害信息”。编辑张累累（化名）感到很冤，因为这个微博除了女权活动和女权文章就不发别的信息。</p>
@@ -603,137 +700,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A6%BB%E5%BC%80%E6%96%B0%E5%8D%8E%E7%A4%BE-%E9%9A%90%E8%BA%AB%E6%97%A7%E6%B1%9F%E6%B9%96/" target="cdt-mirror">博客天下 | 六神磊磊：离开新华社 隐身旧江湖</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A.jpg?resize=600%2C400" alt="六神磊磊" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/六神磊磊.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/六神磊磊.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>磊磊说他是金庸小说里胆子最小的寿南山，被官二代格格恐吓过一次，就乖乖地度过了平凡一生。</p></div>
-<p><strong>文| </strong>谢梦遥 <strong>图| </strong>王远凌 <strong>编辑| </strong>汤涌</p>
-<p>六神磊磊11岁那年跌进了那个神奇的江湖，那是在寒假英语补课结束后的傍晚，金庸武侠世界里的人穿着奇装异服，说着文绉绉的话。他们彼此之间打来打去，但又遵守着某些规则，比如说话算数，比如恩怨分明。</p>
-<p><strong>那时候，他还不叫六神磊磊。奶奶叫他“书呆子”，身份证上的名字是王晓磊。他认为，这名字几乎不可能在武侠小说出现，但又表示很庆幸自己不叫王爱国。</strong></p>
-<p><strong>生于1984年的王晓磊后来成为新华社重庆分社记者，同时，他也是微信公号“六神磊磊读金庸”的唯一运营者。</strong>这个号的主要功能，不是学究式研读金庸小说的文本与情节，而是将其作品与社会时事捆绑起来解读。朝鲜的张成泽被处决时，《金庸小说里那些“狗都不如”的二把手》更新，东莞扫黄后，《当余沧海攻入群玉院——金庸江湖里的“扫黄”》发表……</p>
-<p>很多人未必知道王晓磊，但他们喜欢那个在武侠与现实之间流畅跳转的叫六神磊磊的家伙。</p>
-<p><strong>金庸迷</strong></p>
-<p>六神磊磊曾无数次翻读金庸。经典的三联版，金庸晚年的修订版，最原始的报纸连载版——那是由网民整理出来的电子书，每部小说的每一版，他都读过。纯粹因为看得多，他能背出《天龙八部》的回目词。少年时期，像所有偷读武侠的孩子一样，他有一个专门用于被窝里的手电筒；他也有属于自己的独特记忆，附近仓库无人问津的空旷天台是他的秘密花园，放学后为躲开父母，他常在那里读至日暮。</p>
-<p>很早的时候，他就发现了金庸小说里的一些“彩蛋”。<strong>比如名字有“天德”的人都是猥琐之辈（“他想写一个坏人的时候，他就习惯性地就取个天德，也没意识到重复”）；武功最高的几个人不是处男，就是太监；神医的老婆素质都不高……这些有趣的规律，后来都被他写到了公号文章里。</strong></p>
-<p>高考那年他在读，复读那年他在读，升入大学后，江湖对他而言不再仅仅是打打杀杀，他逐渐能看到更多的复杂性。最近一次读就在采访的前一天，为了查证一句话，他翻开《笑傲江湖》就停不下来，一口气读了半个小时。</p>
-<p>回头看来，那本入门读物恰恰给了六神磊磊最糟糕的阅读体验。在英语老师家，他借走了同学的《神雕侠侣》。那是本盗版书，破损严重的黄色封皮上，用白线粗糙地勾勒出杨过与小龙女，后面跟着个巨大而怪异的动物——一只画得走样的雕。</p>
-<p>可能是为了节省成本，书中还大段大段地删节，其中跳过的一段是杨过给陆无双打开衣服接骨——六神磊磊是后来读到才知道的。<strong>“还有一句话叫‘乳酪一样的胸脯’，哇，我居然没看到，这么刺激的内容！”他拍着桌子大喊。</strong></p>
-<p>没错，很多时候，他不会一本正经，这就是六神磊磊。他长着一张圆脸，说话总是微微笑着，自带讽刺效果。饭局里，他的角色是那个努力活跃气氛的人。</p>
-<p>六神磊磊把金庸笔下的侠客做了划分，郭靖、乔峰当然是侠之大者，莫大则是侠之底线，不愿妥协亦不愿对抗，但偶尔竟也拔剑怒目。但他最喜欢的人连侠都谈不上，是范遥，“有点幽默感，有点坏，比较好玩。”</p>
-<p>把他放到武侠世界里，他会是谁呢？他把自己比作寿南山，即便通读过金庸的人也很难忆起的一个角色。寿南山武功低微，胆小怕事，被重伤的张无忌吓唬点中死穴，便照顾其一路，被赵敏欺骗患了见雪即毙的绝症，便迁居岭南终生。</p>
-<p>如果你见证了这个真名为王晓磊的家伙的成长历程，你会了解他为什么如此类比。他上学比别人早两年，相当长的岁月里，是班级中最矮小的人之一。<strong>同学给他起的外号是“哈利波特”、“猴子”，从来与彪悍无关。即使读了那么多部武侠小说，他也从没幻想过当大侠，毫无代入感。</strong></p>
-<p>他第一次卷入江湖非常荒谬，高中时同学们好茬架，成绩优异的他向来不参与，但那一次，朋友拉他同去，并安慰他己方有足够多的人手，好学生只要站着看就行。<strong>他决定参加一回，“成绩好的人不酷，我希望成绩坏的人能接纳我，这是小孩子的一个心思。”</strong></p>
-<p>到了指定的地方，他才发现同伙人并不多。随后可怕的事情就来了，一堆面包车冲了过来，跳出的都是“明显高一头、一看就牛逼很多”的孩子。基于人数与气势的绝对差距，战斗还没开始就已经宣告结束了。六神磊磊傻在当地，有种今天要完蛋的感觉。一个人冲到他前面抓住他，拿了把好像是刀的东西，往他肚子捅下去。</p>
-<p>后来他回忆，那个时刻突然变得很慢很慢，他的脑子过了无数想法，“我就这么窝囊地死在这样一场斗殴里？我爸妈怎么办？爷爷奶奶、外婆怎么办？”他说他想起了《鹿鼎记》里以为被点中死穴的韦小宝。</p>
-<p>“啪”的一声，铁器居然折断了。他从慢镜头中恢复过来，看到身上没有伤口，趁对方愣住的功夫，赶紧跑掉了。当天很冷，他衣服穿得也厚。</p>
-<p>那是王晓磊首次参加实战，也是在同一天，他永久退出。</p>
-<p><strong>国社记者</strong></p>
-<p>“六神磊磊读金庸”是这么启动的：某次漫长的封闭式业务培训期间，王晓磊决定开设微信公号以打发时间，那是2013年底。一开始，他就没打算让人发现自己是谁，所以故意避开常用网名，随便起了个名字。</p>
-<p>他一直小心翼翼地隐藏着职业身份。自然地，他会放出烟雾弹——某些有迹可循但又并不完全准备的信息，让人难以定位。<strong>一篇文章中，他提到大学毕业后的求职经历，“有个公司招一个弄稿子的人”，他抱着大学时写的一摞小说去了，靠着这些书，他得以说服公司他“能弄稿子”。</strong></p>
-<p>这段故事，与采访时他讲述入职新华社的过程几乎一致。我向他求证，他承认，“公司”就是新华社。只是细节略有不同。真实版本中，领导没翻他的书，后来才告诉他，“我看你搬这么一摞来，应该挺勤奋的。”</p>
-<p><strong>新华社是王晓磊迄今为止唯一的工作单位，一待就是近9年。2015年10月，他提出辞职。媒体圈内瞒不住，早先已有一些人知道他的身份。他辞职的事，朋友将其写进新闻，作为新华社记者的六神磊磊才被更大范围的人知晓。</strong></p>
-<p>离开新华社，他完全能养活自己，公号文章动辄上十万阅读人次，偶尔靠着篇末植入的广告，他就可以获得单篇超过当记者年薪的收入。但直至现在，对于他的辞职，母亲还瞒在鼓里。“永远不让她知道。她身体不太好，知道了之后受不了，‘没工作了怎么办？’”</p>
-<p><strong>一些人可能会把王晓磊的辞职解读为对体制的逃离，其实原因并没有那么复杂，公号越来越火，他想有更多的私人时间。</strong></p>
-<p>他对记录自己成长的新华社充满感情。开车载我（《博客天下》记者谢梦遥）在重庆转悠时，他特地给我指认新华社的办公楼。“我现在也没有觉得我是一个没组织的人，社就在那儿。”王晓磊说，“我喜欢在社附近活动，吃啊，玩啊。”同事照常两三周一聚，领导也在。</p>
-<p>当记者时，王晓磊负责政法条线，对基层党员的报道即属于他的常规任务。他本人有着12年党龄。新华社党内生活挺丰富，支部常组织大家讨论新闻业务，或者学习文件。先进性教育活动开展时，王晓磊要提交思想汇报。</p>
-<p>他不喜欢谈论左右，<strong>“以前我就写过，现有的制度是很好的，我们有人民代表大会，我们有宪法，只要能落实就是很好的。”</strong></p>
-<p><strong>成为六神</strong></p>
-<p>仅从文字上看，你很难把六神磊磊和王晓磊当成同一个人。</p>
-<p>在辞职前的最后几个月，王晓磊发表的作品包括《新动力描绘“十三五”新蓝图》、《以热血担当精神为国企改革“开路”》、《以“三严三实”挺起领导干部的精神脊梁》……写作风格规训、严谨。</p>
-<p>用他自己的话说，以前他也想“夹带私货”，结果领导退回的稿件，上面画的全是要求修改的圈圈。他曾在时评里写过这样的句子，“我们仿佛已经可以听见，许多非物质文化遗产一点一滴消失时发出的滴答声”。<strong>老同事不喜欢，他顺从地把修辞去掉，改为“遭遇危机”。随着资历见长，稿件上的圈圈越来越少。</strong></p>
-<p>但网络上的那个六神磊磊，呈现出是鲜活多变的风格。他可以嬉皮笑脸，《金庸、古龙、鲁迅会怎么写“爸爸去哪儿”》、《如果天龙八部有微信朋友圈》此类文章算是纯粹搞笑；他也可以深沉下来，用一种平实、温暖的语调谈论人生与记忆。但获得最多喝彩声的，还是他的时评。金庸小说的角色，仿佛成了他表达立场的临时演员，甚至有时候，他根本不需点明新闻事件，让故事情节自动呈现道理。</p>
-<p><strong>几乎所有文章，终将扣紧一个主题：读金庸。</strong></p>
-<p>六神磊磊具备一种把一切现实放置进金庸小说的能力：乘的士穿过西湖隧道时，他脑子里呈现的是《笑傲江湖》中西湖之下囚禁任我行的地牢；世界杯进行时，他按江湖势力划分各国球队；AK-47的发明者卡拉什尼科夫辞世，他研究起来什么功夫算是武林里的AK-47……</p>
-<p>我问他，如果把纸媒看作一个江湖，新华社属于哪个门派。</p>
-<p>“没想过。”王晓磊说，他陷入了几秒钟的沉默。然后，六神磊磊说话了：“少林派在江湖上这么多年，一直有创新的。七十二绝技不是达摩祖师就带过来了，而是历代高僧一点点创造的。”</p>
-<section><section></section><section><section><section><section><section></section><section></section></section><section><p><strong>“我希望我老东家能做少林派，不要做全真派，这是我的心里话，”他说，“全真派历史上很牛，人也很多。它曾经辉煌过，后来不创新，就垮掉了。”</strong></p>
-</section><section><section></section></section></section></section></section><p>这个表示从来不想当大侠的人承认，因为公号冠以“金庸”之名，在面临某些选择时，也会平添豪迈之气。去年5月新华社同事在贵州采访被一位当地干部抢了相机，他掂量了半天选择写一篇支持，“你连这个都不敢写了，你还读什么金庸，你还聊什么武侠？”</p>
-</section><p>“这不是什么神圣使命，只是不吐不快，不写会很憋。”六神磊磊说。</p>
-<p>心疼他的读者很多，有个追读他公号的官员托朋友劝他：“有的商人没了（微博）还有万贯家产，你没了（公号）怎么养活自己。”</p>
-<p>六神磊磊所长的，是那一手把故事中谈论品牌的功夫，一分钟前讲述了一个杨过和小龙女的凄美故事，一分钟后，一个地产广告也许就突然出现，但并不突兀，喜欢他的人还会哈哈大笑，打赏他一笔钱，顺便转发到自己的朋友圈。很少有人抱怨他发广告，有人从文章开头就开始猜这是什么类别的广告，还有人会先扯到文末看看是什么品牌，再回到开头读下去。</p>
-<p><strong>六神磊磊享受畅游江湖的乐趣，也相信谨慎和运气能让他避开凶险：正如在那个14岁的冬天所遭遇的，当时有个小混混握着刀向他冲来，差点要了他的命。</strong></p>
-<p><strong>今天的他，再也不会像那天一样以身涉险。</strong></p>
-<p><strong>撕裂三观的问答</strong></p>
-<section><strong>博客天下：</strong>可以把权力交给一个或者几个道德能力出色的人，这样效率更高。
-</section><p><strong>六神磊磊：</strong>否</p>
-<p><strong>博客天下：</strong>你相信anglebaby没有整容吗？</p>
-<p><strong>六神磊磊：</strong>答不了，对此一无所知。</p>
-<p><strong>博客天下：</strong>为保障社会公平，对富人征税应采用更高的税率。</p>
-<p><strong>六神磊磊：</strong>问题太简单，税有很多种</p>
-<p><strong>博客天下：</strong>全国高考应该用同一张卷。</p>
-<p><strong>六神磊磊：</strong>否</p>
-<p><strong>博客天下：</strong>是否拿掉孩子，应该是由怀孕的女性自己决定。</p>
-<p><strong>六神磊磊：</strong>在中国吗？是。</p>
-<p><strong>博客天下：</strong>应该全面放开生育，而不仅仅是放开二孩。</p>
-<p><strong>六神磊磊：</strong>是</p>
-<p><strong>博客天下：</strong>中国传统医学具有现代主流医学不能比拟的优势。</p>
-<p><strong>六神磊磊：</strong>否</p>
-<p><strong>博客天下：</strong>即使转基因食物还没有出现风险，也不应该在中国推广。</p>
-<p><strong>六神磊磊：</strong>答不了，对此一无所知。</p>
-<p><strong>博客天下：</strong>是否觉得杨幂长得很美。</p>
-<p><strong>六神磊磊：</strong>姑娘美不美的问题都要扯上价值观，累不累。</p>
-<p><strong>博客天下：</strong>你是否认为《弟子规》是一本好书，应该在孩子当中大力推广。</p>
-<p><strong>六神磊磊：</strong>否</p>
-<p><strong>博客天下：</strong>不应该对楼市和股市进行大规模调控。</p>
-<p><strong>六神磊磊：</strong>我股都不炒，对我来说这是专业问题，没法回答。</p>
-<p><strong>博客天下：</strong>是否支持广电总局把特别烂的影视作品毙掉。</p>
-<p><strong>六神磊磊：</strong>否。</p>
-<p>试想一下，如果规定所有人都必须穿洋气的衣服才能上街，不然就严惩，结果可能不会是大家都变漂亮，而是人人都不敢出门了。因为谁也不能保证自己安全。衣服洋不洋气，他们可以随便说了算。</p>
-<p><strong>博客天下：</strong>微信公众平台是否应该像今日头条和腾讯自媒体那样补贴小的写作者？</p>
-<p><strong>六神磊磊：</strong>否。我不喜欢问题的语气。不该给任何人强加义务。</p>
-<p><strong>博客天下：</strong>最近两个月看了哪几部电影。</p>
-<p><strong>六神磊磊：</strong>很多不全罗列了，比如《晚娘2》《盲山》《云中行走》《怦然心动》《疯狂动物城》《一次别离》。</p>
-<p><strong>相关阅读：</strong></p>
-<p>中国数字时代所发布的六神磊磊<a href="http://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A/" target="_blank">全部文章</a></p>
-<p><a title="六神磊磊读金庸｜请用管我读金庸的劲头来管疫苗" href="http://chinadigitaltimes.net/chinese/2016/03/%E8%AF%B7%E7%94%A8%E7%AE%A1%E6%88%91%E8%AF%BB%E9%87%91%E5%BA%B8%E7%9A%84%E5%8A%B2%E5%A4%B4%E6%9D%A5%E7%AE%A1%E7%96%AB%E8%8B%97/">六神磊磊读金庸：请用管我读金庸的劲头来管疫苗</a></p>
-<p><a title="六神磊磊 | 中学课本照我去战斗" href="http://chinadigitaltimes.net/chinese/2016/01/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A-%E4%B8%AD%E5%AD%A6%E8%AF%BE%E6%9C%AC%E7%85%A7%E6%88%91%E5%8E%BB%E6%88%98%E6%96%97/">六神磊磊 | 中学课本照我去战斗</a></p>
-<p><a title="六神磊磊：帮主要多老 你才念他好" href="http://chinadigitaltimes.net/chinese/2015/09/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E5%B8%AE%E4%B8%BB%E8%A6%81%E5%A4%9A%E8%80%81-%E4%BD%A0%E6%89%8D%E5%BF%B5%E4%BB%96%E5%A5%BD/">六神磊磊：帮主要多老 你才念他好</a></p>
-<p><a title="六神磊磊：忠诚在日月神教是最没用的品质" href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%9C%A8%E6%97%A5%E6%9C%88%E7%A5%9E%E6%95%99%E6%98%AF%E6%9C%80%E6%B2%A1%E7%94%A8%E7%9A%84%E5%93%81%E8%B4%A8/">六神磊磊：忠诚在日月神教是最没用的品质</a></p>
-<p><a title="六神磊磊：雾霾不会讲政治" href="http://chinadigitaltimes.net/chinese/2015/12/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E9%9B%BE%E9%9C%BE%E4%B8%8D%E4%BC%9A%E8%AE%B2%E6%94%BF%E6%B2%BB/">六神磊磊：雾霾不会讲政治</a></p>
-<p><a title="【异闻观止】六神磊磊：社会主义核心价值观是我创作出发点" href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E6%98%AF%E6%88%91/">【异闻观止】六神磊磊：社会主义核心价值观是我创作出发点</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8D%9A%E5%AE%A2%E5%A4%A9%E4%B8%8B-%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%EF%BC%9A%E7%A6%BB%E5%BC%80%E6%96%B0%E5%8D%8E%E7%A4%BE-%E9%9A%90%E8%BA%AB%E6%97%A7%E6%B1%9F%E6%B9%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A/?category=18271" rel="tag">六神磊磊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E4%BE%A0/?category=18271" rel="tag">武侠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%AA%92%E4%BD%93/?category=18271" rel="tag">自媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%BA%B8/?category=18271" rel="tag">金庸</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%89%AC%E5%9B%BD%E5%A8%81%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%8D%B7%E5%85%8B%E8%A1%97%E5%A4%B4%E6%94%BB%E5%87%BB%E7%A4%BA%E5%A8%81%E8%80%85-%E5%BC%BA%E6%8A%A2%E9%9B%AA%E5%B1%B1/" target="cdt-mirror">【扬国威】中国人在捷克街头攻击示威者 强抢雪山狮子旗</a>
-</h2>
-<p><p>可以看出，袭击是通过两人配合完成的。一人抢，一人拦，既扬了国威，又为中国“爱国”人士争了一口气。</p>
-<p>（图片来源：Twitter<a href="https://twitter.com/JigmeUgen" target="_blank">@JigmeUgen</a>）</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg" rel="attachment wp-att-433499"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=575%2C575" alt="CezZ84CWsAIvY_w" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CezZ84CWsAIvY_w.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>更多当地示威图片，来自<a href="https://twitter.com/JigmeUgen" target="_blank">@JigmeUgen</a>：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg" rel="attachment wp-att-433529"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?resize=575%2C378" alt="CevsrZuW8AAznfM.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?resize=300%2C197 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?resize=768%2C506 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CevsrZuW8AAznfM.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg" rel="attachment wp-att-433533"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg?resize=540%2C405" alt="Cexzy2qWAAQ8uSd" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cexzy2qWAAQ8uSd.jpg?w=600 600w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg" rel="attachment wp-att-433532"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg?resize=540%2C405" alt="CexzzA8W8AA_ED1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexzzA8W8AA_ED1.jpg?w=600 600w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg" rel="attachment wp-att-433527"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg?resize=540%2C304" alt="Cevn58hXIAAI7du" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Cevn58hXIAAI7du.jpg?w=600 600w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg" rel="attachment wp-att-433531"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=475%2C475" alt="CewFGs0WsAAjtFp" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs0WsAAjtFp.jpg?w=600 600w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg" rel="attachment wp-att-433530"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=475%2C475" alt="CewFGs5WwAACB1J" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CewFGs5WwAACB1J.jpg?w=600 600w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p>习到访当日，捷克反对党在国会大楼外也挂起了雪山狮子旗：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg" rel="attachment wp-att-433525"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg?resize=545%2C307" alt="CeuL13cXEAAaKC9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CeuL13cXEAAaKC9.jpg?w=600 600w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"></a></p>
-<p>布拉格城堡一景：<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg" rel="attachment wp-att-433534"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg?resize=475%2C356" alt="CexuwAUVIAAI6RP" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/CexuwAUVIAAI6RP.jpg?w=600 600w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E6%89%AC%E5%9B%BD%E5%A8%81%E3%80%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%8D%B7%E5%85%8B%E8%A1%97%E5%A4%B4%E6%94%BB%E5%87%BB%E7%A4%BA%E5%A8%81%E8%80%85-%E5%BC%BA%E6%8A%A2%E9%9B%AA%E5%B1%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">西藏独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%AA%E5%B1%B1%E7%8B%AE%E5%AD%90%E6%97%97/?category=18271" rel="tag">雪山狮子旗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E4%BC%AF%E4%BC%AF-%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E4%B8%8D%E5%90%AC%E8%AF%9D%E7%9A%84%E7%BD%91%E7%BA%A2%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%95%86%E4%B8%9A%E4%BB%B7%E6%A0%BC/" target="cdt-mirror">王伯伯 | 王五四：不听话的网红没有任何商业价格</a>
-</h2>
-<p><p>这段时间大家都在讨论网红，真正的网红是靠才华取胜的，他们也得到了资本市场的青睐，有不少才华型的网红前段时间都顺利从投资人那融到了钱，不用说你们也知道是在讲我，都说是资本寒冬不好融钱，其实只是你不够努力。要想融到钱并不难，我分享一下自己的经验，首先你要有真本事，掌握一门实操技能，其次要一下子约三个投资人聊，最后约的地点一定要讲究，2016年投资人最关心的领域是体育产业和人工智能，棋类运动是体育产业的重要一环，而当下最炙手可热的人工智能则是大战世界棋王的阿尔法狗，所以要约在棋牌室，到底能从投资人那拿多少钱，就看你的牌技和运气了。</p>
-<p>如果说才华型网红是核心网红，那么还有一种网红是外围网红，基本由外围女组成，当然也可能有良家。外围网红基本都是些漂亮姑娘，由于很多外围女都是同一家医院生产的，所以她们漂亮得基本差不多，一样的欧式眼睛、一样的小尖下巴、一样饱满的苹果肌、一样向上翻起的嘴唇、一样鼓鼓的胸脯。外围网红基本上是一种只能靠整容加PS活着的生物，先天条件稍差的靠PS照片线上卖卖衣服赚钱，先天条件好点的可以靠线下脱脱衣服赚钱，才华型网红不是随随便便就能成功的，外围网红基本上一随便就成功了。以前老有女性会跟我抗议，你凭什么看不起人家，其实我不是看不起她们，她们整容也好，睡男人赚钱也好，都是她们的自由，只是别老装出一副盛气凌人高高在上的样子，那感觉就像白骨精画了一副美人皮，俺老孙总想一棒子敲下去。</p>
-<p>在社交平台上，只要你有大量的粉丝，基本上就可以称为网红，如果你又具备变现能力，那么在投资人眼里你就是有商业价值的网红，不过我喜欢称之为商业价格。网红是分层的，粉丝也是分层的，卖劣质面膜的，卖假冒化妆品的，卖粗制滥造服装的，卖弄风骚的，她们的变现能力极强，写到这你应该能感觉到，我嫉妒了，是的，作为一个经常被封号的网红，我现在都快被憋紫了，也没找到一个变现途径，有个投资人朋友跟我说，啪啪酱的公号值一个亿，你的微信公号一文不值，文章总被删，传播断裂无序，公号总被封，粉丝无法沉淀聚集。说得我都差点真把自己当成网红了，我明明是互联网企业家好嘛，十年运营经验，大型互联网公司千锤百炼，创业项目去年拿了知名机构的天使，现在Pre-A阶段多家机构暗送秋波，我现在每天都跟打了鸡血又喝了碗心灵鸡汤一样有活力，像背会了基本法又背会了社会主义核心价值观一样充满正能量。</p>
-<p>不听话的网红是没有商业价格的，还会给自己招惹麻烦。民国网红兼报界大亨史量才就是一个不听话的人，抗日期间他不顾国民党宣传部门的禁令，在《申报》上刊登了宋庆龄的政治主张和批评蒋介石的言论，蒋介石阅后大怒，但没有下令封号删帖，只是批上6个红字，申报禁止邮寄。后来蒋介石接见了史量才，蒋委员长说：“我有100万军队……”，网红史量才说：“我有100万粉丝……”。后来，1934年，史量才在与爱人沈秋水由杭州回上海的途中，被特务暗杀。</p>
-<p>不听话的网红史量才在外人眼里并非没有价值，当年袁世凯想要当皇帝，需要舆论的配合，于是就调拨了十五万大洋想收买史量才，史量才以“报章职责高于天，但以良心立论，不受津贴。”为由拒绝，他还起草了“申报馆经理部主笔房同人启”的《本馆启事》，向社会大众公开了行贿事件：“有人携款15万，来沪运动报界，主张变更国体者。按本馆同人，自民国二年十月二十日接手后，以至今日，所有股东，除营业盈余外，所有馆中办事人及主笔等，除薪水分红外，从未受过他种机关或个人分文津贴及分文运动。”，想当皇帝的袁世凯是悲催的，这已经是他第二次在报界吃亏了，还有一次就是著名的只给袁世凯一个人看的假《顺天时报》事件，袁世凯常看《顺天时报》，于是他的儿子就伪造了一份《顺天时报》，天天刊登拥护称赞帝制的文章，袁大头被蒙在鼓里最后成了冤大头。《洪宪纪事诗》有曰，“群言举世已滔滔，假印刊章孰捉刀？”。</p>
-<p>网红史量才最后的命运早已注定，作为一名网红，一名新闻工作者，他没搞清楚传播社会正能量的重要性，他不仅关注社会热点阴暗面，还说什么“言论自由，不偏不倚，为民喉舌”，他常对《申报》的工作人员强调：“报纸是民众的喉舌，除了特别势力的压迫以外，总要为人民说些话，才站得住脚。”，报纸怎么能是民众的喉舌呢？必须是党的喉舌，党媒姓党。</p>
-<p>史量才活着的时候爱给人惹麻烦，身后多年也要给社会添乱，今天在朋友圈传的沸沸扬扬的西湖边“秋水山庄”变色事件就是因他而起。秋水山庄是史量才为了讨二老婆沈秋水的欢心，参照《红楼梦》里的怡红院建造的。当年沈秋水也是上海滩的一位网红，容貌俊俏，琴棋书画样样精通，后被一位皇室贝勒赎身入京，贝勒死后她带着遗产回到上海，没地方住就去了朋友家，朋友带她出去吃饭时，她从京城带回的全部家当就交由在座的一个朋友看管，二人深夜才回，却发现那位朋友还坐在那里守着沈秋水的财物，他便是史量才。关于秋水山庄外门的颜色，有人说原本就是黄色，也有人说应该跟周围建筑一样用青色，其实秋水山庄该刷什么颜色已经不重要了，我觉得重要的问题是秋水山庄作为一处私人房产，它不应该是属于史量才和沈秋水的后人的吗？如果史量才还活着，遇此事他还会说，“如果畏缩退避，恐仍未能保得身家财产，不如一起奋勇向前，抗战救国。”吗？</p>
-<p>我认为，网红界不能只有关注娱乐八卦的网红，还要有像史量才那样关注社会政治的网红，别怕，让你关注的是国外时政，很安全，比如说朝鲜，朝鲜《劳动新闻》28日刊登题为《朝鲜最强的力量》的政论称：“革命的道路漫长且险峻。我们可能要再次进行一次吃草根的‘苦难的行军’。”，看吧，朝鲜人民都要吃草根了，而你们却还在抱怨吃地沟油，还在抱怨“饿了么”的黑快餐，不过分吗？“饿了么”在3.15被曝光后做出了一系例危机公关举动，前几天他们发文称“315过去的两周里，饿了么消灭了21305家线上违规餐厅”，这个标题取得挺不好，首先，315应该是3.15，其次你们取这样的标题，它是在告诉“饿了么”的用户另外一个信息：在3.15之前的岁月里，你们至少吃了21305家违规餐厅的黑外卖。</p>
-<p>看到这很多人会问，又是地沟油又是黑外卖，都信不过都不靠谱，我们的一日三餐和家人健康该怎么办？其实很简单，在家做饭吃，当然你会说下班回家太晚买菜太不方便，没关系，我创业的项目“花样菜场”就是帮你解决买菜难题的，你线上下单，我线下配送，所有菜品均来自你身边的农贸市场，方便快捷，目前仅限杭州地区，拿了下轮钱我们会继续扩张到其他城市。使用方法，搜索微信公众号“花样菜场”即可。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%8E%8B%E4%BC%AF%E4%BC%AF-%E7%8E%8B%E4%BA%94%E5%9B%9B%EF%BC%9A%E4%B8%8D%E5%90%AC%E8%AF%9D%E7%9A%84%E7%BD%91%E7%BA%A2%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%95%86%E4%B8%9A%E4%BB%B7%E6%A0%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B2%E9%87%8F%E6%89%8D/?category=18271" rel="tag">史量才</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E5%9B%BD%E6%95%85%E4%BA%8B/?category=18271" rel="tag">民国故事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E4%BB%8B%E7%9F%B3/?category=18271" rel="tag">蒋介石</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -755,5 +721,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B2%E9%87%8F
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

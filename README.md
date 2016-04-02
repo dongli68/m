@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E8%BF%91%E4%B8%A4%E4%B8%87%E7%BD%90%E5%81%87%E5%86%92%E5%A9%B4%E5%84%BF%E5%A5%B6%E7%B2%89%E6%B5%81%E5%85%A5%E5%A4%9A%E7%9C%81-%E7%BD%91%E6%B0%91%E6%8A%B1/" target="cdt-mirror">自由亚洲 | 近两万罐假冒婴儿奶粉流入多省 网民抱怨国人竞相缺德</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8B%E5%8D%8812.16.26.png?resize=408%2C619" alt="Screen Shot 2016-04-02 at 下午12.16.26" data-recalc-dims="1"><br><span>疑犯涉生产1.7万余罐假冒奶粉，包括收购廉价或非婴儿奶粉，灌装生产假冒著名品牌奶粉，销售予郑州、徐州、长沙等地经销商。（资料图片/AFP）</span></p>
+<p>中国最高检察院官网4月1日公布，上海市公安部门去年9月依法查处一宗跨全国多省市仿冒品牌婴儿奶粉案，疑犯涉生产1.7万余罐假冒奶粉，包括收购廉价或非婴儿奶粉，灌装生产假冒著名品牌奶粉，销售予郑州、徐州、长沙等地经销商。上海市检察院批捕案中6名疑犯。事件再度引起网民抱怨，称中国人正争先恐后的竞相缺德，为的就是某一天自己也能不再缺钱。</p>
+<p>据中国最高检察院官网数据显示，今年1月8日，公安机关对涉案的疑犯正式报请批准逮捕。疑犯陈某、唐某涉组织他人仿制假冒品牌奶粉罐、商标标签，收购低档、廉价或非婴儿奶粉，非法加工罐装出售，共计生产销售1.7万余罐假冒奶粉，并通过郑州、徐州、长沙、兖州等地经销商，进一步销售到全国多个省市，非法获利将近200万元人民币；疑犯谷某、郑某涉明知他人制假，仍为他人生产假冒品牌奶粉罐；疑犯潘某、吴某则涉参与假奶粉的灌装生产，并提供用于制假的低档廉价奶粉。上海检察院并于1月15日依法对上述6人作批捕决定，并对1名疑犯作存疑不捕决定，加强对在逃人员的追捕力度。</p>
+<p>事件引发网民关注，在网易新闻网，上述消息受到十多万人关注及数千人评论。网易北京卫星电话网友发帖称，必须要对那些敢于在食品和药品上作假的人，实施毁灭性打击，决不能姑息。如果不让那些人从心底里感到颤抖和害怕，就不能从根本上抑制住坑人的食品及药品的继续出现。另有网民调侃道，中国人抗体强，百毒不侵。1.7万罐不多，全国14亿人，算一下买到的概率比中彩票还要低。还有网民称，早起，买根地沟油油条，切个苏丹红咸蛋，来杯参了三聚氰胺的牛奶。中午，瘦肉精猪肉炒农药韭菜，再来份人造鸡蛋，卤注胶牛肉，泡壶香精茶叶；下班，买条避孕药鱼，开瓶甲醇勾兑酒，吃个硫磺馒头；晚上，买瓶含氯的可乐，难受了就吃几粒“皮革胶囊”发现自己居然还神奇活着，恭喜你，你是中国人。</p>
+<p>2008年被媒体揭发的聚氰胺毒奶粉曾经造成27万名中国儿童泌尿系统感染，严重的患肾结石，至少有12位婴幼儿因肾结石死亡。其中一位因食用三鹿奶粉致死的患儿家长唐琳4月2日对本台说，食品安全事故屡屡发生，令他们非常无奈：“我们国家这个问题很严重，经常在发生。但是这个问题要去阻止他发生，在我们国家很难，官商勾结的问题很严重。政府打击他们的犯罪力度，太不够了，真的是防不胜防”。</p>
+<p>对于去年9月就发现的假奶粉案，直到今年4月才公布。独立评论人老徐在其个人微博称，这种新闻令人揪心和气愤：“去年查处的案子现在才曝光，到底是哪个牌子被假冒了？假冒奶粉进入哪些地方了？卖出了多少？婴幼儿食用以后是否会有不良反应？质监部门怎么处理的？一概不予交代，让老百姓一头雾水。假奶粉层出不穷，到底是什么原因？老百姓今后还能相信什么？”</p>
+<p>杭州自由撰稿人傅国涌表示极度失望。他对本台记者说：“中国的事情已经到了无语的地步，我觉得已经没有什么好说了，说都没有意义了。我想不予置评了，中国太可怕了，太可怜了”。</p>
+<p>记者：那你们平时吃东西要怎么小心？</p>
+<p>回答：没有办法，无语等死吧。</p>
+<p>网民“向日葵大战猫头鹰”感叹道，中国人一度很缺钱，现在少数人不缺了，而多数人还缺；中国人曾经不缺德，现在多数人缺了，只有少数人还不缺。不缺钱中的少数缺德的人，靠沾、靠贪、靠坑、靠蒙、靠拐、靠骗、靠偷、靠抢等先富了；而缺钱但大部分不缺德的多数人却因为没权力贪，没条件沾，没办法坑，没水平蒙，没技术拐，没招数骗，没勇气偷，没胆量抢，还很穷。所以在先富起来的那部分人的示范、引领下，中国人正争先恐后的竞相缺德，为的就是某一天自己也能不再缺钱。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E8%BF%91%E4%B8%A4%E4%B8%87%E7%BD%90%E5%81%87%E5%86%92%E5%A9%B4%E5%84%BF%E5%A5%B6%E7%B2%89%E6%B5%81%E5%85%A5%E5%A4%9A%E7%9C%81-%E7%BD%91%E6%B0%91%E6%8A%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">假奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9D%8E%E9%93%B6%E6%B2%B3-%E7%8E%8B%E5%B0%8F%E6%B3%A2%EF%BC%9A%E6%9C%89%E4%B8%80%E4%BA%9B%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%AF%8F%E4%B8%80%E5%A4%A9%E9%83%BD%E6%98%AF%E6%84%9A%E4%BA%BA%E8%8A%82/" target="cdt-mirror">李银河 | 王小波：有一些时期，每一天都是愚人节</a>
 </h2>
 <p><p><strong>中国数字时代编辑注：本文转自李银河微信公众号，选自王小波《思维的乐趣》。</strong></p>
@@ -119,7 +139,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7/?category=18271" rel="tag">不确定性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">经济改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%BD%93%E5%A5%B3%E6%9D%83%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/" target="cdt-mirror">东网｜赵思乐：当“女权”成为敏感词</a>
 </h2>
@@ -644,62 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20%E5%B3%B0%E4%BC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%9A%BE%E9%81%93%E5%A7%93%E5%85%9A%E4%B8%A2%E4%BA%BA%EF%BC%9F%E7%8E%AF%E7%90%83%E6%82%A8%E6%83%B9%E9%BA%BB%E7%83%A6%E4%BA%86/" target="cdt-mirror">【网络民议】难道姓党丢人？环球您惹麻烦了</a>
-</h2>
-<p><p>《环时》今日发表<a href="http://chinadigitaltimes.net/chinese/2016/03/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%89%8D%E5%8D%97%E9%83%BD%E7%BC%96%E8%BE%91%E8%BE%9E%E8%81%8C%E4%BF%A1%E9%A3%8E%E6%B3%A2%E6%98%AF%E5%AF%B9%E7%9D%80%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C/" target="_blank">社评</a>，指前南都编辑余少镭去年即已离职，近日疯传的“<a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%84%8A%E6%A2%81/" target="_blank">无法跟你们姓</a>”辞职信风波有“故意混淆事实的明显倾向”，是他其根据“社交网络胃口编出来的”，是“自导自演的炒作”：</p>
-<blockquote><p>然而30日的一篇揭秘让人傻眼了：余去年八九月间就已经离开南都，前往北京谋职。报道援引余在南都同事的分析说，余大概是在北京“待得不怎么样，想借机炒作一下自己，引起关注，抬高一下身价”。[…]</p>
-<p>总之，余的离职信有故意混淆事实的明显倾向，这与离职信想突出、渲染的其人品和操守是严重矛盾的。余是早已离开南都的人，他通过自拍所谓“离职信”带给人们他刚刚因为政治原因断然辞职的印象是虚假的，这才是离职信风波的真正轮廓。</p></blockquote>
-<p><strong>然而照《环时》所说，余少镭拒绝接受“媒体姓党”的话题不仅能被迅速炒热，且事件主人公还可用这点来“突出、渲染其人品和操守”——这里无意中释放出的信息是很耐人寻味的。</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BD%A0%E5%A7%8B%E7%BB%88%E9%83%BD%E4%B8%8D%E6%98%AF%E5%A7%93%E8%B5%B5.jpg" rel="attachment wp-att-433564"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BD%A0%E5%A7%8B%E7%BB%88%E9%83%BD%E4%B8%8D%E6%98%AF%E5%A7%93%E8%B5%B5.jpg?resize=413%2C231" alt="你始终都不是姓赵" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/你始终都不是姓赵.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/你始终都不是姓赵.jpg?w=413 413w" sizes="(max-width: 413px) 100vw, 413px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/430070/" target="_blank">杨继绳：读《环球时报》文章有感</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B9%A0%E9%A9%AC%E4%BC%9A%E6%8A%A5%E9%81%93%E4%B8%AD%E7%9A%84%E4%B9%9F%E5%AD%97%EF%BC%9A%E8%AE%BA%E3%80%8A/" target="_blank">【立此存照】“习马会”报道中的“也”：论《环时》的高级黑属性</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%8E%AF%E6%97%B6%E5%AE%89%E5%80%8D%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%E6%B6%88%E6%81%AF%E6%9D%A5%E6%BA%90%E3%80%8A%E5%91%A8/" target="_blank">【立此存照】环时“安倍涉华言论”来源《周刊现代》内容鉴赏</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%8E%AF%E7%90%83%E6%9D%A5%E7%BB%99%E9%9B%B7%E9%94%8B%E4%BD%9C%E7%BB%B4%E6%8A%A4%EF%BC%8C%E7%9C%9F%E8%AE%A9%E4%BA%BA%E6%8D%8F%E4%B8%80%E6%8A%8A/" target="_blank">【网络民议】环球来给雷锋作维护，真让人捏一把把冷汗</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2013/06/%E6%B3%95%E5%B9%BF-%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%E7%82%AE%E8%BD%B0%E8%8B%8D%E4%BA%95%E7%A9%BA%E4%B8%BA%E4%BD%95%E8%87%AA%E5%B7%B2%E5%8F%8D%E6%88%90%E7%AC%91%E6%9F%84/" target="_blank">法广 |《环球时报》炮轰苍井空为何自已反成笑柄</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@慢慢骑士：其实，媒体热衷炒这事，表面看是站在党立场鸣不平，实际是借机嘲讽共党对媒体的高压控制。媒体报什么内容不主要，主要是看这内容在民心里怎么发酵</p>
-<p><strong>@2010梦想照进现实：环球时报:编辑离职信“无法跟你们姓”骗了大家 （分享自 @新浪新闻）为了迎合社交网络？小编详细说明一下迎合什么样的社交网络？迎合了社交网络的什么情绪？</strong></p>
-<p><strong>@Charley橙橙橙：且不谈坏球时报说得是不是真的，就算是，为什么他这样说就能被炒作起来呢？这才是关键吧。</strong></p>
-<p>@坠入尘世的星辰：余也许是在炒作，但余的炒作点本身来自“党媒姓党”的荒谬性。</p>
-<p>@醉寻江岸：一位了解内情的可靠人士。。。。嗯，无其原单位说法，也无其本人的说法，环球时报就是特么这么做评论、做报道的，尼玛看门狗见人就想咬</p>
-<p>@油粘米朱金华：报道援引余在南都同事的分析说，余大概是在北京“待得不怎么样，想借机炒作一下自己，引起关注，抬高一下身价”。余的一些同事认为，以余的性格和年龄（1968年出生），估计他在北京很难混下去。大概，如果，认为，揭秘，引述。球报，呵呵。</p>
-<p>@吉兆溱溱：关键是：谁会信你们坏球的话呢？</p>
-<p>@满心是海春暖花开：环球时报也能信？一个满嘴跑火车，以撒谎捧臭脚为生的党姓媒体。</p>
-<p>@霍尔果斯的小木匠：请问评论员姓什么</p>
-<p><a href="http://weibo.com/2116589965" target="_blank">@冰川海岸线</a>：三姓家奴说的话 信不信由你<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p>
-<p><strong><a href="http://weibo.com/3257781842" target="_blank">@溜月红鱼</a>：这么大费周章批驳一个屁都不是的小角色，环球的意识形态阵线守的真紧<img title="[good]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]" data-recalc-dims="1"></strong></p>
-<p>@婷婷看世界V：不管他是去年辞职还是今年辞职，我都不同意媒体姓党，媒体很大一部分作用就是监督政府，若媒体都姓党了，谁来监督政府，政府如何进步</p>
-<p>@水属性妖怪：媒体人就算不姓党 也不会姓人民 姓权 姓钱 谁也别抹黑谁 官媒的对立面未必是向着人民</p>
-<p>@BartS1mpson：我们看到的是辞职信的内容，跟时间有什么关系</p>
-<p>@肖遥其实不逍遥：然而别人这句话没什么错啊，不像环球屎报，就是一条狗</p>
-<p>@MasterKoo：环球屎报 不也是借机炒作自己吗？ 给上面的人看，挣点狗粮。</p>
-<p>@大大死了没：确实无法姓档，太无耻了，环球时报这种太监报纸没资格评论，因为你姓裆</p>
-<p><strong>@一声叹息199704：难道姓党丢人？环球您惹麻烦了</strong></p>
-<p>@多多君的猫咪：至少人家是条汉子，现在还敢说出自已的想法，不做某组织的应声虫。</p>
-<p>@梦回秦汉吧：拿出来表明自己的态度，很正常，只不过他的话捅到党国的G点了。</p>
-<p>@开通会员-：环球时报不说还没人知道有人能干这么爷们的事</p>
-<p>@三老爺的那杆大槍：还是像你们这样跪着好？没看出哪里骗了大家啊</p>
-<p>@幸运的诺然：个中细节内情你我都无从知晓，不可仅凭这么一篇小小微博就对一个人定了优劣。</p>
-<p>@廖丽芬psyche：你都说了他不满你给他调换岗位，况且对于一个1968年的老同志，抗议是能理解的，毕竟这个年纪换岗位有一定难度。这不叫无故。所以整篇攻击性意味很强，尤其那句1968年在北京很难。一个人怎样不是另一个人能评判的。再怎么样在南都能做到这个年纪，其丰富的经验也是具备。既然不满换岗，不如彻底从头开始</p>
-<p>@Madtum：辟谣不给出准确真实的消息来源，我们一般都称之为造谣</p>
-<p><strong>@折腾的skyracer：我靠，胡编都亲自出马了，看来你们真的有点害怕。</strong></p>
-<p>@阿尓伯蒂：先打个疫苗向中央表下忠心</p>
-<p>@麦田-花开：看到那封公开信，打电话建议朋友删帖也能被拘留，眼不瞎有罪？跟着环球，阉割了鸡巴跪着写、捧着着主子菊花使劲舔的媒体，乞求一碗饭吃的才是明智之举？</p>
-<p>@一格一如：认真看了这篇所谓的报导。不管余少镭是几时所谓的自动离职，从文章中可以获悉，他的辞职信应该是发生在这个春天里。这里不存在骗的问题。至于辞职背后的原因到底有多少，每个人都有其表达的权利，何谈欺骗？环球时报这样的文章报导，才是欺骗！</p>
-<p>@金水灶：坏球喜欢叼飞盘，然而它一旦跳起来就会暴露屁眼。这文章隐含的意思是：短短一句“无法跟着你们姓”就能引起关注，就对了社交网络的胃口，说明这才是真正的人心所向。</p>
-<p><strong>@自由你怎麼了：有人不满小区物业的服务，私下骂了一句“物业经理我C你M”，保安马上冲过来——“你TM炒作，你根本没办到”</strong></p>
-<p><a href="http://weibo.com/1864987110" target="_blank">@绿袍鲁道夫</a>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">想起那年那名环球时报的记者在老家向当地报社打电话说自己家里人被车撞了，“受了欺负”，希望报道，对面问“你是哪家报社的？”结果环球记者支支吾吾，对方记者一再追问下，才回答“环球时报”，“不管！” 这条微博 <a title="遥远的2049" href="http://t.cn/Ry6tHAn" target="_blank"><em>遥远的2049</em></a> 就是世人对环球的回答</p>
-<p><em>附图（由编者所加）：</em><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%97%B6%E6%8A%A5%E8%AE%B0%E8%80%85%E5%9C%B0%E4%BD%8D.png" rel="attachment wp-att-433559"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%97%B6%E6%8A%A5%E8%AE%B0%E8%80%85%E5%9C%B0%E4%BD%8D.png?resize=535%2C186" alt="时报记者地位" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/时报记者地位.png?resize=300%2C104 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/时报记者地位.png?resize=768%2C267 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/时报记者地位.png?resize=1024%2C356 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/时报记者地位.png?w=2022 2022w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%9A%BE%E9%81%93%E5%A7%93%E5%85%9A%E4%B8%A2%E4%BA%BA%EF%BC%9F%E7%8E%AF%E7%90%83%E6%82%A8%E6%83%B9%E9%BA%BB%E7%83%A6%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91%E9%95%AD/?category=18271" rel="tag">余少镭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -711,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -721,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

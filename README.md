@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E6%9C%9F%E9%97%B4-%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A5%89%E5%91%BD%E8%A1%97%E5%A4%B4%E6%B4%BE%E5%8F%91%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E3%80%8B/" target="cdt-mirror">外交政策｜习近平访美期间 大学生奉命街头派发《中国日报》</a>
+</h2>
+<p><p>【编者注】本文由中国数字时代编辑翻译自《<a href="http://foreignpolicy.com/2016/04/01/china-daily-xi-jinping-nuclear-summit-chinese-state-owned-media-has-chinese-students-canvass-dc/" target="_blank">外交政策</a>》报道；在无损原文大意情况下有删节。请点击原文链接阅读完整报道。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg" rel="attachment wp-att-433731"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?resize=550%2C310" alt="cdimage3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?w=817 817w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>美国时间3月31日与4月1日，《中国日报》组织了一群在华盛顿地区的大学生，在街头派发这份主要由中国政府出资、与中共口径一致的报纸。</p>
+<p>这些大学生在微信上建立了一个名为“中国日报华盛顿后援团”的群，来组织协调派发报纸活动。该微信群一共有69名成员，成员的群内昵称均注明了自己所在大学，其中有乔治梅森大学、乔治华盛顿大学、约翰霍普金大学、以及马里兰大学。一名在习近平下榻酒店门口站着的学生邀请《外交政策》记者进了微信群。《中国日报》美国分部尚未对《外交政策》的致电与电邮作回应。</p>
+<p>邀请记者入群的这名学生告诉《外交政策》，组织学生在该地区派发报纸的是《中国日报》。《日报》还指示参与学生，要求接受派发的人拍一张与报纸的合影。参与学生随后将这些照片上传到了微信群。</p>
+<p>4月1日这天，成员们在微信上相互询问、寻求帮助的同时也在分享照片，以及在哪儿派发报纸比较好。“今天太难发了，”一名成员说。“是啊，”另一位表示赞同。“都没什么人。还没分发完的同学，可以试着问问公交车司机。他们通常会拿一些放在车里让乘客阅读。”</p>
+<p>虽然与《外交政策》记者交谈的学生自称是志愿者，但微信群中至少有一人透露此次行动是有偿的。“我雇了个人帮我分发报纸”，那名学生说。“那人是流浪汉。我对他说，‘你不能不劳而获，假如你帮我发报纸，我就把报酬分一点给你。’他可高兴了。”该学生随后在群里上传了一张这个流浪汉扛着一大叠《中国日报》的照片。</p>
+<p>45分钟后，这名学生在微信上报告称150份报纸已全部发完。</p>
+<p>《中国日报》是中国大外宣非常重要的一部分，单英语发行物就有13种。</p>
+<p>2015年11月，《中国日报》美国分部在给美国司法部的一份声明中称，在这之前的六个月里，该机构共花了650万美元，其中绝大多数资金都来自北京总部。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg" rel="attachment wp-att-433726"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg?resize=500%2C375" alt="Ce-HInmWEAE6ga6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>图片来自《外交政策》编辑<a href="https://twitter.com/BethanyAllenEbr/status/715939475369684996/photo/1" target="_blank"> B. Allen-Ebrahimian</a></em></p>
+<blockquote><p>@BethanyAllenEbr：Many in pro-China crowd wore red vests, carried flags<br>
+亲中人群中有许多都穿着红马甲，拿着红旗。</p></blockquote>
+<p><em>原文：<a href="http://foreignpolicy.com/2016/04/01/china-daily-xi-jinping-nuclear-summit-chinese-state-owned-media-has-chinese-students-canvass-dc/" target="_blank">Mr. Xi Goes to Washington, and Brings His State Media Apparatus: With China’s president in town to talk nuclear security, students handed out Beijing-backed China Daily.</a></em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E6%9C%9F%E9%97%B4-%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A5%89%E5%91%BD%E8%A1%97%E5%A4%B4%E6%B4%BE%E5%8F%91%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">中国日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%EF%BC%9A%E8%AD%A6%E6%83%95%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/" target="cdt-mirror">BBC｜《经济学人》：警惕对习近平的个人崇拜</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png" rel="attachment wp-att-431732"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png?resize=575%2C318" alt="习近平" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=300%2C166 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=768%2C424 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=1024%2C566 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?w=1618 1618w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><em>（两会视频截图）</em></p>
+<p><strong>英国《经济学人》期刊在最新发表的文章中分析了中国出现的对习近平的个人崇拜，认为他推行的高压政策以及强化自己权力的做法并不能给他带来安全，也不能帮助稳定中国。</strong></p>
+<p>文章在开头提到中国最近发生的疫苗丑闻，指出习近平的反腐运动其实关系不到普通百姓，因为他们的生活以及健康仍然受到腐败影响。</p>
+<p>文章还提到中国精英阶层也不满习近平，比如官方媒体公开抱怨对新闻报道的限制，还有一位知名富翁在微博上攻击他以及一名高级编辑愤而辞职等等。</p>
+<p>自毛泽东之后，习近平大揽权力，超过任何其他领袖。文章说，在他上台后的三年半中，习近平以惊人的速度为自己取得各种头衔。中共的“集体”领导做法被抛弃。文章引述一位分析人士说，习近平现在是“全面主席”（Chairman of Everything）。</p>
+<p><strong>另一场文革？</strong></p>
+<p>毛泽东的暴君性格和喜爱崇拜把中国推入文革的狂热和暴力中。《经济学人》认为，习近平不会成为毛，也没有迹象显示中国到了另一场文革的边缘。</p>
+<p>但是文章认为，习近平推行的高压政策和强化自己权力的做法并没有给他带来安全，也不能帮助稳定中国。</p>
+<p>在反腐问题上，文章说，习近平用中共自己的地痞式调查员来对付腐败，而这些人感兴趣的是清算政敌，而不是公平执法。</p>
+<p>习近平压制新闻媒体，也使记者不敢揭露腐败。文章把疫苗事件当作例子，指出丑闻一年前就被发现，但是到现在才曝光，这对党和习近平的信誉影响更大。</p>
+<p>文章也认为习近平的外交政策也在国际上引起焦虑，比如他在南中国海咄咄逼人，反而把亚洲许多国家推到了美国的阵营。</p>
+<p>习近平刚上台时，人们还以为他站稳脚跟后就会推行他希望的改革。文章说，但是现在这种希望越来越淡薄了。让党遵守法律，关闭亏损的国有企业或者推进急需的社会变革比如在城市中取消对农民工的限制，这些都是很棘手的政治问题。文章说，看来习近平没有时间顾及这些事情———因为维持权力占了他的全部时间。</p>
+<p>《经济学人》的文章说，中共统治中国66年，最麻烦的时期通常都发生在精英阶层内部爆发争执。文章说，习近平的统治风格只会在这个问题上火上浇油，他越用恐吓和打压的办法对付敌人，就会制造更多敌人。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%EF%BC%9A%E8%AD%A6%E6%83%95%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A2%A8%E5%82%B3%E5%AA%92%EF%BD%9C%E9%99%B3%E6%98%AD%E5%8D%97%EF%BC%9A%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82%E6%8B%9A%E6%AF%94%E7%9A%84%E6%98%AF%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1%E4%B8%8D%E6%98%AF/" target="cdt-mirror">風傳媒｜陳昭南：兩岸關係拚比的是民主自由不是經濟！</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?resize=550%2C366" alt="xj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/xj.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
@@ -629,56 +676,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%92%99%E5%B1%B1%E9%87%8E%E9%80%B8%EF%BC%9A%E3%80%8A%E4%B9%A1%E9%95%87%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%87%B4%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%85%88%E7%94%9F%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC/" target="cdt-mirror">蒙山野逸：《乡镇团委书记致贺卫方先生的一封公开信》有感</a>
-</h2>
-<p><div>    看了福建省宁德市漳湾镇团委书记、中共党员、西南政法大学毕业生王银川的《乡镇团委书记致贺卫方先生的一封公开信》，气不打一处来，本来很久没有写网络文章了，实在是忍无可忍！
-<p>王银川说团中央的人员和职级配备情况一直都很公开，但我从网上查了下，根本就查不到，只是看到团的机关工作者职务与级别的对应关系很复杂，一般人看不懂（包括我），这也是很公开？也许是我不会查，但作为一个经常上网的人都查不清楚，王银川竟然敢说一直都很公开，这不是公然说瞎话吗？</p>
-<p>针对贺卫方先生要求全国人大公布团中央年度预算详细数字，王银川说团中央已经在其网站详细公布了，不需要贺卫方的呼吁。姑且不说在其网站公布和在人大公布是不是一回事，且看共青团中央2015部门预算情况说明中的一项：“一般行政管理事务（项）2015年预算数43631.9万元，比2014年财政拨款执行数增加3223.39万元，增长7.98%。主要是增加了共青团促进青年创业就业服务体系、青少年社会组织伙伴计划和承办党中央、国务院交办的外事工作等项目经费。”仅此一项就花费4个多亿，只是罗列了几个数字，这也算是详细？王银川竟然大言不惭地说不需要贺卫方的呼吁，王银川以为全天下的百姓都是傻子不成！</p>
-<p>针对贺卫方先生呼吁的关于共青团是否应该由财政供养、取消团中央及类似团体行政级别的问题，王银川直接将《党章》和习总书记抬了出来，但看党章，也没有规定团组织一定要由财政供养的条款。看看习总书记说的“群团工作只能加强，不能削弱”、“群团组织应增强自身的政治性、先进性和群众性”。再看看贺卫方的呼吁，王银川质问贺卫方对共青团人财物的各种取消（此处工会、妇联、侨联等其他组织无端躺枪，我深表遗憾），究竟是要加强群团工作，还是削弱呢？并直接将贺卫方的观点与中央的要求背道而驰方向推。贺卫方先生说的很明白，也很有道理：“共青团本是一个群众团体或非政府组织，不应由政府预算供养。可否考虑逐渐回归本位，由团费和募捐来自养，日常业务大量招募自愿者从事以减少开支。”怎么看都看不出贺卫方先生此番言论有与中央背道而驰的地方。而王银川的言外之意是，总书记所说“群团工作只能加强，不能削弱”就必须加大人力物力的投入，必须财政多出钱，必须让纳税人负担更多！众所周知，机构臃肿，办事效率低下，税收高福利低，强拆民房与民争利，贪腐严重，分配不公这些问题是群众对党和政府最有意见的地方，也是造成社会不稳定需要全力维稳的重要因素，贺卫方先生的呼吁就是为了减轻财政压力，减轻人民负担，缓和官民矛盾，有利于社会和谐，有利于党（团）的生存和发展。贺卫方先生也没有说不让共青团为青年、为人民“办好事”，也知道“办好事”也离不了人力物力，“由团费和募捐来自养，日常业务大量招募自愿者从事以减少开支”就是很好的药方。习总书记也说“群团组织应增强自身的政治性、先进性和群众性”，就连民间慈善机构都能在短时间内募集到大量财物，召集到大批志愿者，号称是“中国共产党领导的先进青年的群众组织”再怎么着也不至于连民间慈善机构都比不上吧，如果连自养都办不到，必须由人民花大价钱供着，怎么好意思说自己“先进”？另外，不取消行政级别，怎么去除衙门作风做青年表率？怎么亲近群众，取信群众？</p>
-<p>王银川的文章前半部分针对贺卫方的质疑尽管观点结论荒谬，但还像是人说的话，后半部分让人看到了王银川的无知、无耻与邪恶！</p>
-<p>王银川问贺卫方先生：“您在2009年获“中国民主教育基金会”颁发的“第24届杰出民主人士奖”。这个“中国民主教育基金会”是个什么组织？这个“第24届杰出民主人士奖”又是个什么奖？您作为一名“中共党员”得到了刘晓波、十四世达赖、王丹、柴玲等人曾经得到的同样一个奖项，您的内心是一种什么样的体验？”这个问题问的相当可笑，也暴露了王银川反民主反进步的反动本质！如果中国共产党不打“民主自由”旗号团结工人农民知识分子，能建立“新中国”？在革命时期“民主自由”是党的宗旨，即便是当前，“民主、文明、自由、平等、公正、法治、诚信、友善”这些也是中共所提倡的，属于“社会主义核心价值观”的重要组成部分！“中国民主教育基金会”既然敢打“民主”的旗号，让一些人获得了“杰出民主人士奖”，看不出对中华民族有什么伤害，对党的宗旨有什么违背。即使真的有人不怀好意，可以光明正大的进行报道评论。某些人是不是只想获得为所欲为的权力，早就背叛了革命背叛了党？</p>
-<p>王银川说据之前的“维基解密”曾曝出，贺卫方是美国的“线人”。这事我还真不知道，王银川能不能说的具体点，是什么性质的线人？有证据吗？如果没有证据是不是污蔑陷害？哦，是的，贺卫方先生写了很多宣传民主自由的文章，说了很多混入党内的独裁邪恶分子不愿听的话，我觉得贺卫方先生是一个将党的宗旨付诸于行动的人，是在做正常党员份内的事。有些人说贺卫方这样的人想要“谣翻中国”。我觉得说这话的人思维心智极不正常！当年“枪杆子”加“笔杆子”死了那么多人中共才将“腐败无能”的国民党赶出了大陆，如果说几句谣言就能“谣翻中国”，就能颠覆党的领导，岂不是变着法子骂中共比国民党还无能！</p>
-<p>正写着，看了贺卫方先生的《答王银川》，还是贺卫方先生有水平，三言两语就将道理讲透，还不激不历，有绅士风度。</p>
-<p>若不是看了王银川给贺卫方的公开信，我还真不清楚共青团到底干了哪些工作，看看现在的社会风气，看看众多愤青、毛左的精神状态，王银川哪来的底气谈什么团组织的“先进性”？如果共青团的干部都像王银川一样的素质水平，就算不花纳税人一分钱，我看这样的组织都不应该存在！</p>
-<p>就写到这里吧，我其实挺懒的。</p></div>
-<div></div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%92%99%E5%B1%B1%E9%87%8E%E9%80%B8%EF%BC%9A%E3%80%8A%E4%B9%A1%E9%95%87%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%87%B4%E8%B4%BA%E5%8D%AB%E6%96%B9%E5%85%88%E7%94%9F%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA/?category=18271" rel="tag">凯迪社区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">贺卫方挑战团中央</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/" target="cdt-mirror">长平｜我的声明：自由没有交易</a>
-</h2>
-<p><p>今日确认，我的家人均已离开派出所。但我的父亲和两个弟弟并未自由，而是取保候审，为此交纳数万元保证金。在当局控制一切资源的情况下，我对所谓祭祖失火案无力调查，因此对以此为名的取保候审不予置评。</p>
-<p>据我了解，在办好取保候审手续之后，我的父亲和弟弟们又被警方叫回，不是为了调查案件，而是安排他们接受记者采访，并炮制所谓个人声明。对此我表示强烈谴责。已经和即将刊播的采访及声明，均是在警方胁迫之下的表演，是进一步将我的家人作为人质的绑架行为。</p>
-<p>今天，我的父亲和弟弟们仍是戴罪之身，处于警方的控制和胁迫之下，他们的一切言说均非无恐惧状态下的自由表达。</p>
-<p>自一周前开始的因为我发表文章而导致警方对我的家人及亲属的骚扰和威胁，以及期间发生的所谓祭祖失火案中，均没有证据表明警方对他们有过刑讯逼供等针对身体的暴力伤害。</p>
-<p>但是，迄今仍在进行中的胁迫我的家人劝说我放弃时事批评写作，以及在调查所谓祭祖失火案中一再强迫我的家人和我联系，并以关押他们及失火赔偿金作为胁迫我删除评论的筹码，是赤裸裸的绑架勒索行为。</p>
-<p>警方一再用血缘关系来胁迫和“感化”我，企图以此完成他们打压新闻自由、维护极权专制的政治任务，是一种卑鄙的情感敲诈伎俩。</p>
-<p>对于这一切绑架和勒索，我均拒绝接受，没有谈判和交易。时评写作是我的职业，也是我的表达权利。我将一如既往地，尽最大努力实践我的言论自由，并倡导包括中国人在内的人类社会的独立思想权利。</p>
-<p>警方企图利用我的家人和亲属来影响我的工作，无论表现得多么温和友好，都给他们造成极大的精神压力，严重影响他们的工作和生活。我希望警方及中国当局立即停止这一绑架行为。</p>
-<p>正如我在此前的声明中所说，在我的家人及亲属获得真正的自由之前，我不会跟他们发生任何联系，他们也不会有我的任何联系方式。</p>
-<p>我希望我的抗争，能够引发人们对于批评权力怪兽的独立思想者，尤其是被烙上异议人士或流亡者标签的自由捍卫者及其家人所遭受的威胁，以及他们共同面临的亲情伦理困境予以更多的关注。</p>
-<p>感谢诸多活动人士、新闻媒体、人权组织及政府机构的关注、支持和帮助。希望我能继续和你们一道，在对抗极权、捍卫言论表达和新闻自由方面坚持到底。</p>
-<p>爸爸，祝你生日快乐！妈妈，别哭！张雄，张伟，春梅以及所有的亲人，我爱你们！</p>
-<p>长平</p>
-<p>2016年3月30日</p>
-<p><strong>相关阅读：</strong></p>
-<ul><li><a title="【图说天朝】“我们全家人对他非常失望”" href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%88%91%E4%BB%AC%E5%85%A8%E5%AE%B6%E4%BA%BA%E5%AF%B9%E4%BB%96%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B/">【图说天朝】“我们全家人对他非常失望”</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-dw%E4%B8%93%E6%A0%8F%E4%BD%9C%E8%80%85%E9%95%BF%E5%B9%B3%E5%AE%B6%E4%BA%BA%E5%9B%A0%E5%85%B6%E8%AF%84%E8%AE%BA%E8%A2%AB%E5%A4%B1%E8%B8%AA/" target="_blank">德国之声 | DW专栏作者长平家人因其评论“被失踪”</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%EF%BC%8C%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/" target="_blank">德国之声 | 长平：贾葭失踪，睁眼之罪</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E4%BF%A1%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF%E4%B9%8B%E9%95%BF%E5%B9%B3%E7%AF%87/" target="_blank">【立此存照】自己都不信：机器五毛召唤术之长平篇</a></li>
-</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E9%95%BF%E5%B9%B3-%E6%88%91%E7%9A%84%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E7%94%B1%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9E%E5%9D%90/?category=18271" rel="tag">连坐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -690,7 +687,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -700,5 +697,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

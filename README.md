@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E5%8F%8D%E6%8D%9F%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">世界日报｜习近平强势反损统治</a>
@@ -70,6 +70,24 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B-%E9%9F%A9%E5%89%A7%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B-%E6%B8%AF%E7%8B%AC/" target="cdt-mirror">【真理部】《上瘾》《太阳的后裔》《十年》等</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/screen_shot_2016-04-02_at_9.20.06_pm.png?resize=426%2C424" alt="screen_shot_2016-04-02_at_9.20.06_pm" data-recalc-dims="1"></p>
+<p>今天的广电总局宣传例会上总局作了以下几点宣传提示，请大家注意：</p>
+<p>1. 同性恋题材网络剧《上瘾》已经禁播，各频道注意不要再请该节目主演上节目并进行炒作，如黄景瑜、许魏洲、林凤松、陈稳等艺人。</p>
+<p>2. 不炒作韩剧《太阳的后裔》，不要把该剧捧得过高，去炒作这些商业噱头来让观众去疯狂痴迷地追剧，要淡化，评论要适当。（该剧导演：李应福，主演：金恩淑、金源锡编剧，宋仲基、宋慧乔、晋久、金智媛）</p>
+<p>3. 不炒作港独题材电影《十年》，该电影已提名香港金像奖，4月3日香港将举行金像奖颁奖仪式，届时所有的电视、网站、广播都不要转播、直播颁奖活动，更要坚决避免出现相关视频镜头。（该电影导演：郭臻、黄飞鹏、欧文杰、周冠威、伍嘉良，该剧主演：廖启智、梁健平、周家怡、游学修、吴肇轩）</p>
+<p>4. 不炒作一些明星的豪华婚礼，近期一些网站炒作黄晓明吴奇隆婚礼的奢华，有违我们勤俭节约的传统美德，也不要热衷于这些花边新闻。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B-%E9%9F%A9%E5%89%A7%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B-%E6%B8%AF%E7%8B%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">《十年》电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B/?category=18271" rel="tag">《太阳的后裔》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E7%A4%BC/?category=18271" rel="tag">婚礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F%E5%A9%9A%E7%A4%BC/?category=18271" rel="tag">明星婚礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B/?category=18271" rel="tag">网剧《上瘾》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%AE%98%E5%AA%92%E5%AE%A1%E5%88%A4%EF%BC%8C%E6%8A%98%E6%8D%9F%E4%BA%86%E8%B0%81%EF%BC%9F/" target="cdt-mirror">端传媒 | 赵思乐：官媒审判，折损了谁？</a>
 </h2>
@@ -719,36 +737,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%A5%BF%E5%8C%97%E5%86%9C%E5%A4%A7%E5%85%B3%E4%BA%8E%E6%8B%9B%E8%81%98%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98%E7%9A%84%E9%80%9A%E7%9F%A5/" target="cdt-mirror">【立存此照】西北农大关于招聘网络评论员的通知</a>
-</h2>
-<p><p>为营造健康、文明的网络舆论生态，牢牢掌握舆论的主动权、话语权，按照学校第16次党委常委会会议要求，决定组建我校网络评论员队伍，现面向全校师生招聘网络评论员，具体如下：</p>
-<p>一、招聘范围</p>
-<p>此次招聘网络评论员100名。其中教授10名，思想政治理论课教师10名，思想政治工作辅导员10名，学生（本科、硕士、博士）70名。</p>
-<p>二、招聘条件</p>
-<p>1.具有较高的政治素养，能正确把握舆论导向，有坚定的政治立场与正确的理想信念，有良好的思想品德和敬业精神。</p>
-<p>2.熟悉党的宣传理论工作，熟悉高等教育发展动态，熟悉相关法律法规，熟悉学校中心工作。</p>
-<p>3.熟悉网络舆论生态，具备一定的网络传播技术，热心热爱网络评论工作。</p>
-<p>4.有较强的敏锐性和鉴别力，积极关注社会热点问题，对网络中的热点话题、重大事件、突发事件，能够做出正确的分析和判断。</p>
-<p>5.有一定的文字功底，能运用网民熟悉的语言和表达方式进行交流。</p>
-<p>三、招聘方式</p>
-<p>网络评论员采用自荐和单位推荐两种方式，其中思想政治理论课教师评论员由马克思主义学院负责推荐，思想政治辅导员评论员由党委学工（研工）部负责推荐，教授评论员以学院推荐为主，学生评论员以自荐为主。</p>
-<p>网络评论员在校党委宣传部统一领导下开展工作，根据工作量计算稿酬。</p>
-<p>四、招聘要求</p>
-<p>1.各单位要高度重视网络评论员的推荐工作，以高度的责任心做好网络评论员的推荐工作，确保网络评论员招募工作顺利进行。</p>
-<p>2.各单位在推荐过程中要注重网评员的综合能力，特别要推荐在网络舆论引导方面有特长的师生，共同努力组建一支高效优质的网络评论员工作队伍。</p>
-<p>3.单位推荐的网络评论员要填写《推荐表》，同时推荐单位要填写《汇总表》。自荐的网络评论员要填写《自荐表》。于<strong>4月10日前将纸质材料送党委宣传部404室</strong>，电子材料发送至liuyf@nwsuaf.edu.cn。</p>
-<p>五、联系方式</p>
-<p>联系人：刘玉峰</p>
-<p>联系电话：029—87082833</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA.jpg?resize=550%2C821" alt="网络评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/网络评论.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/网络评论.jpg?resize=686%2C1024 686w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/网络评论.jpg?w=711 711w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%A5%BF%E5%8C%97%E5%86%9C%E5%A4%A7%E5%85%B3%E4%BA%8E%E6%8B%9B%E8%81%98%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98%E7%9A%84%E9%80%9A%E7%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">网络舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98/?category=18271" rel="tag">网络评论员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -760,7 +748,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -770,5 +758,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

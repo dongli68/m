@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E5%8F%8D%E6%8D%9F%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">世界日报｜习近平强势反损统治</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?resize=550%2C733" alt="333" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>最新一期英国「经济学人」杂志以中国国家主席习近平做封面，并以《当心习崇拜》（ Beware the cult of Xi ）为题。文章指出，习近平比前几任领导人更强势，但打击政敌与集权的做法无法为他带来安全，反而树敌更多，无助维持中国的稳定局面。</p>
+<p>最新一期「经济学人」以习近平做封面，评论习的强势作风，可能造成中国政局不稳定</p>
+<p>经济学人刊文指出，中国近期爆发疫苗丑闻，指出习近平的反腐运动关系不到百姓，因为他们的生活与健康仍然受到腐败影响。</p>
+<p>近来也出现精英阶层对习近平不满的迹象。习近平握有中共前领导人毛泽东以来最多的权力，但高压政策和巩固权力的做法并没有为他带来安全，也无助于稳定中国的局势。</p>
+<p>文章又指习近平恋权，在位 3 年半以来，积埋好多头衔，除了党主席、国家主席，还领导改革、国安与经济等，简直是「全能主席」（ chairman of everything ）。</p>
+<p>自从他上台后，无视自毛泽东下台后限制官媒的个人崇拜，不只党媒要姓党，坊间更流传「要嫁就嫁习大大」、「习大大爱着彭麻麻」、「东方又红」等肉麻歌曲。</p>
+<p>在反腐方面，习近平用蛮横的调查员对付腐败，但目的是清算政敌，而非公平执法。</p>
+<p>习近平也恐吓媒体，使媒体不愿揭发至少 1 年前就已发现的问题疫苗交易。等到东窗事发，中共和习近平的公信力受到更大的威胁。</p>
+<p>习近平掌权初期，观察家曾好奇习近平是否会如他所言推行改革。文章表示，外界对习近平大刀阔斧改革的希望已愈来愈淡薄，因为他似乎没什么时间处理棘手的政治问题，「保有权力已占去他所有的时间」。</p>
+<p>文末指出，中共统治 66 年来，最动荡不安的时期通常是精英阶层内斗，习近平的统治风格却助长这股风气。「习近平愈试着用恐吓和高压手段对付敌人，愈可能制造更多敌人。」</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?resize=550%2C733" alt="Ce9Ji0XUUAAfhEx.jpg-large" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?resize=768%2C1024 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?w=960 960w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E5%8F%8D%E6%8D%9F%E7%BB%9F%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B4%BA%E5%8D%AB%E6%96%B9%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%AC%AC%E4%BA%8C%E4%B8%AA%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9F/" target="cdt-mirror">东网｜老徐：贺卫方会不会成为第二个任志强？</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/63f7e84cjw1f2ceb1ndmmj20bt08a3z6.jpg?resize=425%2C298" alt="63f7e84cjw1f2ceb1ndmmj20bt08a3z6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/63f7e84cjw1f2ceb1ndmmj20bt08a3z6.jpg?resize=300%2C210 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/63f7e84cjw1f2ceb1ndmmj20bt08a3z6.jpg?w=425 425w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></p>
+<p>中国知名学者、北京大学法学教授、中共党员贺卫方，一直以观点犀利敢于直言著称。早在前些年重庆「唱红打黑」风头正猛时，他就曾勇敢地站出来予以批评。近日由于他公开批评和质疑共青团组织，又一次成为了网络上的风云人物，被舆论推上了风口浪尖。</p>
+<p>事情的起因是在山东「问题疫苗」事件中，团中央下属机构某官员发微博批评贺卫方，结果被网民「刨坟」，其言不由衷、言行不一的形象，引发了网民对共青团组织的吐槽。其实，这么多年来，类似共青团、工会、妇联这样的群众性组织，在老百姓心目中的形象一直很差，像农民工讨薪事件这样需要这些群众性组织帮助维权的时候，压根儿找不到它们的踪影。而到讲大道理说官话套话的时候，它们总会急急忙忙地跳出来。这样的群众性组织，真正的群众根本不欢迎。所以贺卫方关于建议公开共青团编制、取消其经费的微博，以及后来与某省共青团官员的论战，引发了全社会巨大的反响，民间支持者众多。</p>
+<p>贺卫方在接受媒体采访时谈到：一直以来我们的国家治理模式，严重地混淆了政党与国家，社会组织与政府之间的一种基本的界限。像共青团这样的一个组织，他们其实完全就是一个社会组织，一个必须要自己来负责经费筹集，自己来进行管理，而不是依附在国家政权之上的，靠纳税人的经费来供养的组织。</p>
+<p>贺卫方还谈到：现在的时代像我这样的一个党员比较特殊。我不只是一个党员，我也是一个学者，一个法学的教授，我有责任把我从法学的角度去理解的基本的道理，不仅向全党，更向更多的公民表达，让大家能够理解法制基本的道理，比如权利义务之间的平衡，要行使权利，必须要承担义务。我觉得我们必须要推动政党走向真正的民主化，真正地尊重宪政、法制、民主这些最基本的价值。</p>
+<p>无疑，贺卫方成为了近期微博上的一个亮点。经过几轮的整肃，微博上关注时政民生敢于发声的大 V 已经凤毛麟角了，先是薛蛮子、李开复、潘石屹等人闭嘴了，后有任志强、孙海英被销号了，其他人要么偃旗息鼓，要么风花雪月，要么微商赚钱，令之前在微博上并不怎么活跃的贺卫方，显得更加出类拔萃、独树一帜。</p>
+<p>在威权体制下互联网上的声音、特别是匿名的声音，绝大多数是发自内心的真实声音。</p>
+<p>不过，尽管贺卫方的观点在网络上得到了很多支持，但是却与当下的时局和意识形态管控格格不入。有舆论说，贺卫方现在跳出来是接任志强的棒，前赴后继向党发难。因此人们有理由担心：贺卫方会不会成为第二个任志强？</p>
+<p>显然，如果贺卫方继续这么「嚣张」，恐怕难逃任志强那样的命运。可耐人寻味的是，任志强的事情已经过去一个多月了，官方信誓旦旦声称的要严肃处理仍不见踪影。会不会像一年前的毕福剑一样，党内的严肃处理，悄无声息地成了「烂尾」？如果官方真的把贺卫方当成第二个任志强来处理，恐怕不仅会引发网民的强烈不满，也会触发体制内部分势力的反弹，因为万马齐喑、毫无生机的社会，是与当下国家提倡的「双创」精神背道而驰的。</p>
+<p>在现实生活中，凡是具有相关利益的各方，彼此的交流互动，很难做到发自内心。所以言不由衷、言行不一、歌功颂德是官场和生意场的常态。下属对上级拍案而起，那除非是不想继续干了。由于互联网具有开放、包容、分享等特性，因此从某种程度上讲，在威权体制下互联网上的声音、特别是那些匿名的声音，绝大多数都是发自内心的真实声音。</p>
+<p>「团派」的没落是不争的事实，贺卫方的观点和声音，也代表了很大一部分民意。如果说任志强的声音代表了部分红二代、权贵集团的利益，那么贺卫方的声音，则代表了知识界、文化界知识分子和一大部分理性草根阶层的心声。如果违背民意、违背潮流地惩处贺卫方，那么结果很有可能是适得其反、事与愿违！</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 骨哥 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B4%BA%E5%8D%AB%E6%96%B9%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%AC%AC%E4%BA%8C%E4%B8%AA%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">贺卫方挑战团中央</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%AE%98%E5%AA%92%E5%AE%A1%E5%88%A4%EF%BC%8C%E6%8A%98%E6%8D%9F%E4%BA%86%E8%B0%81%EF%BC%9F/" target="cdt-mirror">端传媒 | 赵思乐：官媒审判，折损了谁？</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8B%E5%8D%886.12.57.png?resize=553%2C365" alt="Screen Shot 2016-04-02 at 下午6.12.57" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午6.12.57.png?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午6.12.57.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>赵思乐：“官媒审判”中一般包含四大元素：经济问题、道德问题、反党意图和认罪悔过。摄 : Etienne Oliveau/GETTY</span></p>
@@ -702,77 +749,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8C%BF%E5%90%8D%E4%BF%A1%E4%BA%8B%E4%BB%B6%E5%92%8C%E4%B8%AD%E5%85%B1%E5%85%9A%E5%86%85%E7%9A%84%E6%9D%83%E5%8A%9B%E7%84%A6%E8%99%91/" target="cdt-mirror">纽约时报｜匿名信事件和中共党内的权力焦虑</a>
-</h2>
-<p><p>北京——当一封呼吁国家主席习近平下台的<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank" rel="nofollow">匿名信</a>本月出现在网络上时，这似乎只是网上的流言。文中要求习近平为中国的利益，也为他自身安全考虑，辞去职务。这封信通过邮件传播，曾短暂出现在一家小型中国新闻网站上，之后很快被删除。</p>
-<p>但北京对这一事件的反应，绝非不以为然。</p>
-<div>
-<div>
-<h4>习近平的安全部门进行了范围甚广的调查行动，为找出并铲除匿名信的撰写和传播者，不惜采取比匿名信本身更引人注目的措施。这让一些久经历练的批评者都倍感意外。他们羁押了至少11人，其中包括两名中国流亡作家的亲属。这两人被指传播和宣传了上述匿名信。</h4>
-</div>
-</div>
-<p>习近平的助手试图营造出一种他的地位坚不可摧的氛围。然而，一些专家表示，对有可能不过是无聊网络把戏的行为做出异常严厉的反应，表明有人对习近平手中权力是否稳固存在担忧，包括一些安全官员热衷于表忠心，避免出现任何有关他处于危险之中的蛛丝马迹。</p>
-<p>“这种反应显示出他们有多么不安，”在伦敦国王学院(King’s College)研究中国政治的教授<a href="https://www.kcl.ac.uk/sspp/sga/lci/people/director/Professor-Kerry-Brown.aspx" target="_blank" rel="nofollow">凯利·布朗(Kerry Brown)</a>说。“他们似乎是在担忧，这些观点会被当成真正的精英人物的典型观念。”</p>
-<p>加州大学伯克利分校(University of California, Berkeley)<a href="http://www.ischool.berkeley.edu/people/faculty/qiangxiao" target="_blank" rel="nofollow">兼职教授</a>、同时为<a title="Link: http://chinadigitaltimes.net/chinese/" href="http://chinadigitaltimes.net/chinese/" target="_blank" rel="nofollow">中国数字时代</a>网站观察中国媒体状况的萧强认为，之所以出现这种反应，部分原因在于，这封信的措辞不同寻常。“不管是虚张声势，还是当真如此，这封信的基调更像是政变策划者在对话他们想罢免的领导人，而非持不同政见者发出的公开信，”他说。</p>
-<p>没有证据表明有什么政变正在酝酿之中。习近平似乎大权在握；本周他正在<a href="http://news.xinhuanet.com/english/2016-03/29/c_135232959.htm" target="_blank" rel="nofollow">捷克共和国访问</a>，周四他将抵达华盛顿，参加一场核安全会议。</p>
-<p>不过，被卷入或在密切关注这次调查的几人表示，中国政府的警惕反应突显出两股交替出现的力量：一是对外表现出的无比自信，二是对政治掌控力的内在担忧。正是这种忧虑，驱使习近平更严厉地打压批评人士。</p>
-<p>“习近平是要控制一切，而且这封信在国内新闻网站出现算是一种失控，”旅居德国的中国新闻记者、人权活动人士张平说道。在这次调查行动中，他的几位家人在中国西南部<a href="http://cn.nytimes.com/china/20160329/c29china/" target="_blank" rel="nofollow">遭到羁押</a>。</p>
-<p>张平通常以笔名“长平”写作，他表示自己的两个弟弟被四川警方扣押。在此之前，他的近亲，甚至包括一些关系比较远的亲戚被要求给他传话，要他从网上删除自己之前<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/a-19129146" target="_blank" rel="nofollow">撰写的一篇谴责拘押</a>中国媒体人贾葭的文章。文中表示后者很可能是因上述匿名信被拘。</p>
-<p>张平表示，他不可能从网上删除那篇发表在德国之声(Deutsche Welle)中文网站上的文章。目前，贾葭已被<a href="http://www.nytimes.com/aponline/2016/03/26/world/asia/ap-as-china-writer-released.html" target="_blank" rel="nofollow">释放</a>。</p>
-<p>警方表示，张平的弟弟因在祖坟上<a href="http://www.globaltimes.cn/content/976462.shtml" target="_blank" rel="nofollow">燃香烧纸钱</a>而涉嫌违法纵火。但张平认为这只是一个借口，是为了向他施压。</p>
-<p>他说自己的家人被告知，两个弟弟现在人在公安体系中的国保部门手里。他还表示，他的妹妹也失踪了，几乎可以肯定也是遭到了羁押。</p>
-<p>生活在纽约的中国作家、人权活动人士温云超表示，他在中国南方生活的父母和弟弟也<a href="http://cn.nytimes.com/china/20160327/c27china/" target="_blank" rel="nofollow">遭到了警方的羁押</a>，此前他们被迫转告他，要他承认在网上传播了那封匿名信。温云超拒绝了这一要求，并坚决否认自己传播了这封信。</p>
-<p>这封<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank" rel="nofollow">匿名信</a>于3月4日出现在网上，恰逢全国人民代表大会年度会议召开前夕。信中一一陈述了“忠诚的共产党员”对习近平的各项指控。其文风既有老式党八股特色，又有自由派的批评风格，让人很难分辨作者的真实身份。</p>
-<p>信中表示，习近平掌握了太多的权力，违背了共产党近些年秉承的集体决策传统。根据文中的说法，他抛弃了邓小平既定的外交方针，追求危险的冒进，并把新闻机构变成了推广他个人形象的奴性十足的工具。</p>
-<p>“习近平同志，你不具备带领党和国家走向未来的能力，”信中写道。</p>
-<p>这不是网上第一次出现抨击中共领导人的匿名信息。</p>
-<p>2011年，在网上出现呼吁民众参加“茉莉花革命”的匿名言论后，习近平的前任、当时的国家主席兼中共中央总书记胡锦涛领导的政府下令<a href="http://www.nytimes.com/2011/03/01/world/asia/01china.html?pagewanted=1" target="_blank" rel="nofollow">全面打压</a>，并加强了互联网审查。“茉莉花革命”是一场受中东各地的反抗运动影响的和平运动。</p>
-<p>不过，此次追查公开信作者的行动表明，习近平正在扩大安全管控。</p>
-<p>“他们在国外插手越来越深，”现居德国波恩的中国记者、维权人士<a href="http://cn.nytimes.com/china/20140822/c22dissident/" target="_blank" rel="nofollow">苏雨桐</a>在电话上说。“过去我们受到重视，但现在是更多的。”</p>
-<p>她说，安全机构似乎正在借调查公开信的机会，把目标对准流亡在外的年轻活动人士。这些人擅长用互联网传播消息，并与国内的人和事保持联系。</p>
-<p>“现在是有一个偏僻镇的派出所提出要撤德国媒体——德国之声——的稿子，是很荒唐的，”现居德国的张平说。“过去不可能出现的。”</p>
-<p>前述研究中国媒体的专家萧强表示，最让中国官方不满的可能是，公开信流露出，习近平及其家人的人身安全可能会有危险。信中要求习近平“出于党的事业的考虑，是出于国家和民族前途的考虑，同样，也是出于你和你家人自身安全的考虑”辞职。</p>
-<p>公开信最先由美国的中文网站“<a href="http://www.canyu.org/n110479c6.aspx" target="_blank" rel="nofollow">参与</a>”发布在网上。该网站主要刊登有关人权案件的新闻，以及批评中共的评论文章。</p>
-<p>参与网主编蔡楚表示，他和同事是3月3日在电子邮箱中收到这封匿名信的。蔡楚不愿说出发件人的电子邮箱地址，理由是需要保护发来这封信的人的安全。</p>
-<p>“从公开信的内容分析，这可能出自一位老先生之手，”蔡楚在通过电子邮件接受采访时表示。“是否可能是老党员所写，则不能判断，只能猜测。”</p>
-<p>后来，公开信出现在了国内的中文新闻网站<a href="http://www.watching.cn/" target="_blank" rel="nofollow">无界新闻</a>上。无界迅速删除了这封信。但网站的几名编辑和技术人员<a href="http://www.nytimes.com/aponline/2016/03/26/world/asia/ap-as-china-writer-released.html" target="_blank" rel="nofollow">消失了</a>。他们可能遭到了羁押。根据先例，该网站恐怕将被关闭。</p>
-<p>“他们做调查的，我想大概是想搞清楚无界有没有什么技术漏洞所以信能出现，而且就要搞清楚是不是有人故意提供这个漏洞，”中国南方笔名为“莫之许”的作家赵晖说。“我估计他们怀疑这是一场阴谋。”</p>
-<p>蔡楚表示，他周一又收到了一封信，自称是171名“忠诚的共产党员”敦促习近平辞职的请愿信。他说自己选择不发表这封信。</p>
-<p>他说：“由于也是匿名信，缺乏公信力。”</p>
-<div>
-<p>储百亮(Chris Buckley)是《纽约时报》驻京记者。<br>
-翻译：纽约时报中文网</p>
-</div>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%8C%BF%E5%90%8D%E4%BF%A1%E4%BA%8B%E4%BB%B6%E5%92%8C%E4%B8%AD%E5%85%B1%E5%85%9A%E5%86%85%E7%9A%84%E6%9D%83%E5%8A%9B%E7%84%A6%E8%99%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%A2%99%E5%A4%96%E7%8A%AF%E6%88%91%E5%BC%BA%E6%B1%89-%E8%99%BD%E8%BF%9C%E5%BF%85%E8%AF%9B/" target="cdt-mirror">东网｜乔木：墙外犯我强汉 虽远必诛</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=442%2C294" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?w=440 440w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"></p>
-<p>赶在最高领导访美前，由于无界新闻“公开信”引出的一系列事件暂时和缓。此前“失踪”的媒体人贾葭已获释回家，旅美的温云超在广东的父母解禁回家，旅德的长平在四川的兄弟也取保候审。另外铜锣湾书店事件的李波也获释回港，并发表感谢致词。</p>
-<p>很多人不理解，“公开信”一般人并不知道，国内很快已删除了事，何必要大张旗鼓地拿人追查，反而弄得举世皆知。更有人认为这是新一轮控制媒体、打压言论的信号。这显然是误读中国，因为根本就不存在新一轮、又一轮的问题，媒体的状况、言论的空间一直就是这样。</p>
-<p>要说有什么不一样，就是过去只管境内的出版印刷、墙内的网络言论，至于外边则管不着，不让进来就是，但是现在外边也要管。因为所有的言论都是人发出的，所以不管是铜锣湾书店还是公开信事件，最终就是拿人讯问。</p>
-<p>公开信事件在别的国家不算什么，媒体可以有意发表，依法表达对政治和领导的看法。如果是误发或被黑客攻击，加以说明和安全防范。但在中国的国情下，虽然理论上的宪法规定有言论自由，还规定公民有批评国家机关和国家机关工作人员的权利，但现实政治中，公开批评最高领导人，绝对是大事。</p>
-<p>公开信发表的时间，一是正值两会开幕，政治引人关注的时刻；二是全国上下都在要求向核心看齐，明年19大的常委有进有出，面临着新一轮的权力变化的时刻。所以它的出笼，已不是单纯的言论问题，而是政治问题，甚至有意无意卷入权力斗争的舆论领域。</p>
-<p>从它的起草、定稿，到冲破官方网站技术和人员的限制而发布、国内外呼应传播，当局有理由怀疑背后有政治势力的插手。就像历史上和文革时期，仅仅是对最高领导有不同的意见，就会被打成反党集团，株连甚众。</p>
-<p>从公开信的调查来看，北京、广东、四川都在进行，而且辐射海外，这只能是中央一级机构指挥的全国协调行动，而不是某一个地方的抢功冒进。就是铜锣湾书店事件，虽然有广东警方查办，但能在北京的央视专门报道解释，也不是个案那么简单。</p>
-<p>这两个事件要说有多么让人恐惧，也是夸大。墙内的媒体一直存在有效的管理，这类话题从不敢触碰。社交媒体会有隐约的讨论，但随时面临删帖销号的处置。所以有没有这些事，人们都习惯了这种舆论环境，知道该不该说，该怎么说。</p>
-<p>最大的影响，其实是针对墙外的华人。过去说什么、做什么，实力和影响顾忌，一般没事。现在领袖神武、大国崛起，“犯我强汉，虽远必诛”。就算自己不怕，也得为家人想想。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%A2%99%E5%A4%96%E7%8A%AF%E6%88%91%E5%BC%BA%E6%B1%89-%E8%99%BD%E8%BF%9C%E5%BF%85%E8%AF%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%A0%AA%E8%BF%9E/?category=18271" rel="tag">政治株连</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -794,5 +770,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

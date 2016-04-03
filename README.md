@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,84 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%AE%98%E5%AA%92%E5%AE%A1%E5%88%A4%EF%BC%8C%E6%8A%98%E6%8D%9F%E4%BA%86%E8%B0%81%EF%BC%9F/" target="cdt-mirror">端传媒 | 赵思乐：官媒审判，折损了谁？</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8B%E5%8D%886.12.57.png?resize=553%2C365" alt="Screen Shot 2016-04-02 at 下午6.12.57" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午6.12.57.png?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午6.12.57.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>赵思乐：“官媒审判”中一般包含四大元素：经济问题、道德问题、反党意图和认罪悔过。摄 : Etienne Oliveau/GETTY</span></p>
+<p>中国官媒上公开认错：</p>
+<p>我觉得作为一个香港人，也是作为一个中国人，在有需要的时候配合调查是我的义务。—— 铜锣湾书店李波，2016年3月25日凤凰卫视播出。</p>
+<p>我在中国从事了违反中国法律的活动，严重伤害了中国政府，伤害了中国人民的感情，对此我深表歉意。—— 瑞典籍人权机构工作人员彼得·达林（Peter Dahlin），2016年1月20日中国中央电视台播出。</p>
+<p>我回国投案自首是我个人自愿的选择，和任何人无关。这是我自己应该承担的责任，我不希望任何个人和机构介入或者干预我回国的事情，甚至进行恶意炒作。—— 铜锣湾书店桂敏海，2016年1月18日中国中央电视台播出。</p>
+<p>我也告诫那些所谓的维权律师，以我为戒，不要与境外勾结，拿境外组织的钱，从事违反法律、损害国家安全与利益的活动。—— 温州基督教堂维权律师张凯，2016年2月25日中国温州电视台新闻综合频道播出。</p>
+<blockquote><p>在中国，频繁的“官媒审判”也引起了部分民众反感，以及受害群体的反制。</p></blockquote>
+<p>近两年来，越来越多的类似“表白”，在有大陆官方背景的电视台出现。其主角往往正面临有关“危害国家安全”的控罪，遭到大陆警方羁押，律师无法会见。</p>
+<p>这引人推测：官媒记者与警方必有合作，否则不可能采访到当事人。而且，在未经法院审理的情况下，官媒即以确定口吻对被捕者控以“炒作”、“制造事端”、“扰乱国家和社会秩序”，亦被质疑是大陆当局“未审先判”政治打压的一部分。</p>
+<p><strong>“官媒审判”的四大元素</strong></p>
+<p>自2013年习近平执政以来，据不完全统计，经历过“官媒审判”，且被民间普遍视为政治打压的案件，至少有<a href="http://media.people.com.cn/n/2013/0829/c40606-22729790.html">薛蛮子案</a>、<a href="https://theinitium.com/article/20151124-dailynews-Gaoyu/">高瑜案</a>、<a href="https://theinitium.com/article/20151013-dailynews-baomengmeng/">维权律师案</a>（附带屠夫吴淦案、山东访民案、王宇案等）、张六毛案、<a href="https://theinitium.com/article/20151209-opinion-puzhiqiang-rule-of-law-duanqinghong/">浦志强案</a>、<a href="https://theinitium.com/article/20151205-mainland-guangdong-worker-ngo/">劳工NGO案</a>、<a href="https://theinitium.com/article/20160307-hongkong-hkbooksellers06/">铜锣湾书店案</a>、<a href="https://theinitium.com/article/20160113-dailynews-swedish-ngo/">彼得·达林案</a>，以及张凯案等十多起。这样的频率，为80年代初“拨乱反正”后所未见。</p>
+<footer>从80年代至本届中央政府之前，国内政治案件在官方媒体上出现的次数寥寥可数：1989学潮后，军人表彰及刘晓波等人上央视；2001年，法轮功自焚事件后滚动播报。两起事件的严重性不言而喻。胡温时代对异议者采取“消声”策略，即使在“零八宪章”事件中，都未广泛动用官媒工具。2010年，“李庄案”登上了不少官方报纸和地方电视台，也在央视出现过，但联系到当时重庆一把手薄熙来如日中天的势力，可理解为是一种局部、暂时现象。</footer><p>值得注意的是，上述“官媒审判”案例，绝大多数都出现在2015年7月1日《中华人民共和国国家安全法》通过之后，因此有理由视其为，中国大陆社会治理转入“国家安全模式”后的配套手段。</p>
+<p>“官媒审判”中一般包含四大元素：经济问题、道德问题、反党意图和认罪悔过。其中道德问题有可能不涉及或者轻轻带过，但另外三样基本是“必备项目”。</p>
+<p>以维权律师案为例，经济问题表述为收取境外资助、滥用众筹救援经费，为访民提供“补助”；道德问题表述为屠夫吴淦的“吊儿郎当”和违法记录、周世锋的男女关系问题，王宇的曾有“暴力行为”等等；反党意图表述为蓄意激化官民矛盾、扰乱社会秩序（该案与彼得案联系起来后，更指当事人企图颠覆中国现有制度）；最后，认罪悔过元素也十分受重视，报导中不惜用大量时间，展现访民认识到自己“被利用”后声泪俱下的悔罪告白，也尽量使用了周世锋自我否定维权行动的片段。</p>
+<p>这些的信息，往往跟当事人被控犯罪没有明确关系──例如中国现行法律未规定“罢工”或“收取境外资金”违法，也没有“通奸罪”、“流氓罪”之类的罪名。报导中也不会指出警方对当事人的具体控罪，“官媒审判”更多是“道德审判”和“动机审判”。</p>
+<blockquote><p>通过“四大元素”，官媒向民众反复传递这样的图景：境外势力正对中国虎视眈眈。那些对政府有意见的人，本来就是道德低下的犯罪分子。他们受到境外势力的指使，通过煽动和制造官民矛盾，不正当地获得经济利益。然后，他们现在都承认和后悔自己的犯罪行为。</p></blockquote>
+<p>官媒由此教育民众，不要同情、效仿维权人士，不要相信境外报导（即使他们有机会看到），并警惕自己被维权人士或境外势力利用，也就是说，只有相信并支持当局，才能避免受骗。</p>
+<p>这些报导中的诸多信息，尽管有些出自当事人之口，但被多方面指为失实或片面提取。例如，彼得·达林的同事迈克尔（Michael Caster）澄清，其机构从未参与幸清贤帮助王宇儿子逃往缅甸的事件；有知情律师指出，央视播出的王宇在法庭内怒斥法警的片段，是因为法警在法庭殴打一名女性被告人；被捕劳工NGO负责人曾飞洋的同事及利得鞋厂工人多次说明，厂方的经济补偿直接打到工人账上，曾飞洋无从截留。</p>
+<p>况且，官媒作为自称“姓党”的媒体，对处于官方强制中的当事人所作的采访，从任何一个角度，都不符合新闻信度的要求。但官媒对国内的信息垄断，又令“不相信”成为奢侈。</p>
+<p><strong>媒体背后的政治阴影</strong></p>
+<p>“官媒审判”不一定需要配套警力或法院程序，也可以独立运作。不久前，中国地产商任志强就因在微博对“央视姓党”发出批评性言论，引发诸多官方媒体出文声讨，北京首都网千龙网发文《<a href="http://china.qianlong.com/2016/0222/381255.shtml">谁给了任志强反党的底气</a>》、中国青年网发文《<a href="http://news.sina.com.cn/c/nd/2016-02-25/doc-ifxpvysv4881349.shtml">应坚决把任志强清除出党员队伍</a>》、中国江苏网称“<a href="http://m.jschina.com.cn/wap/pl/201602/t2681409.shtml">任志强是8000多万党员的耻辱</a>”等等。</p>
+<p>知名政治讽刺漫画家邝飚，将此称为“类似文革式的大批斗场面”。他由此创作了漫画《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E9%82%9D%E9%A3%9A_%E7%AB%8B%E5%9C%BA%E5%9D%9A%E5%AE%9A%E6%96%97%E5%BF%97%E5%BC%BA/">斗志强</a>》，画中任志强被带上纸高帽、胸前挂着写有“反党分子”的大牌、名字被打上大红叉。邝飚的漫画随即引起网民转载，而他的微信公号则被销号。任志强本人的微博也被禁言。</p>
+<blockquote><p>除了邝飚，越来越多人用“文革”比喻“官媒审判”的情景。今年是毛泽东发动文化大革命五十周年，中国当前政治氛围与文革的照应，更引人深思。</p></blockquote>
+<p>评论人章文在<a href="http://hk.on.cc/cn/bkn/cnt/commentary/20160227/bkncn-20160227000317989-0227_05411_001.html">撰文声援任志强</a>时说：“这一幕令人有时光倒流之感，1957年的反右以及随后的文革，就是这样‘大字报’满天飞的。”上世纪50年代中后期到70年代，《人民日报》和经录制再派发到各地的《全国各地人民广播电台联播》，就频繁出现将一些人和一些事定性为“反党联盟”、“反革命集团”的内容。</p>
+<p>安德鲁·海伍德（Andrew Heywood）在《<a href="https://book.douban.com/subject/26220998/">政治学的思维方式</a>》中写到，极权主义体制有六项特征：官方掌控一套意识形态；一党国家，通常由一个全权的领袖领导；恐怖主义的警察系统；垄断大众媒体工具；垄断武装力量；国家控制经济生活的所有方面。</p>
+<p>毛泽东时代的中国完全符合极权体制的定义，而普遍认为，80年代以后的中国，尤其在1992年邓小平南巡后，已由极权向威权转变。即国家不再全面地政治化和控制社会。部分学者用“韧性威权”来描述这一时期的中国。</p>
+<p>在此期间，媒体领域虽然仍处于官方的审查控制之下，但也出现了有限的自由化和专业化。比如，央视的新闻联播引入了国际新闻板块，加大民生话题比重，片头问候语从最早的“观众同志大家好”，改为“观众朋友晚上好”；由各地宣传部分管的市场化媒体大量涌现，其中包括《南方都市报》、《财经》、《财经新周刊》（简称“财新”）等多家以“新闻专业主义”为标榜的主流媒体；市场化媒体陆续发表批评性调查报导、设立有自由倾向的评论版面，甚至央视的《焦点访谈》、《今日说法》等栏目都播出对地方政府的批评报导，媒体一度被寄予“监督政府”、“推动改变”的厚望。</p>
+<p>这些现象，不代表官方放弃媒体手段或媒体监管，只是远没有现在强势、频繁和严厉。在1999年南斯拉夫“炸馆事件”、2001年法轮功“自焚事件”、2008年新疆“七五骚乱”等重大事件中，官方亦有广泛动用官媒手段。官方宣传部门对市场化媒体的删稿、内部批评、人事任免等常规监管也从未停止。</p>
+<p>然而近两三年来，市场化媒体的批评空间急剧紧缩，多个媒体的深度调查部门和评论部门被撤销或整顿，更有记者因发表不受官方欢迎的报导或言论而被羁押、逮捕甚至上央视认错──例如《新快报》记者刘虎和《财经》记者陈永洲、王晓璐。</p>
+<p>同时，传统官媒的再意识形态化明显：以央视为代表的官媒，报导最高领导人活动和讲话的比重大幅增加；“春节联欢晚会”几乎每一个节目，都与中央新政策和新理论挂钩；央视在接受领导人检阅时公开打出“央视姓党”的大字标语；全国娱乐节目收视最高的湖南卫视，在黄金时间插播歌颂领导人的MV《不知该怎么称呼你》。至于备受瞩目的“官媒审判”，则是其中直接指向民间打压的表现。</p>
+<p><strong>国内外的反制声浪</strong></p>
+<p>随着中国当局越来越频繁地使用“官媒审判”，尤其在央视播出了瑞典籍男子彼得·达林的认罪片段之后，欧美国家纷纷对这一现象表示担忧。</p>
+<p>瑞典政府外交部对此表示“不能接受”，瑞典驻华使馆官方微博也表示高度关注，并批评“电视认罪”的做法；欧盟驻华代表团发表声明称，“对近期欧盟公民在电视上公开认罪一事深表关切”；美国国务院发言人则表示，对在中国“疑似被迫认罪”的人数增加感到担忧，“这些行为削弱了中国自称是法治社会的主张，与中国的人权承诺背道而驰”。</p>
+<p>致力于推进新闻自由的国际非政府组织“无国界记者”，在彼得事件后，呼吁欧盟制裁中国中央电视台和新华社。它认为中国官媒对新闻自由造成“使人惊慌的威胁”，而且这种做法越来越多。</p>
+<p>据《南华早报》消息，“无国界记者”亚太主管Benjamin Ismail将桂敏海和达林形容为“受害者”，他说：“我们对被迫‘认罪’这种没有价值的信息传播感到愤慨……在明知这些是谎言，以及推测是在胁迫下做出的声明的情况下，中央电视台和新华社已变成面对民众的宣传武器，而非新闻媒体。”</p>
+<p>在中国，频繁的“官媒审判”也引起了部分民众反感，以及受害群体的反制。</p>
+<p>例如，北京警方官方微博“平安北京”转发了新华社针对劳工NGO的报导《<a href="http://www.weibo.com/1701367442/D9CXigKsa?type=comment#_rnd1459409448580">揭开“工运之星”光环的背后</a>》，在该则贴文下方的1400多条评论中，点赞数最多的10条评论，都是对文章表示反感和讽刺。获得了最多的107次点赞的评论是：“提个建议啊，我是好心，你们网评员（官方雇佣的水军）的模版该换换了，风格太一致了，一眼就能看出来。”</p>
+<p>在新华社《工运之星》报导出炉之前，国内劳权团体及其声援者就预料到，该案会出现“官媒审判”。因他们注意到，同为官媒的佛山电视台，坚持要采访被捕者之一的何晓波的妻子杨敏。在杨敏拒绝后，电视台方面还提及此报导“无论如何都会播出”。因此，声援团体想到要在污名化报导播出之前作出反制，他们迅速发布“恶搞”文章《<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU5MDQ1MQ==&mid=400790316&idx=2&sn=96410b87cf932bc471b92a29f5c2ca9e&3rd=MzA3MDU4NTYzMw==&scene=6#rd">天啦噜！他们说，何晓波要上电视啦！</a>》表达对“官媒审判”的担忧和质疑。</p>
+<p>《工运之星》发出后，声援团体更注意到，该文与新华社早前针对维权律师文章《<a href="http://politics.people.com.cn/n/2015/0712/c1001-27290030.html">揭开“维权”事件的黑幕</a>》的作者，同为记者邹伟。他们于是发布了指向邹伟的《寻人启事》，号召网民对其“人肉搜索”。何晓波妻子杨敏更向法院起诉邹伟和新华社作失实报道，目前法院未有回应，杨敏却遭到警察软禁并进驻家中。</p>
+<p>相比于强大的官媒垄断，民间的反制力量微弱，甚至可能遭遇报复。但在“找邹伟”行动之后，新华社发出的针对桂敏海和彼得·达林的类似文章，悄然取消了记者署名；温州网发出的张凯案文章所署记者“温平”，似与《环球时报》的“单仁平”雷同，是寓意“温州平安”的暱称。民间反制虽然效果有限，但似乎已让基层执行者有所压力。</p>
+<p><strong>难回极权的年代，审判折损了谁？</strong></p>
+<p>“官媒审判”的前提，是对官媒无上权威的维护。今年央视春晚因意识形态色彩过于浓重引发批评后，新闻联播、焦点访谈等央视皇牌节目，还有诸多党报和官方学者，纷纷出面表扬力挺，维持官媒权威的压力可见一斑。官方重新垄断媒体工具、拔高官媒权威，使之为官方意识形态服务、塑造唯一的全能型领导人，媒体领域被意识形态化和去自由化。这成为当下中国威权韧性消失、再次走向极权的重要表征之一。</p>
+<p>然而，现实又决定着中国难以完全回到极权，因为无论民间或是官僚体系，都难以对共产党的意识形态恢复毛时代那样狂热、彻底的信仰，因此，有分析者用“新极权”或“次极权”来描述当今之中国。随着官媒越来越成为明摆的、作用单一的、不容质疑的意识形态工具，以及“上央视”越来越多地作为民间打压的必选套餐，普通民众对其难免信任度持续下降、免疫力逐渐上升，民间行动团体的反制手段，则会不断更新和多样化。</p>
+<p>新的拉锯战怎样演绎？中国当局在官媒手段失效后有什么后手？有待进一步观察。</p>
+<p><strong>（赵思乐，自由撰稿人，专栏作家）</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%AE%98%E5%AA%92%E5%AE%A1%E5%88%A4%EF%BC%8C%E6%8A%98%E6%8D%9F%E4%BA%86%E8%B0%81%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E6%82%94%E7%BD%AA/?category=18271" rel="tag">公开悔罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">央视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%99%E5%A4%96%E6%A5%BC-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E7%AC%A8%E8%9B%8B-%E8%BF%99%E6%98%AF%E6%94%BF%E6%B2%BB/" target="cdt-mirror">墙外楼 | 莫之许：笨蛋 这是政治</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8B%E5%8D%885.57.16.png?resize=396%2C265" alt="Screen Shot 2016-04-02 at 下午5.57.16" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午5.57.16.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午5.57.16.png?w=396 396w" sizes="(max-width: 396px) 100vw, 396px" data-recalc-dims="1"><br><span>莫之许，原名赵晖，曾任《战略与管理》杂志编辑、《华夏时报》评论部主任。</span></p>
+<p>2016 年 3 月 31 日，标准普尔确认中国评级为 AA- ，将评级展望从稳定下调至负面；标普表示，中国经济再平衡的推进可能慢于预期。预计中国政府和企业杠杆率将恶化，预计未来三年中国经济增速在 6% 或更高。而此前 3 月 2 日，美国金融信用评估穆迪也将中国政府评级展望由「稳定」下调到「负面」。穆迪表示，降低北京的主权债券的信用等级展望是因为中国政府债务持续增加， 2015 年底上升到占国内总产值的 40.6% ， 2012 年的比例是 32.5% 。两家机构也在随后调低了对于部分中国企业的评级。</p>
+<p>若进一步市场化改革，做大蛋糕却会损害既有利益分配体系，体制未必会接受。</p>
+<p>中国经济动能衰退，经济减速甚至硬着陆，早就不是一个新鲜的话题了，中国经济过度依赖投资导致债务高涨，建立在人口红利基础上的出口产业竞争优势不再，大量的国有企业堆积无效产能日益变成僵尸企业 …… 这些理由也已经耳熟能详，甚至，国内国际经济学家和著名机构所开出的药方，也都是一样的：如加大国有企业改革或破产的力度、提供有利于创新的法治坏境以实现产业的升级、不应再多度依赖基础建设和房地产投资，等等。</p>
+<p>然而，所有这些建议，真可谓耳朵里都听出老茧来了，远的不说， 2008 年下半年，因西方金融危机影响，大陆外贸产业也受到冲击，此时，各路经济学家所指出的问题，所提出的办法，不还是这些吗？结果却是以「四万亿」为代表的更加凶猛的基础建设投资，由于基础建设投资所对应的部门都几乎都是国企主导，这又继续带动着国有企业野蛮生长，于是，出现的却是与上述建议截然相反的进程。而自从 1990 年代后期开始，所谓进一步深化改革的建议，包括吴敬琏等人所倡导的进一步改革「过大关」，其实也不出上述范围，同样的，出现的却是「国进民退」以及地方政府融资平台迅速膨胀等相反的进程，大陆当局不可能听不懂国际国内经济学家在说什么，很显然，之所以采取选择这样的应对，有超越于经济学逻辑的其他原因。</p>
+<p>从理论上来讲，进一步的市场化改革，将会带来更大的经济增量，应该也有利于当局，这是吴敬琏等改革派反覆声言的道理，但是，对于执政者而言，做大经济蛋糕本身并不是目的，从一开始，做大经济蛋糕的目的就是为了支持执政地位：在 1970 年代末期，引入商品经济，是为了摆脱前 30 年计划体制带来的普遍匮乏，缩短与发达国家和周边新兴发展国家越来越大的差距，而在 1990 年代初期，推进市场化建设，在很大程度上受到了苏联和东欧巨变的刺激：这些国家在经济上的失败，不仅导致了民众对于现行体制的普遍不满，也导致了体制内人员的离心倾向，「竟无一人是男儿」，以致一夕巨变。通过市场化做大蛋糕，不仅可以普遍的减少饥饿、贫困，产生新兴社会阶层，更可以改善体制成员福利，增强其效忠和服从，也可以扩大体制覆盖范围，强化政权基础。</p>
+<p>通过 30 多年的持续演变，大陆不仅出现了一个具有相当市场化成分的经济体系，也出现了一个系统性地攫取和占有市场化成果的分配体系，通过财政税收体系、金融体系、国有企业体系，以及教科文卫事业体系，体制不仅保留了对于经济、文化和社会的支配型地位，更为重要的是，这一地位如今可以通过系统性的攫取喝输送，将市场化成果变现并量化分配给予体制成员。如所谓的教育、医疗市场化，以及媒体的市场化，都既保留了体制的支配型地位，同时又通过垄断设置，将市场化所产生的成果，系统地输送给予了上述部门及其成员。至于垄断国有企业的利益攫取，就更加显而易见，而无需赘言。</p>
+<p>通过市场化进程，也通过既有利益体系的完形，体制不仅摆脱了传统计划体制的经济停滞，也获得了体制成员的普遍效忠和服从。从经典政治学的理论，新兴中产阶级对于自由化大多持有更加亲和的立场，然而，多次调查均发现，大陆新兴中产阶级却有着远为保守和亲体制的立场，这与大陆新兴中产的大部分均属于这一既有利益体系是分不开的，根据一些调查，在大城市中，自认为中产的人士中，有超过 60% 属于体制内，而在中小城市中，这一比例当然更高。可以说，维持既有专政体制，同时容忍市场化，已成为当下体制的核心，而支撑并维持这一体系运转的，不是别的，正是这一既有的利益分配体系。</p>
+<p>也因此，进一步的市场化改革，也要服从上述逻辑。如果既能够做大蛋糕，同时又不危及既有的利益分配体系，体制当然并不会反对，但是，如果进一步的市场化改革，固然可以做大蛋糕，但却要付出损害乃至破坏这一既有利益分配体系的代价，对于体制而言，就不是一件容易接受的事情，如进一步的国有企业改革，将损害体制对于经济的控制能力，同时损害国有企业体制成员的个人利益，因此，体制更愿意采用混合所有制的方式，在维持国有企业优势的前提下，引入市场因素。同样的逻辑还可以用在土地流转、知识产权、言论表达等诸多领域，可以说，任何危及到这一既有利益体系的进一步改革举措，实际上早就被排除出了考虑范围之内，国际国内经济学家们的建议，只能是泥牛入海。</p>
+<p>长期以来，大陆流传着一个政治改革滞后于经济改革的说法，对于政治改革，许多人早就喊出了「改革已死」的口号，而基于上述分析，实际上大陆的经济改革，也早就已经死了，这是近二十年来国际国内经济学家的建议屡屡换来相反进程的根本原因，对于这些经济学家而言，或许需要对他们大喝一声：笨蛋，这是政治！</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%99%E5%A4%96%E6%A5%BC-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E7%AC%A8%E8%9B%8B-%E8%BF%99%E6%98%AF%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">政治改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%87%E6%99%AE%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E8%AF%84%E7%BA%A7%E5%B1%95%E6%9C%9B/?category=18271" rel="tag">标普下调中国评级展望</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">经济改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E4%B9%8B%E8%AE%B8/?category=18271" rel="tag">莫之许</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E9%BA%BB%E9%9B%80%E8%99%BD%E5%B0%8F%EF%BC%8C%E5%8D%B4%E5%8F%AF%E8%83%BD%E6%8C%A1%E4%BD%8F%E5%A4%AA%E9%98%B3%E7%9A%84%E5%85%89%E8%BE%89%EF%BC%9A%E6%AF%9B/" target="cdt-mirror">知识分子 | 麻雀虽小，可能挡住太阳的光辉：毛时代的公共决策</a>
 </h2>
 <p><p>作者：熊卫民，中国科学技术大学科技史与科技考古系教授</p>
@@ -144,7 +219,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">假奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9D%8E%E9%93%B6%E6%B2%B3-%E7%8E%8B%E5%B0%8F%E6%B3%A2%EF%BC%9A%E6%9C%89%E4%B8%80%E4%BA%9B%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%AF%8F%E4%B8%80%E5%A4%A9%E9%83%BD%E6%98%AF%E6%84%9A%E4%BA%BA%E8%8A%82/" target="cdt-mirror">李银河 | 王小波：有一些时期，每一天都是愚人节</a>
 </h2>
@@ -698,49 +773,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%88%B0%E5%8D%8E%E5%BA%9C-%E8%80%81%E5%A4%96%E6%89%AC%E8%A8%80%E6%8B%A6%E8%BD%A6%E8%AF%B7%E6%84%BF/" target="cdt-mirror">自由亚洲｜习近平到华府 “老外”扬言拦车请愿</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard30_82.jpg?resize=550%2C413" alt="Clipboard30_82" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard30_82.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/Clipboard30_82.jpg?w=622 622w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>2016年3月30日，“老外”访民韦腾飞与妻子江琴。（何山拍摄）</p>
-<p>中国国家主席习近平北京时间周五（4月1日）凌晨两点，将与美国总统奥巴马在华府碰头，讨论全球的核安全。习近平短暂停留华府两日，20多名在美的大陆访民，已扬言要再拦车“请愿” ，其中包括祖籍上海、现定居美国芝加哥的江琴，与她的美籍丈夫韦腾飞，两人是因其位于上海淮海路附近的两层独栋祖业被强占，至今未收分文赔偿。</p>
-<p>拥有美国绿卡的江琴，与美籍丈夫韦腾飞，长途跋涉自驾车由芝加哥赶抵华盛顿。当下，华府正是一年一度樱花节，国家大草坪樱花处处，但两人并非一般的过客，他们没心观花，第一次到华府，到了旅游热门的渔人码头，亦只作短暂停留与休息。</p>
-<p>记者：江小姐与你丈夫来华盛顿，不是来看房子、不是观光看樱花，目的是甚么？<br>
-江琴：我是想要我自己合法的权利，我的财产被上海政府、长宁区政府抢去。我在上海有一栋私房，被长宁区政府强拆掉，至今没有任何的安置补偿。</p>
-<p>记者问江琴的丈夫，“你是“老外”，为何也要做 “访民”。很罕见，原因为何呢？”</p>
-<p>韦腾飞答：习近平非经常来美国，我们住在美国，上一次习近平来华府，我们都有抗议。我太太去年在上海，希望可以与政府解决这拆迁的问题。没有结果，我们试图以和平的方式解决。上一次，上海警方答应了会安排一个会面，但结果是设了个局，把我太太送到拘留所两星期。太太的手脚被绑起来，不能移动有68小时。他们这样做，超越了我的底线。他们不想用和平的方式解决，要打人，那我奉陪。</p>
-<p>韦腾飞指，拆迁没有和平解决，只有拦车。太太江琴则向记者打比方，“上海政府抢了她的牛，给她一只鸡补偿；她不接受，现在连鸡也没有了。”</p>
-<p>记者：大陆大使馆很紧张，你们有20几人，要拦车队，又说要把诉求给奥巴马，希望奥巴马转达， 你觉得怎样才可以和平落幕呢？</p>
-<p>江琴：我们希望政府派人与我们坐下来谈，现在没有人理我们。我们去上海、北京，当地政府都是玩我们。说先回去，有人会跟你谈；最后没有人，反过来送你坐牢。</p>
-<p>记者则问这名“老外”访民，可否忘记上海的物业，当没有发生过算了，在美国重新生活？ 他就回答，上海祖业对太太一家有意义，不光是产业，92岁的外母亦要生活。那甚么原因使访民群体，出现 “老外”呢？ 是独特、是孤单，还是其它呢？</p>
-<p>韦腾飞说：我娶了一个中国人人，太太的事就成了我的事。我没有选择，她是我的家人，这是一家人的事。是上海政府以欺凌的方式，引起了一个美国人的愤怒，他们去年要我太太坐牢。可以和平落幕，对哪一方都好；不幸的是，上海自称国际都市，说会遵从商业伦理道德，那拆迁祖业有遵从商业道德吗？他们偷了私人的财产，拆了人的房子，说要盖一个休闲中心，然后卖给了地产发展商。收受了几十亿，金钱到了口袋，却说没有钱补偿房子被强拆的人，这是问题呀？</p>
-<p>自上海、北京、中国各地的访民，在华府已聚集了20多人，连日来在中国大使馆外陈情。江琴对本台说，大家的心情是想碰碰运气，看能否截住习近平的车队，亲身递交各人的材料。他们在国内，莫说拦车，去到北京中南海要寄信入大院，有访民就被送入黑监狱。</p>
-<p>资料显示，江琴是在2012年开始进京上访。2014年她由美国返国，要求安置补偿，在北京被以“扰乱社会公共秩序”拘留了7天。出狱后3日，她再到北京要求提取 “没违反国家规定”的信息，再被拘留10天。第二次入狱，狱方用脚镣、手铐将她前后捆绑。 “酷刑”期间她身体大量出血，狱医著她吃保心和止血片，继续捆绑长达68小时。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%88%B0%E5%8D%8E%E5%BA%9C-%E8%80%81%E5%A4%96%E6%89%AC%E8%A8%80%E6%8B%A6%E8%BD%A6%E8%AF%B7%E6%84%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E/?category=18271" rel="tag">习近平访美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BF%E6%B0%91/?category=18271" rel="tag">访民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E4%BA%8B%E4%BB%B6%E9%A6%96%E6%AC%A1%E5%81%9A%E5%87%BA%E5%9B%9E/" target="cdt-mirror">法广｜中国外交部就“无界新闻事件”首次做出回应</a>
-</h2>
-<p><p><strong>中央社引述香港商业电台报导，中国外交部今天3月30号首度回应无界新闻事件，指“任何企图破坏中国国家稳定的行为，都不可能得逞”。</strong></p>
-<p>报道说，中国外交部发言人洪磊今天在北京作上述表示。</p>
-<p>不过，中国官方官网上的记者会实录上，并没有见到这段问答的记录。</p>
-<p>据报道， 3月4日深夜，无界新闻网忽然转载一份以普通党员名义要求习近平辞去总书记职务的<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%BF%A0%E8%AF%9A%E5%85%9A%E5%91%98%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BE%9E%E8%81%8C%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89/" target="_blank">公开信</a>，经媒体人贾葭提醒无界传媒执行总裁欧阳洪亮后，很快删除。</p>
-<p>这起事件引起广泛关注，也传出不少人受到波及，被带走调查。记者贾葭在前往香港时在机场<a href="http://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/" target="_blank">失踪十天后</a>，被释放回家，但他的律师没有对贾葭“失踪”后发生的事情做出进一步的说明。只是表示，贾葭否认是这封信的作者。无界新闻工作人员表示，已经与网站的四名记者失去联系。</p>
-<p>旅居海外的异见人士温云超（笔名北风）和<a href="http://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/" target="_blank">长平</a>（原名张平）都表示，可能因为他们对贾葭失踪一事的评论和转载而让国内的家人受到当局的干扰。他们都断然否认是这封”倒习信”的作者。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E4%BA%8B%E4%BB%B6%E9%A6%96%E6%AC%A1%E5%81%9A%E5%87%BA%E5%9B%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB/?category=18271" rel="tag">无界新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E4%BA%91%E8%B6%85/?category=18271" rel="tag">温云超</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%81%94/?category=18271" rel="tag">贾葭失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -762,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

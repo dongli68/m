@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%96%E7%95%8C%E7%A6%BB%E5%B2%B8%E8%B5%84%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%A4%96%E6%B3%84%EF%BC%8C%E6%B6%89%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E4%BA%B2/" target="cdt-mirror">美国之音 | 世界离岸资产数据外泄，涉中共高层亲属</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-%E4%B8%8B%E5%8D%881.01.05.png?resize=550%2C278" alt="Screen Shot 2016-04-04 at 下午1.01.05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=300%2C152 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=768%2C388 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=1024%2C518 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?w=1202 1202w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>4月3日，国际调查记者同盟（International Consortium of Investigative Journalists, ICIJ）在网站上公布了部分“巴拿马文件”（Panama Papers），揭露了140余位国家政要及其家属从未曝光的离岸资产。“巴拿马文件”包括从1970年代到2015年间的1150余万份的文件，全部来自位于巴拿马的莫萨克·冯赛卡信托公司（Mossack Fonseca），其规模远超包括维基解密在内的所有类似泄密事件。</p>
+<p>目前公布的人员名单里与中国有关的有四人：李鹏女儿李小琳，习近平姐夫邓家贵，贾庆林外孙女李紫丹（Jasmine Li），薄熙来妻子谷开来的生意伙伴、法国人帕特里克·亨利·德维利耶（Patrick Henri Devillers）。</p>
+<p>此外，涉事的现任和前任国家领导人共有12人，包括阿根廷总统、乌克兰总统、沙特阿拉伯国王等。俄罗斯总统普京的亲信、英国首相卡梅伦的父亲等也牵涉其中。</p>
+<p>据报道，一位匿名者于一年前向德国报纸《南德意志报》（Süddeutsche Zeitung ）提供了“巴拿马文件”的相关数据，报方将数据交给国际调查记者同盟进行调查。后者动员了全世界100多个媒体组织进行了长达一年的调查后，于2016年4月3日在网站上公布了初步结果，完整清单将于五月初公布。</p>
+<p>莫萨克冯赛卡公司被称为全世界“最神秘”的律师行，多家媒体报道其为全球第四大离岸资产服务公司。其网站有英文、西班牙文、中文三种语言，在中国大连、杭州、宁波、青岛、上海、深圳、济南和香港设立办公室。其中香港分部网站上显示其公司箴言为“效率、保密、个性化”。</p>
+<p>美国之音记者通过电子邮件联系了莫萨克冯赛卡的总部和所有中国的分公司，目前尚未收到回应。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-%E4%B8%8B%E5%8D%881.04.56.png?resize=550%2C305" alt="Screen Shot 2016-04-04 at 下午1.04.56" data-recalc-dims="1"><br>
+中国前总理李鹏的女儿，中国电力国际公司负责人李小琳2006年3月17日在香港</p>
+<p><strong>涉事中国人李鹏女儿李小琳</strong></p>
+<p>据国际调查记者同盟网站的信息，在李鹏任总理期间，李小琳和丈夫刘智源在列支敦士登注册了基金公司Foundation Silo，该基金公司是另一家注册于避税天堂英属维京群岛的公司Cofic Investments Ltd.的唯一股东。ICIJ公布了李小琳的律师查尔斯-安德烈·朱诺德（Charles-Andre Junod）去年3月发给莫萨克·冯赛卡信托公司的邮件，告知后者Cofic Investments Ltd的资金来自从欧洲向中国出口重型机械的收益。</p>
+<p>朱诺德律师在邮件中称呼李为“刘李小琳”，还附上了李的香港护照。此举可能是为了更好的保护李的隐私，避免相关人员把她和李鹏联系起来。美国之音记者联系莫萨克·冯赛卡信托公司询问其是否知道“刘李小琳”的真实身份，尚未得到回复。</p>
+<p>查尔斯-安德烈·朱诺德是瑞士一家律师事务所的冠名合伙人。文件公布后，他回应ICIJ称他一直遵守相关法律。</p>
+<p><strong>习近平姐夫邓家贵</strong></p>
+<p>邓家贵是习近平姐姐齐桥桥的丈夫，文件显示他于2009年9月，也就是习近平任国家副主席期间，成为了两家公司的独立董事和股东，公司均注册于英属维京群岛，由香港的民信会计师事务所操作。</p>
+<p>2015年4月，《纽约时报》记者傅才德（Mike Forsythe）发表的《万达帝国王健林：游刃于商业与权贵之间》就详细报道过齐桥桥和邓家贵的商业活动。同年10月，王健林在哈佛大学演讲时回应相关报道，称齐邓夫妇于万达在香港上市前已经把股份全部转让，并强调说“这件事证明的不是腐败，而是恰恰证明，习近平主席治国严，治家更严。”</p>
+<p>然而《纽约时报》的另一篇报道，在2013年10月，习近平当上主席后不久，由齐邓二人创办的北京秦川大地投资有限公司经历了一次不寻常的股权变更。秦川大地从2007年注册成立后的六年里，控股结构都没有任何变化。但是在2013年10月，秦川的所有权全部转移到了徐再胜的名下。傅才德在去年的电话采访中告诉美国之音记者，徐再胜从2000年就在齐邓二人持股的深圳远为投资有限公司工作，到2013年已经在齐邓手下工作了13年，所以股权究竟是“转让”还是“代持”还值得怀疑（详见美国之音记者方冰的<a href="http://m.voachinese.com/a/2745704.html">相关报道</a>）。目前深圳远为投资有限公司的法定代表人仍是邓家贵。</p>
+<p>王健林在哈佛并未回应有关“股权代持”的疑云。</p>
+<p><strong>贾庆林外孙女李紫丹（Jasmine Li</strong><strong>）</strong></p>
+<p>李紫丹第一次出现在中国民众的视野里是2009年，当时多家媒体报道她受邀出席一年一度的巴黎名媛成年舞会。据<a href="http://dailynews.sina.com/gb/chn/chnnews/ausdaily/20130218/02094258425.html">新浪网</a>报道，该舞会属欧洲社交盛会，当时一同出席的还有已故戴安娜王妃的18岁侄女、名导演克林伊斯伍德的16岁女儿、澳门赌王何鸿燊的孙女等。</p>
+<p>巴拿马文件显示，就在李紫丹参加巴黎舞会的同一年，润年贸易有限公司（Harvest Sun Trading）在维京群岛注册成立。2010年，中国名表零售连锁集团亨得利创始人张瑜平将该公司以1美元的价格转让了还在斯坦福读本科的李。同时，李也是另一家维京群岛注册公司Xin Sheng Investments的单一股东。</p>
+<p><strong>薄熙来妻子谷开来和她的法国生意伙伴</strong></p>
+<p>薄熙来还是大连市委书记的时候，法国人德维利耶与谷开来相识。2000年9月，德维利耶帮助谷开来建立离岸账户并在维京群岛设立公司，公司的股权收益被用于购买法国尼斯的别墅。薄熙来受审期间，谷开来和德维利耶关于尼斯别墅的证词成为薄腐败证据的一部分。谷开来入狱后，德维利耶成为公司的唯一持股人。</p>
+<p>目前国际调查记者同盟只在网站上公布了一部分结果，完整的清单将于五月初公布。</p>
+<p>其实早在2014年，国际调查记者同盟就曾发布过<a href="https://www.icij.org/offshore/leaked-records-reveal-offshore-holdings-chinas-elite">一份调查报告</a>，披露中国高官家属和商人在海外拥有离岸资产。当时被点名的包括邓家贵、李小琳、温家宝的儿子温云松、彭真的儿子傅亮、邓小平的女婿吴建常，还有腾讯CEO马化腾、乐视CEO贾跃亭等。</p>
+<p>参与“巴拿马文件”调查的100多名记者中，有一位来自香港，三位来自台湾。没有中国大陆的调查记者。</p>
+<p>另据<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/">中国数字时代报道</a>，中国大陆一个省级的网信办已发布禁令：“查删已转载的巴拿马文件相关报道。相关内容一律不再跟进，任何网站一旦发现传播境外媒体攻击中国内容将做从重处理。本条指令口头传达到值班编辑，请立即落实。”先前网上转载的《巴拿马文件泄密 普京卷入20亿美元洗钱丑闻》也被要求下线。</p>
+<p>截至记者发稿时，百度和新浪微博上搜索“巴拿马文件”已无任何内容，百度显示“搜索结果可能不符合相关法律法规和政策，未予显示。建议尝试其他相关词。”</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/">【真理部】巴拿马文件相关报道</a>  <a href="http://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/">Du Chen：震惊世界的巴拿马文件事件到底是怎么一回事？</a></p></blockquote>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%96%E7%95%8C%E7%A6%BB%E5%B2%B8%E8%B5%84%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%A4%96%E6%B3%84%EF%BC%8C%E6%B6%89%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E4%BA%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?category=18271" rel="tag">Jasmine Li</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F/?category=18271" rel="tag">习近平家族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%90%A8%E5%85%8B%C2%B7%E5%86%AF%E8%B5%9B%E5%8D%A1%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">莫萨克·冯赛卡信托公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="cdt-mirror">【真理部】巴拿马文件相关报道</a>
 </h2>
 <p><p>X省网信办：本条指令口头传达到值班编辑，请立即落实。查删已转载的<a href="http://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/" target="_blank">巴拿马文件相关报道</a>。相关内容一律不再跟进，任何网站一旦发现传播境外媒体攻击中国内容将做从重处理。</p>
@@ -1187,29 +1226,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%EF%BC%9A%E8%AD%A6%E6%83%95%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/" target="cdt-mirror">BBC｜《经济学人》：警惕对习近平的个人崇拜</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png" rel="attachment wp-att-431732"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.png?resize=575%2C318" alt="习近平" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=300%2C166 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=768%2C424 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?resize=1024%2C566 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.png?w=1618 1618w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><em>（两会视频截图）</em></p>
-<p><strong>英国《经济学人》期刊在最新发表的文章中分析了中国出现的对习近平的个人崇拜，认为他推行的高压政策以及强化自己权力的做法并不能给他带来安全，也不能帮助稳定中国。</strong></p>
-<p>文章在开头提到中国最近发生的疫苗丑闻，指出习近平的反腐运动其实关系不到普通百姓，因为他们的生活以及健康仍然受到腐败影响。</p>
-<p>文章还提到中国精英阶层也不满习近平，比如官方媒体公开抱怨对新闻报道的限制，还有一位知名富翁在微博上攻击他以及一名高级编辑愤而辞职等等。</p>
-<p>自毛泽东之后，习近平大揽权力，超过任何其他领袖。文章说，在他上台后的三年半中，习近平以惊人的速度为自己取得各种头衔。中共的“集体”领导做法被抛弃。文章引述一位分析人士说，习近平现在是“全面主席”（Chairman of Everything）。</p>
-<p><strong>另一场文革？</strong></p>
-<p>毛泽东的暴君性格和喜爱崇拜把中国推入文革的狂热和暴力中。《经济学人》认为，习近平不会成为毛，也没有迹象显示中国到了另一场文革的边缘。</p>
-<p>但是文章认为，习近平推行的高压政策和强化自己权力的做法并没有给他带来安全，也不能帮助稳定中国。</p>
-<p>在反腐问题上，文章说，习近平用中共自己的地痞式调查员来对付腐败，而这些人感兴趣的是清算政敌，而不是公平执法。</p>
-<p>习近平压制新闻媒体，也使记者不敢揭露腐败。文章把疫苗事件当作例子，指出丑闻一年前就被发现，但是到现在才曝光，这对党和习近平的信誉影响更大。</p>
-<p>文章也认为习近平的外交政策也在国际上引起焦虑，比如他在南中国海咄咄逼人，反而把亚洲许多国家推到了美国的阵营。</p>
-<p>习近平刚上台时，人们还以为他站稳脚跟后就会推行他希望的改革。文章说，但是现在这种希望越来越淡薄了。让党遵守法律，关闭亏损的国有企业或者推进急需的社会变革比如在城市中取消对农民工的限制，这些都是很棘手的政治问题。文章说，看来习近平没有时间顾及这些事情———因为维持权力占了他的全部时间。</p>
-<p>《经济学人》的文章说，中共统治中国66年，最麻烦的时期通常都发生在精英阶层内部爆发争执。文章说，习近平的统治风格只会在这个问题上火上浇油，他越用恐吓和打压的办法对付敌人，就会制造更多敌人。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%EF%BC%9A%E8%AD%A6%E6%83%95%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1221,7 +1237,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1231,5 +1247,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

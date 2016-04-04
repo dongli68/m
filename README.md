@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%85%A8%E7%90%83140%E4%BD%8D%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%A4%BE%E4%BC%9A%E5%90%8D%E6%B5%81%E7%A6%BB%E5%B2%B8%E8%B5%84%E9%87%91%E6%8F%AD%E7%A7%98/" target="cdt-mirror">法广 | 全球140位政治人物社会名流离岸资金揭秘</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?resize=550%2C309" alt="160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>毫无疑问，这又是一个揭露某些掌握权力和某些逃避税收的人如何隐匿财富的爆炸性新闻。名为『巴拿马档案』的国际记者团调查报告披露，全世界140多位政治人物社会名流在逃税天堂的秘密存款曝光。已知他们中有普京的亲信，有与习近平亲属有关系的公司，有冰岛总理夫妇，有沙特国王，以及欧洲足联主席普拉蒂尼等等等等。其他国家政要的名字将陆续披露。</p>
+<p><strong>与习近平家庭有关的公司也牵涉其中</strong></p>
+<p>在国际记者调查团(ICIJ)协调下，包括德国『南德意志报』、法国『世界报』在内的全球76个国家的一百零六家媒体获得了上述秘密材料，由此，经过一年对涉及1150万份材料的分析和调查，他们掌握了大量涉及多国领袖人物、犯罪网络、体育明星以及亿万富翁在逃税天堂秘密存款或者洗钱的材料。上述媒体周日晚在网站披露，『巴拿马档案』涉及的超过214000个离岸公司，这些离岸公司同全球200多个国家和领地有联系。</p>
+<p>上述秘密存款资料涉及的人物包括俄罗斯总统普京的亲信，包括冰岛总理贡劳格松，还有许多国家元首和政治人物的名字赫然列在其中，这些人物的名字将在本周之内陆续公布。除政治人物外，著名球星梅西以及欧洲足联主席普拉蒂尼等人也在内。</p>
+<p>调查报告披露的部分名单显示，中国国家主席习近平一直表示决心与贪腐斗争到底，但是一些与他的家庭有关的公司也出现在名单上，乌克兰总统波罗申科的名字也在其中。</p>
+<p><strong>冰岛总理夫妇的离岸公司</strong></p>
+<p>冰岛总理以及内阁的两位主要部长，一位是执政党的党魁都牵涉离岸公司秘密存款。这个只有33万居民的岛国，四年前已经把20几位本国的银行家以欺诈罪送进监狱。看到这个消息不知会有何感想？四年后，这个国家的金融体制是否有了根本改变？总理贡劳格松与妻子在维尔京群岛拥有一个秘密公司Wintris Inc，只是到了3月15号，在国际记者调查团问询总理之后，他的妻子才在脸书表示，这一公司的存在并不是一个秘密。现在，该国反对党要求总理辞职。</p>
+<p>维基解密2009年披露了大量类似的材料，其中包括数万个电子信件，但本次全球100多家媒体泄露的秘密材料“超出维基解密1500倍”。全球106家媒体的370位记者为此工作整整一年，他们分别来自法国、印度、德国、瑞士、俄罗斯、美国、巴西、日本以及其它国家。</p>
+<p><strong>神秘的Mossack Fonseca律师事务所</strong></p>
+<p>『巴拿马档案』调查的核心，是一个名叫Mossack Fonseca的机构，这是一个专门办离岸手续的律师事务所。这一律师事务所主要就是帮助开办用以掩藏持款人真实身份的离岸公司，并封锁公司内部消息不致流向外界。该公司总部在巴拿马，是全球最不透明的金融中心之一，被视为是洗黑钱的跳板，许多黑钱，犯罪组织的赃款，贿款都通过这里找到了掩藏之所。</p>
+<p>调查发现了一个难以置信的数字：Mossack Fonseca创办或者经营了214000架离岸公司。从她1977年创建，直到2015年，整整40年时间，该公司创建的此类性质的公司分布在全球21个逃税天堂，从卢森堡到巴拿马，从瑞士到英国的维尔京群岛，从大洋洲的萨摩亚到印度洋上的塞舌尔群岛，从摩纳哥到巴哈马，囊括了几个大洲和大洋。该律师事务所的顾客分布在全球200个国家或领地。</p>
+<p><strong>秘密是如何泄露的</strong></p>
+<p>『巴拿马档案』披露在这里的不仅仅是某些个别情况或个别银行，也不仅仅是某个个别金融家为某一个多国集团扮演的角色，这份档案呈现的是一个“现实的金融版图”，直到目前不为人所知的一面。</p>
+<p>如果不是一个匿名信息来源，打开了通过金融版图的路径，一切到今天仍处于秘密之中。2015年年初，一个匿名消息来源把这些“黄金信息”首先转到『南德意志报』的记者手上，『南德意志报』记者开始调查Mossack Fonseca律师事务所扮演的角色。然而，面对如此庞大棘手的材料，『南德意志报』决定与国际记者调查团以及属于该记者团的100多家媒体分享信息，合作调查。各大媒体很快证实，这一庞大的匿名信息来源真实可靠，不容置疑。法国『世界报』三月初咨询了一批Mossack Fonseca寄给顾客的电子信件，更加证实了前述信息的准确性。</p>
+<p>当然，并非『巴拿马档案』中所有的离岸公司都是非法和不透明的，其中有些是专门为了国际融资方便而开设的，公开透明，出于发展经济的目的。但是其中大部分是以所谓公司的身份掩盖秘密存款和洗黑钱。</p>
+<p>如此，在Mossack Fonseca律师事务所，赃款与正当款项，灰色款(不报税)与黑钱，亿万富翁以及足球明星与犯罪集团和腐败国家领袖的贪款并存交叉。</p>
+<p>根据国际记者调查团将近一年调查，现已查清有12个国家元首和政府总理，其中6人仍在岗位，与离岸公司秘密存款有涉；还有128名政治人物与全球最高级别的公务员；以及29名列入富士比全球500大排行榜的富豪。</p>
+<p>根据调查，其中最“敏感”的人物，其款项分存在三到四个设在全球各地的离岸公司，对于一个国家的税务检查机关而言，要想调查清楚几乎不太可能。</p>
+<p>『世界报』及其它媒体核实了数万份Mossack Fonseca律师事务所与他们的雇员之间的内部信件，证实制造离岸公司的人往往比企图整顿和监督金融管理的国际组织走前了一步。</p>
+<p>上述媒体将在接下来的几天，陆续披露涉及在海外秘密存款的政治人物和社会名流的名单。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%85%A8%E7%90%83140%E4%BD%8D%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%A4%BE%E4%BC%9A%E5%90%8D%E6%B5%81%E7%A6%BB%E5%B2%B8%E8%B5%84%E9%87%91%E6%8F%AD%E7%A7%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">律师事务所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E5%AD%98%E6%AC%BE/?category=18271" rel="tag">秘密存款</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E5%8F%8D%E6%8D%9F%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">世界日报｜习近平强势反损统治</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?resize=550%2C733" alt="333" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -700,43 +731,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%AA%E8%A6%81%E8%B7%9F%E5%AF%B9%E4%BA%86%E5%85%9A%EF%BC%8C%E6%84%9A%E4%BA%BA%E8%8A%82%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%BF%87/" target="cdt-mirror">【网络民议】只要跟对了党，愚人节每天都过</a>
-</h2>
-<p><p>中国北京时间4月1日，新华社的@新华视点 账号在新浪微博发布了一条微博，称“愚人节不符合我国的文化传统，不符合社会主义核心价值观”，随即引来大量网民嘲讽。然而由于该微博内容最后带了一个微笑脸，所以也有一些人认为这其实是@新华视点 开的愚人节玩笑。就在越来越多的网民加入吐槽队伍当中时，@新华视点 的评论却从两千六百多条被删到了只剩12条。也许是因为微博内容符合党媒一贯的作风，从评论可以看出大多数网民并有将此当作玩笑（文末附截图）。然而如果这真是玩笑却没人信，甚至最终闹到了删评论的地步，也算为今年愚人节增添了一则趣闻。</p>
-<blockquote><p><a href="http://weibo.com/xinhuashidian" target="_blank">@新华视点</a>：今天是西方所谓的“愚人节”。“愚人节”不符合我国的文化传统，不符合社会主义核心价值观，希望大家不信谣，不造谣，不传谣。<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016.png" rel="attachment wp-att-433631"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016.png?resize=500%2C350" alt="新华愚人节2016" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?resize=300%2C210 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?resize=768%2C538 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?resize=1024%2C717 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016.png?w=1920 1920w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>一个多小时后，转发量增加不少，评论却只剩12条：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016%E5%88%A0%E5%90%8E.png" rel="attachment wp-att-433630"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E6%84%9A%E4%BA%BA%E8%8A%822016%E5%88%A0%E5%90%8E.png?resize=500%2C467" alt="新华愚人节2016删后" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?resize=300%2C280 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?resize=768%2C717 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?resize=1024%2C956 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/新华愚人节2016删后.png?w=1456 1456w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/pannanyang" target="_blank">@潘南阳</a><i title="微博达人"></i>：就是，西方这破节有什么了不起的，我们天天都过<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p>
-<p>@Lookfor2elephants：愚人节不符合 新闻联播就符合了？？？</p>
-<p>@anthonggg：某党只适合清明节</p>
-<p>@ALL_BLUE：cctv1每晚七点都会着重纪念一下，确实没必要再单独拿出来说了</p>
-<p>@李梦天律师：e租宝事件：证件齐全，两会报道，国家倡导，公安评级，党媒宣传，领导调研，专家站台，央行征信，人保担保……超过18万人被拖入深渊！愚人节只算玩笑，而这TMD的又算什么?！</p>
-<p><strong>@张倔强是个灿烂的小胖子：贪污腐败也不属于社会主义核心价值观怎么那么多贪污腐败呢</strong></p>
-<p><a href="http://weibo.com/1728428493" target="_blank">@春-上村树</a>：进口一吨的奶粉卖出十吨的量就很符合社会主义价值观<img title="[哈欠]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif" alt="[哈欠]" data-recalc-dims="1"><img title="[哈欠]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif" alt="[哈欠]" data-recalc-dims="1"><img title="[哈欠]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/haqianv2_org.gif" alt="[哈欠]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1674905161" target="_blank">@咖啡叶子爱评论</a><i title="微博达人"></i>：这一定是一个高级黑的段子<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@莎菲安：粮食亩产三万斤好象不是在愚人节发布的吧！</p>
-<p><strong>@我的护球像你爹：只要看对了报纸，愚人节每天都过。</strong></p>
-<p><strong>@大号瘦子：其实跟对了党，愚人节每天都过</strong></p>
-<p>@生姜头姜生：新华社好不容易幽默一次。。。什么，不是开玩笑啊？</p>
-<p>@这不老谁家那小谁吗：社会主义每天都是愚人节好不</p>
-<p>@Mission-zhou：我大天朝天天愚人，就愚人节不许愚人！</p>
-<p><strong>@Nocte1984：“亩产三万六千斤”“我儿子靠的是全额奖学金”，你国，呵呵。</strong></p>
-<p>@林木行云：专门指定一天骗人，骗了人还告诉他今天是骗人的节，太笨了。的确不符合中国社会主义价值观。要骗就得象党媒那样天天骗，骗你防不胜防，骗你没商量，这才是咱们正确的价值观。</p>
-<p>@一个妹想到：他把评论关了就没法传谣了略机智</p>
-<p><strong>附@新华视点 删除微博评论前的截图：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82.png" rel="attachment wp-att-433626"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82.png?resize=475%2C1981" alt="新华视点愚人节" data-recalc-dims="1"></a></p>
-<p>另附@头条新闻 转发后的评论截图：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-433624"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.png?resize=475%2C1951" alt="头条新闻" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/03/%E5%8F%AA%E8%A6%81%E8%B7%9F%E5%AF%B9%E4%BA%86%E5%85%9A%EF%BC%8C%E6%84%9A%E4%BA%BA%E8%8A%82%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%BF%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -748,7 +742,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -758,5 +752,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,654 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/" target="cdt-mirror">Du Chen：震惊世界的巴拿马文件事件到底是怎么一回事？</a>
+</h2>
+<p><p>上周日，全球大约 100 家媒体突然统一播发了一条重大新闻：有 2.6TB 属于巴拿马一家法律事务所 Mossack Fonseca 的数据被泄露出来。 这一事件，被称为 Panama Papers。</p>
+<p>为什么一家来自中美洲国家律所的数据，能够在全世界引起轩然大波？</p>
+<p>因为这家律所曾为无数客户在巴拿马这个避税天堂隐藏离岸资产提供了帮助，共创立了超过 21.4 万家壳公司。而这些壳公司与全世界超过 200 个国家和地区有所关联，涉及了 143 位来自这些国家和地区的政治家和他们的家庭，当中包括有 12 位各国现任领导人。</p>
+<p>通过数字、图表和文字，我们来看一下Panama Papers 所揭露的可怕真相。</p>
+<p><strong>爆料</strong></p>
+<p>大约一年前，一个匿名爆料者开始联系德国媒体《南德意志报》（Süddeutsche Zeitung，以下简称《SZ》），询问是否对一批来自巴拿马专司离岸业务律所的数据感兴趣。</p>
+<p>《SZ》和爆料者通过加密文件进行联络，并随后引入了国际调查记者同盟 (International Consortium of Investigative Journalists, ICIJ) 的多家媒体，包括《卫报》、BBC和法国的《世界报》等。</p>
+<p>调查发现，Mossack Fonseca，一家注册在巴拿马，几十年来一直默默无闻的律所，其实正是保存全世界最重要人物和公司离岸避税隐性资产的金库。这家律所在全球三十多个地点设立了办公室，在中国就有 8 个。</p>
+<p>爆料者的数据正是来自这家律所，数据尺寸之大、覆盖面之广、详实程度之高，令人难以置信。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=600%2C354" alt="1-QAP2ToEA47SZR-tH6QiQzw" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=300%2C177 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=768%2C453 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=1024%2C604 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?w=1150 1150w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>Mossack Fonseca 公司外景。图片来自 AP Photo/Arnulfo Franco</p></div>
+<p><strong>数据2.6TB</strong></p>
+<p>国际调查记者同盟从爆料者手中获得文件的总存储尺寸达到了 2.6TB 之多。这个数字比该组织在 2013 年、2014 年和 2015 年分别处理过的离岸泄密（260GB）、卢森堡泄密（4GB）和瑞士泄密（3.3GB）总数据量相加起来还要多得多。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=600%2C234" alt="1-4Gt1RNcRBXrzQrYXfXM-_A" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=768%2C300 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=1024%2C399 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>1,150万</strong></p>
+<p>这个数字是国际调查记者同盟从爆料者手中获得的文件总数，当中包括电子邮件、文档、照片、复印文件的扫描件等等，甚至还有来自 Mossack Fonseca 律师事务所自己内部数据库的摘要 (excerpt) 文件。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?resize=600%2C242" alt="1-vJJmhfGaGGZjzCTOwJ_wXQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?resize=300%2C121 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?resize=768%2C309 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>214,000</strong></p>
+<p>这是 Panama Papers 泄密事件中，被发现由 Mossack Fonseca 创立的壳公司总数。这些公司通常位于英属维京群岛、巴拿马、美国内华达州、香港等等。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QxolcWPHmie5a-xoumsHRg.png?resize=530%2C394" alt="1-QxolcWPHmie5a-xoumsHRg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QxolcWPHmie5a-xoumsHRg.png?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QxolcWPHmie5a-xoumsHRg.png?w=530 530w" sizes="(max-width: 530px) 100vw, 530px" data-recalc-dims="1"></p>
+<p><strong>14,000</strong></p>
+<p>超过 1.4 万个客户曾经正在寻求 Mossack Fonseca 的帮助，从而更好地在巴拿马或其他离岸国家和地区管理他们的隐形资产。这些客户来自全世界 200 多个国家和地区，其中有……</p>
+<p><strong>143</strong></p>
+<p>143 位客户是来自全世界各个国家和地区的政治家。这些政客通过他们自己、朋友或家人来设立关联公司，然后再与 Mossack Fonseca 设立的离岸公司进行交易，从而最终隐藏自己的资产。</p>
+<p><strong>12</strong></p>
+<p>12 位各个国家和地区的现任领导人被发现是 Mossack Fonseca 的客户，其中包括俄罗斯总统普京、埃及前总统穆巴拉克、巴基斯坦首相沙里夫、乌克兰总统波罗申科等等。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=800%2C310" alt="1-pk3RVn7vLHvST1hVLr1FRA" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=768%2C297 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=1024%2C397 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?w=1092 1092w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1"><p>图片来自 ICIJ</p></div>
+<p>比如，国际调查记者同盟发现 Mossack Fonseca 协助隐藏的资产中至少有超过 20 亿美元属于普京。他通过自己的盟友 Sergei Roldugin 使用俄罗斯国有银行的账号转账到离岸公司中。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?resize=500%2C625" alt="1-Si-O6edP8_5Tu3GOt7MrDQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?resize=240%2C300 240w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>当然，Mossack Fonseca 的客户名单中还有数不清的前领导人或其他高级政客。比如中国前总理李鹏的女儿李小琳就在 Panama Papers 事件中被人发现了护照的复印件。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=800%2C387" alt="1-5qFLB-Omo76XZvR7plj3lg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=300%2C145 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=768%2C372 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=1024%2C495 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?w=1077 1077w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1"></p>
+<p>泄露的客户名单中还能找到英国上下两院的议员和政治献金的金主，以及国际足联道德委员会的一名重要成员。</p>
+<p><strong>离岸注册，服务到家</strong></p>
+<p>无论客户是最强大国家的首脑，还是最惨无人道的匪徒，Mossack Fonseca 都不会歧视。它一站式提供各种服务，而且明码标价。</p>
+<p>首先，注册一家匿名的离岸公司仅需 1,000 美元 — — 这在离岸注册的行当里已经属于高价了，市面上能找到的最便宜的服务只需要不到 250 美元。但 Mossack Fonseca 还能助客户成就更多。比如，再多交点钱，这家律所还能帮你找到一个假的董事长或法定代表人；再多交点钱，它还能帮你隐藏公司真实的股东信息。</p>
+<h4>调查思路</h4>
+<h4><strong>创造工具，解放记者</strong></h4>
+<p>泄露出来的数据结构之简单非常令人欣慰：Mossack Fonseca 为每一个壳公司都创建了一个文件夹，其中包含了对应该壳公司的所有数据，包括往来邮件、合同、会议纪要、纸质文件扫描件等等。这意味着，如果你知道你紧盯的对象所用的壳公司，你就找到了这家公司的所有秘密。</p>
+<p>然而，尽管结构非常简单，调查起来仍然太难。事实上，有些壳公司的文件夹中包含数千份文件，而非文本文件使得检索的复杂度被极大提高。</p>
+<p>国际调查记者同盟理事长杰拉德·莱尔透露，为了能够更好地利用手中的线索，该组织的数据团队使用 Nuix 搭建数据库，将这一千多万份各种类型的文件存档，对非文本的文件使用 OCR 扫描，识别其中的文字，以确保所有文件都能够使用关键词和其他更复杂的方式被检索。</p>
+<p>国际调查记者同盟专为 Panama Papers 项目成立专门的调查团队，该组织在美国首都华盛顿特区召开过一次会议，确定了团队规模、成员，负责人和调查思路等等根据《卫报》发布的情况，总共有来自 100 家媒体机构的 370 名调查记者参与到了本次 Panama Papers 事件的调查当中。这些记者先预设一个议题，比如“政治献金”、“体育禁药”、“联合国制裁”等等，在每一个议题下面添加人名，形成一个花名册，然后再拿着这个花名册去建立好的数据库进行交叉搜索，从而找到相关文件 — — 数据库极大地方便了记者的调查过程，使得他们可以用一年的时间将 Mossack Fonseca 盘根错节的离岸避税网络挖得一干二净。</p>
+<p><em>上述这些情况证明，国际调查记者同盟并不仅仅是一群热血的调查记者。他们对科技工具的运用，对团队管理的重视，使得 Panama Papers 项目的调查和报道在一年时间内得以顺利进行，没有因为其涉及多个国家高级领导人，保密级别高、保密难度大的事实而遭到泄密。</em></p>
+<p><strong>四个根本问题</strong></p>
+<p>《南德意志报》解释了调查的基本思路。每当在交叉搜索中确认了一个关键人名，记者们会提出四个思路：</p>
+<p>1）这个人在离岸架构中是何角色？</p>
+<p>2）钱从哪儿来？</p>
+<p>3）钱往哪去？</p>
+<p>4）这个架构合法吗？</p>
+<p>在巴拿马或者世界上任何一个离岸避税圣地设立一家公司并不违法，但记者们还是能够从 Mossack Fonseca 的数据中找到线索。就像洋葱网络在全世界多个服务器节点之间跳跃从而掩盖使用者的真实 IP 一样，Mossack Fonseca 为了一个客户可以在全世界不同位置设立不同的代理公司，抽丝剥茧总是能找到最终的来源。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-DJ09caPzlF9H9rBapwof8g.png?resize=600%2C373" alt="1-DJ09caPzlF9H9rBapwof8g" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-DJ09caPzlF9H9rBapwof8g.png?resize=300%2C186 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-DJ09caPzlF9H9rBapwof8g.png?w=768 768w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>李小琳在 Mossack Fonseca 设置离岸公司的架构。LIU ZHIYUAN 是李小琳的丈夫。图片来自 ICIJ</p></div>
+<p>而这些来源简直都是世界上最知名的人物，有表面上光明磊落的社会主义国家领导人，也有曾被通缉十年之久的毒枭和黑手党头目。从这些客户的文件中很容易找到跟政府腐败、贿赂等有关的文件。当这样的文件被找到，一篇报道的立项就在所难免了。</p>
+<p>代理公司的存在也给调查工作带来了障碍。参与到该项目中的记者一共能讲 25 种语言，他们会定期在项目团队内提交跨境协助调查/求证的需求，而对应语种的记者则可以领取自己的任务，帮助同僚去完成调查。</p>
+<h4>遗憾？</h4>
+<p>在这一批的 Panama Papers 报道中没有找到任何来自美国的知名客户。</p>
+<p>edit: 《南德意志报》记者透露，关于美国客户的报道，请拭目以待。</p>
+<h4>花边吐槽</h4>
+<p>Andreessen Horowitz 分析师 Benedict Evans 的吐槽非常到位：</p>
+<blockquote>
+<p dir="ltr" lang="en">Stealing documents in the movies: Tom Cruise, laser beams, hacker-in-a-van.<br>
+In reality: temp walks out with 40 years of data on a $20 USB.</p>
+<p>— Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/status/716695460266643456">April 3, 2016</a></p></blockquote>
+<h4>团队成员</h4>
+<p>Project Managers: Marina Walker Guevara & Gerard Ryle</p>
+<p>Data Editor: Mar Cabra</p>
+<p>Research Editor: Emilia Diaz-Struck</p>
+<p>Editors: Michael Hudson, Martha M. Hamilton, Gerard Ryle, Marina Walker Guevara & Tom Stites</p>
+<p>Online Editor: Hamish Boland-Rudder</p>
+<p>Data and Research Unit: Rigoberto Carvajal, Matthew Caruana Galizia, Cécile Schilis-Gallego & Miguel Fiandor Gutiérrez</p>
+<p>ICIJ reporters: Will Fitzgibbon, Jake Bernstein, Ryan Chittum, Martha M. Hamilton, Michael Hudson, Marcos Garcia Rey, Alexa Olesen & Delphine Reuter</p>
+<p>Süddeutsche Zeitung reporters: Bastian Obermayer & Frederik Obermaier</p>
+<p>Researcher: Mago Torres</p>
+<p>Fact checkers: Richard H.P. Sia & Peter Smith</p>
+<p>Web design and development: Álvaro Ortiz, Fernando Blat & Jorge Sancha from Populate</p>
+<p>The Power Players interactive: Kiln</p>
+<p>Reporters:</p>
+<p>• Iyas Hallas (Algeria)</p>
+<p>• Mariel Fitz Patrick (Argentina)</p>
+<p>• Hugo Alconada (Argentina)</p>
+<p>• Ricardo Brom (Argentina)</p>
+<p>• Momi Peralta (Argentina)</p>
+<p>• Maia Jastreblansky (Argentina)</p>
+<p>• Iván Ruiz (Argentina)</p>
+<p>• Sol Lauria (Argentina, Panama)</p>
+<p>• Kristine Alghalaryan (Armenia)</p>
+<p>• Dave Bloss (Georgia)</p>
+<p>• Sally Neighbour (Australia)</p>
+<p>• Marian Wilkinson (Australia)</p>
+<p>• Elise Worthington (Australia)</p>
+<p>• Mario Christodoulou (Australia)</p>
+<p>• Morag Ramsay (Australia)</p>
+<p>• Lisa Main (Australia)</p>
+<p>• Sophia O’Rourke (Australia)</p>
+<p>• Ali Russell (Australia)</p>
+<p>• Stephen Oxley (Australia)</p>
+<p>• Ruth Fogarty (Australia)</p>
+<p>• Neil Chenoweth (Australia)</p>
+<p>• Edmund Taros (Australia)</p>
+<p>• Misa Han (Australia)</p>
+<p>• Primrose Riordan (Australia)</p>
+<p>• Jonathan Barrett (Australia)</p>
+<p>• Florian Klenk (Austria)</p>
+<p>• Josef Redl (Austria)</p>
+<p>• Ulla Kramar-Schmid (Austria)</p>
+<p>• Jakob Weichenberger (Austria)</p>
+<p>• Kaspar Fink (Austria)</p>
+<p>• Stefan Daubrawa (Austria)</p>
+<p>• Günther Hack (Austria)</p>
+<p>• Lars Bové (Belgium)</p>
+<p>• Kristof Clerix (Belgium)</p>
+<p>• Alain Lallemand (Belgium)</p>
+<p>• Xavier Counasse (Belgium)</p>
+<p>• Joel Matriche (Belgium)</p>
+<p>• Drew Sullivan (Bosnia )</p>
+<p>• Miranda Patrucic (Bosnia )</p>
+<p>• Alvin Ntibinyane (Botswana)</p>
+<p>• Mbo Mguni (Botswana)</p>
+<p>• Joel Konopo (Botswana)</p>
+<p>• Jose Roberto de Toledo (Brazil)</p>
+<p>• Daniel Bramatti (Brazil)</p>
+<p>• Rodrigo Burgarelli (Brazil)</p>
+<p>• Guilherme Jardim Duarte (Brazil)</p>
+<p>• Isabela Bonfim (Brazil)</p>
+<p>• Franz Vacek (Brazil)</p>
+<p>• Mauro Tagliaferri (Brazil)</p>
+<p>• Diego Vega (Brazil)</p>
+<p>• Fernando Rodrigues (Brazil)</p>
+<p>• André Shalders (Brazil)</p>
+<p>• Douglas Pereira (Brazil)</p>
+<p>• Mateus Netzel (Brazil)</p>
+<p>• Alexenia Dimitrova (Bulgaria)</p>
+<p>• Gino Harel (Canada)</p>
+<p>• Frédéric Zalac (Canada)</p>
+<p>• Ronna Syed (Canada)</p>
+<p>• Robert Cribb (Canada)</p>
+<p>• Tanya Talaga (Canada)</p>
+<p>• Marco Oved (Canada)</p>
+<p>• Francisca Skoknic (Chile)</p>
+<p>• Alberto Arellano (Chile)</p>
+<p>• Karen Chang (Hong Kong)</p>
+<p>• Ginna Morelo (Colombia)</p>
+<p>• Miriam Forero (Colombia)</p>
+<p>• Óscar Agudelo (Colombia)</p>
+<p>• Juan Pablo Tovar (Colombia)</p>
+<p>• Claudia Báez (Colombia)</p>
+<p>• Rafael Quintero (Colombia)</p>
+<p>• Oriana Garcés (Colombia)</p>
+<p>• Carlos Eduardo Huertas (Colombia, Panama)</p>
+<p>• Nathan Jaccard (Colombia, Panama)</p>
+<p>• Giannina Segnini (Costa Rica)</p>
+<p>• Alejandra Fernández-Morera (Costa Rica)</p>
+<p>• Antonio Jiménez (Costa Rica)</p>
+<p>• Henry Arroyo (Costa Rica)</p>
+<p>• Mauricio Arroyo (Costa Rica)</p>
+<p>• Ernesto Rivera (Costa Rica)</p>
+<p>• Javier Córdoba (Costa Rica)</p>
+<p>• María Florez Estrada (Costa Rica)</p>
+<p>• Diego Arguedas Ortiz (Costa Rica)</p>
+<p>• Álvaro Murillo (Costa Rica)</p>
+<p>• Pavla Holcova (Czech Republic)</p>
+<p>• Søren Kristensen (Denmark)</p>
+<p>• Michael Klint (Denmark)</p>
+<p>• Maria Lyhne Høj (Denmark)</p>
+<p>• Maria Andersen (Denmark)</p>
+<p>• Peter Jørgensen (Denmark)</p>
+<p>• John Hansen (Denmark )</p>
+<p>• Arturo Torres (Ecuador)</p>
+<p>• Mónica Almeida (Ecuador)</p>
+<p>• Xavier Reyes (Ecuador)</p>
+<p>• Paúl Mena (Ecuador)</p>
+<p>• Andrés Jaramillo (Ecuador)</p>
+<p>• Alberto Araujo (Ecuador)</p>
+<p>• Hisham Allam (Egypt)</p>
+<p>• José Luis Sanz (El Salvador)</p>
+<p>• César Castro Fagoaga (El Salvador)</p>
+<p>• Jimmy Alvarado (El Salvador)</p>
+<p>• Minna Knus-Galan (Finland)</p>
+<p>• Kjell Lindroos (Finland)</p>
+<p>• Serge Michel (France)</p>
+<p>• Christophe Ayad (France)</p>
+<p>• François Bougon (France)</p>
+<p>• Samuel Laurent (France)</p>
+<p>• Maxime Vaudano (France)</p>
+<p>• Jeremie Baruch (France)</p>
+<p>• Anne Michel (France)</p>
+<p>• Simon Piel (France)</p>
+<p>• Joan Tilouine (France)</p>
+<p>• Jean-Baptiste Chastand (France)</p>
+<p>• Benoit Vitkine (France)</p>
+<p>• Nathaniel Herzberg (France)</p>
+<p>• Yann Bouchez (France)</p>
+<p>• Mathilde Damge (France)</p>
+<p>• Edouard Perrin (France)</p>
+<p>• Benoît Bringer (France)</p>
+<p>• Emmanuel Gagnier (France)</p>
+<p>• Yousset Ait Akdim (France)</p>
+<p>• Jan Strozyk (Germany)</p>
+<p>• Julia Stein (Germany)</p>
+<p>• Benedikt Strunz (Germany)</p>
+<p>• Nils Casjens (Germany)</p>
+<p>• Peter Hornung (Germany)</p>
+<p>• Elena Kuch (Germany)</p>
+<p>• Willem Konrad (Germany)</p>
+<p>• Christoph Lütgert (Germany)</p>
+<p>• Kersten Mügge (Germany)</p>
+<p>• Christian Deker (Germany)</p>
+<p>• Vanessa Wormer (Germany)</p>
+<p>• Christoph Giesen (Germany)</p>
+<p>• Katrin Langhans (Germany)</p>
+<p>• Mauritius Much (Germany)</p>
+<p>• Gianna Niewel (Germany)</p>
+<p>• Hannes Munzinger (Germany)</p>
+<p>• John Goetz (Germany)</p>
+<p>• Petra Blum (Germany)</p>
+<p>• Harry Karanikas (Greece)</p>
+<p>• Andras Petho (Hungary )</p>
+<p>• Jóhannes Kr. Kristjánsson (Iceland)</p>
+<p>• Adalsteinn Kjartansson (Iceland)</p>
+<p>• Ritu Sarin (India)</p>
+<p>• Jay Mazoomdaar (India)</p>
+<p>• Vaidyanathan Iyer (India)</p>
+<p>• Wahyu Dhyatmika (Indonesia)</p>
+<p>• Philipus Parera (Indonesia)</p>
+<p>• Agoeng Wijaya (Indonesia)</p>
+<p>• Mustafa Silalahi (Indonesia)</p>
+<p>• Colm Keena (Ireland )</p>
+<p>• John McManus (Ireland )</p>
+<p>• Uri Blau (Israel)</p>
+<p>• Shuki Sadeh (Israel)</p>
+<p>• Daniel Dolev (Israel)</p>
+<p>• Leo Sisti (Italy)</p>
+<p>• Vittorio Malagutti (Italy)</p>
+<p>• Paolo Biondani (Italy)</p>
+<p>• Gloria Riva (Italy)</p>
+<p>• Stefano Vergine (Italy)</p>
+<p>• Yasuomi Sawa (Japan)</p>
+<p>• Toshihiro Okuyama (Japan)</p>
+<p>• Scilla Alecci (Japan)</p>
+<p>• Alessia Cerantola (Japan)</p>
+<p>• Musab Shawabkeh (Jordan)</p>
+<p>• Jacqueline Kubania (Kenya)</p>
+<p>• John Kamau (Kenya)</p>
+<p>• Sanita Jemberga (Latvia)</p>
+<p>• Inga Springe (Latvia)</p>
+<p>• Evita Purina (Latvia)</p>
+<p>• Šarūnas Černiauskas (Lithuania)</p>
+<p>• Nigel Aw (Malaysia)</p>
+<p>• Aidila Razak (Malaysia)</p>
+<p>• David Dembele (Mali)</p>
+<p>• Daniel Lizárraga (Mexico)</p>
+<p>• Irving Huerta (Mexico)</p>
+<p>• Rafael Cabrera (Mexico)</p>
+<p>• Sebastián Barragán (Mexico)</p>
+<p>• Mago Torres (Mexico)</p>
+<p>• Jorge Carrasco (Mexico)</p>
+<p>• Mathieu Tourliere (Mexico)</p>
+<p>• Iurie Sanduta (Moldova)</p>
+<p>• Shinovene Immanuel (Namibia)</p>
+<p>• Tangeni Amupadhi (Namibia)</p>
+<p>• Tileni Mongudhi (Namibia)</p>
+<p>• Ndanki Kahiurika (Namibia)</p>
+<p>• Gaby de Groot (Netherlands)</p>
+<p>• Siem Eikelenboom (Netherlands)</p>
+<p>• Jan Kleinnijenhuis (Netherlands)</p>
+<p>• Martijn Roessingh (Netherlands)</p>
+<p>• Karlijn Kuijpers (Netherlands)</p>
+<p>• Musikilu Mojeed (Nigeria)</p>
+<p>• Ini Ekot (Nigeria)</p>
+<p>• Joshua Olufemi (Nigeria)</p>
+<p>• Emmanuel Mayah (Nigeria)</p>
+<p>• Per Anders Johansen (Norway)</p>
+<p>• Nina Selbo Torset (Norway)</p>
+<p>• Sigurd Bjørnestad (Norway)</p>
+<p>• Trond J. Strøm (Norway)</p>
+<p>• Per Kristian Aale (Norway)</p>
+<p>• Lars Inge Staveland (Norway)</p>
+<p>• Fredrik Hager-Thoresen (Norway)</p>
+<p>• Halvor Solhjem Njerve (Norway)</p>
+<p>• Umar Cheema (Pakistan)</p>
+<p>• Rolando Rodríguez (Panama)</p>
+<p>• Rita Vásquez (Panama)</p>
+<p>• Lourdes de Obaldía (Panama)</p>
+<p>• John Scott Bronstein (Panama)</p>
+<p>• Luis Buron (Panama)</p>
+<p>• Mabel Rehnfeldt (Paraguay)</p>
+<p>• Juan Carlos Lezcano Flecha (Paraguay)</p>
+<p>• Arturo Zarratea Herreros (Paraguay)</p>
+<p>• Juan Calcena Ramirez (Paraguay)</p>
+<p>• Julio Benitez Díaz (Paraguay)</p>
+<p>• Juan Carlos Dos Santos (Paraguay)</p>
+<p>• Milagros Salazar (Peru)</p>
+<p>• Aramís Castro (Peru)</p>
+<p>• Gabriela Flores (Peru)</p>
+<p>• Gabriel Arriarán (Peru)</p>
+<p>• Gustavo Gorriti (Peru)</p>
+<p>• Luisa García (Peru)</p>
+<p>• Romina Mella (Peru)</p>
+<p>• Fabiola Torres (Peru)</p>
+<p>• Óscar Castilla (Peru)</p>
+<p>• Luis Yáñez Quiroz (Peru)</p>
+<p>• Vadim Makarenko (Poland)</p>
+<p>• Leszek Baj (Poland)</p>
+<p>• Bartosz Chyz (Poland)</p>
+<p>• Micael Pereira (Portugal)</p>
+<p>• Rui Araujo (Portugal)</p>
+<p>• Omaya Sosa Pascual (Puerto Rico)</p>
+<p>• Carla Minet (Puerto Rico)</p>
+<p>• Paul Radu (Romania)</p>
+<p>• Mihai Munteanu (Romania)</p>
+<p>• Daniel Bojin (Romania)</p>
+<p>• Roman Anin (Russia)</p>
+<p>• Olesya Shmagun (Russia)</p>
+<p>• Mika Velikovsky (Russia)</p>
+<p>• Roman Shleynov (Russia)</p>
+<p>• Momar Niang (Senegal)</p>
+<p>• Tidiane Hamadou Sy (Senegal)</p>
+<p>• Stevan Dojcinovic (Serbia)</p>
+<p>• Jelena Vasic (Serbia)</p>
+<p>• Anuska Delic (Slovenia)</p>
+<p>• Khadija Sharife (South Africa)</p>
+<p>• Amanda Potgieter (South Africa)</p>
+<p>• Barry Sergeant (South Africa)</p>
+<p>• Sam Sole (South Africa)</p>
+<p>• Stefaans Brummer (South Africa)</p>
+<p>• Craig McKune (South Africa)</p>
+<p>• Lionel Faull (South Africa)</p>
+<p>• Fergus Gibbons (South Africa)</p>
+<p>• Yongjin Kim (South Korea)</p>
+<p>• Yoojung Lee (South Korea)</p>
+<p>• Yoonwon Choi (South Korea)</p>
+<p>• Daniele Grasso (Spain)</p>
+<p>• Jesús Escudero (Spain)</p>
+<p>• Rafael Méndez (Spain)</p>
+<p>• Álvaro Rivas (Spain)</p>
+<p>• Joaquín Castellón (Spain)</p>
+<p>• Nacho Calle (Spain)</p>
+<p>• Verónica Ramírez (Spain)</p>
+<p>• Nacho Bernaldo de Quirós (Spain)</p>
+<p>• Fredrik Laurin (Sweden)</p>
+<p>• Joachim Dyfvermark (Sweden)</p>
+<p>• Sven Bergman (Sweden)</p>
+<p>• Titus Plattner (Switzerland)</p>
+<p>• Catherine Boss (Switzerland)</p>
+<p>• Christian Brönnimann (Switzerland)</p>
+<p>• Oliver Zihlmann (Switzerland)</p>
+<p>• Alexandre Haederli (Switzerland)</p>
+<p>• Noele Illien (Switzerland)</p>
+<p>• Linda von Burg (Switzerland)</p>
+<p>• Lena Würgler (Switzerland)</p>
+<p>• Hamoud Almahmoud (Syria)</p>
+<p>• Yi-Shan Chen (Taiwan)</p>
+<p>• Wei Lin Chen (Taiwan)</p>
+<p>• Beta Du (Taiwan)</p>
+<p>• Prangtip Daorueng (Thailand)</p>
+<p>• Camini Marajh (Trinidad and Tobago)</p>
+<p>• Malek Khadhraoui (Tunisia)</p>
+<p>• Sana Sbouai (Tunisia)</p>
+<p>• Basma Shtawi (Tunisia)</p>
+<p>• Tabu Butagira (Uganda)</p>
+<p>• James Oliver (UK)</p>
+<p>• Andy Head (UK)</p>
+<p>• David Thompson (UK)</p>
+<p>• James Melley (UK)</p>
+<p>• Simon Cox (UK)</p>
+<p>• Conor Spackman (UK)</p>
+<p>• Marc Perkins (UK)</p>
+<p>• Eli Melki (UK)</p>
+<p>• Jonathan Coffey (UK)</p>
+<p>• Simon Bowers (UK)</p>
+<p>• Juliette Garside (UK)</p>
+<p>• Helena Bengtsson (UK)</p>
+<p>• David Pegg (UK)</p>
+<p>• Holly Watt (UK)</p>
+<p>• Luke Harding (UK)</p>
+<p>• Paul Farrell (UK)</p>
+<p>• Owen Gibson (UK)</p>
+<p>• Rupert Neate (UK)</p>
+<p>• Nick Evershed (UK)</p>
+<p>• Dan Susman (UK)</p>
+<p>• Nick Hopkins (UK)</p>
+<p>• David Leigh (UK)</p>
+<p>• Vlad Lavrov (Ukraine)</p>
+<p>• Anna Babinec (Ukraine)</p>
+<p>• Victoria Fernández (Uruguay)</p>
+<p>• Guillermo Draper (Uruguay)</p>
+<p>• Bernat Ivancsics (USA)</p>
+<p>• Marie-Emma Paoli (USA)</p>
+<p>• Masako Melissa Hirsch (USA)</p>
+<p>• Aram Chung (USA)</p>
+<p>• Alice Brennan (USA)</p>
+<p>• Laura Juncadella (USA)</p>
+<p>• Adam Weinstein (USA)</p>
+<p>• Miriti Murungi (USA)</p>
+<p>• Alcione Gonzalez (USA)</p>
+<p>• Catherine Dunn (USA)</p>
+<p>• Brian Clifton (USA)</p>
+<p>• Rafael Fernandez (USA)</p>
+<p>• Gary Rivlin (USA)</p>
+<p>• Kevin Hall (USA)</p>
+<p>• Jim Asher (USA)</p>
+<p>• Marisa Taylor (USA)</p>
+<p>• Greg Gordon (USA)</p>
+<p>• Tim Johnson (USA)</p>
+<p>• Clarice Silber (USA)</p>
+<p>• Rick Rothacker (USA)</p>
+<p>• Jim Wyss (USA)</p>
+<p>• Jacqueline Charles (USA)</p>
+<p>• Nicholas Nehamas (USA)</p>
+<p>• Casey Frank (USA)</p>
+<p>• Margarita Rabin (USA)</p>
+<p>• Juan Cooper (USA)</p>
+<p>• Gerardo Reyes (USA)</p>
+<p>• Ronny Rojas (USA)</p>
+<p>• Peniley Ramirez (USA)</p>
+<p>• Tomás Ocaña (USA)</p>
+<p>• Tamoa Calzadilla (USA)</p>
+<p>• Joseph Poliszuk (Venezuela)</p>
+<p>• Ewald Scharfenberg (Venezuela)</p>
+<p>• Alfredo Meza (Venezuela)</p>
+<p>• Katherine Pennacchio (Venezuela)</p>
+<p>• Laura Weffer (Venezuela)</p>
+<p>• Fabiola Zerpa (Venezuela)</p>
+<p>• César Bátiz (Venezuela)</p>
+<p>• Lisseth Boon (Venezuela)</p>
+<p>• Ronna Rísquez (Venezuela)</p>
+<p>• Roberto Deniz (Venezuela)</p>
+<p>• Ray Choto (Zimbabwe)</p>
+<p>• Thomas Chiripasi (Zimbabwe)</p>
+<p>• Montather Naser (Iraq)</p>
+<p>• Mohammad AlKawmani (Yemen)</p>
+<p>没有一位来自中国大陆的记者。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">律师事务所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E5%AD%98%E6%AC%BE/?category=18271" rel="tag">秘密存款</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%AC%E5%85%831874-%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%EF%BC%9A%E4%B8%80%E9%83%A8%E8%AE%B2%E8%BF%B0%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%A7%91%E5%B9%BB%E7%89%87/" target="cdt-mirror">公元1874 | 《十年》：一部讲述和谐社会的科幻片</a>
+</h2>
+<p><p>《十年》是一部香港独立导演制作的短片集，由五个故事组成。</p>
+<p>它在2016年4月3日的香港电影金像奖上，拿到了最佳电影。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kl5ymc23j20ge0nmq4g.jpg?resize=550%2C792" alt="6764cadegw1f2kl5ymc23j20ge0nmq4g" data-recalc-dims="1"></p>
+<p>五个故事都有一个主题——未来的香港是什么样子。</p>
+<p>这个主题换大陆拍，很容易，畅想未来嘛，和谐的阳光打在脸上，每个人都洋溢着幸福的微笑。</p>
+<p>但这部电影，显然不会这么干。</p>
+<p>说到《十年》的背景，不得不提到香港。</p>
+<p>近年来，香港发生多起社会事件，令香港人忧虑未来。</p>
+<p>邓小平当年提出“一国两制”，令香港人安心；但回归后，内地对香港政策锁紧，2003年想在基本法上增加一条“大陆警察在香港有执法权”，并以国家安全为障眼法，引得香港数十万人大游行；</p>
+<p>2008年汶川地震，香港政府、市民合计捐款220亿（是的，你没看错，这个只有700万人的城市，捐了220亿）。那一年香港人对国家的认同度，达到回归以来的顶点。结果，事后善款被当地官员贪污滥用，甚至买上万一瓶的红酒，引得香港强烈震撼，民间激起极大的反响。</p>
+<p>2011年，香港推行国民教育、普教中，倡导学校实行普通话教育，并让老师教导学生，听国歌看升旗的时候应该流泪感动……</p>
+<p>2015年，回归前中国政府承诺香港的普选行政长官，一人一票选举，变成只有1200个指定的“代表”的小圈子选举……</p>
+<p>种种行为，令香港人不得不担心，一国两制，成为一纸空文。</p>
+<p>再加上近年来爆发的陆港矛盾，走私水货、奶粉等等，让中港关系进一步撕裂。</p>
+<p>《十年》，就在这样的背景下诞生了。</p>
+<p>五个短片都讲述了什么呢？</p>
+<p>第一个，《浮瓜》。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?resize=600%2C392" alt="6764cadegw1f2kll2o9zwj20p90gh41w" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?resize=230%2C150 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>2020年，香港准备实行《国家安全法》，也就是上面提到的“基本法第23条”。2003年因为港人游行，强烈抵触，此法案搁浅。2020年，中共下达强硬指令，必须要在香港通过。因此，亲近中共的香港政党，决定在选举的时候，自导自演一场枪击案，来证明香港有了恐怖袭击，实行《国家安全法》刻不容缓。</p>
+<p>故事的主角，就是两个黑社会的小混混，他们的老大受政党高层委派，找了他们来做事。这两个小混混一直在盘算，做了这件事能拿多少钱，能让老大如何关注到自己，如何飞黄腾达。老大也对他们保证，刺杀只是做做样子，不用真的流血。做完这件事，他们前途光明。</p>
+<p>结果呢？两人在选举现场做做样子的时候，被政党早就安排好的特警当场击毙。他们的出现也成为了国安法通过的重要原因，至于这连个恐怖分子，死不足惜。</p>
+<p>既悲凉，又讽刺。</p>
+<p>这个故事是短片里我觉得商业性最强的，很多好莱坞的动作片都有诸如此类的政治阴谋论调。至于里面所讲的情节，中央政府安排人去搞刺杀，是不是危言耸听呢？</p>
+<p>说实话，重庆的事情出来之前，我一直都觉得这些政治斗争都是地摊文学上的事，什么进门看见他亲了我的夫人啊，什么半夜潜逃美国大使馆啊，什么人体解剖犯人啊……</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kllatm55j20zk0ltn07.jpg?resize=600%2C368" alt="6764cadegw1f2kllatm55j20zk0ltn07" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kllatm55j20zk0ltn07.jpg?resize=300%2C184 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kllatm55j20zk0ltn07.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>结果，政治比我想的还要肮脏、不堪得多。</p>
+<p>《浮瓜》，不过就是基于现实，合理的一种假设。</p>
+<p>同样基于现实的假设，还有《方言》。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klmhybahj20u00k0wh0.jpg?resize=600%2C400" alt="6764cadegw1f2klmhybahj20u00k0wh0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klmhybahj20u00k0wh0.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klmhybahj20u00k0wh0.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>《方言》讲述2022年，香港全面实行普通话。主角是一名计程车司机，他的儿子因为学不好普通话，上不了好的中学，因而全家都在帮助他学习普通话。而这个中年司机，也在努力学习，但毕竟年纪大了，学起来很吃力。</p>
+<p>结果，在一次接乘客的过程里，他被其他司机指控擅自用广东话接客，被前来执法的公安干警（没错，2022年已经是公安干警在香港执法了，剧情衔接《浮瓜》）抓获。</p>
+<p>这一段短片里有很多搞笑段落，我在电影院看的时候，当主角努力用“煲冬瓜”的方式说出半生不熟普通话的时候，总会引来全场笑声。</p>
+<p>但笑过之后，又有点悲凉。</p>
+<p>内地90年代末，广州的中小学已经逐渐开始禁止学生在学校说粤语。墙上也会帖标语“说普通话 文明用语”——看吧，说粤语，竟然是一种不文明的行为。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klnnw1t3j20ef09mq3j.jpg?resize=600%2C400" alt="6764cadegw1f2klnnw1t3j20ef09mq3j" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klnnw1t3j20ef09mq3j.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klnnw1t3j20ef09mq3j.jpg?w=519 519w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>普通话已经和中国梦挂钩了</p></div>
+<p>近年来，广东的政协委员甚至提及，在电视节目里应该全部使用普通话。结果，这个荒唐的决定引来广东市民的强烈抵触。2010年，广州市民发起“撑粤语行动”，捍卫广东话，最后令此事搁浅。</p>
+<p>那就这么不了了之了吗？并没有。今年广州的跨年晚会，里面表演了传统粤剧《船说》。女主持人在表演完了之后说，本剧令人感受到“粤剧之美”。</p>
+<p>保护城市文化，展现文化之美，确实不错。</p>
+<p>但是——请注意。</p>
+<p>这个传统粤剧，竟然，是用普·通·话·演·出。</p>
+<p>且不论换了一种语言去演绎，平仄韵律不对，文化意境缺失；单就“粤剧”拿“普通话”去演，本身就意境是一种莫大的讽刺。</p>
+<p>所以，香港人的担忧，不无道理。</p>
+<p>《冬蝉》，讲述2017年香港深水埗旧城区拆迁，一对男女成为钉子户，在废墟里顽固生活，抗拒地产商。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kljjptcvj20u00k0q59.jpg?resize=600%2C400" alt="6764cadegw1f2kljjptcvj20u00k0q59" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kljjptcvj20u00k0q59.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kljjptcvj20u00k0q59.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>但他们终究抵抗不住大财团，最后决定，把身边的一切，连同自己，制造成标本。</p>
+<p>强拆，这件事好像在大陆，大家都见怪不怪了。香港有没有呢？</p>
+<p>拍完《十年》后不久，前几天，香港就发生了这么一个新闻：3月14日，香港古洞的村民，被不明身份的人开着推土机与铲泥车，强行推平了自己居住的房子。</p>
+<p>强拆，这个标志性的中国特色，终于也来到了香港。</p>
+<p>《本地蛋》</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klb8q22ij21500r9wmz.jpg?resize=600%2C399" alt="6764cadegw1f2klb8q22ij21500r9wmz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klb8q22ij21500r9wmz.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klb8q22ij21500r9wmz.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>这个看了心情很复杂。</p>
+<p>2025年，香港只剩下最后一个养鸡的农场。而这个农场因为高昂的租金，也开不下去，要移居到台湾。廖启智饰演的杂货店老板多年来都在卖本地蛋，如今失去货源，他也颇为无奈和伤感。</p>
+<p>另一面，更让他恐惧的是儿子。儿子上了小学，班上组织了少年军，少年军在老师的安排下，进行若干“保密行动”。这些行动，老师说不能告诉外人，包括自己的父母。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klblbzpjj20go0b4wfj.jpg?resize=600%2C400" alt="6764cadegw1f2klblbzpjj20go0b4wfj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klblbzpjj20go0b4wfj.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klblbzpjj20go0b4wfj.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>他有一次发现，原来儿子在老师的引导下，去检查书店有没有卖不良书籍。一旦发现，他们就记下来交给老师，同时组织学生去围攻书店。就连他自己都被儿子批评：你为什么写本地蛋，不写香港蛋？你这是宣传本地至上，是港独思想！</p>
+<p>这可不是什么危言耸听。前段时间陈奕迅在澳门麦当娜演唱会上上台，麦当娜问他是哪里人，陈奕迅说自己是香港人，结果一群人去微博骂他：你为什么不说自己是中国人！</p>
+<p>看看这些人，和电影里的故事何其类似。</p>
+<p>影片里，这些10来岁的小孩子，身穿着文革时期红卫兵的衣服，带着红袖章，令人不寒而栗。</p>
+<p>这一段让我联想到了文革时期，让儿子斗父母，学生斗老师的情景。</p>
+<p>文革过去这么多年了，谈文革依然是禁忌。我12月去参加东方卫视一个音乐节目的录制，其中有一个60多岁的歌手杨乐，唱了一首阐述自己家庭命运的歌，叫《从那以后》。</p>
+<p>里面有一段歌词，“小的时候，一家六口……文革以后，剩下五口；爸爸含冤，走在前头。”我在现场听得非常感动，因为杨乐真情满满。</p>
+<p>结果事后和工作人员讨论，对方说，这首歌可能不在电视上播出，因为提到文革了。</p>
+<p>我说连文革都不能提啊？！</p>
+<p>幸好最后还是正常播出了。可这种连工作人员自己都害怕，开始自我审查、自我阉割的思想，是非常让人恐惧的。</p>
+<p>如上所说——因为无法可依。是啊，没人说不可以提文革。但是，你真的去拍文革的电影，写文革的歌，能过得了吗？</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klcuynj9j21kw11x0vw.jpg?resize=600%2C400" alt="6764cadegw1f2klcuynj9j21kw11x0vw" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klcuynj9j21kw11x0vw.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klcuynj9j21kw11x0vw.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>这个国家，制造着一种无形的白色恐惧，弥漫在你我周围。</p>
+<p>《自焚者》</p>
+<p>这是五个故事里最像纪录片，也最悲凉的一个。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klfvdfxxj21990p0agc.jpg?resize=600%2C332" alt="6764cadegw1f2klfvdfxxj21990p0agc" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klfvdfxxj21990p0agc.jpg?resize=300%2C166 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klfvdfxxj21990p0agc.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>2025年，在英国驻香港领事馆门口，发生了一宗自焚事件。</p>
+<p>在这之前，因为《浮瓜》里提及的国安法实行，香港市民已经爆发了多次游行和抗争，一位和平抗争者欧阳，成为国安法实行之后，首位入狱的罪犯。他的入狱激起了民众的强烈抵触，而他本人在监狱绝食，最后死亡。</p>
+<p>这起自焚事件，主角担心是他的好朋友为了抗议政府和欧阳的死，而去选择自焚牺牲。但最后的真相，却出人意料。</p>
+<p>本片里出现了大量对真实学者、立法会议员、作家、学生的访谈，乃至港独份子。同时，也出现了防暴警察用催泪弹驱散人群的画面，令人不由自主的联想到2014年的雨伞运动。</p>
+<p>这毫无疑问是五个短片里争议最大的一部，如果说其他四个修修改改还勉强能过审，这一个则毫无可能，相信也是《十年》遭禁最直接的原因。</p>
+<p><strong>————总结————</strong></p>
+<p>这段时间，不停的有人在微博问我，你是不是支持港独？你是不是支持国家分裂？</p>
+<p>我本身是一个政治立场比较保守的人。</p>
+<p>我不认同港独，也反对流血革命，也希望身处一个和谐社会。</p>
+<p>但我认为，能让大家都能自由平等的交流思想是最重要的，即便你要屏蔽、封锁，也应该拿出相关的法律法规，有法可依才对，而不是制造白色恐怖，一昧的禁止和恐吓。</p>
+<p>《十年》是一部不和谐的电影。但我不觉得这部电影是港独。真正的港独根本不屑于去拍电影，他们直接冲上街头去对抗了，拍电影太麻烦。</p>
+<p>还能用电影这样的艺术方式，去警醒大家，去提醒我们的社会有了什么问题，那才是真正爱这个社会，真正希望社会和谐的人。</p>
+<p>和谐，不是一百个人说同一番话；和谐，是一百个人说不一样的话之余，而又互相尊重。</p>
+<p>希望我们能见到，若干年后，那个真正和谐的社会，真正和谐的中国。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%AC%E5%85%831874-%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%EF%BC%9A%E4%B8%80%E9%83%A8%E8%AE%B2%E8%BF%B0%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%A7%91%E5%B9%BB%E7%89%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%B9%B4/?category=18271" rel="tag">十年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8C%96/?category=18271" rel="tag">大陆化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%9C%A8%E8%BF%99%E4%B8%80%E6%B3%A2%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%AD-%E5%A5%B9%E9%80%8F%E6%94%AF%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%8A%E6%B5%B7%E4%BA%BA47/" target="cdt-mirror">端传媒 | 在这一波房价暴涨中 她透支了一个上海人47年的工资</a>
+</h2>
+<p><p><strong>编者按：这一轮央行降准“放水”后，“北漂”、“沪漂”们对于今生今世再也买不起房的恐慌，投资者们对于手中人民币贬值的恐慌，使得人民币又一次哗哗涌向了截至目前这个国度最坚挺的“硬通货”——一线城市的房地产上。房价疯狂上涨。在当今的北京、上海、深圳，无房一族大概在经历这样一场噩梦：买不起房——努力工作——更买不起房了。</strong></p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=600%2C400" alt="中国上海一个房地产展销会，一名销售员在住宅模型前向顾客推销楼盘。摄：Stringer/REUTERS" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>中国上海一个房地产展销会，一名销售员在住宅模型前向顾客推销楼盘。摄：Stringer/REUTERS</p></div>
+<p>被中介带进房子的时候，黎曦（化名）被眼前的画面震惊了：墙边大红大绿的装潢，地板由一小块一小块的木头边角料拼接而成，发污泛黄，墙角堆放着蒙尘的陈年白酒瓶，铁框窗户是镶着猪八戒耙子样的老式卡扣，锈得很难拧开。</p>
+<p>这是一套上海市1990年代的老公房。房东老大爷正在看一部很老的香港武打片，男主角留着李小龙一样的发型，配音的声音和粤语的口型完全配不上。一瞬间，黎曦以为自己穿越回到童年。</p>
+<p>房东要价250万。避开利率，按上海城镇居民2015年人均可支配收入52962元计算，这个价位对应的是一个工薪阶层不吃不喝，足足工作47.2年。</p>
+<p>黎曦考虑买下这套房子。虽然它靠近马路，又旧楼层又高，但这已经是他们一家人在有限的预算内，户型、采光、交通等综合分最高的房源。</p>
+<p>想想，这房子装修虽然旧了，好歹还算整洁，有点“人烟”。之前，黎曦还见过不少一些生于“70后”和“80后”准备出手卖掉的房子——大多是过世的老人房或者夫妻的离婚房。在上海徐汇区田林片区的的一个老房子里，水泥地面，阴森森的，没有客厅。一进屋就是房间，床上被子乱成一团，远处的桌上还放着灵台。中介说这个房子的老人刚刚去世，子女就来卖房了。</p>
+<p>这天是2016年3月1日，从那套价值250万的房子走出来，黎曦照常去上班，没有在意媒体上中国人民银行宣布降准（即降低存款准备金率，是央行货币政策之一，以此释放银行业的流动性，让市场上钱多一些）0.5个百分点的新闻。她是理工科女生，对宏观经济不大感冒。她淡定地加班忙完手里的工作，等着中介告知房东的意愿。然后第二天宏观经济降临到黎曦的头上——房东不想卖了，如果要卖，再加价十万，相当于她半年的工资。</p>
+<p>黎曦感觉自己被狠狠咬了一口。但她毫不意外。这已经是一个月来第四家临到签合同时又反悔的房东了。至少，这家房东还是诚心卖的。</p>
+<p>还愣什么？赶紧签吧。</p>
+<div></div>
+<div>
+<div>
+<p> </p>
+<p><strong>“现在不买房，一年又白忙”</strong></p>
+<p>事后证明黎曦的当机立断无比英明。没过几天，在一线城市，房东反价、坐地起价几十万是普遍状况，一些房东现场开起了拍卖会——房东和中介把购房者们集中到一起现场竞价，谁出价最高，房子就卖给谁。</p>
+<p>对于投资者而言，由于人民币离岸无望、股市无常、货币贬值预期以及实体经济衰退得让人望而却步，他们纠结着：如何才能让手里的人民币不贬值？然后，资金再次哗哗涌向他们最熟悉的投资安排——买房子。</p>
+<p>对于更多的人，像黎曦这样的北漂、沪漂而言，出于一种房价一高再高、或许今生今世再也无法安家大城市的恐慌，也像抓紧最后一个窗口期般，仓皇入市。</p>
+<p>全民买房热或是政府期待发生的一幕。房地产业过度迅猛的发展，让自2011年起每年中国商品房待售面积新增1亿平方米，库存巨大，难以化解。2015年底落幕的中央经济会议明确将“去库存”纳入新一年确定的五大经济任务之一。此次降准，便是实体经济每况愈下之时，中国政府放出的政策刺激措施。类似的刺激政策曾被多次使用。这一次，“降准”释放了大约6000亿资金的流动性。</p>
+<p>但政府调控了开头，却没控制住结局——在三四线城市和一线城市，“去库存”任务呈现出冰火二重天之别：前者积压如山倒，即便刺激购买，仍是鲜有人问津；后者奇货可居，哪怕各种限制，大家也是想着法勇往直前。</p>
+<p>降准放水（由于降准会扩大市面上流通货币的总量，可能导致通货膨胀，民间称之为“放水”）后，3月以来，一线城市中心城区的房价水位飙升。接下来的日子里，上海市民裹被子排队买房、北京房东反价以自己“有精神病”为由要求毁约或者涨价60万、深圳新房一年间涨幅107.7%达均价5.4万元/平米等等报道，充斥着这个国度的新闻端。评论称：房价已疯。</p>
+<p>直至3月25日，上海、深圳祭出更严格的住房限购政策，一线城市的楼市狂热才稍微得以喘息。截止发稿时，上海的最新政策规定：不结婚者不能买房，非本地户口人士另附一条：必须连续缴纳社保五年以上，被称为“史上最严限购政策”。</p>
+<p>投资者的撒钱狂潮暂时被煞住了，却也让更多希望觅得安身之所的沪漂（媒体上总是归纳，这些人才是所谓“刚性需求者”）陷入绝望。黎曦的很多小夫妻朋友也加入了看房大潮，沪九条（指上海于2016年3月25日出台的房市调控新政）一出，顿时偃旗息鼓了——没有上海户口，他们只能再等几年。</p>
+<p>3月25日凌晨，一位名叫“财上海”的微博知名财经博主写下“讣文”：</p>
+<p>“现在是2016-3-24，23:59，还有1分钟，没有上车的同学，你的这辈子结束了。过几年，你有买房资格或存了一点钱了，房价也和你无关了。”</p>
+<p>“现在不买房，一年又白忙”，售楼处里，地产中介喊得热闹。</p>
+<p>2007年起，北京、上海的房价微微发烫。2008奥运那年，北京四环外房产均价每平米一万元，那时还有许多坚定的“不房主义者”，每次讨论房价必以严厉话语炮轰房地产现状：“泡沫太大，过两年必跌无疑，等跌到3000块再入手！”但北京房价自顾自嗖嗖往上涨，越过金融风暴的低谷，越挫越勇，经过几轮微跌猛涨的震荡到了2016年，北京四环外房产均价已达每平米五万元。</p>
+<p>十年过去，曾经发起“万人不买房运动”的社运人物在为自己当初的言行道歉后销声匿迹，当初唱衰楼市危矣的媒体人也赶紧闷声囤房子以求自保，人们动用着各种经济分析工具研究着北京的楼市究竟会像上个世纪90年代的日本一触即破，还是像香港那样勇攀到每平米十万以上。在当今的北上深，无房一族面临着如此永劫轮回：买不起房——努力工作——更买不起房了。</p>
+<p>尽管费了不少周折，黎曦已然安全“上岸”。3月8日，这位北京大学硕士学历的姑娘对端传媒记者开玩笑说：“读再多的书，考再多的文凭，还不如你妈当年把供你上学的钱，拿去买房子。”</p>
+<p><strong>租房＝被“卖猪仔”＝越来越边缘的人生？</strong></p>
+<p>黎曦出生在中国东部省份的一座三线城市，毕业后先留在北京工作。</p>
+<p>离开三四线城市，汇入一二线城市——这也是这些年中国人口流动的统计学结果。中国高度集权的行政统治，正越来越快速地改变着中国人口版图，资源和人力源源不断地向大城市集中，县里的人往市里去，市里的人往省会去，省会的人往北京上海去。这一波人口流动的结果是，农村加速凋敝，变成了“有院无人住、有地无人种”的空心地带。</p>
+<p>城乡发展的不均衡，使得贫困落败的地方，更加留不住人才。</p>
+<p>对于年轻人而言，回到三四线平庸又固化的小城市，生活也许田园牧歌，但它很可能意味着某种意义上的死亡——上班端茶送水，下班吃饭打牌，人生一眼可以望到尽头。</p>
+<p>而工作在北京、上海这类一线城市，尤其北京，看起来前途无可限量。这里驻扎着各行各业的优质资源：全中国最顶尖的医院，学术、音乐、影视、艺术、体育类最顶尖的院校，48家世界500强企业总部数量居全球第一，中关村和望京是创业时代的“革命圣地”，每年若干年轻人在这里创造着一年估值上亿的财富神话，美术馆流动着世界级大师的展览，周末处处沙龙新思想激荡……</p>
+<p>唯一需要承受的，是不那么友好的房价。</p>
+<p>如同绝大多数甘愿在首都北京零起步的青年，黎曦一开始选择了租房。那时她觉得买房这件事离自己太远，她还年轻，可以靠努力塑造人生。</p>
+<p>理论上讲，房价高企至今，租房是一个实惠的选择。国际上习惯用“租售比”来衡量某地区楼市运行，是指每个月租金与房屋总价的比值。通常认为，合理的租售比在1：200左右；低于1：200，则适合购房投资，若高于1：200，则房产泡沫显现，适合房屋租赁。北京的租售比约在1：500左右，泡沫远超国际警戒线——这对租客来说非常划算。</p>
+<p>而现实很骨感，“即使我可以一直租房，但指不定哪天房东就卖房了，”黎曦说。</p>
+<p>租客，常常形如寄人篱下的“猪仔”。在端传媒记者的朋友圈里，姑娘M，半年之内被迫搬了两次家：第一次，男房东说，媳妇和妈合不来，老吵架，小两口还是想搬回来，和老人保持距离感。M心软，默默搬走了，另租了一户3300的一居。这次的房东常年在加拿大，听起来很省心，但没过半年，M正感冒卧床，本该鞭长莫及的房东突然敲门来了：想卖房。</p>
+<p>房价狂涨动摇中国人的财富结构之时，也许每一个北漂都有过被“卖猪仔”的际遇，至于涨多涨少，全赖房东的人品和心情。在2013年的北京，端传媒记者曾租下一套四环的一居室，一年租约内，这套房屋被190万卖出后，又被新房东以240万转手卖出，同期，房东要求房租上涨45%。</p>
+<p>在西方国家如德国，超过6成的民众会选择一辈子租房。除了政府的房租指导价制度，严格的法律保障也是租房市场蓬勃的关键——比如严格规定房租三年内不得超过20%等，使得房东涨价难、解约难。</p>
+<p>而在中国，房东涨价、解约所付的全部代价是——赔一个月租金，当作违约金。</p>
+<p>悟出“人生如寄”的人会摆脱这个怪圈；但更多时候，“漂”们被罩上一层loser的阴影，一面认宰，一面由得帝都的“挤出效应”，一环一环往更偏更远更狭窄处漂去。</p>
+<p><strong>啃老或燕郊</strong></p>
+<p>人们转而投奔乾坤大法：砸锅卖铁，赶紧买房。</p>
+<p>工作五年，搬了5次家后，年薪约十五万的黎曦打算改弦易辙，她需要一个房子，寄托自己的安全感。</p>
+<p>大陆网络问答社区“知乎”上，曾有一个段子。</p>
+<p>问：“一个年薪十五万左右的人在北京买得起房吗？”</p>
+<p>答：“买得起。我有一个好哥们，不上大学之后，去北京打拼，年薪10万左右……之前都是月光族，决定买房之后，几乎不去夜店玩了，吃饭都是自己和女朋友做饭，也间接促进了和女朋友感情。一个月能攒下不少钱。过了大概半年左右，他爸爸给了他608万，在北京买了一套房子。”</p>
+<p>这个答案未免夸张，因为年轻人努一努力，还是有可能往市区二三十平米的老公房、郊区荒芜人烟的商品房、农民们的小产权房冲刺一把。但这些可能性并不妨碍它所揭示另一层现实——对于一线城市的工薪阶层，若非“啃老”（指成年后经济不独立、依靠父母供养的年轻人），你准备首付的速度，大概永远追不上房价上涨的速度。</p>
+<p>更何况，也许你根本没资格买房——北京的限购令要求，不具备北京户籍的居民，需要缴纳社保连续五年方有购房资格。但这会不会意味着，北漂的置业之梦越来越遥远：五年以后，房市奔突何处？</p>
+<p>焦虑的人们在寻求突围，一些人囿于限购令，一些人奔向价格洼地，这些年，超过30万北漂在天安门往东30多公里的地方，行政区划隶属河北省的一个名叫燕郊的小镇上找到了安居乐土：这里与北京仅一河之隔，房价只有隔壁的三分之一，首付也触手可及。</p>
+<p>过去十年来，河北小镇燕郊复制了一个野蛮生长的北京所有发展模式，市镇规划和房价，都以百分之几百的速度在：近十倍的房价，二十倍的人口，在三河市1/12的土地上创造了60%以上的财政收入。当然，也有成倍增长的罪案数量。</p>
+<p>住在燕郊始终不是一件特别愉快的事，每天，数十万打工族大军轰轰烈烈跨省上班下班，在路上花足四个小时以上。有时，乘客得在北京三环国贸站等上一个多小时，第13趟，才能挤上回家的公交车。而这座小镇旧有脆弱不堪的基础设施也为十几倍发展的新兴楼盘所累，夏天停水断电，冬天供不上暖，垃圾场的堆体攀越了铁篱笆，向四面八方扩张。燕郊的业主们动辄以堵路向物业抗议，自称“平时上班，周末维权”，于是一百万人的交通都陷入瘫痪。</p>
+<p>一面受害，而另一面，这里的业主们很快也成为北京房价暴涨的受益者——2016年3月，受“降准”和河对岸北京市通州区建立行政副中心的利好，燕郊也暴涨到均价2万一平米，三年间涨幅超过100%。</p>
+<p>人们更加笃信“有房即正义”的真理，不少北漂成为燕郊一带的“炒房一族”，有闲钱就往楼市里砸，以积攒重返北京的资本；更多计划置业的北漂开始往更东更南的地方扩散，离天安门45公里的大厂，50公里的固安，60公里的香河……是的，继续每天跨省上班。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=600%2C400" alt="山东省日照市建筑中的楼宇。摄：Stringer/REUTERS" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>山东省日照市建筑中的楼宇。摄：Stringer/REUTERS</p></div>
+<p><strong>要么忍耐，要么回到家乡“去库存”</strong></p>
+<p>外地人口正加速向北京聚拢。截至2015年底的十年间，北京的人口净流入632.5万，几乎赶上香港的人口数量。其他一线城市里，上海增加525.27万人，广州增加355.81万人，深圳增加310.12万人。这些新增的庞大人口基数，成为房价看涨的坚实后盾。</p>
+<p>2005年国务院曾指出，2020年北京的总人口规模要控制在1800万人；如今人口已突破2000万大关，这条人口承载红线提前10年被打破。一份《京津冀发展报告（2013）——承载力测度与对策》指出：北京的综合承载力已进入危机状态。</p>
+<p>权力高密度地吸附了资源、人口，中国的各种城市病，在北京变本加厉：壅塞的交通、大量的空气污染、水短缺、教育资源短缺、医疗资源短缺、高房价……城市的管理者由此制定了愈发严苛的控制政策，户籍制度、房屋限购、汽车限购，但这些都无法阻止，北京人口每年增长50万以上和房价每年以最低10%的幅度往上涨。</p>
+<p>海通证券的首席宏观分析师姜超在2016年2月撰文写道，截至2015年底，按均价5万/平、20亿平米的住宅存量来看，北上深对应的市值约是100万亿人民币，足以买下半个美国，“相信把整个日本买下来也没有太大的问题”。</p>
+<p>硬币的另一面是，如果单凭买房子卖房子，一年就能挣够几十年的资本，谁还有心思一头扎进实体经济？</p>
+<p>人们当然不相信房价会冲破天际。近期中国楼市有了另一种趋势，富人们正争相抛售房产，将资产转移出境，但那毕竟是金字塔尖2%的故事。</p>
+<p>现阶段，对大多数普通人而言，不管中国兴或衰，汇率涨或跌，GDP增速大于或是小于7%，他们都更倾向于在这片愈加逼仄的土地上存续一生：结婚，生子，供子女入学，直至步入墓穴。而房价一路绝尘而上，人生的每一阶段都像升级打怪。越来越多人涌入，生存空间越来越狭窄，无房一族往往一天比一天恐慌：也许只要脚踏实地稳步前进终能抵达的生活，将日渐灰飞烟灭。这时你只有两种选择：要么忍耐、留下，要么回到家乡“去库存”。</p>
+<p>而这种恐慌，进一步推高了房价。</p>
+<p>黎曦一度是个焦虑的“剩女”，过去她以为这就是人生最大的灾难。直到结婚买房，她才明白，找不到伴侣只是一个坎而已，找到以后，灾难还将扑面而来：生小孩怎么办？学区房怎么办？赡养老人怎么办？这些显然是一套建筑面积60平米的老公屋难以承载的。</p>
+<p>“现在无论什么饭局，最终都是房子孩子的焦虑话题，这个社会就是让人着急，”随着阶段性的尘埃落定，黎曦回复了一名理科生的淡定，“所以呢，还是回归自我，有吃有喝就足够了。”</p>
+</div>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%9C%A8%E8%BF%99%E4%B8%80%E6%B3%A2%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%AD-%E5%A5%B9%E9%80%8F%E6%94%AF%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%8A%E6%B5%B7%E4%BA%BA47/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%EF%BC%8C%E4%B9%B0%E6%88%BF%EF%BC%8C%E6%B6%A8%E4%BB%B7%EF%BC%8C%E4%B8%AD%E4%BB%8B%EF%BC%8C%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%EF%BC%8C/?category=18271" rel="tag">房地产，买房，涨价，中介，房价暴涨，</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-3/" target="cdt-mirror">奇闻录 | 周末段子荟萃 4-3</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9_1i9UYAEzJA4.jpg?resize=450%2C601" alt="Ce9_1i9UYAEzJA4" data-recalc-dims="1"></p>
+<p>@hnjhj：新华社：愚人节不符合中华传统文化，屁民过愚人节就是跟党抢生意。</p>
+<p>@大号瘦子：其实跟对了党，愚人节每天都过。</p>
+<p>@vocui：听说当年7000万嫁女的煤老板刑利斌在狱中已经不能说话了，想想也是，四五百亿的负债不知道有多少高官牵涉其中，哪个都想他开不了口，本地人猜测这人的命运估计会和徐明一样，估计会被弄死在狱中。</p>
+<p>@bitinn：昨天我看QZ，Tech in Asia，Vice，CNN的记者还在推上讨论这法的适用范围。今天就看到环球自己跳了：亲，世界上只有两种网站，国内的归政府管（从域名到服务器），国外的归GFW管，你说好不好啊？</p>
+<p>@cherylnatsu：匿名人士来自【北京市】：中国网民数量占全球比例就很大了，哪个是局域网还说不定呢，等网民数量超过世界50%，那外面的就是局域网了。</p>
+<p>@MyDF：《十年》获得第35届香港电影金像奖最佳影片，该片获奖的消息被禁止在大陆各大门户网站出现，值得讽刺的是，这样的黑色现实，恰恰印证了这部影片试图展现的——香港的黑色未来。 #金像奨</p>
+<p>@mozhixu：习并没有那么强，但他的对手更弱，他与其对手都没有毛邓那种来自革命时期的个人威望、人际实力、干部队伍，而只能临时拼凑出团伙和盟友，这就限制了习和对手的基本力量。反过来，也不要高估反对习的力量，尤其体制内自由派，那基本等于零。</p>
+<p>@mozhixu：1989年后，大陆体制主流就是既要市场改革，又要一党专政，并因此将毛左派和自由派均排挤到了边缘，这两派除了相互叫骂并幻想重回主流之外，都相当边缘零散，并不是大陆现实政治的玩家。习的强势如遭遇到反制，也都没有他们什么事，从自由派的偶发行为拼凑反制习的图景，恐怕是找错了方向。</p>
+<p>@网易网友：当今社会电商发达，网购成为百姓生活常态。你把送货的电动车禁了，直接结果无非两种：一种是快递变慢递，或者是加大运输成本，殃及百姓。深圳交警做事冲动，常拍脑袋行事。比如：你要是将车临时在马路上停放，罚款1000元。而交委将马路当成停车场，画个方格，只要你交钱，随便停放。有次本人将车停在了工地门口，距离马路还有10多米的距离，根本不会影响交通，照样被罚1000元。申诉和仲裁都失败。违章罚款的部门犹如疯子，只要逮着你，就会撕扯你一块肉。不管你是否影响交通，不管你是在车流稀疏的偏僻马路。还成立了一个交委的电动车罚款别动队，天天骑着摩托车四处寻找罚款对象。回过头来说，深圳交警这次对快递行业开刀，真确说是执法者根本不拿民生当回事。</p>
+<p>@zhealot：供职魔都某科教文卫系统的同学，说最近组织要求补交党费，13年党龄算下来交14000，老党员有要交3、4万。</p>
+<p>@libearal：转一句得罪人的话，你国上世纪的女权进步并非由抗争得来，而只是共运胜利的一部分。来的容易的，自然失去也容易。近两年来政策舆论的变化大致印证了这点。</p>
+<p>@laoyang945：大咕咕咕鸡：你国人没有他人这个概念，感知不到周围事物，只能感知到”我”，在任何时候任何地点做任何事，只能感觉到”我”，他人是不存在的，所以你国人又称为我国人。你国人就是我国人 #特师就是特师</p>
+<p>@李幺傻：林彪被摔死后，我们村的生产队长去公社开会，回来传达指示精神，他在社员会上说：“林彪这个狗日的，带着一群老婆，被摔死了。“村里的光棍都在骂：狗日的林彪，我们一个老婆没有，你就有一群老婆。一年后，村子里一个军人回家探亲，大家才知道林彪的老婆叫叶群，不是一群。</p>
+<p>@梁惠王：有人对胡适说，我们读书，要做到为天地立心，为生民立命，为往圣继绝学，为万世开太平。 胡适打断他，问：什么叫为天地立心啊，你解释给我听。 那家伙傻了。胡适道：孩子，不要说自己都不理解的话。我特别佩服胡适这点，直率犀利且逻辑精密。其实这类古文和党八股一样，都是不切实际的昏话。</p>
+<p>@ruanyf：现在终于看懂了，鲁迅的小说《故乡》在写什么。小时候，我和闰土是同样的人；三十年后再见面，我却惊恐地发现，如果留在故乡，走命运安排好的路，我会变成怎样的自己：那是一个灰黄瑟缩的中年人，觉得苦，却形容不出，只能默默吸烟。</p>
+<p>@xiucai1911：转：刚刚接到一个电话： 对方问我需不需要贷款？我说要…………对方很高兴问：要多少？我 说：500万！……他 问：有抵押物吗？我 答：有楼！对方：哪里的楼？ 答：天安门城楼！ 对方问：你是什么人？我回答：共产主义接班人。对方立刻挂机！</p>
+<p>@chang_ping：看到媒体报道说，高瑜老师家入狱前被抄，至今未整理，想到曾有人问她坐牢最大的痛苦，她笑言：“就是想到我那屋子，老伴和儿子都没我收拾得整洁！”这么爱整洁的人，被折磨得回家半年才振作起来收拾陋室，还遭城管袭击。</p>
+<p>@chengr28：我们最伟大的长者，最终还是战胜了亚洲电视……+1s</p>
+<p>@5s：這社會根本正能量失控啊，每個人都要跟個瘋子一樣笑咪咪過日子，遇到任何挫折沒吞下去的人就是社會適應能力差，挫折到崩潰的人就要強制送醫，媽的你以為這是在寫小說嗎？</p>
+<p>@ld0905：“凤凰男”这个词真的好恶毒，它意味着，你这辈子不管有多努力，多上进，即便你奋斗了几十年终于能够跟你平起平坐在城市中的咖啡馆里谈笑风生，但是依然掩盖不了你的乡村本质，你终究逃不过人们的促狭揶揄，背地里嗑瓜子时的话题焦点。#城乡撕裂</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%85%A8%E7%90%83140%E4%BD%8D%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%A4%BE%E4%BC%9A%E5%90%8D%E6%B5%81%E7%A6%BB%E5%B2%B8%E8%B5%84%E9%87%91%E6%8F%AD%E7%A7%98/" target="cdt-mirror">法广 | 全球140位政治人物社会名流离岸资金揭秘</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?resize=550%2C309" alt="160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -53,7 +698,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">律师事务所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E5%AD%98%E6%AC%BE/?category=18271" rel="tag">秘密存款</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E5%8F%8D%E6%8D%9F%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">世界日报｜习近平强势反损统治</a>
 </h2>
@@ -618,119 +1263,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9D%8E%E6%B3%A2%E6%8E%A5%E5%8F%97%E3%80%8A%E6%98%8E%E9%95%9C%E3%80%8B%E4%B8%93%E8%AE%BF-%E6%8B%92%E7%BB%9D%E4%BB%8D%E9%80%8F%E9%9C%B2%E5%A6%82%E4%BD%95/" target="cdt-mirror">自由亚洲｜李波接受《明镜》专访 拒绝透露如何“以自己方式返回内地”详情</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg" rel="attachment wp-att-433702"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg?resize=450%2C600" alt="有读者在李波返港后到铜锣湾书店买书却遭闭门羹(忻霖提供)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/561136b3-8d53-4245-9ce1-24b3e75120e6.jpeg?w=622 622w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p>有读者在李波返港后到铜锣湾书店买书却遭闭门羹(忻霖提供)</p></div>
-<p>香港铜锣湾书店股东李波偷渡回中国内地协助调查事件，至今仍有不少谜团未解。李波日前接受海外华文媒体《明镜邮报》的访问时，仍拒绝透露他如何自香港返回内地以及是否有人陪同。</p>
-<p>铜锣湾书店股东李波上周自大陆回香港销案后，不到24小时又返回大陆，引发外界更强烈的质疑。日前，经常报道中共“秘闻”的海外华文媒体《明镜邮报》通过电话采访李波。李波在采访中表示，曾有人接触他，询问其意愿，是否愿意返回内地，而他为解决有员工出事，遂在朋友安排下，自愿偷渡回内地，但不方便透露如何回去及由谁人陪同。对于有传言说他是被人绑架上货车回到中国内地，他也澄清并无此事。就林荣基尚未回港，李波指他应已获保释，但出于家庭因素而不回香港，并表示不清楚瑞典籍书店股东桂民海目前的状况。</p>
-<p>他在采访中也表示，希望能放弃英国国籍，目前正了解相关程序。他称英国国籍对他而言，只是旅行证件，因患自闭症儿子需在港生活，不可能移民到陌生国家。</p>
-<p>明镜的报道还说，从可靠渠道获悉，有香港人劝说并陪同李波返回大陆协助调查，坐＂大飞＂（走私艇）前往深圳，因此中国内地的公安并没有直接到香港抓李波。但这则消息，并未得到李波或中国官方确认。</p>
-<p>而就在几天前，李波又向传媒提供两张“街头自拍照”，以证自己又回到香港。他在脸书上贴文称︰“自由自在，没有人干扰，生活一如往常，真开心！”</p>
-<p>立法会议员梁国雄接受本台采访时称，这只是作秀而已：</p>
-<p>“这是作秀，如果他真的离开香港这么久，回到香港根本就没有理由在一天就回去。他知道传媒的关心，知道香港人很担心他，他在香港有很多的朋友和亲人，按理说应该留比较长的时间。几乎可以肯定这是一个安排，尽量把他留在香港的时间减到最低，防止他作秀穿帮。”</p>
-<p>港大法律学院前院长陈文敏在香港《明报》撰文分析，事件需要厘清的问题包括，李波返港后一再强调自己是自愿返回大陆，“为何对如何返回内地却要三缄其口，一点详情也不肯透露？柴湾仓库的闭路电视拍摄到他当日从书店仓库被人带上货车离去，为何这一点他也要否认？”而大陆警方要李波协助调查，可光明正大要求香港警方提供协助，又为何要他用自己的方式返回？“更毋须要18天之后才能向香港警方确认李波身在内地”。</p>
-<p>多次举行声援铜锣湾五子行动的香港支联会副主席蔡耀昌分析说，被指或是铜锣湾事件策划者的护送李波的神秘男人身份到目前仍未能确定，而官方也未能发布另一股东林荣基的消息，仍未能释除港人疑虑。他说：</p>
-<p>“李波在香港的整个过程也有一个神秘的人一直在他旁边，这个人我们觉得很有可能就是来自内地相关的部门。李波说他还要回去进行(配合)调查，调查肯定是内地等有关部门，所以我们看到李波现在还是不自由的。这件事情没有完全结束。另外一个让我们担心的是林荣基，另外一个铜锣湾书店的经理，到现在都还没能回来香港，什么原因呢？确实令我们很担心。”</p>
-<p>尽管李波早前在大陆接受传媒访问时表示会放弃英国国籍，但李波上周返港时英国外交部发言人指，李波非自愿返回内地，严重违反《中英联合声明》，英方继续呼吁完全恢复李波自由，并随时准备为李波及其家人提供领事协助，并敦促中国及特区政府确保一国两制的实施。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9D%8E%E6%B3%A2%E6%8E%A5%E5%8F%97%E3%80%8A%E6%98%8E%E9%95%9C%E3%80%8B%E4%B8%93%E8%AE%BF-%E6%8B%92%E7%BB%9D%E4%BB%8D%E9%80%8F%E9%9C%B2%E5%A6%82%E4%BD%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">被失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%B3%E6%9D%83%E5%8F%98%E6%95%8F%E6%84%9F%E8%AF%8D%EF%BC%8C%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E8%BF%99%E6%98%AF%E8%A6%81%E5%B0%81%E6%9D%80%E5%A5%B3%E6%9D%83%EF%BC%9F%EF%BC%81/" target="cdt-mirror">女权之声｜“女权”变敏感词，新浪微博这是要封杀女权？！</a>
-</h2>
-<p><p><strong>微信公号：女权之声（ID: genderinchina）</strong></p>
-<p>女权账号无故被注销，新的账号无法以“女权”两字注册。这不是愚人节玩笑，而是现在正发生在新浪微博上的事。</p>
-<p>几天前，一个女权微博账号@女权行动派更好吃 发现自己被无故被销号了。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B701.jpg" rel="attachment wp-att-433659"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B701.jpg?resize=500%2C142" alt="640女权帐号01" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640女权帐号01.jpg?resize=300%2C85 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640女权帐号01.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>她们猜测这或许与前段时间发布“地铁众筹反性骚扰广告”的信息有关。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B702.jpg" rel="attachment wp-att-433660"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B702.jpg?resize=475%2C370" alt="女权帐号02" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号02.jpg?resize=300%2C234 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号02.jpg?w=640 640w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
-（☞ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MzY0Njc0MQ==&mid=403957194&idx=1&sn=04cc1fc5ec9c3044506cca4aecca48d0&scene=21#wechat_redirect" target="_blank">这些姑娘想要占领地铁，让更多人知道制止公共场所性骚扰人人有责</a>）</p>
-<p>但她们不是唯一被消失的女权账号。</p>
-<p>在3月30日她们公布这则消息后，新浪微博上活跃的另一个女权账号@AntiPETD女权博士组织 也发现自己的账号异常，无法再登录。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B703.jpg" rel="attachment wp-att-433661"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B703.jpg?resize=405%2C719" alt="女权帐号03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号03.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号03.jpg?resize=577%2C1024 577w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号03.jpg?w=640 640w" sizes="(max-width: 405px) 100vw, 405px" data-recalc-dims="1"></a></p>
-<p>感到莫名其妙的@女权行动派更好吃 想到了申诉，然后得到的回复是这样的！</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B704.jpg" rel="attachment wp-att-433662"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B704.jpg?resize=476%2C331" alt="女权帐号04" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号04.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号04.jpg?w=640 640w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></a><br>
-“发布有害信息等违规行为”？？？</p>
-<p>这是一个专业安利女权的账号。难道<strong>是这世道变了？发布女权消息＝“发布有害信息等违规行为”啦？</strong></p>
-<p>同为女权账号，@女权之声的编辑不安地检查了一下自己的账号：目前还在。</p>
-<p>新浪微博无故删帖、封号已经上演过很多次。但这一次，删号还不是最可怕的事。</p>
-<p>当@女权行动派更好吃 试图重新注册时竟发现：<strong>昵称里只要出现“女权”两个字，新浪微博它就是拒绝的！</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B705.jpg" rel="attachment wp-att-433663"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B705.jpg?resize=500%2C415" alt="女权帐号05" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号05.jpg?resize=300%2C249 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号05.jpg?w=534 534w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B706.jpg" rel="attachment wp-att-433664"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B706.jpg?resize=500%2C569" alt="女权帐号06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号06.jpg?resize=264%2C300 264w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号06.jpg?w=585 585w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>并非所有的“权”都通不过。</p>
-<p>还有人试了“人权”、“平权”、甚至“男权”……但只有“女权”通不过。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B707.jpg" rel="attachment wp-att-433670"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B707.jpg?resize=500%2C608" alt="女权帐号07" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号07.jpg?resize=247%2C300 247w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号07.jpg?w=537 537w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B708.jpg" rel="attachment wp-att-433671"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B708.jpg?resize=475%2C2105" alt="女权帐号08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号08.jpg?resize=231%2C1024 231w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号08.jpg?w=564 564w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
-（图：微博@黄詺）</p>
-<p>不仅是新注册的微博，已有的微博账号如果想改名为“女权”，也是通不过的；个人标签里如果有“女权”二字，也是不予显示的。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B709.jpg" rel="attachment wp-att-433665"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B709.jpg?resize=336%2C191" alt="女权帐号09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号09.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号09.jpg?w=336 336w" sizes="(max-width: 336px) 100vw, 336px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png" rel="attachment wp-att-433672"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png?resize=525%2C50" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png?resize=300%2C29 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.png?w=534 534w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>“女权即人权”，新浪微博，难道这个问题你不懂吗？“人权”可以谈，为什么“女权”就“违规”？“违”的是什么“规”？查了一下，这些内容，真不知道该怎么对号入座。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B710.jpg" rel="attachment wp-att-433666"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B710.jpg?resize=575%2C304" alt="女权帐号10" data-recalc-dims="1"></a></p>
-<p><span>于是@女权行动派更好吃 把自己的微博名中的“女权”改为了“女木又”。</span></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B711.jpg" rel="attachment wp-att-433667"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B711.jpg?resize=550%2C391" alt="女权帐号11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号11.jpg?resize=300%2C213 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号11.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B712.jpg" rel="attachment wp-att-433668"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B712.jpg?resize=400%2C710" alt="女权帐号12" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号12.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号12.jpg?resize=577%2C1024 577w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号12.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>然而这个账号今天再一次消失了。。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B713.jpg" rel="attachment wp-att-433669"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83%E5%B8%90%E5%8F%B713.jpg?resize=475%2C297" alt="女权帐号13" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号13.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权帐号13.jpg?w=534 534w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p>“女权”也变成了敏感词，到底在怕什么呢？</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83.png" rel="attachment wp-att-433673"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E6%9D%83.png?resize=525%2C601" alt="女权" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?resize=262%2C300 262w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?resize=768%2C879 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?resize=894%2C1024 894w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女权.png?w=1848 1848w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>女声整理，部分来自微信公号“女权行动派很好吃”被删文章《“女权”二字不能提？“女权行动派更好吃”微博遭封，被迫换马甲》</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%B3%E6%9D%83%E5%8F%98%E6%95%8F%E6%84%9F%E8%AF%8D%EF%BC%8C%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E8%BF%99%E6%98%AF%E8%A6%81%E5%B0%81%E6%9D%80%E5%A5%B3%E6%9D%83%EF%BC%9F%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">女权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BE%AE%E5%8D%9A%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E7%8E%A9%E7%AC%91%EF%BC%9F/" target="cdt-mirror">迷の国社：新华视点愚人节微博到底是不是玩笑？</a>
-</h2>
-<p><p>@新华视点于2016年愚人节<a href="http://weibo.com/1699432410/DoUipcOni" target="_blank">所发的微博</a>到底是不是玩笑？评论中，大多数网民认为@新华视点 是认真地在传播正能量，但该微博最后所附的一个微笑脸到底是不是在暗示这其实是个玩笑？如果是的话，删评论是不是代表这个玩笑引来了意想不到的后果？</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E5%8F%AA%E8%A6%81%E8%B7%9F%E5%AF%B9%E4%BA%86%E5%85%9A%EF%BC%8C%E6%84%9A%E4%BA%BA%E8%8A%82%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%BF%87/" target="_blank">【网络民议】只要跟对了党，愚人节每天都过</a></p></blockquote>
-<p>数字时代编辑整理了一下@新华视点 历年“愚人节”微博，以供参考。从中至少可以看出，2013至2015年的趋势是一年比一年严肃：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%9B%BD%E7%A4%BE4.jpg" rel="attachment wp-att-433637"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%9B%BD%E7%A4%BE4.jpg?resize=475%2C1247" alt="国社4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/国社4.jpg?resize=768%2C2016 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/国社4.jpg?resize=390%2C1024 390w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/国社4.jpg?w=1025 1025w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
-（中国数字时代制图）</p>
-<p><strong>2010～2012年愚人节：</strong>未提及。</p>
-<p><strong>庆丰元年：网络段子型</strong></p>
-<blockquote><p>今天是4月1日星期一，愚人节，领导通知说要上班，越想越不对劲，不行！咱们不能上当！<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1">节日快乐！</p></blockquote>
-<p><strong>庆丰二年：带“偷笑”表情，语气轻松型</strong></p>
-<blockquote><p>4月1日是愚人节，又称万愚节，是西方一些国家的节日。现在不少中国人也爱凑这个热闹。乐归乐，不过凡事要有个度，大家都多些爱心，多些小心啊！<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p></blockquote>
-<p><strong>庆丰三年：人生忠告型</strong></p>
-<blockquote><p>#人生微语#诚信像一面镜子，一旦打破，你的人格就会出现裂痕。巧诈不如拙诚，真正聪明的人，必然会选择城市。今天是所谓的“愚人节”，愚人节不是教我们撒谎，而是告诫我们，撒谎的都是“愚人”。早安！</p></blockquote>
-<p><strong>庆丰四年：愚人节玩笑？社会主义正能量？</strong></p>
-<blockquote><p>今天是西方所谓的“愚人节”。“愚人节”不符合我国的文化传统，不符合社会主义核心价值观，希望大家不信谣，不造谣，不传谣。<img title="[微笑]" src="http://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" width="22" height="22"></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E5%8D%8E%E8%A7%86%E7%82%B9%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BE%AE%E5%8D%9A%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E7%8E%A9%E7%AC%91%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E5%81%87%E9%87%8A%E5%90%8E%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF/" target="cdt-mirror">德国之声｜记者高瑜假释后首次接受媒体采访</a>
-</h2>
-<p><p>因“泄密罪”被判刑的记者高瑜，因“健康原因”获准监外执行后，本周四首次对媒体发声。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg" rel="attachment wp-att-433645"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg?resize=585%2C329" alt="0,,18870376_303,00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018870376_30300.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p>（德国之声中文网）因”泄露国家机密”被判刑的记者高瑜本周四首次接受媒体采访。高瑜案曾引起国际社会广泛关注，这是她因健康原因被监外执行后，首次面向媒体。</p>
-<p>现年72岁的资深记者高瑜去年被控对外泄露了一份中共警告多党制民主”危害性”的文件。为此她被关押了18个月。年逾古稀的高瑜患有包括心脏病在内的多种疾病。今年早些时候，她的刑期被从七年减至五年，并以健康原因获准监外执行。当时，中国官方的新华社报道称，高瑜是因为有”悔罪表现”而被减刑的。</p>
-<p>但周四高瑜在家中对法新社表示，任何有关她认罪、悔罪的说法都是”笑话”。她还说，当局禁止她前往德国接受治疗。</p>
-<p>高瑜说，这一切都是”中国式的讨价还价”，中国当局禁止她公开讨论她的案情，并以此作为她获得假释的条件。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg" rel="attachment wp-att-433644"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg?resize=585%2C329" alt="0,,19134128_401,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019134128_40100.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>德国总统高克同高瑜律师会谈</span></p>
-<p>高瑜说她之所以决定接触媒体是因为城管人员周四试图拆除她住宅的一部份，并殴打了她的儿子。目前，法新社尚无法证实该事件的细节，但网上公布的照片上可以看到大批警员包围了高瑜在北京的住宅。</p>
-<p>高瑜同时说，获得假释后她没有任何经济来源，已无法支付医疗费用。高瑜被捕前曾为德国之声撰稿。德国方面曾就高瑜的问题同中国官方有过交涉。高瑜说：”德国给了我签证，并为我买了机票。但当局说我在保外就医期间不得离境。”法新社目前尚未获得北京警方就此的回应。</p>
-<p>作为联合国教科文组织世界新闻自由奖的获得者，高瑜长期坚持对中国共产党的专制统治提出批评。1989年，天安门学生运动遭镇压后，高瑜首次被捕入狱。90年代，高瑜再次以所谓”泄露国家机密罪”被判处六年监禁。</p>
-<p>去年四月，北京一家法庭指控高瑜泄露了中共的”九号文件”。这份据称发布于2013年并在网络上广泛流传的文件，禁止人们讨论普世价值以及对中共历史事件提出批评。国际人权组织对高瑜被判刑提出强烈谴责，华盛顿呼吁北京立即释放高瑜，而欧盟则要求北京重新审理高瑜一案。</p>
-<p>2012年，中国国家主席习近平上台以来，对反对派人士展开了大规模的打压行动。数百名律师，维权人士以及学者被逮捕，数十人被判刑。总部设在法国的记者无疆界组织在其2015年度新闻自由全球排行榜上，中国排在总共180个国家的第176位。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C%E5%81%87%E9%87%8A%E5%90%8E%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E5%AA%92%E4%BD%93%E9%87%87%E8%AE%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D%E5%87%86/?category=18271" rel="tag">七不准</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E5%8F%B7%E6%96%87%E4%BB%B6/?category=18271" rel="tag">九号文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86%E7%BD%AA/?category=18271" rel="tag">泄露国家机密罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -742,7 +1274,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -752,5 +1284,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%8D
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

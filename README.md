@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,52 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-132/" target="cdt-mirror">【河蟹档案】巴拿马文件泄密，李小琳们还hold得住吗</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%B0%81%E7%A5%9E%E7%A5%AD%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%94">封神祭二十二叔</a>：网友感慨，反腐抓了那么多贪官，怎么物价还疯狂上涨。钱哪里去了？我笑着回答，巴拿马！<em><em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/">Du Chen：震惊世界的巴拿马文件事件到底是怎么一回事？</a>》</em></em></em></em></em><br><a href="https://freeweibo.com/weibo/3960669495419484" target="/weibo/396">2016年04月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%9D%E6%A0%BC%E6%B5%B7%E5%BE%B7">贝格海德</a>：李小琳及其丈夫刘智源拥有某基金，某基金全资拥有某BVI公司，该BVI公司系李父担任中国总理期间注册成立。夫妻二人的瑞士律师称这间BVI公司的资金来源系帮助其他客户从欧洲向中国出口重型机械的业务利润。李的香港特区护照显示其姓名为“刘李小琳”，这使得把李与总理联系起来更加困难。<em><em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%96%E7%95%8C%E7%A6%BB%E5%B2%B8%E8%B5%84%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%A4%96%E6%B3%84%EF%BC%8C%E6%B6%89%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E4%BA%B2/">美国之音<em><em><em><em><em>｜</em></em></em></em></em>世界离岸资产数据外泄，涉中共高层亲属</a>》</em></em></em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-4.jpg?resize=406%2C722" alt="333" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-4.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-4.jpg?w=720 720w" sizes="(max-width: 406px) 100vw, 406px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3960625476643188" target="/weibo/396">2016年04月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%AF%BB%E5%8D%96%E7%94%B5%E5%BD%B1">读卖电影</a>：来自维基百科. <em><em><em><em><em>相关阅读｜《<a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6%E6%B4%A9%E6%BC%8F%E4%BA%8B%E4%BB%B6">维基百科<em><em><em><em><em>｜</em></em></em></em></em>巴拿马文件泄漏事件</a>》；《<a href="http://www.voachinese.com/content/panama-papers-blocked-in-china-20160404/3269588.html">美国之音<em><em><em><em><em>｜</em></em></em></em></em>中国封锁 “巴拿马文件”相关报道</a>》</em></em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-6.jpg?resize=419%2C743" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-6.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-6.jpg?resize=577%2C1024 577w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-6.jpg?w=640 640w" sizes="(max-width: 419px) 100vw, 419px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3960607797786139" target="/weibo/396">2016年04月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40Elliot_Hao">Elliot_Hao</a>：<a href="https://freeweibo.com/weibo/%E5%B7%B4%E6%8B%BF%E9%A6%AC">#巴拿馬#</a>  <em><em><em><em><em>相关阅读｜《<a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%B9%8B%E5%AE%B6%E5%B1%9E%E8%97%8F%E5%AF%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/a-19162432">德国之声<em><em><em><em><em>｜</em></em></em></em></em>“巴拿马文件”之家属藏富的中国领导人</a>》</em></em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-8.jpg?resize=515%2C916" alt="巴拿马" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-8.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-8.jpg?w=640 640w" sizes="(max-width: 515px) 100vw, 515px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3960566257096066" target="/weibo/396">2016年04月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%8A%B1%E8%87%AA%E9%A3%98%E9%9B%B6-%E6%B0%B4%E8%87%AA%E6%B5%8120-dove">花自飘零-水自流20-dove</a>：现在只能截图发了 <em><em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/">【真理部】巴拿马文件相关报道</a>》</em></em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-9.jpg?resize=531%2C944" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-9.jpg?resize=768%2C1365 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-9.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-9.jpg?w=960 960w" sizes="(max-width: 531px) 100vw, 531px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3960532513846806" target="/weibo/396">2016年04月04日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%A5%BD%E7%81%AB%E8%8D%AF">好火药</a>：汤唯？?why ??<em><em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B-%E9%9F%A9%E5%89%A7%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B-%E6%B8%AF%E7%8B%AC/">【真理部】《上瘾》《太阳的后裔》《十年》等</a>》</em></em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-10.jpg?resize=486%2C864" alt="真理部" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-10.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-10.jpg?w=690 690w" sizes="(max-width: 486px) 100vw, 486px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3960195652362825" target="/weibo/396">2016年04月03日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%86%E4%BC%9F%E6%B0%91%E5%BE%8B%E5%B8%88">陆伟民律师</a>：当举报成为职业，举报成为表彰对象时，文革的一幕幕开始接近……<em><em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%A5%BF%E5%8C%97%E5%86%9C%E5%A4%A7%E5%85%B3%E4%BA%8E%E6%8B%9B%E8%81%98%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98%E7%9A%84%E9%80%9A%E7%9F%A5/">【立存此照】西北农大关于招聘网络评论员的通知</a>》</em></em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/333-11.jpg?resize=560%2C390" alt="五毛证书" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/333-11.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/333-11.jpg?w=679 679w" sizes="(max-width: 560px) 100vw, 560px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3959198570165517" target="/weibo/395">2016年03月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%93%81%E5%B8%85%E6%B6%85%E6%A7%834">铁帅涅槃4</a>：SPAM [话筒][话筒][话筒] <em><em><em><em><em>相关阅读｜《<a href="http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20160404-%E9%AB%98%E7%91%9C%E6%9B%B8%E6%88%BF%E9%81%AD%E5%BC%B7%E6%8B%86-%E6%80%92%E5%96%8A%E5%8A%A0%E5%85%A5%E7%B6%AD%E6%AC%8A">法广<em><em><em><em><em>｜</em></em></em></em></em>高瑜書房遭強拆 怒喊加入維權</a>》；《<a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%91%9C">维基百科<em><em><em><em><em>｜高瑜</em></em></em></em></em></a>》</em></em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/333-12.jpg?resize=440%2C782" alt="高瑜" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3959165343119760" target="/weibo/395">2016年03月31日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40LifeTime">LifeTime</a>：《人民日报》突破广电总局的封锁，在Twitter上发了一组没有剪裁的采茶女。[好棒] <em><em><em><em><em>相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160404-%E9%98%B2%E7%81%AB%E5%A2%99%E5%8F%91%E6%98%8E%E8%80%85%E6%96%B9%E6%BB%A8%E5%85%B4%E4%B9%9F%E7%94%A8%E7%BF%BB%E5%A2%99%E6%9C%AF">自由亚洲<em><em><em><em><em>｜</em></em></em></em></em>防火墙发明者方滨兴也用翻墙术</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E9%98%B2%E7%81%AB%E7%89%86%E4%B9%8B%E7%88%B6-%E6%BC%94%E8%AC%9B%E7%BF%BB%E7%89%86%E8%87%AA%E6%89%93%E8%87%89/">墙外楼｜中國大陸防火牆之父 演講翻牆自打臉</a>》</em></em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-2.jpg?resize=553%2C385" alt="人民日报" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-2.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-2.jpg?w=655 655w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3959251271197506" target="/weibo/395">2016年04月01日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-132/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B/?category=18271" rel="tag">《上瘾》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/?category=18271" rel="tag">《十年》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?category=18271" rel="tag">Jasmine Li</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%BA%E6%BA%90/?category=18271" rel="tag">刘智源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">刘李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC/?category=18271" rel="tag">巴拿马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%84%B8/?category=18271" rel="tag">打脸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%B9%8F/?category=18271" rel="tag">李鹏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98/?category=18271" rel="tag">网络评论员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%BF%E7%A8%8E/?category=18271" rel="tag">避税</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%90%E8%97%8F%E8%B4%A2%E5%AF%8C/?category=18271" rel="tag">隐藏财富</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%91%9C/?category=18271" rel="tag">高瑜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E6%97%85%E8%A1%8C%E7%A4%BE%E8%A1%8C%E5%89%8D%E8%AD%A6%E5%91%8A/" target="cdt-mirror">【图说天朝】大陆某旅行社行前警告</a>
+</h2>
+<p><p>@tianyuf：某北京旅行社台湾旅行团的行前 Warning……</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CejhUqeWAAA3nL9.jpg?resize=585%2C439" alt="CejhUqeWAAA3nL9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CejhUqeWAAA3nL9.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CejhUqeWAAA3nL9.jpg?w=600 600w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></p>
+<blockquote><p>1. 我们不是普通的旅游者，我们的一举一动都被台湾政府、媒体及老百姓所关注，所以请大家不要说不利于两岸团结的话语及不利于国家安全的话语。<br>
+2. 大陆旅游团应避免：</p>
+<p>1) 浏览中避开挂伪旗或播放伪歌的景点；<br>
+2) 不能参观台湾所有的政府部门；<br>
+3) 浏览中不能对台湾政府机构拍照；<br>
+4) 不能参观台北的中正纪念堂及拍照；<br>
+5) 不能讲中国与台湾；可以讲大陆和台湾；<br>
+6) 不能讲中国与台北；可以讲北京和台北；<br>
+7) 不帮台湾境管局或任何机构带物品和口信；<br>
+8) 不能带反动光盘及宣传资料回北京。</p>
+</blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E6%97%85%E8%A1%8C%E7%A4%BE%E8%A1%8C%E5%89%8D%E8%AD%A6%E5%91%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86/?category=18271" rel="tag">大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%B8%9C/?category=18271" rel="tag">房东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%85%E8%A1%8C%E7%A4%BE/?category=18271" rel="tag">旅行社</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%81%B7%E6%88%96%E7%BC%96%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%80%85/" target="cdt-mirror">【异闻观止】环球时报 | 偷或编“巴拿马文件”者绝非等闲之辈</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?resize=500%2C250" alt="c130e6ab27faaaa" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?w=604 604w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
@@ -1142,73 +1185,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81-%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95/" target="cdt-mirror">政见 | 一张图读懂中国经济的不确定性，以及如何避免陷入动荡</a>
-</h2>
-<p><p>近几个月，中国经济前景引发越来越多的关注和忧虑。</p>
-<p>2015年8月汇率政策意外调整，引发了人民币对美元汇率持续不断下跌的预期；而股市在经历了上半年疯狂上涨后，也一路下跌，甚至引发全球金融市场的动荡。种种政策的改弦更张更是放大了市场的不确定性，熔断机制推行不久就迅速叫停，是一个代表性的例子。</p>
-<p>与短期波动相伴随的是对于中国经济前景不断加深的悲观。很多学者都将一系列的政策失误归结为中国政府与市场沟通不够，一些高级官员（如证监会副主席方星海在达沃斯）也如此表态。不过，事实真的只是如此吗？</p>
-<p>经济政策不确定性指数或许是个不错的观测指标。这一指数由斯坦福大学和芝加哥大学的几位经济学家编制，大体上说，这个团队做的事就是通过一定算法，将所有相关的媒体文章转化为可以量化的指数，用以衡量市场对于经济政策的不确定性。几位经济学家选择了英文报纸《南华早报》作为分析文章来源，计算了从1995年以来每月的指数。考虑到英文和中文世界的信息或许存在的信息不对称，单靠该指数衡量国内市场状况并不可靠，但这并不妨碍反映市场全貌。</p>
-<p>政见观察员基于这一指数绘制了下图。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%8C%87%E6%95%B0.png?resize=550%2C269" alt="经济政策不确定性指数" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?resize=300%2C147 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?resize=768%2C375 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?resize=1024%2C500 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/经济政策不确定性指数.png?w=1916 1916w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>图中有几个主要的观测点。</p>
-<p>一是在政府换届时（比如2002年和2012年）不确定性指数走高，新领导人上台指数回落。这一届政府上台也不例外，虽然在2013年中曾发生过“钱荒”，或者说是银行流动性危机。</p>
-<p>二是2008年金融危机发生后政策不确定性攀升，这一点中国和其他国家一样。</p>
-<p>第三，并不意外的是，在近半年间，这一指数重新回到高位，这一趋势大约自2015年8月开始，但另一方面，有趣的是，近期的政策不确定性并不是历史最高水平。</p>
-<p>这种不确定性实际上不仅反映了市场对政策本身的不确定性，也隐含了对市场状况本身的不确定性。因为近期中国经济走弱，预期和市场信心的作用就更加明显，因此近期的市场动荡是两者作用的叠加。</p>
-<p>我们可以简单地将问题归咎于政府政策变动与市场沟通不够，未能让市场充分领会政策意图。但是同时，我们应该意识到深层次的原因是，经济基础走弱，市场本身自我实现特征也会更加明显。你悲观，我也悲观，因为我们都这样想，所以果不其然。</p>
-<p>好的沟通是什么？是更好地表达政策意图，向市场传递信号，但同时，由于政府掌握有信息优势，也应该更准确地向市场报告经济运行状况。但政府在这方面的能力极大地受限于缺乏公信力的经济数据。另外，有很多研究证明，政策制定者的确比市场更好地把握经济的状况，但却并不能取代市场主体自己发现市场的机制。而在这方面，更分散、更自由、更不受限的信息传播机制和市场第三方的信息提供，理所应当地应该扮演更重要的角色。<strong>如果我们一直等待一个中央计划者垄断信息提供，那么可见的未来，这种经济动荡还会加剧。</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81-%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7/?category=18271" rel="tag">不确定性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C/?category=18271" rel="tag">经济下行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">经济改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96/?category=18271" rel="tag">经济政策</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%BD%93%E5%A5%B3%E6%9D%83%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/" target="cdt-mirror">东网｜赵思乐：当“女权”成为敏感词</a>
-</h2>
-<p><p>青年女权行动派的新浪微博“女权行动派更好吃”又被封号了，微博申诉客服给出的理由是该微博“发布有害信息”。编辑张累累（化名）感到很冤，因为这个微博除了女权活动和女权文章就不发别的信息。</p>
-<p>据张累累和伙伴的分析，惹祸的可能是最近发出的“广州地铁反性骚扰广告众筹”。虽然这个活动目前除了网络众筹广告费以外没有其他动作，但她们的一位朋友已因此被警察上门。</p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%A5%B3%E6%9D%83%E5%8F%98%E6%95%8F%E6%84%9F%E8%AF%8D%EF%BC%8C%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E8%BF%99%E6%98%AF%E8%A6%81%E5%B0%81%E6%9D%80%E5%A5%B3%E6%9D%83%EF%BC%9F%EF%BC%81/" target="_blank">女权之声｜“女权”变敏感词，新浪微博这是要封杀女权？！</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/" target="_blank">来自习总的妇女节问候：去年有多少人娶媳妇儿？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BE%9D%E7%84%B6%E6%8E%A7%E5%88%B6%E7%9D%80%E5%A5%B3%E6%80%A7%E7%9A%84%E8%BA%AB%E4%BD%93/" target="_blank">纽约时报 | 中国政府依然控制着女性的身体</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%9B%AE%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E5%8F%88%E8%A6%81%E8%A2%AB%E4%BB%A3%E8%A1%A8%E4%BA%86/" target="_blank">【网络民议】目测中国妇女又要被代表了</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E5%A6%87%E5%A5%B3%E6%9D%83%E5%88%A9%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%A2%A6%E7%9A%84%E9%A5%B0%E5%93%81%EF%BC%9F/" target="_blank">德国之声｜长平：妇女权利，中国梦的饰品？</a></li>
-<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/">五女权人士被拘</a>专题</li>
-</ul></blockquote>
-<p>考虑到微博依然是难以舍弃的传播阵地，张累累决定要再重新注册账号“女权行动派吃不完”。女权五姐妹被抓时，女权行动派间相互勉励的话就是“女权行动派是抓不完的。”</p>
-<p>但诡异的事发生在她尝试重新注册的时候，新浪提示“该昵称不允许注册”。张累累又尝试了许多类似昵称，都不允许注册，最后她发现只要输入了“女权”二字，就是不允许注册。</p>
-<p>张累累尝试性地输入“人权”，系统的提示是“该昵称已被注册”，她又在“人权”后面加上“行动派”三个字，系统提示就变成了一个绿色的小勾。</p>
-<p>“‘人权’可以谈，为什么‘女权’就违规？”张累累问道。</p>
-<p>新浪微博一直都是中国官方重点管治的网络言论领域，此番“女权”成为注册敏感词，官方对“女权”采取的警惕和压制可见一斑。</p>
-<p>中国领导人习近平在去年9月主持全球妇女峰会时才向世界宣称：“没有妇女，就没有人类，就没有社会……妇女权益是基本人权。”今年“女权”就遭遇越来越严密的封杀，可见应了希拉里在习近平演讲时发出的推特：“<strong>shameless</strong>”。</p>
-<p>但中国官方是不是“谈女色变”呢？并不。</p>
-<p>凡对中国政治有所了解的人，都知道官方话语中不同词汇的使用有着难以忽视的意涵，可以反映出对一个问题的态度。</p>
-<p>习近平在全球妇女峰会的演讲中，“妇女”出现了51次，“男女平等”出现11次，“妇女权益”和“妇女权利”分别出现了3次和2次，“女权”出现0次，“性别平等”出现0次。这说明什么呢？还需从这些词汇在中国政治和社会中的不同构建来透视。</p>
-<p>“妇女”，是中国共产党官方话语中最规范的对女人的称呼。尽管中共历史上不乏有一定先进思想的妇女工作者，她们注重妇女的主体性和公共地位，但总体而言，“妇女”在中共话语中有着次等的、对象化的、需要帮助的意涵。在中共早期担任领导职务的丁玲，就对官方第一次派她去苏联出席活动是作为“妇女代表”并不乐意。</p>
-<p>“男女平等”是1995年在北京举行世界妇女大会后，作为“基本国策”写进《妇女权益保障法》的。理论上应该是中国政府对妇女政策的基调，但如同“人权”、“法治”也写进过重要文件一样，即使在体制内部讨论中，都会把领导人重提这些词汇作为“进步”的象征。</p>
-<p>另外，“男女平等”这个说法也是相对落后的，因为首先现代社会对性别的认识已经远远超过“男”、“女”两种，其次这个词汇本身就有把“男”排在“女”前面的政治不正确。因此国际上已经普遍用“性别平等”（gender equality）来替换，而中国则属于拒绝替换的国家之一，这其实隐含着中国官方拒绝承认同性恋、跨性别等性少数群体的平等地位。</p>
-<p><strong>如果承认女性仍处于弱势的现实，要追求“男女平等”就需要引入“妇女权益”或“妇女权利”（women’s rights）的概念，但在中国，官方是相当谨慎地使用这一概念的。比如，国务院的相应部门叫做“妇女儿童工作委员会”而不是“权利委员会”。即使不得不使用，或一些专门部门愿意使用，也会优先使用“权益”，而不是“权利”，比如《妇女权益保障法》，全国妇联设有“权益部”。</strong></p>
-<p>这不得不使人联想到，在承认不平等现实，以及实质提升妇女权利方面，中国官方持有拒斥态度。</p>
-<p>值得一提的是，在反思毛时期被国家主义绑架的妇女形象过程中，中国知识分子界引入了“女性主义”这一概念。理论上它跟“女权主义”一样是feminism的翻译，但事实上在中国构建过程中，“女性主义”被赋予了“女性性魅力”、“女性特征”、“母性”等性别化的本质主义和消费主义色彩，而且也弱化了权利概念，以减少对体制的挑战性。这种构建的影响延续至今，不少女性精英会自称更认可“女性主义”而不认可“女权主义”。</p>
-<p>经过毛泽东时期，“妇女”这个概念已经被高度地政治化，与“劳动”、“无产阶级”、“铁姑娘”等话语或形象密切联系。因此文革以后，“妇女”这个词被普遍地嫌弃，在市场和思潮推动下，被“女人”、“女性”、“女生”代替，这些词汇也由此带上了本质和消费色彩。</p>
-<p>然而，“女性”话语的构建，本来以区别于体制为目的，但现在正在被体制收割。比如，全国妇联的官方微博名叫“女性之声”而不是“妇女之声”；在当下官方意识形态诉诸传统价值的情况下，传统的“好女人”形象，也正在被用于社会维稳。</p>
-<p>“女权主义”话语的出现，是非常近期的事。微博上的账号“女权之声”在2009年注册时，在女权群体内部被称为“女权主义在中国的出柜”，这个账号运转至今。</p>
-<p>相对于“女性主义”，“女权主义”在中国的构建过程中，更注重权利诉求，并有明显的行动主义特征，倡导通过女性主体的、由下而上的行动，推动权利平等的实现，参与者以青年女性为主。这些特征决定着女权话语难以见容于体制。</p>
-<p>但这不代表女权诉求完全不可能被体制收割，事实上也有过这样的案例。2014年，由于厦门大学曝出博导性骚扰女学生事件，女权行动者迅速反应，发起了要求高校建立防性骚扰机制的行动，反响不俗。很快，教育部发出来了被称为“红七条”的《关于建立健全高校师德建设长效机制的意见》，其中有一条是“不得对学生实施性骚扰或与学生发生不正当关系”。</p>
-<p>然而，“红七条”禁止的前两条行为是“损害国家利益，损害学生和学校合法权益的行为”以及“在教育教学活动中有违背党的路线方针政策的言行”。可以说，“红七条”主要是一个对高校教师加强控制的文件，只是参考了女权运动的呼声以增强合法性。</p>
-<p>而且教育部下达“红七条”的行为有明显的父权和专制色彩，与女权的诉求并不相符，也不见得真的能起到反性骚扰的效果——如同中国的法律，《刑法》总是在发挥作用，而《妇女权益保障法》则长期失效，体制只使用它想使用的规定。</p>
-<p>对于这种“收割”，在现实环境下是难以避免的，只是女权运动需有所警惕，至少不将之作为自己的“成果”予以肯定，而应继续以自己的方式推进自己的议题。事实上，当下中国的女权运动也正是如此前行。</p>
-<p><strong>总而言之，在体制看来，妇女议题不是不可以谈，但只能以党的方式、用党的话语、由党来谈。在体制眼中，妇女的权利从来不属于她们自身。所幸的是，中国的女权运动者在越来越明了这一现实的情况下，并未离开战场。</strong></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%BD%93%E5%A5%B3%E6%9D%83%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%A5%B3%E6%9D%83%E4%BA%BA%E5%A3%AB%E8%A2%AB%E6%8B%98/?category=18271" rel="tag">五女权人士被拘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">女权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1220,7 +1196,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1230,5 +1206,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

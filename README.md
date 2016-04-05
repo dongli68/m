@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/" target="cdt-mirror">【CDTV】香港金像奖最佳电影《十年》</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0.jpg?resize=656%2C369" alt="C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0.jpg?w=656 656w" sizes="(max-width: 656px) 100vw, 656px" data-recalc-dims="1"></p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%AC%E5%85%831874-%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%EF%BC%9A%E4%B8%80%E9%83%A8%E8%AE%B2%E8%BF%B0%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%A7%91%E5%B9%BB%E7%89%87/" target="_blank">公元1874 | 《十年》：一部讲述和谐社会的科幻片</a></p>
+<p>《十年》是一部香港独立导演制作的短片集，由五个故事组成。这部电影在2016年4月3日的香港电影金像奖上，拿到了最佳电影。五个故事都有一个主题——未来的香港是什么样子。《浮瓜》讲述北京为在港通过《国安法》，指点港府和建制派制造一场恐怖袭击，“越乱越好”；《冬禅》以制作标本的隐喻故事讲述保存记忆、对抗城市推土机，但主角最终却只能以自己生命作无声抗议；《方言》讲一位香港的士司机因为说不好普通话，在普通话已成主流的香港中逐渐被边缘化，甚至难以与儿子沟通；《自焚者》以仿纪录片形式，记录某个时空为香港独立抗争的绝食乃至自焚者；最后的《本地蛋》中，香港仿若文革年代，孩童身穿红卫兵式装束，在全城检查违禁文字，知识分子秘密开读书会，“本地”则成了违禁词，连小店卖“本地”蛋也被指控……</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kl5ymc23j20ge0nmq4g.jpg?resize=550%2C792" alt="6764cadegw1f2kl5ymc23j20ge0nmq4g"></p>
+<p><strong>该片的几种下载方式</strong></p>
+<p>ed2k://|file|《十年》BT种子.zip|630083|BF6E98659A177E33D73BFBB8A3EE22DC|/</p>
+<p>ed2k://|file|Ten.Years.2015.1080P.mp4|1945064624|C0A5B82BF806469FDBD7D2F97680EC5B|h=L25MCPC5AUWTM7VLKDQ2SLLBOF4TE7YL|/</p>
+<p><a href="https://www.dropbox.com/s/0pcf73tkb39wnak/Ten.Years.2015.1080P.mp4?dl=0" target="_blank">https://www.dropbox.com/s/0pcf73tkb39wnak/Ten.Years.2015.1080P.mp4?dl=0</a></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%B9%B4/?category=18271" rel="tag">十年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8C%96/?category=18271" rel="tag">大陆化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/vox%EF%BD%9C%E4%B8%80%E7%BB%84%E6%BC%AB%E7%94%BB%E7%9C%8B%E6%87%82%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">Vox｜一组漫画看懂巴拿马文件泄露事件</a>
 </h2>
 <p><p>【编者注】本文由中国数字时代编辑翻译自 <em>Vox </em>文章<em> <a href="http://www.vox.com/2016/4/4/11361780/the-panama-papers-cartoon" target="_blank">The Panama Papers leak, explained with an adorable comic about piggy banks</a></em>；请点击原文链接阅读完整报道。</p>
@@ -1161,26 +1183,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E8%BF%91%E4%B8%A4%E4%B8%87%E7%BD%90%E5%81%87%E5%86%92%E5%A9%B4%E5%84%BF%E5%A5%B6%E7%B2%89%E6%B5%81%E5%85%A5%E5%A4%9A%E7%9C%81-%E7%BD%91%E6%B0%91%E6%8A%B1/" target="cdt-mirror">自由亚洲 | 近两万罐假冒婴儿奶粉流入多省 网民抱怨国人竞相缺德</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8B%E5%8D%8812.16.26.png?resize=408%2C619" alt="Screen Shot 2016-04-02 at 下午12.16.26" data-recalc-dims="1"><br><span>疑犯涉生产1.7万余罐假冒奶粉，包括收购廉价或非婴儿奶粉，灌装生产假冒著名品牌奶粉，销售予郑州、徐州、长沙等地经销商。（资料图片/AFP）</span></p>
-<p>中国最高检察院官网4月1日公布，上海市公安部门去年9月依法查处一宗跨全国多省市仿冒品牌婴儿奶粉案，疑犯涉生产1.7万余罐假冒奶粉，包括收购廉价或非婴儿奶粉，灌装生产假冒著名品牌奶粉，销售予郑州、徐州、长沙等地经销商。上海市检察院批捕案中6名疑犯。事件再度引起网民抱怨，称中国人正争先恐后的竞相缺德，为的就是某一天自己也能不再缺钱。</p>
-<p>据中国最高检察院官网数据显示，今年1月8日，公安机关对涉案的疑犯正式报请批准逮捕。疑犯陈某、唐某涉组织他人仿制假冒品牌奶粉罐、商标标签，收购低档、廉价或非婴儿奶粉，非法加工罐装出售，共计生产销售1.7万余罐假冒奶粉，并通过郑州、徐州、长沙、兖州等地经销商，进一步销售到全国多个省市，非法获利将近200万元人民币；疑犯谷某、郑某涉明知他人制假，仍为他人生产假冒品牌奶粉罐；疑犯潘某、吴某则涉参与假奶粉的灌装生产，并提供用于制假的低档廉价奶粉。上海检察院并于1月15日依法对上述6人作批捕决定，并对1名疑犯作存疑不捕决定，加强对在逃人员的追捕力度。</p>
-<p>事件引发网民关注，在网易新闻网，上述消息受到十多万人关注及数千人评论。网易北京卫星电话网友发帖称，必须要对那些敢于在食品和药品上作假的人，实施毁灭性打击，决不能姑息。如果不让那些人从心底里感到颤抖和害怕，就不能从根本上抑制住坑人的食品及药品的继续出现。另有网民调侃道，中国人抗体强，百毒不侵。1.7万罐不多，全国14亿人，算一下买到的概率比中彩票还要低。还有网民称，早起，买根地沟油油条，切个苏丹红咸蛋，来杯参了三聚氰胺的牛奶。中午，瘦肉精猪肉炒农药韭菜，再来份人造鸡蛋，卤注胶牛肉，泡壶香精茶叶；下班，买条避孕药鱼，开瓶甲醇勾兑酒，吃个硫磺馒头；晚上，买瓶含氯的可乐，难受了就吃几粒“皮革胶囊”发现自己居然还神奇活着，恭喜你，你是中国人。</p>
-<p>2008年被媒体揭发的聚氰胺毒奶粉曾经造成27万名中国儿童泌尿系统感染，严重的患肾结石，至少有12位婴幼儿因肾结石死亡。其中一位因食用三鹿奶粉致死的患儿家长唐琳4月2日对本台说，食品安全事故屡屡发生，令他们非常无奈：“我们国家这个问题很严重，经常在发生。但是这个问题要去阻止他发生，在我们国家很难，官商勾结的问题很严重。政府打击他们的犯罪力度，太不够了，真的是防不胜防”。</p>
-<p>对于去年9月就发现的假奶粉案，直到今年4月才公布。独立评论人老徐在其个人微博称，这种新闻令人揪心和气愤：“去年查处的案子现在才曝光，到底是哪个牌子被假冒了？假冒奶粉进入哪些地方了？卖出了多少？婴幼儿食用以后是否会有不良反应？质监部门怎么处理的？一概不予交代，让老百姓一头雾水。假奶粉层出不穷，到底是什么原因？老百姓今后还能相信什么？”</p>
-<p>杭州自由撰稿人傅国涌表示极度失望。他对本台记者说：“中国的事情已经到了无语的地步，我觉得已经没有什么好说了，说都没有意义了。我想不予置评了，中国太可怕了，太可怜了”。</p>
-<p>记者：那你们平时吃东西要怎么小心？</p>
-<p>回答：没有办法，无语等死吧。</p>
-<p>网民“向日葵大战猫头鹰”感叹道，中国人一度很缺钱，现在少数人不缺了，而多数人还缺；中国人曾经不缺德，现在多数人缺了，只有少数人还不缺。不缺钱中的少数缺德的人，靠沾、靠贪、靠坑、靠蒙、靠拐、靠骗、靠偷、靠抢等先富了；而缺钱但大部分不缺德的多数人却因为没权力贪，没条件沾，没办法坑，没水平蒙，没技术拐，没招数骗，没勇气偷，没胆量抢，还很穷。所以在先富起来的那部分人的示范、引领下，中国人正争先恐后的竞相缺德，为的就是某一天自己也能不再缺钱。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E8%BF%91%E4%B8%A4%E4%B8%87%E7%BD%90%E5%81%87%E5%86%92%E5%A9%B4%E5%84%BF%E5%A5%B6%E7%B2%89%E6%B5%81%E5%85%A5%E5%A4%9A%E7%9C%81-%E7%BD%91%E6%B0%91%E6%8A%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">假奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1192,7 +1194,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1202,5 +1204,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,79 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/vox%EF%BD%9C%E4%B8%80%E7%BB%84%E6%BC%AB%E7%94%BB%E7%9C%8B%E6%87%82%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">Vox｜一组漫画看懂巴拿马文件泄露事件</a>
+</h2>
+<p><p>【编者注】本文由中国数字时代编辑翻译自 <em>Vox </em>文章<em> <a href="http://www.vox.com/2016/4/4/11361780/the-panama-papers-cartoon" target="_blank">The Panama Papers leak, explained with an adorable comic about piggy banks</a></em>；请点击原文链接阅读完整报道。</p>
+<p><strong>假设说你把自己的零钱存在衣柜架上的储蓄罐里。</strong></p>
+<p><strong><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png" rel="attachment wp-att-434134"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?resize=550%2C327" alt="piggybank01" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?resize=300%2C178 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?resize=768%2C456 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>但你妈妈总是动不动就来检查存取情况。</strong></p>
+<p><strong>你很不爽。</strong></p>
+<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png" rel="attachment wp-att-434133"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=550%2C330" alt="piggybank02" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=300%2C180 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=768%2C461 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?w=794 794w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>然后你准备了另一个储蓄罐…</strong></p>
+<p> </p>
+<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png" rel="attachment wp-att-434132"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?resize=550%2C293" alt="piggybank03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?resize=768%2C409 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?w=825 825w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>…带到强尼家。</strong></p>
+<p><strong><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png" rel="attachment wp-att-434131"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?resize=550%2C305" alt="piggybank04" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?resize=300%2C166 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?resize=768%2C426 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?w=847 847w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>强尼妈妈很忙，没空来检查。所以你能够把储蓄罐秘密地藏在那里，没人会来过问。</strong></p>
+<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png" rel="attachment wp-att-434130"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?resize=550%2C305" alt="piggybank05" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?resize=300%2C166 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?resize=768%2C426 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?w=847 847w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>小区里的其他小朋友都觉得这个主意很棒。</strong></p>
+<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png" rel="attachment wp-att-434129"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?resize=550%2C288" alt="piggybank06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?resize=300%2C157 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?resize=768%2C402 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?w=858 858w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>所以他们也都把自己的储蓄罐藏到了强尼的衣柜里。</strong></p>
+<p><strong><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?resize=550%2C169" alt="piggybank07" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?resize=300%2C92 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?resize=768%2C235 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?w=858 858w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></strong></p>
+<p><strong>但有一天，强尼妈妈发现了这些储蓄罐。</strong></p>
+<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png" rel="attachment wp-att-434127"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?resize=550%2C352" alt="piggybank08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?resize=300%2C192 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?resize=768%2C491 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?w=873 873w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>她很生气，打电话给所有小朋友的家长，告诉他们这些孩子背着家长偷偷藏钱。</strong></p>
+<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png" rel="attachment wp-att-434126"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?resize=550%2C300" alt="piggybank09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?resize=300%2C164 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?resize=768%2C419 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?w=786 786w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>今天的文件泄露事件基本就是这么回事。很多重要的、有权势的人物都把自己的储蓄罐藏在了强尼在巴拿马的家。</strong></p>
+<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png" rel="attachment wp-att-434125"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?resize=550%2C332" alt="piggybank10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?resize=300%2C181 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?resize=768%2C464 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?w=795 795w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>当然，不是每个藏钱的人都是因为做了坏事。比如，你只是不想你妈妈侵犯你的隐私。</strong></p>
+<p><strong>但你的邻居迈克尔是把从他妈妈包里偷来的钱藏在强尼的衣柜里。雅各布则是因为偷了其他小朋友的零花钱，不想被家长问他这些钱是哪儿来的。</strong></p>
+<p><strong>我们很快就会知道谁在做坏事，谁是清白的。</strong></p>
+<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png" rel="attachment wp-att-434124"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?resize=550%2C162" alt="piggybank11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?resize=300%2C88 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?resize=768%2C226 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?w=786 786w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>但每个在强尼家藏钱的人还是都惹了麻烦，因为秘密储蓄罐是不被允许的。</strong></p>
+<p><strong><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png" rel="attachment wp-att-434123"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?resize=550%2C413" alt="piggybank12" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?w=786 786w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
+<p><strong>所以记者们正在整理这些文件，想要搞清在强尼巴拿马的家里到底发生了什么性质的活动——是合法的、合理的、还是违法的。Vox 巴拿马文件专题报道<a href="http://www.vox.com/2016/4/4/11361436/panama-papers-list-leaks-fonseca-names-politicians" target="_blank">点此</a>。</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/vox%EF%BD%9C%E4%B8%80%E7%BB%84%E6%BC%AB%E7%94%BB%E7%9C%8B%E6%87%82%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%AD%E4%BD%9C%E4%BA%BA%EF%BC%9A%E6%88%91%E7%9A%84%E5%85%84%E5%BC%9F%E9%99%88%E4%BA%91%E9%A3%9E%E5%92%8C%E4%BB%96%E7%9A%84%E7%B2%BE%E7%A5%9E/" target="cdt-mirror">谭作人：我的兄弟陈云飞和他的精神</a>
+</h2>
+<p><p>又是清明时节，愁字涌上心头。</p>
+<p>去年清明，我的兄弟陈云飞因为去新津和双流，为当年北京罹难的学友吴国峰和肖杰扫墓，结果把自己扫进了牢笼。兄弟坐牢，已经整整一年了。</p>
+<p>一年来，很少得到兄弟的音讯。不知道这位长年吃素，却敢于舍身饲虎，自称驯兽师的憨直兄弟，在兽笼之中挨打乎？受罚乎？饱暖乎？笑口常开乎？由于不知，倍加思念。思念无涯，愁绪无边。<br>
+也正是因为不知，兄弟的音容笑貌，日渐清晰，终日挥之不去。</p>
+<p>我和云飞兄弟，结识于成都读书会。2007年，由于香港某大神的荒谬无知，我提笔抒发了久久郁结于心的把酒扭丝情结，写下了《见证最后的美丽——一个目击者的广场日记》。5月27日，《广场日记》发表。谁知，书友们掌声未息，突见《成都晚报》惊现十四大字：向坚强的六四遇难者母亲致敬！平地一声雷！书友们纷纷奔走相告：快，快买报纸去！</p>
+<p>几天后，成都读书会的创始人和总召集人周钰樵老师，把陈犯云飞推到了我们面前。原来，这位广告杰作的作者，竟是平日少言寡语，在读书会“潜伏”已经一年多，热衷于为众人端茶倒水的陈云飞兄弟！</p>
+<p>从此，我的把酒扭丝金兰谱上，多了一位兄弟。</p>
+<p>云飞成为我的兄弟，不仅是因为广场情结，更是因为，他坚强地继承了，勇敢地发挥了，智慧地表达了，创造性的发展了广场精神，与屠夫吴淦等仁人志士一起，共同成为新时代的抵抗精神和政治行为艺术的一代宗师。云飞发起六四献血之前，我们的精神血脉，已经联结在一起。</p>
+<p>《广场日记》发表两年后，我终于因为实施5.12校难公民独立调查，以及抵制3200万吨炼化一体化基地落户彭州，被周永康集团一举拿下，判刑五年。在我住宾馆吃皇粮期间，陈犯云飞，反而更加折腾，且日益精进，把他的政治反对精神和政治行为艺术，播撒到整个维权领域。据说，当年云飞和读书会书友来我的看守所探监，拿出90元，要求警方找补1元，以便赶车回去。另一书友拿出65元，提出同样要求。两人的配合表演，使与世隔绝的我，接收到了把酒扭丝的明确信息。</p>
+<p>云飞最喜欢说的一句话是，杀猪杀颈子杀屁眼儿，各有各的杀法。这是他的方法论。不拘一格，随机行事，本是这个多元时代的行为方式之一。只要你有原则，有立场，有守持，你就不必拘泥于表现形式，也不必强求统一规定政治正确动作优美。</p>
+<p>我与云飞，虽然业务方向和行事方法不尽相同，精神却一脉相承。这个精神，就是发轫于五四.六四的宪政民主理念下的奉献精神，以及，为实现民主自由而不可或缺的实干精神和勇敢精神。在实干和勇敢精神方面，云飞强我若干倍，或者，几十倍。因为，在短兵相接贴身近战中，云飞总能淡定，从容，笑对暴力而无限坚持。而这样直接的警民接触，云飞经历了几十次却从无惧色，令我敬佩。这些行为，说到驯兽虽有些夸张，称之为相互驯化，互相适应，亦己亦人，共生共存，倒也贴切。正因为此，云飞的故事和口碑，在中国特色的B面，发散着独特的人性的光辉，广播海内。</p>
+<p>云飞与我，同为成都秋雨之福归正教会的慕道友。每次查经结束，我与他总要去附近一家绵阳米粉店午餐。我是肉食动物，要求加肉䬰，云飞却把他碗里的肉䬰给我，还劝我节约。其实我知道，兄弟的填狱之心，早已决志。我说，你刚出来，消停几天行不？他说不行，那是小奖。把坐牢视为奖励，这种超然、勇敢，以及对政治黑暗的蔑视，能有几人？</p>
+<p>最近传出消息，云飞兄弟准备在即将开始的庭审之中“打瞌睡”，以此来抗议政治司法的不公不正。我在心里笑了，好兄弟，我熟悉你，不会屈服不会溜号的你，既是广场精神的传承，更是广场精神的升级。</p>
+<p>这使我想起一批又一批八九人，以及一波又一波的正在迎面而来的后八九人，他们尤如桃汛鱼群，一次又一次地溯流而上，勇跃龙门，只为产下理想和精神的种子，然后静静地死去。他们的产卵场，就是牢房。</p>
+<p>也许他们，不一定都能看到天亮，而在他们心中，早已是黎明。</p>
+<p>想到这一点，清明的愁云一扫而空。</p>
+<p>我笑在心里，说，云飞弟兄，上帝祝福你！</p>
+<p>2016.4.5. 清明</p>
+<p>编辑注：原文中留有向陈云飞家庭捐助的方式</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%AD%E4%BD%9C%E4%BA%BA%EF%BC%9A%E6%88%91%E7%9A%84%E5%85%84%E5%BC%9F%E9%99%88%E4%BA%91%E9%A3%9E%E5%92%8C%E4%BB%96%E7%9A%84%E7%B2%BE%E7%A5%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">民主人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%AD%E4%BD%9C%E4%BA%BA/?category=18271" rel="tag">谭作人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">陈云飞</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-132/" target="cdt-mirror">【河蟹档案】巴拿马文件泄密，李小琳们还hold得住吗</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -158,7 +228,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?category=18271" rel="tag">Jasmine Li</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F/?category=18271" rel="tag">习近平家族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%90%A8%E5%85%8B%C2%B7%E5%86%AF%E8%B5%9B%E5%8D%A1%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">莫萨克·冯赛卡信托公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="cdt-mirror">【真理部】巴拿马文件相关报道</a>
 </h2>
@@ -1111,80 +1181,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9D%8E%E9%93%B6%E6%B2%B3-%E7%8E%8B%E5%B0%8F%E6%B3%A2%EF%BC%9A%E6%9C%89%E4%B8%80%E4%BA%9B%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%AF%8F%E4%B8%80%E5%A4%A9%E9%83%BD%E6%98%AF%E6%84%9A%E4%BA%BA%E8%8A%82/" target="cdt-mirror">李银河 | 王小波：有一些时期，每一天都是愚人节</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：本文转自李银河微信公众号，选自王小波《思维的乐趣》。</strong></p>
-<blockquote><p>有一些时期，每一天都是愚人节。我在这样的气氛里长大，有一天，上级号召大家去插队、到广阔天地里，“滚一身泥巴，炼一颗红心”，我就去了，直到现在也没有认真考较一下，自己的心脏是否因此更红了一些。</p></blockquote>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8A%E5%8D%887.52.00.png?resize=448%2C300" alt="Screen Shot 2016-04-02 at 上午7.52.00" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.52.00.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.52.00.png?w=448 448w" sizes="(max-width: 448px) 100vw, 448px" data-recalc-dims="1"><br><span>王小波</span></p>
-<p>积极的结论</p>
-<p>（一）</p>
-<p>我小的时候，有一段很特别的时期。有一天，我父亲对我姥姥说，一亩地里能打三十万斤粮食，而我的外祖母，一位农村来的老太大，跳着小脚叫了起来：“杀了俺俺也不信”。她还算了一本细帐，说一亩地上堆三十万斤粮，大概平地有两尺厚的一层。当时我们家里的人都攻击我姥姥觉悟太低，不明事理。我当时只有六岁，但也得出了自己的结论：我姥姥是错误的。事隔三十年，回头一想，发现我姥姥还是明白事理的。亩产三十万斤粮食会造成特殊的困难，那么多的粮食谁也吃不了，只好堆在那里，以致地面以每十年七至八米的速度上升，这样的速度在地理上实在是骇人听闻：几十年后，平地上就会出现一些山峦，这样水田就会变成旱田，旱田则会变成坡地，更不要说长此以往，华北平原要变成喜玛拉雅山了。</p>
-<p>我十几岁时又有过一段很特别的时期。我住的地方（我家在一所大学里）有些大学生为了要保卫党中央、捍卫毛主席而奋起，先是互相挥舞拳头，后用长矛交战，然后就越打越厉害。我对此事的看法不一定是正确的，但我认为，北京城原来是个很安全的地方，经这些学生的努力之后，在它的西北郊出现了一大片枪炮轰鸣的交战地带，北京地区变得带有危险性，故而这种做法能不能叫作保卫，实在值得怀疑。有一件事我始终想知道：身为二十世纪后半期的人，身披铠甲上阵与人交战，白刀子进红刀子出，自我感觉如何？当然，我不认为在这辈子里还能有机会轮到我来亲身体验了，但是这些事总在我心中徘徊不去。等到我长大成人，到海外留学，还给外国同学讲起过这些事，他们或则直愣愣地看着我，或则用目光寻找台历——我知道，他们想看看那一天是不是愚人节。当然，见到这种反应，我没兴趣给他们讲这些事了。</p>
-<p>说到愚人节，使我想起报纸上登过的一条新闻：国外科学家用牛的基因和西红柿做了一个杂种，该杂种并不到处跑着吞吃马粪和腐殖质，而是老老实实长在地上，结出硕大的果实。用这种牛西红柿做的番茄酱带有牛奶的味道，果皮还可以做鞋子。这当然是从国外刊物的愚人节专号上摘译的，像这样离奇的故事我也知道不少，比方说，用某种超声波哨子可以使冷水变热，用砖头砌的炉灶填上煤末子就可以炼出钢铁；但是这些故事不是愚人节的狂想，而是我亲眼所见。有一些时期，每一天都是愚人节。我在这样的气氛里长大，有一天，上级号召大家去插队、到广阔天地里，“滚一身泥巴，炼一颗红心”，我就去了，直到现在也没有认真考较一下，自己的心脏是否因此更红了一些。这当然也是个很特别的时期。消极地回顾自己的经历是不对的，悲观、颓废、怀疑都是不对的。但我做的事不是这样，我正在从这些事件中寻找积极的结论，这就完全不一样了。</p>
-<p>（二）</p>
-<p>我插队不久就遇到了这样一件事，有一天，军代表把我们召集起来，声色俱厉地喝斥道：你们这些人，口口声声要保卫毛主席，现在却是毛主席保卫了你们，还保卫了红色江山，等等。然后就向我们传达说，出了林彪事件，要我们注意盘查行人（我们在边境上）。散了会后，我有好一段时间心中不快——像每个同龄人一样，誓死保卫毛主席的口号我是喊过的。当然，军代表比我们年长，又是军人，理当在这件事上有更多的责任， 这是问题的一个方面；另一方面，知青娃子实在难管，出了事先要昨唬我们一顿，这也是军代表政治经验老到之处。但是这些事已经不能安慰我了， 因为我一向以为自己是是个老实人，原来是这样的不堪信任——我是一个说了不算的反复小人！说了要保卫毛主席，结果却没有保卫。我对自己要求很严，起码在年轻时是这样的。经过痛苦的反思，我认为自己在这件事上是无能为力的，假如不是当初说了不负责任的话，现在就可以说是清白无辜了。我说过自己正在寻找积极的结论，现在就找到了一个。假设我们说话要守信义，办事情要有始有终，健全的理性实在是必不可少。</p>
-<p>有关理性，哲学家有很多讨论，但根据我的切身体会，它的关键是：凡不可信的东西就不信，像我姥姥当年对待亩产三十万斤粮的态度，就叫做有理性。但这一点有时候不容易做到，因为会导致悲观和消极，从理性和乐观两样东西里选择理性颇不容易。理性就像贞操，失去了就不会再有；只要碰上了开心的事，乐观还会回来的。不过这一点很少有人注意到。从逻辑上说，从一个错误的前提什么都能推出来；从实际上看，一个扯谎的人什么都能编出来。所以假如你失去了理性，就会遇到大量令人诧异的新鲜事物，从此迷失在万花筒里，直到碰上了钉子。假如不是遇到了林彪事件，我至今还以为自己真能保卫毛主席哩。</p>
-<p>我保持着乐观、积极的态度，起码在插队时是这样的。直到有一天患上了重病，加上食不果腹，病得要死。因此我就向领导要求回城养病。领导上不批准，还说我的情绪有问题。这使我猛省到，当时的情绪很是悲伤。不过我以为人生了病就该这样。旧版《水浒传》上，李逵从梁山上下去接母亲，路遇不测，老母被老虎吃了。他回到山寨，对宋江讲述了这个悲惨的故事之后，书上写着“宋江大笑”。你可以认为宋江保持了积极和乐观的态度， 不过金圣叹有不同的意见， 他把那句改成了“李逵大哭”。我同意金圣叹的意见，因为人遇到了不幸的事件就应该悲伤，哪有一天到晚呵呵傻笑的。当时的情形是这样的：虽然形势一片大好 （这一点现在颇有疑问） ，但我病得要死，所以我觉得自己有理由悲伤。这个故事这样讲，显得有点突兀，应当补充些缘由：伴随着悲伤的情绪，我提出要回城去养病；领导上不批准，还让我高兴一点，“多想想大好形势”。现在想起来情况是这样：四人帮倒行逆施，国民经济行将崩溃，我个人又病到奄奄一息，简直该悲伤死才好。不过我认为，当年那种程度的悲伤就够了。</p>
-<p>我认为，一个人快乐或悲伤，只要不是装出来的，就必有其道理。你可以去分享他的快乐，同情他的悲伤，却不可以命令他怎样怎样，因为这是违背人类的天性的。众所周知，人可以令驴和马交配，这是违背这两种动物的天性的，结果生出骡子来，但骡子没有生殖力，这说明违背天性的事不能长久。我个人的一个秘密是在需要极大快乐和悲伤的公众场合却达不到这种快乐和悲伤应有的水平，因而内心惊恐万状，汗下如雨。一九六八年国庆时，我和一批同学拥到了金水桥畔，别人欢呼雀跃，流下了幸福的眼泪，我却恨不能找个地缝钻下去。还有一点需要补充的，那就是作为一个男性，我很不容易晕厥，这更加重了我的不幸。我不知道这些话有没有积极意义，但我知道，按当年的标准，我在内心里也是好的、积极向上的，或者说，是“忠”的，否则也不会有勇气把这些事坦白出来。我至今坚信，毛主席他老人家知道了我，一个十七岁的中学生的种种心事，必定会拍拍我的脑袋说：好啦，你能做到什么样就做到什么样罢，不要勉强了。但是这样的事没有发生 （恐怕主要的原因是我怕别人知道这些卑鄙的心事，把它们隐藏得很深，故而没人知道），所以我一直活得很紧张。西洋人说，人人衣柜里有一具骷髅，我的骷髅就是我自己；我从不敢想像自己当了演员，走上舞台，除非在做噩梦时。这当然不是影射什么，我只是在说自己。</p>
-<p>有关感情问题，我的结论如下，在这方面我们有一点适应能力。但是不可夸大这种能力，自以为想笑就能笑、想哭就能哭。假如你扣我些工资，我可以不抱怨；无缘无故打我个右派，我肯定要怀恨在心。别人在这方面比我强，我很佩服，但我不能自吹说达到了他的程度。我们不能欺骗上级，误导他们。这是老百姓应尽的义务。</p>
-<p>（三）</p>
-<p>麦克阿瑟将军写过一篇祈祷文，代他的儿子向上帝讨一些品行。各种品行要了一个遍，又要求给他儿子以幽默感。假设别的东西不能保持人的乐观情绪，幽默感总能。据我所见，我们这里年轻人没有幽默感，中老年人倒有。在各种讨论会上，时常有些头顶秃光光的人，面露蒙娜丽莎式的微笑，轻飘飘地抛出几句，让大家忍俊不禁。假如我理解正确的话，这种幽默感是老奸巨猾的一种，本身带有消极的成分。不要问我这些人是谁，我不是告密者；反正不是我，我头顶不秃。我现在年登不惑，总算有了近于正常的理性；因为无病无灾，又有了幽默感，所以遇到了可信和不可信的事，都能应付自如。不过，在我年轻的时候，既没有健全的理性，又没有幽默感，那是怎么混过来的，实在是个大疑问。和同龄人交流，他们说，自己或则从众，或则听凭朴素的感情的驱动。这种状态，或者可以叫作虔诚。</p>
-<p>但是这样理解也有疑问。我见到过不少虔信宗教的人，人家也不干荒唐事。最主要的是：信教的人并不缺少理性，有好多大科学家都信教，而且坚信自己的灵魂能得救；人家的虔诚在理性的轨道之内，我们的虔诚则带有不少黑色幽默的成分，如此看来，问题不在于虔诚。必须指出的是，宗教是在近代才开始合理的，过去也干过烧女巫、迫害异端等勾当。我们知道，当年教会把布鲁诺烧死了。就算我虔信宗教，也不会同意这种行为——我本善良，我对这一点极有把握，所以肯定会去劝那些烧人的人：诸位，人家只不过是主张曰心说，烧死他太过分了。别人听了这样的话，必定要拉我同烧，这样我马上会改变劝说的方向，把它对准布鲁诺：得了吧，哥们儿，你这是何苦？去服个软儿吧。这就是我年轻时做人的态度，这当然算不上理性健全，只能叫作头脑糊涂；用这样的头脑永远也搞不清楚曰心说对不对。如果我说中国人里大多数都像我，这肯定不是个有积极意义的结论。我只是说我自己，好像很富柔韧性。因为我是柔顺的，所以领导上觉得让我怎样都成，甚至在病得要死时也能乐呵呵。这是我的错误。其实我没那么柔顺。</p>
-<p>我的积极结论是这样的：真理直率无比，坚硬无比，但凡有一点柔顺，也算不了真理。安徒生有一篇童话（光荣的荆棘路），就是献给这些直率、坚硬的人，不过他提到的全是外国人。作为中国的知识分子，理应有自己的榜样。此刻我脑子里浮现出一系列名字：陈寅恪教授，冯友兰教授，等等。说到陈教授，我们知道，他穷毕生精力，考据了一篇很不重要的话本，《再生缘》。想到这件事，我并不感到有多振奋，只是有点伤感。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9D%8E%E9%93%B6%E6%B2%B3-%E7%8E%8B%E5%B0%8F%E6%B3%A2%EF%BC%9A%E6%9C%89%E4%B8%80%E4%BA%9B%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%AF%8F%E4%B8%80%E5%A4%A9%E9%83%BD%E6%98%AF%E6%84%9A%E4%BA%BA%E8%8A%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E4%BA%BA%E8%8A%82/?category=18271" rel="tag">愚人节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B0%8F%E6%B3%A2/?category=18271" rel="tag">王小波</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BD%93%E6%88%91%E8%AF%B4%E4%B8%8D%EF%BC%8C%E9%82%A3%E5%B0%B1%E6%98%AF%E4%B8%8D/" target="cdt-mirror">微思客 | 当我说“不”，那就是“不”</a>
-</h2>
-<p><p>作者：孙金昱</p>
-<blockquote><p>编者按：娱乐圈总是不乏新闻，吴奇隆与刘诗诗的婚礼刚过，包贝尔和包文婧婚礼再成焦点。不过，这场婚礼吸引大众目光的并非新娘新郎，而是伴娘柳岩。</p>
-<p>这位走性感风的女星在婚礼上被几位伴郎拉着加入“对抗下水”的游戏，如果不是贾玲和几位女士出手相助，估计会被成功扔下水，我们也能够想象，媒体随后会发出大量柳岩湿身照、走光照。事发当天，众多网友谴责伴郎团这种行为令人失望，和那些频频出现的低俗闹婚没有本质区别，而另一边则是明星的粉丝和其他围观网友表示只是“游戏”“只是玩笑”“没有什么大不了”。</p>
-<p>这件“没有什么大不了”的事件背后，却事关所有人权利的底线——拒绝的权利。</p></blockquote>
-<p>昨天，柳岩哭着道歉，但是这一道歉似乎将争论双方的冲突升级。一方表示，为什么是受害者道歉，这个世界怎么了？另一方则表示，柳岩道歉了，你们的愤怒真愚蠢。</p>
-<p>昨天，包贝尔也在微博向柳岩和伴郎团同时道歉，表示婚礼的一个片段被误读扩散，贴上恶俗的标签，才使双方受到攻击谩骂。</p>
-<p>明星的不同表态、各自经济公司的利益纠葛、公关团队的宣传策略、粉丝的复杂情感、路人的围观似乎又将事件推向一个“说不清楚”的方向，最后只能含糊地评论一句“贵圈真乱”。可是，这个事情还真的值得好好说清楚。</p>
-<p><strong>湿身的伴娘：一个玩笑的性质有多严重？</strong></p>
-<p>“只是游戏”“只是玩笑”“没有恶意也没有不尊重”，这是我们最常听到的对伴郎团队的辩护。但是，这个辩护有效吗？</p>
-<p>没有，理由很简单，对于大多数人而言，他们一旦认识到事情的性质和其严重性，是不会去做的。在这个婚礼游戏中道理是一样的，如果伴郎团意识到了问题有多严重，他们应该并不会不断地去闹柳岩，一次次试图将她扔下水。而问题恰恰出现在了他们的无知无觉上。</p>
-<p><strong>在事前决定将伴娘扔下水时，他们没有意识这和扔一个男人下水是不一样的。</strong>伴娘礼服轻薄色浅，而柳岩当日穿着的又是抹胸款式，动作幅度稍大、被水浸泡都会走光，加之大量媒体在场，落水画面必将向公众传播。即使柳岩一贯走性感路线，这不能表明她希望自己落水、走光、落水走光照片被公布在媒体上。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8A%E5%8D%887.21.56.png?resize=271%2C410" alt="Screen Shot 2016-04-02 at 上午7.21.56" data-recalc-dims="1"><br><span>（柳岩在当日的衣着）</span></p>
-<p><strong>在试图将柳岩扔入泳池的过程中，他们没有意识到柳岩是不愿意的。</strong>即使伴郎团自己（也包括新郎）不断强调自己没有恶意，只是游戏活跃气氛，这依然不能证明柳岩愿意加入这个“没有恶意的游戏”，而柳岩的尖叫、挣扎、抓紧贾玲等表现已经充分表明她不想加入这个游戏。这一点无论柳岩事后做如何表态——道歉也好、不介意也好——都无法改变。贾玲和其他上前阻止伴郎团的在场女士也恰恰证明了，柳岩的不愿意是可以被判断出来的。我想目前没有证据显示贾玲等几位女士的理解能力和判断能力明显低于或高于伴郎团成员，她们的“意识到柳岩不愿意”是普通人在当时情景下本应有的的正常反应。</p>
-<p>这场“游戏”极可能给一方带来不想要的结果（走光、湿身、曝光），这场“游戏”的参与方之一不愿意参与这场游戏，那么在这种情况下，所谓的“对抗下水”还适合被称之为“游戏”么？游戏，应当是违背一方意愿，而让其他方开心取乐的么？</p>
-<p>当然，柳岩最终没有被扔下水，贾玲最终用红包完成了一次照顾双方颜面的解围。或许可以说，这个事情不过如此，没什么严重后果，不值得小题大做，伴郎团粗心，无知者不怪。可是，想一想这样的无知如何普遍地存在于我们每个人的生活里，如何普遍地侵害着我们每一个人，不得不说一句细思恐极。</p>
-<p><strong>拒绝的表达：什么时候我的“不”，才是“不”？</strong></p>
-<p>我想每一个女性都没有足够的幸运逃脱类似的阴影，小到童年时候来自调皮男同学的恶作剧，大到成年后工作场所中来自上司或同事的骚扰，和伴娘事件一样，女性不愿意参与这样的游戏和玩笑，但是我们被教育要放轻松，要玩得起，要理解他们作为男人的本性，要体会他们在这些所谓的玩笑中释放的善意……我想在这些事情之中，<strong>每一个女性都曾高喊过一个坚定的“不”，可是这一声“不”或者被教导我们温柔乖巧的教育压在心里，或者，即使它被喊了出来，却没有被当做“拒绝”来理解。</strong></p>
-<p>我也曾被这种男孩子的游戏困扰。当时一个男同学拆了打火机，说想用里面的点火器电我一下。我不喜欢被电一下，于是拒绝。然而拒绝无效，对方反复说没有伤害只是好玩，然而直到我最后哭了他才意识到我是真的不愿意，但是他依然不解：“为什么这么大人了还会哭？”。</p>
-<p>因为我必须要花这么大力气才让你明白我的“不”是“不”的意思啊。</p>
-<p>因为我要用哭这种不体面的方式让你明白我的“不”是“不”的意思，我真的很愤怒啊。</p>
-<p>如果你问，这位男同学有恶意么，他是一个不尊重我的人么，我依然会回答：他没有，他不是。可是他确实强迫我和他玩一个我不想玩、也得不到乐趣的游戏。</p>
-<p>我们的文化里有这样性别不友好的种子。从“壁咚”到霸道总裁、直到色情片，<strong>我们的大众文化渗透这样的信息：女性的拒绝是欲拒还迎。</strong>女性喜欢被霸道甚至粗暴地对待，她们希望自己的命运被安排被决定，这让她们产生被呵护、被爱的感觉。所以她们说“不”，不要当真。又或者，女性的拒绝远不如取乐重要——我知道你在拒绝，可是，我就是喜欢看你无可奈何的样子，只要没对你造成什么实际伤害就好了。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8A%E5%8D%887.23.30.png?resize=474%2C318" alt="Screen Shot 2016-04-02 at 上午7.23.30" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.23.30.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-上午7.23.30.png?w=474 474w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><span>（电影《何以笙箫默》颇有代表性。其中一幕，何以琛要求行使“丈夫的权利”，“霸道总裁范儿”的背后却是婚内强奸的嫌疑）</span></p>
-<p><strong>“不”必须被认真对待，拒绝必须被认真对待。</strong>一定有人会问，如果真的所有的“不”都被当做拒绝对待，是不是生活太严肃、少了许多情趣？</p>
-<p>然而，生活无趣一点并不可怕，可怕的是受害者们不仅无法有效拒绝，还要为她们受到的伤害道歉。这个伴娘湿身的“游戏”引起如此多的愤怒不是因为我们如何在意、喜爱柳岩这个个人，不是因为柳岩有多少的忠诚粉丝，不是因为我们愤怒柳岩的不愤怒，而是这一事件引起了太多太多女性的共情：我们曾是受害者，我们将来也无法保障不会被强迫卷入这样的“游戏”供人取乐。</p>
-<p>其实受害者又何止于女性？无论男孩女孩，大概在童年时都有被亲戚强行逗着玩的经历。孩子并没有什么抗拒的能力，他们甚至连完整地表达不同意的能力也没有，他们无从判断大人讲话是不是夸张，是不是吓人，他们会紧张会哭闹，但是这种情绪往往又成为大人取乐的对象，当然了，如果哭闹得过分了，他们会被批评为“不懂事”。同样的情况，几乎可见于所有弱势或少数群体——少数族裔、LGBT群体、某些宗教信徒、拥有不同生活方式的人……</p>
-<p>回到这一部分最初的问题：<strong>什么时候我的“不”，才是“不”？答案是，所有时候。</strong></p>
-<p><strong>个人选择：在一个性别不友善的社会，我能做什么？</strong></p>
-<p>婚礼的现场，并没有一位男士站出来阻止其他人将柳岩扔下水。我很好奇如果有这样一位男士，舆论会如何评价他。也许有了这位男士的出手相救，柳岩就不需要道歉，不需要被指责“一向性感”，参与扔柳岩入水的男星会变得无可争议地低俗……当然，这样的画面充满讽刺，因为一位作为受害者的女性在整个事件中被如何对待和评价，取决于男性阵营中是否有一位主持正义的“叛变者”。</p>
-<p>真正出手相助的是那个同样在男权话语下被取乐的贾玲。或许，这是一种本能的同病相连。<strong>走谐星路线的贾玲和走性感路线的柳岩在发展路径上大相径庭，可是却共享着何其相似的命运。而她们之间的相异和相似，似乎更加有力地证明着，在这个性别不友善的社会，没有女性能够足够幸运避开针对自己性别的低级把戏。</strong></p>
-<p>在这样的社会里，我们能做什么？</p>
-<p><strong>每一个人都应该认真对待对方的拒绝。</strong>也许“不”真的有许多含义，但是在大多数情景下，人靠着常识和本能依然能够判断对方是真的拒绝，包括喊叫、哭泣、不愉快的神情、抗拒的肢体语言、详细的拒绝理由……无知无觉本身即是一种不道德，而非为错误行为开脱的理由。熟人、亲戚、朋友的关系也一样不能为这种错误行为开脱。</p>
-<p>如果你有能力帮助被害人，请尽量帮助他／她。如果你迫于压力无法帮助他／她，至少不要为那些拿别人取乐的人开脱，即使受害人道歉，即使受害人表示不在乎，这就好像绑匪的罪责不会因为人质有斯德哥尔摩综合症而有丝毫减轻。</p>
-<p>如果你不幸就是一个受害者，别真诚地为自己的受害感到自责和抱歉。</p>
-<p>如果你曾这样强行拉着别人来玩只有你喜爱的“游戏”，请给对方真诚地道歉。</p>
-<p>（作者／编辑：孙金昱，伦敦大学学院政治理论博士候选人）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%BD%93%E6%88%91%E8%AF%B4%E4%B8%8D%EF%BC%8C%E9%82%A3%E5%B0%B1%E6%98%AF%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E7%A4%BC/?category=18271" rel="tag">婚礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%B3%E5%B2%A9/?category=18271" rel="tag">柳岩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%A1%E5%A6%87%E7%BE%9E%E8%BE%B1/?category=18271" rel="tag">荡妇羞辱</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1196,7 +1192,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1206,5 +1202,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

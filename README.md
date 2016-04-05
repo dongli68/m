@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%87%E7%BB%B4%E7%BD%91%EF%BD%9C%E9%98%BF%E5%A6%9E%E4%B8%8D%E7%89%9B%EF%BC%9A%E4%BB%A4%E5%AE%B6%E5%85%84%E5%BC%9F%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%8F%8B%E5%A5%BD%E4%BD%BF%E8%80%85%E5%92%8C%E5%B9%B3/" target="cdt-mirror">万维网｜阿妞不牛：令家兄弟：中美友好使者和平功臣</a>
+</h2>
+<p><p>据报道，令完成已经正式向美国报告令计划交给他的所有机密情报了。这个报道绝不是空穴来风。中国官方早已经公布，令计划有计划地收集盗取了中共最高层最机密情报，交给令完成带去了美国。这个公告就早已表明，令完成绝不可能返回中国，而令计划也难逃一死。除非你不相信中共自己的公告。</p>
+<p>令计划何许人也？艰苦抗战八年的中共总书记国家主席军委主席胡锦涛的大内总管（胡锦涛算八年，因为他只当了八年名义上的军委主席）。大内总管什么意思？就是凡是胡锦涛想要知道必须知道的事，都要令计划告诉他。即使有胡锦涛听说而令计划尚不知道的事，也要令计划去查证汇报。这就是说，令计划知道的事，肯定而且必须比胡锦涛知道的多。当然更比江泽民习近平知道的多。甚至比他们加起来还多——只要是胡锦涛江泽民习近平感兴趣的，令计划都必须知道，当然，只有令计划自己感兴趣的，他完全可以不让其他所有人知道——现在，他可以通过令完成，让奥巴马知道这一切。</p>
+<p>这是令美国意想不到的天上掉下来的恒古罕见的大馅饼。世界历史上几乎从来没有过这样神奇的间谍或者叛逃者。中情局十年的全部预算，无论有多少闹剧败绩，令完成一炮就可以弥补，值得。你说哪个美国总统舍得甚至胆敢把令完成交给中国——哪怕令完成吃不惯美国汉堡包自己想回中国，变大雁越洋甚至变穿山甲钻地缝也跑不了。习近平把整个台湾来换令完成恐怕奥巴马也不干呢。</p>
+<p>而且，令计划还不算是间谍——至少目前为止没有任何证据指称，美国中情局跟令计划有过任何直接联系，策反发展培养过这么一个超级卧底间谍。这完全是令计划自己单方面主动积极向美国献出和氏璧。令完成也不算间谍，他没有去收集盗取这些机密。他甚至不算叛逃——因为他不是中国党和国家政府军队的任何公务员，而只是一个商人，一个“普通公民”，来美国也是合法入境，如果向美国提出永久居留甚至公民归化申请，有N个合法理由M个合法渠道。他最后这次来美国，也不是国家公干，而是商人兼信使，递交他令弟托付的信息，促使美国和中共做成一笔交易而已。美国从中国获得这么一对既非间谍也非叛逃者主动提供世界与世纪超级情报，从盘古开天地到毛周拱倒蒋介石国民党的江山，都找不到可比的先例。当年苏联克格勃特务成功打进西德总理办公室做秘书，以及中国俞强生叛逃美国，都不可比拟。</p>
+<p>只有一个人可以勉强来比：这就是美国著名的中国间谍金无怠。</p>
+<p>金无怠，英文名：Larry Wu-Tai Chin，1922年8月17日生于中国，1944年加入中共，1949年到香港为美国总领事馆工作。朝鲜战争中在韩国帮助审讯中国战俘。1952年，加入中央情报局，1986年2月21日于美国监狱自杀。他历任美国中情局翻译、分析师、档案管理人员，曾担任美国东亚政策研究室主任。</p>
+<p>1985年11月22日，金无怠被美国联邦调查局逮捕，被指控6项间谍罪和11项欺诈和逃税罪。1986年2月，陪审团裁定金无怠的所有17项罪名成立，指控其在1952年至1985年期间向中华人民共和国提供机密情报。金无怠被认为是有史以来破坏最严重的反美间谍，对朝鲜战争，越南战争以及中美关系都产生了重要影响。</p>
+<p>联邦调查局早在1982年2月就开始了对金无怠的调查和监视，通过搜查其行李和监视其行踪，证实金无怠是为中国工作的卧底间谍。金无怠的被捕与中国国家安全部负责美国情报工作的总负责人、北美情报司司长、外事局主任俞强生叛逃美国有关。1985年，俞强声携带金无怠的档案叛逃到美国，从而使美国联邦调查局得到金无怠在中国国家安全局的代号和通信证据，金无怠面对这些证据，承认曾给中国提供情报。金无怠承认了自己确有间谍行为，但坦白的唯一情报是在中美建交过程中，秘密提供给中国关于美国总统对中美关系决策的情报，并因此声称自己对中美两国建交有功。金无怠说：“我提供了美国方面愿意修好的情报，毛泽东才做出了邀请尼克松访华的重大决定”。</p>
+<p>金无怠曾托其妻周谨予往北京见邓小平，希望中国政府能与美国谈判，让自己回到中国。然而中国方面否认与其有任何关系。時任中国外交部发言人的李肇星李在新闻发布会上说：“金无怠事件是美国反华势力编造出來的，中国政府爱好和平，从来没有向美国和任何其他國家派遣过任何间谍。中国政府不会承认这件反华事件，也不认识这位自称是中国间谍的金无怠先生。”</p>
+<p>1986年2月21日，在等待判刑期间，确信中共不会施救之后，金无怠在狱中用塑胶袋蒙住头部窒息自杀。</p>
+<p>金无怠先生是了不起的。除了他递交的有助中美关系解冻到建交的情报，其实他所做的一切，都符合中美两国的根本利益:因为他公开的工作以及实际所做的，是帮助美国政府真正了解认识中共和中国，他暗中所做的，是帮助中共真正了解与正确认识美国。他的信息与研究分析直达中美最高层，这期间中美除了朝鲜，没有正面直接开战。美国没有直接进犯攻打中国，毛泽东也没有派特务和游击队来美国搞捣乱破坏，台湾海峡也没有接连不断互相打真仗打大仗。而中美一路走到了关系正常化，金无怠这样稀罕的间谍情报人才的贡献，对于北京与白宫，都是非常重要显著的。当时如果邓小平有点情意， 向美国要回金无怠，不是绝不可能的——至少比要回俞强生的可能性要大。但是，因为金无怠已经完成了自己的历史使命，让其自我了断，算是给中美相互了解与友谊最后燃烧掉自己吧。</p>
+<p>令计划令完成兄弟，在这点上完全可以和金无怠相比：增进中美两国最高层的相互了解，理解，进而增进互信，增进和平和友谊。而且令家兄弟提供的情报，价值和规模远远大于金无怠一辈子兢兢业业所做。</p>
+<p>美国最需要里了解中共与中国的什么情报?根本不是什么核弹发射的密码，以及中南海地下通道的全部密码钥匙，而是中国核武以及所有军力部署针对的对象，最基本战略思维与部署——中国到底是不是把美国作为第一战略假想敌？是把台湾还是钓鱼岛甚至黄岩岛做为第一冲突突破点，还是把平壤朝鲜作为第一战略布局考量？甚至根本就没有这样的对外战略考量，共军只是共产党对内牵制派系维稳的武装？</p>
+<p>除了江泽民胡锦涛习近平，就只有令家兄弟能回答这样的问题了。无论答案是什么，美国人知道了，有了底，中美就在可见的将来不可能开战。原因很简单：无论中共的军事部署根本战略意图是什么，美国不会去首先进攻打击侵略中国。而中共的底被美国掌握了，如果不是以美国为第一假想敌，中美都不必多虑，如果是，要么中共根本改变战略思维和部署，要么保持无效的既定战略。这客观上都加深中美的根本性相互了解，达到和平共识和战略互信。</p>
+<p>这样的核心机密，江泽民胡锦涛习近平亲自亲口告诉白宫都没用，人家不会信。只有令家兄弟这样传递的信息才令人信服。</p>
+<p>中美达到了在战略安全上这样的根本性了解互信，就有了和平共识的最基本的基础。 其他一切的情报信息，包括中共内部的派系势力分布，要员的真正政治光谱以及他们三姑六姨亿万家财在美国与世界的详细分布，这都要服务于这样的最基本的战略安全利益之下，都只能是有助于加深美国对中共与中国情势的真正了解，减少误判，从而从根本上创造和提供中美合作的机会机遇，当然加不过，这都是在美国的善意引导与积极掌控之下。</p>
+<p>这有什么不好呢？有什么可怕呢？</p>
+<p>除非谁认为，令家兄弟提供的情报，是胡锦涛或者习近平计划后天攻打台湾，接着攻打日本菲律宾，发动世界大战。或者说，令计划掌握着八千万地下反共大军，准备好了新的秋收起义和南昌起义，没有告诉胡锦涛和习近平，只等待奥巴马派出海军陆战队去支援。</p>
+<p>如果没有甚至避免了这样的情况，难道令家兄弟提供这样最高级的情报，不像金无怠一样，特别地特殊地促进加深了中美两国的相互了解，增进互信，和平与友谊吗？</p>
+<p>包括江泽民胡锦涛习近平在内的中国领导人一直公开声明，美国是中国力求优先发展战略合作伙伴关系的最重要的友好国家。令计划把这样的党国最核心机密情报交给令完成，带给美国这样个对中国非常重要的友好国家，而且他本人没有跑出中国，不能说是叛国，也不是间谍。他最多是叛党，有非法占有或者盗窃公共财物罪，但是实际上他是爱党爱国也爱自己，深知中美和平合作对两国人民的长久现实利益，也深知，美国会比胡主席更了解和理解更相信他，他为党为国殚尽竭思，也为自己和家人尽最后一份力。</p>
+<p>令家兄弟和金无怠一样，是中美友好使者功臣。而且，令家兄弟不是间谍也不是叛国者叛逃者。他们计划并完成了一项了不起的非凡使命：促进中美最高层的最深度了解，增进中美最深刻的互信，达成进一步的中美和平合作。</p>
+<p>令计划可以选择自杀，因为他的历史使命已经大功告成。但是，习近平不能枪毙他——那样会给自己造成不必要的大麻烦，你懂的。</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%87%E7%BB%B4%E7%BD%91%EF%BD%9C%E9%98%BF%E5%A6%9E%E4%B8%8D%E7%89%9B%EF%BC%9A%E4%BB%A4%E5%AE%B6%E5%85%84%E5%BC%9F%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%8F%8B%E5%A5%BD%E4%BD%BF%E8%80%85%E5%92%8C%E5%B9%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%96%E7%95%8C%E7%A6%BB%E5%B2%B8%E8%B5%84%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%A4%96%E6%B3%84%EF%BC%8C%E6%B6%89%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E4%BA%B2/" target="cdt-mirror">美国之音 | 世界离岸资产数据外泄，涉中共高层亲属</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-%E4%B8%8B%E5%8D%881.01.05.png?resize=550%2C278" alt="Screen Shot 2016-04-04 at 下午1.01.05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=300%2C152 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=768%2C388 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=1024%2C518 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?w=1202 1202w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -1202,30 +1234,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E6%9C%9F%E9%97%B4-%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A5%89%E5%91%BD%E8%A1%97%E5%A4%B4%E6%B4%BE%E5%8F%91%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E3%80%8B/" target="cdt-mirror">外交政策｜习近平访美期间 大学生奉命街头派发《中国日报》</a>
-</h2>
-<p><p>【编者注】本文由中国数字时代编辑翻译自《<a href="http://foreignpolicy.com/2016/04/01/china-daily-xi-jinping-nuclear-summit-chinese-state-owned-media-has-chinese-students-canvass-dc/" target="_blank">外交政策</a>》报道；在无损原文大意情况下有删节。请点击原文链接阅读完整报道。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg" rel="attachment wp-att-433731"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?resize=550%2C310" alt="cdimage3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cdimage3.jpg?w=817 817w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>美国时间3月31日与4月1日，《中国日报》组织了一群在华盛顿地区的大学生，在街头派发这份主要由中国政府出资、与中共口径一致的报纸。</p>
-<p>这些大学生在微信上建立了一个名为“中国日报华盛顿后援团”的群，来组织协调派发报纸活动。该微信群一共有69名成员，成员的群内昵称均注明了自己所在大学，其中有乔治梅森大学、乔治华盛顿大学、约翰霍普金大学、以及马里兰大学。一名在习近平下榻酒店门口站着的学生邀请《外交政策》记者进了微信群。《中国日报》美国分部尚未对《外交政策》的致电与电邮作回应。</p>
-<p>邀请记者入群的这名学生告诉《外交政策》，组织学生在该地区派发报纸的是《中国日报》。《日报》还指示参与学生，要求接受派发的人拍一张与报纸的合影。参与学生随后将这些照片上传到了微信群。</p>
-<p>4月1日这天，成员们在微信上相互询问、寻求帮助的同时也在分享照片，以及在哪儿派发报纸比较好。“今天太难发了，”一名成员说。“是啊，”另一位表示赞同。“都没什么人。还没分发完的同学，可以试着问问公交车司机。他们通常会拿一些放在车里让乘客阅读。”</p>
-<p>虽然与《外交政策》记者交谈的学生自称是志愿者，但微信群中至少有一人透露此次行动是有偿的。“我雇了个人帮我分发报纸”，那名学生说。“那人是流浪汉。我对他说，‘你不能不劳而获，假如你帮我发报纸，我就把报酬分一点给你。’他可高兴了。”该学生随后在群里上传了一张这个流浪汉扛着一大叠《中国日报》的照片。</p>
-<p>45分钟后，这名学生在微信上报告称150份报纸已全部发完。</p>
-<p>《中国日报》是中国大外宣非常重要的一部分，单英语发行物就有13种。</p>
-<p>2015年11月，《中国日报》美国分部在给美国司法部的一份声明中称，在这之前的六个月里，该机构共花了650万美元，其中绝大多数资金都来自北京总部。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg" rel="attachment wp-att-433726"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg?resize=500%2C375" alt="Ce-HInmWEAE6ga6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce-HInmWEAE6ga6.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>图片来自《外交政策》编辑<a href="https://twitter.com/BethanyAllenEbr/status/715939475369684996/photo/1" target="_blank"> B. Allen-Ebrahimian</a></em></p>
-<blockquote><p>@BethanyAllenEbr：Many in pro-China crowd wore red vests, carried flags<br>
-亲中人群中有许多都穿着红马甲，拿着红旗。</p></blockquote>
-<p><em>原文：<a href="http://foreignpolicy.com/2016/04/01/china-daily-xi-jinping-nuclear-summit-chinese-state-owned-media-has-chinese-students-canvass-dc/" target="_blank">Mr. Xi Goes to Washington, and Brings His State Media Apparatus: With China’s president in town to talk nuclear security, students handed out Beijing-backed China Daily.</a></em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E6%9C%9F%E9%97%B4-%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A5%89%E5%91%BD%E8%A1%97%E5%A4%B4%E6%B4%BE%E5%8F%91%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E3%80%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">中国日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1237,7 +1245,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1247,5 +1255,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

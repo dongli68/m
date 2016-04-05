@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%81%B7%E6%88%96%E7%BC%96%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%80%85/" target="cdt-mirror">【异闻观止】环球时报 | 偷或编“巴拿马文件”者绝非等闲之辈</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?resize=500%2C250" alt="c130e6ab27faaaa" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?w=604 604w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>一个重磅泄密案又在国际舆论中炸开了。一家在巴拿马注册的名为莫萨克-丰塞卡的律师事务所被指专门办理用来洗钱避税的离岸公司，他的1150万份秘密文件被匿名者交给德国《南德意志报》，据称经过300多名世界各国记者一年的“调查整理”，于北京时间4月4日公之于众，轰动了世界。</p>
+<p>西方媒体迅速从这份1150万份文件中“大海捞针”出有新闻价值的那些内容，非西方国家领导（包括已下台的）成为最受关注的被打击对象，而其中俄罗斯总统普京一“密友”洗钱10亿美元的爆料尤为突出，西方媒体或明或暗将此称为“普京洗钱”，并同时挖出涉及普京的其他“丑闻”。</p>
+<p>西方国家也有一些名人中枪，但最不得了的算是冰岛总理夫妇在海外有个大账户。这对夫妇的影响力与普京相比，以及他们“有海外大账户”与普京被疑在海外“巨额洗钱”的指控比起来，都不是一个重量级。</p>
+<p>最近几年连续出了维基解密、斯诺登爆料及这次的“巴拿马文件”泄露，这些时间最靠谱的大概是斯诺登爆料，因为它是真人举证。此外维基解密总还有个网站负责人。最新的“大泄密”是谁干的都不知道，而这些材料的政治指向一开始就从大量碎片中形成基本轮廓，这很耐人寻味。</p>
+<p>总体看，西方主流媒体把控着每一次爆料的“分析阐释权”，美国政府在这当中的影响力十分显著。对美国不利的事情，即使曝光出来也能大事化小。对普京这样的非西方领导人，只要“有爆料”，假的也会被当成“疑似真的”。</p>
+<p>因此互联网时代来自基层的这种“大泄密”，对欧美有顶级影响力的机构和精英来说大体是安全的，对“西方”更伤害不了什么。从长远看，它会成为西方意识形态联盟“顺势而为”，打击非西方世界政治精英和关键组织的一种新手段。</p>
+<p>从情报学上说，在一大堆“真材料”中加一些假材料，而后者又被媒体“挖掘出来”，网络泄密的不断发生使这样的“精确打击”成为可能。如果西方情报机构不这样玩两手，那么它们实在善良得让人摸不着头脑。</p>
+<p>西方有大量不同利益体组成，它们在很多时候并不和谐，彼此的摩擦经常发生。但在意识形态和价值观上，它们仍然是相当紧密的同盟，这大概已是现代“西方”概念的基础。喜欢什么不喜欢什么，该贬谁该褒谁，不同西方国家的舆论有相当高的一致性。</p>
+<p>西方主要情报机构对非西方目标打舆论战可谓得天独厚。他们可以做得对普通人来说神不知鬼不觉。他们如果不这么干，情报学恐怕就要改写。</p>
+<p>断言某一次“大泄密”真假或者其中的某几件材料是情报机构塞进去的，都是一种冒险。但是有一点可以大致预见：如果这种“大泄密”总让西方主要国家在政治上难堪，那么它们一定持续不下去。如果这种事情的效果是让非西方的关键人物，尤其是让西方的公开对手遭到打击，那么它们就会一轮又一轮的发生下去。</p>
+<p>至于有人质疑，为什么那么多世界名人和与他们关系密切的人会把隐秘信息交给同一家律师事务所，这是非常枝节的问题。能够偷出1150万份文件或者编出1150万份文件的力量，肯定非等闲之辈。一般人跟这样的力量较劲，非得累死。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%81%B7%E6%88%96%E7%BC%96%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%80%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?category=18271" rel="tag">Jasmine Li</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F/?category=18271" rel="tag">习近平家族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B3%84%E5%AF%86/?category=18271" rel="tag">网络泄密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%90%A8%E5%85%8B%C2%B7%E5%86%AF%E8%B5%9B%E5%8D%A1%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">莫萨克·冯赛卡信托公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%87%E7%BB%B4%E7%BD%91%EF%BD%9C%E9%98%BF%E5%A6%9E%E4%B8%8D%E7%89%9B%EF%BC%9A%E4%BB%A4%E5%AE%B6%E5%85%84%E5%BC%9F%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%8F%8B%E5%A5%BD%E4%BD%BF%E8%80%85%E5%92%8C%E5%B9%B3/" target="cdt-mirror">万维网｜阿妞不牛：令家兄弟：中美友好使者和平功臣</a>
 </h2>
 <p><p>据报道，令完成已经正式向美国报告令计划交给他的所有机密情报了。这个报道绝不是空穴来风。中国官方早已经公布，令计划有计划地收集盗取了中共最高层最机密情报，交给令完成带去了美国。这个公告就早已表明，令完成绝不可能返回中国，而令计划也难逃一死。除非你不相信中共自己的公告。</p>
@@ -807,7 +829,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%80%81%E5%BE%90%EF%BC%9A%E8%B4%BA%E5%8D%AB%E6%96%B9%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%AC%AC%E4%BA%8C%E4%B8%AA%E4%BB%BB%E5%BF%97%E5%BC%BA%EF%BC%9F/" target="cdt-mirror">东网｜老徐：贺卫方会不会成为第二个任志强？</a>
 </h2>
@@ -830,7 +852,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">贺卫方挑战团中央</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B-%E9%9F%A9%E5%89%A7%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B-%E6%B8%AF%E7%8B%AC/" target="cdt-mirror">【真理部】《上瘾》《太阳的后裔》《十年》等</a>
 </h2>
@@ -1187,53 +1209,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%AE%BF%E8%B0%88%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BA%B2%E8%97%8F%E5%8D%81%E5%B9%B4%E7%9A%84%E8%84%B1%E5%8C%97%E5%A5%B3%E5%AD%A9/" target="cdt-mirror">纽约时报｜访谈：在中国躲藏十年的脱北女孩</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg" rel="attachment wp-att-433747"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg?resize=575%2C383" alt="Helene Franchineau/Associated Press 中国与朝鲜之间的边界很大一部分在鸭绿江上。图为鸭绿江上的一艘朝鲜船只。 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01CHINALEE01-articleLarge.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>中国与朝鲜之间的边界很大一部分在鸭绿江上。图为鸭绿江上的一艘朝鲜船只。 (Helene Franchineau/Associated Press)</p></div>
-<p>在朝鲜时，生活在靠近中国边境的一个小镇上的李炫秀(<a href="http://cn.nytimes.com/opinion/20150207/c06lee/" target="_blank" rel="nofollow">Hyeonseo Lee</a>)常常好奇，中国那一边的灯光为什么多那么多。1997年的一个冬夜，17岁的她穿过结了冰的鸭绿江，要亲自去看看。这场为满足好奇心而进行的远足，后来变成了在中国长达十年的东躲西藏。2008年，李炫秀抵达韩国，并在那里获得了庇护。</p>
-<p>去年，李炫秀出版了回忆录《有七个名字的女孩》(<a href="http://www.nytimes.com/2015/11/29/books/review/fleeing-north-korea.html" target="_blank" rel="nofollow">The Girl with Seven Names</a>)。最近，她在北京<a href="http://beijingbookworm.com/" target="_blank" rel="nofollow">老书虫国际文学节</a>上讲述了自己的故事。这是少有的脱北者在中国的公开演讲。中国认为脱北者是非法移民，会将他们遣送回朝鲜。回到朝鲜，那些人可能会面临牢狱之灾，甚至被处决。李炫秀与《纽约时报》谈论了她在中国的经历、脱北者的困境和中国与朝鲜的关系。以下为访谈摘要。</p>
-<p><b>问：</b><i>你为什么来北京？</i></p>
-<p><b>答：</b>老书虫国际文学节邀请的我，不过我用了六个月时间才决定下来。我有义务保护我的家人。但在那六个月时间里，我慢慢变了。</p>
-<p>几个月前的一天，我在微博上收到了近百条的攻击。我不知道中国民众这么恨我们[脱北者]。很多中国人相信中国政府，认为我是叛徒。我想在中国发表这次演讲是合适的。</p>
-<p>我不恨中国民众。我们是兄弟，我们领土相接。我只恨政府、政客和政策，不恨民众。这正是我来这里的原因。我希望至少能改变他们获得的部分信息。</p>
-<p>中国的政策是：如果举报脱北者，会有钱拿。据我所知，举报脱北者拿到的钱是3000到5000元人民币。在边境城镇里，有些中国人就是为了钱而举报脱北者。真的很让人难过。</p>
-<p><b>问：</b><i>你曾经说过，韩国国家情报院(National Intelligence Service)建议你不要批评中国。</i></p>
-<p><b>答：</b>他们担心我来中国会导致中国与韩国之间的关系进一步恶化。但中国政府没为脱北者做过任何好事。所以说还能怎么更糟糕呢？从长远来看，如果我能改变至少一个中国人的看法，也是有积极意义的。</p>
-<p><b>问：</b><i>关于朝鲜脱北者，你有什么要对中国政府说的吗？ </i></p>
-<p><b>答：</b>至少要让他们安全地穿过这片土地。他们希望回到自己的祖国[韩国]，并不想留在中国。当然，我希望中国能给予他们难民身份。也许我要求的太多，因为他们甚至不关心自己公民的权利。但他们能否至少假装没有看到火车上或者公共汽车上的脱北者？</p>
-<p>去年，九名脱北者在越南被抓获。他们被送回中国。中国为什么总是要支持朝鲜，甚至在脱北者问题上也是如此？你为什么要做朝鲜的救世主？你为什么无视国际社会的要求？</p>
-<p>关键仍在于中国。这就是为什么我要求一些大国如美国，尽他们所能来改变中国政府的想法。</p>
-<p><b>问：</b><i>你觉得自己曾遇到过的中国人或警察中有人同情朝鲜脱北者吗？</i></p>
-<p><b>答：</b>许多中国人不仅在百度上，还在Facebook上指责我。有人说，你认为中国当局会傻到没有意识到你是朝鲜脱北者吗？</p>
-<p>如果他们读过我的书，他们会理解的。我尽自己所能去逃脱。我认为这完全是一个奇迹。这不是因为中国警察会傻到相信我虚构的故事。我认为这是一个奇迹。这就是为什么有时候我觉得上帝是存在的。</p>
-<p><b>问：</b><i>你信教吗？</i></p>
-<p><b>答：</b>我[在朝鲜]被洗脑过。2008年当我在韩国获得庇护时，我意识到在中国长达10年的东躲西藏中，我又一次被洗了脑。眼下，我很难相信上帝。如果我真的相信了，但后来发现这竟然是另一次洗脑，那怎么办？但我时刻都在尽自己最大努力去相信上帝，因为我发现那些对朝鲜人民和脱北者给予很多支持的人都是非常善良的人。</p>
-<p><b>问：</b><i>你在中国是以什么方式被洗脑的？</i></p>
-<p><b>答：</b>当我抵达韩国后，我看到了一些在中国从未见过的中国新闻，像关于西藏和新疆的。我想，什么？这不是中国。中国没有这样的问题。韩国人用异样的目光看着我——你在说什么？这就是中国。我很震惊。</p>
-<p>而且不仅我自己这样。有一次我遇到了一个在韩国留学的中国学生。当她在韩国看到了自己国家的新闻时，她说：“这不是我的国家。这样的事情不会发生。”在那一刻，我意识到我们都被洗脑了。</p>
-<p>生活在韩国，我可以访问任何网站。但是这一次当我来到北京时，我感到非常震惊，因为你无法使用谷歌(Google)、Facebook和Gmail。我听说过这件事，但亲身经历还是吓到了我。</p>
-<p><b>问：</b><i>你在中国的10年中，是否接触过普通中国人？</i></p>
-<p><b>答：</b>是的，但没有人知道我是朝鲜脱北者。我假装我是一名中国朝鲜族人。我只担心他们可能会发现我的记录。</p>
-<p>有一天，我一个最好的朋友说，“你从来不谈论你的家庭，新年时你也从来不回老家。”她是来自延吉的中国朝鲜族人。我想告诉她真相，但我不能相信任何人。总是假装成别人，让我身心俱疲。不是我的生活，不是我的真名，什么都没有。</p>
-<p><b>问：</b><i>你有没有想过要告诉中国人你是朝鲜人？</i></p>
-<p><b>答：</b>没有。因为一旦我说了这些，我的处境将变得危险起来。那将成为一种可以用来对付我的武器。</p>
-<p><b>问：</b><i>在过去的几年中，脱北者逃避中国警方是变得容易了还是更难了？</i></p>
-<p><b>答：</b>更难了。过去，至少朝鲜脱北者可以制作假[中国]身份证，但现在这些假身份证已无法使用。因为他们会用机器来检查身份证，使得更多的人被抓获。</p>
-<p><b>问：</b><i>你认为朝鲜会发生政治变革吗？</i></p>
-<p><b>答：</b>没有独裁者能够永久掌权。历史表明，最终独裁者身边的人会推动变革。当然，很多高官不想变革，因为他们想保持权力。但也有其他优秀的人想要改变。我相信他们正在等待机会。</p>
-<p>中国的作用举足轻重。无论朝鲜崩溃还是统一，或者一切都保持原样，都取决于中国。所以如果中国或其他国家支持这些高官，给他们推动变革的力量，就有可能会实现政权更替。</p>
-<p>翻译：纽约时报中文网</p>
-<p><a href="http://www.nytimes.com/2016/04/01/world/asia/china-north-korea-defector-hyeonseo-lee.html?mtrref=undefined&gwh=E40981DBAF4FFB9E62F711FD1E628850&gwt=pay" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%AE%BF%E8%B0%88%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BA%B2%E8%97%8F%E5%8D%81%E5%B9%B4%E7%9A%84%E8%84%B1%E5%8C%97%E5%A5%B3%E5%AD%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">北朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B1%E5%8C%97%E8%80%85/?category=18271" rel="tag">脱北者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">西朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1245,7 +1220,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1255,5 +1230,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

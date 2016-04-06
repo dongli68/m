@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">【立此存照】墙内新闻网站如何报道冰岛总理辞职原因</a>
+</h2>
+<p><p>新浪新闻在一则报道冰岛总理宣布辞职的<a href="http://news.sina.com.cn/w/zx/2016-04-06/doc-ifxqxcnp8621399.shtml" target="_blank">快讯</a>中，<strong>直接贴上了法新社英语原文</strong>，没有作任何翻译。<strong>但这已经是目前墙内新闻网站中唯一提到“巴拿马文件”的新闻报道了：</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C-1.png" rel="attachment wp-att-434291"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C-1.png?resize=550%2C799" alt="冰岛总理辞职" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?resize=768%2C1116 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?resize=705%2C1024 705w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?w=1778 1778w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>新浪新闻网页截图</span></p>
+<p><strong>法新社<a href="http://www.afp.com/en/news/iceland-pm-resigns-wake-panama-papers-scandal" target="_blank">原文</a>，由中国数字时代编辑翻译：</strong></p>
+<blockquote><p>冰岛总理甘劳格森所在政党“进步党”于周二宣布他已辞职，他是巴拿马金融文件泄漏风暴中第一个重大政治牺牲品。</p>
+<p>“议会小组会谈中，总理告诉其他成员，他会卸任然后由我接手，” 进步党副领导人、农业部部长 Sigurdur Ingi Johannsson 在直播新闻中说。</p></blockquote>
+<p><strong>其他门户网站，如搜狐新闻，则干脆只有一句话：</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-434294"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB.png?resize=550%2C232" alt="搜狐新闻" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?resize=300%2C126 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?resize=768%2C323 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?resize=1024%2C431 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?w=2214 2214w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>搜狐新闻网页截图</span></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%87%AA%E6%9F%A5%E8%87%AA%E5%88%A0%E6%B6%89%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E6%89%80/" target="_blank">【真理部】自查自删涉“巴拿马文件”泄露事件所有相关内容</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="_blank">【真理部】巴拿马文件相关报道</a></li>
+</ul></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg" rel="attachment wp-att-434299"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=500%2C500" alt="bd6398abgw1f2ljykw8vhj20go0gotc5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>大量冰岛民众周一上街抗议，要求拥有离岸账户的总理下台（网络图片）</span></p>
+<p>目前中国大陆媒体在报道冰岛总理辞职新闻时均采用了新华社通稿。<strong>该通稿刻意避开了“巴拿马文件”和当地爆发的大型示威</strong>，称其辞职原因为是“没有申报与妻子共同拥有一家公司的情况”，是被反对党要求的：</p>
+<blockquote><p><strong><a href="http://news.xinhuanet.com/world/2016-04/06/c_128865879.htm" target="_blank">新华社｜冰岛内阁成员宣布总理将辞职</a></strong></p>
+<p>新华社雷克雅未克4月5日电（记者谢彬彬）冰岛渔业与农业部长西于聚尔·英伊·约翰森5日说，总理京勒伊格松当天在其所在的进步党议会成员会议上宣布将辞去总理一职。</p>
+<p>约翰森在进步党议会成员会议结束后告诉冰岛国家广播电台，京勒伊格松在会议上宣布将辞职，得到进步党议会成员同意。京勒伊格松仍将担任进步党主席一职，他还提议由约翰森担任总理一职。</p>
+<p>由于现任冰岛政府是由进步党和独立党共同组建的联合政府，京勒伊格松的这份提议将于当天晚些时候提交给独立党领导人。</p>
+<p>媒体此前报道说，京勒伊格松涉嫌当选冰岛议会议员后没有申报与妻子共同拥有一家公司的情况，反对党因此要求京勒伊格松辞职。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B1%9F%E6%B9%96%E4%BC%A0%E8%AF%B4-%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E8%AF%A5%E5%8F%8D%E7%9C%81%E9%82%A3%E4%BA%9B%E5%88%B6%E9%80%A0%E8%85%90%E8%B4%A5%E7%9A%84%E5%88%B6%E5%BA%A6%E4%BA%86/" target="cdt-mirror">江湖传说 | 于建嵘：该反省那些制造腐败的制度了</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-05-at-%E4%B8%8A%E5%8D%8811.46.00.png?resize=285%2C449" alt="Screen Shot 2016-04-05 at 上午11.46.00" data-recalc-dims="1"><br><span>于建嵘，中国社会科学院农村发展研究所社会问题研究中心主任。</span></p>
@@ -1040,61 +1067,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%AE%98%E5%AA%92%E5%AE%A1%E5%88%A4%EF%BC%8C%E6%8A%98%E6%8D%9F%E4%BA%86%E8%B0%81%EF%BC%9F/" target="cdt-mirror">端传媒 | 赵思乐：官媒审判，折损了谁？</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-%E4%B8%8B%E5%8D%886.12.57.png?resize=553%2C365" alt="Screen Shot 2016-04-02 at 下午6.12.57" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午6.12.57.png?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-02-at-下午6.12.57.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>赵思乐：“官媒审判”中一般包含四大元素：经济问题、道德问题、反党意图和认罪悔过。摄 : Etienne Oliveau/GETTY</span></p>
-<p>中国官媒上公开认错：</p>
-<p>我觉得作为一个香港人，也是作为一个中国人，在有需要的时候配合调查是我的义务。—— 铜锣湾书店李波，2016年3月25日凤凰卫视播出。</p>
-<p>我在中国从事了违反中国法律的活动，严重伤害了中国政府，伤害了中国人民的感情，对此我深表歉意。—— 瑞典籍人权机构工作人员彼得·达林（Peter Dahlin），2016年1月20日中国中央电视台播出。</p>
-<p>我回国投案自首是我个人自愿的选择，和任何人无关。这是我自己应该承担的责任，我不希望任何个人和机构介入或者干预我回国的事情，甚至进行恶意炒作。—— 铜锣湾书店桂敏海，2016年1月18日中国中央电视台播出。</p>
-<p>我也告诫那些所谓的维权律师，以我为戒，不要与境外勾结，拿境外组织的钱，从事违反法律、损害国家安全与利益的活动。—— 温州基督教堂维权律师张凯，2016年2月25日中国温州电视台新闻综合频道播出。</p>
-<blockquote><p>在中国，频繁的“官媒审判”也引起了部分民众反感，以及受害群体的反制。</p></blockquote>
-<p>近两年来，越来越多的类似“表白”，在有大陆官方背景的电视台出现。其主角往往正面临有关“危害国家安全”的控罪，遭到大陆警方羁押，律师无法会见。</p>
-<p>这引人推测：官媒记者与警方必有合作，否则不可能采访到当事人。而且，在未经法院审理的情况下，官媒即以确定口吻对被捕者控以“炒作”、“制造事端”、“扰乱国家和社会秩序”，亦被质疑是大陆当局“未审先判”政治打压的一部分。</p>
-<p><strong>“官媒审判”的四大元素</strong></p>
-<p>自2013年习近平执政以来，据不完全统计，经历过“官媒审判”，且被民间普遍视为政治打压的案件，至少有<a href="http://media.people.com.cn/n/2013/0829/c40606-22729790.html">薛蛮子案</a>、<a href="https://theinitium.com/article/20151124-dailynews-Gaoyu/">高瑜案</a>、<a href="https://theinitium.com/article/20151013-dailynews-baomengmeng/">维权律师案</a>（附带屠夫吴淦案、山东访民案、王宇案等）、张六毛案、<a href="https://theinitium.com/article/20151209-opinion-puzhiqiang-rule-of-law-duanqinghong/">浦志强案</a>、<a href="https://theinitium.com/article/20151205-mainland-guangdong-worker-ngo/">劳工NGO案</a>、<a href="https://theinitium.com/article/20160307-hongkong-hkbooksellers06/">铜锣湾书店案</a>、<a href="https://theinitium.com/article/20160113-dailynews-swedish-ngo/">彼得·达林案</a>，以及张凯案等十多起。这样的频率，为80年代初“拨乱反正”后所未见。</p>
-<footer>从80年代至本届中央政府之前，国内政治案件在官方媒体上出现的次数寥寥可数：1989学潮后，军人表彰及刘晓波等人上央视；2001年，法轮功自焚事件后滚动播报。两起事件的严重性不言而喻。胡温时代对异议者采取“消声”策略，即使在“零八宪章”事件中，都未广泛动用官媒工具。2010年，“李庄案”登上了不少官方报纸和地方电视台，也在央视出现过，但联系到当时重庆一把手薄熙来如日中天的势力，可理解为是一种局部、暂时现象。</footer><p>值得注意的是，上述“官媒审判”案例，绝大多数都出现在2015年7月1日《中华人民共和国国家安全法》通过之后，因此有理由视其为，中国大陆社会治理转入“国家安全模式”后的配套手段。</p>
-<p>“官媒审判”中一般包含四大元素：经济问题、道德问题、反党意图和认罪悔过。其中道德问题有可能不涉及或者轻轻带过，但另外三样基本是“必备项目”。</p>
-<p>以维权律师案为例，经济问题表述为收取境外资助、滥用众筹救援经费，为访民提供“补助”；道德问题表述为屠夫吴淦的“吊儿郎当”和违法记录、周世锋的男女关系问题，王宇的曾有“暴力行为”等等；反党意图表述为蓄意激化官民矛盾、扰乱社会秩序（该案与彼得案联系起来后，更指当事人企图颠覆中国现有制度）；最后，认罪悔过元素也十分受重视，报导中不惜用大量时间，展现访民认识到自己“被利用”后声泪俱下的悔罪告白，也尽量使用了周世锋自我否定维权行动的片段。</p>
-<p>这些的信息，往往跟当事人被控犯罪没有明确关系──例如中国现行法律未规定“罢工”或“收取境外资金”违法，也没有“通奸罪”、“流氓罪”之类的罪名。报导中也不会指出警方对当事人的具体控罪，“官媒审判”更多是“道德审判”和“动机审判”。</p>
-<blockquote><p>通过“四大元素”，官媒向民众反复传递这样的图景：境外势力正对中国虎视眈眈。那些对政府有意见的人，本来就是道德低下的犯罪分子。他们受到境外势力的指使，通过煽动和制造官民矛盾，不正当地获得经济利益。然后，他们现在都承认和后悔自己的犯罪行为。</p></blockquote>
-<p>官媒由此教育民众，不要同情、效仿维权人士，不要相信境外报导（即使他们有机会看到），并警惕自己被维权人士或境外势力利用，也就是说，只有相信并支持当局，才能避免受骗。</p>
-<p>这些报导中的诸多信息，尽管有些出自当事人之口，但被多方面指为失实或片面提取。例如，彼得·达林的同事迈克尔（Michael Caster）澄清，其机构从未参与幸清贤帮助王宇儿子逃往缅甸的事件；有知情律师指出，央视播出的王宇在法庭内怒斥法警的片段，是因为法警在法庭殴打一名女性被告人；被捕劳工NGO负责人曾飞洋的同事及利得鞋厂工人多次说明，厂方的经济补偿直接打到工人账上，曾飞洋无从截留。</p>
-<p>况且，官媒作为自称“姓党”的媒体，对处于官方强制中的当事人所作的采访，从任何一个角度，都不符合新闻信度的要求。但官媒对国内的信息垄断，又令“不相信”成为奢侈。</p>
-<p><strong>媒体背后的政治阴影</strong></p>
-<p>“官媒审判”不一定需要配套警力或法院程序，也可以独立运作。不久前，中国地产商任志强就因在微博对“央视姓党”发出批评性言论，引发诸多官方媒体出文声讨，北京首都网千龙网发文《<a href="http://china.qianlong.com/2016/0222/381255.shtml">谁给了任志强反党的底气</a>》、中国青年网发文《<a href="http://news.sina.com.cn/c/nd/2016-02-25/doc-ifxpvysv4881349.shtml">应坚决把任志强清除出党员队伍</a>》、中国江苏网称“<a href="http://m.jschina.com.cn/wap/pl/201602/t2681409.shtml">任志强是8000多万党员的耻辱</a>”等等。</p>
-<p>知名政治讽刺漫画家邝飚，将此称为“类似文革式的大批斗场面”。他由此创作了漫画《<a href="http://chinadigitaltimes.net/chinese/2016/02/%E9%82%9D%E9%A3%9A_%E7%AB%8B%E5%9C%BA%E5%9D%9A%E5%AE%9A%E6%96%97%E5%BF%97%E5%BC%BA/">斗志强</a>》，画中任志强被带上纸高帽、胸前挂着写有“反党分子”的大牌、名字被打上大红叉。邝飚的漫画随即引起网民转载，而他的微信公号则被销号。任志强本人的微博也被禁言。</p>
-<blockquote><p>除了邝飚，越来越多人用“文革”比喻“官媒审判”的情景。今年是毛泽东发动文化大革命五十周年，中国当前政治氛围与文革的照应，更引人深思。</p></blockquote>
-<p>评论人章文在<a href="http://hk.on.cc/cn/bkn/cnt/commentary/20160227/bkncn-20160227000317989-0227_05411_001.html">撰文声援任志强</a>时说：“这一幕令人有时光倒流之感，1957年的反右以及随后的文革，就是这样‘大字报’满天飞的。”上世纪50年代中后期到70年代，《人民日报》和经录制再派发到各地的《全国各地人民广播电台联播》，就频繁出现将一些人和一些事定性为“反党联盟”、“反革命集团”的内容。</p>
-<p>安德鲁·海伍德（Andrew Heywood）在《<a href="https://book.douban.com/subject/26220998/">政治学的思维方式</a>》中写到，极权主义体制有六项特征：官方掌控一套意识形态；一党国家，通常由一个全权的领袖领导；恐怖主义的警察系统；垄断大众媒体工具；垄断武装力量；国家控制经济生活的所有方面。</p>
-<p>毛泽东时代的中国完全符合极权体制的定义，而普遍认为，80年代以后的中国，尤其在1992年邓小平南巡后，已由极权向威权转变。即国家不再全面地政治化和控制社会。部分学者用“韧性威权”来描述这一时期的中国。</p>
-<p>在此期间，媒体领域虽然仍处于官方的审查控制之下，但也出现了有限的自由化和专业化。比如，央视的新闻联播引入了国际新闻板块，加大民生话题比重，片头问候语从最早的“观众同志大家好”，改为“观众朋友晚上好”；由各地宣传部分管的市场化媒体大量涌现，其中包括《南方都市报》、《财经》、《财经新周刊》（简称“财新”）等多家以“新闻专业主义”为标榜的主流媒体；市场化媒体陆续发表批评性调查报导、设立有自由倾向的评论版面，甚至央视的《焦点访谈》、《今日说法》等栏目都播出对地方政府的批评报导，媒体一度被寄予“监督政府”、“推动改变”的厚望。</p>
-<p>这些现象，不代表官方放弃媒体手段或媒体监管，只是远没有现在强势、频繁和严厉。在1999年南斯拉夫“炸馆事件”、2001年法轮功“自焚事件”、2008年新疆“七五骚乱”等重大事件中，官方亦有广泛动用官媒手段。官方宣传部门对市场化媒体的删稿、内部批评、人事任免等常规监管也从未停止。</p>
-<p>然而近两三年来，市场化媒体的批评空间急剧紧缩，多个媒体的深度调查部门和评论部门被撤销或整顿，更有记者因发表不受官方欢迎的报导或言论而被羁押、逮捕甚至上央视认错──例如《新快报》记者刘虎和《财经》记者陈永洲、王晓璐。</p>
-<p>同时，传统官媒的再意识形态化明显：以央视为代表的官媒，报导最高领导人活动和讲话的比重大幅增加；“春节联欢晚会”几乎每一个节目，都与中央新政策和新理论挂钩；央视在接受领导人检阅时公开打出“央视姓党”的大字标语；全国娱乐节目收视最高的湖南卫视，在黄金时间插播歌颂领导人的MV《不知该怎么称呼你》。至于备受瞩目的“官媒审判”，则是其中直接指向民间打压的表现。</p>
-<p><strong>国内外的反制声浪</strong></p>
-<p>随着中国当局越来越频繁地使用“官媒审判”，尤其在央视播出了瑞典籍男子彼得·达林的认罪片段之后，欧美国家纷纷对这一现象表示担忧。</p>
-<p>瑞典政府外交部对此表示“不能接受”，瑞典驻华使馆官方微博也表示高度关注，并批评“电视认罪”的做法；欧盟驻华代表团发表声明称，“对近期欧盟公民在电视上公开认罪一事深表关切”；美国国务院发言人则表示，对在中国“疑似被迫认罪”的人数增加感到担忧，“这些行为削弱了中国自称是法治社会的主张，与中国的人权承诺背道而驰”。</p>
-<p>致力于推进新闻自由的国际非政府组织“无国界记者”，在彼得事件后，呼吁欧盟制裁中国中央电视台和新华社。它认为中国官媒对新闻自由造成“使人惊慌的威胁”，而且这种做法越来越多。</p>
-<p>据《南华早报》消息，“无国界记者”亚太主管Benjamin Ismail将桂敏海和达林形容为“受害者”，他说：“我们对被迫‘认罪’这种没有价值的信息传播感到愤慨……在明知这些是谎言，以及推测是在胁迫下做出的声明的情况下，中央电视台和新华社已变成面对民众的宣传武器，而非新闻媒体。”</p>
-<p>在中国，频繁的“官媒审判”也引起了部分民众反感，以及受害群体的反制。</p>
-<p>例如，北京警方官方微博“平安北京”转发了新华社针对劳工NGO的报导《<a href="http://www.weibo.com/1701367442/D9CXigKsa?type=comment#_rnd1459409448580">揭开“工运之星”光环的背后</a>》，在该则贴文下方的1400多条评论中，点赞数最多的10条评论，都是对文章表示反感和讽刺。获得了最多的107次点赞的评论是：“提个建议啊，我是好心，你们网评员（官方雇佣的水军）的模版该换换了，风格太一致了，一眼就能看出来。”</p>
-<p>在新华社《工运之星》报导出炉之前，国内劳权团体及其声援者就预料到，该案会出现“官媒审判”。因他们注意到，同为官媒的佛山电视台，坚持要采访被捕者之一的何晓波的妻子杨敏。在杨敏拒绝后，电视台方面还提及此报导“无论如何都会播出”。因此，声援团体想到要在污名化报导播出之前作出反制，他们迅速发布“恶搞”文章《<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU5MDQ1MQ==&mid=400790316&idx=2&sn=96410b87cf932bc471b92a29f5c2ca9e&3rd=MzA3MDU4NTYzMw==&scene=6#rd">天啦噜！他们说，何晓波要上电视啦！</a>》表达对“官媒审判”的担忧和质疑。</p>
-<p>《工运之星》发出后，声援团体更注意到，该文与新华社早前针对维权律师文章《<a href="http://politics.people.com.cn/n/2015/0712/c1001-27290030.html">揭开“维权”事件的黑幕</a>》的作者，同为记者邹伟。他们于是发布了指向邹伟的《寻人启事》，号召网民对其“人肉搜索”。何晓波妻子杨敏更向法院起诉邹伟和新华社作失实报道，目前法院未有回应，杨敏却遭到警察软禁并进驻家中。</p>
-<p>相比于强大的官媒垄断，民间的反制力量微弱，甚至可能遭遇报复。但在“找邹伟”行动之后，新华社发出的针对桂敏海和彼得·达林的类似文章，悄然取消了记者署名；温州网发出的张凯案文章所署记者“温平”，似与《环球时报》的“单仁平”雷同，是寓意“温州平安”的暱称。民间反制虽然效果有限，但似乎已让基层执行者有所压力。</p>
-<p><strong>难回极权的年代，审判折损了谁？</strong></p>
-<p>“官媒审判”的前提，是对官媒无上权威的维护。今年央视春晚因意识形态色彩过于浓重引发批评后，新闻联播、焦点访谈等央视皇牌节目，还有诸多党报和官方学者，纷纷出面表扬力挺，维持官媒权威的压力可见一斑。官方重新垄断媒体工具、拔高官媒权威，使之为官方意识形态服务、塑造唯一的全能型领导人，媒体领域被意识形态化和去自由化。这成为当下中国威权韧性消失、再次走向极权的重要表征之一。</p>
-<p>然而，现实又决定着中国难以完全回到极权，因为无论民间或是官僚体系，都难以对共产党的意识形态恢复毛时代那样狂热、彻底的信仰，因此，有分析者用“新极权”或“次极权”来描述当今之中国。随着官媒越来越成为明摆的、作用单一的、不容质疑的意识形态工具，以及“上央视”越来越多地作为民间打压的必选套餐，普通民众对其难免信任度持续下降、免疫力逐渐上升，民间行动团体的反制手段，则会不断更新和多样化。</p>
-<p>新的拉锯战怎样演绎？中国当局在官媒手段失效后有什么后手？有待进一步观察。</p>
-<p><strong>（赵思乐，自由撰稿人，专栏作家）</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E5%AE%98%E5%AA%92%E5%AE%A1%E5%88%A4%EF%BC%8C%E6%8A%98%E6%8D%9F%E4%BA%86%E8%B0%81%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E6%82%94%E7%BD%AA/?category=18271" rel="tag">公开悔罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%BF%8F%E6%82%94%E5%8F%B0/?category=18271" rel="tag">央视忏悔台</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">央视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1106,7 +1078,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1116,5 +1088,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

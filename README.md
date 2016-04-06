@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%91%E9%97%BB-%E8%BF%98%E6%9C%89%E6%9B%B4%E5%A4%9A/" target="cdt-mirror">美国之音｜政治局常委卷入巴拿马丑闻 还有更多</a>
+</h2>
+<p><div>
+<div>
+<div>
+<p><span>纽约—</span>国际调查记者联盟今天将披露更多亲属参与离岸交易活动的中国现任、退休和已故中共政治局常委的名字。根据BBC星期二的报道，从总部在巴拿马的莫萨克－冯塞卡法律服务公司泄露出来的大量文件中，披露了现任政治局常委张高丽和刘云山的亲属也在被称为“避税天堂”的离岸公司担任主管或股东。报道说，此时爆出这些消息“将使中共领导层非常难堪”。</p>
+<p>上周六，总部在华盛顿的国际调查记者联盟公布了“巴拿马文件”，披露了中国国家主席习近平、前总理李鹏、前政协主席贾庆林和前政治局委员薄熙来的亲属注册离岸公司或拥有离岸账户。</p>
+<p>《纽约时报》记者傅才德星期三在接受美国之音采访时透露，国际调查记者联盟还会有新的涉及中国领导人亲属的名字公布出来，公布的时间是4月6日，星期三，美东时间下午2点。傅才德说，“我知道一些新的名字，我正在写一个报道，但是不允许现在透露。”</p>
+<p>傅才德说，“总共应该有9个了。除了上次已经公布的4个，还有5个。”他说，其中两个是已经退休的已故中共前政治局常委。</p>
+<p>傅才德说：“我觉得这些新的内容很有意思。但问题是这些材料没有详细说明他们离岸公司的业务是什么，控制的资产是多少，这些还不详细。所以，我们记者可以根据他们的发现，来继续调查。”</p>
+<p>“巴拿马文件”包括了1100万份泄露的机密文件，预计会有一个较长的消化过程。美国之音将会继续跟进报道。</p>
+</div>
+</div>
+</div>
+<div></div>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%91%E9%97%BB-%E8%BF%98%E6%9C%89%E6%9B%B4%E5%A4%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%9D%E4%BD%8D%E4%B8%AD%E5%85%B1%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%B2%E5%B1%9E%E6%B6%89%E5%85%A5%E9%81%BF%E7%A8%8E%E6%B8%AF/" target="cdt-mirror">美国之音｜九位中共最高领导人亲属涉入“避税港”</a>
+</h2>
+<p><p><span>纽约—</span>星期三，国际调查记者联盟发表有关中国现任和已故最高层领导人亲属涉入“避税港”的最新报道。报道涉及的中共领导人亲属总数达9位，除之前已经披露的4位，新增加的亲属涉离岸公司活动的是现任政治局常委张高丽、刘云山；退休政治局常委曾庆红；已故领导人毛泽东和胡耀邦。</p>
+<p>上周六国际调查记者联盟发布的消息披露了中国国家主席习近平的姐夫邓家贵、前总理李鹏的女儿李小琳、前政协主席贾庆林的外孙女李紫丹和被废黜的前政治局委员薄熙来的妻子谷开来涉入离岸公司“避税港”的消息。</p>
+<p><strong>张高丽、刘云山亲属的离岸活动</strong></p>
+<p>这篇新报道由该组织记者欧蕾珊（Alexa Olesen) ，根据该组织获取的巨量“巴拿马文件”抽丝剥茧、梳理研究而成。报道说，现任中共政治局常委张高丽的女婿李圣泼，是英属维京群岛注册的三家公司的股东，它们分别是：Zennon 资本管理公司， Sino Reliance Networks Corporation 和 Glory Top 投资有限公司。</p>
+<p>另一位现任中共政治局常委是负责宣传口的刘云山。他的儿媳妇贾丽青是英属维京群岛注册的Ultra Time 投资公司的董事和股东，该公司于2009年注册。</p>
+<p>贾丽青是有中国“司法之王”的贾春旺的女儿。贾春旺曾于1985至1998年任中国国安部长，1998至2002年任中国公安部长，2002至2003年任最高检察院副检察长、检察长。</p>
+<p><strong>庆亲王榜上有名</strong></p>
+<p>已退休的前政治局常委曾庆红也榜上有名。于2002年至2007年任中国国家副主席的曾庆红的胞弟曾庆淮，在纽埃注册了中国文化交流协会有限公司，2006年又将该公司注册到萨摩亚。</p>
+<p><strong>离岸活动扯上毛泽东</strong></p>
+<p>报道还披露了两位已故中共领导人亲属的离岸公司交易活动。一位是中共建政第一代最高领袖毛泽东。他的外孙女婿陈东升2011年在英属维京群岛注册了离岸公司Keen Best国际有限公司。</p>
+<p>陈东升是泰康人寿保险公司的董事长和艺术品拍卖行嘉德的创办人之一，他也是Keen Best离岸公司的唯一董事。</p>
+<p>2011年与毛泽东外孙女孔东梅结为夫妻。孔东梅是毛泽东与前妻贺子珍的女儿李敏的女儿。</p>
+<p>根据自由百科，陈东升在2012年财富杂志中国最具影响力的50位商界领袖排名第19。2013年《新财富》杂志发布的“新财富500富人榜”排名中，陈东升、孔东梅夫妇以50亿元财富位列第242位。</p>
+<p><strong>胡耀邦儿子以老家地址注册</strong></p>
+<p>国际调查记者联盟的报道还披露了中共前总书记胡耀邦的三儿子胡德华的离岸公司活动。胡耀邦曾在1982至1987年担任中共总书记。</p>
+<p>报道说，胡德华是2003年在英属维京群岛注册的Fortalent 国际控股公司的股东、董事和实益拥有人。他注册离岸公司的地址，用的就是他父亲胡耀邦担任总书记时居住的北京四合院的地址。</p>
+<p><strong>大腕名人喜欢藏富</strong></p>
+<p>调查记者联盟的最新报道还披露了中国一些名人大腕的离岸公司交易活动。沈国军是创办中国购物中心的银泰投资有限公司董事长，他和已披露的香港影星成龙及其他人，都是一家2008年注册在英属维京群岛的龙梦有限公司的股东。</p>
+<p>宗馥莉是中国宏胜饮料集团总裁、杭州娃哈哈集团公司董事长兼总经理、亿万富翁宗庆后的女儿。2015年2月她在莫萨克－冯塞卡公司的帮助下收购了英属维尔京群岛空壳公司“紫色神秘”投资公司。公司的信函显示，其宗旨是“到中国投资” 。</p>
+<p>报道还说，宗庆后的妻子施幼珍 ，曾被要求接受防止洗钱的“加强尽职调查”，其中包括对她离岸公司持有资产的查询。</p>
+<p>沈国军、宗馥莉和香港影星成龙都没有回复国际调查记者联盟提出的评论要求。</p>
+<p><strong>中国成全球“避税港”注册之首</strong></p>
+<p>国际调查记者联盟的报道说，莫萨克－冯塞卡是全世界5家最大的创办离岸公司的机构之一，它于1989年在香港设立了分公司，2000年在中国大陆设立第一家分公司。现在，它在中国已经设立了8家分公司，分别在深圳、宁波、青岛、大连、上海、杭州、南京和济南。</p>
+<p>一份泄漏给国际调查记者联盟的文件显示，截止2015年底莫萨克－冯塞卡律师服务公司总共收取了16300家通过其香港和中国大陆分公司建立的离岸公司的费用。</p>
+<p>这些离岸公司占莫萨克－冯塞卡全球总数的29%，使得大中华区成为该律师服务公司唯一的最大市场，也使其香港分公司成为其全球最繁忙分公司。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%9D%E4%BD%8D%E4%B8%AD%E5%85%B1%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%B2%E5%B1%9E%E6%B6%89%E5%85%A5%E9%81%BF%E7%A8%8E%E6%B8%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%AF%94%E6%8A%A5%E8%AD%A6%E7%AE%A1%E7%94%A8%E7%9A%84%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">【网络民议】一个发微博比报警管用的国家</a>
 </h2>
 <p><p>4月5日开始，微博热门话题“和颐酒店女生遇袭”一直高居榜首，争议没有停止过。</p>
@@ -949,181 +1007,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%AC%E5%85%831874-%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%EF%BC%9A%E4%B8%80%E9%83%A8%E8%AE%B2%E8%BF%B0%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%A7%91%E5%B9%BB%E7%89%87/" target="cdt-mirror">公元1874 | 《十年》：一部讲述和谐社会的科幻片</a>
-</h2>
-<p><p>《十年》是一部香港独立导演制作的短片集，由五个故事组成。</p>
-<p>它在2016年4月3日的香港电影金像奖上，拿到了最佳电影。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kl5ymc23j20ge0nmq4g.jpg?resize=550%2C792" alt="6764cadegw1f2kl5ymc23j20ge0nmq4g" data-recalc-dims="1"></p>
-<p>五个故事都有一个主题——未来的香港是什么样子。</p>
-<p>这个主题换大陆拍，很容易，畅想未来嘛，和谐的阳光打在脸上，每个人都洋溢着幸福的微笑。</p>
-<p>但这部电影，显然不会这么干。</p>
-<p>说到《十年》的背景，不得不提到香港。</p>
-<p>近年来，香港发生多起社会事件，令香港人忧虑未来。</p>
-<p>邓小平当年提出“一国两制”，令香港人安心；但回归后，内地对香港政策锁紧，2003年想在基本法上增加一条“大陆警察在香港有执法权”，并以国家安全为障眼法，引得香港数十万人大游行；</p>
-<p>2008年汶川地震，香港政府、市民合计捐款220亿（是的，你没看错，这个只有700万人的城市，捐了220亿）。那一年香港人对国家的认同度，达到回归以来的顶点。结果，事后善款被当地官员贪污滥用，甚至买上万一瓶的红酒，引得香港强烈震撼，民间激起极大的反响。</p>
-<p>2011年，香港推行国民教育、普教中，倡导学校实行普通话教育，并让老师教导学生，听国歌看升旗的时候应该流泪感动……</p>
-<p>2015年，回归前中国政府承诺香港的普选行政长官，一人一票选举，变成只有1200个指定的“代表”的小圈子选举……</p>
-<p>种种行为，令香港人不得不担心，一国两制，成为一纸空文。</p>
-<p>再加上近年来爆发的陆港矛盾，走私水货、奶粉等等，让中港关系进一步撕裂。</p>
-<p>《十年》，就在这样的背景下诞生了。</p>
-<p>五个短片都讲述了什么呢？</p>
-<p>第一个，《浮瓜》。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?resize=600%2C392" alt="6764cadegw1f2kll2o9zwj20p90gh41w" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?resize=230%2C150 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kll2o9zwj20p90gh41w.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>2020年，香港准备实行《国家安全法》，也就是上面提到的“基本法第23条”。2003年因为港人游行，强烈抵触，此法案搁浅。2020年，中共下达强硬指令，必须要在香港通过。因此，亲近中共的香港政党，决定在选举的时候，自导自演一场枪击案，来证明香港有了恐怖袭击，实行《国家安全法》刻不容缓。</p>
-<p>故事的主角，就是两个黑社会的小混混，他们的老大受政党高层委派，找了他们来做事。这两个小混混一直在盘算，做了这件事能拿多少钱，能让老大如何关注到自己，如何飞黄腾达。老大也对他们保证，刺杀只是做做样子，不用真的流血。做完这件事，他们前途光明。</p>
-<p>结果呢？两人在选举现场做做样子的时候，被政党早就安排好的特警当场击毙。他们的出现也成为了国安法通过的重要原因，至于这连个恐怖分子，死不足惜。</p>
-<p>既悲凉，又讽刺。</p>
-<p>这个故事是短片里我觉得商业性最强的，很多好莱坞的动作片都有诸如此类的政治阴谋论调。至于里面所讲的情节，中央政府安排人去搞刺杀，是不是危言耸听呢？</p>
-<p>说实话，重庆的事情出来之前，我一直都觉得这些政治斗争都是地摊文学上的事，什么进门看见他亲了我的夫人啊，什么半夜潜逃美国大使馆啊，什么人体解剖犯人啊……</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kllatm55j20zk0ltn07.jpg?resize=600%2C368" alt="6764cadegw1f2kllatm55j20zk0ltn07" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kllatm55j20zk0ltn07.jpg?resize=300%2C184 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kllatm55j20zk0ltn07.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>结果，政治比我想的还要肮脏、不堪得多。</p>
-<p>《浮瓜》，不过就是基于现实，合理的一种假设。</p>
-<p>同样基于现实的假设，还有《方言》。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klmhybahj20u00k0wh0.jpg?resize=600%2C400" alt="6764cadegw1f2klmhybahj20u00k0wh0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klmhybahj20u00k0wh0.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klmhybahj20u00k0wh0.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>《方言》讲述2022年，香港全面实行普通话。主角是一名计程车司机，他的儿子因为学不好普通话，上不了好的中学，因而全家都在帮助他学习普通话。而这个中年司机，也在努力学习，但毕竟年纪大了，学起来很吃力。</p>
-<p>结果，在一次接乘客的过程里，他被其他司机指控擅自用广东话接客，被前来执法的公安干警（没错，2022年已经是公安干警在香港执法了，剧情衔接《浮瓜》）抓获。</p>
-<p>这一段短片里有很多搞笑段落，我在电影院看的时候，当主角努力用“煲冬瓜”的方式说出半生不熟普通话的时候，总会引来全场笑声。</p>
-<p>但笑过之后，又有点悲凉。</p>
-<p>内地90年代末，广州的中小学已经逐渐开始禁止学生在学校说粤语。墙上也会帖标语“说普通话 文明用语”——看吧，说粤语，竟然是一种不文明的行为。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klnnw1t3j20ef09mq3j.jpg?resize=600%2C400" alt="6764cadegw1f2klnnw1t3j20ef09mq3j" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klnnw1t3j20ef09mq3j.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klnnw1t3j20ef09mq3j.jpg?w=519 519w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>普通话已经和中国梦挂钩了</p></div>
-<p>近年来，广东的政协委员甚至提及，在电视节目里应该全部使用普通话。结果，这个荒唐的决定引来广东市民的强烈抵触。2010年，广州市民发起“撑粤语行动”，捍卫广东话，最后令此事搁浅。</p>
-<p>那就这么不了了之了吗？并没有。今年广州的跨年晚会，里面表演了传统粤剧《船说》。女主持人在表演完了之后说，本剧令人感受到“粤剧之美”。</p>
-<p>保护城市文化，展现文化之美，确实不错。</p>
-<p>但是——请注意。</p>
-<p>这个传统粤剧，竟然，是用普·通·话·演·出。</p>
-<p>且不论换了一种语言去演绎，平仄韵律不对，文化意境缺失；单就“粤剧”拿“普通话”去演，本身就意境是一种莫大的讽刺。</p>
-<p>所以，香港人的担忧，不无道理。</p>
-<p>《冬蝉》，讲述2017年香港深水埗旧城区拆迁，一对男女成为钉子户，在废墟里顽固生活，抗拒地产商。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kljjptcvj20u00k0q59.jpg?resize=600%2C400" alt="6764cadegw1f2kljjptcvj20u00k0q59" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kljjptcvj20u00k0q59.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kljjptcvj20u00k0q59.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>但他们终究抵抗不住大财团，最后决定，把身边的一切，连同自己，制造成标本。</p>
-<p>强拆，这件事好像在大陆，大家都见怪不怪了。香港有没有呢？</p>
-<p>拍完《十年》后不久，前几天，香港就发生了这么一个新闻：3月14日，香港古洞的村民，被不明身份的人开着推土机与铲泥车，强行推平了自己居住的房子。</p>
-<p>强拆，这个标志性的中国特色，终于也来到了香港。</p>
-<p>《本地蛋》</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klb8q22ij21500r9wmz.jpg?resize=600%2C399" alt="6764cadegw1f2klb8q22ij21500r9wmz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klb8q22ij21500r9wmz.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klb8q22ij21500r9wmz.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>这个看了心情很复杂。</p>
-<p>2025年，香港只剩下最后一个养鸡的农场。而这个农场因为高昂的租金，也开不下去，要移居到台湾。廖启智饰演的杂货店老板多年来都在卖本地蛋，如今失去货源，他也颇为无奈和伤感。</p>
-<p>另一面，更让他恐惧的是儿子。儿子上了小学，班上组织了少年军，少年军在老师的安排下，进行若干“保密行动”。这些行动，老师说不能告诉外人，包括自己的父母。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klblbzpjj20go0b4wfj.jpg?resize=600%2C400" alt="6764cadegw1f2klblbzpjj20go0b4wfj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klblbzpjj20go0b4wfj.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klblbzpjj20go0b4wfj.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>他有一次发现，原来儿子在老师的引导下，去检查书店有没有卖不良书籍。一旦发现，他们就记下来交给老师，同时组织学生去围攻书店。就连他自己都被儿子批评：你为什么写本地蛋，不写香港蛋？你这是宣传本地至上，是港独思想！</p>
-<p>这可不是什么危言耸听。前段时间陈奕迅在澳门麦当娜演唱会上上台，麦当娜问他是哪里人，陈奕迅说自己是香港人，结果一群人去微博骂他：你为什么不说自己是中国人！</p>
-<p>看看这些人，和电影里的故事何其类似。</p>
-<p>影片里，这些10来岁的小孩子，身穿着文革时期红卫兵的衣服，带着红袖章，令人不寒而栗。</p>
-<p>这一段让我联想到了文革时期，让儿子斗父母，学生斗老师的情景。</p>
-<p>文革过去这么多年了，谈文革依然是禁忌。我12月去参加东方卫视一个音乐节目的录制，其中有一个60多岁的歌手杨乐，唱了一首阐述自己家庭命运的歌，叫《从那以后》。</p>
-<p>里面有一段歌词，“小的时候，一家六口……文革以后，剩下五口；爸爸含冤，走在前头。”我在现场听得非常感动，因为杨乐真情满满。</p>
-<p>结果事后和工作人员讨论，对方说，这首歌可能不在电视上播出，因为提到文革了。</p>
-<p>我说连文革都不能提啊？！</p>
-<p>幸好最后还是正常播出了。可这种连工作人员自己都害怕，开始自我审查、自我阉割的思想，是非常让人恐惧的。</p>
-<p>如上所说——因为无法可依。是啊，没人说不可以提文革。但是，你真的去拍文革的电影，写文革的歌，能过得了吗？</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klcuynj9j21kw11x0vw.jpg?resize=600%2C400" alt="6764cadegw1f2klcuynj9j21kw11x0vw" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klcuynj9j21kw11x0vw.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klcuynj9j21kw11x0vw.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>这个国家，制造着一种无形的白色恐惧，弥漫在你我周围。</p>
-<p>《自焚者》</p>
-<p>这是五个故事里最像纪录片，也最悲凉的一个。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klfvdfxxj21990p0agc.jpg?resize=600%2C332" alt="6764cadegw1f2klfvdfxxj21990p0agc" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klfvdfxxj21990p0agc.jpg?resize=300%2C166 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2klfvdfxxj21990p0agc.jpg?w=720 720w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>2025年，在英国驻香港领事馆门口，发生了一宗自焚事件。</p>
-<p>在这之前，因为《浮瓜》里提及的国安法实行，香港市民已经爆发了多次游行和抗争，一位和平抗争者欧阳，成为国安法实行之后，首位入狱的罪犯。他的入狱激起了民众的强烈抵触，而他本人在监狱绝食，最后死亡。</p>
-<p>这起自焚事件，主角担心是他的好朋友为了抗议政府和欧阳的死，而去选择自焚牺牲。但最后的真相，却出人意料。</p>
-<p>本片里出现了大量对真实学者、立法会议员、作家、学生的访谈，乃至港独份子。同时，也出现了防暴警察用催泪弹驱散人群的画面，令人不由自主的联想到2014年的雨伞运动。</p>
-<p>这毫无疑问是五个短片里争议最大的一部，如果说其他四个修修改改还勉强能过审，这一个则毫无可能，相信也是《十年》遭禁最直接的原因。</p>
-<p><strong>————总结————</strong></p>
-<p>这段时间，不停的有人在微博问我，你是不是支持港独？你是不是支持国家分裂？</p>
-<p>我本身是一个政治立场比较保守的人。</p>
-<p>我不认同港独，也反对流血革命，也希望身处一个和谐社会。</p>
-<p>但我认为，能让大家都能自由平等的交流思想是最重要的，即便你要屏蔽、封锁，也应该拿出相关的法律法规，有法可依才对，而不是制造白色恐怖，一昧的禁止和恐吓。</p>
-<p>《十年》是一部不和谐的电影。但我不觉得这部电影是港独。真正的港独根本不屑于去拍电影，他们直接冲上街头去对抗了，拍电影太麻烦。</p>
-<p>还能用电影这样的艺术方式，去警醒大家，去提醒我们的社会有了什么问题，那才是真正爱这个社会，真正希望社会和谐的人。</p>
-<p>和谐，不是一百个人说同一番话；和谐，是一百个人说不一样的话之余，而又互相尊重。</p>
-<p>希望我们能见到，若干年后，那个真正和谐的社会，真正和谐的中国。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%AC%E5%85%831874-%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%EF%BC%9A%E4%B8%80%E9%83%A8%E8%AE%B2%E8%BF%B0%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%A7%91%E5%B9%BB%E7%89%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%B9%B4/?category=18271" rel="tag">十年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8C%96/?category=18271" rel="tag">大陆化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%9C%A8%E8%BF%99%E4%B8%80%E6%B3%A2%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%AD-%E5%A5%B9%E9%80%8F%E6%94%AF%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%8A%E6%B5%B7%E4%BA%BA47/" target="cdt-mirror">端传媒 | 在这一波房价暴涨中 她透支了一个上海人47年的工资</a>
-</h2>
-<p><p><strong>编者按：这一轮央行降准“放水”后，“北漂”、“沪漂”们对于今生今世再也买不起房的恐慌，投资者们对于手中人民币贬值的恐慌，使得人民币又一次哗哗涌向了截至目前这个国度最坚挺的“硬通货”——一线城市的房地产上。房价疯狂上涨。在当今的北京、上海、深圳，无房一族大概在经历这样一场噩梦：买不起房——努力工作——更买不起房了。</strong></p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=600%2C400" alt="中国上海一个房地产展销会，一名销售员在住宅模型前向顾客推销楼盘。摄：Stringer/REUTERS" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9496a7ec69bc48ff9e0983d7903853d7.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>中国上海一个房地产展销会，一名销售员在住宅模型前向顾客推销楼盘。摄：Stringer/REUTERS</p></div>
-<p>被中介带进房子的时候，黎曦（化名）被眼前的画面震惊了：墙边大红大绿的装潢，地板由一小块一小块的木头边角料拼接而成，发污泛黄，墙角堆放着蒙尘的陈年白酒瓶，铁框窗户是镶着猪八戒耙子样的老式卡扣，锈得很难拧开。</p>
-<p>这是一套上海市1990年代的老公房。房东老大爷正在看一部很老的香港武打片，男主角留着李小龙一样的发型，配音的声音和粤语的口型完全配不上。一瞬间，黎曦以为自己穿越回到童年。</p>
-<p>房东要价250万。避开利率，按上海城镇居民2015年人均可支配收入52962元计算，这个价位对应的是一个工薪阶层不吃不喝，足足工作47.2年。</p>
-<p>黎曦考虑买下这套房子。虽然它靠近马路，又旧楼层又高，但这已经是他们一家人在有限的预算内，户型、采光、交通等综合分最高的房源。</p>
-<p>想想，这房子装修虽然旧了，好歹还算整洁，有点“人烟”。之前，黎曦还见过不少一些生于“70后”和“80后”准备出手卖掉的房子——大多是过世的老人房或者夫妻的离婚房。在上海徐汇区田林片区的的一个老房子里，水泥地面，阴森森的，没有客厅。一进屋就是房间，床上被子乱成一团，远处的桌上还放着灵台。中介说这个房子的老人刚刚去世，子女就来卖房了。</p>
-<p>这天是2016年3月1日，从那套价值250万的房子走出来，黎曦照常去上班，没有在意媒体上中国人民银行宣布降准（即降低存款准备金率，是央行货币政策之一，以此释放银行业的流动性，让市场上钱多一些）0.5个百分点的新闻。她是理工科女生，对宏观经济不大感冒。她淡定地加班忙完手里的工作，等着中介告知房东的意愿。然后第二天宏观经济降临到黎曦的头上——房东不想卖了，如果要卖，再加价十万，相当于她半年的工资。</p>
-<p>黎曦感觉自己被狠狠咬了一口。但她毫不意外。这已经是一个月来第四家临到签合同时又反悔的房东了。至少，这家房东还是诚心卖的。</p>
-<p>还愣什么？赶紧签吧。</p>
-<div></div>
-<div>
-<div>
-<p> </p>
-<p><strong>“现在不买房，一年又白忙”</strong></p>
-<p>事后证明黎曦的当机立断无比英明。没过几天，在一线城市，房东反价、坐地起价几十万是普遍状况，一些房东现场开起了拍卖会——房东和中介把购房者们集中到一起现场竞价，谁出价最高，房子就卖给谁。</p>
-<p>对于投资者而言，由于人民币离岸无望、股市无常、货币贬值预期以及实体经济衰退得让人望而却步，他们纠结着：如何才能让手里的人民币不贬值？然后，资金再次哗哗涌向他们最熟悉的投资安排——买房子。</p>
-<p>对于更多的人，像黎曦这样的北漂、沪漂而言，出于一种房价一高再高、或许今生今世再也无法安家大城市的恐慌，也像抓紧最后一个窗口期般，仓皇入市。</p>
-<p>全民买房热或是政府期待发生的一幕。房地产业过度迅猛的发展，让自2011年起每年中国商品房待售面积新增1亿平方米，库存巨大，难以化解。2015年底落幕的中央经济会议明确将“去库存”纳入新一年确定的五大经济任务之一。此次降准，便是实体经济每况愈下之时，中国政府放出的政策刺激措施。类似的刺激政策曾被多次使用。这一次，“降准”释放了大约6000亿资金的流动性。</p>
-<p>但政府调控了开头，却没控制住结局——在三四线城市和一线城市，“去库存”任务呈现出冰火二重天之别：前者积压如山倒，即便刺激购买，仍是鲜有人问津；后者奇货可居，哪怕各种限制，大家也是想着法勇往直前。</p>
-<p>降准放水（由于降准会扩大市面上流通货币的总量，可能导致通货膨胀，民间称之为“放水”）后，3月以来，一线城市中心城区的房价水位飙升。接下来的日子里，上海市民裹被子排队买房、北京房东反价以自己“有精神病”为由要求毁约或者涨价60万、深圳新房一年间涨幅107.7%达均价5.4万元/平米等等报道，充斥着这个国度的新闻端。评论称：房价已疯。</p>
-<p>直至3月25日，上海、深圳祭出更严格的住房限购政策，一线城市的楼市狂热才稍微得以喘息。截止发稿时，上海的最新政策规定：不结婚者不能买房，非本地户口人士另附一条：必须连续缴纳社保五年以上，被称为“史上最严限购政策”。</p>
-<p>投资者的撒钱狂潮暂时被煞住了，却也让更多希望觅得安身之所的沪漂（媒体上总是归纳，这些人才是所谓“刚性需求者”）陷入绝望。黎曦的很多小夫妻朋友也加入了看房大潮，沪九条（指上海于2016年3月25日出台的房市调控新政）一出，顿时偃旗息鼓了——没有上海户口，他们只能再等几年。</p>
-<p>3月25日凌晨，一位名叫“财上海”的微博知名财经博主写下“讣文”：</p>
-<p>“现在是2016-3-24，23:59，还有1分钟，没有上车的同学，你的这辈子结束了。过几年，你有买房资格或存了一点钱了，房价也和你无关了。”</p>
-<p>“现在不买房，一年又白忙”，售楼处里，地产中介喊得热闹。</p>
-<p>2007年起，北京、上海的房价微微发烫。2008奥运那年，北京四环外房产均价每平米一万元，那时还有许多坚定的“不房主义者”，每次讨论房价必以严厉话语炮轰房地产现状：“泡沫太大，过两年必跌无疑，等跌到3000块再入手！”但北京房价自顾自嗖嗖往上涨，越过金融风暴的低谷，越挫越勇，经过几轮微跌猛涨的震荡到了2016年，北京四环外房产均价已达每平米五万元。</p>
-<p>十年过去，曾经发起“万人不买房运动”的社运人物在为自己当初的言行道歉后销声匿迹，当初唱衰楼市危矣的媒体人也赶紧闷声囤房子以求自保，人们动用着各种经济分析工具研究着北京的楼市究竟会像上个世纪90年代的日本一触即破，还是像香港那样勇攀到每平米十万以上。在当今的北上深，无房一族面临着如此永劫轮回：买不起房——努力工作——更买不起房了。</p>
-<p>尽管费了不少周折，黎曦已然安全“上岸”。3月8日，这位北京大学硕士学历的姑娘对端传媒记者开玩笑说：“读再多的书，考再多的文凭，还不如你妈当年把供你上学的钱，拿去买房子。”</p>
-<p><strong>租房＝被“卖猪仔”＝越来越边缘的人生？</strong></p>
-<p>黎曦出生在中国东部省份的一座三线城市，毕业后先留在北京工作。</p>
-<p>离开三四线城市，汇入一二线城市——这也是这些年中国人口流动的统计学结果。中国高度集权的行政统治，正越来越快速地改变着中国人口版图，资源和人力源源不断地向大城市集中，县里的人往市里去，市里的人往省会去，省会的人往北京上海去。这一波人口流动的结果是，农村加速凋敝，变成了“有院无人住、有地无人种”的空心地带。</p>
-<p>城乡发展的不均衡，使得贫困落败的地方，更加留不住人才。</p>
-<p>对于年轻人而言，回到三四线平庸又固化的小城市，生活也许田园牧歌，但它很可能意味着某种意义上的死亡——上班端茶送水，下班吃饭打牌，人生一眼可以望到尽头。</p>
-<p>而工作在北京、上海这类一线城市，尤其北京，看起来前途无可限量。这里驻扎着各行各业的优质资源：全中国最顶尖的医院，学术、音乐、影视、艺术、体育类最顶尖的院校，48家世界500强企业总部数量居全球第一，中关村和望京是创业时代的“革命圣地”，每年若干年轻人在这里创造着一年估值上亿的财富神话，美术馆流动着世界级大师的展览，周末处处沙龙新思想激荡……</p>
-<p>唯一需要承受的，是不那么友好的房价。</p>
-<p>如同绝大多数甘愿在首都北京零起步的青年，黎曦一开始选择了租房。那时她觉得买房这件事离自己太远，她还年轻，可以靠努力塑造人生。</p>
-<p>理论上讲，房价高企至今，租房是一个实惠的选择。国际上习惯用“租售比”来衡量某地区楼市运行，是指每个月租金与房屋总价的比值。通常认为，合理的租售比在1：200左右；低于1：200，则适合购房投资，若高于1：200，则房产泡沫显现，适合房屋租赁。北京的租售比约在1：500左右，泡沫远超国际警戒线——这对租客来说非常划算。</p>
-<p>而现实很骨感，“即使我可以一直租房，但指不定哪天房东就卖房了，”黎曦说。</p>
-<p>租客，常常形如寄人篱下的“猪仔”。在端传媒记者的朋友圈里，姑娘M，半年之内被迫搬了两次家：第一次，男房东说，媳妇和妈合不来，老吵架，小两口还是想搬回来，和老人保持距离感。M心软，默默搬走了，另租了一户3300的一居。这次的房东常年在加拿大，听起来很省心，但没过半年，M正感冒卧床，本该鞭长莫及的房东突然敲门来了：想卖房。</p>
-<p>房价狂涨动摇中国人的财富结构之时，也许每一个北漂都有过被“卖猪仔”的际遇，至于涨多涨少，全赖房东的人品和心情。在2013年的北京，端传媒记者曾租下一套四环的一居室，一年租约内，这套房屋被190万卖出后，又被新房东以240万转手卖出，同期，房东要求房租上涨45%。</p>
-<p>在西方国家如德国，超过6成的民众会选择一辈子租房。除了政府的房租指导价制度，严格的法律保障也是租房市场蓬勃的关键——比如严格规定房租三年内不得超过20%等，使得房东涨价难、解约难。</p>
-<p>而在中国，房东涨价、解约所付的全部代价是——赔一个月租金，当作违约金。</p>
-<p>悟出“人生如寄”的人会摆脱这个怪圈；但更多时候，“漂”们被罩上一层loser的阴影，一面认宰，一面由得帝都的“挤出效应”，一环一环往更偏更远更狭窄处漂去。</p>
-<p><strong>啃老或燕郊</strong></p>
-<p>人们转而投奔乾坤大法：砸锅卖铁，赶紧买房。</p>
-<p>工作五年，搬了5次家后，年薪约十五万的黎曦打算改弦易辙，她需要一个房子，寄托自己的安全感。</p>
-<p>大陆网络问答社区“知乎”上，曾有一个段子。</p>
-<p>问：“一个年薪十五万左右的人在北京买得起房吗？”</p>
-<p>答：“买得起。我有一个好哥们，不上大学之后，去北京打拼，年薪10万左右……之前都是月光族，决定买房之后，几乎不去夜店玩了，吃饭都是自己和女朋友做饭，也间接促进了和女朋友感情。一个月能攒下不少钱。过了大概半年左右，他爸爸给了他608万，在北京买了一套房子。”</p>
-<p>这个答案未免夸张，因为年轻人努一努力，还是有可能往市区二三十平米的老公房、郊区荒芜人烟的商品房、农民们的小产权房冲刺一把。但这些可能性并不妨碍它所揭示另一层现实——对于一线城市的工薪阶层，若非“啃老”（指成年后经济不独立、依靠父母供养的年轻人），你准备首付的速度，大概永远追不上房价上涨的速度。</p>
-<p>更何况，也许你根本没资格买房——北京的限购令要求，不具备北京户籍的居民，需要缴纳社保连续五年方有购房资格。但这会不会意味着，北漂的置业之梦越来越遥远：五年以后，房市奔突何处？</p>
-<p>焦虑的人们在寻求突围，一些人囿于限购令，一些人奔向价格洼地，这些年，超过30万北漂在天安门往东30多公里的地方，行政区划隶属河北省的一个名叫燕郊的小镇上找到了安居乐土：这里与北京仅一河之隔，房价只有隔壁的三分之一，首付也触手可及。</p>
-<p>过去十年来，河北小镇燕郊复制了一个野蛮生长的北京所有发展模式，市镇规划和房价，都以百分之几百的速度在：近十倍的房价，二十倍的人口，在三河市1/12的土地上创造了60%以上的财政收入。当然，也有成倍增长的罪案数量。</p>
-<p>住在燕郊始终不是一件特别愉快的事，每天，数十万打工族大军轰轰烈烈跨省上班下班，在路上花足四个小时以上。有时，乘客得在北京三环国贸站等上一个多小时，第13趟，才能挤上回家的公交车。而这座小镇旧有脆弱不堪的基础设施也为十几倍发展的新兴楼盘所累，夏天停水断电，冬天供不上暖，垃圾场的堆体攀越了铁篱笆，向四面八方扩张。燕郊的业主们动辄以堵路向物业抗议，自称“平时上班，周末维权”，于是一百万人的交通都陷入瘫痪。</p>
-<p>一面受害，而另一面，这里的业主们很快也成为北京房价暴涨的受益者——2016年3月，受“降准”和河对岸北京市通州区建立行政副中心的利好，燕郊也暴涨到均价2万一平米，三年间涨幅超过100%。</p>
-<p>人们更加笃信“有房即正义”的真理，不少北漂成为燕郊一带的“炒房一族”，有闲钱就往楼市里砸，以积攒重返北京的资本；更多计划置业的北漂开始往更东更南的地方扩散，离天安门45公里的大厂，50公里的固安，60公里的香河……是的，继续每天跨省上班。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=600%2C400" alt="山东省日照市建筑中的楼宇。摄：Stringer/REUTERS" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02242232f41d4b44a33e7985e67051f4.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>山东省日照市建筑中的楼宇。摄：Stringer/REUTERS</p></div>
-<p><strong>要么忍耐，要么回到家乡“去库存”</strong></p>
-<p>外地人口正加速向北京聚拢。截至2015年底的十年间，北京的人口净流入632.5万，几乎赶上香港的人口数量。其他一线城市里，上海增加525.27万人，广州增加355.81万人，深圳增加310.12万人。这些新增的庞大人口基数，成为房价看涨的坚实后盾。</p>
-<p>2005年国务院曾指出，2020年北京的总人口规模要控制在1800万人；如今人口已突破2000万大关，这条人口承载红线提前10年被打破。一份《京津冀发展报告（2013）——承载力测度与对策》指出：北京的综合承载力已进入危机状态。</p>
-<p>权力高密度地吸附了资源、人口，中国的各种城市病，在北京变本加厉：壅塞的交通、大量的空气污染、水短缺、教育资源短缺、医疗资源短缺、高房价……城市的管理者由此制定了愈发严苛的控制政策，户籍制度、房屋限购、汽车限购，但这些都无法阻止，北京人口每年增长50万以上和房价每年以最低10%的幅度往上涨。</p>
-<p>海通证券的首席宏观分析师姜超在2016年2月撰文写道，截至2015年底，按均价5万/平、20亿平米的住宅存量来看，北上深对应的市值约是100万亿人民币，足以买下半个美国，“相信把整个日本买下来也没有太大的问题”。</p>
-<p>硬币的另一面是，如果单凭买房子卖房子，一年就能挣够几十年的资本，谁还有心思一头扎进实体经济？</p>
-<p>人们当然不相信房价会冲破天际。近期中国楼市有了另一种趋势，富人们正争相抛售房产，将资产转移出境，但那毕竟是金字塔尖2%的故事。</p>
-<p>现阶段，对大多数普通人而言，不管中国兴或衰，汇率涨或跌，GDP增速大于或是小于7%，他们都更倾向于在这片愈加逼仄的土地上存续一生：结婚，生子，供子女入学，直至步入墓穴。而房价一路绝尘而上，人生的每一阶段都像升级打怪。越来越多人涌入，生存空间越来越狭窄，无房一族往往一天比一天恐慌：也许只要脚踏实地稳步前进终能抵达的生活，将日渐灰飞烟灭。这时你只有两种选择：要么忍耐、留下，要么回到家乡“去库存”。</p>
-<p>而这种恐慌，进一步推高了房价。</p>
-<p>黎曦一度是个焦虑的“剩女”，过去她以为这就是人生最大的灾难。直到结婚买房，她才明白，找不到伴侣只是一个坎而已，找到以后，灾难还将扑面而来：生小孩怎么办？学区房怎么办？赡养老人怎么办？这些显然是一套建筑面积60平米的老公屋难以承载的。</p>
-<p>“现在无论什么饭局，最终都是房子孩子的焦虑话题，这个社会就是让人着急，”随着阶段性的尘埃落定，黎曦回复了一名理科生的淡定，“所以呢，还是回归自我，有吃有喝就足够了。”</p>
-</div>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%9C%A8%E8%BF%99%E4%B8%80%E6%B3%A2%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%AD-%E5%A5%B9%E9%80%8F%E6%94%AF%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%8A%E6%B5%B7%E4%BA%BA47/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%EF%BC%8C%E4%B9%B0%E6%88%BF%EF%BC%8C%E6%B6%A8%E4%BB%B7%EF%BC%8C%E4%B8%AD%E4%BB%8B%EF%BC%8C%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%EF%BC%8C/?category=18271" rel="tag">房地产，买房，涨价，中介，房价暴涨，</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1135,7 +1018,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1145,5 +1028,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

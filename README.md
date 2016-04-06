@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【网络民议】冰岛这届人民不行</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%AC%E4%B8%BB%E5%A7%90%E5%A4%AB.png" rel="attachment wp-att-434311"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%AC%E4%B8%BB%E5%A7%90%E5%A4%AB.png?resize=585%2C316" alt="公主姐夫" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?resize=300%2C162 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?resize=768%2C415 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?resize=1024%2C553 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?w=1059 1059w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>“姐夫”和“公主”；国际调查记者同盟“巴拿马文件”<span><a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a></span>截图</span></p>
+<p>在国际调查记者同盟曝光的“<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>”中，冰岛总理与妻子的名字赫然在列。该国随即爆发了大型示威，大量民众上街要求总理辞职。周二，冰岛总理宣布辞职，成为了第一个因巴拿马文件泄露事件而下台的政客。</p>
+<p>然而由于中共宣传部门迅速为此下达了<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="_blank">禁令</a>，并同时对网络上的相关新闻及评论进行了非常严格的审查，从而导致了一种“墙外狂风暴雨，墙内岁月静好”的现象。目前中国大陆媒体在报道冰岛总理辞职新闻时均采用了新华社通稿。该通稿<a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="_blank">刻意避开</a>了“巴拿马文件”和当地爆发的大型示威，称其辞职是因为“没有申报与妻子共同拥有一家公司的情况”，是被反对党要求的。</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>专题</li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="_blank">【立此存照】墙内新闻网站如何报道冰岛总理辞职原因</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C-%E5%85%9A%E5%AA%92%E5%88%A0%E5%B8%96%E5%BE%88%E8%A1%8C/" target="_blank">【网络民议】这届人民不行</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F/" target="_blank">【立此存照】平行世界 · 中国血统</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@深度News官网：【冰岛总理辞了！】冰岛这一届人民真行！两万人堵总理家门口，总理就怂了。速度够快！也就一天时间！</p>
+<p>@WINDMESSY：刁民太多，不好治理，老子不干了！</p>
+<p>@十年砍柴:冰岛这届人民配不上政府。哼。</p>
+<p><strong>@冰镇镇镇汽水儿：本来还不信是真的，感谢屏蔽和辟谣，彻底相信了这下</strong></p>
+<p><strong><a href="http://weibo.com/5644889998" target="_blank">@我们的世界015</a>：冰岛总理太无能了，才两万人就搞掉了政府。我天朝有三个强行代表，有三个流氓自信，有军队坦克车…所以么，我们决不搞西方那一套。<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"><img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></strong></p>
+<p><a href="http://weibo.com/1210480135" target="_blank">@爱吃火锅的猫</a>：这个总理太怂了，都不知道用水箱上街来解决问题。笨<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p>@爱何必暧昧：回复@爱吃火锅的猫:应该上机枪坦克大炮，人民不行就应该换人民！居然敢颠覆政权？打倒反动派，打倒反革命，打倒冰奸，打倒卖冰贼……总理万岁！坚决拥护总理，紧紧地围绕在总理周围！</p>
+<p>@静观而后动 ： 看来冰岛总理连捕风捉影的事情也扛不住</p>
+<p>@百玖：他妈的…冰岛总理甘劳格森你他妈的你那张逼脸值多少钱啊…假装没听见不就行了吗…你他妈的你不会厚着逼脸像一些无耻的人一样说你的时代才刚刚开始吗………</p>
+<p>@郝老实 ： 人民怎么能这样对总理？素质这么低，这届的冰岛人民真不行</p>
+<p>@烂柯山 ： 冰岛总理缺乏自信！如果有三个自信在握，怕个鸟啊！</p>
+<p>@小散大木：这届冰岛人民不行，不知道俄罗斯人民行不行</p>
+<p>@—天高云淡—–：冰岛共产党在哪里？站出来告诉他们，要相信党！</p>
+<p><strong>@Ffthfbhfmhrfcyeefyhfdh：为什么防火墙和坦克车还没有上</strong></p>
+<p>@云承宇0r：真没劲儿，看这总理当的好好怂。屁大点事儿一天就投降了，城管呢，特警呢？协警呢？公安呢！武警呢？哦，当然还有坦克。</p>
+<p>@唐僧日日逛青楼：在天朝不要说2万了！就是20个人动警察！200个动特警！2000特警武警一起上！2万直接开坦克来了还让你游行！分分钟压死你！</p>
+<p>@昇chairman三世：你国这一届GCD真行！删帖销号抓人，人民就怂了。速度够快！也就一天时间！</p>
+<p>@黄活活：没有镇压就辞职了 总理还是不入戏</p>
+<p><strong>@世上最无用：中俄在paper上比他更重，冰岛真真九牛一毛，但是没用，别说散步了，反击，讨论，自辩这些过场也不会有。上来直接封锁消息，绝大多数国人已经不会知道了。</strong></p>
+<p>@想起讪讪：果然不是特殊材料做的，这点脸皮也敢当政客？</p>
+<p>@遇见平庸：图片评论<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e39fe256gw1f2mlw3v7pgj20ku112q7g.jpg" rel="attachment wp-att-434308"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e39fe256gw1f2mlw3v7pgj20ku112q7g.jpg?resize=375%2C667" alt="e39fe256gw1f2mlw3v7pgj20ku112q7g" data-recalc-dims="1"></a></p>
+<p><strong>@佛山笨笨猪：墙内世界，岁月静好</strong></p>
+<p><a href="http://weibo.com/2617432087" target="_blank">@Winnie的少女心少女病</a>：总感觉最近翻不过墙就是因为这个<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p><strong><a href="http://weibo.com/1073638260" target="_blank">@yanyanyanyansday</a><i title="微博达人"></i>：<a href="http://huati.weibo.com/k/%E8%AE%BA%E5%A2%99%E7%9A%84%E4%BC%98%E7%82%B9?from=501" target="_blank">#论墙的优点#</a> 发生某事件—>敏感词+1—>惠风和畅，岁月静好<img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9085.png?resize=20%2C20" alt="" px data-recalc-dims="1"></strong></p>
+<p>@MrChen要开心：公主和姐夫会变敏感词吧……</p>
+<p>@宋指导叫了四年毕业了：冰岛网信办领导是不是要自裁？</p>
+<p>@倦逸散人：什么事件啊？我们都不知道~~~墙里的世界好幸福！</p>
+<p>@Tunick：大家不要慌，我们这不会受影响，中国梦还在</p>
+<p>@topleftcorner：”所谓泄露的文件里，一堆堆的son，son，son和son in law，son in law，brother in law 里，小琳作为唯一一个daughter，真是一股清流。。。” #豆瓣式反讽#</p>
+<p>@羊定志：全球因为某某事件闹翻天，国内静悄悄</p>
+<p>@Bok-2：以后英语可能会被归入政治课，想学英语之前首先进行政审，通过才可以学。</p>
+<p>@大脸猫1105：各国贪官表示：十分想移民中国！不用辞职、不用解释，删帖就行。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">【立此存照】墙内新闻网站如何报道冰岛总理辞职原因</a>
 </h2>
 <p><p>新浪新闻在一则报道冰岛总理宣布辞职的<a href="http://news.sina.com.cn/w/zx/2016-04-06/doc-ifxqxcnp8621399.shtml" target="_blank">快讯</a>中，<strong>直接贴上了法新社英语原文</strong>，没有作任何翻译。<strong>但这已经是目前墙内新闻网站中唯一提到“巴拿马文件”的新闻报道了：</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C-1.png" rel="attachment wp-att-434291"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C-1.png?resize=550%2C799" alt="冰岛总理辞职" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?resize=768%2C1116 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?resize=705%2C1024 705w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?w=1778 1778w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>新浪新闻网页截图</span></p>
@@ -1049,24 +1101,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B-%E9%9F%A9%E5%89%A7%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B-%E6%B8%AF%E7%8B%AC/" target="cdt-mirror">【真理部】《上瘾》《太阳的后裔》《十年》等</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/screen_shot_2016-04-02_at_9.20.06_pm.png?resize=426%2C424" alt="screen_shot_2016-04-02_at_9.20.06_pm" data-recalc-dims="1"></p>
-<p>今天的广电总局宣传例会上总局作了以下几点宣传提示，请大家注意：</p>
-<p>1. 同性恋题材网络剧《上瘾》已经禁播，各频道注意不要再请该节目主演上节目并进行炒作，如黄景瑜、许魏洲、林凤松、陈稳等艺人。</p>
-<p>2. 不炒作韩剧《太阳的后裔》，不要把该剧捧得过高，去炒作这些商业噱头来让观众去疯狂痴迷地追剧，要淡化，评论要适当。（该剧导演：李应福，主演：金恩淑、金源锡编剧，宋仲基、宋慧乔、晋久、金智媛）</p>
-<p>3. 不炒作港独题材电影《十年》，该电影已提名香港金像奖，4月3日香港将举行金像奖颁奖仪式，届时所有的电视、网站、广播都不要转播、直播颁奖活动，更要坚决避免出现相关视频镜头。（该电影导演：郭臻、黄飞鹏、欧文杰、周冠威、伍嘉良，该剧主演：廖启智、梁健平、周家怡、游学修、吴肇轩）</p>
-<p>4. 不炒作一些明星的豪华婚礼，近期一些网站炒作黄晓明吴奇隆婚礼的奢华，有违我们勤俭节约的传统美德，也不要热衷于这些花边新闻。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B-%E9%9F%A9%E5%89%A7%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B-%E6%B8%AF%E7%8B%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">《十年》电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B/?category=18271" rel="tag">《太阳的后裔》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E7%A4%BC/?category=18271" rel="tag">婚礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F/?category=18271" rel="tag">明星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%98%9F%E5%A9%9A%E7%A4%BC/?category=18271" rel="tag">明星婚礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B/?category=18271" rel="tag">网剧《上瘾》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1078,7 +1112,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1088,5 +1122,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8D%81
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

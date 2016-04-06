@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%B7%E5%85%A5%E4%B8%91%E9%97%BB-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E4%BA%89%E9%97%AE%EF%BC%9A%E8%B0%81%E6%98%AF%E5%A7%90/" target="cdt-mirror">苹果日报｜习近平卷入丑闻 中国网民争问：谁是姐夫？</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?resize=549%2C309" alt="1459952998_40c8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?w=640 640w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<h3>新浪微博今日有很多网民在问：「姐夫是谁？」截自晚上10时，「姐夫」两个字在微博成为热门搜寻字，超过13万人搜索，还登上微博实时热搜榜第八位。
+</h3><p>不过关键来了，究竟内地网民好奇的「姐夫」是谁？又干了甚么好事惹人关注？ 答案揭盅，话说国际调查记者同盟（ICIJ）近日发表轰动各国政坛的「巴拿马文件」，ICIJ指至少8名中共中央政治局新旧常委的家人，曾开设离岸公司。当中就包括国家主席习近平姐夫邓家贵2009年在英属处女岛开设两间空壳公司，并任唯一股东和董事。</p>
+<p>虽然没有指名道姓，不过在微博大受关注的神秘姐夫，就是邓家贵。 有网民在网上留言揶揄：「让我们跟着姐夫的脚步走在社会主义的阳光大道上实现中国梦吧！」「因为姐夫的事情，我对大大有些失望」、「 这个话题居然没有被删除 还上热搜了。」还有网民开玩笑：「姐夫是谁啊？真巧，我的英文名也叫Jeff。」
+</p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXVYkrUEAAmo9c.jpg?resize=551%2C980" alt="CfXVYkrUEAAmo9c" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXVYkrUEAAmo9c.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXVYkrUEAAmo9c.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%B7%E5%85%A5%E4%B8%91%E9%97%BB-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E4%BA%89%E9%97%AE%EF%BC%9A%E8%B0%81%E6%98%AF%E5%A7%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%91%E9%97%BB-%E8%BF%98%E6%9C%89%E6%9B%B4%E5%A4%9A/" target="cdt-mirror">美国之音｜政治局常委卷入巴拿马丑闻 还有更多</a>
 </h2>
 <p><div>
@@ -126,6 +141,36 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF
 <a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%AF%94%E6%8A%A5%E8%AD%A6%E7%AE%A1%E7%94%A8%E7%9A%84%E5%9B%BD%E5%AE%B6/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97/?category=18271" rel="tag">和颐酒店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E9%81%87%E8%A2%AD/?category=18271" rel="tag">和颐酒店女生遇袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%82%E5%AE%B6/?category=18271" rel="tag">如家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">暴力事件治安警察</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BB%BB%E5%87%AD%E5%AF%86%E4%BB%B6%E9%97%B9%E7%BF%BB%E5%A4%A9-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E5%BD%93%E6%B2%A1%E7%9C%8B%E8%A7%81/" target="cdt-mirror">德国之声｜任凭密件闹翻天 中国就当没看见</a>
+</h2>
+<p><p>《南德意志报》最先获得、”国际调查报道记者联盟（ICIJ）分享的” <a href="http://www.dw.com/zh/%E5%A4%A7%E6%89%B9%E5%AF%86%E4%BB%B6%E6%9B%9D%E5%85%89%E9%80%83%E7%A8%8E-%E6%94%BF%E8%A6%81%E6%98%8E%E6%98%9F%E7%9A%86%E4%B8%8A%E6%A6%9C/a-19161819">巴拿马文件</a>（Panama Papers）” 揭露全球大批政要和名人如何在避税天堂私藏财富。1150万份文件涉及214000家离岸公司过去40年的纪录，而这些文件都来自位于巴拿马的法律服务公司莫萨克•冯赛卡（Mossack Fonseca）。</p>
+<p>法新社5日援引”巴拿马文件”报道称，文件涉及至少8名现任和前任 的家人，包括中国国家主席习近平的姐夫和前总理李鹏的女儿。莫萨克•冯赛卡公司在中国设立八个办公室，比 <a href="http://www.dw.com/zh/%E8%97%8F%E5%AF%8C%E5%AF%86%E4%BB%B6%E6%9B%9D%E5%85%89-%E5%90%84%E5%9B%BD%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/a-19162818">其他任何国家</a>都多。该公司网站上提供的三种语言服务中，除了英文和西班牙语，就是中文。</p>
+<p>英国《卫报》指出，莫萨克•冯赛卡的一项内部调查显示，中国人在其离岸公司所有者中占比最大，其次是香港。</p>
+<p>法新社和路透社5日报道称，中国外交部当天下午举行例行记者会，洪磊被外国记者问及巴拿马文件时回答，“对于这种捕风捉影的东西，我们不作评论。” 但是外交部发布的记者会记录中没有提及此问题。</p>
+<p>中国大陆媒体周一对”巴拿马文件”鲜有报道，仅有的报道也主要将焦点集中在俄罗斯总统、冰岛总理和球星梅西的身上，只字未提有关中国领导人的文件内容。周二，之前可见的报道也已被删。</p>
+<p>据”中国数字时代”网站周二报道，政府网络管理部门为此下达了删贴通知。该网站援引某省网信办通知写道：”查删已转载的巴拿马文件相关报道。相关内容一律不再跟进，任何网站一旦发现传播境外媒体攻击中国内容将做从重处理。本条指令口头传达到值班编辑，请立即落实。”</p>
+<p>“中国数字时代”还显示了要求某网站删除有关文章的指示：”请将《巴拿马文件泄密 普京卷入20亿美元洗钱丑闻》相关新闻报道撤出双首页（包括客户端）并压至后台。”经搜索，新浪、网易、搜狐曾发表过的这篇文章链接确实都已无法打开。</p>
+<p><b>屏蔽反引质疑</b></p>
+<p>目前在百度中输入”巴拿马文件”，显示的结果是：”搜索结果可能不符合相关法律法规和政策，未予显示。建议尝试其他相关词。”</p>
+<p>在新浪微博上查询”巴拿马文件”，得到的结果也寥寥无几。在该社交媒体上查询”panama paper”，可见”根据相关法律法规和政策，搜索结果未予显示。”</p>
+<p>截至发稿，在专门搜集遭屏蔽和删除的微博的网站–自由微博上，实时热门搜索的第一名是”巴拿马”、第二名是”巴拿马文件”。</p>
+<p>据自由微博显示的内容，有网民问”震惊世界的巴拿马文件事件到底是怎么一回事？”也在新浪微博上被屏蔽。新浪用户”老罗的微博”写道：”请不要继续传播巴拿马离岸故事了，万一老大生气了，新浪微博也许会打烊哦，”这句话同样遭遇屏蔽。</p>
+<p>另有网民透露在巴拿马文件的相关文章下”评论了一下’不提中国怕被删？’，然后就被删了。”还有新浪用户”CHYIBING”5日表示：”今天之前，我一 直以为巴拿文件泄密事件是愚人节玩笑，直到这个词条被百度屏蔽；之前，我一直抱着看热闹的心态等着看西方国家的笑话，直到这条新闻被屏蔽……”</p>
+<p>微信朋友圈中4日还可以看的提到中国领导人家属开设离岸公司的英文文章，5日也已无法打开。</p>
+<p><b>官媒为普京鸣不平</b></p>
+<p>与此同时，中国官媒《环球时报》5日发表社评《偷或编”巴拿马文件”者绝非等闲之辈》，文章写道：”非西方国家领导（包括已下台的）成为最受关注的被打击对象，而其中俄罗斯总统普京一”密友”洗钱10亿美元的爆料尤为突出，西方媒体或明或暗将此称为’普京洗钱’，并同时挖出涉及普京的其 他’丑闻’。” “对普京这样的非西方领导人，只要’有爆料’，假的也会被当成’疑似真的’。”</p>
+<p>《环球时报》还称，”互联网时代来自基层的这种’大泄密’，对欧美有顶级影响力的机构和精英来说大体是安全的，对’西方’更伤害不了什么。从长远看，它会成为西方意识形态联盟’顺势而为’，打击非西方世界政治精英和关键组织的一种新手段。</p>
+<p>对此社评有人认为环球时报分析在理，也有新浪用户如”dgsd幸福”就此评论道：”我也怀疑巴拿马文件的真假。但是这事发生后你却到处封杀。这是几个意思，巴拿马文件有没有骗人不知道，但是你已经欺骗了大众！”</p>
+<p>微博博主”育尔张岳”质疑说：”敢问环球时报，你审查过普京了证实这是假爆料嘛？”</p>
+<p>“巴拿马文件”在中国遭遇屏蔽和审查，以及官媒的社评引起全球媒体的广泛关注。包括美联社、路透社、德新社和法新社在内的多家通讯社均对此进行了详细的报道。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BB%BB%E5%87%AD%E5%AF%86%E4%BB%B6%E9%97%B9%E7%BF%BB%E5%A4%A9-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E5%BD%93%E6%B2%A1%E7%9C%8B%E8%A7%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -554,459 +599,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?catego
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="cdt-mirror">【真理部】巴拿马文件相关报道</a>
-</h2>
-<p><p>X省网信办：本条指令口头传达到值班编辑，请立即落实。查删已转载的<a href="http://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/" target="_blank">巴拿马文件相关报道</a>。相关内容一律不再跟进，任何网站一旦发现传播境外媒体攻击中国内容将做从重处理。</p>
-<p>X网站：请将《巴拿马文件泄密 普京卷入20亿美元洗钱丑闻》相关新闻报道撤出双首页（包括客户端）并压至后台。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/" target="cdt-mirror">Du Chen：震惊世界的巴拿马文件事件到底是怎么一回事？</a>
-</h2>
-<p><p>上周日，全球大约 100 家媒体突然统一播发了一条重大新闻：有 2.6TB 属于巴拿马一家法律事务所 Mossack Fonseca 的数据被泄露出来。 这一事件，被称为 Panama Papers。</p>
-<p>为什么一家来自中美洲国家律所的数据，能够在全世界引起轩然大波？</p>
-<p>因为这家律所曾为无数客户在巴拿马这个避税天堂隐藏离岸资产提供了帮助，共创立了超过 21.4 万家壳公司。而这些壳公司与全世界超过 200 个国家和地区有所关联，涉及了 143 位来自这些国家和地区的政治家和他们的家庭，当中包括有 12 位各国现任领导人。</p>
-<p>通过数字、图表和文字，我们来看一下Panama Papers 所揭露的可怕真相。</p>
-<p><strong>爆料</strong></p>
-<p>大约一年前，一个匿名爆料者开始联系德国媒体《南德意志报》（Süddeutsche Zeitung，以下简称《SZ》），询问是否对一批来自巴拿马专司离岸业务律所的数据感兴趣。</p>
-<p>《SZ》和爆料者通过加密文件进行联络，并随后引入了国际调查记者同盟 (International Consortium of Investigative Journalists, ICIJ) 的多家媒体，包括《卫报》、BBC和法国的《世界报》等。</p>
-<p>调查发现，Mossack Fonseca，一家注册在巴拿马，几十年来一直默默无闻的律所，其实正是保存全世界最重要人物和公司离岸避税隐性资产的金库。这家律所在全球三十多个地点设立了办公室，在中国就有 8 个。</p>
-<p>爆料者的数据正是来自这家律所，数据尺寸之大、覆盖面之广、详实程度之高，令人难以置信。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=600%2C354" alt="1-QAP2ToEA47SZR-tH6QiQzw" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=300%2C177 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=768%2C453 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?resize=1024%2C604 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QAP2ToEA47SZR-tH6QiQzw.jpeg?w=1150 1150w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>Mossack Fonseca 公司外景。图片来自 AP Photo/Arnulfo Franco</p></div>
-<p><strong>数据2.6TB</strong></p>
-<p>国际调查记者同盟从爆料者手中获得文件的总存储尺寸达到了 2.6TB 之多。这个数字比该组织在 2013 年、2014 年和 2015 年分别处理过的离岸泄密（260GB）、卢森堡泄密（4GB）和瑞士泄密（3.3GB）总数据量相加起来还要多得多。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=600%2C234" alt="1-4Gt1RNcRBXrzQrYXfXM-_A" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=768%2C300 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?resize=1024%2C399 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-4Gt1RNcRBXrzQrYXfXM-_A.png?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>1,150万</strong></p>
-<p>这个数字是国际调查记者同盟从爆料者手中获得的文件总数，当中包括电子邮件、文档、照片、复印文件的扫描件等等，甚至还有来自 Mossack Fonseca 律师事务所自己内部数据库的摘要 (excerpt) 文件。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?resize=600%2C242" alt="1-vJJmhfGaGGZjzCTOwJ_wXQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?resize=300%2C121 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?resize=768%2C309 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-vJJmhfGaGGZjzCTOwJ_wXQ.png?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>214,000</strong></p>
-<p>这是 Panama Papers 泄密事件中，被发现由 Mossack Fonseca 创立的壳公司总数。这些公司通常位于英属维京群岛、巴拿马、美国内华达州、香港等等。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QxolcWPHmie5a-xoumsHRg.png?resize=530%2C394" alt="1-QxolcWPHmie5a-xoumsHRg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QxolcWPHmie5a-xoumsHRg.png?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-QxolcWPHmie5a-xoumsHRg.png?w=530 530w" sizes="(max-width: 530px) 100vw, 530px" data-recalc-dims="1"></p>
-<p><strong>14,000</strong></p>
-<p>超过 1.4 万个客户曾经正在寻求 Mossack Fonseca 的帮助，从而更好地在巴拿马或其他离岸国家和地区管理他们的隐形资产。这些客户来自全世界 200 多个国家和地区，其中有……</p>
-<p><strong>143</strong></p>
-<p>143 位客户是来自全世界各个国家和地区的政治家。这些政客通过他们自己、朋友或家人来设立关联公司，然后再与 Mossack Fonseca 设立的离岸公司进行交易，从而最终隐藏自己的资产。</p>
-<p><strong>12</strong></p>
-<p>12 位各个国家和地区的现任领导人被发现是 Mossack Fonseca 的客户，其中包括俄罗斯总统普京、埃及前总统穆巴拉克、巴基斯坦首相沙里夫、乌克兰总统波罗申科等等。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=800%2C310" alt="1-pk3RVn7vLHvST1hVLr1FRA" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=768%2C297 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?resize=1024%2C397 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-pk3RVn7vLHvST1hVLr1FRA.png?w=1092 1092w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1"><p>图片来自 ICIJ</p></div>
-<p>比如，国际调查记者同盟发现 Mossack Fonseca 协助隐藏的资产中至少有超过 20 亿美元属于普京。他通过自己的盟友 Sergei Roldugin 使用俄罗斯国有银行的账号转账到离岸公司中。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?resize=500%2C625" alt="1-Si-O6edP8_5Tu3GOt7MrDQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?resize=240%2C300 240w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>当然，Mossack Fonseca 的客户名单中还有数不清的前领导人或其他高级政客。比如中国前总理李鹏的女儿李小琳就在 Panama Papers 事件中被人发现了护照的复印件。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=800%2C387" alt="1-5qFLB-Omo76XZvR7plj3lg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=300%2C145 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=768%2C372 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?resize=1024%2C495 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-5qFLB-Omo76XZvR7plj3lg.png?w=1077 1077w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1"></p>
-<p>泄露的客户名单中还能找到英国上下两院的议员和政治献金的金主，以及国际足联道德委员会的一名重要成员。</p>
-<p><strong>离岸注册，服务到家</strong></p>
-<p>无论客户是最强大国家的首脑，还是最惨无人道的匪徒，Mossack Fonseca 都不会歧视。它一站式提供各种服务，而且明码标价。</p>
-<p>首先，注册一家匿名的离岸公司仅需 1,000 美元 — — 这在离岸注册的行当里已经属于高价了，市面上能找到的最便宜的服务只需要不到 250 美元。但 Mossack Fonseca 还能助客户成就更多。比如，再多交点钱，这家律所还能帮你找到一个假的董事长或法定代表人；再多交点钱，它还能帮你隐藏公司真实的股东信息。</p>
-<h4>调查思路</h4>
-<h4><strong>创造工具，解放记者</strong></h4>
-<p>泄露出来的数据结构之简单非常令人欣慰：Mossack Fonseca 为每一个壳公司都创建了一个文件夹，其中包含了对应该壳公司的所有数据，包括往来邮件、合同、会议纪要、纸质文件扫描件等等。这意味着，如果你知道你紧盯的对象所用的壳公司，你就找到了这家公司的所有秘密。</p>
-<p>然而，尽管结构非常简单，调查起来仍然太难。事实上，有些壳公司的文件夹中包含数千份文件，而非文本文件使得检索的复杂度被极大提高。</p>
-<p>国际调查记者同盟理事长杰拉德·莱尔透露，为了能够更好地利用手中的线索，该组织的数据团队使用 Nuix 搭建数据库，将这一千多万份各种类型的文件存档，对非文本的文件使用 OCR 扫描，识别其中的文字，以确保所有文件都能够使用关键词和其他更复杂的方式被检索。</p>
-<p>国际调查记者同盟专为 Panama Papers 项目成立专门的调查团队，该组织在美国首都华盛顿特区召开过一次会议，确定了团队规模、成员，负责人和调查思路等等根据《卫报》发布的情况，总共有来自 100 家媒体机构的 370 名调查记者参与到了本次 Panama Papers 事件的调查当中。这些记者先预设一个议题，比如“政治献金”、“体育禁药”、“联合国制裁”等等，在每一个议题下面添加人名，形成一个花名册，然后再拿着这个花名册去建立好的数据库进行交叉搜索，从而找到相关文件 — — 数据库极大地方便了记者的调查过程，使得他们可以用一年的时间将 Mossack Fonseca 盘根错节的离岸避税网络挖得一干二净。</p>
-<p><em>上述这些情况证明，国际调查记者同盟并不仅仅是一群热血的调查记者。他们对科技工具的运用，对团队管理的重视，使得 Panama Papers 项目的调查和报道在一年时间内得以顺利进行，没有因为其涉及多个国家高级领导人，保密级别高、保密难度大的事实而遭到泄密。</em></p>
-<p><strong>四个根本问题</strong></p>
-<p>《南德意志报》解释了调查的基本思路。每当在交叉搜索中确认了一个关键人名，记者们会提出四个思路：</p>
-<p>1）这个人在离岸架构中是何角色？</p>
-<p>2）钱从哪儿来？</p>
-<p>3）钱往哪去？</p>
-<p>4）这个架构合法吗？</p>
-<p>在巴拿马或者世界上任何一个离岸避税圣地设立一家公司并不违法，但记者们还是能够从 Mossack Fonseca 的数据中找到线索。就像洋葱网络在全世界多个服务器节点之间跳跃从而掩盖使用者的真实 IP 一样，Mossack Fonseca 为了一个客户可以在全世界不同位置设立不同的代理公司，抽丝剥茧总是能找到最终的来源。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-DJ09caPzlF9H9rBapwof8g.png?resize=600%2C373" alt="1-DJ09caPzlF9H9rBapwof8g" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-DJ09caPzlF9H9rBapwof8g.png?resize=300%2C186 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-DJ09caPzlF9H9rBapwof8g.png?w=768 768w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>李小琳在 Mossack Fonseca 设置离岸公司的架构。LIU ZHIYUAN 是李小琳的丈夫。图片来自 ICIJ</p></div>
-<p>而这些来源简直都是世界上最知名的人物，有表面上光明磊落的社会主义国家领导人，也有曾被通缉十年之久的毒枭和黑手党头目。从这些客户的文件中很容易找到跟政府腐败、贿赂等有关的文件。当这样的文件被找到，一篇报道的立项就在所难免了。</p>
-<p>代理公司的存在也给调查工作带来了障碍。参与到该项目中的记者一共能讲 25 种语言，他们会定期在项目团队内提交跨境协助调查/求证的需求，而对应语种的记者则可以领取自己的任务，帮助同僚去完成调查。</p>
-<h4>遗憾？</h4>
-<p>在这一批的 Panama Papers 报道中没有找到任何来自美国的知名客户。</p>
-<p>edit: 《南德意志报》记者透露，关于美国客户的报道，请拭目以待。</p>
-<h4>花边吐槽</h4>
-<p>Andreessen Horowitz 分析师 Benedict Evans 的吐槽非常到位：</p>
-<blockquote>
-<p dir="ltr" lang="en">Stealing documents in the movies: Tom Cruise, laser beams, hacker-in-a-van.<br>
-In reality: temp walks out with 40 years of data on a $20 USB.</p>
-<p>— Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/status/716695460266643456">April 3, 2016</a></p></blockquote>
-<h4>团队成员</h4>
-<p>Project Managers: Marina Walker Guevara & Gerard Ryle</p>
-<p>Data Editor: Mar Cabra</p>
-<p>Research Editor: Emilia Diaz-Struck</p>
-<p>Editors: Michael Hudson, Martha M. Hamilton, Gerard Ryle, Marina Walker Guevara & Tom Stites</p>
-<p>Online Editor: Hamish Boland-Rudder</p>
-<p>Data and Research Unit: Rigoberto Carvajal, Matthew Caruana Galizia, Cécile Schilis-Gallego & Miguel Fiandor Gutiérrez</p>
-<p>ICIJ reporters: Will Fitzgibbon, Jake Bernstein, Ryan Chittum, Martha M. Hamilton, Michael Hudson, Marcos Garcia Rey, Alexa Olesen & Delphine Reuter</p>
-<p>Süddeutsche Zeitung reporters: Bastian Obermayer & Frederik Obermaier</p>
-<p>Researcher: Mago Torres</p>
-<p>Fact checkers: Richard H.P. Sia & Peter Smith</p>
-<p>Web design and development: Álvaro Ortiz, Fernando Blat & Jorge Sancha from Populate</p>
-<p>The Power Players interactive: Kiln</p>
-<p>Reporters:</p>
-<p>• Iyas Hallas (Algeria)</p>
-<p>• Mariel Fitz Patrick (Argentina)</p>
-<p>• Hugo Alconada (Argentina)</p>
-<p>• Ricardo Brom (Argentina)</p>
-<p>• Momi Peralta (Argentina)</p>
-<p>• Maia Jastreblansky (Argentina)</p>
-<p>• Iván Ruiz (Argentina)</p>
-<p>• Sol Lauria (Argentina, Panama)</p>
-<p>• Kristine Alghalaryan (Armenia)</p>
-<p>• Dave Bloss (Georgia)</p>
-<p>• Sally Neighbour (Australia)</p>
-<p>• Marian Wilkinson (Australia)</p>
-<p>• Elise Worthington (Australia)</p>
-<p>• Mario Christodoulou (Australia)</p>
-<p>• Morag Ramsay (Australia)</p>
-<p>• Lisa Main (Australia)</p>
-<p>• Sophia O’Rourke (Australia)</p>
-<p>• Ali Russell (Australia)</p>
-<p>• Stephen Oxley (Australia)</p>
-<p>• Ruth Fogarty (Australia)</p>
-<p>• Neil Chenoweth (Australia)</p>
-<p>• Edmund Taros (Australia)</p>
-<p>• Misa Han (Australia)</p>
-<p>• Primrose Riordan (Australia)</p>
-<p>• Jonathan Barrett (Australia)</p>
-<p>• Florian Klenk (Austria)</p>
-<p>• Josef Redl (Austria)</p>
-<p>• Ulla Kramar-Schmid (Austria)</p>
-<p>• Jakob Weichenberger (Austria)</p>
-<p>• Kaspar Fink (Austria)</p>
-<p>• Stefan Daubrawa (Austria)</p>
-<p>• Günther Hack (Austria)</p>
-<p>• Lars Bové (Belgium)</p>
-<p>• Kristof Clerix (Belgium)</p>
-<p>• Alain Lallemand (Belgium)</p>
-<p>• Xavier Counasse (Belgium)</p>
-<p>• Joel Matriche (Belgium)</p>
-<p>• Drew Sullivan (Bosnia )</p>
-<p>• Miranda Patrucic (Bosnia )</p>
-<p>• Alvin Ntibinyane (Botswana)</p>
-<p>• Mbo Mguni (Botswana)</p>
-<p>• Joel Konopo (Botswana)</p>
-<p>• Jose Roberto de Toledo (Brazil)</p>
-<p>• Daniel Bramatti (Brazil)</p>
-<p>• Rodrigo Burgarelli (Brazil)</p>
-<p>• Guilherme Jardim Duarte (Brazil)</p>
-<p>• Isabela Bonfim (Brazil)</p>
-<p>• Franz Vacek (Brazil)</p>
-<p>• Mauro Tagliaferri (Brazil)</p>
-<p>• Diego Vega (Brazil)</p>
-<p>• Fernando Rodrigues (Brazil)</p>
-<p>• André Shalders (Brazil)</p>
-<p>• Douglas Pereira (Brazil)</p>
-<p>• Mateus Netzel (Brazil)</p>
-<p>• Alexenia Dimitrova (Bulgaria)</p>
-<p>• Gino Harel (Canada)</p>
-<p>• Frédéric Zalac (Canada)</p>
-<p>• Ronna Syed (Canada)</p>
-<p>• Robert Cribb (Canada)</p>
-<p>• Tanya Talaga (Canada)</p>
-<p>• Marco Oved (Canada)</p>
-<p>• Francisca Skoknic (Chile)</p>
-<p>• Alberto Arellano (Chile)</p>
-<p>• Karen Chang (Hong Kong)</p>
-<p>• Ginna Morelo (Colombia)</p>
-<p>• Miriam Forero (Colombia)</p>
-<p>• Óscar Agudelo (Colombia)</p>
-<p>• Juan Pablo Tovar (Colombia)</p>
-<p>• Claudia Báez (Colombia)</p>
-<p>• Rafael Quintero (Colombia)</p>
-<p>• Oriana Garcés (Colombia)</p>
-<p>• Carlos Eduardo Huertas (Colombia, Panama)</p>
-<p>• Nathan Jaccard (Colombia, Panama)</p>
-<p>• Giannina Segnini (Costa Rica)</p>
-<p>• Alejandra Fernández-Morera (Costa Rica)</p>
-<p>• Antonio Jiménez (Costa Rica)</p>
-<p>• Henry Arroyo (Costa Rica)</p>
-<p>• Mauricio Arroyo (Costa Rica)</p>
-<p>• Ernesto Rivera (Costa Rica)</p>
-<p>• Javier Córdoba (Costa Rica)</p>
-<p>• María Florez Estrada (Costa Rica)</p>
-<p>• Diego Arguedas Ortiz (Costa Rica)</p>
-<p>• Álvaro Murillo (Costa Rica)</p>
-<p>• Pavla Holcova (Czech Republic)</p>
-<p>• Søren Kristensen (Denmark)</p>
-<p>• Michael Klint (Denmark)</p>
-<p>• Maria Lyhne Høj (Denmark)</p>
-<p>• Maria Andersen (Denmark)</p>
-<p>• Peter Jørgensen (Denmark)</p>
-<p>• John Hansen (Denmark )</p>
-<p>• Arturo Torres (Ecuador)</p>
-<p>• Mónica Almeida (Ecuador)</p>
-<p>• Xavier Reyes (Ecuador)</p>
-<p>• Paúl Mena (Ecuador)</p>
-<p>• Andrés Jaramillo (Ecuador)</p>
-<p>• Alberto Araujo (Ecuador)</p>
-<p>• Hisham Allam (Egypt)</p>
-<p>• José Luis Sanz (El Salvador)</p>
-<p>• César Castro Fagoaga (El Salvador)</p>
-<p>• Jimmy Alvarado (El Salvador)</p>
-<p>• Minna Knus-Galan (Finland)</p>
-<p>• Kjell Lindroos (Finland)</p>
-<p>• Serge Michel (France)</p>
-<p>• Christophe Ayad (France)</p>
-<p>• François Bougon (France)</p>
-<p>• Samuel Laurent (France)</p>
-<p>• Maxime Vaudano (France)</p>
-<p>• Jeremie Baruch (France)</p>
-<p>• Anne Michel (France)</p>
-<p>• Simon Piel (France)</p>
-<p>• Joan Tilouine (France)</p>
-<p>• Jean-Baptiste Chastand (France)</p>
-<p>• Benoit Vitkine (France)</p>
-<p>• Nathaniel Herzberg (France)</p>
-<p>• Yann Bouchez (France)</p>
-<p>• Mathilde Damge (France)</p>
-<p>• Edouard Perrin (France)</p>
-<p>• Benoît Bringer (France)</p>
-<p>• Emmanuel Gagnier (France)</p>
-<p>• Yousset Ait Akdim (France)</p>
-<p>• Jan Strozyk (Germany)</p>
-<p>• Julia Stein (Germany)</p>
-<p>• Benedikt Strunz (Germany)</p>
-<p>• Nils Casjens (Germany)</p>
-<p>• Peter Hornung (Germany)</p>
-<p>• Elena Kuch (Germany)</p>
-<p>• Willem Konrad (Germany)</p>
-<p>• Christoph Lütgert (Germany)</p>
-<p>• Kersten Mügge (Germany)</p>
-<p>• Christian Deker (Germany)</p>
-<p>• Vanessa Wormer (Germany)</p>
-<p>• Christoph Giesen (Germany)</p>
-<p>• Katrin Langhans (Germany)</p>
-<p>• Mauritius Much (Germany)</p>
-<p>• Gianna Niewel (Germany)</p>
-<p>• Hannes Munzinger (Germany)</p>
-<p>• John Goetz (Germany)</p>
-<p>• Petra Blum (Germany)</p>
-<p>• Harry Karanikas (Greece)</p>
-<p>• Andras Petho (Hungary )</p>
-<p>• Jóhannes Kr. Kristjánsson (Iceland)</p>
-<p>• Adalsteinn Kjartansson (Iceland)</p>
-<p>• Ritu Sarin (India)</p>
-<p>• Jay Mazoomdaar (India)</p>
-<p>• Vaidyanathan Iyer (India)</p>
-<p>• Wahyu Dhyatmika (Indonesia)</p>
-<p>• Philipus Parera (Indonesia)</p>
-<p>• Agoeng Wijaya (Indonesia)</p>
-<p>• Mustafa Silalahi (Indonesia)</p>
-<p>• Colm Keena (Ireland )</p>
-<p>• John McManus (Ireland )</p>
-<p>• Uri Blau (Israel)</p>
-<p>• Shuki Sadeh (Israel)</p>
-<p>• Daniel Dolev (Israel)</p>
-<p>• Leo Sisti (Italy)</p>
-<p>• Vittorio Malagutti (Italy)</p>
-<p>• Paolo Biondani (Italy)</p>
-<p>• Gloria Riva (Italy)</p>
-<p>• Stefano Vergine (Italy)</p>
-<p>• Yasuomi Sawa (Japan)</p>
-<p>• Toshihiro Okuyama (Japan)</p>
-<p>• Scilla Alecci (Japan)</p>
-<p>• Alessia Cerantola (Japan)</p>
-<p>• Musab Shawabkeh (Jordan)</p>
-<p>• Jacqueline Kubania (Kenya)</p>
-<p>• John Kamau (Kenya)</p>
-<p>• Sanita Jemberga (Latvia)</p>
-<p>• Inga Springe (Latvia)</p>
-<p>• Evita Purina (Latvia)</p>
-<p>• Šarūnas Černiauskas (Lithuania)</p>
-<p>• Nigel Aw (Malaysia)</p>
-<p>• Aidila Razak (Malaysia)</p>
-<p>• David Dembele (Mali)</p>
-<p>• Daniel Lizárraga (Mexico)</p>
-<p>• Irving Huerta (Mexico)</p>
-<p>• Rafael Cabrera (Mexico)</p>
-<p>• Sebastián Barragán (Mexico)</p>
-<p>• Mago Torres (Mexico)</p>
-<p>• Jorge Carrasco (Mexico)</p>
-<p>• Mathieu Tourliere (Mexico)</p>
-<p>• Iurie Sanduta (Moldova)</p>
-<p>• Shinovene Immanuel (Namibia)</p>
-<p>• Tangeni Amupadhi (Namibia)</p>
-<p>• Tileni Mongudhi (Namibia)</p>
-<p>• Ndanki Kahiurika (Namibia)</p>
-<p>• Gaby de Groot (Netherlands)</p>
-<p>• Siem Eikelenboom (Netherlands)</p>
-<p>• Jan Kleinnijenhuis (Netherlands)</p>
-<p>• Martijn Roessingh (Netherlands)</p>
-<p>• Karlijn Kuijpers (Netherlands)</p>
-<p>• Musikilu Mojeed (Nigeria)</p>
-<p>• Ini Ekot (Nigeria)</p>
-<p>• Joshua Olufemi (Nigeria)</p>
-<p>• Emmanuel Mayah (Nigeria)</p>
-<p>• Per Anders Johansen (Norway)</p>
-<p>• Nina Selbo Torset (Norway)</p>
-<p>• Sigurd Bjørnestad (Norway)</p>
-<p>• Trond J. Strøm (Norway)</p>
-<p>• Per Kristian Aale (Norway)</p>
-<p>• Lars Inge Staveland (Norway)</p>
-<p>• Fredrik Hager-Thoresen (Norway)</p>
-<p>• Halvor Solhjem Njerve (Norway)</p>
-<p>• Umar Cheema (Pakistan)</p>
-<p>• Rolando Rodríguez (Panama)</p>
-<p>• Rita Vásquez (Panama)</p>
-<p>• Lourdes de Obaldía (Panama)</p>
-<p>• John Scott Bronstein (Panama)</p>
-<p>• Luis Buron (Panama)</p>
-<p>• Mabel Rehnfeldt (Paraguay)</p>
-<p>• Juan Carlos Lezcano Flecha (Paraguay)</p>
-<p>• Arturo Zarratea Herreros (Paraguay)</p>
-<p>• Juan Calcena Ramirez (Paraguay)</p>
-<p>• Julio Benitez Díaz (Paraguay)</p>
-<p>• Juan Carlos Dos Santos (Paraguay)</p>
-<p>• Milagros Salazar (Peru)</p>
-<p>• Aramís Castro (Peru)</p>
-<p>• Gabriela Flores (Peru)</p>
-<p>• Gabriel Arriarán (Peru)</p>
-<p>• Gustavo Gorriti (Peru)</p>
-<p>• Luisa García (Peru)</p>
-<p>• Romina Mella (Peru)</p>
-<p>• Fabiola Torres (Peru)</p>
-<p>• Óscar Castilla (Peru)</p>
-<p>• Luis Yáñez Quiroz (Peru)</p>
-<p>• Vadim Makarenko (Poland)</p>
-<p>• Leszek Baj (Poland)</p>
-<p>• Bartosz Chyz (Poland)</p>
-<p>• Micael Pereira (Portugal)</p>
-<p>• Rui Araujo (Portugal)</p>
-<p>• Omaya Sosa Pascual (Puerto Rico)</p>
-<p>• Carla Minet (Puerto Rico)</p>
-<p>• Paul Radu (Romania)</p>
-<p>• Mihai Munteanu (Romania)</p>
-<p>• Daniel Bojin (Romania)</p>
-<p>• Roman Anin (Russia)</p>
-<p>• Olesya Shmagun (Russia)</p>
-<p>• Mika Velikovsky (Russia)</p>
-<p>• Roman Shleynov (Russia)</p>
-<p>• Momar Niang (Senegal)</p>
-<p>• Tidiane Hamadou Sy (Senegal)</p>
-<p>• Stevan Dojcinovic (Serbia)</p>
-<p>• Jelena Vasic (Serbia)</p>
-<p>• Anuska Delic (Slovenia)</p>
-<p>• Khadija Sharife (South Africa)</p>
-<p>• Amanda Potgieter (South Africa)</p>
-<p>• Barry Sergeant (South Africa)</p>
-<p>• Sam Sole (South Africa)</p>
-<p>• Stefaans Brummer (South Africa)</p>
-<p>• Craig McKune (South Africa)</p>
-<p>• Lionel Faull (South Africa)</p>
-<p>• Fergus Gibbons (South Africa)</p>
-<p>• Yongjin Kim (South Korea)</p>
-<p>• Yoojung Lee (South Korea)</p>
-<p>• Yoonwon Choi (South Korea)</p>
-<p>• Daniele Grasso (Spain)</p>
-<p>• Jesús Escudero (Spain)</p>
-<p>• Rafael Méndez (Spain)</p>
-<p>• Álvaro Rivas (Spain)</p>
-<p>• Joaquín Castellón (Spain)</p>
-<p>• Nacho Calle (Spain)</p>
-<p>• Verónica Ramírez (Spain)</p>
-<p>• Nacho Bernaldo de Quirós (Spain)</p>
-<p>• Fredrik Laurin (Sweden)</p>
-<p>• Joachim Dyfvermark (Sweden)</p>
-<p>• Sven Bergman (Sweden)</p>
-<p>• Titus Plattner (Switzerland)</p>
-<p>• Catherine Boss (Switzerland)</p>
-<p>• Christian Brönnimann (Switzerland)</p>
-<p>• Oliver Zihlmann (Switzerland)</p>
-<p>• Alexandre Haederli (Switzerland)</p>
-<p>• Noele Illien (Switzerland)</p>
-<p>• Linda von Burg (Switzerland)</p>
-<p>• Lena Würgler (Switzerland)</p>
-<p>• Hamoud Almahmoud (Syria)</p>
-<p>• Yi-Shan Chen (Taiwan)</p>
-<p>• Wei Lin Chen (Taiwan)</p>
-<p>• Beta Du (Taiwan)</p>
-<p>• Prangtip Daorueng (Thailand)</p>
-<p>• Camini Marajh (Trinidad and Tobago)</p>
-<p>• Malek Khadhraoui (Tunisia)</p>
-<p>• Sana Sbouai (Tunisia)</p>
-<p>• Basma Shtawi (Tunisia)</p>
-<p>• Tabu Butagira (Uganda)</p>
-<p>• James Oliver (UK)</p>
-<p>• Andy Head (UK)</p>
-<p>• David Thompson (UK)</p>
-<p>• James Melley (UK)</p>
-<p>• Simon Cox (UK)</p>
-<p>• Conor Spackman (UK)</p>
-<p>• Marc Perkins (UK)</p>
-<p>• Eli Melki (UK)</p>
-<p>• Jonathan Coffey (UK)</p>
-<p>• Simon Bowers (UK)</p>
-<p>• Juliette Garside (UK)</p>
-<p>• Helena Bengtsson (UK)</p>
-<p>• David Pegg (UK)</p>
-<p>• Holly Watt (UK)</p>
-<p>• Luke Harding (UK)</p>
-<p>• Paul Farrell (UK)</p>
-<p>• Owen Gibson (UK)</p>
-<p>• Rupert Neate (UK)</p>
-<p>• Nick Evershed (UK)</p>
-<p>• Dan Susman (UK)</p>
-<p>• Nick Hopkins (UK)</p>
-<p>• David Leigh (UK)</p>
-<p>• Vlad Lavrov (Ukraine)</p>
-<p>• Anna Babinec (Ukraine)</p>
-<p>• Victoria Fernández (Uruguay)</p>
-<p>• Guillermo Draper (Uruguay)</p>
-<p>• Bernat Ivancsics (USA)</p>
-<p>• Marie-Emma Paoli (USA)</p>
-<p>• Masako Melissa Hirsch (USA)</p>
-<p>• Aram Chung (USA)</p>
-<p>• Alice Brennan (USA)</p>
-<p>• Laura Juncadella (USA)</p>
-<p>• Adam Weinstein (USA)</p>
-<p>• Miriti Murungi (USA)</p>
-<p>• Alcione Gonzalez (USA)</p>
-<p>• Catherine Dunn (USA)</p>
-<p>• Brian Clifton (USA)</p>
-<p>• Rafael Fernandez (USA)</p>
-<p>• Gary Rivlin (USA)</p>
-<p>• Kevin Hall (USA)</p>
-<p>• Jim Asher (USA)</p>
-<p>• Marisa Taylor (USA)</p>
-<p>• Greg Gordon (USA)</p>
-<p>• Tim Johnson (USA)</p>
-<p>• Clarice Silber (USA)</p>
-<p>• Rick Rothacker (USA)</p>
-<p>• Jim Wyss (USA)</p>
-<p>• Jacqueline Charles (USA)</p>
-<p>• Nicholas Nehamas (USA)</p>
-<p>• Casey Frank (USA)</p>
-<p>• Margarita Rabin (USA)</p>
-<p>• Juan Cooper (USA)</p>
-<p>• Gerardo Reyes (USA)</p>
-<p>• Ronny Rojas (USA)</p>
-<p>• Peniley Ramirez (USA)</p>
-<p>• Tomás Ocaña (USA)</p>
-<p>• Tamoa Calzadilla (USA)</p>
-<p>• Joseph Poliszuk (Venezuela)</p>
-<p>• Ewald Scharfenberg (Venezuela)</p>
-<p>• Alfredo Meza (Venezuela)</p>
-<p>• Katherine Pennacchio (Venezuela)</p>
-<p>• Laura Weffer (Venezuela)</p>
-<p>• Fabiola Zerpa (Venezuela)</p>
-<p>• César Bátiz (Venezuela)</p>
-<p>• Lisseth Boon (Venezuela)</p>
-<p>• Ronna Rísquez (Venezuela)</p>
-<p>• Roberto Deniz (Venezuela)</p>
-<p>• Ray Choto (Zimbabwe)</p>
-<p>• Thomas Chiripasi (Zimbabwe)</p>
-<p>• Montather Naser (Iraq)</p>
-<p>• Mohammad AlKawmani (Yemen)</p>
-<p>没有一位来自中国大陆的记者。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">律师事务所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E5%AD%98%E6%AC%BE/?category=18271" rel="tag">秘密存款</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1018,7 +610,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1028,5 +620,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%AF%94%E6%8A%A5%E8%AD%A6%E7%AE%A1%E7%94%A8%E7%9A%84%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">【网络民议】一个发微博比报警管用的国家</a>
@@ -154,7 +154,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8%EF%BC%8C%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">公民运动，中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%B9%B4/?category=18271" rel="tag">十年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8C%96/?category=18271" rel="tag">大陆化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【网络民议】冰岛这届人民不行</a>
 </h2>
@@ -233,7 +233,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B1%9F%E6%B9%96%E4%BC%A0%E8%AF%B4-%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E8%AF%A5%E5%8F%8D%E7%9C%81%E9%82%A3%E4%BA%9B%E5%88%B6%E9%80%A0%E8%85%90%E8%B4%A5%E7%9A%84%E5%88%B6%E5%BA%A6%E4%BA%86/" target="cdt-mirror">江湖传说 | 于建嵘：该反省那些制造腐败的制度了</a>
 </h2>
@@ -1135,7 +1135,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1145,5 +1145,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%AF%94%E6%8A%A5%E8%AD%A6%E7%AE%A1%E7%94%A8%E7%9A%84%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">【网络民议】一个发微博比报警管用的国家</a>
+</h2>
+<p><p>4月5日开始，微博热门话题“和颐酒店女生遇袭”一直高居榜首，争议没有停止过。</p>
+<p><strong>事情是这样的：</strong></p>
+<p>网友@弯弯_2016在微博上爆料，4月3日晚，她在北京某酒店入住，遭遇陌生男子袭击，对方掐住脸颊、脖子不让她呼救，强行拖拉身体。整个过程持续5、6分钟左右！她向服务员求救，服务员以为是两口子在吵架劝说不要在走廊吵闹，后有路过的女房客出手相救才脱险。</p>
+<p>视频地址</p>
+<p>@弯弯_2016 在长微博中详细还原了整个事情的经过：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BA%8B%E4%BB%B6%E7%BB%8F%E8%BF%87.jpg?resize=440%2C7838" alt="事件经过" data-recalc-dims="1"></p>
+<p>事情一出，在微博上几乎引起了网友的众怒。类似的“社会悲剧”事件并不是一瞬间发生，而是多方面的隐患长期疏于监管，最终导致了“悲剧”的爆发。</p>
+<p>和颐酒店回应：对事情非常遗憾，已立即跟进调查进展。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/60718250jw1f2mobld1n4j20qs0j3n0d.jpg?resize=440%2C314" alt="60718250jw1f2mobld1n4j20qs0j3n0d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/60718250jw1f2mobld1n4j20qs0j3n0d.jpg?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/60718250jw1f2mobld1n4j20qs0j3n0d.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><strong>来源：好奇实验室</strong></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@金利是个省油灯：牛逼的朝阳群众一下懵逼了。</p>
+<p>@shadowglenelf：”为什么只会提醒女性注意安全 而不警告男性不要犯罪” 呃… “为什么只会建议居民安装防盗门 而不警告小偷不要盗窃” 嗯 看起来差不多的…</p>
+<p>@chengfansail：警方四天以后才能来，真是滑天下之大稽。</p>
+<p>@MyDF： 这回书目：《傻白甜误入怡香院，莽大汉错认应召女》。</p>
+<p>@Zannmuling：望京酒店女孩纸被劫持一事，其实很简单，那男的是管理小姐们的头头，因为没插房卡，误以为这个女孩纸是外来的小姐，于是准备教训她一顿，然后就发生了如下事件。所以酒店所有人的不愿意出面就说的清楚了。我想应该就是这样了。</p>
+<p>@Zannmuling：别说什么警察问题了，拜托，每个城市的酒吧，酒店，娱乐产业，都是有内线和后台的好伐？要不然别人怎么赚钱？比如我们在消防，食药局，都有线人，临时检查就会有人通知的好伐！要不然怎么能玩的下去？所以如家这事情，只不过暴露了冰山一角而已。请记住，天朝的警察是为钱服务的。</p>
+<p>@Nichole29：说穿了中国是一个不管家务事的社会。看到男的女的吵架就看热闹。你试试来美国，我有一年夏天和我老公闹别捏，他来哄我，我甩开他的手，被开车的看到了，直接停下来问我，他和你什么关系？你需要帮忙吗？停了3辆车，我太不好意思了，说没事，和老公闹别扭，谢谢。</p>
+<p>@ld0905：很小的时候有过几次跟当地派出所打交道的经历，在我印象里，但凡遭遇了什么麻烦不测，去报案的时候总给受害者一种被看笑话的感觉。双手插兜，来给我们说说，就当看故事会了。</p>
+<p>@myheroLeslieCheung：前几天在学校操场被偷东西，去保卫室看监控，保卫大哥说昨天一个大妈被偷了电动车，也来调监控，报案了，派出所来人了，小偷正脸也看见了，派出所的人问大妈你认识小偷吗，大妈说不认识，派出所那人就说不认识你让我们来干嘛，对此我就呵呵了，现在的警察抓人还得看受害者认不认识犯罪的人吗？</p>
+<p>@linyujing：绝对是啊，一边听还一边幸灾乐祸的评论几句，那种猥琐之态我TMD一辈子也忘不了。在东莞时，我同事在公交车站被打劫清光去报警，在屈辱中说完经历后，他们说，好了，已经立案了，交钱吧，有进展会通知你。那个公交站那么偏僻，你去那儿不是自找么？</p>
+<p>@花总丢了金箍棒：一个很小的事件。但是击中了缺乏安全感的全民心理。</p>
+<p>@马薇薇 ：这件事跟女生本人是否与犯罪嫌疑人是否情侣关系，犯罪嫌疑人是否醉酒毫无关系。他俩就算在酒店开房过结婚纪念日，在女性明显反抗的情况下，酒店都有义务保护住客安全，警方都应及时立案。别一出事就让女孩子多小心，然后传播防狼十八式什么的。我们来到这个世界上，不是为了跟歹徒搏斗的。这年头，没点功夫还不配出门了是吧？！</p>
+<p>@火山木sss：中国对家暴的容忍简直荒谬到畸形，才给了暴徒以私事为由的契机。打老婆打孩子根本不是家事，而是践踏人权。</p>
+<p>@北青报：今日中午12时许，798和颐酒店遇袭女子回应“炒作”传言，向北青报记者表示：已经与如家酒店达成一致意见，但她对于“一致意见”的具体内容并未透露。对于事件本身，她不再作任何回应，只会在微博上更新进展。</p>
+<p>@北青报：“798和颐酒店一女性遇袭”事件曝光后，有网友指出，当事人微博为两天前新注册用户，且当事人发布的长微博自带话题“卖淫窝点案底酒店”。对于有网友质疑她借此事炒作，当事人对北青报记者回应称：“让‘阴谋论’说去吧，我不作回应”，随即挂断记者电话。</p>
+<p>@头条新闻：①网友弯弯_2016称入住北京酒店遇袭，被掐脖子强行拖拽，遇到了好心人阻拦惊险逃脱。②北京警方证实陌生男子尾随作案，称女子没有遭受财产损害和人身损害，正进一步核实。③和颐酒店回应：对事情非常遗憾，已立即跟进调查进展。</p>
+<p>@作业本：遇袭要马上砸碎消防玻璃，全楼会报警。有人围观不要喊救命，喊抓流氓。没人出来，就喊起火了。围观的人不帮你，抢他手机直接摔碎，没手机抓他包。住酒店一定拉上拴门链。最后，作为男人，看到暴力要马上制止，不用管什么情侣吵架夫妻打架！</p>
+<p>@DZ_DZZ：这事让我想起，应该是不少地方都一样，大街上治安探头的像素特别差，有的分不清男女。而能拍车辆罚款的探头格外清晰。</p>
+<p>@sususuz：这幸亏还是天冷，姑娘穿得多，不然又有一堆直男癌直女癌喊怎么不拉别人就拉你了！</p>
+<p>@小熊的月光宝盒：知乎迅速出了一个教大家对应的问答…里面有个叫周贤峰的说的非常好，我们需要的是一种保护机制，而不是叫每个姑娘走到哪儿都高度戒备各门武功练起来！</p>
+<p>@幼人诱：说实话同样是女性看到这个新闻害怕到炸裂<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">我喜欢旅游经常一个人到处跑酒店也是自己住<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">可是我现在很害怕已经快没有出行的勇气<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">学校附近的死变态和流氓<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">还有这种酒店和公安<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">我害怕出去了再也回不来<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@思雨他亲爹：每一次出这种事情警察都是多穿点买个报警器…妈的我纳税干嘛的？</p>
+<p>@lvv2com: 经常出差的姑娘可以备个这个……一般酒店的门是朝里推得，装上这个以后从门外推是推不开的。我用着还是蛮爽的，这应该叫阻门器。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=600%2C600" alt="CfUQL6PWwAImKAq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@knifepoint：「河边绿化带草坪着火了，周围没什么人。我拍了几张照片后觉得不报火警不行，就拨119。拨第一次，瞬间断线；第二次，响了声「欢迎拨打消防…」又断了；第三次才接通。接电话的男人说会安排处理，但50分钟后消防也没来。最后那火是我和我爸扑灭的。2011-12-27」4年多以前发的推文。</p>
+<p>@damyata：平时都以为自己身处一个文明人的社会，结果野蛮暴力丛林法则一露狰狞，所谓的安全感和优越感就全是幻觉。最近这种感想频繁产生。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%AF%94%E6%8A%A5%E8%AD%A6%E7%AE%A1%E7%94%A8%E7%9A%84%E5%9B%BD%E5%AE%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97/?category=18271" rel="tag">和颐酒店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E9%81%87%E8%A2%AD/?category=18271" rel="tag">和颐酒店女生遇袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%82%E5%AE%B6/?category=18271" rel="tag">如家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">暴力事件治安警察</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%A2%AB%E7%A6%81%E5%87%BA%E5%A2%83-%E7%96%91%E4%B8%8E%E8%81%94%E5%90%8D%E8%87%B4%E4%BF%A1%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%9C%89%E5%85%B3/" target="cdt-mirror">自由亚洲｜709被捕律师家属被禁出境 疑与联名致信奥巴马有关</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg" rel="attachment wp-att-434337"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg?resize=450%2C600" alt="82e5e1c9-b1dc-4d50-99a6-30b61f8d154d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg?w=622 622w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p>中国维权律师关注组要求释放709被捕律师（忻霖拍摄）</p></div>
+<p>中国去年“709“事件中被捕的律师谢阳的妻子陈贵秋，4月4日计划前往香港，但在深圳被中国海关拒绝出境，理由是出境可能危害国家安全。</p>
+<p>超过300人被抓捕及传唤的“709大抓捕”事件，波及范围持续扩大。4月4日，谢阳律师的妻子陈贵秋，计划从深圳罗湖口岸过关至香港，但遭到海关工作人员拒绝，理由是出境可能危害国家安全。</p>
+<p>谢阳的辩护律师张重实接受本台采访时称，陈桂秋被拒出境前，曾联同“709事件”被捕者的家属共8人，致信美国总统奥巴马，希望他提供帮助，有可能成为事件的导火索：</p>
+<p>“我跟她打电话联系了，她说是这个事情和709的其他人一样，说她危害国家安全。她问是哪个部门，他们也没说，反正就不让出去。谢阳的一个小女儿好像是在美国出生的，她也没具体说什么原因，官方也不会告诉我们，但是现在是相当一部份人都被监控。”</p>
+<p>记者：“最近给美国总统奥巴马写信这个事情您之前知道吗？”</p>
+<p>张重实：”这事情是一个正常的表达，呼吁国际社会给予支持和关注，这是公民应有的权利，大家发出声音。”</p>
+<p>自从去年七月大抓捕事件之后，涉及案件的被捕者家属或维权律师，已有近40人被限制出境。其中包括二十多名律师及十多名维权人士及律师的家属。其中有王宇律师的儿子包蒙蒙，李和平律师的儿子与女儿，刘晓原律师的儿子，于合金的妻子等等。</p>
+<p>为此，去年11月，13名维权律师联名在网上发表致北京市公安局的公开信，抗议其侵害律师自由旅行权利，要求撤销禁止他们出国旅行的禁令。公开信表示，作为在中国执业的律师，他们所有行为都在法律不禁止的范围内，没有违背任何法律，北京市公安局的做法是对法律的歪曲执行。且根据中共的出入境管理法，公安局无权禁止任何公民出境，而边检部门执行公安局的通知，也属于非法。</p>
+<p>香港的中国维权律师关注组总干事陈洁文告诉本台，律师家属除了面临出境被拒的情况外，还被迫接受当局安排的律师代理案件：</p>
+<p>“超过15位的维权律师和维权人士被单方面要求解除律师的代理，但是问题是去年12月份出的五个最高机构发布的文件说，一定要保障律师的执业权利，里头第八条有提到如果要解除代理的话，律师可以要求当事人有一个面对面的确认，问题是现在所谓的单方面取消代理也是没办法去知道真实性。个别的案子他们会拿一个纸条出来，是不是对方写的看起来也是对方的字，但问题是我们不知道他是在什么情况下写的，实在是一个问题。关于709的案子，我们继续一方面保留关注，另一方面在不同层次做一些游说工作，整理好消息发布出来，让媒体也好，国际团体也好，更了解这个事情。”</p>
+<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%A2%AB%E7%A6%81%E5%87%BA%E5%A2%83-%E7%96%91%E4%B8%8E%E8%81%94%E5%90%8D%E8%87%B4%E4%BF%A1%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%9C%89%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91panama%EF%BC%8C%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E7%AD%89%E7%83%AD%E7%82%B92016-4-05/" target="cdt-mirror">【敏感词库】“Panama”、冰岛总理辞职等热点 2016-4-05</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/10/%E6%9D%8E%E5%B0%8F%E7%90%B31.jpg" rel="attachment wp-att-317955"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/10/%E6%9D%8E%E5%B0%8F%E7%90%B31.jpg?resize=400%2C547" alt="李小琳" data-recalc-dims="1"></a><br><i>图片来自网络</i></p>
@@ -55,6 +124,37 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E5%BC%A0%E9%93%81%E5%BF%97%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9D%A5%E5%BE%97%E5%8F%8A/" target="cdt-mirror">金融时报 | 张铁志：现在还来得及</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/000060364_piclink.jpg?resize=600%2C338" alt="000060364_piclink" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/000060364_piclink.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/000060364_piclink.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>2014年，台湾和香港都经历了历史性的公民运动。</p>
+<p>一年后，台湾的金曲奖把“年度最佳歌曲”颁给了独立乐队灭火器为“太阳花运动”所写的歌曲《岛屿天光》。这既是一个文化也是一个政治的历史时刻：金曲奖这个台湾流行音乐最重要奖项首次把年度最佳歌曲颁给一个独立乐队，并且是一首诞生于社会抗争的歌曲。</p>
+<p>这不是一个孤立的事件，而是反映出台湾社会这几年来的剧烈变迁。</p>
+<p>而在香港“雨伞运动”一年多后，香港电影金像奖最佳电影奖颁给了一部本地独立制片、一部非常政治的影片《十年》。这不仅是香港年度文化事件，也会是这个时代的重要记忆。</p>
+<p>然而，后“太阳花”的台湾，气氛是昂扬的，年轻人觉得被empowered：他们让柯文哲当选市长，让国民党倒台和小英上台，他们觉得他们可以改变些什么。</p>
+<p>但香港却是相反：后“雨伞”的气氛是低迷的、是挫败的，只有主张自决甚至独立的本土思潮，并且，勇武抗争越来越受到年轻人支持，而越来越少人相信透过体制可以改变香港。</p>
+<p>《十年》这部影片的成本约五十万港元，由五部短片分别想象十年后的香港：政府为了推动国安法而暗杀议员以制造混乱；普通话和简体字成为香港主流，不懂普通话的的士司机无法去中环载客；本地农业受到挤压、书籍被查禁，而香港少年如红卫兵般去和还有本土意识的上一代斗争；一对恋人以制作标本的方式保卫城市“被消失”的事物，但却充满无力感；最激烈的一部片在“二十三条”已立法的香港，有人为了“港独”而自焚。</p>
+<p>上片初期只有个别影院播放，但口碑越来越好，一个月后《环球时报》发表社评批评《十年》“宣扬绝望”，“带给香港社会的害处很可能大过好处”，且说该片票房只有300多万，显示电影影响的只是香港小众。</p>
+<p>小众很快成为大众，两个月后，《十年》票房累积至600万港元，连续3周跻身香港十大卖座电影，并继续由公民团体组织在香港各大小区放映，反应热烈。</p>
+<p>然后，这部影片拿到了香港电影金像奖最佳影片。</p>
+<p>不少人质疑这部影片艺术性不够，以及颁奖的动机是政治性的。当然，一部电影的艺术性是见仁见智的，此前许多商业片拿奖也都是可被争议；而最佳影片到底是什么判准，每个人心中的尺也都不同──一种看法便是，可以反映某个时代人心的渴望与焦虑到了成为现象的地步，乃是年度影片的重要精神。</p>
+<p>无论如何，当《十年》不只是属于一种反抗的姿态，而被香港最主流的电影奖项所接受，确实代表香港人心之剧烈转变。</p>
+<p>看看从去年十二月《十年》上映至今为止的香港发生了什么事：铜锣湾书店老板被消失、警察和民众严重流血冲突的旺角骚动、“以本土主义为纲，勇武抗争为实，坚守港中区隔”的参选人在新界东补选中15%得票率，“学民思潮”宣布停止。</p>
+<p>这是一个极为焦虑与惶惶然的香港，而绝望的年轻人只能越来越激进化，或者用另一种文化方式去表达他们的困顿与不满。</p>
+<p>如去年香港政治讽刺网络节目“毛记电视”颁奖典礼，就造成热潮，人们在城市不同角落聚集起来一起看；《十年》也在四月一日于30个以上小区同步举行放映会和映后导演的在线对谈。可以说，这些香港青年世代的集体是对这些具有浓厚本土情怀的文化想象的肯认，是对当下的拒绝，更是对另一种未来的渴望。</p>
+<p>《十年》对未来的想象是悲观的。此前另一部获得近百万观赏次数的独立短片《香港将於33年后毁灭》，讲的是一个陨石将在33年后击中香港，于是财团很快就逃走了，股市也垮了，大陆自由行观光客不来了──但香港不但没有死亡，反而展现另一种生机。</p>
+<p>那是对未来的乐观想象，但却是因为可能的巨大冲击才造成这种转变。如果没有那个来自外层空间的冲击，香港有可能改变自己的命运吗？</p>
+<p>这是当下的香港最迫切的命题，但香港主流电影工业却无能反思这些问题，偶尔电影中的政治暗喻就能让大家兴奋得不得了。这或许是因为，香港电影工业的主流大部分是合拍片，而中港合作的影片怎可能去讨论最敏感的中港矛盾呢？这是香港文化的最大吊诡。</p>
+<p>《十年》或许有不少瑕疵，或许许多人不同意其观点，但这部影片代表的是香港这一代青年在主流电影界回避思考自身的命运时，愿意去质问他们的未来，并提醒人们，这个岛屿将走向人们不想见到的未来──如果这个城市的人不尝试夺回他们的未来十年。</p>
+<p>“现在还来得及”──这是电影最终的字幕。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E5%BC%A0%E9%93%81%E5%BF%97%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9D%A5%E5%BE%97%E5%8F%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8%EF%BC%8C%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">公民运动，中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%B9%B4/?category=18271" rel="tag">十年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8C%96/?category=18271" rel="tag">大陆化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【网络民议】冰岛这届人民不行</a>
 </h2>
@@ -1024,92 +1124,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-3/" target="cdt-mirror">奇闻录 | 周末段子荟萃 4-3</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9_1i9UYAEzJA4.jpg?resize=450%2C601" alt="Ce9_1i9UYAEzJA4" data-recalc-dims="1"></p>
-<p>@hnjhj：新华社：愚人节不符合中华传统文化，屁民过愚人节就是跟党抢生意。</p>
-<p>@大号瘦子：其实跟对了党，愚人节每天都过。</p>
-<p>@vocui：听说当年7000万嫁女的煤老板刑利斌在狱中已经不能说话了，想想也是，四五百亿的负债不知道有多少高官牵涉其中，哪个都想他开不了口，本地人猜测这人的命运估计会和徐明一样，估计会被弄死在狱中。</p>
-<p>@bitinn：昨天我看QZ，Tech in Asia，Vice，CNN的记者还在推上讨论这法的适用范围。今天就看到环球自己跳了：亲，世界上只有两种网站，国内的归政府管（从域名到服务器），国外的归GFW管，你说好不好啊？</p>
-<p>@cherylnatsu：匿名人士来自【北京市】：中国网民数量占全球比例就很大了，哪个是局域网还说不定呢，等网民数量超过世界50%，那外面的就是局域网了。</p>
-<p>@MyDF：《十年》获得第35届香港电影金像奖最佳影片，该片获奖的消息被禁止在大陆各大门户网站出现，值得讽刺的是，这样的黑色现实，恰恰印证了这部影片试图展现的——香港的黑色未来。 #金像奨</p>
-<p>@mozhixu：习并没有那么强，但他的对手更弱，他与其对手都没有毛邓那种来自革命时期的个人威望、人际实力、干部队伍，而只能临时拼凑出团伙和盟友，这就限制了习和对手的基本力量。反过来，也不要高估反对习的力量，尤其体制内自由派，那基本等于零。</p>
-<p>@mozhixu：1989年后，大陆体制主流就是既要市场改革，又要一党专政，并因此将毛左派和自由派均排挤到了边缘，这两派除了相互叫骂并幻想重回主流之外，都相当边缘零散，并不是大陆现实政治的玩家。习的强势如遭遇到反制，也都没有他们什么事，从自由派的偶发行为拼凑反制习的图景，恐怕是找错了方向。</p>
-<p>@网易网友：当今社会电商发达，网购成为百姓生活常态。你把送货的电动车禁了，直接结果无非两种：一种是快递变慢递，或者是加大运输成本，殃及百姓。深圳交警做事冲动，常拍脑袋行事。比如：你要是将车临时在马路上停放，罚款1000元。而交委将马路当成停车场，画个方格，只要你交钱，随便停放。有次本人将车停在了工地门口，距离马路还有10多米的距离，根本不会影响交通，照样被罚1000元。申诉和仲裁都失败。违章罚款的部门犹如疯子，只要逮着你，就会撕扯你一块肉。不管你是否影响交通，不管你是在车流稀疏的偏僻马路。还成立了一个交委的电动车罚款别动队，天天骑着摩托车四处寻找罚款对象。回过头来说，深圳交警这次对快递行业开刀，真确说是执法者根本不拿民生当回事。</p>
-<p>@zhealot：供职魔都某科教文卫系统的同学，说最近组织要求补交党费，13年党龄算下来交14000，老党员有要交3、4万。</p>
-<p>@libearal：转一句得罪人的话，你国上世纪的女权进步并非由抗争得来，而只是共运胜利的一部分。来的容易的，自然失去也容易。近两年来政策舆论的变化大致印证了这点。</p>
-<p>@laoyang945：大咕咕咕鸡：你国人没有他人这个概念，感知不到周围事物，只能感知到”我”，在任何时候任何地点做任何事，只能感觉到”我”，他人是不存在的，所以你国人又称为我国人。你国人就是我国人 #特师就是特师</p>
-<p>@李幺傻：林彪被摔死后，我们村的生产队长去公社开会，回来传达指示精神，他在社员会上说：“林彪这个狗日的，带着一群老婆，被摔死了。“村里的光棍都在骂：狗日的林彪，我们一个老婆没有，你就有一群老婆。一年后，村子里一个军人回家探亲，大家才知道林彪的老婆叫叶群，不是一群。</p>
-<p>@梁惠王：有人对胡适说，我们读书，要做到为天地立心，为生民立命，为往圣继绝学，为万世开太平。 胡适打断他，问：什么叫为天地立心啊，你解释给我听。 那家伙傻了。胡适道：孩子，不要说自己都不理解的话。我特别佩服胡适这点，直率犀利且逻辑精密。其实这类古文和党八股一样，都是不切实际的昏话。</p>
-<p>@ruanyf：现在终于看懂了，鲁迅的小说《故乡》在写什么。小时候，我和闰土是同样的人；三十年后再见面，我却惊恐地发现，如果留在故乡，走命运安排好的路，我会变成怎样的自己：那是一个灰黄瑟缩的中年人，觉得苦，却形容不出，只能默默吸烟。</p>
-<p>@xiucai1911：转：刚刚接到一个电话： 对方问我需不需要贷款？我说要…………对方很高兴问：要多少？我 说：500万！……他 问：有抵押物吗？我 答：有楼！对方：哪里的楼？ 答：天安门城楼！ 对方问：你是什么人？我回答：共产主义接班人。对方立刻挂机！</p>
-<p>@chang_ping：看到媒体报道说，高瑜老师家入狱前被抄，至今未整理，想到曾有人问她坐牢最大的痛苦，她笑言：“就是想到我那屋子，老伴和儿子都没我收拾得整洁！”这么爱整洁的人，被折磨得回家半年才振作起来收拾陋室，还遭城管袭击。</p>
-<p>@chengr28：我们最伟大的长者，最终还是战胜了亚洲电视……+1s</p>
-<p>@5s：這社會根本正能量失控啊，每個人都要跟個瘋子一樣笑咪咪過日子，遇到任何挫折沒吞下去的人就是社會適應能力差，挫折到崩潰的人就要強制送醫，媽的你以為這是在寫小說嗎？</p>
-<p>@ld0905：“凤凰男”这个词真的好恶毒，它意味着，你这辈子不管有多努力，多上进，即便你奋斗了几十年终于能够跟你平起平坐在城市中的咖啡馆里谈笑风生，但是依然掩盖不了你的乡村本质，你终究逃不过人们的促狭揶揄，背地里嗑瓜子时的话题焦点。#城乡撕裂</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%85%A8%E7%90%83140%E4%BD%8D%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%A4%BE%E4%BC%9A%E5%90%8D%E6%B5%81%E7%A6%BB%E5%B2%B8%E8%B5%84%E9%87%91%E6%8F%AD%E7%A7%98/" target="cdt-mirror">法广 | 全球140位政治人物社会名流离岸资金揭秘</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?resize=550%2C309" alt="160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160403205022_panama_paper_mossack_fonseca__624x351_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>毫无疑问，这又是一个揭露某些掌握权力和某些逃避税收的人如何隐匿财富的爆炸性新闻。名为『巴拿马档案』的国际记者团调查报告披露，全世界140多位政治人物社会名流在逃税天堂的秘密存款曝光。已知他们中有普京的亲信，有与习近平亲属有关系的公司，有冰岛总理夫妇，有沙特国王，以及欧洲足联主席普拉蒂尼等等等等。其他国家政要的名字将陆续披露。</p>
-<p><strong>与习近平家庭有关的公司也牵涉其中</strong></p>
-<p>在国际记者调查团(ICIJ)协调下，包括德国『南德意志报』、法国『世界报』在内的全球76个国家的一百零六家媒体获得了上述秘密材料，由此，经过一年对涉及1150万份材料的分析和调查，他们掌握了大量涉及多国领袖人物、犯罪网络、体育明星以及亿万富翁在逃税天堂秘密存款或者洗钱的材料。上述媒体周日晚在网站披露，『巴拿马档案』涉及的超过214000个离岸公司，这些离岸公司同全球200多个国家和领地有联系。</p>
-<p>上述秘密存款资料涉及的人物包括俄罗斯总统普京的亲信，包括冰岛总理贡劳格松，还有许多国家元首和政治人物的名字赫然列在其中，这些人物的名字将在本周之内陆续公布。除政治人物外，著名球星梅西以及欧洲足联主席普拉蒂尼等人也在内。</p>
-<p>调查报告披露的部分名单显示，中国国家主席习近平一直表示决心与贪腐斗争到底，但是一些与他的家庭有关的公司也出现在名单上，乌克兰总统波罗申科的名字也在其中。</p>
-<p><strong>冰岛总理夫妇的离岸公司</strong></p>
-<p>冰岛总理以及内阁的两位主要部长，一位是执政党的党魁都牵涉离岸公司秘密存款。这个只有33万居民的岛国，四年前已经把20几位本国的银行家以欺诈罪送进监狱。看到这个消息不知会有何感想？四年后，这个国家的金融体制是否有了根本改变？总理贡劳格松与妻子在维尔京群岛拥有一个秘密公司Wintris Inc，只是到了3月15号，在国际记者调查团问询总理之后，他的妻子才在脸书表示，这一公司的存在并不是一个秘密。现在，该国反对党要求总理辞职。</p>
-<p>维基解密2009年披露了大量类似的材料，其中包括数万个电子信件，但本次全球100多家媒体泄露的秘密材料“超出维基解密1500倍”。全球106家媒体的370位记者为此工作整整一年，他们分别来自法国、印度、德国、瑞士、俄罗斯、美国、巴西、日本以及其它国家。</p>
-<p><strong>神秘的Mossack Fonseca律师事务所</strong></p>
-<p>『巴拿马档案』调查的核心，是一个名叫Mossack Fonseca的机构，这是一个专门办离岸手续的律师事务所。这一律师事务所主要就是帮助开办用以掩藏持款人真实身份的离岸公司，并封锁公司内部消息不致流向外界。该公司总部在巴拿马，是全球最不透明的金融中心之一，被视为是洗黑钱的跳板，许多黑钱，犯罪组织的赃款，贿款都通过这里找到了掩藏之所。</p>
-<p>调查发现了一个难以置信的数字：Mossack Fonseca创办或者经营了214000架离岸公司。从她1977年创建，直到2015年，整整40年时间，该公司创建的此类性质的公司分布在全球21个逃税天堂，从卢森堡到巴拿马，从瑞士到英国的维尔京群岛，从大洋洲的萨摩亚到印度洋上的塞舌尔群岛，从摩纳哥到巴哈马，囊括了几个大洲和大洋。该律师事务所的顾客分布在全球200个国家或领地。</p>
-<p><strong>秘密是如何泄露的</strong></p>
-<p>『巴拿马档案』披露在这里的不仅仅是某些个别情况或个别银行，也不仅仅是某个个别金融家为某一个多国集团扮演的角色，这份档案呈现的是一个“现实的金融版图”，直到目前不为人所知的一面。</p>
-<p>如果不是一个匿名信息来源，打开了通过金融版图的路径，一切到今天仍处于秘密之中。2015年年初，一个匿名消息来源把这些“黄金信息”首先转到『南德意志报』的记者手上，『南德意志报』记者开始调查Mossack Fonseca律师事务所扮演的角色。然而，面对如此庞大棘手的材料，『南德意志报』决定与国际记者调查团以及属于该记者团的100多家媒体分享信息，合作调查。各大媒体很快证实，这一庞大的匿名信息来源真实可靠，不容置疑。法国『世界报』三月初咨询了一批Mossack Fonseca寄给顾客的电子信件，更加证实了前述信息的准确性。</p>
-<p>当然，并非『巴拿马档案』中所有的离岸公司都是非法和不透明的，其中有些是专门为了国际融资方便而开设的，公开透明，出于发展经济的目的。但是其中大部分是以所谓公司的身份掩盖秘密存款和洗黑钱。</p>
-<p>如此，在Mossack Fonseca律师事务所，赃款与正当款项，灰色款(不报税)与黑钱，亿万富翁以及足球明星与犯罪集团和腐败国家领袖的贪款并存交叉。</p>
-<p>根据国际记者调查团将近一年调查，现已查清有12个国家元首和政府总理，其中6人仍在岗位，与离岸公司秘密存款有涉；还有128名政治人物与全球最高级别的公务员；以及29名列入富士比全球500大排行榜的富豪。</p>
-<p>根据调查，其中最“敏感”的人物，其款项分存在三到四个设在全球各地的离岸公司，对于一个国家的税务检查机关而言，要想调查清楚几乎不太可能。</p>
-<p>『世界报』及其它媒体核实了数万份Mossack Fonseca律师事务所与他们的雇员之间的内部信件，证实制造离岸公司的人往往比企图整顿和监督金融管理的国际组织走前了一步。</p>
-<p>上述媒体将在接下来的几天，陆续披露涉及在海外秘密存款的政治人物和社会名流的名单。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%85%A8%E7%90%83140%E4%BD%8D%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E7%A4%BE%E4%BC%9A%E5%90%8D%E6%B5%81%E7%A6%BB%E5%B2%B8%E8%B5%84%E9%87%91%E6%8F%AD%E7%A7%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">律师事务所</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E5%AD%98%E6%AC%BE/?category=18271" rel="tag">秘密存款</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E5%8F%8D%E6%8D%9F%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">世界日报｜习近平强势反损统治</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?resize=550%2C733" alt="333" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>最新一期英国「经济学人」杂志以中国国家主席习近平做封面，并以《当心习崇拜》（ Beware the cult of Xi ）为题。文章指出，习近平比前几任领导人更强势，但打击政敌与集权的做法无法为他带来安全，反而树敌更多，无助维持中国的稳定局面。</p>
-<p>最新一期「经济学人」以习近平做封面，评论习的强势作风，可能造成中国政局不稳定</p>
-<p>经济学人刊文指出，中国近期爆发疫苗丑闻，指出习近平的反腐运动关系不到百姓，因为他们的生活与健康仍然受到腐败影响。</p>
-<p>近来也出现精英阶层对习近平不满的迹象。习近平握有中共前领导人毛泽东以来最多的权力，但高压政策和巩固权力的做法并没有为他带来安全，也无助于稳定中国的局势。</p>
-<p>文章又指习近平恋权，在位 3 年半以来，积埋好多头衔，除了党主席、国家主席，还领导改革、国安与经济等，简直是「全能主席」（ chairman of everything ）。</p>
-<p>自从他上台后，无视自毛泽东下台后限制官媒的个人崇拜，不只党媒要姓党，坊间更流传「要嫁就嫁习大大」、「习大大爱着彭麻麻」、「东方又红」等肉麻歌曲。</p>
-<p>在反腐方面，习近平用蛮横的调查员对付腐败，但目的是清算政敌，而非公平执法。</p>
-<p>习近平也恐吓媒体，使媒体不愿揭发至少 1 年前就已发现的问题疫苗交易。等到东窗事发，中共和习近平的公信力受到更大的威胁。</p>
-<p>习近平掌权初期，观察家曾好奇习近平是否会如他所言推行改革。文章表示，外界对习近平大刀阔斧改革的希望已愈来愈淡薄，因为他似乎没什么时间处理棘手的政治问题，「保有权力已占去他所有的时间」。</p>
-<p>文末指出，中共统治 66 年来，最动荡不安的时期通常是精英阶层内斗，习近平的统治风格却助长这股风气。「习近平愈试着用恐吓和高压手段对付敌人，愈可能制造更多敌人。」</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?resize=550%2C733" alt="Ce9Ji0XUUAAfhEx.jpg-large" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?resize=768%2C1024 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Ce9Ji0XUUAAfhEx.jpg-large.jpg?w=960 960w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E5%8A%BF%E5%8F%8D%E6%8D%9F%E7%BB%9F%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1121,7 +1135,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1131,5 +1145,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

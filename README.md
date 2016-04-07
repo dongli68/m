@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E9%97%BB%E6%B8%AF%EF%BD%9C%E6%9E%97%E5%92%8C%E7%AB%8B%EF%BC%9A%E4%B9%A0%E6%94%BF%E6%9D%83%E8%8D%89%E6%9C%A8%E7%9A%86%E5%85%B5-%E5%A3%B0%E8%AE%A8%E5%9B%BD%E5%AE%B6%E6%81%90%E6%80%96%E4%B8%BB/" target="cdt-mirror">新闻港｜林和立：习政权草木皆兵 声讨国家恐怖主义</a>
+</h2>
+<p><p>中共自从去年10月派特工到泰国绑架巨流传媒有限公司老板桂民海后，开展了自文革以来最严苛、最恐怖的行动打压异见分子、敢说话的评论员及其家属、不愿「姓党」的传媒与出版界，以及上访的毒疫苗受害者的父母。习近平政权独创的国家恐怖主义除了蹂躏神州外，亦不断向香港与全世界蔓延，情况耸人听闻。</p>
+<p>江泽民与胡锦涛执政时对付挑战中共统治的组织与个人从来不手软，但也许因为当年中国的国力还没有「超英赶美」，即使由大老虎周永康把持的专政机器都有某程度的约束，例如不会派强力部门到泰国、香港甚至美国抓政治犯。同样重要的是，邓小平在1978年上台后因为吸收了十年浩劫株连九族的野蛮行径的教训，有不成文规定党内外牵涉异见人士的案件，一般情况下不应祸及其家人。</p>
+<p>习近平上台后把邓小平其实并非前卫的政治改革打个稀巴烂。除了推翻老邓有关奉行集体领导制与不准搞个人崇拜的训令外，习直接指挥的政法系统把「绑人兼绑人质」式的国家恐怖主义发挥得淋漓尽致。李波去年底被绑回深圳后表面上于3月24日获准回港。但同时他的夫人要留在大陆充当人质；更可怕的是，李非常疼爱、患有自闭症的儿子很可能会被带到「医疗先进」的祖国治病，变相成为「永久人质」。强力部门对付李波的手段比清宫十大酷刑更残酷，李波被政治手术师装了个木偶皮诺丘式的长鼻子，终身不能说真话，而他那两位绝对无辜的至亲同时失去自由。</p>
+<p>习政权草木皆兵</p>
+<p>习政权虽然表面上孔武有力，固若金汤，但实质上草木皆兵。这异常吊诡的大独裁者心理学从中共处理《无界新闻》刊登要求习近平辞职的公开信可见一斑。政法与宣传部门马上拘留了《无界新闻》的十多名员工，而且发动国家恐怖主义的人质战术对付两位极有公信力而几年前被迫流亡海外的评论员温云超与长平。温的父母与弟弟成为公安人质，他们更被迫向身在纽约的温施加压力找出谁够胆要求习总辞职。远在德国的长平因为写了所谓「反习」文章，亦备受同样的国家恐怖主义袭击！</p>
+<p>一个政权的最起码责任是确保公民免于随时遭到厄运的恐惧。很可惜在大陆即使毫不关心政治的普通市民亦分分钟遭殃。例如不幸用过毒疫苗的小孩与成年人不但拿不到起码的赔偿，为他们上访请愿的父母与亲属无一幸免遭到公安国保的野蛮禁锢！这不是赤裸裸的国家恐怖主义是什么？</p>
+<p>由于习大大以为中国财大气粗、不出十多年便会超越老美的超级大国地位，去年夏天竟然派特工到加州，试图绑架政敌令计画的弟弟令完成！据熟悉中共安全部门的人士介绍，北京已增拨人手随时在世界各地绑架「反党、反核心」的异见人士，在国内则严厉监控他们的亲属，并随时把他们变为向异己施压的人质。中共不改旗易帜的话，在国内势难免阴沟翻船而步苏共的后尘，在国外则将受到一切拥护普世价值的人士唾弃！</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E9%97%BB%E6%B8%AF%EF%BD%9C%E6%9E%97%E5%92%8C%E7%AB%8B%EF%BC%9A%E4%B9%A0%E6%94%BF%E6%9D%83%E8%8D%89%E6%9C%A8%E7%9A%86%E5%85%B5-%E5%A3%B0%E8%AE%A8%E5%9B%BD%E5%AE%B6%E6%81%90%E6%80%96%E4%B8%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">国家恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%92%8C%E5%8A%9B/?category=18271" rel="tag">林和力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-19/" target="cdt-mirror">【网络民议】看敏感词库 已到姐夫</a>
 </h2>
 <p><p>‏‏由于无法直接讨论有关“巴拿马文件”和习近平姐夫邓家贵离岸资产的话题，“姐夫”一度成为了中国网民中提及频率最高的巴拿马文件事件替代词，甚至在昨天登上了新浪微博热搜榜。目前该微博话题已被删除。</p>
@@ -767,36 +784,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%AD%E4%BD%9C%E4%BA%BA%EF%BC%9A%E6%88%91%E7%9A%84%E5%85%84%E5%BC%9F%E9%99%88%E4%BA%91%E9%A3%9E%E5%92%8C%E4%BB%96%E7%9A%84%E7%B2%BE%E7%A5%9E/" target="cdt-mirror">谭作人：我的兄弟陈云飞和他的精神</a>
-</h2>
-<p><p>又是清明时节，愁字涌上心头。</p>
-<p>去年清明，我的兄弟陈云飞因为去新津和双流，为当年北京罹难的学友吴国峰和肖杰扫墓，结果把自己扫进了牢笼。兄弟坐牢，已经整整一年了。</p>
-<p>一年来，很少得到兄弟的音讯。不知道这位长年吃素，却敢于舍身饲虎，自称驯兽师的憨直兄弟，在兽笼之中挨打乎？受罚乎？饱暖乎？笑口常开乎？由于不知，倍加思念。思念无涯，愁绪无边。<br>
-也正是因为不知，兄弟的音容笑貌，日渐清晰，终日挥之不去。</p>
-<p>我和云飞兄弟，结识于成都读书会。2007年，由于香港某大神的荒谬无知，我提笔抒发了久久郁结于心的把酒扭丝情结，写下了《见证最后的美丽——一个目击者的广场日记》。5月27日，《广场日记》发表。谁知，书友们掌声未息，突见《成都晚报》惊现十四大字：向坚强的六四遇难者母亲致敬！平地一声雷！书友们纷纷奔走相告：快，快买报纸去！</p>
-<p>几天后，成都读书会的创始人和总召集人周钰樵老师，把陈犯云飞推到了我们面前。原来，这位广告杰作的作者，竟是平日少言寡语，在读书会“潜伏”已经一年多，热衷于为众人端茶倒水的陈云飞兄弟！</p>
-<p>从此，我的把酒扭丝金兰谱上，多了一位兄弟。</p>
-<p>云飞成为我的兄弟，不仅是因为广场情结，更是因为，他坚强地继承了，勇敢地发挥了，智慧地表达了，创造性的发展了广场精神，与屠夫吴淦等仁人志士一起，共同成为新时代的抵抗精神和政治行为艺术的一代宗师。云飞发起六四献血之前，我们的精神血脉，已经联结在一起。</p>
-<p>《广场日记》发表两年后，我终于因为实施5.12校难公民独立调查，以及抵制3200万吨炼化一体化基地落户彭州，被周永康集团一举拿下，判刑五年。在我住宾馆吃皇粮期间，陈犯云飞，反而更加折腾，且日益精进，把他的政治反对精神和政治行为艺术，播撒到整个维权领域。据说，当年云飞和读书会书友来我的看守所探监，拿出90元，要求警方找补1元，以便赶车回去。另一书友拿出65元，提出同样要求。两人的配合表演，使与世隔绝的我，接收到了把酒扭丝的明确信息。</p>
-<p>云飞最喜欢说的一句话是，杀猪杀颈子杀屁眼儿，各有各的杀法。这是他的方法论。不拘一格，随机行事，本是这个多元时代的行为方式之一。只要你有原则，有立场，有守持，你就不必拘泥于表现形式，也不必强求统一规定政治正确动作优美。</p>
-<p>我与云飞，虽然业务方向和行事方法不尽相同，精神却一脉相承。这个精神，就是发轫于五四.六四的宪政民主理念下的奉献精神，以及，为实现民主自由而不可或缺的实干精神和勇敢精神。在实干和勇敢精神方面，云飞强我若干倍，或者，几十倍。因为，在短兵相接贴身近战中，云飞总能淡定，从容，笑对暴力而无限坚持。而这样直接的警民接触，云飞经历了几十次却从无惧色，令我敬佩。这些行为，说到驯兽虽有些夸张，称之为相互驯化，互相适应，亦己亦人，共生共存，倒也贴切。正因为此，云飞的故事和口碑，在中国特色的B面，发散着独特的人性的光辉，广播海内。</p>
-<p>云飞与我，同为成都秋雨之福归正教会的慕道友。每次查经结束，我与他总要去附近一家绵阳米粉店午餐。我是肉食动物，要求加肉䬰，云飞却把他碗里的肉䬰给我，还劝我节约。其实我知道，兄弟的填狱之心，早已决志。我说，你刚出来，消停几天行不？他说不行，那是小奖。把坐牢视为奖励，这种超然、勇敢，以及对政治黑暗的蔑视，能有几人？</p>
-<p>最近传出消息，云飞兄弟准备在即将开始的庭审之中“打瞌睡”，以此来抗议政治司法的不公不正。我在心里笑了，好兄弟，我熟悉你，不会屈服不会溜号的你，既是广场精神的传承，更是广场精神的升级。</p>
-<p>这使我想起一批又一批八九人，以及一波又一波的正在迎面而来的后八九人，他们尤如桃汛鱼群，一次又一次地溯流而上，勇跃龙门，只为产下理想和精神的种子，然后静静地死去。他们的产卵场，就是牢房。</p>
-<p>也许他们，不一定都能看到天亮，而在他们心中，早已是黎明。</p>
-<p>想到这一点，清明的愁云一扫而空。</p>
-<p>我笑在心里，说，云飞弟兄，上帝祝福你！</p>
-<p>2016.4.5. 清明</p>
-<p>编辑注：原文中留有向陈云飞家庭捐助的方式</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%AD%E4%BD%9C%E4%BA%BA%EF%BC%9A%E6%88%91%E7%9A%84%E5%85%84%E5%BC%9F%E9%99%88%E4%BA%91%E9%A3%9E%E5%92%8C%E4%BB%96%E7%9A%84%E7%B2%BE%E7%A5%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">民主人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%AD%E4%BD%9C%E4%BA%BA/?category=18271" rel="tag">谭作人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BA%91%E9%A3%9E/?category=18271" rel="tag">陈云飞</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -808,7 +795,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -818,5 +805,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,146 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%90%9E%E4%B8%AA%E5%A4%A7%E6%96%B0%E9%97%BB%EF%BC%9F%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8D%8F%E4%BC%9A%EF%BC%88icij%EF%BC%89%E6%98%AF%E8%BF%99%E6%A0%B7%E5%81%9A%E7%9A%84/" target="cdt-mirror">NGOCN｜搞个大新闻？国际调查记者协会（ICIJ）是这样做的</a>
+</h2>
+<p><p><em>NGOCN原创翻译</em></p>
+<p>在ICIJ （国际调查记者协会）最近搞的大新闻里，让人惊叹的除了新闻内容本身，更是全球106家媒体的370位记者共同工作一年，竟没有走漏一点风声。</p>
+<p>这个大陆读者都不太熟悉的NGO，其实正是以数据分析，全球联合报道闻名。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.jpg" rel="attachment wp-att-434452"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.jpg?resize=271%2C186" alt="640" data-recalc-dims="1"></a></p>
+<p>2015年2月，ICIJ联合五十调查记者，报道世界银行的资助项目如何导致第三世界国家数千原住民背井离乡。</p>
+<p>让我们以此为例，走进ICIJ，来看看这个世上最大最难搞的调查机构到底是怎样运作的。</p>
+<p>原文来源：<a href="http://www.poynter.org/2015/making-partnerships-work-how-a-team-of-50-international-reporters-investigated-and-exposed-the-world-bank/352621/" target="_blank">http://www.poynter.org/2015/making-partnerships-work-how-a-team-of-50-international-reporters-investigated-and-exposed-the-world-bank/352621/</a></p>
+<p>作者： Michael Hudson • June 24, 2015</p>
+<p><strong>翻译：魏源</strong></p>
+<p>在中美洲一个被暴力洗劫的地区，记者Sasha Chavkin被一位洪都拉斯军队中的官员告知，他已经知道Chavkin接下来会去哪儿、会采访哪些人。而当Chavkin反问他从哪里得到这些信息时，这位上校仅仅回答道：”我是一名军人”。</p>
+<p>在肯尼亚西部的高地地区，两位来自内罗毕的记者Anthony Langat和Jacob Kushner正在就护林员烧毁当地人房子、将她／他们赶出自己的居所等相关事件展开采访，而此时她／他们刚好撞到了一批持枪的肯尼亚森林管理局官员。这些官员盘问了两位记者将近一个小时，并且拒绝回答她／他们是否处于被逮捕的状态。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6402.jpg" rel="attachment wp-att-434451"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6402.jpg?resize=585%2C344" alt="6402" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6402.jpg?resize=300%2C176 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6402.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>Justin Kipkorir在展示他被毁的家庭，和一些物件。他说肯尼亚的护林员在几个礼拜前烧毁了他的家庭。（照片来自Tony Karumba / GroundTruth）</span></p>
+<p>在卡奇湾边，坐落着印度最大的煤炭发电厂；当经理在保安的护卫下遇到自由记者Barry Yeoman时，他问道：你是谁？你在电厂旁边的捕鱼点做什么？而当Yeoman试图避开这些问题时，保安说，她／他们已经知道他是谁了：”你不是和ICIJ一块的吗？”</p>
+<p>这些遭遇对于那些踩着泥靴来到事发现场的记者来说，并不少见。但这些记者不同的是，她／他们是在同一个主题下一同展开调查工作的，而这一项目下的50个记者都是ICIJ的成员–也就是国际调查记者协会（International Consortium of Investigative Journalists）。</p>
+<p>她／他们的调查主题是：<strong>世界银行所资助的发电厂、大坝和其它一些大型项目是如何伤害到当地的人民和环境的。</strong></p>
+<p><strong>在过去十年间，这一报道团队发现，世界银行资助建立的项目已经使得大约340万人离开了她／他们原本居住的地方。</strong>她／他们往往是所在国家中所贫困的那些人，但却被迫背井离乡、抛弃土地和财产，眼睁睁地看着赖以谋生的手段被毁。<strong>在这个过程中，世界银行未能成功遵循它自己设置的规则，即在社会发展过程中保护民众的利益。</strong></p>
+<p>为了展现世界银行投资所造成的影响，来自ICIJ、《赫芬顿邮报》以及20多位ICIJ的其它媒体伙伴，在14个国家展开了报道。她／他们来到巴尔干半岛、亚洲、非洲和拉丁美洲，进入到当地偏远的乡村、和城市里的贫民窟，甚至是内战和流血冲突的地区，展开调查、提出很多尖锐的问题。而在这些地区，记者经常被留意、盘问、甚至遭到暴力对待和拘捕。</p>
+<p>Ben Hallman认为：”在这些地区，政府投资了大量争议性的项目，正是这些项目吸引了很多记者，而这一相似处使得跨地区的合作成为可能。” Hallman是《赫芬顿邮报》的编辑和记者，他也进入过秘鲁的山区展开调查。”这些地区法治水平普遍较低，并且当地的制度使得人们很难讲出事情的真相。我们可以很明显的感受到寒蝉效应的存在”</p>
+<blockquote><p>［译注］：寒蝉效应（chilling effect）为法律用语，是指当下对言论自由的”阻吓作用”–即使是法律没有明确禁止的。然而，在一般情况下，寒蝉效应现在经常以法律或不明确行动施加不必要的负担，来禁止合法的讲话。中文按照”噤若寒蝉”的意涵将chilling effect译为”寒蝉效应”。（来自不存在的维基百科中文版）</p></blockquote>
+<p>ICIJ是一个新成立的非营利组织，总部位于华盛顿特区。我们在美国、欧洲和拉丁美洲有11个全职工作人员，并在65个国家有190个记者会员，我们一起合作、进行国际新闻报道。</p>
+<p>在ICIJ，我们团队运作的准则是：有很多事件太大、太复杂、涉及到世界上太多不同的地区，以至于我们无法单打独斗揭露丑闻–即使是作为一个新闻机构也很难做到这一点。<strong>参与到ICIJ中后，记者及其所在的机构必须要同意和其它机构分享信息，并且要延后自己披露消息的事件，来让大家都有时间进行发行和报道。</strong></p>
+<p>而这一共识常常和新闻记者日久难改的本能相违背。</p>
+<p>但是在当下，许多新闻编辑室都发现深度报道的来源越来越少，她／他们开始看到将报道来源集中在一起、共同发布大新闻所带来的好处。</p>
+<p>ICIJ对泄漏出来的离岸金融交易信息进行的调查，已经在世界范围内推动了相关的立法和官方调查，这其中包括45个国家的140名记者一同展开的”瑞士泄密（SwissLeaks）”。ICIJ的母机构公职人员廉政中心（the Center for Public Integrity）和美国50个州的记者一同合作，制作了一个国家廉洁指数（State Integrity Index），通过”腐败危机指标（corruption risk indicators）”对不同国家的表现打分。</p>
+<p>西班牙语电视台德莱门多（Telemundo）、美国天气频道（The Weather Channel）和调查基金（The Investigative Fund）共同合作，对数以百计的移民在进入美国的过程中，于德州布鲁克斯县死亡的事件进行了调查报道，这一合作调查使得它们赢得了今年的乔治·波尔卡新闻奖以及调查记者和编辑奖。</p>
+<p><strong>合作调查报道虽然取得了这么多成就，然而，它并不是一件易事。为了展开合作调查，我们需要计划、沟通，并理解不同的伙伴的不同需求、资源和做事风格。</strong></p>
+<p>而我们也需要认同彼此为盟友、而非竞争对手，来让有着很大差异的不同机构能够联合起来。</p>
+<p>你所做的调查未必会最后进入到你所写的故事中，但可能会帮助到其它伙伴，而我们需要为此做好准备。只有当我们为同伴做事时，我们才能得到她／他们的互惠。你给出的越多，你可能得到的就越多。</p>
+<h3><strong>组建队伍</strong></h3>
+<p>我们对世界银行展开的调查开始于2014年春。当时，ICIJ的员工Chavkin开始在社区里听到民众的抱怨声，她／他们认为世界银行所支持的项目对她／他们造成了很多负面影响，而它未能真正保护她／他们免受这些伤害。</p>
+<p>世界银行原本想要结束世界范围内存在的极度贫穷，但是现实不是这么简单的，<strong>对于当地人来说，大坝等会改变社会经济结构的项目可能让事情变得更糟，而非更好。</strong>很多大项目可能让当地人变得更穷，于是人们只能举家搬迁，并可能面临饥饿和疾病。即使人们不会离开她／他们的家乡，这些项目也可能摧毁她／他们赖以为生的手段。比如说，大坝可以改变河流的水量，使得捕鱼为生的社群难以为继。</p>
+<p>Chavkin花了一个月来进行”细嗅式调查（investigative sniff）”，他研究人们发表的那些抱怨言论，并对专家进行访谈。他发现了很多值得挖掘的线索，正是这些使得ICIJ的编辑决定展开全面的调查。</p>
+<p>下一步，组建一个队伍。</p>
+<p><strong>为了共同发起一个包含多新闻源的项目，很重要的一点就在于挑选合适的伙伴，这些伙伴既可能是新闻机构、也可能是记者本人。</strong>正如ICIJ的副主管Marina Walker Guevara所说：”我们要避开那些自视甚高、难以伺候的合作伙伴，因为我们所做的工作本身就够难了。”</p>
+<p><strong>有些媒体对于合作的定义相当狭隘：”把你的信息给我们，我们就会写出报道，并给你们一些回报。”</strong>我们没兴趣和这些人合作，我们所寻找的人，可以在报道过程红互换信息，可以协调关键的采访和信息搜查工作，可以共享照片、图表甚至是在报道上署名的权利。</p>
+<p>甚至当伙伴们有这样的合作意识时，我们仍然面临着很多挑战。正如电视广播和纸媒之间通过合作，可以消除两者之间在关注点和关注方式上的差异；不同的新闻机构之间的跨国合作，也必须很努力地去消除不同地区之间的新闻报道风格传统、以及媒体法律制度上的差异。</p>
+<p><strong>这就是为什么当你去管理跨媒体、或跨国的新闻合作时，必须明白你不可能控制所有的事情。你必须尊重伙伴们的独立性，每个新闻机构都必然会选择写那些更适合它们读者／观众需求的报道。</strong></p>
+<p>对于世界银行的这次调查，我们首先在常合作的伙伴中找寻队友。我们首先找到了瑞士的报纸《星期天报（Sonntags Zeitung）》和《周日晨报（Le Matin Dimanche）》，尼日利亚的《高级时报（Premium Times）》和比利时的新闻杂志MO*。我们也联系了《赫芬顿邮报》，它同意全程参与，和ICIJ一起进行报道、撰写新闻、并在一个小网站上把报道和视频、图片、互动式图表一起发布出来。</p>
+<p>两家美国的新闻非营利组织–调查基金和在地真相计划（The Ground Truth Project）–也热情参与到我们的项目中，为记者出差和报道提供资金支持，并提供了编辑方面的帮助。其它的一些机构，如融合（Fusion）、西班牙的《国家报（El Pais）》和巴西的非营利性调查报道中心Agência Pública，也在调查展开过程中参与了进来。</p>
+<h3><strong>发挥优势</strong></h3>
+<p>为了让大家互相了解对方的情况、充分交流，我们使用了Oxwall这一开源的社交软件，它可以让我们分享文件，并在订阅新闻下面展开Facebook模式的跟帖交流。我们也使用Skype召开会议，促进有着共同兴趣的不同伙伴之间的交流，如三家德国的新闻源–广播WDR和NDR，以及日报《南德意志报（Süddeutsche Zeitung）》，它们都是此次合作中的重要机构。</p>
+<p>同时，在报道联盟进行的早起，对于我们来说很重要的是了解到不同队友的兴趣和优势所在。</p>
+<p>正如加州湾区KNTV的调查记者Stephen Stock所写的那样，<strong>成功的合作项目需要发挥每个伙伴的优势</strong>：”一个小组也许很擅长数据收集和分析……另一个小组也许强于调查数以千计甚至百万计的文件，并从中找到重要信息，另外的伙伴也许有资源，能够将这些信息勾连在一起，写出一个引人入胜的故事。”</p>
+<p>比如说，巴西机构Agência Pública的记者们曾报道过2014年世界杯前的大规模建设所导致的人口迁移，对这一议题有这丰富的经验。ICIJ的Chavkin会说西班牙语，并且对于如何在拉丁美洲难以进入的区域展开报道有很多经验，他去洪都拉斯对当地围绕土地展开的流血冲突进行报道，而这一冲突和世界银行集团的企业贷款单位所支持一家棕榈油生产商有关。</p>
+<p>ICIJ和《赫芬顿邮报》的记者专注于挖掘世界银行的文件，来估计其赞助的项目可能影响到的人口数量。<strong>这两家机构的记者还花费了很多时间，来找到一些世界银行的（前）员工，有些人愿意透露这些大的项目如何给世界银行一些压力，使得它并没有很好的实行自己的”社会和环境保护措施”。</strong></p>
+<h3><strong>在地调查</strong></h3>
+<p>虽然有了这些数据和内部人士的采访，我们知道，为了推动调查，还必须要让一些调查员来到这些受世界银行投资影响的地区，在当地进行报道。</p>
+<p>这并不容易。旅行本身就很贵，而且记者们也需要去解决语言和地理差异带来的各种困难和阻碍。</p>
+<p>在乌干达，电台记者Jeanne Baron需要一个会说当地四种方言的翻译员，还需要一名可以在崎岖路面开车的汽车司机，这样他才能抵达那些被赶离自己农田的家庭，她／他们声称世界银行的私人武装因为当地的一个农业项目而做出此种行径。Agência Pública的Ciro Barros穿越3000公里，去采访那些因为世界银行在巴西东北部干旱地区所支持建立的大坝而被迫离开家乡的人们，她／他们在当地名为”pau-de-araras”的平板卡车上歇脚，这些挤满人的卡车摇摇晃晃地载着当地人从一个地方到另一个地方。</p>
+<p>我们还要确认来到当地的记者们制定了充分的计划，来保护自己和采访对象免受可能来自政府和公司的迫害。我们确定可以联系到她／他们在当地的电话和email，以确保可以联系到每个人，来看是否有事情不对劲；有时候我们还会要求记者每天都要进行汇报，确保她／他们没有被当地警察所骚扰或拘留。</p>
+<p>《赫芬顿邮报》的Hallman在秘鲁的一处金矿进行报道，世界银行的私人武装守卫着这个矿；只要有时间，他就会用自己的iPhone拍下自己写有调查信息的笔记本，然后给自己发邮件，防止当地政府会没收他的笔记本。在他到访秘鲁几个礼拜前，当地警方对一位外国记者进行了14个小时的拘留，因为这位记者试图去采访当地一位为了自己的土地所有权而同金矿展开斗争的农民。</p>
+<p>在印度，当Barry Yeoman因为调查世界银行支持的煤炭发电厂而遭到其经理的盘问时，他的联系人告诉他，警察可能会去到他的旅馆，问他一些问题。Yeoman停止报道，休息了两天，远离当地人遭到发电厂暴力对待的那个捕鱼点。之后他又回到那里，完成了自己的报道，而没有警察的干扰。</p>
+<h3><strong>世界银行对问题的承认</strong></h3>
+<p>在调查中，报道团队花了好几个月来参访世界银行的高级官员，试图和她／他们讨论一些调查发现。在二月下半旬，ICIJ和《赫芬顿邮报》给世界银行的官员发了一封邮件，包含一系列详细的问题，希望能得到一些和新闻报道有关的回应和信息。</p>
+<p>在我们发给官员的问题中，提到世界银行在执行它保护当地民众政策上出现的<strong>“制度性差距（systemic gaps）”</strong>。我们也提出我们得到了一份2014年的秘密审计，其中提出了一系列这些政策执行的问题。</p>
+<p>五天后，世界银行通过公开的渠道，以我们未曾料到的方式回答了这些问题。</p>
+<p>3月4日，世界银行行长金墉（Jim Yong Kim）举办了一场记者招待会，会上他承认了世界银行的保护措施出现了一些”大问题”。”我们严格地重新审视了我们的人口重新安排政策，也审视了其他一些我认为很重要的问题”他说。</p>
+<p>世界银行发布了一个”行动计划”来解决这些失败和问题。</p>
+<p>世界银行不承认报道团队的行动促成了它对问题的承认和改革方案的提出。但是它开展行动的时间线说明了一切，同时，关注世界银行举动的NGO也认为我们的调查对此发挥了重要作用。</p>
+<p>ICIJ、《赫芬顿邮报》和其他一些媒体伙伴在4月16日发布了首批新闻报道，并在之后继续做了一系列发布和播报。最新的报道在7月19日发布，主要是关于世界银行在科索沃煤田的一个村子里进行的迁移项目。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6403.jpg" rel="attachment wp-att-434450"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6403.jpg?resize=585%2C389" alt="6403" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6403.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6403.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>科索沃中部，15岁的Armend Grajcevci在他的村子Hade的边缘。附近的煤矿开采威胁到了村子的存在。”我真的很爱这个村子”他说，”但是我们的生活有太多不确定，我们离煤矿太近了。”（照片来自Visar Kryeziu/ICIJ）</span></p>
+<p>超过100个新闻源公布、播报了这些新闻故事，包括NPR、BBC，以及在土耳其、阿拉伯联合酋长国、摩洛哥、菲律宾、智利和荷兰的一系列出版物。</p>
+<p>有一些新闻机构的管理者不确定是否进行此类合作，因为她／他们有时会怀疑这些伙伴是否会吸走她／他们原本的读者／观众。ICIJ在世界银行和其他一些调查中的经验显示事实刚好是相反的。</p>
+<p><strong>这并不是一个零和博弈。一个新闻机构和其他伙伴一起公布新闻，可以吸引更多的读者和观众，因为这种类型的公布会让人们感受到事件很重要，更值得关注。</strong></p>
+<p>《赫芬顿邮报》的Hallman认为，这是一个很重要的吸引力，特别是当我们考虑到在当下，人们有很多的内容可以阅读，而关于国外事件的深度新闻正艰难得吸引读者。</p>
+<p>“国际新闻很难得到注意，除非它涉及到ISIS或者其他当下的危机事件”他说，”<strong>我们在努力让读者注意到，这些关于地球上另外一些遥远角落中穷人们所处困境的调查报告。</strong>你可以采用一些引人注目的叙事做到这一点，但是，我们也可以给出尽量多地区的故事。ICIJ、《赫芬顿邮报》和其他的伙伴会在2015年继续发布关于世界银行的新闻和故事。”<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6404.jpg" rel="attachment wp-att-434449"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6404.jpg?resize=311%2C154" alt="6404" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6404.jpg?resize=300%2C149 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6404.jpg?w=311 311w" sizes="(max-width: 311px) 100vw, 311px" data-recalc-dims="1"></a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%90%9E%E4%B8%AA%E5%A4%A7%E6%96%B0%E9%97%BB%EF%BC%9F%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8D%8F%E4%BC%9A%EF%BC%88icij%EF%BC%89%E6%98%AF%E8%BF%99%E6%A0%B7%E5%81%9A%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%A8%E9%B1%BC%E8%8C%84%E6%B1%81%E9%A5%AD%EF%BC%9A%E3%80%8C%E5%A5%B9%E6%9C%80%E5%90%8E%E5%8E%BB%E4%BA%86%E7%9B%B8%E4%BA%B2%E8%A7%92%E3%80%8D%E8%AE%B2%E8%BF%B0%E5%A5%B3%E6%80%A7%E7%9A%84%E6%95%85/" target="cdt-mirror">墨鱼茄汁饭：「她最后去了相亲角」讲述女性的故事</a>
+</h2>
+<p><blockquote><p>「如果说柳岩闹伴娘事件动摇了信奉自强以自保的女性信心，让她们开始明白在更高的阶层里，女性的感受和尊严一样难以保存；那么和颐酒店女性被袭事件则摧毁了这些女性的安全感，强加给女性关于性别的恐惧。是的，阶层或许可以改变，可你如何改变你生而为女人。我们幻想更向上的阶级更友善，幻想这个社会里有一个属于女性的乌托邦——我们还没得到，是我们还不够努力超脱阶级。」 —KnowYourself</p></blockquote>
+<p>这段时间接二连三的女性社会生存处境的问题再一次地把女性议题推到了风口浪尖上，而昨天晚上你是否也被 SK-II 的最新广告「她最后去了相亲角」刷屏？</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%A8%E9%B1%BC%E8%8C%84%E6%B1%81%E9%A5%AD%EF%BC%9A%E3%80%8C%E5%A5%B9%E6%9C%80%E5%90%8E%E5%8E%BB%E4%BA%86%E7%9B%B8%E4%BA%B2%E8%A7%92%E3%80%8D%E8%AE%B2%E8%BF%B0%E5%A5%B3%E6%80%A7%E7%9A%84%E6%95%85/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><strong>「她最后去了相亲角」引起女性话题热议</strong></p>
+<p>SK-II 这则广告由来自瑞典的广告公司 Forsman & Bodenfors 制作的。这支广告注意到，在中国许多超过 27 岁的女性如果还未结婚就会被冠上「剩女」这个头衔。而作为这些所谓的「剩女」的父母们，在这则情况下便会在类似于上海人民广场「相亲角」的地方张贴自己女儿的年龄工作收入等基本信息，以此希望自己的女儿能通过这种方式尽早嫁出去。在广告中「剩女」这个群体面临着无比大的结婚压力，而她们是如何勇敢站出来表达自己的观点？—-原本她们抗拒的上海人民公园相亲角，最后却成为了她们勇敢发声的广场：「我们要掌握自己的命运。我们需要得到社会的理解，我们有改变自己『被议论』的命运。」</p>
+<p>视频<a href="http://v.youku.com/v_show/id_XMTUyNTA1MTg1Ng==.html#paction" target="_blank">地址</a></p>
+<p>广告一上线就得到了大量的关注，目前在优酷 主页该片已获得超过 100 万的观看量，而朋友圈内也引起了热烈又广泛的讨论。</p>
+<blockquote><p>独身主义者无所谓光荣不光荣，就如同结婚无所谓光荣不光荣。独身和结婚都是生活方式，但也仅仅只是生活方式而已。我们真正要捍卫的，是人决定自己如何生活的权利。而且人不管是强还是弱，都享有此权利。结婚并不代表女性价值得到了实现。坚持单身或暂时单身也都无法实现女性真正的独立与幸福。自始至终，女性的幸福与伟大，独立于自信，快乐与骄傲，都不该用婚姻去定义。</p></blockquote>
+<p>「相亲角」在女权话题被炒得沸沸扬扬时推出抢得一手好话题，在更广泛的个人生活领域，女性自强是否能获得个人选择而不被人评论的权利不得而知。但好在作为一个营销案例，女性终于能站在非受害者的位置去发声，片中女性发声的姿态也能引起圈内外人的强势关注和讨论。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8-1460000461.jpg?resize=450%2C398" alt="8-1460000461" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8-1460000461.jpg?resize=300%2C265 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8-1460000461.jpg?resize=768%2C679 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8-1460000461.jpg?w=971 971w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>SK-II 希望更多女性勇于突破自我，改写命运，你也可以。摆脱社会禁锢，绽放自信光芒的过程，做自己命运的掌舵者。</p>
+<blockquote><p>「真正决定命运的不是运气，而是选择。」</p>
+<p>「你清楚什么最适合自己，别让压力左右你的未来。」</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%A8%E9%B1%BC%E8%8C%84%E6%B1%81%E9%A5%AD%EF%BC%9A%E3%80%8C%E5%A5%B9%E6%9C%80%E5%90%8E%E5%8E%BB%E4%BA%86%E7%9B%B8%E4%BA%B2%E8%A7%92%E3%80%8D%E8%AE%B2%E8%BF%B0%E5%A5%B3%E6%80%A7%E7%9A%84%E6%95%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3/?category=18271" rel="tag">剩女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97/?category=18271" rel="tag">和颐酒店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E9%81%87%E8%A2%AD/?category=18271" rel="tag">和颐酒店女生遇袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%AF%9D%E9%A2%98/?category=18271" rel="tag">女权话题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E4%BA%B2%E8%A7%92/?category=18271" rel="tag">相亲角</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5%E4%B9%8B%E5%90%8E%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%9A%84%E5%8C%85%E8%A3%B9%E4%BD%95/" target="cdt-mirror">财经网 | 深圳禁摩限电之后快递小哥的包裹何处安放？</a>
+</h2>
+<p><p>每经记者 肖乐</p>
+<p>近日，一场史上最严“禁摩限电”活动席卷深圳。来自深圳交警的数据显示，在这轮自三月下旬开始的整治行动中，全市已经查扣电动车17975辆。</p>
+<p>城市道路安全与快递等行业用车之间的矛盾在这次“严打”行动下尤为凸显，不少快递从业人员表示，“禁摩限电”影响巨大。</p>
+<p>所谓“禁摩限电”集中整治，是指对无证驾驶摩托车，利用电动自行车、电动三轮车兜客揽客实施非法营运，或违规使用电动（机动）三轮车等行为，以及“涉摩涉电”暴力抗法行为，触犯有关法律法规的，一律依法行政拘留或刑事拘留。</p>
+<p>申通深圳华强北站点主管罗先生告诉《每日经济新闻》记者，他们要求快递员在小区里用手推车送货，但他们对于电动三轮车的依赖极高，如果政策继续下去，无疑会给他们带来很大影响。而顺丰公共事务部工作人员则向记者表示，“禁摩限电”给顺丰带来的影响不大。</p>
+<p><strong>●快递企业：一天10多吨货 小推车怎么够</strong></p>
+<p>自3月21日开始，深圳交警部门在全市范围内开始了新一轮“禁摩限电”集中整治行动，地铁口、公交站点、口岸、商业繁华区等区域聚集非法拉客的，一律拘留；违规使用电动三轮车的，4月1日起一律拘留。</p>
+<p><strong>主要依靠电动车解决“最后一公里”问题的快递企业在此轮“严打”中“受伤严重”。据媒体报道，有快递企业直言，因派件车辆不敢上路派送和接件，日接件量大幅下降，另一些快递企业则表示，待交警下班后才收派快递。</strong></p>
+<p>申通深圳华强北站点主管罗先生则告诉《每日经济新闻》记者，他们在行动开始前收到了通知，已经要求快递员在小区里用手推车送货，但是这势必影响配送效率，增加人力成本。据《每日经济新闻》记者了解，申通华强北站点共有40名快递员，每天的送货量在10吨以上，禁掉电动车对其运送效率无疑是一个沉重的打击。</p>
+<p>随着电子商务的发展，<strong>快递企业的包裹量越来越大，因为电动两轮车装的货太少，而小货车无法深入“最后一公里”，所以电动三轮车是快递员们的首选。“都是些小街小巷，小货车怎么进得去嘛。”宅急送一名快递员对记者说道。</strong></p>
+<p>罗先生向记者表示，这些电动三轮车都是快递员自己出钱购置的，单价为2000多元，是他们的谋生工具，“希望政府给快递行业电动三轮车一条出路。但如果非要禁的话，我们也只能配合。”罗先生无奈道。</p>
+<p><strong>●深圳交警：三轮车不能用于送快递</strong></p>
+<p>对于快递行业使用电动三轮车的问题，深圳交警的态度是明确的。</p>
+<p>“由于对电动三轮车至今还没有国家标准，因此现在的电动（机动）三轮车均属非法生产，也无法取得牌照，更不能上路行驶。因此也同样不能用于送快递。”深圳交警局相关负责人在4月5日的新闻通气会上表示。</p>
+<p>实际上，国家曾经在2014年出台过快递行业电动三轮车技术标准，标准明确了电动三轮车的安全性要求，在车辆的尺寸限值、装载质量、最高车速、制动距离、机械性能等多项指标上均有明确规定。</p>
+<p>不过，这项标准只是行业推荐，而非强制性执行标准。</p>
+<p>“现在的电动三轮车基本全部是改装的，这些三轮车连邮政部门推荐的行业标准也达不到。”<strong>深圳交警相关负责人说道，“深圳的道路资源非常紧张，不可能提供过多的道路资源给三轮车。”</strong></p>
+<p>尽管不受政策待见，但电动三轮车因其廉价、便捷的优势，在快递行业的使用率非常高。据了解，在深圳的一些区域，快递行业使用电动三轮车的占到九成以上。</p>
+<p>深圳交警局相关负责人在通气会上表示，目前对于快递企业有个过渡期，过渡期内对快递行业使用未备案的两轮电动车及电动（机动）三轮车的，如无其他严重交通违法行为，暂缓查扣、拘留。此外，待快递业专用电动三轮车国家标准出台后，将根据深圳的实际情况，研究制定分区域、分路段的具体政策。</p>
+<p>一边是快递小哥的“躺枪”引起了网上热议，一边是各类电动车在街头“横行”，成为城市交通治理的老大难问题。规范管理电动车与快递“最后一公里”之间的矛盾日益突出，正在考验城市交通管理者的智慧。</p>
+<p><strong>●唯一出路：置换三轮车？</strong></p>
+<p>在5日的通气会上，<strong>深圳交警局相关负责人表示，三轮车不是快递唯一的方式，“两轮电动车、自行车，甚至人力运送都是可选择的</strong>，我们正在研究哪种方式更适合深圳，研究不同地区时段配合不同的运送方式。”</p>
+<p>目前，合法合规上路的快递两轮电动车必须在深圳交警局备案，而可备案的配额对于飞速发展的快递行业来说也不太够。</p>
+<p>《每日经济新闻》记者了解到，自2012年开始，深圳开始对邮政、快递等行业实行备案制，由行业协会向深圳市交警局申请。但深圳的快递业规模以年均30%以上的速度在增长，而配额数量仍然是2012年给的1.3万辆，近期才新增了5000个配额。对此，深圳交警方面表示，会协同行业协会进行调研，动态调整配额。</p>
+<p>顺丰公共事务部工作人员向《每日经济新闻》记者表示，顺丰从2012年开始进行两轮电动车备案，每年的配额都会进行动态调整，“有一定的缺口，因此我们也一直在向行业协会争取增加备案的数量。”她说，“顺丰靠两轮电动车、手推车和货车运送快递，基本没有电动三轮车。”</p>
+<p>另外，深圳交警相关负责还表示，<strong>目前也在推进新能源小货车在快递行业的使用。</strong>据深圳市快递行业协会秘书长郭小梅介绍，<strong>新能源小货车的价格在6万~8万，政府会给予企业2万~3万元的补贴</strong>，不过，“<strong>新能源货车对于快递企业来说，最关键的不是价格问题，而是充电问题</strong>。快递跑的时间一般很长，必须要能够很方便地充上电。”</p>
+<p>而对于车辆置换成本最终是否会转嫁到消费者头上，造成快递费涨价，郭小梅表示：“逻辑上是这样，但价格要看市场调节情况。”</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfZ0rd-UIAABl6f.jpg?resize=600%2C590" alt="CfZ0rd-UIAABl6f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfZ0rd-UIAABl6f.jpg?resize=300%2C295 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfZ0rd-UIAABl6f.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5%E4%B9%8B%E5%90%8E%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%9A%84%E5%8C%85%E8%A3%B9%E4%BD%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6/?category=18271" rel="tag">交警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A/?category=18271" rel="tag">公共交通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E9%80%92%E4%B8%9A/?category=18271" rel="tag">快递业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">深圳禁摩限电</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8A%A8%E8%BD%A6/?category=18271" rel="tag">电动车</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/" target="cdt-mirror">【立此存照】微博＋知乎＋微信：那些被消失的“姐夫”</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A7%90%E5%A4%AB.png" rel="attachment wp-att-434429"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A7%90%E5%A4%AB.png?resize=575%2C364" alt="姐夫" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=300%2C190 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=768%2C486 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=1024%2C648 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?w=2236 2236w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>“姐夫”：国际调查记者同盟“巴拿马文件”<a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a>截图</span></p>
@@ -193,7 +330,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%89%8B%E5%A5%97/?category=18271" rel="tag">白手套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E5%BC%80%E6%9D%A5%E6%A1%88/?category=18271" rel="tag">谷开来案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%B7%E5%85%A5%E4%B8%91%E9%97%BB-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E4%BA%89%E9%97%AE%EF%BC%9A%E8%B0%81%E6%98%AF%E5%A7%90/" target="cdt-mirror">苹果日报｜习近平卷入丑闻 中国网民争问：谁是姐夫？</a>
 </h2>
@@ -640,83 +777,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E6%97%85%E8%A1%8C%E7%A4%BE%E8%A1%8C%E5%89%8D%E8%AD%A6%E5%91%8A/" target="cdt-mirror">【图说天朝】大陆某旅行社行前警告</a>
-</h2>
-<p><p>@tianyuf：某北京旅行社台湾旅行团的行前 Warning……</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CejhUqeWAAA3nL9.jpg?resize=585%2C439" alt="CejhUqeWAAA3nL9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CejhUqeWAAA3nL9.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CejhUqeWAAA3nL9.jpg?w=600 600w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></p>
-<blockquote><p>1. 我们不是普通的旅游者，我们的一举一动都被台湾政府、媒体及老百姓所关注，所以请大家不要说不利于两岸团结的话语及不利于国家安全的话语。<br>
-2. 大陆旅游团应避免：</p>
-<p>1) 浏览中避开挂伪旗或播放伪歌的景点；<br>
-2) 不能参观台湾所有的政府部门；<br>
-3) 浏览中不能对台湾政府机构拍照；<br>
-4) 不能参观台北的中正纪念堂及拍照；<br>
-5) 不能讲中国与台湾；可以讲大陆和台湾；<br>
-6) 不能讲中国与台北；可以讲北京和台北；<br>
-7) 不帮台湾境管局或任何机构带物品和口信；<br>
-8) 不能带反动光盘及宣传资料回北京。</p>
-</blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E9%99%86%E6%97%85%E8%A1%8C%E7%A4%BE%E8%A1%8C%E5%89%8D%E8%AD%A6%E5%91%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86/?category=18271" rel="tag">大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%B8%9C/?category=18271" rel="tag">房东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%85%E8%A1%8C%E7%A4%BE/?category=18271" rel="tag">旅行社</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%81%B7%E6%88%96%E7%BC%96%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%80%85/" target="cdt-mirror">【异闻观止】环球时报 | 偷或编“巴拿马文件”者绝非等闲之辈</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?resize=500%2C250" alt="c130e6ab27faaaa" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c130e6ab27faaaa.jpg?w=604 604w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>一个重磅泄密案又在国际舆论中炸开了。一家在巴拿马注册的名为莫萨克-丰塞卡的律师事务所被指专门办理用来洗钱避税的离岸公司，他的1150万份秘密文件被匿名者交给德国《南德意志报》，据称经过300多名世界各国记者一年的“调查整理”，于北京时间4月4日公之于众，轰动了世界。</p>
-<p>西方媒体迅速从这份1150万份文件中“大海捞针”出有新闻价值的那些内容，非西方国家领导（包括已下台的）成为最受关注的被打击对象，而其中俄罗斯总统普京一“密友”洗钱10亿美元的爆料尤为突出，西方媒体或明或暗将此称为“普京洗钱”，并同时挖出涉及普京的其他“丑闻”。</p>
-<p>西方国家也有一些名人中枪，但最不得了的算是冰岛总理夫妇在海外有个大账户。这对夫妇的影响力与普京相比，以及他们“有海外大账户”与普京被疑在海外“巨额洗钱”的指控比起来，都不是一个重量级。</p>
-<p>最近几年连续出了维基解密、斯诺登爆料及这次的“巴拿马文件”泄露，这些时间最靠谱的大概是斯诺登爆料，因为它是真人举证。此外维基解密总还有个网站负责人。最新的“大泄密”是谁干的都不知道，而这些材料的政治指向一开始就从大量碎片中形成基本轮廓，这很耐人寻味。</p>
-<p>总体看，西方主流媒体把控着每一次爆料的“分析阐释权”，美国政府在这当中的影响力十分显著。对美国不利的事情，即使曝光出来也能大事化小。对普京这样的非西方领导人，只要“有爆料”，假的也会被当成“疑似真的”。</p>
-<p>因此互联网时代来自基层的这种“大泄密”，对欧美有顶级影响力的机构和精英来说大体是安全的，对“西方”更伤害不了什么。从长远看，它会成为西方意识形态联盟“顺势而为”，打击非西方世界政治精英和关键组织的一种新手段。</p>
-<p>从情报学上说，在一大堆“真材料”中加一些假材料，而后者又被媒体“挖掘出来”，网络泄密的不断发生使这样的“精确打击”成为可能。如果西方情报机构不这样玩两手，那么它们实在善良得让人摸不着头脑。</p>
-<p>西方有大量不同利益体组成，它们在很多时候并不和谐，彼此的摩擦经常发生。但在意识形态和价值观上，它们仍然是相当紧密的同盟，这大概已是现代“西方”概念的基础。喜欢什么不喜欢什么，该贬谁该褒谁，不同西方国家的舆论有相当高的一致性。</p>
-<p>西方主要情报机构对非西方目标打舆论战可谓得天独厚。他们可以做得对普通人来说神不知鬼不觉。他们如果不这么干，情报学恐怕就要改写。</p>
-<p>断言某一次“大泄密”真假或者其中的某几件材料是情报机构塞进去的，都是一种冒险。但是有一点可以大致预见：如果这种“大泄密”总让西方主要国家在政治上难堪，那么它们一定持续不下去。如果这种事情的效果是让非西方的关键人物，尤其是让西方的公开对手遭到打击，那么它们就会一轮又一轮的发生下去。</p>
-<p>至于有人质疑，为什么那么多世界名人和与他们关系密切的人会把隐秘信息交给同一家律师事务所，这是非常枝节的问题。能够偷出1150万份文件或者编出1150万份文件的力量，肯定非等闲之辈。一般人跟这样的力量较劲，非得累死。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%81%B7%E6%88%96%E7%BC%96%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%80%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?category=18271" rel="tag">Jasmine Li</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F/?category=18271" rel="tag">习近平家族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B3%84%E5%AF%86/?category=18271" rel="tag">网络泄密</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%90%A8%E5%85%8B%C2%B7%E5%86%AF%E8%B5%9B%E5%8D%A1%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">莫萨克·冯赛卡信托公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%87%E7%BB%B4%E7%BD%91%EF%BD%9C%E9%98%BF%E5%A6%9E%E4%B8%8D%E7%89%9B%EF%BC%9A%E4%BB%A4%E5%AE%B6%E5%85%84%E5%BC%9F%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%8F%8B%E5%A5%BD%E4%BD%BF%E8%80%85%E5%92%8C%E5%B9%B3/" target="cdt-mirror">万维网｜阿妞不牛：令家兄弟：中美友好使者和平功臣</a>
-</h2>
-<p><p>据报道，令完成已经正式向美国报告令计划交给他的所有机密情报了。这个报道绝不是空穴来风。中国官方早已经公布，令计划有计划地收集盗取了中共最高层最机密情报，交给令完成带去了美国。这个公告就早已表明，令完成绝不可能返回中国，而令计划也难逃一死。除非你不相信中共自己的公告。</p>
-<p>令计划何许人也？艰苦抗战八年的中共总书记国家主席军委主席胡锦涛的大内总管（胡锦涛算八年，因为他只当了八年名义上的军委主席）。大内总管什么意思？就是凡是胡锦涛想要知道必须知道的事，都要令计划告诉他。即使有胡锦涛听说而令计划尚不知道的事，也要令计划去查证汇报。这就是说，令计划知道的事，肯定而且必须比胡锦涛知道的多。当然更比江泽民习近平知道的多。甚至比他们加起来还多——只要是胡锦涛江泽民习近平感兴趣的，令计划都必须知道，当然，只有令计划自己感兴趣的，他完全可以不让其他所有人知道——现在，他可以通过令完成，让奥巴马知道这一切。</p>
-<p>这是令美国意想不到的天上掉下来的恒古罕见的大馅饼。世界历史上几乎从来没有过这样神奇的间谍或者叛逃者。中情局十年的全部预算，无论有多少闹剧败绩，令完成一炮就可以弥补，值得。你说哪个美国总统舍得甚至胆敢把令完成交给中国——哪怕令完成吃不惯美国汉堡包自己想回中国，变大雁越洋甚至变穿山甲钻地缝也跑不了。习近平把整个台湾来换令完成恐怕奥巴马也不干呢。</p>
-<p>而且，令计划还不算是间谍——至少目前为止没有任何证据指称，美国中情局跟令计划有过任何直接联系，策反发展培养过这么一个超级卧底间谍。这完全是令计划自己单方面主动积极向美国献出和氏璧。令完成也不算间谍，他没有去收集盗取这些机密。他甚至不算叛逃——因为他不是中国党和国家政府军队的任何公务员，而只是一个商人，一个“普通公民”，来美国也是合法入境，如果向美国提出永久居留甚至公民归化申请，有N个合法理由M个合法渠道。他最后这次来美国，也不是国家公干，而是商人兼信使，递交他令弟托付的信息，促使美国和中共做成一笔交易而已。美国从中国获得这么一对既非间谍也非叛逃者主动提供世界与世纪超级情报，从盘古开天地到毛周拱倒蒋介石国民党的江山，都找不到可比的先例。当年苏联克格勃特务成功打进西德总理办公室做秘书，以及中国俞强生叛逃美国，都不可比拟。</p>
-<p>只有一个人可以勉强来比：这就是美国著名的中国间谍金无怠。</p>
-<p>金无怠，英文名：Larry Wu-Tai Chin，1922年8月17日生于中国，1944年加入中共，1949年到香港为美国总领事馆工作。朝鲜战争中在韩国帮助审讯中国战俘。1952年，加入中央情报局，1986年2月21日于美国监狱自杀。他历任美国中情局翻译、分析师、档案管理人员，曾担任美国东亚政策研究室主任。</p>
-<p>1985年11月22日，金无怠被美国联邦调查局逮捕，被指控6项间谍罪和11项欺诈和逃税罪。1986年2月，陪审团裁定金无怠的所有17项罪名成立，指控其在1952年至1985年期间向中华人民共和国提供机密情报。金无怠被认为是有史以来破坏最严重的反美间谍，对朝鲜战争，越南战争以及中美关系都产生了重要影响。</p>
-<p>联邦调查局早在1982年2月就开始了对金无怠的调查和监视，通过搜查其行李和监视其行踪，证实金无怠是为中国工作的卧底间谍。金无怠的被捕与中国国家安全部负责美国情报工作的总负责人、北美情报司司长、外事局主任俞强生叛逃美国有关。1985年，俞强声携带金无怠的档案叛逃到美国，从而使美国联邦调查局得到金无怠在中国国家安全局的代号和通信证据，金无怠面对这些证据，承认曾给中国提供情报。金无怠承认了自己确有间谍行为，但坦白的唯一情报是在中美建交过程中，秘密提供给中国关于美国总统对中美关系决策的情报，并因此声称自己对中美两国建交有功。金无怠说：“我提供了美国方面愿意修好的情报，毛泽东才做出了邀请尼克松访华的重大决定”。</p>
-<p>金无怠曾托其妻周谨予往北京见邓小平，希望中国政府能与美国谈判，让自己回到中国。然而中国方面否认与其有任何关系。時任中国外交部发言人的李肇星李在新闻发布会上说：“金无怠事件是美国反华势力编造出來的，中国政府爱好和平，从来没有向美国和任何其他國家派遣过任何间谍。中国政府不会承认这件反华事件，也不认识这位自称是中国间谍的金无怠先生。”</p>
-<p>1986年2月21日，在等待判刑期间，确信中共不会施救之后，金无怠在狱中用塑胶袋蒙住头部窒息自杀。</p>
-<p>金无怠先生是了不起的。除了他递交的有助中美关系解冻到建交的情报，其实他所做的一切，都符合中美两国的根本利益:因为他公开的工作以及实际所做的，是帮助美国政府真正了解认识中共和中国，他暗中所做的，是帮助中共真正了解与正确认识美国。他的信息与研究分析直达中美最高层，这期间中美除了朝鲜，没有正面直接开战。美国没有直接进犯攻打中国，毛泽东也没有派特务和游击队来美国搞捣乱破坏，台湾海峡也没有接连不断互相打真仗打大仗。而中美一路走到了关系正常化，金无怠这样稀罕的间谍情报人才的贡献，对于北京与白宫，都是非常重要显著的。当时如果邓小平有点情意， 向美国要回金无怠，不是绝不可能的——至少比要回俞强生的可能性要大。但是，因为金无怠已经完成了自己的历史使命，让其自我了断，算是给中美相互了解与友谊最后燃烧掉自己吧。</p>
-<p>令计划令完成兄弟，在这点上完全可以和金无怠相比：增进中美两国最高层的相互了解，理解，进而增进互信，增进和平和友谊。而且令家兄弟提供的情报，价值和规模远远大于金无怠一辈子兢兢业业所做。</p>
-<p>美国最需要里了解中共与中国的什么情报?根本不是什么核弹发射的密码，以及中南海地下通道的全部密码钥匙，而是中国核武以及所有军力部署针对的对象，最基本战略思维与部署——中国到底是不是把美国作为第一战略假想敌？是把台湾还是钓鱼岛甚至黄岩岛做为第一冲突突破点，还是把平壤朝鲜作为第一战略布局考量？甚至根本就没有这样的对外战略考量，共军只是共产党对内牵制派系维稳的武装？</p>
-<p>除了江泽民胡锦涛习近平，就只有令家兄弟能回答这样的问题了。无论答案是什么，美国人知道了，有了底，中美就在可见的将来不可能开战。原因很简单：无论中共的军事部署根本战略意图是什么，美国不会去首先进攻打击侵略中国。而中共的底被美国掌握了，如果不是以美国为第一假想敌，中美都不必多虑，如果是，要么中共根本改变战略思维和部署，要么保持无效的既定战略。这客观上都加深中美的根本性相互了解，达到和平共识和战略互信。</p>
-<p>这样的核心机密，江泽民胡锦涛习近平亲自亲口告诉白宫都没用，人家不会信。只有令家兄弟这样传递的信息才令人信服。</p>
-<p>中美达到了在战略安全上这样的根本性了解互信，就有了和平共识的最基本的基础。 其他一切的情报信息，包括中共内部的派系势力分布，要员的真正政治光谱以及他们三姑六姨亿万家财在美国与世界的详细分布，这都要服务于这样的最基本的战略安全利益之下，都只能是有助于加深美国对中共与中国情势的真正了解，减少误判，从而从根本上创造和提供中美合作的机会机遇，当然加不过，这都是在美国的善意引导与积极掌控之下。</p>
-<p>这有什么不好呢？有什么可怕呢？</p>
-<p>除非谁认为，令家兄弟提供的情报，是胡锦涛或者习近平计划后天攻打台湾，接着攻打日本菲律宾，发动世界大战。或者说，令计划掌握着八千万地下反共大军，准备好了新的秋收起义和南昌起义，没有告诉胡锦涛和习近平，只等待奥巴马派出海军陆战队去支援。</p>
-<p>如果没有甚至避免了这样的情况，难道令家兄弟提供这样最高级的情报，不像金无怠一样，特别地特殊地促进加深了中美两国的相互了解，增进互信，和平与友谊吗？</p>
-<p>包括江泽民胡锦涛习近平在内的中国领导人一直公开声明，美国是中国力求优先发展战略合作伙伴关系的最重要的友好国家。令计划把这样的党国最核心机密情报交给令完成，带给美国这样个对中国非常重要的友好国家，而且他本人没有跑出中国，不能说是叛国，也不是间谍。他最多是叛党，有非法占有或者盗窃公共财物罪，但是实际上他是爱党爱国也爱自己，深知中美和平合作对两国人民的长久现实利益，也深知，美国会比胡主席更了解和理解更相信他，他为党为国殚尽竭思，也为自己和家人尽最后一份力。</p>
-<p>令家兄弟和金无怠一样，是中美友好使者功臣。而且，令家兄弟不是间谍也不是叛国者叛逃者。他们计划并完成了一项了不起的非凡使命：促进中美最高层的最深度了解，增进中美最深刻的互信，达成进一步的中美和平合作。</p>
-<p>令计划可以选择自杀，因为他的历史使命已经大功告成。但是，习近平不能枪毙他——那样会给自己造成不必要的大麻烦，你懂的。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%87%E7%BB%B4%E7%BD%91%EF%BD%9C%E9%98%BF%E5%A6%9E%E4%B8%8D%E7%89%9B%EF%BC%9A%E4%BB%A4%E5%AE%B6%E5%85%84%E5%BC%9F%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%8F%8B%E5%A5%BD%E4%BD%BF%E8%80%85%E5%92%8C%E5%B9%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C%E6%88%90/?category=18271" rel="tag">令完成</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -738,5 +798,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

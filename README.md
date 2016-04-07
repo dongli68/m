@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%90%9E%E4%B8%AA%E5%A4%A7%E6%96%B0%E9%97%BB%EF%BC%9F%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%8D%8F%E4%BC%9A%EF%BC%88icij%EF%BC%89%E6%98%AF%E8%BF%99%E6%A0%B7%E5%81%9A%E7%9A%84/" target="cdt-mirror">NGOCN｜搞个大新闻？国际调查记者协会（ICIJ）是这样做的</a>
@@ -121,7 +121,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3/?category=18271" rel="tag">剩女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97/?category=18271" rel="tag">和颐酒店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E9%81%87%E8%A2%AD/?category=18271" rel="tag">和颐酒店女生遇袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%AF%9D%E9%A2%98/?category=18271" rel="tag">女权话题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B8%E4%BA%B2%E8%A7%92/?category=18271" rel="tag">相亲角</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5%E4%B9%8B%E5%90%8E%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%9A%84%E5%8C%85%E8%A3%B9%E4%BD%95/" target="cdt-mirror">财经网 | 深圳禁摩限电之后快递小哥的包裹何处安放？</a>
 </h2>
@@ -788,7 +788,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -798,5 +798,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%8A
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

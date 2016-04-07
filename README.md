@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,180 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/" target="cdt-mirror">【立此存照】微博＋知乎＋微信：那些被消失的“姐夫”</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A7%90%E5%A4%AB.png" rel="attachment wp-att-434429"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A7%90%E5%A4%AB.png?resize=575%2C364" alt="姐夫" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=300%2C190 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=768%2C486 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=1024%2C648 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?w=2236 2236w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>“姐夫”：国际调查记者同盟“巴拿马文件”<a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a>截图</span></p>
+<p><strong>由于无法直接讨论有关“<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>”和习近平姐夫<a href="http://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/" target="_blank">邓家贵</a>离岸资产的话题，“姐夫”一度成为了中国网民中提及频率最高的巴拿马文件事件替代词，甚至在昨天登上了新浪微博热搜榜。</strong>目前该微博话题已被删除（截图来自推特）：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C1.jpeg" rel="attachment wp-att-434406"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C1.jpeg?resize=350%2C622" alt="微博热搜1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博热搜1.jpeg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博热搜1.jpeg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博热搜1.jpeg?w=600 600w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg" rel="attachment wp-att-434424"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg?resize=400%2C711" alt="微博姐夫话题" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p><strong>“姐夫”在知乎也迅速成为热门话题</strong>，一时间引来了大量隐晦但不失讥讽的吐槽（以下截图来自推特）：</p>
+<blockquote><p><strong>问题</strong>：<br>
+姐夫做了不好的事，我该怎么办？<br>
+姐夫以前做了些不好的事，然后因为其他原因被牵扯出来了，我该怎么办</p>
+<p><strong>答主</strong>：啮齿类动物杀手<br>
+你就直说吧，你是不是姓习</p>
+<p><strong>答主</strong>：孙陆天<br>
+媛水救不了近火</p>
+<p><strong>答主</strong>：匿名用户<br>
+“军委的同志身居高位，全军官兵在看着我们，广大的人民群众在看着我们。为人是否正派？做事是否干净？这是事关党和军队形象的大问题。……只有给全军作出表率了，我们抓全军作风建设才有底气。自己不..”</p>
+<p><strong>答主</strong>：立青<br>
+这。是。一。道。送。命。题叫姐夫别慌，过几天新闻热点就转移了等一下，有人敲门，我先去拿下快递。</p>
+<p><strong>答主</strong>：欧阳星<br>
+参考两个套路1.一派胡言，给我的家庭泼脏水。2.无中生有的事你说出来等于你也有责任。</p>
+<p><strong>答主</strong>：狗大王<br>
+字里行间充满江胡习气</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB4.jpg" rel="attachment wp-att-434422"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB4.jpg?resize=450%2C800" alt="知乎姐夫4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫4.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫4.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB3.jpg" rel="attachment wp-att-434414"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB3.jpg?resize=450%2C800" alt="知乎姐夫3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫3.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫3.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>问题</strong>：<br>
+姐夫是谁？</p>
+<p><strong>答主</strong>：王东来<br>
+有本事知乎把姐夫这个词给屏蔽了，否则我见一次答一次。只准州官避税，不许百姓换外汇？</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB2.jpg" rel="attachment wp-att-434409"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB2.jpg?resize=450%2C800" alt="知乎姐夫2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫2.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫2.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><strong>目前，知乎上所有包含“姐夫”一词的话题已全部被删。以下截图由数字时代截取自谷歌快照：</strong></p>
+<blockquote><p><strong>问题</strong>：<br>
+姐夫上热搜 说明什么？</p>
+<p><strong>答主</strong>：黎明待黄昏<br>
+还好及时存下来了，估计你这个话题一会儿也要没。总之，怕被查水表就不说什么了。一句话，这是演的最像的一个武松。看看吧，如果明天还在就好好说点儿自己的看法吧。</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A71.png" rel="attachment wp-att-434410"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A71.png?resize=550%2C707" alt="知乎姐夫快照1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照1.png?resize=768%2C987 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照1.png?resize=797%2C1024 797w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照1.png?w=1696 1696w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>问题：</strong><br>
+如何评价中北美地区纸张质量与大洋洲等地纸张质量的区别？<br>
+如题，毕竟是姐姐的老公发展的技术，我觉得还是中北美洲的质量比较好</p>
+<p><strong>答主：mb2009</strong><br>
+单就纸张质量来看的话，中北美地区纸张质量率先引入来自亚洲的先进造纸技术，具有较高的收藏价值，但由于中北美洲盛产一种叫做承续猿的生物，该生物以中北美地区特有的孢子为食，导致目前中北美地区的纸张比较少见，一般很少能长期保存。</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A72.jpg" rel="attachment wp-att-434411"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A72.jpg?resize=500%2C805" alt="知乎姐夫快照2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照2.jpg?resize=768%2C1237 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照2.jpg?resize=636%2C1024 636w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照2.jpg?w=1451 1451w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>问题：</strong><br>
+巴拿马运河两端的水位差能否用来发电？<br>
+资料显示，巴拿马运河的两端的太平洋和大西洋有50厘米的水位差，开下脑洞，如果解决了河床过高的问题能否利用这50厘米的落差来发电？</p>
+<p><strong>答主：华强北膜王</strong><br>
+发电不行 但是灌溉良田 丰收后 白天在地里大肆庆祝 晚上躺在稻子堆上听蛤蟆叫 然后用谷物制成白面粉 包包子 坠吼吃</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A73.jpg" rel="attachment wp-att-434412"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A73.jpg?resize=550%2C303" alt="知乎姐夫快照3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?resize=300%2C165 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?resize=768%2C423 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?resize=1024%2C563 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?w=2588 2588w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>问题：</strong>巴拿马运河在哪里？</p>
+<p><strong>答主：</strong>知乎用户<br>
+反正不在知乎上，基本都删完了。</p>
+<p><strong>答主：</strong>周某某<br>
+姐夫的碗里。</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A74.png" rel="attachment wp-att-434413"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A74.png?resize=550%2C723" alt="知乎姐夫快照4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?resize=228%2C300 228w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?resize=768%2C1010 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?resize=779%2C1024 779w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?w=1784 1784w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>问题</strong>：如何看待俄国与某国封锁我姐姐的老公投资理财的信息？</p>
+<p><strong>答主</strong>：healer就是我<br>
+闷声发大财，懂吗</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A75.jpg" rel="attachment wp-att-434420"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A75.jpg?resize=550%2C561" alt="知乎姐夫快照5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?resize=294%2C300 294w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?resize=768%2C784 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?resize=1003%2C1024 1003w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?w=1468 1468w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><strong>微信当然也不能幸免，封的封删的删：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB.jpg" rel="attachment wp-att-434404"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB.jpg?resize=550%2C413" alt="微信姐夫" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB2.jpg" rel="attachment wp-att-434405"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB2.jpg?resize=620%2C106" alt="微信姐夫2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫2.jpg?resize=300%2C51 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫2.jpg?resize=768%2C132 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫2.jpg?w=975 975w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1"></a></p>
+<p><strong>附：更多微博截图（图片来自推特）</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg" rel="attachment wp-att-434423"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg?resize=400%2C711" alt="CfXgvoOUEAA88Ia" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg" rel="attachment wp-att-434425"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg?resize=400%2C711" alt="CfXgvoOUYAAr7-v" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg" rel="attachment wp-att-434426"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg?resize=400%2C711" alt="CfXgvqhUUAAnDWB" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%95%BF%E7%AF%87%E6%8A%A5%E9%81%93%EF%BC%9A%E6%B5%B7%E5%A4%96%E9%81%BF%E7%A8%8E%E6%B8%AF%E5%86%85%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E8%89%B2%E8%B4%B5/" target="cdt-mirror">美国之音｜长篇报道：海外避税港内的中国红色贵族</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg" rel="attachment wp-att-434385"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=590%2C295" alt="160406-china-05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=768%2C384 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=1024%2C512 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?w=1600 1600w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><br><span>国际调查记者同盟<a href="https://panamapapers.icij.org/20160406-china-red-nobility-offshore-dealings.html" target="_blank">原文配图</a></span></p>
+<p>中国共产党领袖的家人似乎在闷声发着资本主义大财。国际调查记者联盟(ICIJ)成员欧蕾珊（Alexa Olesen)4月6日推出长篇报道说，泄露出来的“巴拿马文件”显示，八名中共现任和前任政治局常委的亲属拥有秘密离岸公司，这些领导人既有所谓的保守派，也有所谓的改革派。报道还详细披露了已坐牢的前中共政治局委员薄熙来妻子通过“白手套”掩盖海外资产的细节。下面是这篇英文报道的中文翻译：</p>
+<p><strong>毒杀只是中国高层离岸交易的其中一条线索</strong></p>
+<p>欧蕾珊</p>
+<p>中国最高决策机构中共政治局常委的8名现任和前任成员的亲属持有秘密离岸公司。</p>
+<p>几个月来，一直担心着那个威胁着要颠覆她的舒适生活、阻断她丈夫政治高升之路的秘密。于是，她采取了行动。</p>
+<p>在中国南方大都市重庆的一间酒店房间里，谷开来用一个小容器把茶和老鼠药混合起来。与此同时，她的商业伙伴、喝醉的英国人尼尔·海伍德晕乎乎地躺在酒店床上。</p>
+<p>接着，谷开来把这混合物一滴滴灌进了海伍德的嘴里。</p>
+<p>两天后，酒店工作人员发现了他的尸体。</p>
+<p>谷开来最终供认了这起2011年的罪行。她说，她之所以动了杀心，是因为海伍德威胁要曝光一个黑暗的秘密：在世界另一端的一个离岸账户里有着价值数百万美元的房地产资产。</p>
+<p>谷开来意识到，如果海伍德揭露她利用英属维尔京群岛的一家公司来隐藏她对法国南部一幢别墅的所有权，这个丑闻会危害到丈夫薄熙来进入中央政治局常委会。这个不到10人的机构是中国政治权力的顶峰。</p>
+<p>在谋杀案发生仅两星期后，谷开来离岸公司的股权结构突然出现变化。一批秘密档案显示，她的那部分股权被转移到另一名生意伙伴名下，可能是为了进一步模糊她与公司的联系，也可能是为了让这名值得信任的伙伴随着事态的发展更容易迅速做出反应。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg" rel="attachment wp-att-434383"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg?resize=590%2C335" alt="谷开来在法庭上（2013年8月23日，济南中级法院发布的视频的截图）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg?w=640 640w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><p><span>谷开来在法庭上（2013年8月23日，济南中级法院发布的视频的截图）</span></p></div>
+<p>最终，没有什么能够藏得住谷开来的秘密。随着海伍德之死以及她和丈夫双双入狱，她掩盖海外财产的努力也画上了句点，也使人更加关注中国精英如何利用避税天堂来藏匿财富。</p>
+<p>最近泄露出来的“巴拿马文件”提供了关于谷开来海外交易的新鲜细节，也泄露了中国其他权力家庭在离岸所持财产的大量新信息。</p>
+<p>文件显示，头衔囊括国家主席、中共中央总书记和军委主席的中国“全面主席”习近平的姐夫在避税港拥有几家公司。文件还显示，另有至少7名现任和前任政治局常委的亲属也拥有离岸资产，包括两名现任常委。</p>
+<p>这些亲属之一是开国之父毛主席的孙女婿。</p>
+<p>很多中国革命英雄的儿孙辈在商场获得成功并不是秘密。中国是世界第二大经济体，有数百名亿万富翁。然而，这个国家与政治关系最密切的一些人利用离岸关系向公众隐瞒财产却并不那么为人所知。他们如何运作也很少人清楚。</p>
+<p>这些文件由国际调查记者联盟(ICIJ)、德国报纸《南德意志报》(Süddeutsche Zeitung)和一些其他合作媒体取得。总共一千一百多万份文件显示了巴拿马律师事务所莫萨克·冯赛卡(Mossack Fonseca)的内部运作。这架律所专门开设可以用来隐藏财产的公司。</p>
+<p>这家律师事务所的重要中国客户之一就是将反腐作为其统治标志的中国最高领导人习近平的姐夫邓家贵。后者于2004年通过莫萨克·封赛卡购买一家离岸公司，2009年又购入两家。</p>
+<p>三家公司分别名为 “Supreme Victory Enterprises Ltd.”， “Best Effect Enterprises Ltd.”和 “Wealth Ming International Ltd.”。这些公司做何用处尚不清楚。 “Supreme Victory”于2007年解散，另外两家公司在2012年习近平成为共产党总书记后进入休眠状态。</p>
+<p>另一名重要客户是于1987年至1998年间任中国总理的李鹏的女儿。李鹏在国际上因为在1989年天安门广场民主抗议活动期间主持血腥镇压而众所周知。</p>
+<p>李鹏的女儿李小琳和丈夫拥有一家1994年在英属维尔京群岛组建的公司“Cofic Investments”。内部邮件显示，李小琳的律师称这家公司的资金来自于协助由欧洲向中国出口工业设备。从文件上来看，很多年来他们的所有权都通过利用所谓的“无记名股权”，隐匿了起来。这种方式不使用姓名注册，如果你持有这些股权，那就是属于你的。这种方式被长期视为洗钱和其他不道德行为的媒介，已经在全世界范围逐渐消失，因为各地当局加强监管以杜绝不义之财的流通。</p>
+<p>新一代所谓的“红色贵族”似乎在年纪还小的时候就了解了离岸金融世界。2012年退休的政治局常委第四号人物贾庆林的孙女拥有离岸资产。2010年 还是斯坦福大学大一新生的李紫丹(Jasmine Li Zidan)成为了一家名为 “Harvest Sun Trading Ltd.”的离岸公司的所有人。</p>
+<p>从那时起，年仅20多岁的女孩李紫丹建立起了一个惊人的庞大商业集团：她利用在英属维尔京群岛的两个空壳公司在北京成立两家公司，注册总资本30万美元。通过让两家英属维京群岛的公司来持有李紫丹在北京公司的股份，她得以避免家族名字出现在公共登记文件之中。</p>
+<p>其他五名现任和前任政治局常委的亲属与离岸交易有关联。这五名官员是：</p>
+<p><strong>张高丽</strong>，现任中央政治局常委，其女婿李圣泼曾是在英属维尔京群岛注册的三家公司的股东：正源投资管理公司 （Zennon Capital Management），Sino Reliance Networks Corporation和采高投资有限公司（Glory Top Investments Ltd）。</p>
+<p><strong>刘云山</strong>，现任中央政治局常委，其儿媳贾丽青曾是Ultra Time Investments Ltd公司的董事和股东，该公司于2009年在英属维尔京群岛注册成立。</p>
+<p><strong>曾庆红</strong>，2002年至2007年间担任中国国家副主席，其弟曾庆淮曾是China Cultural Exchange Association Ltd公司的董事，该公司先在纽埃岛（Niue）注册成立，后于2006年将公司地址迁至萨摩亚（Samoa）。</p>
+<p><strong>胡耀邦</strong>，已故，1982年至1987年担任中共领导人，其子胡德华曾是Fortalent International Holdings Ltd的股东、董事和实际受益人（beneficial owner），该公司于2003年在英属维尔京群岛注册成立。胡德华将公司地址登记为他的家庭住址，也就是他父亲担任中共领导人时生活的传统大院。</p>
+<p><strong>毛泽东</strong>，从1949年直至其去世一直领导共产党中国，其孙女婿陈东升于2011年在英属维尔京群岛注册成立锐志国际有限公司（Keen Best International Limited）。陈东升目前是一家人寿保险公司和一家艺术品拍卖行的掌门人，曾是锐志国际的唯一董事和股东。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg" rel="attachment wp-att-434384"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg?resize=590%2C394" alt="巴拿马的丰塞卡律师事务所的创始人之一拉蒙·冯塞卡" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg?w=640 640w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><p><span>巴拿马的丰塞卡律师事务所的创始人之一拉蒙·冯塞卡</span></p></div>
+<p><strong>共产主义遇见资本主义</strong></p>
+<p>泄密的文件反映出中国的一些政治精英是如果利用离岸金融世界来隐藏他们的资产的。</p>
+<p>并不是所有的离岸交易都是非法的，但是在英属维尔京群岛及其他地方注册的公司可以被用于掩盖政治精英和金主之间的财务关系、隐藏资产、避税和匿名股票买卖。这些公司还能让这些身份显赫之人以离岸空壳公司的名字成立在岸公司，同时不让任何人觉察到这些公司属于他们。这些是让有共产主义特色的现代中国资本主义运转的其中的一些手段。</p>
+<p>除了这些政治上的太子党外，莫萨克·冯赛卡的中国客户还包括超级富豪，比如创立了银泰百货的沈国军。沈国军与中国功夫明星成龙和其他人曾是一家名为Dragon Stream Limited公司的股东，该公司于2008年在英属维尔京群岛注册成立。</p>
+<p>另一位亿万富豪宗馥莉，也就是亿万富翁、杭州娃哈哈集团创始人宗庆后的女儿，她于2015年2月在莫萨克·冯塞卡事务所的帮助下，收购了一家名为 Purple Mystery Investments的英属维尔京群岛空壳公司。往来通信的资料显示，这家公司的目的是“在中国投资”。</p>
+<p>沈国军、成龙和宗馥莉对国际调查记者联盟的置评请求未予回应。</p>
+<p>这家巴拿马律师事务所被认为是帮助成立离岸公司的全球顶尖的五家公司之一。1989年8月，莫萨克·冯塞卡律师所（Mossack Fonseca Secretaries Limited），在香港成立公司早期的办事处设在九龙中心，位于熙熙攘攘、商店、博物馆林立的尖沙咀。律所于2000年在中国大陆成立了第一家办事处。其网站信息显示，如今这家律师所在中国大陆的深圳、宁波、青岛、大连、上海、杭州、南京和济南八个城市设有办事处。</p>
+<p>电子邮件显示，莫萨克·冯赛卡公司在2014年回复英属维尔京群岛金融监管部门的询问时最终得知李小琳和她的丈夫是Cofic Investments的真正所有人。</p>
+<p>目前从文件中还不清楚询问的有关内容。不过，即使在当时，至少有一些莫萨克·冯赛卡公司的员工似乎还没有将李小琳和中国政商界的一名重要人物联系起来。</p>
+<p>日内瓦律师查尔斯—安德烈·朱诺德（Charles-Andre Junod）曾经是Cofic Investments的一名负责人。朱诺德拒绝作出评论，但他表示，他一直尊重相关法律。</p>
+<p>李小琳没有答复多次向她发出的评论请求。</p>
+<p>莫萨克·冯赛卡在回复给国际调查记者联盟（ICIJ）的一封信中说，该公司“按要求建立了政策和程序”来辨别并处理涉及政治人物及其关系人的案子。 这家公司说，该公司将这类案子视为“高风险”，并实行更为严格的检查和定期的后续调查。他们在信中说：“我们对所有新客户和未来客户进行全面的审慎调查，严格程度往往超出那些约束我们和其他公司的现有法规。”</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg" rel="attachment wp-att-434380"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=590%2C295" alt="160406-china-04" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=768%2C384 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=1024%2C512 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?w=1600 1600w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><br><span>国际调查记者同盟<a href="https://panamapapers.icij.org/20160406-china-red-nobility-offshore-dealings.html" target="_blank">原文配图</a></span></p>
+<p><strong>价值一美元的公司</strong></p>
+<p>李紫丹（Jasmine Li）是另一名没有得到太多注意、混过莫萨克·冯赛卡公司审查过程的“太子党”成员。她是前政治局常委贾庆林的外孙女。李紫丹在踏入离岸交易界时还是一名美国斯坦福大学的学生。</p>
+<p>在莫萨克·冯塞卡公司的被泄密文件中，没有证据显示这家法律公司曾经获得过李紫丹的照片身份证明，而这本应该是一个基本程序。如果冯塞卡公司检查得更仔细些，他们可能会发现李紫丹和该公司另一名客户、中国的名表经销商亨德利公司董事局主席张瑜平的关系。</p>
+<p>张瑜平是一家设在英属维尔京群岛、名为Harvest Sun Trading Limited公司的唯一股东。</p>
+<p>公开记录显示，Harvest Sun公司被用来在2010年4月收购一家在香港公开上市的公司的股票，公司名为中策集团（China Strategic Holdings）。香港交易所的档案显示，几个月之后，Harvest Sun在8月卖掉了其中一些股票，并在9月脱手了其余股票。</p>
+<p>莫萨克·冯塞卡公司的记录显示，2010年12月，张瑜平将这家空壳公司的所有权转让给了李紫丹。李紫丹的LinkIn页面显示，当时她还是斯坦福大学的一年级学生。</p>
+<p>出售价格：一美元。</p>
+<p>莫萨克·冯塞卡的记录显示，李紫丹还拥有另一家名为Xin Sheng Investments Limited的英属维尔京群岛公司。李紫丹利用Harvest Sun和Xin Sheng在北京设立了两家名称类似的公司，涉足娱乐业和房地产。两家离岸公司为她的身份提供掩护。</p>
+<p>张瑜平的律师维克多·李（Victor Lee）通过电子邮件证实了张瑜平在2010年将Harvest Sun公司转让给了李紫丹。这位律师说，Harvest Sun在当时没有资产，张瑜平将这次转让视为“合理”，因为这家公司“里面没有资产，只是一家空壳公司”。</p>
+<p>这位律师写道：“我们的客户和李女士没有关系，她是由一些商业伙伴介绍给我们的客户的。”但是律师没有透露细节。他表示，这次转移意味着李紫丹可以拥有这家公司，而无需自己设立另一家空壳公司。</p>
+<p>中国的商人通常试图通过帮助高层领导人的配偶、子女、孙子女和其他近亲来讨好他们。这种共生但又秘密关系的实质在谷开来和她的丈夫薄熙来受审期间， 让外界得以一窥端倪。他们夫妇两人对来自东北，实力雄厚的塑料业巨头徐明有着很大的依赖。薄熙来2013年在对其腐败案的审理期间表示，“徐明为我家、为谷开来，尤其为薄瓜瓜在国外提供了大量的资助。。。我帮了他‘快发展’，他帮我‘带孩子’。”</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg" rel="attachment wp-att-434386"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg?resize=590%2C332" alt="2015年12月，徐明在狱中突然死亡" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg?w=640 640w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><p><span>2015年12月，徐明在狱中突然死亡</span></p></div>
+<p><strong>白手套</strong></p>
+<p>10多年来，谷开来一直从自己在加勒比秘密地点的离岸公司获利，使得她得以保有在地中海边的别墅。</p>
+<p>她和她的丈夫薄熙来有着中国权贵阶层夫妇的所有特质。</p>
+<p>谷开来是中国人民解放军一名将领的女儿，她在文革期间在屠宰场工作过，后来成为一名成功的律师。</p>
+<p>薄熙来是中共最有权势的“八老”之一薄一波的儿子，在2011年的时候，他主政中国西南部都市重庆，他在2011年以前是中共政治局常委的热门人选，并可能成为中国下一任政法委书记。</p>
+<p>随着谷开来的丈夫如明星般升起，她本人也获得了法国里维埃拉一带的一处拥有6间卧室的别墅。这座别墅在2001年用来自徐明的资助购得。徐明通过虚假购买一家钢铁厂，得以绕过中国严格的外汇管制，向海外转移了320万美元资金。</p>
+<p>出售这家并不存在的钢铁厂的公司抽了一小部分份子，剩余的资金被转移到英属维尔京群岛的一家由谷开来与一名商业伙伴、法国建筑师德维莱尔秘密拥有的罗素地产公司。罗素地产公司又把资金转移到一家在法国的公司，这家公司购买并管理那座别墅。</p>
+<p>表面上看，罗素地产公司和谷开来以及她拥有权力的丈夫毫无关系。</p>
+<p>谷开来把枫丹·圣乔治别墅作为投资之用，希望能够赚取出租的收益。她后来作证说，她隐瞒了对这家公司以及那座别墅的所有权，是因为她希望尽可能少交税。她说：“不想别人知道我家在海外有资产。”</p>
+<p>谷开来借助海伍德来管理这座别墅，海伍德身上同样表现出浮华和神秘。他为人所知的一件事是开着车牌有007数字的美洲豹汽车在北京兜风。英国《卫报》报道说，他把谷开来称为豪不宽恕的“女皇”。</p>
+<p>这些在中国称之为“白手套”的代理人通常都持有实际业主在房地产或其他投资的股份。</p>
+<p>成为企业或党内精英的白手套在中国已经成为一项有利可图的行业。不过，就海伍德的例子来说，也是条取人性命的不归路。</p>
+<p><strong>分崩离析</strong></p>
+<p>莫萨克.冯赛卡（Mossack Fonseca）“接手了”一批离岸公司，包括罗素地产公司（Russell Properties S.A.），这些公司是2011年中期从另一家注册代理商转让过来的。</p>
+<p>当时，该公司的股份为IFG信托（IFG Trust）和IFG秘书公司（IFG Secretaries）所持有，其代理人位于海峡群岛的泽西，董事和股东的注册资料上没有提及德维莱尔或谷开来的名字，和中国也没有明显的关联。</p>
+<p>接下来，这样的精心安排开始崩溃了。</p>
+<p>谷开来曾承诺海伍德，他将分得重庆房地产交易获利的红利，海伍德当时负责管理那栋法国别墅。不过，海伍德认为他没有获得公平的汇报。谷开来在之后的证词中说，2011年初海伍德联系了她的儿子薄瓜瓜，逼薄瓜瓜向他的家人要更多的钱。谷开来称，海伍德威胁说要将谷开来的别墅所有权公诸于世。</p>
+<p>根据有关谷开来庭审的报道，谷开来和海伍德2011年11月3日在重庆南山丽景度假酒店见面，在讨论的过程中发生争执。两人在晚餐后到海伍德的房间里喝酒。海伍德喝了半瓶皇家礼炮威士忌后呕吐，然后被薄家勤务员张晓军拖到床上。海伍德还向谷开来要水喝。</p>
+<p>谷开来将老鼠药和茶混合并装在一个酱油瓶子里，然后一小口一小口的喂给海伍德喝下去。谷开来等到她再也感受不到海伍德的脉搏跳动后，她才回到自己的酒店房间睡觉。</p>
+<p>两个星期多一点之后，外流的档案显示摩萨克·冯赛卡协助了将罗素地产管理公司的所有权股份从IFG代理公司转到曾协助谷开来在2000年设立公司的 法国建筑师帕特里克.亨利. 德维莱尔（Patrick Henri Devillers）名下。罗素地产公司是控制那栋别墅的空壳公司。</p>
+<p>德维莱尔在转让文件上使用了谷开来在北京的前律师事务所合伙人地址。根据法院文件显示，罗素房地产公司最早由谷开来和德维莱尔透过两个在海峡群岛的代理人以5:5的比例持有。</p>
+<p>为什么犯罪后这么快就进行转让，为什么谷开来的股份转给了德维莱尔，这些尚不得而知。事实上，德维莱尔在公司的文件上选择用自己的真名并使用谷开来之前的工作地址，这似乎让人觉得奇怪，这等于在这间公司留下了他和谷开来的指纹。</p>
+<p>最重要的是，这个步骤拿掉了IFG公司的“中间人”身份，使得德维莱尔得以直接和摩萨克·冯赛卡建立联系，让他对公司有更大的及时掌控。</p>
+<p>到了2012年初，因为与谷开来的谋杀案和薄熙来的腐败丑闻有联系，德维莱尔的名字经常出现在中国、英国、法国、澳大利亚和美国的新闻中。不过，根据泄密的文件， 2012年初的几个月，巴拿马的莫萨克·冯赛卡似乎仍然没有注意这个案件。不过，就在这个时候，德维莱尔向莫萨克·冯赛卡发电子邮件，要求他们允许自己将罗素地产公司（Russel Properties）移交给一个叫做摩根与摩根信托（Morgan& Morgan Trust）的离岸代理商。</p>
+<p>2012年7月，英属维尔京群岛的监管人员对罗素地产进行调查，要求提供公司业主、管理人员以及其他的细节。四天后，莫萨克·冯赛卡的一名合规官在一份内部邮件中警告她的同事说，德维莱尔似乎与中国的一项调查有关。</p>
+<p>6月12日到13日，莫萨克·冯赛卡直接给德维莱尔发电邮，表达他们日渐增加的担忧，电邮中包括新闻链接，谈到他与谷开来和薄熙来丑闻以及他据称在其中的角色。这家律师所写道：“这些文章提到了一个与你的名字和国籍相同的人，请告知我们此人与你是否为同一个人。” 德维莱尔似乎并没有回答。</p>
+<p>在给英属维尔京群岛当局的回应中，莫萨克·冯赛卡律师所说，一个叫帕特里克·亨利·德维莱尔的人是罗素地产唯一的股东和管理人员，是他们与这家公司的最后的联系。这家律师所没有提到该公司与中国发生的丑闻有联系， 尽管他们承诺将更深入调查并在随后提供更多有关这家公司和德维莱尔的信息。</p>
+<p><strong>卖房</strong></p>
+<p>德维莱尔现在居住在柬埔寨。他的证词在谷开来和薄熙来的案子中都被采纳，但是他自己从没有被控罪。他对国际调查记者联盟多次提出的采访要求未予回应。</p>
+<p>薄熙来现在因为受贿、挪用公款和滥用权力被终身监禁，尽管他说，有一天他会被还予清白。</p>
+<p>谷开来因为谋杀海伍德被判死缓，但是2015年12月，中国当局给她减刑，改判为无期徒刑。</p>
+<p>宣判薄熙来的法庭裁决，别墅由中国政府没收。中国国家媒体2014年的报道说，别墅将被出售。</p>
+<p>建议售价：850万美元。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%95%BF%E7%AF%87%E6%8A%A5%E9%81%93%EF%BC%9A%E6%B5%B7%E5%A4%96%E9%81%BF%E7%A8%8E%E6%B8%AF%E5%86%85%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E8%89%B2%E8%B4%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%89%8B%E5%A5%97/?category=18271" rel="tag">白手套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E5%BC%80%E6%9D%A5%E6%A1%88/?category=18271" rel="tag">谷开来案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%B7%E5%85%A5%E4%B8%91%E9%97%BB-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E4%BA%89%E9%97%AE%EF%BC%9A%E8%B0%81%E6%98%AF%E5%A7%90/" target="cdt-mirror">苹果日报｜习近平卷入丑闻 中国网民争问：谁是姐夫？</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?resize=549%2C309" alt="1459952998_40c8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?w=640 640w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
@@ -546,59 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E5%AE%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%87%AA%E6%9F%A5%E8%87%AA%E5%88%A0%E6%B6%89%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E6%89%80/" target="cdt-mirror">【真理部】自查自删涉“巴拿马文件”泄露事件所有相关内容</a>
-</h2>
-<p><p>各网站：请自查自删涉“巴拿马文件”泄露事件所有相关内容，包括新闻报道及微博、微信、论坛、社区、贴吧、云盘、评论等互动环节，移动端同步进行删除。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-05-at-10.27.06-AM.png?resize=550%2C335" alt="Screen Shot 2016-04-05 at 10.27.06 AM" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-05-at-10.27.06-AM.png?resize=768%2C467 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-05-at-10.27.06-AM.png?w=914 914w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%87%AA%E6%9F%A5%E8%87%AA%E5%88%A0%E6%B6%89%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E6%89%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%96%E7%95%8C%E7%A6%BB%E5%B2%B8%E8%B5%84%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%A4%96%E6%B3%84%EF%BC%8C%E6%B6%89%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E4%BA%B2/" target="cdt-mirror">美国之音 | 世界离岸资产数据外泄，涉中共高层亲属</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-%E4%B8%8B%E5%8D%881.01.05.png?resize=550%2C278" alt="Screen Shot 2016-04-04 at 下午1.01.05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=300%2C152 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=768%2C388 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?resize=1024%2C518 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-下午1.01.05.png?w=1202 1202w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>4月3日，国际调查记者同盟（International Consortium of Investigative Journalists, ICIJ）在网站上公布了部分“巴拿马文件”（Panama Papers），揭露了140余位国家政要及其家属从未曝光的离岸资产。“巴拿马文件”包括从1970年代到2015年间的1150余万份的文件，全部来自位于巴拿马的莫萨克·冯赛卡信托公司（Mossack Fonseca），其规模远超包括维基解密在内的所有类似泄密事件。</p>
-<p>目前公布的人员名单里与中国有关的有四人：李鹏女儿李小琳，习近平姐夫邓家贵，贾庆林外孙女李紫丹（Jasmine Li），薄熙来妻子谷开来的生意伙伴、法国人帕特里克·亨利·德维利耶（Patrick Henri Devillers）。</p>
-<p>此外，涉事的现任和前任国家领导人共有12人，包括阿根廷总统、乌克兰总统、沙特阿拉伯国王等。俄罗斯总统普京的亲信、英国首相卡梅伦的父亲等也牵涉其中。</p>
-<p>据报道，一位匿名者于一年前向德国报纸《南德意志报》（Süddeutsche Zeitung ）提供了“巴拿马文件”的相关数据，报方将数据交给国际调查记者同盟进行调查。后者动员了全世界100多个媒体组织进行了长达一年的调查后，于2016年4月3日在网站上公布了初步结果，完整清单将于五月初公布。</p>
-<p>莫萨克冯赛卡公司被称为全世界“最神秘”的律师行，多家媒体报道其为全球第四大离岸资产服务公司。其网站有英文、西班牙文、中文三种语言，在中国大连、杭州、宁波、青岛、上海、深圳、济南和香港设立办公室。其中香港分部网站上显示其公司箴言为“效率、保密、个性化”。</p>
-<p>美国之音记者通过电子邮件联系了莫萨克冯赛卡的总部和所有中国的分公司，目前尚未收到回应。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-04-at-%E4%B8%8B%E5%8D%881.04.56.png?resize=550%2C305" alt="Screen Shot 2016-04-04 at 下午1.04.56" data-recalc-dims="1"><br>
-中国前总理李鹏的女儿，中国电力国际公司负责人李小琳2006年3月17日在香港</p>
-<p><strong>涉事中国人李鹏女儿李小琳</strong></p>
-<p>据国际调查记者同盟网站的信息，在李鹏任总理期间，李小琳和丈夫刘智源在列支敦士登注册了基金公司Foundation Silo，该基金公司是另一家注册于避税天堂英属维京群岛的公司Cofic Investments Ltd.的唯一股东。ICIJ公布了李小琳的律师查尔斯-安德烈·朱诺德（Charles-Andre Junod）去年3月发给莫萨克·冯赛卡信托公司的邮件，告知后者Cofic Investments Ltd的资金来自从欧洲向中国出口重型机械的收益。</p>
-<p>朱诺德律师在邮件中称呼李为“刘李小琳”，还附上了李的香港护照。此举可能是为了更好的保护李的隐私，避免相关人员把她和李鹏联系起来。美国之音记者联系莫萨克·冯赛卡信托公司询问其是否知道“刘李小琳”的真实身份，尚未得到回复。</p>
-<p>查尔斯-安德烈·朱诺德是瑞士一家律师事务所的冠名合伙人。文件公布后，他回应ICIJ称他一直遵守相关法律。</p>
-<p><strong>习近平姐夫邓家贵</strong></p>
-<p>邓家贵是习近平姐姐齐桥桥的丈夫，文件显示他于2009年9月，也就是习近平任国家副主席期间，成为了两家公司的独立董事和股东，公司均注册于英属维京群岛，由香港的民信会计师事务所操作。</p>
-<p>2015年4月，《纽约时报》记者傅才德（Mike Forsythe）发表的《万达帝国王健林：游刃于商业与权贵之间》就详细报道过齐桥桥和邓家贵的商业活动。同年10月，王健林在哈佛大学演讲时回应相关报道，称齐邓夫妇于万达在香港上市前已经把股份全部转让，并强调说“这件事证明的不是腐败，而是恰恰证明，习近平主席治国严，治家更严。”</p>
-<p>然而《纽约时报》的另一篇报道，在2013年10月，习近平当上主席后不久，由齐邓二人创办的北京秦川大地投资有限公司经历了一次不寻常的股权变更。秦川大地从2007年注册成立后的六年里，控股结构都没有任何变化。但是在2013年10月，秦川的所有权全部转移到了徐再胜的名下。傅才德在去年的电话采访中告诉美国之音记者，徐再胜从2000年就在齐邓二人持股的深圳远为投资有限公司工作，到2013年已经在齐邓手下工作了13年，所以股权究竟是“转让”还是“代持”还值得怀疑（详见美国之音记者方冰的<a href="http://m.voachinese.com/a/2745704.html">相关报道</a>）。目前深圳远为投资有限公司的法定代表人仍是邓家贵。</p>
-<p>王健林在哈佛并未回应有关“股权代持”的疑云。</p>
-<p><strong>贾庆林外孙女李紫丹（Jasmine Li</strong><strong>）</strong></p>
-<p>李紫丹第一次出现在中国民众的视野里是2009年，当时多家媒体报道她受邀出席一年一度的巴黎名媛成年舞会。据<a href="http://dailynews.sina.com/gb/chn/chnnews/ausdaily/20130218/02094258425.html">新浪网</a>报道，该舞会属欧洲社交盛会，当时一同出席的还有已故戴安娜王妃的18岁侄女、名导演克林伊斯伍德的16岁女儿、澳门赌王何鸿燊的孙女等。</p>
-<p>巴拿马文件显示，就在李紫丹参加巴黎舞会的同一年，润年贸易有限公司（Harvest Sun Trading）在维京群岛注册成立。2010年，中国名表零售连锁集团亨得利创始人张瑜平将该公司以1美元的价格转让了还在斯坦福读本科的李。同时，李也是另一家维京群岛注册公司Xin Sheng Investments的单一股东。</p>
-<p><strong>薄熙来妻子谷开来和她的法国生意伙伴</strong></p>
-<p>薄熙来还是大连市委书记的时候，法国人德维利耶与谷开来相识。2000年9月，德维利耶帮助谷开来建立离岸账户并在维京群岛设立公司，公司的股权收益被用于购买法国尼斯的别墅。薄熙来受审期间，谷开来和德维利耶关于尼斯别墅的证词成为薄腐败证据的一部分。谷开来入狱后，德维利耶成为公司的唯一持股人。</p>
-<p>目前国际调查记者同盟只在网站上公布了一部分结果，完整的清单将于五月初公布。</p>
-<p>其实早在2014年，国际调查记者同盟就曾发布过<a href="https://www.icij.org/offshore/leaked-records-reveal-offshore-holdings-chinas-elite">一份调查报告</a>，披露中国高官家属和商人在海外拥有离岸资产。当时被点名的包括邓家贵、李小琳、温家宝的儿子温云松、彭真的儿子傅亮、邓小平的女婿吴建常，还有腾讯CEO马化腾、乐视CEO贾跃亭等。</p>
-<p>参与“巴拿马文件”调查的100多名记者中，有一位来自香港，三位来自台湾。没有中国大陆的调查记者。</p>
-<p>另据<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/">中国数字时代报道</a>，中国大陆一个省级的网信办已发布禁令：“查删已转载的巴拿马文件相关报道。相关内容一律不再跟进，任何网站一旦发现传播境外媒体攻击中国内容将做从重处理。本条指令口头传达到值班编辑，请立即落实。”先前网上转载的《巴拿马文件泄密 普京卷入20亿美元洗钱丑闻》也被要求下线。</p>
-<p>截至记者发稿时，百度和新浪微博上搜索“巴拿马文件”已无任何内容，百度显示“搜索结果可能不符合相关法律法规和政策，未予显示。建议尝试其他相关词。”</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/">【真理部】巴拿马文件相关报道</a>  <a href="http://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/">Du Chen：震惊世界的巴拿马文件事件到底是怎么一回事？</a></p></blockquote>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%96%E7%95%8C%E7%A6%BB%E5%B2%B8%E8%B5%84%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%A4%96%E6%B3%84%EF%BC%8C%E6%B6%89%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E4%BA%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?category=18271" rel="tag">Jasmine Li</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%B6%E6%97%8F/?category=18271" rel="tag">习近平家族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">巴拿马档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E5%B7%9D%E5%A4%A7%E5%9C%B0/?category=18271" rel="tag">秦川大地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E8%90%A8%E5%85%8B%C2%B7%E5%86%AF%E8%B5%9B%E5%8D%A1%E4%BF%A1%E6%89%98%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">莫萨克·冯赛卡信托公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -610,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?catego
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -620,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/jasmine-li/?catego
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

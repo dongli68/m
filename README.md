@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,57 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%9A%84%E5%AA%92%E4%BD%93%E4%B8%8D%E5%A7%93%E5%85%9A%EF%BC%8C%E5%90%8E%E6%9E%9C%E5%BE%88%E4%B8%A5%E9%87%8D/" target="cdt-mirror">【网络民议】卡梅伦的媒体不姓党，后果很严重</a>
+</h2>
+<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%EF%BC%9A%E8%8B%B1%E9%A6%96%E7%9B%B8%E6%89%BF%E8%AE%A4%E6%9B%BE%E5%9C%A8%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8%E6%8C%81%E8%82%A1/" target="_blank">BBC｜巴拿马文件：英首相承认曾在离岸公司持股</a></p></blockquote>
+<p>《卫报》头版照片来自新浪微博<a href="http://weibo.com/1463316773/DpXLsAZU9" target="_blank">@程序猿in日本</a>，其余报刊截图均来自<a href="http://weibo.com/u/1737958917" target="_blank">@Winston71</a>：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A61.jpg" rel="attachment wp-att-434532"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A61.jpg?resize=600%2C896" alt="卡梅伦1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?resize=768%2C1147 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?resize=686%2C1024 686w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?w=1428 1428w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A62.jpg" rel="attachment wp-att-434531"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A62.jpg?resize=600%2C767" alt="卡梅伦2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?resize=235%2C300 235w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?resize=768%2C982 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?resize=801%2C1024 801w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?w=1424 1424w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A63.jpg" rel="attachment wp-att-434530"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A63.jpg?resize=600%2C402" alt="卡梅伦3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?resize=768%2C514 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?resize=1024%2C686 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?w=1436 1436w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/u/1737958917" target="_blank">@Winston71</a>：論「英国人自己首相卡梅伦亲爹在名单上，都被悄声无息挤到后面」、「而西方主流媒体却把普京照片摆在头版欲盖弥彰」<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1562913607" target="_blank">@用户16336560</a>：中国这部分是捏造的，除此之外都是事实。这说明，世界上亡我之心不死，也说明那些所谓的民主国家腐败严重。<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"><img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/owen1969" target="_blank">@黑暗的沉思</a>：有啥了不起？我也可以要求卡梅伦辞职啊！这充分证明，我享有和英国人一样的权利与自由。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2295105211" target="_blank">@第SAN只眼看世界</a><i title="微博个人认证 "></i>：比一比才知道什么叫大国领导人风范，什么叫泰山崩于前而色不变，你们啊，还是<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee94ac.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee94a9.png?resize=20%2C20" alt="" px data-recalc-dims="1">，<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee94ac.png?resize=20%2C20" alt="" px data-recalc-dims="1">奶<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c82.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/eudolp" target="_blank">@南方south</a>：冰岛总理都辞职了<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">。社会主义接班人还在这给大伙洗脑，话捕风捉影呢<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1">。</p>
+<p><a href="http://weibo.com/2147712260" target="_blank">@折戟陈砂肥小猪</a><i title="微博达人"></i>：你们这些人，总想搞大新闻！too  young !too naive !不要捕风捉影！我不作评论！以新闻真实性著称的彭博社都发文了<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">成天删帖啊，建围墙啊，装鸵鸟有意思么</p>
+<p><a href="http://weibo.com/1937499453" target="_blank">@苦逼屌丝上班族马文才</a>：真尼玛傻，学学我们，直接404搞定，多简单。图样图森破<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/loujian" target="_blank">@杭之冯玥均建国后成精</a>： 卡梅伦的获利其实不多，5000个单位，2010年卖出时也不过才3万镑，基本就是小夫妻理财。其实他之前的表态也可以说没啥毛病，一开始说“我没有拥 有”，这是现在时，2010年卖了现在当然没有了。接着表态“未来不会获利”也没毛病，都卖了怎么获利？就是一开始就承认曾经获利且缴税了就好了，不那么被动。</p>
+<p><strong>@Ivan各革：媒体不姓党，后果很严重。</strong></p>
+<p>@杏林真水无香：英国反对党不要捕风捉影。</p>
+<p><strong>@李耳朵979：工党妄议！媒体嫖娼！群众寻衅滋事！</strong></p>
+<p>@基督山亲王1992：“千磨万击还坚劲，任尔东西南北风。”</p>
+<p>@恩克的荒野：欧美国家处心积虑的要害我们的领导人，为了让这所谓的泄露文件看起来真实，不惜上演苦肉计。这是班门弄斧而已，你们难道不知道36计出自于中国吗？想要抹黑我国领导人，中国人民绝不答应</p>
+<p>@河床兄弟：捕到了风，捉到了影</p>
+<p>@穆索诃：可以观察， 各郭制度， 吐故纳新的代谢功能，表现怎样，可以肯定份额最多的奇迹郭，安然如常，岿然不动～</p>
+<p>@刘恒涛：我自岿然不动的祖国好流氓</p>
+<p>@咸亨酒店的粉板：两个凡是：凡是有关中国领导的，都是造谣；凡是有关敌对势力领导的，都是真的。</p>
+<p>@杉久斋：我深刻的理解党媒姓党的重要性了。</p>
+<p>@Lickingmyballs：请英国放《大英环球时报》！</p>
+<p>@远离66：卡卡认了，主要是没有宇宙真理同枪</p>
+<p>@郭嘉磬：图片评论<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg" rel="attachment wp-att-434517"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg?resize=375%2C666" alt="6fb841d5gw1f2oxgmcaicj20hs0vk0tl" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
+<p>@烟雨迷离_：没什么，逼急了开坦克镇压呗</p>
+<p><strong>@枫林1103：我们不搞西方那一套，不回应你能怎么的</strong></p>
+<p>@烂柯山：环球时报，您那篇雄文是为卡梅伦而写的吧？你到底姓党还是姓卡？@环球时报</p>
+<p>@eama226：西方国家都太腐败啦，哪像俺们这疙瘩领导永远正确，万岁万万岁！</p>
+<p>@折腾的skyracer：西方反动势力居然牺牲英国首相来攻击我们敬爱的普大大和其他大大，用心何其毒也？？？？</p>
+<p><strong>@西丰客人在1984：卡老兄落得被人穷追猛打的下场，就是因为缺乏一个牛逼的小舅子啊。</strong></p>
+<p><strong>@81天环游中国：大英帝国会不会亡国啊？</strong></p>
+<p>@大大大大大石碎胸口：卡梅伦不会删帖吗，这届英国人不行啊</p>
+<p>@轩辕的传说：卡梅伦也是没骨气，就不能说，对于这种捕风捉影的东西，我不做任何评论。</p>
+<p>@闫兴中XL：更加明白了我们的大佬们坚持走社会主义特色道路永不变色、坚决不走西方资本主义邪路的根本原因了吧？</p>
+<p>@白酒上市公司：流氓，黑社会一般都不理睬这种事的，你能把我怎么样！</p>
+<p>@琴声-响起：首相大人，拿起法律武器，起诉英国媒体捕风捉影！</p>
+<p>@一念木头：不姓赵的都没好下场</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%9A%84%E5%AA%92%E4%BD%93%E4%B8%8D%E5%A7%93%E5%85%9A%EF%BC%8C%E5%90%8E%E6%9E%9C%E5%BE%88%E4%B8%A5%E9%87%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%87%AA%E5%AA%92%E4%BD%93%E8%88%86%E8%AE%BA%E6%88%98%E5%88%86%E9%98%9F/" target="cdt-mirror">【立存此照】自媒体舆论战分队</a>
 </h2>
 <p><p>中国人民解放军安徽陆军预备役步兵师第三团政治处（函）</p>
@@ -733,33 +781,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="cdt-mirror">【立此存照】墙内新闻网站如何报道冰岛总理辞职原因</a>
-</h2>
-<p><p>新浪新闻在一则报道冰岛总理宣布辞职的<a href="http://news.sina.com.cn/w/zx/2016-04-06/doc-ifxqxcnp8621399.shtml" target="_blank">快讯</a>中，<strong>直接贴上了法新社英语原文</strong>，没有作任何翻译。<strong>但这已经是目前墙内新闻网站中唯一提到“巴拿马文件”的新闻报道了：</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C-1.png" rel="attachment wp-att-434291"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C-1.png?resize=550%2C799" alt="冰岛总理辞职" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?resize=768%2C1116 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?resize=705%2C1024 705w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/冰岛总理辞职-1.png?w=1778 1778w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>新浪新闻网页截图</span></p>
-<p><strong>法新社<a href="http://www.afp.com/en/news/iceland-pm-resigns-wake-panama-papers-scandal" target="_blank">原文</a>，由中国数字时代编辑翻译：</strong></p>
-<blockquote><p>冰岛总理甘劳格森所在政党“进步党”于周二宣布他已辞职，他是巴拿马金融文件泄漏风暴中第一个重大政治牺牲品。</p>
-<p>“议会小组会谈中，总理告诉其他成员，他会卸任然后由我接手，” 进步党副领导人、农业部部长 Sigurdur Ingi Johannsson 在直播新闻中说。</p></blockquote>
-<p><strong>其他门户网站，如搜狐新闻，则干脆只有一句话：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-434294"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB.png?resize=550%2C232" alt="搜狐新闻" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?resize=300%2C126 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?resize=768%2C323 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?resize=1024%2C431 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/搜狐新闻.png?w=2214 2214w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>搜狐新闻网页截图</span></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%87%AA%E6%9F%A5%E8%87%AA%E5%88%A0%E6%B6%89%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E6%89%80/" target="_blank">【真理部】自查自删涉“巴拿马文件”泄露事件所有相关内容</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="_blank">【真理部】巴拿马文件相关报道</a></li>
-</ul></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg" rel="attachment wp-att-434299"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=500%2C500" alt="bd6398abgw1f2ljykw8vhj20go0gotc5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bd6398abgw1f2ljykw8vhj20go0gotc5.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>大量冰岛民众周一上街抗议，要求拥有离岸账户的总理下台（网络图片）</span></p>
-<p>目前中国大陆媒体在报道冰岛总理辞职新闻时均采用了新华社通稿。<strong>该通稿刻意避开了“巴拿马文件”和当地爆发的大型示威</strong>，称其辞职原因为是“没有申报与妻子共同拥有一家公司的情况”，是被反对党要求的：</p>
-<blockquote><p><strong><a href="http://news.xinhuanet.com/world/2016-04/06/c_128865879.htm" target="_blank">新华社｜冰岛内阁成员宣布总理将辞职</a></strong></p>
-<p>新华社雷克雅未克4月5日电（记者谢彬彬）冰岛渔业与农业部长西于聚尔·英伊·约翰森5日说，总理京勒伊格松当天在其所在的进步党议会成员会议上宣布将辞去总理一职。</p>
-<p>约翰森在进步党议会成员会议结束后告诉冰岛国家广播电台，京勒伊格松在会议上宣布将辞职，得到进步党议会成员同意。京勒伊格松仍将担任进步党主席一职，他还提议由约翰森担任总理一职。</p>
-<p>由于现任冰岛政府是由进步党和独立党共同组建的联合政府，京勒伊格松的这份提议将于当天晚些时候提交给独立党领导人。</p>
-<p>媒体此前报道说，京勒伊格松涉嫌当选冰岛议会议员后没有申报与妻子共同拥有一家公司的情况，反对党因此要求京勒伊格松辞职。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -771,7 +792,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -781,5 +802,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

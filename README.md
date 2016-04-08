@@ -21,9 +21,184 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-%E4%B8%8D%E5%85%89%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%B0%B1%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【网络民议】不光这届人民不行，以前就一直不行</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=550%2C247" alt="Screen Shot 2016-04-08 at 8.39.42 AM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=300%2C135 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=768%2C345 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=1024%2C460 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?w=1978 1978w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>以下评论搜集自新浪微博：</p>
+<div></div>
+<div><a title="斯内普_" href="http://weibo.com/snapexp?refer_flag=1001030103_" target="_blank">斯内普</a>：RT <a href="http://weibo.com/n/iruitui?refer_flag=1001030001_" target="_blank">@iruitui</a>: RT <a href="http://weibo.com/n/lynlolee?refer_flag=1001030001_" target="_blank">@lynlolee</a>:RT <a href="http://weibo.com/n/renfanzi?refer_flag=1001030001_" target="_blank">@renfanzi</a>: 去年到今年，我认为网络民意上最大最可喜的变化就是去年大家喜欢问“这个社会怎么了”，今年大家有了结论说“<span>这届人民不行</span>”。 (via Twitter)</div>
+<div></div>
+<div><a title="LolettaQ" href="http://weibo.com/u/2163348407?refer_flag=1001030103_" target="_blank">LolettaQ</a>：本年评经济最深刻的一句话。<span>这</span><span>届</span><span>人民</span>太叼，房也不主动当接盘侠，买股票也不积极，宁可丧心病狂地消费啊，却还跑国外买东西，气死本朝官员了。</div>
+<div></div>
+<div><a title="枫庭倦鸟" href="http://weibo.com/tiredbird0131?refer_flag=1001030103_" target="_blank">枫庭倦鸟 </a>：早上去地铁站，遇到不少开车送孩纸到上中东校上学的家长，各种闯红灯、违章掉头……好歹也是上了名校，这样的榜样实在让人无语。难道真的是<span>这届人民不行</span>?<a href="http://weibo.com/n/%E8%AD%A6%E6%B0%91%E7%9B%B4%E9%80%9A%E8%BD%A6-%E4%B8%8A%E6%B5%B7?refer_flag=1001030001_" target="_blank">@警民直通车-上海</a></div>
+<div></div>
+<div><a title="Huntway" href="http://weibo.com/huntway?refer_flag=1001030103_" target="_blank">Huntway</a>：“经济这么不好，可能是<span>这届人民不行</span>！！”看到这句牛逼的话，我就震惊了。细思极恐，原来是人民一届不如一届了。</div>
+<div></div>
+<div><a title="seven--life" href="http://weibo.com/u/1625820485?refer_flag=1001030103_" target="_blank">seven–life </a>：经济形势这么烂，房地产却越来越火热百姓越来越买不起，领导们打压房产的决心又如此之强，我深深地的感觉不是这届政府不行，是<span>这届人民不行</span>啊！深深地对不住国家啊！！</div>
+<div></div>
+<div></div>
+<div><a title="蓝逸轩8" href="http://weibo.com/u/3793523367?refer_flag=1001030103_" target="_blank">蓝逸轩8</a>：我们素质差，国家费心了//<a href="http://weibo.com/n/Laruence?refer_flag=1001030001_" target="_blank">@Laruence</a>:呵呵呵呵呵呵//<a href="http://weibo.com/n/AndersGuo?refer_flag=1001030001_" target="_blank">@AndersGuo</a>: //<a href="http://weibo.com/n/%E5%B7%A6%E8%80%B3%E6%9C%B5%E8%80%97%E5%AD%90?refer_flag=1001030001_" target="_blank">@左耳朵耗子</a>:国家这么努力为<span>人民</span>服务，令人动容，我们都知道：主要是怪我们<span>这</span><span>届</span>网民<span>不行</span>！让国家操心了。</div>
+<div>
+<div><a title="荳小逗" href="http://weibo.com/601288092?refer_flag=1001030103_" target="_blank">荳小逗</a>：<span>这届人民不行</span>，我想说让不让这届人民下台？ <a href="http://t.cn/RyhHbzX" target="_blank"><span title="上海·淞宝"><span><span>|</span></span><span>上海·淞宝</span></span></a></div>
+</div>
+<div></div>
+<div><a title="IF菜鸟" href="http://weibo.com/u/1025796853?refer_flag=1001030103_" target="_blank">IF菜鸟</a>：<span>这</span><span>届</span><span>人民</span>可幸福了，什么旧村改造新村建设，什么美丽厦门共同缔造，什么党建富民，什么美丽新村旅游发展，还有~~~~~~~~~~~~~，所以你们该知足吧。 哦，对不起，我想修条路找谁啊？你要这样····，那样·····才能批。靠，画虎南谁不会？</div>
+<div></div>
+<div></div>
+<div><a title="崔亨万" href="http://weibo.com/u/5775102320?refer_flag=1001030103_" target="_blank">崔亨万</a>：这两天又出现了个新热词：<span>这届人民不行</span>。噢，天啊，像我这不入组织的草民，给拖后腿了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></div>
+<div></div>
+<div><a title="tianmayourship" href="http://weibo.com/u/1711073937?refer_flag=1001030103_" target="_blank">tianmayourship</a>：这几年经济很不景气么？好一点的工作都很少哦，不知道就今年的应届生情况如何～无论怎么样希望认识的能找到理想工作，不然除了正经上班还要想着怎么去挣点副业才能稍微有些安全感就太辛苦了～真是<span>这届人民不行</span>哇<img src="https://i2.wp.com/img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"></div>
+<div></div>
+<div><a title="为气任侠" href="http://weibo.com/renqixia?refer_flag=1001030103_" target="_blank">为气任侠</a>：<span>这届人民不行</span>，国家想要干的事一件都没干成，废物一群<img title="[哆啦A梦汗]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/61/dorahan_org.gif" alt="[哆啦A梦汗]" data-recalc-dims="1"> 我分享了<a href="http://weibo.com/n/%E8%B4%A2%E6%80%9D%E6%85%A7%E5%BF%83?refer_flag=1001030001_" target="_blank">@财思慧心</a> 的文章</div>
+<div></div>
+<div><a title="Sayrohan" href="http://weibo.com/u/2479096535?refer_flag=1001030103_" target="_blank">Sayrohan </a>：解释下为什么<span>这届人民不行</span>，简单来说就是不艰苦朴素。京沪不易居就想跑，养孩子贵就想不生，进城打工么才干到四十五就想退休回去盖房，怎么讲，没有志向，每天就会发发微博评论抱怨唔册那没动力了，领导不好赴美生子万岁，怎么不想着多加加班交税呢？没救了！彻底被反动思想腐蚀了，说你们还嘴硬。</div>
+<div></div>
+<div><a title="遇见未知的朋飞" href="http://weibo.com/136882668?refer_flag=1001030103_" target="_blank">遇见未知的朋飞</a>：经济不好，可能是<span>这届人民不行</span>。给党和国家丢脸了<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></div>
+<div></div>
+<div>
+<div>
+<div><a title="狐冢小贾" href="http://weibo.com/u/2928191555?refer_flag=1001030103_" target="_blank">狐冢小贾</a>：不是经济不好 是<span>这届人民不行</span>阿 毕业找不到工作 工作没房子 有房子娶不上媳妇 有媳妇生了孩子还不一定是自己的 是自己的还得喝毒奶粉长大 长大上学难 上学难毕业还不一定找到好工作<img title="[泪流满面]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/lxhtongku_org.gif" alt="[泪流满面]" data-recalc-dims="1"><a href="http://weibo.com/n/%E5%88%9D%E6%99%93%E6%95%8F?refer_flag=1001030001_" target="_blank">@初晓敏</a><a href="http://weibo.com/n/%E6%9F%AF%E5%87%A1?refer_flag=1001030001_" target="_blank">@柯凡</a><a href="http://weibo.com/n/%E4%BB%BB%E7%9C%9F%E5%A4%A9?refer_flag=1001030001_" target="_blank">@任真天</a><a href="http://weibo.com/n/%E6%B1%A1%E7%8E%8B?refer_flag=1001030001_" target="_blank">@污王</a><span title="宁波·嵩山路"><a href="http://t.cn/R2W6okz" target="_blank"><span><span>|</span></span><span>宁波·嵩山…</span></a></span></div>
+</div>
+</div>
+<div>
+<div></div>
+<div><a title="afeibfp_" href="http://weibo.com/myenglishwords?refer_flag=1001030103_" target="_blank">afeibfp</a>：<span>这届人民不行</span>，国产软件也不行，还是用openoffice吧。</div>
+<div></div>
+</div>
+<div>
+<div>
+<div><a title="孩苛以" href="http://weibo.com/sujieyun?refer_flag=1001030103_" target="_blank">孩苛以 </a>：感觉<span>这</span><span>届</span><span>人民</span>找个满意的对象也挺难的。</div>
+<div></div>
+<div><a title="小雪妈教你生美宝" href="http://weibo.com/u/1789266127?refer_flag=1001030103_" target="_blank">小雪妈教你生美宝 </a>：【赴美生子哪里好】仁者见仁，智者见智！小雪妈是“给孩子多一个选择”，很烂大街的理由对吧？因为我看多美国，看空中国。近期疫苗不太平，奶粉据说也是兑着假货卖， <a href="http://huati.weibo.com/k/%E6%A0%87%E6%99%AE%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7?from=526" target="_blank">#标普下调中国信用评级#</a> 太多负面的啦，可能是<span>这届人民不行</span><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></div>
+</div>
+</div>
+<div></div>
+<div><a title="源于爱家" href="http://weibo.com/u/1937394704?refer_flag=1001030103_" target="_blank">源于爱家</a>：【深圳禁摩政策好】电动车占用宝贵的城市道路资源，阻碍经济发展，禁电动车就可以卖新能源汽车。以前你花2千买个电动车就可以送快递谋生，今后你考驾照得几千吧？买车得几万吧？再加各种违章罚单，这可以创造多少亿的GDP啊？还让政府操碎了心推广新能源汽车！觉悟如此之低，果然<span>这</span><span>届</span>的<span>人民</span><span>不行</span>！<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></div>
+<div></div>
+<div></div>
+<div><a title="匯長" href="http://weibo.com/u/3361848564?refer_flag=1001030103_" target="_blank">匯長</a>：感觉中国犯罪率“低”感觉就是这个原因啊，实际明明高的要死，但警察不立案追究一切就都只是误会咯，反正说到底都是<span>这届人民不行</span>嘛，还有什么不能被洗地呢？</div>
+<div></div>
+<div>
+<div>
+<div><a title="LeveragingLife" href="http://weibo.com/u/1931951963?refer_flag=1001030103_" target="_blank">LeveragingLife</a>：千言万语化成一句话：诸事艰辛，主要是<span>这届人民不行</span>。<a href="http://huati.weibo.com/k/In+Party+We+Trust?from=526" target="_blank"># In Party We Trust #</a></div>
+</div>
+</div>
+<div></div>
+<div>
+<div><a title="风中满发" href="http://weibo.com/geligoly?refer_flag=1001030103_" target="_blank">风中满发</a>：不光<span>这届人民不行</span>，以前就一直不行，以后还要追赶很久。</div>
+<div>
+<a title="蒋xiaofeng" href="http://weibo.com/u/1350931751?refer_flag=1001030103_" target="_blank">蒋xiaofeng</a>：说实话，我们<span>这</span><span>届</span><span>人民</span>还真<span>不行</span>，不只是<span>这</span><span>届</span>，下<span>届</span><span>人民</span>都<span>不行</span>。我们都还是刍狗。</div>
+</div>
+<div></div>
+<div><a title="AnzuFutaba" href="http://weibo.com/u/5422558389?refer_flag=1001030103_" target="_blank">AnzuFutaba</a>：你本该四十的时候，你国还在，你不在了，原因是你<span>这届人民不行</span>，被党妈换届了。新的一届人民过着种不再设有愚人节的生活，因为他们每天都活在荒诞剧里。</div>
+<div></div>
+<div><a title="爱如空气929" href="http://weibo.com/u/1906801507?refer_flag=1001030103_" target="_blank">爱如空气929</a>：新华社说：西方“愚人节”不符合社会主义核心价值观 。今天是西方所谓的“愚人节”。“愚人节”不符合我国的文化传统，不符合社会主义核心价值观，希望大家不信谣，不造谣，不传谣。。。。。。 看了看评论，唉，<span>这</span><span>届</span><span>人民</span>是真的<span>不行</span><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></div>
+<div></div>
+<div></div>
+<div>
+<div>
+<div><a title="藕粽" href="http://weibo.com/pleasecallmeavenue?refer_flag=1001030103_" target="_blank">藕粽</a>：巴西<span>这</span><span>届</span><span>人民</span>也<span>不行</span>。都眼瞅着要办奥运了，还在搞七捻三要弹劾总统。</div>
+</div>
+</div>
+<div></div>
+<div>
+<div><a title="Doctor豪生" href="http://weibo.com/doctorhouse?refer_flag=1001030103_" target="_blank">Doctor豪生 </a>：小创今天这个咽喉点位就像山海关 打过去了就降清 打不过去就复明 <a href="http://huati.weibo.com/k/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E7%A1%AE%E5%AE%9E%E4%B8%8D%E8%A1%8C?from=526" target="_blank">#<span>这</span><span>届</span><span>人民</span>确实<span>不行</span>#</a></div>
+<div></div>
+<div><a title="赵卡的牛肉干" href="http://weibo.com/e1024?refer_flag=1001030103_" target="_blank">赵卡的牛肉干  </a>：网上流传这句“主要是<span>这</span><span>届</span><span>人民</span>不好”，细细一想，还真他妈是；自古以来，在中国，有什么样的<span>人民</span>就有什么样的党和政府。</div>
+<div></div>
+<div><a title="八代火影" href="http://weibo.com/jamesy?refer_flag=1001030103_" target="_blank">八代火影</a>：“十几亿中国人，积极点阳光点的就挑不出推动了人权进步的人吗?克里居然赞扬倪女士对中国法治和全面平权所发挥的“领导力”，大家评评，他这样说是不是有点羞辱中国蓬勃发展的社会?”——逮噶评一评，<span>这</span><span>届</span><span>人民</span>是不是真的<span>不行</span>了！中国3次入狱假律师获美国国际妇女勇气奖 <a title="" href="http://t.cn/RqwTbUr" target="_blank">http://t.cn/RqwTbUr</a></div>
+<div></div>
+<div><a title="__阿端__" href="http://weibo.com/anjingliu?refer_flag=1001030103_" target="_blank">__阿端__</a>：（爱国可以 不要站在你国土地上爱 可以远方爱国 做个华侨 对你国任何状况保持外宾态度 不予置评不过有句讲句 四十多岁你和你子女还在你国 你爱不爱国都得爱 （讲真 <span>这届人民不行）</span></div>
+</div>
+<div>
+<div></div>
+<div><a title="大愚若智3哥" href="http://weibo.com/u/1684948402?refer_flag=1001030103_" target="_blank">大愚若智3哥</a>：【<span>这届人民不行</span>】是因为上几届人民太行的缘故，三届败坏了吏治，两届败坏了经济，这届人民即使神勇如太宗，勤奋如雍正，节俭如崇祯，也无力回天，只能命如崇祯了。</div>
+</div>
+<div></div>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-%E4%B8%8D%E5%85%89%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%B0%B1%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/" target="cdt-mirror">德国之声 | 中国高层首次对”巴拿马文件”表态</a>
+</h2>
+<p><p>摘要：外交部长王毅是首位针对”巴拿马文件”公开表态的中国政府高层领导人。在与德国外长施泰因迈尔共同面对国际媒体的记者时，王毅表示中国政府已经看到了”巴拿马文件”所透露和澄清的信息，有意弄清事实真相。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-%E4%B8%8B%E5%8D%8812.40.09.png?resize=520%2C294" alt="Screen Shot 2016-04-08 at 下午12.40.09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
+<p>（德国之声中文网）据路透社报道，本周五（4月8日），中国外长王毅与德国外长施泰因迈尔（Frank-Walter Steinmeier）会晤后在举行记者见面会时报表示，中国有意搞清与”巴拿马文件”有关的细节。这也是中国最高领导层成员首次针对”巴拿马文件”的公开表态。</p>
+<p>一位匿名人士向《南德意志报》提供的”巴拿马文件”据称记录了全球上百名政要和名人是如何通过位于巴拿马的法律服务公司莫萨克•冯赛卡（Mossack Fonseca）在逃税天堂隐藏财富。文件涉及至少8名现任和前任中国政治局常委的家人，包括中国国家主席习近平的姐夫和前总理李鹏的女儿。负责宣传事务的刘云山以及副总理张高丽的亲属也被指涉及利用离岸公司隐瞒资产运作。主持分析相关数据的国际调查报道记者联盟（ICIJ）指出， 在莫萨克•冯赛卡律所的全球业务中，来自中国大陆和香港的离岸公司比例占到29%。</p>
+<p>路透社报道称，中国外长王毅与施泰因迈尔共同出席记者会时表示，中国政府看到了 <a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B/a-19171000">“巴拿马文件”</a>所透露和澄清的信息。但他补充说，恐怕先要弄清事实。除此以外，王毅没有进一步说明中国政府是否会根据”巴拿马文件”所透露的信息采取行动。他只是说，在中国人民的支持下，反腐取得了进展。正如中国领导人习近平所说，中国会继续走反腐的道路。</p>
+<p>之前，中国外交部发言人洪磊称”巴拿马文件”是”捕风捉影的东西”，因此拒绝置评。中国党媒《环球时报》则在第一时间发表评论称：”偷或编’巴拿马文件’者绝非等闲之辈”，最受关注的打击对象是包括俄罗斯总统普京在内的”非西方国家领导人”。评论指出，像巴拿马文件这样的”大泄密”，是西方意识形态联盟”打击非西方世界政治精英和关键组织的一种新手段。”该评论发布几日后被中国审查机关屏蔽。在包括《环球时报》、”凤凰网”等媒体的网站上已经无法找到评论原文。</p>
+<p>到目前为止，德国外交部没有透露施泰因迈尔是否与王毅谈及”巴拿马文件”一事。德国外交部表示，施泰因迈尔此次访问中国的重点是能源转型。他已经在北京为一个有关能源转型的展览揭幕。周六，德国外长将前往湖南长沙，为当地德国企业的一处新厂房揭幕，并和该企业的年轻技术学员见面。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%BD%E6%B3%B0%E5%9B%A0%E8%BF%88%E5%B0%94/?category=18271" rel="tag">施泰因迈尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/?category=18271" rel="tag">王毅对“巴拿马文件”表态</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BA%BA%E6%B0%91%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%83%BD%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">东网 | 章文：“人民”两千多年来都不行</a>
+</h2>
+<p><p>作者：章文，知名评论员</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-%E4%B8%8B%E5%8D%8812.37.37.png?resize=516%2C368" alt="Screen Shot 2016-04-08 at 下午12.37.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.37.37.png?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.37.37.png?w=516 516w" sizes="(max-width: 516px) 100vw, 516px" data-recalc-dims="1"><br><span>两千多年来，几乎没有行过的人民，绝大多数时间都是匍匐在皇权和官吏脚下，以巴结和亲近权力为荣耀。</span></p>
+<p>“人民不行”，已经成为一句流行语：经济不行，主要是人民不行；楼市低迷，主要是人民不行；疫苗出问题，主要是人民不行…..最近巴拿马文件传出后，姐夫成为敏感词，也主要是因为人民不行。</p>
+<p>遍查网络，发现这句流行语可能起源于人民日报的一条微博：【人民日报：雪崩时没有一片雪花是无辜的】给门卫上支烟，大门立即打开；停车费30元，递上10元说不要票了，收费员开心放行；对办事员意思意思，户口两天办妥……他们明天也求人办事，开始了新一轮折磨。谁是恶性循环的第一推手呢？压垮骆驼的绝不仅仅是最后那根稻草，雪崩的时候没有一片雪花是无辜的。</p>
+<p>其实人民日报的这条微博意思可用一句话总结：有什么样的人民，就有什么样的政府。美国前总统林肯的这句名言是鼓励人民来监督政府，使得政府不敢怠政。</p>
+<p>但是人民日报忽略了林肯此句名言的前提：美国政府是人民选举产生的，所以美国人民才能够监督政府。放在一个没有选票的国度，官员是上级任命而非选举产生，要让人民监督官员实在是太难为他们了。提出这种要求的人民日报，有严重地装外宾嫌疑，类似晋惠帝的“何不食肉糜？”</p>
+<p>其实岂止这届人民不行，两千多年来，几乎没有行过的人民，绝大多数时间都是匍匐在皇权和官吏脚下，以巴结和亲近权力为荣耀。那些被逼走投无路、血性未泯的民众喊出“王侯将相宁有种乎？”、起兵造反推翻王侯后，自己又当王侯奴役其他人民了…..历史就在这样的循环中一次一次地重演。</p>
+<p>国不知有民，民亦不知有国。两千多年前的战国时代，当齐国攻下燕国时，发现燕国百姓箪食壶浆迎接齐军。孟子对齐宣王解释说，燕国人这样做不过是想摆脱他们那水深火热的日子罢了。还是在同一时期，邹国与鲁国交战，百姓看着邹国长官被杀而幸灾乐祸，让邹穆公很生气。但孟子说：“丰收时你巧立名目横征暴敛，灾年你守着满仓粮食，却让百姓饿殍遍地，还须唱歌赞美你，既然国家是你一个人的，它的生死存亡又与百姓何干？”</p>
+<p>今天何尝不是如此？前段时间“赵国”、“赵家人”一词在网络上的热传，同样显示了“人民”和统治者之间的隔膜有多深。“赵家人”之间又分好几个等级，经过过去三年来的厮杀，他们之间既有的格局也发生了巨变，新贵取代旧贵，旧贵不甘心就此罢休，时刻准备反扑……</p>
+<p>然而对付“人民”他们绝对是统一的。在中国这艘大船上，“赵家人”是统治者，“人民”是卖力的水手。所以，所以世人看到，“依法治国”实际上是“依法治不服”，“寻衅滋事”、“扰乱公共秩序”、“煽动民族分裂”、“颠覆国家政权”等罪名随手拿来。所谓“法治”其实还是“人治”，只不过已不再是皇上一人说了算，而是赵家人说了算。</p>
+<p>当然，正如某些犬儒所言，也是有相当进步的。以前老毛时代，批评者很多是被从精神和肉体双重消灭的，现在不过销号、不过坐牢而已嘛。是的，在这个大猪圈里，养猪人把猪舍弄干净点、把猪食弄好吃点，猪们被宰之前是该感恩的。</p>
+<p>最近几年，四起的失望和怨气经过微博微信的扩散严重冲击着赵国的政权根基，使得赵国主政者面临前所未有的压力。摆在他面前的就只有两条路：一条是进一步地管控，以铁腕对反对；另一条就是还权于民、还利于民，仿效台湾的蒋家人一步一步地摧毁旧体制，建立民主新国。</p>
+<p>然而遗憾的是，他选择走的是第一条路，仍是一条几千年来的老路。这条路在二十一世纪已经越来越走不通了，面临的国内外障碍越来越多，如执意走下去，终究是穷途末路。最近两个月内相继发生的“任大炮事件”和“公开信事件”，显示不仅“人民”忍受不了，“赵家人”更是不堪忍受。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BA%BA%E6%B0%91%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%83%BD%E4%B8%8D%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E6%96%87/?category=18271" rel="tag">章文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E4%BA%BA%E5%91%98%E6%98%AF%E8%81%94%E7%B3%BB%E8%94%A1%E4%BC%A6%E5%8E%BB%E9%80%A0%E7%BA%B8%E4%BA%86%E5%90%97/" target="cdt-mirror">【网络民议】有关部门人员是联系蔡伦去造纸了吗？</a>
+</h2>
+<p><p><strong>中国数字时代编辑注：截至发稿时，@作业本的原微博已被删除。</strong></p>
+<p>@作业本：这两个新闻让我笑了一上午了。。。人民对不起国家，让国家受惊了。。。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben1.png?resize=630%2C821" alt="zuoyeben1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben1.png?resize=230%2C300 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben1.png?w=630 630w" sizes="(max-width: 630px) 100vw, 630px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben2.png?resize=639%2C844" alt="zuoyeben2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben2.png?resize=227%2C300 227w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben2.png?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"></p>
+<p><strong>以下为中国数字时代编辑搜集自新浪网友评论：</strong></p>
+<p><a href="http://weibo.com/zsj3611"><span>澈丹师兄</span></a><span>：本届人民太差劲儿，一点儿屁事儿就恐慌</span></p>
+<p><a href="http://weibo.com/2468745005"><span>Suerte-WU</span></a><span>：命没了，自然就不恐慌了</span></p>
+<p><a href="http://weibo.com/jizhuang001"><span>姬十妖</span></a><span>：作为一个屁民，没给党和国家做过什么贡献，却连个屁民都做不好，给党和国家添麻烦了，我深深地自责！</span></p>
+<p><a href="http://weibo.com/pursuit"><span>鱼丸粗面</span></a><span>：这一届“人民”是怎么当家做主的！让公仆操这么多心！！</span></p>
+<p><a href="http://weibo.com/simon930"><span>熊之国王</span></a><span>：有关部门人员是联系蔡伦去造纸了吗？</span></p>
+<p><a href="http://weibo.com/jimmy0819"><span>西玛沃野</span></a><span>：稍等，已经派人去种树了。</span></p>
+<p><a href="http://weibo.com/1842299151"><span>Toby-何</span></a><span>：在3月底纸张已经到位的情况下，哪怕是一部机器在印刷注册凭证，，他说要印到5月底才能印完挤压的注册证件，，那么问题来了，请问一共挤压了多少？</span></p>
+<p><a href="http://weibo.com/slcxly"><span>园博园后的星星</span></a><span>：作业本你不要这样，又会被禁言的啊！</span></p>
+<p><a href="http://weibo.com/3733358474"><span>吴巨侠</span></a><span>：<strong>这两个新闻出来的很蹊跷，可能是为了转移民众的注意力，因为最近有些事比较敏感</strong></span></p>
+<p><a href="http://weibo.com/longorz"><span>龙潮</span></a><span>：<strong>巴拿马的小船说翻就翻</strong></span></p>
+<p><a href="http://weibo.com/2996654461"><span>纸飞机要哈口气</span></a><span>：这才几天，疫苗的事就都忘了？</span></p>
+<p><a href="http://weibo.com/hanyunling"><span>雪域情鸽</span></a><span>：智商低于八十的别让他们随便说话，太影响官方形象了！</span></p>
+<p><a href="http://weibo.com/5152273947"><span>Intuition_24514</span></a><span>：对那些评论里喊赶紧滚，赶紧移民的人。我心平气和的说一句，移民后的日子确实特别舒心</span></p>
+<p><a href="http://weibo.com/sportsboy"><span>温仲林</span></a><span>：“我坚信，在中国总有一天极权制度会被民主制度取代。这不是很遥远的事情……在极权制度彻底死亡之前，我提前为它立了个墓碑，让后人知道：人类社会在历史的某一阶段、在某些国度，曾经有一种以‘解放全人类’的名义建立的、实际是奴役人类的制度。这个制度宣扬并实践的‘天堂之路’,实际是死亡之路。</span></p>
+<p><a href="http://weibo.com/n/%E4%BD%9C%E4%B8%9A%E6%9C%AC?from=feed&loc=at"><span>@作业本</span></a><span>:我们的吃穿是自己辛苦挣来的，不是国家给的。相反，是我们在养着国家。 //</span><a href="http://weibo.com/n/%E9%B2%81%E9%B2%81%E9%B2%81%E9%80%9F%E7%9A%84%E4%B8%80%E5%8D%83%E6%AC%A1%E6%99%9A%E5%AE%89?from=feed&loc=at"><span>@鲁鲁鲁速的一千次晚安</span></a><span>:我特么就不懂了，国家到底缺你吃缺你穿了，还是美帝爸爸给你多少钱了。何必呢</span></p>
+<p><a href="http://weibo.com/2668394951"><span>悠然–yoyo</span></a><span>：有那么多人一直以为吃喝穿用都是政府给的，怎么想的？</span></p>
+<p><a href="http://weibo.com/garveys"><span>Garvey_dun</span></a><span>：又删微博了 国家就是这么任性…作业本赶紧开通别的号吧</span></p>
+<p><a href="http://weibo.com/5511822052"><span>iamwmz_</span></a><span>：中国是中国，政府是政府，中国历来有很多政府，你生来爱国，但是在政府没有让你和你的周边人得到应有的保护和权益时，那么这个政府就没有必要再爱了，理智的人民心里有数，我这么说会被周四才上班的警察查水表吗？</span></p>
+<p><a href="http://weibo.com/saya1108"><span>小白兔胡巴萝卜</span></a><span>：不让贪了，不让腐了，也就不爱办事了，无为而治</span></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E4%BA%BA%E5%91%98%E6%98%AF%E8%81%94%E7%B3%BB%E8%94%A1%E4%BC%A6%E5%8E%BB%E9%80%A0%E7%BA%B8%E4%BA%86%E5%90%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E4%B8%9A%E6%9C%AC/?category=18271" rel="tag">作业本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">假奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E5%95%86%E5%B1%80/?category=18271" rel="tag">工商局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E4%BD%8E%E6%95%88%E7%8E%87/?category=18271" rel="tag">政府低效率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%A6%96%E6%AC%A1%E5%88%97%E4%B8%BA%E8%B4%B8%E6%98%93/" target="cdt-mirror">纽约时报｜美国把中国“防火长城”首次列为贸易壁垒</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%85%92%E5%BA%97-gfw.jpg" rel="attachment wp-att-434560"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%85%92%E5%BA%97-gfw.jpg?resize=525%2C533" alt="香格里拉酒店 gfw" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=295%2C300 295w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=768%2C780 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=1008%2C1024 1008w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?w=1024 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><span>酒店的外国客人被告知有些常用网站在中国大陆无法登陆；图片来自推特</span></p>
@@ -742,140 +917,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%9D%E4%BD%8D%E4%B8%AD%E5%85%B1%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%B2%E5%B1%9E%E6%B6%89%E5%85%A5%E9%81%BF%E7%A8%8E%E6%B8%AF/" target="cdt-mirror">美国之音｜九位中共最高领导人亲属涉入“避税港”</a>
-</h2>
-<p><p><span>纽约—</span>星期三，国际调查记者联盟发表有关中国现任和已故最高层领导人亲属涉入“避税港”的最新报道。报道涉及的中共领导人亲属总数达9位，除之前已经披露的4位，新增加的亲属涉离岸公司活动的是现任政治局常委张高丽、刘云山；退休政治局常委曾庆红；已故领导人毛泽东和胡耀邦。</p>
-<p>上周六国际调查记者联盟发布的消息披露了中国国家主席习近平的姐夫邓家贵、前总理李鹏的女儿李小琳、前政协主席贾庆林的外孙女李紫丹和被废黜的前政治局委员薄熙来的妻子谷开来涉入离岸公司“避税港”的消息。</p>
-<p><strong>张高丽、刘云山亲属的离岸活动</strong></p>
-<p>这篇新报道由该组织记者欧蕾珊（Alexa Olesen) ，根据该组织获取的巨量“巴拿马文件”抽丝剥茧、梳理研究而成。报道说，现任中共政治局常委张高丽的女婿李圣泼，是英属维京群岛注册的三家公司的股东，它们分别是：Zennon 资本管理公司， Sino Reliance Networks Corporation 和 Glory Top 投资有限公司。</p>
-<p>另一位现任中共政治局常委是负责宣传口的刘云山。他的儿媳妇贾丽青是英属维京群岛注册的Ultra Time 投资公司的董事和股东，该公司于2009年注册。</p>
-<p>贾丽青是有中国“司法之王”的贾春旺的女儿。贾春旺曾于1985至1998年任中国国安部长，1998至2002年任中国公安部长，2002至2003年任最高检察院副检察长、检察长。</p>
-<p><strong>庆亲王榜上有名</strong></p>
-<p>已退休的前政治局常委曾庆红也榜上有名。于2002年至2007年任中国国家副主席的曾庆红的胞弟曾庆淮，在纽埃注册了中国文化交流协会有限公司，2006年又将该公司注册到萨摩亚。</p>
-<p><strong>离岸活动扯上毛泽东</strong></p>
-<p>报道还披露了两位已故中共领导人亲属的离岸公司交易活动。一位是中共建政第一代最高领袖毛泽东。他的外孙女婿陈东升2011年在英属维京群岛注册了离岸公司Keen Best国际有限公司。</p>
-<p>陈东升是泰康人寿保险公司的董事长和艺术品拍卖行嘉德的创办人之一，他也是Keen Best离岸公司的唯一董事。</p>
-<p>2011年与毛泽东外孙女孔东梅结为夫妻。孔东梅是毛泽东与前妻贺子珍的女儿李敏的女儿。</p>
-<p>根据自由百科，陈东升在2012年财富杂志中国最具影响力的50位商界领袖排名第19。2013年《新财富》杂志发布的“新财富500富人榜”排名中，陈东升、孔东梅夫妇以50亿元财富位列第242位。</p>
-<p><strong>胡耀邦儿子以老家地址注册</strong></p>
-<p>国际调查记者联盟的报道还披露了中共前总书记胡耀邦的三儿子胡德华的离岸公司活动。胡耀邦曾在1982至1987年担任中共总书记。</p>
-<p>报道说，胡德华是2003年在英属维京群岛注册的Fortalent 国际控股公司的股东、董事和实益拥有人。他注册离岸公司的地址，用的就是他父亲胡耀邦担任总书记时居住的北京四合院的地址。</p>
-<p><strong>大腕名人喜欢藏富</strong></p>
-<p>调查记者联盟的最新报道还披露了中国一些名人大腕的离岸公司交易活动。沈国军是创办中国购物中心的银泰投资有限公司董事长，他和已披露的香港影星成龙及其他人，都是一家2008年注册在英属维京群岛的龙梦有限公司的股东。</p>
-<p>宗馥莉是中国宏胜饮料集团总裁、杭州娃哈哈集团公司董事长兼总经理、亿万富翁宗庆后的女儿。2015年2月她在莫萨克－冯塞卡公司的帮助下收购了英属维尔京群岛空壳公司“紫色神秘”投资公司。公司的信函显示，其宗旨是“到中国投资” 。</p>
-<p>报道还说，宗庆后的妻子施幼珍 ，曾被要求接受防止洗钱的“加强尽职调查”，其中包括对她离岸公司持有资产的查询。</p>
-<p>沈国军、宗馥莉和香港影星成龙都没有回复国际调查记者联盟提出的评论要求。</p>
-<p><strong>中国成全球“避税港”注册之首</strong></p>
-<p>国际调查记者联盟的报道说，莫萨克－冯塞卡是全世界5家最大的创办离岸公司的机构之一，它于1989年在香港设立了分公司，2000年在中国大陆设立第一家分公司。现在，它在中国已经设立了8家分公司，分别在深圳、宁波、青岛、大连、上海、杭州、南京和济南。</p>
-<p>一份泄漏给国际调查记者联盟的文件显示，截止2015年底莫萨克－冯塞卡律师服务公司总共收取了16300家通过其香港和中国大陆分公司建立的离岸公司的费用。</p>
-<p>这些离岸公司占莫萨克－冯塞卡全球总数的29%，使得大中华区成为该律师服务公司唯一的最大市场，也使其香港分公司成为其全球最繁忙分公司。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%9D%E4%BD%8D%E4%B8%AD%E5%85%B1%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%B2%E5%B1%9E%E6%B6%89%E5%85%A5%E9%81%BF%E7%A8%8E%E6%B8%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%AF%94%E6%8A%A5%E8%AD%A6%E7%AE%A1%E7%94%A8%E7%9A%84%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">【网络民议】一个发微博比报警管用的国家</a>
-</h2>
-<p><p>4月5日开始，微博热门话题“和颐酒店女生遇袭”一直高居榜首，争议没有停止过。</p>
-<p><strong>事情是这样的：</strong></p>
-<p>网友@弯弯_2016在微博上爆料，4月3日晚，她在北京某酒店入住，遭遇陌生男子袭击，对方掐住脸颊、脖子不让她呼救，强行拖拉身体。整个过程持续5、6分钟左右！她向服务员求救，服务员以为是两口子在吵架劝说不要在走廊吵闹，后有路过的女房客出手相救才脱险。</p>
-<p>视频地址</p>
-<p>@弯弯_2016 在长微博中详细还原了整个事情的经过：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BA%8B%E4%BB%B6%E7%BB%8F%E8%BF%87.jpg?resize=440%2C7838" alt="事件经过" data-recalc-dims="1"></p>
-<p>事情一出，在微博上几乎引起了网友的众怒。类似的“社会悲剧”事件并不是一瞬间发生，而是多方面的隐患长期疏于监管，最终导致了“悲剧”的爆发。</p>
-<p>和颐酒店回应：对事情非常遗憾，已立即跟进调查进展。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/60718250jw1f2mobld1n4j20qs0j3n0d.jpg?resize=440%2C314" alt="60718250jw1f2mobld1n4j20qs0j3n0d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/60718250jw1f2mobld1n4j20qs0j3n0d.jpg?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/60718250jw1f2mobld1n4j20qs0j3n0d.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p><strong>来源：好奇实验室</strong></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@金利是个省油灯：牛逼的朝阳群众一下懵逼了。</p>
-<p>@shadowglenelf：”为什么只会提醒女性注意安全 而不警告男性不要犯罪” 呃… “为什么只会建议居民安装防盗门 而不警告小偷不要盗窃” 嗯 看起来差不多的…</p>
-<p>@chengfansail：警方四天以后才能来，真是滑天下之大稽。</p>
-<p>@MyDF： 这回书目：《傻白甜误入怡香院，莽大汉错认应召女》。</p>
-<p>@Zannmuling：望京酒店女孩纸被劫持一事，其实很简单，那男的是管理小姐们的头头，因为没插房卡，误以为这个女孩纸是外来的小姐，于是准备教训她一顿，然后就发生了如下事件。所以酒店所有人的不愿意出面就说的清楚了。我想应该就是这样了。</p>
-<p>@Zannmuling：别说什么警察问题了，拜托，每个城市的酒吧，酒店，娱乐产业，都是有内线和后台的好伐？要不然别人怎么赚钱？比如我们在消防，食药局，都有线人，临时检查就会有人通知的好伐！要不然怎么能玩的下去？所以如家这事情，只不过暴露了冰山一角而已。请记住，天朝的警察是为钱服务的。</p>
-<p>@Nichole29：说穿了中国是一个不管家务事的社会。看到男的女的吵架就看热闹。你试试来美国，我有一年夏天和我老公闹别捏，他来哄我，我甩开他的手，被开车的看到了，直接停下来问我，他和你什么关系？你需要帮忙吗？停了3辆车，我太不好意思了，说没事，和老公闹别扭，谢谢。</p>
-<p>@ld0905：很小的时候有过几次跟当地派出所打交道的经历，在我印象里，但凡遭遇了什么麻烦不测，去报案的时候总给受害者一种被看笑话的感觉。双手插兜，来给我们说说，就当看故事会了。</p>
-<p>@myheroLeslieCheung：前几天在学校操场被偷东西，去保卫室看监控，保卫大哥说昨天一个大妈被偷了电动车，也来调监控，报案了，派出所来人了，小偷正脸也看见了，派出所的人问大妈你认识小偷吗，大妈说不认识，派出所那人就说不认识你让我们来干嘛，对此我就呵呵了，现在的警察抓人还得看受害者认不认识犯罪的人吗？</p>
-<p>@linyujing：绝对是啊，一边听还一边幸灾乐祸的评论几句，那种猥琐之态我TMD一辈子也忘不了。在东莞时，我同事在公交车站被打劫清光去报警，在屈辱中说完经历后，他们说，好了，已经立案了，交钱吧，有进展会通知你。那个公交站那么偏僻，你去那儿不是自找么？</p>
-<p>@花总丢了金箍棒：一个很小的事件。但是击中了缺乏安全感的全民心理。</p>
-<p>@马薇薇 ：这件事跟女生本人是否与犯罪嫌疑人是否情侣关系，犯罪嫌疑人是否醉酒毫无关系。他俩就算在酒店开房过结婚纪念日，在女性明显反抗的情况下，酒店都有义务保护住客安全，警方都应及时立案。别一出事就让女孩子多小心，然后传播防狼十八式什么的。我们来到这个世界上，不是为了跟歹徒搏斗的。这年头，没点功夫还不配出门了是吧？！</p>
-<p>@火山木sss：中国对家暴的容忍简直荒谬到畸形，才给了暴徒以私事为由的契机。打老婆打孩子根本不是家事，而是践踏人权。</p>
-<p>@北青报：今日中午12时许，798和颐酒店遇袭女子回应“炒作”传言，向北青报记者表示：已经与如家酒店达成一致意见，但她对于“一致意见”的具体内容并未透露。对于事件本身，她不再作任何回应，只会在微博上更新进展。</p>
-<p>@北青报：“798和颐酒店一女性遇袭”事件曝光后，有网友指出，当事人微博为两天前新注册用户，且当事人发布的长微博自带话题“卖淫窝点案底酒店”。对于有网友质疑她借此事炒作，当事人对北青报记者回应称：“让‘阴谋论’说去吧，我不作回应”，随即挂断记者电话。</p>
-<p>@头条新闻：①网友弯弯_2016称入住北京酒店遇袭，被掐脖子强行拖拽，遇到了好心人阻拦惊险逃脱。②北京警方证实陌生男子尾随作案，称女子没有遭受财产损害和人身损害，正进一步核实。③和颐酒店回应：对事情非常遗憾，已立即跟进调查进展。</p>
-<p>@作业本：遇袭要马上砸碎消防玻璃，全楼会报警。有人围观不要喊救命，喊抓流氓。没人出来，就喊起火了。围观的人不帮你，抢他手机直接摔碎，没手机抓他包。住酒店一定拉上拴门链。最后，作为男人，看到暴力要马上制止，不用管什么情侣吵架夫妻打架！</p>
-<p>@DZ_DZZ：这事让我想起，应该是不少地方都一样，大街上治安探头的像素特别差，有的分不清男女。而能拍车辆罚款的探头格外清晰。</p>
-<p>@sususuz：这幸亏还是天冷，姑娘穿得多，不然又有一堆直男癌直女癌喊怎么不拉别人就拉你了！</p>
-<p>@小熊的月光宝盒：知乎迅速出了一个教大家对应的问答…里面有个叫周贤峰的说的非常好，我们需要的是一种保护机制，而不是叫每个姑娘走到哪儿都高度戒备各门武功练起来！</p>
-<p>@幼人诱：说实话同样是女性看到这个新闻害怕到炸裂<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">我喜欢旅游经常一个人到处跑酒店也是自己住<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">可是我现在很害怕已经快没有出行的勇气<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">学校附近的死变态和流氓<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">还有这种酒店和公安<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">我害怕出去了再也回不来<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p>@思雨他亲爹：每一次出这种事情警察都是多穿点买个报警器…妈的我纳税干嘛的？</p>
-<p>@lvv2com: 经常出差的姑娘可以备个这个……一般酒店的门是朝里推得，装上这个以后从门外推是推不开的。我用着还是蛮爽的，这应该叫阻门器。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=600%2C600" alt="CfUQL6PWwAImKAq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfUQL6PWwAImKAq.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@knifepoint：「河边绿化带草坪着火了，周围没什么人。我拍了几张照片后觉得不报火警不行，就拨119。拨第一次，瞬间断线；第二次，响了声「欢迎拨打消防…」又断了；第三次才接通。接电话的男人说会安排处理，但50分钟后消防也没来。最后那火是我和我爸扑灭的。2011-12-27」4年多以前发的推文。</p>
-<p>@damyata：平时都以为自己身处一个文明人的社会，结果野蛮暴力丛林法则一露狰狞，所谓的安全感和优越感就全是幻觉。最近这种感想频繁产生。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%80%E4%B8%AA%E5%8F%91%E5%BE%AE%E5%8D%9A%E6%AF%94%E6%8A%A5%E8%AD%A6%E7%AE%A1%E7%94%A8%E7%9A%84%E5%9B%BD%E5%AE%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97/?category=18271" rel="tag">和颐酒店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E9%81%87%E8%A2%AD/?category=18271" rel="tag">和颐酒店女生遇袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%82%E5%AE%B6/?category=18271" rel="tag">如家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">暴力事件治安警察</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BB%BB%E5%87%AD%E5%AF%86%E4%BB%B6%E9%97%B9%E7%BF%BB%E5%A4%A9-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E5%BD%93%E6%B2%A1%E7%9C%8B%E8%A7%81/" target="cdt-mirror">德国之声｜任凭密件闹翻天 中国就当没看见</a>
-</h2>
-<p><p>《南德意志报》最先获得、”国际调查报道记者联盟（ICIJ）分享的” <a href="http://www.dw.com/zh/%E5%A4%A7%E6%89%B9%E5%AF%86%E4%BB%B6%E6%9B%9D%E5%85%89%E9%80%83%E7%A8%8E-%E6%94%BF%E8%A6%81%E6%98%8E%E6%98%9F%E7%9A%86%E4%B8%8A%E6%A6%9C/a-19161819">巴拿马文件</a>（Panama Papers）” 揭露全球大批政要和名人如何在避税天堂私藏财富。1150万份文件涉及214000家离岸公司过去40年的纪录，而这些文件都来自位于巴拿马的法律服务公司莫萨克•冯赛卡（Mossack Fonseca）。</p>
-<p>法新社5日援引”巴拿马文件”报道称，文件涉及至少8名现任和前任 的家人，包括中国国家主席习近平的姐夫和前总理李鹏的女儿。莫萨克•冯赛卡公司在中国设立八个办公室，比 <a href="http://www.dw.com/zh/%E8%97%8F%E5%AF%8C%E5%AF%86%E4%BB%B6%E6%9B%9D%E5%85%89-%E5%90%84%E5%9B%BD%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/a-19162818">其他任何国家</a>都多。该公司网站上提供的三种语言服务中，除了英文和西班牙语，就是中文。</p>
-<p>英国《卫报》指出，莫萨克•冯赛卡的一项内部调查显示，中国人在其离岸公司所有者中占比最大，其次是香港。</p>
-<p>法新社和路透社5日报道称，中国外交部当天下午举行例行记者会，洪磊被外国记者问及巴拿马文件时回答，“对于这种捕风捉影的东西，我们不作评论。” 但是外交部发布的记者会记录中没有提及此问题。</p>
-<p>中国大陆媒体周一对”巴拿马文件”鲜有报道，仅有的报道也主要将焦点集中在俄罗斯总统、冰岛总理和球星梅西的身上，只字未提有关中国领导人的文件内容。周二，之前可见的报道也已被删。</p>
-<p>据”中国数字时代”网站周二报道，政府网络管理部门为此下达了删贴通知。该网站援引某省网信办通知写道：”查删已转载的巴拿马文件相关报道。相关内容一律不再跟进，任何网站一旦发现传播境外媒体攻击中国内容将做从重处理。本条指令口头传达到值班编辑，请立即落实。”</p>
-<p>“中国数字时代”还显示了要求某网站删除有关文章的指示：”请将《巴拿马文件泄密 普京卷入20亿美元洗钱丑闻》相关新闻报道撤出双首页（包括客户端）并压至后台。”经搜索，新浪、网易、搜狐曾发表过的这篇文章链接确实都已无法打开。</p>
-<p><b>屏蔽反引质疑</b></p>
-<p>目前在百度中输入”巴拿马文件”，显示的结果是：”搜索结果可能不符合相关法律法规和政策，未予显示。建议尝试其他相关词。”</p>
-<p>在新浪微博上查询”巴拿马文件”，得到的结果也寥寥无几。在该社交媒体上查询”panama paper”，可见”根据相关法律法规和政策，搜索结果未予显示。”</p>
-<p>截至发稿，在专门搜集遭屏蔽和删除的微博的网站–自由微博上，实时热门搜索的第一名是”巴拿马”、第二名是”巴拿马文件”。</p>
-<p>据自由微博显示的内容，有网民问”震惊世界的巴拿马文件事件到底是怎么一回事？”也在新浪微博上被屏蔽。新浪用户”老罗的微博”写道：”请不要继续传播巴拿马离岸故事了，万一老大生气了，新浪微博也许会打烊哦，”这句话同样遭遇屏蔽。</p>
-<p>另有网民透露在巴拿马文件的相关文章下”评论了一下’不提中国怕被删？’，然后就被删了。”还有新浪用户”CHYIBING”5日表示：”今天之前，我一 直以为巴拿文件泄密事件是愚人节玩笑，直到这个词条被百度屏蔽；之前，我一直抱着看热闹的心态等着看西方国家的笑话，直到这条新闻被屏蔽……”</p>
-<p>微信朋友圈中4日还可以看的提到中国领导人家属开设离岸公司的英文文章，5日也已无法打开。</p>
-<p><b>官媒为普京鸣不平</b></p>
-<p>与此同时，中国官媒《环球时报》5日发表社评《偷或编”巴拿马文件”者绝非等闲之辈》，文章写道：”非西方国家领导（包括已下台的）成为最受关注的被打击对象，而其中俄罗斯总统普京一”密友”洗钱10亿美元的爆料尤为突出，西方媒体或明或暗将此称为’普京洗钱’，并同时挖出涉及普京的其 他’丑闻’。” “对普京这样的非西方领导人，只要’有爆料’，假的也会被当成’疑似真的’。”</p>
-<p>《环球时报》还称，”互联网时代来自基层的这种’大泄密’，对欧美有顶级影响力的机构和精英来说大体是安全的，对’西方’更伤害不了什么。从长远看，它会成为西方意识形态联盟’顺势而为’，打击非西方世界政治精英和关键组织的一种新手段。</p>
-<p>对此社评有人认为环球时报分析在理，也有新浪用户如”dgsd幸福”就此评论道：”我也怀疑巴拿马文件的真假。但是这事发生后你却到处封杀。这是几个意思，巴拿马文件有没有骗人不知道，但是你已经欺骗了大众！”</p>
-<p>微博博主”育尔张岳”质疑说：”敢问环球时报，你审查过普京了证实这是假爆料嘛？”</p>
-<p>“巴拿马文件”在中国遭遇屏蔽和审查，以及官媒的社评引起全球媒体的广泛关注。包括美联社、路透社、德新社和法新社在内的多家通讯社均对此进行了详细的报道。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BB%BB%E5%87%AD%E5%AF%86%E4%BB%B6%E9%97%B9%E7%BF%BB%E5%A4%A9-%E4%B8%AD%E5%9B%BD%E5%B0%B1%E5%BD%93%E6%B2%A1%E7%9C%8B%E8%A7%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%A2%AB%E7%A6%81%E5%87%BA%E5%A2%83-%E7%96%91%E4%B8%8E%E8%81%94%E5%90%8D%E8%87%B4%E4%BF%A1%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%9C%89%E5%85%B3/" target="cdt-mirror">自由亚洲｜709被捕律师家属被禁出境 疑与联名致信奥巴马有关</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg" rel="attachment wp-att-434337"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg?resize=450%2C600" alt="82e5e1c9-b1dc-4d50-99a6-30b61f8d154d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/82e5e1c9-b1dc-4d50-99a6-30b61f8d154d.jpeg?w=622 622w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p>中国维权律师关注组要求释放709被捕律师（忻霖拍摄）</p></div>
-<p>中国去年“709“事件中被捕的律师谢阳的妻子陈贵秋，4月4日计划前往香港，但在深圳被中国海关拒绝出境，理由是出境可能危害国家安全。</p>
-<p>超过300人被抓捕及传唤的“709大抓捕”事件，波及范围持续扩大。4月4日，谢阳律师的妻子陈贵秋，计划从深圳罗湖口岸过关至香港，但遭到海关工作人员拒绝，理由是出境可能危害国家安全。</p>
-<p>谢阳的辩护律师张重实接受本台采访时称，陈桂秋被拒出境前，曾联同“709事件”被捕者的家属共8人，致信美国总统奥巴马，希望他提供帮助，有可能成为事件的导火索：</p>
-<p>“我跟她打电话联系了，她说是这个事情和709的其他人一样，说她危害国家安全。她问是哪个部门，他们也没说，反正就不让出去。谢阳的一个小女儿好像是在美国出生的，她也没具体说什么原因，官方也不会告诉我们，但是现在是相当一部份人都被监控。”</p>
-<p>记者：“最近给美国总统奥巴马写信这个事情您之前知道吗？”</p>
-<p>张重实：”这事情是一个正常的表达，呼吁国际社会给予支持和关注，这是公民应有的权利，大家发出声音。”</p>
-<p>自从去年七月大抓捕事件之后，涉及案件的被捕者家属或维权律师，已有近40人被限制出境。其中包括二十多名律师及十多名维权人士及律师的家属。其中有王宇律师的儿子包蒙蒙，李和平律师的儿子与女儿，刘晓原律师的儿子，于合金的妻子等等。</p>
-<p>为此，去年11月，13名维权律师联名在网上发表致北京市公安局的公开信，抗议其侵害律师自由旅行权利，要求撤销禁止他们出国旅行的禁令。公开信表示，作为在中国执业的律师，他们所有行为都在法律不禁止的范围内，没有违背任何法律，北京市公安局的做法是对法律的歪曲执行。且根据中共的出入境管理法，公安局无权禁止任何公民出境，而边检部门执行公安局的通知，也属于非法。</p>
-<p>香港的中国维权律师关注组总干事陈洁文告诉本台，律师家属除了面临出境被拒的情况外，还被迫接受当局安排的律师代理案件：</p>
-<p>“超过15位的维权律师和维权人士被单方面要求解除律师的代理，但是问题是去年12月份出的五个最高机构发布的文件说，一定要保障律师的执业权利，里头第八条有提到如果要解除代理的话，律师可以要求当事人有一个面对面的确认，问题是现在所谓的单方面取消代理也是没办法去知道真实性。个别的案子他们会拿一个纸条出来，是不是对方写的看起来也是对方的字，但问题是我们不知道他是在什么情况下写的，实在是一个问题。关于709的案子，我们继续一方面保留关注，另一方面在不同层次做一些游说工作，整理好消息发布出来，让媒体也好，国际团体也好，更了解这个事情。”</p>
-<hr><p><small>© 好五倍 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%AE%B6%E5%B1%9E%E8%A2%AB%E7%A6%81%E5%87%BA%E5%A2%83-%E7%96%91%E4%B8%8E%E8%81%94%E5%90%8D%E8%87%B4%E4%BF%A1%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%9C%89%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -887,7 +928,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -897,5 +938,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

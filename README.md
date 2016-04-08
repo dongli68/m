@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%87%AA%E5%AA%92%E4%BD%93%E8%88%86%E8%AE%BA%E6%88%98%E5%88%86%E9%98%9F/" target="cdt-mirror">【立存此照】自媒体舆论战分队</a>
+</h2>
+<p><p>中国人民解放军安徽陆军预备役步兵师第三团政治处（函）</p>
+<p>关于组建网络防护暨自媒体舆论战分队</p>
+<p>巢湖学院：</p>
+<p>根据预备役部队向驻地高校拓展编组的有关要求，现拟在贵校组建一支网络防护暨自媒体舆论战分队，编制20人，请给予协调解决。</p>
+<p>——————————</p>
+<p>来源于网络</p>
+<p>@lhasa_bhu1985：太可怕了，中共真是一個非常邪惡的組織。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfanGRtVAAAabSw.jpg?resize=540%2C720" alt="CfanGRtVAAAabSw" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfanGRtVAAAabSw.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfanGRtVAAAabSw.jpg?w=540 540w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
+<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%87%AA%E5%AA%92%E4%BD%93%E8%88%86%E8%AE%BA%E6%88%98%E5%88%86%E9%98%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%AA%92%E4%BD%93/?category=18271" rel="tag">自媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%88%98%E5%88%86%E9%98%9F/?category=18271" rel="tag">舆论战分队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%84%E5%A4%87%E5%BD%B9/?category=18271" rel="tag">预备役</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%B8%BB%E8%A6%81%E4%B8%8D%E8%A1%8C%E5%9C%A8%E6%83%85%E7%BB%AA%E4%B8%8A/" target="cdt-mirror">王五四｜这届人民不行，主要不行在情绪上</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BD%A0%E5%A7%8B%E7%BB%88%E9%83%BD%E4%B8%8D%E6%98%AF%E5%A7%93%E8%B5%B5.jpg" rel="attachment wp-att-433564"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BD%A0%E5%A7%8B%E7%BB%88%E9%83%BD%E4%B8%8D%E6%98%AF%E5%A7%93%E8%B5%B5.jpg?resize=413%2C231" alt="你始终都不是姓赵" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/你始终都不是姓赵.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/你始终都不是姓赵.jpg?w=413 413w" sizes="(max-width: 413px) 100vw, 413px" data-recalc-dims="1"></a><br><span>网络图片</span></p>
+<p>这届人民真的不行，动不动就情绪不稳定。如果说是娇嫩的西方人民动不动就闹情绪也就算了，可你作为一个饱经世事沧桑多难兴邦的中国人，动不动就闹情绪，是不是该好好反思一下自己。尽快成熟起来，不要给社会添乱，不要让政府为难。</p>
+<p>前几天上海公安部门破获了1.7万罐假冒名牌奶粉案，4日国家食药监总局在官网回应称，上海公安部门已经对查获的假冒乳粉进行了产品检验，产品符合国家标准，不存在安全风险。对于假冒产品符合国家标准这一说法有人表示质疑，上海检方公布犯罪嫌疑人是“收购低档、廉价或非婴儿奶粉灌装生产假冒著名品牌奶粉”，“婴儿奶粉”与“非婴儿奶粉”是完全不同的概念，有不同的配方和成分，当然也有不同的国家标准。那么，“非婴儿奶粉”冒充“婴儿奶粉”是如何符合国家标准的？符合的是哪一项国家标准？后来食药监总局解释说，此前说假奶粉符合国标是为避免恐慌。你看看，你们把相关部门为难成什么样了，如果不是你们动不动就情绪恐慌，食药监局会出此下策吗？</p>
+<p>相关部门这么怕人民恐慌，主要是怕这届人民太累，“和颐酒店女性遇袭”这事人民还没恐慌完，立马又接上了假冒奶粉案带来的恐慌，细心的人会发现，几乎每一天，这里都有至少一件令人民恐慌的事件发生，人民能不累吗？凡事无序则乱，人民的情绪恐慌也是如此，为了减轻政府负担，缓解人民压力，我提议个建设性意见，建议政府出台分单双号恐慌政策，逢一三五休息，二四六恐慌，礼拜七自由选择，原则上不恐慌；或者周一到周五恐慌，周末休息两天，这样做到有序恐慌，人民可以提前做好心理准备，相关部门也可以少为人民操点心，酒浓花艳两相宜。</p>
+<p>在“和颐酒店女性遇袭”这件事情发生后，很多人民的情绪都不稳定了，明星也出来了，男明星纷纷传授防狼知识，呼吁大家不要冷漠，女明星纷纷表示这事“太可怕”、“太嚣张”、“太明目张胆”，最后呼吁大家“多一句问候，多一句关心，就会救回一条人命”，可是，有件事你们终究要明白，就算人人都献出一点爱，世界也不会变成美好的人间，况且“只要人人都如何，就会如何如何”这种句式，是典型的无脑虚构产物，别说多一句关心，多一百句关心也救不了一条命，在种种现实面前，这种抒情假设口号不仅一文不值，反而有粉饰太平的嫌疑，过分强调所谓的美德，只是帮助了真正的责任人推卸责任。我不是在否认你们的善意，只是想提醒你们，当年你们把“善款”交给了红十字会，在你们内心一阵阵暖流过后，世界还是一片冰凉，甚至更冷，个人不是不能捐助，而是首先要有一个良家红十字会，你们不是不能抒情，而是先要分清责任的主体是谁，不要让你的好心遮盖了他人的恶心。</p>
+<p>人民日报教你“姑娘，这样的场景下这样保护自己”，“平安北京”教你“女生遇到危险该如何处置”，各类科普公号、各路影视明星、各家电商平台，也都告诉你该如何自救，该买什么防狼工具，这些本来都没什么问题，甚至警察让你自救也没问题，可这些都得有一个基础，这个基础就是公安局作为公共安全机关，你把你应尽的责任都尽到了再来告诉我我该如何救自己，在我需要你雪中送碳救人于水火之中的时候，你却给我来了一个锦上添花，这时候你给我来个锦上添花圈可能更有用。说到这有人又要跟我磨蹭了，“关公安机关什么事，明明是酒店管理和冷漠路人的责任”，首先出事后，人姑娘去派出所报警，派出所说报案要等办案人员回来，以后报案是不是得都挂号预约了？是不是还得分普通号和专家号？其次，公安机关禁止了性交易，但却对由此衍生的性交易的黑社会化缺乏有效治理，很多妇女是性交易黑社会化的受害者，连酒店本身也是受害者，他们拿那些发小卡片的人没有任何办法，更不敢招惹。当官方机构纷纷教你如何自救时，我感觉很无语，就像一个男人对女人说，“我不在的时候，你要照顾好自己。”，这显然是要分手，不准备负责任的意思。</p>
+<p>你有没有感觉到，这个社会对个体的道德要求越来越高，对个人的防身自救技能也要求越来越多，我们像是丛林里无人保护的散养动物任人宰割，可我们明明交保护费了，这只能说明老大哥没尽到该尽的责任，没履行该履行的义务，我们出让了部分权力和利益，反过头来给自己找了个爹养。我们从小就听惯了各种英雄人物舍生取义、见义勇为的故事，现在也经常能看到道德楷模牺牲小我顾全大局的事迹，在你感动之余能否想一下，催人奶下的故事背后是职能部门缺位造成的个体血泪史。不知道是不是胡适说的，一个肮脏的国家，如果人人讲规则而不是谈道德，最终会变成一个有人味儿的正常国家，道德自然会逐渐回归； 一个干净的国家，如果人人都不讲规则却大谈道德，谈高尚，天天没事儿就谈道德规范，人人大公无私， 最终这个国家会堕落成为一个伪君子遍布的肮脏国家。</p>
+<p>武器是最好的自救防卫工具，当我主动或被动交出使用武器的权利，那么绝大部分的人身安全责任就要由相关部门来承担，你不能一方面不由分说的没收了我的武器，一方面又不作为告诉我要自救。制服或者抓捕犯罪嫌疑人是警察需要具备的基本职业能力，专业领域的事由专业人员来做，一般的人民即使遇到了案发现场，也应该以自保为首要原则，这应该是一个基本常识，而不应被视为冷漠的旁观者加以批评。我们总是在强调美德，却一直在讨论该不该扶老人，其实人们不是在讨论该不该扶，肯定该扶，人们只是在担忧扶了以后会出现的各种后果，而该为这些担忧买单的，只有政府职能部门。对个体一味强调道德自律或者在道德上加以批判是无用的，只有一个良好的法治环境，才能催生你所需要的那种道德感受。一出事就强调美德，就科普教育，不是在推卸责任就是在帮助责任主体推卸责任。</p>
+<p>和颐酒店事件出来后，看大家热火朝天讨论的那些对策，我都要笑哭了，这么正经而严肃的事情，你们都只能得出些戏剧化的解决方案，说到底这事最有效的解决方法就不是自救，而是相关部门，可又拿相关部门没办法，只能自救自爱自嗨了，这事发生在美国会怎么样？我就不多说了。你可以想很多办法在自己受到侵害时引起别人注意，可别指望他人在知道你是真被劫持时会出手相助，相反他或许会跑的更快，说了这么多道理，可在现有的条件下，万一真遇到事了呢？咱还是只能靠自救，我觉得你要喊些更与时俱进深入人心的口号，比如说利用下民族主义情绪，你高喊同胞们这个日本人要强奸我，或者喊这个小学校长耍流氓，实在不行就用最后这个大招：我要上访。</p>
+<p>在面对强盗该怎么办这事上，我发现很多人的思维的确深受早年公知贩卖启蒙的影响，他们说“不要大声喊叫，会激怒劫匪”、“不要反抗，会带来更大伤害”、“说点好话安抚，希望劫匪回心转意”，公知面对强权和这些人面对强盗时，话语体系惊人的一致。公知指责民众素质低，他们指责人民冷漠，公知希望民众提升素质，他们希望受害女性提升自我保护能力，什么刀、枪、剑、戟、斧、钺、钩、钗、鞭、锏、锤、抓、镗、棍、槊、棒、拐子、流星。什么带钩儿的，带尖儿的，带韧儿的，带刺儿的，带峨眉针儿的，带锁链的，都要会。美女什么都会了，英雄去哪吃饭呢？当然，遇到危险时我们别指望英雄救美，万一他不是英雄，或者，万一你不是美人呢。</p>
+<p>如家集团这几天估计忙坏了，其实不需要紧张，人民该开房还得开房，你还不用搞优惠特价，当年肯德基以及众多知名品牌被曝光出各类重大问题时，不照样生意红火吗？问题出再多也不怕，只要责任落不到相关部门头上，只要这届人民情绪依旧稳定。另外我想问一下那些发小卡片的，你们摸着自己的良心回答我，“白领学生、空姐”、“凭此卡优惠200元”，是真的吗？</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%B8%BB%E8%A6%81%E4%B8%8D%E8%A1%8C%E5%9C%A8%E6%83%85%E7%BB%AA%E4%B8%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E9%81%87%E8%A2%AD/?category=18271" rel="tag">和颐酒店女生遇袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%84%B6%E5%B9%B6%E5%8D%B5%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">东网｜乔木：对中国然并卵的巴拿马文件</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg" rel="attachment wp-att-434489"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg?resize=525%2C375" alt="bkncn-20160408000322701-0408_05411_001_01p" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg?w=608 608w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>巴拿马文件涉及70多个国家的高官巨富名流，通过设立离岸公司，逃税、避税或涉嫌洗钱等不法交易。包括一部分中国人喜爱的普京大帝，以及更为关心的中共现任、前任的常委和其他高官的家人。</p>
+<p>这种事，在民主国家，绝对是大新闻、令人吃惊的丑闻。一些国家舆论哗然，<a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="_blank">已有领导辞职</a>。许多国家也有<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%97%8F%E5%AF%8C%E5%AF%86%E4%BB%B6%E6%9B%9D%E5%85%89-%E5%90%84%E5%9B%BD%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/" target="_blank">回应</a>，表示要予以调查。但在俄国这样的强人政治国家，普京政府矢口否认，指责这是外国的阴谋。至于在中国，否认都不用，官方压根就没反应、不理睬。用中国外交部发言人的话说：对这种<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%81%B7%E6%88%96%E7%BC%96%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%80%85/" target="_blank">捕风捉影的东西</a>，不做评论。</p>
+<p>领导的家人不见得就不能经商，只要透明、守法、公平。设立离岸公司，避税、转移财富或其他考虑，也不见到就是犯罪。但是一边在国内宣传社会主义核心价值观和共产党员的修养，一边又放任家人整出这些事，多少也算丑闻吧。丑闻不一定是犯罪，但会影响道德和信誉。“打铁还要自身硬”音犹在耳，自家和同僚家人出这种事，总是难以服众。</p>
+<p>但要说这种事，对中国的政治和舆论真有多大的影响，恐怕微乎其微。从政治来说，尽管高层内部勾心斗角、权争不断，但在向外对付民众、媒体和外国上，高度一致，绝不权力民选、新闻自由、公示财产、屈从舆论和国际社会的压力。</p>
+<p>由于网络长城的存在，这种事也就<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/" target="_blank">墙外热议和墙内少部分人知道</a>。多数人不知道、不关心，甚至认为理所应当，中国官员有几个乾净的？当局严防死守，<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="_blank">不许报道</a>，再要纠缠<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%87%AA%E6%9F%A5%E8%87%AA%E5%88%A0%E6%B6%89%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E6%89%80/">就收拾你</a>。<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/" target="_blank">删帖销号是常事</a>，像对新公民运动要求官员财产公示一样，以寻衅滋事抓人也有可能。</p>
+<p>这种事，每隔一段时间国际媒体会报道一番，除了招致更严厉的网络屏蔽，并没有改变中国什么。有位高调的前领导人的公主，这些年被国外媒体踢的千疮百孔，国内我自岿然不动。前几年，外国对贝尔、西门子等公司的在华商业贿赂进行司法调查，对方招供，也有证据。但中国只当什么也没发生，决不回应。</p>
+<p>外国媒体管不了，本国媒体姓党，要坚持正确的导向。至于官员的任免问责，这是组织的事。当年有人扬言要控告《纽约时报》诽谤，最后也不了了之。《纽约时报》最终凭借对中国领导财富的报道，获得了普利策奖，但又能把中国怎样？结果是自己的中英文网站被双杀，驻华记者的签证饱受限制。</p>
+<p>此次巴拿马文件也一样，尽管大戏开幕，热闹异常，但对中国来说，套用网络用语：然并卵——然而并无卵用。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%84%B6%E5%B9%B6%E5%8D%B5%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E9%97%BB%E6%B8%AF%EF%BD%9C%E6%9E%97%E5%92%8C%E7%AB%8B%EF%BC%9A%E4%B9%A0%E6%94%BF%E6%9D%83%E8%8D%89%E6%9C%A8%E7%9A%86%E5%85%B5-%E5%A3%B0%E8%AE%A8%E5%9B%BD%E5%AE%B6%E6%81%90%E6%80%96%E4%B8%BB/" target="cdt-mirror">新闻港｜林和立：习政权草木皆兵 声讨国家恐怖主义</a>
 </h2>
 <p><p>中共自从去年10月派特工到泰国绑架巨流传媒有限公司老板桂民海后，开展了自文革以来最严苛、最恐怖的行动打压异见分子、敢说话的评论员及其家属、不愿「姓党」的传媒与出版界，以及上访的毒疫苗受害者的父母。习近平政权独创的国家恐怖主义除了蹂躏神州外，亦不断向香港与全世界蔓延，情况耸人听闻。</p>
@@ -702,88 +760,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B1%9F%E6%B9%96%E4%BC%A0%E8%AF%B4-%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E8%AF%A5%E5%8F%8D%E7%9C%81%E9%82%A3%E4%BA%9B%E5%88%B6%E9%80%A0%E8%85%90%E8%B4%A5%E7%9A%84%E5%88%B6%E5%BA%A6%E4%BA%86/" target="cdt-mirror">江湖传说 | 于建嵘：该反省那些制造腐败的制度了</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-05-at-%E4%B8%8A%E5%8D%8811.46.00.png?resize=285%2C449" alt="Screen Shot 2016-04-05 at 上午11.46.00" data-recalc-dims="1"><br><span>于建嵘，中国社会科学院农村发展研究所社会问题研究中心主任。</span></p>
-<p>广东省委常委、珠海市委书记李嘉落马了。得知这个消息，虽然早就预料，但还是有了许些感概，甚至为又一位高级官员沦为腐败分子而有些痛心。</p>
-<p>我与李嘉是有过交往的。那是几年以前了。当时，他还是梅州巿委书记。广东省某单位在梅州的著名景区搞活动，我受邀发表演讲。听众就有李嘉。演讲后，李嘉以老乡的名义请我喝茶。其间，他告诉我，他是中山大学的工科学士、经济学硕士和哲学博士，从学校团委到省团委然后到梅州来任职的。他说，在梅州这样的以农业为主的地方，要特别注意三农问题。因此，我有关三农方面的书和文章他基本上都读过。</p>
-<p>这赢得了我的好感。因为，像他这样层次的官员能准确地说出你某一观点的出处，还真是不多的。我感觉遇到了知音，尽情地向他倾诉我对农村存在环境污染、土地流失、空心化及基层组织黑恶化等问题的担忧。他很认真地听着，时不时点头赞许或直接质疑，并讲述了他要打造绿色梅州的计划。聊得很投机。他很真诚地邀请我担任梅州巿发展顾问，我也很高兴地答应了。</p>
-<p>作为顾问，虽然没有任何经济报酬，我还是感到责任重大，需要认真履行职责。我曾就梅州市基层政权建设、梅州农村的环境保护以及生态农业等问题同李嘉通过电话等方式交流过意见，他都给予了热情而恰当的回应。应该说，这时的双方是有基本的尊重和信任的。</p>
-<p>后来，发生了一件事，改变了我们这种关系。当时，梅州有一些农民，为不服强拆的事找我投诉。我就给李嘉打电话反映这些情况。李嘉强调有大项目落户，农民不知全局利益的需要，只能强拆。快速发展经济，是省委交给他的任务。他要对重用他的省委领导负责。我坚持执政者首要任务是保证国家的法律实施，应该对民众负责。为大项目搞拆迁，应给予适当补助，不能为了政绩和商家的利益而让农民的合法权益受损。双方发生了争执，他非常不愉快地挂了电话。从此以后，我就再也没有给他打过电话，对梅州发展也少了许多关注。</p>
-<p>不久，他到珠海担任书记。这期间，珠海市有关部门曾请我给珠海市党政干部讲过课，但没有见到过他。只是有一次，他的一位部下，转达过他的问候，并希望我能理解他现在的工作压力等等。我笑了笑，没有说什么，讲完课很快离开了珠海。</p>
-<p>现在他被调查了。中纪委的刊物发文说，李嘉等人，台上道貌岸然，台下乱纪枉法；人前正襟危坐，人后骄奢淫逸。用百姓的话来说，点灯是人，熄灯是鬼。</p>
-<p>我不知道李嘉到底犯了什么事情，但我相信中纪委的刊物这样说，应该是有相关证据的。可是，我在想，李嘉们生下来就是这样的吗？如果是，为什么要将天生就在人鬼之间的李嘉们推到如此重要的领导岗位？如果不是，又是什么样的力量促使他们有如此改变？</p>
-<p>从我与李嘉有限的接触来看，他的智商和情商都是非常高的。他在名校受到过非常好的教育。如果不从政，他完全有可能成为工程师、著名教授甚至巨商。可他从政了。他们也许曾有通过自己的执政造福一方的政治理想。但在现实的政治逻辑中，他们获得权力，由他们的上级决定；他们也只对上级负责，只接受上级的监督。这些不受民众监督的权力，会使他变得不认识自己。在这种意义上，李嘉等人，是这种体制的受益人，又是这种体制的受害者。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B1%9F%E6%B9%96%E4%BC%A0%E8%AF%B4-%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E8%AF%A5%E5%8F%8D%E7%9C%81%E9%82%A3%E4%BA%9B%E5%88%B6%E9%80%A0%E8%85%90%E8%B4%A5%E7%9A%84%E5%88%B6%E5%BA%A6%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8E%E5%BB%BA%E5%B5%98/?category=18271" rel="tag">于建嵘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E6%80%A7%E8%85%90%E8%B4%A5/?category=18271" rel="tag">制度性腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E7%8F%A0%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9D%8E%E5%98%89/?category=18271" rel="tag">前珠海市委书记李嘉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%90%BD%E9%A9%AC/?category=18271" rel="tag">李嘉落马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%BD%E9%A9%AC%E5%AE%98%E5%91%98/?category=18271" rel="tag">落马官员</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/" target="cdt-mirror">【CDTV】香港金像奖最佳电影《十年》</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0.jpg?resize=656%2C369" alt="C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/C2ABE58D81E5B9B4C2BB2020TEN20YEARS202012376056_562681027217993_303987522533359407_n_1024_xnYjN_1200x0.jpg?w=656 656w" sizes="(max-width: 656px) 100vw, 656px" data-recalc-dims="1"></p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%AC%E5%85%831874-%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B%EF%BC%9A%E4%B8%80%E9%83%A8%E8%AE%B2%E8%BF%B0%E5%92%8C%E8%B0%90%E7%A4%BE%E4%BC%9A%E7%9A%84%E7%A7%91%E5%B9%BB%E7%89%87/" target="_blank">公元1874 | 《十年》：一部讲述和谐社会的科幻片</a></p>
-<p>《十年》是一部香港独立导演制作的短片集，由五个故事组成。这部电影在2016年4月3日的香港电影金像奖上，拿到了最佳电影。五个故事都有一个主题——未来的香港是什么样子。《浮瓜》讲述北京为在港通过《国安法》，指点港府和建制派制造一场恐怖袭击，“越乱越好”；《冬禅》以制作标本的隐喻故事讲述保存记忆、对抗城市推土机，但主角最终却只能以自己生命作无声抗议；《方言》讲一位香港的士司机因为说不好普通话，在普通话已成主流的香港中逐渐被边缘化，甚至难以与儿子沟通；《自焚者》以仿纪录片形式，记录某个时空为香港独立抗争的绝食乃至自焚者；最后的《本地蛋》中，香港仿若文革年代，孩童身穿红卫兵式装束，在全城检查违禁文字，知识分子秘密开读书会，“本地”则成了违禁词，连小店卖“本地”蛋也被指控……</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6764cadegw1f2kl5ymc23j20ge0nmq4g.jpg?resize=550%2C792" alt="6764cadegw1f2kl5ymc23j20ge0nmq4g"></p>
-<p><strong>该片的几种下载方式</strong></p>
-<p>ed2k://|file|《十年》BT种子.zip|630083|BF6E98659A177E33D73BFBB8A3EE22DC|/</p>
-<p>ed2k://|file|Ten.Years.2015.1080P.mp4|1945064624|C0A5B82BF806469FDBD7D2F97680EC5B|h=L25MCPC5AUWTM7VLKDQ2SLLBOF4TE7YL|/</p>
-<p><a href="https://www.dropbox.com/s/0pcf73tkb39wnak/Ten.Years.2015.1080P.mp4?dl=0" target="_blank">https://www.dropbox.com/s/0pcf73tkb39wnak/Ten.Years.2015.1080P.mp4?dl=0</a></p>
-<p> </p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%B9%B4/?category=18271" rel="tag">十年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8C%96/?category=18271" rel="tag">大陆化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/vox%EF%BD%9C%E4%B8%80%E7%BB%84%E6%BC%AB%E7%94%BB%E7%9C%8B%E6%87%82%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">Vox｜一组漫画看懂巴拿马文件泄露事件</a>
-</h2>
-<p><p>【编者注】本文由中国数字时代编辑翻译自 <em>Vox </em>文章<em> <a href="http://www.vox.com/2016/4/4/11361780/the-panama-papers-cartoon" target="_blank">The Panama Papers leak, explained with an adorable comic about piggy banks</a></em>；请点击原文链接阅读完整报道。</p>
-<p><strong>假设说你把自己的零钱存在衣柜架上的储蓄罐里。</strong></p>
-<p><strong><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png" rel="attachment wp-att-434134"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?resize=550%2C327" alt="piggybank01" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?resize=300%2C178 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?resize=768%2C456 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank01.png?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>但你妈妈总是动不动就来检查存取情况。</strong></p>
-<p><strong>你很不爽。</strong></p>
-<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png" rel="attachment wp-att-434133"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=550%2C330" alt="piggybank02" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=300%2C180 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=768%2C461 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank02.png?w=794 794w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>然后你准备了另一个储蓄罐…</strong></p>
-<p> </p>
-<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png" rel="attachment wp-att-434132"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?resize=550%2C293" alt="piggybank03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?resize=768%2C409 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank03.png?w=825 825w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>…带到强尼家。</strong></p>
-<p><strong><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png" rel="attachment wp-att-434131"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?resize=550%2C305" alt="piggybank04" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?resize=300%2C166 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?resize=768%2C426 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank04.png?w=847 847w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>强尼妈妈很忙，没空来检查。所以你能够把储蓄罐秘密地藏在那里，没人会来过问。</strong></p>
-<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png" rel="attachment wp-att-434130"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?resize=550%2C305" alt="piggybank05" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?resize=300%2C166 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?resize=768%2C426 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank05.png?w=847 847w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>小区里的其他小朋友都觉得这个主意很棒。</strong></p>
-<p><strong><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png" rel="attachment wp-att-434129"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?resize=550%2C288" alt="piggybank06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?resize=300%2C157 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?resize=768%2C402 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank06.png?w=858 858w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>所以他们也都把自己的储蓄罐藏到了强尼的衣柜里。</strong></p>
-<p><strong><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?resize=550%2C169" alt="piggybank07" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?resize=300%2C92 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?resize=768%2C235 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank07.png?w=858 858w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></strong></p>
-<p><strong>但有一天，强尼妈妈发现了这些储蓄罐。</strong></p>
-<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png" rel="attachment wp-att-434127"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?resize=550%2C352" alt="piggybank08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?resize=300%2C192 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?resize=768%2C491 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank08.png?w=873 873w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>她很生气，打电话给所有小朋友的家长，告诉他们这些孩子背着家长偷偷藏钱。</strong></p>
-<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png" rel="attachment wp-att-434126"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?resize=550%2C300" alt="piggybank09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?resize=300%2C164 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?resize=768%2C419 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank09.png?w=786 786w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>今天的文件泄露事件基本就是这么回事。很多重要的、有权势的人物都把自己的储蓄罐藏在了强尼在巴拿马的家。</strong></p>
-<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png" rel="attachment wp-att-434125"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?resize=550%2C332" alt="piggybank10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?resize=300%2C181 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?resize=768%2C464 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank10.png?w=795 795w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>当然，不是每个藏钱的人都是因为做了坏事。比如，你只是不想你妈妈侵犯你的隐私。</strong></p>
-<p><strong>但你的邻居迈克尔是把从他妈妈包里偷来的钱藏在强尼的衣柜里。雅各布则是因为偷了其他小朋友的零花钱，不想被家长问他这些钱是哪儿来的。</strong></p>
-<p><strong>我们很快就会知道谁在做坏事，谁是清白的。</strong></p>
-<p><strong><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png" rel="attachment wp-att-434124"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?resize=550%2C162" alt="piggybank11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?resize=300%2C88 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?resize=768%2C226 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank11.png?w=786 786w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>但每个在强尼家藏钱的人还是都惹了麻烦，因为秘密储蓄罐是不被允许的。</strong></p>
-<p><strong><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png" rel="attachment wp-att-434123"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?resize=550%2C413" alt="piggybank12" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/piggybank12.png?w=786 786w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></strong></p>
-<p><strong>所以记者们正在整理这些文件，想要搞清在强尼巴拿马的家里到底发生了什么性质的活动——是合法的、合理的、还是违法的。Vox 巴拿马文件专题报道<a href="http://www.vox.com/2016/4/4/11361436/panama-papers-list-leaks-fonseca-names-politicians" target="_blank">点此</a>。</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/vox%EF%BD%9C%E4%B8%80%E7%BB%84%E6%BC%AB%E7%94%BB%E7%9C%8B%E6%87%82%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -795,7 +771,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -805,5 +781,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,219 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%A6%96%E6%AC%A1%E5%88%97%E4%B8%BA%E8%B4%B8%E6%98%93/" target="cdt-mirror">纽约时报｜美国把中国“防火长城”首次列为贸易壁垒</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%85%92%E5%BA%97-gfw.jpg" rel="attachment wp-att-434560"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%85%92%E5%BA%97-gfw.jpg?resize=525%2C533" alt="香格里拉酒店 gfw" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=295%2C300 295w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=768%2C780 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=1008%2C1024 1008w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?w=1024 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><span>酒店的外国客人被告知有些常用网站在中国大陆无法登陆；图片来自推特</span></p>
+<p>香港——中国对网络的控制众所周知。人权团体、企业、中国网民等方面早就在对这种审查进行谴责。</p>
+<p>现在，美国政府又给这种控制添加了新的标签：贸易壁垒。</p>
+<p>美国贸易官员首次将中国的互联网过滤和拦截系统——也就是大家所说的“防火长城”——列入一个贸易障碍年度清单。相关条目写着，在过去10年，这种限制“给外国供应商带来了巨大负担，遭受损失的既有网站本身，也包括往往需要使用这些网站开展业务的用户”。</p>
+<p>美国贸易代表办公室(Office of the United States Trade Representative)发布的这份报告称，在过去一年里，“网站被彻底屏蔽的现象似乎有所恶化”，全球25个人气最高的网站中，有八个在中国遭到屏蔽。</p>
+<p>“很多屏蔽案例显得相当随意，例如，一家知名的美国家装网站，看上去完全没有恶意，却是可能遭防火长城封锁的典型对象，”文中称。</p>
+<p>中国屏蔽了一些互联网巨头的服务，比如谷歌(Google)、Facebook和Twitter。这可能会削弱外国公司在中国开展业务的能力，无论是通过屏蔽网站本身，还是让人在工作场所无法访问谷歌的电子邮件服务Gmail。中国还屏蔽了越来越多的境外新闻媒体，其中就包括《纽约时报》的网站。</p>
+<p>中国的商务部、外交部及最高级别互联网监管机构的官员，均未对置评请求做出回应。</p>
+<p>近年来，中国和美国在科技业贸易领域发生过冲突。去年，奥巴马政府对一些美国企业的游说做出了回应。这些公司对中国的若干法律不满，称它们的目的是把自己从中国赶走。之后，北京放软了一部反恐法的语气，废除了一项限制外国硬件销往中国的银行的监管规定。</p>
+<p>不过，美国说服中国减少互联网审查的努力全都可能无功而返。中国政府认为，对网上交流的严密控制事关国家安全，主要是因为互联网可以帮助人们组织抗议活动、散播异见，令他们担忧。其结果就是，北京一直在审查问题上没有显示出什么弹性，往往会屏蔽它觉得无法完全控制的任何网络媒体。</p>
+<p>国际战略研究中心(Center for Strategic and International Studies)费和中国研究项目(Freeman Chair in China Studies)学者甘思德(Scott Kennedy)说，美国贸易代表办公室这个举动显示了两种态度之间的鸿沟：一方面是中国严控互联网所体现的态度，另一方面则是美国通过跨太平洋伙伴关系协定(Trans Pacific Partnership)这样的贸易协议表现出来的态度。</p>
+<p>“比起美国，中国极不愿意把商业和国家安全问题分割开来，”他在电子邮件中写道。“无论美国对这一议题怎么强调，这种处理手法的不同都不可能在短时间内消失。”</p>
+<p>中国把网络间谍威胁作为一个理由，指出美国国家安全局前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)曝光的文件显示，美国情报界试图利用境外的美国硬件来搜集信息。</p>
+<p>中国的网络过滤机制营造出了一个与世界严重隔离的互联网，违反了“网络是沟通世界各地人们的开放渠道”这个基本理念。批评者称，这种做法是反竞争的，限制了言论自由，而且阻碍了人们对信息的获取，最终会损害中国的经济增长。支持中国这种政策的人则认为，它让中国有机会培养了一批繁荣的本土互联网企业。</p>
+<p>美国贸易代表办公室把中国的互联网审查政策添加到其年度《贸易评估报告》(National Trade Estimate Report)中。全文于3月31日发布。行业刊物《美国贸易内情》(U.S. Trade)在4月1日报道了这个添加。</p>
+<p>美国贸易官员过去就对“防火长城”进行过审视。2011年，美国贸易办公室称，中国的这些过滤机制属于商业壁垒，损害了美国小企业利益。美国当时通过世界贸易组织(WTO)提交给中国一些正式问题，涉及什么样的法规决定了商业网站在中国的可用性，而这一论断是其中之一。</p>
+<p>美国一些互联网巨头和大型外贸团体长期开展游说活动，想让美国把中国的审查当作贸易问题来对待。例如在2008年，谷歌的副总法律顾问出席参议院一个小组委员会的听证会，宣称美国政府应该将此事纳入贸易谈判的核心议题。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%A6%96%E6%AC%A1%E5%88%97%E4%B8%BA%E8%B4%B8%E6%98%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?category=18271" rel="tag">阿Q</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%BD%93%E8%B5%B5%E5%A4%AA%E7%88%B7%E7%9A%84%E5%90%8D%E5%8F%B7%E4%B9%9F%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">【麻辣总局】当赵太爷的名号也出现在巴拿马文件上的时候</a>
+</h2>
+<p><p>当赵太爷的名号也出现在巴拿马文件上时，未庄的人才恍然大悟，原来赵家也没想在未庄永久执政。未庄人顿时惶恐起来。他们不是惶恐赵太爷的名号出现在巴拿马文件上，也不是惶恐赵太爷一家早晚要跑路，而是惶恐未庄的最高经理人团队，合法性杠杠的赵家，都没有要与未庄共存亡的小心愿。</p>
+<p>“我了个去。”阿Q第一个喊出未庄人的不爽与鄙视。</p>
+<p>赵太爷家门口的穷人越围越多，七嘴八舌地议论着赵家卷款潜逃的传闻终于被证实的事情。有人说革命军已经渗透进来了，未庄马上要崩溃，所以赵家准备跑路。有人说哪里，巴拿马文件日期证实革命军还未曾在中国出现的时候，赵家人已经着手开溜了。还有人猜未庄其他有钱的是不是也准备跑路。</p>
+<p>赵家黑漆漆的大门紧闭，里面一点动静都么有。</p>
+<p>议论渐渐平息的时候，小D忽然提出一个超出个人历史水平的问题：“赵家为何要跑路？平日里不是信誓旦旦说有三个自信，制定十三五规划，胸脯拍得山响要带领未庄人奔小康吗？”</p>
+<p>阿Q觉得小D应该得到表扬：“你的问题水平高，我是想不出来的。”但又不想让小D抢了风头：“能回答才是真本事。”</p>
+<p>小D拍拍脑袋说：“为想出这个问题我脑筋都消耗光了。”</p>
+<p>阿Q觉得机会来了，如果他能够解答这个问题，一定很风光，比小D风光。阿Q环顾四周寻找吴妈，却看见小尼姑在远处朝这边张望，于是来了勇气。</p>
+<p>阿Q找了一块石头踮着脚尖说：“以前我们地命赵心，认为赵太爷这样那样做不对，不有利于他长期执政。觉得很奇怪。现在谜底揭开了，原来赵太爷根本不在乎他是否能够长期执政。”</p>
+<p>众人觉得有理，纷纷点赞，阿Q粉丝看涨。远处小尼姑似乎冲着他笑。吴妈虽没露脸，但一定躲在什么地方偷听。</p>
+<p>阿Q吞了口水继续说：“未庄的地价炒高了，天空河流污染了，社会保障基金亏空了，还拼命印钞票不怕未币贬值，一切的一切，都说明了赵家人中心思想是，未庄败了好走路。哪天未庄彻底崩溃，就是他们跑路之时。”</p>
+<p>赵家大门“咯吱”一声突然打开，为首不是别人，正是蜚声古今的赵太爷。一伙家丁端着汉阳造分立两旁。</p>
+<p>“阿Q，又是你聚众闹事。”赵太爷气得发抖，声音也抖，他的怒吼使得空气也跟着抖。阿Q小D小尼姑等众人吓得也抖起来。</p>
+<p>阿Q结结巴巴地：“赵太爷，冤枉啊，一没有聚众，是他们自己来的，二没有闹事。”</p>
+<p>赵太爷指着鼻子骂：“你，造谣惑众，我听得一清二楚，你还敢抵赖。”</p>
+<p>阿Q心想要死，刚才的话八成都听见了，得赶紧想办法圆。于是四下里张望，看看能捞到什么救命稻草。</p>
+<p>这边阿Q想计策对付，那边赵太爷怎肯放过。一挥手，家丁们一拥而上利索地绑了阿Q。民国时期相当文明，绑人之后杀人之前都会暂停一分钟容倒霉催的说几句，相当于现在的留言发短信。</p>
+<p>阿Q深呼吸故作镇定，说：“巴拿马文件，一定是敌对势力企图陷害赵太爷。我一时着了道，迷失方向，说了错话。乡亲们，今天阿Q罪有应得。望乡亲们引以为戒，不信谣不传谣。除非你们亲眼看见，赵太爷一家从这大院跑路，从未庄开溜，再相信也不迟。”</p>
+<p>言毕，大摇大摆而去。</p>
+<p>几天后，阿Q因煽动颠覆和颠覆政府罪被砍了头的消息传到未庄。一时间风声鹤唳人人自危，家家户户闭门保命。</p>
+<p>几个月后的一个深夜，果然有人看见赵太爷一家跑路，金银细软装满几个集装箱。等到大天亮一传十十传百未庄人差不多都聚集在赵家空空大院里里外外的时候，没有人说一句话，都呆呆地相互望着，似乎谁也不认识谁。</p>
+<p>转自《习总日记》（2016，4，8）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%BD%93%E8%B5%B5%E5%A4%AA%E7%88%B7%E7%9A%84%E5%90%8D%E5%8F%B7%E4%B9%9F%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?category=18271" rel="tag">阿Q</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%A9%8A%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%9A%84%E7%B2%BE%E5%BD%A9%E4%BA%BA%E7%94%9F%EF%BC%88%E5%A4%9A%E5%9B%BE%EF%BC%89/" target="cdt-mirror">编程随想｜中国电婊李小琳的精彩人生（多图）</a>
+</h2>
+<p><p><b>文章目录</b></p>
+<p><a href="https://chinadigitaltimes.net/chinese#subtitle1">★作为中国电婊的李小琳</a><br><a href="https://chinadigitaltimes.net/chinese#subtitle2">★作为时尚达人的李小琳</a><br><a href="https://chinadigitaltimes.net/chinese#subtitle3">★作为道德楷模的李小琳</a><br><a href="https://chinadigitaltimes.net/chinese#subtitle4">★作为佛教高僧的李小琳</a><br><a href="https://chinadigitaltimes.net/chinese#subtitle5">★作为商业大亨的李小琳</a><br><a href="https://chinadigitaltimes.net/chinese#subtitle6">★结尾</a></p>
+<p>好多天没有露面了。俺还在，没有被“跨省” :) 只是近期太忙了，实在没时间上博客处理评论（待会儿俺会把那些被 Google 误判的评论恢复出来）。</p>
+<p>前几天曝光的“巴拿马文件”已经轰动世界了。由于真理部的存在，估计天朝网民知道的比例还是不够高。照理俺应该发一篇《每周转载》，让大伙儿了解一下 此事。但是前面已经连续发过2篇《每周转载》了，所以今天这篇专门来聊聊天朝前丞相李鹏的宝贝女儿李小琳。这个话题是前2年承诺要写的，如今补上。过几天 再来聊“巴拿马文件”。<a name="more"></a></p>
+<h3>★作为中国电婊的李小琳</h3>
+<p> <br>
+作为前总理李鹏唯一的女儿，大伙儿对李小琳应该不陌生。所以本小节俺就长话短说，简单列举她那些显赫的官职。</p>
+<p>1994年，由“国家经贸委”和“外贸部”批准，“电力工业部”独家投资在香港注册成立了“中国电力国际有限公司”，由李小琳负责公司的筹建。<br>
+1996年，“中国电力投资公司”和“中国电力国际公司”成立，出任公司总经理助理。<br>
+1998年，担任“中国电力投资集团公司”常务副总经理。<br>
+2007年，被《财富》杂志评为全球商界女强人。<br>
+2008年，兼任香港上市公司“中国电力国际发展有限公司”董事长。<br>
+2008年，开始担任全国政协委员。</p>
+<p>不光李小琳本人，李鹏的家人纷纷占据电力系统的要职（具体细节可以参见俺整理的“<a href="https://github.com/programthink/zhao" target="_blank">太子党关系网络</a>”）。以至于网友戏称：<br><b>煤他家挖的，电他家发的，表他家做的，线他家拉的，价他家定的，钱他家拿的…<br>
+他们家建立了最成功的中国模式——权贵资本主义</b></p>
+<h3>★作为时尚达人的李小琳</h3>
+<p> <br>
+许多年以来，李小琳一直是两会的“超模”，这已经是众所周知的。下面分享几张网友制作的对比图，展现一下李公主靓丽的身影。</p>
+<p>品牌：Azzedine Alaia</p>
+<p></p><center><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/873bdf2e2e8c5188cd88e19aab8c804e.jpg" rel="attachment wp-att-434551"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/873bdf2e2e8c5188cd88e19aab8c804e.jpg?resize=525%2C418" alt="873bdf2e2e8c5188cd88e19aab8c804e" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/873bdf2e2e8c5188cd88e19aab8c804e.jpg?resize=300%2C239 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/873bdf2e2e8c5188cd88e19aab8c804e.jpg?w=601 601w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></center><br>
+品牌：Roberto Cavalli
+<p></p><center><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a540cea3b5890c03570b8c8cdbdf0f02.jpg" rel="attachment wp-att-434550"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a540cea3b5890c03570b8c8cdbdf0f02.jpg?resize=525%2C415" alt="a540cea3b5890c03570b8c8cdbdf0f02" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a540cea3b5890c03570b8c8cdbdf0f02.jpg?resize=300%2C237 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a540cea3b5890c03570b8c8cdbdf0f02.jpg?w=605 605w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></center><br>
+品牌：Roberto Cavalli
+<p></p><center><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/99c5f762d377e6c73142157ee8b36f9e.jpg" rel="attachment wp-att-434549"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/99c5f762d377e6c73142157ee8b36f9e.jpg?resize=525%2C418" alt="99c5f762d377e6c73142157ee8b36f9e" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/99c5f762d377e6c73142157ee8b36f9e.jpg?resize=300%2C239 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/99c5f762d377e6c73142157ee8b36f9e.jpg?w=600 600w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></center><br>
+品牌：Gucci
+<p></p><center><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9f2eba5424ca0f208ae2edbf8b48b737.jpg" rel="attachment wp-att-434548"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9f2eba5424ca0f208ae2edbf8b48b737.jpg?resize=525%2C419" alt="9f2eba5424ca0f208ae2edbf8b48b737" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9f2eba5424ca0f208ae2edbf8b48b737.jpg?resize=300%2C239 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9f2eba5424ca0f208ae2edbf8b48b737.jpg?w=602 602w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></center><br>
+品牌：Emilio Pucci
+<p></p><center><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b79b47fd39e77ca26e40ff52d9bd6b90.jpg" rel="attachment wp-att-434547"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b79b47fd39e77ca26e40ff52d9bd6b90.jpg?resize=525%2C417" alt="b79b47fd39e77ca26e40ff52d9bd6b90" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b79b47fd39e77ca26e40ff52d9bd6b90.jpg?resize=300%2C238 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b79b47fd39e77ca26e40ff52d9bd6b90.jpg?w=603 603w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></center><br>
+（以下是网友评论）
+<p>真不是法官：<br>
+【大家都冤枉小琳姐了】这真不是皮草，是全棉的。roberto cavalli，官网标价4120欧元，折合人民币只要3万多。http://t.cn/zRSoW2O<br>
+小琳姐艰苦朴素，大家要向她学习。</p>
+<p>Anae5thesia：<br>
+我一般都是从某某官员身上得知多数国内外奢侈品牌！</p>
+<p>黄圈圈Yamme：<br>
+敢比国母穿的还嚣张,妖孽~ 你死定了~!</p>
+<p>花总丢了金箍棒：<br>
+公主和国母都算我朝最会穿衣的贵妇</p>
+<p>是小蝴蝶宝宝呀：<br>
+把每次开会都当做时装秀啊[good]</p>
+<p>暗黑游侠：<br>
+两会的定义应该是：1、举手会；2、时装展览会</p>
+<p>穆罕默德_大冬冬W微博達人：<br>
+子承父业垄断电力行业富可敌国，万把块的衣服真的是毛毛雨。[雷锋]</p>
+<p>稀里糊涂在行动：<br>
+这还是从衣橱里挑出一件最便宜的嘞……我们前总理的爱女哪能那么掉面子嘞</p>
+<p>我是魏魏魏：<br>
+内衣没看到，但我相信，肯定不是三枪牌的！</p>
+<p>龚文祥：<br>
+过几天这七套服装就有淘宝店有卖了。叫“和总理公主同款”。</p>
+<p>疯狂小呆瓜：<br>
+身上披着的都是血债！64这一笔账你家祖祖辈辈都还不清！！</p>
+<p>边走边忘lala：<br>
+Emilio Pucci硬生生穿出工作服的感觉，难得</p>
+<p>肥猫汤姆：<br>
+是否懂得怎样优雅地低调，是土豪和贵族的最大区别……//@死宅的小雅:土鳖从不知啥叫低调。</p>
+<p>骆永华：<br>
+一年四季一周七天服饰搭配事务总理大臣。</p>
+<p>RAINBOW和KUNI：<br>
+人家打小刻苦学习凭自身五毛起家辛苦打拼成年后斩妖除魔，一越成为中国国际电力公司董事长，不拍电视剧可惜了！TMD!!</p>
+<h3>★作为道德楷模的李小琳</h3>
+<p> <br>
+2012年开两会的时候，李公主语出惊人，以下是她的原话（网易的报道在“<a href="http://news.163.com/12/0305/13/7RRBAEEB0001124J.html" target="_blank" rel="nofollow">这里</a>”）：</p>
+<blockquote><p><b>我觉得应该给每个公民建立一份道德档案，以此来约束大家，每个人都要“知耻”。</b></p></blockquote>
+<p>这句话体现了李公主超高的道德水准和超厚的脸皮。那年中旬，俺正好在整理一篇《<a href="https://program-think.blogspot.com/2012/07/weekly-share-12.html">汇总近几年天朝的雷人语录</a>》，俺毫不犹豫就把李公主的这段言论收录进去了。</p>
+<p>（以下是网友评论）</p>
+<p>才让多吉：<br>
+全国政协委员、中国电力国际有限公司董事长——李小琳身穿的身穿的鲑鱼粉色套装出自 Emilio Pucci 今年春夏的新款，价格超过一万两千人民币。可以帮助200多个孩子穿上暖和的衣服，免于受到饥寒侵袭！<br>
+此前李小琳说：我觉得应该给每个公民建立一份道德档案，以此来约束大家，每个人都要“知耻”。</p>
+<p></p><center><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/52e0e4f8jw1dqpcpazbccj.jpg" rel="attachment wp-att-434546"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/52e0e4f8jw1dqpcpazbccj.jpg?resize=440%2C566" alt="52e0e4f8jw1dqpcpazbccj" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/52e0e4f8jw1dqpcpazbccj.jpg?resize=233%2C300 233w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/52e0e4f8jw1dqpcpazbccj.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></center><br>
+滕彪：<br>
+李小琳同学：这不是给你爹和你爹当年的同伙儿上眼药吗？你爹犯罪档案还没建，你忙着建什么道德档案？<br>
+你倒是应该先一笔一笔晒晒你们家族的财产看看道德不道德？
+<p>Sher：<br>
+煤他家挖的，电她家发的，表她家做的，线她家拉的，价她家定的，钱她家拿的…<br>
+他家建立了最成功的中国模式：权贵资本主义！最牛逼的是，她建议给每个公民建立道德档案让人们知耻！她是谁？</p>
+<p>谢雪：<br>
+李小琳在海外汇丰银行的秘密账户曝光。李小琳同志是国企的吧？这事应有个说法！<br>
+你总不能一边在中国呼吁给小民建道德档案，一边却跑到海外给自己建秘密帐户吧？</p>
+<p>沙门氏v：<br>
+一个人在享尽特权世袭带来的好处之余，还不忘教诲老百姓“知耻”，李小琳也算是中华大地一朵道德奇葩了。</p>
+<p>中华救国军：<br>
+最无耻的人就在这</p>
+<p>蔡正确：<br>
+谁帮问问她：屠杀大学生是何道德？霸占国家能源是何道德？</p>
+<p>亲亲小顽熊布兰诺：<br>
+这叫二两肉开馆子——真不够揍的。不要装。</p>
+<h3>★作为佛教高僧的李小琳</h3>
+<p> <br>
+2015年7月，李小琳调任大唐集团公司担任副总经理和党组成员。当月25日，大唐集团官网披露：李小琳以大唐副总经理、党组成员身份，7月23日到内蒙大唐国际托克托发电公司调研。<br>
+但在同一天，内蒙著名佛教大师古赤·仁波切活佛在微信上透露：<br>
+李小琳近日专程到内蒙古寺院拜访金刚法王满自喜日布扎赤·仁波切上师。微信中还透露，<b>李已受戒，法名为“格丹央金措姆”</b>。<br>
+（以上的报道来自“RFI/法广”，链接在“<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20150726-%E5%A4%A7%E5%B8%88%E6%B3%84%E5%A4%A9%E6%9C%BA%E6%9D%8E%E5%B0%8F%E7%90%B3%E4%BF%A1%E4%BD%9B%E6%B3%95%E5%8F%B7%E2%80%9C%E6%A0%BC%E4%B8%B9%E5%A4%AE%E9%87%91%E6%8E%AA%E5%A7%86%E2%80%9D" target="_blank" rel="nofollow">这里</a>”）</p>
+<p>（下面几张照片也是由上述提及的微信帐号发布的，不过该微信内容发布之后不久就被删除）</p>
+<p></p><center><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20150726_5870-300x271.jpg" rel="attachment wp-att-434545"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20150726_5870-300x271.jpg?resize=300%2C271" alt="20150726_5870-300x271" data-recalc-dims="1"></a></center><center><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20150726_6520-300x225.jpg" rel="attachment wp-att-434544"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20150726_6520-300x225.jpg?resize=300%2C225" alt="20150726_6520-300x225" data-recalc-dims="1"></a></center><center><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20150726_7920-300x225.jpg" rel="attachment wp-att-434543"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20150726_7920-300x225.jpg?resize=300%2C225" alt="20150726_7920-300x225" data-recalc-dims="1"></a></center>
+<h3>★作为商业大亨的李小琳</h3>
+<p> </p>
+<h4>◇英国《每日电讯报》曝光的贿赂案</h4>
+<p>BBC（英国广播公司）引述《每日电讯报》的报道，报道的时间是2013年，链接在“<a href="http://www.bbc.com/zhongwen/simp/press_review/2013/10/131011_press_lixiaolin.shtml" target="_blank" rel="nofollow">这里</a>”。下面是部分内容摘录：</p>
+<blockquote><p>前中国总理李鹏之女李小琳被曝涉及一起美国民事诉讼案——她曾经作为中间人帮助达成世界著名的苏黎世保险公司在中国的巨额秘密交易。<br>
+英国《每日电讯报》报道说，该报获得的法庭文件和有关纪录显示出在中国金钱和权力相互勾结的内幕，以及外国公司为了打入这个世界第二大经济体而需要克服的“重重障碍”。<br>
+而此事件的曝光正值中国对腐败进行严打，以及类似葛兰素史克、达能等西方公司在中国受到违规行为调查之际。<br>
+文章表示，李小琳曾经于1995年把苏黎世保险公司的高管介绍给了三位中国商人。这三人在中国最大的私人保险公司新华人寿拥有控股权。<br>
+随后，1690万美元存入了巴哈马群岛一离岸的瑞士信贷户口上，作为回报，三人同意向苏黎世保险出售接近四分之一的股权。而四年之后，外国公司就可以合法投资保险产业。</p></blockquote>
+<p>这桩在美国开庭的贿赂案涉及两位主角：<br>
+张宏伟<br>
+他旗下东方集团是内地首家上市的民营企业，他在2011年福布斯中国富豪榜中排第61位，拥有近百亿人民币资产。他曾任第10届全国政协委员，现时在港上市的民生银行（1988）副董事长、非执董，另外亦是联合能源集团（0467）主席。<br>
+赵竑<br>
+李小琳的老同学，曾经的中国政府官员。于1984年和1992年两度被财政部派往世界银行工作，1994年辞去公职，在美国创办投资咨询公司。1994年，赵竑透过大学同学、东方集团副总裁关国亮结识张宏伟，张委任赵为东方集团总裁助理及驻美代表，直到2009年。</p>
+<p>（下面是《明报》整理的流程图）</p>
+<p></p><center><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1011162250_45796.jpg" rel="attachment wp-att-434542"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1011162250_45796.jpg?resize=500%2C751" alt="1011162250_45796" data-recalc-dims="1"></a></center>
+<h4>◇香港《亚洲周刊》爆光的地产黑幕</h4>
+<p>以下这段摘自香港的《文汇报》（链接在“<a href="http://tj.wenweipo.com/?action-viewnews-itemid-8360" target="_blank" rel="nofollow">这里</a>”），其中引述了《亚洲周刊》对李公主的曝光。这篇报道的时间是2014年。</p>
+<blockquote><p>据报道，有中国电力“一姐”之称的李小琳近年转战地产市场，以不到1万元注册的小公司，获批海南价值逾百亿土地的经营开发权。有媒体爆料指出，为其大开“绿色通道”的正是最近接受调查的时任海南副省长冀文林。<br>
+冀文林去年1月任海南省副省长，去年博鳌论坛後分管海南博鳌项目，不到一年，他批出近千亩土地给一家在海南注册仅几个月的外商独资公司，而这家公司的投资方是李小琳任董事的港资私人公司。<br>
+《亚洲周刊》报导，李小琳透过三个月的运作，获得海南省发改委立项批出博鳌五个地块项目，近千亩土地的经营开发权。一个注册资本仅1万港元(约7,900元人民币)的港资公司，撬动了超过百亿人民币的土地资产。<br>
+海南岛是中国的五个经济特区之一，也是中国面积最大的经济特区。2013年初，国务院同意设立海南博鳌乐城国际医疗旅游先行区。<br>
+报导指出，资料显示，2013年4月11日，李小琳从一家管理人有限公司购置空壳公司，改名为绿色健康发展有限公司。该公司股份数目1万股，是每股面值港币1元的普通公司。<br>
+报导称，去年8月8日，作为博鳌乐城项目开发主体，李小琳取得了海南省商务厅关於设立外商投资企业的批准证书，成立海南绿健生态城市发展有限公司(简称海南绿健)，取得琼海市工商局发出的营业执照，首期注册资本金1亿人民币。</p></blockquote>
+<h4>◇上次“离岸金融解密文件”曝光的离岸公司</h4>
+<p>两年前（2014）已经发生过一次爆料事件，也是针对全球各国权贵开设的离岸公司。其中就有李小琳。<br>
+当时俺专门发了一篇《<a href="https://program-think.blogspot.com/2014/01/china-princelings-offshore-companies.html">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》，这里就节省点口水，不再罗嗦。</p>
+<h4>◇此次“巴拿马文件”曝光的离岸公司</h4>
+<p>前几天轰动世界的“巴拿马文件”，咱们再次发现李公主靓丽的身影（如下）。<br>
+为啥她要用香港护照？因为开设这些离岸公司需要进行背景调查。用了香港护照，巴拿马的律师比较难发现她是李鹏的女儿。</p>
+<p></p><center><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png" rel="attachment wp-att-434027"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?resize=440%2C550" alt="1-Si-O6edP8_5Tu3GOt7MrDQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?resize=240%2C300 240w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-Si-O6edP8_5Tu3GOt7MrDQ.png?w=600 600w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></center><br>
+以下是李小琳通过 Mossack Fonseca 律师事务所开设的离岸公司的架构。图中的“LIU ZHIYUAN”是李小琳的丈夫刘智源。图片来自 ICIJ（国际调查记者同盟）
+<p></p><center><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/40210f2133e959d31523089eb4aef79d.png" rel="attachment wp-att-434541"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/40210f2133e959d31523089eb4aef79d.png?resize=550%2C342" alt="40210f2133e959d31523089eb4aef79d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/40210f2133e959d31523089eb4aef79d.png?resize=300%2C186 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/40210f2133e959d31523089eb4aef79d.png?w=768 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></center><br>
+以下是《纽约时报》的报道（链接在“<a href="http://cn.nytimes.com/china/20160406/c06chinapanama/" target="_blank" rel="nofollow">这里</a>”）
+<blockquote><p>国际调查记者同盟此前曝光过另一对政治上强大的中国夫妇，是前 总理李鹏的女儿李小琳及其丈夫刘智源。泄漏的巴拿马文件显示，李小琳和刘智源是总部设在列支敦士登的一家基金会的拥有者，该基金会拥有一家英属维尔京群岛 的名为Cofic Investments的投资公司。据国际调查记者同盟的报道，该公司一位律师告诉莫萨克-冯塞卡，Cofic通过帮助律师所在事务所的其他客户从欧洲向 中国出口重型机械来盈利。</p></blockquote>
+<p>以下是《德国之声》的报道（链接在“<a href="http://www.dw.com/a-19162432" target="_blank" rel="nofollow">这里</a>”）</p>
+<blockquote><p>国际调查报道记者联盟在其网站公布的“巴拿马文件”介绍，李小 琳与丈夫刘智源是“Fondation Silo”基金的受益权所有人，这一位于列支敦士登的基金是一家于英属维尔京群岛开立的“Cofic Investments Ltd”公司的唯一股东，该公司成立之时，李鹏仍为中国总理。</p></blockquote>
+<h3>★结尾</h3>
+<p> <br>
+看完上面这些，大伙儿有啥感想捏？<br>
+李小琳就是俺经常提及的“权贵”，有“权力”就“富贵”。衙门表面上宣扬“马列主义”，其实天朝已经沦为彻头彻尾的“权贵资本主义”。权贵家族垄断了“权力”这个最重要的政治资源，就可以利用它来垄断其它一切资源（经济、文化、教育、医疗……）。<br><b>难道你想让自己的后代继续生活在这样一个奇葩的国家？</b>是时候想想——如何推翻这个政治制度了。虽然每个普通民众的力量都很渺小，但足够多的人一起努力，效果是很显著的。</p>
+<p><strong>版权声明</strong><br>
+本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者编程随想和本文原始地址：<br>
+https://program-think.blogspot.com/2016/04/Li-Xiaolin.html </p>
+<hr><p><small>© 正能量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%A9%8A%E6%9D%8E%E5%B0%8F%E7%90%B3%E7%9A%84%E7%B2%BE%E5%BD%A9%E4%BA%BA%E7%94%9F%EF%BC%88%E5%A4%9A%E5%9B%BE%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%A9%8A/?category=18271" rel="tag">电婊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%9A%84%E5%AA%92%E4%BD%93%E4%B8%8D%E5%A7%93%E5%85%9A%EF%BC%8C%E5%90%8E%E6%9E%9C%E5%BE%88%E4%B8%A5%E9%87%8D/" target="cdt-mirror">【网络民议】卡梅伦的媒体不姓党，后果很严重</a>
 </h2>
 <p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%EF%BC%9A%E8%8B%B1%E9%A6%96%E7%9B%B8%E6%89%BF%E8%AE%A4%E6%9B%BE%E5%9C%A8%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8%E6%8C%81%E8%82%A1/" target="_blank">BBC｜巴拿马文件：英首相承认曾在离岸公司持股</a></p></blockquote>
@@ -666,121 +876,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91panama%EF%BC%8C%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E7%AD%89%E7%83%AD%E7%82%B92016-4-05/" target="cdt-mirror">【敏感词库】“Panama”、冰岛总理辞职等热点 2016-4-05</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/10/%E6%9D%8E%E5%B0%8F%E7%90%B31.jpg" rel="attachment wp-att-317955"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/10/%E6%9D%8E%E5%B0%8F%E7%90%B31.jpg?resize=400%2C547" alt="李小琳" data-recalc-dims="1"></a><br><i>图片来自网络</i></p>
-<p>［新浪微博搜索禁词测试时间：2016年4月05日］</p>
-<p><strong>Panama</strong><br><strong>总理＋辞职</strong><br><strong>总理＋下台</strong><br><strong> 离岸＋金融</strong><br><strong>小琳＋公主</strong>（指李小琳）<br><strong>习近平姐夫</strong><br><strong>Dengjiagui</strong><br><strong>邓家贵</strong>（复测）</p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/">Du Chen：震惊世界的巴拿马文件事件到底是怎么一回事？</a><br><a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="_blank">【立此存照】墙内新闻网站如何报道冰岛总理辞职原因</a><br>
-相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">巴拿马文件</a></p></blockquote>
-<p><strong>无法跟着你们姓</strong><br><strong> 余少镭＋辞职</strong><br><strong> 余少镭＋姓</strong></p>
-<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%84%8A%E6%A2%81/">【网络民议】共和国脊梁</a><br>
-相关专题：<a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91%E9%95%AD/">余少镭</a></p></blockquote>
-<p><strong>上瘾＋禁播</strong><br><strong> 分享＋太阳的后裔</strong><br><strong> 十年＋金像</strong><br><strong> 十年＋电影</strong></p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E7%BD%91%E5%89%A7%E3%80%8A%E4%B8%8A%E7%98%BE%E3%80%8B-%E9%9F%A9%E5%89%A7%E3%80%8A%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E3%80%8B-%E6%B8%AF%E7%8B%AC/">【真理部】《上瘾》《太阳的后裔》《十年》等</a><br><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/">【CDTV】香港金像奖最佳电影《十年》</a></p></blockquote>
-<p><strong>疫苗＋习</strong></p>
-<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%95%B0%E4%BA%BF%E5%85%83%E7%96%AB%E8%8B%97%E6%9C%AA%E5%86%B7%E8%97%8F%E6%B5%81%E5%85%A518%E7%9C%81%E4%BB%BD%EF%BC%9A%E6%88%96%E5%BD%B1%E5%93%8D/">【真理部】《数亿元疫苗未冷藏流入18省份：或影响人命》</a><br>
-相关专题：<a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/">山东疫苗事件</a></p></blockquote>
-<p><strong>弹弓</strong></p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E9%BA%BB%E9%9B%80%E8%99%BD%E5%B0%8F%EF%BC%8C%E5%8D%B4%E5%8F%AF%E8%83%BD%E6%8C%A1%E4%BD%8F%E5%A4%AA%E9%98%B3%E7%9A%84%E5%85%89%E8%BE%89%EF%BC%9A%E6%AF%9B/">知识分子 | 麻雀虽小，可能挡住太阳的光辉：毛时代的公共决策</a></p></blockquote>
-<p><strong>撒币</strong></p>
-<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/">大撒币</a></p></blockquote>
-<p><strong>无官正</strong></p>
-<p><strong>怡红院</strong></p>
-<p><strong>春暖花开</strong>（截至发稿时已解禁）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Panama.png?resize=475%2C185" alt="Panama" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Panama.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Panama.png?resize=768%2C300 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Panama.png?w=769 769w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%80%BB%E7%90%86-%E8%BE%9E%E8%81%8C.png" rel="attachment wp-att-434324"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%80%BB%E7%90%86-%E8%BE%9E%E8%81%8C.png?resize=475%2C208" alt="总理 辞职" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-辞职.png?resize=300%2C131 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-辞职.png?resize=768%2C336 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-辞职.png?resize=1024%2C448 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-辞职.png?w=2332 2332w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%80%BB%E7%90%86-%E4%B8%8B%E5%8F%B0.png" rel="attachment wp-att-434323"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%80%BB%E7%90%86-%E4%B8%8B%E5%8F%B0.png?resize=475%2C204" alt="总理 下台" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-下台.png?resize=300%2C129 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-下台.png?resize=768%2C330 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-下台.png?resize=1024%2C440 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/总理-下台.png?w=2338 2338w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%A6%BB%E5%B2%B8%EF%BC%8B%E9%87%91%E8%9E%8D.png?resize=476%2C188" alt="离岸＋金融" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/离岸＋金融.png?resize=300%2C118 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/离岸＋金融.png?resize=768%2C303 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/离岸＋金融.png?w=773 773w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%B0%8F%E7%90%B3-%E5%85%AC%E4%B8%BB.png" rel="attachment wp-att-434325"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%B0%8F%E7%90%B3-%E5%85%AC%E4%B8%BB.png?resize=475%2C207" alt="小琳 公主" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/小琳-公主.png?resize=768%2C334 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/小琳-公主.png?resize=1024%2C445 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/小琳-公主.png?w=2332 2332w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dengjiagui.png" rel="attachment wp-att-434320"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dengjiagui.png?resize=475%2C234" alt="dengjiagui" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dengjiagui.png?resize=300%2C148 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dengjiagui.png?resize=768%2C379 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dengjiagui.png?resize=1024%2C505 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dengjiagui.png?w=2328 2328w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%82%93%E5%AE%B6%E8%B4%B5.png" rel="attachment wp-att-434321"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%82%93%E5%AE%B6%E8%B4%B5.png?resize=475%2C206" alt="邓家贵" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邓家贵.png?resize=300%2C130 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邓家贵.png?resize=768%2C333 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邓家贵.png?resize=1024%2C443 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邓家贵.png?w=2346 2346w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%97%A0%E6%B3%95%E8%B7%9F%E7%9D%80%E4%BD%A0%E4%BB%AC%E5%A7%93.png?resize=476%2C187" alt="无法跟着你们姓" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/无法跟着你们姓.png?resize=300%2C118 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/无法跟着你们姓.png?resize=768%2C302 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/无法跟着你们姓.png?w=769 769w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BD%99%E5%B0%91%E9%95%AD%EF%BC%8B%E8%BE%9E%E8%81%8C.png?resize=475%2C185" alt="余少镭＋辞职" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/余少镭＋辞职.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/余少镭＋辞职.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/余少镭＋辞职.png?w=770 770w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BD%99%E5%B0%91%E9%95%AD%EF%BC%8B%E5%A7%93.png?resize=476%2C185" alt="余少镭＋姓" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/余少镭＋姓.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/余少镭＋姓.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/余少镭＋姓.png?w=771 771w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%B8%8A%E7%98%BE%EF%BC%8B%E7%A6%81%E6%92%AD.png?resize=475%2C185" alt="上瘾＋禁播" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/上瘾＋禁播.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/上瘾＋禁播.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/上瘾＋禁播.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%88%86%E4%BA%AB%EF%BC%8B%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94.png?resize=474%2C185" alt="分享＋太阳的后裔" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/分享＋太阳的后裔.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/分享＋太阳的后裔.png?resize=768%2C299 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/分享＋太阳的后裔.png?w=772 772w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%81%E5%B9%B4%EF%BC%8B%E9%87%91%E5%83%8F.png?resize=475%2C186" alt="十年＋金像" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/十年＋金像.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/十年＋金像.png?resize=768%2C300 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/十年＋金像.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%81%E5%B9%B4%EF%BC%8B%E7%94%B5%E5%BD%B1.png?resize=476%2C185" alt="十年＋电影" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/十年＋电影.png?resize=300%2C116 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/十年＋电影.png?resize=768%2C298 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/十年＋电影.png?w=770 770w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%96%AB%E8%8B%97%EF%BC%8B%E4%B9%A0.png?resize=476%2C186" alt="疫苗＋习" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/疫苗＋习.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/疫苗＋习.png?resize=768%2C300 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/疫苗＋习.png?w=771 771w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BC%B9%E5%BC%93.png?resize=476%2C186" alt="弹弓" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/弹弓.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/弹弓.png?resize=768%2C300 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/弹弓.png?w=775 775w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%92%92%E5%B8%81.png?resize=476%2C211" alt="撒币" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/撒币.png?resize=300%2C133 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/撒币.png?resize=768%2C340 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/撒币.png?w=775 775w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%97%A0%E5%AE%98%E6%AD%A3.png?resize=476%2C210" alt="无官正" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/无官正.png?resize=300%2C132 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/无官正.png?resize=768%2C339 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/无官正.png?w=771 771w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%80%A1%E7%BA%A2%E9%99%A2.png?resize=476%2C185" alt="怡红院" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/怡红院.png?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/怡红院.png?resize=768%2C298 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/怡红院.png?w=770 770w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.png?resize=474%2C276" alt="春暖花开" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/春暖花开.png?resize=300%2C175 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/春暖花开.png?resize=768%2C447 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/春暖花开.png?w=771 771w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91panama%EF%BC%8C%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E7%AD%89%E7%83%AD%E7%82%B92016-4-05/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%B0%91%E9%95%AD/?category=18271" rel="tag">余少镭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%83%8F%E5%A5%96/?category=18271" rel="tag">金像奖</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E5%BC%A0%E9%93%81%E5%BF%97%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9D%A5%E5%BE%97%E5%8F%8A/" target="cdt-mirror">金融时报 | 张铁志：现在还来得及</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/000060364_piclink.jpg?resize=600%2C338" alt="000060364_piclink" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/000060364_piclink.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/000060364_piclink.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>2014年，台湾和香港都经历了历史性的公民运动。</p>
-<p>一年后，台湾的金曲奖把“年度最佳歌曲”颁给了独立乐队灭火器为“太阳花运动”所写的歌曲《岛屿天光》。这既是一个文化也是一个政治的历史时刻：金曲奖这个台湾流行音乐最重要奖项首次把年度最佳歌曲颁给一个独立乐队，并且是一首诞生于社会抗争的歌曲。</p>
-<p>这不是一个孤立的事件，而是反映出台湾社会这几年来的剧烈变迁。</p>
-<p>而在香港“雨伞运动”一年多后，香港电影金像奖最佳电影奖颁给了一部本地独立制片、一部非常政治的影片《十年》。这不仅是香港年度文化事件，也会是这个时代的重要记忆。</p>
-<p>然而，后“太阳花”的台湾，气氛是昂扬的，年轻人觉得被empowered：他们让柯文哲当选市长，让国民党倒台和小英上台，他们觉得他们可以改变些什么。</p>
-<p>但香港却是相反：后“雨伞”的气氛是低迷的、是挫败的，只有主张自决甚至独立的本土思潮，并且，勇武抗争越来越受到年轻人支持，而越来越少人相信透过体制可以改变香港。</p>
-<p>《十年》这部影片的成本约五十万港元，由五部短片分别想象十年后的香港：政府为了推动国安法而暗杀议员以制造混乱；普通话和简体字成为香港主流，不懂普通话的的士司机无法去中环载客；本地农业受到挤压、书籍被查禁，而香港少年如红卫兵般去和还有本土意识的上一代斗争；一对恋人以制作标本的方式保卫城市“被消失”的事物，但却充满无力感；最激烈的一部片在“二十三条”已立法的香港，有人为了“港独”而自焚。</p>
-<p>上片初期只有个别影院播放，但口碑越来越好，一个月后《环球时报》发表社评批评《十年》“宣扬绝望”，“带给香港社会的害处很可能大过好处”，且说该片票房只有300多万，显示电影影响的只是香港小众。</p>
-<p>小众很快成为大众，两个月后，《十年》票房累积至600万港元，连续3周跻身香港十大卖座电影，并继续由公民团体组织在香港各大小区放映，反应热烈。</p>
-<p>然后，这部影片拿到了香港电影金像奖最佳影片。</p>
-<p>不少人质疑这部影片艺术性不够，以及颁奖的动机是政治性的。当然，一部电影的艺术性是见仁见智的，此前许多商业片拿奖也都是可被争议；而最佳影片到底是什么判准，每个人心中的尺也都不同──一种看法便是，可以反映某个时代人心的渴望与焦虑到了成为现象的地步，乃是年度影片的重要精神。</p>
-<p>无论如何，当《十年》不只是属于一种反抗的姿态，而被香港最主流的电影奖项所接受，确实代表香港人心之剧烈转变。</p>
-<p>看看从去年十二月《十年》上映至今为止的香港发生了什么事：铜锣湾书店老板被消失、警察和民众严重流血冲突的旺角骚动、“以本土主义为纲，勇武抗争为实，坚守港中区隔”的参选人在新界东补选中15%得票率，“学民思潮”宣布停止。</p>
-<p>这是一个极为焦虑与惶惶然的香港，而绝望的年轻人只能越来越激进化，或者用另一种文化方式去表达他们的困顿与不满。</p>
-<p>如去年香港政治讽刺网络节目“毛记电视”颁奖典礼，就造成热潮，人们在城市不同角落聚集起来一起看；《十年》也在四月一日于30个以上小区同步举行放映会和映后导演的在线对谈。可以说，这些香港青年世代的集体是对这些具有浓厚本土情怀的文化想象的肯认，是对当下的拒绝，更是对另一种未来的渴望。</p>
-<p>《十年》对未来的想象是悲观的。此前另一部获得近百万观赏次数的独立短片《香港将於33年后毁灭》，讲的是一个陨石将在33年后击中香港，于是财团很快就逃走了，股市也垮了，大陆自由行观光客不来了──但香港不但没有死亡，反而展现另一种生机。</p>
-<p>那是对未来的乐观想象，但却是因为可能的巨大冲击才造成这种转变。如果没有那个来自外层空间的冲击，香港有可能改变自己的命运吗？</p>
-<p>这是当下的香港最迫切的命题，但香港主流电影工业却无能反思这些问题，偶尔电影中的政治暗喻就能让大家兴奋得不得了。这或许是因为，香港电影工业的主流大部分是合拍片，而中港合作的影片怎可能去讨论最敏感的中港矛盾呢？这是香港文化的最大吊诡。</p>
-<p>《十年》或许有不少瑕疵，或许许多人不同意其观点，但这部影片代表的是香港这一代青年在主流电影界回避思考自身的命运时，愿意去质问他们的未来，并提醒人们，这个岛屿将走向人们不想见到的未来──如果这个城市的人不尝试夺回他们的未来十年。</p>
-<p>“现在还来得及”──这是电影最终的字幕。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E5%BC%A0%E9%93%81%E5%BF%97%EF%BC%9A%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9D%A5%E5%BE%97%E5%8F%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">中港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8%EF%BC%8C%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">公民运动，中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%B9%B4/?category=18271" rel="tag">十年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E5%8C%96/?category=18271" rel="tag">大陆化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">独立电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【网络民议】冰岛这届人民不行</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%AC%E4%B8%BB%E5%A7%90%E5%A4%AB.png" rel="attachment wp-att-434311"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%AC%E4%B8%BB%E5%A7%90%E5%A4%AB.png?resize=585%2C316" alt="公主姐夫" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?resize=300%2C162 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?resize=768%2C415 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?resize=1024%2C553 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/公主姐夫.png?w=1059 1059w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>“姐夫”和“公主”；国际调查记者同盟“巴拿马文件”<span><a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a></span>截图</span></p>
-<p>在国际调查记者同盟曝光的“<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>”中，冰岛总理与妻子的名字赫然在列。该国随即爆发了大型示威，大量民众上街要求总理辞职。周二，冰岛总理宣布辞职，成为了第一个因巴拿马文件泄露事件而下台的政客。</p>
-<p>然而由于中共宣传部门迅速为此下达了<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="_blank">禁令</a>，并同时对网络上的相关新闻及评论进行了非常严格的审查，从而导致了一种“墙外狂风暴雨，墙内岁月静好”的现象。目前中国大陆媒体在报道冰岛总理辞职新闻时均采用了新华社通稿。该通稿<a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="_blank">刻意避开</a>了“巴拿马文件”和当地爆发的大型示威，称其辞职是因为“没有申报与妻子共同拥有一家公司的情况”，是被反对党要求的。</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>专题</li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="_blank">【立此存照】墙内新闻网站如何报道冰岛总理辞职原因</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C-%E5%85%9A%E5%AA%92%E5%88%A0%E5%B8%96%E5%BE%88%E8%A1%8C/" target="_blank">【网络民议】这届人民不行</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C%E4%B8%AD%E5%9B%BD%E8%A1%80%E7%BB%9F/" target="_blank">【立此存照】平行世界 · 中国血统</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@深度News官网：【冰岛总理辞了！】冰岛这一届人民真行！两万人堵总理家门口，总理就怂了。速度够快！也就一天时间！</p>
-<p>@WINDMESSY：刁民太多，不好治理，老子不干了！</p>
-<p>@十年砍柴:冰岛这届人民配不上政府。哼。</p>
-<p><strong>@冰镇镇镇汽水儿：本来还不信是真的，感谢屏蔽和辟谣，彻底相信了这下</strong></p>
-<p><strong><a href="http://weibo.com/5644889998" target="_blank">@我们的世界015</a>：冰岛总理太无能了，才两万人就搞掉了政府。我天朝有三个强行代表，有三个流氓自信，有军队坦克车…所以么，我们决不搞西方那一套。<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"><img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></strong></p>
-<p><a href="http://weibo.com/1210480135" target="_blank">@爱吃火锅的猫</a>：这个总理太怂了，都不知道用水箱上街来解决问题。笨<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p>@爱何必暧昧：回复@爱吃火锅的猫:应该上机枪坦克大炮，人民不行就应该换人民！居然敢颠覆政权？打倒反动派，打倒反革命，打倒冰奸，打倒卖冰贼……总理万岁！坚决拥护总理，紧紧地围绕在总理周围！</p>
-<p>@静观而后动 ： 看来冰岛总理连捕风捉影的事情也扛不住</p>
-<p>@百玖：他妈的…冰岛总理甘劳格森你他妈的你那张逼脸值多少钱啊…假装没听见不就行了吗…你他妈的你不会厚着逼脸像一些无耻的人一样说你的时代才刚刚开始吗………</p>
-<p>@郝老实 ： 人民怎么能这样对总理？素质这么低，这届的冰岛人民真不行</p>
-<p>@烂柯山 ： 冰岛总理缺乏自信！如果有三个自信在握，怕个鸟啊！</p>
-<p>@小散大木：这届冰岛人民不行，不知道俄罗斯人民行不行</p>
-<p>@—天高云淡—–：冰岛共产党在哪里？站出来告诉他们，要相信党！</p>
-<p><strong>@Ffthfbhfmhrfcyeefyhfdh：为什么防火墙和坦克车还没有上</strong></p>
-<p>@云承宇0r：真没劲儿，看这总理当的好好怂。屁大点事儿一天就投降了，城管呢，特警呢？协警呢？公安呢！武警呢？哦，当然还有坦克。</p>
-<p>@唐僧日日逛青楼：在天朝不要说2万了！就是20个人动警察！200个动特警！2000特警武警一起上！2万直接开坦克来了还让你游行！分分钟压死你！</p>
-<p>@昇chairman三世：你国这一届GCD真行！删帖销号抓人，人民就怂了。速度够快！也就一天时间！</p>
-<p>@黄活活：没有镇压就辞职了 总理还是不入戏</p>
-<p><strong>@世上最无用：中俄在paper上比他更重，冰岛真真九牛一毛，但是没用，别说散步了，反击，讨论，自辩这些过场也不会有。上来直接封锁消息，绝大多数国人已经不会知道了。</strong></p>
-<p>@想起讪讪：果然不是特殊材料做的，这点脸皮也敢当政客？</p>
-<p>@遇见平庸：图片评论<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e39fe256gw1f2mlw3v7pgj20ku112q7g.jpg" rel="attachment wp-att-434308"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e39fe256gw1f2mlw3v7pgj20ku112q7g.jpg?resize=375%2C667" alt="e39fe256gw1f2mlw3v7pgj20ku112q7g" data-recalc-dims="1"></a></p>
-<p><strong>@佛山笨笨猪：墙内世界，岁月静好</strong></p>
-<p><a href="http://weibo.com/2617432087" target="_blank">@Winnie的少女心少女病</a>：总感觉最近翻不过墙就是因为这个<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p><strong><a href="http://weibo.com/1073638260" target="_blank">@yanyanyanyansday</a><i title="微博达人"></i>：<a href="http://huati.weibo.com/k/%E8%AE%BA%E5%A2%99%E7%9A%84%E4%BC%98%E7%82%B9?from=501" target="_blank">#论墙的优点#</a> 发生某事件—>敏感词+1—>惠风和畅，岁月静好<img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9085.png?resize=20%2C20" alt="" px data-recalc-dims="1"></strong></p>
-<p>@MrChen要开心：公主和姐夫会变敏感词吧……</p>
-<p>@宋指导叫了四年毕业了：冰岛网信办领导是不是要自裁？</p>
-<p>@倦逸散人：什么事件啊？我们都不知道~~~墙里的世界好幸福！</p>
-<p>@Tunick：大家不要慌，我们这不会受影响，中国梦还在</p>
-<p>@topleftcorner：”所谓泄露的文件里，一堆堆的son，son，son和son in law，son in law，brother in law 里，小琳作为唯一一个daughter，真是一股清流。。。” #豆瓣式反讽#</p>
-<p>@羊定志：全球因为某某事件闹翻天，国内静悄悄</p>
-<p>@Bok-2：以后英语可能会被归入政治课，想学英语之前首先进行政审，通过才可以学。</p>
-<p>@大脸猫1105：各国贪官表示：十分想移民中国！不用辞职、不用解释，删帖就行。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -792,7 +887,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -802,5 +897,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

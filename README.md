@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81cnpolitics-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%8F%B0%E6%B9%BE%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%AE%A4%E5%90%8C%EF%BC%9F/" target="cdt-mirror">政见CNPolitics | 如何理解台湾人的国家认同？</a>
+</h2>
+<p><p>作者：尹月，政见观察员</p>
+<blockquote><p>摘要：大多数台湾人之所以不强烈排斥 “中国人” 这一身份认同，主要还是源于两岸切不断的同源文化。当政治、地理环境等外生因素不断把台湾推离大陆时，民族文化这一内生因素却在起着反作用。</p></blockquote>
+<p>“然而你可知道，福尔摩沙 （“台湾” 的葡语音译名） 也不是真的美丽岛，因为这里埋藏着过去和未来的悲剧。我们的祖先也曾见证过黑暗与光明，然而为何我们还不愿承受先人的典范，还在犹豫乡愁的方向？” —— 台湾学者吴叡人</p>
+<p>2016 年，帝吧出征 “脸书”、民进党领袖蔡英文台湾大选获胜等事件，再度将台湾人的国家认同拉入公众视线。台湾人如何看待 “中国”？还有多少台湾人认为自己是 “中国人”？台湾与大陆同说国语、同写汉字，在文化上一脉相承，就连饮食习惯也很相似，为何台湾人却对 “祖国” 如此疏离？</p>
+<p>针对这些疑问，上海交通大学教授钟杨在 《当代中国研究》 杂志上撰文指出，虽然大部分台湾人倾向于斩断自己与中国大陆的联系，但出于对中国文化的认同和亲近，却并没有排斥 “中国人” 这一身份认同。</p>
+<p><strong>国家/民族认同是什么？</strong></p>
+<p>国家 / 民族认同 （national identity） 是政治心理学中的重要概念，定义复杂，但归根结底指一种归属感 —— 对于 “我是谁？”“我属于哪个国家 / 民族？” 的判断和体认。</p>
+<p>国家 / 民族概念中还包含对民族 （nation） 的认识。这种认识又可以分为国家 / 政治和民族文化 （ethno-culture） 两个维度。对民族文化的情感认识是国家认同感的核心，其形成过程很漫长，但扎根后便难以变更。</p>
+<p>美国学者本尼迪克特 • 安德森为民族赋予 “想象的政治共同体” 这一经典定义，即国家 / 民族认同来源于个体意识的凝聚。引用安德森的名言：“尽管在每个民族内部可能存在普遍的不平等与剥削，民族总是被设想为一种深刻平等的同志爱。正是这种友爱关系在过去两个世纪中，驱使数以百万计的人们甘愿为民族 —— 这个有限的想象 —— 去屠杀或从容赴死。”</p>
+<p><strong>台湾人的国家认同感</strong></p>
+<p>为调查台湾人的国家认同感，台湾舆论调查公司 “台湾指标民调”（TISR） 于 2014 年 10 月 6 日至 9 日，向居住在台湾 22 个市县的 1072 名受访者进行了电话调查。基于这批数据，并辅以国立政治大学选举研究中心 （NCCU） 和亚洲民主动态调查的调查结果，研究者对台湾人的国家认同进行了全面考察。</p>
+<p>过去 20 余年间，台湾人的国家认同发生了极大变化。1989 年，台湾 《联合报》 率先对台湾居民的国家认同感实施了调查。结果显示，超过半数的受访者认为自己是 “中国人”（52%），而将自己视为 “既是中国人也是台湾人” 以及 “仅是台湾人” 的受访者分别为 26% 和 16%。<br>
+25 年后的 2014 年，这一格局发生了剧变。20 世纪 90 年代初至今，政大选举研究中心对台湾居民的国家认同所进行的调查，提供了长期可靠的数据。2014 年的数据显示，超过 60％ 的受访者认为自己是 “台湾人”，而将自己视为 “中国人” 的受访者比例大幅降至 10％ 以下。另外，认为自己 “既是中国人也是台湾人” 的受访者比例也从 1992 年的 46.4％ 降至 33.7％（图 1）。“台湾指标民调” 也得到了相仿的结果。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%887.16.46.png?resize=597%2C399" alt="Screen Shot 2016-04-09 at 上午7.16.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.16.46.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.16.46.png?w=597 597w" sizes="(max-width: 597px) 100vw, 597px" data-recalc-dims="1"><br>
+图一：台湾民众台湾人 / 中国人认同趋势</p>
+<p>不过，研究者认为，虽然这批数据显示大部分台湾人仅将自己视为 “台湾人”，但尚有 1/3 的台湾人并未放弃 “中国人” 的身份认同。鉴于此，研究者在调查问卷中加入了一个新问题：“从血缘和文化来看，你认为自己是哪国人？” 受访者的回答立刻出现较大变化。</p>
+<p>53.8％ 的受访者认为自己 “是中国的一分子”，25.2％ 认为自己 “既是中国人也是台湾人”，再加上将自己定位为 “中国人” 的受访者（3.2％），共有超过 80％ 的受访者对自己的 “中国人” 身份表示认同。同时，对于 “台湾的官方名称是中华民国，你认为中华民国的居民应被称为中国人吗？” 这一问题，60％ 以上的受访者表示不赞成。可见，尽管大部分台湾人已清醒地意识到 “中国＝中国大陆（而非中华民国/台湾）”，但他们仍然没有排斥 “中国人” 这一身份认同。</p>
+<p><strong>台湾人的国家认同感是如何形成的？</strong></p>
+<p>那么，这种混杂矛盾的国家认同感是如何形成的呢？研究者对此进行了解释。</p>
+<p>首先，中华人民共和国和中华民国如今国际地位的起落，使台湾人逐渐扬弃 “中华民国” 的称谓，惯于在国际社会使用 “台湾” 的名号，以强化在国际社会独立行动的 “台湾” 的国家认同感。</p>
+<p>其次，对 “统独” 的看法也影响着台湾人的国家认同。政大选举研究中心 2014 年的问卷调查结果显示，选择 “维持现状，留待日后解决” 和 “永远维持现状” 的受访者最多，两者相加后接近总人数的 60％。以下依次为 “偏向独立”（16.4％）、“偏向统一”（7.4％）、“坚决独立”（4.7％）、“坚决统一”（1.7％）。另有 14.2％ 的受访者没有作答 （图 2）。对调查数据的回归分析显示，独立倾向较强的受访者更倾向于认为自己 “仅是台湾人”。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%887.17.39.png?resize=580%2C419" alt="Screen Shot 2016-04-09 at 上午7.17.39" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.17.39.png?resize=300%2C217 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.17.39.png?w=580 580w" sizes="(max-width: 580px) 100vw, 580px" data-recalc-dims="1"><br>
+图二：台湾民众独立趋势分布</p>
+<p>虽然有许多学者认为不同的政治制度是台湾人对统一持犹豫态度的主因，但研究者发现，对于 “如果两岸政治制度相同，你会支持统一吗？” 这一问题，尽管支持统一的受访者比例略有上升，但对此持否定态度的受访者仍超过半数。可见，意识形态分歧并非左右 “统独” 态度的决定因素。一个更简单的解释是，大部分台湾人不愿与中国大陆 “藕断丝连”，却赞成双方互不相扰，故此选择切割中国人的身份认同，转而投向台湾的 “怀抱”。</p>
+<p>第三，台湾人的国家认同感还取决于他们对中国大陆政府和人民的态度。调查显示，对中国政府和人民抱有好感的台湾人分别占 12％ 和 22％。回归分析也显示，对大陆的好感越少，就越倾向于对 “台湾人” 的身份保持强烈认同。</p>
+<p><strong>两岸同源文化的作用</strong></p>
+<p>研究者最后对台湾文化的影响力进行了分析。当被问及 “你认为台湾人最重要的标志是什么？” 时，被访者的答案出现分歧。44.9％ 认为只要居住或就职于台湾就可以算作台湾人，而另有 39.2％ 则认为 “认同台湾文化和历史” 是成为台湾人的首要条件。选择这两个答案的受访者比例均没有过半，可见台湾本土文化尚未普及深化。</p>
+<p>根据东亚民主动态调查数据，尽管 “去中国化” 和民主化在台湾推行多年，但台湾人对中国传统政治文化的认识依然与大陆人高度趋同。这一发现说明，大多数台湾人之所以不强烈排斥 “中国人” 这一身份认同，主要还是源于两岸切不断的同源文化。</p>
+<p>回到本文开头对 “国家 / 民族认同” 定义的解释，当政治、地理环境等外生因素不断把台湾推离大陆时，民族文化这一内生因素却在起着反作用。</p>
+<p>受历史因素影响，台湾人的国家认同感及其成因极为复杂，本文介绍的研究为解释这一 “难产中的想象” 提供了宝贵尝试。</p>
+<h5><span>参考文献：</span><br><span> Zhong, Y. (2016). Explaining national identity shift in Taiwan. Journal of Contemporary China, 1-17.</span></h5>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81cnpolitics-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%8F%B0%E6%B9%BE%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%AE%A4%E5%90%8C%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">民族国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E8%AE%A4%E5%90%8C/?category=18271" rel="tag">民族认同</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E8%BA%AB%E4%BB%BD/?category=18271" rel="tag">民族身份</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 30分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%93%E8%AE%BF%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E6%9C%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%88%90%E4%B8%BA%E7%8E%8B%E5%B2%90%E5%B1%B1%E5%8F%8D%E8%85%90%E9%87%8D%E8%A6%81%E7%BA%BF/" target="cdt-mirror">美国之音｜专访调查记者：望巴拿马文件成为王岐山反腐重要线索</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg" rel="attachment wp-att-434643"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?resize=575%2C323" alt="4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
@@ -771,44 +812,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%A9%E5%A5%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5%E4%B9%8B%E5%90%8E%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%9A%84%E5%8C%85%E8%A3%B9%E4%BD%95/" target="cdt-mirror">财经网 | 深圳禁摩限电之后快递小哥的包裹何处安放？</a>
-</h2>
-<p><p>每经记者 肖乐</p>
-<p>近日，一场史上最严“禁摩限电”活动席卷深圳。来自深圳交警的数据显示，在这轮自三月下旬开始的整治行动中，全市已经查扣电动车17975辆。</p>
-<p>城市道路安全与快递等行业用车之间的矛盾在这次“严打”行动下尤为凸显，不少快递从业人员表示，“禁摩限电”影响巨大。</p>
-<p>所谓“禁摩限电”集中整治，是指对无证驾驶摩托车，利用电动自行车、电动三轮车兜客揽客实施非法营运，或违规使用电动（机动）三轮车等行为，以及“涉摩涉电”暴力抗法行为，触犯有关法律法规的，一律依法行政拘留或刑事拘留。</p>
-<p>申通深圳华强北站点主管罗先生告诉《每日经济新闻》记者，他们要求快递员在小区里用手推车送货，但他们对于电动三轮车的依赖极高，如果政策继续下去，无疑会给他们带来很大影响。而顺丰公共事务部工作人员则向记者表示，“禁摩限电”给顺丰带来的影响不大。</p>
-<p><strong>●快递企业：一天10多吨货 小推车怎么够</strong></p>
-<p>自3月21日开始，深圳交警部门在全市范围内开始了新一轮“禁摩限电”集中整治行动，地铁口、公交站点、口岸、商业繁华区等区域聚集非法拉客的，一律拘留；违规使用电动三轮车的，4月1日起一律拘留。</p>
-<p><strong>主要依靠电动车解决“最后一公里”问题的快递企业在此轮“严打”中“受伤严重”。据媒体报道，有快递企业直言，因派件车辆不敢上路派送和接件，日接件量大幅下降，另一些快递企业则表示，待交警下班后才收派快递。</strong></p>
-<p>申通深圳华强北站点主管罗先生则告诉《每日经济新闻》记者，他们在行动开始前收到了通知，已经要求快递员在小区里用手推车送货，但是这势必影响配送效率，增加人力成本。据《每日经济新闻》记者了解，申通华强北站点共有40名快递员，每天的送货量在10吨以上，禁掉电动车对其运送效率无疑是一个沉重的打击。</p>
-<p>随着电子商务的发展，<strong>快递企业的包裹量越来越大，因为电动两轮车装的货太少，而小货车无法深入“最后一公里”，所以电动三轮车是快递员们的首选。“都是些小街小巷，小货车怎么进得去嘛。”宅急送一名快递员对记者说道。</strong></p>
-<p>罗先生向记者表示，这些电动三轮车都是快递员自己出钱购置的，单价为2000多元，是他们的谋生工具，“希望政府给快递行业电动三轮车一条出路。但如果非要禁的话，我们也只能配合。”罗先生无奈道。</p>
-<p><strong>●深圳交警：三轮车不能用于送快递</strong></p>
-<p>对于快递行业使用电动三轮车的问题，深圳交警的态度是明确的。</p>
-<p>“由于对电动三轮车至今还没有国家标准，因此现在的电动（机动）三轮车均属非法生产，也无法取得牌照，更不能上路行驶。因此也同样不能用于送快递。”深圳交警局相关负责人在4月5日的新闻通气会上表示。</p>
-<p>实际上，国家曾经在2014年出台过快递行业电动三轮车技术标准，标准明确了电动三轮车的安全性要求，在车辆的尺寸限值、装载质量、最高车速、制动距离、机械性能等多项指标上均有明确规定。</p>
-<p>不过，这项标准只是行业推荐，而非强制性执行标准。</p>
-<p>“现在的电动三轮车基本全部是改装的，这些三轮车连邮政部门推荐的行业标准也达不到。”<strong>深圳交警相关负责人说道，“深圳的道路资源非常紧张，不可能提供过多的道路资源给三轮车。”</strong></p>
-<p>尽管不受政策待见，但电动三轮车因其廉价、便捷的优势，在快递行业的使用率非常高。据了解，在深圳的一些区域，快递行业使用电动三轮车的占到九成以上。</p>
-<p>深圳交警局相关负责人在通气会上表示，目前对于快递企业有个过渡期，过渡期内对快递行业使用未备案的两轮电动车及电动（机动）三轮车的，如无其他严重交通违法行为，暂缓查扣、拘留。此外，待快递业专用电动三轮车国家标准出台后，将根据深圳的实际情况，研究制定分区域、分路段的具体政策。</p>
-<p>一边是快递小哥的“躺枪”引起了网上热议，一边是各类电动车在街头“横行”，成为城市交通治理的老大难问题。规范管理电动车与快递“最后一公里”之间的矛盾日益突出，正在考验城市交通管理者的智慧。</p>
-<p><strong>●唯一出路：置换三轮车？</strong></p>
-<p>在5日的通气会上，<strong>深圳交警局相关负责人表示，三轮车不是快递唯一的方式，“两轮电动车、自行车，甚至人力运送都是可选择的</strong>，我们正在研究哪种方式更适合深圳，研究不同地区时段配合不同的运送方式。”</p>
-<p>目前，合法合规上路的快递两轮电动车必须在深圳交警局备案，而可备案的配额对于飞速发展的快递行业来说也不太够。</p>
-<p>《每日经济新闻》记者了解到，自2012年开始，深圳开始对邮政、快递等行业实行备案制，由行业协会向深圳市交警局申请。但深圳的快递业规模以年均30%以上的速度在增长，而配额数量仍然是2012年给的1.3万辆，近期才新增了5000个配额。对此，深圳交警方面表示，会协同行业协会进行调研，动态调整配额。</p>
-<p>顺丰公共事务部工作人员向《每日经济新闻》记者表示，顺丰从2012年开始进行两轮电动车备案，每年的配额都会进行动态调整，“有一定的缺口，因此我们也一直在向行业协会争取增加备案的数量。”她说，“顺丰靠两轮电动车、手推车和货车运送快递，基本没有电动三轮车。”</p>
-<p>另外，深圳交警相关负责还表示，<strong>目前也在推进新能源小货车在快递行业的使用。</strong>据深圳市快递行业协会秘书长郭小梅介绍，<strong>新能源小货车的价格在6万~8万，政府会给予企业2万~3万元的补贴</strong>，不过，“<strong>新能源货车对于快递企业来说，最关键的不是价格问题，而是充电问题</strong>。快递跑的时间一般很长，必须要能够很方便地充上电。”</p>
-<p>而对于车辆置换成本最终是否会转嫁到消费者头上，造成快递费涨价，郭小梅表示：“逻辑上是这样，但价格要看市场调节情况。”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfZ0rd-UIAABl6f.jpg?resize=600%2C590" alt="CfZ0rd-UIAABl6f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfZ0rd-UIAABl6f.jpg?resize=300%2C295 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfZ0rd-UIAABl6f.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5%E4%B9%8B%E5%90%8E%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%9A%84%E5%8C%85%E8%A3%B9%E4%BD%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6/?category=18271" rel="tag">交警</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A/?category=18271" rel="tag">公共交通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%AB%E9%80%92%E4%B8%9A/?category=18271" rel="tag">快递业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">深圳禁摩限电</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8A%A8%E8%BD%A6/?category=18271" rel="tag">电动车</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -820,7 +823,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -830,5 +833,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

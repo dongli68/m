@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%9D%83%E8%B4%B5%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6-%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E5%AD%90%E8%83%A1%E5%BE%B7%E5%8D%8E%E7%8E%87%E5%85%88%E6%AD%A3/" target="cdt-mirror">自由亚洲｜中国权贵卷入巴拿马文件 胡耀邦之子率先正面回应</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg" rel="attachment wp-att-434610"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?resize=550%2C465" alt="前中共总书记胡耀邦之子胡德华。（Public Domain）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?resize=300%2C254 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?w=622 622w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>前中共总书记胡耀邦之子胡德华。（Public Domain）</p></div>
+<p>巴拿马文件风波仍在持续，已披露中国9名前任和现任高级领导人的家属或关连人士涉及其中，但中国当局持续封锁消息。4月7日，前中共总书记胡耀邦之子胡德华，对自己被曝光在巴拿马文件中榜上有名，首先作出公开回应。他表示，他注册离岸公司用的是真实身份和地址，堂堂正正，而且有关公司早已停止运营。</p>
+<p>“巴拿马文件”截至目前，已公布了9名中国前任和现任的高级领导人的家属或关联人士拥有离岸公司，但中国当局对相关消息进行强力封杀。</p>
+<p>4月7日，被文件点名的中国前总书记胡耀邦之子胡德华接受香港媒体的访问，成为中国第一位亲自回应事件的华人。胡德华说，他开设离岸公司是为了帮助自己的公司上市，而且是用真实身份和地址注册，堂堂正正，但该公司后来已经没有再营运。他表示，当时想“做些进出口贸易”，但在公司上市失败之后保留了该公司；公司每年做年审，没有资产，也没有经营，但“没必要注销”。</p>
+<p>胡德华还用“相信大陆人未必知道”，回应记者所问一批中共领导人亲属涉巴拿马文件在大陆是否引起震荡。他表示：“不是都删掉了吗？删掉了就没人知道了。”胡德华又表示，不担心此事会影响到父亲声誉。</p>
+<p>对此，香港时事评论员谭志强分析说，胡德华的这个回应有一定说服力：“胡耀邦的儿子胡德华榜上有名而且他是用真实的名字身份证地址注册的，堂堂正正，我觉得这个回应没有错。因为离岸公司并不一定要有非法交易，胡德华说他为了帮助科技公司在香港上市，而且本身来讲他做的是进出口贸易，后来这家科技有限公司不符合上市公司条例，最后上市失败就保留了这个离岸公司，每年也做年度审查；公司本身虽然没有资产，也没有经营，但也没有必要注销。因为注册离岸公司成本已经付出去了，搞离岸公司很贵的，要几十万的，堂堂正正没有犯法我干嘛把它取消，万一以后还有业务有新的公司上市，我就不需要重新申请了。”</p>
+<p>除胡德华外，在巴拿马文件中被点名的还包括中国国家主席习近平姐夫邓家贵、前总理李鹏女儿李小琳、全国政协前主席贾庆林外孙女李紫丹、张高丽的女婿李圣泼、刘云山的儿媳贾立青、曾庆红的兄弟曾庆淮，以及毛泽东的孙女婿陈东升。</p>
+<p>但截至目前为止，中国官方及涉巴拿马文件的另外8人均没有对事件做出实质回应。中国外交部发言人洪磊4月5日回应提问时则指有关文件”捕风捉影“，不予回应。不过外交部并未将这段话公布在官网的例行记者会文字记录上。</p>
+<p>关注事件的安徽前法官沈先生接受本台采访时称，“巴拿马文件”已向权贵集中火力开炮，但北京仍在“掩耳盗铃”：</p>
+<p>“我们看到这个很有意思，这件事情涉及的不光是中国官员，也涉及到西方国家的一些领导人。西方国家的反应是冰岛总理已经辞职了，他们还不是贪腐的问题，他是逃税，逃税当然也是一种腐败现象，很多国家正在进行调查，立法机构、议会或者司法机关都表示要调查。中国就是封锁，像没这回事一样，就封锁了消息。而且中国政府的情况很不一样，他不光是为了避税，其中可能还涉及把赃款转移到安全的地方。”</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%9D%83%E8%B4%B5%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6-%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E5%AD%90%E8%83%A1%E5%BE%B7%E5%8D%8E%E7%8E%87%E5%85%88%E6%AD%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%BE%B7%E5%8D%8E/?category=18271" rel="tag">胡德华</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-%E4%B8%8D%E5%85%89%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%B0%B1%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【网络民议】不光这届人民不行，以前就一直不行</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=550%2C247" alt="Screen Shot 2016-04-08 at 8.39.42 AM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=300%2C135 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=768%2C345 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=1024%2C460 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?w=1978 1978w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -127,6 +147,23 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A
 	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/" target="cdt-mirror">德国之声 | 中国高层首次对”巴拿马文件”表态</a>
+</h2>
+<p><p>摘要：外交部长王毅是首位针对”巴拿马文件”公开表态的中国政府高层领导人。在与德国外长施泰因迈尔共同面对国际媒体的记者时，王毅表示中国政府已经看到了”巴拿马文件”所透露和澄清的信息，有意弄清事实真相。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-%E4%B8%8B%E5%8D%8812.40.09.png?resize=520%2C294" alt="Screen Shot 2016-04-08 at 下午12.40.09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
+<p>（德国之声中文网）据路透社报道，本周五（4月8日），中国外长王毅与德国外长施泰因迈尔（Frank-Walter Steinmeier）会晤后在举行记者见面会时报表示，中国有意搞清与”巴拿马文件”有关的细节。这也是中国最高领导层成员首次针对”巴拿马文件”的公开表态。</p>
+<p>一位匿名人士向《南德意志报》提供的”巴拿马文件”据称记录了全球上百名政要和名人是如何通过位于巴拿马的法律服务公司莫萨克•冯赛卡（Mossack Fonseca）在逃税天堂隐藏财富。文件涉及至少8名现任和前任中国政治局常委的家人，包括中国国家主席习近平的姐夫和前总理李鹏的女儿。负责宣传事务的刘云山以及副总理张高丽的亲属也被指涉及利用离岸公司隐瞒资产运作。主持分析相关数据的国际调查报道记者联盟（ICIJ）指出， 在莫萨克•冯赛卡律所的全球业务中，来自中国大陆和香港的离岸公司比例占到29%。</p>
+<p>路透社报道称，中国外长王毅与施泰因迈尔共同出席记者会时表示，中国政府看到了 <a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B/a-19171000">“巴拿马文件”</a>所透露和澄清的信息。但他补充说，恐怕先要弄清事实。除此以外，王毅没有进一步说明中国政府是否会根据”巴拿马文件”所透露的信息采取行动。他只是说，在中国人民的支持下，反腐取得了进展。正如中国领导人习近平所说，中国会继续走反腐的道路。</p>
+<p>之前，中国外交部发言人洪磊称”巴拿马文件”是”捕风捉影的东西”，因此拒绝置评。中国党媒《环球时报》则在第一时间发表评论称：”偷或编’巴拿马文件’者绝非等闲之辈”，最受关注的打击对象是包括俄罗斯总统普京在内的”非西方国家领导人”。评论指出，像巴拿马文件这样的”大泄密”，是西方意识形态联盟”打击非西方世界政治精英和关键组织的一种新手段。”该评论发布几日后被中国审查机关屏蔽。在包括《环球时报》、”凤凰网”等媒体的网站上已经无法找到评论原文。</p>
+<p>到目前为止，德国外交部没有透露施泰因迈尔是否与王毅谈及”巴拿马文件”一事。德国外交部表示，施泰因迈尔此次访问中国的重点是能源转型。他已经在北京为一个有关能源转型的展览揭幕。周六，德国外长将前往湖南长沙，为当地德国企业的一处新厂房揭幕，并和该企业的年轻技术学员见面。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%BD%E6%B3%B0%E5%9B%A0%E8%BF%88%E5%B0%94/?category=18271" rel="tag">施泰因迈尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/?category=18271" rel="tag">王毅对“巴拿马文件”表态</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/" target="cdt-mirror">德国之声 | 中国高层首次对“巴拿马文件”表态</a>
 </h2>
 <p><p>摘要：外交部长王毅是首位针对”巴拿马文件”公开表态的中国政府高层领导人。在与德国外长施泰因迈尔共同面对国际媒体的记者时，王毅表示中国政府已经看到了”巴拿马文件”所透露和澄清的信息，有意弄清事实真相。</p>
 <p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-%E4%B8%8B%E5%8D%8812.40.09.png?resize=520%2C294" alt="Screen Shot 2016-04-08 at 下午12.40.09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
@@ -879,44 +916,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%B7%E5%85%A5%E4%B8%91%E9%97%BB-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E4%BA%89%E9%97%AE%EF%BC%9A%E8%B0%81%E6%98%AF%E5%A7%90/" target="cdt-mirror">苹果日报｜习近平卷入丑闻 中国网民争问：谁是姐夫？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?resize=549%2C309" alt="1459952998_40c8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1459952998_40c8.jpg?w=640 640w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<h3>新浪微博今日有很多网民在问：「姐夫是谁？」截自晚上10时，「姐夫」两个字在微博成为热门搜寻字，超过13万人搜索，还登上微博实时热搜榜第八位。
-</h3><p>不过关键来了，究竟内地网民好奇的「姐夫」是谁？又干了甚么好事惹人关注？ 答案揭盅，话说国际调查记者同盟（ICIJ）近日发表轰动各国政坛的「巴拿马文件」，ICIJ指至少8名中共中央政治局新旧常委的家人，曾开设离岸公司。当中就包括国家主席习近平姐夫邓家贵2009年在英属处女岛开设两间空壳公司，并任唯一股东和董事。</p>
-<p>虽然没有指名道姓，不过在微博大受关注的神秘姐夫，就是邓家贵。 有网民在网上留言揶揄：「让我们跟着姐夫的脚步走在社会主义的阳光大道上实现中国梦吧！」「因为姐夫的事情，我对大大有些失望」、「 这个话题居然没有被删除 还上热搜了。」还有网民开玩笑：「姐夫是谁啊？真巧，我的英文名也叫Jeff。」
-</p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXVYkrUEAAmo9c.jpg?resize=551%2C980" alt="CfXVYkrUEAAmo9c" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXVYkrUEAAmo9c.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXVYkrUEAAmo9c.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%B7%E5%85%A5%E4%B8%91%E9%97%BB-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E4%BA%89%E9%97%AE%EF%BC%9A%E8%B0%81%E6%98%AF%E5%A7%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%91%E9%97%BB-%E8%BF%98%E6%9C%89%E6%9B%B4%E5%A4%9A/" target="cdt-mirror">美国之音｜政治局常委卷入巴拿马丑闻 还有更多</a>
-</h2>
-<p><div>
-<div>
-<div>
-<p><span>纽约—</span>国际调查记者联盟今天将披露更多亲属参与离岸交易活动的中国现任、退休和已故中共政治局常委的名字。根据BBC星期二的报道，从总部在巴拿马的莫萨克－冯塞卡法律服务公司泄露出来的大量文件中，披露了现任政治局常委张高丽和刘云山的亲属也在被称为“避税天堂”的离岸公司担任主管或股东。报道说，此时爆出这些消息“将使中共领导层非常难堪”。</p>
-<p>上周六，总部在华盛顿的国际调查记者联盟公布了“巴拿马文件”，披露了中国国家主席习近平、前总理李鹏、前政协主席贾庆林和前政治局委员薄熙来的亲属注册离岸公司或拥有离岸账户。</p>
-<p>《纽约时报》记者傅才德星期三在接受美国之音采访时透露，国际调查记者联盟还会有新的涉及中国领导人亲属的名字公布出来，公布的时间是4月6日，星期三，美东时间下午2点。傅才德说，“我知道一些新的名字，我正在写一个报道，但是不允许现在透露。”</p>
-<p>傅才德说，“总共应该有9个了。除了上次已经公布的4个，还有5个。”他说，其中两个是已经退休的已故中共前政治局常委。</p>
-<p>傅才德说：“我觉得这些新的内容很有意思。但问题是这些材料没有详细说明他们离岸公司的业务是什么，控制的资产是多少，这些还不详细。所以，我们记者可以根据他们的发现，来继续调查。”</p>
-<p>“巴拿马文件”包括了1100万份泄露的机密文件，预计会有一个较长的消化过程。美国之音将会继续跟进报道。</p>
-</div>
-</div>
-</div>
-<div></div>
-<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%91%E9%97%BB-%E8%BF%98%E6%9C%89%E6%9B%B4%E5%A4%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D%E5%BE%B7/?category=18271" rel="tag">傅才德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -928,7 +927,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -938,5 +937,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%85%E6%89%8D
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

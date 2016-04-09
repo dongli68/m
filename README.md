@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2-%E8%94%A1%E6%85%8E%E5%9D%A4%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%90%9E%E5%99%AC%E8%B4%A2%E5%AF%8C%E8%B0%81%E8%A2%AB%E6%A6%A8%E5%B9%B2%E8%A1%80%E6%B1%97%EF%BC%9F/" target="cdt-mirror">新浪博客 | 蔡慎坤：谁在吞噬财富谁被榨干血汗？</a>
@@ -118,7 +118,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%9F
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E8%AF%9D%E9%A2%98/?category=18271" rel="tag">女权话题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%AD%A6/?category=18271" rel="tag">文学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E6%96%87%E8%BD%A9/?category=18271" rel="tag">曹文轩</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E5%AE%B6-%E7%BB%B4%E8%88%9F%EF%BC%9A%E6%81%90%E6%85%8C%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%8C%E6%81%B0%E6%81%B0%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%90%AC%E4%B8%8D%E5%88%B0%E7%9C%9F%E8%AF%9D/" target="cdt-mirror">大家 | 维舟：恐慌的原因，恰恰是因为听不到真话</a>
 </h2>
@@ -787,7 +787,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -797,5 +797,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

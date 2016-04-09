@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2-%E8%94%A1%E6%85%8E%E5%9D%A4%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%90%9E%E5%99%AC%E8%B4%A2%E5%AF%8C%E8%B0%81%E8%A2%AB%E6%A6%A8%E5%B9%B2%E8%A1%80%E6%B1%97%EF%BC%9F/" target="cdt-mirror">新浪博客 | 蔡慎坤：谁在吞噬财富谁被榨干血汗？</a>
@@ -51,6 +51,24 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2-%E8%94%A1%E6%85%8E%E5%9D%A4%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%90%9E%E5%99%AC%E8%B4%A2%E5%AF%8C%E8%B0%81%E8%A2%AB%E6%A6%A8%E5%B9%B2%E8%A1%80%E6%B1%97%EF%BC%9F/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E6%85%8E%E5%9D%A4/?category=18271" rel="tag">蔡慎坤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98/?category=18271" rel="tag">退休官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">退休官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E8%80%8C%E4%B8%8D%E4%BC%91/?category=18271" rel="tag">退而不休</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BF%A1%E6%81%AF%E6%97%B6%E6%8A%A5-%E4%B8%80%E4%B8%AA%E4%BC%91%E8%80%8C%E4%B8%8D%E9%80%80%E8%80%85%E5%86%85%E5%BF%83%E6%B7%B1%E5%A4%84%E7%9A%84%E6%84%A7%E7%96%9A/" target="cdt-mirror">信息时报 | 一个“休而不退”者内心深处的愧疚</a>
+</h2>
+<p><p>早就想写这篇文章了。今天看到一则来自湖南的新闻，让我有了动笔的冲动。据《瞭望》周刊报道，在湖南一些地方，近期有些年龄并不算大的“局办委”或乡镇“一把手”、重要班子成员向上级打报告，要求按照地方“公务员50岁以上退居二线，可享受比在职时更高待遇”的政策，自请“早退”，成为“休而不退”的“散吏”。</p>
+<p>我就是这样的一个“散吏”。我来自浙江，从2008年开始“散吏”生涯，现在已经正式退休。我即使想纠错，现在也没机会了，因而只能写写愧疚文章。</p>
+<p>一是，愧对分文不少的薪资。八九年的时间里，什么都不干，照样拿工资，照样享受一点不少的福利待遇；而且工资不算低，属于年薪超过12万元的自行申报个税者。虽然并不是我自己不想干，而是政策不让干，但我吃的毕竟是白食，工资拿得实在有点不踏实。</p>
+<p>二是，愧对含辛茹苦的劳动者。他们起早贪黑，辛苦劳作，他们辛苦挣来的钱，凭什么要养活我们这样的尸位素餐者？用这样的方式养我们，他们心甘情愿吗？有什么人征求过他们意见吗？如果对他们没有愧疚感，我觉得正是极需愧疚的地方。</p>
+<p>三是，愧对朝九晚五的下属们。有资格“早退”的，必然是当过一官半职的人。换句话说，你退了以后，可以空出一个官位，你才有资格“早退”。那些跟我年龄相仿的没资格“早退”的下属们，则只能照常按时签到，一旦紧张起来，还得照样“白加黑”、“五加二”。悠闲地看着他们忙碌的身影，我难免会有些愧意。</p>
+<p>谁都知道，在工作岗位上，50岁是最佳年龄，经验最足，精力最强，牵挂最少；而且，能在基层混个一官半职的人，通常会有一定的能耐。让这样的人，拿着不低的薪资，赋闲在家，无疑是极大的浪费。看看我的同僚们，有四处架鸟遛狗的，有每天看电视剧的，有热衷玩网络游戏的……他们不给组织添麻烦，不利用余热牟私利，已经很优秀了，谁在乎他们像蜡烛烧了一半被硬生生掐灭的感觉呢？</p>
+<p>全国各地有多少这样赋闲的人？需要用多少财政收入来养活他们？这个账应该算。如果说是为了培养新干部，需要腾出位子给他们，那么试问，培养好了的干部都不用，干嘛又培养那么多新干部？有那么多经验丰富、年富力强的公务员闲置不用，何须每年再进那么多新的公务员？如果仅仅为了解决就业，这样的解决办法，性价比是不是太低？有关法规限定工作期满30年才能提前退休，有些地方擅自将30年改作20年，是否涉嫌违法？</p>
+<p>以前迟迟没写这篇文章，主要还是怕人说我恋栈，舍不得那一官半职，现在已经彻底退休了，也就不怕别人背后议论了。我有愧埋藏在内心深处多年，不吐不快，万一得罪了谁，也顾不得了。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BF%A1%E6%81%AF%E6%97%B6%E6%8A%A5-%E4%B8%80%E4%B8%AA%E4%BC%91%E8%80%8C%E4%B8%8D%E9%80%80%E8%80%85%E5%86%85%E5%BF%83%E6%B7%B1%E5%A4%84%E7%9A%84%E6%84%A7%E7%96%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98/?category=18271" rel="tag">退休官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">退休官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E8%80%8C%E4%B8%8D%E4%BC%91/?category=18271" rel="tag">退而不休</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 6小时前</small>
@@ -142,7 +160,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">假奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">婴儿奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81cnpolitics-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%8F%B0%E6%B9%BE%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%AE%A4%E5%90%8C%EF%BC%9F/" target="cdt-mirror">政见CNPolitics | 如何理解台湾人的国家认同？</a>
 </h2>
@@ -757,25 +775,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%84%B6%E5%B9%B6%E5%8D%B5%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">东网｜乔木：对中国然并卵的巴拿马文件</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg" rel="attachment wp-att-434489"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg?resize=525%2C375" alt="bkncn-20160408000322701-0408_05411_001_01p" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg?resize=300%2C214 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/bkncn-20160408000322701-0408_05411_001_01p.jpg?w=608 608w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>巴拿马文件涉及70多个国家的高官巨富名流，通过设立离岸公司，逃税、避税或涉嫌洗钱等不法交易。包括一部分中国人喜爱的普京大帝，以及更为关心的中共现任、前任的常委和其他高官的家人。</p>
-<p>这种事，在民主国家，绝对是大新闻、令人吃惊的丑闻。一些国家舆论哗然，<a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E5%86%B0%E5%B2%9B%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%8E%9F%E5%9B%A0/" target="_blank">已有领导辞职</a>。许多国家也有<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E8%97%8F%E5%AF%8C%E5%AF%86%E4%BB%B6%E6%9B%9D%E5%85%89-%E5%90%84%E5%9B%BD%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/" target="_blank">回应</a>，表示要予以调查。但在俄国这样的强人政治国家，普京政府矢口否认，指责这是外国的阴谋。至于在中国，否认都不用，官方压根就没反应、不理睬。用中国外交部发言人的话说：对这种<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E5%81%B7%E6%88%96%E7%BC%96%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%80%85/" target="_blank">捕风捉影的东西</a>，不做评论。</p>
-<p>领导的家人不见得就不能经商，只要透明、守法、公平。设立离岸公司，避税、转移财富或其他考虑，也不见到就是犯罪。但是一边在国内宣传社会主义核心价值观和共产党员的修养，一边又放任家人整出这些事，多少也算丑闻吧。丑闻不一定是犯罪，但会影响道德和信誉。“打铁还要自身硬”音犹在耳，自家和同僚家人出这种事，总是难以服众。</p>
-<p>但要说这种事，对中国的政治和舆论真有多大的影响，恐怕微乎其微。从政治来说，尽管高层内部勾心斗角、权争不断，但在向外对付民众、媒体和外国上，高度一致，绝不权力民选、新闻自由、公示财产、屈从舆论和国际社会的压力。</p>
-<p>由于网络长城的存在，这种事也就<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%86%B0%E5%B2%9B%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/" target="_blank">墙外热议和墙内少部分人知道</a>。多数人不知道、不关心，甚至认为理所应当，中国官员有几个乾净的？当局严防死守，<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93/" target="_blank">不许报道</a>，再要纠缠<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%87%AA%E6%9F%A5%E8%87%AA%E5%88%A0%E6%B6%89%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E6%89%80/">就收拾你</a>。<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/" target="_blank">删帖销号是常事</a>，像对新公民运动要求官员财产公示一样，以寻衅滋事抓人也有可能。</p>
-<p>这种事，每隔一段时间国际媒体会报道一番，除了招致更严厉的网络屏蔽，并没有改变中国什么。有位高调的前领导人的公主，这些年被国外媒体踢的千疮百孔，国内我自岿然不动。前几年，外国对贝尔、西门子等公司的在华商业贿赂进行司法调查，对方招供，也有证据。但中国只当什么也没发生，决不回应。</p>
-<p>外国媒体管不了，本国媒体姓党，要坚持正确的导向。至于官员的任免问责，这是组织的事。当年有人扬言要控告《纽约时报》诽谤，最后也不了了之。《纽约时报》最终凭借对中国领导财富的报道，获得了普利策奖，但又能把中国怎样？结果是自己的中英文网站被双杀，驻华记者的签证饱受限制。</p>
-<p>此次巴拿马文件也一样，尽管大戏开幕，热闹异常，但对中国来说，套用网络用语：然并卵——然而并无卵用。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%84%B6%E5%B9%B6%E5%8D%B5%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -787,7 +786,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -797,5 +796,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

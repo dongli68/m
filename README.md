@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%A5%BF%E6%96%B9%E5%8F%8D%E5%A4%8D%E8%BF%BD%E6%89%93/" target="cdt-mirror">环球时报评普京被曝坐拥巨款：俄讨好西方被整得很惨</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png" rel="attachment wp-att-434620"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=575%2C302" alt="putin" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=300%2C157 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=768%2C403 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=1024%2C537 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?w=1430 1430w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>普京儿时玩伴、亿万富翁Arkady与Boris Rotenberg兄弟；普京密友Sergey Roldugin（国际调查记者同盟“巴拿马文件”<span><a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a></span>截图）</span></p>
+<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>专题</p></blockquote>
+<p>俄罗斯宣布成立国民近卫军，总人数或达40万，直属总统普京领导，受到西方舆论充满恶意的解读。俄罗斯经济面临困难，对俄政治不稳的猜测总是会因为各种原因大量涌出，而普京成立国民近卫军被西方舆论看成俄面临严峻国内政治挑战的信号。他们给这支即将成立的部队编了个绰号：普京近卫军。</p>
+<p>普京除了被西方称为“独裁者”，<strong>现在又被描述成疑似在境外有数十亿美元，并通过友人打理、洗钱的非法财富拥有者。</strong>他高度担心个人安全，“惶惶不可终日”，因而匆忙成立只效忠于他本人的“近卫军”。西方舆论一块一块地拼凑了这样的画面。</p>
+<p><strong>普京在俄罗斯保持约80%的高支持率</strong>，但在西方舆论中他几乎成了与卡扎菲、萨达姆有一拼的“恶魔”。西方的精英们似乎要置他于死地而后快。俄罗斯作为国家同样是个悲剧。<strong>苏联早就解体了，俄也接受了西方选举制度，但俄在西方的形象依然很糟糕</strong>，西方当年对苏联的仇恨差不多原封不动地转移到了俄头上。</p>
+<p>要说俄罗斯的民主“不彻底”，那么同是原苏联一部分的阿塞拜疆、哈萨克斯坦、土库曼斯坦等多个新生国家都是威权体制，<strong>他们的强人政治色彩远高于俄罗斯</strong>。但西方对它们是大体采取了友好、包容态度，只有俄罗斯永远让西方看着不顺眼，怎么看怎么像普京的“专制帝国”。</p>
+<p>如果从缓和与西方矛盾的角度看，莫斯科显然是非常失败的一个例子。他先是交出了波罗的海三国，然后整个苏联分崩离析，经历了共产党下台的颠覆性变迁，付出了极其昂贵的社会代价。但站在莫斯科的位置向西看，俄从北约得到的仍然是敌视，而他们可以用来对付敌视的资源和工具却所剩无几。其中的一部分成为西方战利品，被反转用来对付俄罗斯。</p>
+<p>根本原因是，今天的俄罗斯依然是个大国。他的国土仍横跨欧亚9个时区，人口1.4亿。最重要的是他继承了苏联的核力量，<strong>至今仍是能够“在十分钟之内摧毁美国”的唯一国家。</strong></p>
+<p>西方国际政治学首要看重力量规模，而非这种力量在短时期里多大程度是善意的。俄罗斯的超级军事力量继续提供了让美国和欧洲不安的理由，使它们无法像欣赏前苏联其他碎片那样欣赏俄罗斯，帮助它融入西方主导的世界。</p>
+<p><strong>从彼得大帝时代起，融入西方就是俄罗斯人的梦想</strong>，但是他们屡受挫折。普京的一些强硬政策可以看成是叶利钦那一轮融入西方失败后的反弹。这种反弹既有情绪上的，但更多是重新构筑防线的急迫布置。</p>
+<p>西方体系并非人们想象的那样开放，它的利益中心是相对固化的圈子，新的外部力量很难融入并实现利益分享。<strong>日本也没成为完全“西方国家”，它更像是美国军事占领之下的“亚西方”。</strong>俄罗斯带着那么多核弹头试图做西方圈子里的平等成员，更加不可思议。</p>
+<p><strong>俄堪称是大国讨好并追随西方、被整得很惨不得不重走自己路的沉痛案例。</strong>然而俄罗斯的全面恢复有一定困难。西方对它敌视和压制似无尽头，而俄现有的经济实力和舆论能力支撑对西方攻势的抵抗则显得勉强。俄罗斯形成了以军事力量为中心的国家力量结构，民生质量与能源价格的关系过于紧密，抵御外在风险能力因此也比较脆弱。</p>
+<p>大国必然面临地缘政治竞争，因而在西方体系之外做大国是蛮艰辛的事情。美国削弱其他大国是情不自禁的，西方的长期发展为这种削弱储备了大量资源和手段。任何非西方大国崛起都需经历一轮又一轮的全方位考验和洗礼。</p>
+<p>中国已经成长为世界第二大经济体，我们或许不能指望今后将越来越顺利，相反，越来越成为西方体系“排他性反应”的焦点更有可能。我们恐需对此做好充分思想准备。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@沈_来：二人转也叫选举？百分之八十的支持率？朝鲜也是选举，支持率还百分之百呢。</p>
+<p>@刘锦棂：普沙皇那也叫接受了西方的选举制服？</p>
+<p>@横釖立马刘：环球报又在洗地擦地板辛苦了</p>
+<p>@男低音A：人家一个，我们一窝</p>
+<p>@Hermit航哥：这个事 人家俄罗斯最起码坦然面对，美国只整俄罗斯自己吗？中国涉及的 我们自己屁都不敢放，网络全给屏蔽了，还有脸评论别人，脸往哪放？</p>
+<p>@贰零贰肆：别说了，满眼都是泪，环球屎报，日你大爷，胡编，问候你八倍祖宗</p>
+<p>@我就想吃饭：连作者名字都不敢写，可见你们都心虚</p>
+<p>@dahacheng_bg1：自己实行的假民主还怪别人真民主。真是没有出息的民族。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%A5%BF%E6%96%B9%E5%8F%8D%E5%A4%8D%E8%BF%BD%E6%89%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%9D%83%E8%B4%B5%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6-%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E5%AD%90%E8%83%A1%E5%BE%B7%E5%8D%8E%E7%8E%87%E5%85%88%E6%AD%A3/" target="cdt-mirror">自由亚洲｜中国权贵卷入巴拿马文件 胡耀邦之子率先正面回应</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg" rel="attachment wp-att-434610"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?resize=550%2C465" alt="前中共总书记胡耀邦之子胡德华。（Public Domain）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?resize=300%2C254 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?w=622 622w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>前中共总书记胡耀邦之子胡德华。（Public Domain）</p></div>
@@ -816,106 +849,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%95%BF%E7%AF%87%E6%8A%A5%E9%81%93%EF%BC%9A%E6%B5%B7%E5%A4%96%E9%81%BF%E7%A8%8E%E6%B8%AF%E5%86%85%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E8%89%B2%E8%B4%B5/" target="cdt-mirror">美国之音｜长篇报道：海外避税港内的中国红色贵族</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg" rel="attachment wp-att-434385"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=590%2C295" alt="160406-china-05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=768%2C384 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?resize=1024%2C512 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-05.jpg?w=1600 1600w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><br><span>国际调查记者同盟<a href="https://panamapapers.icij.org/20160406-china-red-nobility-offshore-dealings.html" target="_blank">原文配图</a></span></p>
-<p>中国共产党领袖的家人似乎在闷声发着资本主义大财。国际调查记者联盟(ICIJ)成员欧蕾珊（Alexa Olesen)4月6日推出长篇报道说，泄露出来的“巴拿马文件”显示，八名中共现任和前任政治局常委的亲属拥有秘密离岸公司，这些领导人既有所谓的保守派，也有所谓的改革派。报道还详细披露了已坐牢的前中共政治局委员薄熙来妻子通过“白手套”掩盖海外资产的细节。下面是这篇英文报道的中文翻译：</p>
-<p><strong>毒杀只是中国高层离岸交易的其中一条线索</strong></p>
-<p>欧蕾珊</p>
-<p>中国最高决策机构中共政治局常委的8名现任和前任成员的亲属持有秘密离岸公司。</p>
-<p>几个月来，一直担心着那个威胁着要颠覆她的舒适生活、阻断她丈夫政治高升之路的秘密。于是，她采取了行动。</p>
-<p>在中国南方大都市重庆的一间酒店房间里，谷开来用一个小容器把茶和老鼠药混合起来。与此同时，她的商业伙伴、喝醉的英国人尼尔·海伍德晕乎乎地躺在酒店床上。</p>
-<p>接着，谷开来把这混合物一滴滴灌进了海伍德的嘴里。</p>
-<p>两天后，酒店工作人员发现了他的尸体。</p>
-<p>谷开来最终供认了这起2011年的罪行。她说，她之所以动了杀心，是因为海伍德威胁要曝光一个黑暗的秘密：在世界另一端的一个离岸账户里有着价值数百万美元的房地产资产。</p>
-<p>谷开来意识到，如果海伍德揭露她利用英属维尔京群岛的一家公司来隐藏她对法国南部一幢别墅的所有权，这个丑闻会危害到丈夫薄熙来进入中央政治局常委会。这个不到10人的机构是中国政治权力的顶峰。</p>
-<p>在谋杀案发生仅两星期后，谷开来离岸公司的股权结构突然出现变化。一批秘密档案显示，她的那部分股权被转移到另一名生意伙伴名下，可能是为了进一步模糊她与公司的联系，也可能是为了让这名值得信任的伙伴随着事态的发展更容易迅速做出反应。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg" rel="attachment wp-att-434383"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg?resize=590%2C335" alt="谷开来在法庭上（2013年8月23日，济南中级法院发布的视频的截图）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1466B43D-85C9-44FE-879A-DC9B7981F00C_w640_s.jpg?w=640 640w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><p><span>谷开来在法庭上（2013年8月23日，济南中级法院发布的视频的截图）</span></p></div>
-<p>最终，没有什么能够藏得住谷开来的秘密。随着海伍德之死以及她和丈夫双双入狱，她掩盖海外财产的努力也画上了句点，也使人更加关注中国精英如何利用避税天堂来藏匿财富。</p>
-<p>最近泄露出来的“巴拿马文件”提供了关于谷开来海外交易的新鲜细节，也泄露了中国其他权力家庭在离岸所持财产的大量新信息。</p>
-<p>文件显示，头衔囊括国家主席、中共中央总书记和军委主席的中国“全面主席”习近平的姐夫在避税港拥有几家公司。文件还显示，另有至少7名现任和前任政治局常委的亲属也拥有离岸资产，包括两名现任常委。</p>
-<p>这些亲属之一是开国之父毛主席的孙女婿。</p>
-<p>很多中国革命英雄的儿孙辈在商场获得成功并不是秘密。中国是世界第二大经济体，有数百名亿万富翁。然而，这个国家与政治关系最密切的一些人利用离岸关系向公众隐瞒财产却并不那么为人所知。他们如何运作也很少人清楚。</p>
-<p>这些文件由国际调查记者联盟(ICIJ)、德国报纸《南德意志报》(Süddeutsche Zeitung)和一些其他合作媒体取得。总共一千一百多万份文件显示了巴拿马律师事务所莫萨克·冯赛卡(Mossack Fonseca)的内部运作。这架律所专门开设可以用来隐藏财产的公司。</p>
-<p>这家律师事务所的重要中国客户之一就是将反腐作为其统治标志的中国最高领导人习近平的姐夫邓家贵。后者于2004年通过莫萨克·封赛卡购买一家离岸公司，2009年又购入两家。</p>
-<p>三家公司分别名为 “Supreme Victory Enterprises Ltd.”， “Best Effect Enterprises Ltd.”和 “Wealth Ming International Ltd.”。这些公司做何用处尚不清楚。 “Supreme Victory”于2007年解散，另外两家公司在2012年习近平成为共产党总书记后进入休眠状态。</p>
-<p>另一名重要客户是于1987年至1998年间任中国总理的李鹏的女儿。李鹏在国际上因为在1989年天安门广场民主抗议活动期间主持血腥镇压而众所周知。</p>
-<p>李鹏的女儿李小琳和丈夫拥有一家1994年在英属维尔京群岛组建的公司“Cofic Investments”。内部邮件显示，李小琳的律师称这家公司的资金来自于协助由欧洲向中国出口工业设备。从文件上来看，很多年来他们的所有权都通过利用所谓的“无记名股权”，隐匿了起来。这种方式不使用姓名注册，如果你持有这些股权，那就是属于你的。这种方式被长期视为洗钱和其他不道德行为的媒介，已经在全世界范围逐渐消失，因为各地当局加强监管以杜绝不义之财的流通。</p>
-<p>新一代所谓的“红色贵族”似乎在年纪还小的时候就了解了离岸金融世界。2012年退休的政治局常委第四号人物贾庆林的孙女拥有离岸资产。2010年 还是斯坦福大学大一新生的李紫丹(Jasmine Li Zidan)成为了一家名为 “Harvest Sun Trading Ltd.”的离岸公司的所有人。</p>
-<p>从那时起，年仅20多岁的女孩李紫丹建立起了一个惊人的庞大商业集团：她利用在英属维尔京群岛的两个空壳公司在北京成立两家公司，注册总资本30万美元。通过让两家英属维京群岛的公司来持有李紫丹在北京公司的股份，她得以避免家族名字出现在公共登记文件之中。</p>
-<p>其他五名现任和前任政治局常委的亲属与离岸交易有关联。这五名官员是：</p>
-<p><strong>张高丽</strong>，现任中央政治局常委，其女婿李圣泼曾是在英属维尔京群岛注册的三家公司的股东：正源投资管理公司 （Zennon Capital Management），Sino Reliance Networks Corporation和采高投资有限公司（Glory Top Investments Ltd）。</p>
-<p><strong>刘云山</strong>，现任中央政治局常委，其儿媳贾丽青曾是Ultra Time Investments Ltd公司的董事和股东，该公司于2009年在英属维尔京群岛注册成立。</p>
-<p><strong>曾庆红</strong>，2002年至2007年间担任中国国家副主席，其弟曾庆淮曾是China Cultural Exchange Association Ltd公司的董事，该公司先在纽埃岛（Niue）注册成立，后于2006年将公司地址迁至萨摩亚（Samoa）。</p>
-<p><strong>胡耀邦</strong>，已故，1982年至1987年担任中共领导人，其子胡德华曾是Fortalent International Holdings Ltd的股东、董事和实际受益人（beneficial owner），该公司于2003年在英属维尔京群岛注册成立。胡德华将公司地址登记为他的家庭住址，也就是他父亲担任中共领导人时生活的传统大院。</p>
-<p><strong>毛泽东</strong>，从1949年直至其去世一直领导共产党中国，其孙女婿陈东升于2011年在英属维尔京群岛注册成立锐志国际有限公司（Keen Best International Limited）。陈东升目前是一家人寿保险公司和一家艺术品拍卖行的掌门人，曾是锐志国际的唯一董事和股东。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg" rel="attachment wp-att-434384"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg?resize=590%2C394" alt="巴拿马的丰塞卡律师事务所的创始人之一拉蒙·冯塞卡" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/18316BAC-DE25-4F66-B12E-7D4260DE37EA_w640_s.jpg?w=640 640w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><p><span>巴拿马的丰塞卡律师事务所的创始人之一拉蒙·冯塞卡</span></p></div>
-<p><strong>共产主义遇见资本主义</strong></p>
-<p>泄密的文件反映出中国的一些政治精英是如果利用离岸金融世界来隐藏他们的资产的。</p>
-<p>并不是所有的离岸交易都是非法的，但是在英属维尔京群岛及其他地方注册的公司可以被用于掩盖政治精英和金主之间的财务关系、隐藏资产、避税和匿名股票买卖。这些公司还能让这些身份显赫之人以离岸空壳公司的名字成立在岸公司，同时不让任何人觉察到这些公司属于他们。这些是让有共产主义特色的现代中国资本主义运转的其中的一些手段。</p>
-<p>除了这些政治上的太子党外，莫萨克·冯赛卡的中国客户还包括超级富豪，比如创立了银泰百货的沈国军。沈国军与中国功夫明星成龙和其他人曾是一家名为Dragon Stream Limited公司的股东，该公司于2008年在英属维尔京群岛注册成立。</p>
-<p>另一位亿万富豪宗馥莉，也就是亿万富翁、杭州娃哈哈集团创始人宗庆后的女儿，她于2015年2月在莫萨克·冯塞卡事务所的帮助下，收购了一家名为 Purple Mystery Investments的英属维尔京群岛空壳公司。往来通信的资料显示，这家公司的目的是“在中国投资”。</p>
-<p>沈国军、成龙和宗馥莉对国际调查记者联盟的置评请求未予回应。</p>
-<p>这家巴拿马律师事务所被认为是帮助成立离岸公司的全球顶尖的五家公司之一。1989年8月，莫萨克·冯塞卡律师所（Mossack Fonseca Secretaries Limited），在香港成立公司早期的办事处设在九龙中心，位于熙熙攘攘、商店、博物馆林立的尖沙咀。律所于2000年在中国大陆成立了第一家办事处。其网站信息显示，如今这家律师所在中国大陆的深圳、宁波、青岛、大连、上海、杭州、南京和济南八个城市设有办事处。</p>
-<p>电子邮件显示，莫萨克·冯赛卡公司在2014年回复英属维尔京群岛金融监管部门的询问时最终得知李小琳和她的丈夫是Cofic Investments的真正所有人。</p>
-<p>目前从文件中还不清楚询问的有关内容。不过，即使在当时，至少有一些莫萨克·冯赛卡公司的员工似乎还没有将李小琳和中国政商界的一名重要人物联系起来。</p>
-<p>日内瓦律师查尔斯—安德烈·朱诺德（Charles-Andre Junod）曾经是Cofic Investments的一名负责人。朱诺德拒绝作出评论，但他表示，他一直尊重相关法律。</p>
-<p>李小琳没有答复多次向她发出的评论请求。</p>
-<p>莫萨克·冯赛卡在回复给国际调查记者联盟（ICIJ）的一封信中说，该公司“按要求建立了政策和程序”来辨别并处理涉及政治人物及其关系人的案子。 这家公司说，该公司将这类案子视为“高风险”，并实行更为严格的检查和定期的后续调查。他们在信中说：“我们对所有新客户和未来客户进行全面的审慎调查，严格程度往往超出那些约束我们和其他公司的现有法规。”</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg" rel="attachment wp-att-434380"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=590%2C295" alt="160406-china-04" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=300%2C150 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=768%2C384 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?resize=1024%2C512 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160406-china-04.jpg?w=1600 1600w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><br><span>国际调查记者同盟<a href="https://panamapapers.icij.org/20160406-china-red-nobility-offshore-dealings.html" target="_blank">原文配图</a></span></p>
-<p><strong>价值一美元的公司</strong></p>
-<p>李紫丹（Jasmine Li）是另一名没有得到太多注意、混过莫萨克·冯赛卡公司审查过程的“太子党”成员。她是前政治局常委贾庆林的外孙女。李紫丹在踏入离岸交易界时还是一名美国斯坦福大学的学生。</p>
-<p>在莫萨克·冯塞卡公司的被泄密文件中，没有证据显示这家法律公司曾经获得过李紫丹的照片身份证明，而这本应该是一个基本程序。如果冯塞卡公司检查得更仔细些，他们可能会发现李紫丹和该公司另一名客户、中国的名表经销商亨德利公司董事局主席张瑜平的关系。</p>
-<p>张瑜平是一家设在英属维尔京群岛、名为Harvest Sun Trading Limited公司的唯一股东。</p>
-<p>公开记录显示，Harvest Sun公司被用来在2010年4月收购一家在香港公开上市的公司的股票，公司名为中策集团（China Strategic Holdings）。香港交易所的档案显示，几个月之后，Harvest Sun在8月卖掉了其中一些股票，并在9月脱手了其余股票。</p>
-<p>莫萨克·冯塞卡公司的记录显示，2010年12月，张瑜平将这家空壳公司的所有权转让给了李紫丹。李紫丹的LinkIn页面显示，当时她还是斯坦福大学的一年级学生。</p>
-<p>出售价格：一美元。</p>
-<p>莫萨克·冯塞卡的记录显示，李紫丹还拥有另一家名为Xin Sheng Investments Limited的英属维尔京群岛公司。李紫丹利用Harvest Sun和Xin Sheng在北京设立了两家名称类似的公司，涉足娱乐业和房地产。两家离岸公司为她的身份提供掩护。</p>
-<p>张瑜平的律师维克多·李（Victor Lee）通过电子邮件证实了张瑜平在2010年将Harvest Sun公司转让给了李紫丹。这位律师说，Harvest Sun在当时没有资产，张瑜平将这次转让视为“合理”，因为这家公司“里面没有资产，只是一家空壳公司”。</p>
-<p>这位律师写道：“我们的客户和李女士没有关系，她是由一些商业伙伴介绍给我们的客户的。”但是律师没有透露细节。他表示，这次转移意味着李紫丹可以拥有这家公司，而无需自己设立另一家空壳公司。</p>
-<p>中国的商人通常试图通过帮助高层领导人的配偶、子女、孙子女和其他近亲来讨好他们。这种共生但又秘密关系的实质在谷开来和她的丈夫薄熙来受审期间， 让外界得以一窥端倪。他们夫妇两人对来自东北，实力雄厚的塑料业巨头徐明有着很大的依赖。薄熙来2013年在对其腐败案的审理期间表示，“徐明为我家、为谷开来，尤其为薄瓜瓜在国外提供了大量的资助。。。我帮了他‘快发展’，他帮我‘带孩子’。”</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg" rel="attachment wp-att-434386"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg?resize=590%2C332" alt="2015年12月，徐明在狱中突然死亡" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/B1AA040A-66B5-4290-9AB3-F7D188CEBD07_w640_r1_s_cx0_cy2_cw0.jpg?w=640 640w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a><p><span>2015年12月，徐明在狱中突然死亡</span></p></div>
-<p><strong>白手套</strong></p>
-<p>10多年来，谷开来一直从自己在加勒比秘密地点的离岸公司获利，使得她得以保有在地中海边的别墅。</p>
-<p>她和她的丈夫薄熙来有着中国权贵阶层夫妇的所有特质。</p>
-<p>谷开来是中国人民解放军一名将领的女儿，她在文革期间在屠宰场工作过，后来成为一名成功的律师。</p>
-<p>薄熙来是中共最有权势的“八老”之一薄一波的儿子，在2011年的时候，他主政中国西南部都市重庆，他在2011年以前是中共政治局常委的热门人选，并可能成为中国下一任政法委书记。</p>
-<p>随着谷开来的丈夫如明星般升起，她本人也获得了法国里维埃拉一带的一处拥有6间卧室的别墅。这座别墅在2001年用来自徐明的资助购得。徐明通过虚假购买一家钢铁厂，得以绕过中国严格的外汇管制，向海外转移了320万美元资金。</p>
-<p>出售这家并不存在的钢铁厂的公司抽了一小部分份子，剩余的资金被转移到英属维尔京群岛的一家由谷开来与一名商业伙伴、法国建筑师德维莱尔秘密拥有的罗素地产公司。罗素地产公司又把资金转移到一家在法国的公司，这家公司购买并管理那座别墅。</p>
-<p>表面上看，罗素地产公司和谷开来以及她拥有权力的丈夫毫无关系。</p>
-<p>谷开来把枫丹·圣乔治别墅作为投资之用，希望能够赚取出租的收益。她后来作证说，她隐瞒了对这家公司以及那座别墅的所有权，是因为她希望尽可能少交税。她说：“不想别人知道我家在海外有资产。”</p>
-<p>谷开来借助海伍德来管理这座别墅，海伍德身上同样表现出浮华和神秘。他为人所知的一件事是开着车牌有007数字的美洲豹汽车在北京兜风。英国《卫报》报道说，他把谷开来称为豪不宽恕的“女皇”。</p>
-<p>这些在中国称之为“白手套”的代理人通常都持有实际业主在房地产或其他投资的股份。</p>
-<p>成为企业或党内精英的白手套在中国已经成为一项有利可图的行业。不过，就海伍德的例子来说，也是条取人性命的不归路。</p>
-<p><strong>分崩离析</strong></p>
-<p>莫萨克.冯赛卡（Mossack Fonseca）“接手了”一批离岸公司，包括罗素地产公司（Russell Properties S.A.），这些公司是2011年中期从另一家注册代理商转让过来的。</p>
-<p>当时，该公司的股份为IFG信托（IFG Trust）和IFG秘书公司（IFG Secretaries）所持有，其代理人位于海峡群岛的泽西，董事和股东的注册资料上没有提及德维莱尔或谷开来的名字，和中国也没有明显的关联。</p>
-<p>接下来，这样的精心安排开始崩溃了。</p>
-<p>谷开来曾承诺海伍德，他将分得重庆房地产交易获利的红利，海伍德当时负责管理那栋法国别墅。不过，海伍德认为他没有获得公平的汇报。谷开来在之后的证词中说，2011年初海伍德联系了她的儿子薄瓜瓜，逼薄瓜瓜向他的家人要更多的钱。谷开来称，海伍德威胁说要将谷开来的别墅所有权公诸于世。</p>
-<p>根据有关谷开来庭审的报道，谷开来和海伍德2011年11月3日在重庆南山丽景度假酒店见面，在讨论的过程中发生争执。两人在晚餐后到海伍德的房间里喝酒。海伍德喝了半瓶皇家礼炮威士忌后呕吐，然后被薄家勤务员张晓军拖到床上。海伍德还向谷开来要水喝。</p>
-<p>谷开来将老鼠药和茶混合并装在一个酱油瓶子里，然后一小口一小口的喂给海伍德喝下去。谷开来等到她再也感受不到海伍德的脉搏跳动后，她才回到自己的酒店房间睡觉。</p>
-<p>两个星期多一点之后，外流的档案显示摩萨克·冯赛卡协助了将罗素地产管理公司的所有权股份从IFG代理公司转到曾协助谷开来在2000年设立公司的 法国建筑师帕特里克.亨利. 德维莱尔（Patrick Henri Devillers）名下。罗素地产公司是控制那栋别墅的空壳公司。</p>
-<p>德维莱尔在转让文件上使用了谷开来在北京的前律师事务所合伙人地址。根据法院文件显示，罗素房地产公司最早由谷开来和德维莱尔透过两个在海峡群岛的代理人以5:5的比例持有。</p>
-<p>为什么犯罪后这么快就进行转让，为什么谷开来的股份转给了德维莱尔，这些尚不得而知。事实上，德维莱尔在公司的文件上选择用自己的真名并使用谷开来之前的工作地址，这似乎让人觉得奇怪，这等于在这间公司留下了他和谷开来的指纹。</p>
-<p>最重要的是，这个步骤拿掉了IFG公司的“中间人”身份，使得德维莱尔得以直接和摩萨克·冯赛卡建立联系，让他对公司有更大的及时掌控。</p>
-<p>到了2012年初，因为与谷开来的谋杀案和薄熙来的腐败丑闻有联系，德维莱尔的名字经常出现在中国、英国、法国、澳大利亚和美国的新闻中。不过，根据泄密的文件， 2012年初的几个月，巴拿马的莫萨克·冯赛卡似乎仍然没有注意这个案件。不过，就在这个时候，德维莱尔向莫萨克·冯赛卡发电子邮件，要求他们允许自己将罗素地产公司（Russel Properties）移交给一个叫做摩根与摩根信托（Morgan& Morgan Trust）的离岸代理商。</p>
-<p>2012年7月，英属维尔京群岛的监管人员对罗素地产进行调查，要求提供公司业主、管理人员以及其他的细节。四天后，莫萨克·冯赛卡的一名合规官在一份内部邮件中警告她的同事说，德维莱尔似乎与中国的一项调查有关。</p>
-<p>6月12日到13日，莫萨克·冯赛卡直接给德维莱尔发电邮，表达他们日渐增加的担忧，电邮中包括新闻链接，谈到他与谷开来和薄熙来丑闻以及他据称在其中的角色。这家律师所写道：“这些文章提到了一个与你的名字和国籍相同的人，请告知我们此人与你是否为同一个人。” 德维莱尔似乎并没有回答。</p>
-<p>在给英属维尔京群岛当局的回应中，莫萨克·冯赛卡律师所说，一个叫帕特里克·亨利·德维莱尔的人是罗素地产唯一的股东和管理人员，是他们与这家公司的最后的联系。这家律师所没有提到该公司与中国发生的丑闻有联系， 尽管他们承诺将更深入调查并在随后提供更多有关这家公司和德维莱尔的信息。</p>
-<p><strong>卖房</strong></p>
-<p>德维莱尔现在居住在柬埔寨。他的证词在谷开来和薄熙来的案子中都被采纳，但是他自己从没有被控罪。他对国际调查记者联盟多次提出的采访要求未予回应。</p>
-<p>薄熙来现在因为受贿、挪用公款和滥用权力被终身监禁，尽管他说，有一天他会被还予清白。</p>
-<p>谷开来因为谋杀海伍德被判死缓，但是2015年12月，中国当局给她减刑，改判为无期徒刑。</p>
-<p>宣判薄熙来的法庭裁决，别墅由中国政府没收。中国国家媒体2014年的报道说，别墅将被出售。</p>
-<p>建议售价：850万美元。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%95%BF%E7%AF%87%E6%8A%A5%E9%81%93%EF%BC%9A%E6%B5%B7%E5%A4%96%E9%81%BF%E7%A8%8E%E6%B8%AF%E5%86%85%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E8%89%B2%E8%B4%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BD%E6%89%8B%E5%A5%97/?category=18271" rel="tag">白手套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E5%BC%80%E6%9D%A5%E6%A1%88/?category=18271" rel="tag">谷开来案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -937,5 +870,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

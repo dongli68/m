@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%93%E8%AE%BF%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E6%9C%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%88%90%E4%B8%BA%E7%8E%8B%E5%B2%90%E5%B1%B1%E5%8F%8D%E8%85%90%E9%87%8D%E8%A6%81%E7%BA%BF/" target="cdt-mirror">美国之音｜专访调查记者：望巴拿马文件成为王岐山反腐重要线索</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg" rel="attachment wp-att-434643"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?resize=575%2C323" alt="4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>华盛顿—</p>
+<p>被国际调查记者联盟(ICIJ)逐步曝光的“巴拿马文件”再次将中国权贵阶层的隐秘财富问题呈现在世人眼前。包括中共总书记习近平在内的至少八位中共现任和前任中共最高层领导人被点名，他们的家人被曝出在海外“避税港”控制着隐秘的离岸公司。中国封锁了相关消息，还有人指责这是美国政府抹黑中国的信息战。负责该项目中国部分的ICIJ成员欧蕾珊(Alexa Olesen)4月8日通过Skype接受了美国之音的专访，就外界的一些质疑和她所写的巴拿马文件有关中国部分的<a href="http://www.voachinese.com/content/panama-papers-china-red-nobility-20160406/3273672.html" target="_blank">长篇报道</a>回答了记者的提问。</p>
+<p><strong>记者：国际调查记者联盟（</strong><strong>ICIJ）是一个什么样的组织？</strong></p>
+<p>欧蕾珊：ICIJ是总部在美国首都华盛顿的一个独立组织。这个组织的资金来自于福特基金会、开放社会基金会和其他一些独立资助方。有来自65个国家的200多名调查记者是ICIJ的成员。</p>
+<p><strong>记者：俄罗斯和中国等国家存在一种声音，认为</strong><strong>ICIJ曝光巴拿马文件是出于美国利益给这些国家抹黑的一种阴谋。你怎么回应这些质疑？</strong></p>
+<p>欧蕾珊：对于你提到的所谓阴谋论的说法，我想这是因为当ICIJ开始公开这些文件的时候，人们发现其中没有多少美国人被点名。但这是有原因的，因为莫萨克·冯塞卡公司自己表示，他们不倾向于接纳美国客户。这家公司的经营模式是主要面向欧洲、拉美，还有越来越多地面向亚洲。所以，没有很多美国人出现在报道中是因为莫萨克·冯塞卡根本没有太多美国客户。当然，这当中没有阴谋。起初是一些文件被泄露给了《南德意志报》，随后《南德意志报》又将这些文件分享给了ICIJ。我们认为这些文件对所有人都具有公共价值，因此我们决定将它们报道出来。</p>
+<p><strong>记者：中国党媒《人民日报》旗下的《环球时报》</strong><strong>4月5日发表了一篇题为《偷或编“巴拿马文件”者绝非等闲之辈》的社评。这篇后来被删除的评论指称“巴拿马文件”是“西方情报机构”用于打击普京这样的“非西方领导人”，维护西方意识形态的手段。你对此有何回应？</strong></p>
+<p>欧蕾珊：这种批评纯属无稽之谈。因为如果你看一下我们的报道，你会发现它实际上是很公正的。它不仅让俄罗斯和中国感到尴尬，也让英国、冰岛、美国感到尴尬，让世界上很多政府、个人和政界人士感到尴尬。因此，指责报道是针对俄罗斯和中国是没有事实根据的。</p>
+<p><strong>记者：</strong><strong>ICIJ是否像《环球时报》所指控的那样，从美国政府部门得到经费？</strong></p>
+<p>欧蕾珊：我们没有。就像我刚才说的，我们是一家独立机构。我们从开放社会基金会(Open Society Foundation)，还有福特基金会这样的团体得到资助。我们的网站上列出了给我们提供捐款的组织名单。你可以去查阅。对于我们的资金来源，我们对每个人都是透明的。</p>
+<p><strong>记者：据说，</strong><strong>ICIJ曾经也向中国的媒体记者发出邀请，共同参与报道。你们是否发出了这样的邀请？</strong></p>
+<p>欧蕾珊：这个背景是2013年的时候我们有一个类似的项目，叫作“中国离岸金融解密”。那个项目所涉及到的泄露出来的离岸公司文件规模要小得多。开始的时候我们的确有过一个中国合伙人，是一家中国大陆的刊物。但后来因为调查结果过于敏感，这家出版物退出了。这次，我们在开始这个项目的时候，当然我们也想到过是否邀请中国同行加入，与中国的刊物或者研究机构合作，但我们最终决定我们不想再让一家中国媒体陷入同样的困境当中，即要么是材料内容太敏感，要么是报道太敏感而不敢发表。因此，这一次我们没有中国大陆的合作伙伴。</p>
+<p><strong>记者：你是否知道这家中国媒体的名字？</strong></p>
+<p>欧蕾珊：我知道，但我们不能公开。因为他们不想他们的名字被披露出来。</p>
+<p><strong>记者：你认为中国当局是否对这些文件被泄露感到紧张？</strong></p>
+<p>欧蕾珊：事实是，中国方面封锁了一切有关巴拿马文件的消息。这显示，中国当局害怕这一消息被公众知道。星期二，中国外交部的例行记者会上，外交部发言人洪磊被问到巴拿马文件的问题。他没有回答，说是“捕风捉影”，不予回答。但在外交部网站上，洪磊回答记者提问的文字记录这部分被删除了。这是一个例子。还有就是中国屏蔽了外媒的电视报道。当BBC电视报道到巴拿马文件时，电视画面马上就被掐掉了。这说明中国当局对此非常紧张。</p>
+<p><strong>记者：</strong><strong>4月7日，巴拿马文件中一位被点名的中共高官家人、已故前中共总书记胡耀邦的儿子胡德华在接受港媒采访时公开回应，称自己“堂堂正正”。你怎么看有当事人认为，开设离岸公司属于合理合法的说法？</strong></p>
+<p>欧蕾珊：当然，很多开始离岸公司的理由是合理的。开离岸公司本身并不说明它是非法的。但在我们报道出的每个案例中，我们所做的是向这些离岸公司发出请求，要求核实，比如我们问，你的公司是干什么的，你是否向中国有关部门申报过，你是否就所得利润进行税务申报，等等。所以说，我们的问题并不是你为什么要做这样一件合法的事情，而是你的离岸公司目的是什么。我很高兴胡德华能够就他的离岸公司公开做出回应，进行澄清。可能的话，我报道中列出的其他人也能够效仿他。我认为，有些离岸公司并没有什么见不得人的。但在其它一些案例中，比如谷开来。我们知道，她的离岸公司是为了躲税，为了帮助她在法国南部拥有一处别墅。这些细节都已在她和她丈夫薄熙来受审时得到公开。</p>
+<p><strong>记者：你认为，巴拿马文件中曝出的这些权贵的离岸公司是否会最终导致他们成为中国反腐运动的目标？</strong></p>
+<p>欧蕾珊：我希望这个数据库能够对王岐山和其他反贪官员带来巨大帮助。我们给他们提供了线索。这并不意味如果你的名字在文件中提到了，你就是腐败分子。但它确实意味你开设一家离岸公司是有原因的，而这正是中国反腐部门应该去调查的。比如，李小琳的案例。她是一家国有电力公司的高管。但我们发现她在列支敦士登有一个基金公司。我不清楚她的上级是否了解到这一情况，我也怀疑她为什么要开这么一家公司。巴拿马文件显示，这家公司的利润来自于将重型机械从欧洲出口到中国。问题是，这些收入与她作为一家国有电力公司的高管是否有关系，还是这一收入她并未申报？这些情况我们并不清楚。我认为，她有必要回答这些问题，因为她是一个国有企业的官员。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%93%E8%AE%BF%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E6%9C%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%88%90%E4%B8%BA%E7%8E%8B%E5%B2%90%E5%B1%B1%E5%8F%8D%E8%85%90%E9%87%8D%E8%A6%81%E7%BA%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%A5%BF%E6%96%B9%E5%8F%8D%E5%A4%8D%E8%BF%BD%E6%89%93/" target="cdt-mirror">环球时报评普京被曝坐拥巨款：俄讨好西方被整得很惨</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png" rel="attachment wp-att-434620"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=575%2C302" alt="putin" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=300%2C157 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=768%2C403 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=1024%2C537 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?w=1430 1430w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>普京儿时玩伴、亿万富翁Arkady与Boris Rotenberg兄弟；普京密友Sergey Roldugin（国际调查记者同盟“巴拿马文件”<span><a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a></span>截图）</span></p>
@@ -778,77 +809,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E8%AD%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/" target="cdt-mirror">【立此存照】微博＋知乎＋微信：那些被消失的“姐夫”</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A7%90%E5%A4%AB.png" rel="attachment wp-att-434429"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A7%90%E5%A4%AB.png?resize=575%2C364" alt="姐夫" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=300%2C190 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=768%2C486 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?resize=1024%2C648 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/姐夫.png?w=2236 2236w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>“姐夫”：国际调查记者同盟“巴拿马文件”<a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a>截图</span></p>
-<p><strong>由于无法直接讨论有关“<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>”和习近平姐夫<a href="http://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/" target="_blank">邓家贵</a>离岸资产的话题，“姐夫”一度成为了中国网民中提及频率最高的巴拿马文件事件替代词，甚至在昨天登上了新浪微博热搜榜。</strong>目前该微博话题已被删除（截图来自推特）：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C1.jpeg" rel="attachment wp-att-434406"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C1.jpeg?resize=350%2C622" alt="微博热搜1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博热搜1.jpeg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博热搜1.jpeg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博热搜1.jpeg?w=600 600w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg" rel="attachment wp-att-434424"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg?resize=400%2C711" alt="微博姐夫话题" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUkAEc8_a.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p><strong>“姐夫”在知乎也迅速成为热门话题</strong>，一时间引来了大量隐晦但不失讥讽的吐槽（以下截图来自推特）：</p>
-<blockquote><p><strong>问题</strong>：<br>
-姐夫做了不好的事，我该怎么办？<br>
-姐夫以前做了些不好的事，然后因为其他原因被牵扯出来了，我该怎么办</p>
-<p><strong>答主</strong>：啮齿类动物杀手<br>
-你就直说吧，你是不是姓习</p>
-<p><strong>答主</strong>：孙陆天<br>
-媛水救不了近火</p>
-<p><strong>答主</strong>：匿名用户<br>
-“军委的同志身居高位，全军官兵在看着我们，广大的人民群众在看着我们。为人是否正派？做事是否干净？这是事关党和军队形象的大问题。……只有给全军作出表率了，我们抓全军作风建设才有底气。自己不..”</p>
-<p><strong>答主</strong>：立青<br>
-这。是。一。道。送。命。题叫姐夫别慌，过几天新闻热点就转移了等一下，有人敲门，我先去拿下快递。</p>
-<p><strong>答主</strong>：欧阳星<br>
-参考两个套路1.一派胡言，给我的家庭泼脏水。2.无中生有的事你说出来等于你也有责任。</p>
-<p><strong>答主</strong>：狗大王<br>
-字里行间充满江胡习气</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB4.jpg" rel="attachment wp-att-434422"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB4.jpg?resize=450%2C800" alt="知乎姐夫4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫4.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫4.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB3.jpg" rel="attachment wp-att-434414"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB3.jpg?resize=450%2C800" alt="知乎姐夫3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫3.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫3.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>问题</strong>：<br>
-姐夫是谁？</p>
-<p><strong>答主</strong>：王东来<br>
-有本事知乎把姐夫这个词给屏蔽了，否则我见一次答一次。只准州官避税，不许百姓换外汇？</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB2.jpg" rel="attachment wp-att-434409"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB2.jpg?resize=450%2C800" alt="知乎姐夫2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫2.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫2.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><strong>目前，知乎上所有包含“姐夫”一词的话题已全部被删。以下截图由数字时代截取自谷歌快照：</strong></p>
-<blockquote><p><strong>问题</strong>：<br>
-姐夫上热搜 说明什么？</p>
-<p><strong>答主</strong>：黎明待黄昏<br>
-还好及时存下来了，估计你这个话题一会儿也要没。总之，怕被查水表就不说什么了。一句话，这是演的最像的一个武松。看看吧，如果明天还在就好好说点儿自己的看法吧。</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A71.png" rel="attachment wp-att-434410"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A71.png?resize=550%2C707" alt="知乎姐夫快照1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照1.png?resize=768%2C987 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照1.png?resize=797%2C1024 797w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照1.png?w=1696 1696w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>问题：</strong><br>
-如何评价中北美地区纸张质量与大洋洲等地纸张质量的区别？<br>
-如题，毕竟是姐姐的老公发展的技术，我觉得还是中北美洲的质量比较好</p>
-<p><strong>答主：mb2009</strong><br>
-单就纸张质量来看的话，中北美地区纸张质量率先引入来自亚洲的先进造纸技术，具有较高的收藏价值，但由于中北美洲盛产一种叫做承续猿的生物，该生物以中北美地区特有的孢子为食，导致目前中北美地区的纸张比较少见，一般很少能长期保存。</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A72.jpg" rel="attachment wp-att-434411"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A72.jpg?resize=500%2C805" alt="知乎姐夫快照2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照2.jpg?resize=768%2C1237 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照2.jpg?resize=636%2C1024 636w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照2.jpg?w=1451 1451w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>问题：</strong><br>
-巴拿马运河两端的水位差能否用来发电？<br>
-资料显示，巴拿马运河的两端的太平洋和大西洋有50厘米的水位差，开下脑洞，如果解决了河床过高的问题能否利用这50厘米的落差来发电？</p>
-<p><strong>答主：华强北膜王</strong><br>
-发电不行 但是灌溉良田 丰收后 白天在地里大肆庆祝 晚上躺在稻子堆上听蛤蟆叫 然后用谷物制成白面粉 包包子 坠吼吃</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A73.jpg" rel="attachment wp-att-434412"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A73.jpg?resize=550%2C303" alt="知乎姐夫快照3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?resize=300%2C165 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?resize=768%2C423 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?resize=1024%2C563 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照3.jpg?w=2588 2588w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>问题：</strong>巴拿马运河在哪里？</p>
-<p><strong>答主：</strong>知乎用户<br>
-反正不在知乎上，基本都删完了。</p>
-<p><strong>答主：</strong>周某某<br>
-姐夫的碗里。</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A74.png" rel="attachment wp-att-434413"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A74.png?resize=550%2C723" alt="知乎姐夫快照4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?resize=228%2C300 228w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?resize=768%2C1010 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?resize=779%2C1024 779w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照4.png?w=1784 1784w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>问题</strong>：如何看待俄国与某国封锁我姐姐的老公投资理财的信息？</p>
-<p><strong>答主</strong>：healer就是我<br>
-闷声发大财，懂吗</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A75.jpg" rel="attachment wp-att-434420"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E4%B9%8E%E5%A7%90%E5%A4%AB%E5%BF%AB%E7%85%A75.jpg?resize=550%2C561" alt="知乎姐夫快照5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?resize=294%2C300 294w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?resize=768%2C784 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?resize=1003%2C1024 1003w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知乎姐夫快照5.jpg?w=1468 1468w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><strong>微信当然也不能幸免，封的封删的删：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB.jpg" rel="attachment wp-att-434404"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB.jpg?resize=550%2C413" alt="微信姐夫" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB2.jpg" rel="attachment wp-att-434405"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E4%BF%A1%E5%A7%90%E5%A4%AB2.jpg?resize=620%2C106" alt="微信姐夫2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫2.jpg?resize=300%2C51 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫2.jpg?resize=768%2C132 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微信姐夫2.jpg?w=975 975w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1"></a></p>
-<p><strong>附：更多微博截图（图片来自推特）</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg" rel="attachment wp-att-434423"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg?resize=400%2C711" alt="CfXgvoOUEAA88Ia" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUEAA88Ia.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg" rel="attachment wp-att-434425"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg?resize=400%2C711" alt="CfXgvoOUYAAr7-v" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvoOUYAAr7-v.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg" rel="attachment wp-att-434426"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg?resize=400%2C711" alt="CfXgvqhUUAAnDWB" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfXgvqhUUAAnDWB.jpg?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -860,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -870,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

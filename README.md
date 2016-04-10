@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,88 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E8%AF%B4-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%93%88%E7%93%A6%E9%82%A3%E5%89%AA%E5%BD%B1/" target="cdt-mirror">世界说 | 社会主义哈瓦那剪影</a>
+</h2>
+<p><p>作者：陈钟伟</p>
+<p><strong>这里是世界说#开放中的国家#系列，民主化的缅甸，打开门的古巴，核协议以后的伊朗……甚至是，未来的朝鲜？我们的目标是，残忍地打破神秘，专治各种不服。</strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.35.50.png?resize=569%2C381" alt="Screen Shot 2016-04-09 at 上午10.35.50" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.35.50.png?resize=300%2C201 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.35.50.png?w=569 569w" sizes="(max-width: 569px) 100vw, 569px" data-recalc-dims="1"><br>
+△ 哈瓦那街头一张颇有象征意义的照片</p>
+<p><strong>■ 哈瓦那的公交车旅程</strong></p>
+<p>某次从机场回城区的漫漫路上，一路源源不断有人上车进城。<wbr></wbr>原本热带气候特有的闷热难耐，被塞的密不透风，着实是闷罐车，<wbr></wbr>混着体味，让人透不过气来。出于车厢密度超过人道极限，<wbr></wbr>在一个人头攒动的枢纽站，面对挥起手臂成片的人群，<wbr></wbr>司机不愿停车，却迅速被人群围住，面对并不准点的公交系统，<wbr></wbr>大概乘客也没有等待下一趟的耐心，挡在车前吵嚷，虽不通西语，<wbr></wbr>但此起彼伏扯起的嗓音已经让人燥郁。</p>
+<p>司机耐不住一群人，<wbr></wbr>最终索性让大家都来体验，车刚开出没多久，<wbr></wbr>一位男乘客又忘记了提前提醒司机下车，司机一个急刹车，<wbr></wbr>尽管车厢里大家动弹不得，并无人摔倒，但彼此重重的贴在一起，<wbr></wbr>如同千层饼。这一出火上浇油瞬间点燃了车厢里乘客的怨气。<wbr></wbr>刚才车外的吵嚷转移到车内，车索性不开了，对司机的群起围攻，<wbr></wbr>司机的申辩，高亢的女声与嘶吼的男声都没有停下来的意思，<wbr></wbr>让人窒息。<strong>令人惊异的是并没有人要下车，忍受着非人的煎熬，</strong><wbr></wbr><strong>大概有心下车的早已泅渡海峡移民美国了吧！</strong><wbr></wbr>不知这是否时常会上演，我有幸成为现场目击人。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.36.38.png?resize=566%2C426" alt="Screen Shot 2016-04-09 at 上午10.36.38" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.36.38.png?resize=300%2C226 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.36.38.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"><br>
+△ 古巴拥挤的公共交通。</p>
+<p><strong>■ 日常用水在哈瓦那</strong></p>
+<p>在仅有两层楼的哈瓦那火车站，时时都有候车的古巴人对着没有水龙头的金属自来水管口饮上一气。供水在哈瓦那及古巴主要城市很成问题，尽管这是个多雨的热带国度，哈瓦那并无通向每家每户的自来水管，而是从水厂通过暗渠和地下水管道系统通向家家户户的水窖，如果装自来水管那是居民自家的事。水厂每三天向水窖放水，如果没能储备足够三天的用水，就只能去黑市高价。遇到海拔高的位置，水压便会很弱，哈瓦那住宅区罕有高层，供水也是主要的困扰。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.37.11.png?resize=566%2C385" alt="Screen Shot 2016-04-09 at 上午10.37.11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.11.png?resize=300%2C204 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.11.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"><br>
+△ 古巴人民用桶储存饮用水。</p>
+<p><strong>■ 古巴的出版与阅读</strong></p>
+<p>在海明威最爱的“两个世界”旅馆边上，哈瓦那规模较大的书店里，经典类小说无论是西语原著还是西语译作都还不少，而马列著作更是荦荦大端。不过版本老旧，罕能见到近年出的书，似乎有一本画册出版于2009年，是2012年能找到最新的书了。而一本巴蒂斯塔的传记吸引了我——封面中巴蒂斯塔的头像被装在铁窗里。如果2月份来，能赶上哈瓦那书展，到时可以开开眼界，否则看书就去国立图书馆吧！在这个热情洋溢的国度阅读似乎并不发达，音乐与舞蹈可能才是对抗匮乏的日常生活的主要形式。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.37.43.png?resize=550%2C268" alt="Screen Shot 2016-04-09 at 上午10.37.43" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.43.png?resize=300%2C146 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.43.png?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+△ 哈瓦那街头的书店，可见切·格瓦拉、菲德尔·卡斯特罗等人的头像充斥封面。</p>
+<p><strong>■ 古巴人如何出国</strong></p>
+<p>通常古巴居民出国，除了申请签证，还只能去双方有外交关系且有互派使节的国家，对于古巴，主要是拉美的厄瓜多尔、阿根廷、委内瑞拉、玻利维亚等国。为了外交人员与探亲团聚的便利，早在古美关系正常化之前，哈瓦那一早就开通了与美国的包机，之前要经停巴哈马中转，如同开通直航之前的海峡两岸，对60岁以上的老年公民，还可以申请真正的直飞包机机票，但仅限于探亲团聚，对观光客是不开放的。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.38.15.png?resize=567%2C365" alt="Screen Shot 2016-04-09 at 上午10.38.15" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.38.15.png?resize=300%2C193 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.38.15.png?w=567 567w" sizes="(max-width: 567px) 100vw, 567px" data-recalc-dims="1"><br>
+△ 通行古巴与美国的航班。</p>
+<p><strong>■ 艺术与政治</strong></p>
+<p>在哈瓦那国家艺术博物馆，我仔细地篦过一遍所有藏品，1957~1961年间在古巴井喷式涌现的当代艺术作品都不见了，巴蒂斯塔晚期的艺术文化如同发生在沙俄倒台前后白银时代或者魏玛共和国时期的小规模翻版，这期间萨特与波伏娃，玛雅·黛伦与梅索斯兄弟，迪亚哥·利弗拉与弗里达·卡洛，一股脑涌入古巴，古巴忽然成为拉美与欧洲左翼知识与艺术思潮的天堂。如同古巴祖母级诗人Carilda Oliver Labra 1958年出版的诗集“发烧的记忆”，那确实是一段发烧的记忆，言论空前的自由，只要稍微有勇气承担不足道的风险；各种艺术流派纷呈。</p>
+<p>击退猪湾入侵，卡斯特罗开始着手文化战线，1961年6月30日,革命后的古巴第一次召开知识分子座谈，卡斯特罗提出<strong>“在革命里，一切都如常进行，反对革命，一无所有”，“反革命者无权可享，因为革命本身应当拥有权利，生存的权利，发展的权利，胜利的权利！”</strong></p>
+<p>此后多家报馆被关，Carilda Oliver Labra，这位哈瓦那大学法学系高菲德尔四届的师姐在此后也长期无法出版——她早年大量创作的爱情诗被认为淫秽下流，回到家乡做英文老师；这期间，古巴基础教育倒是得到大跃进式的发展。在苏联功能主义的影响下，建筑也日趋保守，充满当代艺术风格与实验精神的“国家艺术学校”成为烂尾楼。</p>
+<p>而后在官方的艺术史编纂中，这些出格的作品消失了，尽管社会主义现实主义在古巴并未像在苏联被整齐划一式的强制执行，但毫无疑问，大量那个时代的先锋作品与艺术家们一起流亡并在这个国度销声匿迹了。</p>
+<p>另一边厢在迈阿密的古巴文化与艺术博物馆，关于是否收藏与拍卖那些古巴境内听话的艺术家的作品的争议，却导致这家维系古巴社群与文化的博物馆关门。1988年，为了筹集善款维持古巴文化与艺术博物馆，该博物馆举行展出与拍卖，然而不少流亡人士以政治标准——艺术家是否公开抗议卡斯特罗政府来看待艺术藏品，尽管拍卖顺利举行，却在争吵中进行，有人甚至500美元买下亲政府艺术家的作品并当街烧掉。此后十多个博物馆董事会成员辞职，两度发生雷管爆炸，导致迈阿密市政的公开干预，以博物馆商业利用文化遗产建筑要求收回。尽管援引宪法第一修正案，博物馆起诉并赢了官司，但关于藏品争议依旧不断。最终在1999年，市政府宣布因财源紧张，考虑公开出售这栋隶属于市政当局的土地而收回博物馆的馆址建筑，主要藏品被董事会捐给迈阿密大学Lowe艺术博物馆。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.39.11.png?resize=522%2C400" alt="Screen Shot 2016-04-09 at 上午10.39.11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.11.png?resize=300%2C230 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.11.png?w=522 522w" sizes="(max-width: 522px) 100vw, 522px" data-recalc-dims="1"><br>
+△ 古巴文化和艺术博物馆。</p>
+<p><strong>革命将族群撕裂，让政治立场成为敏感话题，并拖上艺术陪葬，在佛罗里达海峡两岸上演着不同版本的故事。</strong></p>
+<p><strong>■ 从革命的乌托邦到革命的博物馆</strong></p>
+<p>漫步大街小巷，令人惊异的是博物馆遍布老城区，这大大方便了外来游客触摸这个国度的历史。仅1996年到2004年之间，哈瓦那拔地而起70座博物馆，古巴前所未有的开始絮絮叨叨的自我缅怀、自我阐释，正如芝加哥艺术学院教授Rachel Weiss的观察“博物馆的古巴代替了乌托邦的古巴”，尽管这依然是经过意识形态编辑之后的陈列，但是革命意识形态的创作力日趋衰竭就如卡斯特罗兄弟的老去，这是不争的事实。</p>
+<p>直至今日何塞·马蒂、切·格瓦拉、菲德尔·卡斯特罗依旧是古巴的主题，在高大的政府或是纪念性建筑上，时常能看到他们渐趋褪色的孔武面庞。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.39.54.png?resize=567%2C379" alt="Screen Shot 2016-04-09 at 上午10.39.54" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.54.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.54.png?w=567 567w" sizes="(max-width: 567px) 100vw, 567px" data-recalc-dims="1"><br>
+△ 古巴内政部大楼外的切·格瓦拉头像。</p>
+<p><strong>■ 买不起新居，那就换房</strong></p>
+<p>随着劳尔· 卡斯特多放宽对私营经济的管制，个体私营经济大量涌现，但私营雇主很不乐意雇佣来自国企的员工，“偷懒、偷东西”是主要的槽点，斯科特在《弱者的武器》中所记述的东南亚农民日常的反抗形式，在吃大锅饭的集体中一样不少的被复制出来。</p>
+<p>直到90年代，古巴人都无法售卖自家的房屋，然而乔迁新居并没有成为神话；在那时古巴人发明了自己的方式交易——换房，只要两家觉得彼此条件差不多，于是就都有了新居，一举两便。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.40.31.png?resize=564%2C427" alt="Screen Shot 2016-04-09 at 上午10.40.31" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.40.31.png?resize=300%2C227 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.40.31.png?w=564 564w" sizes="(max-width: 564px) 100vw, 564px" data-recalc-dims="1"><br>
+△ 颜色极为艳丽的古巴民居。</p>
+<p><strong>■ 等待戈多</strong></p>
+<p>私营经济的不彰部分也源于时间意识的淡漠。</p>
+<p>在这里刚好赶上中古留学项目第一届医学院留学生毕业，据校方说会有记者来采访，希望毕业生在校等候与迎接，可是一天过去，记者也没出现，也不知道是不是改期，明天会不会来。在哈瓦那国会大厦北侧Obrapia街的邮局总局，一场火灾导致一条街停电，问到隔壁仅凭自备发电设备还不曾黑灯瞎火的国营酒店何时能来电，对方前台满脸茫然。</p>
+<p>时间意识淡漠是西语拉丁文化的特点，只不过在古巴表现的尤为突出。赶飞机在古巴是一个要命的事情，慢悠悠的节奏中，没有人会急你所急，出租车、公交都没点儿。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.41.06.png?resize=562%2C331" alt="Screen Shot 2016-04-09 at 上午10.41.06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.06.png?resize=300%2C177 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.06.png?w=562 562w" sizes="(max-width: 562px) 100vw, 562px" data-recalc-dims="1"><br>
+△ 哈瓦那的一条慢行道，生活就这样不紧不慢地进行。</p>
+<p><strong>■ 再见吧，网络审查</strong></p>
+<p>如今上网已经方便了很多，不少酒店与网吧，网费已经从之前的6~10外汇券降到每小时2~3外汇券，即便如此按照古巴人均收入水平，一个月也只能上10个小时，无怪乎提供免费Wi-Fi的公园，没白没夜的人群蜂拥，人们抱着手机与亲人、朋友聊天，或仅仅是上网。</p>
+<p>面对我邮件发出的Skype/WhatsApp/Facebook采访请求，多数古巴人以网络不好婉拒，而接受我访谈的古巴人往往不是在厄瓜多尔就是在阿根廷旅行。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.41.40.png?resize=570%2C283" alt="Screen Shot 2016-04-09 at 上午10.41.40" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.40.png?resize=300%2C149 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.40.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br>
+△ 奥巴马宣布，谷歌开始布线古巴的互联网接入。</p>
+<p>尽管源于硬件设备，古巴网速依然缓慢，上网依然昂贵，然而与国际互联网接轨的速度早已将我们甩开，从古巴短暂回国逗留的朋友在Facebook上问我用什么VPN，末了他告诉我，下周回古巴，就不再为这事困扰了。</p>
+<p>– END –</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E8%AF%B4-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%93%88%E7%93%A6%E9%82%A3%E5%89%AA%E5%BD%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97/?category=18271" rel="tag">卡斯特罗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A4%E5%B7%B4/?category=18271" rel="tag">古巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A4%E5%B7%B4%E6%89%93%E5%BC%80%E5%9B%BD%E9%97%A8/?category=18271" rel="tag">古巴打开国门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%B0%91%E5%B0%86%E5%86%9B%E5%8F%88%E9%A2%98%E8%AF%8D%E4%BA%86%EF%BC%9A%E3%80%8C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%AA/" target="cdt-mirror">【河蟹档案】少将军又题词了：「巴拿马文件是个好文件」</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%B4%AB%E8%8D%86%E9%93%BF%E9%94%B5%E8%A1%8C">紫荆铿锵行</a>：猪国梦：删无赦！[挖鼻] <em>相关阅读｜《<a href="http://cn.nytimes.com/world/20160408/c08panama-putin/">纽约时报<em>｜</em>“巴拿马文件”震动全球，各国政府反应不同</a>》；《<a href="http://cn.nytimes.com/world/20160407/c07panamamedia/">纽约时报<em>｜</em>谁公开了巴拿马文件？揭秘调查记者团队</a>》；《<a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%B9%8B%E8%96%84%E8%B0%B7%E5%BC%80%E6%9D%A5%E7%AF%87/a-19172166">德国之声<em>｜</em>德语媒体：巴拿马文件之“薄谷开来篇”</a>》</em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?resize=524%2C698" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?w=960 960w" sizes="(max-width: 524px) 100vw, 524px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3961987417934900" target="/weibo/396">2016年04月08日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%A2%9C_%E4%BD%A9%E5%89%91">颜_佩剑</a>：中国好姐夫 <em><em><em><em><em><em>相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160407-%E2%80%9C%E5%A7%90%E5%A4%AB%E2%80%9D%E6%88%90%E4%B8%BA%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E6%96%B0%E7%83%AD%E8%AF%8D">法广<em><em><em><em><em><em>｜</em></em></em></em></em></em>习近平“姐夫”成为大陆网络新热词</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/xl3-04082016101828.html">自由亚洲<em><em><em><em><em><em>｜</em></em></em></em></em></em>中国权贵卷入巴拿马文件 胡耀邦之子胡德华率先正面回应</a>》</em></em></em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-18.jpg?resize=412%2C603" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-18.jpg?resize=205%2C300 205w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-18.jpg?w=640 640w" sizes="(max-width: 412px) 100vw, 412px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3961562508579918" target="/weibo/396">2016年04月07日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%8B%8F%E5%B7%9E%E9%83%8E%E5%BF%83%E9%93%81">苏州郎心铁</a>：姐夫，姐夫！ <em><em><em><em><em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-19/">【网络民议】看敏感词库 已到姐夫</a>》；《<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/">【立此存照】微博＋知乎＋微信：那些被消失的“姐夫”</a>》</em></em></em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=497%2C497" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?w=640 640w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3962402926062317" target="/weibo/396">2016年04月09日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B6%89-%E7%BE%8E266">涉-美266</a>：少将军又题词了<strong><br></strong><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-11.jpg?resize=531%2C351" alt="毛新宇" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-11.jpg?resize=300%2C198 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-11.jpg?w=480 480w" sizes="(max-width: 531px) 100vw, 531px" data-recalc-dims="1"><br><strong><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%B0%91%E5%B0%86%E5%86%9B%E5%8F%88%E9%A2%98%E8%AF%8D%E4%BA%86%EF%BC%9A%E3%80%8C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%AA/"><em>点击这里查看嵌入的视频。</em></a></p><br></strong><a href="https://freeweibo.com/weibo/3960900770040799" target="/weibo/396">2016年04月05日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%9C%9F%E7%89%9B%E7%9A%84%E7%89%9B23">真牛的牛23</a>：网评员工作指南………………<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-16.jpg?resize=495%2C800" alt="333" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3962288748628418" target="/weibo/396">2016年04月09日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%B0%91%E5%B0%86%E5%86%9B%E5%8F%88%E9%A2%98%E8%AF%8D%E4%BA%86%EF%BC%9A%E3%80%8C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E6%8C%87%E5%8D%97/?category=18271" rel="tag">五毛指南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">恶搞讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%96%B0%E5%AE%87/?category=18271" rel="tag">毛新宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">离岸财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2-%E8%94%A1%E6%85%8E%E5%9D%A4%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%90%9E%E5%99%AC%E8%B4%A2%E5%AF%8C%E8%B0%81%E8%A2%AB%E6%A6%A8%E5%B9%B2%E8%A1%80%E6%B1%97%EF%BC%9F/" target="cdt-mirror">新浪博客 | 蔡慎坤：谁在吞噬财富谁被榨干血汗？</a>
 </h2>
 <p><p>作者：蔡慎坤，BWCHINESE中文网专栏作家、每经智库专家、著有《股民辞典》《海南十年反思》《谁来拯救中国股市》等书，凤凰网2011、2012十大影响力博主。</p>
@@ -736,45 +815,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%87%AA%E5%AA%92%E4%BD%93%E8%88%86%E8%AE%BA%E6%88%98%E5%88%86%E9%98%9F/" target="cdt-mirror">【立存此照】自媒体舆论战分队</a>
-</h2>
-<p><p>中国人民解放军安徽陆军预备役步兵师第三团政治处（函）</p>
-<p>关于组建网络防护暨自媒体舆论战分队</p>
-<p>巢湖学院：</p>
-<p>根据预备役部队向驻地高校拓展编组的有关要求，现拟在贵校组建一支网络防护暨自媒体舆论战分队，编制20人，请给予协调解决。</p>
-<p>——————————</p>
-<p>来源于网络</p>
-<p>@lhasa_bhu1985：太可怕了，中共真是一個非常邪惡的組織。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfanGRtVAAAabSw.jpg?resize=540%2C720" alt="CfanGRtVAAAabSw" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfanGRtVAAAabSw.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfanGRtVAAAabSw.jpg?w=540 540w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
-<hr><p><small>© 神奇的国度 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E8%87%AA%E5%AA%92%E4%BD%93%E8%88%86%E8%AE%BA%E6%88%98%E5%88%86%E9%98%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%AA%92%E4%BD%93/?category=18271" rel="tag">自媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%88%98%E5%88%86%E9%98%9F/?category=18271" rel="tag">舆论战分队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%84%E5%A4%87%E5%BD%B9/?category=18271" rel="tag">预备役</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%B8%BB%E8%A6%81%E4%B8%8D%E8%A1%8C%E5%9C%A8%E6%83%85%E7%BB%AA%E4%B8%8A/" target="cdt-mirror">王五四｜这届人民不行，主要不行在情绪上</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BD%A0%E5%A7%8B%E7%BB%88%E9%83%BD%E4%B8%8D%E6%98%AF%E5%A7%93%E8%B5%B5.jpg" rel="attachment wp-att-433564"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%BD%A0%E5%A7%8B%E7%BB%88%E9%83%BD%E4%B8%8D%E6%98%AF%E5%A7%93%E8%B5%B5.jpg?resize=413%2C231" alt="你始终都不是姓赵" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/你始终都不是姓赵.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/03/你始终都不是姓赵.jpg?w=413 413w" sizes="(max-width: 413px) 100vw, 413px" data-recalc-dims="1"></a><br><span>网络图片</span></p>
-<p>这届人民真的不行，动不动就情绪不稳定。如果说是娇嫩的西方人民动不动就闹情绪也就算了，可你作为一个饱经世事沧桑多难兴邦的中国人，动不动就闹情绪，是不是该好好反思一下自己。尽快成熟起来，不要给社会添乱，不要让政府为难。</p>
-<p>前几天上海公安部门破获了1.7万罐假冒名牌奶粉案，4日国家食药监总局在官网回应称，上海公安部门已经对查获的假冒乳粉进行了产品检验，产品符合国家标准，不存在安全风险。对于假冒产品符合国家标准这一说法有人表示质疑，上海检方公布犯罪嫌疑人是“收购低档、廉价或非婴儿奶粉灌装生产假冒著名品牌奶粉”，“婴儿奶粉”与“非婴儿奶粉”是完全不同的概念，有不同的配方和成分，当然也有不同的国家标准。那么，“非婴儿奶粉”冒充“婴儿奶粉”是如何符合国家标准的？符合的是哪一项国家标准？后来食药监总局解释说，此前说假奶粉符合国标是为避免恐慌。你看看，你们把相关部门为难成什么样了，如果不是你们动不动就情绪恐慌，食药监局会出此下策吗？</p>
-<p>相关部门这么怕人民恐慌，主要是怕这届人民太累，“和颐酒店女性遇袭”这事人民还没恐慌完，立马又接上了假冒奶粉案带来的恐慌，细心的人会发现，几乎每一天，这里都有至少一件令人民恐慌的事件发生，人民能不累吗？凡事无序则乱，人民的情绪恐慌也是如此，为了减轻政府负担，缓解人民压力，我提议个建设性意见，建议政府出台分单双号恐慌政策，逢一三五休息，二四六恐慌，礼拜七自由选择，原则上不恐慌；或者周一到周五恐慌，周末休息两天，这样做到有序恐慌，人民可以提前做好心理准备，相关部门也可以少为人民操点心，酒浓花艳两相宜。</p>
-<p>在“和颐酒店女性遇袭”这件事情发生后，很多人民的情绪都不稳定了，明星也出来了，男明星纷纷传授防狼知识，呼吁大家不要冷漠，女明星纷纷表示这事“太可怕”、“太嚣张”、“太明目张胆”，最后呼吁大家“多一句问候，多一句关心，就会救回一条人命”，可是，有件事你们终究要明白，就算人人都献出一点爱，世界也不会变成美好的人间，况且“只要人人都如何，就会如何如何”这种句式，是典型的无脑虚构产物，别说多一句关心，多一百句关心也救不了一条命，在种种现实面前，这种抒情假设口号不仅一文不值，反而有粉饰太平的嫌疑，过分强调所谓的美德，只是帮助了真正的责任人推卸责任。我不是在否认你们的善意，只是想提醒你们，当年你们把“善款”交给了红十字会，在你们内心一阵阵暖流过后，世界还是一片冰凉，甚至更冷，个人不是不能捐助，而是首先要有一个良家红十字会，你们不是不能抒情，而是先要分清责任的主体是谁，不要让你的好心遮盖了他人的恶心。</p>
-<p>人民日报教你“姑娘，这样的场景下这样保护自己”，“平安北京”教你“女生遇到危险该如何处置”，各类科普公号、各路影视明星、各家电商平台，也都告诉你该如何自救，该买什么防狼工具，这些本来都没什么问题，甚至警察让你自救也没问题，可这些都得有一个基础，这个基础就是公安局作为公共安全机关，你把你应尽的责任都尽到了再来告诉我我该如何救自己，在我需要你雪中送碳救人于水火之中的时候，你却给我来了一个锦上添花，这时候你给我来个锦上添花圈可能更有用。说到这有人又要跟我磨蹭了，“关公安机关什么事，明明是酒店管理和冷漠路人的责任”，首先出事后，人姑娘去派出所报警，派出所说报案要等办案人员回来，以后报案是不是得都挂号预约了？是不是还得分普通号和专家号？其次，公安机关禁止了性交易，但却对由此衍生的性交易的黑社会化缺乏有效治理，很多妇女是性交易黑社会化的受害者，连酒店本身也是受害者，他们拿那些发小卡片的人没有任何办法，更不敢招惹。当官方机构纷纷教你如何自救时，我感觉很无语，就像一个男人对女人说，“我不在的时候，你要照顾好自己。”，这显然是要分手，不准备负责任的意思。</p>
-<p>你有没有感觉到，这个社会对个体的道德要求越来越高，对个人的防身自救技能也要求越来越多，我们像是丛林里无人保护的散养动物任人宰割，可我们明明交保护费了，这只能说明老大哥没尽到该尽的责任，没履行该履行的义务，我们出让了部分权力和利益，反过头来给自己找了个爹养。我们从小就听惯了各种英雄人物舍生取义、见义勇为的故事，现在也经常能看到道德楷模牺牲小我顾全大局的事迹，在你感动之余能否想一下，催人奶下的故事背后是职能部门缺位造成的个体血泪史。不知道是不是胡适说的，一个肮脏的国家，如果人人讲规则而不是谈道德，最终会变成一个有人味儿的正常国家，道德自然会逐渐回归； 一个干净的国家，如果人人都不讲规则却大谈道德，谈高尚，天天没事儿就谈道德规范，人人大公无私， 最终这个国家会堕落成为一个伪君子遍布的肮脏国家。</p>
-<p>武器是最好的自救防卫工具，当我主动或被动交出使用武器的权利，那么绝大部分的人身安全责任就要由相关部门来承担，你不能一方面不由分说的没收了我的武器，一方面又不作为告诉我要自救。制服或者抓捕犯罪嫌疑人是警察需要具备的基本职业能力，专业领域的事由专业人员来做，一般的人民即使遇到了案发现场，也应该以自保为首要原则，这应该是一个基本常识，而不应被视为冷漠的旁观者加以批评。我们总是在强调美德，却一直在讨论该不该扶老人，其实人们不是在讨论该不该扶，肯定该扶，人们只是在担忧扶了以后会出现的各种后果，而该为这些担忧买单的，只有政府职能部门。对个体一味强调道德自律或者在道德上加以批判是无用的，只有一个良好的法治环境，才能催生你所需要的那种道德感受。一出事就强调美德，就科普教育，不是在推卸责任就是在帮助责任主体推卸责任。</p>
-<p>和颐酒店事件出来后，看大家热火朝天讨论的那些对策，我都要笑哭了，这么正经而严肃的事情，你们都只能得出些戏剧化的解决方案，说到底这事最有效的解决方法就不是自救，而是相关部门，可又拿相关部门没办法，只能自救自爱自嗨了，这事发生在美国会怎么样？我就不多说了。你可以想很多办法在自己受到侵害时引起别人注意，可别指望他人在知道你是真被劫持时会出手相助，相反他或许会跑的更快，说了这么多道理，可在现有的条件下，万一真遇到事了呢？咱还是只能靠自救，我觉得你要喊些更与时俱进深入人心的口号，比如说利用下民族主义情绪，你高喊同胞们这个日本人要强奸我，或者喊这个小学校长耍流氓，实在不行就用最后这个大招：我要上访。</p>
-<p>在面对强盗该怎么办这事上，我发现很多人的思维的确深受早年公知贩卖启蒙的影响，他们说“不要大声喊叫，会激怒劫匪”、“不要反抗，会带来更大伤害”、“说点好话安抚，希望劫匪回心转意”，公知面对强权和这些人面对强盗时，话语体系惊人的一致。公知指责民众素质低，他们指责人民冷漠，公知希望民众提升素质，他们希望受害女性提升自我保护能力，什么刀、枪、剑、戟、斧、钺、钩、钗、鞭、锏、锤、抓、镗、棍、槊、棒、拐子、流星。什么带钩儿的，带尖儿的，带韧儿的，带刺儿的，带峨眉针儿的，带锁链的，都要会。美女什么都会了，英雄去哪吃饭呢？当然，遇到危险时我们别指望英雄救美，万一他不是英雄，或者，万一你不是美人呢。</p>
-<p>如家集团这几天估计忙坏了，其实不需要紧张，人民该开房还得开房，你还不用搞优惠特价，当年肯德基以及众多知名品牌被曝光出各类重大问题时，不照样生意红火吗？问题出再多也不怕，只要责任落不到相关部门头上，只要这届人民情绪依旧稳定。另外我想问一下那些发小卡片的，你们摸着自己的良心回答我，“白领学生、空姐”、“凭此卡优惠200元”，是真的吗？</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%B8%BB%E8%A6%81%E4%B8%8D%E8%A1%8C%E5%9C%A8%E6%83%85%E7%BB%AA%E4%B8%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E9%81%87%E8%A2%AD/?category=18271" rel="tag">和颐酒店女生遇袭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -786,7 +826,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -796,5 +836,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E9%A2%90
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B9%96%E5%8D%97%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E5%AE%98%E5%91%98%E6%B1%82%E5%8A%A9%E5%9B%BD%E5%AE%89%E5%8D%8F%E5%8A%A9%E7%9B%91%E6%8E%A7%E8%AE%B0%E8%80%85/" target="cdt-mirror">法广｜湖南衡阳宣传官员求助国安协助监控记者</a>
+</h2>
+<p><div>
+<p>4月8日，中共湖南省纪委发布消息称，原衡阳市委书记李亿龙涉嫌严重违纪，目前正接受组织调查。</p>
+</div>
+<div>
+<p>此前一周的4月1日下午，衡阳市召开领导干部大会，新任衡阳市委书记周农与已经宣布调任省农村工作领导小组副组长李亿龙进行了交接。</p>
+<p>2012年底至2013年初，衡阳发生严重大范围贿选事件。时任衡阳市“一把手”的童名谦因玩忽职守罪被判处有期徒刑五年。2013年，李亿龙接任衡阳市委书记。</p>
+<p>据澎湃新闻网的报道，4月1日下午2点30分，李亿龙参加完湖南省衡阳市召开领导干部大会后乘坐高铁返回长沙，约4点50分即将到长沙时被湖南省纪委工作人员控制。目击者称，李亿龙在高铁上曾试图过反抗，下车时，脸上有明显伤痕。</p>
+<p>这一新闻在网络上引起巨大反响，许多人感慨曾在衡阳大规模贿选安检后，2013年临危受命，担任衡阳市委书记的李亿龙，也卷入贪腐丑闻，官场已成绞肉机；也有人认为，纪委官员对并非暴力犯罪的贪腐官员暴力处置，似乎有失体统，也无法律依据。</p>
+<p>今天上午，一位记者收到了来自中共衡阳市委宣传部新闻中心主任江勇的短信，这条短信似乎原本应该是发给衡阳市委宣传部部长刘丽华，或者分管新闻的某位副部长，似乎是江勇发送短信时，操作失误发给了记者。</p>
+<p>江勇的短信称，“部长,经查，南方派系常驻湖南记者目前有，宋XX，南方都市报（手机号略去）；蒋XX,澎湃新闻（手机号略去）；曹XX、新京报（手机号略去），我们已经转给国安部门。”</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/WeChat_1460306677.jpg?resize=550%2C979" alt="WeChat_1460306677" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/WeChat_1460306677.jpg?resize=575%2C1024 575w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/WeChat_1460306677.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>检索相关记者报道可发现，南方都市报宋姓记者去年5月、8月都曾有关于衡阳的负面报道（或称监督报道），澎湃新闻记者蒋某，曾报道李亿龙被抓捕细节，而新京报记者曹某,也曾多次报道衡阳的负面报道，他最新的报道和衡阳刚落马的市委书记有关：《衡阳原书记李亿龙被查 被指作风霸道擅长“造城”》。</p>
+<p>熟悉湖南的媒体人认为，江勇这条短信，应该是应领导要求，将最近在调查衡阳负面新闻的记者资料，转交给国安人员，对其进行监听监控。</p>
+<p>今天下午，几位涉及的记者拒绝了采访的要求，熟悉此事的媒体人透露，他们被已向报社汇报此事，并被要求保持沉默。一位当事记者私下表示，“今年还没有踏入衡阳一步。估计是原罪，去年做衡阳的监督性报道比较多。”</p>
+<p>衡阳市委宣传部新闻中心主任江勇未接听本台记者的多次电话，也没有回复记者的短信采访请求。</p>
+<p>傍晚，一位当事记者透露，江勇打电话过来，“带着哭腔道歉，说是他正在编辑短信过程中有事离开，手机放在桌子上，被女儿拿去玩儿，不小心把短信发出去了。”</p>
+</div>
+<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B9%96%E5%8D%97%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E5%AE%98%E5%91%98%E6%B1%82%E5%8A%A9%E5%9B%BD%E5%AE%89%E5%8D%8F%E5%8A%A9%E7%9B%91%E6%8E%A7%E8%AE%B0%E8%80%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E9%83%A8/?category=18271" rel="tag">安全部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E7%B2%BE%E9%80%89/?category=18271" rel="tag">有关部门精选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E8%AF%B4-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%93%88%E7%93%A6%E9%82%A3%E5%89%AA%E5%BD%B1/" target="cdt-mirror">世界说 | 社会主义哈瓦那剪影</a>
 </h2>
 <p><p>作者：陈钟伟</p>
@@ -767,54 +794,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%9A%84%E5%AA%92%E4%BD%93%E4%B8%8D%E5%A7%93%E5%85%9A%EF%BC%8C%E5%90%8E%E6%9E%9C%E5%BE%88%E4%B8%A5%E9%87%8D/" target="cdt-mirror">【网络民议】卡梅伦的媒体不姓党，后果很严重</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%EF%BC%9A%E8%8B%B1%E9%A6%96%E7%9B%B8%E6%89%BF%E8%AE%A4%E6%9B%BE%E5%9C%A8%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8%E6%8C%81%E8%82%A1/" target="_blank">BBC｜巴拿马文件：英首相承认曾在离岸公司持股</a></p></blockquote>
-<p>《卫报》头版照片来自新浪微博<a href="http://weibo.com/1463316773/DpXLsAZU9" target="_blank">@程序猿in日本</a>，其余报刊截图均来自<a href="http://weibo.com/u/1737958917" target="_blank">@Winston71</a>：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A61.jpg" rel="attachment wp-att-434532"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A61.jpg?resize=600%2C896" alt="卡梅伦1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?resize=768%2C1147 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?resize=686%2C1024 686w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦1.jpg?w=1428 1428w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A62.jpg" rel="attachment wp-att-434531"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A62.jpg?resize=600%2C767" alt="卡梅伦2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?resize=235%2C300 235w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?resize=768%2C982 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?resize=801%2C1024 801w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦2.jpg?w=1424 1424w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A63.jpg" rel="attachment wp-att-434530"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E6%A2%85%E4%BC%A63.jpg?resize=600%2C402" alt="卡梅伦3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?resize=768%2C514 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?resize=1024%2C686 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡梅伦3.jpg?w=1436 1436w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/u/1737958917" target="_blank">@Winston71</a>：論「英国人自己首相卡梅伦亲爹在名单上，都被悄声无息挤到后面」、「而西方主流媒体却把普京照片摆在头版欲盖弥彰」<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1562913607" target="_blank">@用户16336560</a>：中国这部分是捏造的，除此之外都是事实。这说明，世界上亡我之心不死，也说明那些所谓的民主国家腐败严重。<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"><img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/owen1969" target="_blank">@黑暗的沉思</a>：有啥了不起？我也可以要求卡梅伦辞职啊！这充分证明，我享有和英国人一样的权利与自由。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2295105211" target="_blank">@第SAN只眼看世界</a><i title="微博个人认证 "></i>：比一比才知道什么叫大国领导人风范，什么叫泰山崩于前而色不变，你们啊，还是<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee94ac.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee94a9.png?resize=20%2C20" alt="" px data-recalc-dims="1">，<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee94ac.png?resize=20%2C20" alt="" px data-recalc-dims="1">奶<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c82.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/eudolp" target="_blank">@南方south</a>：冰岛总理都辞职了<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">。社会主义接班人还在这给大伙洗脑，话捕风捉影呢<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1">。</p>
-<p><a href="http://weibo.com/2147712260" target="_blank">@折戟陈砂肥小猪</a><i title="微博达人"></i>：你们这些人，总想搞大新闻！too  young !too naive !不要捕风捉影！我不作评论！以新闻真实性著称的彭博社都发文了<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">成天删帖啊，建围墙啊，装鸵鸟有意思么</p>
-<p><a href="http://weibo.com/1937499453" target="_blank">@苦逼屌丝上班族马文才</a>：真尼玛傻，学学我们，直接404搞定，多简单。图样图森破<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/loujian" target="_blank">@杭之冯玥均建国后成精</a>： 卡梅伦的获利其实不多，5000个单位，2010年卖出时也不过才3万镑，基本就是小夫妻理财。其实他之前的表态也可以说没啥毛病，一开始说“我没有拥 有”，这是现在时，2010年卖了现在当然没有了。接着表态“未来不会获利”也没毛病，都卖了怎么获利？就是一开始就承认曾经获利且缴税了就好了，不那么被动。</p>
-<p><strong>@Ivan各革：媒体不姓党，后果很严重。</strong></p>
-<p>@杏林真水无香：英国反对党不要捕风捉影。</p>
-<p><strong>@李耳朵979：工党妄议！媒体嫖娼！群众寻衅滋事！</strong></p>
-<p>@基督山亲王1992：“千磨万击还坚劲，任尔东西南北风。”</p>
-<p>@恩克的荒野：欧美国家处心积虑的要害我们的领导人，为了让这所谓的泄露文件看起来真实，不惜上演苦肉计。这是班门弄斧而已，你们难道不知道36计出自于中国吗？想要抹黑我国领导人，中国人民绝不答应</p>
-<p>@河床兄弟：捕到了风，捉到了影</p>
-<p>@穆索诃：可以观察， 各郭制度， 吐故纳新的代谢功能，表现怎样，可以肯定份额最多的奇迹郭，安然如常，岿然不动～</p>
-<p>@刘恒涛：我自岿然不动的祖国好流氓</p>
-<p>@咸亨酒店的粉板：两个凡是：凡是有关中国领导的，都是造谣；凡是有关敌对势力领导的，都是真的。</p>
-<p>@杉久斋：我深刻的理解党媒姓党的重要性了。</p>
-<p>@Lickingmyballs：请英国放《大英环球时报》！</p>
-<p>@远离66：卡卡认了，主要是没有宇宙真理同枪</p>
-<p>@郭嘉磬：图片评论<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg" rel="attachment wp-att-434517"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg?resize=375%2C666" alt="6fb841d5gw1f2oxgmcaicj20hs0vk0tl" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6fb841d5gw1f2oxgmcaicj20hs0vk0tl.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
-<p>@烟雨迷离_：没什么，逼急了开坦克镇压呗</p>
-<p><strong>@枫林1103：我们不搞西方那一套，不回应你能怎么的</strong></p>
-<p>@烂柯山：环球时报，您那篇雄文是为卡梅伦而写的吧？你到底姓党还是姓卡？@环球时报</p>
-<p>@eama226：西方国家都太腐败啦，哪像俺们这疙瘩领导永远正确，万岁万万岁！</p>
-<p>@折腾的skyracer：西方反动势力居然牺牲英国首相来攻击我们敬爱的普大大和其他大大，用心何其毒也？？？？</p>
-<p><strong>@西丰客人在1984：卡老兄落得被人穷追猛打的下场，就是因为缺乏一个牛逼的小舅子啊。</strong></p>
-<p><strong>@81天环游中国：大英帝国会不会亡国啊？</strong></p>
-<p>@大大大大大石碎胸口：卡梅伦不会删帖吗，这届英国人不行啊</p>
-<p>@轩辕的传说：卡梅伦也是没骨气，就不能说，对于这种捕风捉影的东西，我不做任何评论。</p>
-<p>@闫兴中XL：更加明白了我们的大佬们坚持走社会主义特色道路永不变色、坚决不走西方资本主义邪路的根本原因了吧？</p>
-<p>@白酒上市公司：流氓，黑社会一般都不理睬这种事的，你能把我怎么样！</p>
-<p>@琴声-响起：首相大人，拿起法律武器，起诉英国媒体捕风捉影！</p>
-<p>@一念木头：不姓赵的都没好下场</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8D%A1%E6%A2%85%E4%BC%A6%E7%9A%84%E5%AA%92%E4%BD%93%E4%B8%8D%E5%A7%93%E5%85%9A%EF%BC%8C%E5%90%8E%E6%9E%9C%E5%BE%88%E4%B8%A5%E9%87%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -826,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -836,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

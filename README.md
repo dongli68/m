@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E7%A6%81%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%98%AF%E6%96%AD%E4%BA%86%E5%BA%95%E5%B1%82%E6%B0%91%E4%BC%97%E7%9A%84%E8%B7%AF/" target="cdt-mirror">网易回声 | 禁电动车是断了底层民众的路</a>
@@ -130,7 +130,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%A6%99%E6%B8%AF%E3%80%8A%E5%89%8D%E5%93%A8%E3%80%8B%E5%87%BA%E7%89%88%E5%95%86%E6%8A%AB%E9%9C%B2-%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E8%A2%AB%E5%B9%BF/" target="cdt-mirror">自由亚洲｜《前哨》出版商披露 一个月内被国安3次登门造访</a>
 </h2>
@@ -147,7 +147,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%BE%BE%E6%96%87/?category=18271" rel="tag">刘达文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%93%A8/?category=18271" rel="tag">前哨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E8%BF%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">强迫失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/" target="cdt-mirror">中国数字时代(China Digital Times)免翻墙浏览器扩展</a>
 </h2>
@@ -335,7 +335,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%96%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E6%8C%87%E5%8D%97/?category=18271" rel="tag">五毛指南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">恶搞讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%96%B0%E5%AE%87/?category=18271" rel="tag">毛新宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">离岸财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2-%E8%94%A1%E6%85%8E%E5%9D%A4%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%90%9E%E5%99%AC%E8%B4%A2%E5%AF%8C%E8%B0%81%E8%A2%AB%E6%A6%A8%E5%B9%B2%E8%A1%80%E6%B1%97%EF%BC%9F/" target="cdt-mirror">新浪博客 | 蔡慎坤：谁在吞噬财富谁被榨干血汗？</a>
 </h2>
@@ -712,7 +712,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -722,5 +722,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

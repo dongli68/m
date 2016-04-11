@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,193 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E7%A6%81%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%98%AF%E6%96%AD%E4%BA%86%E5%BA%95%E5%B1%82%E6%B0%91%E4%BC%97%E7%9A%84%E8%B7%AF/" target="cdt-mirror">网易回声 | 禁电动车是断了底层民众的路</a>
+</h2>
+<p><p><strong>中国地方政府既不花心思改善公共交通，也不考虑对电动车划分明晰路权，更不会对电动车车主进行安全教育或者牌照登记管理，在不管不问多年后，却要没收你的私人财产。今天他们会禁摩限电，明天他们就会砸烂其他他们没能力管的交通工具。</strong></p>
+<p>本文系网易原生内容中心《回声》栏目出品，每周一至周五准时更新。</p>
+<p>3月下旬开始，一场史上最严的“禁摩限电”运动席卷深圳。深圳交警采取前所未有的力度，对摩的、电动车围追堵截，不到10天时间，就查扣了17975辆电动车，拘留874人。快递业叫苦不迭，而普通民众也是怒撒街头，有人宁愿将自己电动车砸烂，也不愿让执法人员没收。</p>
+<p>4月4日，深圳方面召开“禁摩限电”记者会。就如同中国绝大多数地方政府一样，深圳方面不反思自己的城市管理水平，却继续将责任丢给电动车和车主，指责电动车事故多发，隐患重重。既然深圳此次“禁摩限电”是之前政策的延续，深圳也不是第一个把屠刀挥向电动车的城市，那就让我们看看，到底是谁让中国民众选择电动车，是谁让电动车发展乱象频出，又是谁三番五次让民众无车可用、无路可走的。</p>
+<blockquote><p>公共交通落后，政府又禁了摩托，被逼无奈中低收入者只能选择电动车。</p></blockquote>
+<p>中国电动自行车（下称“电动车”）销售，从1998年的区区4万辆猛增至2005年的1000万辆，而电动车保有量从2004年不足2000万辆，增加到2014年的2亿辆——这种由人力驱动自行车向电池驱动自行车的快速转变，迄今为止只在中国发生过。毫无疑问从90年代以来，电动自行车技术，特别是电机以及电池技术的重大进步，为电动车发展创造了条件。但中国的电动车热潮，也是城市公共交通水平低下、政府威逼利诱的结果。</p>
+<p>生活在中国大城市，简陋的公共交通体系让人不得不寻找替代的出行方式。经合组织(OECD)披露，中国城市公共交通长期滞后于城市化进程，也远远落后于全球各大城市的发展。截止到2012年，英国伦敦轨道交通密度为567米/平方公里，法国巴黎为446米/平方公里，日本东京-横滨为407米/平方公里，而中国表现最好的上海，也仅为130.3米/平方公里。考察轨道交通可用率，中国也是惨不忍睹，英国伦敦可用率达到了192公里/百万人，日本东京-横滨为69公里/百万人，而表现最好的北京，竟然才25.9公里/百万人。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=600%2C375" alt="2015年12月24日，北京地铁人满为患。/视觉中国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=1024%2C640 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2015年12月24日，北京地铁人满为患。/视觉中国</p></div>
+<p>公共交通越落后，人们就越不愿意乘坐。2007年，加州大学戴维斯分校的乔纳森•维纳特(Jonathan Weinert)在《中国电动自行车的崛起》中提到，当石家庄的电动车使用者被问及如果他们不能使用电动车，他们会选择什么替代方式出行，不到40%的人选择了公交（剩下的人选择出租车和汽车的人寥寥无几）；上海公交系统稍微好一些，愿意改乘公交的电动车使用者也不到60%。</p>
+<p>对中低收入群体来说，就算公共交通条件艰苦，他们本可以选择购买摩托车。但从90年代末开始，中国上百个城市以环境污染、交通事故频发为由，开展了如火如荼的“禁摩”运动。根据清华大学、加州大学戴维斯分校和加州大学伯克利分校三位教授的研究，“禁摩”运动推动了电动车数量的井喷。上海从1996年开始限摩，2002-2004年，使用汽油的摩托车因为受到禁止，从350万辆下降到250万辆；使用液化石油气的摩托车仍被准许上路，从不足10万辆，增加到将近100万辆。而不受任何束缚的电动车涌入上海市场，短短两年内从无到有，增长了近400万辆。其他“亲电动”的城市如成都，“禁摩”运动甚至使得电动车数量在上述两年内超过了自行车。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=600%2C375" alt="2006年，广州街头以载客谋生的摩托仔。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2006年，广州街头以载客谋生的摩托仔。/视觉中国</p></div>
+<p>地方政府无力改进公共交通，又禁了摩托，那么那些买不起汽车的人，当然只能购买电动车。根据深圳市规划国土发展研究中心郑伶俐的2014年调查数据，深圳市电动车使用者当中，年收入在2-6万之间的占了70%，多为中低收入者。58%的人购买电动车，是为了上下班通勤。其他城市的调查结果，大多也显示中低收入者是电动车的主人。</p>
+<blockquote><p>电动车乱象不怪电动车和车主本身，而是地方政府惰政的错。</p></blockquote>
+<p>可惜的是，电动车作为中低收入者的最佳选择，它的发展却越来越偏离了本该走的路。翻看城市的社区论坛，许多市民恨不得将电动车大卸八块。在这些市民看来，电动车来无影去无踪，时速可达30-40公里/小时，稍不留神就可能把人撞得半身不遂。他们指责电动车产商无良，生产销售超标电动车，他们指责电动车车主收入低，素质也低，一篇文章将电动车车主称为“电动车毛贼”。有人甚至拍手叫好，认为此次深圳市“禁摩限电”也是顺应了民意——深圳交警称，摩托车、电动车乱象占到政府收到的所有交通类投诉65%。</p>
+<p>但愤怒市民们的矛头还是指错了方向，电动车乱象不是电动车车主也不是产商造成的。1999年电动车国标规定电动车时速不超过20公里，质量不大于40千克，允许“超标但整车合格”现象，这个标准从2002年电动车行业转向“轻摩化”后就已经严重落后于市场，现在市面上的电动车车速大多超过了这一标准。2004年《道路交通安全法》出台，并且在2008年、2011年修订，前后三次规定电动车在非机动车道行驶时，最高时速不超过15公里。《道交法》是上位法，所以最终执行的不是20公里，而是15公里，这完全是强人所难。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=600%2C375" alt="2012年11月，西安一对骑电动的母子被水泥车撞倒。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2012年11月，西安一对骑电动的母子被水泥车撞倒。/视觉中国</p></div>
+<p>符合国标的电动车市场不接受，市场接受的电动车又不符合国标。而2009年电动车国标，曾准备将时速20-50公里，质量大于40千克的电动车称为“轻便电动摩托车”，划入机动车来接受管理，意味着市面上超过90%的电动车都要变成机动车。这一规定遭到各地自行车协会的强烈抵制，国家标准化管理委员会最终暂缓了这一规定的实施。也就是说，时至今日电动车的身份仍然是非机动车，需要在非机动车道上跑，跑的时候时速不超过15公里。</p>
+<p>超标电动车车主名义上驾驶着非机动车，但限速15公里的非机动车道对他们来说太憋屈，另一方面，地方政府不愿意将机动车车道划给数量庞大的电动车，理由是道路资源紧张。此外，《道交法》将电动车是否实行挂牌登记管理的权限下放到了省级政府，这意味着像深圳这样之前不管不问的城市，电动车车主都不需要接受安全教育、考驾照、买交强险和给车辆登记上牌，有车主不遵守交通规则当然也在意料之中。也就是说，电动车本身没有错，错在于政府没有进行合适的监管。</p>
+<blockquote><p>想方设法降低摩托事故率、提高行车效率，台湾县市对摩托的态度会让中国大陆地方政府脸红。</p></blockquote>
+<p>在深圳“禁摩限电”运动蔓延到广州、北京等地之时，台湾不禁摩的文章已经在社交网络上被转了好几轮。大陆人惊讶地发现，台湾摩托车（也称“机车”）登记量超1500万辆，平均每1.5人拥有1辆摩托车，台湾城市却有着看起来井然有序的交通——原来政府也是可以管好两个轮子的车的。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=600%2C375" alt="2013年11月，台北摩托车大军。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=768%2C480 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=1024%2C640 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2013年11月，台北摩托车大军。/视觉中国</p></div>
+<p>在台湾，摩托车曾经被定义为自行车转换到汽车的过渡工具，将随着经济发展而逐渐消失，但台湾摩托车却从未停止过增长的势头，也引发了诸如堵车、停车不便、事故频发等交通混乱问题。1999年，台湾“交通部”没有禁摩，反而开始推动汽车、摩托车分流项目。台湾当局希望通过设置摩托车专用道、摩托车优先道，来减轻路段中汽车、摩托车在变换车道时发生的交通冲突，有部分县市已经在做。</p>
+<p>例如道路资源紧张的台北县，于2007年开始试点一系列汽、摩分流策略，并首创将摩托车专用道、优先道刷成砖红色。2010年，台北县“交通局”在台湾《交通学报》上分析称，台北县环河路进行汽、摩分流以来，摩托车肇事死亡人数从2006年的24人，降至2007年的11人，2008年仅为2人，分流成效显著。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380696b7f.jpg?resize=600%2C375" alt="2016040704380696b7f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380696b7f.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380696b7f.jpg?w=691 691w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>台湾台中一道路，汽车、摩托分流明显。/视觉中国</p></div>
+<p>台湾“交通部”持续收集民意，希望能改进摩托车交通现状。2015年10月，“交通部”发布《机车使用状况调查摘要分析》，发现摩托车车主认为最需要增设的硬件设施就是摩托车专用道，其次是摩托车路边停车位。“交通部”敦促台湾各县市政府应先了解民众意向再因地制宜地制定措施。2014年，“交通部”还委托台北市交通安全促进委员会，撰写《和机车族对话执行计划》。该计划花了大量篇幅对台湾各县市目前的交通工程提出批评，例如建议重新检讨设计道路宽度与道路工程品质。“两段式左转”在防止摩托车左转事故发生上取得了一定成效，但该计划仍批评未采取配套设施的“两段式左转”形同虚设，应予以重新设计。</p>
+<p>由于摩托车驾驶行为相较于汽车更复杂、多变，摩托车行驶过程中，受到环境影响更为广泛直接（雨天路滑、路面颠簸），因此风险意识教育、驾照考试都变得尤为重要。台湾摩托车驾考分为重型和轻型两种，轻型只要进行交规笔试，重型除了交规笔试外还需参加路考。2014年起，全台范围内从未领过驾照的生手，必须接受交通安全宣导课程教育。即便如此，台湾许多学者认为驾考严厉程度还远远不够，台湾中央警察大学的周文生等二人呼吁学习澳大利亚、新西兰和英国的根据年龄、驾驶经验进行分级的考试方法。</p>
+<blockquote><p>消灭交通工具非常懒惰和愚蠢，更糟糕的是，这种管理方式竟然是违法的。</p></blockquote>
+<p>顾及到广大摩托车车主就是把自己选上台的那些人，台湾各县市官员想方设法满足摩托车车主的需求。给台湾县市官员天大的胆子，他们也不敢暴力消灭一种广受欢迎的交通工具。而中国大陆的地方政府不仅采取了这种最懒惰、最愚蠢的管理方式，更糟糕的是，这种违法的管理方式被各地再三使用。</p>
+<p>据湖南大学的严亮等人分析，2005年5月广东省珠海市人大通过“禁电令”，却违反《道路交通安全法》，因为珠海市人大不是省级政府，无权禁止符合国标的电动车上路；2006年广东省广州市公安局的“禁电”通告，依据广东省人大制订的《广东省道路交通安全条例》，该条例授权省级政府决定对电动车不予登记、不准上路行驶的规定，违反上位法《道交法》，因为《道交法》授权省级政府确定非机动车登记管理范围，没有授权其禁止电动车上路。广州市并不死心，不久前广州市人大开始审议《广州市非机动车和摩托车管理条例（草案）》，拟对电动车、摩托车实施“五禁”，即使他们可能没有这个立法权限。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=600%2C375" alt="2016年4月2日，深圳收缴的电动车形成“坟场”。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2016年4月2日，深圳收缴的电动车形成“坟场”。/视觉中国</p></div>
+<p>本次深圳的做法，是4年前一纸禁令的延续，也是广东省同胞城市违法行为的复制。像中国的许多地方政府一样，深圳既不重新规划道路以改善公共交通，也不考虑对电动车划分出明晰路权，更不会进行电动车车主的安全教育、登记上牌，他们只会在不管不问许多年之后，一夜之间要来没收你的私人财产，顺便搞一个假惺惺的“备案制”。地方政府昨天能禁你的摩托，今天能限你的电动，那么明天当然也能砸烂更多他们不想管也没能力管的交通工具。</p>
+<p><strong>参考资料</strong></p>
+<p>OECD. (2013). OECD Economic Surveys: China 2013.</p>
+<p>Jonathan Weinert. (2007). The Rise of Electric Two-wheelers in China: Factors for Their Success and Implications for the Future.</p>
+<p>Jonathan Weinert & Chaktan Ma & Chris Cherry. (2006). The Transition To Electric Bikes In China: History And Key Reasons For Rapid Growth.</p>
+<p>郑伶俐. (2014). 以深圳为例的电动自行车调查分析及对策.</p>
+<p>刘元昌. (2010). 电动自行车的社会规制困境与对策研究.</p>
+<p>严亮. (2012). “禁电令”的法律解析.</p>
+<p>许添本 & 王羲川 & 李明聪. (1999). 机车专用道之交通安全分析：事前与事后之比较研究.</p>
+<p>台北县“交通局”. (2010). 台北县实施汽机车分流专案成效与检讨.</p>
+<p>台湾“交通部”. (2015). 机车使用状况调查摘要分析.</p>
+<p>台北市交通安全促进委员会. (2014). 和机车族对话执行计划成果报告.</p>
+<p>周文生 & 杨仁硕. (2013). 机车驾驶执照考验制度之研究.</p>
+<p>题图：A man rides an electric bicycle past Beijing’s Tiananmen Gate, October 21, 2008. REUTERS/Jason Lee (CHINA)</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E7%A6%81%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%98%AF%E6%96%AD%E4%BA%86%E5%BA%95%E5%B1%82%E6%B0%91%E4%BC%97%E7%9A%84%E8%B7%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7/?category=18271" rel="tag">交通工具</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A/?category=18271" rel="tag">公共交通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">深圳禁摩限电</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8A%A8%E8%BD%A6/?category=18271" rel="tag">电动车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">禁摩限电</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E5%8F%8A%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%91%A8%E5%88%8A%E7%BD%91%E7%AB%99%E9%81%AD%E4%B8%AD/" target="cdt-mirror">纽约时报 | 《经济学人》及《时代》周刊网站遭中国屏蔽</a>
+</h2>
+<p><p>《经济学人》(The Economist)和《时代》周刊(Time)也加入了被中国大陆屏蔽的外国新闻网站的行列。这两份杂志的网站受到审查，似乎是因为它们最近发表了批评中国国家主席习近平权力不断扩大的封面文章。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=480%2C480" alt="CfM8N_XXEAAnHR4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
+<p>据追踪中国互联网和社交媒体审查的网站GreatFire.org称，从4月2日开始，《经济学人》的网站和它的封面文章受到全面封锁。可让用户下载杂志和阅读在线文章的《经济学人》移动应用也受到了封锁。</p>
+<p>《经济学人》在人气很高的中文社交媒体应用“微信”上管理的几个公众号也被停用。但《经济学人》所属的经济学人集团(The Economist Group)及其咨询部门经济学人信息社(The Economist Intelligence Unit)的网站并未被屏蔽。</p>
+<p>GreatFire.org还<a title="Link: https://en.greatfire.org/www.time.com" href="https://en.greatfire.org/www.time.com" target="_blank" rel="nofollow">表示</a>，从4月5日开始，搜索《时代》周刊的网站或该杂志的封面文章的人经历了频繁的连接重置。中国的互联网控制系统，又名“防火长城”，对包含某些受审查关键词的网络请求连接进行了重置。《时代》的移动应用仍可使用。</p>
+<p>两家杂志均于本周在线发表封面文章，对习近平加强对中国政治的控制，并在自己周围创造个人崇拜的做法加以审视。</p>
+<p>“他回到了毛时代：个人崇拜、赞扬国有部门、抨击自认为有意摧毁中国的外国人，”《时代》周刊的汉娜·比奇(Hannah Beech)<a href="http://time.com/4277504/chinas-chairman/" target="_blank" rel="nofollow">写道</a>。</p>
+<p>自2013年上台以来，习近平打压中外新闻媒体，并发起了一场广泛的反腐运动。数千名政府官员在该运动中被捕。两篇封面文章均对习近平的铁腕治国手段持批评意见。</p>
+<p>“习近平是自毛泽东以来掌握权力最多的中国领导人，”《经济学人》的<a href="http://www.economist.com/news/leaders/21695881-xi-jinping-stronger-his-predecessors-his-power-damaging-country-beware-cult" target="_blank" rel="nofollow">文章</a>说。“这理应让他有能力把事情做成。哪里出问题了？”</p>
+<p>《经济学人》北京分社社长约翰·帕克(John Parker)表示，“据他所知”杂志未收到网站会被屏蔽的警告。他说，中国外交部的确就封面文章一事联系过该杂志，但并未谈及屏蔽网站。</p>
+<p>“他们表达了对那篇文章的不满，并希望我向伦敦的编辑转达他们的不满，我照做了，”帕克说。</p>
+<p>2001年，《时代》周刊在写了一篇有关法轮功的封面文章后被禁止在中国的报刊亭出售。法轮功是一个被中国政府宣布为非法的组织。只过了几年，该禁令便被取消。记者无法立即联系到《时代》周刊的代表请其置评。</p>
+<p>以前，《经济学人》有过单独的文章被屏蔽的经历，包括2015年8月的一篇<a href="http://www.economist.com/news/leaders/21660977-communist-party-plundering-history-justify-its-present-day-ambitions-xis-history" target="_blank" rel="nofollow">文章</a>，关于中国政府为了给习近平的军事野心寻找依据，对历史叙事进行了重新构建。此次是其应用首次被屏蔽。</p>
+<p>中国政府经常阻止对一些文章或整个网站的访问，认为它们含有不利的内容。距今最近的例子是，在来自巴拿马律师事务所莫萨克-冯塞卡(Mossack Fonseca)的泄露文件被公开后，中国社交媒体上所有提到巴拿马和巴拿马文件的内容都被<a href="http://cn.nytimes.com/china/20160406/c06chinapanama/" target="_blank" rel="nofollow">屏蔽</a>了。那些文件详细介绍了一些离岸空壳公司的所有权，其中几家公司和中国高层领导人的亲属有关。中国的编辑<a href="http://chinadigitaltimes.net/2016/04/minitrue-delete-content-related-panama-papers-2/" target="_blank" rel="nofollow">被要求</a>删除网站上提到巴拿马文件的任何内容。</p>
+<p>2012年10月，《纽约时报》发表了一篇<a href="http://cn.nytimes.com/china/20121026/c26princeling/dual/" target="_blank" rel="nofollow">报道</a>，揭露中国前总理温家宝的隐蔽财富。之后，时报的英文和中文网站被屏蔽至今。尚不清楚《经济学人》和《时代》周刊的网站会被屏蔽多久。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E5%8F%8A%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%91%A8%E5%88%8A%E7%BD%91%E7%AB%99%E9%81%AD%E4%B8%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%BD%AE%E5%8A%9F/?category=18271" rel="tag">法轮功</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/?category=18271" rel="tag">经济学人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%89%8D3%E4%B8%87%E8%8B%B1%E9%95%91%E8%8B%B1%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%B0%B1%E9%97%B9%E6%88%90%E8%BF%99%E6%A0%B7-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E7%9A%84/" target="cdt-mirror">博谈网｜才3万英镑英国人民就闹成这样 中国网民的“冷嘲热讽”</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=550%2C364" alt="卡梅伦" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=768%2C508 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?w=962 962w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>卡梅伦从海外基金受益才3万英镑英国人民就上街了</p>
+<p>（博谈网记者苏智敏报道）巴拿马文件揭露全球政商名人避税、洗钱的秘密，英国首相卡梅伦的已故父亲伊恩•卡梅伦（Ian Cameron）也名列其中。</p>
+<p>连日来的压力，英国首相卡梅伦的态度终于从一开始的否认，转变为承认从父亲创设的海外基金受益3万英镑（约合人民币28.8万元），并已于2010年脱手。</p>
+<p>卡梅伦虽然称“这些基金获益我们都有缴税，而且没有什么事情需要隐瞒。”却仍引来英国民众不满。</p>
+<p>据英国媒体报导，2千多位民众于伦敦时间9日上午11时聚集在首相办公室唐宁街10号抗议。群众高喊“关闭税务漏洞、不然就辞职”，也有民众高举“卡梅伦下台、逃税是犯罪”、“卡梅伦必须滚”、“避税有罪”等标语，还有一部份的抗议民众拿着纸糊的卡梅伦小猪或头戴猪头套，抗议卡梅伦中饱私囊。</p>
+<p>为了抚平大众怒火，卡梅伦公布他的税务资料，成了首位公开这类资料的英国在任首相。据BBC中文网10日报导，卡梅伦2010年出售海外基金股份赚得19,000英镑利润，并申报利润当中所占的9,501英镑；通过出租伦敦住宅获得46,899英镑的收入；父亲去世时继承30万英镑遗产，隔年再收到两笔各10万英镑的款项，以完成全部遗产继承；其他还有获得来自保守党的可征税支出、银行存款利息、首相薪酬等等。</p>
+<p>而卡梅伦公布的税务信息显示，他在2014到2015年间缴纳个人所得税近76,000英镑。他还宣布成立一个特别工作组调查有关避税的指控。</p>
+<p>“多学学中国”后的无奈</p>
+<p>中国政府至今仍竭尽所能的封锁巴拿马文件的所有消息，英国首相卡梅伦和抗议民众的举动，自然是其封锁的目标。但百密必有一疏，走露的消息仍引来中国网友议论。</p>
+<p>不少网友笑说，才3万英镑英国人民就闹成这样，呵呵！</p>
+<p>另有人讽刺的表示，卡梅伦太笨了，应该先封锁消息，再叫外交部辟谣，并把传谣者抓进监狱，同时对他们的家人施暴，就全解决了。</p>
+<p>英国首相的官方微博，一则发表于今年2月5日，卡梅伦向中国民众拜年的影片，下面也有不少网友以各种反讽的方式，要卡梅伦多学学中共政府。</p>
+<p>例如有人说，终于知道资本主义不好了吧，中国只要有人发帖就删帖，至今仍风平浪静的。</p>
+<p>还有网友极为挖苦的表示：“没有共产主义光辉照耀的英国人民素质就是低！还搞什么游行，你们这是妄图颠覆国家政权！武警呢？坦克呢？”以此反讽六四及不断以煽动颠覆罪来打压维权律师及异议人士的中国现状。</p>
+<p>各式嘲讽的留言搭配大笑、斜视或挖鼻孔的表情图片，看似有些欢乐的画面，背后却是充满中国民众的无奈。</p>
+<p>另外，相较上述网友对卡梅伦的“冷嘲热讽”，网友“苏小和”的评论显得严肃，他表示：“连卡梅伦这么干净的人也面临辞职，政治家真是一个风险最大化的职业。而某些国度的官员，真是黑暗得就是一群幽灵，浑身长满了毒疮和蛆。然而他们看上去总是那么伟岸，那么自信。让人不得不承认，虽然都是人，但人和人之间，国家和国家之间，的确存在特色差异：有罪之人与魔鬼的差异。”不过这则评语已被屏蔽。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%89%8D3%E4%B8%87%E8%8B%B1%E9%95%91%E8%8B%B1%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%B0%B1%E9%97%B9%E6%88%90%E8%BF%99%E6%A0%B7-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%A6%99%E6%B8%AF%E3%80%8A%E5%89%8D%E5%93%A8%E3%80%8B%E5%87%BA%E7%89%88%E5%95%86%E6%8A%AB%E9%9C%B2-%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E8%A2%AB%E5%B9%BF/" target="cdt-mirror">自由亚洲｜《前哨》出版商披露 一个月内被国安3次登门造访</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=440%2C293" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>专门报道中国内地政治内情的香港《前哨》杂志的出版商、长期出版大陆禁书的夏菲尔出版社的老板刘达文，近日向英文的《南华早报》透露，在铜锣湾书店失踪事件闹得满城风雨的时候，他对外隐瞒了从去年12月底到今年1月中旬曾3次被广东省国安登门造访的事情。</p>
+<p>国际媒体报道说，刘达文表示，3位国安查问他与铜锣湾书店有怎样的关系，并告诉他有关部门对禁书这个行业非常愤怒，而他也被怀疑是铜锣湾书店失踪五人的幕后主使人，甚至指他会趁着铜锣湾书店失踪事件来扩张自己的业务。另外，刘达文证实，早先曾向外界透露、但没有点名的前哨杂志一名员工，去年10月在东莞一处住所被公安在未出示任何法律文件情况下强行带走，被非法扣查4个小时，而这名员工其实就是他的妻子。同一天也有铜锣湾书店人员在广东失踪。刘达文表示，在他妻子被非法禁锢和问话之后几个月，他一直没有声张，只希望对方跟他说一声道歉，并发还他们强迫他妻子签署的声明。但那几位国安去年底造访刘达文位于荃湾的办事处时，称对他妻子被禁锢一事不知情。刘达文还透露，三位国安今年1月初和中旬再来找他，两次都在外面用餐聊天。</p>
+<p>国际媒体报道说，有分析表示，刘达文透露的情况，更让人怀疑铜锣湾书店失踪人员是否真的是“自愿”返回内地协助调查。</p>
+<p>（责编：寇天力）</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%A6%99%E6%B8%AF%E3%80%8A%E5%89%8D%E5%93%A8%E3%80%8B%E5%87%BA%E7%89%88%E5%95%86%E6%8A%AB%E9%9C%B2-%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E8%A2%AB%E5%B9%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%BE%BE%E6%96%87/?category=18271" rel="tag">刘达文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%93%A8/?category=18271" rel="tag">前哨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E8%BF%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">强迫失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/" target="cdt-mirror">中国数字时代(China Digital Times)免翻墙浏览器扩展</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2012/07/gfw-6978.jpg?resize=351%2C498" alt="gfw-6978" data-recalc-dims="1"></p>
+<p><strong>一键穿墙，任性阅读中国数字时代。</strong></p>
+<h3>Firefox</h3>
+<p>下载: <a href="https://github.com/cdtmirrors/cdt.unblocked/blob/master/installer/china_digital_times-0.0.5-fx+an.xpi?raw=true" target="_blank">github</a></p>
+<p>安装: 直接用 Firefox 浏览器打开安装文件</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-15-at-3.32.28-PM.png?resize=389%2C504" alt="Screen Shot 2016-01-15 at 3.32.28 PM" data-recalc-dims="1"></p>
+<h3>Chrome</h3>
+<p>方法1：墙外请直接访问 <a href="https://chrome.google.com/webstore/detail/pogbeechjdafcafejffopgfhafkkbgfe" target="_blank">Chrome Store 地址</a> 安装；</p>
+<p>方法2：<br>
+2.1 点击 <a href="https://github.com/cdtmirrors/cdt.unblocked/blob/master/installer/china_digital_times-v0.0.5.crx?raw=true" target="_blank">github</a> 下载 china_digital_times-v0.0.5.crx<br>
+2.2 在谷歌地址栏输入 chrome://extensions/ 打开扩展程序管理界面，<br>
+2.3 将安装文件拖拽入浏览器窗口.</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?resize=500%2C375" alt="Fuck GFW 14" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?w=1600 1600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>更多安装使用细节请看：</p>
+<blockquote><p><strong><a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3-china-digital-times-cdt-%E7%9A%84%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85%E4%BD%BF/" target="_blank">中国数字时代免翻墙浏览器扩展安装使用方法</a></strong></p></blockquote>
+<h3>附：开源翻墙工具：萤火虫FireFly Proxy 新版 0.2.0</h3>
+<p>内置TOR的meek流量混淆技术，可通过默认浏览器直接翻墙，支持HTTP(s)和SOCKS5协议，可自定goagent等http代理、SSH和Shadowsocks账号（需要自备）。</p>
+<p>支持黑名单/白名单（自动更新），墙内直通，墙外自动翻墙，浏览器建议使用FireFox或Chrome，无需安装翻墙插件。</p>
+<p>支持Windows和Mac系统，操作说明和设置界面为中文，自动解压缩到桌面并生成快捷方式，纯绿色，删除文件即卸载。</p>
+<p>项目页：https://github.com/yinghuocho/firefly-proxy</p>
+<p>FireFly 0.2.0 版下载地址：</p>
+<p><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true" target="_blank">Windows 版 github 下载地址</a><br><a href="http://sourceforge.net/projects/fireflyproxy/files/firefly-proxy-win-0.3.0.zip/download" target="_blank">Windows 版 sourceforge 下载地址</a><br><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-mac-latest.dmg?raw=true" target="_blank">Mac OS X 版 github 下载地址</a><br><a href="http://sourceforge.net/projects/fireflyproxy/files/firefly-proxy-mac-0.3.0.dmg/download" target="_blank">Mac OS X 版 sourceforge 下载地址</a></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/06/gfw2.jpg?resize=492%2C407" alt="gfw2" data-recalc-dims="1"></p>
+<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=18271" rel="tag">Chrome</a>, <a href="https://chinadigitaltimes.net/chinese/tag/firefox/?category=18271" rel="tag">firefox</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">中国数字时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/?category=18271" rel="tag">浏览器插件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E3%80%8A%E6%B2%BB%E4%B8%AD%E5%9B%BD%E8%AE%BA%E3%80%8B/" target="cdt-mirror">【习总日记】 习近平《治中国论》</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，4，11）</p>
+<p>前有牛氏《苹果论》，后有爱氏《相对论》。我也该有自己的宏篇巨著。思来想去，窃以为革命不如孙中山，建国不如毛主席，但论起治国理政，深有体会，经验丰富。故作《治中国论》一书，以便后人学习参考。</p>
+<p>习办有同志建言，好书需配好纸。什么纸？<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马纸</a>最贵。</p>
+<p>《治中国论》习近平著</p>
+<p>前言</p>
+<p>古人言，蜀道难，难于上青天揽月；治国难，难于下五洋捉鳖。现代化捉鳖技术的应用，使得捉五洋之鳖不再万难，但治国依然艰难。清廷治国失败，民国治国失败。毛伟人开国有功却治国于崩溃边缘不提。江胡二位长者前任治下虽经济增长有功却放任官员贪污腐败，以致中共政权再次面临崩溃边缘。十八大一唱天下白，我来了。</p>
+<p>自正定县县委书记起，至今治国理政前后共三十多年，从地方到中央，从数十万人口的一个县到14亿人口大国，从县委书记到党总书记国家主席，积累了丰富经验。问遍朝野，无人能及。</p>
+<p>吾观中国有四个要点，了解熟悉掌握了这四要点，治理好中国不难。否则，很难。这四个要点是：</p>
+<p>第一，清末民谣“官府怕洋人，洋人怕百姓，百姓怕官府”仍具现代意义。要利用好洋人怕百姓的心理，对付外敌。我们常常煽动民间仇日仇美情绪，迫使日本美国政府让步。</p>
+<p>第二，千百年来朝代更替传统依旧中华不断，得益于孔圣儒教。儒教之君臣父子伦理，有利于社会稳定，有利于中共政权统治，要善待之，更要善用之。百姓信佛信道信基督皆流于形式表面，内心潜意识归于儒家一教。</p>
+<p>第三，“反贪官不反皇帝”者众，“敢把皇帝拉下马”者少。遇事要果决，推出贪官保皇帝。动作慢了，百姓会认为你皇帝与贪官穿一条裤子，是贪官的总后台。等到百姓蜂拥上街闹事，苏东波起茉莉花开，只剩煤山一条路时，悔之晚矣。</p>
+<p>第四：认清知识分子的真面目。要打压着用，羞辱着用，使之深陷恐惧自顾不暇，成为识字奴才而无法建立独立之精神，自由之思想。只有掌控了知识分子，才能真正掌控中国社会政治大局。任何一次朝代更替，都离不开知识分子煽动教唆和参与，人数不多但是起着关键少数作用。知识分子倒向哪边，哪边赢面就大。</p>
+<p>以上四要点，第一个从世界外交角度阐述了“官、民、洋”三者关系，第二个从内政角度阐述了儒教伦理有利于中共统治，第三个从社会维稳角度阐述了反贪的重要性，第四个揭示介于政府与百姓之间占人口少数的知识分子的重要性。</p>
+<p>（未完待续）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E6%95%99%E7%88%B6%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=551%2C413" alt="鳩鵪漫畫：教父习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：教父习近平.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：教父习近平.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E3%80%8A%E6%B2%BB%E4%B8%AD%E5%9B%BD%E8%AE%BA%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/" target="cdt-mirror">【异闻观止】环球时报 | 西媒如此恨“防火墙” 这很值得玩味</a>
 </h2>
 <p><p>有两家美英杂志的网站在中国受到访问限制，《纽约时报》等与这些媒体就像大V相互声援一样，营造出指责中国屏蔽西方网站的舆论氛围。另据报道，美国贸易官员上月底首次将中国“网络防火墙”列入一个贸易壁垒年度清单，宣称中国屏蔽网站的现象“有所恶化”，给外方造成“巨大负担和损失”。</p>
@@ -517,157 +701,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/" target="cdt-mirror">德国之声 | 中国高层首次对”巴拿马文件”表态</a>
-</h2>
-<p><p>摘要：外交部长王毅是首位针对”巴拿马文件”公开表态的中国政府高层领导人。在与德国外长施泰因迈尔共同面对国际媒体的记者时，王毅表示中国政府已经看到了”巴拿马文件”所透露和澄清的信息，有意弄清事实真相。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-%E4%B8%8B%E5%8D%8812.40.09.png?resize=520%2C294" alt="Screen Shot 2016-04-08 at 下午12.40.09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
-<p>（德国之声中文网）据路透社报道，本周五（4月8日），中国外长王毅与德国外长施泰因迈尔（Frank-Walter Steinmeier）会晤后在举行记者见面会时报表示，中国有意搞清与”巴拿马文件”有关的细节。这也是中国最高领导层成员首次针对”巴拿马文件”的公开表态。</p>
-<p>一位匿名人士向《南德意志报》提供的”巴拿马文件”据称记录了全球上百名政要和名人是如何通过位于巴拿马的法律服务公司莫萨克•冯赛卡（Mossack Fonseca）在逃税天堂隐藏财富。文件涉及至少8名现任和前任中国政治局常委的家人，包括中国国家主席习近平的姐夫和前总理李鹏的女儿。负责宣传事务的刘云山以及副总理张高丽的亲属也被指涉及利用离岸公司隐瞒资产运作。主持分析相关数据的国际调查报道记者联盟（ICIJ）指出， 在莫萨克•冯赛卡律所的全球业务中，来自中国大陆和香港的离岸公司比例占到29%。</p>
-<p>路透社报道称，中国外长王毅与施泰因迈尔共同出席记者会时表示，中国政府看到了 <a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B/a-19171000">“巴拿马文件”</a>所透露和澄清的信息。但他补充说，恐怕先要弄清事实。除此以外，王毅没有进一步说明中国政府是否会根据”巴拿马文件”所透露的信息采取行动。他只是说，在中国人民的支持下，反腐取得了进展。正如中国领导人习近平所说，中国会继续走反腐的道路。</p>
-<p>之前，中国外交部发言人洪磊称”巴拿马文件”是”捕风捉影的东西”，因此拒绝置评。中国党媒《环球时报》则在第一时间发表评论称：”偷或编’巴拿马文件’者绝非等闲之辈”，最受关注的打击对象是包括俄罗斯总统普京在内的”非西方国家领导人”。评论指出，像巴拿马文件这样的”大泄密”，是西方意识形态联盟”打击非西方世界政治精英和关键组织的一种新手段。”该评论发布几日后被中国审查机关屏蔽。在包括《环球时报》、”凤凰网”等媒体的网站上已经无法找到评论原文。</p>
-<p>到目前为止，德国外交部没有透露施泰因迈尔是否与王毅谈及”巴拿马文件”一事。德国外交部表示，施泰因迈尔此次访问中国的重点是能源转型。他已经在北京为一个有关能源转型的展览揭幕。周六，德国外长将前往湖南长沙，为当地德国企业的一处新厂房揭幕，并和该企业的年轻技术学员见面。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%BD%E6%B3%B0%E5%9B%A0%E8%BF%88%E5%B0%94/?category=18271" rel="tag">施泰因迈尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/?category=18271" rel="tag">王毅对“巴拿马文件”表态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/" target="cdt-mirror">德国之声 | 中国高层首次对“巴拿马文件”表态</a>
-</h2>
-<p><p>摘要：外交部长王毅是首位针对”巴拿马文件”公开表态的中国政府高层领导人。在与德国外长施泰因迈尔共同面对国际媒体的记者时，王毅表示中国政府已经看到了”巴拿马文件”所透露和澄清的信息，有意弄清事实真相。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-%E4%B8%8B%E5%8D%8812.40.09.png?resize=520%2C294" alt="Screen Shot 2016-04-08 at 下午12.40.09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.40.09.png?w=520 520w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"></p>
-<p>（德国之声中文网）据路透社报道，本周五（4月8日），中国外长王毅与德国外长施泰因迈尔（Frank-Walter Steinmeier）会晤后在举行记者见面会时报表示，中国有意搞清与”巴拿马文件”有关的细节。这也是中国最高领导层成员首次针对”巴拿马文件”的公开表态。</p>
-<p>一位匿名人士向《南德意志报》提供的”巴拿马文件”据称记录了全球上百名政要和名人是如何通过位于巴拿马的法律服务公司莫萨克•冯赛卡（Mossack Fonseca）在逃税天堂隐藏财富。文件涉及至少8名现任和前任中国政治局常委的家人，包括中国国家主席习近平的姐夫和前总理李鹏的女儿。负责宣传事务的刘云山以及副总理张高丽的亲属也被指涉及利用离岸公司隐瞒资产运作。主持分析相关数据的国际调查报道记者联盟（ICIJ）指出， 在莫萨克•冯赛卡律所的全球业务中，来自中国大陆和香港的离岸公司比例占到29%。</p>
-<p>路透社报道称，中国外长王毅与施泰因迈尔共同出席记者会时表示，中国政府看到了 <a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B/a-19171000">“巴拿马文件”</a>所透露和澄清的信息。但他补充说，恐怕先要弄清事实。除此以外，王毅没有进一步说明中国政府是否会根据”巴拿马文件”所透露的信息采取行动。他只是说，在中国人民的支持下，反腐取得了进展。正如中国领导人习近平所说，中国会继续走反腐的道路。</p>
-<p>之前，中国外交部发言人洪磊称”巴拿马文件”是”捕风捉影的东西”，因此拒绝置评。中国党媒《环球时报》则在第一时间发表评论称：”偷或编’巴拿马文件’者绝非等闲之辈”，最受关注的打击对象是包括俄罗斯总统普京在内的”非西方国家领导人”。评论指出，像巴拿马文件这样的”大泄密”，是西方意识形态联盟”打击非西方世界政治精英和关键组织的一种新手段。”该评论发布几日后被中国审查机关屏蔽。在包括《环球时报》、”凤凰网”等媒体的网站上已经无法找到评论原文。</p>
-<p>到目前为止，德国外交部没有透露施泰因迈尔是否与王毅谈及”巴拿马文件”一事。德国外交部表示，施泰因迈尔此次访问中国的重点是能源转型。他已经在北京为一个有关能源转型的展览揭幕。周六，德国外长将前往湖南长沙，为当地德国企业的一处新厂房揭幕，并和该企业的年轻技术学员见面。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%BD%E6%B3%B0%E5%9B%A0%E8%BF%88%E5%B0%94/?category=18271" rel="tag">施泰因迈尔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E8%A1%A8%E6%80%81/?category=18271" rel="tag">王毅对“巴拿马文件”表态</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BA%BA%E6%B0%91%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%83%BD%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">东网 | 章文：“人民”两千多年来都不行</a>
-</h2>
-<p><p>作者：章文，知名评论员</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-%E4%B8%8B%E5%8D%8812.37.37.png?resize=516%2C368" alt="Screen Shot 2016-04-08 at 下午12.37.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.37.37.png?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-下午12.37.37.png?w=516 516w" sizes="(max-width: 516px) 100vw, 516px" data-recalc-dims="1"><br><span>两千多年来，几乎没有行过的人民，绝大多数时间都是匍匐在皇权和官吏脚下，以巴结和亲近权力为荣耀。</span></p>
-<p>“人民不行”，已经成为一句流行语：经济不行，主要是人民不行；楼市低迷，主要是人民不行；疫苗出问题，主要是人民不行…..最近巴拿马文件传出后，姐夫成为敏感词，也主要是因为人民不行。</p>
-<p>遍查网络，发现这句流行语可能起源于人民日报的一条微博：【人民日报：雪崩时没有一片雪花是无辜的】给门卫上支烟，大门立即打开；停车费30元，递上10元说不要票了，收费员开心放行；对办事员意思意思，户口两天办妥……他们明天也求人办事，开始了新一轮折磨。谁是恶性循环的第一推手呢？压垮骆驼的绝不仅仅是最后那根稻草，雪崩的时候没有一片雪花是无辜的。</p>
-<p>其实人民日报的这条微博意思可用一句话总结：有什么样的人民，就有什么样的政府。美国前总统林肯的这句名言是鼓励人民来监督政府，使得政府不敢怠政。</p>
-<p>但是人民日报忽略了林肯此句名言的前提：美国政府是人民选举产生的，所以美国人民才能够监督政府。放在一个没有选票的国度，官员是上级任命而非选举产生，要让人民监督官员实在是太难为他们了。提出这种要求的人民日报，有严重地装外宾嫌疑，类似晋惠帝的“何不食肉糜？”</p>
-<p>其实岂止这届人民不行，两千多年来，几乎没有行过的人民，绝大多数时间都是匍匐在皇权和官吏脚下，以巴结和亲近权力为荣耀。那些被逼走投无路、血性未泯的民众喊出“王侯将相宁有种乎？”、起兵造反推翻王侯后，自己又当王侯奴役其他人民了…..历史就在这样的循环中一次一次地重演。</p>
-<p>国不知有民，民亦不知有国。两千多年前的战国时代，当齐国攻下燕国时，发现燕国百姓箪食壶浆迎接齐军。孟子对齐宣王解释说，燕国人这样做不过是想摆脱他们那水深火热的日子罢了。还是在同一时期，邹国与鲁国交战，百姓看着邹国长官被杀而幸灾乐祸，让邹穆公很生气。但孟子说：“丰收时你巧立名目横征暴敛，灾年你守着满仓粮食，却让百姓饿殍遍地，还须唱歌赞美你，既然国家是你一个人的，它的生死存亡又与百姓何干？”</p>
-<p>今天何尝不是如此？前段时间“赵国”、“赵家人”一词在网络上的热传，同样显示了“人民”和统治者之间的隔膜有多深。“赵家人”之间又分好几个等级，经过过去三年来的厮杀，他们之间既有的格局也发生了巨变，新贵取代旧贵，旧贵不甘心就此罢休，时刻准备反扑……</p>
-<p>然而对付“人民”他们绝对是统一的。在中国这艘大船上，“赵家人”是统治者，“人民”是卖力的水手。所以，所以世人看到，“依法治国”实际上是“依法治不服”，“寻衅滋事”、“扰乱公共秩序”、“煽动民族分裂”、“颠覆国家政权”等罪名随手拿来。所谓“法治”其实还是“人治”，只不过已不再是皇上一人说了算，而是赵家人说了算。</p>
-<p>当然，正如某些犬儒所言，也是有相当进步的。以前老毛时代，批评者很多是被从精神和肉体双重消灭的，现在不过销号、不过坐牢而已嘛。是的，在这个大猪圈里，养猪人把猪舍弄干净点、把猪食弄好吃点，猪们被宰之前是该感恩的。</p>
-<p>最近几年，四起的失望和怨气经过微博微信的扩散严重冲击着赵国的政权根基，使得赵国主政者面临前所未有的压力。摆在他面前的就只有两条路：一条是进一步地管控，以铁腕对反对；另一条就是还权于民、还利于民，仿效台湾的蒋家人一步一步地摧毁旧体制，建立民主新国。</p>
-<p>然而遗憾的是，他选择走的是第一条路，仍是一条几千年来的老路。这条路在二十一世纪已经越来越走不通了，面临的国内外障碍越来越多，如执意走下去，终究是穷途末路。最近两个月内相继发生的“任大炮事件”和“公开信事件”，显示不仅“人民”忍受不了，“赵家人”更是不堪忍受。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BA%BA%E6%B0%91%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%83%BD%E4%B8%8D%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E6%96%87/?category=18271" rel="tag">章文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%9B%BD/?category=18271" rel="tag">赵国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E4%BA%BA%E5%91%98%E6%98%AF%E8%81%94%E7%B3%BB%E8%94%A1%E4%BC%A6%E5%8E%BB%E9%80%A0%E7%BA%B8%E4%BA%86%E5%90%97/" target="cdt-mirror">【网络民议】有关部门人员是联系蔡伦去造纸了吗？</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：截至发稿时，@作业本的原微博已被删除。</strong></p>
-<p>@作业本：这两个新闻让我笑了一上午了。。。人民对不起国家，让国家受惊了。。。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben1.png?resize=630%2C821" alt="zuoyeben1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben1.png?resize=230%2C300 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben1.png?w=630 630w" sizes="(max-width: 630px) 100vw, 630px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben2.png?resize=639%2C844" alt="zuoyeben2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben2.png?resize=227%2C300 227w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/zuoyeben2.png?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"></p>
-<p><strong>以下为中国数字时代编辑搜集自新浪网友评论：</strong></p>
-<p><a href="http://weibo.com/zsj3611"><span>澈丹师兄</span></a><span>：本届人民太差劲儿，一点儿屁事儿就恐慌</span></p>
-<p><a href="http://weibo.com/2468745005"><span>Suerte-WU</span></a><span>：命没了，自然就不恐慌了</span></p>
-<p><a href="http://weibo.com/jizhuang001"><span>姬十妖</span></a><span>：作为一个屁民，没给党和国家做过什么贡献，却连个屁民都做不好，给党和国家添麻烦了，我深深地自责！</span></p>
-<p><a href="http://weibo.com/pursuit"><span>鱼丸粗面</span></a><span>：这一届“人民”是怎么当家做主的！让公仆操这么多心！！</span></p>
-<p><a href="http://weibo.com/simon930"><span>熊之国王</span></a><span>：有关部门人员是联系蔡伦去造纸了吗？</span></p>
-<p><a href="http://weibo.com/jimmy0819"><span>西玛沃野</span></a><span>：稍等，已经派人去种树了。</span></p>
-<p><a href="http://weibo.com/1842299151"><span>Toby-何</span></a><span>：在3月底纸张已经到位的情况下，哪怕是一部机器在印刷注册凭证，，他说要印到5月底才能印完挤压的注册证件，，那么问题来了，请问一共挤压了多少？</span></p>
-<p><a href="http://weibo.com/slcxly"><span>园博园后的星星</span></a><span>：作业本你不要这样，又会被禁言的啊！</span></p>
-<p><a href="http://weibo.com/3733358474"><span>吴巨侠</span></a><span>：<strong>这两个新闻出来的很蹊跷，可能是为了转移民众的注意力，因为最近有些事比较敏感</strong></span></p>
-<p><a href="http://weibo.com/longorz"><span>龙潮</span></a><span>：<strong>巴拿马的小船说翻就翻</strong></span></p>
-<p><a href="http://weibo.com/2996654461"><span>纸飞机要哈口气</span></a><span>：这才几天，疫苗的事就都忘了？</span></p>
-<p><a href="http://weibo.com/hanyunling"><span>雪域情鸽</span></a><span>：智商低于八十的别让他们随便说话，太影响官方形象了！</span></p>
-<p><a href="http://weibo.com/5152273947"><span>Intuition_24514</span></a><span>：对那些评论里喊赶紧滚，赶紧移民的人。我心平气和的说一句，移民后的日子确实特别舒心</span></p>
-<p><a href="http://weibo.com/sportsboy"><span>温仲林</span></a><span>：“我坚信，在中国总有一天极权制度会被民主制度取代。这不是很遥远的事情……在极权制度彻底死亡之前，我提前为它立了个墓碑，让后人知道：人类社会在历史的某一阶段、在某些国度，曾经有一种以‘解放全人类’的名义建立的、实际是奴役人类的制度。这个制度宣扬并实践的‘天堂之路’,实际是死亡之路。</span></p>
-<p><a href="http://weibo.com/n/%E4%BD%9C%E4%B8%9A%E6%9C%AC?from=feed&loc=at"><span>@作业本</span></a><span>:我们的吃穿是自己辛苦挣来的，不是国家给的。相反，是我们在养着国家。 //</span><a href="http://weibo.com/n/%E9%B2%81%E9%B2%81%E9%B2%81%E9%80%9F%E7%9A%84%E4%B8%80%E5%8D%83%E6%AC%A1%E6%99%9A%E5%AE%89?from=feed&loc=at"><span>@鲁鲁鲁速的一千次晚安</span></a><span>:我特么就不懂了，国家到底缺你吃缺你穿了，还是美帝爸爸给你多少钱了。何必呢</span></p>
-<p><a href="http://weibo.com/2668394951"><span>悠然–yoyo</span></a><span>：有那么多人一直以为吃喝穿用都是政府给的，怎么想的？</span></p>
-<p><a href="http://weibo.com/garveys"><span>Garvey_dun</span></a><span>：又删微博了 国家就是这么任性…作业本赶紧开通别的号吧</span></p>
-<p><a href="http://weibo.com/5511822052"><span>iamwmz_</span></a><span>：中国是中国，政府是政府，中国历来有很多政府，你生来爱国，但是在政府没有让你和你的周边人得到应有的保护和权益时，那么这个政府就没有必要再爱了，理智的人民心里有数，我这么说会被周四才上班的警察查水表吗？</span></p>
-<p><a href="http://weibo.com/saya1108"><span>小白兔胡巴萝卜</span></a><span>：不让贪了，不让腐了，也就不爱办事了，无为而治</span></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E4%BA%BA%E5%91%98%E6%98%AF%E8%81%94%E7%B3%BB%E8%94%A1%E4%BC%A6%E5%8E%BB%E9%80%A0%E7%BA%B8%E4%BA%86%E5%90%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E4%B8%9A%E6%9C%AC/?category=18271" rel="tag">作业本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">假奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F/?category=18271" rel="tag">公共卫生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E5%95%86%E5%B1%80/?category=18271" rel="tag">工商局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E4%BD%8E%E6%95%88%E7%8E%87/?category=18271" rel="tag">政府低效率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%A6%96%E6%AC%A1%E5%88%97%E4%B8%BA%E8%B4%B8%E6%98%93/" target="cdt-mirror">纽约时报｜美国把中国“防火长城”首次列为贸易壁垒</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%85%92%E5%BA%97-gfw.jpg" rel="attachment wp-att-434560"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%85%92%E5%BA%97-gfw.jpg?resize=525%2C533" alt="香格里拉酒店 gfw" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=295%2C300 295w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=768%2C780 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?resize=1008%2C1024 1008w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香格里拉酒店-gfw.jpg?w=1024 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><span>酒店的外国客人被告知有些常用网站在中国大陆无法登陆；图片来自推特</span></p>
-<p>香港——中国对网络的控制众所周知。人权团体、企业、中国网民等方面早就在对这种审查进行谴责。</p>
-<p>现在，美国政府又给这种控制添加了新的标签：贸易壁垒。</p>
-<p>美国贸易官员首次将中国的互联网过滤和拦截系统——也就是大家所说的“防火长城”——列入一个贸易障碍年度清单。相关条目写着，在过去10年，这种限制“给外国供应商带来了巨大负担，遭受损失的既有网站本身，也包括往往需要使用这些网站开展业务的用户”。</p>
-<p>美国贸易代表办公室(Office of the United States Trade Representative)发布的这份报告称，在过去一年里，“网站被彻底屏蔽的现象似乎有所恶化”，全球25个人气最高的网站中，有八个在中国遭到屏蔽。</p>
-<p>“很多屏蔽案例显得相当随意，例如，一家知名的美国家装网站，看上去完全没有恶意，却是可能遭防火长城封锁的典型对象，”文中称。</p>
-<p>中国屏蔽了一些互联网巨头的服务，比如谷歌(Google)、Facebook和Twitter。这可能会削弱外国公司在中国开展业务的能力，无论是通过屏蔽网站本身，还是让人在工作场所无法访问谷歌的电子邮件服务Gmail。中国还屏蔽了越来越多的境外新闻媒体，其中就包括《纽约时报》的网站。</p>
-<p>中国的商务部、外交部及最高级别互联网监管机构的官员，均未对置评请求做出回应。</p>
-<p>近年来，中国和美国在科技业贸易领域发生过冲突。去年，奥巴马政府对一些美国企业的游说做出了回应。这些公司对中国的若干法律不满，称它们的目的是把自己从中国赶走。之后，北京放软了一部反恐法的语气，废除了一项限制外国硬件销往中国的银行的监管规定。</p>
-<p>不过，美国说服中国减少互联网审查的努力全都可能无功而返。中国政府认为，对网上交流的严密控制事关国家安全，主要是因为互联网可以帮助人们组织抗议活动、散播异见，令他们担忧。其结果就是，北京一直在审查问题上没有显示出什么弹性，往往会屏蔽它觉得无法完全控制的任何网络媒体。</p>
-<p>国际战略研究中心(Center for Strategic and International Studies)费和中国研究项目(Freeman Chair in China Studies)学者甘思德(Scott Kennedy)说，美国贸易代表办公室这个举动显示了两种态度之间的鸿沟：一方面是中国严控互联网所体现的态度，另一方面则是美国通过跨太平洋伙伴关系协定(Trans Pacific Partnership)这样的贸易协议表现出来的态度。</p>
-<p>“比起美国，中国极不愿意把商业和国家安全问题分割开来，”他在电子邮件中写道。“无论美国对这一议题怎么强调，这种处理手法的不同都不可能在短时间内消失。”</p>
-<p>中国把网络间谍威胁作为一个理由，指出美国国家安全局前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)曝光的文件显示，美国情报界试图利用境外的美国硬件来搜集信息。</p>
-<p>中国的网络过滤机制营造出了一个与世界严重隔离的互联网，违反了“网络是沟通世界各地人们的开放渠道”这个基本理念。批评者称，这种做法是反竞争的，限制了言论自由，而且阻碍了人们对信息的获取，最终会损害中国的经济增长。支持中国这种政策的人则认为，它让中国有机会培养了一批繁荣的本土互联网企业。</p>
-<p>美国贸易代表办公室把中国的互联网审查政策添加到其年度《贸易评估报告》(National Trade Estimate Report)中。全文于3月31日发布。行业刊物《美国贸易内情》(U.S. Trade)在4月1日报道了这个添加。</p>
-<p>美国贸易官员过去就对“防火长城”进行过审视。2011年，美国贸易办公室称，中国的这些过滤机制属于商业壁垒，损害了美国小企业利益。美国当时通过世界贸易组织(WTO)提交给中国一些正式问题，涉及什么样的法规决定了商业网站在中国的可用性，而这一论断是其中之一。</p>
-<p>美国一些互联网巨头和大型外贸团体长期开展游说活动，想让美国把中国的审查当作贸易问题来对待。例如在2008年，谷歌的副总法律顾问出席参议院一个小组委员会的听证会，宣称美国政府应该将此事纳入贸易谈判的核心议题。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%A6%96%E6%AC%A1%E5%88%97%E4%B8%BA%E8%B4%B8%E6%98%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?category=18271" rel="tag">阿Q</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%BD%93%E8%B5%B5%E5%A4%AA%E7%88%B7%E7%9A%84%E5%90%8D%E5%8F%B7%E4%B9%9F%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">【麻辣总局】当赵太爷的名号也出现在巴拿马文件上的时候</a>
-</h2>
-<p><p>当赵太爷的名号也出现在巴拿马文件上时，未庄的人才恍然大悟，原来赵家也没想在未庄永久执政。未庄人顿时惶恐起来。他们不是惶恐赵太爷的名号出现在巴拿马文件上，也不是惶恐赵太爷一家早晚要跑路，而是惶恐未庄的最高经理人团队，合法性杠杠的赵家，都没有要与未庄共存亡的小心愿。</p>
-<p>“我了个去。”阿Q第一个喊出未庄人的不爽与鄙视。</p>
-<p>赵太爷家门口的穷人越围越多，七嘴八舌地议论着赵家卷款潜逃的传闻终于被证实的事情。有人说革命军已经渗透进来了，未庄马上要崩溃，所以赵家准备跑路。有人说哪里，巴拿马文件日期证实革命军还未曾在中国出现的时候，赵家人已经着手开溜了。还有人猜未庄其他有钱的是不是也准备跑路。</p>
-<p>赵家黑漆漆的大门紧闭，里面一点动静都么有。</p>
-<p>议论渐渐平息的时候，小D忽然提出一个超出个人历史水平的问题：“赵家为何要跑路？平日里不是信誓旦旦说有三个自信，制定十三五规划，胸脯拍得山响要带领未庄人奔小康吗？”</p>
-<p>阿Q觉得小D应该得到表扬：“你的问题水平高，我是想不出来的。”但又不想让小D抢了风头：“能回答才是真本事。”</p>
-<p>小D拍拍脑袋说：“为想出这个问题我脑筋都消耗光了。”</p>
-<p>阿Q觉得机会来了，如果他能够解答这个问题，一定很风光，比小D风光。阿Q环顾四周寻找吴妈，却看见小尼姑在远处朝这边张望，于是来了勇气。</p>
-<p>阿Q找了一块石头踮着脚尖说：“以前我们地命赵心，认为赵太爷这样那样做不对，不有利于他长期执政。觉得很奇怪。现在谜底揭开了，原来赵太爷根本不在乎他是否能够长期执政。”</p>
-<p>众人觉得有理，纷纷点赞，阿Q粉丝看涨。远处小尼姑似乎冲着他笑。吴妈虽没露脸，但一定躲在什么地方偷听。</p>
-<p>阿Q吞了口水继续说：“未庄的地价炒高了，天空河流污染了，社会保障基金亏空了，还拼命印钞票不怕未币贬值，一切的一切，都说明了赵家人中心思想是，未庄败了好走路。哪天未庄彻底崩溃，就是他们跑路之时。”</p>
-<p>赵家大门“咯吱”一声突然打开，为首不是别人，正是蜚声古今的赵太爷。一伙家丁端着汉阳造分立两旁。</p>
-<p>“阿Q，又是你聚众闹事。”赵太爷气得发抖，声音也抖，他的怒吼使得空气也跟着抖。阿Q小D小尼姑等众人吓得也抖起来。</p>
-<p>阿Q结结巴巴地：“赵太爷，冤枉啊，一没有聚众，是他们自己来的，二没有闹事。”</p>
-<p>赵太爷指着鼻子骂：“你，造谣惑众，我听得一清二楚，你还敢抵赖。”</p>
-<p>阿Q心想要死，刚才的话八成都听见了，得赶紧想办法圆。于是四下里张望，看看能捞到什么救命稻草。</p>
-<p>这边阿Q想计策对付，那边赵太爷怎肯放过。一挥手，家丁们一拥而上利索地绑了阿Q。民国时期相当文明，绑人之后杀人之前都会暂停一分钟容倒霉催的说几句，相当于现在的留言发短信。</p>
-<p>阿Q深呼吸故作镇定，说：“巴拿马文件，一定是敌对势力企图陷害赵太爷。我一时着了道，迷失方向，说了错话。乡亲们，今天阿Q罪有应得。望乡亲们引以为戒，不信谣不传谣。除非你们亲眼看见，赵太爷一家从这大院跑路，从未庄开溜，再相信也不迟。”</p>
-<p>言毕，大摇大摆而去。</p>
-<p>几天后，阿Q因煽动颠覆和颠覆政府罪被砍了头的消息传到未庄。一时间风声鹤唳人人自危，家家户户闭门保命。</p>
-<p>几个月后的一个深夜，果然有人看见赵太爷一家跑路，金银细软装满几个集装箱。等到大天亮一传十十传百未庄人差不多都聚集在赵家空空大院里里外外的时候，没有人说一句话，都呆呆地相互望着，似乎谁也不认识谁。</p>
-<p>转自《习总日记》（2016，4，8）</p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%BD%93%E8%B5%B5%E5%A4%AA%E7%88%B7%E7%9A%84%E5%90%8D%E5%8F%B7%E4%B9%9F%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq/?category=18271" rel="tag">阿Q</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BFq%E6%AD%A3%E4%BC%A0/?category=18271" rel="tag">阿Q正传</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -679,7 +712,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -689,5 +722,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

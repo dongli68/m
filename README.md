@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,135 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc%EF%BD%9C%E5%BC%80%E5%AE%A1%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A-%E6%8A%A5%E9%81%93%E8%A2%AB%E5%88%A0-%E7%BD%91%E6%B0%91%E7%88%86%E7%82%92/" target="cdt-mirror">BBC｜“开审芮成钢”： 报道被删 网民爆炒</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?resize=551%2C315" alt="芮成钢" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?w=640 640w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p>芮成钢是央视财经频道的主持人之一，在中国颇具知名度。他个人的微博账号甚具人气，其粉丝数量超过1000万。</p>
+<p>中国中央电视台著名节目主持人芮成钢2014年7月突然被带走、从公众视野消失两年后，名字重新出现在媒体报道中，引发关注。</p>
+<p>《中国经营报》记者“独家获悉”，“央视腐败大戏即将进入法院审理程序。”</p>
+<p>中国经营报称，该报记者“从吉林省法院系统某核心人士处获悉，有34件案子，已经移交过来29件，不日将进入到审理程序。”</p>
+<p>“开审芮成钢”</p>
+<p>中国经营报的报道把读者拉回到两年前的那个夏日：</p>
+<p>“2014年7月10日，北京多云”，央视著名主持人芮成钢的微博停留在当天晚上20点30分。这一天，几乎每天发送微博的芮成钢发了一个与工作内容相关的微博“济南市实行了三年多的商品房限购政策正式取消，一会儿直播见，朋友们！”</p>
+<p>“第二天，明星主持人芮成钢突然就‘消失’了，不仅仅是在直播中。2014年的夏天，不仅仅是芮成钢，中央电视台不少主持人和工作人员都‘消失’在这个异常炎热的夏天。”</p>
+<p>“异常炎热的夏天里”，习近平的反腐运动如火如荼。据信，芮成钢是涉嫌不法商业获利被查的。随后，中央电视台财经频道总监郭振玺、制片人田立武也被立案侦查。</p>
+<p>中国经营报的记者称，“从权威人士处获悉的信息，显示涉及央视的案件有34起。”</p>
+<p>中国经营报的“独家”报道被新浪、腾讯等多家中国网站及海外中文媒体转载。</p>
+<p>但截止到记者发稿时，只能在海外中文媒体上还能看到相关报道，大陆媒体的转载则全部被封被删。</p>
+<p>网民爆炒</p>
+<p>但是，在中国的社交媒体上，人们议论纷纷，显示出民众对芮成钢案的强烈兴趣。</p>
+<p>“都好几年了，你没事吧？到底怎么了”？一位网民的询问道出了很多人的关切。</p>
+<p>一位网民的“我还以为他已经被秘密干掉了”的帖子引来很多人附和。</p>
+<p>芮成钢曾是央视财经频道的主持人之一，在中国颇具知名度。他个人的微博账号甚具人气，其粉丝数量超过1000万。</p>
+<p>芮成钢从公众视野消失一年后，中共中央机关报《人民日报》的微信公共平台上发表了一篇文章，《每个人心中都有一个芮成钢》。</p>
+<p>文章分析说，称状元出身的芮成钢青年得志，毁了他的是他自己。并认为，他出事的原因，一个是心太大了，另一个是心太急了。</p>
+<p>文章指出，芮成钢充其量就是一名英语流利、有才华的优秀记者。采访这些名人，就是工作平台赋予自己的本职工作。他误把自己的机会当作了自己的身份。至于他心太急了，指的是急着给生命添彩，急于成名、急于发财、急于升官。但急过了头，就要付出代价。</p>
+<p>2014年9月14日，新华网曾发表一篇《芮成钢遭爆料是特务 网友：若是真的必须严惩》的文章，更让芮成钢涉嫌充当外国间谍，并利用职务之便向外国提供机密情报的传言甚嚣尘上。</p>
+<p>后来更有传闻说，芮成钢与多名中共高官的妻子有不寻常的亲密关系，其中包括前中共领导人胡锦涛秘书令计划的妻子谷丽萍。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/07/120.jpg?resize=550%2C366" alt="芮成钢" data-recalc-dims="1"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc%EF%BD%9C%E5%BC%80%E5%AE%A1%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A-%E6%8A%A5%E9%81%93%E8%A2%AB%E5%88%A0-%E7%BD%91%E6%B0%91%E7%88%86%E7%82%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%B7%B4%E6%8B%BF%E9%A9%AC-2/" target="cdt-mirror">【麻辣总局】赵國圖片 #巴拿馬</a>
+</h2>
+<p><p>高晓亮 ‏@gaoxiaoliang64：【终于知道哪条河了！】“摸着石头过河” ，这是洋务运动总设计师邓某人的名言！几十年来，国人一直不知道摸着石头要过哪条河？ 这几天，世界哗然，“姐夫”已经摸着石头过河了，国人才明白，原来要过的河——巴拿马运河……</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfadSapXEAATxkm.jpg?resize=550%2C826" alt="CfadSapXEAATxkm" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfadSapXEAATxkm.jpg?resize=200%2C300 200w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfadSapXEAATxkm.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>流雲 ‏@liuyun1989 赵國圖片 #巴拿馬</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfucEidVAAAaU8j.jpg?resize=416%2C456" alt="CfucEidVAAAaU8j" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfucEidVAAAaU8j.jpg?resize=274%2C300 274w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfucEidVAAAaU8j.jpg?w=416 416w" sizes="(max-width: 416px) 100vw, 416px" data-recalc-dims="1"></p>
+<p>Jian Alan Huang ‏@hnjhj：#一张图告诉你 中国社会当前现状 #草泥马顶巴拿马</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfV90abUEAABgsU.jpg?resize=550%2C398" alt="CfV90abUEAABgsU" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfV90abUEAABgsU.jpg?resize=300%2C217 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfV90abUEAABgsU.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%B7%B4%E6%8B%BF%E9%A9%AC-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80/?category=18271" rel="tag">麻辣总局</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/cnd%EF%BD%9C/" target="cdt-mirror">CND｜方曌：李克曼- -汉学家的骑士精神</a>
+</h2>
+<p><p>李克曼去世了。对于绝大多数人而言，这个名字显得十分陌生。即使对于熟悉海外汉学研究的人来说，这位在澳大利亚执教、生活的比利时汉学家，也像是一个拒绝被分科、被定义的异类：他好像曾经是一个当代中国研究学者，又因为翻译过《论语》，也可以被看作是古典意义上的汉学家。他钟爱中国的古典文化，把石涛的《画语录》翻译成法文并加以评注，自己也画国画，写书法，还教他的澳洲学生打太极拳。但他也喜欢鲁迅，称鲁迅是“花园里的野草”，“冰原上的火焰”；他以自己对中国的研究在西方闻名，也一直在大学里讲授中国文化，可是他自己的作品却有不少和中国无关。他所著的小说《拿破仑之死》在普通读者和文学鉴赏家那里都受到好评，“失败的小说家”这个头衔，看来是不适合李克曼了。</p>
+<p>多才多艺有时只是对于业余的一种美化，夸夸奇谈也能制造知识渊博的假象，在这个专家盛行的年代，我们有时不敢，也不愿意相信一个人可以如此全知全能。李克曼是一位诗人、画家、小说家、文艺批评家、汉学家、当代中国研究者，最后，他还是一名骑士。上述所有的称呼，包括最后一个，都不是官方授予或业界指定的头衔，而是对他人生的真实描述。在这些领域中，他的创作都博得了同行的尊重。澳大利亚著名的知识分子菲利普•亚当斯如此描述李克曼：</p>
+<p>他对所有事情都非常在行：他是陆克文的老师;他写了我认为最重要的关于中国的书;他可能是澳大利亚知识分子中最见微知著，也最复杂的一位;在他面前，我们中再自我和骄傲的人也会感到敬畏。</p>
+<p>敬畏是一种严肃的感情，我们已经不怎么在日常的评价中使用这个词了。现在我们更倾向于一种懒人的态度，点个赞，表下态，最多是喜欢，“粉”一下某个人。敬畏之于喜欢，就好象奇迹之于魔术，《蜀道难》之于四川三日游，交响乐之于手机铃声，是无从类比的。对于李克曼，如果勉为其难地去概括阅读他的感觉的话，我们也许可以把他称作一个“堂•吉诃德”式的历史学家，也许我们可以说，他是最具骑士精神的历史学家。</p>
+<p>没有多少人真正读过《堂•吉诃德》这本小说，当然，也没有多少人，特别是受过高等教育的人，承认自己没读过《堂•吉诃德》。虽然没多少人读过《堂•吉诃德》的原著，但是堂•吉诃德的形象是广为人知的。毫无疑问，在塞万提斯笔下，堂•吉诃德是一个失败者。李克曼这样一位天才的汉学家，和这个失败者典型的小说人物，又怎么能挂得上钩呢?</p>
+<p>曾几何时，我们还能够接受“光荣的失败”，我们也不曾把成功当成是人生唯一的目标；“堂•吉诃德式的”努力，既可以是对于勇气、真诚、正义感的赞扬，也可以是对于注定要失败的行为的贬损。1955年，当年轻的李克曼第一次来到中国的时候，他就开始了一段堂•吉诃德式的人生旅程。首先，他立刻爱上了这个国家，当被问及到底喜欢中国哪一点的时候，他毫不犹豫地回答“Everything”。他被北京的城墙和城楼深深震撼，那种几何带来的壮观和威严是比利时小镇居民无法想象的。在香港学习期间，他的中国室友把他们蜗居的斗室命名为“无用居”，他因此迷上了庄子和中国的经典，当然还有那龙飞凤舞的书法。他放弃了原来学习的法律和艺术史专业，一心开始学习中文，在中国台湾地区、香港和新加坡度过了很长一段学生时光。他对于中国的着迷，真像堂•吉诃德对于骑士小说的着迷程度：“他如此喜爱阅读骑士小说，以至于他忘记了打猎，甚至是照顾自己的庄园。为了买更多的骑士小说，他甚至蠢到卖掉自家的玉米地……最终，他一天到晚躺在骑士小说的书堆里，从早到晚地看书，最后看到大脑迟钝，疯疯癫癫。”</p>
+<p>李克曼曾说，拆毁北京的城墙是一种“对于神圣的亵渎”。对他这样一个天主教徒而言，这已经是最严重的字眼。北京的城墙为什么神圣的呢?在城墙的设计者看来，这样一组建筑并不仅仅是一种防御工事，同时也是一种对于天下归之的象征。对于下令拆毁城墙的人而言，也并不完全是因为城墙阻塞了道路建设，影响交通，而是因为旧制度业已崩塌，其象征也应该被摧毁。必须先摧毁历史才能创造历史，中国近代以来的革命者们都抱有如此的想法，虽然在手段上有轻重之分。但是近代中国历史的最大吊诡之一，就是历史的遗产往往先于历史被摧毁了。对于城墙，李克曼并没有那种浅薄的、怀旧式的悲伤，真正使得他愤怒的，是神圣的所有秩序和美感被打碎了，这是对于神圣的亵渎。</p>
+<p>面对这样一种亵渎时，一个人可以假装的若无其事，也可以表现得更加有勇气和尊严，面对残酷的真相。不过，有勇气承认真相是一回事，把呈现真相、重塑过去当作终身的志业是另外一回事。前者常常被称赞，后者则更常被看作是理想主义、不切实际，而且更容易遭到奚落和嘲弄。再者，如果中国人自己都要刻意毁坏自己的历史文化，一个外国人又能做些什么呢?冷眼旁观似乎是最自然的选择；李克曼却做了一个“堂•吉诃德”式的选择，他用笔作长矛，冲向了自己的风车。</p>
+<p>这架风车并不是那些可以毁坏中国历史和文化的人——那些是实实在在的乡村恶霸，虽然强大，但是终归是确凿的敌人，有战而胜之的可能性。风车是虚幻的敌人，也是不可能战胜的。对李克曼而言，他的风车是那种对于优雅和精致的不屑和厌恶态度，是一种“反审美”情绪。对于这种态度，他曾经讲过一个生动的故事：他习惯于在嘈杂的咖啡馆写作——嘈杂可以帮他集中注意力。在堪培拉的一家咖啡馆里，广播里放着各种各样的东西，店内也是人声鼎沸，不过，突然广播节目被人调到了另一个台，正在播放的是莫扎特的单簧管五重奏，优雅的声音瞬间流泻而出，这时所有人“仿佛坠入了炼狱，没有一个人说话，互相奇怪地打量着别人”，终于，“那件让所有人放松的事情发生了”，一个靠近收音机的人站起来换了台，不再是莫扎特，而是小广告和社会新闻。“每个人又可以舒服地忽略这些噪音了。”</p>
+<p>人们是不能欣赏莫扎特吗?李克曼不这么认为，恰恰相反，李克曼认为人们正是因为能够欣赏莫扎特之美，所以才一定要关掉它。人们有一种毁坏美的原始欲望，这种欲望不仅仅是在艺术领域，在道德伦理领域也是如此。“他们想把每个人都变得最坏，消灭、诋毁我们身边所有的光辉和美感，这是人性中最让人悲哀的一面。”人性中的这一面，才是李克曼的风车。</p>
+<p>一个天才的灵光对抗一个世界的粗鄙，这注定是一场失败的战斗。同时，这是一场堂•吉诃德式的战斗，是一场用“巨大的渴望”对抗“渺小的现实”的战斗。李克曼在这场战斗中，几乎用上了自己成年的所有时光，从上世纪70年代初到他去世前，他一直英雄般战斗着，尽管，这个世界早已用各种方式击败了他。1986年他曾经如此描述来到中国的感受——</p>
+<p>在中国，除了极小数量的一组组知名古迹(它们的“古”亦仅是相对的)以外，吸引受过教育的访者注意力的却是“过去”的巨大缺失。大多数的中国城市，尤其是那些古老的都城，或极负盛名的文化中心，今天所展示的面貌都并非是崭新的或是现代的，但同时也怪异地缺乏任何传统文化的品质与个性。</p>
+<p>如果他在2016年再访问中国，相信他会更加惊讶这片土地上的变化，古迹不仅是消失了，而是被丑陋拙劣的现代仿制品取代了。面对簇新的千年古庙，金碧辉煌的百年佛像，不知李克曼会做何感想?我们不仅仅忘记了传统中国的祖先，现在连鲁迅这样现代中国的先人都要放弃和遗忘。看上去，李克曼三十多年的努力，不仅不能对抗今日的中国，而且和今日中国似乎已经失去了所有的联系。</p>
+<p>李克曼死了。传统的中国和其灿烂的文化也奄奄一息了，他没能从风车和恶棍的手上拯救了她。不过他真的失败了吗?四百年来，《堂•吉诃德》的读者们从来也记不住那些恶棍们的名字和特征，更别说从这些恶棍或是风车身上得到什么启发了。相反，每一个读过《堂•吉诃德》的人都记住了我们故事的主人公，这位有骑士精神的失败者。他每每从纸页间骑着瘦马，向我们缓缓走过来，我们仿佛看得见他头盔上闪耀的亮光;他和自己的追随者桑丘的雕像在世界各地耸立，启发着如李克曼般的后来者们。最后，让我们用李克曼先生自己的话，送别这位具有骑士精神的失败者：</p>
+<p>成功者改变自己以适应这个世界;失败者总是尝试改变这个世界来适应自己。因此，我们这个世界的所有进步，都依赖于失败者。</p>
+<p>来源：《 书摘 》（ 2015年09月01日摘自《历史学人：“强盗”资本家？》）</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/cnd%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E6%9B%BC/?category=18271" rel="tag">李克曼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E5%AD%A6%E5%AE%B6/?category=18271" rel="tag">汉学家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A2%83%E5%A4%96%E5%8D%9A%E5%AE%A2%EF%BC%9A%E4%B9%A0%E6%80%BB%E7%AE%A1%E6%95%99%E5%A5%BD%E5%AD%90%E5%A5%B3%E5%92%8C%E4%BA%B2%E6%88%9A%E6%B2%A1%EF%BC%9F/" target="cdt-mirror">界面新闻｜境外博客：习总管教好子女和亲戚没？</a>
+</h2>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/06/a5g.jpg?resize=486%2C640" alt="China's President Xi Jinping (R) shakes hands with Li Xiaolin, CEO of China Power International Development Ltd. and daughter of former Chinese premier Li Peng, during his meeting with representatives of entrepreneurs at the annual Boao Forum for Asia in Boao on the southern Chinese resort island of Hainan on April 8, 2013. State and government leaders from Asia and other regions have been invited to attend three-days of economic meetings for the annual Boao Forum for Asia in Boao, a coastal town in south China's Hainan Province.   AFP PHOTO / POOL / Alexander F. Yuan" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/06/a5g.jpg?resize=228%2C300 228w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/06/a5g.jpg?w=486 486w" sizes="(max-width: 486px) 100vw, 486px" data-recalc-dims="1"><p>界面新闻－只服务于独立思考的人群</p>
+<p>境外博客：习总管教好子女和亲戚没？</p>
+<p>作为一个国家领导人理应有更高的标准，这是民众要求的，也是国际通行的道德标准。<br>
+2016/04/12 17:00</p>
+<p>本来按照国际公认的法律和道德标准，一人做事一人当。丈夫犯罪妻子无罪，老子犯罪儿子无罪，姐姐犯罪弟弟无罪，姐夫犯罪小舅无罪，习总的姐夫开公司应该与习总无关。</p>
+<p>但是作为一个国家领导人理应有更高的标准，这是民众要求的，也是国际通行的道德标准。所以习总在反腐会议上说∶“要管好你的亲戚，不要用权力谋取私利。”</p>
+<p>那么我们来看看习总说到做到了没有？2012年中共11大后，中国中央领导人的子女纷纷回国，其中就有习总的独生女习明泽。这种来真的来硬的举措是从来没有过的。习明泽回国后，十分低调，没有任何“出规”的举动。因此对子女习总确实是管好了，作为领导人的女儿，习明泽也为父亲作出了巨大的牺牲。</p>
+<p>再来看习总的亲戚姐姐和姐夫。巴拿马文件显示习总的姐夫邓家贵于2009年买下两家离岸公司，2012年底习总上任前关闭，从公司资料的表格来看，这两家公司没有实际运作的痕迹。</p>
+<p>先假定巴拿马文件真实性非常高。它透露了三条信息∶1.姐夫邓家贵合法地开了两家离岸公司。抛出文件的“国际调查记者联盟”也声明，开离岸公司并不违反法律。</p>
+<p>2.从公司资料的表格来看，这两家公司一直没有实际运作的痕迹。也就是说既没有逃税也没有洗钱，更没有以权谋私。</p>
+<p>3.公司在习总上任之前关闭了。有的报道说是停止运作，但因为公司从没有运作过，因此关闭说较为可靠。由此可见，姐夫的公司既没有违法也没有以权谋私的迹象和证据。对巴拿马文件来得太迟的透露，习总自己早就管了而且管好了。</p>
+<p>习总的姐姐名为齐桥桥。为什么姓齐呢，因为中共元老习仲勋与夫人齐心治家很严，为避免外界猜到她是自己的女儿而在学校受到特别待遇，便让她随母姓为齐，齐桥桥的名字便一直沿用至今。</p>
+<p>齐桥桥比习近平大，也是红二代，像其它的红二代一样热衷于经商并拥有好几家公司。不过，她经商时，习还没有很大的权势，所以齐的成功最多只能说是靠父亲的关系和人脉。和习没什么关系。</p>
+<p>习家一直有开家庭会议的习惯。十七大后，习近平被确立接班人。他的母亲齐心就主持家庭会议，要求家人退出商业活动。</p>
+<p>2014年，家园网报道齐桥桥在家庭会上向大家报告“好消息”，那就是她拥有的所有公司，基本上都已“打包”售出，自己已净身退出商场。并保证∶</p>
+<p>第一，从今往后，任何事情必须首先从国家利益去考虑，不打个人的小算盘。第二，继承父亲的遗志，立党为公，坚持思想解放，坚定开放改革。第三，大弟(习近平)今天的身份和地位，对我们也提出了更高的要求，大弟不光是习家的儿子，更是人民的儿子，我们也一样，一定要全力以赴支持大弟的工作。</p>
+<p>需要指出的是，齐是习的大姐，她的财富主要是靠父荫。目前没有任何证据显示她的财富是靠以权谋私或其非法途径而来的。靠家族或父母的权势和关系经商，就是西方领导人的家属和子女也很普遍，只要是合法的，你就不能拿她们怎样。</p>
+<p>事实上，习的姐姐和姐夫已经为习近平作出了很大的牺牲。有报道说∶习姐夫在香港住的楼吧是很不起眼的一条街。</p>
+<p>中国首富王健林2014年在哈佛大学演讲时，承认邓家贵夫妇曾持有万达集团的股份，但在万达公司首次公开募股之前已出售这些股份。王称这与腐败无关，“这件事邓家贵先生是牺牲了巨大利益的。投资熬了6年，眼看可以赚大钱而不赚”，他表示，“恰恰证明习近平主席治国严，治家更严”。</p>
+<p>综上所述，可以得出以下几点结论∶1.巴拿马文件并没有披露任何不利习总的资料，反而证实了习总在文件披露前的好几年就管亲戚了，也管住了。2.从习的姐姐和姐夫出售财产退出商业圈来看，习一直没停止管教自己的亲戚。3.习姐姐和姐夫的财富，目前没有贪腐的证据，只能说是合法的。西方国家领导人的家属和子女经商是很普遍和很普通的，只要不违法，所得财富就是合法的。习总管教大姐和姐夫也只能做到这一步∶停止商业运作以免以权谋私。要没收或叫他们吐出来，与法与理不合。</p>
+<p>当然目前没有证据，不等于以后没有。但根据无罪推断原则，至少齐和丈夫的财富目前还是合法的。</p>
+<p>习总曾经大义灭亲治过自己贪腐的表弟，如果真有证据证明其姐姐涉及贪腐，那么大家就会看他是否会再一次大义灭亲了。现在拿巴拿马文件责备习总毫无道理。</p>
+<p>（来源：读家）</p>
+<p>以下截屏和评论来自推特用户<a href="https://twitter.com/beidaijin/status/719926608459538432" target="_blank">@beidaijin</a></p>
+<p>贝带劲 ‏@beidaijin：不是这个，亮点在于，大陆方面有严格的话题管控，#巴拿马文件 不让提，界面是大陆方面第一家敢说这个的。不论其立场怎样，就如环球时报拿六四题目被罚，虽然是洗地，但一样碰了新闻管制的红线。在大陆不仅有新闻禁令，还有新闻白名单，不是所有媒体都可以随意报道新闻的 @canghai235</p>
+<p>贝带劲 ‏@beidaijin：接前面消息：腾讯新闻也发表了习近平回应 #巴拿马文件 的文章，选择的栏目是「时政新闻」。但似乎没做推送。此外 目前为止尚未找到官媒发布这篇文章。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2YL01UIAE4BWe.jpg?resize=600%2C800" alt="Cf2YL01UIAE4BWe" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2YL01UIAE4BWe.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2YL01UIAE4BWe.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>贝带劲 ‏@beidaijin：接这里：找到源头了，最早来自「文学城」发布时间为5天前，但已经删掉了。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2dlpXUIAEnBSH.jpg?resize=599%2C260" alt="Cf2dlpXUIAEnBSH" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2dlpXUIAEnBSH.jpg?resize=300%2C130 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2dlpXUIAEnBSH.jpg?w=599 599w" sizes="(max-width: 599px) 100vw, 599px" data-recalc-dims="1"></p>
+<p>贝带劲 ‏@beidaijin：目前大陆方面两家，一个是上海的界面、韩正的宣传口面子工程之一；二是腾讯，其余没有，尤其是官媒没有。在我看习没到进化极权的程度，不论他想不想效普京，于是这个有俩可能，一是舔菊 二是高级黑。据悉还有更早的源头，万维。总之源头是陆媒一向谨慎的，以我对他们的了解 @lijiansion</p>
+<p>贝带劲 ‏@beidaijin：还接这个消息，界面新闻下面有大批五毛跟进 ：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2kei_VAAExjNJ.jpg?resize=600%2C1067" alt="Cf2kei_VAAExjNJ" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2kei_VAAExjNJ.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2kei_VAAExjNJ.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>贝带劲 ‏@beidaijin：还接刚才 腾讯已删除 #巴拿马文件 #界面新闻</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2m2RKUsAQKg2-.jpg?resize=600%2C246" alt="Cf2m2RKUsAQKg2-" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2m2RKUsAQKg2-.jpg?resize=300%2C123 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2m2RKUsAQKg2-.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>贝带劲 ‏@beidaijin：还接这里，刚大概细看了一下，文章中很多硬伤，比如说「中共11大是2012年」说明作者连搜索都没做过。</p>
+<p>贝带劲 ‏@beidaijin：还接刚才 腾讯已删除 #巴拿马文件 #界面新闻</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2xb0SUUAAM-gf.jpg?resize=600%2C399" alt="Cf2xb0SUUAAM-gf" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2xb0SUUAAM-gf.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cf2xb0SUUAAM-gf.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>贝带劲 ‏@beidaijin：上海同行给「界面新闻」的定义：「精英小众、上海市委宣传部下辖的财经新媒体，政治过硬」#巴拿马文件</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A2%83%E5%A4%96%E5%8D%9A%E5%AE%A2%EF%BC%9A%E4%B9%A0%E6%80%BB%E7%AE%A1%E6%95%99%E5%A5%BD%E5%AD%90%E5%A5%B3%E5%92%8C%E4%BA%B2%E6%88%9A%E6%B2%A1%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB/?category=18271" rel="tag">界面新闻</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%B1%B1%E5%AF%A8%E7%89%88bbc-%E8%B0%88%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%8D%B4%E5%8F%AA%E5%AD%97%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">法广 | 山寨版“BBC” 谈巴拿马文件却只字不提中国</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?resize=600%2C339" alt="cfqrkzyumaenl58" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?resize=768%2C434 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?w=1024 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
@@ -527,135 +653,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/" target="cdt-mirror">【异闻观止】环球时报 | 西媒如此恨“防火墙” 这很值得玩味</a>
-</h2>
-<p><p>有两家美英杂志的网站在中国受到访问限制，《纽约时报》等与这些媒体就像大V相互声援一样，营造出指责中国屏蔽西方网站的舆论氛围。另据报道，美国贸易官员上月底首次将中国“网络防火墙”列入一个贸易壁垒年度清单，宣称中国屏蔽网站的现象“有所恶化”，给外方造成“巨大负担和损失”。</p>
-<p>对境外极少数网站或其有害内容进行访问限制，同时又要保持中国互联网与世界的整体联系，维护信息的全球流动性，这需要很强的信息技术能力才能做到。中国做到了这一点，从而形成了中外之间既沟通，西方舆论力量对中国进行意识形态渗透又没那么容易的格局。</p>
-<p>网络防火墙不是真正的“墙”，而是针对互联网上一些具体有害或不安全信息源采取精确封堵的管理系统。它带来了中外之间一定程度上的不方便，但是应当说中外社会对这种不方便有了较强适应性，它可能带来的一些损失得到了相应的规避。</p>
-<p>需要挑明的是，由于互联网的出现和发展都高度对应了西方社会经济及政治演进的节奏，它几乎“自带”了西方所主张秩序和规则的大量元素。它维护了西方已有的竞争优势，对西方在世界上的主导地位起了加固作用，也使得后发国家保持政治上的独立性面临更多困难。</p>
-<p>“网络防火墙”重新巩固了互联网时代中国主权受到侵蚀的部分，它让西方肆无忌惮对中国做意识形态渗透甚至引导我们政治注意力的势头得到遏制，为中国学习使用互联网技术创造了相对从容的环境，为我们解决一些深层难题赢得了时间。</p>
-<p>比如西方媒体近年来不断策划抛出重大涉华政治报道，试图主导中国全社会注意力的方向，直接为我们设置政治议题。“网络防火墙”可以说迎头痛击了这种企图，让西方媒体的一波波努力几乎付诸东流。</p>
-<p>“防火墙”的这一关键作用必将得到历史的正面评价。当然，这不意味着“防火墙”就一定是某种永恒的东西。我们相信它会随着时代的变迁和当时的具体情况而织密或变疏，当中西软实力逐渐实现平衡之后，“防火墙”的存在价值将逐渐淡化。</p>
-<p>我们还相信，保持开放性和捍卫自主性会是长期受到同等重视的中国互联网发展原则，因为它们都关系着中国社会的核心利益，所以短时间内的调节重点或有所侧重，但它们总体上的和谐统一趋势不容置疑。</p>
-<p>西方控制着全球互联网超级信息平台的价值倾向、议题设置权以及主要信息的政治针对性等等。西方舆论力量试图在中国社会里长驱直入，并且宣扬这是现代世界的首要原则，他们是想把中国社会治理的政治和舆论部分进行归零，让西方主导的秩序和规则完全覆盖中国。</p>
-<p>中国人切不可被西方忽悠了，忽视了“防火墙”出现的复杂背景。其实贸易自由化对世界发展更具实质意义，但是看看美国搞出了多少壁垒吧。美国人至今不许中国的华为公司进入美国一些领域，宣称这危及美国的国家安全。他们把自己的国家利益看得高于一切。</p>
-<p>最重要的一点或许是，“网络防火墙”要帮着中国变得越来越强大，更有承受力，而不是真的让我们变得封闭和脆弱。“防火墙”的世界经验很少，中国只能摸索着做，通过它实现中国综合利益的最大化。</p>
-<p>“防火墙”显然不是可以让我们高枕无忧的真正“长城”，也成为不了面对各种外部冲击的“万能钥匙”，对此我们一定要非常清楚。它为我们赢得的时间和自主性必须充分利用起来，构建我们真实的软实力和弹性、韧性。后一点我们做得越好，“防火墙”就将被证明越成功。</p>
-<p>相关阅读：<a title="纽约时报｜美国把中国“防火长城”首次列为贸易壁垒" href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E%E9%A6%96%E6%AC%A1%E5%88%97%E4%B8%BA%E8%B4%B8%E6%98%93/">纽约时报｜美国把中国“防火长城”首次列为贸易壁垒</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">西方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B9%96%E5%8D%97%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E5%AE%98%E5%91%98%E6%B1%82%E5%8A%A9%E5%9B%BD%E5%AE%89%E5%8D%8F%E5%8A%A9%E7%9B%91%E6%8E%A7%E8%AE%B0%E8%80%85/" target="cdt-mirror">法广｜湖南衡阳宣传官员求助国安协助监控记者</a>
-</h2>
-<p><div>
-<p>4月8日，中共湖南省纪委发布消息称，原衡阳市委书记李亿龙涉嫌严重违纪，目前正接受组织调查。</p>
-</div>
-<div>
-<p>此前一周的4月1日下午，衡阳市召开领导干部大会，新任衡阳市委书记周农与已经宣布调任省农村工作领导小组副组长李亿龙进行了交接。</p>
-<p>2012年底至2013年初，衡阳发生严重大范围贿选事件。时任衡阳市“一把手”的童名谦因玩忽职守罪被判处有期徒刑五年。2013年，李亿龙接任衡阳市委书记。</p>
-<p>据澎湃新闻网的报道，4月1日下午2点30分，李亿龙参加完湖南省衡阳市召开领导干部大会后乘坐高铁返回长沙，约4点50分即将到长沙时被湖南省纪委工作人员控制。目击者称，李亿龙在高铁上曾试图过反抗，下车时，脸上有明显伤痕。</p>
-<p>这一新闻在网络上引起巨大反响，许多人感慨曾在衡阳大规模贿选安检后，2013年临危受命，担任衡阳市委书记的李亿龙，也卷入贪腐丑闻，官场已成绞肉机；也有人认为，纪委官员对并非暴力犯罪的贪腐官员暴力处置，似乎有失体统，也无法律依据。</p>
-<p>今天上午，一位记者收到了来自中共衡阳市委宣传部新闻中心主任江勇的短信，这条短信似乎原本应该是发给衡阳市委宣传部部长刘丽华，或者分管新闻的某位副部长，似乎是江勇发送短信时，操作失误发给了记者。</p>
-<p>江勇的短信称，“部长,经查，南方派系常驻湖南记者目前有，宋XX，南方都市报（手机号略去）；蒋XX,澎湃新闻（手机号略去）；曹XX、新京报（手机号略去），我们已经转给国安部门。”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/WeChat_1460306677.jpg?resize=550%2C979" alt="WeChat_1460306677" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/WeChat_1460306677.jpg?resize=575%2C1024 575w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/WeChat_1460306677.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>检索相关记者报道可发现，南方都市报宋姓记者去年5月、8月都曾有关于衡阳的负面报道（或称监督报道），澎湃新闻记者蒋某，曾报道李亿龙被抓捕细节，而新京报记者曹某,也曾多次报道衡阳的负面报道，他最新的报道和衡阳刚落马的市委书记有关：《衡阳原书记李亿龙被查 被指作风霸道擅长“造城”》。</p>
-<p>熟悉湖南的媒体人认为，江勇这条短信，应该是应领导要求，将最近在调查衡阳负面新闻的记者资料，转交给国安人员，对其进行监听监控。</p>
-<p>今天下午，几位涉及的记者拒绝了采访的要求，熟悉此事的媒体人透露，他们被已向报社汇报此事，并被要求保持沉默。一位当事记者私下表示，“今年还没有踏入衡阳一步。估计是原罪，去年做衡阳的监督性报道比较多。”</p>
-<p>衡阳市委宣传部新闻中心主任江勇未接听本台记者的多次电话，也没有回复记者的短信采访请求。</p>
-<p>傍晚，一位当事记者透露，江勇打电话过来，“带着哭腔道歉，说是他正在编辑短信过程中有事离开，手机放在桌子上，被女儿拿去玩儿，不小心把短信发出去了。”</p>
-</div>
-<hr><p><small>© 我是一只草泥马 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B9%96%E5%8D%97%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E5%AE%98%E5%91%98%E6%B1%82%E5%8A%A9%E5%9B%BD%E5%AE%89%E5%8D%8F%E5%8A%A9%E7%9B%91%E6%8E%A7%E8%AE%B0%E8%80%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E9%83%A8/?category=18271" rel="tag">安全部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E7%B2%BE%E9%80%89/?category=18271" rel="tag">有关部门精选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E8%AF%B4-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%93%88%E7%93%A6%E9%82%A3%E5%89%AA%E5%BD%B1/" target="cdt-mirror">世界说 | 社会主义哈瓦那剪影</a>
-</h2>
-<p><p>作者：陈钟伟</p>
-<p><strong>这里是世界说#开放中的国家#系列，民主化的缅甸，打开门的古巴，核协议以后的伊朗……甚至是，未来的朝鲜？我们的目标是，残忍地打破神秘，专治各种不服。</strong></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.35.50.png?resize=569%2C381" alt="Screen Shot 2016-04-09 at 上午10.35.50" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.35.50.png?resize=300%2C201 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.35.50.png?w=569 569w" sizes="(max-width: 569px) 100vw, 569px" data-recalc-dims="1"><br>
-△ 哈瓦那街头一张颇有象征意义的照片</p>
-<p><strong>■ 哈瓦那的公交车旅程</strong></p>
-<p>某次从机场回城区的漫漫路上，一路源源不断有人上车进城。<wbr></wbr>原本热带气候特有的闷热难耐，被塞的密不透风，着实是闷罐车，<wbr></wbr>混着体味，让人透不过气来。出于车厢密度超过人道极限，<wbr></wbr>在一个人头攒动的枢纽站，面对挥起手臂成片的人群，<wbr></wbr>司机不愿停车，却迅速被人群围住，面对并不准点的公交系统，<wbr></wbr>大概乘客也没有等待下一趟的耐心，挡在车前吵嚷，虽不通西语，<wbr></wbr>但此起彼伏扯起的嗓音已经让人燥郁。</p>
-<p>司机耐不住一群人，<wbr></wbr>最终索性让大家都来体验，车刚开出没多久，<wbr></wbr>一位男乘客又忘记了提前提醒司机下车，司机一个急刹车，<wbr></wbr>尽管车厢里大家动弹不得，并无人摔倒，但彼此重重的贴在一起，<wbr></wbr>如同千层饼。这一出火上浇油瞬间点燃了车厢里乘客的怨气。<wbr></wbr>刚才车外的吵嚷转移到车内，车索性不开了，对司机的群起围攻，<wbr></wbr>司机的申辩，高亢的女声与嘶吼的男声都没有停下来的意思，<wbr></wbr>让人窒息。<strong>令人惊异的是并没有人要下车，忍受着非人的煎熬，</strong><wbr></wbr><strong>大概有心下车的早已泅渡海峡移民美国了吧！</strong><wbr></wbr>不知这是否时常会上演，我有幸成为现场目击人。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.36.38.png?resize=566%2C426" alt="Screen Shot 2016-04-09 at 上午10.36.38" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.36.38.png?resize=300%2C226 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.36.38.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"><br>
-△ 古巴拥挤的公共交通。</p>
-<p><strong>■ 日常用水在哈瓦那</strong></p>
-<p>在仅有两层楼的哈瓦那火车站，时时都有候车的古巴人对着没有水龙头的金属自来水管口饮上一气。供水在哈瓦那及古巴主要城市很成问题，尽管这是个多雨的热带国度，哈瓦那并无通向每家每户的自来水管，而是从水厂通过暗渠和地下水管道系统通向家家户户的水窖，如果装自来水管那是居民自家的事。水厂每三天向水窖放水，如果没能储备足够三天的用水，就只能去黑市高价。遇到海拔高的位置，水压便会很弱，哈瓦那住宅区罕有高层，供水也是主要的困扰。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.37.11.png?resize=566%2C385" alt="Screen Shot 2016-04-09 at 上午10.37.11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.11.png?resize=300%2C204 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.11.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"><br>
-△ 古巴人民用桶储存饮用水。</p>
-<p><strong>■ 古巴的出版与阅读</strong></p>
-<p>在海明威最爱的“两个世界”旅馆边上，哈瓦那规模较大的书店里，经典类小说无论是西语原著还是西语译作都还不少，而马列著作更是荦荦大端。不过版本老旧，罕能见到近年出的书，似乎有一本画册出版于2009年，是2012年能找到最新的书了。而一本巴蒂斯塔的传记吸引了我——封面中巴蒂斯塔的头像被装在铁窗里。如果2月份来，能赶上哈瓦那书展，到时可以开开眼界，否则看书就去国立图书馆吧！在这个热情洋溢的国度阅读似乎并不发达，音乐与舞蹈可能才是对抗匮乏的日常生活的主要形式。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.37.43.png?resize=550%2C268" alt="Screen Shot 2016-04-09 at 上午10.37.43" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.43.png?resize=300%2C146 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.37.43.png?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-△ 哈瓦那街头的书店，可见切·格瓦拉、菲德尔·卡斯特罗等人的头像充斥封面。</p>
-<p><strong>■ 古巴人如何出国</strong></p>
-<p>通常古巴居民出国，除了申请签证，还只能去双方有外交关系且有互派使节的国家，对于古巴，主要是拉美的厄瓜多尔、阿根廷、委内瑞拉、玻利维亚等国。为了外交人员与探亲团聚的便利，早在古美关系正常化之前，哈瓦那一早就开通了与美国的包机，之前要经停巴哈马中转，如同开通直航之前的海峡两岸，对60岁以上的老年公民，还可以申请真正的直飞包机机票，但仅限于探亲团聚，对观光客是不开放的。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.38.15.png?resize=567%2C365" alt="Screen Shot 2016-04-09 at 上午10.38.15" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.38.15.png?resize=300%2C193 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.38.15.png?w=567 567w" sizes="(max-width: 567px) 100vw, 567px" data-recalc-dims="1"><br>
-△ 通行古巴与美国的航班。</p>
-<p><strong>■ 艺术与政治</strong></p>
-<p>在哈瓦那国家艺术博物馆，我仔细地篦过一遍所有藏品，1957~1961年间在古巴井喷式涌现的当代艺术作品都不见了，巴蒂斯塔晚期的艺术文化如同发生在沙俄倒台前后白银时代或者魏玛共和国时期的小规模翻版，这期间萨特与波伏娃，玛雅·黛伦与梅索斯兄弟，迪亚哥·利弗拉与弗里达·卡洛，一股脑涌入古巴，古巴忽然成为拉美与欧洲左翼知识与艺术思潮的天堂。如同古巴祖母级诗人Carilda Oliver Labra 1958年出版的诗集“发烧的记忆”，那确实是一段发烧的记忆，言论空前的自由，只要稍微有勇气承担不足道的风险；各种艺术流派纷呈。</p>
-<p>击退猪湾入侵，卡斯特罗开始着手文化战线，1961年6月30日,革命后的古巴第一次召开知识分子座谈，卡斯特罗提出<strong>“在革命里，一切都如常进行，反对革命，一无所有”，“反革命者无权可享，因为革命本身应当拥有权利，生存的权利，发展的权利，胜利的权利！”</strong></p>
-<p>此后多家报馆被关，Carilda Oliver Labra，这位哈瓦那大学法学系高菲德尔四届的师姐在此后也长期无法出版——她早年大量创作的爱情诗被认为淫秽下流，回到家乡做英文老师；这期间，古巴基础教育倒是得到大跃进式的发展。在苏联功能主义的影响下，建筑也日趋保守，充满当代艺术风格与实验精神的“国家艺术学校”成为烂尾楼。</p>
-<p>而后在官方的艺术史编纂中，这些出格的作品消失了，尽管社会主义现实主义在古巴并未像在苏联被整齐划一式的强制执行，但毫无疑问，大量那个时代的先锋作品与艺术家们一起流亡并在这个国度销声匿迹了。</p>
-<p>另一边厢在迈阿密的古巴文化与艺术博物馆，关于是否收藏与拍卖那些古巴境内听话的艺术家的作品的争议，却导致这家维系古巴社群与文化的博物馆关门。1988年，为了筹集善款维持古巴文化与艺术博物馆，该博物馆举行展出与拍卖，然而不少流亡人士以政治标准——艺术家是否公开抗议卡斯特罗政府来看待艺术藏品，尽管拍卖顺利举行，却在争吵中进行，有人甚至500美元买下亲政府艺术家的作品并当街烧掉。此后十多个博物馆董事会成员辞职，两度发生雷管爆炸，导致迈阿密市政的公开干预，以博物馆商业利用文化遗产建筑要求收回。尽管援引宪法第一修正案，博物馆起诉并赢了官司，但关于藏品争议依旧不断。最终在1999年，市政府宣布因财源紧张，考虑公开出售这栋隶属于市政当局的土地而收回博物馆的馆址建筑，主要藏品被董事会捐给迈阿密大学Lowe艺术博物馆。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.39.11.png?resize=522%2C400" alt="Screen Shot 2016-04-09 at 上午10.39.11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.11.png?resize=300%2C230 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.11.png?w=522 522w" sizes="(max-width: 522px) 100vw, 522px" data-recalc-dims="1"><br>
-△ 古巴文化和艺术博物馆。</p>
-<p><strong>革命将族群撕裂，让政治立场成为敏感话题，并拖上艺术陪葬，在佛罗里达海峡两岸上演着不同版本的故事。</strong></p>
-<p><strong>■ 从革命的乌托邦到革命的博物馆</strong></p>
-<p>漫步大街小巷，令人惊异的是博物馆遍布老城区，这大大方便了外来游客触摸这个国度的历史。仅1996年到2004年之间，哈瓦那拔地而起70座博物馆，古巴前所未有的开始絮絮叨叨的自我缅怀、自我阐释，正如芝加哥艺术学院教授Rachel Weiss的观察“博物馆的古巴代替了乌托邦的古巴”，尽管这依然是经过意识形态编辑之后的陈列，但是革命意识形态的创作力日趋衰竭就如卡斯特罗兄弟的老去，这是不争的事实。</p>
-<p>直至今日何塞·马蒂、切·格瓦拉、菲德尔·卡斯特罗依旧是古巴的主题，在高大的政府或是纪念性建筑上，时常能看到他们渐趋褪色的孔武面庞。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.39.54.png?resize=567%2C379" alt="Screen Shot 2016-04-09 at 上午10.39.54" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.54.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.39.54.png?w=567 567w" sizes="(max-width: 567px) 100vw, 567px" data-recalc-dims="1"><br>
-△ 古巴内政部大楼外的切·格瓦拉头像。</p>
-<p><strong>■ 买不起新居，那就换房</strong></p>
-<p>随着劳尔· 卡斯特多放宽对私营经济的管制，个体私营经济大量涌现，但私营雇主很不乐意雇佣来自国企的员工，“偷懒、偷东西”是主要的槽点，斯科特在《弱者的武器》中所记述的东南亚农民日常的反抗形式，在吃大锅饭的集体中一样不少的被复制出来。</p>
-<p>直到90年代，古巴人都无法售卖自家的房屋，然而乔迁新居并没有成为神话；在那时古巴人发明了自己的方式交易——换房，只要两家觉得彼此条件差不多，于是就都有了新居，一举两便。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.40.31.png?resize=564%2C427" alt="Screen Shot 2016-04-09 at 上午10.40.31" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.40.31.png?resize=300%2C227 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.40.31.png?w=564 564w" sizes="(max-width: 564px) 100vw, 564px" data-recalc-dims="1"><br>
-△ 颜色极为艳丽的古巴民居。</p>
-<p><strong>■ 等待戈多</strong></p>
-<p>私营经济的不彰部分也源于时间意识的淡漠。</p>
-<p>在这里刚好赶上中古留学项目第一届医学院留学生毕业，据校方说会有记者来采访，希望毕业生在校等候与迎接，可是一天过去，记者也没出现，也不知道是不是改期，明天会不会来。在哈瓦那国会大厦北侧Obrapia街的邮局总局，一场火灾导致一条街停电，问到隔壁仅凭自备发电设备还不曾黑灯瞎火的国营酒店何时能来电，对方前台满脸茫然。</p>
-<p>时间意识淡漠是西语拉丁文化的特点，只不过在古巴表现的尤为突出。赶飞机在古巴是一个要命的事情，慢悠悠的节奏中，没有人会急你所急，出租车、公交都没点儿。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.41.06.png?resize=562%2C331" alt="Screen Shot 2016-04-09 at 上午10.41.06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.06.png?resize=300%2C177 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.06.png?w=562 562w" sizes="(max-width: 562px) 100vw, 562px" data-recalc-dims="1"><br>
-△ 哈瓦那的一条慢行道，生活就这样不紧不慢地进行。</p>
-<p><strong>■ 再见吧，网络审查</strong></p>
-<p>如今上网已经方便了很多，不少酒店与网吧，网费已经从之前的6~10外汇券降到每小时2~3外汇券，即便如此按照古巴人均收入水平，一个月也只能上10个小时，无怪乎提供免费Wi-Fi的公园，没白没夜的人群蜂拥，人们抱着手机与亲人、朋友聊天，或仅仅是上网。</p>
-<p>面对我邮件发出的Skype/WhatsApp/Facebook采访请求，多数古巴人以网络不好婉拒，而接受我访谈的古巴人往往不是在厄瓜多尔就是在阿根廷旅行。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%8810.41.40.png?resize=570%2C283" alt="Screen Shot 2016-04-09 at 上午10.41.40" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.40.png?resize=300%2C149 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午10.41.40.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br>
-△ 奥巴马宣布，谷歌开始布线古巴的互联网接入。</p>
-<p>尽管源于硬件设备，古巴网速依然缓慢，上网依然昂贵，然而与国际互联网接轨的速度早已将我们甩开，从古巴短暂回国逗留的朋友在Facebook上问我用什么VPN，末了他告诉我，下周回古巴，就不再为这事困扰了。</p>
-<p>– END –</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%96%E7%95%8C%E8%AF%B4-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%93%88%E7%93%A6%E9%82%A3%E5%89%AA%E5%BD%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BD%97/?category=18271" rel="tag">卡斯特罗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A4%E5%B7%B4/?category=18271" rel="tag">古巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A4%E5%B7%B4%E6%89%93%E5%BC%80%E5%9B%BD%E9%97%A8/?category=18271" rel="tag">古巴打开国门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%B0%91%E5%B0%86%E5%86%9B%E5%8F%88%E9%A2%98%E8%AF%8D%E4%BA%86%EF%BC%9A%E3%80%8C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%AA/" target="cdt-mirror">【河蟹档案】少将军又题词了：「巴拿马文件是个好文件」</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%B4%AB%E8%8D%86%E9%93%BF%E9%94%B5%E8%A1%8C">紫荆铿锵行</a>：猪国梦：删无赦！[挖鼻] <em>相关阅读｜《<a href="http://cn.nytimes.com/world/20160408/c08panama-putin/">纽约时报<em>｜</em>“巴拿马文件”震动全球，各国政府反应不同</a>》；《<a href="http://cn.nytimes.com/world/20160407/c07panamamedia/">纽约时报<em>｜</em>谁公开了巴拿马文件？揭秘调查记者团队</a>》；《<a href="http://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%B9%8B%E8%96%84%E8%B0%B7%E5%BC%80%E6%9D%A5%E7%AF%87/a-19172166">德国之声<em>｜</em>德语媒体：巴拿马文件之“薄谷开来篇”</a>》</em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?resize=524%2C698" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-14.jpg?w=960 960w" sizes="(max-width: 524px) 100vw, 524px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3961987417934900" target="/weibo/396">2016年04月08日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%A2%9C_%E4%BD%A9%E5%89%91">颜_佩剑</a>：中国好姐夫 <em><em><em><em><em><em>相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160407-%E2%80%9C%E5%A7%90%E5%A4%AB%E2%80%9D%E6%88%90%E4%B8%BA%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E6%96%B0%E7%83%AD%E8%AF%8D">法广<em><em><em><em><em><em>｜</em></em></em></em></em></em>习近平“姐夫”成为大陆网络新热词</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/xl3-04082016101828.html">自由亚洲<em><em><em><em><em><em>｜</em></em></em></em></em></em>中国权贵卷入巴拿马文件 胡耀邦之子胡德华率先正面回应</a>》</em></em></em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-18.jpg?resize=412%2C603" alt="333" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-18.jpg?resize=205%2C300 205w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-18.jpg?w=640 640w" sizes="(max-width: 412px) 100vw, 412px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3961562508579918" target="/weibo/396">2016年04月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%8B%8F%E5%B7%9E%E9%83%8E%E5%BF%83%E9%93%81">苏州郎心铁</a>：姐夫，姐夫！ <em><em><em><em><em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-19/">【网络民议】看敏感词库 已到姐夫</a>》；《<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BE%AE%E5%8D%9A%EF%BC%8B%E7%9F%A5%E4%B9%8E%EF%BC%8B%E5%BE%AE%E4%BF%A1%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%B6%88%E5%A4%B1%E7%9A%84/">【立此存照】微博＋知乎＋微信：那些被消失的“姐夫”</a>》</em></em></em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=497%2C497" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?w=640 640w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3962402926062317" target="/weibo/396">2016年04月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B6%89-%E7%BE%8E266">涉-美266</a>：少将军又题词了<strong><br></strong><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-11.jpg?resize=531%2C351" alt="毛新宇" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-11.jpg?resize=300%2C198 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-11.jpg?w=480 480w" sizes="(max-width: 531px) 100vw, 531px" data-recalc-dims="1"><br><strong><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%B0%91%E5%B0%86%E5%86%9B%E5%8F%88%E9%A2%98%E8%AF%8D%E4%BA%86%EF%BC%9A%E3%80%8C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%AA/"><em>点击这里查看嵌入的视频。</em></a></p><br></strong><a href="https://freeweibo.com/weibo/3960900770040799" target="/weibo/396">2016年04月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%9C%9F%E7%89%9B%E7%9A%84%E7%89%9B23">真牛的牛23</a>：网评员工作指南………………<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-16.jpg?resize=495%2C800" alt="333" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3962288748628418" target="/weibo/396">2016年04月09日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%B0%91%E5%B0%86%E5%86%9B%E5%8F%88%E9%A2%98%E8%AF%8D%E4%BA%86%EF%BC%9A%E3%80%8C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%98%AF%E4%B8%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E6%8C%87%E5%8D%97/?category=18271" rel="tag">五毛指南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">恶搞讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%96%B0%E5%AE%87/?category=18271" rel="tag">毛新宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">离岸财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -677,5 +674,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

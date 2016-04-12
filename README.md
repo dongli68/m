@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,70 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%B1%B1%E5%AF%A8%E7%89%88bbc-%E8%B0%88%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%8D%B4%E5%8F%AA%E5%AD%97%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">法广 | 山寨版“BBC” 谈巴拿马文件却只字不提中国</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?resize=600%2C339" alt="cfqrkzyumaenl58" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?resize=768%2C434 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfqrkzyumaenl58.jpg?w=1024 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>中国大陆近日惊现一个与英国广播公司BBC中文网站相似的网站，网站的名称为「中国商业广播网」的网站，英文名為Business Broadcast of China，簡稱BBC NEWS（網址：www.bbcnews.com.cn），网站从名称到网页设计，都与在中国境内被封锁的英国BBC中文网站相似，经中国网民以及港台媒体报道之后，这一网站又彻底改头换面。</p>
+<p>中国大陆山山寨海外网站并非首次。据透露，山寨BBC中文网站的拥有者“合肥商传通互联网科技有限公司”，旗下就有多个假冒外国新闻网站，如“法语学习网”假冒成法新社的中文网，当然，网站隐蔽处标明“我们并不是法国新闻社（AFP）”，但该站的网址（http://www.afpnews.com.cn）还是相当直接地用了法新社的简称，网站内亦有广告收益。同类网站还包括 “NewsTimes中文网”、“每日经济中文网”等。</p>
+<p>这些网站的设计模仿原版网站，亦不忌讳地报道一些遭中国国内封锁的消息，包括“巴拿马泄密文件”的新闻。</p>
+<p>不过，值得注意的是，山寨版“BBC”关于巴拿马泄密事件的报道完全没有中国大陆部分。该网站4月5日刊登有关巴拿马文件的报道，标题为：巴拿马文件泄密文件都有谁？文章介绍了巴拿马文件中榜上有名的绝大多数西方国家以及俄罗斯等国的政界以及商界要人，但却唯独缺少有关中国的部分。</p>
+<p>而且，这篇文章目前已近从该网站撤出。由此引发的疑问是： 北京是否正在尝试打破沉默，公开谈论巴拿马文件？安徽合肥互联网公司山寨BBC网站是出于自发还是受旨于中共宣传部门其目的显然是为了要鱼目混珠？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%B1%B1%E5%AF%A8%E7%89%88bbc-%E8%B0%88%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%8D%B4%E5%8F%AA%E5%AD%97%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E9%94%81/?category=18271" rel="tag">封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">消息封锁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/" target="cdt-mirror">【河蟹档案】发展的代价人民扛了，发展的成果却离岸了</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%88%91%E6%98%AF%E4%BD%A0%E8%AE%A4%E8%AF%86%E7%9A%84%E7%8E%8B%E5%B0%8F%E8%83%BD">我是你认识的王小能</a>：“发展的代价都人民扛了，发展的成果都离岸了。”笑都笑不出来。<br><a href="https://freeweibo.com/weibo/3963071674618810" target="/weibo/396">2016年04月11日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%B4%E6%8A%B1%E4%B8%80">朴抱一</a>：衡阳这位宣传部新闻中心的主任火了。<em>相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160410-%E6%B9%96%E5%8D%97%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E5%AE%98%E5%91%98%E6%B1%82%E5%8A%A9%E5%9B%BD%E5%AE%89%E5%8D%8F%E5%8A%A9%E7%9B%91%E6%8E%A7%E8%AE%B0%E8%80%85">法广<em>｜</em>湖南衡阳宣传官员求助国安协助监控记者</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/meiti/hc-04112016122944.html">自由亚洲<em>｜</em>湖南官员错发信息称: 已将记者信息交给国安部门</a>》</em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=550%2C359" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=300%2C196 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=768%2C501 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=230%2C150 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?w=792 792w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3962771991396233" target="/weibo/396">2016年04月10日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E5%85%89%E4%BC%9F">何光伟</a>：这个关于疫苗的视频竟然被没了[汗]再发一遍。 <a href="http://t.cn/RqVFzNt" target="_BLANK">http://t.cn/RqVFzNt</a>. <em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/huanjing/xl3-04072016102716.html/">自由亚洲<em>｜</em>河北女婴注射疫苗翌日亡 家属讨说法被抓</a>》</em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3962619930797007" target="/weibo/396">2016年04月10日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%B7%A1%E6%B8%B8%E8%80%81%E8%A1%B2">巡游老衲</a>：告诉你，我不傻。但我很会装傻。[嘻嘻][嘻嘻]<a href="http://t.cn/RqV4aEv" target="_BLANK">http://t.cn/RqV4aEv</a>. <em>相关阅读｜《<a href="http://www.voachinese.com/content/wangyi-panama-papers-20160408/3277469.html">美国之音<em>｜</em>中国外交部长王毅回应巴拿马文件</a>》</em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3962452091156462" target="/weibo/396">2016年04月09日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9">作家崔成浩</a>：英国首相卡梅伦，此前在采访中承认他至少从避税天堂获利3万英镑，该丑闻曝光后，有数千名民众聚集在唐宁街十号要求其辞职。愤怒的抗议者们在唐宁街外高举着抗议牌，人群高喊“卡梅伦必须辞职”、“逃税是犯罪”，“保守党滚出去”等口号。3万英镑就闹成这样，呵呵…… <em>相关阅读｜《<a href="http://cn.nytimes.com/world/20160411/c11britain/">纽约时报<em>｜</em>英国首相卡梅伦公布纳税信息回应“巴拿马文件”</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=520%2C344" alt="卡梅伦" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=768%2C508 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?w=962 962w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3962678609780145" target="/weibo/396">2016年04月10日</a>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%87%AF%E6%AC%A3/?category=18271" rel="tag">宋凯欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E6%99%93%E6%B3%A2/?category=18271" rel="tag">曹晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E5%8B%87/?category=18271" rel="tag">江勇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%8C%97%E5%A5%B3%E5%A9%B4/?category=18271" rel="tag">河北女婴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8/?category=18271" rel="tag">离岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">离岸财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E6%A0%BC%E4%BC%9F/?category=18271" rel="tag">蒋格伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">衡阳宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%9D%A5%E7%94%9F%E8%BF%98%E5%81%9A%E8%87%AA%E5%B9%B2%E4%BA%94/" target="cdt-mirror">【异闻观止】来生还做自干五</a>
+</h2>
+<p><p>4月12日，共青团中央的新浪微博发布了一则驳斥互联网对“五毛”、“自干五”各种批评的视频，称大多数的五毛或自干五其实是被污名化的“具有爱国情怀的人”，并认为这样一个称呼其实应该引以为荣而非引以为耻。视频风格有以往明恩传媒的风格，其中还有一些调侃元素例如提到网络上可下载“高清无码葫芦娃”。在发布视频的同时共青团中央同时配发了一句“来生还做自干五”的评论。共青团中央的微博近段时间以来（尤以小粉红fb表情包大战之后）热衷以贴近年轻人的网络化的语气来表达政治观点，例如在 <a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/" target="_blank">【异闻观止】共青团中央：我恋爱了 和他</a> 中，共青团中央用一个虚拟小粉红的语气，表达了对“解放军战士”的迷恋。而在 <a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%B0%8F%E5%86%99%E7%9A%84%E8%84%91%E6%AE%8B%EF%BC%8C%E5%A4%A7%E5%86%99%E7%9A%84%E5%B0%B4%E5%B0%AC/" target="_blank">【立此存照】小写的脑残 大写的尴尬</a> 共青团中央更是将小粉红称为“我们的女儿 我们的妹妹”。</p>
+<p>@共青团中央 ：干了这杯老干妈，来生还做自干五！#我和我的国家引擎#</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2.jpg?resize=580%2C640" alt="共青团" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/共青团.jpg?resize=272%2C300 272w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/共青团.jpg?w=580 580w" sizes="(max-width: 580px) 100vw, 580px" data-recalc-dims="1"></p>
+<p>视频<a href="http://www.miaopai.com/show/rBAi-voC-ILxeEKR2l4V8Q__.htm" target="_blank">地址</a></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p><em>@胡子小浩：我是自干五，微博、天涯都有我的影子。</em></p>
+<p><em>@念书的人要正经一点：动画活泼，文案鼓舞人心，确实对自干五们有很好的激励作用。</em></p>
+<p><em>@小时候可腹黑了：此生无悔入华夏，来世还在种花家！</em></p>
+<p>@追随者abc：首先团团公开承认了政府养着5毛(网评员)误导民众的事实，其次，团团公开表态反政府5毛的观点，也就是反对现文宣的调子反刘，再次，扭曲混淆“自干五”的概念，自干五就是指自带干粮的五毛，指被洗脑的愚昧民众，指被人卖了还替人家数钱的主儿。想学老汉奸？</p>
+<p>@吾齐人也：小蔺那事儿就算完了？</p>
+<p>@路旁的ho桑：天呐，这诅咒太可怕了</p>
+<p>@級尼斯：请问共青团的经费怎么来的？这个要讲清楚啊</p>
+<p>@渚同学：高 实在是高 我再也想不出比来生还做自干五在更痛苦的事了</p>
+<p>@彩色塑料：意思是:自干五下辈子都别想转正了</p>
+<p>@LeMcDull：「來世還做自幹五」可能是我見過最狠毒的詛咒之一……</p>
+<p>@挽澜者-杜荣军：一群让人民养的寄生虫，却与人民对立忽悠坑害无知年轻人！养猪养狗都不至于这样！</p>
+<p>@土皮肚皮：这是打算五毛都不给了？</p>
+<p>@霸气的木木虎：人不要脸，至贱无敌。</p>
+<p>@织田上总介渣豪：有来世？你可是共产主义青年团啊！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%9D%A5%E7%94%9F%E8%BF%98%E5%81%9A%E8%87%AA%E5%B9%B2%E4%BA%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-11-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 4-11</a>
 </h2>
 <p><p>@renfanzi：去年到今年，我认为网络民意上最大最可喜的变化就是去年大家喜欢问“这个社会怎么了”，今年大家有了结论说“这届人民不行”。<span></span></p>
@@ -595,82 +656,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2-%E8%94%A1%E6%85%8E%E5%9D%A4%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%90%9E%E5%99%AC%E8%B4%A2%E5%AF%8C%E8%B0%81%E8%A2%AB%E6%A6%A8%E5%B9%B2%E8%A1%80%E6%B1%97%EF%BC%9F/" target="cdt-mirror">新浪博客 | 蔡慎坤：谁在吞噬财富谁被榨干血汗？</a>
-</h2>
-<p><p>作者：蔡慎坤，BWCHINESE中文网专栏作家、每经智库专家、著有《股民辞典》《海南十年反思》《谁来拯救中国股市》等书，凤凰网2011、2012十大影响力博主。</p>
-<p>这几天，相信很多人都看了一篇《一个“休而不退”者内心深处的愧疚》的文章，文章自诉：他从2008年开始就过着所谓的“散吏”生活，在长达八九年的时间里，什么都不干，照样拿工资，照样享受一点都不少的福利待遇；至于工资，年薪超过12万元！</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%BF%A1%E6%81%AF%E6%97%B6%E6%8A%A5-%E4%B8%80%E4%B8%AA%E4%BC%91%E8%80%8C%E4%B8%8D%E9%80%80%E8%80%85%E5%86%85%E5%BF%83%E6%B7%B1%E5%A4%84%E7%9A%84%E6%84%A7%E7%96%9A/">信息时报 | 一个“休而不退”者内心深处的愧疚</a></p></blockquote>
-<p>作者是个少有的良知未泯之人，自诉愧对含辛茹苦的劳动者，称很多人起早贪黑，辛苦劳作，最终只是养活了一群尸位素餐者！如今在中国，有太多这样的人，拿着不低的薪资，或四处架鸟遛狗，或每天看八卦新闻搞笑剧，或热衷于网络游戏，或到处游山玩水……一幅具有中国特色的官场生态图。</p>
-<p>这样的人中国财政供养了多少？至今并没有一个权威的数字。不同部门的说法也不同，有说1/18（约7000万），1/26（约5000万），1/28（约4799万）和1/37（约3500万）等多种版本，也有调查显示：中国吃财政饭的人数截止到2009年就已超过5700万，这个数字逼近英国的人口规模，并且以每年超过100万人的速度递增。</p>
-<p>全国政协委员、国务院前参事任玉岭曾在全国政协十届三次会议上说：“我们的官民比例早已达到26∶1，比西汉时高出了306倍，比清末高出了35倍。即使是同改革开放初期的67∶1和10年前的40∶1相比，吃财政饭的所占总人口的比重攀升之快，也是史无前例的，令人堪忧！”</p>
-<p>中国虽然还是发展中国家，官民供养比例已经跨入发达国家行列，然而纳税人并没有享受到发达国家的公共服务，这是不争的事实。30多年来中国政府进行了数轮机构改革，试图把庞大的财政供养人员精减下来，但每一次努力，都遭遇到强力的反弹。</p>
-<p>长期以来，官民供养比例一直是学界和社会公众关注的焦点，但官方和学界往往各说各话。官方宣称中国公务员队伍只有1000余万人，而学界宣称财政供养了7000多万人，其原因就在于各自采用了不同的统计口径。</p>
-<p>所谓财政供养人员，是指由财政来支付个人收入以及办公费用以及福利待遇的人员。在中国，财政供养人员主要由三部分组成：党政群机关人员，主要供职于党委、人大、政府、政法机关、政协、民主党派及群众团体等机构；各类事业单位人员，供职于教育、科研、卫生等诸多领域；第三种是党政群机关和事业单位的离退休人员。</p>
-<p>如此庞大的食利阶层，再多的纳税人也不堪重负！财政部最新的财政预算显示，2016年全国一般公共预算支出高达18万亿，而收入不足16万亿，安排预算赤字2.18万亿！这是中国历史上预算赤字最高的年份，18万亿的财政支出有多少用在纳税人身上，几乎没什么人知道。</p>
-<p>我的一个熟人，年前刚刚在广州办完退休手续，她大学毕业就来广州花都打工，连续工作缴社保医保将近32年，只因户口不在广州，现在退休之后，在广州每月的退休金只有1700多元，1700多元在广州居家过日子，只能勉强维持基本的生计和温饱，象她这样在城市领取低廉退休金的人绝不是少数，与那位提前退休的官员相比，简直是天壤之别。</p>
-<p>中国社科院发布《2012社会保障绿皮书》和《中国社会保障收入再分配状况调查》，指出现阶段的中国，养老金最低的每月只有200元，最高的却是上万元，两者相差50多倍，这就是中国养老制造的现状，而在中国农村，60岁以上的农民，每月只能领取几十元的低保。</p>
-<p>一位拥有40多年工龄、享受政府津贴的专家级人才，退休后养老金是他在党政机关退休的大学同学的1/4。这一悲催的制度设计，导致党政机关事业单位人员自己不用缴纳一分钱养老金，却领着高出掏钱交养老金人员数倍甚至数十倍的养老金。</p>
-<p>我国从1996年才开始全面推行个人自缴养老保险，迄今为止，不过20年时间，各地就出现巨大的养老金缺口甚至收不抵支，因而政府迫不及待要推出延迟退休方案。延迟退休将影响上亿低收入群体和体力劳动者，他们许多人都是上一波国企改革的受害者，许多人失业之后自掏腰包替自己也替企业缴社保和医保，许多体弱多病者甚至希望提前退休。体力劳动者随着年龄增长，体力每况愈下，打工谋生艰难，退休后可以获得稳定的养老金收入，对于打工收入不高的人来说，养老金甚至高过打工收入。</p>
-<p>世界上绝大多数国家的养老金制度，退休金高低仅与退休者在职时缴纳的养老保险费多少和年限长短相关，而与其职业身份无关。而中国实行的是按职业身份划分的养老金制度：公务员退休金比同龄事业单位的至少高60%，事业单位比企业和自由职业退休金至少高50%，前二者退休前不用缴养老保险费，后者每月须缴养老保险费且至少缴满15年才能领取基本养老金！</p>
-<p>不仅社保，医保也分三六九等，一个所谓的高级干部，一年用掉的医疗费用，很可能是一个地区乃至成千上万人的医保费用，其享受的医疗保障，是西方国家的亿万富豪也望尘莫及的，而老百姓却处处面临着看病难看病贵的问题，在许多一线城市医院活跃的票贩子，能够把一个看病的号炒至5000元，可见这个国家的医疗体系己经完全瘫痪，弱势群体只能处于水深火热的煎熬之中。</p>
-<p>《南方人物周刊》曾报道，吉林大学白求恩第一医院新干部病房大楼总建筑面积5.6万平方米，设有省级、副省级、厅级及离休干部保健床位257张。有网民改成“吉林大学一医院：穷奢极欲的八星级干部病房”帖子，发在国内各大论坛。短时间内，该帖在微博被转发数千次，很多网民跟贴评论。</p>
-<p>奢华病房耗资4.8亿元人民币，内部配置全是国际顶级进口设备，只有副厅（局）级以上干部才能入住，“奢华程度超出想像”。进入大厅，豪华的中央吊顶大灯与镶花地板交相辉映，与正门相对应的是一座假山，周围设有板凳供人休息，而每个楼层设置的医护工作站宽敞整洁，看上去像是五星级酒店的前台。</p>
-<p>卫生部前副部长殷大奎引用中科院一份调查报告的数字称，在中国政府投入的医疗费用中，80%是为850万以党政干部为主的群体服务的。他还透露，全国党政部门有200万名各级干部长期请病假，其中有40万名干部长期占据干部病房、干部招待所、度假村等，一年开支数百亿元。“中国目前的卫生医疗服务体系存在着严重的不公平现象。”（《中国卫生产业》杂志2006年12期）</p>
-<p>官吏多赋税重往往是中国历史上一个王朝由盛转衰的重要信号，当皇亲国戚人数暴增，各种赋税也必然加重，其结果必然是加重老百姓的负担，导致官逼民反抗争不止，因而重复历史上一个又一个“其兴也勃焉，其亡也忽焉”的王朝悲剧。</p>
-<p>冗官多，自然要大肆挥霍国库资财，但还远不止于此。从整个社会来说，冗官过多，还有更大的社会隐患，那就是官员太多导致争权夺利，扯皮内耗，以及机构膨胀带来的权力扩张，既造成政府管理的无效率也导致社会经济民众生活无序失衡。冗官太多，除了内耗，就是将权力之手伸向老百姓，不仅破坏社会秩序，还会疯狂寻租自肥。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2-%E8%94%A1%E6%85%8E%E5%9D%A4%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%90%9E%E5%99%AC%E8%B4%A2%E5%AF%8C%E8%B0%81%E8%A2%AB%E6%A6%A8%E5%B9%B2%E8%A1%80%E6%B1%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E6%85%8E%E5%9D%A4/?category=18271" rel="tag">蔡慎坤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98/?category=18271" rel="tag">退休官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">退休官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E8%80%8C%E4%B8%8D%E4%BC%91/?category=18271" rel="tag">退而不休</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BF%A1%E6%81%AF%E6%97%B6%E6%8A%A5-%E4%B8%80%E4%B8%AA%E4%BC%91%E8%80%8C%E4%B8%8D%E9%80%80%E8%80%85%E5%86%85%E5%BF%83%E6%B7%B1%E5%A4%84%E7%9A%84%E6%84%A7%E7%96%9A/" target="cdt-mirror">信息时报 | 一个“休而不退”者内心深处的愧疚</a>
-</h2>
-<p><p>早就想写这篇文章了。今天看到一则来自湖南的新闻，让我有了动笔的冲动。据《瞭望》周刊报道，在湖南一些地方，近期有些年龄并不算大的“局办委”或乡镇“一把手”、重要班子成员向上级打报告，要求按照地方“公务员50岁以上退居二线，可享受比在职时更高待遇”的政策，自请“早退”，成为“休而不退”的“散吏”。</p>
-<p>我就是这样的一个“散吏”。我来自浙江，从2008年开始“散吏”生涯，现在已经正式退休。我即使想纠错，现在也没机会了，因而只能写写愧疚文章。</p>
-<p>一是，愧对分文不少的薪资。八九年的时间里，什么都不干，照样拿工资，照样享受一点不少的福利待遇；而且工资不算低，属于年薪超过12万元的自行申报个税者。虽然并不是我自己不想干，而是政策不让干，但我吃的毕竟是白食，工资拿得实在有点不踏实。</p>
-<p>二是，愧对含辛茹苦的劳动者。他们起早贪黑，辛苦劳作，他们辛苦挣来的钱，凭什么要养活我们这样的尸位素餐者？用这样的方式养我们，他们心甘情愿吗？有什么人征求过他们意见吗？如果对他们没有愧疚感，我觉得正是极需愧疚的地方。</p>
-<p>三是，愧对朝九晚五的下属们。有资格“早退”的，必然是当过一官半职的人。换句话说，你退了以后，可以空出一个官位，你才有资格“早退”。那些跟我年龄相仿的没资格“早退”的下属们，则只能照常按时签到，一旦紧张起来，还得照样“白加黑”、“五加二”。悠闲地看着他们忙碌的身影，我难免会有些愧意。</p>
-<p>谁都知道，在工作岗位上，50岁是最佳年龄，经验最足，精力最强，牵挂最少；而且，能在基层混个一官半职的人，通常会有一定的能耐。让这样的人，拿着不低的薪资，赋闲在家，无疑是极大的浪费。看看我的同僚们，有四处架鸟遛狗的，有每天看电视剧的，有热衷玩网络游戏的……他们不给组织添麻烦，不利用余热牟私利，已经很优秀了，谁在乎他们像蜡烛烧了一半被硬生生掐灭的感觉呢？</p>
-<p>全国各地有多少这样赋闲的人？需要用多少财政收入来养活他们？这个账应该算。如果说是为了培养新干部，需要腾出位子给他们，那么试问，培养好了的干部都不用，干嘛又培养那么多新干部？有那么多经验丰富、年富力强的公务员闲置不用，何须每年再进那么多新的公务员？如果仅仅为了解决就业，这样的解决办法，性价比是不是太低？有关法规限定工作期满30年才能提前退休，有些地方擅自将30年改作20年，是否涉嫌违法？</p>
-<p>以前迟迟没写这篇文章，主要还是怕人说我恋栈，舍不得那一官半职，现在已经彻底退休了，也就不怕别人背后议论了。我有愧埋藏在内心深处多年，不吐不快，万一得罪了谁，也顾不得了。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BF%A1%E6%81%AF%E6%97%B6%E6%8A%A5-%E4%B8%80%E4%B8%AA%E4%BC%91%E8%80%8C%E4%B8%8D%E9%80%80%E8%80%85%E5%86%85%E5%BF%83%E6%B7%B1%E5%A4%84%E7%9A%84%E6%84%A7%E7%96%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98/?category=18271" rel="tag">退休官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E4%BC%91%E5%AE%98%E5%91%98%E5%BE%85%E9%81%87/?category=18271" rel="tag">退休官员待遇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%80%E8%80%8C%E4%B8%8D%E4%BC%91/?category=18271" rel="tag">退而不休</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E6%AF%8F%E5%9C%BA%E8%BF%90%E5%8A%A8%E9%83%BD%E7%BB%88%E5%B0%86%E5%A4%B1%E8%B4%A5%EF%BC%8C%E5%8D%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E8%83%9C%E5%88%A9%E8%80%85/" target="cdt-mirror">海涛评论 | 每场运动都终将失败，却找不到胜利者</a>
-</h2>
-<p><p>作者：王海涛</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%887.59.00.png?resize=507%2C366" alt="Screen Shot 2016-04-09 at 上午7.59.00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.59.00.png?resize=300%2C217 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.59.00.png?w=507 507w" sizes="(max-width: 507px) 100vw, 507px" data-recalc-dims="1"></p>
-<p>某年某月的某一天，老家的一个同学在QQ上告诉我，老家正在搞平坟运动：各家的祖坟，限期推平。</p>
-<p>他向我说这个事情的时候，已将他家祖坟推平。作为教师，他如果不带头，就会停工作停工资。在他们村，村支书率先推平了自家的坟。支书平自家祖坟的时候，支书的弟弟跪在坟前说，爷，平你的坟，不怨我，怨大哥，谁让大哥当支书啦……我的这个同学的一个同事，在平自家祖坟的时候，也在坟前下跪了，他说，爹，瓦房给你改成平房了……</p>
-<p>也是那年的某一天，我驾车驶过县城最宽阔的那条大街，看到一个跨街的大标语，上面写着：平坟复耕，利国利民。</p>
-<p>看到那8个字，我难以相信自己的眼睛，但立刻就从那8个字中读出了一个真相——所有运动，都是以剥夺人的权利为目的，却都会打着“这是为你好”的口号施行，这比强奸无耻多了。</p>
-<p>这件事情，大概发生在2012年。当年，几十家媒体的记者“流窜”到那个县里，去调查这起“利国利民”、规模庞大、耸人听闻的“强奸案”。 此案自然引起了当地人的反感和抵制，尽管所有人都认为这事情很荒唐，但所有人都无力抵抗。运动的发起者，拥有强大的武器和机器，他们甚至还动用了中国“最权威”的报纸。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%887.54.31.png?resize=558%2C365" alt="Screen Shot 2016-04-09 at 上午7.54.31" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.54.31.png?resize=300%2C196 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.54.31.png?resize=230%2C150 230w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.54.31.png?w=558 558w" sizes="(max-width: 558px) 100vw, 558px" data-recalc-dims="1"></p>
-<p>那年年底，那份报纸的“政治版”刊发《周口殡葬改革见闻》的报道，把平坟定性为“改革”，文中采访了市长、书记，总之，论证了一番这场改革是如何利国利民的。这篇报道署名“本报记者罗盘”，罗盘是当时的那份报纸河南分社社长。</p>
-<p>当时，周口市某县为了推动这场改革，还在公务员群体中就这场殡葬改革举行演讲比赛——颂扬这场改革。当这场“改革”彻底失败，你有没有发现，“改革”已经成了万能的词汇，可以将一切不合理的事情，美化成光荣正确和伟大。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-%E4%B8%8A%E5%8D%887.55.00.png?resize=538%2C619" alt="Screen Shot 2016-04-09 at 上午7.55.00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.55.00.png?resize=261%2C300 261w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-09-at-上午7.55.00.png?w=538 538w" sizes="(max-width: 538px) 100vw, 538px" data-recalc-dims="1"></p>
-<p>有多么伟大，就有多么可笑。这两天媒体报道显示，那场轰轰烈烈平坟运动，已经彻底失败。当年的那些被称为‌‌“殡葬改革‌‌”的举措，如今成了一场劳民伤财的笑话。坟头早已重新隆起，当年力挺这场运动的省委书记也早已经卸任，而当年因为贯彻平坟政策成为当地‌‌“政治明星‌‌”的某个村支书，已被开除党籍，最近‌‌“辞去‌‌”了全国人大代表职务。至于那个在报纸上为周口殡葬改革唱赞歌的罗盘，已经于2014年8月‌‌“被抓‌‌”——这让他们当年鼓吹的改革更显‌‌“凄凉‌‌”。</p>
-<p>有个家伙当时响应县里的火葬政策，花了15万院买了一辆殡仪车，专门从事往殡仪馆拉死人的生意。当年‌‌“死人百分之百火葬‌‌”的政策，让这个家伙看到了发财的机会。随着‌‌“改革‌‌”的破产，殡仪馆的烟囱不再冒烟了，殡仪馆的员工在火葬场旁边种上了蔬菜。这个投资15万元买车拉死人的家伙说，现在他的那辆车，因为拉过死人，1000块钱也卖不掉了。这家伙，至今也没有搞明白，改革的奇妙和政策的神奇。</p>
-<p>当年在县城街头看到‌‌“平坟复耕，利国利民‌‌”8个大字的时候，我曾经预见到这场‌‌“利国利民‌‌”的运动注定会失败，也相信权力的任性终将留下笑话，可我至今无法笑得出来，毕竟，即便知道当政者注定失败，但也知道注定找不到胜利的一方——这是每场运动，留下的经验，每场轰轰烈烈运动都终将失败，却没有一个人是可以为此而欢呼。不信，你却回头看数十年来的每场运动的结局。</p>
-<p>即便你不远回望太远，你也应该记得，当年重庆卫视，一夜之间没了商业广告，成了一片红色的海洋；如今深圳的街头，突然之间，电动车成了‌‌“过街老鼠‌‌”。权力的即兴表演，从来不需要与人民商量——没收你的电动车，平你家的祖坟，只需要一个理由‌‌“这都是为了你好‌‌”。可是，即便重庆卫视恢复了常态，即便那个人去了秦城监狱，即便田野里的坟头又重新隆起，即便借助人民日报说谎的人被抓，有人胜利了么？</p>
-<p>时至今日，我相信还会有人会告诉我平坟的好处，可是我只想问一句，一个事情即便对我有好处，就可以不经我同意强制我去做么？——各种美好的改革，大致就是如此。</p>
-<p>同样的剧情，每天都在上演。不仅是你家存在了100年的祖坟会突然失去存在的资格，不仅昨天你还有的买车买房资格，今天可能突然失去；不仅昨天你的车还可以上路，今年可以突然被宣布限行；不仅昨天你的电动车还可以上街，今天就可以是‌‌“非法使用‌‌”。总之，即便你知道报纸在扯淡，即便你知道标语在说谎，即便你知道皇帝没有穿衣裳，你知道又如何——你随时可能被宣布是一个‌‌“非法存在‌‌”。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E6%AF%8F%E5%9C%BA%E8%BF%90%E5%8A%A8%E9%83%BD%E7%BB%88%E5%B0%86%E5%A4%B1%E8%B4%A5%EF%BC%8C%E5%8D%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E8%83%9C%E5%88%A9%E8%80%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%9F/?category=18271" rel="tag">平坟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%9F%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">平坟运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%A1%E8%91%AC%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">殡葬改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">海涛评论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -682,7 +667,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -692,5 +677,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%9F
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

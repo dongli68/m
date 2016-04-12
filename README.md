@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AC%91%E8%9C%80%E8%B0%88%E5%8F%A4%E4%BB%8A-%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%E7%9A%84%E6%9E%81%E7%AB%AF%E5%80%BE%E5%90%91%E5%8F%AF%E8%83%BD%E6%8A%8A%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">笑蜀谈古今 | 《环球时报》的极端倾向可能把国家推向险境</a>
@@ -494,7 +494,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">假奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%B4%E5%84%BF%E5%A5%B6%E7%B2%89/?category=18271" rel="tag">婴儿奶粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%94%BF%E8%A7%81cnpolitics-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%8F%B0%E6%B9%BE%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%AE%A4%E5%90%8C%EF%BC%9F/" target="cdt-mirror">政见CNPolitics | 如何理解台湾人的国家认同？</a>
 </h2>
@@ -631,7 +631,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -641,5 +641,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

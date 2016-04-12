@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AC%91%E8%9C%80%E8%B0%88%E5%8F%A4%E4%BB%8A-%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%E7%9A%84%E6%9E%81%E7%AB%AF%E5%80%BE%E5%90%91%E5%8F%AF%E8%83%BD%E6%8A%8A%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">笑蜀谈古今 | 《环球时报》的极端倾向可能把国家推向险境</a>
+</h2>
+<p><p>太平洋战争中日本媒体对国民的刻意误导、对战争的推波助澜，战后已经而且还将继续遭到清算。最近的成果，是日本学者前坂俊之的专著《太平洋战争与日本新闻》。这本书已经由中国学者译出并在去年由中国的新星出版社出版，我认为《环球时报》诸君需要人手一本，认真学习，深刻领会，吸取教训。</p>
+<p>我的这个念头，起因于《环球时报》总编胡锡进先生对吴建民公开批评《环球时报》的回应。老实说，这个回应让我很不爽——它强化了我对《环球时报》一直以来的判断，即《环球时报》正扮演战时日本媒体的角色，通过自己的极端主张，越来越把国家推向极端。</p>
+<p>我其实不在意胡锡进与吴建民的辩论细节，个人观点尽可见仁见智。我在意的是胡锡进对媒体的定位。他认为媒体天然属于鹰派，全世界如此，“西方”尤其如此。但我们知道这根本就是撒谎。以“西方”排头兵美国而言，无论是几十年前的越南战争，还是十多年前的伊拉克战争，美国媒体的反战声浪难道还缺么？</p>
+<p>倒是有一个所谓“西方国家”，即太平洋战争中的日本，其媒体定位跟胡锡进先生的媒体定位完全吻合。如前坂俊之在《太平洋战争与日本新闻》所披露的，作为侵华战争起点的“九一八事变”，只是少数少壮派军人的冒险，日本政府及军界高层本来不认同，如果当时日本的主流媒体能群起抨击这种冒险，及时引导民意，日本政府未始没有遏制军部极端势力的可能。但当时日本媒体没有这样做，反而选择了与狼共舞，支持侵华战争，让军部极端势力不断坐大，最终绑架了整个国家。迎合军部极端势力的战争鼓噪固然给日本媒体带去巨大的战争红利，却令整个国家几乎玉石俱焚。</p>
+<p>一个正常的国家，媒体生态一定多元。无论对外或鹰或鸽，都仅一家之言，都有其对立面，其谬误很容易在竞争性的言论市场被揭穿，极端主张、极端势力也就难成气候，鹰或鸽就都不是大问题。但战时日本媒体显然不是这样，严厉的媒体管制令异议难有立锥之地，媒体丧失了起码的自净功能，极端主张、极端势力不受制约地大行其道，直至绑架国家。这是战时日本媒体最惨痛的教训。</p>
+<p>不幸的是，今天的《环球时报》无视这一教训，似乎铁了心要重蹈覆辙。如前所述，正常媒体生态下，定位鹰派或鸽派都不是问题。但当下中国并不存在正常生态，媒体管制之严厉天下共知，国际问题报道则是媒体管制的重中之重。《环球时报》之国际媒体报道权属于典型的特许权，几乎没有任何媒体可与之平行竞争。也正是这种特许权，赋予胡锡进特有的傲慢，以至在与吴建民论战时，不自觉地以整个媒体行业的代言人自居，而非仅以个别媒体即《环球时报》代言人自居。特许权或者说垄断权是一种巨大的权力，必须具备强大责任伦理和平衡能力的人才配拥有。傲慢的胡锡进显然不配。于是《环球时报》可以公然定位一极即定位鹰派，公然以鼓吹好战、制造战争边缘为己任，与当年日本媒体之战争鼓噪几无二致。这对国民心理的毒化作用，怎么估计都不过分。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-11-at-%E4%B8%8B%E5%8D%884.41.55.png?resize=443%2C586" alt="Screen Shot 2016-04-11 at 下午4.41.55" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-11-at-下午4.41.55.png?resize=227%2C300 227w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-11-at-下午4.41.55.png?w=443 443w" sizes="(max-width: 443px) 100vw, 443px" data-recalc-dims="1"></p>
+<p>《环球时报》与当年日本媒体几无二致的另一个极端，是战争边缘鼓噪与“反西方”宣传相辅相成。日本当年的战争鼓噪，以“反西方”为其几乎全部的理论基础。对西方、对白种人的强烈仇恨，洋溢于其战争鼓噪的字里行间。此一衣钵为《环球时报》所继承。《环球时报》昨天的社论《中国防火墙必将得到历史正面评价》，就是这方面的经典之作。“西方”、“西方媒体”、“西方国家”，在这篇社论中统统以“敌人”形象出现，都属于“亡我之心不死”的撒旦角色。而这是《环球时报》一贯的调门。其对西方刻意妖魔化，其在东西方民族之间刻意制造仇恨与对抗的努力，丝毫不输当年日本媒体。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-11-at-%E4%B8%8B%E5%8D%884.42.53.png?resize=533%2C377" alt="Screen Shot 2016-04-11 at 下午4.42.53" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-11-at-下午4.42.53.png?resize=300%2C212 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-11-at-下午4.42.53.png?w=533 533w" sizes="(max-width: 533px) 100vw, 533px" data-recalc-dims="1"></p>
+<p>如果说当年日本媒体是在疯狂追逐战争红利，那么今天《环球时报》的极端主张，无疑是在疯狂追逐战争边缘红利，事实上也的确带来了发行量和广告量的飙涨，令《环球时报》更加亢奋，更加乐此不疲。但一如当年日本媒体追逐战争红利以牺牲国家利益为代价；今天《环球时报》疯狂追逐战争边缘红利，同样有绑架整个国家的危险，同样以牺牲国家利益为代价——《环球时报》的战争边缘鼓噪及露骨的“反西方”宣传，极大扭曲了中国的国家形象，给全世界一个印象，似乎经济腾飞的中国正忘乎所以，越来越像当年日本，越来越失去起码的克制与理性，越来越对国际秩序及世界和平构成威胁。于是，《环球时报》的极端主张越得势，中国政府“和平崛起”的承诺在国际社会越失去信用；《环球时报》的极端主张越得势，就越是为围堵中国准备充分的理由。而《环球时报》所有这一切，竟无不以“爱国”之名，令人啼笑皆非。</p>
+<p>相比于二战前的世界，今天的世界其实已经改变很多，文明很多。国人的文明观，国人对世界的认知，亦须相应改变和提升。这正是当下媒体的责任。但《环球时报》对此没有兴趣，其所描述的世界，始终只有敌意，只有仇恨与阴谋，只是丛林与黑暗。这种极度的偏执简直就是一种心理疾病。如果媒体生态是多元的、均衡的，有这么一家或几家有病的媒体倒也不是大碍。但在严厉媒体管制的背景下，国际问题报道一家独大的背景下，这种病就是找不到解药的病，可能致命的病。是到对症下药的时候了，决不能放任这种病，任其置整个国家、置十三亿同胞于险境。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AC%91%E8%9C%80%E8%B0%88%E5%8F%A4%E4%BB%8A-%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%E7%9A%84%E6%9E%81%E7%AB%AF%E5%80%BE%E5%90%91%E5%8F%AF%E8%83%BD%E6%8A%8A%E5%9B%BD%E5%AE%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">日本历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%91%E8%9C%80/?category=18271" rel="tag">笑蜀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">西方媒体</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E7%A6%81%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%98%AF%E6%96%AD%E4%BA%86%E5%BA%95%E5%B1%82%E6%B0%91%E4%BC%97%E7%9A%84%E8%B7%AF/" target="cdt-mirror">网易回声 | 禁电动车是断了底层民众的路</a>
 </h2>
 <p><p><strong>中国地方政府既不花心思改善公共交通，也不考虑对电动车划分明晰路权，更不会对电动车车主进行安全教育或者牌照登记管理，在不管不问多年后，却要没收你的私人财产。今天他们会禁摩限电，明天他们就会砸烂其他他们没能力管的交通工具。</strong></p>
@@ -599,108 +620,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-%E4%B8%8D%E5%85%89%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%B0%B1%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【网络民议】不光这届人民不行，以前就一直不行</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=550%2C247" alt="Screen Shot 2016-04-08 at 8.39.42 AM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=300%2C135 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=768%2C345 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?resize=1024%2C460 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-08-at-8.39.42-AM.png?w=1978 1978w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>以下评论搜集自新浪微博：</p>
-<div></div>
-<div><a title="斯内普_" href="http://weibo.com/snapexp?refer_flag=1001030103_" target="_blank">斯内普</a>：RT <a href="http://weibo.com/n/iruitui?refer_flag=1001030001_" target="_blank">@iruitui</a>: RT <a href="http://weibo.com/n/lynlolee?refer_flag=1001030001_" target="_blank">@lynlolee</a>:RT <a href="http://weibo.com/n/renfanzi?refer_flag=1001030001_" target="_blank">@renfanzi</a>: 去年到今年，我认为网络民意上最大最可喜的变化就是去年大家喜欢问“这个社会怎么了”，今年大家有了结论说“<span>这届人民不行</span>”。 (via Twitter)</div>
-<div></div>
-<div><a title="LolettaQ" href="http://weibo.com/u/2163348407?refer_flag=1001030103_" target="_blank">LolettaQ</a>：本年评经济最深刻的一句话。<span>这</span><span>届</span><span>人民</span>太叼，房也不主动当接盘侠，买股票也不积极，宁可丧心病狂地消费啊，却还跑国外买东西，气死本朝官员了。</div>
-<div></div>
-<div><a title="枫庭倦鸟" href="http://weibo.com/tiredbird0131?refer_flag=1001030103_" target="_blank">枫庭倦鸟 </a>：早上去地铁站，遇到不少开车送孩纸到上中东校上学的家长，各种闯红灯、违章掉头……好歹也是上了名校，这样的榜样实在让人无语。难道真的是<span>这届人民不行</span>?<a href="http://weibo.com/n/%E8%AD%A6%E6%B0%91%E7%9B%B4%E9%80%9A%E8%BD%A6-%E4%B8%8A%E6%B5%B7?refer_flag=1001030001_" target="_blank">@警民直通车-上海</a></div>
-<div></div>
-<div><a title="Huntway" href="http://weibo.com/huntway?refer_flag=1001030103_" target="_blank">Huntway</a>：“经济这么不好，可能是<span>这届人民不行</span>！！”看到这句牛逼的话，我就震惊了。细思极恐，原来是人民一届不如一届了。</div>
-<div></div>
-<div><a title="seven--life" href="http://weibo.com/u/1625820485?refer_flag=1001030103_" target="_blank">seven–life </a>：经济形势这么烂，房地产却越来越火热百姓越来越买不起，领导们打压房产的决心又如此之强，我深深地的感觉不是这届政府不行，是<span>这届人民不行</span>啊！深深地对不住国家啊！！</div>
-<div></div>
-<div></div>
-<div><a title="蓝逸轩8" href="http://weibo.com/u/3793523367?refer_flag=1001030103_" target="_blank">蓝逸轩8</a>：我们素质差，国家费心了//<a href="http://weibo.com/n/Laruence?refer_flag=1001030001_" target="_blank">@Laruence</a>:呵呵呵呵呵呵//<a href="http://weibo.com/n/AndersGuo?refer_flag=1001030001_" target="_blank">@AndersGuo</a>: //<a href="http://weibo.com/n/%E5%B7%A6%E8%80%B3%E6%9C%B5%E8%80%97%E5%AD%90?refer_flag=1001030001_" target="_blank">@左耳朵耗子</a>:国家这么努力为<span>人民</span>服务，令人动容，我们都知道：主要是怪我们<span>这</span><span>届</span>网民<span>不行</span>！让国家操心了。</div>
-<div>
-<div><a title="荳小逗" href="http://weibo.com/601288092?refer_flag=1001030103_" target="_blank">荳小逗</a>：<span>这届人民不行</span>，我想说让不让这届人民下台？ <a href="http://t.cn/RyhHbzX" target="_blank"><span title="上海·淞宝"><span><span>|</span></span><span>上海·淞宝</span></span></a></div>
-</div>
-<div></div>
-<div><a title="IF菜鸟" href="http://weibo.com/u/1025796853?refer_flag=1001030103_" target="_blank">IF菜鸟</a>：<span>这</span><span>届</span><span>人民</span>可幸福了，什么旧村改造新村建设，什么美丽厦门共同缔造，什么党建富民，什么美丽新村旅游发展，还有~~~~~~~~~~~~~，所以你们该知足吧。 哦，对不起，我想修条路找谁啊？你要这样····，那样·····才能批。靠，画虎南谁不会？</div>
-<div></div>
-<div></div>
-<div><a title="崔亨万" href="http://weibo.com/u/5775102320?refer_flag=1001030103_" target="_blank">崔亨万</a>：这两天又出现了个新热词：<span>这届人民不行</span>。噢，天啊，像我这不入组织的草民，给拖后腿了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></div>
-<div></div>
-<div><a title="tianmayourship" href="http://weibo.com/u/1711073937?refer_flag=1001030103_" target="_blank">tianmayourship</a>：这几年经济很不景气么？好一点的工作都很少哦，不知道就今年的应届生情况如何～无论怎么样希望认识的能找到理想工作，不然除了正经上班还要想着怎么去挣点副业才能稍微有些安全感就太辛苦了～真是<span>这届人民不行</span>哇<img src="https://i2.wp.com/img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t3/style/images/common/face/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"></div>
-<div></div>
-<div><a title="为气任侠" href="http://weibo.com/renqixia?refer_flag=1001030103_" target="_blank">为气任侠</a>：<span>这届人民不行</span>，国家想要干的事一件都没干成，废物一群<img title="[哆啦A梦汗]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/61/dorahan_org.gif" alt="[哆啦A梦汗]" data-recalc-dims="1"> 我分享了<a href="http://weibo.com/n/%E8%B4%A2%E6%80%9D%E6%85%A7%E5%BF%83?refer_flag=1001030001_" target="_blank">@财思慧心</a> 的文章</div>
-<div></div>
-<div><a title="Sayrohan" href="http://weibo.com/u/2479096535?refer_flag=1001030103_" target="_blank">Sayrohan </a>：解释下为什么<span>这届人民不行</span>，简单来说就是不艰苦朴素。京沪不易居就想跑，养孩子贵就想不生，进城打工么才干到四十五就想退休回去盖房，怎么讲，没有志向，每天就会发发微博评论抱怨唔册那没动力了，领导不好赴美生子万岁，怎么不想着多加加班交税呢？没救了！彻底被反动思想腐蚀了，说你们还嘴硬。</div>
-<div></div>
-<div><a title="遇见未知的朋飞" href="http://weibo.com/136882668?refer_flag=1001030103_" target="_blank">遇见未知的朋飞</a>：经济不好，可能是<span>这届人民不行</span>。给党和国家丢脸了<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></div>
-<div></div>
-<div>
-<div>
-<div><a title="狐冢小贾" href="http://weibo.com/u/2928191555?refer_flag=1001030103_" target="_blank">狐冢小贾</a>：不是经济不好 是<span>这届人民不行</span>阿 毕业找不到工作 工作没房子 有房子娶不上媳妇 有媳妇生了孩子还不一定是自己的 是自己的还得喝毒奶粉长大 长大上学难 上学难毕业还不一定找到好工作<img title="[泪流满面]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/lxhtongku_org.gif" alt="[泪流满面]" data-recalc-dims="1"><a href="http://weibo.com/n/%E5%88%9D%E6%99%93%E6%95%8F?refer_flag=1001030001_" target="_blank">@初晓敏</a><a href="http://weibo.com/n/%E6%9F%AF%E5%87%A1?refer_flag=1001030001_" target="_blank">@柯凡</a><a href="http://weibo.com/n/%E4%BB%BB%E7%9C%9F%E5%A4%A9?refer_flag=1001030001_" target="_blank">@任真天</a><a href="http://weibo.com/n/%E6%B1%A1%E7%8E%8B?refer_flag=1001030001_" target="_blank">@污王</a><span title="宁波·嵩山路"><a href="http://t.cn/R2W6okz" target="_blank"><span><span>|</span></span><span>宁波·嵩山…</span></a></span></div>
-</div>
-</div>
-<div>
-<div></div>
-<div><a title="afeibfp_" href="http://weibo.com/myenglishwords?refer_flag=1001030103_" target="_blank">afeibfp</a>：<span>这届人民不行</span>，国产软件也不行，还是用openoffice吧。</div>
-<div></div>
-</div>
-<div>
-<div>
-<div><a title="孩苛以" href="http://weibo.com/sujieyun?refer_flag=1001030103_" target="_blank">孩苛以 </a>：感觉<span>这</span><span>届</span><span>人民</span>找个满意的对象也挺难的。</div>
-<div></div>
-<div><a title="小雪妈教你生美宝" href="http://weibo.com/u/1789266127?refer_flag=1001030103_" target="_blank">小雪妈教你生美宝 </a>：【赴美生子哪里好】仁者见仁，智者见智！小雪妈是“给孩子多一个选择”，很烂大街的理由对吧？因为我看多美国，看空中国。近期疫苗不太平，奶粉据说也是兑着假货卖， <a href="http://huati.weibo.com/k/%E6%A0%87%E6%99%AE%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7?from=526" target="_blank">#标普下调中国信用评级#</a> 太多负面的啦，可能是<span>这届人民不行</span><img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></div>
-</div>
-</div>
-<div></div>
-<div><a title="源于爱家" href="http://weibo.com/u/1937394704?refer_flag=1001030103_" target="_blank">源于爱家</a>：【深圳禁摩政策好】电动车占用宝贵的城市道路资源，阻碍经济发展，禁电动车就可以卖新能源汽车。以前你花2千买个电动车就可以送快递谋生，今后你考驾照得几千吧？买车得几万吧？再加各种违章罚单，这可以创造多少亿的GDP啊？还让政府操碎了心推广新能源汽车！觉悟如此之低，果然<span>这</span><span>届</span>的<span>人民</span><span>不行</span>！<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></div>
-<div></div>
-<div></div>
-<div><a title="匯長" href="http://weibo.com/u/3361848564?refer_flag=1001030103_" target="_blank">匯長</a>：感觉中国犯罪率“低”感觉就是这个原因啊，实际明明高的要死，但警察不立案追究一切就都只是误会咯，反正说到底都是<span>这届人民不行</span>嘛，还有什么不能被洗地呢？</div>
-<div></div>
-<div>
-<div>
-<div><a title="LeveragingLife" href="http://weibo.com/u/1931951963?refer_flag=1001030103_" target="_blank">LeveragingLife</a>：千言万语化成一句话：诸事艰辛，主要是<span>这届人民不行</span>。<a href="http://huati.weibo.com/k/In+Party+We+Trust?from=526" target="_blank"># In Party We Trust #</a></div>
-</div>
-</div>
-<div></div>
-<div>
-<div><a title="风中满发" href="http://weibo.com/geligoly?refer_flag=1001030103_" target="_blank">风中满发</a>：不光<span>这届人民不行</span>，以前就一直不行，以后还要追赶很久。</div>
-<div>
-<a title="蒋xiaofeng" href="http://weibo.com/u/1350931751?refer_flag=1001030103_" target="_blank">蒋xiaofeng</a>：说实话，我们<span>这</span><span>届</span><span>人民</span>还真<span>不行</span>，不只是<span>这</span><span>届</span>，下<span>届</span><span>人民</span>都<span>不行</span>。我们都还是刍狗。</div>
-</div>
-<div></div>
-<div><a title="AnzuFutaba" href="http://weibo.com/u/5422558389?refer_flag=1001030103_" target="_blank">AnzuFutaba</a>：你本该四十的时候，你国还在，你不在了，原因是你<span>这届人民不行</span>，被党妈换届了。新的一届人民过着种不再设有愚人节的生活，因为他们每天都活在荒诞剧里。</div>
-<div></div>
-<div><a title="爱如空气929" href="http://weibo.com/u/1906801507?refer_flag=1001030103_" target="_blank">爱如空气929</a>：新华社说：西方“愚人节”不符合社会主义核心价值观 。今天是西方所谓的“愚人节”。“愚人节”不符合我国的文化传统，不符合社会主义核心价值观，希望大家不信谣，不造谣，不传谣。。。。。。 看了看评论，唉，<span>这</span><span>届</span><span>人民</span>是真的<span>不行</span><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></div>
-<div></div>
-<div></div>
-<div>
-<div>
-<div><a title="藕粽" href="http://weibo.com/pleasecallmeavenue?refer_flag=1001030103_" target="_blank">藕粽</a>：巴西<span>这</span><span>届</span><span>人民</span>也<span>不行</span>。都眼瞅着要办奥运了，还在搞七捻三要弹劾总统。</div>
-</div>
-</div>
-<div></div>
-<div>
-<div><a title="Doctor豪生" href="http://weibo.com/doctorhouse?refer_flag=1001030103_" target="_blank">Doctor豪生 </a>：小创今天这个咽喉点位就像山海关 打过去了就降清 打不过去就复明 <a href="http://huati.weibo.com/k/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E7%A1%AE%E5%AE%9E%E4%B8%8D%E8%A1%8C?from=526" target="_blank">#<span>这</span><span>届</span><span>人民</span>确实<span>不行</span>#</a></div>
-<div></div>
-<div><a title="赵卡的牛肉干" href="http://weibo.com/e1024?refer_flag=1001030103_" target="_blank">赵卡的牛肉干  </a>：网上流传这句“主要是<span>这</span><span>届</span><span>人民</span>不好”，细细一想，还真他妈是；自古以来，在中国，有什么样的<span>人民</span>就有什么样的党和政府。</div>
-<div></div>
-<div><a title="八代火影" href="http://weibo.com/jamesy?refer_flag=1001030103_" target="_blank">八代火影</a>：“十几亿中国人，积极点阳光点的就挑不出推动了人权进步的人吗?克里居然赞扬倪女士对中国法治和全面平权所发挥的“领导力”，大家评评，他这样说是不是有点羞辱中国蓬勃发展的社会?”——逮噶评一评，<span>这</span><span>届</span><span>人民</span>是不是真的<span>不行</span>了！中国3次入狱假律师获美国国际妇女勇气奖 <a title="" href="http://t.cn/RqwTbUr" target="_blank">http://t.cn/RqwTbUr</a></div>
-<div></div>
-<div><a title="__阿端__" href="http://weibo.com/anjingliu?refer_flag=1001030103_" target="_blank">__阿端__</a>：（爱国可以 不要站在你国土地上爱 可以远方爱国 做个华侨 对你国任何状况保持外宾态度 不予置评不过有句讲句 四十多岁你和你子女还在你国 你爱不爱国都得爱 （讲真 <span>这届人民不行）</span></div>
-</div>
-<div>
-<div></div>
-<div><a title="大愚若智3哥" href="http://weibo.com/u/1684948402?refer_flag=1001030103_" target="_blank">大愚若智3哥</a>：【<span>这届人民不行</span>】是因为上几届人民太行的缘故，三届败坏了吏治，两届败坏了经济，这届人民即使神勇如太宗，勤奋如雍正，节俭如崇祯，也无力回天，只能命如崇祯了。</div>
-</div>
-<div></div>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-%E4%B8%8D%E5%85%89%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%B0%B1%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -712,7 +631,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -722,5 +641,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

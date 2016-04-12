@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,93 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%80%E6%9D%A1%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E7%BE%9E%E6%84%A7%E5%8F%88%E9%9A%BE%E8%BF%87%E7%9A%84%E6%96%B0%E9%97%BB/" target="cdt-mirror">微在 | 一条让我感觉羞愧又难过的新闻</a>
+</h2>
+<p><p>两个月前被疯转的那条新闻，“被弃女婴被美国母亲收养，20 年后考上耶鲁回武汉认亲”有了后续报道。</p>
+<p>大家都看过这则武汉女孩回国寻亲的新闻吗？我们当时还写过一篇稿子来讲这件事情。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-2.jpg?resize=550%2C523" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-2.jpg?resize=300%2C285 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-2.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>两个月前这条微博曾被网友们疯狂转发，因为大家都觉得这事背后有好多让人细思极恐的细节：</strong></p>
+<p>— 中国每年有多少女婴遭到遗弃？</p>
+<p>— 女孩生活得这么幸福为什么非要回来寻亲？</p>
+<p>— 亲生父母如今又来认亲是不是觉得女孩身上有利可图？</p>
+<p>— 来认亲的这些人都明白亲子鉴定是什么，然而他们还是愿意去验 DNA，这说明 20 多年前至少有 44 个家庭在同一时间同一地点扔掉了自己的女儿？</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2.jpg?resize=550%2C413" alt="640.2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>这位叫做夏华斯（本名 Jenna Cook，后面就叫她 Jenna 了）的被领养女孩，大概没有想到自己回国寻亲能引发中国网络如此热烈的讨论，同时她应该也没料到在寻亲的过程中会遇到这么多形形色色的家庭，会听到他们各有不幸的故事。</p>
+<p>不知道是不是受了此事影响（Jenna 寻亲的故事首次在国内被报道是在 2012 年），Jenna 后来在 2014 – 2015 年间曾作为富布赖特中国学者，研究了一年中国的国内领养制度，而就在前些天，她又在《外交政策》杂志上发表了一篇名为 A ‘Lost’ Daughter Speaks, and All of China Listens（中文版《‘弃女’发声：全中国倾听》）的新文章。</p>
+<p>（多好的女孩啊， 她把“丢”理解成了 lost，其实当年她的家人是 abandon 她啊。）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3.jpg?resize=550%2C237" alt="640.3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3.jpg?resize=300%2C129 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>虽然 Jenna 就是被遗弃的孤儿本人，但她完全从个人的情绪中跳脱了出来，并从一个更加理智的角度出发写下了这篇文字，讲述了她理解的“遗弃”与“收养”。</p>
+<p>也许你没有时间去读她的全文，我们就把内容总结了一下，分享给大家。</p>
+<p><strong>1. 在中国，一个家庭遗弃一个孩子可能有以下几种原因：</strong></p>
+<p>a. 计划生育政策；</p>
+<p>b. 想要儿子；</p>
+<p>c. 太贫困；</p>
+<p>d. 未成年怀孕；</p>
+<p>e. 孩子或家庭成员有残疾。</p>
+<blockquote><p>在 1992 年到 2013 年间，有统计表明中国共计有 139,696 起国际父母收养中国儿童的案例。 根据中国政府的数据，在 2000 年到 2013 年间，中国还发生了 494,616 起国内收养，而这些只是通过正规渠道的国内收养，非正式的国内收养并不包含在内。</p></blockquote>
+<p>当然，任何原因都不足以构成一个家庭遗弃自己孩子的借口。但还是希望大家了解这些客观存在的现实。</p>
+<p><strong>2. 尽管亲生父母为了图利而认亲的情况确实存在，但多数家庭来认亲还是因为遗弃孩子后备受良心的谴责与生身父母对血肉骨亲的挂念。</strong></p>
+<blockquote><p>我所见过的 50 多个家庭都生活在深切且真实的悲怆中。他们拥抱我、他们痛哭流涕、他们对我鞠躬、他们祈求我的原谅。</p></blockquote>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4.jpg?resize=500%2C278" alt="Jenna 在和一位前来寻亲的母亲拥抱，后面是这位母亲的女儿。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4.jpg?resize=300%2C167 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><p>Jenna 在和一位前来寻亲的母亲拥抱，后面是这位母亲的女儿。</p></div>
+<p>Jenna 文中有关那些寻亲家庭的描述看得人唏嘘不已。很多家庭因为当年遗弃了自己的孩子至今仍在备受良心的煎熬，这当然是他们的自作自受，他们正在为此付出代价。不管是过去、现在、还是未来，那些抛弃或打算抛弃自己孩子的人们，也同样要付出这样的代价。#不过那些为了图利而认亲的人就真的是没救了</p>
+<p><strong>3. 被收养到国外 ≠ 幸运。</strong></p>
+<blockquote><p>他们执拗地关注着我的“幸运”和常青藤名校，但却完全无视我们这些中国领养儿童的不幸。虽然我们有了新的家庭，但是我们失去了原本的文化、语言和国籍。因为在这些白人社区里很少有其他种族的人，我们中很多人在成长的过程中遭受到种族歧视。每年都有从中国领养来的孩子自杀，他们的经历深深地撼动着我们这些人的灵魂。</p></blockquote>
+<p><strong>4. 中国人的收养观念大多都是：最好不要让养子女知道自己的身世。</strong></p>
+<blockquote><p>中国大陆的养子/女在成年后如果发现了自己的身世，找到了自己的亲生父母，他们通常会被两个家庭撕裂，因为两个家庭可能都会要求养子女给予他们关心、爱护和忠诚。</p>
+<p>中国人通常认为我的寻亲之举会伤害我的美国养母。 在后来我采访过在国内收养儿童的中国父母，他们普遍担心养子/女在发现自己的身世后会不再认养父母。</p></blockquote>
+<p><strong>5. 因为美国的父母通常会为退休生活攒钱，而不会指望儿女给予经济上的支持，所以在美国，被领养的孩子从一开始就会知道自己的身世。</strong></p>
+<blockquote><p>在美国，领养专家和专业人士认为寻找亲生父母是被领养人群的正常发展阶段——所有人都想要知道自己的身世。</p>
+<p>在美国，领养中国儿童的家庭非常注重子女寻亲，以至于有很多讨论会、活动和书籍专门指导养父母如何寻找孩子的亲生父母。</p></blockquote>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5.jpg?resize=500%2C339" alt="640.5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5.jpg?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><p>via 楚天都市报Jenna 和她的美国母亲</p></div>
+<p>了解了这些事之后，我想前面网友提到的诸多疑问大概都有了解释。</p>
+<p>而我只是感觉羞愧又难过。</p>
+<p>作为一个中国人，我们要丢掉多少孩子后才肯反省一下自己？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%80%E6%9D%A1%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E7%BE%9E%E6%84%A7%E5%8F%88%E9%9A%BE%E8%BF%87%E7%9A%84%E6%96%B0%E9%97%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E5%88%A9/?category=18271" rel="tag">女性权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%83%E5%A9%B4/?category=18271" rel="tag">弃婴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%85%BB/?category=18271" rel="tag">领养</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%85%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">领养制度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%99%E6%A0%B7%E7%9A%84%E7%A4%BC%E4%BB%AA%E8%A7%84%E8%8C%83%E6%98%AF%E5%90%A6%E5%A4%AA%E5%A5%87%E8%91%A9%EF%BC%9F/" target="cdt-mirror">【图说天朝】这样的礼仪规范是否太奇葩？</a>
+</h2>
+<p><p>@贵州高校那些事：近日师大教育科学学院印发了文明礼仪规范手册，众多学生对其内容颇有微词，比如要求女生不能在街上嚼泡泡糖并且吹出泡泡，比如建议女生看电影血腥镜头要闭眼，小声说“天，好怕”[笑cry][笑cry][笑cry]天，好怕……</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/hkZ8q-1.jpg?resize=600%2C800" alt="hkZ8q (1)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/hkZ8q-1.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/hkZ8q-1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/n2OQG.jpg?resize=600%2C800" alt="n2OQG" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/n2OQG.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/n2OQG.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%99%E6%A0%B7%E7%9A%84%E7%A4%BC%E4%BB%AA%E8%A7%84%E8%8C%83%E6%98%AF%E5%90%A6%E5%A4%AA%E5%A5%87%E8%91%A9%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%88%E5%A4%A7%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2/?category=18271" rel="tag">师大教育科学学院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E6%98%8E%E7%A4%BC%E4%BB%AA/?category=18271" rel="tag">文明礼仪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BC%E4%BB%AA%E8%A7%84%E8%8C%83/?category=18271" rel="tag">礼仪规范</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E6%B0%91%E4%B8%80%E5%B1%8A%E4%B8%8D%E5%A6%82%E4%B8%80%E5%B1%8A%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：为什么人民一届不如一届？</a>
+</h2>
+<p><p>问：为什么人民一届不如一届？</p>
+<p>答：说起来，伟大的“新中国”建国已经差不多67年了，1949年10月1日出生的婴儿现在已经退休养老。可是，似乎人民一届不如一届。像最近因为“这届人民不行”，权力集团担心“这届人民”恐慌，不惜谎称假冒伪劣奶粉符合国标。</p>
+<p>从现象上看，67年前的人民觉悟高得惊人，在抗战结束没几年，内战还在持续的纷繁复杂的重要历史关头做出了“正确”的选择；何以过了半个多世纪，人民却一届不如一届，素质越来越差了呢？生活中，无论从权力精英，公知大V，还是普通民众，似乎都有着难得的共识，那就是：“国人素质太差，不能够像国外那样！”。</p>
+<p>从心理学角度，“人民一届不如一届”还真不是戏谑之言，而是必然的现象和结果。何以如此，且听下面分析。</p>
+<p>事实上，要使“人民一届不如一届”并不是什么难事，从技术的角度，只要持之以恒在如下几个环节着力，就能轻而易举地做到“人民一届不如一届”，“群众素质越来越差”，从觉悟高到可以选择决定一个国家、民族的前途，到不配选择决定一个村主任。</p>
+<p>首先，控制教育。只需要将自然的、生态的、人文主义的教育改造成教条的、灌输的、工具主义的教育，就足以使“一届又一届人民”素质越来越差。具体而言，通过教育灌输，从儿童期开始就循序渐进地掐灭和扼杀学生的想象力和独立判断能力，使他们从小就学习并习惯尊重权威，辩证地一分为二看问题，泯灭是非。这样的好处对权力集团是显而易见的，无论权力集团如何作为，左边摆摆，右边扭妞，“人民”总能够辩证地从中领会到积极的伟大意义，因此，又总能及时跟随伟大的权力集团“左三圈，右三圈，脖子扭扭，屁股扭扭”。通过半个多世纪的发展，工具主义的教育越来越精致，越来越成熟，因此教育灌输的效率也越来越高，人民的素质“一届不如一届”也就是顺理成章的结果。不足为奇。</p>
+<p>其次，控制规则。由于人类的天性是倾向于寻求稳定的关系或规则以实现个体对情境的控制和预测，只要个体掌握了事物和现象背后的稳定关系和规则，他就无需在同一件事情上耗费认知资源，就能积极地探索未知的领域。因此，控制规则就能控制人民的天性。从技术而言，控制规则很简单，只需要破坏人们对规则的稳定预期，就能使他们在锱铢琐事上劳精费神，无暇思考任何复杂、抽象的问题，如权利。</p>
+<p>控制规则的方式包括但不限于：1、不公布任何规则和细则，使人民必须猜测。如舆论控制，就绝不能有任何明晰的规则公布示人，这样既可以保持随之的威慑力，又能促使机构和个人的实行更严格的我审查。2、公布规则，但选择性执行。如税法控制，税负之重足以使每一个经营者不避逃税就无法盈利发展，事实上就使得每一个经营者都有“原罪”，这时权力集团想弄谁都可以“依法查处”，理直气壮。这也使得经营者陷入两难：或者遵纪守法在市场竞争中输给偷逃税的同行；或者也偷逃税然后随时被予取予夺地被拿捏。3、将规则设计得极其繁琐。如帝都的外来民工子女入学的政策。每一个想让子女在帝都入学的外来务工家庭，要满足苛刻到变态的入学政策要求，几无可能。</p>
+<p>规则控制能够将人民训练得扭曲、无助，而且效率很高。像近年对研究人员课题费用报销规则的控制，就能在短时间之内将研究人员的学术积极性和进取心消磨大半，使高校和研究机构创新能力倒退若干年。</p>
+<p>再者，安全感控制。人们的安全感得到了满足，就会有更高的追求；而只需要使社会各阶层总是处于不安全的境地，那么为了寻求安全感的满足，就足以使更多的人放弃对更高的追求，如归宿感、尊严、自我实现，等等。社会底层的贫民阶层自不待言，他们长期处于朝不夕保的境地，安全感从来就不曾有过。城市中产以及社会中坚阶层所仰赖的财富积累，只需要使其处于随时岌岌可危的境地，那些城市中产以及社会中阶就必须更加依附而不是疏离权力集团所建构的体制。包括权力集团中的官僚阶层，要剥夺他们的安全感也是轻而易举。</p>
+<p>从心理学角度，人们丧失了安全感，也就会长期处于焦虑和不安之中，所谓的“仓廪实而知礼节”，前提就是要“仓廪实”。有“仓廪”，但总是处于“实”与“不实”的飘摇之中，这样的“人民”甚至不如光脚的赤贫的前辈，后者反而更可能“穷则思变”，前者就只能苟延残喘于体制的恩惠。</p>
+<p>概而言之，通过教育控制，规则控制，安全感控制，再伟大的人民经过三、五十年也会变得不堪起来。如果说前几十年，社会人群中还活跃中1949年前受教育的一些老人们；现时代，1949年民国念完小学的老人都至少78岁以上，他们的社会影响力已经式微渐杳，当社会活跃的人群全都是“生在红旗下，长在红旗下”，这一届的人民不行那才是合乎情理的结果。更别说，随着信息技术的发展，近年权力集团教育控制、规则控制和安全感控制的手段越来越高效和成熟，人民一届不如一届不正是权力集团想要的结果吗？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E6%B0%91%E4%B8%80%E5%B1%8A%E4%B8%8D%E5%A6%82%E4%B8%80%E5%B1%8A%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6%E8%AE%BE%E8%AE%A1/?category=18271" rel="tag">制度设计</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E5%85%A8%E6%84%9F/?category=18271" rel="tag">安全感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E6%9D%A1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">教条主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%8C%E8%BE%93/?category=18271" rel="tag">灌输</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C%E4%B8%80%E5%B1%8A%E4%B8%8D%E5%A6%82%E4%B8%80%E5%B1%8A/?category=18271" rel="tag">这届人民不行一届不如一届</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AC%91%E8%9C%80%E8%B0%88%E5%8F%A4%E4%BB%8A-%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%E7%9A%84%E6%9E%81%E7%AB%AF%E5%80%BE%E5%90%91%E5%8F%AF%E8%83%BD%E6%8A%8A%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">笑蜀谈古今 | 《环球时报》的极端倾向可能把国家推向险境</a>
 </h2>
 <p><p>太平洋战争中日本媒体对国民的刻意误导、对战争的推波助澜，战后已经而且还将继续遭到清算。最近的成果，是日本学者前坂俊之的专著《太平洋战争与日本新闻》。这本书已经由中国学者译出并在去年由中国的新星出版社出版，我认为《环球时报》诸君需要人手一本，认真学习，深刻领会，吸取教训。</p>
@@ -536,90 +620,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%93%E8%AE%BF%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E6%9C%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%88%90%E4%B8%BA%E7%8E%8B%E5%B2%90%E5%B1%B1%E5%8F%8D%E8%85%90%E9%87%8D%E8%A6%81%E7%BA%BF/" target="cdt-mirror">美国之音｜专访调查记者：望巴拿马文件成为王岐山反腐重要线索</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg" rel="attachment wp-att-434643"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?resize=575%2C323" alt="4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4DCCBCC5-9245-43F9-9A54-7A813F9F6FF1_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>华盛顿—</p>
-<p>被国际调查记者联盟(ICIJ)逐步曝光的“巴拿马文件”再次将中国权贵阶层的隐秘财富问题呈现在世人眼前。包括中共总书记习近平在内的至少八位中共现任和前任中共最高层领导人被点名，他们的家人被曝出在海外“避税港”控制着隐秘的离岸公司。中国封锁了相关消息，还有人指责这是美国政府抹黑中国的信息战。负责该项目中国部分的ICIJ成员欧蕾珊(Alexa Olesen)4月8日通过Skype接受了美国之音的专访，就外界的一些质疑和她所写的巴拿马文件有关中国部分的<a href="http://www.voachinese.com/content/panama-papers-china-red-nobility-20160406/3273672.html" target="_blank">长篇报道</a>回答了记者的提问。</p>
-<p><strong>记者：国际调查记者联盟（</strong><strong>ICIJ）是一个什么样的组织？</strong></p>
-<p>欧蕾珊：ICIJ是总部在美国首都华盛顿的一个独立组织。这个组织的资金来自于福特基金会、开放社会基金会和其他一些独立资助方。有来自65个国家的200多名调查记者是ICIJ的成员。</p>
-<p><strong>记者：俄罗斯和中国等国家存在一种声音，认为</strong><strong>ICIJ曝光巴拿马文件是出于美国利益给这些国家抹黑的一种阴谋。你怎么回应这些质疑？</strong></p>
-<p>欧蕾珊：对于你提到的所谓阴谋论的说法，我想这是因为当ICIJ开始公开这些文件的时候，人们发现其中没有多少美国人被点名。但这是有原因的，因为莫萨克·冯塞卡公司自己表示，他们不倾向于接纳美国客户。这家公司的经营模式是主要面向欧洲、拉美，还有越来越多地面向亚洲。所以，没有很多美国人出现在报道中是因为莫萨克·冯塞卡根本没有太多美国客户。当然，这当中没有阴谋。起初是一些文件被泄露给了《南德意志报》，随后《南德意志报》又将这些文件分享给了ICIJ。我们认为这些文件对所有人都具有公共价值，因此我们决定将它们报道出来。</p>
-<p><strong>记者：中国党媒《人民日报》旗下的《环球时报》</strong><strong>4月5日发表了一篇题为《偷或编“巴拿马文件”者绝非等闲之辈》的社评。这篇后来被删除的评论指称“巴拿马文件”是“西方情报机构”用于打击普京这样的“非西方领导人”，维护西方意识形态的手段。你对此有何回应？</strong></p>
-<p>欧蕾珊：这种批评纯属无稽之谈。因为如果你看一下我们的报道，你会发现它实际上是很公正的。它不仅让俄罗斯和中国感到尴尬，也让英国、冰岛、美国感到尴尬，让世界上很多政府、个人和政界人士感到尴尬。因此，指责报道是针对俄罗斯和中国是没有事实根据的。</p>
-<p><strong>记者：</strong><strong>ICIJ是否像《环球时报》所指控的那样，从美国政府部门得到经费？</strong></p>
-<p>欧蕾珊：我们没有。就像我刚才说的，我们是一家独立机构。我们从开放社会基金会(Open Society Foundation)，还有福特基金会这样的团体得到资助。我们的网站上列出了给我们提供捐款的组织名单。你可以去查阅。对于我们的资金来源，我们对每个人都是透明的。</p>
-<p><strong>记者：据说，</strong><strong>ICIJ曾经也向中国的媒体记者发出邀请，共同参与报道。你们是否发出了这样的邀请？</strong></p>
-<p>欧蕾珊：这个背景是2013年的时候我们有一个类似的项目，叫作“中国离岸金融解密”。那个项目所涉及到的泄露出来的离岸公司文件规模要小得多。开始的时候我们的确有过一个中国合伙人，是一家中国大陆的刊物。但后来因为调查结果过于敏感，这家出版物退出了。这次，我们在开始这个项目的时候，当然我们也想到过是否邀请中国同行加入，与中国的刊物或者研究机构合作，但我们最终决定我们不想再让一家中国媒体陷入同样的困境当中，即要么是材料内容太敏感，要么是报道太敏感而不敢发表。因此，这一次我们没有中国大陆的合作伙伴。</p>
-<p><strong>记者：你是否知道这家中国媒体的名字？</strong></p>
-<p>欧蕾珊：我知道，但我们不能公开。因为他们不想他们的名字被披露出来。</p>
-<p><strong>记者：你认为中国当局是否对这些文件被泄露感到紧张？</strong></p>
-<p>欧蕾珊：事实是，中国方面封锁了一切有关巴拿马文件的消息。这显示，中国当局害怕这一消息被公众知道。星期二，中国外交部的例行记者会上，外交部发言人洪磊被问到巴拿马文件的问题。他没有回答，说是“捕风捉影”，不予回答。但在外交部网站上，洪磊回答记者提问的文字记录这部分被删除了。这是一个例子。还有就是中国屏蔽了外媒的电视报道。当BBC电视报道到巴拿马文件时，电视画面马上就被掐掉了。这说明中国当局对此非常紧张。</p>
-<p><strong>记者：</strong><strong>4月7日，巴拿马文件中一位被点名的中共高官家人、已故前中共总书记胡耀邦的儿子胡德华在接受港媒采访时公开回应，称自己“堂堂正正”。你怎么看有当事人认为，开设离岸公司属于合理合法的说法？</strong></p>
-<p>欧蕾珊：当然，很多开始离岸公司的理由是合理的。开离岸公司本身并不说明它是非法的。但在我们报道出的每个案例中，我们所做的是向这些离岸公司发出请求，要求核实，比如我们问，你的公司是干什么的，你是否向中国有关部门申报过，你是否就所得利润进行税务申报，等等。所以说，我们的问题并不是你为什么要做这样一件合法的事情，而是你的离岸公司目的是什么。我很高兴胡德华能够就他的离岸公司公开做出回应，进行澄清。可能的话，我报道中列出的其他人也能够效仿他。我认为，有些离岸公司并没有什么见不得人的。但在其它一些案例中，比如谷开来。我们知道，她的离岸公司是为了躲税，为了帮助她在法国南部拥有一处别墅。这些细节都已在她和她丈夫薄熙来受审时得到公开。</p>
-<p><strong>记者：你认为，巴拿马文件中曝出的这些权贵的离岸公司是否会最终导致他们成为中国反腐运动的目标？</strong></p>
-<p>欧蕾珊：我希望这个数据库能够对王岐山和其他反贪官员带来巨大帮助。我们给他们提供了线索。这并不意味如果你的名字在文件中提到了，你就是腐败分子。但它确实意味你开设一家离岸公司是有原因的，而这正是中国反腐部门应该去调查的。比如，李小琳的案例。她是一家国有电力公司的高管。但我们发现她在列支敦士登有一个基金公司。我不清楚她的上级是否了解到这一情况，我也怀疑她为什么要开这么一家公司。巴拿马文件显示，这家公司的利润来自于将重型机械从欧洲出口到中国。问题是，这些收入与她作为一家国有电力公司的高管是否有关系，还是这一收入她并未申报？这些情况我们并不清楚。我认为，她有必要回答这些问题，因为她是一个国有企业的官员。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%93%E8%AE%BF%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E6%9C%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%88%90%E4%B8%BA%E7%8E%8B%E5%B2%90%E5%B1%B1%E5%8F%8D%E8%85%90%E9%87%8D%E8%A6%81%E7%BA%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%A5%BF%E6%96%B9%E5%8F%8D%E5%A4%8D%E8%BF%BD%E6%89%93/" target="cdt-mirror">环球时报评普京被曝坐拥巨款：俄讨好西方被整得很惨</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png" rel="attachment wp-att-434620"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=575%2C302" alt="putin" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=300%2C157 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=768%2C403 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?resize=1024%2C537 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/putin.png?w=1430 1430w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>普京儿时玩伴、亿万富翁Arkady与Boris Rotenberg兄弟；普京密友Sergey Roldugin（国际调查记者同盟“巴拿马文件”<span><a href="https://panamapapers.icij.org/the_power_players/" target="_blank">专题网页</a></span>截图）</span></p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>专题</p></blockquote>
-<p>俄罗斯宣布成立国民近卫军，总人数或达40万，直属总统普京领导，受到西方舆论充满恶意的解读。俄罗斯经济面临困难，对俄政治不稳的猜测总是会因为各种原因大量涌出，而普京成立国民近卫军被西方舆论看成俄面临严峻国内政治挑战的信号。他们给这支即将成立的部队编了个绰号：普京近卫军。</p>
-<p>普京除了被西方称为“独裁者”，<strong>现在又被描述成疑似在境外有数十亿美元，并通过友人打理、洗钱的非法财富拥有者。</strong>他高度担心个人安全，“惶惶不可终日”，因而匆忙成立只效忠于他本人的“近卫军”。西方舆论一块一块地拼凑了这样的画面。</p>
-<p><strong>普京在俄罗斯保持约80%的高支持率</strong>，但在西方舆论中他几乎成了与卡扎菲、萨达姆有一拼的“恶魔”。西方的精英们似乎要置他于死地而后快。俄罗斯作为国家同样是个悲剧。<strong>苏联早就解体了，俄也接受了西方选举制度，但俄在西方的形象依然很糟糕</strong>，西方当年对苏联的仇恨差不多原封不动地转移到了俄头上。</p>
-<p>要说俄罗斯的民主“不彻底”，那么同是原苏联一部分的阿塞拜疆、哈萨克斯坦、土库曼斯坦等多个新生国家都是威权体制，<strong>他们的强人政治色彩远高于俄罗斯</strong>。但西方对它们是大体采取了友好、包容态度，只有俄罗斯永远让西方看着不顺眼，怎么看怎么像普京的“专制帝国”。</p>
-<p>如果从缓和与西方矛盾的角度看，莫斯科显然是非常失败的一个例子。他先是交出了波罗的海三国，然后整个苏联分崩离析，经历了共产党下台的颠覆性变迁，付出了极其昂贵的社会代价。但站在莫斯科的位置向西看，俄从北约得到的仍然是敌视，而他们可以用来对付敌视的资源和工具却所剩无几。其中的一部分成为西方战利品，被反转用来对付俄罗斯。</p>
-<p>根本原因是，今天的俄罗斯依然是个大国。他的国土仍横跨欧亚9个时区，人口1.4亿。最重要的是他继承了苏联的核力量，<strong>至今仍是能够“在十分钟之内摧毁美国”的唯一国家。</strong></p>
-<p>西方国际政治学首要看重力量规模，而非这种力量在短时期里多大程度是善意的。俄罗斯的超级军事力量继续提供了让美国和欧洲不安的理由，使它们无法像欣赏前苏联其他碎片那样欣赏俄罗斯，帮助它融入西方主导的世界。</p>
-<p><strong>从彼得大帝时代起，融入西方就是俄罗斯人的梦想</strong>，但是他们屡受挫折。普京的一些强硬政策可以看成是叶利钦那一轮融入西方失败后的反弹。这种反弹既有情绪上的，但更多是重新构筑防线的急迫布置。</p>
-<p>西方体系并非人们想象的那样开放，它的利益中心是相对固化的圈子，新的外部力量很难融入并实现利益分享。<strong>日本也没成为完全“西方国家”，它更像是美国军事占领之下的“亚西方”。</strong>俄罗斯带着那么多核弹头试图做西方圈子里的平等成员，更加不可思议。</p>
-<p><strong>俄堪称是大国讨好并追随西方、被整得很惨不得不重走自己路的沉痛案例。</strong>然而俄罗斯的全面恢复有一定困难。西方对它敌视和压制似无尽头，而俄现有的经济实力和舆论能力支撑对西方攻势的抵抗则显得勉强。俄罗斯形成了以军事力量为中心的国家力量结构，民生质量与能源价格的关系过于紧密，抵御外在风险能力因此也比较脆弱。</p>
-<p>大国必然面临地缘政治竞争，因而在西方体系之外做大国是蛮艰辛的事情。美国削弱其他大国是情不自禁的，西方的长期发展为这种削弱储备了大量资源和手段。任何非西方大国崛起都需经历一轮又一轮的全方位考验和洗礼。</p>
-<p>中国已经成长为世界第二大经济体，我们或许不能指望今后将越来越顺利，相反，越来越成为西方体系“排他性反应”的焦点更有可能。我们恐需对此做好充分思想准备。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@沈_来：二人转也叫选举？百分之八十的支持率？朝鲜也是选举，支持率还百分之百呢。</p>
-<p>@刘锦棂：普沙皇那也叫接受了西方的选举制服？</p>
-<p>@横釖立马刘：环球报又在洗地擦地板辛苦了</p>
-<p>@男低音A：人家一个，我们一窝</p>
-<p>@Hermit航哥：这个事 人家俄罗斯最起码坦然面对，美国只整俄罗斯自己吗？中国涉及的 我们自己屁都不敢放，网络全给屏蔽了，还有脸评论别人，脸往哪放？</p>
-<p>@贰零贰肆：别说了，满眼都是泪，环球屎报，日你大爷，胡编，问候你八倍祖宗</p>
-<p>@我就想吃饭：连作者名字都不敢写，可见你们都心虚</p>
-<p>@dahacheng_bg1：自己实行的假民主还怪别人真民主。真是没有出息的民族。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BD%9C%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%A5%BF%E6%96%B9%E5%8F%8D%E5%A4%8D%E8%BF%BD%E6%89%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%BA%AC/?category=18271" rel="tag">普京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%9D%83%E8%B4%B5%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6-%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E5%AD%90%E8%83%A1%E5%BE%B7%E5%8D%8E%E7%8E%87%E5%85%88%E6%AD%A3/" target="cdt-mirror">自由亚洲｜中国权贵卷入巴拿马文件 胡耀邦之子率先正面回应</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg" rel="attachment wp-att-434610"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?resize=550%2C465" alt="前中共总书记胡耀邦之子胡德华。（Public Domain）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?resize=300%2C254 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/418b7ac4-1b6d-467a-b710-6a042497c4ee.jpeg?w=622 622w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>前中共总书记胡耀邦之子胡德华。（Public Domain）</p></div>
-<p>巴拿马文件风波仍在持续，已披露中国9名前任和现任高级领导人的家属或关连人士涉及其中，但中国当局持续封锁消息。4月7日，前中共总书记胡耀邦之子胡德华，对自己被曝光在巴拿马文件中榜上有名，首先作出公开回应。他表示，他注册离岸公司用的是真实身份和地址，堂堂正正，而且有关公司早已停止运营。</p>
-<p>“巴拿马文件”截至目前，已公布了9名中国前任和现任的高级领导人的家属或关联人士拥有离岸公司，但中国当局对相关消息进行强力封杀。</p>
-<p>4月7日，被文件点名的中国前总书记胡耀邦之子胡德华接受香港媒体的访问，成为中国第一位亲自回应事件的华人。胡德华说，他开设离岸公司是为了帮助自己的公司上市，而且是用真实身份和地址注册，堂堂正正，但该公司后来已经没有再营运。他表示，当时想“做些进出口贸易”，但在公司上市失败之后保留了该公司；公司每年做年审，没有资产，也没有经营，但“没必要注销”。</p>
-<p>胡德华还用“相信大陆人未必知道”，回应记者所问一批中共领导人亲属涉巴拿马文件在大陆是否引起震荡。他表示：“不是都删掉了吗？删掉了就没人知道了。”胡德华又表示，不担心此事会影响到父亲声誉。</p>
-<p>对此，香港时事评论员谭志强分析说，胡德华的这个回应有一定说服力：“胡耀邦的儿子胡德华榜上有名而且他是用真实的名字身份证地址注册的，堂堂正正，我觉得这个回应没有错。因为离岸公司并不一定要有非法交易，胡德华说他为了帮助科技公司在香港上市，而且本身来讲他做的是进出口贸易，后来这家科技有限公司不符合上市公司条例，最后上市失败就保留了这个离岸公司，每年也做年度审查；公司本身虽然没有资产，也没有经营，但也没有必要注销。因为注册离岸公司成本已经付出去了，搞离岸公司很贵的，要几十万的，堂堂正正没有犯法我干嘛把它取消，万一以后还有业务有新的公司上市，我就不需要重新申请了。”</p>
-<p>除胡德华外，在巴拿马文件中被点名的还包括中国国家主席习近平姐夫邓家贵、前总理李鹏女儿李小琳、全国政协前主席贾庆林外孙女李紫丹、张高丽的女婿李圣泼、刘云山的儿媳贾立青、曾庆红的兄弟曾庆淮，以及毛泽东的孙女婿陈东升。</p>
-<p>但截至目前为止，中国官方及涉巴拿马文件的另外8人均没有对事件做出实质回应。中国外交部发言人洪磊4月5日回应提问时则指有关文件”捕风捉影“，不予回应。不过外交部并未将这段话公布在官网的例行记者会文字记录上。</p>
-<p>关注事件的安徽前法官沈先生接受本台采访时称，“巴拿马文件”已向权贵集中火力开炮，但北京仍在“掩耳盗铃”：</p>
-<p>“我们看到这个很有意思，这件事情涉及的不光是中国官员，也涉及到西方国家的一些领导人。西方国家的反应是冰岛总理已经辞职了，他们还不是贪腐的问题，他是逃税，逃税当然也是一种腐败现象，很多国家正在进行调查，立法机构、议会或者司法机关都表示要调查。中国就是封锁，像没这回事一样，就封锁了消息。而且中国政府的情况很不一样，他不光是为了避税，其中可能还涉及把赃款转移到安全的地方。”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%9D%83%E8%B4%B5%E5%8D%B7%E5%85%A5%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6-%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E5%AD%90%E8%83%A1%E5%BE%B7%E5%8D%8E%E7%8E%87%E5%85%88%E6%AD%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%BE%B7%E5%8D%8E/?category=18271" rel="tag">胡德华</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -631,7 +631,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -641,5 +641,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

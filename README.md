@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BD%A0%E7%9C%8B%E4%BD%A0%E7%9C%8B-%E9%83%BD%E5%9C%A8%E7%A6%BB%E5%B2%B8/" target="cdt-mirror">东网 | 章文：你看你看 都在“离岸”</a>
+</h2>
+<p><p>摘要：老干部退休后赴山清水秀的异国享天伦，这样喝过毒奶、打过问题疫苗的孩子的家长情何以堪？</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-12-at-%E4%B8%8B%E5%8D%882.55.59.png?resize=511%2C370" alt="Screen Shot 2016-04-12 at 下午2.55.59" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-12-at-下午2.55.59.png?resize=300%2C217 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-12-at-下午2.55.59.png?w=511 511w" sizes="(max-width: 511px) 100vw, 511px" data-recalc-dims="1"></p>
+<p>巴拿马文件传出后，举世哗然。尽管高墙阻隔，尽管作为整体的中国人民不行，但还是有一小撮“还行的中国人民”翻墙过去看到了这一正在上演的大戏（不少中国政要牵涉其中，为了避免不必要的麻烦和危险，我就不点这些人的名字了）。于是一句问候语开始流行了：你离岸了吗？</p>
+<p>这些政要的亲属“离岸”去巴拿马开设公司，目的无非是洗钱和避税。保证自己财产的安全并使其增值，这本来是很正常的事情，况且还不违反所在国的法律。但公众质疑的是，这些钱的来路是否正当、以及作为政治人物如此行事是否符合政治伦理。</p>
+<p>结果，卷入其中的冰岛总理在汹汹民意前第一时间溃败，宣布辞职；英国首相卡梅伦这几日在议会里接受严厉质询、很是狼狈。当然由于赵国的特殊国情，巴拿马风波好似没有发生一样，没有媒体报道，亦没有代表质问……</p>
+<p>说到“离岸”，不能不提到之前流行的“弃船说”：中国好比一艘大船，本来同船人应该同舟共济，但其中有些人悄悄为自己预备了快艇，好在沉船之前开溜。有条件准备快艇的不会是一般的水手，只能是水手的上级——大副甚至船长。</p>
+<p>前些年媒体报道的“裸官现象”就是“弃船说”的现实演绎版：老婆、孩子，还有大量不义之财都送到国外，自己一个人留在中国当官。其实不仅是处长、局长如此，部长以及政治局委员、乃至常委级别的都一样，或者可以这样说，“上梁不正下梁歪”，小干部是跟大干部学样的，你大腐败我小腐败，你把妻儿送到哪里，我也把妻儿送到哪里。</p>
+<p>前国家领导的儿孙辈在海外生活的消息屡见境外报端：亿元豪宅住着，世界名校读着，“公子”“名媛”流转于各种上流社交场合，人生好不得意！</p>
+<p>退休后的官员打个飞的去和妻儿会合，在气候宜人、食品安全的他国颐养天年。今年2月境外媒体报道离退休干部为领取养老金挤爆中国驻加拿大多伦多总领事馆，结果导致现场异常混乱，被维持秩序的加国警察叫停。图文并茂的消息让国人惊呼：究竟有多少离退休干部生活在国外？</p>
+<p>水往低处流人往高处走，这本无可厚非。然而令我不能释怀的是，这些老干部中可能就有人离退休前任职环境、食品和医药监管部门，由于他们的无所作为、玩忽职守甚至故意犯罪，中国的环境、食品和医药安全问题才到了积重难返的地步。而他们却拍拍手、穿着休闲装“离岸”去山清水秀的异国享受天伦之乐了，这让那些喝过“毒奶”、打过“问题疫苗”的孩子的家长情何以堪？！</p>
+<p>我想起当年写文章批评过的一位部级高官来：李长江，时任质检总局局长的他在“三鹿毒奶”事件中去职，结果不到一年却转岗至全国“扫黄打非”工作小组专职副组长。这在走邪路的西方国家里，是想破脑袋也不可能的事情，在走社会主义道路的中国却成为寻常之事。</p>
+<p>“为人民服务”挂在嘴边，实际上却是“官老爷高高在上”。人民日报前些天批评“很多人民风气不正”、找人办事时总喜欢来点“小贿赂”，由此被网友总结并演绎出诸多种“人民不行”来：经济不行，主要是人民不行；楼市低迷，主要是人民不行；疫苗出问题，主要是人民不行……最近巴拿马文件传出后，姐夫成为敏感词，也主要是因为人民不行。</p>
+<p>然而，人民如何才能行呢？且不说一般草民，就连人民中拥有话语权的“记者”也不行了。自从“党媒姓党”之后，一些地方官简直就像是拿到了“尚方宝剑”一般，对于敢于报道自家丑事的记者恨不得当“敌对势力”来对待，前几天湖南衡阳宣传部官员就向当地国安部门报告了三位“南方系”记者的信息，真是令人匪夷所思之余感觉恐惧！</p>
+<p>美国前总统林肯曾有一句名言，大意是：有什么样的人民，就有什么样的政府。正是因为人民不行，所以政府、官员才行。美国人民有枪有选票，所以美国政府就不敢嚣张。可是在连买把菜刀都要实名、投票只能投一个候选人的国度，人民不行，也是无可奈何的事情啊！</p>
+<p>年轻时常看各种历史书揭批当年西方列强怎样残酷殖民他国，特别是怎样将中国摧残成半封建半殖民国家，恨得牙龈都快咬出血了。这些年慢慢发现，其实“殖民”也分“对外殖民”和“对内殖民”两种，后一种指殖民的对像是本国人民，对同胞实施残酷的压制和盘剥。这种现象常常发生在共产主义国家，一切属于国家，为了国家，个人随时准备放弃自己的所有，包括生命。</p>
+<p>因此面对这样令人郁闷的国情，我对那些用脚投票、“离岸”去他国的人民，常怀理解之心。谁不向往自由、幸福的生活？！但对那些台上大弹“爱国”高调、台下却偷偷“离岸”的权贵们，很是愤慨和鄙视。这样的官员别说没有“官格”，就连一般的“人格”都严重缺乏。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BD%A0%E7%9C%8B%E4%BD%A0%E7%9C%8B-%E9%83%BD%E5%9C%A8%E7%A6%BB%E5%B2%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E6%96%87/?category=18271" rel="tag">章文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc%EF%BD%9C%E5%BC%80%E5%AE%A1%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A-%E6%8A%A5%E9%81%93%E8%A2%AB%E5%88%A0-%E7%BD%91%E6%B0%91%E7%88%86%E7%82%92/" target="cdt-mirror">BBC｜“开审芮成钢”： 报道被删 网民爆炒</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?resize=551%2C315" alt="芮成钢" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?w=640 640w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
@@ -58,7 +86,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%B7%B4%E6%8B%BF%E9%A9%AC-2/" target="cdt-mirror">【麻辣总局】赵國圖片 #巴拿馬</a>
 </h2>
@@ -627,32 +655,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E3%80%8A%E6%B2%BB%E4%B8%AD%E5%9B%BD%E8%AE%BA%E3%80%8B/" target="cdt-mirror">【习总日记】 习近平《治中国论》</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，4，11）</p>
-<p>前有牛氏《苹果论》，后有爱氏《相对论》。我也该有自己的宏篇巨著。思来想去，窃以为革命不如孙中山，建国不如毛主席，但论起治国理政，深有体会，经验丰富。故作《治中国论》一书，以便后人学习参考。</p>
-<p>习办有同志建言，好书需配好纸。什么纸？<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马纸</a>最贵。</p>
-<p>《治中国论》习近平著</p>
-<p>前言</p>
-<p>古人言，蜀道难，难于上青天揽月；治国难，难于下五洋捉鳖。现代化捉鳖技术的应用，使得捉五洋之鳖不再万难，但治国依然艰难。清廷治国失败，民国治国失败。毛伟人开国有功却治国于崩溃边缘不提。江胡二位长者前任治下虽经济增长有功却放任官员贪污腐败，以致中共政权再次面临崩溃边缘。十八大一唱天下白，我来了。</p>
-<p>自正定县县委书记起，至今治国理政前后共三十多年，从地方到中央，从数十万人口的一个县到14亿人口大国，从县委书记到党总书记国家主席，积累了丰富经验。问遍朝野，无人能及。</p>
-<p>吾观中国有四个要点，了解熟悉掌握了这四要点，治理好中国不难。否则，很难。这四个要点是：</p>
-<p>第一，清末民谣“官府怕洋人，洋人怕百姓，百姓怕官府”仍具现代意义。要利用好洋人怕百姓的心理，对付外敌。我们常常煽动民间仇日仇美情绪，迫使日本美国政府让步。</p>
-<p>第二，千百年来朝代更替传统依旧中华不断，得益于孔圣儒教。儒教之君臣父子伦理，有利于社会稳定，有利于中共政权统治，要善待之，更要善用之。百姓信佛信道信基督皆流于形式表面，内心潜意识归于儒家一教。</p>
-<p>第三，“反贪官不反皇帝”者众，“敢把皇帝拉下马”者少。遇事要果决，推出贪官保皇帝。动作慢了，百姓会认为你皇帝与贪官穿一条裤子，是贪官的总后台。等到百姓蜂拥上街闹事，苏东波起茉莉花开，只剩煤山一条路时，悔之晚矣。</p>
-<p>第四：认清知识分子的真面目。要打压着用，羞辱着用，使之深陷恐惧自顾不暇，成为识字奴才而无法建立独立之精神，自由之思想。只有掌控了知识分子，才能真正掌控中国社会政治大局。任何一次朝代更替，都离不开知识分子煽动教唆和参与，人数不多但是起着关键少数作用。知识分子倒向哪边，哪边赢面就大。</p>
-<p>以上四要点，第一个从世界外交角度阐述了“官、民、洋”三者关系，第二个从内政角度阐述了儒教伦理有利于中共统治，第三个从社会维稳角度阐述了反贪的重要性，第四个揭示介于政府与百姓之间占人口少数的知识分子的重要性。</p>
-<p>（未完待续）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E6%95%99%E7%88%B6%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=551%2C413" alt="鳩鵪漫畫：教父习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：教父习近平.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/03/鳩鵪漫畫：教父习近平.jpg?w=600 600w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E8%BF%91%E5%B9%B3%E3%80%8A%E6%B2%BB%E4%B8%AD%E5%9B%BD%E8%AE%BA%E3%80%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -674,5 +676,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

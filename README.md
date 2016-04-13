@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,99 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%88%91%E5%9C%A8%E4%B8%80%E5%AE%B6%E8%B7%91%E8%B7%AFp2p%E5%85%AC%E5%8F%B8%E5%B7%A5%E4%BD%9C%E7%9A%8448%E5%B0%8F%E6%97%B6/" target="cdt-mirror">墙外楼 | 我在一家跑路“P2P”公司工作的48小时</a>
+</h2>
+<p><p>看新闻“多家XXXX公司集体失联”，联想到我曾待在一家所谓的理财公司工作的经历，庆幸自己果断离开是最正确的事情。</p>
+<p>1、据说，这是里“钱多自由高大上”</p>
+<p>我在一个十八线小城市生活，从事财务工作。</p>
+<p>11月份，在我省主流招聘网站看到某资产管理公司入驻我市，高薪资、双休、五险一金、上海公司，网站上的信息看起来高大上，让我跃跃欲试。</p>
+<p>由于之前一直做财务主管，工作上面没有大的突破，希望今年事业可以更进一步，我投了该公司的财务经理一职。</p>
+<p>投简历后大约3天后面试，面试的过程我感觉不是很正规严谨。大概问了些问题基本就确定下来让我赶紧上班。</p>
+<p>当时隐隐觉得哪里不对，但还是被高薪酬和双休吸引了，想着先进来做着。</p>
+<p>2、第一天上班，我整个人都不好了</p>
+<p>上班第一天，入职时听到人事说“今天多少人离职”还觉得这么高的薪酬，怎么离职的还这么多？</p>
+<p>入职时填写资料后，人事也不管你了，也没有安排座位，就让人在大厅那里坐着。我觉得这里的管理非常混乱，行政人员完全没有一点专业度。</p>
+<p>坐了一下，来了一群销售人员，原来每天早上他们都需要开会培训。人事让我们新入职的跟销售一起听产品介绍，我大概看了下产品资料和销售经理培训的内容，心里觉得不对劲。</p>
+<p>首先他们的产品是自融的产品，理财产品也没有时间限制，风控几乎为0，而且完全看不到产品的赢利点在哪里。</p>
+<p>销售经理更是大话连篇，直接说总公司明年上市，我心中暗笑，上市至少要3年盈利，我来的时候查过其总公司，2014年12月才注册，太忽悠人了吧。基本判定这个理财公司不靠谱。存在欺骗行径。</p>
+<p>下午回家后我赶紧查询相关资料，发现其总公司虽然注册资本有2亿，但实收资本资金为0，虽然现在《公司法》允许部分企业认缴，但我记得金融业应该是注册资本仍然实行实缴制度。可见此公司是空壳公司。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Img444022300.jpg?resize=550%2C431" alt="Img444022300" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Img444022300.jpg?resize=300%2C235 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Img444022300.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>再上网直接收索其公司名，马上跳出后缀“非法集资、骗子公司”等字样。点击进去一看，吓死宝宝了！果然跟我想的一样。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/12.jpg?resize=550%2C272" alt="12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/12.jpg?resize=300%2C148 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/12.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>3、亲历洗脑式培训</p>
+<p>下午去上班后依然没有座位，人事那边说目前没有位置随便坐，于是一群人都是瞎晃悠。</p>
+<p>销售30多人在某个大房间进行洗脑培训。期间人事、销售人员不断过来让我们加各种微信群，群里不断有人发某某员工出单1万、5万、10万、20万的消息。</p>
+<p>趁这个时间段，我大概弄清楚这个公司的构架了。</p>
+<p>这个公司想在我们十八线城市设置一个总部，市总部内部设5个分支，总部下面开5个分公司，每个分公司下面设置5个支公司，一共30个分支，每个分支64人，其中业务人员50人。</p>
+<p>听到这里再想想财务管理的成本与效益，我完全可以断定这是骗子公司，不可能有这样的金融公司存在，成本如此高（给到业务人员的底薪10000元），但是完全看不到他的盈利点。</p>
+<p>下班前老总看大家没事，又要聚齐所有行政人员开会，开会内容依然是洗脑，说他们上海公司多么厉害，很多政府要员去他们那里参加党建工作培训（他们非常注重党办工作，一般企业很少见，我分析是想营造国企假象，让人投钱时好骗人是政府项目）。结论就是发动大家赶紧出单，只要出单5万你就可以转正了，转正后可以拿到高额工资（女的11800），男的11000，销售员的提成高达20%。</p>
+<p>我心想，这不是自己给自己发工资吗？只是不知道投出去的钱能不能收回。</p>
+<p>折腾了一天，下班后老总还不消停，疯狂在多个微信群里面狂风乱砸，再次进行洗脑。“不要做后知后觉的人，不会理财你会被时代抛弃”“买了我司的产品，进入我司，只要转正，你可以拿到高工资，我司永远不会开除你”。感觉太闹剧了。</p>
+<p>4、账本里的惊人内幕</p>
+<p>第二天我依然没有座位，了解到一点财务的内容，他们是有一套做账的模板，只要会计按照该模板入账就可以了，毫无技术含量，出纳负责需要录入销售人员的业绩。我只做下审核工作。</p>
+<p>做账模板已然把我吓哭——财务费用放在管理费用下面，所有的支出全部进费用，完全没有成本一说，收入看不到，销售出单后直接打入西藏的账号，但是签合同的是深圳的公司！太疯狂+无语了。</p>
+<p>傍晚快下班时依然是加班开会洗脑，这次是要求一周内行政人员出单5万才能转正，我已然完全看透了这个骗子公司的种种把戏，开完会后已经是华灯初上，心里也冷冷的。</p>
+<p>5、放我离开，头也不回</p>
+<p>第二天早上立即去辞职了，不想待这里浪费时间和精力，希望市民不要被该公司欺骗。不过貌似我们十八线的市民很机灵，基本不相信该公司，值得欣慰。</p>
+<p>简七财团有话说</p>
+<p>事实上，正如上周我们强调的，这些问题平台压根就不是正规的P2P或者互联网金融模式，而是诈骗。</p>
+<p>庆幸这位小伙伴及时逃离“魔爪”的同时，我们也感谢他给我们带来的一手“防雷”方法：</p>
+<p>1, 确认实缴资本，不敢投入真金白银的平台，坚决避开。</p>
+<p>2，搜索公司网络口碑，差评较多，尤其是涉及诈骗、非法集资的平台，坚决避开。</p>
+<p>3，销售员提成比例异常高的（一般来说常态下超过1%的），很可能有传销嫌疑。</p>
+<p>4，任何有“洗脑式”营销，只鼓吹平台表面多么光鲜亮丽，在风控方面却“一问三不知”的，坚决避开。</p>
+<p>5，线下分支机构特别多，线下销售人员成群结队的，要十分小心。</p>
+<p>总之，所谓美味的馅饼，掉下来也别接。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%88%91%E5%9C%A8%E4%B8%80%E5%AE%B6%E8%B7%91%E8%B7%AFp2p%E5%85%AC%E5%8F%B8%E5%B7%A5%E4%BD%9C%E7%9A%8448%E5%B0%8F%E6%97%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/23%E6%9D%A1/?category=18271" rel="tag">"23条"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E9%94%80/?category=18271" rel="tag">传销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E5%BC%8F%E5%9F%B9%E8%AE%AD/?category=18271" rel="tag">洗脑式培训</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E8%90%A5%E9%94%80/?category=18271" rel="tag">洗脑营销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84/?category=18271" rel="tag">非法集资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AA%97%E5%AD%90/?category=18271" rel="tag">骗子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AA%97%E5%AD%90%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">骗子公司</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B1%B1%E5%AF%A8bbc%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E7%89%A9/" target="cdt-mirror">【立此存照】山寨BBC背后的人物</a>
+</h2>
+<p><blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%B1%B1%E5%AF%A8%E7%89%88bbc-%E8%B0%88%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%8D%B4%E5%8F%AA%E5%AD%97%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD/" target="_blank">法广 | 山寨版“BBC” 谈巴拿马文件却只字不提中国</a></p></blockquote>
+<p>以下信息均由中国数字时代编辑搜集自公开渠道（public sources）并截图：</p>
+<p><strong>合肥商传通互联网科技有限公司于2012年在安徽合肥注册，注册资本3万元人民币。税号：34011105019734X；地址：合肥市滨湖新区世纪城福徽苑3栋1303室。</strong></p>
+<p><strong>公司法人韦忠源，农历1982年10月14日黎明安徽临泉县出生，曾因“命中缺水”而改名，身份证号 342122198210144652。山寨BBC网站</strong>(bbcnews.com.cn)<strong>及大量其他山寨域名拥有人。《每日经济》</strong>(cn.dailyeconomic.com)<strong>和山寨BBC网站负责人。</strong></p>
+<p>山寨BBC网站域名查询结果截图：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%B1%B1%E5%AF%A8BBC%E5%9F%9F%E5%90%8D%E4%BF%A1%E6%81%AF.jpg" rel="attachment wp-att-434964"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%B1%B1%E5%AF%A8BBC%E5%9F%9F%E5%90%8D%E4%BF%A1%E6%81%AF.jpg?resize=500%2C339" alt="山寨BBC域名信息" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/山寨BBC域名信息.jpg?resize=768%2C521 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/山寨BBC域名信息.jpg?resize=1024%2C695 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/山寨BBC域名信息.jpg?w=1762 1762w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>域名注册邮箱反查部分结果截图：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%82%AE%E7%AE%B1%E5%8F%8D%E6%9F%A5%E6%88%AA%E5%9B%BE.jpg" rel="attachment wp-att-434963"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%82%AE%E7%AE%B1%E5%8F%8D%E6%9F%A5%E6%88%AA%E5%9B%BE.jpg?resize=500%2C412" alt="邮箱反查截图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邮箱反查截图.jpg?resize=300%2C247 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邮箱反查截图.jpg?resize=768%2C633 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邮箱反查截图.jpg?resize=1024%2C844 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/邮箱反查截图.jpg?w=1926 1926w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>合肥商传通互联网科技有限公司 工商局<a href="http://www.ahcredit.gov.cn/businessPublicity.jspx?id=9025E56CCE8A04B16D5D562F49A06635" target="_blank">登记资料</a>：</strong></p>
+<blockquote><p>注册资本3万元：韦忠源出资2.7万，韦洪兴出资0.3万元</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%90%88%E8%82%A5%E5%95%86%E4%BC%A0%E9%80%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B801.png" rel="attachment wp-att-434956"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%90%88%E8%82%A5%E5%95%86%E4%BC%A0%E9%80%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B801.png?resize=575%2C308" alt="合肥商传通互联网科技有限公司01" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司01.png?resize=300%2C161 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司01.png?resize=768%2C412 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司01.png?resize=1024%2C549 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司01.png?w=1866 1866w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%90%88%E8%82%A5%E5%95%86%E4%BC%A0%E9%80%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B802.png" rel="attachment wp-att-434955"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%90%88%E8%82%A5%E5%95%86%E4%BC%A0%E9%80%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B802.png?resize=575%2C84" alt="合肥商传通互联网科技有限公司02" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司02.png?resize=300%2C44 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司02.png?resize=768%2C112 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司02.png?resize=1024%2C150 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司02.png?w=1876 1876w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%90%88%E8%82%A5%E5%95%86%E4%BC%A0%E9%80%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.png" rel="attachment wp-att-434950"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%90%88%E8%82%A5%E5%95%86%E4%BC%A0%E9%80%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.png?resize=590%2C11" alt="合肥商传通互联网科技有限公司信息" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司信息.png?resize=300%2C6 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司信息.png?resize=768%2C15 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司信息.png?resize=1024%2C20 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/合肥商传通互联网科技有限公司信息.png?w=2398 2398w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"></a></p>
+<blockquote><p>合肥商传通互联网科技有限公司<br>
+税号：34011105019734X<br>
+法定代表人：韦忠源<br>
+有效证件号码：342122198210144652<br>
+经营地点： 合肥市滨湖新区世纪城福徽苑３栋１３０３室</p></blockquote>
+<p>韦忠源身份证号与“新浪爱问”<a href="http://iask.sina.com.cn/b/1663983.html" target="_blank">提问中</a>同名用户生日符合（在中国某些地区，以农历生日登记身份证的情况很常见），可以认定为同一人：</p>
+<blockquote><p>请各位为我算一卦吧</p>
+<p>男，农历1982年10月14日黎明安徽临泉县出生，事业很不顺，小时听别人说我是离乡之命，也难怪，来广东六年没回家了，也说我命中缺水我也改名了，现叫韦忠源，事业是极奇的不顺，特别是这几年，谢，，，，</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9F%A6%E5%BF%A0%E6%BA%90%E6%8F%90%E9%97%AE.png" rel="attachment wp-att-434951"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9F%A6%E5%BF%A0%E6%BA%90%E6%8F%90%E9%97%AE.png?resize=500%2C310" alt="韦忠源提问" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源提问.png?resize=300%2C186 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源提问.png?resize=768%2C476 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源提问.png?resize=1024%2C635 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源提问.png?w=1390 1390w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>这位名为<a href="https://cn.linkedin.com/in/%25E5%25BF%25A0%25E6%25BA%2590-%25E9%259F%25A6-4560b510bhttp://weibo.com/p/1006065643831272" target="_blank">韦忠源</a>的用户在其领英的资料中列出了《每日经济》和山寨BBC网站的工作经历，工作地址为上海市：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9F%A6%E5%BF%A0%E6%BA%90linkedin.png" rel="attachment wp-att-434952"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9F%A6%E5%BF%A0%E6%BA%90linkedin.png?resize=425%2C543" alt="韦忠源linkedin" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源linkedin.png?resize=235%2C300 235w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源linkedin.png?resize=768%2C981 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源linkedin.png?resize=801%2C1024 801w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源linkedin.png?w=1310 1310w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p>新浪微博认证信息为“合肥商传通互联网科技有限公司”的<a href="http://weibo.com/p/1006065643831272" target="_blank">账号</a>截图，使用了上海南京路步行街作为封面图片，也许是为了强调自己工作地址在上海：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%95%86%E4%B8%9A%E6%8A%A5%E5%BE%AE%E5%8D%9A.jpg" rel="attachment wp-att-434960"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%95%86%E4%B8%9A%E6%8A%A5%E5%BE%AE%E5%8D%9A.jpg?resize=525%2C238" alt="商业报微博" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/商业报微博.jpg?resize=300%2C136 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/商业报微博.jpg?resize=768%2C348 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/商业报微博.jpg?resize=1024%2C464 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/商业报微博.jpg?w=2600 2600w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>百度百家名为“韦忠源”的用户，照片疑似本人：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9F%A6%E5%BF%A0%E6%BA%90%E7%99%BE%E5%BA%A6%E7%99%BE%E5%AE%B6.jpg" rel="attachment wp-att-434959"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9F%A6%E5%BF%A0%E6%BA%90%E7%99%BE%E5%BA%A6%E7%99%BE%E5%AE%B6.jpg?resize=525%2C155" alt="韦忠源百度百家" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源百度百家.jpg?resize=300%2C89 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源百度百家.jpg?resize=768%2C227 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源百度百家.jpg?resize=1024%2C303 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/韦忠源百度百家.jpg?w=2204 2204w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>附：whois反查邮箱后，通过站长工具网站导出生成的完整域名列表（点击图片查看大图）</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/whois%E5%8F%8D%E6%9F%A5_2016-04-13.jpg" rel="attachment wp-att-434962"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/whois%E5%8F%8D%E6%9F%A5_2016-04-13.jpg?resize=400%2C651" alt="whois反查_2016-04-13" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/whois反查_2016-04-13.jpg?resize=768%2C1249 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/whois反查_2016-04-13.jpg?w=900 900w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B1%B1%E5%AF%A8bbc%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E7%89%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%AF%A8/?category=18271" rel="tag">山寨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BD%A0%E7%9C%8B%E4%BD%A0%E7%9C%8B-%E9%83%BD%E5%9C%A8%E7%A6%BB%E5%B2%B8/" target="cdt-mirror">东网 | 章文：你看你看 都在“离岸”</a>
 </h2>
 <p><p>摘要：老干部退休后赴山清水秀的异国享天伦，这样喝过毒奶、打过问题疫苗的孩子的家长情何以堪？</p>
@@ -605,56 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%A6%99%E6%B8%AF%E3%80%8A%E5%89%8D%E5%93%A8%E3%80%8B%E5%87%BA%E7%89%88%E5%95%86%E6%8A%AB%E9%9C%B2-%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E8%A2%AB%E5%B9%BF/" target="cdt-mirror">自由亚洲｜《前哨》出版商披露 一个月内被国安3次登门造访</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3.jpg?resize=440%2C293" alt="习近平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>专门报道中国内地政治内情的香港《前哨》杂志的出版商、长期出版大陆禁书的夏菲尔出版社的老板刘达文，近日向英文的《南华早报》透露，在铜锣湾书店失踪事件闹得满城风雨的时候，他对外隐瞒了从去年12月底到今年1月中旬曾3次被广东省国安登门造访的事情。</p>
-<p>国际媒体报道说，刘达文表示，3位国安查问他与铜锣湾书店有怎样的关系，并告诉他有关部门对禁书这个行业非常愤怒，而他也被怀疑是铜锣湾书店失踪五人的幕后主使人，甚至指他会趁着铜锣湾书店失踪事件来扩张自己的业务。另外，刘达文证实，早先曾向外界透露、但没有点名的前哨杂志一名员工，去年10月在东莞一处住所被公安在未出示任何法律文件情况下强行带走，被非法扣查4个小时，而这名员工其实就是他的妻子。同一天也有铜锣湾书店人员在广东失踪。刘达文表示，在他妻子被非法禁锢和问话之后几个月，他一直没有声张，只希望对方跟他说一声道歉，并发还他们强迫他妻子签署的声明。但那几位国安去年底造访刘达文位于荃湾的办事处时，称对他妻子被禁锢一事不知情。刘达文还透露，三位国安今年1月初和中旬再来找他，两次都在外面用餐聊天。</p>
-<p>国际媒体报道说，有分析表示，刘达文透露的情况，更让人怀疑铜锣湾书店失踪人员是否真的是“自愿”返回内地协助调查。</p>
-<p>（责编：寇天力）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%A6%99%E6%B8%AF%E3%80%8A%E5%89%8D%E5%93%A8%E3%80%8B%E5%87%BA%E7%89%88%E5%95%86%E6%8A%AB%E9%9C%B2-%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%85%E8%A2%AB%E5%B9%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%BE%BE%E6%96%87/?category=18271" rel="tag">刘达文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E5%93%A8/?category=18271" rel="tag">前哨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E8%BF%AB%E5%A4%B1%E8%B8%AA/?category=18271" rel="tag">强迫失踪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/" target="cdt-mirror">中国数字时代(China Digital Times)免翻墙浏览器扩展</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2012/07/gfw-6978.jpg?resize=351%2C498" alt="gfw-6978" data-recalc-dims="1"></p>
-<p><strong>一键穿墙，任性阅读中国数字时代。</strong></p>
-<h3>Firefox</h3>
-<p>下载: <a href="https://github.com/cdtmirrors/cdt.unblocked/blob/master/installer/china_digital_times-0.0.5-fx+an.xpi?raw=true" target="_blank">github</a></p>
-<p>安装: 直接用 Firefox 浏览器打开安装文件</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/01/Screen-Shot-2016-01-15-at-3.32.28-PM.png?resize=389%2C504" alt="Screen Shot 2016-01-15 at 3.32.28 PM" data-recalc-dims="1"></p>
-<h3>Chrome</h3>
-<p>方法1：墙外请直接访问 <a href="https://chrome.google.com/webstore/detail/pogbeechjdafcafejffopgfhafkkbgfe" target="_blank">Chrome Store 地址</a> 安装；</p>
-<p>方法2：<br>
-2.1 点击 <a href="https://github.com/cdtmirrors/cdt.unblocked/blob/master/installer/china_digital_times-v0.0.5.crx?raw=true" target="_blank">github</a> 下载 china_digital_times-v0.0.5.crx<br>
-2.2 在谷歌地址栏输入 chrome://extensions/ 打开扩展程序管理界面，<br>
-2.3 将安装文件拖拽入浏览器窗口.</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?resize=500%2C375" alt="Fuck GFW 14" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2012/04/Fuck-GFW-14.png?w=1600 1600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>更多安装使用细节请看：</p>
-<blockquote><p><strong><a href="https://chinadigitaltimes.net/chinese/2016/02/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3-china-digital-times-cdt-%E7%9A%84%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85%E4%BD%BF/" target="_blank">中国数字时代免翻墙浏览器扩展安装使用方法</a></strong></p></blockquote>
-<h3>附：开源翻墙工具：萤火虫FireFly Proxy 新版 0.2.0</h3>
-<p>内置TOR的meek流量混淆技术，可通过默认浏览器直接翻墙，支持HTTP(s)和SOCKS5协议，可自定goagent等http代理、SSH和Shadowsocks账号（需要自备）。</p>
-<p>支持黑名单/白名单（自动更新），墙内直通，墙外自动翻墙，浏览器建议使用FireFox或Chrome，无需安装翻墙插件。</p>
-<p>支持Windows和Mac系统，操作说明和设置界面为中文，自动解压缩到桌面并生成快捷方式，纯绿色，删除文件即卸载。</p>
-<p>项目页：https://github.com/yinghuocho/firefly-proxy</p>
-<p>FireFly 0.2.0 版下载地址：</p>
-<p><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true" target="_blank">Windows 版 github 下载地址</a><br><a href="http://sourceforge.net/projects/fireflyproxy/files/firefly-proxy-win-0.3.0.zip/download" target="_blank">Windows 版 sourceforge 下载地址</a><br><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-mac-latest.dmg?raw=true" target="_blank">Mac OS X 版 github 下载地址</a><br><a href="http://sourceforge.net/projects/fireflyproxy/files/firefly-proxy-mac-0.3.0.dmg/download" target="_blank">Mac OS X 版 sourceforge 下载地址</a></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2013/06/gfw2.jpg?resize=492%2C407" alt="gfw2" data-recalc-dims="1"></p>
-<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3china-digital-times-cdt%E5%85%8D%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=18271" rel="tag">Chrome</a>, <a href="https://chinadigitaltimes.net/chinese/tag/firefox/?category=18271" rel="tag">firefox</a>, <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">中国数字时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/?category=18271" rel="tag">浏览器插件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BF%BB%E5%A2%99/?category=18271" rel="tag">翻墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -666,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -676,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/chrome/?category=1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

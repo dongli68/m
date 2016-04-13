@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%88%E8%AE%BA%E7%8E%AF%E7%90%83%EF%BC%8C%E8%AF%B7%E5%85%88%E7%A1%AE%E5%AE%9A%E4%BB%80%E4%B9%88%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84%EF%BC%9F/" target="cdt-mirror">旧闻评论｜宋志标：谈论环球，请先确定什么是无辜的？</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg" rel="attachment wp-att-434978"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?resize=450%2C672" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?w=636 636w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>题图当代水墨，作者新浪微博：@秃头倔人</span></p>
+<p>看见笑蜀老师写的文章，关于环球时报与国家前景的，旁征日本案例，暗示环球鼓动战争情绪，言其危害国家前途。此文一如他从前的风格，语言流畅，论证圆熟，很受欢迎。</p>
+<p>这么多年看来下，环球在最近几年越来越频繁地进入舆论场合起舞，这是从前所没有的。环球从一张小报变为舆论场合下的一种环球现象，预示着许多缺失的发生。</p>
+<p>环球其实一直都是那个样子，流里流气，谈不上正声正气，有人揣测其背景如何如何，也都没有证据。只能归结为，左的总是安全的，而且它长在民族主义的丰厚土壤里。</p>
+<p>环球不是一个正常的消息源，这是两个意思：一是许多稍加敏感的信息，都已经在外部流传，认为它传递了其他媒体没有的信息，只是因为接受者信息来源比较贫乏而已。</p>
+<p>另外一层意思是，它在信息悬殊的情况下，对某些信息的解读是扭曲的——盛赞环球多少透露点信息的，都不会否认这种被加工过的信息加深了偏见——从这个角度赞环球的人基本不是它的读者。</p>
+<p>到底是对某些信息的无知好，还是知道这些已经被扭曲的信息好，说来说去，只能说什么样的读者配有什么样的报纸。那些批评环球的，多少抱着拯救环球的心态，其实大可不必。</p>
+<p>对环球的不忿，理据多是它相反的那些媒体没有了，它在不平衡的舆论生态里占了便宜云云。这么说，可能接近事实，但事实不等于立场，更可能要检讨的不是环球坏坏的独在，而是那些好好的怎么了。</p>
+<p>如果你说环球是坏的，很可能是你变得不好了。否则，这种比较就不该会造成什么敏感。当然，有人一直抱以洁癖心态，远离环球现象的种种，大概也是一种难得的风范。</p>
+<p>焦虑环球现象的入侵，或者认为它造成“不可收拾的恶果”，可能都有点夸张，毕竟在整个意识形态格局中，论关键性，环球排不上号。在这种意义上讲，“环球现象”很像一种幻觉。</p>
+<p>一些被认为是智者的人有意无意地强化了这种幻觉，而有些“好人”也似乎乐于强调危险，进而将环球现象的幻觉传染给他人。就舆论的历史看，没有常胜将军，左边和右边都是这样。</p>
+<p>当然，在谈论环球时，恰当与否，一个重要的参照物，就在于确定什么东西是无辜的。如果预设一个无辜的国家，将环球摆在它的反面，恐怕就需省思这种预设，这种“无辜”的设定是否确实。</p>
+<p>有些事本不存在，谈论多了就有了神仙鬼怪，用在环球话题上，似乎是可以成立的。从论断的角度看，它似乎重要得很；可从判断的角度看，一直边缘，尽管它影射的那些一直在。</p>
+<p>2016/4/12</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%88%E8%AE%BA%E7%8E%AF%E7%90%83%EF%BC%8C%E8%AF%B7%E5%85%88%E7%A1%AE%E5%AE%9A%E4%BB%80%E4%B9%88%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8D%E6%9D%82%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">复杂中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%AE%B9%E4%B8%8D%E4%B8%8B%E7%90%86%E6%83%B3%E7%9A%84%E5%9B%BD%EF%BC%9F/" target="cdt-mirror">【立存此照】容不下“理想”的国？</a>
+</h2>
+<p><p>@姚广孝_wayne：感谢三个自信，《理想国》系列有些危险了，想买这套书的人要抓紧入手。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23ejw1f2ux0gi06aj20k60qb10o.jpg?resize=690%2C900" alt="7ffad23ejw1f2ux0gi06aj20k60qb10o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23ejw1f2ux0gi06aj20k60qb10o.jpg?resize=230%2C300 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23ejw1f2ux0gi06aj20k60qb10o.jpg?w=690 690w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></p>
+<p>@再美_也不过是回忆：这些部门除了偶尔来秀下限，还能做什么？</p>
+<p>@柳狐子：看过书的一点内容，这也敏感……那口述史就不用做了</p>
+<p>@理想国imaginist：理想国的微博，被改成蓝色的机构认证了，之前的黄标看着亲切。现在，变性的感觉。</p>
+<p>@理想国imaginist：对于爱跳舞的孩子，遇到再大困难，不妨碍他们继续跳舞呢。</p>
+<p>@namelessendless：传闻是真的？骂人，骂人……</p>
+<p>@鹿鸣之什：没想到这么严重！喜欢理想国的选书品味和引领阅读风尚的意识，推出的好书真是数不胜数！希望理想国能好好的，但愿神的孩子总会跳舞。理想国出过很多书，有些也被迫删东西，虽然不喜欢，但在这个不自由的环境里更知道它的难。即使在夹缝里这样求全，如果真发生怎样，真不知道要怎么面对这个国度。</p>
+<p>@土豆烧牛肉吃了不需放屁：希望你门继续跳着芭蕾，而不是有一天突然跳起了忠字舞。</p>
+<p>@寒郁微博：在这个倒车的时代，继续跳舞！致敬！</p>
+<p>@到里斯本看海：“在一个并不尊重个体权益和尊严的畸形社会里，并没有幸存者。施害者和受害者往往走在同一条大路上。”张赞波《大路》</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%AE%B9%E4%B8%8D%E4%B8%8B%E7%90%86%E6%83%B3%E7%9A%84%E5%9B%BD%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E5%9B%BD/?category=18271" rel="tag">理想国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E8%BE%91/?category=18271" rel="tag">编辑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%88%91%E5%9C%A8%E4%B8%80%E5%AE%B6%E8%B7%91%E8%B7%AFp2p%E5%85%AC%E5%8F%B8%E5%B7%A5%E4%BD%9C%E7%9A%8448%E5%B0%8F%E6%97%B6/" target="cdt-mirror">墙外楼 | 我在一家跑路“P2P”公司工作的48小时</a>
 </h2>
 <p><p>看新闻“多家XXXX公司集体失联”，联想到我曾待在一家所谓的理财公司工作的经历，庆幸自己果断离开是最正确的事情。</p>
@@ -641,60 +687,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E5%8F%8A%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%91%A8%E5%88%8A%E7%BD%91%E7%AB%99%E9%81%AD%E4%B8%AD/" target="cdt-mirror">纽约时报 | 《经济学人》及《时代》周刊网站遭中国屏蔽</a>
-</h2>
-<p><p>《经济学人》(The Economist)和《时代》周刊(Time)也加入了被中国大陆屏蔽的外国新闻网站的行列。这两份杂志的网站受到审查，似乎是因为它们最近发表了批评中国国家主席习近平权力不断扩大的封面文章。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=480%2C480" alt="CfM8N_XXEAAnHR4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfM8N_XXEAAnHR4.jpg?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
-<p>据追踪中国互联网和社交媒体审查的网站GreatFire.org称，从4月2日开始，《经济学人》的网站和它的封面文章受到全面封锁。可让用户下载杂志和阅读在线文章的《经济学人》移动应用也受到了封锁。</p>
-<p>《经济学人》在人气很高的中文社交媒体应用“微信”上管理的几个公众号也被停用。但《经济学人》所属的经济学人集团(The Economist Group)及其咨询部门经济学人信息社(The Economist Intelligence Unit)的网站并未被屏蔽。</p>
-<p>GreatFire.org还<a title="Link: https://en.greatfire.org/www.time.com" href="https://en.greatfire.org/www.time.com" target="_blank" rel="nofollow">表示</a>，从4月5日开始，搜索《时代》周刊的网站或该杂志的封面文章的人经历了频繁的连接重置。中国的互联网控制系统，又名“防火长城”，对包含某些受审查关键词的网络请求连接进行了重置。《时代》的移动应用仍可使用。</p>
-<p>两家杂志均于本周在线发表封面文章，对习近平加强对中国政治的控制，并在自己周围创造个人崇拜的做法加以审视。</p>
-<p>“他回到了毛时代：个人崇拜、赞扬国有部门、抨击自认为有意摧毁中国的外国人，”《时代》周刊的汉娜·比奇(Hannah Beech)<a href="http://time.com/4277504/chinas-chairman/" target="_blank" rel="nofollow">写道</a>。</p>
-<p>自2013年上台以来，习近平打压中外新闻媒体，并发起了一场广泛的反腐运动。数千名政府官员在该运动中被捕。两篇封面文章均对习近平的铁腕治国手段持批评意见。</p>
-<p>“习近平是自毛泽东以来掌握权力最多的中国领导人，”《经济学人》的<a href="http://www.economist.com/news/leaders/21695881-xi-jinping-stronger-his-predecessors-his-power-damaging-country-beware-cult" target="_blank" rel="nofollow">文章</a>说。“这理应让他有能力把事情做成。哪里出问题了？”</p>
-<p>《经济学人》北京分社社长约翰·帕克(John Parker)表示，“据他所知”杂志未收到网站会被屏蔽的警告。他说，中国外交部的确就封面文章一事联系过该杂志，但并未谈及屏蔽网站。</p>
-<p>“他们表达了对那篇文章的不满，并希望我向伦敦的编辑转达他们的不满，我照做了，”帕克说。</p>
-<p>2001年，《时代》周刊在写了一篇有关法轮功的封面文章后被禁止在中国的报刊亭出售。法轮功是一个被中国政府宣布为非法的组织。只过了几年，该禁令便被取消。记者无法立即联系到《时代》周刊的代表请其置评。</p>
-<p>以前，《经济学人》有过单独的文章被屏蔽的经历，包括2015年8月的一篇<a href="http://www.economist.com/news/leaders/21660977-communist-party-plundering-history-justify-its-present-day-ambitions-xis-history" target="_blank" rel="nofollow">文章</a>，关于中国政府为了给习近平的军事野心寻找依据，对历史叙事进行了重新构建。此次是其应用首次被屏蔽。</p>
-<p>中国政府经常阻止对一些文章或整个网站的访问，认为它们含有不利的内容。距今最近的例子是，在来自巴拿马律师事务所莫萨克-冯塞卡(Mossack Fonseca)的泄露文件被公开后，中国社交媒体上所有提到巴拿马和巴拿马文件的内容都被<a href="http://cn.nytimes.com/china/20160406/c06chinapanama/" target="_blank" rel="nofollow">屏蔽</a>了。那些文件详细介绍了一些离岸空壳公司的所有权，其中几家公司和中国高层领导人的亲属有关。中国的编辑<a href="http://chinadigitaltimes.net/2016/04/minitrue-delete-content-related-panama-papers-2/" target="_blank" rel="nofollow">被要求</a>删除网站上提到巴拿马文件的任何内容。</p>
-<p>2012年10月，《纽约时报》发表了一篇<a href="http://cn.nytimes.com/china/20121026/c26princeling/dual/" target="_blank" rel="nofollow">报道</a>，揭露中国前总理温家宝的隐蔽财富。之后，时报的英文和中文网站被屏蔽至今。尚不清楚《经济学人》和《时代》周刊的网站会被屏蔽多久。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E5%8F%8A%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%91%A8%E5%88%8A%E7%BD%91%E7%AB%99%E9%81%AD%E4%B8%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%BD%AE%E5%8A%9F/?category=18271" rel="tag">法轮功</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/?category=18271" rel="tag">经济学人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%89%8D3%E4%B8%87%E8%8B%B1%E9%95%91%E8%8B%B1%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%B0%B1%E9%97%B9%E6%88%90%E8%BF%99%E6%A0%B7-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E7%9A%84/" target="cdt-mirror">博谈网｜才3万英镑英国人民就闹成这样 中国网民的“冷嘲热讽”</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=550%2C364" alt="卡梅伦" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=768%2C508 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?w=962 962w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>卡梅伦从海外基金受益才3万英镑英国人民就上街了</p>
-<p>（博谈网记者苏智敏报道）巴拿马文件揭露全球政商名人避税、洗钱的秘密，英国首相卡梅伦的已故父亲伊恩•卡梅伦（Ian Cameron）也名列其中。</p>
-<p>连日来的压力，英国首相卡梅伦的态度终于从一开始的否认，转变为承认从父亲创设的海外基金受益3万英镑（约合人民币28.8万元），并已于2010年脱手。</p>
-<p>卡梅伦虽然称“这些基金获益我们都有缴税，而且没有什么事情需要隐瞒。”却仍引来英国民众不满。</p>
-<p>据英国媒体报导，2千多位民众于伦敦时间9日上午11时聚集在首相办公室唐宁街10号抗议。群众高喊“关闭税务漏洞、不然就辞职”，也有民众高举“卡梅伦下台、逃税是犯罪”、“卡梅伦必须滚”、“避税有罪”等标语，还有一部份的抗议民众拿着纸糊的卡梅伦小猪或头戴猪头套，抗议卡梅伦中饱私囊。</p>
-<p>为了抚平大众怒火，卡梅伦公布他的税务资料，成了首位公开这类资料的英国在任首相。据BBC中文网10日报导，卡梅伦2010年出售海外基金股份赚得19,000英镑利润，并申报利润当中所占的9,501英镑；通过出租伦敦住宅获得46,899英镑的收入；父亲去世时继承30万英镑遗产，隔年再收到两笔各10万英镑的款项，以完成全部遗产继承；其他还有获得来自保守党的可征税支出、银行存款利息、首相薪酬等等。</p>
-<p>而卡梅伦公布的税务信息显示，他在2014到2015年间缴纳个人所得税近76,000英镑。他还宣布成立一个特别工作组调查有关避税的指控。</p>
-<p>“多学学中国”后的无奈</p>
-<p>中国政府至今仍竭尽所能的封锁巴拿马文件的所有消息，英国首相卡梅伦和抗议民众的举动，自然是其封锁的目标。但百密必有一疏，走露的消息仍引来中国网友议论。</p>
-<p>不少网友笑说，才3万英镑英国人民就闹成这样，呵呵！</p>
-<p>另有人讽刺的表示，卡梅伦太笨了，应该先封锁消息，再叫外交部辟谣，并把传谣者抓进监狱，同时对他们的家人施暴，就全解决了。</p>
-<p>英国首相的官方微博，一则发表于今年2月5日，卡梅伦向中国民众拜年的影片，下面也有不少网友以各种反讽的方式，要卡梅伦多学学中共政府。</p>
-<p>例如有人说，终于知道资本主义不好了吧，中国只要有人发帖就删帖，至今仍风平浪静的。</p>
-<p>还有网友极为挖苦的表示：“没有共产主义光辉照耀的英国人民素质就是低！还搞什么游行，你们这是妄图颠覆国家政权！武警呢？坦克呢？”以此反讽六四及不断以煽动颠覆罪来打压维权律师及异议人士的中国现状。</p>
-<p>各式嘲讽的留言搭配大笑、斜视或挖鼻孔的表情图片，看似有些欢乐的画面，背后却是充满中国民众的无奈。</p>
-<p>另外，相较上述网友对卡梅伦的“冷嘲热讽”，网友“苏小和”的评论显得严肃，他表示：“连卡梅伦这么干净的人也面临辞职，政治家真是一个风险最大化的职业。而某些国度的官员，真是黑暗得就是一群幽灵，浑身长满了毒疮和蛆。然而他们看上去总是那么伟岸，那么自信。让人不得不承认，虽然都是人，但人和人之间，国家和国家之间，的确存在特色差异：有罪之人与魔鬼的差异。”不过这则评语已被屏蔽。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%89%8D3%E4%B8%87%E8%8B%B1%E9%95%91%E8%8B%B1%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%B0%B1%E9%97%B9%E6%88%90%E8%BF%99%E6%A0%B7-%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +698,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +708,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

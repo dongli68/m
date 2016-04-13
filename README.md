@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%88%91%E5%9C%A8%E4%B8%80%E5%AE%B6%E8%B7%91%E8%B7%AFp2p%E5%85%AC%E5%8F%B8%E5%B7%A5%E4%BD%9C%E7%9A%8448%E5%B0%8F%E6%97%B6/" target="cdt-mirror">墙外楼 | 我在一家跑路“P2P”公司工作的48小时</a>
@@ -73,7 +73,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/23%E6%9D%A1/?category=18271" rel="tag">"23条"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E9%94%80/?category=18271" rel="tag">传销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E5%BC%8F%E5%9F%B9%E8%AE%AD/?category=18271" rel="tag">洗脑式培训</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E8%90%A5%E9%94%80/?category=18271" rel="tag">洗脑营销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84/?category=18271" rel="tag">非法集资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AA%97%E5%AD%90/?category=18271" rel="tag">骗子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AA%97%E5%AD%90%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">骗子公司</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 25分钟前</small>
+	<small> ============== 1小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B1%B1%E5%AF%A8bbc%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%BA%E7%89%A9/" target="cdt-mirror">【立此存照】山寨BBC背后的人物</a>
 </h2>
@@ -706,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A7%9A%E9%81%A5%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%AE%89%E6%8A%9A%E9%AD%82%E9%A3%9E%E9%AD%84%E6%95%A3%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/" target="cdt-mirror">姚遥：谁来安抚魂飞魄散的中产阶级</a>
+</h2>
+<p><p><strong>人们放弃了对终极正义不切实际的追求之后，最后在乎的就是内心深处最简单而脆弱的正义底线，不会在态度上遭受粗暴地践踏，导致心底的戾气在失衡状态下被猛烈地释放出来。</strong></p>
+<p>虽然头条新闻不停地往外蹦，可还是要记得，上海公安部门破获了1.7万罐假冒名牌奶粉的大案。不管怎么说，政府部门阻断假冒产品流入市场终归是件好事。只可惜，这样的一件好事功臣们高兴不起来。在消息发布的第一时间里，食药监总局公布假冒奶粉符合国家标准，瞬间抢走了全部的聚光灯，这么大的风头上，友谊的小船真是说翻就翻。</p>
+<p>为何国家食药监总局苦口婆心地要宣布“假奶粉符合国标”，他们理由很坦诚：不是为了欺骗大家，而是提醒大家不要恐慌。</p>
+<p>虽然他们就这么说，可我还真是信了，谁让这一届的科普爱好者不给力。奶粉事件之前，济南公安部门破获了一起疫苗非法经营的大案，科普爱好者们不过打了一个盹的功夫，人民已经像受惊的小兔子一样开始四处乱窜，加上几年前关于疫苗问题的新闻报道被翻出来，一时间变得人心惶惶，人人自危。等到科普安好者出来力挽狂澜的时候，民心的潮水已经将他们彻底淹没，国人对国产疫苗的信心彻底跌停。</p>
+<p>食药监部门在疫苗问题上吃了一个大亏，于是在奶粉问题上的表现就不足为奇。可是，食药监部门在忙乱之中还是考虑不周，科普工作者对问题的解读在科学上固然有道理，然而民间认得理还要更高一层。</p>
+<p>汉高祖刘邦带兵打入咸阳之后，很快就与民约法三章：杀人者死，伤人及盗抵罪。这个两千多年前的道理简单实用，人们求的是最基本的公平能有保障，从而可以安心生活。每个人都会在心中默默地盘算了，我付出了多少，就应该得到多少，如果失去，需要同样的补偿。如果人们花钱买了奶粉，结果拿到的是面粉，即便是安全的，也是不公平的。而人们去打了疫苗，期望得到的是对疾病的抵抗，就算是被注射了一针纯净水，心里如何能够保持平静。</p>
+<p>在基本公平遭到破坏的情况下，受害者的心中自然地会放大恐惧与怨恨，也会本能地放大加害者的迫害。在和颐酒店的风波已经消退以后，大众大体可以认同酒店里的施暴男子是卖淫集团的打手，当时试图恐吓他们错认了的性工作者。相反的是，受害者在此之前却一直惊恐于当时可能遭遇抢劫或者强奸这样的严重暴力侵害，事件中相当的第一时间围观者们也怀有着类似的恐惧。受害者心理阴影面积越大，对加害者的过度想象也要同样的扩大。</p>
+<p>在和颐酒店袭击事件的诸多信息还没有水落石出，受害者的吉凶祸福都难以进一步预料之时，倘若有人非要像科普爱好者一样跳出来嘲笑受害者的无知，一本正经地斥责那位姑娘，我聪明的大脑已经用逻辑分析出来了，你根本不会被强奸，你不过是被骚扰了一下而已，你这样过激的反应是无知的表现。在人心的天平上，这样的行为完全无助于为找回公平加分，更类似一位炫智狂人自带干粮的助纣为虐。</p>
+<p>更何况，从疫苗到奶粉，政府部门不仅作为监管部门守土有责，还要求海外的奶粉必须加价才能进入国内，用国家的强力推行疫苗注射，当有关部门对民众要求更多的时候，民众也自然而然地心存了更高的对价。民众感觉被亏欠多，心中积郁的势能也就越大，不经意之间的一个小问题，可能随时引发诸多小火山的共鸣。因此，有关部门面对充满着受害者怨恨的人群时，还着急地炫耀科学上的冷门知识，宣布问题疫苗无毒，假冒奶粉无害，表现得更像在帮助侵权者。</p>
+<p>就算真的纵容了侵权者，不管在出现多大的社会问题的时候，民间已经根本不在乎什么追责，试图通过世俗的法律来寻找到终极的正义。人们放弃了对终极正义不切实际的追求之后，最后在乎的就是内心深处最简单而脆弱的正义底线，不会在态度上遭受粗暴地践踏，导致心底的戾气在失衡状态下被猛烈地释放出来。</p>
+<p>如此恶劣的社会环境之下，简单而原始的正义原则，不仅仅是憋屈，也必然被扭曲。人们虽然坚信最基本的公平，但一定更加相信一部分人比另一部分人更加公平。17世纪的法学家就发现了，人们对社会生活的欲求并不是统一的标准，而是指按照他们的智识标准跟那些与他们自己同属一类的人过和平而有组织的生活。</p>
+<p>为此，当食药监部门两次跌倒在民间淳朴的公平正义观念面前，他们也在不经意之间解救了自己一次。在躁动的疫苗恐慌之中，人们甚至于根本不关心原来犯罪分子已经被抓获，而是回想起过往听闻的疫苗危机导致了多少人受害，他们是否有可能成为下一个受害者。</p>
+<p>直到最后一场发布会上，人们期待已久的信息终于被官方权威发布，问题疫苗大部分已经使用，而且主要流向农村偏远地区。</p>
+<p>这一则消息让连续紧张了好几天的城市中产们瞬间卸下了肩头的重担，也让话题迅速地退出了热榜。虽然偏远地区的人并不比城里人更喜欢注射据说无害的问题疫苗，但是户籍、地理和经济的分割线，华丽地将城市中产与偏远农村隔离成了两个难以逾越的世界。掌握着网络话语权决定性力量的城市白领，又开始相信公平，只要他们足够地努力，就能够摆脱免于被害的生活，至少这一次的问题疫苗并没有落在他们的头上。在没有受到伤害的时候，城市白领的头上还悬挂着多少达摩克利斯之剑，并不重要。至于问题疫苗对偏远农村地区带来了多少伤害，不再重要。没有话语权的偏远农村，默默地消化了这一场闹剧的全部结果。</p>
+<p>可以想见，食药监部门在疫苗问题上并没有清晰地诊断好民间社会的正义脉相，为此即便无意中解救了一次自己，但很快又将自己埋葬在同一个土坑内。</p>
+<p>假冒奶粉案件背后的事实在于，无论海淘面临着多么高的门槛，只要家里尚有条件的情况，境外代购的奶粉一定是第一选择，大陆范围内销售的外国品牌奶粉是第二选择。至于做出剩余选择的家庭，大体相当于疫苗问题界的偏远农村，属于占有社会资源较少的群体。</p>
+<p>为此，假冒奶粉案件的爆发，食药监部门看错了人民，希望通过着急的解释避免人群又恐慌起来。而多少人只是淡淡的会心一笑而已，完全没有心急如焚的感觉，经过这么多年实践的考验之后，假冒伪劣奶粉与人民健康之间的矛盾，已经转变成了跨境购买奶粉的大陆客与香港本土父母之间的矛盾。不同社会阶层的人群，总会形成特定阶层适应社会的最舒服的姿势。对中产来说，即便贫贱不能移，难道还买不起洋奶粉吗！</p>
+<p>当然，疫苗事件之后，中产们貌似淡定了下来，一衣带水的香港人却被吓出了一身冷汗，连忙宣布不欢迎大陆人来香港打疫苗。</p>
+<p>不过说起疫苗，我不得不想起二十多年前有一个在国内许多地方都流行的谣言。谣言说，有一男一女两个外国人来给中国的小孩子注射疫苗，男医生给男孩子在太阳穴上注射，女医生给女孩子在肚脐眼注射，疫苗是强制性的必须注射，而且只要注射完小孩马上就会死掉。周边县市已经有多少个学校整片整片的死人了，现在正在往我校方向赶来，据说几点钟就要到。这个瞬间爆发的谣言，让许多小孩子们在绝望中惶恐的嚎啕大哭，许多学校特意紧急停课，让小孩们回家避难。</p>
+<p>这个事情过去以后，我一度难以理解，为何这样简陋的信息就能引起如此严重的恐慌。直到我看到疫苗事件爆发的那一天，我才看到，在法律与秩序失灵时，事件中声音最大的中产阶级们，不过是用最简陋的公平原则压抑着内心的戾气，消费不同社会阶层的差异维系表象的体面，用逃亡的脚步作为自我保护的盾牌。与此同时，他们又是无比的清醒，公平与正义遥不可及，始终处于不安宁的惶恐之下。</p>
+<p>于是，每当社会中出现一个致命的涟漪，就激起了澎湃的魂飞魄散。而中产阶级，如同其他人群一样，在魂飞魄散之中找不到灵魂的安宁。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A7%9A%E9%81%A5%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%AE%89%E6%8A%9A%E9%AD%82%E9%A3%9E%E9%AD%84%E6%95%A3%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%B5%E6%9D%83%E8%80%85/?category=18271" rel="tag">侵权者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">基本公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">社会公平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%88%E8%AE%BA%E7%8E%AF%E7%90%83%EF%BC%8C%E8%AF%B7%E5%85%88%E7%A1%AE%E5%AE%9A%E4%BB%80%E4%B9%88%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84%EF%BC%9F/" target="cdt-mirror">旧闻评论｜宋志标：谈论环球，请先确定什么是无辜的？</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg" rel="attachment wp-att-434978"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?resize=450%2C672" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?w=636 636w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>题图当代水墨，作者新浪微博：@秃头倔人</span></p>
@@ -633,60 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E7%A6%81%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%98%AF%E6%96%AD%E4%BA%86%E5%BA%95%E5%B1%82%E6%B0%91%E4%BC%97%E7%9A%84%E8%B7%AF/" target="cdt-mirror">网易回声 | 禁电动车是断了底层民众的路</a>
-</h2>
-<p><p><strong>中国地方政府既不花心思改善公共交通，也不考虑对电动车划分明晰路权，更不会对电动车车主进行安全教育或者牌照登记管理，在不管不问多年后，却要没收你的私人财产。今天他们会禁摩限电，明天他们就会砸烂其他他们没能力管的交通工具。</strong></p>
-<p>本文系网易原生内容中心《回声》栏目出品，每周一至周五准时更新。</p>
-<p>3月下旬开始，一场史上最严的“禁摩限电”运动席卷深圳。深圳交警采取前所未有的力度，对摩的、电动车围追堵截，不到10天时间，就查扣了17975辆电动车，拘留874人。快递业叫苦不迭，而普通民众也是怒撒街头，有人宁愿将自己电动车砸烂，也不愿让执法人员没收。</p>
-<p>4月4日，深圳方面召开“禁摩限电”记者会。就如同中国绝大多数地方政府一样，深圳方面不反思自己的城市管理水平，却继续将责任丢给电动车和车主，指责电动车事故多发，隐患重重。既然深圳此次“禁摩限电”是之前政策的延续，深圳也不是第一个把屠刀挥向电动车的城市，那就让我们看看，到底是谁让中国民众选择电动车，是谁让电动车发展乱象频出，又是谁三番五次让民众无车可用、无路可走的。</p>
-<blockquote><p>公共交通落后，政府又禁了摩托，被逼无奈中低收入者只能选择电动车。</p></blockquote>
-<p>中国电动自行车（下称“电动车”）销售，从1998年的区区4万辆猛增至2005年的1000万辆，而电动车保有量从2004年不足2000万辆，增加到2014年的2亿辆——这种由人力驱动自行车向电池驱动自行车的快速转变，迄今为止只在中国发生过。毫无疑问从90年代以来，电动自行车技术，特别是电机以及电池技术的重大进步，为电动车发展创造了条件。但中国的电动车热潮，也是城市公共交通水平低下、政府威逼利诱的结果。</p>
-<p>生活在中国大城市，简陋的公共交通体系让人不得不寻找替代的出行方式。经合组织(OECD)披露，中国城市公共交通长期滞后于城市化进程，也远远落后于全球各大城市的发展。截止到2012年，英国伦敦轨道交通密度为567米/平方公里，法国巴黎为446米/平方公里，日本东京-横滨为407米/平方公里，而中国表现最好的上海，也仅为130.3米/平方公里。考察轨道交通可用率，中国也是惨不忍睹，英国伦敦可用率达到了192公里/百万人，日本东京-横滨为69公里/百万人，而表现最好的北京，竟然才25.9公里/百万人。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=600%2C375" alt="2015年12月24日，北京地铁人满为患。/视觉中国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?resize=1024%2C640 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060eeea.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2015年12月24日，北京地铁人满为患。/视觉中国</p></div>
-<p>公共交通越落后，人们就越不愿意乘坐。2007年，加州大学戴维斯分校的乔纳森•维纳特(Jonathan Weinert)在《中国电动自行车的崛起》中提到，当石家庄的电动车使用者被问及如果他们不能使用电动车，他们会选择什么替代方式出行，不到40%的人选择了公交（剩下的人选择出租车和汽车的人寥寥无几）；上海公交系统稍微好一些，愿意改乘公交的电动车使用者也不到60%。</p>
-<p>对中低收入群体来说，就算公共交通条件艰苦，他们本可以选择购买摩托车。但从90年代末开始，中国上百个城市以环境污染、交通事故频发为由，开展了如火如荼的“禁摩”运动。根据清华大学、加州大学戴维斯分校和加州大学伯克利分校三位教授的研究，“禁摩”运动推动了电动车数量的井喷。上海从1996年开始限摩，2002-2004年，使用汽油的摩托车因为受到禁止，从350万辆下降到250万辆；使用液化石油气的摩托车仍被准许上路，从不足10万辆，增加到将近100万辆。而不受任何束缚的电动车涌入上海市场，短短两年内从无到有，增长了近400万辆。其他“亲电动”的城市如成都，“禁摩”运动甚至使得电动车数量在上述两年内超过了自行车。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=600%2C375" alt="2006年，广州街头以载客谋生的摩托仔。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380657504.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2006年，广州街头以载客谋生的摩托仔。/视觉中国</p></div>
-<p>地方政府无力改进公共交通，又禁了摩托，那么那些买不起汽车的人，当然只能购买电动车。根据深圳市规划国土发展研究中心郑伶俐的2014年调查数据，深圳市电动车使用者当中，年收入在2-6万之间的占了70%，多为中低收入者。58%的人购买电动车，是为了上下班通勤。其他城市的调查结果，大多也显示中低收入者是电动车的主人。</p>
-<blockquote><p>电动车乱象不怪电动车和车主本身，而是地方政府惰政的错。</p></blockquote>
-<p>可惜的是，电动车作为中低收入者的最佳选择，它的发展却越来越偏离了本该走的路。翻看城市的社区论坛，许多市民恨不得将电动车大卸八块。在这些市民看来，电动车来无影去无踪，时速可达30-40公里/小时，稍不留神就可能把人撞得半身不遂。他们指责电动车产商无良，生产销售超标电动车，他们指责电动车车主收入低，素质也低，一篇文章将电动车车主称为“电动车毛贼”。有人甚至拍手叫好，认为此次深圳市“禁摩限电”也是顺应了民意——深圳交警称，摩托车、电动车乱象占到政府收到的所有交通类投诉65%。</p>
-<p>但愤怒市民们的矛头还是指错了方向，电动车乱象不是电动车车主也不是产商造成的。1999年电动车国标规定电动车时速不超过20公里，质量不大于40千克，允许“超标但整车合格”现象，这个标准从2002年电动车行业转向“轻摩化”后就已经严重落后于市场，现在市面上的电动车车速大多超过了这一标准。2004年《道路交通安全法》出台，并且在2008年、2011年修订，前后三次规定电动车在非机动车道行驶时，最高时速不超过15公里。《道交法》是上位法，所以最终执行的不是20公里，而是15公里，这完全是强人所难。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=600%2C375" alt="2012年11月，西安一对骑电动的母子被水泥车撞倒。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604070438060d7f3.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2012年11月，西安一对骑电动的母子被水泥车撞倒。/视觉中国</p></div>
-<p>符合国标的电动车市场不接受，市场接受的电动车又不符合国标。而2009年电动车国标，曾准备将时速20-50公里，质量大于40千克的电动车称为“轻便电动摩托车”，划入机动车来接受管理，意味着市面上超过90%的电动车都要变成机动车。这一规定遭到各地自行车协会的强烈抵制，国家标准化管理委员会最终暂缓了这一规定的实施。也就是说，时至今日电动车的身份仍然是非机动车，需要在非机动车道上跑，跑的时候时速不超过15公里。</p>
-<p>超标电动车车主名义上驾驶着非机动车，但限速15公里的非机动车道对他们来说太憋屈，另一方面，地方政府不愿意将机动车车道划给数量庞大的电动车，理由是道路资源紧张。此外，《道交法》将电动车是否实行挂牌登记管理的权限下放到了省级政府，这意味着像深圳这样之前不管不问的城市，电动车车主都不需要接受安全教育、考驾照、买交强险和给车辆登记上牌，有车主不遵守交通规则当然也在意料之中。也就是说，电动车本身没有错，错在于政府没有进行合适的监管。</p>
-<blockquote><p>想方设法降低摩托事故率、提高行车效率，台湾县市对摩托的态度会让中国大陆地方政府脸红。</p></blockquote>
-<p>在深圳“禁摩限电”运动蔓延到广州、北京等地之时，台湾不禁摩的文章已经在社交网络上被转了好几轮。大陆人惊讶地发现，台湾摩托车（也称“机车”）登记量超1500万辆，平均每1.5人拥有1辆摩托车，台湾城市却有着看起来井然有序的交通——原来政府也是可以管好两个轮子的车的。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=600%2C375" alt="2013年11月，台北摩托车大军。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=768%2C480 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?resize=1024%2C640 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a930c.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2013年11月，台北摩托车大军。/视觉中国</p></div>
-<p>在台湾，摩托车曾经被定义为自行车转换到汽车的过渡工具，将随着经济发展而逐渐消失，但台湾摩托车却从未停止过增长的势头，也引发了诸如堵车、停车不便、事故频发等交通混乱问题。1999年，台湾“交通部”没有禁摩，反而开始推动汽车、摩托车分流项目。台湾当局希望通过设置摩托车专用道、摩托车优先道，来减轻路段中汽车、摩托车在变换车道时发生的交通冲突，有部分县市已经在做。</p>
-<p>例如道路资源紧张的台北县，于2007年开始试点一系列汽、摩分流策略，并首创将摩托车专用道、优先道刷成砖红色。2010年，台北县“交通局”在台湾《交通学报》上分析称，台北县环河路进行汽、摩分流以来，摩托车肇事死亡人数从2006年的24人，降至2007年的11人，2008年仅为2人，分流成效显著。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380696b7f.jpg?resize=600%2C375" alt="2016040704380696b7f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380696b7f.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016040704380696b7f.jpg?w=691 691w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>台湾台中一道路，汽车、摩托分流明显。/视觉中国</p></div>
-<p>台湾“交通部”持续收集民意，希望能改进摩托车交通现状。2015年10月，“交通部”发布《机车使用状况调查摘要分析》，发现摩托车车主认为最需要增设的硬件设施就是摩托车专用道，其次是摩托车路边停车位。“交通部”敦促台湾各县市政府应先了解民众意向再因地制宜地制定措施。2014年，“交通部”还委托台北市交通安全促进委员会，撰写《和机车族对话执行计划》。该计划花了大量篇幅对台湾各县市目前的交通工程提出批评，例如建议重新检讨设计道路宽度与道路工程品质。“两段式左转”在防止摩托车左转事故发生上取得了一定成效，但该计划仍批评未采取配套设施的“两段式左转”形同虚设，应予以重新设计。</p>
-<p>由于摩托车驾驶行为相较于汽车更复杂、多变，摩托车行驶过程中，受到环境影响更为广泛直接（雨天路滑、路面颠簸），因此风险意识教育、驾照考试都变得尤为重要。台湾摩托车驾考分为重型和轻型两种，轻型只要进行交规笔试，重型除了交规笔试外还需参加路考。2014年起，全台范围内从未领过驾照的生手，必须接受交通安全宣导课程教育。即便如此，台湾许多学者认为驾考严厉程度还远远不够，台湾中央警察大学的周文生等二人呼吁学习澳大利亚、新西兰和英国的根据年龄、驾驶经验进行分级的考试方法。</p>
-<blockquote><p>消灭交通工具非常懒惰和愚蠢，更糟糕的是，这种管理方式竟然是违法的。</p></blockquote>
-<p>顾及到广大摩托车车主就是把自己选上台的那些人，台湾各县市官员想方设法满足摩托车车主的需求。给台湾县市官员天大的胆子，他们也不敢暴力消灭一种广受欢迎的交通工具。而中国大陆的地方政府不仅采取了这种最懒惰、最愚蠢的管理方式，更糟糕的是，这种违法的管理方式被各地再三使用。</p>
-<p>据湖南大学的严亮等人分析，2005年5月广东省珠海市人大通过“禁电令”，却违反《道路交通安全法》，因为珠海市人大不是省级政府，无权禁止符合国标的电动车上路；2006年广东省广州市公安局的“禁电”通告，依据广东省人大制订的《广东省道路交通安全条例》，该条例授权省级政府决定对电动车不予登记、不准上路行驶的规定，违反上位法《道交法》，因为《道交法》授权省级政府确定非机动车登记管理范围，没有授权其禁止电动车上路。广州市并不死心，不久前广州市人大开始审议《广州市非机动车和摩托车管理条例（草案）》，拟对电动车、摩托车实施“五禁”，即使他们可能没有这个立法权限。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=600%2C375" alt="2016年4月2日，深圳收缴的电动车形成“坟场”。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?resize=1024%2C640 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160407043806a8df4.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2016年4月2日，深圳收缴的电动车形成“坟场”。/视觉中国</p></div>
-<p>本次深圳的做法，是4年前一纸禁令的延续，也是广东省同胞城市违法行为的复制。像中国的许多地方政府一样，深圳既不重新规划道路以改善公共交通，也不考虑对电动车划分出明晰路权，更不会进行电动车车主的安全教育、登记上牌，他们只会在不管不问许多年之后，一夜之间要来没收你的私人财产，顺便搞一个假惺惺的“备案制”。地方政府昨天能禁你的摩托，今天能限你的电动，那么明天当然也能砸烂更多他们不想管也没能力管的交通工具。</p>
-<p><strong>参考资料</strong></p>
-<p>OECD. (2013). OECD Economic Surveys: China 2013.</p>
-<p>Jonathan Weinert. (2007). The Rise of Electric Two-wheelers in China: Factors for Their Success and Implications for the Future.</p>
-<p>Jonathan Weinert & Chaktan Ma & Chris Cherry. (2006). The Transition To Electric Bikes In China: History And Key Reasons For Rapid Growth.</p>
-<p>郑伶俐. (2014). 以深圳为例的电动自行车调查分析及对策.</p>
-<p>刘元昌. (2010). 电动自行车的社会规制困境与对策研究.</p>
-<p>严亮. (2012). “禁电令”的法律解析.</p>
-<p>许添本 & 王羲川 & 李明聪. (1999). 机车专用道之交通安全分析：事前与事后之比较研究.</p>
-<p>台北县“交通局”. (2010). 台北县实施汽机车分流专案成效与检讨.</p>
-<p>台湾“交通部”. (2015). 机车使用状况调查摘要分析.</p>
-<p>台北市交通安全促进委员会. (2014). 和机车族对话执行计划成果报告.</p>
-<p>周文生 & 杨仁硕. (2013). 机车驾驶执照考验制度之研究.</p>
-<p>题图：A man rides an electric bicycle past Beijing’s Tiananmen Gate, October 21, 2008. REUTERS/Jason Lee (CHINA)</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E7%A6%81%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%98%AF%E6%96%AD%E4%BA%86%E5%BA%95%E5%B1%82%E6%B0%91%E4%BC%97%E7%9A%84%E8%B7%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7/?category=18271" rel="tag">交通工具</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A/?category=18271" rel="tag">公共交通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">深圳禁摩限电</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%8A%A8%E8%BD%A6/?category=18271" rel="tag">电动车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">禁摩限电</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -698,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -708,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%8B%E5%B8%88/" target="cdt-mirror">BBC | 维权人士浦志强：从今天开始我不再是律师</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?resize=320%2C180" alt="浦志强称，从今天起我不再是律师了。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?w=320 320w" sizes="(max-width: 320px) 100vw, 320px" data-recalc-dims="1"><p>浦志强称，从今天起我不再是律师了。</p></div>
+<p><strong>中国维权人士浦志强周四（4月14日）向BBC中文网证实，他的律师资格被取消。周三，北京司法局印发了《行政处罚决定书》，明确决定吊销其律师执照。</strong></p>
+<p>浦志强向BBC中文网证实消息是真的，并称：“实际上我也希望让那些以为我是律师的朋友知道，从今天开始我就不再是律师了。”</p>
+<p>浦志强还表示，对自己律师执照被吊销的决定并不意外，也是个必然的结果。他解释称：“从认定和判决我有罪并且处以刑罚的那天起到今天，它是个正常流程，也是一个必然的结果。司法局也必须这么做。”</p>
+<p>2015年12月，北京市第二中级法院就中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”一案裁定浦志强有罪，两罪并罚，判处三年有期徒刑，缓刑三年。</p>
+<p>庭审当天，北京二中院外驻扎了大量警力，包括多名疑似便衣警员。BBC记者埃文斯及其采访队报道说，多名到法院外声援浦志强的民众被便衣人员拉走。</p>
+<p>BBC采访团队随后遭警察没收记者证件，警察指控BBC记者无照进行连线报道，违反中国法律。</p>
+<p>美国与欧盟等西方政体认为浦志强只是行使其言论自由，纷纷要求中国无罪释放浦志强，中国则多次强调外国“必须尊重中国的司法主权”。</p>
+<p>浦志强也在自己的社交平台微信上表示，做了19年律师，从今天起不再是了。我相信未来，相信未来会改变。</p>
+<p><strong>维权人士浦志强</strong></p>
+<p>浦志强于1965年出生，河北人。曾于北京求学期间，参与1989年天安门学生绝食事件。</p>
+<p>浦志强1995年开始考取律师资格，1997年正式执业。浦志强从业初主要代理商业案件，后来开始涉足维权和异议人士案件。</p>
+<p>他曾代理异议人士谭作人、重庆涉黒案辩护律师李庄和异议艺术家艾未未的税务案件等。</p>
+<p>并于2013年开始在中国社交媒体微博上“实名举报”时任中共中央政法委书记周永康，表达对其维稳模式的不满。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%8B%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">律师资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8%E7%BD%AA/?category=18271" rel="tag">煽动民族仇恨罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%9C%A8%E5%BE%AE%E5%8D%9A%E4%B8%8A%E5%8F%8D%E5%87%BB%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E8%BE%B1%E5%8D%8Etutor%EF%BC%8C%E7%BB%93%E6%9E%9C%E8%A2%AB%E5%85%AC%E7%9F%A5/" target="cdt-mirror">知乎｜微博反击辱华tutor，被公知日杂攻击怎么办？</a>
 </h2>
 <p><h3><strong><span>问题：在微博上反击悉尼大学辱华tutor，结果被公知日杂攻击怎么办？</span> </strong></h3>
@@ -110,7 +134,7 @@ LOL</p>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">中国留学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%84%9A%E6%98%A7%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E9%85%8D%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9%E5%90%97%EF%BC%9F/" target="cdt-mirror">腾讯大家｜侯虹斌：愚昧的受害者配得到帮助吗？</a>
 </h2>
@@ -635,41 +659,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-11-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 4-11</a>
-</h2>
-<p><p>@renfanzi：去年到今年，我认为网络民意上最大最可喜的变化就是去年大家喜欢问“这个社会怎么了”，今年大家有了结论说“这届人民不行”。<span></span></p>
-<p>@Parsese：没有一个人是不政治的，自称无关政治的人往往很政治，因为丫有鲜明的政治立场，就是犬儒。</p>
-<p>@andyyeung12：南京条约关税5%，你觉得是奇耻大辱。现在你国站起来了，关税最高达50%，还不得不续约！神评：姐夫可以离岸，百姓不能入关。</p>
-<p>@MyDF：目前为止，登载 #巴拿马文件 相关信息的所有网站都被墙了了，最新上榜的是经济学人、卫报、《时代》周刊的官网，陆续被404。你觉得，是应该追究墙的责任，还是追究巴拿马文件的责任，还是追究这些网站的责任？</p>
-<p>@dc_b：《自焚者》的导演或编剧还是不了解共产党在大陆的手法——西装友去控制辉记五金老板家是不需要搜查令的，欧阳健锋在监狱里是会被灌食而不至于致死的——临死前会被取保候审给家人领回去死在医院的，如曹顺利；自焚的婆婆没有机会走到领事馆附近的——三百米之外就会被扑倒，没机会拎着汽油往头上倒的。</p>
-<p>@zrj96117：庆丰年间，人以捕鱼摸蛤为业。</p>
-<p>@Zodiac4698：中共从毛时代开始就有个奇怪的逻辑，无论天大的罪恶，只要老百姓不知道，政权就没事，从周恩来亲自下令销毁大饥荒的证据，到胡德华嚷嚷，不是都删除，销毁了嘛，还能有什么事？！包括六四屠杀第二天，广场上“干干净净”就好像只要后续工作到位，什么都可以当做没发生过一样！无神论者们根本不相信报应。</p>
-<p>@letscorp：过去他们总说要摸着石头过河，现在大家知道了，原来这条河名叫巴拿马运河。</p>
-<p>@letscorp：官场现状：上层离岸，中层离心，基层离职。</p>
-<p>@echopupu：关于海淘、出国买东西课税这事，有个哥们是这样说的：南京条约才5%的税，好想续约～～～</p>
-<p>@letscorp：【明末微型历史情景剧：天子守国门】崇祯：“吾非亡国之君，汝皆亡国之臣。吾待士亦不薄，今日至此，群臣何无一人相从？”众臣工：“坊间皆曰陛下不发内帑犒军，而谕国舅输金银丝帛于红毛离岸处，今有巴拿马纸为证。”</p>
-<p>@uponsnow：“天要下雨，娘要嫁人，姐夫要离岸，这关小舅子什么事？” 遭到初中群同学怒斥后，偶只好暂停安利#巴拿马文件了。</p>
-<p>@格瓦拉：【院内故事】孙子问爷爷：我们院子实行公有制，看着那些肥羊，满地乱跑，它们又不是我们的，可惜了……爷爷笑道：傻小子，财产虽然是个公家的，权力在我们手上啊，当它们有灾难时，你可以说它们自己没有干好，可是真正决定它们命运的却是我们，占了便宜还不用负责，天下去哪找这么好的事情去？</p>
-<p>@damyata：民国文人旧事读来读去，各人品格可见大概，若按猥琐渣男属性把一些人归归类，竟总能得出“怪不得此人贵党喜欢”的奇怪结论。</p>
-<p>@hnjhj：共匪要你相信，自古是一个国家就永远是一个国家。即使前提成立，结论也是荒谬的。世界主权国家从一战时六十个到今天的两百个，说明世界多数国家都是独立出来的。这不仅包括科索沃、东帝汶、新加坡这样的小国，也包括美国、加拿大、澳洲这样的大国。独立并不需要什么前提条件，唯一的判断是人民的意志。</p>
-<p>@youyuping：网易段子：今天你买一台国产的电器，明天监听通话的设备里就有你的一块钱。今天你买一桶国产的奶粉，明天质量监督局领导的桌上就多着你买的一条烟。今天你买一双国产的皮鞋，明天城管队员的皮靴上就有你的血汗。今天你买一辆国产的汽车，明天官二代的进口跑车将碾过谁的身躯？——抵制国货从我做起！</p>
-<p>@fndhrt：上海确实文明程度高。好几百个人去摸鹿晗摸过的邮筒，自觉列队，秩序井然。</p>
-<p>@renfanzi：我看到海关在给海淘加税，银行在给僵尸续命，有人在讲外储企稳，墙内温和通胀，今年不会降息。哈哈哈，去你马勒戈壁的，谁愿意信谁信吧。</p>
-<p>@CorndogCN：墙内微博有位日本农业学家抱怨说他来中国义务教先进的农业技术，但他拿不到签证，要被迫离开。我想说不管你为这片土地做了什么，哪怕你义务献出了自己的生命，你也会被唾弃，仅仅你是日本人。祝川崎先生早日回国，以我对走国的理解，不值得。</p>
-<p>@im_wower：“你妈跟你女朋友同时掉进水里了，你先救谁？”超人：“这个问题难不倒我；我让好基友蝙蝠侠救我妈，我救女朋友。是不是很机智！</p>
-<p>@eMuyi：我说打个电话，你说要微信，恶心我一阵还企图让我加群，which 要求连银行卡，我说你滚粗，你又开始给我发语音。跟你国人交流就他妈这么难。</p>
-<p>@freya_atom：我真是服了我妈了。看了一部垃圾国产片《青春盛宴》。然后胆战心惊给我打电话，说电影里的这些女的想上位啊，想要钱啊，最后都被人骗了！有一个还被杀了！太可怕了！我：……我妈又说：我要给你多寄点生活费！你千万不要因为钱想不开啊！我：妈，你能少看点国产烂片么？我妈：啊？挺好看的啊。</p>
-<p>@mdbxh：【知乎】有哪些说话给人下套的例子？女票对你说，「我今天吃药时接到一个电话，你妈说她病了。」</p>
-<p>@QiubaiBot： 一日与人聊天，问在中国怎么最挣钱，答案五花八门，能源军火毒品……有个幽幽的声音传来，为人民服务，所有人都愣住了，最后默默点头 转。</p>
-<p>@damyata：初中同学在朋友圈发了一大段给七岁女儿的话，大意是：妈妈对不起你，没有给你遗传天分，也没把你生成学霸，你明明已经发着烧还要补习，妈妈很后悔还在控制不住吼你，对你哭喊，但从明天起妈妈要用全新的心态陪着你，你开不了挂妈妈帮你挂（原词，你长不大妈妈帮你长！#几句话描写一个悲惨童年</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-11-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -681,7 +670,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -691,5 +680,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

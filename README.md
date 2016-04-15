@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%97%B6%E4%BB%A3%E5%91%A8%E5%88%8A%EF%BC%9A%E4%B8%AD%E5%85%B1%E7%9A%84%E5%B9%B2%E9%83%A8%E5%8F%88%E5%8F%AF%E4%BB%A5%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BA%86/" target="cdt-mirror">博谈网｜时代周刊：中共的干部又可以打高尔夫了</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg" rel="attachment wp-att-435093"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg?resize=550%2C356" alt="gettyimages-519242360" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg?resize=300%2C194 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>（博谈网记者赵亮编译报道）据《时代周刊》4月14日报道，高尔夫运动被纳入今年的里约热内卢奥运会后普及性飙升。这项曾被毛泽东指责为‌‌“百万富翁的运动‌‌”在中国的统治精英中不再被禁，对于一个现在拥有世界上最多亿万富豪的国家，这多少还是恰当的。</p>
+<p>去年，中国共产党禁止其8800万党员打高尔夫球，因为它意识到该运动涉及的黑幕交易对国家主席习近平席卷性的反腐败运动是严峻考验。其他被禁止的活动包括大吃大喝及用公共资金购买‌‌“月饼‌‌”。</p>
+<p>然而，周二，中国反腐败机构的官方报纸《中国纪检监察报》撤销了对打高尔夫球的禁令，称‌‌“打高尔夫没有对和错‌‌”，因为它‌‌“只是一种运动‌‌”。</p>
+<p>虽然当局仍然禁止中共的干部接受高尔夫会员资格及其他与高尔夫相关的福利作为礼品，但是党员大致用自己的钱不再算违反党规。</p>
+<p>‌‌“打高尔夫本身并不是坏事‌‌”，官方《中国日报》报道说。</p>
+<p>此前的高尔夫禁令令许多人中招。英国广播公司报道说，在9月份，（中国）有60名公务员因使用公款打高尔夫而受到处罚。一个月后，中国南方一个镇的副镇长因为花太多的时间打高尔夫，且支付的优惠会员费（低得）令人生疑而被免职。</p>
+<p>中国与高尔夫的关系一直并不简单。虽然在1949年的共产主义革命之后，高尔夫在中国被禁，但是这项运动在邓小平的经济和社会改革之后于1980年代开始繁荣起来。</p>
+<p>2004年，中国宣布禁止建造新的高尔夫球场。即便如此，中国的高尔夫球场数量至2015年翻了超过一番，达到600个，许多地方政府向往着高尔夫度假村能吸引来旅游业的钱。</p>
+<p>高尔夫对环境的影响让许多中国人斥责该运动。随着中国超过40%的耕地退化，80%的地下水井已被污染到甚至不宜用来洗澡，把枯竭的资源引向高尔夫球场至少可以说是盲目的。去年3月，有66家非法建造的高尔夫球场被关闭。</p>
+<p>高尔夫在中国的人口结构也在发生变化。继该运动被纳入今年夏天的里约热内卢奥运会后，政府的利益和投资催生了新一代的明星。北京18岁的（小将）金城继夺得2015年亚太业余锦标赛冠军后，本月还参加了在美国佐治亚州奥古斯塔的美国大师赛。</p>
+<p>‌‌“高尔夫项目将会进入学校，地方的省级协会正在设定发展计划‌‌”，皇家古老高尔夫俱乐部国际管理机构亚太负责人Dominic Wall说。‌‌“我认为现在人们将会看到一个完全不同的人口结构进入该运动。‌‌”</p>
+<p>中共党员可能不得不排队等候拿回他们的高尔夫俱乐部会员资格。</p>
+<p><em>原文链接：<a href="http://time.com/4293498/china-golf-sport-corruption-graft-communist-party/" target="_blank">China’s Communist Party Cadres Can Play Golf Again</a></em></p>
+<p>编译: 赵亮 作者: Charlie Campbell</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%97%B6%E4%BB%A3%E5%91%A8%E5%88%8A%EF%BC%9A%E4%B8%AD%E5%85%B1%E7%9A%84%E5%B9%B2%E9%83%A8%E5%8F%88%E5%8F%AF%E4%BB%A5%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BC%9A%E6%89%80/?category=18271" rel="tag">高尔夫会所</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%8A%E7%A5%96%E5%9B%BD%EF%BC%8C%E6%88%91%E7%BB%88%E4%BA%8E%E5%9B%9E%E6%9D%A5%E4%BA%86%E3%80%8B%E7%9A%84%E8%B0%8E%E8%A8%80%E4%BD%95%E6%97%B6%E4%BC%91%EF%BC%9F/" target="cdt-mirror">西木：《祖国，我终于回来了》的谎言何时休？</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-5.jpg" rel="attachment wp-att-435084"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-5.jpg?resize=350%2C263" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-5.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-5.jpg?w=350 350w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/12/421202/" target="_blank">央视新闻：美国人宁可枪毙钱学森也不要让他回国</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/421198/">张纯如：《中国飞弹之父——钱学森之谜》导读 </a></li>
+</ul></blockquote>
+<p><strong>微信公号：西木1984（ID: ximu_1984）</strong></p>
+<p>最近，我无意间读了小学课本中一篇文章，名叫《祖国，我终于回来了》。文章讲述的是：我国杰出的科学家导弹之父钱学森，他在美国拥有金钱、地位与名誉，但是他一听说中华人民共和国成立的消息，便决定放弃美国的事业回国工作。但美国当局不准钱学森回国，并将他关在小岛上，钱学森并没有屈服，他坚持斗争了五年终于回到了祖国。</p>
+<p>事实上，这篇文章被选入小学课本由来已久，在我还上小学时，也在老师的指导下，充满激情地朗读过，甚至也被钱学森先生的爱国热情感动过，对美帝的亡我之心憎恨过。</p>
+<p>合卷之后，环顾四周，一片宁静之中，是夜的深沉，时光仿佛并未荏苒，它凝固在了这篇文章之中，让我恍惚地觉得，这外在的一切的变化都是虚幻，我们仍在一个谎言的迷宫中原地踏步。</p>
+<p>关于他回国的决定，文章是这样描述的：</p>
+<p>但是，当他听到中华人民共和国成立的消息后，立即决定放弃在美国的一切。他说：“我是中国人，我可以放弃这里的一切，但不能放弃祖国。我应该早日回到祖国去，为建设新中国贡献自己的全部力量。”</p>
+<p>有关他回国的经过，文章是这样描述的：</p>
+<p>美国当局听说钱学森想回国，十分害怕，害怕他带回航空新技术，使新中国的科学技术高速发展，就采用了卑鄙的手段迫害他。</p>
+<p>当他历尽艰辛回到中国后，文章饱含深情写道：</p>
+<p>1956年9月17日，钱学森登上了返回祖国的轮船，10月8日到达广州。他含着幸福的泪花回到了祖国的怀抱。</p>
+<p>1956年10月8日，钱学森博士从美国回到了祖国。到达北京的第二天，他就带着全家人来到天安门广场。望着雄伟的天安门城楼，他激动地说：“我相信我一定能回到祖国，现在我终于回来了。”</p>
+<p>可以说，文章渲染了一种浓烈的“爱国主义”，且在字里行间都浸透着钱学森的爱国情怀。它在告诉我们的小学生，钱学森是因为热爱新中国、热爱共产党，才毅然决然放弃了在美国的优越生活，并冒着生命危险，投入到新中国的火热建设中。然而，事情真是如此吗？</p>
+<p>有关钱学森回国的真正原因，随着冷战的结束以及大量史料和档案的公布，已经不是什么秘密。比如张纯如女士在她所写的《钱学森传（蚕丝）》中，就对钱学森回国的真正原因有过详细且较为可靠的描述和分析。</p>
+<p>通过查看大量的档案和对钱学森在美国的师友、同事做的访谈，张纯如女士为我们勾画了一幅钱学森回国前的生活景象。</p>
+<p>事实上，当钱学森在1949年夏天抵达加州理工学院之时，种种迹象均表明，他准备在这里永久居住下去，他不仅接受了这里的终身教授的职务，出任了设在此处的喷气推进研究中心的主任一职，而且据他的朋友回忆，他还准备买个房子。</p>
+<p>甚至在被怀疑为是共产党员，接受美国政府调查期间，钱学森仍然希望通过努力让自己能够留在美国，甚至在遭到逮捕前，他还向美国政府递交过希望入籍美国的申请表。其实，从本质上说，钱学森是一个羞涩、内向、天资卓越的科学家，他毕生都渴望在和平环境中工作，就当时的情况来说，美国无疑是他最佳的选择。</p>
+<p>那么，是什么因素促使他决定离开美国呢？用他的恩师冯·卡门的话说，是自尊心受到伤害让他做出了这个重大的决定。在冯·卡门眼里，钱学森从一开始就是一个极其骄傲的人，而一连串的成功又助长了他的傲慢，使得他有些时候甚至表现得令人无法忍受。他因被怀疑是共产党员而被剥夺了保密许可证，从此无法参与美国军方的机密项目，这件事对他造成了巨大的侮辱，他觉得自己“丢了脸”。</p>
+<p>而父亲的催促也是一个不容忽视的因素。自1949年新中国成立后，钱学森就开始收到父亲钱家治的来信，一封比一封哭泣更急迫。父亲催促他尽快回国，因为自己将接受一个胃部手术。很显然，他也希望能够与从未谋面的孙子孙女共享天伦之乐。这个因素对钱学森的影响可在他与移民局官员的谈话中得到证实。</p>
+<p>更重要的原因是美国政府对他所造成的伤害，比如监控、限制人身自由，逮捕，甚至驱逐出境，都在内心深处让他感到愤怒和失望。因此，可以说美国政府在麦卡锡主义盛行的时代犯下的愚蠢的错误，才是逼迫钱学森离开美国，回到中国的真正原因。这当中的掺杂着那个时代的政治因素、民族因素、国家情感，个人现实等等，岂是一句爱国主义情怀能够道尽的？</p>
+<p>可以说，钱学森的回国是冷战的一个绝佳反讽。他在美国接受教育并成长，留美经历长达15年，甚至想过为这个国家效忠毕生。但因冷战爆发，他才被强制遣返回中国，无奈地成为了中国核导弹与卫星的缔造者。</p>
+<p>在这里，我有必要提一下张纯如女士。有关她，许多读者也许并不陌生了，她的《南京浩劫：被遗忘的大屠杀》以及她的自杀，都曾在国内引起过强烈的震荡。国人对这位36岁就英年早逝的华人女作家报以了深度地关切和崇高的敬意。南京市政府甚至在“南京大屠杀纪念馆前”立起了她的塑像。</p>
+<p>《洛杉矶时报》形容她是“最好的历史学家和人权斗士”，是“在美国成长的华裔青年模范”。她一生中共完成三本书，除了《南京浩劫：被遗忘的大屠杀》外，还包括《中国导弹之谜》和《华人在美国》。而这本《蚕丝 钱学森传》正是她的第一部作品《中国导弹之谜》的中文版。</p>
+<p>在写这本书的过程中，张纯如女士做了扎实的材料搜集。从美国政府和大学的档案、公开出版物和学术杂志中，从联邦调查局、美国海关，甚至陆军情报部门保存在美国国家档案馆的档案中，她尽一切可能地收集有关钱学森的材料。为了掌握一手材料，她不辞辛劳地采访钱学森在美国的同学、老师，以及同事，远赴中国采访钱学森的亲友和同事，甚至走访了每一处钱学森曾生活和工作过的地方。</p>
+<p>因此，从这点上来说，我相信，张纯如女士在这本传记中所揭露的有关钱学森回国的真正原因是比较真实可靠的。倘若从人性的角度来理解，钱学森作为一个科学家，想留在适合自己事业的地方发展，也是合情合理，无可厚非的。只是，在那个政治为上的时代，他从一个追求个人价值的人，在政治的裹挟下，最后成为一个为集体背书的“英雄”，怕也不是他的所愿。</p>
+<p>如此，我便实在不明白，在如此的真相面前，我们的教材编写者，为何还将一篇充满谎言，烙印着深刻的冷战思维、敌对情绪的文章选入小学的课本？倘若不是他们的无知或是闭目塞听，便是他们的别有用心。他们大约以为，这是一篇绝好的培养孩子爱国主义精神的文章，能够帮助培养“爱国”的顺民。</p>
+<p>不过，这种建立在谎言和仇恨上的爱国教育，注定是培养不出真正爱国的国民的。人性中某些好的品质，在任何时代、任何地域都是相通，对美好事物，比如对自由、诚实、平等以及个人价值的实现的追求。世界的进步正是根植于这些人性中美好的共性的发展。</p>
+<p>所以，类似于《祖国，我终于回来了》这样的文章，还是早点滚出课本吧！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%8A%E7%A5%96%E5%9B%BD%EF%BC%8C%E6%88%91%E7%BB%88%E4%BA%8E%E5%9B%9E%E6%9D%A5%E4%BA%86%E3%80%8B%E7%9A%84%E8%B0%8E%E8%A8%80%E4%BD%95%E6%97%B6%E4%BC%91%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E5%AD%A6%E6%A3%AE/?category=18271" rel="tag">钱学森</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%8B%E5%B8%88/" target="cdt-mirror">BBC | 维权人士浦志强：从今天开始我不再是律师</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?resize=320%2C180" alt="浦志强称，从今天起我不再是律师了。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?w=320 320w" sizes="(max-width: 320px) 100vw, 320px" data-recalc-dims="1"><p>浦志强称，从今天起我不再是律师了。</p></div>
@@ -597,7 +666,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB/?category=18271" rel="tag">界面新闻</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%B1%B1%E5%AF%A8%E7%89%88bbc-%E8%B0%88%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E5%8D%B4%E5%8F%AA%E5%AD%97%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">法广 | 山寨版“BBC” 谈巴拿马文件却只字不提中国</a>
 </h2>
@@ -614,51 +683,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/" target="cdt-mirror">【河蟹档案】发展的代价人民扛了，发展的成果却离岸了</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%88%91%E6%98%AF%E4%BD%A0%E8%AE%A4%E8%AF%86%E7%9A%84%E7%8E%8B%E5%B0%8F%E8%83%BD">我是你认识的王小能</a>：“发展的代价都人民扛了，发展的成果都离岸了。”笑都笑不出来。<br><a href="https://freeweibo.com/weibo/3963071674618810" target="/weibo/396">2016年04月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%B4%E6%8A%B1%E4%B8%80">朴抱一</a>：衡阳这位宣传部新闻中心的主任火了。<em>相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160410-%E6%B9%96%E5%8D%97%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E5%AE%98%E5%91%98%E6%B1%82%E5%8A%A9%E5%9B%BD%E5%AE%89%E5%8D%8F%E5%8A%A9%E7%9B%91%E6%8E%A7%E8%AE%B0%E8%80%85">法广<em>｜</em>湖南衡阳宣传官员求助国安协助监控记者</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/meiti/hc-04112016122944.html">自由亚洲<em>｜</em>湖南官员错发信息称: 已将记者信息交给国安部门</a>》</em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=550%2C359" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=300%2C196 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=768%2C501 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?resize=230%2C150 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-19.jpg?w=792 792w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3962771991396233" target="/weibo/396">2016年04月10日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E5%85%89%E4%BC%9F">何光伟</a>：这个关于疫苗的视频竟然被没了[汗]再发一遍。 <a href="http://t.cn/RqVFzNt" target="_BLANK">http://t.cn/RqVFzNt</a>. <em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/huanjing/xl3-04072016102716.html/">自由亚洲<em>｜</em>河北女婴注射疫苗翌日亡 家属讨说法被抓</a>》</em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3962619930797007" target="/weibo/396">2016年04月10日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%B7%A1%E6%B8%B8%E8%80%81%E8%A1%B2">巡游老衲</a>：告诉你，我不傻。但我很会装傻。[嘻嘻][嘻嘻]<a href="http://t.cn/RqV4aEv" target="_BLANK">http://t.cn/RqV4aEv</a>. <em>相关阅读｜《<a href="http://www.voachinese.com/content/wangyi-panama-papers-20160408/3277469.html">美国之音<em>｜</em>中国外交部长王毅回应巴拿马文件</a>》</em><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3962452091156462" target="/weibo/396">2016年04月09日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%9C%E5%AE%B6%E5%B4%94%E6%88%90%E6%B5%A9">作家崔成浩</a>：英国首相卡梅伦，此前在采访中承认他至少从避税天堂获利3万英镑，该丑闻曝光后，有数千名民众聚集在唐宁街十号要求其辞职。愤怒的抗议者们在唐宁街外高举着抗议牌，人群高喊“卡梅伦必须辞职”、“逃税是犯罪”，“保守党滚出去”等口号。3万英镑就闹成这样，呵呵…… <em>相关阅读｜《<a href="http://cn.nytimes.com/world/20160411/c11britain/">纽约时报<em>｜</em>英国首相卡梅伦公布纳税信息回应“巴拿马文件”</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=520%2C344" alt="卡梅伦" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?resize=768%2C508 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-20.jpg?w=962 962w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3962678609780145" target="/weibo/396">2016年04月10日</a>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-133/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%89/?category=18271" rel="tag">国安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%87%AF%E6%AC%A3/?category=18271" rel="tag">宋凯欣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E6%99%93%E6%B3%A2/?category=18271" rel="tag">曹晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E5%8B%87/?category=18271" rel="tag">江勇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%8C%97%E5%A5%B3%E5%A9%B4/?category=18271" rel="tag">河北女婴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8/?category=18271" rel="tag">离岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">离岸财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E6%A0%BC%E4%BC%9F/?category=18271" rel="tag">蒋格伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A1%E9%98%B3%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">衡阳宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%9D%A5%E7%94%9F%E8%BF%98%E5%81%9A%E8%87%AA%E5%B9%B2%E4%BA%94/" target="cdt-mirror">【异闻观止】来生还做自干五</a>
-</h2>
-<p><p>4月12日，共青团中央的新浪微博发布了一则驳斥互联网对“五毛”、“自干五”各种批评的视频，称大多数的五毛或自干五其实是被污名化的“具有爱国情怀的人”，并认为这样一个称呼其实应该引以为荣而非引以为耻。视频风格有以往明恩传媒的风格，其中还有一些调侃元素例如提到网络上可下载“高清无码葫芦娃”。在发布视频的同时共青团中央同时配发了一句“来生还做自干五”的评论。共青团中央的微博近段时间以来（尤以小粉红fb表情包大战之后）热衷以贴近年轻人的网络化的语气来表达政治观点，例如在 <a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%EF%BC%9A%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86-%E5%92%8C%E4%BB%96/" target="_blank">【异闻观止】共青团中央：我恋爱了 和他</a> 中，共青团中央用一个虚拟小粉红的语气，表达了对“解放军战士”的迷恋。而在 <a href="http://chinadigitaltimes.net/chinese/2016/01/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%B0%8F%E5%86%99%E7%9A%84%E8%84%91%E6%AE%8B%EF%BC%8C%E5%A4%A7%E5%86%99%E7%9A%84%E5%B0%B4%E5%B0%AC/" target="_blank">【立此存照】小写的脑残 大写的尴尬</a> 共青团中央更是将小粉红称为“我们的女儿 我们的妹妹”。</p>
-<p>@共青团中央 ：干了这杯老干妈，来生还做自干五！#我和我的国家引擎#</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2.jpg?resize=580%2C640" alt="共青团" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/共青团.jpg?resize=272%2C300 272w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/共青团.jpg?w=580 580w" sizes="(max-width: 580px) 100vw, 580px" data-recalc-dims="1"></p>
-<p>视频<a href="http://www.miaopai.com/show/rBAi-voC-ILxeEKR2l4V8Q__.htm" target="_blank">地址</a></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p><em>@胡子小浩：我是自干五，微博、天涯都有我的影子。</em></p>
-<p><em>@念书的人要正经一点：动画活泼，文案鼓舞人心，确实对自干五们有很好的激励作用。</em></p>
-<p><em>@小时候可腹黑了：此生无悔入华夏，来世还在种花家！</em></p>
-<p>@追随者abc：首先团团公开承认了政府养着5毛(网评员)误导民众的事实，其次，团团公开表态反政府5毛的观点，也就是反对现文宣的调子反刘，再次，扭曲混淆“自干五”的概念，自干五就是指自带干粮的五毛，指被洗脑的愚昧民众，指被人卖了还替人家数钱的主儿。想学老汉奸？</p>
-<p>@吾齐人也：小蔺那事儿就算完了？</p>
-<p>@路旁的ho桑：天呐，这诅咒太可怕了</p>
-<p>@級尼斯：请问共青团的经费怎么来的？这个要讲清楚啊</p>
-<p>@渚同学：高 实在是高 我再也想不出比来生还做自干五在更痛苦的事了</p>
-<p>@彩色塑料：意思是:自干五下辈子都别想转正了</p>
-<p>@LeMcDull：「來世還做自幹五」可能是我見過最狠毒的詛咒之一……</p>
-<p>@挽澜者-杜荣军：一群让人民养的寄生虫，却与人民对立忽悠坑害无知年轻人！养猪养狗都不至于这样！</p>
-<p>@土皮肚皮：这是打算五毛都不给了？</p>
-<p>@霸气的木木虎：人不要脸，至贱无敌。</p>
-<p>@织田上总介渣豪：有来世？你可是共产主义青年团啊！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%9D%A5%E7%94%9F%E8%BF%98%E5%81%9A%E8%87%AA%E5%B9%B2%E4%BA%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -670,7 +694,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -680,5 +704,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

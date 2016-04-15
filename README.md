@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,73 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-2/" target="cdt-mirror">【立此存照】伤害所有中国留学生的感情</a>
+</h2>
+<p><p>【编者注】这名自述在美国乔治亚州<a href="https://www.facebook.com/AxisTheInternationalClubOfWesleyanCollege/" target="_blank">Wesleyan College</a>作交换生的中国学生，因不满有同学将台湾看作是独立国家，要求学生会在活动报幕时将表演者所代表的国家念为“中国台北”。遭拒后，该名中国留学生在邮件回复中声称对方的这种行为“将伤害所有中国留学生的感情”，并表示会联合其他中国学生要求学生会他们“给一个交代”，甚至认为对方是在拿“文化”当“挡箭牌”。</p>
+<blockquote><p><a title="清华南都" href="http://weibo.com/qinghuanandu?refer_flag=1005055010_">@清华南都</a>：【台湾省问题】美国留学小伙伴<a href="http://weibo.com/n/%E8%80%B6%E5%98%BF%E5%B9%B2%E8%84%86%E9%9D%A2" target="_blank">@耶嘿干脆面</a> 发来求助，他们学校明天有个台湾女生将代表台湾以一个国家的身份在国际学生节表演。写邮件向主办方反馈无果<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">大家觉得以后在外国遇见这种事情怎么办？<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg" rel="attachment wp-att-435132"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg?resize=450%2C724" alt="89ad7439jw1f2qtxjlmnhj20ko0x9n0c" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg?resize=637%2C1024 637w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg" rel="attachment wp-att-435133"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg?resize=450%2C800" alt="89ad7439jw1f2qtxk3vxxj20k00zk77g" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg" rel="attachment wp-att-435134"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg?resize=450%2C800" alt="89ad7439jw1f2qtxkcewbj20k00zk0vy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg" rel="attachment wp-att-435135"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg?resize=450%2C800" alt="89ad7439jw1f2qtxkie3hj20k00zkwia" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%BD%9C%E4%B8%BA%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%9A%E4%B8%BB%EF%BC%8C%E9%A9%AC%E4%BA%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%B5%A2/" target="cdt-mirror">博谈网｜作为《南华早报》业主，马云不可能赢</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg" rel="attachment wp-att-435128"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg?resize=575%2C323" alt="nanhua_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>（博谈网记者赵亮编译）去年年底，当郭鹤年终于决定卖出拥有24年的《南华早报》时，朋友们问他是何感受。这名在马来西亚出生的大宗商品和地产大亨擦拭了一下额头，长叹一声“Phew！”</p>
+<p>郭鹤年的商业帝国跨越东南亚的糖、棕榈种植园、香格里拉连锁酒店和北京最高的办公楼。《南华早报》这家香港主要英文报纸对他的商业帝国来说一直象个异类。</p>
+<p>在互联网出现之前，《南华早报》事实上垄断了当时香港英文纸媒利润丰厚的广告市场。然而，这可能也难以抵消由于该报不听话的编辑和记者每天都可能惹恼执政的中国共产党，并因此可能连带损害到郭鹤年其余的商业利益。他可能曾试图约束该报，但这似乎只会带来声誉上的风险。</p>
+<p>那么，为什么一个非常成功的商人要让自己轻易成为批评者的箭靶，让人怀疑他的真实意图是要为北京不时地剪剪刺？现在《南华早报》的读者们要问中国巨头马云同样的问题。马云同意以2.66亿美元买下《南华早报》。</p>
+<p>不是特别清楚为什么马云会想要一家报纸。这名阿里巴巴集团的主席是中国第二富有的人，他已从他的互联网基地广泛扩展到包括金融和体育。有人开玩笑说，马云叫他的员工去拿一份报纸，但他们误会了他的意思，给他买下了这家报业。</p>
+<p>虽然阿里巴巴已表示不会干预《南华早报》的编辑操作，也不会用该报来讨好中共，但是马云的一名最高级助理已示意西方媒体是带着有色眼镜来报道中国。</p>
+<p>阿里巴巴是否会信守承诺不是出于要让《南华早报》继续成为长期以来国际性观察中国社会的一个重要资源。世界上一些最知名的公司也在讨论为了进入一个潜在有利可图的市场他们会做哪些妥协，在那里，某个专制政权可以让他们赚钱，也可以打破他们的财富。</p>
+<p>我要指出，我于世纪之交在《南华早报》开始我的新闻事业。在六年期间我曾经历的编辑干预或审查实例与其说是恶意，不如说很滑稽。</p>
+<p>有一次，传回给编辑室的话说郭（鹤年）先生是阿森纳球迷，他对于体育版里把阿森纳最新比赛的报道放到版面下方不满意。另一个编辑经常下令任何涉及当时中国国家副主席胡锦涛的报道都不能够比当时国家主席江泽民的报道更突出。</p>
+<p>但如果马云曾有任何幻想，以为拥有《南华早报》是件容易的事，那么这些幻想上周可能都消散了。4月5日，阿里巴巴履行承诺，拆除了《南华早报》的网上付费专区，试图提高读者量。毫不奇怪的是，《南华早报》决定大声宣告这个新的时代和商业模式。恰好在同一天，发生了巴拿马文件披露了中国几名高层领导人的亲属开了离岸公司。</p>
+<p>虽然《南华早报》也刊登了关于巴拿马文件的报道，但是它很快发现自己被指责蓄意隐瞒这些消息，《南华早报》的编辑予以否认。</p>
+<p>就像在他之前的郭鹤年先生那样，马云先生赢不了。即使他不是有意按照北京的吩咐来做，他总会被一些人怀疑如此。</p>
+<p>作为在自由地区唯一一家专注报道中国的英文报纸，《南华早报》报道了如此多关于中国的故事，有正面的和负面的，其批评者和仰慕者们都能轻易强调那些能证明他们观点的报道——该报是亲北京的或是并非亲北京的。</p>
+<p>与此同时，北京要媒体机构接受不折不扣的全面投降。在中国的审查者眼中，用某种方式报道甚至掩盖起来都还不够好。截至昨天，《南华早报》的网站在中国依旧被封。</p>
+<p>（本文译自《海峡时报》4月14日转载《金融时报》刊登的Tom Mitchell的评论文章，题为“作为《南华早报》业主，马云不可能赢”。）</p>
+<p><a href="http://www.straitstimes.com/opinion/jack-ma-cannot-win-as-owner-of-south-china-morning-post" target="_blank">原文Jack Ma cannot win as owner of South China Morning Post</a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%BD%9C%E4%B8%BA%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%9A%E4%B8%BB%EF%BC%8C%E9%A9%AC%E4%BA%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%B5%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%A6%99%E6%B8%AF%E5%85%AD%E5%9B%9B%E7%BA%AA%E5%BF%B5%E9%A6%86%E5%B0%86%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%AD%E8%BF%81%E5%9D%80/" target="cdt-mirror">纽约时报 | 香港六四纪念馆将被迫关闭迁址</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/15CHINAHONG-web1-articleLarge-1.jpg?resize=600%2C400" alt="一位参观者经过一处在香港六四纪念馆中的展览。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/15CHINAHONG-web1-articleLarge-1.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/15CHINAHONG-web1-articleLarge-1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一位参观者经过一处在香港六四纪念馆中的展览。</p></div>
+<p>香港——纪念1989年天安门抗议运动的唯一一家博物馆在香港一座办公楼五层开馆两年后，预计将于今年闭馆。<a href="http://64museum.blogspot.hk/p/english.html" target="_blank" rel="nofollow">六四纪念馆</a>的组织者说，他们正在努力寻找新馆址。</p>
+<p>这个面积为800平方英尺（约合74平方米）的纪念馆位于拥挤的尖沙咀购物旅游区，其中的展品包括照片、对一些死于军事镇压的抗议者的介绍，以及学生在占领北京天安门广场期间竖起的民主女神像的复制品。</p>
+<p><a title="Link: https://hka8964.wordpress.com/" href="https://hka8964.wordpress.com/" target="_blank" rel="nofollow">香港市民支援爱国民主运动联合会</a>（以下简称“港支联”）主席何俊仁说，该楼的业主立案法团一直反对这个纪念馆，纪念馆的组织者面临官司，但已经决定不再继续花钱打官司抗衡。港支联建立了这家纪念馆。</p>
+<p>何俊仁说，他认为针对纪念馆的官司背后是政治。“不是业主立案法团在出钱与我们打官司。出钱的只有一个人，”何俊仁周四在接受采访时说。他指的是法团主席巢国超(Stanley Chau Kwok-chiu)，他在中国大陆拥有一家服装厂。</p>
+<p>未能联系到巢国超对此事发表评论。在接受当地新闻媒体采访时，他曾否认起诉纪念馆是出于政治动机。</p>
+<p>何俊仁说，纪念馆将在8月或9月闭馆。</p>
+<p>“我们正在筹集资金，希望能够搬到面积更大的首层空间，或搬到一个购物中心，”他说。</p>
+<p>何俊仁说，除了打官司，该楼的管理层一直在用行政手段骚扰前来参观的人。</p>
+<p>“他们检查参观者的身份证，吓跑不少内地参观者，”他说。</p>
+<p>当年，在北京和中国其他城市，抗议者要求结束腐败、对政府事务有更大的发言权。发生在1989年6月3日至4日的镇压，导致数以百计的人死亡，六四在中国大陆是大体上被禁的话题，网上或其他媒体上的有关讨论遭到审查。香港虽然在1997年回到大陆统治之下，但仍维持着自己的法律制度和半自治的政府，是中华人民共和国唯一能公开纪念那次抗议活动的地方。</p>
+<p>在纪念镇压25周年的2014年，<a href="http://cn.nytimes.com/china/20140425/c25museum/" target="_blank" rel="nofollow">纪念馆的参观人数激增</a>，其中包括许多内地人。据港支联在网站上发表的一份<a href="http://64museum.blogspot.hk/" target="_blank" rel="nofollow">声明</a>，从2014年4月开馆到今年1月，纪念馆的参观者累计达2万多人次，其中三分之一来自中国大陆。港支联成立于1989年5月，当时是为了支援北京的抗议活动，后来继续支持大陆的民主倡导者。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%A6%99%E6%B8%AF%E5%85%AD%E5%9B%9B%E7%BA%AA%E5%BF%B5%E9%A6%86%E5%B0%86%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%AD%E8%BF%81%E5%9D%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E7%BA%AA%E5%BF%B5%E9%A6%86/?category=18271" rel="tag">六四纪念馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A5%B3%E5%A9%B4%E7%96%AB%E8%8B%97%E6%AD%BB%E4%BA%A1%E3%80%81%E6%B4%97%E9%92%B1%E5%A7%90%E5%A4%AB%E7%AD%89/" target="cdt-mirror">【敏感词库】“芮成钢”、“运河文件”等热点 2016-4-14</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg" rel="attachment wp-att-434697"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=500%2C500" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>图片来源：新浪微博@苏州郎心铁</em></p>
@@ -613,84 +677,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc%EF%BD%9C%E5%BC%80%E5%AE%A1%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A-%E6%8A%A5%E9%81%93%E8%A2%AB%E5%88%A0-%E7%BD%91%E6%B0%91%E7%88%86%E7%82%92/" target="cdt-mirror">BBC｜“开审芮成钢”： 报道被删 网民爆炒</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?resize=551%2C315" alt="芮成钢" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/09/dzXys.jpg?w=640 640w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>芮成钢是央视财经频道的主持人之一，在中国颇具知名度。他个人的微博账号甚具人气，其粉丝数量超过1000万。</p>
-<p>中国中央电视台著名节目主持人芮成钢2014年7月突然被带走、从公众视野消失两年后，名字重新出现在媒体报道中，引发关注。</p>
-<p>《中国经营报》记者“独家获悉”，“央视腐败大戏即将进入法院审理程序。”</p>
-<p>中国经营报称，该报记者“从吉林省法院系统某核心人士处获悉，有34件案子，已经移交过来29件，不日将进入到审理程序。”</p>
-<p>“开审芮成钢”</p>
-<p>中国经营报的报道把读者拉回到两年前的那个夏日：</p>
-<p>“2014年7月10日，北京多云”，央视著名主持人芮成钢的微博停留在当天晚上20点30分。这一天，几乎每天发送微博的芮成钢发了一个与工作内容相关的微博“济南市实行了三年多的商品房限购政策正式取消，一会儿直播见，朋友们！”</p>
-<p>“第二天，明星主持人芮成钢突然就‘消失’了，不仅仅是在直播中。2014年的夏天，不仅仅是芮成钢，中央电视台不少主持人和工作人员都‘消失’在这个异常炎热的夏天。”</p>
-<p>“异常炎热的夏天里”，习近平的反腐运动如火如荼。据信，芮成钢是涉嫌不法商业获利被查的。随后，中央电视台财经频道总监郭振玺、制片人田立武也被立案侦查。</p>
-<p>中国经营报的记者称，“从权威人士处获悉的信息，显示涉及央视的案件有34起。”</p>
-<p>中国经营报的“独家”报道被新浪、腾讯等多家中国网站及海外中文媒体转载。</p>
-<p>但截止到记者发稿时，只能在海外中文媒体上还能看到相关报道，大陆媒体的转载则全部被封被删。</p>
-<p>网民爆炒</p>
-<p>但是，在中国的社交媒体上，人们议论纷纷，显示出民众对芮成钢案的强烈兴趣。</p>
-<p>“都好几年了，你没事吧？到底怎么了”？一位网民的询问道出了很多人的关切。</p>
-<p>一位网民的“我还以为他已经被秘密干掉了”的帖子引来很多人附和。</p>
-<p>芮成钢曾是央视财经频道的主持人之一，在中国颇具知名度。他个人的微博账号甚具人气，其粉丝数量超过1000万。</p>
-<p>芮成钢从公众视野消失一年后，中共中央机关报《人民日报》的微信公共平台上发表了一篇文章，《每个人心中都有一个芮成钢》。</p>
-<p>文章分析说，称状元出身的芮成钢青年得志，毁了他的是他自己。并认为，他出事的原因，一个是心太大了，另一个是心太急了。</p>
-<p>文章指出，芮成钢充其量就是一名英语流利、有才华的优秀记者。采访这些名人，就是工作平台赋予自己的本职工作。他误把自己的机会当作了自己的身份。至于他心太急了，指的是急着给生命添彩，急于成名、急于发财、急于升官。但急过了头，就要付出代价。</p>
-<p>2014年9月14日，新华网曾发表一篇《芮成钢遭爆料是特务 网友：若是真的必须严惩》的文章，更让芮成钢涉嫌充当外国间谍，并利用职务之便向外国提供机密情报的传言甚嚣尘上。</p>
-<p>后来更有传闻说，芮成钢与多名中共高官的妻子有不寻常的亲密关系，其中包括前中共领导人胡锦涛秘书令计划的妻子谷丽萍。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/07/120.jpg?resize=550%2C366" alt="芮成钢" data-recalc-dims="1"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc%EF%BD%9C%E5%BC%80%E5%AE%A1%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A-%E6%8A%A5%E9%81%93%E8%A2%AB%E5%88%A0-%E7%BD%91%E6%B0%91%E7%88%86%E7%82%92/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%B7%B4%E6%8B%BF%E9%A9%AC-2/" target="cdt-mirror">【麻辣总局】赵國圖片 #巴拿馬</a>
-</h2>
-<p><p>高晓亮 ‏@gaoxiaoliang64：【终于知道哪条河了！】“摸着石头过河” ，这是洋务运动总设计师邓某人的名言！几十年来，国人一直不知道摸着石头要过哪条河？ 这几天，世界哗然，“姐夫”已经摸着石头过河了，国人才明白，原来要过的河——巴拿马运河……</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfadSapXEAATxkm.jpg?resize=550%2C826" alt="CfadSapXEAATxkm" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfadSapXEAATxkm.jpg?resize=200%2C300 200w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfadSapXEAATxkm.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>流雲 ‏@liuyun1989 赵國圖片 #巴拿馬</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfucEidVAAAaU8j.jpg?resize=416%2C456" alt="CfucEidVAAAaU8j" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfucEidVAAAaU8j.jpg?resize=274%2C300 274w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfucEidVAAAaU8j.jpg?w=416 416w" sizes="(max-width: 416px) 100vw, 416px" data-recalc-dims="1"></p>
-<p>Jian Alan Huang ‏@hnjhj：#一张图告诉你 中国社会当前现状 #草泥马顶巴拿马</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfV90abUEAABgsU.jpg?resize=550%2C398" alt="CfV90abUEAABgsU" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfV90abUEAABgsU.jpg?resize=300%2C217 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CfV90abUEAABgsU.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%B7%B4%E6%8B%BF%E9%A9%AC-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80/?category=18271" rel="tag">麻辣总局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/cnd%EF%BD%9C/" target="cdt-mirror">CND｜方曌：李克曼- -汉学家的骑士精神</a>
-</h2>
-<p><p>李克曼去世了。对于绝大多数人而言，这个名字显得十分陌生。即使对于熟悉海外汉学研究的人来说，这位在澳大利亚执教、生活的比利时汉学家，也像是一个拒绝被分科、被定义的异类：他好像曾经是一个当代中国研究学者，又因为翻译过《论语》，也可以被看作是古典意义上的汉学家。他钟爱中国的古典文化，把石涛的《画语录》翻译成法文并加以评注，自己也画国画，写书法，还教他的澳洲学生打太极拳。但他也喜欢鲁迅，称鲁迅是“花园里的野草”，“冰原上的火焰”；他以自己对中国的研究在西方闻名，也一直在大学里讲授中国文化，可是他自己的作品却有不少和中国无关。他所著的小说《拿破仑之死》在普通读者和文学鉴赏家那里都受到好评，“失败的小说家”这个头衔，看来是不适合李克曼了。</p>
-<p>多才多艺有时只是对于业余的一种美化，夸夸奇谈也能制造知识渊博的假象，在这个专家盛行的年代，我们有时不敢，也不愿意相信一个人可以如此全知全能。李克曼是一位诗人、画家、小说家、文艺批评家、汉学家、当代中国研究者，最后，他还是一名骑士。上述所有的称呼，包括最后一个，都不是官方授予或业界指定的头衔，而是对他人生的真实描述。在这些领域中，他的创作都博得了同行的尊重。澳大利亚著名的知识分子菲利普•亚当斯如此描述李克曼：</p>
-<p>他对所有事情都非常在行：他是陆克文的老师;他写了我认为最重要的关于中国的书;他可能是澳大利亚知识分子中最见微知著，也最复杂的一位;在他面前，我们中再自我和骄傲的人也会感到敬畏。</p>
-<p>敬畏是一种严肃的感情，我们已经不怎么在日常的评价中使用这个词了。现在我们更倾向于一种懒人的态度，点个赞，表下态，最多是喜欢，“粉”一下某个人。敬畏之于喜欢，就好象奇迹之于魔术，《蜀道难》之于四川三日游，交响乐之于手机铃声，是无从类比的。对于李克曼，如果勉为其难地去概括阅读他的感觉的话，我们也许可以把他称作一个“堂•吉诃德”式的历史学家，也许我们可以说，他是最具骑士精神的历史学家。</p>
-<p>没有多少人真正读过《堂•吉诃德》这本小说，当然，也没有多少人，特别是受过高等教育的人，承认自己没读过《堂•吉诃德》。虽然没多少人读过《堂•吉诃德》的原著，但是堂•吉诃德的形象是广为人知的。毫无疑问，在塞万提斯笔下，堂•吉诃德是一个失败者。李克曼这样一位天才的汉学家，和这个失败者典型的小说人物，又怎么能挂得上钩呢?</p>
-<p>曾几何时，我们还能够接受“光荣的失败”，我们也不曾把成功当成是人生唯一的目标；“堂•吉诃德式的”努力，既可以是对于勇气、真诚、正义感的赞扬，也可以是对于注定要失败的行为的贬损。1955年，当年轻的李克曼第一次来到中国的时候，他就开始了一段堂•吉诃德式的人生旅程。首先，他立刻爱上了这个国家，当被问及到底喜欢中国哪一点的时候，他毫不犹豫地回答“Everything”。他被北京的城墙和城楼深深震撼，那种几何带来的壮观和威严是比利时小镇居民无法想象的。在香港学习期间，他的中国室友把他们蜗居的斗室命名为“无用居”，他因此迷上了庄子和中国的经典，当然还有那龙飞凤舞的书法。他放弃了原来学习的法律和艺术史专业，一心开始学习中文，在中国台湾地区、香港和新加坡度过了很长一段学生时光。他对于中国的着迷，真像堂•吉诃德对于骑士小说的着迷程度：“他如此喜爱阅读骑士小说，以至于他忘记了打猎，甚至是照顾自己的庄园。为了买更多的骑士小说，他甚至蠢到卖掉自家的玉米地……最终，他一天到晚躺在骑士小说的书堆里，从早到晚地看书，最后看到大脑迟钝，疯疯癫癫。”</p>
-<p>李克曼曾说，拆毁北京的城墙是一种“对于神圣的亵渎”。对他这样一个天主教徒而言，这已经是最严重的字眼。北京的城墙为什么神圣的呢?在城墙的设计者看来，这样一组建筑并不仅仅是一种防御工事，同时也是一种对于天下归之的象征。对于下令拆毁城墙的人而言，也并不完全是因为城墙阻塞了道路建设，影响交通，而是因为旧制度业已崩塌，其象征也应该被摧毁。必须先摧毁历史才能创造历史，中国近代以来的革命者们都抱有如此的想法，虽然在手段上有轻重之分。但是近代中国历史的最大吊诡之一，就是历史的遗产往往先于历史被摧毁了。对于城墙，李克曼并没有那种浅薄的、怀旧式的悲伤，真正使得他愤怒的，是神圣的所有秩序和美感被打碎了，这是对于神圣的亵渎。</p>
-<p>面对这样一种亵渎时，一个人可以假装的若无其事，也可以表现得更加有勇气和尊严，面对残酷的真相。不过，有勇气承认真相是一回事，把呈现真相、重塑过去当作终身的志业是另外一回事。前者常常被称赞，后者则更常被看作是理想主义、不切实际，而且更容易遭到奚落和嘲弄。再者，如果中国人自己都要刻意毁坏自己的历史文化，一个外国人又能做些什么呢?冷眼旁观似乎是最自然的选择；李克曼却做了一个“堂•吉诃德”式的选择，他用笔作长矛，冲向了自己的风车。</p>
-<p>这架风车并不是那些可以毁坏中国历史和文化的人——那些是实实在在的乡村恶霸，虽然强大，但是终归是确凿的敌人，有战而胜之的可能性。风车是虚幻的敌人，也是不可能战胜的。对李克曼而言，他的风车是那种对于优雅和精致的不屑和厌恶态度，是一种“反审美”情绪。对于这种态度，他曾经讲过一个生动的故事：他习惯于在嘈杂的咖啡馆写作——嘈杂可以帮他集中注意力。在堪培拉的一家咖啡馆里，广播里放着各种各样的东西，店内也是人声鼎沸，不过，突然广播节目被人调到了另一个台，正在播放的是莫扎特的单簧管五重奏，优雅的声音瞬间流泻而出，这时所有人“仿佛坠入了炼狱，没有一个人说话，互相奇怪地打量着别人”，终于，“那件让所有人放松的事情发生了”，一个靠近收音机的人站起来换了台，不再是莫扎特，而是小广告和社会新闻。“每个人又可以舒服地忽略这些噪音了。”</p>
-<p>人们是不能欣赏莫扎特吗?李克曼不这么认为，恰恰相反，李克曼认为人们正是因为能够欣赏莫扎特之美，所以才一定要关掉它。人们有一种毁坏美的原始欲望，这种欲望不仅仅是在艺术领域，在道德伦理领域也是如此。“他们想把每个人都变得最坏，消灭、诋毁我们身边所有的光辉和美感，这是人性中最让人悲哀的一面。”人性中的这一面，才是李克曼的风车。</p>
-<p>一个天才的灵光对抗一个世界的粗鄙，这注定是一场失败的战斗。同时，这是一场堂•吉诃德式的战斗，是一场用“巨大的渴望”对抗“渺小的现实”的战斗。李克曼在这场战斗中，几乎用上了自己成年的所有时光，从上世纪70年代初到他去世前，他一直英雄般战斗着，尽管，这个世界早已用各种方式击败了他。1986年他曾经如此描述来到中国的感受——</p>
-<p>在中国，除了极小数量的一组组知名古迹(它们的“古”亦仅是相对的)以外，吸引受过教育的访者注意力的却是“过去”的巨大缺失。大多数的中国城市，尤其是那些古老的都城，或极负盛名的文化中心，今天所展示的面貌都并非是崭新的或是现代的，但同时也怪异地缺乏任何传统文化的品质与个性。</p>
-<p>如果他在2016年再访问中国，相信他会更加惊讶这片土地上的变化，古迹不仅是消失了，而是被丑陋拙劣的现代仿制品取代了。面对簇新的千年古庙，金碧辉煌的百年佛像，不知李克曼会做何感想?我们不仅仅忘记了传统中国的祖先，现在连鲁迅这样现代中国的先人都要放弃和遗忘。看上去，李克曼三十多年的努力，不仅不能对抗今日的中国，而且和今日中国似乎已经失去了所有的联系。</p>
-<p>李克曼死了。传统的中国和其灿烂的文化也奄奄一息了，他没能从风车和恶棍的手上拯救了她。不过他真的失败了吗?四百年来，《堂•吉诃德》的读者们从来也记不住那些恶棍们的名字和特征，更别说从这些恶棍或是风车身上得到什么启发了。相反，每一个读过《堂•吉诃德》的人都记住了我们故事的主人公，这位有骑士精神的失败者。他每每从纸页间骑着瘦马，向我们缓缓走过来，我们仿佛看得见他头盔上闪耀的亮光;他和自己的追随者桑丘的雕像在世界各地耸立，启发着如李克曼般的后来者们。最后，让我们用李克曼先生自己的话，送别这位具有骑士精神的失败者：</p>
-<p>成功者改变自己以适应这个世界;失败者总是尝试改变这个世界来适应自己。因此，我们这个世界的所有进步，都依赖于失败者。</p>
-<p>来源：《 书摘 》（ 2015年09月01日摘自《历史学人：“强盗”资本家？》）</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/cnd%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E6%9B%BC/?category=18271" rel="tag">李克曼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E5%AD%A6%E5%AE%B6/?category=18271" rel="tag">汉学家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -702,7 +688,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +698,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

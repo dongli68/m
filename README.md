@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A5%B3%E5%A9%B4%E7%96%AB%E8%8B%97%E6%AD%BB%E4%BA%A1%E3%80%81%E6%B4%97%E9%92%B1%E5%A7%90%E5%A4%AB%E7%AD%89/" target="cdt-mirror">【敏感词库】“芮成钢”、“运河文件”等热点 2016-4-14</a>
@@ -121,7 +121,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BC%9A%E6%89%80/?category=18271" rel="tag">高尔夫会所</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%8A%E7%A5%96%E5%9B%BD%EF%BC%8C%E6%88%91%E7%BB%88%E4%BA%8E%E5%9B%9E%E6%9D%A5%E4%BA%86%E3%80%8B%E7%9A%84%E8%B0%8E%E8%A8%80%E4%BD%95%E6%97%B6%E4%BC%91%EF%BC%9F/" target="cdt-mirror">西木：《祖国，我终于回来了》的谎言何时休？</a>
 </h2>
@@ -702,7 +702,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -712,5 +712,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

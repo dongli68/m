@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%97%B4%E8%B0%8D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9%EF%BC%8C%E5%A4%A7%E5%AE%B6%E8%B5%B6%E5%BF%AB%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5/" target="cdt-mirror">【立此存照】间谍就在你身边，大家赶快行动起来</a>
@@ -55,6 +55,39 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%BE%85%E7%89%99%E8%B5%B5%EF%BD%9C%E4%B9%A0%E4%B8%BB%E5%B8%AD%EF%BC%8C%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E5%BB%BA%E8%AE%AE%EF%BC%8C%E6%82%A8%E7%9C%8B%E9%9D%A0%E4%B8%8D%E9%9D%A0%E8%B0%B1/" target="cdt-mirror">龅牙赵｜习主席，我有一个建议，您看靠不靠谱</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2013/07/%E7%BC%98%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A.jpg?resize=396%2C487" alt="缘有共产党" data-recalc-dims="1"></p>
+<p>尊敬的习主席：您好。</p>
+<p>我不是共产党员，所以我没办法称呼您为总书记，只能称呼您在政府的职务。</p>
+<p>前两天我看见一条新闻，广东恩平要求全体党员上班时统一佩戴党徽，亮明党员的身份。我作为一个群众，觉得这项措施非常好，恳请习主席以总书记的身份在全国8000万党员中间进行硬性推广。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg" rel="attachment wp-att-435206"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg?resize=500%2C657" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg?resize=228%2C300 228w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>而且我觉得，不但上班时间统一佩戴，下班之后也应该佩戴，只要是出现在公共场所，就必须佩戴党徽。</p>
+<p>我来说说这项措施的好处。</p>
+<p><strong>1、有利于树立共产党员的自豪感。</strong></p>
+<p>少先队员是少年人中最优秀的团体，他们有红领巾；共青团员是青年人中最优秀的团体，他们有团徽。我们小时候写作文，都说做了好事，觉得自己胸前的红领巾更鲜艳了，觉得胸前的团徽更闪耀了。但是作为中国人民最优秀代表的党员同志们呢？随身携带党章和党旗肯定不方便，但是如果他们胸前能够佩戴一枚党徽，将是一种多么崇高的自豪感！全国十三亿人，只有八千万共产党员，而他就是其中一个！这是多么让人骄傲的一种荣耀！</p>
+<p><strong>2、有利于震慑违法犯罪行为。</strong></p>
+<p>共产党员四个字，代表着伟大、光荣、正确、正义、勇敢，对邪恶势力和犯罪行为有一种天然的震慑感。我们试想一下：在如家酒店的走廊里，不法分子正在拉扯女顾客的头发，面前站出来一个戴着党徽的正义之士大喊一声“放开那女孩”，歹徒一定会害怕；在人头攒动的地铁里，扒手正在扒窃乘客的iPhone6s Plus，突然一只手抓住了他罪恶的手指头，扒手顺着手往上看，一枚党徽闪闪发光，扒手一定会投降！</p>
+<p><strong>3、方便群众寻求共产党员的帮助。</strong></p>
+<p>中国共产党的宗旨就是全心全意为人民服务，这是得到了全人类公认的真理，也是我们普通群众的共识。“有困难找党员”，这也是我从小接受的教育和根植于心里的信念。但是当我们遇到困难的时候，谁是党员呢？我们一时分辨不出来。试想一下，如果党员们身上都佩戴着党徽，我们一眼就能认出他们，既能够解决我们的困难，也能够体现党员的价值，更能够让党群关系更加和谐，可谓一举三得。</p>
+<p><strong>4、有利于树立党员的先锋模范作用。</strong></p>
+<p>共产党员一向有一个优秀的传统——吃苦在前，享受在后。当党员们戴上党徽之后，我们就能够一目了然：看，抗洪抢险，一个个共产党员冲在最前面；看抗震救灾，一个个共产党员永不疲倦；看，立功受奖，党员们你推我让都不上台；看，升职加薪，党员们纷纷推选群众上前。共产党员的优良作风一目了然地呈现在了全国人民面前，这种先锋模范作用的力量是不可忽视的。</p>
+<p><strong>5、利于群众对共产党员进行监督。</strong></p>
+<p>不可否认，在西方资产阶级价值观的影响下，也有极少部分党员受到了污染和腐蚀，犯下了或多或少的错误。但是，如果要求他们都戴上党徽，他们在行贿受贿贪污腐败的时候，低头看看胸前的党徽，肯定会觉得愧疚，从而减少腐败的发生。更重要的是，他们戴上党徽之后，一旦有不法行为，群众立刻尽收眼底，马上就能及时反馈到各级纪委。这样的监督力度，更能让每个党员都严格要求自己，做中华民族的楷模。</p>
+<p>如果有党员不愿意佩戴党徽呢？那就说明他们自己都不认可党员这个光荣的身份，这种人，不配成为我们中国民族优秀儿女的代表。</p>
+<p>所以，我继续建议，对于不佩戴党徽的行为，要像驾照扣分一样严肃处理。</p>
+<p>一共12分，忘记佩戴一次扣2分，故意遮挡党徽扣6分，故意损坏党徽一次性扣完12分。</p>
+<p>扣完之后重新到党校学习，并重写入党申请书。</p>
+<p>对于拒不配合者，应该剥夺他们成为共产党员的荣誉感，以叛党论处。</p>
+<p>谢谢习主席，这就是我的全部建议，希望您能看得到。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%BE%85%E7%89%99%E8%B5%B5%EF%BD%9C%E4%B9%A0%E4%B8%BB%E5%B8%AD%EF%BC%8C%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E5%BB%BA%E8%AE%AE%EF%BC%8C%E6%82%A8%E7%9C%8B%E9%9D%A0%E4%B8%8D%E9%9D%A0%E8%B0%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98/?category=18271" rel="tag">中共党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E5%A4%A7%E5%8F%91/?category=18271" rel="tag">党性大发</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E8%BF%99%E4%BA%9B%E6%95%B0%E5%AD%97%E5%BD%93%E7%84%B6%E4%B8%8D%E5%87%86%E7%A1%AE/" target="cdt-mirror">德国之声｜德语媒体：“这些数字当然不准确”</a>
 </h2>
@@ -598,37 +631,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A7%9A%E9%81%A5%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%AE%89%E6%8A%9A%E9%AD%82%E9%A3%9E%E9%AD%84%E6%95%A3%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/" target="cdt-mirror">姚遥：谁来安抚魂飞魄散的中产阶级</a>
-</h2>
-<p><p><strong>人们放弃了对终极正义不切实际的追求之后，最后在乎的就是内心深处最简单而脆弱的正义底线，不会在态度上遭受粗暴地践踏，导致心底的戾气在失衡状态下被猛烈地释放出来。</strong></p>
-<p>虽然头条新闻不停地往外蹦，可还是要记得，上海公安部门破获了1.7万罐假冒名牌奶粉的大案。不管怎么说，政府部门阻断假冒产品流入市场终归是件好事。只可惜，这样的一件好事功臣们高兴不起来。在消息发布的第一时间里，食药监总局公布假冒奶粉符合国家标准，瞬间抢走了全部的聚光灯，这么大的风头上，友谊的小船真是说翻就翻。</p>
-<p>为何国家食药监总局苦口婆心地要宣布“假奶粉符合国标”，他们理由很坦诚：不是为了欺骗大家，而是提醒大家不要恐慌。</p>
-<p>虽然他们就这么说，可我还真是信了，谁让这一届的科普爱好者不给力。奶粉事件之前，济南公安部门破获了一起疫苗非法经营的大案，科普爱好者们不过打了一个盹的功夫，人民已经像受惊的小兔子一样开始四处乱窜，加上几年前关于疫苗问题的新闻报道被翻出来，一时间变得人心惶惶，人人自危。等到科普安好者出来力挽狂澜的时候，民心的潮水已经将他们彻底淹没，国人对国产疫苗的信心彻底跌停。</p>
-<p>食药监部门在疫苗问题上吃了一个大亏，于是在奶粉问题上的表现就不足为奇。可是，食药监部门在忙乱之中还是考虑不周，科普工作者对问题的解读在科学上固然有道理，然而民间认得理还要更高一层。</p>
-<p>汉高祖刘邦带兵打入咸阳之后，很快就与民约法三章：杀人者死，伤人及盗抵罪。这个两千多年前的道理简单实用，人们求的是最基本的公平能有保障，从而可以安心生活。每个人都会在心中默默地盘算了，我付出了多少，就应该得到多少，如果失去，需要同样的补偿。如果人们花钱买了奶粉，结果拿到的是面粉，即便是安全的，也是不公平的。而人们去打了疫苗，期望得到的是对疾病的抵抗，就算是被注射了一针纯净水，心里如何能够保持平静。</p>
-<p>在基本公平遭到破坏的情况下，受害者的心中自然地会放大恐惧与怨恨，也会本能地放大加害者的迫害。在和颐酒店的风波已经消退以后，大众大体可以认同酒店里的施暴男子是卖淫集团的打手，当时试图恐吓他们错认了的性工作者。相反的是，受害者在此之前却一直惊恐于当时可能遭遇抢劫或者强奸这样的严重暴力侵害，事件中相当的第一时间围观者们也怀有着类似的恐惧。受害者心理阴影面积越大，对加害者的过度想象也要同样的扩大。</p>
-<p>在和颐酒店袭击事件的诸多信息还没有水落石出，受害者的吉凶祸福都难以进一步预料之时，倘若有人非要像科普爱好者一样跳出来嘲笑受害者的无知，一本正经地斥责那位姑娘，我聪明的大脑已经用逻辑分析出来了，你根本不会被强奸，你不过是被骚扰了一下而已，你这样过激的反应是无知的表现。在人心的天平上，这样的行为完全无助于为找回公平加分，更类似一位炫智狂人自带干粮的助纣为虐。</p>
-<p>更何况，从疫苗到奶粉，政府部门不仅作为监管部门守土有责，还要求海外的奶粉必须加价才能进入国内，用国家的强力推行疫苗注射，当有关部门对民众要求更多的时候，民众也自然而然地心存了更高的对价。民众感觉被亏欠多，心中积郁的势能也就越大，不经意之间的一个小问题，可能随时引发诸多小火山的共鸣。因此，有关部门面对充满着受害者怨恨的人群时，还着急地炫耀科学上的冷门知识，宣布问题疫苗无毒，假冒奶粉无害，表现得更像在帮助侵权者。</p>
-<p>就算真的纵容了侵权者，不管在出现多大的社会问题的时候，民间已经根本不在乎什么追责，试图通过世俗的法律来寻找到终极的正义。人们放弃了对终极正义不切实际的追求之后，最后在乎的就是内心深处最简单而脆弱的正义底线，不会在态度上遭受粗暴地践踏，导致心底的戾气在失衡状态下被猛烈地释放出来。</p>
-<p>如此恶劣的社会环境之下，简单而原始的正义原则，不仅仅是憋屈，也必然被扭曲。人们虽然坚信最基本的公平，但一定更加相信一部分人比另一部分人更加公平。17世纪的法学家就发现了，人们对社会生活的欲求并不是统一的标准，而是指按照他们的智识标准跟那些与他们自己同属一类的人过和平而有组织的生活。</p>
-<p>为此，当食药监部门两次跌倒在民间淳朴的公平正义观念面前，他们也在不经意之间解救了自己一次。在躁动的疫苗恐慌之中，人们甚至于根本不关心原来犯罪分子已经被抓获，而是回想起过往听闻的疫苗危机导致了多少人受害，他们是否有可能成为下一个受害者。</p>
-<p>直到最后一场发布会上，人们期待已久的信息终于被官方权威发布，问题疫苗大部分已经使用，而且主要流向农村偏远地区。</p>
-<p>这一则消息让连续紧张了好几天的城市中产们瞬间卸下了肩头的重担，也让话题迅速地退出了热榜。虽然偏远地区的人并不比城里人更喜欢注射据说无害的问题疫苗，但是户籍、地理和经济的分割线，华丽地将城市中产与偏远农村隔离成了两个难以逾越的世界。掌握着网络话语权决定性力量的城市白领，又开始相信公平，只要他们足够地努力，就能够摆脱免于被害的生活，至少这一次的问题疫苗并没有落在他们的头上。在没有受到伤害的时候，城市白领的头上还悬挂着多少达摩克利斯之剑，并不重要。至于问题疫苗对偏远农村地区带来了多少伤害，不再重要。没有话语权的偏远农村，默默地消化了这一场闹剧的全部结果。</p>
-<p>可以想见，食药监部门在疫苗问题上并没有清晰地诊断好民间社会的正义脉相，为此即便无意中解救了一次自己，但很快又将自己埋葬在同一个土坑内。</p>
-<p>假冒奶粉案件背后的事实在于，无论海淘面临着多么高的门槛，只要家里尚有条件的情况，境外代购的奶粉一定是第一选择，大陆范围内销售的外国品牌奶粉是第二选择。至于做出剩余选择的家庭，大体相当于疫苗问题界的偏远农村，属于占有社会资源较少的群体。</p>
-<p>为此，假冒奶粉案件的爆发，食药监部门看错了人民，希望通过着急的解释避免人群又恐慌起来。而多少人只是淡淡的会心一笑而已，完全没有心急如焚的感觉，经过这么多年实践的考验之后，假冒伪劣奶粉与人民健康之间的矛盾，已经转变成了跨境购买奶粉的大陆客与香港本土父母之间的矛盾。不同社会阶层的人群，总会形成特定阶层适应社会的最舒服的姿势。对中产来说，即便贫贱不能移，难道还买不起洋奶粉吗！</p>
-<p>当然，疫苗事件之后，中产们貌似淡定了下来，一衣带水的香港人却被吓出了一身冷汗，连忙宣布不欢迎大陆人来香港打疫苗。</p>
-<p>不过说起疫苗，我不得不想起二十多年前有一个在国内许多地方都流行的谣言。谣言说，有一男一女两个外国人来给中国的小孩子注射疫苗，男医生给男孩子在太阳穴上注射，女医生给女孩子在肚脐眼注射，疫苗是强制性的必须注射，而且只要注射完小孩马上就会死掉。周边县市已经有多少个学校整片整片的死人了，现在正在往我校方向赶来，据说几点钟就要到。这个瞬间爆发的谣言，让许多小孩子们在绝望中惶恐的嚎啕大哭，许多学校特意紧急停课，让小孩们回家避难。</p>
-<p>这个事情过去以后，我一度难以理解，为何这样简陋的信息就能引起如此严重的恐慌。直到我看到疫苗事件爆发的那一天，我才看到，在法律与秩序失灵时，事件中声音最大的中产阶级们，不过是用最简陋的公平原则压抑着内心的戾气，消费不同社会阶层的差异维系表象的体面，用逃亡的脚步作为自我保护的盾牌。与此同时，他们又是无比的清醒，公平与正义遥不可及，始终处于不安宁的惶恐之下。</p>
-<p>于是，每当社会中出现一个致命的涟漪，就激起了澎湃的魂飞魄散。而中产阶级，如同其他人群一样，在魂飞魄散之中找不到灵魂的安宁。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A7%9A%E9%81%A5%EF%BC%9A%E8%B0%81%E6%9D%A5%E5%AE%89%E6%8A%9A%E9%AD%82%E9%A3%9E%E9%AD%84%E6%95%A3%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%B5%E6%9D%83%E8%80%85/?category=18271" rel="tag">侵权者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">基本公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">社会公平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -640,7 +642,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -650,5 +652,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

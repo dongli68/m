@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%91%9B%E6%B0%B8%E5%96%9C%E5%9B%A0%E8%AF%84%E8%AE%BA%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">德国之声｜维权律师葛永喜因评论“巴拿马文件”被短拘</a>
+</h2>
+<p><p><strong>根据推特等网络社交媒体的消息，中国维权律师葛永喜本周五曾一度被中国警方带走，据称原因是他在社交媒体上对涉及“巴拿马文件”的中国领导人发表的讽刺性评论。最新消息显示，葛永喜目前已获释放。</strong></p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg" rel="attachment wp-att-435249"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg?resize=585%2C329" alt="0,,19162853_303,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>巴拿马文件涉及至少8名现任和前任中国政治局常委的家人</p></div>
+<p>（德国之声中文网）署名”欧彪峰”的推特用户于周五（4月15日）晨间发布了据称是律师葛永喜微信帐号的截屏。上面的文字信息显示葛永喜称”公安局突然上门，不知道什么目的，请关注。””欧彪峰”表示，有消息传出5名警察曾闯入葛永喜家中，讯问他是否在网上发了关于<a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%B9%8B%E5%AE%B6%E5%B1%9E%E8%97%8F%E5%AF%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/a-19162432">巴拿马文件</a>的内容。随后葛永喜被警方带走，其私人电话虽然能够拨通，但却无人接听。</p>
+<p>随后据包括”iY自由港”的多个推特帐户报道，葛永喜律师已经于15日晚间获释。并公布了和朋友们在佛山盐布派出所门口的合照。</p>
+<p>在名为”葛永喜律师”的推特帐户上，可以看到目前尚保留的两个与”巴拿马文件”有关的贴文。一个是三个小和尚分别捂嘴、捂眼和捂住耳朵的照片，配图文字 为：”‘巴拿马文件’之后，接下来的反腐怎么搞？”第二个推特发贴则分别用图片和文字的形式罗列了百度搜索、谷歌、维基百科以”巴拿马文件”为关键词的搜索结果页面截屏，以及中国外交部和新华社对”巴拿马文件”的相关反映和报道。</p>
+<blockquote><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg" rel="attachment wp-att-435250"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg?resize=450%2C498" alt="CgDxYOzUkAAcMpq" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg?resize=271%2C300 271w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg?w=533 533w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p></blockquote>
+<blockquote><p>中國維權律師關注組CHRLCG<a href="https://twitter.com/chrlcg" data-scribe="element:user_link">@chrlcg</a>：【公安以“公然侮辱他人”为由对葛永喜律师传唤24小时】图为葛永喜律师在微信发布的图片</p></blockquote>
+<p><b>“摸着石头原来是过巴拿马河”</b></p>
+<p>另外据推特用户”中国维权律师关注组CHRLCG”的消息，葛永喜律师曾在个人微信帐号上转发了一个象征江泽民、习近平和邓小平赤身过河的经过后期处理的 照片，邓小平在照片上的繁体字配词为”巴拿馬的河水真的好深！”。习近平的配词是：”唔怕，我有姐夫！”，而张开大嘴的江泽民则被配以”好易浸死㗎！”的文字。据香港苹果日报4月15日报道，这是网民恶搞巴拿马文件 <a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%B9%8B%E5%AE%B6%E5%B1%9E%E8%97%8F%E5%AF%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/a-19162432">涉案中国领导人</a>的照片。使用的其实是邓小平在北戴河游泳的照片，原片背景有沙滩、建筑物。邓小平的身后两人原来是他的保镖。据称葛永喜律师对图的评论是：”摸着石头原来是过巴拿马河”。</p>
+<p>推特用户”中国维权律师关注组CHRLCG”还公开了据称是佛山市公安局南海分局向葛永喜家属开具的”被传唤人家属通知书”的照片。其中显示，中国当局以”涉嫌公然侮辱他人”为由，于4月15日将葛永喜传唤到盐步派出所接受调查。</p>
+<p>葛永喜律师为广东安国律师事务所执业律师，曾代理包括 <a href="http://www.dw.com/zh/%E5%B9%BF%E5%B7%9E%E6%B0%91%E4%B8%BB%E4%B8%89%E5%89%91%E5%AE%A2%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E6%A1%88%E5%86%8D%E6%AC%A1%E5%BC%80%E5%AE%A1/a-18602879">“广州三君子”</a>、 <a href="http://www.dw.com/zh/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A84%E5%90%8D%E6%88%90%E5%91%98%E8%8E%B7%E5%88%91/a-17577185">“新公民运动”</a>在内的多起人权案件。在中国当局于2016年初 <a href="http://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95%E5%9B%9B%E5%90%8D%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/a-18969827">逮捕4名广东劳工维权活动人士</a>的过程中，葛永喜曾受家属委托担劳工维权人士的代理律师。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%91%9B%E6%B0%B8%E5%96%9C%E5%9B%A0%E8%AF%84%E8%AE%BA%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%91%9B%E6%B0%B8%E5%96%9C/?category=18271" rel="tag">葛永喜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%9C%A8%E5%AE%B6%E5%85%B7%EF%BC%8C%E4%B8%9C%E5%8D%97%E4%BA%9A%E6%A3%AE%E6%9E%97%E7%9A%84%E8%A1%80%E8%85%A5%E6%B5%A9%E5%8A%AB/" target="cdt-mirror">美国之音｜中国红木家具，东南亚森林的血腥浩劫</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg" rel="attachment wp-att-435245"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg?resize=585%2C329" alt="55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>缅甸2014年禁止原木出口的政策下达后，在云南边境口岸，从缅甸运进的原木并未完全绝迹。（美国之音朱诺拍摄，2014年5月7日）</p></div>
+<p>泰国曼谷—</p>
+<p>最新一期的美国《时代周刊》报道，中国市场对于红木家具的强烈需求已经导致了泰国森林沦为非法盗伐者与护林人之间的战场。实际上，这种状况并不止于泰国境内，整个中南半岛的热带森林正在遭受着前所未有的劫难。进入21世纪以来，非法盗伐木材的现象已经成为泰国、老挝、柬埔寨、缅甸、越南等国的严重问题，根据美国非政府组织“保护国际基金会” （Conservation International）于2011年罗列的世界十大濒危森林数据，这一地区的森林流失速度排在全球第一位。</p>
+<p>上世纪90年代之前，日本曾经是从东南亚进口原木的第一大国。然而，随着日本国内对于森林保护认识的逐步加深，消费者对于木制家具的抵制使得日本的原木进口量大幅减少。中国随之取代了日本的原木进口地位，而中国消费者对于红木家具的青睐正是造成这一现象的原因之一。</p>
+<p>随着森林面积的缩减，东南亚各国政府都先后推出了不同程度的“限伐令”，然而，巨大的商业利润驱使一波又一波的冒险家深入东南亚林区。由于中国与其中一些东南亚国家陆地接壤，非法盗伐的木材可以更方便地进入中国，而中国海关对于陆地通关的木材是否合法一直采取睁一只眼、闭一只眼的态度，从而在某种程度上变相鼓励了非法砍伐的商人，使得当地盗伐现象加剧。</p>
+<p><strong>超过80%的木材都去了中国</strong></p>
+<p>《时代周刊》的报道称，1立方米的泰国红木（Siamese Rosewood ，又称黄檀木或者花梨木）在柬埔寨可以卖到5000美元，而走私进入中国后，价格则会翻上10倍。</p>
+<p>泰国东北部城市廊开（Nong Khai）的一位家具制造商乌泰告诉记者：“20年前，泰国北部和东北部还可以找到成片的花梨木、柚木等热带硬木树林，现在都已经消失殆尽。现在，我们也 要去老挝或者缅甸买木头，但是，泰国市场的价格争不过中国，那些地方的绝大多数红木都被运去中国了，整个东南亚的木材，超过80%都去了中国。泰国仅存的一些红木只有在与柬埔寨接壤的边境地区还能找到。”</p>
+<p>《时代周刊》称，由于柬埔寨的森林砍伐一空，那里的盗伐者正逐渐向泰国一侧推进。为了保护这些珍贵木材，泰国于2015年6月组织了护林队，队员们配备了全副武装。而盗伐者们则携带着AK47步枪和手榴弹，双方近来多次交火，造成几十人丧命。护林队队长皮拉福（Piroon Pilaphop）曾对媒体表示：“盗伐者不在乎我们的护林员身份，如果他们撞见我们，他们会毫不犹豫地向我们射击。”</p>
+<p>泰国红木等一些品种曾于2013年被列入《濒危野生动植物种国际贸易公约》（CITES）名单，成为第二级受保护野生植物。泰国政府规定，出口红木必须出具官方颁发的许可证书。然而，按照业界人士的说法，可用于制造传统中国红木家具的木材多达30多种，而其中受到保护的只有几种，绝大多数树种并不在保护之列，而中国的家具制造商则不断改变硬木品种，来解决原料受限问题，这就使得泰国的其他树种也受到非法砍伐的威胁。</p>
+<p>《时代》引用了东南亚森林问题专家马库斯•哈特克（Marcus Hardtke）的论述：“10年前这些物种没人感兴趣，现在却大受追捧。如果现在不采取强有力的措施，中南半岛很快就会只剩下灌木丛了。”</p>
+<p><strong>邻国不堪之苦</strong></p>
+<p>在中国南部的邻国当中，越南的森林面积衰减幅度最大，也是世界上去森林化国家中仅次于尼日利亚的第二大国家。越南本土市场对红木家具的需求同样旺盛，实际上，越南早就禁止了原木出口，现在已成为原木净进口国。东南亚木材没有进入中国的那部分，主要是运往越南。由于中越边境的管理比较清晰，很少有非法木材通过中越口岸进入中国。因此，不少精明的中国家具商改变策略，直接在越南设厂制作红木家具，然后把产品运回国销售。</p>
+<p>老挝曾经是非法木材进口到中国的一个主要来源地，尽管老挝政府也曾明令禁止，但每年还是有大量的木材流入中国和越南。根据环保组织“环境调查机构”（Environmental Investigation Agency，EIA）2015年公布的数据，老挝非法砍伐的木材是合法伐木业的10倍。一些当地企业通过贿赂官员，假借修建基础设施等名目砍伐森林， “禁伐令”名存实亡。</p>
+<p>同样的情况发生在柬埔寨，虽然该国与中国并不接壤，但非法盗伐的木材通过老挝运进中国。据非政府组织“全球见证”（Global Witness）2015年发表的文章称，柬埔寨的富豪狄皮（Try Pheap），正是大量非法盗伐事件背后的金主。除了行贿官员，盗伐者还刺杀执法人员和揭露盗伐事件的记者。</p>
+<p>中国的邻居们当中，森林流失最严重的国家当属缅甸。由于缅甸北部长期被民族武装控制，而这些武装维持生活经费则需要变卖大量的自然资源，除了翡翠、宝石之外，木材也是他们换取金钱的重要物资。根据缅甸资源与环保委员会秘书长吴登伦的说法，缅甸的森林覆盖率在十九世纪末曾占国土面积的70％，到1962年下降为57％，2005年为51％，目前仅为20％左右。</p>
+<p>缅甸政府从2014年4月1日起完全禁止原木出口，但是在那之后，从云南边境进入中国的缅甸木材仍未绝迹。2015年1月，缅甸政府逮捕了112名中国伐木工人，并对其判以重罪，成为轰动一时的新闻。然而，即使在那次事件以后，中国工人在缅甸非法砍伐被关押的消息仍时有所闻。而实际上，缅甸对非法中国伐木工的拘捕从2004年以来就没有停止过，仅2006年6月，就有427名中国工人被缅甸遣返。</p>
+<p><strong>中国官方的不作为引起各国不满</strong></p>
+<p>云南片马口岸旁边堆积的木材，照片中显示的只是其中极少的一部分。（美国之音朱诺拍摄，2014年5月7日）云南片马口岸旁边堆积的木材，照片中显示的只是其中极少的一部分。（美国之音朱诺拍摄，2014年5月7日）</p>
+<p>根据环境调查机构的报告数据，2000年至2013年，中国共进口350万立方米红木，价值24亿美元。按照《时代》的说法，即使是史无前例的反腐运动，也没能减缓中国市场对于红木的需求。在云南边境口岸片马镇，熟悉内情的当地人告诉记者，中国木材商已经砍进缅甸100公里。</p>
+<p>名义上，中国的中央政府并不支持非法贸易，但是，大量的非法砍伐木材毫无障碍运进云南边境也是不争的事实。记者在缅甸2014年禁止原木出口的政策下达之后，曾经到过云南边境的数个口岸，见到从缅甸过关的大量原木堆积在口岸附近。当地人表示，尽管禁令之后运输木材的货车已经显著减少，但是并没有完全绝迹。</p>
+<p>中国地方官员和商人似乎并不理解缅甸人对森林面积锐减的担忧，也不了解缅甸人民逐渐高涨的对于中国商人“掠夺”自然资源的反感，这种对于邻国舆情的无知表现在一些匪夷所思的商业行为中。今年1月，缅甸资源与环保委员会的官员曾向媒体透露，中国某地政府竟然向缅甸建议在边境地区兴建一个以木材贸易为主的工业园区，遭到缅方的严辞拒绝。</p>
+<p>非法砍伐现象在中国国内也没有引起消费者和媒体的足够重视。即使是去年缅甸拘捕中国伐木工人的新闻被热炒期间，无论是媒体和读者都缺少对于人类生活环境和森林面积锐减的反思。上个世纪80年代，日本正是掀起了一场全国性的对于森林砍伐的笔战，各种环境保护的非政府组织应运而生，说服地方政府减少政府机构木制办公家具的使用，继而推广到私人消费者中，才使得全国硬木家具的消费量形成拐点，最终促使日本退出原木进口世界第一的位置。</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%9C%A8%E5%AE%B6%E5%85%B7%EF%BC%8C%E4%B8%9C%E5%8D%97%E4%BA%9A%E6%A3%AE%E6%9E%97%E7%9A%84%E8%A1%80%E8%85%A5%E6%B5%A9%E5%8A%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">环境保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">生态保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E4%BC%90/?category=18271" rel="tag">盗伐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%97%B4%E8%B0%8D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9%EF%BC%8C%E5%A4%A7%E5%AE%B6%E8%B5%B6%E5%BF%AB%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5/" target="cdt-mirror">【立此存照】间谍就在你身边，大家赶快行动起来</a>
 </h2>
 <p><p>2016年4月15日，是《中华人民共和国国家安全法》颁布实施以来的首个全民国家安全教育日。</p>
@@ -575,62 +629,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%B8%85%E5%A5%BD%EF%B8%B1%E5%BA%9F%E8%AF%9D%E8%BF%9E%E7%AF%87-%E7%AD%94%E9%BB%84%E4%B8%93%E3%80%8A%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E8%89%BA%E6%9C%AF%E3%80%8B/" target="cdt-mirror">帅好：艺术无权回避不义政治——答黄专《重要的是艺术》</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-4.jpg" rel="attachment wp-att-435006"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-4.jpg?resize=550%2C382" alt="640" data-recalc-dims="1"></a></p>
-<p><em>微信公号：时代批评（ID: shidaipiping）</em></p>
-<p><strong>黄专先生仙逝了。人之将别，其言也善。他的经典遗言是“一生没有敌人”。“死亡是一种金蝉脱壳”。在一个严酷的时代里，没有敌人可能会活的舒服，但却对专制社会没什么救赎。死亡不是逃亡。回忆两年前与素不相识的黄先生的一次批评对话。发上来如同废话连篇，黄先生一路走好。</strong></p>
-<p>因为令人尊敬的栗宪庭先生的独立电影基金会及宋庄独立电影展被查封，而引发部分艺术家、评论家的抗议，讨论正在网络上进行。年近70的栗宪庭，这个被誉为宋庄艺术生存模式的缔造者，昨天他的电影基金会被宋庄小堡村委会的封条直接贴上家门。这真是一个令人心寒的类似农夫与蛇的神话。昔日与中国平庸存在、荒凉无名、擅于埋头死受一样的乡村宋庄，能有今天世界性声誉，很大意义上在于艺术宋庄的发动机栗宪庭与和他一起而来的那些艺术家的艰难开拓。</p>
-<p>但今天我们不从报恩这种原始的情感说起，对行政权力对艺术权利的霸道干涉，这种情感早已消失。我要从黄专文章的艺术与政治的关系谈起。</p>
-<p>作为评论文章，黄专的结论表述是暧昧的：</p>
-<blockquote><p>栗先生也多次申述他从事的独立艺术与政治行为无关。……除了那些靠玩这种低级游戏谋利的人以外，我们是否有可能在每次“事件”中更加强烈地表明这样独立的立场：“重要的只有艺术”，而避免使它一次次成为简单的政治道义游戏。“老栗”已经成为中国当代艺术的某种精神符号，除了对他30多年独立坚守的人格表达敬意外，我更希望这个符号是“艺术性的”，而不仅仅是“政治性的”。</p></blockquote>
-<p>这个结论，在我看来不仅是要撇清政治与艺术的关系，还具有很坏的精神辅导。其“低级游戏谋利”，更是对当代其他艺术抗议行为污名化。这真是艺术自宫的典型犬儒姿态。</p>
-<p>那么黄专用暧昧帮助艺术自由圈地，他究竟要说什么呢？他说，陈寅恪“独立之精神，自由之思想”的学术主张的实践为：<em>“我不反对现政权”，“必须脱掉‘俗谛之桎梏’。这个俗谛即三民主义”。</em></p>
-<p>黄专因此添油加醋慷慨激昂找到更加自我定夺的依据：陈先生在49年个人政治命运的大抉择中既没有随蒋入台、也没有滞留北京，而选择了在政治地缘上相对中立的广州（偶然原因使他没有去成更为中立的香港），就表明他的一种＂独立＂立场：对知识分子而言，独立意味着他不依赖任何政治理念的＂俗谛＂，意味除了学术它不对任何政治信仰丶利益和意志负责。</p>
-<p>行文到此，我们基本看清了黄专所持的“重要的是艺术”真实的意思表示是什么了。</p>
-<p>我在车上行进时浏览“爱艺汇”微信圈看到伊德尔转述黄专言论，当即回复：</p>
-<p>殊不知，黄专所倡导先贤们提出的“独立与自由”，必须在政治框架下才能成立并保障，没有宪章政治来保证人的独立自由，艺术的自由就不是真正的自由。</p>
-<p>栗宪庭的电影基金会即便与政治有关，也不是被查封的理由，艺术为什么不能与专制相关，为何不敢与专制政治相关，中国各阶层对政治专制逆来顺受的放纵，是警察政治为所欲为的结果。</p>
-<p>任何污名“政治”的生存之道，都是一种艺术的犬儒之技！在没有政治自由的社会，一遇到困难、挫折即撇清与政治的关系，请问这是何种自由、何种心态？难道反对专制政治没有艺术家的事？难道批评政府的作恶行为不该是艺术作品应有之意？</p>
-<p>用陈寅恪的“大陆定居”与“学术主张”相互印证，其实早已不是什么新论，而且这也不是黄专发现的。但是黄专似乎今天扮演了 “陈寅恪授权的发言人”，可以信口拈来告诉天下“独立意味诠释为除了学术它不对任何政治信仰、利益和意志负责”。这种诠释差不多与季羡林关于“陈寅恪爱国主义说”一起构成讨好政府说。</p>
-<p>现在回到电脑前，可以从容回答。</p>
-<p>看看陈寅恪那个著名的独立自由主张的内涵究竟是什么？</p>
-<p>余英时四十年前阐明:“陈寅恪是对极权统治深恶痛绝的，任何人对他的价值意识稍有所知都必然会得到同样的论断。”“马家店的极权体制不但是从外面移植过来，强加于中国民族之上，而且对个人独立精神自由思想的摧残压制更超过古今中外的一切专制统治。陈寅恪绝不可能接受这样一个彻底否定他的价值系统的政治制度。”（参见余英时《我为什么要写陈寅恪）</p>
-<p>黄专诠释此事件下的“重要的是艺术”之观点。比对有人强行将陈寅恪拖入单一效忠文化——选择故土这一逻辑之内。为了艺术——栗宪庭差不多“虽九死其犹未悔”——为了文化，陈寅恪这位文化大师的全部伟大也在此地。这是一种主动送死的诠释。</p>
-<p>余英时举过一个堪称经典的例子：“陈寅恪对于折磨他二十年以至于死的政治始终没有一个明确的看法。他的许多感事诗，……现在都被解释成为‘文化苦吟’”。他在一九五三年《对科学院的答复》，……‘痛斥极权统治者箝制思想’，竟在新论说家的笔下变成了‘文化苦痛’的一种表现。”</p>
-<p>其实，这恰恰内涵了思想与艺术、政治与艺术、自由与艺术的相互关系。</p>
-<p>对死去的陈寅恪与活着的栗宪庭，借用余英时的一个观点，我们都没办法“将政治与文化一刀切的办法来”推崇陈寅恪的高洁，给栗宪庭的独立电影赢得生存空间。</p>
-<p>堪称陈寅恪一生成就典范的《唐代政治史述论稿》，恰巧是其学术自由与政治关系的最好注脚。快不要说栗宪庭独立电影基金会与政治无涉了，要大大方方，说有关。政治就是所有中国人的基本权利规则。你走的每一步都需要政治的帮助。除非你不识路，经常使用警犬带路。</p>
-<p>我们的确需要思考清理二者的关系。</p>
-<p>艺术是自由的，艺术自由的来源的确可以理解为与政治无关，如果你内心有足够的坚定，任何组织和个人，任何风浪都难以泯灭自由观念。但这种艺术自由作为权利的一种存在，必须得到政治权力的维护。说艺术权利与政治无关的人，显然还停留在唐诗宋词的境界里。</p>
-<p>艺术与政治也脱不了干系，这是没办法的事情，谁让我们的生活缺失自由与保障自由的东西呢？在眼下，无论哪个阶层，如果说已经得到了基本的自由，与自由生活的基本的权利，那么你可以退出讨论此问题，你甚至可以谴责那些抗争的艺术家有低级趣味。我觉得对专制政治，不说理的政府官员，我们的各式反抗比沉默更有效。</p>
-<p><strong>（附）黄专：重要的是艺术</strong></p>
-<p>宋庄独立影像展被封再次重复了政治与艺术之间恶性的博弈游戏，这个事件的结果也许将重复过去30年在中国上演的无数次＂闹剧＂（栗宪庭语）：既不会上升为法律诉讼，也不会成为不了了之的民政纠纷，而将积累成我们无法预知的某种心理力量，带来某种我们无法预知的历史后果。</p>
-<p>我们无法提高行政者的政治智慧丶无法改变它的行政能力甚至无法稍稍改变一下执法者简单粗暴的行为惯性（这其实是最容易改变的），那么，在这场恶性游戏中我们有没有可能反省一下我们自己的游戏理念和游戏智性?对栗先生而言，影像展被冠名为＂独立＂也许是颇具深义的，陈寅恪先生当年在为王国维先生撰写的纪念墓铭中提出了＂独立之精神，自由之思想＂的学术理念，它也成为一个世纪以来中国知识分子普遍的心理共识，我不知道栗先生冠名为＂独立＂的这个展览与陈先生的＂独立＂有没有神合之处，但陈先生＂独立＂的含义却值得我们仔细寻味，陈先生后来解释：＂我认为研究学术，最主要的是要具有自由的意志和独立的精神，所以我说’士之读书治学，盖将一脱心志于俗谛之桎梏’。’俗谛’在当时即指三民主义而言。必须脱掉’俗谛之桎梏’，真理才能发挥，受’俗谛之桎梏’，没有自由思想，没有独立精神，即不能发扬真理，即不能研究学术。……我决不反对现政权，在宣统三年时就在瑞士读过资本论原文。但我认为不能先存马列主义的见解，再研究学术。”陈先生在49年个人政治命运的大抉择中既没有随蒋入台、也没有滞留北京，而选择了在政治地缘上相对中立的广州（偶然原因使他没有去成更为中立的香港），就表明他的一种＂独立＂立场：对知识分子而言，独立意味着他不依赖任何政治理念的＂俗谛＂，意味除了学术它不对任何政治信仰丶利益和意志负责。虽然这种独立理念并没有改变陈寅恪的噩运，但作为一种精神遗产它却对中国人的文化人格塑造具有超越政治的恒久力量。</p>
-<p>30多年前栗先生在特殊语境丶针对特殊问题的理论判断＂重要的不是艺术＂多少年来几乎已经成为中国当代艺术的一句箴言，尤其在恶性博弈反复出现时它时常有意无意地被偷换成＂重要的只是政治＂，这就不仅抽空了中国当代艺术安身立命的内在价值，而且有可能使它降格为与它的对手层级相仿的政治用器，有些参与独立影像展的艺术家表明：＂我参与过往届独立影展的策展选片，说实话大部分是艺术家创作的非商业性、非官方的艺术电影、实验动画、纪录片，跟政治没半毛钱关系……＂，栗先生也多次申述他从事的独立艺术与政治行为无关。也许我们无法改变行政者对当代艺术的判断逻辑，无法改变这种恶性的循环游戏，那么，除了那些靠玩这种低级游戏谋利的人以外，我们是否有可能在每次＂事件＂中更加强烈地表明这样独立的立场：＂重要的只有艺术＂，而避免使它一次次成为简单的政治道义游戏。</p>
-<p>＂老栗＂已经成为中国当代艺术的某种精神符号，除了对他30多年独立坚守的人格表达敬意外，我更希望这个符号是＂艺术性的＂，而不仅仅是＂政治性的＂。</p>
-<p>2014.8.23</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%B8%85%E5%A5%BD%EF%B8%B1%E5%BA%9F%E8%AF%9D%E8%BF%9E%E7%AF%87-%E7%AD%94%E9%BB%84%E4%B8%93%E3%80%8A%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E8%89%BA%E6%9C%AF%E3%80%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%BD%9C%E8%87%AA%E7%94%B1/?category=18271" rel="tag">创作自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B8%8D%E5%AE%9C%E5%85%AC%E5%BC%80%E8%AE%A8%E8%AE%BA%E7%9A%84%E6%94%BF%E6%B2%BB%E5%86%85%E5%AE%B9/" target="cdt-mirror">【立此存照】不宜公开讨论的政治内容</a>
-</h2>
-<p><p>知乎用户<a href="https://www.zhihu.com/people/suyicon" target="_blank">@苏翻译</a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6a738269jw1f2v06yphnnj20yi0qe42z.jpg" rel="attachment wp-att-435013"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6a738269jw1f2v06yphnnj20yi0qe42z.jpg?resize=475%2C363" alt="6a738269jw1f2v06yphnnj20yi0qe42z" data-recalc-dims="1"></a></p>
-<blockquote><p>苏翻译，您好，您的提问⎡如何定义、由谁定义“不宜公开讨论的政治内容”？知乎管理员是否有责任具体指出哪部分不宜讨论？⎦由于不符合知乎内容规范已被删除，知乎不允许：不宜公开讨论的政治内容。如果您对本次处理结果有异议，请回复本条私信，我们会及时复查。</p></blockquote>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B8%8D%E5%AE%9C%E5%85%AC%E5%BC%80%E8%AE%A8%E8%AE%BA%E7%9A%84%E6%94%BF%E6%B2%BB%E5%86%85%E5%AE%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -642,7 +640,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -652,5 +650,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

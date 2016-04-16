@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/" target="cdt-mirror">磐石小姐：由Pekojima事件及P師在悉尼大學的遭遇想到的</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1858587740/Dr5tkEMtC" target="_blank">@磐石小姐</a>：由Pekojima事件以及P師在悉尼大學的遭遇，想到了我自己身上發生過的那件事。我一直沒有提過，藉著這個機會，表達一下我深深的感激。</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg" rel="attachment wp-att-435255"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg?resize=450%2C800" alt="01" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg" rel="attachment wp-att-435256"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg?resize=450%2C800" alt="02" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg" rel="attachment wp-att-435257"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg?resize=450%2C800" alt="03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg" rel="attachment wp-att-435258"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg?resize=450%2C800" alt="04" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg" rel="attachment wp-att-435259"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg?resize=450%2C800" alt="05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="http://weibo.com/u/5306343169" target="_blank">@淵流青年</a>：</p>
+<blockquote><p>我想直接貼電郵，不過想想還是直接解釋一下比較好吧。</p>
+<p>被舉報的言論，見諸簽名網站裡的截圖，最聳動的無非是“豚”。豚到底有哪裡辱華了？你是中國人，你不支持政府，你會自我標榜是豚麼？肯定不會。他的言論，由始至終都是堅定的指向盲目愛國沒有分辨能力，政府說啥就是啥的小粉紅。然而小粉紅舉報的時候故意攪渾水，把具有明顯政治意涵的用詞(留學豚）偷換成種族歧視的(chinese international pigs) 。如此下作，中人欲嘔。</p>
+<p>有人會認為這個字用得聳動偏激。是啊，確實情緒化了，泛反對圈裡的生態有多惡劣大家不是不知道吧，光這幾天，我認識的就有5個號因為公開表示支持而被續了。更別提對面可以隨意匿名舉報，隨意辱罵而不必擔心有什麼後果的。叫我們繼續視而不見，安靜平和心靜致遠，連點激動的話都不許說，excuse me? 還有沒有一點點生而為人的血性了？</p>
+<p>續就被續吧，@乱流青年 再見。</p></blockquote>
+<p><strong>【编者注】</strong>背景新闻请看微博搜索截图：<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E6%90%9C%E7%B4%A2.png" rel="attachment wp-att-435261"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E6%90%9C%E7%B4%A2.png?resize=450%2C973" alt="微博搜索" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博搜索.png?resize=474%2C1024 474w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博搜索.png?w=703 703w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>知名漫画家<a href="https://twitter.com/badiucao" target="_blank">巴丢草</a>在推特发起了声援吴维的<a href="https://photos.google.com/share/AF1QipMR2cVK_yJu9ir_0kf8R8RIbhteCBG7bDDEx_KNcqwoQJ7tvb7Sn-_O3TzBR9e1lw?key=MXlvbmJ3SU9ES3U5dDBkT2tkYmZ6OWlQMDhUaTZ3" target="_blank">#草泥马护照</a> 活动：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.png" rel="attachment wp-att-435262"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.png?resize=450%2C587" alt="1 草泥马护照" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?resize=230%2C300 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?resize=768%2C1003 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?resize=784%2C1024 784w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?w=1149 1149w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.jpg" rel="attachment wp-att-435264"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.jpg?resize=500%2C723" alt="草泥马护照" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/草泥马护照.jpg?resize=768%2C1110 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/草泥马护照.jpg?resize=708%2C1024 708w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/草泥马护照.jpg?w=1544 1544w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%91%9B%E6%B0%B8%E5%96%9C%E5%9B%A0%E8%AF%84%E8%AE%BA%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">德国之声｜维权律师葛永喜因评论“巴拿马文件”被短拘</a>
 </h2>
 <p><p><strong>根据推特等网络社交媒体的消息，中国维权律师葛永喜本周五曾一度被中国警方带走，据称原因是他在社交媒体上对涉及“巴拿马文件”的中国领导人发表的讽刺性评论。最新消息显示，葛永喜目前已获释放。</strong></p>
@@ -608,27 +628,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C%E6%84%88%E6%BC%94%E6%84%88%E7%83%88-%E4%BD%9B%E9%97%A8%E9%AB%98%E5%83%A7%E8%B5%9E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%8F%A9%E8%90%A8%E5%8C%96%E8%BA%AB/" target="cdt-mirror">自由亚洲｜个人崇拜愈演愈烈 佛门高僧赞习近平“菩萨化身”</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%87%80%E7%A9%BA%E6%B3%95%E5%B8%88.jpg" rel="attachment wp-att-435009"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%87%80%E7%A9%BA%E6%B3%95%E5%B8%88.jpg?resize=575%2C306" alt="净空法师" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/净空法师.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/净空法师.jpg?resize=768%2C409 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/净空法师.jpg?resize=1024%2C545 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/净空法师.jpg?w=3338 3338w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>Youtube视频截图</span></p>
-<p>在中国大陆，对习近平的个人崇拜蔓延到佛教界。继建省福鼎市灵峰寺名誉方丈最近要求信众“紧密团结在以习近平为首的党中央周围”后，网上又传出净空法师的讲经视频称，习近平为“菩萨化身”，令世界充满希望。不但激起国内民众强烈批评，也引起国际媒体关注。</p>
-<p>中国国家主席习近平上台近4年来，中国官方媒体及民间所展示的对其个人崇拜越演愈烈。最近网上一位称为“净空法师”的佛教和尚在他的讲经视频中，将习近平称作“菩萨化身”，并称他完全为国家，为民族，为全世界苦难众生付出，没有想到自己；因此在其领导下，“这个世界前途有希望”。该视频虽然后来被删除，但在国内引起了巨大争议。</p>
-<p>四川异议人士李宇对自由亚洲电台表示，一两个佛门明星对习近平的崇拜，并不能看作是个普遍现象：</p>
-<p>“一两个法师这样说并不能代表整个佛教界，（即使他）德高望重也很难说。他现在有这样的想法，但我觉得，毕竟现在的民智开启了很多，他这种个人崇拜可能只在底层的一些民众当中有一定的市场，其他方面可能他不太可能。反腐败让底层的民众觉得，他是人民的大救星，底层民众对贪官盘剥（感触）可能比较严重，强烈的反腐让给人民一种宣泄。”</p>
-<p>有网民留言指，习近平上台之后大力赞扬毛泽东，但毛泽东曾给中国带来巨大灾难，包括中共称为“浩劫”的文化大革命。网民也以“毛病养成恶习”的说法，将毛与习相提并论，暗批习近平重走毛泽东的个人崇拜之路。</p>
-<p>据媒体报道，有关的视频没有说明这位净空法师在甚么时候发表有关言论，但他在讲课中提及习近平“这次访问印度”一事，因此相信时间背景应在2014年9月之后。而这位净空法师，曾到台湾从师学佛，之后又到美国、新加坡和澳洲讲经，更在澳洲成立“净宗学院”。</p>
-<p>在中国大陆的宗教政策之下，习近平的地位似乎已凌驾于各个宗教偶像之上。早前大陆网上疯传福建省福鼎市灵峰寺名誉方丈、山西省太原市慈航净苑住持印广法师在讲经时要求，众佛子“紧密团结在以习近平为首的党中央周围，圆习主席中国梦”。</p>
-<p>对此，民间法律人士田先生告诉本台：</p>
-<p>“其实他们想死灰复燃，想着利用自己的权势搞些什么名堂。我觉得，迟早会被越来越强烈的民意所压垮。因为文化大革命过去没有多长时间，很多深受其害的人还在，大家对这个事情已经觉悟了。而且毛泽东在世的时候，搞个人崇拜给中国造成的危害血迹斑斑、刻骨铭心。我想，他们不会允许这种行为发生，其实他们想搞，我觉得那是他们一厢情愿，搞不下去也搞不成，因为全国人民不会答应。”</p>
-<p>净空法师俗名徐业鸿，一九二七生于安徽省庐江县，一九四九年到台湾，服务于实践学社，后出家为僧，近年在世界各地讲解佛经，但在佛教界中，对净空法师的争议也极大。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C%E6%84%88%E6%BC%94%E6%84%88%E7%83%88-%E4%BD%9B%E9%97%A8%E9%AB%98%E5%83%A7%E8%B5%9E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%8F%A9%E8%90%A8%E5%8C%96%E8%BA%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8%E5%BF%83/?category=18271" rel="tag">习核心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E7%A9%BA%E6%B3%95%E5%B8%88/?category=18271" rel="tag">净空法师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -640,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -650,5 +649,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%A0%B8
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

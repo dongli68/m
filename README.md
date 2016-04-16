@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%97%B4%E8%B0%8D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9%EF%BC%8C%E5%A4%A7%E5%AE%B6%E8%B5%B6%E5%BF%AB%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5/" target="cdt-mirror">【立此存照】间谍就在你身边，大家赶快行动起来</a>
+</h2>
+<p><p>2016年4月15日，是《中华人民共和国国家安全法》颁布实施以来的首个全民国家安全教育日。</p>
+<p>中共教育部办公厅在近日下发的《<a href="http://www.moe.edu.cn/srcsite/A12/s256/201604/t20160412_237690.html" target="_blank">关于深入开展首个全民国家安全教育日活动的通知</a>》中规定：教育部将组织或指导相关活动，各地各校要积极组织学生参加；在各学段有针对性地安排教育内容，落实“将国家安全教育纳入国民教育体系”；教育部下属网站及新媒体需要集中宣传报道国家安全教育活动开展情况，各地各校要通过校报校刊、广播电视、校园网络、橱窗板报等校内媒体进行配合。</p>
+<p>据网民透露，南京部分电影院会在电影放映前先播放以下这部“反间谍”宣传片。该片最早发布于2015年，在今年首个全民国家安全教育日期间再次回到人们的视线。</p>
+<p>宣传片片头截图：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8F%8D%E9%97%B4%E8%B0%8D%E5%AE%A3%E4%BC%A0%E7%89%87%E7%89%87%E5%A4%B4.jpg" rel="attachment wp-att-435211"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8F%8D%E9%97%B4%E8%B0%8D%E5%AE%A3%E4%BC%A0%E7%89%87%E7%89%87%E5%A4%B4.jpg?resize=550%2C320" alt="反间谍宣传片片头" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片片头.jpg?resize=300%2C175 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片片头.jpg?resize=768%2C447 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片片头.jpg?resize=1024%2C596 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片片头.jpg?w=1384 1384w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br>
+片尾字幕截图：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8F%8D%E9%97%B4%E8%B0%8D%E5%AE%A3%E4%BC%A0%E7%89%871.jpg" rel="attachment wp-att-435209"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8F%8D%E9%97%B4%E8%B0%8D%E5%AE%A3%E4%BC%A0%E7%89%871.jpg?resize=550%2C315" alt="反间谍宣传片1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片1.jpg?resize=300%2C172 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片1.jpg?resize=768%2C440 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片1.jpg?resize=1024%2C587 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片1.jpg?w=1387 1387w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p>“反间谍斗争是隐蔽战线上一项长期的没有硝烟的战争。随着我国综合国力的提升，境外间谍情报机关必然把我国作为主要的进攻目标。市民朋友们，间谍就在你身边，大家赶快行动起来，筑牢犯奸防谍的人民防线！”——南京国家安全局</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8F%8D%E9%97%B4%E8%B0%8D%E5%AE%A3%E4%BC%A0%E7%89%872.jpg" rel="attachment wp-att-435210"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8F%8D%E9%97%B4%E8%B0%8D%E5%AE%A3%E4%BC%A0%E7%89%872.jpg?resize=550%2C321" alt="反间谍宣传片2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片2.jpg?resize=300%2C175 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片2.jpg?resize=768%2C449 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片2.jpg?resize=1024%2C598 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/反间谍宣传片2.jpg?w=1361 1361w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br>
+（<a href="http://v.qq.com/page/r/f/6/r0194h4nbf6.html" target="_blank">视频地址</a>）</p>
+<p>以下图片来自新浪微博：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/005voqDojw1f2xvd7romdj30qo0zk77w.jpg" rel="attachment wp-att-435213"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/005voqDojw1f2xvd7romdj30qo0zk77w.jpg?resize=400%2C534" alt="005voqDojw1f2xvd7romdj30qo0zk77w" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/005voqDojw1f2xvd7romdj30qo0zk77w.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/005voqDojw1f2xvd7romdj30qo0zk77w.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a> <a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a56c54d5gw1f2xu6z69z1j20qo0zkdq1.jpg" rel="attachment wp-att-435214"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a56c54d5gw1f2xu6z69z1j20qo0zkdq1.jpg?resize=400%2C534" alt="a56c54d5gw1f2xu6z69z1j20qo0zkdq1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a56c54d5gw1f2xu6z69z1j20qo0zkdq1.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/a56c54d5gw1f2xu6z69z1j20qo0zkdq1.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a> <a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e9a13b1cgw1f2xq9gn0u7j20zk0qoq8x.jpg" rel="attachment wp-att-435215"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e9a13b1cgw1f2xq9gn0u7j20zk0qoq8x.jpg?resize=440%2C330" alt="e9a13b1cgw1f2xq9gn0u7j20zk0qoq8x" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e9a13b1cgw1f2xq9gn0u7j20zk0qoq8x.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e9a13b1cgw1f2xq9gn0u7j20zk0qoq8x.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p>
+<blockquote><p><em>相关阅读：</em></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2015/11/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%85%A8%E6%B0%91%E9%98%B2%E8%B0%8D%EF%BC%9F%E4%B8%AD%E5%9B%BD%E8%AE%BE%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF12339/" target="_blank">端传媒 | 全民防谍？中国设间谍举报热线12339</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E4%B8%AD%E7%BE%8E%E9%97%B4%E8%B0%8D%E6%A1%88%EF%BC%9A%E3%80%8A%E7%8E%AF%E6%97%B6%E3%80%8B%E4%B8%BA%E8%A2%AB%E5%91%8A%E5%A4%A7%E5%94%B1%E8%B5%9E%E6%AD%8C%EF%BC%9F/" target="_blank">BBC｜中美间谍案：《环时》为被告大唱赞歌？</a></li>
+</ul></blockquote>
+<p><strong>附：<a href="http://www.lsnews.com.cn/2016/system/2016/04/14/010699680.shtml" target="_blank">教育部关于开展首个全民国家安全教育日活动的通知</a></strong></p>
+<p>各省、自治区、直辖市党委教育工作部门、教育厅(教委)，新疆生产建设兵团教育局，部属各高等学校，中国教育电视台、中国教育报刊社：</p>
+<p>2016年4月15日是《中华人民共和国国家安全法》颁布实施以来的首个全民国家安全教育日。为贯彻落实中央有关部署安排，经研究决定，在各级各类学校深入开展国家安全教育，并于“4·15”前后集中开展教育活动。现将有关事项通知如下：</p>
+<p>开展首个全民国家安全教育日活动，要全面贯彻落实习近平总书记系列重要讲话精神，广泛动员部署，整合教育资源，积极组织开展国家安全教育活动，系统宣传总体国家安全观战略思想，加大对《国家安全法》及《反恐怖主义法》《反间谍法》等国家安全相关法律法规的普法宣传力度，让广大师生在教育活动中普遍掌握国家安全知识，提升国家安全意识，自觉维护国家安全。</p>
+<p>1.组织开展国家安全教育活动。教育部组织或指导举办中小学国家安全教育法律知识普及周、国家安全教育日网上宣传、第21个全国中小学安全教育日、首届全国高校学生国家安全教育教学能力大赛和第9届全国大学生信息安全竞赛等活动。全国青少年普法网将制作相关学习宣传材料，供下载学习。各地各校要积极组织学生参加相关活动，并结合本地本校实际，大力开展形式多样、内容丰富、各具特色的教育活动，邀请国家安全相关领域专家学者举办专题讲座，与相关部门合作开展国家安全知识培训和竞赛。</p>
+<p>2.切实加强国家安全教育教学。落实“将国家安全教育纳入国民教育体系”的要求，结合各学段学生的特点，有针对性地安排国家安全教育教学内容，使广大学生在校期间普遍接受国家安全教育。义务教育阶段主要在德育、历史、地理等相关学科课程以及综合实践活动中安排国家安全教育内容。高中阶段主要以集中军事训练和知识讲座等方式开展国家安全教育。大学阶段要在思想政治理论课及相关专业教学中安排一定学时，加强对高校学生的国家安全教育，有条件的高校可开设与国家安全相关的选修课程。</p>
+<p>3.加大国家安全教育宣传力度。中国教育报、中国教育电视台和教育部门户网站、“两微一端”等教育媒体，要集中宣传报道国家安全教育活动开展情况。各地各校要通过校报校刊、广播电视、校园网络、橱窗板报等校内媒体，大力宣传贯彻实施国家安全法、加强国家安全教育、做好国家安全工作的好做法好经验，增强宣传报道的针对性和实效性，为首个全民国家安全教育日营造良好氛围。</p>
+<p>各地各校要高度重视国家安全教育，精心设计、统筹安排、广泛动员、认真实施。教育活动要根据形势变化和学生特点，丰富教育形式，拓展教育载体，确保取得实效。要把集中教育活动与日常教育活动、课堂教育教学相结合，不断充实教育内容，完善教学体系，建立国家安全教育长效机制。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%97%B4%E8%B0%8D%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9%EF%BC%8C%E5%A4%A7%E5%AE%B6%E8%B5%B6%E5%BF%AB%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%B4%E8%B0%8D%E4%B8%BE%E6%8A%A5%E7%83%AD%E7%BA%BF/?category=18271" rel="tag">间谍举报热线</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E8%BF%99%E4%BA%9B%E6%95%B0%E5%AD%97%E5%BD%93%E7%84%B6%E4%B8%8D%E5%87%86%E7%A1%AE/" target="cdt-mirror">德国之声｜德语媒体：“这些数字当然不准确”</a>
 </h2>
 <p><p><strong>中国最新经济增长数据是德语媒体周五关注的焦点。国家统计局每次公布的数字都能与中央的指标“不谋而合”，这引起了德国记者深深的怀疑。</strong></p>
@@ -597,30 +629,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%88%E8%AE%BA%E7%8E%AF%E7%90%83%EF%BC%8C%E8%AF%B7%E5%85%88%E7%A1%AE%E5%AE%9A%E4%BB%80%E4%B9%88%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84%EF%BC%9F/" target="cdt-mirror">旧闻评论｜宋志标：谈论环球，请先确定什么是无辜的？</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg" rel="attachment wp-att-434978"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?resize=450%2C672" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-3.jpg?w=636 636w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>题图当代水墨，作者新浪微博：@秃头倔人</span></p>
-<p>看见笑蜀老师写的文章，关于环球时报与国家前景的，旁征日本案例，暗示环球鼓动战争情绪，言其危害国家前途。此文一如他从前的风格，语言流畅，论证圆熟，很受欢迎。</p>
-<p>这么多年看来下，环球在最近几年越来越频繁地进入舆论场合起舞，这是从前所没有的。环球从一张小报变为舆论场合下的一种环球现象，预示着许多缺失的发生。</p>
-<p>环球其实一直都是那个样子，流里流气，谈不上正声正气，有人揣测其背景如何如何，也都没有证据。只能归结为，左的总是安全的，而且它长在民族主义的丰厚土壤里。</p>
-<p>环球不是一个正常的消息源，这是两个意思：一是许多稍加敏感的信息，都已经在外部流传，认为它传递了其他媒体没有的信息，只是因为接受者信息来源比较贫乏而已。</p>
-<p>另外一层意思是，它在信息悬殊的情况下，对某些信息的解读是扭曲的——盛赞环球多少透露点信息的，都不会否认这种被加工过的信息加深了偏见——从这个角度赞环球的人基本不是它的读者。</p>
-<p>到底是对某些信息的无知好，还是知道这些已经被扭曲的信息好，说来说去，只能说什么样的读者配有什么样的报纸。那些批评环球的，多少抱着拯救环球的心态，其实大可不必。</p>
-<p>对环球的不忿，理据多是它相反的那些媒体没有了，它在不平衡的舆论生态里占了便宜云云。这么说，可能接近事实，但事实不等于立场，更可能要检讨的不是环球坏坏的独在，而是那些好好的怎么了。</p>
-<p>如果你说环球是坏的，很可能是你变得不好了。否则，这种比较就不该会造成什么敏感。当然，有人一直抱以洁癖心态，远离环球现象的种种，大概也是一种难得的风范。</p>
-<p>焦虑环球现象的入侵，或者认为它造成“不可收拾的恶果”，可能都有点夸张，毕竟在整个意识形态格局中，论关键性，环球排不上号。在这种意义上讲，“环球现象”很像一种幻觉。</p>
-<p>一些被认为是智者的人有意无意地强化了这种幻觉，而有些“好人”也似乎乐于强调危险，进而将环球现象的幻觉传染给他人。就舆论的历史看，没有常胜将军，左边和右边都是这样。</p>
-<p>当然，在谈论环球时，恰当与否，一个重要的参照物，就在于确定什么东西是无辜的。如果预设一个无辜的国家，将环球摆在它的反面，恐怕就需省思这种预设，这种“无辜”的设定是否确实。</p>
-<p>有些事本不存在，谈论多了就有了神仙鬼怪，用在环球话题上，似乎是可以成立的。从论断的角度看，它似乎重要得很；可从判断的角度看，一直边缘，尽管它影射的那些一直在。</p>
-<p>2016/4/12</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B0%88%E8%AE%BA%E7%8E%AF%E7%90%83%EF%BC%8C%E8%AF%B7%E5%85%88%E7%A1%AE%E5%AE%9A%E4%BB%80%E4%B9%88%E6%98%AF%E6%97%A0%E8%BE%9C%E7%9A%84%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8D%E6%9D%82%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">复杂中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -642,5 +650,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

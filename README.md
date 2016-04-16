@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/" target="cdt-mirror">磐石小姐：由Pekojima事件及P師在悉尼大學的遭遇想到的</a>
@@ -258,7 +258,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%BD%9C%E4%B8%BA%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%9A%E4%B8%BB%EF%BC%8C%E9%A9%AC%E4%BA%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%B5%A2/" target="cdt-mirror">博谈网｜作为《南华早报》业主，马云不可能赢</a>
 </h2>
@@ -474,7 +474,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">律师资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8%E7%BD%AA/?category=18271" rel="tag">煽动民族仇恨罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%9C%A8%E5%BE%AE%E5%8D%9A%E4%B8%8A%E5%8F%8D%E5%87%BB%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E8%BE%B1%E5%8D%8Etutor%EF%BC%8C%E7%BB%93%E6%9E%9C%E8%A2%AB%E5%85%AC%E7%9F%A5/" target="cdt-mirror">知乎｜微博反击辱华tutor，被公知日杂攻击怎么办？</a>
 </h2>
@@ -639,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -649,5 +649,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

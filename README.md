@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,206 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%98%AF%E8%B0%81%E5%90%B9%E6%95%A3%E4%BA%86%E9%A6%99%E6%B8%AF%E7%A5%9E%E8%AF%9D%EF%BC%9F/" target="cdt-mirror">端传媒 | 是谁吹散了“香港神话”？</a>
+</h2>
+<p><p>端传媒记者 吴婧 实习记者 林可欣、訚睿悦 发自香港</p>
+<blockquote><p>摘要：2013年政改开幕、占中启动，在内地官媒笔下一直“充满生命力”的香港，开始被描述为“激进”、“常态乱”。</p></blockquote>
+<p>转变似乎从2013年开始。在内地主流报纸上，曾经和“繁荣”、“美好”等字眼紧紧相连的香港，开始越来越多地同“负面”、“极端”、“竞争力堪忧”出现在同一画框里。</p>
+<p>2013年，香港工人在葵青货柜码头发起长达40天的罢工，曾被港人视作“狮子山精神”代表的李嘉诚被画上魔鬼的犄角和獠牙，印在横幅上。那是“自由行”开放第十年，港人对“中国人”的身份认同跌至1999年来的最低点，在中国城市竞争力排行榜上，蝉联12年冠军的香港首次跌至第五名。也是在那一年，“占领中环”被正式提出。</p>
+<p>2007年，中国人民代表大会常务委员会（人大常委）决定香港最早可于2017年实行普选。但关于普选方法，《基本法》并没有具体明确的规定。经由近20年的讨论和改革，香港社会仍未实现港人期待的真普选──即每个港人都拥有相同而平等的投票权、提名权及参选权。</p>
+<p>2013年初，香港大学法律系副教授戴耀廷、香港中文大学社会学系副教授陈健民及基督教牧师朱耀明提出“占领中环”的行动方案：示威者违法长期占领中环要道，瘫痪香港政经中心，以此为杠杆向北京争取真普选。</p>
+<p>从那一刻起，一切都开始变调。官方喉舌《人民日报》和以“民族主义旗帜”著称的《环球时报》设定了内地媒体关于香港形象的新议程：不再讲娱乐、民生、中港互惠及同胞情，取而代之的多是政治场域的一件件风波，伴以“暴力”、“沉沦”、“乱局”等负面词汇。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.46.27.png?resize=555%2C401" alt="Screen Shot 2016-04-16 at 下午1.46.27" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.46.27.png?resize=300%2C217 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.46.27.png?w=555 555w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><br><span>图：端传媒设计部</span></p>
+<p>梳理这两个最有影响力的官方媒体从1997至2015年间有关香港报道的标题，这种态度的转变显得愈加触目惊心。原本的“和风细雨”变成僵硬的祈使句和判断句，从《东方之珠大放异彩》、《中央政府大力支持香港特区发展经济》、《香港和澳门人民永远与四川人民心连心》到《中央对于香港政改具有毋庸置疑的主导权》、《“占中”头目是乱港小丑和罪人》、《香港民主给内地做了糟糕示范》、《如果香港社会能容忍乱，内地何需急》。</p>
+<p>是什么浇熄了两大媒体对香港的爱？</p>
+<p>有一种猜测认为是香港自身经济地位的衰退：回归十九年，香港在中国GDP的占比从18％跌至不足3％，港口货物吞吐量从全球第一跌至第四。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.47.35.png?resize=553%2C554" alt="Screen Shot 2016-04-16 at 下午1.47.35" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.47.35.png?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.47.35.png?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.47.35.png?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.47.35.png?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.47.35.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>图：端传媒设计部</span></p>
+<p>但经济疲弱从来都不是香港在官方舆论中“减分”的原因。在香港深陷金融风暴的1997、98年，《人民日报》用数量惊人的文章报道香港回归，却鲜少提及这场风暴，寥寥可数的几篇中亦透露着乐观和信心──《金融风波过后香港未来会更好》。尽管，香港用了9年时间才恢复到1997年的人均GDP水平。</p>
+<p>2011年，北京成为继上海之后第二个超越香港GDP的城市，内地主流媒体亦未因此贬低香港。发行逾200万份的《环球时报》从正面视角报道香港──《港金融排名首次全球摘冠》。</p>
+<p>2013年以前，在两大媒体的报道中，香港是内地学习的榜样，顶着光环：《与香港合作大有可为》、《香港服务，处处很到位》、《香港反贪，廉政公署功不可没》、《香港同胞、澳门同胞完全有智慧有能力管理好、建设好香港、澳门》……这光环如此耀眼，以至于香港回归以来真实经历的变故，内地人一无所知。</p>
+<p><strong>香港有两张“脸”</strong></p>
+<p>2003年6月29日，时任总理的温家宝访港，签订《内地与香港关于建立更紧密经贸关系的安排》（简称CEPA）。CEPA容许香港产品免税进入内地，或出口至与内地签署自由贸易协定的第三国。这被视为北京送给香港的金钱大礼包。</p>
+<p>两天之后的7月1日，平均气温超过摄氏33度，香港天文台发出酷热天气警告。大批身着黑色的市民涌入铜锣湾维多利亚公园足球场，人数之多，远超过游行主办方民间人权阵线的预料。</p>
+<p>起因是基本法23条。1989年64事件之后，中央政府在香港基本法中新增这一条款，规定了包括叛国、分裂国家、煽动叛乱、颠覆、窃取国家机密等“危害国家安全”的罪名，其定义模糊，常被批评者认为是威胁言论自由、新闻自由的隐形炸弹。2002年港府推出咨询文件，建议立法，引发香港社会强烈反弹。</p>
+<p>最终，超过50万人在2003年7月1日走上街头，反对23条立法。几天后，民主派团体再次发起游行，提出只有民主普选，才能根本保障一国两制、香港法治与自由不受威胁。这是1989年150万人上街声援北京学生运动之后，香港规模最大的游行，并最终导致港府撤回23条草案。</p>
+<p>从此，香港每一年的“回归纪念日”，头也不回地转换为“社运抗争日”：民主、自由、特首下台、捍卫法治与新闻自由……成了年年回响的主旋律。中央政府送来的CEPA礼包则无人再提。</p>
+<p>那场声势浩大的反23条游行并未出现在官方媒体上。事实上，此后每一年香港为争取普选、实现民主而举行的大游行，都鲜少在两大报纸上露面。在官媒的勾勒下，香港的面孔被简化为几个符号：《无间道》、梅艳芳和旅游购物天堂。</p>
+<p>身处内地的人们，对香港人的民主追求知之甚少。他们知道中国对香港在经济上处处让利、帮扶，却不知中港交流中的摩擦、香港社会的日渐撕裂、红色资本渗透下日渐萎缩的自由以及经济萎靡、房价飞涨引发的民怨。2012年，当香港网民在报纸上刊发《香港人，忍够了》的广告，将赴港生子的内地孕妇比作“蝗虫”时，不少内地人才第一次惊觉──原来香港人这么讨厌内地。</p>
+<p>内地网民气愤难平：“需要内地的时候，内地就是他们的支持，不需要内地的时候，内地就是他们的拖累。香港是被祖国妈妈宠坏了的小孩。”这是一种至今仍广泛流行的看法──建立在人们“自以为”对香港多年的了解上。</p>
+<p>不过，当中港网民在互联网上谩骂攻讦时，中国官方媒体保持了一如既往的淡定。2012年2月4日，《环球时报》发表社评“灭火”──《别用“蝗虫”与“狗”清算彼此感觉》。“中国的大一统没那么脆弱，港人对国家的认同感，以及内地人对香港的认同感也不会不堪一击，”文章说道，“摩擦挡不住香港与内地的进一步融合。”</p>
+<p>同年，香港陆续爆发“反国教”运动（港府2011年起计划在中小学开设“德育及国民教育科”，培养学生对中国的身份认同，被民间讽为“洗脑”），港府不得已宣布搁置计划。《环球时报》发表社评《看香港政治，内地应有超脱心态》:“香港在任何时候都‘出不了大格’，‘港独’绝不可能出现，”文章写道，“内地的调控杠杆很多。如果发生对抗，香港的力量毫无胜算”。</p>
+<p>官媒的这种“沉著”在一年后戛然而止。</p>
+<p><strong>“任何一个中国人都不能允许国家分裂”</strong></p>
+<p>1990年4月4日，七届全国人大三次会议通过了《中华人民共和国香港特别行政区基本法》，于1997年7月1日起实施。在这部法律中，中央承诺给予香港普选权。</p>
+<p>2004年，香港争取07年行政长官、08年立法会双普选，被全国人大否决。至2007年，香港再次争取2012年双普选，又被否决，普选的时间表被推到2017年。</p>
+<p>普选是横在北京和香港心口间的那根鱼刺。北京一次次拖延，香港一次次失望，如今已到了必须把刺拔出来的时刻。有声音认为，北京的犹豫源自忧虑──香港的普选会在内地引发类似的普选诉求，释放出它无法控制的力量。</p>
+<p>于是，当争取真普选的“占领中环”行动被提出时，面对香港问题一向“沉著”的官方媒体再也坐不住了。这一年，《环球时报》对香港倾注了前所未有的热情，报道数量较2008年增长了6倍多，这一数字在占中发生的2014年达到最高峰。与此同时，代表官方的《人民日报》则对占中进行了“冷处理”。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.49.02.png?resize=553%2C437" alt="Screen Shot 2016-04-16 at 下午1.49.02" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.49.02.png?resize=300%2C237 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.49.02.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>图：端传媒设计部</span></p>
+<p>2014年8月31日，全国人大常委会为2017年特首普选方法设下框架。在这一框架下，所有不被北京看好的参选人几乎都无法挤进提名，和港人追求的真普选相差甚远。</p>
+<p>“占领中环”运动随后发布新闻稿：“我们非常难过地说：今天对话之路已经走尽，占中必定发生。”</p>
+<p>2014年9月26日至12月15日，数以万计的香港民众填满了金钟、添马舰、中环、湾仔、铜锣湾、旺角和尖沙咀的马路，构成了香港历史上最大型的公民抗命运动。据香港中文大学传播与民意调查中心推算，整场运动的参与人数可能达到120万，占全香港人口的1/6。</p>
+<p>这场以学生为主体的运动在很多方面同1989年的那场运动相似。BBC中国总编辑Carrie Gracie评价说，“颜色革命是北京最坏的噩梦。理想主义的中国年轻人举着标语牌、头上扎着黄布条。这番景色让中国政府进退两难。”</p>
+<p>与此同时，内地的市场化媒体通通被噤声，报道占中的话语权牢牢握在官媒的手上。在中央电视台、新华社、《人民日报》和《环球时报》的大篇幅报道中，占中被描述为境外势力通过香港来颠覆大陆的“阴谋”，占中发起者则是目无法纪、祸害香港的“小人”，香港市民的政治改革呼声被污名化为简单粗暴的“反华”、“反大陆”。</p>
+<p>这些舆论发挥出惊人的影响力。在BBC中文网一篇关于占中的报道下方，大批内地网民翻墙来留言：</p>
+<p>“拉着反共、驱赶内地人的横幅，与自己追求真普选、落实真民主的初衷相符吗？给人一种错觉就是在搞独立、闹分裂。”</p>
+<p>“泛民主派想在2017年就在直选中得到香港的控制权，那只能是妄想。香港这次打头阵的学生们肯定有人在幕后操纵。希望你们汲取八九年的教训。”</p>
+<p>“任何一个中国人都不能允许国家分裂，无论是谁，只要搞分裂，他一定会遗臭万年！而且他一定会失败！”</p>
+<p>这种舆论污染令中港两地民众更加无法理解彼此，也将香港民心推向更远。“北京和建制派过去十几年来一直念兹在兹的‘人心未回归’，经过两年多来的局势演变与政治操作，终于演变成了今天的‘人心不回归’”，梁文道在《北京为什么担心？》一文中说，“现在这么简单的占领示威也被打成‘港独’的实际环境之下，大声说出‘香港要独立’又有什么可怕的呢？”</p>
+<p>2015年底，香港大学民意研究计划公布最新民调，港人对“中国人”的身份认同感再创新低。受访者中，自称是“中国人”或“香港的中国人”的分别只有18％和13％。另据香港中文大学传播与民意调查中心今年3月进行的一次调查，超过8％的受访市民自认为是本土派。在18至29岁的市民中，选择本土派的接近30％。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.49.34.png?resize=552%2C368" alt="Screen Shot 2016-04-16 at 下午1.49.34" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.49.34.png?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.49.34.png?w=552 552w" sizes="(max-width: 552px) 100vw, 552px" data-recalc-dims="1"><br><span>图：端传媒设计部</span></p>
+<p><strong>“香港神话正在破灭”</strong></p>
+<p>“政治化”就像一面灰色滤镜，在《环球时报》和《人民日报》眼中，香港的一切都变得暗淡、混乱：《民调：港人幸福感逊于内地人》、《香港在内地阴影下寝食难安》、《香港神话正在破灭》。其中尤以《环球时报》为甚。</p>
+<p>而透过这面滤镜看香港的内地民间，热情地呼应了主流媒体的唱衰之音。</p>
+<p>2015年3月9日，一篇名为《明天去香港了，如何装成香港人？》的文章在微信朋友圈里阅读量破10万。就在一天前，上水、屯门、尖沙咀相继发生反水货客示威，一对母女被示威者包围，小女孩被吓哭的视频火爆中港网络。</p>
+<p>文章作者自称是“爱看热闹的香港人”，看到内地论坛上有人发问：“求助！明天去香港了，怎样装成香港人？怕被港独围”，遂写了这篇文章给网友支招。招数包括：装台湾人、讲英文、穿黑白灰色的衣服、戴口罩假装感冒的香港人……它们勾勒出了不少内地人心中的港人形象：崇洋、势利、以貌取人、歧视内地人。</p>
+<p>2015年4月初，腾讯发布一项民意调查《最近你愿意去香港旅游吗？》，7594名受访者中超过八成表示不愿意，原因依次为对安全问题的担心、占中影响、旅游环境差以及“反水货客”影响。这些原因恰好与官方媒体对香港的描述相吻合。</p>
+<p>在另一篇文章《香港，请将我遗忘──一个7年港漂的心路》中，作者在留港的第七年，放弃成为香港永久居民，搬回深圳工作。文章提到自己最初对香港的向往和喜爱，这份感情即使在经历了多次中港矛盾和无数白眼后依然未变，对香港未来的灰心──是促使他决定离开的原因。</p>
+<p>文章讲到香港GDP相继被内地城市超越，金融业愈发“老态龙钟”，以及大多数港漂者都认同的一句话：“要发展，要么去美国，要么回大陆，留香港看不到什么前途。”</p>
+<p>“一河之隔的深圳，如同一个黑洞，把科技创新人才全部吸走。这样继续下去，如果人民币开始国际化，深圳上海金融业开始腾飞，香港的未来在哪里”，作者在文章结尾说道。</p>
+<p>这篇向香港告别的文章收获了超过10万的阅读量和629个赞。在微博、微信平台上，类似的声音层出不穷。于此同时，香港的清廉、司法独立、言论自由……这些原本被内地人羡慕并梦想的迷人之处，淹没在对香港政治风波的不解和唱衰香港经济的声音里，微弱难辨。</p>
+<p>“香港神话正在破灭”──这句话像春天的沙尘暴，从官方和主流媒体的口中呼出，窸窸窣窣，笼上整片大陆。曾几何时，他们也是这个神话的织就者。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%98%AF%E8%B0%81%E5%90%B9%E6%95%A3%E4%BA%86%E9%A6%99%E6%B8%AF%E7%A5%9E%E8%AF%9D%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">中国香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">香港占中</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8A%A8%E5%90%91-%E8%BF%90%E5%8A%A8%E6%B2%BB%E5%B8%82%EF%BC%9A%E6%A5%BC%E5%B8%82%E9%87%8D%E5%A4%8D%E8%82%A1%E7%81%BE/" target="cdt-mirror">动向 | 运动治市：楼市重复股灾</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.38.19.png?resize=505%2C302" alt="Screen Shot 2016-04-16 at 下午1.38.19" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.38.19.png?resize=300%2C179 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.38.19.png?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.38.19.png?w=505 505w" sizes="(max-width: 505px) 100vw, 505px" data-recalc-dims="1"><br><span>（图片来自网络）</span></p>
+<p>中国国家统计局三月中旬发布的二月份七十个大中城市住宅销售价格统计数据，大部分城市都上涨。二月份同比价格变动中，最高涨幅为百分之五十七点八，最低为下降百分之三点九，上涨最厉害的还是北上广深。正当新一轮楼市疯涨开始，上海出台了最严厉的房地产调控政策，随后深圳也跟进了。办法都是去杠杆。如此一来，大陆楼市是否会像去年股灾一样，疯涨疯跌，再来一次楼灾？</p>
+<p><strong>加杠杆多印钞引发楼市疯涨</strong></p>
+<p>经过几年的调控，大陆楼市已经沉寂下来。由于楼市在之前十几年内一直在涨，期间并有几次疯涨，楼市对于政府和开发商利益极大，不仅北上广深等一线城市建了大量楼房，就是三四线城市乃至小城镇都在大肆建房；反过来，中国人口拐点已经到来，中国城市化进程已经过了相当一段时期，就整体中国楼市来看，大陆楼市已经饱和，商品房库存严重。因此这一波大陆楼市疯涨不合情理。</p>
+<p>楼市沉寂的不利之处是明显的。中国经济下行态势时间不算短，一年半以来中国政府出台了远比二〇〇九年“四万亿救市”规模大得多的刺激措施，但基本不起什么作用。而中国经济下行的各项原因中，中国楼市沉寂也是一个重要原因之一。因为房地产业及上下游行业长期以来拉动中国经济五分之一到四分之一，其中涌动的巨额资金流，更是活跃了金融市场。这就是宏观经济层面上，中央要求中国房地产业能够起来的动因。</p>
+<p>房地产业热起来，不仅对开发商有好处，对地方政府更有好处。现在大陆物业构成最大的一块是地皮，是土地出让金——地方政府的收益。中央一旦有重启房地产市场的风向，他们对重新掀起房地产热起劲得很。</p>
+<p>这波楼市行情实际上能够起来，原因也很简单，主要只有两条：一是加杠杆。中国央行行长周小川今年二月公开表态，房贷可以加杠杆。与此同时，央行和银监会发布《关于调整个人住房贷款政策有关问题的通知》，通知明确，在不实施“限购”措施的城市，居民家庭首次购买普通住房的商业性个人住房贷款，原则上最低首付款比例为百分之二十五，各地可向下浮动五个百分点。于是，沈阳出现了零首付。各地也各显神通，即使在限购城市，也出现了形式不同的首付贷。财政部、住建部、税务总局联合发布《关于调整房地产交易环节契税营业税优惠政策的通知》，明确规定二月二十二日以后办理的就可以享受房屋契税优惠。</p>
+<p>二是新的通胀又开始了。一月份新增信贷二点五一万亿元，银行如此猛烈放贷，而整个经济下行态势依然严重存在，新的投资方向根本没有产生，明显就是政府在以宽松再宽松的货币政策、以放量印钞的方法企图刺激经济上行。可是，当企业、实业没有信贷需求，当中国投资渠道依然奇缺的时候，大量流动性放出的出路，就只能在房地产上。因为它看起来比股市、汇市更实在，比金银贵金属市场上升空间更大。</p>
+<p><strong>万能领袖主宰市场起落</strong></p>
+<p>中国的楼市好像在中国政府的意志下可以随意操控的，推而广之，中国一切市场似乎也可以由政府随意操控。这种现象某种程度上也是有根据的，因为中国政府几乎掌握了所有的资源，因此中国市场就是政策市。今年楼市新一波的行情太像去年A股市场上的“国家牛市”了。</p>
+<p>去年A股股灾，原因其实很清楚。先是为了振兴经济，政府领导人、央行、证监会主要领导、两大权威媒体纷纷出马，发动国家牛市，宣扬“四千点是新历史起点”、“牛市只在半山腰”。接着，场外二～三万亿违法配资带动场内二点三万亿融资，推波助澜，制造人造牛市，大量银行资金、信托资金、理财资金进股市。还有，各种技术手段的配合，诸如，社保基金高位带头出货五千多亿，大小非加速减持五千多亿，再融资超抽走一万亿，银行和券商在两融高利息中获利几千亿，快速消耗了市场的存量资金。A股疯涨瞬间变成疯跌。随后，监管层强行平仓及强行救市，企图让A股稳定下来，却是事与愿违，A股加速猛跌。</p>
+<p>以运动方式促市场，又以运动方式压市场。可市场终究有其自身规律，掌握一切资源的政府如果一意孤行的随心所欲，市场最后还是要显其原形的。人们奇怪的是，中共那些财经官员难道不懂，没有上市企业的业绩提升、没有整体经济的上升，哪来什么“国家牛市”？从以往他们的学识谈吐甚至从他们的从政经历上看，无论李克强、周小川、楼继伟甚至肖钢，似乎并非如此不堪之人。李、周、楼等还曾出台过某些市场化调控政策，只是施之于国有经济占统治地位的中国经济上，全都不管用。</p>
+<p>习近平上台以后，一步步集权。中共统治体制本来就是独裁制，习近平集权成效稍有进展，独裁者便很容易认为自己无所不能。独裁制下的官员，如李、周、楼等本来就不是坚持原则或者坚持某种理论的学者，偏向见风使舵迎合上峰的久经中共官场磨炼的官僚，所以，中共那些财经官员便会迎合“习大大”的心意：一面反腐捉贪官，一面创造“国家牛市”让小股民赚钱，以造成一代新领袖的光辉形象。</p>
+<p><strong>市场人为起落与个人迷信</strong></p>
+<p>今年的新一波的楼市行情，其实也是中共各级财经官员在迎合习近平急于摆脱经济下行困境的思路，齐心炒作而造成的。当楼市高企而显露险象之后，沪深两地赶忙出台的“急剎车”调控政策，虽然与去年股市调控套路完全一样，但楼市却不大可能重复去年股市疯涨之后的疯跌。</p>
+<p>因为当一系列刺激政策出台之后，最需要去库存的大陆三四线城市及小城镇的商品房并没有出现卖得动的迹象。而北上广深楼市仍有市场需求，中国人口拐点对于北上广深的滞后影响，中国城市化对北上广深楼市依然存在刚需增加的影响，即使遭遇目前的楼市“急剎车”，北上广深楼市不会像去年A股一样大跌。</p>
+<p>然而，中国政府一再在股市、汇市、楼市上随心所欲的调控，一再围着最高领袖的个人意愿调控操纵，肯定会引起国际上对中国非市场化的印象。市场的大起大落以及引起的种种问题，是否也会引发中共统治高层的“反个人迷信”的权力斗争呢？</p>
+<p>《动向》2016年4月号</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8A%A8%E5%90%91-%E8%BF%90%E5%8A%A8%E6%B2%BB%E5%B8%82%EF%BC%9A%E6%A5%BC%E5%B8%82%E9%87%8D%E5%A4%8D%E8%82%A1%E7%81%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8%E5%90%91%E3%80%8B/?category=18271" rel="tag">《动向》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%8E%A7/?category=18271" rel="tag">房地产调控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E5%B0%A4%E5%85%B6%E7%83%AD%E8%A1%B7%E4%BA%8E%E9%80%9A%E8%BF%87%E8%AF%95%E7%82%B9%E6%9D%A5/" target="cdt-mirror">微思客 | 中国政府为何尤其热衷于通过“试点”来制定政策？</a>
+</h2>
+<p><p>从“试点”万能论看中国“实验主义”的兴起和危机</p>
+<p>作者：杨松林</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.30.32.png?resize=327%2C440" alt="Screen Shot 2016-04-16 at 下午1.30.32" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.30.32.png?resize=223%2C300 223w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.30.32.png?w=327 327w" sizes="(max-width: 327px) 100vw, 327px" data-recalc-dims="1"></p>
+<p>纵览共和国史60余年，从宏大的改革开放、运动革命到微观的条例颁布、政策执行，“试点”总是一个无法绕过去的话题。无论是中央，还是地方，在制定政策的过程中，均会强调全面推行前的小范围试点，以确定政策推行的科学性和客观性。</p>
+<p>这种现象伴随着改革开放的全面开展而更为明显。从建立对外开放政策的试点特区：深圳、珠海、汕头、厦门，到推动自贸区发展的上海、天津、广州，接近40年的改革开放，几乎每一项全国推行的政策都强调试点的作用。而到了前几天刚召开的国务院常务会议上，李克强强调2016年医疗工作的“多点执业”政策思路，也是基于其在“海南博鳌考察肿瘤医院时”的试点调研成果而建立起来的。</p>
+<p>所以说，从宏观的经济特区和自贸区建立，到专业化的医疗工作开展，<strong>通过“试点”实现政策的“以小见大”显然早已成为了政府实施政策的基本方式。</strong></p>
+<p><strong>1<br>
+“试点”方法论的科学性和局限性</strong></p>
+<p>关于试点，最权威的中央评价来自于中央全面深化改革领导小组第十三次会议上的讲话内容：</p>
+<blockquote><p>试点是改革的重要任务，更是改革的重要方法。试点能否迈出步子、趟出路子，直接关系到改革成效。要牢固树立改革全局观，顶层设计要立足全局，基层探索要观照全局，大胆探索，积极作为，发挥好试点对全局性改革的示范、突破、带动作用。</p></blockquote>
+<p>改革的逻辑通常分为顶层和基层两个方面。试点主要从基层出发，依托从顶层制定的政策逻辑进行就地试验，反映出的成效和问题将用作政策调整的参考。基层的问题能为顶层所反思，这本身就蕴含着某种“以小见大”，以某种局部代表全局的逻辑，也就是实验主义的“归纳实证”思维。</p>
+<p>但“小”和“大”之间有着不可跨越的鸿沟，具体问题是否具有广泛代表性，本身存在着很多需要重新探讨的空间。也因此，试点作为改革的主要方法，同样存在着许多问题。</p>
+<p>比如说农业上，依托某一个地区的农业试点来推行相关政策就存在着很大的弊端。我国的地形差异巨大，农业生产所需要参与的要素组成上，不同地区的表现也有较大差异。如果仅仅凭借在北大荒的成功，就在全国实施农业机械化大生产，这很显然就忽视了南方农地零散的客观事实。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.24.32.png?resize=485%2C404" alt="Screen Shot 2016-04-16 at 下午1.24.32" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.24.32.png?resize=300%2C250 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.24.32.png?w=485 485w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"><br><span>中国的地形、降水等差异直接导致了南北、东西地区的耕种率、农作物产量、类型、生产方式的显著差异。</span></p>
+<p>另一个问题是，政府在推行“试点”的时候缺乏第三方评估，为了政绩，许多地方政府主导的“试点”和实验存在掩盖问题的现象，对此，哈佛大学教授萧庆伦先生就曾一语中的：</p>
+<blockquote><p>有一点我很欣赏，就是中国政府愿意去做实验，作出成果过后，可以经验介绍和推广。但这里还有一个问题，中国政府做实验不去做评估，不愿意别人评估自己实验成果，但实验本来就是时有成功时有失败的，不可避免，这就导致很多实验铺不开来，浅尝即止，不能达到应有的效果，这需要中国政府认真反思。</p></blockquote>
+<p>比忽视差异更为严重的潜在问题是，<strong>一旦试点到了改革进入深水区的时候，其很可能成为既得利益者的避风港，并容易在某种程度上阻碍着政策的全面开展。</strong>著名经济学家周其仁教授就曾经一针见血地提出以下观点：</p>
+<blockquote><p>“试点”在某种程度上，可能会成为深化改革的负面措施。中国所有难题，讲破天，底下都有一些解决办法。问题是找到办法后，上层认可么？上层建筑承认不承认，给不给政策地位，给不给法律地位？我们现在把试点变成不改革的一个办法，实在扛不过去就搞试点。所以现在全国到底有多少个试点？</p></blockquote>
+<p>但这依然没有阻止政府对于“试点”几乎理所当然的信任和认可。</p>
+<p><strong>2<br>
+试点、实验主义和邓小平理论</strong></p>
+<p>试点有着那么多的问题，无论是“以偏概全”还是“拖延改革”，依然没有阻碍大陆人们对于这种制定政策方式的认可，甚至越来越多人相信，中国政府只有依赖有序的社会科学方法论，社会调查、试点、反馈、形成政策的逻辑，才能真正有效制定出反映社会“真实情况”的政策。这种“神话”论，将一种思考工具上升为某种接近价值观和意识形态的存在，正逐渐局限人们认识社会的多种可能性。</p>
+<p>对于试点、社会调查等众多社会科学方法论，我们需要认识到其背后所反映的“实验主义”思维模式：也就是“手段”和“目的”的相互依赖和对两者的认识都不断在实践中深化。</p>
+<p>这种思维方式最初的解读权来自于美国哲学家杜威：</p>
+<blockquote><p>观念必须在实验中锻炼，只有经过实验证明，在实践上能解决实际问题的观念，才是“有价值的观念”。</p></blockquote>
+<p>概括来说，杜威的“实验主义”，强调微观事实归纳整理的逻辑。或者说，事实应该从最具体的实践中获得。杜威坚持实验是真理的唯一试金石。<strong>要培养创造的思想力，就要以怀疑为起点，找到新知识来解决这疑难。</strong>他在中国的信徒胡适，将这种方式总结为“大胆假设，小心求证”。</p>
+<p>而这种理念得到最大的推广，是在1978年的十一届三中全会之后。由邓小平主政的改革开放，最核心的指导思想“邓小平理论”，不过是杜威“实验主义”的另一种变体。换句话说，邓小平应该是中国大陆杜威“实验主义”信徒中，影响最为深远的一位了。</p>
+<p>事实上，著名汉学家傅高义在《邓小平时代》里对此有非常精辟的描述：</p>
+<blockquote><p>大家都知道，邓小平是个实验主义者，不是意识形态专家；和共产主义世界的许多领导人不同，他不认为有必要先成为一个理论家才能担当最高职位；然而，中共14大“邓小平理论”的说法旨在说明“实验主义”恰恰正是最深刻的“理论”。</p></blockquote>
+<p>所以说，中国政府对于试点、社会调查的热衷，与其一直坚持以杜威变体的“邓小平理论”为指导密切相关。但是，就如同政策的推行需要顶层设计和基层认同两个步骤的同时推动一样，“坚持实践为检验真理的唯一标准”之所以从一种思想理论变成一种意识形态，除了有来自决策层对于社会现实的精准认识外，普遍中国民众对于“实验主义”理念的普遍认同。也就是说，民众对于试点、社会调查能展现社会真相的强烈认同，才是“邓小平理论”能深入人心的关键原因。</p>
+<p>为什么中国民众对于“实验主义”如此认同？或者说，中国对于“实验主义”认同的土壤和传统是如何建立起来的？对于这个问题，我们需要追溯到自20世纪初开启的中国民众对于“真相”、“事实”、“真理”的狂热以及背后呈现的现代化转型过程里中国民众意识形态缺位的现象。</p>
+<p><strong>3<br>
+中国民众的“较真”从何而来：“赛先生”的话语霸权</strong></p>
+<p>早在20世纪初，中国的不同群体，从知识分子到普通民众，在面对国家从旧有的封建体制到现代的民主共和制转型时，就已经产生过非常严重的焦虑；<strong>这种焦虑主要源自于中国大众普遍对于当时社会缺乏科学和客观认知的担忧。</strong>当西方逻辑更为严密的一整套科学理念被引入中国后，其相对于中国传统社会学问在认识社会上的优势，让许多中国学者开始反思自身文化是否缺乏“求真”的土壤。这种反思，逐步变成了一种中国知识分子对于自身文化的贬低、压抑甚至反感。</p>
+<p>比如民国时期著名社会学家李景汉就曾表述过因为国家缺乏对社会现实“科学的、数据的”描述而感到羞愧：</p>
+<blockquote><p>我在美国上学的时候，有一天，当导师询问不同国家的男女人口比例时，我突然发现中国没法拿出这样的数据。也因此，我只能回答说我对此并不了解。后来几乎每次当导师问我要中国社会的数据时，我都会害怕担心得背心都流汗。这种状况真的让我对我的国家感到羞愧不已。</p></blockquote>
+<p>如上文所言，这种自我羞愧的“被唤醒”，反映出中国对社会的传统认知论体系破灭后，新的认知论未形成时的意识形态缺位。而新认知论，尤其是西方“实验主义”理论对于中国传统思维的取代过程，也就是中国人对于“社会真实”狂热追求的过程，受到了社会达尔文主义和进步观念影响甚深，所以本质上存在某种话语霸权的现象。</p>
+<p>著名历史学家林东先生，在描述这种中国民众对传统文化的坚守转变为对科学和求真的狂热过程时，专门提到了这种隐藏的话语霸权现象：</p>
+<blockquote><p>学术界对于“社会”一词的翻译过程，本身就暗含着某种不对等和偏见，而正是这种不对等，才使得新的“科学认知体系”得以取代“传统认知体系”，使得中国民众认知到“科学认知”的重要性和自身“求真”土壤的“缺乏”。</p></blockquote>
+<p>以“社会”的翻译为例。社会一词“society”，原意为“人群的聚集”，更接近于“会”，即assemblage，gathering或者association。在1872年，当美国传教士Justus Doolittle第一次翻译society时，他便对应翻译为“会”，并没有太多外延。甚至10年后，清末著名思想家黄遵宪再次翻译society时，他甚至借用了日语“しゃかい”的含义，把其翻译为“仪式和习俗”。显然，此时的“社会”一词，并没有受到社会达尔文主义的影响，不带有现代意义上“社会”的含义。</p>
+<p>真正把“society”和当代含义下的“社会”关联起来，要来自于20世纪初。经过两个步骤，人们普遍接受了关于中国需要存在“现代社会”，即具备真实性、客观性和科学性的有机、理性集体的观点，也因此，焦虑和认同才得以建立起来。</p>
+<p>这两个步骤分为：</p>
+<p>1<br>
+强调差异、二元对立<br>
+到了19世纪末，中国当时的知识分子代表，严复、梁启超、康有为等一批受到较为深刻社会达尔文主义影响的学者，开始尝试将社会的一种更为“西式”的定义，即“the science of group strength”，这种翻译和上述翻译最大的区别，<strong>在于其尤其强调了一种科学性，在中国传统社会所不存在的科学性；</strong>也因此，当学者们将这种带有西式外延的翻译词汇放置在中国种，便很容易发现，中国的传统集体，根本不存在科学、理性以及现代的特点，而因此，中国的“社群”和西方的社会之间在这方面的差异便被学者们夸大叙述，甚至两者间本应该存在的相似性，也因此被忽视甚至抹杀。</p>
+<p>2<br>
+取代性表述：前者为何更加优越？<br>
+随后，更多的学者开始将社会翻译成“the organic group”，一种“有机的群体”。这种“有机”将上述的科学性具体描述后，西方社会的科学性拥有了标准化、量化、具象化的可能，变得不再空洞。</p>
+<p>在强调完这种区别于中国传统社会的差异性后，这些受到进步思维影响的学者，自然会要求某种意义的“社会取代”（social replacement）。他们将理性、客观、科学这些褒义词放置于西方社会的同时，便暗示其应为中国“社会”所应达成的唯一目标和理想，取代的表述因而产生。</p>
+<p>可社会发展的前进道路永远都不会是唯一和简单线性的。但受到进步观念影响后，这种单一线性思维在学者的构想中就建立起来。由此，他们开始对自己的社会存在的“原罪性”不足便焦虑万分，似乎中国传统社会不存在“organic group”是某种罪恶一般。而在那个时候，他们从来不回去考虑，这种标榜“科学”、“理性”的公共空间，是否真切适用于中国。</p>
+<p>由于将中国社会缺乏的不少要素看成<strong>“应该有却没有”</strong>，不少中国学者便产生了自卑的情绪；这些最早感受到“创伤”的知识分子们，因此对于更为基层的普通民众产生了所谓的“愚昧”认识：他们坚信自己所感知到的“西方公共空间”才是真正的进步方向，而对于民众，他们高高在上和自视甚高的批评，而不是换位思考的理解，引发了相当严重的言语暴力和话语霸权。</p>
+<p>这种暴力有时候会化为具体的行动。比如，晏阳初在湖南长沙推行所谓的“乡村建设”运动时，便遇到了非常强大的，来自于民众的阻碍。长沙人民不愿意接受晏阳初将中国人视为“贫、愚、弱、私”的观点，极端抵制着晏阳初的运动。最终，晏阳初必须借助来自湖南政府的军事力量，封锁言论，才最终完成了他理念的传播。（注：选自《晏阳初全集》）</p>
+<p>类似的“恐吓”现象和洗脑在当时十分普遍。这些建设运动推行者先入为主地将民众视为“低人一等”，并用一种近乎威胁的方式使得自己的观点在民众思维里内化，使得他们真的相信自己就是“东亚病夫”，需要得到来自西方的拯救。比如，<strong>许多民众在乡村建设运动开始时纷纷发表言论自我检讨甚至自我贬低，以求获得拯救。</strong>可是，在目前的现代性话语体系中，这些言语暴力却被完全压抑和忽略了。</p>
+<p>经过了这两个步骤，人们普遍相信自己的国家应该存在类似西方的“有机社会”，公共空间；只有这样，国家才能富强，进步和在世界上获得认同。由此，这种对于认知社会的科学理念，尤其是当时胡适所不断推崇的“实验主义”，通过新文化运动的推动，开始被广泛认同。30年代兴起的所谓乡村建设运动，包括共和国时期的一系列社会调查，都不过是这种思维的持续开展而已。也正是民众通过一些“被洗脑”拥有的这种思维土壤，使得改革开放和“实验主义”能推行至今。</p>
+<p><strong>4<br>
+实验主义的迷信和危机：我们需要警惕什么？</strong></p>
+<p>改革开放的“邓小平理论”之所以能成为意识形态，如上文所说，除了顶层设计的科学外，还要有基层的认同和主动参与。就像福柯的“统治术”（governmentality）概念所描述一般，真正的权力和规范，既要有上层对于下层的治理，更有广泛的民众自我治理。由此，只有中国民众对于“邓小平理论”理念的自我遵循和执行，才会将“试点”、“社会调查”这些追求“社会真实”的方法神化，而忽略其存在的种种本质缺陷。</p>
+<p>改革开放已进入深水区，本质上其实是理念上需要进行变更，不仅是国家执政理念上，过分强调“摸着石头过河”、“黑猫白猫，抓到耗子的就是好猫”可能会阻碍进一步的改革深入，民众对于“唯一标准”的过度迷信，弱化独立思考、非功利行为的力量，可能会成为改革的阻碍力量。因此，在社会变革到了关键阶段的今日，除了顶层设计外，我们也应该成为社会改革的主动参与者，以我们的思维更新，来促进整体社会的风气和思想改良。</p>
+<p>1</p>
+<p>所谓“实践是检验真理的唯一标准”，也许对于个体而言，只是一种理论和思维方式；可以作为参考，但不能将这种思维方式完全神化，甚至固化为自身的思维方式，从而阻碍独立思考和多元思考的可能。</p>
+<p>2</p>
+<p>面对更为宏大的话题时，要时常警惕科学、客观思维可能存在的霸权表达，这个社会的解释不可能基于一个完全的理性人假设，也不能基于一个完全感性人假设，经济学的某种排他和人文科学的某种排他思维需要警惕，而科学、人文的表述，其实都可以结合运用。</p>
+<p>3</p>
+<p>最为重要的是，“理性和非理性”本身的二元对立本身就需要进行质疑，人的复杂性不可能以这样的划分就能解释清楚的；由此，理性和感性，本身就是人的有机组成部分，应该是互相关联的，无论是人生观，还是具体的社会实践与学术实践，都要记得，差异不等于对立，尊重多元，强调自主，比取代和统治思维更加合理。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E5%B0%A4%E5%85%B6%E7%83%AD%E8%A1%B7%E4%BA%8E%E9%80%9A%E8%BF%87%E8%AF%95%E7%82%B9%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E8%AF%95%E7%82%B9/?category=18271" rel="tag">改革试点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%9D%BE%E6%9E%97/?category=18271" rel="tag">杨松林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">经济改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%95%E7%82%B9/?category=18271" rel="tag">试点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3%E7%90%86%E8%AE%BA/?category=18271" rel="tag">邓小平理论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8A%AF/" target="cdt-mirror">东网 | 赵思乐：被遗忘的政治犯</a>
+</h2>
+<p><p>“成为“被遗忘的政治犯”，今日张海涛的悲哀，日后或许是每个抗争者的悲哀。”</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.17.27.png?resize=452%2C323" alt="Screen Shot 2016-04-16 at 下午1.17.27" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.17.27.png?resize=300%2C214 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.17.27.png?w=452 452w" sizes="(max-width: 452px) 100vw, 452px" data-recalc-dims="1"></p>
+<p>2016年1月18日，新疆自治区看守所，45岁的张海涛接到了自己的一审判决书：煽动颠覆国家政权罪，判刑15年；为境外刺探、非法提供情报罪，判刑4年；两罪并罚，共19年有期徒刑，另有剥夺政治权利5年，没收财产12万元，这意味着他名下的一项房产将被没收，他的妻子和刚满月的孩子将流离失所。张海涛决定上诉，目前该案在等待二审的过程中。</p>
+<p>根据判决书，居于新疆的张海涛的“罪行”，是69条微信朋友圈、205条推特和微博，还有他订阅了博讯和美国之音的新闻邮件、给这些网站投稿，并接受了境外媒体采访，内容涉及“敏感”的日子里新疆乌鲁木齐的维稳状况。比如，他在2011年发出照片并附上说明文字：“大概一周前（‘七五事件’3周年前夕），全市局势就紧张起来，尤其以维族聚居区为甚，今天，汉族聚居区也加了不少岗。”</p>
+<p>“煽动颠覆国家政权罪”，以及因向境外媒体透露看到的情况而被定“刺探情报罪”，是极为典型的政治犯罪名，该案涉及言论自由、社交媒体、外媒联系等要素；而且，张海涛被量刑之重，是数年内所未见；这双重因素都应该引致外媒的广泛关注。</p>
+<p>然而并没有，除了与寥寥几个与张海涛有直接联系的异议媒体有所报道，如自由亚洲电台、博讯网等，未见国外主流媒体关注。</p>
+<p>近日，在中国异议民主圈子内部，有另一个案件引发了较大回响，是“南方街头运动”的王默和谢文飞因举牌支持香港占中而被判“煽动颠覆国家政权罪”。这一政治案件值得注意之处，在于王默和谢文飞明确表示就是要“颠覆中共党专政独裁政府”，这与之前政治案件当事人一般不承认颠覆意图，甚至主动将自己的行为“去政治化”、“温和化”，截然不同。</p>
+<p>王默、谢文飞的决绝表态，在大陆异议民运圈子内有着标识性的意义，甚至可能象征着民主圈子内部气候和定位的改变。但同样，除了“占中”因素引起了一些香港媒体的报道，国外主流媒体几乎没有报道这一案件。</p>
+<p>然而，去年到今年，其实是国外主流媒体报道中国政治打压问题的高峰，从关注上升期的女权案、浦志强案、709律师案，到瑞典彼得事件后，关注高频期的媒体人贾葭失联事件、长平家人被拘事件等，都获得了几乎所有欧美主流大报的报道。</p>
+<p>冷热不均，所为何故？</p>
+<p>能获得境外主流媒体关注的事件，几乎都是中国政治打压向中间社会扩张的标志性事件，它们的共同特点是：当事人是中间社会代表，比如受过大学教育的年轻女性、律师、媒体记者、知识分子；诉求具有一定的非政治化特征，比如反歧视运动、法律维权运动、媒体市场化趋势；行动是温和的，比如不组党、不明确反党、不诉诸武力。</p>
+<p>至于不具备上述特征的政治打压，如张海涛案、南方街头案、张六毛非正常死亡案等，则鲜有获得国际媒体关注。</p>
+<p>导致这让人遗憾的分野的原因有很多，除了新闻媒体报道“新趋势”、“奇怪事”的倾向以外，也包括：第一，境外媒体往往只能以最简单的逻辑，以及最熟悉的“中间精英变革”模型，来理解和报道欧美以外的政治和社会运动，比如报道贾葭失联的事件时，几乎所有媒体都只能以“涉促习辞职公开信”为解释，而且反复问贾葭的律师和朋友：贾葭是否是公开信的作者？如果不是，当局为什么要抓他？</p>
+<p>如此可想，它们几乎不可能理解和复述王默、谢文飞的草根身份，和决绝公开的“就是想颠覆中共”，对大陆民运意味着什么。</p>
+<p>第二，境外媒体也只能看到曾在中国大陆被公众目光照射过的人，比如浦志强、长平、贾葭等，而在大陆媒体中本来就被消音的反对者和草根抗争者，外媒则无力了解跟进。</p>
+<p>这些背后固然有许多媒体自身的特征带来的局限性，比如欧美媒体从业者本身没有也不可能做足够多的“功课”去了解另一个世界的运动。这姑且搁置，或由他人另文讨论。</p>
+<p>然而，对于中国大陆的抗争者来说，这令人遗憾的现实，会带来严重的困境：</p>
+<p>国际舆论关注和政治压力，目前几乎是对政治打压的唯一制衡，但国内严酷的政治现实，必然会导致抗争运动进一步草根化、地下化和激进化——抗争运动本身不太可能再由中间阶层为核心人物，核心人物和TA所做的事情也不太可能被主流社会知晓——如此一来，接下来的抗争运动就失去了能被境外媒体关注的要素，很可能进入被狠狠打击却声援难求的持续状态。</p>
+<p>成为“被遗忘的政治犯”，今日张海涛的悲哀，日后或许是每个抗争者的悲哀。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8A%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90/?category=18271" rel="tag">乌鲁木齐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B5%B7%E6%B6%9B/?category=18271" rel="tag">张海涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/" target="cdt-mirror">磐石小姐：由Pekojima事件及P師在悉尼大學的遭遇想到的</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/1858587740/Dr5tkEMtC" target="_blank">@磐石小姐</a>：由Pekojima事件以及P師在悉尼大學的遭遇，想到了我自己身上發生過的那件事。我一直沒有提過，藉著這個機會，表達一下我深深的感激。</p></blockquote>
@@ -451,183 +648,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%8B%E5%B8%88/" target="cdt-mirror">BBC | 维权人士浦志强：从今天开始我不再是律师</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?resize=320%2C180" alt="浦志强称，从今天起我不再是律师了。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/130904104141_cn_pu_zhiqiang_512x288_afp_nocredit.jpg?w=320 320w" sizes="(max-width: 320px) 100vw, 320px" data-recalc-dims="1"><p>浦志强称，从今天起我不再是律师了。</p></div>
-<p><strong>中国维权人士浦志强周四（4月14日）向BBC中文网证实，他的律师资格被取消。周三，北京司法局印发了《行政处罚决定书》，明确决定吊销其律师执照。</strong></p>
-<p>浦志强向BBC中文网证实消息是真的，并称：“实际上我也希望让那些以为我是律师的朋友知道，从今天开始我就不再是律师了。”</p>
-<p>浦志强还表示，对自己律师执照被吊销的决定并不意外，也是个必然的结果。他解释称：“从认定和判决我有罪并且处以刑罚的那天起到今天，它是个正常流程，也是一个必然的结果。司法局也必须这么做。”</p>
-<p>2015年12月，北京市第二中级法院就中国维权律师浦志强涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”一案裁定浦志强有罪，两罪并罚，判处三年有期徒刑，缓刑三年。</p>
-<p>庭审当天，北京二中院外驻扎了大量警力，包括多名疑似便衣警员。BBC记者埃文斯及其采访队报道说，多名到法院外声援浦志强的民众被便衣人员拉走。</p>
-<p>BBC采访团队随后遭警察没收记者证件，警察指控BBC记者无照进行连线报道，违反中国法律。</p>
-<p>美国与欧盟等西方政体认为浦志强只是行使其言论自由，纷纷要求中国无罪释放浦志强，中国则多次强调外国“必须尊重中国的司法主权”。</p>
-<p>浦志强也在自己的社交平台微信上表示，做了19年律师，从今天起不再是了。我相信未来，相信未来会改变。</p>
-<p><strong>维权人士浦志强</strong></p>
-<p>浦志强于1965年出生，河北人。曾于北京求学期间，参与1989年天安门学生绝食事件。</p>
-<p>浦志强1995年开始考取律师资格，1997年正式执业。浦志强从业初主要代理商业案件，后来开始涉足维权和异议人士案件。</p>
-<p>他曾代理异议人士谭作人、重庆涉黒案辩护律师李庄和异议艺术家艾未未的税务案件等。</p>
-<p>并于2013年开始在中国社交媒体微博上“实名举报”时任中共中央政法委书记周永康，表达对其维稳模式的不满。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E8%B5%84%E6%A0%BC/?category=18271" rel="tag">律师资格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E6%B0%91%E6%97%8F%E4%BB%87%E6%81%A8%E7%BD%AA/?category=18271" rel="tag">煽动民族仇恨罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%9C%A8%E5%BE%AE%E5%8D%9A%E4%B8%8A%E5%8F%8D%E5%87%BB%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E8%BE%B1%E5%8D%8Etutor%EF%BC%8C%E7%BB%93%E6%9E%9C%E8%A2%AB%E5%85%AC%E7%9F%A5/" target="cdt-mirror">知乎｜微博反击辱华tutor，被公知日杂攻击怎么办？</a>
-</h2>
-<p><h3><strong><span>问题：在微博上反击悉尼大学辱华tutor，结果被公知日杂攻击怎么办？</span> </strong></h3>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9a71bdadbf9465c4eafd84fc7fa43512_b.jpg" rel="attachment wp-att-435036"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9a71bdadbf9465c4eafd84fc7fa43512_b.jpg?resize=350%2C622" alt="9a71bdadbf9465c4eafd84fc7fa43512_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9a71bdadbf9465c4eafd84fc7fa43512_b.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9a71bdadbf9465c4eafd84fc7fa43512_b.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9a71bdadbf9465c4eafd84fc7fa43512_b.jpg?w=600 600w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
-<p>事情是这样的，微博博主@Pekojima 是悉尼大学的tutor，长期在微博上发表辱华言论。详情见这里，<a href="https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5MzA2MTY0MA%253D%253D%26mid%3D403839696%26idx%3D1%26sn%3D5563a7245dd15a47d5aed7619e2608ab%26scene%3D0" target="_blank" rel="nofollow noreferrer">今天悉尼大学那个辱华，焚烧中国护照，种族歧视的tutor够奇葩吧，但面对这样的妖孽请理性斗争<i></i></a><br>
-我于是在微博上号召网友们抵制他/举报他，但是没想到招惹来了一大批的公知和日杂对我进行人生攻击，还人肉我，我应该怎么办？<br>
-我的微博：<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ec9b151c442efd2eef67cd8fad326d14_r.png" rel="attachment wp-att-435035"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ec9b151c442efd2eef67cd8fad326d14_r.png?resize=450%2C207" alt="ec9b151c442efd2eef67cd8fad326d14_r" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ec9b151c442efd2eef67cd8fad326d14_r.png?resize=300%2C138 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ec9b151c442efd2eef67cd8fad326d14_r.png?w=608 608w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/af473ba8632cd7408f8b63925c4835fd_r.png" rel="attachment wp-att-435034"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/af473ba8632cd7408f8b63925c4835fd_r.png?resize=450%2C281" alt="af473ba8632cd7408f8b63925c4835fd_r" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/f25a9ec5733fb6f20f09f5d4ec7beacc_r.png" rel="attachment wp-att-435033"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/f25a9ec5733fb6f20f09f5d4ec7beacc_r.png?resize=450%2C262" alt="f25a9ec5733fb6f20f09f5d4ec7beacc_r" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/f25a9ec5733fb6f20f09f5d4ec7beacc_r.png?resize=300%2C175 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/f25a9ec5733fb6f20f09f5d4ec7beacc_r.png?w=596 596w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/53d301ba9d84830c7b855b882c8eaa9b_b.png" rel="attachment wp-att-435032"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/53d301ba9d84830c7b855b882c8eaa9b_b.png?resize=450%2C304" alt="53d301ba9d84830c7b855b882c8eaa9b_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/53d301ba9d84830c7b855b882c8eaa9b_b.png?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/53d301ba9d84830c7b855b882c8eaa9b_b.png?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>它们对我的辱骂：<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e427f0b9ede6cfe0fe3c1242d42a7b9d_b.png" rel="attachment wp-att-435031"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e427f0b9ede6cfe0fe3c1242d42a7b9d_b.png?resize=425%2C352" alt="e427f0b9ede6cfe0fe3c1242d42a7b9d_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e427f0b9ede6cfe0fe3c1242d42a7b9d_b.png?resize=300%2C249 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e427f0b9ede6cfe0fe3c1242d42a7b9d_b.png?w=548 548w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b13b0a71e93bbca92606541f33475fa7_b.png" rel="attachment wp-att-435030"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b13b0a71e93bbca92606541f33475fa7_b.png?resize=425%2C370" alt="b13b0a71e93bbca92606541f33475fa7_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b13b0a71e93bbca92606541f33475fa7_b.png?resize=300%2C261 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/b13b0a71e93bbca92606541f33475fa7_b.png?w=547 547w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/48d1de1cd15639b6d87450b26dd447e0_b.jpg" rel="attachment wp-att-435029"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/48d1de1cd15639b6d87450b26dd447e0_b.jpg?resize=325%2C577" alt="48d1de1cd15639b6d87450b26dd447e0_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/48d1de1cd15639b6d87450b26dd447e0_b.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/48d1de1cd15639b6d87450b26dd447e0_b.jpg?w=600 600w" sizes="(max-width: 325px) 100vw, 325px" data-recalc-dims="1"></a></p>
-<h3><span>答主：<a href="https://www.zhihu.com/people/li-xian-jie" target="_blank" data-tip="p$t$li-xian-jie">栗先生</a></span></h3>
-<p> <br>
-原来滚出澳洲滚回天朝对于持反华言论的人是种惩罚。题主啊，这个逻辑你不觉得有问题么(˶‾᷄ ⁻̫ ‾᷅˵)</p>
-<h3><span><strong>答主：匿名用户</strong></span></h3>
-<p> <br>
-建议大家抵制辱华大学，中国人集体退学回国建设社会主义</p>
-<h3><span><strong>答主：<a href="https://www.zhihu.com/people/jiang-fu-dong" target="_blank" data-tip="p$t$jiang-fu-dong">QuentinDupieux</a></strong></span></h3>
-<p> <br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/d386ff844d07f8039834594a04d6b62e_b.png" rel="attachment wp-att-435028"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/d386ff844d07f8039834594a04d6b62e_b.png?resize=400%2C580" alt="d386ff844d07f8039834594a04d6b62e_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/d386ff844d07f8039834594a04d6b62e_b.png?resize=207%2C300 207w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/d386ff844d07f8039834594a04d6b62e_b.png?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1590003e082a92a696de1d0f237ac4c8_b.png" rel="attachment wp-att-435027"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1590003e082a92a696de1d0f237ac4c8_b.png?resize=400%2C1088" alt="1590003e082a92a696de1d0f237ac4c8_b" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7588836d680ae0ca17c873c76da478a8_b.png" rel="attachment wp-att-435026"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7588836d680ae0ca17c873c76da478a8_b.png?resize=400%2C711" alt="7588836d680ae0ca17c873c76da478a8_b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7588836d680ae0ca17c873c76da478a8_b.png?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7588836d680ae0ca17c873c76da478a8_b.png?w=600 600w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>完了，题主你们的民族统一战线里有人被扎轮胎了。</p>
-<h3><strong>答主：<a href="https://www.zhihu.com/people/chen-xian-chu-86" target="_blank" data-tip="p$b$chen-xian-chu-86">沈贤初</a></strong></h3>
-<p> <br>
-谢邀，首先道个歉，我是怎么也想不明白，来知乎这几个月是否误说了什么丧尽天良的话，以至于作为一个马列主义者，能被题主拉来同扛星辰大海的破旗。但是来而不往非礼也，既然得到如此抬爱，我就闭着眼两肋插刀，今天一定帮题主义正词严地反击一下这群“日杂公知”。</p>
-<p>他们攻击题主的无非是一点，说题主的以下观点缺乏逻辑：</p>
-<blockquote><p>既然敢辱华 那么就不要怕 不要删微博，我们商学院所有学生不介意送你上天让你<b>滚去中国滚出澳洲</b></p></blockquote>
-<p><a href="https://link.zhihu.com/?target=http%3A//weibo.com/2486530253/DqOStiNVu%3Ftype%3Dcomment%23_rnd1460580809191" target="_blank" rel="nofollow noreferrer">既然敢辱华 那么就不要怕 不要删微博[微笑]… 来自独一无二的zz才不要轻易狗带<i></i></a></p>
-<p>那么题主你要做的很简单，只需证明“让国外辱华者滚去中国”是一件很有逻辑的事，就能让他们心服口服。阐明这点可能各位知友和题主自己都有所疑虑，而我愿意替题主证明，这绝对是一个很有逻辑的呼吁。</p>
-<p>根据唯物辩证史观，一个斗争口号的意义，实质上是所在阶级的发声。所以我们首先要了解作为发起斗争主人公的<b>悉尼大学商学院中国留学生，</b>和斗争对象<b>澳洲华裔大学教师（知识分子）</b>，在政治经济地位上分别是个怎样的群体。</p>
-<p>去澳洲就读商科，中国留学生群体最为流行的特定选择之一，热度仅次于留学英美名校，且中国已常年保持澳洲最大留学生源国地位。</p>
-<blockquote><p>根据 Australian Education International 出具的最新版本 Monthly Summaries of International Student Enrolment Data(2014 年 8 月发布),留学澳大利亚的中国学生人数已达 139526 人,同比 2013 年增长 8.3%,占所有留学生总数的 27.1%。中国仍是澳大利亚最大的海外生源国。</p>
-<p>在澳大利亚接受高等教育的国际学生中,中国 学生占比 37.4%,成为最大的留学群体;接受职业 教育和培训(Vocational Education and Training) 的学生占比 9.2%,仅次于印度,排名第二;修读英语强化课程(English Language Intensive Courses for Overseas Students)的国际学生中,中国学生最多,占比 22.6%(依据注册学生人数统计),泰国次之;而去澳洲修读高中及以下课程的学生占全体留学生的 3.4%(依据注册学生人数统计),其中中国学生仍然占据多数,比例高达 46.0%(依据注册学生人数统计)。</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/263c6ac7cdd787c9d9542e78b3b9c69c_b.png" rel="attachment wp-att-435042"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/263c6ac7cdd787c9d9542e78b3b9c69c_b.png?resize=450%2C364" alt="263c6ac7cdd787c9d9542e78b3b9c69c_b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/263c6ac7cdd787c9d9542e78b3b9c69c_b.png?resize=300%2C243 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/263c6ac7cdd787c9d9542e78b3b9c69c_b.png?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br>
-来自胡润2014留学报告<a href="https://link.zhihu.com/?target=http%3A//up.hurun.net/Humaz/201411/20141127183423220.pdf" target="_blank" rel="nofollow noreferrer"><span>http://</span><span>up.hurun.net/Humaz/2014</span><span>11/20141127183423220.pdf</span><i></i></a></p>
-<p>而数量庞大的留学生群体的选择，是绝对数量并不小的中国高净值人群教育选择的体现：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/213a2957ea98beb99a06f0763a3ce1c0_b.png" rel="attachment wp-att-435041"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/213a2957ea98beb99a06f0763a3ce1c0_b.png?resize=550%2C237" alt="213a2957ea98beb99a06f0763a3ce1c0_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/213a2957ea98beb99a06f0763a3ce1c0_b.png?resize=300%2C129 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/213a2957ea98beb99a06f0763a3ce1c0_b.png?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>来自胡润超高净值人群需求报告<a href="https://link.zhihu.com/?target=http%3A//up.hurun.net/Humaz/201504/20150402162229446.pdf" target="_blank" rel="nofollow noreferrer"><span>http://</span><span>up.hurun.net/Humaz/2015</span><span>04/20150402162229446.pdf</span></a><br>
-（只是针对17000名超高净值人群的调研，但比例在留学意愿这类与资产正相关的选择上具有指示意义）</p>
-<p>可以看出，中国留澳商科学生群体，主要出身于国内小资产阶级队伍，毕业后方向全数投身小资产阶级，从事投资、营销、财税类工作，拥有自己的产业抑或直接为大资本家服务。他们之所以会在澳洲（或欧美）求学的原因，翻翻中国宪法第一条就很清楚了：</p>
-<blockquote><p>第一条　中华人民共和国是工人阶级领导的、以工农联盟为基础的人民民主专政的社会主义国家。</p></blockquote>
-<p>——《中华人民共和国宪法》</p>
-<p>宪法第一条规定了中国<b>理论上的</b>领导阶级和人民构成，从社会主义制度的意义可以清楚的知道，这些商科学生及其家庭并不处于这一版宪法制定时的“人民”之列，而甚至应是专政对象，那么这个群体的预备队选择去澳洲修炼接班，可以说是自觉而得体的行为。当然我相信修改掉这一版名不副实的宪法，一定是这个新兴阶级努力的目标，在此也祝他们一路凯歌。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/21d5cfe868269f6ab43d3b1334991060_b.png" rel="attachment wp-att-435040"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/21d5cfe868269f6ab43d3b1334991060_b.png?resize=550%2C53" alt="21d5cfe868269f6ab43d3b1334991060_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/21d5cfe868269f6ab43d3b1334991060_b.png?resize=300%2C29 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/21d5cfe868269f6ab43d3b1334991060_b.png?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>因此我这要先郑重反击这些叫人“爱国就滚回国”的日杂公知——<b>人家根本不是中国人民，你叫题主回哪国</b>？</p>
-<p>以上说清楚了题主所在群体才是名正言顺的留澳主角，接下来当然要看清楚“把辱华分子赶回中国”的政治经济意义又是什么，才能把“送客”这件事的逻辑关系理顺。而这个问题就归结为“中国在题主眼中到底是个什么地方”？</p>
-<p>而这个问题不仅是题主一人所没有明说的问题，更是整个知乎的阶级症结：</p>
-<p><a href="https://www.zhihu.com/question/25656383">美国人会真心羡慕中国的哪些生活或者制度？ – 知天下（知乎栏目）</a><br><a href="https://www.zhihu.com/question/26825011/answer/34166622">在中国生活有什么好处？ – YannF 的回答</a></p>
-<p>来知乎良久，每次看到这类描述中国自身的问题时，我看到的并不是互相印证的准确描绘，而是一个现象——“撕裂”，你可以轻松的搜到这类问答，其主旨可以概括为：</p>
-<blockquote><p><b>中国是个好地方，收入轻松这么高，人工服务又这么便宜，而提供服务的人，又是这么勤劳。</b></p></blockquote>
-<p>稍有常识的人可以感受到，这根本不是一个符合经济规律乃至逻辑关系的社会图景，换言之，不存在<b>一个</b>人人持此评价的国家。而题主希望辱华者滚回的，想必也不是如上这样一个“中国”，不然也就谈不上对辱华者的惩罚了。但是题主的群体所从事的行业和所在阶级，倒是恰恰可以拥有上述这样一个中国，因为<b>赴澳洲留学读商科者，回国决不会送快递、做美甲、写教材、在医院坐班提供平价服务。</b>因此这些廉价与便利在<b><u>题主的中国</u></b>，的确是令人羡慕之处。而在题主眼中一旦让那个不掌握生产资料的知识分子失势并“滚去中国”，则将一定回不到题主的中国，而作为惩罚将回到与题主无关的、劳动人民的中国之中。</p>
-<p>那么这个<b><u>劳动人民的中国</u></b>又是怎样的呢？我们再来看点数据：<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55d00ce5c7828940088613bc707b6ddd_b.png" rel="attachment wp-att-435039"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55d00ce5c7828940088613bc707b6ddd_b.png?resize=500%2C165" alt="55d00ce5c7828940088613bc707b6ddd_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55d00ce5c7828940088613bc707b6ddd_b.png?resize=300%2C99 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55d00ce5c7828940088613bc707b6ddd_b.png?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/d964827be9a033a9b63a61fad3e1700c_b.png" rel="attachment wp-att-435038"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/d964827be9a033a9b63a61fad3e1700c_b.png?resize=500%2C377" alt="d964827be9a033a9b63a61fad3e1700c_b" data-recalc-dims="1"></a></p>
-<p>中国制造业的出口额，与代表行业话语权（直接影响利润）的GVC地位指数，在规模上已经成为世界工厂的中国，各行业话语权远远没有达到其因有的地位，换言 之，利润都被留在了拥有设计／规划／统筹权力的GVC前列国家手里，譬如冰岛在食品饮料与烟草业的话语权就达到整个中国的两倍多。中国的劳动人民，在为题主这样的商科生上贡优渥生活的多数耗材，并且卑微地承认这都是资产、头脑而非汗水的贡献，都是那些掌握生产资料的人所应得的。</p>
-<p><a href="https://link.zhihu.com/?target=http%3A//news.qq.com/a/20140513/028844.htm" target="_blank" rel="nofollow noreferrer">中国农民工总量达2.69亿人 人均月收入2609元</a><br><a href="https://link.zhihu.com/?target=http%3A//www.payscale.com/research/AU/Job%3DBricklayer/Hourly_Rate" target="_blank" rel="nofollow noreferrer">Bricklayer Salary (Australia)</a></p>
-<p>更简单的对比，中国农民工月收入2609，而在题主所在的澳洲，即使让被斗者丢掉教职去砌砖，时薪也有$27.75（购买力平价抹抹看？我静静地就看着你抹平）。</p>
-<p>现在该明白为什么题主一定要让对方“滚去中国”方解心头之恨了吧？</p>
-<p>唯物史观中，作为群体的人是不说话的，发声的仅仅是他的地位，而且不以当事人的意志转移。就像这次看清楚了是小资产阶级与知识分子为了话语权撕逼，背景又在靠福利社会掩饰矛盾的资本主义国家，那么明明是阶级斗争却当成爱不爱国的问题，说得当事人自己都信了，怎能找出逻辑？实则小资产阶级珍视自己的剥削地位，维护资本主义的骗局精华——民族国家，要解除对方在福利社会中的保护伞，恨不得将之赶回世界工厂里受剥削压迫折磨致死，以提醒他今日的生活要感谢大资本家的施舍，拿了福利就低调做人——这是何等清楚的逻辑！那群日杂公知居然说题主没有逻辑，我第一个不同意。</p>
-<p>所以我建议题主，既然微博上骂你没有逻辑的人是他们自己太肤浅，你不妨别再评论里与他们争论，就把我这篇答案的链接贴上，把这句话背后严密的逻辑和精妙的利益主张公之于众，看他们还有什么话说？</p>
-<p>最后，逻辑通顺的命题并不一定是能实现的，更没说就是我支持的。我其实无意介入你们中国人抑或你们澳大利亚人的情绪冲突，而看到小资产阶级互相把脑袋摁进马桶里的资格之争我只能支持斗争行为本身。建议能打就不要吵，能掏枪不要动手，劳动人民供你们吃供你们穿还要供你撕逼娱乐自我实现挺辛苦的，少一个也是为世界做了贡献。</p>
-<p>而关于到底是什么人该滚出你国，滚出你洲，滚出地球，题主你可以参考一下我在你洲的同行的意见，他们都有你洲护照，可以更放心地与你争论，应该不存在被你要求滚去你国的问题。<br><a href="https://link.zhihu.com/?target=http%3A//www.cpaml.org/class.php%3Fid%3D9" target="_blank" rel="nofollow noreferrer">Vanguard – Communist Party of Australia Marxist Leninist</a></p>
-<blockquote><p>As <em>Vanguard </em>stated in back in February, <em>“Waiting for a Labor government is no good. Working people will have to make a stand. They will have to find ways to get conversations going in their workplaces and communities, to get people organised to protest and to put demands on the government and the big business bosses. Demands not just to “back off”, but to “get out of our way”.</em></p></blockquote>
-<p>至于对“你国”一词嫉恶如仇的题主看了肯定要问，我又是哪国人？</p>
-<p>我就明确告诉你，共产主义者没有祖国。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e04d0e94b20114c7ac43644544fe6b24_b.jpg" rel="attachment wp-att-435037"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e04d0e94b20114c7ac43644544fe6b24_b.jpg?resize=185%2C185" alt="e04d0e94b20114c7ac43644544fe6b24_b" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e04d0e94b20114c7ac43644544fe6b24_b.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e04d0e94b20114c7ac43644544fe6b24_b.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e04d0e94b20114c7ac43644544fe6b24_b.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/e04d0e94b20114c7ac43644544fe6b24_b.jpg?w=200 200w" sizes="(max-width: 185px) 100vw, 185px" data-recalc-dims="1"></a></p>
-<p>彩蛋：ANU澳洲国立大学志愿者维护的中文马克思主义文库：<br><a href="https://link.zhihu.com/?target=http%3A//marxists.anu.edu.au/chinese/" target="_blank" rel="nofollow noreferrer">马克思主义文库<i></i></a></p>
-<p>（GFW内/中共相关网站<b>并无</b>此类资料库）</p>
-<h3><span>答主：匿名用户</span></h3>
-<p> <br>
-Iq 又伤害了你支人民的感情呗<br>
-说来好笑 usyd商学院一大把中国人 中国人中一大把accounting 为啥 能移民啊<br>
-你们这些小粉红们 挤破了头想拿个澳洲pr 好了 现在人家澳洲公民说你国这群留学生蠢 你国xxxxxx 你们还想闹事 闹学校不够还想闹你国大使馆<br>
-毕竟大家都是一条船上的蚂蚱 只不过人家先行你一步而已 有必要一边移民一边爱国吗？ 又要当xx又要立牌坊的事情 也就你们这些小粉红弄的出来了<br>
-还有 你们这帮小粉红丢人丢的还不够多？之前buss5000挂科 死皮赖脸去找大使馆 反正不管怎么样都不是自己的问题咯？</p>
-<p>怪不得人家说usyd商学院水 国内二三本大学在这里混来混去的大有人在 小粉红们在这件事情上展现出来的智商水平让我叹为观止<br>
-作为一个usyd在读中国人 真心以和你们同校为耻</p>
-<p>Update:<br>
-所以我说这些商科小粉红蠢呢 fb上强行翻译一波留学豚给non mandarin speaker 听 表示自己收到了歧视<br>
-那你们能不能把印度阿三 鬼佬 东南亚猴子 日本鬼子 韩国棒子这些你们常说的话都帮我翻译一遍发到fb上去？<br>
-评论里出现两个校友 我只想说 去澳洲读书的人大部分是图什么大家心知肚明 毕竟accounting最简单 中国人最多 然而就是这种地方xx最多<br>
-找论文代写的不是你们？<br>
-buss5000挂了一半的不是你们？<br>
-挂科了满地撒泼打滚的不是你们？<br>
-挤破头想拿pr的不是你们？<br>
-最爱国的现在是你们了 最丢人的也是你们<br>
-LOL</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E5%9C%A8%E5%BE%AE%E5%8D%9A%E4%B8%8A%E5%8F%8D%E5%87%BB%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E8%BE%B1%E5%8D%8Etutor%EF%BC%8C%E7%BB%93%E6%9E%9C%E8%A2%AB%E5%85%AC%E7%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">中国留学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%84%9A%E6%98%A7%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E9%85%8D%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9%E5%90%97%EF%BC%9F/" target="cdt-mirror">腾讯大家｜侯虹斌：愚昧的受害者配得到帮助吗？</a>
-</h2>
-<p><p>最近的SK-II广告“最后她们去了相亲角”，在朋友圈里得到广泛的传播。这是一个带有公益性质的广告。许多人称赞它“终于有了一个三观正确的广告”、“让女人更独立”，但现在，同样涌现出许多反对声音，说它是“泼向独立自信的脏水”。</p>
-<p>为什么同样的一则公益广告，观看者会有如此截然相反的体验？</p>
-<p>这个广告分为两部分：前一部分，是一些单身女性表示压力很大，她们的父母不停地催着她结婚，愁眉苦脸，抱怨“你也长得不好看”，女儿黯然流泪，说“也许我太自私了”。后一部分，是这些女性终于去了相亲角，但不是去相亲，而是把她们的大幅海报挂上去，昭告“我不想为结婚而结婚，那不会过得快乐”，让父母们知道，她们想要过自己独立的生活。</p>
-<p>其实“剩女”本来就是一个伪命题，“为结婚而结婚”更像是大清国的价值观，但没办法，在中国的环境下，这竟然是一个主流的态度。不管是在各种光鲜亮丽的广告中那种妈妈做饭、爸爸看报的结构永恒不变的三口之家，还是各大偶像时装剧中都视女人三十就是豆腐渣（《我们结婚吧》），就这样，像高圆圆那样的大美女还是为嫁一个羞辱自己没人要的丑男而百般折腾，我们看到的都是，女人，人生目的就是结婚，以及生个孩子。哪怕你再有事业。</p>
-<p>这也是SK-II拍摄这则广 告的背景。作为一个高端护肤品牌子，它的目标受众往往是有一定事业基础的都市女性。也可是说，这一人群，正是所谓的“剩女”最集中的人群。这则广告中把 “逼婚”拍得这么凄惨，选择的女性演员都是普通人，很有可能会冒犯传统的价值观与及普通人的审美，对于一个消费产品来说，还是承担了一定风险的。它能亮出这个“可以不为结婚而结婚”这种常识，已经算是良心了。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430421.jpg" rel="attachment wp-att-435023"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430421.jpg?resize=525%2C295" alt="133430421" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430421.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430421.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>那些反对、甚至是对其鄙夷的声音来自哪里？他们嫌弃它把不婚的女性拍得愁容满面。女性只是还没有结婚，何必搞得那么泪水涟涟？哪有父母说女儿长得不好看，女儿还觉得对不起父母的？它完全不能代表独立自主的女性的风采，甚至是丑化了这一人群。</p>
-<p>许多人纷纷认同，至少有两三篇批判的文章迅速达到了十万加。我认为，这种说法最大的一个问题就是：先预设了社会上每一位女性都是心智非常成熟健康的，可以不受任何外界（包括父母）影响。既然是女性早已懂得的道理，早就无需理会外界的看法而自行其是，何必你来多此一举？在这样的假设之下，这样的广告就显得毫无价值了。</p>
-<p>我相信，如今确实已经有了不少心智成熟的现代女性，与婚否没有关系，她们拥有高情商，知道自己是谁，知道自己要什么，也知道如何与各种社会压力相处。但坦白说，能达到这种境界的年轻女性，在社会中只是少数。大多数人，不仅仍然需要成长，也需要社会给予一个宽松的环境。你不能指望一个充满了繁殖癌基因的社会文化当中，忽然孕育出一代全新女性，这里，所有人都能自立自强、义无反顾地背叛这种传承。</p>
-<p>现实就是，就算有不少年轻女性的经济上已经较为独立，但她们的观念仍然深受传统的钳制，也被父母的迂腐所深深影响，她们在自我与服从当中左右摇摆，并且感到痛苦。你以为父母用“你也长得不好看”来逼婚是匪夷所思吗？不然，贬低女性（也包括女儿）来大促销这一手法非常常见。如果不是情商极高，有多少人能抵挡得住亲人反复的羞辱？广告就是拍给这一基数更大的人群看的，意思就是：我认同你的烦恼，但是你仍然可以坚强自立，可以不为结婚而结婚。</p>
-<p>这不是什么丑化“独立女性”的问题，而是一些认为自己代表光鲜亮丽的女权，看不起革命不够彻底的女性的问题，认为她们的烦恼痛苦都不值一提，认为“你也配称为独立？”的问题。</p>
-<p>这一类思路，在许多社会新闻的分析中也常常可以见到。比如说，柳岩事件。在柳岩出来道歉后，很多人就表示了对她很失望；而后爆出来的邮件中显示她此前还把这当作一件正常的新闻发通稿，许多人就直接说“散了吧”。因为这显示出柳岩并没有意识到自己遇到了什么问题，她希望此事尽快过去以保全她在圈里的人缘和前途。</p>
-<p>争议的声音多种多样，我已写过文章讨论了，在此不赘言；这里我想补充的一点是：有时，即便受害人本人也不一定具有正确的性别意识。柳岩的反应其实和很多女性类似：熟人间的“玩笑”，开始感觉受到了冒犯，很不舒服，但后来也没有进一步发生什么，这时，因为不想把关系搞僵，反而进一步说服自己相信这“没什么”。事实上，这正是因为我们的社会纵容这种看似“没什么”的冒犯，很多人都意识不到这就是一种冒犯，不知道要果断地“stop”！</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430422.jpg" rel="attachment wp-att-435022"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430422.jpg?resize=525%2C348" alt="133430422" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430422.jpg?resize=300%2C199 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430422.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>这里又衍生出了一个更深刻的问题了：如果她本来就没有维权的意识，自己都糊里糊涂，旁人犯得着去帮她吗？为避免多余信息的干扰，不如把这置换为一个更极端更常见的场景：如果看到有人在狠狠地殴打妻子，外人上前劝阻，妻子反而站在丈夫的一边谴责帮忙的路人，那么，这个路人的行为是对还是错？或者说，这个受害的妻子，有没有被帮助的价值？</p>
-<p>当然，风凉话是很容易说的，比如说，一个施虐一个受虐天生一对嘛，说不定人家很享受呢。这种小聪明的话谁不会说？但此时受害人站在施暴者一方，肯定不是因为她享受这种方式，而是在现实生活中，在无助当中的无可奈何。假如她没有经济条件独立、一直生活在相信女人离开了男人就得死、执迷于孩子必须生活在完整家庭的语境当中，她就会选择忍受家暴，跟施暴者一起生活。这种女人，是愚蠢，但她的愚蠢，是基于她的小环境当中的“理性选择”；这意味着在她的狭小世界当中，离开家暴丈夫的后果比家暴本身还痛苦。</p>
-<p>有些局限，是普通人很难突破的。如果在一个多世纪以前，如果要让一个大家闺秀不裹脚（清末时旗人也普遍缠足，只是与汉人形制不同），那简直就是父母对女儿最大的不负责任和极端轻视，意味着放弃了她、不打算给她找个好婆家；你要是穿越过去跟女孩子谈身体的自主权，她简直以为这是在陷害她。</p>
-<p>而今天，别以为中国都已经是世界GDP第二的大国了，其实我们的贫富差异不仅体现在经济上，更体现在价值观上。少数有条件的女性可以傲视群雄、开拓事业的疆土，但大量的女性，仍然很难摆脱庸俗价值观的围剿。许多看起来愚昧的女人，她们的生活圈子里就是一个又一个的价值观洼地；她们被各种各样的恶意包围着，很难看见外面的世界。就像缠足是旧时代女子融入她所在的世界的通行证一样，保持愚昧地与周遭环境一致，也是现在不少女性的自保方式。所以看到欧逸文在《野心时代》中在采访之后发出感概，“在农村的等级排行，地位唯一比年轻女子来得低的人，便是对未来还心存志向的年轻女子。”我是非常认同的。</p>
-<p>还是菲茨杰拉德的那句话：“每逢你想要批评任何人的时候，你就记住，这个世界上所有的人，并不是个个都有过你拥有的那些优越条件。”能够成长为一个条件优渥、心智健全、还能自认为有资格说风凉话的，很大程度上，是你的环境造就了你。</p>
-<p>如果认为一个没有坚决去抵制霸凌或者性骚扰的女性就没有资格得到声援，没有反抗家暴反而赶走声援者的女性就活该受虐，不能义无反顾地蔑视社会压力和亲人逼婚的女性就不配叫“独立”，其实，这种资格论，同样是一种“受害人有错”的推定。它假设了受害人必然是意志坚定的、立场正确的，无可挑剔地与受害人划清界限的，才有资格得到帮助。达不到这个标准的，则是活该。这就是“何不食肉靡”了。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430420.jpg" rel="attachment wp-att-435021"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430420.jpg?resize=525%2C263" alt="133430420" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430420.jpg?resize=300%2C150 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133430420.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>我们要意识到，即便是些缺乏性别意识的、甚至是有点愚昧的受害人，她们也仍然是受害人。即便有可能碰到像柳岩这样轻易与环境媾和的人，下次遇到了仍然值得为她们发声。这也是我认为SK-II的广告已经难能可贵的原因：不少有点软弱的女性，也已经意识到要反抗这种婚姻的传统文化了。鼓励她们更勇敢，比讥笑她们姿态不好看，有价值得多。</p>
-<p>当然，伸出援手不意味着强迫行善举。你可以不关心，但怎么却能腾出时间来盯着不幸者的暇疵尽情讥讽，或者打压帮助者呢？</p>
-<p>再有，所谓的帮助，并不意味着强迫他人必须接受帮助，而是尽可能改善环境、杜绝今后的类似伤害。也许我们不能从一个认为裹脚是天经地义的大环境中勉力要求某位女孩不裹脚，但却可以推动这个社会最终废除裹小脚；我们不能从乡村中强行把郜艳敏从她的孩子身边带走，但却可以促使拐卖妇女的现象越来越少；我们不能强行要求每一位受到性骚扰甚至性侵的女孩都勇敢地站出来控诉，但却可以让行恶者都得到应有的惩罚、受害人无须恐惧二次伤害。</p>
-<p>还有，要让以后当女性不想勉强自己结婚的时候，也不再认为是一件需要流泪的事情，而不是现在嘲笑她们在压力中哭泣。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%84%9A%E6%98%A7%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E9%85%8D%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%BC%E5%A9%9A/?category=18271" rel="tag">逼婚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E6%A1%88357%E4%BA%BA%E5%8F%97%E6%83%A9%E5%A4%84-%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%BD%93%E5%B1%80%E5%81%9A%E6%88%8F/" target="cdt-mirror">美国之音｜山东疫苗案357人受惩处 律师称当局做戏</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/917CBA50-8F22-4093-A1CF-9A86446E0814_w640_r1_s.jpg" rel="attachment wp-att-435018"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/917CBA50-8F22-4093-A1CF-9A86446E0814_w640_r1_s.jpg?resize=550%2C309" alt="917CBA50-8F22-4093-A1CF-9A86446E0814_w640_r1_s" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/917CBA50-8F22-4093-A1CF-9A86446E0814_w640_r1_s.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/917CBA50-8F22-4093-A1CF-9A86446E0814_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>山东问题疫苗案事发一个月后，问责结果终于出炉。当局决定对涉案的357名公职人员予以撤职或降职处分，同时决定将一二类疫苗并轨管理，不再允许药品批发企业经营疫苗。网友对这一结果的普遍反映是“判轻了”，呼吁应追究刑事责任。最近多次被当局骚扰警告的问题疫苗事件志愿律师团成员也对美国之音表示，国务院的处理结果并不十分合适，疫苗事件的背后涉及利益链分配等问题，理应交予检察机关和公安机关处理，追究相应的刑事责任。</p>
-<p>国务院总理李克强4月13日主持召开国务院常务会议，听取山东济南非法经营疫苗系列案件调查处理情况汇报。会议指出，目前各地已立案刑事案件192 起，刑事拘留202人，同时决定对食品药品监管总局、卫生计生委和山东等17个省 （区、市）相关责任人予以问责，有关方面先行对357名公职人员等予以撤职、降级等处分。</p>
-<p>此外，会议还决定将自愿接种的第二类疫苗比照国家免疫规划用的第一类疫苗，全部纳入省级公共资源交易平台集中采购，不再允许药品批发企业经营疫苗。</p>
-<p><strong>陈建刚：这只是一场表演</strong></p>
-<p>中国当局称将对涉疫苗事件的357名公职人员予以撤职或降职处理，但并未公开具体被问责人员的职位、姓名等详细信息。一次性惩处300余人，这一看似严厉的结果，网友却并不十分买账。</p>
-<p>广西南宁网友@啊谢1959 说：“强烈要求公布这帮家伙的名单。”</p>
-<p>北京网友@趁年轻做想做的事爱想爱的人说：“不是应该刑事诉讼吗？不知道有多少人因为假疫苗失去生命。”</p>
-<p>江苏南京网友@进一进二进三 说：“357人，到底是多少撤职，多少人降级可以交代清楚嘛？如果说大部分只是降级，少部分撤职有什么用？”</p>
-<p>上海网友@一叶轻舟1234 说：“希望政府不要用障眼法蒙蔽百姓，现在他们是处理了，过一段时间又上来或者换个部门。”</p>
-<p>天津网友@玉心如水 说：“这是非常严重的责任事故。仅仅对一些人撤职降级处理，不能服众。必须追究部分人的法律责任和刑事责任！”</p>
-<p>辽宁大连网友@背包一大叔 说：“撤职降级还是纳税人养他们，工人可以无过错下岗，真不公平。”</p>
-<p>“问题疫苗事件志愿律师团”成员陈建刚律师对美国之音表示，当局所谓的处理结果只是一场“表演”，并且这种表演已经持续多年了。他说：“在这种情况下我只能说，他们说杀了100个，你可以选择相信杀了100个；说撤职了5000了，那我也可以选择相信。但是人民永远看不到真相。”</p>
-<p>陈建刚律师认为，中共目前的专制制度就决定了信息的封闭和不对称，“人民永远得不到真相”。“因为你连言论自由都没有，连新闻采访的自由都没有，连探究真相的权利都没有……如果连一个真相的基础都没有，谈其他的那都是无源之水、无根之木、空中的楼阁，一点意义没有，”他说。</p>
-<p><strong>疫苗事件维权律师被当局警告</strong></p>
-<p>陈建刚律师称自己由于参与帮助问题疫苗事件受害者维权，最近正在被当局询问和警告。</p>
-<p>同样被当局查问的还有“问题疫苗事件志愿律师团”的另一位成员——余文生律师。他对美国之音透露，律师团的许多律师都遭到了司法局和律师协会的警告或询问。</p>
-<p>他说：“像我基本上应该只能说是询问，不能说是警告。他问过我这个事情，也有一些对我的建议吧，建议我对媒体说话谨慎一些……接受媒体采访有选择性，说话的时候要注意一些，尽量不要说一些他们所谓认为的过激的话。”</p>
-<p>“问题疫苗事件志愿律师团”共有成员89人，来自中国22个省市，其中包括不少在去年7月当局“大抓捕”行动中曾被一度关押或骚扰的律师。4月9日，该律师团向全国人民代表大会、国务院、最高人民检察院、卫计委和消费者协会发表了一封联署公开信，要求允许集团诉讼、完善医疗事故鉴定机制以及建立药害救济基金。余文生律师说，相关部门尚未对这封公开信做出回应。</p>
-<p>余文生目前是疫苗受害者家长易文龙的代理律师。易文龙由于“两会”期间手持印有疫苗事件受害者报道的《中国青年报》在天安门附近“散步”，并向路人展示，被当局以“寻衅滋事罪”抓捕刑事拘留30天。当天与易文龙一同行动的受害者家长还包括：安徽疫苗受害家长金玲、山东疫苗受害家长史桂芹、四川疫苗受害家长裴雪、黑龙江疫苗受害家长杨丹。4月12日，这五人刚刚被释放。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E6%A1%88357%E4%BA%BA%E5%8F%97%E6%83%A9%E5%A4%84-%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%BD%93%E5%B1%80%E5%81%9A%E6%88%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%AF%E7%9B%91%E5%B1%80/?category=18271" rel="tag">药监局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -639,7 +659,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -649,5 +669,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

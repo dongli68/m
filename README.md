@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E8%BF%99%E4%BA%9B%E6%95%B0%E5%AD%97%E5%BD%93%E7%84%B6%E4%B8%8D%E5%87%86%E7%A1%AE/" target="cdt-mirror">德国之声｜德语媒体：“这些数字当然不准确”</a>
+</h2>
+<p><p><strong>中国最新经济增长数据是德语媒体周五关注的焦点。国家统计局每次公布的数字都能与中央的指标“不谋而合”，这引起了德国记者深深的怀疑。</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg" rel="attachment wp-att-435202"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg?resize=585%2C329" alt="0,,19064852_303,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p>本周五，中国公布了2016年第一季度的经济增长数据，这引起德语媒体的纷纷关注。不过，《每日镜报》（Der Tagesspiegel）首先表达了对数据真实可靠性的怀疑。文章开篇带着讽刺的口吻写道：“北京的国家统计局总是那么值得信任。周五上午10点整，和以往每次一样，该机构准时公布了最新经济增长数据。然而，不仅公布的时间，连公布的内容都是人们事先完全可以预料的：2016年第一季度6.7%的增长率与政府原先设定的目标分毫不差。”</p>
+<p>作者接着指出，尽管去年中国外贸总量骤降，股市连续动荡，人民币也倍受压力，但是国内生产总值增长率的变化始终维持稳定的步伐：去年四个季度分别是7.0%、7.0%、6.9%和6.8%，然后再到今年第一季度的6.7%。“这种极为平缓的减速过程放出的信号是：别慌，一切都在我们掌握之中，硬着陆不会发生。”</p>
+<p>越来越多的专家，包括中国经济学家，都已经不再相信官方的经济增长数据。而宏观经济研究者王福重则直接了当地对《每日镜报》表示：“这些数字当然不准确。”文章援引这位知名财经评论员写道：“去年中国的经济增长率应该是在5%左右，而不是官方宣称的6.9%–业界不少其他分析人士也认同这一估计。王福重认为，政府多年来一直在系统性地对统计数字进行’润色’。’如果经济状况不佳，政府也不希望公布糟糕的数据’。相反，在经济繁荣时期，为了不引起人们的过分激动和过高期望，当局还有可能会把增长率改低。”</p>
+<p>最大的问题在于，国家统计局是政府机构，肯定会不遗余力地完成高层下达的指标。“只有独立的研究机构才能够提供可靠的经济统计数据。”</p>
+<p>中国经济“感冒”，世界也要“打个喷嚏”？</p>
+<p>既然官方统计数据不可信，那么为什么各国财经人士、媒体还是如此关注北京方面每次发布的经济增长率呢？《南德意志报》发表文章指出，中国经济的变革对于全世界的企业和政府来说具有重要意义：“不计其数的国家对中国经济有很强的依赖性，德国就是其中之一：对于德国企业来说，中国已经是仅次于美、英、法的第四大贸易伙伴。德国的汽车公司向远东地区销售数以百万辆计算的汽车，众多德国中小企业也把自己的机械和设备出口到中国。”</p>
+<p>接下来作者指出了中国经济在尚可的统计数字背后存在的隐患：“这个国家目前所面对的许多问题，是结构性的问题，并非一朝一夕可以解决。中国经济的迅速增长虽然带来了生活的日益富裕，但是在很多领域，中国的大型企业都出现了严重的产能过剩。仅仅在钢铁产业就有大约130万人面临失业，而在煤炭产业，至少也要削减50万个岗位。”</p>
+<p>而中国经济的疲软，逐渐走低的增长率数字，对于世界来说究竟意味着什么呢？《南德意志报》记者指出：“中国经济走弱，对于那些原材料出口大国来说会造成格外惨痛的损失，比如巴西和俄罗斯。中国的高速经济增长也造成了石油和天然气市场需求的不断攀升。而前一段时间石油价格暴跌，中国经济疲软也至少是原因之一。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E8%BF%99%E4%BA%9B%E6%95%B0%E5%AD%97%E5%BD%93%E7%84%B6%E4%B8%8D%E5%87%86%E7%A1%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87/?category=18271" rel="tag">数据造假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%80%BB%E7%90%86%E4%B9%9F%E6%98%AF%E4%B8%80%E5%B1%8A%E4%B8%8D%E5%A6%82%E4%B8%80%E5%B1%8A%E4%BA%86/" target="cdt-mirror">【立存此照】总理也是一届不如一届了</a>
 </h2>
 <p><p>4月15日，李克强总理到访北大前夕，有网友在微博透露，李克强此次到访前安保提升至了非常高的级别：校园中除了可以看到蛙人在水中排爆之外，甚至连李克强到北大食堂就餐的食材都疑似使用专车运送。</p>
@@ -599,28 +621,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%AE%B9%E4%B8%8D%E4%B8%8B%E7%90%86%E6%83%B3%E7%9A%84%E5%9B%BD%EF%BC%9F/" target="cdt-mirror">【立存此照】容不下“理想”的国？</a>
-</h2>
-<p><p>@姚广孝_wayne：感谢三个自信，《理想国》系列有些危险了，想买这套书的人要抓紧入手。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23ejw1f2ux0gi06aj20k60qb10o.jpg?resize=690%2C900" alt="7ffad23ejw1f2ux0gi06aj20k60qb10o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23ejw1f2ux0gi06aj20k60qb10o.jpg?resize=230%2C300 230w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23ejw1f2ux0gi06aj20k60qb10o.jpg?w=690 690w" sizes="(max-width: 690px) 100vw, 690px" data-recalc-dims="1"></p>
-<p>@再美_也不过是回忆：这些部门除了偶尔来秀下限，还能做什么？</p>
-<p>@柳狐子：看过书的一点内容，这也敏感……那口述史就不用做了</p>
-<p>@理想国imaginist：理想国的微博，被改成蓝色的机构认证了，之前的黄标看着亲切。现在，变性的感觉。</p>
-<p>@理想国imaginist：对于爱跳舞的孩子，遇到再大困难，不妨碍他们继续跳舞呢。</p>
-<p>@namelessendless：传闻是真的？骂人，骂人……</p>
-<p>@鹿鸣之什：没想到这么严重！喜欢理想国的选书品味和引领阅读风尚的意识，推出的好书真是数不胜数！希望理想国能好好的，但愿神的孩子总会跳舞。理想国出过很多书，有些也被迫删东西，虽然不喜欢，但在这个不自由的环境里更知道它的难。即使在夹缝里这样求全，如果真发生怎样，真不知道要怎么面对这个国度。</p>
-<p>@土豆烧牛肉吃了不需放屁：希望你门继续跳着芭蕾，而不是有一天突然跳起了忠字舞。</p>
-<p>@寒郁微博：在这个倒车的时代，继续跳舞！致敬！</p>
-<p>@到里斯本看海：“在一个并不尊重个体权益和尊严的畸形社会里，并没有幸存者。施害者和受害者往往走在同一条大路上。”张赞波《大路》</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E5%AE%B9%E4%B8%8D%E4%B8%8B%E7%90%86%E6%83%B3%E7%9A%84%E5%9B%BD%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E5%9B%BD/?category=18271" rel="tag">理想国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E8%BE%91/?category=18271" rel="tag">编辑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +632,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +642,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

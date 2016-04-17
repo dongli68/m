@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,124 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%AD%A3%E9%A3%8E%E8%B5%8F%E4%B9%A6-%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%BB%9F%E6%B2%BB%E8%80%85%E8%83%BD%E6%9B%B4%E6%96%B9%E4%BE%BF%E5%9C%B0%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">季风赏书 | 教育不是让统治者能更方便地统治</a>
+</h2>
+<p><p><strong>季风说：</strong></p>
+<p>“共同体成员的教育是为了帮助他们能够更好地共同生活，不是为了让统治者能更方便、更随心所欲地统治他们。”</p>
+<p>这本《统治与教育：从国民到公民》所谈论的，并非是通常意义上的教育问题，而是“公民教育”，就如同前文所说“作为共同体的成员如何更好的共同生活”，所以这里教育的还包括了一系列关于政治参与的价值和知识的教育，公共讨论和政治宣传，对于好生活、好公民的价值判断……</p>
+<p>这本书并没有堆积无数枯燥干瘪的理论，而是收录了上至古希腊，下到20世纪乃至延续至今的大量案例，民主（雅典、美国等）与专制（斯巴达、德国纳粹等）构成贯穿全书的两条线索，案例和解释互相穿插，从中你可以窥见两种体制是如何形成完全不同的国民（公民）教育，是如何形塑每个人的观念和生活的。</p>
+<p>此外本书还非常实用，我们在日常生活乃至网络空间的关于公共事务的讨论中，常常会碰到无数“有理说不清”的情况，最后只能用“五毛”和“美分”廉价标签一贴了之。而这本《统治与教育》却能帮你解开这些捆缚着我们的逻辑死结，不仅使你不必掉入两难的话语陷阱中，还抽丝剥茧的告诉你这些霸气、含混、反逻辑、少理性的话语逻辑和话语方式是如何被权力用精确的技术制造、操控和传播的，教你如何辨别它们，形成对抗极权的免疫力。</p>
+<p><strong>1.</strong><strong>当你因为批评官员和政府被人喷“不爱国”时</strong></p>
+<p><strong>你终于能够把道理拎清楚了</strong></p>
+<p>“国家”是一个由疆域、民族、历史、文化、语言、传统等原初因素形成的单一总体。这样的国家连同它的政府成为国民爱国的“自然”对象。这里的“自然”可以是不假思索的感情自然流露，也可以是由于没有其他可选择对象而不得不然的那种自然而然。这是你的祖国，它的一切，包括可能是很糟糕的政治制度和政府，构成一个与你自然有联系、你不能不接受的认同对象。</p>
+<p>爱需要理由，是一种积极主动的认同，一个国家之所以值得认同，乃是因为它维护公民社会所共同认可的基本价值（自由、平等），使他们的集体存在有尊严（人权）、有道德目的（正义）、并符合他们认可的公正程序（法治、公正的政治代表机制）。因此，公民的爱国并不表现在一味地顺从国家权力，而在于要求和督促国家权力不要破坏公民群体所共同珍惜的东西，尤其是人的尊严生活所必需的那些民主价值。在特殊情况下，公民爱国甚至可以通过公民不服从来表示。</p>
+<p><strong>2.</strong><strong>明明有那么多不同的声音</strong></p>
+<p><strong>为什么我们总是看到一致通过，零票否决呢？</strong></p>
+<p>所有的政府都希望能够摆出一种思想统一、团结一致的阵势，但只有极权才能做到这一点，而且也非得做到这一点不可，因为极权统治自称掌握了绝对的真理，对绝对的真理当然不允许有不同的意见和看法。但是，极权统治的最高层的内部权力斗争从来就没有停止过，纳粹高层的争斗就一直很激烈，所以希特勒不止一次地下达命令：内部争论一定不能外泄。</p>
+<p><strong>3.</strong><strong>在历史中有许多我们大多数人被迫要保持沉默的“事件”和“时刻”，很多人看起来都对过去的事情（哪怕是巨大的灾难）都毫不关心、语焉不详，</strong><strong>沉默</strong><strong>的仿佛</strong><strong>失忆</strong></p>
+<p>一般来说，很难精确预测哪些异议特别具有传染力，特别容易扩散，这就像很难预测哪种流行病菌会在哪一年流行一样。一方面，总是会有不止一种异议在悄悄传播，直到某一种突然越过了“临界点”，一下子传染开来，连时时防守者也觉得出乎意料。另一方面，制止一种异议的方法也同制止流行病相仿，无须把异议从每一个人头脑中抹掉，只要能有足够多的人停止散播就可以了，只要有足够多的人不传播病菌就可以了。那些被禁止公开谈论或讨论的历史事件，只要大多数人不再想它，不再去说它，它也就得到了控制。</p>
+<p>但是，永远也无法预料，什么时候、在哪里、会因为什么事情、又一下子会出现了多大面积的民众异见。但是无论何时出现这样的情况，扑杀的办法是一样的，那就是，让足够多的人对传播异见心怀恐惧，让足够多的人至少在公开行为中保持顺从和沉默。当大多数人不再公开表示某种异见时，异议的传播也就停止了，所以，让大多数人对某事保持沉默，是让异见从公共话语中消失的有效方法。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%889.25.54.png?resize=506%2C398" alt="Screen Shot 2016-04-16 at 下午9.25.54" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午9.25.54.png?resize=300%2C236 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午9.25.54.png?w=506 506w" sizes="(max-width: 506px) 100vw, 506px" data-recalc-dims="1"></p>
+<p><strong>4.</strong><strong>在</strong><strong>20世纪的极权国家，行政系统一刻也离不开思想控制，宣传因此成为极权统治的基础和核心，或许你认为自己有独立思考的能力，有政治目的的宣传不那么容易进入你的大脑，然而，这并不意味着宣传的失败</strong></p>
+<p>宣传的目的并不只是改变和形成人的想法，而更重要的是改变人的公开行为，是使人有正确行为。哪怕一个人的想法没有真正改变，但只要他的公开行为按照所宣传的样子被改变了，宣传就已经成功地达到了目的。这是极权宣传最重要的特点和作用，也是顺民假面生活从极权制度一直延续到后极权或新极权制度，代代相传、延绵不绝的根本原因。</p>
+<p>“宣传不再是为了改变人们相信某种原则，而是为了使人非理性地照某个样子行动。宣传不再是引导人去选择，而是引起条件反射，不再是改变想法，而是灌输神话信仰。”</p>
+<p><strong>5.</strong><strong>或许你认为自己是拥有知识和判断力的现代人，不会那么轻信宣传，也许事实恰恰相反</strong></p>
+<p>现代人是一个丧失了传统自然群体归属（家族、村落、邻里、同乡、世交等）的孤独存在。他是一个存在于陌生人群体中的原子，与他人只能结成抽象的群体联系（民族、人民、群众）。宣传为这样的原子个体提供与陌生人和遥远地方相联系的事件新闻。介入这些事件能使孤独的个人有一种与他人在一起的共在和参与感，让他觉得与他人拥有同一个生活世界，汇集在同一种情绪或感受之中。宣传瞄准的对象不是单纯的个体，而是置于群体中的孤独个体。</p>
+<p><strong>6.</strong><strong>然而即便如此，极权宣传的效果也常常与它的投入不成正比，它有着三种不可克服的内在缺陷</strong></p>
+<p>极权宣传的第一个内在缺陷是为自己设置了不切实际的目标。不切实际的目标注定只能有自欺欺人的结果。极权宣传自称代表绝对真理，并企图统一所有人的思想，它必须证明极权政权及其意识形态的绝对正确等等，并以此为理由要求所有人的绝对服从。绝对的正确必然需要绝对的权力来支撑，而绝对的权力又必然带来绝对的腐败。</p>
+<p>极权宣传的第二个内在缺陷是自我评估机制失灵。极权宣传表面越成功，就越无法评估自己实质是多么失败。极权宣传是一种典型的以“正确行为”代替“正确思想”的宣传。它的有效性可以从人们没有公开的不正确行为来评估，却无法从人们没有不正确思想来评估。</p>
+<p>极权宣传的第三个内在缺陷是，党逻辑的意识形态无法控制人对经验世界的感受。为什么连宣传干部都难以相信自己所宣传的东西呢？这是因为他们也是生活在经验世界中的人，在这一点上，他们和老百姓并没有太大区别。</p>
+<p><strong>7.</strong><strong>民主社会的宣传与极权生活的宣传并不相同。民主社会的“公关”式“宣传”是零碎的，根本不可能有高度组织的政权力量来作后盾。</strong><strong>那么正常生活中“说服”和带有欺骗性的“宣传”要如何分辨呢？</strong></p>
+<p>宣传是单向贯彻信息发送者的意图和需要；而说服则是双向互动的，兼顾信息发送者和接受者双方的需要。宣传居高临下，为达到目的可以不择手段，随时可能在交流的某些环节上违背真实原则；而说服则必须平等对待对方，诚实地遵守真实原则；而说服则必须平等对待对方，诚实地遵守真实原则。宣传往往不容受众发问，因此依靠某种外部强制力维持信息的传递机制；而说服则必须容许、鼓励对方发问，双方都是自由而不受胁迫的自主主体。</p>
+<p>因此，在宣传和说服之间不只是话语样式的选择，而是话语制度环境的区别。</p>
+<p><strong>8.</strong><strong>武断、粗暴、空洞、蛮不讲理的言论方式，实质是在为愚民政策买单</strong></p>
+<p>长期主导和影响中国公共言论的独语式宣传是造成中国不讲理，非理性公共语言的主要力量。这种宣传语言充斥着在报纸刊物、广播电视、大众传媒、文化产品、教育用书中，成为对民众语言的日常教育，起到了极大的潜移默化作用。它对人们事理认知，说理方式，心理期待，逻辑运用，语言习惯都有深远而持久的负面影响。</p>
+<p><strong>9.</strong><strong>细读既是学习并实践公民思想的人文训练，也是一种“自由教育”，至少让思想免受极权雾霾的侵袭</strong></p>
+<p>说理的交流特别得借助于文字。逻辑谬误出现在口头话语中，因为一句接一句，往往不可能一下子“听”出来。当然，在文字表述中，如果只是“粗读”，也是读不出来的。所以，说理教育的一项基本的学习和阅读训练就是“细读”。</p>
+<p>细读是一种专注的阅读，也是一种开放式的阅读。细读要求读者先搁置自己的立场和想法，从写作者的角度来看他说的是否有道理，评估文本是否能够自圆其说、言之有理、论之有据。逻辑是评估的关键部分，但并非全部。细读还要对文本的内容有所思考和判断的，看它是否符合普遍道义原则，如尊重他人的自由、平等和尊严。说理反对极权宣传的理由不仅是因为极权宣传不逻辑、非理性，而且更是因为极权宣传的目的是帮助维护一种专制、排斥、迫害、不民主、非正义的政治和社会制度。细读的人不是一个被动的文本阅读者，而是一个以价值判断积极介入公共生活的独立思想者。</p>
+<p><strong>10.</strong><strong>要追求真正的好生活，就不能食嗟来之食</strong></p>
+<p>苏格拉底说，不经过思考的生活是不值得去过的，对任何一个有自我意识和自由理智的人来说，真正的好生活应该是他自己选择、自己想过的好生活，照亮他内心洞穴，让他知道什么是好生活的光亮，无论这光亮多么微弱，都应当是他自己见到的光亮。</p>
+<p>由哲人或英明人物等所发现并强加于人民的好生活，就算确实是好生活，在蔑视人的自由、理智这一点上，仍然与人本主义的好生活背道而驰。拒绝威权的好生活是一种道德价值，而非是功利得失的评估结果：专制集权的好生活给一个人带来再多的物质满足、国家强盛，他也还是因为它不能给他自由，不尊重他的理性而感到不幸福，对于不幸福的他来说，专制极权的好生活就不是好生活。</p>
+<p>《统治与教育：从国民到公民》</p>
+<p>徐贲，中央编译出版社、三辉图书 2016.1</p>
+<blockquote><p>教育是一个美好的字眼，教育是人类的一种像饮食一样自然的需要。</p>
+<p>教育是为了让人明白道理，而不是让统治者能更方便，更随心所欲的统治他们。</p>
+<p>现代的国民教育当它是民主的公民教育时，可以帮助人民变得更智慧，更有自我治理的能力。然而，当它是专制统治的臣民教育或者党民教育时，它欲使人民变得愚昧，顺从，我们关注国民教育，期待的是第一种，警惕第二种。因为第二种国民教育是一种有毒害作用的“教育”，它伪装并掩盖了发明者。想要支配和控制人民的权力欲望，而这种权力欲望带来的几乎无一例外都是压迫，奴役，专制。</p></blockquote>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%AD%A3%E9%A3%8E%E8%B5%8F%E4%B9%A6-%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%BB%9F%E6%B2%BB%E8%80%85%E8%83%BD%E6%9B%B4%E6%96%B9%E4%BE%BF%E5%9C%B0%E7%BB%9F%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E7%BB%9F%E6%B2%BB%E4%B8%8E%E6%95%99%E8%82%B2%E3%80%8B/?category=18271" rel="tag">《统治与教育》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">公民教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">威权政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%92%8B%E7%A5%96%E6%9D%83%EF%BC%9A%E9%80%8F%E8%BF%87%E6%B8%85%E6%9C%AB%E7%9C%8B%E5%8E%86%E5%8F%B2/" target="cdt-mirror">CND | 蒋祖权：透过清末看历史</a>
+</h2>
+<p><p>清末，慈禧反对戊戌变法，是怕变法动摇大清和她的统治。</p>
+<p>八国联军打进北京后，慈禧主动变法改革，预备立宪，也是为保大清和她的统治。</p>
+<p>慈禧变法改革不是为了老百姓，而是为保住统治地位。</p>
+<p>古今中外，那些为保住统治地位的改革最后都没成功，法国路易十六，俄国尼古拉二世，大清慈禧，这都是活生生的案例。</p>
+<p>历史嘛，都是恶人之间的博弈，古今中外都一样，不是恶人也抢不到那个高高在上的位置，如今西方社会有了一套控制恶人的规矩，中国什么也没有。</p>
+<p>中国老百姓总是恶人博弈中的受害者，受害者还最爱看恶人博弈的热闹，并不在乎身前身后的深受其害，或者根本就想不明白。</p>
+<p>近代中国百年，唯一在恶人博弈历史中受益的，目前只有幸运的台湾观众。</p>
+<p>对比今天看清末，当时的朝廷开放报禁，满清皇权预备立宪，武昌清军起义，各省纷纷独立，孙中山能让大总统，袁世凯能劝满清退位，清政府能签字同意。清末的那个时代，还残存些许人性与良知。慈禧太后的变法，不论这个女人是何种动机目的，这个女人能做到开放报禁，和预备立宪这两件事，至今无人超越。</p>
+<p>我曾经写过几段清末往事，也有人说我美化清末。清末实行新政，开放报禁，1906年宣布预备立宪，1908年公布九年立宪时间表，各省设咨议局，选举议员。</p>
+<p>——这些不是美化，而是后来人始终不及。</p>
+<p>另外清末官场腐败，世人皆知，也无法美化，只因为如今官场比清末更加腐败不堪，才显得清末还有一些良知和理智。</p>
+<p>甲午战后，清政府开始官费派遣学生去日本留学，并鼓励民间自费到日本学习。在经受了八国联军打进北京，以及日本战胜俄国等事件之后，清政府派遣大臣赴日本及欧美考察宪政，并决定预备立宪。</p>
+<p>透过清末看历史</p>
+<p>尤其是清政府在《钦定宪法大纲》里明文规定［臣民法律范围内，所有言论、著作、出版及集会、结社等事，均准其自由］，第一次在具有国家基本法性质的法律文件中明确作出了赋予民众言论出版自由的规定。《大清报律》改传统官方对民间办报的一律禁绝和批准制为注册登记加保证金制，只要［年满二十岁以上］且［未经处监禁以上刑的本国人］，就可以充任报刊的［发行人，编辑人及印刷人者］，彻底放开了报禁和新闻自由。</p>
+<p>一百多年前，一个骑马射箭的少数民族都能做到这一步，今天的中国，能否超越清末的气度与胸怀？——很显然，还不能。</p>
+<p>一百多年来，有哪个男人超过慈禧太后打开中国的能力和力度？——很显然，真没有。</p>
+<p>站在今天，回首百年，中国人注定要辜负那个变革的时代，注定要自找一百多年苦吃。</p>
+<p>1911年10月10日晚，满清新军工程第八营打响了武昌起义的第一枪！武昌城内外各标营纷纷响应，一夜之间三千多人起义，几个月后满清政府垮台。</p>
+<p>自恃有兵在的满清政府，反转了军队只能对外用兵的职能，频频用在对付老百姓身上，最后也终于用到了他们自己身上。</p>
+<p>1911年10月10日晚，旗兵和武昌四大满姓家族统统被杀，武昌起义的第二天早上，当十八星旗飘扬在总督衙门，附近的街道也堆满了满人尸体。随后，西安2万多满人，有1万多人被杀。广州满族宣布和清政府脱离，一样大量被杀。杭州，河南等地满人也同样被杀。满清错失了转型的机遇，满人群体也遭遇了被屠杀的厄运。立宪慢了一拍，历史误了百年。</p>
+<p>几千年以来，中国人传颂宁为玉碎不为瓦全的豪情，走过好死不如赖活着的漫长历史。</p>
+<p>读着天下兴亡匹夫有责的文章，反复遭遇宁可大家一起死，谁也不想先出头的屠杀。</p>
+<p>吟诵先天下之忧而忧，后天下之乐而乐的诗篇，重复事不关己，默默旁观的世代人生。</p>
+<p>在高大上的文化表象下面，遗传着决定中国历史恶循环的潜规则信仰。</p>
+<p>还有一个千古不变的秘密，就是每个奴性的心底，都存着一套皇帝的模式，省长有省长的一套，村长有村长的一套，个体也有个体的一套。</p>
+<p>所以推翻了满清，中国也没走上宪政之路。推翻了民国，中国也没走上民主之路。</p>
+<p>一百多年之间，发明了太平天国土改文革，自相残杀死伤无数，自己把自己国家打砸了好几遍，也没有找到一个公正公平的生存方式。</p>
+<p>一百多年之间，一直无法打破愚昧体系做出理性选择，不断从一个疯狂走向下一个疯狂。</p>
+<p>基督教传进来，中国人读罢了《劝世良言》，只用了几年时间就把上帝改编成了太平天国，打杀砸抢了半个中国。</p>
+<p>马列传进来，中国人挥霍了几个年代，就腐败得比清末还要疯狂了。</p>
+<p>不好的东西传进来能坏得变本加厉，好的东西传进来也能变得面目全非，这是一百多年以来，反复被中国人错解的悲哀命题。</p>
+<p>那些靠侵吞国有资产，掠夺民间血汗暴富起来的少数人，他们是永远不可能去解决多数人关心的生存问题，他们只会制造问题，转移赃款。</p>
+<p>当今中国公正丧失，唯利是图，官场腐败，社会沉沦等问题都是来自集权与极权的人治模式，和世代传承的奴性文化，与外来病毒思想结合的［三体］体系。单单破除和改善其中一项，是无法改变整体状态的。在这个体系里，都是受害者。外加遇到像崇祯皇帝那样的无能末代管理者，就算一小节雪上加霜的插曲吧。</p>
+<p>很长一段时间里，我也认为历史上的战乱和灾祸都是少数人造成的，大多数人都是无辜的受害者。</p>
+<p>后来疑问少数人怎么可能左右几千年的历史恶循环呢？少数人只是邪恶的代表而已，大多数人旁观容忍，才是邪恶和灾祸不断发生的基础根源和千年支撑。明亡怨崇祯，清亡恨慈禧，历史一次次把责任推给少数人，少数人是无法对多数人负责的，少数人负责历史只有集权和极权。</p>
+<p>未来中国是一个什么样的社会，取决于［是否还是少数人先站出来，而多数人继续跟风］。</p>
+<p>如果还是这样的习惯状态，即使实行民主，即使一人一票，还能选出洪秀全，或者一人一票，带你去文革。</p>
+<p>中国的传统文化本来就有毒，加上近代外来病毒思想的侵蚀，所以从太平天国，义和团，到文革一直连续毒发。</p>
+<p>从义和团爱国，到红卫兵爱国，从五毛爱国到贪官也爱国，终于把这个国家爱成现在这个样子。编造历史去肯定这些人是爱国的，这个国家将什么也不是。</p>
+<p>二百多年前的乾隆皇帝，知道远隔万里的路易十六被砍了头，也读不懂大革命的含义。</p>
+<p>他的接班人嘉庆皇帝，看着比自己小九岁的拿破仑横扫欧洲，也看不懂世界的风起云涌。</p>
+<p>一直等到1840年被炮火打开国门，从那一刻中国掀开了被外部世界影响的历史。</p>
+<p>历史没有回头路，不是主动跟着走，就是要被赶着走。</p>
+<p>但是近代史说明，单凭英法等国的几发炮击，和日俄刺刀的几年占领，还无法提醒和改变一个奴性痴迷的民族。</p>
+<p>千百年以来，能改变这样民族的，除了蒙古杀人无数的弯刀，满清残酷屠城的马刀，还有就是那把镰刀。到目前为止，能改变中国历史和中国人的，一直是屠夫。</p>
+<p>千百年以来，不管是蒙古人，汉人还是满人，靠屠杀就可以统治这个国家几十年甚至几百年。如果除了多杀人，还能多撒谎，那就更上一层楼了。</p>
+<p>不仅可以高枕无忧地统治这样的国家，还能名正言顺地掏空这样的国家。</p>
+<p>只是千年兴亡，总是依靠腐败以毒攻毒，未必每次都能起死回生。</p>
+<p>历史上的中国，要么忍，剃发易服为奴，听从强权安排，任由少数人宰割。</p>
+<p>要么乱，你死我活内斗，自相残杀成匪。</p>
+<p>历史上的中国人，要么在专制之下变态生活，要么在动乱之中扭曲人性，从来没有理性选择过国家的命运。</p>
+<p>曾经几次亡国都依然不肯变革的国家，注定要走到一次变革都有可能亡国的地步。</p>
+<p>就连一个顺理成章的问题，都可能要用一种毁灭的方式去解决。</p>
+<p>还有一个特色，就是近百年来，文人学者也好，房地产商人也好，知名主持人也好，真愚蠢和假装愚蠢也好，总是愿意去找放火的人商量救火的事，也真是醉了。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%92%8B%E7%A5%96%E6%9D%83%EF%BC%9A%E9%80%8F%E8%BF%87%E6%B8%85%E6%9C%AB%E7%9C%8B%E5%8E%86%E5%8F%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">大清朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%9A%E6%B8%85/?category=18271" rel="tag">晚清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%AB/?category=18271" rel="tag">清末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E7%A5%96%E6%9D%83/?category=18271" rel="tag">蒋祖权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E5%BC%A0%E8%B6%8A%E5%87%AD%E5%A6%BB%E5%AD%90%E6%94%80%E9%99%84%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%8A%A9%E9%83%AD%E6%96%87%E8%B4%B5%E9%B2%B8%E5%90%9E%E7%99%BE/" target="cdt-mirror">网易路标 | 张越凭妻子攀附周永康助郭文贵鲸吞百亿国资</a>
 </h2>
 <p><p><b>网易《路标》文|冯存健 编辑|张建宁</b></p>
@@ -127,7 +242,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E8%B6%8A/?category=18271" rel="tag">张越</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%A6%E5%B3%B0/?category=18271" rel="tag">车峰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E6%96%87%E8%B4%B5/?category=18271" rel="tag">郭文贵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%98%AF%E8%B0%81%E5%90%B9%E6%95%A3%E4%BA%86%E9%A6%99%E6%B8%AF%E7%A5%9E%E8%AF%9D%EF%BC%9F/" target="cdt-mirror">端传媒 | 是谁吹散了“香港神话”？</a>
 </h2>
@@ -295,7 +410,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E8%AF%95%E7%82%B9/?category=18271" rel="tag">改革试点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%9D%BE%E6%9E%97/?category=18271" rel="tag">杨松林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">经济改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%95%E7%82%B9/?category=18271" rel="tag">试点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3%E7%90%86%E8%AE%BA/?category=18271" rel="tag">邓小平理论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8A%AF/" target="cdt-mirror">东网 | 赵思乐：被遗忘的政治犯</a>
 </h2>
@@ -638,79 +753,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B9%9F%E8%AE%B8%E6%98%AF%E4%BA%95%E8%B6%8A%EF%BC%9Ahello-world%E3%80%82/" target="cdt-mirror">也许是井越｜Hello World。</a>
-</h2>
-<p><p><b>第一幕</b></p>
-<p><b>背景：你四十，你在这，这还在</b></p>
-<p><b>地点：你家</b></p>
-<p><b>人物：你、儿子</b></p>
-<p><b>儿子：</b>并没有完全听懂，你的意思难道是互联网这个东西并不仅仅能将每个国家内部的人员相连接，而是可以帮助全世界的人交流任何信息？</p>
-<p><b>你：</b>没错。不能这样做的地方，目前应该只有咱们这儿，我也说不准。</p>
-<p><b>儿子：</b>但我们老师说…</p>
-<p><b>你：</b>你们老师说的…</p>
-<p><b>儿子：</b>错了？</p>
-<p><b>你：</b>额…. 至少经常不完全正确。这些事儿我其实也跟你聊过不少次，这次特意提起是因为爸爸上周在黑市上出高价买来了翻墙软件。卖方劝我至少一周后再用，所以现在才拿 给你看。咱们这就来试试。这款应该是目前黑市里能获取到的最高级产品了，时长大约是一个小时，其实目的完全只是为了让你知道你老爸没有骗你，刚好你也可以 看看外边的样子。</p>
-<p><b>儿子：</b>好啊，但你不怕我汇报给老师吗哈哈。</p>
-<p><b>你：</b>爸爸相信你。不说那么多了，先试试吧，你现在把u盘插在电脑上运行一下，看能不能成功。</p>
-<p><b>儿子：</b>似乎成功了，因为这个页面上没有中国字哎哈哈，这是英文吗？我们现在怎么做？</p>
-<p><b>你：</b>真的吗，太好了，你现在可以随意浏览新闻或视频，不过你不会英文。你看这里就是国外的论坛了，大家在这里可以任意发布信息，世界上所有人，只要愿意，也都可以回复它。基本道理其实跟楼下贴大字报的作用差不多，只不过信息可能大多更偏娱乐一点。</p>
-<p>恩..这个网站呢是陌生人社交网站，你只要填写好自己的信息，就可以在跟里面的外国人一对一的交流，或在群组交流也可以。</p>
-<p><b>儿子：</b>哈哈这个好玩！咱们快找个群组跟他们讲讲话吧！</p>
-<p><b>你：</b>好啊，就这个吧，你看大家真是都来自不同地方呢，这里还有个跟你差不多大的英国姑娘，刚好在线，头像里她还蛮可爱的哈哈。</p>
-<p><b>儿子：</b>好的，第一句说什么啊，我有点紧张。</p>
-<p><b>你：</b>大家可能会惊讶你的所填写的国籍，咱们好不容易出来，说点有象征意义的东西吧，说声hello，world。</p>
-<p><b>儿子：</b>什么意思？</p>
-<p><b>你：</b>你好，世界。</p>
-<p><b>儿子：</b>好呀，突然发现爸爸懂得真多！</p>
-<p><b>你：</b>哈哈那是当然，你知道吗，我们国家曾在八十年代向全世界发了第一封电子邮件，知道上面写着什么吗？</p>
-<p><b>儿子：</b>什么啊！</p>
-<p><b>你：</b>Across the Great Wall we can reach every corner in the world.</p>
-<p><b>第二幕</b></p>
-<p><b>地点：办公室</b></p>
-<p><b>人物：老王、小刘</b></p>
-<p><b>老王：</b>卧槽，刘，这玩意儿还真有人买哎，就是咱们市的，四十多岁吧，这他妈可相当于他自己两年的积蓄，估计粮票肉票也搭进去不少，丫够拼的。</p>
-<p><b>小刘：</b>真的吗，是不是老杨开发的那款，那款似乎可以翻到第三级别了哈哈哈。话说他拿这个想联系谁啊，要获取的情报这么重要吗？你快查查，然后调一下语音！哈哈哈哈今天有得看了。</p>
-<p><b>老王：</b>额……说来你可能不相信，没有情报，你猜他的目的是什么…..单纯地想给他家小孩证明互联网其实是可以用来进行跨国通信的，此外似乎没什么目的了，至少目前没有。你说这些人整天他妈的怎么想的？</p>
-<p><b>小刘：</b>哈哈哈哈哈，那他爷俩儿现在干什么呢？</p>
-<p><b>老王</b>：瞎看呗，目前社交网站上找群组聊天呢，没啥正事儿。</p>
-<p><b>小刘：</b>哈哈哈哈哈说什么了？说话了没？</p>
-<p><b>老王：</b>就他妈一句hello world，现在正等回复呢。话说这他妈还是老张当年被抓走前做的所谓的陌生人社交网站，现在他不在了，对了你是不是英语还成？看见没，显示在线的那个用户，快去，今天你就是那个英国小姑娘了。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006mbN59jw1f2sqpvonppj30if08n0ug.jpg" rel="attachment wp-att-435096"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006mbN59jw1f2sqpvonppj30if08n0ug.jpg?resize=550%2C258" alt="006mbN59jw1f2sqpvonppj30if08n0ug" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006mbN59jw1f2sqpvonppj30if08n0ug.jpg?resize=300%2C141 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006mbN59jw1f2sqpvonppj30if08n0ug.jpg?w=663 663w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B9%9F%E8%AE%B8%E6%98%AF%E4%BA%95%E8%B6%8A%EF%BC%9Ahello-world%E3%80%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%9B%BD/?category=18271" rel="tag">墙国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%97%B6%E4%BB%A3%E5%91%A8%E5%88%8A%EF%BC%9A%E4%B8%AD%E5%85%B1%E7%9A%84%E5%B9%B2%E9%83%A8%E5%8F%88%E5%8F%AF%E4%BB%A5%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BA%86/" target="cdt-mirror">博谈网｜时代周刊：中共的干部又可以打高尔夫了</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg" rel="attachment wp-att-435093"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg?resize=550%2C356" alt="gettyimages-519242360" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg?resize=300%2C194 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/gettyimages-519242360.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>（博谈网记者赵亮编译报道）据《时代周刊》4月14日报道，高尔夫运动被纳入今年的里约热内卢奥运会后普及性飙升。这项曾被毛泽东指责为‌‌“百万富翁的运动‌‌”在中国的统治精英中不再被禁，对于一个现在拥有世界上最多亿万富豪的国家，这多少还是恰当的。</p>
-<p>去年，中国共产党禁止其8800万党员打高尔夫球，因为它意识到该运动涉及的黑幕交易对国家主席习近平席卷性的反腐败运动是严峻考验。其他被禁止的活动包括大吃大喝及用公共资金购买‌‌“月饼‌‌”。</p>
-<p>然而，周二，中国反腐败机构的官方报纸《中国纪检监察报》撤销了对打高尔夫球的禁令，称‌‌“打高尔夫没有对和错‌‌”，因为它‌‌“只是一种运动‌‌”。</p>
-<p>虽然当局仍然禁止中共的干部接受高尔夫会员资格及其他与高尔夫相关的福利作为礼品，但是党员大致用自己的钱不再算违反党规。</p>
-<p>‌‌“打高尔夫本身并不是坏事‌‌”，官方《中国日报》报道说。</p>
-<p>此前的高尔夫禁令令许多人中招。英国广播公司报道说，在9月份，（中国）有60名公务员因使用公款打高尔夫而受到处罚。一个月后，中国南方一个镇的副镇长因为花太多的时间打高尔夫，且支付的优惠会员费（低得）令人生疑而被免职。</p>
-<p>中国与高尔夫的关系一直并不简单。虽然在1949年的共产主义革命之后，高尔夫在中国被禁，但是这项运动在邓小平的经济和社会改革之后于1980年代开始繁荣起来。</p>
-<p>2004年，中国宣布禁止建造新的高尔夫球场。即便如此，中国的高尔夫球场数量至2015年翻了超过一番，达到600个，许多地方政府向往着高尔夫度假村能吸引来旅游业的钱。</p>
-<p>高尔夫对环境的影响让许多中国人斥责该运动。随着中国超过40%的耕地退化，80%的地下水井已被污染到甚至不宜用来洗澡，把枯竭的资源引向高尔夫球场至少可以说是盲目的。去年3月，有66家非法建造的高尔夫球场被关闭。</p>
-<p>高尔夫在中国的人口结构也在发生变化。继该运动被纳入今年夏天的里约热内卢奥运会后，政府的利益和投资催生了新一代的明星。北京18岁的（小将）金城继夺得2015年亚太业余锦标赛冠军后，本月还参加了在美国佐治亚州奥古斯塔的美国大师赛。</p>
-<p>‌‌“高尔夫项目将会进入学校，地方的省级协会正在设定发展计划‌‌”，皇家古老高尔夫俱乐部国际管理机构亚太负责人Dominic Wall说。‌‌“我认为现在人们将会看到一个完全不同的人口结构进入该运动。‌‌”</p>
-<p>中共党员可能不得不排队等候拿回他们的高尔夫俱乐部会员资格。</p>
-<p><em>原文链接：<a href="http://time.com/4293498/china-golf-sport-corruption-graft-communist-party/" target="_blank">China’s Communist Party Cadres Can Play Golf Again</a></em></p>
-<p>编译: 赵亮 作者: Charlie Campbell</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%97%B6%E4%BB%A3%E5%91%A8%E5%88%8A%EF%BC%9A%E4%B8%AD%E5%85%B1%E7%9A%84%E5%B9%B2%E9%83%A8%E5%8F%88%E5%8F%AF%E4%BB%A5%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BC%9A%E6%89%80/?category=18271" rel="tag">高尔夫会所</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -722,7 +764,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -732,5 +774,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

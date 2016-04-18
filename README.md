@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E5%AB%8C%E7%8A%AF%E6%9C%89%E6%B2%A1%E6%9C%89%E7%B2%BE%E7%A5%9E%E7%97%85-%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97%EF%BC%9F/" target="cdt-mirror">网易另一面 | 嫌犯有没有精神病 谁说了算？</a>
+</h2>
+<p><blockquote><p><strong>谁来保证那个杀了人还被无罪开释的，是真正的精神病人？</strong></p></blockquote>
+<p>本文系网易原生内容中心《回声》栏目出品，每周一至周五准时更新。</p>
+<p>文|吴静宜</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604181130262d3bf_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2011年9月12日下午，记者在骡马市地下步行街找到了伤人的“武疯子”。民警叫来120，将该男子送往医院，对其进行精神疾病鉴定。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604181130262d3bf_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604181130262d3bf_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2011年9月12日下午，记者在骡马市地下步行街找到了伤人的“武疯子”。民警叫来120，将该男子送往医院，对其进行精神疾病鉴定。</p></div>
+<p>两天前在社交媒体上炒得沸沸扬扬的“地铁女孩被猥亵殴打”事件，以“嫌疑人是精神病患”为理由，没头没尾地收场了。攻击女孩的男人先后被送往两个医院却都无法接受精神病诊断；最后在没有出具书面报告的情况下，被专门收留无人监管的精神病患的北郊医院收容，事情就这样了结了。</p>
+<p>类似的事件昨天再度发生。半个月前在四川师范大学发生的大学生砍头案件中，嫌疑人滕某将室友卢海清杀害；医院认定，受害人身中50多刀，由缝补痕迹，是由头颈离断伤致死。昨天犯罪嫌疑人滕某的母亲表示，滕某患有精神病，公安机关已经为其申请了精神鉴定，一个月后出结果。</p>
+<p>中国《刑法》第十八条规定：“精神病人在不能辨认或者不能控制自己行为的时候造成危害结果，经法定程序鉴定确认的，不负刑事责任，但是应当责令他的家属或者监护人严加看管和医疗；在必要的时候，由政府强制医疗。”</p>
+<p>在世界上的许多国家中都有类似的法律规定，精神病人不必承担刑事责任；但对于精神疾病的鉴定、申请和最后的收治，都有严格的法律程序。在中国，由于司法鉴定上的不健全，给法律的执行带来了更多的人为不确定因素，导致很多犯罪嫌疑人通过伪装病情逃脱了刑事责任，而一些真正的精神病患却被投入监狱，承担了他们事实上无力承担的制裁。</p>
+<p>1997年，湖北省松滋人杨义勇杀人后，立即找人出重金替自己伪造了精神病鉴定，被无罪开释。之后的四年里，他拿着这份伪造鉴定，自称已经拥有“杀人执照”，肆意作案。直到2001年被人举报后，才被揭穿鉴定造假，判处了死刑。</p>
+<p>在刑事案件中，要认定犯罪嫌疑人的精神状态和刑事责任能力，司法精神病鉴定是唯一的法定程序，也是司法机关对案件做出处理的法定依据。</p>
+<p>目前的司法精神病鉴定主要解决两个问题：“是否存在精神障碍”与“有无民事行为能力”。</p>
+<p>由于自身存在的特殊性，精神病的诊断没有明确的生物学指标，在实际操作中，“是否存在精神障碍”的判断往往更多地依赖于鉴定人自身的专业能力与素养。而作为鉴定程序关键步骤的“有无民事能力行为”的判断，更是没有统一的标准可以依据。这就导致精神病的司法鉴定总是一次又一次地重复进行，而且每一次结论可能都大不相同。虽然现行法律规定，司法鉴定至少需要两名鉴定人共同进行鉴定并出具报告，但依然无法保证鉴定的准确性。</p>
+<p>1999年，江苏南通市发生一起毁容案，嫌疑人王逸把硫酸泼向亲生母亲、妹妹和外甥，导致三人毁容。这个案件前后做了五次司法精神病鉴定，出现四个不同结果，其中两次结果针锋相对：一个认为嫌疑人“患精神分裂症，无责任能力”，一个认为她“无精神病，有完全责任能力”。</p>
+<p>新疆精卫法医精神病司法鉴定所的研究人员曾经分析了229例正在服刑中的疑似精神病患者，发现其中的重复鉴定案例中，70%的两次鉴定结论都不一致。北医六院和安康医院的鉴定专家们也在104个重复鉴定案例中，发现鉴定不同的案例有78次，占比75%。</p>
+<p>因此，对于精神病鉴定人的资格审核成为了一个重要的关口。但中国现今对于鉴定人的资格规定并不算明确，而且关注点更多放在专业能力上，忽略了在信誉和其它方面的审核。根据《精神疾病司法鉴定暂行规定》，具有5年以上精神科临床经验，并具有司法精神病知识；或具有司法精神病知识、经验和工作能力的主检法医师以上人员才有资格作为鉴定人。</p>
+<p>法国刑事诉讼法对具有鉴定权的人或机构做出了明确的规定，并要求专家在登陆进专家名册时必须在其住所所在地区的上诉法院宣誓。意大利刑事诉讼法典也规定法官在任命鉴定人时应当从专门登记簿上注册过的专家中挑选。日本的鉴定也是由法官委托，并且明确规定了在侦查阶段受检察官聘请的专家不能作为审判阶段的鉴定人。</p>
+<p>比在专业上出现纰漏更让人担忧的，是鉴定人在实际操作中受到的各方制约，影响了鉴定结果。</p>
+<p>中国《刑事诉讼法》规定，检方既可以委托第三方鉴定机构进行鉴定，往往是由省级人民政府指定的医院；也可以委派自己的下属专业机构来鉴定。但是根据司法部2012年的数据，90%以上的鉴定还是交给了检方下属机构完成。</p>
+<p>在刑事案件里，只有公安机关、检察院、法院有权力启动精神病司法鉴定，他们也几乎都有自己下属的精神病检查机构，在精神病鉴定上往往自判自鉴、自侦自鉴，诊断结果很容易受到各方左右。2005年10月，全国人大出台的《关于司法鉴定管理问题的决定》第7条，宣布取消了司法机关下属的这些精神病检查机构。但在实际操作中，这些下属检查机构并没有消失，只是改头换面重新出现。新的精神病检查机构的设立、准入登记依然由各系统自行审理，在实质上依然是隶属关系，并未纳入司法行政机关的统一登记范围。</p>
+<p>除了在外部受到各自隶属机关的制约，在鉴定机构内部也存在着上下级的制约关系。当同一个机构中的不同鉴定人存在意见冲突时，大多采取下级服从上级的处理方式来解决，但这和科学精神是完全相违背的，也不利于保证最后诊断结果的科学性和真实性。</p>
+<p>中国属于大陆法系国家，鉴定人作为法官的助手身份出现，他们存在的价值是帮助法官弥补一些技术性、专业性较强的知识不足，处理这一部分的事实认定。因此中国的精神病鉴定人的技术鉴定带有“准司法权”的色彩。</p>
+<p>在世界通行的鉴定法规中，鉴定人只有权对当事人的精神状态进行推断或总结，不能作出司法裁定的结论。《联邦证据法规》第704条b款规定：鉴定人只能对被告的精神失调症状与犯案时的心智状态做出描述，至于被告到底是否精神错乱以及如何判定责任，则必须留给陪审团决定。</p>
+<p>中国的鉴定人常常将事实问题和法律问题相混淆，越权对当事人有无过错进行鉴定。</p>
+<p>2015年的南京宝马案中，肇事司机王季开着宝马与多车相撞，造成2人死亡、1人受伤、多车受损。南京脑科医院在鉴定意见中宣布：“王季进作案时患急性短暂性精神障碍，有限制刑事责任能力。”判断王季作案时的状态是的确是鉴定人的工作，但对刑事责任能力做出判断是法庭职权，鉴定医院做出这样的判定实际上是越俎代庖，也违背了《刑事诉讼法》的相关条例。</p>
+<p>但这却也是中国在司法精神病鉴定中的普遍做法，医生通常会在鉴定结果中直接判断当事人是“完全责任能力”、“限定责任能力”或是“无责任能力”。由于判定标准本身的主观性和专业性，律师无法提出有力的质证和反驳，法官也倾向于采纳鉴定人的意见，导致一旦被医院鉴定为精神病人，嫌疑人离免责也就不远了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E5%AB%8C%E7%8A%AF%E6%9C%89%E6%B2%A1%E6%9C%89%E7%B2%BE%E7%A5%9E%E7%97%85-%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E6%B3%95/?category=18271" rel="tag">刑法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%8C%BB%E7%96%97/?category=18271" rel="tag">强制医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">法律程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA/?category=18271" rel="tag">精神病人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-twitter%E9%A6%96%E5%90%8D%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%8E%8C%E9%97%A8%E4%BA%BA%E9%99%88%E8%91%B5%E6%B6%89%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF%E6%83%B9%E4%BA%89/" target="cdt-mirror">端传媒 | Twitter首名大中华区掌门人陈葵涉军方背景惹争议</a>
 </h2>
 <p><p>美国社交网站 Twitter 于15日宣布，任命具有中国军方和公安背景的陈葵（Kathy Chen）担任首位大中华区董事总经理（Managing Director），驻地香港。消息公布后，Twitter 中文圈用户表示关注，担心发言会遭到内容审查和监控。</p>
@@ -445,7 +480,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">中国香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">香港占中</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8A%A8%E5%90%91-%E8%BF%90%E5%8A%A8%E6%B2%BB%E5%B8%82%EF%BC%9A%E6%A5%BC%E5%B8%82%E9%87%8D%E5%A4%8D%E8%82%A1%E7%81%BE/" target="cdt-mirror">动向 | 运动治市：楼市重复股灾</a>
 </h2>
@@ -764,28 +799,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%81%AB%E4%BA%86%EF%BC%81%E6%89%8B%E6%8C%81%E9%92%A2%E7%AE%A1%E5%AF%B9%E6%8A%97%E5%9F%8E%E7%AE%A1/" target="cdt-mirror">【真理部】小孩持钢管对抗城管</a>
-</h2>
-<p><p><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%81%AB%E4%BA%86%EF%BC%81%E6%89%8B%E6%8C%81%E9%92%A2%E7%AE%A1%E5%AF%B9%E6%8A%97%E5%9F%8E%E7%AE%A1/" target="_blank">“小孩持钢管对抗城管”的视频</a>，照片和报道一律撤下要闻区 。 对执法群体形象不利的新闻必须审慎发布。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>附：武林军事：小男孩持钢管对抗城管 一出悲剧却充满笑声</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-15-at-8.01.55-AM.png?resize=594%2C774" alt="Screen Shot 2016-04-15 at 8.01.55 AM" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-15-at-8.01.55-AM.png?resize=230%2C300 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-15-at-8.01.55-AM.png?w=594 594w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"></p>
-<p>2016-04-15 13:27:45 </p>
-<p>“不要欺负我奶奶。”近日一段小男孩手持钢管对抗城管的视频在网上疯传，只见视频中的小男孩试图以一人之力对抗身前的大批城管，面对暴怒的小男孩，城管叔叔和阿姨们显得格外淡定，全程都在用DV和手机拍下小男孩“反抗”举动，围观的路人更是发出阵阵哄笑，完全把小男孩手持钢管对抗城管的行为当做笑话看。</p>
-<p>这个小男孩火了，手持钢管对抗城管，口中还不断咆哮着“不准欺负我奶奶”。视频并没有交代小男孩爆发的原因，究竟发生了什么，让一个幼童的脸蛋都气得鼓鼓的。网友推测，可能是小男孩的家人违规摆摊，城管前来查处，小男孩以为城管是坏人，要欺负摆摊做生意的奶奶，才会奋起反抗。</p>
-<p>视频中可以看出，有一个穿着城管制服的男子将小朋友扶到沙发上坐下，但是小男孩还是很“气愤”，并不“买账”<br>
-不过，也有不少替城管打抱不平的人认为，随意设摊就应该管，只要不是暴力执法就行了；而且，就算执法无理，也不能把小孩子推在最前面，家长有不可推卸的责任。</p>
-<p>比起小男孩的举动，围观路人的哄笑以及城管冷漠只顾着拍摄的行为，更引起网友热议。有人笑称这孩子长大后前途无量，也有人表示看完这段视频完全笑不出来，小朋友也是有自尊的，整个气氛都很沉重，一点都不欢乐，真不知道围观路人哄堂大笑的点在哪。<br>
-看完小男孩手持钢管对抗城管的视频后，有网友觉得很心酸，但是又无能为力，小男孩保护家人的孝心看了让人感动，但是如果一个家庭需要一个年幼的小男孩去保护，那得多可悲。也有网友认为这可能不过是一件小事，不要夸大了，古话说得好，三岁看到大，一看就知道是什么样的家庭教育出来的，小男孩戾气太重。</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%81%AB%E4%BA%86%EF%BC%81%E6%89%8B%E6%8C%81%E9%92%A2%E7%AE%A1%E5%AF%B9%E6%8A%97%E5%9F%8E%E7%AE%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E7%AE%A1/?category=18271" rel="tag">城管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -797,7 +810,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E7%AE%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -807,5 +820,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E7%AE%A1
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

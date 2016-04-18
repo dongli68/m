@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-twitter%E9%A6%96%E5%90%8D%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%8E%8C%E9%97%A8%E4%BA%BA%E9%99%88%E8%91%B5%E6%B6%89%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF%E6%83%B9%E4%BA%89/" target="cdt-mirror">端传媒 | Twitter首名大中华区掌门人陈葵涉军方背景惹争议</a>
+</h2>
+<p><p>美国社交网站 Twitter 于15日宣布，任命具有中国军方和公安背景的陈葵（Kathy Chen）担任首位大中华区董事总经理（Managing Director），驻地香港。消息公布后，Twitter 中文圈用户表示关注，担心发言会遭到内容审查和监控。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=600%2C400" alt="Twitter 任命陈葵（Kathy Chen）为首名大中华区董事总经理。Kathy Chen Twitter图片" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>Twitter 任命陈葵（Kathy Chen）为首名大中华区董事总经理。Kathy Chen Twitter图片</p></div>
+<p>Twitter 于2009年6月4日下午被中国内地封锁，6月8日中午封锁解除；而后又于同年7月5日新疆乌鲁木齐发生骚乱事件后的第2天再次被封，直到现在。</p>
+<p>2015年3月，Twitter 在香港开设办公室，开始寻求与中国内地广告商合作。Twitter 亚太区副总裁 Shailesh Rao 近日接受南华早报专访时表示，Twitter 的中国策略并非吸引社交网络用户，而是做中国企业的生意。</p>
+<p>据 Rao 透露，Twitter 去年的中国广告客户增加了340%，主要客户包括联想、华为等科技品牌，也包括新华社和人民日报等官方媒体。他表示，Twitter 已经见证了在亚太区的成功，并将扩大在该区域的投资，而陈葵“将负责制定策略，经营业务”。</p>
+<blockquote><p>我们要为中国的企业、创新者、合作伙伴以及开发人员提供更多价值。</p></blockquote>
+<p>陈葵4月15日在 Twitter 发布，这也是她在 @kathychen2016 帐号下发布的第一条推文</p>
+<p>网上资料显示，陈葵1966年出生于上海，1987年毕业于北方交通大学计算机系，随后在中国解放军第二炮兵（现更名为战略导弹部队）第一研究所任技术工程师长达7年；后又在 DEC（美国老牌电脑公司，1998年被康柏收购）、康柏（COMPAQ）、3Com 等 IT 公司任职。</p>
+<p>1999至2005年间，陈葵在美国国际联合电脑公司（Computer Associates International）和中国公安部1998年合资成立的北京冠群金辰软件公司任总经理。2005年后，她又先后加盟思科中国公司高级副总裁，及微软华东区总经理。</p>
+<p>《数字商业时代》2004年发表一篇题为《陈葵：做个IT徐娘蛮好》的文章中曾提到，“陈葵被国家有关机构评为对中国安全产业有特殊贡献的人，获得这个奖项的人很少”。</p>
+<p><strong>声音</strong></p>
+<blockquote>
+<p>我们很乐意向中国用户提供推特的顾客服务，但目前不行。我们将会用一部分精力，来为中国企业和国有企业创造价值。———Twitter 亚太区副总裁 Shailesh Rao</p>
+<p>外国公司进入中国市场，为了生存而无法逃脱两大定律：第一，被迫顺应中国的制度环境（包括向中国官员大量行贿）；第二，放弃在本土必须坚守的政治原则与道德律条，顺从中国政府的各种有悖人权原则的要求。 ————中国经济社会学者何清涟，现居美国</p>
+<p>2016年 Twitter 的首要任务是让用户体验更加直观，增加视频直播，以及让用户更安全地在平台上发表意见。 ————Twitter 创始人兼 CEO 杰克·多西（Jack Dorsey）</p>
+</blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-twitter%E9%A6%96%E5%90%8D%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%8E%8C%E9%97%A8%E4%BA%BA%E9%99%88%E8%91%B5%E6%B6%89%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF%E6%83%B9%E4%BA%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=18271" rel="tag">Twitter</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF/?category=18271" rel="tag">军方背景</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9%E4%B8%AD%E6%96%87%E5%9C%88/?category=18271" rel="tag">推特中文圈</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E5%B8%B8%E5%B7%9E%E5%AD%A6%E6%A0%A1%E6%96%B0%E5%9D%80%E6%B1%A1%E6%9F%93%EF%BC%9A%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E4%B8%8E%E5%A4%AE%E8%A7%86%E7%8E%AF%E8%AF%84%E7%9B%B8/" target="cdt-mirror">BBC | 常州学校新址“污染”：当地政府与央视环评相悖</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160417111244_china_school_polluted_624x351__nocredit.jpg?resize=600%2C337" alt="常州外国语学校现有初、高中部58个班级，约 2800名师生员工。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160417111244_china_school_polluted_624x351__nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160417111244_china_school_polluted_624x351__nocredit.jpg?w=660 660w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>常州外国语学校现有初、高中部58个班级，约 2800名师生员工。</p></div>
+<p><strong>中国江苏常州外国语学校因新校址“污染”数百学生，中国官方称已成立调查组跟进相关事宜。官媒央视和当地政府对该校环评结果各执一词。而不少网民和家长亦对环评存在疑问。</strong></p>
+<p>江苏省常州市政府新闻办公室周日（17日）晚间消息称，当地市委和市政府已成立联合调查组开展工作，将及时向社会公开调查结果。</p>
+<p>该消息称，目前，全校应到校的2451名学生中，除1人事假、4人病假、5人正在办理转学手续外，其余学生全部到校；210名教师中，除3人病假外，其他教师全部到校，学校教学秩序正常。</p>
+<p>2015年9月该校搬进新校址，493名学生检出皮炎、血液指标异常等，个别查出淋巴癌、白血病等。</p>
+<p>中国中央电视台周日（4月17日）的报道称，经检测，该“校区地下水、空气均检出污染物。学校附近正在开挖的地块上曾是三家化工厂，专家称校区受到的污染与化工厂地块上污染物吻合。”</p>
+<p>在该校新址的环评结论方面，常州政府发布的官方声明依旧与央视截然相反。</p>
+<p>常州市政府新闻办称，2016年2月专家组对该校附近三块化工地块的土壤修复调整工程作出结论，工程已达到预期环保治理效果，空气质量监测完全达标。</p>
+<p>而官方称今年3月家长委托的检测机构作出的检测结果显示，各项指标均符合中国国家标准及相关要求。</p>
+<p><strong>家长质疑与诉求</strong></p>
+<p>今年1月，中国新闻网曾报道常州外国语学校新址因空气质量问题宣布停课。而早在1月，一篇名为《常州外国语学校的化工毒物》的微博文章在社交网站流传。</p>
+<p>该文章称常外的选址已经违反《城市普通中小学校校舍建设标准》第九条“远离污染源、集贸市场”的规定，并且质疑政府如何通过环评。</p>
+<p>当时家长们的诉求为配合学校搬迁至其它校区过渡，待学校周围环境得到整治后再回迁。</p>
+<p>目前为止，该校家长还未发表最新的诉求和回应。</p>
+<p><strong>监管不力？</strong></p>
+<p>中国社交网络平台微博上，不少网友开始追责此事件的监管方。</p>
+<p>微博网友“Mr_Left留左手”表示：“当地环保部门对原化工厂环境监管不力，环评在要素不全的情况下通过，环保部门难辞其咎，环评公司也应该吊销其资质。”</p>
+<p>用户“chillway”表示：“首先新校区按道理就不可能批下来，这其中牵扯多少利益？后来举报的人应该也不是少数吧，依然无动于衷，那些官员难道一点事都不知道？贪污腐败说实在大家也是见多不怪，有些事我们也是睁一只眼闭一只眼。但是，现在关系到数千学生健康问题，还这么不作为，活该被查被撤职！”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E5%B8%B8%E5%B7%9E%E5%AD%A6%E6%A0%A1%E6%96%B0%E5%9D%80%E6%B1%A1%E6%9F%93%EF%BC%9A%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E4%B8%8E%E5%A4%AE%E8%A7%86%E7%8E%AF%E8%AF%84%E7%9B%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E6%BA%90/?category=18271" rel="tag">污染源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E7%89%A9/?category=18271" rel="tag">污染物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E8%AF%84/?category=18271" rel="tag">环评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E7%BD%91%E4%BC%A0papi%E9%85%B1%E9%81%AD%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B0%81%E6%9D%80/" target="cdt-mirror">腾讯新闻 | 网传Papi酱遭广电总局封杀</a>
+</h2>
+<p><p>影视口碑榜（微信ID：yingshikoubei）讯：影视口碑榜从消息人士处获悉，2016年第一网红papi酱近日遭到广电总局封杀，有视频平台收到广电总局通知，要求将《papi酱》系列作品下线，原因为“以直接、暗示、辱语等方式表述粗口、侮辱性语言内容较多”。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574592.jpg?resize=600%2C176" alt="133574592" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574592.jpg?resize=300%2C88 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574592.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>papi酱号称2016年第一网红，1987年2月17日出生于上海，毕业于中央戏剧学院导演系 。2015年10月，papi酱开始在网上上传原创短视频。2016年2月份凭借变音器发布原创短视频内容而走红，包括嘴对嘴小咖秀，台湾腔+东北话；其中她发布的短视频《男性生存法则第一弹》在微博上小爆发，获得2万多转发、3万多点赞。而后又推出了系列视频，如日本马桶盖、男女关系吐槽、烂片点评、上海话+英语话等。</p>
+<p>2016年3月，papi酱获得真格基金、罗辑思维、光源资本和星图资本共计1200万融资，估值1.2亿左右。其中，真格基金、罗辑思维、光源资本和星图资本分别投资500万、500万、100万和100万,占股分别为5%、5%、1%和1%，papi酱团队持股88%。</p>
+<p>网红经济成为2016年的一个风口，但papi酱走红后也引发了大量质疑，其中包括网友的大力点赞，但其最为人所诟病的就是语言粗鄙，充满负能量。</p>
+<p>网友们认为，papi酱的视频具有清晰价值观：崇尚真实、摒弃虚伪、吐槽一切装逼行为、倡导个体自由，而这也正是年轻一代所共同追求的东西，papi酱的视频之所以能够获得广泛共鸣，原因便在于此。</p>
+<p>但与此同时，3月22日晚，微博实名认证为“共青团中央网络影视中心 党组成员 副主任”的网友小蔺，连发2条微博痛批网络红人PAPI酱，称其满嘴污言秽语，粗俗不堪，有关部门该管管。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574595.jpg?resize=600%2C423" alt="133574595" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574595.jpg?resize=300%2C211 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574595.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>官员痛批PAPI酱的微博内容如下：这个女子是网红“PAPI酱”，自称是“集美貌与才华于一身的心灵鸡汤教主”。视频中，该女满嘴污言秽语，粗俗不堪，对年轻人百般嘲讽挖苦毁损，却在优酷上吸引了大批粉丝。青少年看着这些毁三观的视频，听着这些粗鄙低俗的网言网语，心中哪还会有诗和远方？有关部门，该管管了。</p>
+<p>一小时后，该官员再发微博：“PAPI酱”可谓是当前的网红，有800多万粉丝。在她的视频中，充斥着“污言秽语”，网站给这种人提供传播平台，必然给青少年健康成长带来负面影响。真正有教养的女孩说不出粗鄙之语，这种人的目的无非是为了商业变现。如果有人投资，将会带来更多人的效仿和追随。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574597.jpg?resize=600%2C233" alt="133574597" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574597.jpg?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574597.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>papi酱走红后，获得罗辑思维大力扶持，优酷土豆成为其主要传播平台，罗振宇的罗辑思维作为papi酱系列视频的版权方，目前系列视频仍在优酷平台上，截至目前的点击量高达近5000万次。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E7%BD%91%E4%BC%A0papi%E9%85%B1%E9%81%AD%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B0%81%E6%9D%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">蔺主任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E8%83%BD%E9%87%8F/?category=18271" rel="tag">负能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%92%E7%BB%9D%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BA%A4%E6%98%93/" target="cdt-mirror">纽约时报 | 长平：我为什么拒绝与中国政府交易</a>
 </h2>
 <p><p>德国杜塞尔多夫——3月27日，在中国西南四川省，警察出现在我父亲70大寿的寿宴上。他们指控我的家人前一天焚香烧纸时<a href="http://www.straitstimes.com/asia/east-asia/chinese-police-accuse-overseas-dissident-chang-pings-family-of-arson" target="_blank" rel="nofollow">引发山火</a>。焚烧香蜡纸钱是一年一度的清明节的一部分，为的是缅怀故去的亲人。我的两个弟弟和一个妹妹被传唤到派出所后，很快发现他们被拘押另有原因。</p>
@@ -53,6 +129,37 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-17-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 4-17</a>
+</h2>
+<p><p>@罗昌平：社会就像是一棵爬满猴子的树，往上看都是屁股，往下看都是笑脸，左右看都是耳目。尤其在机关。你觉得有道理不？<span></span></p>
+<p>@XiaYeliang：答存在认知障碍的国人：反对中共专制统治不是“反华”，抨击腐败政府不是“卖国”，揭露中国阴暗面不是“汉奸”，真正反华（毁灭传统文化/伦理/珍贵文物等）的卖国汉奸恰恰是中共统治者。</p>
+<p>@gliderhook：焚烧赵国护照、侮辱无耻支豚，这就是真实的政治正确，西方“政治正确”问题，核心就是远离了真实。一个长期低人权的警察国家，不仅其政府是国际麻烦制造者，它批量克隆出的体制化国民放在世界范围也是邪恶本能比肩ISIS的魔鬼崇拜者，“极权小魔鬼型优越感”即是赵国阉人移民的真实命根和暗黑原力。</p>
+<p>@hnjhj：赵克伯格刚把习大大的书合上，就听手下报告说推特找了个二炮的坐镇。只见赵总用略带京腔的口音骂了句“操你妈”之后，连忙拿起手机给鲁炜打了电话：鲁总，你做我入党介绍人行吗？</p>
+<p>@kunlunfeng：对陈葵出任CEO一事的反应，或出于“互联网改变中国”的遐想，或出于言论自由的切身之痛，但简单事实是，极权世界的互连是恩许的，既然是恩准，取消也就分分秒。有推油觉得反对国际互联网公司中国化是是非问题，但是，国际财团的沆瀣鼠目之举，难道不是其政府一贯对中政策的延续延伸。</p>
+<p>@mozhixu：现在有不少人膜蛤，实际上蛤时代有镇压法轮功和中国民主党等，凶残程度并不差，但蛤时代是市场新极权搭建过程中，更偏重市场化的阶段，有相当的松动措施，但随即也就转向了强固极权体制，胡的十年，前半属于江时代继续，后半实际已转向刚性维稳、国进民退等强固内容，习不过继续强化了这一过程。</p>
+<p>@tengbiao：转：【最成功中国模式】父官子商是最成功的中国模式，也是当今权贵阶层中最流行的造富方式。如果父亲不倒，子女都是商界奇才。最近20年里崛起的能源、地产、金融、科技领域中的大亨们，往往都源于这种模式。这种模式下的产生的企业家没有一个失败者，而同时创业的民营企业家每年都尸横遍野。</p>
+<p>@ngkeehow：我们要说的是：1989年反贪污、反腐败，要求民主、要求新闻自由，都是有前瞻性的诉求。现在来看，就是因为1989年民运被机枪和坦克镇压了，中国民众完全失去了对政治权力监督，贪污腐败就更加升级，从以前的小规模变成了现在的无官不贪。——封从德</p>
+<p>@chuandaoren：中石油、中石化、电力、联通亏损，现在连中盐总公司也亏损了，连高速公路收费站也亏损，似乎在中国经营一个垄断型企业，你不亏损都不好意思。究其原因，各种砖家叫兽经济学家各种分析各种解读，大家也是听得云里雾里，究竟亏损到哪里去了？维京群岛，巴拿马运河的出现，才恍然大悟、一切真相大白。</p>
+<p>@letscorp：【上屋抽梯】住建部：凡住房公积金缴存比例高于12%的，一律予以规范调整，不得超过12%。经营效益不好的企业可申请暂停削减缴纳公积金；温州一批20年产权住宅土地使用权到期，续期须按房产价格三分之一。</p>
+<p>@资中筠：我认为国民党之所以垮台，一是因为腐败，二是因为腐败还不彻底，就是说官场是腐败，而整个社会没有腐败，教育、文化、新闻界没有腐败，知识分子没腐败。所以他们还追求正义，觉得受不了这个腐败的政府，要想办法反对它。——共党乘虚而入，蛊惑人心得逞，陷国家于万劫不复。</p>
+<p>@choicky：腾讯发现了一只很牛叉的dcm木马，联网就自动安装木马，能绕过数十种安全软件，监控绝大部分软件的聊天内容……虽然没有证据证明是我党开发的木马，但这木马的确干了我党想干的事。</p>
+<p>@felixding：作为一个长春人，饶有兴致地看完了《伪满洲国首都规划》。如果日本人真的按照规划完成建设，长春：1940年就会开通地铁，人均绿地面积将在亚洲大城市中排第一，城市基础设施建设将会是国际一流水平，市区内任何一条主干道路上都能看到日出日落……然而这个“如果”政治不正确。</p>
+<p>@鸢moon2转：中国人耻于谈钱，却是世界上最爱钱的民族；羞于谈性，却制造了第一人口大国；最讲究思想品德，却是世界上最缺德的民族。在北美生活20年，未见过学生从小学到大学上过一堂品德课，整个社会也没人提所谓的德育。可在大多数人遵守社会最基本的道德，社会秩序井然，这究竟是为什么？</p>
+<p>@Yang1Yoko：今天老爸突然打电话来，询问我有没有入党，并希望我去争取那么多人挤破头想要的几个名额，因为入党能带来更多的特权利益，我知道父母是想让我更好地在社会生存，但很遗憾自己和他们的价值观差太大，我不会做出违背价值观的事情，这也更增加了我对这个党的不满与厌恶…</p>
+<p>@momo_kon9：没有什么政治问题是移民解决不了的，如果有，那就再移一次。#胡说八道不负责</p>
+<p>@maylogcom：#转：今天早上在公园和大爷下象棋，有点紧张。走了第一步后，大爷沉默了很久说：“你是新手吧？” 我：“大爷你怎么知道？” “我在这玩了几年，第一步走帅的真不多。” 我：“不应该让领导先走吗？”</p>
+<p>@烧鸡烧鸡呢：其实我的青春既不是乔丹、科比，也不是罗纳尔多、齐达内。我的青春是铁木尔达瓦买提、帕巴拉格列朗杰、司马义艾买提、阿沛阿旺晋美。</p>
+<p>@英式没品笑话百科：科比退役了，你们才觉得欠他一场球赛。星爷不演了，你们才觉得欠他一张电影票。快播被封了，你们才觉得欠他一份会员。现在还有机会，不要等他不在了，你们才觉得欠一秒。</p>
+<p>@赵小姐失眠中：朋友说她去参加活动，一个喝醉酒的姑娘拉着她的手问，“能陪我在这儿等我老公吗，我老公说只要有其他漂亮姑娘在他就会来……”听着多像一个电视剧的开头，或者是一部小说的结尾。</p>
+<p>@lifent：听到邻桌一男一女说现在的p2p怎么做销售。女的说：“现在的销售已经不是以前的推销员了。现在流行放倒钩。穿得美美的，出入高档场所，提个LV，别人问起来，就说在参与一个政府项目。他们就会有兴趣了，就会请你吃饭。然后慢慢地你就可以把理财产品包装以后卖给他。”男的连连点头。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-17-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%AD%A3%E9%A3%8E%E8%B5%8F%E4%B9%A6-%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%BB%9F%E6%B2%BB%E8%80%85%E8%83%BD%E6%9B%B4%E6%96%B9%E4%BE%BF%E5%9C%B0%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">季风赏书 | 教育不是让统治者能更方便地统治</a>
 </h2>
@@ -679,84 +786,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E7%AE%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%81%AB%E4%BA%86%EF%BC%81%E6%89%8B%E6%8C%81%E9%92%A2%E7%AE%A1%E5%AF%B9%E6%8A%97%E5%9F%8E%E7%AE%A1/" target="cdt-mirror">【CDTV】这个小男孩火了！手持钢管对抗城管</a>
-</h2>
-<p><p>近日，一则小孩对抗城管的视频在网上传播开来。视频中的小男孩手持钢管对抗城管，脸蛋气得鼓鼓的，围观的路人都在哄笑。有网友笑称孩子长大后前途无量，也有人说看完视频笑不出来。您觉得究竟是欢乐还是沉重呢？ WeiboVideo 定期更新微博上的火爆视频！！！ 现针对海内外征集个人拍摄的惊险，搞笑，动物，感人，监控，发明，奇人等视频短片。 视频及图片均来自网络，若侵犯你的版权请告知删除。若想申请版权侵犯赔偿，请联系商务邮箱，我们会给您一定的补偿，谢谢！ https://www.youtube.com/user/WeiboVideo</p>
-<p><a href="https://www.youtube.com/v/EJmflvgnY5g?version=3">https://www.youtube.com/v/EJmflvgnY5g?version=3</a> </p>
-<p><a target="_blank" href="http://www.youtube.com/watch?v=EJmflvgnY5g" title="这个小男孩火了！手持钢管对抗城管">这个小男孩火了！手持钢管对抗城管</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%81%AB%E4%BA%86%EF%BC%81%E6%89%8B%E6%8C%81%E9%92%A2%E7%AE%A1%E5%AF%B9%E6%8A%97%E5%9F%8E%E7%AE%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%8E%E7%AE%A1/?category=18271" rel="tag">城管</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-2/" target="cdt-mirror">【立此存照】伤害所有中国留学生的感情</a>
-</h2>
-<p><p>【编者注】这名自述在美国乔治亚州<a href="https://www.facebook.com/AxisTheInternationalClubOfWesleyanCollege/" target="_blank">Wesleyan College</a>作交换生的中国学生，因不满有同学将台湾看作是独立国家，要求学生会在活动报幕时将表演者所代表的国家念为“中国台北”。遭拒后，该名中国留学生在邮件回复中声称对方的这种行为“将伤害所有中国留学生的感情”，并表示会联合其他中国学生要求学生会他们“给一个交代”，甚至认为对方是在拿“文化”当“挡箭牌”。</p>
-<blockquote><p><a title="清华南都" href="http://weibo.com/qinghuanandu?refer_flag=1005055010_">@清华南都</a>：【台湾省问题】美国留学小伙伴<a href="http://weibo.com/n/%E8%80%B6%E5%98%BF%E5%B9%B2%E8%84%86%E9%9D%A2" target="_blank">@耶嘿干脆面</a> 发来求助，他们学校明天有个台湾女生将代表台湾以一个国家的身份在国际学生节表演。写邮件向主办方反馈无果<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">大家觉得以后在外国遇见这种事情怎么办？<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg" rel="attachment wp-att-435132"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg?resize=450%2C724" alt="89ad7439jw1f2qtxjlmnhj20ko0x9n0c" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg?resize=637%2C1024 637w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxjlmnhj20ko0x9n0c.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg" rel="attachment wp-att-435133"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg?resize=450%2C800" alt="89ad7439jw1f2qtxk3vxxj20k00zk77g" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxk3vxxj20k00zk77g.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg" rel="attachment wp-att-435134"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg?resize=450%2C800" alt="89ad7439jw1f2qtxkcewbj20k00zk0vy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkcewbj20k00zk0vy.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg" rel="attachment wp-att-435135"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg?resize=450%2C800" alt="89ad7439jw1f2qtxkie3hj20k00zkwia" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/89ad7439jw1f2qtxkie3hj20k00zkwia.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E6%84%9F%E6%83%85/?category=18271" rel="tag">伤害中国人民的感情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%BD%9C%E4%B8%BA%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%9A%E4%B8%BB%EF%BC%8C%E9%A9%AC%E4%BA%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%B5%A2/" target="cdt-mirror">博谈网｜作为《南华早报》业主，马云不可能赢</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg" rel="attachment wp-att-435128"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg?resize=575%2C323" alt="nanhua_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/nanhua_0.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>（博谈网记者赵亮编译）去年年底，当郭鹤年终于决定卖出拥有24年的《南华早报》时，朋友们问他是何感受。这名在马来西亚出生的大宗商品和地产大亨擦拭了一下额头，长叹一声“Phew！”</p>
-<p>郭鹤年的商业帝国跨越东南亚的糖、棕榈种植园、香格里拉连锁酒店和北京最高的办公楼。《南华早报》这家香港主要英文报纸对他的商业帝国来说一直象个异类。</p>
-<p>在互联网出现之前，《南华早报》事实上垄断了当时香港英文纸媒利润丰厚的广告市场。然而，这可能也难以抵消由于该报不听话的编辑和记者每天都可能惹恼执政的中国共产党，并因此可能连带损害到郭鹤年其余的商业利益。他可能曾试图约束该报，但这似乎只会带来声誉上的风险。</p>
-<p>那么，为什么一个非常成功的商人要让自己轻易成为批评者的箭靶，让人怀疑他的真实意图是要为北京不时地剪剪刺？现在《南华早报》的读者们要问中国巨头马云同样的问题。马云同意以2.66亿美元买下《南华早报》。</p>
-<p>不是特别清楚为什么马云会想要一家报纸。这名阿里巴巴集团的主席是中国第二富有的人，他已从他的互联网基地广泛扩展到包括金融和体育。有人开玩笑说，马云叫他的员工去拿一份报纸，但他们误会了他的意思，给他买下了这家报业。</p>
-<p>虽然阿里巴巴已表示不会干预《南华早报》的编辑操作，也不会用该报来讨好中共，但是马云的一名最高级助理已示意西方媒体是带着有色眼镜来报道中国。</p>
-<p>阿里巴巴是否会信守承诺不是出于要让《南华早报》继续成为长期以来国际性观察中国社会的一个重要资源。世界上一些最知名的公司也在讨论为了进入一个潜在有利可图的市场他们会做哪些妥协，在那里，某个专制政权可以让他们赚钱，也可以打破他们的财富。</p>
-<p>我要指出，我于世纪之交在《南华早报》开始我的新闻事业。在六年期间我曾经历的编辑干预或审查实例与其说是恶意，不如说很滑稽。</p>
-<p>有一次，传回给编辑室的话说郭（鹤年）先生是阿森纳球迷，他对于体育版里把阿森纳最新比赛的报道放到版面下方不满意。另一个编辑经常下令任何涉及当时中国国家副主席胡锦涛的报道都不能够比当时国家主席江泽民的报道更突出。</p>
-<p>但如果马云曾有任何幻想，以为拥有《南华早报》是件容易的事，那么这些幻想上周可能都消散了。4月5日，阿里巴巴履行承诺，拆除了《南华早报》的网上付费专区，试图提高读者量。毫不奇怪的是，《南华早报》决定大声宣告这个新的时代和商业模式。恰好在同一天，发生了巴拿马文件披露了中国几名高层领导人的亲属开了离岸公司。</p>
-<p>虽然《南华早报》也刊登了关于巴拿马文件的报道，但是它很快发现自己被指责蓄意隐瞒这些消息，《南华早报》的编辑予以否认。</p>
-<p>就像在他之前的郭鹤年先生那样，马云先生赢不了。即使他不是有意按照北京的吩咐来做，他总会被一些人怀疑如此。</p>
-<p>作为在自由地区唯一一家专注报道中国的英文报纸，《南华早报》报道了如此多关于中国的故事，有正面的和负面的，其批评者和仰慕者们都能轻易强调那些能证明他们观点的报道——该报是亲北京的或是并非亲北京的。</p>
-<p>与此同时，北京要媒体机构接受不折不扣的全面投降。在中国的审查者眼中，用某种方式报道甚至掩盖起来都还不够好。截至昨天，《南华早报》的网站在中国依旧被封。</p>
-<p>（本文译自《海峡时报》4月14日转载《金融时报》刊登的Tom Mitchell的评论文章，题为“作为《南华早报》业主，马云不可能赢”。）</p>
-<p><a href="http://www.straitstimes.com/opinion/jack-ma-cannot-win-as-owner-of-south-china-morning-post" target="_blank">原文Jack Ma cannot win as owner of South China Morning Post</a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%BD%9C%E4%B8%BA%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B%E4%B8%9A%E4%B8%BB%EF%BC%8C%E9%A9%AC%E4%BA%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%B5%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%A6%99%E6%B8%AF%E5%85%AD%E5%9B%9B%E7%BA%AA%E5%BF%B5%E9%A6%86%E5%B0%86%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%AD%E8%BF%81%E5%9D%80/" target="cdt-mirror">纽约时报 | 香港六四纪念馆将被迫关闭迁址</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/15CHINAHONG-web1-articleLarge-1.jpg?resize=600%2C400" alt="一位参观者经过一处在香港六四纪念馆中的展览。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/15CHINAHONG-web1-articleLarge-1.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/15CHINAHONG-web1-articleLarge-1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一位参观者经过一处在香港六四纪念馆中的展览。</p></div>
-<p>香港——纪念1989年天安门抗议运动的唯一一家博物馆在香港一座办公楼五层开馆两年后，预计将于今年闭馆。<a href="http://64museum.blogspot.hk/p/english.html" target="_blank" rel="nofollow">六四纪念馆</a>的组织者说，他们正在努力寻找新馆址。</p>
-<p>这个面积为800平方英尺（约合74平方米）的纪念馆位于拥挤的尖沙咀购物旅游区，其中的展品包括照片、对一些死于军事镇压的抗议者的介绍，以及学生在占领北京天安门广场期间竖起的民主女神像的复制品。</p>
-<p><a title="Link: https://hka8964.wordpress.com/" href="https://hka8964.wordpress.com/" target="_blank" rel="nofollow">香港市民支援爱国民主运动联合会</a>（以下简称“港支联”）主席何俊仁说，该楼的业主立案法团一直反对这个纪念馆，纪念馆的组织者面临官司，但已经决定不再继续花钱打官司抗衡。港支联建立了这家纪念馆。</p>
-<p>何俊仁说，他认为针对纪念馆的官司背后是政治。“不是业主立案法团在出钱与我们打官司。出钱的只有一个人，”何俊仁周四在接受采访时说。他指的是法团主席巢国超(Stanley Chau Kwok-chiu)，他在中国大陆拥有一家服装厂。</p>
-<p>未能联系到巢国超对此事发表评论。在接受当地新闻媒体采访时，他曾否认起诉纪念馆是出于政治动机。</p>
-<p>何俊仁说，纪念馆将在8月或9月闭馆。</p>
-<p>“我们正在筹集资金，希望能够搬到面积更大的首层空间，或搬到一个购物中心，”他说。</p>
-<p>何俊仁说，除了打官司，该楼的管理层一直在用行政手段骚扰前来参观的人。</p>
-<p>“他们检查参观者的身份证，吓跑不少内地参观者，”他说。</p>
-<p>当年，在北京和中国其他城市，抗议者要求结束腐败、对政府事务有更大的发言权。发生在1989年6月3日至4日的镇压，导致数以百计的人死亡，六四在中国大陆是大体上被禁的话题，网上或其他媒体上的有关讨论遭到审查。香港虽然在1997年回到大陆统治之下，但仍维持着自己的法律制度和半自治的政府，是中华人民共和国唯一能公开纪念那次抗议活动的地方。</p>
-<p>在纪念镇压25周年的2014年，<a href="http://cn.nytimes.com/china/20140425/c25museum/" target="_blank" rel="nofollow">纪念馆的参观人数激增</a>，其中包括许多内地人。据港支联在网站上发表的一份<a href="http://64museum.blogspot.hk/" target="_blank" rel="nofollow">声明</a>，从2014年4月开馆到今年1月，纪念馆的参观者累计达2万多人次，其中三分之一来自中国大陆。港支联成立于1989年5月，当时是为了支援北京的抗议活动，后来继续支持大陆的民主倡导者。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E9%A6%99%E6%B8%AF%E5%85%AD%E5%9B%9B%E7%BA%AA%E5%BF%B5%E9%A6%86%E5%B0%86%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%AD%E8%BF%81%E5%9D%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E7%BA%AA%E5%BF%B5%E9%A6%86/?category=18271" rel="tag">六四纪念馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8/?category=18271" rel="tag">天安门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -768,7 +797,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -778,5 +807,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%B7%A7%E5%8F%96%E8%B1%AA%E5%A4%BA%E6%95%B0%E7%BA%AA%E5%A7%94/" target="cdt-mirror">东网｜傅桓：巧取豪夺数纪委</a>
+</h2>
+<p><p>甘肃一名金矿商人身家过亿元，因为检察院认定他涉及一笔 30 万元的行贿行为，被抓到纪委办案地点。而在法院判决之前，他的千万元财产被瓜分──瓜分的人包括甘肃各级纪委、检察院，有大量财产同时被转移到纪检干部名下，办理这些的包括这些人的亲属。<br>
+党对纪委依仗比过去更加厉害，这就意味着纪委即使作恶，也难以得到矫正。</p>
+<p>这件事被媒体披露后，焦点不再是金矿商人的行贿是否成立的问题，而是办案单位尤其是纪委办案手法的涉罪问题。很明显，超额羁押财产，违规划为公用，划拨个人账户等行为，是比行贿罪更严重的罪行，这是不言而喻的事实，然而也是难以问责问罪的方面。<br>
+这种办案手法已经不是一般的逻辑可以形容的，因为它实质上就是一种巧取豪夺的行为，就是借助纪委办案来「打土豪、分田地」。纪委在这件事中承担的角色，确实是让人惊诧莫名的，但却那么符合国情，所以竟然也在常理之中，因为它有着某种依据。<br>
+这个依据在年初一些司法改革的讨论中有过直言不讳的表达，那就是重新阐释「法纪」这个概念的内涵，变成了：法在纪后，纪比法大。相应地，也就成了纪委大过天的权力格局，而检察院、法院在纪委的地位之下，纪委凌驾司法之上，也就是党大于法的具体体现。</p>
+<p>很长时间以来，关于党 / 法之争都被认为是意识形态之争，然而，甘肃这件事最新表明这种争论已经变成了现实。实际的运作，所遵循的已经是党至上的原则，司法领域一度坚持的「三个至上」等周旋策略，尽管也有党取所需的便利，但现在是直接撤下伪装。<br>
+党治不再伪装成别的样子，而是直接展露最真实的意图。在这种情况下，甘肃纪委办案已经毫无约束，完全任性，权力一旦独步，以办案来瓜分私人财产的手段也就是顺理成章。可以想见，在这种思路与现实下，金矿商人即使通过媒体求援，下场也会是惨淡。</p>
+<p>因为纪委的逻辑摆在那里，党对其依仗比过去更加厉害，这就意味着纪委即使作恶，也难以得到矫正。而且从一定程度上讲，在舍弃了司法作为约束力量之后，对纪委的倚重，其代价之一就是给予其某种灵活作恶的权力空间，甘肃肯定不会是唯一的纪委势力范围。<br>
+这种不受任何权力监督、只接受上级指令的纪委体系，游离在司法之外，同时也与变质了的司法体系相互纠缠，纪委玩弄司法与股掌之上，也就是此种实际的映射之一。司法的溃败就此成为体制性的失败，司法的失灵成为内政失灵的主要部分。</p>
+<p>在这样的情况下，官不聊生成为民不聊生之外的现象，愈来愈刺目，官民在痛感上愈来愈趋同。政权的走向尽管难以预料，但纪委之症终归是会自动扩展。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%B7%A7%E5%8F%96%E8%B1%AA%E5%A4%BA%E6%95%B0%E7%BA%AA%E5%A7%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">纪委</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E5%AB%8C%E7%8A%AF%E6%9C%89%E6%B2%A1%E6%9C%89%E7%B2%BE%E7%A5%9E%E7%97%85-%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97%EF%BC%9F/" target="cdt-mirror">网易另一面 | 嫌犯有没有精神病 谁说了算？</a>
 </h2>
 <p><blockquote><p><strong>谁来保证那个杀了人还被无罪开释的，是真正的精神病人？</strong></p></blockquote>
@@ -773,32 +795,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%80%BB%E7%90%86%E4%B9%9F%E6%98%AF%E4%B8%80%E5%B1%8A%E4%B8%8D%E5%A6%82%E4%B8%80%E5%B1%8A%E4%BA%86/" target="cdt-mirror">【立存此照】总理也是一届不如一届了</a>
-</h2>
-<p><p>4月15日，李克强总理到访北大前夕，有网友在微博透露，李克强此次到访前安保提升至了非常高的级别：校园中除了可以看到蛙人在水中排爆之外，甚至连李克强到北大食堂就餐的食材都疑似使用专车运送。</p>
-<p>@此微博已被作者删除了：朋友们，你们不久将会看到一个“总理到农园食堂和学生共进晚餐”的新闻</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgFsYJQUIAErYzG.jpg?resize=550%2C825" alt="CgFsYJQUIAErYzG" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgFsYJQUIAErYzG.jpg?resize=200%2C300 200w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgFsYJQUIAErYzG.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>@此微博已被作者删除了：国子监过龙门，皇帝百官均下马，为啥这外面东厂锦衣卫遍地跑？</p>
-<p>@此微博已被作者删除了：我们笑的不是什么中国特色还是美国特色啥啥问题，而是政客作秀的同病。都是一帮子演员，还扰的鸡犬不宁。第二也是看到朱善璐党委书记跟在他后面唯唯诺诺，官僚把持学校，心痛我北大独立精神的不振。</p>
-<p>@此微博已被作者删除了：李大约在六点半左右去的食堂，时间也差不多，再加上一层楼都是钦点的同学，二层楼的要安检了才能从外面上去，这个食材应该就是给他吃的。但是，特供餐这话我从头到尾没说，我认为是专门运来的食材，再由专人看管做菜，绝不是我们平时吃的食材。特供餐这话真是转发的人脑补的。</p>
-<p>@此微博已被作者删除了：终于被续了，北大不是没见过大人物，从小了讲这次搞得扰民过甚。校内所有非校营商店关闭两日，教学区大路不可通行。这可是在行课日，生活学习不便学生岂能不怨？不过，今日在光华的路口见几学生要过去，保镖不许，学生怒骂：我要上课凭什么不让我过去！保镖不敢答。见此，我相信北大热血仍殷。言尽于此。</p>
-<p>@枯尼玛：丞相之道，贱民岂可挡之。</p>
-<p>@阿忆：见到如此先进的安保设备，真得谢谢总理光临北大。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX94UMAQGCsE.jpg?resize=550%2C978" alt="CgEqX94UMAQGCsE" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX94UMAQGCsE.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX94UMAQGCsE.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX9-UIAApHz_.jpg?resize=550%2C733" alt="CgEqX9-UIAApHz_" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX9-UIAApHz_.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX9-UIAApHz_.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX98UUAEaa2y.jpg?resize=550%2C979" alt="CgEqX98UUAEaa2y" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX98UUAEaa2y.jpg?resize=575%2C1024 575w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX98UUAEaa2y.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX-AUIAAfTSD.jpg?resize=550%2C550" alt="CgEqX-AUIAAfTSD" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX-AUIAAfTSD.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX-AUIAAfTSD.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX-AUIAAfTSD.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX-AUIAAfTSD.jpg?resize=50%2C50 50w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgEqX-AUIAAfTSD.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/68cdd145jw1f2xnykzg0xj20ku112wi7.jpg?resize=550%2C979" alt="68cdd145jw1f2xnykzg0xj20ku112wi7" data-recalc-dims="1"></p>
-<p>北京大学官方报道</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgFsYJFVAAE5IMl.jpg?resize=550%2C825" alt="CgFsYJFVAAE5IMl" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgFsYJFVAAE5IMl.jpg?resize=200%2C300 200w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgFsYJFVAAE5IMl.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>旧闻一则</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B8%A9%E5%AE%B6%E5%AE%9D.jpg?resize=550%2C806" alt="温家宝" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/温家宝.jpg?resize=699%2C1024 699w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/温家宝.jpg?w=703 703w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E6%80%BB%E7%90%86%E4%B9%9F%E6%98%AF%E4%B8%80%E5%B1%8A%E4%B8%8D%E5%A6%82%E4%B8%80%E5%B1%8A%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E4%BF%9D/?category=18271" rel="tag">安保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%90%86/?category=18271" rel="tag">总理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D/?category=18271" rel="tag">温家宝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -810,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -820,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

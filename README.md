@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,56 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E7%BB%B4%E6%9D%83%E9%81%AD%E5%BD%93%E5%B1%80%E5%A8%81%E8%83%81/" target="cdt-mirror">自由亚洲 | 疫苗受害者家长维权遭当局威胁</a>
+</h2>
+<p><p>山东问题疫苗事件引发的连串风波还未平息，推动疫苗立法维权十年的广东江门疫苗受害者家长余同安，近日却遭到当地便衣24小时跟踪，并被威胁不准前往北京参与其他受害者家长集体起诉卫计委的活动。</p>
+<p>准备于近日前往北京与其他受害者家长集体起诉卫计委的广东江门疫苗受害者家长余同安，近日遭到当地警方派人24小时跟踪，并威胁他不能前往北京。海外维权网4月16日报道说，余同安是“疫苗和家庭群”组建者之一，为推动疫苗立法维权十年，目前已经遭胁迫退出“疫苗和家庭群”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-%E4%B8%8A%E5%8D%8811.11.39.png?resize=450%2C335" alt="Screen Shot 2016-04-18 at 上午11.11.39" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.11.39.png?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.11.39.png?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><br><span>新会疫苗案受害者父亲余同安</span></p>
+<p>记者就此致电余同安，但他表示目前不能向外界透露消息：</p>
+<p>“我是余同安，可我现在不方便接受采访，你明白吗？”</p>
+<p>记者：“发生了什么事情。”</p>
+<p>余同安没有回答记者的问题，挂断了电话。</p>
+<p>记者又致电维权网提供的对余同安进行迫害的所在地镇综治办吴新荣主任，但对方在得知记者身份后立即挂断了电话。</p>
+<p>有疫苗受害者家长在网上发帖子称，不明白推动疫苗立法有何过错？当局为何限制人身自由及民众行政诉讼权利？他们认为当地政府所做所为完全是侵犯公民自由权，要求当局立即停止违法监视跟踪行为。</p>
+<p>余同安的儿子自05年3月份在学校注射了流行性脑膜炎球菌A群多糖疫苗后，蹊跷地罹患了“病毒性脑炎”（医院没给出详细病因和病名诊断），多年来经过多家医院的救治，儿子却落得“二级智力残疾”。为治病，余家一夜返贫且债台高筑，其年迈的双亲悲愤交加而自杀身亡。儿子打疫苗致残之后余同安多方奔走，先后去过新会区卫生局、江门市卫生局、广东省卫生厅等机构说明自己的情况，但是被各部门推诿，问题一直没能得到解决，他本人还屡遭当局迫害。</p>
+<p>对此，前陕西省电视台记者马晓明告诉本台，当局不可能认真对待问题疫苗事件：“疫苗事件只是中国食品药品保健品这些非常严重的问题中的一项，粗制滥造、以次充好。有关的单位、主管的部门疏于管理，有意从中牟利，放松管理所造成的恶果。还有一个很重要的原因，前几年山西已经有记者披露过山西、河北有些地方的疫苗致儿童死亡的事情，没有经过很好的查处，没有对涉案人员进行很严肃的处理，反而是举报的人和披露这些罪行的记者受到打击迫害，所以疫苗问题由此死灰复燃、不停地在侵害人民。总的来说，像这样腐败和贪婪的政党，让他去做出对人民负责的事情来，基本上是不可能的。”</p>
+<p>中国国务院在本月13日公布山东非法经营疫苗事件第一阶段调查结果，决定先行对357名公职人员给予处分，然而国务院只公布受处罚人数，却未公布具体受处罚官员名单。有分析认为，当局背后动机依然是维稳，并不是为民，因为不公布官员名单，民众就不知道处罚是动真枪，还是只找替罪羔羊充数。</p>
+<p>（特约记者：忻霖 责编：石山/寇天力）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E7%BB%B4%E6%9D%83%E9%81%AD%E5%BD%93%E5%B1%80%E5%A8%81%E8%83%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%90%8C%E5%AE%89/?category=18271" rel="tag">余同安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BC%9A%E7%96%AB%E8%8B%97%E6%A1%88/?category=18271" rel="tag">新会疫苗案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E8%87%B4%E6%AE%8B/?category=18271" rel="tag">疫苗致残</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88/?category=18271" rel="tag">非法疫苗案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%A4%8F%E6%98%8E%EF%BC%9A%E5%80%92%E4%B9%A0%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%85%E9%83%A8%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89%E7%9A%84%E5%8F%8D%E6%98%A0/" target="cdt-mirror">法广 | 夏明：“倒习”是一种内部权力斗争的反映</a>
+</h2>
+<p><p>中国主席习近平接任最高领导权已有三年多时间。习近平掌权后展开的大力反腐运动，声势浩大，造成了很大的影响。国际舆论纷纷称习近平为毛泽东以来最强势的中国领导人。习近平掌权后的三年，中国发生了很大的变化，特别是在经济领域。持续了近三十年的经济腾飞，却逐年蒙上放缓的阴影。中国政府面临着经济和社会局势的严峻考验。在这样的背景下，中国最高领导人的威信也受到空前挑战。就此，我们请纽约市立大学教授夏明先生来谈谈看法。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-%E4%B8%8A%E5%8D%8811.04.56.png?resize=571%2C387" alt="Screen Shot 2016-04-18 at 上午11.04.56" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.04.56.png?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.04.56.png?w=571 571w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br><span>纽约大学市立教授夏明</span></p>
+<p><strong>法广</strong>：习近平掌权之初，似乎树立了极高的威信，民间广为流传“习大大”的亲切称谓，又称其夫人为“彭嘛嘛”。民间的这种做法反映了怎样的一种心态以及中国的特色？</p>
+<p><strong>夏明</strong>：“习大大”和“彭嘛骂”的出处，我觉得不应该来自于民间。应该是和他的子女有关系的。比较接近北京内部的人也对我讲过，说这里边可能是他的女儿和孙辈的人的一种运作。而且我们也知道有学习小组，学习小组也是由习近平的子女这一辈人所组成。那么他们在有意识地把习近平和彭丽媛打造成可爱的父母的角色。我觉得其中有两个含义，一个是他们想要把他们拉近、作为一种父母官的角色推出给老百姓。另外他想营造出一种亲民的形象，打造出习近平和彭丽媛的公关形象和公关品牌。民间当然就跟上去了。在中国有一种跟风，尤其跟风的原因，是因为习近平和他的家族毕竟给中国老百姓带来了某种希望，而习近平一上台以后，这种反腐、主要晋升中国社会的正气等等，也让老百姓感到了某种共鸣。所以“习大大”和“彭嘛嘛”也可以流行了起来。当然，下面还要有宣传部这些人的怕马屁，就把这个概念变成了非常风行的概念了。</p>
+<p><strong>法广</strong>：最近一段时间以来，习近平的威信似乎受到挑战。文宣系统多次出现不可思议的“政治事故”，甚至传出“倒习公开信”。您对此作何解读？其中的内幕究竟如何？</p>
+<p><strong>夏明</strong>：我们看到“倒习”当然是一种内部权力斗争的反映。因为对于中国老百姓来说，无论他们是生活在习近平一人独裁的统治之下，还是中共一党独裁的统治之下，其实差别都不是太大。所以对老百姓来说，到底习近平是想把他过去面对的集体领导方式、权利均衡的方式，把它推向习近平个人独大、就是委员会来治国，来突出习近平的权利地位，或是说进入到习近平所期盼的习核心的地位。这个权利争斗，其实对老百姓来说，关系不大。只要是中共的统治，对老百姓都是一样的。</p>
+<p>现在为什么对中国领导人来说，习近平他们的做法对他们的影响更大呢？因为我们知道原来在胡锦涛的统治之下，九龙治水是中共寡头的一种统治。这样的话，有几大家族，他们可以相互平衡，而且可以各有各的独立王国。其他人根本就是针插不进、谁也泼不进的。就像周永康打造他的政法和石油系统、刘云山打造宣传系统、还有江泽民家族垄断了电信系统、温家宝家族也垄断了各种新兴的、包括保险呢等这方面的系统。所以对于中共这些高级的官员来说，各大寡头来说，习近平想搞一者独尊、想赢者通吃的话，第一根本就在于，这么多家族，他们的利益是不是受到损伤？而以习近平目前这种打老虎的态势来说，当然伤害了许多山头的利益。包括像令计划、周永康、薄熙来，他们都被拉下来了。当然都是一个削山头的做法。所以也会给中国高级的领导人带来一种不安。</p>
+<p>另外一个方面，如果要削山头，下面的领导人就要站队。站队到底站对了还是站错了，你到底依靠的山头最后是被削平了、还是被习近平给收买了，或者你能够归到习近平一条线上，这些都是非常不确定的。而所有这些不确定性都会带来所有的高官担心他们的身家性命的问题。一方面他们可能丢官，丢了官就会丢掉财产。丢了财产，政治上可能就会受到党纪国法的处分。这样就在中共党内爆发了一场争夺权利的大拼搏。而且我们也知道，习近平在接班的时候，也遇到了几方的挑战。一个是胡锦涛钟爱的接班人，我们都知道是李克强。团派一直培养上来的。而令计划是胡锦涛的另外一个臂膀之一。令计划也有野心想做中国最高的领导人。另外在太子党里边，薄熙来也在争夺最高的权利地位。而且也跟习近平发生了冲突。在这样的情况下我们可以看到，习近平的地位遭到了各方的挑战。所以目前中层的共产党人要求习近平辞职的辞职信，我觉得更多地是中共内部派系斗争的结果。</p>
+<p><strong>法广</strong>：目前，习近平大力反腐的一个重要内容是阻止资本的外流。2015年，中国资本外流规模空前，引人深思。造成这一现象的主要原因是什么，它又将对中国社会产生什么样的影响？</p>
+<p><strong>夏明</strong>：这里边最根本的原因，我认为是习近平他根本就不懂经济、根本不懂经济最根本的规律。现代经济是资本经济，资本是流动性非常强的。而且资本有着两方非常灵活的角，它可以很快就从一个国家跑到另一个国家。但是如何把资本稳下来？不是靠命令。因为资本、尤其是外资和私营资本，它们很清楚地知道，如果你有绝对的权利，你就可能带来绝对的腐败、绝对的错误和绝对的愚蠢。这样的话，对资本的伤害就会更大。所以很多外资和私营资本就会撤走。那么，什么东西才是主权国家可以建立公信制的机制呢？资本主义的诞生是从１５、１６世纪，从地中海开始产生。到现在５００来年，它们已经发展出一系列的公信机制，只要遵纪守法、正常运做，就没有任何的主权国家、没有任何的国王可以掠夺我们的财产。</p>
+<p>这些公信力的机制第一来自于国会。第二，很重要的，就是中央银行。中央银行相对是一个独立、中立性的机构。它们以中立、独立来掌管货币。尤其是能够保障货币不至于通货膨胀。第三就是民主国家、发达国家、高度发达的资本主义体系，一般都会遵循汇率的自由流通，自由变化，也就是资本的自由流通，汇率是受资本市场或外汇市场需求的影响，国家并不去强制地管控资本的流通。所以这三点，我们看到，中国都没有。而习近平又以目前完全 “任我行”的方式来“反腐”和“管控经济”，这样其实他一手把法制经济给破坏掉了，另外把市场经济也破坏掉了。完全变成了一人的管控了。这样的管制经济当然会把所有的这些所有者吓跑。习近平交的越狠，资本跑得越快。李嘉诚就是一个例子。</p>
+<p><strong>法广</strong>：中国经济发展的放缓，对习近平为首的现政权究竟会在多大程度上造成影响，有否可能危及政权的稳定性？</p>
+<p><strong>夏明</strong>：当然我觉得首先是对习近平的地位有没有影响，第二对中共的地位有没有影响，是两个不同的问题。第一，对习近平来说，习近平要建威，主要的方法是反腐，他的“老虎苍蝇一起抓”，在刚开始的一年、两年，确确实实也吸引了老百姓的一些眼球。引发老百姓有些兴奋。因为对老百姓来说，他们本身在这个权利争夺中也得不到什么好处。但是他们看到有些打老虎受到整肃，当然心中是高兴的。但是一旦老虎被打下去，牵扯的人也越来越多，当然也就带来党内官僚体制的消极怠工、官员抵制、或者官员用各种办法来殆政。这就给老百姓带来两个结果：一个是，原来老百姓觉得，官员们贪也就贪了，但他们还干事情，但是现在呢，官员也贪了，却有很多官员不干事了、不理政了，这对很多老百姓来说，许多事情不会更方便，反而越来越不方便了。第二，就是反腐、反贪，最后的结果是到底对我的经济有什么影响？如果反了半天，对我个人没有任何实惠，相反，我的经济收入还在下降、我还得下岗、我还得面对物价的不断高涨，这样的反腐对我就没有价值。这样的话，反腐就会失去它的受欢迎度。习近平实际上就面临这两个挑战。这两个挑战其中当然有中国经济大趋势所决定的，另外有的是由习近平个人的错误所决定。所谓中国大趋势所决定就在于，中国在经历了30年的经济奇迹以后，随着中国经济当量的不断增加，本身这种两位数的增长数字是不可持续性的。全世界没有任何一个国家可以维持两位数的增长、维持到30年以上的。所以中国必定会回归常态、经济一定会从两位数回到一位数、从一位数回归到比较正常的5%左右。但是，中国政府没有做好这种未雨绸缪的准备。它当时没有认识到中国的经济会出现各种常规化的转换。尤其是世界上所有100多个发展中国家都经历过的中等国家的陷阱。他认为他是可以超越所有这些经济规律的，所以他打出“北京模式、中国模式、北京共识”，都是想去证明：世界上所有的经济规律、或者是世界上经济学家对他的警告，都是无用的。因为他觉得他掌握了奇迹、掌握了一个密码、可以维持永久的经济增长。这个想法完全是错的。第二是习近平的执迷不悟。他对当今全球化的经济，根本就没有理解。在这样的情况下，中国就不可能“筑巢、引凤凰”。</p>
+<p>当然中国经济也就不可能有所谓的凤凰涅磐。中国共产党过去有多余的钱，有了钱，它口气就大，它不缺钱以后呢，就用钱去花钱消灾。所以任何的维稳问题、任何的社会冲突、任何的军队的腐败，它里面的掩盖，都是靠钱来打点的。它在国际上的竞争，尽管它没有价值观，它没办法以普世价值、或是它的回归人类的主流获得人们的尊重。但是它可以不断地撒钱、也就是中国人说的”大撒臂外交“，它也可以获得某些好感。但是现在的问题是：一旦中国最不缺的东西＂钱＂开始缺了，没有钱了，该怎么办？它在国际上过去靠钱买来的朋友逐渐会离他而去，而在国内，以前靠钱消灾来打点、来弥合的这些冲突，现在也会逐步地暴露出来。习近平的地位当然就会受到人们的质疑、人们的挑战。这么多其他的中国领导人也会担心：如果照这样走下去，最后要全体崩盘、全体都要玩完。所以我觉得，中国无论是退休的、还是在任的领导人，恐怕都会有一种危机感。在这种情况下，权利一定会重新调整。中国的经济危机，恐怕不仅是带来习近平的危机问题，习近平的危机恐怕会带来整个中国共产党的危机。这个可能就是中国共产党所有的既得利益者所不愿看到的。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%A4%8F%E6%98%8E%EF%BC%9A%E5%80%92%E4%B9%A0%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%85%E9%83%A8%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89%E7%9A%84%E5%8F%8D%E6%98%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E6%98%8E/?category=18271" rel="tag">夏明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%80%92%E4%B9%A0/?category=18271" rel="tag">媒体倒习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">学习小组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E9%BA%BB%E9%BA%BB/?category=18271" rel="tag">彭麻麻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%B7%A7%E5%8F%96%E8%B1%AA%E5%A4%BA%E6%95%B0%E7%BA%AA%E5%A7%94/" target="cdt-mirror">东网｜傅桓：巧取豪夺数纪委</a>
 </h2>
 <p><p>甘肃一名金矿商人身家过亿元，因为检察院认定他涉及一笔 30 万元的行贿行为，被抓到纪委办案地点。而在法院判决之前，他的千万元财产被瓜分──瓜分的人包括甘肃各级纪委、检察院，有大量财产同时被转移到纪检干部名下，办理这些的包括这些人的亲属。<br>
@@ -740,61 +787,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%BE%85%E7%89%99%E8%B5%B5%EF%BD%9C%E4%B9%A0%E4%B8%BB%E5%B8%AD%EF%BC%8C%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E5%BB%BA%E8%AE%AE%EF%BC%8C%E6%82%A8%E7%9C%8B%E9%9D%A0%E4%B8%8D%E9%9D%A0%E8%B0%B1/" target="cdt-mirror">龅牙赵｜习主席，我有一个建议，您看靠不靠谱</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2013/07/%E7%BC%98%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A.jpg?resize=396%2C487" alt="缘有共产党" data-recalc-dims="1"></p>
-<p>尊敬的习主席：您好。</p>
-<p>我不是共产党员，所以我没办法称呼您为总书记，只能称呼您在政府的职务。</p>
-<p>前两天我看见一条新闻，广东恩平要求全体党员上班时统一佩戴党徽，亮明党员的身份。我作为一个群众，觉得这项措施非常好，恳请习主席以总书记的身份在全国8000万党员中间进行硬性推广。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg" rel="attachment wp-att-435206"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg?resize=500%2C657" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg?resize=228%2C300 228w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-6.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>而且我觉得，不但上班时间统一佩戴，下班之后也应该佩戴，只要是出现在公共场所，就必须佩戴党徽。</p>
-<p>我来说说这项措施的好处。</p>
-<p><strong>1、有利于树立共产党员的自豪感。</strong></p>
-<p>少先队员是少年人中最优秀的团体，他们有红领巾；共青团员是青年人中最优秀的团体，他们有团徽。我们小时候写作文，都说做了好事，觉得自己胸前的红领巾更鲜艳了，觉得胸前的团徽更闪耀了。但是作为中国人民最优秀代表的党员同志们呢？随身携带党章和党旗肯定不方便，但是如果他们胸前能够佩戴一枚党徽，将是一种多么崇高的自豪感！全国十三亿人，只有八千万共产党员，而他就是其中一个！这是多么让人骄傲的一种荣耀！</p>
-<p><strong>2、有利于震慑违法犯罪行为。</strong></p>
-<p>共产党员四个字，代表着伟大、光荣、正确、正义、勇敢，对邪恶势力和犯罪行为有一种天然的震慑感。我们试想一下：在如家酒店的走廊里，不法分子正在拉扯女顾客的头发，面前站出来一个戴着党徽的正义之士大喊一声“放开那女孩”，歹徒一定会害怕；在人头攒动的地铁里，扒手正在扒窃乘客的iPhone6s Plus，突然一只手抓住了他罪恶的手指头，扒手顺着手往上看，一枚党徽闪闪发光，扒手一定会投降！</p>
-<p><strong>3、方便群众寻求共产党员的帮助。</strong></p>
-<p>中国共产党的宗旨就是全心全意为人民服务，这是得到了全人类公认的真理，也是我们普通群众的共识。“有困难找党员”，这也是我从小接受的教育和根植于心里的信念。但是当我们遇到困难的时候，谁是党员呢？我们一时分辨不出来。试想一下，如果党员们身上都佩戴着党徽，我们一眼就能认出他们，既能够解决我们的困难，也能够体现党员的价值，更能够让党群关系更加和谐，可谓一举三得。</p>
-<p><strong>4、有利于树立党员的先锋模范作用。</strong></p>
-<p>共产党员一向有一个优秀的传统——吃苦在前，享受在后。当党员们戴上党徽之后，我们就能够一目了然：看，抗洪抢险，一个个共产党员冲在最前面；看抗震救灾，一个个共产党员永不疲倦；看，立功受奖，党员们你推我让都不上台；看，升职加薪，党员们纷纷推选群众上前。共产党员的优良作风一目了然地呈现在了全国人民面前，这种先锋模范作用的力量是不可忽视的。</p>
-<p><strong>5、利于群众对共产党员进行监督。</strong></p>
-<p>不可否认，在西方资产阶级价值观的影响下，也有极少部分党员受到了污染和腐蚀，犯下了或多或少的错误。但是，如果要求他们都戴上党徽，他们在行贿受贿贪污腐败的时候，低头看看胸前的党徽，肯定会觉得愧疚，从而减少腐败的发生。更重要的是，他们戴上党徽之后，一旦有不法行为，群众立刻尽收眼底，马上就能及时反馈到各级纪委。这样的监督力度，更能让每个党员都严格要求自己，做中华民族的楷模。</p>
-<p>如果有党员不愿意佩戴党徽呢？那就说明他们自己都不认可党员这个光荣的身份，这种人，不配成为我们中国民族优秀儿女的代表。</p>
-<p>所以，我继续建议，对于不佩戴党徽的行为，要像驾照扣分一样严肃处理。</p>
-<p>一共12分，忘记佩戴一次扣2分，故意遮挡党徽扣6分，故意损坏党徽一次性扣完12分。</p>
-<p>扣完之后重新到党校学习，并重写入党申请书。</p>
-<p>对于拒不配合者，应该剥夺他们成为共产党员的荣誉感，以叛党论处。</p>
-<p>谢谢习主席，这就是我的全部建议，希望您能看得到。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%BE%85%E7%89%99%E8%B5%B5%EF%BD%9C%E4%B9%A0%E4%B8%BB%E5%B8%AD%EF%BC%8C%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E5%BB%BA%E8%AE%AE%EF%BC%8C%E6%82%A8%E7%9C%8B%E9%9D%A0%E4%B8%8D%E9%9D%A0%E8%B0%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98/?category=18271" rel="tag">中共党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E5%A4%A7%E5%8F%91/?category=18271" rel="tag">党性大发</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E8%BF%99%E4%BA%9B%E6%95%B0%E5%AD%97%E5%BD%93%E7%84%B6%E4%B8%8D%E5%87%86%E7%A1%AE/" target="cdt-mirror">德国之声｜德语媒体：“这些数字当然不准确”</a>
-</h2>
-<p><p><strong>中国最新经济增长数据是德语媒体周五关注的焦点。国家统计局每次公布的数字都能与中央的指标“不谋而合”，这引起了德国记者深深的怀疑。</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg" rel="attachment wp-att-435202"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg?resize=585%2C329" alt="0,,19064852_303,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019064852_30300.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p>本周五，中国公布了2016年第一季度的经济增长数据，这引起德语媒体的纷纷关注。不过，《每日镜报》（Der Tagesspiegel）首先表达了对数据真实可靠性的怀疑。文章开篇带着讽刺的口吻写道：“北京的国家统计局总是那么值得信任。周五上午10点整，和以往每次一样，该机构准时公布了最新经济增长数据。然而，不仅公布的时间，连公布的内容都是人们事先完全可以预料的：2016年第一季度6.7%的增长率与政府原先设定的目标分毫不差。”</p>
-<p>作者接着指出，尽管去年中国外贸总量骤降，股市连续动荡，人民币也倍受压力，但是国内生产总值增长率的变化始终维持稳定的步伐：去年四个季度分别是7.0%、7.0%、6.9%和6.8%，然后再到今年第一季度的6.7%。“这种极为平缓的减速过程放出的信号是：别慌，一切都在我们掌握之中，硬着陆不会发生。”</p>
-<p>越来越多的专家，包括中国经济学家，都已经不再相信官方的经济增长数据。而宏观经济研究者王福重则直接了当地对《每日镜报》表示：“这些数字当然不准确。”文章援引这位知名财经评论员写道：“去年中国的经济增长率应该是在5%左右，而不是官方宣称的6.9%–业界不少其他分析人士也认同这一估计。王福重认为，政府多年来一直在系统性地对统计数字进行’润色’。’如果经济状况不佳，政府也不希望公布糟糕的数据’。相反，在经济繁荣时期，为了不引起人们的过分激动和过高期望，当局还有可能会把增长率改低。”</p>
-<p>最大的问题在于，国家统计局是政府机构，肯定会不遗余力地完成高层下达的指标。“只有独立的研究机构才能够提供可靠的经济统计数据。”</p>
-<p>中国经济“感冒”，世界也要“打个喷嚏”？</p>
-<p>既然官方统计数据不可信，那么为什么各国财经人士、媒体还是如此关注北京方面每次发布的经济增长率呢？《南德意志报》发表文章指出，中国经济的变革对于全世界的企业和政府来说具有重要意义：“不计其数的国家对中国经济有很强的依赖性，德国就是其中之一：对于德国企业来说，中国已经是仅次于美、英、法的第四大贸易伙伴。德国的汽车公司向远东地区销售数以百万辆计算的汽车，众多德国中小企业也把自己的机械和设备出口到中国。”</p>
-<p>接下来作者指出了中国经济在尚可的统计数字背后存在的隐患：“这个国家目前所面对的许多问题，是结构性的问题，并非一朝一夕可以解决。中国经济的迅速增长虽然带来了生活的日益富裕，但是在很多领域，中国的大型企业都出现了严重的产能过剩。仅仅在钢铁产业就有大约130万人面临失业，而在煤炭产业，至少也要削减50万个岗位。”</p>
-<p>而中国经济的疲软，逐渐走低的增长率数字，对于世界来说究竟意味着什么呢？《南德意志报》记者指出：“中国经济走弱，对于那些原材料出口大国来说会造成格外惨痛的损失，比如巴西和俄罗斯。中国的高速经济增长也造成了石油和天然气市场需求的不断攀升。而前一段时间石油价格暴跌，中国经济疲软也至少是原因之一。”</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E8%BF%99%E4%BA%9B%E6%95%B0%E5%AD%97%E5%BD%93%E7%84%B6%E4%B8%8D%E5%87%86%E7%A1%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80/?category=18271" rel="tag">国家统计局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87/?category=18271" rel="tag">数据造假</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -816,5 +808,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%92%E7%BB%9D%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BA%A4%E6%98%93/" target="cdt-mirror">纽约时报 | 长平：我为什么拒绝与中国政府交易</a>
+</h2>
+<p><p>德国杜塞尔多夫——3月27日，在中国西南四川省，警察出现在我父亲70大寿的寿宴上。他们指控我的家人前一天焚香烧纸时<a href="http://www.straitstimes.com/asia/east-asia/chinese-police-accuse-overseas-dissident-chang-pings-family-of-arson" target="_blank" rel="nofollow">引发山火</a>。焚烧香蜡纸钱是一年一度的清明节的一部分，为的是缅怀故去的亲人。我的两个弟弟和一个妹妹被传唤到派出所后，很快发现他们被拘押另有原因。</p>
+<p>我是一个旅居德国的新闻工作者。三月中旬，我为德国之声(Deutsche Welle)写了<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/a-19129146" target="_blank" rel="nofollow">一篇文章</a>，批评中国政府因为怀疑媒体人贾葭和一封广为流传的<a href="http://chinadigitaltimes.net/2016/03/open-letter-devoted-party-members-urge-xis-resignation/" target="_blank" rel="nofollow">公开信</a>有关联，而将其“秘密绑架”。那封公开信要求习近平辞职。中国领导人怀疑是政治对手策划了公开信的传播，为的是在共产党内部挑起异议。他们对可能与此信有任何瓜葛者都不放过。因此，我在中国的家人立即遭到警察骚扰。</p>
+<p>自从习近平2012年掌权以来，当局为巩固权力关押了大量媒体人和人权律师。但在一个中国人可以接触到境外新闻报道的时代，政府意识到仅仅让国内媒体人俯首听命还不够。领导人正在把海外写作者和人权活动人士作为目标。</p>
+<p>过去，被警察用请“喝茶”的方式骚扰，是海外异议人士在国内家人的家常便饭。绑架生活在国外的批评人士的家人是一种新策略。旅居纽约的异见人士温云超，被当局怀疑参与了公开信事件。上月底，其在国内的父母和弟弟<a href="http://cn.nytimes.com/china/20160327/c27china/" target="_blank" rel="nofollow">据称</a>被警方羁押了一周。</p>
+<p>数名书商在香港被<a href="http://cn.nytimes.com/china/20160105/c05china/" target="_blank" rel="nofollow">绑架</a>，是中共当局强化打压境外批评的另一个令人担忧的例子。半自治的香港是中国相对自由的地区。多年以来，这些书商出版了聚焦中共官员政治绯闻的杂志和书籍。然而，去年年底，几名书商陆续失踪，随后出现在大陆，声称正在配合警察调查自己的“非法”活动。</p>
+<p>这些严厉的行动，是中国正在进行的企图控制全球舆论行动的一部分。与此同时，成千上万中国政府支持的黑客在海外网站上发布煽动性的言论，攻击批评中国的文章。中国政府还投资了西方国家的电台和报纸。</p>
+<p>我一直担心家人可能会成为目标。我在中国媒体工作多年，很多呼吁自由和公开的文章激怒了审查机构。最终，我被禁止在大陆发表文章及出版书籍。2011年，我受邀到德国访问，随后再未回国。</p>
+<p>三月，警方在一天后释放了我的一个弟弟，并要求他与我联系。在电话上，他传递了警方的三点要求：删除我对四川当局的绑架谴责，撤回最近在德国之声上发表的那篇论及习近平的文章，以及答应以后不再写任何批评中国政府的评论文章。我弟弟说，如果我答应了，警察承诺会释放我的家人，并免除所谓失火案的赔偿金。</p>
+<p>我实在难以从命。我的弟弟又被拘押，加入了其他手足的行列，并在警方的控制下，不停地给我来发电子邮件，力劝我不要向媒体发布信息。他在邮件中称，警察没有使用“武力或刑罚”，而是“很人性化”地对待我的家人。</p>
+<p>“哥，你别误会，”我的弟弟说，“警官他们对我们是依法调查，请不要再发文章了，请删除以前发的。你说话很不负责任。”</p>
+<p>弟弟的哀求让我陷入痛苦的挣扎。我应该屈从于他们的绑架者，放弃写作吗？我还被告知，这场无妄之灾让我体弱多病的父母深受打击，处于巨大的压力之中。</p>
+<p>与中国政府合作，将改变我的生命旅程。如果我选择屈从，那不仅意味着放弃我的新闻事业，而且将玷污我深信的那些信念。</p>
+<p>我决定拒绝合作。我在网上贴出我和弟弟的部分往来邮件，公开当局的所作所为，我还屏蔽了他的邮箱地址。</p>
+<p>我的遭遇得到了国际社会的关注。在舆论压力之下，3月29日，警察释放了我的家人，但要求他们交纳3.3万元人民币（约合5100美元）的取保候审保证金。随后，当局要求我的父亲和弟弟接受媒体采访，并炮制了所谓的“个人声明”。在“声明”中，我的弟弟否认他们被绑架，并谴责我发表批评政府的文章。接着，当局宣称正式就纵火案对我的家人展开进一步调查。</p>
+<p>几个跟我的家人有联络的朋友说他们在生我的气。甚至有亲戚责怪我“不孝”。但我认为，我本人和其他媒体同行的工作是如此重要，我不能在威胁面前却步——哪怕这种威胁所指向的是我的家人。</p>
+<p>我的声音也许微不足道，但是我知道它在为自由而呐喊。我也想让中国警察知道，他们的手段并非总能生效。而且，我希望能和海外其他异议人士一起，通过反抗带来改变。我还想让国际社会知道，北京方面如何试图在世界各地破坏新闻自由。</p>
+<p>如若我们不阻止中国政府，将会有更多媒体人和他们的家人遭受折磨，而且人类的自由也将被日渐侵蚀，直到完全丧失。</p>
+<div>
+<p>长平现居杜塞尔多夫，是一名评论员及专栏作家，为德国之声撰稿。本文最初由Wenguang Huang译成英文，发表于《纽约时报》英文版。</p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%92%E7%BB%9D%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BA%A4%E6%98%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">公开信事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">给习近平的公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%AD%A3%E9%A3%8E%E8%B5%8F%E4%B9%A6-%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%BB%9F%E6%B2%BB%E8%80%85%E8%83%BD%E6%9B%B4%E6%96%B9%E4%BE%BF%E5%9C%B0%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">季风赏书 | 教育不是让统治者能更方便地统治</a>
 </h2>
 <p><p><strong>季风说：</strong></p>
@@ -727,32 +757,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A5%B3%E5%A9%B4%E7%96%AB%E8%8B%97%E6%AD%BB%E4%BA%A1%E3%80%81%E6%B4%97%E9%92%B1%E5%A7%90%E5%A4%AB%E7%AD%89/" target="cdt-mirror">【敏感词库】“芮成钢”、“运河文件”等热点 2016-4-14</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg" rel="attachment wp-att-434697"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=500%2C500" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-17.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><em>图片来源：新浪微博@苏州郎心铁</em></p>
-<p>［新浪微博搜索禁词测试时间：2016年4月14日］</p>
-<p><strong>芮成钢</strong></p>
-<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc%EF%BD%9C%E5%BC%80%E5%AE%A1%E8%8A%AE%E6%88%90%E9%92%A2%EF%BC%9A-%E6%8A%A5%E9%81%93%E8%A2%AB%E5%88%A0-%E7%BD%91%E6%B0%91%E7%88%86%E7%82%92/">BBC｜“开审芮成钢”： 报道被删 网民爆炒</a></p></blockquote>
-<p><strong>女婴＋疫苗＋死亡</strong><br><strong> 河北＋女婴＋疫苗</strong></p>
-<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/">山东疫苗事件</a></p></blockquote>
-<p><strong>巴拿马</strong><br><strong> 八拿马</strong><br><strong> banama</strong><br><strong> 运河文件</strong><br><strong> 拿马文件</strong><br><strong> 洗钱＋姐夫</strong><br><strong> 习＋妹夫</strong><br><strong> 中国高官＋离岸</strong></p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/04/du-chen%EF%BC%9A%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BA%8B%E4%BB%B6%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E5%9B%9E%E4%BA%8B/">Du Chen：震惊世界的巴拿马文件事件到底是怎么一回事？</a><br><a href="http://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%96%E7%95%8C%E7%A6%BB%E5%B2%B8%E8%B5%84%E4%BA%A7%E6%95%B0%E6%8D%AE%E5%A4%96%E6%B3%84%EF%BC%8C%E6%B6%89%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E4%BA%B2/">美国之音 | 世界离岸资产数据外泄，涉中共高层亲属</a><br>
-相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">巴拿马文件</a></p></blockquote>
-<p><strong>温氏家族</strong><br><strong> 习＋炸</strong><br><strong> 万达＋权贵</strong></p>
-<p><strong>乐视＋跃亭</strong></p>
-<p><strong>June 4</strong></p>
-<p><strong>5毛＋网评</strong></p>
-<p><strong>很淫蕩</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E5%A9%B4-%E7%96%AB%E8%8B%97-%E6%AD%BB%E4%BA%A1.png" rel="attachment wp-att-435111"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E5%A9%B4-%E7%96%AB%E8%8B%97-%E6%AD%BB%E4%BA%A1.png?resize=450%2C197" alt="女婴 疫苗 死亡" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女婴-疫苗-死亡.png?resize=768%2C337 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女婴-疫苗-死亡.png?resize=1024%2C449 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女婴-疫苗-死亡.png?w=2312 2312w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B2%B3%E5%8C%97-%E5%A5%B3%E5%A9%B4-%E7%96%AB%E8%8B%97.png" rel="attachment wp-att-435110"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B2%B3%E5%8C%97-%E5%A5%B3%E5%A9%B4-%E7%96%AB%E8%8B%97.png?resize=450%2C195" alt="河北 女婴 疫苗" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/河北-女婴-疫苗.png?resize=300%2C130 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/河北-女婴-疫苗.png?resize=768%2C333 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/河北-女婴-疫苗.png?resize=1024%2C444 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/河北-女婴-疫苗.png?w=2322 2322w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><img src="https://i1.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E5%B7%B4%E6%8B%BF%E9%A9%AC.png?resize=450%2C175" alt="巴拿马" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%AB%E6%8B%BF%E9%A9%AC.png" rel="attachment wp-att-435108"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%AB%E6%8B%BF%E9%A9%AC.png?resize=450%2C197" alt="八拿马" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/八拿马.png?resize=300%2C131 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/八拿马.png?resize=768%2C336 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/八拿马.png?resize=1024%2C448 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/八拿马.png?w=2330 2330w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/banama.png" rel="attachment wp-att-435109"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/banama.png?resize=450%2C221" alt="banama" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/banama.png?resize=300%2C147 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/banama.png?resize=768%2C377 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/banama.png?resize=1024%2C503 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/banama.png?w=2348 2348w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%90%E6%B2%B3%E6%96%87%E4%BB%B6.png" rel="attachment wp-att-435107"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%90%E6%B2%B3%E6%96%87%E4%BB%B6.png?resize=450%2C196" alt="运河文件" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/运河文件.png?resize=300%2C131 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/运河文件.png?resize=768%2C335 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/运河文件.png?resize=1024%2C447 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/运河文件.png?w=2338 2338w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6.png" rel="attachment wp-att-435106"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6.png?resize=450%2C195" alt="拿马文件" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/拿马文件.png?resize=300%2C130 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/拿马文件.png?resize=768%2C333 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/拿马文件.png?resize=1024%2C444 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/拿马文件.png?w=2336 2336w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><img src="https://i0.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E6%B4%97%E9%92%B1%EF%BC%8B%E5%A7%90%E5%A4%AB.png?resize=450%2C175" alt="洗钱＋姐夫" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E4%B9%A0%EF%BC%8B%E5%A6%B9%E5%A4%AB.png?resize=450%2C173" alt="习＋妹夫" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%AE%98%EF%BC%8B%E7%A6%BB%E5%B2%B8.png?resize=450%2C175" alt="中国高官＋离岸" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E8%8A%AE%E6%88%90%E9%92%A2-1.png?resize=450%2C282" alt="芮成钢" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E6%B8%A9%E6%B0%8F%E5%AE%B6%E6%97%8F.png?resize=450%2C175" alt="温氏家族" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E4%B9%A0%EF%BC%8B%E7%82%B8.png?resize=450%2C175" alt="习＋炸" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E4%B8%87%E8%BE%BE%EF%BC%8B%E6%9D%83%E8%B4%B5.png?resize=449%2C175" alt="万达＋权贵" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E4%B9%90%E8%A7%86%EF%BC%8B%E8%B7%83%E4%BA%AD.png?resize=449%2C175" alt="乐视＋跃亭" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/June-4.png?resize=451%2C177" alt="June 4" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/5%E6%AF%9B%EF%BC%8B%E7%BD%91%E8%AF%84.png?resize=450%2C173" alt="5毛＋网评" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/wp-content/uploads/2016/04/%E5%BE%88%E6%B7%AB%E8%95%A9.png?resize=450%2C173" alt="很淫蕩" data-recalc-dims="1"></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E5%A5%B3%E5%A9%B4%E7%96%AB%E8%8B%97%E6%AD%BB%E4%BA%A1%E3%80%81%E6%B4%97%E9%92%B1%E5%A7%90%E5%A4%AB%E7%AD%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE/?category=18271" rel="tag">万达</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E8%A7%86/?category=18271" rel="tag">乐视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">离岸财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +768,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +778,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E8%BE%BE
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

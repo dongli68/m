@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%BC%81%E4%B8%9A%E4%BF%83%E9%94%80/" target="cdt-mirror">【河蟹档案】日本地震，企业促销</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40tientsin%E5%A4%95">tientsin夕</a>：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-29.jpg?resize=500%2C726" alt="333" data-recalc-dims="1"></p>
+<blockquote><p><em>相关阅读｜《<a href="https://www.winandmac.com/2016/04/leeco-japanese-earthquake-photo/">樂視香港否認就日本地震喜災樂禍 指是「自行發表」</a>》</em></p>
+<p>《<a href="http://www.bjd.com.cn/pw/sy/201604/18/t20160418_11018655.html">京报网<em>｜</em>日本地震，有人祈福有人欢呼，而他们有更多话想说…</a>》</p>
+<p>《<a href="http://www.voachinese.com/content/voa-news-chinese-nationalists-hail-kumamoto-earthquake-20160418/3290221.html">美国之音<em>｜</em>日本震后中国网上出现欢呼被斥垃圾</a>》</p>
+<p>《<a href="http://blog.ifeng.com/article/44513188.html?touping">闫桥：熊本地震中国人为啥很纠结？</a>》</p>
+<p>《<a href="http://blog.sina.com.cn/s/blog_4cd1c1670102w767.html?tj=1">徐静波：日本熊本县7级地震有点蹊跷</a>》</p></blockquote>
+<p><a href="https://freeweibo.com/weibo/3965202048962993" target="/weibo/396">2016年04月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%AD%9D%E6%95%99%E6%8E%88">孝教授</a>：”揭秘五毛职业 ” 我的秒拍作品,一起来看~ <a href="http://t.cn/Rq6Vaxn" target="_BLANK">http://t.cn/Rq6Vaxn</a>（使用<a href="https://freeweibo.com/weibo/%E7%A7%92%E6%8B%8D">#秒拍#</a>录制）<br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%BC%81%E4%B8%9A%E4%BF%83%E9%94%80/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3964277351921277" target="/weibo/396">2016年04月14日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%90%B4%E5%AE%AA%E5%A6%88%E5%A6%88">吴宪妈妈</a>：公元2016年的4月18日上午8时，在中华人民共和国首都北京，座落在知春路的国家卫生和计划生育委员会大楼前，来自全国各地的失独父母们，为了老有所养、病有所医，步履维艰、相互搀扶，头戴小白帽，以省为单位井然有序的排列在路边，声势浩大的418维权正式拉开序幕。维权正在进行中……<em>相关阅读｜《<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=1&cad=rja&uact=8&ved=0ahUKEwin5Pe925nMAhVE6CYKHY6DCkcQu4gBCB4oAjAA&url=http%3A%2F%2Fnews.qq.com%2Fa%2F20160418%2F059806.htm&usg=AFQjCNFvC0knW4YfoDckaf3JuyprK3ucmQ&sig2=rKAfZplLSZU5P8Z24FQyTQ&bvm=bv.119745492,d.eWE">腾讯｜数百失独家长卫计委门前陈情盼扶助均等化</a>》</em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?resize=504%2C378" alt="失独" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?w=853 853w" sizes="(max-width: 504px) 100vw, 504px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3965636982476396" target="/weibo/396">2016年04月18日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%A4%A7%E5%98%B4__%E9%99%882010">大嘴__陈2010</a>：冤民也闹嚷着找姐夫。<em>相关阅读｜《<a href="https://twitter.com/1031980899/status/719749500802183168">Twitter<em>｜</em>无锡85岁老人遭监控的第22天</a>》；《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160416-%E7%B2%A4%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A6%84%E8%AE%AE%E5%A7%90%E5%A4%AB%E8%A2%AB%E6%8C%87%E2%80%9C%E5%85%AC%E7%84%B6%E4%BE%AE%E8%BE%B1%E4%BB%96%E4%BA%BA%E2%80%9D%E9%81%AD%E5%B8%A6%E8%B5%B0">法广<em>｜</em>粤维权律师妄议姐夫被指“公然侮辱他人”遭带走</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%91%9B%E6%B0%B8%E5%96%9C%E5%9B%A0%E8%AF%84%E8%AE%BA%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">德国之声｜维权律师葛永喜因评论“巴拿马文件”被短拘</a>》</em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-28.jpg?resize=513%2C590" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-28.jpg?resize=261%2C300 261w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-28.jpg?w=513 513w" sizes="(max-width: 513px) 100vw, 513px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3964925888032194" target="/weibo/396">2016年04月16日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E7%BB%8F%E7%BD%91">财经网</a>：【昆明“泛亚”于近日获评云南省纳税百强优秀企业】4月14日，昆明市地税局给泛亚有色金属交易所股份有限公司颁发了荣誉证书，表彰其入围2015年度云南省纳税百强优秀企业。该名单由云南省国税局和地税局共同评选。而在此前，泛亚已被警方查明涉嫌非法吸收公众存款的犯罪事实。<em>相关阅读｜《<a href="http://finance.sina.com.cn/money/future/roll/2016-04-16/doc-ifxriqqv5984753.shtml">新浪财经<em>｜</em>昆明市地税局发公告澄清：未给泛亚颁发荣誉证书</a>》</em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-24.jpg?resize=532%2C395" alt="泛亚" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-24.jpg?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-24.jpg?w=500 500w" sizes="(max-width: 532px) 100vw, 532px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3964605267537157" target="/weibo/396">2016年04月15日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%BC%81%E4%B8%9A%E4%BF%83%E9%94%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E8%A7%86/?category=18271" rel="tag">乐视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E9%9D%99%E5%A8%9F/?category=18271" rel="tag">周静娟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E5%AE%B6%E9%95%BF/?category=18271" rel="tag">失独家长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/?category=18271" rel="tag">庞氏骗局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A/?category=18271" rel="tag">昆明泛亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">熊本地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">离岸姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%B2%BE%E8%8B%B1%E7%A7%BB%E6%B0%91%E5%9C%B0%E5%9B%BE/" target="cdt-mirror">【CDTV】精英移民地图</a>
 </h2>
 <p><p>转自壹读视频</p>
@@ -737,39 +760,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%9C%A8%E5%AE%B6%E5%85%B7%EF%BC%8C%E4%B8%9C%E5%8D%97%E4%BA%9A%E6%A3%AE%E6%9E%97%E7%9A%84%E8%A1%80%E8%85%A5%E6%B5%A9%E5%8A%AB/" target="cdt-mirror">美国之音｜中国红木家具，东南亚森林的血腥浩劫</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg" rel="attachment wp-att-435245"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg?resize=585%2C329" alt="55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/55C91036-B55D-4638-8C9A-452FF75822EA_w640_r1_s_cx0_cy4_cw0.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>缅甸2014年禁止原木出口的政策下达后，在云南边境口岸，从缅甸运进的原木并未完全绝迹。（美国之音朱诺拍摄，2014年5月7日）</p></div>
-<p>泰国曼谷—</p>
-<p>最新一期的美国《时代周刊》报道，中国市场对于红木家具的强烈需求已经导致了泰国森林沦为非法盗伐者与护林人之间的战场。实际上，这种状况并不止于泰国境内，整个中南半岛的热带森林正在遭受着前所未有的劫难。进入21世纪以来，非法盗伐木材的现象已经成为泰国、老挝、柬埔寨、缅甸、越南等国的严重问题，根据美国非政府组织“保护国际基金会” （Conservation International）于2011年罗列的世界十大濒危森林数据，这一地区的森林流失速度排在全球第一位。</p>
-<p>上世纪90年代之前，日本曾经是从东南亚进口原木的第一大国。然而，随着日本国内对于森林保护认识的逐步加深，消费者对于木制家具的抵制使得日本的原木进口量大幅减少。中国随之取代了日本的原木进口地位，而中国消费者对于红木家具的青睐正是造成这一现象的原因之一。</p>
-<p>随着森林面积的缩减，东南亚各国政府都先后推出了不同程度的“限伐令”，然而，巨大的商业利润驱使一波又一波的冒险家深入东南亚林区。由于中国与其中一些东南亚国家陆地接壤，非法盗伐的木材可以更方便地进入中国，而中国海关对于陆地通关的木材是否合法一直采取睁一只眼、闭一只眼的态度，从而在某种程度上变相鼓励了非法砍伐的商人，使得当地盗伐现象加剧。</p>
-<p><strong>超过80%的木材都去了中国</strong></p>
-<p>《时代周刊》的报道称，1立方米的泰国红木（Siamese Rosewood ，又称黄檀木或者花梨木）在柬埔寨可以卖到5000美元，而走私进入中国后，价格则会翻上10倍。</p>
-<p>泰国东北部城市廊开（Nong Khai）的一位家具制造商乌泰告诉记者：“20年前，泰国北部和东北部还可以找到成片的花梨木、柚木等热带硬木树林，现在都已经消失殆尽。现在，我们也 要去老挝或者缅甸买木头，但是，泰国市场的价格争不过中国，那些地方的绝大多数红木都被运去中国了，整个东南亚的木材，超过80%都去了中国。泰国仅存的一些红木只有在与柬埔寨接壤的边境地区还能找到。”</p>
-<p>《时代周刊》称，由于柬埔寨的森林砍伐一空，那里的盗伐者正逐渐向泰国一侧推进。为了保护这些珍贵木材，泰国于2015年6月组织了护林队，队员们配备了全副武装。而盗伐者们则携带着AK47步枪和手榴弹，双方近来多次交火，造成几十人丧命。护林队队长皮拉福（Piroon Pilaphop）曾对媒体表示：“盗伐者不在乎我们的护林员身份，如果他们撞见我们，他们会毫不犹豫地向我们射击。”</p>
-<p>泰国红木等一些品种曾于2013年被列入《濒危野生动植物种国际贸易公约》（CITES）名单，成为第二级受保护野生植物。泰国政府规定，出口红木必须出具官方颁发的许可证书。然而，按照业界人士的说法，可用于制造传统中国红木家具的木材多达30多种，而其中受到保护的只有几种，绝大多数树种并不在保护之列，而中国的家具制造商则不断改变硬木品种，来解决原料受限问题，这就使得泰国的其他树种也受到非法砍伐的威胁。</p>
-<p>《时代》引用了东南亚森林问题专家马库斯•哈特克（Marcus Hardtke）的论述：“10年前这些物种没人感兴趣，现在却大受追捧。如果现在不采取强有力的措施，中南半岛很快就会只剩下灌木丛了。”</p>
-<p><strong>邻国不堪之苦</strong></p>
-<p>在中国南部的邻国当中，越南的森林面积衰减幅度最大，也是世界上去森林化国家中仅次于尼日利亚的第二大国家。越南本土市场对红木家具的需求同样旺盛，实际上，越南早就禁止了原木出口，现在已成为原木净进口国。东南亚木材没有进入中国的那部分，主要是运往越南。由于中越边境的管理比较清晰，很少有非法木材通过中越口岸进入中国。因此，不少精明的中国家具商改变策略，直接在越南设厂制作红木家具，然后把产品运回国销售。</p>
-<p>老挝曾经是非法木材进口到中国的一个主要来源地，尽管老挝政府也曾明令禁止，但每年还是有大量的木材流入中国和越南。根据环保组织“环境调查机构”（Environmental Investigation Agency，EIA）2015年公布的数据，老挝非法砍伐的木材是合法伐木业的10倍。一些当地企业通过贿赂官员，假借修建基础设施等名目砍伐森林， “禁伐令”名存实亡。</p>
-<p>同样的情况发生在柬埔寨，虽然该国与中国并不接壤，但非法盗伐的木材通过老挝运进中国。据非政府组织“全球见证”（Global Witness）2015年发表的文章称，柬埔寨的富豪狄皮（Try Pheap），正是大量非法盗伐事件背后的金主。除了行贿官员，盗伐者还刺杀执法人员和揭露盗伐事件的记者。</p>
-<p>中国的邻居们当中，森林流失最严重的国家当属缅甸。由于缅甸北部长期被民族武装控制，而这些武装维持生活经费则需要变卖大量的自然资源，除了翡翠、宝石之外，木材也是他们换取金钱的重要物资。根据缅甸资源与环保委员会秘书长吴登伦的说法，缅甸的森林覆盖率在十九世纪末曾占国土面积的70％，到1962年下降为57％，2005年为51％，目前仅为20％左右。</p>
-<p>缅甸政府从2014年4月1日起完全禁止原木出口，但是在那之后，从云南边境进入中国的缅甸木材仍未绝迹。2015年1月，缅甸政府逮捕了112名中国伐木工人，并对其判以重罪，成为轰动一时的新闻。然而，即使在那次事件以后，中国工人在缅甸非法砍伐被关押的消息仍时有所闻。而实际上，缅甸对非法中国伐木工的拘捕从2004年以来就没有停止过，仅2006年6月，就有427名中国工人被缅甸遣返。</p>
-<p><strong>中国官方的不作为引起各国不满</strong></p>
-<p>云南片马口岸旁边堆积的木材，照片中显示的只是其中极少的一部分。（美国之音朱诺拍摄，2014年5月7日）云南片马口岸旁边堆积的木材，照片中显示的只是其中极少的一部分。（美国之音朱诺拍摄，2014年5月7日）</p>
-<p>根据环境调查机构的报告数据，2000年至2013年，中国共进口350万立方米红木，价值24亿美元。按照《时代》的说法，即使是史无前例的反腐运动，也没能减缓中国市场对于红木的需求。在云南边境口岸片马镇，熟悉内情的当地人告诉记者，中国木材商已经砍进缅甸100公里。</p>
-<p>名义上，中国的中央政府并不支持非法贸易，但是，大量的非法砍伐木材毫无障碍运进云南边境也是不争的事实。记者在缅甸2014年禁止原木出口的政策下达之后，曾经到过云南边境的数个口岸，见到从缅甸过关的大量原木堆积在口岸附近。当地人表示，尽管禁令之后运输木材的货车已经显著减少，但是并没有完全绝迹。</p>
-<p>中国地方官员和商人似乎并不理解缅甸人对森林面积锐减的担忧，也不了解缅甸人民逐渐高涨的对于中国商人“掠夺”自然资源的反感，这种对于邻国舆情的无知表现在一些匪夷所思的商业行为中。今年1月，缅甸资源与环保委员会的官员曾向媒体透露，中国某地政府竟然向缅甸建议在边境地区兴建一个以木材贸易为主的工业园区，遭到缅方的严辞拒绝。</p>
-<p>非法砍伐现象在中国国内也没有引起消费者和媒体的足够重视。即使是去年缅甸拘捕中国伐木工人的新闻被热炒期间，无论是媒体和读者都缺少对于人类生活环境和森林面积锐减的反思。上个世纪80年代，日本正是掀起了一场全国性的对于森林砍伐的笔战，各种环境保护的非政府组织应运而生，说服地方政府减少政府机构木制办公家具的使用，继而推广到私人消费者中，才使得全国硬木家具的消费量形成拐点，最终促使日本退出原木进口世界第一的位置。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%9C%A8%E5%AE%B6%E5%85%B7%EF%BC%8C%E4%B8%9C%E5%8D%97%E4%BA%9A%E6%A3%AE%E6%9E%97%E7%9A%84%E8%A1%80%E8%85%A5%E6%B5%A9%E5%8A%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">环境保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%80%81%E4%BF%9D%E6%8A%A4/?category=18271" rel="tag">生态保护</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%97%E4%BC%90/?category=18271" rel="tag">盗伐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -791,5 +781,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

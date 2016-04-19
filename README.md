@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%8F%8D%E5%BC%B9-%E5%A5%BD%E6%B6%88%E6%81%AF%E8%BF%98%E6%98%AF%E5%9D%8F%E5%85%86%E5%A4%B4%EF%BC%9F/" target="cdt-mirror">纽约时报 | 中国楼市反弹 好消息还是坏兆头？</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?resize=600%2C400" alt="上海嘉定区的住宅。中国最大的城市的新建住房房价正在急剧上涨。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>上海嘉定区的住宅。中国最大的城市的新建住房房价正在急剧上涨。</p></div>
+<p>中国的发展放缓已给全球经济蒙上一层阴影，也引发了世界各地投资者的担忧。发展放缓的部分原因是国内重要房地产市场的深度萧条。</p>
+<p>现在，随着起重机重返某些城市的建设工地，一些最好地段的房地产销售处也再次挤满了要购房的客户，房地产的萧条看似有所缓解。</p>
+<p>据官方周一公布的数据，中国大型城市的新房价格大幅上涨，南部新兴城市深圳的涨幅最高。3月份，深圳新房价格与去年同期相比，上涨幅度达到了惊人的62％。</p>
+<p>房地产业的复苏，是伴随着整体经济中其他部分的增长放缓，因此为经济提供了一个受欢迎的重要推动。一些经济学家估计，房地产业占中国国内生产总值(GDP)的四分之一之多。</p>
+<p>但是，这些数字也提供了更多的证据，表明随着优势行业与弱势行业以及地区之间的差距越来越大，中国经济正在日益走上双轨发展的道路，李克强总理本人也承认了这点。</p>
+<p>这也提高了经济复苏的范围过于狭窄、复苏不可持续的风险。房地产业的好转主要集中在中国最大、最富裕的城市，并没有让困扰着中国中小型城市和边远城市的未售出房屋得到消减，而这些房屋面临大量过剩。</p>
+<p>房价的惊人上涨让政策制定者难以找到采取进一步经济刺激的理由。房价上涨也带来了另一种风险，那就是政府可能会面临来自支付不起高房价的城市居民的强烈不满。</p>
+<p>“在大城市生活的人发现房价越来越负担不起，”在澳新银行(Australia and New Zealand Banking Group)研究中国经济的专家杨宇霆(Raymond Yeung)说。</p>
+<p>“虽然房地产行业的好转有助于稳定经济增长，但这也将抑制央行进一步宽松货币政策的胃口，”杨宇霆补充说。</p>
+<p>分析人士指出，非法贷款在目前的价格上扬中起了作用，非法贷款指的是销售代理商或其他第三方为支付购房首付所提供的贷款。这种做法最近已引起当局的打击。</p>
+<p>据周六公布的数据，房地产业目前是中国经济增长最快的组成部分，与去年一季度相比，房地产行业的国内生产总值增长了9.1％。相比之下，金融行业环比增长8.1％，只有去年股市繁荣期高峰增长率的一半。</p>
+<p>房地产业的好转，对吴超这样的人来说，意味着生意兴隆，他是北京房产中介公司麦田房产一家分店的经理。</p>
+<p>周一，他在麦田房产双井店接受采访时，解释了房价上涨的主要原因，双井是北京市中心一个富裕地段，可以看到主要商业区的美景，不长的步行距离就有一所国际学校。</p>
+<p>吴先生列举的所有原因几乎都与政府政策的变化、以及市场对政策变化的反应有关。这些包括对非北京居民在北京购房限制的变化；上个月结束的全国人大；独生子女政策的正式终结；以及近期的央行行动。</p>
+<p>大多数有钱的中国人不喜欢借钱购房，而是喜欢现金交易。不过，吴先生说，几轮降息已让抵押贷款变得越来越有吸引力。</p>
+<p>“即使非常有钱的人有时也不会付全款，”他讲到这一趋势时说。“他们会利用贷款来购买住房。”</p>
+<p>不过，一些经济学家对房地产业的近期升温能持续更长的时间表示怀疑。</p>
+<p>野村证券（香港）的首席中国经济学家赵阳指出，仍有大量的已建成但尚未售出、或在建的房屋的库存。他的计算表明，在建的建筑面积足够供应六年以上的销售。</p>
+<p>“房地产行业仍长期面临着去库存的压力，”赵阳周一在一封电子邮件中写道。</p>
+<p>政府政策立场的改变也是一个因素，政府在寻求降低房市可能以混乱的方式崩溃的风险。</p>
+<p>“这轮涨价潮中也有泡沫因素的迹象，”赵阳写道。“政府已经开始推出政策来遏制房价的上升。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%8F%8D%E5%BC%B9-%E5%A5%BD%E6%B6%88%E6%81%AF%E8%BF%98%E6%98%AF%E5%9D%8F%E5%85%86%E5%A4%B4%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82%E5%8F%8D%E5%BC%B9/?category=18271" rel="tag">楼市反弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">经济泡沫</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%94%8B%E8%AF%84-%E5%B8%B8%E5%B7%9E%E7%BB%88%E4%BA%8E%E6%8A%8A%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5%E5%81%9A%E6%88%90%E4%BA%86%E8%8A%B1%E5%9C%88/" target="cdt-mirror">锋评 | 常州终于把祖国的花朵做成了花圈</a>
 </h2>
 <p><p>文/郁风</p>
@@ -803,35 +835,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8A%AF/" target="cdt-mirror">东网 | 赵思乐：被遗忘的政治犯</a>
-</h2>
-<p><p>“成为“被遗忘的政治犯”，今日张海涛的悲哀，日后或许是每个抗争者的悲哀。”</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.17.27.png?resize=452%2C323" alt="Screen Shot 2016-04-16 at 下午1.17.27" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.17.27.png?resize=300%2C214 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.17.27.png?w=452 452w" sizes="(max-width: 452px) 100vw, 452px" data-recalc-dims="1"></p>
-<p>2016年1月18日，新疆自治区看守所，45岁的张海涛接到了自己的一审判决书：煽动颠覆国家政权罪，判刑15年；为境外刺探、非法提供情报罪，判刑4年；两罪并罚，共19年有期徒刑，另有剥夺政治权利5年，没收财产12万元，这意味着他名下的一项房产将被没收，他的妻子和刚满月的孩子将流离失所。张海涛决定上诉，目前该案在等待二审的过程中。</p>
-<p>根据判决书，居于新疆的张海涛的“罪行”，是69条微信朋友圈、205条推特和微博，还有他订阅了博讯和美国之音的新闻邮件、给这些网站投稿，并接受了境外媒体采访，内容涉及“敏感”的日子里新疆乌鲁木齐的维稳状况。比如，他在2011年发出照片并附上说明文字：“大概一周前（‘七五事件’3周年前夕），全市局势就紧张起来，尤其以维族聚居区为甚，今天，汉族聚居区也加了不少岗。”</p>
-<p>“煽动颠覆国家政权罪”，以及因向境外媒体透露看到的情况而被定“刺探情报罪”，是极为典型的政治犯罪名，该案涉及言论自由、社交媒体、外媒联系等要素；而且，张海涛被量刑之重，是数年内所未见；这双重因素都应该引致外媒的广泛关注。</p>
-<p>然而并没有，除了与寥寥几个与张海涛有直接联系的异议媒体有所报道，如自由亚洲电台、博讯网等，未见国外主流媒体关注。</p>
-<p>近日，在中国异议民主圈子内部，有另一个案件引发了较大回响，是“南方街头运动”的王默和谢文飞因举牌支持香港占中而被判“煽动颠覆国家政权罪”。这一政治案件值得注意之处，在于王默和谢文飞明确表示就是要“颠覆中共党专政独裁政府”，这与之前政治案件当事人一般不承认颠覆意图，甚至主动将自己的行为“去政治化”、“温和化”，截然不同。</p>
-<p>王默、谢文飞的决绝表态，在大陆异议民运圈子内有着标识性的意义，甚至可能象征着民主圈子内部气候和定位的改变。但同样，除了“占中”因素引起了一些香港媒体的报道，国外主流媒体几乎没有报道这一案件。</p>
-<p>然而，去年到今年，其实是国外主流媒体报道中国政治打压问题的高峰，从关注上升期的女权案、浦志强案、709律师案，到瑞典彼得事件后，关注高频期的媒体人贾葭失联事件、长平家人被拘事件等，都获得了几乎所有欧美主流大报的报道。</p>
-<p>冷热不均，所为何故？</p>
-<p>能获得境外主流媒体关注的事件，几乎都是中国政治打压向中间社会扩张的标志性事件，它们的共同特点是：当事人是中间社会代表，比如受过大学教育的年轻女性、律师、媒体记者、知识分子；诉求具有一定的非政治化特征，比如反歧视运动、法律维权运动、媒体市场化趋势；行动是温和的，比如不组党、不明确反党、不诉诸武力。</p>
-<p>至于不具备上述特征的政治打压，如张海涛案、南方街头案、张六毛非正常死亡案等，则鲜有获得国际媒体关注。</p>
-<p>导致这让人遗憾的分野的原因有很多，除了新闻媒体报道“新趋势”、“奇怪事”的倾向以外，也包括：第一，境外媒体往往只能以最简单的逻辑，以及最熟悉的“中间精英变革”模型，来理解和报道欧美以外的政治和社会运动，比如报道贾葭失联的事件时，几乎所有媒体都只能以“涉促习辞职公开信”为解释，而且反复问贾葭的律师和朋友：贾葭是否是公开信的作者？如果不是，当局为什么要抓他？</p>
-<p>如此可想，它们几乎不可能理解和复述王默、谢文飞的草根身份，和决绝公开的“就是想颠覆中共”，对大陆民运意味着什么。</p>
-<p>第二，境外媒体也只能看到曾在中国大陆被公众目光照射过的人，比如浦志强、长平、贾葭等，而在大陆媒体中本来就被消音的反对者和草根抗争者，外媒则无力了解跟进。</p>
-<p>这些背后固然有许多媒体自身的特征带来的局限性，比如欧美媒体从业者本身没有也不可能做足够多的“功课”去了解另一个世界的运动。这姑且搁置，或由他人另文讨论。</p>
-<p>然而，对于中国大陆的抗争者来说，这令人遗憾的现实，会带来严重的困境：</p>
-<p>国际舆论关注和政治压力，目前几乎是对政治打压的唯一制衡，但国内严酷的政治现实，必然会导致抗争运动进一步草根化、地下化和激进化——抗争运动本身不太可能再由中间阶层为核心人物，核心人物和TA所做的事情也不太可能被主流社会知晓——如此一来，接下来的抗争运动就失去了能被境外媒体关注的要素，很可能进入被狠狠打击却声援难求的持续状态。</p>
-<p>成为“被遗忘的政治犯”，今日张海涛的悲哀，日后或许是每个抗争者的悲哀。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8A%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90/?category=18271" rel="tag">乌鲁木齐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B5%B7%E6%B6%9B/?category=18271" rel="tag">张海涛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -843,7 +846,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -853,5 +856,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

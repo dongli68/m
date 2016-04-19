@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%85%AC%E5%BC%80%E8%BE%B1%E5%8D%8E-vs-%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/" target="cdt-mirror">悉尼大学吴维事件：公开辱华 VS 言论自由</a>
+</h2>
+<p><p>4月14日，部分国内媒体报道了一位就职于悉尼大学的华裔教师在微博发表“公开辱华”内容的消息，新闻称这名微博号为Pekojima（真名吴维）的男子屡次发表歧视澳洲留学生言论、亲日言论以及“反华言论”，并且在去年11月发表了一段焚烧中国护照的视频….消息披露后，部分中国学生向悉尼大学施压要求以发表种族主义言论为由对吴维做出处罚，目前校方表示已介入此事，并且暂停了吴维的教学活动。与此同时，也有部分网友及在澳华人发表公开信，他们认为悉尼大学应尊重并保护吴使言论自由的权利，反对对吴进行不透明的“被辞职”处理。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/wuwei.jpg?resize=550%2C543" alt="wuwei" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/wuwei.jpg?resize=300%2C296 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/wuwei.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-1.jpg?resize=550%2C307" alt="0 (1)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-1.jpg?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-1.jpg?w=500 500w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-2.jpg?resize=550%2C290" alt="0 (2)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-2.jpg?resize=300%2C158 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-2.jpg?w=500 500w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0.jpg?resize=550%2C246" alt="0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0.jpg?resize=300%2C134 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0.jpg?w=400 400w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>部分报道截图</p>
+<p><strong>相关阅读：</strong></p>
+<p><a href="http://view.inews.qq.com/a/NEW2016041500553304" target="_blank">观察者网：悉尼大学华裔教员公开辱华 焚烧中国护照</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/" target="_blank">磐石小姐：由Pekojima事件及P師在悉尼大學的遭遇想到的</a></p>
+<p><a href="http://oversea.huanqiu.com/article/2016-04/8814566.html" target="_blank">环球时报：悉尼大学辱华教师道歉辞职：今后将不再发表类似言论</a></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?resize=600%2C338" alt="DHImDghjELOFFGa-800x450-noPad" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>以下为公开信两则：</strong></p>
+<p><strong>第一封公开信：</strong></p>
+<p>我们部分在澳华人对于近期悉尼大学商学院针对吴维老师歧视言论所展开的内部调查表示关切。</p>
+<p>对于该事件，我们希望表达如下立场：</p>
+<p>1. 我们不认为吴维老师在中国网站上受密码保护的账号中发表的个人观点，可以被剥离特定语境后，断章取义、拼凑嫁接作为反对其在澳大利亚从事科研教学的依据。</p>
+<p>2. 我们认为吴维老师很多激烈言论是有明确针对性的，其中包括参与学术造假的特定学生。尽管措辞强烈，这些的言论是以社会普遍认可的事实为基础的。 – <a href="http://www.forbes.com/2010/05/26/china-cheating-innovation-markets-economy-plagiarism.html" target="_blank" rel="nofollow">http://www.forbes.com/2010/05/26/china-cheating-innovation-markets-economy-plagiarism.html</a> … – <a href="http://blogs.wsj.com/chinarealtime/2015/05/29/u-s-schools-expelled-8000-chinese-students-for-poor-grades-cheating/" target="_blank" rel="nofollow">http://blogs.wsj.com/chinarealtime/2015/05/29/u-s-schools-expelled-8000-chinese-students-for-poor-grades-cheating/</a> …</p>
+<p>3. 我们担心吴维老师长期针对中国政府、政治体制、社会问题的尖锐批评，已经使其成为中国政府在互联网上的舆论引导者们关注的对象，并试图以吴维老师焚烧中国护照作为其侮辱华人学生的凭据。而在我们看来，这正是吴维老师表达异议的一种正常途径。</p>
+<p>4. 我们强调，作为在澳华人，我们并不把吴维老师焚烧护照和针对学术不端的中国留学生的严厉批评言论，作为对于整个华人种族的歧视。我们相信，许多在澳华人也不会这样去解读。</p>
+<p>5. 我们也注意到，吴维老师在悉尼大学的教学生涯中，并未有过任何来自学生因其种族、背景而遭遇歧视、侮辱、或不公正对待的任何指控。我们认为这才是一个种族歧视者更为直接了当的做法。</p>
+<p>综上所述，我们对于此事件的发展会继续保持密切关注。我们希望悉尼大学商学院尊重并保护吴维老师行使言论自由的权利，以及平等获得工作机会的权利。</p>
+<p>英文版<a href="https://www.change.org/p/support-wu-wei-open-letter-to-the-school-of-business-in-the-university-of-sydney" target="_blank">内容</a></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?resize=600%2C338" alt="JmHujYNwnkgVvfj-800x450-noPad" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>第二封公开信：</strong></p>
+<p>我们是本周一发布公开信，关注悉尼大学商学院就吴维老师网上言论所展开调查的在澳华人。</p>
+<p>在等待悉尼大学商学院回复的同时，我们突然注意到中国国家宣传机构《环球时报》刊载了悉尼大学单方面宣布，吴维老师已就网络言论道歉并提出辞职的传闻。</p>
+<p>我们在此明确指出，到目前为止，我们：</p>
+<p>– 没有看到悉尼大学或商学院发布任何官方声明，确认或否认这一系列网络传闻；<br>
+– 没有看到悉尼大学或商学院发布的任何调查报告，却试图凭空给事件定性；<br>
+– 没有看到对于公开信及其千百位联署者的任何回应；<br>
+– 没有看到吴维老师有关调查进展、结论、道歉、辞职的任何公开回应。</p>
+<p>我们有理由相信：</p>
+<p>– 吴维老师和外界沟通的权利受到限制；<br>
+– 吴维老师的平等就业权利受到侵害；<br>
+– 悉尼大学或商学院受到了来自外界的压力，希望尽快结束调查；<br>
+– 悉尼大学或商学院没有公正、透明、负责任地就事件进行调查；<br>
+– 悉尼大学或商学院不希望更多细节被公众知晓。</p>
+<p>我们将继续关注事件发展，并保留进一步寻求公义的权利。</p>
+<p>英文版<a href="https://www.change.org/p/support-wu-wei-open-letter-to-the-school-of-business-in-the-university-of-sydney/u/16270907" target="_blank">内容</a></p>
+<p>知名漫画家巴丢草在发起了声援吴维的#草泥马护照 活动：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.png?resize=450%2C587" alt="1 草泥马护照"></p>
+<p><a href="https://photos.google.com/share/AF1QipMR2cVK_yJu9ir_0kf8R8RIbhteCBG7bDDEx_KNcqwoQJ7tvb7Sn-_O3TzBR9e1lw?hl=zh-CN&key=MXlvbmJ3SU9ES3U5dDBkT2tkYmZ6OWlQMDhUaTZ3" target="_blank">https://photos.google.com/share/AF1QipMR2cVK_yJu9ir_0kf8R8RIbhteCBG7bDDEx_KNcqwoQJ7tvb7Sn-_O3TzBR9e1lw?hl=zh-CN&key=MXlvbmJ3SU9ES3U5dDBkT2tkYmZ6OWlQMDhUaTZ3</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%85%AC%E5%BC%80%E8%BE%B1%E5%8D%8E-vs-%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4/?category=18271" rel="tag">吴维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%8F%8D%E5%BC%B9-%E5%A5%BD%E6%B6%88%E6%81%AF%E8%BF%98%E6%98%AF%E5%9D%8F%E5%85%86%E5%A4%B4%EF%BC%9F/" target="cdt-mirror">纽约时报 | 中国楼市反弹 好消息还是坏兆头？</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?resize=600%2C400" alt="上海嘉定区的住宅。中国最大的城市的新建住房房价正在急剧上涨。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>上海嘉定区的住宅。中国最大的城市的新建住房房价正在急剧上涨。</p></div>
@@ -761,80 +811,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E5%B0%A4%E5%85%B6%E7%83%AD%E8%A1%B7%E4%BA%8E%E9%80%9A%E8%BF%87%E8%AF%95%E7%82%B9%E6%9D%A5/" target="cdt-mirror">微思客 | 中国政府为何尤其热衷于通过“试点”来制定政策？</a>
-</h2>
-<p><p>从“试点”万能论看中国“实验主义”的兴起和危机</p>
-<p>作者：杨松林</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.30.32.png?resize=327%2C440" alt="Screen Shot 2016-04-16 at 下午1.30.32" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.30.32.png?resize=223%2C300 223w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.30.32.png?w=327 327w" sizes="(max-width: 327px) 100vw, 327px" data-recalc-dims="1"></p>
-<p>纵览共和国史60余年，从宏大的改革开放、运动革命到微观的条例颁布、政策执行，“试点”总是一个无法绕过去的话题。无论是中央，还是地方，在制定政策的过程中，均会强调全面推行前的小范围试点，以确定政策推行的科学性和客观性。</p>
-<p>这种现象伴随着改革开放的全面开展而更为明显。从建立对外开放政策的试点特区：深圳、珠海、汕头、厦门，到推动自贸区发展的上海、天津、广州，接近40年的改革开放，几乎每一项全国推行的政策都强调试点的作用。而到了前几天刚召开的国务院常务会议上，李克强强调2016年医疗工作的“多点执业”政策思路，也是基于其在“海南博鳌考察肿瘤医院时”的试点调研成果而建立起来的。</p>
-<p>所以说，从宏观的经济特区和自贸区建立，到专业化的医疗工作开展，<strong>通过“试点”实现政策的“以小见大”显然早已成为了政府实施政策的基本方式。</strong></p>
-<p><strong>1<br>
-“试点”方法论的科学性和局限性</strong></p>
-<p>关于试点，最权威的中央评价来自于中央全面深化改革领导小组第十三次会议上的讲话内容：</p>
-<blockquote><p>试点是改革的重要任务，更是改革的重要方法。试点能否迈出步子、趟出路子，直接关系到改革成效。要牢固树立改革全局观，顶层设计要立足全局，基层探索要观照全局，大胆探索，积极作为，发挥好试点对全局性改革的示范、突破、带动作用。</p></blockquote>
-<p>改革的逻辑通常分为顶层和基层两个方面。试点主要从基层出发，依托从顶层制定的政策逻辑进行就地试验，反映出的成效和问题将用作政策调整的参考。基层的问题能为顶层所反思，这本身就蕴含着某种“以小见大”，以某种局部代表全局的逻辑，也就是实验主义的“归纳实证”思维。</p>
-<p>但“小”和“大”之间有着不可跨越的鸿沟，具体问题是否具有广泛代表性，本身存在着很多需要重新探讨的空间。也因此，试点作为改革的主要方法，同样存在着许多问题。</p>
-<p>比如说农业上，依托某一个地区的农业试点来推行相关政策就存在着很大的弊端。我国的地形差异巨大，农业生产所需要参与的要素组成上，不同地区的表现也有较大差异。如果仅仅凭借在北大荒的成功，就在全国实施农业机械化大生产，这很显然就忽视了南方农地零散的客观事实。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.24.32.png?resize=485%2C404" alt="Screen Shot 2016-04-16 at 下午1.24.32" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.24.32.png?resize=300%2C250 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.24.32.png?w=485 485w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"><br><span>中国的地形、降水等差异直接导致了南北、东西地区的耕种率、农作物产量、类型、生产方式的显著差异。</span></p>
-<p>另一个问题是，政府在推行“试点”的时候缺乏第三方评估，为了政绩，许多地方政府主导的“试点”和实验存在掩盖问题的现象，对此，哈佛大学教授萧庆伦先生就曾一语中的：</p>
-<blockquote><p>有一点我很欣赏，就是中国政府愿意去做实验，作出成果过后，可以经验介绍和推广。但这里还有一个问题，中国政府做实验不去做评估，不愿意别人评估自己实验成果，但实验本来就是时有成功时有失败的，不可避免，这就导致很多实验铺不开来，浅尝即止，不能达到应有的效果，这需要中国政府认真反思。</p></blockquote>
-<p>比忽视差异更为严重的潜在问题是，<strong>一旦试点到了改革进入深水区的时候，其很可能成为既得利益者的避风港，并容易在某种程度上阻碍着政策的全面开展。</strong>著名经济学家周其仁教授就曾经一针见血地提出以下观点：</p>
-<blockquote><p>“试点”在某种程度上，可能会成为深化改革的负面措施。中国所有难题，讲破天，底下都有一些解决办法。问题是找到办法后，上层认可么？上层建筑承认不承认，给不给政策地位，给不给法律地位？我们现在把试点变成不改革的一个办法，实在扛不过去就搞试点。所以现在全国到底有多少个试点？</p></blockquote>
-<p>但这依然没有阻止政府对于“试点”几乎理所当然的信任和认可。</p>
-<p><strong>2<br>
-试点、实验主义和邓小平理论</strong></p>
-<p>试点有着那么多的问题，无论是“以偏概全”还是“拖延改革”，依然没有阻碍大陆人们对于这种制定政策方式的认可，甚至越来越多人相信，中国政府只有依赖有序的社会科学方法论，社会调查、试点、反馈、形成政策的逻辑，才能真正有效制定出反映社会“真实情况”的政策。这种“神话”论，将一种思考工具上升为某种接近价值观和意识形态的存在，正逐渐局限人们认识社会的多种可能性。</p>
-<p>对于试点、社会调查等众多社会科学方法论，我们需要认识到其背后所反映的“实验主义”思维模式：也就是“手段”和“目的”的相互依赖和对两者的认识都不断在实践中深化。</p>
-<p>这种思维方式最初的解读权来自于美国哲学家杜威：</p>
-<blockquote><p>观念必须在实验中锻炼，只有经过实验证明，在实践上能解决实际问题的观念，才是“有价值的观念”。</p></blockquote>
-<p>概括来说，杜威的“实验主义”，强调微观事实归纳整理的逻辑。或者说，事实应该从最具体的实践中获得。杜威坚持实验是真理的唯一试金石。<strong>要培养创造的思想力，就要以怀疑为起点，找到新知识来解决这疑难。</strong>他在中国的信徒胡适，将这种方式总结为“大胆假设，小心求证”。</p>
-<p>而这种理念得到最大的推广，是在1978年的十一届三中全会之后。由邓小平主政的改革开放，最核心的指导思想“邓小平理论”，不过是杜威“实验主义”的另一种变体。换句话说，邓小平应该是中国大陆杜威“实验主义”信徒中，影响最为深远的一位了。</p>
-<p>事实上，著名汉学家傅高义在《邓小平时代》里对此有非常精辟的描述：</p>
-<blockquote><p>大家都知道，邓小平是个实验主义者，不是意识形态专家；和共产主义世界的许多领导人不同，他不认为有必要先成为一个理论家才能担当最高职位；然而，中共14大“邓小平理论”的说法旨在说明“实验主义”恰恰正是最深刻的“理论”。</p></blockquote>
-<p>所以说，中国政府对于试点、社会调查的热衷，与其一直坚持以杜威变体的“邓小平理论”为指导密切相关。但是，就如同政策的推行需要顶层设计和基层认同两个步骤的同时推动一样，“坚持实践为检验真理的唯一标准”之所以从一种思想理论变成一种意识形态，除了有来自决策层对于社会现实的精准认识外，普遍中国民众对于“实验主义”理念的普遍认同。也就是说，民众对于试点、社会调查能展现社会真相的强烈认同，才是“邓小平理论”能深入人心的关键原因。</p>
-<p>为什么中国民众对于“实验主义”如此认同？或者说，中国对于“实验主义”认同的土壤和传统是如何建立起来的？对于这个问题，我们需要追溯到自20世纪初开启的中国民众对于“真相”、“事实”、“真理”的狂热以及背后呈现的现代化转型过程里中国民众意识形态缺位的现象。</p>
-<p><strong>3<br>
-中国民众的“较真”从何而来：“赛先生”的话语霸权</strong></p>
-<p>早在20世纪初，中国的不同群体，从知识分子到普通民众，在面对国家从旧有的封建体制到现代的民主共和制转型时，就已经产生过非常严重的焦虑；<strong>这种焦虑主要源自于中国大众普遍对于当时社会缺乏科学和客观认知的担忧。</strong>当西方逻辑更为严密的一整套科学理念被引入中国后，其相对于中国传统社会学问在认识社会上的优势，让许多中国学者开始反思自身文化是否缺乏“求真”的土壤。这种反思，逐步变成了一种中国知识分子对于自身文化的贬低、压抑甚至反感。</p>
-<p>比如民国时期著名社会学家李景汉就曾表述过因为国家缺乏对社会现实“科学的、数据的”描述而感到羞愧：</p>
-<blockquote><p>我在美国上学的时候，有一天，当导师询问不同国家的男女人口比例时，我突然发现中国没法拿出这样的数据。也因此，我只能回答说我对此并不了解。后来几乎每次当导师问我要中国社会的数据时，我都会害怕担心得背心都流汗。这种状况真的让我对我的国家感到羞愧不已。</p></blockquote>
-<p>如上文所言，这种自我羞愧的“被唤醒”，反映出中国对社会的传统认知论体系破灭后，新的认知论未形成时的意识形态缺位。而新认知论，尤其是西方“实验主义”理论对于中国传统思维的取代过程，也就是中国人对于“社会真实”狂热追求的过程，受到了社会达尔文主义和进步观念影响甚深，所以本质上存在某种话语霸权的现象。</p>
-<p>著名历史学家林东先生，在描述这种中国民众对传统文化的坚守转变为对科学和求真的狂热过程时，专门提到了这种隐藏的话语霸权现象：</p>
-<blockquote><p>学术界对于“社会”一词的翻译过程，本身就暗含着某种不对等和偏见，而正是这种不对等，才使得新的“科学认知体系”得以取代“传统认知体系”，使得中国民众认知到“科学认知”的重要性和自身“求真”土壤的“缺乏”。</p></blockquote>
-<p>以“社会”的翻译为例。社会一词“society”，原意为“人群的聚集”，更接近于“会”，即assemblage，gathering或者association。在1872年，当美国传教士Justus Doolittle第一次翻译society时，他便对应翻译为“会”，并没有太多外延。甚至10年后，清末著名思想家黄遵宪再次翻译society时，他甚至借用了日语“しゃかい”的含义，把其翻译为“仪式和习俗”。显然，此时的“社会”一词，并没有受到社会达尔文主义的影响，不带有现代意义上“社会”的含义。</p>
-<p>真正把“society”和当代含义下的“社会”关联起来，要来自于20世纪初。经过两个步骤，人们普遍接受了关于中国需要存在“现代社会”，即具备真实性、客观性和科学性的有机、理性集体的观点，也因此，焦虑和认同才得以建立起来。</p>
-<p>这两个步骤分为：</p>
-<p>1<br>
-强调差异、二元对立<br>
-到了19世纪末，中国当时的知识分子代表，严复、梁启超、康有为等一批受到较为深刻社会达尔文主义影响的学者，开始尝试将社会的一种更为“西式”的定义，即“the science of group strength”，这种翻译和上述翻译最大的区别，<strong>在于其尤其强调了一种科学性，在中国传统社会所不存在的科学性；</strong>也因此，当学者们将这种带有西式外延的翻译词汇放置在中国种，便很容易发现，中国的传统集体，根本不存在科学、理性以及现代的特点，而因此，中国的“社群”和西方的社会之间在这方面的差异便被学者们夸大叙述，甚至两者间本应该存在的相似性，也因此被忽视甚至抹杀。</p>
-<p>2<br>
-取代性表述：前者为何更加优越？<br>
-随后，更多的学者开始将社会翻译成“the organic group”，一种“有机的群体”。这种“有机”将上述的科学性具体描述后，西方社会的科学性拥有了标准化、量化、具象化的可能，变得不再空洞。</p>
-<p>在强调完这种区别于中国传统社会的差异性后，这些受到进步思维影响的学者，自然会要求某种意义的“社会取代”（social replacement）。他们将理性、客观、科学这些褒义词放置于西方社会的同时，便暗示其应为中国“社会”所应达成的唯一目标和理想，取代的表述因而产生。</p>
-<p>可社会发展的前进道路永远都不会是唯一和简单线性的。但受到进步观念影响后，这种单一线性思维在学者的构想中就建立起来。由此，他们开始对自己的社会存在的“原罪性”不足便焦虑万分，似乎中国传统社会不存在“organic group”是某种罪恶一般。而在那个时候，他们从来不回去考虑，这种标榜“科学”、“理性”的公共空间，是否真切适用于中国。</p>
-<p>由于将中国社会缺乏的不少要素看成<strong>“应该有却没有”</strong>，不少中国学者便产生了自卑的情绪；这些最早感受到“创伤”的知识分子们，因此对于更为基层的普通民众产生了所谓的“愚昧”认识：他们坚信自己所感知到的“西方公共空间”才是真正的进步方向，而对于民众，他们高高在上和自视甚高的批评，而不是换位思考的理解，引发了相当严重的言语暴力和话语霸权。</p>
-<p>这种暴力有时候会化为具体的行动。比如，晏阳初在湖南长沙推行所谓的“乡村建设”运动时，便遇到了非常强大的，来自于民众的阻碍。长沙人民不愿意接受晏阳初将中国人视为“贫、愚、弱、私”的观点，极端抵制着晏阳初的运动。最终，晏阳初必须借助来自湖南政府的军事力量，封锁言论，才最终完成了他理念的传播。（注：选自《晏阳初全集》）</p>
-<p>类似的“恐吓”现象和洗脑在当时十分普遍。这些建设运动推行者先入为主地将民众视为“低人一等”，并用一种近乎威胁的方式使得自己的观点在民众思维里内化，使得他们真的相信自己就是“东亚病夫”，需要得到来自西方的拯救。比如，<strong>许多民众在乡村建设运动开始时纷纷发表言论自我检讨甚至自我贬低，以求获得拯救。</strong>可是，在目前的现代性话语体系中，这些言语暴力却被完全压抑和忽略了。</p>
-<p>经过了这两个步骤，人们普遍相信自己的国家应该存在类似西方的“有机社会”，公共空间；只有这样，国家才能富强，进步和在世界上获得认同。由此，这种对于认知社会的科学理念，尤其是当时胡适所不断推崇的“实验主义”，通过新文化运动的推动，开始被广泛认同。30年代兴起的所谓乡村建设运动，包括共和国时期的一系列社会调查，都不过是这种思维的持续开展而已。也正是民众通过一些“被洗脑”拥有的这种思维土壤，使得改革开放和“实验主义”能推行至今。</p>
-<p><strong>4<br>
-实验主义的迷信和危机：我们需要警惕什么？</strong></p>
-<p>改革开放的“邓小平理论”之所以能成为意识形态，如上文所说，除了顶层设计的科学外，还要有基层的认同和主动参与。就像福柯的“统治术”（governmentality）概念所描述一般，真正的权力和规范，既要有上层对于下层的治理，更有广泛的民众自我治理。由此，只有中国民众对于“邓小平理论”理念的自我遵循和执行，才会将“试点”、“社会调查”这些追求“社会真实”的方法神化，而忽略其存在的种种本质缺陷。</p>
-<p>改革开放已进入深水区，本质上其实是理念上需要进行变更，不仅是国家执政理念上，过分强调“摸着石头过河”、“黑猫白猫，抓到耗子的就是好猫”可能会阻碍进一步的改革深入，民众对于“唯一标准”的过度迷信，弱化独立思考、非功利行为的力量，可能会成为改革的阻碍力量。因此，在社会变革到了关键阶段的今日，除了顶层设计外，我们也应该成为社会改革的主动参与者，以我们的思维更新，来促进整体社会的风气和思想改良。</p>
-<p>1</p>
-<p>所谓“实践是检验真理的唯一标准”，也许对于个体而言，只是一种理论和思维方式；可以作为参考，但不能将这种思维方式完全神化，甚至固化为自身的思维方式，从而阻碍独立思考和多元思考的可能。</p>
-<p>2</p>
-<p>面对更为宏大的话题时，要时常警惕科学、客观思维可能存在的霸权表达，这个社会的解释不可能基于一个完全的理性人假设，也不能基于一个完全感性人假设，经济学的某种排他和人文科学的某种排他思维需要警惕，而科学、人文的表述，其实都可以结合运用。</p>
-<p>3</p>
-<p>最为重要的是，“理性和非理性”本身的二元对立本身就需要进行质疑，人的复杂性不可能以这样的划分就能解释清楚的；由此，理性和感性，本身就是人的有机组成部分，应该是互相关联的，无论是人生观，还是具体的社会实践与学术实践，都要记得，差异不等于对立，尊重多元，强调自主，比取代和统治思维更加合理。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E5%B0%A4%E5%85%B6%E7%83%AD%E8%A1%B7%E4%BA%8E%E9%80%9A%E8%BF%87%E8%AF%95%E7%82%B9%E6%9D%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E8%AF%95%E7%82%B9/?category=18271" rel="tag">改革试点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%9D%BE%E6%9E%97/?category=18271" rel="tag">杨松林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">经济改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%95%E7%82%B9/?category=18271" rel="tag">试点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3%E7%90%86%E8%AE%BA/?category=18271" rel="tag">邓小平理论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -846,7 +822,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -856,5 +832,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

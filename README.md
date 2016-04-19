@@ -21,9 +21,122 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%94%8B%E8%AF%84-%E5%B8%B8%E5%B7%9E%E7%BB%88%E4%BA%8E%E6%8A%8A%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5%E5%81%9A%E6%88%90%E4%BA%86%E8%8A%B1%E5%9C%88/" target="cdt-mirror">锋评 | 常州终于把祖国的花朵做成了花圈</a>
+</h2>
+<p><p>文/郁风</p>
+<p>若不是央视4月17号的一则报道，常州外国语学校的近500名学生还将在病痛中继续挣扎，而连同他们的家长在内，还将伴随着有冤无处伸、被噤声被当做“敌人”对待的愤懑与绝望。</p>
+<p>根据报道，常州外国语学校自从去年九月搬迁到新址以来，陆续有493名学生出现皮炎、湿疹、支气管炎、血液指标异常、白细胞减少等异常症状，个别学生还被查出患有淋巴癌及白血病。而该学校新址的附近，正是三家化工厂，而该校区的空气及地下水均检出了大量剧毒污染物。其中污染最重的是氯苯，它在地下水和土壤中的浓度甚至达到了合格标准的9万4799倍和7万8899倍！</p>
+<p>央视曝光后，常州地方政府迅速作出回应，表示对环境污染“零容忍”，将本着对师生健康高度负责的态度，迅速认真调查核实并依法处置，对存在的问题绝不姑息。</p>
+<p>看着这些似曾相识的文字，你是不是又一次被感动到了？先别急着擦眼泪，我们可以看一下，常州地方官员之前是如何对“师生健康高度负责”的：</p>
+<p>随着大量学生接二连三的身体出现问题，该校自今年1月12日开始停课，后转入省常中校园上课。YouTube 上有视频显示，1月15日“逾千学生家长”在常州市政府门前集会抗议，要求学校搬迁。</p>
+<p>1月13日，澎湃新闻曾对该校学生存在多种身体不良反应，及该校附近化工污染隐患进行报导。</p>
+<p>1月20日，当地官媒常州日报回应称，“1月6日至今，与土壤修复相关的关键空气质量指标的检测结果均符合国家标准，处于正常水平”；报导还称，“绝大多数学生检查指标正常。”</p>
+<p>2月29日，《财新周刊》发表题为《名校与“毒地”为邻》的文章，揭露与常州外国语学校一路之隔的农药厂旧址“被证实为污染土地，且地下疑有危险废物。”</p>
+<p>3月21日，常州市环保局官方微博发布消息称，“3月18日夜间，市环保部门组织对常州外国语学校周边环境开展巡查巡测, 常州外国语学校周边环境无异味。”</p>
+<p>常州外国语学校网站4月15日发表声明称，“由家长和学校分别委托”的上海实朴检测公司和澳实检测公司对该校土壤、地下水和空气质量进行检测，“土壤及地下水检测结果满足学校环境质量要求”。</p>
+<p>直到4月17日央视新闻发布专题报导，此事才在网络上引起更大范围的广泛关注。当地政府急忙祭出了“高度负责”“认真调查”“绝不姑息”的公关稿。</p>
+<p>当我们知晓了之前的一系列闹剧，现在常州的回应是显的那么滑稽可笑，数百学生受到病魔的折磨，不幸罹患癌症的学生更是挣扎在生与死的边缘。在这个时候常州政府再跑出来做一副“无比关切”状，仿佛事先残忍的杀了人，之后再在那人的葬礼上痛哭流涕的送上大幅花圈，更具讽刺意味的是，这些花圈还是用那些“祖国的花朵”做的。</p>
+<p>更可怕的是，根据当地网友的爆料，在家长们团结起来提出合理诉求的时候，地方政府派出了特警弹压，在政府部门任职的家长被以开除公职相要挟，更耸人听闻的是，为了隐瞒真相，当地医院被下令拒绝接收该学校的学生检查身体。更有坊间传闻，此事之所以被央视曝光，是因为有家长凭借关系上报上层的缘故。</p>
+<p>我们很难不去做恶意的揣测：倘若此事没有被央视曝光会是怎么样？而全国又有多少类似的案例得不到曝光，而受害者只能选择默默的承受苦难呢？</p>
+<p>从这件事可以看出，常州地方官员之所以一而再再而三的隐瞒真相，封锁消息，无非是害怕此事一旦传出去，定然会遭到上级的问责，自己头上的乌纱帽将不保，为了一己私利，政府机构，地方媒体等各级部门完全沦为了替个人背书、欺上瞒下的私器。而数百名学生连同他们的家长则成了被肆意牺牲的羔羊。</p>
+<p>有人说常州政府是装睡，但从这一系列事件来看，常州政府岂止是装睡，它完全是清醒的，而且清醒的把一个地方政府所能发挥的暴戾与专制发挥到了极致。有人厉声斥责常州官员的自私自利，把民众生命安全视若无物。但是，换了新的官员，就能保证他们不自私不自利吗？又或者下一届官员是个清官，那再下届呢？下下下届呢？</p>
+<p>再来看学生家长们，常州外国语学校是当地的名牌中学，师资雄厚学费不菲，能送子女上这所学校的，不是大富人家也是中产以上的家庭。这些家长们平日里不见得在城管打人时会停下脚步，不见得在偶然翻到强拆新闻时会皱一下眉，然而，有这样经济基础的家庭，在强权面前依旧成了牺牲品。这让我想起了刚刚落马的“河北王”张越，无论是身家数亿的富商，还是位居一方的地方官员，亦或普通民警、冤案受害者，无不是张越一手掌握的河北政法系统刀俎上的鱼肉。常州家长们的遭遇也正应了一句话：你不去尝试改变不正常的环境，不正常的环境就会把你改造成不正常的人。这种不正常包括身体上的不正常和心理上的不正常。身体上的不正常在受害学生身上已经得到了验证，而心理上的不正常则表现为面对强权与不公，选择的是逆来顺受唯唯诺诺视而不见，甚至主动去为其辩护，等到自己的身体受到伤害，已经不正常的精神反而会令自己对抵抗更加无能为力。</p>
+<p>我这么说学生家长可能有失偏颇，他们也是受害者，而且他们也曾站起来维护自己的合法权益过，一次次媒体报道的背后也有他们的身影。但是，在学生家长们为自己的孩子奔走呼告的时候，又有多少人在冷眼旁观？又有多少人在事不关己高高挂起？又有多少人在嘲笑家长们是“鸡蛋碰石头”？</p>
+<p>常州外国语学校的的百科介绍上，“办学追求”一栏赫然写道：专注于有生命力的教育，让每个生命尽情绽放。在这个“梦开始的地方”，在这片毒土地上，一切显得那么滑稽，一切又显得那么可笑。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%94%8B%E8%AF%84-%E5%B8%B8%E5%B7%9E%E7%BB%88%E4%BA%8E%E6%8A%8A%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5%E5%81%9A%E6%88%90%E4%BA%86%E8%8A%B1%E5%9C%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E6%BA%90/?category=18271" rel="tag">污染源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E7%89%A9/?category=18271" rel="tag">污染物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E8%AF%84/?category=18271" rel="tag">环评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E6%80%8E%E6%A0%B7%E8%8E%B7%E5%BE%97%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9B%9E%E4%BF%A1/" target="cdt-mirror">大象公会 | 怎样获得领导人回信</a>
+</h2>
+<p><p><strong>给中南海写什么最易获得回信？普京、奥巴马、潘基文，谁更可能亲笔复信？给哪国元首写信有望获赠相机、小狗，甚至豪华双飞全家半月出国游？什么样的国家元首在其回信前就可推知内容？</strong></p>
+<p>文｜南戈 汪伟谋</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-7.jpg?resize=640%2C275" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-7.jpg?resize=300%2C129 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-7.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"></p>
+<p>假设任意一个五角星，其五个三角形外接圆交于五点。</p>
+<p>求证：这五点共圆。</p>
+<p>这是 2000 年 12 月，江泽民视察澳门时，给当地中学生出的一道数学证明题。一周后，澳门濠江中学寄去四名老师用四种方法给出的解答，不到两天便收到江亲笔回信。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2-1.jpg?resize=600%2C303" alt="640.2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2-1.jpg?resize=300%2C151 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2-1.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>江泽民给濠江师生的回信（左）与濠江中学纪念浮雕（右）。1949 年 10 月 1 日，濠江中学校长杜岚带领师生升起澳门第一面五星红旗。60年来，学校坚持爱国爱澳的办学宗旨，为国家培养了无数优秀人才。</p></div>
+<p>这次往来信件的邮递员是中联办和澳门特首何厚铧。普通人给总书记写信，想获得这一级别的加持几无可能。</p>
+<p>怎样获得中外首脑的回信？如果你从小热爱和平，献身环保，立志与各国领袖谈笑风扔，请认真阅读本文并参照执行。也许下一个被领袖问候的就是你。</p>
+<p>一字千金的中南海回信</p>
+<p>获得领导人回信的好处显而易见——扮演和珅的著名演员王刚上小学时因为一封中办回信，从调皮捣蛋的后进生变为全校学生偶像，甚至有老师为他专门排演话剧；湖北贫困小学生王孝利获温家宝回信后，不但全家纳入低保，连在其 3 岁时出走的母亲也突然回家。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3-1.jpg?resize=500%2C363" alt="640.3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3-1.jpg?resize=300%2C218 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3-1.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>不过，成为这种幸运儿的概率不高于双色球中奖——据国家信访局数据，每年寄给主席、总理的信件约 40 万封，而目前公开回信最多的温家宝，担任总理十年间平均每年回信也不超过 3 封。</p>
+<p>脱颖而出虽然很难，但把握以下规律会增大中奖可能。</p>
+<p>首先要把握住时代脉搏。如果在 1950 年代初给毛泽东写信，获得亲笔回信的概率比现在高得多。社会主义国家特有的信访制度，一开始主要不是为了回应民众诉求或维护社会稳定，更倾向于发动群众作政治动员或普及宣传党的政策。</p>
+<p>因此，不但领导人回信的积极性高，上访群众的待遇也与现在有天壤之别——由于当时负责信访工作的国务院秘书厅对信访群众包吃包住，还报销往返车票，甚至出现了大量专门骗吃骗住骗车票的访民。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4-1.jpg?resize=600%2C323" alt="640.4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4-1.jpg?resize=300%2C162 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4-1.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>左：时任燃料工业部部长陈郁转交工人给毛的信，毛亲笔回信。右：毛给湖南工人戴毓本的回信。1950 年初，主席每天都会亲自阅复群众来信，最高纪录 1 天回复 18 封</p></div>
+<p>只要吃透运动精神，善于结合实际活学活用，即便收不到领导人回信，也有可能上主旋律媒体风光一回——1949 年后的历次政治运动，如三反五反、整风、“四清”、文革中，人民日报都在头版大量刊登人民来信。据学者冯仕政统计，1980 年之前人民日报刊登的人民来信，虽篇数较少，但头版率明显高于之后。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5-1.jpg?resize=600%2C355" alt="▍《人民日报》1952-2009 年关于信访的报道（来源：冯仕政《国家政权建设与新中国信访制度的形成及演变》）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5-1.jpg?resize=300%2C178 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5-1.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>▍《人民日报》1952-2009 年关于信访的报道（来源：冯仕政《国家政权建设与新中国信访制度的形成及演变》）</p></div>
+<p>不过，如果政治天资不够，不能领会精神实质，写信还需慎重。例如 1957 年整风运动之初鼓励人民写信，但事情变化过快，大批响应整风运动号召积极信访的群众迅速变为“反右”对象，直接被划成右派。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.6.jpg?resize=600%2C518" alt="《给敬爱的毛主席写信》，陈丹青 / 画" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.6.jpg?resize=300%2C259 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.6.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>《给敬爱的毛主席写信》，陈丹青 / 画</p></div>
+<p>1978 年之前，写信虽有政治风险，但由于毛泽东是在中共居于超然地位的领袖，其个人行为也保留了一定的随意度，给知青家长寄慰问金，和公社干部讨论哲学问题都是不少毛粉津津乐道的美谈。</p>
+<p>文革结束后，中南海出现群众来信最高峰，但在集体领导确立后，每个领导人的职责权能都有了比较清晰的边界，个人发挥的空间远不如毛，对于群众要求平反、纠错的来信也大都批转相关部门办理，以个人名义回信的概率极低，如邓小平执政后就极少回复群众来信。</p>
+<p>集体领导延续至今，申告冤屈、建言献策的信件极少得到首长回复。根据中南海处理流程，这类“上书式”信件不会送呈领导本人。平民寄给领导人的信件先经中南海邮局把关，涉法涉诉的转给相关部门。律师、学者等高级知识分子则知道，提出政策建议应致信国务院或全国人大常委会——这些才是制度框架下处理相关事务的机构，而非领袖个人。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.7.jpg?resize=600%2C256" alt="左：2000 年，湖北省监利县棋盘乡党委书记李昌平上书朱镕基，反应“三农”问题，引发中央及舆论广泛关注。右：2015 年 3 月，桔子水晶酒店集团 CEO 吴海在自己的微信公众号上发表致总理的公开信，同年五月，国务院办公厅邀其作为公民代表，参会讨论政府简政放权" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.7.jpg?resize=300%2C128 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.7.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>左：2000 年，湖北省监利县棋盘乡党委书记李昌平上书朱镕基，反应“三农”问题，引发中央及舆论广泛关注。右：2015 年 3 月，桔子水晶酒店集团 CEO 吴海在自己的微信公众号上发表致总理的公开信，同年五月，国务院办公厅邀其作为公民代表，参会讨论政府简政放权</p></div>
+<p>上书不告御状，写什么才能引起首长兴趣？</p>
+<p>答案很简单，感谢信和决心书。据公开资料统计，江泽民担任总书记后至今，历任领导人的公开回信一大半都被学生和农民获得。这两类群体被选中与时代背景密切相关。忠党爱国，感恩政府，是主要去信内容。</p>
+<p>学生首次受到中南海密集亲切的关怀是在 1989 年底。刚上任的江总书记先是回信赞扬积极要求入党的蒙古族大学生，又觉得“书不尽意，还是和大家见面谈一次为好”，邀请 13 位给自己写信的北大学生到中南海座谈；甚至伏案亲书 6 千字，给美国大学生回信，耐心普及中国国情。</p>
+<p>不同于毛时代，此时领导人回信已脱离出信访范畴，担负了更多的宣传功能，多以公开信形式在国家级媒体全文刊发，在三八、五一、五四等节日出现频率较高。被选中的信格式也渐趋一致，广大中南海爱好者有了可以效法的模板。</p>
+<p>书信开头通常从小事写起，用一只包子、一首校歌或一次视察，勾起领导人温馨回忆，中间谈论自己在党和政府的关照下如何成长进步，结尾则大多上升高度，归到牺牲奉献，党的政策亚克西或民族团结的大义上来。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.8.jpg?resize=400%2C279" alt="2013 年 5 月 31 日，给胡锦涛写信的《中华小记者》杂志的小记者在阅读回信" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.8.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.8.jpg?w=400 400w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"><p>2013 年 5 月 31 日，给胡锦涛写信的《中华小记者》杂志的小记者在阅读回信</p></div>
+<p>以下是不同人群写信的几种范本：</p>
+<p>泰国女生询问北大学长李克强——“我喜欢校内松林早餐店的生煎包子和南瓜粥，不知您喜欢吗？”</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.9.jpg?resize=600%2C341" alt="给李克强总理写信的泰国留学生李慧敏与白云莹" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.9.jpg?resize=300%2C171 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.9.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>给李克强总理写信的泰国留学生李慧敏与白云莹</p></div>
+<p>宁夏农民——“您（李克强）到上青石村视察，去过我家，还和我照了相……这几年日子有了很大变化，就想着给您写封信，汇报一下我和乡亲们这几年的新生活。”</p>
+<p>聋哑儿童——“您（胡锦涛）在中国共产党第十七次全国代表大会上，做了激动人心的报告，虽然有些地方我不是太懂，但我知道这5年是我最快乐的日子。”</p>
+<p>清华国防生——“在我们就要走出清华园，踏上从军报国之路时，特向您（江泽民）汇报 4 年来的成长历程……我们不断培养自己献身国防的坚定信念，43 名同学光荣地加入了中国共产党。”（清华大学首届国防定向班 51 名毕业生联名信）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.10.jpg?resize=417%2C439" alt="640.10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.10.jpg?resize=285%2C300 285w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.10.jpg?w=417 417w" sizes="(max-width: 417px) 100vw, 417px" data-recalc-dims="1"><br>
+不值钱的西方首脑回信</p>
+<p>与一字千金的中南海回信相比，西方国家首脑的回信大都不太值钱——在美、英、法等国，民众来信回复率达 95%以上。收到领导人的回信稀松平常，也很少有媒体感激涕零热情传颂。</p>
+<p>官方将回应民意视作义务，对数量巨大的公民来信已发展出程式化回复规范。涉法涉诉、建言献策等在中国平民信件中占绝大部分的内容，也由于有多样、畅通的民意表达渠道，不太需要用给领导人写信的方式表达。</p>
+<p>美国总统奥巴马每天阅信 10 封，亲笔回复 3 到 4 封，其余由工作人员根据统一格式，针对来信内容相应填写，末尾署总统复印签名。负责处理总统信件的部门成立于 1897 年，时任总统威廉·麦金利平均每天收到 100 封信。今天，每周有 6 万 5 千封纸信、70 万封邮件涌向白宫，它们都会得到回复。</p>
+<p>通常，市民的涉法涉诉需求会找当地议员、行政机构或司法机构；市政建议给市民服务办公室打电话，48 小时内就会获得处理回复；还可以在白宫官网发起请愿，大到医改、选举，小到豆花应该是咸还是甜，只要签名请愿人数超过 10 万，白宫就必须予以公开回应。</p>
+<p>不伸冤、不汇报心得，美国人给总统写什么？</p>
+<p>与动辄花费数月写信的中国人不同，美国人给总统写信非常随意，诉求也五花八门。据白宫回信部门创立人 Ira R.T. Smith 先生回忆，曾有参战老兵写信请总统帮他找一只遗失在芝加哥和加利福尼亚之间某处的行李箱（工作人员帮他找到了）；一位男士25年坚持给总统写信，要求采用他为棒球比赛制定的新式计分法；还有人给总统寄小狼、老鹰、角蜥和刻有《古兰经》引文的大米。很多来信甚至没有地址，只有总统的画像。</p>
+<p>2009 年 12 月，俄亥俄州的一名女士娜托玛·康菲尔德给奥巴马写信，叙述自己失去健康保险后治疗白血病所遭遇的困难。这封信在国会通过《患者保护与平价医疗法案》时起到关键作用。法案通过后，这封信被装裱起来，挂在奥巴马办公室门口。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8211.jpg?resize=600%2C400" alt="640。11" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。11.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。11.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>康菲尔德的信被挂在奥巴马办公室门口</p></div>
+<p>英国女王伊丽莎白二世每天都会阅读平民来信，并向专人口授回信。在英国，很多孩子给女王写信。他们明显没有其中国同龄人成熟，极少在信中谈论“英国梦”之类宏大的政治主题。</p>
+<p>小男孩儿因祖父辞世非常伤心，会给女王写信；三名小学生在意大利度过愉快暑假，也会给女王寄明信片。这些信简短随意，皇室都不以为忤。甚至连美国人请求女王“收复美国”的无厘头信件，皇室亦有谦谨回复。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8212.jpg?resize=600%2C398" alt="640。12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。12.jpg?resize=300%2C199 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。12.jpg?w=610 610w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014 年，收到女王回信的三个孩子</p></div>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8213.jpg?resize=600%2C338" alt="640。13" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。13.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。13.jpg?w=624 624w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>英国政客杰里米·科尔宾甚至主动给上千名民众群发邮件，询问他们是否有想问首相的问题</p></div>
+<p>法国总统每天阅读 1 至 2 封公民来信，总统府通信局对所有来信全部用电脑登记，每两个月向总统报送一份公众来信及处理情况的书面综合报告。公民来信基本做到件件回复。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8214.jpg?resize=600%2C356" alt="法国总统奥朗德给南京大学教授刘成富主动写信，感谢刘教授翻译了自己的著作" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。14.jpg?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。14.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>法国总统奥朗德给南京大学教授刘成富主动写信，感谢刘教授翻译了自己的著作</p></div>
+<p><strong>与各国领袖谈笑风扔</strong></p>
+<p>小学课文《一个中国孩子的呼声》，是中国学生致信国外政要的最早范本。这篇写给联合国秘书长呼吁世界和平的文章，激发了一批批中国学生的灵感。经验使他们相信，唯有呼吁和平、环保，或邀请领袖前来视察，才是适宜的信件内容。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8215.jpg?resize=633%2C203" alt="640。15" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。15.jpg?resize=300%2C96 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。15.jpg?w=633 633w" sizes="(max-width: 633px) 100vw, 633px" data-recalc-dims="1"><p>左：北京高中生白雪为北京奥运会呼吁环保致信80国元首。中：湖南 9 岁学生致信安南，希望其为家乡旅游节题写“和”字。右：南京农民李龙祥坚持 13 年，给 96 国政要写信。其实早在 1978 年，旅顺下岗职工王君奇就曾给卡斯特罗写信，收到古巴驻华使馆转来的卡斯特罗近照及古巴风景图片。此后，他准时收看时事新闻，抄录笔记数本，收集了一批外国首脑的有关资料。到 1999 年，共收到 58 位领袖的 63 封来信，包括朝鲜和利比的“大礼包”</p></div>
+<p>外国人太好说话，不少成年人压抑了半辈子的议政热情也在他们身上得到发泄。湖南省华夏廉洁文化研究会会长傅学俭在 80 岁生日之际，以《我的梦·中国梦·世界和平梦》为题，给潘基文寄去 3000 字长信，对世界和平提出了 5 点建议；成都市民为墨西哥湾漏油忧虑，致信奥巴马提出堵漏方案。他们都各自收到了联合国和白宫的回信。</p>
+<p>民主制度对民众的有求必应，也为中国政府带来了尴尬——2012 年，一名在台湾交换的大陆学生给“总统府”写信，索要马英九签名玉照，不久即获回信。消息被国内媒体报道后，引发了一股大陆人士给马英九写信索照的热潮，幸好，这些回复邮件很快都被及时拦截了。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8216.jpg?resize=600%2C448" alt="640。16" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。16.jpg?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。16.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>与爱跟潘基文畅谈世界局势的中国人不同，韩国爱狗人士对标准化的官方回应非但不会奔走相告，反而继续致信潘基文，要求其为禁止韩国人吃猫肉狗肉贡献力量，联合国公共信息部回复称：秘书长无能为力，找韩国公益组织，或向韩国政府反映当更为有效。</p>
+<p>爱狗人士震怒，在网站 koreandogs.org 上呼吁各国友人继续给世界上最有权势的韩国人打电话、发邮件、写纸信，直到潘基文采取行动为止。</p>
+<p>谴责官样文章的他们或许会怀念十月革命后，人民政权刚刚成立的年代。那时，连美国记者都羡慕列宁拥有“世界上最大的接待室”。革命导师不满足于仅仅与公民书信往来，平均每天还要亲自接待 2 至 3 名群众。甚至有农民代表跑来威胁列宁“再来征粮我们会揪着衣领把你们扔出去”。</p>
+<p>列宁特别要求每个苏维埃机关都要公布接待群众来访的日期和时间，接待室必须不要任何通行证件都能自由出入。这种过分理想的去官僚化行为，会严重阻滞最高层的决策效率，列宁之后就无法再维持。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8217.jpg?resize=600%2C627" alt="640。17" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。17.jpg?resize=287%2C300 287w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。17.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>《列宁会见来访农民》，瓦伦丁·谢罗夫 / 画</p></div>
+<p>同为伟大领袖，普京借助电视机超越了列宁，把整个俄罗斯都变成了自己的接待室。自 2001 年起，普京举行一年一度、每次长达 4 小时的“直播连线”，在电视上直播总统回答人民提问。</p>
+<p>转型后的俄罗斯政府也仿照西方国家，在克里姆林宫官网上明示总统的联系方式，包括电话、电邮和寄信地址。克里姆林宫特别提醒：根据俄罗斯联邦宪法，总统无权干预涉法涉诉的上书，那是司法机构的职能范围。</p>
+<p>为帮助前苏联人民适应新制度，周二至周六中央政府仍会接待来访人士，并为其提供免费的法律咨询。</p>
+<p>韩国爱狗人士如果知道给普京写信有望获赠小狗，或许会感动不已。今年 3 月，给普京写信要吉娃娃的克里米亚女孩，如愿从当地政府官员手中接过了总统的礼物。这家人原为乌克兰籍，正在申请俄罗斯护照。贴心的普京总统还为小狗办理了“俄罗斯宠物狗俱乐部会员证”。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8218.jpg?resize=600%2C713" alt="给普京写信要狗的小女孩儿们纷纷收到了“礼物”" data-recalc-dims="1"><p>给普京写信要狗的小女孩儿们纷纷收到了“礼物”</p></div>
+<p>但在 2000 年向普京索要一台相机的女中学生就没那么幸运。虽然安娜·普罗沃若娃最终获得了总统赠予的索尼相机，但因未将信中的“您”首字母大写，她被当地教育部门取消了优秀学生的银质奖章。</p>
+<p>普京并非俄国史上最慷慨的领导人。1982 年，美国 10 岁小女孩儿萨曼莎·史密斯给时任苏联总书记安德罗波夫写信，询问“您会否发动战争？”，获得总书记长达一页半的回信。总书记还邀请萨曼莎全家到苏联玩了半个月。</p>
+<p>与西方相比，不单是俄罗斯，朝鲜和利比亚领导人也大方得多。迄今为止，所有给朝鲜领袖写信的外国人，无一例外都获得了一本记录朝鲜社会主义建设伟大成就的精美画册。而给卡扎菲上校写信，不但能获得他的大幅照片，还可收到四本理论著作，堪称超级大礼包，可惜的是，爱写信的中国小学生已经永远失去了这位慷慨的长者。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8219.jpg?resize=600%2C427" alt="640。19" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。19.jpg?resize=300%2C213 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。19.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E6%80%8E%E6%A0%B7%E8%8E%B7%E5%BE%97%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9B%9E%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A/?category=18271" rel="tag">大象公会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%86%99%E4%BF%A1/?category=18271" rel="tag">领导人写信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BF%A1%E4%BB%B6/?category=18271" rel="tag">领导信件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%BC%81%E4%B8%9A%E4%BF%83%E9%94%80/" target="cdt-mirror">【河蟹档案】日本地震，企业促销</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -60,7 +173,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%BA%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">富人移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">投资移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">精英移民</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E7%BB%B4%E6%9D%83%E9%81%AD%E5%BD%93%E5%B1%80%E5%A8%81%E8%83%81/" target="cdt-mirror">自由亚洲 | 疫苗受害者家长维权遭当局威胁</a>
 </h2>
@@ -719,47 +832,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/" target="cdt-mirror">磐石小姐：由Pekojima事件及P師在悉尼大學的遭遇想到的</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1858587740/Dr5tkEMtC" target="_blank">@磐石小姐</a>：由Pekojima事件以及P師在悉尼大學的遭遇，想到了我自己身上發生過的那件事。我一直沒有提過，藉著這個機會，表達一下我深深的感激。</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg" rel="attachment wp-att-435255"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg?resize=450%2C800" alt="01" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/01.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg" rel="attachment wp-att-435256"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg?resize=450%2C800" alt="02" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/02.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg" rel="attachment wp-att-435257"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg?resize=450%2C800" alt="03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/03.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg" rel="attachment wp-att-435258"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg?resize=450%2C800" alt="04" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/04.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg" rel="attachment wp-att-435259"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg?resize=450%2C800" alt="05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/05.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="http://weibo.com/u/5306343169" target="_blank">@淵流青年</a>：</p>
-<blockquote><p>我想直接貼電郵，不過想想還是直接解釋一下比較好吧。</p>
-<p>被舉報的言論，見諸簽名網站裡的截圖，最聳動的無非是“豚”。豚到底有哪裡辱華了？你是中國人，你不支持政府，你會自我標榜是豚麼？肯定不會。他的言論，由始至終都是堅定的指向盲目愛國沒有分辨能力，政府說啥就是啥的小粉紅。然而小粉紅舉報的時候故意攪渾水，把具有明顯政治意涵的用詞(留學豚）偷換成種族歧視的(chinese international pigs) 。如此下作，中人欲嘔。</p>
-<p>有人會認為這個字用得聳動偏激。是啊，確實情緒化了，泛反對圈裡的生態有多惡劣大家不是不知道吧，光這幾天，我認識的就有5個號因為公開表示支持而被續了。更別提對面可以隨意匿名舉報，隨意辱罵而不必擔心有什麼後果的。叫我們繼續視而不見，安靜平和心靜致遠，連點激動的話都不許說，excuse me? 還有沒有一點點生而為人的血性了？</p>
-<p>續就被續吧，@乱流青年 再見。</p></blockquote>
-<p><strong>【编者注】</strong>背景新闻请看微博搜索截图：<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E6%90%9C%E7%B4%A2.png" rel="attachment wp-att-435261"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%BE%AE%E5%8D%9A%E6%90%9C%E7%B4%A2.png?resize=450%2C973" alt="微博搜索" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博搜索.png?resize=474%2C1024 474w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/微博搜索.png?w=703 703w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>知名漫画家<a href="https://twitter.com/badiucao" target="_blank">巴丢草</a>在推特发起了声援吴维的<a href="https://photos.google.com/share/AF1QipMR2cVK_yJu9ir_0kf8R8RIbhteCBG7bDDEx_KNcqwoQJ7tvb7Sn-_O3TzBR9e1lw?key=MXlvbmJ3SU9ES3U5dDBkT2tkYmZ6OWlQMDhUaTZ3" target="_blank">#草泥马护照</a> 活动：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.png" rel="attachment wp-att-435262"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.png?resize=450%2C587" alt="1 草泥马护照" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?resize=230%2C300 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?resize=768%2C1003 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?resize=784%2C1024 784w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-草泥马护照.png?w=1149 1149w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.jpg" rel="attachment wp-att-435264"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.jpg?resize=500%2C723" alt="草泥马护照" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/草泥马护照.jpg?resize=768%2C1110 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/草泥马护照.jpg?resize=708%2C1024 708w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/草泥马护照.jpg?w=1544 1544w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%91%9B%E6%B0%B8%E5%96%9C%E5%9B%A0%E8%AF%84%E8%AE%BA%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">德国之声｜维权律师葛永喜因评论“巴拿马文件”被短拘</a>
-</h2>
-<p><p><strong>根据推特等网络社交媒体的消息，中国维权律师葛永喜本周五曾一度被中国警方带走，据称原因是他在社交媒体上对涉及“巴拿马文件”的中国领导人发表的讽刺性评论。最新消息显示，葛永喜目前已获释放。</strong></p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg" rel="attachment wp-att-435249"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg?resize=585%2C329" alt="0,,19162853_303,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019162853_30300.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>巴拿马文件涉及至少8名现任和前任中国政治局常委的家人</p></div>
-<p>（德国之声中文网）署名”欧彪峰”的推特用户于周五（4月15日）晨间发布了据称是律师葛永喜微信帐号的截屏。上面的文字信息显示葛永喜称”公安局突然上门，不知道什么目的，请关注。””欧彪峰”表示，有消息传出5名警察曾闯入葛永喜家中，讯问他是否在网上发了关于<a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%B9%8B%E5%AE%B6%E5%B1%9E%E8%97%8F%E5%AF%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/a-19162432">巴拿马文件</a>的内容。随后葛永喜被警方带走，其私人电话虽然能够拨通，但却无人接听。</p>
-<p>随后据包括”iY自由港”的多个推特帐户报道，葛永喜律师已经于15日晚间获释。并公布了和朋友们在佛山盐布派出所门口的合照。</p>
-<p>在名为”葛永喜律师”的推特帐户上，可以看到目前尚保留的两个与”巴拿马文件”有关的贴文。一个是三个小和尚分别捂嘴、捂眼和捂住耳朵的照片，配图文字 为：”‘巴拿马文件’之后，接下来的反腐怎么搞？”第二个推特发贴则分别用图片和文字的形式罗列了百度搜索、谷歌、维基百科以”巴拿马文件”为关键词的搜索结果页面截屏，以及中国外交部和新华社对”巴拿马文件”的相关反映和报道。</p>
-<blockquote><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg" rel="attachment wp-att-435250"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg?resize=450%2C498" alt="CgDxYOzUkAAcMpq" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg?resize=271%2C300 271w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgDxYOzUkAAcMpq.jpg?w=533 533w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p></blockquote>
-<blockquote><p>中國維權律師關注組CHRLCG<a href="https://twitter.com/chrlcg" data-scribe="element:user_link">@chrlcg</a>：【公安以“公然侮辱他人”为由对葛永喜律师传唤24小时】图为葛永喜律师在微信发布的图片</p></blockquote>
-<p><b>“摸着石头原来是过巴拿马河”</b></p>
-<p>另外据推特用户”中国维权律师关注组CHRLCG”的消息，葛永喜律师曾在个人微信帐号上转发了一个象征江泽民、习近平和邓小平赤身过河的经过后期处理的 照片，邓小平在照片上的繁体字配词为”巴拿馬的河水真的好深！”。习近平的配词是：”唔怕，我有姐夫！”，而张开大嘴的江泽民则被配以”好易浸死㗎！”的文字。据香港苹果日报4月15日报道，这是网民恶搞巴拿马文件 <a href="http://www.dw.com/zh/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%B9%8B%E5%AE%B6%E5%B1%9E%E8%97%8F%E5%AF%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA/a-19162432">涉案中国领导人</a>的照片。使用的其实是邓小平在北戴河游泳的照片，原片背景有沙滩、建筑物。邓小平的身后两人原来是他的保镖。据称葛永喜律师对图的评论是：”摸着石头原来是过巴拿马河”。</p>
-<p>推特用户”中国维权律师关注组CHRLCG”还公开了据称是佛山市公安局南海分局向葛永喜家属开具的”被传唤人家属通知书”的照片。其中显示，中国当局以”涉嫌公然侮辱他人”为由，于4月15日将葛永喜传唤到盐步派出所接受调查。</p>
-<p>葛永喜律师为广东安国律师事务所执业律师，曾代理包括 <a href="http://www.dw.com/zh/%E5%B9%BF%E5%B7%9E%E6%B0%91%E4%B8%BB%E4%B8%89%E5%89%91%E5%AE%A2%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E6%A1%88%E5%86%8D%E6%AC%A1%E5%BC%80%E5%AE%A1/a-18602879">“广州三君子”</a>、 <a href="http://www.dw.com/zh/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A84%E5%90%8D%E6%88%90%E5%91%98%E8%8E%B7%E5%88%91/a-17577185">“新公民运动”</a>在内的多起人权案件。在中国当局于2016年初 <a href="http://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E6%AD%A3%E5%BC%8F%E9%80%AE%E6%8D%95%E5%9B%9B%E5%90%8D%E5%8A%B3%E5%B7%A5%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/a-18969827">逮捕4名广东劳工维权活动人士</a>的过程中，葛永喜曾受家属委托担劳工维权人士的代理律师。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%91%9B%E6%B0%B8%E5%96%9C%E5%9B%A0%E8%AF%84%E8%AE%BA%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%91%9B%E6%B0%B8%E5%96%9C/?category=18271" rel="tag">葛永喜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -771,7 +843,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -781,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

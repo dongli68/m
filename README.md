@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E5%B8%B8%E5%B7%9E%E5%B8%82%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1%E9%80%BE%E5%8D%83%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BC%9A/" target="cdt-mirror">【CDTV】常州市外国语学校逾千学生家长集会</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/24100771920_7d59492c6c_o.jpg?resize=550%2C733" alt="24100771920_7d59492c6c_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/24100771920_7d59492c6c_o.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/24100771920_7d59492c6c_o.jpg?w=720 720w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>图片来源：微博用户@随心所欲1102948351</span></p>
+<p>视频来源：Youtube用户wickedonnaa，上传于2016年1月15日。</p>
+<p>“救救孩子！”“决不妥协！”</p>
+<p>央视曝光常外毒校园之前三个月，有众多家长在学校示威，有特警入校。网传公务员家长遭警告不许参与。</p>
+<p><a href="https://www.youtube.com/v/3gbsyIzpiXE?version=3">https://www.youtube.com/v/3gbsyIzpiXE?version=3</a></p>
+<p></p>
+<p></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-news&sz=99E7&t=2&s=MOLBBGCJYDC2NJFWJ7XRZTLBAEQJGOAMGKKWZWEATSQBNKCKDIOQ&i=CU5GQRLGHV22I6XJ2PCEDR2HDUH5ZWEUC&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E5%B8%B8%E5%B7%9E%E5%B8%82%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1%E9%80%BE%E5%8D%83%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">化工污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%A4%96%E5%AD%A6%E7%94%9F%E6%82%A3%E7%97%85/?category=18271" rel="tag">常外学生患病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E/?category=18271" rel="tag">常州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E5%A4%96%E5%9B%BD%E8%AF%AD%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州外国语校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E9%9A%86%E5%8C%96%E5%B7%A5%E5%8E%82/?category=18271" rel="tag">常隆化工厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F/?category=18271" rel="tag">江苏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%85%AC%E5%BC%80%E8%BE%B1%E5%8D%8E-vs-%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/" target="cdt-mirror">悉尼大学吴维事件：公开辱华 VS 言论自由</a>
 </h2>
 <p><p>4月14日，部分国内媒体报道了一位就职于悉尼大学的华裔教师在微博发表“公开辱华”内容的消息，新闻称这名微博号为Pekojima（真名吴维）的男子屡次发表歧视澳洲留学生言论、亲日言论以及“反华言论”，并且在去年11月发表了一段焚烧中国护照的视频….消息披露后，部分中国学生向悉尼大学施压要求以发表种族主义言论为由对吴维做出处罚，目前校方表示已介入此事，并且暂停了吴维的教学活动。与此同时，也有部分网友及在澳华人发表公开信，他们认为悉尼大学应尊重并保护吴使言论自由的权利，反对对吴进行不透明的“被辞职”处理。</p>
@@ -783,34 +801,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8A%A8%E5%90%91-%E8%BF%90%E5%8A%A8%E6%B2%BB%E5%B8%82%EF%BC%9A%E6%A5%BC%E5%B8%82%E9%87%8D%E5%A4%8D%E8%82%A1%E7%81%BE/" target="cdt-mirror">动向 | 运动治市：楼市重复股灾</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%881.38.19.png?resize=505%2C302" alt="Screen Shot 2016-04-16 at 下午1.38.19" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.38.19.png?resize=300%2C179 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.38.19.png?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午1.38.19.png?w=505 505w" sizes="(max-width: 505px) 100vw, 505px" data-recalc-dims="1"><br><span>（图片来自网络）</span></p>
-<p>中国国家统计局三月中旬发布的二月份七十个大中城市住宅销售价格统计数据，大部分城市都上涨。二月份同比价格变动中，最高涨幅为百分之五十七点八，最低为下降百分之三点九，上涨最厉害的还是北上广深。正当新一轮楼市疯涨开始，上海出台了最严厉的房地产调控政策，随后深圳也跟进了。办法都是去杠杆。如此一来，大陆楼市是否会像去年股灾一样，疯涨疯跌，再来一次楼灾？</p>
-<p><strong>加杠杆多印钞引发楼市疯涨</strong></p>
-<p>经过几年的调控，大陆楼市已经沉寂下来。由于楼市在之前十几年内一直在涨，期间并有几次疯涨，楼市对于政府和开发商利益极大，不仅北上广深等一线城市建了大量楼房，就是三四线城市乃至小城镇都在大肆建房；反过来，中国人口拐点已经到来，中国城市化进程已经过了相当一段时期，就整体中国楼市来看，大陆楼市已经饱和，商品房库存严重。因此这一波大陆楼市疯涨不合情理。</p>
-<p>楼市沉寂的不利之处是明显的。中国经济下行态势时间不算短，一年半以来中国政府出台了远比二〇〇九年“四万亿救市”规模大得多的刺激措施，但基本不起什么作用。而中国经济下行的各项原因中，中国楼市沉寂也是一个重要原因之一。因为房地产业及上下游行业长期以来拉动中国经济五分之一到四分之一，其中涌动的巨额资金流，更是活跃了金融市场。这就是宏观经济层面上，中央要求中国房地产业能够起来的动因。</p>
-<p>房地产业热起来，不仅对开发商有好处，对地方政府更有好处。现在大陆物业构成最大的一块是地皮，是土地出让金——地方政府的收益。中央一旦有重启房地产市场的风向，他们对重新掀起房地产热起劲得很。</p>
-<p>这波楼市行情实际上能够起来，原因也很简单，主要只有两条：一是加杠杆。中国央行行长周小川今年二月公开表态，房贷可以加杠杆。与此同时，央行和银监会发布《关于调整个人住房贷款政策有关问题的通知》，通知明确，在不实施“限购”措施的城市，居民家庭首次购买普通住房的商业性个人住房贷款，原则上最低首付款比例为百分之二十五，各地可向下浮动五个百分点。于是，沈阳出现了零首付。各地也各显神通，即使在限购城市，也出现了形式不同的首付贷。财政部、住建部、税务总局联合发布《关于调整房地产交易环节契税营业税优惠政策的通知》，明确规定二月二十二日以后办理的就可以享受房屋契税优惠。</p>
-<p>二是新的通胀又开始了。一月份新增信贷二点五一万亿元，银行如此猛烈放贷，而整个经济下行态势依然严重存在，新的投资方向根本没有产生，明显就是政府在以宽松再宽松的货币政策、以放量印钞的方法企图刺激经济上行。可是，当企业、实业没有信贷需求，当中国投资渠道依然奇缺的时候，大量流动性放出的出路，就只能在房地产上。因为它看起来比股市、汇市更实在，比金银贵金属市场上升空间更大。</p>
-<p><strong>万能领袖主宰市场起落</strong></p>
-<p>中国的楼市好像在中国政府的意志下可以随意操控的，推而广之，中国一切市场似乎也可以由政府随意操控。这种现象某种程度上也是有根据的，因为中国政府几乎掌握了所有的资源，因此中国市场就是政策市。今年楼市新一波的行情太像去年A股市场上的“国家牛市”了。</p>
-<p>去年A股股灾，原因其实很清楚。先是为了振兴经济，政府领导人、央行、证监会主要领导、两大权威媒体纷纷出马，发动国家牛市，宣扬“四千点是新历史起点”、“牛市只在半山腰”。接着，场外二～三万亿违法配资带动场内二点三万亿融资，推波助澜，制造人造牛市，大量银行资金、信托资金、理财资金进股市。还有，各种技术手段的配合，诸如，社保基金高位带头出货五千多亿，大小非加速减持五千多亿，再融资超抽走一万亿，银行和券商在两融高利息中获利几千亿，快速消耗了市场的存量资金。A股疯涨瞬间变成疯跌。随后，监管层强行平仓及强行救市，企图让A股稳定下来，却是事与愿违，A股加速猛跌。</p>
-<p>以运动方式促市场，又以运动方式压市场。可市场终究有其自身规律，掌握一切资源的政府如果一意孤行的随心所欲，市场最后还是要显其原形的。人们奇怪的是，中共那些财经官员难道不懂，没有上市企业的业绩提升、没有整体经济的上升，哪来什么“国家牛市”？从以往他们的学识谈吐甚至从他们的从政经历上看，无论李克强、周小川、楼继伟甚至肖钢，似乎并非如此不堪之人。李、周、楼等还曾出台过某些市场化调控政策，只是施之于国有经济占统治地位的中国经济上，全都不管用。</p>
-<p>习近平上台以后，一步步集权。中共统治体制本来就是独裁制，习近平集权成效稍有进展，独裁者便很容易认为自己无所不能。独裁制下的官员，如李、周、楼等本来就不是坚持原则或者坚持某种理论的学者，偏向见风使舵迎合上峰的久经中共官场磨炼的官僚，所以，中共那些财经官员便会迎合“习大大”的心意：一面反腐捉贪官，一面创造“国家牛市”让小股民赚钱，以造成一代新领袖的光辉形象。</p>
-<p><strong>市场人为起落与个人迷信</strong></p>
-<p>今年的新一波的楼市行情，其实也是中共各级财经官员在迎合习近平急于摆脱经济下行困境的思路，齐心炒作而造成的。当楼市高企而显露险象之后，沪深两地赶忙出台的“急剎车”调控政策，虽然与去年股市调控套路完全一样，但楼市却不大可能重复去年股市疯涨之后的疯跌。</p>
-<p>因为当一系列刺激政策出台之后，最需要去库存的大陆三四线城市及小城镇的商品房并没有出现卖得动的迹象。而北上广深楼市仍有市场需求，中国人口拐点对于北上广深的滞后影响，中国城市化对北上广深楼市依然存在刚需增加的影响，即使遭遇目前的楼市“急剎车”，北上广深楼市不会像去年A股一样大跌。</p>
-<p>然而，中国政府一再在股市、汇市、楼市上随心所欲的调控，一再围着最高领袖的个人意愿调控操纵，肯定会引起国际上对中国非市场化的印象。市场的大起大落以及引起的种种问题，是否也会引发中共统治高层的“反个人迷信”的权力斗争呢？</p>
-<p>《动向》2016年4月号</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8A%A8%E5%90%91-%E8%BF%90%E5%8A%A8%E6%B2%BB%E5%B8%82%EF%BC%9A%E6%A5%BC%E5%B8%82%E9%87%8D%E5%A4%8D%E8%82%A1%E7%81%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8%E5%90%91%E3%80%8B/?category=18271" rel="tag">《动向》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%88%BF%E4%BB%B7%E9%A3%9E%E6%B6%A8/?category=18271" rel="tag">2016房价飞涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%8E%A7/?category=18271" rel="tag">房地产调控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -822,7 +812,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -832,5 +822,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E5%8A%A8
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

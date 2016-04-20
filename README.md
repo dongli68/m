@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,125 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83%E9%81%AD%E7%BB%B4%E7%A8%B3%EF%BC%8Cqq%E7%BE%A4%E8%A2%AB%E5%85%B3%E7%BE%A4%E4%B8%BB%E5%8F%97%E7%9B%91%E8%A7%86/" target="cdt-mirror">美国之音｜疫苗维权遭维稳，QQ群被关群主受监视</a>
+</h2>
+<p><p>不久前山东疫苗案引起的舆论震动尚未平息，然而就在疫苗致病、致残的案例开始走出维权人士的小圈子，进入媒体和民众的视野时，一个有1000余名成员的疫苗维权QQ群却于日前被腾讯解散，曾担任群主的余同安也于16日前后开始受到国保的严密监视。</p>
+<p>19日，余同安接受美国之音采访时说：“我家外面现在有人。”记者问是否是国保在监视他，他说：“是。”</p>
+<p>余同安是广东新会江门人。2005年，他十三岁的儿子余荣辉在学校注射A群流脑疫苗后出现发热、站立困难等症状，之后症状不断恶化，最终被医院诊断为重症病毒性脑炎，手脚萎缩变形，肢体扭曲。余同安由此开始了十年上访路，为儿子争取赔偿，也希望国家建立疫苗伤害保障救济机制。</p>
+<p>余同安是疫苗受害者家庭中较早开始维权的，用其他受害家长的话说，余同安是“元老”。《财新》、《南都周刊》等国内媒体都曾报道过余同安父子。今年3月山东曝出非法疫苗案后，余同安接受了美国之音的采访，回顾了十年前在律师唐荆陵的帮助下，通过诉讼、上访为儿子讨说法的经历。唐荆陵曾参与太石村罢免村干部、疫苗伤害、提高劳工待遇等维权活动，发起过“公民不合作”运动，于今年初被广州中级人民法院以“煽动颠覆国家政权罪”判处五年有期徒刑。</p>
+<p>本月初，余同安曾任群主的疫苗受害家庭维权QQ群突然被腾讯关闭。16日前后，余同安开始受到国保监视。19日，余同安对美国之音说，许多疫苗受害家庭不满卫计委在疫苗监管上不作为，日前有60余位全国各地的家长一同去北京市第一中级人民法院起诉卫计委和药监局。政府逼迫他退出QQ群，又对他进行监视，主要是不想让他去北京参与维权行动，也不想让他接受外媒采访。余同安说，与记者通话时，国保人员就在他家外面。</p>
+<p><strong>维权QQ</strong><strong>群为何突遭关闭</strong></p>
+<p>贵州一位疫苗受害者的父亲吴焱19日对美国之音说，疫苗维权QQ群成员大多是受害孩子的家长，他也是成员之一。山东疫苗案之后，许多家长非常关注疫苗的问题，QQ群成员激增。“有一些以前没有意识到孩子可能是因为疫苗导致身体出问题的家长，这次可能意识到了。我们升级为2000人大群后，成员几天之内就涨到了1500人左右。”</p>
+<p>吴焱说，QQ群是约一个月前的某天凌晨2点左右突然被关闭的，他表示不清楚具体原因，但猜测是因为群里一些家长有一些“不好”的言论。记者问都有哪些言论，吴焱说他很少看群里的信息，所以不清楚具体情况。</p>
+<p>吴焱说，大群被关闭后，有维权家长组建了小群，现在大约有400多成员。</p>
+<p>另外一位不愿透露姓名的维权家长说，群里多数时候在交流各自孩子的情况，有人会推荐律师、分享自己上访的经历等。至于有无过激言论，这位家长说：“都是孩子出事了，又好多年得不到解决，家长在群里骂两句也有，你说那些言论过激不过激，反正政府说你过激就过激。”</p>
+<p>据悉，4月18日，来自全国各地几十名疫苗受害家长来到北京第一中级人民法院联名起诉卫生和计划生育委员会，余同安19日对美国之音说，政府这次派国保监视他，限制他的行动，主要就是不想让他去北京参与这次联名诉讼。</p>
+<p><strong>体制怪圈：大闹大解决，不闹不解决</strong></p>
+<p>余同安说，这次联名诉讼，主要是家长们不满政府对于疫苗伤害的监管不力、认定不公。“具体说，就是打疫苗是卫计委管，一旦出了问题，（政府）要求任何医院不许自己给受害者做鉴定，所以打疫苗是他们，出了问题做鉴定也是他们做。”</p>
+<p>吴焱表示他也知道这次联名诉讼，这些家长提出的疫苗事故认定不公平等问题，也是他为女儿维权的路上遇到的一大障碍。</p>
+<p>吴焱的女儿2011年10月在幼儿园接种流脑疫苗后出现站立困难等症状，送医后被诊断为“横贯性脊髓炎”，下肢终身瘫痪。“打疫苗是疾控中心打，孩子出了事故，也是疾控中心鉴定，运动员和裁判都是他们。”他说，一般鉴定结果都会说“（残疾）与疫苗没有关联”或者说“偶合”。</p>
+<p>还有一个问题，就是赔偿机制的不完善、不透明。他说，从2011年女儿残疾到2015年拿到赔偿，他把各级政府部门都跑遍了。除了贵州当地的卫生局和疾控中心之外，他还远赴北京到信访局递材料，“到北京的国家卫计委上访了5次”。</p>
+<p>去年，吴焱一家拿到了贵州当地卫生局给的100万元补偿。至于当地同意补偿这笔钱是不是因为接到了上级单位的批示，吴焱并不清楚。他说：“这就是一个‘怪圈’。所有的医疗事故，都是大闹大解决，小闹小解决，不闹不解决。首先（政府）肯定是不承认（伤残是疫苗导致的），到说谎说不过去了才承认。等承认了，补偿款也很不人性。每个省自己制定的补偿办法，有一些根本连医药费都不够。比如河南，不管你孩子是死还是残，最多就赔30万，而且没有后期保障。”</p>
+<p>另一位不愿透露姓名的维权母亲表示同意吴焱的说法，她说：“这个补偿的体制是很不透明的，各个单位肯定是互相推来推去的，所以我们家长也不知道找哪个单位能解决。反正最后拿到补偿的人，都去北京上访过，所以我们也就只能去北京上访，把动静闹大，就是为了孩子能有一些保障，死马当活马医。”</p>
+<p>吴焱认为，赔偿体制不完善导致很多孩子出事后得不到及时医治，更加重病情。他说，女儿接种疫苗导致中枢神经损伤，刚开始治病时的费用一天就要近两万元；其他因疫苗导致脑瘫的孩子，在重症监护室里抢救，每天也要很高的医药费。像这样的突发情况，很多家庭都拿不出钱，国家也没有救助机制。“很多孩子因此耽误了治疗，不是死就是重度残疾，这是很悲哀的。”</p>
+<p><strong>维稳出钱出人，赔偿扯皮推诿</strong></p>
+<p>吴焱说，女儿小时候都是他亲自抱着女儿去医院打疫苗，但是2011年女儿的幼儿园没有通知家长就在幼儿园给孩子接种了流脑疫苗。“医院的疫苗是冷链保存的，而且打完以后要观察半个小时，幼儿园里都没有这些条件。”</p>
+<p>记者问吴焱是否会追责幼儿园，他说拿了政府的补偿，就不能再诉讼了。“这个补偿是‘预防接种异常反应的补偿’，要承认疫苗是合格的、接种是规范的、孩子也没有过错，就是说三方都没有责任。”吴焱的律师告诉他，接受了这个补偿，再向任何一方提起诉讼都没有用了。</p>
+<p>吴焱说，他自己对这个结果并不满意，他希望政府可以承认女儿是疫苗事故的受害者，并建立独立的诊断、赔偿机制。</p>
+<p>有媒体报道余同安也拿到了政府补偿，不过余同安说“这笔钱不叫赔偿、补偿，是救助。”他说政府和他签订了保密协议，不允许对外界透露具体的金额和条件。余同安说，这次政府派国保监视他，除了不想让他去北京之外，还有不想让他接受外媒采访。</p>
+<p>一位疫苗维权母亲对美国之音说，据她所知只有很少人能拿到补偿，“可能就是不想你闹大了，给钱了事吧。如果拿了钱再闹，可能就会派人警告了。”</p>
+<p>此外，疫苗受害家长联名起诉卫计委一案，北京市中级人民法院4月18日收取了家长的相关材料，是否立案还要等后续通知。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83%E9%81%AD%E7%BB%B4%E7%A8%B3%EF%BC%8Cqq%E7%BE%A4%E8%A2%AB%E5%85%B3%E7%BE%A4%E4%B8%BB%E5%8F%97%E7%9B%91%E8%A7%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A4%9A%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B5%81%E9%BC%BB%E8%A1%80-%E6%B5%B7%E5%AE%89%E5%87%8C%E6%99%A8%E5%AE%A3%E5%B8%83%E9%99%84%E8%BF%91%E5%8C%96/" target="cdt-mirror">澎湃新闻｜多名小学生流鼻血 海安凌晨宣布附近化工厂全停产</a>
+</h2>
+<p><p><strong>【编者注】大量当地学生家长于4月19日上街抗议时遭特警<a href="http://wickedonna.blogspot.jp/2016/04/2016419_20.html" target="_blank">粗暴对待</a>，相关消息遭当局封锁，媒体报道海安化工厂紧急停产的新闻时也只字未提示威一事。</strong></p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920698564_8c1d1c8511_o.jpg" rel="attachment wp-att-435551"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920698564_8c1d1c8511_o.jpg?resize=500%2C666" alt="25920698564_8c1d1c8511_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920698564_8c1d1c8511_o.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920698564_8c1d1c8511_o.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>海安居民为孩子的健康担心；图片来自非新闻</span></p></div>
+<p><em>原标题：<a href="http://www.thepaper.cn/newsDetail_forward_1458608" target="_blank">江苏一小学多名学生流鼻血，海安县凌晨宣布附近化工厂全停产</a></em></p>
+<p>4月19日，江苏海安县城南实验学校多名家长向澎湃新闻反映，他们近日发现孩子不同程度出现流鼻血、身体瘙痒等症状，极个别孩子出现脱皮。</p>
+<p>家长称，在学校能闻到一些刺激性气味，怀疑是从周边化工园区里的化工厂传过来的异味，要求环保局给出答复。</p>
+<p>4月19日下午，海安官方对澎湃新闻表示，会在网上公布相关检测数据。同时，官方表示，已勒令附近3家化工企业停产整顿，另有两家企业即将于20日起停产。</p>
+<p>不过，几个小时后，对化工企业停产整顿的力度突然“加码”。</p>
+<p>4月20日凌晨，海安县委宣传部主办的“海安发布”公布消息称，自本月20日起，对海安化工园区所有化工企业全部停产整顿。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/385.jpg" rel="attachment wp-att-435547"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/385.jpg?resize=440%2C590" alt="385" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/385.jpg?resize=224%2C300 224w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/385.jpg?w=600 600w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a><p>4月20日凌晨，“海安发布”公布了县委县政府的决定，自20日起，对海安化工园区所有化工企业全部停产整顿。</p></div>
+<p><strong>家长称一个班20多名孩子流鼻血、起皮疹</strong></p>
+<p>“孩子回家总跟我说背上痒。”向女士的孩子在江苏海安城南实验小学读二年级，她说一开始也没在意，但是这两天她发现班级家长群里不少家长都反映自己的孩子出现了流鼻血、皮疹等身体不适情况。</p>
+<p>“我家孩子身上长了红疙瘩，经常流鼻血”；“我家孩子也跟我说身上痒，鼻子也总痒”……这个情况一下子引起了家长们的关注和讨论。</p>
+<p>根据家长在群里的描述，澎湃新闻不完全统计，该校二年级10班共50名学生，有20多名学生出现流鼻血、痒、红疙瘩、咳嗽等单个或多种情况交叉出现的症状。</p>
+<p>该校办公室吴主任于19日下午告诉澎湃新闻；“学校有1500名学生，但具体有多少名学生出现这些症状，学校还没进行统计完。”据学生家长称，校方于19日晚上逐班统计身体出现疑似异常状况的学生人数和具体症状。</p>
+<p><strong>学校周边有一个化工园</strong></p>
+<p>有家长提出，最近接孩子下课时，总能在学校上空及附近闻到一股刺激性气味，“大家都捂着鼻子等孩子。”学校的一些教师也承认确实闻到过刺激性气味。</p>
+<p>家长担心，孩子出现这些情况，会不会就和这些刺激性气味有关？</p>
+<p>家住学校附近的一位家长告诉澎湃新闻记者，学校周边就有一个化工园，“气味刺鼻，晚上都不能开窗。”</p>
+<p>海安县城南实验小学的官网介绍称，学校坐落于海安县城南部、中坝南路与高庄路交汇处的东南侧、在建的广电大厦路东。地图显示，海安化工园区位于海安县东南方向，夏季如果从海上吹来东南风，化工厂上方的空气会被吹往学校及附近居民区。</p>
+<p><strong>家长要求监测常态化“且有人负责”</strong></p>
+<p>4月18日下午，城南实验小学31个班级选派部分家长代表来到学校，表达他们对校园周围环境的担忧。</p>
+<p>一 位家长代表对澎湃新闻说，他们提了几个诉求：第一，要求环保部门每天监测该校空气等环境质量，且要常态化、透明化，环保局能够出具具体的数据检验报告，并 且有人对数据负责。第二，希望政府能够就前期污染给家长们一个说法，解释孩子出现这些健康异常情况是否与前期污染有关。</p>
+<p>当地官方人士确认，海安县环保局和教育局也派代表参加了当天与家长的沟通会。但就家长提出的“哪些污染源”等问题，官方没有给出明确的答复。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/501.jpg" rel="attachment wp-att-435548"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/501.jpg?resize=440%2C564" alt="501" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/501.jpg?resize=234%2C300 234w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/501.jpg?w=600 600w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a><p>“海安发布”公布了县委县政府对化工园区企业停产整顿的决定，并公告称“工作组连夜行动，截止20日8点，已经有16家企业全面停产”。</p></div>
+<p><strong>附近化工厂全面停产整顿，学校要求照常上课</strong></p>
+<p>针对海安城南小学学生出现的问题，海安县环保局相关负责人员19日告诉澎湃新闻，目前，该局已经在相关区域设置5个点进行监测。</p>
+<p>该负责人员称，根据市民重点反映的闻到刺激性气味的时间段，“从4月2日开始，每天早上3点到6点有小组进行高密度巡查，对敏感区域的环境空气质量加强了检测。”</p>
+<p>根据巡查检测，该负责人员说“疑似有异味就会要求停产”，目前附近的化工集中区内的3家企业（南通福来特化工有限公司、南通泰通化学有限公司、江苏天成生化制品有限公司）已停产整治，还有两家企业因为生产周期，到20日上午也会停产。</p>
+<p>对于有家长要求环保部门出具检测报告，上述海安县环保局负责人员回应称，由于化工检测比较复杂，除了自有的环境监测站进行检测外，他们又委托了江苏力维检测科技有限公司进行了环境质量检测，这个检测数据会第一时间网上公布，“大概4月20日会有结果”。</p>
+<p>该负责人员还表示，2013年和2014年环保局都对园区做过废气整治，“整治情况还是蛮好的。”</p>
+<p>既然整治情况很好，为什么又会出现刺激性气味？“可能是因为前段时间特殊的气象条件。”该负责人员称，他们也正和气象部门进行联系。</p>
+<p>目前学校仍然要求孩子们照常上课。但家长们都很担心孩子的身体健康，4月19日，一些家长以班级为单位，联名签署了“集体请假申请”，表示“在适当的时候让孩子回到校园”。</p>
+<p>4月20日凌晨，海安县委宣传部主办的“海安发布”公布消息称，针对近期市民反映的化工园区出现异味问题，经（海安）县委常委扩大会议研究决定，自本月20日起，对海安化工园区所有化工企业全部停产整顿。</p>
+<p>据介绍，截至20日凌晨5点，海安已对海安化工园内的所有化工企业全部送达了全面停产通知书。当日上午8点，已有16家企业全面停产，其余7家企业全面停止投料，并在3日内有序停产到位。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>弌牬捈呉龘靐齉爩：昨天老百姓反应问题的时候，被警察打，被抓，后来闹大了才说关闭，很久前就有反应过，一直不理会，这个怎么没有报道？</p>
+<p>LiveCurious：为了巴拿马的幸福，收拾几个平民百姓，拿他们几条命算什么，</p>
+<p>空心年：调查结果：还是学生体质不行，缺乏锻炼！建议没收手机ipad</p>
+<p>光辉0562：这届人民身体素质不行~~~~</p>
+<p>姑苏竹语：这就是官方媒体经常说的新常态，大家要淡定，适应了就好了。</p>
+<p>jesuisdenisetwayne：别怪zf啦 主要是这届空气不行啊</p>
+<blockquote><p><a title="姚广孝_wayne" href="http://weibo.com/u/2147144254?refer_flag=0000015012_&from=feed&loc=nickname" target="_blank">@姚广孝_wayne</a>：无效疫苗任君打，围墙碍事D帮扒。刺刀推进工业化，水土毒害算个啥？污染致癌拙无计，网络义勇帮您查：别人没事就你闹，不怪你还怪国家？星辰大海盛世景，来生还入种花家~<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23egw1f332zhhbotj20hs06vjsd.jpg" rel="attachment wp-att-435553"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23egw1f332zhhbotj20hs06vjsd.jpg?resize=500%2C193" alt="7ffad23egw1f332zhhbotj20hs06vjsd" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23egw1f332zhhbotj20hs06vjsd.jpg?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7ffad23egw1f332zhhbotj20hs06vjsd.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p></blockquote>
+<p><a href="http://weibo.com/5783113222" target="_blank">@一叶知秋66726</a><i></i>：这是731再做活体实验吗 <img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908f.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2074825812" target="_blank">@阿峰仔微博</a><i title="微博达人"></i><i></i>：大家都来爆爆身边的化工厂吧！我先来，大连PX大化，不但没停产搬迁远离市区，靠近市区又要扩建了！<img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"><img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"><img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"><img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"><img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"></p>
+<div><a href="http://weibo.com/1792809512" target="_blank">@XmengX</a>：江苏常州<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">江苏南京<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">江苏海安<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></div>
+<p>@频繁的疯：把化工厂开到五毛家附近去</p>
+<p>@佑搿执煙：这就是所谓大美海安？</p>
+<p>@尹泽福：应该把当地主管官员的办公桌和床铺搬到案件现场，用他们的身体去检验环评的准确性，要连续在现场一个月以上。</p>
+<p>@风之意志005：你们的中国梦醒了没？</p>
+<p>@浅浅的樱霓海：最近的移民广告有点多啊，真的好让人心动</p>
+<p>@-東门刮风-：很难想象这个社会如果没有网络会怎么样</p>
+<p>@我是印第安人我不懂：在毒气中实现中国梦</p>
+<p>@花椒风味：我上的蒋垛高中也是，有的时候整个镇子都在化工厂的下风向，浓度高的时候熏到人头晕想吐，那个镇子患癌率高，但是因为学校教学质量高，学生络绎不绝，我走的那年旁边还又新建了职高，害人不浅。</p>
+<p>@水墨qing花：社会主义优越性慢慢显现出来了，疫苗，空气，食物，水。。。没有他们干不了，只有屁民想不到。</p>
+<p>@阿呆黄阿呆：到底还有多少没曝光的，我很愤怒</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A4%9A%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B5%81%E9%BC%BB%E8%A1%80-%E6%B5%B7%E5%AE%89%E5%87%8C%E6%99%A8%E5%AE%A3%E5%B8%83%E9%99%84%E8%BF%91%E5%8C%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">抗议示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%AE%89%E5%8C%96%E5%B7%A5%E5%8E%82/?category=18271" rel="tag">海安化工厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%9D%9E%E6%96%B0%E9%97%BB%EF%BD%9C%E5%90%84%E5%9C%B0%E5%A4%B1%E7%8B%AC%E8%80%85%E8%81%9A%E9%9B%86%E5%8D%AB%E8%AE%A1%E5%A7%94-%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E5%85%91%E7%8E%B0%E5%85%BB%E8%80%81/" target="cdt-mirror">非新闻｜各地失独者聚集卫计委 要求政府兑现养老承诺（组图）</a>
+</h2>
+<p><p><b>4月18日，各地1500名失独者集结位于北京市海淀区知春路14号的国家卫计委，要求政府兑现“只生一个好，国家来养老”的承诺。</b></p>
+<p><a href="http://weibo.com/u/3306198123">郭九香3306198123</a><br>
+今天上午8点钟，北京市海淀区知春路14号国家卫计委门前，来自全国各地一千五百多失独父母们，头戴小白帽。以省为单位井然有序的排列在路边，声势浩大的418维权，正式拉开序幕！维权在进行中</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899185774_222f1c060d_o.jpg" rel="attachment wp-att-435496"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899185774_222f1c060d_o.jpg?resize=400%2C711" alt="25899185774_222f1c060d_o" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899200544_b2c6a196e3_o.jpg" rel="attachment wp-att-435497"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899200544_b2c6a196e3_o.jpg?resize=500%2C375" alt="25899200544_b2c6a196e3_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899200544_b2c6a196e3_o.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899200544_b2c6a196e3_o.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899200544_b2c6a196e3_o.jpg?w=950 950w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899201614_3eecde982d_o.jpg" rel="attachment wp-att-435498"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899201614_3eecde982d_o.jpg?resize=500%2C375" alt="25899201614_3eecde982d_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899201614_3eecde982d_o.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899201614_3eecde982d_o.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899201614_3eecde982d_o.jpg?w=950 950w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899205324_cdba335fa3_o.jpg" rel="attachment wp-att-435500"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899205324_cdba335fa3_o.jpg?resize=400%2C711" alt="25899205324_cdba335fa3_o" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899205654_4f7e577ed2_o.jpg" rel="attachment wp-att-435502"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899205654_4f7e577ed2_o.jpg?resize=500%2C281" alt="25899205654_4f7e577ed2_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899205654_4f7e577ed2_o.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899205654_4f7e577ed2_o.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899205654_4f7e577ed2_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899207634_b1de37f49a_o.jpg" rel="attachment wp-att-435503"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899207634_b1de37f49a_o.jpg?resize=500%2C375" alt="25899207634_b1de37f49a_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899207634_b1de37f49a_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899207634_b1de37f49a_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899207634_b1de37f49a_o.jpg?w=1000 1000w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899216734_964484ff75_o.jpg" rel="attachment wp-att-435504"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899216734_964484ff75_o.jpg?resize=500%2C374" alt="25899216734_964484ff75_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899216734_964484ff75_o.jpg?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899216734_964484ff75_o.jpg?resize=768%2C574 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899216734_964484ff75_o.jpg?resize=1024%2C765 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899216734_964484ff75_o.jpg?w=1285 1285w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899223184_67b3bdaaeb_o.jpg" rel="attachment wp-att-435505"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899223184_67b3bdaaeb_o.jpg?resize=400%2C533" alt="25899223184_67b3bdaaeb_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899223184_67b3bdaaeb_o.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899223184_67b3bdaaeb_o.jpg?w=720 720w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899229464_591211ecf1_o.jpg" rel="attachment wp-att-435507"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899229464_591211ecf1_o.jpg?resize=500%2C281" alt="25899229464_591211ecf1_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899229464_591211ecf1_o.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899229464_591211ecf1_o.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899229464_591211ecf1_o.jpg?resize=1024%2C576 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25899229464_591211ecf1_o.jpg?w=1600 1600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901267733_c3d94508f0_o.jpg" rel="attachment wp-att-435508"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901267733_c3d94508f0_o.jpg?resize=500%2C375" alt="25901267733_c3d94508f0_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901267733_c3d94508f0_o.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901267733_c3d94508f0_o.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901267733_c3d94508f0_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901281733_3a8281986f_o.jpg" rel="attachment wp-att-435510"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901281733_3a8281986f_o.jpg?resize=500%2C281" alt="25901281733_3a8281986f_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901281733_3a8281986f_o.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901281733_3a8281986f_o.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901281733_3a8281986f_o.jpg?resize=1024%2C576 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25901281733_3a8281986f_o.jpg?w=1600 1600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920653304_baa9916c5d_o.jpg" rel="attachment wp-att-435511"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920653304_baa9916c5d_o.jpg?resize=500%2C375" alt="25920653304_baa9916c5d_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920653304_baa9916c5d_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920653304_baa9916c5d_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920653304_baa9916c5d_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920653304_baa9916c5d_o.jpg?w=1280 1280w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920658334_d11c92eefb_o.jpg" rel="attachment wp-att-435512"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920658334_d11c92eefb_o.jpg?resize=400%2C711" alt="25920658334_d11c92eefb_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920658334_d11c92eefb_o.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920658334_d11c92eefb_o.jpg?w=750 750w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920663504_48b89cc14f_o.jpg" rel="attachment wp-att-435513"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920663504_48b89cc14f_o.jpg?resize=400%2C533" alt="25920663504_48b89cc14f_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920663504_48b89cc14f_o.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920663504_48b89cc14f_o.jpg?w=720 720w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920671764_43fea482e2_o.jpg" rel="attachment wp-att-435514"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920671764_43fea482e2_o.jpg?resize=500%2C281" alt="25920671764_43fea482e2_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920671764_43fea482e2_o.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920671764_43fea482e2_o.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25920671764_43fea482e2_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25922724253_d458631f5f_o.jpg" rel="attachment wp-att-435515"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25922724253_d458631f5f_o.jpg?resize=400%2C711" alt="25922724253_d458631f5f_o" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25922728303_0741cc9c57_o.jpg" rel="attachment wp-att-435517"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25922728303_0741cc9c57_o.jpg?resize=400%2C712" alt="25922728303_0741cc9c57_o" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25922728763_08498241ac_o.jpg" rel="attachment wp-att-435518"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/25922728763_08498241ac_o.jpg?resize=400%2C712" alt="25922728763_08498241ac_o" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231225900_d78910b2b5_o.jpg" rel="attachment wp-att-435519"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231225900_d78910b2b5_o.jpg?resize=500%2C281" alt="26231225900_d78910b2b5_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231225900_d78910b2b5_o.jpg?resize=768%2C431 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231225900_d78910b2b5_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231227730_f9df7f8378_o.jpg" rel="attachment wp-att-435520"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231227730_f9df7f8378_o.jpg?resize=500%2C375" alt="26231227730_f9df7f8378_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231227730_f9df7f8378_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231227730_f9df7f8378_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231227730_f9df7f8378_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231227730_f9df7f8378_o.jpg?w=1280 1280w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231252940_8897e96d5f_o.jpg" rel="attachment wp-att-435521"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231252940_8897e96d5f_o.jpg?resize=400%2C533" alt="26231252940_8897e96d5f_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231252940_8897e96d5f_o.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231252940_8897e96d5f_o.jpg?w=720 720w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231255220_fe4573438e_o.jpg" rel="attachment wp-att-435522"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231255220_fe4573438e_o.jpg?resize=400%2C533" alt="26231255220_fe4573438e_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231255220_fe4573438e_o.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231255220_fe4573438e_o.jpg?w=720 720w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231267900_ef2cecd7e9_o.jpg" rel="attachment wp-att-435523"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231267900_ef2cecd7e9_o.jpg?resize=500%2C375" alt="26231267900_ef2cecd7e9_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231267900_ef2cecd7e9_o.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231267900_ef2cecd7e9_o.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26231267900_ef2cecd7e9_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26252750460_1698dcc828_o.jpg" rel="attachment wp-att-435525"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26252750460_1698dcc828_o.jpg?resize=500%2C375" alt="26252750460_1698dcc828_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26252750460_1698dcc828_o.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26252750460_1698dcc828_o.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26252750460_1698dcc828_o.jpg?w=960 960w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411754522_5506321150_o.jpg" rel="attachment wp-att-435526"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411754522_5506321150_o.jpg?resize=500%2C375" alt="26411754522_5506321150_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411754522_5506321150_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411754522_5506321150_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411754522_5506321150_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411754522_5506321150_o.jpg?w=1280 1280w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433269622_4320570587_o.jpg" rel="attachment wp-att-435528"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433269622_4320570587_o.jpg?resize=500%2C281" alt="26433269622_4320570587_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433269622_4320570587_o.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433269622_4320570587_o.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433269622_4320570587_o.jpg?resize=1024%2C576 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433269622_4320570587_o.jpg?w=1600 1600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411804642_277abc5fb3_o.jpg" rel="attachment wp-att-435529"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411804642_277abc5fb3_o.jpg?resize=500%2C375" alt="26411804642_277abc5fb3_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411804642_277abc5fb3_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411804642_277abc5fb3_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411804642_277abc5fb3_o.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26411804642_277abc5fb3_o.jpg?w=3264 3264w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433266452_4aba2fe80c_o.jpg" rel="attachment wp-att-435530"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433266452_4aba2fe80c_o.jpg?resize=500%2C375" alt="26433266452_4aba2fe80c_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433266452_4aba2fe80c_o.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433266452_4aba2fe80c_o.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433266452_4aba2fe80c_o.jpg?resize=1024%2C768 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433266452_4aba2fe80c_o.jpg?w=1280 1280w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433267812_06f51b52b8_o.jpg" rel="attachment wp-att-435531"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433267812_06f51b52b8_o.jpg?resize=500%2C281" alt="26433267812_06f51b52b8_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433267812_06f51b52b8_o.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433267812_06f51b52b8_o.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433267812_06f51b52b8_o.jpg?resize=1024%2C576 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26433267812_06f51b52b8_o.jpg?w=1600 1600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437977591_91298d1b15_o.jpg" rel="attachment wp-att-435532"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437977591_91298d1b15_o.jpg?resize=400%2C533" alt="26437977591_91298d1b15_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437977591_91298d1b15_o.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437977591_91298d1b15_o.jpg?w=720 720w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437996061_1040a17efc_o.jpg" rel="attachment wp-att-435534"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437996061_1040a17efc_o.jpg?resize=400%2C533" alt="26437996061_1040a17efc_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437996061_1040a17efc_o.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437996061_1040a17efc_o.jpg?resize=768%2C1023 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437996061_1040a17efc_o.jpg?resize=769%2C1024 769w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437996061_1040a17efc_o.jpg?w=960 960w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437997461_eb4d2d0d57_o.jpg" rel="attachment wp-att-435536"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437997461_eb4d2d0d57_o.jpg?resize=500%2C375" alt="26437997461_eb4d2d0d57_o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437997461_eb4d2d0d57_o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437997461_eb4d2d0d57_o.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437997461_eb4d2d0d57_o.jpg?w=853 853w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437998771_05ae87ea82_o.jpg" rel="attachment wp-att-435537"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437998771_05ae87ea82_o.jpg?resize=500%2C375" alt="26437998771_05ae87ea82_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437998771_05ae87ea82_o.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437998771_05ae87ea82_o.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437998771_05ae87ea82_o.jpg?resize=1024%2C768 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26437998771_05ae87ea82_o.jpg?w=1280 1280w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438006161_42f7404e73_o.jpg" rel="attachment wp-att-435538"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438006161_42f7404e73_o.jpg?resize=500%2C375" alt="26438006161_42f7404e73_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438006161_42f7404e73_o.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438006161_42f7404e73_o.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438006161_42f7404e73_o.jpg?w=853 853w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438014531_aa74cdf5a4_o.jpg" rel="attachment wp-att-435539"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438014531_aa74cdf5a4_o.jpg?resize=400%2C533" alt="26438014531_aa74cdf5a4_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438014531_aa74cdf5a4_o.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438014531_aa74cdf5a4_o.jpg?resize=768%2C1024 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26438014531_aa74cdf5a4_o.jpg?w=960 960w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26478131526_c36e3ebc54_o.jpg" rel="attachment wp-att-435540"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26478131526_c36e3ebc54_o.jpg?resize=500%2C375" alt="26478131526_c36e3ebc54_o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26478131526_c36e3ebc54_o.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26478131526_c36e3ebc54_o.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26478131526_c36e3ebc54_o.jpg?resize=1024%2C768 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26478131526_c36e3ebc54_o.jpg?w=1280 1280w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>（更多图片请点击原文链接）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%9D%9E%E6%96%B0%E9%97%BB%EF%BD%9C%E5%90%84%E5%9C%B0%E5%A4%B1%E7%8B%AC%E8%80%85%E8%81%9A%E9%9B%86%E5%8D%AB%E8%AE%A1%E5%A7%94-%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E5%85%91%E7%8E%B0%E5%85%BB%E8%80%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E5%AE%B6%E5%BA%AD/?category=18271" rel="tag">失独家庭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E8%80%81%E4%BA%BA/?category=18271" rel="tag">失独老人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8E%A8%EF%BC%81%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B/" target="cdt-mirror">德国之声｜长平：推！“伟大的中国故事”</a>
 </h2>
 <p><p>推特（twitter）最新人事任命引发网民抗议。时评人长平指出，“连接世界”不只是新媒体口号，也是中共“大外宣”的战略目标。</p>
@@ -88,7 +204,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9/?category=18271" rel="tag">产能过剩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9B%E7%BB%99%E7%BB%93%E6%9E%84/?category=18271" rel="tag">供给结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E5%9C%B0/?category=18271" rel="tag">洗地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E9%9C%80%E6%B1%82/?category=18271" rel="tag">消费需求</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95/?category=18271" rel="tag">经济发展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">资本主义国家</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E5%B8%B8%E5%B7%9E%E5%B8%82%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1%E9%80%BE%E5%8D%83%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BC%9A/" target="cdt-mirror">【CDTV】常州市外国语学校逾千学生家长集会</a>
 </h2>
@@ -550,152 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-17-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 4-17</a>
-</h2>
-<p><p>@罗昌平：社会就像是一棵爬满猴子的树，往上看都是屁股，往下看都是笑脸，左右看都是耳目。尤其在机关。你觉得有道理不？<span></span></p>
-<p>@XiaYeliang：答存在认知障碍的国人：反对中共专制统治不是“反华”，抨击腐败政府不是“卖国”，揭露中国阴暗面不是“汉奸”，真正反华（毁灭传统文化/伦理/珍贵文物等）的卖国汉奸恰恰是中共统治者。</p>
-<p>@gliderhook：焚烧赵国护照、侮辱无耻支豚，这就是真实的政治正确，西方“政治正确”问题，核心就是远离了真实。一个长期低人权的警察国家，不仅其政府是国际麻烦制造者，它批量克隆出的体制化国民放在世界范围也是邪恶本能比肩ISIS的魔鬼崇拜者，“极权小魔鬼型优越感”即是赵国阉人移民的真实命根和暗黑原力。</p>
-<p>@hnjhj：赵克伯格刚把习大大的书合上，就听手下报告说推特找了个二炮的坐镇。只见赵总用略带京腔的口音骂了句“操你妈”之后，连忙拿起手机给鲁炜打了电话：鲁总，你做我入党介绍人行吗？</p>
-<p>@kunlunfeng：对陈葵出任CEO一事的反应，或出于“互联网改变中国”的遐想，或出于言论自由的切身之痛，但简单事实是，极权世界的互连是恩许的，既然是恩准，取消也就分分秒。有推油觉得反对国际互联网公司中国化是是非问题，但是，国际财团的沆瀣鼠目之举，难道不是其政府一贯对中政策的延续延伸。</p>
-<p>@mozhixu：现在有不少人膜蛤，实际上蛤时代有镇压法轮功和中国民主党等，凶残程度并不差，但蛤时代是市场新极权搭建过程中，更偏重市场化的阶段，有相当的松动措施，但随即也就转向了强固极权体制，胡的十年，前半属于江时代继续，后半实际已转向刚性维稳、国进民退等强固内容，习不过继续强化了这一过程。</p>
-<p>@tengbiao：转：【最成功中国模式】父官子商是最成功的中国模式，也是当今权贵阶层中最流行的造富方式。如果父亲不倒，子女都是商界奇才。最近20年里崛起的能源、地产、金融、科技领域中的大亨们，往往都源于这种模式。这种模式下的产生的企业家没有一个失败者，而同时创业的民营企业家每年都尸横遍野。</p>
-<p>@ngkeehow：我们要说的是：1989年反贪污、反腐败，要求民主、要求新闻自由，都是有前瞻性的诉求。现在来看，就是因为1989年民运被机枪和坦克镇压了，中国民众完全失去了对政治权力监督，贪污腐败就更加升级，从以前的小规模变成了现在的无官不贪。——封从德</p>
-<p>@chuandaoren：中石油、中石化、电力、联通亏损，现在连中盐总公司也亏损了，连高速公路收费站也亏损，似乎在中国经营一个垄断型企业，你不亏损都不好意思。究其原因，各种砖家叫兽经济学家各种分析各种解读，大家也是听得云里雾里，究竟亏损到哪里去了？维京群岛，巴拿马运河的出现，才恍然大悟、一切真相大白。</p>
-<p>@letscorp：【上屋抽梯】住建部：凡住房公积金缴存比例高于12%的，一律予以规范调整，不得超过12%。经营效益不好的企业可申请暂停削减缴纳公积金；温州一批20年产权住宅土地使用权到期，续期须按房产价格三分之一。</p>
-<p>@资中筠：我认为国民党之所以垮台，一是因为腐败，二是因为腐败还不彻底，就是说官场是腐败，而整个社会没有腐败，教育、文化、新闻界没有腐败，知识分子没腐败。所以他们还追求正义，觉得受不了这个腐败的政府，要想办法反对它。——共党乘虚而入，蛊惑人心得逞，陷国家于万劫不复。</p>
-<p>@choicky：腾讯发现了一只很牛叉的dcm木马，联网就自动安装木马，能绕过数十种安全软件，监控绝大部分软件的聊天内容……虽然没有证据证明是我党开发的木马，但这木马的确干了我党想干的事。</p>
-<p>@felixding：作为一个长春人，饶有兴致地看完了《伪满洲国首都规划》。如果日本人真的按照规划完成建设，长春：1940年就会开通地铁，人均绿地面积将在亚洲大城市中排第一，城市基础设施建设将会是国际一流水平，市区内任何一条主干道路上都能看到日出日落……然而这个“如果”政治不正确。</p>
-<p>@鸢moon2转：中国人耻于谈钱，却是世界上最爱钱的民族；羞于谈性，却制造了第一人口大国；最讲究思想品德，却是世界上最缺德的民族。在北美生活20年，未见过学生从小学到大学上过一堂品德课，整个社会也没人提所谓的德育。可在大多数人遵守社会最基本的道德，社会秩序井然，这究竟是为什么？</p>
-<p>@Yang1Yoko：今天老爸突然打电话来，询问我有没有入党，并希望我去争取那么多人挤破头想要的几个名额，因为入党能带来更多的特权利益，我知道父母是想让我更好地在社会生存，但很遗憾自己和他们的价值观差太大，我不会做出违背价值观的事情，这也更增加了我对这个党的不满与厌恶…</p>
-<p>@momo_kon9：没有什么政治问题是移民解决不了的，如果有，那就再移一次。#胡说八道不负责</p>
-<p>@maylogcom：#转：今天早上在公园和大爷下象棋，有点紧张。走了第一步后，大爷沉默了很久说：“你是新手吧？” 我：“大爷你怎么知道？” “我在这玩了几年，第一步走帅的真不多。” 我：“不应该让领导先走吗？”</p>
-<p>@烧鸡烧鸡呢：其实我的青春既不是乔丹、科比，也不是罗纳尔多、齐达内。我的青春是铁木尔达瓦买提、帕巴拉格列朗杰、司马义艾买提、阿沛阿旺晋美。</p>
-<p>@英式没品笑话百科：科比退役了，你们才觉得欠他一场球赛。星爷不演了，你们才觉得欠他一张电影票。快播被封了，你们才觉得欠他一份会员。现在还有机会，不要等他不在了，你们才觉得欠一秒。</p>
-<p>@赵小姐失眠中：朋友说她去参加活动，一个喝醉酒的姑娘拉着她的手问，“能陪我在这儿等我老公吗，我老公说只要有其他漂亮姑娘在他就会来……”听着多像一个电视剧的开头，或者是一部小说的结尾。</p>
-<p>@lifent：听到邻桌一男一女说现在的p2p怎么做销售。女的说：“现在的销售已经不是以前的推销员了。现在流行放倒钩。穿得美美的，出入高档场所，提个LV，别人问起来，就说在参与一个政府项目。他们就会有兴趣了，就会请你吃饭。然后慢慢地你就可以把理财产品包装以后卖给他。”男的连连点头。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-17-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%AD%A3%E9%A3%8E%E8%B5%8F%E4%B9%A6-%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%BB%9F%E6%B2%BB%E8%80%85%E8%83%BD%E6%9B%B4%E6%96%B9%E4%BE%BF%E5%9C%B0%E7%BB%9F%E6%B2%BB/" target="cdt-mirror">季风赏书 | 教育不是让统治者能更方便地统治</a>
-</h2>
-<p><p><strong>季风说：</strong></p>
-<p>“共同体成员的教育是为了帮助他们能够更好地共同生活，不是为了让统治者能更方便、更随心所欲地统治他们。”</p>
-<p>这本《统治与教育：从国民到公民》所谈论的，并非是通常意义上的教育问题，而是“公民教育”，就如同前文所说“作为共同体的成员如何更好的共同生活”，所以这里教育的还包括了一系列关于政治参与的价值和知识的教育，公共讨论和政治宣传，对于好生活、好公民的价值判断……</p>
-<p>这本书并没有堆积无数枯燥干瘪的理论，而是收录了上至古希腊，下到20世纪乃至延续至今的大量案例，民主（雅典、美国等）与专制（斯巴达、德国纳粹等）构成贯穿全书的两条线索，案例和解释互相穿插，从中你可以窥见两种体制是如何形成完全不同的国民（公民）教育，是如何形塑每个人的观念和生活的。</p>
-<p>此外本书还非常实用，我们在日常生活乃至网络空间的关于公共事务的讨论中，常常会碰到无数“有理说不清”的情况，最后只能用“五毛”和“美分”廉价标签一贴了之。而这本《统治与教育》却能帮你解开这些捆缚着我们的逻辑死结，不仅使你不必掉入两难的话语陷阱中，还抽丝剥茧的告诉你这些霸气、含混、反逻辑、少理性的话语逻辑和话语方式是如何被权力用精确的技术制造、操控和传播的，教你如何辨别它们，形成对抗极权的免疫力。</p>
-<p><strong>1.</strong><strong>当你因为批评官员和政府被人喷“不爱国”时</strong></p>
-<p><strong>你终于能够把道理拎清楚了</strong></p>
-<p>“国家”是一个由疆域、民族、历史、文化、语言、传统等原初因素形成的单一总体。这样的国家连同它的政府成为国民爱国的“自然”对象。这里的“自然”可以是不假思索的感情自然流露，也可以是由于没有其他可选择对象而不得不然的那种自然而然。这是你的祖国，它的一切，包括可能是很糟糕的政治制度和政府，构成一个与你自然有联系、你不能不接受的认同对象。</p>
-<p>爱需要理由，是一种积极主动的认同，一个国家之所以值得认同，乃是因为它维护公民社会所共同认可的基本价值（自由、平等），使他们的集体存在有尊严（人权）、有道德目的（正义）、并符合他们认可的公正程序（法治、公正的政治代表机制）。因此，公民的爱国并不表现在一味地顺从国家权力，而在于要求和督促国家权力不要破坏公民群体所共同珍惜的东西，尤其是人的尊严生活所必需的那些民主价值。在特殊情况下，公民爱国甚至可以通过公民不服从来表示。</p>
-<p><strong>2.</strong><strong>明明有那么多不同的声音</strong></p>
-<p><strong>为什么我们总是看到一致通过，零票否决呢？</strong></p>
-<p>所有的政府都希望能够摆出一种思想统一、团结一致的阵势，但只有极权才能做到这一点，而且也非得做到这一点不可，因为极权统治自称掌握了绝对的真理，对绝对的真理当然不允许有不同的意见和看法。但是，极权统治的最高层的内部权力斗争从来就没有停止过，纳粹高层的争斗就一直很激烈，所以希特勒不止一次地下达命令：内部争论一定不能外泄。</p>
-<p><strong>3.</strong><strong>在历史中有许多我们大多数人被迫要保持沉默的“事件”和“时刻”，很多人看起来都对过去的事情（哪怕是巨大的灾难）都毫不关心、语焉不详，</strong><strong>沉默</strong><strong>的仿佛</strong><strong>失忆</strong></p>
-<p>一般来说，很难精确预测哪些异议特别具有传染力，特别容易扩散，这就像很难预测哪种流行病菌会在哪一年流行一样。一方面，总是会有不止一种异议在悄悄传播，直到某一种突然越过了“临界点”，一下子传染开来，连时时防守者也觉得出乎意料。另一方面，制止一种异议的方法也同制止流行病相仿，无须把异议从每一个人头脑中抹掉，只要能有足够多的人停止散播就可以了，只要有足够多的人不传播病菌就可以了。那些被禁止公开谈论或讨论的历史事件，只要大多数人不再想它，不再去说它，它也就得到了控制。</p>
-<p>但是，永远也无法预料，什么时候、在哪里、会因为什么事情、又一下子会出现了多大面积的民众异见。但是无论何时出现这样的情况，扑杀的办法是一样的，那就是，让足够多的人对传播异见心怀恐惧，让足够多的人至少在公开行为中保持顺从和沉默。当大多数人不再公开表示某种异见时，异议的传播也就停止了，所以，让大多数人对某事保持沉默，是让异见从公共话语中消失的有效方法。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-%E4%B8%8B%E5%8D%889.25.54.png?resize=506%2C398" alt="Screen Shot 2016-04-16 at 下午9.25.54" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午9.25.54.png?resize=300%2C236 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-16-at-下午9.25.54.png?w=506 506w" sizes="(max-width: 506px) 100vw, 506px" data-recalc-dims="1"></p>
-<p><strong>4.</strong><strong>在</strong><strong>20世纪的极权国家，行政系统一刻也离不开思想控制，宣传因此成为极权统治的基础和核心，或许你认为自己有独立思考的能力，有政治目的的宣传不那么容易进入你的大脑，然而，这并不意味着宣传的失败</strong></p>
-<p>宣传的目的并不只是改变和形成人的想法，而更重要的是改变人的公开行为，是使人有正确行为。哪怕一个人的想法没有真正改变，但只要他的公开行为按照所宣传的样子被改变了，宣传就已经成功地达到了目的。这是极权宣传最重要的特点和作用，也是顺民假面生活从极权制度一直延续到后极权或新极权制度，代代相传、延绵不绝的根本原因。</p>
-<p>“宣传不再是为了改变人们相信某种原则，而是为了使人非理性地照某个样子行动。宣传不再是引导人去选择，而是引起条件反射，不再是改变想法，而是灌输神话信仰。”</p>
-<p><strong>5.</strong><strong>或许你认为自己是拥有知识和判断力的现代人，不会那么轻信宣传，也许事实恰恰相反</strong></p>
-<p>现代人是一个丧失了传统自然群体归属（家族、村落、邻里、同乡、世交等）的孤独存在。他是一个存在于陌生人群体中的原子，与他人只能结成抽象的群体联系（民族、人民、群众）。宣传为这样的原子个体提供与陌生人和遥远地方相联系的事件新闻。介入这些事件能使孤独的个人有一种与他人在一起的共在和参与感，让他觉得与他人拥有同一个生活世界，汇集在同一种情绪或感受之中。宣传瞄准的对象不是单纯的个体，而是置于群体中的孤独个体。</p>
-<p><strong>6.</strong><strong>然而即便如此，极权宣传的效果也常常与它的投入不成正比，它有着三种不可克服的内在缺陷</strong></p>
-<p>极权宣传的第一个内在缺陷是为自己设置了不切实际的目标。不切实际的目标注定只能有自欺欺人的结果。极权宣传自称代表绝对真理，并企图统一所有人的思想，它必须证明极权政权及其意识形态的绝对正确等等，并以此为理由要求所有人的绝对服从。绝对的正确必然需要绝对的权力来支撑，而绝对的权力又必然带来绝对的腐败。</p>
-<p>极权宣传的第二个内在缺陷是自我评估机制失灵。极权宣传表面越成功，就越无法评估自己实质是多么失败。极权宣传是一种典型的以“正确行为”代替“正确思想”的宣传。它的有效性可以从人们没有公开的不正确行为来评估，却无法从人们没有不正确思想来评估。</p>
-<p>极权宣传的第三个内在缺陷是，党逻辑的意识形态无法控制人对经验世界的感受。为什么连宣传干部都难以相信自己所宣传的东西呢？这是因为他们也是生活在经验世界中的人，在这一点上，他们和老百姓并没有太大区别。</p>
-<p><strong>7.</strong><strong>民主社会的宣传与极权生活的宣传并不相同。民主社会的“公关”式“宣传”是零碎的，根本不可能有高度组织的政权力量来作后盾。</strong><strong>那么正常生活中“说服”和带有欺骗性的“宣传”要如何分辨呢？</strong></p>
-<p>宣传是单向贯彻信息发送者的意图和需要；而说服则是双向互动的，兼顾信息发送者和接受者双方的需要。宣传居高临下，为达到目的可以不择手段，随时可能在交流的某些环节上违背真实原则；而说服则必须平等对待对方，诚实地遵守真实原则；而说服则必须平等对待对方，诚实地遵守真实原则。宣传往往不容受众发问，因此依靠某种外部强制力维持信息的传递机制；而说服则必须容许、鼓励对方发问，双方都是自由而不受胁迫的自主主体。</p>
-<p>因此，在宣传和说服之间不只是话语样式的选择，而是话语制度环境的区别。</p>
-<p><strong>8.</strong><strong>武断、粗暴、空洞、蛮不讲理的言论方式，实质是在为愚民政策买单</strong></p>
-<p>长期主导和影响中国公共言论的独语式宣传是造成中国不讲理，非理性公共语言的主要力量。这种宣传语言充斥着在报纸刊物、广播电视、大众传媒、文化产品、教育用书中，成为对民众语言的日常教育，起到了极大的潜移默化作用。它对人们事理认知，说理方式，心理期待，逻辑运用，语言习惯都有深远而持久的负面影响。</p>
-<p><strong>9.</strong><strong>细读既是学习并实践公民思想的人文训练，也是一种“自由教育”，至少让思想免受极权雾霾的侵袭</strong></p>
-<p>说理的交流特别得借助于文字。逻辑谬误出现在口头话语中，因为一句接一句，往往不可能一下子“听”出来。当然，在文字表述中，如果只是“粗读”，也是读不出来的。所以，说理教育的一项基本的学习和阅读训练就是“细读”。</p>
-<p>细读是一种专注的阅读，也是一种开放式的阅读。细读要求读者先搁置自己的立场和想法，从写作者的角度来看他说的是否有道理，评估文本是否能够自圆其说、言之有理、论之有据。逻辑是评估的关键部分，但并非全部。细读还要对文本的内容有所思考和判断的，看它是否符合普遍道义原则，如尊重他人的自由、平等和尊严。说理反对极权宣传的理由不仅是因为极权宣传不逻辑、非理性，而且更是因为极权宣传的目的是帮助维护一种专制、排斥、迫害、不民主、非正义的政治和社会制度。细读的人不是一个被动的文本阅读者，而是一个以价值判断积极介入公共生活的独立思想者。</p>
-<p><strong>10.</strong><strong>要追求真正的好生活，就不能食嗟来之食</strong></p>
-<p>苏格拉底说，不经过思考的生活是不值得去过的，对任何一个有自我意识和自由理智的人来说，真正的好生活应该是他自己选择、自己想过的好生活，照亮他内心洞穴，让他知道什么是好生活的光亮，无论这光亮多么微弱，都应当是他自己见到的光亮。</p>
-<p>由哲人或英明人物等所发现并强加于人民的好生活，就算确实是好生活，在蔑视人的自由、理智这一点上，仍然与人本主义的好生活背道而驰。拒绝威权的好生活是一种道德价值，而非是功利得失的评估结果：专制集权的好生活给一个人带来再多的物质满足、国家强盛，他也还是因为它不能给他自由，不尊重他的理性而感到不幸福，对于不幸福的他来说，专制极权的好生活就不是好生活。</p>
-<p>《统治与教育：从国民到公民》</p>
-<p>徐贲，中央编译出版社、三辉图书 2016.1</p>
-<blockquote><p>教育是一个美好的字眼，教育是人类的一种像饮食一样自然的需要。</p>
-<p>教育是为了让人明白道理，而不是让统治者能更方便，更随心所欲的统治他们。</p>
-<p>现代的国民教育当它是民主的公民教育时，可以帮助人民变得更智慧，更有自我治理的能力。然而，当它是专制统治的臣民教育或者党民教育时，它欲使人民变得愚昧，顺从，我们关注国民教育，期待的是第一种，警惕第二种。因为第二种国民教育是一种有毒害作用的“教育”，它伪装并掩盖了发明者。想要支配和控制人民的权力欲望，而这种权力欲望带来的几乎无一例外都是压迫，奴役，专制。</p></blockquote>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%AD%A3%E9%A3%8E%E8%B5%8F%E4%B9%A6-%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E8%AE%A9%E7%BB%9F%E6%B2%BB%E8%80%85%E8%83%BD%E6%9B%B4%E6%96%B9%E4%BE%BF%E5%9C%B0%E7%BB%9F%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E7%BB%9F%E6%B2%BB%E4%B8%8E%E6%95%99%E8%82%B2%E3%80%8B/?category=18271" rel="tag">《统治与教育》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">公民教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">威权政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%92%8B%E7%A5%96%E6%9D%83%EF%BC%9A%E9%80%8F%E8%BF%87%E6%B8%85%E6%9C%AB%E7%9C%8B%E5%8E%86%E5%8F%B2/" target="cdt-mirror">CND | 蒋祖权：透过清末看历史</a>
-</h2>
-<p><p>清末，慈禧反对戊戌变法，是怕变法动摇大清和她的统治。</p>
-<p>八国联军打进北京后，慈禧主动变法改革，预备立宪，也是为保大清和她的统治。</p>
-<p>慈禧变法改革不是为了老百姓，而是为保住统治地位。</p>
-<p>古今中外，那些为保住统治地位的改革最后都没成功，法国路易十六，俄国尼古拉二世，大清慈禧，这都是活生生的案例。</p>
-<p>历史嘛，都是恶人之间的博弈，古今中外都一样，不是恶人也抢不到那个高高在上的位置，如今西方社会有了一套控制恶人的规矩，中国什么也没有。</p>
-<p>中国老百姓总是恶人博弈中的受害者，受害者还最爱看恶人博弈的热闹，并不在乎身前身后的深受其害，或者根本就想不明白。</p>
-<p>近代中国百年，唯一在恶人博弈历史中受益的，目前只有幸运的台湾观众。</p>
-<p>对比今天看清末，当时的朝廷开放报禁，满清皇权预备立宪，武昌清军起义，各省纷纷独立，孙中山能让大总统，袁世凯能劝满清退位，清政府能签字同意。清末的那个时代，还残存些许人性与良知。慈禧太后的变法，不论这个女人是何种动机目的，这个女人能做到开放报禁，和预备立宪这两件事，至今无人超越。</p>
-<p>我曾经写过几段清末往事，也有人说我美化清末。清末实行新政，开放报禁，1906年宣布预备立宪，1908年公布九年立宪时间表，各省设咨议局，选举议员。</p>
-<p>——这些不是美化，而是后来人始终不及。</p>
-<p>另外清末官场腐败，世人皆知，也无法美化，只因为如今官场比清末更加腐败不堪，才显得清末还有一些良知和理智。</p>
-<p>甲午战后，清政府开始官费派遣学生去日本留学，并鼓励民间自费到日本学习。在经受了八国联军打进北京，以及日本战胜俄国等事件之后，清政府派遣大臣赴日本及欧美考察宪政，并决定预备立宪。</p>
-<p>透过清末看历史</p>
-<p>尤其是清政府在《钦定宪法大纲》里明文规定［臣民法律范围内，所有言论、著作、出版及集会、结社等事，均准其自由］，第一次在具有国家基本法性质的法律文件中明确作出了赋予民众言论出版自由的规定。《大清报律》改传统官方对民间办报的一律禁绝和批准制为注册登记加保证金制，只要［年满二十岁以上］且［未经处监禁以上刑的本国人］，就可以充任报刊的［发行人，编辑人及印刷人者］，彻底放开了报禁和新闻自由。</p>
-<p>一百多年前，一个骑马射箭的少数民族都能做到这一步，今天的中国，能否超越清末的气度与胸怀？——很显然，还不能。</p>
-<p>一百多年来，有哪个男人超过慈禧太后打开中国的能力和力度？——很显然，真没有。</p>
-<p>站在今天，回首百年，中国人注定要辜负那个变革的时代，注定要自找一百多年苦吃。</p>
-<p>1911年10月10日晚，满清新军工程第八营打响了武昌起义的第一枪！武昌城内外各标营纷纷响应，一夜之间三千多人起义，几个月后满清政府垮台。</p>
-<p>自恃有兵在的满清政府，反转了军队只能对外用兵的职能，频频用在对付老百姓身上，最后也终于用到了他们自己身上。</p>
-<p>1911年10月10日晚，旗兵和武昌四大满姓家族统统被杀，武昌起义的第二天早上，当十八星旗飘扬在总督衙门，附近的街道也堆满了满人尸体。随后，西安2万多满人，有1万多人被杀。广州满族宣布和清政府脱离，一样大量被杀。杭州，河南等地满人也同样被杀。满清错失了转型的机遇，满人群体也遭遇了被屠杀的厄运。立宪慢了一拍，历史误了百年。</p>
-<p>几千年以来，中国人传颂宁为玉碎不为瓦全的豪情，走过好死不如赖活着的漫长历史。</p>
-<p>读着天下兴亡匹夫有责的文章，反复遭遇宁可大家一起死，谁也不想先出头的屠杀。</p>
-<p>吟诵先天下之忧而忧，后天下之乐而乐的诗篇，重复事不关己，默默旁观的世代人生。</p>
-<p>在高大上的文化表象下面，遗传着决定中国历史恶循环的潜规则信仰。</p>
-<p>还有一个千古不变的秘密，就是每个奴性的心底，都存着一套皇帝的模式，省长有省长的一套，村长有村长的一套，个体也有个体的一套。</p>
-<p>所以推翻了满清，中国也没走上宪政之路。推翻了民国，中国也没走上民主之路。</p>
-<p>一百多年之间，发明了太平天国土改文革，自相残杀死伤无数，自己把自己国家打砸了好几遍，也没有找到一个公正公平的生存方式。</p>
-<p>一百多年之间，一直无法打破愚昧体系做出理性选择，不断从一个疯狂走向下一个疯狂。</p>
-<p>基督教传进来，中国人读罢了《劝世良言》，只用了几年时间就把上帝改编成了太平天国，打杀砸抢了半个中国。</p>
-<p>马列传进来，中国人挥霍了几个年代，就腐败得比清末还要疯狂了。</p>
-<p>不好的东西传进来能坏得变本加厉，好的东西传进来也能变得面目全非，这是一百多年以来，反复被中国人错解的悲哀命题。</p>
-<p>那些靠侵吞国有资产，掠夺民间血汗暴富起来的少数人，他们是永远不可能去解决多数人关心的生存问题，他们只会制造问题，转移赃款。</p>
-<p>当今中国公正丧失，唯利是图，官场腐败，社会沉沦等问题都是来自集权与极权的人治模式，和世代传承的奴性文化，与外来病毒思想结合的［三体］体系。单单破除和改善其中一项，是无法改变整体状态的。在这个体系里，都是受害者。外加遇到像崇祯皇帝那样的无能末代管理者，就算一小节雪上加霜的插曲吧。</p>
-<p>很长一段时间里，我也认为历史上的战乱和灾祸都是少数人造成的，大多数人都是无辜的受害者。</p>
-<p>后来疑问少数人怎么可能左右几千年的历史恶循环呢？少数人只是邪恶的代表而已，大多数人旁观容忍，才是邪恶和灾祸不断发生的基础根源和千年支撑。明亡怨崇祯，清亡恨慈禧，历史一次次把责任推给少数人，少数人是无法对多数人负责的，少数人负责历史只有集权和极权。</p>
-<p>未来中国是一个什么样的社会，取决于［是否还是少数人先站出来，而多数人继续跟风］。</p>
-<p>如果还是这样的习惯状态，即使实行民主，即使一人一票，还能选出洪秀全，或者一人一票，带你去文革。</p>
-<p>中国的传统文化本来就有毒，加上近代外来病毒思想的侵蚀，所以从太平天国，义和团，到文革一直连续毒发。</p>
-<p>从义和团爱国，到红卫兵爱国，从五毛爱国到贪官也爱国，终于把这个国家爱成现在这个样子。编造历史去肯定这些人是爱国的，这个国家将什么也不是。</p>
-<p>二百多年前的乾隆皇帝，知道远隔万里的路易十六被砍了头，也读不懂大革命的含义。</p>
-<p>他的接班人嘉庆皇帝，看着比自己小九岁的拿破仑横扫欧洲，也看不懂世界的风起云涌。</p>
-<p>一直等到1840年被炮火打开国门，从那一刻中国掀开了被外部世界影响的历史。</p>
-<p>历史没有回头路，不是主动跟着走，就是要被赶着走。</p>
-<p>但是近代史说明，单凭英法等国的几发炮击，和日俄刺刀的几年占领，还无法提醒和改变一个奴性痴迷的民族。</p>
-<p>千百年以来，能改变这样民族的，除了蒙古杀人无数的弯刀，满清残酷屠城的马刀，还有就是那把镰刀。到目前为止，能改变中国历史和中国人的，一直是屠夫。</p>
-<p>千百年以来，不管是蒙古人，汉人还是满人，靠屠杀就可以统治这个国家几十年甚至几百年。如果除了多杀人，还能多撒谎，那就更上一层楼了。</p>
-<p>不仅可以高枕无忧地统治这样的国家，还能名正言顺地掏空这样的国家。</p>
-<p>只是千年兴亡，总是依靠腐败以毒攻毒，未必每次都能起死回生。</p>
-<p>历史上的中国，要么忍，剃发易服为奴，听从强权安排，任由少数人宰割。</p>
-<p>要么乱，你死我活内斗，自相残杀成匪。</p>
-<p>历史上的中国人，要么在专制之下变态生活，要么在动乱之中扭曲人性，从来没有理性选择过国家的命运。</p>
-<p>曾经几次亡国都依然不肯变革的国家，注定要走到一次变革都有可能亡国的地步。</p>
-<p>就连一个顺理成章的问题，都可能要用一种毁灭的方式去解决。</p>
-<p>还有一个特色，就是近百年来，文人学者也好，房地产商人也好，知名主持人也好，真愚蠢和假装愚蠢也好，总是愿意去找放火的人商量救火的事，也真是醉了。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%92%8B%E7%A5%96%E6%9D%83%EF%BC%9A%E9%80%8F%E8%BF%87%E6%B8%85%E6%9C%AB%E7%9C%8B%E5%8E%86%E5%8F%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">中华民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">大清朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%9A%E6%B8%85/?category=18271" rel="tag">晚清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%AB/?category=18271" rel="tag">清末</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%8B%E7%A5%96%E6%9D%83/?category=18271" rel="tag">蒋祖权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -707,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -717,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

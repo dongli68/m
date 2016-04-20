@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/" target="cdt-mirror">【立存此照】不善意的批评不欢迎 还要审</a>
+</h2>
+<p><p>4月19日，习近平在京主持召开网络安全和信息化工作座谈会，并且在讲话中提到“对网上那些出于善意的批评，要欢迎”，微博上的学习小组在转发此条消息的时候关闭了评论，引起一些网友注意，嘲笑为“高级黑”。几小时，学习小组才取消了该微博下的评论限制。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgZ5bOqW4AAy5Sx.jpg?resize=600%2C511" alt="CgZ5bOqW4AAy5Sx" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgZ5bOqW4AAy5Sx.jpg?resize=300%2C256 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgZ5bOqW4AAy5Sx.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%96%84%E6%84%8F%E6%89%B9%E8%AF%84.jpg?resize=595%2C527" alt="善意批评" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/善意批评.jpg?resize=300%2C266 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/善意批评.jpg?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自该微博下的部分评论：</strong></p>
+<p>@青儿_江湖路远行者不惑：求别封外网，求别搞“网络”封关锁国。</p>
+<p>@陈香蕉的主治医师：你问我滋磁不滋磁，我当然滋磁啊。</p>
+<p>@江南布衣陆书全: 你这个善意还是恶意，如何界定啊？既然想听批评，就应该做到有则改之无则加勉。更彻底的做法应该是立法保障人民自由批评，不受追究的权利。</p>
+<p>@喜欢你的那个小伙伴说：test 我就看看我能不能评论</p>
+<p>@paniger：17：00发的 21：00才开始评论。</p>
+<p>@細愁輕夢：评论有时可以有时不可以。</p>
+<p>@业余宇航员：怎样的算恶意批评呢？</p>
+<p>@绝望旅行：怎么判断是不是善意需要水平。</p>
+<p>@雪刀ing：领导为小事这么操心太不爱惜身体了，要批评你！</p>
+<p>@王周生: 讲讲容易，就看做不做。</p>
+<p>@重庆农家散养鸡蛋：以前说的可是尖锐批评啊</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0069ImmIgw1f335026atoj30j60cxjss.jpg?resize=440%2C297" alt="0069ImmIgw1f335026atoj30j60cxjss" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0069ImmIgw1f335026atoj30j60cxjss.jpg?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0069ImmIgw1f335026atoj30j60cxjss.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>@DDSP5D：你给我搞的这个禁ping啊，excited！</p>
+<p>@Flyingcrane000：这意思就是出于恶意的批评要大力打击！</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C/?category=18271" rel="tag">，</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%84%E6%84%8F%E6%89%B9%E8%AF%84/?category=18271" rel="tag">善意批评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E6%AF%92%E6%A0%A1%E5%9B%AD%E5%AE%B6%E9%95%BF%E8%A2%AB%E8%AD%A6%E5%91%8A%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%83%B9%E4%BA%8B/" target="cdt-mirror">网易路标 | “毒校园”家长被警告：不要“惹事”上访</a>
+</h2>
+<p><p>网易《路标》 文|徐雯新 编辑|郭清媛</p>
+<p>常州外国语学校身为常州市名校，如今陷入“与毒地为邻”的纷争之中。2015年底，该校多位学生家长发现学生身体出现异常情况，家长在就校园旁边的常隆地块污染问题上访的过程中，多次遭遇相关部门阻拦，被告知“不要惹事”。个别家长遭受了被有关部门传唤询问、短期拘留的经历。他们多次被居住片区的管理者要求，签署“为维护公共秩序”而不允许静坐示威的《法律宣告单》。</p>
+<p>根据网易《路标》了解，常州外国语学校（以下简称“常外”），是由江苏省常州高级中学于2001年独资创办的学校，其初中部每年的中考分数和升学率在常州市位居前列。</p>
+<p>目前，学校每个年级16个班，初一初二共有学生约1500名。“毒校园问题”在2015年底初现，常外多位家长发现自家孩子身体出现异常情况，多数学生体现为甲状腺结节钙化、淋巴肿大、白细胞降低等症状。与学生们的病症相对应的，是与学校一路之隔的常隆地块，系农药厂旧址。</p>
+<p>对此，1月8日，以初一初二学生家长为主的1200位家长，向常州市各级政府、环保、教育、信访部门，写联名信，对学校和当地政府提出质疑，并申请学校搬迁，保护学生身心健康。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152138ac786_550.jpg.550x10000.75.auto_.jpg?resize=550%2C732" alt="20160420152138ac786_550.jpg.550x10000.75.auto" data-recalc-dims="1"></p>
+<p>据《财新周刊》报道，2月21日，学校公布了委托第三方公司进行的空气和部分放射性状况及土壤、地下水检测报告，结果显示“检测指标均达标”。家长们认为这些数据没有说服力。</p>
+<p>之后，又有1291位初一、初二年级的家长，集体出钱，自行请第三方检测机构上海实朴检测技术服务有限公司来做环境检测，目前，结论暂未出来。</p>
+<p>年初至今，在家长们联名申请迁校以及向政府提出抗议之时，他们向政府的问责之路受到了多般阻挠。超过5位家长向网易《路标》表示，自己和家人曾遭受过有关部门的传唤和询问，对于有工作的家长，家长所供职的工作单位，也会向家长进行类似“不要惹事”的劝导工作。</p>
+<p>常外家长李某称，他认识的一位身为常州市某区政协委员的家长，也曾造片区派出所询问过。</p>
+<p>在1月15日，这位政协委员的询问，发生在他跟随其他家长，到学校表达了搬迁过渡的诉求之后。据一位不愿具名的知情者称，这位政协委员在接受询问时，被要求“保证不上访”。</p>
+<p>“也会采取上门谈话的方式”，家长李某称，他不在的时候，就是家人接受谈话。“上门直接找我父母，把老人吓坏了，我现在都让父母搬出去了。”</p>
+<p>常外家长张某称，他曾被短暂拘留了4个小时。今年3月1日晚，张某与其他家长打算一起将学生的病历汇总表，交给常外校长曹慧，由于曹慧一直没有出现，家长们在曹慧办公室附近等到了晚上12点。随后，出现了一群人，把家长和校长办公室之间的门隔开，曹慧在这群人帮助下离开办公室。张某当时情急之下冲曹慧大喊“曹校长，要救救孩子啊！”</p>
+<p>这句话导致张某被这群帮助曹慧离开办公室的人带到了龙虎塘派出所，他违反了治安处罚条例，最高可拘留15天。张某说，这群人到了派出所之后就换上了警服。从3月2日凌晨0点到4点，张某在派出所度过了4个小时后被保释。</p>
+<p>4月8号，常外家长陈某也收到常州市公安局新北分局的传唤，理由是“煽动、策划非法集会、示威”，对此，陈某已不愿过多说明。</p>
+<p>此外，网易《路标》也接触到了多位曾被有关部门多次传唤询问的家长，他们称，“我们得签署法律宣告单”。</p>
+<p>上述家长向网易《路标》提供了这张《法律宣告单》，该宣告单以“维护正常的公共场所秩序、单位办公秩序和交通挂历秩序”为目的，《人民警察法》、《刑法》、《治安管理处罚法》，罗列了6种违法行为，并标明了违法后果。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152054ed6d0_550.jpg.550x10000.75.auto_.jpg?resize=550%2C733" alt="20160420152054ed6d0_550.jpg.550x10000.75.auto" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152054ed6d0_550.jpg.550x10000.75.auto_.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152054ed6d0_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>在这张宣告单内，依据《人民警察法》，公安机关可以对严重危害社会治安秩序的人予以强行驱散或代理现场予以拘留。依据《治安乱理处罚法》，采取静坐、示威、喊口号、拉横幅等行为的，可处以罚款、拘留等。阻碍国家机关工作人员依法执行职务，强行冲闯公安机关设置的警戒带、警戒区、或者阻碍执行紧急任务的警车等车辆通行，处警告或200元以下罚款；情节严重的，处五日以上十日以下拘留。</p>
+<p>依据《刑法》，对聚众扰乱社会秩序致使工作、生产、营业和教学、科研无法进行，造成严重损失的首要分子，处三年以上七年以下有期徒刑；对其他积极参加的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。</p>
+<p>面对上述被要求“噤声”的情况，家长多表示不解与愤怒。</p>
+<p>如今，自媒体报道揭开盖子后，常州“毒地”引发舆论关注。环保部、教育部先后发声。4月19日，新华网发表《六问常州外国语学校“毒地”事件》，斥责学校“死扛”，“像鸵鸟一样把头插入地下”：“面对学生家长诉求，学校方面一味否认、推诿，态度令人费解。”</p>
+<p>《六问》追问说，“毒地”的盖子却被狠狠地捂住，到底是哪个部门、谁在阻止解决这一问题？背后有没有利益纠葛？是否涉及失职、渎职？”</p>
+<p>（本文系网易原创稿件，版权属网易所有，未经授权不得转载，已经协议授权的媒体下载使用时须注明”稿件来源：网易《路标》”，违者将依法追究责任。）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E6%AF%92%E6%A0%A1%E5%9B%AD%E5%AE%B6%E9%95%BF%E8%A2%AB%E8%AD%A6%E5%91%8A%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%83%B9%E4%BA%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E6%BA%90/?category=18271" rel="tag">污染源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E7%89%A9/?category=18271" rel="tag">污染物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E8%AF%84/?category=18271" rel="tag">环评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83%E9%81%AD%E7%BB%B4%E7%A8%B3%EF%BC%8Cqq%E7%BE%A4%E8%A2%AB%E5%85%B3%E7%BE%A4%E4%B8%BB%E5%8F%97%E7%9B%91%E8%A7%86/" target="cdt-mirror">美国之音｜疫苗维权遭维稳，QQ群被关群主受监视</a>
 </h2>
 <p><p>不久前山东疫苗案引起的舆论震动尚未平息，然而就在疫苗致病、致残的案例开始走出维权人士的小圈子，进入媒体和民众的视野时，一个有1000余名成员的疫苗维权QQ群却于日前被腾讯解散，曾担任群主的余同安也于16日前后开始受到国保的严密监视。</p>
@@ -614,58 +677,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E7%BD%91%E4%BC%A0papi%E9%85%B1%E9%81%AD%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B0%81%E6%9D%80/" target="cdt-mirror">腾讯新闻 | 网传Papi酱遭广电总局封杀</a>
-</h2>
-<p><p>影视口碑榜（微信ID：yingshikoubei）讯：影视口碑榜从消息人士处获悉，2016年第一网红papi酱近日遭到广电总局封杀，有视频平台收到广电总局通知，要求将《papi酱》系列作品下线，原因为“以直接、暗示、辱语等方式表述粗口、侮辱性语言内容较多”。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574592.jpg?resize=600%2C176" alt="133574592" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574592.jpg?resize=300%2C88 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574592.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>papi酱号称2016年第一网红，1987年2月17日出生于上海，毕业于中央戏剧学院导演系 。2015年10月，papi酱开始在网上上传原创短视频。2016年2月份凭借变音器发布原创短视频内容而走红，包括嘴对嘴小咖秀，台湾腔+东北话；其中她发布的短视频《男性生存法则第一弹》在微博上小爆发，获得2万多转发、3万多点赞。而后又推出了系列视频，如日本马桶盖、男女关系吐槽、烂片点评、上海话+英语话等。</p>
-<p>2016年3月，papi酱获得真格基金、罗辑思维、光源资本和星图资本共计1200万融资，估值1.2亿左右。其中，真格基金、罗辑思维、光源资本和星图资本分别投资500万、500万、100万和100万,占股分别为5%、5%、1%和1%，papi酱团队持股88%。</p>
-<p>网红经济成为2016年的一个风口，但papi酱走红后也引发了大量质疑，其中包括网友的大力点赞，但其最为人所诟病的就是语言粗鄙，充满负能量。</p>
-<p>网友们认为，papi酱的视频具有清晰价值观：崇尚真实、摒弃虚伪、吐槽一切装逼行为、倡导个体自由，而这也正是年轻一代所共同追求的东西，papi酱的视频之所以能够获得广泛共鸣，原因便在于此。</p>
-<p>但与此同时，3月22日晚，微博实名认证为“共青团中央网络影视中心 党组成员 副主任”的网友小蔺，连发2条微博痛批网络红人PAPI酱，称其满嘴污言秽语，粗俗不堪，有关部门该管管。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574595.jpg?resize=600%2C423" alt="133574595" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574595.jpg?resize=300%2C211 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574595.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>官员痛批PAPI酱的微博内容如下：这个女子是网红“PAPI酱”，自称是“集美貌与才华于一身的心灵鸡汤教主”。视频中，该女满嘴污言秽语，粗俗不堪，对年轻人百般嘲讽挖苦毁损，却在优酷上吸引了大批粉丝。青少年看着这些毁三观的视频，听着这些粗鄙低俗的网言网语，心中哪还会有诗和远方？有关部门，该管管了。</p>
-<p>一小时后，该官员再发微博：“PAPI酱”可谓是当前的网红，有800多万粉丝。在她的视频中，充斥着“污言秽语”，网站给这种人提供传播平台，必然给青少年健康成长带来负面影响。真正有教养的女孩说不出粗鄙之语，这种人的目的无非是为了商业变现。如果有人投资，将会带来更多人的效仿和追随。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574597.jpg?resize=600%2C233" alt="133574597" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574597.jpg?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/133574597.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>papi酱走红后，获得罗辑思维大力扶持，优酷土豆成为其主要传播平台，罗振宇的罗辑思维作为papi酱系列视频的版权方，目前系列视频仍在优酷平台上，截至目前的点击量高达近5000万次。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E7%BD%91%E4%BC%A0papi%E9%85%B1%E9%81%AD%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B0%81%E6%9D%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%BA%E4%B8%BB%E4%BB%BB/?category=18271" rel="tag">蔺主任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E8%83%BD%E9%87%8F/?category=18271" rel="tag">负能量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%92%E7%BB%9D%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BA%A4%E6%98%93/" target="cdt-mirror">纽约时报 | 长平：我为什么拒绝与中国政府交易</a>
-</h2>
-<p><p>德国杜塞尔多夫——3月27日，在中国西南四川省，警察出现在我父亲70大寿的寿宴上。他们指控我的家人前一天焚香烧纸时<a href="http://www.straitstimes.com/asia/east-asia/chinese-police-accuse-overseas-dissident-chang-pings-family-of-arson" target="_blank" rel="nofollow">引发山火</a>。焚烧香蜡纸钱是一年一度的清明节的一部分，为的是缅怀故去的亲人。我的两个弟弟和一个妹妹被传唤到派出所后，很快发现他们被拘押另有原因。</p>
-<p>我是一个旅居德国的新闻工作者。三月中旬，我为德国之声(Deutsche Welle)写了<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%B4%BE%E8%91%AD%E5%A4%B1%E8%B8%AA%E7%9D%81%E7%9C%BC%E4%B9%8B%E7%BD%AA/a-19129146" target="_blank" rel="nofollow">一篇文章</a>，批评中国政府因为怀疑媒体人贾葭和一封广为流传的<a href="http://chinadigitaltimes.net/2016/03/open-letter-devoted-party-members-urge-xis-resignation/" target="_blank" rel="nofollow">公开信</a>有关联，而将其“秘密绑架”。那封公开信要求习近平辞职。中国领导人怀疑是政治对手策划了公开信的传播，为的是在共产党内部挑起异议。他们对可能与此信有任何瓜葛者都不放过。因此，我在中国的家人立即遭到警察骚扰。</p>
-<p>自从习近平2012年掌权以来，当局为巩固权力关押了大量媒体人和人权律师。但在一个中国人可以接触到境外新闻报道的时代，政府意识到仅仅让国内媒体人俯首听命还不够。领导人正在把海外写作者和人权活动人士作为目标。</p>
-<p>过去，被警察用请“喝茶”的方式骚扰，是海外异议人士在国内家人的家常便饭。绑架生活在国外的批评人士的家人是一种新策略。旅居纽约的异见人士温云超，被当局怀疑参与了公开信事件。上月底，其在国内的父母和弟弟<a href="http://cn.nytimes.com/china/20160327/c27china/" target="_blank" rel="nofollow">据称</a>被警方羁押了一周。</p>
-<p>数名书商在香港被<a href="http://cn.nytimes.com/china/20160105/c05china/" target="_blank" rel="nofollow">绑架</a>，是中共当局强化打压境外批评的另一个令人担忧的例子。半自治的香港是中国相对自由的地区。多年以来，这些书商出版了聚焦中共官员政治绯闻的杂志和书籍。然而，去年年底，几名书商陆续失踪，随后出现在大陆，声称正在配合警察调查自己的“非法”活动。</p>
-<p>这些严厉的行动，是中国正在进行的企图控制全球舆论行动的一部分。与此同时，成千上万中国政府支持的黑客在海外网站上发布煽动性的言论，攻击批评中国的文章。中国政府还投资了西方国家的电台和报纸。</p>
-<p>我一直担心家人可能会成为目标。我在中国媒体工作多年，很多呼吁自由和公开的文章激怒了审查机构。最终，我被禁止在大陆发表文章及出版书籍。2011年，我受邀到德国访问，随后再未回国。</p>
-<p>三月，警方在一天后释放了我的一个弟弟，并要求他与我联系。在电话上，他传递了警方的三点要求：删除我对四川当局的绑架谴责，撤回最近在德国之声上发表的那篇论及习近平的文章，以及答应以后不再写任何批评中国政府的评论文章。我弟弟说，如果我答应了，警察承诺会释放我的家人，并免除所谓失火案的赔偿金。</p>
-<p>我实在难以从命。我的弟弟又被拘押，加入了其他手足的行列，并在警方的控制下，不停地给我来发电子邮件，力劝我不要向媒体发布信息。他在邮件中称，警察没有使用“武力或刑罚”，而是“很人性化”地对待我的家人。</p>
-<p>“哥，你别误会，”我的弟弟说，“警官他们对我们是依法调查，请不要再发文章了，请删除以前发的。你说话很不负责任。”</p>
-<p>弟弟的哀求让我陷入痛苦的挣扎。我应该屈从于他们的绑架者，放弃写作吗？我还被告知，这场无妄之灾让我体弱多病的父母深受打击，处于巨大的压力之中。</p>
-<p>与中国政府合作，将改变我的生命旅程。如果我选择屈从，那不仅意味着放弃我的新闻事业，而且将玷污我深信的那些信念。</p>
-<p>我决定拒绝合作。我在网上贴出我和弟弟的部分往来邮件，公开当局的所作所为，我还屏蔽了他的邮箱地址。</p>
-<p>我的遭遇得到了国际社会的关注。在舆论压力之下，3月29日，警察释放了我的家人，但要求他们交纳3.3万元人民币（约合5100美元）的取保候审保证金。随后，当局要求我的父亲和弟弟接受媒体采访，并炮制了所谓的“个人声明”。在“声明”中，我的弟弟否认他们被绑架，并谴责我发表批评政府的文章。接着，当局宣称正式就纵火案对我的家人展开进一步调查。</p>
-<p>几个跟我的家人有联络的朋友说他们在生我的气。甚至有亲戚责怪我“不孝”。但我认为，我本人和其他媒体同行的工作是如此重要，我不能在威胁面前却步——哪怕这种威胁所指向的是我的家人。</p>
-<p>我的声音也许微不足道，但是我知道它在为自由而呐喊。我也想让中国警察知道，他们的手段并非总能生效。而且，我希望能和海外其他异议人士一起，通过反抗带来改变。我还想让国际社会知道，北京方面如何试图在世界各地破坏新闻自由。</p>
-<p>如若我们不阻止中国政府，将会有更多媒体人和他们的家人遭受折磨，而且人类的自由也将被日渐侵蚀，直到完全丧失。</p>
-<div>
-<p>长平现居杜塞尔多夫，是一名评论员及专栏作家，为德国之声撰稿。本文最初由Wenguang Huang译成英文，发表于《纽约时报》英文版。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%92%E7%BB%9D%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%BA%A4%E6%98%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">公开信事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E7%95%8C%E6%96%B0%E9%97%BB%E8%BD%AC%E5%8F%91%E5%80%92%E4%B9%A0%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">无界新闻转发倒习公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/?category=18271" rel="tag">给习近平的公开信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E5%B9%B3/?category=18271" rel="tag">长平</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -687,5 +698,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

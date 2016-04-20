@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83%E9%81%AD%E7%BB%B4%E7%A8%B3%EF%BC%8Cqq%E7%BE%A4%E8%A2%AB%E5%85%B3%E7%BE%A4%E4%B8%BB%E5%8F%97%E7%9B%91%E8%A7%86/" target="cdt-mirror">美国之音｜疫苗维权遭维稳，QQ群被关群主受监视</a>
@@ -58,7 +58,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%EF%BD%9C%E5%A4%9A%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B5%81%E9%BC%BB%E8%A1%80-%E6%B5%B7%E5%AE%89%E5%87%8C%E6%99%A8%E5%AE%A3%E5%B8%83%E9%99%84%E8%BF%91%E5%8C%96/" target="cdt-mirror">澎湃新闻｜多名小学生流鼻血 海安凌晨宣布附近化工厂全停产</a>
 </h2>
@@ -167,7 +167,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">推特中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%91%B5/?category=18271" rel="tag">陈葵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E8%A6%81%E8%AE%A4%E6%B8%85%E6%88%91%E5%9B%BD%E7%9A%84%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%90%8C%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">人民日报 | 要认清我国的产能过剩同资本主义国家的区别</a>
 </h2>
@@ -677,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -687,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

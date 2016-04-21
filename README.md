@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/" target="cdt-mirror">自由亚洲｜《明报》执行总编辑遭解雇 疑涉报道巴拿马文件肇祸</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg" rel="attachment wp-att-435619"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?resize=585%2C329" alt="《明报》总编辑钟天祥(右)以节省资源为由，即时解雇执行总编姜国元(左)。(苹果日报)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?w=622 622w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>《明报》总编辑钟天祥(右)以节省资源为由，即时解雇执行总编姜国元(左)。(苹果日报)</p></div>
+<p>香港明报执行总编辑、知名媒体人姜国元（笔名安裕），4月20日突遭解雇。明报职工协会对此极为愤怒，认为公司表面上以节减资源为由，实际是对在新闻编采上有不同意见的人员作出惩处。有人怀疑，姜国元被炒与明报报道了巴拿马文件揭露的香港富豪和政要成立离岸公司有关。</p>
+<p>香港《明报》职工协会4月20日中午在社交网站脸书发表声明指，总编辑钟天祥以节省资源为由，在凌晨突然解雇执行总编辑姜国元（笔名安裕），即时生效。明报员工协会对事件表示极度愤怒及不满，指事件不明不白，质疑公司表面以节减资源为由，实际是对新闻编采上有不同意见的人员，作出惩处。明报职工协会4月20日晚6时举行员工大会，邀请员工出席，要求管理层及总编辑，直接与同事对话及交代事件。</p>
+<p>明报公关部的一名职员向记者表示：“晚上的会是员工协会自己开的会。”</p>
+<p>记者：“姜国元先生是不是立即就离开了？”</p>
+<p>明报公关部职员：“姜先生已经离职了。”</p>
+<p>明报网站当天刊出声明，指由于经营环境困难，公司需积极采取节流紧缩政策，称“是次裁减涉及业务和编采部门人员，当中包括高层人员。”</p>
+<p>自巴拿马文件事件曝光后，《明报》、《香港01》及《壹周刊》三家媒体，分别与国际调查记者同盟接触，获得“巴拿马文件”中部份与香港有关的资料。《明报》自4月19日晚起陆续在即时新闻网站揭露文件中显示的香港富豪和政要成立的离岸公司，4月20日，《明报》也以此作头版。有人怀疑，姜国元被炒与这些报道有关。</p>
+<p>但据《立场新闻》引述知情的《明报》编采部人士称，姜国元被解雇与该报巴拿马文件报道应无关，但肯定是因为保守的总编辑钟天祥，不满姜国元长期以来处理敏感新闻的手法，而非节省资源。另两名知情的《明报》编采部人员，也向《立场新闻》证实，钟天祥一直以来取态保守，唯恐得罪权贵、中共和香港政府，与姜国元多次意见不合，长期累积矛盾。此外，也有人透露，姜国元近年在六四集会、七一游行等报道上，多次与钟天祥抗衡。</p>
+<p>国际记者联合会亚太区负责人、香港记者协会前主席胡丽云表示，事件确实有很多疑问：“明报说出来的原因就是说财政不好，所以减少一些人，不单只是执行总编，还有其他的人被解雇。当然这个原因可能是真的，但是我们觉得现在的经济环境不好不仅仅是今年发生的事情，其实去年开始就已经出现了，现在这个决定是要求他当天就离开，如果说是因为钱不够或者是减少开支的问题，那干嘛就是要这个人当天就离开？所以我们就觉得当中有很多不明不白，也有一些很多的怀疑留下漏洞，明报应该跟香港民众或是媒体人，特别是他们自己的员工有一个非常清楚的交代。”</p>
+<p>据了解，姜国元是资深传媒人，在《明报》编采部管理层当中，属敢言的一位。2014年，《明报》委任被指亲北京的马来西亚报人钟天祥“空降”任总编辑，当时任职执行总编辑的姜国元及助理执行总编辑陈锦强，连同各部门编采人员等逾百人，拿着不同日期出版的《明报》默站抗议。</p>
+<p>特约记者：忻霖 责编：石山/ 吴晶</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%8A%A5/?category=18271" rel="tag">明报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%8A%A5%E6%8D%A2%E6%80%BB%E7%BC%96%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">明报换总编事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%AF%BB%E8%80%85%E6%9D%A5%E5%87%BD%EF%BC%9A%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/" target="cdt-mirror">端传媒｜读者来函：吴维事件背后的中国留学生</a>
 </h2>
 <p><p><small>【编者按】 4月14日开始，“爱国”与“卖国”的战火又一次在中文互联网上引燃。这一次，爱国青年们的斗争对象，是悉尼大学的教师吴维。吴维在加入澳洲籍之后焚烧自 己的中国护照，使用“豚”称呼自己看不顺眼的中国学生。和以往不同，这次冲突因为翻译/语境的差异，是非判断变得复杂异常。一位身在悉尼大学的读者亲身卷 入了这场冲突，通过他的来信，我们也许能一窥事件背后的纠结语境。</small></p>
@@ -661,30 +685,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%90%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%A4%8F%E6%98%8E%EF%BC%9A%E5%80%92%E4%B9%A0%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%85%E9%83%A8%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89%E7%9A%84%E5%8F%8D%E6%98%A0/" target="cdt-mirror">法广 | 夏明：“倒习”是一种内部权力斗争的反映</a>
-</h2>
-<p><p>中国主席习近平接任最高领导权已有三年多时间。习近平掌权后展开的大力反腐运动，声势浩大，造成了很大的影响。国际舆论纷纷称习近平为毛泽东以来最强势的中国领导人。习近平掌权后的三年，中国发生了很大的变化，特别是在经济领域。持续了近三十年的经济腾飞，却逐年蒙上放缓的阴影。中国政府面临着经济和社会局势的严峻考验。在这样的背景下，中国最高领导人的威信也受到空前挑战。就此，我们请纽约市立大学教授夏明先生来谈谈看法。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-%E4%B8%8A%E5%8D%8811.04.56.png?resize=571%2C387" alt="Screen Shot 2016-04-18 at 上午11.04.56" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.04.56.png?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.04.56.png?w=571 571w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br><span>纽约大学市立教授夏明</span></p>
-<p><strong>法广</strong>：习近平掌权之初，似乎树立了极高的威信，民间广为流传“习大大”的亲切称谓，又称其夫人为“彭嘛嘛”。民间的这种做法反映了怎样的一种心态以及中国的特色？</p>
-<p><strong>夏明</strong>：“习大大”和“彭嘛骂”的出处，我觉得不应该来自于民间。应该是和他的子女有关系的。比较接近北京内部的人也对我讲过，说这里边可能是他的女儿和孙辈的人的一种运作。而且我们也知道有学习小组，学习小组也是由习近平的子女这一辈人所组成。那么他们在有意识地把习近平和彭丽媛打造成可爱的父母的角色。我觉得其中有两个含义，一个是他们想要把他们拉近、作为一种父母官的角色推出给老百姓。另外他想营造出一种亲民的形象，打造出习近平和彭丽媛的公关形象和公关品牌。民间当然就跟上去了。在中国有一种跟风，尤其跟风的原因，是因为习近平和他的家族毕竟给中国老百姓带来了某种希望，而习近平一上台以后，这种反腐、主要晋升中国社会的正气等等，也让老百姓感到了某种共鸣。所以“习大大”和“彭嘛嘛”也可以流行了起来。当然，下面还要有宣传部这些人的怕马屁，就把这个概念变成了非常风行的概念了。</p>
-<p><strong>法广</strong>：最近一段时间以来，习近平的威信似乎受到挑战。文宣系统多次出现不可思议的“政治事故”，甚至传出“倒习公开信”。您对此作何解读？其中的内幕究竟如何？</p>
-<p><strong>夏明</strong>：我们看到“倒习”当然是一种内部权力斗争的反映。因为对于中国老百姓来说，无论他们是生活在习近平一人独裁的统治之下，还是中共一党独裁的统治之下，其实差别都不是太大。所以对老百姓来说，到底习近平是想把他过去面对的集体领导方式、权利均衡的方式，把它推向习近平个人独大、就是委员会来治国，来突出习近平的权利地位，或是说进入到习近平所期盼的习核心的地位。这个权利争斗，其实对老百姓来说，关系不大。只要是中共的统治，对老百姓都是一样的。</p>
-<p>现在为什么对中国领导人来说，习近平他们的做法对他们的影响更大呢？因为我们知道原来在胡锦涛的统治之下，九龙治水是中共寡头的一种统治。这样的话，有几大家族，他们可以相互平衡，而且可以各有各的独立王国。其他人根本就是针插不进、谁也泼不进的。就像周永康打造他的政法和石油系统、刘云山打造宣传系统、还有江泽民家族垄断了电信系统、温家宝家族也垄断了各种新兴的、包括保险呢等这方面的系统。所以对于中共这些高级的官员来说，各大寡头来说，习近平想搞一者独尊、想赢者通吃的话，第一根本就在于，这么多家族，他们的利益是不是受到损伤？而以习近平目前这种打老虎的态势来说，当然伤害了许多山头的利益。包括像令计划、周永康、薄熙来，他们都被拉下来了。当然都是一个削山头的做法。所以也会给中国高级的领导人带来一种不安。</p>
-<p>另外一个方面，如果要削山头，下面的领导人就要站队。站队到底站对了还是站错了，你到底依靠的山头最后是被削平了、还是被习近平给收买了，或者你能够归到习近平一条线上，这些都是非常不确定的。而所有这些不确定性都会带来所有的高官担心他们的身家性命的问题。一方面他们可能丢官，丢了官就会丢掉财产。丢了财产，政治上可能就会受到党纪国法的处分。这样就在中共党内爆发了一场争夺权利的大拼搏。而且我们也知道，习近平在接班的时候，也遇到了几方的挑战。一个是胡锦涛钟爱的接班人，我们都知道是李克强。团派一直培养上来的。而令计划是胡锦涛的另外一个臂膀之一。令计划也有野心想做中国最高的领导人。另外在太子党里边，薄熙来也在争夺最高的权利地位。而且也跟习近平发生了冲突。在这样的情况下我们可以看到，习近平的地位遭到了各方的挑战。所以目前中层的共产党人要求习近平辞职的辞职信，我觉得更多地是中共内部派系斗争的结果。</p>
-<p><strong>法广</strong>：目前，习近平大力反腐的一个重要内容是阻止资本的外流。2015年，中国资本外流规模空前，引人深思。造成这一现象的主要原因是什么，它又将对中国社会产生什么样的影响？</p>
-<p><strong>夏明</strong>：这里边最根本的原因，我认为是习近平他根本就不懂经济、根本不懂经济最根本的规律。现代经济是资本经济，资本是流动性非常强的。而且资本有着两方非常灵活的角，它可以很快就从一个国家跑到另一个国家。但是如何把资本稳下来？不是靠命令。因为资本、尤其是外资和私营资本，它们很清楚地知道，如果你有绝对的权利，你就可能带来绝对的腐败、绝对的错误和绝对的愚蠢。这样的话，对资本的伤害就会更大。所以很多外资和私营资本就会撤走。那么，什么东西才是主权国家可以建立公信制的机制呢？资本主义的诞生是从１５、１６世纪，从地中海开始产生。到现在５００来年，它们已经发展出一系列的公信机制，只要遵纪守法、正常运做，就没有任何的主权国家、没有任何的国王可以掠夺我们的财产。</p>
-<p>这些公信力的机制第一来自于国会。第二，很重要的，就是中央银行。中央银行相对是一个独立、中立性的机构。它们以中立、独立来掌管货币。尤其是能够保障货币不至于通货膨胀。第三就是民主国家、发达国家、高度发达的资本主义体系，一般都会遵循汇率的自由流通，自由变化，也就是资本的自由流通，汇率是受资本市场或外汇市场需求的影响，国家并不去强制地管控资本的流通。所以这三点，我们看到，中国都没有。而习近平又以目前完全 “任我行”的方式来“反腐”和“管控经济”，这样其实他一手把法制经济给破坏掉了，另外把市场经济也破坏掉了。完全变成了一人的管控了。这样的管制经济当然会把所有的这些所有者吓跑。习近平交的越狠，资本跑得越快。李嘉诚就是一个例子。</p>
-<p><strong>法广</strong>：中国经济发展的放缓，对习近平为首的现政权究竟会在多大程度上造成影响，有否可能危及政权的稳定性？</p>
-<p><strong>夏明</strong>：当然我觉得首先是对习近平的地位有没有影响，第二对中共的地位有没有影响，是两个不同的问题。第一，对习近平来说，习近平要建威，主要的方法是反腐，他的“老虎苍蝇一起抓”，在刚开始的一年、两年，确确实实也吸引了老百姓的一些眼球。引发老百姓有些兴奋。因为对老百姓来说，他们本身在这个权利争夺中也得不到什么好处。但是他们看到有些打老虎受到整肃，当然心中是高兴的。但是一旦老虎被打下去，牵扯的人也越来越多，当然也就带来党内官僚体制的消极怠工、官员抵制、或者官员用各种办法来殆政。这就给老百姓带来两个结果：一个是，原来老百姓觉得，官员们贪也就贪了，但他们还干事情，但是现在呢，官员也贪了，却有很多官员不干事了、不理政了，这对很多老百姓来说，许多事情不会更方便，反而越来越不方便了。第二，就是反腐、反贪，最后的结果是到底对我的经济有什么影响？如果反了半天，对我个人没有任何实惠，相反，我的经济收入还在下降、我还得下岗、我还得面对物价的不断高涨，这样的反腐对我就没有价值。这样的话，反腐就会失去它的受欢迎度。习近平实际上就面临这两个挑战。这两个挑战其中当然有中国经济大趋势所决定的，另外有的是由习近平个人的错误所决定。所谓中国大趋势所决定就在于，中国在经历了30年的经济奇迹以后，随着中国经济当量的不断增加，本身这种两位数的增长数字是不可持续性的。全世界没有任何一个国家可以维持两位数的增长、维持到30年以上的。所以中国必定会回归常态、经济一定会从两位数回到一位数、从一位数回归到比较正常的5%左右。但是，中国政府没有做好这种未雨绸缪的准备。它当时没有认识到中国的经济会出现各种常规化的转换。尤其是世界上所有100多个发展中国家都经历过的中等国家的陷阱。他认为他是可以超越所有这些经济规律的，所以他打出“北京模式、中国模式、北京共识”，都是想去证明：世界上所有的经济规律、或者是世界上经济学家对他的警告，都是无用的。因为他觉得他掌握了奇迹、掌握了一个密码、可以维持永久的经济增长。这个想法完全是错的。第二是习近平的执迷不悟。他对当今全球化的经济，根本就没有理解。在这样的情况下，中国就不可能“筑巢、引凤凰”。</p>
-<p>当然中国经济也就不可能有所谓的凤凰涅磐。中国共产党过去有多余的钱，有了钱，它口气就大，它不缺钱以后呢，就用钱去花钱消灾。所以任何的维稳问题、任何的社会冲突、任何的军队的腐败，它里面的掩盖，都是靠钱来打点的。它在国际上的竞争，尽管它没有价值观，它没办法以普世价值、或是它的回归人类的主流获得人们的尊重。但是它可以不断地撒钱、也就是中国人说的”大撒臂外交“，它也可以获得某些好感。但是现在的问题是：一旦中国最不缺的东西＂钱＂开始缺了，没有钱了，该怎么办？它在国际上过去靠钱买来的朋友逐渐会离他而去，而在国内，以前靠钱消灾来打点、来弥合的这些冲突，现在也会逐步地暴露出来。习近平的地位当然就会受到人们的质疑、人们的挑战。这么多其他的中国领导人也会担心：如果照这样走下去，最后要全体崩盘、全体都要玩完。所以我觉得，中国无论是退休的、还是在任的领导人，恐怕都会有一种危机感。在这种情况下，权利一定会重新调整。中国的经济危机，恐怕不仅是带来习近平的危机问题，习近平的危机恐怕会带来整个中国共产党的危机。这个可能就是中国共产党所有的既得利益者所不愿看到的。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%A4%8F%E6%98%8E%EF%BC%9A%E5%80%92%E4%B9%A0%E6%98%AF%E4%B8%80%E7%A7%8D%E5%86%85%E9%83%A8%E6%9D%83%E5%8A%9B%E6%96%97%E4%BA%89%E7%9A%84%E5%8F%8D%E6%98%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E6%98%8E/?category=18271" rel="tag">夏明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%80%92%E4%B9%A0/?category=18271" rel="tag">媒体倒习</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">学习小组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%AD%E9%BA%BB%E9%BA%BB/?category=18271" rel="tag">彭麻麻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%B9%BF/?category=18271" rel="tag">法广</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -706,5 +706,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

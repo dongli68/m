@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E5%AF%B9%E5%BE%85%E6%89%B9%E8%AF%84%E8%8E%AB%E5%88%86%E5%96%84%E6%84%8F%E4%B8%8E%E6%81%B6%E6%84%8F/" target="cdt-mirror">于建嵘：对待批评莫分善意与恶意</a>
+</h2>
+<p><p>中央网络安全和信息化领导小组组长习近平最近指出：对广大网民，要多一些包容和耐心，对建设性意见要及时吸纳，对困难要及时帮助，对不了解情况的要及时宣介，对模糊认识要及时廓清，对怨气怨言要及时化解，对错误看法要及时引导和纠正。对网上那些出于善意的批评，对互联网监督，不论是对党和政府工作提的还是对领导干部个人提的，不论是和风细雨的还是忠言逆耳的，我们不仅要欢迎，而且要认真研究和吸取。</p>
+<p>习组长这些话，说得好！这对于近些年来，有关部门对待网络言论的错误管制，有一定的纠偏作用。我相信，有关部门会根据习组长这一重要指示，解决长期困扰网民的删贴和销号等问题。</p>
+<p>既然习组长有如此包容的胸怀，那我就这段重要指示中的“善意的批评”这个提法，提点“善意的看法”。</p>
+<p>从词义上看，“善意”就是指好心好意。它的反义词“恶意”，则是居心不良。可见，无论是善意还是恶意，都是从行为动机来分析人的行为的，描述的是人从事某种事情的念头或愿望。虽然，我们经常讲，善恶自有标准，但具体到某一行为，则很难做到客观准确。而且，人的动机不仅有非常复杂的结构，还有非常不同的表现方式，这也就决定，界定人行为动机的“善”或者“恶”是件十分困难的事情。</p>
+<p>而“批评”呢，就是对他人的缺点和错误提出意见。也就是说，批评是与“缺点”和“错误”联系在一起的。对某一行为是否有缺点或错误，不同的人站在不同的立场会有不同的观点，甚至完全相反的观点。批评者与被批评者往往处于这种“对立”状态。</p>
+<p>这就决定了，在对待批评者是“善意”还是“恶意”这类行为动机时，完全有不同的结论。批评者，也许认为，指出被批评者的缺点错误，是希望被批评者改进工作，有利于批评者的进步；而被批评者则认为，批评者别有心，小题大作，无端生事，影响到自己的前途。</p>
+<p>而且，在一些公共事务，特别是关系到国计民生问题上，批评者对官员的缺点和错误的批评，可能利国利民，但的确有可能影响官员的个人前途。也就是说，这样的批评对国家和民族是“善意”的，对官员个人而言是“恶意”的。</p>
+<p>可见，将批评分为善意和恶意，很难有一个客观标准。完全有成为被批评者拒绝批评，甚至作为打压批评者的借口。现实中，就有官员用各种“诛心”的手段，来打击报复批评者。</p>
+<p>我的观点是，作为执政者，在对待批评者问题上应该有法律意识和权利观念。要充分认识到，批评公权是公民的权利。执政者应该包容一切批评意见，无论是善意的还是恶意的，只要不是造谣诽谤等违法犯罪行为。</p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/" target="_blank">【立存此照】不善意的批评不欢迎 还要审</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E5%AF%B9%E5%BE%85%E6%89%B9%E8%AF%84%E8%8E%AB%E5%88%86%E5%96%84%E6%84%8F%E4%B8%8E%E6%81%B6%E6%84%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%84%E6%84%8F%E6%89%B9%E8%AF%84/?category=18271" rel="tag">善意批评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E7%BD%91-%E8%AE%A9%E7%A7%AF%E6%9E%81%E7%BD%91%E7%BA%A2%E9%A9%B1%E9%80%90%E7%B2%97%E9%84%99/" target="cdt-mirror">【异闻观止】人民网 | 让“积极网红”驱逐“粗鄙网红”</a>
 </h2>
 <p><p>这段时间，社会各界对“网红”现象的讨论很多。一方面，有不少人从经济学、营销学、传播规律等角度预言，“网红”将是2016年不可阻逆的网络趋势，认为“网红经济学”已来到我们身边；另一方面，鉴于目前大量“网红”让人感觉品位低劣，且有很多抖机灵、爆粗口等粗鄙表现，很多人对这一群体嗤之以鼻。在“趋势说”和“低劣说”之间，公共舆论场似乎缺少一种和解与平衡——每个人都看到了一个方面，并在不断强化着这种对立感和撕裂感。</p>
@@ -41,7 +61,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%AF%E6%9E%81%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">积极网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%BE%E6%B0%94/?category=18271" rel="tag">网络戾气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E6%9D%83/?category=18271" rel="tag">话语权</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/" target="cdt-mirror">自由亚洲｜《明报》执行总编辑遭解雇 疑涉报道巴拿马文件肇祸</a>
 </h2>
@@ -666,21 +686,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%B2%BE%E8%8B%B1%E7%A7%BB%E6%B0%91%E5%9C%B0%E5%9B%BE/" target="cdt-mirror">【CDTV】精英移民地图</a>
-</h2>
-<p><p>转自壹读视频</p>
-<p>【精英移民地图】经济学人报道说，超过16%的中国富人已经或正办理移民，44%准备离开。他们去了哪？美国虽然”名声差”，但绝对是中国投资移民最爱去的地儿，再加上澳洲和加拿大，三国拥抱了80%的中国投资移民……但，大多数人还是决定永远和祖国在一起，因为，贫贱不能移</p>
-<p><a href="https://www.youtube.com/v/R354zkTQNdk?version=3">https://www.youtube.com/v/R354zkTQNdk?version=3</a></p>
-<p><a title="精英移民地图" href="http://www.youtube.com/watch?v=R354zkTQNdk" target="_blank">精英移民地图</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%B2%BE%E8%8B%B1%E7%A7%BB%E6%B0%91%E5%9C%B0%E5%9B%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%BA%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">富人移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">投资移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">精英移民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -692,7 +697,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -702,5 +707,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

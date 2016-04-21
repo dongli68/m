@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,93 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%8A%A9%E6%95%99%E6%89%B9%E5%8D%8E%E8%A8%80%E8%AE%BA%E5%BC%95%E5%8F%91%E5%BC%BA%E7%83%88%E4%BA%89%E8%AE%AE/" target="cdt-mirror">美国之音｜悉尼大学助教批华言论引发强烈争议</a>
+</h2>
+<p><p>主持人：澳大利亚悉尼大学的助教吴维最近因为批评中国留学生与中国政府的相关言论，遭到中国网民人肉搜索，而悉尼大学校方也宣布他为此请辞。不过一部分在澳大利亚的中国民主人士发起了声援吴维的行动，到底支持与反对吴维的各方有何说法？事件的来龙去脉如何？下面我们通过SKYPE连线，请在澳大利亚墨尔本的中国民主人士吴乐宝来说明有关情况。</p>
+<p>吴先生您好。吴维在微博上批评中国留学生为”留学豚”， 也就是留学猪的意思， 他还公布了一段自己焚烧中国护照的视频，结果引发许多中国网民批评吴维是公开辱华，种族歧视。你对吴维的言论怎么看？</p>
+<p>吴乐宝：首先我感觉这既是意料之中，也是意料之外。</p>
+<p>意料之中是指我们对中国大陆的洗脑成果是非常了解的，这些愤青，或者是现在流行的语言叫小粉红，是如何可怕。在昨天我们就看到西安一家餐馆就打出庆祝日本地震的红色横幅，表示为了庆祝日本地震，赠送啤酒一箱。所以无论是中国留学生，还是大陆居民还是大陆主流媒体对吴维做出何种铺天盖地的攻击甚至是人身威胁的话，我都感到不奇怪。</p>
+<p>意料之外是西方媒体的反应，这一次是几乎是一边倒的支持留学生，而抨击吴维老师。我们了解这里有所谓政治正确的因素，作为西方媒体，他们是不愿意批评少数族裔的，但我想强调的是，我们作为一群中国的志愿者，我们是少数族裔中的少数。我们长期受到在西方社会的华人主流社会的迫害，我在中国的很多朋友在狱中，或者长期生活在监禁，有的失踪，有的被迫害致死， 甚至在澳洲我也多次受到来自华人社会的歧视。</p>
+<p>主持人：所以吴先生您认为吴维的这些言论是可以理解的，但是对于这些反应，您不能理解，那能不能跟我们谈谈为什么要发起声援吴维的行动，跟我们谈谈这背后的成因好吗？</p>
+<p>吴乐宝：我们认为媒体对吴维老师的指责以及留学生对吴维老师的人身攻击是极其不公正的。我们作为一群生活在澳洲的华裔，有留学生有政治难民，有来自各种行业的员工，我们希望从我们的角度表达我们对这次事件的看法。更重要的是我们看重言论自由、自由表达的权利。</p>
+<p>主持人：吴先生，我们现在看到的是您自己的微博，我们知道中国网民现在发动人肉搜索，吴维和你都是肉搜的对象，您现在遭遇的肉搜情况如何？可不可以简单谈一谈？</p>
+<p>吴乐宝：我现在遭遇的情况就是，我发的那个帖子，那个帖子是我来发的，虽然是我们大家一起起草的，但是他们就找到我的名字，然后就是找到我的社交网络，然后就对我说了一些非常侮辱性的词汇，说怀疑我的智商、种族，各种歧视都在里面。</p>
+<p>我们看到，他们根本就不在意这个歧视问题的，他们真正抨击吴维老师的原因是，他烧了护照，他支持独立。他们是用他的政治言论去判断他。而吴维老师的这些言论是在一年多之前发在自己微薄上的。在这事件之后，他们又把这一年多前的微博翻了出来。</p>
+<p>我们看到这其实是非常可怕的行为。他们就是文字狱，说难听一点。因为从几千条微博只找出来这样一条，是带有攻击性言论的。而吴维老师，因为长期跟他们辩论，长期在他们的攻击之下，不知道遭受了多少歧视性的攻击。</p>
+<p>主持人：我们还剩下一分钟左右的时间，我们想了解一下吴维先生的近况，我们知道在这个事件爆发之后，他就没有公开露面，也没有接受媒体的访问，跟我们谈谈你是不是跟吴维老师联系上了呢？悉尼大学还说他发出公开道歉并辞职了，这是不是事实呢？</p>
+<p>吴乐宝：事实上在我们公开发表之前，我们跟吴维老师取得过联系，在上周六的晚上。但是吴维显然是顾虑重重，他跟我们谈的时候，告诉我们他已经签署了保密协议，所以他不可能告诉我们更多的细节。在那之后吴维老师就一直没有再回应我们。</p>
+<p>我们理解，因为这件事我们也感到，不光他在接受悉尼大学的调查，他也明显受到华人社会的压力，很可能是中国领事馆在背后操作，包括前中国外交官。我们在聊天的时候，陈先生也表示这明显就是领事馆的操作行为。</p>
+<p>关于我们声援活动的进展，我想说一下，目前我们已经征集到了1200多个签名，这是出乎我们预料的。我们没有想到有这么多支持者。还是感谢大家对我们的支持。我们几个人的社交网络账号都遭到了不同程度的骚扰。这些有组织的行动都让我们相信是中共当局或者领事馆在背后操控整件事情。</p>
+<p>主持人：我们也知道今天你们也发出第二封公开信要求悉尼大学作出解释。我们非常感谢您来到现场为我们所作的说明。我们也知道吴维事件引发许多讨论，美国加图研究所客座研究员夏业良教授说，反对中共专制统治不是“反华”，抨击腐败政府不是“卖国”，揭露中国阴暗面不是“汉奸”，真正反华的卖国汉奸恰恰是中共统治者。观众听众您对吴维事件有什么看法，我们也欢迎您登入美国之音中文网，留下您的看法和评论，网址是VOACHINESE.COM。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%8A%A9%E6%95%99%E6%89%B9%E5%8D%8E%E8%A8%80%E8%AE%BA%E5%BC%95%E5%8F%91%E5%BC%BA%E7%83%88%E4%BA%89%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4/?category=18271" rel="tag">吴维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5%EF%BC%9A%E8%BF%99%E5%B1%8A%E6%99%AE%E5%88%A9%E7%AD%96%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【CDTV】三表龙门阵：这届普利策不行</a>
+</h2>
+<p><p>三表龙门阵微信ID：sanbiao1984</p>
+<p><a href="https://www.youtube.com/v/yBpqaKtrmvg?version=3">https://www.youtube.com/v/yBpqaKtrmvg?version=3</a></p>
+<p><a title="三表龙门阵：这届普利策不行" href="http://www.youtube.com/watch?v=yBpqaKtrmvg" target="_blank">三表龙门阵：这届普利策不行</a></p>
+<p>以「压根不像」为最大看点的三表龙门阵又来了。</p>
+<p>普利策新闻奖公布了，美联社一篇关于泰国水产捕捞公司囚奴的报道，最终折桂。对于此，我有些看法，具体请看顶部视频，今日无歌。</p>
+<p>另外：微信升级到最新版，可实现公众号置顶功能，请给「三表龙门阵」一支窜天猴吧。资慈不资慈啊？</p>
+<p>文字版： 我这个人非常喜欢吃鱼，如果非得要在「当网红」和「吃鱼」这两件事之间选一个的话，我肯定义无反顾的选择「吃鱼」。本期三表龙门阵要说的事就和鱼有关。</p>
+<p>今天2016年普利策新闻奖公布了，本来跟中国屁民没什么关系的，显然我们更关心papi酱下架的真相是什么。但美联社的报道太震撼了，以至于平时只发点鸡汤的人都转发到朋友圈了。这篇报道揭露了泰国水产捕捞行业存在了几十年的「囚奴」罪行。本来吃着火锅唱着歌的缅甸帅哥们被泰国渔业公司拐带到了连短信都发不出的小岛上，与世隔绝几十年，死了或者干不动了就直接被扔海里喂鲨鱼。</p>
+<p>我就感觉这届普利策真的不行。这多大点事啊，完全可以换个「最美乡村渔夫」的角度来报道嘛！你搞的美国人都不好意思吃鱼了，客观上也造成了社会的不稳定。我国有很多事比这个要震撼的多，譬如万人排队和一个邮筒合影，这个是创下吉尼斯记录的；譬如远洋渔船11名海员杀死22名同伴的，这个如果但凡有一个党员在场的话，就不会发生；譬如十年前我们这儿也发生黑砖窑蓄奴事件，但我们处理的很好，现在基本绝迹。</p>
+<p>捅出这么大篓子，也证明这届缅甸人民不行。有国外媒体搞异地监督，应该及时上报当地宣传部门，没有他们的帮助，你的话语就会被境外媒体大肆利用攻击政府，你等于就成了祖国的叛徒。你看天津大火事件时，我国受众人民虽然很痛苦，但在大是大非面前还是很有原则的，严词拒绝了 CNN 一小撮记者的采访，在干群齐心协力的围剿下，最终没有让这些唯恐天下不乱的记者得逞，维护了祖国的声誉。</p>
+<p>这个报道中，最让我不解的是印尼政府的软弱。泰国警察上岛调查后，发现渔民们很快乐，除了有人想家外，并不存在虐待现象。印尼政府非得抬杠，派自己的警察上去调查，确认记者提供的信息千真万确，最终采取了解决行动，渔民终于得见天日。</p>
+<p>印尼这么做就让泰国很尴尬了，两国友谊小船说翻就翻了。再说了，你作为一个主权独立的国家，怎么能听信西方记者的调遣呢？你的道路自信、理论自信、制度自信呢？你事情都解决了，就应该强烈要求美联社不要再报道了、不要再给印尼抹黑了。即使报道了，你应该第一时间否认，安排几个渔民接受电视台采访，展示生活安详、岁月静好的画面。</p>
+<p>好了，最后说点掏心窝的话，正是因为美联社记者几入虎穴的勇气，正是因为印尼政府良心映照下的退让，正是因为缅甸奴隶对于正义的渴望，才完成了他们各自的救赎。约瑟夫·普利策曾经说过「不仅要报道日常新闻,我们更要照亮黑暗的角落,深刻地承担责任,并着力解释这个乱世。」这次也获得普利策奖的《洛杉矶时报》，因为管理层收购将有陆续80位员工离开，他们的主编依旧自信，他说：我们有这些新闻故事，我们有竞争力，我们有团队合作，我们不知疲倦。</p>
+<p>多让人羡慕啊，而我国最优秀的新闻人正奔波去往融资谈判的咖啡桌上， 显然在这里，财富梦想比新闻理想更触手可及。</p>
+<p> </p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5%EF%BC%9A%E8%BF%99%E5%B1%8A%E6%99%AE%E5%88%A9%E7%AD%96%E4%B8%8D%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%99%AE%E5%88%A9%E7%AD%96%E5%A5%96/?category=18271" rel="tag">2016普利策奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5/?category=18271" rel="tag">三表龙门阵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD%EF%BC%9A%E9%A9%AC%E6%AD%A5%E8%8A%B3%E6%95%85%E5%B1%85%E9%A2%A0%E8%A6%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/" target="cdt-mirror">BBC | 透视中国：马步芳故居颠覆中国的政治正确</a>
+</h2>
+<p><p>作者：蒙克，BBC中文网记者</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-%E4%B8%8B%E5%8D%883.50.40.png?resize=579%2C325" alt="Screen Shot 2016-04-20 at 下午3.50.40" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.50.40.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.50.40.png?w=579 579w" sizes="(max-width: 579px) 100vw, 579px" data-recalc-dims="1"><br><span>希特勒出生的房屋</span></p>
+<p>纳粹德国领导人希特勒在奥地利小镇因河畔布劳瑙（Braunau am Inn）的故居一直是个令当局头疼的地方。最近奥地利政府准备强征这座希特勒出生的房屋，防止房子落入新纳粹之手。多年来奥地利当局为了避免这个尴尬局面出现，一直试图从私人业主手中购买产权，但都没有结果。</p>
+<p>当地公众也不愿意谈及希特勒同这座小镇的渊源。在德国和奥地利，公开崇拜纳粹，包括展示纳粹符号都是刑事罪行。二战后确立的政治正统和政治正确已经在道德和法律上被普遍接受。</p>
+<p>相比之下，中共治理下的国家的政治正统和政治正确几经修正，仍处于混乱和矛盾状态。最近青海省西宁市的旧军阀马步芳故居成了互联网的热门话题即为一例。</p>
+<p>历史上的西北军阀马步芳早成为中共盖棺论定的历史人物。这位在青海独霸一方的回族军阀有野蛮统治地方、屠杀藏人和虐杀红军俘虏的恶名。但现在马步芳的故居却被当地作为旅游热点招徕游客，引来名学者和评论员对马步芳的重新评价和褒贬。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-%E4%B8%8B%E5%8D%883.52.03.png?resize=548%2C307" alt="Screen Shot 2016-04-20 at 下午3.52.03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.03.png?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.03.png?w=548 548w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"><br><span>参观马步芳公馆的游人会从讲解中了解到一个与中共官方定论完全相反的马步芳</span></p>
+<p><strong>马步芳故居</strong></p>
+<p>马步芳的豪华公馆1942年开始建于青海西宁,是一座总面积约10万平方米的高大宅院。据说现在的故居博物馆只剩下原有面积的1/6。由于公馆建筑中许多墙面是用玉石砌成，所以也被称作“玉石公馆”。据导游介绍，豪宅的玉片是动用了3000士兵打磨一年才告完成。</p>
+<p>据说参观马步芳公馆的游人会从讲解中了解到一个与中共官方定论完全相反的马步芳。这个被说成“人民的敌人”、屠戮残害红军的“元凶”，花淫无度的军阀竟然做过许多利国益民的善举：派兵抗日，兴办教育，禁止毒品，如绿化环境……，马步芳成了圣人！</p>
+<p>北大教授马戎也正面评价了这个历史人物：“从今天来看，马麒、马步芳父子在维护国家统一、保护国家领土完整方面曾经发挥了一些正面作用。”</p>
+<p><strong>家族军阀统治</strong></p>
+<p>对此，西藏著名作家唯色说：“马戎大教授的意思是不是说：为了‘统一’，就可以像马家军那样对‘边疆民族’烧杀抢，特别是杀、杀、杀？”</p>
+<p>对于马步芳父子在青海统治数十年期对当地藏人的大规模血洗和屠杀，奸淫戮掠，在新华社报道和青海文史资料中都有大量反映。另外，马鸿逵给马步芳的著名公开信也是马步芳为人残暴和荒淫无度的见证。</p>
+<p>1936年马步芳同甘肃马仲英、宁夏马鸿宾、马鸿逵的所谓马家军击溃歼灭了企图西进新疆的红四方面军。中共部队两万余人战死八千，一万多人被俘，其中数千人被虐杀，大批女俘被蹂躏奸杀。</p>
+<p>1949年当中共部队开始席卷全国时，据说毛泽东特意指令西征军要坚决歼灭马步芳的部队，只接受其无条件投降，不许其“起义”或“改编”。有老战士回忆，在解放军进入西宁前，上边下达密令，要先头侦察部队火速行军，进城活捉马步芳。不过，马步芳在解放军进城前乘飞机逃脱。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-%E4%B8%8B%E5%8D%883.52.35.png?resize=548%2C308" alt="Screen Shot 2016-04-20 at 下午3.52.35" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.35.png?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.35.png?w=548 548w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"><br><span>中国开始市场经济改革后，官方意识形态淡化</span></p>
+<p><strong>边疆民族问题</strong></p>
+<p>对马步芳评价的争议除了涉及修正官方历史以及官方意识形态弱化的问题，还涉及敏感的民族问题。中国开始市场经济改革后，官方意识形态淡化，出现了反思和修正中共官方历史，使1949年后中共营造的政治话语和政治正确受到了挑战。</p>
+<p>另外，马步芳这种边疆统治军阀因为涉及民族关系而不同于薛岳和张灵甫这类败于中共军队的国军将领，因此对边疆军阀的历史修正和翻案往往更复杂、更有争议。例如四川军阀刘文辉，新疆的杨增新和盛世才以及内蒙西部的山西军阀。</p>
+<p>面对流亡西藏运动基于人权、自由的民族权利诉求，中共的说辞是中国使藏人摆脱了落后的农奴制和地方军阀的黑暗统治。消除国民党政权和地方军阀对少数民族地区的“压迫”统治，是中共在边疆民族地区政治合法性说理的一个重要组成部分。</p>
+<p>因此主张所谓“第二代民族政策”，要对中国民族问题“去政治化”、”去民族意识”的北大教授马戎正面评价马步芳治理边疆受到不同方面的质疑。因为对军阀治边对付少数民族作正面评价，无异于否认现行民族政策及其历史合理性。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD%EF%BC%9A%E9%A9%AC%E6%AD%A5%E8%8A%B3%E6%95%85%E5%B1%85%E9%A2%A0%E8%A6%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">中国民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%80/?category=18271" rel="tag">军阀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E4%BA%BA%E6%95%85%E5%B1%85/?category=18271" rel="tag">名人故居</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%AD%A5%E8%8A%B3/?category=18271" rel="tag">马步芳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/" target="cdt-mirror">【立存此照】不善意的批评不欢迎 还要审</a>
 </h2>
 <p><p>4月19日，习近平在京主持召开网络安全和信息化工作座谈会，并且在讲话中提到“对网上那些出于善意的批评，要欢迎”，微博上的学习小组在转发此条消息的时候关闭了评论，引起一些网友注意，嘲笑为“高级黑”。几小时，学习小组才取消了该微博下的评论限制。</p>
@@ -588,95 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E5%AB%8C%E7%8A%AF%E6%9C%89%E6%B2%A1%E6%9C%89%E7%B2%BE%E7%A5%9E%E7%97%85-%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97%EF%BC%9F/" target="cdt-mirror">网易另一面 | 嫌犯有没有精神病 谁说了算？</a>
-</h2>
-<p><blockquote><p><strong>谁来保证那个杀了人还被无罪开释的，是真正的精神病人？</strong></p></blockquote>
-<p>本文系网易原生内容中心《回声》栏目出品，每周一至周五准时更新。</p>
-<p>文|吴静宜</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604181130262d3bf_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2011年9月12日下午，记者在骡马市地下步行街找到了伤人的“武疯子”。民警叫来120，将该男子送往医院，对其进行精神疾病鉴定。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604181130262d3bf_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/201604181130262d3bf_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2011年9月12日下午，记者在骡马市地下步行街找到了伤人的“武疯子”。民警叫来120，将该男子送往医院，对其进行精神疾病鉴定。</p></div>
-<p>两天前在社交媒体上炒得沸沸扬扬的“地铁女孩被猥亵殴打”事件，以“嫌疑人是精神病患”为理由，没头没尾地收场了。攻击女孩的男人先后被送往两个医院却都无法接受精神病诊断；最后在没有出具书面报告的情况下，被专门收留无人监管的精神病患的北郊医院收容，事情就这样了结了。</p>
-<p>类似的事件昨天再度发生。半个月前在四川师范大学发生的大学生砍头案件中，嫌疑人滕某将室友卢海清杀害；医院认定，受害人身中50多刀，由缝补痕迹，是由头颈离断伤致死。昨天犯罪嫌疑人滕某的母亲表示，滕某患有精神病，公安机关已经为其申请了精神鉴定，一个月后出结果。</p>
-<p>中国《刑法》第十八条规定：“精神病人在不能辨认或者不能控制自己行为的时候造成危害结果，经法定程序鉴定确认的，不负刑事责任，但是应当责令他的家属或者监护人严加看管和医疗；在必要的时候，由政府强制医疗。”</p>
-<p>在世界上的许多国家中都有类似的法律规定，精神病人不必承担刑事责任；但对于精神疾病的鉴定、申请和最后的收治，都有严格的法律程序。在中国，由于司法鉴定上的不健全，给法律的执行带来了更多的人为不确定因素，导致很多犯罪嫌疑人通过伪装病情逃脱了刑事责任，而一些真正的精神病患却被投入监狱，承担了他们事实上无力承担的制裁。</p>
-<p>1997年，湖北省松滋人杨义勇杀人后，立即找人出重金替自己伪造了精神病鉴定，被无罪开释。之后的四年里，他拿着这份伪造鉴定，自称已经拥有“杀人执照”，肆意作案。直到2001年被人举报后，才被揭穿鉴定造假，判处了死刑。</p>
-<p>在刑事案件中，要认定犯罪嫌疑人的精神状态和刑事责任能力，司法精神病鉴定是唯一的法定程序，也是司法机关对案件做出处理的法定依据。</p>
-<p>目前的司法精神病鉴定主要解决两个问题：“是否存在精神障碍”与“有无民事行为能力”。</p>
-<p>由于自身存在的特殊性，精神病的诊断没有明确的生物学指标，在实际操作中，“是否存在精神障碍”的判断往往更多地依赖于鉴定人自身的专业能力与素养。而作为鉴定程序关键步骤的“有无民事能力行为”的判断，更是没有统一的标准可以依据。这就导致精神病的司法鉴定总是一次又一次地重复进行，而且每一次结论可能都大不相同。虽然现行法律规定，司法鉴定至少需要两名鉴定人共同进行鉴定并出具报告，但依然无法保证鉴定的准确性。</p>
-<p>1999年，江苏南通市发生一起毁容案，嫌疑人王逸把硫酸泼向亲生母亲、妹妹和外甥，导致三人毁容。这个案件前后做了五次司法精神病鉴定，出现四个不同结果，其中两次结果针锋相对：一个认为嫌疑人“患精神分裂症，无责任能力”，一个认为她“无精神病，有完全责任能力”。</p>
-<p>新疆精卫法医精神病司法鉴定所的研究人员曾经分析了229例正在服刑中的疑似精神病患者，发现其中的重复鉴定案例中，70%的两次鉴定结论都不一致。北医六院和安康医院的鉴定专家们也在104个重复鉴定案例中，发现鉴定不同的案例有78次，占比75%。</p>
-<p>因此，对于精神病鉴定人的资格审核成为了一个重要的关口。但中国现今对于鉴定人的资格规定并不算明确，而且关注点更多放在专业能力上，忽略了在信誉和其它方面的审核。根据《精神疾病司法鉴定暂行规定》，具有5年以上精神科临床经验，并具有司法精神病知识；或具有司法精神病知识、经验和工作能力的主检法医师以上人员才有资格作为鉴定人。</p>
-<p>法国刑事诉讼法对具有鉴定权的人或机构做出了明确的规定，并要求专家在登陆进专家名册时必须在其住所所在地区的上诉法院宣誓。意大利刑事诉讼法典也规定法官在任命鉴定人时应当从专门登记簿上注册过的专家中挑选。日本的鉴定也是由法官委托，并且明确规定了在侦查阶段受检察官聘请的专家不能作为审判阶段的鉴定人。</p>
-<p>比在专业上出现纰漏更让人担忧的，是鉴定人在实际操作中受到的各方制约，影响了鉴定结果。</p>
-<p>中国《刑事诉讼法》规定，检方既可以委托第三方鉴定机构进行鉴定，往往是由省级人民政府指定的医院；也可以委派自己的下属专业机构来鉴定。但是根据司法部2012年的数据，90%以上的鉴定还是交给了检方下属机构完成。</p>
-<p>在刑事案件里，只有公安机关、检察院、法院有权力启动精神病司法鉴定，他们也几乎都有自己下属的精神病检查机构，在精神病鉴定上往往自判自鉴、自侦自鉴，诊断结果很容易受到各方左右。2005年10月，全国人大出台的《关于司法鉴定管理问题的决定》第7条，宣布取消了司法机关下属的这些精神病检查机构。但在实际操作中，这些下属检查机构并没有消失，只是改头换面重新出现。新的精神病检查机构的设立、准入登记依然由各系统自行审理，在实质上依然是隶属关系，并未纳入司法行政机关的统一登记范围。</p>
-<p>除了在外部受到各自隶属机关的制约，在鉴定机构内部也存在着上下级的制约关系。当同一个机构中的不同鉴定人存在意见冲突时，大多采取下级服从上级的处理方式来解决，但这和科学精神是完全相违背的，也不利于保证最后诊断结果的科学性和真实性。</p>
-<p>中国属于大陆法系国家，鉴定人作为法官的助手身份出现，他们存在的价值是帮助法官弥补一些技术性、专业性较强的知识不足，处理这一部分的事实认定。因此中国的精神病鉴定人的技术鉴定带有“准司法权”的色彩。</p>
-<p>在世界通行的鉴定法规中，鉴定人只有权对当事人的精神状态进行推断或总结，不能作出司法裁定的结论。《联邦证据法规》第704条b款规定：鉴定人只能对被告的精神失调症状与犯案时的心智状态做出描述，至于被告到底是否精神错乱以及如何判定责任，则必须留给陪审团决定。</p>
-<p>中国的鉴定人常常将事实问题和法律问题相混淆，越权对当事人有无过错进行鉴定。</p>
-<p>2015年的南京宝马案中，肇事司机王季开着宝马与多车相撞，造成2人死亡、1人受伤、多车受损。南京脑科医院在鉴定意见中宣布：“王季进作案时患急性短暂性精神障碍，有限制刑事责任能力。”判断王季作案时的状态是的确是鉴定人的工作，但对刑事责任能力做出判断是法庭职权，鉴定医院做出这样的判定实际上是越俎代庖，也违背了《刑事诉讼法》的相关条例。</p>
-<p>但这却也是中国在司法精神病鉴定中的普遍做法，医生通常会在鉴定结果中直接判断当事人是“完全责任能力”、“限定责任能力”或是“无责任能力”。由于判定标准本身的主观性和专业性，律师无法提出有力的质证和反驳，法官也倾向于采纳鉴定人的意见，导致一旦被医院鉴定为精神病人，嫌疑人离免责也就不远了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%8F%A6%E4%B8%80%E9%9D%A2-%E5%AB%8C%E7%8A%AF%E6%9C%89%E6%B2%A1%E6%9C%89%E7%B2%BE%E7%A5%9E%E7%97%85-%E8%B0%81%E8%AF%B4%E4%BA%86%E7%AE%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E6%B3%95/?category=18271" rel="tag">刑法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%8C%BB%E7%96%97/?category=18271" rel="tag">强制医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E7%A8%8B%E5%BA%8F/?category=18271" rel="tag">法律程序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA/?category=18271" rel="tag">精神病人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-twitter%E9%A6%96%E5%90%8D%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%8E%8C%E9%97%A8%E4%BA%BA%E9%99%88%E8%91%B5%E6%B6%89%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF%E6%83%B9%E4%BA%89/" target="cdt-mirror">端传媒 | Twitter首名大中华区掌门人陈葵涉军方背景惹争议</a>
-</h2>
-<p><p>美国社交网站 Twitter 于15日宣布，任命具有中国军方和公安背景的陈葵（Kathy Chen）担任首位大中华区董事总经理（Managing Director），驻地香港。消息公布后，Twitter 中文圈用户表示关注，担心发言会遭到内容审查和监控。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=600%2C400" alt="Twitter 任命陈葵（Kathy Chen）为首名大中华区董事总经理。Kathy Chen Twitter图片" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/32ca791547ba47d9970390a76fb5e282.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>Twitter 任命陈葵（Kathy Chen）为首名大中华区董事总经理。Kathy Chen Twitter图片</p></div>
-<p>Twitter 于2009年6月4日下午被中国内地封锁，6月8日中午封锁解除；而后又于同年7月5日新疆乌鲁木齐发生骚乱事件后的第2天再次被封，直到现在。</p>
-<p>2015年3月，Twitter 在香港开设办公室，开始寻求与中国内地广告商合作。Twitter 亚太区副总裁 Shailesh Rao 近日接受南华早报专访时表示，Twitter 的中国策略并非吸引社交网络用户，而是做中国企业的生意。</p>
-<p>据 Rao 透露，Twitter 去年的中国广告客户增加了340%，主要客户包括联想、华为等科技品牌，也包括新华社和人民日报等官方媒体。他表示，Twitter 已经见证了在亚太区的成功，并将扩大在该区域的投资，而陈葵“将负责制定策略，经营业务”。</p>
-<blockquote><p>我们要为中国的企业、创新者、合作伙伴以及开发人员提供更多价值。</p></blockquote>
-<p>陈葵4月15日在 Twitter 发布，这也是她在 @kathychen2016 帐号下发布的第一条推文</p>
-<p>网上资料显示，陈葵1966年出生于上海，1987年毕业于北方交通大学计算机系，随后在中国解放军第二炮兵（现更名为战略导弹部队）第一研究所任技术工程师长达7年；后又在 DEC（美国老牌电脑公司，1998年被康柏收购）、康柏（COMPAQ）、3Com 等 IT 公司任职。</p>
-<p>1999至2005年间，陈葵在美国国际联合电脑公司（Computer Associates International）和中国公安部1998年合资成立的北京冠群金辰软件公司任总经理。2005年后，她又先后加盟思科中国公司高级副总裁，及微软华东区总经理。</p>
-<p>《数字商业时代》2004年发表一篇题为《陈葵：做个IT徐娘蛮好》的文章中曾提到，“陈葵被国家有关机构评为对中国安全产业有特殊贡献的人，获得这个奖项的人很少”。</p>
-<p><strong>声音</strong></p>
-<blockquote>
-<p>我们很乐意向中国用户提供推特的顾客服务，但目前不行。我们将会用一部分精力，来为中国企业和国有企业创造价值。———Twitter 亚太区副总裁 Shailesh Rao</p>
-<p>外国公司进入中国市场，为了生存而无法逃脱两大定律：第一，被迫顺应中国的制度环境（包括向中国官员大量行贿）；第二，放弃在本土必须坚守的政治原则与道德律条，顺从中国政府的各种有悖人权原则的要求。 ————中国经济社会学者何清涟，现居美国</p>
-<p>2016年 Twitter 的首要任务是让用户体验更加直观，增加视频直播，以及让用户更安全地在平台上发表意见。 ————Twitter 创始人兼 CEO 杰克·多西（Jack Dorsey）</p>
-</blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-twitter%E9%A6%96%E5%90%8D%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%8E%8C%E9%97%A8%E4%BA%BA%E9%99%88%E8%91%B5%E6%B6%89%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF%E6%83%B9%E4%BA%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=18271" rel="tag">Twitter</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF/?category=18271" rel="tag">军方背景</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9%E4%B8%AD%E6%96%87%E5%9C%88/?category=18271" rel="tag">推特中文圈</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E5%B8%B8%E5%B7%9E%E5%AD%A6%E6%A0%A1%E6%96%B0%E5%9D%80%E6%B1%A1%E6%9F%93%EF%BC%9A%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E4%B8%8E%E5%A4%AE%E8%A7%86%E7%8E%AF%E8%AF%84%E7%9B%B8/" target="cdt-mirror">BBC | 常州学校新址“污染”：当地政府与央视环评相悖</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160417111244_china_school_polluted_624x351__nocredit.jpg?resize=600%2C337" alt="常州外国语学校现有初、高中部58个班级，约 2800名师生员工。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160417111244_china_school_polluted_624x351__nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160417111244_china_school_polluted_624x351__nocredit.jpg?w=660 660w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>常州外国语学校现有初、高中部58个班级，约 2800名师生员工。</p></div>
-<p><strong>中国江苏常州外国语学校因新校址“污染”数百学生，中国官方称已成立调查组跟进相关事宜。官媒央视和当地政府对该校环评结果各执一词。而不少网民和家长亦对环评存在疑问。</strong></p>
-<p>江苏省常州市政府新闻办公室周日（17日）晚间消息称，当地市委和市政府已成立联合调查组开展工作，将及时向社会公开调查结果。</p>
-<p>该消息称，目前，全校应到校的2451名学生中，除1人事假、4人病假、5人正在办理转学手续外，其余学生全部到校；210名教师中，除3人病假外，其他教师全部到校，学校教学秩序正常。</p>
-<p>2015年9月该校搬进新校址，493名学生检出皮炎、血液指标异常等，个别查出淋巴癌、白血病等。</p>
-<p>中国中央电视台周日（4月17日）的报道称，经检测，该“校区地下水、空气均检出污染物。学校附近正在开挖的地块上曾是三家化工厂，专家称校区受到的污染与化工厂地块上污染物吻合。”</p>
-<p>在该校新址的环评结论方面，常州政府发布的官方声明依旧与央视截然相反。</p>
-<p>常州市政府新闻办称，2016年2月专家组对该校附近三块化工地块的土壤修复调整工程作出结论，工程已达到预期环保治理效果，空气质量监测完全达标。</p>
-<p>而官方称今年3月家长委托的检测机构作出的检测结果显示，各项指标均符合中国国家标准及相关要求。</p>
-<p><strong>家长质疑与诉求</strong></p>
-<p>今年1月，中国新闻网曾报道常州外国语学校新址因空气质量问题宣布停课。而早在1月，一篇名为《常州外国语学校的化工毒物》的微博文章在社交网站流传。</p>
-<p>该文章称常外的选址已经违反《城市普通中小学校校舍建设标准》第九条“远离污染源、集贸市场”的规定，并且质疑政府如何通过环评。</p>
-<p>当时家长们的诉求为配合学校搬迁至其它校区过渡，待学校周围环境得到整治后再回迁。</p>
-<p>目前为止，该校家长还未发表最新的诉求和回应。</p>
-<p><strong>监管不力？</strong></p>
-<p>中国社交网络平台微博上，不少网友开始追责此事件的监管方。</p>
-<p>微博网友“Mr_Left留左手”表示：“当地环保部门对原化工厂环境监管不力，环评在要素不全的情况下通过，环保部门难辞其咎，环评公司也应该吊销其资质。”</p>
-<p>用户“chillway”表示：“首先新校区按道理就不可能批下来，这其中牵扯多少利益？后来举报的人应该也不是少数吧，依然无动于衷，那些官员难道一点事都不知道？贪污腐败说实在大家也是见多不怪，有些事我们也是睁一只眼闭一只眼。但是，现在关系到数千学生健康问题，还这么不作为，活该被查被撤职！”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E5%B8%B8%E5%B7%9E%E5%AD%A6%E6%A0%A1%E6%96%B0%E5%9D%80%E6%B1%A1%E6%9F%93%EF%BC%9A%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E4%B8%8E%E5%A4%AE%E8%A7%86%E7%8E%AF%E8%AF%84%E7%9B%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E6%BA%90/?category=18271" rel="tag">污染源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E7%89%A9/?category=18271" rel="tag">污染物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E8%AF%84/?category=18271" rel="tag">环评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -688,7 +683,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -698,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

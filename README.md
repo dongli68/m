@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E6%8E%A8%E7%89%B9%E9%99%88%E8%91%B5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E5%B7%A5%E4%BD%9C%E5%BA%A7/" target="cdt-mirror">【习总日记】 推特陈葵在网络安全和信息化工作座谈会上的发言</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，4，20）</p>
+<p>昨天上午在京主持召开网络安全和信息化工作座谈会并发表重要讲话，强调按照创新、协调、绿色、开放、共享的发展理念推动我国经济社会发展，是当前和今后一个时期我国发展的总要求和大趋势，我国网信事业发展要适应这个大趋势，在践行新发展理念上先行一步，推进网络强国建设，推动我国网信事业发展，让互联网更好造福国家和人民。</p>
+<p>我主持座谈会並首先表示，我国互联网事业快速发展，网络安全和信息化工作扎实推进，取得显著进步和成绩，同时也存在不少短板和问题。召开这次座谈会，就是要当面听取大家意见和建议，共同探讨一些措施和办法，以利于我们把工作做得更好。</p>
+<p>座谈会上，中国工程院院士、中国电子科技集团公司总工程师吴曼青，安天实验室首席架构师肖新光，阿里巴巴集团董事局主席马云，友友天宇系统技术有限公司首席执行官姚宏宇，解放军驻京某研究所研究员杨林，北京大学新媒体研究院院长谢新洲，北京市委网信办主任佟力强，华为技术有限公司总裁任正非，国家计算机网络与信息安全管理中心主任黄澄清，复旦大学网络空间治理研究中心副主任沈逸，和推特公司新任大中华区总经理陈葵先后发言。</p>
+<p>陈葵在发言时说，我被推特公司任命为大中华地区总经理一事本身可以说明很多问题。首先，中国大陆市场，无论是推特还是脸书或谷歌，还是其他全球性超大公司，谁都不想轻言放弃中国大陆市场。即便是退而却步也是暂时性的。第二，中国社会主义价值观与西方普世价值观有明显差别，西方公司进入中国必须认真承认并逐渐适应，仅此一途别无他路。第三，中国政府与西方公司都有意寻求共识争取双赢，利益是看望可求触手可及的。第四，西方公司不可能也不必原汁原味进入中国，因为咱们已经有了中国特色的公司，譬如腾讯微博微信就是中国版的脸书推特。第五，他们不必走进来但我们可以走出去。党中央习总书记战略部署“亚投行”“一带一路”方针政策，在我看来就是走出去。中国公司可以以譬如推特为桥梁，宣传自己的产品，推广我们的价值观。</p>
+<p>我插问：“为何妳认为中国公司通过类似推特这样的公司不仅宣传公司产品，还可以推广我们的价值观？”</p>
+<p>陈葵回答道：“因为我们的公司无论央企国企还是姐夫那样的民企，甚至像马云阿里巴巴那种外企，与其说是以盈利为目的，还不如说是以完成党的政治任务为根本目的。”</p>
+<p>我击掌点赞：“到底是党的人。不但党性强，而且能够把世界性公司与党的政策党的利益无缝接轨，毫无违和感。真是难得的人才呀！”</p>
+<p>陈葵顿时羞红了脸。</p>
+<p>我进一步发挥：“陈葵，向日葵，向日葵向太阳。向日葵向太阳代表什么？代表全国人民万众一心一心一意向着党，跟着党转。怎么样，陈葵同志，是否有意来党中央担任领导工作？”</p>
+<p>陈葵笑答：“感谢习总，感谢党的培养和信任。党中央领导工作，可能其他同志更胜任。而现在我处的这个位置，说句不谦虚的话，没有比我更合适的。”</p>
+<p>我哈哈大笑：“物尽其用。人才难得。就按照妳的意思。希望有关部门有关单位的同志，极力配合好陈葵同志在推特的工作。”</p>
+<p>中午会议休息，下午继续。</p>
+<p>我指出，网民来自老百姓，老百姓上了网，民意也就上了网。群众在哪儿，我们的领导干部就要到哪儿去。各级党政机关和领导干部要学会通过网络走群众路线，经常上网看看，了解群众所思所愿，收集好想法好建议，积极回应网民关切、解疑释惑。对广大网民，要多一些包容和耐心，对建设性意见要及时吸纳，对困难要及时帮助，对不了解情况的要及时宣介，对模糊认识要及时廓清，对怨气怨言要及时化解，对错误看法要及时引导和纠正，让互联网成为了解群众、贴近群众、为群众排忧解难的新途径，成为发扬人民民主、接受人民监督的新渠道。对网上那些出于善意的批评，对互联网监督，不论是对党和政府工作提的还是对领导干部个人提的，不论是和风细雨的还是忠言逆耳的，我们不仅要欢迎，而且要认真研究和吸取。</p>
+<p>接下来副组长刘云山发言。他提醒道，习总刚才的讲话很重要。你们要认真听讲反复领会，尤其是不能光从字面上理解。光从字面上理解你会吃大亏犯大错误。到时候别怪我没提醒，也别怪习总给你们挖坑吃药。这种事情前三十年经常发生。后三十年少了你们可能已经忘记。</p>
+<p>有同志举手问：“能不能请中央领导同志举例说明？”</p>
+<p>副组长李克强抢答道：“你这不是给党中央领导同志挖坑吃药吗？”</p>
+<p>会议在众人大笑之中结束。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018965593_30300.jpg?resize=549%2C309" alt="0,,18965593_303,00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018965593_30300.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018965593_30300.jpg?w=700 700w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E6%8E%A8%E7%89%B9%E9%99%88%E8%91%B5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E5%B7%A5%E4%BD%9C%E5%BA%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%91%B5/?category=18271" rel="tag">陈葵</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E5%AF%B9%E5%BE%85%E6%89%B9%E8%AF%84%E8%8E%AB%E5%88%86%E5%96%84%E6%84%8F%E4%B8%8E%E6%81%B6%E6%84%8F/" target="cdt-mirror">于建嵘：对待批评莫分善意与恶意</a>
 </h2>
 <p><p>中央网络安全和信息化领导小组组长习近平最近指出：对广大网民，要多一些包容和耐心，对建设性意见要及时吸纳，对困难要及时帮助，对不了解情况的要及时宣介，对模糊认识要及时廓清，对怨气怨言要及时化解，对错误看法要及时引导和纠正。对网上那些出于善意的批评，对互联网监督，不论是对党和政府工作提的还是对领导干部个人提的，不论是和风细雨的还是忠言逆耳的，我们不仅要欢迎，而且要认真研究和吸取。</p>
@@ -663,29 +693,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%BC%81%E4%B8%9A%E4%BF%83%E9%94%80/" target="cdt-mirror">【河蟹档案】日本地震，企业促销</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40tientsin%E5%A4%95">tientsin夕</a>：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-29.jpg?resize=500%2C726" alt="333" data-recalc-dims="1"></p>
-<blockquote><p><em>相关阅读｜《<a href="https://www.winandmac.com/2016/04/leeco-japanese-earthquake-photo/">樂視香港否認就日本地震喜災樂禍 指是「自行發表」</a>》</em></p>
-<p>《<a href="http://www.bjd.com.cn/pw/sy/201604/18/t20160418_11018655.html">京报网<em>｜</em>日本地震，有人祈福有人欢呼，而他们有更多话想说…</a>》</p>
-<p>《<a href="http://www.voachinese.com/content/voa-news-chinese-nationalists-hail-kumamoto-earthquake-20160418/3290221.html">美国之音<em>｜</em>日本震后中国网上出现欢呼被斥垃圾</a>》</p>
-<p>《<a href="http://blog.ifeng.com/article/44513188.html?touping">闫桥：熊本地震中国人为啥很纠结？</a>》</p>
-<p>《<a href="http://blog.sina.com.cn/s/blog_4cd1c1670102w767.html?tj=1">徐静波：日本熊本县7级地震有点蹊跷</a>》</p></blockquote>
-<p><a href="https://freeweibo.com/weibo/3965202048962993" target="/weibo/396">2016年04月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%AD%9D%E6%95%99%E6%8E%88">孝教授</a>：”揭秘五毛职业 ” 我的秒拍作品,一起来看~ <a href="http://t.cn/Rq6Vaxn" target="_BLANK">http://t.cn/Rq6Vaxn</a>（使用<a href="https://freeweibo.com/weibo/%E7%A7%92%E6%8B%8D">#秒拍#</a>录制）<br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%BC%81%E4%B8%9A%E4%BF%83%E9%94%80/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3964277351921277" target="/weibo/396">2016年04月14日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%90%B4%E5%AE%AA%E5%A6%88%E5%A6%88">吴宪妈妈</a>：公元2016年的4月18日上午8时，在中华人民共和国首都北京，座落在知春路的国家卫生和计划生育委员会大楼前，来自全国各地的失独父母们，为了老有所养、病有所医，步履维艰、相互搀扶，头戴小白帽，以省为单位井然有序的排列在路边，声势浩大的418维权正式拉开序幕。维权正在进行中……<em>相关阅读｜《<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=1&cad=rja&uact=8&ved=0ahUKEwin5Pe925nMAhVE6CYKHY6DCkcQu4gBCB4oAjAA&url=http%3A%2F%2Fnews.qq.com%2Fa%2F20160418%2F059806.htm&usg=AFQjCNFvC0knW4YfoDckaf3JuyprK3ucmQ&sig2=rKAfZplLSZU5P8Z24FQyTQ&bvm=bv.119745492,d.eWE">腾讯｜数百失独家长卫计委门前陈情盼扶助均等化</a>》</em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?resize=504%2C378" alt="失独" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-27.jpg?w=853 853w" sizes="(max-width: 504px) 100vw, 504px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3965636982476396" target="/weibo/396">2016年04月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%A4%A7%E5%98%B4__%E9%99%882010">大嘴__陈2010</a>：冤民也闹嚷着找姐夫。<em>相关阅读｜《<a href="https://twitter.com/1031980899/status/719749500802183168">Twitter<em>｜</em>无锡85岁老人遭监控的第22天</a>》；《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160416-%E7%B2%A4%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A6%84%E8%AE%AE%E5%A7%90%E5%A4%AB%E8%A2%AB%E6%8C%87%E2%80%9C%E5%85%AC%E7%84%B6%E4%BE%AE%E8%BE%B1%E4%BB%96%E4%BA%BA%E2%80%9D%E9%81%AD%E5%B8%A6%E8%B5%B0">法广<em>｜</em>粤维权律师妄议姐夫被指“公然侮辱他人”遭带走</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E8%91%9B%E6%B0%B8%E5%96%9C%E5%9B%A0%E8%AF%84%E8%AE%BA%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">德国之声｜维权律师葛永喜因评论“巴拿马文件”被短拘</a>》</em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-28.jpg?resize=513%2C590" alt="333" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-28.jpg?resize=261%2C300 261w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-28.jpg?w=513 513w" sizes="(max-width: 513px) 100vw, 513px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3964925888032194" target="/weibo/396">2016年04月16日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%A2%E7%BB%8F%E7%BD%91">财经网</a>：【昆明“泛亚”于近日获评云南省纳税百强优秀企业】4月14日，昆明市地税局给泛亚有色金属交易所股份有限公司颁发了荣誉证书，表彰其入围2015年度云南省纳税百强优秀企业。该名单由云南省国税局和地税局共同评选。而在此前，泛亚已被警方查明涉嫌非法吸收公众存款的犯罪事实。<em>相关阅读｜《<a href="http://finance.sina.com.cn/money/future/roll/2016-04-16/doc-ifxriqqv5984753.shtml">新浪财经<em>｜</em>昆明市地税局发公告澄清：未给泛亚颁发荣誉证书</a>》</em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-24.jpg?resize=532%2C395" alt="泛亚" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-24.jpg?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/333-24.jpg?w=500 500w" sizes="(max-width: 532px) 100vw, 532px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3964605267537157" target="/weibo/396">2016年04月15日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%BC%81%E4%B8%9A%E4%BF%83%E9%94%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E8%A7%86/?category=18271" rel="tag">乐视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E9%9D%99%E5%A8%9F/?category=18271" rel="tag">周静娟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC%E5%AE%B6%E9%95%BF/?category=18271" rel="tag">失独家长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80/?category=18271" rel="tag">庞氏骗局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%86%E6%98%8E%E6%B3%9B%E4%BA%9A/?category=18271" rel="tag">昆明泛亚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">熊本地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">离岸姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -697,7 +704,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -707,5 +714,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

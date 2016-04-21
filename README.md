@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,44 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%AF%BB%E8%80%85%E6%9D%A5%E5%87%BD%EF%BC%9A%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/" target="cdt-mirror">端传媒｜读者来函：吴维事件背后的中国留学生</a>
+</h2>
+<p><p><small>【编者按】 4月14日开始，“爱国”与“卖国”的战火又一次在中文互联网上引燃。这一次，爱国青年们的斗争对象，是悉尼大学的教师吴维。吴维在加入澳洲籍之后焚烧自 己的中国护照，使用“豚”称呼自己看不顺眼的中国学生。和以往不同，这次冲突因为翻译/语境的差异，是非判断变得复杂异常。一位身在悉尼大学的读者亲身卷 入了这场冲突，通过他的来信，我们也许能一窥事件背后的纠结语境。</small></p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfaa2f5c442a4ec284125bb8d66794e0.jpg" rel="attachment wp-att-435616"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfaa2f5c442a4ec284125bb8d66794e0.jpg?resize=585%2C390" alt="澳洲悉尼大学校园。摄:Brendon Thorne/GETTY" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfaa2f5c442a4ec284125bb8d66794e0.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfaa2f5c442a4ec284125bb8d66794e0.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfaa2f5c442a4ec284125bb8d66794e0.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/cfaa2f5c442a4ec284125bb8d66794e0.jpg?w=1080 1080w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>澳洲悉尼大学校园。摄:Brendon Thorne/GETTY</p></div>
+<p>悉尼大学有很多中国人。这间在澳大利亚本地享有极高声誉，且对于当地人来说比较难进入的大学，这两年招收了很多中国籍学生。中国学生们缴纳三倍至近 四倍于本地学生的学费，以获得在悉尼大学攻读本科学位的资格（研究生则需要比本地学生多支付一万澳币左右的费用）。在某种程度上，这可能是入学门槛相对较 低的原因之一。</p>
+<p>我高考考砸了，只过本省“一本线”40分，参加香港某大学的面试，理所当然地因成绩不够出色被刷下来了。仓促之下，我递交了申请材料和雅思成绩，却 很快拿到了悉尼大学的offer。很多高考成绩差的学生可以选择花三四万澳币来读Foundation Progamme, 即“预科”，来获得悉尼大学的录取。Foundation Programme对申请者的要求非常低，而且，一般会全员顺利毕业升入悉尼大学。这几乎是“买进”悉尼大学。除此之外，还有一小部分中国籍学生选择来澳 大利亚就读高中。</p>
+<p>从中国初中升入澳大利亚高中就读的学生，在进入悉尼大学时面对远远更激烈的竞争：通常，进入法学院的本地高中毕业生，需要在本州的高中学业测试中进 入前0.05%。他们中的很多人，也常常已经随家人获得了澳大利亚的公民身份。直觉上，不同方式入学的中国籍学生群体之间的背景还是有点区别的。以高考成 绩申请的中国学生，家庭背景比较多样化，但共同点是在中国高考中有一点竞争力。而我认识或听说过的读预科的中国学生，无一例外是私营企业主的子女，在中国 高考中，通常是二本线或以下的水平。</p>
+<p>“回家做饭呗。我都不上lecture了啊，又听不懂几句。自己学啊，又不是没书。”十个小时前，我在电梯里不小心听到了这段对话。不上讲师的 Lecture，只参加需要点名的Tutorial （辅导课），在中国籍学生圈子中不怎么少见，原因很多，但大多数听上去是托词。</p>
+<p><strong>难以走出的舒适圈</strong></p>
+<p>我的一位多年好友（也是我在悉尼唯一的中国籍好友）告诉我，这边绝大多数中国籍学生过着和国内区别不大的生活：他们的交友圈几乎只有中国人，日常生 活中大多数语言交流以中文完成，娱乐方式主要是观看中文综艺节目，也更愿意一群中国人周末出去玩，而不是参加大学的活动。在这座拥有近三十万华裔人口，其 中近十五万人口出生在中国大陆的城市里，他们可以很容易地寻找到他们一直以来熟悉的生活方式。我的这位好友，周末热衷于去国人经营的KTV和台球室里娱 乐，去银行办业务时，更喜欢和操中文的柜员交谈，在悉尼大学的课堂上，他更多和中国人坐在一起。对于年轻的中国人，走出舒适区的难度很高。</p>
+<blockquote><p><span><strong>“越出国越爱国”在这里经常听到。许多人也认同这句话。直观上，国家主义在中国籍留学生中流行得可怕。吴维事件被微信公众号报道的第一天，微信朋友圈里本就不多的中国人无一例外地转发，并附上了愤怒的评论，这其中包括我那位从初中开始熟识的老友。</strong></span></p></blockquote>
+<p>在微博上，中国籍留学生中还是有小比例的异见者，但在日常生活中，几乎听不到有人公开表达这类政治观点，或许peer pressure让他们学会了自我审查。我那位好友从来不知道，我在微博上言辞激烈地批评当局和一些广为人知的国民性；我知道他，就像所有其他在集体主义 氛围中成长的人一样，会在听到我政治观点的那个时间点决定远离我──即使他先于我来澳大利亚，已经习惯于更自由的舆论环境。</p>
+<p>我懦弱地认为自己应该继续和这样一个持有国家主义立场、满嘴对其他少数族裔蔑称的人做朋友：他对我是兄长般的情感，对我关心入微。选择决裂，我需要 心理建设。我羞愧地承认，我还没有在微信这样高度线下导向的社交平台上公开支持吴维。仅仅在微博上表达对吴维的支持，我就被一群中国籍留学生“人肉”出一 些资料，在知识网站知乎上拥有上万粉丝的“大V”发布了我的私人信息，声称我和其他几位是“辱华邪教”。这种洪水般的恶意吓到了我，随后我删掉所有个人信 息：公开这样的言论会给我父母带来麻烦。</p>
+<p>在大部分中国籍留学生心中，这样的“人肉”，和利用群体压力让一个个泛异见者沉默，是针对“不爱国”最好的解决方案之一：相比许多人更津津乐道的 “找人砸他”，这成本不高。在好友的描述中，中国籍留学生圈子里的政治环境红得令人惊讶。他作为一个就读移民专业、一心想着“留下”的实用主义者都在这问 题上如此红专，不难想象其他对意识形态教育反感程度更低的中国留学生的态度。</p>
+<p><strong>歧视和被歧视</strong></p>
+<p>微博上所有澳大利亚相关的资讯微博无一例外都持有民族主义立场。在一些澳洲相关的微博、微信公众号的文章和评论区，“祖国（指中国）强大了外人才不 敢歧视/小看我们”几乎是共识。支持这种论调的有中国籍留学生，更有新近归化入籍的澳大利亚公民。这种带有些许不安全感，进而诉诸集体主义的论述，可能受 到多种因素的影响：其中包括“澳大利亚人是种族主义者”的迷思、独自在国外求学的孤独，以及“大一统”的国族意识等等。</p>
+<p>最近的事件中，微博上出现了不少诸如“中国人移民了也要爱中国”之类的的言论。其荒谬性自无需赘述；但这样的言论却被很多微博用户“点赞”。在大部 分中国籍留学生的认知中，中国血统意味着背负爱中国的道德义务；而爱中国，在澳大利亚中国籍留学生的圈子里，则经常地被等同为“支持中国当局”。</p>
+<p>不少中国籍学生在享受访问谷歌和脸书的无限自由的同时，也热衷于在中国的社交媒体上称赞中国当局的外交、网络和舆论规制政策。几乎所有澳洲中国籍学 生都支持中国当局在争议地区的强硬行动。这些年轻人来自可以轻松支付每年逾十五万人民币学费的家庭，他们认为部分国民“素质不行”，导所以部分欠发达地区 的人民不配享有某些自由。例如许多来自大城市的学生，对取消户籍制度，赋予外地人自由流入城市的自由十分反感。</p>
+<p>对种族歧视非常敏感的中国籍学生，却有一部分喜欢以玩笑的语气在对话中使用“越南猴子”“印度阿三”之类的表述。也许朝贡体系的传统让一部分中国人对于“蛮夷”的蔑称习以为常；不过除了蔑称之外，他们通常也不会有进一步的歧视性举动。</p>
+<p>这和中国籍留学生的受到的对待有些差别：在互联网上不难检索到中国籍留学生被公开辱骂或攻击的新闻。某种程度上，这可能与中国籍留学生与本地社区的关系和刻板印象有一定关系。</p>
+<p>最常见的说法是，随著越来越多的中国籍留学生通过就读移民专业、获得雇主担保等手段获得澳洲国籍，本就形势严峻的就业市场竞争变得更激烈；中国购房 者的慷慨，也令本地人难以承受越来越高的楼价。由于学业和生活圈的原因，中国籍留学生在当地社区的存在感并不明显，这也在某种程度上加深了可能的隔阂。</p>
+<p>这一结论在一定程度上是事实，但和我的个人经历不相符。澳大利亚的种族现状给我的直观感受好于美国；我认为，部分声称遭受“种族歧视”的中国籍留学 生所经历的其实只是文化和语言差异带来的误解。我本人不止一次目睹中国籍留学生不对所接受的服务和帮助表示感谢，也不在请求中使用“please”等委婉 用语；他们不一定是粗鲁，只是表示感谢这一行为，在国内并不是一件公认的行为准则。缺乏沟通外加真假难辨的都市传说，让中国籍留学生很容易以为对方的冷漠 态度源于对自身种族的蔑视。</p>
+<p><strong>华裔的复杂态度</strong></p>
+<p>澳大利亚华裔的组成很复杂。第一代移民中，有企业家，化学教师或政治难民，但我想，他们在这件事中并不是直接参与者，因为他们绝大多数人和悉尼大学没有紧密关联。而在悉尼大学的第二代澳大利亚华裔们，和大部分中国籍留学生几乎没有共同点，交友圈也极少重叠。</p>
+<blockquote><p><span><strong>然而，对社会事件有基本参与度的二代华裔，几乎无一例外地选择了声讨吴维。原因大抵在于，吴维发布在私人匿名账号上的，目标读者为泛异见圈人士的言 论，被有意地从语境中取出来、翻译并展示，其中的黑话也被直译成带种族侮辱性的英文；种族歧视本来在在西方社就是禁忌，这些被扭曲的言论让作为少数族裔的 澳大利亚华裔感到不安也并不奇怪。但这些大部分无法阅读中文的华裔少年们，对这一事件背后的语境、争执乃至微博这一平台都知之甚少。</strong></span></p></blockquote>
+<p>我在脸书上发布了一条状态来解释这件事的来龙去脉和语境之后。 一位朋友发来私信，询问我是不是在开玩笑。得到我否认的答复之后，她给我发来一个单词：“Explain”。我仔仔细细把这件事的前因后果和语境解释了一 遍，尝试让这位从来没有用过微博的澳大利亚华人明白这件事的原委。读完我的解说，她大发雷霆，声称如果她上吴维的课，也会感到被诽谤和被歧视。她认为，我 在支持种族歧视。我们不欢而散，没有再讨论这话题。写下这段文字的一天前，她刚刚因为自己“被情感遮蔽判断”而向我道歉。但更多的华裔不能接受吴维的行为 ——目前为止，整件事的解释权都在中国学生手上，没人解释语境，也没人匡正那些有意为之的翻译错误。</p>
+<p>“这样的老师还留着干嘛！中国人这么多，逼他辞职！”一位毕业于 Foundation Programme 的女生在朋友圈里愤怒地说道。她似乎已经连续四周没来上课了。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92%EF%BD%9C%E8%AF%BB%E8%80%85%E6%9D%A5%E5%87%BD%EF%BC%9A%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">中国留学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4/?category=18271" rel="tag">吴维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%8A%A9%E6%95%99%E6%89%B9%E5%8D%8E%E8%A8%80%E8%AE%BA%E5%BC%95%E5%8F%91%E5%BC%BA%E7%83%88%E4%BA%89%E8%AE%AE/" target="cdt-mirror">美国之音｜悉尼大学助教批华言论引发强烈争议</a>
 </h2>
 <p><p>主持人：澳大利亚悉尼大学的助教吴维最近因为批评中国留学生与中国政府的相关言论，遭到中国网民人肉搜索，而悉尼大学校方也宣布他为此请辞。不过一部分在澳大利亚的中国民主人士发起了声援吴维的行动，到底支持与反对吴维的各方有何说法？事件的来龙去脉如何？下面我们通过SKYPE连线，请在澳大利亚墨尔本的中国民主人士吴乐宝来说明有关情况。</p>
@@ -650,28 +685,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%B7%A7%E5%8F%96%E8%B1%AA%E5%A4%BA%E6%95%B0%E7%BA%AA%E5%A7%94/" target="cdt-mirror">东网｜傅桓：巧取豪夺数纪委</a>
-</h2>
-<p><p>甘肃一名金矿商人身家过亿元，因为检察院认定他涉及一笔 30 万元的行贿行为，被抓到纪委办案地点。而在法院判决之前，他的千万元财产被瓜分──瓜分的人包括甘肃各级纪委、检察院，有大量财产同时被转移到纪检干部名下，办理这些的包括这些人的亲属。<br>
-党对纪委依仗比过去更加厉害，这就意味着纪委即使作恶，也难以得到矫正。</p>
-<p>这件事被媒体披露后，焦点不再是金矿商人的行贿是否成立的问题，而是办案单位尤其是纪委办案手法的涉罪问题。很明显，超额羁押财产，违规划为公用，划拨个人账户等行为，是比行贿罪更严重的罪行，这是不言而喻的事实，然而也是难以问责问罪的方面。<br>
-这种办案手法已经不是一般的逻辑可以形容的，因为它实质上就是一种巧取豪夺的行为，就是借助纪委办案来「打土豪、分田地」。纪委在这件事中承担的角色，确实是让人惊诧莫名的，但却那么符合国情，所以竟然也在常理之中，因为它有着某种依据。<br>
-这个依据在年初一些司法改革的讨论中有过直言不讳的表达，那就是重新阐释「法纪」这个概念的内涵，变成了：法在纪后，纪比法大。相应地，也就成了纪委大过天的权力格局，而检察院、法院在纪委的地位之下，纪委凌驾司法之上，也就是党大于法的具体体现。</p>
-<p>很长时间以来，关于党 / 法之争都被认为是意识形态之争，然而，甘肃这件事最新表明这种争论已经变成了现实。实际的运作，所遵循的已经是党至上的原则，司法领域一度坚持的「三个至上」等周旋策略，尽管也有党取所需的便利，但现在是直接撤下伪装。<br>
-党治不再伪装成别的样子，而是直接展露最真实的意图。在这种情况下，甘肃纪委办案已经毫无约束，完全任性，权力一旦独步，以办案来瓜分私人财产的手段也就是顺理成章。可以想见，在这种思路与现实下，金矿商人即使通过媒体求援，下场也会是惨淡。</p>
-<p>因为纪委的逻辑摆在那里，党对其依仗比过去更加厉害，这就意味着纪委即使作恶，也难以得到矫正。而且从一定程度上讲，在舍弃了司法作为约束力量之后，对纪委的倚重，其代价之一就是给予其某种灵活作恶的权力空间，甘肃肯定不会是唯一的纪委势力范围。<br>
-这种不受任何权力监督、只接受上级指令的纪委体系，游离在司法之外，同时也与变质了的司法体系相互纠缠，纪委玩弄司法与股掌之上，也就是此种实际的映射之一。司法的溃败就此成为体制性的失败，司法的失灵成为内政失灵的主要部分。</p>
-<p>在这样的情况下，官不聊生成为民不聊生之外的现象，愈来愈刺目，官民在痛感上愈来愈趋同。政权的走向尽管难以预料，但纪委之症终归是会自动扩展。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E5%B7%A7%E5%8F%96%E8%B1%AA%E5%A4%BA%E6%95%B0%E7%BA%AA%E5%A7%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">中纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">纪委</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +696,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +706,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%BA%AA
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

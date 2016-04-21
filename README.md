@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E7%BD%91-%E8%AE%A9%E7%A7%AF%E6%9E%81%E7%BD%91%E7%BA%A2%E9%A9%B1%E9%80%90%E7%B2%97%E9%84%99/" target="cdt-mirror">【异闻观止】人民网 | 让“积极网红”驱逐“粗鄙网红”</a>
+</h2>
+<p><p>这段时间，社会各界对“网红”现象的讨论很多。一方面，有不少人从经济学、营销学、传播规律等角度预言，“网红”将是2016年不可阻逆的网络趋势，认为“网红经济学”已来到我们身边；另一方面，鉴于目前大量“网红”让人感觉品位低劣，且有很多抖机灵、爆粗口等粗鄙表现，很多人对这一群体嗤之以鼻。在“趋势说”和“低劣说”之间，公共舆论场似乎缺少一种和解与平衡——每个人都看到了一个方面，并在不断强化着这种对立感和撕裂感。</p>
+<p>近日，国家新闻出版广电总局整治低俗网络节目，被称为“2016年中国第一网红”的“papi酱”系列视频因表述粗俗被整改，更是激发了人们对于网络空间整治的关注。没错，网络上确实有很多粗鄙、猎奇的文化，但也要看到，这类东西正在被逐步厌倦。从网络上找到能够激励自我成长的积极因素，汲取精神养分，已经成为很多网民潜意识里的渴求。既然“网红”现象、“网红”传播符合互联网时代的趋势与特质，无论你欢喜不欢喜，它都要扑面而来，那我们就没有理由各说各话，高高在上，冷眼旁观，一脸的鄙夷瞧不起。秉持这样的态度，只会令粗鄙的“消极网红”野蛮生长，洋洋得意。</p>
+<p>其实，在网络空间，我们已经可以找到一些“积极网红”的迹象。不管是此前的中学教师教学视频被追捧，还是横空出世的阿尔法围棋，甚至是社交媒体上引发怀念热潮的NBA球员科比，都可以看到“积极网红”的因子与可能。在这些事件中，当事人或是增加了人们对于科学知识的了解，或是增加了对于未来技术的洞见，或是增多了个人奋斗精神的激励，这些人对提升大众的精神世界显然大有裨益。</p>
+<p>还有一个有趣的例子值得注意，霍金作为世界顶级物理学家，突然闯入中文世界，只用了3天时间就成为一个“超级网红”，或许有助于让一个新概念成为流行，那就是“积极网红”——他们在社会地位、科学素养、文化品位、专业精神、生活智慧等方面口碑更正面，也更能参与构建积极的网络流行文化，创造健康的精神气质，同时能与各种畸形丑陋、哗众取宠、毫无底线的“消极网红”争夺公众的注意力，从而改变网络世界的总体生态。</p>
+<p>如果有更多像霍金这样的公众人物进入社交媒体世界，走近大众，影响大众，你觉得它会令这个世界越来越好，还是越来越糟呢？哪怕你说网友与霍金只是粗浅的交流，哪怕你说他也有宣传自己外星探索计划的“动机”，但他能够充分借助时下的新媒体和网络资源，充分扩大其影响力，让数百万网民距离大师更近一些，距离科学更近一些，终究还是为互联网世界增添了更多的积极因素。</p>
+<p>“网红”是个新生事物，社交媒体兴起也没多长时间，它能够成为什么样，首先取决于我们把它想象成什么样。在最初网络文化形成的时候，国内的很多公共人物其实也有与网民互动的兴趣，但由于网络上确实不乏粗暴之辈，骂人的、不讲理的人确实不少，导致很多公众人物心生畏惧，或退出或匿名。“劣币驱逐良币”，反倒助长了网络戾气。</p>
+<p>从这两年的经验来看，有话语权和影响力、负责任的公众人物，还是需要以勇气与智慧，迈过这个门槛，在网络世界上建构自己更充分的影响力。这也是一个健康网络世界的需求。媒体界也应该有基本的意识自觉，努力塑造、推进能够刺激人努力向前、自我提升、散发正能量的“网红”，自觉抵制或批判过于迎合炒作、低俗畸形的负能量“网红”，让“网红”吸纳更多健康养分，成为顺应并推动互联网时代的积极力量。</p>
+<p>不要简单抱怨网络和社交媒体的肤浅，而要多想想它为什么像现在这样肤浅。希望霍金的突然出现，能催生一些责任、自觉与清醒，帮助“积极网红”概念在中国快速走红。也希望更多负责任的公众人物、机构组织，能够“阳光的流行、健康的走红”，能够进入网络流行传播文化当中来，绽放在未来“网红”的江湖格局当中。 作者：毕诗成</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/moha.jpg?resize=600%2C388" alt="来源网络" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/moha.jpg?resize=300%2C194 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/moha.jpg?w=689 689w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>来源网络</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E7%BD%91-%E8%AE%A9%E7%A7%AF%E6%9E%81%E7%BD%91%E7%BA%A2%E9%A9%B1%E9%80%90%E7%B2%97%E9%84%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%AF%E6%9E%81%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">积极网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%88%BE%E6%B0%94/?category=18271" rel="tag">网络戾气</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E6%9D%83/?category=18271" rel="tag">话语权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/" target="cdt-mirror">自由亚洲｜《明报》执行总编辑遭解雇 疑涉报道巴拿马文件肇祸</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg" rel="attachment wp-att-435619"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?resize=585%2C329" alt="《明报》总编辑钟天祥(右)以节省资源为由，即时解雇执行总编姜国元(左)。(苹果日报)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?w=622 622w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>《明报》总编辑钟天祥(右)以节省资源为由，即时解雇执行总编姜国元(左)。(苹果日报)</p></div>
@@ -662,29 +681,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E7%BB%B4%E6%9D%83%E9%81%AD%E5%BD%93%E5%B1%80%E5%A8%81%E8%83%81/" target="cdt-mirror">自由亚洲 | 疫苗受害者家长维权遭当局威胁</a>
-</h2>
-<p><p>山东问题疫苗事件引发的连串风波还未平息，推动疫苗立法维权十年的广东江门疫苗受害者家长余同安，近日却遭到当地便衣24小时跟踪，并被威胁不准前往北京参与其他受害者家长集体起诉卫计委的活动。</p>
-<p>准备于近日前往北京与其他受害者家长集体起诉卫计委的广东江门疫苗受害者家长余同安，近日遭到当地警方派人24小时跟踪，并威胁他不能前往北京。海外维权网4月16日报道说，余同安是“疫苗和家庭群”组建者之一，为推动疫苗立法维权十年，目前已经遭胁迫退出“疫苗和家庭群”。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-%E4%B8%8A%E5%8D%8811.11.39.png?resize=450%2C335" alt="Screen Shot 2016-04-18 at 上午11.11.39" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.11.39.png?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-18-at-上午11.11.39.png?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><br><span>新会疫苗案受害者父亲余同安</span></p>
-<p>记者就此致电余同安，但他表示目前不能向外界透露消息：</p>
-<p>“我是余同安，可我现在不方便接受采访，你明白吗？”</p>
-<p>记者：“发生了什么事情。”</p>
-<p>余同安没有回答记者的问题，挂断了电话。</p>
-<p>记者又致电维权网提供的对余同安进行迫害的所在地镇综治办吴新荣主任，但对方在得知记者身份后立即挂断了电话。</p>
-<p>有疫苗受害者家长在网上发帖子称，不明白推动疫苗立法有何过错？当局为何限制人身自由及民众行政诉讼权利？他们认为当地政府所做所为完全是侵犯公民自由权，要求当局立即停止违法监视跟踪行为。</p>
-<p>余同安的儿子自05年3月份在学校注射了流行性脑膜炎球菌A群多糖疫苗后，蹊跷地罹患了“病毒性脑炎”（医院没给出详细病因和病名诊断），多年来经过多家医院的救治，儿子却落得“二级智力残疾”。为治病，余家一夜返贫且债台高筑，其年迈的双亲悲愤交加而自杀身亡。儿子打疫苗致残之后余同安多方奔走，先后去过新会区卫生局、江门市卫生局、广东省卫生厅等机构说明自己的情况，但是被各部门推诿，问题一直没能得到解决，他本人还屡遭当局迫害。</p>
-<p>对此，前陕西省电视台记者马晓明告诉本台，当局不可能认真对待问题疫苗事件：“疫苗事件只是中国食品药品保健品这些非常严重的问题中的一项，粗制滥造、以次充好。有关的单位、主管的部门疏于管理，有意从中牟利，放松管理所造成的恶果。还有一个很重要的原因，前几年山西已经有记者披露过山西、河北有些地方的疫苗致儿童死亡的事情，没有经过很好的查处，没有对涉案人员进行很严肃的处理，反而是举报的人和披露这些罪行的记者受到打击迫害，所以疫苗问题由此死灰复燃、不停地在侵害人民。总的来说，像这样腐败和贪婪的政党，让他去做出对人民负责的事情来，基本上是不可能的。”</p>
-<p>中国国务院在本月13日公布山东非法经营疫苗事件第一阶段调查结果，决定先行对357名公职人员给予处分，然而国务院只公布受处罚人数，却未公布具体受处罚官员名单。有分析认为，当局背后动机依然是维稳，并不是为民，因为不公布官员名单，民众就不知道处罚是动真枪，还是只找替罪羔羊充数。</p>
-<p>（特约记者：忻霖 责编：石山/寇天力）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E7%BB%B4%E6%9D%83%E9%81%AD%E5%BD%93%E5%B1%80%E5%A8%81%E8%83%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%90%8C%E5%AE%89/?category=18271" rel="tag">余同安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E4%BC%9A%E7%96%AB%E8%8B%97%E6%A1%88/?category=18271" rel="tag">新会疫苗案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E8%87%B4%E6%AE%8B/?category=18271" rel="tag">疫苗致残</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E7%96%AB%E8%8B%97%E6%A1%88/?category=18271" rel="tag">非法疫苗案</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -696,7 +692,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%90%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -706,5 +702,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%99%E5%90%8C
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%AE%87%E8%88%AA%E5%91%98%E7%85%A7%E7%89%87p%E4%B8%8A/" target="cdt-mirror">共青团的“星辰大海”，就是给美国宇航员照片P上中国国旗</a>
@@ -76,7 +76,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内严重警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%95%E6%AF%85%E9%A3%9E/?category=18271" rel="tag">慕毅飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">言论审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B7%9D%E5%B8%88%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88%EF%BC%9A%E5%A3%B0%E8%AA%89%E5%B8%B8%E5%B8%B8%E6%98%AF%E8%A2%AB%E6%84%9A%E8%A0%A2%E8%B4%A5%E5%9D%8F%E6%8E%89/" target="cdt-mirror">唐映红 | 川师断头命案：声誉常常是被愚蠢败坏掉的</a>
 </h2>
@@ -110,7 +110,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%9D%E5%B8%88%E5%A4%A7%E6%9D%80%E4%BA%BA/?category=18271" rel="tag">川师大杀人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E6%99%AE%E6%9F%A5/?category=18271" rel="tag">心理普查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E8%A0%A2/?category=18271" rel="tag">愚蠢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88/?category=18271" rel="tag">断头命案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E6%9E%84%E5%A3%B0%E8%AA%89/?category=18271" rel="tag">机构声誉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">杀人事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E5%BF%83%E6%8E%A9%E7%9B%96/?category=18271" rel="tag">精心掩盖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%8F%96%E6%B6%88%E5%AF%B9%E6%BB%95%E5%BD%AA%E5%8D%9A%E5%A3%AB%E6%96%B0%E4%B9%A6%E7%9A%84%E5%87%BA%E7%89%88/" target="cdt-mirror">自由亚洲｜美国律师协会取消对滕彪博士新书的出版</a>
 </h2>
@@ -636,7 +636,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -646,5 +646,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

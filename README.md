@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B7%9D%E5%B8%88%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88%EF%BC%9A%E5%A3%B0%E8%AA%89%E5%B8%B8%E5%B8%B8%E6%98%AF%E8%A2%AB%E6%84%9A%E8%A0%A2%E8%B4%A5%E5%9D%8F%E6%8E%89/" target="cdt-mirror">唐映红 | 川师断头命案：声誉常常是被愚蠢败坏掉的</a>
+</h2>
+<p><p>4月15日曝出的川师大断头命案，本来不打算置评。这件令人感到不寒而栗的恐怖残杀案件，虽然案情细节超出人们的经验和想象，但人群中这种特异性的小概率事件总是难免会发生。将它过度诠释，或者试图从中提取出普遍的“问题”可能都是不恰当的。仅仅从案件本身而言，并不必然与学校或教育有关；以案发时保安距离现场只有10几米为由质疑管理，从某种意义上说也可能是不妥当的。</p>
+<p>在我看来，这件命案真正令人不安的还不是案件本身的血腥残暴，而是这么血腥残暴的凶杀命案竟然被精心地掩盖了起来。从案发的3月27日，到曝出的4月15日，半个多月的时间里，这件如此令人恐怖的凶杀命案竟然被学校和警方精心地掩盖了起来，外界一无所知。</p>
+<p>按说，这种特异性的小概率事件发生后，学校应当承担的管理责任有限，警方如果秉公办案也无须要掩盖什么。案情及时在第一时间公布，不仅有助于减少公众对案件的猜测和怀疑，更能够消弭公众的不安。这种小概率事件正是因为具有特异性，寻常的管理或者预案并不能常规性地纳入到工作范围，所以某种意义上具有防无可防的特点，也因此可能发生在任何一个学生，任何一名公众身上，所以公众当然有权了解案情的必要讯息。</p>
+<p>可是，学校和警方在长达半个多月的时间里，没有披露案情的任何讯息。甚至在川师大的网站上，从3月27日迄今，发布了50余条学校要闻，无一个字涉及此事。案情竟然是受害人家属披露的。受害人家属将所了解的案情细节在微博上披露此事，这件令人惊愕的校园残暴凶杀命案才得以为外界所知晓，进而引爆舆论。</p>
+<p>随着受害人家属公布案情意味着学校和警方对此事的缄默被打破，关于此事为何被精心掩盖的各种“流言”也开始迅速地得到传播。例如，凶嫌的家庭背景、学校和警方之所以掩盖的阴谋论猜想、对学校管理的质疑，等等。正常的机构在此时应该倍感压力，及时“亡羊补牢”，弥补因为掩盖讯息而导致可能的声誉受损。</p>
+<p>有意思的是，学校在舆论已经哗然的情况下对此事的应对措施竟然是升级的封锁和屏蔽。记者进校试图参访遭到成队保安的拦阻和拒绝，甚至在校园里拍摄与案情无关作业的本校学生也受到殃及，被保安阻止了。</p>
+<p>警方的反应更是令人诧异。办案警方竟然要求披露受害人讯息的受害人家属给警方写致歉信，并指其为“泄露国家机密”，要求受害人家属交出微博帐号和密码。什么时候开始，受害人的讯息成为“国家机密”了？如果当地警方的逻辑能够成立，那这个国家的“机密”将多到足以压垮13亿头骆驼。</p>
+<p>案情被披露后，警方和学校才被动地发布了关于本案语焉不详的公告。其中，完全不提公众最关心，也是整个社会人们最担心的涉及法律公正有关的凶嫌的讯息。特别是在“流言”已经广为传播，直指凶嫌背景为警方子弟，学校和当地警方被“公关”搞掂所以才遮遮掩掩的情况下，只字不提凶嫌讯息，实在是令人不可理解。</p>
+<p>如果说，学校和当地警方担心因为离奇命案而损害治安声誉，因此遮遮掩掩尚情有可原，但是在案情已经被披露，而且“流言”四起的时候仍然遮遮掩掩，那损害的就不仅仅是治安声誉，而是学校诚实与能力，警方办案是否秉公执法以及公正与否。既然学校和警方不惜损害自身声誉也要一意孤行地遮遮掩掩，那么最可能就只有两种解释。从阴谋论的角度，学校和警方因为凶嫌家庭背景为体制内公职身份所以区别对待，特别是在近些年曝光出的多起警方参与伪造证据为亲者脱罪或构陷无辜的先例，所以这种阴谋论的推测并非空穴来风。另一种解释则假设学校和警方确实没有偏袒，也无阴谋私心，那就只能归咎于这两个机构令人匪夷所思的愚蠢，以为在互联网时代靠把头埋进沙子就能够回避压力。</p>
+<p>说实话，我宁可相信学校和警方是因为愚蠢所以才颟顸地试图遮掩已经天下哗然的残暴断头命案。这样至少不会对新常态下的法律公正过于绝望。可是，关于本案的神奇“逆转”果然就发生了。</p>
+<p>学校和警方一直掩盖的关于凶嫌的讯息被媒体采访获悉，果然与之前的“流言”一致，凶嫌藤某父母皆为某监狱的公职人员身份，其爷爷也是一位监狱离休人员，可以称得上是司法系统的公职世家。</p>
+<p>更令人惊奇的是，凶嫌家属果然在舆论哗然的情况下，声称凶嫌有精神病，有过两次自杀史，并于4月17日申请了司法精神鉴定。令人费解的是，如果凶嫌确有精神问题，那么其家属不是应当在案发后及时提出司法精神鉴定吗？如果案发后第一时间提出鉴定，那么鉴定结果的可靠性当然比事隔半个多月后再鉴定要高得多。按照法律相关规定，哪怕是精神分裂症患者，也仅仅在犯罪行为发生时处于发病期才有可能减轻或免责。如果犯罪行为发生时，行为人并未处于发病期，或者即使处于发病期但没有证据表明行为人的行为不受意识控制那么就构不成减轻或免责的法律要件。过了半个多月，在媒体挖掘出凶嫌的家庭背景果然如“流言”传播一致时，才果然以精神问题来脱罪，并申请司法精神鉴定。无论从哪个角度来看，都脱不了猫腻的嫌疑。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?resize=600%2C480" alt="网络图片" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?resize=300%2C240 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?resize=768%2C614 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?w=900 900w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>网络图片</p></div>
+<p>至于凶嫌是否可能在案发时正好精神病发病期，就需要通过及时公布的案情细节，以及透明公正的司法精神鉴定来予以澄清。不公布案情细节，缺乏透明公正的司法精神鉴定，什么样的鉴定书不能“炮制”出来？</p>
+<p>无论学校、警方和凶嫌家庭愿意不愿意，当案情被披露后，从相关披露的案情细节看不出凶嫌有任何可能减轻或免责的精神病发病迹象。他事先买好不锈钢菜刀，然后把受害人叫到宿舍的学习室，然后50多刀残暴地剁杀受害人，然后告知其他同学报警。整个过程他完全清醒，完全知道自己在干什么，看不出有任何出现幻觉、意识朦胧的迹象来。</p>
+<p>不言而喻，从犯罪心理学角度，能干出残暴剁杀受害人的凶嫌，往往反映了他的心理变态。但心理变态并不等于可以免责的精神障碍，更可能反映的是他的反社会人格障碍。事实上，绝大多数令人发指的暴力犯罪者都具有反社会人格障碍，这种人格障碍甚至被称为“犯罪人格”。尽管反社会人格障碍者未必就一定会犯罪，但严重的暴力犯罪却往往与犯罪人的社会人格障碍有关。</p>
+<p>其实，不管凶嫌是人格障碍也好，还是其父母声称的抑郁症、自闭症，或者可能构成减轻或免责的精神分裂症，从他极端变态的剁杀受害人来看，他必然存在着由来已久的心理人格问题。这其实从川师大对入学新生进行的心理普查就可以查询到。</p>
+<p>每年新生入学后的10月，川师大的大学生心理健康教育服务中心都会组织对各个学院的新生进行心理普查，使用量表为SCL-90（Self-reporting Inventory，症状自评量表）、SDS（Self-Rating Depression Scale，抑郁自评量表）、EPQ（Eysenck Personality Questionnaire，艾森克人格问卷）。其中的SCL-90是使用最为广泛的精神障碍和心理疾病门诊检查量表。如果凶嫌藤某具有某种心理精神障碍，那么通过心理普查的统计分析结果就能够反映出来。</p>
+<p>那么，就坐等川师大适时公布凶嫌的心理普查结果。如果学校想帮助凶嫌，那么公布其心理普查报告并且其中确实反映精神病性的障碍，那也不枉顶住压力遮掩了这么久。如果学校想澄清自己的责任，表明并未在此事中有所偏袒，那么及时公布如实的心理普查报告，就能表明凶嫌到底是精神病性的障碍，还是其他不涉及法律规定可予减轻或免责的其他心理行为障碍。</p>
+<p>不过，一个愚蠢到将自己声誉给“黑”掉的机构，恐怕做什么都不会令人信服。不公布会被批评为掩盖事实；公布如果有助于凶嫌又会被怀疑作弊。只有公布而且表明凶嫌并无可能导致法律上减轻或免责的精神病性障碍的结果才更可能被接受。可事实是这样的吗？</p>
+<p>一个机构的声誉常常就是这样被愚蠢所败坏掉的。或者是纯粹的愚蠢，或者是坏得愚蠢。</p>
+<p>附：</p>
+<p>根据今天相关报道，川师大披露了凶嫌的心理普查记录，<strong>没有明显异常</strong>，也未被纳入需要关注的预警名单。换言之，至少<strong>从半年前的心理普查记录来看，并不支持凶嫌患有精神病性障碍的假设。</strong></p>
+<p>另，从公共关系心理学角度，当案情被受害人家属披露后，川师大正确的做法是准备比较详细的案情通稿提供给来访记者和媒体，必要时甚至可以召开新闻发布会，总之，将舆论主导权掌握在自己手中。遮蔽信息，驱赶记者不仅会在细节陆续披露后陷入被动，而且那些被驱赶的记者下笔也不会留情。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B7%9D%E5%B8%88%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88%EF%BC%9A%E5%A3%B0%E8%AA%89%E5%B8%B8%E5%B8%B8%E6%98%AF%E8%A2%AB%E6%84%9A%E8%A0%A2%E8%B4%A5%E5%9D%8F%E6%8E%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%9D%E5%B8%88%E5%A4%A7%E6%9D%80%E4%BA%BA/?category=18271" rel="tag">川师大杀人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E6%99%AE%E6%9F%A5/?category=18271" rel="tag">心理普查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E8%A0%A2/?category=18271" rel="tag">愚蠢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88/?category=18271" rel="tag">断头命案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E6%9E%84%E5%A3%B0%E8%AA%89/?category=18271" rel="tag">机构声誉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">杀人事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E5%BF%83%E6%8E%A9%E7%9B%96/?category=18271" rel="tag">精心掩盖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%8F%96%E6%B6%88%E5%AF%B9%E6%BB%95%E5%BD%AA%E5%8D%9A%E5%A3%AB%E6%96%B0%E4%B9%A6%E7%9A%84%E5%87%BA%E7%89%88/" target="cdt-mirror">自由亚洲｜美国律师协会取消对滕彪博士新书的出版</a>
 </h2>
 <p><p>上周五，在美国纽约工作的人权律师、中国兴善研究所所长、纽约大学法学院访问学者-滕彪博士的新书被美国律师协会取消出版。</p>
@@ -592,56 +626,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%85%AC%E5%BC%80%E8%BE%B1%E5%8D%8E-vs-%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/" target="cdt-mirror">悉尼大学吴维事件：公开辱华 VS 言论自由</a>
-</h2>
-<p><p>4月14日，部分国内媒体报道了一位就职于悉尼大学的华裔教师在微博发表“公开辱华”内容的消息，新闻称这名微博号为Pekojima（真名吴维）的男子屡次发表歧视澳洲留学生言论、亲日言论以及“反华言论”，并且在去年11月发表了一段焚烧中国护照的视频….消息披露后，部分中国学生向悉尼大学施压要求以发表种族主义言论为由对吴维做出处罚，目前校方表示已介入此事，并且暂停了吴维的教学活动。与此同时，也有部分网友及在澳华人发表公开信，他们认为悉尼大学应尊重并保护吴使言论自由的权利，反对对吴进行不透明的“被辞职”处理。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/wuwei.jpg?resize=550%2C543" alt="wuwei" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/wuwei.jpg?resize=300%2C296 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/wuwei.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-1.jpg?resize=550%2C307" alt="0 (1)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-1.jpg?resize=300%2C167 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-1.jpg?w=500 500w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-2.jpg?resize=550%2C290" alt="0 (2)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-2.jpg?resize=300%2C158 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0-2.jpg?w=500 500w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0.jpg?resize=550%2C246" alt="0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0.jpg?resize=300%2C134 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0.jpg?w=400 400w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>部分报道截图</p>
-<p><strong>相关阅读：</strong></p>
-<p><a href="http://view.inews.qq.com/a/NEW2016041500553304" target="_blank">观察者网：悉尼大学华裔教员公开辱华 焚烧中国护照</a></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%A3%90%E7%9F%B3%E5%B0%8F%E5%A7%90%EF%BC%9A%E7%94%B1pekojima%E4%BA%8B%E4%BB%B6%E5%8F%8Ap%E5%B8%AB%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%B8%E7%9A%84%E9%81%AD%E9%81%87%E6%83%B3%E5%88%B0%E7%9A%84/" target="_blank">磐石小姐：由Pekojima事件及P師在悉尼大學的遭遇想到的</a></p>
-<p><a href="http://oversea.huanqiu.com/article/2016-04/8814566.html" target="_blank">环球时报：悉尼大学辱华教师道歉辞职：今后将不再发表类似言论</a></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?resize=600%2C338" alt="DHImDghjELOFFGa-800x450-noPad" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/DHImDghjELOFFGa-800x450-noPad.jpg?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>以下为公开信两则：</strong></p>
-<p><strong>第一封公开信：</strong></p>
-<p>我们部分在澳华人对于近期悉尼大学商学院针对吴维老师歧视言论所展开的内部调查表示关切。</p>
-<p>对于该事件，我们希望表达如下立场：</p>
-<p>1. 我们不认为吴维老师在中国网站上受密码保护的账号中发表的个人观点，可以被剥离特定语境后，断章取义、拼凑嫁接作为反对其在澳大利亚从事科研教学的依据。</p>
-<p>2. 我们认为吴维老师很多激烈言论是有明确针对性的，其中包括参与学术造假的特定学生。尽管措辞强烈，这些的言论是以社会普遍认可的事实为基础的。 – <a href="http://www.forbes.com/2010/05/26/china-cheating-innovation-markets-economy-plagiarism.html" target="_blank" rel="nofollow">http://www.forbes.com/2010/05/26/china-cheating-innovation-markets-economy-plagiarism.html</a> … – <a href="http://blogs.wsj.com/chinarealtime/2015/05/29/u-s-schools-expelled-8000-chinese-students-for-poor-grades-cheating/" target="_blank" rel="nofollow">http://blogs.wsj.com/chinarealtime/2015/05/29/u-s-schools-expelled-8000-chinese-students-for-poor-grades-cheating/</a> …</p>
-<p>3. 我们担心吴维老师长期针对中国政府、政治体制、社会问题的尖锐批评，已经使其成为中国政府在互联网上的舆论引导者们关注的对象，并试图以吴维老师焚烧中国护照作为其侮辱华人学生的凭据。而在我们看来，这正是吴维老师表达异议的一种正常途径。</p>
-<p>4. 我们强调，作为在澳华人，我们并不把吴维老师焚烧护照和针对学术不端的中国留学生的严厉批评言论，作为对于整个华人种族的歧视。我们相信，许多在澳华人也不会这样去解读。</p>
-<p>5. 我们也注意到，吴维老师在悉尼大学的教学生涯中，并未有过任何来自学生因其种族、背景而遭遇歧视、侮辱、或不公正对待的任何指控。我们认为这才是一个种族歧视者更为直接了当的做法。</p>
-<p>综上所述，我们对于此事件的发展会继续保持密切关注。我们希望悉尼大学商学院尊重并保护吴维老师行使言论自由的权利，以及平等获得工作机会的权利。</p>
-<p>英文版<a href="https://www.change.org/p/support-wu-wei-open-letter-to-the-school-of-business-in-the-university-of-sydney" target="_blank">内容</a></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?resize=600%2C338" alt="JmHujYNwnkgVvfj-800x450-noPad" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/JmHujYNwnkgVvfj-800x450-noPad.jpg?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>第二封公开信：</strong></p>
-<p>我们是本周一发布公开信，关注悉尼大学商学院就吴维老师网上言论所展开调查的在澳华人。</p>
-<p>在等待悉尼大学商学院回复的同时，我们突然注意到中国国家宣传机构《环球时报》刊载了悉尼大学单方面宣布，吴维老师已就网络言论道歉并提出辞职的传闻。</p>
-<p>我们在此明确指出，到目前为止，我们：</p>
-<p>– 没有看到悉尼大学或商学院发布任何官方声明，确认或否认这一系列网络传闻；<br>
-– 没有看到悉尼大学或商学院发布的任何调查报告，却试图凭空给事件定性；<br>
-– 没有看到对于公开信及其千百位联署者的任何回应；<br>
-– 没有看到吴维老师有关调查进展、结论、道歉、辞职的任何公开回应。</p>
-<p>我们有理由相信：</p>
-<p>– 吴维老师和外界沟通的权利受到限制；<br>
-– 吴维老师的平等就业权利受到侵害；<br>
-– 悉尼大学或商学院受到了来自外界的压力，希望尽快结束调查；<br>
-– 悉尼大学或商学院没有公正、透明、负责任地就事件进行调查；<br>
-– 悉尼大学或商学院不希望更多细节被公众知晓。</p>
-<p>我们将继续关注事件发展，并保留进一步寻求公义的权利。</p>
-<p>英文版<a href="https://www.change.org/p/support-wu-wei-open-letter-to-the-school-of-business-in-the-university-of-sydney/u/16270907" target="_blank">内容</a></p>
-<p>知名漫画家巴丢草在发起了声援吴维的#草泥马护照 活动：</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-%E8%8D%89%E6%B3%A5%E9%A9%AC%E6%8A%A4%E7%85%A7.png?resize=450%2C587" alt="1 草泥马护照"></p>
-<p><a href="https://photos.google.com/share/AF1QipMR2cVK_yJu9ir_0kf8R8RIbhteCBG7bDDEx_KNcqwoQJ7tvb7Sn-_O3TzBR9e1lw?hl=zh-CN&key=MXlvbmJ3SU9ES3U5dDBkT2tkYmZ6OWlQMDhUaTZ3" target="_blank">https://photos.google.com/share/AF1QipMR2cVK_yJu9ir_0kf8R8RIbhteCBG7bDDEx_KNcqwoQJ7tvb7Sn-_O3TzBR9e1lw?hl=zh-CN&key=MXlvbmJ3SU9ES3U5dDBkT2tkYmZ6OWlQMDhUaTZ3</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%82%89%E5%B0%BC%E5%A4%A7%E5%AD%A6%E5%90%B4%E7%BB%B4%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%85%AC%E5%BC%80%E8%BE%B1%E5%8D%8E-vs-%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4/?category=18271" rel="tag">吴维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">强国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -663,5 +647,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

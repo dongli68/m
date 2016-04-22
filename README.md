@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%B3%E6%B4%B2%E4%BA%BA%E9%AA%82%E5%8D%8E%E4%BA%BAchinaman-%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8B%8D%E6%89%8B%E7%A7%B0%E5%BF%AB/" target="cdt-mirror">【立此存照】澳洲人骂华人Chinaman 爱国青年拍手称快</a>
+</h2>
+<p><p>近日，疑有共青团背景的“青年力”官网账号就吴维事件发布了这样一条置顶微博：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9D%92%E5%B9%B4%E5%8A%9B%E6%B4%8B%E5%A5%B4.png" rel="attachment wp-att-435655"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9D%92%E5%B9%B4%E5%8A%9B%E6%B4%8B%E5%A5%B4.png?resize=500%2C457" alt="青年力洋奴" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?resize=300%2C274 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?resize=768%2C703 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?resize=1024%2C937 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?w=2020 2020w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/5681482843/DrhqciIZM" target="_blank">@青年力网</a>：悉尼大学华裔教师辱华事件中，一位澳大利亚网友对为这位教师辩护和抨击自己种族的国人的评论</p>
+<p>Lol love all the chinamen <span>on</span> here defending this guy and bashing your own face. But as you enjoy our freedom and superior culture, <span>remeber</span> this:you will never be <span>a</span> aussie <span>,</span> we will never accept you as an aussie because you are a chinaman and always will be a chinaman.<em>（红字见文末编者注）</em></p></blockquote>
+<p>这则微博很快引来了许多“爱国青年”们的追捧，他们中很多人似乎认为，有自称澳大利亚人的网民对华人发表种族歧视的言论，是一件非常值得庆祝的事。微博评论中充斥着诸如“慕洋犬的悲哀”“卖祖宗的二鬼子”“跪舔别人也没人理你”“背叛自己国家的下场”等幸灾乐祸式的表达。</p>
+<p><strong>觉得被吴维冒犯时指控对方种族歧视，向学校施压致其辞职；有自称澳洲人对吴维等华人使用“chinaman”这种类似称黑人N-word的极端种族主义词汇时，却拍手称快。这是怎样一种双重标准？</strong>他们对种族歧视的态度到底是怎样的？那些对吴维的指控到底是不是建立在所谓的辱华／种族歧视的<strong>言论本身</strong>上？还是说对方的<strong>华裔身份</strong>才是重点？</p>
+<p>@青年力网 还就吴维事件发表了一篇题为《<a href="http://weibo.com/p/1001603964940842103053?mod=zwenzhang" target="_blank">跪下去的洋奴，站不起的精神</a>》的文章。在把吴维及其支持者批判一番，称他们为下跪的“洋奴”后，作者在结尾处写到：</p>
+<blockquote><p>诚然，现在的中国社会还不那么尽如人意，可是，中国的发展速度放眼世界却是无人能及。小编不知道，他们还会跪多久，也许，到了中国腾飞的时候，他们一定会争先恐后地想要站起来，只是到那时，这也会变成一件难事吧。</p></blockquote>
+<p>“<a href="http://qingnianli.com/" target="_blank">青年力</a>”网站仅有的三个友情链接截图：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png" rel="attachment wp-att-435656"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=500%2C95" alt="Screen Shot 2016-04-20 at 10.42.09 PM" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=300%2C57 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=768%2C146 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=1024%2C195 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?w=1378 1378w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/3215829407" target="_blank">@妹妹要顺顺</a>：之前就说了你要舔人家还要看人家愿不愿意让你舔呢，你就是天天喊着我是澳大利亚人，人家也不可能真把你当澳大利亚人看，没办法，什么多元社会那都是骗小清新的，种族外貌就在那儿摆着呢<img title="[挤眼]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c3/zy_org.gif" alt="[挤眼]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1276982315" target="_blank">@清风徐徐彩云飘飘</a>：这就是慕洋犬的悲哀，最终就是孤魂野鬼<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1957695794" target="_blank">@美人如画如梅-炎</a>：慕洋犬以为入了洋人的狗洞就是洋大人了，真是太可笑，在洋人眼里黄皮肤的慕洋犬不过是一条野狗而已</p>
+<p><a href="http://weibo.com/5867937966" target="_blank">@种花当家兔</a>：唉，二鬼子不仅可恨，还很可悲，骂自己祖宗，跪舔外国爹，然而外国爹从来都没有把慕洋犬当人看。吴维狗们，洗洗你们的狗耳，好好听听你们澳洲爹的训话吧。</p>
+<p><a href="http://weibo.com/2234220894" target="_blank">@whitedestiny</a>：chinaman 这词充满了racism的感觉 还是那熟悉的whitepig 的味道 不过我喜欢 抽醒你个假洋鬼子 背叛自己的同族最后结果就是两边都被排挤</p>
+<p><a href="http://weibo.com/2891711234" target="_blank">@Town-s</a>：自己在澳大利亚也就当了条狗，还跑回来装犊子，让别人以为自己活的多好一样，狗就是狗，到那里都是狗。</p>
+<p><a href="http://weibo.com/2945144777" target="_blank">@沧海明月Y</a><i></i>：白皮猪永远是白皮猪，黑鬼永远是黑鬼。</p>
+<p><a href="http://weibo.com/1283789317" target="_blank">@心可转境</a>：二鬼子以为自己卖了祖宗就能成为鬼子了，到头来发现自己只不过成了个“二”</p>
+<p><a href="http://weibo.com/5867937966" target="_blank">@种花当家兔</a>：唉，二鬼子不仅可恨，还很可悲，骂自己祖宗，跪舔外国爹，然而外国爹从来都没有把慕洋犬当人看。吴维狗们，洗洗你们的狗耳，好好听听你们澳洲爹的训话吧。</p>
+<p><a href="http://weibo.com/2906249447" target="_blank">@小雪儿shelly</a>：自己国家不爱 自己民族不爱的人 又怎么会爱别人的国家？？？即使你爱别国 跪舔成狗 别国也不会承认你 因为你狗都不如 随时当叛徒的人 怎可能得到尊重？？？别傻了</p>
+<p><a href="http://weibo.com/5315630169" target="_blank">@秦铁汉血</a>：历史上叛徒的下场，大家有看过吗？一个能背叛自己国家的人，同样也能背叛现在的主子。叛徒，利用完就是一具尸体</p>
+<p><a href="http://weibo.com/3316941227" target="_blank">@Bloody-RocknRolla</a>：只不过澳大利亚一帮贱种不知道哪里来的优越感<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908d.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908d.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908d.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/GKLoma" target="_blank">@GK-Loma</a>：我想到了一身黄衣服的二鬼子<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2660329597" target="_blank">@刀刀love金鱼</a>：背弃自己族群的人，是永远不会被别人接纳的，自己种族都能辱骂的人，终究是猪八戒照镜子，里外不是人。</p>
+<p><a href="http://weibo.com/1836026284" target="_blank">@卷卷猪小昌</a><i></i>：哈哈，两边不是人，活该</p>
+<p><a href="http://weibo.com/5866066323" target="_blank">@一生一叹一痕沙__</a>：这种有奶便是娘的人出了国就以为是外国人了？？？但是他永远改变不了基因问题<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">想要真正做外国人就自杀重新投胎吧</p>
+<p><a href="http://weibo.com/5257324876" target="_blank">@俺的痴呆</a>：卓越文化？Excuse me?你确定要和中国比文化？<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2863350100" target="_blank">AC-任远</a>：洋奴们脸疼吗，这巴掌打的啪啪的，快滚过来洗。</p>
+<p><a href="http://weibo.com/2300416582" target="_blank">@槿丷沐潇</a><i></i>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">公知和洋奴一阵心碎</p>
+<p><a href="http://weibo.com/2788184670" target="_blank">@怒山河</a>：不管你英语如何的流利，你吃了多少薯条汉堡，喝了多少可口可乐，你的黄皮肤永远是黄皮肤，黑眼睛永远是黑眼睛。你觉得你融入了对方的族群，对不起只是你觉得。</p>
+<p><a href="http://weibo.com/3608609505" target="_blank">@杨枪枪枪</a>：真是无语，美爹都算了，还有拿澳洲当爹的。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">看看吧，澳爹咋说的。</p>
+<p><a href="http://weibo.com/3802666651" target="_blank">@又见冰轮1</a>：回复<a href="http://weibo.com/n/%E8%94%9A%E8%93%9D1916ROC?from=feed&loc=at" target="_blank">@蔚蓝1916ROC</a>:你是哪家的狗？祖宗不是中国的吧？八国联军侵入中国的时候，你祖奶奶被慰问过吧？不然中国人如何说的出畜牲的话？</p>
+<p>——————————-<br><a href="http://weibo.com/2390518517" target="_blank">@逆流疾走RED</a>：哎，小粉红自污辱华一点也不手软啊</p>
+<p><a href="http://weibo.com/enzokwok" target="_blank">@EnzoKwok</a>： 这要是澳洲人写的这就是小学没毕业的澳洲人，A aussie 是证据。如果这个是澳洲人，这就是绝对的种族歧视者，否则任何场合都不应用chinaman 这个词的，你们既然要以种族歧视的名义围剿一个称某些中国人为豚的澳洲人，就麻烦不要用一个开口chinaman的人的话为依据，惨不忍睹的自相矛盾</p>
+<p><a href="http://weibo.com/ghliang?refer_flag=1005055013_" target="_blank">@袋鼠力</a><a title="2016-04-21 22:36" href="http://weibo.com/5880603917/Ds2ycqGJb?from=page_1005055880603917_profile&wvr=6&mod=weibotime" target="_blank" name="3966829926360777"></a>：一个澳洲华人烧中国护照，被爱国豚指责辱华，然后来了个操华人口音的正统澳洲人骂Chinaman永远都是Chinaman，被Chinaman里面最最 最Chinaman的那群引用转发热捧。我快要看不懂剧情了。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/%E8%9D%8C%E8%9A%AA%E5%BE%80%E4%BA%BA?from=feed&loc=at" target="_blank">@蝌蚪往人</a>: 哈哈哈哈，实力辱华！ //<a href="http://weibo.com/n/%E6%A0%BC%E6%A0%BC%E7%89%A9%E8%87%B4%E8%87%B4%E7%9F%A5?from=feed&loc=at" target="_blank">@格格物致致知</a>:”On here”, “remeber”——居然真有xx相信这是澳大利亚英语母语者写的<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5866741269" target="_blank">@囧纳森IV</a>：这他妈能过得了四级？<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E6%9D%8E%E5%8F%8C%E6%B1%9F%E6%80%92%E6%96%A9%E5%AE%99%E6%96%AF%E7%9B%BE?from=feed&loc=at" target="_blank">@李双江怒斩宙斯盾</a>：刚过了CET4的澳大利亚人</p>
+<p><a href="http://weibo.com/n/%E8%BF%9E%E7%8E%AF%E7%88%86%E7%9A%84%E6%87%92%E7%8C%AB?from=feed&loc=at" target="_blank">@连环爆的懒猫</a>:前年伞运时也出现过不少英语不利索的英国人，感觉要成固定节目了</p>
+<p><a href="http://weibo.com/1189789363" target="_blank">@Yau-shuma-usur</a>：没加“i am not chinese”差评</p>
+<blockquote><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg" rel="attachment wp-att-435653"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=400%2C490" alt="006p2fpbjw1f34uyg80pzj30qo0wpk00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=245%2C300 245w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=768%2C942 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=835%2C1024 835w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?w=960 960w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
+<p><em>编者注：@青年力网 所贴英语评论之所以被许多人质疑真实性，是因为其中所犯的语法错误（红字标出部分），是ESL（英语非母语）学生最容易犯的（介词、run-on 等）。英语为母语者常见的语法／拼写错误与ESL学生的大相径庭，并不难区别。</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%B3%E6%B4%B2%E4%BA%BA%E9%AA%82%E5%8D%8E%E4%BA%BAchinaman-%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8B%8D%E6%89%8B%E7%A7%B0%E5%BF%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4/?category=18271" rel="tag">吴维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BE%A8%E6%8A%A5%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%B1%E9%9D%92%E5%9B%A2%E5%94%AF%E4%B8%80%E7%9B%B4%E5%B1%9E%E9%AB%98%E6%A0%A1%E5%B0%86%E5%81%9C%E5%8A%9E%E6%9C%AC%E7%A7%91/" target="cdt-mirror">侨报网｜中国共青团唯一直属高校将停办本科</a>
+</h2>
+<p><p>中国青年政治学院的名字很多人也许并不熟悉，其实它是中国共产主义青年团（简称共青团）唯一直属的重点大学。近日有传闻称，团中央机关大量减编，该大学将因此停办本科。</p>
+<p>4月21日，凤凰网称经多位中国青年政治学院（简称中青院）毕业的团中央人士证实，中央政治军常委已召开会议，研究决定：停办中国青年政治学院本科生教育。</p>
+<p>据凤凰网报道，此前有消息称，中青院中层领导已开会研究，月底将拿出方案。一些团中央人士解释称：“改革时间表没有那么快，中央深改组同意的方案经4月14日的政治局常委会确认通过，改革在2到3年完成，昨天（4月20日）大会我们自己预估一到两年完成。”</p>
+<p>该报道称，该消息已经在学生中流传一周，直到20日才被学校证实。上周五，有中青院的毕业生在校友群里询问学校是否将停办本科教育，随即便有学生向团中央内部人士证实了此消息。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461249952684.jpg" rel="attachment wp-att-435649"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461249952684.jpg?resize=337%2C600" alt="1461249952684" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461249952313.jpg" rel="attachment wp-att-435648"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461249952313.jpg?resize=337%2C600" alt="1461249952313" data-recalc-dims="1"></a><br><span>中青院校友群有关停止本科招生的讨论。图片来源：凤凰网</span></p>
+<p>消息在这一周继续发酵，但始终未得到中青院领导层的证实，许多老师都以为是谣言。直到4月20日各学院接到通知。4月21日，中青院教师组建微信群讨论此事的解决方法，有教师表示：“我们连基本的知情权都没有，还不如学生信息灵通，真是滑天下之大稽。”有教师向凤凰网提出了担忧：“保留研究生的话，硕导还有可能留下，那些讲师们怎么办呢？”</p>
+<p>21日下午，一个名为《有感于中青院将停办本科》的帖子在中国最大论坛天涯论坛上出现，文章的作者系中青院教师杨支柱。杨支柱在文中透露：中国青年政治学院本科停办，将回归1985年以前中央团校的状态。</p>
+<p>该文质疑停办中青院本科的做法是否合情，“没有生源危机和其他任何重大事由的情况下突然停办一所大学，完全不顾历史与现实的合理性，不顾师生们的期望和毕业生的感受，不考虑撕毁一大堆用人合同给求职者带来的损失，团中央这样行使权力是不是太任性了？”</p>
+<p>杨支柱认为此举等同于解散学校，而受影响最大的将是学生和毕业生。</p>
+<p>目前中青院的官网上，校园新闻还在每日更新，但停办该校本科的传闻只字未提。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250108598.png" rel="attachment wp-att-435651"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250108598.png?resize=500%2C186" alt="1461250108598" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250108598.png?resize=300%2C112 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250108598.png?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>中青院贴吧内有不少学生讨论此事。</span></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250109808.png" rel="attachment wp-att-435650"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250109808.png?resize=500%2C189" alt="1461250109808" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250109808.png?resize=300%2C113 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461250109808.png?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>学生留言。</span></p>
+<p>中青院的百度贴吧倒是有一些讨论，基本都是学生担心自己的就业会受影响。甚至有学生表示，如果最终传闻成真，他会选择复读重新考别的大学。</p>
+<p>公开资料显示，中国青年政治学院坐落于北京，是共青团中央直属、教育部与共青团中央共建的唯一一所重点高等院校，是中国首批”卓越法律人才教育培养计划“重点建设高校，中国共青团组织的最高学府，首都特色行业院校，以共青团工作和政法为特色及优势，涵盖文学、哲学、法学、经济学、管理学等多学科门类，被誉为”卓越青年人才的摇篮”。</p>
+<p>1985年12月，中青院在中央团校基础上成立，校门口挂有“中央团校”和“中国青年政治学院”两块牌子，校名为原中共中央总书记胡耀邦题写。毛泽东、周恩来、刘少奇、朱德、邓小平、李先念等前任中央领导曾多次亲临该校作报告、参加毕业典礼、接见学员和工作人员、题写祝词与贺信，作出一系列指示。</p>
+<p>团中央历届领导冯文彬、胡耀邦、韩英、王兆国、胡锦涛、宋德福、李克强、周强、胡春华、陆昊、秦宜智等先后任学校校长。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BE%A8%E6%8A%A5%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%B1%E9%9D%92%E5%9B%A2%E5%94%AF%E4%B8%80%E7%9B%B4%E5%B1%9E%E9%AB%98%E6%A0%A1%E5%B0%86%E5%81%9C%E5%8A%9E%E6%9C%AC%E7%A7%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E6%B4%BE/?category=18271" rel="tag">团派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E6%8E%A8%E7%89%B9%E9%99%88%E8%91%B5%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E5%B7%A5%E4%BD%9C%E5%BA%A7/" target="cdt-mirror">【习总日记】 推特陈葵在网络安全和信息化工作座谈会上的发言</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，4，20）</p>
@@ -580,119 +657,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%94%8B%E8%AF%84-%E5%B8%B8%E5%B7%9E%E7%BB%88%E4%BA%8E%E6%8A%8A%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5%E5%81%9A%E6%88%90%E4%BA%86%E8%8A%B1%E5%9C%88/" target="cdt-mirror">锋评 | 常州终于把祖国的花朵做成了花圈</a>
-</h2>
-<p><p>文/郁风</p>
-<p>若不是央视4月17号的一则报道，常州外国语学校的近500名学生还将在病痛中继续挣扎，而连同他们的家长在内，还将伴随着有冤无处伸、被噤声被当做“敌人”对待的愤懑与绝望。</p>
-<p>根据报道，常州外国语学校自从去年九月搬迁到新址以来，陆续有493名学生出现皮炎、湿疹、支气管炎、血液指标异常、白细胞减少等异常症状，个别学生还被查出患有淋巴癌及白血病。而该学校新址的附近，正是三家化工厂，而该校区的空气及地下水均检出了大量剧毒污染物。其中污染最重的是氯苯，它在地下水和土壤中的浓度甚至达到了合格标准的9万4799倍和7万8899倍！</p>
-<p>央视曝光后，常州地方政府迅速作出回应，表示对环境污染“零容忍”，将本着对师生健康高度负责的态度，迅速认真调查核实并依法处置，对存在的问题绝不姑息。</p>
-<p>看着这些似曾相识的文字，你是不是又一次被感动到了？先别急着擦眼泪，我们可以看一下，常州地方官员之前是如何对“师生健康高度负责”的：</p>
-<p>随着大量学生接二连三的身体出现问题，该校自今年1月12日开始停课，后转入省常中校园上课。YouTube 上有视频显示，1月15日“逾千学生家长”在常州市政府门前集会抗议，要求学校搬迁。</p>
-<p>1月13日，澎湃新闻曾对该校学生存在多种身体不良反应，及该校附近化工污染隐患进行报导。</p>
-<p>1月20日，当地官媒常州日报回应称，“1月6日至今，与土壤修复相关的关键空气质量指标的检测结果均符合国家标准，处于正常水平”；报导还称，“绝大多数学生检查指标正常。”</p>
-<p>2月29日，《财新周刊》发表题为《名校与“毒地”为邻》的文章，揭露与常州外国语学校一路之隔的农药厂旧址“被证实为污染土地，且地下疑有危险废物。”</p>
-<p>3月21日，常州市环保局官方微博发布消息称，“3月18日夜间，市环保部门组织对常州外国语学校周边环境开展巡查巡测, 常州外国语学校周边环境无异味。”</p>
-<p>常州外国语学校网站4月15日发表声明称，“由家长和学校分别委托”的上海实朴检测公司和澳实检测公司对该校土壤、地下水和空气质量进行检测，“土壤及地下水检测结果满足学校环境质量要求”。</p>
-<p>直到4月17日央视新闻发布专题报导，此事才在网络上引起更大范围的广泛关注。当地政府急忙祭出了“高度负责”“认真调查”“绝不姑息”的公关稿。</p>
-<p>当我们知晓了之前的一系列闹剧，现在常州的回应是显的那么滑稽可笑，数百学生受到病魔的折磨，不幸罹患癌症的学生更是挣扎在生与死的边缘。在这个时候常州政府再跑出来做一副“无比关切”状，仿佛事先残忍的杀了人，之后再在那人的葬礼上痛哭流涕的送上大幅花圈，更具讽刺意味的是，这些花圈还是用那些“祖国的花朵”做的。</p>
-<p>更可怕的是，根据当地网友的爆料，在家长们团结起来提出合理诉求的时候，地方政府派出了特警弹压，在政府部门任职的家长被以开除公职相要挟，更耸人听闻的是，为了隐瞒真相，当地医院被下令拒绝接收该学校的学生检查身体。更有坊间传闻，此事之所以被央视曝光，是因为有家长凭借关系上报上层的缘故。</p>
-<p>我们很难不去做恶意的揣测：倘若此事没有被央视曝光会是怎么样？而全国又有多少类似的案例得不到曝光，而受害者只能选择默默的承受苦难呢？</p>
-<p>从这件事可以看出，常州地方官员之所以一而再再而三的隐瞒真相，封锁消息，无非是害怕此事一旦传出去，定然会遭到上级的问责，自己头上的乌纱帽将不保，为了一己私利，政府机构，地方媒体等各级部门完全沦为了替个人背书、欺上瞒下的私器。而数百名学生连同他们的家长则成了被肆意牺牲的羔羊。</p>
-<p>有人说常州政府是装睡，但从这一系列事件来看，常州政府岂止是装睡，它完全是清醒的，而且清醒的把一个地方政府所能发挥的暴戾与专制发挥到了极致。有人厉声斥责常州官员的自私自利，把民众生命安全视若无物。但是，换了新的官员，就能保证他们不自私不自利吗？又或者下一届官员是个清官，那再下届呢？下下下届呢？</p>
-<p>再来看学生家长们，常州外国语学校是当地的名牌中学，师资雄厚学费不菲，能送子女上这所学校的，不是大富人家也是中产以上的家庭。这些家长们平日里不见得在城管打人时会停下脚步，不见得在偶然翻到强拆新闻时会皱一下眉，然而，有这样经济基础的家庭，在强权面前依旧成了牺牲品。这让我想起了刚刚落马的“河北王”张越，无论是身家数亿的富商，还是位居一方的地方官员，亦或普通民警、冤案受害者，无不是张越一手掌握的河北政法系统刀俎上的鱼肉。常州家长们的遭遇也正应了一句话：你不去尝试改变不正常的环境，不正常的环境就会把你改造成不正常的人。这种不正常包括身体上的不正常和心理上的不正常。身体上的不正常在受害学生身上已经得到了验证，而心理上的不正常则表现为面对强权与不公，选择的是逆来顺受唯唯诺诺视而不见，甚至主动去为其辩护，等到自己的身体受到伤害，已经不正常的精神反而会令自己对抵抗更加无能为力。</p>
-<p>我这么说学生家长可能有失偏颇，他们也是受害者，而且他们也曾站起来维护自己的合法权益过，一次次媒体报道的背后也有他们的身影。但是，在学生家长们为自己的孩子奔走呼告的时候，又有多少人在冷眼旁观？又有多少人在事不关己高高挂起？又有多少人在嘲笑家长们是“鸡蛋碰石头”？</p>
-<p>常州外国语学校的的百科介绍上，“办学追求”一栏赫然写道：专注于有生命力的教育，让每个生命尽情绽放。在这个“梦开始的地方”，在这片毒土地上，一切显得那么滑稽，一切又显得那么可笑。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%94%8B%E8%AF%84-%E5%B8%B8%E5%B7%9E%E7%BB%88%E4%BA%8E%E6%8A%8A%E7%A5%96%E5%9B%BD%E7%9A%84%E8%8A%B1%E6%9C%B5%E5%81%9A%E6%88%90%E4%BA%86%E8%8A%B1%E5%9C%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E6%BA%90/?category=18271" rel="tag">污染源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E7%89%A9/?category=18271" rel="tag">污染物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E8%AF%84/?category=18271" rel="tag">环评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E6%80%8E%E6%A0%B7%E8%8E%B7%E5%BE%97%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9B%9E%E4%BF%A1/" target="cdt-mirror">大象公会 | 怎样获得领导人回信</a>
-</h2>
-<p><p><strong>给中南海写什么最易获得回信？普京、奥巴马、潘基文，谁更可能亲笔复信？给哪国元首写信有望获赠相机、小狗，甚至豪华双飞全家半月出国游？什么样的国家元首在其回信前就可推知内容？</strong></p>
-<p>文｜南戈 汪伟谋</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-7.jpg?resize=640%2C275" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-7.jpg?resize=300%2C129 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640-7.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"></p>
-<p>假设任意一个五角星，其五个三角形外接圆交于五点。</p>
-<p>求证：这五点共圆。</p>
-<p>这是 2000 年 12 月，江泽民视察澳门时，给当地中学生出的一道数学证明题。一周后，澳门濠江中学寄去四名老师用四种方法给出的解答，不到两天便收到江亲笔回信。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2-1.jpg?resize=600%2C303" alt="640.2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2-1.jpg?resize=300%2C151 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.2-1.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>江泽民给濠江师生的回信（左）与濠江中学纪念浮雕（右）。1949 年 10 月 1 日，濠江中学校长杜岚带领师生升起澳门第一面五星红旗。60年来，学校坚持爱国爱澳的办学宗旨，为国家培养了无数优秀人才。</p></div>
-<p>这次往来信件的邮递员是中联办和澳门特首何厚铧。普通人给总书记写信，想获得这一级别的加持几无可能。</p>
-<p>怎样获得中外首脑的回信？如果你从小热爱和平，献身环保，立志与各国领袖谈笑风扔，请认真阅读本文并参照执行。也许下一个被领袖问候的就是你。</p>
-<p>一字千金的中南海回信</p>
-<p>获得领导人回信的好处显而易见——扮演和珅的著名演员王刚上小学时因为一封中办回信，从调皮捣蛋的后进生变为全校学生偶像，甚至有老师为他专门排演话剧；湖北贫困小学生王孝利获温家宝回信后，不但全家纳入低保，连在其 3 岁时出走的母亲也突然回家。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3-1.jpg?resize=500%2C363" alt="640.3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3-1.jpg?resize=300%2C218 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.3-1.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>不过，成为这种幸运儿的概率不高于双色球中奖——据国家信访局数据，每年寄给主席、总理的信件约 40 万封，而目前公开回信最多的温家宝，担任总理十年间平均每年回信也不超过 3 封。</p>
-<p>脱颖而出虽然很难，但把握以下规律会增大中奖可能。</p>
-<p>首先要把握住时代脉搏。如果在 1950 年代初给毛泽东写信，获得亲笔回信的概率比现在高得多。社会主义国家特有的信访制度，一开始主要不是为了回应民众诉求或维护社会稳定，更倾向于发动群众作政治动员或普及宣传党的政策。</p>
-<p>因此，不但领导人回信的积极性高，上访群众的待遇也与现在有天壤之别——由于当时负责信访工作的国务院秘书厅对信访群众包吃包住，还报销往返车票，甚至出现了大量专门骗吃骗住骗车票的访民。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4-1.jpg?resize=600%2C323" alt="640.4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4-1.jpg?resize=300%2C162 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.4-1.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>左：时任燃料工业部部长陈郁转交工人给毛的信，毛亲笔回信。右：毛给湖南工人戴毓本的回信。1950 年初，主席每天都会亲自阅复群众来信，最高纪录 1 天回复 18 封</p></div>
-<p>只要吃透运动精神，善于结合实际活学活用，即便收不到领导人回信，也有可能上主旋律媒体风光一回——1949 年后的历次政治运动，如三反五反、整风、“四清”、文革中，人民日报都在头版大量刊登人民来信。据学者冯仕政统计，1980 年之前人民日报刊登的人民来信，虽篇数较少，但头版率明显高于之后。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5-1.jpg?resize=600%2C355" alt="▍《人民日报》1952-2009 年关于信访的报道（来源：冯仕政《国家政权建设与新中国信访制度的形成及演变》）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5-1.jpg?resize=300%2C178 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.5-1.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>▍《人民日报》1952-2009 年关于信访的报道（来源：冯仕政《国家政权建设与新中国信访制度的形成及演变》）</p></div>
-<p>不过，如果政治天资不够，不能领会精神实质，写信还需慎重。例如 1957 年整风运动之初鼓励人民写信，但事情变化过快，大批响应整风运动号召积极信访的群众迅速变为“反右”对象，直接被划成右派。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.6.jpg?resize=600%2C518" alt="《给敬爱的毛主席写信》，陈丹青 / 画" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.6.jpg?resize=300%2C259 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.6.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>《给敬爱的毛主席写信》，陈丹青 / 画</p></div>
-<p>1978 年之前，写信虽有政治风险，但由于毛泽东是在中共居于超然地位的领袖，其个人行为也保留了一定的随意度，给知青家长寄慰问金，和公社干部讨论哲学问题都是不少毛粉津津乐道的美谈。</p>
-<p>文革结束后，中南海出现群众来信最高峰，但在集体领导确立后，每个领导人的职责权能都有了比较清晰的边界，个人发挥的空间远不如毛，对于群众要求平反、纠错的来信也大都批转相关部门办理，以个人名义回信的概率极低，如邓小平执政后就极少回复群众来信。</p>
-<p>集体领导延续至今，申告冤屈、建言献策的信件极少得到首长回复。根据中南海处理流程，这类“上书式”信件不会送呈领导本人。平民寄给领导人的信件先经中南海邮局把关，涉法涉诉的转给相关部门。律师、学者等高级知识分子则知道，提出政策建议应致信国务院或全国人大常委会——这些才是制度框架下处理相关事务的机构，而非领袖个人。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.7.jpg?resize=600%2C256" alt="左：2000 年，湖北省监利县棋盘乡党委书记李昌平上书朱镕基，反应“三农”问题，引发中央及舆论广泛关注。右：2015 年 3 月，桔子水晶酒店集团 CEO 吴海在自己的微信公众号上发表致总理的公开信，同年五月，国务院办公厅邀其作为公民代表，参会讨论政府简政放权" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.7.jpg?resize=300%2C128 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.7.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>左：2000 年，湖北省监利县棋盘乡党委书记李昌平上书朱镕基，反应“三农”问题，引发中央及舆论广泛关注。右：2015 年 3 月，桔子水晶酒店集团 CEO 吴海在自己的微信公众号上发表致总理的公开信，同年五月，国务院办公厅邀其作为公民代表，参会讨论政府简政放权</p></div>
-<p>上书不告御状，写什么才能引起首长兴趣？</p>
-<p>答案很简单，感谢信和决心书。据公开资料统计，江泽民担任总书记后至今，历任领导人的公开回信一大半都被学生和农民获得。这两类群体被选中与时代背景密切相关。忠党爱国，感恩政府，是主要去信内容。</p>
-<p>学生首次受到中南海密集亲切的关怀是在 1989 年底。刚上任的江总书记先是回信赞扬积极要求入党的蒙古族大学生，又觉得“书不尽意，还是和大家见面谈一次为好”，邀请 13 位给自己写信的北大学生到中南海座谈；甚至伏案亲书 6 千字，给美国大学生回信，耐心普及中国国情。</p>
-<p>不同于毛时代，此时领导人回信已脱离出信访范畴，担负了更多的宣传功能，多以公开信形式在国家级媒体全文刊发，在三八、五一、五四等节日出现频率较高。被选中的信格式也渐趋一致，广大中南海爱好者有了可以效法的模板。</p>
-<p>书信开头通常从小事写起，用一只包子、一首校歌或一次视察，勾起领导人温馨回忆，中间谈论自己在党和政府的关照下如何成长进步，结尾则大多上升高度，归到牺牲奉献，党的政策亚克西或民族团结的大义上来。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.8.jpg?resize=400%2C279" alt="2013 年 5 月 31 日，给胡锦涛写信的《中华小记者》杂志的小记者在阅读回信" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.8.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.8.jpg?w=400 400w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"><p>2013 年 5 月 31 日，给胡锦涛写信的《中华小记者》杂志的小记者在阅读回信</p></div>
-<p>以下是不同人群写信的几种范本：</p>
-<p>泰国女生询问北大学长李克强——“我喜欢校内松林早餐店的生煎包子和南瓜粥，不知您喜欢吗？”</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.9.jpg?resize=600%2C341" alt="给李克强总理写信的泰国留学生李慧敏与白云莹" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.9.jpg?resize=300%2C171 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.9.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>给李克强总理写信的泰国留学生李慧敏与白云莹</p></div>
-<p>宁夏农民——“您（李克强）到上青石村视察，去过我家，还和我照了相……这几年日子有了很大变化，就想着给您写封信，汇报一下我和乡亲们这几年的新生活。”</p>
-<p>聋哑儿童——“您（胡锦涛）在中国共产党第十七次全国代表大会上，做了激动人心的报告，虽然有些地方我不是太懂，但我知道这5年是我最快乐的日子。”</p>
-<p>清华国防生——“在我们就要走出清华园，踏上从军报国之路时，特向您（江泽民）汇报 4 年来的成长历程……我们不断培养自己献身国防的坚定信念，43 名同学光荣地加入了中国共产党。”（清华大学首届国防定向班 51 名毕业生联名信）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.10.jpg?resize=417%2C439" alt="640.10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.10.jpg?resize=285%2C300 285w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640.10.jpg?w=417 417w" sizes="(max-width: 417px) 100vw, 417px" data-recalc-dims="1"><br>
-不值钱的西方首脑回信</p>
-<p>与一字千金的中南海回信相比，西方国家首脑的回信大都不太值钱——在美、英、法等国，民众来信回复率达 95%以上。收到领导人的回信稀松平常，也很少有媒体感激涕零热情传颂。</p>
-<p>官方将回应民意视作义务，对数量巨大的公民来信已发展出程式化回复规范。涉法涉诉、建言献策等在中国平民信件中占绝大部分的内容，也由于有多样、畅通的民意表达渠道，不太需要用给领导人写信的方式表达。</p>
-<p>美国总统奥巴马每天阅信 10 封，亲笔回复 3 到 4 封，其余由工作人员根据统一格式，针对来信内容相应填写，末尾署总统复印签名。负责处理总统信件的部门成立于 1897 年，时任总统威廉·麦金利平均每天收到 100 封信。今天，每周有 6 万 5 千封纸信、70 万封邮件涌向白宫，它们都会得到回复。</p>
-<p>通常，市民的涉法涉诉需求会找当地议员、行政机构或司法机构；市政建议给市民服务办公室打电话，48 小时内就会获得处理回复；还可以在白宫官网发起请愿，大到医改、选举，小到豆花应该是咸还是甜，只要签名请愿人数超过 10 万，白宫就必须予以公开回应。</p>
-<p>不伸冤、不汇报心得，美国人给总统写什么？</p>
-<p>与动辄花费数月写信的中国人不同，美国人给总统写信非常随意，诉求也五花八门。据白宫回信部门创立人 Ira R.T. Smith 先生回忆，曾有参战老兵写信请总统帮他找一只遗失在芝加哥和加利福尼亚之间某处的行李箱（工作人员帮他找到了）；一位男士25年坚持给总统写信，要求采用他为棒球比赛制定的新式计分法；还有人给总统寄小狼、老鹰、角蜥和刻有《古兰经》引文的大米。很多来信甚至没有地址，只有总统的画像。</p>
-<p>2009 年 12 月，俄亥俄州的一名女士娜托玛·康菲尔德给奥巴马写信，叙述自己失去健康保险后治疗白血病所遭遇的困难。这封信在国会通过《患者保护与平价医疗法案》时起到关键作用。法案通过后，这封信被装裱起来，挂在奥巴马办公室门口。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8211.jpg?resize=600%2C400" alt="640。11" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。11.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。11.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>康菲尔德的信被挂在奥巴马办公室门口</p></div>
-<p>英国女王伊丽莎白二世每天都会阅读平民来信，并向专人口授回信。在英国，很多孩子给女王写信。他们明显没有其中国同龄人成熟，极少在信中谈论“英国梦”之类宏大的政治主题。</p>
-<p>小男孩儿因祖父辞世非常伤心，会给女王写信；三名小学生在意大利度过愉快暑假，也会给女王寄明信片。这些信简短随意，皇室都不以为忤。甚至连美国人请求女王“收复美国”的无厘头信件，皇室亦有谦谨回复。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8212.jpg?resize=600%2C398" alt="640。12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。12.jpg?resize=300%2C199 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。12.jpg?w=610 610w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014 年，收到女王回信的三个孩子</p></div>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8213.jpg?resize=600%2C338" alt="640。13" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。13.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。13.jpg?w=624 624w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>英国政客杰里米·科尔宾甚至主动给上千名民众群发邮件，询问他们是否有想问首相的问题</p></div>
-<p>法国总统每天阅读 1 至 2 封公民来信，总统府通信局对所有来信全部用电脑登记，每两个月向总统报送一份公众来信及处理情况的书面综合报告。公民来信基本做到件件回复。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8214.jpg?resize=600%2C356" alt="法国总统奥朗德给南京大学教授刘成富主动写信，感谢刘教授翻译了自己的著作" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。14.jpg?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。14.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>法国总统奥朗德给南京大学教授刘成富主动写信，感谢刘教授翻译了自己的著作</p></div>
-<p><strong>与各国领袖谈笑风扔</strong></p>
-<p>小学课文《一个中国孩子的呼声》，是中国学生致信国外政要的最早范本。这篇写给联合国秘书长呼吁世界和平的文章，激发了一批批中国学生的灵感。经验使他们相信，唯有呼吁和平、环保，或邀请领袖前来视察，才是适宜的信件内容。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8215.jpg?resize=633%2C203" alt="640。15" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。15.jpg?resize=300%2C96 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。15.jpg?w=633 633w" sizes="(max-width: 633px) 100vw, 633px" data-recalc-dims="1"><p>左：北京高中生白雪为北京奥运会呼吁环保致信80国元首。中：湖南 9 岁学生致信安南，希望其为家乡旅游节题写“和”字。右：南京农民李龙祥坚持 13 年，给 96 国政要写信。其实早在 1978 年，旅顺下岗职工王君奇就曾给卡斯特罗写信，收到古巴驻华使馆转来的卡斯特罗近照及古巴风景图片。此后，他准时收看时事新闻，抄录笔记数本，收集了一批外国首脑的有关资料。到 1999 年，共收到 58 位领袖的 63 封来信，包括朝鲜和利比的“大礼包”</p></div>
-<p>外国人太好说话，不少成年人压抑了半辈子的议政热情也在他们身上得到发泄。湖南省华夏廉洁文化研究会会长傅学俭在 80 岁生日之际，以《我的梦·中国梦·世界和平梦》为题，给潘基文寄去 3000 字长信，对世界和平提出了 5 点建议；成都市民为墨西哥湾漏油忧虑，致信奥巴马提出堵漏方案。他们都各自收到了联合国和白宫的回信。</p>
-<p>民主制度对民众的有求必应，也为中国政府带来了尴尬——2012 年，一名在台湾交换的大陆学生给“总统府”写信，索要马英九签名玉照，不久即获回信。消息被国内媒体报道后，引发了一股大陆人士给马英九写信索照的热潮，幸好，这些回复邮件很快都被及时拦截了。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8216.jpg?resize=600%2C448" alt="640。16" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。16.jpg?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。16.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>与爱跟潘基文畅谈世界局势的中国人不同，韩国爱狗人士对标准化的官方回应非但不会奔走相告，反而继续致信潘基文，要求其为禁止韩国人吃猫肉狗肉贡献力量，联合国公共信息部回复称：秘书长无能为力，找韩国公益组织，或向韩国政府反映当更为有效。</p>
-<p>爱狗人士震怒，在网站 koreandogs.org 上呼吁各国友人继续给世界上最有权势的韩国人打电话、发邮件、写纸信，直到潘基文采取行动为止。</p>
-<p>谴责官样文章的他们或许会怀念十月革命后，人民政权刚刚成立的年代。那时，连美国记者都羡慕列宁拥有“世界上最大的接待室”。革命导师不满足于仅仅与公民书信往来，平均每天还要亲自接待 2 至 3 名群众。甚至有农民代表跑来威胁列宁“再来征粮我们会揪着衣领把你们扔出去”。</p>
-<p>列宁特别要求每个苏维埃机关都要公布接待群众来访的日期和时间，接待室必须不要任何通行证件都能自由出入。这种过分理想的去官僚化行为，会严重阻滞最高层的决策效率，列宁之后就无法再维持。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8217.jpg?resize=600%2C627" alt="640。17" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。17.jpg?resize=287%2C300 287w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。17.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>《列宁会见来访农民》，瓦伦丁·谢罗夫 / 画</p></div>
-<p>同为伟大领袖，普京借助电视机超越了列宁，把整个俄罗斯都变成了自己的接待室。自 2001 年起，普京举行一年一度、每次长达 4 小时的“直播连线”，在电视上直播总统回答人民提问。</p>
-<p>转型后的俄罗斯政府也仿照西方国家，在克里姆林宫官网上明示总统的联系方式，包括电话、电邮和寄信地址。克里姆林宫特别提醒：根据俄罗斯联邦宪法，总统无权干预涉法涉诉的上书，那是司法机构的职能范围。</p>
-<p>为帮助前苏联人民适应新制度，周二至周六中央政府仍会接待来访人士，并为其提供免费的法律咨询。</p>
-<p>韩国爱狗人士如果知道给普京写信有望获赠小狗，或许会感动不已。今年 3 月，给普京写信要吉娃娃的克里米亚女孩，如愿从当地政府官员手中接过了总统的礼物。这家人原为乌克兰籍，正在申请俄罗斯护照。贴心的普京总统还为小狗办理了“俄罗斯宠物狗俱乐部会员证”。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8218.jpg?resize=600%2C713" alt="给普京写信要狗的小女孩儿们纷纷收到了“礼物”" data-recalc-dims="1"><p>给普京写信要狗的小女孩儿们纷纷收到了“礼物”</p></div>
-<p>但在 2000 年向普京索要一台相机的女中学生就没那么幸运。虽然安娜·普罗沃若娃最终获得了总统赠予的索尼相机，但因未将信中的“您”首字母大写，她被当地教育部门取消了优秀学生的银质奖章。</p>
-<p>普京并非俄国史上最慷慨的领导人。1982 年，美国 10 岁小女孩儿萨曼莎·史密斯给时任苏联总书记安德罗波夫写信，询问“您会否发动战争？”，获得总书记长达一页半的回信。总书记还邀请萨曼莎全家到苏联玩了半个月。</p>
-<p>与西方相比，不单是俄罗斯，朝鲜和利比亚领导人也大方得多。迄今为止，所有给朝鲜领袖写信的外国人，无一例外都获得了一本记录朝鲜社会主义建设伟大成就的精美画册。而给卡扎菲上校写信，不但能获得他的大幅照片，还可收到四本理论著作，堪称超级大礼包，可惜的是，爱写信的中国小学生已经永远失去了这位慷慨的长者。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640%E3%80%8219.jpg?resize=600%2C427" alt="640。19" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。19.jpg?resize=300%2C213 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/640。19.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E6%80%8E%E6%A0%B7%E8%8E%B7%E5%BE%97%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9B%9E%E4%BF%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A/?category=18271" rel="tag">大象公会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%86%99%E4%BF%A1/?category=18271" rel="tag">领导人写信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BF%A1%E4%BB%B6/?category=18271" rel="tag">领导信件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -714,5 +678,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

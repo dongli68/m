@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%8F%96%E6%B6%88%E5%AF%B9%E6%BB%95%E5%BD%AA%E5%8D%9A%E5%A3%AB%E6%96%B0%E4%B9%A6%E7%9A%84%E5%87%BA%E7%89%88/" target="cdt-mirror">自由亚洲｜美国律师协会取消对滕彪博士新书的出版</a>
+</h2>
+<p><p>上周五，在美国纽约工作的人权律师、中国兴善研究所所长、纽约大学法学院访问学者-滕彪博士的新书被美国律师协会取消出版。</p>
+<p>4月20日滕彪介绍了事情的原委，他说“这本书是我在哈佛大学的时候，美国律师协会给我来信说希望我写这本书。关于我代理的一些案件，通过这些案件来讲述中国法律、社会和政治等各方面。然后我们就讨论了每一章写什么东西，然后他们就寄来了正式的合同。签了字之后，他们研究了之后给我回复说他们的领导不同意，害怕出版我的书会影响他们在中国的项目。他们（当时）寄来了正式的出版合同。”</p>
+<p>滕彪透露了原本计划出版的新书的大致内容，他说“（这本书）是我2003年以来，介入的一些人权案件。包括孙志刚事件等，包括工盟。所以我就讲述中国的维权律师、维权运动还有我自己的一些经历，被关押被酷刑这样一些经历。用讲故事的形式来描述中国目前的人权和其他方面。”</p>
+<p>但是滕彪还在继续寻找其他出版商。他说“因为上个星期五这个情况（指美律师协会取消对其新书的出版）出现之后就有一些出版商跟我联系。这本书还没有完成，但等到完成之后应该可以找到另外一个出版商。”</p>
+<p>当被问到是否还有其他出版计划，滕彪说“目前是只出这一本书，当然我还在计划写其他的书，但是跟这一本没有关系。”</p>
+<p>滕彪透露了该出版商给他的具体回复，他说“是因为一些具体的内容，因为书还没有正式写，他们只看到了一些提纲，大概他们了解了我的这个身份之后，害怕担心中国政府不高兴。他们给我回复的邮件也是这么说的，就说害怕让中国政府不高兴。从而影响他们在中国的一些合作，一些项目。”</p>
+<p>至于这本书具体什么时候会出版，滕彪说“可能几个月，甚至几年”</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%8F%96%E6%B6%88%E5%AF%B9%E6%BB%95%E5%BD%AA%E5%8D%9A%E5%A3%AB%E6%96%B0%E4%B9%A6%E7%9A%84%E5%87%BA%E7%89%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BB%95%E5%BD%AA/?category=18271" rel="tag">滕彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%B3%E6%B4%B2%E4%BA%BA%E9%AA%82%E5%8D%8E%E4%BA%BAchinaman-%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8B%8D%E6%89%8B%E7%A7%B0%E5%BF%AB/" target="cdt-mirror">【立此存照】澳洲人骂华人Chinaman 爱国青年拍手称快</a>
 </h2>
 <p><p>近日，疑有共青团背景的“青年力”官网账号就吴维事件发布了这样一条置顶微博：</p>
@@ -73,7 +90,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4/?category=18271" rel="tag">吴维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BE%A8%E6%8A%A5%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%85%B1%E9%9D%92%E5%9B%A2%E5%94%AF%E4%B8%80%E7%9B%B4%E5%B1%9E%E9%AB%98%E6%A0%A1%E5%B0%86%E5%81%9C%E5%8A%9E%E6%9C%AC%E7%A7%91/" target="cdt-mirror">侨报网｜中国共青团唯一直属高校将停办本科</a>
 </h2>
@@ -129,7 +146,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%91%B5/?category=18271" rel="tag">陈葵</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%8E%E5%BB%BA%E5%B5%98%EF%BC%9A%E5%AF%B9%E5%BE%85%E6%89%B9%E8%AF%84%E8%8E%AB%E5%88%86%E5%96%84%E6%84%8F%E4%B8%8E%E6%81%B6%E6%84%8F/" target="cdt-mirror">于建嵘：对待批评莫分善意与恶意</a>
 </h2>
@@ -625,38 +642,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%8F%8D%E5%BC%B9-%E5%A5%BD%E6%B6%88%E6%81%AF%E8%BF%98%E6%98%AF%E5%9D%8F%E5%85%86%E5%A4%B4%EF%BC%9F/" target="cdt-mirror">纽约时报 | 中国楼市反弹 好消息还是坏兆头？</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?resize=600%2C400" alt="上海嘉定区的住宅。中国最大的城市的新建住房房价正在急剧上涨。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19chinaproperty-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>上海嘉定区的住宅。中国最大的城市的新建住房房价正在急剧上涨。</p></div>
-<p>中国的发展放缓已给全球经济蒙上一层阴影，也引发了世界各地投资者的担忧。发展放缓的部分原因是国内重要房地产市场的深度萧条。</p>
-<p>现在，随着起重机重返某些城市的建设工地，一些最好地段的房地产销售处也再次挤满了要购房的客户，房地产的萧条看似有所缓解。</p>
-<p>据官方周一公布的数据，中国大型城市的新房价格大幅上涨，南部新兴城市深圳的涨幅最高。3月份，深圳新房价格与去年同期相比，上涨幅度达到了惊人的62％。</p>
-<p>房地产业的复苏，是伴随着整体经济中其他部分的增长放缓，因此为经济提供了一个受欢迎的重要推动。一些经济学家估计，房地产业占中国国内生产总值(GDP)的四分之一之多。</p>
-<p>但是，这些数字也提供了更多的证据，表明随着优势行业与弱势行业以及地区之间的差距越来越大，中国经济正在日益走上双轨发展的道路，李克强总理本人也承认了这点。</p>
-<p>这也提高了经济复苏的范围过于狭窄、复苏不可持续的风险。房地产业的好转主要集中在中国最大、最富裕的城市，并没有让困扰着中国中小型城市和边远城市的未售出房屋得到消减，而这些房屋面临大量过剩。</p>
-<p>房价的惊人上涨让政策制定者难以找到采取进一步经济刺激的理由。房价上涨也带来了另一种风险，那就是政府可能会面临来自支付不起高房价的城市居民的强烈不满。</p>
-<p>“在大城市生活的人发现房价越来越负担不起，”在澳新银行(Australia and New Zealand Banking Group)研究中国经济的专家杨宇霆(Raymond Yeung)说。</p>
-<p>“虽然房地产行业的好转有助于稳定经济增长，但这也将抑制央行进一步宽松货币政策的胃口，”杨宇霆补充说。</p>
-<p>分析人士指出，非法贷款在目前的价格上扬中起了作用，非法贷款指的是销售代理商或其他第三方为支付购房首付所提供的贷款。这种做法最近已引起当局的打击。</p>
-<p>据周六公布的数据，房地产业目前是中国经济增长最快的组成部分，与去年一季度相比，房地产行业的国内生产总值增长了9.1％。相比之下，金融行业环比增长8.1％，只有去年股市繁荣期高峰增长率的一半。</p>
-<p>房地产业的好转，对吴超这样的人来说，意味着生意兴隆，他是北京房产中介公司麦田房产一家分店的经理。</p>
-<p>周一，他在麦田房产双井店接受采访时，解释了房价上涨的主要原因，双井是北京市中心一个富裕地段，可以看到主要商业区的美景，不长的步行距离就有一所国际学校。</p>
-<p>吴先生列举的所有原因几乎都与政府政策的变化、以及市场对政策变化的反应有关。这些包括对非北京居民在北京购房限制的变化；上个月结束的全国人大；独生子女政策的正式终结；以及近期的央行行动。</p>
-<p>大多数有钱的中国人不喜欢借钱购房，而是喜欢现金交易。不过，吴先生说，几轮降息已让抵押贷款变得越来越有吸引力。</p>
-<p>“即使非常有钱的人有时也不会付全款，”他讲到这一趋势时说。“他们会利用贷款来购买住房。”</p>
-<p>不过，一些经济学家对房地产业的近期升温能持续更长的时间表示怀疑。</p>
-<p>野村证券（香港）的首席中国经济学家赵阳指出，仍有大量的已建成但尚未售出、或在建的房屋的库存。他的计算表明，在建的建筑面积足够供应六年以上的销售。</p>
-<p>“房地产行业仍长期面临着去库存的压力，”赵阳周一在一封电子邮件中写道。</p>
-<p>政府政策立场的改变也是一个因素，政府在寻求降低房市可能以混乱的方式崩溃的风险。</p>
-<p>“这轮涨价潮中也有泡沫因素的迹象，”赵阳写道。“政府已经开始推出政策来遏制房价的上升。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%8F%8D%E5%BC%B9-%E5%A5%BD%E6%B6%88%E6%81%AF%E8%BF%98%E6%98%AF%E5%9D%8F%E5%85%86%E5%A4%B4%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BA%A7%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">房产泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82%E5%8F%8D%E5%BC%B9/?category=18271" rel="tag">楼市反弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">经济泡沫</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -668,7 +653,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -678,5 +663,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

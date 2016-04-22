@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%AE%87%E8%88%AA%E5%91%98%E7%85%A7%E7%89%87p%E4%B8%8A/" target="cdt-mirror">共青团的“星辰大海”，就是给美国宇航员照片P上中国国旗</a>
+</h2>
+<p><p>@共青团中央 为庆祝中国航天日所自制的海报中，使用的宇航员形象被网民指出是以美国宇航员照片为原型，稍作调整后再P上中国国旗完成的：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E8%88%AA%E5%A4%A9%E6%97%A5.jpg" rel="attachment wp-att-435701"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E8%88%AA%E5%A4%A9%E6%97%A5.jpg?resize=500%2C396" alt="星辰大海航天日" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?resize=300%2C238 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?resize=768%2C608 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?resize=1024%2C811 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?w=1576 1576w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>共青团中央微博截图</span></p>
+<blockquote><p><a href="http://weibo.com/u/5866741269" target="_blank">@囧纳森IV</a>：NASA宇航员、生物工程师迈克·格恩哈特在1995年9月7-18日间搭乘奋进号航天飞机参与STS-69任务期间首次对NASA为国际空间站装配计划研发的臂上型任务清单显示器进行测试。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbgw1f34bwwc898j309m0hj41p.jpg" rel="attachment wp-att-435699"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbgw1f34bwwc898j309m0hj41p.jpg?resize=346%2C631" alt="006p2fpbgw1f34bwwc898j309m0hj41p" data-recalc-dims="1"></a></p></blockquote>
+<p><strong>必须说明的是，共青团使用的宇航员<a href="https://commons.wikimedia.org/wiki/File:Michael_Gernhardt_in_space_during_STS-69_in_1995.jpg" target="_blank"> Michael Gernhardt</a> 和<a href="https://en.m.wikipedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg" target="_blank">地球图片</a>都来自于 NASA，属于公有领域，无版权保护。这里仅仅是在陈述一个事实：共青团的“星辰大海”，就是给美国宇航员照片P上中国国旗。</strong></p>
+<p>以下对比图由数字时代编辑制作：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%AF%B9%E6%AF%941.jpg" rel="attachment wp-att-435696"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%AF%B9%E6%AF%941.jpg?resize=475%2C1626" alt="对比1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/对比1.jpg?resize=299%2C1024 299w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/对比1.jpg?w=734 734w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E7%A7%8D%E8%8A%B1%E5%AE%B6%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%8C%E8%83%BD%E5%8F%AB%E6%8A%84%E4%B9%88/" target="_blank">【立此存照】种花家的正能量，能叫抄么？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A2%8D%E5%9B%BD%E7%9A%84%E4%BA%8B%EF%BC%8C%E8%83%BD%E7%AE%97%E6%8A%84%E8%A2%AD%E4%B9%88%EF%BC%9F%E5%AE%A3%E4%BC%A0%EF%BC%81/" target="_blank">【网络民议】碍国的事，能算抄袭么？宣传！</a></li>
+</ul></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%AE%87%E8%88%AA%E5%91%98%E7%85%A7%E7%89%87p%E4%B8%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%BB%99%E4%BA%88%E6%85%95%E6%AF%85%E9%A3%9E%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86%E7%9A%84%E5%86%B3%E5%AE%9A/" target="cdt-mirror">【立存此照】给予慕毅飞党内严重警告处分的决定</a>
+</h2>
+<p><p>中共温岭市纪委</p>
+<p>关于给予慕毅飞同志党内严重警告处分的决定</p>
+<p>慕毅飞，男，汉族，1957年2月出生，安徽省涡阳县人，本科文化，1975年6月参加工作，1987年1月加入中国共产党，2000年10月至2008年1月任温岭市委宣传部副部长（正局级），2008年1月至2016年2月任市委党校主任科员，2016年2月退休。2000年10月23日，慕毅飞因违反规定推销《诗文朗诵》，增加学生负担，被温岭市监察局行政警告处分。</p>
+<p>2011年至2014年期间，慕毅飞在新浪网自己开设的“慕毅飞”微博（粉丝23280人）上多次公开发布、转载与党的路线方针政策不一致的错误言论，严重损害党的形象，引发了<strong>“<a href="http://weibo.com/u/2420177563?refer_flag=1001030101_&is_hot=1" target="_blank">华夏军团作战部</a>”</strong>等网民的强烈谴责，后经组织谈话要求后，删除了该微博内容并关闭了该微博账号。2016年4月6日，慕毅飞在《信息时报》上发表题为《一个“休而不退”者内心深处的愧疚》的部分内容失实文章，并被多家网站转载，引发了舆论浪潮，造成了严重的不良影响。</p>
+<p>鉴于上述事实，慕毅飞身为中共党员，违反政治纪律，多次公开发布、转载与党的路线方针政策不一致的错误言论，严重损害党的形象，依据2016年《中国共产党纪律处分条例》第一百三十三条第二款和2003年《中国共产党纪律处分条例》第四十六条之规定，经市纪委常委会2016年4月15日研究，决定给予慕毅飞同志党内严重警告处分。</p>
+<p>本决定自2016年4月15日起生效。如对本决定不服，可以向本纪律检查机关或上级党组织提出申诉。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUoAMRjN8.jpg?resize=500%2C730" alt="Cgn4feZUoAMRjN8" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?resize=500%2C781" alt="Cgn4feZUkAAfLzZ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?resize=192%2C300 192w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?w=512 512w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>另附：</p>
+<p>华夏军团作战部微博和《一个“休而不退”者内心深处的愧疚》报道</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4felU4AAuukm.jpg?resize=577%2C1024" alt="Cgn4felU4AAuukm" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4felU4AAuukm.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4felU4AAuukm.jpg?w=577 577w" sizes="(max-width: 577px) 100vw, 577px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4fjmUYAAiBSc.jpg?resize=600%2C461" alt="Cgn4fjmUYAAiBSc" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4fjmUYAAiBSc.jpg?resize=300%2C231 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4fjmUYAAiBSc.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>一个“休而不退”者内心深处的愧疚</p>
+<p>慕毅飞/文</p>
+<p>早就想写这篇文章了。今天看到一则来自湖南的新闻，让我有了动笔的冲动。据《瞭望》周刊报道，在湖南一些地方，近期有些年龄并不算大的“局办委”或乡镇“一把手”、重要班子成员向上级打报告，要求按照地方“公务员50岁以上退居二线，可享受比在职时更高待遇”的政策，自请“早退”，成为“休而不退”的“散吏”。</p>
+<p>我就是这样的一个“散吏”。我来自浙江，从2008年开始“散吏”生涯，现在已经正式退休。我即使想纠错，现在也没机会了，因而只能写写愧疚文章。</p>
+<p>一是，愧对分文不少的薪资。八九年的时间里，什么都不干，照样拿工资，照样享受一点不少的福利待遇；而且工资不算低，属于年薪超过12万元的自行申报个税者。虽然并不是我自己不想干，而是政策不让干，但我吃的毕竟是白食，工资拿得实在有点不踏实。</p>
+<p>二是，愧对含辛茹苦的劳动者。他们起早贪黑，辛苦劳作，他们辛苦挣来的钱，凭什么要养活我们这样的尸位素餐者？用这样的方式养我们，他们心甘情愿吗？有什么人征求过他们意见吗？如果对他们没有愧疚感，我觉得正是极需愧疚的地方。</p>
+<p>三是，愧对朝九晚五的下属们。有资格“早退”的，必然是当过一官半职的人。换句话说，你退了以后，可以空出一个官位，你才有资格“早退”。那些跟我年龄相仿的没资格“早退”的下属们，则只能照常按时签到，一旦紧张起来，还得照样“白加黑”、“五加二”。悠闲地看着他们忙碌的身影，我难免会有些愧意。</p>
+<p>谁都知道，在工作岗位上，50岁是最佳年龄，经验最足，精力最强，牵挂最少；而且，能在基层混个一官半职的人，通常会有一定的能耐。让这样的人，拿着不低的薪资，赋闲在家，无疑是极大的浪费。看看我的同僚们，有四处架鸟遛狗的，有每天看电视剧的，有热衷玩网络游戏的……他们不给组织添麻烦，不利用余热牟私利，已经很优秀了，谁在乎他们像蜡烛烧了一半被硬生生掐灭的感觉呢？</p>
+<p>全国各地有多少这样赋闲的人？需要用多少财政收入来养活他们？这个账应该算。如果说是为了培养新干部，需要腾出位子给他们，那么试问，培养好了的干部都不用，干嘛又培养那么多新干部？有那么多经验丰富、年富力强的公务员闲置不用，何须每年再进那么多新的公务员？如果仅仅为了解决就业，这样的解决办法，性价比是不是太低？有关法规限定工作期满30年才能提前退休，有些地方擅自将30年改作20年，是否涉嫌违法？</p>
+<p>以前迟迟没写这篇文章，主要还是怕人说我恋栈，舍不得那一官半职，现在已经彻底退休了，也就不怕别人背后议论了。我有愧埋藏在内心深处多年，不吐不快，万一得罪了谁，也顾不得了。</p>
+<p>慕毅飞部分微博内容<a href="https://freeweibo.com/weibo/%40%E6%85%95%E6%AF%85%E9%A3%9E" target="_blank">存档</a></p>
+<p>消息<a href="https://twitter.com/wentommy/status/723382496763637762" target="_blank">来源</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%BB%99%E4%BA%88%E6%85%95%E6%AF%85%E9%A3%9E%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86%E7%9A%84%E5%86%B3%E5%AE%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内严重警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%95%E6%AF%85%E9%A3%9E/?category=18271" rel="tag">慕毅飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">言论审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B7%9D%E5%B8%88%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88%EF%BC%9A%E5%A3%B0%E8%AA%89%E5%B8%B8%E5%B8%B8%E6%98%AF%E8%A2%AB%E6%84%9A%E8%A0%A2%E8%B4%A5%E5%9D%8F%E6%8E%89/" target="cdt-mirror">唐映红 | 川师断头命案：声誉常常是被愚蠢败坏掉的</a>
 </h2>
 <p><p>4月15日曝出的川师大断头命案，本来不打算置评。这件令人感到不寒而栗的恐怖残杀案件，虽然案情细节超出人们的经验和想象，但人群中这种特异性的小概率事件总是难免会发生。将它过度诠释，或者试图从中提取出普遍的“问题”可能都是不恰当的。仅仅从案件本身而言，并不必然与学校或教育有关；以案发时保安距离现场只有10几米为由质疑管理，从某种意义上说也可能是不妥当的。</p>
@@ -571,61 +625,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E8%A6%81%E8%AE%A4%E6%B8%85%E6%88%91%E5%9B%BD%E7%9A%84%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%90%8C%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6/" target="cdt-mirror">人民日报 | 要认清我国的产能过剩同资本主义国家的区别</a>
-</h2>
-<p><p>澄清供给侧结构性改革的几个认识误区（人民要论）</p>
-<p>《 人民日报 》（ 2016年04月20日 07 版）</p>
-<p>习近平同志去年11月份主持召开中央财经领导小组第十一次会议时强调，在适度扩大总需求的同时，着力加强供给侧结构性改革，着力提高供给体系质量和效率。去年底召开的中央经济工作会议对于加强供给侧结构性改革作出了具体部署。几个月来，社会上出现了对供给侧结构性改革的种种解读，但有些解读并不准确，甚至存在较大偏差。只有澄清认识误区，从理论和实践的结合上完整准确地把握中央精神，供给侧结构性改革才能取得预期效果。</p>
-<p>供给侧结构性改革与发挥“三驾马车”对经济的拉动作用不是对立的</p>
-<p>“供给侧结构性改革”是一个新的经济术语，是党中央的重大创新。因此，不能简单地从西方经济学比如从萨伊的“供给自动创造自身的需求”的观点中寻找我国推进供给侧结构性改革的理论源泉，因为两者根本不搭界。萨伊是用供给创造需求、总供给会与总需求相一致这一观点来否认资本主义会出现生产过剩的经济危机，进而为资本主义制度辩护。而我国的供给侧结构性改革是在供给侧结构与需求侧结构失衡的现实形势下采取的新的有效举措。也不能用某些西方国家供给侧改革失败来说事。我国的供给侧结构性改革是从我国经济运行中的实际问题出发采取的看得见摸得着的改革措施，有利于经济更好发展，与其他国家不能简单类比。</p>
-<p>为了正确认识和理解供给侧结构性改革，需要到中央的有关论述中寻找答案。去年底召开的中央经济工作会议指出，“推进供给侧结构性改革，是适应和引领经济发展新常态的重大创新”，应当“在理论上作出创新性概括，在政策上作出前瞻性安排”，“加大结构性改革力度，矫正要素配置扭曲，扩大有效供给，提高供给结构适应性和灵活性，提高全要素生产率”。由此可见，我国的经济政策重点转向供给侧结构性改革，是要“矫正要素配置扭曲，扩大有效供给”。这里强调“提高供给结构适应性和灵活性”，是指提高供给结构对需求变化的适应性和灵活性。因此，决不能将供给侧结构性改革与扩大需求分离开来甚至对立起来，决不能割裂供给与需求的内在联系。推进供给侧结构性改革，是为了通过调整供给结构更好地发展经济以适应和满足国内外市场需求，是适应和引领我国经济发展新常态的重大举措。</p>
-<p>有的观点认为，过去一直强调的发挥“三驾马车”（消费、投资和出口）对经济增长的拉动作用属于需求侧管理，需求侧管理与供给侧结构性改革是对立的、矛盾的，因而推进供给侧结构性改革就要抛弃“三驾马车”。其实，供给侧结构性改革与需求侧管理并不矛盾。消费、投资和出口的“需求”是从发展经济要满足这三方面的需要来讲的，其中只有消费需求是相对于供给侧的需求，出口和投资则不能简单地看作是相对于供给侧的需求。</p>
-<p>“三驾马车”中的消费，主要是指国内消费需求，国内消费需求旺盛会有力地带动经济发展。2015年，我国国内消费对经济增长的贡献率达到66.4%。现在和将来依然要重视扩大国内消费需求，它与供给侧结构性改革不是分离的，而是统一的。关于投资，固然存在对投资品的需求，但投资作为生产行为，是为需求提供产品，属于供给侧范畴。至于出口，是用以满足国外的消费需求，对我国来讲，是向国外供给产品，也属于供给侧范畴。因此，不能将促进“三驾马车”拉动经济增长的政策简单地理解成需求政策，也不能误以为中央提出供给侧结构性改革是为了取代对于“三驾马车”的需求侧管理。当前，我国仍然需要发挥消费、投资和出口对经济增长的拉动作用。</p>
-<p>从消费方面说，随着精准扶贫、精准脱贫的推进，我国几千万贫困人口脱贫后对日用消费品的需求将不断扩大。应注重满足这些需求，同时在供给结构方面适应国内消费需求结构发生变化的新形势，生产适销对路、质优价廉、安全方便的产品。特别是随着居民收入和生活水平的提高，社会对中高端消费品的需求增加，要求增加中高端商品的多样性供给。</p>
-<p>从投资方面说，经济发展离不开投资，我国每年仍然需要新增投资以满足经济发展需要。但应更加注重投资效率的提升和投资结构的优化，做到有压有增，按照“矫正要素配置扭曲，扩大有效供给”的方针进行投资。</p>
-<p>从出口方面说，由于受国际需求疲软的影响，我国近年来出口增速下降。应积极探索扩大出口贸易的新途径，包括优化出口结构，提供更加适应国际市场需要的优质中高端产品；提高出口产品附加值，推动我国产业向价值链中高端攀升；等等。</p>
-<p>可见，供给侧结构性改革不是针对促进“三驾马车”发挥作用的需求侧管理，反而恰恰是要求投资和出口作为提供产品的供给方进行适应需求变化的结构性改革，实现需求侧与供给侧更好契合、有机统一。因此，在实践中，供给侧结构性改革要包括投资结构性改革和出口结构性改革。</p>
-<p>产能过剩、供给结构与需求结构失衡的表现和原因错综复杂，不能简单化理解</p>
-<p>随着经济不断发展，我国需求结构发生变化，新的更高层次的需求不断涌现，而供给并未有效适应发展变化了的需求，导致供给与需求不匹配，这是发展中的结构性供求失衡。在实际工作中，应区分并重点关注供给与需求失衡的两种情况。</p>
-<p>情况一：供给大于需求导致产能过剩。当某产品在一定时期内的供给严重超过需求时，就会出现产能过剩的情况。产能过剩可以分为生产资料产能过剩和消费资料产能过剩。我国目前存在的突出问题是由钢铁、煤炭等过剩形成的生产资料产能过剩，产品积压、价格下跌，导致一些企业经营困难。</p>
-<p>产能过剩的原因是什么？对此存在不同看法。有观点认为，产能过剩是市场决定资源配置的作用发挥不够、国家干预过多的结果。另有观点认为，造成这个问题的根源在于市场秩序混乱，既没有形成有效的行业自律，又存在明显的地方保护和政府监管失效。后一种观点更符合理论与实际。西方发达国家是成熟的市场经济国家，但会周期性地出现生产过剩即产品与产能过剩。这正是市场经济规律发挥作用的表现，是市场自发性调整的表现。市场经济运行的客观规律是通过供求规律、竞争规律、价值规律调节市场供求。在经济趋热时，生产要素供给紧张，价格不断提高，促使钢铁、煤炭等企业增加产能以扩大供给；但在经济紧缩、需求减少时，则会转为供大于求的情况，形成产能过剩。因此，我国实行社会主义市场经济，既要认识市场决定资源配置的灵活性、效率性、有效性，这是主要方面；又要看到其调节功能的滞后性、自发性所带来的短缺与过剩交替出现的现象，这是由市场本身固有的性质决定的，不能简单归因于政府干预过多。应认识到，由于我国存在行业自律机制不健全、地方保护和监管失效等问题，产能过剩的成因更为复杂。因此，解决产能过剩问题，既不能回归计划经济老路，也不能完全放给市场，而应在充分发挥市场配置资源决定性作用的同时更好发挥政府的作用，把握市场运行规律，加强和改善宏观调控，作出战略性、前瞻性安排；同时，要打破地方保护，构建全国统一大市场。</p>
-<p>至于某些一般消费资料产品过剩，其主要原因之一是低收入群体和贫困人口虽有实际需求，但缺少支付能力。这一问题并不是供给侧的问题，而是有效需求不足的问题。目前，我国还有5500多万贫困人口。随着这些人口逐步脱贫进入全面小康，随着居民收入不断提高，对一般消费品的需求量会显著扩大。因此，通过提高低收入群体收入水平扩大其消费需求，是解决一般消费品供给过剩的关键。当然，一般消费品也需要不断提高质量、升级换代，以更好适应市场需求。</p>
-<p>要认清我国的产能过剩同资本主义国家产能过剩的区别。资本主义生产和产能过剩会造成经济危机，大量工厂倒闭，大批工人失业，购买力萎缩，商品价格大幅下跌……我国产能过剩则是局部性或结构性的。我国的社会就业总量仍在增加，2015年我国城镇新增就业人数为1312万人；居民购买力和消费量在增加，2015年我国社会消费品零售额达到30.1万亿元，比上年增长10.7%。因此，我国并不存在西方国家那种经济危机。我国解决产能过剩问题，既要发挥市场调节作用，更要发挥政府解困作用，包括多兼并、少破产并对关停企业的工人作出统筹安排等。</p>
-<p>情况二：有效供给不足，不能适应和满足需求结构变化后的市场需求。当前我国存在的供给侧结构性问题，一方面是某些产品供给侧过剩、产能过剩；另一方面是某些产品缺乏有效供给，难以满足生产和生活消费的需要。比如，我国的钢铁产能总量过剩，但一些特殊的高级钢材仍需要进口。前一阵子媒体热议的圆珠笔芯的圆珠，就是国内无法生产而需要进口的。虽然通过进口也能满足国内生产和消费需求，但这表明我国在很多领域还有巨大的市场需求难以通过自主生产来满足，这些领域不是产能过剩，而是有效供给不足。出现这一情况的主要原因是技术水平落后，需要通过技术创新来解决。</p>
-<p>又比如，随着我国居民生活水平的提高，高收入阶层对高档消费品的需求增加，在海外购买奢侈品成为高端消费者的消费常态。有研究报告表明，2015年全球奢侈品营业额中的一半来自中国消费者，中国消费者的花费达1168亿美元。其中，910亿美元以上的奢侈品消费发生在海外，也就是78%的奢侈品是在国外购买的。不仅如此，由于一些居民对假冒伪劣商品和食品安全问题心存顾忌，连许多一般消费品也在国外购买。还有一些日用消费品中国并不缺，可是国外产品加了点小技巧，使用更方便或是质量更高，国人也会大量购买。诸如此类原因，导致我国相当大一部分购买力流向国外，不利于我国经济发展。解决这一问题，必须依靠增加能满足消费者需求的有效供给。</p>
-<p>所以，推进供给侧结构性改革，需要对生产结构和消费结构进行具体分析，根据具体问题提出解决办法，既强调供给又关注需求，目标是提高供给体系的质量和效率，使供给结构与需求结构变化相一致。</p>
-<p>供给侧结构性改革不可能一蹴而就，需要统筹抓好近期任务和长期任务</p>
-<p>推进供给侧结构性改革，中央提出要抓好去产能、去库存、去杠杆、降成本、补短板五大任务。有人认为，这五大任务是近期任务。不言而喻，这五大任务提出后就要抓紧实施，力求尽快见到成效，但并非都是近期任务，有些需要付出长期努力。其中，去产能、去库存、去杠杆是近期需要完成的任务，以帮助一些行业和企业尽快脱困，尽快改善经济运行质量、提高资源配置效率。而降成本、补短板则不是短期能完成的，需要远近结合、统筹谋划。降成本，固然在短期内可通过减税、企业挖潜、节约成本等见效。但从根本上看，我国一些产品的成本和价格远高于发达国家，是由于我国生产技术水平和劳动生产率比人家低很多。生产技术水平低，产品的质量和档次就低；生产技术水平高，产品的质量和档次就高。劳动生产率低，产品的成本和价格就高；劳动生产率高，产品的成本和价格就低。我国产品要提高质量和档次，需要科技创新、管理创新、制度创新，还需要不断提高职工的能力素质和操作水平。这样才能既提高产品的科技含量和质量，又降低成本和价格，提高产品的国际竞争力。补短板，在产品供给方面至少包括两个方面：一是增加产品的品种数量。有资料表明，我国的产品种类至多有30多万种，而发达国家有60万至70万种。二是开发高端新产品。由于技术水平的问题，我国所需要的某些高端产品不能自产，需要通过进口满足需要。开发高端产品，扩大高端产品生产能力，是补短板的主要任务之一。这同样需要抓科技创新，需要政府、企业、科研机构相互配合、协同发力，是一个需要持续推进、久久为功的过程。</p>
-<p>推进供给侧结构性改革需要市场和政府的有效配合</p>
-<p>供给侧结构性改革的去产能、去库存、去杠杆、降成本、补短板五大任务，仅从字面上看，容易认为这是一种政府行为，是政府要加大对市场的干预。这种理解和认识并不科学。不错，完成这五项任务，特别是去产能、去库存，离不开政府的作为。但政府的这种作为，是在市场决定资源配置的基础上进行的，是与市场配置资源的方向一致的。试想，如果政府不出手，完全由市场自发调节供求关系，会有许多产能严重过剩的企业破产倒闭，大量工人失业，产生严重社会问题。如果政府不作为，任由假冒伪劣商品泛滥，不仅人民生活质量受到影响，国人也将会更大规模地涌向国外市场，这也会导致国内市场萎缩、大量企业破产倒闭、更多职工失业。现在，在供求结构性失衡的情况下，需要发挥政府弥补市场不足和支持市场功能的作用。政府的作用是正面的，又是与市场调节作用相结合的。</p>
-<p>从实际情况看，作为供给侧结构性改革的重要一环，投资结构性改革需要有关企业按照市场需求变化组织有效投资，从而提供有效供给。同样，出口结构性改革也需要外贸企业根据国外市场需求变化组织货源，依然是市场决定资源配置。政府的作用是弥补市场功能的不足，稳定市场和社会秩序，促进企业和社会持续健康发展。钢铁和煤炭等困难行业去过剩产能，会有大量职工下岗。如果完全靠市场调节，这些职工必然面临完全失业的境地。我国政府并没有坐视不管，中央财政要安排1000亿元专项奖补资金，重点用于职工分流安置。这种政府作为显然是为了弥补市场功能的不足。如果把这视作政府干预，那显然是有利于减少市场混乱、有利于企业发展、有利于减少失业的正当干预，是为了保障和改善民生的必要干预。社会主义市场经济的优势正在于既能使市场在资源配置中起决定性作用，又能更好发挥政府作用。</p>
-<p>（作者为北京市中国特色社会主义理论体系研究中心学术顾问）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E8%A6%81%E8%AE%A4%E6%B8%85%E6%88%91%E5%9B%BD%E7%9A%84%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%90%8C%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9/?category=18271" rel="tag">产能过剩</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9B%E7%BB%99%E7%BB%93%E6%9E%84/?category=18271" rel="tag">供给结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E5%9C%B0/?category=18271" rel="tag">洗地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E9%9C%80%E6%B1%82/?category=18271" rel="tag">消费需求</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95/?category=18271" rel="tag">经济发展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">资本主义国家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E5%B8%B8%E5%B7%9E%E5%B8%82%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1%E9%80%BE%E5%8D%83%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BC%9A/" target="cdt-mirror">【CDTV】常州市外国语学校逾千学生家长集会</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/24100771920_7d59492c6c_o.jpg?resize=550%2C733" alt="24100771920_7d59492c6c_o" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/24100771920_7d59492c6c_o.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/24100771920_7d59492c6c_o.jpg?w=720 720w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>图片来源：微博用户@随心所欲1102948351</span></p>
-<p>视频来源：Youtube用户wickedonnaa，上传于2016年1月15日。</p>
-<p>“救救孩子！”“决不妥协！”</p>
-<p>央视曝光常外毒校园之前三个月，有众多家长在学校示威，有特警入校。网传公务员家长遭警告不许参与。</p>
-<p><a href="https://www.youtube.com/v/3gbsyIzpiXE?version=3">https://www.youtube.com/v/3gbsyIzpiXE?version=3</a></p>
-<p></p>
-<p></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-news&sz=99E7&t=2&s=MOLBBGCJYDC2NJFWJ7XRZTLBAEQJGOAMGKKWZWEATSQBNKCKDIOQ&i=CU5GQRLGHV22I6XJ2PCEDR2HDUH5ZWEUC&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E5%B8%B8%E5%B7%9E%E5%B8%82%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1%E9%80%BE%E5%8D%83%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">化工污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%A4%96%E5%AD%A6%E7%94%9F%E6%82%A3%E7%97%85/?category=18271" rel="tag">常外学生患病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E/?category=18271" rel="tag">常州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E5%A4%96%E5%9B%BD%E8%AF%AD%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州外国语校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E9%9A%86%E5%8C%96%E5%B7%A5%E5%8E%82/?category=18271" rel="tag">常隆化工厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F/?category=18271" rel="tag">江苏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -637,7 +636,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -647,5 +646,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%96%E5%B7%A5
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,106 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B2%A1%E6%9C%89%E7%9C%9F%E4%BA%BA%EF%BC%8C%E5%83%B5%E5%B0%B8%E8%B4%A6%E5%8F%B7%E4%B9%9F%E8%83%BD%E7%82%B9%E8%B5%9E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%AE%B2/" target="cdt-mirror">【立此存照】僵尸账号也能“点赞”习近平座谈会讲话</a>
+</h2>
+<p><p>中国日报网近日发表了一则题为《<a href="http://china.chinadaily.com.cn/2016-04/20/content_24695149.htm" target="_blank">网民点赞习近平在网络安全和信息化工作座谈会上的讲话</a>》的文章，其中引用了一些赞美习近平的网民评论：</p>
+<blockquote><p>[…]这段话体现了党和政府对我国青少年成长的关心，也对网络传播提出了要求。对此，网友<strong>“宝路头jh”</strong>说：“运用网络传播规律，弘扬主旋律，激发正能量，大力培育和践行社会主义核心价值观，把握好网上舆论引导，使网络空间清朗起来。”<br>
+[…]<br>
+新浪网友<strong>“盒饭904”</strong>说，“互联网是发扬人民民主、接受人民监督的新渠道，这是共产党对民主概念的新拓展，是中国式民主的最新体现。为这一精彩言论鼓掌，为总书记点赞。”</p>
+<p>网友<strong>“香烟7407”</strong>说，“古云有云，忠言逆耳利于行。在这方面，历代共产党人都为我们树立了榜样。网上出现的真知灼见是受到欢迎的。总书记为网民们撑了腰、打了气，接受网民的监督才是共产党的真正本色。”</p>
+<p>网友<strong>“中秋中秋回家种地”</strong>说，“网络是人民群众发声的重要通道。听民声，知民意，我们的工作才能做的更好，我们的国家才能更加强大！希望党员干部们真的能通过网络了解民生，让目前的社会更加的美满，和谐！”</p></blockquote>
+<p><strong>然而自从会议开始以来，新浪微博上所有涉及“网络安全和信息化工作座谈会”的新闻内容基本都被限制了评论，其中甚至<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/" target="_blank">包括习近平声称欢迎“善意”的批评的微博</a>。这不禁让人好奇，中国日报是在哪儿搜集来的网民评论呢？</strong>为此，数字时代编辑分别对上文提到的4名用户名进行了检索：“宝路头jh”、“盒饭904”、“香烟7407”和“中秋中秋回家种地”。</p>
+<p><strong>通过微博找人发现，</strong>除了无头像图片的“中秋中秋回家种地”，<strong>其余3位都是“微博0”“粉丝1”的僵尸号：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%AE%9D%E8%B7%AF%E5%A4%B4jh.png" rel="attachment wp-att-435751"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%AE%9D%E8%B7%AF%E5%A4%B4jh.png?resize=550%2C95" alt="宝路头jh" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/宝路头jh.png?resize=300%2C52 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/宝路头jh.png?resize=768%2C133 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/宝路头jh.png?resize=1024%2C178 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/宝路头jh.png?w=2086 2086w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9B%92%E9%A5%AD904.png" rel="attachment wp-att-435750"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9B%92%E9%A5%AD904.png?resize=550%2C94" alt="盒饭904" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/盒饭904.png?resize=300%2C51 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/盒饭904.png?resize=768%2C131 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/盒饭904.png?resize=1024%2C175 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/盒饭904.png?w=2086 2086w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br></a><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E7%83%9F7407.png" rel="attachment wp-att-435752"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%A6%99%E7%83%9F7407.png?resize=550%2C92" alt="香烟7407" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香烟7407.png?resize=300%2C50 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香烟7407.png?resize=768%2C129 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香烟7407.png?resize=1024%2C171 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/香烟7407.png?w=2102 2102w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%B8%AD%E7%A7%8B%E4%B8%AD%E7%A7%8B%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0.png" rel="attachment wp-att-435749"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%B8%AD%E7%A7%8B%E4%B8%AD%E7%A7%8B%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0.png?resize=550%2C133" alt="中秋中秋回家种地" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/中秋中秋回家种地.png?resize=300%2C72 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/中秋中秋回家种地.png?resize=768%2C185 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/中秋中秋回家种地.png?resize=1024%2C247 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/中秋中秋回家种地.png?w=2088 2088w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br>
+（数字时代截图）</p>
+<p><strong>至于这位<a href="http://weibo.com/u/2975038457" target="_blank">@中秋中秋回家种地</a>， </strong>从其微博账号截图中可以看出，<strong>该用户基本都在通过“畅言评论”客户端发表赞美习近平的内容，疑似机器五毛账号</strong>：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%B8%AD%E7%A7%8B%E4%B8%AD%E7%A7%8B%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0%E7%9A%84%E5%BE%AE%E5%8D%9A.png" rel="attachment wp-att-435755"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%B8%AD%E7%A7%8B%E4%B8%AD%E7%A7%8B%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0%E7%9A%84%E5%BE%AE%E5%8D%9A.png?resize=400%2C2999" alt="中秋中秋回家种地的微博" data-recalc-dims="1"></a><br>
+（数字时代截图）</p>
+<p><strong>无人实名“颂圣”不要紧，僵尸号也能为习近平唱赞歌。</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B2%A1%E6%9C%89%E7%9C%9F%E4%BA%BA%EF%BC%8C%E5%83%B5%E5%B0%B8%E8%B4%A6%E5%8F%B7%E4%B9%9F%E8%83%BD%E7%82%B9%E8%B5%9E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%AE%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9A%87%E5%B8%9D%E7%9A%84%E6%96%B0%E8%A3%85/?category=18271" rel="tag">皇帝的新装</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%A4%B1%E5%88%B0%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E6%83%B3%E8%B1%A1/" target="cdt-mirror">美国之音｜美国流失到中国的工作为什么没有想象的多？</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3A71DDB2-4724-4931-89F8-3A169A8C5B88_w640_r1_s.jpg" rel="attachment wp-att-435741"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3A71DDB2-4724-4931-89F8-3A169A8C5B88_w640_r1_s.jpg?resize=575%2C323" alt="2015年10月22日， 一名工人在阿拉巴马州佩恩堡的 Shankel’s 袜子工厂检查机器（路透社）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3A71DDB2-4724-4931-89F8-3A169A8C5B88_w640_r1_s.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3A71DDB2-4724-4931-89F8-3A169A8C5B88_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>2015年10月22日， 一名工人在阿拉巴马州佩恩堡的 Shankel’s 袜子工厂检查机器（路透社）</p></div>
+<p>在这次总统竞选中，一个热门话题就是有关美国就业流失到海外的问题。民主党的总统竞选领跑者希拉里·克林顿承诺说，会严厉对待那些把就业转移到海外的公司。共和党总统领跑者唐纳德·川普也誓言要抵制奥利奥，理由是这家饼干生产商把一部分生产转移到了墨西哥。</p>
+<p>然而事实是，连续第二年，就业岗位回归到美国的数量与离开美国的数量基本持平，甚至还要高一点。</p>
+<p>2015年，美国新增6.7万个制造业岗位——包括那些原先转移到海外工厂、后回归美国工厂的岗位，以及那些外国企业和投资创造的岗位。自从2010年以来，已有24.9万个就业岗位回归。</p>
+<p>但是，美国的贸易逆差仍然在5000亿美元左右。例如，美国工人生产的服装量只占美国境内服装销售总量大约3%。</p>
+<p>劳动密集程度最高的工作都是那些传统上由海外工人完成的工作，比如服装、家具和玩具的生产。这些产品的生产需要一定的工作量，但产品价格不高。</p>
+<p>减少贸易逆差会对美国的中产阶级产生显著影响。</p>
+<p>回归倡议组织（Reshoring Initiative）成立于2010年，旨在鼓励制造企业把就业带回美国。这个组织的主席哈利·莫瑟尔说：“如果我们的进口只是和出口一样多的话，大概可以增加400万个制造业岗位，基本上是给中产和中产富裕阶层增加的岗位。这对我们国家的收入不平等就会有很大影响，因为中产空心化是导致收入不平等的主要原因。”</p>
+<p>根据经济政策协会（<a href="http://www.epi.org/publication/china-trade-outsourcing-and-jobs/" target="_blank">Economic Policy Institute</a><u>）</u>的数据，在2001到2013年间，美国有320万个工作岗位流失到了中国。这些工作中的四分之三涉及制造业。另一方面，2000年到2015年间回归的就业岗位中有大约60%来自中国。</p>
+<p>劳动成本低廉和监管较少通常是美国企业把生产转移到外国工厂的原因。但是，中国和其他国家的劳动力成本的上升，加上国际运输成本高昂，减少了离岸生产对于一些企业的吸引力。</p>
+<p>但是，可能导致制造业工作回归速度放缓的一个因素是缺乏熟练技术工人。</p>
+<p>莫瑟尔说：“我们没有足够的熟练技术工人，一个原因是学生不选择进入制造业，因为他们认为，所有这些工作都到海外去了，所以他们觉得在这个领域接受培训没有前途。因此，向他们展示这些工作正在回归，我们能够获得具有竞争力的劳动力。”</p>
+<p>美国现在回归和流出的就业岗位数量基本持平，看起来已经开始成为一个趋势。问题是：这个趋势会持续吗？</p>
+<p>莫瑟尔说：“把就业带回来是一场攻坚战。不容易，我们历经五六十年到了我们现在离岸生产的局面，要把这些工作要回来，还要花几十年的时间。”</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%A4%B1%E5%88%B0%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E6%83%B3%E8%B1%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0/?category=18271" rel="tag">中国制造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%8F%A3%E7%BA%A2%E5%88%A9/?category=18271" rel="tag">人口红利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%89%E4%BB%B7%E5%8A%B3%E5%8A%A8%E5%8A%9B/?category=18271" rel="tag">廉价劳动力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/?category=18271" rel="tag">美国大选</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E6%B5%A6%E5%BE%8B%E8%A2%AB%E5%90%8A%E9%94%80%E6%89%A7%E7%85%A7%E3%80%81%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%9C%B0%E9%93%81%E8%A2%AB%E7%8C%A5/" target="cdt-mirror">【敏感词库】浦律被吊销执照、“女子在地铁被猥亵”等热点</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/69c595c9gw1f2zg524uxkj20k00zkk08.jpg" rel="attachment wp-att-435743"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/69c595c9gw1f2zg524uxkj20k00zkk08.jpg?resize=400%2C711" alt="69c595c9gw1f2zg524uxkj20k00zkk08" data-recalc-dims="1"></a><br><em>图片来自新浪微博<a href="http://weibo.com/zoooe69" target="_blank">@喵了个景烨</a> </em></p>
+<p>［新浪微博搜索禁词测试时间：2016年4月22日］</p>
+<p><strong>浦＋吊销＋执照</strong><br><strong>19年律师</strong><br><strong> 二中院＋便衣</strong></p>
+<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%8B%E5%B8%88/">BBC | 维权人士浦志强：从今天开始我不再是律师</a></p></blockquote>
+<p><strong>女子在地铁被猥亵</strong><br><strong> 女子地铁袭胸精神病</strong></p>
+<p><strong>劳工＋何晓波</strong></p>
+<p><strong>习＋下台</strong><br><strong> 自以为是＋习</strong><br><strong> 房价＋习</strong></p>
+<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%9C%A8%E8%BF%99%E4%B8%80%E6%B3%A2%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%AD-%E5%A5%B9%E9%80%8F%E6%94%AF%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%8A%E6%B5%B7%E4%BA%BA47/">端传媒 | 在这一波房价暴涨中 她透支了一个上海人47年的工资</a></p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B5%A6-%E5%90%8A%E9%94%80-%E6%89%A7%E7%85%A7.png" rel="attachment wp-att-435745"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B5%A6-%E5%90%8A%E9%94%80-%E6%89%A7%E7%85%A7.png?resize=475%2C207" alt="浦 吊销 执照" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/浦-吊销-执照.png?resize=300%2C131 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/浦-吊销-执照.png?resize=768%2C335 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/浦-吊销-执照.png?resize=1024%2C447 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/浦-吊销-执照.png?w=2096 2096w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19%E5%B9%B4%E5%BE%8B%E5%B8%88.png?resize=476%2C185" alt="19年律师" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19年律师.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19年律师.png?resize=768%2C298 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/19年律师.png?w=772 772w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BA%8C%E4%B8%AD%E9%99%A2%EF%BC%8B%E4%BE%BF%E8%A1%A3.png?resize=476%2C185" alt="二中院＋便衣" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/二中院＋便衣.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/二中院＋便衣.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/二中院＋便衣.png?w=769 769w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%9C%B0%E9%93%81%E8%A2%AB%E7%8C%A5%E4%BA%B5.png?resize=475%2C186" alt="女子在地铁被猥亵" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女子在地铁被猥亵.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女子在地铁被猥亵.png?resize=768%2C300 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女子在地铁被猥亵.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A5%B3%E5%AD%90%E5%9C%B0%E9%93%81%E8%A2%AD%E8%83%B8%E7%B2%BE%E7%A5%9E%E7%97%85.png?resize=475%2C185" alt="女子地铁袭胸精神病" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女子地铁袭胸精神病.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女子地铁袭胸精神病.png?resize=768%2C299 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/女子地铁袭胸精神病.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8A%B3%E5%B7%A5%EF%BC%8B%E4%BD%95%E6%99%93%E6%B3%A2.png?resize=475%2C211" alt="劳工＋何晓波" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/劳工＋何晓波.png?resize=300%2C133 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/劳工＋何晓波.png?resize=768%2C342 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/劳工＋何晓波.png?w=769 769w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%B9%A0%EF%BC%8B%E4%B8%8B%E5%8F%B0.png?resize=475%2C185" alt="习＋下台" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/习＋下台.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/习＋下台.png?resize=768%2C299 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/习＋下台.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF%EF%BC%8B%E4%B9%A0.png?resize=475%2C184" alt="自以为是＋习" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/自以为是＋习.png?resize=300%2C116 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/自以为是＋习.png?resize=768%2C297 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/自以为是＋习.png?w=772 772w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%88%BF%E4%BB%B7%EF%BC%8B%E4%B9%A0.png?resize=475%2C186" alt="房价＋习" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/房价＋习.png?resize=300%2C118 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/房价＋习.png?resize=768%2C301 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/房价＋习.png?w=771 771w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E6%B5%A6%E5%BE%8B%E8%A2%AB%E5%90%8A%E9%94%80%E6%89%A7%E7%85%A7%E3%80%81%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%9C%B0%E9%93%81%E8%A2%AB%E7%8C%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E5%B7%A5/?category=18271" rel="tag">劳工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E4%B8%94%E7%9C%8B%E6%AC%A2%E8%BF%8E%E6%89%B9%E8%AF%84%E8%BF%99%E6%8A%8A%E5%B0%9A%E6%96%B9%E5%AE%9D%E5%89%91/" target="cdt-mirror">德国之声｜长平：且看“欢迎批评”这把尚方宝剑</a>
+</h2>
+<p><p>习近平关于“欢迎批评”的讲话成了禁评内容。时评人长平认为，领导人讲话被视作尚方宝剑，显示社会仍处于皇权时代。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146651_30300.jpg" rel="attachment wp-att-435737"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146651_30300.jpg?resize=575%2C324" alt="0,,19146651_303,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146651_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146651_30300.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/" target="_blank">【立存此照】不善意的批评不欢迎 还要审 </a></p></blockquote>
+<p>习近平语录：”对广大网民，要多一些包容和耐心”，”对网上那些出于善意的批评，……我们不仅要欢迎，而且要认真研究和吸取”。（来源：新华网北京4月19日电，习近平在北京主持召开网络安全和信息化工作座谈会并发表重要讲话。）</p>
+<p>这两句话没有任何智慧含量，不过是中共领导人习以为常的官腔，但是仍然被一些网民奉为至宝，拿它当作寒光闪闪的尚方宝剑，用来保护自己丧失殆尽的言论自由。让他们尴尬的是，当他们准备去发布此语录的官方微博点赞时，却发现被禁止评论。</p>
+<p>关闭评论不是因为习近平羞于接受赞美，而是官方完全明白这些话有多么虚伪，它”欢迎”到的更多将是潮水般涌来的批评和讽刺，即便全副武装的”五毛”队伍也难以抵挡。</p>
+<p>他们无法顾及的是，这种做法本身就是最大的讽刺，显示官方对于网络批评既没有包容，也没有耐心。连股民在股市崩盘时卖掉自己的股票逃命，都被称为”恶意做空”，还有什么真正的批评会被定义为”善意”？</p>
+<p>因此有网民言简意赅地说：”我只是来看看能不能评论。”</p>
+<p><strong>因言获罪的名单仍在延长<br></strong><br>
+还有网民提醒说，以前说的可是”尖锐批评”。他们指的是，习近平上台不久的2013年2月，在中南海邀请各民主党派中央、全国工商联新老领导人和无党派人士代表，”欢聚一堂,共迎新春”，”并发表重要讲话”，宣称要继续加强民主监督：”对中国共产党而言，要容得下尖锐批评”，”对党外人士而言，要敢于讲真话，敢于讲逆耳之言，真实反映群众心声，做到知无不言、言无不尽”。</p>
+<p>这些话让人想到，1956年毛泽东提出”百花齐放，百家争鸣”的方针，号召党外人士”大鸣大放”。众多知识分子赞美他”英明纳谏”，提出诸多批评意见，结果他翻脸宣称这是引蛇出洞的”阳谋”，展开了残酷的”反右斗争”，批评者及受株连者被批斗、判刑和劳教，无数人被折磨至死，或者生死不明。</p>
+<p>这一次，早已变得聪明乖巧的”党外人士”没有上当。一些学者、媒体人和维权人士发表了批评意见，大多远远谈不上”知无不言、言无不尽”，就被骚扰、拘捕、审判、绑架家人。从许志永、浦志强、高瑜、伊力哈木、刘萍、郭飞雄……一直到近日开庭审判的苏昌兰，即将开庭审判的王宇……以及那些被关押、折磨之后又释放、软禁的人们，名单长到令人窒息，但是这场打压运动仍在延续。</p>
+<p><strong>尚方宝剑保护不了言论自由</strong></p>
+<p>从网民意见可以看到，在很多人看穿这种语录的同时，也有不少人对它抱持期待。有些人认为，关闭批评的网站或者网络主管机构，违背了习近平的意旨，给习近平抹黑（所谓”高级黑”）。有人宣称要向更高级的机构甚至习近平本人举报，要求他们查处阳奉阴违的下级官员。</p>
+<p>且不说这些官员如何在体制内”经受了长期考验”，单是习近平以反腐为名进行的严厉吏治，就不可能允许这么多官员敢于”违背圣意”。准确地理解和执行领导人的”讲话精神”，是下级官员的基本功。何况不少对于批评意见的打压，显然来自习近平的直接指示。</p>
+<p>更重要的是，舆论监督的关键，并不在于国家领导人是否欢迎，无论其真心还是假意。欢迎批评就可以批评，跟不欢迎批评就不能批评，二者之间并没有本质区别，同样是舆论管控。真正的舆论监督，需要独立运作的媒体和司法体制，多元制衡的政治力量，以及表达自由的公民社会。</p>
+<p>当领导人”欢迎批评”被意欲批评者欣欣然视作尚方宝剑时，社会仍然处于专制的皇权时代。</p>
+<p>民间对于执政者的批评被区别为”善意”和”恶意”，并以此作为被包容还是被打压的依据，在言论自由的社会无疑是一个笑话。<br><em><br>
+长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E4%B8%94%E7%9C%8B%E6%AC%A2%E8%BF%8E%E6%89%B9%E8%AF%84%E8%BF%99%E6%8A%8A%E5%B0%9A%E6%96%B9%E5%AE%9D%E5%89%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9A%87%E5%B8%9D%E7%9A%84%E6%96%B0%E8%A3%85/?category=18271" rel="tag">皇帝的新装</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%AA%E5%A5%BD%E4%BA%86%EF%BC%8C%E7%A7%91%E6%8A%80%E9%83%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%85%AC%E5%B8%83%E4%BF%AE%E4%BB%99%E6%9C%AF/" target="cdt-mirror">【网络民议】太好了，科技部什么时候公布修仙术标准？</a>
 </h2>
 <p><p>科技部和中宣部近日发布<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%A7%91%E6%8A%80%E9%83%A8%E5%8D%B0%E5%8F%91%E5%85%AC%E6%B0%91%E7%A7%91%E5%AD%A6%E7%B4%A0%E8%B4%A8%E5%9F%BA%E5%87%86-%E8%A6%81%E6%B1%82%E7%9F%A5/" target="_blank">关于印发《中国公民科学素质基准》的通知</a>，要求“各地各部门认真组织党政机关干部、工人、农民，科技、教育工作者，城乡劳动者、部队官兵、学生、社会各界人士等学习；各级党政机关、科研机构、企业、事业单位、学校、部队、社会团体等要组织《基准》学习和培训活动；新闻媒体、网站要对《基准》进行广泛宣传”。</p>
@@ -489,137 +586,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E6%99%AE%E5%8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD%EF%BC%9A%E9%A9%AC%E6%AD%A5%E8%8A%B3%E6%95%85%E5%B1%85%E9%A2%A0%E8%A6%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/" target="cdt-mirror">BBC | 透视中国：马步芳故居颠覆中国的政治正确</a>
-</h2>
-<p><p>作者：蒙克，BBC中文网记者</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-%E4%B8%8B%E5%8D%883.50.40.png?resize=579%2C325" alt="Screen Shot 2016-04-20 at 下午3.50.40" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.50.40.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.50.40.png?w=579 579w" sizes="(max-width: 579px) 100vw, 579px" data-recalc-dims="1"><br><span>希特勒出生的房屋</span></p>
-<p>纳粹德国领导人希特勒在奥地利小镇因河畔布劳瑙（Braunau am Inn）的故居一直是个令当局头疼的地方。最近奥地利政府准备强征这座希特勒出生的房屋，防止房子落入新纳粹之手。多年来奥地利当局为了避免这个尴尬局面出现，一直试图从私人业主手中购买产权，但都没有结果。</p>
-<p>当地公众也不愿意谈及希特勒同这座小镇的渊源。在德国和奥地利，公开崇拜纳粹，包括展示纳粹符号都是刑事罪行。二战后确立的政治正统和政治正确已经在道德和法律上被普遍接受。</p>
-<p>相比之下，中共治理下的国家的政治正统和政治正确几经修正，仍处于混乱和矛盾状态。最近青海省西宁市的旧军阀马步芳故居成了互联网的热门话题即为一例。</p>
-<p>历史上的西北军阀马步芳早成为中共盖棺论定的历史人物。这位在青海独霸一方的回族军阀有野蛮统治地方、屠杀藏人和虐杀红军俘虏的恶名。但现在马步芳的故居却被当地作为旅游热点招徕游客，引来名学者和评论员对马步芳的重新评价和褒贬。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-%E4%B8%8B%E5%8D%883.52.03.png?resize=548%2C307" alt="Screen Shot 2016-04-20 at 下午3.52.03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.03.png?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.03.png?w=548 548w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"><br><span>参观马步芳公馆的游人会从讲解中了解到一个与中共官方定论完全相反的马步芳</span></p>
-<p><strong>马步芳故居</strong></p>
-<p>马步芳的豪华公馆1942年开始建于青海西宁,是一座总面积约10万平方米的高大宅院。据说现在的故居博物馆只剩下原有面积的1/6。由于公馆建筑中许多墙面是用玉石砌成，所以也被称作“玉石公馆”。据导游介绍，豪宅的玉片是动用了3000士兵打磨一年才告完成。</p>
-<p>据说参观马步芳公馆的游人会从讲解中了解到一个与中共官方定论完全相反的马步芳。这个被说成“人民的敌人”、屠戮残害红军的“元凶”，花淫无度的军阀竟然做过许多利国益民的善举：派兵抗日，兴办教育，禁止毒品，如绿化环境……，马步芳成了圣人！</p>
-<p>北大教授马戎也正面评价了这个历史人物：“从今天来看，马麒、马步芳父子在维护国家统一、保护国家领土完整方面曾经发挥了一些正面作用。”</p>
-<p><strong>家族军阀统治</strong></p>
-<p>对此，西藏著名作家唯色说：“马戎大教授的意思是不是说：为了‘统一’，就可以像马家军那样对‘边疆民族’烧杀抢，特别是杀、杀、杀？”</p>
-<p>对于马步芳父子在青海统治数十年期对当地藏人的大规模血洗和屠杀，奸淫戮掠，在新华社报道和青海文史资料中都有大量反映。另外，马鸿逵给马步芳的著名公开信也是马步芳为人残暴和荒淫无度的见证。</p>
-<p>1936年马步芳同甘肃马仲英、宁夏马鸿宾、马鸿逵的所谓马家军击溃歼灭了企图西进新疆的红四方面军。中共部队两万余人战死八千，一万多人被俘，其中数千人被虐杀，大批女俘被蹂躏奸杀。</p>
-<p>1949年当中共部队开始席卷全国时，据说毛泽东特意指令西征军要坚决歼灭马步芳的部队，只接受其无条件投降，不许其“起义”或“改编”。有老战士回忆，在解放军进入西宁前，上边下达密令，要先头侦察部队火速行军，进城活捉马步芳。不过，马步芳在解放军进城前乘飞机逃脱。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-%E4%B8%8B%E5%8D%883.52.35.png?resize=548%2C308" alt="Screen Shot 2016-04-20 at 下午3.52.35" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.35.png?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-下午3.52.35.png?w=548 548w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"><br><span>中国开始市场经济改革后，官方意识形态淡化</span></p>
-<p><strong>边疆民族问题</strong></p>
-<p>对马步芳评价的争议除了涉及修正官方历史以及官方意识形态弱化的问题，还涉及敏感的民族问题。中国开始市场经济改革后，官方意识形态淡化，出现了反思和修正中共官方历史，使1949年后中共营造的政治话语和政治正确受到了挑战。</p>
-<p>另外，马步芳这种边疆统治军阀因为涉及民族关系而不同于薛岳和张灵甫这类败于中共军队的国军将领，因此对边疆军阀的历史修正和翻案往往更复杂、更有争议。例如四川军阀刘文辉，新疆的杨增新和盛世才以及内蒙西部的山西军阀。</p>
-<p>面对流亡西藏运动基于人权、自由的民族权利诉求，中共的说辞是中国使藏人摆脱了落后的农奴制和地方军阀的黑暗统治。消除国民党政权和地方军阀对少数民族地区的“压迫”统治，是中共在边疆民族地区政治合法性说理的一个重要组成部分。</p>
-<p>因此主张所谓“第二代民族政策”，要对中国民族问题“去政治化”、”去民族意识”的北大教授马戎正面评价马步芳治理边疆受到不同方面的质疑。因为对军阀治边对付少数民族作正面评价，无异于否认现行民族政策及其历史合理性。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD%EF%BC%9A%E9%A9%AC%E6%AD%A5%E8%8A%B3%E6%95%85%E5%B1%85%E9%A2%A0%E8%A6%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">中国民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%80/?category=18271" rel="tag">军阀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8D%E4%BA%BA%E6%95%85%E5%B1%85/?category=18271" rel="tag">名人故居</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E5%9B%BD/?category=18271" rel="tag">民国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%AD%A5%E8%8A%B3/?category=18271" rel="tag">马步芳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/" target="cdt-mirror">【立存此照】不善意的批评不欢迎 还要审</a>
-</h2>
-<p><p>4月19日，习近平在京主持召开网络安全和信息化工作座谈会，并且在讲话中提到“对网上那些出于善意的批评，要欢迎”，微博上的学习小组在转发此条消息的时候关闭了评论，引起一些网友注意，嘲笑为“高级黑”。几小时，学习小组才取消了该微博下的评论限制。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgZ5bOqW4AAy5Sx.jpg?resize=600%2C511" alt="CgZ5bOqW4AAy5Sx" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgZ5bOqW4AAy5Sx.jpg?resize=300%2C256 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgZ5bOqW4AAy5Sx.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%96%84%E6%84%8F%E6%89%B9%E8%AF%84.jpg?resize=595%2C527" alt="善意批评" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/善意批评.jpg?resize=300%2C266 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/善意批评.jpg?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自该微博下的部分评论：</strong></p>
-<p>@青儿_江湖路远行者不惑：求别封外网，求别搞“网络”封关锁国。</p>
-<p>@陈香蕉的主治医师：你问我滋磁不滋磁，我当然滋磁啊。</p>
-<p>@江南布衣陆书全: 你这个善意还是恶意，如何界定啊？既然想听批评，就应该做到有则改之无则加勉。更彻底的做法应该是立法保障人民自由批评，不受追究的权利。</p>
-<p>@喜欢你的那个小伙伴说：test 我就看看我能不能评论</p>
-<p>@paniger：17：00发的 21：00才开始评论。</p>
-<p>@細愁輕夢：评论有时可以有时不可以。</p>
-<p>@业余宇航员：怎样的算恶意批评呢？</p>
-<p>@绝望旅行：怎么判断是不是善意需要水平。</p>
-<p>@雪刀ing：领导为小事这么操心太不爱惜身体了，要批评你！</p>
-<p>@王周生: 讲讲容易，就看做不做。</p>
-<p>@重庆农家散养鸡蛋：以前说的可是尖锐批评啊</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0069ImmIgw1f335026atoj30j60cxjss.jpg?resize=440%2C297" alt="0069ImmIgw1f335026atoj30j60cxjss" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0069ImmIgw1f335026atoj30j60cxjss.jpg?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/0069ImmIgw1f335026atoj30j60cxjss.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>@DDSP5D：你给我搞的这个禁ping啊，excited！</p>
-<p>@Flyingcrane000：这意思就是出于恶意的批评要大力打击！</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E4%B8%8D%E5%96%84%E6%84%8F%E7%9A%84%E6%89%B9%E8%AF%84%E4%B8%8D%E6%AC%A2%E8%BF%8E-%E8%BF%98%E8%A6%81%E5%AE%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%EF%BC%8C/?category=18271" rel="tag">，</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%84%E6%84%8F%E6%89%B9%E8%AF%84/?category=18271" rel="tag">善意批评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E6%AF%92%E6%A0%A1%E5%9B%AD%E5%AE%B6%E9%95%BF%E8%A2%AB%E8%AD%A6%E5%91%8A%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%83%B9%E4%BA%8B/" target="cdt-mirror">网易路标 | “毒校园”家长被警告：不要“惹事”上访</a>
-</h2>
-<p><p>网易《路标》 文|徐雯新 编辑|郭清媛</p>
-<p>常州外国语学校身为常州市名校，如今陷入“与毒地为邻”的纷争之中。2015年底，该校多位学生家长发现学生身体出现异常情况，家长在就校园旁边的常隆地块污染问题上访的过程中，多次遭遇相关部门阻拦，被告知“不要惹事”。个别家长遭受了被有关部门传唤询问、短期拘留的经历。他们多次被居住片区的管理者要求，签署“为维护公共秩序”而不允许静坐示威的《法律宣告单》。</p>
-<p>根据网易《路标》了解，常州外国语学校（以下简称“常外”），是由江苏省常州高级中学于2001年独资创办的学校，其初中部每年的中考分数和升学率在常州市位居前列。</p>
-<p>目前，学校每个年级16个班，初一初二共有学生约1500名。“毒校园问题”在2015年底初现，常外多位家长发现自家孩子身体出现异常情况，多数学生体现为甲状腺结节钙化、淋巴肿大、白细胞降低等症状。与学生们的病症相对应的，是与学校一路之隔的常隆地块，系农药厂旧址。</p>
-<p>对此，1月8日，以初一初二学生家长为主的1200位家长，向常州市各级政府、环保、教育、信访部门，写联名信，对学校和当地政府提出质疑，并申请学校搬迁，保护学生身心健康。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152138ac786_550.jpg.550x10000.75.auto_.jpg?resize=550%2C732" alt="20160420152138ac786_550.jpg.550x10000.75.auto" data-recalc-dims="1"></p>
-<p>据《财新周刊》报道，2月21日，学校公布了委托第三方公司进行的空气和部分放射性状况及土壤、地下水检测报告，结果显示“检测指标均达标”。家长们认为这些数据没有说服力。</p>
-<p>之后，又有1291位初一、初二年级的家长，集体出钱，自行请第三方检测机构上海实朴检测技术服务有限公司来做环境检测，目前，结论暂未出来。</p>
-<p>年初至今，在家长们联名申请迁校以及向政府提出抗议之时，他们向政府的问责之路受到了多般阻挠。超过5位家长向网易《路标》表示，自己和家人曾遭受过有关部门的传唤和询问，对于有工作的家长，家长所供职的工作单位，也会向家长进行类似“不要惹事”的劝导工作。</p>
-<p>常外家长李某称，他认识的一位身为常州市某区政协委员的家长，也曾造片区派出所询问过。</p>
-<p>在1月15日，这位政协委员的询问，发生在他跟随其他家长，到学校表达了搬迁过渡的诉求之后。据一位不愿具名的知情者称，这位政协委员在接受询问时，被要求“保证不上访”。</p>
-<p>“也会采取上门谈话的方式”，家长李某称，他不在的时候，就是家人接受谈话。“上门直接找我父母，把老人吓坏了，我现在都让父母搬出去了。”</p>
-<p>常外家长张某称，他曾被短暂拘留了4个小时。今年3月1日晚，张某与其他家长打算一起将学生的病历汇总表，交给常外校长曹慧，由于曹慧一直没有出现，家长们在曹慧办公室附近等到了晚上12点。随后，出现了一群人，把家长和校长办公室之间的门隔开，曹慧在这群人帮助下离开办公室。张某当时情急之下冲曹慧大喊“曹校长，要救救孩子啊！”</p>
-<p>这句话导致张某被这群帮助曹慧离开办公室的人带到了龙虎塘派出所，他违反了治安处罚条例，最高可拘留15天。张某说，这群人到了派出所之后就换上了警服。从3月2日凌晨0点到4点，张某在派出所度过了4个小时后被保释。</p>
-<p>4月8号，常外家长陈某也收到常州市公安局新北分局的传唤，理由是“煽动、策划非法集会、示威”，对此，陈某已不愿过多说明。</p>
-<p>此外，网易《路标》也接触到了多位曾被有关部门多次传唤询问的家长，他们称，“我们得签署法律宣告单”。</p>
-<p>上述家长向网易《路标》提供了这张《法律宣告单》，该宣告单以“维护正常的公共场所秩序、单位办公秩序和交通挂历秩序”为目的，《人民警察法》、《刑法》、《治安管理处罚法》，罗列了6种违法行为，并标明了违法后果。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152054ed6d0_550.jpg.550x10000.75.auto_.jpg?resize=550%2C733" alt="20160420152054ed6d0_550.jpg.550x10000.75.auto" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152054ed6d0_550.jpg.550x10000.75.auto_.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160420152054ed6d0_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>在这张宣告单内，依据《人民警察法》，公安机关可以对严重危害社会治安秩序的人予以强行驱散或代理现场予以拘留。依据《治安乱理处罚法》，采取静坐、示威、喊口号、拉横幅等行为的，可处以罚款、拘留等。阻碍国家机关工作人员依法执行职务，强行冲闯公安机关设置的警戒带、警戒区、或者阻碍执行紧急任务的警车等车辆通行，处警告或200元以下罚款；情节严重的，处五日以上十日以下拘留。</p>
-<p>依据《刑法》，对聚众扰乱社会秩序致使工作、生产、营业和教学、科研无法进行，造成严重损失的首要分子，处三年以上七年以下有期徒刑；对其他积极参加的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。</p>
-<p>面对上述被要求“噤声”的情况，家长多表示不解与愤怒。</p>
-<p>如今，自媒体报道揭开盖子后，常州“毒地”引发舆论关注。环保部、教育部先后发声。4月19日，新华网发表《六问常州外国语学校“毒地”事件》，斥责学校“死扛”，“像鸵鸟一样把头插入地下”：“面对学生家长诉求，学校方面一味否认、推诿，态度令人费解。”</p>
-<p>《六问》追问说，“毒地”的盖子却被狠狠地捂住，到底是哪个部门、谁在阻止解决这一问题？背后有没有利益纠葛？是否涉及失职、渎职？”</p>
-<p>（本文系网易原创稿件，版权属网易所有，未经授权不得转载，已经协议授权的媒体下载使用时须注明”稿件来源：网易《路标》”，违者将依法追究责任。）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-%E6%AF%92%E6%A0%A1%E5%9B%AD%E5%AE%B6%E9%95%BF%E8%A2%AB%E8%AD%A6%E5%91%8A%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%83%B9%E4%BA%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E6%BA%90/?category=18271" rel="tag">污染源</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93%E7%89%A9/?category=18271" rel="tag">污染物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E8%AF%84/?category=18271" rel="tag">环评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F/?category=18271" rel="tag">空气质量</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83%E9%81%AD%E7%BB%B4%E7%A8%B3%EF%BC%8Cqq%E7%BE%A4%E8%A2%AB%E5%85%B3%E7%BE%A4%E4%B8%BB%E5%8F%97%E7%9B%91%E8%A7%86/" target="cdt-mirror">美国之音｜疫苗维权遭维稳，QQ群被关群主受监视</a>
-</h2>
-<p><p>不久前山东疫苗案引起的舆论震动尚未平息，然而就在疫苗致病、致残的案例开始走出维权人士的小圈子，进入媒体和民众的视野时，一个有1000余名成员的疫苗维权QQ群却于日前被腾讯解散，曾担任群主的余同安也于16日前后开始受到国保的严密监视。</p>
-<p>19日，余同安接受美国之音采访时说：“我家外面现在有人。”记者问是否是国保在监视他，他说：“是。”</p>
-<p>余同安是广东新会江门人。2005年，他十三岁的儿子余荣辉在学校注射A群流脑疫苗后出现发热、站立困难等症状，之后症状不断恶化，最终被医院诊断为重症病毒性脑炎，手脚萎缩变形，肢体扭曲。余同安由此开始了十年上访路，为儿子争取赔偿，也希望国家建立疫苗伤害保障救济机制。</p>
-<p>余同安是疫苗受害者家庭中较早开始维权的，用其他受害家长的话说，余同安是“元老”。《财新》、《南都周刊》等国内媒体都曾报道过余同安父子。今年3月山东曝出非法疫苗案后，余同安接受了美国之音的采访，回顾了十年前在律师唐荆陵的帮助下，通过诉讼、上访为儿子讨说法的经历。唐荆陵曾参与太石村罢免村干部、疫苗伤害、提高劳工待遇等维权活动，发起过“公民不合作”运动，于今年初被广州中级人民法院以“煽动颠覆国家政权罪”判处五年有期徒刑。</p>
-<p>本月初，余同安曾任群主的疫苗受害家庭维权QQ群突然被腾讯关闭。16日前后，余同安开始受到国保监视。19日，余同安对美国之音说，许多疫苗受害家庭不满卫计委在疫苗监管上不作为，日前有60余位全国各地的家长一同去北京市第一中级人民法院起诉卫计委和药监局。政府逼迫他退出QQ群，又对他进行监视，主要是不想让他去北京参与维权行动，也不想让他接受外媒采访。余同安说，与记者通话时，国保人员就在他家外面。</p>
-<p><strong>维权QQ</strong><strong>群为何突遭关闭</strong></p>
-<p>贵州一位疫苗受害者的父亲吴焱19日对美国之音说，疫苗维权QQ群成员大多是受害孩子的家长，他也是成员之一。山东疫苗案之后，许多家长非常关注疫苗的问题，QQ群成员激增。“有一些以前没有意识到孩子可能是因为疫苗导致身体出问题的家长，这次可能意识到了。我们升级为2000人大群后，成员几天之内就涨到了1500人左右。”</p>
-<p>吴焱说，QQ群是约一个月前的某天凌晨2点左右突然被关闭的，他表示不清楚具体原因，但猜测是因为群里一些家长有一些“不好”的言论。记者问都有哪些言论，吴焱说他很少看群里的信息，所以不清楚具体情况。</p>
-<p>吴焱说，大群被关闭后，有维权家长组建了小群，现在大约有400多成员。</p>
-<p>另外一位不愿透露姓名的维权家长说，群里多数时候在交流各自孩子的情况，有人会推荐律师、分享自己上访的经历等。至于有无过激言论，这位家长说：“都是孩子出事了，又好多年得不到解决，家长在群里骂两句也有，你说那些言论过激不过激，反正政府说你过激就过激。”</p>
-<p>据悉，4月18日，来自全国各地几十名疫苗受害家长来到北京第一中级人民法院联名起诉卫生和计划生育委员会，余同安19日对美国之音说，政府这次派国保监视他，限制他的行动，主要就是不想让他去北京参与这次联名诉讼。</p>
-<p><strong>体制怪圈：大闹大解决，不闹不解决</strong></p>
-<p>余同安说，这次联名诉讼，主要是家长们不满政府对于疫苗伤害的监管不力、认定不公。“具体说，就是打疫苗是卫计委管，一旦出了问题，（政府）要求任何医院不许自己给受害者做鉴定，所以打疫苗是他们，出了问题做鉴定也是他们做。”</p>
-<p>吴焱表示他也知道这次联名诉讼，这些家长提出的疫苗事故认定不公平等问题，也是他为女儿维权的路上遇到的一大障碍。</p>
-<p>吴焱的女儿2011年10月在幼儿园接种流脑疫苗后出现站立困难等症状，送医后被诊断为“横贯性脊髓炎”，下肢终身瘫痪。“打疫苗是疾控中心打，孩子出了事故，也是疾控中心鉴定，运动员和裁判都是他们。”他说，一般鉴定结果都会说“（残疾）与疫苗没有关联”或者说“偶合”。</p>
-<p>还有一个问题，就是赔偿机制的不完善、不透明。他说，从2011年女儿残疾到2015年拿到赔偿，他把各级政府部门都跑遍了。除了贵州当地的卫生局和疾控中心之外，他还远赴北京到信访局递材料，“到北京的国家卫计委上访了5次”。</p>
-<p>去年，吴焱一家拿到了贵州当地卫生局给的100万元补偿。至于当地同意补偿这笔钱是不是因为接到了上级单位的批示，吴焱并不清楚。他说：“这就是一个‘怪圈’。所有的医疗事故，都是大闹大解决，小闹小解决，不闹不解决。首先（政府）肯定是不承认（伤残是疫苗导致的），到说谎说不过去了才承认。等承认了，补偿款也很不人性。每个省自己制定的补偿办法，有一些根本连医药费都不够。比如河南，不管你孩子是死还是残，最多就赔30万，而且没有后期保障。”</p>
-<p>另一位不愿透露姓名的维权母亲表示同意吴焱的说法，她说：“这个补偿的体制是很不透明的，各个单位肯定是互相推来推去的，所以我们家长也不知道找哪个单位能解决。反正最后拿到补偿的人，都去北京上访过，所以我们也就只能去北京上访，把动静闹大，就是为了孩子能有一些保障，死马当活马医。”</p>
-<p>吴焱认为，赔偿体制不完善导致很多孩子出事后得不到及时医治，更加重病情。他说，女儿接种疫苗导致中枢神经损伤，刚开始治病时的费用一天就要近两万元；其他因疫苗导致脑瘫的孩子，在重症监护室里抢救，每天也要很高的医药费。像这样的突发情况，很多家庭都拿不出钱，国家也没有救助机制。“很多孩子因此耽误了治疗，不是死就是重度残疾，这是很悲哀的。”</p>
-<p><strong>维稳出钱出人，赔偿扯皮推诿</strong></p>
-<p>吴焱说，女儿小时候都是他亲自抱着女儿去医院打疫苗，但是2011年女儿的幼儿园没有通知家长就在幼儿园给孩子接种了流脑疫苗。“医院的疫苗是冷链保存的，而且打完以后要观察半个小时，幼儿园里都没有这些条件。”</p>
-<p>记者问吴焱是否会追责幼儿园，他说拿了政府的补偿，就不能再诉讼了。“这个补偿是‘预防接种异常反应的补偿’，要承认疫苗是合格的、接种是规范的、孩子也没有过错，就是说三方都没有责任。”吴焱的律师告诉他，接受了这个补偿，再向任何一方提起诉讼都没有用了。</p>
-<p>吴焱说，他自己对这个结果并不满意，他希望政府可以承认女儿是疫苗事故的受害者，并建立独立的诊断、赔偿机制。</p>
-<p>有媒体报道余同安也拿到了政府补偿，不过余同安说“这笔钱不叫赔偿、补偿，是救助。”他说政府和他签订了保密协议，不允许对外界透露具体的金额和条件。余同安说，这次政府派国保监视他，除了不想让他去北京之外，还有不想让他接受外媒采访。</p>
-<p>一位疫苗维权母亲对美国之音说，据她所知只有很少人能拿到补偿，“可能就是不想你闹大了，给钱了事吧。如果拿了钱再闹，可能就会派人警告了。”</p>
-<p>此外，疫苗受害家长联名起诉卫计委一案，北京市中级人民法院4月18日收取了家长的相关材料，是否立案还要等后续通知。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83%E9%81%AD%E7%BB%B4%E7%A8%B3%EF%BC%8Cqq%E7%BE%A4%E8%A2%AB%E5%85%B3%E7%BE%A4%E4%B8%BB%E5%8F%97%E7%9B%91%E8%A7%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E7%96%AB%E8%8B%97/?category=18271" rel="tag">问题疫苗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -631,7 +597,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -641,5 +607,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

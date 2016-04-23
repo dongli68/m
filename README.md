@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E4%B8%8D%E5%86%8D%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%BD%91%E5%BC%80%E4%B8%80%E9%9D%A2/" target="cdt-mirror">纽约时报｜中国监管不再对苹果“网开一面”</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/23APPLE-articleLarge.jpg" rel="attachment wp-att-435717"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/23APPLE-articleLarge.jpg?resize=575%2C384" alt="北京的一家苹果专卖店。iPhone手机在美国的销售势头放缓，苹果正在从中国寻求增长。 ／Gilles Sabrie for The New York Times " data-recalc-dims="1"></a><p>北京的一家苹果专卖店。iPhone手机在美国的销售势头放缓，苹果正在从中国寻求增长。 ／Gilles Sabrie for The New York Times</p></div>
+<p>多年来，美国科技公司在中国获得的成功一直很有限。如果占取太多的市场份额，拥有太大的影响力，就会遭到北京的抵制。</p>
+<p>在很大程度上，苹果(Apple)是这种趋势的一个例外。然而，这家硅谷公司在中国提供的服务现在也面临着监管方面的压力。这可能预示着，苹果在该国的良好关系将遭遇变数。</p>
+<p>上周，苹果的iBooks商店和iTunes电影服务在中国问世仅仅半年之后便被关停。最开始，苹果推出这些服务似乎获得了政府的批准。但是之后，根据两名不愿具名的知情人士的说法，国家新闻出版广播电影电视总局声称这些服务由他们监管，要求予以关停。</p>
+<p>“我们希望尽快重新向中国用户提供这些书籍和电影，”苹果发言人在声明中表示。</p>
+<p>鉴于苹果以往在中国的表现，这样的逆转出人意料。和很多其他美国高科技企业不同，苹果公司近期在中国成功推出了多款新产品——比如移动支付系统Apple Pay。中国政府新近出现的这种抵制，或许会让这家位于加州库比蒂诺的公司蒙受损失。</p>
+<p>从一定程度上说，比起很多其他高科技公司，苹果更加依赖其软件流畅运行来吸引硬件设备的回头客。这些软件包括它的App Store应用商店和iTunes等服务，与iPhone和iPad紧密融合。目前苹果的iPhone手机销售势头在放缓，而该公司的增长有赖于中国市场，所以北京进一步限制苹果服务的话就可能会损害其销售。</p>
+<p>苹果将中国列为仅次于美国的第二大市场。公司将于下周二发布季度财报，届时可以看到它在中国的业绩数字。</p>
+<p>中国针对苹果的行动显示，该公司或许终于暴露在了严格审查的风险之下，就像其他美国高科技公司近年的遭遇一样。2013年美国国家安全局(National Security Agency)前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)曝光的资料显示，美国在利用这些公司为华盛顿开展网络间谍活动。此事是激发这种严格审视的原因之一。</p>
+<p>荣鼎咨询(Rhodium Group)创始合伙人荣大聂(Daniel H. Rosen)说，中国对苹果采取的行动是有长远目标的。荣鼎是一家对中国经济有专门研究的纽约咨询公司。</p>
+<p>“他们感兴趣的是保护中国人看到的内容，维护国家安全，支持华为、阿里巴巴、腾讯等本土巨头，”荣大聂说。他还表示，在这个新时代，中国“很难接受外国互联网势力的主导地位，尤其是那些来自美国的势力”。</p>
+<p>在关闭苹果的服务后，一直对西方意识形态采取打压政策的中国国家主席习近平，周二在北京召开了一场关于限制性互联网政策的会议。中国顶尖的科技企业领袖悉数到场，包括电商公司阿里巴巴的董事会主席马云，以及华为总裁任正非。</p>
+<p>“依法加强网络空间治理，加强网络内容建设，做强网上正面宣传，培育积极健康、向上向善的网络文化，”官方新闻机构新华社的<a href="http://news.xinhuanet.com/politics/2016-04/19/c_1118672059.htm" target="_blank" rel="nofollow">一篇报道</a>引用习近平的话说。</p>
+<p>自斯诺登泄露事件以来，中国官方媒体给八家美国企业打上了<a href="http://paper.people.com.cn/zgjjzk/html/2013-06/24/content_1259857.htm" target="_blank" rel="nofollow">“金刚”</a>的标签，称它们已经深入到该国能源、通讯、教育和军事等核心产业。</p>
+<p>这些公司中包括了思科(Cisco)、IBM、微软(Microsoft)和高通(Qualcomm)，在政府加强监管后，它们在中国的销量出现下滑。其中有的公司遭到突击搜查、调查和罚款。有的为了拓展在中国的业务，被迫出售股权，交出技术，和本土合伙人合作。</p>
+<p>苹果位列其中，不过一直以来它的麻烦要少很多。</p>
+<p>2013年苹果和中国最大的无线运营商中国移动签订了在该国销售iPhone的合约，此前它花了六年时间说服移动。在该公司的上一财年，中国消费者在苹果产品上花费590亿美元。苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)迄今已经多次访华。公司偶尔会遭到抵制——尤其显眼的是国家和中共媒体对其售后服务发起的<a href="http://cn.nytimes.com/business/20130402/02apple/" target="_blank" rel="nofollow">一次抨击</a>——不过总体而言还是不受侵扰的。</p>
+<p>有迹象表明接下来会有麻烦。习近平已经领导了一场针对互联网的严厉整肃行动，增加审查，打击用于躲过中国网络过滤系统——又被称为“防火长城”——的网络工具。他还增加了新的政策手段用于管控电子通讯。习近平领导着一个由多位领导人组成的委员会，以精简科技和互联网政策，将国家变成一个“网络强国”。</p>
+<p>除此之外，中国政府还在两年前提出了一部反恐法草案，以安全为由要求外国公司交出密钥——通过这种代码可以看到经过加密的信息。政府最终放弃了这项措施，然而分析人士称，政府仍然想要能够获取在中国境内的一切通讯信息。</p>
+<p>为了解锁一部涉及恐怖主义案件调查的iPhone，美国联邦调查局近来与苹果展开了对抗，此事对公司在中国的运作同样不利。中国律师已经指出，本国反恐法规定，公司在警方或国家安全机构要求下需就加密破解事宜给予协助，以调查或预防恐怖主义行动。</p>
+<p>在本周二的一次国会听证会上，苹果总法律顾问布鲁斯·希维尔(Bruce Sewell)称，中国政府在过去两年中曾要求公司共享源代码，但遭其拒绝。</p>
+<p>中国监管机构关闭的两项苹果服务iTunes电影和iBooks书店，和中国互联网公司的产品构成直接竞争。为了支撑显露颓势的经济，北京近来发起了一系列行动，着重强调一些对技能要求高、利润率也更高的产业，比如互联网。</p>
+<p>这方面的行动也许会最终扩散到苹果的其他服务。例如Apple Pay和中国最大的两家互联网公司——阿里巴巴和腾讯——的移动支付系统是竞争对手。</p>
+<p>长远来看，荣大聂认为中国对苹果这样的外国科技公司采取强硬立场，会给中国经济造成严重影响。</p>
+<p>“加深与全球科技生产的联系，令中国及其人民受益匪浅，但一旦要解除这种联系，给经济造成的打击也将是分外沉重的，”他说。</p>
+<p>翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/04/22/technology/apple-no-longer-immune-to-chinas-scrutiny-of-us-tech-firms.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E4%B8%8D%E5%86%8D%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%BD%91%E5%BC%80%E4%B8%80%E9%9D%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">苹果公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%AE%87%E8%88%AA%E5%91%98%E7%85%A7%E7%89%87p%E4%B8%8A/" target="cdt-mirror">共青团的“星辰大海”，就是给美国宇航员照片P上中国国旗</a>
 </h2>
 <p><p>@共青团中央 为庆祝中国航天日所自制的海报中，使用的宇航员形象被网民指出是以美国宇航员照片为原型，稍作调整后再P上中国国旗完成的：</p>
@@ -596,35 +632,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E7%8B%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8E%A8%EF%BC%81%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B/" target="cdt-mirror">德国之声｜长平：推！“伟大的中国故事”</a>
-</h2>
-<p><p>推特（twitter）最新人事任命引发网民抗议。时评人长平指出，“连接世界”不只是新媒体口号，也是中共“大外宣”的战略目标。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018965593_30300.jpg" rel="attachment wp-att-435493"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018965593_30300.jpg?resize=575%2C324" alt="0,,18965593_303,00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018965593_30300.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/018965593_30300.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>（德国之声中文网）广州曾经有一位记者被人笑话，因为他的报道总是这样开头：“××做梦都没有想到……”即便是那位记者，做梦都不会想到，有一天新闻报道可以这样写：网友们做梦都没有想到，推特（twitter）官方人士向中国中央电视台（CCTV）发出邀请：“让我们携手合作，向世界讲述伟大的中国故事。”</p>
-<p>这句话让很多推特用户目瞪口呆。他们没有看错，说出它的人是推特新任命的首位大中华区董事总经理陈葵（Kathy Chen）。她走马上任之后，在推特上首先和央视及新华社互动示好，俨然是面对公众的“就职演说”。</p>
-<p>中共宣传机器讲述过无数“伟大的中国故事”。它在饿莩遍地时讲述过水稻亩产上万斤，它在红卫兵街头枪战时讲述过“无产阶级文化大革命就是好”，又在“六四”民主运动被镇压时称它是“反革命暴乱”。今天，它在讲述中国有自己的“特殊国情”，坚决拒斥民主、自由、人权等“西方价值观”。</p>
-<p>对于同属“大中华区”的港台民众来说，当下央视讲述的最“伟大”的故事，莫过于长期出版中共政治禁书的铜锣湾书店股东“自愿”从境外偷渡到中国大陆向警方“自首”或者“配合调查”，在央视及其合作媒体上公开认罪，并宣称要放弃外国护照；以及中国警方从肯尼亚押运台湾“犯罪分子”到大陆，并让他们上央视认罪。</p>
-<p>和很多西方人想象的不同，央视从来没有满足于只对中国大陆人讲述这些“伟大的故事”。作为中共“大外宣”政策的执行者，它一直在全世界寻找合作伙伴，向全人类推销这些故事。中国政府把四分之一的人类控制起来，主宰他们的新闻和文化消费，然后用这个“巨大的市场”作为筹码，配合骚扰、威胁、拒发记者签证及网络防火墙等手段，逼迫境外媒体合作。</p>
-<p>因为贪婪或者恐惧，境外媒体对中共顺从合作并不意外；但是很多人以为推特会是最后一个。和其他不接受中共审查的媒体一样，推特早已在2009年被中共封锁。作为网络时代的自媒体代表，它被追求言论自由的中国网民称为“永不打烊的自由小酒馆”，很多人坚持“翻墙”使用。</p>
-<p><strong>帮助过滤政治敏感信息？</strong></p>
-<p>“想不到你这浓眉大眼的家伙也背叛革命了！”正如喜剧演员陈佩斯的相声名句所言，陈葵的发言令这些忠实的推特用户感到惊愕。他们并不在乎推特从未对他们表示过感激，但是也无法接受这样的冒犯和羞辱。他们表达了强烈的质疑和抗议，并在美国白宫网站联署请愿书。</p>
-<p>这还不是最黑色幽默的地方。网民搜索发现，陈葵具有可疑的中国军方和公安背景，曾担任北京冠群金辰软件公司任总经理，一家由美国网企与中国公安部合资成立的公司，其产品之一是邮件过滤。过滤什么呢？陈葵解释说：“……还有可能具有法轮功或者政治敏感信息或者不良信息，我们会有内容上的过滤。”这些产品显然令中方感到满意，陈葵获得“2004年度中国信息安全保障突出贡献奖”。</p>
-<p>随后，她又加盟疑因帮助中国政府建立网络防火墙而广受质疑的美国企业思科，出任其中国公司高级副总裁，工作任务包括“特别致力于与政府各部门及其直属机构建立良好的政府关系”。</p>
-<p>这也是一个“伟大的中国故事”：很有可能，一个曾经帮助中国政府封锁推特的人，被聘为推特的大中华区董事总经理。而她并不是中国政府的“叛徒”，而是公开宣示继续和它合作。</p>
-<p>即便如推特官方所说，陈葵目前的主要工作是拉企业广告，而不是平台建设，她的工作经历及“就职演说”让用户感到厌恶和担忧，仍然不言而喻。</p>
-<p><strong>中国政府也在努力“连接世界”</strong></p>
-<p>去年底，在巴黎为媒体同行做培训时，我为自媒体给出了自己的定义。我举例说，上世纪九十年代初，作为大学毕业后的第一份工作，我创办了一份信息杂志，自己编写内容，自己送到印刷厂印刷，自己发行，并获得经济上的成功。尽管那时还是铅字排版，但是我称它为“自媒体”。而如今中国大陆的微博、微信等被中共宣传部门严格监管的社交媒体，无论它通过多么先进的互联网和手机发布信息，也很难称它们为真正的“自媒体”。</p>
-<p>自媒体之“自”，或者说新媒体之“新”，并不在于其生产和发布技术。技术只是为它提供了更大的可能，让它能够补充及挑战精英控制的传统媒体，相对独自自主 地发布和传播信息，为普遍人提供发声的平台，而且每一个声音都可以等到更加平等的对待。脸书（Facebook）和推特在世界上大多数地方做到了这一点，成为新媒体的典范。这也正是它们被任意操控舆论的中国政府封锁的原因。</p>
-<p>只有改变其根本特性，接受中国政府的审查和控制，这些新媒体才有可能不受阻拦地进入中国大陆，成为和那里的众多网络媒体一样，以新媒体之名，行专制操控的传统媒体之实。否则，无论扎克伯格去北京街头呼吸多少被污染的空气，也无论陈葵成为推特用户的头一天就多么热烈地与新华社及央视拥抱，除了让现有用户感到不安及受辱之外，不会有别的收获。</p>
-<p>陈葵在推特上用中英文贴出传统“中国结”，表达“连接你我”的意思。“连接世界”也是扎克伯格的口头禅。且不说一边宣扬“连接”一边讨好封锁信息的专制政权有多么虚伪，这种低级的心灵鸡汤还掩盖了如下事实：中国政府一边封锁信息，一边也在努力连接世界，孜孜不倦地向全人类“讲述伟大的中国故事”。因此，如果这心灵鸡汤不想骗人的话，只讲“连接世界”这一方面是不够的。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A%E6%8E%A8%EF%BC%81%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">推特中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">西方价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%91%B5/?category=18271" rel="tag">陈葵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -636,7 +643,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -646,5 +653,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

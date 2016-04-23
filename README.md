@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-10%E5%90%8D%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E5%8D%AB%E8%AE%A1%E5%A7%94%E8%AF%B7%E6%84%BF%E8%A2%AB%E6%8B%98/" target="cdt-mirror">自由亚洲 | 10名疫苗受害者家长卫计委请愿被拘</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-%E4%B8%8A%E5%8D%8811.34.38.png?resize=515%2C439" alt="Screen Shot 2016-04-23 at 上午11.34.38" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-上午11.34.38.png?resize=300%2C256 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-上午11.34.38.png?w=515 515w" sizes="(max-width: 515px) 100vw, 515px" data-recalc-dims="1"><br><span>疫苗致残儿童家长北京请愿被捕。（家长提供/记者乔龙）</span></p>
+<p>中国各地问题疫苗受害儿童家长孙燕、金玲、刘立军、易文龙、谢艳梅等十人，4月22日在北京国家卫生和计划生育委员会门前请愿，但诉求不获理睬反遭殴打。有家长因情绪激动将栅栏门推出轨道，被公安抓到北太平庄派出所羁押，据悉目前已遭刑事拘留。</p>
+<p>4月上旬刚获释的多位疫苗患儿家长，22日在北京请愿时，再度被公安抓走。其中一位家长熊女士23日告诉自由亚洲电台，被捕者已经被刑事拘留：“我们一行四十人去国家卫计委那边维权，不知道他们怎么回事，跟保安员起冲突，家长情绪有一点过激，推了那个门，其实推门也没什么，但是后来不知怎么警察就动手抓人”。</p>
+<p>记者：我听说抓了11人？</p>
+<p>回答：抓了10个家长，1个记者。记者在下午询问之后就放了。</p>
+<p>记者：现在有没有进一步消息？</p>
+<p>回答：应该是刑事拘留。</p>
+<p>据博讯新闻网4月22日报道，疫苗受害家长孙燕、金玲、刘立军、易文龙、谢艳梅等十多人，当天在北京国家卫生和计划生育委员会门前请愿疫苗立法，但遭到警察镇压。现场至少有11人被带走。据疫苗受害者家长称，在请愿期间，有家长在卫计委门前哭喊要见习近平，讨还孩子。警察约在中午12点抵达现场。由于疫苗受害家长距离卫计委门前的电动推拉门过近，疑因推搡导致推拉门出轨。警方随即将4名男性和7名女性家长带往北太平庄派出所。</p>
+<p>熊女士还说：“昨天他们被抓进去之后，我们所有的家属都去了北太平庄派出所，家属一直在那里等到晚上七点多，然后看着他们被戴着手铐，上了警车（去看守所）”。</p>
+<p>3月12日，山东、河北、山西、四川、安徽及黑龙江等地的疫苗受害儿童的家长易文龙、金玲等6人，向公众展示《恶魔选中的家庭——新疆8岁儿童接种疫苗致瘫》一文，被以“涉嫌寻衅滋事罪”刑拘30天，直至4月12日被以“取保候审”释放。</p>
+<p>熊女士说，她前一天在卫计委门前险些被保安员殴打：“我们站在卫计委门口时，我和孙燕站在一起，卫计委一个年纪很大、有点胖、戴眼镜的人出来，指着我们的鼻子骂。他骂的时候，我说你千万不要再指我，有话好好说，他就一巴掌打过来，我被后面的小保安拉开了，没有打到我”。</p>
+<p>深圳疫苗致残儿童家长王良清对政府不但不解决患儿的生存问题，反而抓家长表示愤怒，她说：“前几天就有人被打，昨天就有点激动。把铁门推坏了，我们赔偿。我们的孩子被疫苗打坏了，为什么不管？我们赔你的门，你赔我们的孩子吗？孩子都这样了，大家都不管，情绪肯定有点激动，但是也没有做出什么太过分的事情。前几天，我们的家长也被他们里面的人打了，那为什么他们不负责任”？</p>
+<p>4月18日，70多多位家长就疫苗事件要求当局立案及信息公开，北京第一中级法院接受家长立案，未来数日，家长到位于西直门卫计委信访办请愿，但无人理会。4月14日，上百名问题疫苗受害者家长，原计划于上午在北京天安门和长安街一带依法举行集会、游行及“示弱活动”，但被公安阻止。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-10%E5%90%8D%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E5%8D%AB%E8%AE%A1%E5%A7%94%E8%AF%B7%E6%84%BF%E8%A2%AB%E6%8B%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%AB%E8%AE%A1%E5%A7%94/?category=18271" rel="tag">卫计委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">疫苗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%90%A2%E7%A3%A8%E5%85%88%E7%94%9F%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%A4%E4%BC%97%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【CDTV】琢磨先生：这届群众不行</a>
 </h2>
 <p><p>作者：琢磨先生，本名郭城，新浪微博签约自媒体、作家、自由培训师</p>
@@ -559,30 +582,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/" target="cdt-mirror">自由亚洲｜《明报》执行总编辑遭解雇 疑涉报道巴拿马文件肇祸</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg" rel="attachment wp-att-435619"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?resize=585%2C329" alt="《明报》总编辑钟天祥(右)以节省资源为由，即时解雇执行总编姜国元(左)。(苹果日报)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1f92c771-3461-4060-a4d2-80b2ac5dced9.jpeg?w=622 622w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p>《明报》总编辑钟天祥(右)以节省资源为由，即时解雇执行总编姜国元(左)。(苹果日报)</p></div>
-<p>香港明报执行总编辑、知名媒体人姜国元（笔名安裕），4月20日突遭解雇。明报职工协会对此极为愤怒，认为公司表面上以节减资源为由，实际是对在新闻编采上有不同意见的人员作出惩处。有人怀疑，姜国元被炒与明报报道了巴拿马文件揭露的香港富豪和政要成立离岸公司有关。</p>
-<p>香港《明报》职工协会4月20日中午在社交网站脸书发表声明指，总编辑钟天祥以节省资源为由，在凌晨突然解雇执行总编辑姜国元（笔名安裕），即时生效。明报员工协会对事件表示极度愤怒及不满，指事件不明不白，质疑公司表面以节减资源为由，实际是对新闻编采上有不同意见的人员，作出惩处。明报职工协会4月20日晚6时举行员工大会，邀请员工出席，要求管理层及总编辑，直接与同事对话及交代事件。</p>
-<p>明报公关部的一名职员向记者表示：“晚上的会是员工协会自己开的会。”</p>
-<p>记者：“姜国元先生是不是立即就离开了？”</p>
-<p>明报公关部职员：“姜先生已经离职了。”</p>
-<p>明报网站当天刊出声明，指由于经营环境困难，公司需积极采取节流紧缩政策，称“是次裁减涉及业务和编采部门人员，当中包括高层人员。”</p>
-<p>自巴拿马文件事件曝光后，《明报》、《香港01》及《壹周刊》三家媒体，分别与国际调查记者同盟接触，获得“巴拿马文件”中部份与香港有关的资料。《明报》自4月19日晚起陆续在即时新闻网站揭露文件中显示的香港富豪和政要成立的离岸公司，4月20日，《明报》也以此作头版。有人怀疑，姜国元被炒与这些报道有关。</p>
-<p>但据《立场新闻》引述知情的《明报》编采部人士称，姜国元被解雇与该报巴拿马文件报道应无关，但肯定是因为保守的总编辑钟天祥，不满姜国元长期以来处理敏感新闻的手法，而非节省资源。另两名知情的《明报》编采部人员，也向《立场新闻》证实，钟天祥一直以来取态保守，唯恐得罪权贵、中共和香港政府，与姜国元多次意见不合，长期累积矛盾。此外，也有人透露，姜国元近年在六四集会、七一游行等报道上，多次与钟天祥抗衡。</p>
-<p>国际记者联合会亚太区负责人、香港记者协会前主席胡丽云表示，事件确实有很多疑问：“明报说出来的原因就是说财政不好，所以减少一些人，不单只是执行总编，还有其他的人被解雇。当然这个原因可能是真的，但是我们觉得现在的经济环境不好不仅仅是今年发生的事情，其实去年开始就已经出现了，现在这个决定是要求他当天就离开，如果说是因为钱不够或者是减少开支的问题，那干嘛就是要这个人当天就离开？所以我们就觉得当中有很多不明不白，也有一些很多的怀疑留下漏洞，明报应该跟香港民众或是媒体人，特别是他们自己的员工有一个非常清楚的交代。”</p>
-<p>据了解，姜国元是资深传媒人，在《明报》编采部管理层当中，属敢言的一位。2014年，《明报》委任被指亲北京的马来西亚报人钟天祥“空降”任总编辑，当时任职执行总编辑的姜国元及助理执行总编辑陈锦强，连同各部门编采人员等逾百人，拿着不同日期出版的《明报》默站抗议。</p>
-<p>特约记者：忻霖 责编：石山/ 吴晶</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%8A%A5/?category=18271" rel="tag">明报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%8A%A5%E6%8D%A2%E6%80%BB%E7%BC%96%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">明报换总编事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -594,7 +593,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -604,5 +603,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

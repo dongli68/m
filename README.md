@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-10%E5%90%8D%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E5%8D%AB%E8%AE%A1%E5%A7%94%E8%AF%B7%E6%84%BF%E8%A2%AB%E6%8B%98/" target="cdt-mirror">自由亚洲 | 10名疫苗受害者家长卫计委请愿被拘</a>
@@ -45,7 +45,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%AB%E8%AE%A1%E5%A7%94/?category=18271" rel="tag">卫计委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">疫苗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%90%A2%E7%A3%A8%E5%85%88%E7%94%9F%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%A4%E4%BC%97%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【CDTV】琢磨先生：这届群众不行</a>
 </h2>
@@ -593,7 +593,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -603,5 +603,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
